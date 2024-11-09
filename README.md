@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [Choose wisely your partner](http://9gag.com/gag/a7oWrAw)
+ - 😝 [Bloated Cow can&#39;t pass gas so gets a helping hand!](http://9gag.com/gag/amovYYd)
+ - 💣 [A good man](http://9gag.com/gag/aAyexeL)
  - 😝 [They Reached Japan, Pakistani Mozlem immigrants](http://9gag.com/gag/aKG7j91)
- - 😝 [White liberal women](http://9gag.com/gag/aqyn1Yj)
- - 💣 [Orangeman are much more respectable.](http://9gag.com/gag/aGydD8n)
- - 😝 [Dont put molten slag in water please...](http://9gag.com/gag/a4P373v)
- - 👉 [People are afraid](http://9gag.com/gag/a6ZK7Wq)<!-- MEMES:END -->
+ - 👉 [White liberal women](http://9gag.com/gag/aqyn1Yj)<!-- MEMES:END -->
 
 ---
 

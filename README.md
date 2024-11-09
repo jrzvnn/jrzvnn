@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Netflix&#39;s Arcane Season 2 Opens With Shifting Alliances and Bad Blood](https://www.cnet.com/tech/services-and-software/netflixs-arcane-season-2-opens-with-shifting-alliances-and-bad-blood/#ftag=CAD590a51e)
+ - [My Favorite Keyboard Packs a Punch That Rivals Apple&#39;s Magic Keyboard.](https://www.cnet.com/tech/computing/my-favorite-keyboard-packs-a-punch-that-rivals-apples-magic-keyboard/#ftag=CAD590a51e)
  - [The 2024 US election cycle showed how crypto has turned out to be a practically perfect special interest group for an era of unlimited corporate spending &lpar;Zeke Faux/Bloomberg&rpar;](http://www.techmeme.com/241109/p6#a241109p6)
  - [Ethereum Foundation financial report: $970.2M in treasury as of Oct. 31, down from $1.6B in March 2022; ~80% of holdings in ETH, which declined 20%+ since 2022 &lpar;Margaux Nijkerk/CoinDesk&rpar;](http://www.techmeme.com/241109/p5#a241109p5)
- - [Tencent partners with Visa to launch a palm biometric authentication payment service at stores and restaurants in Singapore, its first expansion outside China &lpar;Nikkei Asia&rpar;](http://www.techmeme.com/241109/p4#a241109p4)
- - [Source: AI coding assistant startup Anysphere has received unsolicited offers valuing the company at as much as $2.5B from Benchmark, Index, a16z, and others &lpar;Marina Temkin/TechCrunch&rpar;](http://www.techmeme.com/241109/p3#a241109p3)
- - [Today&#39;s NYT Mini Crossword Answers for Saturday, Nov. 9](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-saturday-nov-9/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Tencent partners with Visa to launch a palm biometric authentication payment service at stores and restaurants in Singapore, its first expansion outside China &lpar;Nikkei Asia&rpar;](http://www.techmeme.com/241109/p4#a241109p4)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

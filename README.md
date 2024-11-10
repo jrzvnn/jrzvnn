@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Very difficult question to answer](http://9gag.com/gag/aRB73Ey)
- - 😝 [House in Arlington, Virginia explodes after police approached it with a search warrant](http://9gag.com/gag/aO87BeN)
- - 💣 [What&#39;s Up, Everybody!](http://9gag.com/gag/awyBQzB)
+ - 😝 [One thing is not like the other](http://9gag.com/gag/ajP9EA0)
  - 😝 [The guy behind taking notes](http://9gag.com/gag/a87G5dQ)
- - 👉 [Power of friendship](http://9gag.com/gag/aVvwM6M)<!-- MEMES:END -->
+ - 💣 [What&#39;s Up, Everybody!](http://9gag.com/gag/awyBQzB)
+ - 😝 [Power of friendship](http://9gag.com/gag/aVvwM6M)
+ - 👉 [A $500k McLaren destroyed and totaled](http://9gag.com/gag/adBVLGM)<!-- MEMES:END -->
 
 ---
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Best Places to Buy Contact Lenses Online for 2024](https://www.cnet.com/health/personal-care/best-place-to-buy-contacts-online/#ftag=CAD590a51e)
- - [Best Internet Providers in Carson, California](https://www.cnet.com/home/internet/best-internet-providers-in-carson-ca/#ftag=CAD590a51e)
- - [Amazon tests mixing and matching its grocery operations](https://www.theverge.com/2024/11/10/24292844/amazon-testing-new-grocery-formats-whole-foods-fresh-one-stop-shopping)
- - [An interview with Mozilla interim CEO Laura Chambers about Firefox&#39;s 20th birthday, growth due to the EU&#39;s DMA, privacy, the Google search deal, AI, and more &lpar;Frederic Lardinois/TechCrunch&rpar;](http://www.techmeme.com/241110/p9#a241110p9)
- - [Apple starts supplying replacement parts for iPhone 16 repairs](https://appleinsider.com/articles/24/11/10/apple-starts-supplying-replacement-parts-for-iphone-16-repairs?utm_medium=rss)<!-- TECH:END -->
+ - [Best Internet Providers in Durham, North Carolina](https://www.cnet.com/home/internet/best-internet-providers-in-durham-nc/#ftag=CAD590a51e)
+ - [Which Decongestants Are Effective? Why the FDA Wants to Pull a Popular Medicine Ingredient](https://www.cnet.com/health/medical/which-decongestants-are-effective-why-the-fda-wants-to-pull-a-popular-medicine-ingredient/#ftag=CAD590a51e)
+ - [Best iPhone 15 Deals: Score Apple’s Previous-Gen Phone at Major Discounts](https://www.cnet.com/deals/best-iphone-15-deals/#ftag=CAD590a51e)
+ - [Best Internet Providers in Chula Vista, California](https://www.cnet.com/home/internet/best-internet-providers-in-chula-vista-ca/#ftag=CAD590a51e)
+ - [Best Places to Buy Contact Lenses Online for 2024](https://www.cnet.com/health/personal-care/best-place-to-buy-contacts-online/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

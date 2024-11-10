@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Andor’s second season hits Disney Plus in April](https://www.theverge.com/2024/11/10/24292683/star-wars-andor-season-2-release-date-april-2025-disney-plus)
  - [Intel&#39;s Robert Hallock admits &quot;our wounds with Arrow Lake not hitting the performance we projected were self-inflicted&quot; and promises fixes for performance gains &lpar;Zak Killian/HotHardware&rpar;](http://www.techmeme.com/241110/p5#a241110p5)
  - [11 Best Android Phones of 2024, Tested and Reviewed](https://www.wired.com/gallery/best-android-phones/)
  - [Auto-Tune always and forever](https://www.theverge.com/2024/11/10/24291307/auto-tune-plugin-culture-music-vergecast)
- - [Apple Vision Pro 2 with M5 chip likely to arrive before budget models](https://appleinsider.com/articles/24/11/10/apple-vision-pro-2-with-m5-chip-likely-to-arrive-before-budget-models?utm_medium=rss)
- - [27 Great Gifts for Mom: Ideas for the Best Mother &lpar;2024&rpar;](https://www.wired.com/gallery/gifts-for-moms/)<!-- TECH:END -->
+ - [Best Internet Providers in Brooklyn, New York](https://www.cnet.com/home/internet/best-internet-providers-in-brooklyn-ny/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -167,10 +167,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [No appointment, no an*l](http://9gag.com/gag/aNDgA14)
- - 😝 [One thing is not like the other](http://9gag.com/gag/ajP9EA0)
- - 💣 [Floorman working a drill rig](http://9gag.com/gag/a0eNQ5v)
- - 😝 [Installing a new kitchen countertop](http://9gag.com/gag/aQzd9Q8)
- - 👉 [Biden was the inside guy all along... Him and Trump going for lunch... Seriously look it up](http://9gag.com/gag/apRG2WD)<!-- MEMES:END -->
+ - 😝 [What&#39;s Up, Everybody!](http://9gag.com/gag/awyBQzB)
+ - 💣 [One thing is not like the other](http://9gag.com/gag/ajP9EA0)
+ - 😝 [Biden was the inside guy all along... Him and Trump going for lunch... Seriously look it up](http://9gag.com/gag/apRG2WD)
+ - 👉 [Installing a new kitchen countertop](http://9gag.com/gag/aQzd9Q8)<!-- MEMES:END -->
 
 ---
 

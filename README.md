@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Comrade Cart will follow you unless you put your cart back in the proper place. Nyet!](http://9gag.com/gag/axy97NW)
+ - 😝 [Best i can do is showing up](http://9gag.com/gag/avyzo3q)
  - 😝 [Anyone who works in the movie industry should start to worry](http://9gag.com/gag/aE0Pxqp)
  - 💣 [A good man](http://9gag.com/gag/aAyexeL)
- - 😝 [Blasian now](http://9gag.com/gag/a2vWRPp)
- - 👉 [NNN](http://9gag.com/gag/aW4xER4)<!-- MEMES:END -->
+ - 😝 [NNN](http://9gag.com/gag/aW4xER4)
+ - 👉 [Blasian now](http://9gag.com/gag/a2vWRPp)<!-- MEMES:END -->
 
 ---
 

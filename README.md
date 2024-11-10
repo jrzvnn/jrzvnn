@@ -158,10 +158,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- TECH:START -->
  - [16 WIRED-Tested Gifts for People Who Need Some Sleep &lpar;2024&rpar;](https://www.wired.com/gallery/gift-ideas-for-sleeping/)
- - [Microplastics Could Be Making the Weather Worse](https://www.wired.com/story/microplastics-promote-cloud-formation-with-likely-effects-on-weather-and-climate/)
- - [Chill games for a chill weekend](https://www.theverge.com/2024/11/10/24291418/stardew-valley-mario-luigi-brothership-heretic-installer)
- - [Spotify’s AI is no match for a real DJ](https://www.theverge.com/24290914/spotify-ai-dj-radio-kexp)
- - [Get the Most Out of Your Carry-On Bag: What to Bring and How to Pack It](https://www.cnet.com/how-to/get-the-most-out-of-your-carry-on-bag-what-to-bring-and-how-to-pack-it/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Premier League Soccer: Livestream Nottingham Forest vs. Newcastle From Anywhere](https://www.cnet.com/tech/services-and-software/premier-league-soccer-livestream-nottingham-forest-vs-newcastle-from-anywhere/#ftag=CAD590a51e)
+ - [Premier League Soccer: Livestream Tottenham vs. Ipswich From Anywhere](https://www.cnet.com/tech/services-and-software/premier-league-soccer-livestream-tottenham-vs-ipswich-from-anywhere/#ftag=CAD590a51e)
+ - [Apple Intelligence Features Like ChatGPT Hit iPhones in iOS 18.2 Beta](https://www.cnet.com/tech/mobile/apple-intelligence-features-like-chatgpt-hit-iphones-in-ios-18-2-beta/#ftag=CAD590a51e)
+ - [I&#39;ve Been Using Apple Intelligence for Weeks, and One Feature Stands Out](https://www.cnet.com/tech/mobile/ive-been-using-apple-intelligence-for-weeks-and-one-feature-stands-out/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

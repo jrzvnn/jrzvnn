@@ -158,10 +158,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- TECH:START -->
  - [San Francisco&#39;s next mayor, Dan Lurie, a Levi&#39;s heir with no political experience, wasn&#39;t tech leaders&#39; top choice but is a moderate who aims to work with them &lpar;Newcomer&rpar;](http://www.techmeme.com/241109/p15#a241109p15)
+ - [Today&#39;s NYT Mini Crossword Answers for Sunday, Nov. 10](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-sunday-nov-10/#ftag=CAD590a51e)
  - [Source: the US ordered TSMC to halt shipments of AI chips, of 7nm or more advanced designs, to Chinese customers starting on November 11 &lpar;Reuters&rpar;](http://www.techmeme.com/241109/p14#a241109p14)
- - [Best Solar Panel Installation Companies in Sacramento](https://www.cnet.com/home/energy-and-utilities/best-solar-panel-installation-companies-in-sacramento/#ftag=CAD590a51e)
- - [Best Internet Providers in Amarillo, Texas](https://www.cnet.com/home/internet/best-internet-providers-in-amarillo-tx/#ftag=CAD590a51e)
- - [Deter Thieves for Under $10 With This Smart Home Trick](https://www.cnet.com/home/smart-home/deter-thieves-for-under-10-with-this-smart-home-trick/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Today&#39;s NYT Connections: Sports Edition Hints and Answers for Nov. 10, #48](https://www.cnet.com/tech/gaming/todays-nyt-connections-sports-edition-hints-and-answers-for-nov-10-48/#ftag=CAD590a51e)
+ - [Today&#39;s NYT Strands Hints, Answers and Help for Nov. 10, #252](https://www.cnet.com/tech/gaming/todays-nyt-strands-hints-answers-and-help-for-nov-10-252/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

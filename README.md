@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [One thing is not like the other](http://9gag.com/gag/ajP9EA0)
- - 😝 [Power of friendship](http://9gag.com/gag/aVvwM6M)
- - 💣 [The guy behind taking notes](http://9gag.com/gag/a87G5dQ)
- - 😝 [That chin](http://9gag.com/gag/aE0PgBn)
- - 👉 [A $500k McLaren destroyed and totaled](http://9gag.com/gag/adBVLGM)<!-- MEMES:END -->
+ - 😝 [Comrade Cart will follow you unless you put your cart back in the proper place. Nyet!](http://9gag.com/gag/axy97NW)
+ - 😝 [NNN](http://9gag.com/gag/aW4xER4)
+ - 💣 [Anyone who works in the movie industry should start to worry](http://9gag.com/gag/aE0Pxqp)
+ - 😝 [A good man](http://9gag.com/gag/aAyexeL)
+ - 👉 [Blasian now](http://9gag.com/gag/a2vWRPp)<!-- MEMES:END -->
 
 ---
 

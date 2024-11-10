@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [First Foot Pictures Are Expensive Nowadays. Second My Eyes Are Up Here.](http://9gag.com/gag/ae9DMDB)
+ - 😝 [The guy behind taking notes](http://9gag.com/gag/a87G5dQ)
+ - 💣 [House in Arlington, Virginia explodes after police approached it with a search warrant](http://9gag.com/gag/aO87BeN)
  - 😝 [That chin](http://9gag.com/gag/aE0PgBn)
- - 😝 [Biden was the inside guy all along... Him and Trump going for lunch... Seriously look it up](http://9gag.com/gag/apRG2WD)
- - 💣 [Floorman working a drill rig](http://9gag.com/gag/a0eNQ5v)
- - 😝 [A $500k McLaren destroyed and totaled](http://9gag.com/gag/adBVLGM)
- - 👉 [The guy behind taking notes](http://9gag.com/gag/a87G5dQ)<!-- MEMES:END -->
+ - 👉 [Power of friendship](http://9gag.com/gag/aVvwM6M)<!-- MEMES:END -->
 
 ---
 

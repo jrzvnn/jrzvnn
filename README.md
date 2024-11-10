@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [Give this women a cookie, i salute you](http://9gag.com/gag/aXPgxGv)
  - 😝 [Your first day at work, you meet the client and have no clue what you are doing](http://9gag.com/gag/aZZy7NQ)
- - 😝 [Floorman working a drill rig](http://9gag.com/gag/a0eNQ5v)
- - 💣 [How many people actually use Brave?](http://9gag.com/gag/aVvwwBv)
- - 😝 [Busted](http://9gag.com/gag/aE0PPQK)
- - 👉 [Power of friendship](http://9gag.com/gag/aVvwM6M)<!-- MEMES:END -->
+ - 💣 [When they run out of money for the movie ending](http://9gag.com/gag/aXPggq2)
+ - 😝 [What&#39;s happening to Europe.](http://9gag.com/gag/aLnwwb5)
+ - 👉 [Best i can do is showing up](http://9gag.com/gag/avyzo3q)<!-- MEMES:END -->
 
 ---
 

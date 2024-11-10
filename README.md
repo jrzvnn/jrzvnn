@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Amazon’s tests mixing and matching its grocery operations](https://www.theverge.com/2024/11/10/24292844/amazon-testing-new-grocery-formats-whole-foods-fresh-one-stop-shopping)
+ - [Amazon tests mixing and matching its grocery operations](https://www.theverge.com/2024/11/10/24292844/amazon-testing-new-grocery-formats-whole-foods-fresh-one-stop-shopping)
  - [An interview with Mozilla interim CEO Laura Chambers about Firefox&#39;s 20th birthday, growth due to EU&#39;s DMA, focus on privacy, Google search deal, AI, and more &lpar;Frederic Lardinois/TechCrunch&rpar;](http://www.techmeme.com/241110/p9#a241110p9)
  - [Apple starts supplying replacement parts for iPhone 16 repairs](https://appleinsider.com/articles/24/11/10/apple-starts-supplying-replacement-parts-for-iphone-16-repairs?utm_medium=rss)
- - [Eagles vs. Cowboys: How to Watch NFL Week 10 Online Today](https://www.cnet.com/tech/services-and-software/eagles-vs-cowboys-how-to-watch-nfl-week-10-online-today/#ftag=CAD590a51e)
- - [Jets vs. Cardinals: How to Watch NFL Week 10 Online Today](https://www.cnet.com/tech/services-and-software/jets-vs-cardinals-how-to-watch-nfl-week-10-online-today/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Prime Video: The 33 Absolute Best TV Shows to Watch](https://www.cnet.com/tech/services-and-software/best-tv-series-on-prime-video-november-2024/#ftag=CAD590a51e)
+ - [Best Internet Providers in Columbus, Ohio](https://www.cnet.com/home/internet/best-internet-providers-in-columbus-oh/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

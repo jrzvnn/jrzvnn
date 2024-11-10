@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [House in Arlington, Virginia explodes after police approached it with a search warrant](http://9gag.com/gag/aO87BeN)
- - 😝 [Looks like a win, win scenario](http://9gag.com/gag/aD24zKZ)
- - 💣 [They Reached Japan, Pakistani Mozlem immigrants](http://9gag.com/gag/aKG7j91)
- - 😝 [Installing a new kitchen countertop](http://9gag.com/gag/aQzd9Q8)
- - 👉 [Paycheck is paycheck](http://9gag.com/gag/abAGMAE)<!-- MEMES:END -->
+ - 😝 [Comrade Cart will follow you unless you put your cart back in the proper place. Nyet!](http://9gag.com/gag/axy97NW)
+ - 😝 [Men.](http://9gag.com/gag/avyzOjd)
+ - 💣 [Looks like a win, win scenario](http://9gag.com/gag/aD24zKZ)
+ - 😝 [Blasian now](http://9gag.com/gag/a2vWRPp)
+ - 👉 [Your first day at work, you meet the client and have no clue what you are doing](http://9gag.com/gag/aZZy7NQ)<!-- MEMES:END -->
 
 ---
 

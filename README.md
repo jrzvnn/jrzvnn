@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [They Reached Japan, Pakistani Mozlem immigrants](http://9gag.com/gag/aKG7j91)
- - 😝 [Once in a lifetime shot?](http://9gag.com/gag/an74Mrq)
- - 💣 [Error in exception handler](http://9gag.com/gag/amovBWV)
- - 😝 [It&#39;s been two days, Jesus...](http://9gag.com/gag/aQzdRNd)
- - 👉 [Looks like a win, win scenario](http://9gag.com/gag/aD24zKZ)<!-- MEMES:END -->
+ - 😝 [No appointment, no an*l](http://9gag.com/gag/aNDgA14)
+ - 😝 [One thing is not like the other](http://9gag.com/gag/ajP9EA0)
+ - 💣 [Floorman working a drill rig](http://9gag.com/gag/a0eNQ5v)
+ - 😝 [Installing a new kitchen countertop](http://9gag.com/gag/aQzd9Q8)
+ - 👉 [Biden was the inside guy all along... Him and Trump going for lunch... Seriously look it up](http://9gag.com/gag/apRG2WD)<!-- MEMES:END -->
 
 ---
 

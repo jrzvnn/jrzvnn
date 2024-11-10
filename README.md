@@ -158,10 +158,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- TECH:START -->
  - [Apple now sells iPhone 16 and 16 Pro repair parts](https://www.theverge.com/2024/11/10/24292775/apple-iphone-16-pro-max-plus-repair-parts-diy-self-service)
- - [Gurman: the second generation Apple Vision Pro may arrive between the fall of 2025 and spring of 2026 and could feature a chip from the M5 generation &lpar;Michael Burkhardt/9to5Mac&rpar;](http://www.techmeme.com/241110/p8#a241110p8)
- - [Best Internet Providers in Carmel, Indiana](https://www.cnet.com/home/internet/best-internet-providers-in-carmel-in/#ftag=CAD590a51e)
- - [Threads becoming inundated with liberal election fraud conspiracies highlights a shift towards a &quot;post-truth&quot; online landscape across the political spectrum &lpar;Taylor Lorenz/User Mag&rpar;](http://www.techmeme.com/241110/p7#a241110p7)
- - [Apple&#39;s future growth may come from several new Watch- or iPad-level businesses; visionOS 2.2 ultrawide Mac display option may be Vision Pro&#39;s first killer app &lpar;Mark Gurman/Bloomberg&rpar;](http://www.techmeme.com/241110/p6#a241110p6)<!-- TECH:END -->
+ - [La Liga Soccer Livestream: How to Watch Real Sociedad vs. Barcelona From Anywhere](https://www.cnet.com/tech/services-and-software/la-liga-soccer-livestream-how-to-watch-real-sociedad-vs-barcelona-from-anywhere/#ftag=CAD590a51e)
+ - [&#39;Yellowstone&#39; Season 5, Part 2 Premieres Tonight: Here&#39;s How to Watch Without Cable](https://www.cnet.com/tech/services-and-software/yellowstone-season-5-part-2-how-to-watch-without-cable/#ftag=CAD590a51e)
+ - [Will Giving Gifts Be More Expensive in 2024? The Postal Service Says Yes, Here&#39;s Why](https://www.cnet.com/personal-finance/will-giving-gifts-be-more-expensive-in-2024-the-postal-service-says-yes-heres-why/#ftag=CAD590a51e)
+ - [Gurman: the second generation Apple Vision Pro may arrive between the fall of 2025 and spring of 2026 and could feature a chip from the M5 generation &lpar;Michael Burkhardt/9to5Mac&rpar;](http://www.techmeme.com/241110/p8#a241110p8)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

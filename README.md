@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [First Foot Pictures Are Expensive Nowadays. Second My Eyes Are Up Here.](http://9gag.com/gag/ae9DMDB)
+ - 😝 [A 74-year-old man in Florida pulled his puppy out of an alligator&#39;s mouth](http://9gag.com/gag/awyBQD1)
+ - 😝 [Biden was the inside guy all along... Him and Trump going for lunch... Seriously look it up](http://9gag.com/gag/apRG2WD)
+ - 💣 [Installing a new kitchen countertop](http://9gag.com/gag/aQzd9Q8)
  - 😝 [They Reached Japan, Pakistani Mozlem immigrants](http://9gag.com/gag/aKG7j91)
- - 💣 [Looks like a win, win scenario](http://9gag.com/gag/aD24zKZ)
- - 😝 [Once in a lifetime shot?](http://9gag.com/gag/an74Mrq)
- - 👉 [Men.](http://9gag.com/gag/avyzOjd)<!-- MEMES:END -->
+ - 👉 [No appointment, no an*l](http://9gag.com/gag/aNDgA14)<!-- MEMES:END -->
 
 ---
 

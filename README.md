@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [You think if they have kids he would ask for a DNA test just in case?](http://9gag.com/gag/aZZymZ6)
+ - 😝 [Floorman working a drill rig](http://9gag.com/gag/a0eNQ5v)
  - 😝 [Installing a new kitchen countertop](http://9gag.com/gag/aQzd9Q8)
- - 💣 [What is her name?](http://9gag.com/gag/avyz7KW)
- - 😝 [Very difficult question to answer](http://9gag.com/gag/aRB73Ey)
- - 👉 [Power of friendship](http://9gag.com/gag/aVvwM6M)<!-- MEMES:END -->
+ - 💣 [Very difficult question to answer](http://9gag.com/gag/aRB73Ey)
+ - 😝 [What&#39;s Up, Everybody!](http://9gag.com/gag/awyBQzB)
+ - 👉 [What is her name?](http://9gag.com/gag/avyz7KW)<!-- MEMES:END -->
 
 ---
 

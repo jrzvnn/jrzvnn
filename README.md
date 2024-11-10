@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Get the Most Out of Your Carry-On Bag: What to Bring and How to Pack It](https://www.cnet.com/how-to/get-the-most-out-of-your-carry-on-bag-what-to-bring-and-how-to-pack-it/#ftag=CAD590a51e)
+ - [The iPhone 16 Camera Control Is About to Get Better in iOS 18.2. Here&#39;s All It Can Do](https://www.cnet.com/tech/mobile/the-iphone-16-camera-control-is-about-to-get-better-in-ios-18-2-heres-all-it-can-do/#ftag=CAD590a51e)
+ - [Photo Fix Strategies Using the Apple Intelligence Clean Up Tool](https://www.cnet.com/tech/services-and-software/photo-fix-strategies-using-the-apple-intelligence-clean-up-tool/#ftag=CAD590a51e)
  - [A painting depicting Alan Turing as the god of AI, which was created by an AI-powered humanoid robot called Ai-Da, sold at a Sotheby&#39;s auction for nearly $1.1M &lpar;Zachary Small/New York Times&rpar;](http://www.techmeme.com/241110/p4#a241110p4)
- - [The Incredible Power of Quantum Memory](https://www.wired.com/story/quantum-memory-proves-exponentially-powerful/)
- - [Premier League Soccer: Livestream Man United vs. Leicester City From Anywhere](https://www.cnet.com/tech/services-and-software/premier-league-soccer-livestream-man-united-vs-leicester-city-from-anywhere/#ftag=CAD590a51e)
- - [iOS 18.2 Public Beta 1 Brings More Apple Intelligence to Some iPhones](https://www.cnet.com/tech/services-and-software/ios-18-2-public-beta-1-brings-more-apple-intelligence-to-some-iphones/#ftag=CAD590a51e)
- - [A Popular Decongestant Doesn’t Work. The FDA Is Finally Doing Something About It](https://www.wired.com/story/fda-sudafed-phenylephrine-nasal-congestion-removal/)<!-- TECH:END -->
+ - [How to Take a Screenshot on an iPhone or Android Phone](https://www.cnet.com/tech/mobile/how-to-take-a-screenshot-on-an-iphone-or-android-phone/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

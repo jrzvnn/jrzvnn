@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Once in a lifetime shot?](http://9gag.com/gag/an74Mrq)
- - 😝 [First Foot Pictures Are Expensive Nowadays. Second My Eyes Are Up Here.](http://9gag.com/gag/ae9DMDB)
- - 💣 [He has potential to be a funny stand-up comedian. He roasted everybody in one speech.](http://9gag.com/gag/azxm8Db)
- - 😝 [Headphones purchased 1 year ago brand new, I&#39;ve barely used them. Why does this always happen?](http://9gag.com/gag/aW4x1vq)
- - 👉 [Power of friendship](http://9gag.com/gag/aVvwM6M)<!-- MEMES:END -->
+ - 😝 [One thing is not like the other](http://9gag.com/gag/ajP9EA0)
+ - 😝 [Power of friendship](http://9gag.com/gag/aVvwM6M)
+ - 💣 [Biden was the inside guy all along... Him and Trump going for lunch... Seriously look it up](http://9gag.com/gag/apRG2WD)
+ - 😝 [Floorman working a drill rig](http://9gag.com/gag/a0eNQ5v)
+ - 👉 [Looks like a win, win scenario](http://9gag.com/gag/aD24zKZ)<!-- MEMES:END -->
 
 ---
 

@@ -167,10 +167,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [Look what you did](http://9gag.com/gag/a2vWZMZ)
- - 😝 [Paycheck is paycheck](http://9gag.com/gag/abAGMAE)
- - 💣 [That chin](http://9gag.com/gag/aE0PgBn)
- - 😝 [They Reached Japan, Pakistani Mozlem immigrants](http://9gag.com/gag/aKG7j91)
- - 👉 [Welcome to New York](http://9gag.com/gag/aqyngzL)<!-- MEMES:END -->
+ - 😝 [Floorman working a drill rig](http://9gag.com/gag/a0eNQ5v)
+ - 💣 [Paycheck is paycheck](http://9gag.com/gag/abAGMAE)
+ - 😝 [Mike Tyson runs into a man he robbed as a teenager.](http://9gag.com/gag/ae9DDVq)
+ - 👉 [They Reached Japan, Pakistani Mozlem immigrants](http://9gag.com/gag/aKG7j91)<!-- MEMES:END -->
 
 ---
 

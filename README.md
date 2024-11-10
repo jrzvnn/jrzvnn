@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Intel&#39;s Robert Hallock admits &quot;our wounds with Arrow Lake not hitting the performance we projected were self-inflicted&quot; and promises fixes for performance gains &lpar;Zak Killian/HotHardware&rpar;](http://www.techmeme.com/241110/p5#a241110p5)
+ - [11 Best Android Phones of 2024, Tested and Reviewed](https://www.wired.com/gallery/best-android-phones/)
+ - [Auto-Tune always and forever](https://www.theverge.com/2024/11/10/24291307/auto-tune-plugin-culture-music-vergecast)
  - [Apple Vision Pro 2 with M5 chip likely to arrive before budget models](https://appleinsider.com/articles/24/11/10/apple-vision-pro-2-with-m5-chip-likely-to-arrive-before-budget-models?utm_medium=rss)
- - [27 Great Gifts for Mom: Ideas for the Best Mother &lpar;2024&rpar;](https://www.wired.com/gallery/gifts-for-moms/)
- - [16 WIRED-Tested Gifts for People Who Need Some Sleep &lpar;2024&rpar;](https://www.wired.com/gallery/gift-ideas-for-sleeping/)
- - [Premier League Soccer: Livestream Nottingham Forest vs. Newcastle From Anywhere](https://www.cnet.com/tech/services-and-software/premier-league-soccer-livestream-nottingham-forest-vs-newcastle-from-anywhere/#ftag=CAD590a51e)
- - [Premier League Soccer: Livestream Tottenham vs. Ipswich From Anywhere](https://www.cnet.com/tech/services-and-software/premier-league-soccer-livestream-tottenham-vs-ipswich-from-anywhere/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [27 Great Gifts for Mom: Ideas for the Best Mother &lpar;2024&rpar;](https://www.wired.com/gallery/gifts-for-moms/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

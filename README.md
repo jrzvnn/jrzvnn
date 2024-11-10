@@ -158,10 +158,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- TECH:START -->
  - [Research finds AI disinformation amplified satire, false political narratives, and hate speech during the US elections, but did not change the minds of voters &lpar;Washington Post&rpar;](http://www.techmeme.com/241110/p3#a241110p3)
+ - [The 5 Best RV Mattresses of 2024](https://www.cnet.com/health/sleep/best-rv-mattress/#ftag=CAD590a51e)
  - [A study of 50K peer reviews for CS articles published in AI conference proceedings in 2023 and 2024: 7%-17% of the sentences in the reviews were written by LLMs &lpar;James Zou/Nature&rpar;](http://www.techmeme.com/241110/p2#a241110p2)
- - [Meta, OpenAI, Microsoft, and other AI companies create their own internal benchmarks as new models approach or exceed 90% accuracy on existing public tests &lpar;Cristina Criddle/Financial Times&rpar;](http://www.techmeme.com/241110/p1#a241110p1)
- - [Best Internet Providers in Abilene, Texas](https://www.cnet.com/home/internet/best-internet-providers-in-abilene-tx/#ftag=CAD590a51e)
- - [San Francisco&#39;s next mayor, Dan Lurie, a Levi&#39;s heir with no political experience, wasn&#39;t tech leaders&#39; top choice but is a moderate who aims to work with them &lpar;Newcomer&rpar;](http://www.techmeme.com/241109/p15#a241109p15)<!-- TECH:END -->
+ - [Best Internet Providers in Boise, Idaho](https://www.cnet.com/home/internet/best-internet-providers-in-boise-id/#ftag=CAD590a51e)
+ - [Meta, OpenAI, Microsoft, and other AI companies create their own internal benchmarks as new models approach or exceed 90% accuracy on existing public tests &lpar;Cristina Criddle/Financial Times&rpar;](http://www.techmeme.com/241110/p1#a241110p1)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

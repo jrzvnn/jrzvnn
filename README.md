@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [A Popular Decongestant Doesn’t Work. The FDA Is Finally Doing Something About It](https://www.wired.com/story/fda-sudafed-phenylephrine-nasal-congestion-removal/)
- - [Best Internet Providers in Fayetteville, North Carolina](https://www.cnet.com/home/internet/best-internet-providers-in-fayetteville-nc/#ftag=CAD590a51e)
- - [Best Solar Panel Installation Companies in Illinois](https://www.cnet.com/home/energy-and-utilities/illinois-solar-panels/#ftag=CAD590a51e)
- - [Best Internet Providers in Brownsville, Texas](https://www.cnet.com/home/internet/best-internet-providers-in-brownsville-tx/#ftag=CAD590a51e)
- - [Research finds AI disinformation amplified satire, false political narratives, and hate speech during the US elections, but did not change the minds of voters &lpar;Washington Post&rpar;](http://www.techmeme.com/241110/p3#a241110p3)<!-- TECH:END -->
+ - [A painting depicting Alan Turing as the god of AI, which was created by an AI-powered humanoid robot called Ai-Da, sold at a Sotheby&#39;s auction for nearly $1.1M &lpar;Zachary Small/New York Times&rpar;](http://www.techmeme.com/241110/p4#a241110p4)
+ - [The Incredible Power of Quantum Memory](https://www.wired.com/story/quantum-memory-proves-exponentially-powerful/)
+ - [Premier League Soccer: Livestream Man United vs. Leicester City From Anywhere](https://www.cnet.com/tech/services-and-software/premier-league-soccer-livestream-man-united-vs-leicester-city-from-anywhere/#ftag=CAD590a51e)
+ - [iOS 18.2 Public Beta 1 Brings More Apple Intelligence to Some iPhones](https://www.cnet.com/tech/services-and-software/ios-18-2-public-beta-1-brings-more-apple-intelligence-to-some-iphones/#ftag=CAD590a51e)
+ - [A Popular Decongestant Doesn’t Work. The FDA Is Finally Doing Something About It](https://www.wired.com/story/fda-sudafed-phenylephrine-nasal-congestion-removal/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

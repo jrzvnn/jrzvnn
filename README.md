@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Floorman working a drill rig](http://9gag.com/gag/a0eNQ5v)
- - 😝 [Installing a new kitchen countertop](http://9gag.com/gag/aQzd9Q8)
- - 💣 [Very difficult question to answer](http://9gag.com/gag/aRB73Ey)
+ - 😝 [Anyone who works in the movie industry should start to worry](http://9gag.com/gag/aE0Pxqp)
+ - 😝 [Choose wisely your partner](http://9gag.com/gag/a7oWrAw)
+ - 💣 [What is her name?](http://9gag.com/gag/avyz7KW)
  - 😝 [What&#39;s Up, Everybody!](http://9gag.com/gag/awyBQzB)
- - 👉 [What is her name?](http://9gag.com/gag/avyz7KW)<!-- MEMES:END -->
+ - 👉 [Paycheck is paycheck](http://9gag.com/gag/abAGMAE)<!-- MEMES:END -->
 
 ---
 

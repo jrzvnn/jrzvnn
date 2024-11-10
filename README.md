@@ -158,10 +158,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- TECH:START -->
  - [A Popular Decongestant Doesn’t Work. The FDA Is Finally Doing Something About It](https://www.wired.com/story/fda-sudafed-phenylephrine-nasal-congestion-removal/)
+ - [Best Internet Providers in Fayetteville, North Carolina](https://www.cnet.com/home/internet/best-internet-providers-in-fayetteville-nc/#ftag=CAD590a51e)
  - [Best Solar Panel Installation Companies in Illinois](https://www.cnet.com/home/energy-and-utilities/illinois-solar-panels/#ftag=CAD590a51e)
  - [Best Internet Providers in Brownsville, Texas](https://www.cnet.com/home/internet/best-internet-providers-in-brownsville-tx/#ftag=CAD590a51e)
- - [Research finds AI disinformation amplified satire, false political narratives, and hate speech during the US elections, but did not change the minds of voters &lpar;Washington Post&rpar;](http://www.techmeme.com/241110/p3#a241110p3)
- - [The 5 Best RV Mattresses of 2024](https://www.cnet.com/health/sleep/best-rv-mattress/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Research finds AI disinformation amplified satire, false political narratives, and hate speech during the US elections, but did not change the minds of voters &lpar;Washington Post&rpar;](http://www.techmeme.com/241110/p3#a241110p3)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

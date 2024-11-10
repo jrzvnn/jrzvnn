@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [They Reached Japan, Pakistani Mozlem immigrants](http://9gag.com/gag/aKG7j91)
- - 😝 [It&#39;s been two days, Jesus...](http://9gag.com/gag/aQzdRNd)
- - 💣 [Looks like a win, win scenario](http://9gag.com/gag/aD24zKZ)
- - 😝 [Once in a lifetime shot?](http://9gag.com/gag/an74Mrq)
- - 👉 [Error in exception handler](http://9gag.com/gag/amovBWV)<!-- MEMES:END -->
+ - 😝 [House in Arlington, Virginia explodes after police approached it with a search warrant](http://9gag.com/gag/aO87BeN)
+ - 😝 [No appointment, no an*l](http://9gag.com/gag/aNDgA14)
+ - 💣 [Very difficult question to answer](http://9gag.com/gag/aRB73Ey)
+ - 😝 [What is her name?](http://9gag.com/gag/avyz7KW)
+ - 👉 [They Reached Japan, Pakistani Mozlem immigrants](http://9gag.com/gag/aKG7j91)<!-- MEMES:END -->
 
 ---
 

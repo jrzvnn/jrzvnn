@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [House in Arlington, Virginia explodes after police approached it with a search warrant](http://9gag.com/gag/aO87BeN)
- - 😝 [No appointment, no an*l](http://9gag.com/gag/aNDgA14)
- - 💣 [Very difficult question to answer](http://9gag.com/gag/aRB73Ey)
- - 😝 [What is her name?](http://9gag.com/gag/avyz7KW)
- - 👉 [They Reached Japan, Pakistani Mozlem immigrants](http://9gag.com/gag/aKG7j91)<!-- MEMES:END -->
+ - 😝 [You think if they have kids he would ask for a DNA test just in case?](http://9gag.com/gag/aZZymZ6)
+ - 😝 [Installing a new kitchen countertop](http://9gag.com/gag/aQzd9Q8)
+ - 💣 [What is her name?](http://9gag.com/gag/avyz7KW)
+ - 😝 [Very difficult question to answer](http://9gag.com/gag/aRB73Ey)
+ - 👉 [Power of friendship](http://9gag.com/gag/aVvwM6M)<!-- MEMES:END -->
 
 ---
 

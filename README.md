@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Best i can do is showing up](http://9gag.com/gag/avyzo3q)
- - 😝 [Anyone who works in the movie industry should start to worry](http://9gag.com/gag/aE0Pxqp)
- - 💣 [A good man](http://9gag.com/gag/aAyexeL)
- - 😝 [NNN](http://9gag.com/gag/aW4xER4)
- - 👉 [Blasian now](http://9gag.com/gag/a2vWRPp)<!-- MEMES:END -->
+ - 😝 [House in Arlington, Virginia explodes after police approached it with a search warrant](http://9gag.com/gag/aO87BeN)
+ - 😝 [White liberal women](http://9gag.com/gag/aqyn1Yj)
+ - 💣 [That chin](http://9gag.com/gag/aE0PgBn)
+ - 😝 [Power of friendship](http://9gag.com/gag/aVvwM6M)
+ - 👉 [Paycheck is paycheck](http://9gag.com/gag/abAGMAE)<!-- MEMES:END -->
 
 ---
 

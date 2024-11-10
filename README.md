@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Combo hits](http://9gag.com/gag/a1mWbO2)
+ - 😝 [Once in a lifetime shot?](http://9gag.com/gag/an74Mrq)
  - 😝 [First Foot Pictures Are Expensive Nowadays. Second My Eyes Are Up Here.](http://9gag.com/gag/ae9DMDB)
- - 💣 [Once in a lifetime shot?](http://9gag.com/gag/an74Mrq)
- - 😝 [House in Arlington, Virginia explodes after police approached it with a search warrant](http://9gag.com/gag/aO87BeN)
- - 👉 [What&#39;s Up, Everybody!](http://9gag.com/gag/awyBQzB)<!-- MEMES:END -->
+ - 💣 [He has potential to be a funny stand-up comedian. He roasted everybody in one speech.](http://9gag.com/gag/azxm8Db)
+ - 😝 [Headphones purchased 1 year ago brand new, I&#39;ve barely used them. Why does this always happen?](http://9gag.com/gag/aW4x1vq)
+ - 👉 [Power of friendship](http://9gag.com/gag/aVvwM6M)<!-- MEMES:END -->
 
 ---
 

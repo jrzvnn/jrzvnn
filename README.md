@@ -167,9 +167,9 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [One thing is not like the other](http://9gag.com/gag/ajP9EA0)
- - 😝 [The guy behind taking notes](http://9gag.com/gag/a87G5dQ)
- - 💣 [What&#39;s Up, Everybody!](http://9gag.com/gag/awyBQzB)
  - 😝 [Power of friendship](http://9gag.com/gag/aVvwM6M)
+ - 💣 [The guy behind taking notes](http://9gag.com/gag/a87G5dQ)
+ - 😝 [That chin](http://9gag.com/gag/aE0PgBn)
  - 👉 [A $500k McLaren destroyed and totaled](http://9gag.com/gag/adBVLGM)<!-- MEMES:END -->
 
 ---

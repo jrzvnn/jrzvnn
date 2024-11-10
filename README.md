@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [16 WIRED-Tested Gifts for People Who Need Some Sleep &lpar;2024&rpar;](https://www.wired.com/gallery/gift-ideas-for-sleeping/)
  - [Microplastics Could Be Making the Weather Worse](https://www.wired.com/story/microplastics-promote-cloud-formation-with-likely-effects-on-weather-and-climate/)
  - [Chill games for a chill weekend](https://www.theverge.com/2024/11/10/24291418/stardew-valley-mario-luigi-brothership-heretic-installer)
  - [Spotify’s AI is no match for a real DJ](https://www.theverge.com/24290914/spotify-ai-dj-radio-kexp)
- - [Get the Most Out of Your Carry-On Bag: What to Bring and How to Pack It](https://www.cnet.com/how-to/get-the-most-out-of-your-carry-on-bag-what-to-bring-and-how-to-pack-it/#ftag=CAD590a51e)
- - [The iPhone 16 Camera Control Is About to Get Better in iOS 18.2. Here&#39;s All It Can Do](https://www.cnet.com/tech/mobile/the-iphone-16-camera-control-is-about-to-get-better-in-ios-18-2-heres-all-it-can-do/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Get the Most Out of Your Carry-On Bag: What to Bring and How to Pack It](https://www.cnet.com/how-to/get-the-most-out-of-your-carry-on-bag-what-to-bring-and-how-to-pack-it/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

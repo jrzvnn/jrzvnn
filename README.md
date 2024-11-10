@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [House in Arlington, Virginia explodes after police approached it with a search warrant](http://9gag.com/gag/aO87BeN)
  - 😝 [Looks like a win, win scenario](http://9gag.com/gag/aD24zKZ)
- - 😝 [They Reached Japan, Pakistani Mozlem immigrants](http://9gag.com/gag/aKG7j91)
- - 💣 [Power of friendship](http://9gag.com/gag/aVvwM6M)
- - 😝 [The guy behind taking notes](http://9gag.com/gag/a87G5dQ)
- - 👉 [Installing a new kitchen countertop](http://9gag.com/gag/aQzd9Q8)<!-- MEMES:END -->
+ - 💣 [They Reached Japan, Pakistani Mozlem immigrants](http://9gag.com/gag/aKG7j91)
+ - 😝 [Installing a new kitchen countertop](http://9gag.com/gag/aQzd9Q8)
+ - 👉 [Paycheck is paycheck](http://9gag.com/gag/abAGMAE)<!-- MEMES:END -->
 
 ---
 

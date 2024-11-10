@@ -166,9 +166,9 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Biden was the inside guy all along... Him and Trump going for lunch... Seriously look it up](http://9gag.com/gag/apRG2WD)
- - 😝 [Power of friendship](http://9gag.com/gag/aVvwM6M)
- - 💣 [They Reached Japan, Pakistani Mozlem immigrants](http://9gag.com/gag/aKG7j91)
+ - 😝 [Looks like a win, win scenario](http://9gag.com/gag/aD24zKZ)
+ - 😝 [They Reached Japan, Pakistani Mozlem immigrants](http://9gag.com/gag/aKG7j91)
+ - 💣 [Power of friendship](http://9gag.com/gag/aVvwM6M)
  - 😝 [The guy behind taking notes](http://9gag.com/gag/a87G5dQ)
  - 👉 [Installing a new kitchen countertop](http://9gag.com/gag/aQzd9Q8)<!-- MEMES:END -->
 

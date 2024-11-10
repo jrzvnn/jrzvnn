@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [You get what you fcking deserve](http://9gag.com/gag/amov7o9)
- - 😝 [Paycheck is paycheck](http://9gag.com/gag/abAGMAE)
- - 💣 [A $500k McLaren destroyed and totaled](http://9gag.com/gag/adBVLGM)
- - 😝 [What&#39;s Up, Everybody!](http://9gag.com/gag/awyBQzB)
- - 👉 [Power of friendship](http://9gag.com/gag/aVvwM6M)<!-- MEMES:END -->
+ - 😝 [A good man](http://9gag.com/gag/aAyexeL)
+ - 😝 [Blasian now](http://9gag.com/gag/a2vWRPp)
+ - 💣 [Give this women a cookie, i salute you](http://9gag.com/gag/aXPgxGv)
+ - 😝 [Your first day at work, you meet the client and have no clue what you are doing](http://9gag.com/gag/aZZy7NQ)
+ - 👉 [When they run out of money for the movie ending](http://9gag.com/gag/aXPggq2)<!-- MEMES:END -->
 
 ---
 

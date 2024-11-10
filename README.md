@@ -166,10 +166,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [First Foot Pictures Are Expensive Nowadays. Second My Eyes Are Up Here.](http://9gag.com/gag/ae9DMDB)
+ - 😝 [Very difficult question to answer](http://9gag.com/gag/aRB73Ey)
+ - 😝 [House in Arlington, Virginia explodes after police approached it with a search warrant](http://9gag.com/gag/aO87BeN)
+ - 💣 [What&#39;s Up, Everybody!](http://9gag.com/gag/awyBQzB)
  - 😝 [The guy behind taking notes](http://9gag.com/gag/a87G5dQ)
- - 💣 [House in Arlington, Virginia explodes after police approached it with a search warrant](http://9gag.com/gag/aO87BeN)
- - 😝 [That chin](http://9gag.com/gag/aE0PgBn)
  - 👉 [Power of friendship](http://9gag.com/gag/aVvwM6M)<!-- MEMES:END -->
 
 ---

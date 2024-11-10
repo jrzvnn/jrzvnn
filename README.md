@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Look what you did](http://9gag.com/gag/a2vWZMZ)
- - 😝 [Looks like a win, win scenario](http://9gag.com/gag/aD24zKZ)
- - 💣 [Biden was the inside guy all along... Him and Trump going for lunch... Seriously look it up](http://9gag.com/gag/apRG2WD)
  - 😝 [They Reached Japan, Pakistani Mozlem immigrants](http://9gag.com/gag/aKG7j91)
- - 👉 [What is her name?](http://9gag.com/gag/avyz7KW)<!-- MEMES:END -->
+ - 😝 [It&#39;s been two days, Jesus...](http://9gag.com/gag/aQzdRNd)
+ - 💣 [Looks like a win, win scenario](http://9gag.com/gag/aD24zKZ)
+ - 😝 [Once in a lifetime shot?](http://9gag.com/gag/an74Mrq)
+ - 👉 [Error in exception handler](http://9gag.com/gag/amovBWV)<!-- MEMES:END -->
 
 ---
 

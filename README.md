@@ -166,10 +166,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [Very difficult question to answer](http://9gag.com/gag/aRB73Ey)
  - 😝 [Installing a new kitchen countertop](http://9gag.com/gag/aQzd9Q8)
- - 😝 [What&#39;s Up, Everybody!](http://9gag.com/gag/awyBQzB)
- - 💣 [House in Arlington, Virginia explodes after police approached it with a search warrant](http://9gag.com/gag/aO87BeN)
- - 😝 [A 74-year-old man in Florida pulled his puppy out of an alligator&#39;s mouth](http://9gag.com/gag/awyBQD1)
+ - 💣 [Bloated Cow can&#39;t pass gas so gets a helping hand!](http://9gag.com/gag/amovYYd)
+ - 😝 [What is her name?](http://9gag.com/gag/avyz7KW)
  - 👉 [Biden was the inside guy all along... Him and Trump going for lunch... Seriously look it up](http://9gag.com/gag/apRG2WD)<!-- MEMES:END -->
 
 ---

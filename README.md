@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [Combo hits](http://9gag.com/gag/a1mWbO2)
  - 😝 [First Foot Pictures Are Expensive Nowadays. Second My Eyes Are Up Here.](http://9gag.com/gag/ae9DMDB)
- - 😝 [Give this women a cookie, i salute you](http://9gag.com/gag/aXPgxGv)
- - 💣 [Power of friendship](http://9gag.com/gag/aVvwM6M)
- - 😝 [Moon](http://9gag.com/gag/azxmrjp)
- - 👉 [Anyone who works in the movie industry should start to worry](http://9gag.com/gag/aE0Pxqp)<!-- MEMES:END -->
+ - 💣 [Once in a lifetime shot?](http://9gag.com/gag/an74Mrq)
+ - 😝 [House in Arlington, Virginia explodes after police approached it with a search warrant](http://9gag.com/gag/aO87BeN)
+ - 👉 [What&#39;s Up, Everybody!](http://9gag.com/gag/awyBQzB)<!-- MEMES:END -->
 
 ---
 

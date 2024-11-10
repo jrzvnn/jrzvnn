@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Threads becoming inundated with liberal election fraud conspiracies highlights a shift towards a &quot;post-truth&quot; online landscape across the political spectrum &lpar;Taylor Lorenz/User Mag&rpar;](http://www.techmeme.com/241110/p7#a241110p7)
  - [Apple&#39;s future growth may come from several new Watch- or iPad-sized bets; visionOS 2.2 ultrawide Mac display option may be the Vision Pro&#39;s first killer app &lpar;Mark Gurman/Bloomberg&rpar;](http://www.techmeme.com/241110/p6#a241110p6)
  - [8 Best Flashlights and Headlamps &lpar;2024&rpar;, Tested and Reviewed](https://www.wired.com/gallery/best-flashlights-and-headlamps/)
- - [Andor’s second season hits Disney Plus in April](https://www.theverge.com/2024/11/10/24292683/star-wars-andor-season-2-release-date-april-2025-disney-plus)
- - [Intel&#39;s Robert Hallock admits &quot;our wounds with Arrow Lake not hitting the performance we projected were self-inflicted&quot; and promises fixes for performance gains &lpar;Zak Killian/HotHardware&rpar;](http://www.techmeme.com/241110/p5#a241110p5)
- - [11 Best Android Phones of 2024, Tested and Reviewed](https://www.wired.com/gallery/best-android-phones/)<!-- TECH:END -->
+ - [Best Hotel Mattresses in 2024](https://www.cnet.com/health/sleep/best-hotel-mattresses/#ftag=CAD590a51e)
+ - [Andor’s second season hits Disney Plus in April](https://www.theverge.com/2024/11/10/24292683/star-wars-andor-season-2-release-date-april-2025-disney-plus)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

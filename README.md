@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple now sells iPhone 16 and 16 Pro repair parts](https://www.theverge.com/2024/11/10/24292775/apple-iphone-16-pro-max-plus-repair-parts-diy-self-service)
- - [La Liga Soccer Livestream: How to Watch Real Sociedad vs. Barcelona From Anywhere](https://www.cnet.com/tech/services-and-software/la-liga-soccer-livestream-how-to-watch-real-sociedad-vs-barcelona-from-anywhere/#ftag=CAD590a51e)
- - [&#39;Yellowstone&#39; Season 5, Part 2 Premieres Tonight: Here&#39;s How to Watch Without Cable](https://www.cnet.com/tech/services-and-software/yellowstone-season-5-part-2-how-to-watch-without-cable/#ftag=CAD590a51e)
- - [Will Giving Gifts Be More Expensive in 2024? The Postal Service Says Yes, Here&#39;s Why](https://www.cnet.com/personal-finance/will-giving-gifts-be-more-expensive-in-2024-the-postal-service-says-yes-heres-why/#ftag=CAD590a51e)
- - [Gurman: the second generation Apple Vision Pro may arrive between the fall of 2025 and spring of 2026 and could feature a chip from the M5 generation &lpar;Michael Burkhardt/9to5Mac&rpar;](http://www.techmeme.com/241110/p8#a241110p8)<!-- TECH:END -->
+ - [An interview with Mozilla interim CEO Laura Chambers about Firefox&#39;s 20th birthday, growth due to EU&#39;s DMA, focus on privacy, Google search deal, AI, and more &lpar;Frederic Lardinois/TechCrunch&rpar;](http://www.techmeme.com/241110/p9#a241110p9)
+ - [Apple starts supplying replacement parts for iPhone 16 repairs](https://appleinsider.com/articles/24/11/10/apple-starts-supplying-replacement-parts-for-iphone-16-repairs?utm_medium=rss)
+ - [Eagles vs. Cowboys: How to Watch NFL Week 10 Online Today](https://www.cnet.com/tech/services-and-software/eagles-vs-cowboys-how-to-watch-nfl-week-10-online-today/#ftag=CAD590a51e)
+ - [Jets vs. Cardinals: How to Watch NFL Week 10 Online Today](https://www.cnet.com/tech/services-and-software/jets-vs-cardinals-how-to-watch-nfl-week-10-online-today/#ftag=CAD590a51e)
+ - [Best Coffee Grinders for 2024: Oxo, Baratza and Breville](https://www.cnet.com/home/kitchen-and-household/best-coffee-grinder/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

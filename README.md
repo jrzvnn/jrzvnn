@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Give this women a cookie, i salute you](http://9gag.com/gag/aXPgxGv)
- - 😝 [Your first day at work, you meet the client and have no clue what you are doing](http://9gag.com/gag/aZZy7NQ)
- - 💣 [When they run out of money for the movie ending](http://9gag.com/gag/aXPggq2)
- - 😝 [What&#39;s happening to Europe.](http://9gag.com/gag/aLnwwb5)
- - 👉 [Best i can do is showing up](http://9gag.com/gag/avyzo3q)<!-- MEMES:END -->
+ - 😝 [Look what you did](http://9gag.com/gag/a2vWZMZ)
+ - 😝 [Paycheck is paycheck](http://9gag.com/gag/abAGMAE)
+ - 💣 [That chin](http://9gag.com/gag/aE0PgBn)
+ - 😝 [They Reached Japan, Pakistani Mozlem immigrants](http://9gag.com/gag/aKG7j91)
+ - 👉 [Welcome to New York](http://9gag.com/gag/aqyngzL)<!-- MEMES:END -->
 
 ---
 

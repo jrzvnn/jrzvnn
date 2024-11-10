@@ -166,10 +166,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [No appointment, no an*l](http://9gag.com/gag/aNDgA14)
+ - 😝 [Reaaaaaal quick](http://9gag.com/gag/a9ynrE6)
  - 😝 [What&#39;s Up, Everybody!](http://9gag.com/gag/awyBQzB)
- - 💣 [One thing is not like the other](http://9gag.com/gag/ajP9EA0)
- - 😝 [Biden was the inside guy all along... Him and Trump going for lunch... Seriously look it up](http://9gag.com/gag/apRG2WD)
+ - 💣 [No appointment, no an*l](http://9gag.com/gag/aNDgA14)
+ - 😝 [Looks like a win, win scenario](http://9gag.com/gag/aD24zKZ)
  - 👉 [Installing a new kitchen countertop](http://9gag.com/gag/aQzd9Q8)<!-- MEMES:END -->
 
 ---

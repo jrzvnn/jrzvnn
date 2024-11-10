@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [Installing a new kitchen countertop](http://9gag.com/gag/aQzd9Q8)
+ - 😝 [What&#39;s Up, Everybody!](http://9gag.com/gag/awyBQzB)
+ - 💣 [House in Arlington, Virginia explodes after police approached it with a search warrant](http://9gag.com/gag/aO87BeN)
  - 😝 [A 74-year-old man in Florida pulled his puppy out of an alligator&#39;s mouth](http://9gag.com/gag/awyBQD1)
- - 😝 [Biden was the inside guy all along... Him and Trump going for lunch... Seriously look it up](http://9gag.com/gag/apRG2WD)
- - 💣 [Installing a new kitchen countertop](http://9gag.com/gag/aQzd9Q8)
- - 😝 [They Reached Japan, Pakistani Mozlem immigrants](http://9gag.com/gag/aKG7j91)
- - 👉 [No appointment, no an*l](http://9gag.com/gag/aNDgA14)<!-- MEMES:END -->
+ - 👉 [Biden was the inside guy all along... Him and Trump going for lunch... Seriously look it up](http://9gag.com/gag/apRG2WD)<!-- MEMES:END -->
 
 ---
 

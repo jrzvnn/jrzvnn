@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [One thing is not like the other](http://9gag.com/gag/ajP9EA0)
- - 😝 [Power of friendship](http://9gag.com/gag/aVvwM6M)
- - 💣 [Biden was the inside guy all along... Him and Trump going for lunch... Seriously look it up](http://9gag.com/gag/apRG2WD)
  - 😝 [Floorman working a drill rig](http://9gag.com/gag/a0eNQ5v)
- - 👉 [Looks like a win, win scenario](http://9gag.com/gag/aD24zKZ)<!-- MEMES:END -->
+ - 😝 [Hmm...](http://9gag.com/gag/aVvw3MP)
+ - 💣 [House in Arlington, Virginia explodes after police approached it with a search warrant](http://9gag.com/gag/aO87BeN)
+ - 😝 [One thing is not like the other](http://9gag.com/gag/ajP9EA0)
+ - 👉 [Power of friendship](http://9gag.com/gag/aVvwM6M)<!-- MEMES:END -->
 
 ---
 

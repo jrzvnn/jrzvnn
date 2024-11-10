@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Best Hotel Mattresses in 2024](https://www.cnet.com/health/sleep/best-hotel-mattresses/#ftag=CAD590a51e)
+ - [Apple&#39;s future growth may come from several new Watch- or iPad-sized bets; visionOS 2.2 ultrawide Mac display option may be the Vision Pro&#39;s first killer app &lpar;Mark Gurman/Bloomberg&rpar;](http://www.techmeme.com/241110/p6#a241110p6)
+ - [8 Best Flashlights and Headlamps &lpar;2024&rpar;, Tested and Reviewed](https://www.wired.com/gallery/best-flashlights-and-headlamps/)
  - [Andor’s second season hits Disney Plus in April](https://www.theverge.com/2024/11/10/24292683/star-wars-andor-season-2-release-date-april-2025-disney-plus)
- - [Did Your Sleep Take a Hit With the Time Change? Here Are Our Favorite Sleep Products to Combat the End of Daylight Saving](https://www.cnet.com/health/sleep/wellness-editors-favorite-sleep-products-for-the-end-of-dst/#ftag=CAD590a51e)
- - [8 Bad Habits That Are Destroying Your Kitchen Knives](https://www.cnet.com/how-to/these-bad-habits-are-ruining-your-kitchen-knives/#ftag=CAD590a51e)
- - [Intel&#39;s Robert Hallock admits &quot;our wounds with Arrow Lake not hitting the performance we projected were self-inflicted&quot; and promises fixes for performance gains &lpar;Zak Killian/HotHardware&rpar;](http://www.techmeme.com/241110/p5#a241110p5)<!-- TECH:END -->
+ - [Intel&#39;s Robert Hallock admits &quot;our wounds with Arrow Lake not hitting the performance we projected were self-inflicted&quot; and promises fixes for performance gains &lpar;Zak Killian/HotHardware&rpar;](http://www.techmeme.com/241110/p5#a241110p5)
+ - [11 Best Android Phones of 2024, Tested and Reviewed](https://www.wired.com/gallery/best-android-phones/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

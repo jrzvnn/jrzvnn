@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Reaaaaaal quick](http://9gag.com/gag/a9ynrE6)
- - 😝 [What&#39;s Up, Everybody!](http://9gag.com/gag/awyBQzB)
- - 💣 [No appointment, no an*l](http://9gag.com/gag/aNDgA14)
- - 😝 [Looks like a win, win scenario](http://9gag.com/gag/aD24zKZ)
- - 👉 [Installing a new kitchen countertop](http://9gag.com/gag/aQzd9Q8)<!-- MEMES:END -->
+ - 😝 [A $500k McLaren destroyed and totaled](http://9gag.com/gag/adBVLGM)
+ - 😝 [Your first day at work, you meet the client and have no clue what you are doing](http://9gag.com/gag/aZZy7NQ)
+ - 💣 [Biden was the inside guy all along... Him and Trump going for lunch... Seriously look it up](http://9gag.com/gag/apRG2WD)
+ - 😝 [Power of friendship](http://9gag.com/gag/aVvwM6M)
+ - 👉 [They Reached Japan, Pakistani Mozlem immigrants](http://9gag.com/gag/aKG7j91)<!-- MEMES:END -->
 
 ---
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Comrade Cart will follow you unless you put your cart back in the proper place. Nyet!](http://9gag.com/gag/axy97NW)
- - 😝 [NNN](http://9gag.com/gag/aW4xER4)
- - 💣 [Anyone who works in the movie industry should start to worry](http://9gag.com/gag/aE0Pxqp)
- - 😝 [A good man](http://9gag.com/gag/aAyexeL)
- - 👉 [Blasian now](http://9gag.com/gag/a2vWRPp)<!-- MEMES:END -->
+ - 😝 [I have bad feeling about this](http://9gag.com/gag/avyzovM)
+ - 😝 [What&#39;s Up, Everybody!](http://9gag.com/gag/awyBQzB)
+ - 💣 [Power of friendship](http://9gag.com/gag/aVvwM6M)
+ - 😝 [A $500k McLaren destroyed and totaled](http://9gag.com/gag/adBVLGM)
+ - 👉 [Your first day at work, you meet the client and have no clue what you are doing](http://9gag.com/gag/aZZy7NQ)<!-- MEMES:END -->
 
 ---
 

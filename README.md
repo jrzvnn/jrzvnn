@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Anyone who works in the movie industry should start to worry](http://9gag.com/gag/aE0Pxqp)
- - 😝 [Choose wisely your partner](http://9gag.com/gag/a7oWrAw)
- - 💣 [What is her name?](http://9gag.com/gag/avyz7KW)
- - 😝 [What&#39;s Up, Everybody!](http://9gag.com/gag/awyBQzB)
- - 👉 [Paycheck is paycheck](http://9gag.com/gag/abAGMAE)<!-- MEMES:END -->
+ - 😝 [They Reached Japan, Pakistani Mozlem immigrants](http://9gag.com/gag/aKG7j91)
+ - 😝 [Once in a lifetime shot?](http://9gag.com/gag/an74Mrq)
+ - 💣 [Error in exception handler](http://9gag.com/gag/amovBWV)
+ - 😝 [It&#39;s been two days, Jesus...](http://9gag.com/gag/aQzdRNd)
+ - 👉 [Looks like a win, win scenario](http://9gag.com/gag/aD24zKZ)<!-- MEMES:END -->
 
 ---
 

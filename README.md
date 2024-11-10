@@ -158,10 +158,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- TECH:START -->
  - [The next Nintendo Direct is all about Super Nintendo World’s Donkey Kong Country](https://www.theverge.com/2024/11/10/24293054/super-nintendo-world-donkey-kong-country-area-direct-showcase-theme-park)
+ - [Best Internet Providers in Chicago, Illinois](https://www.cnet.com/home/internet/best-internet-providers-in-chicago-il/#ftag=CAD590a51e)
  - [Best Internet Providers in Durham, North Carolina](https://www.cnet.com/home/internet/best-internet-providers-in-durham-nc/#ftag=CAD590a51e)
  - [Which Decongestants Are Effective? Why the FDA Wants to Pull a Popular Medicine Ingredient](https://www.cnet.com/health/medical/which-decongestants-are-effective-why-the-fda-wants-to-pull-a-popular-medicine-ingredient/#ftag=CAD590a51e)
- - [Best iPhone 15 Deals: Score Apple’s Previous-Gen Phone at Major Discounts](https://www.cnet.com/deals/best-iphone-15-deals/#ftag=CAD590a51e)
- - [Best Internet Providers in Chula Vista, California](https://www.cnet.com/home/internet/best-internet-providers-in-chula-vista-ca/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Best iPhone 15 Deals: Score Apple’s Previous-Gen Phone at Major Discounts](https://www.cnet.com/deals/best-iphone-15-deals/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

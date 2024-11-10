@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Very difficult question to answer](http://9gag.com/gag/aRB73Ey)
- - 😝 [Installing a new kitchen countertop](http://9gag.com/gag/aQzd9Q8)
- - 💣 [Bloated Cow can&#39;t pass gas so gets a helping hand!](http://9gag.com/gag/amovYYd)
- - 😝 [What is her name?](http://9gag.com/gag/avyz7KW)
- - 👉 [Biden was the inside guy all along... Him and Trump going for lunch... Seriously look it up](http://9gag.com/gag/apRG2WD)<!-- MEMES:END -->
+ - 😝 [Look what you did](http://9gag.com/gag/a2vWZMZ)
+ - 😝 [Looks like a win, win scenario](http://9gag.com/gag/aD24zKZ)
+ - 💣 [Biden was the inside guy all along... Him and Trump going for lunch... Seriously look it up](http://9gag.com/gag/apRG2WD)
+ - 😝 [They Reached Japan, Pakistani Mozlem immigrants](http://9gag.com/gag/aKG7j91)
+ - 👉 [What is her name?](http://9gag.com/gag/avyz7KW)<!-- MEMES:END -->
 
 ---
 

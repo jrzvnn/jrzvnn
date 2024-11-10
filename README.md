@@ -158,10 +158,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- TECH:START -->
  - [Meta, OpenAI, Microsoft, and other AI companies create their own internal benchmarks as new models approach or exceed 90% accuracy on existing public tests &lpar;Cristina Criddle/Financial Times&rpar;](http://www.techmeme.com/241110/p1#a241110p1)
+ - [Best Internet Providers in Abilene, Texas](https://www.cnet.com/home/internet/best-internet-providers-in-abilene-tx/#ftag=CAD590a51e)
  - [San Francisco&#39;s next mayor, Dan Lurie, a Levi&#39;s heir with no political experience, wasn&#39;t tech leaders&#39; top choice but is a moderate who aims to work with them &lpar;Newcomer&rpar;](http://www.techmeme.com/241109/p15#a241109p15)
  - [Today&#39;s NYT Mini Crossword Answers for Sunday, Nov. 10](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-sunday-nov-10/#ftag=CAD590a51e)
- - [Source: the US ordered TSMC to halt shipments of AI chips, of 7nm or more advanced designs, to Chinese customers starting on November 11 &lpar;Reuters&rpar;](http://www.techmeme.com/241109/p14#a241109p14)
- - [Today&#39;s NYT Connections: Sports Edition Hints and Answers for Nov. 10, #48](https://www.cnet.com/tech/gaming/todays-nyt-connections-sports-edition-hints-and-answers-for-nov-10-48/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Source: the US ordered TSMC to halt shipments of AI chips, of 7nm or more advanced designs, to Chinese customers starting on November 11 &lpar;Reuters&rpar;](http://www.techmeme.com/241109/p14#a241109p14)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

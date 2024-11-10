@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Microplastics Could Be Making the Weather Worse](https://www.wired.com/story/microplastics-promote-cloud-formation-with-likely-effects-on-weather-and-climate/)
+ - [Chill games for a chill weekend](https://www.theverge.com/2024/11/10/24291418/stardew-valley-mario-luigi-brothership-heretic-installer)
+ - [Spotify’s AI is no match for a real DJ](https://www.theverge.com/24290914/spotify-ai-dj-radio-kexp)
  - [Get the Most Out of Your Carry-On Bag: What to Bring and How to Pack It](https://www.cnet.com/how-to/get-the-most-out-of-your-carry-on-bag-what-to-bring-and-how-to-pack-it/#ftag=CAD590a51e)
- - [The iPhone 16 Camera Control Is About to Get Better in iOS 18.2. Here&#39;s All It Can Do](https://www.cnet.com/tech/mobile/the-iphone-16-camera-control-is-about-to-get-better-in-ios-18-2-heres-all-it-can-do/#ftag=CAD590a51e)
- - [Photo Fix Strategies Using the Apple Intelligence Clean Up Tool](https://www.cnet.com/tech/services-and-software/photo-fix-strategies-using-the-apple-intelligence-clean-up-tool/#ftag=CAD590a51e)
- - [A painting depicting Alan Turing as the god of AI, which was created by an AI-powered humanoid robot called Ai-Da, sold at a Sotheby&#39;s auction for nearly $1.1M &lpar;Zachary Small/New York Times&rpar;](http://www.techmeme.com/241110/p4#a241110p4)
- - [How to Take a Screenshot on an iPhone or Android Phone](https://www.cnet.com/tech/mobile/how-to-take-a-screenshot-on-an-iphone-or-android-phone/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [The iPhone 16 Camera Control Is About to Get Better in iOS 18.2. Here&#39;s All It Can Do](https://www.cnet.com/tech/mobile/the-iphone-16-camera-control-is-about-to-get-better-in-ios-18-2-heres-all-it-can-do/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

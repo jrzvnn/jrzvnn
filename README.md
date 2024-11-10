@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [A $500k McLaren destroyed and totaled](http://9gag.com/gag/adBVLGM)
- - 😝 [Your first day at work, you meet the client and have no clue what you are doing](http://9gag.com/gag/aZZy7NQ)
- - 💣 [Biden was the inside guy all along... Him and Trump going for lunch... Seriously look it up](http://9gag.com/gag/apRG2WD)
+ - 😝 [Biden was the inside guy all along... Him and Trump going for lunch... Seriously look it up](http://9gag.com/gag/apRG2WD)
  - 😝 [Power of friendship](http://9gag.com/gag/aVvwM6M)
- - 👉 [They Reached Japan, Pakistani Mozlem immigrants](http://9gag.com/gag/aKG7j91)<!-- MEMES:END -->
+ - 💣 [They Reached Japan, Pakistani Mozlem immigrants](http://9gag.com/gag/aKG7j91)
+ - 😝 [The guy behind taking notes](http://9gag.com/gag/a87G5dQ)
+ - 👉 [Installing a new kitchen countertop](http://9gag.com/gag/aQzd9Q8)<!-- MEMES:END -->
 
 ---
 

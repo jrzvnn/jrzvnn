@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [House in Arlington, Virginia explodes after police approached it with a search warrant](http://9gag.com/gag/aO87BeN)
- - 😝 [White liberal women](http://9gag.com/gag/aqyn1Yj)
- - 💣 [That chin](http://9gag.com/gag/aE0PgBn)
- - 😝 [Power of friendship](http://9gag.com/gag/aVvwM6M)
- - 👉 [Paycheck is paycheck](http://9gag.com/gag/abAGMAE)<!-- MEMES:END -->
+ - 😝 [Your first day at work, you meet the client and have no clue what you are doing](http://9gag.com/gag/aZZy7NQ)
+ - 😝 [Biden was the inside guy all along... Him and Trump going for lunch... Seriously look it up](http://9gag.com/gag/apRG2WD)
+ - 💣 [What&#39;s Up, Everybody!](http://9gag.com/gag/awyBQzB)
+ - 😝 [I always enjoyed this 90&#39;s thing](http://9gag.com/gag/amovBK2)
+ - 👉 [Power of friendship](http://9gag.com/gag/aVvwM6M)<!-- MEMES:END -->
 
 ---
 

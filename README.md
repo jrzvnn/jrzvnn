@@ -159,9 +159,9 @@ R                        1 repo              ░░░░░░░░░░░�
 <!-- TECH:START -->
  - [San Francisco&#39;s next mayor, Dan Lurie, a Levi&#39;s heir with no political experience, wasn&#39;t tech leaders&#39; top choice but is a moderate who aims to work with them &lpar;Newcomer&rpar;](http://www.techmeme.com/241109/p15#a241109p15)
  - [Source: the US ordered TSMC to halt shipments of AI chips, of 7nm or more advanced designs, to Chinese customers starting on November 11 &lpar;Reuters&rpar;](http://www.techmeme.com/241109/p14#a241109p14)
+ - [Best Solar Panel Installation Companies in Sacramento](https://www.cnet.com/home/energy-and-utilities/best-solar-panel-installation-companies-in-sacramento/#ftag=CAD590a51e)
  - [Best Internet Providers in Amarillo, Texas](https://www.cnet.com/home/internet/best-internet-providers-in-amarillo-tx/#ftag=CAD590a51e)
- - [Deter Thieves for Under $10 With This Smart Home Trick](https://www.cnet.com/home/smart-home/deter-thieves-for-under-10-with-this-smart-home-trick/#ftag=CAD590a51e)
- - [A profile of Chen Yixin, a Xi Jinping prot&amp;eacute;g&amp;eacute; who heads the Chinese intelligence agency accused of likely steering the Salt Typhoon cyberattacks on the US &lpar;Chun Han Wong/Wall Street Journal&rpar;](http://www.techmeme.com/241109/p13#a241109p13)<!-- TECH:END -->
+ - [Deter Thieves for Under $10 With This Smart Home Trick](https://www.cnet.com/home/smart-home/deter-thieves-for-under-10-with-this-smart-home-trick/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

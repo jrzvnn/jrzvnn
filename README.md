@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Apple Vision Pro 2 with M5 chip likely to arrive before budget models](https://appleinsider.com/articles/24/11/10/apple-vision-pro-2-with-m5-chip-likely-to-arrive-before-budget-models?utm_medium=rss)
  - [27 Great Gifts for Mom: Ideas for the Best Mother &lpar;2024&rpar;](https://www.wired.com/gallery/gifts-for-moms/)
  - [16 WIRED-Tested Gifts for People Who Need Some Sleep &lpar;2024&rpar;](https://www.wired.com/gallery/gift-ideas-for-sleeping/)
  - [Premier League Soccer: Livestream Nottingham Forest vs. Newcastle From Anywhere](https://www.cnet.com/tech/services-and-software/premier-league-soccer-livestream-nottingham-forest-vs-newcastle-from-anywhere/#ftag=CAD590a51e)
- - [Premier League Soccer: Livestream Tottenham vs. Ipswich From Anywhere](https://www.cnet.com/tech/services-and-software/premier-league-soccer-livestream-tottenham-vs-ipswich-from-anywhere/#ftag=CAD590a51e)
- - [Apple Intelligence Features Like ChatGPT Hit iPhones in iOS 18.2 Beta](https://www.cnet.com/tech/mobile/apple-intelligence-features-like-chatgpt-hit-iphones-in-ios-18-2-beta/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Premier League Soccer: Livestream Tottenham vs. Ipswich From Anywhere](https://www.cnet.com/tech/services-and-software/premier-league-soccer-livestream-tottenham-vs-ipswich-from-anywhere/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

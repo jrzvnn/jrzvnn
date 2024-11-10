@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [What&#39;s Up, Everybody!](http://9gag.com/gag/awyBQzB)
- - 😝 [First Foot Pictures Are Expensive Nowadays. Second My Eyes Are Up Here.](http://9gag.com/gag/ae9DMDB)
- - 💣 [Power of friendship](http://9gag.com/gag/aVvwM6M)
- - 😝 [Paycheck is paycheck](http://9gag.com/gag/abAGMAE)
- - 👉 [House in Arlington, Virginia explodes after police approached it with a search warrant](http://9gag.com/gag/aO87BeN)<!-- MEMES:END -->
+ - 😝 [A good man](http://9gag.com/gag/aAyexeL)
+ - 😝 [Blasian now](http://9gag.com/gag/a2vWRPp)
+ - 💣 [When they run out of money for the movie ending](http://9gag.com/gag/aXPggq2)
+ - 😝 [Give this women a cookie, i salute you](http://9gag.com/gag/aXPgxGv)
+ - 👉 [Your first day at work, you meet the client and have no clue what you are doing](http://9gag.com/gag/aZZy7NQ)<!-- MEMES:END -->
 
 ---
 

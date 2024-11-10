@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Comrade Cart will follow you unless you put your cart back in the proper place. Nyet!](http://9gag.com/gag/axy97NW)
- - 😝 [Men.](http://9gag.com/gag/avyzOjd)
- - 💣 [Looks like a win, win scenario](http://9gag.com/gag/aD24zKZ)
- - 😝 [Blasian now](http://9gag.com/gag/a2vWRPp)
- - 👉 [Your first day at work, you meet the client and have no clue what you are doing](http://9gag.com/gag/aZZy7NQ)<!-- MEMES:END -->
+ - 😝 [So many demand, very little supply, I agree with eugenics now](http://9gag.com/gag/apRG5vn)
+ - 😝 [Looks like a win, win scenario](http://9gag.com/gag/aD24zKZ)
+ - 💣 [Power of friendship](http://9gag.com/gag/aVvwM6M)
+ - 😝 [Choose wisely your partner](http://9gag.com/gag/a7oWrAw)
+ - 👉 [The guy behind taking notes](http://9gag.com/gag/a87G5dQ)<!-- MEMES:END -->
 
 ---
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Gurman: the second generation Apple Vision Pro may arrive between the fall of 2025 and spring of 2026 and could feature a chip from the M5 generation &lpar;Michael Burkhardt/9to5Mac&rpar;](http://www.techmeme.com/241110/p8#a241110p8)
  - [Threads becoming inundated with liberal election fraud conspiracies highlights a shift towards a &quot;post-truth&quot; online landscape across the political spectrum &lpar;Taylor Lorenz/User Mag&rpar;](http://www.techmeme.com/241110/p7#a241110p7)
  - [Apple&#39;s future growth may come from several new Watch- or iPad-sized bets; visionOS 2.2 ultrawide Mac display option may be the Vision Pro&#39;s first killer app &lpar;Mark Gurman/Bloomberg&rpar;](http://www.techmeme.com/241110/p6#a241110p6)
  - [8 Best Flashlights and Headlamps &lpar;2024&rpar;, Tested and Reviewed](https://www.wired.com/gallery/best-flashlights-and-headlamps/)
- - [Best Hotel Mattresses in 2024](https://www.cnet.com/health/sleep/best-hotel-mattresses/#ftag=CAD590a51e)
- - [Andor’s second season hits Disney Plus in April](https://www.theverge.com/2024/11/10/24292683/star-wars-andor-season-2-release-date-april-2025-disney-plus)<!-- TECH:END -->
+ - [Best Hotel Mattresses in 2024](https://www.cnet.com/health/sleep/best-hotel-mattresses/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

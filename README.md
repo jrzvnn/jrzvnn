@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Best Solar Panel Installation Companies in Washington](https://www.cnet.com/home/energy-and-utilities/washington-solar-panels/#ftag=CAD590a51e)
  - [Best Internet Providers in Erie, Pennsylvania](https://www.cnet.com/home/internet/best-internet-providers-in-erie-pa/#ftag=CAD590a51e)
  - [The next Nintendo Direct is all about Super Nintendo World’s Donkey Kong Country](https://www.theverge.com/2024/11/10/24293054/super-nintendo-world-donkey-kong-country-area-direct-showcase-theme-park)
  - [Best Internet Providers in Concord, North Carolina](https://www.cnet.com/home/internet/best-internet-providers-in-concord-nc/#ftag=CAD590a51e)
- - [Best Internet Providers in Chicago, Illinois](https://www.cnet.com/home/internet/best-internet-providers-in-chicago-il/#ftag=CAD590a51e)
- - [Best Internet Providers in Durham, North Carolina](https://www.cnet.com/home/internet/best-internet-providers-in-durham-nc/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Best Internet Providers in Chicago, Illinois](https://www.cnet.com/home/internet/best-internet-providers-in-chicago-il/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

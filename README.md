@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Look what you did](http://9gag.com/gag/a2vWZMZ)
- - 😝 [Floorman working a drill rig](http://9gag.com/gag/a0eNQ5v)
- - 💣 [Paycheck is paycheck](http://9gag.com/gag/abAGMAE)
+ - 😝 [I have bad feeling about this](http://9gag.com/gag/avyzovM)
+ - 😝 [Hmm...](http://9gag.com/gag/aVvw3MP)
+ - 💣 [They Reached Japan, Pakistani Mozlem immigrants](http://9gag.com/gag/aKG7j91)
  - 😝 [Mike Tyson runs into a man he robbed as a teenager.](http://9gag.com/gag/ae9DDVq)
- - 👉 [They Reached Japan, Pakistani Mozlem immigrants](http://9gag.com/gag/aKG7j91)<!-- MEMES:END -->
+ - 👉 [Gaming in brazil&lpar;Warning emoji and bad music&rpar;](http://9gag.com/gag/aE0PPm9)<!-- MEMES:END -->
 
 ---
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Apple updates the firmware again for AirPods Pro 2, AirPods 4](https://appleinsider.com/articles/24/11/11/apple-updates-the-firmware-again-for-airpods-pro-2-airpods-4?utm_medium=rss)
+ - [COP29 Begins With Climate Finance, Absent Leaders, and Trump Looming Large](https://www.wired.com/story/cop29-begins-with-climate-finance-absent-leaders-and-trump-in-the-spotlight/)
  - [LG Display shows off a stretchable display prototype that can expand by up to 50%, more than doubling the previous record of 20% elongation &lpar;Jowi Morales/Tom&#39;s Hardware&rpar;](http://www.techmeme.com/241111/p15#a241111p15)
- - [Apple execs address Mac mini&#39;s hidden power button in 2024 redesign](https://appleinsider.com/articles/24/11/11/apple-execs-address-mac-minis-hidden-power-button-in-2024-redesign?utm_medium=rss)
- - [Grab Free At-Home COVID-19 Tests Before the Winter Wave Hits](https://www.cnet.com/health/grab-free-at-home-covid-19-tests-before-the-winter-wave-hits/#ftag=CAD590a51e)
- - [How to deactivate your X account](https://www.theverge.com/24293448/x-twitter-musk-deactivate-how-to)
- - [Best Internet Providers in Frederick, Maryland](https://www.cnet.com/home/internet/best-internet-providers-in-frederick-md/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Walmart Plus Members: Get $50 Off the Apple Watch Series 10 Ahead of Black Friday](https://www.cnet.com/deals/walmart-plus-members-get-50-off-the-apple-watch-series-10-ahead-of-black-friday/#ftag=CAD590a51e)
+ - [Best Places to Buy Glasses Online for 2024](https://www.cnet.com/health/personal-care/best-places-to-buy-glasses-online/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

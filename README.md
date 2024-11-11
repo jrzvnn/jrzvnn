@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: the US plans to support a controversial cybercrime treaty at the UN this week despite concerns that it could be misused by authoritarian regimes &lpar;Jamie Tarabay/Bloomberg&rpar;](http://www.techmeme.com/241111/p11#a241111p11)
- - [Amazon reportedly working on Echo Frames for delivery drivers](https://www.theverge.com/2024/11/11/24293500/amazon-echo-frames-delivery-drivers-smart-glasses-wearables)
- - [Why the Grammys need to change, with CEO Harvey Mason Jr.](https://www.theverge.com/24293447/grammy-awards-recording-academy-harvey-mason-beyonce-discrimination-generative-ai-decoder)
- - [7 Best Cheap Smartphones &lpar;2024&rpar;: iPhone, Android, 5G](https://www.wired.com/story/best-cheap-phones/)
- - [Here’s 15 minutes of archaeological action in Indiana Jones and the Great Circle](https://www.theverge.com/24293522/indiana-jones-and-the-great-circle-gameplay-trailer-xbox)<!-- TECH:END -->
+ - [Waymo compiles ‘largest ever’ dataset of pedestrian and cyclist injuries](https://www.theverge.com/2024/11/11/24290338/waymo-vru-pedestrian-cyclist-injury-dataset)
+ - [Matter 1.4 is released, new Apple betas, &amp; more news on HomeKit Insider](https://appleinsider.com/articles/24/11/11/matter-14-is-released-new-apple-betas-more-news-on-homekit-insider?utm_medium=rss)
+ - [Argentina-based Ual&amp;aacute;, which offers financial services to 8M users, raised a $300M Series E led by Allianz X at a $2.75B valuation, up from $2.45B in August 2021 &lpar;Bloomberg&rpar;](http://www.techmeme.com/241111/p12#a241111p12)
+ - [See the Taurids Meteor Shower Tonight, Plus More Fireballs Through Year&#39;s End](https://www.cnet.com/science/see-the-taurids-meteor-shower-tonight-plus-more-fireballs-through-years-end/#ftag=CAD590a51e)
+ - [Sources: the US plans to support a controversial cybercrime treaty at the UN this week despite concerns that it could be misused by authoritarian regimes &lpar;Jamie Tarabay/Bloomberg&rpar;](http://www.techmeme.com/241111/p11#a241111p11)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

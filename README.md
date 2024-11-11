@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The Boox Palma e-reader is down to a new low price for Verge readers](https://www.theverge.com/2024/11/11/24293609/boox-palma-apple-airtags-fitbit-ace-lte-deal-sale)
  - [Apple adds Share Item Location to iOS 18.2 public beta, letting users share a link with the location of AirTags or Find My accessories with airlines and others &lpar;Emma Roth/The Verge&rpar;](http://www.techmeme.com/241111/p14#a241111p14)
  - [Bitcoin touches a record-high $85K, adding almost $20K in a week; Tesla is up 7%+ today, while Meta, Apple, Nvidia, Amazon, and Microsoft are down slightly &lpar;James Van Straten/CoinDesk&rpar;](http://www.techmeme.com/241111/p13#a241111p13)
  - [Cash App users have a week left to claim part of a $15 million settlement](https://www.theverge.com/2024/11/11/24293580/cash-app-class-action-settlement-lawsuit-claim-deadline)
- - [Don&#39;t Wait for Black Friday. Score Almost Half Off This Massive 98-Inch TCL 4K TV Right Now](https://www.cnet.com/deals/dont-wait-for-black-friday-score-almost-half-off-this-massive-98-inch-tcl-4k-tv-right-now/#ftag=CAD590a51e)
- - [Find My&#39;s Share Item Location will help airlines find your luggage](https://appleinsider.com/articles/24/11/11/find-mys-share-item-location-will-help-airlines-find-your-luggage?utm_medium=rss)<!-- TECH:END -->
+ - [Don&#39;t Wait for Black Friday. Score Almost Half Off This Massive 98-Inch TCL 4K TV Right Now](https://www.cnet.com/deals/dont-wait-for-black-friday-score-almost-half-off-this-massive-98-inch-tcl-4k-tv-right-now/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [California Man Uses RPG To Scare Off Home Invaders](http://9gag.com/gag/aE0P8d9)
- - 😝 [P.O.V you and your Japanese girlfriend but you don\u2019t know what you did](http://9gag.com/gag/ajP9mrw)
- - 💣 [Mike Tyson runs into a man he robbed as a teenager.](http://9gag.com/gag/ae9DDVq)
- - 😝 [A $500k McLaren destroyed and totaled](http://9gag.com/gag/adBVLGM)
- - 👉 [Real beauty is on the inside](http://9gag.com/gag/a87G3Dd)<!-- MEMES:END -->
+ - 😝 [Gaming in brazil&lpar;Warning emoji and bad music&rpar;](http://9gag.com/gag/aE0PPm9)
+ - 😝 [I cumbed out of all my holes](http://9gag.com/gag/aMVxxMM)
+ - 💣 [Looks like our boy is on the right path!](http://9gag.com/gag/aO87rNr)
+ - 😝 [Not one citizen in Japan voted for immigrant, yet here they are. if your country suck because corruption and incompetence, stay in your goddamn place and fix it](http://9gag.com/gag/avyz5KM)
+ - 👉 [I&#39;ve been on sex strike for over 30 years](http://9gag.com/gag/aXPgogg)<!-- MEMES:END -->
 
 ---
 

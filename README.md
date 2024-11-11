@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Hisense PX3-Pro Review: A Giant TV Alternative](https://www.wired.com/review/hisense-px3-pro/)
+ - [Video game history falls into place in Tetris Forever](https://www.theverge.com/2024/11/11/24291537/tetris-forever-review-ps5-switch-pc-xbox)
+ - [The push for Elon Musk to lead American AI policy is already starting](https://www.theverge.com/2024/11/11/24291401/elon-musk-donald-trump-ai-policy)
  - [MicroStrategy says it bought 27,200 bitcoin for roughly $2.03B in cash at an estimated $74,463 per coin, taking its total bitcoin holding to 279,420 &lpar;Adam James/The Block&rpar;](http://www.techmeme.com/241111/p9#a241111p9)
- - [Battery problems threaten the iPhone Slim and iPhone Fold](https://appleinsider.com/articles/24/11/11/battery-problems-threaten-the-iphone-slim-and-iphone-fold?utm_medium=rss)
- - [Sources: Amazon is developing smart glasses for its delivery drivers to guide them to, around, and within buildings, but the tech may take years to perfect &lpar;Greg Bensinger/Reuters&rpar;](http://www.techmeme.com/241111/p8#a241111p8)
- - [Best VPN for Windows 2024](https://www.cnet.com/tech/services-and-software/best-vpn-for-windows/#ftag=CAD590a51e)
- - [Boost Mobile says it’s a real wireless carrier now](https://www.theverge.com/2024/11/11/24291655/boost-mobile-5g-dish-wireless)<!-- TECH:END -->
+ - [Battery problems threaten the iPhone Slim and iPhone Fold](https://appleinsider.com/articles/24/11/11/battery-problems-threaten-the-iphone-slim-and-iphone-fold?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

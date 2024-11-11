@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Paycheck is paycheck](http://9gag.com/gag/abAGMAE)
- - 😝 [They Reached Japan, Pakistani Mozlem immigrants](http://9gag.com/gag/aKG7j91)
- - 💣 [That chin](http://9gag.com/gag/aE0PgBn)
- - 😝 [Welcome to New York](http://9gag.com/gag/aqyngzL)
- - 👉 [Remember to always quicksave](http://9gag.com/gag/aAyegKd)<!-- MEMES:END -->
+ - 😝 [Tuskegee University &lpar;historical ranked black univ&rpar; in Alabama: homecoming last night becomes a war zone. 1 dead, 16 shot in a bloody mass shooting](http://9gag.com/gag/aE0PpYo)
+ - 😝 [JD Vance Vs. Hillary Clinton, the great battle of 2025](http://9gag.com/gag/aqyng2p)
+ - 💣 [I have bad feeling about this](http://9gag.com/gag/avyzovM)
+ - 😝 [Dutch female motorcycle traveler encounters the infamous African corruption](http://9gag.com/gag/aXPggGb)
+ - 👉 [P.O.V you and your Japanese girlfriend but you don\u2019t know what you did](http://9gag.com/gag/ajP9mrw)<!-- MEMES:END -->
 
 ---
 

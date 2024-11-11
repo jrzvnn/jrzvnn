@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [The guy behind taking notes](http://9gag.com/gag/a87G5dQ)
- - 😝 [Go away peepee worm](http://9gag.com/gag/aLnwjnW)
- - 💣 [That chin](http://9gag.com/gag/aE0PgBn)
- - 😝 [A $500k McLaren destroyed and totaled](http://9gag.com/gag/adBVLGM)
- - 👉 [They Reached Japan, Pakistani Mozlem immigrants](http://9gag.com/gag/aKG7j91)<!-- MEMES:END -->
+ - 😝 [You get what you fcking deserve](http://9gag.com/gag/amov7o9)
+ - 😝 [Very difficult question to answer](http://9gag.com/gag/aRB73Ey)
+ - 💣 [Your first day at work, you meet the client and have no clue what you are doing](http://9gag.com/gag/aZZy7NQ)
+ - 😝 [JD Vance Vs. Hillary Clinton, the great battle of 2025](http://9gag.com/gag/aqyng2p)
+ - 👉 [That chin](http://9gag.com/gag/aE0PgBn)<!-- MEMES:END -->
 
 ---
 

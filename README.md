@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Apple execs address Mac mini&#39;s hidden power button in 2024 redesign](https://appleinsider.com/articles/24/11/11/apple-execs-address-mac-minis-hidden-power-button-in-2024-redesign?utm_medium=rss)
  - [How to deactivate your X account](https://www.theverge.com/24293448/x-twitter-musk-deactivate-how-to)
  - [Third developer beta round adds new Find My feature](https://appleinsider.com/articles/24/11/11/third-developer-beta-round-adds-new-find-my-feature?utm_medium=rss)
  - [Trump tariffs will raise prices, but Apple could avoid harsher taxes](https://appleinsider.com/articles/24/11/11/trump-tariffs-will-raise-prices-but-apple-could-avoid-harsher-taxes?utm_medium=rss)
- - [The final season of What If...? storms its way onto Disney Plus this December](https://www.theverge.com/2024/11/11/24293749/what-if-season-three-premiere-date-x-men-storm-secret-wars)
- - [Best Sonos Deals: Save on These High-End Wireless Speaker Bundles](https://www.cnet.com/deals/best-sonos-deals/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [The final season of What If...? storms its way onto Disney Plus this December](https://www.theverge.com/2024/11/11/24293749/what-if-season-three-premiere-date-x-men-storm-secret-wars)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

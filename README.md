@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [MicroStrategy says it bought 27,200 bitcoin for roughly $2.03B in cash at an estimated $74,463 per coin, taking its total bitcoin holding to 279,420 &lpar;Adam James/The Block&rpar;](http://www.techmeme.com/241111/p9#a241111p9)
+ - [Battery problems threaten the iPhone Slim and iPhone Fold](https://appleinsider.com/articles/24/11/11/battery-problems-threaten-the-iphone-slim-and-iphone-fold?utm_medium=rss)
  - [Sources: Amazon is developing smart glasses for its delivery drivers to guide them to, around, and within buildings, but the tech may take years to perfect &lpar;Greg Bensinger/Reuters&rpar;](http://www.techmeme.com/241111/p8#a241111p8)
  - [Boost Mobile says it’s a real wireless carrier now](https://www.theverge.com/2024/11/11/24291655/boost-mobile-5g-dish-wireless)
- - [Big Sneaker Brands Promised a 3D-Printed Revolution. These Are the Disrupters Making It Happen](https://www.wired.com/story/big-sneaker-brands-promised-a-3d-printed-revolution-these-are-the-disrupters-making-it-happen/)
- - [Apple Watch Ultra 2 one-year review: Even better than at launch](https://appleinsider.com/articles/24/11/11/apple-watch-ultra-2-one-year-review-even-better-than-at-launch?utm_medium=rss)
- - [Best Internet Providers in Charleston, South Carolina](https://www.cnet.com/home/internet/best-internet-providers-in-charleston-sc/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Big Sneaker Brands Promised a 3D-Printed Revolution. These Are the Disrupters Making It Happen](https://www.wired.com/story/big-sneaker-brands-promised-a-3d-printed-revolution-these-are-the-disrupters-making-it-happen/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

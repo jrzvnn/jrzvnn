@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Alameda Research co-CEO Sam Trabucco has agreed to hand over a slew of properties, including his yacht, to FTX creditors as part of a November 3 settlement deal &lpar;Olga Kharif/Bloomberg&rpar;](http://www.techmeme.com/241111/p21#a241111p21)
+ - [An indictment against two men suspected of hacking Snowflake clients, including AT&amp;T, says the pair and their co-conspirators extorted at least 36 bitcoins &lpar;Joseph Cox/404 Media&rpar;](http://www.techmeme.com/241111/p20#a241111p20)
  - [Google’s AI ‘learning companion’ takes chatbot answers a step further](https://www.theverge.com/2024/11/11/24293891/google-learn-about-ai-search-educational)
  - [Valve finally made a white Steam Deck that you can actually buy](https://www.theverge.com/2024/11/11/24294106/valve-white-steam-deck)
- - [Canadian digital bank Neo Financial raised a CA$360M Series D from Shopify CEO Tobi L&amp;uuml;tke, Slack co-founder Stewart Butterfield, and others &lpar;Josh Scott/BetaKit&rpar;](http://www.techmeme.com/241111/p19#a241111p19)
- - [Branch&#39;s Early Black Friday Sale Has Deals on Our Top Office Chairs](https://www.wired.com/story/branch-black-friday-sale-2024/)
- - [New in iOS 18.2 developer beta 3: Changes to Apple Intelligence, video playback, and more](https://appleinsider.com/articles/24/11/11/new-in-ios-182-developer-beta-3-changes-to-apple-intelligence-video-playback-and-more?utm_medium=rss)<!-- TECH:END -->
+ - [Canadian digital bank Neo Financial raised a CA$360M Series D from Shopify CEO Tobi L&amp;uuml;tke, Slack co-founder Stewart Butterfield, and others &lpar;Josh Scott/BetaKit&rpar;](http://www.techmeme.com/241111/p19#a241111p19)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

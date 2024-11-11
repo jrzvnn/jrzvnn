@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [How Swiggy beat Amazon to fast grocery deliveries in India by using an army of gig workers, mini-warehouses, and notable investors, ahead of its November 13 IPO &lpar;Bloomberg&rpar;](http://www.techmeme.com/241111/p5#a241111p5)
+ - [Editor’s Note: What’s Next for WIRED](https://www.wired.com/story/editors-note-election-whats-next-for-wired/)
  - [Sources: Elon Musk&#39;s US government advisory role will be structured to ensure he keeps control of Tesla, X, xAI, and others by installing acolytes and allies &lpar;Financial Times&rpar;](http://www.techmeme.com/241111/p4#a241111p4)
  - [Mattel accidentally linked a porn site on Wicked doll packaging](https://www.theverge.com/2024/11/11/24293395/mattel-wicked-doll-porn-website-url-misprint-error)
- - [FTX sues Binance and former CEO Changpeng Zhao, seeking to claw back almost $1.8B it alleges was fraudulently transferred by Sam Bankman-Fried in a 2021 deal &lpar;Emily Nicolle/Bloomberg&rpar;](http://www.techmeme.com/241111/p3#a241111p3)
- - [The AI Machine Gun of the Future Is Already Here](https://www.wired.com/story/us-military-robot-drone-guns/)
- - [Lumikai projects India&#39;s gaming market to grow from $3.8B in 2024 to $9.2B in 2029; the number of gamers in India reached 591M in 2024, up from 568M in 2023 &lpar;Dean Takahashi/VentureBeat&rpar;](http://www.techmeme.com/241111/p2#a241111p2)<!-- TECH:END -->
+ - [FTX sues Binance and former CEO Changpeng Zhao, seeking to claw back almost $1.8B it alleges was fraudulently transferred by Sam Bankman-Fried in a 2021 deal &lpar;Emily Nicolle/Bloomberg&rpar;](http://www.techmeme.com/241111/p3#a241111p3)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Gaming in brazil&lpar;Warning emoji and bad music&rpar;](http://9gag.com/gag/aE0PPm9)
- - 😝 [Unfortunate events](http://9gag.com/gag/ajP99yp)
- - 💣 [Smile](http://9gag.com/gag/a34wQ65)
- - 😝 [Looks like our boy is on the right path!](http://9gag.com/gag/aO87rNr)
- - 👉 [I&#39;ve been on sex strike for over 30 years](http://9gag.com/gag/aXPgogg)<!-- MEMES:END -->
+ - 😝 [First Foot Pictures Are Expensive Nowadays. Second My Eyes Are Up Here.](http://9gag.com/gag/ae9DMDB)
+ - 😝 [Your first day at work, you meet the client and have no clue what you are doing](http://9gag.com/gag/aZZy7NQ)
+ - 💣 [The guy behind taking notes](http://9gag.com/gag/a87G5dQ)
+ - 😝 [Busted](http://9gag.com/gag/aE0PPQK)
+ - 👉 [They Reached Japan, Pakistani Mozlem immigrants](http://9gag.com/gag/aKG7j91)<!-- MEMES:END -->
 
 ---
 

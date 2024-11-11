@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Big Sneaker Brands Promised a 3D-Printed Revolution. These Are the Disrupters Making It Happen](https://www.wired.com/story/big-sneaker-brands-promised-a-3d-printed-revolution-these-are-the-disrupters-making-it-happen/)
  - [Apple Watch Ultra 2 one-year review: Even better than at launch](https://appleinsider.com/articles/24/11/11/apple-watch-ultra-2-one-year-review-even-better-than-at-launch?utm_medium=rss)
  - [Best Internet Providers in Charleston, South Carolina](https://www.cnet.com/home/internet/best-internet-providers-in-charleston-sc/#ftag=CAD590a51e)
  - [AeroGarden, a Pandemic-Era Phenomenon, Is No More. What Happens Next?](https://www.wired.com/story/aerogarden-shutting-down-what-happens-next/)
- - [Monday Night Football: How to Watch Dolphins vs. Rams Tonight](https://www.cnet.com/tech/services-and-software/monday-night-football-how-to-watch-dolphins-vs-rams-tonight/#ftag=CAD590a51e)
- - [The US Has a Cloned Sheep Contraband Problem](https://www.wired.com/story/the-us-has-a-cloned-sheep-contraband-problem-montana-mountain-king/)<!-- TECH:END -->
+ - [Monday Night Football: How to Watch Dolphins vs. Rams Tonight](https://www.cnet.com/tech/services-and-software/monday-night-football-how-to-watch-dolphins-vs-rams-tonight/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

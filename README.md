@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Just a reminder how stupid people can be](http://9gag.com/gag/axy99M1)
- - 😝 [California Man Uses RPG To Scare Off Home Invaders](http://9gag.com/gag/aE0P8d9)
- - 💣 [Busted](http://9gag.com/gag/aE0PPQK)
+ - 😝 [Busted](http://9gag.com/gag/aE0PPQK)
+ - 😝 [Ahhh I remember this money dropping prank](http://9gag.com/gag/a5QWE4g)
+ - 💣 [Founded in 1881, Tuskegee University is a private, state-related, land-grant and nationally ranked historically black University. &lpar;from their official x acct&rpar;. LAsT NIgHT this happened.](http://9gag.com/gag/abAGVz8)
  - 😝 [Mom!... why sister eating large candy?....](http://9gag.com/gag/a4P311w)
- - 👉 [Real beauty is on the inside](http://9gag.com/gag/a87G3Dd)<!-- MEMES:END -->
+ - 👉 [A $500k McLaren destroyed and totaled](http://9gag.com/gag/adBVLGM)<!-- MEMES:END -->
 
 ---
 

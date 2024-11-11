@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [You get what you fcking deserve](http://9gag.com/gag/amov7o9)
- - 😝 [Very difficult question to answer](http://9gag.com/gag/aRB73Ey)
- - 💣 [Your first day at work, you meet the client and have no clue what you are doing](http://9gag.com/gag/aZZy7NQ)
- - 😝 [JD Vance Vs. Hillary Clinton, the great battle of 2025](http://9gag.com/gag/aqyng2p)
- - 👉 [That chin](http://9gag.com/gag/aE0PgBn)<!-- MEMES:END -->
+ - 😝 [Gaming in brazil&lpar;Warning emoji and bad music&rpar;](http://9gag.com/gag/aE0PPm9)
+ - 😝 [Smile](http://9gag.com/gag/a34wQ65)
+ - 💣 [I cumbed out of all my holes](http://9gag.com/gag/aMVxxMM)
+ - 😝 [NFL corner does the Raygun dance after a pick](http://9gag.com/gag/a87GEeY)
+ - 👉 [Looks like our boy is on the right path!](http://9gag.com/gag/aO87rNr)<!-- MEMES:END -->
 
 ---
 

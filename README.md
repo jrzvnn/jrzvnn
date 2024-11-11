@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [BOOP HIS GODDAMN SNOOT!!!](http://9gag.com/gag/aAyeGY9)
- - 😝 [President Trump names Tom Homan as his Border Czar, in charge of deportations. Illegals, start packing.](http://9gag.com/gag/aMVx49W)
- - 💣 [She\u2019s going to remember that for the rest of that moment](http://9gag.com/gag/a9ynEjW)
- - 😝 [California Man Uses RPG To Scare Off Home Invaders](http://9gag.com/gag/aE0P8d9)
- - 👉 [NoNoNoYes You Got It](http://9gag.com/gag/aRB7rVG)<!-- MEMES:END -->
+ - 😝 [Remember to always quicksave](http://9gag.com/gag/aAyegKd)
+ - 😝 [Real beauty is on the inside](http://9gag.com/gag/a87G3Dd)
+ - 💣 [Tuskegee University &lpar;historical ranked black univ&rpar; in Alabama: homecoming last night becomes a war zone. 1 dead, 16 shot in a bloody mass shooting](http://9gag.com/gag/aE0PpYo)
+ - 😝 [A $500k McLaren destroyed and totaled](http://9gag.com/gag/adBVLGM)
+ - 👉 [He likes his mouth pounded only in private ..](http://9gag.com/gag/a6ZKEbe)<!-- MEMES:END -->
 
 ---
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Sources: Elon Musk&#39;s US government advisory role will be structured to ensure he keeps control of Tesla, X, xAI, and others by installing acolytes and allies &lpar;Financial Times&rpar;](http://www.techmeme.com/241111/p4#a241111p4)
+ - [Mattel accidentally linked a porn site on Wicked doll packaging](https://www.theverge.com/2024/11/11/24293395/mattel-wicked-doll-porn-website-url-misprint-error)
  - [FTX sues Binance and former CEO Changpeng Zhao, seeking to claw back almost $1.8B it alleges was fraudulently transferred by Sam Bankman-Fried in a 2021 deal &lpar;Emily Nicolle/Bloomberg&rpar;](http://www.techmeme.com/241111/p3#a241111p3)
  - [The AI Machine Gun of the Future Is Already Here](https://www.wired.com/story/us-military-robot-drone-guns/)
- - [Lumikai projects India&#39;s gaming market to grow from $3.8B in 2024 to $9.2B in 2029; the number of gamers in India reached 591M in 2024, up from 568M in 2023 &lpar;Dean Takahashi/VentureBeat&rpar;](http://www.techmeme.com/241111/p2#a241111p2)
- - [Best Internet Providers in Cape Coral, Florida](https://www.cnet.com/home/internet/best-internet-providers-in-cape-coral-fl/#ftag=CAD590a51e)
- - [Best Treadmills of 2024](https://www.cnet.com/health/fitness/best-treadmill/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Lumikai projects India&#39;s gaming market to grow from $3.8B in 2024 to $9.2B in 2029; the number of gamers in India reached 591M in 2024, up from 568M in 2023 &lpar;Dean Takahashi/VentureBeat&rpar;](http://www.techmeme.com/241111/p2#a241111p2)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

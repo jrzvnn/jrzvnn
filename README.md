@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Real beauty is on the inside](http://9gag.com/gag/a87G3Dd)
- - 😝 [The guy behind taking notes](http://9gag.com/gag/a87G5dQ)
- - 💣 [They Reached Japan, Pakistani Mozlem immigrants](http://9gag.com/gag/aKG7j91)
- - 😝 [Remember to always quicksave](http://9gag.com/gag/aAyegKd)
- - 👉 [Very difficult question to answer](http://9gag.com/gag/aRB73Ey)<!-- MEMES:END -->
+ - 😝 [Gaming in brazil&lpar;Warning emoji and bad music&rpar;](http://9gag.com/gag/aE0PPm9)
+ - 😝 [Unfortunate events](http://9gag.com/gag/ajP99yp)
+ - 💣 [Smile](http://9gag.com/gag/a34wQ65)
+ - 😝 [I cumbed out of all my holes](http://9gag.com/gag/aMVxxMM)
+ - 👉 [Looks like our boy is on the right path!](http://9gag.com/gag/aO87rNr)<!-- MEMES:END -->
 
 ---
 

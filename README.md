@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Sources: the US plans to support a controversial cybercrime treaty at the UN this week despite concerns that it could be misused by authoritarian regimes &lpar;Jamie Tarabay/Bloomberg&rpar;](http://www.techmeme.com/241111/p11#a241111p11)
+ - [Amazon reportedly working on Echo Frames for delivery drivers](https://www.theverge.com/2024/11/11/24293500/amazon-echo-frames-delivery-drivers-smart-glasses-wearables)
  - [Why the Grammys need to change, with CEO Harvey Mason Jr.](https://www.theverge.com/24293447/grammy-awards-recording-academy-harvey-mason-beyonce-discrimination-generative-ai-decoder)
  - [7 Best Cheap Smartphones &lpar;2024&rpar;: iPhone, Android, 5G](https://www.wired.com/story/best-cheap-phones/)
- - [Here’s 15 minutes of archaeological action in Indiana Jones and the Great Circle](https://www.theverge.com/24293522/indiana-jones-and-the-great-circle-gameplay-trailer-xbox)
- - [The Verge’s favorite holiday gifts under $100](https://www.theverge.com/24224041/gifts-under-100-best-cheap-tech-ideas-2024-budget)
- - [The best entertainment of 2024](https://www.theverge.com/entertainment/24090208/best-entertainment-2024-games-film-tv-streaming)<!-- TECH:END -->
+ - [Here’s 15 minutes of archaeological action in Indiana Jones and the Great Circle](https://www.theverge.com/24293522/indiana-jones-and-the-great-circle-gameplay-trailer-xbox)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Bitcoin touches a record-high $85K, adding almost $20K in a week; Tesla is up 7%+ today, while Meta, Apple, Nvidia, Amazon, and Microsoft are down slightly &lpar;James Van Straten/CoinDesk&rpar;](http://www.techmeme.com/241111/p13#a241111p13)
+ - [Cash App users have a week left to claim part of a $15 million settlement](https://www.theverge.com/2024/11/11/24293580/cash-app-class-action-settlement-lawsuit-claim-deadline)
+ - [Don&#39;t Wait for Black Friday. Score Almost Half Off This Massive 98-Inch TCL 4K TV Right Now](https://www.cnet.com/deals/dont-wait-for-black-friday-score-almost-half-off-this-massive-98-inch-tcl-4k-tv-right-now/#ftag=CAD590a51e)
  - [Find My&#39;s Share Item Location will help airlines find your luggage](https://appleinsider.com/articles/24/11/11/find-mys-share-item-location-will-help-airlines-find-your-luggage?utm_medium=rss)
- - [MacBook Air 16GB models are on sale from $749.99 right now on Amazon](https://appleinsider.com/articles/24/11/11/macbook-air-16gb-models-are-on-sale-from-74999-right-now-on-amazon?utm_medium=rss)
- - [Apple will let you share AirTag locations with a link](https://www.theverge.com/2024/11/11/24293654/apple-ios-18-2-share-airtag-locations)
- - [Waymo compiles ‘largest ever’ dataset of pedestrian and cyclist injuries](https://www.theverge.com/2024/11/11/24290338/waymo-vru-pedestrian-cyclist-injury-dataset)
- - [Matter 1.4 is released, new Apple betas, &amp; more news on HomeKit Insider](https://appleinsider.com/articles/24/11/11/matter-14-is-released-new-apple-betas-more-news-on-homekit-insider?utm_medium=rss)<!-- TECH:END -->
+ - [Apple Is Now Selling Repair Parts for the iPhone 16](https://www.cnet.com/tech/mobile/apple-is-now-selling-repair-parts-for-the-iphone-16/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

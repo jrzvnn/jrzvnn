@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [BOOP HIS GODDAMN SNOOT!!!](http://9gag.com/gag/aAyeGY9)
- - 😝 [I&#39;ve been on sex strike for over 30 years](http://9gag.com/gag/aXPgogg)
- - 💣 [How many people actually use Brave?](http://9gag.com/gag/aVvwwBv)
- - 😝 [Words of Wisdom](http://9gag.com/gag/aD24dAd)
- - 👉 [NFL corner does the Raygun dance after a pick](http://9gag.com/gag/a87GEeY)<!-- MEMES:END -->
+ - 😝 [P.O.V you and your Japanese girlfriend but you don\u2019t know what you did](http://9gag.com/gag/ajP9mrw)
+ - 😝 [Real beauty is on the inside](http://9gag.com/gag/a87G3Dd)
+ - 💣 [Tuskegee University &lpar;historical ranked black univ&rpar; in Alabama: homecoming last night becomes a war zone. 1 dead, 16 shot in a bloody mass shooting](http://9gag.com/gag/aE0PpYo)
+ - 😝 [Welcome to New York](http://9gag.com/gag/aqyngzL)
+ - 👉 [He likes his mouth pounded only in private ..](http://9gag.com/gag/a6ZKEbe)<!-- MEMES:END -->
 
 ---
 

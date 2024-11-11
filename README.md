@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Mom!... why sister eating large candy?....](http://9gag.com/gag/a4P311w)
- - 😝 [California Man Uses RPG To Scare Off Home Invaders](http://9gag.com/gag/aE0P8d9)
- - 💣 [Ahhh I remember this money dropping prank](http://9gag.com/gag/a5QWE4g)
- - 😝 [While you&#39;re having fun and looking for memes, someone else is thinking about how to make it until their first paycheck at their new job.](http://9gag.com/gag/a87G1Dd)
- - 👉 [Busted](http://9gag.com/gag/aE0PPQK)<!-- MEMES:END -->
+ - 😝 [Mike Tyson runs into a man he robbed as a teenager.](http://9gag.com/gag/ae9DDVq)
+ - 😝 [Remember to always quicksave](http://9gag.com/gag/aAyegKd)
+ - 💣 [While you&#39;re having fun and looking for memes, someone else is thinking about how to make it until their first paycheck at their new job.](http://9gag.com/gag/a87G1Dd)
+ - 😝 [Ahhh I remember this money dropping prank](http://9gag.com/gag/a5QWE4g)
+ - 👉 [What else did she expect?](http://9gag.com/gag/aD24Dp7)<!-- MEMES:END -->
 
 ---
 

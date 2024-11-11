@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [First Foot Pictures Are Expensive Nowadays. Second My Eyes Are Up Here.](http://9gag.com/gag/ae9DMDB)
- - 😝 [Your first day at work, you meet the client and have no clue what you are doing](http://9gag.com/gag/aZZy7NQ)
- - 💣 [The guy behind taking notes](http://9gag.com/gag/a87G5dQ)
- - 😝 [Busted](http://9gag.com/gag/aE0PPQK)
- - 👉 [They Reached Japan, Pakistani Mozlem immigrants](http://9gag.com/gag/aKG7j91)<!-- MEMES:END -->
+ - 😝 [Real beauty is on the inside](http://9gag.com/gag/a87G3Dd)
+ - 😝 [The guy behind taking notes](http://9gag.com/gag/a87G5dQ)
+ - 💣 [They Reached Japan, Pakistani Mozlem immigrants](http://9gag.com/gag/aKG7j91)
+ - 😝 [Remember to always quicksave](http://9gag.com/gag/aAyegKd)
+ - 👉 [Very difficult question to answer](http://9gag.com/gag/aRB73Ey)<!-- MEMES:END -->
 
 ---
 

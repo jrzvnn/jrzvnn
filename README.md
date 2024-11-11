@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Give this women a cookie, i salute you](http://9gag.com/gag/aXPgxGv)
- - 😝 [She\u2019s going to remember that for the rest of that moment](http://9gag.com/gag/a9ynEjW)
- - 💣 [`Directed by MICHAEL BAY`](http://9gag.com/gag/a4P33PQ)
- - 😝 [Unfortunate events](http://9gag.com/gag/ajP99yp)
- - 👉 [I cumbed out of all my holes](http://9gag.com/gag/aMVxxMM)<!-- MEMES:END -->
+ - 😝 [Floorman working a drill rig](http://9gag.com/gag/a0eNQ5v)
+ - 😝 [Welcome to New York](http://9gag.com/gag/aqyngzL)
+ - 💣 [P.O.V you and your Japanese girlfriend but you don\u2019t know what you did](http://9gag.com/gag/ajP9mrw)
+ - 😝 [X Ray of a drug mule](http://9gag.com/gag/aqynj7P)
+ - 👉 [The guy behind taking notes](http://9gag.com/gag/a87G5dQ)<!-- MEMES:END -->
 
 ---
 

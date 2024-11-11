@@ -158,10 +158,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- TECH:START -->
  - [Lumikai projects India&#39;s gaming market to grow from $3.8B in 2024 to $9.2B in 2029; the number of gamers in India reached 591M in 2024, up from 568M in 2023 &lpar;Dean Takahashi/VentureBeat&rpar;](http://www.techmeme.com/241111/p2#a241111p2)
+ - [Best Internet Providers in Cape Coral, Florida](https://www.cnet.com/home/internet/best-internet-providers-in-cape-coral-fl/#ftag=CAD590a51e)
+ - [Best Treadmills of 2024](https://www.cnet.com/health/fitness/best-treadmill/#ftag=CAD590a51e)
  - [Q&amp;A with Foursquare co-founder Dennis Crowley on his startup Hopscotch Labs, which uses AI and headphones to give information as a person walks by a location &lpar;Om Malik/Crazy Stupid Tech&rpar;](http://www.techmeme.com/241111/p1#a241111p1)
- - [Amazon drops early Black Friday deals on M4 MacBook Pro, Mac mini, iMac, MacBook Air 16GB](https://appleinsider.com/articles/24/11/11/amazon-drops-early-black-friday-deals-on-m4-macbook-pro-mac-mini-imac-macbook-air-16gb?utm_medium=rss)
- - [Today&#39;s NYT Connections: Sports Edition Hints and Answers for Nov. 11, #49](https://www.cnet.com/tech/gaming/todays-nyt-connections-sports-edition-hints-and-answers-for-nov-11-49/#ftag=CAD590a51e)
- - [Today&#39;s NYT Connections Hints, Answers and Help for Nov. 11, #519](https://www.cnet.com/tech/gaming/todays-nyt-connections-hints-answers-and-help-for-nov-11-519/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Amazon drops early Black Friday deals on M4 MacBook Pro, Mac mini, iMac, MacBook Air 16GB](https://appleinsider.com/articles/24/11/11/amazon-drops-early-black-friday-deals-on-m4-macbook-pro-mac-mini-imac-macbook-air-16gb?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

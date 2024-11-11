@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Find My&#39;s Share Item Location will help airlines find your luggage](https://appleinsider.com/articles/24/11/11/find-mys-share-item-location-will-help-airlines-find-your-luggage?utm_medium=rss)
+ - [MacBook Air 16GB models are on sale from $749.99 right now on Amazon](https://appleinsider.com/articles/24/11/11/macbook-air-16gb-models-are-on-sale-from-74999-right-now-on-amazon?utm_medium=rss)
+ - [Apple will let you share AirTag locations with others](https://www.theverge.com/2024/11/11/24293654/apple-ios-18-2-share-airtag-locations)
  - [Waymo compiles ‘largest ever’ dataset of pedestrian and cyclist injuries](https://www.theverge.com/2024/11/11/24290338/waymo-vru-pedestrian-cyclist-injury-dataset)
- - [Matter 1.4 is released, new Apple betas, &amp; more news on HomeKit Insider](https://appleinsider.com/articles/24/11/11/matter-14-is-released-new-apple-betas-more-news-on-homekit-insider?utm_medium=rss)
- - [Argentina-based Ual&amp;aacute;, which offers financial services to 8M users, raised a $300M Series E led by Allianz X at a $2.75B valuation, up from $2.45B in August 2021 &lpar;Bloomberg&rpar;](http://www.techmeme.com/241111/p12#a241111p12)
- - [See the Taurids Meteor Shower Tonight, Plus More Fireballs Through Year&#39;s End](https://www.cnet.com/science/see-the-taurids-meteor-shower-tonight-plus-more-fireballs-through-years-end/#ftag=CAD590a51e)
- - [Sources: the US plans to support a controversial cybercrime treaty at the UN this week despite concerns that it could be misused by authoritarian regimes &lpar;Jamie Tarabay/Bloomberg&rpar;](http://www.techmeme.com/241111/p11#a241111p11)<!-- TECH:END -->
+ - [Matter 1.4 is released, new Apple betas, &amp; more news on HomeKit Insider](https://appleinsider.com/articles/24/11/11/matter-14-is-released-new-apple-betas-more-news-on-homekit-insider?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

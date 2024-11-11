@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [The guy behind taking notes](http://9gag.com/gag/a87G5dQ)
- - 😝 [P.O.V you and your Japanese girlfriend but you don\u2019t know what you did](http://9gag.com/gag/ajP9mrw)
- - 💣 [Mike Tyson runs into a man he robbed as a teenager.](http://9gag.com/gag/ae9DDVq)
- - 😝 [Remember to always quicksave](http://9gag.com/gag/aAyegKd)
- - 👉 [Your first day at work, you meet the client and have no clue what you are doing](http://9gag.com/gag/aZZy7NQ)<!-- MEMES:END -->
+ - 😝 [Paycheck is paycheck](http://9gag.com/gag/abAGMAE)
+ - 😝 [They Reached Japan, Pakistani Mozlem immigrants](http://9gag.com/gag/aKG7j91)
+ - 💣 [That chin](http://9gag.com/gag/aE0PgBn)
+ - 😝 [Welcome to New York](http://9gag.com/gag/aqyngzL)
+ - 👉 [Remember to always quicksave](http://9gag.com/gag/aAyegKd)<!-- MEMES:END -->
 
 ---
 

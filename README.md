@@ -158,10 +158,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- TECH:START -->
  - [Apple execs address Mac mini&#39;s hidden power button in 2024 redesign](https://appleinsider.com/articles/24/11/11/apple-execs-address-mac-minis-hidden-power-button-in-2024-redesign?utm_medium=rss)
+ - [Grab Free At-Home COVID-19 Tests Before the Winter Wave Hits](https://www.cnet.com/health/grab-free-at-home-covid-19-tests-before-the-winter-wave-hits/#ftag=CAD590a51e)
  - [How to deactivate your X account](https://www.theverge.com/24293448/x-twitter-musk-deactivate-how-to)
- - [Third developer beta round adds new Find My feature](https://appleinsider.com/articles/24/11/11/third-developer-beta-round-adds-new-find-my-feature?utm_medium=rss)
- - [Trump tariffs will raise prices, but Apple could avoid harsher taxes](https://appleinsider.com/articles/24/11/11/trump-tariffs-will-raise-prices-but-apple-could-avoid-harsher-taxes?utm_medium=rss)
- - [The final season of What If...? storms its way onto Disney Plus this December](https://www.theverge.com/2024/11/11/24293749/what-if-season-three-premiere-date-x-men-storm-secret-wars)<!-- TECH:END -->
+ - [Best Internet Providers in Frederick, Maryland](https://www.cnet.com/home/internet/best-internet-providers-in-frederick-md/#ftag=CAD590a51e)
+ - [Best Teeth Whitening Strips of 2024](https://www.cnet.com/health/personal-care/best-teeth-whitening-strips/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

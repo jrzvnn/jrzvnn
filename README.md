@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [That chin](http://9gag.com/gag/aE0PgBn)
- - 😝 [Very difficult question to answer](http://9gag.com/gag/aRB73Ey)
- - 💣 [Go away peepee worm](http://9gag.com/gag/aLnwjnW)
- - 😝 [Real beauty is on the inside](http://9gag.com/gag/a87G3Dd)
- - 👉 [Paycheck is paycheck](http://9gag.com/gag/abAGMAE)<!-- MEMES:END -->
+ - 😝 [She\u2019s going to remember that for the rest of that moment](http://9gag.com/gag/a9ynEjW)
+ - 😝 [What&#39;s happening to Europe.](http://9gag.com/gag/aLnwwb5)
+ - 💣 [`Directed by MICHAEL BAY`](http://9gag.com/gag/a4P33PQ)
+ - 😝 [Unfortunate events](http://9gag.com/gag/ajP99yp)
+ - 👉 [I cumbed out of all my holes](http://9gag.com/gag/aMVxxMM)<!-- MEMES:END -->
 
 ---
 

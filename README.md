@@ -166,10 +166,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Remember to always quicksave](http://9gag.com/gag/aAyegKd)
- - 😝 [Real beauty is on the inside](http://9gag.com/gag/a87G3Dd)
- - 💣 [Tuskegee University &lpar;historical ranked black univ&rpar; in Alabama: homecoming last night becomes a war zone. 1 dead, 16 shot in a bloody mass shooting](http://9gag.com/gag/aE0PpYo)
- - 😝 [A $500k McLaren destroyed and totaled](http://9gag.com/gag/adBVLGM)
+ - 😝 [While you&#39;re having fun and looking for memes, someone else is thinking about how to make it until their first paycheck at their new job.](http://9gag.com/gag/a87G1Dd)
+ - 😝 [Mom!... why sister eating large candy?....](http://9gag.com/gag/a4P311w)
+ - 💣 [Real beauty is on the inside](http://9gag.com/gag/a87G3Dd)
+ - 😝 [I should send this clip to the police station. So they can do something .](http://9gag.com/gag/an74g2L)
  - 👉 [He likes his mouth pounded only in private ..](http://9gag.com/gag/a6ZKEbe)<!-- MEMES:END -->
 
 ---

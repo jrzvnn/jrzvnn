@@ -166,10 +166,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [P.O.V you and your Japanese girlfriend but you don\u2019t know what you did](http://9gag.com/gag/ajP9mrw)
+ - 😝 [California Man Uses RPG To Scare Off Home Invaders](http://9gag.com/gag/aE0P8d9)
  - 😝 [Real beauty is on the inside](http://9gag.com/gag/a87G3Dd)
- - 💣 [Tuskegee University &lpar;historical ranked black univ&rpar; in Alabama: homecoming last night becomes a war zone. 1 dead, 16 shot in a bloody mass shooting](http://9gag.com/gag/aE0PpYo)
- - 😝 [Welcome to New York](http://9gag.com/gag/aqyngzL)
+ - 💣 [Welcome to New York](http://9gag.com/gag/aqyngzL)
+ - 😝 [Tuskegee University &lpar;historical ranked black univ&rpar; in Alabama: homecoming last night becomes a war zone. 1 dead, 16 shot in a bloody mass shooting](http://9gag.com/gag/aE0PpYo)
  - 👉 [He likes his mouth pounded only in private ..](http://9gag.com/gag/a6ZKEbe)<!-- MEMES:END -->
 
 ---

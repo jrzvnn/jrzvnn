@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Mike Tyson runs into a man he robbed as a teenager.](http://9gag.com/gag/ae9DDVq)
- - 😝 [That chin](http://9gag.com/gag/aE0PgBn)
- - 💣 [Size of Stephenson 2-18 &lpar;largest known star&rpar; in comparison to Earth.](http://9gag.com/gag/amovg82)
- - 😝 [Mom!... why sister eating large candy?....](http://9gag.com/gag/a4P311w)
- - 👉 [Dutch female motorcycle traveler encounters the infamous African corruption](http://9gag.com/gag/aXPggGb)<!-- MEMES:END -->
+ - 😝 [Robbers???](http://9gag.com/gag/a0eNZwX)
+ - 😝 [Reject politics, embrace the cool ice stick.](http://9gag.com/gag/aMVx4vM)
+ - 💣 [Lets elevate it and take it to upper class](http://9gag.com/gag/aPA7Z8P)
+ - 😝 [The border Chad](http://9gag.com/gag/a9ynqj0)
+ - 👉 [NoNoNoYes You Got It](http://9gag.com/gag/aRB7rVG)<!-- MEMES:END -->
 
 ---
 

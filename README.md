@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Are they hearing themselves?](http://9gag.com/gag/aXPgYb9)
- - 😝 [Welcome to New York](http://9gag.com/gag/aqyngzL)
- - 💣 [P.O.V you and your Japanese girlfriend but you don\u2019t know what you did](http://9gag.com/gag/ajP9mrw)
- - 😝 [Paycheck is paycheck](http://9gag.com/gag/abAGMAE)
- - 👉 [They Reached Japan, Pakistani Mozlem immigrants](http://9gag.com/gag/aKG7j91)<!-- MEMES:END -->
+ - 😝 [`Directed by MICHAEL BAY`](http://9gag.com/gag/a4P33PQ)
+ - 😝 [She\u2019s going to remember that for the rest of that moment](http://9gag.com/gag/a9ynEjW)
+ - 💣 [Smile](http://9gag.com/gag/a34wQ65)
+ - 😝 [Unfortunate events](http://9gag.com/gag/ajP99yp)
+ - 👉 [I cumbed out of all my holes](http://9gag.com/gag/aMVxxMM)<!-- MEMES:END -->
 
 ---
 

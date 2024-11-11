@@ -158,10 +158,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- TECH:START -->
  - [Research integrity specialists and scientific publishers raise concerns about the ease with which scientific data can be fabricated using generative AI tools &lpar;Diana Kwon/Nature&rpar;](http://www.techmeme.com/241110/p10#a241110p10)
+ - [What If We Told You You&#39;ve Probably Had Enough Protein Today?](https://www.cnet.com/health/nutrition/what-if-we-told-you-youve-probably-had-enough-protein-today/#ftag=CAD590a51e)
  - [Best Solar Panel Installation Companies in Washington](https://www.cnet.com/home/energy-and-utilities/washington-solar-panels/#ftag=CAD590a51e)
  - [Best Internet Providers in Erie, Pennsylvania](https://www.cnet.com/home/internet/best-internet-providers-in-erie-pa/#ftag=CAD590a51e)
- - [The next Nintendo Direct is all about Super Nintendo World’s Donkey Kong Country](https://www.theverge.com/2024/11/10/24293054/super-nintendo-world-donkey-kong-country-area-direct-showcase-theme-park)
- - [Best Internet Providers in Concord, North Carolina](https://www.cnet.com/home/internet/best-internet-providers-in-concord-nc/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [The next Nintendo Direct is all about Super Nintendo World’s Donkey Kong Country](https://www.theverge.com/2024/11/10/24293054/super-nintendo-world-donkey-kong-country-area-direct-showcase-theme-park)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

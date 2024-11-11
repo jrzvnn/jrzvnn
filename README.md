@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [People already forgot about Joe](http://9gag.com/gag/ayNeX1M)
+ - 😝 [P.O.V you and your Japanese girlfriend but you don\u2019t know what you did](http://9gag.com/gag/ajP9mrw)
+ - 💣 [The guy behind taking notes](http://9gag.com/gag/a87G5dQ)
  - 😝 [Tuskegee University &lpar;historical ranked black univ&rpar; in Alabama: homecoming last night becomes a war zone. 1 dead, 16 shot in a bloody mass shooting](http://9gag.com/gag/aE0PpYo)
- - 😝 [JD Vance Vs. Hillary Clinton, the great battle of 2025](http://9gag.com/gag/aqyng2p)
- - 💣 [I have bad feeling about this](http://9gag.com/gag/avyzovM)
- - 😝 [Dutch female motorcycle traveler encounters the infamous African corruption](http://9gag.com/gag/aXPggGb)
- - 👉 [P.O.V you and your Japanese girlfriend but you don\u2019t know what you did](http://9gag.com/gag/ajP9mrw)<!-- MEMES:END -->
+ - 👉 [A $500k McLaren destroyed and totaled](http://9gag.com/gag/adBVLGM)<!-- MEMES:END -->
 
 ---
 

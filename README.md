@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Well well well](http://9gag.com/gag/aMVxxOP)
- - 😝 [Six, I am sure](http://9gag.com/gag/aAyexPo)
- - 💣 [Paycheck is paycheck](http://9gag.com/gag/abAGMAE)
- - 😝 [Power of friendship](http://9gag.com/gag/aVvwM6M)
- - 👉 [Welcome to New York](http://9gag.com/gag/aqyngzL)<!-- MEMES:END -->
+ - 😝 [Give this women a cookie, i salute you](http://9gag.com/gag/aXPgxGv)
+ - 😝 [What&#39;s happening to Europe.](http://9gag.com/gag/aLnwwb5)
+ - 💣 [Unfortunate events](http://9gag.com/gag/ajP99yp)
+ - 😝 [`Directed by MICHAEL BAY`](http://9gag.com/gag/a4P33PQ)
+ - 👉 [Looks like our boy is on the right path!](http://9gag.com/gag/aO87rNr)<!-- MEMES:END -->
 
 ---
 

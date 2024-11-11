@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The NYT Tech Guild’s election week strike is over](https://www.theverge.com/2024/11/11/24294023/new-york-times-tech-workers-strike-end)
+ - [Bluesky adds 700,000 new users in a week](https://www.theverge.com/2024/11/11/24293920/bluesky-700000-new-users-week-x-threads)
  - [Super Nintendo World’s new Donkey Kong area has a rollercoaster and rhythm games](https://www.theverge.com/2024/11/11/24293604/super-nintendo-world-theme-park-donkey-kong-country-osaka-date)
  - [Ilya Sutskever says &quot;we&#39;re back in the age of wonder and discovery&quot; as AI companies focus on pre-training, inference improvements, and finding the &quot;next thing&quot; &lpar;Reuters&rpar;](http://www.techmeme.com/241111/p18#a241111p18)
- - [Elevate your collection with Apple Music&#39;s luxurious 100 best albums book](https://appleinsider.com/articles/24/11/11/elevate-your-collection-with-apple-musics-luxurious-100-best-albums-book?utm_medium=rss)
- - [How To Read Laundry Icons: Making Sense of Your Clothing Tags](https://www.cnet.com/home/kitchen-and-household/how-to-read-laundry-symbols-what-those-icons-on-clothing-tags-mean/#ftag=CAD590a51e)
- - [The NYT says the Tech Guild is ending its strike after a weeklong stoppage; during the strike, dozens of tech workers crossed the picket line &lpar;Lucia Moses/Business Insider&rpar;](http://www.techmeme.com/241111/p17#a241111p17)<!-- TECH:END -->
+ - [Elevate your collection with Apple Music&#39;s luxurious 100 best albums book](https://appleinsider.com/articles/24/11/11/elevate-your-collection-with-apple-musics-luxurious-100-best-albums-book?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

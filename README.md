@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Google’s AI ‘learning companion’ takes chatbot answers a step further](https://www.theverge.com/2024/11/11/24293891/google-learn-about-ai-search-educational)
+ - [Valve finally made a white Steam Deck that you can actually buy](https://www.theverge.com/2024/11/11/24294106/valve-white-steam-deck)
  - [Canadian digital bank Neo Financial raised a CA$360M Series D from Shopify CEO Tobi L&amp;uuml;tke, Slack co-founder Stewart Butterfield, and others &lpar;Josh Scott/BetaKit&rpar;](http://www.techmeme.com/241111/p19#a241111p19)
  - [Branch&#39;s Early Black Friday Sale Has Deals on Our Top Office Chairs](https://www.wired.com/story/branch-black-friday-sale-2024/)
- - [New in iOS 18.2 developer beta 3: Changes to Apple Intelligence, video playback, and more](https://appleinsider.com/articles/24/11/11/new-in-ios-182-developer-beta-3-changes-to-apple-intelligence-video-playback-and-more?utm_medium=rss)
- - [The NYT Tech Guild’s election week strike is over](https://www.theverge.com/2024/11/11/24294023/new-york-times-tech-workers-strike-end)
- - [Bluesky adds 700,000 new users in a week](https://www.theverge.com/2024/11/11/24293920/bluesky-700000-new-users-week-x-threads)<!-- TECH:END -->
+ - [New in iOS 18.2 developer beta 3: Changes to Apple Intelligence, video playback, and more](https://appleinsider.com/articles/24/11/11/new-in-ios-182-developer-beta-3-changes-to-apple-intelligence-video-playback-and-more?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

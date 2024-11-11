@@ -158,10 +158,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- TECH:START -->
  - [Alameda Research co-CEO Sam Trabucco has agreed to hand over a slew of properties, including his yacht, to FTX creditors as part of a November 3 settlement deal &lpar;Olga Kharif/Bloomberg&rpar;](http://www.techmeme.com/241111/p21#a241111p21)
+ - [Monday Night Football: How to Watch Dolphins vs. Rams Tonight](https://www.cnet.com/tech/services-and-software/monday-night-football-how-to-watch-dolphins-vs-rams-tonight/#ftag=CAD590a51e)
  - [An indictment against two men suspected of hacking Snowflake clients, including AT&amp;T, says the pair and their co-conspirators extorted at least 36 bitcoins &lpar;Joseph Cox/404 Media&rpar;](http://www.techmeme.com/241111/p20#a241111p20)
  - [Google’s AI ‘learning companion’ takes chatbot answers a step further](https://www.theverge.com/2024/11/11/24293891/google-learn-about-ai-search-educational)
- - [Valve finally made a white Steam Deck that you can actually buy](https://www.theverge.com/2024/11/11/24294106/valve-white-steam-deck)
- - [Canadian digital bank Neo Financial raised a CA$360M Series D from Shopify CEO Tobi L&amp;uuml;tke, Slack co-founder Stewart Butterfield, and others &lpar;Josh Scott/BetaKit&rpar;](http://www.techmeme.com/241111/p19#a241111p19)<!-- TECH:END -->
+ - [Best Wireless Earbuds and Headphones for Your Samsung Phone in 2024](https://www.cnet.com/tech/mobile/best-wireless-earbuds-and-headphones-for-samsung-phones/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

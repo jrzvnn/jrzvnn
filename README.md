@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Why the Grammys need to change, with CEO Harvey Mason Jr.](https://www.theverge.com/24293447/grammy-awards-recording-academy-harvey-mason-beyonce-discrimination-generative-ai-decoder)
  - [7 Best Cheap Smartphones &lpar;2024&rpar;: iPhone, Android, 5G](https://www.wired.com/story/best-cheap-phones/)
  - [Here’s 15 minutes of archaeological action in Indiana Jones and the Great Circle](https://www.theverge.com/24293522/indiana-jones-and-the-great-circle-gameplay-trailer-xbox)
  - [The Verge’s favorite holiday gifts under $100](https://www.theverge.com/24224041/gifts-under-100-best-cheap-tech-ideas-2024-budget)
- - [The best entertainment of 2024](https://www.theverge.com/entertainment/24090208/best-entertainment-2024-games-film-tv-streaming)
- - [FTX is suing Binance to recover nearly $1.8 billion](https://www.theverge.com/2024/11/11/24293431/ftx-suing-binance-1-8-billion-fraud-allegations)<!-- TECH:END -->
+ - [The best entertainment of 2024](https://www.theverge.com/entertainment/24090208/best-entertainment-2024-games-film-tv-streaming)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

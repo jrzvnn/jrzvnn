@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Give this women a cookie, i salute you](http://9gag.com/gag/aXPgxGv)
- - 😝 [What&#39;s happening to Europe.](http://9gag.com/gag/aLnwwb5)
- - 💣 [Unfortunate events](http://9gag.com/gag/ajP99yp)
- - 😝 [`Directed by MICHAEL BAY`](http://9gag.com/gag/a4P33PQ)
- - 👉 [Looks like our boy is on the right path!](http://9gag.com/gag/aO87rNr)<!-- MEMES:END -->
+ - 😝 [USA don&#39;t have gun problem : it is what it is statistic](http://9gag.com/gag/a87GE0O)
+ - 😝 [Mike Tyson runs into a man he robbed as a teenager.](http://9gag.com/gag/ae9DDVq)
+ - 💣 [Gaming in brazil&lpar;Warning emoji and bad music&rpar;](http://9gag.com/gag/aE0PPm9)
+ - 😝 [Power of friendship](http://9gag.com/gag/aVvwM6M)
+ - 👉 [Well well well](http://9gag.com/gag/aMVxxOP)<!-- MEMES:END -->
 
 ---
 

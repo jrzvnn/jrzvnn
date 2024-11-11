@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Gaming in brazil&lpar;Warning emoji and bad music&rpar;](http://9gag.com/gag/aE0PPm9)
- - 😝 [I cumbed out of all my holes](http://9gag.com/gag/aMVxxMM)
- - 💣 [Looks like our boy is on the right path!](http://9gag.com/gag/aO87rNr)
- - 😝 [Not one citizen in Japan voted for immigrant, yet here they are. if your country suck because corruption and incompetence, stay in your goddamn place and fix it](http://9gag.com/gag/avyz5KM)
- - 👉 [I&#39;ve been on sex strike for over 30 years](http://9gag.com/gag/aXPgogg)<!-- MEMES:END -->
+ - 😝 [Dutch people march demanding to overthrow the government and replace it with Sharia. They state in Arabic `either you surrender or war`](http://9gag.com/gag/aGydzeG)
+ - 😝 [Avant-garde building = build for anxiety.](http://9gag.com/gag/an745mq)
+ - 💣 [Tuskegee University &lpar;historical ranked black univ&rpar; in Alabama: homecoming last night becomes a war zone. 1 dead, 16 shot in a bloody mass shooting](http://9gag.com/gag/aE0PpYo)
+ - 😝 [My cup of tea shirt](http://9gag.com/gag/a2vW1ow)
+ - 👉 [P.O.V you and your Japanese girlfriend but you don\u2019t know what you did](http://9gag.com/gag/ajP9mrw)<!-- MEMES:END -->
 
 ---
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Tuskegee University &lpar;historical ranked black univ&rpar; in Alabama: homecoming last night becomes a war zone. 1 dead, 16 shot in a bloody mass shooting](http://9gag.com/gag/aE0PpYo)
- - 😝 [She lagged](http://9gag.com/gag/aYQyY07)
- - 💣 [They Reached Japan, Pakistani Mozlem immigrants](http://9gag.com/gag/aKG7j91)
- - 😝 [Go away peepee worm](http://9gag.com/gag/aLnwjnW)
- - 👉 [Welcome to New York](http://9gag.com/gag/aqyngzL)<!-- MEMES:END -->
+ - 😝 [Give this women a cookie, i salute you](http://9gag.com/gag/aXPgxGv)
+ - 😝 [She\u2019s going to remember that for the rest of that moment](http://9gag.com/gag/a9ynEjW)
+ - 💣 [`Directed by MICHAEL BAY`](http://9gag.com/gag/a4P33PQ)
+ - 😝 [Unfortunate events](http://9gag.com/gag/ajP99yp)
+ - 👉 [I cumbed out of all my holes](http://9gag.com/gag/aMVxxMM)<!-- MEMES:END -->
 
 ---
 

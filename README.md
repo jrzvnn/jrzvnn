@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [FTX is suing Binance to recover nearly $1.8 billion](https://www.theverge.com/2024/11/11/24293431/ftx-suing-binance-1-8-billion-fraud-allegations)
- - [US blocks TSMC chip exports, but Apple&#39;s chips face a different threat](https://appleinsider.com/articles/24/11/11/us-blocks-tsmc-chip-exports-but-apples-chips-face-a-different-threat?utm_medium=rss)
- - [11x, which makes AI bots that help salespeople with common tasks, raised $50M led by a16z at a $320M valuation, after raising a $24M Series A in September 2024 &lpar;Bloomberg&rpar;](http://www.techmeme.com/241111/p10#a241111p10)
- - [Hisense PX3-Pro Review: A Giant TV Alternative](https://www.wired.com/review/hisense-px3-pro/)
- - [Video game history falls into place in Tetris Forever](https://www.theverge.com/2024/11/11/24291537/tetris-forever-review-ps5-switch-pc-xbox)<!-- TECH:END -->
+ - [Refi Rates Unchanged Despite Fed Cut. Today&#39;s Refinance Rates, Nov. 11, 2024](https://www.cnet.com/personal-finance/refi-rates-tick-even-lower-refinance-rates-for-nov-11-2024/#ftag=CAD590a51e)
+ - [Mortgage Rates Are Stubbornly High After Fed Rate Cut. Today&#39;s Mortgage Rates, Nov. 11, 2024](https://www.cnet.com/personal-finance/30-year-fixed-mortgage-decreases-current-mortgage-rates-for-nov-11-2024/#ftag=CAD590a51e)
+ - [22 Best Black Friday Mattress Deals to Shop This Season](https://www.cnet.com/deals/best-black-friday-mattress-deals-2024/#ftag=CAD590a51e)
+ - [The Tragedy and Triumph of &#39;The Penguin&#39; Finale, Explained](https://www.cnet.com/tech/services-and-software/penguin-season-1-finale-explained/#ftag=CAD590a51e)
+ - [FTX is suing Binance to recover nearly $1.8 billion](https://www.theverge.com/2024/11/11/24293431/ftx-suing-binance-1-8-billion-fraud-allegations)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

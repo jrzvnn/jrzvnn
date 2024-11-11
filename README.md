@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Dutch people march demanding to overthrow the government and replace it with Sharia. They state in Arabic `either you surrender or war`](http://9gag.com/gag/aGydzeG)
- - 😝 [Avant-garde building = build for anxiety.](http://9gag.com/gag/an745mq)
- - 💣 [Tuskegee University &lpar;historical ranked black univ&rpar; in Alabama: homecoming last night becomes a war zone. 1 dead, 16 shot in a bloody mass shooting](http://9gag.com/gag/aE0PpYo)
- - 😝 [My cup of tea shirt](http://9gag.com/gag/a2vW1ow)
- - 👉 [P.O.V you and your Japanese girlfriend but you don\u2019t know what you did](http://9gag.com/gag/ajP9mrw)<!-- MEMES:END -->
+ - 😝 [BOOP HIS GODDAMN SNOOT!!!](http://9gag.com/gag/aAyeGY9)
+ - 😝 [I&#39;ve been on sex strike for over 30 years](http://9gag.com/gag/aXPgogg)
+ - 💣 [How many people actually use Brave?](http://9gag.com/gag/aVvwwBv)
+ - 😝 [Words of Wisdom](http://9gag.com/gag/aD24dAd)
+ - 👉 [NFL corner does the Raygun dance after a pick](http://9gag.com/gag/a87GEeY)<!-- MEMES:END -->
 
 ---
 

@@ -157,10 +157,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Refi Rates Unchanged Despite Fed Cut. Today&#39;s Refinance Rates, Nov. 11, 2024](https://www.cnet.com/personal-finance/refi-rates-tick-even-lower-refinance-rates-for-nov-11-2024/#ftag=CAD590a51e)
- - [Mortgage Rates Are Stubbornly High After Fed Rate Cut. Today&#39;s Mortgage Rates, Nov. 11, 2024](https://www.cnet.com/personal-finance/30-year-fixed-mortgage-decreases-current-mortgage-rates-for-nov-11-2024/#ftag=CAD590a51e)
- - [22 Best Black Friday Mattress Deals to Shop This Season](https://www.cnet.com/deals/best-black-friday-mattress-deals-2024/#ftag=CAD590a51e)
- - [The Tragedy and Triumph of &#39;The Penguin&#39; Finale, Explained](https://www.cnet.com/tech/services-and-software/penguin-season-1-finale-explained/#ftag=CAD590a51e)
+ - [7 Best Cheap Smartphones &lpar;2024&rpar;: iPhone, Android, 5G](https://www.wired.com/story/best-cheap-phones/)
+ - [Here’s 15 minutes of archaeological action in Indiana Jones and the Great Circle](https://www.theverge.com/24293522/indiana-jones-and-the-great-circle-gameplay-trailer-xbox)
+ - [The Verge’s favorite holiday gifts under $100](https://www.theverge.com/24224041/gifts-under-100-best-cheap-tech-ideas-2024-budget)
+ - [The best entertainment of 2024](https://www.theverge.com/entertainment/24090208/best-entertainment-2024-games-film-tv-streaming)
  - [FTX is suing Binance to recover nearly $1.8 billion](https://www.theverge.com/2024/11/11/24293431/ftx-suing-binance-1-8-billion-fraud-allegations)<!-- TECH:END -->
 
 ### 😂 Memes of the hour

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Founded in 1881, Tuskegee University is a private, state-related, land-grant and nationally ranked historically black University. &lpar;from their official x acct&rpar;. LAsT NIgHT this happened.](http://9gag.com/gag/abAGVz8)
- - 😝 [The guy behind taking notes](http://9gag.com/gag/a87G5dQ)
- - 💣 [Paycheck is paycheck](http://9gag.com/gag/abAGMAE)
- - 😝 [X Ray of a drug mule](http://9gag.com/gag/aqynj7P)
- - 👉 [That chin](http://9gag.com/gag/aE0PgBn)<!-- MEMES:END -->
+ - 😝 [Gaming in brazil&lpar;Warning emoji and bad music&rpar;](http://9gag.com/gag/aE0PPm9)
+ - 😝 [Unfortunate events](http://9gag.com/gag/ajP99yp)
+ - 💣 [Smile](http://9gag.com/gag/a34wQ65)
+ - 😝 [Looks like our boy is on the right path!](http://9gag.com/gag/aO87rNr)
+ - 👉 [I&#39;ve been on sex strike for over 30 years](http://9gag.com/gag/aXPgogg)<!-- MEMES:END -->
 
 ---
 

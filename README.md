@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The NYT says the Tech Guild is ending its strike after a weeklong stoppage; during the strike, dozens of tech workers crossed the picket line &lpar;Lucia Moses/Business Insider&rpar;](http://www.techmeme.com/241111/p17#a241111p17)
- - [Signal calls now work a lot more like Meet and Zoom](https://www.theverge.com/2024/11/11/24293873/signal-calls-work-like-meet-zoom)
+ - [Ilya Sutskever says &quot;we&#39;re back in the age of wonder and discovery&quot; as AI companies focus on pre-training, inference improvements, and finding the &quot;next thing&quot; &lpar;Reuters&rpar;](http://www.techmeme.com/241111/p18#a241111p18)
  - [Elevate your collection with Apple Music&#39;s luxurious 100 best albums book](https://appleinsider.com/articles/24/11/11/elevate-your-collection-with-apple-musics-luxurious-100-best-albums-book?utm_medium=rss)
- - [Sources: more than a year before the election, TikTok execs revamped moderation rules and trust and safety staff to make TikTok more appealing to Trump fans &lpar;The Information&rpar;](http://www.techmeme.com/241111/p16#a241111p16)
- - [Best Samsung Galaxy Z Flip 5 Deals: Grab This Previous-Gen Flip Phone for Cheap](https://www.cnet.com/deals/samsung-galaxy-z-flip-5-deals/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [How To Read Laundry Icons: Making Sense of Your Clothing Tags](https://www.cnet.com/home/kitchen-and-household/how-to-read-laundry-symbols-what-those-icons-on-clothing-tags-mean/#ftag=CAD590a51e)
+ - [The NYT says the Tech Guild is ending its strike after a weeklong stoppage; during the strike, dozens of tech workers crossed the picket line &lpar;Lucia Moses/Business Insider&rpar;](http://www.techmeme.com/241111/p17#a241111p17)
+ - [Best Internet Providers in Davenport, Iowa](https://www.cnet.com/home/internet/best-internet-providers-in-davenport-ia/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

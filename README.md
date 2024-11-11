@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [FTX sues crypto trader &quot;Humpy the Whale&quot; alleging margin trading market manipulation from January 2021 to September 2022, leading to FTX and Alameda losing $1B &lpar;Callan Quinn/CoinDesk&rpar;](http://www.techmeme.com/241111/p7#a241111p7)
  - [Best MacBooks &lpar;2024&rpar;: Which Model Should You Buy?](https://www.wired.com/story/which-macbook-should-you-buy/)
  - [a16z says it is &quot;very optimistic&quot; that the US government will &quot;foster innovation&quot; in crypto and there is a &quot;pathway for constructive engagement&quot; with regulators &lpar;a16z crypto&rpar;](http://www.techmeme.com/241111/p6#a241111p6)
  - [How Swiggy beat Amazon to fast grocery deliveries in India by using an army of gig workers, mini-warehouses, and notable investors, ahead of its November 13 IPO &lpar;Bloomberg&rpar;](http://www.techmeme.com/241111/p5#a241111p5)
- - [Editor’s Note: What’s Next for WIRED](https://www.wired.com/story/editors-note-election-whats-next-for-wired/)
- - [Sources: Elon Musk&#39;s US government advisory role will be structured to ensure he keeps control of Tesla, X, xAI, and others by installing acolytes and allies &lpar;Financial Times&rpar;](http://www.techmeme.com/241111/p4#a241111p4)<!-- TECH:END -->
+ - [Editor’s Note: What’s Next for WIRED](https://www.wired.com/story/editors-note-election-whats-next-for-wired/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

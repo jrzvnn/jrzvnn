@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [While you&#39;re having fun and looking for memes, someone else is thinking about how to make it until their first paycheck at their new job.](http://9gag.com/gag/a87G1Dd)
+ - 😝 [He likes his mouth pounded only in private ..](http://9gag.com/gag/a6ZKEbe)
+ - 😝 [Mike Tyson runs into a man he robbed as a teenager.](http://9gag.com/gag/ae9DDVq)
+ - 💣 [California Man Uses RPG To Scare Off Home Invaders](http://9gag.com/gag/aE0P8d9)
  - 😝 [Mom!... why sister eating large candy?....](http://9gag.com/gag/a4P311w)
- - 💣 [Real beauty is on the inside](http://9gag.com/gag/a87G3Dd)
- - 😝 [I should send this clip to the police station. So they can do something .](http://9gag.com/gag/an74g2L)
- - 👉 [He likes his mouth pounded only in private ..](http://9gag.com/gag/a6ZKEbe)<!-- MEMES:END -->
+ - 👉 [Real beauty is on the inside](http://9gag.com/gag/a87G3Dd)<!-- MEMES:END -->
 
 ---
 

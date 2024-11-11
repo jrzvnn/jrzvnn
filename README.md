@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [FTX is suing Binance to recover nearly $1.8 billion](https://www.theverge.com/2024/11/11/24293431/ftx-suing-binance-1-8-billion-fraud-allegations)
+ - [US blocks TSMC chip exports, but Apple&#39;s chips face a different threat](https://appleinsider.com/articles/24/11/11/us-blocks-tsmc-chip-exports-but-apples-chips-face-a-different-threat?utm_medium=rss)
+ - [11x, which makes AI bots that help salespeople with common tasks, raised $50M led by a16z at a $320M valuation, after raising a $24M Series A in September 2024 &lpar;Bloomberg&rpar;](http://www.techmeme.com/241111/p10#a241111p10)
  - [Hisense PX3-Pro Review: A Giant TV Alternative](https://www.wired.com/review/hisense-px3-pro/)
- - [Video game history falls into place in Tetris Forever](https://www.theverge.com/2024/11/11/24291537/tetris-forever-review-ps5-switch-pc-xbox)
- - [The push for Elon Musk to lead American AI policy is already starting](https://www.theverge.com/2024/11/11/24291401/elon-musk-donald-trump-ai-policy)
- - [MicroStrategy says it bought 27,200 bitcoin for roughly $2.03B in cash at an estimated $74,463 per coin, taking its total bitcoin holding to 279,420 &lpar;Adam James/The Block&rpar;](http://www.techmeme.com/241111/p9#a241111p9)
- - [Battery problems threaten the iPhone Slim and iPhone Fold](https://appleinsider.com/articles/24/11/11/battery-problems-threaten-the-iphone-slim-and-iphone-fold?utm_medium=rss)<!-- TECH:END -->
+ - [Video game history falls into place in Tetris Forever](https://www.theverge.com/2024/11/11/24291537/tetris-forever-review-ps5-switch-pc-xbox)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [USA don&#39;t have gun problem : it is what it is statistic](http://9gag.com/gag/a87GE0O)
- - 😝 [Mike Tyson runs into a man he robbed as a teenager.](http://9gag.com/gag/ae9DDVq)
- - 💣 [Gaming in brazil&lpar;Warning emoji and bad music&rpar;](http://9gag.com/gag/aE0PPm9)
- - 😝 [Power of friendship](http://9gag.com/gag/aVvwM6M)
- - 👉 [Well well well](http://9gag.com/gag/aMVxxOP)<!-- MEMES:END -->
+ - 😝 [That chin](http://9gag.com/gag/aE0PgBn)
+ - 😝 [Very difficult question to answer](http://9gag.com/gag/aRB73Ey)
+ - 💣 [Go away peepee worm](http://9gag.com/gag/aLnwjnW)
+ - 😝 [Real beauty is on the inside](http://9gag.com/gag/a87G3Dd)
+ - 👉 [Paycheck is paycheck](http://9gag.com/gag/abAGMAE)<!-- MEMES:END -->
 
 ---
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Canadian digital bank Neo Financial raised a CA$360M Series D from Shopify CEO Tobi L&amp;uuml;tke, Slack co-founder Stewart Butterfield, and others &lpar;Josh Scott/BetaKit&rpar;](http://www.techmeme.com/241111/p19#a241111p19)
+ - [Branch&#39;s Early Black Friday Sale Has Deals on Our Top Office Chairs](https://www.wired.com/story/branch-black-friday-sale-2024/)
  - [New in iOS 18.2 developer beta 3: Changes to Apple Intelligence, video playback, and more](https://appleinsider.com/articles/24/11/11/new-in-ios-182-developer-beta-3-changes-to-apple-intelligence-video-playback-and-more?utm_medium=rss)
  - [The NYT Tech Guild’s election week strike is over](https://www.theverge.com/2024/11/11/24294023/new-york-times-tech-workers-strike-end)
- - [Bluesky adds 700,000 new users in a week](https://www.theverge.com/2024/11/11/24293920/bluesky-700000-new-users-week-x-threads)
- - [Super Nintendo World’s new Donkey Kong area has a rollercoaster and rhythm games](https://www.theverge.com/2024/11/11/24293604/super-nintendo-world-theme-park-donkey-kong-country-osaka-date)
- - [Ilya Sutskever says &quot;we&#39;re back in the age of wonder and discovery&quot; as AI companies focus on pre-training, inference improvements, and finding the &quot;next thing&quot; &lpar;Reuters&rpar;](http://www.techmeme.com/241111/p18#a241111p18)<!-- TECH:END -->
+ - [Bluesky adds 700,000 new users in a week](https://www.theverge.com/2024/11/11/24293920/bluesky-700000-new-users-week-x-threads)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

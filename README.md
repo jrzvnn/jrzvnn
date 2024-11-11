@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [That chin](http://9gag.com/gag/aE0PgBn)
  - 😝 [Mike Tyson runs into a man he robbed as a teenager.](http://9gag.com/gag/ae9DDVq)
- - 💣 [He likes his mouth pounded only in private ..](http://9gag.com/gag/a6ZKEbe)
- - 😝 [Busted](http://9gag.com/gag/aE0PPQK)
- - 👉 [California Man Uses RPG To Scare Off Home Invaders](http://9gag.com/gag/aE0P8d9)<!-- MEMES:END -->
+ - 😝 [That chin](http://9gag.com/gag/aE0PgBn)
+ - 💣 [Size of Stephenson 2-18 &lpar;largest known star&rpar; in comparison to Earth.](http://9gag.com/gag/amovg82)
+ - 😝 [Mom!... why sister eating large candy?....](http://9gag.com/gag/a4P311w)
+ - 👉 [Dutch female motorcycle traveler encounters the infamous African corruption](http://9gag.com/gag/aXPggGb)<!-- MEMES:END -->
 
 ---
 

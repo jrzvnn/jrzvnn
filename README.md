@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Robbers???](http://9gag.com/gag/a0eNZwX)
- - 😝 [Reject politics, embrace the cool ice stick.](http://9gag.com/gag/aMVx4vM)
- - 💣 [Lets elevate it and take it to upper class](http://9gag.com/gag/aPA7Z8P)
- - 😝 [The border Chad](http://9gag.com/gag/a9ynqj0)
- - 👉 [NoNoNoYes You Got It](http://9gag.com/gag/aRB7rVG)<!-- MEMES:END -->
+ - 😝 [Just a reminder how stupid people can be](http://9gag.com/gag/axy99M1)
+ - 😝 [California Man Uses RPG To Scare Off Home Invaders](http://9gag.com/gag/aE0P8d9)
+ - 💣 [Busted](http://9gag.com/gag/aE0PPQK)
+ - 😝 [Mom!... why sister eating large candy?....](http://9gag.com/gag/a4P311w)
+ - 👉 [Real beauty is on the inside](http://9gag.com/gag/a87G3Dd)<!-- MEMES:END -->
 
 ---
 

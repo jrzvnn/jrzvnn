@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Floorman working a drill rig](http://9gag.com/gag/a0eNQ5v)
+ - 😝 [Are they hearing themselves?](http://9gag.com/gag/aXPgYb9)
  - 😝 [Welcome to New York](http://9gag.com/gag/aqyngzL)
  - 💣 [P.O.V you and your Japanese girlfriend but you don\u2019t know what you did](http://9gag.com/gag/ajP9mrw)
- - 😝 [X Ray of a drug mule](http://9gag.com/gag/aqynj7P)
- - 👉 [The guy behind taking notes](http://9gag.com/gag/a87G5dQ)<!-- MEMES:END -->
+ - 😝 [Paycheck is paycheck](http://9gag.com/gag/abAGMAE)
+ - 👉 [They Reached Japan, Pakistani Mozlem immigrants](http://9gag.com/gag/aKG7j91)<!-- MEMES:END -->
 
 ---
 

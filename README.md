@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [`Directed by MICHAEL BAY`](http://9gag.com/gag/a4P33PQ)
- - 😝 [She\u2019s going to remember that for the rest of that moment](http://9gag.com/gag/a9ynEjW)
- - 💣 [Smile](http://9gag.com/gag/a34wQ65)
- - 😝 [Unfortunate events](http://9gag.com/gag/ajP99yp)
- - 👉 [I cumbed out of all my holes](http://9gag.com/gag/aMVxxMM)<!-- MEMES:END -->
+ - 😝 [Founded in 1881, Tuskegee University is a private, state-related, land-grant and nationally ranked historically black University. &lpar;from their official x acct&rpar;. LAsT NIgHT this happened.](http://9gag.com/gag/abAGVz8)
+ - 😝 [The guy behind taking notes](http://9gag.com/gag/a87G5dQ)
+ - 💣 [Paycheck is paycheck](http://9gag.com/gag/abAGMAE)
+ - 😝 [X Ray of a drug mule](http://9gag.com/gag/aqynj7P)
+ - 👉 [That chin](http://9gag.com/gag/aE0PgBn)<!-- MEMES:END -->
 
 ---
 

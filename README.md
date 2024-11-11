@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Signal calls now work a lot more like Meet and Zoom](https://www.theverge.com/2024/11/11/24293873/signal-calls-work-like-meet-zoom)
  - [Elevate your collection with Apple Music&#39;s luxurious 100 best albums book](https://appleinsider.com/articles/24/11/11/elevate-your-collection-with-apple-musics-luxurious-100-best-albums-book?utm_medium=rss)
  - [Sources: more than a year before the election, TikTok execs revamped moderation rules and trust and safety staff to make TikTok more appealing to Trump fans &lpar;The Information&rpar;](http://www.techmeme.com/241111/p16#a241111p16)
  - [Best Samsung Galaxy Z Flip 5 Deals: Grab This Previous-Gen Flip Phone for Cheap](https://www.cnet.com/deals/samsung-galaxy-z-flip-5-deals/#ftag=CAD590a51e)
- - [Amazon confirms employee data breach, but says it’s limited to contact info](https://www.theverge.com/2024/11/11/24293817/amazon-employee-emails-phone-numbers-moveit-data-breach)
- - [Apple updates the firmware again for AirPods Pro 2, AirPods 4](https://appleinsider.com/articles/24/11/11/apple-updates-the-firmware-again-for-airpods-pro-2-airpods-4?utm_medium=rss)<!-- TECH:END -->
+ - [Amazon confirms employee data breach, but says it’s limited to contact info](https://www.theverge.com/2024/11/11/24293817/amazon-employee-emails-phone-numbers-moveit-data-breach)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

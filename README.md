@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Don&#39;t Wait for Black Friday. Score Almost Half Off This Massive 98-Inch TCL 4K TV Right Now](https://www.cnet.com/deals/dont-wait-for-black-friday-score-almost-half-off-this-massive-98-inch-tcl-4k-tv-right-now/#ftag=CAD590a51e)
  - [Find My&#39;s Share Item Location will help airlines find your luggage](https://appleinsider.com/articles/24/11/11/find-mys-share-item-location-will-help-airlines-find-your-luggage?utm_medium=rss)
+ - [Apple Is Now Selling Repair Parts for the iPhone 16](https://www.cnet.com/tech/mobile/apple-is-now-selling-repair-parts-for-the-iphone-16/#ftag=CAD590a51e)
  - [MacBook Air 16GB models are on sale from $749.99 right now on Amazon](https://appleinsider.com/articles/24/11/11/macbook-air-16gb-models-are-on-sale-from-74999-right-now-on-amazon?utm_medium=rss)
- - [Apple will let you share AirTag locations with others](https://www.theverge.com/2024/11/11/24293654/apple-ios-18-2-share-airtag-locations)
- - [Waymo compiles ‘largest ever’ dataset of pedestrian and cyclist injuries](https://www.theverge.com/2024/11/11/24290338/waymo-vru-pedestrian-cyclist-injury-dataset)
- - [Matter 1.4 is released, new Apple betas, &amp; more news on HomeKit Insider](https://appleinsider.com/articles/24/11/11/matter-14-is-released-new-apple-betas-more-news-on-homekit-insider?utm_medium=rss)<!-- TECH:END -->
+ - [One of Our Favorite E-Bikes for Kids Has Hit a New Record Low Just Before Black Friday](https://www.cnet.com/roadshow/news/one-of-our-favorite-e-bikes-for-kids-has-hit-a-new-record-low-just-before-black-friday/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

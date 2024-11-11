@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Today&#39;s NYT Mini Crossword Answers for Monday, Nov. 11](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-monday-nov-11/#ftag=CAD590a51e)
- - [Research integrity specialists and scientific publishers raise concerns about the ease with which scientific data can be fabricated using generative AI tools &lpar;Diana Kwon/Nature&rpar;](http://www.techmeme.com/241110/p10#a241110p10)
- - [What If We Told You You&#39;ve Probably Had Enough Protein Today?](https://www.cnet.com/health/nutrition/what-if-we-told-you-youve-probably-had-enough-protein-today/#ftag=CAD590a51e)
- - [Best Solar Panel Installation Companies in Washington](https://www.cnet.com/home/energy-and-utilities/washington-solar-panels/#ftag=CAD590a51e)
- - [Best Internet Providers in Erie, Pennsylvania](https://www.cnet.com/home/internet/best-internet-providers-in-erie-pa/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Today&#39;s NYT Connections: Sports Edition Hints and Answers for Nov. 11, #49](https://www.cnet.com/tech/gaming/todays-nyt-connections-sports-edition-hints-and-answers-for-nov-11-49/#ftag=CAD590a51e)
+ - [Today&#39;s NYT Connections Hints, Answers and Help for Nov. 11, #519](https://www.cnet.com/tech/gaming/todays-nyt-connections-hints-answers-and-help-for-nov-11-519/#ftag=CAD590a51e)
+ - [Today&#39;s NYT Strands Hints, Answers and Help for Nov. 11, #253](https://www.cnet.com/tech/gaming/todays-nyt-strands-hints-answers-and-help-for-nov-11-253/#ftag=CAD590a51e)
+ - [Today&#39;s Wordle Hints, Answer and Help for Nov. 11, #1241](https://www.cnet.com/tech/gaming/todays-wordle-hints-answer-and-help-for-nov-11-1241/#ftag=CAD590a51e)
+ - [Today&#39;s NYT Mini Crossword Answers for Monday, Nov. 11](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-monday-nov-11/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

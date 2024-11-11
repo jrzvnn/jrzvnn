@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Q&amp;A with Foursquare co-founder Dennis Crowley on his startup Hopscotch Labs, which uses AI and headphones to give information as a person walks by a location &lpar;Om Malik/Crazy Stupid Tech&rpar;](http://www.techmeme.com/241111/p1#a241111p1)
  - [Amazon drops early Black Friday deals on M4 MacBook Pro, Mac mini, iMac, MacBook Air 16GB](https://appleinsider.com/articles/24/11/11/amazon-drops-early-black-friday-deals-on-m4-macbook-pro-mac-mini-imac-macbook-air-16gb?utm_medium=rss)
  - [Today&#39;s NYT Connections: Sports Edition Hints and Answers for Nov. 11, #49](https://www.cnet.com/tech/gaming/todays-nyt-connections-sports-edition-hints-and-answers-for-nov-11-49/#ftag=CAD590a51e)
  - [Today&#39;s NYT Connections Hints, Answers and Help for Nov. 11, #519](https://www.cnet.com/tech/gaming/todays-nyt-connections-hints-answers-and-help-for-nov-11-519/#ftag=CAD590a51e)
- - [Today&#39;s NYT Strands Hints, Answers and Help for Nov. 11, #253](https://www.cnet.com/tech/gaming/todays-nyt-strands-hints-answers-and-help-for-nov-11-253/#ftag=CAD590a51e)
- - [Today&#39;s Wordle Hints, Answer and Help for Nov. 11, #1241](https://www.cnet.com/tech/gaming/todays-wordle-hints-answer-and-help-for-nov-11-1241/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Today&#39;s NYT Strands Hints, Answers and Help for Nov. 11, #253](https://www.cnet.com/tech/gaming/todays-nyt-strands-hints-answers-and-help-for-nov-11-253/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

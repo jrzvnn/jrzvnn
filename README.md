@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [He likes his mouth pounded only in private ..](http://9gag.com/gag/a6ZKEbe)
  - 😝 [Remember to always quicksave](http://9gag.com/gag/aAyegKd)
- - 💣 [Dutch female motorcycle traveler encounters the infamous African corruption](http://9gag.com/gag/aXPggGb)
- - 😝 [Mike Tyson runs into a man he robbed as a teenager.](http://9gag.com/gag/ae9DDVq)
- - 👉 [California Man Uses RPG To Scare Off Home Invaders](http://9gag.com/gag/aE0P8d9)<!-- MEMES:END -->
+ - 😝 [Busted](http://9gag.com/gag/aE0PPQK)
+ - 💣 [He likes his mouth pounded only in private ..](http://9gag.com/gag/a6ZKEbe)
+ - 😝 [California Man Uses RPG To Scare Off Home Invaders](http://9gag.com/gag/aE0P8d9)
+ - 👉 [Mike Tyson runs into a man he robbed as a teenager.](http://9gag.com/gag/ae9DDVq)<!-- MEMES:END -->
 
 ---
 

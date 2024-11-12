@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Pure talent](http://9gag.com/gag/abAGgZL)
- - 😝 [Johnny Somali faces up to 7 years in jail in South Korea for using AI to create a deepfake video showing a Korean woman as his girlfriend. With additional charges, he could face a combined 17 years and is currently banned from leaving South Korea.](http://9gag.com/gag/awyBZ01)
- - 💣 [Bidenomics ??](http://9gag.com/gag/aMVxEQX)
- - 😝 [I wonder if you know?](http://9gag.com/gag/a34w4w3)
- - 👉 [Love this guy &lpar;no homo&rpar;](http://9gag.com/gag/apRGRg5)<!-- MEMES:END -->
+ - 😝 [Casual encounter with a Cassowary - the most dangerous bird in the world.](http://9gag.com/gag/ae9D9pB)
+ - 😝 [Guess what....mohamado...](http://9gag.com/gag/agmAgQ1)
+ - 💣 [Dutch female motorcycle traveler encounters the infamous African corruption](http://9gag.com/gag/aXPggGb)
+ - 😝 [Lightning strikes the water surface with Scuba divers under it](http://9gag.com/gag/aD24YDO)
+ - 👉 [He likes his mouth pounded only in private ..](http://9gag.com/gag/a6ZKEbe)<!-- MEMES:END -->
 
 ---
 

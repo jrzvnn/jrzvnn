@@ -161,7 +161,7 @@ R                        1 repo              ░░░░░░░░░░░�
  - [Ultimate guide on how to use an external SSD as a working drive on macOS Sequoia](https://appleinsider.com/inside/macos-sequoia/tips/ultimate-guide-on-how-to-use-an-external-ssd-as-a-working-drive-on-macos-sequoia?utm_medium=rss)
  - [Waymo opens robotaxi rides to anyone in LA within an 80-square-mile area running from downtown LA to Santa Monica and says ~300K users had been on the waitlist &lpar;Alan Ohnsman/Forbes&rpar;](http://www.techmeme.com/241112/p16#a241112p16)
  - [Microsoft is killing off Windows 11’s Mail and Calendar apps by the end of the year](https://www.theverge.com/2024/11/12/24294652/microsoft-windows-11-mail-calendar-apps-end-of-support)
- - [Apple is planning an Apple Home smart security camera](https://www.theverge.com/2024/11/12/24294508/apple-home-camera-smart-security-camera-2026)<!-- TECH:END -->
+ - [Apple is planning a smart home security camera](https://www.theverge.com/2024/11/12/24294508/apple-home-camera-smart-security-camera-2026)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

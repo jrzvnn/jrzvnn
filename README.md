@@ -157,7 +157,7 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [SoftBank reports Q2 net income of ~$7.7B and a Vision Fund gain of ~$2.42B, driven by strong Indian startup IPOs and valuation gains in Coupang and Didi &lpar;Bloomberg&rpar;](http://www.techmeme.com/241112/p3#a241112p3)
+ - [SoftBank reports Q2 net income of ~$7.7B and a Vision Fund gain of ~$2.42B, driven by strong Indian IPOs and valuation gains in startups like Coupang and Didi &lpar;Bloomberg&rpar;](http://www.techmeme.com/241112/p3#a241112p3)
  - [Rival search engines Ecosia and Qwant launch European Search Perspective, a joint venture to develop an index of the web to reduce reliance on Google and Bing &lpar;Paresh Dave/Wired&rpar;](http://www.techmeme.com/241112/p2#a241112p2)
  - [Amazon&#39;s Annapurna Labs plans to unveil &quot;Trainium 2&quot; AI chips next month, in an effort that can rival Nvidia; Trainium 2 is being tested by Anthropic and others &lpar;Financial Times&rpar;](http://www.techmeme.com/241112/p1#a241112p1)
  - [Two Upstart Search Engines Are Teaming Up to Take on Google](https://www.wired.com/story/ecosia-qwant-eusp-take-on-google-search-index/)

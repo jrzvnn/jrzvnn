@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [VMware Workstation and Fusion are now free for everyone](https://www.theverge.com/2024/11/12/24294609/vmware-fusion-workstation-pro-software-free-commercial)
+ - [Holiday 2024 MacBook Buyer&#39;s Guide -- Which Mac laptop you should buy?](https://appleinsider.com/articles/24/11/12/holiday-2024-macbook-buyers-guide----which-mac-laptop-you-should-buy?utm_medium=rss)
  - [A survey by Slack of 17K+ workers in August: 48% said they were uncomfortable telling managers they use AI, and AI adoption rates stalled in the US at ~33% &lpar;Ina Fried/Axios&rpar;](http://www.techmeme.com/241112/p19#a241112p19)
  - [The slim PS5 is getting a price cut for the holidays](https://www.theverge.com/2024/11/12/24294720/sony-playstation-5-ps5-price-cut-holidays)
- - [Hyundai’s touchscreen honeymoon is over because sometimes buttons are just better](https://www.theverge.com/2024/11/12/24294634/hyundai-vehicle-controls-more-buttons-focus-groups-annoyed-touchscreens)
- - [What a VPN kill switch is, and why you need it](https://appleinsider.com/articles/24/11/12/what-a-vpn-kill-switch-is-and-why-you-need-it?utm_medium=rss)
- - [Now there’s an ‘anti-AI’ camera app for Android, too](https://www.theverge.com/2024/11/12/24294625/zerocam-no-ai-processing-camera-app-android-launch)<!-- TECH:END -->
+ - [Hyundai’s touchscreen honeymoon is over because sometimes buttons are just better](https://www.theverge.com/2024/11/12/24294634/hyundai-vehicle-controls-more-buttons-focus-groups-annoyed-touchscreens)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

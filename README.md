@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Use to be ours](http://9gag.com/gag/aYQyVm2)
+ - 😝 [Dutch female motorcycle traveler encounters the infamous African corruption](http://9gag.com/gag/aXPggGb)
  - 😝 [P.O.V you and your Japanese girlfriend but you don\u2019t know what you did](http://9gag.com/gag/ajP9mrw)
- - 💣 [Mom!... why sister eating large candy?....](http://9gag.com/gag/a4P311w)
- - 😝 [What\u00b4s up with that, ladies...](http://9gag.com/gag/avyzQvM)
- - 👉 [Of course there will be no Asian Lives Matter, why? because its breaking left wing narrative and Lawful white people will be blamed for stupidest reason ever just because they pro-safety and factual information](http://9gag.com/gag/ajP9gE0)<!-- MEMES:END -->
+ - 💣 [She lucked out](http://9gag.com/gag/abAGV3O)
+ - 😝 [Lightning strikes the water surface with Scuba divers under it](http://9gag.com/gag/aD24YDO)
+ - 👉 [Supervillain origin story](http://9gag.com/gag/adBVVzj)<!-- MEMES:END -->
 
 ---
 

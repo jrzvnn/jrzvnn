@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [EU&#39;s latest demand on Apple about geolocking is unforgivably naive](https://appleinsider.com/articles/24/11/12/eus-latest-demand-on-apple-about-geolocking-is-unforgivably-naive?utm_medium=rss)
  - [Trump tariffs will raise prices, but Apple has set the table to avoid the worst of it](https://appleinsider.com/articles/24/11/11/trump-tariffs-will-raise-prices-but-apple-could-avoid-harsher-taxes?utm_medium=rss)
  - [Best Theraguns and Tools &lpar;2024&rpar;: Massage Guns, TheraFace](https://www.wired.com/gallery/best-theragun-percussive-therapy-devices/)
  - [OWC Thunderbolt 5 Hub offers high-speed port expansion for Apple&#39;s newest Macs](https://appleinsider.com/articles/24/11/12/owc-thunderbolt-5-hub-offers-high-speed-port-expansion-for-apples-newest-macs?utm_medium=rss)
- - [The EU notifies Apple of &quot;potentially prohibited geo-blocking practices&quot; on the App Store and other apps, and says it must align with EU anti-geo-blocking rules &lpar;Gian Volpicelli/Bloomberg&rpar;](http://www.techmeme.com/241112/p12#a241112p12)
- - [North Korean hackers use infected crypto apps to target Macs](https://appleinsider.com/articles/24/11/12/north-korean-hackers-use-infected-crypto-apps-to-target-mac-devices?utm_medium=rss)<!-- TECH:END -->
+ - [The EU notifies Apple of &quot;potentially prohibited geo-blocking practices&quot; on the App Store and other apps, and says it must align with EU anti-geo-blocking rules &lpar;Gian Volpicelli/Bloomberg&rpar;](http://www.techmeme.com/241112/p12#a241112p12)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

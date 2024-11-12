@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Simone Biles](http://9gag.com/gag/a6ZKKr9)
- - 😝 [Have to try this](http://9gag.com/gag/awyBog8)
- - 💣 [Caracal is a wild cat native to Africa the Middle East Central Asia](http://9gag.com/gag/aZZyy7X)
- - 😝 [While you&#39;re having fun and looking for memes, someone else is thinking about how to make it until their first paycheck at their new job.](http://9gag.com/gag/a87G1Dd)
- - 👉 [Founded in 1881, Tuskegee University is a private, state-related, land-grant and nationally ranked historically black University. &lpar;from their official x acct&rpar;. LAsT NIgHT this happened.](http://9gag.com/gag/abAGVz8)<!-- MEMES:END -->
+ - 😝 [Bidenomics ??](http://9gag.com/gag/aMVxEQX)
+ - 😝 [Mom!... why sister eating large candy?....](http://9gag.com/gag/a4P311w)
+ - 💣 [That chin](http://9gag.com/gag/aE0PgBn)
+ - 😝 [Ahhh I remember this money dropping prank](http://9gag.com/gag/a5QWE4g)
+ - 👉 [I should send this clip to the police station. So they can do something .](http://9gag.com/gag/an74g2L)<!-- MEMES:END -->
 
 ---
 

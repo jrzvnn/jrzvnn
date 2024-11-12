@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Lightning strikes the water surface with Scuba divers under it](http://9gag.com/gag/aD24YDO)
- - 😝 [Simone Biles](http://9gag.com/gag/a6ZKKr9)
- - 💣 [The next U.S. Secretary of State](http://9gag.com/gag/ajP9PrR)
- - 😝 [My cup of tea shirt](http://9gag.com/gag/a2vW1ow)
- - 👉 [One puzzle no 90s kid was able to solve](http://9gag.com/gag/amovAdo)<!-- MEMES:END -->
+ - 😝 [Johnny Somali faces up to 7 years in jail in South Korea for using AI to create a deepfake video showing a Korean woman as his girlfriend. With additional charges, he could face a combined 17 years and is currently banned from leaving South Korea.](http://9gag.com/gag/awyBZ01)
+ - 😝 [NoNoNoYes You Got It](http://9gag.com/gag/aRB7rVG)
+ - 💣 [Pure talent](http://9gag.com/gag/abAGgZL)
+ - 😝 [Bidenomics ??](http://9gag.com/gag/aMVxEQX)
+ - 👉 [Love this guy &lpar;no homo&rpar;](http://9gag.com/gag/apRGRg5)<!-- MEMES:END -->
 
 ---
 

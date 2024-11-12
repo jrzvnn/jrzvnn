@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Bidenomics ??](http://9gag.com/gag/aMVxEQX)
- - 😝 [Mom!... why sister eating large candy?....](http://9gag.com/gag/a4P311w)
- - 💣 [That chin](http://9gag.com/gag/aE0PgBn)
- - 😝 [Ahhh I remember this money dropping prank](http://9gag.com/gag/a5QWE4g)
- - 👉 [I should send this clip to the police station. So they can do something .](http://9gag.com/gag/an74g2L)<!-- MEMES:END -->
+ - 😝 [Dutch people march demanding to overthrow the government and replace it with Sharia. They state in Arabic `either you surrender or war`](http://9gag.com/gag/aGydzeG)
+ - 😝 [That chin](http://9gag.com/gag/aE0PgBn)
+ - 💣 [On the run again](http://9gag.com/gag/an744L0)
+ - 😝 [I should send this clip to the police station. So they can do something .](http://9gag.com/gag/an74g2L)
+ - 👉 [Dutch female motorcycle traveler encounters the infamous African corruption](http://9gag.com/gag/aXPggGb)<!-- MEMES:END -->
 
 ---
 

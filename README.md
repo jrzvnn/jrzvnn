@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [He likes his mouth pounded only in private ..](http://9gag.com/gag/a6ZKEbe)
- - 😝 [Mike Tyson runs into a man he robbed as a teenager.](http://9gag.com/gag/ae9DDVq)
- - 💣 [Ahhh I remember this money dropping prank](http://9gag.com/gag/a5QWE4g)
- - 😝 [Remember to always quicksave](http://9gag.com/gag/aAyegKd)
- - 👉 [Dutch people march demanding to overthrow the government and replace it with Sharia. They state in Arabic `either you surrender or war`](http://9gag.com/gag/aGydzeG)<!-- MEMES:END -->
+ - 😝 [What else did she expect?](http://9gag.com/gag/aD24Dp7)
+ - 😝 [Time to fix this $h!t](http://9gag.com/gag/a5QWX7N)
+ - 💣 [NoNoNoYes You Got It](http://9gag.com/gag/aRB7rVG)
+ - 😝 [Pure talent](http://9gag.com/gag/abAGgZL)
+ - 👉 [Bidenomics ??](http://9gag.com/gag/aMVxEQX)<!-- MEMES:END -->
 
 ---
 

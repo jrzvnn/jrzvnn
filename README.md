@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Supply chain hints at two potential Apple product releases set for 2026](https://appleinsider.com/articles/24/11/12/supply-chain-hints-at-two-potential-apple-product-releases-set-for-2026?utm_medium=rss)
+ - [Today&#39;s NYT Mini Crossword Answers for Tuesday, Nov. 12](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-tuesday-nov-12/#ftag=CAD590a51e)
  - [Filing: a Chinese court agrees to hear a Fortnite-like case against Apple by Bodyreader, a posture correcting app Apple removed in 2020; Bodyreader seeks ~$420K &lpar;Pei Li/Bloomberg&rpar;](http://www.techmeme.com/241111/p26#a241111p26)
  - [Signal announces a suite of call features, including the ability to share a link to a call, emoji reactions, a &quot;raise hand&quot; button, and a dedicated calls tab &lpar;Jay Peters/The Verge&rpar;](http://www.techmeme.com/241111/p25#a241111p25)
- - [Best Early Black Friday Mattress Deals: Save Hundreds on a Cozy New Mattress Ahead of the Holidays](https://www.cnet.com/deals/best-mattress-deals/#ftag=CAD590a51e)
- - [A look at DeFlock, an open-source project that has crowdsourced the locations of 5,600+ automated license plate reader cameras globally from Flock and others &lpar;Jason Koebler/404 Media&rpar;](http://www.techmeme.com/241111/p24#a241111p24)
- - [Bitcoin passes $89K for the first time, Tesla closes up 8.96%, Coinbase closes up 19.76%, and Robinhood closes up 7.4%, as investors pile into &quot;Trump trades&quot; &lpar;Financial Times&rpar;](http://www.techmeme.com/241111/p23#a241111p23)<!-- TECH:END -->
+ - [Best Early Black Friday Mattress Deals: Save Hundreds on a Cozy New Mattress Ahead of the Holidays](https://www.cnet.com/deals/best-mattress-deals/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

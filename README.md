@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Dragon Age: The Veilguard has fantastic hair tech thanks to FIFA and Madden](https://www.theverge.com/2024/11/12/24294829/dragon-age-the-veilguard-hair-technology-frostbite-bioware)
  - [Elon Musk Is Already Doing Exactly What He Said He Would](https://www.wired.com/story/elon-musk-trump-new-administration/)
  - [US gov&#39;t data: 669 of 1,089 approved H-1B hires for TikTok and ByteDance from Oct. 2022 to Sept. 2023 were from China, up 50% YoY, despite US lawmaker scrutiny &lpar;Dan Whateley/Business Insider&rpar;](http://www.techmeme.com/241112/p22#a241112p22)
  - [The 32 Best Shows on Apple TV+ Right Now &lpar;November 2024&rpar;](https://www.wired.com/story/best-apple-tv-plus-shows/)
- - [Best Galaxy Z Flip 6 Deals: $200 Off Unlocked Models, More With Trade-In](https://www.cnet.com/deals/best-samsung-galaxy-z-flip-6-deals/#ftag=CAD590a51e)
- - [Best Flower Delivery Deals: Send Someone a Little Love for Less](https://www.cnet.com/deals/best-flower-delivery-deals/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Best Galaxy Z Flip 6 Deals: $200 Off Unlocked Models, More With Trade-In](https://www.cnet.com/deals/best-samsung-galaxy-z-flip-6-deals/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

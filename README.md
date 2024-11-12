@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Dragon Age: The Veilguard has fantastic hair tech thanks to FIFA and Madden](https://www.theverge.com/2024/11/12/24294829/dragon-age-the-veilguard-hair-technology-frostbite-bioware)
- - [Elon Musk Is Already Doing Exactly What He Said He Would](https://www.wired.com/story/elon-musk-trump-new-administration/)
- - [US gov&#39;t data: 669 of 1,089 approved H-1B hires for TikTok and ByteDance from Oct. 2022 to Sept. 2023 were from China, up 50% YoY, despite US lawmaker scrutiny &lpar;Dan Whateley/Business Insider&rpar;](http://www.techmeme.com/241112/p22#a241112p22)
- - [The 32 Best Shows on Apple TV+ Right Now &lpar;November 2024&rpar;](https://www.wired.com/story/best-apple-tv-plus-shows/)
- - [Best Galaxy Z Flip 6 Deals: $200 Off Unlocked Models, More With Trade-In](https://www.cnet.com/deals/best-samsung-galaxy-z-flip-6-deals/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Eufy’s new floodlight cam will watch over your backyard in HD for $150](https://www.theverge.com/2024/11/12/24294751/anker-eufy-floodlight-camera-e30-security)
+ - [Power press: Fixes for Apple&#39;s oddly-placed Mac mini button](https://appleinsider.com/articles/24/11/12/power-press-fixes-for-apples-oddly-placed-mac-mini-button?utm_medium=rss)
+ - [VW and Rivian officially kick off $5.8 billion joint venture, announce leadership](https://www.theverge.com/2024/11/12/24294827/vw-rivian-joint-venture-leadership-ev)
+ - [iOS 18.2 could receive a full public release with Image Playground &amp; ChatGPT on December 9](https://appleinsider.com/articles/24/11/12/ios-182-could-receive-a-full-public-release-with-image-playground-chatgpt-on-december-9?utm_medium=rss)
+ - [Sources: Apple is making a 6&quot; wall-mounted display that can control appliances, do videoconferencing, and use AI to navigate apps, and may unveil it by March &lpar;Mark Gurman/Bloomberg&rpar;](http://www.techmeme.com/241112/p23#a241112p23)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

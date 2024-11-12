@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Kids without a cellphone are the best](http://9gag.com/gag/adBVB5B)
- - 😝 [I wonder if you know?](http://9gag.com/gag/a34w4w3)
- - 💣 [At least now they will do something about it](http://9gag.com/gag/aD242PN)
- - 😝 [Love this guy &lpar;no homo&rpar;](http://9gag.com/gag/apRGRg5)
- - 👉 [When the end is near!](http://9gag.com/gag/amovoQo)<!-- MEMES:END -->
+ - 😝 [Casual encounter with a Cassowary - the most dangerous bird in the world.](http://9gag.com/gag/ae9D9pB)
+ - 😝 [When the end is near!](http://9gag.com/gag/amovoQo)
+ - 💣 [My cup of tea shirt](http://9gag.com/gag/a2vW1ow)
+ - 😝 [Mom!... why sister eating large candy?....](http://9gag.com/gag/a4P311w)
+ - 👉 [After ordering some shrimp, customer returned the plate like this](http://9gag.com/gag/awyByx1)<!-- MEMES:END -->
 
 ---
 

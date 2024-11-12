@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Alameda Research co-CEO Sam Trabucco has agreed to hand over a slew of properties, including his yacht, to FTX creditors as part of a November 3 settlement deal &lpar;Olga Kharif/Bloomberg&rpar;](http://www.techmeme.com/241111/p21#a241111p21)
- - [Monday Night Football: How to Watch Dolphins vs. Rams Tonight](https://www.cnet.com/tech/services-and-software/monday-night-football-how-to-watch-dolphins-vs-rams-tonight/#ftag=CAD590a51e)
- - [An indictment against two men suspected of hacking Snowflake clients, including AT&amp;T, says the pair and their co-conspirators extorted at least 36 bitcoins &lpar;Joseph Cox/404 Media&rpar;](http://www.techmeme.com/241111/p20#a241111p20)
- - [Google’s AI ‘learning companion’ takes chatbot answers a step further](https://www.theverge.com/2024/11/11/24293891/google-learn-about-ai-search-educational)
- - [Best Wireless Earbuds and Headphones for Your Samsung Phone in 2024](https://www.cnet.com/tech/mobile/best-wireless-earbuds-and-headphones-for-samsung-phones/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [An iPhone 14 Pro prototype reveals the humble beginnings of Apple&#39;s Project Bongo](https://appleinsider.com/articles/24/11/12/an-iphone-14-pro-prototype-reveals-the-humble-beginnings-of-apples-project-bongo?utm_medium=rss)
+ - [Best Internet Providers in Frisco, Texas](https://www.cnet.com/home/internet/best-internet-providers-in-frisco-tx/#ftag=CAD590a51e)
+ - [Stop Your Flower Bouquets From Wilting Away With These Expert-Backed Tips](https://www.cnet.com/how-to/keep-your-flower-bouquets-alive-for-longer-with-these-expert-backed-tips/#ftag=CAD590a51e)
+ - [Grab reports Q3 revenue up 17% YoY to $716M, vs $700.8M est., a $15M profit, and raises its forecast for fiscal 2024 revenue; GRAB jumps 10%+ after hours &lpar;Zaheer Kachwala/Reuters&rpar;](http://www.techmeme.com/241111/p22#a241111p22)
+ - [Here&#39;s the Best Way to Get Airport Lounge Access for Free](https://www.cnet.com/personal-finance/credit-cards/heres-the-best-way-to-get-airport-lounge-access-for-free/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

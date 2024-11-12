@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Ahhh I remember this money dropping prank](http://9gag.com/gag/a5QWE4g)
- - 😝 [Bill ladies](http://9gag.com/gag/axy99rp)
- - 💣 [Remember to always quicksave](http://9gag.com/gag/aAyegKd)
- - 😝 [That chin](http://9gag.com/gag/aE0PgBn)
- - 👉 [Dutch people march demanding to overthrow the government and replace it with Sharia. They state in Arabic `either you surrender or war`](http://9gag.com/gag/aGydzeG)<!-- MEMES:END -->
+ - 😝 [What else did she expect?](http://9gag.com/gag/aD24Dp7)
+ - 😝 [Sausage and sauerkraut. Yay or Nay?](http://9gag.com/gag/aNDgPE3)
+ - 💣 [Mom!... why sister eating large candy?....](http://9gag.com/gag/a4P311w)
+ - 😝 [Time to fix this $h!t](http://9gag.com/gag/a5QWX7N)
+ - 👉 [This in 2003](http://9gag.com/gag/aQzdzpr)<!-- MEMES:END -->
 
 ---
 

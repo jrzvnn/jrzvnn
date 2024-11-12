@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Supervillain origin story](http://9gag.com/gag/adBVVzj)
- - 😝 [Chinese retail chain has swapped traditional mannequins for real women walking on treadmills.](http://9gag.com/gag/aqynyNP)
- - 💣 [Lightning strikes the water surface with Scuba divers under it](http://9gag.com/gag/aD24YDO)
- - 😝 [Casual encounter with a Cassowary - the most dangerous bird in the world.](http://9gag.com/gag/ae9D9pB)
- - 👉 [Dutch female motorcycle traveler encounters the infamous African corruption](http://9gag.com/gag/aXPggGb)<!-- MEMES:END -->
+ - 😝 [Kids without a cellphone are the best](http://9gag.com/gag/adBVB5B)
+ - 😝 [I wonder if you know?](http://9gag.com/gag/a34w4w3)
+ - 💣 [At least now they will do something about it](http://9gag.com/gag/aD242PN)
+ - 😝 [Love this guy &lpar;no homo&rpar;](http://9gag.com/gag/apRGRg5)
+ - 👉 [When the end is near!](http://9gag.com/gag/amovoQo)<!-- MEMES:END -->
 
 ---
 

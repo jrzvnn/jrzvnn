@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Humanity is still alive !](http://9gag.com/gag/awyBy9D)
- - 😝 [He likes his mouth pounded only in private ..](http://9gag.com/gag/a6ZKEbe)
- - 💣 [When the end is near!](http://9gag.com/gag/amovoQo)
- - 😝 [One puzzle no 90s kid was able to solve](http://9gag.com/gag/amovAdo)
- - 👉 [After ordering some shrimp, customer returned the plate like this](http://9gag.com/gag/awyByx1)<!-- MEMES:END -->
+ - 😝 [When the end is near!](http://9gag.com/gag/amovoQo)
+ - 😝 [A simple sorry in a white society](http://9gag.com/gag/aD247GG)
+ - 💣 [Choo Choo. I&#39;m a train](http://9gag.com/gag/amovWpy)
+ - 😝 [Don&#39;t forget your friends](http://9gag.com/gag/aGydLwG)
+ - 👉 [The next U.S. Secretary of State](http://9gag.com/gag/ajP9PrR)<!-- MEMES:END -->
 
 ---
 

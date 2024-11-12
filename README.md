@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Apple&#39;s rumored smart display could arrive in March with a focus on AI and smart home](https://appleinsider.com/articles/24/11/12/apples-rumored-smart-display-could-arrive-in-march-with-a-focus-on-ai-and-smart-home?utm_medium=rss)
  - [Instacart reports Q3 revenue up 12% YoY to $852M, vs. $843.6M est., gross transaction value up 11% to $8.3B, and forecasts Q4 adjusted EBITDA below estimates &lpar;Natalie Lung/Bloomberg&rpar;](http://www.techmeme.com/241112/p25#a241112p25)
  - [YouTube is testing music remixes made by AI](https://www.theverge.com/2024/11/12/24294891/youtube-ai-restyle-music-creators)
  - [Spotify reports Q3 revenue up 19% YoY to &amp;euro;3.99B, vs. &amp;euro;4.02B est., MAUs up 11% to 640M, and forecasts Q4 profit and MAUs above est.; SPOT jumps 8%+ after hours &lpar;Jaspreet Singh/Reuters&rpar;](http://www.techmeme.com/241112/p24#a241112p24)
- - [Oura’s Perimenopause Report Shows the Gap in Women’s Health Research](https://www.wired.com/story/oura-perimenopause-report/)
- - [Eufy’s new floodlight cam will watch over your backyard in HD for $150](https://www.theverge.com/2024/11/12/24294751/anker-eufy-floodlight-camera-e30-security)<!-- TECH:END -->
+ - [Best Internet Providers in Gilbert, Arizona](https://www.cnet.com/home/internet/best-internet-providers-in-gilbert-az/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

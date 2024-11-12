@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Hyundai’s touchscreen honeymoon is over because sometimes buttons are just better](https://www.theverge.com/2024/11/12/24294634/hyundai-vehicle-controls-more-buttons-focus-groups-annoyed-touchscreens)
+ - [What a VPN kill switch is, and why you need it](https://appleinsider.com/articles/24/11/12/what-a-vpn-kill-switch-is-and-why-you-need-it?utm_medium=rss)
+ - [Now there’s an ‘anti-AI’ camera app for Android, too](https://www.theverge.com/2024/11/12/24294625/zerocam-no-ai-processing-camera-app-android-launch)
  - [Microsoft plans to end support for the Windows Mail, Calendar, and People apps on December 31, after moving users to the new Outlook app in recent months &lpar;Tom Warren/The Verge&rpar;](http://www.techmeme.com/241112/p18#a241112p18)
- - [Chrome on your iPhone can search using pictures and words at the same time](https://www.theverge.com/2024/11/12/24294492/chrome-app-ios-google-lens-image-text-search)
- - [Donald Trump’s EPA pick wants to ‘make America the AI capital of the world’](https://www.theverge.com/2024/11/12/24294483/donald-trump-ai-data-center-epa-lee-zeldin)
- - [Zurich-based LocalStack, which helps developers emulate and test cloud apps locally, raised a $25M Series A led by Notable Capital &lpar;Paul Sawers/TechCrunch&rpar;](http://www.techmeme.com/241112/p17#a241112p17)
- - [Ultimate guide on how to use an external SSD as a working drive on macOS Sequoia](https://appleinsider.com/inside/macos-sequoia/tips/ultimate-guide-on-how-to-use-an-external-ssd-as-a-working-drive-on-macos-sequoia?utm_medium=rss)<!-- TECH:END -->
+ - [Chrome on your iPhone can search using pictures and words at the same time](https://www.theverge.com/2024/11/12/24294492/chrome-app-ios-google-lens-image-text-search)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

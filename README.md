@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [National Guard Discord leaker sentenced to 15 years in prison](https://www.theverge.com/2024/11/12/24295060/national-guard-discord-leaker-jack-teixeira-sentencing)
  - [Amazon is shutting down Freevee, its free, ad-supported streaming service launched in 2019 under the IMDb brand, and plans to move the content to Prime Video &lpar;Todd Spangler/Variety&rpar;](http://www.techmeme.com/241112/p29#a241112p29)
  - [Sources: Gail Slater, a top aide to JD Vance, and Mark Meador, a former enforcer at the DOJ&#39;s antitrust unit and the FTC, are the front-runners to lead the FTC &lpar;Financial Times&rpar;](http://www.techmeme.com/241112/p28#a241112p28)
  - [Apple&#39;s smart display with smart home AI focus predicted for March 2025](https://appleinsider.com/articles/24/11/12/apples-rumored-smart-display-could-arrive-in-march-with-a-focus-on-ai-and-smart-home?utm_medium=rss)
- - [Sources: Marc Lore&#39;s food delivery startup Wonder is in advanced talks to buy Grubhub from Just Eat Takeaway; Just Eat bought Grubhub in 2021 in a $7B+ deal &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/241112/p27#a241112p27)
- - [Greg Brockman returns to OpenAI after taking a leave from his role as president in August; memo: he is working with Sam Altman on creating a new role for him &lpar;Shirin Ghaffary/Bloomberg&rpar;](http://www.techmeme.com/241112/p26#a241112p26)<!-- TECH:END -->
+ - [Sources: Marc Lore&#39;s food delivery startup Wonder is in advanced talks to buy Grubhub from Just Eat Takeaway; Just Eat bought Grubhub in 2021 in a $7B+ deal &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/241112/p27#a241112p27)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

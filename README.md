@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Casual encounter with a Cassowary - the most dangerous bird in the world.](http://9gag.com/gag/ae9D9pB)
- - 😝 [Guess what....mohamado...](http://9gag.com/gag/agmAgQ1)
- - 💣 [Dutch female motorcycle traveler encounters the infamous African corruption](http://9gag.com/gag/aXPggGb)
- - 😝 [Lightning strikes the water surface with Scuba divers under it](http://9gag.com/gag/aD24YDO)
- - 👉 [He likes his mouth pounded only in private ..](http://9gag.com/gag/a6ZKEbe)<!-- MEMES:END -->
+ - 😝 [Kids without a cellphone are the best](http://9gag.com/gag/adBVB5B)
+ - 😝 [All it matters is they had a great time.](http://9gag.com/gag/aZZyZ43)
+ - 💣 [I wonder if you know?](http://9gag.com/gag/a34w4w3)
+ - 😝 [I wouldn&#39;t tell anyone if i would have gone crazy but there would be hints](http://9gag.com/gag/amovoGy)
+ - 👉 [Love this guy &lpar;no homo&rpar;](http://9gag.com/gag/apRGRg5)<!-- MEMES:END -->
 
 ---
 

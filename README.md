@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [I should send this clip to the police station. So they can do something .](http://9gag.com/gag/an74g2L)
- - 😝 [Founded in 1881, Tuskegee University is a private, state-related, land-grant and nationally ranked historically black University. &lpar;from their official x acct&rpar;. LAsT NIgHT this happened.](http://9gag.com/gag/abAGVz8)
- - 💣 [On the run again](http://9gag.com/gag/an744L0)
- - 😝 [Remember to always quicksave](http://9gag.com/gag/aAyegKd)
- - 👉 [Bidenomics ??](http://9gag.com/gag/aMVxEQX)<!-- MEMES:END -->
+ - 😝 [On the run again](http://9gag.com/gag/an744L0)
+ - 😝 [Bidenomics ??](http://9gag.com/gag/aMVxEQX)
+ - 💣 [P.O.V you and your Japanese girlfriend but you don\u2019t know what you did](http://9gag.com/gag/ajP9mrw)
+ - 😝 [While you&#39;re having fun and looking for memes, someone else is thinking about how to make it until their first paycheck at their new job.](http://9gag.com/gag/a87G1Dd)
+ - 👉 [Simone Biles](http://9gag.com/gag/a6ZKKr9)<!-- MEMES:END -->
 
 ---
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Mom!... why sister eating large candy?....](http://9gag.com/gag/a4P311w)
- - 😝 [Time to fix this $h!t](http://9gag.com/gag/a5QWX7N)
- - 💣 [Number one was the best](http://9gag.com/gag/adBVBpV)
- - 😝 [NoNoNoYes You Got It](http://9gag.com/gag/aRB7rVG)
- - 👉 [Pure talent](http://9gag.com/gag/abAGgZL)<!-- MEMES:END -->
+ - 😝 [He likes his mouth pounded only in private ..](http://9gag.com/gag/a6ZKEbe)
+ - 😝 [Mike Tyson runs into a man he robbed as a teenager.](http://9gag.com/gag/ae9DDVq)
+ - 💣 [Ahhh I remember this money dropping prank](http://9gag.com/gag/a5QWE4g)
+ - 😝 [Remember to always quicksave](http://9gag.com/gag/aAyegKd)
+ - 👉 [Dutch people march demanding to overthrow the government and replace it with Sharia. They state in Arabic `either you surrender or war`](http://9gag.com/gag/aGydzeG)<!-- MEMES:END -->
 
 ---
 

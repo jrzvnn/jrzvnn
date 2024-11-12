@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Johnny Somali faces up to 7 years in jail in South Korea for using AI to create a deepfake video showing a Korean woman as his girlfriend. With additional charges, he could face a combined 17 years and is currently banned from leaving South Korea.](http://9gag.com/gag/awyBZ01)
- - 😝 [NoNoNoYes You Got It](http://9gag.com/gag/aRB7rVG)
- - 💣 [Pure talent](http://9gag.com/gag/abAGgZL)
- - 😝 [Bidenomics ??](http://9gag.com/gag/aMVxEQX)
- - 👉 [Love this guy &lpar;no homo&rpar;](http://9gag.com/gag/apRGRg5)<!-- MEMES:END -->
+ - 😝 [China&#39;s Birth Encouragement Official Scold And Threaten Young Man For Not Having Kids](http://9gag.com/gag/adBVV3Z)
+ - 😝 [Ahhh I remember this money dropping prank](http://9gag.com/gag/a5QWE4g)
+ - 💣 [Number one was the best](http://9gag.com/gag/adBVBpV)
+ - 😝 [One puzzle no 90s kid was able to solve](http://9gag.com/gag/amovAdo)
+ - 👉 [Lightning strikes the water surface with Scuba divers under it](http://9gag.com/gag/aD24YDO)<!-- MEMES:END -->
 
 ---
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Best Galaxy Z Flip 6 Deals: $200 Off Unlocked Models, More With Trade-In](https://www.cnet.com/deals/best-samsung-galaxy-z-flip-6-deals/#ftag=CAD590a51e)
+ - [Best Flower Delivery Deals: Send Someone a Little Love for Less](https://www.cnet.com/deals/best-flower-delivery-deals/#ftag=CAD590a51e)
+ - [Jump on These Early Black Friday Deals Now to Save Big](https://www.cnet.com/paid-content/news/jump-on-these-early-black-friday-deals-now-to-save-big/#ftag=CAD590a51e)
  - [Starbucks now offers delivery in its own app](https://www.theverge.com/2024/11/12/24294717/starbucks-app-delivery-ios-android-us-doordash)
- - [Source: Elon Musk&#39;s America PAC spent ~$200M to help elect Trump; Musk says the PAC is gearing up for midterms as well as judicial and DA elections &lpar;Dan Merica/Associated Press&rpar;](http://www.techmeme.com/241112/p21#a241112p21)
- - [Nintendo’s Black Friday sale has discounts on Switch games and controllers](https://www.theverge.com/2024/11/12/24294698/nintendo-switch-black-friday-discounts-games-controllers-holiday-sale)
- - [Turn your smartphone into a playable wind instrument with this USB-C mouthpiece](https://www.theverge.com/2024/11/12/24294604/artinoise-zefiro-intstrument-smartphone-midi-wind-controller-kickstarter)
- - [Here are the best iPad deals right now](https://www.theverge.com/21280354/best-ipad-deals-apple)<!-- TECH:END -->
+ - [Source: Elon Musk&#39;s America PAC spent ~$200M to help elect Trump; Musk says the PAC is gearing up for midterms as well as judicial and DA elections &lpar;Dan Merica/Associated Press&rpar;](http://www.techmeme.com/241112/p21#a241112p21)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

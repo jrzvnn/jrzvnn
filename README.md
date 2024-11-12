@@ -166,10 +166,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Dutch female motorcycle traveler encounters the infamous African corruption](http://9gag.com/gag/aXPggGb)
  - 😝 [I should send this clip to the police station. So they can do something .](http://9gag.com/gag/an74g2L)
- - 💣 [Mike Tyson runs into a man he robbed as a teenager.](http://9gag.com/gag/ae9DDVq)
  - 😝 [Founded in 1881, Tuskegee University is a private, state-related, land-grant and nationally ranked historically black University. &lpar;from their official x acct&rpar;. LAsT NIgHT this happened.](http://9gag.com/gag/abAGVz8)
+ - 💣 [On the run again](http://9gag.com/gag/an744L0)
+ - 😝 [Remember to always quicksave](http://9gag.com/gag/aAyegKd)
  - 👉 [Bidenomics ??](http://9gag.com/gag/aMVxEQX)<!-- MEMES:END -->
 
 ---

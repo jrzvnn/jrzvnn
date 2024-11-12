@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [I&#39;m very scared](http://9gag.com/gag/aQzdE0W)
- - 😝 [Ahhh I remember this money dropping prank](http://9gag.com/gag/a5QWE4g)
- - 💣 [This stone breaking down into smaller pieces.](http://9gag.com/gag/aGydEMz)
- - 😝 [He likes his mouth pounded only in private ..](http://9gag.com/gag/a6ZKEbe)
- - 👉 [Lightning strikes the water surface with Scuba divers under it](http://9gag.com/gag/aD24YDO)<!-- MEMES:END -->
+ - 😝 [When the end is near!](http://9gag.com/gag/amovoQo)
+ - 😝 [Bidenomics ??](http://9gag.com/gag/aMVxEQX)
+ - 💣 [Hidden airplane crew quarters](http://9gag.com/gag/axy9yVn)
+ - 😝 [This stone breaking down into smaller pieces.](http://9gag.com/gag/aGydEMz)
+ - 👉 [A proud father](http://9gag.com/gag/abAGgVB)<!-- MEMES:END -->
 
 ---
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Love this guy &lpar;no homo&rpar;](http://9gag.com/gag/apRGRg5)
- - 😝 [Guess the country](http://9gag.com/gag/adBVBZZ)
- - 💣 [Original singer Yoko Takahashi pranks karaoke guest with a classic](http://9gag.com/gag/aMVxVgG)
- - 😝 [This in 2003](http://9gag.com/gag/aQzdzpr)
- - 👉 [When the end is near!](http://9gag.com/gag/amovoQo)<!-- MEMES:END -->
+ - 😝 [A proud father](http://9gag.com/gag/abAGgVB)
+ - 😝 [On the run again](http://9gag.com/gag/an744L0)
+ - 💣 [Ahhh I remember this money dropping prank](http://9gag.com/gag/a5QWE4g)
+ - 😝 [Mom!... why sister eating large candy?....](http://9gag.com/gag/a4P311w)
+ - 👉 [Lightning strikes the water surface with Scuba divers under it](http://9gag.com/gag/aD24YDO)<!-- MEMES:END -->
 
 ---
 

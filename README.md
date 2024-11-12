@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Ahhh I remember this money dropping prank](http://9gag.com/gag/a5QWE4g)
- - 😝 [On the run again](http://9gag.com/gag/an744L0)
- - 💣 [P.O.V you and your Japanese girlfriend but you don\u2019t know what you did](http://9gag.com/gag/ajP9mrw)
- - 😝 [Founded in 1881, Tuskegee University is a private, state-related, land-grant and nationally ranked historically black University. &lpar;from their official x acct&rpar;. LAsT NIgHT this happened.](http://9gag.com/gag/abAGVz8)
- - 👉 [My cup of tea shirt](http://9gag.com/gag/a2vW1ow)<!-- MEMES:END -->
+ - 😝 [Simone Biles](http://9gag.com/gag/a6ZKKr9)
+ - 😝 [Have to try this](http://9gag.com/gag/awyBog8)
+ - 💣 [Caracal is a wild cat native to Africa the Middle East Central Asia](http://9gag.com/gag/aZZyy7X)
+ - 😝 [While you&#39;re having fun and looking for memes, someone else is thinking about how to make it until their first paycheck at their new job.](http://9gag.com/gag/a87G1Dd)
+ - 👉 [Founded in 1881, Tuskegee University is a private, state-related, land-grant and nationally ranked historically black University. &lpar;from their official x acct&rpar;. LAsT NIgHT this happened.](http://9gag.com/gag/abAGVz8)<!-- MEMES:END -->
 
 ---
 

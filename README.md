@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [A Pixel 9 Pro Fold screen replacement costs more than a MacBook Air](https://www.theverge.com/2024/11/12/24294457/ifixit-google-pixel-9-pro-fold-inner-screen-part-price-availability)
- - [Shopify reports Q3 revenue up 26% YoY to $2.2B, above $2.12B est., GMV up 24% YoY to $69.7B, projects Q4 revenue growth above est.; SHOP jumps 13%+ pre-market &lpar;Spencer Soper/Bloomberg&rpar;](http://www.techmeme.com/241112/p10#a241112p10)
- - [The 6 Best Folding Phones We&#39;ve Tested and Reviewed &lpar;2024&rpar;](https://www.wired.com/gallery/best-folding-phones/)
- - [Sea reports Q3 revenue up 31% YoY to $4.3B and a $153.3M net income, above estimates and up from a $144M loss in Q3 2023; SE rises 5%+ pre-market &lpar;Bloomberg&rpar;](http://www.techmeme.com/241112/p9#a241112p9)
- - [Meta plans to show Facebook and Instagram users in Europe an option to get &quot;less personalized ads&quot; and cuts subscription prices by 40%, a concession to the EU &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/241112/p8#a241112p8)<!-- TECH:END -->
+ - [OWC Thunderbolt 5 Hub offers high-speed port expansion for Apple&#39;s newest Macs](https://appleinsider.com/articles/24/11/12/owc-thunderbolt-5-hub-offers-high-speed-port-expansion-for-apples-newest-macs?utm_medium=rss)
+ - [The EU notifies Apple of &quot;potentially prohibited geo-blocking practices&quot; on the App Store and other apps, and says it must align with EU anti-geo-blocking rules &lpar;Gian Volpicelli/Bloomberg&rpar;](http://www.techmeme.com/241112/p12#a241112p12)
+ - [North Korean hackers use infected crypto apps to target Macs](https://appleinsider.com/articles/24/11/12/north-korean-hackers-use-infected-crypto-apps-to-target-mac-devices?utm_medium=rss)
+ - [Nvidia launches its Nvidia app for Windows, designed to overhaul and replace the GeForce Experience app, after a beta earlier in 2024 &lpar;Tom Warren/The Verge&rpar;](http://www.techmeme.com/241112/p11#a241112p11)
+ - [Countries are ramping up renewable energy plans, but not fast enough](https://www.theverge.com/2024/11/12/24293613/renewable-energy-united-nations-summit-cop29)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

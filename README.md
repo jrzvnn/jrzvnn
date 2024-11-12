@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Netflix used to not have ads, now it’s ‘celebrating’ two years with them](https://www.theverge.com/2024/11/12/24294560/netflix-ads-tier-70-million-subscribers)
- - [Microsoft Edge is trying to forcefully get your Chrome tabs again](https://www.theverge.com/2024/11/12/24294454/microsoft-edge-chrome-tabs-prompt-trick)
- - [Andor is going to war in new look at season 2](https://www.theverge.com/2024/11/12/24294545/andor-season-two-alien-earth-ironheart-daredevil-born-again-trailer-2025)
- - [Third-gen AirPods are cheaper than ever at $94](https://www.theverge.com/2024/11/12/24294504/apple-airpods-pro-third-gen-early-black-friday-deal-sale)
- - [Apple receives EU warning to end ‘discriminatory’ geo-blocking practices](https://www.theverge.com/2024/11/12/24294554/apple-eu-warning-geo-blocking-practices-app-store)<!-- TECH:END -->
+ - [Apple is planning an Apple Home smart security camera](https://www.theverge.com/2024/11/12/24294508/apple-home-camera-smart-security-camera-2026)
+ - [Waymo’s robotaxis are now available to everyone in Los Angeles](https://www.theverge.com/2024/11/12/24293598/waymo-los-angeles-robotaxi-no-waitlist)
+ - [Apple Music Classical is now available in CarPlay](https://appleinsider.com/articles/24/11/12/apple-music-classical-is-now-available-in-carplay?utm_medium=rss)
+ - [Fortnite OG is coming back permanently in December](https://www.theverge.com/2024/11/12/24294616/fortnite-og-permanent-december-release-date)
+ - [Best Meat Delivery Services for 2024](https://www.cnet.com/health/nutrition/best-meat-delivery-services/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

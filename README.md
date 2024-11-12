@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Dutch people march demanding to overthrow the government and replace it with Sharia. They state in Arabic `either you surrender or war`](http://9gag.com/gag/aGydzeG)
- - 😝 [That chin](http://9gag.com/gag/aE0PgBn)
- - 💣 [On the run again](http://9gag.com/gag/an744L0)
- - 😝 [I should send this clip to the police station. So they can do something .](http://9gag.com/gag/an74g2L)
- - 👉 [Dutch female motorcycle traveler encounters the infamous African corruption](http://9gag.com/gag/aXPggGb)<!-- MEMES:END -->
+ - 😝 [What else did she expect?](http://9gag.com/gag/aD24Dp7)
+ - 😝 [California Man Uses RPG To Scare Off Home Invaders](http://9gag.com/gag/aE0P8d9)
+ - 💣 [Mom!... why sister eating large candy?....](http://9gag.com/gag/a4P311w)
+ - 😝 [Trump is going for the Head.](http://9gag.com/gag/aryVm0V)
+ - 👉 [Sausage and sauerkraut. Yay or Nay?](http://9gag.com/gag/aNDgPE3)<!-- MEMES:END -->
 
 ---
 

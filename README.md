@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [What else did she expect?](http://9gag.com/gag/aD24Dp7)
- - 😝 [California Man Uses RPG To Scare Off Home Invaders](http://9gag.com/gag/aE0P8d9)
- - 💣 [Mom!... why sister eating large candy?....](http://9gag.com/gag/a4P311w)
- - 😝 [Trump is going for the Head.](http://9gag.com/gag/aryVm0V)
- - 👉 [Sausage and sauerkraut. Yay or Nay?](http://9gag.com/gag/aNDgPE3)<!-- MEMES:END -->
+ - 😝 [Remember to always quicksave](http://9gag.com/gag/aAyegKd)
+ - 😝 [Dutch female motorcycle traveler encounters the infamous African corruption](http://9gag.com/gag/aXPggGb)
+ - 💣 [Ahhh I remember this money dropping prank](http://9gag.com/gag/a5QWE4g)
+ - 😝 [Mom!... why sister eating large candy?....](http://9gag.com/gag/a4P311w)
+ - 👉 [I should send this clip to the police station. So they can do something .](http://9gag.com/gag/an74g2L)<!-- MEMES:END -->
 
 ---
 

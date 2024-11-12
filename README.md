@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Remember to always quicksave](http://9gag.com/gag/aAyegKd)
  - 😝 [Dutch female motorcycle traveler encounters the infamous African corruption](http://9gag.com/gag/aXPggGb)
- - 💣 [Ahhh I remember this money dropping prank](http://9gag.com/gag/a5QWE4g)
- - 😝 [Mom!... why sister eating large candy?....](http://9gag.com/gag/a4P311w)
- - 👉 [I should send this clip to the police station. So they can do something .](http://9gag.com/gag/an74g2L)<!-- MEMES:END -->
+ - 😝 [Bidenomics ??](http://9gag.com/gag/aMVxEQX)
+ - 💣 [What\u00b4s up with that, ladies...](http://9gag.com/gag/avyzQvM)
+ - 😝 [I have a plan.](http://9gag.com/gag/apRGGMn)
+ - 👉 [Mom!... why sister eating large candy?....](http://9gag.com/gag/a4P311w)<!-- MEMES:END -->
 
 ---
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Analysts: Nintendo and Sony are heading into the holiday season with little to offer consumers; the Switch is now seven years old and $700 PS5 Pro is overpriced &lpar;Financial Times&rpar;](http://www.techmeme.com/241112/p7#a241112p7)
  - [Apple Music made a $450 coffee table book celebrating its top 100 albums](https://www.theverge.com/2024/11/12/24294436/apple-music-100-best-albums-coffee-table-book)
  - [Alibaba, JD, and Xiaomi report Singles&#39; Day sales numbers they say make the shopping event one of the most productive yet, as China&#39;s economy continues to sag &lpar;Bloomberg&rpar;](http://www.techmeme.com/241112/p6#a241112p6)
  - [Baidu unveils smart glasses powered by its Ernie LLM that aim to &quot;become a private assistant&quot; by tracking calories, playing music, and more, launching in 2025 &lpar;Eleanor Olcott/Financial Times&rpar;](http://www.techmeme.com/241112/p5#a241112p5)
- - [SoftBank says Vision Fund co-CEO Rajeev Misra will step down from his leadership roles; during his 10-year tenure, he led investments in WeWork, Wag, and others &lpar;Manish Singh/TechCrunch&rpar;](http://www.techmeme.com/241112/p4#a241112p4)
- - [Best PC Speakers for 2024](https://www.cnet.com/tech/home-entertainment/best-pc-speakers/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [SoftBank says Vision Fund co-CEO Rajeev Misra will step down from his leadership roles; during his 10-year tenure, he led investments in WeWork, Wag, and others &lpar;Manish Singh/TechCrunch&rpar;](http://www.techmeme.com/241112/p4#a241112p4)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

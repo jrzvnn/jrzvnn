@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Starbucks now offers delivery in its own app](https://www.theverge.com/2024/11/12/24294717/starbucks-app-delivery-ios-android-us-doordash)
  - [Source: Elon Musk&#39;s America PAC spent ~$200M to help elect Trump; Musk says the PAC is gearing up for midterms as well as judicial and DA elections &lpar;Dan Merica/Associated Press&rpar;](http://www.techmeme.com/241112/p21#a241112p21)
  - [Nintendo’s Black Friday sale has discounts on Switch games and controllers](https://www.theverge.com/2024/11/12/24294698/nintendo-switch-black-friday-discounts-games-controllers-holiday-sale)
  - [Turn your smartphone into a playable wind instrument with this USB-C mouthpiece](https://www.theverge.com/2024/11/12/24294604/artinoise-zefiro-intstrument-smartphone-midi-wind-controller-kickstarter)
- - [Here are the best iPad deals right now](https://www.theverge.com/21280354/best-ipad-deals-apple)
- - [Sources: advisors to Donald Trump expect the president-elect to halt a potential US ban of TikTok, which faces a January 19 deadline to divest &lpar;Washington Post&rpar;](http://www.techmeme.com/241112/p20#a241112p20)<!-- TECH:END -->
+ - [Here are the best iPad deals right now](https://www.theverge.com/21280354/best-ipad-deals-apple)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

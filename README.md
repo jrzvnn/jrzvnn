@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [One puzzle no 90s kid was able to solve](http://9gag.com/gag/amovAdo)
+ - 😝 [I&#39;m very scared](http://9gag.com/gag/aQzdE0W)
  - 😝 [Ahhh I remember this money dropping prank](http://9gag.com/gag/a5QWE4g)
- - 💣 [He likes his mouth pounded only in private ..](http://9gag.com/gag/a6ZKEbe)
- - 😝 [What else did she expect?](http://9gag.com/gag/aD24Dp7)
- - 👉 [This stone breaking down into smaller pieces.](http://9gag.com/gag/aGydEMz)<!-- MEMES:END -->
+ - 💣 [This stone breaking down into smaller pieces.](http://9gag.com/gag/aGydEMz)
+ - 😝 [He likes his mouth pounded only in private ..](http://9gag.com/gag/a6ZKEbe)
+ - 👉 [Lightning strikes the water surface with Scuba divers under it](http://9gag.com/gag/aD24YDO)<!-- MEMES:END -->
 
 ---
 

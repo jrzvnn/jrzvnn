@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Sea reports Q3 revenue up 31% YoY to $4.3B and a $153.3M net income, above estimates and up from a $144M loss in Q3 2023; SE rises 5%+ pre-market &lpar;Bloomberg&rpar;](http://www.techmeme.com/241112/p9#a241112p9)
+ - [Sources: Meta plans to show Facebook and Instagram users in Europe an option to get &quot;less personalized ads&quot; in the coming days, a concession to EU regulators &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/241112/p8#a241112p8)
+ - [Meta Horizon Worlds Has Been Taken Over by Children](https://www.wired.com/story/meta-horizon-worlds-taken-over-by-children/)
  - [Nvidia’s new app replacement for GeForce Experience is now out of beta](https://www.theverge.com/2024/11/12/24294442/nvidia-app-launch-beta-label-removed-features)
- - [App Store faces Epic Games-style antitrust lawsuit from Chinese developer](https://appleinsider.com/articles/24/11/12/app-store-faces-epic-games-style-lawsuit-from-chinese-developer?utm_medium=rss)
- - [Supply chain leak hints at two potential Apple home automation releases set for 2026](https://appleinsider.com/articles/24/11/12/supply-chain-hints-at-two-potential-apple-product-releases-set-for-2026?utm_medium=rss)
- - [iPhone 14 Pro prototype reveals the humble beginnings of Apple&#39;s haptic button project](https://appleinsider.com/articles/24/11/12/an-iphone-14-pro-prototype-reveals-the-humble-beginnings-of-apples-project-bongo?utm_medium=rss)
- - [The WIRED Guide to Protecting Yourself From Government Surveillance](https://www.wired.com/story/the-wired-guide-to-protecting-yourself-from-government-surveillance/)<!-- TECH:END -->
+ - [App Store faces Epic Games-style antitrust lawsuit from Chinese developer](https://appleinsider.com/articles/24/11/12/app-store-faces-epic-games-style-lawsuit-from-chinese-developer?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

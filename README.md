@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [What else did she expect?](http://9gag.com/gag/aD24Dp7)
- - 😝 [Sausage and sauerkraut. Yay or Nay?](http://9gag.com/gag/aNDgPE3)
- - 💣 [Mom!... why sister eating large candy?....](http://9gag.com/gag/a4P311w)
- - 😝 [Time to fix this $h!t](http://9gag.com/gag/a5QWX7N)
- - 👉 [This in 2003](http://9gag.com/gag/aQzdzpr)<!-- MEMES:END -->
+ - 😝 [What\u00b4s up with that, ladies...](http://9gag.com/gag/avyzQvM)
+ - 😝 [Remember to always quicksave](http://9gag.com/gag/aAyegKd)
+ - 💣 [Number one was the best](http://9gag.com/gag/adBVBpV)
+ - 😝 [Simone Biles](http://9gag.com/gag/a6ZKKr9)
+ - 👉 [Ahhh I remember this money dropping prank](http://9gag.com/gag/a5QWE4g)<!-- MEMES:END -->
 
 ---
 

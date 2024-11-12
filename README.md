@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [SoftBank says Vision Fund co-CEO Rajeev Misra will step down from his leadership roles; during his 10-year tenure, he led investments in WeWork, Wag, and others &lpar;Manish Singh/TechCrunch&rpar;](http://www.techmeme.com/241112/p4#a241112p4)
  - [This tiny smart lock promises to unlock your door in under two seconds](https://www.theverge.com/2024/11/12/24293548/nuki-smart-lock-ultra-release-date-specs)
  - [Best Telemedicine Services for 2024](https://www.cnet.com/health/medical/best-telemedicine-services/#ftag=CAD590a51e)
  - [Best Squat Racks of 2024](https://www.cnet.com/health/fitness/best-squat-racks/#ftag=CAD590a51e)
- - [Best Internet Providers in Centennial, Colorado](https://www.cnet.com/home/internet/best-internet-providers-in-centennial-co/#ftag=CAD590a51e)
- - [SoftBank reports Q2 net income of ~$7.7B and a Vision Fund gain of ~$2.42B, driven by strong Indian IPOs and valuation gains in startups like Coupang and Didi &lpar;Bloomberg&rpar;](http://www.techmeme.com/241112/p3#a241112p3)<!-- TECH:END -->
+ - [Best Internet Providers in Centennial, Colorado](https://www.cnet.com/home/internet/best-internet-providers-in-centennial-co/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

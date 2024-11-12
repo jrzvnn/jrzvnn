@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [SoftBank reports Q2 net income of ~$7.7B and a Vision Fund gain of ~$2.42B, driven by strong Indian startup IPOs and valuation gains in Coupang and Didi &lpar;Bloomberg&rpar;](http://www.techmeme.com/241112/p3#a241112p3)
  - [Rival search engines Ecosia and Qwant launch European Search Perspective, a joint venture to develop an index of the web to reduce reliance on Google and Bing &lpar;Paresh Dave/Wired&rpar;](http://www.techmeme.com/241112/p2#a241112p2)
  - [Amazon&#39;s Annapurna Labs plans to unveil &quot;Trainium 2&quot; AI chips next month, in an effort that can rival Nvidia; Trainium 2 is being tested by Anthropic and others &lpar;Financial Times&rpar;](http://www.techmeme.com/241112/p1#a241112p1)
  - [Two Upstart Search Engines Are Teaming Up to Take on Google](https://www.wired.com/story/ecosia-qwant-eusp-take-on-google-search-index/)
- - [Kuo: Apple plans a smart home IP camera and aims for 10M+ annual shipments, with production scheduled for 2026; Goertek will be the exclusive assembly supplier &lpar;Ming-Chi Kuo&rpar;](http://www.techmeme.com/241111/p27#a241111p27)
- - [Supply chain hints at two potential Apple product releases set for 2026](https://appleinsider.com/articles/24/11/12/supply-chain-hints-at-two-potential-apple-product-releases-set-for-2026?utm_medium=rss)<!-- TECH:END -->
+ - [Kuo: Apple plans a smart home IP camera and aims for 10M+ annual shipments, with production scheduled for 2026; Goertek will be the exclusive assembly supplier &lpar;Ming-Chi Kuo&rpar;](http://www.techmeme.com/241111/p27#a241111p27)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

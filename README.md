@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Microsoft plans to end support for the Windows Mail, Calendar, and People apps on December 31, after moving users to the new Outlook app in recent months &lpar;Tom Warren/The Verge&rpar;](http://www.techmeme.com/241112/p18#a241112p18)
+ - [Chrome on your iPhone can search using pictures and words at the same time](https://www.theverge.com/2024/11/12/24294492/chrome-app-ios-google-lens-image-text-search)
+ - [Donald Trump’s EPA pick wants to ‘make America the AI capital of the world’](https://www.theverge.com/2024/11/12/24294483/donald-trump-ai-data-center-epa-lee-zeldin)
  - [Zurich-based LocalStack, which helps developers emulate and test cloud apps locally, raised a $25M Series A led by Notable Capital &lpar;Paul Sawers/TechCrunch&rpar;](http://www.techmeme.com/241112/p17#a241112p17)
- - [Ultimate guide on how to use an external SSD as a working drive on macOS Sequoia](https://appleinsider.com/inside/macos-sequoia/tips/ultimate-guide-on-how-to-use-an-external-ssd-as-a-working-drive-on-macos-sequoia?utm_medium=rss)
- - [Waymo opens robotaxi rides to anyone in LA within an 80-square-mile area running from downtown LA to Santa Monica and says ~300K users had been on the waitlist &lpar;Alan Ohnsman/Forbes&rpar;](http://www.techmeme.com/241112/p16#a241112p16)
- - [Microsoft is killing off Windows 11’s Mail and Calendar apps by the end of the year](https://www.theverge.com/2024/11/12/24294652/microsoft-windows-11-mail-calendar-apps-end-of-support)
- - [Apple is planning a smart home security camera](https://www.theverge.com/2024/11/12/24294508/apple-home-camera-smart-security-camera-2026)<!-- TECH:END -->
+ - [Ultimate guide on how to use an external SSD as a working drive on macOS Sequoia](https://appleinsider.com/inside/macos-sequoia/tips/ultimate-guide-on-how-to-use-an-external-ssd-as-a-working-drive-on-macos-sequoia?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

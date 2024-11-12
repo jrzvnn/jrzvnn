@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Kids without a cellphone are the best](http://9gag.com/gag/adBVB5B)
- - 😝 [All it matters is they had a great time.](http://9gag.com/gag/aZZyZ43)
- - 💣 [I wonder if you know?](http://9gag.com/gag/a34w4w3)
- - 😝 [I wouldn&#39;t tell anyone if i would have gone crazy but there would be hints](http://9gag.com/gag/amovoGy)
- - 👉 [Love this guy &lpar;no homo&rpar;](http://9gag.com/gag/apRGRg5)<!-- MEMES:END -->
+ - 😝 [What\u00b4s up with that, ladies...](http://9gag.com/gag/avyzQvM)
+ - 😝 [California Man Uses RPG To Scare Off Home Invaders](http://9gag.com/gag/aE0P8d9)
+ - 💣 [Use to be ours](http://9gag.com/gag/aYQyVm2)
+ - 😝 [One puzzle no 90s kid was able to solve](http://9gag.com/gag/amovAdo)
+ - 👉 [Casual encounter with a Cassowary - the most dangerous bird in the world.](http://9gag.com/gag/ae9D9pB)<!-- MEMES:END -->
 
 ---
 

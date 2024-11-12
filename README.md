@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [At least now they will do something about it](http://9gag.com/gag/aD242PN)
- - 😝 [Kids without a cellphone are the best](http://9gag.com/gag/adBVB5B)
- - 💣 [I wouldn&#39;t tell anyone if i would have gone crazy but there would be hints](http://9gag.com/gag/amovoGy)
- - 😝 [I wonder if you know?](http://9gag.com/gag/a34w4w3)
- - 👉 [Love this guy &lpar;no homo&rpar;](http://9gag.com/gag/apRGRg5)<!-- MEMES:END -->
+ - 😝 [Ahhh I remember this money dropping prank](http://9gag.com/gag/a5QWE4g)
+ - 😝 [Supervillain origin story](http://9gag.com/gag/adBVVzj)
+ - 💣 [Lightning strikes the water surface with Scuba divers under it](http://9gag.com/gag/aD24YDO)
+ - 😝 [Casual encounter with a Cassowary - the most dangerous bird in the world.](http://9gag.com/gag/ae9D9pB)
+ - 👉 [After ordering some shrimp, customer returned the plate like this](http://9gag.com/gag/awyByx1)<!-- MEMES:END -->
 
 ---
 

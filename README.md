@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [A Pixel 9 Pro Fold screen replacement costs more than a MacBook Air](https://www.theverge.com/2024/11/12/24294457/ifixit-google-pixel-9-pro-fold-inner-screen-part-price-availability)
+ - [Shopify reports Q3 revenue up 26% YoY to $2.2B, above $2.12B est., GMV up 24% YoY to $69.7B, projects Q4 revenue growth above est.; SHOP jumps 13%+ pre-market &lpar;Spencer Soper/Bloomberg&rpar;](http://www.techmeme.com/241112/p10#a241112p10)
+ - [The 6 Best Folding Phones We&#39;ve Tested and Reviewed &lpar;2024&rpar;](https://www.wired.com/gallery/best-folding-phones/)
  - [Sea reports Q3 revenue up 31% YoY to $4.3B and a $153.3M net income, above estimates and up from a $144M loss in Q3 2023; SE rises 5%+ pre-market &lpar;Bloomberg&rpar;](http://www.techmeme.com/241112/p9#a241112p9)
- - [Sources: Meta plans to show Facebook and Instagram users in Europe an option to get &quot;less personalized ads&quot; in the coming days, a concession to EU regulators &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/241112/p8#a241112p8)
- - [Meta Horizon Worlds Has Been Taken Over by Children](https://www.wired.com/story/meta-horizon-worlds-taken-over-by-children/)
- - [Nvidia’s new app replacement for GeForce Experience is now out of beta](https://www.theverge.com/2024/11/12/24294442/nvidia-app-launch-beta-label-removed-features)
- - [App Store faces Epic Games-style antitrust lawsuit from Chinese developer](https://appleinsider.com/articles/24/11/12/app-store-faces-epic-games-style-lawsuit-from-chinese-developer?utm_medium=rss)<!-- TECH:END -->
+ - [Meta plans to show Facebook and Instagram users in Europe an option to get &quot;less personalized ads&quot; and cuts subscription prices by 40%, a concession to the EU &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/241112/p8#a241112p8)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

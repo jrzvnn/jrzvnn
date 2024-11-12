@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [What else did she expect?](http://9gag.com/gag/aD24Dp7)
- - 😝 [Bidenomics ??](http://9gag.com/gag/aMVxEQX)
- - 💣 [Hidden airplane crew quarters](http://9gag.com/gag/axy9yVn)
- - 😝 [This stone breaking down into smaller pieces.](http://9gag.com/gag/aGydEMz)
- - 👉 [One puzzle no 90s kid was able to solve](http://9gag.com/gag/amovAdo)<!-- MEMES:END -->
+ - 😝 [Humanity is still alive !](http://9gag.com/gag/awyBy9D)
+ - 😝 [He likes his mouth pounded only in private ..](http://9gag.com/gag/a6ZKEbe)
+ - 💣 [When the end is near!](http://9gag.com/gag/amovoQo)
+ - 😝 [One puzzle no 90s kid was able to solve](http://9gag.com/gag/amovAdo)
+ - 👉 [After ordering some shrimp, customer returned the plate like this](http://9gag.com/gag/awyByx1)<!-- MEMES:END -->
 
 ---
 

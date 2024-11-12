@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [When the end is near!](http://9gag.com/gag/amovoQo)
+ - 😝 [What else did she expect?](http://9gag.com/gag/aD24Dp7)
  - 😝 [Bidenomics ??](http://9gag.com/gag/aMVxEQX)
  - 💣 [Hidden airplane crew quarters](http://9gag.com/gag/axy9yVn)
  - 😝 [This stone breaking down into smaller pieces.](http://9gag.com/gag/aGydEMz)
- - 👉 [A proud father](http://9gag.com/gag/abAGgVB)<!-- MEMES:END -->
+ - 👉 [One puzzle no 90s kid was able to solve](http://9gag.com/gag/amovAdo)<!-- MEMES:END -->
 
 ---
 

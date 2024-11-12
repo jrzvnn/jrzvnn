@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Apple receives EU warning to end ‘discriminatory’ geo-blocking practices](https://www.theverge.com/2024/11/12/24294554/apple-eu-warning-geo-blocking-practices-app-store)
+ - [New York-based ScaleOps, which offers cloud spend management tools, raised a $58M Series B led by Lightspeed, taking its total funding to $80M &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/241112/p15#a241112p15)
  - [Best Barbecue Sauce, Rub, and Hot Sauce Subscription Boxes &lpar;2024&rpar;](https://www.wired.com/story/the-best-barbecue-and-hot-sauce-subscription-boxes/)
- - [Writer, which makes enterprise generative AI tools, raised a $200M Series C led by Premji, Radical Ventures, and Iconiq at a $1.9B valuation, for $326M raised &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/241112/p14#a241112p14)
- - [23andMe is ending its cancer research program and slashing over 200 jobs](https://www.theverge.com/2024/11/12/24294473/23andme-layoffs-40-percent-employees)
- - [Smart sleep is worth the cost](https://www.theverge.com/2024/11/12/24294517/best-sleep-gadgets-eight-sleep-oura-spotify-ai-vergecast)
- - [Netflix says its ad tier has 70M users globally, up from 40M in May 2024 and 22M in January 2024, and 50%+ of sign-ups are for ad plans in supported countries &lpar;Brian Steinberg/Variety&rpar;](http://www.techmeme.com/241112/p13#a241112p13)<!-- TECH:END -->
+ - [Best Google Smart Home Devices in 2024](https://www.cnet.com/home/smart-home/best-google-smart-home-devices/#ftag=CAD590a51e)
+ - [Writer, which makes enterprise generative AI tools, raised a $200M Series C led by Premji, Radical Ventures, and Iconiq at a $1.9B valuation, for $326M raised &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/241112/p14#a241112p14)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

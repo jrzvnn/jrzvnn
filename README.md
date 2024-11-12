@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [What else did she expect?](http://9gag.com/gag/aD24Dp7)
- - 😝 [Time to fix this $h!t](http://9gag.com/gag/a5QWX7N)
- - 💣 [NoNoNoYes You Got It](http://9gag.com/gag/aRB7rVG)
- - 😝 [Pure talent](http://9gag.com/gag/abAGgZL)
- - 👉 [Bidenomics ??](http://9gag.com/gag/aMVxEQX)<!-- MEMES:END -->
+ - 😝 [He likes his mouth pounded only in private ..](http://9gag.com/gag/a6ZKEbe)
+ - 😝 [What\u00b4s up with that, ladies...](http://9gag.com/gag/avyzQvM)
+ - 💣 [Dutch female motorcycle traveler encounters the infamous African corruption](http://9gag.com/gag/aXPggGb)
+ - 😝 [On the run again](http://9gag.com/gag/an744L0)
+ - 👉 [Ahhh I remember this money dropping prank](http://9gag.com/gag/a5QWE4g)<!-- MEMES:END -->
 
 ---
 

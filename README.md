@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [The next U.S. Secretary of State](http://9gag.com/gag/ajP9PrR)
- - 😝 [One puzzle no 90s kid was able to solve](http://9gag.com/gag/amovAdo)
- - 💣 [He likes his mouth pounded only in private ..](http://9gag.com/gag/a6ZKEbe)
- - 😝 [Mom!... why sister eating large candy?....](http://9gag.com/gag/a4P311w)
- - 👉 [Ahhh I remember this money dropping prank](http://9gag.com/gag/a5QWE4g)<!-- MEMES:END -->
+ - 😝 [Use to be ours](http://9gag.com/gag/aYQyVm2)
+ - 😝 [P.O.V you and your Japanese girlfriend but you don\u2019t know what you did](http://9gag.com/gag/ajP9mrw)
+ - 💣 [Mom!... why sister eating large candy?....](http://9gag.com/gag/a4P311w)
+ - 😝 [What\u00b4s up with that, ladies...](http://9gag.com/gag/avyzQvM)
+ - 👉 [Of course there will be no Asian Lives Matter, why? because its breaking left wing narrative and Lawful white people will be blamed for stupidest reason ever just because they pro-safety and factual information](http://9gag.com/gag/ajP9gE0)<!-- MEMES:END -->
 
 ---
 

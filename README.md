@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Dutch female motorcycle traveler encounters the infamous African corruption](http://9gag.com/gag/aXPggGb)
- - 😝 [P.O.V you and your Japanese girlfriend but you don\u2019t know what you did](http://9gag.com/gag/ajP9mrw)
- - 💣 [She lucked out](http://9gag.com/gag/abAGV3O)
- - 😝 [Lightning strikes the water surface with Scuba divers under it](http://9gag.com/gag/aD24YDO)
- - 👉 [Supervillain origin story](http://9gag.com/gag/adBVVzj)<!-- MEMES:END -->
+ - 😝 [What else did she expect?](http://9gag.com/gag/aD24Dp7)
+ - 😝 [Johnny Somali faces up to 7 years in jail in South Korea for using AI to create a deepfake video showing a Korean woman as his girlfriend. With additional charges, he could face a combined 17 years and is currently banned from leaving South Korea.](http://9gag.com/gag/awyBZ01)
+ - 💣 [NoNoNoYes You Got It](http://9gag.com/gag/aRB7rVG)
+ - 😝 [Pure talent](http://9gag.com/gag/abAGgZL)
+ - 👉 [Trump is going for the Head.](http://9gag.com/gag/aryVm0V)<!-- MEMES:END -->
 
 ---
 

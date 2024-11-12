@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Two Upstart Search Engines Are Teaming Up to Take on Google](https://www.wired.com/story/ecosia-qwant-eusp-take-on-google-search-index/)
  - [Kuo: Apple plans a smart home IP camera and aims for 10M+ annual shipments, with production scheduled for 2026; Goertek will be the exclusive assembly supplier &lpar;Ming-Chi Kuo&rpar;](http://www.techmeme.com/241111/p27#a241111p27)
  - [Supply chain hints at two potential Apple product releases set for 2026](https://appleinsider.com/articles/24/11/12/supply-chain-hints-at-two-potential-apple-product-releases-set-for-2026?utm_medium=rss)
- - [Today&#39;s NYT Mini Crossword Answers for Tuesday, Nov. 12](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-tuesday-nov-12/#ftag=CAD590a51e)
- - [Filing: a Chinese court agrees to hear a Fortnite-like case against Apple by Bodyreader, a posture correcting app Apple removed in 2020; Bodyreader seeks ~$420K &lpar;Pei Li/Bloomberg&rpar;](http://www.techmeme.com/241111/p26#a241111p26)
- - [Signal announces a suite of call features, including the ability to share a link to a call, emoji reactions, a &quot;raise hand&quot; button, and a dedicated calls tab &lpar;Jay Peters/The Verge&rpar;](http://www.techmeme.com/241111/p25#a241111p25)<!-- TECH:END -->
+ - [Today&#39;s NYT Connections: Sports Edition Hints and Answers for Nov. 12, #50](https://www.cnet.com/tech/gaming/todays-nyt-connections-sports-edition-hints-and-answers-for-nov-12-50/#ftag=CAD590a51e)
+ - [Today&#39;s NYT Strands Hints, Answers and Help for Nov. 12, #254](https://www.cnet.com/tech/gaming/todays-nyt-strands-hints-answers-and-help-for-nov-12-254/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

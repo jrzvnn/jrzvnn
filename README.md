@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Spotify reports Q3 revenue up 19% YoY to &amp;euro;3.99B, vs. &amp;euro;4.02B est., MAUs up 11% to 640M, and forecasts Q4 profit and MAUs above est.; SPOT jumps 8%+ after hours &lpar;Jaspreet Singh/Reuters&rpar;](http://www.techmeme.com/241112/p24#a241112p24)
  - [Oura’s Perimenopause Report Shows the Gap in Women’s Health Research](https://www.wired.com/story/oura-perimenopause-report/)
  - [Eufy’s new floodlight cam will watch over your backyard in HD for $150](https://www.theverge.com/2024/11/12/24294751/anker-eufy-floodlight-camera-e30-security)
  - [Power press: Fixes for Apple&#39;s oddly-placed Mac mini button](https://appleinsider.com/articles/24/11/12/power-press-fixes-for-apples-oddly-placed-mac-mini-button?utm_medium=rss)
- - [VW and Rivian officially kick off $5.8 billion joint venture, announce leadership](https://www.theverge.com/2024/11/12/24294827/vw-rivian-joint-venture-leadership-ev)
- - [iOS 18.2 could receive a full public release with Image Playground &amp; ChatGPT on December 9](https://appleinsider.com/articles/24/11/12/ios-182-could-receive-a-full-public-release-with-image-playground-chatgpt-on-december-9?utm_medium=rss)<!-- TECH:END -->
+ - [VW and Rivian officially kick off $5.8 billion joint venture, announce leadership](https://www.theverge.com/2024/11/12/24294827/vw-rivian-joint-venture-leadership-ev)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

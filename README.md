@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Dutch female motorcycle traveler encounters the infamous African corruption](http://9gag.com/gag/aXPggGb)
- - 😝 [Bidenomics ??](http://9gag.com/gag/aMVxEQX)
- - 💣 [What\u00b4s up with that, ladies...](http://9gag.com/gag/avyzQvM)
- - 😝 [I have a plan.](http://9gag.com/gag/apRGGMn)
- - 👉 [Mom!... why sister eating large candy?....](http://9gag.com/gag/a4P311w)<!-- MEMES:END -->
+ - 😝 [Ahhh I remember this money dropping prank](http://9gag.com/gag/a5QWE4g)
+ - 😝 [Bill ladies](http://9gag.com/gag/axy99rp)
+ - 💣 [Remember to always quicksave](http://9gag.com/gag/aAyegKd)
+ - 😝 [That chin](http://9gag.com/gag/aE0PgBn)
+ - 👉 [Dutch people march demanding to overthrow the government and replace it with Sharia. They state in Arabic `either you surrender or war`](http://9gag.com/gag/aGydzeG)<!-- MEMES:END -->
 
 ---
 

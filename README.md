@@ -161,7 +161,7 @@ R                        1 repo              ░░░░░░░░░░░�
  - [Greg Brockman returns to OpenAI after taking a leave from his role as president in August; memo: he is working with Sam Altman on creating a new role for him &lpar;Shirin Ghaffary/Bloomberg&rpar;](http://www.techmeme.com/241112/p26#a241112p26)
  - [The hunt for the next Twitter: all the news about alternative social media platforms](https://www.theverge.com/23686584/twitter-alternative-social-media-platforms-mastodon-bluesky-activitypub-protocol)
  - [MKBHD got himself in trouble again](https://www.theverge.com/2024/11/12/24294921/mkbhd-controversy-dji-sponsored-video-speeding)
- - [Apple’s rumored six-inch ‘AI wall tablet’ could control your smart home by March 2025](https://www.theverge.com/2024/11/12/24294975/apple-smart-home-display-march-2025-rumors)<!-- TECH:END -->
+ - [Fortnite OG Returns for Good In December, With Original Maps, Loot and More](https://www.cnet.com/tech/gaming/fortnite-og-returns-for-good-in-december-with-original-maps-loot-and-more/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

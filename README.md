@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [iPhone 14 Pro prototype reveals the humble beginnings of Apple&#39;s haptic button project](https://appleinsider.com/articles/24/11/12/an-iphone-14-pro-prototype-reveals-the-humble-beginnings-of-apples-project-bongo?utm_medium=rss)
+ - [The WIRED Guide to Protecting Yourself From Government Surveillance](https://www.wired.com/story/the-wired-guide-to-protecting-yourself-from-government-surveillance/)
  - [The Real Problem With Banning Masks at Protests](https://www.wired.com/story/the-real-problem-with-banning-masks-at-protests/)
  - [Analysts: Nintendo and Sony are heading into the holiday season with little to offer consumers; the Switch is now seven years old and $700 PS5 Pro is overpriced &lpar;Financial Times&rpar;](http://www.techmeme.com/241112/p7#a241112p7)
- - [Apple Music made a $450 coffee table book celebrating its top 100 albums](https://www.theverge.com/2024/11/12/24294436/apple-music-100-best-albums-coffee-table-book)
- - [Best Tower Fan for 2024](https://www.cnet.com/home/kitchen-and-household/best-tower-fan/#ftag=CAD590a51e)
- - [Alibaba, JD, and Xiaomi report Singles&#39; Day sales numbers they say make the shopping event one of the most productive yet, as China&#39;s economy continues to sag &lpar;Bloomberg&rpar;](http://www.techmeme.com/241112/p6#a241112p6)<!-- TECH:END -->
+ - [Apple Music made a $450 coffee table book celebrating its top 100 albums](https://www.theverge.com/2024/11/12/24294436/apple-music-100-best-albums-coffee-table-book)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

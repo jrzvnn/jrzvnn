@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Baidu unveils smart glasses powered by its Ernie LLM that aim to &quot;become a private assistant&quot; by tracking calories, playing music, and more, launching in 2025 &lpar;Eleanor Olcott/Financial Times&rpar;](http://www.techmeme.com/241112/p5#a241112p5)
  - [SoftBank says Vision Fund co-CEO Rajeev Misra will step down from his leadership roles; during his 10-year tenure, he led investments in WeWork, Wag, and others &lpar;Manish Singh/TechCrunch&rpar;](http://www.techmeme.com/241112/p4#a241112p4)
+ - [Best PC Speakers for 2024](https://www.cnet.com/tech/home-entertainment/best-pc-speakers/#ftag=CAD590a51e)
  - [This tiny smart lock promises to unlock your door in under two seconds](https://www.theverge.com/2024/11/12/24293548/nuki-smart-lock-ultra-release-date-specs)
- - [Best Telemedicine Services for 2024](https://www.cnet.com/health/medical/best-telemedicine-services/#ftag=CAD590a51e)
- - [Best Squat Racks of 2024](https://www.cnet.com/health/fitness/best-squat-racks/#ftag=CAD590a51e)
- - [Best Internet Providers in Centennial, Colorado](https://www.cnet.com/home/internet/best-internet-providers-in-centennial-co/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Best Telemedicine Services for 2024](https://www.cnet.com/health/medical/best-telemedicine-services/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

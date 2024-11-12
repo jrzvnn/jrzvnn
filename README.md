@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Waymo opens robotaxi rides to anyone in LA within an 80-square-mile area running from downtown LA to Santa Monica and says ~300K users had been on the waitlist &lpar;Alan Ohnsman/Forbes&rpar;](http://www.techmeme.com/241112/p16#a241112p16)
+ - [Microsoft is killing off Windows 11’s Mail and Calendar apps by the end of the year](https://www.theverge.com/2024/11/12/24294652/microsoft-windows-11-mail-calendar-apps-end-of-support)
  - [Apple is planning an Apple Home smart security camera](https://www.theverge.com/2024/11/12/24294508/apple-home-camera-smart-security-camera-2026)
  - [Waymo’s robotaxis are now available to everyone in Los Angeles](https://www.theverge.com/2024/11/12/24293598/waymo-los-angeles-robotaxi-no-waitlist)
- - [Apple Music Classical is now available in CarPlay](https://appleinsider.com/articles/24/11/12/apple-music-classical-is-now-available-in-carplay?utm_medium=rss)
- - [Fortnite OG is coming back permanently in December](https://www.theverge.com/2024/11/12/24294616/fortnite-og-permanent-december-release-date)
- - [Best Meat Delivery Services for 2024](https://www.cnet.com/health/nutrition/best-meat-delivery-services/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Apple Music Classical is now available in CarPlay](https://appleinsider.com/articles/24/11/12/apple-music-classical-is-now-available-in-carplay?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

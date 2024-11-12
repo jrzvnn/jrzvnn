@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Writer, which makes enterprise generative AI tools, raised a $200M Series C led by Premji, Radical Ventures, and Iconiq at a $1.9B valuation, for $326M raised &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/241112/p14#a241112p14)
+ - [23andMe is ending its cancer research program and slashing over 200 jobs](https://www.theverge.com/2024/11/12/24294473/23andme-layoffs-40-percent-employees)
+ - [Smart sleep is worth the cost](https://www.theverge.com/2024/11/12/24294517/best-sleep-gadgets-eight-sleep-oura-spotify-ai-vergecast)
  - [Netflix says its ad tier has 70M users globally, up from 40M in May 2024 and 22M in January 2024, and 50%+ of sign-ups are for ad plans in supported countries &lpar;Brian Steinberg/Variety&rpar;](http://www.techmeme.com/241112/p13#a241112p13)
- - [Kia EV3 Review: Price, Specs, Availability](https://www.wired.com/review/review-kia-ev3/)
- - [The Best Smartwatches, Editor Tested and Reviewed &lpar;2024&rpar;: Apple Watch, Wear OS, Hybrid Watches, Kids&#39; Watches](https://www.wired.com/gallery/best-smartwatches/)
- - [LG Display’s stretchable screen is now even stretchier](https://www.theverge.com/2024/11/12/24294480/lg-display-stretchable-screen-expands)
- - [Particle is a new app using AI to organize and summarize the news](https://www.theverge.com/2024/11/12/24293993/particle-news-app-ai-summaries)<!-- TECH:END -->
+ - [Kia EV3 Review: Price, Specs, Availability](https://www.wired.com/review/review-kia-ev3/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

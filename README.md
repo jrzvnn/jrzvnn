@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Filing: a Chinese court agrees to hear a Fortnite-like case against Apple by Bodyreader, a posture correcting app Apple removed in 2020; Bodyreader seeks ~$420K &lpar;Pei Li/Bloomberg&rpar;](http://www.techmeme.com/241111/p26#a241111p26)
  - [Signal announces a suite of call features, including the ability to share a link to a call, emoji reactions, a &quot;raise hand&quot; button, and a dedicated calls tab &lpar;Jay Peters/The Verge&rpar;](http://www.techmeme.com/241111/p25#a241111p25)
  - [A look at DeFlock, an open-source project that has crowdsourced the locations of 5,600+ automated license plate reader cameras globally from Flock and others &lpar;Jason Koebler/404 Media&rpar;](http://www.techmeme.com/241111/p24#a241111p24)
  - [Bitcoin passes $89K for the first time, Tesla closes up 8.96%, Coinbase closes up 19.76%, and Robinhood closes up 7.4%, as investors pile into &quot;Trump trades&quot; &lpar;Financial Times&rpar;](http://www.techmeme.com/241111/p23#a241111p23)
- - [An iPhone 14 Pro prototype reveals the humble beginnings of Apple&#39;s Project Bongo](https://appleinsider.com/articles/24/11/12/an-iphone-14-pro-prototype-reveals-the-humble-beginnings-of-apples-project-bongo?utm_medium=rss)
- - [Best Internet Providers in Frisco, Texas](https://www.cnet.com/home/internet/best-internet-providers-in-frisco-tx/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [An iPhone 14 Pro prototype reveals the humble beginnings of Apple&#39;s Project Bongo](https://appleinsider.com/articles/24/11/12/an-iphone-14-pro-prototype-reveals-the-humble-beginnings-of-apples-project-bongo?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

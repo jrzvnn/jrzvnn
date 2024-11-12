@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Casual encounter with a Cassowary - the most dangerous bird in the world.](http://9gag.com/gag/ae9D9pB)
+ - 😝 [The next U.S. Secretary of State](http://9gag.com/gag/ajP9PrR)
  - 😝 [When the end is near!](http://9gag.com/gag/amovoQo)
- - 💣 [My cup of tea shirt](http://9gag.com/gag/a2vW1ow)
- - 😝 [Mom!... why sister eating large candy?....](http://9gag.com/gag/a4P311w)
- - 👉 [After ordering some shrimp, customer returned the plate like this](http://9gag.com/gag/awyByx1)<!-- MEMES:END -->
+ - 💣 [Mom!... why sister eating large candy?....](http://9gag.com/gag/a4P311w)
+ - 😝 [After ordering some shrimp, customer returned the plate like this](http://9gag.com/gag/awyByx1)
+ - 👉 [Ahhh I remember this money dropping prank](http://9gag.com/gag/a5QWE4g)<!-- MEMES:END -->
 
 ---
 

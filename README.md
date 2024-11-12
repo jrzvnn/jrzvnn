@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Sources: Marc Lore&#39;s food delivery startup Wonder is in advanced talks to buy Grubhub from Just Eat Takeaway; Just Eat bought Grubhub in 2021 in a $7B+ deal &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/241112/p27#a241112p27)
+ - [Greg Brockman returns to OpenAI after taking a leave from his role as president in August; memo: he is working with Sam Altman on creating a new role for him &lpar;Shirin Ghaffary/Bloomberg&rpar;](http://www.techmeme.com/241112/p26#a241112p26)
+ - [The hunt for the next Twitter: all the news about alternative social media platforms](https://www.theverge.com/23686584/twitter-alternative-social-media-platforms-mastodon-bluesky-activitypub-protocol)
  - [MKBHD got himself in trouble again](https://www.theverge.com/2024/11/12/24294921/mkbhd-controversy-dji-sponsored-video-speeding)
- - [Apple’s rumored six-inch ‘AI wall tablet’ could control your smart home by March 2025](https://www.theverge.com/2024/11/12/24294975/apple-smart-home-display-march-2025-rumors)
- - [SBF to get the Girls treatment in Going Infinite film adaptation](https://www.theverge.com/2024/11/12/24294913/sbf-sam-bankman-fried-ftx-movie-going-infinite-book-adaptation-lena-dunham-michael-lewis)
- - [Apple&#39;s rumored smart display could arrive in March with a focus on AI and smart home](https://appleinsider.com/articles/24/11/12/apples-rumored-smart-display-could-arrive-in-march-with-a-focus-on-ai-and-smart-home?utm_medium=rss)
- - [Instacart reports Q3 revenue up 12% YoY to $852M, vs. $843.6M est., gross transaction value up 11% to $8.3B, and forecasts Q4 adjusted EBITDA below estimates &lpar;Natalie Lung/Bloomberg&rpar;](http://www.techmeme.com/241112/p25#a241112p25)<!-- TECH:END -->
+ - [Apple’s rumored six-inch ‘AI wall tablet’ could control your smart home by March 2025](https://www.theverge.com/2024/11/12/24294975/apple-smart-home-display-march-2025-rumors)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

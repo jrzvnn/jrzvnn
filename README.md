@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The slim PS5 is getting a price cut for the holidays](https://www.theverge.com/2024/11/12/24294720/sony-playstation-5-ps5-price-cut-holidays)
  - [Hyundai’s touchscreen honeymoon is over because sometimes buttons are just better](https://www.theverge.com/2024/11/12/24294634/hyundai-vehicle-controls-more-buttons-focus-groups-annoyed-touchscreens)
  - [What a VPN kill switch is, and why you need it](https://appleinsider.com/articles/24/11/12/what-a-vpn-kill-switch-is-and-why-you-need-it?utm_medium=rss)
  - [Now there’s an ‘anti-AI’ camera app for Android, too](https://www.theverge.com/2024/11/12/24294625/zerocam-no-ai-processing-camera-app-android-launch)
- - [Microsoft plans to end support for the Windows Mail, Calendar, and People apps on December 31, after moving users to the new Outlook app in recent months &lpar;Tom Warren/The Verge&rpar;](http://www.techmeme.com/241112/p18#a241112p18)
- - [Chrome on your iPhone can search using pictures and words at the same time](https://www.theverge.com/2024/11/12/24294492/chrome-app-ios-google-lens-image-text-search)<!-- TECH:END -->
+ - [Microsoft plans to end support for the Windows Mail, Calendar, and People apps on December 31, after moving users to the new Outlook app in recent months &lpar;Tom Warren/The Verge&rpar;](http://www.techmeme.com/241112/p18#a241112p18)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

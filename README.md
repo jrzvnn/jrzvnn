@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Bidenomics ??](http://9gag.com/gag/aMVxEQX)
- - 😝 [Ahhh I remember this money dropping prank](http://9gag.com/gag/a5QWE4g)
- - 💣 [Mom!... why sister eating large candy?....](http://9gag.com/gag/a4P311w)
- - 😝 [After ordering some shrimp, customer returned the plate like this](http://9gag.com/gag/awyByx1)
- - 👉 [Casual encounter with a Cassowary - the most dangerous bird in the world.](http://9gag.com/gag/ae9D9pB)<!-- MEMES:END -->
+ - 😝 [Love this guy &lpar;no homo&rpar;](http://9gag.com/gag/apRGRg5)
+ - 😝 [Guess the country](http://9gag.com/gag/adBVBZZ)
+ - 💣 [Original singer Yoko Takahashi pranks karaoke guest with a classic](http://9gag.com/gag/aMVxVgG)
+ - 😝 [This in 2003](http://9gag.com/gag/aQzdzpr)
+ - 👉 [When the end is near!](http://9gag.com/gag/amovoQo)<!-- MEMES:END -->
 
 ---
 

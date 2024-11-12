@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Turn your smartphone into a playable wind instrument with this USB-C mouthpiece](https://www.theverge.com/2024/11/12/24294604/artinoise-zefiro-intstrument-smartphone-midi-wind-controller-kickstarter)
  - [Here are the best iPad deals right now](https://www.theverge.com/21280354/best-ipad-deals-apple)
  - [Sources: advisors to Donald Trump expect the president-elect to halt a potential US ban of TikTok, which faces a January 19 deadline to divest &lpar;Washington Post&rpar;](http://www.techmeme.com/241112/p20#a241112p20)
  - [Second developer beta of visionOS 2.2 finally arrives](https://appleinsider.com/articles/24/11/12/second-developer-beta-of-visionos-22-finally-arrives?utm_medium=rss)
- - [I Went to Bed With Three Sleep Trackers for a Month. Here&#39;s My Favorite Wearable](https://www.cnet.com/health/sleep/i-went-to-bed-with-three-sleep-trackers-for-a-month/#ftag=CAD590a51e)
- - [Best Live TV Streaming Service for Cord Cutters in 2024](https://www.cnet.com/tech/services-and-software/best-live-tv-streaming-service-for-cord-cutters/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [VMware Workstation and Fusion are now free for everyone](https://www.theverge.com/2024/11/12/24294609/vmware-fusion-workstation-pro-software-free-commercial)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

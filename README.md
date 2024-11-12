@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [When the end is near!](http://9gag.com/gag/amovoQo)
- - 😝 [A simple sorry in a white society](http://9gag.com/gag/aD247GG)
- - 💣 [Choo Choo. I&#39;m a train](http://9gag.com/gag/amovWpy)
- - 😝 [Don&#39;t forget your friends](http://9gag.com/gag/aGydLwG)
- - 👉 [The next U.S. Secretary of State](http://9gag.com/gag/ajP9PrR)<!-- MEMES:END -->
+ - 😝 [Ahhh I remember this money dropping prank](http://9gag.com/gag/a5QWE4g)
+ - 😝 [A proud father](http://9gag.com/gag/abAGgVB)
+ - 💣 [This stone breaking down into smaller pieces.](http://9gag.com/gag/aGydEMz)
+ - 😝 [One puzzle no 90s kid was able to solve](http://9gag.com/gag/amovAdo)
+ - 👉 [My cup of tea shirt](http://9gag.com/gag/a2vW1ow)<!-- MEMES:END -->
 
 ---
 

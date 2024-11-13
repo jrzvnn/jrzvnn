@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Math is hard](http://9gag.com/gag/aqynyXM)
- - 😝 [One puzzle no 90s kid was able to solve](http://9gag.com/gag/amovAdo)
- - 💣 [This accident was real and everybody just ran with it](http://9gag.com/gag/a9ynv1Z)
- - 😝 [Two different Walter white](http://9gag.com/gag/a5QW6xO)
- - 👉 [After ordering some shrimp, customer returned the plate like this](http://9gag.com/gag/awyByx1)<!-- MEMES:END -->
+ - 😝 [Crypto phone for crypto bros](http://9gag.com/gag/agmAOYw)
+ - 😝 [Return to sender](http://9gag.com/gag/aMVxBMP)
+ - 💣 [Thanks God for the gravity](http://9gag.com/gag/apRGDbp)
+ - 😝 [This accident was real and everybody just ran with it](http://9gag.com/gag/a9ynv1Z)
+ - 👉 [Congratulations! You&#39;ve made it halfway through the week. Here, have something to cheer you up.](http://9gag.com/gag/aAye6oE)<!-- MEMES:END -->
 
 ---
 

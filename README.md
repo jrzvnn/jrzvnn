@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [A simple sorry in a white society](http://9gag.com/gag/aD247GG)
+ - 😝 [Hum...](http://9gag.com/gag/aO874Vv)
  - 😝 [Number one was the best](http://9gag.com/gag/adBVBpV)
  - 💣 [All it matters is they had a great time.](http://9gag.com/gag/aZZyZ43)
- - 😝 [It makes sense](http://9gag.com/gag/aBymLRQ)
- - 👉 [Why complicated life](http://9gag.com/gag/a2vWvW1)<!-- MEMES:END -->
+ - 😝 [Why complicated life](http://9gag.com/gag/a2vWvW1)
+ - 👉 [It makes sense](http://9gag.com/gag/aBymLRQ)<!-- MEMES:END -->
 
 ---
 

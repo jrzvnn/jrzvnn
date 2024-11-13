@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [How Roger Ver, known as &quot;Bitcoin Jesus&quot;, is fighting the IRS, which says he owes $48M+ after selling $240M in tokens, from Mallorca after his April 2024 arrest &lpar;Bloomberg&rpar;](http://www.techmeme.com/241113/p20#a241113p20)
+ - [Bone Marrow Donors Can Be Hard to Find. One Company Is Turning to Cadavers](https://www.wired.com/story/stem-cell-donation-deceased-ossium-bone-marrow-cancer-leukemia/)
  - [Bluesky says it has gained 1M+ users in the week since the US election, mostly in the US, the UK, and Canada, and now has 14.7M users in total &lpar;Callie Holtermann/New York Times&rpar;](http://www.techmeme.com/241113/p19#a241113p19)
  - [How Italy became an unexpected spyware hub, going under the radar by specializing in cheaper tools, as authorities carry out thousands of operations since 2021 &lpar;Suzanne Smalley/The Record&rpar;](http://www.techmeme.com/241113/p18#a241113p18)
- - [Best Beer Clubs for 2024](https://www.cnet.com/news/best-beer-subscription-boxes/#ftag=CAD590a51e)
- - [Best Smart Plugs](https://www.cnet.com/home/smart-home/best-smart-plugs/#ftag=CAD590a51e)
- - [Charles Sporck, an early champion of globalization who moved some of Fairchild&#39;s chip assembly operations from the US to Hong Kong in the 1960s, died at 96 &lpar;James R. Hagerty/Wall Street Journal&rpar;](http://www.techmeme.com/241113/p17#a241113p17)<!-- TECH:END -->
+ - [Best Beer Clubs for 2024](https://www.cnet.com/news/best-beer-subscription-boxes/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

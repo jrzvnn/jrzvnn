@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Klarna files for a US IPO; analysts put Klarna&#39;s implied valuation at ~$14.6B in October 2024 after shareholder Chrysalis upped the value of its stake to $154M &lpar;Charles Daly/Bloomberg&rpar;](http://www.techmeme.com/241113/p10#a241113p10)
  - [Just Eat Takeaway announces that it is selling Grubhub to Wonder in a $650M deal expected to close in Q1 2025; Just Eat bought Grubhub for $7.3B in 2020 &lpar;Ivan Mehta/TechCrunch&rpar;](http://www.techmeme.com/241113/p9#a241113p9)
  - [Dyson Promo Code: 20% Off November 2024](https://www.wired.com/story/dyson-cordless-vacuum-promo-code/)
  - [Hoka Coupon Code: Free Shipping in November 2024](https://www.wired.com/story/hoka-coupon-code/)
- - [YouTube is testing a new feature that will let a small group of creators use AI to &quot;restyle&quot; licensed songs for their Shorts through prompts &lpar;Emma Roth/The Verge&rpar;](http://www.techmeme.com/241113/p8#a241113p8)
- - [A look at Qwen2.5-Coder-32B-Instruct, which Alibaba claims can match GPT-4o coding capabilities and is small enough to run on a MacBook Pro M2 with 64GB of RAM &lpar;Simon Willison/Simon Willison&#39;s Weblog&rpar;](http://www.techmeme.com/241113/p7#a241113p7)<!-- TECH:END -->
+ - [YouTube is testing a new feature that will let a small group of creators use AI to &quot;restyle&quot; licensed songs for their Shorts through prompts &lpar;Emma Roth/The Verge&rpar;](http://www.techmeme.com/241113/p8#a241113p8)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Scientists Have Pushed the Schrödinger’s Cat Paradox to New Limits](https://www.wired.com/story/scientists-have-pushed-the-schrodingers-cat-paradox-to-new-limits/)
+ - [17 Walmart Deals That Meet or Beat Black Friday Prices](https://www.wired.com/story/walmart-deals-november-2024/)
  - [Google announces new features for the Fitbit Ace LTE, its smartwatch for kids, including family group chats, messaging for siblings, and a new mini-game &lpar;Lauren Forristal/TechCrunch&rpar;](http://www.techmeme.com/241113/p44#a241113p44)
  - [Pixel phones will be able to detect and report malicious apps in real time](https://www.theverge.com/2024/11/13/24295784/android-google-play-protect-live-threat-detection-malware)
- - [The Wall Street Journal is testing AI article summaries](https://www.theverge.com/2024/11/13/24295838/the-wall-street-journal-ai-article-summaries-key-points)
- - [Sources: OpenAI plans to launch a new AI agent codenamed Operator, which can use a computer to take actions on a person&#39;s behalf, in January &lpar;Bloomberg&rpar;](http://www.techmeme.com/241113/p43#a241113p43)
- - [Best Internet Providers in Franklin, Tennessee](https://www.cnet.com/home/internet/best-internet-providers-in-franklin-tn/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [The Wall Street Journal is testing AI article summaries](https://www.theverge.com/2024/11/13/24295838/the-wall-street-journal-ai-article-summaries-key-points)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

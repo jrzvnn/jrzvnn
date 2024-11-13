@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Vega, which is developing AltOS, a platform to help alternative asset managers further their distributions, raised a $20M Series A led by Apollo and Motive &lpar;Irene Garcia Perez/Bloomberg&rpar;](http://www.techmeme.com/241112/p36#a241112p36)
+ - [How advanced content caching settings on the Mac works](https://appleinsider.com/inside/macos/tips/how-advanced-content-caching-settings-on-the-mac-works?utm_medium=rss)
  - [Modern Times Group agrees to acquire Tel Aviv-based mobile game maker Plarium for $620M and up to $200M more if Plarium hits financial targets over 2025 to 2028 &lpar;Dean Takahashi/VentureBeat&rpar;](http://www.techmeme.com/241112/p35#a241112p35)
- - [PointFive, which helps companies track usage across multiple clouds, raised a $20M Series A led by Salesforce Ventures, after raising a $16M seed in June 2024 &lpar;Ingrid Lunden/TechCrunch&rpar;](http://www.techmeme.com/241112/p34#a241112p34)
- - [SoftBank&#39;s telecom unit plans to build an AI supercomputer in Japan using Nvidia&#39;s DGX B200 platform, and a follow-up effort featuring the Grace Blackwell chip &lpar;Bloomberg&rpar;](http://www.techmeme.com/241112/p33#a241112p33)
- - [Bluetti&#39;s new Elite 200 portable power station provides 17 years of charging](https://appleinsider.com/articles/24/11/13/bluettis-new-elite-200-portable-power-station-provides-17-years-of-charging?utm_medium=rss)
- - [Best Solar Panel Installation Companies in Colorado](https://www.cnet.com/home/energy-and-utilities/colorado-solar-panels/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Today&#39;s NYT Mini Crossword Answers for Wednesday, Nov. 13](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-wednesday-nov-13/#ftag=CAD590a51e)
+ - [Best LED Light Bulb for Every Room in Your House in 2024](https://www.cnet.com/home/kitchen-and-household/best-led-lights/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

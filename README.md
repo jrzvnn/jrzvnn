@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Didn&#39;t know Black Friday came early this year](http://9gag.com/gag/agmA1XK)
- - 😝 [A proud father](http://9gag.com/gag/abAGgVB)
- - 💣 [While you&#39;re having fun and looking for memes, someone else is thinking about how to make it until their first paycheck at their new job.](http://9gag.com/gag/a87G1Dd)
- - 😝 [At least we didn\u2019t leave vehicles behind..](http://9gag.com/gag/a6ZKqzq)
- - 👉 [Reportedly Kamala Harris campaign paid Beyonce 10 million dollars to do a 2 minute speech.](http://9gag.com/gag/aO872o6)<!-- MEMES:END -->
+ - 😝 [Effective fly repellent](http://9gag.com/gag/amovA72)
+ - 😝 [Reportedly Kamala Harris campaign paid Beyonce 10 million dollars to do a 2 minute speech.](http://9gag.com/gag/aO872o6)
+ - 💣 [A proud father](http://9gag.com/gag/abAGgVB)
+ - 😝 [One puzzle no 90s kid was able to solve](http://9gag.com/gag/amovAdo)
+ - 👉 [At least we didn\u2019t leave vehicles behind..](http://9gag.com/gag/a6ZKqzq)<!-- MEMES:END -->
 
 ---
 

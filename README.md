@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Sources: execs at xAI rivals were alarmed by how fast Elon Musk set up the 100K GPU cluster Colossus; a source says Sam Altman argued with Microsoft over it &lpar;Anissa Gardizy/The Information&rpar;](http://www.techmeme.com/241113/p33#a241113p33)
  - [Final Fantasy games are coming to Apple Arcade](https://www.theverge.com/2024/11/13/24295537/final-fantasy-4-apple-arcade)
  - [The tiny tweak that could change YouTube forever](https://www.theverge.com/2024/11/13/24295509/youtube-endless-scroll-tiktok-algorithm)
  - [Google says it will test removing news articles from EU-based publishers from Search for 1% of users in France, Poland, Greece, Belgium, and other EU countries &lpar;Emma Roth/The Verge&rpar;](http://www.techmeme.com/241113/p32#a241113p32)
- - [Google is testing the ‘impact’ of removing EU news from search results](https://www.theverge.com/2024/11/13/24295463/google-eu-test-news-outlets-removing-results)
- - [Best Disc Golf Discs &lpar;2024&rpar;: Disc Sets, Putters, and More](https://www.wired.com/gallery/best-disc-golf-gear/)<!-- TECH:END -->
+ - [Google is testing the ‘impact’ of removing EU news from search results](https://www.theverge.com/2024/11/13/24295463/google-eu-test-news-outlets-removing-results)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

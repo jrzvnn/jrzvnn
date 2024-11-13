@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Two different Walter white](http://9gag.com/gag/a5QW6xO)
- - 😝 [One puzzle no 90s kid was able to solve](http://9gag.com/gag/amovAdo)
- - 💣 [CANADA what is happening to you?!!!](http://9gag.com/gag/aO87ep2)
- - 😝 [This stone breaking down into smaller pieces.](http://9gag.com/gag/aGydEMz)
- - 👉 [At least we didn\u2019t leave vehicles behind..](http://9gag.com/gag/a6ZKqzq)<!-- MEMES:END -->
+ - 😝 [CANADA what is happening to you?!!!](http://9gag.com/gag/aO87ep2)
+ - 😝 [Hidden airplane crew quarters](http://9gag.com/gag/axy9yVn)
+ - 💣 [Crazy enough motivated enough](http://9gag.com/gag/agmAmq6)
+ - 😝 [The way Mattel has been nerfing Hot Wheels](http://9gag.com/gag/aXPgMjz)
+ - 👉 [Casual encounter with a Cassowary - the most dangerous bird in the world.](http://9gag.com/gag/ae9D9pB)<!-- MEMES:END -->
 
 ---
 

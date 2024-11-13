@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Bluesky says it has gained 1M+ users in the week since the US election, mostly in the US, the UK, and Canada, and now has 14.7M users in total &lpar;Callie Holtermann/New York Times&rpar;](http://www.techmeme.com/241113/p19#a241113p19)
  - [How Italy became an unexpected spyware hub, going under the radar by specializing in cheaper tools, as authorities carry out thousands of operations since 2021 &lpar;Suzanne Smalley/The Record&rpar;](http://www.techmeme.com/241113/p18#a241113p18)
  - [Best Beer Clubs for 2024](https://www.cnet.com/news/best-beer-subscription-boxes/#ftag=CAD590a51e)
  - [Best Smart Plugs](https://www.cnet.com/home/smart-home/best-smart-plugs/#ftag=CAD590a51e)
- - [Charles Sporck, an early champion of globalization who moved some of Fairchild&#39;s chip assembly operations from the US to Hong Kong in the 1960s, died at 96 &lpar;James R. Hagerty/Wall Street Journal&rpar;](http://www.techmeme.com/241113/p17#a241113p17)
- - [Best Blenders in 2024 -- Tested by CNET Experts](https://www.cnet.com/home/kitchen-and-household/best-blender/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Charles Sporck, an early champion of globalization who moved some of Fairchild&#39;s chip assembly operations from the US to Hong Kong in the 1960s, died at 96 &lpar;James R. Hagerty/Wall Street Journal&rpar;](http://www.techmeme.com/241113/p17#a241113p17)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

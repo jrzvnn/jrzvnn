@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Google says it will test removing news articles from EU-based publishers from Search for 1% of users in France, Poland, Greece, Belgium, and other EU countries &lpar;Emma Roth/The Verge&rpar;](http://www.techmeme.com/241113/p32#a241113p32)
  - [Google is testing the ‘impact’ of removing EU news from search results](https://www.theverge.com/2024/11/13/24295463/google-eu-test-news-outlets-removing-results)
  - [Best Disc Golf Discs &lpar;2024&rpar;: Disc Sets, Putters, and More](https://www.wired.com/gallery/best-disc-golf-gear/)
  - [Apple &amp; A24 sign Lena Dunham to write movie about FTX crypto implosion](https://appleinsider.com/articles/24/11/13/apple-a24-sign-lena-dunham-to-write-movie-about-ftx-crypto-implosion?utm_medium=rss)
- - [Amazon launches Amazon Haul, a storefront on its app that promises &quot;crazy low prices&quot; on a range of items, to compete with Temu and Shein &lpar;Annie Palmer/CNBC&rpar;](http://www.techmeme.com/241113/p31#a241113p31)
- - [Just Eat is selling Grubhub to Marc Lore’s Wonder for $650M](https://www.theverge.com/2024/11/13/24295454/grubhub-wonder-acquisition-just-eat-food-delivery-app)<!-- TECH:END -->
+ - [Amazon launches Amazon Haul, a storefront on its app that promises &quot;crazy low prices&quot; on a range of items, to compete with Temu and Shein &lpar;Annie Palmer/CNBC&rpar;](http://www.techmeme.com/241113/p31#a241113p31)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

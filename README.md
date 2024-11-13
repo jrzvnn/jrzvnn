@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [An interview with Microsoft Gaming CEO Phil Spencer, who says he won&#39;t rule out any Xbox exclusive coming to PlayStation, discusses potential M&amp;A, and more &lpar;Dina Bass/Bloomberg&rpar;](http://www.techmeme.com/241113/p26#a241113p26)
+ - [The Best Sheets for Every Body, Bed, and Budget &lpar;2024&rpar;](https://www.wired.com/story/best-bedsheets/)
  - [Super Micro delays another filing as it searches for a new accounting firm, saying it can&#39;t file its 10-Q for Q3 2024, after failing to file its annual 10-K &lpar;Lynn Doan/Bloomberg&rpar;](http://www.techmeme.com/241113/p25#a241113p25)
  - [How gambling apps are ravaging Brazil in the wake of legalization; Nubank reassured investors in September 2024 that it had limited exposure to troubled bettors &lpar;Bloomberg&rpar;](http://www.techmeme.com/241113/p24#a241113p24)
- - [The Polestar 3 with rear-wheel drive and 350 miles of range will start at $68,900](https://www.theverge.com/2024/11/13/24295069/polestar-3-rwd-price-range-tax-credit)
- - [Amazon recently told staff with disabilities that it was adding a more rigorous vetting process to approve working from home, as it moves to five days per week &lpar;Spencer Soper/Bloomberg&rpar;](http://www.techmeme.com/241113/p23#a241113p23)
- - [Sources: OpenAI, Google, and Anthropic are all seeing diminishing returns from costly efforts to build new AI models; a new Gemini model misses internal targets &lpar;Bloomberg&rpar;](http://www.techmeme.com/241113/p22#a241113p22)<!-- TECH:END -->
+ - [The Polestar 3 with rear-wheel drive and 350 miles of range will start at $68,900](https://www.theverge.com/2024/11/13/24295069/polestar-3-rwd-price-range-tax-credit)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

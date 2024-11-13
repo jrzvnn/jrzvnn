@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Crypto phone for crypto bros](http://9gag.com/gag/agmAOYw)
- - 😝 [Hum...](http://9gag.com/gag/aO874Vv)
- - 💣 [Why complicated life](http://9gag.com/gag/a2vWvW1)
- - 😝 [From the archives](http://9gag.com/gag/azxm5YB)
- - 👉 [It makes sense](http://9gag.com/gag/aBymLRQ)<!-- MEMES:END -->
+ - 😝 [This accident was real and everybody just ran with it](http://9gag.com/gag/a9ynv1Z)
+ - 😝 [Artificial Intelligence](http://9gag.com/gag/amovopv)
+ - 💣 [Crazy enough motivated enough](http://9gag.com/gag/agmAmq6)
+ - 😝 [After ordering some shrimp, customer returned the plate like this](http://9gag.com/gag/awyByx1)
+ - 👉 [One puzzle no 90s kid was able to solve](http://9gag.com/gag/amovAdo)<!-- MEMES:END -->
 
 ---
 

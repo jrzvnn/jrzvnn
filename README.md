@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [This accident was real and everybody just ran with it](http://9gag.com/gag/a9ynv1Z)
  - 😝 [Crazy enough motivated enough](http://9gag.com/gag/agmAmq6)
- - 😝 [Artificial Intelligence](http://9gag.com/gag/amovopv)
- - 💣 [This accident was real and everybody just ran with it](http://9gag.com/gag/a9ynv1Z)
+ - 💣 [Math is hard](http://9gag.com/gag/aqynyXM)
  - 😝 [CANADA what is happening to you?!!!](http://9gag.com/gag/aO87ep2)
- - 👉 [This stone breaking down into smaller pieces.](http://9gag.com/gag/aGydEMz)<!-- MEMES:END -->
+ - 👉 [Son\u2019s math test](http://9gag.com/gag/aD246Pw)<!-- MEMES:END -->
 
 ---
 

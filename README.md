@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Effective fly repellent](http://9gag.com/gag/amovA72)
- - 😝 [What else did she expect?](http://9gag.com/gag/aD24Dp7)
- - 💣 [My cup of tea shirt](http://9gag.com/gag/a2vW1ow)
+ - 😝 [My cup of tea shirt](http://9gag.com/gag/a2vW1ow)
+ - 😝 [This stone breaking down into smaller pieces.](http://9gag.com/gag/aGydEMz)
+ - 💣 [Reportedly Kamala Harris campaign paid Beyonce 10 million dollars to do a 2 minute speech.](http://9gag.com/gag/aO872o6)
  - 😝 [At least we didn\u2019t leave vehicles behind..](http://9gag.com/gag/a6ZKqzq)
- - 👉 [Reportedly Kamala Harris campaign paid Beyonce 10 million dollars to do a 2 minute speech.](http://9gag.com/gag/aO872o6)<!-- MEMES:END -->
+ - 👉 [Chinese retail chain has swapped traditional mannequins for real women walking on treadmills.](http://9gag.com/gag/aqynyNP)<!-- MEMES:END -->
 
 ---
 

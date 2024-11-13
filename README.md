@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [I&#39;m very scared](http://9gag.com/gag/aQzdE0W)
- - 😝 [CANADA what is happening to you?!!!](http://9gag.com/gag/aO87ep2)
- - 💣 [Two different Walter white](http://9gag.com/gag/a5QW6xO)
- - 😝 [Crazy enough motivated enough](http://9gag.com/gag/agmAmq6)
- - 👉 [Math is hard](http://9gag.com/gag/aqynyXM)<!-- MEMES:END -->
+ - 😝 [All it matters is they had a great time.](http://9gag.com/gag/aZZyZ43)
+ - 😝 [Why complicated life](http://9gag.com/gag/a2vWvW1)
+ - 💣 [Hum...](http://9gag.com/gag/aO874Vv)
+ - 😝 [From the archives](http://9gag.com/gag/azxm5YB)
+ - 👉 [Amen! &lpar;cosplay by Neneko0814&rpar;](http://9gag.com/gag/axy9v1K)<!-- MEMES:END -->
 
 ---
 

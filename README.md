@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [I&#39;m very scared](http://9gag.com/gag/aQzdE0W)
  - 😝 [CANADA what is happening to you?!!!](http://9gag.com/gag/aO87ep2)
- - 😝 [This stone breaking down into smaller pieces.](http://9gag.com/gag/aGydEMz)
- - 💣 [Crazy enough motivated enough](http://9gag.com/gag/agmAmq6)
- - 😝 [Chinese retail chain has swapped traditional mannequins for real women walking on treadmills.](http://9gag.com/gag/aqynyNP)
- - 👉 [After ordering some shrimp, customer returned the plate like this](http://9gag.com/gag/awyByx1)<!-- MEMES:END -->
+ - 💣 [Two different Walter white](http://9gag.com/gag/a5QW6xO)
+ - 😝 [Crazy enough motivated enough](http://9gag.com/gag/agmAmq6)
+ - 👉 [Math is hard](http://9gag.com/gag/aqynyXM)<!-- MEMES:END -->
 
 ---
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Effective fly repellent](http://9gag.com/gag/amovA72)
- - 😝 [This stone breaking down into smaller pieces.](http://9gag.com/gag/aGydEMz)
- - 💣 [After ordering some shrimp, customer returned the plate like this](http://9gag.com/gag/awyByx1)
- - 😝 [Of course there will be no Asian Lives Matter, why? because its breaking left wing narrative and Lawful white people will be blamed for stupidest reason ever just because they pro-safety and factual information](http://9gag.com/gag/ajP9gE0)
- - 👉 [At least we didn\u2019t leave vehicles behind..](http://9gag.com/gag/a6ZKqzq)<!-- MEMES:END -->
+ - 😝 [Someone needs therapy now.](http://9gag.com/gag/a9ynyK1)
+ - 😝 [At least we didn\u2019t leave vehicles behind..](http://9gag.com/gag/a6ZKqzq)
+ - 💣 [Casual encounter with a Cassowary - the most dangerous bird in the world.](http://9gag.com/gag/ae9D9pB)
+ - 😝 [Chinese retail chain has swapped traditional mannequins for real women walking on treadmills.](http://9gag.com/gag/aqynyNP)
+ - 👉 [Reportedly Kamala Harris campaign paid Beyonce 10 million dollars to do a 2 minute speech.](http://9gag.com/gag/aO872o6)<!-- MEMES:END -->
 
 ---
 

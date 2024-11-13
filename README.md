@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Mark Zuckerberg just dropped a single with T-Pain](https://www.theverge.com/2024/11/13/24295841/mark-zuckerberg-t-pain-single-get-low)
+ - [Source: the FBI seized Polymarket CEO Shayne Coplan&#39;s phone and electronics early Wednesday morning &lpar;Taylor Herzlich/New York Post&rpar;](http://www.techmeme.com/241113/p42#a241113p42)
+ - [M4 Mac mini review: The first redesign in years hides incredible computing power](https://appleinsider.com/articles/24/11/13/m4-mac-mini-review-the-first-redesign-in-years-hides-incredible-computing-power?utm_medium=rss)
  - [GOG’s new preservation program intends to  keep classic games playable ‘forever’](https://www.theverge.com/2024/11/13/24295683/gog-preservation-program-pc-game-drm)
- - [AirPods Pro crackling issue target of new class-action lawsuit](https://appleinsider.com/articles/24/11/13/airpods-pro-crackling-issue-target-of-new-class-action-lawsuit?utm_medium=rss)
- - [GM offers free nighttime charging to Chevy EV owners in Texas](https://www.theverge.com/2024/11/13/24295809/gm-chevy-ev-reliant-free-nighttime-charging)
- - [Spotify will start paying creators for popular videos](https://www.theverge.com/2024/11/13/24295686/spotify-video-podcast-creator-payouts-ad-breaks)
- - [AMD says it will lay off ~4% of its global staff to align &quot;resources with our largest growth opportunities&quot;; SEC filing: AMD had 26,000 employees at 2023&#39;s end &lpar;Ramish Zafar/Wccftech&rpar;](http://www.techmeme.com/241113/p41#a241113p41)<!-- TECH:END -->
+ - [AirPods Pro crackling issue target of new class-action lawsuit](https://appleinsider.com/articles/24/11/13/airpods-pro-crackling-issue-target-of-new-class-action-lawsuit?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

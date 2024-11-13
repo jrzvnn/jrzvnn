@@ -166,10 +166,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Someone needs therapy now.](http://9gag.com/gag/a9ynyK1)
- - 😝 [At least we didn\u2019t leave vehicles behind..](http://9gag.com/gag/a6ZKqzq)
+ - 😝 [I&#39;m very scared](http://9gag.com/gag/aQzdE0W)
+ - 😝 [Number one was the best](http://9gag.com/gag/adBVBpV)
  - 💣 [Casual encounter with a Cassowary - the most dangerous bird in the world.](http://9gag.com/gag/ae9D9pB)
- - 😝 [Chinese retail chain has swapped traditional mannequins for real women walking on treadmills.](http://9gag.com/gag/aqynyNP)
+ - 😝 [At least we didn\u2019t leave vehicles behind..](http://9gag.com/gag/a6ZKqzq)
  - 👉 [Reportedly Kamala Harris campaign paid Beyonce 10 million dollars to do a 2 minute speech.](http://9gag.com/gag/aO872o6)<!-- MEMES:END -->
 
 ---

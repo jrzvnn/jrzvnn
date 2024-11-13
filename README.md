@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Bluesky crosses the 15 million user mark](https://www.theverge.com/2024/11/13/24295484/bluesky-15-million-users-social-media-x-musk)
+ - [Researchers Give Animal Cells the Ability to Photosynthesize for the First Time](https://www.wired.com/story/researchers-give-animal-cells-the-ability-to-photosynthesize-for-the-first-time/)
+ - [A US judge rules that Meta must face trial in a US FTC lawsuit seeking its break up over claims that it bought Instagram and WhatsApp to crush competitors &lpar;Jody Godoy/Reuters&rpar;](http://www.techmeme.com/241113/p30#a241113p30)
  - [In a policy blueprint, OpenAI says the US and its neighbors should form a &quot;North American Compact for AI&quot; to compete with China in talent, financing, and more &lpar;Jackie Davalos/Bloomberg&rpar;](http://www.techmeme.com/241113/p29#a241113p29)
- - [6 Best Webcams &lpar;2024&rpar;, Tested and Reviewed](https://www.wired.com/gallery/best-webcams/)
- - [Sources detail Elon Musk&#39;s role in Trump&#39;s transition: Mar-a-Lago meetings, calls with world leaders, voicing support for Brendan Carr at the FCC, and more &lpar;Theodore Schleifer/New York Times&rpar;](http://www.techmeme.com/241113/p28#a241113p28)
- - [PitchBook: tech as a percentage of total private equity deal value was 28.3% in Q3, up from 18.7% in Q2, as VC firms and tech startups turn to PE for liquidity &lpar;Steven Rosenbush/Wall Street Journal&rpar;](http://www.techmeme.com/241113/p27#a241113p27)
- - [SteelSeries Arctis GameBuds Review: Dongle Earbuds](https://www.wired.com/review/steelseries-arctis-gamebuds/)<!-- TECH:END -->
+ - [6 Best Webcams &lpar;2024&rpar;, Tested and Reviewed](https://www.wired.com/gallery/best-webcams/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

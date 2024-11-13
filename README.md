@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [There will never be an Apple Ring, says rival with crossed fingers](https://appleinsider.com/articles/24/11/13/there-will-never-be-an-apple-ring-says-rival-with-crossed-fingers?utm_medium=rss)
- - [How advanced content caching settings on the Mac works](https://appleinsider.com/inside/macos/tips/how-advanced-content-caching-settings-on-the-mac-works?utm_medium=rss)
- - [We Tested the Saatva Classic Mattress &lpar;and Our Marriage&rpar; for a Month](https://www.cnet.com/health/sleep/we-tested-the-saatva-classic-mattress-and-our-marriage-for-a-month/#ftag=CAD590a51e)
- - [Tempur-Pedic Luxe Breeze Review 2024: Maximum Cooling at a Premium Price](https://www.cnet.com/health/sleep/tempur-pedic-luxe-breeze-review/#ftag=CAD590a51e)
- - [How Roger Ver, known as &quot;Bitcoin Jesus&quot;, is fighting the IRS, which says he owes $48M+ after selling $240M in tokens, from Mallorca after his April 2024 arrest &lpar;Bloomberg&rpar;](http://www.techmeme.com/241113/p20#a241113p20)<!-- TECH:END -->
+ - [Amazon recently told staff with disabilities that it was adding a more rigorous vetting process to approve working from home, as it moves to five days per week &lpar;Spencer Soper/Bloomberg&rpar;](http://www.techmeme.com/241113/p23#a241113p23)
+ - [Sources: OpenAI, Google, and Anthropic are all seeing diminishing returns from costly efforts to build new AI models; a new Gemini model misses internal targets &lpar;Bloomberg&rpar;](http://www.techmeme.com/241113/p22#a241113p22)
+ - [Sources: top crypto executives are courting Bitcoin enthusiast and Trump transition co-chair Howard Lutnick; the industry is seeking to reshape the SEC and more &lpar;New York Times&rpar;](http://www.techmeme.com/241113/p21#a241113p21)
+ - [ICE Started Ramping Up Its Surveillance Arsenal Immediately After Donald Trump Won](https://www.wired.com/story/ice-surveillance-contracts-isap/)
+ - [There will never be an Apple Ring, says rival with crossed fingers](https://appleinsider.com/articles/24/11/13/there-will-never-be-an-apple-ring-says-rival-with-crossed-fingers?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

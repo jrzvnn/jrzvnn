@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Effective fly repellent](http://9gag.com/gag/amovA72)
- - 😝 [My cup of tea shirt](http://9gag.com/gag/a2vW1ow)
- - 💣 [After ordering some shrimp, customer returned the plate like this](http://9gag.com/gag/awyByx1)
- - 😝 [Lightning strikes the water surface with Scuba divers under it](http://9gag.com/gag/aD24YDO)
- - 👉 [A proud father](http://9gag.com/gag/abAGgVB)<!-- MEMES:END -->
+ - 😝 [Don&#39;t forget your friends](http://9gag.com/gag/aGydLwG)
+ - 😝 [When the end is near!](http://9gag.com/gag/amovoQo)
+ - 💣 [This in 2003](http://9gag.com/gag/aQzdzpr)
+ - 😝 [A simple sorry in a white society](http://9gag.com/gag/aD247GG)
+ - 👉 [The next U.S. Secretary of State](http://9gag.com/gag/ajP9PrR)<!-- MEMES:END -->
 
 ---
 

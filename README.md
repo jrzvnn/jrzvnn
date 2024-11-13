@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Can the US triple its nuclear energy capacity?](https://www.theverge.com/2024/11/13/24295502/nuclear-energy-plan-triple-biden-trump)
  - [Docs and sources: Amazon has discontinued a secretive effort to develop an at-home fertility tracker, which was part of its moonshot incubator Grand Challenge &lpar;Annie Palmer/CNBC&rpar;](http://www.techmeme.com/241113/p39#a241113p39)
- - [AMD says it will lay off approximately 4% of its global staff; the company had 26,000 employees at the end of last year, according to an SEC filing &lpar;Kif Leswing/CNBC&rpar;](http://www.techmeme.com/241113/p38#a241113p38)
+ - [AMD says it will lay off ~4% of its global staff to align &quot;resources with our largest growth opportunities&quot;; SEC filing: AMD had 26,000 employees at 2023&#39;s end &lpar;Kif Leswing/CNBC&rpar;](http://www.techmeme.com/241113/p38#a241113p38)
  - [Meta must face FTC trial that could separate Instagram and WhatsApp](https://www.theverge.com/2024/11/13/24295637/meta-must-face-ftc-antitrust-trial-instagram-whatsapp)
- - [I Saved $1,260 Buying Tech Dupes on Temu. The Shoddy Gear Wasn&#39;t Worth the Discount](https://www.cnet.com/tech/features/i-saved-1260-buying-tech-dupes-on-temu-the-shoddy-gear-wasnt-worth-the-discount/#ftag=CAD590a51e)
- - [Amazon Haul, With Prices Under $20, Launches to Grab Budget Shoppers](https://www.cnet.com/tech/services-and-software/amazon-haul-with-prices-under-20-launches-to-grab-budget-shoppers/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [I Saved $1,260 Buying Tech Dupes on Temu. The Shoddy Gear Wasn&#39;t Worth the Discount](https://www.cnet.com/tech/features/i-saved-1260-buying-tech-dupes-on-temu-the-shoddy-gear-wasnt-worth-the-discount/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

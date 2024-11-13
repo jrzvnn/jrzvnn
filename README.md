@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [The way Mattel has been nerfing Hot Wheels](http://9gag.com/gag/aXPgMjz)
- - 😝 [This stone breaking down into smaller pieces.](http://9gag.com/gag/aGydEMz)
- - 💣 [Math is hard](http://9gag.com/gag/aqynyXM)
- - 😝 [Artificial Intelligence](http://9gag.com/gag/amovopv)
- - 👉 [After ordering some shrimp, customer returned the plate like this](http://9gag.com/gag/awyByx1)<!-- MEMES:END -->
+ - 😝 [It makes sense](http://9gag.com/gag/aBymLRQ)
+ - 😝 [Return to sender](http://9gag.com/gag/aMVxBMP)
+ - 💣 [This accident was real and everybody just ran with it](http://9gag.com/gag/a9ynv1Z)
+ - 😝 [Amen! &lpar;cosplay by Neneko0814&rpar;](http://9gag.com/gag/axy9v1K)
+ - 👉 [Thanks God for the gravity](http://9gag.com/gag/apRGDbp)<!-- MEMES:END -->
 
 ---
 

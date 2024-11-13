@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [GM offers free nighttime charging to Chevy EV owners in Texas](https://www.theverge.com/2024/11/13/24295809/gm-chevy-ev-reliant-free-nighttime-charging)
+ - [Spotify will start paying creators for popular videos](https://www.theverge.com/2024/11/13/24295686/spotify-video-podcast-creator-payouts-ad-breaks)
+ - [AMD says it will lay off ~4% of its global staff to align &quot;resources with our largest growth opportunities&quot;; SEC filing: AMD had 26,000 employees at 2023&#39;s end &lpar;Ramish Zafar/Wccftech&rpar;](http://www.techmeme.com/241113/p41#a241113p41)
  - [If You&#39;re Thinking About Deleting X/Twitter, Here&#39;s How To Do It](https://www.cnet.com/tech/if-youre-thinking-about-deleting-xtwitter-heres-how-to-do-it/#ftag=CAD590a51e)
- - [Save 44% on the Yeedi M12 Robot Vacuum and Mop With This Early Black Friday Deal at Amazon](https://www.cnet.com/deals/save-44-on-the-yeedi-m12-robot-vacuum-and-mop-with-this-early-black-friday-deal-at-amazon/#ftag=CAD590a51e)
- - [Add Some Color to Your House With These Refurbished Philips Hue Smart Lights](https://www.cnet.com/deals/add-some-color-to-your-house-with-these-refurbished-philips-hue-smart-lights/#ftag=CAD590a51e)
- - [Warcraft I and II get a new remaster that’s available now](https://www.theverge.com/2024/11/13/24295730/warcraft-remastered-battle-chest-1-2-3-reforged-upgrades-windows-mac-blizzard-battle-net)
- - [Zero Gravity Labs, which is building a decentralized AI operating system, raised a $40M seed round and says it secured a $250M &quot;token purchase commitment&quot; &lpar;Jamie Crawley/CoinDesk&rpar;](http://www.techmeme.com/241113/p40#a241113p40)<!-- TECH:END -->
+ - [Save 44% on the Yeedi M12 Robot Vacuum and Mop With This Early Black Friday Deal at Amazon](https://www.cnet.com/deals/save-44-on-the-yeedi-m12-robot-vacuum-and-mop-with-this-early-black-friday-deal-at-amazon/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

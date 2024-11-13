@@ -167,9 +167,9 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [What\u00b4s up with that, ladies...](http://9gag.com/gag/avyzQvM)
- - 😝 [Chinese retail chain has swapped traditional mannequins for real women walking on treadmills.](http://9gag.com/gag/aqynyNP)
- - 💣 [Lightning strikes the water surface with Scuba divers under it](http://9gag.com/gag/aD24YDO)
- - 😝 [Hidden airplane crew quarters](http://9gag.com/gag/axy9yVn)
+ - 😝 [A proud father](http://9gag.com/gag/abAGgVB)
+ - 💣 [Hidden airplane crew quarters](http://9gag.com/gag/axy9yVn)
+ - 😝 [Lightning strikes the water surface with Scuba divers under it](http://9gag.com/gag/aD24YDO)
  - 👉 [At least we didn\u2019t leave vehicles behind..](http://9gag.com/gag/a6ZKqzq)<!-- MEMES:END -->
 
 ---

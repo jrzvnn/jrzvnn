@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Donald Trump&#39;s New &#39;Border Czar&#39; Defended Child Separation at Festival Held by Gun-Worshipping Sect](https://www.wired.com/story/tom-homan-trump-border-czar-child-separation-policies/)
  - [The Lightfoot electric scooter is wrapped in solar panels to address range anxiety](https://www.theverge.com/2024/11/13/24295580/otherlab-lightfoot-electric-scooter-cargo-solar-power)
  - [Sources: Meta plans to launch ads on Threads in early 2025; Meta&#39;s public statements imply any ad rollout for Threads next year will be slow &lpar;The Information&rpar;](http://www.techmeme.com/241113/p37#a241113p37)
  - [CoreWeave closed a $650M secondary share sale led by Jane Street, Magnetar, Fidelity Management, and Macquarie Capital, a source says at a $23B valuation &lpar;Krystal Hu/Reuters&rpar;](http://www.techmeme.com/241113/p36#a241113p36)
- - [Amazon’s new $20 and under store is here to challenge Shein and Temu](https://www.theverge.com/2024/11/13/24295655/amazon-haul-challenges-shein-and-temu-bargain-webstore)
- - [The First Entirely AI-Generated Video Game Is Insanely Weird and Fun](https://www.wired.com/story/first-entirely-ai-generated-video-game-weird-and-fun/)<!-- TECH:END -->
+ - [Amazon’s new $20 and under store is here to challenge Shein and Temu](https://www.theverge.com/2024/11/13/24295655/amazon-haul-challenges-shein-and-temu-bargain-webstore)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

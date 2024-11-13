@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Choo Choo. I&#39;m a train](http://9gag.com/gag/amovWpy)
- - 😝 [When the end is near!](http://9gag.com/gag/amovoQo)
- - 💣 [Don&#39;t forget your friends](http://9gag.com/gag/aGydLwG)
- - 😝 [A simple sorry in a white society](http://9gag.com/gag/aD247GG)
- - 👉 [This in 2003](http://9gag.com/gag/aQzdzpr)<!-- MEMES:END -->
+ - 😝 [Mom!... why sister eating large candy?....](http://9gag.com/gag/a4P311w)
+ - 😝 [Lightning strikes the water surface with Scuba divers under it](http://9gag.com/gag/aD24YDO)
+ - 💣 [At least we didn\u2019t leave vehicles behind..](http://9gag.com/gag/a6ZKqzq)
+ - 😝 [A proud father](http://9gag.com/gag/abAGgVB)
+ - 👉 [Didn&#39;t know Black Friday came early this year](http://9gag.com/gag/agmA1XK)<!-- MEMES:END -->
 
 ---
 

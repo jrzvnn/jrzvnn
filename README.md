@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Rivian and VW finalize a software development joint venture; VW has invested $1B of its planned up to $5.8B by 2027 in the JV designed to be a 50-50 partnership &lpar;TechCrunch&rpar;](http://www.techmeme.com/241113/p4#a241113p4)
+ - [Prosus says it has made $2B+ on its Swiggy investment and will retain a 25% stake after Swiggy&#39;s IPO, which valued the food and grocery delivery firm at ~$11.3B &lpar;Loni Prinsloo/Bloomberg&rpar;](http://www.techmeme.com/241113/p3#a241113p3)
+ - [Shares of Swiggy opened up ~8% on their trading debut after the company raised $1.34B in its IPO, which became the second largest IPO in India this year &lpar;Lim Hui Jie/CNBC&rpar;](http://www.techmeme.com/241113/p2#a241113p2)
  - [Perplexity says it will begin experimenting with ads on its platform in the US starting this week; ads will be formatted as &quot;sponsored follow-up questions&quot; &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/241113/p1#a241113p1)
- - [Vega, which is developing AltOS, a platform to help alternative asset managers further their distributions, raised a $20M Series A led by Apollo and Motive &lpar;Irene Garcia Perez/Bloomberg&rpar;](http://www.techmeme.com/241112/p36#a241112p36)
- - [How advanced content caching settings on the Mac works](https://appleinsider.com/inside/macos/tips/how-advanced-content-caching-settings-on-the-mac-works?utm_medium=rss)
- - [Monster Hunter Outlanders Brings Big Beast Hunting to Mobile Gaming](https://www.cnet.com/tech/gaming/monster-hunter-outlanders-brings-big-creature-hunts-to-mobile/#ftag=CAD590a51e)
- - [Today&#39;s NYT Connections: Sports Edition Hints and Answers for Nov. 13, #51](https://www.cnet.com/tech/gaming/todays-nyt-connections-sports-edition-hints-and-answers-for-nov-13-51/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Vega, which is developing AltOS, a platform to help alternative asset managers further their distributions, raised a $20M Series A led by Apollo and Motive &lpar;Irene Garcia Perez/Bloomberg&rpar;](http://www.techmeme.com/241112/p36#a241112p36)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

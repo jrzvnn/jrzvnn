@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [FBI and CISA: Chinese hackers breached multiple US telecom companies, compromising the &quot;private communications&quot; of US officials and stealing customer call data &lpar;Sergiu Gatlan/BleepingComputer&rpar;](http://www.techmeme.com/241113/p48#a241113p48)
  - [Spotify plans to pay incentives to video creators who hit certain viewing thresholds and, in January, to let Premium subscribers view podcast videos without ads &lpar;Anne Steele/Wall Street Journal&rpar;](http://www.techmeme.com/241113/p47#a241113p47)
  - [Apple updates Logic Pro with new sounds and search features](https://www.theverge.com/2024/11/13/24295719/apple-logic-pro-update-quantec-room-simulator)
  - [Apple launches Final Cut Pro 11 with even more AI features](https://www.theverge.com/2024/11/13/24295486/final-cut-pro-11-apple-announced-ai-new-features)
- - [DeepL, which was valued at $2B in May 2024, debuts DeepL Voice to give users real-time text translations of others speaking in one of 13 different languages &lpar;Ingrid Lunden/TechCrunch&rpar;](http://www.techmeme.com/241113/p46#a241113p46)
- - [How to Get Double XP Tokens in Black Ops 6 and Warzone](https://www.cnet.com/tech/gaming/how-to-get-double-xp-tokens-in-black-ops-6/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [DeepL, which was valued at $2B in May 2024, debuts DeepL Voice to give users real-time text translations of others speaking in one of 13 different languages &lpar;Ingrid Lunden/TechCrunch&rpar;](http://www.techmeme.com/241113/p46#a241113p46)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

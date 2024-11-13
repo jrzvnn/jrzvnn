@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [All it matters is they had a great time.](http://9gag.com/gag/aZZyZ43)
- - 😝 [Why complicated life](http://9gag.com/gag/a2vWvW1)
- - 💣 [Hum...](http://9gag.com/gag/aO874Vv)
- - 😝 [From the archives](http://9gag.com/gag/azxm5YB)
- - 👉 [Amen! &lpar;cosplay by Neneko0814&rpar;](http://9gag.com/gag/axy9v1K)<!-- MEMES:END -->
+ - 😝 [This stone breaking down into smaller pieces.](http://9gag.com/gag/aGydEMz)
+ - 😝 [Hidden airplane crew quarters](http://9gag.com/gag/axy9yVn)
+ - 💣 [Reportedly Kamala Harris campaign paid Beyonce 10 million dollars to do a 2 minute speech.](http://9gag.com/gag/aO872o6)
+ - 😝 [Math is hard](http://9gag.com/gag/aqynyXM)
+ - 👉 [After ordering some shrimp, customer returned the plate like this](http://9gag.com/gag/awyByx1)<!-- MEMES:END -->
 
 ---
 

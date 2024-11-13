@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Workers at Bethesda parent company strike over remote work policies](https://www.theverge.com/2024/11/13/24295556/video-game-developer-strike-zenimax-microsoft)
+ - [iPad is still Apple&#39;s second biggest device despite long term decline](https://appleinsider.com/articles/24/11/13/ipad-is-still-apples-second-biggest-device-despite-long-term-decline?utm_medium=rss)
  - [The best entertainment of 2024](https://www.theverge.com/entertainment/24090208/best-entertainment-2024-games-film-tv-streaming)
  - [These are the passwords you definitely shouldn’t be using](https://www.theverge.com/2024/11/13/24295543/most-common-passwords-list-2024)
- - [The rarely discounted PlayStation Pulse Elite headset hits a record low price](https://www.theverge.com/2024/11/13/24295476/sony-playstation-pulse-elite-ps5-gaming-headset-deal-sale)
- - [South Korea arrests 215 people on suspicion of stealing $228M in crypto, the country&#39;s biggest crypto investment scam with 28 types of tokens sold to 15K people &lpar;Cynthia Kim/Reuters&rpar;](http://www.techmeme.com/241113/p35#a241113p35)
- - [20 Best Early Black Friday Deals of 2024 to Shop Right Now](https://www.wired.com/story/early-black-friday-deals-2024/)<!-- TECH:END -->
+ - [The rarely discounted PlayStation Pulse Elite headset hits a record low price](https://www.theverge.com/2024/11/13/24295476/sony-playstation-pulse-elite-ps5-gaming-headset-deal-sale)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

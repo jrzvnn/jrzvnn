@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [FrontierMath, a new benchmark for evaluating AI model&#39;s advanced mathematical reasoning, shows current AI systems solve less than 2% of its challenging problems &lpar;Michael Nu&amp;ntilde;ez/VentureBeat&rpar;](http://www.techmeme.com/241112/p32#a241112p32)
- - [Amazon is shutting down Freevee](https://www.theverge.com/2024/11/12/24295129/amazon-shutting-down-freevee-prime-video)
- - [Donald Trump says Elon Musk and Vivek Ramaswamy will lead the Department of Government Efficiency, to provide &quot;advice and guidance from outside of Government&quot; &lpar;Eric Beech/Reuters&rpar;](http://www.techmeme.com/241112/p31#a241112p31)
- - [Air National guardsman Jack Teixeira is sentenced to 15 years for stealing classified information from the Pentagon and sharing it on Discord in 2022 and 2023 &lpar;NBC News&rpar;](http://www.techmeme.com/241112/p30#a241112p30)
- - [The Verge’s guide to Black Friday 2024](https://www.theverge.com/24288220/black-friday-best-deals-guide-cyber-monday-tech-gadgets-2024)<!-- TECH:END -->
+ - [Monster Hunter is getting an open-world RPG spinoff for mobile](https://www.theverge.com/2024/11/12/24294524/monster-hunter-outlanders-mobile-game)
+ - [Donald Trump Taps Elon Musk, Vivek Ramaswamy to Lead Nonexistent Department of Government Efficiency](https://www.wired.com/story/donald-trump-elon-musk-department-of-government-efficiency/)
+ - [Trump says Elon Musk will lead ‘DOGE’ office to cut ‘wasteful’ government spending](https://www.theverge.com/2024/11/12/24295165/trump-elon-musk-doge-cut-government-spending)
+ - [Earth Has Another Moon and It&#39;s Staying Until Thanksgiving](https://www.cnet.com/science/earths-surprise-second-moon-whats-happening/#ftag=CAD590a51e)
+ - [FrontierMath, a new benchmark for evaluating AI model&#39;s advanced mathematical reasoning, shows current AI systems solve less than 2% of its challenging problems &lpar;Michael Nu&amp;ntilde;ez/VentureBeat&rpar;](http://www.techmeme.com/241112/p32#a241112p32)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

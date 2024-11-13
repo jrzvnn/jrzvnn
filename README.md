@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [SoftBank&#39;s telecom unit plans to build an AI supercomputer in Japan using Nvidia&#39;s DGX B200 platform, and a follow-up effort featuring the Grace Blackwell chip &lpar;Bloomberg&rpar;](http://www.techmeme.com/241112/p33#a241112p33)
+ - [Bluetti&#39;s new Elite 200 portable power station provides 17 years of charging](https://appleinsider.com/articles/24/11/13/bluettis-new-elite-200-portable-power-station-provides-17-years-of-charging?utm_medium=rss)
+ - [Best Solar Panel Installation Companies in Colorado](https://www.cnet.com/home/energy-and-utilities/colorado-solar-panels/#ftag=CAD590a51e)
  - [Monster Hunter is getting an open-world RPG spinoff for mobile](https://www.theverge.com/2024/11/12/24294524/monster-hunter-outlanders-mobile-game)
- - [Donald Trump Taps Elon Musk, Vivek Ramaswamy to Lead Nonexistent Department of Government Efficiency](https://www.wired.com/story/donald-trump-elon-musk-department-of-government-efficiency/)
- - [Trump says Elon Musk will lead ‘DOGE’ office to cut ‘wasteful’ government spending](https://www.theverge.com/2024/11/12/24295165/trump-elon-musk-doge-cut-government-spending)
- - [Earth Has Another Moon and It&#39;s Staying Until Thanksgiving](https://www.cnet.com/science/earths-surprise-second-moon-whats-happening/#ftag=CAD590a51e)
- - [FrontierMath, a new benchmark for evaluating AI model&#39;s advanced mathematical reasoning, shows current AI systems solve less than 2% of its challenging problems &lpar;Michael Nu&amp;ntilde;ez/VentureBeat&rpar;](http://www.techmeme.com/241112/p32#a241112p32)<!-- TECH:END -->
+ - [Best AirPods Max Accessories for 2024](https://www.cnet.com/tech/mobile/best-airpods-max-accessories/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

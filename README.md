@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Hum...](http://9gag.com/gag/aO874Vv)
- - 😝 [Number one was the best](http://9gag.com/gag/adBVBpV)
- - 💣 [All it matters is they had a great time.](http://9gag.com/gag/aZZyZ43)
- - 😝 [Why complicated life](http://9gag.com/gag/a2vWvW1)
- - 👉 [It makes sense](http://9gag.com/gag/aBymLRQ)<!-- MEMES:END -->
+ - 😝 [CANADA what is happening to you?!!!](http://9gag.com/gag/aO87ep2)
+ - 😝 [This stone breaking down into smaller pieces.](http://9gag.com/gag/aGydEMz)
+ - 💣 [Crazy enough motivated enough](http://9gag.com/gag/agmAmq6)
+ - 😝 [Chinese retail chain has swapped traditional mannequins for real women walking on treadmills.](http://9gag.com/gag/aqynyNP)
+ - 👉 [After ordering some shrimp, customer returned the plate like this](http://9gag.com/gag/awyByx1)<!-- MEMES:END -->
 
 ---
 

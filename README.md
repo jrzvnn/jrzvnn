@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [The next U.S. Secretary of State](http://9gag.com/gag/ajP9PrR)
- - 😝 [A simple sorry in a white society](http://9gag.com/gag/aD247GG)
- - 💣 [Number one was the best](http://9gag.com/gag/adBVBpV)
- - 😝 [All it matters is they had a great time.](http://9gag.com/gag/aZZyZ43)
- - 👉 [Congratulations! You&#39;ve made it halfway through the week. Here, have something to cheer you up.](http://9gag.com/gag/aAye6oE)<!-- MEMES:END -->
+ - 😝 [Math is hard](http://9gag.com/gag/aqynyXM)
+ - 😝 [Crazy enough motivated enough](http://9gag.com/gag/agmAmq6)
+ - 💣 [Chinese retail chain has swapped traditional mannequins for real women walking on treadmills.](http://9gag.com/gag/aqynyNP)
+ - 😝 [This stone breaking down into smaller pieces.](http://9gag.com/gag/aGydEMz)
+ - 👉 [CANADA what is happening to you?!!!](http://9gag.com/gag/aO87ep2)<!-- MEMES:END -->
 
 ---
 

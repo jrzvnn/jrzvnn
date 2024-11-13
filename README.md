@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Crypto phone for crypto bros](http://9gag.com/gag/agmAOYw)
- - 😝 [Return to sender](http://9gag.com/gag/aMVxBMP)
- - 💣 [Thanks God for the gravity](http://9gag.com/gag/apRGDbp)
+ - 😝 [The way Mattel has been nerfing Hot Wheels](http://9gag.com/gag/aXPgMjz)
  - 😝 [This accident was real and everybody just ran with it](http://9gag.com/gag/a9ynv1Z)
- - 👉 [Congratulations! You&#39;ve made it halfway through the week. Here, have something to cheer you up.](http://9gag.com/gag/aAye6oE)<!-- MEMES:END -->
+ - 💣 [Math is hard](http://9gag.com/gag/aqynyXM)
+ - 😝 [Two different Walter white](http://9gag.com/gag/a5QW6xO)
+ - 👉 [Artificial Intelligence](http://9gag.com/gag/amovopv)<!-- MEMES:END -->
 
 ---
 

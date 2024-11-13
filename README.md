@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [PitchBook: Q3 2024 crypto VC funding fell 31.3% YoY to $1.7B and VC deals fell 25.3% YoY to 392, as infrastructure startups continued to draw investors&#39; focus &lpar;Muyao Shen/Bloomberg&rpar;](http://www.techmeme.com/241113/p15#a241113p15)
  - [Aicpb.com: ByteDance&#39;s Doubao had 51M MAUs in China, the highest for AI chatbots in China, ahead of 12.5M for Baidu&#39;s Wenxiaoyan and 10M for Moonshot AI&#39;s Kimi &lpar;Ben Jiang/South China Morning Post&rpar;](http://www.techmeme.com/241113/p14#a241113p14)
  - [CBRE: tech companies leased 9.9M square feet of US office space in Q3, up from ~8M in Q2 and the highest since Q4 2021, as demand grows from new AI companies &lpar;Peter Grant/Wall Street Journal&rpar;](http://www.techmeme.com/241113/p13#a241113p13)
  - [Google DeepMind releases AlphaFold 3&#39;s source code and model weights for academic use, which could accelerate scientific discovery and drug development &lpar;Michael Nu&amp;ntilde;ez/VentureBeat&rpar;](http://www.techmeme.com/241113/p12#a241113p12)
- - [Media executives say that some brands were preparing to advertise on X once again, as Elon Musk was likely to gain an influential Trump administration role &lpar;Financial Times&rpar;](http://www.techmeme.com/241113/p11#a241113p11)
- - [Klarna files for a US IPO; analysts put Klarna&#39;s implied valuation at ~$14.6B in October 2024 after shareholder Chrysalis upped the value of its stake to $154M &lpar;Charles Daly/Bloomberg&rpar;](http://www.techmeme.com/241113/p10#a241113p10)<!-- TECH:END -->
+ - [Media executives say that some brands were preparing to advertise on X once again, as Elon Musk was likely to gain an influential Trump administration role &lpar;Financial Times&rpar;](http://www.techmeme.com/241113/p11#a241113p11)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [This accident was real and everybody just ran with it](http://9gag.com/gag/a9ynv1Z)
+ - 😝 [Crazy enough motivated enough](http://9gag.com/gag/agmAmq6)
  - 😝 [Artificial Intelligence](http://9gag.com/gag/amovopv)
- - 💣 [Crazy enough motivated enough](http://9gag.com/gag/agmAmq6)
- - 😝 [After ordering some shrimp, customer returned the plate like this](http://9gag.com/gag/awyByx1)
- - 👉 [One puzzle no 90s kid was able to solve](http://9gag.com/gag/amovAdo)<!-- MEMES:END -->
+ - 💣 [This accident was real and everybody just ran with it](http://9gag.com/gag/a9ynv1Z)
+ - 😝 [CANADA what is happening to you?!!!](http://9gag.com/gag/aO87ep2)
+ - 👉 [This stone breaking down into smaller pieces.](http://9gag.com/gag/aGydEMz)<!-- MEMES:END -->
 
 ---
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Super Micro delays another filing as it searches for a new accounting firm, saying it can&#39;t file its 10-Q for Q3 2024, after failing to file its annual 10-K &lpar;Lynn Doan/Bloomberg&rpar;](http://www.techmeme.com/241113/p25#a241113p25)
+ - [How gambling apps are ravaging Brazil in the wake of legalization; Nubank reassured investors in September 2024 that it had limited exposure to troubled bettors &lpar;Bloomberg&rpar;](http://www.techmeme.com/241113/p24#a241113p24)
  - [The Polestar 3 with rear-wheel drive and 350 miles of range will start at $68,900](https://www.theverge.com/2024/11/13/24295069/polestar-3-rwd-price-range-tax-credit)
  - [Amazon recently told staff with disabilities that it was adding a more rigorous vetting process to approve working from home, as it moves to five days per week &lpar;Spencer Soper/Bloomberg&rpar;](http://www.techmeme.com/241113/p23#a241113p23)
- - [Sources: OpenAI, Google, and Anthropic are all seeing diminishing returns from costly efforts to build new AI models; a new Gemini model misses internal targets &lpar;Bloomberg&rpar;](http://www.techmeme.com/241113/p22#a241113p22)
- - [How to Deal With Flu Season&#39;s Surprising Companion: Pink Eye](https://www.cnet.com/health/medical/how-to-deal-with-flu-season-pink-eye/#ftag=CAD590a51e)
- - [7 Tips for Saving Money on Concert Tickets](https://www.cnet.com/culture/entertainment/7-tips-for-saving-money-on-concert-tickets/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Sources: OpenAI, Google, and Anthropic are all seeing diminishing returns from costly efforts to build new AI models; a new Gemini model misses internal targets &lpar;Bloomberg&rpar;](http://www.techmeme.com/241113/p22#a241113p22)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

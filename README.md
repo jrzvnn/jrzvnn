@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Spotify plans to pay incentives to video creators who hit certain viewing thresholds and, in January, to let Premium subscribers view podcast videos without ads &lpar;Anne Steele/Wall Street Journal&rpar;](http://www.techmeme.com/241113/p47#a241113p47)
+ - [Apple updates Logic Pro with new sounds and search features](https://www.theverge.com/2024/11/13/24295719/apple-logic-pro-update-quantec-room-simulator)
+ - [Apple launches Final Cut Pro 11 with even more AI features](https://www.theverge.com/2024/11/13/24295486/final-cut-pro-11-apple-announced-ai-new-features)
  - [DeepL, which was valued at $2B in May 2024, debuts DeepL Voice to give users real-time text translations of others speaking in one of 13 different languages &lpar;Ingrid Lunden/TechCrunch&rpar;](http://www.techmeme.com/241113/p46#a241113p46)
- - [The US Election Is Tearing BookTok Apart](https://www.wired.com/story/booktok-is-currently-embroiled-in-a-battle-over-the-us-election/)
- - [OpenAI reportedly plans to launch an AI agent early next year](https://www.theverge.com/2024/11/13/24295879/openai-agent-operator-autonomous-ai)
- - [Cisco reports Q1 revenue down 6% YoY to $13.8B, vs. $13.77B estimated, net income down 25% to $2.7B, and forecasts Q2 revenue above estimates &lpar;Ian King/Bloomberg&rpar;](http://www.techmeme.com/241113/p45#a241113p45)
- - [Sonos revenue falls in the aftermath of company’s messy app debacle](https://www.theverge.com/2024/11/13/24295716/sonos-q4-2024-earnings-app-arc-ultra)<!-- TECH:END -->
+ - [How to Get Double XP Tokens in Black Ops 6 and Warzone](https://www.cnet.com/tech/gaming/how-to-get-double-xp-tokens-in-black-ops-6/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

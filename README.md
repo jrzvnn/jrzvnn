@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Amazon’s new $20 and under store is here to challenge Shein and Temu](https://www.theverge.com/2024/11/13/24295655/amazon-haul-challenges-shein-and-temu-bargain-webstore)
+ - [The First Entirely AI-Generated Video Game Is Insanely Weird and Fun](https://www.wired.com/story/first-entirely-ai-generated-video-game-weird-and-fun/)
  - [Workers at Bethesda parent company strike over remote work policies](https://www.theverge.com/2024/11/13/24295556/video-game-developer-strike-zenimax-microsoft)
  - [iPad is still Apple&#39;s second biggest device despite long term decline](https://appleinsider.com/articles/24/11/13/ipad-is-still-apples-second-biggest-device-despite-long-term-decline?utm_medium=rss)
- - [The best entertainment of 2024](https://www.theverge.com/entertainment/24090208/best-entertainment-2024-games-film-tv-streaming)
- - [These are the passwords you definitely shouldn’t be using](https://www.theverge.com/2024/11/13/24295543/most-common-passwords-list-2024)
- - [The rarely discounted PlayStation Pulse Elite headset hits a record low price](https://www.theverge.com/2024/11/13/24295476/sony-playstation-pulse-elite-ps5-gaming-headset-deal-sale)<!-- TECH:END -->
+ - [The best entertainment of 2024](https://www.theverge.com/entertainment/24090208/best-entertainment-2024-games-film-tv-streaming)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

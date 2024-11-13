@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Perplexity says it will begin experimenting with ads on its platform in the US starting this week; ads will be formatted as &quot;sponsored follow-up questions&quot; &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/241113/p1#a241113p1)
  - [Vega, which is developing AltOS, a platform to help alternative asset managers further their distributions, raised a $20M Series A led by Apollo and Motive &lpar;Irene Garcia Perez/Bloomberg&rpar;](http://www.techmeme.com/241112/p36#a241112p36)
  - [How advanced content caching settings on the Mac works](https://appleinsider.com/inside/macos/tips/how-advanced-content-caching-settings-on-the-mac-works?utm_medium=rss)
- - [Modern Times Group agrees to acquire Tel Aviv-based mobile game maker Plarium for $620M and up to $200M more if Plarium hits financial targets over 2025 to 2028 &lpar;Dean Takahashi/VentureBeat&rpar;](http://www.techmeme.com/241112/p35#a241112p35)
- - [Today&#39;s NYT Mini Crossword Answers for Wednesday, Nov. 13](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-wednesday-nov-13/#ftag=CAD590a51e)
- - [Best LED Light Bulb for Every Room in Your House in 2024](https://www.cnet.com/home/kitchen-and-household/best-led-lights/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Monster Hunter Outlanders Brings Big Beast Hunting to Mobile Gaming](https://www.cnet.com/tech/gaming/monster-hunter-outlanders-brings-big-creature-hunts-to-mobile/#ftag=CAD590a51e)
+ - [Today&#39;s NYT Connections: Sports Edition Hints and Answers for Nov. 13, #51](https://www.cnet.com/tech/gaming/todays-nyt-connections-sports-edition-hints-and-answers-for-nov-13-51/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

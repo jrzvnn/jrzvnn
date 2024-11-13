@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Modern Times Group agrees to acquire Tel Aviv-based mobile game maker Plarium for $620M and up to $200M more if Plarium hits financial targets over 2025 to 2028 &lpar;Dean Takahashi/VentureBeat&rpar;](http://www.techmeme.com/241112/p35#a241112p35)
  - [PointFive, which helps companies track usage across multiple clouds, raised a $20M Series A led by Salesforce Ventures, after raising a $16M seed in June 2024 &lpar;Ingrid Lunden/TechCrunch&rpar;](http://www.techmeme.com/241112/p34#a241112p34)
  - [SoftBank&#39;s telecom unit plans to build an AI supercomputer in Japan using Nvidia&#39;s DGX B200 platform, and a follow-up effort featuring the Grace Blackwell chip &lpar;Bloomberg&rpar;](http://www.techmeme.com/241112/p33#a241112p33)
  - [Bluetti&#39;s new Elite 200 portable power station provides 17 years of charging](https://appleinsider.com/articles/24/11/13/bluettis-new-elite-200-portable-power-station-provides-17-years-of-charging?utm_medium=rss)
- - [Best Solar Panel Installation Companies in Colorado](https://www.cnet.com/home/energy-and-utilities/colorado-solar-panels/#ftag=CAD590a51e)
- - [Monster Hunter is getting an open-world RPG spinoff for mobile](https://www.theverge.com/2024/11/12/24294524/monster-hunter-outlanders-mobile-game)<!-- TECH:END -->
+ - [Best Solar Panel Installation Companies in Colorado](https://www.cnet.com/home/energy-and-utilities/colorado-solar-panels/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

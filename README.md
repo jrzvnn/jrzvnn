@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: execs at xAI rivals were alarmed by how fast Elon Musk set up the 100K GPU cluster Colossus; a source says Sam Altman argued with Microsoft over it &lpar;Anissa Gardizy/The Information&rpar;](http://www.techmeme.com/241113/p33#a241113p33)
- - [Final Fantasy games are coming to Apple Arcade](https://www.theverge.com/2024/11/13/24295537/final-fantasy-4-apple-arcade)
- - [The tiny tweak that could change YouTube forever](https://www.theverge.com/2024/11/13/24295509/youtube-endless-scroll-tiktok-algorithm)
- - [Google says it will test removing news articles from EU-based publishers from Search for 1% of users in France, Poland, Greece, Belgium, and other EU countries &lpar;Emma Roth/The Verge&rpar;](http://www.techmeme.com/241113/p32#a241113p32)
- - [Google is testing the ‘impact’ of removing EU news from search results](https://www.theverge.com/2024/11/13/24295463/google-eu-test-news-outlets-removing-results)<!-- TECH:END -->
+ - [South Korea arrests 215 people on suspicion of stealing $228M in crypto, the country&#39;s biggest crypto investment scam with 28 types of tokens sold to 15K people &lpar;Cynthia Kim/Reuters&rpar;](http://www.techmeme.com/241113/p35#a241113p35)
+ - [20 Best Early Black Friday Deals of 2024 to Shop Right Now](https://www.wired.com/story/early-black-friday-deals-2024/)
+ - [A group of 13 former TSMC staff sue the company in California over an alleged &quot;discriminatory scheme&quot; that favors Taiwanese foreign workers at its US plants &lpar;Sarah Emerson/Forbes&rpar;](http://www.techmeme.com/241113/p34#a241113p34)
+ - [Silo’s mysteries only deepen in season 2](https://www.theverge.com/24295488/silo-season-2-review-apple-tv-plus)
+ - [Tesla Cybertruck hit with sixth recall this year, this time over a bad inverter](https://www.theverge.com/2024/11/13/24295539/tesla-cybertruck-recall-inverter-loss-propulsion)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

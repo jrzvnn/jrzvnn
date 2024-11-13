@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Just Eat Takeaway announces that it is selling Grubhub to Wonder in a $650M deal expected to close in Q1 2025; Just Eat bought Grubhub for $7.3B in 2020 &lpar;Ivan Mehta/TechCrunch&rpar;](http://www.techmeme.com/241113/p9#a241113p9)
+ - [Dyson Promo Code: 20% Off November 2024](https://www.wired.com/story/dyson-cordless-vacuum-promo-code/)
  - [Hoka Coupon Code: Free Shipping in November 2024](https://www.wired.com/story/hoka-coupon-code/)
  - [YouTube is testing a new feature that will let a small group of creators use AI to &quot;restyle&quot; licensed songs for their Shorts through prompts &lpar;Emma Roth/The Verge&rpar;](http://www.techmeme.com/241113/p8#a241113p8)
- - [A look at Qwen2.5-Coder-32B-Instruct, which Alibaba claims can match GPT-4o coding capabilities and is small enough to run on a MacBook Pro M2 with 64GB of RAM &lpar;Simon Willison/Simon Willison&#39;s Weblog&rpar;](http://www.techmeme.com/241113/p7#a241113p7)
- - [Mac mini &lpar;2024&rpar; teardown: the SSD module is proprietary but replaceable, modular front ports, and the M4 Pro model has a beefier cooling rig than the M4 model &lpar;Charlie Sorrel/iFixit News&rpar;](http://www.techmeme.com/241113/p6#a241113p6)
- - [Dogecoin spikes ~20% after Donald Trump announced the creation of the Department of Government Efficiency or DOGE; Dogecoin is up 153% since Election Day &lpar;Tanaya Macheel/CNBC&rpar;](http://www.techmeme.com/241113/p5#a241113p5)<!-- TECH:END -->
+ - [A look at Qwen2.5-Coder-32B-Instruct, which Alibaba claims can match GPT-4o coding capabilities and is small enough to run on a MacBook Pro M2 with 64GB of RAM &lpar;Simon Willison/Simon Willison&#39;s Weblog&rpar;](http://www.techmeme.com/241113/p7#a241113p7)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

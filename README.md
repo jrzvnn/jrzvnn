@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Don&#39;t forget your friends](http://9gag.com/gag/aGydLwG)
- - 😝 [When the end is near!](http://9gag.com/gag/amovoQo)
- - 💣 [This in 2003](http://9gag.com/gag/aQzdzpr)
- - 😝 [A simple sorry in a white society](http://9gag.com/gag/aD247GG)
- - 👉 [The next U.S. Secretary of State](http://9gag.com/gag/ajP9PrR)<!-- MEMES:END -->
+ - 😝 [Chinese retail chain has swapped traditional mannequins for real women walking on treadmills.](http://9gag.com/gag/aqynyNP)
+ - 😝 [At least we didn\u2019t leave vehicles behind..](http://9gag.com/gag/a6ZKqzq)
+ - 💣 [This stone breaking down into smaller pieces.](http://9gag.com/gag/aGydEMz)
+ - 😝 [CANADA what is happening to you?!!!](http://9gag.com/gag/aO87ep2)
+ - 👉 [The way Mattel has been nerfing Hot Wheels](http://9gag.com/gag/aXPgMjz)<!-- MEMES:END -->
 
 ---
 

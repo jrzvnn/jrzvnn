@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Ahhh I remember this money dropping prank](http://9gag.com/gag/a5QWE4g)
- - 😝 [A proud father](http://9gag.com/gag/abAGgVB)
- - 💣 [This stone breaking down into smaller pieces.](http://9gag.com/gag/aGydEMz)
- - 😝 [One puzzle no 90s kid was able to solve](http://9gag.com/gag/amovAdo)
- - 👉 [My cup of tea shirt](http://9gag.com/gag/a2vW1ow)<!-- MEMES:END -->
+ - 😝 [What\u00b4s up with that, ladies...](http://9gag.com/gag/avyzQvM)
+ - 😝 [Use to be ours](http://9gag.com/gag/aYQyVm2)
+ - 💣 [My cup of tea shirt](http://9gag.com/gag/a2vW1ow)
+ - 😝 [While you&#39;re having fun and looking for memes, someone else is thinking about how to make it until their first paycheck at their new job.](http://9gag.com/gag/a87G1Dd)
+ - 👉 [Coke Slushy](http://9gag.com/gag/a4P3n9y)<!-- MEMES:END -->
 
 ---
 

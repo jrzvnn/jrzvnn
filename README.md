@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [CBRE: tech companies leased 9.9M square feet of US office space in Q3, up from ~8M in Q2 and the highest since Q4 2021, as demand grows from new AI companies &lpar;Peter Grant/Wall Street Journal&rpar;](http://www.techmeme.com/241113/p13#a241113p13)
  - [Google DeepMind releases AlphaFold 3&#39;s source code and model weights for academic use, which could accelerate scientific discovery and drug development &lpar;Michael Nu&amp;ntilde;ez/VentureBeat&rpar;](http://www.techmeme.com/241113/p12#a241113p12)
  - [Media executives say that some brands were preparing to advertise on X once again, as Elon Musk was likely to gain an influential Trump administration role &lpar;Financial Times&rpar;](http://www.techmeme.com/241113/p11#a241113p11)
  - [Klarna files for a US IPO; analysts put Klarna&#39;s implied valuation at ~$14.6B in October 2024 after shareholder Chrysalis upped the value of its stake to $154M &lpar;Charles Daly/Bloomberg&rpar;](http://www.techmeme.com/241113/p10#a241113p10)
- - [Just Eat Takeaway announces that it is selling Grubhub to Wonder in a $650M deal expected to close in Q1 2025; Just Eat bought Grubhub for $7.3B in 2020 &lpar;Ivan Mehta/TechCrunch&rpar;](http://www.techmeme.com/241113/p9#a241113p9)
- - [Dyson Promo Code: 20% Off November 2024](https://www.wired.com/story/dyson-cordless-vacuum-promo-code/)<!-- TECH:END -->
+ - [Just Eat Takeaway announces that it is selling Grubhub to Wonder in a $650M deal expected to close in Q1 2025; Just Eat bought Grubhub for $7.3B in 2020 &lpar;Ivan Mehta/TechCrunch&rpar;](http://www.techmeme.com/241113/p9#a241113p9)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

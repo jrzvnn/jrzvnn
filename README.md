@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [GOG’s new preservation program intends to  keep classic games playable ‘forever’](https://www.theverge.com/2024/11/13/24295683/gog-preservation-program-pc-game-drm)
+ - [AirPods Pro crackling issue target of new class-action lawsuit](https://appleinsider.com/articles/24/11/13/airpods-pro-crackling-issue-target-of-new-class-action-lawsuit?utm_medium=rss)
  - [GM offers free nighttime charging to Chevy EV owners in Texas](https://www.theverge.com/2024/11/13/24295809/gm-chevy-ev-reliant-free-nighttime-charging)
  - [Spotify will start paying creators for popular videos](https://www.theverge.com/2024/11/13/24295686/spotify-video-podcast-creator-payouts-ad-breaks)
- - [AMD says it will lay off ~4% of its global staff to align &quot;resources with our largest growth opportunities&quot;; SEC filing: AMD had 26,000 employees at 2023&#39;s end &lpar;Ramish Zafar/Wccftech&rpar;](http://www.techmeme.com/241113/p41#a241113p41)
- - [If You&#39;re Thinking About Deleting X/Twitter, Here&#39;s How To Do It](https://www.cnet.com/tech/if-youre-thinking-about-deleting-xtwitter-heres-how-to-do-it/#ftag=CAD590a51e)
- - [Save 44% on the Yeedi M12 Robot Vacuum and Mop With This Early Black Friday Deal at Amazon](https://www.cnet.com/deals/save-44-on-the-yeedi-m12-robot-vacuum-and-mop-with-this-early-black-friday-deal-at-amazon/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [AMD says it will lay off ~4% of its global staff to align &quot;resources with our largest growth opportunities&quot;; SEC filing: AMD had 26,000 employees at 2023&#39;s end &lpar;Ramish Zafar/Wccftech&rpar;](http://www.techmeme.com/241113/p41#a241113p41)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

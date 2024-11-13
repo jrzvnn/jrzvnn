@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The Wall Street Journal is testing AI article summaries](https://www.theverge.com/2024/11/13/24295838/the-wall-street-journal-ai-article-summaries-key-points)
  - [Sources: OpenAI plans to launch a new AI agent codenamed Operator, which can use a computer to take actions on a person&#39;s behalf, in January &lpar;Bloomberg&rpar;](http://www.techmeme.com/241113/p43#a241113p43)
  - [Mark Zuckerberg just dropped a single with T-Pain](https://www.theverge.com/2024/11/13/24295841/mark-zuckerberg-t-pain-single-get-low)
  - [Source: the FBI seized Polymarket CEO Shayne Coplan&#39;s phone and electronics early Wednesday morning &lpar;Taylor Herzlich/New York Post&rpar;](http://www.techmeme.com/241113/p42#a241113p42)
- - [M4 Mac mini review: The first redesign in years hides incredible computing power](https://appleinsider.com/articles/24/11/13/m4-mac-mini-review-the-first-redesign-in-years-hides-incredible-computing-power?utm_medium=rss)
- - [GOG’s new preservation program intends to  keep classic games playable ‘forever’](https://www.theverge.com/2024/11/13/24295683/gog-preservation-program-pc-game-drm)<!-- TECH:END -->
+ - [M4 Mac mini review: The first redesign in years hides incredible computing power](https://appleinsider.com/articles/24/11/13/m4-mac-mini-review-the-first-redesign-in-years-hides-incredible-computing-power?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

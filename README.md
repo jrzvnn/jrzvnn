@@ -159,9 +159,9 @@ R                        1 repo              ░░░░░░░░░░░�
 <!-- TECH:START -->
  - [These Guys Hacked AirPods to Give Their Grandmas Hearing Aids](https://www.wired.com/story/apple-airpods-hearing-aid-hack/)
  - [Can the US triple its nuclear energy capacity?](https://www.theverge.com/2024/11/13/24295502/nuclear-energy-plan-triple-biden-trump)
- - [Anker&#39;s MagGo SD Card Reader Is Back to Its All-Time Low Price](https://www.cnet.com/deals/ankers-maggo-sd-card-reader-is-back-to-its-all-time-low-price/#ftag=CAD590a51e)
- - [This Naked Wines Deal Can Help You Stock Up for the Holidays Without Spending a Fortune](https://www.cnet.com/deals/this-deal-from-naked-wines-can-help-stock-up-for-the-holidays-without-spending-a-fortune/#ftag=CAD590a51e)
- - [Docs and sources: Amazon has discontinued a secretive effort to develop an at-home fertility tracker, which was part of its moonshot incubator Grand Challenge &lpar;Annie Palmer/CNBC&rpar;](http://www.techmeme.com/241113/p39#a241113p39)<!-- TECH:END -->
+ - [Docs and sources: Amazon has discontinued a secretive effort to develop an at-home fertility tracker, which was part of its moonshot incubator Grand Challenge &lpar;Annie Palmer/CNBC&rpar;](http://www.techmeme.com/241113/p39#a241113p39)
+ - [AMD says it will lay off ~4% of its global staff to align &quot;resources with our largest growth opportunities&quot;; SEC filing: AMD had 26,000 employees at 2023&#39;s end &lpar;Kif Leswing/CNBC&rpar;](http://www.techmeme.com/241113/p38#a241113p38)
+ - [Meta must face FTC trial that could separate Instagram and WhatsApp](https://www.theverge.com/2024/11/13/24295637/meta-must-face-ftc-antitrust-trial-instagram-whatsapp)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Apple releases Final Cut Pro 11, along with updates to Logic Pro for Mac](https://appleinsider.com/articles/24/11/13/apple-releases-final-cut-pro-11-along-with-updates-to-logic-pro-for-mac?utm_medium=rss)
+ - [Polymarket says the FBI seized CEO Shayne Coplan&#39;s phone and electronics; source: the DOJ is investigating Polymarket for allegedly accepting bets from US users &lpar;Bloomberg&rpar;](http://www.techmeme.com/241113/p49#a241113p49)
+ - [How to Get Started on Bluesky](https://www.wired.com/story/how-to-get-started-on-bluesky/)
  - [FBI and CISA: Chinese hackers breached multiple US telecom companies, compromising the &quot;private communications&quot; of US officials and stealing customer call data &lpar;Sergiu Gatlan/BleepingComputer&rpar;](http://www.techmeme.com/241113/p48#a241113p48)
- - [Spotify plans to pay incentives to video creators who hit certain viewing thresholds and, in January, to let Premium subscribers view podcast videos without ads &lpar;Anne Steele/Wall Street Journal&rpar;](http://www.techmeme.com/241113/p47#a241113p47)
- - [Apple updates Logic Pro with new sounds and search features](https://www.theverge.com/2024/11/13/24295719/apple-logic-pro-update-quantec-room-simulator)
- - [Apple launches Final Cut Pro 11 with even more AI features](https://www.theverge.com/2024/11/13/24295486/final-cut-pro-11-apple-announced-ai-new-features)
- - [DeepL, which was valued at $2B in May 2024, debuts DeepL Voice to give users real-time text translations of others speaking in one of 13 different languages &lpar;Ingrid Lunden/TechCrunch&rpar;](http://www.techmeme.com/241113/p46#a241113p46)<!-- TECH:END -->
+ - [Spotify plans to pay incentives to video creators who hit certain viewing thresholds and, in January, to let Premium subscribers view podcast videos without ads &lpar;Anne Steele/Wall Street Journal&rpar;](http://www.techmeme.com/241113/p47#a241113p47)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

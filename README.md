@@ -167,9 +167,9 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [Effective fly repellent](http://9gag.com/gag/amovA72)
- - 😝 [Reportedly Kamala Harris campaign paid Beyonce 10 million dollars to do a 2 minute speech.](http://9gag.com/gag/aO872o6)
- - 💣 [A proud father](http://9gag.com/gag/abAGgVB)
- - 😝 [One puzzle no 90s kid was able to solve](http://9gag.com/gag/amovAdo)
+ - 😝 [This stone breaking down into smaller pieces.](http://9gag.com/gag/aGydEMz)
+ - 💣 [After ordering some shrimp, customer returned the plate like this](http://9gag.com/gag/awyByx1)
+ - 😝 [Of course there will be no Asian Lives Matter, why? because its breaking left wing narrative and Lawful white people will be blamed for stupidest reason ever just because they pro-safety and factual information](http://9gag.com/gag/ajP9gE0)
  - 👉 [At least we didn\u2019t leave vehicles behind..](http://9gag.com/gag/a6ZKqzq)<!-- MEMES:END -->
 
 ---

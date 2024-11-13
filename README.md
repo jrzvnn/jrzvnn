@@ -161,7 +161,7 @@ R                        1 repo              ░░░░░░░░░░░�
  - [Rivian and VW finalize a software development joint venture; VW has invested $1B of its planned up to $5.8B by 2027 in the JV designed to be a 50-50 partnership &lpar;TechCrunch&rpar;](http://www.techmeme.com/241113/p4#a241113p4)
  - [Prosus says it has made $2B+ on its Swiggy investment and will retain a 25% stake after Swiggy&#39;s IPO, which valued the food and grocery delivery firm at ~$11.3B &lpar;Loni Prinsloo/Bloomberg&rpar;](http://www.techmeme.com/241113/p3#a241113p3)
  - [Shares of Swiggy opened up ~8% on their trading debut after the company raised $1.34B in its IPO, which became the second largest IPO in India this year &lpar;Lim Hui Jie/CNBC&rpar;](http://www.techmeme.com/241113/p2#a241113p2)
- - [Perplexity says it will begin experimenting with ads on its platform in the US starting this week; ads will be formatted as &quot;sponsored follow-up questions&quot; &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/241113/p1#a241113p1)<!-- TECH:END -->
+ - [CNET Survey: Holiday Shoppers May Have $291 in Deliveries at Risk of Theft. How to Keep Porch Pirates at Bay](https://www.cnet.com/personal-finance/porch-theft-survey-2024/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

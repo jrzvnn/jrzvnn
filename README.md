@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Return to sender](http://9gag.com/gag/aMVxBMP)
- - 😝 [Amen! &lpar;cosplay by Neneko0814&rpar;](http://9gag.com/gag/axy9v1K)
+ - 😝 [Math is hard](http://9gag.com/gag/aqynyXM)
+ - 😝 [One puzzle no 90s kid was able to solve](http://9gag.com/gag/amovAdo)
  - 💣 [This accident was real and everybody just ran with it](http://9gag.com/gag/a9ynv1Z)
- - 😝 [Thanks God for the gravity](http://9gag.com/gag/apRGDbp)
- - 👉 [We are close to dying out. The stupidity is too much.](http://9gag.com/gag/aAyeK1L)<!-- MEMES:END -->
+ - 😝 [Two different Walter white](http://9gag.com/gag/a5QW6xO)
+ - 👉 [After ordering some shrimp, customer returned the plate like this](http://9gag.com/gag/awyByx1)<!-- MEMES:END -->
 
 ---
 

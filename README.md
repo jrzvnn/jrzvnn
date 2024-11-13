@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [After ordering some shrimp, customer returned the plate like this](http://9gag.com/gag/awyByx1)
  - 😝 [Chinese retail chain has swapped traditional mannequins for real women walking on treadmills.](http://9gag.com/gag/aqynyNP)
- - 💣 [Fisherman](http://9gag.com/gag/a4P3EWA)
+ - 😝 [Nasty son of a b\u2026.](http://9gag.com/gag/aAyeQY0)
+ - 💣 [I wasn\u2019t paying that much attention, but did I see Trump put out a crazy number of videos explaining his ideas over the weekend?](http://9gag.com/gag/aKG71wj)
  - 😝 [Reportedly Kamala Harris campaign paid Beyonce 10 million dollars to do a 2 minute speech.](http://9gag.com/gag/aO872o6)
- - 👉 [One puzzle no 90s kid was able to solve](http://9gag.com/gag/amovAdo)<!-- MEMES:END -->
+ - 👉 [Use to be ours](http://9gag.com/gag/aYQyVm2)<!-- MEMES:END -->
 
 ---
 

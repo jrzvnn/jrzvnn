@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [This stone breaking down into smaller pieces.](http://9gag.com/gag/aGydEMz)
- - 😝 [Hidden airplane crew quarters](http://9gag.com/gag/axy9yVn)
- - 💣 [Reportedly Kamala Harris campaign paid Beyonce 10 million dollars to do a 2 minute speech.](http://9gag.com/gag/aO872o6)
- - 😝 [Math is hard](http://9gag.com/gag/aqynyXM)
- - 👉 [After ordering some shrimp, customer returned the plate like this](http://9gag.com/gag/awyByx1)<!-- MEMES:END -->
+ - 😝 [After ordering some shrimp, customer returned the plate like this](http://9gag.com/gag/awyByx1)
+ - 😝 [This accident was real and everybody just ran with it](http://9gag.com/gag/a9ynv1Z)
+ - 💣 [Artificial Intelligence](http://9gag.com/gag/amovopv)
+ - 😝 [Reportedly Kamala Harris campaign paid Beyonce 10 million dollars to do a 2 minute speech.](http://9gag.com/gag/aO872o6)
+ - 👉 [Math is hard](http://9gag.com/gag/aqynyXM)<!-- MEMES:END -->
 
 ---
 

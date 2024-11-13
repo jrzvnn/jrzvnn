@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The Polestar 3 with rear-wheel drive and 350 miles of range will start at $68,900](https://www.theverge.com/2024/11/13/24295069/polestar-3-rwd-price-range-tax-credit)
  - [Amazon recently told staff with disabilities that it was adding a more rigorous vetting process to approve working from home, as it moves to five days per week &lpar;Spencer Soper/Bloomberg&rpar;](http://www.techmeme.com/241113/p23#a241113p23)
  - [Sources: OpenAI, Google, and Anthropic are all seeing diminishing returns from costly efforts to build new AI models; a new Gemini model misses internal targets &lpar;Bloomberg&rpar;](http://www.techmeme.com/241113/p22#a241113p22)
- - [Sources: top crypto executives are courting Bitcoin enthusiast and Trump transition co-chair Howard Lutnick; the industry is seeking to reshape the SEC and more &lpar;New York Times&rpar;](http://www.techmeme.com/241113/p21#a241113p21)
- - [ICE Started Ramping Up Its Surveillance Arsenal Immediately After Donald Trump Won](https://www.wired.com/story/ice-surveillance-contracts-isap/)
- - [There will never be an Apple Ring, says rival with crossed fingers](https://appleinsider.com/articles/24/11/13/there-will-never-be-an-apple-ring-says-rival-with-crossed-fingers?utm_medium=rss)<!-- TECH:END -->
+ - [How to Deal With Flu Season&#39;s Surprising Companion: Pink Eye](https://www.cnet.com/health/medical/how-to-deal-with-flu-season-pink-eye/#ftag=CAD590a51e)
+ - [7 Tips for Saving Money on Concert Tickets](https://www.cnet.com/culture/entertainment/7-tips-for-saving-money-on-concert-tickets/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

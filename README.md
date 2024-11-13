@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [In a policy blueprint, OpenAI says the US and its neighbors should form a &quot;North American Compact for AI&quot; to compete with China in talent, financing, and more &lpar;Jackie Davalos/Bloomberg&rpar;](http://www.techmeme.com/241113/p29#a241113p29)
+ - [6 Best Webcams &lpar;2024&rpar;, Tested and Reviewed](https://www.wired.com/gallery/best-webcams/)
  - [Sources detail Elon Musk&#39;s role in Trump&#39;s transition: Mar-a-Lago meetings, calls with world leaders, voicing support for Brendan Carr at the FCC, and more &lpar;Theodore Schleifer/New York Times&rpar;](http://www.techmeme.com/241113/p28#a241113p28)
  - [PitchBook: tech as a percentage of total private equity deal value was 28.3% in Q3, up from 18.7% in Q2, as VC firms and tech startups turn to PE for liquidity &lpar;Steven Rosenbush/Wall Street Journal&rpar;](http://www.techmeme.com/241113/p27#a241113p27)
- - [SteelSeries Arctis GameBuds Review: Dongle Earbuds](https://www.wired.com/review/steelseries-arctis-gamebuds/)
- - [Patreon introduces subscription gifting and discounts](https://www.theverge.com/2024/11/13/24294607/patreon-creator-subscriptions-gifting-discounts)
- - [Belkin’s Vision Pro strap should just come with the headset](https://www.theverge.com/2024/11/13/24293855/belkin-head-strap-apple-vision-pro-solo-knit-band-impressions)<!-- TECH:END -->
+ - [SteelSeries Arctis GameBuds Review: Dongle Earbuds](https://www.wired.com/review/steelseries-arctis-gamebuds/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

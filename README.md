@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Sonos revenue falls in the aftermath of company’s messy app debacle](https://www.theverge.com/2024/11/13/24295716/sonos-q4-2024-earnings-app-arc-ultra)
  - [Scientists Have Pushed the Schrödinger’s Cat Paradox to New Limits](https://www.wired.com/story/scientists-have-pushed-the-schrodingers-cat-paradox-to-new-limits/)
  - [17 Walmart Deals That Meet or Beat Black Friday Prices](https://www.wired.com/story/walmart-deals-november-2024/)
  - [Google announces new features for the Fitbit Ace LTE, its smartwatch for kids, including family group chats, messaging for siblings, and a new mini-game &lpar;Lauren Forristal/TechCrunch&rpar;](http://www.techmeme.com/241113/p44#a241113p44)
- - [Pixel phones will be able to detect and report malicious apps in real time](https://www.theverge.com/2024/11/13/24295784/android-google-play-protect-live-threat-detection-malware)
- - [The Wall Street Journal is testing AI article summaries](https://www.theverge.com/2024/11/13/24295838/the-wall-street-journal-ai-article-summaries-key-points)<!-- TECH:END -->
+ - [Pixel phones will be able to detect and report malicious apps in real time](https://www.theverge.com/2024/11/13/24295784/android-google-play-protect-live-threat-detection-malware)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

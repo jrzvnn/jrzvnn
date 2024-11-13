@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The rarely discounted PlayStation Pulse Elite headset hits a record low price](https://www.theverge.com/2024/11/13/24295476/sony-playstation-pulse-elite-ps5-gaming-headset-deal-sale)
  - [South Korea arrests 215 people on suspicion of stealing $228M in crypto, the country&#39;s biggest crypto investment scam with 28 types of tokens sold to 15K people &lpar;Cynthia Kim/Reuters&rpar;](http://www.techmeme.com/241113/p35#a241113p35)
  - [20 Best Early Black Friday Deals of 2024 to Shop Right Now](https://www.wired.com/story/early-black-friday-deals-2024/)
  - [A group of 13 former TSMC staff sue the company in California over an alleged &quot;discriminatory scheme&quot; that favors Taiwanese foreign workers at its US plants &lpar;Sarah Emerson/Forbes&rpar;](http://www.techmeme.com/241113/p34#a241113p34)
- - [Silo’s mysteries only deepen in season 2](https://www.theverge.com/24295488/silo-season-2-review-apple-tv-plus)
- - [Tesla Cybertruck hit with sixth recall this year, this time over a bad inverter](https://www.theverge.com/2024/11/13/24295539/tesla-cybertruck-recall-inverter-loss-propulsion)<!-- TECH:END -->
+ - [Silo’s mysteries only deepen in season 2](https://www.theverge.com/24295488/silo-season-2-review-apple-tv-plus)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [After ordering some shrimp, customer returned the plate like this](http://9gag.com/gag/awyByx1)
- - 😝 [This accident was real and everybody just ran with it](http://9gag.com/gag/a9ynv1Z)
- - 💣 [Artificial Intelligence](http://9gag.com/gag/amovopv)
- - 😝 [Reportedly Kamala Harris campaign paid Beyonce 10 million dollars to do a 2 minute speech.](http://9gag.com/gag/aO872o6)
- - 👉 [Math is hard](http://9gag.com/gag/aqynyXM)<!-- MEMES:END -->
+ - 😝 [Crypto phone for crypto bros](http://9gag.com/gag/agmAOYw)
+ - 😝 [Hum...](http://9gag.com/gag/aO874Vv)
+ - 💣 [Why complicated life](http://9gag.com/gag/a2vWvW1)
+ - 😝 [From the archives](http://9gag.com/gag/azxm5YB)
+ - 👉 [It makes sense](http://9gag.com/gag/aBymLRQ)<!-- MEMES:END -->
 
 ---
 

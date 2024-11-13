@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [A look at Qwen2.5-Coder-32B-Instruct, which Alibaba claims to match GPT-4o&#39;s coding capabilities and is small enough to run on a MacBook Pro M2 with 64GB of RAM &lpar;Simon Willison/Simon Willison&#39;s Weblog&rpar;](http://www.techmeme.com/241113/p7#a241113p7)
  - [Mac mini &lpar;2024&rpar; teardown: the SSD module is proprietary but replaceable, modular front ports, and the M4 Pro model has a beefier cooling rig than the M4 model &lpar;Charlie Sorrel/iFixit News&rpar;](http://www.techmeme.com/241113/p6#a241113p6)
  - [Dogecoin spikes ~20% after Donald Trump announced the creation of the Department of Government Efficiency or DOGE; Dogecoin is up 153% since Election Day &lpar;Tanaya Macheel/CNBC&rpar;](http://www.techmeme.com/241113/p5#a241113p5)
  - [Rivian and VW finalize a software development joint venture; VW has invested $1B of its planned up to $5.8B by 2027 in the JV designed to be a 50-50 partnership &lpar;TechCrunch&rpar;](http://www.techmeme.com/241113/p4#a241113p4)
- - [Prosus says it has made $2B+ on its Swiggy investment and will retain a 25% stake after Swiggy&#39;s IPO, which valued the food and grocery delivery firm at ~$11.3B &lpar;Loni Prinsloo/Bloomberg&rpar;](http://www.techmeme.com/241113/p3#a241113p3)
- - [Shares of Swiggy opened up ~8% on their trading debut after the company raised $1.34B in its IPO, which became the second largest IPO in India this year &lpar;Lim Hui Jie/CNBC&rpar;](http://www.techmeme.com/241113/p2#a241113p2)<!-- TECH:END -->
+ - [Prosus says it has made $2B+ on its Swiggy investment and will retain a 25% stake after Swiggy&#39;s IPO, which valued the food and grocery delivery firm at ~$11.3B &lpar;Loni Prinsloo/Bloomberg&rpar;](http://www.techmeme.com/241113/p3#a241113p3)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

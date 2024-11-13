@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Mom!... why sister eating large candy?....](http://9gag.com/gag/a4P311w)
- - 😝 [Lightning strikes the water surface with Scuba divers under it](http://9gag.com/gag/aD24YDO)
- - 💣 [At least we didn\u2019t leave vehicles behind..](http://9gag.com/gag/a6ZKqzq)
- - 😝 [A proud father](http://9gag.com/gag/abAGgVB)
- - 👉 [Didn&#39;t know Black Friday came early this year](http://9gag.com/gag/agmA1XK)<!-- MEMES:END -->
+ - 😝 [Effective fly repellent](http://9gag.com/gag/amovA72)
+ - 😝 [What else did she expect?](http://9gag.com/gag/aD24Dp7)
+ - 💣 [My cup of tea shirt](http://9gag.com/gag/a2vW1ow)
+ - 😝 [At least we didn\u2019t leave vehicles behind..](http://9gag.com/gag/a6ZKqzq)
+ - 👉 [Reportedly Kamala Harris campaign paid Beyonce 10 million dollars to do a 2 minute speech.](http://9gag.com/gag/aO872o6)<!-- MEMES:END -->
 
 ---
 

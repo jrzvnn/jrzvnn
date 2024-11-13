@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [What\u00b4s up with that, ladies...](http://9gag.com/gag/avyzQvM)
- - 😝 [Use to be ours](http://9gag.com/gag/aYQyVm2)
- - 💣 [My cup of tea shirt](http://9gag.com/gag/a2vW1ow)
- - 😝 [While you&#39;re having fun and looking for memes, someone else is thinking about how to make it until their first paycheck at their new job.](http://9gag.com/gag/a87G1Dd)
- - 👉 [Coke Slushy](http://9gag.com/gag/a4P3n9y)<!-- MEMES:END -->
+ - 😝 [Legend says they are still waiting](http://9gag.com/gag/azxmMZx)
+ - 😝 [Effective fly repellent](http://9gag.com/gag/amovA72)
+ - 💣 [The border Chad](http://9gag.com/gag/a9ynqj0)
+ - 😝 [One puzzle no 90s kid was able to solve](http://9gag.com/gag/amovAdo)
+ - 👉 [Reportedly Kamala Harris campaign paid Beyonce 10 million dollars to do a 2 minute speech.](http://9gag.com/gag/aO872o6)<!-- MEMES:END -->
 
 ---
 

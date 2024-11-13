@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Google announces new features for the Fitbit Ace LTE, its smartwatch for kids, including family group chats, messaging for siblings, and a new mini-game &lpar;Lauren Forristal/TechCrunch&rpar;](http://www.techmeme.com/241113/p44#a241113p44)
  - [Pixel phones will be able to detect and report malicious apps in real time](https://www.theverge.com/2024/11/13/24295784/android-google-play-protect-live-threat-detection-malware)
  - [The Wall Street Journal is testing AI article summaries](https://www.theverge.com/2024/11/13/24295838/the-wall-street-journal-ai-article-summaries-key-points)
  - [Sources: OpenAI plans to launch a new AI agent codenamed Operator, which can use a computer to take actions on a person&#39;s behalf, in January &lpar;Bloomberg&rpar;](http://www.techmeme.com/241113/p43#a241113p43)
- - [Mark Zuckerberg just dropped a single with T-Pain](https://www.theverge.com/2024/11/13/24295841/mark-zuckerberg-t-pain-single-get-low)
- - [Source: the FBI seized Polymarket CEO Shayne Coplan&#39;s phone and electronics early Wednesday morning &lpar;Taylor Herzlich/New York Post&rpar;](http://www.techmeme.com/241113/p42#a241113p42)<!-- TECH:END -->
+ - [Best Internet Providers in Franklin, Tennessee](https://www.cnet.com/home/internet/best-internet-providers-in-franklin-tn/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

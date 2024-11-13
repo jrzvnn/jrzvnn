@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple&#39;s M4 Max 14-inch MacBook Pro is on sale for $2,999 &amp; in stock](https://appleinsider.com/articles/24/11/13/apples-m4-max-14-inch-macbook-pro-is-on-sale-for-2999-in-stock?utm_medium=rss)
- - [An interview with Microsoft Gaming CEO Phil Spencer, who says he won&#39;t rule out any Xbox exclusive coming to PlayStation, discusses potential M&amp;A, and more &lpar;Dina Bass/Bloomberg&rpar;](http://www.techmeme.com/241113/p26#a241113p26)
- - [The Best Sheets for Every Body, Bed, and Budget &lpar;2024&rpar;](https://www.wired.com/story/best-bedsheets/)
- - [Super Micro delays another filing as it searches for a new accounting firm, saying it can&#39;t file its 10-Q for Q3 2024, after failing to file its annual 10-K &lpar;Lynn Doan/Bloomberg&rpar;](http://www.techmeme.com/241113/p25#a241113p25)
- - [How gambling apps are ravaging Brazil in the wake of legalization; Nubank reassured investors in September 2024 that it had limited exposure to troubled bettors &lpar;Bloomberg&rpar;](http://www.techmeme.com/241113/p24#a241113p24)<!-- TECH:END -->
+ - [Sources detail Elon Musk&#39;s role in Trump&#39;s transition: Mar-a-Lago meetings, calls with world leaders, voicing support for Brendan Carr at the FCC, and more &lpar;Theodore Schleifer/New York Times&rpar;](http://www.techmeme.com/241113/p28#a241113p28)
+ - [PitchBook: tech as a percentage of total private equity deal value was 28.3% in Q3, up from 18.7% in Q2, as VC firms and tech startups turn to PE for liquidity &lpar;Steven Rosenbush/Wall Street Journal&rpar;](http://www.techmeme.com/241113/p27#a241113p27)
+ - [SteelSeries Arctis GameBuds Review: Dongle Earbuds](https://www.wired.com/review/steelseries-arctis-gamebuds/)
+ - [Patreon introduces subscription gifting and discounts](https://www.theverge.com/2024/11/13/24294607/patreon-creator-subscriptions-gifting-discounts)
+ - [Belkin’s Vision Pro strap should just come with the headset](https://www.theverge.com/2024/11/13/24293855/belkin-head-strap-apple-vision-pro-solo-knit-band-impressions)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

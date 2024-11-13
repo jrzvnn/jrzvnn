@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Chinese retail chain has swapped traditional mannequins for real women walking on treadmills.](http://9gag.com/gag/aqynyNP)
- - 😝 [At least we didn\u2019t leave vehicles behind..](http://9gag.com/gag/a6ZKqzq)
- - 💣 [This stone breaking down into smaller pieces.](http://9gag.com/gag/aGydEMz)
- - 😝 [CANADA what is happening to you?!!!](http://9gag.com/gag/aO87ep2)
- - 👉 [The way Mattel has been nerfing Hot Wheels](http://9gag.com/gag/aXPgMjz)<!-- MEMES:END -->
+ - 😝 [Two different Walter white](http://9gag.com/gag/a5QW6xO)
+ - 😝 [One puzzle no 90s kid was able to solve](http://9gag.com/gag/amovAdo)
+ - 💣 [CANADA what is happening to you?!!!](http://9gag.com/gag/aO87ep2)
+ - 😝 [This stone breaking down into smaller pieces.](http://9gag.com/gag/aGydEMz)
+ - 👉 [At least we didn\u2019t leave vehicles behind..](http://9gag.com/gag/a6ZKqzq)<!-- MEMES:END -->
 
 ---
 

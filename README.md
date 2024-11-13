@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [It makes sense](http://9gag.com/gag/aBymLRQ)
  - 😝 [Return to sender](http://9gag.com/gag/aMVxBMP)
- - 💣 [This accident was real and everybody just ran with it](http://9gag.com/gag/a9ynv1Z)
  - 😝 [Amen! &lpar;cosplay by Neneko0814&rpar;](http://9gag.com/gag/axy9v1K)
- - 👉 [Thanks God for the gravity](http://9gag.com/gag/apRGDbp)<!-- MEMES:END -->
+ - 💣 [This accident was real and everybody just ran with it](http://9gag.com/gag/a9ynv1Z)
+ - 😝 [Thanks God for the gravity](http://9gag.com/gag/apRGDbp)
+ - 👉 [We are close to dying out. The stupidity is too much.](http://9gag.com/gag/aAyeK1L)<!-- MEMES:END -->
 
 ---
 

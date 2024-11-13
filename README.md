@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [This will be a fun toy to own](http://9gag.com/gag/a6ZK1vm)
- - 😝 [Its Time To Get Laid](http://9gag.com/gag/a9ynqmm)
- - 💣 [CANADA what is happening to you?!!!](http://9gag.com/gag/aO87ep2)
- - 😝 [Crazy enough motivated enough](http://9gag.com/gag/agmAmq6)
- - 👉 [Casual encounter with a Cassowary - the most dangerous bird in the world.](http://9gag.com/gag/ae9D9pB)<!-- MEMES:END -->
+ - 😝 [The next U.S. Secretary of State](http://9gag.com/gag/ajP9PrR)
+ - 😝 [A simple sorry in a white society](http://9gag.com/gag/aD247GG)
+ - 💣 [Number one was the best](http://9gag.com/gag/adBVBpV)
+ - 😝 [All it matters is they had a great time.](http://9gag.com/gag/aZZyZ43)
+ - 👉 [Congratulations! You&#39;ve made it halfway through the week. Here, have something to cheer you up.](http://9gag.com/gag/aAye6oE)<!-- MEMES:END -->
 
 ---
 

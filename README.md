@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [How Roger Ver, known as &quot;Bitcoin Jesus&quot;, is fighting the IRS, which says he owes $48M+ after selling $240M in tokens, from Mallorca after his April 2024 arrest &lpar;Bloomberg&rpar;](http://www.techmeme.com/241113/p20#a241113p20)
- - [Bone Marrow Donors Can Be Hard to Find. One Company Is Turning to Cadavers](https://www.wired.com/story/stem-cell-donation-deceased-ossium-bone-marrow-cancer-leukemia/)
- - [Bluesky says it has gained 1M+ users in the week since the US election, mostly in the US, the UK, and Canada, and now has 14.7M users in total &lpar;Callie Holtermann/New York Times&rpar;](http://www.techmeme.com/241113/p19#a241113p19)
- - [How Italy became an unexpected spyware hub, going under the radar by specializing in cheaper tools, as authorities carry out thousands of operations since 2021 &lpar;Suzanne Smalley/The Record&rpar;](http://www.techmeme.com/241113/p18#a241113p18)
- - [Best Beer Clubs for 2024](https://www.cnet.com/news/best-beer-subscription-boxes/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [There will never be an Apple Ring, says rival with crossed fingers](https://appleinsider.com/articles/24/11/13/there-will-never-be-an-apple-ring-says-rival-with-crossed-fingers?utm_medium=rss)
+ - [How advanced content caching settings on the Mac works](https://appleinsider.com/inside/macos/tips/how-advanced-content-caching-settings-on-the-mac-works?utm_medium=rss)
+ - [We Tested the Saatva Classic Mattress &lpar;and Our Marriage&rpar; for a Month](https://www.cnet.com/health/sleep/we-tested-the-saatva-classic-mattress-and-our-marriage-for-a-month/#ftag=CAD590a51e)
+ - [Tempur-Pedic Luxe Breeze Review 2024: Maximum Cooling at a Premium Price](https://www.cnet.com/health/sleep/tempur-pedic-luxe-breeze-review/#ftag=CAD590a51e)
+ - [How Roger Ver, known as &quot;Bitcoin Jesus&quot;, is fighting the IRS, which says he owes $48M+ after selling $240M in tokens, from Mallorca after his April 2024 arrest &lpar;Bloomberg&rpar;](http://www.techmeme.com/241113/p20#a241113p20)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Ilya Lichtenstein is sentenced to five years in prison for conspiring with his wife, Heather &quot;Razzlekhan&quot; Morgan, to launder money from the 2016 Bitfinex hack &lpar;Sabrina Willmer/Bloomberg&rpar;](http://www.techmeme.com/241114/p42#a241114p42)
  - [OpenAI makes the ChatGPT desktop app for Windows available to all users, following an October release limited to paying ChatGPT subscribers &lpar;Michael Kan/PCMag&rpar;](http://www.techmeme.com/241114/p41#a241114p41)
  - [NASA’s AI Earth Copilot will take your questions about our planet](https://www.theverge.com/2024/11/14/24296758/nasa-ai-earth-copilot-microsoft)
  - [Pokémon TCG Pocket will let you trade cards starting early next year](https://www.theverge.com/2024/11/14/24296690/pokemon-tcg-pocket-trade-cards)
- - [Add Some Extra Spice to Your Christmas Tree This Season With Smart Lights](https://www.cnet.com/deals/add-some-extra-spice-to-your-christmas-tree-this-season-with-smart-lights/#ftag=CAD590a51e)
- - [Teenage Engineering’s new OP–XY makes me wish I had a bigger budget for music gear](https://www.theverge.com/2024/11/14/24296629/teenage-engineering-op-xy-instrument-synthesizer)<!-- TECH:END -->
+ - [Add Some Extra Spice to Your Christmas Tree This Season With Smart Lights](https://www.cnet.com/deals/add-some-extra-spice-to-your-christmas-tree-this-season-with-smart-lights/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

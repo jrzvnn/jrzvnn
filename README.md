@@ -166,9 +166,9 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Pilot Forgets to Attach Tourist to Hang Glider.](http://9gag.com/gag/aO87ZxN)
- - 😝 [Classic](http://9gag.com/gag/aMVxmAV)
- - 💣 [Oh NO!](http://9gag.com/gag/abAGW68)
+ - 😝 [Funny dad](http://9gag.com/gag/aQzdQgz)
+ - 😝 [This is what a hole in the skin looks like after a needle punctures it, as observed under a scanning electron microscope.](http://9gag.com/gag/aPA7oMB)
+ - 💣 [Classic](http://9gag.com/gag/aMVxmAV)
  - 😝 [The Roborock robot vacuum understood the assignment! \u2728](http://9gag.com/gag/aVvwD8O)
  - 👉 [Son\u2019s math test](http://9gag.com/gag/aD246Pw)<!-- MEMES:END -->
 

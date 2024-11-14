@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The ASP of high-end AI chips from Nvidia and others is ~5x more than that of conventional memory chips, resulting in a winner-takes-all trend in the chip sector &lpar;June Yoon/Financial Times&rpar;](http://www.techmeme.com/241114/p1#a241114p1)
  - [How to use Search and other new features in the iOS 18 Journal app](https://appleinsider.com/inside/ios-18/tips/how-to-use-search-and-other-new-features-in-the-ios-18-journal-app?utm_medium=rss)
  - [Today&#39;s NYT Mini Crossword Answers for Thursday, Nov. 14](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-thursday-nov-14/#ftag=CAD590a51e)
  - [Today&#39;s NYT Connections Hints, Answers and Help for Nov. 14, #522](https://www.cnet.com/tech/gaming/todays-nyt-connections-hints-answers-and-help-for-nov-14-522/#ftag=CAD590a51e)
- - [Today&#39;s NYT Connections: Sports Edition Hints and Answers for Nov. 14, #52](https://www.cnet.com/tech/gaming/todays-nyt-connections-sports-edition-hints-and-answers-for-nov-14-52/#ftag=CAD590a51e)
- - [Today&#39;s Wordle Hints, Answer and Help for Nov. 14, #1244](https://www.cnet.com/tech/gaming/todays-wordle-hints-answer-and-help-for-nov-14-1244/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Today&#39;s NYT Connections: Sports Edition Hints and Answers for Nov. 14, #52](https://www.cnet.com/tech/gaming/todays-nyt-connections-sports-edition-hints-and-answers-for-nov-14-52/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

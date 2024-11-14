@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Snapchat will let parents request their teen’s real-time location](https://www.theverge.com/2024/11/14/24294970/snapchat-live-location-sharing-app-feature-update)
- - [Google Gemini Live takes on Siri via a standalone iOS app](https://appleinsider.com/articles/24/11/14/google-gemini-live-takes-on-siri-via-a-standalone-ios-app?utm_medium=rss)
- - [NATO’s Tech Scouts Are Fortifying Europe for a World With Donald Trump](https://www.wired.com/story/natos-tech-scouts-are-fortifying-europe-for-a-world-after-donald-trump/)
- - [Google’s Gemini AI now has its own iPhone app](https://www.theverge.com/2024/11/14/24296295/google-gemini-app-iphone-ios-ai)
- - [Google updates Maps to help users search for products like home goods, clothing, and electronics and find stores nearby, improve traffic reporting, and more &lpar;Jess Weatherbed/The Verge&rpar;](http://www.techmeme.com/241114/p21#a241114p21)<!-- TECH:END -->
+ - [Snap unveils new Snapchat location and privacy tools, including letting parents request their teen&#39;s location and view their location-sharing settings &lpar;Quentyn Kennemer/The Verge&rpar;](http://www.techmeme.com/241114/p23#a241114p23)
+ - [OWC Envoy Ultra Thunderbolt 5 SSD offers fast 6GB/s data transfers](https://appleinsider.com/articles/24/11/14/owc-envoy-ultra-thunderbolt-5-ssd-offers-fast-6gbs-data-transfers?utm_medium=rss)
+ - [Microsoft releases Windows 11 ISOs for Arm64 PCs, letting users clean install Windows via official offline media, including the latest Snapdragon X Copilot+ PCs &lpar;Zac Bowden/Windows Central&rpar;](http://www.techmeme.com/241114/p22#a241114p22)
+ - [How to Not Die in Silicon Valley](https://www.wired.com/story/uncanny-valley-podcast-3-how-to-not-die-silicon-valley/)
+ - [Snapchat will let parents request their teen’s real-time location](https://www.theverge.com/2024/11/14/24294970/snapchat-live-location-sharing-app-feature-update)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

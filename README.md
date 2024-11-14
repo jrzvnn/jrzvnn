@@ -158,10 +158,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- TECH:START -->
  - [Apple releases updates to Final Cut Pro, adding AI-generated closed captions and Vision Pro spatial video editing, and Logic Pro for macOS and iPadOS &lpar;John Voorhees/MacStories&rpar;](http://www.techmeme.com/241114/p15#a241114p15)
+ - [More Spyware, Fewer Rules: What Trump’s Return Means for US Cybersecurity](https://www.wired.com/story/trump-administration-cybersecurity-policy-reversals/)
  - [A look at &quot;blind box livestreaming&quot;, an e-commerce trend in China that has become an entertaining and, some users and experts said, addictive pastime &lpar;New York Times&rpar;](http://www.techmeme.com/241114/p14#a241114p14)
  - [Inside the Billion-Dollar Startup Bringing AI Into the Physical World](https://www.wired.com/story/physical-intelligence-ai-robotics-startup/)
- - [PayPal will let you pool money for group gifts and shared expenses](https://www.theverge.com/2024/11/14/24295411/paypal-money-pooling-feature-group-availability)
- - [How the rise of automation in manufacturing across China, the largest market for industrial robots, is forcing the country&#39;s manufacturing workforce to adapt &lpar;Eleanor Olcott/Financial Times&rpar;](http://www.techmeme.com/241114/p13#a241114p13)<!-- TECH:END -->
+ - [PayPal will let you pool money for group gifts and shared expenses](https://www.theverge.com/2024/11/14/24295411/paypal-money-pooling-feature-group-availability)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

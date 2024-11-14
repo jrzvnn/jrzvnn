@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [File a false claim](http://9gag.com/gag/a4P3Nww)
- - 😝 [Artificial Intelligence](http://9gag.com/gag/amovopv)
- - 💣 [It&#39;s hard to stay open when you&#39;re the last store to steal from.](http://9gag.com/gag/aqynXQp)
- - 😝 [Nasty son of a b\u2026.](http://9gag.com/gag/aAyeQY0)
- - 👉 [Walking through Manhattan after the election with MAGA hat on](http://9gag.com/gag/ajP9OK1)<!-- MEMES:END -->
+ - 😝 [Congratulations idk](http://9gag.com/gag/azxmKpZ)
+ - 😝 [One Thicc Goal!](http://9gag.com/gag/aE0PMYK)
+ - 💣 [Just a normal night in San Francisco](http://9gag.com/gag/aKG7AY1)
+ - 😝 [If you\u2019re in hell, just hug the devil.](http://9gag.com/gag/a34wA95)
+ - 👉 [Crazy enough motivated enough](http://9gag.com/gag/agmAmq6)<!-- MEMES:END -->
 
 ---
 

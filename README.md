@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Inside the Billion-Dollar Startup Bringing AI Into the Physical World](https://www.wired.com/story/physical-intelligence-ai-robotics-startup/)
+ - [PayPal will let you pool money for group gifts and shared expenses](https://www.theverge.com/2024/11/14/24295411/paypal-money-pooling-feature-group-availability)
  - [How the rise of automation in manufacturing across China, the largest market for industrial robots, is forcing the country&#39;s manufacturing workforce to adapt &lpar;Eleanor Olcott/Financial Times&rpar;](http://www.techmeme.com/241114/p13#a241114p13)
  - [How Grab built GrabMaps by using data from drivers, users, and merchants in 500+ Southeast Asian cities, adding 800,000+ km of missing roads to OpenStreetMap &lpar;Michelle Anindya/Rest of World&rpar;](http://www.techmeme.com/241114/p12#a241114p12)
- - [London-based Tessl, which is building an AI to write and maintain code, raised $125M across seed and Series A, sources say at a $500M+ post-money valuation &lpar;TechCrunch&rpar;](http://www.techmeme.com/241114/p11#a241114p11)
- - [Indian mom-and-pop &quot;kirana&quot; stores are struggling to compete with quick commerce on discounts and delivery; ~200K kirana stores have closed in the past year &lpar;Rest of World&rpar;](http://www.techmeme.com/241114/p10#a241114p10)
- - [Purple Carrot Taught Me How to Cook Vegan Food Like a Pro](https://www.cnet.com/health/nutrition/purple-carrot-review/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [London-based Tessl, which is building an AI to write and maintain code, raised $125M across seed and Series A, sources say at a $500M+ post-money valuation &lpar;Ingrid Lunden/TechCrunch&rpar;](http://www.techmeme.com/241114/p11#a241114p11)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

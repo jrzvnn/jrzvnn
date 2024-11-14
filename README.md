@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [UK consumer rights group Which? launches a legal claim against Apple, seeking &amp;pound;3B in compensation, alleging that Apple locked ~40M UK users into iCloud services &lpar;Natasha Lomas/TechCrunch&rpar;](http://www.techmeme.com/241113/p50#a241113p50)
  - [Apple releases Final Cut Pro 11, along with updates to Logic Pro for Mac](https://appleinsider.com/articles/24/11/13/apple-releases-final-cut-pro-11-along-with-updates-to-logic-pro-for-mac?utm_medium=rss)
  - [Polymarket says the FBI seized CEO Shayne Coplan&#39;s phone and electronics; source: the DOJ is investigating Polymarket for allegedly accepting bets from US users &lpar;Bloomberg&rpar;](http://www.techmeme.com/241113/p49#a241113p49)
  - [How to Get Started on Bluesky](https://www.wired.com/story/how-to-get-started-on-bluesky/)
- - [FBI and CISA: Chinese hackers breached multiple US telecom companies, compromising the &quot;private communications&quot; of US officials and stealing customer call data &lpar;Sergiu Gatlan/BleepingComputer&rpar;](http://www.techmeme.com/241113/p48#a241113p48)
- - [Spotify plans to pay incentives to video creators who hit certain viewing thresholds and, in January, to let Premium subscribers view podcast videos without ads &lpar;Anne Steele/Wall Street Journal&rpar;](http://www.techmeme.com/241113/p47#a241113p47)<!-- TECH:END -->
+ - [FBI and CISA: Chinese hackers breached multiple US telecom companies, compromising the &quot;private communications&quot; of US officials and stealing customer call data &lpar;Sergiu Gatlan/BleepingComputer&rpar;](http://www.techmeme.com/241113/p48#a241113p48)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

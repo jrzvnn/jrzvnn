@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Lyndon B Johnson smiling at Albert Thomas while being sworn in as president just 2 hours after the assassination of JFK.](http://9gag.com/gag/axy96Qn)
- - 😝 [Classic](http://9gag.com/gag/aMVxmAV)
- - 💣 [Smooooothhhh](http://9gag.com/gag/aD24Z9N)
+ - 😝 [Could borrow Tim\u2019s tampons](http://9gag.com/gag/aXPg7Ed)
+ - 😝 [Calm your lids.](http://9gag.com/gag/ayNeWAy)
+ - 💣 [New Director of US National Intelligence](http://9gag.com/gag/aZZyQ39)
  - 😝 [The Roborock robot vacuum understood the assignment! \u2728](http://9gag.com/gag/aVvwD8O)
- - 👉 [Bald is beautiful](http://9gag.com/gag/a4P35dd)<!-- MEMES:END -->
+ - 👉 [`Stop hiring unqualified people` says the D-E-I hire...](http://9gag.com/gag/amovxzy)<!-- MEMES:END -->
 
 ---
 

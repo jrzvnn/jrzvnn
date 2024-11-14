@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Experts expect Trump to relax business cybersecurity rules, drop human rights concerns on spyware, and take an aggressive stance on US adversaries&#39; cyber armies &lpar;Eric Geller/Wired&rpar;](http://www.techmeme.com/241114/p19#a241114p19)
- - [11 Hacks for Surviving Cold and Flu Season Our Wellness Editors Swear By](https://www.cnet.com/health/hacks-surviving-cold-flu-season/#ftag=CAD590a51e)
- - [Get a Lifetime Babbel Subscription at Its Lowest Price Ever for Black Friday](https://www.cnet.com/deals/get-a-lifetime-babbel-subscription-at-its-lowest-price-ever-for-black-friday/#ftag=CAD590a51e)
- - [Estonian ride-hailing and food delivery startup Bolt says it hit &amp;euro;2B in annual revenue and plans a 2025 IPO; Bolt had an $8B+ valuation in January 2022 &lpar;Alessandro Parodi/Reuters&rpar;](http://www.techmeme.com/241114/p18#a241114p18)
- - [UK group wants $4 billion payout for iCloud users](https://appleinsider.com/articles/24/11/14/uk-group-wants-4-billion-payout-for-icloud-users?utm_medium=rss)<!-- TECH:END -->
+ - [Google’s Gemini AI now has its own iPhone app](https://www.theverge.com/2024/11/14/24296295/google-gemini-app-iphone-ios-ai)
+ - [Google updates Maps to help users search for products like home goods, clothing, and electronics and find stores nearby, improve traffic reporting, and more &lpar;Jess Weatherbed/The Verge&rpar;](http://www.techmeme.com/241114/p21#a241114p21)
+ - [I’m Out of Shape. Will an AI Trainer Improve My Fitness?](https://www.wired.com/story/prompt-ai-for-workouts-minimize-environmental-impact/)
+ - [X names Mahmoud Reza Banki as CFO; Banki, who Trump pardoned for making false statements in January 2021, was Tubi CFO and, a source says, joined X in November &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/241114/p20#a241114p20)
+ - [Amazon’s Colorsoft Launch Has Left Some Customers Without a Kindle at All](https://www.wired.com/story/amazon-kindle-colorsoft-trade-in-program/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

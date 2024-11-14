@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Congratulations idk](http://9gag.com/gag/azxmKpZ)
- - 😝 [File a false claim](http://9gag.com/gag/a4P3Nww)
- - 💣 [Only a man knows what a man needs](http://9gag.com/gag/aRB742j)
- - 😝 [Oh NO!](http://9gag.com/gag/abAGW68)
- - 👉 [Wow](http://9gag.com/gag/aoyP493)<!-- MEMES:END -->
+ - 😝 [5 nights at liquor store](http://9gag.com/gag/a0eN6bL)
+ - 😝 [Artificial Intelligence](http://9gag.com/gag/amovopv)
+ - 💣 [Letter seal](http://9gag.com/gag/azxmKrb)
+ - 😝 [Only a man knows what a man needs](http://9gag.com/gag/aRB742j)
+ - 👉 [CANADA what is happening to you?!!!](http://9gag.com/gag/aO87ep2)<!-- MEMES:END -->
 
 ---
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Funny dad](http://9gag.com/gag/aQzdQgz)
- - 😝 [This is what a hole in the skin looks like after a needle punctures it, as observed under a scanning electron microscope.](http://9gag.com/gag/aPA7oMB)
- - 💣 [Classic](http://9gag.com/gag/aMVxmAV)
+ - 😝 [Lyndon B Johnson smiling at Albert Thomas while being sworn in as president just 2 hours after the assassination of JFK.](http://9gag.com/gag/axy96Qn)
+ - 😝 [Classic](http://9gag.com/gag/aMVxmAV)
+ - 💣 [Smooooothhhh](http://9gag.com/gag/aD24Z9N)
  - 😝 [The Roborock robot vacuum understood the assignment! \u2728](http://9gag.com/gag/aVvwD8O)
- - 👉 [Son\u2019s math test](http://9gag.com/gag/aD246Pw)<!-- MEMES:END -->
+ - 👉 [Bald is beautiful](http://9gag.com/gag/a4P35dd)<!-- MEMES:END -->
 
 ---
 

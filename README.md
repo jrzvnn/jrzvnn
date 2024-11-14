@@ -166,9 +166,9 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Only a man knows what a man needs](http://9gag.com/gag/aRB742j)
+ - 😝 [One Thicc Goal!](http://9gag.com/gag/aE0PMYK)
  - 😝 [Letter seal](http://9gag.com/gag/azxmKrb)
- - 💣 [Pilot Forgets to Attach Tourist to Hang Glider.](http://9gag.com/gag/aO87ZxN)
+ - 💣 [New Director of US National Intelligence](http://9gag.com/gag/aZZyQ39)
  - 😝 [The Roborock robot vacuum understood the assignment! \u2728](http://9gag.com/gag/aVvwD8O)
  - 👉 [My retirement plan so far](http://9gag.com/gag/aMVxnGP)<!-- MEMES:END -->
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [New Director of US National Intelligence](http://9gag.com/gag/aZZyQ39)
- - 😝 [Son\u2019s math test](http://9gag.com/gag/aD246Pw)
- - 💣 [Classic](http://9gag.com/gag/aMVxmAV)
+ - 😝 [Lyndon B Johnson smiling at Albert Thomas while being sworn in as president just 2 hours after the assassination of JFK.](http://9gag.com/gag/axy96Qn)
+ - 😝 [11 year old goes to store and Mom gets arrested?](http://9gag.com/gag/aGydBX6)
+ - 💣 [This is called `art`](http://9gag.com/gag/aoyP4d2)
  - 😝 [The Roborock robot vacuum understood the assignment! \u2728](http://9gag.com/gag/aVvwD8O)
- - 👉 [Smooooothhhh](http://9gag.com/gag/aD24Z9N)<!-- MEMES:END -->
+ - 👉 [Son\u2019s math test](http://9gag.com/gag/aD246Pw)<!-- MEMES:END -->
 
 ---
 

@@ -166,9 +166,9 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [My retirement plan so far](http://9gag.com/gag/aMVxnGP)
- - 😝 [Letter seal](http://9gag.com/gag/azxmKrb)
- - 💣 [Oh NO!](http://9gag.com/gag/abAGW68)
+ - 😝 [Son\u2019s math test](http://9gag.com/gag/aD246Pw)
+ - 😝 [This is called `art`](http://9gag.com/gag/aoyP4d2)
+ - 💣 [Classic](http://9gag.com/gag/aMVxmAV)
  - 😝 [The Roborock robot vacuum understood the assignment! \u2728](http://9gag.com/gag/aVvwD8O)
  - 👉 [11 year old goes to store and Mom gets arrested?](http://9gag.com/gag/aGydBX6)<!-- MEMES:END -->
 

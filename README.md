@@ -158,10 +158,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- TECH:START -->
  - [Ilya Lichtenstein is sentenced to five years in prison for conspiring with his wife, Heather &quot;Razzlekhan&quot; Morgan, to launder money from the 2016 Bitfinex hack &lpar;Sabrina Willmer/Bloomberg&rpar;](http://www.techmeme.com/241114/p42#a241114p42)
+ - [My Favorite Espresso Machine Is Over Half Off Right Before Black Friday](https://www.cnet.com/deals/my-favorite-espresso-machine-is-over-half-off-right-before-black-friday/#ftag=CAD590a51e)
  - [OpenAI makes the ChatGPT desktop app for Windows available to all users, following an October release limited to paying ChatGPT subscribers &lpar;Michael Kan/PCMag&rpar;](http://www.techmeme.com/241114/p41#a241114p41)
- - [NASA’s AI Earth Copilot will take your questions about our planet](https://www.theverge.com/2024/11/14/24296758/nasa-ai-earth-copilot-microsoft)
- - [Pokémon TCG Pocket will let you trade cards starting early next year](https://www.theverge.com/2024/11/14/24296690/pokemon-tcg-pocket-trade-cards)
- - [Add Some Extra Spice to Your Christmas Tree This Season With Smart Lights](https://www.cnet.com/deals/add-some-extra-spice-to-your-christmas-tree-this-season-with-smart-lights/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Five Ways to Enhance Your Space With the Pexar Digital Picture Frame](https://www.cnet.com/news/five-ways-to-enhance-your-space-with-the-pexar-digital-picture-frame/#ftag=CAD590a51e)
+ - [NASA’s AI Earth Copilot will take your questions about our planet](https://www.theverge.com/2024/11/14/24296758/nasa-ai-earth-copilot-microsoft)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

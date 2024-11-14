@@ -167,10 +167,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [Pilot Forgets to Attach Tourist to Hang Glider.](http://9gag.com/gag/aO87ZxN)
- - 😝 [For the sake of Jake](http://9gag.com/gag/avyzWOd)
- - 💣 [My retirement plan so far](http://9gag.com/gag/aMVxnGP)
+ - 😝 [My retirement plan so far](http://9gag.com/gag/aMVxnGP)
+ - 💣 [Son\u2019s math test](http://9gag.com/gag/aD246Pw)
  - 😝 [The Roborock robot vacuum understood the assignment! \u2728](http://9gag.com/gag/aVvwD8O)
- - 👉 [Funny dad](http://9gag.com/gag/aQzdQgz)<!-- MEMES:END -->
+ - 👉 [Wow](http://9gag.com/gag/aoyP493)<!-- MEMES:END -->
 
 ---
 

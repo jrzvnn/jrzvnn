@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Google plans to stop showing political ads to users in the EU in 2025 due to uncertainties around new transparency rules coming into effect in October 2025 &lpar;Jess Weatherbed/The Verge&rpar;](http://www.techmeme.com/241114/p33#a241114p33)
+ - [Bluesky has been acting up today](https://www.theverge.com/2024/11/14/24296537/bluesky-acting-up-outage-down)
  - [Snapchat makes it easier for parents to request their teen’s real-time location](https://www.theverge.com/2024/11/14/24294970/snapchat-live-location-sharing-app-feature-update)
  - [Google says it will stop serving political ads in the EU](https://www.theverge.com/2024/11/14/24296510/google-dropping-political-ads-in-the-eu-ttpa)
- - [Apple tops list of retailers for removal of hazardous chemicals from stores](https://appleinsider.com/articles/24/11/14/apple-tops-list-of-retailers-for-removal-of-hazardous-chemicals-from-stores?utm_medium=rss)
- - [Q&amp;A with pseudonymous AI researcher Gwern Branwen on anonymity, the grand theory of intelligence, seeing LLM scaling early, AGI timelines, blogging, and more &lpar;Dwarkesh Patel/Dwarkesh Podcast&rpar;](http://www.techmeme.com/241114/p32#a241114p32)
- - [Adam Mosseri says Threads had &quot;more than 15M signups in November alone&quot; and it is &quot;going on three months with more than a million signups a day&quot; &lpar;Jay Peters/The Verge&rpar;](http://www.techmeme.com/241114/p31#a241114p31)<!-- TECH:END -->
+ - [Apple tops list of retailers for removal of hazardous chemicals from stores](https://appleinsider.com/articles/24/11/14/apple-tops-list-of-retailers-for-removal-of-hazardous-chemicals-from-stores?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

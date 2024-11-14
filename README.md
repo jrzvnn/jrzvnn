@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [After ordering some shrimp, customer returned the plate like this](http://9gag.com/gag/awyByx1)
- - 😝 [Democrats Voters are Shifting towards Trudeau](http://9gag.com/gag/a87G6nY)
- - 💣 [Artificial Intelligence](http://9gag.com/gag/amovopv)
- - 😝 [Funny dad](http://9gag.com/gag/aQzdQgz)
- - 👉 [One Thicc Goal!](http://9gag.com/gag/aE0PMYK)<!-- MEMES:END -->
+ - 😝 [Return to sender](http://9gag.com/gag/aMVxBMP)
+ - 😝 [This will cause some frixion](http://9gag.com/gag/a87G0yd)
+ - 💣 [Congratulations! You&#39;ve made it halfway through the week. Here, have something to cheer you up.](http://9gag.com/gag/aAye6oE)
+ - 😝 [Thanks God for the gravity](http://9gag.com/gag/apRGDbp)
+ - 👉 [This accident was real and everybody just ran with it](http://9gag.com/gag/a9ynv1Z)<!-- MEMES:END -->
 
 ---
 

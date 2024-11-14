@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Sonos reports Q4 revenue down 8% YoY to $1.5B, spent $4M on &quot;app recovery investments&quot;, and has released 16 app updates and &quot;restored 90% of missing features&quot; &lpar;Chris Welch/The Verge&rpar;](http://www.techmeme.com/241114/p16#a241114p16)
+ - [Refi Rates Are Easing for Homeowners: Refinance Rates for Nov. 14, 2024](https://www.cnet.com/personal-finance/mortgages/refi-rates-are-easing-for-homeowners-refinance-rates-for-nov-14-2024/#ftag=CAD590a51e)
  - [Apple releases updates to Final Cut Pro, adding AI-generated closed captions and Vision Pro spatial video editing, and Logic Pro for macOS and iPadOS &lpar;John Voorhees/MacStories&rpar;](http://www.techmeme.com/241114/p15#a241114p15)
  - [More Spyware, Fewer Rules: What Trump’s Return Means for US Cybersecurity](https://www.wired.com/story/trump-administration-cybersecurity-policy-reversals/)
- - [A look at &quot;blind box livestreaming&quot;, an e-commerce trend in China that has become an entertaining and, some users and experts said, addictive pastime &lpar;New York Times&rpar;](http://www.techmeme.com/241114/p14#a241114p14)
- - [Inside the Billion-Dollar Startup Bringing AI Into the Physical World](https://www.wired.com/story/physical-intelligence-ai-robotics-startup/)
- - [PayPal will let you pool money for group gifts and shared expenses](https://www.theverge.com/2024/11/14/24295411/paypal-money-pooling-feature-group-availability)<!-- TECH:END -->
+ - [Best CD Rates Today, Nov. 14, 2024: The Clock Is Ticking on High APYs](https://www.cnet.com/personal-finance/banking/cd-rates-today-nov-14-2024/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

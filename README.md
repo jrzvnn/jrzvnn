@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Democrats Voters are Shifting towards Trudeau](http://9gag.com/gag/a87G6nY)
- - 😝 [Walking through Manhattan after the election with MAGA hat on](http://9gag.com/gag/ajP9OK1)
- - 💣 [Wow](http://9gag.com/gag/aoyP493)
+ - 😝 [I know it&#39;s old but it&#39;s still gold.](http://9gag.com/gag/an742EB)
  - 😝 [CANADA what is happening to you?!!!](http://9gag.com/gag/aO87ep2)
- - 👉 [My retirement plan so far](http://9gag.com/gag/aMVxnGP)<!-- MEMES:END -->
+ - 💣 [Only a man knows what a man needs](http://9gag.com/gag/aRB742j)
+ - 😝 [Artificial Intelligence](http://9gag.com/gag/amovopv)
+ - 👉 [New Director of US National Intelligence](http://9gag.com/gag/aZZyQ39)<!-- MEMES:END -->
 
 ---
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Letter seal](http://9gag.com/gag/azxmKrb)
- - 😝 [This accident was real and everybody just ran with it](http://9gag.com/gag/a9ynv1Z)
- - 💣 [Democrats Voters are Shifting towards Trudeau](http://9gag.com/gag/a87G6nY)
  - 😝 [File a false claim](http://9gag.com/gag/a4P3Nww)
- - 👉 [Math is hard](http://9gag.com/gag/aqynyXM)<!-- MEMES:END -->
+ - 😝 [Artificial Intelligence](http://9gag.com/gag/amovopv)
+ - 💣 [It&#39;s hard to stay open when you&#39;re the last store to steal from.](http://9gag.com/gag/aqynXQp)
+ - 😝 [Nasty son of a b\u2026.](http://9gag.com/gag/aAyeQY0)
+ - 👉 [Walking through Manhattan after the election with MAGA hat on](http://9gag.com/gag/ajP9OK1)<!-- MEMES:END -->
 
 ---
 

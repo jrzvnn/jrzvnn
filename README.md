@@ -167,8 +167,8 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [One Thicc Goal!](http://9gag.com/gag/aE0PMYK)
- - 😝 [Letter seal](http://9gag.com/gag/azxmKrb)
- - 💣 [New Director of US National Intelligence](http://9gag.com/gag/aZZyQ39)
+ - 😝 [Funny dad](http://9gag.com/gag/aQzdQgz)
+ - 💣 [Letter seal](http://9gag.com/gag/azxmKrb)
  - 😝 [The Roborock robot vacuum understood the assignment! \u2728](http://9gag.com/gag/aVvwD8O)
  - 👉 [My retirement plan so far](http://9gag.com/gag/aMVxnGP)<!-- MEMES:END -->
 

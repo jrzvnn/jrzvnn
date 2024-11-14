@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [What a true friendship :&lpar;](http://9gag.com/gag/avyze15)
- - 😝 [At least the kid had fun](http://9gag.com/gag/avyzEeb)
- - 💣 [Fact](http://9gag.com/gag/ayNeWeW)
+ - 😝 [Pilot Forgets to Attach Tourist to Hang Glider.](http://9gag.com/gag/aO87ZxN)
+ - 😝 [My retirement plan so far](http://9gag.com/gag/aMVxnGP)
+ - 💣 [Oh NO!](http://9gag.com/gag/abAGW68)
  - 😝 [The Roborock robot vacuum understood the assignment! \u2728](http://9gag.com/gag/aVvwD8O)
- - 👉 [Indeed.](http://9gag.com/gag/aPA7oVB)<!-- MEMES:END -->
+ - 👉 [Bald is beautiful](http://9gag.com/gag/a4P35dd)<!-- MEMES:END -->
 
 ---
 

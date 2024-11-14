@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Teenage Engineering’s new OP–XY makes me wish I had a bigger budget for music gear](https://www.theverge.com/2024/11/14/24296629/teenage-engineering-op-xy-instrument-synthesizer)
- - [Save Big During the All-Clad Factory Seconds Sale](https://www.wired.com/story/all-clad-sale-november-2024/)
- - [How advanced content caching settings on the Mac works](https://appleinsider.com/inside/macos/tips/how-advanced-content-caching-settings-on-the-mac-works?utm_medium=rss)
- - [Chinese autonomous driving company Pony.ai aims to raise $195M in its US IPO, targeting a valuation of up to $4.48B &lpar;Arasu Kannagi Basil/Reuters&rpar;](http://www.techmeme.com/241114/p40#a241114p40)
- - [TikTok plugs Getty Images into its AI-generated ads and avatars](https://www.theverge.com/2024/11/14/24296636/tiktok-ai-ads-getty-images-content)<!-- TECH:END -->
+ - [OpenAI makes the ChatGPT desktop app for Windows available to all users, following an October release limited to paying ChatGPT subscribers &lpar;Michael Kan/PCMag&rpar;](http://www.techmeme.com/241114/p41#a241114p41)
+ - [NASA’s AI Earth Copilot will take your questions about our planet](https://www.theverge.com/2024/11/14/24296758/nasa-ai-earth-copilot-microsoft)
+ - [Pokémon TCG Pocket will let you trade cards starting early next year](https://www.theverge.com/2024/11/14/24296690/pokemon-tcg-pocket-trade-cards)
+ - [Add Some Extra Spice to Your Christmas Tree This Season With Smart Lights](https://www.cnet.com/deals/add-some-extra-spice-to-your-christmas-tree-this-season-with-smart-lights/#ftag=CAD590a51e)
+ - [Teenage Engineering’s new OP–XY makes me wish I had a bigger budget for music gear](https://www.theverge.com/2024/11/14/24296629/teenage-engineering-op-xy-instrument-synthesizer)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

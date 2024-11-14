@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [5 nights at liquor store](http://9gag.com/gag/a0eN6bL)
- - 😝 [Artificial Intelligence](http://9gag.com/gag/amovopv)
- - 💣 [Letter seal](http://9gag.com/gag/azxmKrb)
- - 😝 [Only a man knows what a man needs](http://9gag.com/gag/aRB742j)
- - 👉 [CANADA what is happening to you?!!!](http://9gag.com/gag/aO87ep2)<!-- MEMES:END -->
+ - 😝 [New Director of US National Intelligence](http://9gag.com/gag/aZZyQ39)
+ - 😝 [File a false claim](http://9gag.com/gag/a4P3Nww)
+ - 💣 [5 nights at liquor store](http://9gag.com/gag/a0eN6bL)
+ - 😝 [Pilot Forgets to Attach Tourist to Hang Glider.](http://9gag.com/gag/aO87ZxN)
+ - 👉 [Walking through Manhattan after the election with MAGA hat on](http://9gag.com/gag/ajP9OK1)<!-- MEMES:END -->
 
 ---
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Hack upgrades Mac Studio internal SSD for less than half of Apple&#39;s prices](https://appleinsider.com/articles/24/11/14/hack-upgrades-mac-studio-internal-ssd-for-less-than-half-of-apples-prices?utm_medium=rss)
  - [Disney’s streaming business is finally finding its footing](https://www.theverge.com/2024/11/14/24296307/disney-plus-streaming-business-profit-q4-2024-earnings)
  - [Sources: the CFPB moves to place Google under formal federal supervision, an extraordinary move that may lead to regular inspections; Google fiercely resisted &lpar;Tony Romm/Washington Post&rpar;](http://www.techmeme.com/241114/p26#a241114p26)
  - [Google releases a new free Gemini app for iOS, letting users ask questions and chat via text, voice, or camera, as well as use conversational Gemini Live &lpar;David Pierce/The Verge&rpar;](http://www.techmeme.com/241114/p25#a241114p25)
- - [This Self-Heating Mug Keeps Things Warm—and Simple](https://www.wired.com/story/ohom-ui3-self-heating-mug-rave/)
- - [Amazon announces its first Mini LED Fire TV — and this one’s also built for gaming](https://www.theverge.com/2024/11/14/24296334/amazon-fire-tv-omni-mini-led-features-specs)<!-- TECH:END -->
+ - [This Self-Heating Mug Keeps Things Warm—and Simple](https://www.wired.com/story/ohom-ui3-self-heating-mug-rave/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

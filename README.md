@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Math is hard](http://9gag.com/gag/aqynyXM)
+ - 😝 [Congratulations idk](http://9gag.com/gag/azxmKpZ)
+ - 😝 [File a false claim](http://9gag.com/gag/a4P3Nww)
+ - 💣 [Only a man knows what a man needs](http://9gag.com/gag/aRB742j)
  - 😝 [Son\u2019s math test](http://9gag.com/gag/aD246Pw)
- - 💣 [LAWD HAVE MERCY](http://9gag.com/gag/aryVAq5)
- - 😝 [Two different Walter white](http://9gag.com/gag/a5QW6xO)
- - 👉 [One Thicc Goal!](http://9gag.com/gag/aE0PMYK)<!-- MEMES:END -->
+ - 👉 [Two different Walter white](http://9gag.com/gag/a5QW6xO)<!-- MEMES:END -->
 
 ---
 

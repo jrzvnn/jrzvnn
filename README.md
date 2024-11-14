@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Apple releases updates to Final Cut Pro, adding AI-generated closed captions and Vision Pro spatial video editing, and Logic Pro for macOS and iPadOS &lpar;John Voorhees/MacStories&rpar;](http://www.techmeme.com/241114/p15#a241114p15)
+ - [A look at &quot;blind box livestreaming&quot;, an e-commerce trend in China that has become an entertaining and, some users and experts said, addictive pastime &lpar;New York Times&rpar;](http://www.techmeme.com/241114/p14#a241114p14)
  - [Inside the Billion-Dollar Startup Bringing AI Into the Physical World](https://www.wired.com/story/physical-intelligence-ai-robotics-startup/)
  - [PayPal will let you pool money for group gifts and shared expenses](https://www.theverge.com/2024/11/14/24295411/paypal-money-pooling-feature-group-availability)
- - [How the rise of automation in manufacturing across China, the largest market for industrial robots, is forcing the country&#39;s manufacturing workforce to adapt &lpar;Eleanor Olcott/Financial Times&rpar;](http://www.techmeme.com/241114/p13#a241114p13)
- - [How Grab built GrabMaps by using data from drivers, users, and merchants in 500+ Southeast Asian cities, adding 800,000+ km of missing roads to OpenStreetMap &lpar;Michelle Anindya/Rest of World&rpar;](http://www.techmeme.com/241114/p12#a241114p12)
- - [London-based Tessl, which is building an AI to write and maintain code, raised $125M across seed and Series A, sources say at a $500M+ post-money valuation &lpar;Ingrid Lunden/TechCrunch&rpar;](http://www.techmeme.com/241114/p11#a241114p11)<!-- TECH:END -->
+ - [How the rise of automation in manufacturing across China, the largest market for industrial robots, is forcing the country&#39;s manufacturing workforce to adapt &lpar;Eleanor Olcott/Financial Times&rpar;](http://www.techmeme.com/241114/p13#a241114p13)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

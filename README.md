@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Teenage Engineering’s new OP–XY makes me wish I had a bigger budget for music gear](https://www.theverge.com/2024/11/14/24296629/teenage-engineering-op-xy-instrument-synthesizer)
  - [Save Big During the All-Clad Factory Seconds Sale](https://www.wired.com/story/all-clad-sale-november-2024/)
  - [How advanced content caching settings on the Mac works](https://appleinsider.com/inside/macos/tips/how-advanced-content-caching-settings-on-the-mac-works?utm_medium=rss)
  - [Chinese autonomous driving company Pony.ai aims to raise $195M in its US IPO, targeting a valuation of up to $4.48B &lpar;Arasu Kannagi Basil/Reuters&rpar;](http://www.techmeme.com/241114/p40#a241114p40)
- - [TikTok plugs Getty Images into its AI-generated ads and avatars](https://www.theverge.com/2024/11/14/24296636/tiktok-ai-ads-getty-images-content)
- - [Medical King Recalls Portable Bed Rails, With One Death Reported. Here&#39;s What to Know](https://www.cnet.com/health/sleep/death-reported-in-medical-king-portable-bed-rails-recall-heres-what-to-know/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [TikTok plugs Getty Images into its AI-generated ads and avatars](https://www.theverge.com/2024/11/14/24296636/tiktok-ai-ads-getty-images-content)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

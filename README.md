@@ -169,8 +169,8 @@ R                        1 repo              ░░░░░░░░░░░�
  - 😝 [Congratulations idk](http://9gag.com/gag/azxmKpZ)
  - 😝 [File a false claim](http://9gag.com/gag/a4P3Nww)
  - 💣 [Only a man knows what a man needs](http://9gag.com/gag/aRB742j)
- - 😝 [Son\u2019s math test](http://9gag.com/gag/aD246Pw)
- - 👉 [Two different Walter white](http://9gag.com/gag/a5QW6xO)<!-- MEMES:END -->
+ - 😝 [Oh NO!](http://9gag.com/gag/abAGW68)
+ - 👉 [Wow](http://9gag.com/gag/aoyP493)<!-- MEMES:END -->
 
 ---
 

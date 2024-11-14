@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Congratulations idk](http://9gag.com/gag/azxmKpZ)
+ - 😝 [Letter seal](http://9gag.com/gag/azxmKrb)
  - 😝 [One Thicc Goal!](http://9gag.com/gag/aE0PMYK)
- - 💣 [Just a normal night in San Francisco](http://9gag.com/gag/aKG7AY1)
- - 😝 [If you\u2019re in hell, just hug the devil.](http://9gag.com/gag/a34wA95)
- - 👉 [Crazy enough motivated enough](http://9gag.com/gag/agmAmq6)<!-- MEMES:END -->
+ - 💣 [When the urge to fight against impossible odds takes over you](http://9gag.com/gag/aryV3K7)
+ - 😝 [Walking through Manhattan after the election with MAGA hat on](http://9gag.com/gag/ajP9OK1)
+ - 👉 [Artificial Intelligence](http://9gag.com/gag/amovopv)<!-- MEMES:END -->
 
 ---
 

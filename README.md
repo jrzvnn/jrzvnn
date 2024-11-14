@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Could borrow Tim\u2019s tampons](http://9gag.com/gag/aXPg7Ed)
- - 😝 [Calm your lids.](http://9gag.com/gag/ayNeWAy)
- - 💣 [New Director of US National Intelligence](http://9gag.com/gag/aZZyQ39)
+ - 😝 [New Director of US National Intelligence](http://9gag.com/gag/aZZyQ39)
+ - 😝 [Son\u2019s math test](http://9gag.com/gag/aD246Pw)
+ - 💣 [Classic](http://9gag.com/gag/aMVxmAV)
  - 😝 [The Roborock robot vacuum understood the assignment! \u2728](http://9gag.com/gag/aVvwD8O)
- - 👉 [`Stop hiring unqualified people` says the D-E-I hire...](http://9gag.com/gag/amovxzy)<!-- MEMES:END -->
+ - 👉 [Smooooothhhh](http://9gag.com/gag/aD24Z9N)<!-- MEMES:END -->
 
 ---
 

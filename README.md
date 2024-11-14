@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Researchers detail RoboPAIR, an algorithm that is designed to induce robots, relying on LLMs for their inputs, to ignore models&#39; safeguards without exception &lpar;Charles Q. Choi/IEEE Spectrum&rpar;](http://www.techmeme.com/241114/p6#a241114p6)
- - [Nvidia says Jetson Thor, a computer first unveiled in March 2024 and designed for testing humanoid robot software, will be available in the first half of 2025 &lpar;Yang Jie/Wall Street Journal&rpar;](http://www.techmeme.com/241114/p5#a241114p5)
- - [Sources: the UK Treasury is planning to introduce legislation on stablecoins and staking; the FCA says it plans to publish a crypto regulatory roadmap &quot;shortly&quot; &lpar;Bloomberg&rpar;](http://www.techmeme.com/241114/p4#a241114p4)
- - [Nvidia B200 GPU and Google Trillium TPU debut on the MLPerf Training v4.1 benchmark charts; the B200 posted a doubling of performance on some tests vs. the H100 &lpar;Samuel K. Moore/IEEE Spectrum&rpar;](http://www.techmeme.com/241114/p3#a241114p3)
- - [Filing: FTX co-founder Gary Wang, due for sentencing on Nov. 20, built &quot;tools&quot; to help the US government detect potential fraud in the stock and crypto markets &lpar;Ava Benny-Morrison/Bloomberg&rpar;](http://www.techmeme.com/241114/p2#a241114p2)<!-- TECH:END -->
+ - [Foxconn reports Q3 revenue up 20% YoY to a record ~$57.01B, net income of ~$1.5B vs. ~$1.408B est., and expects half of its server orders in 2025 to be for AI &lpar;Jane Lanhee Lee/Bloomberg&rpar;](http://www.techmeme.com/241114/p8#a241114p8)
+ - [A look at Vietnam&#39;s expansion in the $95B chip packaging industry; report: the country is expected to have 8%-9% of the global share by 2032, up from 1% in 2022 &lpar;Francesco Guarascio/Reuters&rpar;](http://www.techmeme.com/241114/p7#a241114p7)
+ - [Exclusive OnePlus Promo Code: Up to 20% Off | November 2024](https://www.wired.com/story/oneplus-promo-code/)
+ - [Sephora Promo Code: 10% Off In November 2024](https://www.wired.com/story/hotels-com-coupon/)
+ - [Researchers detail RoboPAIR, an algorithm that is designed to induce robots, relying on LLMs for their inputs, to ignore models&#39; safeguards without exception &lpar;Charles Q. Choi/IEEE Spectrum&rpar;](http://www.techmeme.com/241114/p6#a241114p6)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

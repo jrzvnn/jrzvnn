@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Sources: the US House Select Committee on China summoned Amazon staffers in September to discuss concerns about Amazon&#39;s shopping partnership with TikTok &lpar;Alexandra S. Levine/Bloomberg&rpar;](http://www.techmeme.com/241114/p39#a241114p39)
  - [Silk Road Creator Ross Ulbricht Is Waiting for Trump to Keep His Word—and Set Him Free](https://www.wired.com/story/silk-road-creator-ross-ulbricht-is-waiting-for-trump-to-keep-his-word-and-set-him-free/)
  - [Twinkly’s smart holiday string lights have dropped to a new low price](https://www.theverge.com/2024/11/14/24296593/twinkly-strings-smart-holiday-lights-105-ft-leds-deal-sale)
  - [Fortnite’s new TMNT roguelike shows the potential for user-made games](https://www.theverge.com/2024/11/14/24296627/fortnite-tmnt-roguelike-user-made-games-creators)
- - [Anthropic is working with the US DOE&#39;s National Nuclear Security Administration to ensure Claude models don&#39;t share dangerous information about nuclear energy &lpar;Sam Sabin/Axios&rpar;](http://www.techmeme.com/241114/p38#a241114p38)
- - [Best iMac Deals: Save on Apple&#39;s M4 and M3 Desktop Computers](https://www.cnet.com/deals/best-imac-deals/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Anthropic is working with the US DOE&#39;s National Nuclear Security Administration to ensure Claude models don&#39;t share dangerous information about nuclear energy &lpar;Sam Sabin/Axios&rpar;](http://www.techmeme.com/241114/p38#a241114p38)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

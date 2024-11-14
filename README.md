@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [One Thicc Goal!](http://9gag.com/gag/aE0PMYK)
- - 😝 [Funny dad](http://9gag.com/gag/aQzdQgz)
- - 💣 [Letter seal](http://9gag.com/gag/azxmKrb)
+ - 😝 [When the urge to fight against impossible odds takes over you](http://9gag.com/gag/aryV3K7)
+ - 😝 [For the sake of Jake](http://9gag.com/gag/avyzWOd)
+ - 💣 [My retirement plan so far](http://9gag.com/gag/aMVxnGP)
  - 😝 [The Roborock robot vacuum understood the assignment! \u2728](http://9gag.com/gag/aVvwD8O)
- - 👉 [My retirement plan so far](http://9gag.com/gag/aMVxnGP)<!-- MEMES:END -->
+ - 👉 [Son\u2019s math test](http://9gag.com/gag/aD246Pw)<!-- MEMES:END -->
 
 ---
 

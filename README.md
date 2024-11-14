@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Apple faces a new $3.75 billion antitrust lawsuit over iCloud storage](https://www.theverge.com/2024/11/14/24296294/apple-uk-consumer-antitrust-lawsuit-icloud-storage)
  - [The 5 Best Bamboo Sheets for Silky-Soft Sleep &lpar;2024&rpar;](https://www.wired.com/gallery/best-bamboo-sheets/)
  - [The EU fines Meta &amp;euro;797.72M for tying Facebook Marketplace to Facebook and &quot;imposing unfair trading conditions&quot; on rival websites, the first such fine for Meta &lpar;Javier Espinoza/Financial Times&rpar;](http://www.techmeme.com/241114/p24#a241114p24)
  - [Snap unveils new Snapchat location and privacy tools, including letting parents request their teen&#39;s location and view their location-sharing settings &lpar;Quentyn Kennemer/The Verge&rpar;](http://www.techmeme.com/241114/p23#a241114p23)
- - [OWC Envoy Ultra Thunderbolt 5 SSD offers fast 6GB/s data transfers](https://appleinsider.com/articles/24/11/14/owc-envoy-ultra-thunderbolt-5-ssd-offers-fast-6gbs-data-transfers?utm_medium=rss)
- - [Microsoft releases Windows 11 ISOs for Arm64 PCs, letting users clean install Windows via official offline media, including the latest Snapdragon X Copilot+ PCs &lpar;Zac Bowden/Windows Central&rpar;](http://www.techmeme.com/241114/p22#a241114p22)<!-- TECH:END -->
+ - [OWC Envoy Ultra Thunderbolt 5 SSD offers fast 6GB/s data transfers](https://appleinsider.com/articles/24/11/14/owc-envoy-ultra-thunderbolt-5-ssd-offers-fast-6gbs-data-transfers?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

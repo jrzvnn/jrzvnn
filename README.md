@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Experts expect Trump to relax business cybersecurity rules, drop human rights concerns on spyware, and take an aggressive stance on US adversaries&#39; cyber armies &lpar;Eric Geller/Wired&rpar;](http://www.techmeme.com/241114/p19#a241114p19)
+ - [11 Hacks for Surviving Cold and Flu Season Our Wellness Editors Swear By](https://www.cnet.com/health/hacks-surviving-cold-flu-season/#ftag=CAD590a51e)
+ - [Get a Lifetime Babbel Subscription at Its Lowest Price Ever for Black Friday](https://www.cnet.com/deals/get-a-lifetime-babbel-subscription-at-its-lowest-price-ever-for-black-friday/#ftag=CAD590a51e)
  - [Estonian ride-hailing and food delivery startup Bolt says it hit &amp;euro;2B in annual revenue and plans a 2025 IPO; Bolt had an $8B+ valuation in January 2022 &lpar;Alessandro Parodi/Reuters&rpar;](http://www.techmeme.com/241114/p18#a241114p18)
- - [UK group wants $4 billion payout for iCloud users](https://appleinsider.com/articles/24/11/14/uk-group-wants-4-billion-payout-for-icloud-users?utm_medium=rss)
- - [JD.com reports Q3 revenue up 5.1% YoY to ~$36B, above $35.9B est., and net income up 48% YoY to ~$1.6B, suggesting a recovery in segments of China&#39;s economy &lpar;Bloomberg&rpar;](http://www.techmeme.com/241114/p17#a241114p17)
- - [The Great American Microchip Mobilization](https://www.wired.com/story/intel-great-american-microchip-mobilization/)
- - [Sonos reports Q4 revenue down 8% YoY to $1.5B, spent $4M on &quot;app recovery investments&quot;, and has released 16 app updates and &quot;restored 90% of missing features&quot; &lpar;Chris Welch/The Verge&rpar;](http://www.techmeme.com/241114/p16#a241114p16)<!-- TECH:END -->
+ - [UK group wants $4 billion payout for iCloud users](https://appleinsider.com/articles/24/11/14/uk-group-wants-4-billion-payout-for-icloud-users?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

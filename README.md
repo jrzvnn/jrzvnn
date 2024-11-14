@@ -158,10 +158,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- TECH:START -->
  - [How to use Search and other new features in the iOS 18 Journal app](https://appleinsider.com/inside/ios-18/tips/how-to-use-search-and-other-new-features-in-the-ios-18-journal-app?utm_medium=rss)
- - [Sources: Thrive Capital is in talks to invest ~$1B in analytics software maker Databricks at a ~$55B valuation; PitchBook: DataBricks has raised $4B+ so far &lpar;Bloomberg&rpar;](http://www.techmeme.com/241113/p53#a241113p53)
- - [Australia plans to enact laws imposing a &quot;digital duty of care&quot; on big tech, which would make companies liable for citizens&#39; safety online &lpar;Nicole Hegarty/ABC&rpar;](http://www.techmeme.com/241113/p52#a241113p52)
- - [Google says real-time protections against scam calls and malicious apps are rolling out on Pixel 6 or newer devices and coming soon to more Android phones &lpar;Abner Li/9to5Google&rpar;](http://www.techmeme.com/241113/p51#a241113p51)
- - [Review: Dragon Quest III HD-2D Remake Gives a Modern Sheen to a Classic RPG](https://www.cnet.com/tech/gaming/review-dragon-quest-iii-hd-2d-remake-gives-a-modern-sheen-to-a-classic-rpg/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Today&#39;s NYT Mini Crossword Answers for Thursday, Nov. 14](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-thursday-nov-14/#ftag=CAD590a51e)
+ - [Today&#39;s NYT Connections Hints, Answers and Help for Nov. 14, #522](https://www.cnet.com/tech/gaming/todays-nyt-connections-hints-answers-and-help-for-nov-14-522/#ftag=CAD590a51e)
+ - [Today&#39;s NYT Connections: Sports Edition Hints and Answers for Nov. 14, #52](https://www.cnet.com/tech/gaming/todays-nyt-connections-sports-edition-hints-and-answers-for-nov-14-52/#ftag=CAD590a51e)
+ - [Today&#39;s Wordle Hints, Answer and Help for Nov. 14, #1244](https://www.cnet.com/tech/gaming/todays-wordle-hints-answer-and-help-for-nov-14-1244/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

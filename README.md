@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Bruce has no chill.](http://9gag.com/gag/aXPg4L9)
- - 😝 [`Stop hiring unqualified people` says the D-E-I hire...](http://9gag.com/gag/amovxzy)
- - 💣 [Could borrow Tim\u2019s tampons](http://9gag.com/gag/aXPg7Ed)
+ - 😝 [Walking through Manhattan after the election with MAGA hat on](http://9gag.com/gag/ajP9OK1)
+ - 😝 [New Director of US National Intelligence](http://9gag.com/gag/aZZyQ39)
+ - 💣 [What is that Pokemon?](http://9gag.com/gag/aD24bLO)
  - 😝 [The Roborock robot vacuum understood the assignment! \u2728](http://9gag.com/gag/aVvwD8O)
- - 👉 [This is called `art`](http://9gag.com/gag/aoyP4d2)<!-- MEMES:END -->
+ - 👉 [Smooooothhhh](http://9gag.com/gag/aD24Z9N)<!-- MEMES:END -->
 
 ---
 

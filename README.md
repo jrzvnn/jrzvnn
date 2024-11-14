@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [UK consumer rights group Which? launches a legal claim against Apple, seeking &amp;pound;3B in compensation, alleging that Apple locked ~40M UK users into iCloud services &lpar;Natasha Lomas/TechCrunch&rpar;](http://www.techmeme.com/241113/p50#a241113p50)
- - [Apple releases Final Cut Pro 11, along with updates to Logic Pro for Mac](https://appleinsider.com/articles/24/11/13/apple-releases-final-cut-pro-11-along-with-updates-to-logic-pro-for-mac?utm_medium=rss)
- - [Polymarket says the FBI seized CEO Shayne Coplan&#39;s phone and electronics; source: the DOJ is investigating Polymarket for allegedly accepting bets from US users &lpar;Bloomberg&rpar;](http://www.techmeme.com/241113/p49#a241113p49)
- - [How to Get Started on Bluesky](https://www.wired.com/story/how-to-get-started-on-bluesky/)
- - [FBI and CISA: Chinese hackers breached multiple US telecom companies, compromising the &quot;private communications&quot; of US officials and stealing customer call data &lpar;Sergiu Gatlan/BleepingComputer&rpar;](http://www.techmeme.com/241113/p48#a241113p48)<!-- TECH:END -->
+ - [Google says real-time protections against scam calls and malicious apps are rolling out on Pixel 6 or newer devices and coming soon to more Android phones &lpar;Abner Li/9to5Google&rpar;](http://www.techmeme.com/241113/p51#a241113p51)
+ - [Review: Dragon Quest III HD-2D Remake Gives a Modern Sheen to a Classic RPG](https://www.cnet.com/tech/gaming/review-dragon-quest-iii-hd-2d-remake-gives-a-modern-sheen-to-a-classic-rpg/#ftag=CAD590a51e)
+ - [Teen Behind Hundreds of Swatting Attacks Pleads Guilty to Federal Charges](https://www.wired.com/story/alan-filion-torswats-guilty-plea-federal-charges-swatting/)
+ - [Here Are the Top 10 Passwords for 2024, and They&#39;re All Embarrassing](https://www.cnet.com/tech/services-and-software/here-are-the-top-10-passwords-for-2024-and-theyre-all-embarrassing/#ftag=CAD590a51e)
+ - [UK consumer rights group Which? launches a legal claim against Apple, seeking &amp;pound;3B in compensation, alleging that Apple locked ~40M UK users into iCloud services &lpar;Natasha Lomas/TechCrunch&rpar;](http://www.techmeme.com/241113/p50#a241113p50)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

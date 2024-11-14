@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Apple Vision Pro gets new The Weeknd immersive content &amp; &#39;Concert for One&#39; series](https://appleinsider.com/articles/24/11/14/apple-vision-pro-gets-new-the-weeknd-immersive-content-concert-for-one-series?utm_medium=rss)
  - [BSA, representing OpenAI, Microsoft, and others, urges Trump to review rules that are &quot;unnecessarily impeding AI adoption&quot; but to keep some of Biden&#39;s moves &lpar;Morgan Chalfant/Semafor&rpar;](http://www.techmeme.com/241114/p37#a241114p37)
  - [We Break Down the Internet’s Future Under Trump 2.0](https://www.wired.com/story/the-internets-future-under-donald-trump/)
- - [Add a Space Heater and Watch Your Energy Bill Drop by This Much](https://www.cnet.com/home/kitchen-and-household/add-a-space-heater-and-watch-your-energy-bill-drop-by-this-much/#ftag=CAD590a51e)
- - [JY03 Drone for Adults](https://www.cnet.com/tech/computing/jy03-drone-for-adults-dpnl/#ftag=CAD590a51e)
- - [Senate Democrats Are Running Out of Time to Pass a Shield Law to Protect Journalism](https://www.wired.com/story/press-act-journalism-shield-law-senate-democrats-trump/)<!-- TECH:END -->
+ - [Senate Democrats Are Running Out of Time to Pass a Shield Law to Protect Journalism](https://www.wired.com/story/press-act-journalism-shield-law-senate-democrats-trump/)
+ - [OpenAI says the ChatGPT desktop app for MacOS can now read code in some developer-focused apps, including VS Code, Xcode, TextEdit, and Terminal &lpar;Maxwell Zeff/TechCrunch&rpar;](http://www.techmeme.com/241114/p36#a241114p36)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

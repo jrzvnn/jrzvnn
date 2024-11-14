@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Return to sender](http://9gag.com/gag/aMVxBMP)
- - 😝 [This will cause some frixion](http://9gag.com/gag/a87G0yd)
- - 💣 [Congratulations! You&#39;ve made it halfway through the week. Here, have something to cheer you up.](http://9gag.com/gag/aAye6oE)
- - 😝 [Thanks God for the gravity](http://9gag.com/gag/apRGDbp)
- - 👉 [This accident was real and everybody just ran with it](http://9gag.com/gag/a9ynv1Z)<!-- MEMES:END -->
+ - 😝 [Casual encounter with a Cassowary - the most dangerous bird in the world.](http://9gag.com/gag/ae9D9pB)
+ - 😝 [This accident was real and everybody just ran with it](http://9gag.com/gag/a9ynv1Z)
+ - 💣 [Math is hard](http://9gag.com/gag/aqynyXM)
+ - 😝 [Son\u2019s math test](http://9gag.com/gag/aD246Pw)
+ - 👉 [Democrats Voters are Shifting towards Trudeau](http://9gag.com/gag/a87G6nY)<!-- MEMES:END -->
 
 ---
 

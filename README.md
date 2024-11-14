@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Thomas E. Kurtz, an American mathematician, computer scientist, and co-inventor of the BASIC programming language with John Kemeny, died at 96 on November 12 &lpar;Dag Spicer/CHM&rpar;](http://www.techmeme.com/241114/p43#a241114p43)
+ - [The best instant cameras you can buy right now](https://www.theverge.com/23133103/best-instant-cameras-fujifilm-polaroid-kodak)
  - [Ilya Lichtenstein is sentenced to five years in prison for conspiring with his wife, Heather &quot;Razzlekhan&quot; Morgan, to launder money from the 2016 Bitfinex hack &lpar;Sabrina Willmer/Bloomberg&rpar;](http://www.techmeme.com/241114/p42#a241114p42)
  - [My Favorite Espresso Machine Is Over Half Off Right Before Black Friday](https://www.cnet.com/deals/my-favorite-espresso-machine-is-over-half-off-right-before-black-friday/#ftag=CAD590a51e)
- - [OpenAI makes the ChatGPT desktop app for Windows available to all users, following an October release limited to paying ChatGPT subscribers &lpar;Michael Kan/PCMag&rpar;](http://www.techmeme.com/241114/p41#a241114p41)
- - [Five Ways to Enhance Your Space With the Pexar Digital Picture Frame](https://www.cnet.com/news/five-ways-to-enhance-your-space-with-the-pexar-digital-picture-frame/#ftag=CAD590a51e)
- - [NASA’s AI Earth Copilot will take your questions about our planet](https://www.theverge.com/2024/11/14/24296758/nasa-ai-earth-copilot-microsoft)<!-- TECH:END -->
+ - [OpenAI makes the ChatGPT desktop app for Windows available to all users, following an October release limited to paying ChatGPT subscribers &lpar;Michael Kan/PCMag&rpar;](http://www.techmeme.com/241114/p41#a241114p41)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

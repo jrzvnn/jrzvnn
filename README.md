@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Nvidia B200 GPU and Google Trillium TPU debut on the MLPerf Training v4.1 benchmark charts; the B200 posted a doubling of performance on some tests vs. the H100 &lpar;Samuel K. Moore/IEEE Spectrum&rpar;](http://www.techmeme.com/241114/p3#a241114p3)
+ - [Filing: FTX co-founder Gary Wang, due for sentencing on Nov. 20, built &quot;tools&quot; to help the US government detect potential fraud in the stock and crypto markets &lpar;Ava Benny-Morrison/Bloomberg&rpar;](http://www.techmeme.com/241114/p2#a241114p2)
  - [The ASP of high-end AI chips from Nvidia and others is ~5x more than that of conventional memory chips, resulting in a winner-takes-all trend in the chip sector &lpar;June Yoon/Financial Times&rpar;](http://www.techmeme.com/241114/p1#a241114p1)
- - [How to use Search and other new features in the iOS 18 Journal app](https://appleinsider.com/inside/ios-18/tips/how-to-use-search-and-other-new-features-in-the-ios-18-journal-app?utm_medium=rss)
- - [Today&#39;s NYT Mini Crossword Answers for Thursday, Nov. 14](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-thursday-nov-14/#ftag=CAD590a51e)
- - [Today&#39;s NYT Connections Hints, Answers and Help for Nov. 14, #522](https://www.cnet.com/tech/gaming/todays-nyt-connections-hints-answers-and-help-for-nov-14-522/#ftag=CAD590a51e)
- - [Today&#39;s NYT Connections: Sports Edition Hints and Answers for Nov. 14, #52](https://www.cnet.com/tech/gaming/todays-nyt-connections-sports-edition-hints-and-answers-for-nov-14-52/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Celebrate the Holidays With Final Fantasy and More on Apple Arcade](https://www.cnet.com/tech/gaming/celebrate-the-holidays-with-final-fantasy-and-more-on-apple-arcade/#ftag=CAD590a51e)
+ - [How to use Search and other new features in the iOS 18 Journal app](https://appleinsider.com/inside/ios-18/tips/how-to-use-search-and-other-new-features-in-the-ios-18-journal-app?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

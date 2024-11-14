@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Snapchat will let parents request their teen’s real-time location](https://www.theverge.com/2024/11/14/24294970/snapchat-live-location-sharing-app-feature-update)
+ - [Google Gemini Live takes on Siri via a standalone iOS app](https://appleinsider.com/articles/24/11/14/google-gemini-live-takes-on-siri-via-a-standalone-ios-app?utm_medium=rss)
+ - [NATO’s Tech Scouts Are Fortifying Europe for a World With Donald Trump](https://www.wired.com/story/natos-tech-scouts-are-fortifying-europe-for-a-world-after-donald-trump/)
  - [Google’s Gemini AI now has its own iPhone app](https://www.theverge.com/2024/11/14/24296295/google-gemini-app-iphone-ios-ai)
- - [Google updates Maps to help users search for products like home goods, clothing, and electronics and find stores nearby, improve traffic reporting, and more &lpar;Jess Weatherbed/The Verge&rpar;](http://www.techmeme.com/241114/p21#a241114p21)
- - [I’m Out of Shape. Will an AI Trainer Improve My Fitness?](https://www.wired.com/story/prompt-ai-for-workouts-minimize-environmental-impact/)
- - [X names Mahmoud Reza Banki as CFO; Banki, who Trump pardoned for making false statements in January 2021, was Tubi CFO and, a source says, joined X in November &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/241114/p20#a241114p20)
- - [Amazon’s Colorsoft Launch Has Left Some Customers Without a Kindle at All](https://www.wired.com/story/amazon-kindle-colorsoft-trade-in-program/)<!-- TECH:END -->
+ - [Google updates Maps to help users search for products like home goods, clothing, and electronics and find stores nearby, improve traffic reporting, and more &lpar;Jess Weatherbed/The Verge&rpar;](http://www.techmeme.com/241114/p21#a241114p21)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

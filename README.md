@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [When the urge to fight against impossible odds takes over you](http://9gag.com/gag/aryV3K7)
+ - 😝 [Pilot Forgets to Attach Tourist to Hang Glider.](http://9gag.com/gag/aO87ZxN)
  - 😝 [For the sake of Jake](http://9gag.com/gag/avyzWOd)
  - 💣 [My retirement plan so far](http://9gag.com/gag/aMVxnGP)
  - 😝 [The Roborock robot vacuum understood the assignment! \u2728](http://9gag.com/gag/aVvwD8O)
- - 👉 [Son\u2019s math test](http://9gag.com/gag/aD246Pw)<!-- MEMES:END -->
+ - 👉 [Funny dad](http://9gag.com/gag/aQzdQgz)<!-- MEMES:END -->
 
 ---
 

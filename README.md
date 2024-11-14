@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [New Director of US National Intelligence](http://9gag.com/gag/aZZyQ39)
- - 😝 [File a false claim](http://9gag.com/gag/a4P3Nww)
- - 💣 [5 nights at liquor store](http://9gag.com/gag/a0eN6bL)
- - 😝 [Pilot Forgets to Attach Tourist to Hang Glider.](http://9gag.com/gag/aO87ZxN)
- - 👉 [Walking through Manhattan after the election with MAGA hat on](http://9gag.com/gag/ajP9OK1)<!-- MEMES:END -->
+ - 😝 [Democrats Voters are Shifting towards Trudeau](http://9gag.com/gag/a87G6nY)
+ - 😝 [Walking through Manhattan after the election with MAGA hat on](http://9gag.com/gag/ajP9OK1)
+ - 💣 [Wow](http://9gag.com/gag/aoyP493)
+ - 😝 [CANADA what is happening to you?!!!](http://9gag.com/gag/aO87ep2)
+ - 👉 [My retirement plan so far](http://9gag.com/gag/aMVxnGP)<!-- MEMES:END -->
 
 ---
 

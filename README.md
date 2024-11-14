@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [He\u2019s Wikus, of course he does](http://9gag.com/gag/a7oW0jA)
- - 😝 [Democrats Voters are Shifting towards Trudeau](http://9gag.com/gag/a87G6nY)
- - 💣 [Funny dad](http://9gag.com/gag/aQzdQgz)
+ - 😝 [Math is hard](http://9gag.com/gag/aqynyXM)
  - 😝 [Son\u2019s math test](http://9gag.com/gag/aD246Pw)
- - 👉 [Math is hard](http://9gag.com/gag/aqynyXM)<!-- MEMES:END -->
+ - 💣 [LAWD HAVE MERCY](http://9gag.com/gag/aryVAq5)
+ - 😝 [Two different Walter white](http://9gag.com/gag/a5QW6xO)
+ - 👉 [One Thicc Goal!](http://9gag.com/gag/aE0PMYK)<!-- MEMES:END -->
 
 ---
 

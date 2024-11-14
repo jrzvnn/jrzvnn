@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Not even Spotify is safe from AI slop](https://www.theverge.com/2024/11/14/24294995/spotify-ai-fake-albums-scam-distributors-metadata)
  - [Meta hit with $840 million fine for linking Facebook and Marketplace](https://www.theverge.com/2024/11/14/24296391/meta-facebook-marketplace-840-million-eu-fine)
  - [The Onion just bought Infowars](https://www.theverge.com/2024/11/14/24296375/the-onion-infowars-acquisition-alex-jones)
  - [11 Best Lego Gifts for Brick Builders &lpar;2024&rpar;](https://www.wired.com/gallery/gifts-for-lego-lovers/)
- - [Why are cassette and CD players so bulky now?](https://www.theverge.com/24295971/we-are-rewind-fiio-cassette-player-cd-dm-13)
- - [How Trump’s second term could be bad for EVs — but great for Tesla](https://www.theverge.com/24296301/elon-musk-donald-trump-tesla-evs-climate-change-auto-industry-tariffs-decoder-podcast)<!-- TECH:END -->
+ - [Why are cassette and CD players so bulky now?](https://www.theverge.com/24295971/we-are-rewind-fiio-cassette-player-cd-dm-13)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

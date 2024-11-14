@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Top Canon Promo Code and Deals for November 2024](https://www.wired.com/story/canon-promo-code/)
- - [Q&amp;A with Spotify Co-President and CTO Gustav S&amp;ouml;derstr&amp;ouml;m on AI-generated music, NotebookLM podcasts, AI recommendations, improving discoverability, and more &lpar;Alex Kantrowitz/Big Technology&rpar;](http://www.techmeme.com/241114/p9#a241114p9)
- - [Foxconn reports Q3 revenue up 20% YoY to a record ~$57.01B, net income of ~$1.5B vs. ~$1.408B est., and expects half of its server orders in 2025 to be for AI &lpar;Jane Lanhee Lee/Bloomberg&rpar;](http://www.techmeme.com/241114/p8#a241114p8)
- - [Sephora Promo Code: 10% Off In November 2024](https://www.wired.com/story/sephora-promo-code/)
- - [A look at Vietnam&#39;s expansion in the $95B chip packaging industry; report: the country is expected to have 8%-9% of the global share by 2032, up from 1% in 2022 &lpar;Francesco Guarascio/Reuters&rpar;](http://www.techmeme.com/241114/p7#a241114p7)<!-- TECH:END -->
+ - [Indian mom-and-pop &quot;kirana&quot; stores are struggling to compete with quick commerce on discounts and delivery; ~200K kirana stores have closed in the past year &lpar;Rest of World&rpar;](http://www.techmeme.com/241114/p10#a241114p10)
+ - [Purple Carrot Taught Me How to Cook Vegan Food Like a Pro](https://www.cnet.com/health/nutrition/purple-carrot-review/#ftag=CAD590a51e)
+ - [Here&#39;s When Call of Duty Black Ops 6 and Warzone Season 1 Goes Live Today](https://www.cnet.com/tech/gaming/heres-when-call-of-duty-black-ops-6-and-warzone-season-1-goes-live-today/#ftag=CAD590a51e)
+ - [Best Internet Providers in Greenwood, Indiana](https://www.cnet.com/home/internet/best-internet-providers-in-greenwood-in/#ftag=CAD590a51e)
+ - [Top Canon Promo Code and Deals for November 2024](https://www.wired.com/story/canon-promo-code/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

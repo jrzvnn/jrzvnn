@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Senate Democrats Are Running Out of Time to Pass a Shield Law to Protect Journalism](https://www.wired.com/story/press-act-journalism-shield-law-senate-democrats-trump/)
  - [OpenAI says the ChatGPT desktop app for MacOS can now read code in some developer-focused apps, including VS Code, Xcode, TextEdit, and Terminal &lpar;Maxwell Zeff/TechCrunch&rpar;](http://www.techmeme.com/241114/p36#a241114p36)
  - [CFPB is reportedly trying to put Google under bank-like supervision](https://www.theverge.com/2024/11/14/24296500/cfpb-google-federal-supervision)
  - [Sources: the FTC plans to probe allegations that Microsoft is abusing its market power in productivity software to prevent customers from leaving Azure &lpar;Financial Times&rpar;](http://www.techmeme.com/241114/p35#a241114p35)
- - [Fran&amp;ccedil;ois Chollet, the AI pioneer who created Keras, says he is leaving Google after nearly 10 years to start a new company, but doesn&#39;t reveal many details &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/241114/p34#a241114p34)
- - [Ford penalized $165 million over moving too slowly on a rearview camera recall](https://www.theverge.com/2024/11/14/24296494/ford-nhtsa-recall-fine-rearview-camera)<!-- TECH:END -->
+ - [Fran&amp;ccedil;ois Chollet, the AI pioneer who created Keras, says he is leaving Google after nearly 10 years to start a new company, but doesn&#39;t reveal many details &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/241114/p34#a241114p34)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [11 year old goes to store and Mom gets arrested?](http://9gag.com/gag/aGydBX6)
  - 😝 [Pilot Forgets to Attach Tourist to Hang Glider.](http://9gag.com/gag/aO87ZxN)
- - 😝 [My retirement plan so far](http://9gag.com/gag/aMVxnGP)
- - 💣 [Son\u2019s math test](http://9gag.com/gag/aD246Pw)
+ - 💣 [My retirement plan so far](http://9gag.com/gag/aMVxnGP)
  - 😝 [The Roborock robot vacuum understood the assignment! \u2728](http://9gag.com/gag/aVvwD8O)
- - 👉 [Wow](http://9gag.com/gag/aoyP493)<!-- MEMES:END -->
+ - 👉 [Son\u2019s math test](http://9gag.com/gag/aD246Pw)<!-- MEMES:END -->
 
 ---
 

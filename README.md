@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [YouTube is getting in on the digital gifting game](https://www.theverge.com/2024/11/14/24296327/youtube-livestream-gifts-jewels)
- - [M4 Pro Mac mini vs M1 Max Mac Studio compared: Smaller and better](https://appleinsider.com/inside/mac-mini/vs/m4-pro-mac-mini-vs-m1-max-mac-studio-compared-smaller-and-better?utm_medium=rss)
- - [Hack upgrades Mac Studio internal SSD for less than half of Apple&#39;s prices](https://appleinsider.com/articles/24/11/14/hack-upgrades-mac-studio-internal-ssd-for-less-than-half-of-apples-prices?utm_medium=rss)
- - [Disney’s streaming business is finally finding its footing](https://www.theverge.com/2024/11/14/24296307/disney-plus-streaming-business-profit-q4-2024-earnings)
- - [Sources: the CFPB moves to place Google under formal federal supervision, an extraordinary move that may lead to regular inspections; Google fiercely resisted &lpar;Tony Romm/Washington Post&rpar;](http://www.techmeme.com/241114/p26#a241114p26)<!-- TECH:END -->
+ - [Meta hit with $840 million fine for linking Facebook and Marketplace](https://www.theverge.com/2024/11/14/24296391/meta-facebook-marketplace-840-million-eu-fine)
+ - [The Onion just bought Infowars](https://www.theverge.com/2024/11/14/24296375/the-onion-infowars-acquisition-alex-jones)
+ - [11 Best Lego Gifts for Brick Builders &lpar;2024&rpar;](https://www.wired.com/gallery/gifts-for-lego-lovers/)
+ - [Why are cassette and CD players so bulky now?](https://www.theverge.com/24295971/we-are-rewind-fiio-cassette-player-cd-dm-13)
+ - [How Trump’s second term could be bad for EVs — but great for Tesla](https://www.theverge.com/24296301/elon-musk-donald-trump-tesla-evs-climate-change-auto-industry-tariffs-decoder-podcast)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

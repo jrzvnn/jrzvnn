@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [Son\u2019s math test](http://9gag.com/gag/aD246Pw)
  - 😝 [Lyndon B Johnson smiling at Albert Thomas while being sworn in as president just 2 hours after the assassination of JFK.](http://9gag.com/gag/axy96Qn)
- - 😝 [11 year old goes to store and Mom gets arrested?](http://9gag.com/gag/aGydBX6)
- - 💣 [This is called `art`](http://9gag.com/gag/aoyP4d2)
+ - 💣 [This is what a hole in the skin looks like after a needle punctures it, as observed under a scanning electron microscope.](http://9gag.com/gag/aPA7oMB)
  - 😝 [The Roborock robot vacuum understood the assignment! \u2728](http://9gag.com/gag/aVvwD8O)
- - 👉 [Son\u2019s math test](http://9gag.com/gag/aD246Pw)<!-- MEMES:END -->
+ - 👉 [11 year old goes to store and Mom gets arrested?](http://9gag.com/gag/aGydBX6)<!-- MEMES:END -->
 
 ---
 

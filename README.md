@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Silk Road Creator Ross Ulbricht Is Waiting for Trump to Keep His Word—and Set Him Free](https://www.wired.com/story/silk-road-creator-ross-ulbricht-is-waiting-for-trump-to-keep-his-word-and-set-him-free/)
+ - [Twinkly’s smart holiday string lights have dropped to a new low price](https://www.theverge.com/2024/11/14/24296593/twinkly-strings-smart-holiday-lights-105-ft-leds-deal-sale)
+ - [Fortnite’s new TMNT roguelike shows the potential for user-made games](https://www.theverge.com/2024/11/14/24296627/fortnite-tmnt-roguelike-user-made-games-creators)
  - [Anthropic is working with the US DOE&#39;s National Nuclear Security Administration to ensure Claude models don&#39;t share dangerous information about nuclear energy &lpar;Sam Sabin/Axios&rpar;](http://www.techmeme.com/241114/p38#a241114p38)
- - [Bigfoot, apple core emoji may land on iMessage in late 2025](https://appleinsider.com/articles/24/11/14/bigfoot-apple-core-emoji-may-land-on-imessage-in-late-2025?utm_medium=rss)
- - [This M3 MacBook Air with 24GB RAM, 512GB SSD just plunged to all-time low price of $1,299](https://appleinsider.com/articles/24/11/14/this-m3-macbook-air-with-24gb-ram-512gb-ssd-just-plunged-to-all-time-low-price-of-1299?utm_medium=rss)
- - [Apple Vision Pro gets new The Weeknd immersive content &amp; &#39;Concert for One&#39; series](https://appleinsider.com/articles/24/11/14/apple-vision-pro-gets-new-the-weeknd-immersive-content-concert-for-one-series?utm_medium=rss)
- - [BSA, representing OpenAI, Microsoft, and others, urges Trump to review rules that are &quot;unnecessarily impeding AI adoption&quot; but to keep some of Biden&#39;s moves &lpar;Morgan Chalfant/Semafor&rpar;](http://www.techmeme.com/241114/p37#a241114p37)<!-- TECH:END -->
+ - [Best iMac Deals: Save on Apple&#39;s M4 and M3 Desktop Computers](https://www.cnet.com/deals/best-imac-deals/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Oh NO!](http://9gag.com/gag/abAGW68)
- - 😝 [Pilot Forgets to Attach Tourist to Hang Glider.](http://9gag.com/gag/aO87ZxN)
- - 💣 [Bald is beautiful](http://9gag.com/gag/a4P35dd)
+ - 😝 [My retirement plan so far](http://9gag.com/gag/aMVxnGP)
+ - 😝 [Letter seal](http://9gag.com/gag/azxmKrb)
+ - 💣 [Oh NO!](http://9gag.com/gag/abAGW68)
  - 😝 [The Roborock robot vacuum understood the assignment! \u2728](http://9gag.com/gag/aVvwD8O)
- - 👉 [Letter seal](http://9gag.com/gag/azxmKrb)<!-- MEMES:END -->
+ - 👉 [11 year old goes to store and Mom gets arrested?](http://9gag.com/gag/aGydBX6)<!-- MEMES:END -->
 
 ---
 

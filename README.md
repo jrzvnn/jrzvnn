@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Fact](http://9gag.com/gag/ayNeWeW)
- - 😝 [5 nights at liquor store](http://9gag.com/gag/a0eN6bL)
- - 💣 [Oh NO!](http://9gag.com/gag/abAGW68)
+ - 😝 [Only a man knows what a man needs](http://9gag.com/gag/aRB742j)
+ - 😝 [Letter seal](http://9gag.com/gag/azxmKrb)
+ - 💣 [Pilot Forgets to Attach Tourist to Hang Glider.](http://9gag.com/gag/aO87ZxN)
  - 😝 [The Roborock robot vacuum understood the assignment! \u2728](http://9gag.com/gag/aVvwD8O)
- - 👉 [GOG starting the GOG Preservation Program](http://9gag.com/gag/aQzd7nw)<!-- MEMES:END -->
+ - 👉 [My retirement plan so far](http://9gag.com/gag/aMVxnGP)<!-- MEMES:END -->
 
 ---
 

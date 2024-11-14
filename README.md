@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Not even Spotify is safe from AI slop](https://www.theverge.com/2024/11/14/24294995/spotify-ai-fake-albums-scam-distributors-metadata)
- - [Meta hit with $840 million fine for linking Facebook and Marketplace](https://www.theverge.com/2024/11/14/24296391/meta-facebook-marketplace-840-million-eu-fine)
- - [The Onion just bought Infowars](https://www.theverge.com/2024/11/14/24296375/the-onion-infowars-acquisition-alex-jones)
- - [11 Best Lego Gifts for Brick Builders &lpar;2024&rpar;](https://www.wired.com/gallery/gifts-for-lego-lovers/)
- - [Why are cassette and CD players so bulky now?](https://www.theverge.com/24295971/we-are-rewind-fiio-cassette-player-cd-dm-13)<!-- TECH:END -->
+ - [Pro-Harris TikTok felt safe in an algorithmic bubble — until election day](https://www.theverge.com/2024/11/14/24295814/kamala-harris-tiktok-filter-bubble-donald-trump-algorithm)
+ - [Xbox continues its push beyond consoles with new ad campaign](https://www.theverge.com/2024/11/14/24296420/microsoft-this-is-an-xbox-marketing-campaign-xbox-everywhere)
+ - [&#39;Mythic Quest&#39; season 4 returns to Apple TV+ on January 29](https://appleinsider.com/articles/24/11/14/mythic-quest-season-4-returns-to-apple-tv-on-january-29?utm_medium=rss)
+ - [Amazon One Medical expands telehealth services with low-cost treatment plans and medication delivery for beauty and lifestyle issues like hair loss, skin care &lpar;Aisha Malik/TechCrunch&rpar;](http://www.techmeme.com/241114/p27#a241114p27)
+ - [Not even Spotify is safe from AI slop](https://www.theverge.com/2024/11/14/24294995/spotify-ai-fake-albums-scam-distributors-metadata)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

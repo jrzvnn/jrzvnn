@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google plans to stop showing political ads to users in the EU in 2025 due to uncertainties around new transparency rules coming into effect in October 2025 &lpar;Jess Weatherbed/The Verge&rpar;](http://www.techmeme.com/241114/p33#a241114p33)
- - [Bluesky has been acting up today](https://www.theverge.com/2024/11/14/24296537/bluesky-acting-up-outage-down)
- - [Snapchat makes it easier for parents to request their teen’s real-time location](https://www.theverge.com/2024/11/14/24294970/snapchat-live-location-sharing-app-feature-update)
- - [Google says it will stop serving political ads in the EU](https://www.theverge.com/2024/11/14/24296510/google-dropping-political-ads-in-the-eu-ttpa)
- - [Apple tops list of retailers for removal of hazardous chemicals from stores](https://appleinsider.com/articles/24/11/14/apple-tops-list-of-retailers-for-removal-of-hazardous-chemicals-from-stores?utm_medium=rss)<!-- TECH:END -->
+ - [OpenAI says the ChatGPT desktop app for MacOS can now read code in some developer-focused apps, including VS Code, Xcode, TextEdit, and Terminal &lpar;Maxwell Zeff/TechCrunch&rpar;](http://www.techmeme.com/241114/p36#a241114p36)
+ - [CFPB is reportedly trying to put Google under bank-like supervision](https://www.theverge.com/2024/11/14/24296500/cfpb-google-federal-supervision)
+ - [Sources: the FTC plans to probe allegations that Microsoft is abusing its market power in productivity software to prevent customers from leaving Azure &lpar;Financial Times&rpar;](http://www.techmeme.com/241114/p35#a241114p35)
+ - [Fran&amp;ccedil;ois Chollet, the AI pioneer who created Keras, says he is leaving Google after nearly 10 years to start a new company, but doesn&#39;t reveal many details &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/241114/p34#a241114p34)
+ - [Ford penalized $165 million over moving too slowly on a rearview camera recall](https://www.theverge.com/2024/11/14/24296494/ford-nhtsa-recall-fine-rearview-camera)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

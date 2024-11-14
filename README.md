@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Q&amp;A with Spotify Co-President and CTO Gustav S&amp;ouml;derstr&amp;ouml;m on AI-generated music, NotebookLM podcasts, AI recommendations, improving discoverability, and more &lpar;Alex Kantrowitz/Big Technology&rpar;](http://www.techmeme.com/241114/p9#a241114p9)
  - [Foxconn reports Q3 revenue up 20% YoY to a record ~$57.01B, net income of ~$1.5B vs. ~$1.408B est., and expects half of its server orders in 2025 to be for AI &lpar;Jane Lanhee Lee/Bloomberg&rpar;](http://www.techmeme.com/241114/p8#a241114p8)
+ - [Sephora Promo Code: 10% Off In November 2024](https://www.wired.com/story/sephora-promo-code/)
  - [A look at Vietnam&#39;s expansion in the $95B chip packaging industry; report: the country is expected to have 8%-9% of the global share by 2032, up from 1% in 2022 &lpar;Francesco Guarascio/Reuters&rpar;](http://www.techmeme.com/241114/p7#a241114p7)
- - [Exclusive OnePlus Promo Code: Up to 20% Off | November 2024](https://www.wired.com/story/oneplus-promo-code/)
- - [Sephora Promo Code: 10% Off In November 2024](https://www.wired.com/story/hotels-com-coupon/)
- - [Researchers detail RoboPAIR, an algorithm that is designed to induce robots, relying on LLMs for their inputs, to ignore models&#39; safeguards without exception &lpar;Charles Q. Choi/IEEE Spectrum&rpar;](http://www.techmeme.com/241114/p6#a241114p6)<!-- TECH:END -->
+ - [Exclusive OnePlus Promo Code: Up to 20% Off | November 2024](https://www.wired.com/story/oneplus-promo-code/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

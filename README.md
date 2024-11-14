@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple faces a new $3.75 billion antitrust lawsuit over iCloud storage](https://www.theverge.com/2024/11/14/24296294/apple-uk-consumer-antitrust-lawsuit-icloud-storage)
- - [The 5 Best Bamboo Sheets for Silky-Soft Sleep &lpar;2024&rpar;](https://www.wired.com/gallery/best-bamboo-sheets/)
- - [The EU fines Meta &amp;euro;797.72M for tying Facebook Marketplace to Facebook and &quot;imposing unfair trading conditions&quot; on rival websites, the first such fine for Meta &lpar;Javier Espinoza/Financial Times&rpar;](http://www.techmeme.com/241114/p24#a241114p24)
- - [Snap unveils new Snapchat location and privacy tools, including letting parents request their teen&#39;s location and view their location-sharing settings &lpar;Quentyn Kennemer/The Verge&rpar;](http://www.techmeme.com/241114/p23#a241114p23)
- - [OWC Envoy Ultra Thunderbolt 5 SSD offers fast 6GB/s data transfers](https://appleinsider.com/articles/24/11/14/owc-envoy-ultra-thunderbolt-5-ssd-offers-fast-6gbs-data-transfers?utm_medium=rss)<!-- TECH:END -->
+ - [Disney’s streaming business is finally finding its footing](https://www.theverge.com/2024/11/14/24296307/disney-plus-streaming-business-profit-q4-2024-earnings)
+ - [Sources: the CFPB moves to place Google under formal federal supervision, an extraordinary move that may lead to regular inspections; Google fiercely resisted &lpar;Tony Romm/Washington Post&rpar;](http://www.techmeme.com/241114/p26#a241114p26)
+ - [Google releases a new free Gemini app for iOS, letting users ask questions and chat via text, voice, or camera, as well as use conversational Gemini Live &lpar;David Pierce/The Verge&rpar;](http://www.techmeme.com/241114/p25#a241114p25)
+ - [This Self-Heating Mug Keeps Things Warm—and Simple](https://www.wired.com/story/ohom-ui3-self-heating-mug-rave/)
+ - [Amazon announces its first Mini LED Fire TV — and this one’s also built for gaming](https://www.theverge.com/2024/11/14/24296334/amazon-fire-tv-omni-mini-led-features-specs)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

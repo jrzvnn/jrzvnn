@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Sources: Thrive Capital is in talks to invest ~$1B in analytics software maker Databricks at a ~$55B valuation; PitchBook: DataBricks has raised $4B+ so far &lpar;Bloomberg&rpar;](http://www.techmeme.com/241113/p53#a241113p53)
  - [Australia plans to enact laws imposing a &quot;digital duty of care&quot; on big tech, which would make companies liable for citizens&#39; safety online &lpar;Nicole Hegarty/ABC&rpar;](http://www.techmeme.com/241113/p52#a241113p52)
  - [Google says real-time protections against scam calls and malicious apps are rolling out on Pixel 6 or newer devices and coming soon to more Android phones &lpar;Abner Li/9to5Google&rpar;](http://www.techmeme.com/241113/p51#a241113p51)
  - [Review: Dragon Quest III HD-2D Remake Gives a Modern Sheen to a Classic RPG](https://www.cnet.com/tech/gaming/review-dragon-quest-iii-hd-2d-remake-gives-a-modern-sheen-to-a-classic-rpg/#ftag=CAD590a51e)
- - [Teen Behind Hundreds of Swatting Attacks Pleads Guilty to Federal Charges](https://www.wired.com/story/alan-filion-torswats-guilty-plea-federal-charges-swatting/)
- - [Here Are the Top 10 Passwords for 2024, and They&#39;re All Embarrassing](https://www.cnet.com/tech/services-and-software/here-are-the-top-10-passwords-for-2024-and-theyre-all-embarrassing/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Teen Behind Hundreds of Swatting Attacks Pleads Guilty to Federal Charges](https://www.wired.com/story/alan-filion-torswats-guilty-plea-federal-charges-swatting/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

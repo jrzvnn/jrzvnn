@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [How advanced content caching settings on the Mac works](https://appleinsider.com/inside/macos/tips/how-advanced-content-caching-settings-on-the-mac-works?utm_medium=rss)
+ - [Chinese autonomous driving company Pony.ai aims to raise $195M in its US IPO, targeting a valuation of up to $4.48B &lpar;Arasu Kannagi Basil/Reuters&rpar;](http://www.techmeme.com/241114/p40#a241114p40)
  - [TikTok plugs Getty Images into its AI-generated ads and avatars](https://www.theverge.com/2024/11/14/24296636/tiktok-ai-ads-getty-images-content)
  - [You can save up to $270 on the Garmin Fenix 7S Pro and other Garmin watches](https://www.theverge.com/2024/11/14/24296364/garmin-fenix-7s-pro-forerunner-265-inreach-mini-2-deal-sale)
- - [Sources: the US House Select Committee on China summoned Amazon staffers in September to discuss concerns about Amazon&#39;s shopping partnership with TikTok &lpar;Alexandra S. Levine/Bloomberg&rpar;](http://www.techmeme.com/241114/p39#a241114p39)
- - [Silk Road Creator Ross Ulbricht Is Waiting for Trump to Keep His Word—and Set Him Free](https://www.wired.com/story/silk-road-creator-ross-ulbricht-is-waiting-for-trump-to-keep-his-word-and-set-him-free/)
- - [Twinkly’s smart holiday string lights have dropped to a new low price](https://www.theverge.com/2024/11/14/24296593/twinkly-strings-smart-holiday-lights-105-ft-leds-deal-sale)<!-- TECH:END -->
+ - [Sources: the US House Select Committee on China summoned Amazon staffers in September to discuss concerns about Amazon&#39;s shopping partnership with TikTok &lpar;Alexandra S. Levine/Bloomberg&rpar;](http://www.techmeme.com/241114/p39#a241114p39)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

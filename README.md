@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Casual encounter with a Cassowary - the most dangerous bird in the world.](http://9gag.com/gag/ae9D9pB)
+ - 😝 [Letter seal](http://9gag.com/gag/azxmKrb)
  - 😝 [This accident was real and everybody just ran with it](http://9gag.com/gag/a9ynv1Z)
- - 💣 [Math is hard](http://9gag.com/gag/aqynyXM)
- - 😝 [Son\u2019s math test](http://9gag.com/gag/aD246Pw)
- - 👉 [Democrats Voters are Shifting towards Trudeau](http://9gag.com/gag/a87G6nY)<!-- MEMES:END -->
+ - 💣 [Democrats Voters are Shifting towards Trudeau](http://9gag.com/gag/a87G6nY)
+ - 😝 [File a false claim](http://9gag.com/gag/a4P3Nww)
+ - 👉 [Math is hard](http://9gag.com/gag/aqynyXM)<!-- MEMES:END -->
 
 ---
 

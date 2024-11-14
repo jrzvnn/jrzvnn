@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Walking through Manhattan after the election with MAGA hat on](http://9gag.com/gag/ajP9OK1)
- - 😝 [Classic](http://9gag.com/gag/aMVxmAV)
+ - 😝 [New Director of US National Intelligence](http://9gag.com/gag/aZZyQ39)
+ - 😝 [This is called `art`](http://9gag.com/gag/aoyP4d2)
  - 💣 [Lyndon B Johnson smiling at Albert Thomas while being sworn in as president just 2 hours after the assassination of JFK.](http://9gag.com/gag/axy96Qn)
  - 😝 [The Roborock robot vacuum understood the assignment! \u2728](http://9gag.com/gag/aVvwD8O)
- - 👉 [New Director of US National Intelligence](http://9gag.com/gag/aZZyQ39)<!-- MEMES:END -->
+ - 👉 [Smooooothhhh](http://9gag.com/gag/aD24Z9N)<!-- MEMES:END -->
 
 ---
 

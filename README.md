@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [BitSight, the cybersecurity startup last valued at $2.4B, acquires Cybersixgill, which gathers threat intelligence data from the dark web, for $115M &lpar;Ingrid Lunden/TechCrunch&rpar;](http://www.techmeme.com/241114/p29#a241114p29)
  - [Echoing TikTok&#39;s gifting, YouTube is rolling out &quot;jewels&quot; that users can buy to support creators during livestreams, for those in the YouTube Partner Program &lpar;Umar Shakir/The Verge&rpar;](http://www.techmeme.com/241114/p28#a241114p28)
  - [Madrid&#39;s fifth Apple Store opens November 28](https://appleinsider.com/articles/24/11/14/madrids-fifth-apple-store-opens-november-28?utm_medium=rss)
  - [Pro-Harris TikTok felt safe in an algorithmic bubble — until election day](https://www.theverge.com/2024/11/14/24295814/kamala-harris-tiktok-filter-bubble-donald-trump-algorithm)
- - [Xbox continues its push beyond consoles with new ad campaign](https://www.theverge.com/2024/11/14/24296420/microsoft-this-is-an-xbox-marketing-campaign-xbox-everywhere)
- - [&#39;Mythic Quest&#39; season 4 returns to Apple TV+ on January 29](https://appleinsider.com/articles/24/11/14/mythic-quest-season-4-returns-to-apple-tv-on-january-29?utm_medium=rss)<!-- TECH:END -->
+ - [Xbox continues its push beyond consoles with new ad campaign](https://www.theverge.com/2024/11/14/24296420/microsoft-this-is-an-xbox-marketing-campaign-xbox-everywhere)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

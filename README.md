@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Letter seal](http://9gag.com/gag/azxmKrb)
- - 😝 [One Thicc Goal!](http://9gag.com/gag/aE0PMYK)
- - 💣 [When the urge to fight against impossible odds takes over you](http://9gag.com/gag/aryV3K7)
- - 😝 [Walking through Manhattan after the election with MAGA hat on](http://9gag.com/gag/ajP9OK1)
- - 👉 [Artificial Intelligence](http://9gag.com/gag/amovopv)<!-- MEMES:END -->
+ - 😝 [He\u2019s Wikus, of course he does](http://9gag.com/gag/a7oW0jA)
+ - 😝 [Democrats Voters are Shifting towards Trudeau](http://9gag.com/gag/a87G6nY)
+ - 💣 [Funny dad](http://9gag.com/gag/aQzdQgz)
+ - 😝 [Son\u2019s math test](http://9gag.com/gag/aD246Pw)
+ - 👉 [Math is hard](http://9gag.com/gag/aqynyXM)<!-- MEMES:END -->
 
 ---
 

@@ -166,10 +166,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Bruce has no chill.](http://9gag.com/gag/aXPg4L9)
- - 😝 [This is called `art`](http://9gag.com/gag/aoyP4d2)
- - 💣 [I am professional hater. But for now I&#39;m not hating.](http://9gag.com/gag/a4P321d)
- - 😝 [Could borrow Tim\u2019s tampons](http://9gag.com/gag/aXPg7Ed)
+ - 😝 [Mike Tyson snaps at fan asking for a pic, then feels bad and invites him over, making his night.](http://9gag.com/gag/a0eN6PQ)
+ - 😝 [Them: The foods not that spicy. The food:](http://9gag.com/gag/a4P3AwQ)
+ - 💣 [Lyndon B Johnson smiling at Albert Thomas while being sworn in as president just 2 hours after the assassination of JFK.](http://9gag.com/gag/axy96Qn)
+ - 😝 [11 year old goes to store and Mom gets arrested?](http://9gag.com/gag/aGydBX6)
  - 👉 [The Roborock robot vacuum understood the assignment! \u2728](http://9gag.com/gag/aVvwD8O)<!-- MEMES:END -->
 
 ---

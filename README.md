@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Bluesky says it won’t train AI on your posts](https://www.theverge.com/2024/11/15/24297442/bluesky-no-intention-train-generative-ai-posts)
+ - [Senator to Valve: what’s with all the Nazis on Steam?](https://www.theverge.com/2024/11/15/24297364/steam-extremist-content-moderation-us-senator-warner-letter)
  - [A senior SDNY prosecutor says the office will devote fewer resources to policing crypto crimes after securing several major convictions, including that of SBF &lpar;Luc Cohen/Reuters&rpar;](http://www.techmeme.com/241115/p17#a241115p17)
  - [Best iPhone 13 Deals: Save Hundreds on This Previous-Gen Model](https://www.cnet.com/deals/best-iphone-13-deals/#ftag=CAD590a51e)
- - [Best Solar Panel Installation Companies in Pennsylvania](https://www.cnet.com/home/energy-and-utilities/pennsylvania-solar-panels/#ftag=CAD590a51e)
- - [You&#39;re Safer Shopping With a Credit Card This Holiday Season. Here&#39;s Why.](https://www.cnet.com/personal-finance/credit-cards/youre-safer-shopping-with-a-credit-card-this-holiday-season-heres-why/#ftag=CAD590a51e)
- - [Here are the best AirPods deals you can get right now](https://www.theverge.com/21302051/best-apple-airpods-deals)<!-- TECH:END -->
+ - [Best Solar Panel Installation Companies in Pennsylvania](https://www.cnet.com/home/energy-and-utilities/pennsylvania-solar-panels/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

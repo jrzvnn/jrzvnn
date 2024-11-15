@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Hey girl. Leave him alone](http://9gag.com/gag/aGydAp5)
- - 😝 [Them: The foods not that spicy. The food:](http://9gag.com/gag/a4P3AwQ)
- - 💣 [Letter seal](http://9gag.com/gag/azxmKrb)
- - 😝 [Absolute\u2026 win?](http://9gag.com/gag/aD24VXB)
- - 👉 [Ready to flex your reality-check skills? \ud83c\udfae](http://9gag.com/gag/adBV8wV)<!-- MEMES:END -->
+ - 😝 [She is looking for her twin](http://9gag.com/gag/a2vWDnZ)
+ - 😝 [I think woke isn&#39;t for anyone](http://9gag.com/gag/aNDgvEK)
+ - 💣 [I am professional hater. But for now I&#39;m not hating.](http://9gag.com/gag/a4P321d)
+ - 😝 [Ready to flex your reality-check skills? \ud83c\udfae](http://9gag.com/gag/adBV8wV)
+ - 👉 [Human History.](http://9gag.com/gag/ayNeRXb)<!-- MEMES:END -->
 
 ---
 

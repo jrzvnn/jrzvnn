@@ -166,10 +166,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [Meanwhile in Beirut](http://9gag.com/gag/aryVxr7)
  - 😝 [Hold up!](http://9gag.com/gag/aRB7ZOy)
- - 😝 [Stop hitting yourself](http://9gag.com/gag/azxmGgB)
- - 💣 [Hey girl. Leave him alone](http://9gag.com/gag/aGydAp5)
- - 😝 [Mike Tyson snaps at fan asking for a pic, then feels bad and invites him over, making his night.](http://9gag.com/gag/a0eN6PQ)
+ - 💣 [Horny from the past comes knocking at your door\u2026](http://9gag.com/gag/a7oW9Aq)
+ - 😝 [Hey girl. Leave him alone](http://9gag.com/gag/aGydAp5)
  - 👉 [The Roborock robot vacuum understood the assignment! \u2728](http://9gag.com/gag/aVvwD8O)<!-- MEMES:END -->
 
 ---

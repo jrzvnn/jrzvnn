@@ -158,10 +158,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- TECH:START -->
  - [Fake AI albums targeting real artists are flooding Spotify to profit from royalty fraud, abusing a distribution process effectively based on the honor system &lpar;Elizabeth Lopatto/The Verge&rpar;](http://www.techmeme.com/241114/p47#a241114p47)
+ - [The 8 Best Coffee Subscriptions of 2024, Tested by Us](https://www.cnet.com/home/kitchen-and-household/best-coffee-subscriptions-and-coffee-clubs/#ftag=CAD590a51e)
+ - [Best Internet Providers in Forney, Texas](https://www.cnet.com/home/internet/best-internet-providers-in-forney-tx/#ftag=CAD590a51e)
  - [Best Internet Providers in Grand Prairie, Texas](https://www.cnet.com/home/internet/best-internet-providers-in-grand-prairie-tx/#ftag=CAD590a51e)
- - [M4 MacBook Pro use quantum dot film for more vibrant color &amp; motion performance](https://appleinsider.com/articles/24/11/15/m4-macbook-pro-use-quantum-dot-film-for-more-vibrant-color-motion-performance?utm_medium=rss)
- - [Best Internet Providers in Idaho Falls, Idaho](https://www.cnet.com/home/internet/best-internet-providers-in-idaho-falls-id/#ftag=CAD590a51e)
- - [TikTok makes its AI ad creation tool, Symphony Creative Studio, available to all advertisers and adds the ability to use content from Getty Images with the tool &lpar;Emma Roth/The Verge&rpar;](http://www.techmeme.com/241114/p46#a241114p46)<!-- TECH:END -->
+ - [M4 MacBook Pro use quantum dot film for more vibrant color &amp; motion performance](https://appleinsider.com/articles/24/11/15/m4-macbook-pro-use-quantum-dot-film-for-more-vibrant-color-motion-performance?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

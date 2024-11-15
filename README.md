@@ -166,10 +166,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Smooooothhhh](http://9gag.com/gag/aD24Z9N)
- - 😝 [Classic](http://9gag.com/gag/aMVxmAV)
- - 💣 [This is what a hole in the skin looks like after a needle punctures it, as observed under a scanning electron microscope.](http://9gag.com/gag/aPA7oMB)
+ - 😝 [Lyndon B Johnson smiling at Albert Thomas while being sworn in as president just 2 hours after the assassination of JFK.](http://9gag.com/gag/axy96Qn)
  - 😝 [Mike Tyson snaps at fan asking for a pic, then feels bad and invites him over, making his night.](http://9gag.com/gag/a0eN6PQ)
+ - 💣 [Classic](http://9gag.com/gag/aMVxmAV)
+ - 😝 [Hey girl. Leave him alone](http://9gag.com/gag/aGydAp5)
  - 👉 [The Roborock robot vacuum understood the assignment! \u2728](http://9gag.com/gag/aVvwD8O)<!-- MEMES:END -->
 
 ---

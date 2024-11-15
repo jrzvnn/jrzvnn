@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Classic](http://9gag.com/gag/aMVxmAV)
- - 😝 [Smooooothhhh](http://9gag.com/gag/aD24Z9N)
- - 💣 [Meanwhile in Beirut](http://9gag.com/gag/aryVxr7)
+ - 😝 [We did it, woke has been defeated.](http://9gag.com/gag/avyzx4q)
+ - 😝 [Funny dad](http://9gag.com/gag/aQzdQgz)
+ - 💣 [This is what a hole in the skin looks like after a needle punctures it, as observed under a scanning electron microscope.](http://9gag.com/gag/aPA7oMB)
  - 😝 [The Roborock robot vacuum understood the assignment! \u2728](http://9gag.com/gag/aVvwD8O)
- - 👉 [Funny dad](http://9gag.com/gag/aQzdQgz)<!-- MEMES:END -->
+ - 👉 [Smooooothhhh](http://9gag.com/gag/aD24Z9N)<!-- MEMES:END -->
 
 ---
 

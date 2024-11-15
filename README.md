@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Apple pulls US-funded Radio Free Europe app from Russia](https://appleinsider.com/articles/24/11/15/apple-pulls-us-funded-radio-free-europe-app-from-russia?utm_medium=rss)
+ - [Apple removes RFE/RL&#39;s Svoboda app from the Russian App Store at the demand of Roskomnadzor; Apple also removed recent podcasts by Ekho Moskvy and others &lpar;Radio Free Europe/Radio Liberty&rpar;](http://www.techmeme.com/241115/p16#a241115p16)
  - [The new Mac Mini is great — now do the iPhone SE](https://www.theverge.com/2024/11/15/24296505/apple-iphone-se-rumors-mac-mini)
  - [Best Early Black Friday iPad Deals: Take Up to $149 Off Top Apple Tablets](https://www.cnet.com/deals/best-early-black-friday-ipad-deals/#ftag=CAD590a51e)
- - [Wondering How Much Cheaper Costco Groceries Are? I Did the Math](https://www.cnet.com/how-to/wondering-how-much-cheaper-costco-groceries-are-i-did-the-math/#ftag=CAD590a51e)
- - [Best CD Rates Today, Nov. 15, 2024: There&#39;s Still Time to Score up to 4.75% APY](https://www.cnet.com/personal-finance/cd-rates-today-nov-15-2024/#ftag=CAD590a51e)
- - [11 Best MIDI Controllers for Synths and More &lpar;2024&rpar;](https://www.wired.com/gallery/best-midi-controllers/)<!-- TECH:END -->
+ - [Wondering How Much Cheaper Costco Groceries Are? I Did the Math](https://www.cnet.com/how-to/wondering-how-much-cheaper-costco-groceries-are-i-did-the-math/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -166,9 +166,9 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Bald is beautiful](http://9gag.com/gag/a4P35dd)
- - 😝 [Meanwhile in Beirut](http://9gag.com/gag/aryVxr7)
- - 💣 [New Zealand\u2019s Parliament proposed a bill to redefine the Treaty of Waitangi, claiming it is racist and gives preferential treatment to Maoris. In response M\u0101ori MP&#39;s tore up the bill and performed the Haka](http://9gag.com/gag/ajP9xOG)
+ - 😝 [It&#39;s sad but.....](http://9gag.com/gag/aBymPzz)
+ - 😝 [They ruin everything](http://9gag.com/gag/aMVxX0X)
+ - 💣 [Them: The foods not that spicy. The food:](http://9gag.com/gag/a4P3AwQ)
  - 😝 [Right out of a movie](http://9gag.com/gag/avyzEEO)
  - 👉 [Ready to flex your reality-check skills? \ud83c\udfae](http://9gag.com/gag/adBV8wV)<!-- MEMES:END -->
 

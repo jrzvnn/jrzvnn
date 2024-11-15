@@ -166,10 +166,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Meanwhile in Beirut](http://9gag.com/gag/aryVxr7)
- - 😝 [Hold up!](http://9gag.com/gag/aRB7ZOy)
- - 💣 [Horny from the past comes knocking at your door\u2026](http://9gag.com/gag/a7oW9Aq)
- - 😝 [Hey girl. Leave him alone](http://9gag.com/gag/aGydAp5)
+ - 😝 [Bruce has no chill.](http://9gag.com/gag/aXPg4L9)
+ - 😝 [This is called `art`](http://9gag.com/gag/aoyP4d2)
+ - 💣 [I am professional hater. But for now I&#39;m not hating.](http://9gag.com/gag/a4P321d)
+ - 😝 [Could borrow Tim\u2019s tampons](http://9gag.com/gag/aXPg7Ed)
  - 👉 [The Roborock robot vacuum understood the assignment! \u2728](http://9gag.com/gag/aVvwD8O)<!-- MEMES:END -->
 
 ---

@@ -167,9 +167,9 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [Right out of a movie](http://9gag.com/gag/avyzEEO)
- - 😝 [Lana is a savage](http://9gag.com/gag/a7oWVQ2)
+ - 😝 [It&#39;s sad but.....](http://9gag.com/gag/aBymPzz)
  - 💣 [Absolute\u2026 win?](http://9gag.com/gag/aD24VXB)
- - 😝 [Bald is beautiful](http://9gag.com/gag/a4P35dd)
+ - 😝 [Mike Tyson snaps at fan asking for a pic, then feels bad and invites him over, making his night.](http://9gag.com/gag/a0eN6PQ)
  - 👉 [Ready to flex your reality-check skills? \ud83c\udfae](http://9gag.com/gag/adBV8wV)<!-- MEMES:END -->
 
 ---

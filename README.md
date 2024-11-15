@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Cruise fined $500k for submitting a false report after last year’s pedestrian crash](https://www.theverge.com/2024/11/15/24297248/cruise-robotaxi-criminal-fine-falsify-report-pedestrian)
+ - [11 Best MIDI Controllers for Synths and More &lpar;2024&rpar;](https://www.wired.com/gallery/best-midi-controllers/)
+ - [Casio’s first smart ring has innovative features like a stopwatch and flashing alarm](https://www.theverge.com/2024/11/15/24297261/casio-smart-ring-digital-watch-crw-001-1jr)
+ - [Cruise fined $500K for submitting a false report after last year’s pedestrian crash](https://www.theverge.com/2024/11/15/24297248/cruise-robotaxi-criminal-fine-falsify-report-pedestrian)
  - [Facebook makes Views its primary metric for content, bringing it in line with Instagram; each time a piece of content appears on a screen, it counts as a View &lpar;Mia Sato/The Verge&rpar;](http://www.techmeme.com/241115/p15#a241115p15)
- - [The best robot vacuums](https://www.theverge.com/22997597/best-robot-vacuum-cleaner)
- - [Mark Zuckerberg says Threads is testing custom feeds for certain profiles or topics; the Threads&#39; version seems easier to use than Bluesky&#39;s custom feeds &lpar;Emma Roth/The Verge&rpar;](http://www.techmeme.com/241115/p14#a241115p14)
- - [Facebook is changing its primary metric to ‘views’](https://www.theverge.com/2024/11/15/24297255/facebook-metrics-views-instagram)<!-- TECH:END -->
+ - [The best robot vacuums](https://www.theverge.com/22997597/best-robot-vacuum-cleaner)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

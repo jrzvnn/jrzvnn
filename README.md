@@ -166,10 +166,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [It&#39;s sad but.....](http://9gag.com/gag/aBymPzz)
+ - 😝 [11 year old goes to store and Mom gets arrested?](http://9gag.com/gag/aGydBX6)
+ - 💣 [You know I&#39;ll be around. Start stripping off that dress now. You know us all too well](http://9gag.com/gag/aLnwm8z)
  - 😝 [This is so wrong](http://9gag.com/gag/apRGxep)
- - 😝 [Absolute\u2026 win?](http://9gag.com/gag/aD24VXB)
- - 💣 [11 year old goes to store and Mom gets arrested?](http://9gag.com/gag/aGydBX6)
- - 😝 [Smooooothhhh](http://9gag.com/gag/aD24Z9N)
  - 👉 [Ready to flex your reality-check skills? \ud83c\udfae](http://9gag.com/gag/adBV8wV)<!-- MEMES:END -->
 
 ---

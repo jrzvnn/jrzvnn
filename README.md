@@ -166,10 +166,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Trumped again](http://9gag.com/gag/amovmbX)
- - 😝 [I am professional hater. But for now I&#39;m not hating.](http://9gag.com/gag/a4P321d)
- - 💣 [American pool](http://9gag.com/gag/abAG2Eb)
- - 😝 [Human History.](http://9gag.com/gag/ayNeRXb)
+ - 😝 [Bald is beautiful](http://9gag.com/gag/a4P35dd)
+ - 😝 [Meanwhile in Beirut](http://9gag.com/gag/aryVxr7)
+ - 💣 [New Zealand\u2019s Parliament proposed a bill to redefine the Treaty of Waitangi, claiming it is racist and gives preferential treatment to Maoris. In response M\u0101ori MP&#39;s tore up the bill and performed the Haka](http://9gag.com/gag/ajP9xOG)
+ - 😝 [Right out of a movie](http://9gag.com/gag/avyzEEO)
  - 👉 [Ready to flex your reality-check skills? \ud83c\udfae](http://9gag.com/gag/adBV8wV)<!-- MEMES:END -->
 
 ---

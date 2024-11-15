@@ -166,10 +166,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Mike Tyson snaps at fan asking for a pic, then feels bad and invites him over, making his night.](http://9gag.com/gag/a0eN6PQ)
  - 😝 [Them: The foods not that spicy. The food:](http://9gag.com/gag/a4P3AwQ)
- - 💣 [11 year old goes to store and Mom gets arrested?](http://9gag.com/gag/aGydBX6)
- - 😝 [Letter seal](http://9gag.com/gag/azxmKrb)
+ - 😝 [This is called `art`](http://9gag.com/gag/aoyP4d2)
+ - 💣 [Lyndon B Johnson smiling at Albert Thomas while being sworn in as president just 2 hours after the assassination of JFK.](http://9gag.com/gag/axy96Qn)
+ - 😝 [This is the effect that a Komodo Dragon bite has on meat](http://9gag.com/gag/axy9b6K)
  - 👉 [Ready to flex your reality-check skills? \ud83c\udfae](http://9gag.com/gag/adBV8wV)<!-- MEMES:END -->
 
 ---

@@ -166,10 +166,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [The newly chosen US Secretary of Defense on CNN saying he doesn\u2019t believe in women serving in combat roles.](http://9gag.com/gag/a1mW0Av)
  - 😝 [Hold up!](http://9gag.com/gag/aRB7ZOy)
- - 💣 [Lyndon B Johnson smiling at Albert Thomas while being sworn in as president just 2 hours after the assassination of JFK.](http://9gag.com/gag/axy96Qn)
- - 😝 [11 year old goes to store and Mom gets arrested?](http://9gag.com/gag/aGydBX6)
+ - 😝 [Stop hitting yourself](http://9gag.com/gag/azxmGgB)
+ - 💣 [Hey girl. Leave him alone](http://9gag.com/gag/aGydAp5)
+ - 😝 [Mike Tyson snaps at fan asking for a pic, then feels bad and invites him over, making his night.](http://9gag.com/gag/a0eN6PQ)
  - 👉 [The Roborock robot vacuum understood the assignment! \u2728](http://9gag.com/gag/aVvwD8O)<!-- MEMES:END -->
 
 ---

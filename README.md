@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Save up to $250 on every M4 Mac mini, plus get M2 early Black Friday deals from $449](https://appleinsider.com/articles/24/11/15/save-up-to-250-on-every-m4-mac-mini-plus-get-m2-early-black-friday-deals-from-449?utm_medium=rss)
+ - [Threads is testing custom feeds for your favorite topics](https://www.theverge.com/2024/11/15/24297313/threads-custom-feeds-test)
+ - [Elon Musk targets Microsoft in amended OpenAI lawsuit](https://www.theverge.com/2024/11/15/24297271/elon-musk-openai-microsoft-amended-lawsuit)
  - [11 Best Gifts for Men, Manly Men, and Menly Man Men &lpar;2024&rpar;](https://www.wired.com/gallery/best-gifts-for-men/)
- - [The Rabbit R1 now lets you remake its whole interface](https://www.theverge.com/2024/11/15/24297208/rabbit-r1-custom-interface-ai)
- - [The New Hatred of Technology](https://www.wired.com/story/plaintext-the-new-hatred-of-technology/)
- - [The Verge’s 2024 holiday gift guide for new parents](https://www.theverge.com/24224050/holiday-gifts-newborn-babies-new-parents-unique-ideas-2024-tech-gadgets)
- - [UK mobile operator Virgin Media O2 creates Daisy, an AI-generated &quot;scambaiter&quot; tool that mimics the voice of an elderly woman to waste scammers&#39; time &lpar;Jibin Joseph/PCMag&rpar;](http://www.techmeme.com/241115/p13#a241115p13)<!-- TECH:END -->
+ - [The Rabbit R1 now lets you remake its whole interface](https://www.theverge.com/2024/11/15/24297208/rabbit-r1-custom-interface-ai)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

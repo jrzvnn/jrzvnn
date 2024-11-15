@@ -166,10 +166,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [This title is being replaced with a wooden leg](http://9gag.com/gag/a2vW2GY)
+ - 😝 [Hey girl. Leave him alone](http://9gag.com/gag/aGydAp5)
+ - 💣 [800 homes in Utha lost power because a girl climbed up the transformer](http://9gag.com/gag/a87G2oY)
  - 😝 [It&#39;s sad but.....](http://9gag.com/gag/aBymPzz)
- - 😝 [11 year old goes to store and Mom gets arrested?](http://9gag.com/gag/aGydBX6)
- - 💣 [You know I&#39;ll be around. Start stripping off that dress now. You know us all too well](http://9gag.com/gag/aLnwm8z)
- - 😝 [This is so wrong](http://9gag.com/gag/apRGxep)
  - 👉 [Ready to flex your reality-check skills? \ud83c\udfae](http://9gag.com/gag/adBV8wV)<!-- MEMES:END -->
 
 ---

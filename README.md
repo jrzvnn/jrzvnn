@@ -166,10 +166,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [Letter seal](http://9gag.com/gag/azxmKrb)
  - 😝 [Smooooothhhh](http://9gag.com/gag/aD24Z9N)
- - 😝 [This is called `art`](http://9gag.com/gag/aoyP4d2)
- - 💣 [Letter seal](http://9gag.com/gag/azxmKrb)
- - 😝 [This is the effect that a Komodo Dragon bite has on meat](http://9gag.com/gag/axy9b6K)
+ - 💣 [Man is about to go off script\u2026.](http://9gag.com/gag/aBymXwQ)
+ - 😝 [Hey girl. Leave him alone](http://9gag.com/gag/aGydAp5)
  - 👉 [Ready to flex your reality-check skills? \ud83c\udfae](http://9gag.com/gag/adBV8wV)<!-- MEMES:END -->
 
 ---

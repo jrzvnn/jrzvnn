@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Disney has reportedly pulled a Moon Girl and Devil Dinosaur episode for telling a trans-inclusive story](https://www.theverge.com/2024/11/15/24297438/moon-girl-and-devil-dinosaur-the-gatekeeper)
+ - [How to use the Apple Maps Library feature in iOS 18](https://appleinsider.com/inside/apple-maps/tips/how-to-use-the-apple-maps-library-feature-in-ios-18?utm_medium=rss)
  - [Standing Desks Are Better for Your Health—but Still Not Enough](https://www.wired.com/story/standing-desk-health-benefits/)
  - [Here are the best Black Friday deals you can already get](https://www.theverge.com/24293826/best-early-black-friday-deals-2024-amazon-walmart-buy-target-tech-sale)
- - [What Lee Zeldin’s Nomination Means for the EPA](https://www.wired.com/story/what-lee-zeldins-nomination-means-for-the-epa/)
- - [Bluesky says it has &quot;no intention&quot; of taking user content to train AI tools, ahead of X implementing new terms of service that let it train AI on user content &lpar;Jay Peters/The Verge&rpar;](http://www.techmeme.com/241115/p18#a241115p18)
- - [The M4 MacBook Pro features a quantum dot display](https://www.theverge.com/2024/11/15/24297414/m4-macbook-pro-quantum-dot-display)<!-- TECH:END -->
+ - [What Lee Zeldin’s Nomination Means for the EPA](https://www.wired.com/story/what-lee-zeldins-nomination-means-for-the-epa/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

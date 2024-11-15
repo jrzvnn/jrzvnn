@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Bluesky says it won’t train AI on your posts](https://www.theverge.com/2024/11/15/24297442/bluesky-no-intention-train-generative-ai-posts)
- - [Senator to Valve: what’s with all the Nazis on Steam?](https://www.theverge.com/2024/11/15/24297364/steam-extremist-content-moderation-us-senator-warner-letter)
- - [A senior SDNY prosecutor says the office will devote fewer resources to policing crypto crimes after securing several major convictions, including that of SBF &lpar;Luc Cohen/Reuters&rpar;](http://www.techmeme.com/241115/p17#a241115p17)
- - [Best iPhone 13 Deals: Save Hundreds on This Previous-Gen Model](https://www.cnet.com/deals/best-iphone-13-deals/#ftag=CAD590a51e)
- - [Best Solar Panel Installation Companies in Pennsylvania](https://www.cnet.com/home/energy-and-utilities/pennsylvania-solar-panels/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [What Lee Zeldin’s Nomination Means for the EPA](https://www.wired.com/story/what-lee-zeldins-nomination-means-for-the-epa/)
+ - [Bluesky says it has &quot;no intention&quot; of taking user content to train AI tools, ahead of X implementing new terms of service that let it train AI on user content &lpar;Jay Peters/The Verge&rpar;](http://www.techmeme.com/241115/p18#a241115p18)
+ - [The M4 MacBook Pro features a quantum dot display](https://www.theverge.com/2024/11/15/24297414/m4-macbook-pro-quantum-dot-display)
+ - [Samsung Galaxy Buds 2 Pro Deals: Up to $150 Off These Colorful Wireless Earbuds](https://www.cnet.com/deals/best-galaxy-buds-2-pro-deals/#ftag=CAD590a51e)
+ - [Bluesky says it won’t train AI on your posts](https://www.theverge.com/2024/11/15/24297442/bluesky-no-intention-train-generative-ai-posts)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

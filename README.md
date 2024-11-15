@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Save up to $250 on every M4 Mac mini, plus get M2 early Black Friday deals from $449](https://appleinsider.com/articles/24/11/15/save-up-to-250-on-every-m4-mac-mini-plus-get-m2-early-black-friday-deals-from-449?utm_medium=rss)
- - [Threads is testing custom feeds for your favorite topics](https://www.theverge.com/2024/11/15/24297313/threads-custom-feeds-test)
- - [Elon Musk targets Microsoft in amended OpenAI lawsuit](https://www.theverge.com/2024/11/15/24297271/elon-musk-openai-microsoft-amended-lawsuit)
- - [11 Best Gifts for Men, Manly Men, and Menly Man Men &lpar;2024&rpar;](https://www.wired.com/gallery/best-gifts-for-men/)
- - [The Rabbit R1 now lets you remake its whole interface](https://www.theverge.com/2024/11/15/24297208/rabbit-r1-custom-interface-ai)<!-- TECH:END -->
+ - [Cruise fined $500k for submitting a false report after last year’s pedestrian crash](https://www.theverge.com/2024/11/15/24297248/cruise-robotaxi-criminal-fine-falsify-report-pedestrian)
+ - [Facebook makes Views its primary metric for content, bringing it in line with Instagram; each time a piece of content appears on a screen, it counts as a View &lpar;Mia Sato/The Verge&rpar;](http://www.techmeme.com/241115/p15#a241115p15)
+ - [The best robot vacuums](https://www.theverge.com/22997597/best-robot-vacuum-cleaner)
+ - [Mark Zuckerberg says Threads is testing custom feeds for certain profiles or topics; the Threads&#39; version seems easier to use than Bluesky&#39;s custom feeds &lpar;Emma Roth/The Verge&rpar;](http://www.techmeme.com/241115/p14#a241115p14)
+ - [Facebook is changing its primary metric to ‘views’](https://www.theverge.com/2024/11/15/24297255/facebook-metrics-views-instagram)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

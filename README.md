@@ -158,10 +158,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- TECH:START -->
  - [A senior SDNY prosecutor says the office will devote fewer resources to policing crypto crimes after securing several major convictions, including that of SBF &lpar;Luc Cohen/Reuters&rpar;](http://www.techmeme.com/241115/p17#a241115p17)
- - [Here are the best AirPods deals you can get right now](https://www.theverge.com/21302051/best-apple-airpods-deals)
- - [Apple pulls US-funded Radio Free Europe app from Russia](https://appleinsider.com/articles/24/11/15/apple-pulls-us-funded-radio-free-europe-app-from-russia?utm_medium=rss)
- - [Apple removes RFE/RL&#39;s Svoboda app from the Russian App Store at the demand of Roskomnadzor; Apple also removed recent podcasts by Ekho Moskvy and others &lpar;Radio Free Europe/Radio Liberty&rpar;](http://www.techmeme.com/241115/p16#a241115p16)
- - [The new Mac Mini is great — now do the iPhone SE](https://www.theverge.com/2024/11/15/24296505/apple-iphone-se-rumors-mac-mini)<!-- TECH:END -->
+ - [Best iPhone 13 Deals: Save Hundreds on This Previous-Gen Model](https://www.cnet.com/deals/best-iphone-13-deals/#ftag=CAD590a51e)
+ - [Best Solar Panel Installation Companies in Pennsylvania](https://www.cnet.com/home/energy-and-utilities/pennsylvania-solar-panels/#ftag=CAD590a51e)
+ - [You&#39;re Safer Shopping With a Credit Card This Holiday Season. Here&#39;s Why.](https://www.cnet.com/personal-finance/credit-cards/youre-safer-shopping-with-a-credit-card-this-holiday-season-heres-why/#ftag=CAD590a51e)
+ - [Here are the best AirPods deals you can get right now](https://www.theverge.com/21302051/best-apple-airpods-deals)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

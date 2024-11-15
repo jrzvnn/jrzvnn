@@ -166,10 +166,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Trumped again](http://9gag.com/gag/amovmbX)
- - 😝 [I am professional hater. But for now I&#39;m not hating.](http://9gag.com/gag/a4P321d)
- - 💣 [Human History.](http://9gag.com/gag/ayNeRXb)
- - 😝 [Cook you!](http://9gag.com/gag/a0eN1oq)
+ - 😝 [It&#39;s sad but.....](http://9gag.com/gag/aBymPzz)
+ - 😝 [Bald is beautiful](http://9gag.com/gag/a4P35dd)
+ - 💣 [Absolute\u2026 win?](http://9gag.com/gag/aD24VXB)
+ - 😝 [Right out of a movie](http://9gag.com/gag/avyzEEO)
  - 👉 [Ready to flex your reality-check skills? \ud83c\udfae](http://9gag.com/gag/adBV8wV)<!-- MEMES:END -->
 
 ---

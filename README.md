@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Best Early REI Black Friday Deals on Outdoor Gear &lpar;2024&rpar;](https://www.wired.com/story/black-friday-outdoor-deals-rei-2024/)
  - [Disney has reportedly pulled a Moon Girl and Devil Dinosaur episode for telling a trans-inclusive story](https://www.theverge.com/2024/11/15/24297438/moon-girl-and-devil-dinosaur-the-gatekeeper)
  - [How to use the Apple Maps Library feature in iOS 18](https://appleinsider.com/inside/apple-maps/tips/how-to-use-the-apple-maps-library-feature-in-ios-18?utm_medium=rss)
- - [Standing Desks Are Better for Your Health—but Still Not Enough](https://www.wired.com/story/standing-desk-health-benefits/)
- - [Here are the best Black Friday deals you can already get](https://www.theverge.com/24293826/best-early-black-friday-deals-2024-amazon-walmart-buy-target-tech-sale)
- - [What Lee Zeldin’s Nomination Means for the EPA](https://www.wired.com/story/what-lee-zeldins-nomination-means-for-the-epa/)<!-- TECH:END -->
+ - [NASA Leverages AI to Make Climate Data Searchable for Everyone](https://www.cnet.com/tech/services-and-software/nasa-leverages-ai-to-make-climate-data-searchable-for-everyone/#ftag=CAD590a51e)
+ - [This Anker 100W Charging Block Is Over 40% Off Right Now](https://www.cnet.com/deals/this-anker-100w-charging-block-is-over-40-off-right-now/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [In his amended lawsuit against OpenAI, Musk names new defendants including Microsoft, Reid Hoffman, and ex-OpenAI board member and Microsoft VP Dee Templeton &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/241115/p1#a241115p1)
  - [NASA partners with Microsoft to create Earth Copilot, an AI chatbot that can answer questions about the Earth using NASA&#39;s geospatial information &lpar;Emma Roth/The Verge&rpar;](http://www.techmeme.com/241114/p49#a241114p49)
- - [How to share a Wi-Fi QR code in iOS 18 to help your guests](https://appleinsider.com/inside/ios-18/tips/how-to-share-a-wi-fi-qr-code-in-ios-18-to-help-your-guests?utm_medium=rss)
- - [SwiftConnect, which provides a platform to let workers access physical offices via mobile digital badges, raised a $37M Series B led by Quadri Ventures &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/241114/p48#a241114p48)
- - [Today&#39;s NYT Mini Crossword Answers for Friday, Nov. 15](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-friday-nov-15/#ftag=CAD590a51e)
- - [Best Internet Providers in Honolulu, Hawaii](https://www.cnet.com/home/internet/best-internet-providers-in-honolulu-hi/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Today&#39;s NYT Connections: Sports Edition Hints and Answers for Nov. 15, #53](https://www.cnet.com/tech/gaming/todays-nyt-connections-sports-edition-hints-and-answers-for-nov-15-53/#ftag=CAD590a51e)
+ - [Today&#39;s NYT Strands Hints, Answers and Help for Nov. 15, #257](https://www.cnet.com/tech/gaming/todays-nyt-strands-hints-answers-and-help-for-nov-15-257/#ftag=CAD590a51e)
+ - [Today&#39;s NYT Connections Hints, Answers and Help for Nov. 15, #523](https://www.cnet.com/tech/gaming/todays-nyt-connections-hints-answers-and-help-for-nov-15-523/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

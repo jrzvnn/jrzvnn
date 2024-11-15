@@ -166,10 +166,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Mike Tyson snaps at fan asking for a pic, then feels bad and invites him over, making his night.](http://9gag.com/gag/a0eN6PQ)
+ - 😝 [800 homes in Utha lost power because a girl climbed up the transformer](http://9gag.com/gag/a87G2oY)
+ - 😝 [Absolute\u2026 win?](http://9gag.com/gag/aD24VXB)
+ - 💣 [It&#39;s sad but.....](http://9gag.com/gag/aBymPzz)
  - 😝 [Right out of a movie](http://9gag.com/gag/avyzEEO)
- - 💣 [Absolute\u2026 win?](http://9gag.com/gag/aD24VXB)
- - 😝 [It&#39;s sad but.....](http://9gag.com/gag/aBymPzz)
  - 👉 [Ready to flex your reality-check skills? \ud83c\udfae](http://9gag.com/gag/adBV8wV)<!-- MEMES:END -->
 
 ---

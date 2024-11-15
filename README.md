@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [One year after Sam Altman was dramatically ousted and reinstated, OpenAI remains dominant as it continues to push ahead on impressive new products &lpar;Shirin Ghaffary/Bloomberg&rpar;](http://www.techmeme.com/241115/p20#a241115p20)
  - [Google will let you make AI clip art for your documents](https://www.theverge.com/2024/11/15/24297524/google-docs-gemini-ai-image-generator-clip-art)
  - [Apple&#39;s 9th-Gen iPad Is Back Down to $200 With Black Friday Just Around the Corner](https://www.cnet.com/deals/apples-9th-gen-ipad-is-back-down-to-200-with-black-friday-just-around-the-corner/#ftag=CAD590a51e)
  - [Best Solar Panel Installation Companies in New Jersey](https://www.cnet.com/home/energy-and-utilities/new-jersey-solar-panels/#ftag=CAD590a51e)
- - [Best Solar Panel Installation Companies in Maryland](https://www.cnet.com/home/energy-and-utilities/maryland-solar-panels/#ftag=CAD590a51e)
- - [Best Dishwasher of 2024](https://www.cnet.com/home/kitchen-and-household/best-dishwasher/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Best Solar Panel Installation Companies in Maryland](https://www.cnet.com/home/energy-and-utilities/maryland-solar-panels/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

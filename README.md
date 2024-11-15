@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The 6 Automatic Litter Boxes We&#39;ve Tested and Recommend &lpar;2024&rpar;](https://www.wired.com/gallery/the-best-automatic-cat-litter-boxes/)
- - [‘I&#39;m Going to Bluesky’ Is the New ‘I’m Moving to Canada’](https://www.wired.com/story/im-going-to-bluesky-is-the-new-im-moving-to-canada/)
- - [A profile of Klarna and its CEO Sebastian Siemiatkowski as it filed for a US IPO on November 13; investors hope Klarna can achieve a $150B-$200B valuation &lpar;Financial Times&rpar;](http://www.techmeme.com/241115/p8#a241115p8)
- - [Some of Substack’s Biggest Writers Rely On AI Writing Tools](https://www.wired.com/story/substacks-writers-use-ai-chatgpt/)
- - [How to Design a Real-Life Hot Wheels Loop](https://www.wired.com/story/how-to-design-a-real-life-hot-wheels-loop/)<!-- TECH:END -->
+ - [Ant Group&#39;s profit grew ~193% YoY in the June quarter to $1.05B, reversing a year-long decline as it regains its footing from the Chinese government crackdown &lpar;Lulu Yilun Chen/Bloomberg&rpar;](http://www.techmeme.com/241115/p10#a241115p10)
+ - [VPNs and Online Gaming: Protecting your data and reducing lag](https://appleinsider.com/articles/24/11/15/vpns-and-online-gaming-protecting-your-data-and-reducing-lag?utm_medium=rss)
+ - [Alibaba reports Q2 revenue up 5% YoY to ~$32.4B, below ~$32.7B est., and net income up 58% YoY to ~$6.07B due to the performance of its equity investments &lpar;Ruxandra Iordache/CNBC&rpar;](http://www.techmeme.com/241115/p9#a241115p9)
+ - [M4 MacBook Pro display uses quantum dot film for more vibrant color &amp; motion performance](https://appleinsider.com/articles/24/11/15/m4-macbook-pro-use-quantum-dot-film-for-more-vibrant-color-motion-performance?utm_medium=rss)
+ - [The Race to Create the Perfect EV Tire](https://www.wired.com/story/the-race-to-create-the-perfect-ev-tire/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [11 Best MIDI Controllers for Synths and More &lpar;2024&rpar;](https://www.wired.com/gallery/best-midi-controllers/)
- - [Casio’s first smart ring has innovative features like a stopwatch and flashing alarm](https://www.theverge.com/2024/11/15/24297261/casio-smart-ring-digital-watch-crw-001-1jr)
- - [Cruise fined $500K for submitting a false report after last year’s pedestrian crash](https://www.theverge.com/2024/11/15/24297248/cruise-robotaxi-criminal-fine-falsify-report-pedestrian)
- - [Facebook makes Views its primary metric for content, bringing it in line with Instagram; each time a piece of content appears on a screen, it counts as a View &lpar;Mia Sato/The Verge&rpar;](http://www.techmeme.com/241115/p15#a241115p15)
- - [The best robot vacuums](https://www.theverge.com/22997597/best-robot-vacuum-cleaner)<!-- TECH:END -->
+ - [The new Mac Mini is great — now do the iPhone SE](https://www.theverge.com/2024/11/15/24296505/apple-iphone-se-rumors-mac-mini)
+ - [Best Early Black Friday iPad Deals: Take Up to $149 Off Top Apple Tablets](https://www.cnet.com/deals/best-early-black-friday-ipad-deals/#ftag=CAD590a51e)
+ - [Wondering How Much Cheaper Costco Groceries Are? I Did the Math](https://www.cnet.com/how-to/wondering-how-much-cheaper-costco-groceries-are-i-did-the-math/#ftag=CAD590a51e)
+ - [Best CD Rates Today, Nov. 15, 2024: There&#39;s Still Time to Score up to 4.75% APY](https://www.cnet.com/personal-finance/cd-rates-today-nov-15-2024/#ftag=CAD590a51e)
+ - [11 Best MIDI Controllers for Synths and More &lpar;2024&rpar;](https://www.wired.com/gallery/best-midi-controllers/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

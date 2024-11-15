@@ -167,9 +167,9 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [Them: The foods not that spicy. The food:](http://9gag.com/gag/a4P3AwQ)
+ - 😝 [This is the effect that a Komodo Dragon bite has on meat](http://9gag.com/gag/axy9b6K)
+ - 💣 [This is called `art`](http://9gag.com/gag/aoyP4d2)
  - 😝 [Hey girl. Leave him alone](http://9gag.com/gag/aGydAp5)
- - 💣 [Letter seal](http://9gag.com/gag/azxmKrb)
- - 😝 [This is called `art`](http://9gag.com/gag/aoyP4d2)
  - 👉 [Ready to flex your reality-check skills? \ud83c\udfae](http://9gag.com/gag/adBV8wV)<!-- MEMES:END -->
 
 ---

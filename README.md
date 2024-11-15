@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [WhatsApp now lets you save message drafts](https://www.theverge.com/2024/11/15/24297690/whatsapp-message-drafts-feature)
  - [Half-Life 2 is getting a huge 20th anniversary update](https://www.theverge.com/2024/11/15/24297691/half-life-2-20th-anniversary-update-documentary)
  - [ESPN is testing a generative AI avatar called ‘FACTS’](https://www.theverge.com/2024/11/15/24297606/espn-generative-ai-avatar-facts)
  - [New emails released as part of Elon Musk&#39;s lawsuit against OpenAI show Greg Brockman and Ilya Sutskever had serious concerns about Sam Altman as early as 2017 &lpar;Shakeel Hashim/Transformer&rpar;](http://www.techmeme.com/241115/p21#a241115p21)
- - [Best Smart Thermostats of 2024: Tested and Reviewed](https://www.cnet.com/home/energy-and-utilities/best-smart-thermostats/#ftag=CAD590a51e)
- - [What&#39;s All This About NASA Working on a Time Zone for the Moon?](https://www.cnet.com/science/space/nasa-is-creating-a-time-zone-for-the-moon-in-space-every-microsecond-matters/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Best Smart Thermostats of 2024: Tested and Reviewed](https://www.cnet.com/home/energy-and-utilities/best-smart-thermostats/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

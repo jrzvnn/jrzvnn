@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Found this on my late grandfather&#39;s phone](http://9gag.com/gag/aE0PDZO)
- - 😝 [I am professional hater. But for now I&#39;m not hating.](http://9gag.com/gag/a4P321d)
- - 💣 [Trumped again](http://9gag.com/gag/amovmbX)
- - 😝 [Human History.](http://9gag.com/gag/ayNeRXb)
- - 👉 [Ready to flex your reality-check skills? \ud83c\udfae](http://9gag.com/gag/adBV8wV)<!-- MEMES:END -->
+ - 😝 [Them: The foods not that spicy. The food:](http://9gag.com/gag/a4P3AwQ)
+ - 😝 [Lana is a savage](http://9gag.com/gag/a7oWVQ2)
+ - 💣 [Letter seal](http://9gag.com/gag/azxmKrb)
+ - 😝 [Ready to flex your reality-check skills? \ud83c\udfae](http://9gag.com/gag/adBV8wV)
+ - 👉 [This title is being replaced with a wooden leg](http://9gag.com/gag/a2vW2GY)<!-- MEMES:END -->
 
 ---
 

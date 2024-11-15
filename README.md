@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Booking.com Promo Code - November 2024](https://www.wired.com/story/booking-com-promo-code/)
+ - [$50 OFF VistaPrint Coupon, Promo Code for November 2024](https://www.wired.com/story/vistaprint-coupon-code/)
  - [Grubhub co-founder Matt Maloney says he led an effort to buy Grubhub for $1B+ around the start of 2024 and in 2022; Wonder bought Grubhub for $650M on Nov. 13 &lpar;Financial Times&rpar;](http://www.techmeme.com/241115/p4#a241115p4)
  - [Eighteen US states, led by Kentucky, sue the SEC and its commissioners, including Chairman Gary Gensler, over its crackdown on the crypto industry &lpar;Decrypt&rpar;](http://www.techmeme.com/241115/p3#a241115p3)
- - [The US DOJ says Cruise admits to submitting a false report to influence an investigation into an October 2023 crash with a pedestrian and will pay a $500K fine &lpar;David Shepardson/Reuters&rpar;](http://www.techmeme.com/241115/p2#a241115p2)
- - [In his amended lawsuit against OpenAI, Musk names new defendants including Microsoft, Reid Hoffman, and ex-OpenAI board member and Microsoft VP Dee Templeton &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/241115/p1#a241115p1)
- - [Dogecoin Surges Following Elon Musk News. What&#39;s Going on With This Popular Meme Coin?](https://www.cnet.com/personal-finance/crypto/dogecoin-surges-following-elon-musk-news-whats-going-on-with-this-popular-meme-coin/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [The US DOJ says Cruise admits to submitting a false report to influence an investigation into an October 2023 crash with a pedestrian and will pay a $500K fine &lpar;David Shepardson/Reuters&rpar;](http://www.techmeme.com/241115/p2#a241115p2)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

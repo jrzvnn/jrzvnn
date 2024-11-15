@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Eighteen US states, led by Kentucky, sue the SEC and its commissioners, including Chairman Gary Gensler, over its crackdown on the crypto industry &lpar;Decrypt&rpar;](http://www.techmeme.com/241115/p3#a241115p3)
  - [The US DOJ says Cruise admits to submitting a false report to influence an investigation into an October 2023 crash with a pedestrian and will pay a $500K fine &lpar;David Shepardson/Reuters&rpar;](http://www.techmeme.com/241115/p2#a241115p2)
  - [In his amended lawsuit against OpenAI, Musk names new defendants including Microsoft, Reid Hoffman, and ex-OpenAI board member and Microsoft VP Dee Templeton &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/241115/p1#a241115p1)
  - [NASA partners with Microsoft to create Earth Copilot, an AI chatbot that can answer questions about the Earth using NASA&#39;s geospatial information &lpar;Emma Roth/The Verge&rpar;](http://www.techmeme.com/241114/p49#a241114p49)
- - [Today&#39;s NYT Connections: Sports Edition Hints and Answers for Nov. 15, #53](https://www.cnet.com/tech/gaming/todays-nyt-connections-sports-edition-hints-and-answers-for-nov-15-53/#ftag=CAD590a51e)
- - [Today&#39;s NYT Strands Hints, Answers and Help for Nov. 15, #257](https://www.cnet.com/tech/gaming/todays-nyt-strands-hints-answers-and-help-for-nov-15-257/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Today&#39;s NYT Connections: Sports Edition Hints and Answers for Nov. 15, #53](https://www.cnet.com/tech/gaming/todays-nyt-connections-sports-edition-hints-and-answers-for-nov-15-53/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

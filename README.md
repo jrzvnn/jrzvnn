@@ -166,10 +166,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Letter seal](http://9gag.com/gag/azxmKrb)
+ - 😝 [This is so wrong](http://9gag.com/gag/apRGxep)
+ - 😝 [Absolute\u2026 win?](http://9gag.com/gag/aD24VXB)
+ - 💣 [11 year old goes to store and Mom gets arrested?](http://9gag.com/gag/aGydBX6)
  - 😝 [Smooooothhhh](http://9gag.com/gag/aD24Z9N)
- - 💣 [Man is about to go off script\u2026.](http://9gag.com/gag/aBymXwQ)
- - 😝 [Hey girl. Leave him alone](http://9gag.com/gag/aGydAp5)
  - 👉 [Ready to flex your reality-check skills? \ud83c\udfae](http://9gag.com/gag/adBV8wV)<!-- MEMES:END -->
 
 ---

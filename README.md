@@ -166,10 +166,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [It&#39;s sad but.....](http://9gag.com/gag/aBymPzz)
- - 😝 [They ruin everything](http://9gag.com/gag/aMVxX0X)
- - 💣 [Them: The foods not that spicy. The food:](http://9gag.com/gag/a4P3AwQ)
- - 😝 [Right out of a movie](http://9gag.com/gag/avyzEEO)
+ - 😝 [Trumped again](http://9gag.com/gag/amovmbX)
+ - 😝 [I am professional hater. But for now I&#39;m not hating.](http://9gag.com/gag/a4P321d)
+ - 💣 [Human History.](http://9gag.com/gag/ayNeRXb)
+ - 😝 [Cook you!](http://9gag.com/gag/a0eN1oq)
  - 👉 [Ready to flex your reality-check skills? \ud83c\udfae](http://9gag.com/gag/adBV8wV)<!-- MEMES:END -->
 
 ---

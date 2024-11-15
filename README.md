@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Google Photos Partner Sharing is less of a snitch now](https://www.theverge.com/2024/11/15/24297178/google-photos-partner-sharing-update-third-party-apps)
  - [Sources: xAI raised $5B at a $45B valuation, almost double its valuation a few months ago; SpaceX prepares a tender offer that would value the company at $250B+ &lpar;Financial Times&rpar;](http://www.techmeme.com/241115/p11#a241115p11)
  - [The 7 Best Mattress Toppers We&#39;ve Slept On &lpar;2024&rpar;](https://www.wired.com/gallery/best-mattress-toppers/)
  - [Final Cut Pro, Apple Home Hub, and new Mac reviews on the AppleInsider Podcast](https://appleinsider.com/articles/24/11/15/final-cut-pro-apple-home-hub-and-new-mac-reviews-on-the-appleinsider-podcast?utm_medium=rss)
- - [Searching for the Next Social Media Fix for the Next Trump Era](https://www.wired.com/story/social-media-fix-for-the-next-trump-era/)
- - [Ant Group&#39;s profit grew ~193% YoY in the June quarter to $1.05B, reversing a year-long decline as it regains its footing from the Chinese government crackdown &lpar;Lulu Yilun Chen/Bloomberg&rpar;](http://www.techmeme.com/241115/p10#a241115p10)<!-- TECH:END -->
+ - [Searching for the Next Social Media Fix for the Next Trump Era](https://www.wired.com/story/social-media-fix-for-the-next-trump-era/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

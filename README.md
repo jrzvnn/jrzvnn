@@ -166,10 +166,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [Mike Tyson snaps at fan asking for a pic, then feels bad and invites him over, making his night.](http://9gag.com/gag/a0eN6PQ)
  - 😝 [Them: The foods not that spicy. The food:](http://9gag.com/gag/a4P3AwQ)
- - 😝 [This is the effect that a Komodo Dragon bite has on meat](http://9gag.com/gag/axy9b6K)
- - 💣 [This is called `art`](http://9gag.com/gag/aoyP4d2)
- - 😝 [Hey girl. Leave him alone](http://9gag.com/gag/aGydAp5)
+ - 💣 [11 year old goes to store and Mom gets arrested?](http://9gag.com/gag/aGydBX6)
+ - 😝 [Letter seal](http://9gag.com/gag/azxmKrb)
  - 👉 [Ready to flex your reality-check skills? \ud83c\udfae](http://9gag.com/gag/adBV8wV)<!-- MEMES:END -->
 
 ---

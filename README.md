@@ -166,9 +166,9 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Them: The foods not that spicy. The food:](http://9gag.com/gag/a4P3AwQ)
+ - 😝 [Smooooothhhh](http://9gag.com/gag/aD24Z9N)
  - 😝 [This is called `art`](http://9gag.com/gag/aoyP4d2)
- - 💣 [Lyndon B Johnson smiling at Albert Thomas while being sworn in as president just 2 hours after the assassination of JFK.](http://9gag.com/gag/axy96Qn)
+ - 💣 [Letter seal](http://9gag.com/gag/azxmKrb)
  - 😝 [This is the effect that a Komodo Dragon bite has on meat](http://9gag.com/gag/axy9b6K)
  - 👉 [Ready to flex your reality-check skills? \ud83c\udfae](http://9gag.com/gag/adBV8wV)<!-- MEMES:END -->
 

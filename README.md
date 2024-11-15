@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [How to share a Wi-Fi QR code in iOS 18 to help your guests](https://appleinsider.com/inside/ios-18/tips/how-to-share-a-wi-fi-qr-code-in-ios-18-to-help-your-guests?utm_medium=rss)
  - [SwiftConnect, which provides a platform to let workers access physical offices via mobile digital badges, raised a $37M Series B led by Quadri Ventures &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/241114/p48#a241114p48)
- - [Fake AI albums targeting real artists are flooding Spotify to profit from royalty fraud, abusing a distribution process effectively based on the honor system &lpar;Elizabeth Lopatto/The Verge&rpar;](http://www.techmeme.com/241114/p47#a241114p47)
- - [The 8 Best Coffee Subscriptions of 2024, Tested by Us](https://www.cnet.com/home/kitchen-and-household/best-coffee-subscriptions-and-coffee-clubs/#ftag=CAD590a51e)
- - [Best Internet Providers in Forney, Texas](https://www.cnet.com/home/internet/best-internet-providers-in-forney-tx/#ftag=CAD590a51e)
- - [Best Internet Providers in Grand Prairie, Texas](https://www.cnet.com/home/internet/best-internet-providers-in-grand-prairie-tx/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Today&#39;s NYT Mini Crossword Answers for Friday, Nov. 15](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-friday-nov-15/#ftag=CAD590a51e)
+ - [Best Internet Providers in Honolulu, Hawaii](https://www.cnet.com/home/internet/best-internet-providers-in-honolulu-hi/#ftag=CAD590a51e)
+ - [Fake AI albums targeting real artists are flooding Spotify to profit from royalty fraud, abusing a distribution process effectively based on the honor system &lpar;Elizabeth Lopatto/The Verge&rpar;](http://www.techmeme.com/241114/p47#a241114p47)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

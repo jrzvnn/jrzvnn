@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [18 states want the SEC to stop enforcing crypto regulation](https://www.theverge.com/2024/11/15/24297696/crypto-states-jurisdiction-sec-assets)
  - [WhatsApp now lets you save message drafts](https://www.theverge.com/2024/11/15/24297690/whatsapp-message-drafts-feature)
  - [Half-Life 2 is getting a huge 20th anniversary update](https://www.theverge.com/2024/11/15/24297691/half-life-2-20th-anniversary-update-documentary)
  - [Best Solar Panel Installation Companies in Florida](https://www.cnet.com/home/energy-and-utilities/florida-solar-panels/#ftag=CAD590a51e)
- - [How to Get Double XP Tokens in Black Ops 6 and Warzone](https://www.cnet.com/tech/gaming/how-to-get-double-xp-tokens-in-black-ops-6/#ftag=CAD590a51e)
- - [Jump on These Early Holiday Deals Now to Save Big](https://www.cnet.com/paid-content/news/jump-on-these-early-holiday-deals-now-to-save-big/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [How to Get Double XP Tokens in Black Ops 6 and Warzone](https://www.cnet.com/tech/gaming/how-to-get-double-xp-tokens-in-black-ops-6/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

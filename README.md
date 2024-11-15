@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [11 Best Gifts for Men, Manly Men, and Menly Man Men &lpar;2024&rpar;](https://www.wired.com/gallery/best-gifts-for-men/)
  - [The Rabbit R1 now lets you remake its whole interface](https://www.theverge.com/2024/11/15/24297208/rabbit-r1-custom-interface-ai)
  - [The New Hatred of Technology](https://www.wired.com/story/plaintext-the-new-hatred-of-technology/)
  - [The Verge’s 2024 holiday gift guide for new parents](https://www.theverge.com/24224050/holiday-gifts-newborn-babies-new-parents-unique-ideas-2024-tech-gadgets)
- - [UK mobile operator Virgin Media O2 creates Daisy, an AI-generated &quot;scambaiter&quot; tool that mimics the voice of an elderly woman to waste scammers&#39; time &lpar;Jibin Joseph/PCMag&rpar;](http://www.techmeme.com/241115/p13#a241115p13)
- - [HTC Vive Focus Vision Review: Crystal Clear VR, When It Works](https://www.wired.com/review/htc-vive-focus-vision/)<!-- TECH:END -->
+ - [UK mobile operator Virgin Media O2 creates Daisy, an AI-generated &quot;scambaiter&quot; tool that mimics the voice of an elderly woman to waste scammers&#39; time &lpar;Jibin Joseph/PCMag&rpar;](http://www.techmeme.com/241115/p13#a241115p13)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

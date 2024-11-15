@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Meta Lobbyist Turned Regulator Says Europe’s Big Tech Rules Have Gone Too Far](https://www.wired.com/story/meta-lobbyist-eu-regulator-big-tech-rules-too-far/)
+ - [The First Crispr Treatment Is Making Its Way to Patients](https://www.wired.com/story/irst-crispr-treatment-patients-sickle-cell/)
  - [Biden admin finalizes its $6.6B CHIPS Act grant to TSMC; money will be disbursed in stages and TSMC is expected to receive at least $1B by the end of 2024 &lpar;Yifan Yu/Nikkei Asia&rpar;](http://www.techmeme.com/241115/p7#a241115p7)
  - [Filing: Samsung plans to buy back about $7.2B of its own stock in stages over the next year, in one of the larger shareholder return programs in its history &lpar;Bloomberg&rpar;](http://www.techmeme.com/241115/p6#a241115p6)
- - [Best Internet Providers in Kent, Washington](https://www.cnet.com/home/internet/best-internet-providers-in-kent-wa/#ftag=CAD590a51e)
- - [How Physical Intelligence is trying to give robots a humanlike understanding of the physical world by feeding data from robots doing tasks into its AI model &lpar;Will Knight/Wired&rpar;](http://www.techmeme.com/241115/p5#a241115p5)
- - [My Bags Don&#39;t Leave the House Without an AirTag Inside. And the Apple Tracker Is on Sale Ahead of Black Friday](https://www.cnet.com/deals/my-bags-dont-leave-the-house-without-an-airtag-inside-and-the-apple-tracker-is-on-sale-ahead-of-black-friday/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Best Internet Providers in Kent, Washington](https://www.cnet.com/home/internet/best-internet-providers-in-kent-wa/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

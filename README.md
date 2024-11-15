@@ -166,10 +166,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Lyndon B Johnson smiling at Albert Thomas while being sworn in as president just 2 hours after the assassination of JFK.](http://9gag.com/gag/axy96Qn)
- - 😝 [Mike Tyson snaps at fan asking for a pic, then feels bad and invites him over, making his night.](http://9gag.com/gag/a0eN6PQ)
- - 💣 [Classic](http://9gag.com/gag/aMVxmAV)
- - 😝 [Hey girl. Leave him alone](http://9gag.com/gag/aGydAp5)
+ - 😝 [11 year old goes to store and Mom gets arrested?](http://9gag.com/gag/aGydBX6)
+ - 😝 [Letter seal](http://9gag.com/gag/azxmKrb)
+ - 💣 [My retirement plan so far](http://9gag.com/gag/aMVxnGP)
+ - 😝 [Funny dad](http://9gag.com/gag/aQzdQgz)
  - 👉 [The Roborock robot vacuum understood the assignment! \u2728](http://9gag.com/gag/aVvwD8O)<!-- MEMES:END -->
 
 ---

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Standing Desks Are Better for Your Health—but Still Not Enough](https://www.wired.com/story/standing-desk-health-benefits/)
  - [Here are the best Black Friday deals you can already get](https://www.theverge.com/24293826/best-early-black-friday-deals-2024-amazon-walmart-buy-target-tech-sale)
  - [What Lee Zeldin’s Nomination Means for the EPA](https://www.wired.com/story/what-lee-zeldins-nomination-means-for-the-epa/)
  - [Bluesky says it has &quot;no intention&quot; of taking user content to train AI tools, ahead of X implementing new terms of service that let it train AI on user content &lpar;Jay Peters/The Verge&rpar;](http://www.techmeme.com/241115/p18#a241115p18)
- - [The M4 MacBook Pro features a quantum dot display](https://www.theverge.com/2024/11/15/24297414/m4-macbook-pro-quantum-dot-display)
- - [Samsung Galaxy Buds 2 Pro Deals: Up to $150 Off These Colorful Wireless Earbuds](https://www.cnet.com/deals/best-galaxy-buds-2-pro-deals/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [The M4 MacBook Pro features a quantum dot display](https://www.theverge.com/2024/11/15/24297414/m4-macbook-pro-quantum-dot-display)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

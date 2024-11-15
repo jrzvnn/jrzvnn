@@ -167,10 +167,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [Them: The foods not that spicy. The food:](http://9gag.com/gag/a4P3AwQ)
- - 😝 [Lyndon B Johnson smiling at Albert Thomas while being sworn in as president just 2 hours after the assassination of JFK.](http://9gag.com/gag/axy96Qn)
- - 💣 [11 year old goes to store and Mom gets arrested?](http://9gag.com/gag/aGydBX6)
- - 😝 [Pilot Forgets to Attach Tourist to Hang Glider.](http://9gag.com/gag/aO87ZxN)
- - 👉 [My retirement plan so far](http://9gag.com/gag/aMVxnGP)<!-- MEMES:END -->
+ - 😝 [My retirement plan so far](http://9gag.com/gag/aMVxnGP)
+ - 💣 [Hey girl. Leave him alone](http://9gag.com/gag/aGydAp5)
+ - 😝 [Funny dad](http://9gag.com/gag/aQzdQgz)
+ - 👉 [11 year old goes to store and Mom gets arrested?](http://9gag.com/gag/aGydBX6)<!-- MEMES:END -->
 
 ---
 

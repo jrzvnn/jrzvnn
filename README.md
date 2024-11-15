@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Bruce has no chill.](http://9gag.com/gag/aXPg4L9)
- - 😝 [`Stop hiring unqualified people` says the D-E-I hire...](http://9gag.com/gag/amovxzy)
- - 💣 [This is called `art`](http://9gag.com/gag/aoyP4d2)
+ - 😝 [Classic](http://9gag.com/gag/aMVxmAV)
+ - 😝 [Smooooothhhh](http://9gag.com/gag/aD24Z9N)
+ - 💣 [Meanwhile in Beirut](http://9gag.com/gag/aryVxr7)
  - 😝 [The Roborock robot vacuum understood the assignment! \u2728](http://9gag.com/gag/aVvwD8O)
- - 👉 [Bit late to the party but started this journey today &lpar;first time&rpar;](http://9gag.com/gag/an74xvn)<!-- MEMES:END -->
+ - 👉 [Funny dad](http://9gag.com/gag/aQzdQgz)<!-- MEMES:END -->
 
 ---
 

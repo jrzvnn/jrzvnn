@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The 6 Automatic Litter Boxes We&#39;ve Tested and Recommend &lpar;2024&rpar;](https://www.wired.com/gallery/the-best-automatic-cat-litter-boxes/)
+ - [‘I&#39;m Going to Bluesky’ Is the New ‘I’m Moving to Canada’](https://www.wired.com/story/im-going-to-bluesky-is-the-new-im-moving-to-canada/)
+ - [A profile of Klarna and its CEO Sebastian Siemiatkowski as it filed for a US IPO on November 13; investors hope Klarna can achieve a $150B-$200B valuation &lpar;Financial Times&rpar;](http://www.techmeme.com/241115/p8#a241115p8)
  - [Some of Substack’s Biggest Writers Rely On AI Writing Tools](https://www.wired.com/story/substacks-writers-use-ai-chatgpt/)
- - [How to Design a Real-Life Hot Wheels Loop](https://www.wired.com/story/how-to-design-a-real-life-hot-wheels-loop/)
- - [Best Dog Accessories &lpar;2024&rpar;, Tested and Reviewed](https://www.wired.com/gallery/best-dog-accessories/)
- - [Meta Lobbyist Turned Regulator Says Europe’s Big Tech Rules Have Gone Too Far](https://www.wired.com/story/meta-lobbyist-eu-regulator-big-tech-rules-too-far/)
- - [The First Crispr Treatment Is Making Its Way to Patients](https://www.wired.com/story/irst-crispr-treatment-patients-sickle-cell/)<!-- TECH:END -->
+ - [How to Design a Real-Life Hot Wheels Loop](https://www.wired.com/story/how-to-design-a-real-life-hot-wheels-loop/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

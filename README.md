@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [HTC Vive Focus Vision Review: Crystal Clear VR, When It Works](https://www.wired.com/review/htc-vive-focus-vision/)
  - [Amazon’s Fire TV Stick 4K Max has plunged to a record-low for Black Friday](https://www.theverge.com/2024/11/15/24296519/amazon-fire-tv-stick-4k-max-logitech-g-pro-x-superlight-2-gaming-mouse-deal-sale)
  - [X sues to block California&#39;s AB 2655, aimed at curbing AI-generated deceptive election content on social media, claiming it impinges on free speech &lpar;Peter Blumberg/Bloomberg&rpar;](http://www.techmeme.com/241115/p12#a241115p12)
  - [Bluesky’s quest to be the next Twitter](https://www.theverge.com/2024/11/15/24297196/bluesky-growth-threads-x-vergecast)
- - [Dune: Prophecy is a slow and cerebral meditation on the power of patience](https://www.theverge.com/24294672/dune-prophecy-review-hbo)
- - [Bitfinex hacker receives five-year sentence for record-breaking crypto heist](https://www.theverge.com/2024/11/15/24297157/bitfinex-hacker-sentenced-crypto-bitcoin-heist)<!-- TECH:END -->
+ - [Dune: Prophecy is a slow and cerebral meditation on the power of patience](https://www.theverge.com/24294672/dune-prophecy-review-hbo)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

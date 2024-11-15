@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [How Physical Intelligence is trying to give robots a humanlike understanding of the physical world by feeding data from robots doing tasks into its AI model &lpar;Will Knight/Wired&rpar;](http://www.techmeme.com/241115/p5#a241115p5)
  - [Best Internet Providers in Idaho](https://www.cnet.com/home/internet/best-internet-providers-in-idaho/#ftag=CAD590a51e)
  - [Level Up Your Gift Giving With 10% Off Xbox and PlayStation Gift Cards on Amazon Right Now](https://www.cnet.com/deals/level-up-your-gift-giving-with-10-percent-off-xbox-and-playstation-gift-cards-on-amazon-right-now/#ftag=CAD590a51e)
  - [Best Internet Providers in Greenville, South Carolina](https://www.cnet.com/home/internet/best-internet-providers-in-greenville-sc/#ftag=CAD590a51e)
- - [Booking.com Promo Code - November 2024](https://www.wired.com/story/booking-com-promo-code/)
- - [$50 OFF VistaPrint Coupon, Promo Code for November 2024](https://www.wired.com/story/vistaprint-coupon-code/)<!-- TECH:END -->
+ - [Booking.com Promo Code - November 2024](https://www.wired.com/story/booking-com-promo-code/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

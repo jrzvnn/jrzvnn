@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Best Dog Accessories &lpar;2024&rpar;, Tested and Reviewed](https://www.wired.com/gallery/best-dog-accessories/)
  - [Meta Lobbyist Turned Regulator Says Europe’s Big Tech Rules Have Gone Too Far](https://www.wired.com/story/meta-lobbyist-eu-regulator-big-tech-rules-too-far/)
  - [The First Crispr Treatment Is Making Its Way to Patients](https://www.wired.com/story/irst-crispr-treatment-patients-sickle-cell/)
- - [Biden admin finalizes its $6.6B CHIPS Act grant to TSMC; money will be disbursed in stages and TSMC is expected to receive at least $1B by the end of 2024 &lpar;Yifan Yu/Nikkei Asia&rpar;](http://www.techmeme.com/241115/p7#a241115p7)
- - [Filing: Samsung plans to buy back about $7.2B of its own stock in stages over the next year, in one of the larger shareholder return programs in its history &lpar;Bloomberg&rpar;](http://www.techmeme.com/241115/p6#a241115p6)
- - [Best Internet Providers in Kent, Washington](https://www.cnet.com/home/internet/best-internet-providers-in-kent-wa/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Best CD Rates Today, Nov. 15, 2024: There&#39;s Still Time to Score up to 4.75% APY](https://www.cnet.com/personal-finance/banking/cd-rates-today-nov-15-2024/#ftag=CAD590a51e)
+ - [Biden admin finalizes its $6.6B CHIPS Act grant to TSMC; money will be disbursed in stages and TSMC is expected to receive at least $1B by the end of 2024 &lpar;Yifan Yu/Nikkei Asia&rpar;](http://www.techmeme.com/241115/p7#a241115p7)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

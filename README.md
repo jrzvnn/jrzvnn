@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Palantir stock jumps 9% after announcing a move from the NYSE to the Nasdaq; its stock is up 50%+ since reporting better-than-expected earnings on November 4 &lpar;Ari Levy/CNBC&rpar;](http://www.techmeme.com/241115/p19#a241115p19)
  - [Best Early REI Black Friday Deals on Outdoor Gear &lpar;2024&rpar;](https://www.wired.com/story/black-friday-outdoor-deals-rei-2024/)
  - [Disney has reportedly pulled a Moon Girl and Devil Dinosaur episode for telling a trans-inclusive story](https://www.theverge.com/2024/11/15/24297438/moon-girl-and-devil-dinosaur-the-gatekeeper)
  - [How to use the Apple Maps Library feature in iOS 18](https://appleinsider.com/inside/apple-maps/tips/how-to-use-the-apple-maps-library-feature-in-ios-18?utm_medium=rss)
- - [NASA Leverages AI to Make Climate Data Searchable for Everyone](https://www.cnet.com/tech/services-and-software/nasa-leverages-ai-to-make-climate-data-searchable-for-everyone/#ftag=CAD590a51e)
- - [This Anker 100W Charging Block Is Over 40% Off Right Now](https://www.cnet.com/deals/this-anker-100w-charging-block-is-over-40-off-right-now/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [NASA Leverages AI to Make Climate Data Searchable for Everyone](https://www.cnet.com/tech/services-and-software/nasa-leverages-ai-to-make-climate-data-searchable-for-everyone/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

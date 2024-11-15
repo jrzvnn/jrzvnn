@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Bitfinex hacker receives five-year sentence for record-breaking crypto heist](https://www.theverge.com/2024/11/15/24297157/bitfinex-hacker-sentenced-crypto-bitcoin-heist)
+ - [Black Friday mega sale: 36% off AI Photo Enhancer for 8x Bold Sight](https://appleinsider.com/articles/24/11/15/black-friday-mega-sale-36-off-ai-photo-enhancer-for-8x-bold-sight?utm_medium=rss)
+ - [The 7 Best Milk Frothers for Your Home Espresso Setup &lpar;2024&rpar;](https://www.wired.com/gallery/best-milk-frothers/)
  - [Google Photos Partner Sharing is less of a snitch now](https://www.theverge.com/2024/11/15/24297178/google-photos-partner-sharing-update-third-party-apps)
- - [Sources: xAI raised $5B at a $45B valuation, almost double its valuation a few months ago; SpaceX prepares a tender offer that would value the company at $250B+ &lpar;Financial Times&rpar;](http://www.techmeme.com/241115/p11#a241115p11)
- - [The 7 Best Mattress Toppers We&#39;ve Slept On &lpar;2024&rpar;](https://www.wired.com/gallery/best-mattress-toppers/)
- - [Final Cut Pro, Apple Home Hub, and new Mac reviews on the AppleInsider Podcast](https://appleinsider.com/articles/24/11/15/final-cut-pro-apple-home-hub-and-new-mac-reviews-on-the-appleinsider-podcast?utm_medium=rss)
- - [Searching for the Next Social Media Fix for the Next Trump Era](https://www.wired.com/story/social-media-fix-for-the-next-trump-era/)<!-- TECH:END -->
+ - [Sources: xAI raised $5B at a $45B valuation, almost double its valuation a few months ago; SpaceX prepares a tender offer that would value the company at $250B+ &lpar;Financial Times&rpar;](http://www.techmeme.com/241115/p11#a241115p11)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

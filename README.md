@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Some of Substack’s Biggest Writers Rely On AI Writing Tools](https://www.wired.com/story/substacks-writers-use-ai-chatgpt/)
+ - [How to Design a Real-Life Hot Wheels Loop](https://www.wired.com/story/how-to-design-a-real-life-hot-wheels-loop/)
  - [Best Dog Accessories &lpar;2024&rpar;, Tested and Reviewed](https://www.wired.com/gallery/best-dog-accessories/)
  - [Meta Lobbyist Turned Regulator Says Europe’s Big Tech Rules Have Gone Too Far](https://www.wired.com/story/meta-lobbyist-eu-regulator-big-tech-rules-too-far/)
- - [The First Crispr Treatment Is Making Its Way to Patients](https://www.wired.com/story/irst-crispr-treatment-patients-sickle-cell/)
- - [Best CD Rates Today, Nov. 15, 2024: There&#39;s Still Time to Score up to 4.75% APY](https://www.cnet.com/personal-finance/banking/cd-rates-today-nov-15-2024/#ftag=CAD590a51e)
- - [Biden admin finalizes its $6.6B CHIPS Act grant to TSMC; money will be disbursed in stages and TSMC is expected to receive at least $1B by the end of 2024 &lpar;Yifan Yu/Nikkei Asia&rpar;](http://www.techmeme.com/241115/p7#a241115p7)<!-- TECH:END -->
+ - [The First Crispr Treatment Is Making Its Way to Patients](https://www.wired.com/story/irst-crispr-treatment-patients-sickle-cell/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

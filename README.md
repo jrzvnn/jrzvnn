@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Level Up Your Gift Giving With 10% Off Xbox and PlayStation Gift Cards on Amazon Right Now](https://www.cnet.com/deals/level-up-your-gift-giving-with-10-percent-off-xbox-and-playstation-gift-cards-on-amazon-right-now/#ftag=CAD590a51e)
+ - [Best Internet Providers in Greenville, South Carolina](https://www.cnet.com/home/internet/best-internet-providers-in-greenville-sc/#ftag=CAD590a51e)
  - [Booking.com Promo Code - November 2024](https://www.wired.com/story/booking-com-promo-code/)
  - [$50 OFF VistaPrint Coupon, Promo Code for November 2024](https://www.wired.com/story/vistaprint-coupon-code/)
- - [The 5 Best Magnesium Supplements of 2024](https://www.cnet.com/health/nutrition/5-best-magnesium-supplements/#ftag=CAD590a51e)
- - [Grubhub co-founder Matt Maloney says he led an effort to buy Grubhub for $1B+ around the start of 2024 and in 2022; Wonder bought Grubhub for $650M on Nov. 13 &lpar;Financial Times&rpar;](http://www.techmeme.com/241115/p4#a241115p4)
- - [Eighteen US states, led by Kentucky, sue the SEC and its commissioners, including Chairman Gary Gensler, over its crackdown on the crypto industry &lpar;Decrypt&rpar;](http://www.techmeme.com/241115/p3#a241115p3)<!-- TECH:END -->
+ - [The 5 Best Magnesium Supplements of 2024](https://www.cnet.com/health/nutrition/5-best-magnesium-supplements/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

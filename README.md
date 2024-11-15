@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Them: The foods not that spicy. The food:](http://9gag.com/gag/a4P3AwQ)
- - 😝 [Lana is a savage](http://9gag.com/gag/a7oWVQ2)
- - 💣 [Letter seal](http://9gag.com/gag/azxmKrb)
- - 😝 [Ready to flex your reality-check skills? \ud83c\udfae](http://9gag.com/gag/adBV8wV)
- - 👉 [This title is being replaced with a wooden leg](http://9gag.com/gag/a2vW2GY)<!-- MEMES:END -->
+ - 😝 [800 homes in Utha lost power because a girl climbed up the transformer](http://9gag.com/gag/a87G2oY)
+ - 😝 [You know I&#39;ll be around. Start stripping off that dress now. You know us all too well](http://9gag.com/gag/aLnwm8z)
+ - 💣 [New Zealand\u2019s Parliament proposed a bill to redefine the Treaty of Waitangi, claiming it is racist and gives preferential treatment to Maoris. In response M\u0101ori MP&#39;s tore up the bill and performed the Haka](http://9gag.com/gag/ajP9xOG)
+ - 😝 [This title is being replaced with a wooden leg](http://9gag.com/gag/a2vW2GY)
+ - 👉 [Ready to flex your reality-check skills? \ud83c\udfae](http://9gag.com/gag/adBV8wV)<!-- MEMES:END -->
 
 ---
 

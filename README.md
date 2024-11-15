@@ -168,7 +168,7 @@ R                        1 repo              ░░░░░░░░░░░�
 <!-- MEMES:START -->
  - 😝 [My retirement plan so far](http://9gag.com/gag/aMVxnGP)
  - 😝 [Them: The foods not that spicy. The food:](http://9gag.com/gag/a4P3AwQ)
- - 💣 [Funny dad](http://9gag.com/gag/aQzdQgz)
+ - 💣 [This is what a hole in the skin looks like after a needle punctures it, as observed under a scanning electron microscope.](http://9gag.com/gag/aPA7oMB)
  - 😝 [Hey girl. Leave him alone](http://9gag.com/gag/aGydAp5)
  - 👉 [The Roborock robot vacuum understood the assignment! \u2728](http://9gag.com/gag/aVvwD8O)<!-- MEMES:END -->
 

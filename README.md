@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [A senior SDNY prosecutor says the office will devote fewer resources to policing crypto crimes after securing several major convictions, including that of SBF &lpar;Luc Cohen/Reuters&rpar;](http://www.techmeme.com/241115/p17#a241115p17)
  - [Here are the best AirPods deals you can get right now](https://www.theverge.com/21302051/best-apple-airpods-deals)
  - [Apple pulls US-funded Radio Free Europe app from Russia](https://appleinsider.com/articles/24/11/15/apple-pulls-us-funded-radio-free-europe-app-from-russia?utm_medium=rss)
  - [Apple removes RFE/RL&#39;s Svoboda app from the Russian App Store at the demand of Roskomnadzor; Apple also removed recent podcasts by Ekho Moskvy and others &lpar;Radio Free Europe/Radio Liberty&rpar;](http://www.techmeme.com/241115/p16#a241115p16)
- - [The new Mac Mini is great — now do the iPhone SE](https://www.theverge.com/2024/11/15/24296505/apple-iphone-se-rumors-mac-mini)
- - [Best Early Black Friday iPad Deals: Take Up to $149 Off Top Apple Tablets](https://www.cnet.com/deals/best-early-black-friday-ipad-deals/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [The new Mac Mini is great — now do the iPhone SE](https://www.theverge.com/2024/11/15/24296505/apple-iphone-se-rumors-mac-mini)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

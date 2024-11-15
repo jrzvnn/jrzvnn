@@ -166,10 +166,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [This title is being replaced with a wooden leg](http://9gag.com/gag/a2vW2GY)
- - 😝 [Hey girl. Leave him alone](http://9gag.com/gag/aGydAp5)
- - 💣 [800 homes in Utha lost power because a girl climbed up the transformer](http://9gag.com/gag/a87G2oY)
- - 😝 [It&#39;s sad but.....](http://9gag.com/gag/aBymPzz)
+ - 😝 [Found this on my late grandfather&#39;s phone](http://9gag.com/gag/aE0PDZO)
+ - 😝 [I am professional hater. But for now I&#39;m not hating.](http://9gag.com/gag/a4P321d)
+ - 💣 [Trumped again](http://9gag.com/gag/amovmbX)
+ - 😝 [Human History.](http://9gag.com/gag/ayNeRXb)
  - 👉 [Ready to flex your reality-check skills? \ud83c\udfae](http://9gag.com/gag/adBV8wV)<!-- MEMES:END -->
 
 ---

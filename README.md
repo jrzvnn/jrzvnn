@@ -166,10 +166,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [Smooooothhhh](http://9gag.com/gag/aD24Z9N)
  - 😝 [Classic](http://9gag.com/gag/aMVxmAV)
- - 😝 [Bald is beautiful](http://9gag.com/gag/a4P35dd)
- - 💣 [Smooooothhhh](http://9gag.com/gag/aD24Z9N)
- - 😝 [11 year old goes to store and Mom gets arrested?](http://9gag.com/gag/aGydBX6)
+ - 💣 [This is what a hole in the skin looks like after a needle punctures it, as observed under a scanning electron microscope.](http://9gag.com/gag/aPA7oMB)
+ - 😝 [Mike Tyson snaps at fan asking for a pic, then feels bad and invites him over, making his night.](http://9gag.com/gag/a0eN6PQ)
  - 👉 [The Roborock robot vacuum understood the assignment! \u2728](http://9gag.com/gag/aVvwD8O)<!-- MEMES:END -->
 
 ---

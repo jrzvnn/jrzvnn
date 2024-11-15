@@ -166,10 +166,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Them: The foods not that spicy. The food:](http://9gag.com/gag/a4P3AwQ)
- - 😝 [Japan football national team formation under new coach](http://9gag.com/gag/ayNeWMr)
- - 💣 [Lyndon B Johnson smiling at Albert Thomas while being sworn in as president just 2 hours after the assassination of JFK.](http://9gag.com/gag/axy96Qn)
- - 😝 [Hey girl. Leave him alone](http://9gag.com/gag/aGydAp5)
+ - 😝 [This is the effect that a Komodo Dragon bite has on meat](http://9gag.com/gag/axy9b6K)
+ - 😝 [Mike Tyson snaps at fan asking for a pic, then feels bad and invites him over, making his night.](http://9gag.com/gag/a0eN6PQ)
+ - 💣 [Them: The foods not that spicy. The food:](http://9gag.com/gag/a4P3AwQ)
+ - 😝 [Hold up!](http://9gag.com/gag/aRB7ZOy)
  - 👉 [Ready to flex your reality-check skills? \ud83c\udfae](http://9gag.com/gag/adBV8wV)<!-- MEMES:END -->
 
 ---

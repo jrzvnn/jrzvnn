@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [The more you know...](http://9gag.com/gag/ae9DmRQ)
- - 😝 [Cook you!](http://9gag.com/gag/a0eN1oq)
- - 💣 [Human History.](http://9gag.com/gag/ayNeRXb)
+ - 😝 [My fellow gamers](http://9gag.com/gag/ajP9Z90)
+ - 😝 [New Zealand\u2019s Parliament proposed a bill to redefine the Treaty of Waitangi, claiming it is racist and gives preferential treatment to Maoris. In response M\u0101ori MP&#39;s tore up the bill and performed the Haka](http://9gag.com/gag/ajP9xOG)
+ - 💣 [This title is being replaced with a wooden leg](http://9gag.com/gag/a2vW2GY)
  - 😝 [Ready to flex your reality-check skills? \ud83c\udfae](http://9gag.com/gag/adBV8wV)
- - 👉 [Man is about to go off script\u2026.](http://9gag.com/gag/aBymXwQ)<!-- MEMES:END -->
+ - 👉 [It&#39;s sad but.....](http://9gag.com/gag/aBymPzz)<!-- MEMES:END -->
 
 ---
 

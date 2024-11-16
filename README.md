@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [B&amp;H Promo Codes and Deals for November 2024](https://www.wired.com/story/bh-photo-coupon/)
+ - [Agree With the Judges? Rewatch the Mike Tyson vs. Jake Paul Fight on Netflix](https://www.cnet.com/tech/services-and-software/agree-with-the-judges-rewatch-the-mike-tyson-vs-jake-paul-fight-on-netflix/#ftag=CAD590a51e)
  - [Best Latex Mattress of 2024, Tested and Hand-Selected by Our Experts](https://www.cnet.com/health/sleep/best-latex-mattress/#ftag=CAD590a51e)
  - [Many Netflix viewers faced issues while watching the Jake Paul vs. Mike Tyson fight and the undercard bouts, including the stream glitching and losing sound &lpar;Dominic Patten/Deadline&rpar;](http://www.techmeme.com/241116/p1#a241116p1)
- - [Best Cordless Drill of 2024](https://www.cnet.com/news/best-cordless-drill/#ftag=CAD590a51e)
- - [A look at the challenges facing the Trump administration for regulating AI; policy analysts suspect Trump will dismantle or reshape the US AI Safety Institute &lpar;Ellen Huet/Bloomberg&rpar;](http://www.techmeme.com/241115/p25#a241115p25)
- - [Today&#39;s NYT Connections: Sports Edition Hints and Answers for Nov. 16, #54](https://www.cnet.com/tech/gaming/todays-nyt-connections-sports-edition-hints-and-answers-for-nov-16-54/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Best Cordless Drill of 2024](https://www.cnet.com/news/best-cordless-drill/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -166,10 +166,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [The more you know...](http://9gag.com/gag/ae9DmRQ)
- - 😝 [Cook you!](http://9gag.com/gag/a0eN1oq)
- - 💣 [Human History.](http://9gag.com/gag/ayNeRXb)
- - 😝 [Man is about to go off script\u2026.](http://9gag.com/gag/aBymXwQ)
+ - 😝 [It&#39;s sad but.....](http://9gag.com/gag/aBymPzz)
+ - 😝 [Shining fish &lpar;cutlass&rpar;](http://9gag.com/gag/aKG7WG1)
+ - 💣 [Right out of a movie](http://9gag.com/gag/avyzEEO)
+ - 😝 [You know I&#39;ll be around. Start stripping off that dress now. You know us all too well](http://9gag.com/gag/aLnwm8z)
  - 👉 [Ready to flex your reality-check skills? \ud83c\udfae](http://9gag.com/gag/adBV8wV)<!-- MEMES:END -->
 
 ---

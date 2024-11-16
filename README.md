@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Cheaper than renting in new york](http://9gag.com/gag/azxm4jx)
- - 😝 [You know I&#39;ll be around. Start stripping off that dress now. You know us all too well](http://9gag.com/gag/aLnwm8z)
+ - 😝 [Man is about to go off script\u2026.](http://9gag.com/gag/aBymXwQ)
+ - 😝 [Have a cup of coffee](http://9gag.com/gag/amovR96)
  - 💣 [Them: The foods not that spicy. The food:](http://9gag.com/gag/a4P3AwQ)
- - 😝 [Ready to flex your reality-check skills? \ud83c\udfae](http://9gag.com/gag/adBV8wV)
- - 👉 [The marriage is over](http://9gag.com/gag/amovp3o)<!-- MEMES:END -->
+ - 😝 [Lana is a savage](http://9gag.com/gag/a7oWVQ2)
+ - 👉 [It&#39;s sad but.....](http://9gag.com/gag/aBymPzz)<!-- MEMES:END -->
 
 ---
 

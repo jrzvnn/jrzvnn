@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Man is about to go off script\u2026.](http://9gag.com/gag/aBymXwQ)
- - 😝 [Instant karma](http://9gag.com/gag/aQzdODr)
- - 💣 [Cheaper than renting in new york](http://9gag.com/gag/azxm4jx)
+ - 😝 [Hey girl. Leave him alone](http://9gag.com/gag/aGydAp5)
  - 😝 [This is so wrong](http://9gag.com/gag/apRGxep)
- - 👉 [This title is being replaced with a wooden leg](http://9gag.com/gag/a2vW2GY)<!-- MEMES:END -->
+ - 💣 [This title is being replaced with a wooden leg](http://9gag.com/gag/a2vW2GY)
+ - 😝 [Cheaper than renting in new york](http://9gag.com/gag/azxm4jx)
+ - 👉 [Instant karma](http://9gag.com/gag/aQzdODr)<!-- MEMES:END -->
 
 ---
 

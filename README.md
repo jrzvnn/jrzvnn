@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [No title](http://9gag.com/gag/aVvwRL8)
- - 😝 [Professionals have standard](http://9gag.com/gag/aoyPnng)
- - 💣 [Internet is not forgiving place](http://9gag.com/gag/aGyd7PX)
- - 😝 [Time to go.](http://9gag.com/gag/aZZyRn3)
- - 👉 [Proud dad](http://9gag.com/gag/a87GVZQ)<!-- MEMES:END -->
+ - 😝 [Why Not Both?](http://9gag.com/gag/a7oW2Pb)
+ - 😝 [Witty title](http://9gag.com/gag/aryVzmd)
+ - 💣 [Instant karma](http://9gag.com/gag/aQzdODr)
+ - 😝 [Cheaper than renting in new york](http://9gag.com/gag/azxm4jx)
+ - 👉 [This title is being replaced with a wooden leg](http://9gag.com/gag/a2vW2GY)<!-- MEMES:END -->
 
 ---
 

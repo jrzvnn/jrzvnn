@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Hey girl. Leave him alone](http://9gag.com/gag/aGydAp5)
- - 😝 [This is so wrong](http://9gag.com/gag/apRGxep)
- - 💣 [This title is being replaced with a wooden leg](http://9gag.com/gag/a2vW2GY)
- - 😝 [Cheaper than renting in new york](http://9gag.com/gag/azxm4jx)
- - 👉 [Instant karma](http://9gag.com/gag/aQzdODr)<!-- MEMES:END -->
+ - 😝 [No title](http://9gag.com/gag/aVvwRL8)
+ - 😝 [Professionals have standard](http://9gag.com/gag/aoyPnng)
+ - 💣 [Internet is not forgiving place](http://9gag.com/gag/aGyd7PX)
+ - 😝 [Time to go.](http://9gag.com/gag/aZZyRn3)
+ - 👉 [Proud dad](http://9gag.com/gag/a87GVZQ)<!-- MEMES:END -->
 
 ---
 

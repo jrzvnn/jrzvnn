@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Time to go.](http://9gag.com/gag/aZZyRn3)
- - 😝 [Internet is not forgiving place](http://9gag.com/gag/aGyd7PX)
- - 💣 [Witty title](http://9gag.com/gag/aryVzmd)
- - 😝 [Proud dad](http://9gag.com/gag/a87GVZQ)
- - 👉 [90s kids remember](http://9gag.com/gag/aBymooO)<!-- MEMES:END -->
+ - 😝 [Always wear brown pants when surfing...](http://9gag.com/gag/ae9D7qm)
+ - 😝 [Absolute\u2026 win?](http://9gag.com/gag/aD24VXB)
+ - 💣 [Cheaper than renting in new york](http://9gag.com/gag/azxm4jx)
+ - 😝 [Still happening in 2024 for some?](http://9gag.com/gag/aYQyR00)
+ - 👉 [This title is being replaced with a wooden leg](http://9gag.com/gag/a2vW2GY)<!-- MEMES:END -->
 
 ---
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [NFL fans worry Netflix’s bad Tyson vs. Paul stream means it can’t handle football](https://www.theverge.com/2024/11/16/24298026/mike-tyson-jake-paul-netflix-livestream-quality-issues-buffering-dropped-stream)
+ - [32 Delightful Gift Ideas for Music Lovers and Audiophiles](https://www.wired.com/gallery/gifts-for-music-lovers-audiophiles/)
+ - [Here’s some cool stuff you can do with Bluesky](https://www.theverge.com/24295933/bluesky-social-network-custom-how-to)
  - [A profile of and an interview with Aura Salla, a former Meta lobbyist turned EU Parliament member, who says the EU&#39;s Big Tech regulation went too far, too fast &lpar;Morgan Meaker/Wired&rpar;](http://www.techmeme.com/241116/p4#a241116p4)
- - [JubileeTV Review: Video Calls and Remote Support for Elders](https://www.wired.com/review/jubileetv/)
- - [18 Giftable Subscription Boxes &lpar;2024&rpar;, Tested and Reviewed](https://www.wired.com/gallery/best-subscription-gift-boxes/)
- - [Best Internet Providers in Louisiana](https://www.cnet.com/home/internet/best-internet-providers-in-louisiana/#ftag=CAD590a51e)
- - [The Best Cookbooks of 2024 &lpar;So Far&rpar;: Big Dip Energy, Koreaworld, and More](https://www.wired.com/gallery/the-best-cookbooks-of-2024/)<!-- TECH:END -->
+ - [JubileeTV Review: Video Calls and Remote Support for Elders](https://www.wired.com/review/jubileetv/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

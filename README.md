@@ -166,10 +166,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [As what...?](http://9gag.com/gag/abAGBGX)
- - 😝 [Breaking.... And entering.](http://9gag.com/gag/a2vW2m1)
- - 💣 [Lana is a savage](http://9gag.com/gag/a7oWVQ2)
- - 😝 [Right out of a movie](http://9gag.com/gag/avyzEEO)
+ - 😝 [Is china even a real country at this point ?](http://9gag.com/gag/aLnwmLA)
+ - 😝 [Lana is a savage](http://9gag.com/gag/a7oWVQ2)
+ - 💣 [It&#39;s sad but.....](http://9gag.com/gag/aBymPzz)
+ - 😝 [New Zealand\u2019s Parliament proposed a bill to redefine the Treaty of Waitangi, claiming it is racist and gives preferential treatment to Maoris. In response M\u0101ori MP&#39;s tore up the bill and performed the Haka](http://9gag.com/gag/ajP9xOG)
  - 👉 [Ready to flex your reality-check skills? \ud83c\udfae](http://9gag.com/gag/adBV8wV)<!-- MEMES:END -->
 
 ---

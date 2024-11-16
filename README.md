@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Internal memo: Netflix CTO Elizabeth Stone said the Tyson-Paul boxing bout peaked at 65M concurrent viewers, rivaling some of the most-watched sporting events &lpar;Bloomberg&rpar;](http://www.techmeme.com/241116/p10#a241116p10)
+ - [FOIA docs show Palantir has been in talks with the UK&#39;s Ministry of Justice about using its tech to calculate the &quot;reoffending risks&quot; of prisoners &lpar;Ben Quinn/The Guardian&rpar;](http://www.techmeme.com/241116/p9#a241116p9)
  - [The best fitness trackers to buy right now](https://www.theverge.com/22985108/best-fitness-tracker)
  - [Best Walmart Deals: Save up to 40% on Home Appliances, Headphones and More](https://www.cnet.com/deals/best-walmart-deals/#ftag=CAD590a51e)
- - [Best Mattress for Guest Rooms of 2024](https://www.cnet.com/health/sleep/best-mattresses-for-guest-rooms/#ftag=CAD590a51e)
- - [Ukraine&#39;s drone suppliers are using US-based Auterion&#39;s tech to ramp up production of automated attack drones that are cheap and can evade electronic jamming &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/241116/p8#a241116p8)
- - [The best MagSafe and Qi2 chargers for your iPhone](https://www.theverge.com/23505846/best-magsafe-magnetic-chargers-apple-iphone)<!-- TECH:END -->
+ - [Best Mattress for Guest Rooms of 2024](https://www.cnet.com/health/sleep/best-mattresses-for-guest-rooms/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

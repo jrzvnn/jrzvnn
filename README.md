@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Bluesky is working to become fully decentralized but it could take years amid financial concerns as it makes money only by selling domains for usernames &lpar;Gavin Anderegg/anderegg.ca&rpar;](http://www.techmeme.com/241116/p7#a241116p7)
+ - [Narwal’s Freo X Ultra, the best mopping robot available, is on sale for a new low price](https://www.theverge.com/2024/11/16/24297331/narwal-freo-x-ultra-robot-vacuum-mop-sony-wh-1000xm4-deal-sale)
  - [Gabe Newell says Half-Life 2: Episode 3 didn’t happen because he was ‘stumped’](https://www.theverge.com/2024/11/16/24298091/gabe-newell-half-life-2-documentary-why-hl-3-never-happened)
  - [Some GitHub projects have been targeted with malicious commits; a Texas researcher claims someone is impersonating him to make the submissions and smear him &lpar;Ax Sharma/BleepingComputer&rpar;](http://www.techmeme.com/241116/p6#a241116p6)
- - [Scammers posing as Apple Security steal thousands from Wichita senior](https://appleinsider.com/articles/24/11/16/scammers-posing-as-apple-security-steal-thousands-from-wichita-senior?utm_medium=rss)
- - [Bombas Cyber Monday Sale: Save a Massive 25% Sitewide Until Nov. 19](https://www.cnet.com/deals/bombas-cyber-monday-sale-save-a-massive-25-sitewide-until-november-19/#ftag=CAD590a51e)
- - [Sources: ByteDance is valuing itself at about $300B as part of a recent buyback offer, one of its highest valuations ever &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/241116/p5#a241116p5)<!-- TECH:END -->
+ - [Last Call: Claim Your $2,500 in the Cash App Legal Settlement by Monday](https://www.cnet.com/personal-finance/last-call-claim-your-2500-in-the-cash-app-legal-settlement-by-monday/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

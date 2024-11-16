@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Cook you!](http://9gag.com/gag/a0eN1oq)
- - 😝 [Human History.](http://9gag.com/gag/ayNeRXb)
- - 💣 [Man is about to go off script\u2026.](http://9gag.com/gag/aBymXwQ)
+ - 😝 [Cheaper than renting in new york](http://9gag.com/gag/azxm4jx)
+ - 😝 [You know I&#39;ll be around. Start stripping off that dress now. You know us all too well](http://9gag.com/gag/aLnwm8z)
+ - 💣 [Them: The foods not that spicy. The food:](http://9gag.com/gag/a4P3AwQ)
  - 😝 [Ready to flex your reality-check skills? \ud83c\udfae](http://9gag.com/gag/adBV8wV)
- - 👉 [American pool](http://9gag.com/gag/abAG2Eb)<!-- MEMES:END -->
+ - 👉 [The marriage is over](http://9gag.com/gag/amovp3o)<!-- MEMES:END -->
 
 ---
 

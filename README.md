@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Internal memo: Netflix CTO Elizabeth Stone said the Tyson-Paul boxing bout peaked at 65M concurrent viewers, rivaling some of the most-watched sporting events &lpar;Bloomberg&rpar;](http://www.techmeme.com/241116/p10#a241116p10)
+ - [The FTC says spam call complaints are way down since 2021](https://www.theverge.com/2024/11/16/24298278/ftc-illegal-scam-call-robocall-telemarketer-complaints-down-50-percent-since-2021)
+ - [Netflix says 60M households watched the Paul vs. Tyson boxing bout live around the world, peaking at 65M concurrent streams &lpar;Bloomberg&rpar;](http://www.techmeme.com/241116/p10#a241116p10)
  - [FOIA docs show Palantir has been in talks with the UK&#39;s Ministry of Justice about using its tech to calculate the &quot;reoffending risks&quot; of prisoners &lpar;Ben Quinn/The Guardian&rpar;](http://www.techmeme.com/241116/p9#a241116p9)
- - [The best fitness trackers to buy right now](https://www.theverge.com/22985108/best-fitness-tracker)
- - [Best Walmart Deals: Save up to 40% on Home Appliances, Headphones and More](https://www.cnet.com/deals/best-walmart-deals/#ftag=CAD590a51e)
- - [Best Mattress for Guest Rooms of 2024](https://www.cnet.com/health/sleep/best-mattresses-for-guest-rooms/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Best Samsung Phone of 2024](https://www.cnet.com/tech/mobile/best-samsung-galaxy-phone/#ftag=CAD590a51e)
+ - [The best fitness trackers to buy right now](https://www.theverge.com/22985108/best-fitness-tracker)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

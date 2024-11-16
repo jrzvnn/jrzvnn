@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [The marriage is over](http://9gag.com/gag/amovp3o)
- - 😝 [Lana is a savage](http://9gag.com/gag/a7oWVQ2)
- - 💣 [As what...?](http://9gag.com/gag/abAGBGX)
+ - 😝 [Cook you!](http://9gag.com/gag/a0eN1oq)
+ - 😝 [Human History.](http://9gag.com/gag/ayNeRXb)
+ - 💣 [Man is about to go off script\u2026.](http://9gag.com/gag/aBymXwQ)
  - 😝 [Ready to flex your reality-check skills? \ud83c\udfae](http://9gag.com/gag/adBV8wV)
- - 👉 [This title is being replaced with a wooden leg](http://9gag.com/gag/a2vW2GY)<!-- MEMES:END -->
+ - 👉 [American pool](http://9gag.com/gag/abAG2Eb)<!-- MEMES:END -->
 
 ---
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [So many questions...](http://9gag.com/gag/adBV2Gd)
- - 😝 [Cheaper than renting in new york](http://9gag.com/gag/azxm4jx)
- - 💣 [Instant karma](http://9gag.com/gag/aQzdODr)
+ - 😝 [You know I&#39;ll be around. Start stripping off that dress now. You know us all too well](http://9gag.com/gag/aLnwm8z)
  - 😝 [Them: The foods not that spicy. The food:](http://9gag.com/gag/a4P3AwQ)
- - 👉 [Bruh](http://9gag.com/gag/aqynD6v)<!-- MEMES:END -->
+ - 💣 [Instant karma](http://9gag.com/gag/aQzdODr)
+ - 😝 [Cheaper than renting in new york](http://9gag.com/gag/azxm4jx)
+ - 👉 [This is so wrong](http://9gag.com/gag/apRGxep)<!-- MEMES:END -->
 
 ---
 

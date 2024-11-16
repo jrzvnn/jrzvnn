@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Cheaper than renting in new york](http://9gag.com/gag/azxm4jx)
+ - 😝 [What do you think?](http://9gag.com/gag/aryV876)
  - 😝 [Man is about to go off script\u2026.](http://9gag.com/gag/aBymXwQ)
- - 💣 [Them: The foods not that spicy. The food:](http://9gag.com/gag/a4P3AwQ)
- - 😝 [Instant karma](http://9gag.com/gag/aQzdODr)
- - 👉 [This is so wrong](http://9gag.com/gag/apRGxep)<!-- MEMES:END -->
+ - 💣 [Cheaper than renting in new york](http://9gag.com/gag/azxm4jx)
+ - 😝 [New Zealand\u2019s Parliament proposed a bill to redefine the Treaty of Waitangi, claiming it is racist and gives preferential treatment to Maoris. In response M\u0101ori MP&#39;s tore up the bill and performed the Haka](http://9gag.com/gag/ajP9xOG)
+ - 👉 [Instant karma](http://9gag.com/gag/aQzdODr)<!-- MEMES:END -->
 
 ---
 

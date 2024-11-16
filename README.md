@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [These Rats Learned to Drive—and They Love It](https://www.wired.com/story/these-rats-learned-to-drive-and-they-love-it/)
+ - [The Rise of the Golden Idol makes a great puzzle game even better](https://www.theverge.com/24295956/the-rise-of-the-golden-idol-review-pc-playstation-xbox-netflix-mobile)
  - [Lenovo IdeaPad 5x 2-in-1 Review: Too Many Corners Cut](https://www.wired.com/review/lenovo-ideapad-5x-2-in-1-gen-9-14-inch/)
  - [The 52 Best Movies on Netflix Right Now &lpar;November 2024&rpar;](https://www.wired.com/story/netflix-best-movies-this-week/)
- - [The 49 Best Shows on Netflix Right Now &lpar;November 2024&rpar;](https://www.wired.com/story/netflix-best-shows-this-week/)
- - [Should We Be Stressed About Our Cortisol Levels? I Got a Blood Stress Test to Find Out](https://www.cnet.com/health/medical/stressed-cortisol-levels-blood-stress-test/#ftag=CAD590a51e)
- - [Chia Seed Water Can Be Your Secret to Hydration and More](https://www.cnet.com/health/nutrition/chia-seed-water-secret-hydration-more/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [The 49 Best Shows on Netflix Right Now &lpar;November 2024&rpar;](https://www.wired.com/story/netflix-best-shows-this-week/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

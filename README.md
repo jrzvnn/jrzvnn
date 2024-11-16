@@ -157,7 +157,7 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Many viewers for the undercard bouts before the Mike Tyson vs. Jake Paul fight on Netflix faced issues, including the stream glitching and losing sound &lpar;Dominic Patten/Deadline&rpar;](http://www.techmeme.com/241116/p1#a241116p1)
+ - [Many Netflix viewers faced issues while watching the Mike Tyson vs. Jake Paul fight and the undercard bouts, including the stream glitching and losing sound &lpar;Dominic Patten/Deadline&rpar;](http://www.techmeme.com/241116/p1#a241116p1)
  - [A look at the challenges facing the Trump administration for regulating AI; policy analysts suspect Trump will dismantle or reshape the US AI Safety Institute &lpar;Ellen Huet/Bloomberg&rpar;](http://www.techmeme.com/241115/p25#a241115p25)
  - [Today&#39;s NYT Connections: Sports Edition Hints and Answers for Nov. 16, #54](https://www.cnet.com/tech/gaming/todays-nyt-connections-sports-edition-hints-and-answers-for-nov-16-54/#ftag=CAD590a51e)
  - [Today&#39;s NYT Connections Hints, Answers and Help for Nov. 16, #524](https://www.cnet.com/tech/gaming/todays-nyt-connections-hints-answers-and-help-for-nov-16-524/#ftag=CAD590a51e)

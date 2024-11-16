@@ -167,9 +167,9 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [What do you think?](http://9gag.com/gag/aryV876)
- - 😝 [Man is about to go off script\u2026.](http://9gag.com/gag/aBymXwQ)
- - 💣 [Cheaper than renting in new york](http://9gag.com/gag/azxm4jx)
- - 😝 [New Zealand\u2019s Parliament proposed a bill to redefine the Treaty of Waitangi, claiming it is racist and gives preferential treatment to Maoris. In response M\u0101ori MP&#39;s tore up the bill and performed the Haka](http://9gag.com/gag/ajP9xOG)
+ - 😝 [Them: The foods not that spicy. The food:](http://9gag.com/gag/a4P3AwQ)
+ - 💣 [Absolute\u2026 win?](http://9gag.com/gag/aD24VXB)
+ - 😝 [Bruh](http://9gag.com/gag/aqynD6v)
  - 👉 [Instant karma](http://9gag.com/gag/aQzdODr)<!-- MEMES:END -->
 
 ---

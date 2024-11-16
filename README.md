@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Best Cheap Video Doorbells for 2024](https://www.cnet.com/home/security/best-cheap-video-doorbells/#ftag=CAD590a51e)
  - [Bluesky is working to become fully decentralized but it could take years amid financial concerns as it makes money only by selling domains for usernames &lpar;Gavin Anderegg/anderegg.ca&rpar;](http://www.techmeme.com/241116/p7#a241116p7)
- - [Narwal’s Freo X Ultra, the best mopping robot available, is on sale for a new low price](https://www.theverge.com/2024/11/16/24297331/narwal-freo-x-ultra-robot-vacuum-mop-sony-wh-1000xm4-deal-sale)
- - [Gabe Newell says Half-Life 2: Episode 3 didn’t happen because he was ‘stumped’](https://www.theverge.com/2024/11/16/24298091/gabe-newell-half-life-2-documentary-why-hl-3-never-happened)
- - [Some GitHub projects have been targeted with malicious commits; a Texas researcher claims someone is impersonating him to make the submissions and smear him &lpar;Ax Sharma/BleepingComputer&rpar;](http://www.techmeme.com/241116/p6#a241116p6)
- - [Last Call: Claim Your $2,500 in the Cash App Legal Settlement by Monday](https://www.cnet.com/personal-finance/last-call-claim-your-2500-in-the-cash-app-legal-settlement-by-monday/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Best Internet Providers in Lubbock, Texas](https://www.cnet.com/home/internet/best-internet-providers-in-lubbock-tx/#ftag=CAD590a51e)
+ - [Save 30% on Eyewear or BOGO at GlassesUSA Ahead of Black Friday](https://www.cnet.com/deals/save-30-on-eyewear-at-glasses-usa-ahead-of-black-friday/#ftag=CAD590a51e)
+ - [Narwal’s Freo X Ultra, the best mopping robot available, is on sale for a new low price](https://www.theverge.com/2024/11/16/24297331/narwal-freo-x-ultra-robot-vacuum-mop-sony-wh-1000xm4-deal-sale)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

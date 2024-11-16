@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Ukraine&#39;s drone suppliers are using US-based Auterion&#39;s tech to ramp up production of automated attack drones that are cheap and can evade electronic jamming &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/241116/p8#a241116p8)
+ - [The best MagSafe and Qi2 chargers for your iPhone](https://www.theverge.com/23505846/best-magsafe-magnetic-chargers-apple-iphone)
  - [Apple&#39;s in-house chip design is the &#39;secret weapon&#39; behind industry-beating performance](https://appleinsider.com/articles/24/11/16/apples-in-house-chip-design-is-the-secret-weapon-behind-industry-beating-performance?utm_medium=rss)
  - [Best Cheap Video Doorbells for 2024](https://www.cnet.com/home/security/best-cheap-video-doorbells/#ftag=CAD590a51e)
- - [Bluesky is working to become fully decentralized but it could take years amid financial concerns as it makes money only by selling domains for usernames &lpar;Gavin Anderegg/anderegg.ca&rpar;](http://www.techmeme.com/241116/p7#a241116p7)
- - [Best Internet Providers in Lubbock, Texas](https://www.cnet.com/home/internet/best-internet-providers-in-lubbock-tx/#ftag=CAD590a51e)
- - [Save 30% on Eyewear or BOGO at GlassesUSA Ahead of Black Friday](https://www.cnet.com/deals/save-30-on-eyewear-at-glasses-usa-ahead-of-black-friday/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Bluesky is working to become fully decentralized but it could take years amid financial concerns as it makes money only by selling domains for usernames &lpar;Gavin Anderegg/anderegg.ca&rpar;](http://www.techmeme.com/241116/p7#a241116p7)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

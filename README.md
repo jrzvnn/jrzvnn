@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Have a cup of coffee](http://9gag.com/gag/amovR96)
- - 😝 [Absolute\u2026 win?](http://9gag.com/gag/aD24VXB)
- - 💣 [This title is being replaced with a wooden leg](http://9gag.com/gag/a2vW2GY)
- - 😝 [Cheaper than renting in new york](http://9gag.com/gag/azxm4jx)
- - 👉 [Instant karma](http://9gag.com/gag/aQzdODr)<!-- MEMES:END -->
+ - 😝 [Time to go.](http://9gag.com/gag/aZZyRn3)
+ - 😝 [Internet is not forgiving place](http://9gag.com/gag/aGyd7PX)
+ - 💣 [Witty title](http://9gag.com/gag/aryVzmd)
+ - 😝 [Proud dad](http://9gag.com/gag/a87GVZQ)
+ - 👉 [90s kids remember](http://9gag.com/gag/aBymooO)<!-- MEMES:END -->
 
 ---
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [An interview with Apple&#39;s Tim Millet and Tom Boger on Apple&#39;s chip strategy, making big changes to the Neural Engine after the 2017 transformer paper, and more &lpar;Nandagopal Rajan/The Indian Express&rpar;](http://www.techmeme.com/241116/p3#a241116p3)
+ - [Bitfinex Hacker Gets 5 Years for $10 Billion Bitcoin Heist](https://www.wired.com/story/bitfinex-hacker-gets-5-years-for-10-billion-bitcoin-heist/)
  - [Supplements to Reduce Cortisol: Should You Take Them When You&#39;re Stressed?](https://www.cnet.com/health/nutrition/supplements-to-reduce-cortisol-should-you-take-them-when-youre-stressed/#ftag=CAD590a51e)
  - [6 Common EV Myths and How to Debunk Them](https://www.wired.com/story/6-common-ev-myths-and-how-to-debunk-them/)
- - [Zoma Start Mattress Review: Comfortable Foam for Entry-Level Pricing](https://www.cnet.com/health/sleep/zoma-start-mattress-review/#ftag=CAD590a51e)
- - [Taylor Swift Fans Sue Ticketmaster for Price Gouging](https://www.wired.com/story/taylor-swift-fans-sue-ticketmaster-lawsuit-rico/)
- - [Best Office Chairs of 2024](https://www.cnet.com/news/best-office-chairs/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Zoma Start Mattress Review: Comfortable Foam for Entry-Level Pricing](https://www.cnet.com/health/sleep/zoma-start-mattress-review/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

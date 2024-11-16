@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Some GitHub projects have been targeted with malicious commits; a Texas researcher claims someone is impersonating him to make the submissions and smear him &lpar;Ax Sharma/BleepingComputer&rpar;](http://www.techmeme.com/241116/p6#a241116p6)
  - [Scammers posing as Apple Security steal thousands from Wichita senior](https://appleinsider.com/articles/24/11/16/scammers-posing-as-apple-security-steal-thousands-from-wichita-senior?utm_medium=rss)
  - [Sources: ByteDance is valuing itself at about $300B as part of a recent buyback offer, one of its highest valuations ever &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/241116/p5#a241116p5)
  - [15 Best USB-C Cables &lpar;2024&rpar;: For iPhones, Android Phones, Tablets, and Laptops](https://www.wired.com/gallery/best-usb-c-cables/)
- - [NFL fans worry Netflix’s bad Tyson vs. Paul stream means it can’t handle football](https://www.theverge.com/2024/11/16/24298026/mike-tyson-jake-paul-netflix-livestream-quality-issues-buffering-dropped-stream)
- - [Taylor Sheridan&#39;s &#39;Landman&#39; — Here&#39;s a Paramount Plus Release Schedule](https://www.cnet.com/tech/services-and-software/taylor-sheridans-landman-heres-a-paramount-plus-release-schedule/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [NFL fans worry Netflix’s bad Tyson vs. Paul stream means it can’t handle football](https://www.theverge.com/2024/11/16/24298026/mike-tyson-jake-paul-netflix-livestream-quality-issues-buffering-dropped-stream)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

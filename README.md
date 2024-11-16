@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Nice landing](http://9gag.com/gag/aPA7ePP)
- - 😝 [New Zealand\u2019s Parliament proposed a bill to redefine the Treaty of Waitangi, claiming it is racist and gives preferential treatment to Maoris. In response M\u0101ori MP&#39;s tore up the bill and performed the Haka](http://9gag.com/gag/ajP9xOG)
- - 💣 [Hey girl. Leave him alone](http://9gag.com/gag/aGydAp5)
+ - 😝 [My fellow gamers](http://9gag.com/gag/ajP9Z90)
+ - 😝 [You know I&#39;ll be around. Start stripping off that dress now. You know us all too well](http://9gag.com/gag/aLnwm8z)
+ - 💣 [New Zealand\u2019s Parliament proposed a bill to redefine the Treaty of Waitangi, claiming it is racist and gives preferential treatment to Maoris. In response M\u0101ori MP&#39;s tore up the bill and performed the Haka](http://9gag.com/gag/ajP9xOG)
  - 😝 [Ready to flex your reality-check skills? \ud83c\udfae](http://9gag.com/gag/adBV8wV)
- - 👉 [It&#39;s sad but.....](http://9gag.com/gag/aBymPzz)<!-- MEMES:END -->
+ - 👉 [Hey girl. Leave him alone](http://9gag.com/gag/aGydAp5)<!-- MEMES:END -->
 
 ---
 

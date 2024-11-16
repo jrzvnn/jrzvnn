@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Best Internet Providers in Louisiana](https://www.cnet.com/home/internet/best-internet-providers-in-louisiana/#ftag=CAD590a51e)
  - [The Best Cookbooks of 2024 &lpar;So Far&rpar;: Big Dip Energy, Koreaworld, and More](https://www.wired.com/gallery/the-best-cookbooks-of-2024/)
- - [These Rats Learned to Drive—and They Love It](https://www.wired.com/story/these-rats-learned-to-drive-and-they-love-it/)
- - [The Rise of the Golden Idol makes a great puzzle game even better](https://www.theverge.com/24295956/the-rise-of-the-golden-idol-review-pc-playstation-xbox-netflix-mobile)
- - [Best Internet Providers in Minneapolis, Minnesota](https://www.cnet.com/home/internet/best-internet-providers-in-minneapolis-mn/#ftag=CAD590a51e)
- - [Lenovo IdeaPad 5x 2-in-1 Review: Too Many Corners Cut](https://www.wired.com/review/lenovo-ideapad-5x-2-in-1-gen-9-14-inch/)<!-- TECH:END -->
+ - [Best Treadmills of 2024](https://www.cnet.com/health/fitness/best-treadmill/#ftag=CAD590a51e)
+ - [Best Internet Providers in Nashville, Tennessee](https://www.cnet.com/home/internet/best-internet-providers-in-nashville-tn/#ftag=CAD590a51e)
+ - [Oppo&#39;s New Phone Launches Next Week to Take On iPhone 16](https://www.cnet.com/tech/mobile/oppos-new-phone-launches-next-week-to-take-on-iphone-16/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

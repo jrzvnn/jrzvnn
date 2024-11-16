@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Absolute\u2026 win?](http://9gag.com/gag/aD24VXB)
- - 😝 [Dam nature you scary](http://9gag.com/gag/agmA446)
- - 💣 [You know I&#39;ll be around. Start stripping off that dress now. You know us all too well](http://9gag.com/gag/aLnwm8z)
+ - 😝 [Them: The foods not that spicy. The food:](http://9gag.com/gag/a4P3AwQ)
+ - 😝 [Lana is a savage](http://9gag.com/gag/a7oWVQ2)
+ - 💣 [Dam nature you scary](http://9gag.com/gag/agmA446)
  - 😝 [Ready to flex your reality-check skills? \ud83c\udfae](http://9gag.com/gag/adBV8wV)
- - 👉 [Them: The foods not that spicy. The food:](http://9gag.com/gag/a4P3AwQ)<!-- MEMES:END -->
+ - 👉 [You know I&#39;ll be around. Start stripping off that dress now. You know us all too well](http://9gag.com/gag/aLnwm8z)<!-- MEMES:END -->
 
 ---
 

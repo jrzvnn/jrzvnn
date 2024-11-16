@@ -166,10 +166,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Right out of a movie](http://9gag.com/gag/avyzEEO)
- - 😝 [It&#39;s sad but.....](http://9gag.com/gag/aBymPzz)
- - 💣 [Absolute\u2026 win?](http://9gag.com/gag/aD24VXB)
- - 😝 [Mike Tyson snaps at fan asking for a pic, then feels bad and invites him over, making his night.](http://9gag.com/gag/a0eN6PQ)
+ - 😝 [The more you know...](http://9gag.com/gag/ae9DmRQ)
+ - 😝 [Cook you!](http://9gag.com/gag/a0eN1oq)
+ - 💣 [Human History.](http://9gag.com/gag/ayNeRXb)
+ - 😝 [Man is about to go off script\u2026.](http://9gag.com/gag/aBymXwQ)
  - 👉 [Ready to flex your reality-check skills? \ud83c\udfae](http://9gag.com/gag/adBV8wV)<!-- MEMES:END -->
 
 ---

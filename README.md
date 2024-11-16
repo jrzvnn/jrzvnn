@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Taylor Swift Fans Sue Ticketmaster for Price Gouging](https://www.wired.com/story/taylor-swift-fans-sue-ticketmaster-lawsuit-rico/)
+ - [Best Office Chairs of 2024](https://www.cnet.com/news/best-office-chairs/#ftag=CAD590a51e)
  - [Investigation: Microsoft offered the US government free cybersecurity upgrades in 2021, increasing government reliance on Microsoft due to high switching costs &lpar;ProPublica&rpar;](http://www.techmeme.com/241116/p2#a241116p2)
  - [B&amp;H Promo Codes and Deals for November 2024](https://www.wired.com/story/bh-photo-coupon/)
- - [Best Internet Providers in Katy, Texas](https://www.cnet.com/home/internet/best-internet-providers-in-katy-tx/#ftag=CAD590a51e)
- - [Agree With the Judges? Rewatch the Mike Tyson vs. Jake Paul Fight on Netflix](https://www.cnet.com/tech/services-and-software/agree-with-the-judges-rewatch-the-mike-tyson-vs-jake-paul-fight-on-netflix/#ftag=CAD590a51e)
- - [Best Latex Mattress of 2024, Tested and Hand-Selected by Our Experts](https://www.cnet.com/health/sleep/best-latex-mattress/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Best Internet Providers in Katy, Texas](https://www.cnet.com/home/internet/best-internet-providers-in-katy-tx/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Professionals have standard](http://9gag.com/gag/aoyPnng)
- - 😝 [Witty title](http://9gag.com/gag/aryVzmd)
- - 💣 [Internet is not forgiving place](http://9gag.com/gag/aGyd7PX)
- - 😝 [Time to go.](http://9gag.com/gag/aZZyRn3)
- - 👉 [Proud dad](http://9gag.com/gag/a87GVZQ)<!-- MEMES:END -->
+ - 😝 [Have a cup of coffee](http://9gag.com/gag/amovR96)
+ - 😝 [Absolute\u2026 win?](http://9gag.com/gag/aD24VXB)
+ - 💣 [This title is being replaced with a wooden leg](http://9gag.com/gag/a2vW2GY)
+ - 😝 [Cheaper than renting in new york](http://9gag.com/gag/azxm4jx)
+ - 👉 [Instant karma](http://9gag.com/gag/aQzdODr)<!-- MEMES:END -->
 
 ---
 

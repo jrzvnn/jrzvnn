@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Absolute\u2026 win?](http://9gag.com/gag/aD24VXB)
- - 😝 [Have a cup of coffee](http://9gag.com/gag/amovR96)
- - 💣 [You know I&#39;ll be around. Start stripping off that dress now. You know us all too well](http://9gag.com/gag/aLnwm8z)
- - 😝 [New Zealand\u2019s Parliament proposed a bill to redefine the Treaty of Waitangi, claiming it is racist and gives preferential treatment to Maoris. In response M\u0101ori MP&#39;s tore up the bill and performed the Haka](http://9gag.com/gag/ajP9xOG)
- - 👉 [Instant karma](http://9gag.com/gag/aQzdODr)<!-- MEMES:END -->
+ - 😝 [You know I&#39;ll be around. Start stripping off that dress now. You know us all too well](http://9gag.com/gag/aLnwm8z)
+ - 😝 [Cheaper than renting in new york](http://9gag.com/gag/azxm4jx)
+ - 💣 [Instant karma](http://9gag.com/gag/aQzdODr)
+ - 😝 [Them: The foods not that spicy. The food:](http://9gag.com/gag/a4P3AwQ)
+ - 👉 [New Zealand\u2019s Parliament proposed a bill to redefine the Treaty of Waitangi, claiming it is racist and gives preferential treatment to Maoris. In response M\u0101ori MP&#39;s tore up the bill and performed the Haka](http://9gag.com/gag/ajP9xOG)<!-- MEMES:END -->
 
 ---
 

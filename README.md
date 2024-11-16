@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [JubileeTV Review: Video Calls and Remote Support for Elders](https://www.wired.com/review/jubileetv/)
  - [18 Giftable Subscription Boxes &lpar;2024&rpar;, Tested and Reviewed](https://www.wired.com/gallery/best-subscription-gift-boxes/)
  - [Best Internet Providers in Louisiana](https://www.cnet.com/home/internet/best-internet-providers-in-louisiana/#ftag=CAD590a51e)
  - [The Best Cookbooks of 2024 &lpar;So Far&rpar;: Big Dip Energy, Koreaworld, and More](https://www.wired.com/gallery/the-best-cookbooks-of-2024/)
- - [Best Treadmills of 2024](https://www.cnet.com/health/fitness/best-treadmill/#ftag=CAD590a51e)
- - [Best Internet Providers in Nashville, Tennessee](https://www.cnet.com/home/internet/best-internet-providers-in-nashville-tn/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Best Treadmills of 2024](https://www.cnet.com/health/fitness/best-treadmill/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

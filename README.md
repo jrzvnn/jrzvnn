@@ -158,10 +158,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- TECH:START -->
  - [An Ohio man is sentenced to three years for running crypto mixer Helix, which laundered $311M+ from 2014 to 2017; he must forfeit $311M+ and assets worth $400M+ &lpar;Jonathan Greig/The Record&rpar;](http://www.techmeme.com/241115/p24#a241115p24)
- - [Best Smart Locks of 2024](https://www.cnet.com/home/security/best-smart-locks/#ftag=CAD590a51e)
  - [Do I Have to Pay Taxes on Student Loan Debt Forgiveness?](https://www.cnet.com/personal-finance/taxes/do-i-have-to-pay-taxes-on-student-loan-debt-forgiveness/#ftag=CAD590a51e)
  - [Sources: T-Mobile&#39;s network was among the systems hacked by the China-linked Salt Typhoon group, and some foreign telecommunications firms were also compromised &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/241115/p23#a241115p23)
- - [Best Internet Providers in Las Cruces, New Mexico](https://www.cnet.com/home/internet/best-internet-providers-in-las-cruces-nm/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Best Internet Providers in Las Cruces, New Mexico](https://www.cnet.com/home/internet/best-internet-providers-in-las-cruces-nm/#ftag=CAD590a51e)
+ - [Save Up to 40% on Ugreen Power Stations and Solar Panels With This Offer Code Just for CNET Readers](https://www.cnet.com/deals/save-up-to-40-percent-on-ugreen-power-stations-and-solar-panels-with-this-offer-code-just-for-cnet-readers/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

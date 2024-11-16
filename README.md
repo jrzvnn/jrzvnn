@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Them: The foods not that spicy. The food:](http://9gag.com/gag/a4P3AwQ)
- - 😝 [Lana is a savage](http://9gag.com/gag/a7oWVQ2)
- - 💣 [Dam nature you scary](http://9gag.com/gag/agmA446)
+ - 😝 [The more you know...](http://9gag.com/gag/ae9DmRQ)
+ - 😝 [Cook you!](http://9gag.com/gag/a0eN1oq)
+ - 💣 [Human History.](http://9gag.com/gag/ayNeRXb)
  - 😝 [Ready to flex your reality-check skills? \ud83c\udfae](http://9gag.com/gag/adBV8wV)
- - 👉 [You know I&#39;ll be around. Start stripping off that dress now. You know us all too well](http://9gag.com/gag/aLnwm8z)<!-- MEMES:END -->
+ - 👉 [Man is about to go off script\u2026.](http://9gag.com/gag/aBymXwQ)<!-- MEMES:END -->
 
 ---
 

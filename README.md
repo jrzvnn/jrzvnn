@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [6 Common EV Myths and How to Debunk Them](https://www.wired.com/story/6-common-ev-myths-and-how-to-debunk-them/)
  - [Taylor Swift Fans Sue Ticketmaster for Price Gouging](https://www.wired.com/story/taylor-swift-fans-sue-ticketmaster-lawsuit-rico/)
  - [Best Office Chairs of 2024](https://www.cnet.com/news/best-office-chairs/#ftag=CAD590a51e)
  - [Investigation: Microsoft offered the US government free cybersecurity upgrades in 2021, increasing government reliance on Microsoft due to high switching costs &lpar;ProPublica&rpar;](http://www.techmeme.com/241116/p2#a241116p2)
- - [B&amp;H Promo Codes and Deals for November 2024](https://www.wired.com/story/bh-photo-coupon/)
- - [Best Internet Providers in Katy, Texas](https://www.cnet.com/home/internet/best-internet-providers-in-katy-tx/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [B&amp;H Promo Codes and Deals for November 2024](https://www.wired.com/story/bh-photo-coupon/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

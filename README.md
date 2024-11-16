@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Sources: T-Mobile&#39;s network was among the systems hacked by the China-linked Salt Typhoon group, and some foreign telecommunications firms were also compromised &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/241115/p23#a241115p23)
+ - [Report: Samsung plans to release its smart glasses in Q3 2025; the glasses will be powered by Qualcomm&#39;s AR1 chipset and use Google&#39;s Gemini to handle AI tasks &lpar;Ben Schoon/9to5Google&rpar;](http://www.techmeme.com/241115/p22#a241115p22)
+ - [Best Internet Providers in Jacksonville, North Carolina](https://www.cnet.com/home/internet/best-internet-providers-in-jacksonville-nc/#ftag=CAD590a51e)
  - [18 states want the SEC to stop enforcing crypto regulation](https://www.theverge.com/2024/11/15/24297696/crypto-states-jurisdiction-sec-assets)
- - [WhatsApp now lets you save message drafts](https://www.theverge.com/2024/11/15/24297690/whatsapp-message-drafts-feature)
- - [Half-Life 2 is getting a huge 20th anniversary update](https://www.theverge.com/2024/11/15/24297691/half-life-2-20th-anniversary-update-documentary)
- - [Best Solar Panel Installation Companies in Florida](https://www.cnet.com/home/energy-and-utilities/florida-solar-panels/#ftag=CAD590a51e)
- - [How to Get Double XP Tokens in Black Ops 6 and Warzone](https://www.cnet.com/tech/gaming/how-to-get-double-xp-tokens-in-black-ops-6/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Mike Tyson vs. Jake Paul Fight: What Time to Watch Live Tonight on Netflix](https://www.cnet.com/tech/services-and-software/mike-tyson-vs-jake-paul-fight-what-time-to-watch-live-tonight-netflix/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

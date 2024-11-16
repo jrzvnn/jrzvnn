@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [What do you think?](http://9gag.com/gag/aryV876)
+ - 😝 [So many questions...](http://9gag.com/gag/adBV2Gd)
+ - 😝 [Cheaper than renting in new york](http://9gag.com/gag/azxm4jx)
+ - 💣 [Instant karma](http://9gag.com/gag/aQzdODr)
  - 😝 [Them: The foods not that spicy. The food:](http://9gag.com/gag/a4P3AwQ)
- - 💣 [Absolute\u2026 win?](http://9gag.com/gag/aD24VXB)
- - 😝 [Bruh](http://9gag.com/gag/aqynD6v)
- - 👉 [Instant karma](http://9gag.com/gag/aQzdODr)<!-- MEMES:END -->
+ - 👉 [Bruh](http://9gag.com/gag/aqynD6v)<!-- MEMES:END -->
 
 ---
 

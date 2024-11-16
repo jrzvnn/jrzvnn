@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Apple&#39;s in-house chip design is the &#39;secret weapon&#39; behind industry-beating performance](https://appleinsider.com/articles/24/11/16/apples-in-house-chip-design-is-the-secret-weapon-behind-industry-beating-performance?utm_medium=rss)
  - [Best Cheap Video Doorbells for 2024](https://www.cnet.com/home/security/best-cheap-video-doorbells/#ftag=CAD590a51e)
  - [Bluesky is working to become fully decentralized but it could take years amid financial concerns as it makes money only by selling domains for usernames &lpar;Gavin Anderegg/anderegg.ca&rpar;](http://www.techmeme.com/241116/p7#a241116p7)
  - [Best Internet Providers in Lubbock, Texas](https://www.cnet.com/home/internet/best-internet-providers-in-lubbock-tx/#ftag=CAD590a51e)
- - [Save 30% on Eyewear or BOGO at GlassesUSA Ahead of Black Friday](https://www.cnet.com/deals/save-30-on-eyewear-at-glasses-usa-ahead-of-black-friday/#ftag=CAD590a51e)
- - [Narwal’s Freo X Ultra, the best mopping robot available, is on sale for a new low price](https://www.theverge.com/2024/11/16/24297331/narwal-freo-x-ultra-robot-vacuum-mop-sony-wh-1000xm4-deal-sale)<!-- TECH:END -->
+ - [Save 30% on Eyewear or BOGO at GlassesUSA Ahead of Black Friday](https://www.cnet.com/deals/save-30-on-eyewear-at-glasses-usa-ahead-of-black-friday/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Hell\u2019s coming\u2026](http://9gag.com/gag/aGydAdG)
+ - 😝 [The marriage is over](http://9gag.com/gag/amovp3o)
  - 😝 [Lana is a savage](http://9gag.com/gag/a7oWVQ2)
- - 💣 [Absolute\u2026 win?](http://9gag.com/gag/aD24VXB)
+ - 💣 [As what...?](http://9gag.com/gag/abAGBGX)
  - 😝 [Ready to flex your reality-check skills? \ud83c\udfae](http://9gag.com/gag/adBV8wV)
- - 👉 [You know I&#39;ll be around. Start stripping off that dress now. You know us all too well](http://9gag.com/gag/aLnwm8z)<!-- MEMES:END -->
+ - 👉 [This title is being replaced with a wooden leg](http://9gag.com/gag/a2vW2GY)<!-- MEMES:END -->
 
 ---
 

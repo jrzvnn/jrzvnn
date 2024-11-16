@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Supplements to Reduce Cortisol: Should You Take Them When You&#39;re Stressed?](https://www.cnet.com/health/nutrition/supplements-to-reduce-cortisol-should-you-take-them-when-youre-stressed/#ftag=CAD590a51e)
  - [6 Common EV Myths and How to Debunk Them](https://www.wired.com/story/6-common-ev-myths-and-how-to-debunk-them/)
  - [Zoma Start Mattress Review: Comfortable Foam for Entry-Level Pricing](https://www.cnet.com/health/sleep/zoma-start-mattress-review/#ftag=CAD590a51e)
  - [Taylor Swift Fans Sue Ticketmaster for Price Gouging](https://www.wired.com/story/taylor-swift-fans-sue-ticketmaster-lawsuit-rico/)
- - [Best Office Chairs of 2024](https://www.cnet.com/news/best-office-chairs/#ftag=CAD590a51e)
- - [Investigation: Microsoft offered the US government free cybersecurity upgrades in 2021, increasing government reliance on Microsoft due to high switching costs &lpar;ProPublica&rpar;](http://www.techmeme.com/241116/p2#a241116p2)<!-- TECH:END -->
+ - [Best Office Chairs of 2024](https://www.cnet.com/news/best-office-chairs/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

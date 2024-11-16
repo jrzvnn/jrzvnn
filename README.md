@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [You know I&#39;ll be around. Start stripping off that dress now. You know us all too well](http://9gag.com/gag/aLnwm8z)
- - 😝 [Shining fish &lpar;cutlass&rpar;](http://9gag.com/gag/aKG7WG1)
- - 💣 [New Zealand\u2019s Parliament proposed a bill to redefine the Treaty of Waitangi, claiming it is racist and gives preferential treatment to Maoris. In response M\u0101ori MP&#39;s tore up the bill and performed the Haka](http://9gag.com/gag/ajP9xOG)
+ - 😝 [Smooooothhhh](http://9gag.com/gag/aD24Z9N)
+ - 😝 [Them: The foods not that spicy. The food:](http://9gag.com/gag/a4P3AwQ)
+ - 💣 [Lana is a savage](http://9gag.com/gag/a7oWVQ2)
  - 😝 [Ready to flex your reality-check skills? \ud83c\udfae](http://9gag.com/gag/adBV8wV)
- - 👉 [Them: The foods not that spicy. The food:](http://9gag.com/gag/a4P3AwQ)<!-- MEMES:END -->
+ - 👉 [You know I&#39;ll be around. Start stripping off that dress now. You know us all too well](http://9gag.com/gag/aLnwm8z)<!-- MEMES:END -->
 
 ---
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Oleksii Novikov owns the World&#39;s Strongest Man record in the 18-Inch deadlift at 1,185 pounds](http://9gag.com/gag/a7oWNNm)
- - 😝 [Wow. The aerodynamic. Wow.](http://9gag.com/gag/aAyeMY9)
- - 💣 [Have a cup of coffee](http://9gag.com/gag/amovR96)
+ - 😝 [Hey girl. Leave him alone](http://9gag.com/gag/aGydAp5)
+ - 😝 [Absolute\u2026 win?](http://9gag.com/gag/aD24VXB)
+ - 💣 [Instant karma](http://9gag.com/gag/aQzdODr)
  - 😝 [You know I&#39;ll be around. Start stripping off that dress now. You know us all too well](http://9gag.com/gag/aLnwm8z)
- - 👉 [Them: The foods not that spicy. The food:](http://9gag.com/gag/a4P3AwQ)<!-- MEMES:END -->
+ - 👉 [New Zealand\u2019s Parliament proposed a bill to redefine the Treaty of Waitangi, claiming it is racist and gives preferential treatment to Maoris. In response M\u0101ori MP&#39;s tore up the bill and performed the Haka](http://9gag.com/gag/ajP9xOG)<!-- MEMES:END -->
 
 ---
 

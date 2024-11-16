@@ -161,7 +161,7 @@ R                        1 repo              ░░░░░░░░░░░�
  - [The FTC says spam call complaints are way down since 2021](https://www.theverge.com/2024/11/16/24298278/ftc-illegal-scam-call-robocall-telemarketer-complaints-down-50-percent-since-2021)
  - [Netflix says 60M households watched the Paul vs. Tyson boxing bout live around the world, peaking at 65M concurrent streams &lpar;Bloomberg&rpar;](http://www.techmeme.com/241116/p10#a241116p10)
  - [FOIA docs show Palantir has been in talks with the UK&#39;s Ministry of Justice about using its tech to calculate the &quot;reoffending risks&quot; of prisoners &lpar;Ben Quinn/The Guardian&rpar;](http://www.techmeme.com/241116/p9#a241116p9)
- - [Best Samsung Phone of 2024](https://www.cnet.com/tech/mobile/best-samsung-galaxy-phone/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Best Instant Pots for 2024](https://www.cnet.com/news/best-instant-pot/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

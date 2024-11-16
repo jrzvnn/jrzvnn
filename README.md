@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Hey girl. Leave him alone](http://9gag.com/gag/aGydAp5)
- - 😝 [Great Fight, or Greatest Fight?](http://9gag.com/gag/a34wNdN)
- - 💣 [New Zealand\u2019s Parliament proposed a bill to redefine the Treaty of Waitangi, claiming it is racist and gives preferential treatment to Maoris. In response M\u0101ori MP&#39;s tore up the bill and performed the Haka](http://9gag.com/gag/ajP9xOG)
+ - 😝 [It&#39;s sad but.....](http://9gag.com/gag/aBymPzz)
+ - 😝 [This title is being replaced with a wooden leg](http://9gag.com/gag/a2vW2GY)
+ - 💣 [Hey girl. Leave him alone](http://9gag.com/gag/aGydAp5)
  - 😝 [Ready to flex your reality-check skills? \ud83c\udfae](http://9gag.com/gag/adBV8wV)
- - 👉 [This title is being replaced with a wooden leg](http://9gag.com/gag/a2vW2GY)<!-- MEMES:END -->
+ - 👉 [Them: The foods not that spicy. The food:](http://9gag.com/gag/a4P3AwQ)<!-- MEMES:END -->
 
 ---
 

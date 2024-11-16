@@ -166,10 +166,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [It&#39;s sad but.....](http://9gag.com/gag/aBymPzz)
- - 😝 [Shining fish &lpar;cutlass&rpar;](http://9gag.com/gag/aKG7WG1)
- - 💣 [Right out of a movie](http://9gag.com/gag/avyzEEO)
- - 😝 [You know I&#39;ll be around. Start stripping off that dress now. You know us all too well](http://9gag.com/gag/aLnwm8z)
+ - 😝 [As what...?](http://9gag.com/gag/abAGBGX)
+ - 😝 [Breaking.... And entering.](http://9gag.com/gag/a2vW2m1)
+ - 💣 [Lana is a savage](http://9gag.com/gag/a7oWVQ2)
+ - 😝 [Right out of a movie](http://9gag.com/gag/avyzEEO)
  - 👉 [Ready to flex your reality-check skills? \ud83c\udfae](http://9gag.com/gag/adBV8wV)<!-- MEMES:END -->
 
 ---

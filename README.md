@@ -167,10 +167,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [Cheaper than renting in new york](http://9gag.com/gag/azxm4jx)
+ - 😝 [Man is about to go off script\u2026.](http://9gag.com/gag/aBymXwQ)
+ - 💣 [Them: The foods not that spicy. The food:](http://9gag.com/gag/a4P3AwQ)
  - 😝 [Instant karma](http://9gag.com/gag/aQzdODr)
- - 💣 [Absolute\u2026 win?](http://9gag.com/gag/aD24VXB)
- - 😝 [You know I&#39;ll be around. Start stripping off that dress now. You know us all too well](http://9gag.com/gag/aLnwm8z)
- - 👉 [The minister for health and well-being.. Walks in front of the future King.](http://9gag.com/gag/aO87PD3)<!-- MEMES:END -->
+ - 👉 [This is so wrong](http://9gag.com/gag/apRGxep)<!-- MEMES:END -->
 
 ---
 

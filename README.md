@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Lenovo IdeaPad 5x 2-in-1 Review: Too Many Corners Cut](https://www.wired.com/review/lenovo-ideapad-5x-2-in-1-gen-9-14-inch/)
  - [The 52 Best Movies on Netflix Right Now &lpar;November 2024&rpar;](https://www.wired.com/story/netflix-best-movies-this-week/)
  - [The 49 Best Shows on Netflix Right Now &lpar;November 2024&rpar;](https://www.wired.com/story/netflix-best-shows-this-week/)
  - [Should We Be Stressed About Our Cortisol Levels? I Got a Blood Stress Test to Find Out](https://www.cnet.com/health/medical/stressed-cortisol-levels-blood-stress-test/#ftag=CAD590a51e)
- - [Chia Seed Water Can Be Your Secret to Hydration and More](https://www.cnet.com/health/nutrition/chia-seed-water-secret-hydration-more/#ftag=CAD590a51e)
- - [An interview with Apple&#39;s Tim Millet and Tom Boger on Apple&#39;s chip strategy, making big changes to the Neural Engine after the 2017 transformer paper, and more &lpar;Nandagopal Rajan/The Indian Express&rpar;](http://www.techmeme.com/241116/p3#a241116p3)<!-- TECH:END -->
+ - [Chia Seed Water Can Be Your Secret to Hydration and More](https://www.cnet.com/health/nutrition/chia-seed-water-secret-hydration-more/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Always wear brown pants when surfing...](http://9gag.com/gag/ae9D7qm)
+ - 😝 [Young man trying to rob an old taxi driver](http://9gag.com/gag/avyzXP5)
+ - 😝 [Bruh](http://9gag.com/gag/aqynD6v)
+ - 💣 [Guy posts about being ugly, girl calls him cute; now they&#39;re married and expecting a baby.](http://9gag.com/gag/azxmBvm)
  - 😝 [What do you think?](http://9gag.com/gag/aryV876)
- - 💣 [Still happening in 2024 for some?](http://9gag.com/gag/aYQyR00)
- - 😝 [Guy posts about being ugly, girl calls him cute; now they&#39;re married and expecting a baby.](http://9gag.com/gag/azxmBvm)
- - 👉 [Young man trying to rob an old taxi driver](http://9gag.com/gag/avyzXP5)<!-- MEMES:END -->
+ - 👉 [Still happening in 2024 for some?](http://9gag.com/gag/aYQyR00)<!-- MEMES:END -->
 
 ---
 

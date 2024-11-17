@@ -166,10 +166,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [I\u2019m loving it](http://9gag.com/gag/aBymXW2)
- - 😝 [Aim for the bushes](http://9gag.com/gag/azxmYXz)
- - 💣 [...](http://9gag.com/gag/a4P3WAA)
- - 😝 [How it feels trying to make new friends after turning 30.](http://9gag.com/gag/a4P3qEQ)
+ - 😝 [Groomsman witnesses cake cruelty](http://9gag.com/gag/awyB8MW)
+ - 😝 [Karen is back](http://9gag.com/gag/a87Gzdd)
+ - 💣 [Aim for the bushes](http://9gag.com/gag/azxmYXz)
+ - 😝 [Always wear brown pants when surfing...](http://9gag.com/gag/ae9D7qm)
  - 👉 [What do you think?](http://9gag.com/gag/aryV876)<!-- MEMES:END -->
 
 ---

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Snail Mucin Is a Skin Care Sensation With Ancient Origins](https://www.wired.com/story/snail-mucin-skincare-sensation/)
  - [Everything You Can Try if You Can’t Hear Dialog in Movies and Shows](https://www.wired.com/story/how-to-boost-spoken-dialogue-in-movies-and-shows/)
  - [HexClad Skillet Review: Can One Pan Sear Like Stainless Steel and Release Like Nonstick?](https://www.cnet.com/news/hexclad-review/#ftag=CAD590a51e)
  - [How to Set Up ExpressVPN on a Router So All Your Devices Are Secured at Once](https://www.wired.com/story/how-to-set-up-expressvpn-on-a-router/)
- - [Best Early Black Friday Mattress Deals: Save Now and Get a New Mattress Before the Holiday Guests Arrive](https://www.cnet.com/deals/best-mattress-deals/#ftag=CAD590a51e)
- - [Research center Bit&amp;aacute;cora Social estimates that six out of 10 catalog sellers in Mexico now sell products from online platforms, including Shein and Temu &lpar;Daniela Dib/Rest of World&rpar;](http://www.techmeme.com/241117/p3#a241117p3)<!-- TECH:END -->
+ - [Best Early Black Friday Mattress Deals: Save Now and Get a New Mattress Before the Holiday Guests Arrive](https://www.cnet.com/deals/best-mattress-deals/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

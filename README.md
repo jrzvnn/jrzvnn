@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Best Internet Providers in Manchester, New Hampshire](https://www.cnet.com/home/internet/best-internet-providers-in-manchester-nh/#ftag=CAD590a51e)
- - [Best Internet Providers in Little Rock, Arkansas](https://www.cnet.com/home/internet/best-internet-providers-in-little-rock-ar/#ftag=CAD590a51e)
- - [Best Internet Providers in Marquette, Michigan](https://www.cnet.com/home/internet/best-internet-providers-in-marquette-mi/#ftag=CAD590a51e)
- - [Best Internet Providers in Milwaukee, Wisconsin](https://www.cnet.com/home/internet/best-internet-providers-in-milwaukee-wi/#ftag=CAD590a51e)
- - [The 8 Best Indoor Smart Gardens for 2024](https://www.cnet.com/home/smart-home/best-indoor-garden/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [How to Set Up ExpressVPN on a Router So All Your Devices Are Secured at Once](https://www.wired.com/story/how-to-set-up-expressvpn-on-a-router/)
+ - [Research center Bit&amp;aacute;cora Social estimates that six out of 10 catalog sellers in Mexico now sell products from online platforms, including Shein and Temu &lpar;Daniela Dib/Rest of World&rpar;](http://www.techmeme.com/241117/p3#a241117p3)
+ - [Scientists Establish the Best Algorithm for Traversing a Map](https://www.wired.com/story/scientists-establish-the-best-algorithm-for-traversing-a-map/)
+ - [Prioritize Your Mental Health and Nutrition This Thanksgiving With These Tips](https://www.cnet.com/health/nutrition/prioritize-your-mental-health-and-nutrition-this-thanksgiving-with-these-tips/#ftag=CAD590a51e)
+ - [Spice Up Your iPhone Messages in iOS 18](https://www.cnet.com/tech/services-and-software/spice-up-your-iphone-messages-in-ios-18/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

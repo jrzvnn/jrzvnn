@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Hospital horror story](http://9gag.com/gag/ae9DPAW)
  - 😝 [Young man trying to rob an old taxi driver](http://9gag.com/gag/avyzXP5)
- - 💣 [Instant karma](http://9gag.com/gag/aQzdODr)
+ - 😝 [Hospital horror story](http://9gag.com/gag/ae9DPAW)
+ - 💣 [What do you think?](http://9gag.com/gag/aryV876)
  - 😝 [This old guy&#39;s digging technique.](http://9gag.com/gag/a6ZK8We)
- - 👉 [Still happening in 2024 for some?](http://9gag.com/gag/aYQyR00)<!-- MEMES:END -->
+ - 👉 [Guy posts about being ugly, girl calls him cute; now they&#39;re married and expecting a baby.](http://9gag.com/gag/azxmBvm)<!-- MEMES:END -->
 
 ---
 

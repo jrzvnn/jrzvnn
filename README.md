@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [We just call them RAL9005](http://9gag.com/gag/a9ynNWm)
- - 😝 [Pew pew pew or the Helmet](http://9gag.com/gag/ajP9MOx)
- - 💣 [Itsame](http://9gag.com/gag/axy9nyb)
- - 😝 [Young man trying to rob an old taxi driver](http://9gag.com/gag/avyzXP5)
- - 👉 [Plebbit moment](http://9gag.com/gag/aoyPqVg)<!-- MEMES:END -->
+ - 😝 [The marriage is over](http://9gag.com/gag/amovp3o)
+ - 😝 [The biggest bar fight in history](http://9gag.com/gag/axy9meM)
+ - 💣 [Still happening in 2024 for some?](http://9gag.com/gag/aYQyR00)
+ - 😝 [Bruh](http://9gag.com/gag/aqynD6v)
+ - 👉 [Young man trying to rob an old taxi driver](http://9gag.com/gag/avyzXP5)<!-- MEMES:END -->
 
 ---
 

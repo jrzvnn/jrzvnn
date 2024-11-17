@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [The marriage is over](http://9gag.com/gag/amovp3o)
- - 😝 [The biggest bar fight in history](http://9gag.com/gag/axy9meM)
- - 💣 [Still happening in 2024 for some?](http://9gag.com/gag/aYQyR00)
- - 😝 [Bruh](http://9gag.com/gag/aqynD6v)
- - 👉 [Young man trying to rob an old taxi driver](http://9gag.com/gag/avyzXP5)<!-- MEMES:END -->
+ - 😝 [Hospital horror story](http://9gag.com/gag/ae9DPAW)
+ - 😝 [Young man trying to rob an old taxi driver](http://9gag.com/gag/avyzXP5)
+ - 💣 [Instant karma](http://9gag.com/gag/aQzdODr)
+ - 😝 [This old guy&#39;s digging technique.](http://9gag.com/gag/a6ZK8We)
+ - 👉 [Still happening in 2024 for some?](http://9gag.com/gag/aYQyR00)<!-- MEMES:END -->
 
 ---
 

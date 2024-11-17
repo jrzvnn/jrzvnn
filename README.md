@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Is it possible to beat this kind of people in Germany?](http://9gag.com/gag/a0eNxAv)
- - 😝 [No title](http://9gag.com/gag/awyBe44)
- - 💣 [Guess 2B stands for 2Balls now](http://9gag.com/gag/avyzX8n)
- - 😝 [When times change](http://9gag.com/gag/a2vWGre)
- - 👉 [We just call them RAL9005](http://9gag.com/gag/a9ynNWm)<!-- MEMES:END -->
+ - 😝 [Guess 2B stands for 2Balls now](http://9gag.com/gag/avyzX8n)
+ - 😝 [Itsame](http://9gag.com/gag/axy9nyb)
+ - 💣 [When times change](http://9gag.com/gag/a2vWGre)
+ - 😝 [We just call them RAL9005](http://9gag.com/gag/a9ynNWm)
+ - 👉 [Young man trying to rob an old taxi driver](http://9gag.com/gag/avyzXP5)<!-- MEMES:END -->
 
 ---
 

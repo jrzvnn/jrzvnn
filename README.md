@@ -166,10 +166,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Groomsman witnesses cake cruelty](http://9gag.com/gag/awyB8MW)
- - 😝 [Karen is back](http://9gag.com/gag/a87Gzdd)
- - 💣 [Aim for the bushes](http://9gag.com/gag/azxmYXz)
  - 😝 [Always wear brown pants when surfing...](http://9gag.com/gag/ae9D7qm)
+ - 😝 [Oleksii Novikov owns the World&#39;s Strongest Man record in the 18-Inch deadlift at 1,185 pounds](http://9gag.com/gag/a7oWNNm)
+ - 💣 [Lucy Gravityless](http://9gag.com/gag/aqyndpR)
+ - 😝 [Boss : ` What happened? Did you scratch the Chevy pickup truck? - Tow Guy : ` Hehe....`](http://9gag.com/gag/a9ynVe1)
  - 👉 [What do you think?](http://9gag.com/gag/aryV876)<!-- MEMES:END -->
 
 ---

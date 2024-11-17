@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [The marriage is over](http://9gag.com/gag/amovp3o)
- - 😝 [Still happening in 2024 for some?](http://9gag.com/gag/aYQyR00)
- - 💣 [Cardboard houses mentality...](http://9gag.com/gag/aoyPdqe)
- - 😝 [Groomsman witnesses cake cruelty](http://9gag.com/gag/awyB8MW)
- - 👉 [Boss : ` What happened? Did you scratch the Chevy pickup truck? - Tow Guy : ` Hehe....`](http://9gag.com/gag/a9ynVe1)<!-- MEMES:END -->
+ - 😝 [Always wear brown pants when surfing...](http://9gag.com/gag/ae9D7qm)
+ - 😝 [Boss : ` What happened? Did you scratch the Chevy pickup truck? - Tow Guy : ` Hehe....`](http://9gag.com/gag/a9ynVe1)
+ - 💣 [Instant karma](http://9gag.com/gag/aQzdODr)
+ - 😝 [Cardboard houses mentality...](http://9gag.com/gag/aoyPdqe)
+ - 👉 [Still happening in 2024 for some?](http://9gag.com/gag/aYQyR00)<!-- MEMES:END -->
 
 ---
 

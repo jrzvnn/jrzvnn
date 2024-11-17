@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [What season are we in?](http://9gag.com/gag/aPA7Xeg)
  - 😝 [...](http://9gag.com/gag/a4P3WAA)
- - 💣 [This title is being replaced with a wooden leg](http://9gag.com/gag/a2vW2GY)
- - 😝 [The marriage is over](http://9gag.com/gag/amovp3o)
- - 👉 [Tbh i can&#39;t think of a better environment to hear this song in, that&#39;s awesome](http://9gag.com/gag/amovp1j)<!-- MEMES:END -->
+ - 😝 [Drops child, catches ball, catches child](http://9gag.com/gag/aVvwVmw)
+ - 💣 [Well, who was it?](http://9gag.com/gag/an74Gyo)
+ - 😝 [Aim for the bushes](http://9gag.com/gag/azxmYXz)
+ - 👉 [The marriage is over](http://9gag.com/gag/amovp3o)<!-- MEMES:END -->
 
 ---
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Aim for the bushes](http://9gag.com/gag/azxmYXz)
- - 😝 [How it feels trying to make new friends after turning 30.](http://9gag.com/gag/a4P3qEQ)
- - 💣 [The marriage is over](http://9gag.com/gag/amovp3o)
- - 😝 [A Filipino showed me this and I thought it was funny. Hope you enjoy it some.](http://9gag.com/gag/a2vWLLw)
- - 👉 [Always wear brown pants when surfing...](http://9gag.com/gag/ae9D7qm)<!-- MEMES:END -->
+ - 😝 [Hehe](http://9gag.com/gag/avyzmpW)
+ - 😝 [Have a cup of coffee](http://9gag.com/gag/amovR96)
+ - 💣 [Time to go.](http://9gag.com/gag/aZZyRn3)
+ - 😝 [Internet is not forgiving place](http://9gag.com/gag/aGyd7PX)
+ - 👉 [Proud dad](http://9gag.com/gag/a87GVZQ)<!-- MEMES:END -->
 
 ---
 

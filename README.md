@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Best Internet Providers in Milwaukee, Wisconsin](https://www.cnet.com/home/internet/best-internet-providers-in-milwaukee-wi/#ftag=CAD590a51e)
- - [The 8 Best Indoor Smart Gardens for 2024](https://www.cnet.com/home/smart-home/best-indoor-garden/#ftag=CAD590a51e)
- - [Best Mattress Picks for Sound Sleep in Fall 2024](https://www.cnet.com/health/sleep/best-mattresses/#ftag=CAD590a51e)
- - [The Best Meditation Apps for Reducing Stress in 2024](https://www.cnet.com/health/sleep/best-meditation-apps/#ftag=CAD590a51e)
- - [I Found the Lazy Secret to Doubling My Savings in 12 Months](https://www.cnet.com/personal-finance/banking/i-found-the-lazy-secret-to-doubling-my-savings-in-12-months/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Best Cordless Vacuums of 2024: A New Winner Tops the List](https://www.cnet.com/home/kitchen-and-household/best-cordless-vacuum/#ftag=CAD590a51e)
+ - [Q&amp;A with Jakob Uszkoreit on his contribution to the Attention Is All You Need paper, Google&#39;s conservatism, ChatGPT&#39;s success, biological computers, and more &lpar;Benj Edwards/Ars Technica&rpar;](http://www.techmeme.com/241117/p2#a241117p2)
+ - [Nike Promo Code: Up to 60% Off Select Styles](https://www.wired.com/story/nike-promo-code/)
+ - [Best Internet Providers in Long Beach, California](https://www.cnet.com/home/internet/best-internet-providers-in-long-beach-ca/#ftag=CAD590a51e)
+ - [Best Internet Providers in Indianapolis, Indiana](https://www.cnet.com/home/internet/best-internet-providers-in-indianapolis-in/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

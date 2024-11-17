@@ -166,10 +166,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Pew pew pew or the Helmet](http://9gag.com/gag/ajP9MOx)
+ - 😝 [Bruh](http://9gag.com/gag/aqynD6v)
  - 😝 [Young man trying to rob an old taxi driver](http://9gag.com/gag/avyzXP5)
  - 💣 [Guy posts about being ugly, girl calls him cute; now they&#39;re married and expecting a baby.](http://9gag.com/gag/azxmBvm)
- - 😝 [What do you think?](http://9gag.com/gag/aryV876)
+ - 😝 [Hospital horror story](http://9gag.com/gag/ae9DPAW)
  - 👉 [The marriage is over](http://9gag.com/gag/amovp3o)<!-- MEMES:END -->
 
 ---

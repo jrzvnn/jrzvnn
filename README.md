@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Best Galaxy Z Flip 6 Deals: Save up to $200 on Unlocked Smartphones With Trade-Ins and More](https://www.cnet.com/deals/best-samsung-galaxy-z-flip-6-deals/#ftag=CAD590a51e)
  - [Best Internet Providers in Minnesota](https://www.cnet.com/home/internet/best-internet-providers-in-minnesota/#ftag=CAD590a51e)
  - [Best AirPods Deals: Nab Apple and Beats Headphones and Earbuds for Less](https://www.cnet.com/deals/best-airpods-deals/#ftag=CAD590a51e)
  - [Best Internet Providers in Miami Beach, Florida](https://www.cnet.com/home/internet/best-internet-providers-in-miami-beach-fl/#ftag=CAD590a51e)
- - [Best Blenders in 2024 -- Tested by CNET Experts](https://www.cnet.com/home/kitchen-and-household/best-blender/#ftag=CAD590a51e)
- - [Q&amp;A with Future of Life Institute co-founder Max Tegmark on AGI, how Elon Musk could constructively engage with the Trump administration on AI safety, and more &lpar;Harry McCracken/Fast Company&rpar;](http://www.techmeme.com/241117/p7#a241117p7)<!-- TECH:END -->
+ - [Best Password Manager in 2024](https://www.cnet.com/tech/services-and-software/best-password-manager/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -159,9 +159,9 @@ R                        1 repo              ░░░░░░░░░░░�
 <!-- TECH:START -->
  - [Q&amp;A with Jakob Uszkoreit on his contribution to the Attention Is All You Need paper, Google&#39;s conservatism, ChatGPT&#39;s success, biological computers, and more &lpar;Benj Edwards/Ars Technica&rpar;](http://www.techmeme.com/241117/p2#a241117p2)
  - [Nike Promo Code: Up to 60% Off Select Styles](https://www.wired.com/story/nike-promo-code/)
- - [The US FTC&#39;s DNC Registry data shows the agency received ~1.1M consumer complaints about robocalls in FY 2024, down from ~1.2M in FY 2023 and 3.4M+ in FY 2021 &lpar;Federal Trade Commission&rpar;](http://www.techmeme.com/241117/p1#a241117p1)
- - [Best Internet Providers in La Crosse, Wisconsin](https://www.cnet.com/home/internet/best-internet-providers-in-la-crosse-wi/#ftag=CAD590a51e)
- - [Today&#39;s NYT Mini Crossword Answers for Sunday, Nov. 17](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-sunday-nov-17/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Best Internet Providers in Long Beach, California](https://www.cnet.com/home/internet/best-internet-providers-in-long-beach-ca/#ftag=CAD590a51e)
+ - [Best Internet Providers in Indianapolis, Indiana](https://www.cnet.com/home/internet/best-internet-providers-in-indianapolis-in/#ftag=CAD590a51e)
+ - [The US FTC&#39;s DNC Registry data shows the agency received ~1.1M consumer complaints about robocalls in FY 2024, down from ~1.2M in FY 2023 and 3.4M+ in FY 2021 &lpar;Federal Trade Commission&rpar;](http://www.techmeme.com/241117/p1#a241117p1)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

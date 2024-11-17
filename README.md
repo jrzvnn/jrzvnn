@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Have a cup of coffee](http://9gag.com/gag/amovR96)
- - 😝 [You&#39;ll watch this and go `Hell yeah`.](http://9gag.com/gag/aLnwrWx)
- - 💣 [Time to go.](http://9gag.com/gag/aZZyRn3)
- - 😝 [Internet is not forgiving place](http://9gag.com/gag/aGyd7PX)
- - 👉 [90s kids remember](http://9gag.com/gag/aBymooO)<!-- MEMES:END -->
+ - 😝 [Karen is back](http://9gag.com/gag/a87Gzdd)
+ - 😝 [Always wear brown pants when surfing...](http://9gag.com/gag/ae9D7qm)
+ - 💣 [Oleksii Novikov owns the World&#39;s Strongest Man record in the 18-Inch deadlift at 1,185 pounds](http://9gag.com/gag/a7oWNNm)
+ - 😝 [Bruh](http://9gag.com/gag/aqynD6v)
+ - 👉 [Cheaper than renting in new york](http://9gag.com/gag/azxm4jx)<!-- MEMES:END -->
 
 ---
 

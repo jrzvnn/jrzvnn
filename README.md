@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Being a man is not easy](http://9gag.com/gag/a7oWGRb)
- - 😝 [Is it possible to beat this kind of people in Germany?](http://9gag.com/gag/a0eNxAv)
- - 💣 [Young man trying to rob an old taxi driver](http://9gag.com/gag/avyzXP5)
- - 😝 [Boss : ` What happened? Did you scratch the Chevy pickup truck? - Tow Guy : ` Hehe....`](http://9gag.com/gag/a9ynVe1)
- - 👉 [Groomsman witnesses cake cruelty](http://9gag.com/gag/awyB8MW)<!-- MEMES:END -->
+ - 😝 [The marriage is over](http://9gag.com/gag/amovp3o)
+ - 😝 [We just call them RAL9005](http://9gag.com/gag/a9ynNWm)
+ - 💣 [Guy posts about being ugly, girl calls him cute; now they&#39;re married and expecting a baby.](http://9gag.com/gag/azxmBvm)
+ - 😝 [Still happening in 2024 for some?](http://9gag.com/gag/aYQyR00)
+ - 👉 [Always wear brown pants when surfing...](http://9gag.com/gag/ae9D7qm)<!-- MEMES:END -->
 
 ---
 

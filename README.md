@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Ride](http://9gag.com/gag/avyzmQ5)
- - 😝 [How it feels trying to make new friends after turning 30.](http://9gag.com/gag/a4P3qEQ)
- - 💣 [Cheaper than renting in new york](http://9gag.com/gag/azxm4jx)
- - 😝 [Always wear brown pants when surfing...](http://9gag.com/gag/ae9D7qm)
- - 👉 [The marriage is over](http://9gag.com/gag/amovp3o)<!-- MEMES:END -->
+ - 😝 [Have a cup of coffee](http://9gag.com/gag/amovR96)
+ - 😝 [You&#39;ll watch this and go `Hell yeah`.](http://9gag.com/gag/aLnwrWx)
+ - 💣 [Time to go.](http://9gag.com/gag/aZZyRn3)
+ - 😝 [Internet is not forgiving place](http://9gag.com/gag/aGyd7PX)
+ - 👉 [Proud dad](http://9gag.com/gag/a87GVZQ)<!-- MEMES:END -->
 
 ---
 

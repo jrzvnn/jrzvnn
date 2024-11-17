@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Cardboard houses mentality...](http://9gag.com/gag/aoyPdqe)
- - 😝 [What do you think?](http://9gag.com/gag/aryV876)
- - 💣 [This old guy&#39;s digging technique.](http://9gag.com/gag/a6ZK8We)
+ - 😝 [The marriage is over](http://9gag.com/gag/amovp3o)
+ - 😝 [Still happening in 2024 for some?](http://9gag.com/gag/aYQyR00)
+ - 💣 [Cardboard houses mentality...](http://9gag.com/gag/aoyPdqe)
  - 😝 [Groomsman witnesses cake cruelty](http://9gag.com/gag/awyB8MW)
- - 👉 [Oleksii Novikov owns the World&#39;s Strongest Man record in the 18-Inch deadlift at 1,185 pounds](http://9gag.com/gag/a7oWNNm)<!-- MEMES:END -->
+ - 👉 [Boss : ` What happened? Did you scratch the Chevy pickup truck? - Tow Guy : ` Hehe....`](http://9gag.com/gag/a9ynVe1)<!-- MEMES:END -->
 
 ---
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Sources: CISA&#39;s director Jen Easterly and deputy director Nitin Natarajan plan to leave the agency on January 20, 2025, the day Trump will be inaugurated &lpar;Nextgov/FCW&rpar;](http://www.techmeme.com/241117/p9#a241117p9)
  - [Apple drops the Lightning adapter that still let iPhones use wired headphones](https://appleinsider.com/articles/24/11/17/apple-drops-the-lightning-adapter-that-still-let-iphones-use-wired-headphones?utm_medium=rss)
  - [An interview with El Salvador&#39;s top crypto regulator Juan Carlos Reyes on taking a tech-minded approach to crypto regulation, how his agency works, and more &lpar;Tom Carreras/CoinDesk&rpar;](http://www.techmeme.com/241117/p8#a241117p8)
  - [An Ohio man guilty of Bitcoin laundering must forfeit over $400 million in assets](https://www.theverge.com/2024/11/17/24298962/larry-dean-harmon-charged-bitcoin-laundering-helix-mixer-cryptocurrency-darknet)
- - [Best Galaxy Z Flip 6 Deals: Save up to $200 on Unlocked Smartphones With Trade-Ins and More](https://www.cnet.com/deals/best-samsung-galaxy-z-flip-6-deals/#ftag=CAD590a51e)
- - [Best Internet Providers in Minnesota](https://www.cnet.com/home/internet/best-internet-providers-in-minnesota/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Best Galaxy Z Flip 6 Deals: Save up to $200 on Unlocked Smartphones With Trade-Ins and More](https://www.cnet.com/deals/best-samsung-galaxy-z-flip-6-deals/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

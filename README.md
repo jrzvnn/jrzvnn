@@ -170,7 +170,7 @@ R                        1 repo              ░░░░░░░░░░░�
  - 😝 [You&#39;ll watch this and go `Hell yeah`.](http://9gag.com/gag/aLnwrWx)
  - 💣 [Time to go.](http://9gag.com/gag/aZZyRn3)
  - 😝 [Internet is not forgiving place](http://9gag.com/gag/aGyd7PX)
- - 👉 [Proud dad](http://9gag.com/gag/a87GVZQ)<!-- MEMES:END -->
+ - 👉 [90s kids remember](http://9gag.com/gag/aBymooO)<!-- MEMES:END -->
 
 ---
 

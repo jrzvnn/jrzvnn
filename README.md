@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [US DHS issues guidance on adopting AI in critical infrastructure, identifying AI-driven attacks, targeted attacks on AI systems, and design flaws as core risks &lpar;GovTech&rpar;](http://www.techmeme.com/241116/p11#a241116p11)
+ - [Best Internet Providers in Lebanon, Indiana](https://www.cnet.com/home/internet/best-internet-providers-in-lebanon-in/#ftag=CAD590a51e)
  - [Netflix served the Tyson vs. Paul fight to 60 million households](https://www.theverge.com/2024/11/16/24298338/netflix-mike-ttyson-vs-jake-paul-fight-netflix-60-million-households-streaming-quality-buffering)
  - [The FTC says spam call complaints are way down since 2021](https://www.theverge.com/2024/11/16/24298278/ftc-illegal-scam-call-robocall-telemarketer-complaints-down-50-percent-since-2021)
- - [Netflix says 60M households watched the Paul vs. Tyson boxing bout live around the world, peaking at 65M concurrent streams &lpar;Bloomberg&rpar;](http://www.techmeme.com/241116/p10#a241116p10)
- - [FOIA docs show Palantir has been in talks with the UK&#39;s Ministry of Justice about using its tech to calculate the &quot;reoffending risks&quot; of prisoners &lpar;Ben Quinn/The Guardian&rpar;](http://www.techmeme.com/241116/p9#a241116p9)
- - [Best Instant Pots for 2024](https://www.cnet.com/news/best-instant-pot/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Best Internet Providers in Lynchburg, Virginia](https://www.cnet.com/home/internet/best-internet-providers-in-lynchburg-va/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

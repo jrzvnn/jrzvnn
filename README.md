@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Hehe](http://9gag.com/gag/avyzmpW)
- - 😝 [Have a cup of coffee](http://9gag.com/gag/amovR96)
- - 💣 [Time to go.](http://9gag.com/gag/aZZyRn3)
- - 😝 [Internet is not forgiving place](http://9gag.com/gag/aGyd7PX)
- - 👉 [Proud dad](http://9gag.com/gag/a87GVZQ)<!-- MEMES:END -->
+ - 😝 [A Filipino showed me this and I thought it was funny. Hope you enjoy it some.](http://9gag.com/gag/a2vWLLw)
+ - 😝 [Aww... wait..](http://9gag.com/gag/azxmBjb)
+ - 💣 [Getting crushed while simultaneously consoling everyone elses panic is top tier man life](http://9gag.com/gag/aQzdyPq)
+ - 😝 [Always wear brown pants when surfing...](http://9gag.com/gag/ae9D7qm)
+ - 👉 [What do you think?](http://9gag.com/gag/aryV876)<!-- MEMES:END -->
 
 ---
 

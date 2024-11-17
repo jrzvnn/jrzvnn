@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Sources: Trump&#39;s transition team is looking for candidates to lead the US Department of Transportation and develop a federal framework for autonomous vehicles &lpar;Bloomberg&rpar;](http://www.techmeme.com/241117/p10#a241117p10)
  - [Sources: CISA&#39;s director Jen Easterly and deputy director Nitin Natarajan plan to leave the agency on January 20, 2025, the day Trump will be inaugurated &lpar;Nextgov/FCW&rpar;](http://www.techmeme.com/241117/p9#a241117p9)
  - [Apple drops the Lightning adapter that still let iPhones use wired headphones](https://appleinsider.com/articles/24/11/17/apple-drops-the-lightning-adapter-that-still-let-iphones-use-wired-headphones?utm_medium=rss)
  - [An interview with El Salvador&#39;s top crypto regulator Juan Carlos Reyes on taking a tech-minded approach to crypto regulation, how his agency works, and more &lpar;Tom Carreras/CoinDesk&rpar;](http://www.techmeme.com/241117/p8#a241117p8)
- - [An Ohio man guilty of Bitcoin laundering must forfeit over $400 million in assets](https://www.theverge.com/2024/11/17/24298962/larry-dean-harmon-charged-bitcoin-laundering-helix-mixer-cryptocurrency-darknet)
- - [Best Vitamins for Healthy Hair, Skin and Nails in 2024](https://www.cnet.com/health/nutrition/best-vitamins-for-hair-skin-and-nails/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [An Ohio man guilty of Bitcoin laundering must forfeit over $400 million in assets](https://www.theverge.com/2024/11/17/24298962/larry-dean-harmon-charged-bitcoin-laundering-helix-mixer-cryptocurrency-darknet)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Always wear brown pants when surfing...](http://9gag.com/gag/ae9D7qm)
- - 😝 [Absolute\u2026 win?](http://9gag.com/gag/aD24VXB)
- - 💣 [Cheaper than renting in new york](http://9gag.com/gag/azxm4jx)
- - 😝 [Still happening in 2024 for some?](http://9gag.com/gag/aYQyR00)
- - 👉 [This title is being replaced with a wooden leg](http://9gag.com/gag/a2vW2GY)<!-- MEMES:END -->
+ - 😝 [Nothing like a surprise, ice-cold shower to start the day off right](http://9gag.com/gag/aD24ONG)
+ - 😝 [Cheaper than renting in new york](http://9gag.com/gag/azxm4jx)
+ - 💣 [The marriage is over](http://9gag.com/gag/amovp3o)
+ - 😝 [This title is being replaced with a wooden leg](http://9gag.com/gag/a2vW2GY)
+ - 👉 [Bruh](http://9gag.com/gag/aqynD6v)<!-- MEMES:END -->
 
 ---
 

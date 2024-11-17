@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [An interview with El Salvador&#39;s top crypto regulator Juan Carlos Reyes on taking a tech-minded approach to crypto regulation, how his agency works, and more &lpar;Tom Carreras/CoinDesk&rpar;](http://www.techmeme.com/241117/p8#a241117p8)
+ - [An Ohio man guilty of Bitcoin laundering must forfeit over $400 million in assets](https://www.theverge.com/2024/11/17/24298962/larry-dean-harmon-charged-bitcoin-laundering-helix-mixer-cryptocurrency-darknet)
  - [Best Galaxy Z Flip 6 Deals: Save up to $200 on Unlocked Smartphones With Trade-Ins and More](https://www.cnet.com/deals/best-samsung-galaxy-z-flip-6-deals/#ftag=CAD590a51e)
  - [Best Internet Providers in Minnesota](https://www.cnet.com/home/internet/best-internet-providers-in-minnesota/#ftag=CAD590a51e)
- - [Best AirPods Deals: Nab Apple and Beats Headphones and Earbuds for Less](https://www.cnet.com/deals/best-airpods-deals/#ftag=CAD590a51e)
- - [Best Internet Providers in Miami Beach, Florida](https://www.cnet.com/home/internet/best-internet-providers-in-miami-beach-fl/#ftag=CAD590a51e)
- - [Best Password Manager in 2024](https://www.cnet.com/tech/services-and-software/best-password-manager/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Best AirPods Deals: Nab Apple and Beats Headphones and Earbuds for Less](https://www.cnet.com/deals/best-airpods-deals/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

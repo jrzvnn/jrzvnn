@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Karen is back](http://9gag.com/gag/a87Gzdd)
+ - 😝 [How it feels trying to make new friends after turning 30.](http://9gag.com/gag/a4P3qEQ)
  - 😝 [Always wear brown pants when surfing...](http://9gag.com/gag/ae9D7qm)
- - 💣 [Oleksii Novikov owns the World&#39;s Strongest Man record in the 18-Inch deadlift at 1,185 pounds](http://9gag.com/gag/a7oWNNm)
+ - 💣 [Aim for the bushes](http://9gag.com/gag/azxmYXz)
  - 😝 [Bruh](http://9gag.com/gag/aqynD6v)
- - 👉 [Cheaper than renting in new york](http://9gag.com/gag/azxm4jx)<!-- MEMES:END -->
+ - 👉 [What do you think?](http://9gag.com/gag/aryV876)<!-- MEMES:END -->
 
 ---
 

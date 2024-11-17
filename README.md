@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Sources: Tata Electronics agrees to buy a 60% stake in Pegatron&#39;s iPhone plant in Tamil Nadu, India, forming a joint venture, and will run the daily operations &lpar;Reuters&rpar;](http://www.techmeme.com/241117/p5#a241117p5)
  - [How Tim Cook may navigate Trump&#39;s presidency, a closer look at Apple&#39;s upcoming smart home command center, sources detail a new AirTag coming in 2025, and more &lpar;Mark Gurman/Bloomberg&rpar;](http://www.techmeme.com/241117/p4#a241117p4)
  - [12 Best Kids Headphones of 2024—With Features to Protect Your Kids Hearing](https://www.wired.com/gallery/the-best-kids-headphones/)
  - [Making human music in an AI world](https://www.theverge.com/2024/11/17/24297892/ai-music-ge-wang-vergecast)
- - [Watch UEFA Nations League Soccer: Livestream England vs. Republic of Ireland From Anywhere](https://www.cnet.com/tech/services-and-software/watch-uefa-nations-league-soccer-livestream-england-vs-republic-of-ireland-from-anywhere/#ftag=CAD590a51e)
- - [AirTags 2 to bring better location tracking in 2025](https://appleinsider.com/articles/24/11/17/airtags-2-to-bring-better-location-tracking-in-2025?utm_medium=rss)<!-- TECH:END -->
+ - [Watch UEFA Nations League Soccer: Livestream England vs. Republic of Ireland From Anywhere](https://www.cnet.com/tech/services-and-software/watch-uefa-nations-league-soccer-livestream-england-vs-republic-of-ireland-from-anywhere/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

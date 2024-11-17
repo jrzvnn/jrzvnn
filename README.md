@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [How it feels trying to make new friends after turning 30.](http://9gag.com/gag/a4P3qEQ)
+ - 😝 [The Pinnacle of NVIDIA GPU Technology](http://9gag.com/gag/avyz9NM)
  - 😝 [Oleksii Novikov owns the World&#39;s Strongest Man record in the 18-Inch deadlift at 1,185 pounds](http://9gag.com/gag/a7oWNNm)
- - 💣 [Always wear brown pants when surfing...](http://9gag.com/gag/ae9D7qm)
- - 😝 [Instant karma](http://9gag.com/gag/aQzdODr)
- - 👉 [The marriage is over](http://9gag.com/gag/amovp3o)<!-- MEMES:END -->
+ - 💣 [The marriage is over](http://9gag.com/gag/amovp3o)
+ - 😝 [Always wear brown pants when surfing...](http://9gag.com/gag/ae9D7qm)
+ - 👉 [What do you think?](http://9gag.com/gag/aryV876)<!-- MEMES:END -->
 
 ---
 

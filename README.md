@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Aim for the bushes](http://9gag.com/gag/azxmYXz)
- - 😝 [Young man trying to rob an old taxi driver](http://9gag.com/gag/avyzXP5)
- - 💣 [Guy posts about being ugly, girl calls him cute; now they&#39;re married and expecting a baby.](http://9gag.com/gag/azxmBvm)
- - 😝 [Groomsman witnesses cake cruelty](http://9gag.com/gag/awyB8MW)
- - 👉 [Boss : ` What happened? Did you scratch the Chevy pickup truck? - Tow Guy : ` Hehe....`](http://9gag.com/gag/a9ynVe1)<!-- MEMES:END -->
+ - 😝 [Is it possible to beat this kind of people in Germany?](http://9gag.com/gag/a0eNxAv)
+ - 😝 [No title](http://9gag.com/gag/awyBe44)
+ - 💣 [Guess 2B stands for 2Balls now](http://9gag.com/gag/avyzX8n)
+ - 😝 [When times change](http://9gag.com/gag/a2vWGre)
+ - 👉 [We just call them RAL9005](http://9gag.com/gag/a9ynNWm)<!-- MEMES:END -->
 
 ---
 

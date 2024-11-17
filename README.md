@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [A  study found that X’s algorithm now loves two things: Republicans and Elon Musk](https://www.theverge.com/2024/11/17/24298669/musk-trump-endorsement-x-boosting-republican-posts-july-algorithm-change)
  - [Sources: in recent months, Nvidia has asked its suppliers to change the design of server racks for Blackwell GPUs several times to overcome overheating problems &lpar;The Information&rpar;](http://www.techmeme.com/241117/p6#a241117p6)
  - [HMD Fusion Review: A Cheap Modular Android Phone](https://www.wired.com/review/hmd-fusion/)
  - [The Best VR Headsets &lpar;2024&rpar;, Tested and Reviewed](https://www.wired.com/gallery/best-vr-headsets/)
- - [Tata takes control of Pegatron&#39;s sole iPhone plant in India](https://appleinsider.com/articles/24/11/17/tata-takes-control-of-pegatrons-sole-iphone-plant-in-india?utm_medium=rss)
- - [Can a Space Heater Can Lower Your Heating Bill? We Did the Math to Find Out](https://www.cnet.com/home/kitchen-and-household/can-a-space-heater-can-lower-your-heating-bill-we-did-the-math-to-find-out/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Tata takes control of Pegatron&#39;s sole iPhone plant in India](https://appleinsider.com/articles/24/11/17/tata-takes-control-of-pegatrons-sole-iphone-plant-in-india?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

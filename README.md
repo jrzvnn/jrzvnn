@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Being a man is not easy](http://9gag.com/gag/a7oWGRb)
  - 😝 [Aim for the bushes](http://9gag.com/gag/azxmYXz)
- - 💣 [They ruin everything](http://9gag.com/gag/aMVxX0X)
- - 😝 [Guy posts about being ugly, girl calls him cute; now they&#39;re married and expecting a baby.](http://9gag.com/gag/azxmBvm)
- - 👉 [So many questions...](http://9gag.com/gag/adBV2Gd)<!-- MEMES:END -->
+ - 😝 [Groomsman witnesses cake cruelty](http://9gag.com/gag/awyB8MW)
+ - 💣 [Boss : ` What happened? Did you scratch the Chevy pickup truck? - Tow Guy : ` Hehe....`](http://9gag.com/gag/a9ynVe1)
+ - 😝 [Being a man is not easy](http://9gag.com/gag/a7oWGRb)
+ - 👉 [Guy posts about being ugly, girl calls him cute; now they&#39;re married and expecting a baby.](http://9gag.com/gag/azxmBvm)<!-- MEMES:END -->
 
 ---
 

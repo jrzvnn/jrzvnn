@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Watch UEFA Nations League Soccer: Livestream Italy vs. France From Anywhere](https://www.cnet.com/tech/services-and-software/watch-uefa-nations-league-soccer-livestream-italy-vs-france-from-anywhere/#ftag=CAD590a51e)
- - [A  study found that X’s algorithm now loves two things: Republicans and Elon Musk](https://www.theverge.com/2024/11/17/24298669/musk-trump-endorsement-x-boosting-republican-posts-july-algorithm-change)
- - [Sources: in recent months, Nvidia has asked its suppliers to change the design of server racks for Blackwell GPUs several times to overcome overheating problems &lpar;The Information&rpar;](http://www.techmeme.com/241117/p6#a241117p6)
- - [HMD Fusion Review: A Cheap Modular Android Phone](https://www.wired.com/review/hmd-fusion/)
- - [The Best VR Headsets &lpar;2024&rpar;, Tested and Reviewed](https://www.wired.com/gallery/best-vr-headsets/)<!-- TECH:END -->
+ - [Rumors of an Apple-made TV set are back again](https://appleinsider.com/articles/24/11/17/rumors-of-an-apple-made-tv-set-are-back-again?utm_medium=rss)
+ - [Comporium Home Internet: Pricing, Speeds and Availability Compared](https://www.cnet.com/home/internet/comporium-internet-review/#ftag=CAD590a51e)
+ - [Nab $20 Cell Phone Service From Visible for 24 Months With This Coupon Code](https://www.cnet.com/deals/nab-20-cell-phone-service-from-visible-for-24-months-with-this-coupon-code/#ftag=CAD590a51e)
+ - [My Family Watches a Lot of Anime, and There&#39;s One Streaming Service I Always Use](https://www.cnet.com/deals/my-family-watches-a-lot-of-anime-and-theres-one-streaming-service-i-always-use/#ftag=CAD590a51e)
+ - [Watch UEFA Nations League Soccer: Livestream Italy vs. France From Anywhere](https://www.cnet.com/tech/services-and-software/watch-uefa-nations-league-soccer-livestream-italy-vs-france-from-anywhere/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

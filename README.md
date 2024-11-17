@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The 12 Best Meal Kit Delivery Services &lpar;2024&rpar; Tested and Reviewed](https://www.wired.com/gallery/best-meal-kit-services/)
+ - [Sometimes you just need a straightforward, old-school RPG](https://www.theverge.com/24297436/dragon-quest-3-hd-2d-remake-review)
  - [Snail Mucin Is a Skin Care Sensation With Ancient Origins](https://www.wired.com/story/snail-mucin-skincare-sensation/)
- - [Everything You Can Try if You Can’t Hear Dialog in Movies and Shows](https://www.wired.com/story/how-to-boost-spoken-dialogue-in-movies-and-shows/)
- - [HexClad Skillet Review: Can One Pan Sear Like Stainless Steel and Release Like Nonstick?](https://www.cnet.com/news/hexclad-review/#ftag=CAD590a51e)
- - [How to Set Up ExpressVPN on a Router So All Your Devices Are Secured at Once](https://www.wired.com/story/how-to-set-up-expressvpn-on-a-router/)
- - [Best Early Black Friday Mattress Deals: Save Now and Get a New Mattress Before the Holiday Guests Arrive](https://www.cnet.com/deals/best-mattress-deals/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [I Finally Found a Sleep Tracker That Records My Naps and My Runs](https://www.cnet.com/health/sleep/garmin-forerunner-165-review/#ftag=CAD590a51e)
+ - [23 Best Luxury Gifts for Those Who Appreciate the Finer Things](https://www.cnet.com/news/best-luxury-gifts/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

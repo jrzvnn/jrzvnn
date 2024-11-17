@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Guess 2B stands for 2Balls now](http://9gag.com/gag/avyzX8n)
- - 😝 [Itsame](http://9gag.com/gag/axy9nyb)
- - 💣 [When times change](http://9gag.com/gag/a2vWGre)
- - 😝 [We just call them RAL9005](http://9gag.com/gag/a9ynNWm)
- - 👉 [Young man trying to rob an old taxi driver](http://9gag.com/gag/avyzXP5)<!-- MEMES:END -->
+ - 😝 [Pew pew pew or the Helmet](http://9gag.com/gag/ajP9MOx)
+ - 😝 [Young man trying to rob an old taxi driver](http://9gag.com/gag/avyzXP5)
+ - 💣 [Guy posts about being ugly, girl calls him cute; now they&#39;re married and expecting a baby.](http://9gag.com/gag/azxmBvm)
+ - 😝 [What do you think?](http://9gag.com/gag/aryV876)
+ - 👉 [The marriage is over](http://9gag.com/gag/amovp3o)<!-- MEMES:END -->
 
 ---
 

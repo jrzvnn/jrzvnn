@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [AirTags 2 to bring better location tracking in 2025](https://appleinsider.com/articles/24/11/17/airtags-2-to-bring-better-location-tracking-in-2025?utm_medium=rss)
  - [The 12 Best Meal Kit Delivery Services &lpar;2024&rpar; Tested and Reviewed](https://www.wired.com/gallery/best-meal-kit-services/)
  - [Sometimes you just need a straightforward, old-school RPG](https://www.theverge.com/24297436/dragon-quest-3-hd-2d-remake-review)
  - [Snail Mucin Is a Skin Care Sensation With Ancient Origins](https://www.wired.com/story/snail-mucin-skincare-sensation/)
- - [I Finally Found a Sleep Tracker That Records My Naps and My Runs](https://www.cnet.com/health/sleep/garmin-forerunner-165-review/#ftag=CAD590a51e)
- - [23 Best Luxury Gifts for Those Who Appreciate the Finer Things](https://www.cnet.com/news/best-luxury-gifts/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [I Finally Found a Sleep Tracker That Records My Naps and My Runs](https://www.cnet.com/health/sleep/garmin-forerunner-165-review/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

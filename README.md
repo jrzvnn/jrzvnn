@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Nothing like a surprise, ice-cold shower to start the day off right](http://9gag.com/gag/aD24ONG)
- - 😝 [...](http://9gag.com/gag/a4P3WAA)
- - 💣 [The marriage is over](http://9gag.com/gag/amovp3o)
  - 😝 [Well, who was it?](http://9gag.com/gag/an74Gyo)
- - 👉 [Aim for the bushes](http://9gag.com/gag/azxmYXz)<!-- MEMES:END -->
+ - 😝 [Aim for the bushes](http://9gag.com/gag/azxmYXz)
+ - 💣 [The marriage is over](http://9gag.com/gag/amovp3o)
+ - 😝 [...](http://9gag.com/gag/a4P3WAA)
+ - 👉 [So many questions...](http://9gag.com/gag/adBV2Gd)<!-- MEMES:END -->
 
 ---
 

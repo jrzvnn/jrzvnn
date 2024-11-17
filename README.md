@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Being a man is not easy](http://9gag.com/gag/a7oWGRb)
- - 😝 [Is it possible to beat this kind of people in Germany?](http://9gag.com/gag/a0eNxAv)
- - 💣 [Boss : ` What happened? Did you scratch the Chevy pickup truck? - Tow Guy : ` Hehe....`](http://9gag.com/gag/a9ynVe1)
- - 😝 [Aim for the bushes](http://9gag.com/gag/azxmYXz)
- - 👉 [Guy posts about being ugly, girl calls him cute; now they&#39;re married and expecting a baby.](http://9gag.com/gag/azxmBvm)<!-- MEMES:END -->
+ - 😝 [Cheaper than renting in new york](http://9gag.com/gag/azxm4jx)
+ - 😝 [Boss : ` What happened? Did you scratch the Chevy pickup truck? - Tow Guy : ` Hehe....`](http://9gag.com/gag/a9ynVe1)
+ - 💣 [Being a man is not easy](http://9gag.com/gag/a7oWGRb)
+ - 😝 [Still happening in 2024 for some?](http://9gag.com/gag/aYQyR00)
+ - 👉 [Instant karma](http://9gag.com/gag/aQzdODr)<!-- MEMES:END -->
 
 ---
 

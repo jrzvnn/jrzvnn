@@ -167,10 +167,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [Nothing like a surprise, ice-cold shower to start the day off right](http://9gag.com/gag/aD24ONG)
- - 😝 [Cheaper than renting in new york](http://9gag.com/gag/azxm4jx)
+ - 😝 [...](http://9gag.com/gag/a4P3WAA)
  - 💣 [The marriage is over](http://9gag.com/gag/amovp3o)
- - 😝 [This title is being replaced with a wooden leg](http://9gag.com/gag/a2vW2GY)
- - 👉 [Bruh](http://9gag.com/gag/aqynD6v)<!-- MEMES:END -->
+ - 😝 [Well, who was it?](http://9gag.com/gag/an74Gyo)
+ - 👉 [Aim for the bushes](http://9gag.com/gag/azxmYXz)<!-- MEMES:END -->
 
 ---
 

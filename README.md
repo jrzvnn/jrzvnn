@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Best Internet Providers in Manchester, New Hampshire](https://www.cnet.com/home/internet/best-internet-providers-in-manchester-nh/#ftag=CAD590a51e)
+ - [Best Internet Providers in Little Rock, Arkansas](https://www.cnet.com/home/internet/best-internet-providers-in-little-rock-ar/#ftag=CAD590a51e)
+ - [Best Internet Providers in Marquette, Michigan](https://www.cnet.com/home/internet/best-internet-providers-in-marquette-mi/#ftag=CAD590a51e)
  - [Best Internet Providers in Milwaukee, Wisconsin](https://www.cnet.com/home/internet/best-internet-providers-in-milwaukee-wi/#ftag=CAD590a51e)
- - [The 8 Best Indoor Smart Gardens for 2024](https://www.cnet.com/home/smart-home/best-indoor-garden/#ftag=CAD590a51e)
- - [Best Mattress Picks for Sound Sleep in Fall 2024](https://www.cnet.com/health/sleep/best-mattresses/#ftag=CAD590a51e)
- - [The Best Meditation Apps for Reducing Stress in 2024](https://www.cnet.com/health/sleep/best-meditation-apps/#ftag=CAD590a51e)
- - [I Found the Lazy Secret to Doubling My Savings in 12 Months](https://www.cnet.com/personal-finance/banking/i-found-the-lazy-secret-to-doubling-my-savings-in-12-months/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [The 8 Best Indoor Smart Gardens for 2024](https://www.cnet.com/home/smart-home/best-indoor-garden/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: Tata Electronics agrees to buy a 60% stake in Pegatron&#39;s iPhone plant in Tamil Nadu, India, forming a joint venture, and will run the daily operations &lpar;Reuters&rpar;](http://www.techmeme.com/241117/p5#a241117p5)
- - [How Tim Cook may navigate Trump&#39;s presidency, a closer look at Apple&#39;s upcoming smart home command center, sources detail a new AirTag coming in 2025, and more &lpar;Mark Gurman/Bloomberg&rpar;](http://www.techmeme.com/241117/p4#a241117p4)
- - [12 Best Kids Headphones of 2024—With Features to Protect Your Kids Hearing](https://www.wired.com/gallery/the-best-kids-headphones/)
- - [Making human music in an AI world](https://www.theverge.com/2024/11/17/24297892/ai-music-ge-wang-vergecast)
- - [Watch UEFA Nations League Soccer: Livestream England vs. Republic of Ireland From Anywhere](https://www.cnet.com/tech/services-and-software/watch-uefa-nations-league-soccer-livestream-england-vs-republic-of-ireland-from-anywhere/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Sources: in recent months, Nvidia has asked its suppliers to change the design of server racks for Blackwell GPUs several times to overcome overheating problems &lpar;The Information&rpar;](http://www.techmeme.com/241117/p6#a241117p6)
+ - [HMD Fusion Review: A Cheap Modular Android Phone](https://www.wired.com/review/hmd-fusion/)
+ - [The Best VR Headsets &lpar;2024&rpar;, Tested and Reviewed](https://www.wired.com/gallery/best-vr-headsets/)
+ - [Tata takes control of Pegatron&#39;s sole iPhone plant in India](https://appleinsider.com/articles/24/11/17/tata-takes-control-of-pegatrons-sole-iphone-plant-in-india?utm_medium=rss)
+ - [Can a Space Heater Can Lower Your Heating Bill? We Did the Math to Find Out](https://www.cnet.com/home/kitchen-and-household/can-a-space-heater-can-lower-your-heating-bill-we-did-the-math-to-find-out/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

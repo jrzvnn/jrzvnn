@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Bruh](http://9gag.com/gag/aqynD6v)
+ - 😝 [We just call them RAL9005](http://9gag.com/gag/a9ynNWm)
+ - 😝 [Pew pew pew or the Helmet](http://9gag.com/gag/ajP9MOx)
+ - 💣 [Itsame](http://9gag.com/gag/axy9nyb)
  - 😝 [Young man trying to rob an old taxi driver](http://9gag.com/gag/avyzXP5)
- - 💣 [Guy posts about being ugly, girl calls him cute; now they&#39;re married and expecting a baby.](http://9gag.com/gag/azxmBvm)
- - 😝 [Hospital horror story](http://9gag.com/gag/ae9DPAW)
- - 👉 [The marriage is over](http://9gag.com/gag/amovp3o)<!-- MEMES:END -->
+ - 👉 [Plebbit moment](http://9gag.com/gag/aoyPqVg)<!-- MEMES:END -->
 
 ---
 

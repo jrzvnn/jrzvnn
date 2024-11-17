@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Best Blenders in 2024 -- Tested by CNET Experts](https://www.cnet.com/home/kitchen-and-household/best-blender/#ftag=CAD590a51e)
  - [Q&amp;A with Future of Life Institute co-founder Max Tegmark on AGI, how Elon Musk could constructively engage with the Trump administration on AI safety, and more &lpar;Harry McCracken/Fast Company&rpar;](http://www.techmeme.com/241117/p7#a241117p7)
- - [The 5 Best Sunrise Alarm Clocks and How to Choose One](https://www.cnet.com/health/sleep/best-sunrise-alarm-clock/#ftag=CAD590a51e)
- - [Best Internet Providers in Montana](https://www.cnet.com/home/internet/best-internet-providers-in-montana/#ftag=CAD590a51e)
- - [Best Web Hosting Services for 2024](https://www.cnet.com/tech/services-and-software/best-web-hosting/#ftag=CAD590a51e)
- - [Chiefs vs. Bills: How to Watch NFL Week 11 Online Today](https://www.cnet.com/tech/services-and-software/chiefs-vs-bills-how-to-watch-nfl-week-11-online-today/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Save Up to $15 on Homesick Candles Just Before Black Friday](https://www.cnet.com/deals/save-up-to-15-on-homesick-candles-just-before-black-friday/#ftag=CAD590a51e)
+ - [Best Internet Providers in Medford, Oregon](https://www.cnet.com/home/internet/best-internet-providers-in-medford-or/#ftag=CAD590a51e)
+ - [The 5 Best Sunrise Alarm Clocks and How to Choose One](https://www.cnet.com/health/sleep/best-sunrise-alarm-clock/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

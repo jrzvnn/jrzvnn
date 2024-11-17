@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Q&amp;A with Future of Life Institute co-founder Max Tegmark on AGI, how Elon Musk could constructively engage with the Trump administration on AI safety, and more &lpar;Harry McCracken/Fast Company&rpar;](http://www.techmeme.com/241117/p7#a241117p7)
  - [Rumors of an Apple-made TV set are back again](https://appleinsider.com/articles/24/11/17/rumors-of-an-apple-made-tv-set-are-back-again?utm_medium=rss)
  - [Comporium Home Internet: Pricing, Speeds and Availability Compared](https://www.cnet.com/home/internet/comporium-internet-review/#ftag=CAD590a51e)
  - [Nab $20 Cell Phone Service From Visible for 24 Months With This Coupon Code](https://www.cnet.com/deals/nab-20-cell-phone-service-from-visible-for-24-months-with-this-coupon-code/#ftag=CAD590a51e)
- - [My Family Watches a Lot of Anime, and There&#39;s One Streaming Service I Always Use](https://www.cnet.com/deals/my-family-watches-a-lot-of-anime-and-theres-one-streaming-service-i-always-use/#ftag=CAD590a51e)
- - [Watch UEFA Nations League Soccer: Livestream Italy vs. France From Anywhere](https://www.cnet.com/tech/services-and-software/watch-uefa-nations-league-soccer-livestream-italy-vs-france-from-anywhere/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [My Family Watches a Lot of Anime, and There&#39;s One Streaming Service I Always Use](https://www.cnet.com/deals/my-family-watches-a-lot-of-anime-and-theres-one-streaming-service-i-always-use/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

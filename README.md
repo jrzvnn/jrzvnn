@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [AirTags 2 to bring better location tracking in 2025](https://appleinsider.com/articles/24/11/17/airtags-2-to-bring-better-location-tracking-in-2025?utm_medium=rss)
- - [The 12 Best Meal Kit Delivery Services &lpar;2024&rpar; Tested and Reviewed](https://www.wired.com/gallery/best-meal-kit-services/)
- - [Sometimes you just need a straightforward, old-school RPG](https://www.theverge.com/24297436/dragon-quest-3-hd-2d-remake-review)
- - [Snail Mucin Is a Skin Care Sensation With Ancient Origins](https://www.wired.com/story/snail-mucin-skincare-sensation/)
- - [I Finally Found a Sleep Tracker That Records My Naps and My Runs](https://www.cnet.com/health/sleep/garmin-forerunner-165-review/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [How Tim Cook may navigate Trump&#39;s presidency, a closer look at Apple&#39;s upcoming smart home command center, sources detail a new AirTag coming in 2025, and more &lpar;Mark Gurman/Bloomberg&rpar;](http://www.techmeme.com/241117/p4#a241117p4)
+ - [12 Best Kids Headphones of 2024—With Features to Protect Your Kids Hearing](https://www.wired.com/gallery/the-best-kids-headphones/)
+ - [Making human music in an AI world](https://www.theverge.com/2024/11/17/24297892/ai-music-ge-wang-vergecast)
+ - [Watch UEFA Nations League Soccer: Livestream England vs. Republic of Ireland From Anywhere](https://www.cnet.com/tech/services-and-software/watch-uefa-nations-league-soccer-livestream-england-vs-republic-of-ireland-from-anywhere/#ftag=CAD590a51e)
+ - [AirTags 2 to bring better location tracking in 2025](https://appleinsider.com/articles/24/11/17/airtags-2-to-bring-better-location-tracking-in-2025?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

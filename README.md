@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [A Filipino showed me this and I thought it was funny. Hope you enjoy it some.](http://9gag.com/gag/a2vWLLw)
- - 😝 [Aww... wait..](http://9gag.com/gag/azxmBjb)
- - 💣 [Getting crushed while simultaneously consoling everyone elses panic is top tier man life](http://9gag.com/gag/aQzdyPq)
  - 😝 [Always wear brown pants when surfing...](http://9gag.com/gag/ae9D7qm)
- - 👉 [What do you think?](http://9gag.com/gag/aryV876)<!-- MEMES:END -->
+ - 😝 [Oleksii Novikov owns the World&#39;s Strongest Man record in the 18-Inch deadlift at 1,185 pounds](http://9gag.com/gag/a7oWNNm)
+ - 💣 [The marriage is over](http://9gag.com/gag/amovp3o)
+ - 😝 [Cheaper than renting in new york](http://9gag.com/gag/azxm4jx)
+ - 👉 [Aww... wait..](http://9gag.com/gag/azxmBjb)<!-- MEMES:END -->
 
 ---
 

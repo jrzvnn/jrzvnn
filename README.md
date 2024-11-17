@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Well, who was it?](http://9gag.com/gag/an74Gyo)
- - 😝 [Aim for the bushes](http://9gag.com/gag/azxmYXz)
- - 💣 [The marriage is over](http://9gag.com/gag/amovp3o)
- - 😝 [...](http://9gag.com/gag/a4P3WAA)
- - 👉 [So many questions...](http://9gag.com/gag/adBV2Gd)<!-- MEMES:END -->
+ - 😝 [So many questions...](http://9gag.com/gag/adBV2Gd)
+ - 😝 [Found this on my late grandfather&#39;s phone](http://9gag.com/gag/aE0PDZO)
+ - 💣 [This is the worst!!!](http://9gag.com/gag/agmA4px)
+ - 😝 [This title is being replaced with a wooden leg](http://9gag.com/gag/a2vW2GY)
+ - 👉 [The marriage is over](http://9gag.com/gag/amovp3o)<!-- MEMES:END -->
 
 ---
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Always wear brown pants when surfing...](http://9gag.com/gag/ae9D7qm)
- - 😝 [Oleksii Novikov owns the World&#39;s Strongest Man record in the 18-Inch deadlift at 1,185 pounds](http://9gag.com/gag/a7oWNNm)
- - 💣 [Lucy Gravityless](http://9gag.com/gag/aqyndpR)
- - 😝 [Boss : ` What happened? Did you scratch the Chevy pickup truck? - Tow Guy : ` Hehe....`](http://9gag.com/gag/a9ynVe1)
- - 👉 [What do you think?](http://9gag.com/gag/aryV876)<!-- MEMES:END -->
+ - 😝 [Guy posts about being ugly, girl calls him cute; now they&#39;re married and expecting a baby.](http://9gag.com/gag/azxmBvm)
+ - 😝 [This old guy&#39;s digging technique.](http://9gag.com/gag/a6ZK8We)
+ - 💣 [How it feels trying to make new friends after turning 30.](http://9gag.com/gag/a4P3qEQ)
+ - 😝 [Cardboard houses mentality...](http://9gag.com/gag/aoyPdqe)
+ - 👉 [Always wear brown pants when surfing...](http://9gag.com/gag/ae9D7qm)<!-- MEMES:END -->
 
 ---
 

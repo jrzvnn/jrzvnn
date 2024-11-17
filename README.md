@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [...](http://9gag.com/gag/a4P3WAA)
- - 😝 [Drops child, catches ball, catches child](http://9gag.com/gag/aVvwVmw)
- - 💣 [Well, who was it?](http://9gag.com/gag/an74Gyo)
  - 😝 [Aim for the bushes](http://9gag.com/gag/azxmYXz)
- - 👉 [The marriage is over](http://9gag.com/gag/amovp3o)<!-- MEMES:END -->
+ - 😝 [How it feels trying to make new friends after turning 30.](http://9gag.com/gag/a4P3qEQ)
+ - 💣 [The marriage is over](http://9gag.com/gag/amovp3o)
+ - 😝 [A Filipino showed me this and I thought it was funny. Hope you enjoy it some.](http://9gag.com/gag/a2vWLLw)
+ - 👉 [Always wear brown pants when surfing...](http://9gag.com/gag/ae9D7qm)<!-- MEMES:END -->
 
 ---
 

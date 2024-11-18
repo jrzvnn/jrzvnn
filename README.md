@@ -166,10 +166,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Boss : ` What happened? Did you scratch the Chevy pickup truck? - Tow Guy : ` Hehe....`](http://9gag.com/gag/a9ynVe1)
- - 😝 [Getting hit by a plane while trying to exit one](http://9gag.com/gag/awyB8K1)
- - 💣 [They never tell this!](http://9gag.com/gag/aBymNGN)
  - 😝 [Savage.](http://9gag.com/gag/aXPgQP2)
+ - 😝 [Pew pew pew or the Helmet](http://9gag.com/gag/ajP9MOx)
+ - 💣 [They never tell this!](http://9gag.com/gag/aBymNGN)
+ - 😝 [Getting hit by a plane while trying to exit one](http://9gag.com/gag/awyB8K1)
  - 👉 [Hospital horror story](http://9gag.com/gag/ae9DPAW)<!-- MEMES:END -->
 
 ---

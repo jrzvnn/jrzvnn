@@ -170,7 +170,7 @@ R                        1 repo              ░░░░░░░░░░░�
  - 😝 [He had the choice and made his decision](http://9gag.com/gag/ayNeZ88)
  - 💣 [Stop forcing your mental illness on games](http://9gag.com/gag/axy9nVW)
  - 😝 [Imagine if your favourite dim sum came alive to explore Hong Kong\ud83e\udd2f!](http://9gag.com/gag/abAGLgB)
- - 👉 [Hiker El G\u00fcero Ingl\u00e9s was lost in the Peruvian mountains, then a stray dog arrived to show him the way. `I decided to follow him and he saved me,\u201d he told local newspaper.](http://9gag.com/gag/aNDgGdb)<!-- MEMES:END -->
+ - 👉 [The Islamists in Berlin are more aggressive every day and the German police are restoring order and discipline. The German police are not intimidated.](http://9gag.com/gag/a6ZKeM8)<!-- MEMES:END -->
 
 ---
 

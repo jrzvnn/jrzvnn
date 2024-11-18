@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Thieves are using stolen tracking data to steal iPhone packages](https://appleinsider.com/articles/24/11/18/thieves-are-using-stolen-tracking-data-to-steal-iphone-packages?utm_medium=rss)
- - [Clip Ebike Conversion Kit: An Affordable but Inconvenient Solution](https://www.wired.com/review/clip-ebike-conversion-kit/)
- - [Bag a DJI Portable Power Station at Its Lowest Price Ever](https://www.cnet.com/deals/bag-a-dji-portable-power-station-at-its-lowest-price-ever/#ftag=CAD590a51e)
- - [Best Internet Providers in Modesto, California](https://www.cnet.com/home/internet/best-internet-providers-in-modesto-ca/#ftag=CAD590a51e)
- - [Best Smart Home Gyms for 2024](https://www.cnet.com/health/fitness/best-smart-home-gym/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [B&amp;H slashes M3 MacBook Air with 16GB RAM, 512GB SSD to $1,099](https://appleinsider.com/articles/24/11/18/bh-slashes-m3-macbook-air-with-16gb-ram-512gb-ssd-to-1099?utm_medium=rss)
+ - [NBA settles with WBD as it prepares to stream games on Amazon in 2025](https://www.theverge.com/2024/11/18/24299485/nba-wbd-max-sports-live-streaming-amazon-2025)
+ - [Neural DSP Nano Cortex Review: The Perfect Portable Amp Modeler](https://www.wired.com/review/neural-dsp-nano-cortex/)
+ - [The Chase Sapphire Preferred Should Be Your Next Travel Credit Card -- Here’s Why](https://www.cnet.com/personal-finance/chase-sapphire-preferred/#ftag=CAD590a51e)
+ - [Pairing the Chase Sapphire Preferred Card and Chase Freedom Unlimited to Level Up Your Rewards](https://www.cnet.com/personal-finance/pairing-the-chase-sapphire-preferred-card-and-chase-freedom-unlimited/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

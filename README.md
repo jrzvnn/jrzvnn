@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Xiaomi, the second largest smartphone vendor in India, plans to replace its app store there with one from PhonePe in January, amid ongoing geopolitical tensions &lpar;Manish Singh/TechCrunch&rpar;](http://www.techmeme.com/241118/p25#a241118p25)
- - [Sources: Trump Media is nearing an all-share purchase of Intercontinental Exchange&#39;s crypto trading platform Bakkt; DJT closed up 16.65%, BKKT up 162.46% &lpar;Philip Stafford/Financial Times&rpar;](http://www.techmeme.com/241118/p24#a241118p24)
- - [A look at emails between Musk and Altman from the early days of OpenAI, discussing its partnership with Microsoft, fundraising, employee compensation, AGI, more &lpar;Kylie Robison/The Verge&rpar;](http://www.techmeme.com/241118/p23#a241118p23)
- - [Mistral adds web search, image generation, Canvas for in-line editing, more to its Le Chat chatbot, and unveils Pixtral Large, a 124B-parameter multimodal model &lpar;Carl Franzen/VentureBeat&rpar;](http://www.techmeme.com/241118/p22#a241118p22)
- - [Bluesky Explained: Why This Social Media Network Is Growing by 1 Million Users a Day](https://www.cnet.com/tech/bluesky-explained-why-this-social-media-network-is-now-growing-by-1-million-users-daily/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Sources: DOJ antitrust officials have decided to, along with states&#39; AGs, ask a judge to force Google to spin off Chrome and impose data licensing requirements &lpar;Bloomberg&rpar;](http://www.techmeme.com/241118/p27#a241118p27)
+ - [Two Baltic Sea internet cables, connecting Lithuania with Sweden and Finland with Germany, were suddenly disrupted, sparking concerns of Russian sabotage &lpar;CNN&rpar;](http://www.techmeme.com/241118/p26#a241118p26)
+ - [iPhone 17 Air could be Apple&#39;s thinnest iPhone yet, with a thickness of just 6mm](https://appleinsider.com/articles/24/11/18/iphone-17-air-could-be-apples-thinnest-iphone-yet-with-a-thickness-of-just-6mm?utm_medium=rss)
+ - [Razzlekhan, crypto’s most embarrassing rapper, is going to prison](https://www.theverge.com/2024/11/18/24299934/razzlekhan-crypto-bitfinex-hack-heather-morgan)
+ - [Xiaomi, the second largest smartphone vendor in India, plans to replace its app store there with one from PhonePe in January, amid ongoing geopolitical tensions &lpar;Manish Singh/TechCrunch&rpar;](http://www.techmeme.com/241118/p25#a241118p25)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

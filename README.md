@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Do you heal from this?](http://9gag.com/gag/axy9eDK)
- - 😝 [Guy posts about being ugly, girl calls him cute; now they&#39;re married and expecting a baby.](http://9gag.com/gag/azxmBvm)
- - 💣 [Hey my new GPU!!](http://9gag.com/gag/aD24qyK)
+ - 😝 [Out of these three girls and Ozzy Osbourne I just can\u2019t tell.](http://9gag.com/gag/azxmvdz)
+ - 😝 [AI officially gone too far](http://9gag.com/gag/a34wDL8)
+ - 💣 [Straight out of the Hogwarts library](http://9gag.com/gag/aZZyKMQ)
  - 😝 [Imagine if your favourite dim sum came alive to explore Hong Kong\ud83e\udd2f!](http://9gag.com/gag/abAGLgB)
- - 👉 [Easy](http://9gag.com/gag/a7oW6jb)<!-- MEMES:END -->
+ - 👉 [Hiker El G\u00fcero Ingl\u00e9s was lost in the Peruvian mountains, then a stray dog arrived to show him the way. `I decided to follow him and he saved me,\u201d he told local newspaper.](http://9gag.com/gag/aNDgGdb)<!-- MEMES:END -->
 
 ---
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Tim Berners-Lee&#39;s Inrupt begins an early trial of its digital wallet in Belgium to help deliver social services to 7M citizens, as he worries over AI&#39;s rise &lpar;Parmy Olson/Bloomberg&rpar;](http://www.techmeme.com/241118/p9#a241118p9)
  - [How Substack is betting on politics content and recruiting stars like Nate Silver, as profits remain elusive; sources: Elon Musk sought to buy it in April 2023 &lpar;New York Times&rpar;](http://www.techmeme.com/241118/p8#a241118p8)
  - [Why the US Government Banned Investments in Some Chinese AI Startups](https://www.wired.com/story/treasury-outbound-investment-china-artificial-intelligence/)
  - [Xiaomi reports Q3 revenue up 31% YoY to ~$12.8B, above ~$12.4B est., and a ~$738.5M net income, above ~$653M est., buoyed by growing smartphone and EV sales &lpar;Bloomberg&rpar;](http://www.techmeme.com/241118/p7#a241118p7)
- - [The Right to Repair Movement Will Keep On Fixin’](https://www.wired.com/story/the-right-to-repair-movement-under-trump/)
- - [Sources and ads: Foxconn tells recruiters that help hire iPhone assembly workers in India to remove age, gender, and marital criteria and its name from ads &lpar;Reuters&rpar;](http://www.techmeme.com/241118/p6#a241118p6)<!-- TECH:END -->
+ - [The Right to Repair Movement Will Keep On Fixin’](https://www.wired.com/story/the-right-to-repair-movement-under-trump/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

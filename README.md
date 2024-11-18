@@ -166,8 +166,8 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Pew pew pew or the Helmet](http://9gag.com/gag/ajP9MOx)
- - 😝 [How fast a trained dog recognizes danger](http://9gag.com/gag/aryVdwp)
+ - 😝 [Dont you know floppy drill bit have more kinetic energy ?!? duh](http://9gag.com/gag/aE0PQnO)
+ - 😝 [Happy Monday](http://9gag.com/gag/aO87ALy)
  - 💣 [Hospital horror story](http://9gag.com/gag/ae9DPAW)
  - 😝 [Imagine if your favourite dim sum came alive to explore Hong Kong\ud83e\udd2f!](http://9gag.com/gag/abAGLgB)
  - 👉 [Detainee slips cuffs and distracts driving cop, causes a wreck and gets ejected.](http://9gag.com/gag/ayNeVvq)<!-- MEMES:END -->

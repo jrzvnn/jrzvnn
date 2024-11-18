@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [No one stops the A train](http://9gag.com/gag/ajP93yQ)
- - 😝 [How fast a trained dog recognizes danger](http://9gag.com/gag/aryVdwp)
- - 💣 [Pizza boxes next week: Caution, contents may be slippery when stepped on](http://9gag.com/gag/aqynBoP)
+ - 😝 [Pizza boxes next week: Caution, contents may be slippery when stepped on](http://9gag.com/gag/aqynBoP)
+ - 😝 [Saw that coming](http://9gag.com/gag/axy9QPK)
+ - 💣 [Anything can be a di*do](http://9gag.com/gag/aD24r9G)
  - 😝 [Imagine if your favourite dim sum came alive to explore Hong Kong\ud83e\udd2f!](http://9gag.com/gag/abAGLgB)
- - 👉 [Asking the real question](http://9gag.com/gag/a87G95Y)<!-- MEMES:END -->
+ - 👉 [Didn&#39;t knew what meme to use, so I used both.](http://9gag.com/gag/aMVx6rx)<!-- MEMES:END -->
 
 ---
 

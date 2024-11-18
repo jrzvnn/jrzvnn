@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [How To Air Fry Perfect Chicken Thighs in Only 15 Minutes](https://www.cnet.com/how-to/how-to-air-fry-perfect-chicken-thighs-in-only-15-minutes/#ftag=CAD590a51e)
+ - [DoorDash will let you import your grocery list from Apple’s Reminders app](https://www.theverge.com/2024/11/18/24299695/doordash-import-grocery-list-apple-reminders-app)
+ - [Apple seeds third betas of tvOS 18.2 and visionOS 2.2](https://appleinsider.com/articles/24/11/18/apple-seeds-third-betas-of-tvos-182-and-visionos-22?utm_medium=rss)
+ - [Musk asked X users to try &quot;submitting x-ray, PET, MRI or other medical images to Grok for analysis&quot; weeks ago; many have, and HIPAA protections may not apply &lpar;Elizabeth Passarella/New York Times&rpar;](http://www.techmeme.com/241118/p16#a241118p16)
  - [Apple&#39;s new M4 MacBook Pro drops to record low $1,399 at Amazon](https://appleinsider.com/articles/24/11/18/apples-new-m4-macbook-pro-drops-to-record-low-1399-at-amazon?utm_medium=rss)
- - [Best iPad Deals: Save With Early Black Friday Discounts on Apple Tablets](https://www.cnet.com/deals/best-ipad-deals/#ftag=CAD590a51e)
- - [Netflix’s Jake Paul vs. Mike Tyson fight was a big moment for Bluesky](https://www.theverge.com/2024/11/18/24299530/netflix-jake-paul-mike-tyson-fight-bluesky)
- - [Goldman Sachs says it is reaching out to potential partners about plans to spin out its digital-assets platform within 12 to 18 months &lpar;Anna Irrera/Bloomberg&rpar;](http://www.techmeme.com/241118/p15#a241118p15)<!-- TECH:END -->
+ - [Netflix’s Jake Paul vs. Mike Tyson fight was a big moment for Bluesky](https://www.theverge.com/2024/11/18/24299530/netflix-jake-paul-mike-tyson-fight-bluesky)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

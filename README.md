@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [19 Gifts for Travelers Who Are Always One Flight Ahead &lpar;2024&rpar;](https://www.wired.com/gallery/best-travel-gifts/)
  - [DoorDash delivers convenience with Apple Reminders integration](https://appleinsider.com/articles/24/11/18/doordash-delivers-convenience-with-apple-reminders-integration?utm_medium=rss)
  - [The best sleep gadgets to help you catch those Zzzs](https://www.theverge.com/23291925/best-sleep-tech-trackers-earbuds-wearables)
  - [Best Minecraft Server Hosting Service of 2024](https://www.cnet.com/tech/services-and-software/best-minecraft-server-hosting/#ftag=CAD590a51e)
- - [DoorDash will let you import your grocery list from Apple’s Reminders app](https://www.theverge.com/2024/11/18/24299695/doordash-import-grocery-list-apple-reminders-app)
- - [Apple seeds third betas of tvOS 18.2 and visionOS 2.2](https://appleinsider.com/articles/24/11/18/apple-seeds-third-betas-of-tvos-182-and-visionos-22?utm_medium=rss)<!-- TECH:END -->
+ - [DoorDash will let you import your grocery list from Apple’s Reminders app](https://www.theverge.com/2024/11/18/24299695/doordash-import-grocery-list-apple-reminders-app)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

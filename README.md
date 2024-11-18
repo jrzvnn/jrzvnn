@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Xiaomi reports Q3 revenue up 31% YoY to ~$12.8B, above ~$12.4B est., and a ~$738.5M net income, above ~$653M est., buoyed by growing smartphone and EV sales &lpar;Bloomberg&rpar;](http://www.techmeme.com/241118/p7#a241118p7)
+ - [The Right to Repair Movement Will Keep On Fixin’](https://www.wired.com/story/the-right-to-repair-movement-under-trump/)
  - [Sources and ads: Foxconn tells recruiters that help hire iPhone assembly workers in India to remove age, gender, and marital criteria and its name from ads &lpar;Reuters&rpar;](http://www.techmeme.com/241118/p6#a241118p6)
  - [Samsung unveils a $7.2B share buyback plan, its first since 2017, aimed at boosting its stock, which has fallen 30%+ in 2024 on concerns over Chair Lee Jae-yong &lpar;Financial Times&rpar;](http://www.techmeme.com/241118/p5#a241118p5)
- - [LG’s first 480Hz OLED gaming monitor is $1,000](https://www.theverge.com/2024/11/18/24299376/lg-ultragear-gx7-480hz-oled-gaming-monitor-price-availability)
- - [Best Beer Clubs for 2024](https://www.cnet.com/news/best-beer-subscription-boxes/#ftag=CAD590a51e)
- - [Q&amp;A with The Verge EIC Nilay Patel on upcoming FCC Chair Brendan Carr, the alliance between Trump and Musk and how it threatens the First Amendment, and more &lpar;Oliver Darcy/Status&rpar;](http://www.techmeme.com/241118/p4#a241118p4)<!-- TECH:END -->
+ - [LG’s first 480Hz OLED gaming monitor is $1,000](https://www.theverge.com/2024/11/18/24299376/lg-ultragear-gx7-480hz-oled-gaming-monitor-price-availability)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

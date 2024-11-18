@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [News influencers survey: 20% of US adults say they get news from social media influencers, 85% of influencers are on X and 27% identify as right-wing, and more &lpar;Pew Research Center&rpar;](http://www.techmeme.com/241118/p13#a241118p13)
  - [B&amp;H slashes M3 MacBook Air with 16GB RAM, 512GB SSD to $1,099](https://appleinsider.com/articles/24/11/18/bh-slashes-m3-macbook-air-with-16gb-ram-512gb-ssd-to-1099?utm_medium=rss)
  - [NBA settles with WBD as it prepares to stream games on Amazon in 2025](https://www.theverge.com/2024/11/18/24299485/nba-wbd-max-sports-live-streaming-amazon-2025)
  - [Neural DSP Nano Cortex Review: The Perfect Portable Amp Modeler](https://www.wired.com/review/neural-dsp-nano-cortex/)
- - [The Chase Sapphire Preferred Should Be Your Next Travel Credit Card -- Here’s Why](https://www.cnet.com/personal-finance/chase-sapphire-preferred/#ftag=CAD590a51e)
- - [Pairing the Chase Sapphire Preferred Card and Chase Freedom Unlimited to Level Up Your Rewards](https://www.cnet.com/personal-finance/pairing-the-chase-sapphire-preferred-card-and-chase-freedom-unlimited/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [The Chase Sapphire Preferred Should Be Your Next Travel Credit Card -- Here’s Why](https://www.cnet.com/personal-finance/chase-sapphire-preferred/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

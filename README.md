@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [MicroStrategy bought ~51,780 bitcoin for ~$4.6B between November 11 and November 17, its largest purchase since starting in 2020, and now holds $29B in bitcoin &lpar;Dave Liedtka/Bloomberg&rpar;](http://www.techmeme.com/241118/p12#a241118p12)
+ - [Bug stops M4 Macs from virtualizing older macOS versions](https://appleinsider.com/articles/24/11/18/bug-stops-m4-macs-from-virtualizing-older-macos-versions?utm_medium=rss)
  - [Tanner Leatherstein&#39;s Viral Mission to Save You From Bad Luxury Bags](https://www.wired.com/story/tanner-leathersteins-viral-mission-to-save-you-from-bad-luxury-bags/)
  - [PitchBook: in 2023, US VCs returned $26B worth of shares back to investors, the lowest amount since 2011, and invested $60B more than they collected, a record &lpar;Berber Jin/Wall Street Journal&rpar;](http://www.techmeme.com/241118/p11#a241118p11)
- - [Automatic Braking Systems Save Lives. Now They&#39;ll Need to Work at 62 MPH](https://www.wired.com/story/automatic-emergency-braking-systems-62-mph/)
- - [30-Year Fixed Refinance Dips: Today&#39;s Refinance Rates, Nov. 18, 2024](https://www.cnet.com/personal-finance/30-year-fixed-refinance-dips-todays-refinance-rates-nov-18-2024/#ftag=CAD590a51e)
- - [Best True Wireless Sports Earbuds With Ear Hooks for 2024](https://www.cnet.com/tech/mobile/best-true-wireless-sports-earbuds-with-ear-hooks/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Automatic Braking Systems Save Lives. Now They&#39;ll Need to Work at 62 MPH](https://www.wired.com/story/automatic-emergency-braking-systems-62-mph/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

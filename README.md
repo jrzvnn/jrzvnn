@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Tim Berners-Lee&#39;s Inrupt begins an early trial of its digital wallet in Belgium to help deliver social services to 7M citizens, as he worries over AI&#39;s rise &lpar;Parmy Olson/Bloomberg&rpar;](http://www.techmeme.com/241118/p9#a241118p9)
- - [How Substack is betting on politics content and recruiting stars like Nate Silver, as profits remain elusive; sources: Elon Musk sought to buy it in April 2023 &lpar;New York Times&rpar;](http://www.techmeme.com/241118/p8#a241118p8)
- - [Why the US Government Banned Investments in Some Chinese AI Startups](https://www.wired.com/story/treasury-outbound-investment-china-artificial-intelligence/)
- - [Xiaomi reports Q3 revenue up 31% YoY to ~$12.8B, above ~$12.4B est., and a ~$738.5M net income, above ~$653M est., buoyed by growing smartphone and EV sales &lpar;Bloomberg&rpar;](http://www.techmeme.com/241118/p7#a241118p7)
- - [The Right to Repair Movement Will Keep On Fixin’](https://www.wired.com/story/the-right-to-repair-movement-under-trump/)<!-- TECH:END -->
+ - [Netflix adds Beyoncé to live entertainment juggernaut](https://www.theverge.com/2024/11/18/24299402/netflix-beyonce-nfl-halftime-performance-streaming-live-sports)
+ - [Roblox rolls out parental controls and gatekeeping features, like letting parents link accounts with a child and banning text chat for under 13s outside games &lpar;Sarah E. Needleman/Wall Street Journal&rpar;](http://www.techmeme.com/241118/p10#a241118p10)
+ - [The Best Early Black Friday Mattress Deals &lpar;2024&rpar;](https://www.wired.com/story/best-early-black-friday-mattress-deals-2024/)
+ - [Roblox will restrict kids under 13 from chatting outside of games](https://www.theverge.com/2024/11/18/24298330/roblox-child-safety-chat-parent-accounts)
+ - [Foxconn India drops recruitment discrimination against married women](https://appleinsider.com/articles/24/11/18/foxconn-india-drops-recruitment-discrimination-against-married-women?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

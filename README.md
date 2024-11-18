@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [They never tell this!](http://9gag.com/gag/aBymNGN)
- - 😝 [Detainee slips cuffs and distracts driving cop, causes a wreck and gets ejected.](http://9gag.com/gag/ayNeVvq)
- - 💣 [How about that.](http://9gag.com/gag/aBymNXD)
+ - 😝 [Dating life](http://9gag.com/gag/aXPgG12)
+ - 😝 [Boss : ` What happened? Did you scratch the Chevy pickup truck? - Tow Guy : ` Hehe....`](http://9gag.com/gag/a9ynVe1)
+ - 💣 [How fast a trained dog recognizes danger](http://9gag.com/gag/aryVdwp)
  - 😝 [Imagine if your favourite dim sum came alive to explore Hong Kong\ud83e\udd2f!](http://9gag.com/gag/abAGLgB)
- - 👉 [Being a man is not easy](http://9gag.com/gag/a7oWGRb)<!-- MEMES:END -->
+ - 👉 [Detainee slips cuffs and distracts driving cop, causes a wreck and gets ejected.](http://9gag.com/gag/ayNeVvq)<!-- MEMES:END -->
 
 ---
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [MicroStrategy bought ~51,780 bitcoin for ~$4.6B between November 11 and November 17, its largest purchase since starting in 2020, and now holds $29B in bitcoin &lpar;Dave Liedtka/Bloomberg&rpar;](http://www.techmeme.com/241118/p12#a241118p12)
- - [Bug stops M4 Macs from virtualizing older macOS versions](https://appleinsider.com/articles/24/11/18/bug-stops-m4-macs-from-virtualizing-older-macos-versions?utm_medium=rss)
- - [Tanner Leatherstein&#39;s Viral Mission to Save You From Bad Luxury Bags](https://www.wired.com/story/tanner-leathersteins-viral-mission-to-save-you-from-bad-luxury-bags/)
- - [PitchBook: in 2023, US VCs returned $26B worth of shares back to investors, the lowest amount since 2011, and invested $60B more than they collected, a record &lpar;Berber Jin/Wall Street Journal&rpar;](http://www.techmeme.com/241118/p11#a241118p11)
- - [Automatic Braking Systems Save Lives. Now They&#39;ll Need to Work at 62 MPH](https://www.wired.com/story/automatic-emergency-braking-systems-62-mph/)<!-- TECH:END -->
+ - [Clip Ebike Conversion Kit: An Affordable but Inconvenient Solution](https://www.wired.com/review/clip-ebike-conversion-kit/)
+ - [Bag a DJI Portable Power Station at Its Lowest Price Ever](https://www.cnet.com/deals/bag-a-dji-portable-power-station-at-its-lowest-price-ever/#ftag=CAD590a51e)
+ - [Best Internet Providers in Modesto, California](https://www.cnet.com/home/internet/best-internet-providers-in-modesto-ca/#ftag=CAD590a51e)
+ - [Best Smart Home Gyms for 2024](https://www.cnet.com/health/fitness/best-smart-home-gym/#ftag=CAD590a51e)
+ - [MicroStrategy bought ~51,780 bitcoin for ~$4.6B between November 11 and November 17, its largest purchase since starting in 2020, and now holds $29B+ in bitcoin &lpar;Dave Liedtka/Bloomberg&rpar;](http://www.techmeme.com/241118/p12#a241118p12)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

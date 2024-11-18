@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Xiaomi, the second largest smartphone vendor in India, plans to replace its app store there with one from PhonePe in January, amid ongoing geopolitical tensions &lpar;Manish Singh/TechCrunch&rpar;](http://www.techmeme.com/241118/p25#a241118p25)
+ - [Sources: Trump Media is nearing an all-share purchase of Intercontinental Exchange&#39;s crypto trading platform Bakkt; DJT closed up 16.65%, BKKT up 162.46% &lpar;Philip Stafford/Financial Times&rpar;](http://www.techmeme.com/241118/p24#a241118p24)
+ - [A look at emails between Musk and Altman from the early days of OpenAI, discussing its partnership with Microsoft, fundraising, employee compensation, AGI, more &lpar;Kylie Robison/The Verge&rpar;](http://www.techmeme.com/241118/p23#a241118p23)
  - [Mistral adds web search, image generation, Canvas for in-line editing, more to its Le Chat chatbot, and unveils Pixtral Large, a 124B-parameter multimodal model &lpar;Carl Franzen/VentureBeat&rpar;](http://www.techmeme.com/241118/p22#a241118p22)
- - [Corsair now has a gaming keyboard and mouse for the Mac](https://www.theverge.com/2024/11/18/24299881/corsair-mac-k65-plus-wireless-gaming-keyboard-m75-mouse)
- - [Telegram updates &quot;mini-apps&quot; to be able to run full screen and be pinned to homescreens; devs can now add subscription plans, a &quot;gift&quot; sending feature, and more &lpar;Umar Shakir/The Verge&rpar;](http://www.techmeme.com/241118/p21#a241118p21)
- - [HarperCollins is asking authors to license their books for AI training](https://www.theverge.com/2024/11/18/24299882/harpercollins-authors-license-books-ai-training)
- - [Heather &quot;Razzlekhan&quot; Morgan, who helped launder the 2016 Bitfinex hack proceeds, is sentenced to 18 months in prison; her husband recently got a 5-year sentence &lpar;Jesse Hamilton/CoinDesk&rpar;](http://www.techmeme.com/241118/p20#a241118p20)<!-- TECH:END -->
+ - [Bluesky Explained: Why This Social Media Network Is Growing by 1 Million Users a Day](https://www.cnet.com/tech/bluesky-explained-why-this-social-media-network-is-now-growing-by-1-million-users-daily/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

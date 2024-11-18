@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Thieves are using stolen tracking data to steal iPhone packages](https://appleinsider.com/articles/24/11/18/thieves-are-using-stolen-tracking-data-to-steal-iphone-packages?utm_medium=rss)
  - [Clip Ebike Conversion Kit: An Affordable but Inconvenient Solution](https://www.wired.com/review/clip-ebike-conversion-kit/)
  - [Bag a DJI Portable Power Station at Its Lowest Price Ever](https://www.cnet.com/deals/bag-a-dji-portable-power-station-at-its-lowest-price-ever/#ftag=CAD590a51e)
  - [Best Internet Providers in Modesto, California](https://www.cnet.com/home/internet/best-internet-providers-in-modesto-ca/#ftag=CAD590a51e)
- - [Best Smart Home Gyms for 2024](https://www.cnet.com/health/fitness/best-smart-home-gym/#ftag=CAD590a51e)
- - [MicroStrategy bought ~51,780 bitcoin for ~$4.6B between November 11 and November 17, its largest purchase since starting in 2020, and now holds $29B+ in bitcoin &lpar;Dave Liedtka/Bloomberg&rpar;](http://www.techmeme.com/241118/p12#a241118p12)<!-- TECH:END -->
+ - [Best Smart Home Gyms for 2024](https://www.cnet.com/health/fitness/best-smart-home-gym/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

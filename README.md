@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Internal document: Amazon has held talks with several partners for handling specific tasks on the AI-powered Alexa, including Uber, Ticketmaster, and Instacart &lpar;Eugene Kim/Business Insider&rpar;](http://www.techmeme.com/241118/p30#a241118p30)
  - [In the Fifth Circuit, Amazon and SpaceX argued the NLRB, which recently ruled against them, is unconstitutional; the judges questioned their arbitrary deadlines &lpar;Daniel Wiessner/Reuters&rpar;](http://www.techmeme.com/241118/p29#a241118p29)
  - [Dozens of states ask Congress to un-doom the Kids Online Safety Act](https://www.theverge.com/2024/11/18/24299941/state-ag-letter-congress-pass-child-safety-kosa-deadline)
  - [US lawyers will reportedly try to force Google to sell Chrome and unbundle Android](https://www.theverge.com/2024/11/18/24300033/doj-google-monopoly-remedies-search-chrome-android-ai)
- - [Perplexity debuts a shopping feature offering product recommendations, one-click checkout, and more for Pro users in the US, alongside a merchant program &lpar;Ivan Mehta/TechCrunch&rpar;](http://www.techmeme.com/241118/p28#a241118p28)
- - [Best Wi-Fi Extenders of 2024](https://www.cnet.com/home/internet/best-wifi-extender/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Perplexity debuts a shopping feature offering product recommendations, one-click checkout, and more for Pro users in the US, alongside a merchant program &lpar;Ivan Mehta/TechCrunch&rpar;](http://www.techmeme.com/241118/p28#a241118p28)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

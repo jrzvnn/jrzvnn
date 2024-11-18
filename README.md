@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [HarperCollins is asking authors to license their books for AI training](https://www.theverge.com/2024/11/18/24299882/harpercollins-authors-license-books-ai-training)
+ - [Heather &quot;Razzlekhan&quot; Morgan, who helped launder the 2016 Bitfinex hack proceeds, is sentenced to 18 months in prison; her husband recently got a 5-year sentence &lpar;Jesse Hamilton/CoinDesk&rpar;](http://www.techmeme.com/241118/p20#a241118p20)
  - [Toyota shows off its latest big idea for cold hydrogen vehicles](https://www.theverge.com/2024/11/18/24299725/toyota-liquid-hydrogen-self-pressurizer-gr-corolla-h2)
  - [Donald Trump’s pick for energy secretary says ‘there is no climate crisis’](https://www.theverge.com/2024/11/18/24299573/donald-trump-energy-secretary-chris-wright-oil-gas-nuclear-ai)
- - [Inside Elon Musk’s messy breakup with OpenAI](https://www.theverge.com/2024/11/18/24299787/elon-musk-openai-lawsuit-sam-altman-xai-google-deepmind)
- - [Dbrand’s new glow-in-the-dark skins have a circuit board texture you can feel](https://www.theverge.com/2024/11/18/24299819/dbrand-circuit-board-wrap-skin-glow-linustechtips)
- - [Google may be about to reboot its laptop and tablet hardware again](https://www.theverge.com/2024/11/18/24299817/google-reboot-laptop-tablet-hardware-rumors-android-chrome-os)<!-- TECH:END -->
+ - [Inside Elon Musk’s messy breakup with OpenAI](https://www.theverge.com/2024/11/18/24299787/elon-musk-openai-lawsuit-sam-altman-xai-google-deepmind)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Dont you know floppy drill bit have more kinetic energy ?!? duh](http://9gag.com/gag/aE0PQnO)
- - 😝 [Happy Monday](http://9gag.com/gag/aO87ALy)
- - 💣 [Hospital horror story](http://9gag.com/gag/ae9DPAW)
+ - 😝 [Smoothly picking cotton](http://9gag.com/gag/adBVbDQ)
+ - 😝 [Pizza boxes next week: Caution, contents may be slippery when stepped on](http://9gag.com/gag/aqynBoP)
+ - 💣 [\u201cAs hard as she could\u2026\u201d](http://9gag.com/gag/aQzdB3z)
  - 😝 [Imagine if your favourite dim sum came alive to explore Hong Kong\ud83e\udd2f!](http://9gag.com/gag/abAGLgB)
- - 👉 [Detainee slips cuffs and distracts driving cop, causes a wreck and gets ejected.](http://9gag.com/gag/ayNeVvq)<!-- MEMES:END -->
+ - 👉 [Happy Monday](http://9gag.com/gag/aO87ALy)<!-- MEMES:END -->
 
 ---
 

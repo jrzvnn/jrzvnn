@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [How To Air Fry Perfect Chicken Thighs in Only 15 Minutes](https://www.cnet.com/how-to/how-to-air-fry-perfect-chicken-thighs-in-only-15-minutes/#ftag=CAD590a51e)
  - [Apple&#39;s new M4 MacBook Pro drops to record low $1,399 at Amazon](https://appleinsider.com/articles/24/11/18/apples-new-m4-macbook-pro-drops-to-record-low-1399-at-amazon?utm_medium=rss)
+ - [Best iPad Deals: Save With Early Black Friday Discounts on Apple Tablets](https://www.cnet.com/deals/best-ipad-deals/#ftag=CAD590a51e)
  - [Netflix’s Jake Paul vs. Mike Tyson fight was a big moment for Bluesky](https://www.theverge.com/2024/11/18/24299530/netflix-jake-paul-mike-tyson-fight-bluesky)
- - [Goldman Sachs says it is reaching out to potential partners about plans to spin out its digital-assets platform within 12 to 18 months &lpar;Anna Irrera/Bloomberg&rpar;](http://www.techmeme.com/241118/p15#a241118p15)
- - [7 Best Digital Photo Frames &lpar;2024&rpar;: Wi-Fi, High-Res](https://www.wired.com/gallery/best-digital-picture-frames/)
- - [Substack says it could be profitable — but it still isn’t](https://www.theverge.com/2024/11/18/24299484/substack-newsletters-politics-not-profitable-frustrated-investors)<!-- TECH:END -->
+ - [Goldman Sachs says it is reaching out to potential partners about plans to spin out its digital-assets platform within 12 to 18 months &lpar;Anna Irrera/Bloomberg&rpar;](http://www.techmeme.com/241118/p15#a241118p15)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

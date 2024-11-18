@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [He had the choice and made his decision](http://9gag.com/gag/ayNeZ88)
- - 😝 [Out of these three girls and Ozzy Osbourne I just can\u2019t tell.](http://9gag.com/gag/azxmvdz)
- - 💣 [Air quality India](http://9gag.com/gag/aAyeLzo)
+ - 😝 [Pizza boxes next week: Caution, contents may be slippery when stepped on](http://9gag.com/gag/aqynBoP)
+ - 😝 [How fast a trained dog recognizes danger](http://9gag.com/gag/aryVdwp)
+ - 💣 [Detainee slips cuffs and distracts driving cop, causes a wreck and gets ejected.](http://9gag.com/gag/ayNeVvq)
  - 😝 [Imagine if your favourite dim sum came alive to explore Hong Kong\ud83e\udd2f!](http://9gag.com/gag/abAGLgB)
- - 👉 [Hiker El G\u00fcero Ingl\u00e9s was lost in the Peruvian mountains, then a stray dog arrived to show him the way. `I decided to follow him and he saved me,\u201d he told local newspaper.](http://9gag.com/gag/aNDgGdb)<!-- MEMES:END -->
+ - 👉 [Anything can be a di*do](http://9gag.com/gag/aD24r9G)<!-- MEMES:END -->
 
 ---
 

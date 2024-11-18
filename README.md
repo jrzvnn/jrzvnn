@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Substack says it could be profitable — but it still isn’t](https://www.theverge.com/2024/11/18/24299484/substack-newsletters-politics-not-profitable-frustrated-investors)
+ - [Now Telegram’s mini-apps can run in full screen on your phone](https://www.theverge.com/2024/11/18/24299536/telegram-mini-apps-update-2-super-app)
+ - [Perplexity’s AI search engine can now buy products for you](https://www.theverge.com/2024/11/18/24299574/perplexity-ai-search-engine-buy-products)
  - [M4 MacBook Pro display uses quantum dot film for more vibrant color &amp; motion performance](https://appleinsider.com/articles/24/11/15/m4-macbook-pro-use-quantum-dot-film-for-more-vibrant-color-motion-performance?utm_medium=rss)
- - [Nike’s Air Max 1000 are almost entirely 3D-printed](https://www.theverge.com/2024/11/18/24299479/nike-air-max-1000-3d-printed-shoe-zellerfeld-collab)
- - [M4 Mac mini review: The first redesign in years hides incredible computing power](https://appleinsider.com/articles/24/11/13/m4-mac-mini-review-the-first-redesign-in-years-hides-incredible-computing-power?utm_medium=rss)
- - [India fines Meta ~$25M and imposes new data rules, over antitrust issues from 2021 when it removed a way to opt out of sharing WhatsApp data with Meta companies &lpar;Manish Singh/TechCrunch&rpar;](http://www.techmeme.com/241118/p14#a241118p14)
- - [Apple readies smart home display and camera for 2025 and beyond on HomeKit Insider](https://appleinsider.com/articles/24/11/18/apple-readies-smart-home-display-and-camera-for-2025-and-beyond-on-homekit-insider?utm_medium=rss)<!-- TECH:END -->
+ - [Nike’s Air Max 1000 are almost entirely 3D-printed](https://www.theverge.com/2024/11/18/24299479/nike-air-max-1000-3d-printed-shoe-zellerfeld-collab)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

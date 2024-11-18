@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Q&amp;A with The Verge EIC Nilay Patel on upcoming FCC chair Brendan Carr, the alliance between Trump and Musk and how it threatens the First Amendment, and more &lpar;Oliver Darcy/Status&rpar;](http://www.techmeme.com/241118/p4#a241118p4)
  - [How Wall Street is preparing to cash on AI hysteria; analysis say delivering on AI&#39;s promise will require $1T+ for data centers, electricity, and more &lpar;Bloomberg&rpar;](http://www.techmeme.com/241118/p3#a241118p3)
- - [Best Internet Providers in Massachusetts](https://www.cnet.com/home/internet/best-internet-providers-in-massachusetts/#ftag=CAD590a51e)
- - [Chinese smartphone manufacturers are ramping up their efforts in Europe to grab marketshare from Apple and Samsung with tech such as foldable devices &lpar;Financial Times&rpar;](http://www.techmeme.com/241118/p2#a241118p2)
- - [Edison: 31% of US weekly podcast listeners say YouTube is their most used platform to listen to podcasts, surpassing Spotify at 27% and Apple Podcasts at 15% &lpar;Ben Cohen/Wall Street Journal&rpar;](http://www.techmeme.com/241118/p1#a241118p1)
- - [Today&#39;s NYT Mini Crossword Answers for Monday, Nov. 18](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-monday-nov-18/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Slash Your Online Shopping Bills With These Browser Extensions and Apps](https://www.cnet.com/tech/services-and-software/slash-your-online-shopping-bills-with-these-browser-extensions-and-apps/#ftag=CAD590a51e)
+ - [24 Best Black Friday Mattress Deals to Shop This Season](https://www.cnet.com/deals/best-black-friday-mattress-deals-2024/#ftag=CAD590a51e)
+ - [Best Internet Providers in Massachusetts](https://www.cnet.com/home/internet/best-internet-providers-in-massachusetts/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

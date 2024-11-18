@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Trump: FCC commissioner Brendan Carr will chair the FCC; Carr has suggested limiting Section 230 of the Communications Act to curb Big Tech content moderation &lpar;Bloomberg&rpar;](http://www.techmeme.com/241117/p13#a241117p13)
- - [Trump names Brendan Carr as his FCC leader](https://www.theverge.com/2024/11/17/24299207/brendan-carr-fcc-chairman-trump)
- - [Trump taps Carr to chair FCC &lpar;John Hendel/Politico&rpar;](http://www.techmeme.com/241117/p12#a241117p12)
- - [Sources detail efforts by Google and Meta to sink KOSA, which passed in the Senate almost unanimously, by dividing US House lawmakers with culture war issues &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/241117/p11#a241117p11)
- - [Apple’s Lightning-to-3.5mm headphone adapter may be going away](https://www.theverge.com/2024/11/17/24299072/apple-lightning-to-3-5mm-headphone-jack-adapter-sold-out-apple-site)<!-- TECH:END -->
+ - [Today&#39;s NYT Mini Crossword Answers for Monday, Nov. 18](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-monday-nov-18/#ftag=CAD590a51e)
+ - [Today&#39;s NYT Connections: Sports Edition Hints and Answers for Nov. 18, #56](https://www.cnet.com/tech/gaming/todays-nyt-connections-sports-edition-hints-and-answers-for-nov-18-56/#ftag=CAD590a51e)
+ - [Today&#39;s NYT Connections Hints, Answers and Help for Nov. 18, #526](https://www.cnet.com/tech/gaming/todays-nyt-connections-hints-answers-and-help-for-nov-18-526/#ftag=CAD590a51e)
+ - [Today&#39;s Wordle Hints, Answer and Help for Nov. 18, #1248](https://www.cnet.com/tech/gaming/todays-wordle-hints-answer-and-help-for-nov-18-1248/#ftag=CAD590a51e)
+ - [Today&#39;s NYT Strands Hints, Answers and Help for Nov. 18, #260](https://www.cnet.com/tech/gaming/todays-nyt-strands-hints-answers-and-help-for-nov-18-260/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

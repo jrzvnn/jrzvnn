@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Being a man is not easy](http://9gag.com/gag/a7oWGRb)
+ - 😝 [Smoothly picking cotton](http://9gag.com/gag/adBVbDQ)
  - 😝 [Woman blocking the way](http://9gag.com/gag/a1mWw4v)
- - 💣 [Getting hit by a plane while trying to exit one](http://9gag.com/gag/awyB8K1)
+ - 💣 [Detainee slips cuffs and distracts driving cop, causes a wreck and gets ejected.](http://9gag.com/gag/ayNeVvq)
  - 😝 [Imagine if your favourite dim sum came alive to explore Hong Kong\ud83e\udd2f!](http://9gag.com/gag/abAGLgB)
- - 👉 [Hospital horror story](http://9gag.com/gag/ae9DPAW)<!-- MEMES:END -->
+ - 👉 [Easy](http://9gag.com/gag/a7oW6jb)<!-- MEMES:END -->
 
 ---
 

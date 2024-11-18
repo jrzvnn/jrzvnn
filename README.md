@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Detainee slips cuffs and distracts driving cop, causes a wreck and gets ejected.](http://9gag.com/gag/ayNeVvq)
- - 😝 [Woman blocking the way](http://9gag.com/gag/a1mWw4v)
- - 💣 [Pew pew pew or the Helmet](http://9gag.com/gag/ajP9MOx)
+ - 😝 [Interesting facts insert here](http://9gag.com/gag/azxmvLZ)
+ - 😝 [He had the choice and made his decision](http://9gag.com/gag/ayNeZ88)
+ - 💣 [The Islamists in Berlin are more aggressive every day and the German police are restoring order and discipline. The German police are not intimidated.](http://9gag.com/gag/a6ZKeM8)
  - 😝 [Imagine if your favourite dim sum came alive to explore Hong Kong\ud83e\udd2f!](http://9gag.com/gag/abAGLgB)
- - 👉 [Happy Monday](http://9gag.com/gag/aO87ALy)<!-- MEMES:END -->
+ - 👉 [A hot blonde woman won Miss Universe. The timeline is healing.](http://9gag.com/gag/abAGmMv)<!-- MEMES:END -->
 
 ---
 

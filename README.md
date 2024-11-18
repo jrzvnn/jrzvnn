@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Brendan Carr claims Big Tech &quot;worked with marketing, ad, &amp; &#39;fact checkers&#39; to punish free speech outlets&quot; and asks tech leaders about NewsGuard partnerships &lpar;Joshua Benton/Nieman Lab&rpar;](http://www.techmeme.com/241118/p17#a241118p17)
+ - [Nomad Black Friday Sale 2024: Deals on Chargers, iPhone Cases](https://www.wired.com/story/nomad-black-friday-sale-2024/)
+ - [Trump&#39;s new FCC nominee promises to bring Project 2025-style governance to media &lpar;Joshua Benton/Nieman Lab&rpar;](http://www.techmeme.com/241118/p17#a241118p17)
  - [tvOS 18.2 gains new Snoopy screensavers with latest developer beta](https://appleinsider.com/articles/24/11/18/tvos-182-gains-new-snoopy-screensavers-with-latest-developer-beta?utm_medium=rss)
  - [19 Gifts for Travelers Who Are Always One Flight Ahead &lpar;2024&rpar;](https://www.wired.com/gallery/best-travel-gifts/)
- - [DoorDash delivers convenience with Apple Reminders integration](https://appleinsider.com/articles/24/11/18/doordash-delivers-convenience-with-apple-reminders-integration?utm_medium=rss)
- - [The best sleep gadgets to help you catch those Zzzs](https://www.theverge.com/23291925/best-sleep-tech-trackers-earbuds-wearables)<!-- TECH:END -->
+ - [DoorDash delivers convenience with Apple Reminders integration](https://appleinsider.com/articles/24/11/18/doordash-delivers-convenience-with-apple-reminders-integration?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

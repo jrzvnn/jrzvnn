@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [In the Fifth Circuit, Amazon and SpaceX argued the NLRB, which recently ruled against them, is unconstitutional; the judges questioned their arbitrary deadlines &lpar;Daniel Wiessner/Reuters&rpar;](http://www.techmeme.com/241118/p29#a241118p29)
  - [Dozens of states ask Congress to un-doom the Kids Online Safety Act](https://www.theverge.com/2024/11/18/24299941/state-ag-letter-congress-pass-child-safety-kosa-deadline)
  - [US lawyers will reportedly try to force Google to sell Chrome and unbundle Android](https://www.theverge.com/2024/11/18/24300033/doj-google-monopoly-remedies-search-chrome-android-ai)
  - [Perplexity debuts a shopping feature offering product recommendations, one-click checkout, and more for Pro users in the US, alongside a merchant program &lpar;Ivan Mehta/TechCrunch&rpar;](http://www.techmeme.com/241118/p28#a241118p28)
- - [Amazon and SpaceX attack US labor watchdog in court](https://www.theverge.com/2024/11/18/24299607/amazon-spacex-nlrb-labor-law-fifth-circuit)
- - [Sources: DOJ antitrust officials have decided to, along with states&#39; AGs, ask a judge to force Google to spin off Chrome and impose data licensing requirements &lpar;Bloomberg&rpar;](http://www.techmeme.com/241118/p27#a241118p27)<!-- TECH:END -->
+ - [Best Wi-Fi Extenders of 2024](https://www.cnet.com/home/internet/best-wifi-extender/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

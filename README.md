@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [How is this guy still alive](http://9gag.com/gag/adBV4PB)
- - 😝 [No one stops the A train](http://9gag.com/gag/ajP93yQ)
- - 💣 [Airboat Racing](http://9gag.com/gag/abAGLBE)
+ - 😝 [Airboat Racing](http://9gag.com/gag/abAGLBE)
+ - 😝 [Anything can be a di*do](http://9gag.com/gag/aD24r9G)
+ - 💣 [No one stops the A train](http://9gag.com/gag/ajP93yQ)
  - 😝 [Imagine if your favourite dim sum came alive to explore Hong Kong\ud83e\udd2f!](http://9gag.com/gag/abAGLgB)
- - 👉 [Popcorn Ceiling Removal](http://9gag.com/gag/a87GXZ3)<!-- MEMES:END -->
+ - 👉 [Hospital horror story](http://9gag.com/gag/ae9DPAW)<!-- MEMES:END -->
 
 ---
 

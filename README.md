@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [The definition of your life flashing before your eyes](http://9gag.com/gag/aD24rvG)
- - 😝 [Hospital horror story](http://9gag.com/gag/ae9DPAW)
- - 💣 [How fast a trained dog recognizes danger](http://9gag.com/gag/aryVdwp)
+ - 😝 [No one stops the A train](http://9gag.com/gag/ajP93yQ)
+ - 😝 [How fast a trained dog recognizes danger](http://9gag.com/gag/aryVdwp)
+ - 💣 [Pizza boxes next week: Caution, contents may be slippery when stepped on](http://9gag.com/gag/aqynBoP)
  - 😝 [Imagine if your favourite dim sum came alive to explore Hong Kong\ud83e\udd2f!](http://9gag.com/gag/abAGLgB)
- - 👉 [Do you heal from this?](http://9gag.com/gag/axy9eDK)<!-- MEMES:END -->
+ - 👉 [Asking the real question](http://9gag.com/gag/a87G95Y)<!-- MEMES:END -->
 
 ---
 

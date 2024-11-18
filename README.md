@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Q&amp;A with The Verge EIC Nilay Patel on upcoming FCC chair Brendan Carr, the alliance between Trump and Musk and how it threatens the First Amendment, and more &lpar;Oliver Darcy/Status&rpar;](http://www.techmeme.com/241118/p4#a241118p4)
- - [How Wall Street is preparing to cash on AI hysteria; analysis say delivering on AI&#39;s promise will require $1T+ for data centers, electricity, and more &lpar;Bloomberg&rpar;](http://www.techmeme.com/241118/p3#a241118p3)
- - [Slash Your Online Shopping Bills With These Browser Extensions and Apps](https://www.cnet.com/tech/services-and-software/slash-your-online-shopping-bills-with-these-browser-extensions-and-apps/#ftag=CAD590a51e)
- - [24 Best Black Friday Mattress Deals to Shop This Season](https://www.cnet.com/deals/best-black-friday-mattress-deals-2024/#ftag=CAD590a51e)
- - [Best Internet Providers in Massachusetts](https://www.cnet.com/home/internet/best-internet-providers-in-massachusetts/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [LG’s first 480Hz OLED gaming monitor is $1,000](https://www.theverge.com/2024/11/18/24299376/lg-ultragear-gx7-480hz-oled-gaming-monitor-price-availability)
+ - [Best Beer Clubs for 2024](https://www.cnet.com/news/best-beer-subscription-boxes/#ftag=CAD590a51e)
+ - [Q&amp;A with The Verge EIC Nilay Patel on upcoming FCC Chair Brendan Carr, the alliance between Trump and Musk and how it threatens the First Amendment, and more &lpar;Oliver Darcy/Status&rpar;](http://www.techmeme.com/241118/p4#a241118p4)
+ - [Best Internet Providers in Naperville, Illinois](https://www.cnet.com/home/internet/best-internet-providers-in-naperville-il/#ftag=CAD590a51e)
+ - [How Wall Street is preparing to cash on AI hysteria; analysis say delivering on AI&#39;s promise will require $1T+ for data centers, electricity, and more &lpar;Bloomberg&rpar;](http://www.techmeme.com/241118/p3#a241118p3)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Out of these three girls and Ozzy Osbourne I just can\u2019t tell.](http://9gag.com/gag/azxmvdz)
- - 😝 [AI officially gone too far](http://9gag.com/gag/a34wDL8)
- - 💣 [Straight out of the Hogwarts library](http://9gag.com/gag/aZZyKMQ)
+ - 😝 [How is this guy still alive](http://9gag.com/gag/adBV4PB)
+ - 😝 [No one stops the A train](http://9gag.com/gag/ajP93yQ)
+ - 💣 [Airboat Racing](http://9gag.com/gag/abAGLBE)
  - 😝 [Imagine if your favourite dim sum came alive to explore Hong Kong\ud83e\udd2f!](http://9gag.com/gag/abAGLgB)
- - 👉 [Hiker El G\u00fcero Ingl\u00e9s was lost in the Peruvian mountains, then a stray dog arrived to show him the way. `I decided to follow him and he saved me,\u201d he told local newspaper.](http://9gag.com/gag/aNDgGdb)<!-- MEMES:END -->
+ - 👉 [Popcorn Ceiling Removal](http://9gag.com/gag/a87GXZ3)<!-- MEMES:END -->
 
 ---
 

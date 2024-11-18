@@ -167,10 +167,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [They never tell this!](http://9gag.com/gag/aBymNGN)
- - 😝 [Bruh](http://9gag.com/gag/aqynD6v)
+ - 😝 [Smoothly picking cotton](http://9gag.com/gag/adBVbDQ)
  - 💣 [Well, who was it?](http://9gag.com/gag/an74Gyo)
- - 😝 [\u201cAs hard as she could\u2026\u201d](http://9gag.com/gag/aQzdB3z)
- - 👉 [Getting hit by a plane while trying to exit one](http://9gag.com/gag/awyB8K1)<!-- MEMES:END -->
+ - 😝 [Bruh](http://9gag.com/gag/aqynD6v)
+ - 👉 [Being a man is not easy](http://9gag.com/gag/a7oWGRb)<!-- MEMES:END -->
 
 ---
 

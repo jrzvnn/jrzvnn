@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Pizza boxes next week: Caution, contents may be slippery when stepped on](http://9gag.com/gag/aqynBoP)
- - 😝 [How fast a trained dog recognizes danger](http://9gag.com/gag/aryVdwp)
- - 💣 [Detainee slips cuffs and distracts driving cop, causes a wreck and gets ejected.](http://9gag.com/gag/ayNeVvq)
+ - 😝 [Do you heal from this?](http://9gag.com/gag/axy9eDK)
+ - 😝 [Guy posts about being ugly, girl calls him cute; now they&#39;re married and expecting a baby.](http://9gag.com/gag/azxmBvm)
+ - 💣 [Hey my new GPU!!](http://9gag.com/gag/aD24qyK)
  - 😝 [Imagine if your favourite dim sum came alive to explore Hong Kong\ud83e\udd2f!](http://9gag.com/gag/abAGLgB)
- - 👉 [Anything can be a di*do](http://9gag.com/gag/aD24r9G)<!-- MEMES:END -->
+ - 👉 [Easy](http://9gag.com/gag/a7oW6jb)<!-- MEMES:END -->
 
 ---
 

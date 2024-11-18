@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Toyota shows off its latest big idea for cold hydrogen vehicles](https://www.theverge.com/2024/11/18/24299725/toyota-liquid-hydrogen-self-pressurizer-gr-corolla-h2)
+ - [Donald Trump’s pick for energy secretary says ‘there is no climate crisis’](https://www.theverge.com/2024/11/18/24299573/donald-trump-energy-secretary-chris-wright-oil-gas-nuclear-ai)
  - [Inside Elon Musk’s messy breakup with OpenAI](https://www.theverge.com/2024/11/18/24299787/elon-musk-openai-lawsuit-sam-altman-xai-google-deepmind)
  - [Dbrand’s new glow-in-the-dark skins have a circuit board texture you can feel](https://www.theverge.com/2024/11/18/24299819/dbrand-circuit-board-wrap-skin-glow-linustechtips)
- - [Google may be about to reboot its laptop and tablet hardware again](https://www.theverge.com/2024/11/18/24299817/google-reboot-laptop-tablet-hardware-rumors-android-chrome-os)
- - [Apple ends iCloud backup support for iOS 8 and earlier on December 18](https://appleinsider.com/articles/24/11/18/apple-ends-icloud-backup-support-for-ios-8-and-earlier-on-december-18?utm_medium=rss)
- - [Source: Google is working on a multi-year project to fully migrate Chrome OS to Android, to better compete with the iPad &lpar;Mishaal Rahman/Android Authority&rpar;](http://www.techmeme.com/241118/p19#a241118p19)<!-- TECH:END -->
+ - [Google may be about to reboot its laptop and tablet hardware again](https://www.theverge.com/2024/11/18/24299817/google-reboot-laptop-tablet-hardware-rumors-android-chrome-os)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

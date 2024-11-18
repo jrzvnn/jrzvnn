@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Nomad Black Friday Sale 2024: Deals on Chargers, iPhone Cases](https://www.wired.com/story/nomad-black-friday-sale-2024/)
- - [Trump&#39;s new FCC nominee promises to bring Project 2025-style governance to media &lpar;Joshua Benton/Nieman Lab&rpar;](http://www.techmeme.com/241118/p17#a241118p17)
- - [tvOS 18.2 gains new Snoopy screensavers with latest developer beta](https://appleinsider.com/articles/24/11/18/tvos-182-gains-new-snoopy-screensavers-with-latest-developer-beta?utm_medium=rss)
- - [19 Gifts for Travelers Who Are Always One Flight Ahead &lpar;2024&rpar;](https://www.wired.com/gallery/best-travel-gifts/)
- - [DoorDash delivers convenience with Apple Reminders integration](https://appleinsider.com/articles/24/11/18/doordash-delivers-convenience-with-apple-reminders-integration?utm_medium=rss)<!-- TECH:END -->
+ - [Google may be about to reboot its laptop and tablet hardware again](https://www.theverge.com/2024/11/18/24299817/google-reboot-laptop-tablet-hardware-rumors-android-chrome-os)
+ - [Apple ends iCloud backup support for iOS 8 and earlier on December 18](https://appleinsider.com/articles/24/11/18/apple-ends-icloud-backup-support-for-ios-8-and-earlier-on-december-18?utm_medium=rss)
+ - [Source: Google is working on a multi-year project to fully migrate Chrome OS to Android, to better compete with the iPad &lpar;Mishaal Rahman/Android Authority&rpar;](http://www.techmeme.com/241118/p19#a241118p19)
+ - [Brendan Carr claims Big Tech &quot;worked with marketing, ad, &amp; &#39;fact checkers&#39; to punish free speech outlets&quot; and asks tech leaders about NewsGuard partnerships &lpar;Rob Pegoraro/PCMag&rpar;](http://www.techmeme.com/241118/p18#a241118p18)
+ - [Nomad Black Friday Sale 2024: Deals on Chargers, iPhone Cases](https://www.wired.com/story/nomad-black-friday-sale-2024/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

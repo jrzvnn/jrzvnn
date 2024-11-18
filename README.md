@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple readies smart home display and camera for 2025 and beyond on HomeKit Insider](https://appleinsider.com/articles/24/11/18/apple-readies-smart-home-display-and-camera-for-2025-and-beyond-on-homekit-insider?utm_medium=rss)
- - [WD’s 1TB Xbox Series X/S expansion card is down to a record low $100](https://www.theverge.com/2024/11/18/24299443/western-digital-wd-black-c50-1tb-expansion-card-series-x-s-deal-sale)
- - [Get your iPhone XS Max or iPhone 6s Plus repaired while you still can](https://appleinsider.com/articles/24/11/18/get-your-iphone-xs-max-or-iphone-6s-plus-repaired-while-you-still-can?utm_medium=rss)
- - [This house is made for LAN gaming parties](https://www.theverge.com/2024/11/18/24299455/house-lan-gaming-parties-software-engineer-kenton-varda)
- - [Nab the Samsung 15W Fast Charger Duo Pad for Only $20 Just Before Black Friday](https://www.cnet.com/deals/nab-the-samsung-15w-fast-charger-duo-pad-for-only-20-just-before-black-friday/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [M4 MacBook Pro display uses quantum dot film for more vibrant color &amp; motion performance](https://appleinsider.com/articles/24/11/15/m4-macbook-pro-use-quantum-dot-film-for-more-vibrant-color-motion-performance?utm_medium=rss)
+ - [Nike’s Air Max 1000 are almost entirely 3D-printed](https://www.theverge.com/2024/11/18/24299479/nike-air-max-1000-3d-printed-shoe-zellerfeld-collab)
+ - [M4 Mac mini review: The first redesign in years hides incredible computing power](https://appleinsider.com/articles/24/11/13/m4-mac-mini-review-the-first-redesign-in-years-hides-incredible-computing-power?utm_medium=rss)
+ - [India fines Meta ~$25M and imposes new data rules, over antitrust issues from 2021 when it removed a way to opt out of sharing WhatsApp data with Meta companies &lpar;Manish Singh/TechCrunch&rpar;](http://www.techmeme.com/241118/p14#a241118p14)
+ - [Apple readies smart home display and camera for 2025 and beyond on HomeKit Insider](https://appleinsider.com/articles/24/11/18/apple-readies-smart-home-display-and-camera-for-2025-and-beyond-on-homekit-insider?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Trump: FCC commissioner Brendan Carr will chair the FCC; Carr has suggested limiting Section 230 of the Communications Act to curb Big Tech content moderation &lpar;Bloomberg&rpar;](http://www.techmeme.com/241117/p13#a241117p13)
  - [Trump picks Brendan Carr to lead FCC](https://www.theverge.com/2024/11/17/24299207/brendan-carr-fcc-chairman-trump)
- - [Trump says FCC commissioner Brendan Carr will chair the agency; Carr can immediately assume control once Trump is inaugurated as he is already on the commission &lpar;John Hendel/Politico&rpar;](http://www.techmeme.com/241117/p12#a241117p12)
+ - [Trump taps Carr to chair FCC &lpar;John Hendel/Politico&rpar;](http://www.techmeme.com/241117/p12#a241117p12)
  - [Sources detail efforts by Google and Meta to sink KOSA, which passed in the Senate almost unanimously, by dividing US House lawmakers with culture war issues &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/241117/p11#a241117p11)
- - [Apple’s Lightning-to-3.5mm headphone adapter may be going away](https://www.theverge.com/2024/11/17/24299072/apple-lightning-to-3-5mm-headphone-jack-adapter-sold-out-apple-site)
- - [Sources: Trump&#39;s transition team is looking for candidates to lead the US Department of Transportation and develop a federal framework for autonomous vehicles &lpar;Bloomberg&rpar;](http://www.techmeme.com/241117/p10#a241117p10)<!-- TECH:END -->
+ - [Apple’s Lightning-to-3.5mm headphone adapter may be going away](https://www.theverge.com/2024/11/17/24299072/apple-lightning-to-3-5mm-headphone-jack-adapter-sold-out-apple-site)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

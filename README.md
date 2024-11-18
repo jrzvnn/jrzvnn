@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Apple readies smart home display and camera for 2025 and beyond on HomeKit Insider](https://appleinsider.com/articles/24/11/18/apple-readies-smart-home-display-and-camera-for-2025-and-beyond-on-homekit-insider?utm_medium=rss)
+ - [WD’s 1TB Xbox Series X/S expansion card is down to a record low $100](https://www.theverge.com/2024/11/18/24299443/western-digital-wd-black-c50-1tb-expansion-card-series-x-s-deal-sale)
  - [Get your iPhone XS Max or iPhone 6s Plus repaired while you still can](https://appleinsider.com/articles/24/11/18/get-your-iphone-xs-max-or-iphone-6s-plus-repaired-while-you-still-can?utm_medium=rss)
  - [This house is made for LAN gaming parties](https://www.theverge.com/2024/11/18/24299455/house-lan-gaming-parties-software-engineer-kenton-varda)
- - [HyperX QuadCast 2 S Review: Your Favorite Streamer’s Next USB Mic](https://www.wired.com/review/hyperx-quadcast-2-s/)
- - [News influencers survey: 20% of US adults say they get news from social media influencers, 85% of influencers are on X and 27% identify as right-wing, and more &lpar;Pew Research Center&rpar;](http://www.techmeme.com/241118/p13#a241118p13)
- - [B&amp;H slashes M3 MacBook Air with 16GB RAM, 512GB SSD to $1,099](https://appleinsider.com/articles/24/11/18/bh-slashes-m3-macbook-air-with-16gb-ram-512gb-ssd-to-1099?utm_medium=rss)<!-- TECH:END -->
+ - [Nab the Samsung 15W Fast Charger Duo Pad for Only $20 Just Before Black Friday](https://www.cnet.com/deals/nab-the-samsung-15w-fast-charger-duo-pad-for-only-20-just-before-black-friday/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

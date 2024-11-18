@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [I mean\u2026 who doesn\u2019t like French fries \ud83c\udf5f](http://9gag.com/gag/a87GnZY)
- - 😝 [He had the choice and made his decision](http://9gag.com/gag/ayNeZ88)
- - 💣 [Stop forcing your mental illness on games](http://9gag.com/gag/axy9nVW)
+ - 😝 [Being a man is not easy](http://9gag.com/gag/a7oWGRb)
+ - 😝 [Woman blocking the way](http://9gag.com/gag/a1mWw4v)
+ - 💣 [Getting hit by a plane while trying to exit one](http://9gag.com/gag/awyB8K1)
  - 😝 [Imagine if your favourite dim sum came alive to explore Hong Kong\ud83e\udd2f!](http://9gag.com/gag/abAGLgB)
- - 👉 [The Islamists in Berlin are more aggressive every day and the German police are restoring order and discipline. The German police are not intimidated.](http://9gag.com/gag/a6ZKeM8)<!-- MEMES:END -->
+ - 👉 [Hospital horror story](http://9gag.com/gag/ae9DPAW)<!-- MEMES:END -->
 
 ---
 

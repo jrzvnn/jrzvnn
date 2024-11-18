@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Goldman Sachs says it is reaching out to potential partners about plans to spin out its digital-assets platform within 12 to 18 months &lpar;Anna Irrera/Bloomberg&rpar;](http://www.techmeme.com/241118/p15#a241118p15)
+ - [7 Best Digital Photo Frames &lpar;2024&rpar;: Wi-Fi, High-Res](https://www.wired.com/gallery/best-digital-picture-frames/)
  - [Substack says it could be profitable — but it still isn’t](https://www.theverge.com/2024/11/18/24299484/substack-newsletters-politics-not-profitable-frustrated-investors)
  - [Now Telegram’s mini-apps can run in full screen on your phone](https://www.theverge.com/2024/11/18/24299536/telegram-mini-apps-update-2-super-app)
- - [Perplexity’s AI search engine can now buy products for you](https://www.theverge.com/2024/11/18/24299574/perplexity-ai-search-engine-buy-products)
- - [M4 MacBook Pro display uses quantum dot film for more vibrant color &amp; motion performance](https://appleinsider.com/articles/24/11/15/m4-macbook-pro-use-quantum-dot-film-for-more-vibrant-color-motion-performance?utm_medium=rss)
- - [Nike’s Air Max 1000 are almost entirely 3D-printed](https://www.theverge.com/2024/11/18/24299479/nike-air-max-1000-3d-printed-shoe-zellerfeld-collab)<!-- TECH:END -->
+ - [Perplexity’s AI search engine can now buy products for you](https://www.theverge.com/2024/11/18/24299574/perplexity-ai-search-engine-buy-products)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

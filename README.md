@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Make savagery savage again](http://9gag.com/gag/apRGdWM)
+ - 😝 [A Big Beautiful Wall](http://9gag.com/gag/a4P3mry)
  - 😝 [Hospital horror story](http://9gag.com/gag/ae9DPAW)
- - 💣 [Guy posts about being ugly, girl calls him cute; now they&#39;re married and expecting a baby.](http://9gag.com/gag/azxmBvm)
- - 😝 [The biggest bar fight in history](http://9gag.com/gag/axy9meM)
- - 👉 [Bruh](http://9gag.com/gag/aqynD6v)<!-- MEMES:END -->
+ - 💣 [The biggest bar fight in history](http://9gag.com/gag/axy9meM)
+ - 😝 [Guy posts about being ugly, girl calls him cute; now they&#39;re married and expecting a baby.](http://9gag.com/gag/azxmBvm)
+ - 👉 [Being a man is not easy](http://9gag.com/gag/a7oWGRb)<!-- MEMES:END -->
 
 ---
 

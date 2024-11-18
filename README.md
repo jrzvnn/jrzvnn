@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Interesting facts insert here](http://9gag.com/gag/azxmvLZ)
  - 😝 [He had the choice and made his decision](http://9gag.com/gag/ayNeZ88)
+ - 😝 [A hot blonde woman won Miss Universe. The timeline is healing.](http://9gag.com/gag/abAGmMv)
  - 💣 [The Islamists in Berlin are more aggressive every day and the German police are restoring order and discipline. The German police are not intimidated.](http://9gag.com/gag/a6ZKeM8)
  - 😝 [Imagine if your favourite dim sum came alive to explore Hong Kong\ud83e\udd2f!](http://9gag.com/gag/abAGLgB)
- - 👉 [A hot blonde woman won Miss Universe. The timeline is healing.](http://9gag.com/gag/abAGmMv)<!-- MEMES:END -->
+ - 👉 [A Big Beautiful Wall](http://9gag.com/gag/a4P3mry)<!-- MEMES:END -->
 
 ---
 

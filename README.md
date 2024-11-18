@@ -167,10 +167,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [The definition of your life flashing before your eyes](http://9gag.com/gag/aD24rvG)
- - 😝 [Happy Monday](http://9gag.com/gag/aO87ALy)
- - 💣 [Detainee slips cuffs and distracts driving cop, causes a wreck and gets ejected.](http://9gag.com/gag/ayNeVvq)
+ - 😝 [Hospital horror story](http://9gag.com/gag/ae9DPAW)
+ - 💣 [How fast a trained dog recognizes danger](http://9gag.com/gag/aryVdwp)
  - 😝 [Imagine if your favourite dim sum came alive to explore Hong Kong\ud83e\udd2f!](http://9gag.com/gag/abAGLgB)
- - 👉 [Pew pew pew or the Helmet](http://9gag.com/gag/ajP9MOx)<!-- MEMES:END -->
+ - 👉 [Do you heal from this?](http://9gag.com/gag/axy9eDK)<!-- MEMES:END -->
 
 ---
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [DoorDash delivers convenience with Apple Reminders integration](https://appleinsider.com/articles/24/11/18/doordash-delivers-convenience-with-apple-reminders-integration?utm_medium=rss)
+ - [The best sleep gadgets to help you catch those Zzzs](https://www.theverge.com/23291925/best-sleep-tech-trackers-earbuds-wearables)
+ - [Best Minecraft Server Hosting Service of 2024](https://www.cnet.com/tech/services-and-software/best-minecraft-server-hosting/#ftag=CAD590a51e)
  - [DoorDash will let you import your grocery list from Apple’s Reminders app](https://www.theverge.com/2024/11/18/24299695/doordash-import-grocery-list-apple-reminders-app)
- - [Apple seeds third betas of tvOS 18.2 and visionOS 2.2](https://appleinsider.com/articles/24/11/18/apple-seeds-third-betas-of-tvos-182-and-visionos-22?utm_medium=rss)
- - [Musk asked X users to try &quot;submitting x-ray, PET, MRI or other medical images to Grok for analysis&quot; weeks ago; many have, and HIPAA protections may not apply &lpar;Elizabeth Passarella/New York Times&rpar;](http://www.techmeme.com/241118/p16#a241118p16)
- - [Apple&#39;s new M4 MacBook Pro drops to record low $1,399 at Amazon](https://appleinsider.com/articles/24/11/18/apples-new-m4-macbook-pro-drops-to-record-low-1399-at-amazon?utm_medium=rss)
- - [Netflix’s Jake Paul vs. Mike Tyson fight was a big moment for Bluesky](https://www.theverge.com/2024/11/18/24299530/netflix-jake-paul-mike-tyson-fight-bluesky)<!-- TECH:END -->
+ - [Apple seeds third betas of tvOS 18.2 and visionOS 2.2](https://appleinsider.com/articles/24/11/18/apple-seeds-third-betas-of-tvos-182-and-visionos-22?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

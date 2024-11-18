@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Netflix adds Beyoncé to live entertainment juggernaut](https://www.theverge.com/2024/11/18/24299402/netflix-beyonce-nfl-halftime-performance-streaming-live-sports)
- - [Roblox rolls out parental controls and gatekeeping features, like letting parents link accounts with a child and banning text chat for under 13s outside games &lpar;Sarah E. Needleman/Wall Street Journal&rpar;](http://www.techmeme.com/241118/p10#a241118p10)
- - [The Best Early Black Friday Mattress Deals &lpar;2024&rpar;](https://www.wired.com/story/best-early-black-friday-mattress-deals-2024/)
- - [Roblox will restrict kids under 13 from chatting outside of games](https://www.theverge.com/2024/11/18/24298330/roblox-child-safety-chat-parent-accounts)
- - [Foxconn India drops recruitment discrimination against married women](https://appleinsider.com/articles/24/11/18/foxconn-india-drops-recruitment-discrimination-against-married-women?utm_medium=rss)<!-- TECH:END -->
+ - [Tanner Leatherstein&#39;s Viral Mission to Save You From Bad Luxury Bags](https://www.wired.com/story/tanner-leathersteins-viral-mission-to-save-you-from-bad-luxury-bags/)
+ - [PitchBook: in 2023, US VCs returned $26B worth of shares back to investors, the lowest amount since 2011, and invested $60B more than they collected, a record &lpar;Berber Jin/Wall Street Journal&rpar;](http://www.techmeme.com/241118/p11#a241118p11)
+ - [Automatic Braking Systems Save Lives. Now They&#39;ll Need to Work at 62 MPH](https://www.wired.com/story/automatic-emergency-braking-systems-62-mph/)
+ - [30-Year Fixed Refinance Dips: Today&#39;s Refinance Rates, Nov. 18, 2024](https://www.cnet.com/personal-finance/30-year-fixed-refinance-dips-todays-refinance-rates-nov-18-2024/#ftag=CAD590a51e)
+ - [Best True Wireless Sports Earbuds With Ear Hooks for 2024](https://www.cnet.com/tech/mobile/best-true-wireless-sports-earbuds-with-ear-hooks/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

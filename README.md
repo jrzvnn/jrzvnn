@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Plebbit moment](http://9gag.com/gag/aoyPqVg)
- - 😝 [A Big Beautiful Wall](http://9gag.com/gag/a4P3mry)
- - 💣 [Good idea for older people](http://9gag.com/gag/aAyeq8E)
- - 😝 [I keep adding memes about the Roman Empire until I get bored or die #104](http://9gag.com/gag/ae9DPDQ)
- - 👉 [He had the choice and made his decision](http://9gag.com/gag/ayNeZ88)<!-- MEMES:END -->
+ - 😝 [Make savagery savage again](http://9gag.com/gag/apRGdWM)
+ - 😝 [Hospital horror story](http://9gag.com/gag/ae9DPAW)
+ - 💣 [Guy posts about being ugly, girl calls him cute; now they&#39;re married and expecting a baby.](http://9gag.com/gag/azxmBvm)
+ - 😝 [The biggest bar fight in history](http://9gag.com/gag/axy9meM)
+ - 👉 [Bruh](http://9gag.com/gag/aqynD6v)<!-- MEMES:END -->
 
 ---
 

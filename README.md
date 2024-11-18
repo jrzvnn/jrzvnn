@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Peak WWF](http://9gag.com/gag/a7oWPGz)
- - 😝 [Still happening in 2024 for some?](http://9gag.com/gag/aYQyR00)
- - 💣 [Groomsman witnesses cake cruelty](http://9gag.com/gag/awyB8MW)
- - 😝 [Getting hit by a plane while trying to exit one](http://9gag.com/gag/awyB8K1)
- - 👉 [Hospital horror story](http://9gag.com/gag/ae9DPAW)<!-- MEMES:END -->
+ - 😝 [Dating life](http://9gag.com/gag/aXPgG12)
+ - 😝 [Young man trying to rob an old taxi driver](http://9gag.com/gag/avyzXP5)
+ - 💣 [Plebbit moment](http://9gag.com/gag/aoyPqVg)
+ - 😝 [He had the choice and made his decision](http://9gag.com/gag/ayNeZ88)
+ - 👉 [I keep adding memes about the Roman Empire until I get bored or die #104](http://9gag.com/gag/ae9DPDQ)<!-- MEMES:END -->
 
 ---
 

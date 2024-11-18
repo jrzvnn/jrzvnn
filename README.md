@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Smoothly picking cotton](http://9gag.com/gag/adBVbDQ)
- - 😝 [Pizza boxes next week: Caution, contents may be slippery when stepped on](http://9gag.com/gag/aqynBoP)
- - 💣 [\u201cAs hard as she could\u2026\u201d](http://9gag.com/gag/aQzdB3z)
+ - 😝 [There&#39;s been a slight miscalculation](http://9gag.com/gag/ayNeZPb)
+ - 😝 [Guy posts about being ugly, girl calls him cute; now they&#39;re married and expecting a baby.](http://9gag.com/gag/azxmBvm)
+ - 💣 [A Big Beautiful Wall](http://9gag.com/gag/a4P3mry)
  - 😝 [Imagine if your favourite dim sum came alive to explore Hong Kong\ud83e\udd2f!](http://9gag.com/gag/abAGLgB)
- - 👉 [Happy Monday](http://9gag.com/gag/aO87ALy)<!-- MEMES:END -->
+ - 👉 [Do you heal from this?](http://9gag.com/gag/axy9eDK)<!-- MEMES:END -->
 
 ---
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [\u201cAs hard as she could\u2026\u201d](http://9gag.com/gag/aQzdB3z)
- - 😝 [Plebbit moment](http://9gag.com/gag/aoyPqVg)
- - 💣 [I keep adding memes about the Roman Empire until I get bored or die #104](http://9gag.com/gag/ae9DPDQ)
- - 😝 [The beauty of this architecture](http://9gag.com/gag/aLnwV4x)
- - 👉 [He had the choice and made his decision](http://9gag.com/gag/ayNeZ88)<!-- MEMES:END -->
+ - 😝 [Detainee slips cuffs and distracts driving cop, causes a wreck and gets ejected.](http://9gag.com/gag/ayNeVvq)
+ - 😝 [How about that.](http://9gag.com/gag/aBymNXD)
+ - 💣 [How fast a trained dog recognizes danger](http://9gag.com/gag/aryVdwp)
+ - 😝 [Hospital horror story](http://9gag.com/gag/ae9DPAW)
+ - 👉 [They never tell this!](http://9gag.com/gag/aBymNGN)<!-- MEMES:END -->
 
 ---
 

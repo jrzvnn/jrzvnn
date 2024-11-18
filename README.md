@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Hospital horror story](http://9gag.com/gag/ae9DPAW)
+ - 😝 [How fast a trained dog recognizes danger](http://9gag.com/gag/aryVdwp)
  - 😝 [Anything can be a di*do](http://9gag.com/gag/aD24r9G)
  - 💣 [Pizza boxes next week: Caution, contents may be slippery when stepped on](http://9gag.com/gag/aqynBoP)
  - 😝 [Imagine if your favourite dim sum came alive to explore Hong Kong\ud83e\udd2f!](http://9gag.com/gag/abAGLgB)
- - 👉 [Getting hit by a plane while trying to exit one](http://9gag.com/gag/awyB8K1)<!-- MEMES:END -->
+ - 👉 [Hey my new GPU!!](http://9gag.com/gag/aD24qyK)<!-- MEMES:END -->
 
 ---
 

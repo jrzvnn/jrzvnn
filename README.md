@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Brendan Carr claims Big Tech &quot;worked with marketing, ad, &amp; &#39;fact checkers&#39; to punish free speech outlets&quot; and asks tech leaders about NewsGuard partnerships &lpar;Joshua Benton/Nieman Lab&rpar;](http://www.techmeme.com/241118/p17#a241118p17)
  - [tvOS 18.2 gains new Snoopy screensavers with latest developer beta](https://appleinsider.com/articles/24/11/18/tvos-182-gains-new-snoopy-screensavers-with-latest-developer-beta?utm_medium=rss)
  - [19 Gifts for Travelers Who Are Always One Flight Ahead &lpar;2024&rpar;](https://www.wired.com/gallery/best-travel-gifts/)
  - [DoorDash delivers convenience with Apple Reminders integration](https://appleinsider.com/articles/24/11/18/doordash-delivers-convenience-with-apple-reminders-integration?utm_medium=rss)
- - [The best sleep gadgets to help you catch those Zzzs](https://www.theverge.com/23291925/best-sleep-tech-trackers-earbuds-wearables)
- - [Best Minecraft Server Hosting Service of 2024](https://www.cnet.com/tech/services-and-software/best-minecraft-server-hosting/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [The best sleep gadgets to help you catch those Zzzs](https://www.theverge.com/23291925/best-sleep-tech-trackers-earbuds-wearables)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

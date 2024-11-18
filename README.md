@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Dating life](http://9gag.com/gag/aXPgG12)
- - 😝 [Young man trying to rob an old taxi driver](http://9gag.com/gag/avyzXP5)
- - 💣 [Plebbit moment](http://9gag.com/gag/aoyPqVg)
- - 😝 [He had the choice and made his decision](http://9gag.com/gag/ayNeZ88)
- - 👉 [I keep adding memes about the Roman Empire until I get bored or die #104](http://9gag.com/gag/ae9DPDQ)<!-- MEMES:END -->
+ - 😝 [Hospital horror story](http://9gag.com/gag/ae9DPAW)
+ - 😝 [Still happening in 2024 for some?](http://9gag.com/gag/aYQyR00)
+ - 💣 [Getting hit by a plane while trying to exit one](http://9gag.com/gag/awyB8K1)
+ - 😝 [Easy](http://9gag.com/gag/a7oW6jb)
+ - 👉 [\u201cAs hard as she could\u2026\u201d](http://9gag.com/gag/aQzdB3z)<!-- MEMES:END -->
 
 ---
 

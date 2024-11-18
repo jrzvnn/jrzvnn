@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [The definition of your life flashing before your eyes](http://9gag.com/gag/aD24rvG)
- - 😝 [Smart mike](http://9gag.com/gag/axy9AND)
- - 💣 [Popcorn Ceiling Removal](http://9gag.com/gag/a87GXZ3)
+ - 😝 [Detainee slips cuffs and distracts driving cop, causes a wreck and gets ejected.](http://9gag.com/gag/ayNeVvq)
+ - 😝 [Woman blocking the way](http://9gag.com/gag/a1mWw4v)
+ - 💣 [Pew pew pew or the Helmet](http://9gag.com/gag/ajP9MOx)
  - 😝 [Imagine if your favourite dim sum came alive to explore Hong Kong\ud83e\udd2f!](http://9gag.com/gag/abAGLgB)
- - 👉 [Easy](http://9gag.com/gag/a7oW6jb)<!-- MEMES:END -->
+ - 👉 [Happy Monday](http://9gag.com/gag/aO87ALy)<!-- MEMES:END -->
 
 ---
 

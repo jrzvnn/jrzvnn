@@ -166,9 +166,9 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Smoothly picking cotton](http://9gag.com/gag/adBVbDQ)
- - 😝 [Woman blocking the way](http://9gag.com/gag/a1mWw4v)
- - 💣 [Detainee slips cuffs and distracts driving cop, causes a wreck and gets ejected.](http://9gag.com/gag/ayNeVvq)
+ - 😝 [The definition of your life flashing before your eyes](http://9gag.com/gag/aD24rvG)
+ - 😝 [Smart mike](http://9gag.com/gag/axy9AND)
+ - 💣 [Popcorn Ceiling Removal](http://9gag.com/gag/a87GXZ3)
  - 😝 [Imagine if your favourite dim sum came alive to explore Hong Kong\ud83e\udd2f!](http://9gag.com/gag/abAGLgB)
  - 👉 [Easy](http://9gag.com/gag/a7oW6jb)<!-- MEMES:END -->
 

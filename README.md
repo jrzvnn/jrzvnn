@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Detainee slips cuffs and distracts driving cop, causes a wreck and gets ejected.](http://9gag.com/gag/ayNeVvq)
- - 😝 [Being a man is not easy](http://9gag.com/gag/a7oWGRb)
- - 💣 [Savage.](http://9gag.com/gag/aXPgQP2)
- - 😝 [Bruh](http://9gag.com/gag/aqynD6v)
- - 👉 [Getting hit by a plane while trying to exit one](http://9gag.com/gag/awyB8K1)<!-- MEMES:END -->
+ - 😝 [Peak WWF](http://9gag.com/gag/a7oWPGz)
+ - 😝 [Still happening in 2024 for some?](http://9gag.com/gag/aYQyR00)
+ - 💣 [Groomsman witnesses cake cruelty](http://9gag.com/gag/awyB8MW)
+ - 😝 [Getting hit by a plane while trying to exit one](http://9gag.com/gag/awyB8K1)
+ - 👉 [Hospital horror story](http://9gag.com/gag/ae9DPAW)<!-- MEMES:END -->
 
 ---
 

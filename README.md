@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Savage.](http://9gag.com/gag/aXPgQP2)
- - 😝 [Pew pew pew or the Helmet](http://9gag.com/gag/ajP9MOx)
- - 💣 [They never tell this!](http://9gag.com/gag/aBymNGN)
- - 😝 [Getting hit by a plane while trying to exit one](http://9gag.com/gag/awyB8K1)
- - 👉 [Hospital horror story](http://9gag.com/gag/ae9DPAW)<!-- MEMES:END -->
+ - 😝 [\u201cAs hard as she could\u2026\u201d](http://9gag.com/gag/aQzdB3z)
+ - 😝 [Plebbit moment](http://9gag.com/gag/aoyPqVg)
+ - 💣 [I keep adding memes about the Roman Empire until I get bored or die #104](http://9gag.com/gag/ae9DPDQ)
+ - 😝 [The beauty of this architecture](http://9gag.com/gag/aLnwV4x)
+ - 👉 [He had the choice and made his decision](http://9gag.com/gag/ayNeZ88)<!-- MEMES:END -->
 
 ---
 

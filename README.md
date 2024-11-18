@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Dbrand’s new glow-in-the-dark skins have a circuit board texture you can feel](https://www.theverge.com/2024/11/18/24299819/dbrand-circuit-board-wrap-skin-glow-linustechtips)
  - [Google may be about to reboot its laptop and tablet hardware again](https://www.theverge.com/2024/11/18/24299817/google-reboot-laptop-tablet-hardware-rumors-android-chrome-os)
  - [Apple ends iCloud backup support for iOS 8 and earlier on December 18](https://appleinsider.com/articles/24/11/18/apple-ends-icloud-backup-support-for-ios-8-and-earlier-on-december-18?utm_medium=rss)
  - [Source: Google is working on a multi-year project to fully migrate Chrome OS to Android, to better compete with the iPad &lpar;Mishaal Rahman/Android Authority&rpar;](http://www.techmeme.com/241118/p19#a241118p19)
- - [Brendan Carr claims Big Tech &quot;worked with marketing, ad, &amp; &#39;fact checkers&#39; to punish free speech outlets&quot; and asks tech leaders about NewsGuard partnerships &lpar;Rob Pegoraro/PCMag&rpar;](http://www.techmeme.com/241118/p18#a241118p18)
- - [Nomad Black Friday Sale 2024: Deals on Chargers, iPhone Cases](https://www.wired.com/story/nomad-black-friday-sale-2024/)<!-- TECH:END -->
+ - [Brendan Carr claims Big Tech &quot;worked with marketing, ad, &amp; &#39;fact checkers&#39; to punish free speech outlets&quot; and asks tech leaders about NewsGuard partnerships &lpar;Rob Pegoraro/PCMag&rpar;](http://www.techmeme.com/241118/p18#a241118p18)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Hospital horror story](http://9gag.com/gag/ae9DPAW)
+ - 😝 [A Big Beautiful Wall](http://9gag.com/gag/a4P3mry)
+ - 😝 [Guy posts about being ugly, girl calls him cute; now they&#39;re married and expecting a baby.](http://9gag.com/gag/azxmBvm)
+ - 💣 [The biggest bar fight in history](http://9gag.com/gag/axy9meM)
  - 😝 [Still happening in 2024 for some?](http://9gag.com/gag/aYQyR00)
- - 💣 [Getting hit by a plane while trying to exit one](http://9gag.com/gag/awyB8K1)
- - 😝 [Easy](http://9gag.com/gag/a7oW6jb)
- - 👉 [\u201cAs hard as she could\u2026\u201d](http://9gag.com/gag/aQzdB3z)<!-- MEMES:END -->
+ - 👉 [Easy](http://9gag.com/gag/a7oW6jb)<!-- MEMES:END -->
 
 ---
 

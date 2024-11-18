@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Getting hit by a plane while trying to exit one](http://9gag.com/gag/awyB8K1)
- - 😝 [Guy posts about being ugly, girl calls him cute; now they&#39;re married and expecting a baby.](http://9gag.com/gag/azxmBvm)
- - 💣 [The marriage is over](http://9gag.com/gag/amovp3o)
- - 😝 [Being a man is not easy](http://9gag.com/gag/a7oWGRb)
- - 👉 [Hospital horror story](http://9gag.com/gag/ae9DPAW)<!-- MEMES:END -->
+ - 😝 [They never tell this!](http://9gag.com/gag/aBymNGN)
+ - 😝 [Bruh](http://9gag.com/gag/aqynD6v)
+ - 💣 [Well, who was it?](http://9gag.com/gag/an74Gyo)
+ - 😝 [\u201cAs hard as she could\u2026\u201d](http://9gag.com/gag/aQzdB3z)
+ - 👉 [Getting hit by a plane while trying to exit one](http://9gag.com/gag/awyB8K1)<!-- MEMES:END -->
 
 ---
 

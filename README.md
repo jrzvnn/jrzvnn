@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Sources: Sony is in talks to acquire Kadokawa, the Japanese media powerhouse behind the Elden Ring game, in the coming weeks; Kadokawa had a ~$2.7B market cap &lpar;Reuters&rpar;](http://www.techmeme.com/241119/p5#a241119p5)
+ - [Best Internet Providers in Oklahoma](https://www.cnet.com/home/internet/best-internet-providers-in-oklahoma/#ftag=CAD590a51e)
  - [Social media users criticize Coca-Cola over an AI-generated Christmas video; many creatives say it is distasteful to use AI tech instead of the work of artists &lpar;Bruna Horvath/NBC News&rpar;](http://www.techmeme.com/241119/p4#a241119p4)
- - [Atomico: European startups are on track to raise $45B in 2024, down from $47B in 2023, with only $3B in IPO value and $10B in M&amp;A through mid-November &lpar;Ingrid Lunden/TechCrunch&rpar;](http://www.techmeme.com/241119/p3#a241119p3)
- - [Best Cheap Home Security Systems for 2024](https://www.cnet.com/home/security/best-cheap-home-security-systems/#ftag=CAD590a51e)
- - [Expedia Coupons and Deals: Over 25% Off Hotel Stays](https://www.wired.com/story/expedia-coupon/)
- - [Verizon Promo Codes and Deals: $540 Off | November 2024](https://www.wired.com/story/verizon-promo-code/)<!-- TECH:END -->
+ - [Best Pizza Ovens for 2024](https://www.cnet.com/home/kitchen-and-household/best-pizza-oven/#ftag=CAD590a51e)
+ - [Atomico: European startups are on track to raise $45B in 2024, down from $47B in 2023, with only $3B in IPO value and $10B in M&amp;A through mid-November &lpar;Ingrid Lunden/TechCrunch&rpar;](http://www.techmeme.com/241119/p3#a241119p3)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

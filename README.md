@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Save up to $1,000 on iPads with early Black Friday flash deals](https://appleinsider.com/articles/24/11/17/save-up-to-1000-on-ipads-this-weekend-with-early-black-friday-flash-deals?utm_medium=rss)
+ - [Aqara’s new DIY-ready smart water shutoff works in more smart homes with Matter](https://www.theverge.com/2024/11/19/24300676/aqara-smart-home-valve-controller-t1-available-water-leaks-matter)
  - [Earn 3% Daily Cash back with Apple Card at ChargePoint and Booking.com](https://appleinsider.com/articles/24/11/19/earn-3-daily-cash-back-with-apple-card-at-chargepoint-and-bookingcom?utm_medium=rss)
  - [Google rolls out a &quot;memory&quot; feature for Gemini Advanced subscribers for the web app that remembers a user&#39;s interests and preferences &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/241119/p33#a241119p33)
- - [Android 16 is now available for early testers](https://www.theverge.com/2024/11/19/24300673/android-16-developer-preview-availability-release-timeline)
- - [Meta is forming a new product group to build AI tools for businesses, led by Clara Shih, most recently the CEO of Salesforce AI &lpar;Sara Fischer/Axios&rpar;](http://www.techmeme.com/241119/p32#a241119p32)
- - [New Core One 3D Printer From Prusa May Be the Answer to Its Bambu Problem](https://www.cnet.com/tech/computing/new-core-one-3d-printer-from-prusa-may-be-the-answer-to-its-bambu-problem/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Android 16 is now available for early testers](https://www.theverge.com/2024/11/19/24300673/android-16-developer-preview-availability-release-timeline)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

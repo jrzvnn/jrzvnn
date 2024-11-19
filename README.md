@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Apple to increase Indonesia investment tenfold to appeal iPhone 16 ban](https://appleinsider.com/articles/24/11/19/apple-to-increase-indonesia-investment-tenfold-to-appeal-iphone-16-ban?utm_medium=rss)
+ - [Memo: Amazon employees have found there is too much of a delay between asking a question to the new AI-based Alexa and getting a response or completing a task &lpar;Jason Del Rey/Fortune&rpar;](http://www.techmeme.com/241118/p33#a241118p33)
+ - [Sources: Apple has raised its offer to invest in Indonesia from about $10M to almost $100M, in a bid to persuade the government to lift its iPhone 16 sales ban &lpar;Faris Mokhtar/Bloomberg&rpar;](http://www.techmeme.com/241118/p32#a241118p32)
  - [Google now lets you manage all of your old Nest Cams from the Home app](https://www.theverge.com/2024/11/18/24300125/google-home-nest-manage-iq-indoor-outdoor)
- - [The best deals on MacBooks right now](https://www.theverge.com/22399419/apple-macbook-air-pro-mac-mini-imac-deals)
- - [The US Library of Congress says hackers accessed some email communications between congressional offices and library staff between January and September 2024 &lpar;NBC News&rpar;](http://www.techmeme.com/241118/p31#a241118p31)
- - [Tesla’s first 500kW V4 Superchargers are coming next year](https://www.theverge.com/2024/11/18/24300040/tesla-500kw-v4-supercharger-cabinets-first-2025)
- - [Amazon Black Friday Deals 2024: Here Are 25-Plus Black Friday Deals to Shop Before the Sale Begins](https://www.cnet.com/deals/best-amazon-black-friday-deals-2024/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Best Smart Lights for 2024](https://www.cnet.com/home/kitchen-and-household/best-smart-lights/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

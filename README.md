@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Jay Z\u2019s priceless expression. Courtesy: Paul](http://9gag.com/gag/aBymMwO)
- - 😝 [Robert DuBoise on the day of his arrest at age 18, and the day he was freed from prison by DNA at 56.](http://9gag.com/gag/aBymMQz)
- - 💣 [Karen in action.](http://9gag.com/gag/aRB7GgB)
  - 😝 [How dafuq does he do this???](http://9gag.com/gag/aAyeAG9)
- - 👉 [He got what he deserved! Pet Lion attacked invited guest at home who was treating Lion as domestic Cat, Experts living with lions understand the psychology of lions, they have a good understanding of the changing mood of lions.](http://9gag.com/gag/a2vWAzY)<!-- MEMES:END -->
+ - 😝 [Karen in action.](http://9gag.com/gag/aRB7GgB)
+ - 💣 [A good host always provides refreshments to his guests..](http://9gag.com/gag/adBVwKN)
+ - 😝 [Mike Tyson&#39;s last visit to Mohammad Ali before the later&lpar;the Champ&rpar; died.](http://9gag.com/gag/avyzVRd)
+ - 👉 [Switzerland: 17-year-old asylum seeker from Afghanistan puts on the crown of the Black Madonna in front of praying Christians at the Einsiedeln Abbey Church.](http://9gag.com/gag/aD249ex)<!-- MEMES:END -->
 
 ---
 

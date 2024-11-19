@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [How about that.](http://9gag.com/gag/aBymNXD)
- - 😝 [Switzerland: 17-year-old asylum seeker from Afghanistan puts on the crown of the Black Madonna in front of praying Christians at the Einsiedeln Abbey Church.](http://9gag.com/gag/aD249ex)
+ - 😝 [Wholesome posts I saved #2](http://9gag.com/gag/ajP933x)
+ - 😝 [Jay Z\u2019s priceless expression. Courtesy: Paul](http://9gag.com/gag/aBymMwO)
  - 💣 [Bangladeshis are destroying science related books form students saying there is only one book](http://9gag.com/gag/a1mWnXY)
- - 😝 [Post](http://9gag.com/gag/awyBDqy)
- - 👉 [Jay Z\u2019s priceless expression. Courtesy: Paul](http://9gag.com/gag/aBymMwO)<!-- MEMES:END -->
+ - 😝 [I&#39;d sign up just to get fired](http://9gag.com/gag/a34wgRr)
+ - 👉 [Robert DuBoise on the day of his arrest at age 18, and the day he was freed from prison by DNA at 56.](http://9gag.com/gag/aBymMQz)<!-- MEMES:END -->
 
 ---
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Probably not good to stir that with your arm but I\u2019m no doctor.](http://9gag.com/gag/ayNeZwV)
- - 😝 [Karen in action.](http://9gag.com/gag/aRB7GgB)
- - 💣 [He got what he deserved! Pet Lion attacked invited guest at home who was treating Lion as domestic Cat, Experts living with lions understand the psychology of lions, they have a good understanding of the changing mood of lions.](http://9gag.com/gag/a2vWAzY)
- - 😝 [A good host always provides refreshments to his guests..](http://9gag.com/gag/adBVwKN)
- - 👉 [Switzerland: 17-year-old asylum seeker from Afghanistan puts on the crown of the Black Madonna in front of praying Christians at the Einsiedeln Abbey Church.](http://9gag.com/gag/aD249ex)<!-- MEMES:END -->
+ - 😝 [You cannot beat the dealership!](http://9gag.com/gag/aoyPwBx)
+ - 😝 [How dafuq does he do this???](http://9gag.com/gag/aAyeAG9)
+ - 💣 [Bangladeshis are destroying science related books form students saying there is only one book](http://9gag.com/gag/a1mWnXY)
+ - 😝 [Jay Z\u2019s priceless expression. Courtesy: Paul](http://9gag.com/gag/aBymMwO)
+ - 👉 [Karen in action.](http://9gag.com/gag/aRB7GgB)<!-- MEMES:END -->
 
 ---
 

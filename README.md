@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [IWouldHaveStillUsedTheInternet](http://9gag.com/gag/a87G99e)
- - 😝 [Come to church, meet some friends man.](http://9gag.com/gag/a7oWB3b)
- - 💣 [Oh no](http://9gag.com/gag/aYQy6VO)
- - 😝 [Careful, men having fun](http://9gag.com/gag/ae9DyvB)
- - 👉 [Air quality India](http://9gag.com/gag/aAyeLzo)<!-- MEMES:END -->
+ - 😝 [Hey my new GPU!!](http://9gag.com/gag/aD24qyK)
+ - 😝 [Arcane is a secret anti-woke propaganda](http://9gag.com/gag/aMVx63W)
+ - 💣 [Mike Tyson&#39;s last visit to Mohammad Ali before the later&lpar;the Champ&rpar; died.](http://9gag.com/gag/avyzVRd)
+ - 😝 [He got what he deserved! Pet Lion attacked invited guest at home who was treating Lion as domestic Cat, Experts living with lions understand the psychology of lions, they have a good understanding of the changing mood of lions.](http://9gag.com/gag/a2vWAzY)
+ - 👉 [I gotta stop doing dis.](http://9gag.com/gag/aXPg3Ez)<!-- MEMES:END -->
 
 ---
 

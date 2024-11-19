@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Bose acquires premium audio brand McIntosh](https://www.theverge.com/2024/11/19/24300618/bose-mcintosh-group-audio-acquisition)
- - [Netflix has a perfectly timed Razzlekhan doc coming out in December](https://www.theverge.com/2024/11/19/24300651/netflix-razzlekhan-documentary-trailer-release-date)
- - [Kong, which helps customers manage APIs, raised a $175M Series E co-led by Tiger Global and Balderton at a $2B valuation, taking its total raised to $345M &lpar;Katie Roof/Bloomberg&rpar;](http://www.techmeme.com/241119/p29#a241119p29)
- - [Bluesky has 20M+ users after hitting 15M on Nov. 13; Appfigures: it&#39;s been #1 in US App Store since Nov. 13; Similarweb: its DAU gap with Threads is narrowing &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/241119/p28#a241119p28)
- - [Apple shifts to internal advertising sales for Apple News](https://appleinsider.com/articles/24/11/19/apple-shifts-to-internal-advertising-sales-for-apple-news?utm_medium=rss)<!-- TECH:END -->
+ - [Robinhood agrees to buy TradePMR, a custodial and portfolio management platform for registered investment advisors, in a $300M deal expected to close in H1 2025 &lpar;Paige Smith/Bloomberg&rpar;](http://www.techmeme.com/241119/p30#a241119p30)
+ - [Best Internet Providers in North Las Vegas, Nevada](https://www.cnet.com/home/internet/best-internet-providers-in-north-las-vegas-nv/#ftag=CAD590a51e)
+ - [Bitcoin Reaches All-Time Highs. Here Are the Best Crypto Wallets To Store Your Coins](https://www.cnet.com/personal-finance/crypto/best-bitcoin-and-crypto-wallets/#ftag=CAD590a51e)
+ - [Walmart&#39;s Early Black Friday Sale Slashed the Price of This Digital Picture Frame by Half](https://www.cnet.com/deals/walmart-early-black-friday-sale-slashed-the-price-of-this-digital-picture-frame-by-half/#ftag=CAD590a51e)
+ - [Bose acquires premium audio brand McIntosh](https://www.theverge.com/2024/11/19/24300618/bose-mcintosh-group-audio-acquisition)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

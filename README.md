@@ -166,9 +166,9 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [Take my money !](http://9gag.com/gag/a7oWB2m)
  - 😝 [IWouldHaveStillUsedTheInternet](http://9gag.com/gag/a87G99e)
- - 😝 [We need to stop benefit immigration.](http://9gag.com/gag/an74WDo)
- - 💣 [Take my money !](http://9gag.com/gag/a7oWB2m)
+ - 💣 [We need to stop benefit immigration.](http://9gag.com/gag/an74WDo)
  - 😝 [Imagine if your favourite dim sum came alive to explore Hong Kong\ud83e\udd2f!](http://9gag.com/gag/abAGLgB)
  - 👉 [Air quality India](http://9gag.com/gag/aAyeLzo)<!-- MEMES:END -->
 

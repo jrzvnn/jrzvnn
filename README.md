@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Source: Microsoft reaches a deal with News Corp&#39;s HarperCollins to use nonfiction titles to train AI models; HarperCollins says authors can opt out &lpar;Bloomberg&rpar;](http://www.techmeme.com/241119/p34#a241119p34)
  - [Control Ultimate Edition will land on Mac February 12, 2025](https://appleinsider.com/articles/24/11/19/control-ultimate-edition-will-land-on-mac-february-12-2025?utm_medium=rss)
  - [Netflix says the Jake Paul vs. Mike Tyson fight was ‘the most-streamed sporting event ever’](https://www.theverge.com/2024/11/19/24300814/netflix-jake-paul-mike-tyson-most-streamed-sporting-event)
  - [The best smartwatches for Android](https://www.theverge.com/23449363/best-android-smartwatches-wear-os)
- - [How Fans Saved Sexypedia From Being Erased From the Internet](https://www.wired.com/story/how-fans-saved-sexypedia-from-being-erased-from-the-internet/)
- - [The 50 Best Shows on Disney+ Right Now &lpar;November 2024&rpar;](https://www.wired.com/story/best-shows-disney-plus/)<!-- TECH:END -->
+ - [How Fans Saved Sexypedia From Being Erased From the Internet](https://www.wired.com/story/how-fans-saved-sexypedia-from-being-erased-from-the-internet/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

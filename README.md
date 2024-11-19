@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Trump picks Howard Lutnick, CEO of Cantor Fitzgerald, which has been a custodian for stablecoin company Tether since 2021, to serve as his Commerce Secretary &lpar;Helene Braun/CoinDesk&rpar;](http://www.techmeme.com/241119/p37#a241119p37)
+ - [After a report that Trump&#39;s &quot;Department of Government Efficiency&quot; is considering a free tax-filing app, Intuit shares closed down 5.1% and H&amp;R Block down 8.2% &lpar;CJ Haddad/CNBC&rpar;](http://www.techmeme.com/241119/p36#a241119p36)
  - [Google ships the first developer preview of Android 16, far ahead of schedule vs. the past few years, hoping to lower fragmentation by giving partners more time &lpar;Ivan Mehta/TechCrunch&rpar;](http://www.techmeme.com/241119/p35#a241119p35)
  - [Jack Black yearns for the mines in new Minecraft movie trailer](https://www.theverge.com/2024/11/19/24300863/minecraft-movie-trailer-jack-black-steve)
- - [Update your iPhone, iPad, &amp; Mac now to block critical security threats](https://appleinsider.com/articles/24/11/19/update-your-iphone-ipad-mac-now-to-block-critical-security-threats?utm_medium=rss)
- - [Source: Microsoft reaches a deal with News Corp&#39;s HarperCollins to use nonfiction titles to train AI models; HarperCollins says authors can opt out &lpar;Bloomberg&rpar;](http://www.techmeme.com/241119/p34#a241119p34)
- - [Control Ultimate Edition will land on Mac February 12, 2025](https://appleinsider.com/articles/24/11/19/control-ultimate-edition-will-land-on-mac-february-12-2025?utm_medium=rss)<!-- TECH:END -->
+ - [Score an Insta360 X4 Waterproof Action Camera for the Lowest Price Ever Before Black Friday Even Hits](https://www.cnet.com/deals/score-an-insta360-x4-waterproof-action-camera-for-the-lowest-price-ever-before-black-friday-even-hits/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

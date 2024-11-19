@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Sources: US officials are racing to deliver billions in CHIPS Act funding to Intel and others before Biden leaves office; nearly $30B is tied up in negotiations &lpar;Asa Fitch/Wall Street Journal&rpar;](http://www.techmeme.com/241119/p11#a241119p11)
+ - [‘Cow Vigilantes’ in India Are Attacking Muslims and Posting It on Instagram](https://www.wired.com/story/cow-vigilantes-india-instagram/)
  - [Asus ROG Phone 9: Specs, Features, Price, Release Date](https://www.wired.com/story/asus-rog-phone-9-series/)
  - [Apple Vision Pro&#39;s ultra-wide Mac display mirroring is the killer app spatial computing needs](https://appleinsider.com/articles/24/11/19/apple-vision-pros-ultra-wide-mac-display-mirroring-is-the-killer-app-spatial-computing-needs?utm_medium=rss)
- - [Super Micro hires BDO USA as its new independent auditor and files a plan to come into compliance with Nasdaq listing requirements; SMCI jumps 29%+ pre-market &lpar;Carmen Reinicke/Bloomberg&rpar;](http://www.techmeme.com/241119/p10#a241119p10)
- - [Apple ending iCloud backup support for iOS 8 and earlier on December 18](https://appleinsider.com/articles/24/11/18/apple-ends-icloud-backup-support-for-ios-8-and-earlier-on-december-18?utm_medium=rss)
- - [Thieves using package tracking data to steal iPhone packages off porches](https://appleinsider.com/articles/24/11/18/thieves-are-using-stolen-tracking-data-to-steal-iphone-packages?utm_medium=rss)<!-- TECH:END -->
+ - [Super Micro hires BDO USA as its new independent auditor and files a plan to come into compliance with Nasdaq listing requirements; SMCI jumps 29%+ pre-market &lpar;Carmen Reinicke/Bloomberg&rpar;](http://www.techmeme.com/241119/p10#a241119p10)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

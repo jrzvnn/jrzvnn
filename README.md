@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [How fast a trained dog recognizes danger](http://9gag.com/gag/aryVdwp)
+ - 😝 [Hospital horror story](http://9gag.com/gag/ae9DPAW)
  - 😝 [Airboat Racing](http://9gag.com/gag/abAGLBE)
- - 💣 [...](http://9gag.com/gag/aD24NpZ)
+ - 💣 [No one stops the A train](http://9gag.com/gag/ajP93yQ)
  - 😝 [Imagine if your favourite dim sum came alive to explore Hong Kong\ud83e\udd2f!](http://9gag.com/gag/abAGLgB)
- - 👉 [Detainee slips cuffs and distracts driving cop, causes a wreck and gets ejected.](http://9gag.com/gag/ayNeVvq)<!-- MEMES:END -->
+ - 👉 [Hey my new GPU!!](http://9gag.com/gag/aD24qyK)<!-- MEMES:END -->
 
 ---
 

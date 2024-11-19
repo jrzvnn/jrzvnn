@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Asking the real question](http://9gag.com/gag/a87G95Y)
- - 😝 [Didn&#39;t knew what meme to use, so I used both.](http://9gag.com/gag/aMVx6rx)
- - 💣 [Great way to exercise brain for little kids](http://9gag.com/gag/aZZy5Pz)
- - 😝 [Oh no](http://9gag.com/gag/aYQy6VO)
- - 👉 [You geh?](http://9gag.com/gag/amovQ9V)<!-- MEMES:END -->
+ - 😝 [Air quality India](http://9gag.com/gag/aAyeLzo)
+ - 😝 [Jay Z\u2019s priceless expression. Courtesy: Paul](http://9gag.com/gag/aBymMwO)
+ - 💣 [How dafuq does he do this???](http://9gag.com/gag/aAyeAG9)
+ - 😝 [Detainee slips cuffs and distracts driving cop, causes a wreck and gets ejected.](http://9gag.com/gag/ayNeVvq)
+ - 👉 [When you try and procrastinate at work](http://9gag.com/gag/aE0Py0p)<!-- MEMES:END -->
 
 ---
 

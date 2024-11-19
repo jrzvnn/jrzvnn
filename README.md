@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Bangladeshis are destroying science related books form students saying there is only one book](http://9gag.com/gag/a1mWnXY)
- - 😝 [German Burgergeld. If you ever wonder why all migrants destination is Germany.](http://9gag.com/gag/a87GOWY)
- - 💣 [Air quality India](http://9gag.com/gag/aAyeLzo)
- - 😝 [Airboat Racing](http://9gag.com/gag/abAGLBE)
- - 👉 [Mike Tyson&#39;s last visit to Mohammad Ali before the later&lpar;the Champ&rpar; died.](http://9gag.com/gag/avyzVRd)<!-- MEMES:END -->
+ - 😝 [That\u2019s pretty awesome](http://9gag.com/gag/a87GOYV)
+ - 😝 [Are we still doing sad cat meowing memes?](http://9gag.com/gag/aLnwoN5)
+ - 💣 [Just to remind you](http://9gag.com/gag/avyzwod)
+ - 😝 [It isn&#39;t Wednesday yet but we&#39;re close my dudes](http://9gag.com/gag/aD245oO)
+ - 👉 [German Burgergeld. If you ever wonder why all migrants destination is Germany.](http://9gag.com/gag/a87GOWY)<!-- MEMES:END -->
 
 ---
 

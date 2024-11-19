@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [US federal data shows nearly 1.8M human warehouse workers, up 30% since early 2020, despite automation efforts, as robots struggle at crucial, simple tasks &lpar;Peter Eavis/New York Times&rpar;](http://www.techmeme.com/241119/p9#a241119p9)
+ - [The US Patent and Trademark Office Banned Staff From Using Generative AI](https://www.wired.com/story/us-patent-trademark-office-internally-banned-generative-ai/)
+ - [Best Smart Speakers for 2024: We Tested Alexa, Google, Apple and Sonos](https://www.cnet.com/home/smart-home/best-smart-speaker/#ftag=CAD590a51e)
  - [iMac M4 review: Minor changes lead to perfection for Apple&#39;s all-in-one Mac](https://appleinsider.com/articles/24/11/19/imac-m4-review-minor-changes-lead-to-perfection-for-apples-all-in-one-mac?utm_medium=rss)
- - [Sources: Huawei is designing its next two Ascend chips around a 7nm architecture, meaning its marquee chips will be stuck with aging tech until at least 2026 &lpar;Bloomberg&rpar;](http://www.techmeme.com/241119/p8#a241119p8)
- - [Sources: Alibaba, ByteDance, and Meituan have been expanding their AI teams in Silicon Valley in recent months, despite US efforts to stymie Chinese companies &lpar;Eleanor Olcott/Financial Times&rpar;](http://www.techmeme.com/241119/p7#a241119p7)
- - [Google and Nvidia say Google&#39;s Quantum AI division will use Nvidia&#39;s Eos supercomputer to speed up the design of quantum components &lpar;Ian King/Bloomberg&rpar;](http://www.techmeme.com/241119/p6#a241119p6)
- - [ICE Can Already Sidestep Sanctuary City Laws Through Data-Sharing Fusion Centers](https://www.wired.com/story/ice-sanctuary-cities-fusion-centers/)<!-- TECH:END -->
+ - [Sources: Huawei is designing its next two Ascend chips around a 7nm architecture, meaning its marquee chips will be stuck with aging tech until at least 2026 &lpar;Bloomberg&rpar;](http://www.techmeme.com/241119/p8#a241119p8)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

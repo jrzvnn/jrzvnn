@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [This website unearths YouTube’s lost and forgotten iPhone clips](https://www.theverge.com/2024/11/19/24300866/img-0001-old-youtube-video-randomizer)
- - [Qualcomm expects its automotive and IoT businesses to drive combined revenues of $22B by FY 2029, including $8B from automotive chips and $4B from PC chips &lpar;Ian King/Bloomberg&rpar;](http://www.techmeme.com/241119/p39#a241119p39)
- - [Sony’s new PlayStation Portal update lets you stream PS5 games from the cloud](https://www.theverge.com/2024/11/19/24300991/playstation-portal-cloud-streaming-update-beta-ps5-games)
- - [Alexa may get smarter with more APIs rather than more AI](https://www.theverge.com/2024/11/19/24300764/amazon-partnership-uber-ticketmaster-smarter-alexa)
- - [A bipartisan US congressional commission on US-China relations proposes a Manhattan Project-style initiative to fund the development of AGI systems &lpar;Reuters&rpar;](http://www.techmeme.com/241119/p38#a241119p38)<!-- TECH:END -->
+ - [Amazon says Amazon Music Unlimited subscribers in the US, the UK, and Canada can now listen to one audiobook per month from Audible&#39;s catalog for free &lpar;Ivan Mehta/TechCrunch&rpar;](http://www.techmeme.com/241119/p40#a241119p40)
+ - [Apple has officially ended its butterfly keyboard repair problem for MacBooks](https://appleinsider.com/articles/24/11/19/apple-has-officially-ended-its-butterfly-keyboard-repair-problem-for-macbooks?utm_medium=rss)
+ - [Here are the best Black Friday deals you can already get](https://www.theverge.com/24293826/best-early-black-friday-deals-2024-amazon-walmart-buy-target-tech-sale)
+ - [Save Up to 38% on KitchenAid Stand Mixer Accessories With This Early Black Friday Deal](https://www.cnet.com/deals/save-up-to-38-on-kitchenaid-stand-mixer-accessories-with-this-early-black-friday-deal/#ftag=CAD590a51e)
+ - [This website unearths YouTube’s lost and forgotten iPhone clips](https://www.theverge.com/2024/11/19/24300866/img-0001-old-youtube-video-randomizer)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

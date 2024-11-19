@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Qualcomm expects its automotive and IoT businesses to drive combined revenues of $22B by FY 2029, including $8B from automotive chips and $4B from PC chips &lpar;Ian King/Bloomberg&rpar;](http://www.techmeme.com/241119/p39#a241119p39)
+ - [Sony’s new PlayStation Portal update lets you stream PS5 games from the cloud](https://www.theverge.com/2024/11/19/24300991/playstation-portal-cloud-streaming-update-beta-ps5-games)
+ - [Alexa may get smarter with more APIs rather than more AI](https://www.theverge.com/2024/11/19/24300764/amazon-partnership-uber-ticketmaster-smarter-alexa)
  - [A bipartisan US congressional commission on US-China relations proposes a Manhattan Project-style initiative to fund the development of AGI systems &lpar;Reuters&rpar;](http://www.techmeme.com/241119/p38#a241119p38)
- - [Early Black Friday price cut drops M4 Pro MacBook Pro down to $1,749](https://appleinsider.com/articles/24/11/19/early-black-friday-price-cut-drops-m4-pro-macbook-pro-down-to-1749?utm_medium=rss)
- - [Microsoft is the mystery AI company licensing HarperCollins books, says Bloomberg](https://www.theverge.com/2024/11/19/24300893/microsoft-ai-training-deal-harpercollins-report)
- - [Trump picks Howard Lutnick, CEO of Cantor Fitzgerald, which has been a custodian for stablecoin company Tether since 2021, to serve as his Commerce Secretary &lpar;Helene Braun/CoinDesk&rpar;](http://www.techmeme.com/241119/p37#a241119p37)
- - [Pokémon Cards Are Back—No Binders Needed](https://www.wired.com/story/pokemon-cards-are-back-no-binders-needed/)<!-- TECH:END -->
+ - [Microsoft Teams&#39; AI Language Interpreter Will Mimic Your Voice](https://www.cnet.com/tech/services-and-software/microsoft-teams-ai-language-interpreter-will-mimic-your-voice/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

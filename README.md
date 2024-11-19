@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [No one stops the A train](http://9gag.com/gag/ajP93yQ)
- - 😝 [Airboat Racing](http://9gag.com/gag/abAGLBE)
- - 💣 [Mike Tyson&#39;s last visit to Mohammad Ali before the later&lpar;the Champ&rpar; died.](http://9gag.com/gag/avyzVRd)
- - 😝 [Bangladeshis are destroying science related books form students saying there is only one book](http://9gag.com/gag/a1mWnXY)
- - 👉 [Hey my new GPU!!](http://9gag.com/gag/aD24qyK)<!-- MEMES:END -->
+ - 😝 [German Burgergeld. If you ever wonder why all migrants destination is Germany.](http://9gag.com/gag/a87GOWY)
+ - 😝 [He got what he deserved! Pet Lion attacked invited guest at home who was treating Lion as domestic Cat, Experts living with lions understand the psychology of lions, they have a good understanding of the changing mood of lions.](http://9gag.com/gag/a2vWAzY)
+ - 💣 [Probably not good to stir that with your arm but I\u2019m no doctor.](http://9gag.com/gag/ayNeZwV)
+ - 😝 [Karen in action.](http://9gag.com/gag/aRB7GgB)
+ - 👉 [Airboat Racing](http://9gag.com/gag/abAGLBE)<!-- MEMES:END -->
 
 ---
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Just to remind you](http://9gag.com/gag/avyzwod)
+ - 😝 [Anna Cramling &lpar;on the right&rpar; created an opening she calls `the Cow` -- an opening that she admits is not very strong, but she wanted to be able to say she had created an opening. Alessia Santeramo &lpar;left&rpar; Just before the game started, asked `Do you want to play the Cow opening?`](http://9gag.com/gag/an74wEq)
  - 😝 [Not her first rodeo!](http://9gag.com/gag/aKG75QO)
- - 💣 [Anna Cramling &lpar;on the right&rpar; created an opening she calls `the Cow` -- an opening that she admits is not very strong, but she wanted to be able to say she had created an opening. Alessia Santeramo &lpar;left&rpar; Just before the game started, asked `Do you want to play the Cow opening?`](http://9gag.com/gag/an74wEq)
- - 😝 [German Burgergeld. If you ever wonder why all migrants destination is Germany.](http://9gag.com/gag/a87GOWY)
- - 👉 [Do men even have feeling ??](http://9gag.com/gag/a2vWVpO)<!-- MEMES:END -->
+ - 💣 [German Burgergeld. If you ever wonder why all migrants destination is Germany.](http://9gag.com/gag/a87GOWY)
+ - 😝 [Do men even have feeling ??](http://9gag.com/gag/a2vWVpO)
+ - 👉 [Happy International Men&#39;s day!](http://9gag.com/gag/aBym591)<!-- MEMES:END -->
 
 ---
 

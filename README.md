@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [That sign is wild](http://9gag.com/gag/a9yn4LD)
+ - 😝 [How fast a trained dog recognizes danger](http://9gag.com/gag/aryVdwp)
  - 😝 [Airboat Racing](http://9gag.com/gag/abAGLBE)
- - 💣 [How fast a trained dog recognizes danger](http://9gag.com/gag/aryVdwp)
+ - 💣 [...](http://9gag.com/gag/aD24NpZ)
  - 😝 [Imagine if your favourite dim sum came alive to explore Hong Kong\ud83e\udd2f!](http://9gag.com/gag/abAGLgB)
- - 👉 [Guess the game](http://9gag.com/gag/amovymv)<!-- MEMES:END -->
+ - 👉 [Detainee slips cuffs and distracts driving cop, causes a wreck and gets ejected.](http://9gag.com/gag/ayNeVvq)<!-- MEMES:END -->
 
 ---
 

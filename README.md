@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [German Burgergeld. If you ever wonder why all migrants destination is Germany.](http://9gag.com/gag/a87GOWY)
- - 😝 [He got what he deserved! Pet Lion attacked invited guest at home who was treating Lion as domestic Cat, Experts living with lions understand the psychology of lions, they have a good understanding of the changing mood of lions.](http://9gag.com/gag/a2vWAzY)
- - 💣 [Probably not good to stir that with your arm but I\u2019m no doctor.](http://9gag.com/gag/ayNeZwV)
+ - 😝 [How dafuq does he do this???](http://9gag.com/gag/aAyeAG9)
+ - 😝 [Hey my new GPU!!](http://9gag.com/gag/aD24qyK)
+ - 💣 [Jay Z\u2019s priceless expression. Courtesy: Paul](http://9gag.com/gag/aBymMwO)
  - 😝 [Karen in action.](http://9gag.com/gag/aRB7GgB)
- - 👉 [Airboat Racing](http://9gag.com/gag/abAGLBE)<!-- MEMES:END -->
+ - 👉 [Switzerland: 17-year-old asylum seeker from Afghanistan puts on the crown of the Black Madonna in front of praying Christians at the Einsiedeln Abbey Church.](http://9gag.com/gag/aD249ex)<!-- MEMES:END -->
 
 ---
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [5 Best Travel Mugs &lpar;2024&rpar;, Tested and Reviewed](https://www.wired.com/gallery/best-travel-mugs/)
- - [The Norwegian Company Blamed for California&#39;s Hydrogen Car Woes](https://www.wired.com/story/the-norwegian-company-blamed-for-californias-hydrogen-car-woes/)
- - [Best Home Security Cameras With Floodlights in 2024](https://www.cnet.com/home/security/best-floodlight-home-security-cameras/#ftag=CAD590a51e)
- - [Instagram will let you rebuild your recommendations from scratch](https://www.theverge.com/2024/11/19/24300458/instagram-reset-content-recommendations-from-scratch)
- - [Best Robot Vacuums of 2024: Two New Winners Emerge](https://www.cnet.com/home/kitchen-and-household/best-robot-vacuum/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Microsoft Teams will help you speak in a foreign language during meetings](https://www.theverge.com/2024/11/19/24300266/microsoft-teams-ai-interpreter-speech-to-speech-translation)
+ - [Microsoft Ignite 2024: all the news from Microsoft’s IT pro event](https://www.theverge.com/2024/11/19/24300001/microsoft-ignite-2024-news-ai-announcements-copilot-windows-azure-office)
+ - [Microsoft announces its own Black Hat-like hacking event with big rewards for AI security](https://www.theverge.com/2024/11/19/24299999/microsoft-zero-day-quest-hacking-event-ai-cloud-security)
+ - [Microsoft’s new Copilot Actions use AI to automate repetitive tasks](https://www.theverge.com/2024/11/19/24299961/microsoft-copilot-actions-powerpoint-outlook-ai-improvements)
+ - [Microsoft’s new Windows Resiliency Initiative aims to avoid another CrowdStrike incident](https://www.theverge.com/2024/11/19/24299873/microsoft-windows-resiliency-initiative-crowdstrike-incident)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

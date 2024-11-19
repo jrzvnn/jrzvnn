@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Bro found endless energy.](http://9gag.com/gag/aYQyBxx)
- - 😝 [Happy Monday](http://9gag.com/gag/aO87ALy)
- - 💣 [Popcorn Ceiling Removal](http://9gag.com/gag/a87GXZ3)
- - 😝 [Imagine if your favourite dim sum came alive to explore Hong Kong\ud83e\udd2f!](http://9gag.com/gag/abAGLgB)
- - 👉 [Probably not good to stir that with your arm but I\u2019m no doctor.](http://9gag.com/gag/ayNeZwV)<!-- MEMES:END -->
+ - 😝 [Stop pushing education in our throats this is just not our thing](http://9gag.com/gag/ajP9jAG)
+ - 😝 [Chair catch by a Waffle House employee](http://9gag.com/gag/aO87E0M)
+ - 💣 [Jay Z\u2019s priceless expression. Courtesy: Paul](http://9gag.com/gag/aBymMwO)
+ - 😝 [Post](http://9gag.com/gag/awyBDqy)
+ - 👉 [Hey my new GPU!!](http://9gag.com/gag/aD24qyK)<!-- MEMES:END -->
 
 ---
 

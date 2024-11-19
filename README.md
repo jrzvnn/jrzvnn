@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Air quality India](http://9gag.com/gag/aAyeLzo)
- - 😝 [Jay Z\u2019s priceless expression. Courtesy: Paul](http://9gag.com/gag/aBymMwO)
- - 💣 [How dafuq does he do this???](http://9gag.com/gag/aAyeAG9)
- - 😝 [Detainee slips cuffs and distracts driving cop, causes a wreck and gets ejected.](http://9gag.com/gag/ayNeVvq)
- - 👉 [When you try and procrastinate at work](http://9gag.com/gag/aE0Py0p)<!-- MEMES:END -->
+ - 😝 [How dafuq does he do this???](http://9gag.com/gag/aAyeAG9)
+ - 😝 [Probably not good to stir that with your arm but I\u2019m no doctor.](http://9gag.com/gag/ayNeZwV)
+ - 💣 [No one stops the A train](http://9gag.com/gag/ajP93yQ)
+ - 😝 [Airboat Racing](http://9gag.com/gag/abAGLBE)
+ - 👉 [Karen in action.](http://9gag.com/gag/aRB7GgB)<!-- MEMES:END -->
 
 ---
 

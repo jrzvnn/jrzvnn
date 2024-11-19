@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Microsoft plans to bring the &quot;full capabilities&quot; of Windows 11 to the Meta Quest 3 and Quest 3S in December in public preview &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/241119/p17#a241119p17)
- - [Microsoft unveils Azure AI Foundry to make LLM switching easier, says 60,000 customers use Azure AI, and updates 365 Copilot to automate repetitive tasks &lpar;Dina Bass/Bloomberg&rpar;](http://www.techmeme.com/241119/p16#a241119p16)
- - [Microsoft debuts the Windows Resiliency Initiative to help avoid another CrowdStrike-like incident, including a Quick Machine Recovery feature &lpar;Tom Warren/The Verge&rpar;](http://www.techmeme.com/241119/p15#a241119p15)
- - [Microsoft unveils the $349 Windows 365 Link, a mini PC companion for its Windows 365 cloud service that runs a small Windows-based OS, shipping in April 2025 &lpar;Tom Warren/The Verge&rpar;](http://www.techmeme.com/241119/p14#a241119p14)
- - [How to record your screen on an Android device](https://www.theverge.com/24299641/android-google-screen-capture-video-how-to)<!-- TECH:END -->
+ - [Microsoft unveils new custom chips: the Azure Boost DPU, its first data processing unit, and the Azure Integrated HSM, a new in-house cloud security chip &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/241119/p21#a241119p21)
+ - [Samsung finally starts Wear OS 5 rollout for older Galaxy Watches](https://www.theverge.com/2024/11/19/24300468/samsung-wear-os-5-one-ui-6-watch-smartwatch-wearables)
+ - [Microsoft unveils a new AI interpreter in Teams that can simulate voices and offer near-real-time voice interpretation in nine languages, launching in preview &lpar;Danielle Abril/Washington Post&rpar;](http://www.techmeme.com/241119/p20#a241119p20)
+ - [Sony MDR-M1 Headphone Review: Studio Perfection](https://www.wired.com/review/sony-mdr-m1/)
+ - [Google Lens will now help you decide what to buy in-store](https://www.theverge.com/2024/11/19/24300424/google-lens-shopping-feature-stock-availability-reviews)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

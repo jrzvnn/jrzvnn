@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Microsoft is the mystery AI company licensing HarperCollins books, says Bloomberg](https://www.theverge.com/2024/11/19/24300893/microsoft-ai-training-deal-harpercollins-report)
  - [Trump picks Howard Lutnick, CEO of Cantor Fitzgerald, which has been a custodian for stablecoin company Tether since 2021, to serve as his Commerce Secretary &lpar;Helene Braun/CoinDesk&rpar;](http://www.techmeme.com/241119/p37#a241119p37)
+ - [Pokémon Cards Are Back—No Binders Needed](https://www.wired.com/story/pokemon-cards-are-back-no-binders-needed/)
  - [After a report that Trump&#39;s &quot;Department of Government Efficiency&quot; is considering a free tax-filing app, Intuit shares closed down 5.1% and H&amp;R Block down 8.2% &lpar;CJ Haddad/CNBC&rpar;](http://www.techmeme.com/241119/p36#a241119p36)
- - [Google ships the first developer preview of Android 16, far ahead of schedule vs. the past few years, hoping to lower fragmentation by giving partners more time &lpar;Ivan Mehta/TechCrunch&rpar;](http://www.techmeme.com/241119/p35#a241119p35)
- - [Jack Black yearns for the mines in new Minecraft movie trailer](https://www.theverge.com/2024/11/19/24300863/minecraft-movie-trailer-jack-black-steve)
- - [Score an Insta360 X4 Waterproof Action Camera for the Lowest Price Ever Before Black Friday Even Hits](https://www.cnet.com/deals/score-an-insta360-x4-waterproof-action-camera-for-the-lowest-price-ever-before-black-friday-even-hits/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Google ships the first developer preview of Android 16, far ahead of schedule vs. the past few years, hoping to lower fragmentation by giving partners more time &lpar;Ivan Mehta/TechCrunch&rpar;](http://www.techmeme.com/241119/p35#a241119p35)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

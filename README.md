@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Bangladeshis are destroying science related books form students saying there is only one book](http://9gag.com/gag/a1mWnXY)
- - 😝 [He got what he deserved! Pet Lion attacked invited guest at home who was treating Lion as domestic Cat, Experts living with lions understand the psychology of lions, they have a good understanding of the changing mood of lions.](http://9gag.com/gag/a2vWAzY)
- - 💣 [Switzerland: 17-year-old asylum seeker from Afghanistan puts on the crown of the Black Madonna in front of praying Christians at the Einsiedeln Abbey Church.](http://9gag.com/gag/aD249ex)
- - 😝 [I&#39;d sign up just to get fired](http://9gag.com/gag/a34wgRr)
- - 👉 [Mike Tyson&#39;s last visit to Mohammad Ali before the later&lpar;the Champ&rpar; died.](http://9gag.com/gag/avyzVRd)<!-- MEMES:END -->
+ - 😝 [Asking the real question](http://9gag.com/gag/a87G95Y)
+ - 😝 [Didn&#39;t knew what meme to use, so I used both.](http://9gag.com/gag/aMVx6rx)
+ - 💣 [Great way to exercise brain for little kids](http://9gag.com/gag/aZZy5Pz)
+ - 😝 [Oh no](http://9gag.com/gag/aYQy6VO)
+ - 👉 [You geh?](http://9gag.com/gag/amovQ9V)<!-- MEMES:END -->
 
 ---
 

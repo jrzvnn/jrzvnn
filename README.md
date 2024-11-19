@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Popcorn Ceiling Removal](http://9gag.com/gag/a87GXZ3)
- - 😝 [...](http://9gag.com/gag/aD24NpZ)
- - 💣 [No one stops the A train](http://9gag.com/gag/ajP93yQ)
+ - 😝 [Guy posts about being ugly, girl calls him cute; now they&#39;re married and expecting a baby.](http://9gag.com/gag/azxmBvm)
+ - 😝 [No one stops the A train](http://9gag.com/gag/ajP93yQ)
+ - 💣 [Popcorn Ceiling Removal](http://9gag.com/gag/a87GXZ3)
  - 😝 [Imagine if your favourite dim sum came alive to explore Hong Kong\ud83e\udd2f!](http://9gag.com/gag/abAGLgB)
- - 👉 [Happy Monday](http://9gag.com/gag/aO87ALy)<!-- MEMES:END -->
+ - 👉 [Hey my new GPU!!](http://9gag.com/gag/aD24qyK)<!-- MEMES:END -->
 
 ---
 

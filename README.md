@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Microsoft Teams will help you speak in a foreign language during meetings](https://www.theverge.com/2024/11/19/24300266/microsoft-teams-ai-interpreter-speech-to-speech-translation)
- - [Microsoft Ignite 2024: all the news from Microsoft’s IT pro event](https://www.theverge.com/2024/11/19/24300001/microsoft-ignite-2024-news-ai-announcements-copilot-windows-azure-office)
- - [Microsoft announces its own Black Hat-like hacking event with big rewards for AI security](https://www.theverge.com/2024/11/19/24299999/microsoft-zero-day-quest-hacking-event-ai-cloud-security)
- - [Microsoft’s new Copilot Actions use AI to automate repetitive tasks](https://www.theverge.com/2024/11/19/24299961/microsoft-copilot-actions-powerpoint-outlook-ai-improvements)
- - [Microsoft’s new Windows Resiliency Initiative aims to avoid another CrowdStrike incident](https://www.theverge.com/2024/11/19/24299873/microsoft-windows-resiliency-initiative-crowdstrike-incident)<!-- TECH:END -->
+ - [Microsoft debuts the Windows Resiliency Initiative to help avoid another CrowdStrike-like incident, including a Quick Machine Recovery feature &lpar;Tom Warren/The Verge&rpar;](http://www.techmeme.com/241119/p15#a241119p15)
+ - [Microsoft unveils the $349 Windows 365 Link, a mini PC companion for its Windows 365 cloud service that runs a small Windows-based OS, shipping in April 2025 &lpar;Tom Warren/The Verge&rpar;](http://www.techmeme.com/241119/p14#a241119p14)
+ - [How to record your screen on an Android device](https://www.theverge.com/24299641/android-google-screen-capture-video-how-to)
+ - [Top Apple Podcast charts for 2024 show what everyone&#39;s been listening to](https://appleinsider.com/articles/24/11/19/top-apple-podcast-charts-for-2024-show-what-everyones-been-listening-to?utm_medium=rss)
+ - [7 Best Handheld Gaming Consoles &lpar;2024&rpar;, Tested and Reviewed](https://www.wired.com/gallery/best-gaming-handhelds/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

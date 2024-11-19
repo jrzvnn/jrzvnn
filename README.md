@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [US federal data shows nearly 1.8M human warehouse workers, up 30% since early 2020, despite automation efforts, as robots struggle at crucial, simple tasks &lpar;Peter Eavis/New York Times&rpar;](http://www.techmeme.com/241119/p9#a241119p9)
- - [The US Patent and Trademark Office Banned Staff From Using Generative AI](https://www.wired.com/story/us-patent-trademark-office-internally-banned-generative-ai/)
- - [Best Smart Speakers for 2024: We Tested Alexa, Google, Apple and Sonos](https://www.cnet.com/home/smart-home/best-smart-speaker/#ftag=CAD590a51e)
- - [iMac M4 review: Minor changes lead to perfection for Apple&#39;s all-in-one Mac](https://appleinsider.com/articles/24/11/19/imac-m4-review-minor-changes-lead-to-perfection-for-apples-all-in-one-mac?utm_medium=rss)
- - [Sources: Huawei is designing its next two Ascend chips around a 7nm architecture, meaning its marquee chips will be stuck with aging tech until at least 2026 &lpar;Bloomberg&rpar;](http://www.techmeme.com/241119/p8#a241119p8)<!-- TECH:END -->
+ - [Asus ROG Phone 9: Specs, Features, Price, Release Date](https://www.wired.com/story/asus-rog-phone-9-series/)
+ - [Apple Vision Pro&#39;s ultra-wide Mac display mirroring is the killer app spatial computing needs](https://appleinsider.com/articles/24/11/19/apple-vision-pros-ultra-wide-mac-display-mirroring-is-the-killer-app-spatial-computing-needs?utm_medium=rss)
+ - [Super Micro hires BDO USA as its new independent auditor and files a plan to come into compliance with Nasdaq listing requirements; SMCI jumps 29%+ pre-market &lpar;Carmen Reinicke/Bloomberg&rpar;](http://www.techmeme.com/241119/p10#a241119p10)
+ - [Apple ending iCloud backup support for iOS 8 and earlier on December 18](https://appleinsider.com/articles/24/11/18/apple-ends-icloud-backup-support-for-ios-8-and-earlier-on-december-18?utm_medium=rss)
+ - [Thieves using package tracking data to steal iPhone packages off porches](https://appleinsider.com/articles/24/11/18/thieves-are-using-stolen-tracking-data-to-steal-iphone-packages?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

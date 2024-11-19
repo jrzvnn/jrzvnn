@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Guy posts about being ugly, girl calls him cute; now they&#39;re married and expecting a baby.](http://9gag.com/gag/azxmBvm)
- - 😝 [No one stops the A train](http://9gag.com/gag/ajP93yQ)
- - 💣 [Popcorn Ceiling Removal](http://9gag.com/gag/a87GXZ3)
+ - 😝 [Pew pew pew or the Helmet](http://9gag.com/gag/ajP9MOx)
+ - 😝 [Airboat Racing](http://9gag.com/gag/abAGLBE)
+ - 💣 [Hey my new GPU!!](http://9gag.com/gag/aD24qyK)
  - 😝 [Imagine if your favourite dim sum came alive to explore Hong Kong\ud83e\udd2f!](http://9gag.com/gag/abAGLgB)
- - 👉 [Hey my new GPU!!](http://9gag.com/gag/aD24qyK)<!-- MEMES:END -->
+ - 👉 [Happy Monday](http://9gag.com/gag/aO87ALy)<!-- MEMES:END -->
 
 ---
 

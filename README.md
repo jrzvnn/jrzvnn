@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Microsoft plans to bring the &quot;full capabilities&quot; of Windows 11 to the Meta Quest 3 and Quest 3S in December in public preview &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/241119/p17#a241119p17)
+ - [Microsoft unveils Azure AI Foundry to make LLM switching easier, says 60,000 customers use Azure AI, and updates 365 Copilot to automate repetitive tasks &lpar;Dina Bass/Bloomberg&rpar;](http://www.techmeme.com/241119/p16#a241119p16)
  - [Microsoft debuts the Windows Resiliency Initiative to help avoid another CrowdStrike-like incident, including a Quick Machine Recovery feature &lpar;Tom Warren/The Verge&rpar;](http://www.techmeme.com/241119/p15#a241119p15)
  - [Microsoft unveils the $349 Windows 365 Link, a mini PC companion for its Windows 365 cloud service that runs a small Windows-based OS, shipping in April 2025 &lpar;Tom Warren/The Verge&rpar;](http://www.techmeme.com/241119/p14#a241119p14)
- - [How to record your screen on an Android device](https://www.theverge.com/24299641/android-google-screen-capture-video-how-to)
- - [Top Apple Podcast charts for 2024 show what everyone&#39;s been listening to](https://appleinsider.com/articles/24/11/19/top-apple-podcast-charts-for-2024-show-what-everyones-been-listening-to?utm_medium=rss)
- - [7 Best Handheld Gaming Consoles &lpar;2024&rpar;, Tested and Reviewed](https://www.wired.com/gallery/best-gaming-handhelds/)<!-- TECH:END -->
+ - [How to record your screen on an Android device](https://www.theverge.com/24299641/android-google-screen-capture-video-how-to)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The best Nintendo Switch controllers to buy right now](https://www.theverge.com/23350899/nintendo-switch-controllers-best-wireless-joy-con-gamepad)
- - [If Netflix can’t make live work, can anyone?](https://www.theverge.com/2024/11/19/24300501/netflix-live-sports-paul-tyson-notebooks-vergecast)
- - [Microsoft unveils new custom chips: the Azure Boost DPU, its first data processing unit, and the Azure Integrated HSM, a new in-house cloud security chip &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/241119/p21#a241119p21)
- - [Samsung finally starts Wear OS 5 rollout for older Galaxy Watches](https://www.theverge.com/2024/11/19/24300468/samsung-wear-os-5-one-ui-6-watch-smartwatch-wearables)
- - [Microsoft unveils a new AI interpreter in Teams that can simulate voices and offer near-real-time voice interpretation in nine languages, launching in preview &lpar;Danielle Abril/Washington Post&rpar;](http://www.techmeme.com/241119/p20#a241119p20)<!-- TECH:END -->
+ - [Amazon Music Unlimited now includes a free audiobook each month](https://www.theverge.com/2024/11/19/24300506/amazon-music-unlimited-free-audiobook-audible)
+ - [Networking chip startup Enfabrica raised a $115M Series C led by Spark Capital and unveils a 3.2TB-per-second accelerated compute fabric of ACF SuperNIC chip &lpar;Mike Wheatley/SiliconANGLE&rpar;](http://www.techmeme.com/241119/p22#a241119p22)
+ - [Control 2 will be an action RPG](https://www.theverge.com/2024/11/19/24300511/control-2-action-rpg)
+ - [You Can Now Buy Lab-Grown Foie Gras](https://www.wired.com/story/you-can-now-buy-lab-grown-foie-gras-vow-cultivated-meat/)
+ - [The best Nintendo Switch controllers to buy right now](https://www.theverge.com/23350899/nintendo-switch-controllers-best-wireless-joy-con-gamepad)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

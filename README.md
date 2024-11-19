@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Jack Black yearns for the mines in new Minecraft movie trailer](https://www.theverge.com/2024/11/19/24300863/minecraft-movie-trailer-jack-black-steve)
  - [Update your iPhone, iPad, &amp; Mac now to block critical security threats](https://appleinsider.com/articles/24/11/19/update-your-iphone-ipad-mac-now-to-block-critical-security-threats?utm_medium=rss)
  - [Source: Microsoft reaches a deal with News Corp&#39;s HarperCollins to use nonfiction titles to train AI models; HarperCollins says authors can opt out &lpar;Bloomberg&rpar;](http://www.techmeme.com/241119/p34#a241119p34)
  - [Control Ultimate Edition will land on Mac February 12, 2025](https://appleinsider.com/articles/24/11/19/control-ultimate-edition-will-land-on-mac-february-12-2025?utm_medium=rss)
- - [Netflix says the Jake Paul vs. Mike Tyson fight was ‘the most-streamed sporting event ever’](https://www.theverge.com/2024/11/19/24300814/netflix-jake-paul-mike-tyson-most-streamed-sporting-event)
- - [The best smartwatches for Android](https://www.theverge.com/23449363/best-android-smartwatches-wear-os)<!-- TECH:END -->
+ - [Netflix says the Jake Paul vs. Mike Tyson fight was ‘the most-streamed sporting event ever’](https://www.theverge.com/2024/11/19/24300814/netflix-jake-paul-mike-tyson-most-streamed-sporting-event)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

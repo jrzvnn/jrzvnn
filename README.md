@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [An interview with Meta&#39;s heads of design for wearables Joshua To and Michelle Pujals on Orion&#39;s design, aiming to make Orion the AirPods of AR, and more &lpar;Mark Wilson/Fast Company&rpar;](http://www.techmeme.com/241119/p2#a241119p2)
+ - [Brooks Promo Code: 20% Off | November 2024](https://www.wired.com/story/brooks-promo-code/)
  - [Los Angeles-based Moonvalley, which is developing &quot;transparent&quot; generative AI video tools, raised a $70M seed co-led by General Catalyst and Khosla Ventures &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/241119/p1#a241119p1)
  - [Today&#39;s NYT Mini Crossword Answers for Tuesday, Nov. 19](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-tuesday-nov-19/#ftag=CAD590a51e)
- - [How to enable and use RCS for secure cross-platform messaging](https://appleinsider.com/inside/ios-18/tips/how-to-enable-and-use-rcs-for-secure-cross-platform-messaging?utm_medium=rss)
- - [Today&#39;s NYT Connections Hints, Answers and Help for Nov. 19, #527](https://www.cnet.com/tech/gaming/todays-nyt-connections-hints-answers-and-help-for-nov-19-527/#ftag=CAD590a51e)
- - [Today&#39;s NYT Connections: Sports Edition Hints and Answers for Nov. 19, #57](https://www.cnet.com/tech/gaming/todays-nyt-connections-sports-edition-hints-and-answers-for-nov-19-57/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [How to enable and use RCS for secure cross-platform messaging](https://appleinsider.com/inside/ios-18/tips/how-to-enable-and-use-rcs-for-secure-cross-platform-messaging?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

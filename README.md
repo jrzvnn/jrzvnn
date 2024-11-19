@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [That sign is wild](http://9gag.com/gag/a9yn4LD)
  - 😝 [Airboat Racing](http://9gag.com/gag/abAGLBE)
- - 😝 [Anything can be a di*do](http://9gag.com/gag/aD24r9G)
- - 💣 [No one stops the A train](http://9gag.com/gag/ajP93yQ)
+ - 💣 [How fast a trained dog recognizes danger](http://9gag.com/gag/aryVdwp)
  - 😝 [Imagine if your favourite dim sum came alive to explore Hong Kong\ud83e\udd2f!](http://9gag.com/gag/abAGLgB)
- - 👉 [Hospital horror story](http://9gag.com/gag/ae9DPAW)<!-- MEMES:END -->
+ - 👉 [Guess the game](http://9gag.com/gag/amovymv)<!-- MEMES:END -->
 
 ---
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Bluesky is booming partly because it isn&#39;t hindered by bad adtech, AI slop, throttled links, and largely hostile user experiences, unlike some of its big rivals &lpar;Brian Merchant/Blood in the Machine&rpar;](http://www.techmeme.com/241118/p34#a241118p34)
  - [Apple to increase Indonesia investment tenfold to appeal iPhone 16 ban](https://appleinsider.com/articles/24/11/19/apple-to-increase-indonesia-investment-tenfold-to-appeal-iphone-16-ban?utm_medium=rss)
  - [Memo: Amazon employees have found there is too much of a delay between asking a question to the new AI-based Alexa and getting a response or completing a task &lpar;Jason Del Rey/Fortune&rpar;](http://www.techmeme.com/241118/p33#a241118p33)
- - [Sources: Apple has raised its offer to invest in Indonesia from about $10M to almost $100M, in a bid to persuade the government to lift its iPhone 16 sales ban &lpar;Faris Mokhtar/Bloomberg&rpar;](http://www.techmeme.com/241118/p32#a241118p32)
- - [Google now lets you manage all of your old Nest Cams from the Home app](https://www.theverge.com/2024/11/18/24300125/google-home-nest-manage-iq-indoor-outdoor)
- - [Best Smart Lights for 2024](https://www.cnet.com/home/kitchen-and-household/best-smart-lights/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Best Internet Providers in Myrtle Beach, South Carolina](https://www.cnet.com/home/internet/best-internet-providers-in-myrtle-beach-sc/#ftag=CAD590a51e)
+ - [Sources: Apple has raised its offer to invest in Indonesia from about $10M to almost $100M, in a bid to persuade the government to lift its iPhone 16 sales ban &lpar;Faris Mokhtar/Bloomberg&rpar;](http://www.techmeme.com/241118/p32#a241118p32)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

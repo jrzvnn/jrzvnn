@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [The definition of your life flashing before your eyes](http://9gag.com/gag/aD24rvG)
- - 😝 [Happy Monday](http://9gag.com/gag/aO87ALy)
- - 💣 [Air quality India](http://9gag.com/gag/aAyeLzo)
+ - 😝 [Popcorn Ceiling Removal](http://9gag.com/gag/a87GXZ3)
+ - 😝 [...](http://9gag.com/gag/aD24NpZ)
+ - 💣 [No one stops the A train](http://9gag.com/gag/ajP93yQ)
  - 😝 [Imagine if your favourite dim sum came alive to explore Hong Kong\ud83e\udd2f!](http://9gag.com/gag/abAGLgB)
- - 👉 [Pizza boxes next week: Caution, contents may be slippery when stepped on](http://9gag.com/gag/aqynBoP)<!-- MEMES:END -->
+ - 👉 [Happy Monday](http://9gag.com/gag/aO87ALy)<!-- MEMES:END -->
 
 ---
 

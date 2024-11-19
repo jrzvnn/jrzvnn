@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Internal document: Amazon has held talks with several partners for handling specific tasks on the AI-powered Alexa, including Uber, Ticketmaster, and Instacart &lpar;Eugene Kim/Business Insider&rpar;](http://www.techmeme.com/241118/p30#a241118p30)
- - [In the Fifth Circuit, Amazon and SpaceX argued the NLRB, which recently ruled against them, is unconstitutional; the judges questioned their arbitrary deadlines &lpar;Daniel Wiessner/Reuters&rpar;](http://www.techmeme.com/241118/p29#a241118p29)
- - [Dozens of states ask Congress to un-doom the Kids Online Safety Act](https://www.theverge.com/2024/11/18/24299941/state-ag-letter-congress-pass-child-safety-kosa-deadline)
- - [US lawyers will reportedly try to force Google to sell Chrome and unbundle Android](https://www.theverge.com/2024/11/18/24300033/doj-google-monopoly-remedies-search-chrome-android-ai)
- - [Perplexity debuts a shopping feature offering product recommendations, one-click checkout, and more for Pro users in the US, alongside a merchant program &lpar;Ivan Mehta/TechCrunch&rpar;](http://www.techmeme.com/241118/p28#a241118p28)<!-- TECH:END -->
+ - [Google now lets you manage all of your old Nest Cams from the Home app](https://www.theverge.com/2024/11/18/24300125/google-home-nest-manage-iq-indoor-outdoor)
+ - [The best deals on MacBooks right now](https://www.theverge.com/22399419/apple-macbook-air-pro-mac-mini-imac-deals)
+ - [The US Library of Congress says hackers accessed some email communications between congressional offices and library staff between January and September 2024 &lpar;NBC News&rpar;](http://www.techmeme.com/241118/p31#a241118p31)
+ - [Tesla’s first 500kW V4 Superchargers are coming next year](https://www.theverge.com/2024/11/18/24300040/tesla-500kw-v4-supercharger-cabinets-first-2025)
+ - [Amazon Black Friday Deals 2024: Here Are 25-Plus Black Friday Deals to Shop Before the Sale Begins](https://www.cnet.com/deals/best-amazon-black-friday-deals-2024/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

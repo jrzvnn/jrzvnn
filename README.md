@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The UK CMA clears Google&#39;s partnership with Anthropic, finding that Google has not gained &quot;material influence&quot; over the AI startup, following a formal probe &lpar;Upmanyu Trivedi/Bloomberg&rpar;](http://www.techmeme.com/241119/p13#a241119p13)
- - [Instagram says it is testing letting users reset the algorithmic suggestions that power Feed, Reels, and Explore, and the update &quot;will soon roll out globally&quot; &lpar;Karissa Bell/Engadget&rpar;](http://www.techmeme.com/241119/p12#a241119p12)
- - [16 Gift Ideas for the Home Chef &lpar;2024&rpar;: Vitamix, Cookbooks](https://www.wired.com/gallery/gift-for-the-home-chef-2024/)
- - [Best Gifts for Gamers for the Holidays 2024](https://www.cnet.com/tech/gaming/best-gifts-for-gamers/#ftag=CAD590a51e)
- - [Best Cordless Vacuums of 2024: A New Winner Tops the List](https://www.cnet.com/home/kitchen-and-household/best-cordless-vacuum/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [5 Best Travel Mugs &lpar;2024&rpar;, Tested and Reviewed](https://www.wired.com/gallery/best-travel-mugs/)
+ - [The Norwegian Company Blamed for California&#39;s Hydrogen Car Woes](https://www.wired.com/story/the-norwegian-company-blamed-for-californias-hydrogen-car-woes/)
+ - [Best Home Security Cameras With Floodlights in 2024](https://www.cnet.com/home/security/best-floodlight-home-security-cameras/#ftag=CAD590a51e)
+ - [Instagram will let you rebuild your recommendations from scratch](https://www.theverge.com/2024/11/19/24300458/instagram-reset-content-recommendations-from-scratch)
+ - [Best Robot Vacuums of 2024: Two New Winners Emerge](https://www.cnet.com/home/kitchen-and-household/best-robot-vacuum/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

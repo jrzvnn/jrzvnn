@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Sources: Alibaba, ByteDance, and Meituan have been expanding their AI teams in Silicon Valley in recent months, despite US efforts to stymie Chinese companies &lpar;Eleanor Olcott/Financial Times&rpar;](http://www.techmeme.com/241119/p7#a241119p7)
+ - [Google and Nvidia say Google&#39;s Quantum AI division will use Nvidia&#39;s Eos supercomputer to speed up the design of quantum components &lpar;Ian King/Bloomberg&rpar;](http://www.techmeme.com/241119/p6#a241119p6)
+ - [ICE Can Already Sidestep Sanctuary City Laws Through Data-Sharing Fusion Centers](https://www.wired.com/story/ice-sanctuary-cities-fusion-centers/)
  - [Sources: Sony is in talks to acquire Kadokawa, the Japanese media powerhouse behind the Elden Ring game, in the coming weeks; Kadokawa had a ~$2.7B market cap &lpar;Reuters&rpar;](http://www.techmeme.com/241119/p5#a241119p5)
- - [Best Internet Providers in Oklahoma](https://www.cnet.com/home/internet/best-internet-providers-in-oklahoma/#ftag=CAD590a51e)
- - [Social media users criticize Coca-Cola over an AI-generated Christmas video; many creatives say it is distasteful to use AI tech instead of the work of artists &lpar;Bruna Horvath/NBC News&rpar;](http://www.techmeme.com/241119/p4#a241119p4)
- - [Best Pizza Ovens for 2024](https://www.cnet.com/home/kitchen-and-household/best-pizza-oven/#ftag=CAD590a51e)
- - [Atomico: European startups are on track to raise $45B in 2024, down from $47B in 2023, with only $3B in IPO value and $10B in M&amp;A through mid-November &lpar;Ingrid Lunden/TechCrunch&rpar;](http://www.techmeme.com/241119/p3#a241119p3)<!-- TECH:END -->
+ - [Best Internet Providers in Oklahoma](https://www.cnet.com/home/internet/best-internet-providers-in-oklahoma/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

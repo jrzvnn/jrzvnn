@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Source: Databricks has told investors it is looking to raise $7B to $9B at a ~$61B valuation, to cash out employees that hold restricted stock units &lpar;Cory Weinberg/The Information&rpar;](http://www.techmeme.com/241119/p43#a241119p43)
  - [Sony launches cloud streaming on the PlayStation Portal in beta, letting PlayStation Plus Premium subscribers in some countries stream select PS5 games &lpar;Jay Peters/The Verge&rpar;](http://www.techmeme.com/241119/p42#a241119p42)
  - [Coinbase says it will delist wBTC next month, as Justin Sun gains influence over the wBTC protocol; Coinbase launched its wrapped bitcoin, cbBTC, in September &lpar;Daniel Kuhn/The Block&rpar;](http://www.techmeme.com/241119/p41#a241119p41)
  - [Amazon says Amazon Music Unlimited subscribers in the US, the UK, and Canada can now listen to one audiobook per month from Audible&#39;s catalog for free &lpar;Ivan Mehta/TechCrunch&rpar;](http://www.techmeme.com/241119/p40#a241119p40)
- - [Apple has officially ended its butterfly keyboard repair program for MacBooks](https://appleinsider.com/articles/24/11/19/apple-has-officially-ended-its-butterfly-keyboard-repair-problem-for-macbooks?utm_medium=rss)
- - [Here are the best Black Friday deals you can already get](https://www.theverge.com/24293826/best-early-black-friday-deals-2024-amazon-walmart-buy-target-tech-sale)<!-- TECH:END -->
+ - [Apple has officially ended its butterfly keyboard repair program for MacBooks](https://appleinsider.com/articles/24/11/19/apple-has-officially-ended-its-butterfly-keyboard-repair-problem-for-macbooks?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

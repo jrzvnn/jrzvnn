@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Jay Z\u2019s priceless expression. Courtesy: Paul](http://9gag.com/gag/aBymMwO)
- - 😝 [Bangladeshis are destroying science related books form students saying there is only one book](http://9gag.com/gag/a1mWnXY)
- - 💣 [Detainee slips cuffs and distracts driving cop, causes a wreck and gets ejected.](http://9gag.com/gag/ayNeVvq)
+ - 😝 [Popcorn Ceiling Removal](http://9gag.com/gag/a87GXZ3)
+ - 😝 [Detainee slips cuffs and distracts driving cop, causes a wreck and gets ejected.](http://9gag.com/gag/ayNeVvq)
+ - 💣 [Airboat Racing](http://9gag.com/gag/abAGLBE)
  - 😝 [Imagine if your favourite dim sum came alive to explore Hong Kong\ud83e\udd2f!](http://9gag.com/gag/abAGLgB)
- - 👉 [Airboat Racing](http://9gag.com/gag/abAGLBE)<!-- MEMES:END -->
+ - 👉 [Air quality India](http://9gag.com/gag/aAyeLzo)<!-- MEMES:END -->
 
 ---
 

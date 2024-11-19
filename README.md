@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Sony’s new flagship A1 II has trickle-up features from cheaper cameras](https://www.theverge.com/2024/11/19/24299611/sony-a1-ii-flagship-mirrorless-pro-camera-sel2870gm-lens-announcement-price)
+ - [A recent Chrome update broke text highlighting on a bunch of sites](https://www.theverge.com/2024/11/19/24300531/chrome-chromium-text-highlighting-invisible-websites-tailwind-css)
  - [Microsoft says it has the largest enterprise AI agent ecosystem, with 100K+ orgs making or editing AI agents in Copilot Studio and &quot;2x growth in just a quarter&quot; &lpar;Matt Marshall/VentureBeat&rpar;](http://www.techmeme.com/241119/p25#a241119p25)
  - [App Store revenue grew more than usual in October](https://appleinsider.com/articles/24/11/19/app-store-revenue-grew-more-than-usual-in-october?utm_medium=rss)
- - [Smart ring maker Oura raised a $75M Series D from medical device company Dexcom at a $5B+ valuation, up from $2.6B in 2022 &lpar;Mark Gurman/Bloomberg&rpar;](http://www.techmeme.com/241119/p24#a241119p24)
- - [Rox, which is developing AI-powered agents for salespeople, raised $50M across seed led by Sequoia and Series A led by General Catalyst &lpar;Paayal Zaveri/Bloomberg&rpar;](http://www.techmeme.com/241119/p23#a241119p23)
- - [Google May Be Asked to Sell Chrome Browser by DOJ](https://www.cnet.com/tech/services-and-software/google-may-be-asked-to-sell-chrome-browser-by-doj/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Smart ring maker Oura raised a $75M Series D from medical device company Dexcom at a $5B+ valuation, up from $2.6B in 2022 &lpar;Mark Gurman/Bloomberg&rpar;](http://www.techmeme.com/241119/p24#a241119p24)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Coinbase says it will delist wBTC next month, as Justin Sun gains influence over the wBTC protocol; Coinbase launched its wrapped bitcoin, cbBTC, in September &lpar;Daniel Kuhn/The Block&rpar;](http://www.techmeme.com/241119/p41#a241119p41)
  - [Amazon says Amazon Music Unlimited subscribers in the US, the UK, and Canada can now listen to one audiobook per month from Audible&#39;s catalog for free &lpar;Ivan Mehta/TechCrunch&rpar;](http://www.techmeme.com/241119/p40#a241119p40)
- - [Apple has officially ended its butterfly keyboard repair problem for MacBooks](https://appleinsider.com/articles/24/11/19/apple-has-officially-ended-its-butterfly-keyboard-repair-problem-for-macbooks?utm_medium=rss)
+ - [Apple has officially ended its butterfly keyboard repair program for MacBooks](https://appleinsider.com/articles/24/11/19/apple-has-officially-ended-its-butterfly-keyboard-repair-problem-for-macbooks?utm_medium=rss)
  - [Here are the best Black Friday deals you can already get](https://www.theverge.com/24293826/best-early-black-friday-deals-2024-amazon-walmart-buy-target-tech-sale)
- - [Save Up to 38% on KitchenAid Stand Mixer Accessories With This Early Black Friday Deal](https://www.cnet.com/deals/save-up-to-38-on-kitchenaid-stand-mixer-accessories-with-this-early-black-friday-deal/#ftag=CAD590a51e)
- - [This website unearths YouTube’s lost and forgotten iPhone clips](https://www.theverge.com/2024/11/19/24300866/img-0001-old-youtube-video-randomizer)<!-- TECH:END -->
+ - [Save Up to 38% on KitchenAid Stand Mixer Accessories With This Early Black Friday Deal](https://www.cnet.com/deals/save-up-to-38-on-kitchenaid-stand-mixer-accessories-with-this-early-black-friday-deal/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

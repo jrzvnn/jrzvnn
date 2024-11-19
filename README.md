@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Hey my new GPU!!](http://9gag.com/gag/aD24qyK)
- - 😝 [Arcane is a secret anti-woke propaganda](http://9gag.com/gag/aMVx63W)
- - 💣 [Mike Tyson&#39;s last visit to Mohammad Ali before the later&lpar;the Champ&rpar; died.](http://9gag.com/gag/avyzVRd)
- - 😝 [He got what he deserved! Pet Lion attacked invited guest at home who was treating Lion as domestic Cat, Experts living with lions understand the psychology of lions, they have a good understanding of the changing mood of lions.](http://9gag.com/gag/a2vWAzY)
- - 👉 [I gotta stop doing dis.](http://9gag.com/gag/aXPg3Ez)<!-- MEMES:END -->
+ - 😝 [How about that.](http://9gag.com/gag/aBymNXD)
+ - 😝 [Switzerland: 17-year-old asylum seeker from Afghanistan puts on the crown of the Black Madonna in front of praying Christians at the Einsiedeln Abbey Church.](http://9gag.com/gag/aD249ex)
+ - 💣 [Bangladeshis are destroying science related books form students saying there is only one book](http://9gag.com/gag/a1mWnXY)
+ - 😝 [Post](http://9gag.com/gag/awyBDqy)
+ - 👉 [Jay Z\u2019s priceless expression. Courtesy: Paul](http://9gag.com/gag/aBymMwO)<!-- MEMES:END -->
 
 ---
 

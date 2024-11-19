@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Apple releases security updates for iOS 18.1.1, iPadOS 18.1.1, macOS 15.1.1](https://appleinsider.com/articles/24/11/19/apple-releases-security-updates-for-ios-1811-ipados-1811-macos-1511?utm_medium=rss)
  - [Leak: Valve is making a Steam Controller 2 and a ‘Roy’ for its Deckard](https://www.theverge.com/games/2024/11/19/24300757/valve-steam-controller-2-roy-deckard-leak)
  - [Google Gemini can remember things now](https://www.theverge.com/2024/11/19/24300709/google-gemini-chatbot-memory)
  - [CrowdStrike finds another China-linked group breaching telecommunications networks, in SEA and Africa, since at least 2020, to spy on texts and call metadata &lpar;Sam Sabin/Axios&rpar;](http://www.techmeme.com/241119/p31#a241119p31)
- - [Minecraft to follow live-action movie with theme parks](https://www.theverge.com/2024/11/19/24300607/minecraft-theme-park-attractions-merlin-entertainment)
- - [Robinhood agrees to buy TradePMR, a custodial and portfolio management platform for registered investment advisors, in a $300M deal expected to close in H1 2025 &lpar;Paige Smith/Bloomberg&rpar;](http://www.techmeme.com/241119/p30#a241119p30)<!-- TECH:END -->
+ - [Minecraft to follow live-action movie with theme parks](https://www.theverge.com/2024/11/19/24300607/minecraft-theme-park-attractions-merlin-entertainment)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

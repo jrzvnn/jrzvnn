@@ -158,10 +158,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- TECH:START -->
  - [How to enable and use RCS for secure cross-platform messaging](https://appleinsider.com/inside/ios-18/tips/how-to-enable-and-use-rcs-for-secure-cross-platform-messaging?utm_medium=rss)
- - [Bluesky is booming partly because it isn&#39;t hindered by bad adtech, AI slop, throttled links, and largely hostile user experiences, unlike some of its big rivals &lpar;Brian Merchant/Blood in the Machine&rpar;](http://www.techmeme.com/241118/p34#a241118p34)
- - [Apple to increase Indonesia investment tenfold to appeal iPhone 16 ban](https://appleinsider.com/articles/24/11/19/apple-to-increase-indonesia-investment-tenfold-to-appeal-iphone-16-ban?utm_medium=rss)
- - [Memo: Amazon employees have found there is too much of a delay between asking a question to the new AI-based Alexa and getting a response or completing a task &lpar;Jason Del Rey/Fortune&rpar;](http://www.techmeme.com/241118/p33#a241118p33)
- - [Best Internet Providers in Myrtle Beach, South Carolina](https://www.cnet.com/home/internet/best-internet-providers-in-myrtle-beach-sc/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Today&#39;s NYT Connections Hints, Answers and Help for Nov. 19, #527](https://www.cnet.com/tech/gaming/todays-nyt-connections-hints-answers-and-help-for-nov-19-527/#ftag=CAD590a51e)
+ - [Today&#39;s NYT Connections: Sports Edition Hints and Answers for Nov. 19, #57](https://www.cnet.com/tech/gaming/todays-nyt-connections-sports-edition-hints-and-answers-for-nov-19-57/#ftag=CAD590a51e)
+ - [Today&#39;s NYT Strands Hints, Answers and Help for Nov. 19, #261](https://www.cnet.com/tech/gaming/todays-nyt-strands-hints-answers-and-help-for-nov-19-261/#ftag=CAD590a51e)
+ - [Today&#39;s Wordle Hints, Answer and Help for Nov. 19, #1249](https://www.cnet.com/tech/gaming/todays-wordle-hints-answer-and-help-for-nov-19-1249/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Sources: Huawei is designing its next two Ascend chips around a 7nm architecture, meaning its marquee chips will be stuck with aging tech until at least 2026 &lpar;Bloomberg&rpar;](http://www.techmeme.com/241119/p8#a241119p8)
  - [Sources: Alibaba, ByteDance, and Meituan have been expanding their AI teams in Silicon Valley in recent months, despite US efforts to stymie Chinese companies &lpar;Eleanor Olcott/Financial Times&rpar;](http://www.techmeme.com/241119/p7#a241119p7)
  - [Google and Nvidia say Google&#39;s Quantum AI division will use Nvidia&#39;s Eos supercomputer to speed up the design of quantum components &lpar;Ian King/Bloomberg&rpar;](http://www.techmeme.com/241119/p6#a241119p6)
  - [ICE Can Already Sidestep Sanctuary City Laws Through Data-Sharing Fusion Centers](https://www.wired.com/story/ice-sanctuary-cities-fusion-centers/)
- - [Sources: Sony is in talks to acquire Kadokawa, the Japanese media powerhouse behind the Elden Ring game, in the coming weeks; Kadokawa had a ~$2.7B market cap &lpar;Reuters&rpar;](http://www.techmeme.com/241119/p5#a241119p5)
- - [Best Internet Providers in Oklahoma](https://www.cnet.com/home/internet/best-internet-providers-in-oklahoma/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Sources: Sony is in talks to acquire Kadokawa, the Japanese media powerhouse behind the Elden Ring game, in the coming weeks; Kadokawa had a ~$2.7B market cap &lpar;Reuters&rpar;](http://www.techmeme.com/241119/p5#a241119p5)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

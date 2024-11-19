@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [No one stops the A train](http://9gag.com/gag/ajP93yQ)
- - 😝 [Probably not good to stir that with your arm but I\u2019m no doctor.](http://9gag.com/gag/ayNeZwV)
- - 💣 [Mike Tyson&#39;s last visit to Mohammad Ali before the later&lpar;the Champ&rpar; died.](http://9gag.com/gag/avyzVRd)
- - 😝 [Hey my new GPU!!](http://9gag.com/gag/aD24qyK)
- - 👉 [Superheroes](http://9gag.com/gag/aXPgmjv)<!-- MEMES:END -->
+ - 😝 [Bangladeshis are destroying science related books form students saying there is only one book](http://9gag.com/gag/a1mWnXY)
+ - 😝 [German Burgergeld. If you ever wonder why all migrants destination is Germany.](http://9gag.com/gag/a87GOWY)
+ - 💣 [Air quality India](http://9gag.com/gag/aAyeLzo)
+ - 😝 [Airboat Racing](http://9gag.com/gag/abAGLBE)
+ - 👉 [Mike Tyson&#39;s last visit to Mohammad Ali before the later&lpar;the Champ&rpar; died.](http://9gag.com/gag/avyzVRd)<!-- MEMES:END -->
 
 ---
 

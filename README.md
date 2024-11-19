@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Bose acquires premium audio brand McIntosh](https://www.theverge.com/2024/11/19/24300618/bose-mcintosh-group-audio-acquisition)
+ - [Netflix has a perfectly timed Razzlekhan doc coming out in December](https://www.theverge.com/2024/11/19/24300651/netflix-razzlekhan-documentary-trailer-release-date)
  - [Kong, which helps customers manage APIs, raised a $175M Series E co-led by Tiger Global and Balderton at a $2B valuation, taking its total raised to $345M &lpar;Katie Roof/Bloomberg&rpar;](http://www.techmeme.com/241119/p29#a241119p29)
  - [Bluesky has 20M+ users after hitting 15M on Nov. 13; Appfigures: it&#39;s been #1 in US App Store since Nov. 13; Similarweb: its DAU gap with Threads is narrowing &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/241119/p28#a241119p28)
- - [Apple shifts to internal advertising sales for Apple News](https://appleinsider.com/articles/24/11/19/apple-shifts-to-internal-advertising-sales-for-apple-news?utm_medium=rss)
- - [Leak: what law enforcement can unlock with the &#39;Graykey&#39; iPhone hacking tool](https://appleinsider.com/articles/24/11/19/leak-what-law-enforcement-can-unlock-with-the-graykey-iphone-hacking-tool?utm_medium=rss)
- - [25 Best Early Black Friday Deals of 2024 to Shop Right Now](https://www.wired.com/story/early-black-friday-deals-2024-1/)<!-- TECH:END -->
+ - [Apple shifts to internal advertising sales for Apple News](https://appleinsider.com/articles/24/11/19/apple-shifts-to-internal-advertising-sales-for-apple-news?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Rox, which is developing AI-powered agents for salespeople, raised $50M across seed led by Sequoia and Series A led by General Catalyst &lpar;Paayal Zaveri/Bloomberg&rpar;](http://www.techmeme.com/241119/p23#a241119p23)
  - [Amazon Music Unlimited now includes a free audiobook each month](https://www.theverge.com/2024/11/19/24300506/amazon-music-unlimited-free-audiobook-audible)
  - [Networking chip startup Enfabrica raised a $115M Series C led by Spark Capital and unveils a 3.2TB-per-second accelerated compute fabric of ACF SuperNIC chip &lpar;Mike Wheatley/SiliconANGLE&rpar;](http://www.techmeme.com/241119/p22#a241119p22)
  - [Control 2 will be an action RPG](https://www.theverge.com/2024/11/19/24300511/control-2-action-rpg)
- - [You Can Now Buy Lab-Grown Foie Gras](https://www.wired.com/story/you-can-now-buy-lab-grown-foie-gras-vow-cultivated-meat/)
- - [The best Nintendo Switch controllers to buy right now](https://www.theverge.com/23350899/nintendo-switch-controllers-best-wireless-joy-con-gamepad)<!-- TECH:END -->
+ - [You Can Now Buy Lab-Grown Foie Gras](https://www.wired.com/story/you-can-now-buy-lab-grown-foie-gras-vow-cultivated-meat/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

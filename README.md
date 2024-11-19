@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [The empire squats back](http://9gag.com/gag/aRB7Wv7)
- - 😝 [We need to stop benefit immigration.](http://9gag.com/gag/an74WDo)
- - 💣 [IWouldHaveStillUsedTheInternet](http://9gag.com/gag/a87G99e)
- - 😝 [Air quality India](http://9gag.com/gag/aAyeLzo)
- - 👉 [Careful, men having fun](http://9gag.com/gag/ae9DyvB)<!-- MEMES:END -->
+ - 😝 [How dafuq does he do this???](http://9gag.com/gag/aAyeAG9)
+ - 😝 [Robert DuBoise on the day of his arrest at age 18, and the day he was freed from prison by DNA at 56.](http://9gag.com/gag/aBymMQz)
+ - 💣 [Detainee slips cuffs and distracts driving cop, causes a wreck and gets ejected.](http://9gag.com/gag/ayNeVvq)
+ - 😝 [That was painful to watch](http://9gag.com/gag/an74ZKB)
+ - 👉 [Pizza boxes next week: Caution, contents may be slippery when stepped on](http://9gag.com/gag/aqynBoP)<!-- MEMES:END -->
 
 ---
 

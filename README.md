@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [This website unearths YouTube’s lost and forgotten iPhone clips](https://www.theverge.com/2024/11/19/24300866/img-0001-old-youtube-video-randomizer)
  - [Qualcomm expects its automotive and IoT businesses to drive combined revenues of $22B by FY 2029, including $8B from automotive chips and $4B from PC chips &lpar;Ian King/Bloomberg&rpar;](http://www.techmeme.com/241119/p39#a241119p39)
  - [Sony’s new PlayStation Portal update lets you stream PS5 games from the cloud](https://www.theverge.com/2024/11/19/24300991/playstation-portal-cloud-streaming-update-beta-ps5-games)
  - [Alexa may get smarter with more APIs rather than more AI](https://www.theverge.com/2024/11/19/24300764/amazon-partnership-uber-ticketmaster-smarter-alexa)
- - [A bipartisan US congressional commission on US-China relations proposes a Manhattan Project-style initiative to fund the development of AGI systems &lpar;Reuters&rpar;](http://www.techmeme.com/241119/p38#a241119p38)
- - [Microsoft Teams&#39; AI Language Interpreter Will Mimic Your Voice](https://www.cnet.com/tech/services-and-software/microsoft-teams-ai-language-interpreter-will-mimic-your-voice/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [A bipartisan US congressional commission on US-China relations proposes a Manhattan Project-style initiative to fund the development of AGI systems &lpar;Reuters&rpar;](http://www.techmeme.com/241119/p38#a241119p38)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

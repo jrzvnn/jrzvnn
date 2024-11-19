@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Stop pushing education in our throats this is just not our thing](http://9gag.com/gag/ajP9jAG)
- - 😝 [Chair catch by a Waffle House employee](http://9gag.com/gag/aO87E0M)
- - 💣 [Jay Z\u2019s priceless expression. Courtesy: Paul](http://9gag.com/gag/aBymMwO)
- - 😝 [Post](http://9gag.com/gag/awyBDqy)
- - 👉 [Hey my new GPU!!](http://9gag.com/gag/aD24qyK)<!-- MEMES:END -->
+ - 😝 [Do you heal from this?](http://9gag.com/gag/axy9eDK)
+ - 😝 [How is this guy still alive](http://9gag.com/gag/adBV4PB)
+ - 💣 [Bangladeshis are destroying science related books form students saying there is only one book](http://9gag.com/gag/a1mWnXY)
+ - 😝 [That sign is wild](http://9gag.com/gag/a9yn4LD)
+ - 👉 [Jay Z\u2019s priceless expression. Courtesy: Paul](http://9gag.com/gag/aBymMwO)<!-- MEMES:END -->
 
 ---
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Hospital horror story](http://9gag.com/gag/ae9DPAW)
+ - 😝 [How fast a trained dog recognizes danger](http://9gag.com/gag/aryVdwp)
  - 😝 [Airboat Racing](http://9gag.com/gag/abAGLBE)
- - 💣 [No one stops the A train](http://9gag.com/gag/ajP93yQ)
+ - 💣 [Hospital horror story](http://9gag.com/gag/ae9DPAW)
  - 😝 [Imagine if your favourite dim sum came alive to explore Hong Kong\ud83e\udd2f!](http://9gag.com/gag/abAGLgB)
- - 👉 [Hey my new GPU!!](http://9gag.com/gag/aD24qyK)<!-- MEMES:END -->
+ - 👉 [Air quality India](http://9gag.com/gag/aAyeLzo)<!-- MEMES:END -->
 
 ---
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [You geh?](http://9gag.com/gag/amovQ9V)
  - 😝 [Hiker El G\u00fcero Ingl\u00e9s was lost in the Peruvian mountains, then a stray dog arrived to show him the way. `I decided to follow him and he saved me,\u201d he told local newspaper.](http://9gag.com/gag/aNDgGdb)
- - 💣 [Take my money !](http://9gag.com/gag/a7oWB2m)
+ - 😝 [Take my money !](http://9gag.com/gag/a7oWB2m)
+ - 💣 [We need to stop benefit immigration.](http://9gag.com/gag/an74WDo)
  - 😝 [Imagine if your favourite dim sum came alive to explore Hong Kong\ud83e\udd2f!](http://9gag.com/gag/abAGLgB)
- - 👉 [We need to stop benefit immigration.](http://9gag.com/gag/an74WDo)<!-- MEMES:END -->
+ - 👉 [Air quality India](http://9gag.com/gag/aAyeLzo)<!-- MEMES:END -->
 
 ---
 

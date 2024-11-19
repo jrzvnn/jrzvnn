@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Save up to $1,000 on iPads with early Black Friday flash deals](https://appleinsider.com/articles/24/11/17/save-up-to-1000-on-ipads-this-weekend-with-early-black-friday-flash-deals?utm_medium=rss)
- - [Aqara’s new DIY-ready smart water shutoff works in more smart homes with Matter](https://www.theverge.com/2024/11/19/24300676/aqara-smart-home-valve-controller-t1-available-water-leaks-matter)
- - [Earn 3% Daily Cash back with Apple Card at ChargePoint and Booking.com](https://appleinsider.com/articles/24/11/19/earn-3-daily-cash-back-with-apple-card-at-chargepoint-and-bookingcom?utm_medium=rss)
- - [Google rolls out a &quot;memory&quot; feature for Gemini Advanced subscribers for the web app that remembers a user&#39;s interests and preferences &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/241119/p33#a241119p33)
- - [Android 16 is now available for early testers](https://www.theverge.com/2024/11/19/24300673/android-16-developer-preview-availability-release-timeline)<!-- TECH:END -->
+ - [Control Ultimate Edition will land on Mac February 12, 2025](https://appleinsider.com/articles/24/11/19/control-ultimate-edition-will-land-on-mac-february-12-2025?utm_medium=rss)
+ - [Netflix says the Jake Paul vs. Mike Tyson fight was ‘the most-streamed sporting event ever’](https://www.theverge.com/2024/11/19/24300814/netflix-jake-paul-mike-tyson-most-streamed-sporting-event)
+ - [The best smartwatches for Android](https://www.theverge.com/23449363/best-android-smartwatches-wear-os)
+ - [How Fans Saved Sexypedia From Being Erased From the Internet](https://www.wired.com/story/how-fans-saved-sexypedia-from-being-erased-from-the-internet/)
+ - [The 50 Best Shows on Disney+ Right Now &lpar;November 2024&rpar;](https://www.wired.com/story/best-shows-disney-plus/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

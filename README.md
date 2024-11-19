@@ -167,10 +167,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [How dafuq does he do this???](http://9gag.com/gag/aAyeAG9)
- - 😝 [Hey my new GPU!!](http://9gag.com/gag/aD24qyK)
- - 💣 [Jay Z\u2019s priceless expression. Courtesy: Paul](http://9gag.com/gag/aBymMwO)
- - 😝 [Karen in action.](http://9gag.com/gag/aRB7GgB)
- - 👉 [Switzerland: 17-year-old asylum seeker from Afghanistan puts on the crown of the Black Madonna in front of praying Christians at the Einsiedeln Abbey Church.](http://9gag.com/gag/aD249ex)<!-- MEMES:END -->
+ - 😝 [Airboat Racing](http://9gag.com/gag/abAGLBE)
+ - 💣 [Hey my new GPU!!](http://9gag.com/gag/aD24qyK)
+ - 😝 [Mike Tyson&#39;s last visit to Mohammad Ali before the later&lpar;the Champ&rpar; died.](http://9gag.com/gag/avyzVRd)
+ - 👉 [Karen in action.](http://9gag.com/gag/aRB7GgB)<!-- MEMES:END -->
 
 ---
 

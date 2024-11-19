@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Android 16 is now available for early testers](https://www.theverge.com/2024/11/19/24300673/android-16-developer-preview-availability-release-timeline)
  - [Meta is forming a new product group to build AI tools for businesses, led by Clara Shih, most recently the CEO of Salesforce AI &lpar;Sara Fischer/Axios&rpar;](http://www.techmeme.com/241119/p32#a241119p32)
  - [Apple releases security updates for iOS 18.1.1, iPadOS 18.1.1, macOS 15.1.1](https://appleinsider.com/articles/24/11/19/apple-releases-security-updates-for-ios-1811-ipados-1811-macos-1511?utm_medium=rss)
  - [Leak: Valve is making a Steam Controller 2 and a ‘Roy’ for its Deckard](https://www.theverge.com/games/2024/11/19/24300757/valve-steam-controller-2-roy-deckard-leak)
- - [Google Gemini can remember things now](https://www.theverge.com/2024/11/19/24300709/google-gemini-chatbot-memory)
- - [CrowdStrike finds another China-linked group breaching telecommunications networks, in SEA and Africa, since at least 2020, to spy on texts and call metadata &lpar;Sam Sabin/Axios&rpar;](http://www.techmeme.com/241119/p31#a241119p31)<!-- TECH:END -->
+ - [Google Gemini can remember things now](https://www.theverge.com/2024/11/19/24300709/google-gemini-chatbot-memory)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

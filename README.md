@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [How dafuq does he do this???](http://9gag.com/gag/aAyeAG9)
- - 😝 [Robert DuBoise on the day of his arrest at age 18, and the day he was freed from prison by DNA at 56.](http://9gag.com/gag/aBymMQz)
- - 💣 [Detainee slips cuffs and distracts driving cop, causes a wreck and gets ejected.](http://9gag.com/gag/ayNeVvq)
- - 😝 [That was painful to watch](http://9gag.com/gag/an74ZKB)
- - 👉 [Pizza boxes next week: Caution, contents may be slippery when stepped on](http://9gag.com/gag/aqynBoP)<!-- MEMES:END -->
+ - 😝 [IWouldHaveStillUsedTheInternet](http://9gag.com/gag/a87G99e)
+ - 😝 [Come to church, meet some friends man.](http://9gag.com/gag/a7oWB3b)
+ - 💣 [Oh no](http://9gag.com/gag/aYQy6VO)
+ - 😝 [Careful, men having fun](http://9gag.com/gag/ae9DyvB)
+ - 👉 [Air quality India](http://9gag.com/gag/aAyeLzo)<!-- MEMES:END -->
 
 ---
 

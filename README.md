@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [How fast a trained dog recognizes danger](http://9gag.com/gag/aryVdwp)
- - 😝 [Airboat Racing](http://9gag.com/gag/abAGLBE)
- - 💣 [Hospital horror story](http://9gag.com/gag/ae9DPAW)
+ - 😝 [The definition of your life flashing before your eyes](http://9gag.com/gag/aD24rvG)
+ - 😝 [Happy Monday](http://9gag.com/gag/aO87ALy)
+ - 💣 [Air quality India](http://9gag.com/gag/aAyeLzo)
  - 😝 [Imagine if your favourite dim sum came alive to explore Hong Kong\ud83e\udd2f!](http://9gag.com/gag/abAGLgB)
- - 👉 [Air quality India](http://9gag.com/gag/aAyeLzo)<!-- MEMES:END -->
+ - 👉 [Pizza boxes next week: Caution, contents may be slippery when stepped on](http://9gag.com/gag/aqynBoP)<!-- MEMES:END -->
 
 ---
 

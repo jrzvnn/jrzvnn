@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [How dafuq does he do this???](http://9gag.com/gag/aAyeAG9)
- - 😝 [Karen in action.](http://9gag.com/gag/aRB7GgB)
- - 💣 [A good host always provides refreshments to his guests..](http://9gag.com/gag/adBVwKN)
- - 😝 [Mike Tyson&#39;s last visit to Mohammad Ali before the later&lpar;the Champ&rpar; died.](http://9gag.com/gag/avyzVRd)
- - 👉 [Switzerland: 17-year-old asylum seeker from Afghanistan puts on the crown of the Black Madonna in front of praying Christians at the Einsiedeln Abbey Church.](http://9gag.com/gag/aD249ex)<!-- MEMES:END -->
+ - 😝 [Not her first rodeo!](http://9gag.com/gag/aKG75QO)
+ - 😝 [Just to remind you](http://9gag.com/gag/avyzwod)
+ - 💣 [German Burgergeld. If you ever wonder why all migrants destination is Germany.](http://9gag.com/gag/a87GOWY)
+ - 😝 [Anna Cramling &lpar;on the right&rpar; created an opening she calls `the Cow` -- an opening that she admits is not very strong, but she wanted to be able to say she had created an opening. Alessia Santeramo &lpar;left&rpar; Just before the game started, asked `Do you want to play the Cow opening?`](http://9gag.com/gag/an74wEq)
+ - 👉 [Do men even have feeling ??](http://9gag.com/gag/a2vWVpO)<!-- MEMES:END -->
 
 ---
 

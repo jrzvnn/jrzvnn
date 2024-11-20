@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [GSMA: 4.6B people are now connected to mobile internet, or 57% of the world; mobile subscriber growth fell to 160M in 2023, from 200M per year from 2015 to 2021 &lpar;Rest of World&rpar;](http://www.techmeme.com/241120/p21#a241120p21)
  - [This keyboard is a touchscreen that doubles as a second monitor](https://www.theverge.com/2024/11/20/24301361/ds-pixel-keyboard-touchscreen-hdmi-display-kickstarter)
  - [Stellantis’ electric STLA Frame gives vehicles 690 miles of range with an extender](https://www.theverge.com/2024/11/20/24301382/stellantis-stla-frame-ev-platform-specs-ram-rev-ramcharger)
  - [Vision Pro’s viral Lapz app put on hold after F1 complaint](https://www.theverge.com/2024/11/20/24301420/apple-vision-pro-viral-lapz-app-f1-complaint)
- - [Wish Broadband Data Caps Would Go Away? Trump&#39;s Incoming FCC Chair Doesn&#39;t](https://www.cnet.com/home/internet/wish-broadband-data-caps-would-go-away-trumps-incoming-fcc-chair-doesnt/#ftag=CAD590a51e)
- - [Vista sells a minority stake in IT infrastructure monitoring company LogicMonitor to investors in a deal valuing it at ~$2.4B; LogicMonitor also raised $800M &lpar;Ryan Gould/Bloomberg&rpar;](http://www.techmeme.com/241120/p20#a241120p20)<!-- TECH:END -->
+ - [Wish Broadband Data Caps Would Go Away? Trump&#39;s Incoming FCC Chair Doesn&#39;t](https://www.cnet.com/home/internet/wish-broadband-data-caps-would-go-away-trumps-incoming-fcc-chair-doesnt/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

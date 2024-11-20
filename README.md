@@ -160,8 +160,8 @@ R                        1 repo              ░░░░░░░░░░░�
  - [Threads begins rolling out the ability to create custom feeds globally, giving users options beyond &quot;For You&quot; and &quot;Following&quot; feeds &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/241120/p31#a241120p31)
  - [Amazon Just Dropped the Biggest Echo Show Ever](https://www.wired.com/story/amazon-echo-show-21-announced/)
  - [T-Mobile actually stopped some hackers from stealing customer data](https://www.theverge.com/2024/11/20/24301570/t-mobile-network-breach-stopped-salt-typhoon)
- - [Sources: Trump&#39;s team is talking with the crypto industry over whether to create a White House post dedicated to cryptocurrency policy and is vetting candidates &lpar;Bloomberg&rpar;](http://www.techmeme.com/241120/p30#a241120p30)
- - [The New York Times is trying to shut down a popular Connections puzzle creator](https://www.theverge.com/2024/11/20/24301557/new-york-times-connections-creator-take-down)<!-- TECH:END -->
+ - [Apple&#39;s Braided Solo Loop Can Be Yours for Only $30 This Black Friday](https://www.cnet.com/deals/apple-watch-braided-solo-loop-can-be-yours-for-only-30-this-black-friday/#ftag=CAD590a51e)
+ - [Sources: Trump&#39;s team is talking with the crypto industry over whether to create a White House post dedicated to cryptocurrency policy and is vetting candidates &lpar;Bloomberg&rpar;](http://www.techmeme.com/241120/p30#a241120p30)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

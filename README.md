@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Magnus Carlsen blushes when an Indian girl takes his blessings](http://9gag.com/gag/aBymzWz)
- - 😝 [The worst she can say is no](http://9gag.com/gag/a9ynwDj)
- - 💣 [Oh yeah, a classic !](http://9gag.com/gag/aD245e7)
- - 😝 [Karen in action.](http://9gag.com/gag/aRB7GgB)
- - 👉 [Japanese girl in a Cheongsam, different angle](http://9gag.com/gag/a87GN53)<!-- MEMES:END -->
+ - 😝 [Mike Tyson&#39;s last visit to Mohammad Ali before the later&lpar;the Champ&rpar; died.](http://9gag.com/gag/avyzVRd)
+ - 😝 [Oh yeah, a classic !](http://9gag.com/gag/aD245e7)
+ - 💣 [A good host always provides refreshments to his guests..](http://9gag.com/gag/adBVwKN)
+ - 😝 [Call me anytime](http://9gag.com/gag/aqynwKP)
+ - 👉 [The worst she can say is no](http://9gag.com/gag/a9ynwDj)<!-- MEMES:END -->
 
 ---
 

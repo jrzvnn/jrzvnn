@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Probably not good to stir that with your arm but I\u2019m no doctor.](http://9gag.com/gag/ayNeZwV)
- - 😝 [Not her first rodeo!](http://9gag.com/gag/aKG75QO)
- - 💣 [Jay Z\u2019s priceless expression. Courtesy: Paul](http://9gag.com/gag/aBymMwO)
- - 😝 [Y&#39;all really couldn&#39;t find any other games?](http://9gag.com/gag/aGydq85)
- - 👉 [Bangladeshis are destroying science related books form students saying there is only one book](http://9gag.com/gag/a1mWnXY)<!-- MEMES:END -->
+ - 😝 [A mistake you&#39;ll remember for the rest of your life](http://9gag.com/gag/abAGL6O)
+ - 😝 [Karen in action.](http://9gag.com/gag/aRB7GgB)
+ - 💣 [Oh yeah, a classic !](http://9gag.com/gag/aD245e7)
+ - 😝 [Airboat Racing](http://9gag.com/gag/abAGLBE)
+ - 👉 [He got what he deserved! Pet Lion attacked invited guest at home who was treating Lion as domestic Cat, Experts living with lions understand the psychology of lions, they have a good understanding of the changing mood of lions.](http://9gag.com/gag/a2vWAzY)<!-- MEMES:END -->
 
 ---
 

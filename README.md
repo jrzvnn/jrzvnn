@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Google ships the first Android 16 developer preview, far ahead of schedule vs. the past decade, hoping to lower fragmentation by giving manufacturers more time &lpar;Mishaal Rahman/Android Police&rpar;](http://www.techmeme.com/241119/p44#a241119p44)
  - [Source: Databricks has told investors it is looking to raise $7B to $9B at a ~$61B valuation, to cash out employees that hold restricted stock units &lpar;Cory Weinberg/The Information&rpar;](http://www.techmeme.com/241119/p43#a241119p43)
  - [Sony launches cloud streaming on the PlayStation Portal in beta, letting PlayStation Plus Premium subscribers in some countries stream select PS5 games &lpar;Jay Peters/The Verge&rpar;](http://www.techmeme.com/241119/p42#a241119p42)
- - [Coinbase says it will delist wBTC next month, as Justin Sun gains influence over the wBTC protocol; Coinbase launched its wrapped bitcoin, cbBTC, in September &lpar;Daniel Kuhn/The Block&rpar;](http://www.techmeme.com/241119/p41#a241119p41)
- - [Amazon says Amazon Music Unlimited subscribers in the US, the UK, and Canada can now listen to one audiobook per month from Audible&#39;s catalog for free &lpar;Ivan Mehta/TechCrunch&rpar;](http://www.techmeme.com/241119/p40#a241119p40)
- - [Apple has officially ended its butterfly keyboard repair program for MacBooks](https://appleinsider.com/articles/24/11/19/apple-has-officially-ended-its-butterfly-keyboard-repair-problem-for-macbooks?utm_medium=rss)<!-- TECH:END -->
+ - [Our Favorite Easy Ways to Save on Energy Costs Around the Home](https://www.cnet.com/how-to/our-favorite-easy-ways-to-save-on-energy-costs-around-the-home/#ftag=CAD590a51e)
+ - [Coinbase says it will delist wBTC next month, as Justin Sun gains influence over the wBTC protocol; Coinbase launched its wrapped bitcoin, cbBTC, in September &lpar;Daniel Kuhn/The Block&rpar;](http://www.techmeme.com/241119/p41#a241119p41)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

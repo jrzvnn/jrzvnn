@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Microsoft opens up Xbox Cloud Gaming to existing Xbox game libraries, letting Xbox Game Pass Ultimate subscribers stream 50 supported games they already own &lpar;Tom Warren/The Verge&rpar;](http://www.techmeme.com/241120/p25#a241120p25)
  - [Google’s Drive app is now available for Windows on Arm](https://www.theverge.com/2024/11/20/24301546/google-drive-desktop-app-beta-available-windows-snapdragon-arm-pc)
  - [Xbox cloud streaming expands beyond Game Pass to games you own](https://www.theverge.com/2024/11/20/24300547/xbox-cloud-gaming-game-library-streaming)
  - [The Man Behind Amazon&#39;s Robot Army Wants Everyone to Have an AI-Powered Helper](https://www.wired.com/story/robot-army-proxie-humanoid/)
- - [Ford retracts in Europe with layoffs and lower EV production](https://www.theverge.com/2024/11/20/24301507/ford-retracts-in-europe-with-layoffs-and-lower-ev-production)
- - [Garmin’s Venu Sq 2, our favorite Fitbit alternative, hits its lowest price ever](https://www.theverge.com/2024/11/20/24301486/garmin-venu-sq-2-deal-sale)<!-- TECH:END -->
+ - [Ford retracts in Europe with layoffs and lower EV production](https://www.theverge.com/2024/11/20/24301507/ford-retracts-in-europe-with-layoffs-and-lower-ev-production)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

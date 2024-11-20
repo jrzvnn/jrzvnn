@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Menlo Ventures: business spending on generative AI hit $13.8B in 2024, up from $2.3B in 2023; OpenAI&#39;s marketshare in enterprise AI declined from 50% to 34% &lpar;Hayden Field/CNBC&rpar;](http://www.techmeme.com/241120/p33#a241120p33)
+ - [Sonos’ smart TV plans might have found an OS](https://www.theverge.com/2024/11/20/24301519/sonos-trade-desk-venture-tv-operating-system)
+ - [Chinese AI company DeepSeek unveils DeepSeek-R1-Lite-Preview, a &quot;reasoning&quot; AI model that it claims is competitive with OpenAI&#39;s o1, and plans to open source it &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/241120/p32#a241120p32)
  - [Trump FCC Pick Brendan Carr Wants to Be the Speech Police. That&#39;s Not His Job](https://www.wired.com/story/brendan-carr-fcc-trump-speech-social-media-moderation/)
- - [Apple&#39;s quick App Store takedowns over copyright claims are a nightmare for developers](https://appleinsider.com/articles/24/11/20/apples-quick-app-store-takedowns-over-copyright-claims-are-a-nightmare-for-developers?utm_medium=rss)
- - [Threads begins rolling out the ability to create custom feeds globally, giving users options beyond &quot;For You&quot; and &quot;Following&quot; feeds &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/241120/p31#a241120p31)
- - [Amazon Just Dropped the Biggest Echo Show Ever](https://www.wired.com/story/amazon-echo-show-21-announced/)
- - [T-Mobile actually stopped some hackers from stealing customer data](https://www.theverge.com/2024/11/20/24301570/t-mobile-network-breach-stopped-salt-typhoon)<!-- TECH:END -->
+ - [Apple&#39;s quick App Store takedowns over copyright claims are a nightmare for developers](https://appleinsider.com/articles/24/11/20/apples-quick-app-store-takedowns-over-copyright-claims-are-a-nightmare-for-developers?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

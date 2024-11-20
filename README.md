@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [That was painful to watch](http://9gag.com/gag/an74ZKB)
- - 😝 [Rookie misstake](http://9gag.com/gag/aMVx6LG)
- - 💣 [The worst she can say is no](http://9gag.com/gag/a9ynwDj)
+ - 😝 [German Burgergeld. If you ever wonder why all migrants destination is Germany.](http://9gag.com/gag/a87GOWY)
+ - 😝 [Goodbye, Jaguar.](http://9gag.com/gag/a9yng8K)
+ - 💣 [Oh yeah, a classic !](http://9gag.com/gag/aD245e7)
  - 😝 [Call me anytime](http://9gag.com/gag/aqynwKP)
- - 👉 [Post](http://9gag.com/gag/awyBDqy)<!-- MEMES:END -->
+ - 👉 [Mike Tyson&#39;s last visit to Mohammad Ali before the later&lpar;the Champ&rpar; died.](http://9gag.com/gag/avyzVRd)<!-- MEMES:END -->
 
 ---
 

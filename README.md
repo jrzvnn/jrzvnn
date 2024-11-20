@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [A US Government Accountability Office report says four of six cybersecurity recommendations the agency made to the TSA since 2018 have still not been addressed &lpar;Jonathan Greig/The Record&rpar;](http://www.techmeme.com/241120/p2#a241120p2)
  - [Trump Media has a ~$7B market cap despite struggling to build a profitable revenue stream; Similarweb: Truth Social site visits fell 20% MoM to 10M in October &lpar;Drew Harwell/Washington Post&rpar;](http://www.techmeme.com/241120/p1#a241120p1)
  - [SuperAnnotate, which provides tools for fine-tuning, iterating, and evaluating AI training datasets, raised a $36M Series B led by Socium Ventures &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/241119/p50#a241119p50)
  - [Today&#39;s NYT Mini Crossword Answers for Wednesday, Nov. 20](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-wednesday-nov-20/#ftag=CAD590a51e)
- - [Cloud Gaming Comes to PlayStation Portal](https://www.cnet.com/tech/gaming/cloud-gaming-comes-to-playstation-portal/#ftag=CAD590a51e)
- - [Strava updates its API terms to prohibit third-party apps from showing a user&#39;s Strava data to other users or using the data in AI models or similar apps &lpar;Ray Maker/DC Rainmaker&rpar;](http://www.techmeme.com/241119/p49#a241119p49)<!-- TECH:END -->
+ - [Cloud Gaming Comes to PlayStation Portal](https://www.cnet.com/tech/gaming/cloud-gaming-comes-to-playstation-portal/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

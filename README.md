@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [AI pioneer Yoshua Bengio says models like OpenAI&#39;s o1 could accelerate research on AI itself and calls for more urgent AI regulation to protect the public &lpar;Yoshua Bengio/Financial Times&rpar;](http://www.techmeme.com/241120/p7#a241120p7)
+ - [Design Within Reach Promo Code: 25% Off  | November 2024](https://www.wired.com/story/design-within-reach-promo-code/)
  - [TechInsights: China&#39;s chip self-sufficiency rate rose from ~14% in 2014 to 23% in 2023 and is expected to hit 27% in 2027, as China rushes to boost chip supply &lpar;Nikkei Asia&rpar;](http://www.techmeme.com/241120/p6#a241120p6)
  - [Lisbon-based Tekever, which builds aerial surveillance drones that can serve as the communication and navigation hub for swarms of smaller drones, raised &amp;euro;70M &lpar;Bloomberg&rpar;](http://www.techmeme.com/241120/p5#a241120p5)
- - [10% Off - Newegg Promo Code | November 2024](https://www.wired.com/story/newegg-promo-code/)
- - [The head of the axed &amp;pound;800M UK supercomputer project warns that the UK, which no longer has a machine ranked in the global top 50, risks falling behind rivals &lpar;Anna Gross/Financial Times&rpar;](http://www.techmeme.com/241120/p4#a241120p4)
- - [The US-led crypto rally is leaving its mark in Asia as Bhutan&#39;s BTC holdings reached $1.1B, 36% of its GDP, increased trading activity in South Korea, and more &lpar;Bloomberg&rpar;](http://www.techmeme.com/241120/p3#a241120p3)<!-- TECH:END -->
+ - [10% Off - Newegg Promo Code | November 2024](https://www.wired.com/story/newegg-promo-code/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

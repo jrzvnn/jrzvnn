@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Price cuts fail to prevent iPhone sales drop on China&#39;s Singles Day](https://appleinsider.com/articles/24/11/20/price-cuts-fail-to-prevent-iphone-sales-drop-in-chinas-singles-day?utm_medium=rss)
+ - [Supply chain report says iPhone SE 4 will launch in March 2025](https://appleinsider.com/articles/24/11/20/supply-chain-report-says-iphone-se-4-will-launch-in-march-2025?utm_medium=rss)
+ - [Why Is There So Much Off-Brand Oral Ozempic for Sale Online?](https://www.wired.com/story/telehealth-companies-compounded-glp-1-pills-ozempic-wegovy-novo-nordisk-zepbound-mounjaro-eli-lilly/)
  - [Google Meet’s automatic framing is now available to everyone](https://www.theverge.com/2024/11/20/24301318/google-meet-automatic-framing-webcam-feature-availability)
- - [As OpenAI, Anthropic, and Google reportedly see diminishing AI training returns, a break from the market hype could be useful, just as with previous innovations &lpar;Parmy Olson/Bloomberg&rpar;](http://www.techmeme.com/241120/p15#a241120p15)
- - [Price cuts fail to prevent iPhone sales drop in China&#39;s Singles Day](https://appleinsider.com/articles/24/11/20/price-cuts-fail-to-prevent-iphone-sales-drop-in-chinas-singles-day?utm_medium=rss)
- - [Inside the Booming ‘AI Pimping’ Industry](https://www.wired.com/story/ai-pimping-industry-deepfakes-instagram/)
- - [Get in, Loser—We’re Chasing a Waymo Into the Future](https://www.wired.com/story/waymo-robotaxi-driverless-future/)<!-- TECH:END -->
+ - [As OpenAI, Anthropic, and Google reportedly see diminishing AI training returns, a break from the market hype could be useful, just as with previous innovations &lpar;Parmy Olson/Bloomberg&rpar;](http://www.techmeme.com/241120/p15#a241120p15)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

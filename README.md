@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [German Burgergeld. If you ever wonder why all migrants destination is Germany.](http://9gag.com/gag/a87GOWY)
- - 😝 [The worst she can say is no](http://9gag.com/gag/a9ynwDj)
- - 💣 [Motion capture technology has come a long way](http://9gag.com/gag/abAGnvX)
- - 😝 [Red light](http://9gag.com/gag/a4P3gXm)
- - 👉 [Oh yeah, a classic !](http://9gag.com/gag/aD245e7)<!-- MEMES:END -->
+ - 😝 [Mike Tyson&#39;s last visit to Mohammad Ali before the later&lpar;the Champ&rpar; died.](http://9gag.com/gag/avyzVRd)
+ - 😝 [Japanese girl in a Cheongsam, different angle](http://9gag.com/gag/a87GN53)
+ - 💣 [Lady: her ass is brutal](http://9gag.com/gag/awyBpo8)
+ - 😝 [Trump being Trump](http://9gag.com/gag/aLnwZDv)
+ - 👉 [Motion capture technology has come a long way](http://9gag.com/gag/abAGnvX)<!-- MEMES:END -->
 
 ---
 

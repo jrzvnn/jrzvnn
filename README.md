@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [PVC pipe with duct tape](http://9gag.com/gag/aO87EVy)
- - 😝 [Core IT experience](http://9gag.com/gag/azxmpXp)
- - 💣 [Caretaker trio stuffed 6-year-old in dryer spin cycle and turned it on as punishment for crying over lost bag of chips, police say](http://9gag.com/gag/aoyPoGm)
- - 😝 [Post](http://9gag.com/gag/awyBDqy)
- - 👉 [A good host always provides refreshments to his guests..](http://9gag.com/gag/adBVwKN)<!-- MEMES:END -->
+ - 😝 [The person who unalived Laken Riley has been found guilty on all charges](http://9gag.com/gag/ajP9zqq)
+ - 😝 [Who else knows this gem from the good old days?](http://9gag.com/gag/apRGMnM)
+ - 💣 [Core IT experience](http://9gag.com/gag/azxmpXp)
+ - 😝 [Motion capture technology has come a long way](http://9gag.com/gag/abAGnvX)
+ - 👉 [Post](http://9gag.com/gag/awyBDqy)<!-- MEMES:END -->
 
 ---
 

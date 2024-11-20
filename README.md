@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Nvidia says its Blackwell AI chip is ‘full steam’ ahead](https://www.theverge.com/2024/11/20/24301810/nvidia-blackwell-ai-b200-gb200-full-production-q3-2025-earnings)
+ - [Palo Alto Networks reports Q1 revenue up 14% YoY to $2.14B, vs. $2.12B est., and projects FY 2025 sales in line with estimates; PANW drops 5%+ after hours &lpar;Claudia Assis/MarketWatch&rpar;](http://www.techmeme.com/241120/p37#a241120p37)
+ - [Apple fights to keep DOJ antitrust suit from reaching trial](https://www.theverge.com/2024/11/20/24301660/apple-doj-motion-dismiss-antitrust-lawsuit)
  - [AI landlord screening tool will stop scoring low-income tenants after discrimination suit](https://www.theverge.com/2024/11/20/24297692/ai-landlord-tool-saferent-low-income-tenants-discrimination-settlement)
- - [Google is pissed that the DOJ may make it sell off Chrome](https://appleinsider.com/articles/24/11/20/google-is-pissed-that-the-doj-may-make-it-sell-chrome?utm_medium=rss)
- - [Snowflake reports Q3 revenue up 28% YoY to $942.09M, vs. $898.46M est., unveils a deal with Anthropic to bring Claude to Cortex AI; SNOW jumps 18%+ after hours &lpar;Larry Dignan/Constellation Research&rpar;](http://www.techmeme.com/241120/p36#a241120p36)
- - [NASA wants SpaceX and Blue Origin to deliver cargo to the moon](https://www.theverge.com/2024/11/20/24301744/nasa-spacex-blue-origin-cargo-mission-artemis)
- - [Beef Up Your Home Security and Get Up to 77% Off With These Arlo Black Friday Deals](https://www.cnet.com/deals/beef-up-your-home-security-and-get-up-to-77-off-with-these-arlo-black-friday-deals/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Google is pissed that the DOJ may make it sell off Chrome](https://appleinsider.com/articles/24/11/20/google-is-pissed-that-the-doj-may-make-it-sell-chrome?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

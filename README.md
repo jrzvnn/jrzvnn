@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Call me anytime](http://9gag.com/gag/aqynwKP)
- - 😝 [Goodbye, Jaguar.](http://9gag.com/gag/a9yng8K)
- - 💣 [Oh yeah, a classic !](http://9gag.com/gag/aD245e7)
  - 😝 [German Burgergeld. If you ever wonder why all migrants destination is Germany.](http://9gag.com/gag/a87GOWY)
- - 👉 [Lady: her ass is brutal](http://9gag.com/gag/awyBpo8)<!-- MEMES:END -->
+ - 😝 [The worst she can say is no](http://9gag.com/gag/a9ynwDj)
+ - 💣 [Motion capture technology has come a long way](http://9gag.com/gag/abAGnvX)
+ - 😝 [Red light](http://9gag.com/gag/a4P3gXm)
+ - 👉 [Oh yeah, a classic !](http://9gag.com/gag/aD245e7)<!-- MEMES:END -->
 
 ---
 

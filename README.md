@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Give a Pokemon Fan Something They Don’t Have With This Pikachu Ramen Bowl for Just $10](https://www.cnet.com/deals/give-a-pokemon-fan-something-they-dont-have-with-this-pikachu-ramen-bowl-for-just-10/#ftag=CAD590a51e)
- - [Want the Benefits of Apple Cider Vinegar Without the Harsh Taste? Try These Tasty ACV Drinks](https://www.cnet.com/news/best-apple-cider-vinegar-drinks/#ftag=CAD590a51e)
- - [17 Best Black Friday Deals on Bedding for Your Holiday Shopping](https://www.cnet.com/deals/best-black-friday-bedding-deals-2024/#ftag=CAD590a51e)
- - [The 6 Best Linen Sheets for Cool and Comfy Sleeping &lpar;2024&rpar;](https://www.wired.com/gallery/best-linen-sheets/)
- - [Best Internet Providers in Philadelphia, Pennsylvania](https://www.cnet.com/home/internet/best-internet-providers-in-philadelphia-pa/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Comcast is spinning off its cable TV business](https://www.theverge.com/2024/11/20/24301310/comcast-spinning-off-nbcuniversal-cable-tv-business)
+ - [Belgium-based Odoo, which develops open-source enterprise resource planning software, hit a &amp;euro;5B valuation in a secondary share round led by CapitalG and Sequoia &lpar;Ryan Browne/CNBC&rpar;](http://www.techmeme.com/241120/p19#a241120p19)
+ - [The Best Cooling Sheets for Hot Sleepers, Tested and Reviewed &lpar;2024&rpar;](https://www.wired.com/gallery/best-cooling-sheets/)
+ - [Samsung Galaxy Watch FE review: identical to the Watch 7 with similar health features, but has the guts of a three-year-old Watch 4, poor battery, and one size &lpar;Victoria Song/The Verge&rpar;](http://www.techmeme.com/241120/p18#a241120p18)
+ - [Microsoft Flight Simulator 2024 wasn’t prepared for takeoff](https://www.theverge.com/2024/11/20/24301358/microsoft-flight-simulator-2024-launch-day-issues)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

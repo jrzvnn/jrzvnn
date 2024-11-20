@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Apple heads to court to try to get massive &amp; vague DOJ antitrust suit dismissed](https://appleinsider.com/articles/24/11/20/apple-heads-to-court-to-try-to-get-massive-vague-doj-antitrust-suit-dismissed?utm_medium=rss)
  - [8 Best MagSafe Wallets &lpar;2024&rpar;, Tested and Reviewed](https://www.wired.com/gallery/best-magsafe-wallets/)
  - [Comcast is spinning off its cable TV business](https://www.theverge.com/2024/11/20/24301310/comcast-spinning-off-nbcuniversal-cable-tv-business)
  - [Belgium-based Odoo, which develops open-source enterprise resource planning software, hit a &amp;euro;5B valuation in a secondary share round led by CapitalG and Sequoia &lpar;Ryan Browne/CNBC&rpar;](http://www.techmeme.com/241120/p19#a241120p19)
- - [The Best Cooling Sheets for Hot Sleepers, Tested and Reviewed &lpar;2024&rpar;](https://www.wired.com/gallery/best-cooling-sheets/)
- - [Samsung Galaxy Watch FE review: identical to the Watch 7 with similar health features, but has the guts of a three-year-old Watch 4, poor battery, and one size &lpar;Victoria Song/The Verge&rpar;](http://www.techmeme.com/241120/p18#a241120p18)<!-- TECH:END -->
+ - [The Best Cooling Sheets for Hot Sleepers, Tested and Reviewed &lpar;2024&rpar;](https://www.wired.com/gallery/best-cooling-sheets/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

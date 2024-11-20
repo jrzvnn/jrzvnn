@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Israeli enterprise data security startup Cyera raised a $300M Series D led by Accel and Sapphire Ventures at a $3B+ valuation, up from $1.4B in April 2024 &lpar;Meytal Vaizberg/Globes Online&rpar;](http://www.techmeme.com/241120/p17#a241120p17)
+ - [Best Internet Providers in Portland, Oregon](https://www.cnet.com/home/internet/best-internet-providers-in-portland-or/#ftag=CAD590a51e)
+ - [Best Over-the-Counter Eye Drops of 2024](https://www.cnet.com/health/personal-care/best-eye-drops/#ftag=CAD590a51e)
  - [How Google spent 15 years creating a culture of concealment, telling staff to destroy messages, avoid some words, and copy in lawyers, as it faces US lawsuits &lpar;David Streitfeld/New York Times&rpar;](http://www.techmeme.com/241120/p16#a241120p16)
- - [Price cuts fail to prevent iPhone sales drop on China&#39;s Singles Day](https://appleinsider.com/articles/24/11/20/price-cuts-fail-to-prevent-iphone-sales-drop-in-chinas-singles-day?utm_medium=rss)
- - [Supply chain report says iPhone SE 4 will launch in March 2025](https://appleinsider.com/articles/24/11/20/supply-chain-report-says-iphone-se-4-will-launch-in-march-2025?utm_medium=rss)
- - [Why Is There So Much Off-Brand Oral Ozempic for Sale Online?](https://www.wired.com/story/telehealth-companies-compounded-glp-1-pills-ozempic-wegovy-novo-nordisk-zepbound-mounjaro-eli-lilly/)
- - [Google Meet’s automatic framing is now available to everyone](https://www.theverge.com/2024/11/20/24301318/google-meet-automatic-framing-webcam-feature-availability)<!-- TECH:END -->
+ - [Homeowners Face Higher Refi Rates: Mortgage Refinance Rates for Nov. 20, 2024](https://www.cnet.com/personal-finance/mortgages/homeowners-face-higher-refi-rates-mortgage-refinance-rates-for-nov-20-2024/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

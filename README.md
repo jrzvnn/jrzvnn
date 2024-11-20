@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [AI landlord screening tool will stop scoring low-income tenants after discrimination suit](https://www.theverge.com/2024/11/20/24297692/ai-landlord-tool-saferent-low-income-tenants-discrimination-settlement)
  - [Google is pissed that the DOJ may make it sell off Chrome](https://appleinsider.com/articles/24/11/20/google-is-pissed-that-the-doj-may-make-it-sell-chrome?utm_medium=rss)
  - [Snowflake reports Q3 revenue up 28% YoY to $942.09M, vs. $898.46M est., unveils a deal with Anthropic to bring Claude to Cortex AI; SNOW jumps 18%+ after hours &lpar;Larry Dignan/Constellation Research&rpar;](http://www.techmeme.com/241120/p36#a241120p36)
  - [NASA wants SpaceX and Blue Origin to deliver cargo to the moon](https://www.theverge.com/2024/11/20/24301744/nasa-spacex-blue-origin-cargo-mission-artemis)
- - [Beef Up Your Home Security and Get Up to 77% Off With These Arlo Black Friday Deals](https://www.cnet.com/deals/beef-up-your-home-security-and-get-up-to-77-off-with-these-arlo-black-friday-deals/#ftag=CAD590a51e)
- - [A Chef Gave Us 6 Tips to Keep Salad Greens From Going Bad in the Fridge](https://www.cnet.com/how-to/a-chef-gave-us-6-tips-to-keep-salad-greens-from-going-bad-in-the-fridge/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Nvidia reports Q3 revenue up 94% YoY to $35.1B, vs. $33.2B est., Data Center revenue up 112% to $30.8B, vs. $29B est., and forecasts Q4 revenue above estimates &lpar;Daniel Howley/Yahoo Finance&rpar;](http://www.techmeme.com/241120/p35#a241120p35)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

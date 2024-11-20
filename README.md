@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [$130 Off Factor Promo Code &amp; Discount Code | November 2024](https://www.wired.com/story/factor-promo-code/)
  - [Nomad Discount Codes and Deals: 50% Off | November 2024](https://www.wired.com/story/nomad-discount-code/)
  - [10% Off Sephora Promo Codes &amp; Coupons | November 2024](https://www.wired.com/story/sephora-promo-code/)
  - [How Mark Zuckerberg made Llama a cornerstone of AI ambitions at Meta, whose smartphone-era services and products have been constrained by Apple and Google &lpar;Sharon Goldman/Fortune&rpar;](http://www.techmeme.com/241120/p8#a241120p8)
- - [10% off Dell Coupon Code - November 2024](https://www.wired.com/story/dell-coupon-code/)
- - [AI pioneer Yoshua Bengio says models like OpenAI&#39;s o1 could accelerate research on AI itself and calls for more urgent AI regulation to protect the public &lpar;Yoshua Bengio/Financial Times&rpar;](http://www.techmeme.com/241120/p7#a241120p7)<!-- TECH:END -->
+ - [10% off Dell Coupon Code - November 2024](https://www.wired.com/story/dell-coupon-code/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [The person who unalived Laken Riley has been found guilty on all charges](http://9gag.com/gag/ajP9zqq)
- - 😝 [Who else knows this gem from the good old days?](http://9gag.com/gag/apRGMnM)
- - 💣 [Core IT experience](http://9gag.com/gag/azxmpXp)
- - 😝 [Motion capture technology has come a long way](http://9gag.com/gag/abAGnvX)
- - 👉 [Post](http://9gag.com/gag/awyBDqy)<!-- MEMES:END -->
+ - 😝 [Red light](http://9gag.com/gag/a4P3gXm)
+ - 😝 [Japanese girl in a Cheongsam, different angle](http://9gag.com/gag/a87GN53)
+ - 💣 [A noble sacrifice](http://9gag.com/gag/azxmWrz)
+ - 😝 [Lady: her ass is brutal](http://9gag.com/gag/awyBpo8)
+ - 👉 [Even the orangutan can&#39;t explain what happened](http://9gag.com/gag/a5QWY0y)<!-- MEMES:END -->
 
 ---
 

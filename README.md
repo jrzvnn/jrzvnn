@@ -159,9 +159,9 @@ R                        1 repo              ░░░░░░░░░░░�
 <!-- TECH:START -->
  - [Trump Media has a ~$7B market cap despite struggling to build a profitable revenue stream; Similarweb: Truth Social site visits fell 20% MoM to 10M in October &lpar;Drew Harwell/Washington Post&rpar;](http://www.techmeme.com/241120/p1#a241120p1)
  - [SuperAnnotate, which provides tools for fine-tuning, iterating, and evaluating AI training datasets, raised a $36M Series B led by Socium Ventures &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/241119/p50#a241119p50)
- - [Strava updates its API terms to prohibit third-party apps from showing a user&#39;s Strava data to other users or using the data in AI models or similar apps &lpar;Ray Maker/DC Rainmaker&rpar;](http://www.techmeme.com/241119/p49#a241119p49)
- - [Leaked documents: Graykey, a phone unlocking tool used by police, retrieves &quot;partial&quot; data from the iPhone 12 up to the iPhone 16 running iOS 18 or iOS 18.0.1 &lpar;Joseph Cox/404 Media&rpar;](http://www.techmeme.com/241119/p48#a241119p48)
- - [Anyone Can Buy Data Tracking US Soldiers and Spies to Nuclear Vaults and Brothels in Germany](https://www.wired.com/story/phone-data-us-soldiers-spies-nuclear-germany/)<!-- TECH:END -->
+ - [Today&#39;s NYT Mini Crossword Answers for Wednesday, Nov. 20](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-wednesday-nov-20/#ftag=CAD590a51e)
+ - [Cloud Gaming Comes to PlayStation Portal](https://www.cnet.com/tech/gaming/cloud-gaming-comes-to-playstation-portal/#ftag=CAD590a51e)
+ - [Strava updates its API terms to prohibit third-party apps from showing a user&#39;s Strava data to other users or using the data in AI models or similar apps &lpar;Ray Maker/DC Rainmaker&rpar;](http://www.techmeme.com/241119/p49#a241119p49)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

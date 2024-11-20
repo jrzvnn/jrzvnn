@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Wholesome posts I saved #2](http://9gag.com/gag/ajP933x)
- - 😝 [The worst she can say is no](http://9gag.com/gag/a9ynwDj)
- - 💣 [Who else knows this gem from the good old days?](http://9gag.com/gag/apRGMnM)
+ - 😝 [Mike Tyson&#39;s last visit to Mohammad Ali before the later&lpar;the Champ&rpar; died.](http://9gag.com/gag/avyzVRd)
  - 😝 [Jay Z\u2019s priceless expression. Courtesy: Paul](http://9gag.com/gag/aBymMwO)
- - 👉 [Stop pushing education in our throats this is just not our thing](http://9gag.com/gag/ajP9jAG)<!-- MEMES:END -->
+ - 💣 [The worst she can say is no](http://9gag.com/gag/a9ynwDj)
+ - 😝 [A good host always provides refreshments to his guests..](http://9gag.com/gag/adBVwKN)
+ - 👉 [Who else knows this gem from the good old days?](http://9gag.com/gag/apRGMnM)<!-- MEMES:END -->
 
 ---
 

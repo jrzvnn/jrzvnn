@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Anna Cramling &lpar;on the right&rpar; created an opening she calls `the Cow` -- an opening that she admits is not very strong, but she wanted to be able to say she had created an opening. Alessia Santeramo &lpar;left&rpar; Just before the game started, asked `Do you want to play the Cow opening?`](http://9gag.com/gag/an74wEq)
+ - 😝 [Probably not good to stir that with your arm but I\u2019m no doctor.](http://9gag.com/gag/ayNeZwV)
  - 😝 [Not her first rodeo!](http://9gag.com/gag/aKG75QO)
- - 💣 [German Burgergeld. If you ever wonder why all migrants destination is Germany.](http://9gag.com/gag/a87GOWY)
- - 😝 [Do men even have feeling ??](http://9gag.com/gag/a2vWVpO)
- - 👉 [Happy International Men&#39;s day!](http://9gag.com/gag/aBym591)<!-- MEMES:END -->
+ - 💣 [Jay Z\u2019s priceless expression. Courtesy: Paul](http://9gag.com/gag/aBymMwO)
+ - 😝 [Y&#39;all really couldn&#39;t find any other games?](http://9gag.com/gag/aGydq85)
+ - 👉 [Bangladeshis are destroying science related books form students saying there is only one book](http://9gag.com/gag/a1mWnXY)<!-- MEMES:END -->
 
 ---
 

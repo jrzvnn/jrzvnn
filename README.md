@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [German Burgergeld. If you ever wonder why all migrants destination is Germany.](http://9gag.com/gag/a87GOWY)
+ - 😝 [Call me anytime](http://9gag.com/gag/aqynwKP)
  - 😝 [Goodbye, Jaguar.](http://9gag.com/gag/a9yng8K)
  - 💣 [Oh yeah, a classic !](http://9gag.com/gag/aD245e7)
- - 😝 [Call me anytime](http://9gag.com/gag/aqynwKP)
- - 👉 [Mike Tyson&#39;s last visit to Mohammad Ali before the later&lpar;the Champ&rpar; died.](http://9gag.com/gag/avyzVRd)<!-- MEMES:END -->
+ - 😝 [German Burgergeld. If you ever wonder why all migrants destination is Germany.](http://9gag.com/gag/a87GOWY)
+ - 👉 [Lady: her ass is brutal](http://9gag.com/gag/awyBpo8)<!-- MEMES:END -->
 
 ---
 

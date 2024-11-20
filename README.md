@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Stop pushing education in our throats this is just not our thing](http://9gag.com/gag/ajP9jAG)
- - 😝 [Oh yeah, a classic !](http://9gag.com/gag/aD245e7)
- - 💣 [A mistake you&#39;ll remember for the rest of your life](http://9gag.com/gag/abAGL6O)
- - 😝 [A good host always provides refreshments to his guests..](http://9gag.com/gag/adBVwKN)
- - 👉 [Mike Tyson&#39;s last visit to Mohammad Ali before the later&lpar;the Champ&rpar; died.](http://9gag.com/gag/avyzVRd)<!-- MEMES:END -->
+ - 😝 [Post](http://9gag.com/gag/awyBDqy)
+ - 😝 [The worst she can say is no](http://9gag.com/gag/a9ynwDj)
+ - 💣 [Karen in action.](http://9gag.com/gag/aRB7GgB)
+ - 😝 [Nature is healing](http://9gag.com/gag/ae9DzYB)
+ - 👉 [The fittest woman in the usa](http://9gag.com/gag/aAye7D2)<!-- MEMES:END -->
 
 ---
 

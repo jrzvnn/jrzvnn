@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [SMIC&#39;s Shanghai-listed shares are up 120% from a September 2024 low, outperforming Nvidia and TSMC, on an expected boost from China&#39;s chip self-reliance push &lpar;Bloomberg&rpar;](http://www.techmeme.com/241120/p13#a241120p13)
  - [Klarna&#39;s US IPO listing is another deep blow to Europe, where the absence of a complete single market is pushing EU startups to choose US exchanges for an IPO &lpar;Richard Milne/Financial Times&rpar;](http://www.techmeme.com/241120/p12#a241120p12)
  - [The 2024 Roku Ultra 4K Streaming Device Is $1 Off Its Best-Ever Price Ahead of Black Friday](https://www.cnet.com/deals/the-2024-roku-ultra-4k-streaming-device-is-1-off-its-best-ever-price-ahead-of-black-friday/#ftag=CAD590a51e)
  - [Attention Gamers: The Lenovo Legion Go Is 22% Off, Even Before Black Friday](https://www.cnet.com/deals/attention-gamers-lenovo-legion-go-22-off-before-black-friday/#ftag=CAD590a51e)
- - [ProRata, which is launching an AI search engine next month, inks licensing deals with DMG Media and more; sources say DMG bought a stake that values it at $130M &lpar;Daniel Thomas/Financial Times&rpar;](http://www.techmeme.com/241120/p11#a241120p11)
- - [Best Air Fryer Toaster Ovens for 2024](https://www.cnet.com/home/kitchen-and-household/best-countertop-oven-and-air-fryer/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [ProRata, which is launching an AI search engine next month, inks licensing deals with DMG Media and more; sources say DMG bought a stake that values it at $130M &lpar;Daniel Thomas/Financial Times&rpar;](http://www.techmeme.com/241120/p11#a241120p11)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The New York Times is trying to shut down a popular Connections puzzle creator](https://www.theverge.com/2024/11/20/24301557/new-york-times-connections-creator-take-down)
+ - [US prosecutors charge five alleged members of the Scattered Spider hacking group for their role in the hacks of 29+ individuals and theft of $11M+ in crypto &lpar;Margi Murphy/Bloomberg&rpar;](http://www.techmeme.com/241120/p29#a241120p29)
  - [DCG founder Barry Silbert announces a subsidiary called Yuma to help build decentralized AI services called &quot;subnets&quot; on the Bittensor blockchain network &lpar;Jeff John Roberts/Fortune&rpar;](http://www.techmeme.com/241120/p28#a241120p28)
  - [French AI startup H, which raised a $220M seed in May 2024, announces its first product, Runner H, an &quot;agentic&quot; AI model, available in private beta &lpar;Ingrid Lunden/TechCrunch&rpar;](http://www.techmeme.com/241120/p27#a241120p27)
- - [Google is pissed that the DOJ may make it sell Chrome](https://appleinsider.com/articles/24/11/20/google-is-pissed-that-the-doj-may-make-it-sell-chrome?utm_medium=rss)
- - [Fourth round of developer betas for iOS 18.2, iPadOS 18.2, macOS Sequoia 15.2 land](https://appleinsider.com/articles/24/11/20/fourth-round-of-developer-betas-for-ios-182-ipados-182-macos-sequoia-152-land?utm_medium=rss)
- - [Amazon Prime Members: Get Two Anker USB-C Chargers and Cables for Just $13 Ahead of Black Friday](https://www.cnet.com/deals/prime-members-get-two-anker-usb-c-chargers-and-cables-for-just-13-ahead-of-black-friday/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Google is pissed that the DOJ may make it sell Chrome](https://appleinsider.com/articles/24/11/20/google-is-pissed-that-the-doj-may-make-it-sell-chrome?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

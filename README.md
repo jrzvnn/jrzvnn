@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Ford retracts in Europe with layoffs and lower EV production](https://www.theverge.com/2024/11/20/24301507/ford-retracts-in-europe-with-layoffs-and-lower-ev-production)
+ - [Garmin’s Venu Sq 2, our favorite Fitbit alternative, hits its lowest price ever](https://www.theverge.com/2024/11/20/24301486/garmin-venu-sq-2-deal-sale)
  - [The Biden admin finalizes $1.5B CHIPS Act incentives for GlobalFoundries, meaning it can start receiving federal funding for facilities in Vermont and New York &lpar;Mackenzie Hawkins/Bloomberg&rpar;](http://www.techmeme.com/241120/p24#a241120p24)
  - [Anker’s excellent 6.6K MagGo Power Bank is down to an absolute steal at $19.99](https://www.theverge.com/2024/11/20/24301443/ankers-6-6k-maggo-power-bank-black-friday-deal-sale)
- - [&#39;Final Fantasy XIV Mobile&#39; brings epic adventures to your iPhone](https://appleinsider.com/articles/24/11/20/final-fantasy-xiv-mobile-brings-epic-adventures-to-your-iphone?utm_medium=rss)
- - [Amazon unveils the $400 Echo Show 21, an upgrade to the Echo Show 15 from 2022, with a 21&quot; 1080p display and auto-framing camera, and updates the Echo Show 15 &lpar;Jennifer Pattison Tuohy/The Verge&rpar;](http://www.techmeme.com/241120/p23#a241120p23)
- - [Keep Your Home Protected During Your Holiday Travel With Up to 60% Off Blink Outdoor 4 Cams](https://www.cnet.com/deals/keep-your-home-protected-during-your-holiday-travel-with-up-to-60-off-blink-outdoor-cams/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [&#39;Final Fantasy XIV Mobile&#39; brings epic adventures to your iPhone](https://appleinsider.com/articles/24/11/20/final-fantasy-xiv-mobile-brings-epic-adventures-to-your-iphone?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

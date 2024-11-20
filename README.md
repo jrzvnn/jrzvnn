@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google tightens its rules against &quot;parasite SEO&quot; content, or articles that have little to do with the website&#39;s focus, after cracking down on &quot;reputation abuse&quot; &lpar;Mia Sato/The Verge&rpar;](http://www.techmeme.com/241120/p14#a241120p14)
- - [SMIC&#39;s Shanghai-listed shares are up 120% from a September 2024 low, outperforming Nvidia and TSMC, on an expected boost from China&#39;s chip self-reliance push &lpar;Bloomberg&rpar;](http://www.techmeme.com/241120/p13#a241120p13)
- - [Klarna&#39;s US IPO listing is another deep blow to Europe, where the absence of a complete single market is pushing EU startups to choose US exchanges for an IPO &lpar;Richard Milne/Financial Times&rpar;](http://www.techmeme.com/241120/p12#a241120p12)
- - [The 2024 Roku Ultra 4K Streaming Device Is $1 Off Its Best-Ever Price Ahead of Black Friday](https://www.cnet.com/deals/the-2024-roku-ultra-4k-streaming-device-is-1-off-its-best-ever-price-ahead-of-black-friday/#ftag=CAD590a51e)
- - [Attention Gamers: The Lenovo Legion Go Is 22% Off, Even Before Black Friday](https://www.cnet.com/deals/attention-gamers-lenovo-legion-go-22-off-before-black-friday/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [As OpenAI, Anthropic, and Google reportedly see diminishing AI training returns, a break from the market hype could be useful, just as with previous innovations &lpar;Parmy Olson/Bloomberg&rpar;](http://www.techmeme.com/241120/p15#a241120p15)
+ - [Price cuts fail to prevent iPhone sales drop in China&#39;s Singles Day](https://appleinsider.com/articles/24/11/20/price-cuts-fail-to-prevent-iphone-sales-drop-in-chinas-singles-day?utm_medium=rss)
+ - [Inside the Booming ‘AI Pimping’ Industry](https://www.wired.com/story/ai-pimping-industry-deepfakes-instagram/)
+ - [Get in, Loser—We’re Chasing a Waymo Into the Future](https://www.wired.com/story/waymo-robotaxi-driverless-future/)
+ - [UberXXL will let you catch an even bigger ride to the airport](https://www.theverge.com/2024/11/20/24300853/uberxxl-uber-app-new-update-features)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

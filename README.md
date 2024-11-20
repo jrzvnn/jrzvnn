@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Post](http://9gag.com/gag/awyBDqy)
- - 😝 [Red light](http://9gag.com/gag/a4P3gXm)
- - 💣 [Well\u2026I guess that was the most memorable day of her life](http://9gag.com/gag/a1mWg5b)
- - 😝 [A good host always provides refreshments to his guests..](http://9gag.com/gag/adBVwKN)
- - 👉 [The fittest woman in the usa](http://9gag.com/gag/aAye7D2)<!-- MEMES:END -->
+ - 😝 [Lady: her ass is brutal](http://9gag.com/gag/awyBpo8)
+ - 😝 [Who else knows this gem from the good old days?](http://9gag.com/gag/apRGMnM)
+ - 💣 [The fittest woman in the usa](http://9gag.com/gag/aAye7D2)
+ - 😝 [And those mammary glands.](http://9gag.com/gag/aLnwEpA)
+ - 👉 [Bangladeshis are destroying science related books form students saying there is only one book](http://9gag.com/gag/a1mWnXY)<!-- MEMES:END -->
 
 ---
 

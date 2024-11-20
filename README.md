@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Trump FCC Pick Brendan Carr Wants to Be the Speech Police. That&#39;s Not His Job](https://www.wired.com/story/brendan-carr-fcc-trump-speech-social-media-moderation/)
+ - [Apple&#39;s quick App Store takedowns over copyright claims are a nightmare for developers](https://appleinsider.com/articles/24/11/20/apples-quick-app-store-takedowns-over-copyright-claims-are-a-nightmare-for-developers?utm_medium=rss)
  - [Threads begins rolling out the ability to create custom feeds globally, giving users options beyond &quot;For You&quot; and &quot;Following&quot; feeds &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/241120/p31#a241120p31)
  - [Amazon Just Dropped the Biggest Echo Show Ever](https://www.wired.com/story/amazon-echo-show-21-announced/)
- - [T-Mobile actually stopped some hackers from stealing customer data](https://www.theverge.com/2024/11/20/24301570/t-mobile-network-breach-stopped-salt-typhoon)
- - [Apple&#39;s Braided Solo Loop Can Be Yours for Only $30 This Black Friday](https://www.cnet.com/deals/apple-watch-braided-solo-loop-can-be-yours-for-only-30-this-black-friday/#ftag=CAD590a51e)
- - [Sources: Trump&#39;s team is talking with the crypto industry over whether to create a White House post dedicated to cryptocurrency policy and is vetting candidates &lpar;Bloomberg&rpar;](http://www.techmeme.com/241120/p30#a241120p30)<!-- TECH:END -->
+ - [T-Mobile actually stopped some hackers from stealing customer data](https://www.theverge.com/2024/11/20/24301570/t-mobile-network-breach-stopped-salt-typhoon)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

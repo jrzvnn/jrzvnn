@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Sources: Trump&#39;s team is talking with the crypto industry over whether to create a White House post dedicated to cryptocurrency policy and is vetting candidates &lpar;Bloomberg&rpar;](http://www.techmeme.com/241120/p30#a241120p30)
  - [The New York Times is trying to shut down a popular Connections puzzle creator](https://www.theverge.com/2024/11/20/24301557/new-york-times-connections-creator-take-down)
  - [US prosecutors charge five alleged members of the Scattered Spider hacking group for their role in the hacks of 29+ individuals and theft of $11M+ in crypto &lpar;Margi Murphy/Bloomberg&rpar;](http://www.techmeme.com/241120/p29#a241120p29)
  - [DCG founder Barry Silbert announces a subsidiary called Yuma to help build decentralized AI services called &quot;subnets&quot; on the Bittensor blockchain network &lpar;Jeff John Roberts/Fortune&rpar;](http://www.techmeme.com/241120/p28#a241120p28)
- - [French AI startup H, which raised a $220M seed in May 2024, announces its first product, Runner H, an &quot;agentic&quot; AI model, available in private beta &lpar;Ingrid Lunden/TechCrunch&rpar;](http://www.techmeme.com/241120/p27#a241120p27)
- - [Google is pissed that the DOJ may make it sell Chrome](https://appleinsider.com/articles/24/11/20/google-is-pissed-that-the-doj-may-make-it-sell-chrome?utm_medium=rss)<!-- TECH:END -->
+ - [French AI startup H, which raised a $220M seed in May 2024, announces its first product, Runner H, an &quot;agentic&quot; AI model, available in private beta &lpar;Ingrid Lunden/TechCrunch&rpar;](http://www.techmeme.com/241120/p27#a241120p27)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

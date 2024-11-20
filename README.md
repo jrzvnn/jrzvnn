@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [A mistake you&#39;ll remember for the rest of your life](http://9gag.com/gag/abAGL6O)
- - 😝 [Karen in action.](http://9gag.com/gag/aRB7GgB)
- - 💣 [Oh yeah, a classic !](http://9gag.com/gag/aD245e7)
+ - 😝 [Mmmmmo.........](http://9gag.com/gag/a87GvzO)
  - 😝 [Airboat Racing](http://9gag.com/gag/abAGLBE)
- - 👉 [He got what he deserved! Pet Lion attacked invited guest at home who was treating Lion as domestic Cat, Experts living with lions understand the psychology of lions, they have a good understanding of the changing mood of lions.](http://9gag.com/gag/a2vWAzY)<!-- MEMES:END -->
+ - 💣 [Wholesome posts I saved #2](http://9gag.com/gag/ajP933x)
+ - 😝 [Oh yeah, a classic !](http://9gag.com/gag/aD245e7)
+ - 👉 [Robert DuBoise on the day of his arrest at age 18, and the day he was freed from prison by DNA at 56.](http://9gag.com/gag/aBymMQz)<!-- MEMES:END -->
 
 ---
 

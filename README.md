@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Lady: her ass is brutal](http://9gag.com/gag/awyBpo8)
- - 😝 [Wholesome posts I saved #2](http://9gag.com/gag/ajP933x)
- - 💣 [Oh yeah, a classic !](http://9gag.com/gag/aD245e7)
- - 😝 [Not her first rodeo!](http://9gag.com/gag/aKG75QO)
- - 👉 [Airboat Racing](http://9gag.com/gag/abAGLBE)<!-- MEMES:END -->
+ - 😝 [German Burgergeld. If you ever wonder why all migrants destination is Germany.](http://9gag.com/gag/a87GOWY)
+ - 😝 [Oh yeah, a classic !](http://9gag.com/gag/aD245e7)
+ - 💣 [The worst she can say is no](http://9gag.com/gag/a9ynwDj)
+ - 😝 [Not really trying to hide](http://9gag.com/gag/a2vWVKd)
+ - 👉 [Not her first rodeo!](http://9gag.com/gag/aKG75QO)<!-- MEMES:END -->
 
 ---
 

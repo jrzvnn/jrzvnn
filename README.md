@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Vista sells a minority stake in IT infrastructure monitoring company LogicMonitor to investors in a deal valuing it at ~$2.4B; LogicMonitor also raised $800M &lpar;Ryan Gould/Bloomberg&rpar;](http://www.techmeme.com/241120/p20#a241120p20)
  - [12 Best Turntables &lpar;2024&rpar;, Tested and Reviewed](https://www.wired.com/gallery/best-turntables/)
  - [FromSoftware parent company confirms Sony’s acquisition interest](https://www.theverge.com/2024/11/20/24300583/sony-kadokawa-acquisition-from-software-anime-manga)
  - [NFL, celebrity boxing, and hot dogs: Netflix’s push into live TV](https://www.theverge.com/24300871/netflix-live-events-nfl-celebrity-boxing)
- - [Insta360 Link 2 Review: A Cheaper, Better Webcam](https://www.wired.com/review/review-insta360-link-2/)
- - [S.T.A.L.K.E.R. 2: Heart of Chornobyl is a glorious and beautiful pain in the ass](https://www.theverge.com/2024/11/20/24300652/stalker-2-heart-of-chornobyl-review)<!-- TECH:END -->
+ - [Insta360 Link 2 Review: A Cheaper, Better Webcam](https://www.wired.com/review/review-insta360-link-2/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

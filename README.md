@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Not really trying to hide](http://9gag.com/gag/a2vWVKd)
- - 😝 [Karen in action.](http://9gag.com/gag/aRB7GgB)
- - 💣 [Oh yeah, a classic !](http://9gag.com/gag/aD245e7)
+ - 😝 [Not her first rodeo!](http://9gag.com/gag/aKG75QO)
+ - 😝 [Japanese girl in a Cheongsam, different angle](http://9gag.com/gag/a87GN53)
+ - 💣 [Post](http://9gag.com/gag/awyBDqy)
  - 😝 [Bangladeshis are destroying science related books form students saying there is only one book](http://9gag.com/gag/a1mWnXY)
- - 👉 [And those mammary glands.](http://9gag.com/gag/aLnwEpA)<!-- MEMES:END -->
+ - 👉 [Robert DuBoise on the day of his arrest at age 18, and the day he was freed from prison by DNA at 56.](http://9gag.com/gag/aBymMQz)<!-- MEMES:END -->
 
 ---
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Who else knows this gem from the good old days?](http://9gag.com/gag/apRGMnM)
- - 😝 [Jay Z\u2019s priceless expression. Courtesy: Paul](http://9gag.com/gag/aBymMwO)
- - 💣 [The worst she can say is no](http://9gag.com/gag/a9ynwDj)
- - 😝 [Lady: her ass is brutal](http://9gag.com/gag/awyBpo8)
- - 👉 [Robert DuBoise on the day of his arrest at age 18, and the day he was freed from prison by DNA at 56.](http://9gag.com/gag/aBymMQz)<!-- MEMES:END -->
+ - 😝 [Motion capture technology has come a long way](http://9gag.com/gag/abAGnvX)
+ - 😝 [Robert DuBoise on the day of his arrest at age 18, and the day he was freed from prison by DNA at 56.](http://9gag.com/gag/aBymMQz)
+ - 💣 [Oh yeah, a classic !](http://9gag.com/gag/aD245e7)
+ - 😝 [Core IT experience](http://9gag.com/gag/azxmpXp)
+ - 👉 [The worst she can say is no](http://9gag.com/gag/a9ynwDj)<!-- MEMES:END -->
 
 ---
 

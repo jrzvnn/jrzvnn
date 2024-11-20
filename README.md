@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google ships the first Android 16 developer preview, far ahead of schedule vs. the past decade, hoping to lower fragmentation by giving manufacturers more time &lpar;Mishaal Rahman/Android Police&rpar;](http://www.techmeme.com/241119/p44#a241119p44)
- - [Source: Databricks has told investors it is looking to raise $7B to $9B at a ~$61B valuation, to cash out employees that hold restricted stock units &lpar;Cory Weinberg/The Information&rpar;](http://www.techmeme.com/241119/p43#a241119p43)
- - [Sony launches cloud streaming on the PlayStation Portal in beta, letting PlayStation Plus Premium subscribers in some countries stream select PS5 games &lpar;Jay Peters/The Verge&rpar;](http://www.techmeme.com/241119/p42#a241119p42)
- - [Our Favorite Easy Ways to Save on Energy Costs Around the Home](https://www.cnet.com/how-to/our-favorite-easy-ways-to-save-on-energy-costs-around-the-home/#ftag=CAD590a51e)
- - [Coinbase says it will delist wBTC next month, as Justin Sun gains influence over the wBTC protocol; Coinbase launched its wrapped bitcoin, cbBTC, in September &lpar;Daniel Kuhn/The Block&rpar;](http://www.techmeme.com/241119/p41#a241119p41)<!-- TECH:END -->
+ - [Niantic is building a ‘geospatial’ AI model based on Pokémon Go player data](https://www.theverge.com/2024/11/19/24300975/niantic-pokemon-go-data-large-geospatial-model)
+ - [Spectro Cloud, which offers a Kubernetes management service for enterprises, raised a $75M Series C led by Growth Equity at Goldman Sachs Alternatives &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/241119/p45#a241119p45)
+ - [Bye Bye, Gift Guilt. Here&#39;s How You Can Partake in Holiday Giving Without Overspending](https://www.cnet.com/personal-finance/bye-bye-gift-guilt-heres-how-you-can-partake-in-holiday-giving-without-overspending/#ftag=CAD590a51e)
+ - [SpaceX Launches Starship Flight Test 6: Everything That Happened in 14 Minutes video](https://www.cnet.com/videos/spacex-launches-starship-flight-test-6-everything-that-happened-in-14-minutes/#ftag=CAD590a51e)
+ - [Google ships the first Android 16 developer preview, far ahead of schedule vs. the past decade, hoping to lower fragmentation by giving manufacturers more time &lpar;Mishaal Rahman/Android Police&rpar;](http://www.techmeme.com/241119/p44#a241119p44)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

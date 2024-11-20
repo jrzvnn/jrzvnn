@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [LimeWire’s new merch will help you impress your peer&lpar;-to-peer&rpar;s](https://www.theverge.com/2024/11/20/24301564/limewire-dumbgood-capsule-collection-apparel)
- - [Final Fantasy XIV Mobile will bring Eorzea to your phone](https://www.theverge.com/2024/11/20/24301435/final-fantasy-14-mobile-square-enix)
- - [Save up to 36% on Microsoft Office for Mac 2024 with this early Black Friday special](https://appleinsider.com/articles/24/11/20/save-up-to-36-on-microsoft-office-for-mac-2024-with-this-early-black-friday-special?utm_medium=rss)
- - [Meta unveils new Messenger features, including audio and video voicemail, AI backgrounds for video calls, and hands-free calling and messaging via Siri &lpar;Zac Hall/9to5Mac&rpar;](http://www.techmeme.com/241120/p26#a241120p26)
- - [Threads’ custom feeds are already rolling out](https://www.theverge.com/2024/11/20/24301587/threads-custom-feeds-rolling-out)<!-- TECH:END -->
+ - [DCG founder Barry Silbert announces a subsidiary called Yuma to help build decentralized AI services called &quot;subnets&quot; on the Bittensor blockchain network &lpar;Jeff John Roberts/Fortune&rpar;](http://www.techmeme.com/241120/p28#a241120p28)
+ - [French AI startup H, which raised a $220M seed in May 2024, announces its first product, Runner H, an &quot;agentic&quot; AI model, available in private beta &lpar;Ingrid Lunden/TechCrunch&rpar;](http://www.techmeme.com/241120/p27#a241120p27)
+ - [Google is pissed that the DOJ may make it sell Chrome](https://appleinsider.com/articles/24/11/20/google-is-pissed-that-the-doj-may-make-it-sell-chrome?utm_medium=rss)
+ - [Fourth round of developer betas for iOS 18.2, iPadOS 18.2, macOS Sequoia 15.2 land](https://appleinsider.com/articles/24/11/20/fourth-round-of-developer-betas-for-ios-182-ipados-182-macos-sequoia-152-land?utm_medium=rss)
+ - [Amazon Prime Members: Get Two Anker USB-C Chargers and Cables for Just $13 Ahead of Black Friday](https://www.cnet.com/deals/prime-members-get-two-anker-usb-c-chargers-and-cables-for-just-13-ahead-of-black-friday/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

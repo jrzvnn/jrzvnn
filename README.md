@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Not her first rodeo!](http://9gag.com/gag/aKG75QO)
- - 😝 [Wholesome posts I saved #2](http://9gag.com/gag/ajP933x)
- - 💣 [And those mammary glands.](http://9gag.com/gag/aLnwEpA)
+ - 😝 [Post](http://9gag.com/gag/awyBDqy)
+ - 😝 [Jay Z\u2019s priceless expression. Courtesy: Paul](http://9gag.com/gag/aBymMwO)
+ - 💣 [Mike Tyson&#39;s last visit to Mohammad Ali before the later&lpar;the Champ&rpar; died.](http://9gag.com/gag/avyzVRd)
  - 😝 [Red light](http://9gag.com/gag/a4P3gXm)
- - 👉 [Post](http://9gag.com/gag/awyBDqy)<!-- MEMES:END -->
+ - 👉 [Day ruined.](http://9gag.com/gag/aNDgGj0)<!-- MEMES:END -->
 
 ---
 

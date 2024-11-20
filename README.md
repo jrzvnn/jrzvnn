@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [FromSoftware parent company confirms Sony’s acquisition interest](https://www.theverge.com/2024/11/20/24300583/sony-kadokawa-acquisition-from-software-anime-manga)
  - [NFL, celebrity boxing, and hot dogs: Netflix’s push into live TV](https://www.theverge.com/24300871/netflix-live-events-nfl-celebrity-boxing)
  - [Insta360 Link 2 Review: A Cheaper, Better Webcam](https://www.wired.com/review/review-insta360-link-2/)
  - [S.T.A.L.K.E.R. 2: Heart of Chornobyl is a glorious and beautiful pain in the ass](https://www.theverge.com/2024/11/20/24300652/stalker-2-heart-of-chornobyl-review)
- - [Apple heads to court to try to get massive &amp; vague DOJ antitrust suit dismissed](https://appleinsider.com/articles/24/11/20/apple-heads-to-court-to-try-to-get-massive-vague-doj-antitrust-suit-dismissed?utm_medium=rss)
- - [8 Best MagSafe Wallets &lpar;2024&rpar;, Tested and Reviewed](https://www.wired.com/gallery/best-magsafe-wallets/)<!-- TECH:END -->
+ - [Apple heads to court to try to get massive &amp; vague DOJ antitrust suit dismissed](https://appleinsider.com/articles/24/11/20/apple-heads-to-court-to-try-to-get-massive-vague-doj-antitrust-suit-dismissed?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [NFL, celebrity boxing, and hot dogs: Netflix’s push into live TV](https://www.theverge.com/24300871/netflix-live-events-nfl-celebrity-boxing)
+ - [Insta360 Link 2 Review: A Cheaper, Better Webcam](https://www.wired.com/review/review-insta360-link-2/)
+ - [S.T.A.L.K.E.R. 2: Heart of Chornobyl is a glorious and beautiful pain in the ass](https://www.theverge.com/2024/11/20/24300652/stalker-2-heart-of-chornobyl-review)
  - [Apple heads to court to try to get massive &amp; vague DOJ antitrust suit dismissed](https://appleinsider.com/articles/24/11/20/apple-heads-to-court-to-try-to-get-massive-vague-doj-antitrust-suit-dismissed?utm_medium=rss)
- - [8 Best MagSafe Wallets &lpar;2024&rpar;, Tested and Reviewed](https://www.wired.com/gallery/best-magsafe-wallets/)
- - [Comcast is spinning off its cable TV business](https://www.theverge.com/2024/11/20/24301310/comcast-spinning-off-nbcuniversal-cable-tv-business)
- - [Belgium-based Odoo, which develops open-source enterprise resource planning software, hit a &amp;euro;5B valuation in a secondary share round led by CapitalG and Sequoia &lpar;Ryan Browne/CNBC&rpar;](http://www.techmeme.com/241120/p19#a241120p19)
- - [The Best Cooling Sheets for Hot Sleepers, Tested and Reviewed &lpar;2024&rpar;](https://www.wired.com/gallery/best-cooling-sheets/)<!-- TECH:END -->
+ - [8 Best MagSafe Wallets &lpar;2024&rpar;, Tested and Reviewed](https://www.wired.com/gallery/best-magsafe-wallets/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

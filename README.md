@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Japanese girl in a Cheongsam, different angle](http://9gag.com/gag/a87GN53)
- - 😝 [Oh yeah, a classic !](http://9gag.com/gag/aD245e7)
- - 💣 [Not her first rodeo!](http://9gag.com/gag/aKG75QO)
- - 😝 [The worst she can say is no](http://9gag.com/gag/a9ynwDj)
- - 👉 [Bangladeshis are destroying science related books form students saying there is only one book](http://9gag.com/gag/a1mWnXY)<!-- MEMES:END -->
+ - 😝 [Bro found endless energy.](http://9gag.com/gag/aYQyBxx)
+ - 😝 [Day ruined.](http://9gag.com/gag/aNDgGj0)
+ - 💣 [Red light](http://9gag.com/gag/a4P3gXm)
+ - 😝 [Chinese poster for today&#39;s China Vs Japan Football match at Fifa 2026 Asian Qualifiers.](http://9gag.com/gag/a34wO8r)
+ - 👉 [The worst she can say is no](http://9gag.com/gag/a9ynwDj)<!-- MEMES:END -->
 
 ---
 

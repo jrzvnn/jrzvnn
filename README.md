@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Motion capture technology has come a long way](http://9gag.com/gag/abAGnvX)
- - 😝 [Robert DuBoise on the day of his arrest at age 18, and the day he was freed from prison by DNA at 56.](http://9gag.com/gag/aBymMQz)
+ - 😝 [Magnus Carlsen blushes when an Indian girl takes his blessings](http://9gag.com/gag/aBymzWz)
+ - 😝 [The worst she can say is no](http://9gag.com/gag/a9ynwDj)
  - 💣 [Oh yeah, a classic !](http://9gag.com/gag/aD245e7)
- - 😝 [Core IT experience](http://9gag.com/gag/azxmpXp)
- - 👉 [The worst she can say is no](http://9gag.com/gag/a9ynwDj)<!-- MEMES:END -->
+ - 😝 [Karen in action.](http://9gag.com/gag/aRB7GgB)
+ - 👉 [Japanese girl in a Cheongsam, different angle](http://9gag.com/gag/a87GN53)<!-- MEMES:END -->
 
 ---
 

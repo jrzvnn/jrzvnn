@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Caretaker trio stuffed 6-year-old in dryer spin cycle and turned it on as punishment for crying over lost bag of chips, police say](http://9gag.com/gag/aoyPoGm)
- - 😝 [PVC pipe with duct tape](http://9gag.com/gag/aO87EVy)
- - 💣 [Japanese girl in a Cheongsam, different angle](http://9gag.com/gag/a87GN53)
- - 😝 [And those mammary glands.](http://9gag.com/gag/aLnwEpA)
- - 👉 [Trump being Trump](http://9gag.com/gag/aLnwZDv)<!-- MEMES:END -->
+ - 😝 [Oh yeah, a classic !](http://9gag.com/gag/aD245e7)
+ - 😝 [Red light](http://9gag.com/gag/a4P3gXm)
+ - 💣 [Goodbye, Jaguar.](http://9gag.com/gag/a9yng8K)
+ - 😝 [Trump being Trump](http://9gag.com/gag/aLnwZDv)
+ - 👉 [Lady: her ass is brutal](http://9gag.com/gag/awyBpo8)<!-- MEMES:END -->
 
 ---
 

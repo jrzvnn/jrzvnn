@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [SuperAnnotate, which provides tools for fine-tuning, iterating, and evaluating AI training datasets, raised a $36M Series B led by Socium Ventures &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/241119/p50#a241119p50)
  - [Strava updates its API terms to prohibit third-party apps from showing a user&#39;s Strava data to other users or using the data in AI models or similar apps &lpar;Ray Maker/DC Rainmaker&rpar;](http://www.techmeme.com/241119/p49#a241119p49)
  - [Leaked documents: Graykey, a phone unlocking tool used by police, retrieves &quot;partial&quot; data from the iPhone 12 up to the iPhone 16 running iOS 18 or iOS 18.0.1 &lpar;Joseph Cox/404 Media&rpar;](http://www.techmeme.com/241119/p48#a241119p48)
  - [Anyone Can Buy Data Tracking US Soldiers and Spies to Nuclear Vaults and Brothels in Germany](https://www.wired.com/story/phone-data-us-soldiers-spies-nuclear-germany/)
- - [Shanghai-based satellite company SpaceSail plans to provide internet in Brazil in 2026; SpaceSail launched its first 36 satellites in August and September &lpar;Daniel Carvalho/Bloomberg&rpar;](http://www.techmeme.com/241119/p47#a241119p47)
- - [The 8 Best Indoor Smart Gardens for 2024](https://www.cnet.com/home/smart-home/best-indoor-garden/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Shanghai-based satellite company SpaceSail plans to provide internet in Brazil in 2026; SpaceSail launched its first 36 satellites in August and September &lpar;Daniel Carvalho/Bloomberg&rpar;](http://www.techmeme.com/241119/p47#a241119p47)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

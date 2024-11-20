@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Microsoft tries to convince Windows 10 users to buy a new PC with full-screen prompts](https://www.theverge.com/2024/11/20/24301768/microsoft-windows-10-upgrade-prompt-copilot-plus-pcs)
+ - [Verizon Slashes Cost of Gizmo Watch 3 by $50 for Black Friday](https://www.cnet.com/deals/verizon-slashes-cost-of-gizmo-watch-3-by-50-for-black-friday/#ftag=CAD590a51e)
  - [Messenger video calls will look and sound better — and add AI backgrounds](https://www.theverge.com/2024/11/20/24301722/meta-facebook-messenger-hd-video-noise-suppression-video-calls-ai-backgrounds)
  - [Apple&#39;s iPad 10th Gen plunges to $279 in early Black Friday price war](https://appleinsider.com/articles/24/11/20/apples-ipad-10th-gen-plunges-to-279-in-early-black-friday-price-war?utm_medium=rss)
- - [Sources: xAI has told investors it raised $5B in a funding round valuing it at $50B and that its revenue has reached $100M on an annualized basis &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/241120/p34#a241120p34)
- - [Menlo Ventures: business spending on generative AI hit $13.8B in 2024, up from $2.3B in 2023; OpenAI&#39;s marketshare in enterprise AI declined from 50% to 34% &lpar;Hayden Field/CNBC&rpar;](http://www.techmeme.com/241120/p33#a241120p33)
- - [Sonos’ smart TV plans might have found an OS](https://www.theverge.com/2024/11/20/24301519/sonos-trade-desk-venture-tv-operating-system)<!-- TECH:END -->
+ - [Apple&#39;s Latest A17 Pro iPad Mini Just Got Its First Real Black Friday Discount](https://www.cnet.com/deals/apples-latest-a17-pro-ipad-mini-just-got-its-first-real-black-friday-discount/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

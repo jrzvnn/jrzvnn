@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Karen in action.](http://9gag.com/gag/aRB7GgB)
- - 😝 [Call me anytime](http://9gag.com/gag/aqynwKP)
- - 💣 [Not her first rodeo!](http://9gag.com/gag/aKG75QO)
+ - 😝 [Post](http://9gag.com/gag/awyBDqy)
  - 😝 [Red light](http://9gag.com/gag/a4P3gXm)
- - 👉 [Lady: her ass is brutal](http://9gag.com/gag/awyBpo8)<!-- MEMES:END -->
+ - 💣 [Well\u2026I guess that was the most memorable day of her life](http://9gag.com/gag/a1mWg5b)
+ - 😝 [A good host always provides refreshments to his guests..](http://9gag.com/gag/adBVwKN)
+ - 👉 [The fittest woman in the usa](http://9gag.com/gag/aAye7D2)<!-- MEMES:END -->
 
 ---
 

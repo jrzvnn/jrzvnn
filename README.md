@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [German Burgergeld. If you ever wonder why all migrants destination is Germany.](http://9gag.com/gag/a87GOWY)
- - 😝 [Lady: her ass is brutal](http://9gag.com/gag/awyBpo8)
- - 💣 [Call me anytime](http://9gag.com/gag/aqynwKP)
+ - 😝 [Call me anytime](http://9gag.com/gag/aqynwKP)
+ - 😝 [Japanese girl in a Cheongsam, different angle](http://9gag.com/gag/a87GN53)
+ - 💣 [Oh yeah, a classic !](http://9gag.com/gag/aD245e7)
  - 😝 [Motion capture technology has come a long way](http://9gag.com/gag/abAGnvX)
- - 👉 [Japanese girl in a Cheongsam, different angle](http://9gag.com/gag/a87GN53)<!-- MEMES:END -->
+ - 👉 [German Burgergeld. If you ever wonder why all migrants destination is Germany.](http://9gag.com/gag/a87GOWY)<!-- MEMES:END -->
 
 ---
 

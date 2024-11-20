@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Snowflake reports Q3 revenue up 28% YoY to $942.09M, vs. $898.46M est., unveils a deal with Anthropic to bring Claude to Cortex AI; SNOW jumps 18%+ after hours &lpar;Larry Dignan/Constellation Research&rpar;](http://www.techmeme.com/241120/p36#a241120p36)
  - [Nvidia reports Q3 revenue up 94% YoY to $35.1B, vs. $33.2B est., Data Center revenue up 112% to $30.8B, vs. $29B est., and forecasts Q4 revenue above estimates &lpar;Daniel Howley/Yahoo Finance&rpar;](http://www.techmeme.com/241120/p35#a241120p35)
  - [Reddit is having some issues](https://www.theverge.com/2024/11/20/24301839/reddit-issues-outage-down-degraded-performance)
  - [Microsoft tries to convince Windows 10 users to buy a new PC with full-screen prompts](https://www.theverge.com/2024/11/20/24301768/microsoft-windows-10-upgrade-prompt-copilot-plus-pcs)
- - [Verizon Slashes Cost of Gizmo Watch 3 by $50 for Black Friday](https://www.cnet.com/deals/verizon-slashes-cost-of-gizmo-watch-3-by-50-for-black-friday/#ftag=CAD590a51e)
- - [Messenger video calls will look and sound better — and add AI backgrounds](https://www.theverge.com/2024/11/20/24301722/meta-facebook-messenger-hd-video-noise-suppression-video-calls-ai-backgrounds)<!-- TECH:END -->
+ - [Verizon Slashes Cost of Gizmo Watch 3 by $50 for Black Friday](https://www.cnet.com/deals/verizon-slashes-cost-of-gizmo-watch-3-by-50-for-black-friday/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

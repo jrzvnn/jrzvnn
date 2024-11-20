@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Not her first rodeo!](http://9gag.com/gag/aKG75QO)
- - 😝 [Japanese girl in a Cheongsam, different angle](http://9gag.com/gag/a87GN53)
- - 💣 [Post](http://9gag.com/gag/awyBDqy)
- - 😝 [Bangladeshis are destroying science related books form students saying there is only one book](http://9gag.com/gag/a1mWnXY)
- - 👉 [Robert DuBoise on the day of his arrest at age 18, and the day he was freed from prison by DNA at 56.](http://9gag.com/gag/aBymMQz)<!-- MEMES:END -->
+ - 😝 [Karen in action.](http://9gag.com/gag/aRB7GgB)
+ - 😝 [Call me anytime](http://9gag.com/gag/aqynwKP)
+ - 💣 [Not her first rodeo!](http://9gag.com/gag/aKG75QO)
+ - 😝 [Red light](http://9gag.com/gag/a4P3gXm)
+ - 👉 [Lady: her ass is brutal](http://9gag.com/gag/awyBpo8)<!-- MEMES:END -->
 
 ---
 

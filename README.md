@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Mike Tyson&#39;s last visit to Mohammad Ali before the later&lpar;the Champ&rpar; died.](http://9gag.com/gag/avyzVRd)
+ - 😝 [Lady: her ass is brutal](http://9gag.com/gag/awyBpo8)
  - 😝 [Oh yeah, a classic !](http://9gag.com/gag/aD245e7)
- - 💣 [A good host always provides refreshments to his guests..](http://9gag.com/gag/adBVwKN)
- - 😝 [Call me anytime](http://9gag.com/gag/aqynwKP)
- - 👉 [The worst she can say is no](http://9gag.com/gag/a9ynwDj)<!-- MEMES:END -->
+ - 💣 [Post](http://9gag.com/gag/awyBDqy)
+ - 😝 [Japanese girl in a Cheongsam, different angle](http://9gag.com/gag/a87GN53)
+ - 👉 [Call me anytime](http://9gag.com/gag/aqynwKP)<!-- MEMES:END -->
 
 ---
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Nomad Discount Codes and Deals: 50% Off | November 2024](https://www.wired.com/story/nomad-discount-code/)
+ - [10% Off Sephora Promo Codes &amp; Coupons | November 2024](https://www.wired.com/story/sephora-promo-code/)
  - [How Mark Zuckerberg made Llama a cornerstone of AI ambitions at Meta, whose smartphone-era services and products have been constrained by Apple and Google &lpar;Sharon Goldman/Fortune&rpar;](http://www.techmeme.com/241120/p8#a241120p8)
  - [10% off Dell Coupon Code - November 2024](https://www.wired.com/story/dell-coupon-code/)
- - [AI pioneer Yoshua Bengio says models like OpenAI&#39;s o1 could accelerate research on AI itself and calls for more urgent AI regulation to protect the public &lpar;Yoshua Bengio/Financial Times&rpar;](http://www.techmeme.com/241120/p7#a241120p7)
- - [Design Within Reach Promo Code: 25% Off  | November 2024](https://www.wired.com/story/design-within-reach-promo-code/)
- - [TechInsights: China&#39;s chip self-sufficiency rate rose from ~14% in 2014 to 23% in 2023 and is expected to hit 27% in 2027, as China rushes to boost chip supply &lpar;Nikkei Asia&rpar;](http://www.techmeme.com/241120/p6#a241120p6)<!-- TECH:END -->
+ - [AI pioneer Yoshua Bengio says models like OpenAI&#39;s o1 could accelerate research on AI itself and calls for more urgent AI regulation to protect the public &lpar;Yoshua Bengio/Financial Times&rpar;](http://www.techmeme.com/241120/p7#a241120p7)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Bangladeshis are destroying science related books form students saying there is only one book](http://9gag.com/gag/a1mWnXY)
- - 😝 [He got what he deserved! Pet Lion attacked invited guest at home who was treating Lion as domestic Cat, Experts living with lions understand the psychology of lions, they have a good understanding of the changing mood of lions.](http://9gag.com/gag/a2vWAzY)
- - 💣 [Oh yeah, a classic !](http://9gag.com/gag/aD245e7)
  - 😝 [Japanese girl in a Cheongsam, different angle](http://9gag.com/gag/a87GN53)
- - 👉 [That was painful to watch](http://9gag.com/gag/an74ZKB)<!-- MEMES:END -->
+ - 😝 [Oh yeah, a classic !](http://9gag.com/gag/aD245e7)
+ - 💣 [Not her first rodeo!](http://9gag.com/gag/aKG75QO)
+ - 😝 [The worst she can say is no](http://9gag.com/gag/a9ynwDj)
+ - 👉 [Bangladeshis are destroying science related books form students saying there is only one book](http://9gag.com/gag/a1mWnXY)<!-- MEMES:END -->
 
 ---
 

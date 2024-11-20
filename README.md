@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Oh yeah, a classic !](http://9gag.com/gag/aD245e7)
- - 😝 [Mike Tyson&#39;s last visit to Mohammad Ali before the later&lpar;the Champ&rpar; died.](http://9gag.com/gag/avyzVRd)
- - 💣 [Bangladeshis are destroying science related books form students saying there is only one book](http://9gag.com/gag/a1mWnXY)
- - 😝 [Day ruined.](http://9gag.com/gag/aNDgGj0)
- - 👉 [A good host always provides refreshments to his guests..](http://9gag.com/gag/adBVwKN)<!-- MEMES:END -->
+ - 😝 [Wholesome posts I saved #2](http://9gag.com/gag/ajP933x)
+ - 😝 [The worst she can say is no](http://9gag.com/gag/a9ynwDj)
+ - 💣 [Who else knows this gem from the good old days?](http://9gag.com/gag/apRGMnM)
+ - 😝 [Jay Z\u2019s priceless expression. Courtesy: Paul](http://9gag.com/gag/aBymMwO)
+ - 👉 [Stop pushing education in our throats this is just not our thing](http://9gag.com/gag/ajP9jAG)<!-- MEMES:END -->
 
 ---
 

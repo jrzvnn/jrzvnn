@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [German Burgergeld. If you ever wonder why all migrants destination is Germany.](http://9gag.com/gag/a87GOWY)
- - 😝 [Oh yeah, a classic !](http://9gag.com/gag/aD245e7)
- - 💣 [The worst she can say is no](http://9gag.com/gag/a9ynwDj)
- - 😝 [Not really trying to hide](http://9gag.com/gag/a2vWVKd)
- - 👉 [Not her first rodeo!](http://9gag.com/gag/aKG75QO)<!-- MEMES:END -->
+ - 😝 [Karen in action.](http://9gag.com/gag/aRB7GgB)
+ - 😝 [Not her first rodeo!](http://9gag.com/gag/aKG75QO)
+ - 💣 [Jay Z\u2019s priceless expression. Courtesy: Paul](http://9gag.com/gag/aBymMwO)
+ - 😝 [A good host always provides refreshments to his guests..](http://9gag.com/gag/adBVwKN)
+ - 👉 [Red light](http://9gag.com/gag/a4P3gXm)<!-- MEMES:END -->
 
 ---
 

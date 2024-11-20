@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Lady: her ass is brutal](http://9gag.com/gag/awyBpo8)
- - 😝 [Oh yeah, a classic !](http://9gag.com/gag/aD245e7)
- - 💣 [Post](http://9gag.com/gag/awyBDqy)
- - 😝 [Japanese girl in a Cheongsam, different angle](http://9gag.com/gag/a87GN53)
- - 👉 [Call me anytime](http://9gag.com/gag/aqynwKP)<!-- MEMES:END -->
+ - 😝 [That was painful to watch](http://9gag.com/gag/an74ZKB)
+ - 😝 [Rookie misstake](http://9gag.com/gag/aMVx6LG)
+ - 💣 [The worst she can say is no](http://9gag.com/gag/a9ynwDj)
+ - 😝 [Call me anytime](http://9gag.com/gag/aqynwKP)
+ - 👉 [Post](http://9gag.com/gag/awyBDqy)<!-- MEMES:END -->
 
 ---
 

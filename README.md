@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [ProRata, which is launching an AI search engine next month, inks licensing deals with DMG Media and more; sources say DMG bought a stake that values it at $130M &lpar;Daniel Thomas/Financial Times&rpar;](http://www.techmeme.com/241120/p11#a241120p11)
+ - [An investigation reveals how 3B+ phone coordinates collected by a US data broker Datastream expose movements of US military and intelligence workers in Germany &lpar;Wired&rpar;](http://www.techmeme.com/241120/p10#a241120p10)
  - [How AI breakthroughs like diffusion models, vision language models, and liquid neural networks are transforming the way robots learn new skills and tasks &lpar;Financial Times&rpar;](http://www.techmeme.com/241120/p9#a241120p9)
  - [$130 Off Factor Promo Code &amp; Discount Code | November 2024](https://www.wired.com/story/factor-promo-code/)
- - [Nomad Discount Codes and Deals: 50% Off | November 2024](https://www.wired.com/story/nomad-discount-code/)
- - [10% Off Sephora Promo Codes &amp; Coupons | November 2024](https://www.wired.com/story/sephora-promo-code/)
- - [How Mark Zuckerberg made Llama a cornerstone of AI ambitions at Meta, whose smartphone-era services and products have been constrained by Apple and Google &lpar;Sharon Goldman/Fortune&rpar;](http://www.techmeme.com/241120/p8#a241120p8)<!-- TECH:END -->
+ - [Amazon Black Friday Shopping Secrets to Get the Best Deals](https://www.cnet.com/tech/amazon-black-friday-shopping-secrets-to-get-the-best-deals/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

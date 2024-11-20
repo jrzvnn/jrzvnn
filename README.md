@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Amazon’s new Echo Show 21 has a huge screen and built-in smart home hub](https://www.theverge.com/2024/11/20/24301489/amazon-echo-show-21-smart-display-price-specs-release-date)
- - [Shazam has been used more than 100 billion times since it launched](https://appleinsider.com/articles/24/11/20/shazam-has-been-used-more-than-100-billion-times-since-it-launched?utm_medium=rss)
- - [A US judge sentences FTX co-founder Gary Wang to &quot;time served&quot;, meaning no jail time; Wang pleaded guilty in December 2022 to fraud charges after FTX collapsed &lpar;Sarah Wynn/The Block&rpar;](http://www.techmeme.com/241120/p22#a241120p22)
- - [Google fixes Chrome issue that broke text highlighting on some sites](https://www.theverge.com/2024/11/20/24301471/google-chrome-text-highlighting-visible-issue-fixed)
- - [GSMA: 4.6B people are now connected to mobile internet, or 57% of the world; mobile subscriber growth fell to 160M in 2023, from 200M per year from 2015 to 2021 &lpar;Rest of World&rpar;](http://www.techmeme.com/241120/p21#a241120p21)<!-- TECH:END -->
+ - [Anker’s excellent 6.6K MagGo Power Bank is down to an absolute steal at $19.99](https://www.theverge.com/2024/11/20/24301443/ankers-6-6k-maggo-power-bank-black-friday-deal-sale)
+ - [&#39;Final Fantasy XIV Mobile&#39; brings epic adventures to your iPhone](https://appleinsider.com/articles/24/11/20/final-fantasy-xiv-mobile-brings-epic-adventures-to-your-iphone?utm_medium=rss)
+ - [Amazon unveils the $400 Echo Show 21, an upgrade to the Echo Show 15 from 2022, with a 21&quot; 1080p display and auto-framing camera, and updates the Echo Show 15 &lpar;Jennifer Pattison Tuohy/The Verge&rpar;](http://www.techmeme.com/241120/p23#a241120p23)
+ - [Keep Your Home Protected During Your Holiday Travel With Up to 60% Off Blink Outdoor 4 Cams](https://www.cnet.com/deals/keep-your-home-protected-during-your-holiday-travel-with-up-to-60-off-blink-outdoor-cams/#ftag=CAD590a51e)
+ - [Amazon’s new Echo Show 21 has a huge screen and built-in smart home hub](https://www.theverge.com/2024/11/20/24301489/amazon-echo-show-21-smart-display-price-specs-release-date)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

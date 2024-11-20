@@ -166,10 +166,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Mike Tyson&#39;s last visit to Mohammad Ali before the later&lpar;the Champ&rpar; died.](http://9gag.com/gag/avyzVRd)
- - 😝 [Japanese girl in a Cheongsam, different angle](http://9gag.com/gag/a87GN53)
- - 💣 [Lady: her ass is brutal](http://9gag.com/gag/awyBpo8)
- - 😝 [Trump being Trump](http://9gag.com/gag/aLnwZDv)
+ - 😝 [Switzerland: 17-year-old asylum seeker from Afghanistan puts on the crown of the Black Madonna in front of praying Christians at the Einsiedeln Abbey Church.](http://9gag.com/gag/aD249ex)
+ - 😝 [Lady: her ass is brutal](http://9gag.com/gag/awyBpo8)
+ - 💣 [German Burgergeld. If you ever wonder why all migrants destination is Germany.](http://9gag.com/gag/a87GOWY)
+ - 😝 [Not her first rodeo!](http://9gag.com/gag/aKG75QO)
  - 👉 [Motion capture technology has come a long way](http://9gag.com/gag/abAGnvX)<!-- MEMES:END -->
 
 ---

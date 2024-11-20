@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [GSMA: 4.6B people are now connected to mobile internet, or 57% of the world; mobile subscriber growth fell to 160M in 2023, from 200M per year from 2015 to 2021 &lpar;Rest of World&rpar;](http://www.techmeme.com/241120/p21#a241120p21)
- - [This keyboard is a touchscreen that doubles as a second monitor](https://www.theverge.com/2024/11/20/24301361/ds-pixel-keyboard-touchscreen-hdmi-display-kickstarter)
- - [Stellantis’ electric STLA Frame gives vehicles 690 miles of range with an extender](https://www.theverge.com/2024/11/20/24301382/stellantis-stla-frame-ev-platform-specs-ram-rev-ramcharger)
- - [Vision Pro’s viral Lapz app put on hold after F1 complaint](https://www.theverge.com/2024/11/20/24301420/apple-vision-pro-viral-lapz-app-f1-complaint)
- - [Wish Broadband Data Caps Would Go Away? Trump&#39;s Incoming FCC Chair Doesn&#39;t](https://www.cnet.com/home/internet/wish-broadband-data-caps-would-go-away-trumps-incoming-fcc-chair-doesnt/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Amazon’s new Echo Show 21 has a huge screen and built-in smart home hub](https://www.theverge.com/2024/11/20/24301489/amazon-echo-show-21-smart-display-price-specs-release-date)
+ - [Shazam has been used more than 100 billion times since it launched](https://appleinsider.com/articles/24/11/20/shazam-has-been-used-more-than-100-billion-times-since-it-launched?utm_medium=rss)
+ - [A US judge sentences FTX co-founder Gary Wang to &quot;time served&quot;, meaning no jail time; Wang pleaded guilty in December 2022 to fraud charges after FTX collapsed &lpar;Sarah Wynn/The Block&rpar;](http://www.techmeme.com/241120/p22#a241120p22)
+ - [Google fixes Chrome issue that broke text highlighting on some sites](https://www.theverge.com/2024/11/20/24301471/google-chrome-text-highlighting-visible-issue-fixed)
+ - [GSMA: 4.6B people are now connected to mobile internet, or 57% of the world; mobile subscriber growth fell to 160M in 2023, from 200M per year from 2015 to 2021 &lpar;Rest of World&rpar;](http://www.techmeme.com/241120/p21#a241120p21)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Lady: her ass is brutal](http://9gag.com/gag/awyBpo8)
- - 😝 [Japanese girl in a Cheongsam, different angle](http://9gag.com/gag/a87GN53)
- - 💣 [A good host always provides refreshments to his guests..](http://9gag.com/gag/adBVwKN)
- - 😝 [German Burgergeld. If you ever wonder why all migrants destination is Germany.](http://9gag.com/gag/a87GOWY)
- - 👉 [And those mammary glands.](http://9gag.com/gag/aLnwEpA)<!-- MEMES:END -->
+ - 😝 [PVC pipe with duct tape](http://9gag.com/gag/aO87EVy)
+ - 😝 [Core IT experience](http://9gag.com/gag/azxmpXp)
+ - 💣 [Caretaker trio stuffed 6-year-old in dryer spin cycle and turned it on as punishment for crying over lost bag of chips, police say](http://9gag.com/gag/aoyPoGm)
+ - 😝 [Post](http://9gag.com/gag/awyBDqy)
+ - 👉 [A good host always provides refreshments to his guests..](http://9gag.com/gag/adBVwKN)<!-- MEMES:END -->
 
 ---
 

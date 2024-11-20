@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Switzerland: 17-year-old asylum seeker from Afghanistan puts on the crown of the Black Madonna in front of praying Christians at the Einsiedeln Abbey Church.](http://9gag.com/gag/aD249ex)
+ - 😝 [German Burgergeld. If you ever wonder why all migrants destination is Germany.](http://9gag.com/gag/a87GOWY)
  - 😝 [Lady: her ass is brutal](http://9gag.com/gag/awyBpo8)
- - 💣 [German Burgergeld. If you ever wonder why all migrants destination is Germany.](http://9gag.com/gag/a87GOWY)
- - 😝 [Not her first rodeo!](http://9gag.com/gag/aKG75QO)
- - 👉 [Motion capture technology has come a long way](http://9gag.com/gag/abAGnvX)<!-- MEMES:END -->
+ - 💣 [Call me anytime](http://9gag.com/gag/aqynwKP)
+ - 😝 [Motion capture technology has come a long way](http://9gag.com/gag/abAGnvX)
+ - 👉 [Japanese girl in a Cheongsam, different angle](http://9gag.com/gag/a87GN53)<!-- MEMES:END -->
 
 ---
 

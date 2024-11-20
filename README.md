@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Amazon Just Dropped the Biggest Echo Show Ever](https://www.wired.com/story/amazon-echo-show-21-announced/)
+ - [T-Mobile actually stopped some hackers from stealing customer data](https://www.theverge.com/2024/11/20/24301570/t-mobile-network-breach-stopped-salt-typhoon)
  - [Sources: Trump&#39;s team is talking with the crypto industry over whether to create a White House post dedicated to cryptocurrency policy and is vetting candidates &lpar;Bloomberg&rpar;](http://www.techmeme.com/241120/p30#a241120p30)
  - [The New York Times is trying to shut down a popular Connections puzzle creator](https://www.theverge.com/2024/11/20/24301557/new-york-times-connections-creator-take-down)
- - [US prosecutors charge five alleged members of the Scattered Spider hacking group for their role in the hacks of 29+ individuals and theft of $11M+ in crypto &lpar;Margi Murphy/Bloomberg&rpar;](http://www.techmeme.com/241120/p29#a241120p29)
- - [DCG founder Barry Silbert announces a subsidiary called Yuma to help build decentralized AI services called &quot;subnets&quot; on the Bittensor blockchain network &lpar;Jeff John Roberts/Fortune&rpar;](http://www.techmeme.com/241120/p28#a241120p28)
- - [French AI startup H, which raised a $220M seed in May 2024, announces its first product, Runner H, an &quot;agentic&quot; AI model, available in private beta &lpar;Ingrid Lunden/TechCrunch&rpar;](http://www.techmeme.com/241120/p27#a241120p27)<!-- TECH:END -->
+ - [US prosecutors charge five alleged members of the Scattered Spider hacking group for their role in the hacks of 29+ individuals and theft of $11M+ in crypto &lpar;Margi Murphy/Bloomberg&rpar;](http://www.techmeme.com/241120/p29#a241120p29)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

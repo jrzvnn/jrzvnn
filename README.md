@@ -160,8 +160,8 @@ R                        1 repo              ░░░░░░░░░░░�
  - [Nvidia says its Blackwell AI chip is ‘full steam’ ahead](https://www.theverge.com/2024/11/20/24301810/nvidia-blackwell-ai-b200-gb200-full-production-q3-2025-earnings)
  - [Palo Alto Networks reports Q1 revenue up 14% YoY to $2.14B, vs. $2.12B est., and projects FY 2025 sales in line with estimates; PANW drops 5%+ after hours &lpar;Claudia Assis/MarketWatch&rpar;](http://www.techmeme.com/241120/p37#a241120p37)
  - [Apple fights to keep DOJ antitrust suit from reaching trial](https://www.theverge.com/2024/11/20/24301660/apple-doj-motion-dismiss-antitrust-lawsuit)
- - [AI landlord screening tool will stop scoring low-income tenants after discrimination suit](https://www.theverge.com/2024/11/20/24297692/ai-landlord-tool-saferent-low-income-tenants-discrimination-settlement)
- - [Google is pissed that the DOJ may make it sell off Chrome](https://appleinsider.com/articles/24/11/20/google-is-pissed-that-the-doj-may-make-it-sell-chrome?utm_medium=rss)<!-- TECH:END -->
+ - [Starlink Puts Customers On Waitlist in Several US Cities](https://www.cnet.com/home/internet/starlink-puts-customers-on-waitlist-in-several-us-cities/#ftag=CAD590a51e)
+ - [Best LED Floodlight Bulbs of 2024](https://www.cnet.com/home/kitchen-and-household/best-led-floodlight/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

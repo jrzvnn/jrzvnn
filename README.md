@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [LimeWire’s new merch will help you impress your peer&lpar;-to-peer&rpar;s](https://www.theverge.com/2024/11/20/24301564/limewire-dumbgood-capsule-collection-apparel)
  - [Final Fantasy XIV Mobile will bring Eorzea to your phone](https://www.theverge.com/2024/11/20/24301435/final-fantasy-14-mobile-square-enix)
  - [Save up to 36% on Microsoft Office for Mac 2024 with this early Black Friday special](https://appleinsider.com/articles/24/11/20/save-up-to-36-on-microsoft-office-for-mac-2024-with-this-early-black-friday-special?utm_medium=rss)
  - [Meta unveils new Messenger features, including audio and video voicemail, AI backgrounds for video calls, and hands-free calling and messaging via Siri &lpar;Zac Hall/9to5Mac&rpar;](http://www.techmeme.com/241120/p26#a241120p26)
- - [Threads’ custom feeds are already rolling out](https://www.theverge.com/2024/11/20/24301587/threads-custom-feeds-rolling-out)
- - [Join Us for the WIRED Big Interview Event](https://www.wired.com/story/thebiginterview-2024-conference/)<!-- TECH:END -->
+ - [Threads’ custom feeds are already rolling out](https://www.theverge.com/2024/11/20/24301587/threads-custom-feeds-rolling-out)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Israeli enterprise data security startup Cyera raised a $300M Series D led by Accel and Sapphire Ventures at a $3B+ valuation, up from $1.4B in April 2024 &lpar;Meytal Vaizberg/Globes Online&rpar;](http://www.techmeme.com/241120/p17#a241120p17)
- - [Best Internet Providers in Portland, Oregon](https://www.cnet.com/home/internet/best-internet-providers-in-portland-or/#ftag=CAD590a51e)
- - [Best Over-the-Counter Eye Drops of 2024](https://www.cnet.com/health/personal-care/best-eye-drops/#ftag=CAD590a51e)
- - [How Google spent 15 years creating a culture of concealment, telling staff to destroy messages, avoid some words, and copy in lawyers, as it faces US lawsuits &lpar;David Streitfeld/New York Times&rpar;](http://www.techmeme.com/241120/p16#a241120p16)
- - [Homeowners Face Higher Refi Rates: Mortgage Refinance Rates for Nov. 20, 2024](https://www.cnet.com/personal-finance/mortgages/homeowners-face-higher-refi-rates-mortgage-refinance-rates-for-nov-20-2024/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Give a Pokemon Fan Something They Don’t Have With This Pikachu Ramen Bowl for Just $10](https://www.cnet.com/deals/give-a-pokemon-fan-something-they-dont-have-with-this-pikachu-ramen-bowl-for-just-10/#ftag=CAD590a51e)
+ - [Want the Benefits of Apple Cider Vinegar Without the Harsh Taste? Try These Tasty ACV Drinks](https://www.cnet.com/news/best-apple-cider-vinegar-drinks/#ftag=CAD590a51e)
+ - [17 Best Black Friday Deals on Bedding for Your Holiday Shopping](https://www.cnet.com/deals/best-black-friday-bedding-deals-2024/#ftag=CAD590a51e)
+ - [The 6 Best Linen Sheets for Cool and Comfy Sleeping &lpar;2024&rpar;](https://www.wired.com/gallery/best-linen-sheets/)
+ - [Best Internet Providers in Philadelphia, Pennsylvania](https://www.cnet.com/home/internet/best-internet-providers-in-philadelphia-pa/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

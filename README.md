@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Klarna&#39;s US IPO listing is another deep blow to Europe, where the absence of a complete single market is pushing EU startups to choose US exchanges for an IPO &lpar;Richard Milne/Financial Times&rpar;](http://www.techmeme.com/241120/p12#a241120p12)
+ - [The 2024 Roku Ultra 4K Streaming Device Is $1 Off Its Best-Ever Price Ahead of Black Friday](https://www.cnet.com/deals/the-2024-roku-ultra-4k-streaming-device-is-1-off-its-best-ever-price-ahead-of-black-friday/#ftag=CAD590a51e)
+ - [Attention Gamers: The Lenovo Legion Go Is 22% Off, Even Before Black Friday](https://www.cnet.com/deals/attention-gamers-lenovo-legion-go-22-off-before-black-friday/#ftag=CAD590a51e)
  - [ProRata, which is launching an AI search engine next month, inks licensing deals with DMG Media and more; sources say DMG bought a stake that values it at $130M &lpar;Daniel Thomas/Financial Times&rpar;](http://www.techmeme.com/241120/p11#a241120p11)
- - [An investigation reveals how 3B+ phone coordinates collected by a US data broker Datastream expose movements of US military and intelligence workers in Germany &lpar;Wired&rpar;](http://www.techmeme.com/241120/p10#a241120p10)
- - [How AI breakthroughs like diffusion models, vision language models, and liquid neural networks are transforming the way robots learn new skills and tasks &lpar;Financial Times&rpar;](http://www.techmeme.com/241120/p9#a241120p9)
- - [$130 Off Factor Promo Code &amp; Discount Code | November 2024](https://www.wired.com/story/factor-promo-code/)
- - [Amazon Black Friday Shopping Secrets to Get the Best Deals](https://www.cnet.com/tech/amazon-black-friday-shopping-secrets-to-get-the-best-deals/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Best Air Fryer Toaster Ovens for 2024](https://www.cnet.com/home/kitchen-and-household/best-countertop-oven-and-air-fryer/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

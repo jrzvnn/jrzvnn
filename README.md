@@ -166,10 +166,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [Caretaker trio stuffed 6-year-old in dryer spin cycle and turned it on as punishment for crying over lost bag of chips, police say](http://9gag.com/gag/aoyPoGm)
  - 😝 [Fun fact #2,773,378,980](http://9gag.com/gag/aLnw7eA)
- - 😝 [A noble sacrifice](http://9gag.com/gag/azxmWrz)
- - 💣 [Even the orangutan can&#39;t explain what happened](http://9gag.com/gag/a5QWY0y)
- - 😝 [Trump being Trump](http://9gag.com/gag/aLnwZDv)
+ - 💣 [Jorge remembered slowly](http://9gag.com/gag/awyBjLx)
+ - 😝 [Oh yeah, a classic !](http://9gag.com/gag/aD245e7)
  - 👉 [Call me anytime](http://9gag.com/gag/aqynwKP)<!-- MEMES:END -->
 
 ---

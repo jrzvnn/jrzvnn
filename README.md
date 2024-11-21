@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [Stress testing an M16.](http://9gag.com/gag/aVvw6LM)
  - 😝 [This was the day he realized his *friends* were living a different life than he wanted for himself](http://9gag.com/gag/a4P3v9y)
- - 😝 [Trump being Trump](http://9gag.com/gag/aLnwZDv)
- - 💣 [Go sports](http://9gag.com/gag/apRGZ5b)
+ - 💣 [Lambo huracan story](http://9gag.com/gag/a87GOdY)
  - 😝 [There! \ud83d\udd2d\ud83d\udc48 It\u2019s officially time to download Royal Kingdom.](http://9gag.com/gag/aGydvO5)
- - 👉 [Red light](http://9gag.com/gag/a4P3gXm)<!-- MEMES:END -->
+ - 👉 [And those mammary glands.](http://9gag.com/gag/aLnwEpA)<!-- MEMES:END -->
 
 ---
 

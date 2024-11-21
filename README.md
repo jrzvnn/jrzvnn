@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Filing: the US DOJ asks a federal judge to force Google to sell Chrome and impose restrictions designed to prevent Android from favoring its search engine &lpar;Michael Liedtke/Associated Press&rpar;](http://www.techmeme.com/241120/p43#a241120p43)
+ - [Selling Chrome Won’t Be Enough to End Google’s Search Monopoly](https://www.wired.com/story/doj-google-chrome-antitrust/)
+ - [Apple&#39;s App Store takedowns over copyright claims continue to annoy developers](https://appleinsider.com/articles/24/11/20/apples-quick-app-store-takedowns-over-copyright-claims-are-a-nightmare-for-developers?utm_medium=rss)
  - [OpenAI releases a free online course for K-12 teachers to integrate ChatGPT into their classrooms, but some educators remain skeptical about the technology &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/241120/p42#a241120p42)
- - [Australia introduces a bill in Parliament to ban children younger than 16 from social media; companies would face fines of up to AU$50M for violations &lpar;Rod McGuirk/Associated Press&rpar;](http://www.techmeme.com/241120/p41#a241120p41)
- - [How to Use Free Wi-Fi Securely This Holiday Season](https://www.cnet.com/home/internet/how-to-use-free-wi-fi-securely-this-holiday-season/#ftag=CAD590a51e)
- - [Honda has a plan to build solid-state batteries for EVs](https://www.theverge.com/2024/11/20/24301613/honda-solid-state-batteries-factory-demo-test-ev)
- - [Neuralink receives approval from Canada to launch clinical trials of its brain implants and plans to run its first non-US trial with Toronto Western Hospital &lpar;Sarah McBride/Bloomberg&rpar;](http://www.techmeme.com/241120/p40#a241120p40)<!-- TECH:END -->
+ - [Australia introduces a bill in Parliament to ban children younger than 16 from social media; companies would face fines of up to AU$50M for violations &lpar;Rod McGuirk/Associated Press&rpar;](http://www.techmeme.com/241120/p41#a241120p41)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

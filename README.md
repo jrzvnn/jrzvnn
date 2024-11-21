@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [WalkingPad C2 Mini Foldable Treadmill Review: Stable Underfoot](https://www.wired.com/review/walkingpad-c2/)
+ - [A profile of Thrive Capital, whose biggest portfolio companies include OpenAI and Stripe, as rivals say the VC firm&#39;s approach is closer to asset management &lpar;George Hammond/Financial Times&rpar;](http://www.techmeme.com/241121/p18#a241121p18)
  - [Daniel Craig’s Secret Omega Seamaster Diver Has Dropped](https://www.wired.com/story/daniel-craigs-secret-omega-seamaster-diver-has-dropped/)
  - [Border Militias Prepare to Assist With Donald Trump’s Mass Deportation Plans](https://www.wired.com/story/border-militias-immigrants-trump/)
- - [Forcing Google to sell Chrome sounds good on paper but the reality of it happening is fairly small as it will be extremely messy, if not impossible to execute &lpar;M.G. Siegler/Spyglass&rpar;](http://www.techmeme.com/241121/p17#a241121p17)
- - [How Satya Nadella transformed Microsoft as it enters its 50th year, including by changing its toxic culture, embracing open source, and making the OpenAI deal &lpar;Steven Levy/Wired&rpar;](http://www.techmeme.com/241121/p16#a241121p16)
- - [9 Best Cooling Mattresses &lpar;2024&rpar;: Hybrid, Soft, Foam](https://www.wired.com/gallery/best-cooling-mattresses/)<!-- TECH:END -->
+ - [Forcing Google to sell Chrome sounds good on paper but the reality of it happening is fairly small as it will be extremely messy, if not impossible to execute &lpar;M.G. Siegler/Spyglass&rpar;](http://www.techmeme.com/241121/p17#a241121p17)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

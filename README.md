@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Correct reaction. She passed the test.](http://9gag.com/gag/aYQyX2N)
- - 😝 [This was the day he realized his *friends* were living a different life than he wanted for himself](http://9gag.com/gag/a4P3v9y)
- - 💣 [Keeping it cool and not missing a single note while being harassed](http://9gag.com/gag/aQzdjm7)
+ - 😝 [Even the orangutan can&#39;t explain what happened](http://9gag.com/gag/a5QWY0y)
+ - 😝 [Keeping it cool and not missing a single note while being harassed](http://9gag.com/gag/aQzdjm7)
+ - 💣 [British actors always peaked at British cinema then get Hollyworld at Usa](http://9gag.com/gag/aO87Lnv)
  - 😝 [Look at the animation quality of this trailer! \ud83e\udd29](http://9gag.com/gag/aGydvO5)
- - 👉 [Who is someone that you genuinely love?](http://9gag.com/gag/aAyez3p)<!-- MEMES:END -->
+ - 👉 [Trump being Trump](http://9gag.com/gag/aLnwZDv)<!-- MEMES:END -->
 
 ---
 

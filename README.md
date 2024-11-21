@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Google’s Black Friday sale features record low prices on Pixel, Nest, and more](https://www.theverge.com/2024/11/21/24302290/google-black-friday-2024-pixel-nest-fitbit-deal-sale)
+ - [Steam is adding support, and more rules, for ‘season pass’ content](https://www.theverge.com/2024/11/21/24302483/steam-season-pass-support-developer-guidelines)
+ - [Google reportedly cancels Pixel Tablet 2 and might quit the category — again](https://www.theverge.com/2024/11/21/24302508/google-pixel-tablet-2-canceled-rumor)
  - [Star Wars Outlaws’ first expansion brings Lando into the game](https://www.theverge.com/2024/11/21/24302318/star-wars-outlaws-lando-dlc-steam-launch-stealth-update)
- - [SEC chair Gary Gensler will step down on January 20; it has been traditional for SEC chairs to resign if the administration changes in the middle of their term &lpar;Brady Dale/Axios&rpar;](http://www.techmeme.com/241121/p33#a241121p33)
- - [Meta Finally Breaks Its Silence on Pig Butchering](https://www.wired.com/story/meta-pig-butchering-report-2024/)
- - [Best Internet Providers in Ontario, California](https://www.cnet.com/home/internet/best-internet-providers-in-ontario-ca/#ftag=CAD590a51e)
- - [Game Anywhere This Black Friday With the Biggest Asus Rog Ally X Discount Ever](https://www.cnet.com/deals/get-your-game-on-this-black-friday-with-the-first-asus-rog-ally-x-discount-to-date/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [SEC chair Gary Gensler will step down on January 20; it has been traditional for SEC chairs to resign if the administration changes in the middle of their term &lpar;Brady Dale/Axios&rpar;](http://www.techmeme.com/241121/p33#a241121p33)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

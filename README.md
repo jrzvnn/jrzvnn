@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [It works!](http://9gag.com/gag/awyBWY1)
- - 😝 [Mark up another victory and scratch one off the list.](http://9gag.com/gag/aKG7QQ1)
- - 💣 [Well there you go](http://9gag.com/gag/aZZy6M9)
- - 😝 [Omg it&#39;s symptom of a down](http://9gag.com/gag/a9yngo6)
- - 👉 [Trump being Trump](http://9gag.com/gag/aLnwZDv)<!-- MEMES:END -->
+ - 😝 [German police officers in Berlin do not submit to Allah and are not intimidated by Islamists. Real men.](http://9gag.com/gag/axy95N2)
+ - 😝 [Oh yeah, a classic !](http://9gag.com/gag/aD245e7)
+ - 💣 [Lambo huracan story](http://9gag.com/gag/a87GOdY)
+ - 😝 [A noble sacrifice](http://9gag.com/gag/azxmWrz)
+ - 👉 [Core IT experience](http://9gag.com/gag/azxmpXp)<!-- MEMES:END -->
 
 ---
 

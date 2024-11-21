@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Caretaker trio stuffed 6-year-old in dryer spin cycle and turned it on as punishment for crying over lost bag of chips, police say](http://9gag.com/gag/aoyPoGm)
- - 😝 [Fun fact #2,773,378,980](http://9gag.com/gag/aLnw7eA)
- - 💣 [Jorge remembered slowly](http://9gag.com/gag/awyBjLx)
- - 😝 [Oh yeah, a classic !](http://9gag.com/gag/aD245e7)
- - 👉 [Call me anytime](http://9gag.com/gag/aqynwKP)<!-- MEMES:END -->
+ - 😝 [Well\u2026I guess that was the most memorable day of her life](http://9gag.com/gag/a1mWg5b)
+ - 😝 [Lambo huracan story](http://9gag.com/gag/a87GOdY)
+ - 💣 [The worst she can say is no](http://9gag.com/gag/a9ynwDj)
+ - 😝 [Trump being Trump](http://9gag.com/gag/aLnwZDv)
+ - 👉 [Red light](http://9gag.com/gag/a4P3gXm)<!-- MEMES:END -->
 
 ---
 

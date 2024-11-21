@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Save $300 on the Apple Studio Display during Black Friday sale](https://appleinsider.com/articles/24/11/21/save-300-on-the-apple-studio-display-during-black-friday-sale?utm_medium=rss)
+ - [A look at biometric ID company Clear, as it works to expand its face-based line-cutting service at retailers, banks, doctor&#39;s offices, and other places &lpar;Eileen Guo/MIT Technology Review&rpar;](http://www.techmeme.com/241121/p7#a241121p7)
+ - [Peak Design’s Outdoor Backpack is a more versatile everyday bag](https://www.theverge.com/24290247/peak-design-25l-outdoor-backpack-review-camera-cube-test)
  - [London-based Lighthouse, which offers tools to help hotels analyze market demand and rates, raised a ~$370M Series C led by KKR, sources say at a $1B+ valuation &lpar;Swetha Gopinath/Bloomberg&rpar;](http://www.techmeme.com/241121/p6#a241121p6)
- - [Google says the US DOJ&#39;s &quot;wildly overbroad proposal goes miles beyond the Court&#39;s decision&quot;, would hurt US consumers and jeopardize US&#39; global tech leadership &lpar;Kent Walker/The Keyword&rpar;](http://www.techmeme.com/241121/p5#a241121p5)
- - [Four former Google executives say innovation by rivals is key to breaking Google Search&#39;s dominance, and ChatGPT-like tools will one day supplant Google Search &lpar;Paresh Dave/Wired&rpar;](http://www.techmeme.com/241121/p4#a241121p4)
- - [Jensen Huang says &quot;foundation model pretraining scaling is intact&quot; and models like OpenAI&#39;s o1 could play a larger role in Nvidia&#39;s business moving forward &lpar;Maxwell Zeff/TechCrunch&rpar;](http://www.techmeme.com/241121/p3#a241121p3)
- - [A look at OpenScholar, an LLM for scientific research built by the Allen Institute for AI and the University of Washington that outperforms GPT-4o on accuracy &lpar;Michael Nu&amp;ntilde;ez/VentureBeat&rpar;](http://www.techmeme.com/241121/p2#a241121p2)<!-- TECH:END -->
+ - [Best Workout Mirrors for 2024](https://www.cnet.com/health/fitness/best-mirror-workout/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

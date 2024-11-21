@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Filing: DOJ asks judge to force Google to sell Chrome, restrict Android from favoring Google&#39;s search engine, ban default search deals on iOS and other devices &lpar;Michael Liedtke/Associated Press&rpar;](http://www.techmeme.com/241120/p43#a241120p43)
- - [Selling Chrome Won’t Be Enough to End Google’s Search Monopoly](https://www.wired.com/story/doj-google-chrome-antitrust/)
- - [Apple&#39;s App Store takedowns over copyright claims continue to annoy developers](https://appleinsider.com/articles/24/11/20/apples-quick-app-store-takedowns-over-copyright-claims-are-a-nightmare-for-developers?utm_medium=rss)
- - [OpenAI releases a free online course for K-12 teachers to integrate ChatGPT into their classrooms, but some educators remain skeptical about the technology &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/241120/p42#a241120p42)
- - [Australia introduces a bill in Parliament to ban children younger than 16 from social media; companies would face fines of up to AU$50M for violations &lpar;Rod McGuirk/Associated Press&rpar;](http://www.techmeme.com/241120/p41#a241120p41)<!-- TECH:END -->
+ - [How XProtect protects you from viruses on macOS](https://appleinsider.com/inside/macos/tips/how-xprotect-protects-you-from-viruses-on-macos?utm_medium=rss)
+ - [Filing: the US DOJ&#39;s proposal requires Google to allow websites more ability to opt-out of its AI products and provide more ad placement controls to advertisers &lpar;Leah Nylen/Bloomberg&rpar;](http://www.techmeme.com/241121/p1#a241121p1)
+ - [DOJ says Google must sell Chrome to crack open its search monopoly](https://www.theverge.com/2024/11/20/24300617/doj-google-search-antitrust-chrome-breakup)
+ - [As part of its proposed remedies, the US DOJ says Google should be required to syndicate its US search results to other rival search engines for the next decade &lpar;Brian Fung/CNN&rpar;](http://www.techmeme.com/241120/p44#a241120p44)
+ - [Filing: DOJ asks judge to force Google to sell Chrome, restrict Android from favoring Google&#39;s search engine, ban default search deals on iOS and other devices &lpar;Michael Liedtke/Associated Press&rpar;](http://www.techmeme.com/241120/p43#a241120p43)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

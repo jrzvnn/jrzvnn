@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Calm down, most of you are not in danger](http://9gag.com/gag/ayNeGVq)
- - 😝 [British actors always peaked at British cinema then get Hollyworld at Usa](http://9gag.com/gag/aO87Lnv)
+ - 😝 [Keeping it cool and not missing a single note while being harassed](http://9gag.com/gag/aQzdjm7)
+ - 😝 [It&#39;s a bit scary.](http://9gag.com/gag/aQzdWG2)
  - 💣 [Woman tries dating app as a man - with obvious results](http://9gag.com/gag/ajP9pKw)
  - 😝 [Look at the animation quality of this trailer! \ud83e\udd29](http://9gag.com/gag/aGydvO5)
- - 👉 [The WALL](http://9gag.com/gag/aD24KrN)<!-- MEMES:END -->
+ - 👉 [This was the day he realized his *friends* were living a different life than he wanted for himself](http://9gag.com/gag/a4P3v9y)<!-- MEMES:END -->
 
 ---
 

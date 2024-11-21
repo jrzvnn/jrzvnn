@@ -157,7 +157,7 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Filing: the US DOJ asks a federal judge to force Google to sell Chrome and impose restrictions designed to prevent Android from favoring its search engine &lpar;Michael Liedtke/Associated Press&rpar;](http://www.techmeme.com/241120/p43#a241120p43)
+ - [Filing: DOJ asks judge to force Google to sell Chrome, restrict Android from favoring Google&#39;s search engine, ban default search deals on iOS and other devices &lpar;Michael Liedtke/Associated Press&rpar;](http://www.techmeme.com/241120/p43#a241120p43)
  - [Selling Chrome Won’t Be Enough to End Google’s Search Monopoly](https://www.wired.com/story/doj-google-chrome-antitrust/)
  - [Apple&#39;s App Store takedowns over copyright claims continue to annoy developers](https://appleinsider.com/articles/24/11/20/apples-quick-app-store-takedowns-over-copyright-claims-are-a-nightmare-for-developers?utm_medium=rss)
  - [OpenAI releases a free online course for K-12 teachers to integrate ChatGPT into their classrooms, but some educators remain skeptical about the technology &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/241120/p42#a241120p42)

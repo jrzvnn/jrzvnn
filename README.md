@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [OpenAI releases a free online course for K-12 teachers to integrate ChatGPT into their classrooms, but some educators remain skeptical about the technology &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/241120/p42#a241120p42)
  - [Australia introduces a bill in Parliament to ban children younger than 16 from social media; companies would face fines of up to AU$50M for violations &lpar;Rod McGuirk/Associated Press&rpar;](http://www.techmeme.com/241120/p41#a241120p41)
  - [Honda has a plan to build solid-state batteries for EVs](https://www.theverge.com/2024/11/20/24301613/honda-solid-state-batteries-factory-demo-test-ev)
  - [Neuralink receives approval from Canada to launch clinical trials of its brain implants and plans to run its first non-US trial with Toronto Western Hospital &lpar;Sarah McBride/Bloomberg&rpar;](http://www.techmeme.com/241120/p40#a241120p40)
- - [The 5 Perfect Foods for Your Microwave Oven](https://www.cnet.com/news/the-5-perfect-foods-for-your-microwave-oven/#ftag=CAD590a51e)
- - [Bluesky Explained: This Social Media Network Has 20 Million Users and Is Soaring](https://www.cnet.com/tech/bluesky-explained-why-this-social-media-network-is-now-growing-by-1-million-users-daily/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [The 5 Perfect Foods for Your Microwave Oven](https://www.cnet.com/news/the-5-perfect-foods-for-your-microwave-oven/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Colorado-based Enveda, which uses AI to find drug candidates, raised $130M, after raising $55M in June, and launches a clinical trial for an oral eczema drug &lpar;Sarah McBride/Bloomberg&rpar;](http://www.techmeme.com/241121/p20#a241121p20)
+ - [Apple announces its Black Friday promotions, but there are far better deals](https://appleinsider.com/articles/24/11/21/apple-announces-its-black-friday-promotions-but-there-are-far-better-deals?utm_medium=rss)
+ - [Wordware, which lets customers like Instacart create AI agents using natural language instead of programming code, raised a $30M seed led by Spark Capital &lpar;Michael Nu&amp;ntilde;ez/VentureBeat&rpar;](http://www.techmeme.com/241121/p19#a241121p19)
  - [WalkingPad C2 Mini Foldable Treadmill Review: Stable Underfoot](https://www.wired.com/review/walkingpad-c2/)
- - [A profile of Thrive Capital, whose biggest portfolio companies include OpenAI and Stripe, as rivals say the VC firm&#39;s approach is closer to asset management &lpar;George Hammond/Financial Times&rpar;](http://www.techmeme.com/241121/p18#a241121p18)
- - [Daniel Craig’s Secret Omega Seamaster Diver Has Dropped](https://www.wired.com/story/daniel-craigs-secret-omega-seamaster-diver-has-dropped/)
- - [Border Militias Prepare to Assist With Donald Trump’s Mass Deportation Plans](https://www.wired.com/story/border-militias-immigrants-trump/)
- - [Forcing Google to sell Chrome sounds good on paper but the reality of it happening is fairly small as it will be extremely messy, if not impossible to execute &lpar;M.G. Siegler/Spyglass&rpar;](http://www.techmeme.com/241121/p17#a241121p17)<!-- TECH:END -->
+ - [A profile of Thrive Capital, whose biggest portfolio companies include OpenAI and Stripe, as rivals say the VC firm&#39;s approach is closer to asset management &lpar;George Hammond/Financial Times&rpar;](http://www.techmeme.com/241121/p18#a241121p18)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

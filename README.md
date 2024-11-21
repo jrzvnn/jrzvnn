@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The EU Parliament confirms Spain&#39;s Teresa Ribera as the next Competition Commissioner of the EU, replacing Margrethe Vestager &lpar;Lukas Knigge/Table.Media&rpar;](http://www.techmeme.com/241121/p35#a241121p35)
  - [In its latest security report, Meta says it removed 2M+ accounts this year connected to pig butchering scams conducted from Southeast Asia and the UAE &lpar;James Reddick/The Record&rpar;](http://www.techmeme.com/241121/p34#a241121p34)
  - [What Happens to X With No More Libs to Troll?](https://www.wired.com/story/politics-lab-what-happens-to-x/)
  - [Google’s Black Friday sale features record low prices on Pixel, Nest, and more](https://www.theverge.com/2024/11/21/24302290/google-black-friday-2024-pixel-nest-fitbit-deal-sale)
- - [Steam is adding support, and more rules, for ‘season pass’ content](https://www.theverge.com/2024/11/21/24302483/steam-season-pass-support-developer-guidelines)
- - [Google reportedly cancels Pixel Tablet 2 and might quit the category — again](https://www.theverge.com/2024/11/21/24302508/google-pixel-tablet-2-canceled-rumor)<!-- TECH:END -->
+ - [Steam is adding support, and more rules, for ‘season pass’ content](https://www.theverge.com/2024/11/21/24302483/steam-season-pass-support-developer-guidelines)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

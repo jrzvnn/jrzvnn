@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [CFPB will supervise tech companies offering digital wallets, including Apple Pay, by treating them like banks as long as they handle 50M+ transactions per year &lpar;Paige Smith/Bloomberg&rpar;](http://www.techmeme.com/241121/p11#a241121p11)
  - [Apple urges judge to dismiss the DOJ&#39;s speculative antitrust suit](https://appleinsider.com/articles/24/11/21/apple-urges-judge-to-dismiss-the-dojs-speculative-antitrust-suit?utm_medium=rss)
  - [Sources: Huawei plans to start mass-producing its most advanced AI chip, the Ascend 910C, in Q1 2025, even as it struggles to make enough chips due to US curbs &lpar;Fanny Potkin/Reuters&rpar;](http://www.techmeme.com/241121/p10#a241121p10)
  - [Baidu reports Q3 revenue down 3% YoY to $4.78B, net income up 14% YoY to $1.09B, and online marketing revenue up 12% YoY to $1.1B, driven by AI cloud business &lpar;Evelyn Cheng/CNBC&rpar;](http://www.techmeme.com/241121/p9#a241121p9)
- - [This digital D&amp;D watch lets you roll a fireball from your wrist](https://www.theverge.com/2024/11/21/24302238/timestop-d20-digital-watch-dnd-price-availability)
- - [The AI Reporter That Took My Old Job Just Got Fired](https://www.wired.com/story/the-ai-reporter-who-took-my-old-job-just-got-fired/)<!-- TECH:END -->
+ - [This digital D&amp;D watch lets you roll a fireball from your wrist](https://www.theverge.com/2024/11/21/24302238/timestop-d20-digital-watch-dnd-price-availability)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Adam Mosseri says Threads is rebalancing ranking to prioritize content from people that users follow, warns that creators&#39; &quot;unconnected&quot; reach may go down &lpar;Jay Peters/The Verge&rpar;](http://www.techmeme.com/241121/p28#a241121p28)
+ - [An anti-deepfake declaration may have been written by AI](https://www.theverge.com/2024/11/21/24301955/minnesota-deepfake-bill-lawsuit-affidavit-ai)
  - [Sources: two congressional Republicans prepare an age verification bill that puts the onus for age verification on app store operators, boosting Meta&#39;s campaign &lpar;Washington Post&rpar;](http://www.techmeme.com/241121/p27#a241121p27)
  - [Satechi redesigns its hub to fit the new, smaller M4 Mac mini](https://appleinsider.com/articles/24/11/21/satechi-redesigns-its-hub-to-fit-the-new-smaller-m4-mac-mini?utm_medium=rss)
- - [Threads’ algorithm will focus more on the people you follow](https://www.theverge.com/2024/11/21/24302400/threads-algorithm-focus-people-you-follow)
- - [Wicked is a dazzling reminder of how good movie musicals can be](https://www.theverge.com/2024/11/21/24301620/wicked-review)
- - [Las Vegas-based Monkey Tilt, which combines online gambling with a chat function and content made by influencers, raised a $30M Series A led by Pantera &lpar;Catherine McGrath/Fortune&rpar;](http://www.techmeme.com/241121/p26#a241121p26)<!-- TECH:END -->
+ - [Threads’ algorithm will focus more on the people you follow](https://www.theverge.com/2024/11/21/24302400/threads-algorithm-focus-people-you-follow)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

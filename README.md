@@ -167,10 +167,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [Core IT experience](http://9gag.com/gag/azxmpXp)
- - 😝 [Go sports](http://9gag.com/gag/apRGZ5b)
+ - 😝 [And those mammary glands.](http://9gag.com/gag/aLnwEpA)
  - 💣 [Look at the animation quality of this trailer! \ud83e\udd29](http://9gag.com/gag/aGydvO5)
- - 😝 [German police officers in Berlin do not submit to Allah and are not intimidated by Islamists. Real men.](http://9gag.com/gag/axy95N2)
- - 👉 [And those mammary glands.](http://9gag.com/gag/aLnwEpA)<!-- MEMES:END -->
+ - 😝 [Stress testing an M16.](http://9gag.com/gag/aVvw6LM)
+ - 👉 [Who is someone that you genuinely love?](http://9gag.com/gag/aAyez3p)<!-- MEMES:END -->
 
 ---
 

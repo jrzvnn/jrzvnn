@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Calm down, most of you are not in danger](http://9gag.com/gag/ayNeGVq)
- - 😝 [Go sports](http://9gag.com/gag/apRGZ5b)
- - 💣 [JAGUAR TO jaguwoke](http://9gag.com/gag/aE0P30O)
+ - 😝 [This was the day he realized his *friends* were living a different life than he wanted for himself](http://9gag.com/gag/a4P3v9y)
+ - 😝 [A noble sacrifice](http://9gag.com/gag/azxmWrz)
+ - 💣 [Well played](http://9gag.com/gag/apRGOAM)
  - 😝 [Look at the animation quality of this trailer! \ud83e\udd29](http://9gag.com/gag/aGydvO5)
- - 👉 [Elon Musk reaction on Jaguar&#39;s ad](http://9gag.com/gag/ae9DL3q)<!-- MEMES:END -->
+ - 👉 [Get outta my way](http://9gag.com/gag/aoyPbWm)<!-- MEMES:END -->
 
 ---
 

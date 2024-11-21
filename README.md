@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [FCC passes auto safety spectrum rules](https://www.theverge.com/2024/11/21/24302733/fcc-cv2x-cellular-vehicle-everything-spectrum-rules-final)
  - [Save Big on a New Dell Monitor This Black Friday](https://www.cnet.com/paid-content/news/save-big-on-a-new-dell-monitor-this-black-friday/#ftag=CAD590a51e)
  - [What&#39;s Free on the Epic Games Store This Week?](https://www.cnet.com/tech/gaming/list-of-free-games-on-the-epic-games-store-this-week/#ftag=CAD590a51e)
  - [Save up to $2,000 with exclusive Bluetti portable power station Black Friday deals](https://appleinsider.com/articles/24/11/21/save-up-to-2000-with-exclusive-bluetti-portable-power-station-black-friday-deals?utm_medium=rss)
- - [19 Can&#39;t-Miss Black Friday Bargains You Can Shop Right Now at Walmart](https://www.cnet.com/deals/walmart-black-friday-deals/#ftag=CAD590a51e)
- - [My Favorite High-Tech Baby Monitor Is on Sale for $60 Off](https://www.cnet.com/deals/my-favorite-high-tech-baby-monitor-is-on-sale-for-60-off/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [19 Can&#39;t-Miss Black Friday Bargains You Can Shop Right Now at Walmart](https://www.cnet.com/deals/walmart-black-friday-deals/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

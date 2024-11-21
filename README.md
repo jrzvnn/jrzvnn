@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Rabbit releases its teach mode in beta for all R1 users, letting them create and ask their own AI agents to automate tasks on websites &lpar;Igor Bonifacic/Engadget&rpar;](http://www.techmeme.com/241121/p32#a241121p32)
- - [Kia announces high-performance EV9 GT with virtual shifting and native Tesla charging](https://www.theverge.com/2024/11/21/24302336/kia-ev9-gt-specs-nacs-charge-ev6-battery-laas)
- - [Crypto mining company Mara Holdings raised $1B through convertible notes, mostly to acquire bitcoin, as it expects bitcoin mining to flourish under Trump &lpar;Josh O&#39;Sullivan/Cointelegraph&rpar;](http://www.techmeme.com/241121/p31#a241121p31)
- - [The Red Elephant in the Room at AfroTech](https://www.wired.com/story/afrotech-2024-red-elephant-in-the-room/)
- - [Sonos speakers and soundbars are up to $200 off ahead of Black Friday](https://www.theverge.com/2024/11/21/24301822/sonos-soundbars-speakers-arc-era-100-beam-move-black-friday-deal-sale)<!-- TECH:END -->
+ - [Star Wars Outlaws’ first expansion brings Lando into the game](https://www.theverge.com/2024/11/21/24302318/star-wars-outlaws-lando-dlc-steam-launch-stealth-update)
+ - [SEC chair Gary Gensler will step down on January 20; it has been traditional for SEC chairs to resign if the administration changes in the middle of their term &lpar;Brady Dale/Axios&rpar;](http://www.techmeme.com/241121/p33#a241121p33)
+ - [Meta Finally Breaks Its Silence on Pig Butchering](https://www.wired.com/story/meta-pig-butchering-report-2024/)
+ - [Best Internet Providers in Ontario, California](https://www.cnet.com/home/internet/best-internet-providers-in-ontario-ca/#ftag=CAD590a51e)
+ - [Game Anywhere This Black Friday With the Biggest Asus Rog Ally X Discount Ever](https://www.cnet.com/deals/get-your-game-on-this-black-friday-with-the-first-asus-rog-ally-x-discount-to-date/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

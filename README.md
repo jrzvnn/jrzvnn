@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [This was the day he realized his *friends* were living a different life than he wanted for himself](http://9gag.com/gag/a4P3v9y)
- - 😝 [A noble sacrifice](http://9gag.com/gag/azxmWrz)
- - 💣 [Well played](http://9gag.com/gag/apRGOAM)
+ - 😝 [Calm down, most of you are not in danger](http://9gag.com/gag/ayNeGVq)
+ - 😝 [British actors always peaked at British cinema then get Hollyworld at Usa](http://9gag.com/gag/aO87Lnv)
+ - 💣 [Woman tries dating app as a man - with obvious results](http://9gag.com/gag/ajP9pKw)
  - 😝 [Look at the animation quality of this trailer! \ud83e\udd29](http://9gag.com/gag/aGydvO5)
- - 👉 [Get outta my way](http://9gag.com/gag/aoyPbWm)<!-- MEMES:END -->
+ - 👉 [The WALL](http://9gag.com/gag/aD24KrN)<!-- MEMES:END -->
 
 ---
 

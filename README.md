@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Keeping it cool and not missing a single note while being harassed](http://9gag.com/gag/aQzdjm7)
- - 😝 [It&#39;s a bit scary.](http://9gag.com/gag/aQzdWG2)
- - 💣 [Woman tries dating app as a man - with obvious results](http://9gag.com/gag/ajP9pKw)
+ - 😝 [Correct reaction. She passed the test.](http://9gag.com/gag/aYQyX2N)
+ - 😝 [This was the day he realized his *friends* were living a different life than he wanted for himself](http://9gag.com/gag/a4P3v9y)
+ - 💣 [Keeping it cool and not missing a single note while being harassed](http://9gag.com/gag/aQzdjm7)
  - 😝 [Look at the animation quality of this trailer! \ud83e\udd29](http://9gag.com/gag/aGydvO5)
- - 👉 [This was the day he realized his *friends* were living a different life than he wanted for himself](http://9gag.com/gag/a4P3v9y)<!-- MEMES:END -->
+ - 👉 [Who is someone that you genuinely love?](http://9gag.com/gag/aAyez3p)<!-- MEMES:END -->
 
 ---
 

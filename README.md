@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [A noble sacrifice](http://9gag.com/gag/azxmWrz)
- - 😝 [British actors always peaked at British cinema then get Hollyworld at Usa](http://9gag.com/gag/aO87Lnv)
- - 💣 [Lambo huracan story](http://9gag.com/gag/a87GOdY)
- - 😝 [Red light](http://9gag.com/gag/a4P3gXm)
- - 👉 [Oh yeah, a classic !](http://9gag.com/gag/aD245e7)<!-- MEMES:END -->
+ - 😝 [This was the day he realized his *friends* were living a different life than he wanted for himself](http://9gag.com/gag/a4P3v9y)
+ - 😝 [Trump being Trump](http://9gag.com/gag/aLnwZDv)
+ - 💣 [Go sports](http://9gag.com/gag/apRGZ5b)
+ - 😝 [There! \ud83d\udd2d\ud83d\udc48 It\u2019s officially time to download Royal Kingdom.](http://9gag.com/gag/aGydvO5)
+ - 👉 [Red light](http://9gag.com/gag/a4P3gXm)<!-- MEMES:END -->
 
 ---
 

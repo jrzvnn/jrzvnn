@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Motion capture technology has come a long way](http://9gag.com/gag/abAGnvX)
- - 😝 [It works!](http://9gag.com/gag/awyBWY1)
- - 💣 [Well there you go](http://9gag.com/gag/aZZy6M9)
- - 😝 [For all the parents with little kids:](http://9gag.com/gag/a34w65m)
- - 👉 [Trump being Trump](http://9gag.com/gag/aLnwZDv)<!-- MEMES:END -->
+ - 😝 [Jorge remembered slowly](http://9gag.com/gag/awyBjLx)
+ - 😝 [Well\u2026I guess that was the most memorable day of her life](http://9gag.com/gag/a1mWg5b)
+ - 💣 [Red light](http://9gag.com/gag/a4P3gXm)
+ - 😝 [A noble sacrifice](http://9gag.com/gag/azxmWrz)
+ - 👉 [Call me anytime](http://9gag.com/gag/aqynwKP)<!-- MEMES:END -->
 
 ---
 

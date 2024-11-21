@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [This was the day he realized his *friends* were living a different life than he wanted for himself](http://9gag.com/gag/a4P3v9y)
- - 😝 [For all the parents with little kids:](http://9gag.com/gag/a34w65m)
- - 💣 [A noble sacrifice](http://9gag.com/gag/azxmWrz)
+ - 😝 [And those mammary glands.](http://9gag.com/gag/aLnwEpA)
+ - 😝 [Mark up another victory and scratch one off the list.](http://9gag.com/gag/aKG7QQ1)
+ - 💣 [Motion capture technology has come a long way](http://9gag.com/gag/abAGnvX)
  - 😝 [Look at the animation quality of this trailer! \ud83e\udd29](http://9gag.com/gag/aGydvO5)
- - 👉 [The irony of modern internet](http://9gag.com/gag/a6ZKYML)<!-- MEMES:END -->
+ - 👉 [Go sports](http://9gag.com/gag/apRGZ5b)<!-- MEMES:END -->
 
 ---
 

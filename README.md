@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Jorge remembered slowly](http://9gag.com/gag/awyBjLx)
- - 😝 [Caretaker trio stuffed 6-year-old in dryer spin cycle and turned it on as punishment for crying over lost bag of chips, police say](http://9gag.com/gag/aoyPoGm)
- - 💣 [Stress testing an M16.](http://9gag.com/gag/aVvw6LM)
- - 😝 [Correct reaction. She passed the test.](http://9gag.com/gag/aYQyX2N)
- - 👉 [Core IT experience](http://9gag.com/gag/azxmpXp)<!-- MEMES:END -->
+ - 😝 [It works!](http://9gag.com/gag/awyBWY1)
+ - 😝 [Mark up another victory and scratch one off the list.](http://9gag.com/gag/aKG7QQ1)
+ - 💣 [Well there you go](http://9gag.com/gag/aZZy6M9)
+ - 😝 [Omg it&#39;s symptom of a down](http://9gag.com/gag/a9yngo6)
+ - 👉 [Trump being Trump](http://9gag.com/gag/aLnwZDv)<!-- MEMES:END -->
 
 ---
 

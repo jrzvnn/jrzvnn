@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Cybersecurity startup Wiz acquires Dazz, a specialist in security remediation and risk management; sources: the cash-and-stock deal is valued at $450M &lpar;Ingrid Lunden/TechCrunch&rpar;](http://www.techmeme.com/241121/p21#a241121p21)
- - [Colorado-based Enveda, which uses AI to find drug candidates, raised $130M, after raising $55M in June, and launches a clinical trial for an oral eczema drug &lpar;Sarah McBride/Bloomberg&rpar;](http://www.techmeme.com/241121/p20#a241121p20)
- - [Apple announces its Black Friday promotions, but there are far better deals](https://appleinsider.com/articles/24/11/21/apple-announces-its-black-friday-promotions-but-there-are-far-better-deals?utm_medium=rss)
- - [Wordware, which lets customers like Instacart create AI agents using natural language instead of programming code, raised a $30M seed led by Spark Capital &lpar;Michael Nu&amp;ntilde;ez/VentureBeat&rpar;](http://www.techmeme.com/241121/p19#a241121p19)
- - [WalkingPad C2 Mini Foldable Treadmill Review: Stable Underfoot](https://www.wired.com/review/walkingpad-c2/)<!-- TECH:END -->
+ - [Lightning AI, which lets customers fine-tune and run AI models in their preferred cloud environments, raised $50M, bringing its total funding to $103M &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/241121/p23#a241121p23)
+ - [Belkin Auto-Tracking Stand Pro With DockKit Review: Hands-Free Fun](https://www.wired.com/review/belkin-auto-tracking-stand-pro-with-dockkit/)
+ - [Roblox is the latest target of state kids online safety bills](https://www.theverge.com/2024/11/21/24296652/new-york-childrens-online-safety-act-gounardes-privacy)
+ - [The Verge’s 2024 holiday gift guide for dads](https://www.theverge.com/24224045/best-gift-ideas-dad-holiday-unique-2024-tech-gadgets)
+ - [Nick Pickles, who left X as VP of Global Affairs in September, joins Sam Altman&#39;s Tools for Humanity, which is building World Network, as chief policy officer &lpar;Michelle Conlin/Reuters&rpar;](http://www.techmeme.com/241121/p22#a241121p22)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [New York Times Says OpenAI Erased Potential Lawsuit Evidence](https://www.wired.com/story/new-york-times-openai-erased-potential-lawsuit-evidence/)
- - [Sources: a16z, Ripple, Kraken, and Circle are jostling for a seat on Trump&#39;s promised crypto advisory council, which is expected to set up a bitcoin reserve &lpar;Hannah Lang/Reuters&rpar;](http://www.techmeme.com/241121/p37#a241121p37)
- - [Sources: Amazon will likely face an EU investigation next year into whether it breaches the DMA by favoring its own brand products on its online marketplace &lpar;Foo Yun Chee/Reuters&rpar;](http://www.techmeme.com/241121/p36#a241121p36)
- - [The EU Parliament confirms Spain&#39;s Teresa Ribera as the next Competition Commissioner of the EU, replacing Margrethe Vestager &lpar;Lukas Knigge/Table.Media&rpar;](http://www.techmeme.com/241121/p35#a241121p35)
- - [In its latest security report, Meta says it removed 2M+ accounts this year connected to pig butchering scams conducted from Southeast Asia and the UAE &lpar;James Reddick/The Record&rpar;](http://www.techmeme.com/241121/p34#a241121p34)<!-- TECH:END -->
+ - [The company that sold cameras with ‘terrible’ security flaw has a new problem](https://www.theverge.com/2024/11/21/24302544/eken-video-doorbell-fcc-fine-fishbot-cutepanda)
+ - [The best budget robot vacuums](https://www.theverge.com/23846479/best-budget-robot-vacuum-robot-mop)
+ - [The 65 Best Movies on Disney+ Right Now &lpar;November 2024&rpar;](https://www.wired.com/story/best-movies-disney-plus/)
+ - [You Too Can Hire an ‘Etsy Witch’ to Curse Elon Musk](https://www.wired.com/story/viral-tiktok-etsy-witch-elon-musk/)
+ - [Use Mint Mobile&#39;s Black Friday Coupon Code for a Free Month of a 5GB Plan](https://www.cnet.com/deals/mint-mobile-black-friday-coupon-code-free-month-5gb-plan/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

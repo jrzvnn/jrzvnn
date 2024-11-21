@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Apple Pay, Cash App, and other digital wallets will be regulated more like banks now](https://www.theverge.com/2024/11/21/24302322/apple-pay-cash-app-paypal-regulated-banks-cfpb)
+ - [Hawaii&#39;s The Garden Island discontinues the use of AI-generated newscasters on YouTube and Instagram after two months, likely due to negative public response &lpar;Guthrie Scrimgeour/Wired&rpar;](http://www.techmeme.com/241121/p24#a241121p24)
  - [Lightning AI, which lets customers fine-tune and run AI models in their preferred cloud environments, raised $50M, bringing its total funding to $103M &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/241121/p23#a241121p23)
  - [Belkin Auto-Tracking Stand Pro With DockKit Review: Hands-Free Fun](https://www.wired.com/review/belkin-auto-tracking-stand-pro-with-dockkit/)
- - [Roblox is the latest target of state kids online safety bills](https://www.theverge.com/2024/11/21/24296652/new-york-childrens-online-safety-act-gounardes-privacy)
- - [The Verge’s 2024 holiday gift guide for dads](https://www.theverge.com/24224045/best-gift-ideas-dad-holiday-unique-2024-tech-gadgets)
- - [Nick Pickles, who left X as VP of Global Affairs in September, joins Sam Altman&#39;s Tools for Humanity, which is building World Network, as chief policy officer &lpar;Michelle Conlin/Reuters&rpar;](http://www.techmeme.com/241121/p22#a241121p22)<!-- TECH:END -->
+ - [Roblox is the latest target of state kids online safety bills](https://www.theverge.com/2024/11/21/24296652/new-york-childrens-online-safety-act-gounardes-privacy)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

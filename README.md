@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Sonos speakers and soundbars are up to $200 off ahead of Black Friday](https://www.theverge.com/2024/11/21/24301822/sonos-soundbars-speakers-arc-era-100-beam-move-black-friday-deal-sale)
+ - [Meta is rolling out voice message transcripts on WhatsApp globally over the coming weeks in select languages, and says they are generated on users&#39; devices &lpar;Aisha Malik/TechCrunch&rpar;](http://www.techmeme.com/241121/p30#a241121p30)
  - [Apple Music celebrates Billie Eilish&#39;s record-breaking year](https://appleinsider.com/articles/24/11/21/apple-music-celebrates-billie-eilishs-record-breaking-year?utm_medium=rss)
  - [A new ‘ultra-secure’ phone carrier says it can make you harder to track](https://www.theverge.com/2024/11/21/24302416/cape-ultra-secure-phone-data-collection-tracking)
- - [WhatsApp will soon transcribe your voice messages](https://www.theverge.com/2024/11/21/24302365/whatsapp-voice-message-transcription-feature-availability-ios-android)
- - [SpyCloud researchers say Chinese black market operators are openly recruiting insiders working for government surveillance agencies to sell their access online &lpar;Andy Greenberg/Wired&rpar;](http://www.techmeme.com/241121/p29#a241121p29)
- - [Adam Mosseri says Threads is rebalancing ranking to prioritize content from people that users follow, warns that creators&#39; &quot;unconnected&quot; reach may go down &lpar;Jay Peters/The Verge&rpar;](http://www.techmeme.com/241121/p28#a241121p28)<!-- TECH:END -->
+ - [WhatsApp will soon transcribe your voice messages](https://www.theverge.com/2024/11/21/24302365/whatsapp-voice-message-transcription-feature-availability-ios-android)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

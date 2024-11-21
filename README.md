@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [How XProtect protects you from viruses on macOS](https://appleinsider.com/inside/macos/tips/how-xprotect-protects-you-from-viruses-on-macos?utm_medium=rss)
+ - [Is Silicon Valley Actually Libertarian?](https://www.wired.com/story/uncanny-valley-podcast-4-is-silicon-valley-libertarian/)
+ - [The 18 Best Pillows We Found After Months of Nighttime Testing &lpar;2024&rpar;](https://www.wired.com/gallery/best-pillows/)
  - [Several media and tech executives say UK VC Matt Clifford, who has advised successive Tory and Labour governments, has an outsized influence over AI policy &lpar;Anna Gross/Financial Times&rpar;](http://www.techmeme.com/241121/p15#a241121p15)
- - [News Influencers Have Eclipsed Traditional Media](https://www.wired.com/story/news-influencers-traditional-media/)
- - [Best Internet Providers in Rio Rancho, New Mexico](https://www.cnet.com/home/internet/best-internet-providers-in-rio-rancho-nm/#ftag=CAD590a51e)
- - [The Trump administration&#39;s promises of mass deportations may lead to increased use of spyware like Graphite; ICE has a $2M contract with Graphite maker Paragon &lpar;Ronan Farrow/New Yorker&rpar;](http://www.techmeme.com/241121/p14#a241121p14)
- - [Essential Tips to Nail Your Thanksgiving Turkey This Year](https://www.cnet.com/how-to/essential-tips-to-nail-your-thanksgiving-turkey-this-year/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [News Influencers Have Eclipsed Traditional Media](https://www.wired.com/story/news-influencers-traditional-media/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [London-based Lighthouse, which offers tools to help hotels analyze market demand and rates, raised a ~$370M Series C led by KKR, sources say at a $1B+ valuation &lpar;Swetha Gopinath/Bloomberg&rpar;](http://www.techmeme.com/241121/p6#a241121p6)
  - [Google says the US DOJ&#39;s &quot;wildly overbroad proposal goes miles beyond the Court&#39;s decision&quot;, would hurt US consumers and jeopardize US&#39; global tech leadership &lpar;Kent Walker/The Keyword&rpar;](http://www.techmeme.com/241121/p5#a241121p5)
  - [Four former Google executives say innovation by rivals is key to breaking Google Search&#39;s dominance, and ChatGPT-like tools will one day supplant Google Search &lpar;Paresh Dave/Wired&rpar;](http://www.techmeme.com/241121/p4#a241121p4)
  - [Jensen Huang says &quot;foundation model pretraining scaling is intact&quot; and models like OpenAI&#39;s o1 could play a larger role in Nvidia&#39;s business moving forward &lpar;Maxwell Zeff/TechCrunch&rpar;](http://www.techmeme.com/241121/p3#a241121p3)
- - [A look at OpenScholar, an LLM for scientific research built by the Allen Institute for AI and the University of Washington that outperforms GPT-4o on accuracy &lpar;Michael Nu&amp;ntilde;ez/VentureBeat&rpar;](http://www.techmeme.com/241121/p2#a241121p2)
- - [Oppo&#39;s Find X8 Pro Wants to Be an AI Phone, but Its Camera Is the Real Star](https://www.cnet.com/tech/mobile/oppos-find-x8-pro-wants-to-be-an-ai-phone-but-its-camera-is-the-real-star/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [A look at OpenScholar, an LLM for scientific research built by the Allen Institute for AI and the University of Washington that outperforms GPT-4o on accuracy &lpar;Michael Nu&amp;ntilde;ez/VentureBeat&rpar;](http://www.techmeme.com/241121/p2#a241121p2)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

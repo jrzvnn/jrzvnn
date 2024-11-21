@@ -166,10 +166,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Keeping it cool and not missing a single note while being harassed](http://9gag.com/gag/aQzdjm7)
- - 😝 [Correct reaction. She passed the test.](http://9gag.com/gag/aYQyX2N)
- - 💣 [Look at the animation quality of this trailer! \ud83e\udd29](http://9gag.com/gag/aGydvO5)
- - 😝 [This was the day he realized his *friends* were living a different life than he wanted for himself](http://9gag.com/gag/a4P3v9y)
+ - 😝 [A noble sacrifice](http://9gag.com/gag/azxmWrz)
+ - 😝 [Motion capture technology has come a long way](http://9gag.com/gag/abAGnvX)
+ - 💣 [Trump being Trump](http://9gag.com/gag/aLnwZDv)
+ - 😝 [Look at the animation quality of this trailer! \ud83e\udd29](http://9gag.com/gag/aGydvO5)
  - 👉 [The WALL](http://9gag.com/gag/aD24KrN)<!-- MEMES:END -->
 
 ---

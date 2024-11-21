@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Core IT experience](http://9gag.com/gag/azxmpXp)
- - 😝 [Even the orangutan can&#39;t explain what happened](http://9gag.com/gag/a5QWY0y)
+ - 😝 [Calm down, most of you are not in danger](http://9gag.com/gag/ayNeGVq)
+ - 😝 [When genius surpasses all logic](http://9gag.com/gag/aD24yXd)
  - 💣 [Look at the animation quality of this trailer! \ud83e\udd29](http://9gag.com/gag/aGydvO5)
- - 😝 [A noble sacrifice](http://9gag.com/gag/azxmWrz)
- - 👉 [Google it](http://9gag.com/gag/aMVxg1W)<!-- MEMES:END -->
+ - 😝 [Google it](http://9gag.com/gag/aMVxg1W)
+ - 👉 [Trump being Trump](http://9gag.com/gag/aLnwZDv)<!-- MEMES:END -->
 
 ---
 

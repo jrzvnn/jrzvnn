@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The Hyundai Ioniq 9 is a three-row electric SUV with room to grow](https://www.theverge.com/2024/11/20/24301740/hyundai-ioniq-9-three-row-electric-suv-laas)
- - [Elon Musk and Vivek Ramaswamy have spelled out their plans for DOGE](https://www.theverge.com/2024/11/20/24301975/elon-musk-vivek-ramaswamy-doge-plan)
- - [Google researchers introduce AlphaQubit, a machine-learning decoder that surpasses existing methods in identifying and correcting quantum computing errors &lpar;Matt Swayne/The Quantum Insider&rpar;](http://www.techmeme.com/241120/p39#a241120p39)
- - [Nvidia Says Its Blackwell Chip Is Fine, Nothing to See Here](https://www.wired.com/story/nvidia-earnings-blackwell-chips-overheating/)
- - [Adtech company The Trade Desk announces Ventura, a smart TV operating system, and plans to partner with TV manufacturers for its rollout, expected in H2 2025 &lpar;Sara Fischer/Axios&rpar;](http://www.techmeme.com/241120/p38#a241120p38)<!-- TECH:END -->
+ - [Australia introduces a bill in Parliament to ban children younger than 16 from social media; companies would face fines of up to AU$50M for violations &lpar;Rod McGuirk/Associated Press&rpar;](http://www.techmeme.com/241120/p41#a241120p41)
+ - [Honda has a plan to build solid-state batteries for EVs](https://www.theverge.com/2024/11/20/24301613/honda-solid-state-batteries-factory-demo-test-ev)
+ - [Neuralink receives approval from Canada to launch clinical trials of its brain implants and plans to run its first non-US trial with Toronto Western Hospital &lpar;Sarah McBride/Bloomberg&rpar;](http://www.techmeme.com/241120/p40#a241120p40)
+ - [The 5 Perfect Foods for Your Microwave Oven](https://www.cnet.com/news/the-5-perfect-foods-for-your-microwave-oven/#ftag=CAD590a51e)
+ - [Bluesky Explained: This Social Media Network Has 20 Million Users and Is Soaring](https://www.cnet.com/tech/bluesky-explained-why-this-social-media-network-is-now-growing-by-1-million-users-daily/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

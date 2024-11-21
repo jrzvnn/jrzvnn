@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [German police officers in Berlin do not submit to Allah and are not intimidated by Islamists. Real men.](http://9gag.com/gag/axy95N2)
- - 😝 [Oh yeah, a classic !](http://9gag.com/gag/aD245e7)
- - 💣 [Lambo huracan story](http://9gag.com/gag/a87GOdY)
+ - 😝 [Goodbye, Jaguar.](http://9gag.com/gag/a9yng8K)
+ - 😝 [British actors always peaked at British cinema then get Hollyworld at Usa](http://9gag.com/gag/aO87Lnv)
+ - 💣 [Call me anytime](http://9gag.com/gag/aqynwKP)
  - 😝 [A noble sacrifice](http://9gag.com/gag/azxmWrz)
- - 👉 [Core IT experience](http://9gag.com/gag/azxmpXp)<!-- MEMES:END -->
+ - 👉 [Red light](http://9gag.com/gag/a4P3gXm)<!-- MEMES:END -->
 
 ---
 

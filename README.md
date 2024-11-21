@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Save up to $2,000 with exclusive Bluetti portable power station Black Friday deals](https://appleinsider.com/articles/24/11/21/save-up-to-2000-with-exclusive-bluetti-portable-power-station-black-friday-deals?utm_medium=rss)
  - [Rabbit now lets you teach the R1 to perform tasks for you](https://www.theverge.com/2024/11/21/24302600/rabbit-r1-ai-agent-teach-mode-tasks)
  - [Siri chatbot may be coming in 2026 as part of iOS 19](https://appleinsider.com/articles/24/11/21/siri-chatbot-may-be-coming-in-2026-as-part-of-ios-19?utm_medium=rss)
  - [Apple is reportedly working on ‘LLM Siri’ to compete with ChatGPT](https://www.theverge.com/2024/11/21/24302685/apple-llm-siri-compete-chatgpt)
- - [16 Best Mattresses—I’ve Tested Dozens for a Week Each &lpar;2024&rpar;](https://www.wired.com/gallery/best-mattresses/)
- - [Best Internet Providers in San Antonio, Texas](https://www.cnet.com/home/internet/best-internet-providers-in-san-antonio-tx/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [16 Best Mattresses—I’ve Tested Dozens for a Week Each &lpar;2024&rpar;](https://www.wired.com/gallery/best-mattresses/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

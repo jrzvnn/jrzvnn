@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Automakers plead with Trump: don’t kill the EV tax credit](https://www.theverge.com/2024/11/21/24302592/trump-ev-tax-credit-auto-alliance-av-framework)
+ - [Sources: Apple is testing a more conversational version of Siri, dubbed &quot;LLM Siri&quot;, with plans to release it in spring 2026 as part of iOS 19 and macOS 16 &lpar;Mark Gurman/Bloomberg&rpar;](http://www.techmeme.com/241121/p39#a241121p39)
  - [How Best to Use ChatGPT, Gemini, and Other AI Tools? Our AI Expert Answers Your Questions](https://www.wired.com/story/subscriber-only-livestream-with-reece-rogers-ai-unlocked/)
  - [It will soon be easier than ever for Android apps to stay signed in on a new phone](https://www.theverge.com/2024/11/21/24302562/android-restore-credentials-transfer-restore-key)
- - [Gamers Can Score a New Low Price on the AMD Radeon RX 7600 XT Graphics Card](https://www.cnet.com/deals/gamers-can-score-a-new-low-price-on-the-amd-radeon-rx-7600-xt/#ftag=CAD590a51e)
- - [Grab Apple&#39;s 16-inch MacBook Pro M4 at record low $2,199 price](https://appleinsider.com/articles/24/11/21/grab-apples-16-inch-macbook-pro-m4-at-record-low-2199-price?utm_medium=rss)
- - [Spotify adds new audiobook features for Premium users: video clips up to 30 seconds long, Author Pages, and visuals that appear while users listen &lpar;Lauren Forristal/TechCrunch&rpar;](http://www.techmeme.com/241121/p38#a241121p38)<!-- TECH:END -->
+ - [Gamers Can Score a New Low Price on the AMD Radeon RX 7600 XT Graphics Card](https://www.cnet.com/deals/gamers-can-score-a-new-low-price-on-the-amd-radeon-rx-7600-xt/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

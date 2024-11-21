@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The Hyundai Ioniq 9 is a three-row electric SUV with room to grow](https://www.theverge.com/2024/11/20/24301740/hyundai-ioniq-9-three-row-electric-suv-laas)
+ - [Elon Musk and Vivek Ramaswamy have spelled out their plans for DOGE](https://www.theverge.com/2024/11/20/24301975/elon-musk-vivek-ramaswamy-doge-plan)
  - [Google researchers introduce AlphaQubit, a machine-learning decoder that surpasses existing methods in identifying and correcting quantum computing errors &lpar;Matt Swayne/The Quantum Insider&rpar;](http://www.techmeme.com/241120/p39#a241120p39)
  - [Nvidia Says Its Blackwell Chip Is Fine, Nothing to See Here](https://www.wired.com/story/nvidia-earnings-blackwell-chips-overheating/)
- - [Adtech company The Trade Desk announces Ventura, a smart TV operating system, and plans to partner with TV manufacturers for its rollout, expected in H2 2025 &lpar;Sara Fischer/Axios&rpar;](http://www.techmeme.com/241120/p38#a241120p38)
- - [Need a Break? Watch Moo Deng, the Viral Pygmy Hippo, on a 24/7 Livestream](https://www.cnet.com/science/how-to-watch-moo-deng-the-sassy-hippo-on-a-247-livestream/#ftag=CAD590a51e)
- - [You Can See a Meteor Shower Every Night Through the End of the Year](https://www.cnet.com/science/see-the-taurids-meteor-shower-tonight-plus-more-fireballs-through-years-end/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Adtech company The Trade Desk announces Ventura, a smart TV operating system, and plans to partner with TV manufacturers for its rollout, expected in H2 2025 &lpar;Sara Fischer/Axios&rpar;](http://www.techmeme.com/241120/p38#a241120p38)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

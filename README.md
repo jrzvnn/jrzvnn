@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Nvidia says its Blackwell AI chip is ‘full steam’ ahead](https://www.theverge.com/2024/11/20/24301810/nvidia-blackwell-ai-b200-gb200-full-production-q3-2025-earnings)
- - [Palo Alto Networks reports Q1 revenue up 14% YoY to $2.14B, vs. $2.12B est., and projects FY 2025 sales in line with estimates; PANW drops 5%+ after hours &lpar;Claudia Assis/MarketWatch&rpar;](http://www.techmeme.com/241120/p37#a241120p37)
- - [Apple fights to keep DOJ antitrust suit from reaching trial](https://www.theverge.com/2024/11/20/24301660/apple-doj-motion-dismiss-antitrust-lawsuit)
- - [Starlink Puts Customers On Waitlist in Several US Cities](https://www.cnet.com/home/internet/starlink-puts-customers-on-waitlist-in-several-us-cities/#ftag=CAD590a51e)
- - [Best LED Floodlight Bulbs of 2024](https://www.cnet.com/home/kitchen-and-household/best-led-floodlight/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Google researchers introduce AlphaQubit, a machine-learning decoder that surpasses existing methods in identifying and correcting quantum computing errors &lpar;Matt Swayne/The Quantum Insider&rpar;](http://www.techmeme.com/241120/p39#a241120p39)
+ - [Nvidia Says Its Blackwell Chip Is Fine, Nothing to See Here](https://www.wired.com/story/nvidia-earnings-blackwell-chips-overheating/)
+ - [Adtech company The Trade Desk announces Ventura, a smart TV operating system, and plans to partner with TV manufacturers for its rollout, expected in H2 2025 &lpar;Sara Fischer/Axios&rpar;](http://www.techmeme.com/241120/p38#a241120p38)
+ - [Need a Break? Watch Moo Deng, the Viral Pygmy Hippo, on a 24/7 Livestream](https://www.cnet.com/science/how-to-watch-moo-deng-the-sassy-hippo-on-a-247-livestream/#ftag=CAD590a51e)
+ - [You Can See a Meteor Shower Every Night Through the End of the Year](https://www.cnet.com/science/see-the-taurids-meteor-shower-tonight-plus-more-fireballs-through-years-end/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

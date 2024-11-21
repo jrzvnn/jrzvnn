@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [A noble sacrifice](http://9gag.com/gag/azxmWrz)
- - 😝 [Go sports](http://9gag.com/gag/apRGZ5b)
- - 💣 [This was the day he realized his *friends* were living a different life than he wanted for himself](http://9gag.com/gag/a4P3v9y)
+ - 😝 [Core IT experience](http://9gag.com/gag/azxmpXp)
+ - 😝 [Nothing to see here](http://9gag.com/gag/a9ynxW0)
+ - 💣 [Fear me, human!... oh sorry](http://9gag.com/gag/ajP9wQx)
  - 😝 [There! \ud83d\udd2d\ud83d\udc48 It\u2019s officially time to download Royal Kingdom.](http://9gag.com/gag/aGydvO5)
- - 👉 [JAGUAR TO jaguwoke](http://9gag.com/gag/aE0P30O)<!-- MEMES:END -->
+ - 👉 [Trump being Trump](http://9gag.com/gag/aLnwZDv)<!-- MEMES:END -->
 
 ---
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Lambo huracan story](http://9gag.com/gag/a87GOdY)
- - 😝 [Caretaker trio stuffed 6-year-old in dryer spin cycle and turned it on as punishment for crying over lost bag of chips, police say](http://9gag.com/gag/aoyPoGm)
- - 💣 [The worst she can say is no](http://9gag.com/gag/a9ynwDj)
- - 😝 [Trump being Trump](http://9gag.com/gag/aLnwZDv)
- - 👉 [Maybe\u2026](http://9gag.com/gag/aRB7WLG)<!-- MEMES:END -->
+ - 😝 [Correct reaction. She passed the test.](http://9gag.com/gag/aYQyX2N)
+ - 😝 [Who is someone that you genuinely love?](http://9gag.com/gag/aAyez3p)
+ - 💣 [Oh yeah, a classic !](http://9gag.com/gag/aD245e7)
+ - 😝 [What is your answer?](http://9gag.com/gag/aYQy6M7)
+ - 👉 [Red light](http://9gag.com/gag/a4P3gXm)<!-- MEMES:END -->
 
 ---
 

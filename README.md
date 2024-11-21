@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Let me see your cats!](http://9gag.com/gag/ayNeO3X)
- - 😝 [Give this man a GOLD MEDAL](http://9gag.com/gag/an74L7V)
- - 💣 [Denzel Washington with the most to the point life advice](http://9gag.com/gag/ae9DvVQ)
+ - 😝 [Shakespeare created the word cuckold](http://9gag.com/gag/adBVzO2)
+ - 😝 [When genius surpasses all logic](http://9gag.com/gag/aD24yXd)
+ - 💣 [Keeping it cool and not missing a single note while being harassed](http://9gag.com/gag/aQzdjm7)
  - 😝 [Look at the animation quality of this trailer! \ud83e\udd29](http://9gag.com/gag/aGydvO5)
- - 👉 [Apes together strong! &lpar;In all seriousness, this is one of the best videos I&#39;ve seen in a long time haha, I love this&rpar;](http://9gag.com/gag/a0eNB4B)<!-- MEMES:END -->
+ - 👉 [British actors always peaked at British cinema then get Hollyworld at Usa](http://9gag.com/gag/aO87Lnv)<!-- MEMES:END -->
 
 ---
 

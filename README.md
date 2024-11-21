@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Lego and Formula 1 Roll Out Full Sets of Teams and Drivers](https://www.wired.com/story/lego-and-formula-1-sets/)
+ - [Airweave Advanced Mattress Review: A Firm Feel With Extraordinary Airflow](https://www.wired.com/review/airweave-advanced-mattress/)
  - [Automakers plead with Trump: don’t kill the EV tax credit](https://www.theverge.com/2024/11/21/24302592/trump-ev-tax-credit-auto-alliance-av-framework)
  - [Sources: Apple is testing a more conversational version of Siri, dubbed &quot;LLM Siri&quot;, with plans to release it in spring 2026 as part of iOS 19 and macOS 16 &lpar;Mark Gurman/Bloomberg&rpar;](http://www.techmeme.com/241121/p39#a241121p39)
- - [How Best to Use ChatGPT, Gemini, and Other AI Tools? Our AI Expert Answers Your Questions](https://www.wired.com/story/subscriber-only-livestream-with-reece-rogers-ai-unlocked/)
- - [It will soon be easier than ever for Android apps to stay signed in on a new phone](https://www.theverge.com/2024/11/21/24302562/android-restore-credentials-transfer-restore-key)
- - [Gamers Can Score a New Low Price on the AMD Radeon RX 7600 XT Graphics Card](https://www.cnet.com/deals/gamers-can-score-a-new-low-price-on-the-amd-radeon-rx-7600-xt/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [How Best to Use ChatGPT, Gemini, and Other AI Tools? Our AI Expert Answers Your Questions](https://www.wired.com/story/subscriber-only-livestream-with-reece-rogers-ai-unlocked/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

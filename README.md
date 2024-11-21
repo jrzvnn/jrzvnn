@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Trump being Trump](http://9gag.com/gag/aLnwZDv)
- - 😝 [Fun fact #2,773,378,980](http://9gag.com/gag/aLnw7eA)
- - 💣 [Look at the animation quality of this trailer! \ud83e\udd29](http://9gag.com/gag/aGydvO5)
- - 😝 [Nothing to see here](http://9gag.com/gag/a9ynxW0)
- - 👉 [Easy as it sounds](http://9gag.com/gag/aryVYdK)<!-- MEMES:END -->
+ - 😝 [Men United together and ran away from their wives. Core memory.](http://9gag.com/gag/aoyPbjg)
+ - 😝 [This was the day he realized his *friends* were living a different life than he wanted for himself](http://9gag.com/gag/a4P3v9y)
+ - 💣 [Give this man a GOLD MEDAL](http://9gag.com/gag/an74L7V)
+ - 😝 [Look at the animation quality of this trailer! \ud83e\udd29](http://9gag.com/gag/aGydvO5)
+ - 👉 [Apes together strong! &lpar;In all seriousness, this is one of the best videos I&#39;ve seen in a long time haha, I love this&rpar;](http://9gag.com/gag/a0eNB4B)<!-- MEMES:END -->
 
 ---
 

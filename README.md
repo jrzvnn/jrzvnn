@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [It&#39;s a bit scary.](http://9gag.com/gag/aQzdWG2)
- - 😝 [For all the parents with little kids:](http://9gag.com/gag/a34w65m)
- - 💣 [It works!](http://9gag.com/gag/awyBWY1)
- - 😝 [Well there you go](http://9gag.com/gag/aZZy6M9)
- - 👉 [Trump being Trump](http://9gag.com/gag/aLnwZDv)<!-- MEMES:END -->
+ - 😝 [Oh no](http://9gag.com/gag/aYQy6VO)
+ - 😝 [Well\u2026I guess that was the most memorable day of her life](http://9gag.com/gag/a1mWg5b)
+ - 💣 [Fun fact #2,773,378,980](http://9gag.com/gag/aLnw7eA)
+ - 😝 [Brought the car in for an oil change, mechanic tells me to `come back here and take a look at this`](http://9gag.com/gag/ayNerxW)
+ - 👉 [Caretaker trio stuffed 6-year-old in dryer spin cycle and turned it on as punishment for crying over lost bag of chips, police say](http://9gag.com/gag/aoyPoGm)<!-- MEMES:END -->
 
 ---
 

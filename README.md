@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Oh yeah, a classic !](http://9gag.com/gag/aD245e7)
- - 😝 [Red light](http://9gag.com/gag/a4P3gXm)
- - 💣 [Goodbye, Jaguar.](http://9gag.com/gag/a9yng8K)
- - 😝 [Trump being Trump](http://9gag.com/gag/aLnwZDv)
- - 👉 [Lady: her ass is brutal](http://9gag.com/gag/awyBpo8)<!-- MEMES:END -->
+ - 😝 [It&#39;s a bit scary.](http://9gag.com/gag/aQzdWG2)
+ - 😝 [For all the parents with little kids:](http://9gag.com/gag/a34w65m)
+ - 💣 [It works!](http://9gag.com/gag/awyBWY1)
+ - 😝 [Well there you go](http://9gag.com/gag/aZZy6M9)
+ - 👉 [Trump being Trump](http://9gag.com/gag/aLnwZDv)<!-- MEMES:END -->
 
 ---
 

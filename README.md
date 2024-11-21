@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [OpenAI accidentally erases potential evidence in training data lawsuit](https://www.theverge.com/2024/11/21/24302606/openai-erases-evidence-in-training-data-lawsuit)
- - [Sources: OpenAI considered making a browser, discussed deals to power AI features on Samsung devices and search on sites and apps from Cond&amp;eacute; Nast and others &lpar;The Information&rpar;](http://www.techmeme.com/241121/p40#a241121p40)
- - [Lego and Formula 1 Roll Out Full Sets of Teams and Drivers](https://www.wired.com/story/lego-and-formula-1-sets/)
- - [Airweave Advanced Mattress Review: A Firm Feel With Extraordinary Airflow](https://www.wired.com/review/airweave-advanced-mattress/)
- - [Automakers plead with Trump: don’t kill the EV tax credit](https://www.theverge.com/2024/11/21/24302592/trump-ev-tax-credit-auto-alliance-av-framework)<!-- TECH:END -->
+ - [Rabbit now lets you teach the R1 to perform tasks for you](https://www.theverge.com/2024/11/21/24302600/rabbit-r1-ai-agent-teach-mode-tasks)
+ - [Siri chatbot may be coming in 2026 as part of iOS 19](https://appleinsider.com/articles/24/11/21/siri-chatbot-may-be-coming-in-2026-as-part-of-ios-19?utm_medium=rss)
+ - [Apple is reportedly working on ‘LLM Siri’ to compete with ChatGPT](https://www.theverge.com/2024/11/21/24302685/apple-llm-siri-compete-chatgpt)
+ - [16 Best Mattresses—I’ve Tested Dozens for a Week Each &lpar;2024&rpar;](https://www.wired.com/gallery/best-mattresses/)
+ - [Best Internet Providers in San Antonio, Texas](https://www.cnet.com/home/internet/best-internet-providers-in-san-antonio-tx/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

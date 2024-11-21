@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [In its latest security report, Meta says it removed 2M+ accounts this year connected to pig butchering scams conducted from Southeast Asia and the UAE &lpar;James Reddick/The Record&rpar;](http://www.techmeme.com/241121/p34#a241121p34)
+ - [What Happens to X With No More Libs to Troll?](https://www.wired.com/story/politics-lab-what-happens-to-x/)
  - [Google’s Black Friday sale features record low prices on Pixel, Nest, and more](https://www.theverge.com/2024/11/21/24302290/google-black-friday-2024-pixel-nest-fitbit-deal-sale)
  - [Steam is adding support, and more rules, for ‘season pass’ content](https://www.theverge.com/2024/11/21/24302483/steam-season-pass-support-developer-guidelines)
- - [Google reportedly cancels Pixel Tablet 2 and might quit the category — again](https://www.theverge.com/2024/11/21/24302508/google-pixel-tablet-2-canceled-rumor)
- - [Star Wars Outlaws’ first expansion brings Lando into the game](https://www.theverge.com/2024/11/21/24302318/star-wars-outlaws-lando-dlc-steam-launch-stealth-update)
- - [SEC chair Gary Gensler will step down on January 20; it has been traditional for SEC chairs to resign if the administration changes in the middle of their term &lpar;Brady Dale/Axios&rpar;](http://www.techmeme.com/241121/p33#a241121p33)<!-- TECH:END -->
+ - [Google reportedly cancels Pixel Tablet 2 and might quit the category — again](https://www.theverge.com/2024/11/21/24302508/google-pixel-tablet-2-canceled-rumor)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

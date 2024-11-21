@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Core IT experience](http://9gag.com/gag/azxmpXp)
- - 😝 [And those mammary glands.](http://9gag.com/gag/aLnwEpA)
- - 💣 [Look at the animation quality of this trailer! \ud83e\udd29](http://9gag.com/gag/aGydvO5)
- - 😝 [Stress testing an M16.](http://9gag.com/gag/aVvw6LM)
- - 👉 [Who is someone that you genuinely love?](http://9gag.com/gag/aAyez3p)<!-- MEMES:END -->
+ - 😝 [German police officers in Berlin do not submit to Allah and are not intimidated by Islamists. Real men.](http://9gag.com/gag/axy95N2)
+ - 😝 [JAGUAR TO jaguwoke](http://9gag.com/gag/aE0P30O)
+ - 💣 [Oh yeah, a classic !](http://9gag.com/gag/aD245e7)
+ - 😝 [Look at the animation quality of this trailer! \ud83e\udd29](http://9gag.com/gag/aGydvO5)
+ - 👉 [This was the day he realized his *friends* were living a different life than he wanted for himself](http://9gag.com/gag/a4P3v9y)<!-- MEMES:END -->
 
 ---
 

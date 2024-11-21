@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Well there you go](http://9gag.com/gag/aZZy6M9)
- - 😝 [F**ks sake](http://9gag.com/gag/a9ynxeL)
- - 💣 [Omg it&#39;s symptom of a down](http://9gag.com/gag/a9yngo6)
- - 😝 [Mark up another victory and scratch one off the list.](http://9gag.com/gag/aKG7QQ1)
- - 👉 [Trump being Trump](http://9gag.com/gag/aLnwZDv)<!-- MEMES:END -->
+ - 😝 [A noble sacrifice](http://9gag.com/gag/azxmWrz)
+ - 😝 [British actors always peaked at British cinema then get Hollyworld at Usa](http://9gag.com/gag/aO87Lnv)
+ - 💣 [Lambo huracan story](http://9gag.com/gag/a87GOdY)
+ - 😝 [Red light](http://9gag.com/gag/a4P3gXm)
+ - 👉 [Oh yeah, a classic !](http://9gag.com/gag/aD245e7)<!-- MEMES:END -->
 
 ---
 

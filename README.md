@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Several media and tech executives say UK VC Matt Clifford, who has advised successive Tory and Labour governments, has an outsized influence over AI policy &lpar;Anna Gross/Financial Times&rpar;](http://www.techmeme.com/241121/p15#a241121p15)
+ - [News Influencers Have Eclipsed Traditional Media](https://www.wired.com/story/news-influencers-traditional-media/)
+ - [Best Internet Providers in Rio Rancho, New Mexico](https://www.cnet.com/home/internet/best-internet-providers-in-rio-rancho-nm/#ftag=CAD590a51e)
  - [The Trump administration&#39;s promises of mass deportations may lead to increased use of spyware like Graphite; ICE has a $2M contract with Graphite maker Paragon &lpar;Ronan Farrow/New Yorker&rpar;](http://www.techmeme.com/241121/p14#a241121p14)
- - [US government steps up oversight of Apple Pay and rivals](https://appleinsider.com/articles/24/11/21/us-government-steps-up-oversight-of-apple-pay-and-rivals?utm_medium=rss)
- - [China’s Surveillance State Is Selling Citizen Data as a Side Hustle](https://www.wired.com/story/chineses-surveillance-state-is-selling-citizens-data-as-a-side-hustle/)
- - [Alibaba appoints Jiang Fan its new e-commerce chief in an overhaul of the struggling business; Jiang was demoted in 2020 after allegations of improper conduct &lpar;Bloomberg&rpar;](http://www.techmeme.com/241121/p13#a241121p13)
- - [Streamlabs: Twitch accounted for 82.3% of total Q3 streaming hours, with YouTube Gaming in second place at 5.6%; Kick grew 204% from Q2 2023 to Q3 2024 &lpar;Sam Gutelle/Tubefilter&rpar;](http://www.techmeme.com/241121/p12#a241121p12)<!-- TECH:END -->
+ - [Essential Tips to Nail Your Thanksgiving Turkey This Year](https://www.cnet.com/how-to/essential-tips-to-nail-your-thanksgiving-turkey-this-year/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [Core IT experience](http://9gag.com/gag/azxmpXp)
+ - 😝 [Even the orangutan can&#39;t explain what happened](http://9gag.com/gag/a5QWY0y)
+ - 💣 [Look at the animation quality of this trailer! \ud83e\udd29](http://9gag.com/gag/aGydvO5)
  - 😝 [A noble sacrifice](http://9gag.com/gag/azxmWrz)
- - 😝 [Motion capture technology has come a long way](http://9gag.com/gag/abAGnvX)
- - 💣 [Trump being Trump](http://9gag.com/gag/aLnwZDv)
- - 😝 [Look at the animation quality of this trailer! \ud83e\udd29](http://9gag.com/gag/aGydvO5)
- - 👉 [The WALL](http://9gag.com/gag/aD24KrN)<!-- MEMES:END -->
+ - 👉 [Google it](http://9gag.com/gag/aMVxg1W)<!-- MEMES:END -->
 
 ---
 

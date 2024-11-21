@@ -161,7 +161,7 @@ R                        1 repo              ░░░░░░░░░░░�
  - [Sources: Amazon will likely face an EU investigation next year into whether it breaches the DMA by favoring its own brand products on its online marketplace &lpar;Foo Yun Chee/Reuters&rpar;](http://www.techmeme.com/241121/p36#a241121p36)
  - [The EU Parliament confirms Spain&#39;s Teresa Ribera as the next Competition Commissioner of the EU, replacing Margrethe Vestager &lpar;Lukas Knigge/Table.Media&rpar;](http://www.techmeme.com/241121/p35#a241121p35)
  - [In its latest security report, Meta says it removed 2M+ accounts this year connected to pig butchering scams conducted from Southeast Asia and the UAE &lpar;James Reddick/The Record&rpar;](http://www.techmeme.com/241121/p34#a241121p34)
- - [What Happens to X With No More Libs to Troll?](https://www.wired.com/story/politics-lab-what-happens-to-x/)<!-- TECH:END -->
+ - [My Favorite Bluetooth Speaker Is $40 Off for Black Friday and Makes a Great Gift](https://www.cnet.com/deals/my-favorite-bluetooth-speaker-is-40-off-for-black-friday-and-makes-a-great-gift/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

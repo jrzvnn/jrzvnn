@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [How XProtect protects you from viruses on macOS](https://appleinsider.com/inside/macos/tips/how-xprotect-protects-you-from-viruses-on-macos?utm_medium=rss)
- - [Is Silicon Valley Actually Libertarian?](https://www.wired.com/story/uncanny-valley-podcast-4-is-silicon-valley-libertarian/)
- - [The 18 Best Pillows We Found After Months of Nighttime Testing &lpar;2024&rpar;](https://www.wired.com/gallery/best-pillows/)
- - [Several media and tech executives say UK VC Matt Clifford, who has advised successive Tory and Labour governments, has an outsized influence over AI policy &lpar;Anna Gross/Financial Times&rpar;](http://www.techmeme.com/241121/p15#a241121p15)
- - [News Influencers Have Eclipsed Traditional Media](https://www.wired.com/story/news-influencers-traditional-media/)<!-- TECH:END -->
+ - [Border Militias Prepare to Assist With Donald Trump’s Mass Deportation Plans](https://www.wired.com/story/border-militias-immigrants-trump/)
+ - [Forcing Google to sell Chrome sounds good on paper but the reality of it happening is very small as it will be extremely messy, if not impossible to execute &lpar;M.G. Siegler/Spyglass&rpar;](http://www.techmeme.com/241121/p17#a241121p17)
+ - [How Satya Nadella transformed Microsoft as it enters its 50th year, including by changing its toxic culture, embracing open source, and making the OpenAI deal &lpar;Steven Levy/Wired&rpar;](http://www.techmeme.com/241121/p16#a241121p16)
+ - [9 Best Cooling Mattresses &lpar;2024&rpar;: Hybrid, Soft, Foam](https://www.wired.com/gallery/best-cooling-mattresses/)
+ - [How XProtect protects you from viruses on macOS](https://appleinsider.com/inside/macos/tips/how-xprotect-protects-you-from-viruses-on-macos?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

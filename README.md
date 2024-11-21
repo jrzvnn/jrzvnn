@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The 2025-26 FAFSA Launched Today. 5 Things to Know Before You Apply](https://www.cnet.com/personal-finance/loans/the-2025-26-fafsa-is-now-available-to-everyone-5-things-to-know-before-you-apply/#ftag=CAD590a51e)
+ - [Apple Music celebrates Billie Eilish&#39;s record-breaking year](https://appleinsider.com/articles/24/11/21/apple-music-celebrates-billie-eilishs-record-breaking-year?utm_medium=rss)
+ - [A new ‘ultra-secure’ phone carrier says it can make you harder to track](https://www.theverge.com/2024/11/21/24302416/cape-ultra-secure-phone-data-collection-tracking)
+ - [WhatsApp will soon transcribe your voice messages](https://www.theverge.com/2024/11/21/24302365/whatsapp-voice-message-transcription-feature-availability-ios-android)
  - [SpyCloud researchers say Chinese black market operators are openly recruiting insiders working for government surveillance agencies to sell their access online &lpar;Andy Greenberg/Wired&rpar;](http://www.techmeme.com/241121/p29#a241121p29)
- - [Best Internet Providers in Roseville, California](https://www.cnet.com/home/internet/best-internet-providers-in-roseville-ca/#ftag=CAD590a51e)
- - [Here&#39;s How Most People Screw up the Turkey on Thanksgiving, According to an Expert](https://www.cnet.com/how-to/heres-how-most-people-screw-up-the-turkey-on-thanksgiving-according-to-an-expert/#ftag=CAD590a51e)
- - [Impress Your Guests This Holiday Season With Half Off a Professional Vitamix Smart Blender](https://www.cnet.com/deals/impress-your-guests-this-holiday-season-with-half-off-a-professional-vitamix-smart-blender/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Adam Mosseri says Threads is rebalancing ranking to prioritize content from people that users follow, warns that creators&#39; &quot;unconnected&quot; reach may go down &lpar;Jay Peters/The Verge&rpar;](http://www.techmeme.com/241121/p28#a241121p28)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

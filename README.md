@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [OpenAI accidentally erases potential evidence in training data lawsuit](https://www.theverge.com/2024/11/21/24302606/openai-erases-evidence-in-training-data-lawsuit)
+ - [Sources: OpenAI considered making a browser, discussed deals to power AI features on Samsung devices and search on sites and apps from Cond&amp;eacute; Nast and others &lpar;The Information&rpar;](http://www.techmeme.com/241121/p40#a241121p40)
  - [Lego and Formula 1 Roll Out Full Sets of Teams and Drivers](https://www.wired.com/story/lego-and-formula-1-sets/)
  - [Airweave Advanced Mattress Review: A Firm Feel With Extraordinary Airflow](https://www.wired.com/review/airweave-advanced-mattress/)
- - [Automakers plead with Trump: don’t kill the EV tax credit](https://www.theverge.com/2024/11/21/24302592/trump-ev-tax-credit-auto-alliance-av-framework)
- - [Sources: Apple is testing a more conversational version of Siri, dubbed &quot;LLM Siri&quot;, with plans to release it in spring 2026 as part of iOS 19 and macOS 16 &lpar;Mark Gurman/Bloomberg&rpar;](http://www.techmeme.com/241121/p39#a241121p39)
- - [How Best to Use ChatGPT, Gemini, and Other AI Tools? Our AI Expert Answers Your Questions](https://www.wired.com/story/subscriber-only-livestream-with-reece-rogers-ai-unlocked/)<!-- TECH:END -->
+ - [Automakers plead with Trump: don’t kill the EV tax credit](https://www.theverge.com/2024/11/21/24302592/trump-ev-tax-credit-auto-alliance-av-framework)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

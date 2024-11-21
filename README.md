@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [And those mammary glands.](http://9gag.com/gag/aLnwEpA)
- - 😝 [Mark up another victory and scratch one off the list.](http://9gag.com/gag/aKG7QQ1)
- - 💣 [Motion capture technology has come a long way](http://9gag.com/gag/abAGnvX)
- - 😝 [Look at the animation quality of this trailer! \ud83e\udd29](http://9gag.com/gag/aGydvO5)
- - 👉 [Go sports](http://9gag.com/gag/apRGZ5b)<!-- MEMES:END -->
+ - 😝 [Core IT experience](http://9gag.com/gag/azxmpXp)
+ - 😝 [Go sports](http://9gag.com/gag/apRGZ5b)
+ - 💣 [Look at the animation quality of this trailer! \ud83e\udd29](http://9gag.com/gag/aGydvO5)
+ - 😝 [German police officers in Berlin do not submit to Allah and are not intimidated by Islamists. Real men.](http://9gag.com/gag/axy95N2)
+ - 👉 [And those mammary glands.](http://9gag.com/gag/aLnwEpA)<!-- MEMES:END -->
 
 ---
 

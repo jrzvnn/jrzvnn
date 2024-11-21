@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Goodbye, Jaguar.](http://9gag.com/gag/a9yng8K)
- - 😝 [British actors always peaked at British cinema then get Hollyworld at Usa](http://9gag.com/gag/aO87Lnv)
- - 💣 [Call me anytime](http://9gag.com/gag/aqynwKP)
- - 😝 [A noble sacrifice](http://9gag.com/gag/azxmWrz)
- - 👉 [Red light](http://9gag.com/gag/a4P3gXm)<!-- MEMES:END -->
+ - 😝 [Call me anytime](http://9gag.com/gag/aqynwKP)
+ - 😝 [Go sports](http://9gag.com/gag/apRGZ5b)
+ - 💣 [Lambo huracan story](http://9gag.com/gag/a87GOdY)
+ - 😝 [Red light](http://9gag.com/gag/a4P3gXm)
+ - 👉 [A noble sacrifice](http://9gag.com/gag/azxmWrz)<!-- MEMES:END -->
 
 ---
 

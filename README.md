@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Ad software company Mediaocean buys Innovid, an ad tech company focused on CTV, for $500M; Innovid had a market cap of ~$240M at market close on November 20 &lpar;Megan Graham/Wall Street Journal&rpar;](http://www.techmeme.com/241121/p25#a241121p25)
+ - [Save up to 36% on Microsoft Office for Mac 2024 with this early Black Friday special](https://appleinsider.com/articles/24/11/20/save-up-to-36-on-microsoft-office-for-mac-2024-with-this-early-black-friday-special?utm_medium=rss)
+ - [Ad software company Mediaocean acquires Innovid, an ad tech company focused on CTV, for $500M; Innovid had a market cap of ~$240M at market close on November 20 &lpar;Megan Graham/Wall Street Journal&rpar;](http://www.techmeme.com/241121/p25#a241121p25)
  - [Apple Pay, Cash App, and other digital wallets will be regulated more like banks now](https://www.theverge.com/2024/11/21/24302322/apple-pay-cash-app-paypal-regulated-banks-cfpb)
- - [Hawaii&#39;s The Garden Island discontinues the use of AI-generated newscasters on YouTube and Instagram after two months, likely due to negative public response &lpar;Guthrie Scrimgeour/Wired&rpar;](http://www.techmeme.com/241121/p24#a241121p24)
- - [Lightning AI, which lets customers fine-tune and run AI models in their preferred cloud environments, raised $50M, bringing its total funding to $103M &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/241121/p23#a241121p23)
- - [Belkin Auto-Tracking Stand Pro With DockKit Review: Hands-Free Fun](https://www.wired.com/review/belkin-auto-tracking-stand-pro-with-dockkit/)<!-- TECH:END -->
+ - [Hawaii&#39;s The Garden Island stops using AI-generated newscasters on YouTube, Facebook, and Instagram after two months, likely due to the negative public response &lpar;Guthrie Scrimgeour/Wired&rpar;](http://www.techmeme.com/241121/p24#a241121p24)
+ - [NYC-based Lightning AI, which lets customers fine-tune and run AI models in their preferred cloud environments, raised $50M, taking its total funding to $103M &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/241121/p23#a241121p23)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

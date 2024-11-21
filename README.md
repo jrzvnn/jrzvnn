@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [A look at OpenScholar, an LLM for scientific research built by the Allen Institute for AI and the University of Washington that outperforms GPT-4o on accuracy &lpar;Michael Nu&amp;ntilde;ez/VentureBeat&rpar;](http://www.techmeme.com/241121/p2#a241121p2)
  - [How XProtect protects you from viruses on macOS](https://appleinsider.com/inside/macos/tips/how-xprotect-protects-you-from-viruses-on-macos?utm_medium=rss)
  - [Filing: the US DOJ&#39;s proposal requires Google to allow websites more ability to opt-out of its AI products and provide more ad placement controls to advertisers &lpar;Leah Nylen/Bloomberg&rpar;](http://www.techmeme.com/241121/p1#a241121p1)
  - [DOJ says Google must sell Chrome to crack open its search monopoly](https://www.theverge.com/2024/11/20/24300617/doj-google-search-antitrust-chrome-breakup)
- - [As part of its proposed remedies, the US DOJ says Google should be required to syndicate its US search results to other rival search engines for the next decade &lpar;Brian Fung/CNN&rpar;](http://www.techmeme.com/241120/p44#a241120p44)
- - [Filing: DOJ asks judge to force Google to sell Chrome, restrict Android from favoring Google&#39;s search engine, ban default search deals on iOS and other devices &lpar;Michael Liedtke/Associated Press&rpar;](http://www.techmeme.com/241120/p43#a241120p43)<!-- TECH:END -->
+ - [As part of its proposed remedies, the US DOJ says Google should be required to syndicate its US search results to other rival search engines for the next decade &lpar;Brian Fung/CNN&rpar;](http://www.techmeme.com/241120/p44#a241120p44)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

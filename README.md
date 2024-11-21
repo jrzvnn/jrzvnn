@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Grab Apple&#39;s 16-inch MacBook Pro M4 at record low $2,199 price](https://appleinsider.com/articles/24/11/21/grab-apples-16-inch-macbook-pro-m4-at-record-low-2199-price?utm_medium=rss)
  - [Spotify adds new audiobook features for Premium users: video clips up to 30 seconds long, Author Pages, and visuals that appear while users listen &lpar;Lauren Forristal/TechCrunch&rpar;](http://www.techmeme.com/241121/p38#a241121p38)
  - [The company that sold cameras with ‘terrible’ security flaw has a new problem](https://www.theverge.com/2024/11/21/24302544/eken-video-doorbell-fcc-fine-fishbot-cutepanda)
  - [The best budget robot vacuums](https://www.theverge.com/23846479/best-budget-robot-vacuum-robot-mop)
- - [The 65 Best Movies on Disney+ Right Now &lpar;November 2024&rpar;](https://www.wired.com/story/best-movies-disney-plus/)
- - [You Too Can Hire an ‘Etsy Witch’ to Curse Elon Musk](https://www.wired.com/story/viral-tiktok-etsy-witch-elon-musk/)<!-- TECH:END -->
+ - [The 65 Best Movies on Disney+ Right Now &lpar;November 2024&rpar;](https://www.wired.com/story/best-movies-disney-plus/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

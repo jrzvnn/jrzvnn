@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Baidu reports Q3 revenue down 3% YoY to $4.78B, net income up 14% YoY to $1.09B, and online marketing revenue up 12% YoY to $1.1B, driven by AI cloud business &lpar;Evelyn Cheng/CNBC&rpar;](http://www.techmeme.com/241121/p9#a241121p9)
+ - [This digital D&amp;D watch lets you roll a fireball from your wrist](https://www.theverge.com/2024/11/21/24302238/timestop-d20-digital-watch-dnd-price-availability)
+ - [The AI Reporter That Took My Old Job Just Got Fired](https://www.wired.com/story/the-ai-reporter-who-took-my-old-job-just-got-fired/)
  - [Best Black Friday Amazon deals: $100 off M4 Mac mini, $250 off MacBook, $189 Apple Watch](https://appleinsider.com/articles/24/11/21/best-black-friday-amazon-deals-100-off-m4-mac-mini-250-off-macbook-189-apple-watch?utm_medium=rss)
- - [Q&amp;A with Palo Alto Networks CEO Nikesh Arora about the role of the tech industry in Trump&#39;s administration, AI, the future of cybersecurity, and more &lpar;Reed Albergotti/Semafor&rpar;](http://www.techmeme.com/241121/p8#a241121p8)
- - [Save $300 on the Apple Studio Display during Black Friday sale](https://appleinsider.com/articles/24/11/21/save-300-on-the-apple-studio-display-during-black-friday-sale?utm_medium=rss)
- - [A look at biometric ID company Clear, as it works to expand its face-based line-cutting service at retailers, banks, doctor&#39;s offices, and other places &lpar;Eileen Guo/MIT Technology Review&rpar;](http://www.techmeme.com/241121/p7#a241121p7)
- - [Best Internet Providers in Port St. Lucie, Florida](https://www.cnet.com/home/internet/best-internet-providers-in-port-st-lucie-fl/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Q&amp;A with Palo Alto Networks CEO Nikesh Arora about the role of the tech industry in Trump&#39;s administration, AI, the future of cybersecurity, and more &lpar;Reed Albergotti/Semafor&rpar;](http://www.techmeme.com/241121/p8#a241121p8)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

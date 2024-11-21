@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [New York Times Says OpenAI Erased Potential Lawsuit Evidence](https://www.wired.com/story/new-york-times-openai-erased-potential-lawsuit-evidence/)
  - [Sources: a16z, Ripple, Kraken, and Circle are jostling for a seat on Trump&#39;s promised crypto advisory council, which is expected to set up a bitcoin reserve &lpar;Hannah Lang/Reuters&rpar;](http://www.techmeme.com/241121/p37#a241121p37)
  - [Sources: Amazon will likely face an EU investigation next year into whether it breaches the DMA by favoring its own brand products on its online marketplace &lpar;Foo Yun Chee/Reuters&rpar;](http://www.techmeme.com/241121/p36#a241121p36)
  - [The EU Parliament confirms Spain&#39;s Teresa Ribera as the next Competition Commissioner of the EU, replacing Margrethe Vestager &lpar;Lukas Knigge/Table.Media&rpar;](http://www.techmeme.com/241121/p35#a241121p35)
- - [In its latest security report, Meta says it removed 2M+ accounts this year connected to pig butchering scams conducted from Southeast Asia and the UAE &lpar;James Reddick/The Record&rpar;](http://www.techmeme.com/241121/p34#a241121p34)
- - [My Favorite Bluetooth Speaker Is $40 Off for Black Friday and Makes a Great Gift](https://www.cnet.com/deals/my-favorite-bluetooth-speaker-is-40-off-for-black-friday-and-makes-a-great-gift/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [In its latest security report, Meta says it removed 2M+ accounts this year connected to pig butchering scams conducted from Southeast Asia and the UAE &lpar;James Reddick/The Record&rpar;](http://www.techmeme.com/241121/p34#a241121p34)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

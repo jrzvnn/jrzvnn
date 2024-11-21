@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Stress testing an M16.](http://9gag.com/gag/aVvw6LM)
- - 😝 [This was the day he realized his *friends* were living a different life than he wanted for himself](http://9gag.com/gag/a4P3v9y)
- - 💣 [Lambo huracan story](http://9gag.com/gag/a87GOdY)
+ - 😝 [A noble sacrifice](http://9gag.com/gag/azxmWrz)
+ - 😝 [Go sports](http://9gag.com/gag/apRGZ5b)
+ - 💣 [This was the day he realized his *friends* were living a different life than he wanted for himself](http://9gag.com/gag/a4P3v9y)
  - 😝 [There! \ud83d\udd2d\ud83d\udc48 It\u2019s officially time to download Royal Kingdom.](http://9gag.com/gag/aGydvO5)
- - 👉 [And those mammary glands.](http://9gag.com/gag/aLnwEpA)<!-- MEMES:END -->
+ - 👉 [JAGUAR TO jaguwoke](http://9gag.com/gag/aE0P30O)<!-- MEMES:END -->
 
 ---
 

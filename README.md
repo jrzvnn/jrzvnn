@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Shakespeare created the word cuckold](http://9gag.com/gag/adBVzO2)
- - 😝 [When genius surpasses all logic](http://9gag.com/gag/aD24yXd)
- - 💣 [Keeping it cool and not missing a single note while being harassed](http://9gag.com/gag/aQzdjm7)
+ - 😝 [Tabelcloth trick was not in the script so when he made it Jim Carrey had to improvise afterwards &lpar;How the Grinch Stole Christmas - 2000&rpar;](http://9gag.com/gag/a1mW9gv)
+ - 😝 [Nothing to see here](http://9gag.com/gag/a9ynxW0)
+ - 💣 [This is how you recognize if the picture is AI generated](http://9gag.com/gag/a0eN2KQ)
  - 😝 [Look at the animation quality of this trailer! \ud83e\udd29](http://9gag.com/gag/aGydvO5)
- - 👉 [British actors always peaked at British cinema then get Hollyworld at Usa](http://9gag.com/gag/aO87Lnv)<!-- MEMES:END -->
+ - 👉 [When genius surpasses all logic](http://9gag.com/gag/aD24yXd)<!-- MEMES:END -->
 
 ---
 

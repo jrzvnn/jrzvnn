@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Rabbit releases its teach mode in beta for all R1 users, letting them create and ask their own AI agents to automate tasks on websites &lpar;Igor Bonifacic/Engadget&rpar;](http://www.techmeme.com/241121/p32#a241121p32)
+ - [Kia announces high-performance EV9 GT with virtual shifting and native Tesla charging](https://www.theverge.com/2024/11/21/24302336/kia-ev9-gt-specs-nacs-charge-ev6-battery-laas)
  - [Crypto mining company Mara Holdings raised $1B through convertible notes, mostly to acquire bitcoin, as it expects bitcoin mining to flourish under Trump &lpar;Josh O&#39;Sullivan/Cointelegraph&rpar;](http://www.techmeme.com/241121/p31#a241121p31)
  - [The Red Elephant in the Room at AfroTech](https://www.wired.com/story/afrotech-2024-red-elephant-in-the-room/)
- - [Sonos speakers and soundbars are up to $200 off ahead of Black Friday](https://www.theverge.com/2024/11/21/24301822/sonos-soundbars-speakers-arc-era-100-beam-move-black-friday-deal-sale)
- - [Meta is rolling out voice message transcripts on WhatsApp globally over the coming weeks in select languages, and says they are generated on users&#39; devices &lpar;Aisha Malik/TechCrunch&rpar;](http://www.techmeme.com/241121/p30#a241121p30)
- - [Apple Music celebrates Billie Eilish&#39;s record-breaking year](https://appleinsider.com/articles/24/11/21/apple-music-celebrates-billie-eilishs-record-breaking-year?utm_medium=rss)<!-- TECH:END -->
+ - [Sonos speakers and soundbars are up to $200 off ahead of Black Friday](https://www.theverge.com/2024/11/21/24301822/sonos-soundbars-speakers-arc-era-100-beam-move-black-friday-deal-sale)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

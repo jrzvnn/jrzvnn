@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Oh yeah, a classic !](http://9gag.com/gag/aD245e7)
- - 😝 [Nothing to see here](http://9gag.com/gag/a9ynxW0)
- - 💣 [Elon Musk reaction on Jaguar&#39;s ad](http://9gag.com/gag/ae9DL3q)
+ - 😝 [This was the day he realized his *friends* were living a different life than he wanted for himself](http://9gag.com/gag/a4P3v9y)
+ - 😝 [For all the parents with little kids:](http://9gag.com/gag/a34w65m)
+ - 💣 [A noble sacrifice](http://9gag.com/gag/azxmWrz)
  - 😝 [Look at the animation quality of this trailer! \ud83e\udd29](http://9gag.com/gag/aGydvO5)
- - 👉 [Motion capture technology has come a long way](http://9gag.com/gag/abAGnvX)<!-- MEMES:END -->
+ - 👉 [The irony of modern internet](http://9gag.com/gag/a6ZKYML)<!-- MEMES:END -->
 
 ---
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [A noble sacrifice](http://9gag.com/gag/azxmWrz)
- - 😝 [Motion capture technology has come a long way](http://9gag.com/gag/abAGnvX)
- - 💣 [When genius surpasses all logic](http://9gag.com/gag/aD24yXd)
- - 😝 [Look at the animation quality of this trailer! \ud83e\udd29](http://9gag.com/gag/aGydvO5)
- - 👉 [Google it](http://9gag.com/gag/aMVxg1W)<!-- MEMES:END -->
+ - 😝 [Trump being Trump](http://9gag.com/gag/aLnwZDv)
+ - 😝 [Fun fact #2,773,378,980](http://9gag.com/gag/aLnw7eA)
+ - 💣 [Look at the animation quality of this trailer! \ud83e\udd29](http://9gag.com/gag/aGydvO5)
+ - 😝 [Nothing to see here](http://9gag.com/gag/a9ynxW0)
+ - 👉 [Easy as it sounds](http://9gag.com/gag/aryVYdK)<!-- MEMES:END -->
 
 ---
 

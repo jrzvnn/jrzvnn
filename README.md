@@ -159,9 +159,9 @@ R                        1 repo              ░░░░░░░░░░░�
 <!-- TECH:START -->
  - [Save $300 on the Apple Studio Display during Black Friday sale](https://appleinsider.com/articles/24/11/21/save-300-on-the-apple-studio-display-during-black-friday-sale?utm_medium=rss)
  - [A look at biometric ID company Clear, as it works to expand its face-based line-cutting service at retailers, banks, doctor&#39;s offices, and other places &lpar;Eileen Guo/MIT Technology Review&rpar;](http://www.techmeme.com/241121/p7#a241121p7)
+ - [Best Internet Providers in Port St. Lucie, Florida](https://www.cnet.com/home/internet/best-internet-providers-in-port-st-lucie-fl/#ftag=CAD590a51e)
  - [Peak Design’s Outdoor Backpack is a more versatile everyday bag](https://www.theverge.com/24290247/peak-design-25l-outdoor-backpack-review-camera-cube-test)
- - [London-based Lighthouse, which offers tools to help hotels analyze market demand and rates, raised a ~$370M Series C led by KKR, sources say at a $1B+ valuation &lpar;Swetha Gopinath/Bloomberg&rpar;](http://www.techmeme.com/241121/p6#a241121p6)
- - [Best Workout Mirrors for 2024](https://www.cnet.com/health/fitness/best-mirror-workout/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [London-based Lighthouse, which offers tools to help hotels analyze market demand and rates, raised a ~$370M Series C led by KKR, sources say at a $1B+ valuation &lpar;Swetha Gopinath/Bloomberg&rpar;](http://www.techmeme.com/241121/p6#a241121p6)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

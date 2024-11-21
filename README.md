@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Save Big on a New Dell Monitor This Black Friday](https://www.cnet.com/paid-content/news/save-big-on-a-new-dell-monitor-this-black-friday/#ftag=CAD590a51e)
+ - [What&#39;s Free on the Epic Games Store This Week?](https://www.cnet.com/tech/gaming/list-of-free-games-on-the-epic-games-store-this-week/#ftag=CAD590a51e)
  - [Save up to $2,000 with exclusive Bluetti portable power station Black Friday deals](https://appleinsider.com/articles/24/11/21/save-up-to-2000-with-exclusive-bluetti-portable-power-station-black-friday-deals?utm_medium=rss)
- - [Rabbit now lets you teach the R1 to perform tasks for you](https://www.theverge.com/2024/11/21/24302600/rabbit-r1-ai-agent-teach-mode-tasks)
- - [Siri chatbot may be coming in 2026 as part of iOS 19](https://appleinsider.com/articles/24/11/21/siri-chatbot-may-be-coming-in-2026-as-part-of-ios-19?utm_medium=rss)
- - [Apple is reportedly working on ‘LLM Siri’ to compete with ChatGPT](https://www.theverge.com/2024/11/21/24302685/apple-llm-siri-compete-chatgpt)
- - [16 Best Mattresses—I’ve Tested Dozens for a Week Each &lpar;2024&rpar;](https://www.wired.com/gallery/best-mattresses/)<!-- TECH:END -->
+ - [19 Can&#39;t-Miss Black Friday Bargains You Can Shop Right Now at Walmart](https://www.cnet.com/deals/walmart-black-friday-deals/#ftag=CAD590a51e)
+ - [My Favorite High-Tech Baby Monitor Is on Sale for $60 Off](https://www.cnet.com/deals/my-favorite-high-tech-baby-monitor-is-on-sale-for-60-off/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

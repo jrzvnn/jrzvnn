@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Alibaba appoints Jiang Fan its new e-commerce chief in overhaul of a vast but struggling arm; Jiang was demoted in 2020 after allegations of improper conduct &lpar;Bloomberg&rpar;](http://www.techmeme.com/241121/p13#a241121p13)
+ - [US government steps up oversight of Apple Pay and rivals](https://appleinsider.com/articles/24/11/21/us-government-steps-up-oversight-of-apple-pay-and-rivals?utm_medium=rss)
+ - [China’s Surveillance State Is Selling Citizen Data as a Side Hustle](https://www.wired.com/story/chineses-surveillance-state-is-selling-citizens-data-as-a-side-hustle/)
+ - [Alibaba appoints Jiang Fan its new e-commerce chief in an overhaul of the struggling business; Jiang was demoted in 2020 after allegations of improper conduct &lpar;Bloomberg&rpar;](http://www.techmeme.com/241121/p13#a241121p13)
  - [Streamlabs: Twitch accounted for 82.3% of total Q3 streaming hours, with YouTube Gaming in second place at 5.6%; Kick grew 204% from Q2 2023 to Q3 2024 &lpar;Sam Gutelle/Tubefilter&rpar;](http://www.techmeme.com/241121/p12#a241121p12)
- - [Relevant! Relevant! Relevant! At 50, Microsoft Is an AI Giant, Open-Source Lover, and as Bad as Ever](https://www.wired.com/story/at-age-50-microsoft-is-an-ai-giant-an-open-source-lover-and-bad-as-it-ever-was/)
- - [CFPB will supervise tech companies offering digital wallets, like Apple Pay, Google Pay and Venmo, by treating companies with 50M+ annual transactions as banks &lpar;Paige Smith/Bloomberg&rpar;](http://www.techmeme.com/241121/p11#a241121p11)
- - [Apple urges judge to dismiss the DOJ&#39;s speculative antitrust suit](https://appleinsider.com/articles/24/11/21/apple-urges-judge-to-dismiss-the-dojs-speculative-antitrust-suit?utm_medium=rss)<!-- TECH:END -->
+ - [Relevant! Relevant! Relevant! At 50, Microsoft Is an AI Giant, Open-Source Lover, and as Bad as Ever](https://www.wired.com/story/at-age-50-microsoft-is-an-ai-giant-an-open-source-lover-and-bad-as-it-ever-was/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

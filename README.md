@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Elon Musk reaction on Jaguar&#39;s ad](http://9gag.com/gag/ae9DL3q)
- - 😝 [Lambo huracan story](http://9gag.com/gag/a87GOdY)
- - 💣 [This was the day he realized his *friends* were living a different life than he wanted for himself](http://9gag.com/gag/a4P3v9y)
+ - 😝 [Oh yeah, a classic !](http://9gag.com/gag/aD245e7)
+ - 😝 [Nothing to see here](http://9gag.com/gag/a9ynxW0)
+ - 💣 [Elon Musk reaction on Jaguar&#39;s ad](http://9gag.com/gag/ae9DL3q)
  - 😝 [Look at the animation quality of this trailer! \ud83e\udd29](http://9gag.com/gag/aGydvO5)
- - 👉 [Nothing to see here](http://9gag.com/gag/a9ynxW0)<!-- MEMES:END -->
+ - 👉 [Motion capture technology has come a long way](http://9gag.com/gag/abAGnvX)<!-- MEMES:END -->
 
 ---
 

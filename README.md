@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Well\u2026I guess that was the most memorable day of her life](http://9gag.com/gag/a1mWg5b)
- - 😝 [Lambo huracan story](http://9gag.com/gag/a87GOdY)
- - 💣 [The worst she can say is no](http://9gag.com/gag/a9ynwDj)
- - 😝 [Trump being Trump](http://9gag.com/gag/aLnwZDv)
- - 👉 [Red light](http://9gag.com/gag/a4P3gXm)<!-- MEMES:END -->
+ - 😝 [Jorge remembered slowly](http://9gag.com/gag/awyBjLx)
+ - 😝 [Caretaker trio stuffed 6-year-old in dryer spin cycle and turned it on as punishment for crying over lost bag of chips, police say](http://9gag.com/gag/aoyPoGm)
+ - 💣 [Stress testing an M16.](http://9gag.com/gag/aVvw6LM)
+ - 😝 [Correct reaction. She passed the test.](http://9gag.com/gag/aYQyX2N)
+ - 👉 [Core IT experience](http://9gag.com/gag/azxmpXp)<!-- MEMES:END -->
 
 ---
 

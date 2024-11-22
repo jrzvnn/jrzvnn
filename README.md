@@ -166,10 +166,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Last day of his work](http://9gag.com/gag/azxmnLB)
+ - 😝 [Gentlemen, let me present Kahn, Mr Oliver Kahn](http://9gag.com/gag/a5QWLvG)
  - 😝 [When genius surpasses all logic](http://9gag.com/gag/aD24yXd)
- - 💣 [New secret](http://9gag.com/gag/aGyd33G)
- - 😝 [This is a whole conversation between two drivers](http://9gag.com/gag/aE0P9Kp)
+ - 💣 [This is a whole conversation between two drivers](http://9gag.com/gag/aE0P9Kp)
+ - 😝 [New secret](http://9gag.com/gag/aGyd33G)
  - 👉 [The world&#39;s shortest and tallest women have tea](http://9gag.com/gag/aBympVA)<!-- MEMES:END -->
 
 ---

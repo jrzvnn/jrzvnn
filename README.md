@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Best selling luggage on Black Friday](http://9gag.com/gag/aoyPBOx)
- - 😝 [Google it](http://9gag.com/gag/aMVxg1W)
- - 💣 [Kidnapped without knowing](http://9gag.com/gag/a1mW4b6)
+ - 😝 [Dill](http://9gag.com/gag/aE0PLMG)
+ - 😝 [Kidnapped without knowing](http://9gag.com/gag/a1mW4b6)
+ - 💣 [The WALL](http://9gag.com/gag/aD24KrN)
  - 😝 [When genius surpasses all logic](http://9gag.com/gag/aD24yXd)
- - 👉 [Woman tries dating app as a man - with obvious results](http://9gag.com/gag/ajP9pKw)<!-- MEMES:END -->
+ - 👉 [Google it](http://9gag.com/gag/aMVxg1W)<!-- MEMES:END -->
 
 ---
 

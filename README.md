@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Cambridge, MA-based Pickle Robot, which makes AI-powered robots that autonomously unload trucks, raised a $50M Series B &lpar;The Robot Report&rpar;](http://www.techmeme.com/241122/p13#a241122p13)
  - [12 Best Computer Speakers &lpar;2024&rpar;: Affordable, Soundbar, Surround Sound, Gaming](https://www.wired.com/gallery/best-computer-speakers/)
  - [Threads is testing AI-generated summaries of what users are discussing, in the app&#39;s Trending Now section in the US, and Search and Trending Now improvements &lpar;Mia Sato/The Verge&rpar;](http://www.techmeme.com/241122/p12#a241122p12)
  - [Teen streamer dumped a meme coin for $30K, then things got weird](https://www.theverge.com/2024/11/22/24303149/teen-streamer-dumped-quant-meme-coin-doxxed)
- - [SCOTUS dismisses Facebook&#39;s appeal of a lower court order reviving a shareholder lawsuit for allegedly misleading investors on Cambridge Analytica &lpar;Melissa Quinn/CBS News&rpar;](http://www.techmeme.com/241122/p11#a241122p11)
- - [This cheaper Apple Pencil alternative now has tilt detection and a better tip](https://www.theverge.com/2024/11/22/24303122/sonarpen-2-stylus-apple-ipad-pencil)<!-- TECH:END -->
+ - [SCOTUS dismisses Meta&#39;s appeal of a lower court order reviving a shareholder lawsuit for allegedly misleading investors on the 2015 Cambridge Analytica scandal &lpar;Melissa Quinn/CBS News&rpar;](http://www.techmeme.com/241122/p11#a241122p11)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -166,10 +166,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [I love to cook but I am tired to cook the same 5-10 meals. Do you have recipes from your home country that are maybe not well known, are not that complicated/long to make and that don&#39;t require too obscure ingredients, and of course that you love? I&#39;ll try them all.](http://9gag.com/gag/aLnwZWA)
+ - 😝 [Interesting](http://9gag.com/gag/aAyeW80)
+ - 😝 [H.......](http://9gag.com/gag/aXPgBn6)
+ - 💣 [Woman tries dating app as a man - with obvious results](http://9gag.com/gag/ajP9pKw)
  - 😝 [When genius surpasses all logic](http://9gag.com/gag/aD24yXd)
- - 💣 [Trump being Trump](http://9gag.com/gag/aLnwZDv)
- - 😝 [Easy as it sounds](http://9gag.com/gag/aryVYdK)
  - 👉 [Google it](http://9gag.com/gag/aMVxg1W)<!-- MEMES:END -->
 
 ---

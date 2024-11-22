@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Woman tries dating app as a man - with obvious results](http://9gag.com/gag/ajP9pKw)
- - 😝 [H.......](http://9gag.com/gag/aXPgBn6)
- - 💣 [Micro$oft does it yet again!](http://9gag.com/gag/abAG72L)
- - 😝 [Kidnapped without knowing](http://9gag.com/gag/a1mW4b6)
- - 👉 [The WALL](http://9gag.com/gag/aD24KrN)<!-- MEMES:END -->
+ - 😝 [When genius surpasses all logic](http://9gag.com/gag/aD24yXd)
+ - 😝 [Johnny bravo](http://9gag.com/gag/aBym7WN)
+ - 💣 [Kidnapped without knowing](http://9gag.com/gag/a1mW4b6)
+ - 😝 [The WALL](http://9gag.com/gag/aD24KrN)
+ - 👉 [Google it](http://9gag.com/gag/aMVxg1W)<!-- MEMES:END -->
 
 ---
 

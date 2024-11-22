@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Prank](http://9gag.com/gag/a9yn93m)
- - 😝 [He&#39;s starting to understand](http://9gag.com/gag/ayNeOMV)
- - 💣 [This was the day he realized his *friends* were living a different life than he wanted for himself](http://9gag.com/gag/a4P3v9y)
+ - 😝 [When genius surpasses all logic](http://9gag.com/gag/aD24yXd)
+ - 😝 [Calm down, most of you are not in danger](http://9gag.com/gag/ayNeGVq)
+ - 💣 [The world&#39;s shortest and tallest women have tea](http://9gag.com/gag/aBympVA)
  - 😝 [Let the movie magic unfold on every level! \ud83c\udf1f\ud83c\udfac](http://9gag.com/gag/axy9r82)
- - 👉 [Nothing to see here](http://9gag.com/gag/a9ynxW0)<!-- MEMES:END -->
+ - 👉 [The WALL](http://9gag.com/gag/aD24KrN)<!-- MEMES:END -->
 
 ---
 

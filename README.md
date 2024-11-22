@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Gentlemen, let me present Kahn, Mr Oliver Kahn](http://9gag.com/gag/a5QWLvG)
- - 😝 [When genius surpasses all logic](http://9gag.com/gag/aD24yXd)
- - 💣 [This is a whole conversation between two drivers](http://9gag.com/gag/aE0P9Kp)
+ - 😝 [Kidnapped without knowing](http://9gag.com/gag/a1mW4b6)
+ - 😝 [Last day of his work](http://9gag.com/gag/azxmnLB)
+ - 💣 [Woman tries dating app as a man - with obvious results](http://9gag.com/gag/ajP9pKw)
  - 😝 [New secret](http://9gag.com/gag/aGyd33G)
- - 👉 [The world&#39;s shortest and tallest women have tea](http://9gag.com/gag/aBympVA)<!-- MEMES:END -->
+ - 👉 [Ain&#39;t nobody getting past](http://9gag.com/gag/aYQojNN)<!-- MEMES:END -->
 
 ---
 

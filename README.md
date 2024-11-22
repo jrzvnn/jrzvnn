@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [How to use the new iOS 18 iPhone Control Center](https://appleinsider.com/inside/ios-18/tips/how-to-use-the-new-ios-18-iphone-control-center?utm_medium=rss)
+ - [63 Best Early Black Friday Deals of 2024 to Shop Right Now](https://www.wired.com/story/early-black-friday-deals-2024-2/)
  - [Strava’s API debacle highlights the messiness of fitness data](https://www.theverge.com/2024/11/22/24303124/strava-fitness-data-wearables)
  - [Sources: MatX, which designs chips to train LLMs, raised a ~$80M Series A led by Spark Capital, at a ~$300M valuation, after raising a $25M seed in March &lpar;Marina Temkin/TechCrunch&rpar;](http://www.techmeme.com/241122/p17#a241122p17)
- - [&#39;Gladiator 2&#39; Is Out Now. Here&#39;s Where You Can Watch the First &#39;Gladiator&#39; for Free](https://www.cnet.com/tech/services-and-software/gladiator-2-out-now-heres-where-you-can-watch-first-gladiator-for-free/#ftag=CAD590a51e)
- - [You Don&#39;t Have to Pay for More Gmail Storage: How to Get Back 15GB for Free](https://www.cnet.com/tech/services-and-software/you-dont-have-to-pay-for-more-gmail-storage-how-to-get-back-15gb-for-free/#ftag=CAD590a51e)
- - [Microsoft releases the first beta preview of its Recall AI feature for Copilot Plus PCs, including Click to Do, a feature similar to Google&#39;s Circle to Search &lpar;Tom Warren/The Verge&rpar;](http://www.techmeme.com/241122/p16#a241122p16)<!-- TECH:END -->
+ - [&#39;Gladiator 2&#39; Is Out Now. Here&#39;s Where You Can Watch the First &#39;Gladiator&#39; for Free](https://www.cnet.com/tech/services-and-software/gladiator-2-out-now-heres-where-you-can-watch-first-gladiator-for-free/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

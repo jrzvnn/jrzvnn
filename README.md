@@ -158,10 +158,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- TECH:START -->
  - [You can easily disassemble this repairable smartwatch using just a Phillips screwdriver](https://www.theverge.com/2024/11/22/24303386/pocuter-spectra-smartwatch-repairable-hackable-wearable)
+ - [Best Teeth Whitening Kits in 2024](https://www.cnet.com/health/personal-care/best-teeth-whitening-kits/#ftag=CAD590a51e)
+ - [The Nintendo Switch Is a Great Gift for a Gamer on the Go](https://www.cnet.com/deals/the-nintendo-switch-is-a-great-gift-for-a-gamer-on-the-go/#ftag=CAD590a51e)
  - [Sling TV’s streaming TV price goes up by $5.99 next month](https://www.theverge.com/2024/11/22/24303400/sling-tv-streaming-price-increase-blue-orange)
- - [The US Is Calling Out Foreign Influence Campaigns Faster Than Ever](https://www.wired.com/story/us-called-out-foreign-influence-campaigns-faster-than-ever/)
- - [iPhone 17 Slim probably won&#39;t have a telephoto camera](https://appleinsider.com/articles/24/11/22/iphone-17-slim-probably-wont-have-a-telephoto-camera?utm_medium=rss)
- - [Reid Hoffman shares his worries for tech under a Trump administration, calls Musk owning xAI while setting federal AI policies a serious conflict of interest &lpar;Reid Hoffman/Financial Times&rpar;](http://www.techmeme.com/241122/p18#a241122p18)<!-- TECH:END -->
+ - [The US Is Calling Out Foreign Influence Campaigns Faster Than Ever](https://www.wired.com/story/us-called-out-foreign-influence-campaigns-faster-than-ever/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

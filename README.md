@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [SafeRent, an AI screening tool used by landlords, agrees to pay ~$2.3M to settle a discrimination lawsuit and will no longer display certain tenant scores &lpar;Emma Roth/The Verge&rpar;](http://www.techmeme.com/241121/p42#a241121p42)
+ - [Snap says New Mexico intentionally friended alleged child predators, then blamed the company](https://www.theverge.com/2024/11/21/24302767/snap-new-mexico-attorney-general-motion-dismiss-child-exploitation)
+ - [The best iPhones](https://www.theverge.com/23618862/best-iphone-camera-battery-screen-guide)
  - [Source: Google has canceled the development of a second-generation Pixel Tablet, planned for release in 2025, due to concerns that it wouldn&#39;t sell very well &lpar;Mishaal Rahman/Android Authority&rpar;](http://www.techmeme.com/241121/p41#a241121p41)
- - [The Verge’s guide to Black Friday 2024](https://www.theverge.com/24288220/black-friday-best-deals-guide-cyber-monday-tech-gadgets-2024)
- - [Here are the best Black Friday deals you can already get](https://www.theverge.com/24293826/best-early-black-friday-deals-2024-amazon-walmart-buy-target-tech-sale)
- - [FCC passes auto safety spectrum rules](https://www.theverge.com/2024/11/21/24302733/fcc-cv2x-cellular-vehicle-everything-spectrum-rules-final)
- - [Save Big on a New Dell Monitor This Black Friday](https://www.cnet.com/paid-content/news/save-big-on-a-new-dell-monitor-this-black-friday/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [The Verge’s guide to Black Friday 2024](https://www.theverge.com/24288220/black-friday-best-deals-guide-cyber-monday-tech-gadgets-2024)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

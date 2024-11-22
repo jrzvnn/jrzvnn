@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Teen streamer dumped a meme coin for $30K, then things got weird](https://www.theverge.com/2024/11/22/24303149/teen-streamer-dumped-quant-meme-coin-doxxed)
+ - [SCOTUS dismisses Facebook&#39;s appeal of a lower court order reviving a shareholder lawsuit for allegedly misleading investors on Cambridge Analytica &lpar;Melissa Quinn/CBS News&rpar;](http://www.techmeme.com/241122/p11#a241122p11)
  - [This cheaper Apple Pencil alternative now has tilt detection and a better tip](https://www.theverge.com/2024/11/22/24303122/sonarpen-2-stylus-apple-ipad-pencil)
  - [Elon Musk’s new DOGE plans are actually old ideas about mass deregulation](https://www.theverge.com/2024/11/22/24302735/elon-musk-doge-vivek-ramaswamy-rage-curtis-yarvin)
- - [Threads is overhauling its search and trending features](https://www.theverge.com/2024/11/22/24303207/threads-meta-search-trending-topics-bluesky)
- - [Best Natural Sleep Aids &lpar;2024&rpar;, Tested and Reviewed](https://www.wired.com/gallery/the-best-natural-sleep-aids/)
- - [SteelSeries Arctis GameBuds review: earbuds for your PlayStation or Xbox](https://www.theverge.com/24300648/steelseries-arctis-gamebuds-review-xbox-playstation)<!-- TECH:END -->
+ - [Threads is overhauling its search and trending features](https://www.theverge.com/2024/11/22/24303207/threads-meta-search-trending-topics-bluesky)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

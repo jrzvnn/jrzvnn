@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [This is how you recognize if the picture is AI generated](http://9gag.com/gag/a0eN2KQ)
- - 😝 [Core IT experience](http://9gag.com/gag/azxmpXp)
- - 💣 [Go sports](http://9gag.com/gag/apRGZ5b)
- - 😝 [Look at the animation quality of this trailer! \ud83e\udd29](http://9gag.com/gag/aGydvO5)
- - 👉 [Preselection Rule](http://9gag.com/gag/aGydWmw)<!-- MEMES:END -->
+ - 😝 [She cooks! He washes?](http://9gag.com/gag/ajP9eb0)
+ - 😝 [A noble sacrifice](http://9gag.com/gag/azxmWrz)
+ - 💣 [Nothing to see here](http://9gag.com/gag/a9ynxW0)
+ - 😝 [The right answer isn&#39;t available in this practice math placement exam](http://9gag.com/gag/axy9XxD)
+ - 👉 [This is how you recognize if the picture is AI generated](http://9gag.com/gag/a0eN2KQ)<!-- MEMES:END -->
 
 ---
 

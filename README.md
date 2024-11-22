@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [This was the day he realized his *friends* were living a different life than he wanted for himself](http://9gag.com/gag/a4P3v9y)
- - 😝 [Apes together strong! &lpar;In all seriousness, this is one of the best videos I&#39;ve seen in a long time haha, I love this&rpar;](http://9gag.com/gag/a0eNB4B)
- - 💣 [Denzel Washington with the most to the point life advice](http://9gag.com/gag/ae9DvVQ)
+ - 😝 [All advertising is good advertising. ?](http://9gag.com/gag/avyzNeX)
+ - 😝 [Micro$oft does it yet again!](http://9gag.com/gag/abAG72L)
+ - 💣 [Correct reaction. She passed the test.](http://9gag.com/gag/aYQyX2N)
  - 😝 [Look at the animation quality of this trailer! \ud83e\udd29](http://9gag.com/gag/aGydvO5)
- - 👉 [Dogzoned](http://9gag.com/gag/aXPg5yz)<!-- MEMES:END -->
+ - 👉 [H.......](http://9gag.com/gag/aXPgBn6)<!-- MEMES:END -->
 
 ---
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Interesting](http://9gag.com/gag/aAyeW80)
- - 😝 [H.......](http://9gag.com/gag/aXPgBn6)
- - 💣 [Woman tries dating app as a man - with obvious results](http://9gag.com/gag/ajP9pKw)
- - 😝 [When genius surpasses all logic](http://9gag.com/gag/aD24yXd)
- - 👉 [Google it](http://9gag.com/gag/aMVxg1W)<!-- MEMES:END -->
+ - 😝 [New secret](http://9gag.com/gag/aGyd33G)
+ - 😝 [Last day of his work](http://9gag.com/gag/azxmnLB)
+ - 💣 [Google it](http://9gag.com/gag/aMVxg1W)
+ - 😝 [Kidnapped without knowing](http://9gag.com/gag/a1mW4b6)
+ - 👉 [The WALL](http://9gag.com/gag/aD24KrN)<!-- MEMES:END -->
 
 ---
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [This cheaper Apple Pencil alternative now has tilt detection and a better tip](https://www.theverge.com/2024/11/22/24303122/sonarpen-2-stylus-apple-ipad-pencil)
+ - [Elon Musk’s new DOGE plans are actually old ideas about mass deregulation](https://www.theverge.com/2024/11/22/24302735/elon-musk-doge-vivek-ramaswamy-rage-curtis-yarvin)
  - [Threads is overhauling its search and trending features](https://www.theverge.com/2024/11/22/24303207/threads-meta-search-trending-topics-bluesky)
  - [Best Natural Sleep Aids &lpar;2024&rpar;, Tested and Reviewed](https://www.wired.com/gallery/the-best-natural-sleep-aids/)
- - [SteelSeries Arctis GameBuds review: earbuds for your PlayStation or Xbox](https://www.theverge.com/24300648/steelseries-arctis-gamebuds-review-xbox-playstation)
- - [Audi’s latest RS E-tron GT ‘Performance’ is its quickest car yet](https://www.theverge.com/2024/11/22/24303148/audi-2025-s-rs-e-tron-gt-performance-launch)
- - [Indian quick grocery delivery startup Zepto raises $350M at the same $5B valuation as its $340M raise in August; it has raised $1.35B since June 2024 &lpar;Manish Singh/TechCrunch&rpar;](http://www.techmeme.com/241122/p10#a241122p10)<!-- TECH:END -->
+ - [SteelSeries Arctis GameBuds review: earbuds for your PlayStation or Xbox](https://www.theverge.com/24300648/steelseries-arctis-gamebuds-review-xbox-playstation)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

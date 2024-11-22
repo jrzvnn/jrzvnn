@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Denzel Washington with the most to the point life advice](http://9gag.com/gag/ae9DvVQ)
- - 😝 [Calm down, most of you are not in danger](http://9gag.com/gag/ayNeGVq)
- - 💣 [Right in the..](http://9gag.com/gag/aE0Pr8e)
+ - 😝 [H.......](http://9gag.com/gag/aXPgBn6)
+ - 😝 [Prank](http://9gag.com/gag/a9yn93m)
+ - 💣 [Elon Musk reaction on Jaguar&#39;s ad](http://9gag.com/gag/ae9DL3q)
  - 😝 [Look at the animation quality of this trailer! \ud83e\udd29](http://9gag.com/gag/aGydvO5)
- - 👉 [Prank](http://9gag.com/gag/a9yn93m)<!-- MEMES:END -->
+ - 👉 [The right answer isn&#39;t available in this practice math placement exam](http://9gag.com/gag/axy9XxD)<!-- MEMES:END -->
 
 ---
 

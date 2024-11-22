@@ -159,7 +159,7 @@ R                        1 repo              ░░░░░░░░░░░�
 <!-- TECH:START -->
  - [Microsoft releases the first beta preview of its Recall AI feature for Copilot Plus PCs, including Click to Do, a feature similar to Google&#39;s Circle to Search &lpar;Tom Warren/The Verge&rpar;](http://www.techmeme.com/241122/p16#a241122p16)
  - [Google is prepping Gemini to take action inside of apps](https://www.theverge.com/2024/11/22/24303329/google-gemini-android-16-app-functions)
- - [Judge rules SiriusXM’s annoying cancellation process is illegal](https://www.theverge.com/2024/11/22/24303294/judge-ruling-sirius-xm-cancellation-process-illegal-ny-ag)
+ - [Judge rules SiriusXM’s annoying cancellation process is illegal](https://www.theverge.com/2024/11/22/24303294/sirius-xm-cancellation-process-illegal-ny-ag)
  - [16-inch MacBook Pro M4 Max review: The pinnacle of the portable Mac](https://appleinsider.com/articles/24/11/22/16-inch-macbook-pro-m4-max-review-the-pinnacle-of-the-portable-mac?utm_medium=rss)
  - [Hyundai recalls more than 145,000 Ioniq and Genesis EVs that can lose power while driving](https://www.theverge.com/2024/11/22/24303326/hyundai-recall-ioniq-5-6-genesis-gv60-gv70-g80-drive-power)<!-- TECH:END -->
 

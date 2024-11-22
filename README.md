@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Microsoft President Brad Smith calls on Donald Trump to &quot;push harder&quot; against cyberattacks from Russia, China, and Iran amid a wave of state-sponsored hacks &lpar;Tim Bradshaw/Financial Times&rpar;](http://www.techmeme.com/241122/p4#a241122p4)
  - [Best Black Friday Deals 2024: We Found Over 50 of the Hottest Deals to Shop Right Now](https://www.cnet.com/deals/best-black-friday-deals-of-2024/#ftag=CAD590a51e)
  - [24 Best Black Friday Mattress Deals to Shop This Season](https://www.cnet.com/deals/best-black-friday-mattress-deals-2024/#ftag=CAD590a51e)
  - [Filing: Japanese chipmaker Kioxia plans its Tokyo Stock Exchange debut on December 18 and sets its indicative IPO price at about $9 per share to raise ~$180M &lpar;Yuki Furukawa/Bloomberg&rpar;](http://www.techmeme.com/241122/p3#a241122p3)
- - [Clean Up This Black Friday With Eureka Vacuums Deals Saving You Up to 45%](https://www.cnet.com/deals/clean-up-this-black-friday-with-eureka-vacuums-deals-saving-you-up-to-45/#ftag=CAD590a51e)
- - [$10 OFF Walmart Promo Codes - November 2024](https://www.wired.com/story/top-walmart-promo-codes/)<!-- TECH:END -->
+ - [Clean Up This Black Friday With Eureka Vacuums Deals Saving You Up to 45%](https://www.cnet.com/deals/clean-up-this-black-friday-with-eureka-vacuums-deals-saving-you-up-to-45/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

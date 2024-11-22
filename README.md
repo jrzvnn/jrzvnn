@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Nothing to see here](http://9gag.com/gag/a9ynxW0)
- - 😝 [He&#39;s starting to understand](http://9gag.com/gag/ayNeOMV)
- - 💣 [The WALL](http://9gag.com/gag/aD24KrN)
+ - 😝 [Men Only Want One Thing](http://9gag.com/gag/apRGZ75)
+ - 😝 [When genius surpasses all logic](http://9gag.com/gag/aD24yXd)
+ - 💣 [Google it](http://9gag.com/gag/aMVxg1W)
  - 😝 [Let the movie magic unfold on every level! \ud83c\udf1f\ud83c\udfac](http://9gag.com/gag/axy9r82)
- - 👉 [Google it](http://9gag.com/gag/aMVxg1W)<!-- MEMES:END -->
+ - 👉 [Prank](http://9gag.com/gag/a9yn93m)<!-- MEMES:END -->
 
 ---
 

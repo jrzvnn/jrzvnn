@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Tabelcloth trick was not in the script so when he made it Jim Carrey had to improvise afterwards &lpar;How the Grinch Stole Christmas - 2000&rpar;](http://9gag.com/gag/a1mW9gv)
- - 😝 [Nothing to see here](http://9gag.com/gag/a9ynxW0)
- - 💣 [This is how you recognize if the picture is AI generated](http://9gag.com/gag/a0eN2KQ)
+ - 😝 [This is how you recognize if the picture is AI generated](http://9gag.com/gag/a0eN2KQ)
+ - 😝 [British actors always peaked at British cinema then get Hollyworld at Usa](http://9gag.com/gag/aO87Lnv)
+ - 💣 [Tabelcloth trick was not in the script so when he made it Jim Carrey had to improvise afterwards &lpar;How the Grinch Stole Christmas - 2000&rpar;](http://9gag.com/gag/a1mW9gv)
  - 😝 [Look at the animation quality of this trailer! \ud83e\udd29](http://9gag.com/gag/aGydvO5)
- - 👉 [When genius surpasses all logic](http://9gag.com/gag/aD24yXd)<!-- MEMES:END -->
+ - 👉 [Stress testing an M16.](http://9gag.com/gag/aVvw6LM)<!-- MEMES:END -->
 
 ---
 

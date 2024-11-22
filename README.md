@@ -158,10 +158,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- TECH:START -->
  - [Sources: MatX, which designs chips to train LLMs, raised a ~$80M Series A led by Spark Capital, at a ~$300M valuation, after raising a $25M seed in March &lpar;Marina Temkin/TechCrunch&rpar;](http://www.techmeme.com/241122/p17#a241122p17)
- - [&#39;Gladiator 2&#39; Is Out Now. Here&#39;s Where You Can Watch the First &#39;Gladiator&#39; for Free](https://www.cnet.com/tech/services-and-software/gladiator-2-out-now-heres-where-you-can-watch-first-gladiator-for-free/#ftag=CAD590a51e)
- - [You Don&#39;t Have to Pay for More Gmail Storage: How to Get Back 15GB for Free](https://www.cnet.com/tech/services-and-software/you-dont-have-to-pay-for-more-gmail-storage-how-to-get-back-15gb-for-free/#ftag=CAD590a51e)
  - [Microsoft releases the first beta preview of its Recall AI feature for Copilot Plus PCs, including Click to Do, a feature similar to Google&#39;s Circle to Search &lpar;Tom Warren/The Verge&rpar;](http://www.techmeme.com/241122/p16#a241122p16)
- - [Ditch Your TV&#39;s Crummy Software With a Record 40% Off a Roku Express 4K Plus Streaming Puck](https://www.cnet.com/deals/ditch-your-tvs-crummy-software-with-a-record-40-off-a-roku-express-4k-plus-streaming-puck/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Google is prepping Gemini to take action inside of apps](https://www.theverge.com/2024/11/22/24303329/google-gemini-android-16-app-functions)
+ - [Judge rules SiriusXM’s annoying cancellation process is illegal](https://www.theverge.com/2024/11/22/24303294/sirius-xm-cancellation-process-illegal-ny-ag)
+ - [16-inch MacBook Pro M4 Max review: The pinnacle of the portable Mac](https://appleinsider.com/articles/24/11/22/16-inch-macbook-pro-m4-max-review-the-pinnacle-of-the-portable-mac?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

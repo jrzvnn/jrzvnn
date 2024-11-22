@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [The Clearest Image of Venus\u2019s Surface, By a Lander that Melted After 1 Hour](http://9gag.com/gag/aBymp91)
- - 😝 [The WALL](http://9gag.com/gag/aD24KrN)
+ - 😝 [Last day of his work](http://9gag.com/gag/azxmnLB)
+ - 😝 [When genius surpasses all logic](http://9gag.com/gag/aD24yXd)
  - 💣 [New secret](http://9gag.com/gag/aGyd33G)
- - 😝 [Ain&#39;t nobody getting past](http://9gag.com/gag/aYQojNN)
- - 👉 [When genius surpasses all logic](http://9gag.com/gag/aD24yXd)<!-- MEMES:END -->
+ - 😝 [This is a whole conversation between two drivers](http://9gag.com/gag/aE0P9Kp)
+ - 👉 [The world&#39;s shortest and tallest women have tea](http://9gag.com/gag/aBympVA)<!-- MEMES:END -->
 
 ---
 

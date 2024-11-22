@@ -160,8 +160,8 @@ R                        1 repo              ░░░░░░░░░░░�
  - [Google DeepMind CEO Demis Hassabis and other executives on the challenges of rapidly infusing Google products with AI while continuing to pursue AGI &lpar;Harry McCracken/Fast Company&rpar;](http://www.techmeme.com/241122/p19#a241122p19)
  - [10 Best Mattresses for Back Pain, Tested and Reviewed &lpar;2024&rpar;](https://www.wired.com/gallery/best-mattresses-for-back-pain/)
  - [You can easily disassemble this repairable smartwatch using just a Phillips screwdriver](https://www.theverge.com/2024/11/22/24303386/pocuter-spectra-smartwatch-repairable-hackable-wearable)
- - [Sling TV’s streaming TV price goes up by $5.99 next month](https://www.theverge.com/2024/11/22/24303400/sling-tv-streaming-price-increase-blue-orange)
- - [The US Is Calling Out Foreign Influence Campaigns Faster Than Ever](https://www.wired.com/story/us-called-out-foreign-influence-campaigns-faster-than-ever/)<!-- TECH:END -->
+ - [Best Teeth Whitening Kits in 2024](https://www.cnet.com/health/personal-care/best-teeth-whitening-kits/#ftag=CAD590a51e)
+ - [The Nintendo Switch Is a Great Gift for a Gamer on the Go](https://www.cnet.com/deals/the-nintendo-switch-is-a-great-gift-for-a-gamer-on-the-go/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

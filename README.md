@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Three Nvidia customers spent a collective $12.6B in Q3, when it had a total revenue of $35.1B; each of them spent $10B+ in the nine months to October &lpar;Christiaan Hetzner/Fortune&rpar;](http://www.techmeme.com/241122/p7#a241122p7)
- - [Carv 2 Digital Ski Coach Review: Cheaper, Easier, Better](https://www.wired.com/review/review-carv-2-digital-ski-coach/)
- - [New emoji, app store banning drama, and a new Mac mini hub, on the AppleInsider Podcast](https://appleinsider.com/articles/24/11/22/new-emoji-app-store-banning-drama-and-a-new-mac-mini-hub-on-the-appleinsider-podcast?utm_medium=rss)
  - [Apple&#39;s browser rules deemed anticompetitive, says UK competition body](https://appleinsider.com/articles/24/11/22/apples-browser-rules-deemed-anticompetitive-says-uk-competition-body?utm_medium=rss)
- - [17 Best Hair Straighteners We Tested &lpar;2024&rpar; | WIRED](https://www.wired.com/gallery/best-hair-straighteners/)<!-- TECH:END -->
+ - [Anthropic raised an additional $4B from Amazon, will make AWS its primary cloud partner, and is working with Annapurna Labs to develop new Trainium accelerators &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/241122/p8#a241122p8)
+ - [The government’s plan to break up Google](https://www.theverge.com/2024/11/22/24303144/google-chrome-sale-antitrust-alexa-bluesky-vergecast)
+ - [The Best Star Wars Gifts for Everyone From Padawans to Jedi Masters](https://www.wired.com/gallery/best-star-wars-gifts/)
+ - [Why Is It So Tricky to Show the Sun, Earth, and Moon in a Diagram?](https://www.wired.com/story/why-is-it-so-tricky-to-show-the-sun-earth-and-moon-in-a-diagram/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The UK plans to draft a regulatory framework to oversee stablecoins and staking services as part of a single overarching regime for cryptoassets in early 2025 &lpar;Emily Nicolle/Bloomberg&rpar;](http://www.techmeme.com/241121/p46#a241121p46)
  - [Apple&#39;s M4 Mac mini plunges to record low $499 during Amazon&#39;s Black Friday Sale](https://appleinsider.com/articles/24/11/22/apples-m4-mac-mini-plunges-to-record-low-499-during-amazons-black-friday-sale?utm_medium=rss)
  - [Klarna&#39;s planned US IPO in H1 2025 could presage an uptick in IPOs by fintechs like Trustly, Chime, Zilch, Plaid, and Revolut after a relatively slow period &lpar;Bloomberg&rpar;](http://www.techmeme.com/241121/p45#a241121p45)
  - [I Keep an Eye on My Bags Using Apple AirTags, Which Are on Sale for Black Friday](https://www.cnet.com/deals/my-bags-dont-leave-the-house-without-an-airtag-inside-and-the-apple-tracker-is-on-sale-ahead-of-black-friday/#ftag=CAD590a51e)
- - [Brave Search introduces AI chat to let users ask follow-up questions to initial queries, bringing together capabilities of chat-first and search-first tools &lpar;Aisha Malik/TechCrunch&rpar;](http://www.techmeme.com/241121/p44#a241121p44)
- - [Snap files to dismiss New Mexico&#39;s lawsuit over Snap&#39;s alleged child safety issues with predators, saying the complaint misrepresents the state&#39;s investigation &lpar;Lauren Feiner/The Verge&rpar;](http://www.techmeme.com/241121/p43#a241121p43)<!-- TECH:END -->
+ - [Brave Search introduces AI chat to let users ask follow-up questions to initial queries, bringing together capabilities of chat-first and search-first tools &lpar;Aisha Malik/TechCrunch&rpar;](http://www.techmeme.com/241121/p44#a241121p44)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

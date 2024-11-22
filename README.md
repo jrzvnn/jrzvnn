@@ -160,8 +160,8 @@ R                        1 repo              ░░░░░░░░░░░�
  - [Texas AG opens a probe into the World Federation of Advertisers to determine if it conspired to boycott &quot;certain social media platforms&quot;; X sued WFA in August &lpar;Maxwell Zeff/TechCrunch&rpar;](http://www.techmeme.com/241122/p1#a241122p1)
  - [The UK plans to draft a regulatory framework to oversee stablecoins and staking services as part of a single overarching regime for cryptoassets in early 2025 &lpar;Emily Nicolle/Bloomberg&rpar;](http://www.techmeme.com/241121/p46#a241121p46)
  - [Apple&#39;s M4 Mac mini plunges to record low $499 during Amazon&#39;s Black Friday Sale](https://appleinsider.com/articles/24/11/22/apples-m4-mac-mini-plunges-to-record-low-499-during-amazons-black-friday-sale?utm_medium=rss)
- - [Klarna&#39;s planned US IPO in H1 2025 could presage an uptick in IPOs by fintechs like Trustly, Chime, Zilch, Plaid, and Revolut after a relatively slow period &lpar;Bloomberg&rpar;](http://www.techmeme.com/241121/p45#a241121p45)
- - [I Keep an Eye on My Bags Using Apple AirTags, Which Are on Sale for Black Friday](https://www.cnet.com/deals/my-bags-dont-leave-the-house-without-an-airtag-inside-and-the-apple-tracker-is-on-sale-ahead-of-black-friday/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Today&#39;s NYT Mini Crossword Answers for Friday, Nov. 22](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-friday-nov-22/#ftag=CAD590a51e)
+ - [Today&#39;s NYT Connections Hints, Answers and Help for Nov. 22, #530](https://www.cnet.com/tech/gaming/todays-nyt-connections-hints-answers-and-help-for-nov-22-530/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

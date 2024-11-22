@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [$10 OFF Walmart Promo Codes - November 2024](https://www.wired.com/story/top-walmart-promo-codes/)
+ - [Exclusive Nectar Coupon Code: 40% Off November 2024](https://www.wired.com/story/nectar-coupon-code/)
+ - [eBay Coupon Code: 10% Off Select Items in November 2024](https://www.wired.com/story/ebay-coupon-code/)
  - [OnePlus Promo Code: 20% Off in November 2024](https://www.wired.com/story/oneplus-promo-code/)
- - [10% Off Sephora Promo Codes &amp; Coupons | November 2024](https://www.wired.com/story/sephora-promo-code/)
- - [Q&amp;A with Sam Liang, CEO of AI transcription app Otter.ai that claims to have ~20M users, on plans to create personalized AI avatars for online meetings and more &lpar;Elaine Moore/Financial Times&rpar;](http://www.techmeme.com/241122/p2#a241122p2)
- - [$50 Off Target Promo Code | November 2024](https://www.wired.com/story/target-promo-code/)
- - [Exclusive $50 OFF VistaPrint Coupon | November 2024](https://www.wired.com/story/vistaprint-coupon-code/)<!-- TECH:END -->
+ - [10% Off Sephora Promo Codes &amp; Coupons | November 2024](https://www.wired.com/story/sephora-promo-code/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

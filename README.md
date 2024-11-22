@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Calm down, most of you are not in danger](http://9gag.com/gag/ayNeGVq)
- - 😝 [British actors always peaked at British cinema then get Hollyworld at Usa](http://9gag.com/gag/aO87Lnv)
- - 💣 [Go sports](http://9gag.com/gag/apRGZ5b)
+ - 😝 [Johnny bravo](http://9gag.com/gag/aBym7WN)
+ - 😝 [This was the day he realized his *friends* were living a different life than he wanted for himself](http://9gag.com/gag/a4P3v9y)
+ - 💣 [When genius surpasses all logic](http://9gag.com/gag/aD24yXd)
  - 😝 [Look at the animation quality of this trailer! \ud83e\udd29](http://9gag.com/gag/aGydvO5)
- - 👉 [This was the day he realized his *friends* were living a different life than he wanted for himself](http://9gag.com/gag/a4P3v9y)<!-- MEMES:END -->
+ - 👉 [Nothing to see here](http://9gag.com/gag/a9ynxW0)<!-- MEMES:END -->
 
 ---
 

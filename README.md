@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Filing: Japanese chipmaker Kioxia plans its Tokyo Stock Exchange debut on December 18 and sets its indicative IPO price at about $9 per share to raise ~$180M &lpar;Yuki Furukawa/Bloomberg&rpar;](http://www.techmeme.com/241122/p3#a241122p3)
  - [$10 OFF Walmart Promo Codes - November 2024](https://www.wired.com/story/top-walmart-promo-codes/)
  - [Exclusive Nectar Coupon Code: 40% Off November 2024](https://www.wired.com/story/nectar-coupon-code/)
  - [eBay Coupon Code: 10% Off Select Items in November 2024](https://www.wired.com/story/ebay-coupon-code/)
- - [Best Internet Providers in Richardson, Texas](https://www.cnet.com/home/internet/best-internet-providers-in-richardson-tx/#ftag=CAD590a51e)
- - [OnePlus Promo Code: 20% Off in November 2024](https://www.wired.com/story/oneplus-promo-code/)<!-- TECH:END -->
+ - [Best Internet Providers in Richardson, Texas](https://www.cnet.com/home/internet/best-internet-providers-in-richardson-tx/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

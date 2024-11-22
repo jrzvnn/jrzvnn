@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Google it](http://9gag.com/gag/aMVxg1W)
- - 😝 [H.......](http://9gag.com/gag/aXPgBn6)
- - 💣 [When genius surpasses all logic](http://9gag.com/gag/aD24yXd)
+ - 😝 [The Clearest Image of Venus\u2019s Surface, By a Lander that Melted After 1 Hour](http://9gag.com/gag/aBymp91)
+ - 😝 [The WALL](http://9gag.com/gag/aD24KrN)
+ - 💣 [New secret](http://9gag.com/gag/aGyd33G)
  - 😝 [Ain&#39;t nobody getting past](http://9gag.com/gag/aYQojNN)
- - 👉 [New secret](http://9gag.com/gag/aGyd33G)<!-- MEMES:END -->
+ - 👉 [When genius surpasses all logic](http://9gag.com/gag/aD24yXd)<!-- MEMES:END -->
 
 ---
 

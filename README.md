@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Plex’s upcoming app redesign is a big swing at going legit](https://www.theverge.com/2024/11/22/24303282/plex-app-redesign-sonos-debacle)
- - [14 Best Tablets &lpar;2024&rpar;, Tested and Reviewed](https://www.wired.com/gallery/the-best-tablets/)
- - [Black Friday deal: net an M3 13-inch MacBook Air for just $844 at Amazon](https://appleinsider.com/articles/24/11/22/black-friday-deal-net-an-m3-13-inch-macbook-air-for-just-844-at-amazon?utm_medium=rss)
- - [Researchers detail a &quot;nearest neighbor attack&quot; by Russia&#39;s APT28, which remotely breached a target&#39;s Wi-Fi by hijacking a laptop in a building across the street &lpar;Andy Greenberg/Wired&rpar;](http://www.techmeme.com/241122/p14#a241122p14)
- - [Here are the best Black Friday deals you can already get](https://www.theverge.com/24293826/best-early-black-friday-deals-2024-amazon-walmart-buy-target-tech-sale)<!-- TECH:END -->
+ - [Judge rules Sirius XM’s annoying cancellation process is illegal](https://www.theverge.com/2024/11/22/24303294/judge-ruling-sirius-xm-cancellation-process-illegal-ny-ag)
+ - [16-inch MacBook Pro M4 Max review: The pinnacle of the portable Mac](https://appleinsider.com/articles/24/11/22/16-inch-macbook-pro-m4-max-review-the-pinnacle-of-the-portable-mac?utm_medium=rss)
+ - [Hyundai recalls more than 145,000 Ioniq and Genesis EVs that can lose power while driving](https://www.theverge.com/2024/11/22/24303326/hyundai-recall-ioniq-5-6-genesis-gv60-gv70-g80-drive-power)
+ - [In 2025, Revolut plans to roll out branded ATMs with facial recognition, start offering mortgages, and ramp up its business offerings with BNPL options and more &lpar;Romain Dillet/TechCrunch&rpar;](http://www.techmeme.com/241122/p15#a241122p15)
+ - [Baidu’s supercheap robotaxis should scare the hell out of the US](https://www.theverge.com/2024/11/22/24303299/baidu-apollo-go-rt6-robotaxi-unit-economics-waymo)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

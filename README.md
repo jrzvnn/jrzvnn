@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Google it](http://9gag.com/gag/aMVxg1W)
- - 😝 [Next marvel Superstar!](http://9gag.com/gag/azxm0Yp)
- - 💣 [Easy as it sounds](http://9gag.com/gag/aryVYdK)
  - 😝 [Woman tries dating app as a man - with obvious results](http://9gag.com/gag/ajP9pKw)
- - 👉 [He&#39;s starting to understand](http://9gag.com/gag/ayNeOMV)<!-- MEMES:END -->
+ - 😝 [H.......](http://9gag.com/gag/aXPgBn6)
+ - 💣 [Micro$oft does it yet again!](http://9gag.com/gag/abAG72L)
+ - 😝 [Kidnapped without knowing](http://9gag.com/gag/a1mW4b6)
+ - 👉 [The WALL](http://9gag.com/gag/aD24KrN)<!-- MEMES:END -->
 
 ---
 

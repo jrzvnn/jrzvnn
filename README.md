@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [SafeRent, an AI screening tool used by landlords, agrees to pay ~$2.3M to settle a discrimination lawsuit and will no longer display certain tenant scores &lpar;Emma Roth/The Verge&rpar;](http://www.techmeme.com/241121/p42#a241121p42)
- - [Snap says New Mexico intentionally friended alleged child predators, then blamed the company](https://www.theverge.com/2024/11/21/24302767/snap-new-mexico-attorney-general-motion-dismiss-child-exploitation)
- - [The best iPhones](https://www.theverge.com/23618862/best-iphone-camera-battery-screen-guide)
- - [Source: Google has canceled the development of a second-generation Pixel Tablet, planned for release in 2025, due to concerns that it wouldn&#39;t sell very well &lpar;Mishaal Rahman/Android Authority&rpar;](http://www.techmeme.com/241121/p41#a241121p41)
- - [The Verge’s guide to Black Friday 2024](https://www.theverge.com/24288220/black-friday-best-deals-guide-cyber-monday-tech-gadgets-2024)<!-- TECH:END -->
+ - [Brave Search introduces AI chat to let users ask follow-up questions to initial queries, bringing together capabilities of chat-first and search-first tools &lpar;Aisha Malik/TechCrunch&rpar;](http://www.techmeme.com/241121/p44#a241121p44)
+ - [Snap files to dismiss New Mexico&#39;s lawsuit over Snap&#39;s alleged child safety issues with predators, saying the complaint misrepresents the state&#39;s investigation &lpar;Lauren Feiner/The Verge&rpar;](http://www.techmeme.com/241121/p43#a241121p43)
+ - [Yes, You Might Still Want To Keep Your Landline Phone: Here&#39;s Why](https://www.cnet.com/tech/mobile/why-you-might-still-need-a-landline-phone-in-2024/#ftag=CAD590a51e)
+ - [Bluesky Explained: Luke Skywalker and 21 Million Others Are Here, Should You Join?](https://www.cnet.com/tech/bluesky-explained-why-this-social-media-network-is-now-growing-by-1-million-users-daily-luke-skywalker/#ftag=CAD590a51e)
+ - [Best Black Friday Apple Deals 2024: We Found Record-Low Discounts on iPhones, MacBooks, AirPods and More](https://www.cnet.com/deals/best-black-friday-apple-deals/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

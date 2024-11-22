@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Klarna&#39;s planned US IPO in H1 2025 could presage an uptick in IPOs by fintechs like Trustly, Chime, Zilch, Plaid, and Revolut after a relatively slow period &lpar;Bloomberg&rpar;](http://www.techmeme.com/241121/p45#a241121p45)
  - [Brave Search introduces AI chat to let users ask follow-up questions to initial queries, bringing together capabilities of chat-first and search-first tools &lpar;Aisha Malik/TechCrunch&rpar;](http://www.techmeme.com/241121/p44#a241121p44)
  - [Snap files to dismiss New Mexico&#39;s lawsuit over Snap&#39;s alleged child safety issues with predators, saying the complaint misrepresents the state&#39;s investigation &lpar;Lauren Feiner/The Verge&rpar;](http://www.techmeme.com/241121/p43#a241121p43)
  - [Yes, You Might Still Want To Keep Your Landline Phone: Here&#39;s Why](https://www.cnet.com/tech/mobile/why-you-might-still-need-a-landline-phone-in-2024/#ftag=CAD590a51e)
- - [Bluesky Explained: Luke Skywalker and 21 Million Others Are Here, Should You Join?](https://www.cnet.com/tech/bluesky-explained-why-this-social-media-network-is-now-growing-by-1-million-users-daily-luke-skywalker/#ftag=CAD590a51e)
- - [Best Black Friday Apple Deals 2024: We Found Record-Low Discounts on iPhones, MacBooks, AirPods and More](https://www.cnet.com/deals/best-black-friday-apple-deals/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Bluesky Explained: Luke Skywalker and 21 Million Others Are Here, Should You Join?](https://www.cnet.com/tech/bluesky-explained-why-this-social-media-network-is-now-growing-by-1-million-users-daily-luke-skywalker/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

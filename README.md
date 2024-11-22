@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Sling TV’s streaming TV price goes up by $5.99 next month](https://www.theverge.com/2024/11/22/24303400/sling-tv-streaming-price-increase-blue-orange)
+ - [The US Is Calling Out Foreign Influence Campaigns Faster Than Ever](https://www.wired.com/story/us-called-out-foreign-influence-campaigns-faster-than-ever/)
  - [iPhone 17 Slim probably won&#39;t have a telephoto camera](https://appleinsider.com/articles/24/11/22/iphone-17-slim-probably-wont-have-a-telephoto-camera?utm_medium=rss)
- - [Reid Hoffman says he has hope for tech innovation under Trump, but calls Musk&#39;s xAI ownership while setting federal AI policies &quot;a serious conflict of interest&quot; &lpar;Reid Hoffman/Financial Times&rpar;](http://www.techmeme.com/241122/p18#a241122p18)
- - [How to use the new iOS 18 iPhone Control Center](https://appleinsider.com/inside/ios-18/tips/how-to-use-the-new-ios-18-iphone-control-center?utm_medium=rss)
- - [63 Best Early Black Friday Deals of 2024 to Shop Right Now](https://www.wired.com/story/early-black-friday-deals-2024-2/)
- - [Save $60 on Omnilux&#39;s Red Light Therapy Mask, Which We Love for Its Glowing Results](https://www.cnet.com/deals/save-60-on-omniluxs-red-light-therapy-mask-which-we-love-for-its-glowing-results/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Reid Hoffman shares his worries for tech under a Trump administration, calls Musk owning xAI while setting federal AI policies a serious conflict of interest &lpar;Reid Hoffman/Financial Times&rpar;](http://www.techmeme.com/241122/p18#a241122p18)
+ - [How to use the new iOS 18 iPhone Control Center](https://appleinsider.com/inside/ios-18/tips/how-to-use-the-new-ios-18-iphone-control-center?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Russian Spies Jumped From One Network to Another Via Wi-Fi in an Unprecedented Hack](https://www.wired.com/story/russia-gru-apt28-wifi-daisy-chain-breach/)
- - [The Website of Old YouTube Clips That Feels Like a Gut Punch](https://www.wired.com/story/the-website-of-old-youtube-clips-that-feels-like-a-gut-punch/)
- - [A UK CMA report finds that Apple&#39;s policies hold back innovation in mobile browsers and recommends investigating Apple and Google&#39;s mobile ecosystems &lpar;Tim Hardwick/MacRumors&rpar;](http://www.techmeme.com/241122/p5#a241122p5)
- - [Indonesia rejects Apple&#39;s $100 million bid to lift the iPhone 16 ban](https://appleinsider.com/articles/24/11/22/indonesia-rejects-apples-100-million-bid-to-lift-the-iphone-16-ban?utm_medium=rss)
- - [The EV Buyers’ Guide to an Uncertain Future](https://www.wired.com/story/the-ev-buyers-guide-to-an-uncertain-future/)<!-- TECH:END -->
+ - [The EU closes a four-year long investigation into Apple&#39;s rules for e-book and audiobook app developers after the complainant withdrew its complaint &lpar;Foo Yun Chee/Reuters&rpar;](http://www.techmeme.com/241122/p6#a241122p6)
+ - [EU drops four-year Apple audiobook probe after complaint is withdrawn](https://appleinsider.com/articles/24/11/22/eu-drops-four-year-apple-audiobook-probe-after-complaint-is-withdrawn?utm_medium=rss)
+ - [9 Best Sleeping Bags &lpar;2024&rpar;: Ultralight, for Car Campers, Warm Weather, for Kids](https://www.wired.com/story/the-best-sleeping-bags-for-every-adventure/)
+ - [The World’s Biggest Maker of EVs Has the Worst Appraisal of Human Rights](https://www.wired.com/story/the-worlds-biggest-maker-of-evs-has-the-worst-appraisal-of-human-rights/)
+ - [Russian Spies Jumped From One Network to Another Via Wi-Fi in an Unprecedented Hack](https://www.wired.com/story/russia-gru-apt28-wifi-daisy-chain-breach/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

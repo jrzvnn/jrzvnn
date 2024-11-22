@@ -167,10 +167,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [If I remember correctly, she just wanted to use him as a ticket to get into the US. That&#39;s her friendship](http://9gag.com/gag/aRB75Ry)
- - 😝 [Elon Musk reaction on Jaguar&#39;s ad](http://9gag.com/gag/ae9DL3q)
- - 💣 [Prank](http://9gag.com/gag/a9yn93m)
- - 😝 [Calm down, most of you are not in danger](http://9gag.com/gag/ayNeGVq)
- - 👉 [This is how you recognize if the picture is AI generated](http://9gag.com/gag/a0eN2KQ)<!-- MEMES:END -->
+ - 😝 [Prank](http://9gag.com/gag/a9yn93m)
+ - 💣 [This was the day he realized his *friends* were living a different life than he wanted for himself](http://9gag.com/gag/a4P3v9y)
+ - 😝 [Let the movie magic unfold on every level! \ud83c\udf1f\ud83c\udfac](http://9gag.com/gag/axy9r82)
+ - 👉 [The right answer isn&#39;t available in this practice math placement exam](http://9gag.com/gag/axy9XxD)<!-- MEMES:END -->
 
 ---
 

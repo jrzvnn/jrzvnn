@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Russian Spies Jumped From One Network to Another Via Wi-Fi in an Unprecedented Hack](https://www.wired.com/story/russia-gru-apt28-wifi-daisy-chain-breach/)
+ - [The Website of Old YouTube Clips That Feels Like a Gut Punch](https://www.wired.com/story/the-website-of-old-youtube-clips-that-feels-like-a-gut-punch/)
+ - [A UK CMA report finds that Apple&#39;s policies hold back innovation in mobile browsers and recommends investigating Apple and Google&#39;s mobile ecosystems &lpar;Tim Hardwick/MacRumors&rpar;](http://www.techmeme.com/241122/p5#a241122p5)
  - [Indonesia rejects Apple&#39;s $100 million bid to lift the iPhone 16 ban](https://appleinsider.com/articles/24/11/22/indonesia-rejects-apples-100-million-bid-to-lift-the-iphone-16-ban?utm_medium=rss)
- - [The EV Buyers’ Guide to an Uncertain Future](https://www.wired.com/story/the-ev-buyers-guide-to-an-uncertain-future/)
- - [Microsoft President Brad Smith calls on Donald Trump to &quot;push harder&quot; against cyberattacks from Russia, China, and Iran amid a wave of state-sponsored hacks &lpar;Tim Bradshaw/Financial Times&rpar;](http://www.techmeme.com/241122/p4#a241122p4)
- - [Best Internet Providers in St. Paul, Minnesota](https://www.cnet.com/home/internet/best-internet-providers-in-st-paul-mn/#ftag=CAD590a51e)
- - [Earn While You Can: High Savings APYs Are Quietly Falling. Today&#39;s Rates, Nov. 22, 2024](https://www.cnet.com/personal-finance/banking/earn-while-you-can-high-savings-apys-are-quietly-falling-todays-rates-nov-22-2024/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [The EV Buyers’ Guide to an Uncertain Future](https://www.wired.com/story/the-ev-buyers-guide-to-an-uncertain-future/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [The right answer isn&#39;t available in this practice math placement exam](http://9gag.com/gag/axy9XxD)
  - 😝 [This was the day he realized his *friends* were living a different life than he wanted for himself](http://9gag.com/gag/a4P3v9y)
- - 💣 [The world&#39;s shortest and tallest women have tea](http://9gag.com/gag/aBympVA)
+ - 😝 [Apes together strong! &lpar;In all seriousness, this is one of the best videos I&#39;ve seen in a long time haha, I love this&rpar;](http://9gag.com/gag/a0eNB4B)
+ - 💣 [Denzel Washington with the most to the point life advice](http://9gag.com/gag/ae9DvVQ)
  - 😝 [Look at the animation quality of this trailer! \ud83e\udd29](http://9gag.com/gag/aGydvO5)
- - 👉 [Prank](http://9gag.com/gag/a9yn93m)<!-- MEMES:END -->
+ - 👉 [Dogzoned](http://9gag.com/gag/aXPg5yz)<!-- MEMES:END -->
 
 ---
 

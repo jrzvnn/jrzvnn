@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Fatherly advice](http://9gag.com/gag/amovjKd)
- - 😝 [MAGA strikes once more!](http://9gag.com/gag/aBymq01)
- - 💣 [Adore Inkspots. If you&#39;re gonna cover it, do it right.](http://9gag.com/gag/a9yEj7j)
- - 😝 [That&#39;s how bad things are](http://9gag.com/gag/aBymqv2)
- - 👉 [Prank](http://9gag.com/gag/a9yn93m)<!-- MEMES:END -->
+ - 😝 [Google it](http://9gag.com/gag/aMVxg1W)
+ - 😝 [H.......](http://9gag.com/gag/aXPgBn6)
+ - 💣 [When genius surpasses all logic](http://9gag.com/gag/aD24yXd)
+ - 😝 [Ain&#39;t nobody getting past](http://9gag.com/gag/aYQojNN)
+ - 👉 [New secret](http://9gag.com/gag/aGyd33G)<!-- MEMES:END -->
 
 ---
 

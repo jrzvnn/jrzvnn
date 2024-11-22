@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Palo Alto Networks says it has observed exploitation of two zero-days in its PAN-OS firewall OS; researchers say hackers have compromised 2,000+ firewalls &lpar;Carly Page/TechCrunch&rpar;](http://www.techmeme.com/241122/p22#a241122p22)
+ - [Learn New Languages for Years With a Lifetime Babbel Subscription at a Record-Low $130](https://www.cnet.com/deals/learn-new-languages-for-years-with-a-lifetime-babbel-subscription-at-a-record-low-130/#ftag=CAD590a51e)
  - [DirecTV and Dish’s on-and-off merger saga switches back to off](https://www.theverge.com/2024/11/22/24303559/directv-dish-merger-deal-abandoned)
- - [Save $300 on Apple&#39;s 1TB M4 Pro 14-inch MacBook Pro this weekend](https://appleinsider.com/articles/24/11/22/save-300-on-apples-1tb-m4-pro-14-inch-macbook-pro-this-weekend?utm_medium=rss)
- - [Early Black Friday Deals on Amazon Devices, Even Kindles &lpar;2024&rpar;](https://www.wired.com/story/black-friday-amazon-devices-deals-2024/)
- - [Elon Musk, as Trump&#39;s efficiency czar, is singling out ordinary federal staffers, including some with climate-related jobs, on X and unleashing his fans on them &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/241122/p21#a241122p21)
- - [15 Best Black Friday AirPod Deals: Up to $150 Off Ultra-Popular Apple Headphones](https://www.cnet.com/deals/best-black-friday-airpods-deals-2024/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Black Friday Deals: Gift-Worthy Apple AirPods Pro 2 Knocked Down an Incredible $79](https://www.cnet.com/deals/black-friday-deals-gift-worthy-apple-airpods-pro-2-knocked-down-an-incredible-79/#ftag=CAD590a51e)
+ - [Unboxing the PlayStation 5 Pro 30th Anniversary Collection video](https://www.cnet.com/videos/unboxing-the-playstation-5-pro-30th-anniversary-collection/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

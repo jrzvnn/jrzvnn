@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [This was the day he realized his *friends* were living a different life than he wanted for himself](http://9gag.com/gag/a4P3v9y)
- - 😝 [Google it](http://9gag.com/gag/aMVxg1W)
- - 💣 [Prank](http://9gag.com/gag/a9yn93m)
+ - 😝 [Nothing to see here](http://9gag.com/gag/a9ynxW0)
+ - 😝 [He&#39;s starting to understand](http://9gag.com/gag/ayNeOMV)
+ - 💣 [The WALL](http://9gag.com/gag/aD24KrN)
  - 😝 [Let the movie magic unfold on every level! \ud83c\udf1f\ud83c\udfac](http://9gag.com/gag/axy9r82)
- - 👉 [Calm down, most of you are not in danger](http://9gag.com/gag/ayNeGVq)<!-- MEMES:END -->
+ - 👉 [Google it](http://9gag.com/gag/aMVxg1W)<!-- MEMES:END -->
 
 ---
 

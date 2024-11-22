@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [If I remember correctly, she just wanted to use him as a ticket to get into the US. That&#39;s her friendship](http://9gag.com/gag/aRB75Ry)
- - 😝 [When genius surpasses all logic](http://9gag.com/gag/aD24yXd)
- - 💣 [Calm down, most of you are not in danger](http://9gag.com/gag/ayNeGVq)
+ - 😝 [This was the day he realized his *friends* were living a different life than he wanted for himself](http://9gag.com/gag/a4P3v9y)
+ - 😝 [Google it](http://9gag.com/gag/aMVxg1W)
+ - 💣 [Prank](http://9gag.com/gag/a9yn93m)
  - 😝 [Let the movie magic unfold on every level! \ud83c\udf1f\ud83c\udfac](http://9gag.com/gag/axy9r82)
- - 👉 [Prank](http://9gag.com/gag/a9yn93m)<!-- MEMES:END -->
+ - 👉 [Calm down, most of you are not in danger](http://9gag.com/gag/ayNeGVq)<!-- MEMES:END -->
 
 ---
 

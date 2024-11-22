@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Q&amp;A with Sam Liang, CEO of AI transcription app Otter.ai that claims to have ~20M users, on plans to create personalized AI avatars for online meetings and more &lpar;Elaine Moore/Financial Times&rpar;](http://www.techmeme.com/241122/p2#a241122p2)
+ - [$50 Off Target Promo Code | November 2024](https://www.wired.com/story/target-promo-code/)
+ - [Exclusive $50 OFF VistaPrint Coupon | November 2024](https://www.wired.com/story/vistaprint-coupon-code/)
  - [Texas AG opens a probe into the World Federation of Advertisers to determine if it conspired to boycott &quot;certain social media platforms&quot;; X sued WFA in August &lpar;Maxwell Zeff/TechCrunch&rpar;](http://www.techmeme.com/241122/p1#a241122p1)
- - [The UK plans to draft a regulatory framework to oversee stablecoins and staking services as part of a single overarching regime for cryptoassets in early 2025 &lpar;Emily Nicolle/Bloomberg&rpar;](http://www.techmeme.com/241121/p46#a241121p46)
- - [Apple&#39;s M4 Mac mini plunges to record low $499 during Amazon&#39;s Black Friday Sale](https://appleinsider.com/articles/24/11/22/apples-m4-mac-mini-plunges-to-record-low-499-during-amazons-black-friday-sale?utm_medium=rss)
- - [Today&#39;s NYT Mini Crossword Answers for Friday, Nov. 22](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-friday-nov-22/#ftag=CAD590a51e)
- - [Today&#39;s NYT Connections Hints, Answers and Help for Nov. 22, #530](https://www.cnet.com/tech/gaming/todays-nyt-connections-hints-answers-and-help-for-nov-22-530/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [The UK plans to draft a regulatory framework to oversee stablecoins and staking services as part of a single overarching regime for cryptoassets in early 2025 &lpar;Emily Nicolle/Bloomberg&rpar;](http://www.techmeme.com/241121/p46#a241121p46)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

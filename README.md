@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [iPhone 17 Slim probably won&#39;t have a telephoto camera](https://appleinsider.com/articles/24/11/22/iphone-17-slim-probably-wont-have-a-telephoto-camera?utm_medium=rss)
+ - [Reid Hoffman says he has hope for tech innovation under Trump, but calls Musk&#39;s xAI ownership while setting federal AI policies &quot;a serious conflict of interest&quot; &lpar;Reid Hoffman/Financial Times&rpar;](http://www.techmeme.com/241122/p18#a241122p18)
  - [How to use the new iOS 18 iPhone Control Center](https://appleinsider.com/inside/ios-18/tips/how-to-use-the-new-ios-18-iphone-control-center?utm_medium=rss)
  - [63 Best Early Black Friday Deals of 2024 to Shop Right Now](https://www.wired.com/story/early-black-friday-deals-2024-2/)
- - [Strava’s API debacle highlights the messiness of fitness data](https://www.theverge.com/2024/11/22/24303124/strava-fitness-data-wearables)
- - [Sources: MatX, which designs chips to train LLMs, raised a ~$80M Series A led by Spark Capital, at a ~$300M valuation, after raising a $25M seed in March &lpar;Marina Temkin/TechCrunch&rpar;](http://www.techmeme.com/241122/p17#a241122p17)
- - [&#39;Gladiator 2&#39; Is Out Now. Here&#39;s Where You Can Watch the First &#39;Gladiator&#39; for Free](https://www.cnet.com/tech/services-and-software/gladiator-2-out-now-heres-where-you-can-watch-first-gladiator-for-free/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Save $60 on Omnilux&#39;s Red Light Therapy Mask, Which We Love for Its Glowing Results](https://www.cnet.com/deals/save-60-on-omniluxs-red-light-therapy-mask-which-we-love-for-its-glowing-results/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

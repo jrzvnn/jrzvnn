@@ -167,10 +167,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [The right answer isn&#39;t available in this practice math placement exam](http://9gag.com/gag/axy9XxD)
- - 😝 [When genius surpasses all logic](http://9gag.com/gag/aD24yXd)
- - 💣 [Prank](http://9gag.com/gag/a9yn93m)
+ - 😝 [Black cat definitely knew orange was up to something?](http://9gag.com/gag/aQzdLYd)
+ - 💣 [When genius surpasses all logic](http://9gag.com/gag/aD24yXd)
  - 😝 [Look at the animation quality of this trailer! \ud83e\udd29](http://9gag.com/gag/aGydvO5)
- - 👉 [A noble sacrifice](http://9gag.com/gag/azxmWrz)<!-- MEMES:END -->
+ - 👉 [Nothing to see here](http://9gag.com/gag/a9ynxW0)<!-- MEMES:END -->
 
 ---
 

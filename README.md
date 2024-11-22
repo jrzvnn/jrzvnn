@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Plex’s upcoming app redesign is a big swing at going legit](https://www.theverge.com/2024/11/22/24303282/plex-app-redesign-sonos-debacle)
+ - [14 Best Tablets &lpar;2024&rpar;, Tested and Reviewed](https://www.wired.com/gallery/the-best-tablets/)
  - [Black Friday deal: net an M3 13-inch MacBook Air for just $844 at Amazon](https://appleinsider.com/articles/24/11/22/black-friday-deal-net-an-m3-13-inch-macbook-air-for-just-844-at-amazon?utm_medium=rss)
  - [Researchers detail a &quot;nearest neighbor attack&quot; by Russia&#39;s APT28, which remotely breached a target&#39;s Wi-Fi by hijacking a laptop in a building across the street &lpar;Andy Greenberg/Wired&rpar;](http://www.techmeme.com/241122/p14#a241122p14)
- - [Here are the best Black Friday deals you can already get](https://www.theverge.com/24293826/best-early-black-friday-deals-2024-amazon-walmart-buy-target-tech-sale)
- - [The Best Gifts for Book Lovers &lpar;2024&rpar;](https://www.wired.com/story/gifts-for-book-lovers/)
- - [Roundup: Govee&#39;s selection of smart lights makes the holidays brighter](https://appleinsider.com/articles/24/11/22/roundup-govees-selection-of-smart-lights-makes-the-holidays-brighter?utm_medium=rss)<!-- TECH:END -->
+ - [Here are the best Black Friday deals you can already get](https://www.theverge.com/24293826/best-early-black-friday-deals-2024-amazon-walmart-buy-target-tech-sale)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

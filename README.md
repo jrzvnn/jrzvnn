@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Woman tries dating app as a man - with obvious results](http://9gag.com/gag/ajP9pKw)
- - 😝 [Elon Musk reaction on Jaguar&#39;s ad](http://9gag.com/gag/ae9DL3q)
- - 💣 [Look at the animation quality of this trailer! \ud83e\udd29](http://9gag.com/gag/aGydvO5)
- - 😝 [The WALL](http://9gag.com/gag/aD24KrN)
- - 👉 [This was the day he realized his *friends* were living a different life than he wanted for himself](http://9gag.com/gag/a4P3v9y)<!-- MEMES:END -->
+ - 😝 [This is how you recognize if the picture is AI generated](http://9gag.com/gag/a0eN2KQ)
+ - 😝 [Core IT experience](http://9gag.com/gag/azxmpXp)
+ - 💣 [Go sports](http://9gag.com/gag/apRGZ5b)
+ - 😝 [Look at the animation quality of this trailer! \ud83e\udd29](http://9gag.com/gag/aGydvO5)
+ - 👉 [Preselection Rule](http://9gag.com/gag/aGydWmw)<!-- MEMES:END -->
 
 ---
 

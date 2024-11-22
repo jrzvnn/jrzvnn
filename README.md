@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Threads is overhauling its search and trending features](https://www.theverge.com/2024/11/22/24303207/threads-meta-search-trending-topics-bluesky)
+ - [Best Natural Sleep Aids &lpar;2024&rpar;, Tested and Reviewed](https://www.wired.com/gallery/the-best-natural-sleep-aids/)
+ - [SteelSeries Arctis GameBuds review: earbuds for your PlayStation or Xbox](https://www.theverge.com/24300648/steelseries-arctis-gamebuds-review-xbox-playstation)
  - [Audi’s latest RS E-tron GT ‘Performance’ is its quickest car yet](https://www.theverge.com/2024/11/22/24303148/audi-2025-s-rs-e-tron-gt-performance-launch)
- - [Indian quick grocery delivery startup Zepto raises $350M at the same $5B valuation as its $340M raise in August; it has raised $1.35B since June 2024 &lpar;Manish Singh/TechCrunch&rpar;](http://www.techmeme.com/241122/p10#a241122p10)
- - [Amazon will remain a minority investor in Anthropic even as new funding brings its total investment to $8B; Amazon doesn&#39;t have a seat on Anthropic&#39;s board &lpar;Hayden Field/CNBC&rpar;](http://www.techmeme.com/241122/p9#a241122p9)
- - [Amazon to invest another $4 billion in OpenAI rival Anthropic](https://www.theverge.com/2024/11/22/24303185/amazon-anthropic-investment-ai-alexa)
- - [Lowest price ever: iPad 10th Generation drops to $249 with Amazon coupon](https://appleinsider.com/articles/24/11/22/lowest-price-ever-ipad-10th-generation-drops-to-249-with-amazon-coupon?utm_medium=rss)<!-- TECH:END -->
+ - [Indian quick grocery delivery startup Zepto raises $350M at the same $5B valuation as its $340M raise in August; it has raised $1.35B since June 2024 &lpar;Manish Singh/TechCrunch&rpar;](http://www.techmeme.com/241122/p10#a241122p10)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

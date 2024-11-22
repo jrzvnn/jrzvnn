@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [A proposed climate tax on crypto mining is gaining momentum](https://www.theverge.com/2024/11/22/24302303/crypto-mining-climate-change-levy-tax-bitcoin)
  - [Best Black Friday Amazon deals: $100 off M4 Mac mini, $250 off MacBook, $169 Apple Watch](https://appleinsider.com/articles/24/11/21/best-black-friday-amazon-deals-100-off-m4-mac-mini-250-off-macbook-189-apple-watch?utm_medium=rss)
  - [Apple&#39;s browser rules deemed anticompetitive, says UK competition body](https://appleinsider.com/articles/24/11/22/apples-browser-rules-deemed-anticompetitive-says-uk-competition-body?utm_medium=rss)
  - [Anthropic raised an additional $4B from Amazon, will make AWS its primary cloud partner, and is working with Annapurna Labs to develop new Trainium accelerators &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/241122/p8#a241122p8)
- - [The government’s plan to break up Google](https://www.theverge.com/2024/11/22/24303144/google-chrome-sale-antitrust-alexa-bluesky-vergecast)
- - [The Best Star Wars Gifts for Everyone From Padawans to Jedi Masters](https://www.wired.com/gallery/best-star-wars-gifts/)<!-- TECH:END -->
+ - [The government’s plan to break up Google](https://www.theverge.com/2024/11/22/24303144/google-chrome-sale-antitrust-alexa-bluesky-vergecast)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

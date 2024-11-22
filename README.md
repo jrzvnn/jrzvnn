@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [You can easily disassemble this repairable smartwatch using just a Phillips screwdriver](https://www.theverge.com/2024/11/22/24303386/pocuter-spectra-smartwatch-repairable-hackable-wearable)
  - [Sling TV’s streaming TV price goes up by $5.99 next month](https://www.theverge.com/2024/11/22/24303400/sling-tv-streaming-price-increase-blue-orange)
  - [The US Is Calling Out Foreign Influence Campaigns Faster Than Ever](https://www.wired.com/story/us-called-out-foreign-influence-campaigns-faster-than-ever/)
  - [iPhone 17 Slim probably won&#39;t have a telephoto camera](https://appleinsider.com/articles/24/11/22/iphone-17-slim-probably-wont-have-a-telephoto-camera?utm_medium=rss)
- - [Reid Hoffman shares his worries for tech under a Trump administration, calls Musk owning xAI while setting federal AI policies a serious conflict of interest &lpar;Reid Hoffman/Financial Times&rpar;](http://www.techmeme.com/241122/p18#a241122p18)
- - [How to use the new iOS 18 iPhone Control Center](https://appleinsider.com/inside/ios-18/tips/how-to-use-the-new-ios-18-iphone-control-center?utm_medium=rss)<!-- TECH:END -->
+ - [Reid Hoffman shares his worries for tech under a Trump administration, calls Musk owning xAI while setting federal AI policies a serious conflict of interest &lpar;Reid Hoffman/Financial Times&rpar;](http://www.techmeme.com/241122/p18#a241122p18)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

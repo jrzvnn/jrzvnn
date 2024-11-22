@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The Supreme Court will decide the fate of America’s low-income broadband fund](https://www.theverge.com/2024/11/22/24303585/supreme-court-fcc-v-consumers-research-universal-service-fund-broadband)
  - [Polymarket blocks users in France from placing trades, as the country&#39;s gaming regulator investigates the platform&#39;s compliance with local gambling laws &lpar;Zack Abrams/The Block&rpar;](http://www.techmeme.com/241122/p23#a241122p23)
  - [Palo Alto Networks says it has observed exploitation of two zero-days in its PAN-OS firewall OS; researchers say hackers have compromised 2,000+ firewalls &lpar;Carly Page/TechCrunch&rpar;](http://www.techmeme.com/241122/p22#a241122p22)
  - [Learn New Languages for Years With a Lifetime Babbel Subscription at a Record-Low $130](https://www.cnet.com/deals/learn-new-languages-for-years-with-a-lifetime-babbel-subscription-at-a-record-low-130/#ftag=CAD590a51e)
- - [DirecTV and Dish’s on-and-off merger saga switches back to off](https://www.theverge.com/2024/11/22/24303559/directv-dish-merger-deal-abandoned)
- - [Black Friday Deals: Gift-Worthy Apple AirPods Pro 2 Knocked Down an Incredible $79](https://www.cnet.com/deals/black-friday-deals-gift-worthy-apple-airpods-pro-2-knocked-down-an-incredible-79/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [DirecTV and Dish’s on-and-off merger saga switches back to off](https://www.theverge.com/2024/11/22/24303559/directv-dish-merger-deal-abandoned)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

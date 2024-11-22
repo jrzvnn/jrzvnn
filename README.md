@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [The world&#39;s shortest and tallest women have tea](http://9gag.com/gag/aBympVA)
- - 😝 [The WALL](http://9gag.com/gag/aD24KrN)
- - 💣 [Next marvel Superstar!](http://9gag.com/gag/azxm0Yp)
- - 😝 [Let the movie magic unfold on every level! \ud83c\udf1f\ud83c\udfac](http://9gag.com/gag/axy9r82)
- - 👉 [Nothing to see here](http://9gag.com/gag/a9ynxW0)<!-- MEMES:END -->
+ - 😝 [Google it](http://9gag.com/gag/aMVxg1W)
+ - 😝 [Next marvel Superstar!](http://9gag.com/gag/azxm0Yp)
+ - 💣 [Easy as it sounds](http://9gag.com/gag/aryVYdK)
+ - 😝 [Woman tries dating app as a man - with obvious results](http://9gag.com/gag/ajP9pKw)
+ - 👉 [He&#39;s starting to understand](http://9gag.com/gag/ayNeOMV)<!-- MEMES:END -->
 
 ---
 

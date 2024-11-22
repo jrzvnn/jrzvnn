@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Elon Musk, as Trump&#39;s efficiency czar, is singling out ordinary federal staffers, including some with climate-related jobs, on X and unleashing his fans on them &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/241122/p21#a241122p21)
  - [Sources and screenshots: Kalshi paid influencers to imply that Polymarket and its CEO Shayne Coplan engaged in illegal activity, after FBI&#39;s raid on Coplan &lpar;Pirate Wires&rpar;](http://www.techmeme.com/241122/p20#a241122p20)
  - [Google DeepMind CEO Demis Hassabis and other executives on the challenges of rapidly infusing Google products with AI while continuing to pursue AGI &lpar;Harry McCracken/Fast Company&rpar;](http://www.techmeme.com/241122/p19#a241122p19)
  - [10 Best Mattresses for Back Pain, Tested and Reviewed &lpar;2024&rpar;](https://www.wired.com/gallery/best-mattresses-for-back-pain/)
- - [You can easily disassemble this repairable smartwatch using just a Phillips screwdriver](https://www.theverge.com/2024/11/22/24303386/pocuter-spectra-smartwatch-repairable-hackable-wearable)
- - [Best Teeth Whitening Kits in 2024](https://www.cnet.com/health/personal-care/best-teeth-whitening-kits/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [You can easily disassemble this repairable smartwatch using just a Phillips screwdriver](https://www.theverge.com/2024/11/22/24303386/pocuter-spectra-smartwatch-repairable-hackable-wearable)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

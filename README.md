@@ -166,10 +166,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [The right answer isn&#39;t available in this practice math placement exam](http://9gag.com/gag/axy9XxD)
- - 😝 [British actors always peaked at British cinema then get Hollyworld at Usa](http://9gag.com/gag/aO87Lnv)
+ - 😝 [Woman tries dating app as a man - with obvious results](http://9gag.com/gag/ajP9pKw)
+ - 😝 [Elon Musk reaction on Jaguar&#39;s ad](http://9gag.com/gag/ae9DL3q)
  - 💣 [Look at the animation quality of this trailer! \ud83e\udd29](http://9gag.com/gag/aGydvO5)
- - 😝 [Nothing to see here](http://9gag.com/gag/a9ynxW0)
+ - 😝 [The WALL](http://9gag.com/gag/aD24KrN)
  - 👉 [This was the day he realized his *friends* were living a different life than he wanted for himself](http://9gag.com/gag/a4P3v9y)<!-- MEMES:END -->
 
 ---

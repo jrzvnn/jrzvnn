@@ -157,10 +157,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The EU closes a four-year long investigation into Apple&#39;s rules for e-book and audiobook app developers after the complainant withdrew its complaint &lpar;Foo Yun Chee/Reuters&rpar;](http://www.techmeme.com/241122/p6#a241122p6)
- - [EU drops four-year Apple audiobook probe after complaint is withdrawn](https://appleinsider.com/articles/24/11/22/eu-drops-four-year-apple-audiobook-probe-after-complaint-is-withdrawn?utm_medium=rss)
- - [9 Best Sleeping Bags &lpar;2024&rpar;: Ultralight, for Car Campers, Warm Weather, for Kids](https://www.wired.com/story/the-best-sleeping-bags-for-every-adventure/)
- - [The World’s Biggest Maker of EVs Has the Worst Appraisal of Human Rights](https://www.wired.com/story/the-worlds-biggest-maker-of-evs-has-the-worst-appraisal-of-human-rights/)
+ - [Carv 2 Digital Ski Coach Review: Cheaper, Easier, Better](https://www.wired.com/review/review-carv-2-digital-ski-coach/)
+ - [New emoji, app store banning drama, and a new Mac mini hub, on the AppleInsider Podcast](https://appleinsider.com/articles/24/11/22/new-emoji-app-store-banning-drama-and-a-new-mac-mini-hub-on-the-appleinsider-podcast?utm_medium=rss)
+ - [Apple&#39;s browser rules deemed anticompetitive, says UK competition body](https://appleinsider.com/articles/24/11/22/apples-browser-rules-deemed-anticompetitive-says-uk-competition-body?utm_medium=rss)
+ - [17 Best Hair Straighteners We Tested &lpar;2024&rpar; | WIRED](https://www.wired.com/gallery/best-hair-straighteners/)
  - [Russian Spies Jumped From One Network to Another Via Wi-Fi in an Unprecedented Hack](https://www.wired.com/story/russia-gru-apt28-wifi-daisy-chain-breach/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour

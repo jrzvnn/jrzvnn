@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The EV Buyers’ Guide to an Uncertain Future](https://www.wired.com/story/the-ev-buyers-guide-to-an-uncertain-future/)
  - [Microsoft President Brad Smith calls on Donald Trump to &quot;push harder&quot; against cyberattacks from Russia, China, and Iran amid a wave of state-sponsored hacks &lpar;Tim Bradshaw/Financial Times&rpar;](http://www.techmeme.com/241122/p4#a241122p4)
- - [Best Black Friday Deals 2024: We Found Over 50 of the Hottest Deals to Shop Right Now](https://www.cnet.com/deals/best-black-friday-deals-of-2024/#ftag=CAD590a51e)
- - [24 Best Black Friday Mattress Deals to Shop This Season](https://www.cnet.com/deals/best-black-friday-mattress-deals-2024/#ftag=CAD590a51e)
- - [Filing: Japanese chipmaker Kioxia plans its Tokyo Stock Exchange debut on December 18 and sets its indicative IPO price at about $9 per share to raise ~$180M &lpar;Yuki Furukawa/Bloomberg&rpar;](http://www.techmeme.com/241122/p3#a241122p3)
- - [Clean Up This Black Friday With Eureka Vacuums Deals Saving You Up to 45%](https://www.cnet.com/deals/clean-up-this-black-friday-with-eureka-vacuums-deals-saving-you-up-to-45/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Best Internet Providers in St. Paul, Minnesota](https://www.cnet.com/home/internet/best-internet-providers-in-st-paul-mn/#ftag=CAD590a51e)
+ - [Earn While You Can: High Savings APYs Are Quietly Falling. Today&#39;s Rates, Nov. 22, 2024](https://www.cnet.com/personal-finance/banking/earn-while-you-can-high-savings-apys-are-quietly-falling-todays-rates-nov-22-2024/#ftag=CAD590a51e)
+ - [Take Advantage of High APYs While You Still Can. Today&#39;s CD Rates, Nov. 22, 2024](https://www.cnet.com/personal-finance/banking/take-advantage-of-high-apys-while-you-still-can-todays-cd-rates-nov-22-2024/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

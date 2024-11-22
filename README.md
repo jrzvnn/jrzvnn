@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [A proposed climate tax on crypto mining is gaining momentum](https://www.theverge.com/2024/11/22/24302303/crypto-mining-climate-change-levy-tax-bitcoin)
- - [Best Black Friday Amazon deals: $100 off M4 Mac mini, $250 off MacBook, $169 Apple Watch](https://appleinsider.com/articles/24/11/21/best-black-friday-amazon-deals-100-off-m4-mac-mini-250-off-macbook-189-apple-watch?utm_medium=rss)
- - [Apple&#39;s browser rules deemed anticompetitive, says UK competition body](https://appleinsider.com/articles/24/11/22/apples-browser-rules-deemed-anticompetitive-says-uk-competition-body?utm_medium=rss)
- - [Anthropic raised an additional $4B from Amazon, will make AWS its primary cloud partner, and is working with Annapurna Labs to develop new Trainium accelerators &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/241122/p8#a241122p8)
- - [The government’s plan to break up Google](https://www.theverge.com/2024/11/22/24303144/google-chrome-sale-antitrust-alexa-bluesky-vergecast)<!-- TECH:END -->
+ - [Amazon will remain a minority investor in Anthropic even as new funding brings its total investment to $8B; Amazon doesn&#39;t have a seat on Anthropic&#39;s board &lpar;Hayden Field/CNBC&rpar;](http://www.techmeme.com/241122/p9#a241122p9)
+ - [Amazon to invest another $4 billion in OpenAI rival Anthropic](https://www.theverge.com/2024/11/22/24303185/amazon-anthropic-investment-ai-alexa)
+ - [Lowest price ever: iPad 10th Generation drops to $249 with Amazon coupon](https://appleinsider.com/articles/24/11/22/lowest-price-ever-ipad-10th-generation-drops-to-249-with-amazon-coupon?utm_medium=rss)
+ - [Bluesky Says It Won’t Screw Things Up](https://www.wired.com/story/plaintext-bluesky-says-it-wont-screw-things-up/)
+ - [The newest Kindle and Kindle Paperwhite are on sale for the first time](https://www.theverge.com/2024/11/22/24302590/amazon-kindle-paperwhite-2024-black-friday-deal-sale)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

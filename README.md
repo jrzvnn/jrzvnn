@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Four teenage boys were arrested and sentenced to three years in prison each for harassing and attempting to undress a girl in public. Here is their families&#39; reaction to the sentence.](http://9gag.com/gag/aQzdYyr)
- - 😝 [H.......](http://9gag.com/gag/aXPgBn6)
- - 💣 [Clint Eastwood is 94 years old. He still drives his 1988 model car when he has enough money to purchase an automobile factory. This photo shows him pumping his own gas . He has not let worldwide fame and wealth go to his head. IMO one of the true marks of a fine human being !](http://9gag.com/gag/ae9DoPW)
- - 😝 [I love to cook but I am tired to cook the same 5-10 meals. Do you have recipes from your home country that are maybe not well known, are not that complicated/long to make and that don&#39;t require too obscure ingredients, and of course that you love? I&#39;ll try them all.](http://9gag.com/gag/aLnwZWA)
- - 👉 [Last day of his work](http://9gag.com/gag/azxmnLB)<!-- MEMES:END -->
+ - 😝 [Fatherly advice](http://9gag.com/gag/amovjKd)
+ - 😝 [MAGA strikes once more!](http://9gag.com/gag/aBymq01)
+ - 💣 [Adore Inkspots. If you&#39;re gonna cover it, do it right.](http://9gag.com/gag/a9yEj7j)
+ - 😝 [That&#39;s how bad things are](http://9gag.com/gag/aBymqv2)
+ - 👉 [Prank](http://9gag.com/gag/a9yn93m)<!-- MEMES:END -->
 
 ---
 

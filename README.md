@@ -167,10 +167,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [The right answer isn&#39;t available in this practice math placement exam](http://9gag.com/gag/axy9XxD)
- - 😝 [Black cat definitely knew orange was up to something?](http://9gag.com/gag/aQzdLYd)
- - 💣 [When genius surpasses all logic](http://9gag.com/gag/aD24yXd)
+ - 😝 [This was the day he realized his *friends* were living a different life than he wanted for himself](http://9gag.com/gag/a4P3v9y)
+ - 💣 [The world&#39;s shortest and tallest women have tea](http://9gag.com/gag/aBympVA)
  - 😝 [Look at the animation quality of this trailer! \ud83e\udd29](http://9gag.com/gag/aGydvO5)
- - 👉 [Nothing to see here](http://9gag.com/gag/a9ynxW0)<!-- MEMES:END -->
+ - 👉 [Prank](http://9gag.com/gag/a9yn93m)<!-- MEMES:END -->
 
 ---
 

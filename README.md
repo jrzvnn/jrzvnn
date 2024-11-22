@@ -166,10 +166,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Kidnapped without knowing](http://9gag.com/gag/a1mW4b6)
- - 😝 [Last day of his work](http://9gag.com/gag/azxmnLB)
- - 💣 [Woman tries dating app as a man - with obvious results](http://9gag.com/gag/ajP9pKw)
  - 😝 [New secret](http://9gag.com/gag/aGyd33G)
+ - 😝 [Google it](http://9gag.com/gag/aMVxg1W)
+ - 💣 [Last day of his work](http://9gag.com/gag/azxmnLB)
+ - 😝 [Kidnapped without knowing](http://9gag.com/gag/a1mW4b6)
  - 👉 [Ain&#39;t nobody getting past](http://9gag.com/gag/aYQojNN)<!-- MEMES:END -->
 
 ---

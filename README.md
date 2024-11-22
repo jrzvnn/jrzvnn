@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [New secret](http://9gag.com/gag/aGyd33G)
- - 😝 [Last day of his work](http://9gag.com/gag/azxmnLB)
- - 💣 [Google it](http://9gag.com/gag/aMVxg1W)
  - 😝 [Kidnapped without knowing](http://9gag.com/gag/a1mW4b6)
- - 👉 [The WALL](http://9gag.com/gag/aD24KrN)<!-- MEMES:END -->
+ - 😝 [Science...](http://9gag.com/gag/aAye8qL)
+ - 💣 [I love to cook but I am tired to cook the same 5-10 meals. Do you have recipes from your home country that are maybe not well known, are not that complicated/long to make and that don&#39;t require too obscure ingredients, and of course that you love? I&#39;ll try them all.](http://9gag.com/gag/aLnwZWA)
+ - 😝 [New secret](http://9gag.com/gag/aGyd33G)
+ - 👉 [When genius surpasses all logic](http://9gag.com/gag/aD24yXd)<!-- MEMES:END -->
 
 ---
 

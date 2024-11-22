@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [This is how you recognize if the picture is AI generated](http://9gag.com/gag/a0eN2KQ)
- - 😝 [British actors always peaked at British cinema then get Hollyworld at Usa](http://9gag.com/gag/aO87Lnv)
- - 💣 [Tabelcloth trick was not in the script so when he made it Jim Carrey had to improvise afterwards &lpar;How the Grinch Stole Christmas - 2000&rpar;](http://9gag.com/gag/a1mW9gv)
+ - 😝 [This was the day he realized his *friends* were living a different life than he wanted for himself](http://9gag.com/gag/a4P3v9y)
+ - 😝 [Apes together strong! &lpar;In all seriousness, this is one of the best videos I&#39;ve seen in a long time haha, I love this&rpar;](http://9gag.com/gag/a0eNB4B)
+ - 💣 [Denzel Washington with the most to the point life advice](http://9gag.com/gag/ae9DvVQ)
  - 😝 [Look at the animation quality of this trailer! \ud83e\udd29](http://9gag.com/gag/aGydvO5)
- - 👉 [Stress testing an M16.](http://9gag.com/gag/aVvw6LM)<!-- MEMES:END -->
+ - 👉 [Dogzoned](http://9gag.com/gag/aXPg5yz)<!-- MEMES:END -->
 
 ---
 

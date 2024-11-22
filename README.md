@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [10% Off Sephora Promo Codes &amp; Coupons | November 2024](https://www.wired.com/story/sephora-promo-code/)
  - [Q&amp;A with Sam Liang, CEO of AI transcription app Otter.ai that claims to have ~20M users, on plans to create personalized AI avatars for online meetings and more &lpar;Elaine Moore/Financial Times&rpar;](http://www.techmeme.com/241122/p2#a241122p2)
  - [$50 Off Target Promo Code | November 2024](https://www.wired.com/story/target-promo-code/)
  - [Exclusive $50 OFF VistaPrint Coupon | November 2024](https://www.wired.com/story/vistaprint-coupon-code/)
- - [Texas AG opens a probe into the World Federation of Advertisers to determine if it conspired to boycott &quot;certain social media platforms&quot;; X sued WFA in August &lpar;Maxwell Zeff/TechCrunch&rpar;](http://www.techmeme.com/241122/p1#a241122p1)
- - [The UK plans to draft a regulatory framework to oversee stablecoins and staking services as part of a single overarching regime for cryptoassets in early 2025 &lpar;Emily Nicolle/Bloomberg&rpar;](http://www.techmeme.com/241121/p46#a241121p46)<!-- TECH:END -->
+ - [Texas AG opens a probe into the World Federation of Advertisers to determine if it conspired to boycott &quot;certain social media platforms&quot;; X sued WFA in August &lpar;Maxwell Zeff/TechCrunch&rpar;](http://www.techmeme.com/241122/p1#a241122p1)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Black Friday deal: net an M3 13-inch MacBook Air for just $844 at Amazon](https://appleinsider.com/articles/24/11/22/black-friday-deal-net-an-m3-13-inch-macbook-air-for-just-844-at-amazon?utm_medium=rss)
+ - [Researchers detail a &quot;nearest neighbor attack&quot; by Russia&#39;s APT28, which remotely breached a target&#39;s Wi-Fi by hijacking a laptop in a building across the street &lpar;Andy Greenberg/Wired&rpar;](http://www.techmeme.com/241122/p14#a241122p14)
+ - [Here are the best Black Friday deals you can already get](https://www.theverge.com/24293826/best-early-black-friday-deals-2024-amazon-walmart-buy-target-tech-sale)
  - [The Best Gifts for Book Lovers &lpar;2024&rpar;](https://www.wired.com/story/gifts-for-book-lovers/)
- - [Roundup: Govee&#39;s selection of smart lights makes the holidays brighter](https://appleinsider.com/articles/24/11/22/roundup-govees-selection-of-smart-lights-makes-the-holidays-brighter?utm_medium=rss)
- - [Apple ramping up India manufacturing expansion to avoid Trump tariffs on China](https://appleinsider.com/articles/24/11/22/apple-ramping-up-india-manufacturing-expansion-to-avoid-trump-tariffs-on-china?utm_medium=rss)
- - [Google&#39;s Pixel 8A Surprised Me With How Good It Is. And It&#39;s $100 Off For Black Friday](https://www.cnet.com/deals/googles-pixel-8a-surprised-me-with-how-good-it-is-black-friday/#ftag=CAD590a51e)
- - [Sip in Style: Why the Stanley Tumbler Is the Best Gift for Anyone](https://www.cnet.com/deals/sip-in-style-why-the-stanley-tumbler-is-the-best-gift-for-anyone/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Roundup: Govee&#39;s selection of smart lights makes the holidays brighter](https://appleinsider.com/articles/24/11/22/roundup-govees-selection-of-smart-lights-makes-the-holidays-brighter?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Dill](http://9gag.com/gag/aE0PLMG)
- - 😝 [Kidnapped without knowing](http://9gag.com/gag/a1mW4b6)
- - 💣 [The WALL](http://9gag.com/gag/aD24KrN)
- - 😝 [When genius surpasses all logic](http://9gag.com/gag/aD24yXd)
- - 👉 [Google it](http://9gag.com/gag/aMVxg1W)<!-- MEMES:END -->
+ - 😝 [I &lt;3 X](http://9gag.com/gag/a0eNrDZ)
+ - 😝 [Right in the..](http://9gag.com/gag/aE0Pr8e)
+ - 💣 [Fatherly advice](http://9gag.com/gag/amovjKd)
+ - 😝 [Move already!](http://9gag.com/gag/aMVxRMW)
+ - 👉 [Johnny bravo](http://9gag.com/gag/aBym7WN)<!-- MEMES:END -->
 
 ---
 

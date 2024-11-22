@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Cambridge, MA-based Pickle Robot, which makes AI-powered robots that autonomously unload trucks, raised a $50M Series B &lpar;The Robot Report&rpar;](http://www.techmeme.com/241122/p13#a241122p13)
- - [12 Best Computer Speakers &lpar;2024&rpar;: Affordable, Soundbar, Surround Sound, Gaming](https://www.wired.com/gallery/best-computer-speakers/)
- - [Threads is testing AI-generated summaries of what users are discussing, in the app&#39;s Trending Now section in the US, and Search and Trending Now improvements &lpar;Mia Sato/The Verge&rpar;](http://www.techmeme.com/241122/p12#a241122p12)
- - [Teen streamer dumped a meme coin for $30K, then things got weird](https://www.theverge.com/2024/11/22/24303149/teen-streamer-dumped-quant-meme-coin-doxxed)
- - [SCOTUS dismisses Meta&#39;s appeal of a lower court order reviving a shareholder lawsuit for allegedly misleading investors on the 2015 Cambridge Analytica scandal &lpar;Melissa Quinn/CBS News&rpar;](http://www.techmeme.com/241122/p11#a241122p11)<!-- TECH:END -->
+ - [The Best Gifts for Book Lovers &lpar;2024&rpar;](https://www.wired.com/story/gifts-for-book-lovers/)
+ - [Roundup: Govee&#39;s selection of smart lights makes the holidays brighter](https://appleinsider.com/articles/24/11/22/roundup-govees-selection-of-smart-lights-makes-the-holidays-brighter?utm_medium=rss)
+ - [Apple ramping up India manufacturing expansion to avoid Trump tariffs on China](https://appleinsider.com/articles/24/11/22/apple-ramping-up-india-manufacturing-expansion-to-avoid-trump-tariffs-on-china?utm_medium=rss)
+ - [Google&#39;s Pixel 8A Surprised Me With How Good It Is. And It&#39;s $100 Off For Black Friday](https://www.cnet.com/deals/googles-pixel-8a-surprised-me-with-how-good-it-is-black-friday/#ftag=CAD590a51e)
+ - [Sip in Style: Why the Stanley Tumbler Is the Best Gift for Anyone](https://www.cnet.com/deals/sip-in-style-why-the-stanley-tumbler-is-the-best-gift-for-anyone/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [DirecTV and Dish’s on-and-off merger saga switches back to off](https://www.theverge.com/2024/11/22/24303559/directv-dish-merger-deal-abandoned)
  - [Save $300 on Apple&#39;s 1TB M4 Pro 14-inch MacBook Pro this weekend](https://appleinsider.com/articles/24/11/22/save-300-on-apples-1tb-m4-pro-14-inch-macbook-pro-this-weekend?utm_medium=rss)
  - [Early Black Friday Deals on Amazon Devices, Even Kindles &lpar;2024&rpar;](https://www.wired.com/story/black-friday-amazon-devices-deals-2024/)
  - [Elon Musk, as Trump&#39;s efficiency czar, is singling out ordinary federal staffers, including some with climate-related jobs, on X and unleashing his fans on them &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/241122/p21#a241122p21)
- - [15 Best Black Friday AirPod Deals: Up to $150 Off Ultra-Popular Apple Headphones](https://www.cnet.com/deals/best-black-friday-airpods-deals-2024/#ftag=CAD590a51e)
- - [Score This Hot Deal on a High-Tech Meat Thermometer at a 55% Discount in Time for Thanksgiving](https://www.cnet.com/deals/score-this-hot-deal-on-a-high-tech-meat-thermometer-at-a-55-discount-in-time-for-thanksgiving/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [15 Best Black Friday AirPod Deals: Up to $150 Off Ultra-Popular Apple Headphones](https://www.cnet.com/deals/best-black-friday-airpods-deals-2024/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

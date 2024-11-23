@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The Supreme Court will decide the fate of America’s low-income broadband fund](https://www.theverge.com/2024/11/22/24303585/supreme-court-fcc-v-consumers-research-universal-service-fund-broadband)
- - [Polymarket blocks users in France from placing trades, as the country&#39;s gaming regulator investigates the platform&#39;s compliance with local gambling laws &lpar;Zack Abrams/The Block&rpar;](http://www.techmeme.com/241122/p23#a241122p23)
- - [Palo Alto Networks says it has observed exploitation of two zero-days in its PAN-OS firewall OS; researchers say hackers have compromised 2,000+ firewalls &lpar;Carly Page/TechCrunch&rpar;](http://www.techmeme.com/241122/p22#a241122p22)
- - [Learn New Languages for Years With a Lifetime Babbel Subscription at a Record-Low $130](https://www.cnet.com/deals/learn-new-languages-for-years-with-a-lifetime-babbel-subscription-at-a-record-low-130/#ftag=CAD590a51e)
- - [DirecTV and Dish’s on-and-off merger saga switches back to off](https://www.theverge.com/2024/11/22/24303559/directv-dish-merger-deal-abandoned)<!-- TECH:END -->
+ - [Sources: Saudi Aramco&#39;s technology subsidiary is in talks to invest ~$1B in US telecommunications software maker Mavenir, in a deal likely to value it at ~$3B &lpar;Reuters&rpar;](http://www.techmeme.com/241122/p25#a241122p25)
+ - [Elon Musk is directing harassment toward individual federal workers](https://www.theverge.com/2024/11/22/24303594/elon-musk-harassing-federal-workers-x)
+ - [Sources: CoreWeave is aiming for a valuation of over $35B and is likely to target raising more than $3B in its US IPO that is expected to occur in Q2 2025 &lpar;Echo Wang/Reuters&rpar;](http://www.techmeme.com/241122/p24#a241122p24)
+ - [My Living Room Becomes a Theater When I Turn On This Under-$50 TV Accessory](https://www.cnet.com/deals/my-living-room-becomes-a-theater-when-i-turn-on-this-under-50-tv-accessory/#ftag=CAD590a51e)
+ - [Best Vegan Meal Delivery Services for 2024](https://www.cnet.com/health/nutrition/best-vegan-meal-delivery-services/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

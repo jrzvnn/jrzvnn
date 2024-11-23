@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [A freedom captain is required, I would like to know if this real](http://9gag.com/gag/aD2dRL7)
  - 😝 [New secret](http://9gag.com/gag/aGyd33G)
- - 😝 [Google it](http://9gag.com/gag/aMVxg1W)
- - 💣 [Last day of his work](http://9gag.com/gag/azxmnLB)
- - 😝 [Kidnapped without knowing](http://9gag.com/gag/a1mW4b6)
- - 👉 [Ain&#39;t nobody getting past](http://9gag.com/gag/aYQojNN)<!-- MEMES:END -->
+ - 💣 [Google it](http://9gag.com/gag/aMVxg1W)
+ - 😝 [When genius surpasses all logic](http://9gag.com/gag/aD24yXd)
+ - 👉 [Heartbreaking moment Laken Riley\u2019s mother found out what happened](http://9gag.com/gag/axy95gL)<!-- MEMES:END -->
 
 ---
 

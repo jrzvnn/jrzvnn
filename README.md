@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [A Texas jury awards Netlist $118M in damages from Samsung in a patent lawsuit, after finding Samsung made and sold infringing DRAM products to customers &lpar;Blake Brittain/Reuters&rpar;](http://www.techmeme.com/241123/p4#a241123p4)
  - [China&#39;s richest man Zhong Shanshan accused PDD of harming his bottled-water empire through a price war and ByteDance of fanning online vitriol targeting him &lpar;Bloomberg&rpar;](http://www.techmeme.com/241123/p3#a241123p3)
  - [US Cybercom Executive Director Morgan Adamski says Chinese hackers are positioning themselves in critical infrastructure in the event of a clash with the US &lpar;Reuters&rpar;](http://www.techmeme.com/241123/p2#a241123p2)
  - [SCOTUS agrees to hear a challenge against the FCC&#39;s $8B per year program to subsidize phone and internet services in schools, libraries, and rural areas &lpar;Associated Press&rpar;](http://www.techmeme.com/241123/p1#a241123p1)
- - [A US Chamber of Commerce email shows the Biden administration could add up to 200 Chinese chip companies to a trade restriction list as soon as next week &lpar;Alexandra Alper/Reuters&rpar;](http://www.techmeme.com/241122/p29#a241122p29)
- - [Best Internet Providers in Salinas, California](https://www.cnet.com/home/internet/best-internet-providers-in-salinas-ca/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [A US Chamber of Commerce email shows the Biden administration could add up to 200 Chinese chip companies to a trade restriction list as soon as next week &lpar;Alexandra Alper/Reuters&rpar;](http://www.techmeme.com/241122/p29#a241122p29)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

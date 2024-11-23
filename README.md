@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Google it](http://9gag.com/gag/aMVxg1W)
- - 😝 [Full Throttle, No Brakes](http://9gag.com/gag/a6ZKAVb)
- - 💣 [Heartbreaking moment Laken Riley\u2019s mother found out what happened](http://9gag.com/gag/axy95gL)
+ - 😝 [Sony has held the patent since 2009 and have never used it](http://9gag.com/gag/azxm0Vj)
+ - 😝 [Yeah, that&#39;s me](http://9gag.com/gag/aBympmz)
+ - 💣 [The world&#39;s shortest and tallest women have tea](http://9gag.com/gag/aBympVA)
  - 😝 [My fellow Latinas, is this true?](http://9gag.com/gag/abAV3RX)
- - 👉 [The right answer isn&#39;t available in this practice math placement exam](http://9gag.com/gag/axy9XxD)<!-- MEMES:END -->
+ - 👉 [Heartbreaking moment Laken Riley\u2019s mother found out what happened](http://9gag.com/gag/axy95gL)<!-- MEMES:END -->
 
 ---
 

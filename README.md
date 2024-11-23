@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Jensen Huang urged global cooperation and highlighted China&#39;s contributions to AI, as he accepted an honorary doctorate degree in engineering in Hong Kong &lpar;Bloomberg&rpar;](http://www.techmeme.com/241123/p6#a241123p6)
  - [Senate Intelligence Committee Chairman Mark Warner says China-linked Salt Typhoon group listened to phone calls and read texts by hacking US telecom networks &lpar;New York Times&rpar;](http://www.techmeme.com/241123/p5#a241123p5)
  - [A Texas jury awards Netlist $118M in damages from Samsung in a patent lawsuit, after finding Samsung made and sold infringing DRAM products to customers &lpar;Blake Brittain/Reuters&rpar;](http://www.techmeme.com/241123/p4#a241123p4)
  - [China&#39;s richest man Zhong Shanshan accused PDD of harming his bottled-water empire through a price war and ByteDance of fanning online vitriol targeting him &lpar;Bloomberg&rpar;](http://www.techmeme.com/241123/p3#a241123p3)
- - [I Tried Green Chef. See How I Liked These Healthy, Organic Meal Kits](https://www.cnet.com/health/nutrition/green-chef-review/#ftag=CAD590a51e)
- - [US Cybercom Executive Director Morgan Adamski says Chinese hackers are positioning themselves in critical infrastructure in the event of a clash with the US &lpar;Reuters&rpar;](http://www.techmeme.com/241123/p2#a241123p2)<!-- TECH:END -->
+ - [I Tried Green Chef. See How I Liked These Healthy, Organic Meal Kits](https://www.cnet.com/health/nutrition/green-chef-review/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

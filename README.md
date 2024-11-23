@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [A UN task force proposes taxing crypto mining to raise funds for climate action and cites IMF research that says $0.045 per kWh used could raise $5.2B annually &lpar;Justine Calma/The Verge&rpar;](http://www.techmeme.com/241122/p27#a241122p27)
  - [Apple TV Plus Review: Small Library but the Quality Is Top Notch](https://www.cnet.com/tech/services-and-software/apple-tv-plus-review/#ftag=CAD590a51e)
  - [Internet Cheat Sheet: How to Shop for Internet Like a Pro](https://www.cnet.com/home/internet/interent-cheat-sheet-how-to-shop-for-internet-like-a-pro/#ftag=CAD590a51e)
  - [A US judge declines to sanction Musk for skipping an SEC meeting for a probe into his Twitter takeover, as he reimbursed the SEC and met its lawyers in October &lpar;Malathi Nayak/Bloomberg&rpar;](http://www.techmeme.com/241122/p26#a241122p26)
- - [Today&#39;s NYT Connections: Sports Edition Hints and Answers for Nov. 23, #61](https://www.cnet.com/tech/gaming/todays-nyt-connections-sports-edition-hints-and-answers-for-nov-23-61/#ftag=CAD590a51e)
- - [Sources: Saudi Aramco&#39;s technology subsidiary is in talks to invest ~$1B in US telecommunications software maker Mavenir, in a deal likely to value it at ~$3B &lpar;Reuters&rpar;](http://www.techmeme.com/241122/p25#a241122p25)<!-- TECH:END -->
+ - [Today&#39;s NYT Connections: Sports Edition Hints and Answers for Nov. 23, #61](https://www.cnet.com/tech/gaming/todays-nyt-connections-sports-edition-hints-and-answers-for-nov-23-61/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

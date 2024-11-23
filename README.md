@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Sony has held the patent since 2009 and have never used it](http://9gag.com/gag/azxm0Vj)
- - 😝 [A freedom captain is required, I would like to know if this real](http://9gag.com/gag/aD2dRL7)
- - 💣 [Johnny bravo](http://9gag.com/gag/aBym7WN)
- - 😝 [Dill](http://9gag.com/gag/aE0PLMG)
- - 👉 [Four teenage boys were arrested and sentenced to three years in prison each for harassing and attempting to undress a girl in public. Here is their families&#39; reaction to the sentence.](http://9gag.com/gag/aQzdYyr)<!-- MEMES:END -->
+ - 😝 [Working out](http://9gag.com/gag/aBymDGD)
+ - 😝 [That&#39;s how bad things are](http://9gag.com/gag/aBymqv2)
+ - 💣 [Old School y better](http://9gag.com/gag/aBy29y2)
+ - 😝 [Be educated Europe because this may be a cultural heritage of Europe in very near future lmfao](http://9gag.com/gag/a4P3Mq1)
+ - 👉 [Curing trust issues with love](http://9gag.com/gag/an7QeXE)<!-- MEMES:END -->
 
 ---
 

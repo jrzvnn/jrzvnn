@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Six months into a deal with OpenAI, Spanish bank BBVA says staff created 2,900+ GPTs and reported productivity gains, but questions ChatGPT&#39;s scalability &lpar;Isabelle Bousquette/Wall Street Journal&rpar;](http://www.techmeme.com/241123/p18#a241123p18)
  - [Microsoft pauses Windows 11 updates for PCs with some Ubisoft games installed](https://www.theverge.com/2024/11/23/24304313/microsoft-delays-windows-11-24h2-update-ubisoft-star-wars-outlaws-assassins-creed-valhalla-crashes)
- - [Best Black Friday E-Bike and Scooter Deals: Save Up to $500 on Our Favorite Rideables](https://www.cnet.com/roadshow/news/best-black-friday-ebike-scooter-deals-2024/#ftag=CAD590a51e)
- - [This Black Friday, Gift Them My Favorite RC Car and Treat Their Inner Child](https://www.cnet.com/roadshow/news/this-black-friday-gift-them-my-favorite-rc-car-and-treat-their-inner-child/#ftag=CAD590a51e)
- - [Best Black Friday Vacuum Deals: Save Hundreds Off Dyson, Tineco and More](https://www.cnet.com/deals/best-black-friday-vacuum-deals-2024/#ftag=CAD590a51e)
- - [Cardio before or after weight lifting: Which one is better for weight loss?](https://www.cnet.com/health/fitness/cardio-before-or-after-weights-which-is-better-for-weight-loss/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Cardio before or after weight lifting: Which one is better for weight loss?](https://www.cnet.com/health/fitness/cardio-before-or-after-weights-which-is-better-for-weight-loss/#ftag=CAD590a51e)
+ - [18 Best Black Friday Deals Under $25: Top Deals on Smart Plugs, Chargers and Other Essentials](https://www.cnet.com/deals/best-black-friday-deals-under-25-2024/#ftag=CAD590a51e)
+ - [A federal court allows a claim by The Intercept that DMCA prevents OpenAI from stripping a story&#39;s title or byline but throws out its claims against Microsoft &lpar;Shawn Musgrave/The Intercept&rpar;](http://www.techmeme.com/241123/p17#a241123p17)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

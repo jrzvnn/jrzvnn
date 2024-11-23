@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [I am convinced, santa is real](http://9gag.com/gag/an7QqQB)
- - 😝 [Show me your tit-les](http://9gag.com/gag/aO876Lv)
- - 💣 [Fatherly advice](http://9gag.com/gag/amovjKd)
- - 😝 [X-Ray](http://9gag.com/gag/a2v7zAd)
- - 👉 [Four teenage boys were arrested and sentenced to three years in prison each for harassing and attempting to undress a girl in public. Here is their families&#39; reaction to the sentence.](http://9gag.com/gag/aQzdYyr)<!-- MEMES:END -->
+ - 😝 [The world record that&#39;s STILL standing after 29 years](http://9gag.com/gag/a0e78OX)
+ - 😝 [I have a recording of your dream](http://9gag.com/gag/aAybRzd)
+ - 💣 [You don&#39;t need to know why.](http://9gag.com/gag/an7Qqdq)
+ - 😝 [New secret](http://9gag.com/gag/aGyd33G)
+ - 👉 [Maybe Maybe Maybe](http://9gag.com/gag/avyzb7W)<!-- MEMES:END -->
 
 ---
 

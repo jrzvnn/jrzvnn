@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [A fully electric Chrysler Pacifica is in the works](https://www.theverge.com/2024/11/23/24304099/chrysler-pacifica-ev-fully-electric-minivan)
+ - [Tap to Pay on iPhone, Apple Watch arrives in New Zealand](https://appleinsider.com/articles/24/11/23/tap-to-pay-on-iphone-apple-watch-arrives-in-new-zealand?utm_medium=rss)
  - [You can save $10 on Google’s 4K-ready Chromecast before it’s gone for good](https://www.theverge.com/2024/11/23/24303221/chromecast-with-google-tv-4k-streaming-device-black-friday-deal-sale)
  - [Around 56% of the $8.2B in financial remedies that the US SEC obtained in FY 2024 is attributable to a monetary judgment against Terraform Labs and Do Kwon &lpar;Nicola M. White/Bloomberg&rpar;](http://www.techmeme.com/241123/p13#a241123p13)
- - [Russia’s Ballistic Missile Attack on Ukraine Is an Alarming First](https://www.wired.com/story/russia-ballistic-missile-attack-ukraine-alarming-first/)
- - [Apple TV+ abandons Clooney and Pitt&#39;s &#39;Wolfs&#39; sequel](https://appleinsider.com/articles/24/11/23/apple-tv-abandons-clooney-and-pitts-wolfs-sequel?utm_medium=rss)
- - [&#39;Landman&#39; Release Schedule: When Episode 3 Premieres on Paramount Plus](https://www.cnet.com/tech/services-and-software/landman-release-schedule-when-episode-3-premieres-on-paramount-plus/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Russia’s Ballistic Missile Attack on Ukraine Is an Alarming First](https://www.wired.com/story/russia-ballistic-missile-attack-ukraine-alarming-first/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

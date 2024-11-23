@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [Kidnapped without knowing](http://9gag.com/gag/a1mW4b6)
  - 😝 [He&#39;s starting to understand](http://9gag.com/gag/ayNeOMV)
- - 😝 [That&#39;s how money laundering works.](http://9gag.com/gag/abAV32L)
  - 💣 [Just hanging..](http://9gag.com/gag/ayNeOmb)
- - 😝 [How mortadella is made](http://9gag.com/gag/aBymD3P)
- - 👉 [Fatherly advice](http://9gag.com/gag/amovjKd)<!-- MEMES:END -->
+ - 😝 [Fatherly advice](http://9gag.com/gag/amovjKd)
+ - 👉 [New secret](http://9gag.com/gag/aGyd33G)<!-- MEMES:END -->
 
 ---
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Dill](http://9gag.com/gag/aE0PLMG)
- - 😝 [Just hanging..](http://9gag.com/gag/ayNeOmb)
- - 💣 [That&#39;s how money laundering works.](http://9gag.com/gag/abAV32L)
- - 😝 [Fatherly advice](http://9gag.com/gag/amovjKd)
- - 👉 [New secret](http://9gag.com/gag/aGyd33G)<!-- MEMES:END -->
+ - 😝 [Kidnapped without knowing](http://9gag.com/gag/a1mW4b6)
+ - 😝 [He&#39;s starting to understand](http://9gag.com/gag/ayNeOMV)
+ - 💣 [Just hanging..](http://9gag.com/gag/ayNeOmb)
+ - 😝 [Sony has held the patent since 2009 and have never used it](http://9gag.com/gag/azxm0Vj)
+ - 👉 [Fatherly advice](http://9gag.com/gag/amovjKd)<!-- MEMES:END -->
 
 ---
 

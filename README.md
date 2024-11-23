@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Sources: the US government launched an investigation into the Salt Typhoon hack after Microsoft alerted it and telecom companies about anomalies &lpar;New York Times&rpar;](http://www.techmeme.com/241123/p14#a241123p14)
  - [A fully electric Chrysler Pacifica is in the works](https://www.theverge.com/2024/11/23/24304099/chrysler-pacifica-ev-fully-electric-minivan)
  - [Tap to Pay on iPhone, Apple Watch arrives in New Zealand](https://appleinsider.com/articles/24/11/23/tap-to-pay-on-iphone-apple-watch-arrives-in-new-zealand?utm_medium=rss)
- - [You can save $10 on Google’s 4K-ready Chromecast before it’s gone for good](https://www.theverge.com/2024/11/23/24303221/chromecast-with-google-tv-4k-streaming-device-black-friday-deal-sale)
- - [Around 56% of the $8.2B in financial remedies that the US SEC obtained in FY 2024 is attributable to a monetary judgment against Terraform Labs and Do Kwon &lpar;Nicola M. White/Bloomberg&rpar;](http://www.techmeme.com/241123/p13#a241123p13)
- - [Russia’s Ballistic Missile Attack on Ukraine Is an Alarming First](https://www.wired.com/story/russia-ballistic-missile-attack-ukraine-alarming-first/)<!-- TECH:END -->
+ - [Apple’s Latest iPad Mini A17 Pro Already Has an Impressive Black Friday Discount](https://www.cnet.com/deals/apples-latest-a17-pro-ipad-mini-just-got-its-first-real-black-friday-discount/#ftag=CAD590a51e)
+ - [You can save $10 on Google’s 4K-ready Chromecast before it’s gone for good](https://www.theverge.com/2024/11/23/24303221/chromecast-with-google-tv-4k-streaming-device-black-friday-deal-sale)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

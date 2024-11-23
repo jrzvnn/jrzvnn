@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Apple slashes MacBook Pro speaker repair costs](https://appleinsider.com/articles/24/11/23/apple-slashes-macbook-pro-speaker-repair-costs?utm_medium=rss)
  - [Similarweb: Bluesky app usage in the US and UK grew ~300% to 3.5M DAUs after Nov. 5; Threads now has 1.5x Bluesky&#39;s DAUs in the US, down from 5x before Nov. 5 &lpar;Financial Times&rpar;](http://www.techmeme.com/241123/p16#a241123p16)
- - [Black Friday software deals hit Adobe Creative Cloud, Parallels Desktop, Microsoft Office, VPNs](https://appleinsider.com/articles/24/11/23/black-friday-software-deals-hit-adobe-creative-cloud-parallels-desktop-microsoft-office-vpns?utm_medium=rss)
- - [ActivityPub co-author on Bluesky and ATProto being neither decentralized nor federated, and how Bluesky is building a good X replacement with a &quot;credible exit&quot; &lpar;Christine Lemmer-Webber/Dustycloud ...&rpar;](http://www.techmeme.com/241123/p15#a241123p15)
- - [Best Internet Providers in Santa Fe, New Mexico](https://www.cnet.com/home/internet/best-internet-providers-in-santa-fe-nm/#ftag=CAD590a51e)
- - [Don’t Sleep on These Black Friday Laptop Deals: Our Favorites for Every Budget](https://www.cnet.com/deals/best-black-friday-laptop-deals-2024/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Black Friday and Cyber Week Fitness and Wellness Deals That All Wellness Enthusiasts Will Love](https://www.cnet.com/health/black-friday-and-cyber-week-fitness-deals-that-all-wellness-enthusiasts-will-love/#ftag=CAD590a51e)
+ - [Not Sure if Your Flight Is on Time? Use Your iPhone&#39;s Hidden Flight Tracker](https://www.cnet.com/tech/mobile/not-sure-if-your-flight-is-on-time-use-your-iphones-hidden-flight-tracker/#ftag=CAD590a51e)
+ - [Best Black Friday Apple Watch Deals: Snag a Series 10, Ultra 2 and More for Less](https://www.cnet.com/deals/best-black-friday-apple-watch-deals-2024/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

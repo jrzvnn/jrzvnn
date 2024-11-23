@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [F**k around and find out](http://9gag.com/gag/awyMNjQ)
  - 😝 [New secret](http://9gag.com/gag/aGyd33G)
- - 😝 [He&#39;s starting to understand](http://9gag.com/gag/ayNeOMV)
- - 💣 [The world&#39;s shortest and tallest women have tea](http://9gag.com/gag/aBympVA)
- - 😝 [My fellow Latinas, is this true?](http://9gag.com/gag/abAV3RX)
- - 👉 [When genius surpasses all logic](http://9gag.com/gag/aD24yXd)<!-- MEMES:END -->
+ - 💣 [Just hanging..](http://9gag.com/gag/ayNeOmb)
+ - 😝 [Sony has held the patent since 2009 and have never used it](http://9gag.com/gag/azxm0Vj)
+ - 👉 [The world&#39;s shortest and tallest women have tea](http://9gag.com/gag/aBympVA)<!-- MEMES:END -->
 
 ---
 

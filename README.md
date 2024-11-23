@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Not even scared, he&#39;s natural](http://9gag.com/gag/aAybBLd)
- - 😝 [Gosh!](http://9gag.com/gag/a7oELvx)
- - 💣 [Found an extended version](http://9gag.com/gag/aZZ0boz)
- - 😝 [The world record that&#39;s STILL standing after 29 years](http://9gag.com/gag/a0e78OX)
- - 👉 [A guy from Toronto spent a year running to draw a cartoon of his route.](http://9gag.com/gag/aVvwGVP)<!-- MEMES:END -->
+ - 😝 [I have a recording of your dream](http://9gag.com/gag/aAybRzd)
+ - 😝 [A freedom captain is required, I would like to know if this real](http://9gag.com/gag/aD2dRL7)
+ - 💣 [Show me your tit-les](http://9gag.com/gag/aO876Lv)
+ - 😝 [New secret](http://9gag.com/gag/aGyd33G)
+ - 👉 [The world record that&#39;s STILL standing after 29 years](http://9gag.com/gag/a0e78OX)<!-- MEMES:END -->
 
 ---
 

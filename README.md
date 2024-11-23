@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Old School y better](http://9gag.com/gag/aBy29y2)
- - 😝 [Be educated Europe because this may be a cultural heritage of Europe in very near future lmfao](http://9gag.com/gag/a4P3Mq1)
- - 💣 [Gosh!](http://9gag.com/gag/a7oELvx)
- - 😝 [Curing trust issues with love](http://9gag.com/gag/an7QeXE)
- - 👉 [Adore Inkspots. If you&#39;re gonna cover it, do it right.](http://9gag.com/gag/a9yEj7j)<!-- MEMES:END -->
+ - 😝 [Dill](http://9gag.com/gag/aE0PLMG)
+ - 😝 [Just hanging..](http://9gag.com/gag/ayNeOmb)
+ - 💣 [That&#39;s how money laundering works.](http://9gag.com/gag/abAV32L)
+ - 😝 [Fatherly advice](http://9gag.com/gag/amovjKd)
+ - 👉 [New secret](http://9gag.com/gag/aGyd33G)<!-- MEMES:END -->
 
 ---
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Found an extended version](http://9gag.com/gag/aZZ0boz)
- - 😝 [This is a great PSA for...](http://9gag.com/gag/aPA3w2G)
- - 💣 [A short and witty `would` does the trick](http://9gag.com/gag/a9yEdL1)
- - 😝 [Wholesome posts I saved #3](http://9gag.com/gag/aKG64BZ)
- - 👉 [Hyperrealism pure mastery](http://9gag.com/gag/abAV3A9)<!-- MEMES:END -->
+ - 😝 [You don&#39;t need to know why.](http://9gag.com/gag/an7Qqdq)
+ - 😝 [Maybe Maybe Maybe](http://9gag.com/gag/avyzb7W)
+ - 💣 [Fatherly advice](http://9gag.com/gag/amovjKd)
+ - 😝 [They are eating the swans - Cheshire UK](http://9gag.com/gag/a9yEdND)
+ - 👉 [Four teenage boys were arrested and sentenced to three years in prison each for harassing and attempting to undress a girl in public. Here is their families&#39; reaction to the sentence.](http://9gag.com/gag/aQzdYyr)<!-- MEMES:END -->
 
 ---
 

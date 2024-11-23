@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [That&#39;s how money laundering works.](http://9gag.com/gag/abAV32L)
- - 😝 [He&#39;s starting to understand](http://9gag.com/gag/ayNeOMV)
- - 💣 [The right answer isn&#39;t available in this practice math placement exam](http://9gag.com/gag/axy9XxD)
- - 😝 [Life!](http://9gag.com/gag/adB8yz2)
- - 👉 [New secret](http://9gag.com/gag/aGyd33G)<!-- MEMES:END -->
+ - 😝 [May I have the permission to touch you?](http://9gag.com/gag/aZZ0bEX)
+ - 😝 [Show me your tit-les](http://9gag.com/gag/aO876Lv)
+ - 💣 [Life!](http://9gag.com/gag/adB8yz2)
+ - 😝 [New secret](http://9gag.com/gag/aGyd33G)
+ - 👉 [Fatherly advice](http://9gag.com/gag/amovjKd)<!-- MEMES:END -->
 
 ---
 

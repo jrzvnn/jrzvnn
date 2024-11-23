@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Black Friday software deals hit Adobe Creative Cloud, Parallels Desktop, Microsoft Office, VPNs](https://appleinsider.com/articles/24/11/23/black-friday-software-deals-hit-adobe-creative-cloud-parallels-desktop-microsoft-office-vpns?utm_medium=rss)
  - [ActivityPub co-author on why Bluesky and ATProto are not decentralized or federated and Bluesky building a good X replacement with a possible &quot;credible exit&quot; &lpar;Christine Lemmer-Webber/Dustycloud ...&rpar;](http://www.techmeme.com/241123/p15#a241123p15)
  - [Sources: the US government launched an investigation into the Salt Typhoon hack after Microsoft alerted it and telecom companies about anomalies &lpar;New York Times&rpar;](http://www.techmeme.com/241123/p14#a241123p14)
  - [A fully electric Chrysler Pacifica is in the works](https://www.theverge.com/2024/11/23/24304099/chrysler-pacifica-ev-fully-electric-minivan)
- - [Tap to Pay on iPhone, Apple Watch arrives in New Zealand](https://appleinsider.com/articles/24/11/23/tap-to-pay-on-iphone-apple-watch-arrives-in-new-zealand?utm_medium=rss)
- - [Apple’s Latest iPad Mini A17 Pro Already Has an Impressive Black Friday Discount](https://www.cnet.com/deals/apples-latest-a17-pro-ipad-mini-just-got-its-first-real-black-friday-discount/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Tap to Pay on iPhone, Apple Watch arrives in New Zealand](https://appleinsider.com/articles/24/11/23/tap-to-pay-on-iphone-apple-watch-arrives-in-new-zealand?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

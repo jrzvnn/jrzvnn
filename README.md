@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [A freedom captain is required, I would like to know if this real](http://9gag.com/gag/aD2dRL7)
- - 😝 [New secret](http://9gag.com/gag/aGyd33G)
- - 💣 [Google it](http://9gag.com/gag/aMVxg1W)
- - 😝 [When genius surpasses all logic](http://9gag.com/gag/aD24yXd)
- - 👉 [Heartbreaking moment Laken Riley\u2019s mother found out what happened](http://9gag.com/gag/axy95gL)<!-- MEMES:END -->
+ - 😝 [Google it](http://9gag.com/gag/aMVxg1W)
+ - 😝 [Full Throttle, No Brakes](http://9gag.com/gag/a6ZKAVb)
+ - 💣 [Heartbreaking moment Laken Riley\u2019s mother found out what happened](http://9gag.com/gag/axy95gL)
+ - 😝 [My fellow Latinas, is this true?](http://9gag.com/gag/abAV3RX)
+ - 👉 [The right answer isn&#39;t available in this practice math placement exam](http://9gag.com/gag/axy9XxD)<!-- MEMES:END -->
 
 ---
 

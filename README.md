@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Evercade Alpha Review: Epic Retro Home-Gaming](https://www.wired.com/review/evercade-alpha/)
  - [Twitter’s heir apparent isn’t X or Threads — it’s Bluesky](https://www.theverge.com/2024/11/23/24303502/bluesky-next-twitter-threads-x)
  - [You’re Packing Your Carry-On All Wrong. Here’s How to Do It Right](https://www.wired.com/story/how-to-pack-a-carry-on-travel-tips/)
  - [The Best Portable iPhone Charger I&#39;ve Ever Owned Is Now Just $30 for Black Friday](https://www.cnet.com/deals/the-best-portable-iphone-charger-ive-ever-owned-is-now-just-30-for-black-friday/#ftag=CAD590a51e)
- - [Premier League Soccer: Livestream Arsenal vs. Nottingham Forest From Anywhere](https://www.cnet.com/tech/services-and-software/premier-league-soccer-livestream-arsenal-vs-nottingham-forest-from-anywhere/#ftag=CAD590a51e)
- - [Yes, Expired Makeup Is Dangerous for Your Eye and Skin Health](https://www.cnet.com/health/personal-care/yes-expired-makeup-is-dangerous-for-your-eye-and-skin-health/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Premier League Soccer: Livestream Arsenal vs. Nottingham Forest From Anywhere](https://www.cnet.com/tech/services-and-software/premier-league-soccer-livestream-arsenal-vs-nottingham-forest-from-anywhere/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

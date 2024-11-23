@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Four teenage boys were arrested and sentenced to three years in prison each for harassing and attempting to undress a girl in public. Here is their families&#39; reaction to the sentence.](http://9gag.com/gag/aQzdYyr)
- - 😝 [A freedom captain is required, I would like to know if this real](http://9gag.com/gag/aD2dRL7)
- - 💣 [I shit you not](http://9gag.com/gag/ayNM7Xq)
- - 😝 [The world record that&#39;s STILL standing after 29 years](http://9gag.com/gag/a0e78OX)
- - 👉 [Ain&#39;t nobody getting past](http://9gag.com/gag/aYQojNN)<!-- MEMES:END -->
+ - 😝 [I am convinced, santa is real](http://9gag.com/gag/an7QqQB)
+ - 😝 [Show me your tit-les](http://9gag.com/gag/aO876Lv)
+ - 💣 [Fatherly advice](http://9gag.com/gag/amovjKd)
+ - 😝 [X-Ray](http://9gag.com/gag/a2v7zAd)
+ - 👉 [Four teenage boys were arrested and sentenced to three years in prison each for harassing and attempting to undress a girl in public. Here is their families&#39; reaction to the sentence.](http://9gag.com/gag/aQzdYyr)<!-- MEMES:END -->
 
 ---
 

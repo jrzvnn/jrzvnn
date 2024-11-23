@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [An investigation finds several women across the US were deceived, drugged, terrorized, and sexually enslaved by sex traffickers to make money from OnlyFans &lpar;Reuters&rpar;](http://www.techmeme.com/241123/p9#a241123p9)
  - [Best Showerhead Filters of 2024](https://www.cnet.com/health/personal-care/best-shower-filter/#ftag=CAD590a51e)
  - [Hotels.com Coupons and Deals: Save Up to 30%](https://www.wired.com/story/hotels-com-coupon/)
  - [A look at the disagreements in the US government over setting up a US Cyber Force, as the Pentagon formally asked Congress to reject the proposal in September &lpar;Barbara Booth/CNBC&rpar;](http://www.techmeme.com/241123/p8#a241123p8)
- - [Total Wireless Black Friday Deals: Get 4 Free Phones](https://www.wired.com/story/total-wireless-black-friday/)
- - [HelloFresh Is the Most Popular Meal Kit Service, but Is It the Best? We Tested It to Find Out](https://www.cnet.com/health/nutrition/hello-fresh-meal-kit-reviews/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Total Wireless Black Friday Deals: Get 4 Free Phones](https://www.wired.com/story/total-wireless-black-friday/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

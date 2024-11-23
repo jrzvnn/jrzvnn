@@ -157,7 +157,7 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [A federal court rejects OpenAI&#39;s effort to toss a lawsuit by The Intercept, which argued that the DMCA prevents OpenAI from stripping a story&#39;s title or byline &lpar;Shawn Musgrave/The Intercept&rpar;](http://www.techmeme.com/241123/p17#a241123p17)
+ - [A federal court allows a claim by The Intercept that DMCA prevents OpenAI from stripping a story&#39;s title or byline but throws out its claims against Microsoft &lpar;Shawn Musgrave/The Intercept&rpar;](http://www.techmeme.com/241123/p17#a241123p17)
  - [Best Internet Providers in Tyler, Texas](https://www.cnet.com/home/internet/best-internet-providers-in-tyler-tx/#ftag=CAD590a51e)
  - [Amazon Black Friday: 30-Plus Deals Across Tech, Kitchen and More](https://www.cnet.com/deals/best-amazon-black-friday-deals-2024/#ftag=CAD590a51e)
  - [Apple slashes MacBook Pro speaker repair costs](https://appleinsider.com/articles/24/11/23/apple-slashes-macbook-pro-speaker-repair-costs?utm_medium=rss)

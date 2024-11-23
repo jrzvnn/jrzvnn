@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Working out](http://9gag.com/gag/aBymDGD)
- - 😝 [The world&#39;s shortest and tallest women have tea](http://9gag.com/gag/aBympVA)
+ - 😝 [Eiderdown: The World&#39;s Rarest and Warmest Gift from Ducks](http://9gag.com/gag/avyzYdn)
+ - 😝 [H.......](http://9gag.com/gag/aXPgBn6)
  - 💣 [My fellow Latinas, is this true?](http://9gag.com/gag/abAV3RX)
  - 😝 [Fatherly advice](http://9gag.com/gag/amovjKd)
- - 👉 [Heartbreaking moment Laken Riley\u2019s mother found out what happened](http://9gag.com/gag/axy95gL)<!-- MEMES:END -->
+ - 👉 [The world&#39;s shortest and tallest women have tea](http://9gag.com/gag/aBympVA)<!-- MEMES:END -->
 
 ---
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [Billy Connolly is an absolute God!](http://9gag.com/gag/abAG9yp)
  - 😝 [Just hanging..](http://9gag.com/gag/ayNeOmb)
- - 😝 [Fatherly advice](http://9gag.com/gag/amovjKd)
- - 💣 [New secret](http://9gag.com/gag/aGyd33G)
- - 😝 [Sony has held the patent since 2009 and have never used it](http://9gag.com/gag/azxm0Vj)
- - 👉 [My fellow Latinas, is this true?](http://9gag.com/gag/abAV3RX)<!-- MEMES:END -->
+ - 💣 [Like father like daughter](http://9gag.com/gag/aO83KV6)
+ - 😝 [My fellow Latinas, is this true?](http://9gag.com/gag/abAV3RX)
+ - 👉 [The right answer isn&#39;t available in this practice math placement exam](http://9gag.com/gag/axy9XxD)<!-- MEMES:END -->
 
 ---
 

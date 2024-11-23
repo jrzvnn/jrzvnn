@@ -159,9 +159,9 @@ R                        1 repo              ░░░░░░░░░░░�
 <!-- TECH:START -->
  - [Black Friday software deals hit Adobe Creative Cloud, Parallels Desktop, Microsoft Office, VPNs](https://appleinsider.com/articles/24/11/23/black-friday-software-deals-hit-adobe-creative-cloud-parallels-desktop-microsoft-office-vpns?utm_medium=rss)
  - [ActivityPub co-author on why Bluesky and ATProto are not decentralized or federated and Bluesky building a good X replacement with a possible &quot;credible exit&quot; &lpar;Christine Lemmer-Webber/Dustycloud ...&rpar;](http://www.techmeme.com/241123/p15#a241123p15)
- - [Sources: the US government launched an investigation into the Salt Typhoon hack after Microsoft alerted it and telecom companies about anomalies &lpar;New York Times&rpar;](http://www.techmeme.com/241123/p14#a241123p14)
- - [A fully electric Chrysler Pacifica is in the works](https://www.theverge.com/2024/11/23/24304099/chrysler-pacifica-ev-fully-electric-minivan)
- - [Tap to Pay on iPhone, Apple Watch arrives in New Zealand](https://appleinsider.com/articles/24/11/23/tap-to-pay-on-iphone-apple-watch-arrives-in-new-zealand?utm_medium=rss)<!-- TECH:END -->
+ - [Best Internet Providers in Santa Fe, New Mexico](https://www.cnet.com/home/internet/best-internet-providers-in-santa-fe-nm/#ftag=CAD590a51e)
+ - [Don’t Sleep on These Black Friday Laptop Deals: Our Favorites for Every Budget](https://www.cnet.com/deals/best-black-friday-laptop-deals-2024/#ftag=CAD590a51e)
+ - [Cardinals vs. Seahawks Livestream: How to Watch NFL Week 12 Today](https://www.cnet.com/tech/services-and-software/cardinals-vs-seahawks-livestream-how-to-watch-nfl-week-12-today/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

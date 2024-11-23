@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [22 Best Gifts for Cat Lovers &lpar;2024&rpar;](https://www.wired.com/gallery/gifts-for-cat-lovers/)
+ - [What’s on your desk, Kylie Robison?](https://www.theverge.com/24303127/home-office-desk-nintendo)
  - [A look at challenges facing Samsung Executive Chairman Lee Jae-yong, including the company falling behind in the AI chip race and discontent from employees &lpar;Financial Times&rpar;](http://www.techmeme.com/241123/p10#a241123p10)
  - [Evercade Alpha Review: Epic Retro Home-Gaming](https://www.wired.com/review/evercade-alpha/)
- - [Twitter’s heir apparent isn’t X or Threads — it’s Bluesky](https://www.theverge.com/2024/11/23/24303502/bluesky-next-twitter-threads-x)
- - [You’re Packing Your Carry-On All Wrong. Here’s How to Do It Right](https://www.wired.com/story/how-to-pack-a-carry-on-travel-tips/)
- - [The Best Portable iPhone Charger I&#39;ve Ever Owned Is Now Just $30 for Black Friday](https://www.cnet.com/deals/the-best-portable-iphone-charger-ive-ever-owned-is-now-just-30-for-black-friday/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Protect Your Ears for Less Than $20 With These Reusable Vibes Earplugs in Amazon’s Black Friday Sale](https://www.cnet.com/deals/protect-your-ears-for-less-than-20-with-these-reusable-vibes-earplugs-in-amazons-black-friday-sale/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

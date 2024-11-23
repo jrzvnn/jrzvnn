@@ -169,8 +169,8 @@ R                        1 repo              ░░░░░░░░░░░�
  - 😝 [Found an extended version](http://9gag.com/gag/aZZ0boz)
  - 😝 [This is a great PSA for...](http://9gag.com/gag/aPA3w2G)
  - 💣 [A short and witty `would` does the trick](http://9gag.com/gag/a9yEdL1)
- - 😝 [`It&#39;s my choice`](http://9gag.com/gag/a9yEdR6)
- - 👉 [Wholesome posts I saved #3](http://9gag.com/gag/aKG64BZ)<!-- MEMES:END -->
+ - 😝 [Wholesome posts I saved #3](http://9gag.com/gag/aKG64BZ)
+ - 👉 [Hyperrealism pure mastery](http://9gag.com/gag/abAV3A9)<!-- MEMES:END -->
 
 ---
 

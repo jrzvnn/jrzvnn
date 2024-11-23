@@ -166,10 +166,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [You don&#39;t need to know why.](http://9gag.com/gag/an7Qqdq)
- - 😝 [Maybe Maybe Maybe](http://9gag.com/gag/avyzb7W)
- - 💣 [Fatherly advice](http://9gag.com/gag/amovjKd)
  - 😝 [They are eating the swans - Cheshire UK](http://9gag.com/gag/a9yEdND)
+ - 😝 [New secret](http://9gag.com/gag/aGyd33G)
+ - 💣 [Maybe Maybe Maybe](http://9gag.com/gag/avyzb7W)
+ - 😝 [Ain&#39;t nobody getting past](http://9gag.com/gag/aYQojNN)
  - 👉 [Four teenage boys were arrested and sentenced to three years in prison each for harassing and attempting to undress a girl in public. Here is their families&#39; reaction to the sentence.](http://9gag.com/gag/aQzdYyr)<!-- MEMES:END -->
 
 ---

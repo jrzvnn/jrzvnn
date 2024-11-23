@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [New secret](http://9gag.com/gag/aGyd33G)
- - 😝 [Ain&#39;t nobody getting past](http://9gag.com/gag/aYQojNN)
- - 💣 [Maybe Maybe Maybe](http://9gag.com/gag/avyzb7W)
- - 😝 [A freedom captain is required, I would like to know if this real](http://9gag.com/gag/aD2dRL7)
- - 👉 [Four teenage boys were arrested and sentenced to three years in prison each for harassing and attempting to undress a girl in public. Here is their families&#39; reaction to the sentence.](http://9gag.com/gag/aQzdYyr)<!-- MEMES:END -->
+ - 😝 [A guy from Toronto spent a year running to draw a cartoon of his route.](http://9gag.com/gag/aVvwGVP)
+ - 😝 [Found an extended version](http://9gag.com/gag/aZZ0boz)
+ - 💣 [`It&#39;s my choice`](http://9gag.com/gag/a9yEdR6)
+ - 😝 [This is a great PSA for...](http://9gag.com/gag/aPA3w2G)
+ - 👉 [A short and witty `would` does the trick](http://9gag.com/gag/a9yEdL1)<!-- MEMES:END -->
 
 ---
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [You can save $10 on Google’s 4K-ready Chromecast before it’s gone for good](https://www.theverge.com/2024/11/23/24303221/chromecast-with-google-tv-4k-streaming-device-black-friday-deal-sale)
+ - [Around 56% of the $8.2B in financial remedies that the US SEC obtained in FY 2024 is attributable to a monetary judgment against Terraform Labs and Do Kwon &lpar;Nicola M. White/Bloomberg&rpar;](http://www.techmeme.com/241123/p13#a241123p13)
  - [Russia’s Ballistic Missile Attack on Ukraine Is an Alarming First](https://www.wired.com/story/russia-ballistic-missile-attack-ukraine-alarming-first/)
  - [Apple TV+ abandons Clooney and Pitt&#39;s &#39;Wolfs&#39; sequel](https://appleinsider.com/articles/24/11/23/apple-tv-abandons-clooney-and-pitts-wolfs-sequel?utm_medium=rss)
- - [The Best LED Face Masks to Erase Wrinkles and Acne &lpar;2024&rpar;](https://www.wired.com/story/led-face-masks-and-red-light-therapy/)
- - [ESR MagSafe chargers &amp; cases make shopping for holiday gifts easy &lpar;and they&#39;re all on sale for Black Friday&rpar;](https://appleinsider.com/articles/24/11/23/esr-magsafe-chargers-cases-make-shopping-for-holiday-gifts-easy-and-theyre-all-on-sale-for-black-friday?utm_medium=rss)
- - [Sources: TikTok CEO Shou Chew, who has known Elon Musk for several years, has sought Musk&#39;s counsel in recent weeks on the incoming Trump administration &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/241123/p12#a241123p12)<!-- TECH:END -->
+ - [&#39;Landman&#39; Release Schedule: When Episode 3 Premieres on Paramount Plus](https://www.cnet.com/tech/services-and-software/landman-release-schedule-when-episode-3-premieres-on-paramount-plus/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Strava&#39;s new API rules for third parties will make it harder for users across dozens of fitness apps and wearables to integrate their fitness data in one place &lpar;Victoria Song/The Verge&rpar;](http://www.techmeme.com/241123/p11#a241123p11)
  - [22 Best MagSafe Accessories &lpar;2024&rpar;, Tested and Reviewed](https://www.wired.com/gallery/best-magsafe-accessories/)
  - [22 Best Gifts for Cat Lovers &lpar;2024&rpar;](https://www.wired.com/gallery/gifts-for-cat-lovers/)
  - [What’s on your desk, Kylie Robison?](https://www.theverge.com/24303127/home-office-desk-nintendo)
- - [A look at challenges facing Samsung Executive Chairman Lee Jae-yong, including the company falling behind in the AI chip race and discontent from employees &lpar;Financial Times&rpar;](http://www.techmeme.com/241123/p10#a241123p10)
- - [Evercade Alpha Review: Epic Retro Home-Gaming](https://www.wired.com/review/evercade-alpha/)<!-- TECH:END -->
+ - [A look at challenges facing Samsung Executive Chairman Lee Jae-yong, including the company falling behind in the AI chip race and discontent from employees &lpar;Financial Times&rpar;](http://www.techmeme.com/241123/p10#a241123p10)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

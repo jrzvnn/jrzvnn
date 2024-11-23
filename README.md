@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [SCOTUS agrees to hear a challenge against the FCC&#39;s $8B per year program to subsidize phone and internet services in schools, libraries, and rural areas &lpar;Associated Press&rpar;](http://www.techmeme.com/241123/p1#a241123p1)
  - [A US Chamber of Commerce email shows the Biden administration could add up to 200 Chinese chip companies to a trade restriction list as soon as next week &lpar;Alexandra Alper/Reuters&rpar;](http://www.techmeme.com/241122/p29#a241122p29)
  - [Q&amp;A with Zepto CEO Aadit Palicha on raising a new $350M round, the narrative that quick commerce is hurting grocery stores, industry pay structure, and more &lpar;Moneycontrol&rpar;](http://www.techmeme.com/241122/p28#a241122p28)
  - [A UN task force proposes taxing crypto mining to raise funds for climate action and cites IMF research that says $0.045 per kWh used could raise $5.2B annually &lpar;Justine Calma/The Verge&rpar;](http://www.techmeme.com/241122/p27#a241122p27)
- - [Apple TV Plus Review: Small Library but the Quality Is Top Notch](https://www.cnet.com/tech/services-and-software/apple-tv-plus-review/#ftag=CAD590a51e)
- - [Internet Cheat Sheet: How to Shop for Internet Like a Pro](https://www.cnet.com/home/internet/interent-cheat-sheet-how-to-shop-for-internet-like-a-pro/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Apple TV Plus Review: Small Library but the Quality Is Top Notch](https://www.cnet.com/tech/services-and-software/apple-tv-plus-review/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

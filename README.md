@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Cardio before or after weight lifting: Which one is better for weight loss?](https://www.cnet.com/health/fitness/cardio-before-or-after-weights-which-is-better-for-weight-loss/#ftag=CAD590a51e)
+ - [18 Best Black Friday Deals Under $25: Top Deals on Smart Plugs, Chargers and Other Essentials](https://www.cnet.com/deals/best-black-friday-deals-under-25-2024/#ftag=CAD590a51e)
  - [A federal court allows a claim by The Intercept that DMCA prevents OpenAI from stripping a story&#39;s title or byline but throws out its claims against Microsoft &lpar;Shawn Musgrave/The Intercept&rpar;](http://www.techmeme.com/241123/p17#a241123p17)
- - [Best Internet Providers in Tyler, Texas](https://www.cnet.com/home/internet/best-internet-providers-in-tyler-tx/#ftag=CAD590a51e)
- - [Amazon Black Friday: 30-Plus Deals Across Tech, Kitchen and More](https://www.cnet.com/deals/best-amazon-black-friday-deals-2024/#ftag=CAD590a51e)
- - [Apple slashes MacBook Pro speaker repair costs](https://appleinsider.com/articles/24/11/23/apple-slashes-macbook-pro-speaker-repair-costs?utm_medium=rss)
- - [Best Dog Food Delivery Services for 2024](https://www.cnet.com/home/kitchen-and-household/best-dog-food-delivery/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Best Black Friday Mattress Deals: Save Now and Get a New Mattress Before the Holiday Guests Arrive](https://www.cnet.com/deals/best-mattress-deals/#ftag=CAD590a51e)
+ - [Best Internet Providers in Vancouver, Washington](https://www.cnet.com/home/internet/best-internet-providers-in-vancouver-wa/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Life!](http://9gag.com/gag/adB8yz2)
- - 😝 [Show me your tit-les](http://9gag.com/gag/aO876Lv)
- - 💣 [Maybe Maybe Maybe](http://9gag.com/gag/avyzb7W)
- - 😝 [Fatherly advice](http://9gag.com/gag/amovjKd)
- - 👉 [New secret](http://9gag.com/gag/aGyd33G)<!-- MEMES:END -->
+ - 😝 [Maybe Maybe Maybe](http://9gag.com/gag/avyzb7W)
+ - 😝 [You don&#39;t need to know why.](http://9gag.com/gag/an7Qqdq)
+ - 💣 [Life!](http://9gag.com/gag/adB8yz2)
+ - 😝 [A freedom captain is required, I would like to know if this real](http://9gag.com/gag/aD2dRL7)
+ - 👉 [Fatherly advice](http://9gag.com/gag/amovjKd)<!-- MEMES:END -->
 
 ---
 

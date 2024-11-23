@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [May I have the permission to touch you?](http://9gag.com/gag/aZZ0bEX)
- - 😝 [Show me your tit-les](http://9gag.com/gag/aO876Lv)
- - 💣 [Life!](http://9gag.com/gag/adB8yz2)
- - 😝 [New secret](http://9gag.com/gag/aGyd33G)
- - 👉 [Fatherly advice](http://9gag.com/gag/amovjKd)<!-- MEMES:END -->
+ - 😝 [The urge is high...](http://9gag.com/gag/an7Qqr0)
+ - 😝 [That&#39;s how money laundering works.](http://9gag.com/gag/abAV32L)
+ - 💣 [Fatherly advice](http://9gag.com/gag/amovjKd)
+ - 😝 [Ain&#39;t nobody getting past](http://9gag.com/gag/aYQojNN)
+ - 👉 [The world record that&#39;s STILL standing after 29 years](http://9gag.com/gag/a0e78OX)<!-- MEMES:END -->
 
 ---
 

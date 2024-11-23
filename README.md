@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Working out](http://9gag.com/gag/aBymDGD)
- - 😝 [Not even scared, he&#39;s natural](http://9gag.com/gag/aAybBLd)
- - 💣 [Be educated Europe because this may be a cultural heritage of Europe in very near future lmfao](http://9gag.com/gag/a4P3Mq1)
- - 😝 [Old School y better](http://9gag.com/gag/aBy29y2)
- - 👉 [Curing trust issues with love](http://9gag.com/gag/an7QeXE)<!-- MEMES:END -->
+ - 😝 [Just hanging..](http://9gag.com/gag/ayNeOmb)
+ - 😝 [Fatherly advice](http://9gag.com/gag/amovjKd)
+ - 💣 [New secret](http://9gag.com/gag/aGyd33G)
+ - 😝 [Sony has held the patent since 2009 and have never used it](http://9gag.com/gag/azxm0Vj)
+ - 👉 [My fellow Latinas, is this true?](http://9gag.com/gag/abAV3RX)<!-- MEMES:END -->
 
 ---
 

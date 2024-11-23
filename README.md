@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Working out](http://9gag.com/gag/aBymDGD)
- - 😝 [That&#39;s how bad things are](http://9gag.com/gag/aBymqv2)
- - 💣 [Old School y better](http://9gag.com/gag/aBy29y2)
- - 😝 [Be educated Europe because this may be a cultural heritage of Europe in very near future lmfao](http://9gag.com/gag/a4P3Mq1)
- - 👉 [Curing trust issues with love](http://9gag.com/gag/an7QeXE)<!-- MEMES:END -->
+ - 😝 [All advertising is good advertising. ?](http://9gag.com/gag/avyzNeX)
+ - 😝 [This is what a trillion dollars in cash would look like](http://9gag.com/gag/axy9xYn)
+ - 💣 [The right answer isn&#39;t available in this practice math placement exam](http://9gag.com/gag/axy9XxD)
+ - 😝 [Sony has held the patent since 2009 and have never used it](http://9gag.com/gag/azxm0Vj)
+ - 👉 [H.......](http://9gag.com/gag/aXPgBn6)<!-- MEMES:END -->
 
 ---
 

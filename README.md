@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Billy Connolly is an absolute God!](http://9gag.com/gag/abAG9yp)
+ - 😝 [Goku got no chill](http://9gag.com/gag/aZZyGLp)
  - 😝 [Just hanging..](http://9gag.com/gag/ayNeOmb)
- - 💣 [Like father like daughter](http://9gag.com/gag/aO83KV6)
- - 😝 [My fellow Latinas, is this true?](http://9gag.com/gag/abAV3RX)
- - 👉 [The right answer isn&#39;t available in this practice math placement exam](http://9gag.com/gag/axy9XxD)<!-- MEMES:END -->
+ - 💣 [My fellow Latinas, is this true?](http://9gag.com/gag/abAV3RX)
+ - 😝 [New secret](http://9gag.com/gag/aGyd33G)
+ - 👉 [Fatherly advice](http://9gag.com/gag/amovjKd)<!-- MEMES:END -->
 
 ---
 

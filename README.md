@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [The urge is high...](http://9gag.com/gag/an7Qqr0)
- - 😝 [That&#39;s how money laundering works.](http://9gag.com/gag/abAV32L)
- - 💣 [Fatherly advice](http://9gag.com/gag/amovjKd)
- - 😝 [Ain&#39;t nobody getting past](http://9gag.com/gag/aYQojNN)
- - 👉 [The world record that&#39;s STILL standing after 29 years](http://9gag.com/gag/a0e78OX)<!-- MEMES:END -->
+ - 😝 [He&#39;s starting to understand](http://9gag.com/gag/ayNeOMV)
+ - 😝 [The world record that&#39;s STILL standing after 29 years](http://9gag.com/gag/a0e78OX)
+ - 💣 [Show me your tit-les](http://9gag.com/gag/aO876Lv)
+ - 😝 [Fatherly advice](http://9gag.com/gag/amovjKd)
+ - 👉 [Life!](http://9gag.com/gag/adB8yz2)<!-- MEMES:END -->
 
 ---
 

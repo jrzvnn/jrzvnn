@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Hotels.com Coupons and Deals: Save Up to 30%](https://www.wired.com/story/hotels-com-coupon/)
  - [A look at the disagreements in the US government over setting up a US Cyber Force, as the Pentagon formally asked Congress to reject the proposal in September &lpar;Barbara Booth/CNBC&rpar;](http://www.techmeme.com/241123/p8#a241123p8)
  - [Total Wireless Black Friday Deals: Get 4 Free Phones](https://www.wired.com/story/total-wireless-black-friday/)
  - [KitchenAid Promo Codes: 15% Off Major Appliances](https://www.wired.com/story/exclusive-kitchenaid-promo-code/)
- - [Visible Promo Code: Up to $240 Off Plans](https://www.wired.com/story/visible-promo-code/)
- - [Analysis: Sequoia Capital marked up its 2020 flagship US VC fund, which closed at ~$808M in 2022, by 24.6% in the 12 months ended in June 2024, with no exits &lpar;Rosie Bradbury/PitchBook&rpar;](http://www.techmeme.com/241123/p7#a241123p7)<!-- TECH:END -->
+ - [Visible Promo Code: Up to $240 Off Plans](https://www.wired.com/story/visible-promo-code/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

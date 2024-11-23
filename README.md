@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Four teenage boys were arrested and sentenced to three years in prison each for harassing and attempting to undress a girl in public. Here is their families&#39; reaction to the sentence.](http://9gag.com/gag/aQzdYyr)
- - 😝 [When genius surpasses all logic](http://9gag.com/gag/aD24yXd)
- - 💣 [New secret](http://9gag.com/gag/aGyd33G)
+ - 😝 [New secret](http://9gag.com/gag/aGyd33G)
  - 😝 [He&#39;s starting to understand](http://9gag.com/gag/ayNeOMV)
- - 👉 [All advertising is good advertising. ?](http://9gag.com/gag/avyzNeX)<!-- MEMES:END -->
+ - 💣 [The world&#39;s shortest and tallest women have tea](http://9gag.com/gag/aBympVA)
+ - 😝 [My fellow Latinas, is this true?](http://9gag.com/gag/abAV3RX)
+ - 👉 [When genius surpasses all logic](http://9gag.com/gag/aD24yXd)<!-- MEMES:END -->
 
 ---
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [You’re Packing Your Carry-On All Wrong. Here’s How to Do It Right](https://www.wired.com/story/how-to-pack-a-carry-on-travel-tips/)
  - [How Trump Could Actually Increase Fossil Fuel Production](https://www.wired.com/story/trump-wants-a-big-expansion-in-fossil-fuel-production-can-he-do-that/)
  - [The 24 Best Movies on Amazon Prime Right Now &lpar;November 2024&rpar;](https://www.wired.com/story/best-amazon-prime-movies/)
  - [Premier League Soccer: Livestream Everton vs. Brentford From Anywhere](https://www.cnet.com/tech/services-and-software/premier-league-soccer-livestream-everton-vs-brentford-from-anywhere/#ftag=CAD590a51e)
- - [Premier League Soccer: Livestream Fulham vs. Wolves From Anywhere](https://www.cnet.com/tech/services-and-software/premier-league-soccer-livestream-fulham-vs-wolves-from-anywhere/#ftag=CAD590a51e)
- - [Andrew Tate’s ‘Educational Platform’ Was Hacked](https://www.wired.com/story/andrew-tate-hack-undersea-cable-cut-iphone-graykey-salt-typhoon/)<!-- TECH:END -->
+ - [Premier League Soccer: Livestream Fulham vs. Wolves From Anywhere](https://www.cnet.com/tech/services-and-software/premier-league-soccer-livestream-fulham-vs-wolves-from-anywhere/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

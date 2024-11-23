@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Best Internet Providers in St. Cloud, Florida](https://www.cnet.com/home/internet/best-internet-providers-in-st-cloud-fl/#ftag=CAD590a51e)
  - [An investigation finds several women across the US were deceived, drugged, terrorized, and sexually enslaved by sex traffickers to make money from OnlyFans &lpar;Reuters&rpar;](http://www.techmeme.com/241123/p9#a241123p9)
  - [Premier League Soccer: Livestream Leicester vs. Chelsea From Anywhere](https://www.cnet.com/tech/services-and-software/premier-league-soccer-livestream-leicester-vs-chelsea-from-anywhere/#ftag=CAD590a51e)
  - [Best Internet Providers in St. Petersburg, Florida](https://www.cnet.com/home/internet/best-internet-providers-in-st-petersburg-fl/#ftag=CAD590a51e)
- - [Best Showerhead Filters of 2024](https://www.cnet.com/health/personal-care/best-shower-filter/#ftag=CAD590a51e)
- - [Hotels.com Coupons and Deals: Save Up to 30%](https://www.wired.com/story/hotels-com-coupon/)<!-- TECH:END -->
+ - [Best Showerhead Filters of 2024](https://www.cnet.com/health/personal-care/best-shower-filter/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

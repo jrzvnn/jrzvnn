@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [New secret](http://9gag.com/gag/aGyd33G)
- - 😝 [The right answer isn&#39;t available in this practice math placement exam](http://9gag.com/gag/axy9XxD)
- - 💣 [H.......](http://9gag.com/gag/aXPgBn6)
- - 😝 [This is what a trillion dollars in cash would look like](http://9gag.com/gag/axy9xYn)
- - 👉 [All advertising is good advertising. ?](http://9gag.com/gag/avyzNeX)<!-- MEMES:END -->
+ - 😝 [Sony has held the patent since 2009 and have never used it](http://9gag.com/gag/azxm0Vj)
+ - 😝 [A freedom captain is required, I would like to know if this real](http://9gag.com/gag/aD2dRL7)
+ - 💣 [Johnny bravo](http://9gag.com/gag/aBym7WN)
+ - 😝 [Dill](http://9gag.com/gag/aE0PLMG)
+ - 👉 [Four teenage boys were arrested and sentenced to three years in prison each for harassing and attempting to undress a girl in public. Here is their families&#39; reaction to the sentence.](http://9gag.com/gag/aQzdYyr)<!-- MEMES:END -->
 
 ---
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [KitchenAid Promo Codes: 15% Off Major Appliances](https://www.wired.com/story/exclusive-kitchenaid-promo-code/)
+ - [Visible Promo Code: Up to $240 Off Plans](https://www.wired.com/story/visible-promo-code/)
+ - [Analysis: Sequoia Capital marked up its 2020 flagship US VC fund, which closed at ~$808M in 2022, by 24.6% in the 12 months ended in June 2024, with no exits &lpar;Rosie Bradbury/PitchBook&rpar;](http://www.techmeme.com/241123/p7#a241123p7)
  - [DoorDash Promo Codes and Discounts: $0 Delivery in November](https://www.wired.com/story/doordash-promo-code/)
- - [30% off Samsung Promo Codes - November 2024 Coupons](https://www.wired.com/story/samsung-promo-codes/)
- - [Jensen Huang urged global cooperation and highlighted China&#39;s contributions to AI, as he accepted an honorary doctorate degree in engineering in Hong Kong &lpar;Bloomberg&rpar;](http://www.techmeme.com/241123/p6#a241123p6)
- - [Senate Intelligence Committee Chairman Mark Warner says China-linked Salt Typhoon group listened to phone calls and read texts by hacking US telecom networks &lpar;New York Times&rpar;](http://www.techmeme.com/241123/p5#a241123p5)
- - [A Texas jury awards Netlist $118M in damages from Samsung in a patent lawsuit, after finding Samsung made and sold infringing DRAM products to customers &lpar;Blake Brittain/Reuters&rpar;](http://www.techmeme.com/241123/p4#a241123p4)<!-- TECH:END -->
+ - [30% off Samsung Promo Codes - November 2024 Coupons](https://www.wired.com/story/samsung-promo-codes/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

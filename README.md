@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Maybe Maybe Maybe](http://9gag.com/gag/avyzb7W)
- - 😝 [You don&#39;t need to know why.](http://9gag.com/gag/an7Qqdq)
+ - 😝 [Show me your tit-les](http://9gag.com/gag/aO876Lv)
+ - 😝 [Fatherly advice](http://9gag.com/gag/amovjKd)
  - 💣 [Life!](http://9gag.com/gag/adB8yz2)
- - 😝 [A freedom captain is required, I would like to know if this real](http://9gag.com/gag/aD2dRL7)
- - 👉 [Fatherly advice](http://9gag.com/gag/amovjKd)<!-- MEMES:END -->
+ - 😝 [The world record that&#39;s STILL standing after 29 years](http://9gag.com/gag/a0e78OX)
+ - 👉 [A freedom captain is required, I would like to know if this real](http://9gag.com/gag/aD2dRL7)<!-- MEMES:END -->
 
 ---
 

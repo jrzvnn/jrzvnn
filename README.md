@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Andrew Tate’s ‘Educational Platform’ Was Hacked](https://www.wired.com/story/andrew-tate-hack-undersea-cable-cut-iphone-graykey-salt-typhoon/)
- - [Best Internet Providers in St. Cloud, Florida](https://www.cnet.com/home/internet/best-internet-providers-in-st-cloud-fl/#ftag=CAD590a51e)
- - [An investigation finds several women across the US were deceived, drugged, terrorized, and sexually enslaved by sex traffickers to make money from OnlyFans &lpar;Reuters&rpar;](http://www.techmeme.com/241123/p9#a241123p9)
- - [Premier League Soccer: Livestream Leicester vs. Chelsea From Anywhere](https://www.cnet.com/tech/services-and-software/premier-league-soccer-livestream-leicester-vs-chelsea-from-anywhere/#ftag=CAD590a51e)
- - [Best Internet Providers in St. Petersburg, Florida](https://www.cnet.com/home/internet/best-internet-providers-in-st-petersburg-fl/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [How Trump Could Actually Increase Fossil Fuel Production](https://www.wired.com/story/trump-wants-a-big-expansion-in-fossil-fuel-production-can-he-do-that/)
+ - [The 24 Best Movies on Amazon Prime Right Now &lpar;November 2024&rpar;](https://www.wired.com/story/best-amazon-prime-movies/)
+ - [Premier League Soccer: Livestream Everton vs. Brentford From Anywhere](https://www.cnet.com/tech/services-and-software/premier-league-soccer-livestream-everton-vs-brentford-from-anywhere/#ftag=CAD590a51e)
+ - [Premier League Soccer: Livestream Fulham vs. Wolves From Anywhere](https://www.cnet.com/tech/services-and-software/premier-league-soccer-livestream-fulham-vs-wolves-from-anywhere/#ftag=CAD590a51e)
+ - [Andrew Tate’s ‘Educational Platform’ Was Hacked](https://www.wired.com/story/andrew-tate-hack-undersea-cable-cut-iphone-graykey-salt-typhoon/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

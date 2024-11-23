@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Sources: TikTok CEO Shou Chew, who has known Elon Musk for several years, has sought Musk&#39;s counsel in recent weeks on the incoming Trump administration &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/241123/p12#a241123p12)
+ - [14 Best Game Controllers &lpar;2024&rpar; for PC, Switch, PS5, and Xbox](https://www.wired.com/gallery/best-game-controllers/)
+ - [Black Friday deal: M3 13-inch MacBook Air for just $844 at Amazon](https://appleinsider.com/articles/24/11/22/black-friday-deal-net-an-m3-13-inch-macbook-air-for-just-844-at-amazon?utm_medium=rss)
  - [Microsoft is testing a new in-game browser](https://www.theverge.com/2024/11/23/24303988/microsoft-game-assist-browser-overlay-game-bar-pc-gaming)
- - [The iMac M4 wasn’t built for this world](https://www.theverge.com/24303351/apple-imac-m4-review-expensive-beautiful-niche)
- - [Sonos Arc Ultra Soundbar Review: Big Bar, Better App](https://www.wired.com/review/sonos-arc-ultra/)
- - [Strava&#39;s new API rules for third parties will make it harder for users across dozens of fitness apps and wearables to integrate their fitness data in one place &lpar;Victoria Song/The Verge&rpar;](http://www.techmeme.com/241123/p11#a241123p11)
- - [22 Best MagSafe Accessories &lpar;2024&rpar;, Tested and Reviewed](https://www.wired.com/gallery/best-magsafe-accessories/)<!-- TECH:END -->
+ - [Best Internet Providers in Tampa, Florida](https://www.cnet.com/home/internet/best-internet-providers-in-tampa-fl/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

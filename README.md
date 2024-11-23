@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [A federal court rejects OpenAI&#39;s effort to toss a lawsuit by The Intercept, which argued that the DMCA prevents OpenAI from stripping a story&#39;s title or byline &lpar;Shawn Musgrave/The Intercept&rpar;](http://www.techmeme.com/241123/p17#a241123p17)
  - [Apple slashes MacBook Pro speaker repair costs](https://appleinsider.com/articles/24/11/23/apple-slashes-macbook-pro-speaker-repair-costs?utm_medium=rss)
  - [Similarweb: Bluesky app usage in the US and UK grew ~300% to 3.5M DAUs after Nov. 5; Threads now has 1.5x Bluesky&#39;s DAUs in the US, down from 5x before Nov. 5 &lpar;Financial Times&rpar;](http://www.techmeme.com/241123/p16#a241123p16)
  - [Black Friday and Cyber Week Fitness and Wellness Deals That All Wellness Enthusiasts Will Love](https://www.cnet.com/health/black-friday-and-cyber-week-fitness-deals-that-all-wellness-enthusiasts-will-love/#ftag=CAD590a51e)
- - [Not Sure if Your Flight Is on Time? Use Your iPhone&#39;s Hidden Flight Tracker](https://www.cnet.com/tech/mobile/not-sure-if-your-flight-is-on-time-use-your-iphones-hidden-flight-tracker/#ftag=CAD590a51e)
- - [Best Black Friday Apple Watch Deals: Snag a Series 10, Ultra 2 and More for Less](https://www.cnet.com/deals/best-black-friday-apple-watch-deals-2024/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Not Sure if Your Flight Is on Time? Use Your iPhone&#39;s Hidden Flight Tracker](https://www.cnet.com/tech/mobile/not-sure-if-your-flight-is-on-time-use-your-iphones-hidden-flight-tracker/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

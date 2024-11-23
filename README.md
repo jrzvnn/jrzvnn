@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [That&#39;s how money laundering works.](http://9gag.com/gag/abAV32L)
  - 😝 [Just hanging..](http://9gag.com/gag/ayNeOmb)
- - 😝 [He&#39;s starting to understand](http://9gag.com/gag/ayNeOMV)
- - 💣 [Life!](http://9gag.com/gag/adB8yz2)
- - 😝 [Fatherly advice](http://9gag.com/gag/amovjKd)
- - 👉 [Four teenage boys were arrested and sentenced to three years in prison each for harassing and attempting to undress a girl in public. Here is their families&#39; reaction to the sentence.](http://9gag.com/gag/aQzdYyr)<!-- MEMES:END -->
+ - 💣 [Fatherly advice](http://9gag.com/gag/amovjKd)
+ - 😝 [The right answer isn&#39;t available in this practice math placement exam](http://9gag.com/gag/axy9XxD)
+ - 👉 [Life!](http://9gag.com/gag/adB8yz2)<!-- MEMES:END -->
 
 ---
 

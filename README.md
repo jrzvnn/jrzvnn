@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Fatherly advice](http://9gag.com/gag/amovjKd)
+ - 😝 [Life!](http://9gag.com/gag/adB8yz2)
  - 😝 [Show me your tit-les](http://9gag.com/gag/aO876Lv)
- - 💣 [Life!](http://9gag.com/gag/adB8yz2)
- - 😝 [Girl photographed her grandparents waving goodbye to her every year after the Holidays](http://9gag.com/gag/aW4jQ6A)
- - 👉 [A freedom captain is required, I would like to know if this real](http://9gag.com/gag/aD2dRL7)<!-- MEMES:END -->
+ - 💣 [Maybe Maybe Maybe](http://9gag.com/gag/avyzb7W)
+ - 😝 [Fatherly advice](http://9gag.com/gag/amovjKd)
+ - 👉 [New secret](http://9gag.com/gag/aGyd33G)<!-- MEMES:END -->
 
 ---
 

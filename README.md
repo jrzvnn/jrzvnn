@@ -166,10 +166,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Kidnapped without knowing](http://9gag.com/gag/a1mW4b6)
  - 😝 [He&#39;s starting to understand](http://9gag.com/gag/ayNeOMV)
+ - 😝 [That&#39;s how money laundering works.](http://9gag.com/gag/abAV32L)
  - 💣 [Just hanging..](http://9gag.com/gag/ayNeOmb)
- - 😝 [Sony has held the patent since 2009 and have never used it](http://9gag.com/gag/azxm0Vj)
+ - 😝 [How mortadella is made](http://9gag.com/gag/aBymD3P)
  - 👉 [Fatherly advice](http://9gag.com/gag/amovjKd)<!-- MEMES:END -->
 
 ---

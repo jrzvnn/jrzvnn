@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Microsoft is testing a new in-game browser](https://www.theverge.com/2024/11/23/24303988/microsoft-game-assist-browser-overlay-game-bar-pc-gaming)
  - [The iMac M4 wasn’t built for this world](https://www.theverge.com/24303351/apple-imac-m4-review-expensive-beautiful-niche)
  - [Sonos Arc Ultra Soundbar Review: Big Bar, Better App](https://www.wired.com/review/sonos-arc-ultra/)
  - [Strava&#39;s new API rules for third parties will make it harder for users across dozens of fitness apps and wearables to integrate their fitness data in one place &lpar;Victoria Song/The Verge&rpar;](http://www.techmeme.com/241123/p11#a241123p11)
- - [22 Best MagSafe Accessories &lpar;2024&rpar;, Tested and Reviewed](https://www.wired.com/gallery/best-magsafe-accessories/)
- - [Premier League Soccer: Livestream Man City vs. Tottenham From Anywhere](https://www.cnet.com/tech/services-and-software/premier-league-soccer-livestream-man-city-vs-tottenham-from-anywhere/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [22 Best MagSafe Accessories &lpar;2024&rpar;, Tested and Reviewed](https://www.wired.com/gallery/best-magsafe-accessories/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

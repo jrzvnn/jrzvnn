@@ -167,10 +167,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [New secret](http://9gag.com/gag/aGyd33G)
- - 😝 [Fatherly advice](http://9gag.com/gag/amovjKd)
- - 💣 [My fellow Latinas, is this true?](http://9gag.com/gag/abAV3RX)
- - 😝 [The world&#39;s shortest and tallest women have tea](http://9gag.com/gag/aBympVA)
- - 👉 [Ain&#39;t nobody getting past](http://9gag.com/gag/aYQojNN)<!-- MEMES:END -->
+ - 😝 [The right answer isn&#39;t available in this practice math placement exam](http://9gag.com/gag/axy9XxD)
+ - 💣 [H.......](http://9gag.com/gag/aXPgBn6)
+ - 😝 [This is what a trillion dollars in cash would look like](http://9gag.com/gag/axy9xYn)
+ - 👉 [All advertising is good advertising. ?](http://9gag.com/gag/avyzNeX)<!-- MEMES:END -->
 
 ---
 

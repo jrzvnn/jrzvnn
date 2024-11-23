@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [The world record that&#39;s STILL standing after 29 years](http://9gag.com/gag/a0e78OX)
- - 😝 [I have a recording of your dream](http://9gag.com/gag/aAybRzd)
- - 💣 [You don&#39;t need to know why.](http://9gag.com/gag/an7Qqdq)
  - 😝 [New secret](http://9gag.com/gag/aGyd33G)
- - 👉 [Maybe Maybe Maybe](http://9gag.com/gag/avyzb7W)<!-- MEMES:END -->
+ - 😝 [Ain&#39;t nobody getting past](http://9gag.com/gag/aYQojNN)
+ - 💣 [Maybe Maybe Maybe](http://9gag.com/gag/avyzb7W)
+ - 😝 [A freedom captain is required, I would like to know if this real](http://9gag.com/gag/aD2dRL7)
+ - 👉 [Four teenage boys were arrested and sentenced to three years in prison each for harassing and attempting to undress a girl in public. Here is their families&#39; reaction to the sentence.](http://9gag.com/gag/aQzdYyr)<!-- MEMES:END -->
 
 ---
 

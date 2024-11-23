@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Apple TV+ abandons Clooney and Pitt&#39;s &#39;Wolfs&#39; sequel](https://appleinsider.com/articles/24/11/23/apple-tv-abandons-clooney-and-pitts-wolfs-sequel?utm_medium=rss)
  - [The Best LED Face Masks to Erase Wrinkles and Acne &lpar;2024&rpar;](https://www.wired.com/story/led-face-masks-and-red-light-therapy/)
  - [ESR MagSafe chargers &amp; cases make shopping for holiday gifts easy &lpar;and they&#39;re all on sale for Black Friday&rpar;](https://appleinsider.com/articles/24/11/23/esr-magsafe-chargers-cases-make-shopping-for-holiday-gifts-easy-and-theyre-all-on-sale-for-black-friday?utm_medium=rss)
  - [Sources: TikTok CEO Shou Chew, who has known Elon Musk for several years, has sought Musk&#39;s counsel in recent weeks on the incoming Trump administration &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/241123/p12#a241123p12)
- - [14 Best Game Controllers &lpar;2024&rpar; for PC, Switch, PS5, and Xbox](https://www.wired.com/gallery/best-game-controllers/)
- - [Black Friday deal: M3 13-inch MacBook Air for just $844 at Amazon](https://appleinsider.com/articles/24/11/22/black-friday-deal-net-an-m3-13-inch-macbook-air-for-just-844-at-amazon?utm_medium=rss)<!-- TECH:END -->
+ - [14 Best Game Controllers &lpar;2024&rpar; for PC, Switch, PS5, and Xbox](https://www.wired.com/gallery/best-game-controllers/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

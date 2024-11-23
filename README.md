@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Kidnapped without knowing](http://9gag.com/gag/a1mW4b6)
+ - 😝 [Just hanging..](http://9gag.com/gag/ayNeOmb)
  - 😝 [He&#39;s starting to understand](http://9gag.com/gag/ayNeOMV)
- - 💣 [Just hanging..](http://9gag.com/gag/ayNeOmb)
+ - 💣 [Life!](http://9gag.com/gag/adB8yz2)
  - 😝 [Fatherly advice](http://9gag.com/gag/amovjKd)
- - 👉 [New secret](http://9gag.com/gag/aGyd33G)<!-- MEMES:END -->
+ - 👉 [Four teenage boys were arrested and sentenced to three years in prison each for harassing and attempting to undress a girl in public. Here is their families&#39; reaction to the sentence.](http://9gag.com/gag/aQzdYyr)<!-- MEMES:END -->
 
 ---
 

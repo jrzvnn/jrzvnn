@@ -159,9 +159,9 @@ R                        1 repo              ░░░░░░░░░░░�
 <!-- TECH:START -->
  - [Lomography Lomo&#39;Instant Wide Glass Review: The Best Instax Camera](https://www.wired.com/review/lomography-lomoinstant-wide-glass/)
  - [Profiles of Teresa Ribera, Henna Virkkunen, and Ekaterina Zaharieva, the three incoming EU commissioners in charge of key tech policy areas into 2029 &lpar;Natasha Lomas/TechCrunch&rpar;](http://www.techmeme.com/241124/p7#a241124p7)
- - [Two new tech documentaries you really need to see](https://www.theverge.com/2024/11/24/24303359/surveilled-buy-now-documentaries-tech-dune-installer)
- - [How to Remote Play PS5 While Away for the Holidays](https://www.cnet.com/tech/gaming/how-to-remote-play-ps5-while-away-for-the-holidays/#ftag=CAD590a51e)
- - [Sunday Night Football: How to Watch Eagles vs. Rams Tonight](https://www.cnet.com/tech/services-and-software/sunday-night-football-how-to-watch-eagles-vs-rams-tonight/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [You Should Add These 13 Sci-Fi Movies to Your Prime Video Watch List](https://www.cnet.com/tech/services-and-software/best-sci-fi-movies-on-prime-video-2024/#ftag=CAD590a51e)
+ - [Handle Your Floor Care Automatically With a Roomba J7 Plus, $440 Off for Black Friday](https://www.cnet.com/deals/handle-your-floor-care-automatically-with-a-roomba-j7-plus-440-off-for-black-friday/#ftag=CAD590a51e)
+ - [What&#39;s on Streaming This Week? Watch &#39;Nutcrackers,&#39; &#39;Our Little Secret&#39; and More](https://www.cnet.com/tech/services-and-software/whats-streaming-this-week-watch-nutcrackers-our-little-secret-more/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

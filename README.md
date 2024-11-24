@@ -160,8 +160,8 @@ R                        1 repo              ░░░░░░░░░░░�
  - [Thoughts on Apple TV&#39;s history and future; sources: a larger-than-usual number of features scheduled for iOS 19 have been postponed to iOS 19.4 in spring 2026 &lpar;Mark Gurman/Bloomberg&rpar;](http://www.techmeme.com/241124/p8#a241124p8)
  - [Roland Aira P-6 Sampler Review: Great Sound, Complicated Interface](https://www.wired.com/review/roland-p-6/)
  - [Siri engine to be fundamentally revamped across 2025, early 2026](https://appleinsider.com/articles/24/11/24/siri-engine-to-be-fundamentally-revamped-across-2025-early-2026?utm_medium=rss)
- - [Boox Palma 2 review: ain’t broke, not fixed](https://www.theverge.com/2024/11/24/24301379/boox-palma-2-review-e-reader-android)
- - [Lomography Lomo&#39;Instant Wide Glass Review: The Best Instax Camera](https://www.wired.com/review/lomography-lomoinstant-wide-glass/)<!-- TECH:END -->
+ - [Best Internet Providers in Youngstown, Ohio](https://www.cnet.com/home/internet/best-internet-providers-in-youngstown-oh/#ftag=CAD590a51e)
+ - [La Liga Soccer Livestream: How to Watch Leganés vs. Real Madrid From Anywhere](https://www.cnet.com/tech/services-and-software/la-liga-soccer-livestream-how-to-watch-leganes-vs-real-madrid-from-anywhere/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

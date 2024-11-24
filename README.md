@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Lego Engineering: Crossing Narrow Bridges](http://9gag.com/gag/amovD84)
+ - 😝 [Maybe Maybe Maybe](http://9gag.com/gag/avyzb7W)
+ - 😝 [Life!](http://9gag.com/gag/adB8yz2)
+ - 💣 [Bill Burr on Yoko](http://9gag.com/gag/a0e7vRZ)
  - 😝 [You don&#39;t need to know why.](http://9gag.com/gag/an7Qqdq)
- - 💣 [Old school](http://9gag.com/gag/aAybRDo)
- - 😝 [Bill Burr on Yoko](http://9gag.com/gag/a0e7vRZ)
- - 👉 [Ain&#39;t nobody getting past](http://9gag.com/gag/aYQojNN)<!-- MEMES:END -->
+ - 👉 [Master plan](http://9gag.com/gag/agmB3Yg)<!-- MEMES:END -->
 
 ---
 

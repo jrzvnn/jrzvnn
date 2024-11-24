@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [What was she thinking?](http://9gag.com/gag/a9yEMz6)
- - 😝 [The world record that&#39;s STILL standing after 29 years](http://9gag.com/gag/a0e78OX)
- - 💣 [Walk towards the light my son. You are free!](http://9gag.com/gag/a2v7z8p)
- - 😝 [X-Ray](http://9gag.com/gag/a2v7zAd)
- - 👉 [I can&#39;t even](http://9gag.com/gag/an7QXwb)<!-- MEMES:END -->
+ - 😝 [Should we ban Hamburqa](http://9gag.com/gag/a4PE9ym)
+ - 😝 [My name is Maximus Diabetus Meridias...](http://9gag.com/gag/aVv7QzP)
+ - 💣 [Wholesome posts I saved #3](http://9gag.com/gag/aKG64BZ)
+ - 😝 [Hyperrealism pure mastery](http://9gag.com/gag/abAV3A9)
+ - 👉 [Men, we are but simple creatures](http://9gag.com/gag/ajPm6Vx)<!-- MEMES:END -->
 
 ---
 

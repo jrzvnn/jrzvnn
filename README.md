@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [She is right](http://9gag.com/gag/aO8760v)
- - 😝 [Mama had to make sure her baby was okay before anything else](http://9gag.com/gag/aE0pvd9)
- - 💣 [Life!](http://9gag.com/gag/adB8yz2)
- - 😝 [Ain&#39;t nobody getting past](http://9gag.com/gag/aYQojNN)
- - 👉 [Show me your tit-les](http://9gag.com/gag/aO876Lv)<!-- MEMES:END -->
+ - 😝 [Wikipedia](http://9gag.com/gag/a2v7zX9)
+ - 😝 [A freedom captain is required, I would like to know if this real](http://9gag.com/gag/aD2dRL7)
+ - 💣 [The good days](http://9gag.com/gag/aYQoNNx)
+ - 😝 [Yup, that&#39;s her](http://9gag.com/gag/awyM0oR)
+ - 👉 [Interesting](http://9gag.com/gag/aAyeW80)<!-- MEMES:END -->
 
 ---
 

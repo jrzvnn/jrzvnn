@@ -166,7 +166,7 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Rmfao](http://9gag.com/gag/aGyp99X)
+ - 😝 [Men, we are but simple creatures](http://9gag.com/gag/ajPm6Vx)
  - 😝 [`It&#39;s my choice`](http://9gag.com/gag/a9yEdR6)
  - 💣 [This is a great PSA for...](http://9gag.com/gag/aPA3w2G)
  - 😝 [My name is Maximus Diabetus Meridias...](http://9gag.com/gag/aVv7QzP)

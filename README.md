@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The Verge’s guide to Black Friday 2024](https://www.theverge.com/24288220/black-friday-best-deals-guide-cyber-monday-tech-gadgets-2024)
- - [Q&amp;A with US Commerce Secretary Gina Raimondo on what happens to the CHIPS program under the Trump administration, the future of AI safety, and more &lpar;Steven Overly/Politico&rpar;](http://www.techmeme.com/241124/p13#a241124p13)
- - [Best Cookware Sets for 2024](https://www.cnet.com/news/best-cookware-sets/#ftag=CAD590a51e)
- - [Best Black Friday iPad Pro deals: save up to $1,000](https://appleinsider.com/articles/24/11/24/best-black-friday-ipad-pro-deals-save-up-to-1000?utm_medium=rss)
- - [The PS5 Slim Is at a Record-Low Price for Black Friday](https://www.cnet.com/deals/the-ps5-slim-is-at-a-record-low-price-for-black-friday/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Best Black Friday Apple Deals 2024: We Found Record-Low Discounts on iPhones, MacBooks, AirPods and More](https://www.cnet.com/deals/best-black-friday-apple-deals/#ftag=CAD590a51e)
+ - [Best Internet Providers in Toledo, Ohio](https://www.cnet.com/home/internet/best-internet-providers-in-toledo-oh/#ftag=CAD590a51e)
+ - [Best Internet Providers in Torrance, California](https://www.cnet.com/home/internet/best-internet-providers-in-torrance-ca/#ftag=CAD590a51e)
+ - [35-Plus Best Buy Black Friday Deals Available Now: Big Savings From Apple, Sony, Xbox and More](https://www.cnet.com/deals/best-buy-black-friday-deals/#ftag=CAD590a51e)
+ - [20 Best Black Friday Deals Under $25: Top Deals on Smart Plugs, Streaming Sticks and Other Essentials](https://www.cnet.com/deals/best-black-friday-deals-under-25-2024/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -161,7 +161,7 @@ R                        1 repo              ░░░░░░░░░░░�
  - [Boox Palma 2 review: ain’t broke, not fixed](https://www.theverge.com/2024/11/24/24301379/boox-palma-2-review-e-reader-android)
  - [Lomography Lomo&#39;Instant Wide Glass Review: The Best Instax Camera](https://www.wired.com/review/lomography-lomoinstant-wide-glass/)
  - [Profiles of Teresa Ribera, Henna Virkkunen, and Ekaterina Zaharieva, the three incoming EU commissioners in charge of key tech policy areas into 2029 &lpar;Natasha Lomas/TechCrunch&rpar;](http://www.techmeme.com/241124/p7#a241124p7)
- - [Two new tech documentaries you really need to see](https://www.theverge.com/2024/11/24/24303359/surveilled-buy-now-documentaries-tech-dune-installer)<!-- TECH:END -->
+ - [You Should Add These 13 Sci-Fi Movies to Your Prime Video Watch List](https://www.cnet.com/tech/services-and-software/best-sci-fi-movies-on-prime-video-2024/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

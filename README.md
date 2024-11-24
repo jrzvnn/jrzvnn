@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Maybe Maybe Maybe](http://9gag.com/gag/avyzb7W)
- - 😝 [Life!](http://9gag.com/gag/adB8yz2)
- - 💣 [Bill Burr on Yoko](http://9gag.com/gag/a0e7vRZ)
+ - 😝 [Clap for the kid](http://9gag.com/gag/a87ELvV)
  - 😝 [You don&#39;t need to know why.](http://9gag.com/gag/an7Qqdq)
- - 👉 [Master plan](http://9gag.com/gag/agmB3Yg)<!-- MEMES:END -->
+ - 💣 [Master plan](http://9gag.com/gag/agmB3Yg)
+ - 😝 [I have a recording of your dream](http://9gag.com/gag/aAybRzd)
+ - 👉 [Maybe Maybe Maybe](http://9gag.com/gag/avyzb7W)<!-- MEMES:END -->
 
 ---
 

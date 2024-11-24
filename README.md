@@ -167,10 +167,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [What was she thinking?](http://9gag.com/gag/a9yEMz6)
- - 😝 [Girl photographed her grandparents waving goodbye to her every year after the Holidays](http://9gag.com/gag/aW4jQ6A)
- - 💣 [What is a turnaround?](http://9gag.com/gag/a9yEMvZ)
- - 😝 [I have a recording of your dream](http://9gag.com/gag/aAybRzd)
- - 👉 [Wikipedia](http://9gag.com/gag/a2v7zX9)<!-- MEMES:END -->
+ - 😝 [The world record that&#39;s STILL standing after 29 years](http://9gag.com/gag/a0e78OX)
+ - 💣 [Walk towards the light my son. You are free!](http://9gag.com/gag/a2v7z8p)
+ - 😝 [X-Ray](http://9gag.com/gag/a2v7zAd)
+ - 👉 [I can&#39;t even](http://9gag.com/gag/an7QXwb)<!-- MEMES:END -->
 
 ---
 

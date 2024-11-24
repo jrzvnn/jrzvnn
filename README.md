@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [Wake up Europe, either wake up or lose the right to complain about such uncouth acts and clap like clowns lmfao](http://9gag.com/gag/aqyj9nY)
  - 😝 [I have a recording of your dream](http://9gag.com/gag/aAybRzd)
- - 😝 [Me: The worst she can say is no. Her:](http://9gag.com/gag/aMVKbeP)
  - 💣 [The sheer size of this quarry is incredible.](http://9gag.com/gag/apRGeY8)
- - 😝 [Master plan](http://9gag.com/gag/agmB3Yg)
- - 👉 [A freedom captain is required, I would like to know if this real](http://9gag.com/gag/aD2dRL7)<!-- MEMES:END -->
+ - 😝 [Speeding puppy](http://9gag.com/gag/aW4j0ox)
+ - 👉 [Old school](http://9gag.com/gag/aAybRDo)<!-- MEMES:END -->
 
 ---
 

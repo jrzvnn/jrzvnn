@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Mama had to make sure her baby was okay before anything else](http://9gag.com/gag/aE0pvd9)
+ - 😝 [I know what you think &lpar;second post&rpar;](http://9gag.com/gag/aqyjZxj)
  - 😝 [Hooters had an airline but ceased operations after 3 years](http://9gag.com/gag/aKG6gg6)
- - 💣 [I have a recording of your dream](http://9gag.com/gag/aAybRzd)
- - 😝 [Inmate crawled past officer to sexually assault woman in jail intake, police say](http://9gag.com/gag/aVv7Q0K)
- - 👉 [What color is your pee?](http://9gag.com/gag/abAVyZB)<!-- MEMES:END -->
+ - 💣 [What color is your pee?](http://9gag.com/gag/abAVyZB)
+ - 😝 [Breaking open a 47 lbs geode, the water inside being millions of years old](http://9gag.com/gag/a2v7YOw)
+ - 👉 [Walk towards the light my son. You are free!](http://9gag.com/gag/a2v7z8p)<!-- MEMES:END -->
 
 ---
 

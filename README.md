@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [X-Ray](http://9gag.com/gag/a2v7zAd)
- - 😝 [What color is your pee?](http://9gag.com/gag/abAVyZB)
- - 💣 [That&#39;s how money laundering works.](http://9gag.com/gag/abAV32L)
- - 😝 [Wholesome posts that I saved #6](http://9gag.com/gag/aryM4g5)
- - 👉 [Mama had to make sure her baby was okay before anything else](http://9gag.com/gag/aE0pvd9)<!-- MEMES:END -->
+ - 😝 [My name is Maximus Diabetus Meridias...](http://9gag.com/gag/aVv7QzP)
+ - 😝 [Should we ban Hamburqa](http://9gag.com/gag/a4PE9ym)
+ - 💣 [Men, we are but simple creatures](http://9gag.com/gag/ajPm6Vx)
+ - 😝 [Fat people are just fat](http://9gag.com/gag/avy5ZAO)
+ - 👉 [Stay strong, bois](http://9gag.com/gag/aVv7zKM)<!-- MEMES:END -->
 
 ---
 

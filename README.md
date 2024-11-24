@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [They are eating the swans - Cheshire UK](http://9gag.com/gag/a9yEdND)
- - 😝 [This is a great PSA for...](http://9gag.com/gag/aPA3w2G)
- - 💣 [A short and witty `would` does the trick](http://9gag.com/gag/a9yEdL1)
- - 😝 [`It&#39;s my choice`](http://9gag.com/gag/a9yEdR6)
- - 👉 [Rmfao](http://9gag.com/gag/aGyp99X)<!-- MEMES:END -->
+ - 😝 [The sheer size of this quarry is incredible.](http://9gag.com/gag/apRGeY8)
+ - 😝 [Wikipedia](http://9gag.com/gag/a2v7zX9)
+ - 💣 [New secret](http://9gag.com/gag/aGyd33G)
+ - 😝 [How mortadella is made](http://9gag.com/gag/aBymD3P)
+ - 👉 [Life!](http://9gag.com/gag/adB8yz2)<!-- MEMES:END -->
 
 ---
 

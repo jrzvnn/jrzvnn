@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Wake up Europe, either wake up or lose the right to complain about such uncouth acts and clap like clowns lmfao](http://9gag.com/gag/aqyj9nY)
+ - 😝 [What was she thinking?](http://9gag.com/gag/a9yEMz6)
+ - 😝 [Girl photographed her grandparents waving goodbye to her every year after the Holidays](http://9gag.com/gag/aW4jQ6A)
+ - 💣 [What is a turnaround?](http://9gag.com/gag/a9yEMvZ)
  - 😝 [I have a recording of your dream](http://9gag.com/gag/aAybRzd)
- - 💣 [The sheer size of this quarry is incredible.](http://9gag.com/gag/apRGeY8)
- - 😝 [Speeding puppy](http://9gag.com/gag/aW4j0ox)
- - 👉 [Old school](http://9gag.com/gag/aAybRDo)<!-- MEMES:END -->
+ - 👉 [Wikipedia](http://9gag.com/gag/a2v7zX9)<!-- MEMES:END -->
 
 ---
 

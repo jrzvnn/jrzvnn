@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Gamers who prefer playing together are fueling demand for esports hotels across China; research firm Niko Partners says China has more than 21,000 such hotels &lpar;Bloomberg&rpar;](http://www.techmeme.com/241124/p5#a241124p5)
+ - [Safely Transfer All Your Data to a New iPhone 16 From Your Old Phone](https://www.cnet.com/tech/mobile/safely-transfer-all-your-data-to-a-new-iphone-16-from-your-old-phone/#ftag=CAD590a51e)
  - [How to Create a Future of Cheap Energy for All](https://www.wired.com/story/how-to-create-a-future-of-cheap-energy-for-all/)
  - [Q&amp;A with Eric Schmidt about the DOJ&#39;s proposal for Google to sell Chrome, a new book about AI he co-authored with Craig Mundie and Henry Kissinger, and more &lpar;Michel Martin/NPR&rpar;](http://www.techmeme.com/241124/p4#a241124p4)
- - [Nike Promo Code: Extra 30% Off Select Styles](https://www.wired.com/story/nike-promo-code/)
- - [Utilities, regulators, and researchers in six countries say the power demand surge caused by AI and data centers is being met in the near-term by fossil fuels &lpar;Reuters&rpar;](http://www.techmeme.com/241124/p3#a241124p3)
- - [35+ Best Black Friday PS5 Deals: $75 Off Consoles, $250 Off PSVR 2 and More](https://www.cnet.com/deals/best-black-friday-ps5-deals-2024-11-23/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Nike Promo Code: Extra 30% Off Select Styles](https://www.wired.com/story/nike-promo-code/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

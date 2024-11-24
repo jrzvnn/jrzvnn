@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Today&#39;s NYT Connections: Sports Edition Hints and Answers for Nov. 24, #62](https://www.cnet.com/tech/gaming/todays-nyt-connections-sports-edition-hints-and-answers-for-nov-24-62/#ftag=CAD590a51e)
+ - [Australia drops plans to fine internet platforms up to 5% of their global revenue for failing to prevent the spread of misinformation online &lpar;Sam McKeith/Reuters&rpar;](http://www.techmeme.com/241123/p19#a241123p19)
+ - [Best Office Chairs of 2024](https://www.cnet.com/news/best-office-chairs/#ftag=CAD590a51e)
  - [Six months into a deal with OpenAI, Spanish bank BBVA says staff created 2,900+ GPTs and reported productivity gains, but questions ChatGPT&#39;s scalability &lpar;Isabelle Bousquette/Wall Street Journal&rpar;](http://www.techmeme.com/241123/p18#a241123p18)
- - [Microsoft pauses Windows 11 updates for PCs with some Ubisoft games installed](https://www.theverge.com/2024/11/23/24304313/microsoft-delays-windows-11-24h2-update-ubisoft-star-wars-outlaws-assassins-creed-valhalla-crashes)
- - [Best Black Friday E-Bike and Scooter Deals: Save Up to $500 on Our Favorite Rideables](https://www.cnet.com/roadshow/news/best-black-friday-ebike-scooter-deals-2024/#ftag=CAD590a51e)
- - [This Black Friday, Gift Them My Favorite RC Car and Treat Their Inner Child](https://www.cnet.com/roadshow/news/this-black-friday-gift-them-my-favorite-rc-car-and-treat-their-inner-child/#ftag=CAD590a51e)
- - [Best Black Friday Vacuum Deals: Save Hundreds Off Dyson, Tineco and More](https://www.cnet.com/deals/best-black-friday-vacuum-deals-2024/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [44 Best Advent Calendars 2024: Our Top Picks for a Holiday Countdown](https://www.cnet.com/culture/entertainment/best-advent-calendars/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

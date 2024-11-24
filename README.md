@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [You don&#39;t need to know why.](http://9gag.com/gag/an7Qqdq)
- - 😝 [The sheer size of this quarry is incredible.](http://9gag.com/gag/apRGeY8)
- - 💣 [Walk towards the light my son. You are free!](http://9gag.com/gag/a2v7z8p)
- - 😝 [Life!](http://9gag.com/gag/adB8yz2)
- - 👉 [Ain&#39;t nobody getting past](http://9gag.com/gag/aYQojNN)<!-- MEMES:END -->
+ - 😝 [Me: The worst she can say is no. Her:](http://9gag.com/gag/aMVKbeP)
+ - 😝 [How mortadella is made](http://9gag.com/gag/aBymD3P)
+ - 💣 [This is what a trillion dollars in cash would look like](http://9gag.com/gag/axy9xYn)
+ - 😝 [I have a recording of your dream](http://9gag.com/gag/aAybRzd)
+ - 👉 [If I remember correctly, she just wanted to use him as a ticket to get into the US. That&#39;s her friendship](http://9gag.com/gag/aRB75Ry)<!-- MEMES:END -->
 
 ---
 

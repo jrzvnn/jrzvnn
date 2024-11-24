@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Crime blotter: Apple Store thieves face bigger penalties in California](https://appleinsider.com/articles/24/11/24/crime-blotter-apple-store-thieves-face-bigger-penalties-in-california?utm_medium=rss)
  - [A profile of Chris Maurice, CEO of US-based stablecoin startup Yellow Card, which operates in 20 African countries and has traded $3B+ worth of crypto in 2024 &lpar;David Pan/Bloomberg&rpar;](http://www.techmeme.com/241124/p14#a241124p14)
  - [Best Black Friday Apple Deals 2024: We Found Record-Low Discounts on iPhones, MacBooks, AirPods and More](https://www.cnet.com/deals/best-black-friday-apple-deals/#ftag=CAD590a51e)
  - [Best Internet Providers in Toledo, Ohio](https://www.cnet.com/home/internet/best-internet-providers-in-toledo-oh/#ftag=CAD590a51e)
- - [Best Internet Providers in Torrance, California](https://www.cnet.com/home/internet/best-internet-providers-in-torrance-ca/#ftag=CAD590a51e)
- - [35-Plus Best Buy Black Friday Deals Available Now: Big Savings From Apple, Sony, Xbox and More](https://www.cnet.com/deals/best-buy-black-friday-deals/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Best Internet Providers in Torrance, California](https://www.cnet.com/home/internet/best-internet-providers-in-torrance-ca/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

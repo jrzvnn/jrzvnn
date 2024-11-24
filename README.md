@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Mama had to make sure her baby was okay before anything else](http://9gag.com/gag/aE0pvd9)
- - 😝 [Inmate crawled past officer to sexually assault woman in jail intake, police say](http://9gag.com/gag/aVv7Q0K)
- - 💣 [Walk towards the light my son. You are free!](http://9gag.com/gag/a2v7z8p)
  - 😝 [What color is your pee?](http://9gag.com/gag/abAVyZB)
- - 👉 [I have a recording of your dream](http://9gag.com/gag/aAybRzd)<!-- MEMES:END -->
+ - 😝 [I know what you think &lpar;second post&rpar;](http://9gag.com/gag/aqyjZxj)
+ - 💣 [Walk towards the light my son. You are free!](http://9gag.com/gag/a2v7z8p)
+ - 😝 [Inmate crawled past officer to sexually assault woman in jail intake, police say](http://9gag.com/gag/aVv7Q0K)
+ - 👉 [Old school](http://9gag.com/gag/aAybRDo)<!-- MEMES:END -->
 
 ---
 

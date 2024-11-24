@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [How researchers used AI in tandem with drones to find 303 previously uncharted Nazca Lines in Peru, almost doubling the number that had been mapped as of 2020 &lpar;Franz Lidz/New York Times&rpar;](http://www.techmeme.com/241124/p6#a241124p6)
  - [Best Internet Providers in Round Rock, Texas](https://www.cnet.com/home/internet/best-internet-providers-in-round-rock-tx/#ftag=CAD590a51e)
  - [Gamers who prefer playing together are fueling demand for esports hotels across China; research firm Niko Partners says China has more than 21,000 such hotels &lpar;Bloomberg&rpar;](http://www.techmeme.com/241124/p5#a241124p5)
  - [Leesa Original Mattress Review 2024: Legendary and Affordable Comfort](https://www.cnet.com/health/sleep/leesa-mattress-review/#ftag=CAD590a51e)
- - [Safely Transfer All Your Data to a New iPhone 16 From Your Old Phone](https://www.cnet.com/tech/mobile/safely-transfer-all-your-data-to-a-new-iphone-16-from-your-old-phone/#ftag=CAD590a51e)
- - [How to Create a Future of Cheap Energy for All](https://www.wired.com/story/how-to-create-a-future-of-cheap-energy-for-all/)<!-- TECH:END -->
+ - [Safely Transfer All Your Data to a New iPhone 16 From Your Old Phone](https://www.cnet.com/tech/mobile/safely-transfer-all-your-data-to-a-new-iphone-16-from-your-old-phone/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

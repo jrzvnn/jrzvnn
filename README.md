@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The Verge’s guide to Black Friday 2024](https://www.theverge.com/24288220/black-friday-best-deals-guide-cyber-monday-tech-gadgets-2024)
+ - [Q&amp;A with US Commerce Secretary Gina Raimondo on what happens to the CHIPS program under the Trump administration, the future of AI safety, and more &lpar;Steven Overly/Politico&rpar;](http://www.techmeme.com/241124/p13#a241124p13)
+ - [Best Black Friday iPad Pro deals: save up to $1,000](https://appleinsider.com/articles/24/11/24/best-black-friday-ipad-pro-deals-save-up-to-1000?utm_medium=rss)
  - [Here are the best Black Friday deals you can already get](https://www.theverge.com/24293826/best-early-black-friday-deals-2024-amazon-walmart-buy-target-tech-sale)
- - [Sources: Cantor Fitzgerald plans a $2B program to lend dollars to clients who put up Bitcoin as collateral and is talking with Tether about support &lpar;Bloomberg&rpar;](http://www.techmeme.com/241124/p12#a241124p12)
- - [Apple’s movie theater beef with Hollywood is getting worse](https://www.theverge.com/2024/11/24/24304621/wolfs-sequel-cancelled-apple-tv-plus-theatrical-release-jon-watts-george-clooney-brad-pitt)
- - [An overview of macro tech trends for 2025, focusing on generative AI, LLMs, scaling challenges with training ever bigger AI models, the capex surge, and more &lpar;Benedict Evans&rpar;](http://www.techmeme.com/241124/p11#a241124p11)
- - [How Tim Cook developed a personal relationship with Donald Trump, in part by zeroing in on areas of mutual interest between Apple and Trump&#39;s agenda &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/241124/p10#a241124p10)<!-- TECH:END -->
+ - [Best Internet Providers in Tallahassee, Florida](https://www.cnet.com/home/internet/best-internet-providers-in-tallahassee-fl/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

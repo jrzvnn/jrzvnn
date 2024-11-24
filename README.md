@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Found an extended version](http://9gag.com/gag/aZZ0boz)
- - 😝 [This is a great PSA for...](http://9gag.com/gag/aPA3w2G)
- - 💣 [A short and witty `would` does the trick](http://9gag.com/gag/a9yEdL1)
- - 😝 [Wholesome posts I saved #3](http://9gag.com/gag/aKG64BZ)
- - 👉 [`It&#39;s my choice`](http://9gag.com/gag/a9yEdR6)<!-- MEMES:END -->
+ - 😝 [You don&#39;t need to know why.](http://9gag.com/gag/an7Qqdq)
+ - 😝 [The sheer size of this quarry is incredible.](http://9gag.com/gag/apRGeY8)
+ - 💣 [Walk towards the light my son. You are free!](http://9gag.com/gag/a2v7z8p)
+ - 😝 [Life!](http://9gag.com/gag/adB8yz2)
+ - 👉 [Ain&#39;t nobody getting past](http://9gag.com/gag/aYQojNN)<!-- MEMES:END -->
 
 ---
 

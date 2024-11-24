@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Yes](http://9gag.com/gag/azxM7Gj)
+ - 😝 [Inmate crawled past officer to sexually assault woman in jail intake, police say](http://9gag.com/gag/aVv7Q0K)
  - 😝 [The urge is high...](http://9gag.com/gag/an7Qqr0)
- - 💣 [I can&#39;t even](http://9gag.com/gag/an7QXwb)
- - 😝 [Women don&#39;t understand. But the boys...the boys get this.](http://9gag.com/gag/a1mrvwG)
- - 👉 [Master plan](http://9gag.com/gag/agmB3Yg)<!-- MEMES:END -->
+ - 💣 [Old school](http://9gag.com/gag/aAybRDo)
+ - 😝 [Wikipedia](http://9gag.com/gag/a2v7zX9)
+ - 👉 [The world record that&#39;s STILL standing after 29 years](http://9gag.com/gag/a0e78OX)<!-- MEMES:END -->
 
 ---
 

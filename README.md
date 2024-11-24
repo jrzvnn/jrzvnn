@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Men, we are but simple creatures](http://9gag.com/gag/ajPm6Vx)
- - 😝 [Should we ban Hamburqa](http://9gag.com/gag/a4PE9ym)
- - 💣 [Fat people are just fat](http://9gag.com/gag/avy5ZAO)
- - 😝 [CPU](http://9gag.com/gag/aBy23gQ)
- - 👉 [Stay strong, bois](http://9gag.com/gag/aVv7zKM)<!-- MEMES:END -->
+ - 😝 [Clap for the kid](http://9gag.com/gag/a87ELvV)
+ - 😝 [What color is your pee?](http://9gag.com/gag/abAVyZB)
+ - 💣 [I know what you think &lpar;second post&rpar;](http://9gag.com/gag/aqyjZxj)
+ - 😝 [X-Ray](http://9gag.com/gag/a2v7zAd)
+ - 👉 [Inmate crawled past officer to sexually assault woman in jail intake, police say](http://9gag.com/gag/aVv7Q0K)<!-- MEMES:END -->
 
 ---
 

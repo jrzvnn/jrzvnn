@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Old school](http://9gag.com/gag/aAybRDo)
- - 😝 [Wikipedia](http://9gag.com/gag/a2v7zX9)
- - 💣 [Master plan](http://9gag.com/gag/agmB3Yg)
- - 😝 [The sheer size of this quarry is incredible.](http://9gag.com/gag/apRGeY8)
- - 👉 [Who&#39;s the cocksucker who disabled the GIFs?](http://9gag.com/gag/a5QEpZL)<!-- MEMES:END -->
+ - 😝 [They are eating the swans - Cheshire UK](http://9gag.com/gag/a9yEdND)
+ - 😝 [Rmfao](http://9gag.com/gag/aGyp99X)
+ - 💣 [`It&#39;s my choice`](http://9gag.com/gag/a9yEdR6)
+ - 😝 [This is a great PSA for...](http://9gag.com/gag/aPA3w2G)
+ - 👉 [My name is Maximus Diabetus Meridias...](http://9gag.com/gag/aVv7QzP)<!-- MEMES:END -->
 
 ---
 

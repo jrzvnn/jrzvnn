@@ -158,10 +158,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- TECH:START -->
  - [Customers of banking startups like Yotta describe losing savings ranging from $7,000 to $200,000+ due to Synapse&#39;s collapse, after US regulators refused to help &lpar;Hugh Son/CNBC&rpar;](http://www.techmeme.com/241123/p20#a241123p20)
+ - [Best Black Friday TV Deals: Samsung, Sony, LG and More, Starting at $70](https://www.cnet.com/deals/best-black-friday-tv-deals-2024/#ftag=CAD590a51e)
  - [Relive the &#39;90s This Black Friday with 20% Off a Street Fighter 2 Arcade Cabinet](https://www.cnet.com/deals/channel-your-inner-90s-kid-with-20-off-a-street-fighter-2-arcade-cabinet-after-prime-day/#ftag=CAD590a51e)
  - [20+ Best Black Friday Deals Under $100: Affordable Offers on TVs, Headphones, Weighted Blankets and More](https://www.cnet.com/deals/best-black-friday-deals-under-100-2024/#ftag=CAD590a51e)
- - [Today&#39;s NYT Mini Crossword Answers for Sunday, Nov. 24](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-sunday-nov-24/#ftag=CAD590a51e)
- - [Today&#39;s NYT Connections: Sports Edition Hints and Answers for Nov. 24, #62](https://www.cnet.com/tech/gaming/todays-nyt-connections-sports-edition-hints-and-answers-for-nov-24-62/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Today&#39;s NYT Mini Crossword Answers for Sunday, Nov. 24](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-sunday-nov-24/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

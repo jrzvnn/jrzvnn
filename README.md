@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [The sheer size of this quarry is incredible.](http://9gag.com/gag/apRGeY8)
- - 😝 [Wikipedia](http://9gag.com/gag/a2v7zX9)
- - 💣 [New secret](http://9gag.com/gag/aGyd33G)
- - 😝 [How mortadella is made](http://9gag.com/gag/aBymD3P)
- - 👉 [Life!](http://9gag.com/gag/adB8yz2)<!-- MEMES:END -->
+ - 😝 [She is right](http://9gag.com/gag/aO8760v)
+ - 😝 [Mama had to make sure her baby was okay before anything else](http://9gag.com/gag/aE0pvd9)
+ - 💣 [Life!](http://9gag.com/gag/adB8yz2)
+ - 😝 [Ain&#39;t nobody getting past](http://9gag.com/gag/aYQojNN)
+ - 👉 [Show me your tit-les](http://9gag.com/gag/aO876Lv)<!-- MEMES:END -->
 
 ---
 

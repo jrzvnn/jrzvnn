@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [How AI is reshaping the data-intensive field of Grand Prix racing, including helping design cars, setting F1&#39;s technical regulations, and shaping race strategy &lpar;James Allen/Financial Times&rpar;](http://www.techmeme.com/241123/p21#a241123p21)
  - [Customers of banking startups like Yotta describe losing savings ranging from $7,000 to $200,000+ due to Synapse&#39;s collapse, after US regulators refused to help &lpar;Hugh Son/CNBC&rpar;](http://www.techmeme.com/241123/p20#a241123p20)
  - [Best Black Friday TV Deals: Samsung, Sony, LG and More, Starting at $70](https://www.cnet.com/deals/best-black-friday-tv-deals-2024/#ftag=CAD590a51e)
  - [Relive the &#39;90s This Black Friday with 20% Off a Street Fighter 2 Arcade Cabinet](https://www.cnet.com/deals/channel-your-inner-90s-kid-with-20-off-a-street-fighter-2-arcade-cabinet-after-prime-day/#ftag=CAD590a51e)
- - [20+ Best Black Friday Deals Under $100: Affordable Offers on TVs, Headphones, Weighted Blankets and More](https://www.cnet.com/deals/best-black-friday-deals-under-100-2024/#ftag=CAD590a51e)
- - [Today&#39;s NYT Mini Crossword Answers for Sunday, Nov. 24](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-sunday-nov-24/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [20+ Best Black Friday Deals Under $100: Affordable Offers on TVs, Headphones, Weighted Blankets and More](https://www.cnet.com/deals/best-black-friday-deals-under-100-2024/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

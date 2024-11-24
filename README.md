@@ -159,9 +159,9 @@ R                        1 repo              ░░░░░░░░░░░�
 <!-- TECH:START -->
  - [The Verge’s guide to Black Friday 2024](https://www.theverge.com/24288220/black-friday-best-deals-guide-cyber-monday-tech-gadgets-2024)
  - [Q&amp;A with US Commerce Secretary Gina Raimondo on what happens to the CHIPS program under the Trump administration, the future of AI safety, and more &lpar;Steven Overly/Politico&rpar;](http://www.techmeme.com/241124/p13#a241124p13)
+ - [Best Cookware Sets for 2024](https://www.cnet.com/news/best-cookware-sets/#ftag=CAD590a51e)
  - [Best Black Friday iPad Pro deals: save up to $1,000](https://appleinsider.com/articles/24/11/24/best-black-friday-ipad-pro-deals-save-up-to-1000?utm_medium=rss)
- - [Here are the best Black Friday deals you can already get](https://www.theverge.com/24293826/best-early-black-friday-deals-2024-amazon-walmart-buy-target-tech-sale)
- - [Best Internet Providers in Tallahassee, Florida](https://www.cnet.com/home/internet/best-internet-providers-in-tallahassee-fl/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [The PS5 Slim Is at a Record-Low Price for Black Friday](https://www.cnet.com/deals/the-ps5-slim-is-at-a-record-low-price-for-black-friday/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

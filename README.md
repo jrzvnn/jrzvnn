@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Inmate crawled past officer to sexually assault woman in jail intake, police say](http://9gag.com/gag/aVv7Q0K)
- - 😝 [The urge is high...](http://9gag.com/gag/an7Qqr0)
- - 💣 [Old school](http://9gag.com/gag/aAybRDo)
- - 😝 [Wikipedia](http://9gag.com/gag/a2v7zX9)
- - 👉 [The world record that&#39;s STILL standing after 29 years](http://9gag.com/gag/a0e78OX)<!-- MEMES:END -->
+ - 😝 [Hyperrealism pure mastery](http://9gag.com/gag/abAV3A9)
+ - 😝 [My name is Maximus Diabetus Meridias...](http://9gag.com/gag/aVv7QzP)
+ - 💣 [Wholesome posts that I saved #6](http://9gag.com/gag/aryM4g5)
+ - 😝 [Should we ban Hamburqa](http://9gag.com/gag/a4PE9ym)
+ - 👉 [Men, we are but simple creatures](http://9gag.com/gag/ajPm6Vx)<!-- MEMES:END -->
 
 ---
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [An overview of macro tech trends for 2025, focusing on generative AI, LLMs, scaling challenges with training ever bigger AI models, the capex surge, and more &lpar;Benedict Evans&rpar;](http://www.techmeme.com/241124/p11#a241124p11)
  - [How Tim Cook developed a personal relationship with Donald Trump, in part by zeroing in on areas of mutual interest between Apple and Trump&#39;s agenda &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/241124/p10#a241124p10)
  - [AirPods Max headphones unlikely to get any further upgrades](https://appleinsider.com/articles/24/11/24/airpods-max-headphones-unlikely-to-get-any-further-upgrades?utm_medium=rss)
  - [13 Best Toiletry Bags, Tested and Reviewed &lpar;2024&rpar;](https://www.wired.com/gallery/best-toiletry-bags/)
- - [Nintendo’s terrific Switch Pro Controller is $20 off through Black Friday](https://www.theverge.com/2024/11/24/24302297/nintendo-switch-pro-controller-black-friday-2024-deal-sale)
- - [Sources: Cantor Fitzgerald agreed to invest as much as $600M in Tether for about a 5% stake in the past year; Cantor holds most of Tether&#39;s $134B in assets &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/241124/p9#a241124p9)<!-- TECH:END -->
+ - [Nintendo’s terrific Switch Pro Controller is $20 off through Black Friday](https://www.theverge.com/2024/11/24/24302297/nintendo-switch-pro-controller-black-friday-2024-deal-sale)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

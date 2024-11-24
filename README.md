@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [How Tim Cook developed a personal relationship with Donald Trump, in part by zeroing in on areas of mutual interest between Apple and Trump&#39;s agenda &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/241124/p10#a241124p10)
+ - [AirPods Max headphones unlikely to get any further upgrades](https://appleinsider.com/articles/24/11/24/airpods-max-headphones-unlikely-to-get-any-further-upgrades?utm_medium=rss)
+ - [13 Best Toiletry Bags, Tested and Reviewed &lpar;2024&rpar;](https://www.wired.com/gallery/best-toiletry-bags/)
  - [Nintendo’s terrific Switch Pro Controller is $20 off through Black Friday](https://www.theverge.com/2024/11/24/24302297/nintendo-switch-pro-controller-black-friday-2024-deal-sale)
- - [Sources: Cantor Fitzgerald agreed to invest as much as $600M in Tether for about a 5% stake in the past year; Cantor holds most of Tether&#39;s $134B in assets &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/241124/p9#a241124p9)
- - [Thoughts on Apple TV&#39;s history and future; sources: a larger-than-usual number of features scheduled for iOS 19 have been postponed to iOS 19.4 in spring 2026 &lpar;Mark Gurman/Bloomberg&rpar;](http://www.techmeme.com/241124/p8#a241124p8)
- - [Roland Aira P-6 Sampler Review: Great Sound, Complicated Interface](https://www.wired.com/review/roland-p-6/)
- - [Siri engine to be fundamentally revamped across 2025, early 2026](https://appleinsider.com/articles/24/11/24/siri-engine-to-be-fundamentally-revamped-across-2025-early-2026?utm_medium=rss)<!-- TECH:END -->
+ - [Sources: Cantor Fitzgerald agreed to invest as much as $600M in Tether for about a 5% stake in the past year; Cantor holds most of Tether&#39;s $134B in assets &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/241124/p9#a241124p9)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

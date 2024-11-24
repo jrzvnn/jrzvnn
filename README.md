@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Clap for the kid](http://9gag.com/gag/a87ELvV)
- - 😝 [You don&#39;t need to know why.](http://9gag.com/gag/an7Qqdq)
- - 💣 [Master plan](http://9gag.com/gag/agmB3Yg)
- - 😝 [I have a recording of your dream](http://9gag.com/gag/aAybRzd)
- - 👉 [Maybe Maybe Maybe](http://9gag.com/gag/avyzb7W)<!-- MEMES:END -->
+ - 😝 [My name is Maximus Diabetus Meridias...](http://9gag.com/gag/aVv7QzP)
+ - 😝 [This is a great PSA for...](http://9gag.com/gag/aPA3w2G)
+ - 💣 [`It&#39;s my choice`](http://9gag.com/gag/a9yEdR6)
+ - 😝 [Rmfao](http://9gag.com/gag/aGyp99X)
+ - 👉 [Wholesome posts I saved #3](http://9gag.com/gag/aKG64BZ)<!-- MEMES:END -->
 
 ---
 

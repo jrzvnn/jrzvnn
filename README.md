@@ -159,7 +159,7 @@ R                        1 repo              ░░░░░░░░░░░�
 <!-- TECH:START -->
  - [Shares of Japan&#39;s Fujikura, which specializes in fiber optic cables for data centers, are up 400%+ in 2024 due to the AI boom, leading the Nikkei 225 index &lpar;Aya Wagatsuma/Bloomberg&rpar;](http://www.techmeme.com/241124/p16#a241124p16)
  - [Trailers of the week: Minecraft, Elio, and Alien: Earth](https://www.theverge.com/2024/11/24/24304977/movie-trailers-mincraft-elio-alien-earth-star-wars-outlaws-wild-card-how-to-train-your-dragon)
- - [An investigation details how hack-for-hire Appin tried silencing at least 15 outlets over articles, newsletters, and podcasts covering Appin&#39;s &quot;ethical hacking&quot; &lpar;Reporters Without Borders&rpar;](http://www.techmeme.com/241124/p15#a241124p15)
+ - [Investigation: how hack-for-hire Appin tried silencing 15+ outlets since 2022 over articles, newsletters, and podcasts covering Appin&#39;s &quot;ethical hacking&quot; &lpar;Reporters Without Borders&rpar;](http://www.techmeme.com/241124/p15#a241124p15)
  - [Leesa Sapira Hybrid Mattress Review: A Comfy Combination of Coils and Foam](https://www.cnet.com/health/sleep/leesa-sapira-hybrid-mattress-review/#ftag=CAD590a51e)
  - [Best Internet Providers in Sugar Land, Texas](https://www.cnet.com/home/internet/best-internet-providers-in-sugar-land-tx/#ftag=CAD590a51e)<!-- TECH:END -->
 

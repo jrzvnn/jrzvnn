@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Inmate crawled past officer to sexually assault woman in jail intake, police say](http://9gag.com/gag/aVv7Q0K)
- - 😝 [A freedom captain is required, I would like to know if this real](http://9gag.com/gag/aD2dRL7)
- - 💣 [Old school](http://9gag.com/gag/aAybRDo)
- - 😝 [Wtf](http://9gag.com/gag/aMVKbVW)
- - 👉 [The sheer size of this quarry is incredible.](http://9gag.com/gag/apRGeY8)<!-- MEMES:END -->
+ - 😝 [Old school](http://9gag.com/gag/aAybRDo)
+ - 😝 [Wikipedia](http://9gag.com/gag/a2v7zX9)
+ - 💣 [Master plan](http://9gag.com/gag/agmB3Yg)
+ - 😝 [The sheer size of this quarry is incredible.](http://9gag.com/gag/apRGeY8)
+ - 👉 [Who&#39;s the cocksucker who disabled the GIFs?](http://9gag.com/gag/a5QEpZL)<!-- MEMES:END -->
 
 ---
 

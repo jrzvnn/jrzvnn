@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [They are eating the swans - Cheshire UK](http://9gag.com/gag/a9yEdND)
- - 😝 [Rmfao](http://9gag.com/gag/aGyp99X)
- - 💣 [`It&#39;s my choice`](http://9gag.com/gag/a9yEdR6)
- - 😝 [This is a great PSA for...](http://9gag.com/gag/aPA3w2G)
- - 👉 [My name is Maximus Diabetus Meridias...](http://9gag.com/gag/aVv7QzP)<!-- MEMES:END -->
+ - 😝 [Girl photographed her grandparents waving goodbye to her every year after the Holidays](http://9gag.com/gag/aW4jQ6A)
+ - 😝 [Wikipedia](http://9gag.com/gag/a2v7zX9)
+ - 💣 [Me: The worst she can say is no. Her:](http://9gag.com/gag/aMVKbeP)
+ - 😝 [The sheer size of this quarry is incredible.](http://9gag.com/gag/apRGeY8)
+ - 👉 [I have a recording of your dream](http://9gag.com/gag/aAybRzd)<!-- MEMES:END -->
 
 ---
 

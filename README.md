@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Today&#39;s NYT Connections: Sports Edition Hints and Answers for Nov. 24, #62](https://www.cnet.com/tech/gaming/todays-nyt-connections-sports-edition-hints-and-answers-for-nov-24-62/#ftag=CAD590a51e)
- - [Australia drops plans to fine internet platforms up to 5% of their global revenue for failing to prevent the spread of misinformation online &lpar;Sam McKeith/Reuters&rpar;](http://www.techmeme.com/241123/p19#a241123p19)
- - [Best Office Chairs of 2024](https://www.cnet.com/news/best-office-chairs/#ftag=CAD590a51e)
- - [Six months into a deal with OpenAI, Spanish bank BBVA says staff created 2,900+ GPTs and reported productivity gains, but questions ChatGPT&#39;s scalability &lpar;Isabelle Bousquette/Wall Street Journal&rpar;](http://www.techmeme.com/241123/p18#a241123p18)
- - [44 Best Advent Calendars 2024: Our Top Picks for a Holiday Countdown](https://www.cnet.com/culture/entertainment/best-advent-calendars/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Customers of banking startups like Yotta describe losing savings ranging from $7,000 to $200,000+ due to Synapse&#39;s collapse, after US regulators refused to help &lpar;Hugh Son/CNBC&rpar;](http://www.techmeme.com/241123/p20#a241123p20)
+ - [Relive the &#39;90s This Black Friday with 20% Off a Street Fighter 2 Arcade Cabinet](https://www.cnet.com/deals/channel-your-inner-90s-kid-with-20-off-a-street-fighter-2-arcade-cabinet-after-prime-day/#ftag=CAD590a51e)
+ - [20+ Best Black Friday Deals Under $100: Affordable Offers on TVs, Headphones, Weighted Blankets and More](https://www.cnet.com/deals/best-black-friday-deals-under-100-2024/#ftag=CAD590a51e)
+ - [Today&#39;s NYT Mini Crossword Answers for Sunday, Nov. 24](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-sunday-nov-24/#ftag=CAD590a51e)
+ - [Today&#39;s NYT Connections: Sports Edition Hints and Answers for Nov. 24, #62](https://www.cnet.com/tech/gaming/todays-nyt-connections-sports-edition-hints-and-answers-for-nov-24-62/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

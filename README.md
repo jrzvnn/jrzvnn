@@ -167,10 +167,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [You don&#39;t need to know why.](http://9gag.com/gag/an7Qqdq)
- - 😝 [Ain&#39;t nobody getting past](http://9gag.com/gag/aYQojNN)
- - 💣 [Old school](http://9gag.com/gag/aAybRDo)
- - 😝 [How mortadella is made](http://9gag.com/gag/aBymD3P)
- - 👉 [I have a recording of your dream](http://9gag.com/gag/aAybRzd)<!-- MEMES:END -->
+ - 😝 [Four teenage boys were arrested and sentenced to three years in prison each for harassing and attempting to undress a girl in public. Here is their families&#39; reaction to the sentence.](http://9gag.com/gag/aQzdYyr)
+ - 💣 [Master plan](http://9gag.com/gag/agmB3Yg)
+ - 😝 [Maybe Maybe Maybe](http://9gag.com/gag/avyzb7W)
+ - 👉 [Clap for the kid](http://9gag.com/gag/a87ELvV)<!-- MEMES:END -->
 
 ---
 

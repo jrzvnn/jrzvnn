@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Q&amp;A with Eric Schmidt about the DOJ&#39;s proposal for Google to sell Chrome, a new book about AI he co-authored with Craig Mundie and Henry Kissinger, and more &lpar;Michel Martin/NPR&rpar;](http://www.techmeme.com/241124/p4#a241124p4)
+ - [Nike Promo Code: Extra 30% Off Select Styles](https://www.wired.com/story/nike-promo-code/)
  - [Utilities, regulators, and researchers in six countries say the power demand surge caused by AI and data centers is being met in the near-term by fossil fuels &lpar;Reuters&rpar;](http://www.techmeme.com/241124/p3#a241124p3)
  - [Deckmatch research of ~5,000 YC-backed startups finds YC commonly accepts startups that are building similar or nearly identical products to previous YC grads &lpar;Julie Bort/TechCrunch&rpar;](http://www.techmeme.com/241124/p2#a241124p2)
- - [Huawei is targeting 100,000 applications for HarmonyOS over the next 6-12 months and currently has over 15,000 applications that can meet consumers&#39; basic needs &lpar;Reuters&rpar;](http://www.techmeme.com/241124/p1#a241124p1)
- - [How AI is reshaping the data-intensive field of Grand Prix racing, including helping design cars, setting F1&#39;s technical regulations, and shaping race strategy &lpar;James Allen/Financial Times&rpar;](http://www.techmeme.com/241123/p21#a241123p21)
- - [24 Black Friday Mattress Deals Our Experts Love](https://www.cnet.com/deals/best-black-friday-mattress-deals-2024/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Huawei is targeting 100,000 applications for HarmonyOS over the next 6-12 months and currently has over 15,000 applications that can meet consumers&#39; basic needs &lpar;Reuters&rpar;](http://www.techmeme.com/241124/p1#a241124p1)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

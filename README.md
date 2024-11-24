@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [My name is Maximus Diabetus Meridias...](http://9gag.com/gag/aVv7QzP)
- - 😝 [This is a great PSA for...](http://9gag.com/gag/aPA3w2G)
- - 💣 [`It&#39;s my choice`](http://9gag.com/gag/a9yEdR6)
- - 😝 [Rmfao](http://9gag.com/gag/aGyp99X)
- - 👉 [Wholesome posts I saved #3](http://9gag.com/gag/aKG64BZ)<!-- MEMES:END -->
+ - 😝 [You don&#39;t need to know why.](http://9gag.com/gag/an7Qqdq)
+ - 😝 [Ain&#39;t nobody getting past](http://9gag.com/gag/aYQojNN)
+ - 💣 [Old school](http://9gag.com/gag/aAybRDo)
+ - 😝 [How mortadella is made](http://9gag.com/gag/aBymD3P)
+ - 👉 [I have a recording of your dream](http://9gag.com/gag/aAybRzd)<!-- MEMES:END -->
 
 ---
 

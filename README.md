@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Wikipedia](http://9gag.com/gag/a2v7zX9)
- - 😝 [A freedom captain is required, I would like to know if this real](http://9gag.com/gag/aD2dRL7)
- - 💣 [The good days](http://9gag.com/gag/aYQoNNx)
- - 😝 [Yup, that&#39;s her](http://9gag.com/gag/awyM0oR)
- - 👉 [Interesting](http://9gag.com/gag/aAyeW80)<!-- MEMES:END -->
+ - 😝 [Lego Engineering: Crossing Narrow Bridges](http://9gag.com/gag/amovD84)
+ - 😝 [You don&#39;t need to know why.](http://9gag.com/gag/an7Qqdq)
+ - 💣 [Old school](http://9gag.com/gag/aAybRDo)
+ - 😝 [Bill Burr on Yoko](http://9gag.com/gag/a0e7vRZ)
+ - 👉 [Ain&#39;t nobody getting past](http://9gag.com/gag/aYQojNN)<!-- MEMES:END -->
 
 ---
 

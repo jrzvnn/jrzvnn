@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Deckmatch research of ~5,000 YC-backed startups finds YC commonly accepts startups that are building similar or nearly identical products to previous YC grads &lpar;Julie Bort/TechCrunch&rpar;](http://www.techmeme.com/241124/p2#a241124p2)
  - [Huawei is targeting 100,000 applications for HarmonyOS over the next 6-12 months and currently has over 15,000 applications that can meet consumers&#39; basic needs &lpar;Reuters&rpar;](http://www.techmeme.com/241124/p1#a241124p1)
  - [How AI is reshaping the data-intensive field of Grand Prix racing, including helping design cars, setting F1&#39;s technical regulations, and shaping race strategy &lpar;James Allen/Financial Times&rpar;](http://www.techmeme.com/241123/p21#a241123p21)
- - [Today&#39;s Wordle Hints, Answer and Help for Nov. 24, #1254](https://www.cnet.com/tech/gaming/todays-wordle-hints-answer-and-help-for-nov-24-1254/#ftag=CAD590a51e)
- - [Today&#39;s NYT Strands Hints, Answers and Help for Nov. 24, #266](https://www.cnet.com/tech/gaming/todays-nyt-strands-hints-answers-and-help-for-nov-24-266/#ftag=CAD590a51e)
- - [Today&#39;s NYT Connections Hints, Answers and Help for Nov. 24, #532](https://www.cnet.com/tech/gaming/todays-nyt-connections-hints-answers-and-help-for-nov-24-532/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [24 Black Friday Mattress Deals Our Experts Love](https://www.cnet.com/deals/best-black-friday-mattress-deals-2024/#ftag=CAD590a51e)
+ - [Today&#39;s Wordle Hints, Answer and Help for Nov. 24, #1254](https://www.cnet.com/tech/gaming/todays-wordle-hints-answer-and-help-for-nov-24-1254/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

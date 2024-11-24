@@ -166,10 +166,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [The world record that&#39;s STILL standing after 29 years](http://9gag.com/gag/a0e78OX)
+ - 😝 [I have a recording of your dream](http://9gag.com/gag/aAybRzd)
  - 😝 [Me: The worst she can say is no. Her:](http://9gag.com/gag/aMVKbeP)
- - 💣 [May I have the permission to touch you?](http://9gag.com/gag/aZZ0bEX)
- - 😝 [That&#39;s how money laundering works.](http://9gag.com/gag/abAV32L)
+ - 💣 [The sheer size of this quarry is incredible.](http://9gag.com/gag/apRGeY8)
+ - 😝 [Master plan](http://9gag.com/gag/agmB3Yg)
  - 👉 [A freedom captain is required, I would like to know if this real](http://9gag.com/gag/aD2dRL7)<!-- MEMES:END -->
 
 ---

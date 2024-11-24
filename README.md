@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Hooters had an airline but ceased operations after 3 years](http://9gag.com/gag/aKG6gg6)
- - 😝 [What color is your pee?](http://9gag.com/gag/abAVyZB)
- - 💣 [Inmate crawled past officer to sexually assault woman in jail intake, police say](http://9gag.com/gag/aVv7Q0K)
- - 😝 [Yup, that&#39;s her](http://9gag.com/gag/awyM0oR)
- - 👉 [I know what you think &lpar;second post&rpar;](http://9gag.com/gag/aqyjZxj)<!-- MEMES:END -->
+ - 😝 [Rush boys 5](http://9gag.com/gag/ae9A0Wj)
+ - 😝 [Mama had to make sure her baby was okay before anything else](http://9gag.com/gag/aE0pvd9)
+ - 💣 [I can&#39;t even](http://9gag.com/gag/an7QXwb)
+ - 😝 [Old school](http://9gag.com/gag/aAybRDo)
+ - 👉 [Inmate crawled past officer to sexually assault woman in jail intake, police say](http://9gag.com/gag/aVv7Q0K)<!-- MEMES:END -->
 
 ---
 

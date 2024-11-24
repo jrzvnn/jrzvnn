@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Lomography Lomo&#39;Instant Wide Glass Review: The Best Instax Camera](https://www.wired.com/review/lomography-lomoinstant-wide-glass/)
  - [Profiles of Teresa Ribera, Henna Virkkunen, and Ekaterina Zaharieva, the three incoming EU commissioners in charge of key tech policy areas into 2029 &lpar;Natasha Lomas/TechCrunch&rpar;](http://www.techmeme.com/241124/p7#a241124p7)
  - [Two new tech documentaries you really need to see](https://www.theverge.com/2024/11/24/24303359/surveilled-buy-now-documentaries-tech-dune-installer)
  - [How to Remote Play PS5 While Away for the Holidays](https://www.cnet.com/tech/gaming/how-to-remote-play-ps5-while-away-for-the-holidays/#ftag=CAD590a51e)
- - [Sunday Night Football: How to Watch Eagles vs. Rams Tonight](https://www.cnet.com/tech/services-and-software/sunday-night-football-how-to-watch-eagles-vs-rams-tonight/#ftag=CAD590a51e)
- - [Give Your iPhone Messages a Security Boost With These 4 Easy Steps](https://www.cnet.com/tech/services-and-software/give-your-iphone-messages-a-security-boost-with-these-4-easy-steps/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Sunday Night Football: How to Watch Eagles vs. Rams Tonight](https://www.cnet.com/tech/services-and-software/sunday-night-football-how-to-watch-eagles-vs-rams-tonight/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

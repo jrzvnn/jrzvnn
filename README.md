@@ -166,10 +166,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Girl photographed her grandparents waving goodbye to her every year after the Holidays](http://9gag.com/gag/aW4jQ6A)
- - 😝 [Wikipedia](http://9gag.com/gag/a2v7zX9)
- - 💣 [Me: The worst she can say is no. Her:](http://9gag.com/gag/aMVKbeP)
- - 😝 [The sheer size of this quarry is incredible.](http://9gag.com/gag/apRGeY8)
+ - 😝 [Me: The worst she can say is no. Her:](http://9gag.com/gag/aMVKbeP)
+ - 😝 [A freedom captain is required, I would like to know if this real](http://9gag.com/gag/aD2dRL7)
+ - 💣 [Master plan](http://9gag.com/gag/agmB3Yg)
+ - 😝 [May I have the permission to touch you?](http://9gag.com/gag/aZZ0bEX)
  - 👉 [I have a recording of your dream](http://9gag.com/gag/aAybRzd)<!-- MEMES:END -->
 
 ---

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Me: The worst she can say is no. Her:](http://9gag.com/gag/aMVKbeP)
- - 😝 [How mortadella is made](http://9gag.com/gag/aBymD3P)
- - 💣 [This is what a trillion dollars in cash would look like](http://9gag.com/gag/axy9xYn)
- - 😝 [I have a recording of your dream](http://9gag.com/gag/aAybRzd)
- - 👉 [If I remember correctly, she just wanted to use him as a ticket to get into the US. That&#39;s her friendship](http://9gag.com/gag/aRB75Ry)<!-- MEMES:END -->
+ - 😝 [They are eating the swans - Cheshire UK](http://9gag.com/gag/a9yEdND)
+ - 😝 [This is a great PSA for...](http://9gag.com/gag/aPA3w2G)
+ - 💣 [A short and witty `would` does the trick](http://9gag.com/gag/a9yEdL1)
+ - 😝 [`It&#39;s my choice`](http://9gag.com/gag/a9yEdR6)
+ - 👉 [Rmfao](http://9gag.com/gag/aGyp99X)<!-- MEMES:END -->
 
 ---
 

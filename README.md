@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Should we ban Hamburqa](http://9gag.com/gag/a4PE9ym)
- - 😝 [My name is Maximus Diabetus Meridias...](http://9gag.com/gag/aVv7QzP)
- - 💣 [Wholesome posts I saved #3](http://9gag.com/gag/aKG64BZ)
- - 😝 [Hyperrealism pure mastery](http://9gag.com/gag/abAV3A9)
- - 👉 [Men, we are but simple creatures](http://9gag.com/gag/ajPm6Vx)<!-- MEMES:END -->
+ - 😝 [Yes](http://9gag.com/gag/azxM7Gj)
+ - 😝 [The urge is high...](http://9gag.com/gag/an7Qqr0)
+ - 💣 [I can&#39;t even](http://9gag.com/gag/an7QXwb)
+ - 😝 [Women don&#39;t understand. But the boys...the boys get this.](http://9gag.com/gag/a1mrvwG)
+ - 👉 [Master plan](http://9gag.com/gag/agmB3Yg)<!-- MEMES:END -->
 
 ---
 

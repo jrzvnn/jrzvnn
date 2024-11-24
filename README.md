@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [You don&#39;t need to know why.](http://9gag.com/gag/an7Qqdq)
- - 😝 [Four teenage boys were arrested and sentenced to three years in prison each for harassing and attempting to undress a girl in public. Here is their families&#39; reaction to the sentence.](http://9gag.com/gag/aQzdYyr)
- - 💣 [Master plan](http://9gag.com/gag/agmB3Yg)
- - 😝 [Maybe Maybe Maybe](http://9gag.com/gag/avyzb7W)
- - 👉 [Clap for the kid](http://9gag.com/gag/a87ELvV)<!-- MEMES:END -->
+ - 😝 [Inmate crawled past officer to sexually assault woman in jail intake, police say](http://9gag.com/gag/aVv7Q0K)
+ - 😝 [A freedom captain is required, I would like to know if this real](http://9gag.com/gag/aD2dRL7)
+ - 💣 [Old school](http://9gag.com/gag/aAybRDo)
+ - 😝 [Wtf](http://9gag.com/gag/aMVKbVW)
+ - 👉 [The sheer size of this quarry is incredible.](http://9gag.com/gag/apRGeY8)<!-- MEMES:END -->
 
 ---
 

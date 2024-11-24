@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [May I have the permission to touch you?](http://9gag.com/gag/aZZ0bEX)
- - 😝 [Inmate crawled past officer to sexually assault woman in jail intake, police say](http://9gag.com/gag/aVv7Q0K)
- - 💣 [Man catches bird in flight with bare hands](http://9gag.com/gag/aQzoqnK)
- - 😝 [A 74-year-old woman from Arizona broke her nose during a hike and was airlifted by rescuers. However, the stretcher spun uncontrollably at nearly 200 rotations per minute, resembling astronaut training. She later filed a $2M lawsuit and settled for $450K.](http://9gag.com/gag/awyMrR8)
- - 👉 [Mama had to make sure her baby was okay before anything else](http://9gag.com/gag/aE0pvd9)<!-- MEMES:END -->
+ - 😝 [Clap for the kid](http://9gag.com/gag/a87ELvV)
+ - 😝 [X-Ray](http://9gag.com/gag/a2v7zAd)
+ - 💣 [A 74-year-old woman from Arizona broke her nose during a hike and was airlifted by rescuers. However, the stretcher spun uncontrollably at nearly 200 rotations per minute, resembling astronaut training. She later filed a $2M lawsuit and settled for $450K.](http://9gag.com/gag/awyMrR8)
+ - 😝 [What color is your pee?](http://9gag.com/gag/abAVyZB)
+ - 👉 [I can&#39;t even](http://9gag.com/gag/an7QXwb)<!-- MEMES:END -->
 
 ---
 

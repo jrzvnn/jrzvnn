@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Wholesome posts that I saved #6](http://9gag.com/gag/aryM4g5)
- - 😝 [A freedom captain is required, I would like to know if this real](http://9gag.com/gag/aD2dRL7)
- - 💣 [They are eating the swans - Cheshire UK](http://9gag.com/gag/a9yEdND)
- - 😝 [Walk towards the light my son. You are free!](http://9gag.com/gag/a2v7z8p)
- - 👉 [What color is your pee?](http://9gag.com/gag/abAVyZB)<!-- MEMES:END -->
+ - 😝 [Mama had to make sure her baby was okay before anything else](http://9gag.com/gag/aE0pvd9)
+ - 😝 [Inmate crawled past officer to sexually assault woman in jail intake, police say](http://9gag.com/gag/aVv7Q0K)
+ - 💣 [Walk towards the light my son. You are free!](http://9gag.com/gag/a2v7z8p)
+ - 😝 [What color is your pee?](http://9gag.com/gag/abAVyZB)
+ - 👉 [I have a recording of your dream](http://9gag.com/gag/aAybRzd)<!-- MEMES:END -->
 
 ---
 

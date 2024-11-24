@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Two new tech documentaries you really need to see](https://www.theverge.com/2024/11/24/24303359/surveilled-buy-now-documentaries-tech-dune-installer)
  - [The 6 Best Apps to Find Bars and Restaurants While Traveling](https://www.wired.com/story/the-6-best-apps-to-find-bars-and-restaurants-while-traveling/)
  - [Mathematicians Just Debunked the ‘Bunkbed Conjecture’](https://www.wired.com/story/maths-bunkbed-conjecture-has-been-debunked/)
  - [Snap&#39;s AR Spectacles Aren&#39;t as Fancy as Meta&#39;s Orion—but at Least You Can Get Them](https://www.wired.com/story/snap-spectacles-2024-hands-on/)
- - [How researchers used AI in tandem with drones to find 303 previously uncharted Nazca Lines in Peru, almost doubling the number that had been mapped as of 2020 &lpar;Franz Lidz/New York Times&rpar;](http://www.techmeme.com/241124/p6#a241124p6)
- - [Here&#39;s What a Light Sleeper Thought of the High-Tech Manta Sound Sleep Mask](https://www.cnet.com/health/sleep/can-the-manta-sound-sleep-mask-improve-your-rest-i-tested-it-to-find-out/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [How researchers used AI in tandem with drones to find 303 previously uncharted Nazca Lines in Peru, almost doubling the number that had been mapped as of 2020 &lpar;Franz Lidz/New York Times&rpar;](http://www.techmeme.com/241124/p6#a241124p6)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

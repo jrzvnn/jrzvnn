@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Old school](http://9gag.com/gag/aAybRDo)
- - 😝 [What color is your pee?](http://9gag.com/gag/abAVyZB)
+ - 😝 [Wholesome posts that I saved #6](http://9gag.com/gag/aryM4g5)
+ - 😝 [A freedom captain is required, I would like to know if this real](http://9gag.com/gag/aD2dRL7)
  - 💣 [They are eating the swans - Cheshire UK](http://9gag.com/gag/a9yEdND)
- - 😝 [I have a recording of your dream](http://9gag.com/gag/aAybRzd)
- - 👉 [X-Ray](http://9gag.com/gag/a2v7zAd)<!-- MEMES:END -->
+ - 😝 [Walk towards the light my son. You are free!](http://9gag.com/gag/a2v7z8p)
+ - 👉 [What color is your pee?](http://9gag.com/gag/abAVyZB)<!-- MEMES:END -->
 
 ---
 

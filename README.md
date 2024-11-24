@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Clap for the kid](http://9gag.com/gag/a87ELvV)
- - 😝 [X-Ray](http://9gag.com/gag/a2v7zAd)
- - 💣 [A 74-year-old woman from Arizona broke her nose during a hike and was airlifted by rescuers. However, the stretcher spun uncontrollably at nearly 200 rotations per minute, resembling astronaut training. She later filed a $2M lawsuit and settled for $450K.](http://9gag.com/gag/awyMrR8)
- - 😝 [What color is your pee?](http://9gag.com/gag/abAVyZB)
- - 👉 [I can&#39;t even](http://9gag.com/gag/an7QXwb)<!-- MEMES:END -->
+ - 😝 [Men, we are but simple creatures](http://9gag.com/gag/ajPm6Vx)
+ - 😝 [Should we ban Hamburqa](http://9gag.com/gag/a4PE9ym)
+ - 💣 [Fat people are just fat](http://9gag.com/gag/avy5ZAO)
+ - 😝 [CPU](http://9gag.com/gag/aBy23gQ)
+ - 👉 [Stay strong, bois](http://9gag.com/gag/aVv7zKM)<!-- MEMES:END -->
 
 ---
 

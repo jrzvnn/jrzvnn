@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Women don&#39;t understand. But the boys...the boys get this.](http://9gag.com/gag/a1mrvwG)
- - 😝 [Inmate crawled past officer to sexually assault woman in jail intake, police say](http://9gag.com/gag/aVv7Q0K)
- - 💣 [Walk towards the light my son. You are free!](http://9gag.com/gag/a2v7z8p)
- - 😝 [I can&#39;t even](http://9gag.com/gag/an7QXwb)
- - 👉 [Breaking open a 47 lbs geode, the water inside being millions of years old](http://9gag.com/gag/a2v7YOw)<!-- MEMES:END -->
+ - 😝 [Powerful victim](http://9gag.com/gag/axyMGvp)
+ - 😝 [High technology!](http://9gag.com/gag/ayNMnNX)
+ - 💣 [I can&#39;t even](http://9gag.com/gag/an7QXwb)
+ - 😝 [Speeding puppy](http://9gag.com/gag/aW4j0ox)
+ - 👉 [This is so beautiful, I love her smile](http://9gag.com/gag/aD2dmrO)<!-- MEMES:END -->
 
 ---
 

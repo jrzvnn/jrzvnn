@@ -160,8 +160,8 @@ R                        1 repo              ░░░░░░░░░░░�
  - [Drake says UMG and Spotify used bots and payola to make ‘Not Like Us’ seem popular](https://www.theverge.com/2024/11/25/24305959/drake-kendrick-umg-spotify-not-like-us-legal-action)
  - [Google and the DOJ make their final arguments in the ad tech monopoly case](https://www.theverge.com/2024/11/25/24305748/google-doj-ad-tech-monopoly-closing-arguments)
  - [Google is &#39;three times a monopolist&#39; says DOJ in anti-trust lawsuit](https://appleinsider.com/articles/24/11/25/google-is-three-times-a-monopolist-says-doj-in-anti-trust-lawsuit?utm_medium=rss)
- - [Neuralink Plans to Test Whether Its Brain Implant Can Control a Robotic Arm](https://www.wired.com/story/neuralink-robotic-arm-controlled-by-mind/)
- - [Google is inserting search links into webpages in the Google App now](https://www.theverge.com/2024/11/25/24305922/google-app-ios-inserting-search-links-websites)<!-- TECH:END -->
+ - [Best Christmas Gifts 2024: 64 Ideas to Clear Your Holiday List](https://www.cnet.com/tech/best-christmas-gift-ideas/#ftag=CAD590a51e)
+ - [EcoFlow&#39;s Rapid Wireless Power Bank Is at a New Low Price, but Only for the Next 10 Hours](https://www.cnet.com/deals/ecoflows-rapid-wireless-power-bank-is-at-a-new-low-price-but-only-for-the-next-10-hours/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

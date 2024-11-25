@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [India&#39;s action movie Don 360 movie behind the scenes.](http://9gag.com/gag/aGypwgX)
+ - 😝 [Bruise Lee.](http://9gag.com/gag/a9yEPZZ)
  - 😝 [Man uses a 100,000 lumen flashlight to escape from the cops](http://9gag.com/gag/azxMjdq)
  - 💣 [Breaking open a 47 lbs geode, the water inside being millions of years old](http://9gag.com/gag/a2v7YOw)
- - 😝 [Inmate crawled past officer to sexually assault woman in jail intake, police say](http://9gag.com/gag/aVv7Q0K)
- - 👉 [A 74-year-old woman from Arizona broke her nose during a hike and was airlifted by rescuers. However, the stretcher spun uncontrollably at nearly 200 rotations per minute, resembling astronaut training. She later filed a $2M lawsuit and settled for $450K.](http://9gag.com/gag/awyMrR8)<!-- MEMES:END -->
+ - 😝 [A defense mechanism against Drake](http://9gag.com/gag/a4PELWp)
+ - 👉 [India&#39;s action movie Don 360 movie behind the scenes.](http://9gag.com/gag/aGypwgX)<!-- MEMES:END -->
 
 ---
 

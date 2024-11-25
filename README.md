@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Nab the Keurig K-Mini Coffee Maker for 51% off This Black Friday at Amazon](https://www.cnet.com/deals/nab-the-keurig-k-mini-coffee-maker-for-51-off-this-black-friday-at-amazon/#ftag=CAD590a51e)
+ - [Do These 10 Things With Your Money Before the Year Is Over](https://www.cnet.com/personal-finance/banking/make-these-10-money-moves-before-the-year-ends/#ftag=CAD590a51e)
  - [Arc&#39;s revolutionary bumper iPhone 16 case is 15% off for Black Friday](https://appleinsider.com/articles/24/11/25/arcs-revolutionary-bumper-iphone-16-case-is-15-off-for-black-friday?utm_medium=rss)
- - [Threads begins testing an option to set For You, Following, or a custom feed as the default feed, another improvement seemingly sparked by Bluesky competition &lpar;Chris Welch/The Verge&rpar;](http://www.techmeme.com/241125/p21#a241125p21)
- - [iPhone 17 ‘Slim’ rumors are still floating around](https://www.theverge.com/2024/11/25/24305670/iphone-17-slim-rumors-sim-card-battery-problems)
- - [Dr Disrespect veers right into Rumble](https://www.theverge.com/2024/11/25/24305606/dr-disrespect-rumble-streaming-youtube-twitch)
- - [iPhone 17 Slim too thin for SIM tray, may not have mmWave](https://appleinsider.com/articles/24/11/25/iphone-17-slims-too-thin-for-sim-tray-may-not-have-mmwave?utm_medium=rss)<!-- TECH:END -->
+ - [This Reverse Umbrella Solves All Your Problems and It’s Only $18 for Black Friday](https://www.cnet.com/deals/this-reverse-umbrella-solves-all-your-problems-and-its-only-18-for-black-friday/#ftag=CAD590a51e)
+ - [Threads begins testing an option to set For You, Following, or a custom feed as the default feed, another improvement seemingly sparked by Bluesky competition &lpar;Chris Welch/The Verge&rpar;](http://www.techmeme.com/241125/p21#a241125p21)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

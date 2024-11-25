@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The US DOJ and Google made their closing arguments in the ad-market antitrust case before Judge Leonie Brinkema, who expressed some skepticism toward both sides &lpar;Washington Post&rpar;](http://www.techmeme.com/241125/p23#a241125p23)
+ - [Elon Musk appears to confirm that posts containing links in their main text are deprioritized on X, saying it is to stop &quot;lazy linking&quot; &lpar;David Gilmour/Mediaite&rpar;](http://www.techmeme.com/241125/p22#a241125p22)
  - [Does Cloud Gaming on PlayStation Portal Mark the End for Consoles?](https://www.wired.com/story/does-cloud-gaming-on-playstation-portal-mark-the-end-for-consoles/)
  - [Nab the Keurig K-Mini Coffee Maker for 51% off This Black Friday at Amazon](https://www.cnet.com/deals/nab-the-keurig-k-mini-coffee-maker-for-51-off-this-black-friday-at-amazon/#ftag=CAD590a51e)
- - [Do These 10 Things With Your Money Before the Year Is Over](https://www.cnet.com/personal-finance/banking/make-these-10-money-moves-before-the-year-ends/#ftag=CAD590a51e)
- - [Arc&#39;s revolutionary bumper iPhone 16 case is 15% off for Black Friday](https://appleinsider.com/articles/24/11/25/arcs-revolutionary-bumper-iphone-16-case-is-15-off-for-black-friday?utm_medium=rss)
- - [This Reverse Umbrella Solves All Your Problems and It’s Only $18 for Black Friday](https://www.cnet.com/deals/this-reverse-umbrella-solves-all-your-problems-and-its-only-18-for-black-friday/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Do These 10 Things With Your Money Before the Year Is Over](https://www.cnet.com/personal-finance/banking/make-these-10-money-moves-before-the-year-ends/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

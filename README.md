@@ -167,10 +167,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [Rush boys 5](http://9gag.com/gag/ae9A0Wj)
- - 😝 [Bruise Lee.](http://9gag.com/gag/a9yEPZZ)
- - 💣 [A romantic interlude.](http://9gag.com/gag/a4PEL01)
- - 😝 [A 74-year-old woman from Arizona broke her nose during a hike and was airlifted by rescuers. However, the stretcher spun uncontrollably at nearly 200 rotations per minute, resembling astronaut training. She later filed a $2M lawsuit and settled for $450K.](http://9gag.com/gag/awyMrR8)
- - 👉 [No more than unbabatabletomato](http://9gag.com/gag/ae9Apgm)<!-- MEMES:END -->
+ - 😝 [Breaking open a 47 lbs geode, the water inside being millions of years old](http://9gag.com/gag/a2v7YOw)
+ - 💣 [Inmate crawled past officer to sexually assault woman in jail intake, police say](http://9gag.com/gag/aVv7Q0K)
+ - 😝 [A romantic interlude.](http://9gag.com/gag/a4PEL01)
+ - 👉 [High technology!](http://9gag.com/gag/ayNMnNX)<!-- MEMES:END -->
 
 ---
 

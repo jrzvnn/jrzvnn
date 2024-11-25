@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Sources: Intel, the biggest recipient of money under the CHIPS Act, will see its funding drop to less than $8B from the $8.5B that was announced earlier in 2024 &lpar;New York Times&rpar;](http://www.techmeme.com/241124/p19#a241124p19)
+ - [A look at the shortcomings of Google&#39;s Tensor SoC for Pixel devices, with four generations failing to impress in key performance and power efficiency metrics &lpar;Robert Triggs/Android Authority&rpar;](http://www.techmeme.com/241124/p18#a241124p18)
+ - [Today&#39;s NYT Connections: Sports Edition Hints and Answers for Nov. 25, #63](https://www.cnet.com/tech/gaming/todays-nyt-connections-sports-edition-hints-and-answers-for-nov-25-63/#ftag=CAD590a51e)
  - [Black Friday sale: M4 Max MacBook Pro 16-inch with 64GB RAM, 40C GPU plunges to $3,879](https://appleinsider.com/articles/24/11/25/black-friday-sale-m4-max-macbook-pro-16-inch-with-64gb-ram-40c-gpu-plunges-to-3879?utm_medium=rss)
- - [Sources: Marc Andreessen, Travis Kalanick, and others are involved in Department of Government Efficiency; Andreessen is acting as a networker for recruitment &lpar;Washington Post&rpar;](http://www.techmeme.com/241124/p17#a241124p17)
- - [My Shelfy Smart Fridge Device Surprised Me in a Good Way, and It&#39;s 35% Off Right Now](https://www.cnet.com/deals/my-shelfy-smart-fridge-device-surprised-me-in-a-good-way-and-its-35-off-right-now/#ftag=CAD590a51e)
- - [Traveling For The Holidays? How to Use Google Flights to Buy Cheap Plane Tickets](https://www.cnet.com/personal-finance/traveling-for-the-holidays-how-to-use-google-flights-to-buy-cheap-plane-tickets/#ftag=CAD590a51e)
- - [Shares of Japan&#39;s Fujikura, which specializes in fiber optic cables for data centers, are up 400%+ in 2024 due to the AI boom, leading the Nikkei 225 index &lpar;Aya Wagatsuma/Bloomberg&rpar;](http://www.techmeme.com/241124/p16#a241124p16)<!-- TECH:END -->
+ - [17 Best Black Friday Deals on Bedding for Your Holiday Shopping](https://www.cnet.com/deals/best-black-friday-bedding-deals-2024/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

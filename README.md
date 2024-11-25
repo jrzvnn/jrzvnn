@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Nvidia unveils Fugatto, a new AI model for generating music and audio that can modify voices and make novel sounds, trained on open-source data &lpar;Stephen Nellis/Reuters&rpar;](http://www.techmeme.com/241125/p14#a241125p14)
- - [Indian regulators keep pushing antitrust report forward, despite Apple&#39;s hold request](https://appleinsider.com/articles/24/11/25/indian-regulators-keep-pushing-antitrust-report-forward-despite-apples-hold-request?utm_medium=rss)
- - [Build your next PC like it’s 1999](https://www.theverge.com/2024/11/25/24305435/silverstone-japan-pc-case-beige-flp01)
- - [Apple names 45 finalists for 2024 App Store Awards](https://appleinsider.com/articles/24/11/25/apple-names-45-finalists-for-2024-app-store-awards?utm_medium=rss)
- - [CSA head Tobin Richardson discusses the future of Matter on HomeKit Insider](https://appleinsider.com/articles/24/11/25/csa-head-tobin-richardson-discusses-the-future-of-matter-on-homekit-insider?utm_medium=rss)<!-- TECH:END -->
+ - [The Chao Garden lives in Sonic 3’s new trailer](https://www.theverge.com/2024/11/25/24305474/sonic-3-trailer-chao-garden-detective-pikachu)
+ - [California is ready to pick a fight with Trump if he kills the federal EV tax credit](https://www.theverge.com/2024/11/25/24305487/california-is-ready-to-pick-a-fight-with-trump-if-he-kills-the-federal-ev-tax-credit)
+ - [Tel Aviv-based Appcharge, which helps publishers build websites to sell gaming currencies and other virtual goods, raised a $26M Series A at a $100M valuation &lpar;Ingrid Lunden/TechCrunch&rpar;](http://www.techmeme.com/241125/p15#a241125p15)
+ - [Best Black Friday Amazon deals: $100 off M4 Mac mini, $250 off MacBook, $169 Apple Watch](https://appleinsider.com/articles/24/11/21/best-black-friday-amazon-deals-100-off-m4-mac-mini-250-off-macbook-189-apple-watch?utm_medium=rss)
+ - [Nvidia unveils Fugatto, an AI model for generating music and audio that can also modify voices, trained on open-source data, and weighs whether to release it &lpar;Stephen Nellis/Reuters&rpar;](http://www.techmeme.com/241125/p14#a241125p14)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

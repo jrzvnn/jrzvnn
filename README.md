@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [It&#39;s true](http://9gag.com/gag/a4PEYGQ)
- - 😝 [Made me laugh, posted it here](http://9gag.com/gag/aRBXA6y)
- - 💣 [Hey as long as it works](http://9gag.com/gag/aLnpBeW)
- - 😝 [This is so beautiful, I love her smile](http://9gag.com/gag/aD2dmrO)
- - 👉 [Reposted because i am curious](http://9gag.com/gag/aoyM0p3)<!-- MEMES:END -->
+ - 😝 [Rush boys 5](http://9gag.com/gag/ae9A0Wj)
+ - 😝 [Bruise Lee.](http://9gag.com/gag/a9yEPZZ)
+ - 💣 [A romantic interlude.](http://9gag.com/gag/a4PEL01)
+ - 😝 [A 74-year-old woman from Arizona broke her nose during a hike and was airlifted by rescuers. However, the stretcher spun uncontrollably at nearly 200 rotations per minute, resembling astronaut training. She later filed a $2M lawsuit and settled for $450K.](http://9gag.com/gag/awyMrR8)
+ - 👉 [No more than unbabatabletomato](http://9gag.com/gag/ae9Apgm)<!-- MEMES:END -->
 
 ---
 

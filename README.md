@@ -158,10 +158,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- TECH:START -->
  - [A bitcoin strategic reserve is a resilience strategy for the &quot;hodlers&quot;, not the US state, as a bet on bitcoin is bullish on permanent institutional collapse &lpar;Brendan Greeley/Financial Times&rpar;](http://www.techmeme.com/241125/p1#a241125p1)
- - [Sources: Intel, the biggest recipient of money under the CHIPS Act, will see its funding drop to less than $8B from the $8.5B that was announced earlier in 2024 &lpar;New York Times&rpar;](http://www.techmeme.com/241124/p19#a241124p19)
- - [A look at the shortcomings of Google&#39;s Tensor SoC for Pixel devices, with four generations failing to impress in key performance and power efficiency metrics &lpar;Robert Triggs/Android Authority&rpar;](http://www.techmeme.com/241124/p18#a241124p18)
- - [20-Plus Best Black Friday Deals Under $50: Budget-Friendly Bargains From Amazon, Walmart, Best Buy and More](https://www.cnet.com/deals/best-black-friday-deals-under-50-2024/#ftag=CAD590a51e)
- - [Best Internet Providers in Tempe, Arizona](https://www.cnet.com/home/internet/best-internet-providers-in-tempe-az/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Today&#39;s NYT Mini Crossword Answers for Monday, Nov. 25](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-monday-nov-25/#ftag=CAD590a51e)
+ - [Best Tower Fan for 2024](https://www.cnet.com/home/kitchen-and-household/best-tower-fan/#ftag=CAD590a51e)
+ - [Best Earbuds and Headphones for Working Out in 2024](https://www.cnet.com/tech/mobile/best-workout-headphones/#ftag=CAD590a51e)
+ - [Today&#39;s NYT Connections Hints, Answers and Help for Nov. 25, #533](https://www.cnet.com/tech/gaming/todays-nyt-connections-hints-answers-and-help-for-nov-25-533/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

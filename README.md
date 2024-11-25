@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The 10 Best Gifts for Every Kind of Golfer &lpar;2024&rpar;](https://www.wired.com/gallery/gifts-for-golfers/)
+ - [Raspberry Pi Pico 2 W review: the new $7 microcontroller is low cost, faster, and adds more RAM and Wi-Fi connectivity, but still uses micro USB &lpar;Les Pounder/Tom&#39;s Hardware&rpar;](http://www.techmeme.com/241125/p16#a241125p16)
  - [Apple&#39;s iPad mini 6 just dropped to $299.99, all-time best Black Friday price](https://appleinsider.com/articles/24/11/25/apples-ipad-mini-6-just-dropped-to-29999-all-time-best-black-friday-price?utm_medium=rss)
  - [Raspberry Pi announces a $7 Pico 2 with built-in Wi-Fi](https://www.theverge.com/2024/11/25/24305455/raspberry-pi-pico-2-w-wi-fi-wireless-microcontroller)
- - [The Chao Garden lives in Sonic 3’s new trailer](https://www.theverge.com/2024/11/25/24305474/sonic-3-trailer-chao-garden-detective-pikachu)
- - [California is ready to pick a fight with Trump if he kills the federal EV tax credit](https://www.theverge.com/2024/11/25/24305487/california-is-ready-to-pick-a-fight-with-trump-if-he-kills-the-federal-ev-tax-credit)
- - [Tel Aviv-based Appcharge, which helps publishers build websites to sell gaming currencies and other virtual goods, raised a $26M Series A at a $100M valuation &lpar;Ingrid Lunden/TechCrunch&rpar;](http://www.techmeme.com/241125/p15#a241125p15)<!-- TECH:END -->
+ - [The Chao Garden lives in Sonic 3’s new trailer](https://www.theverge.com/2024/11/25/24305474/sonic-3-trailer-chao-garden-detective-pikachu)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Cybertruck&#39;s Many Recalls Make It Worse Than 91 Percent of All 2024 Vehicles](https://www.wired.com/story/cybertrucks-many-recalls-make-it-worse-than-91-percent-of-all-2024-vehicles/)
+ - [Black Friday Deal Knocks this Portable Anker Power Station Bundle Down to Just $138](https://www.cnet.com/deals/this-black-friday-deal-knocks-the-anker-solix-c300x-dc-portable-power-station-bundle-down-to-just-138/#ftag=CAD590a51e)
  - [Insurance broker Howden: cyberattacks have cost UK businesses ~&amp;pound;44B in the past five years and 52% of private sector companies have reported at least one attack &lpar;Carolyn Cohn/Reuters&rpar;](http://www.techmeme.com/241125/p7#a241125p7)
  - [Parallel Parking Is Stressful. Most Drivers Still Won’t Let the Robots Take Over](https://www.wired.com/story/automated-parallel-parking-us-europe-china/)
- - [Airbnb plans to let tenants in nearly 1,500 flats owned by Greystar in London to sublet homes on a part-time basis, expanding on a 2022 Greystar partnership &lpar;Eri Sugiura/Financial Times&rpar;](http://www.techmeme.com/241125/p6#a241125p6)
- - [The Future of Online Privacy Hinges on Thousands of New Jersey Cops](https://www.wired.com/story/daniels-law-new-jersey-online-privacy-matt-adkisson-atlas-lawsuits/)
- - [Best Internet Providers in Washington, DC](https://www.cnet.com/home/internet/best-internet-providers-in-washington-dc/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [This Is How Exercise Can Support Your Vision as You Age](https://www.cnet.com/health/personal-care/how-exercise-support-vision-as-you-age/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

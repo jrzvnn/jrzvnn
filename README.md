@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The EU says Bluesky breaches its rules for not disclosing key details about itself, and has asked 27 governments to see &quot;if they can find any trace of Bluesky&quot; &lpar;Financial Times&rpar;](http://www.techmeme.com/241125/p13#a241125p13)
+ - [Apple names 45 finalists for 2024 App Store Awards](https://appleinsider.com/articles/24/11/25/apple-names-45-finalists-for-2024-app-store-awards?utm_medium=rss)
  - [Roku is building its content into Google TVs](https://www.theverge.com/2024/11/25/24305346/roku-channel-google-tv-streaming-availability)
  - [Tim Cook heads to China for supply chain talks with premier](https://appleinsider.com/articles/24/11/25/tim-cook-heads-to-china-for-supply-chain-pow-wow-with-premier?utm_medium=rss)
- - [7 Best Ski Gloves and Mittens, Editor Tested and Reviewed &lpar;2024&rpar;](https://www.wired.com/gallery/best-ski-gloves-and-mittens/)
- - [Klarna reports ~$1.85B in Q1 to Q3 2024 revenue, up 23% YoY, pretax loss down 99% YoY to ~$180K, and Q3 net income up 57% YoY to ~$19.7M, as its US IPO nears &lpar;Aisha S Gani/Bloomberg&rpar;](http://www.techmeme.com/241125/p12#a241125p12)
- - [8 Best Robot Vacuums of 2024, Tested and Reviewed](https://www.wired.com/gallery/best-robot-vacuums/)<!-- TECH:END -->
+ - [7 Best Ski Gloves and Mittens, Editor Tested and Reviewed &lpar;2024&rpar;](https://www.wired.com/gallery/best-ski-gloves-and-mittens/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [And I thought I&#39;m a bad cook](http://9gag.com/gag/ae9A39O)
+ - 😝 [Culture](http://9gag.com/gag/aZZ0NeV)
  - 😝 [Speeding puppy](http://9gag.com/gag/aW4j0ox)
- - 💣 [Old school](http://9gag.com/gag/aAybRDo)
- - 😝 [Walk towards the light my son. You are free!](http://9gag.com/gag/a2v7z8p)
- - 👉 [A 74-year-old woman from Arizona broke her nose during a hike and was airlifted by rescuers. However, the stretcher spun uncontrollably at nearly 200 rotations per minute, resembling astronaut training. She later filed a $2M lawsuit and settled for $450K.](http://9gag.com/gag/awyMrR8)<!-- MEMES:END -->
+ - 💣 [A 74-year-old woman from Arizona broke her nose during a hike and was airlifted by rescuers. However, the stretcher spun uncontrollably at nearly 200 rotations per minute, resembling astronaut training. She later filed a $2M lawsuit and settled for $450K.](http://9gag.com/gag/awyMrR8)
+ - 😝 [High technology!](http://9gag.com/gag/ayNMnNX)
+ - 👉 [Hooters had an airline but ceased operations after 3 years](http://9gag.com/gag/aKG6gg6)<!-- MEMES:END -->
 
 ---
 

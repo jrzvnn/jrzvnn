@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Symbiotic relationships](http://9gag.com/gag/aD2d05w)
- - 😝 [Inmate crawled past officer to sexually assault woman in jail intake, police say](http://9gag.com/gag/aVv7Q0K)
- - 💣 [Rush boys 5](http://9gag.com/gag/ae9A0Wj)
- - 😝 [High technology!](http://9gag.com/gag/ayNMnNX)
- - 👉 [Breaking open a 47 lbs geode, the water inside being millions of years old](http://9gag.com/gag/a2v7YOw)<!-- MEMES:END -->
+ - 😝 [It&#39;s true](http://9gag.com/gag/a4PEYGQ)
+ - 😝 [Made me laugh, posted it here](http://9gag.com/gag/aRBXA6y)
+ - 💣 [Hey as long as it works](http://9gag.com/gag/aLnpBeW)
+ - 😝 [This is so beautiful, I love her smile](http://9gag.com/gag/aD2dmrO)
+ - 👉 [Reposted because i am curious](http://9gag.com/gag/aoyM0p3)<!-- MEMES:END -->
 
 ---
 

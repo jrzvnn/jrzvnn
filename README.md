@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Drake says UMG and Spotify used bots and payola to make ‘Not Like Us’ seem popular](https://www.theverge.com/2024/11/25/24305959/drake-kendrick-umg-spotify-not-like-us-legal-action)
+ - [Google and the DOJ make their final arguments in the ad tech monopoly case](https://www.theverge.com/2024/11/25/24305748/google-doj-ad-tech-monopoly-closing-arguments)
+ - [Google is &#39;three times a monopolist&#39; says DOJ in anti-trust lawsuit](https://appleinsider.com/articles/24/11/25/google-is-three-times-a-monopolist-says-doj-in-anti-trust-lawsuit?utm_medium=rss)
  - [Neuralink Plans to Test Whether Its Brain Implant Can Control a Robotic Arm](https://www.wired.com/story/neuralink-robotic-arm-controlled-by-mind/)
- - [Google is inserting search links into webpages in the Google App now](https://www.theverge.com/2024/11/25/24305922/google-app-ios-inserting-search-links-websites)
- - [N-able, which sells software for managed service providers and spun off from SolarWinds in 2021, acquires DC-based cybersecurity company Adlumin in a $266M deal &lpar;Maria Deutscher/SiliconANGLE&rpar;](http://www.techmeme.com/241125/p27#a241125p27)
- - [Amazon&#39;s Black Friday AirPods Pro deal drops earbuds to record low $153.99](https://appleinsider.com/articles/24/11/25/amazons-black-friday-airpods-pro-deal-drops-earbuds-to-record-low-154?utm_medium=rss)
- - [YouTube shares a final blog post from Susan Wojcicki on fighting lung cancer](https://www.theverge.com/2024/11/25/24305962/susan-wojcicki-youtube-final-blog-post-lung-cancer-research)<!-- TECH:END -->
+ - [Google is inserting search links into webpages in the Google App now](https://www.theverge.com/2024/11/25/24305922/google-app-ios-inserting-search-links-websites)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

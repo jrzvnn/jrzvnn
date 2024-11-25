@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Wholesome posts that I saved #6](http://9gag.com/gag/aryM4g5)
- - 😝 [Don&#39;t be like Aisha.](http://9gag.com/gag/aRBXPoQ)
- - 💣 [Hey as long as it works](http://9gag.com/gag/aLnpBeW)
- - 😝 [This is so beautiful, I love her smile](http://9gag.com/gag/aD2dmrO)
- - 👉 [Man uses a 100,000 lumen flashlight to escape from the cops](http://9gag.com/gag/azxMjdq)<!-- MEMES:END -->
+ - 😝 [Symbiotic relationships](http://9gag.com/gag/aD2d05w)
+ - 😝 [Inmate crawled past officer to sexually assault woman in jail intake, police say](http://9gag.com/gag/aVv7Q0K)
+ - 💣 [Rush boys 5](http://9gag.com/gag/ae9A0Wj)
+ - 😝 [High technology!](http://9gag.com/gag/ayNMnNX)
+ - 👉 [Breaking open a 47 lbs geode, the water inside being millions of years old](http://9gag.com/gag/a2v7YOw)<!-- MEMES:END -->
 
 ---
 

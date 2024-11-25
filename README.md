@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Meta’s mixed-reality attempt at a Wii Sports knockoff is coming](https://www.theverge.com/2024/11/25/24305847/meta-quest-home-sports-vr-mr-tennis-bowling-hockey-game)
+ - [Amazon&#39;s Black Friday AirPods Pro deal drops earbuds to record low $154](https://appleinsider.com/articles/24/11/25/amazons-black-friday-airpods-pro-deal-drops-earbuds-to-record-low-154?utm_medium=rss)
+ - [Tron founder Justin Sun invests $30M in Trump&#39;s World Liberty Financial, making him the largest investor in the DeFi project &lpar;Teresa Xie/Bloomberg&rpar;](http://www.techmeme.com/241125/p25#a241125p25)
  - [Best Black Friday Amazon deals: $150 off M4 iMac, $250 off MacBook, $169 Apple Watch](https://appleinsider.com/articles/24/11/21/best-black-friday-amazon-deals-100-off-m4-mac-mini-250-off-macbook-189-apple-watch?utm_medium=rss)
- - [A US judge sets an April 14 trial date for an FTC lawsuit, filed in 2020, alleging that Meta&#39;s acquisitions of Instagram and WhatsApp violated antitrust laws &lpar;Jody Godoy/Reuters&rpar;](http://www.techmeme.com/241125/p24#a241125p24)
- - [Anthropic launches tool to connect AI systems directly to datasets](https://www.theverge.com/2024/11/25/24305774/anthropic-model-context-protocol-data-sources)
- - [The best Black Friday gaming deals you can shop right now](https://www.theverge.com/24303477/black-friday-best-deals-gaming-nintendo-playstation-xbox-cyber-monday-2024)
- - [GM has a deal to bring a new Cadillac F1 team to the grid](https://www.theverge.com/2024/11/25/24305768/gm-cadillac-formula-1-racing-2026)<!-- TECH:END -->
+ - [A US judge sets an April 14 trial date for an FTC lawsuit, filed in 2020, alleging that Meta&#39;s acquisitions of Instagram and WhatsApp violated antitrust laws &lpar;Jody Godoy/Reuters&rpar;](http://www.techmeme.com/241125/p24#a241125p24)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

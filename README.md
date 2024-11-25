@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [PlayAI, which uses AI to clone voices for $49 per month and recently rolled out AI agents, raised a $20M seed co-led by 500 Startups and Kindred Ventures &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/241125/p11#a241125p11)
  - [Italian PE firm Bending Spoons plans to take cloud video platform Brightcove private in a $233M deal; Brightcove, founded in 2004, makes monetization tools &lpar;Paul Sawers/TechCrunch&rpar;](http://www.techmeme.com/241125/p10#a241125p10)
  - [M4 Mac minis in a computing cluster is incredibly cool, but not hugely effective](https://appleinsider.com/articles/24/11/25/m4-mac-minis-in-a-computing-cluster-is-an-incredibly-cool-project-but-not-hugely-effective?utm_medium=rss)
  - [MicroStrategy bought 55,580 bitcoin for ~$5.4B at an average price of $97,862 between November 18 and November 24, taking its holdings to 386,700 bitcoin &lpar;James Hunt/The Block&rpar;](http://www.techmeme.com/241125/p9#a241125p9)
- - [Google’s empire is under siege](https://www.theverge.com/2024/11/25/24303445/google-under-siege-antitrust-lawsuits-doj-epic)
- - [5 Best Personal Safety Alarms &lpar;2024&rpar;, Tested and Reviewed](https://www.wired.com/gallery/the-best-personal-safety-alarms-and-gadgets-for-every-situation/)<!-- TECH:END -->
+ - [Google’s empire is under siege](https://www.theverge.com/2024/11/25/24303445/google-under-siege-antitrust-lawsuits-doj-epic)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Oh no\u2026.](http://9gag.com/gag/aAybYRR)
- - 😝 [Wikipedia](http://9gag.com/gag/a2v7zX9)
+ - 😝 [This is so beautiful, I love her smile](http://9gag.com/gag/aD2dmrO)
+ - 😝 [Women don&#39;t understand. But the boys...the boys get this.](http://9gag.com/gag/a1mrvwG)
  - 💣 [High technology!](http://9gag.com/gag/ayNMnNX)
- - 😝 [A 74-year-old woman from Arizona broke her nose during a hike and was airlifted by rescuers. However, the stretcher spun uncontrollably at nearly 200 rotations per minute, resembling astronaut training. She later filed a $2M lawsuit and settled for $450K.](http://9gag.com/gag/awyMrR8)
- - 👉 [Flying acrobat](http://9gag.com/gag/a9yEPGK)<!-- MEMES:END -->
+ - 😝 [Speeding puppy](http://9gag.com/gag/aW4j0ox)
+ - 👉 [Inmate crawled past officer to sexually assault woman in jail intake, police say](http://9gag.com/gag/aVv7Q0K)<!-- MEMES:END -->
 
 ---
 

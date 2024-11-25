@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Sources: the prototypes of the thin iPhone are between 5 and 6 millimeters thick, and may be too thin for a physical SIM, which could dampen China sales &lpar;The Information&rpar;](http://www.techmeme.com/241125/p17#a241125p17)
  - [iPhone 17 Slim&#39;s too thin for SIM tray, may not have mmWave](https://appleinsider.com/articles/24/11/25/iphone-17-slims-too-thin-for-sim-tray-may-not-have-mmwave?utm_medium=rss)
  - [GoDaddy CEO Aman Bhutani on the enduring power of the website](https://www.theverge.com/24305364/godaddy-aman-bhutani-website-open-web-ai-decoder-podcast-interview)
  - [Google to face massive UK class action lawsuit over search dominance](https://www.theverge.com/2024/11/25/24305482/google-uk-class-action-lawsuit-search-dominance)
- - [The 10 Best Gifts for Every Kind of Golfer &lpar;2024&rpar;](https://www.wired.com/gallery/gifts-for-golfers/)
- - [Raspberry Pi Pico 2 W review: the new $7 microcontroller is low cost, faster, and adds more RAM and Wi-Fi connectivity, but still uses micro USB &lpar;Les Pounder/Tom&#39;s Hardware&rpar;](http://www.techmeme.com/241125/p16#a241125p16)<!-- TECH:END -->
+ - [The 10 Best Gifts for Every Kind of Golfer &lpar;2024&rpar;](https://www.wired.com/gallery/gifts-for-golfers/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

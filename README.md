@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Culture](http://9gag.com/gag/aZZ0NeV)
- - 😝 [Speeding puppy](http://9gag.com/gag/aW4j0ox)
- - 💣 [A 74-year-old woman from Arizona broke her nose during a hike and was airlifted by rescuers. However, the stretcher spun uncontrollably at nearly 200 rotations per minute, resembling astronaut training. She later filed a $2M lawsuit and settled for $450K.](http://9gag.com/gag/awyMrR8)
- - 😝 [High technology!](http://9gag.com/gag/ayNMnNX)
- - 👉 [Hooters had an airline but ceased operations after 3 years](http://9gag.com/gag/aKG6gg6)<!-- MEMES:END -->
+ - 😝 [If you have to be your own winggirl, then be it. Take every chance for love.](http://9gag.com/gag/a1mre62)
+ - 😝 [Hey as long as it works](http://9gag.com/gag/aLnpBeW)
+ - 💣 [What color is your pee?](http://9gag.com/gag/abAVyZB)
+ - 😝 [Wholesome posts that I saved #7](http://9gag.com/gag/awyMKp1)
+ - 👉 [Wholesome posts that I saved #6](http://9gag.com/gag/aryM4g5)<!-- MEMES:END -->
 
 ---
 

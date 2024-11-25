@@ -166,10 +166,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Symbiotic relationships](http://9gag.com/gag/aD2d05w)
+ - 😝 [Clap for the kid](http://9gag.com/gag/a87ELvV)
+ - 😝 [Wikipedia](http://9gag.com/gag/a2v7zX9)
+ - 💣 [I know what you think &lpar;second post&rpar;](http://9gag.com/gag/aqyjZxj)
  - 😝 [Walk towards the light my son. You are free!](http://9gag.com/gag/a2v7z8p)
- - 💣 [Hooters had an airline but ceased operations after 3 years](http://9gag.com/gag/aKG6gg6)
- - 😝 [I know what you think &lpar;second post&rpar;](http://9gag.com/gag/aqyjZxj)
  - 👉 [Inmate crawled past officer to sexually assault woman in jail intake, police say](http://9gag.com/gag/aVv7Q0K)<!-- MEMES:END -->
 
 ---

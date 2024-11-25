@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [N-able, which sells software for managed service providers and spun off from SolarWinds in 2021, acquires DC-based cybersecurity company Adlumin in a $266M deal &lpar;Maria Deutscher/SiliconANGLE&rpar;](http://www.techmeme.com/241125/p27#a241125p27)
+ - [Amazon&#39;s Black Friday AirPods Pro deal drops earbuds to record low $153.99](https://appleinsider.com/articles/24/11/25/amazons-black-friday-airpods-pro-deal-drops-earbuds-to-record-low-154?utm_medium=rss)
+ - [YouTube shares a final blog post from Susan Wojcicki on fighting lung cancer](https://www.theverge.com/2024/11/25/24305962/susan-wojcicki-youtube-final-blog-post-lung-cancer-research)
  - [Here are the best Black Friday deals you can already get](https://www.theverge.com/24293826/best-early-black-friday-deals-2024-amazon-walmart-buy-target-tech-sale)
- - [I have some notes on Sam Altman’s note-taking advice](https://www.theverge.com/2024/11/25/24305832/sam-altman-pen-notebook-muji-uniball)
- - [Raw Milk Batch Recalled In California Over Bird Flu Contamination: Here&#39;s What to Know](https://www.cnet.com/health/nutrition/raw-milk-batch-recalled-in-california-over-bird-flu-contamination-heres-what-to-know/#ftag=CAD590a51e)
- - [This Levoit Humidifer Saves My Sinuses in Winter. It&#39;s Just $36 on Black Friday](https://www.cnet.com/deals/this-levoit-humidifer-saves-my-sinuses-in-winter-its-just-36-on-black-friday/#ftag=CAD590a51e)
- - [Spend $25 on Amazon Devices and Get $10 Off With This Black Friday Coupon Code](https://www.cnet.com/deals/spend-25-on-amazon-devices-and-get-10-off-with-this-black-friday-coupon-code/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [I have some notes on Sam Altman’s note-taking advice](https://www.theverge.com/2024/11/25/24305832/sam-altman-pen-notebook-muji-uniball)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

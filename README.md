@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Best Smart Lights for 2024](https://www.cnet.com/home/kitchen-and-household/best-smart-lights/#ftag=CAD590a51e)
+ - [Best Internet Providers in Temple, Texas](https://www.cnet.com/home/internet/best-internet-providers-in-temple-tx/#ftag=CAD590a51e)
  - [A bitcoin strategic reserve is a resilience strategy for the &quot;hodlers&quot;, not the US state, as a bet on bitcoin is bullish on permanent institutional collapse &lpar;Brendan Greeley/Financial Times&rpar;](http://www.techmeme.com/241125/p1#a241125p1)
  - [Today&#39;s NYT Mini Crossword Answers for Monday, Nov. 25](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-monday-nov-25/#ftag=CAD590a51e)
- - [Best Tower Fan for 2024](https://www.cnet.com/home/kitchen-and-household/best-tower-fan/#ftag=CAD590a51e)
- - [Best Earbuds and Headphones for Working Out in 2024](https://www.cnet.com/tech/mobile/best-workout-headphones/#ftag=CAD590a51e)
- - [Today&#39;s NYT Connections Hints, Answers and Help for Nov. 25, #533](https://www.cnet.com/tech/gaming/todays-nyt-connections-hints-answers-and-help-for-nov-25-533/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Best Tower Fan for 2024](https://www.cnet.com/home/kitchen-and-household/best-tower-fan/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

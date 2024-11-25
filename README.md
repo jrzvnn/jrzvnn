@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Amazon Black Friday: 30-Plus Deals Across Tech, Kitchen and More](https://www.cnet.com/deals/best-amazon-black-friday-deals-2024/#ftag=CAD590a51e)
+ - [Don’t Sleep on These Black Friday Laptop Deals: Our Favorites for Every Budget](https://www.cnet.com/deals/best-black-friday-laptop-deals-2024/#ftag=CAD590a51e)
  - [Sony’s making a handheld console to compete with Nintendo and Microsoft](https://www.theverge.com/2024/11/25/24305337/sony-handheld-gaming-console-playstation-nintendo-microsoft)
  - [A skeptical look at the new AI scaling &quot;laws&quot;, including post-train duration and &quot;inference time compute&quot;, and why they may fail to predict AI model performance &lpar;Gary Marcus/Marcus on AI&rpar;](http://www.techmeme.com/241125/p3#a241125p3)
- - [How Tim Cook gets Trump to help Apple](https://appleinsider.com/articles/24/11/25/how-tim-cook-gets-trump-to-help-apple?utm_medium=rss)
- - [A look at the rise of super clusters that use ~100K Nvidia GPUs for training giant AI models and the new engineering challenges arising from such clusters &lpar;Asa Fitch/Wall Street Journal&rpar;](http://www.techmeme.com/241125/p2#a241125p2)
- - [Best Black Friday Amazon deals: $100 off M4 Mac mini, $250 off MacBook, $169 Apple Watch](https://appleinsider.com/articles/24/11/21/best-black-friday-amazon-deals-100-off-m4-mac-mini-250-off-macbook-189-apple-watch?utm_medium=rss)<!-- TECH:END -->
+ - [How Tim Cook gets Trump to help Apple](https://appleinsider.com/articles/24/11/25/how-tim-cook-gets-trump-to-help-apple?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

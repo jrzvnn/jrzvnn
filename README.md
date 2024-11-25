@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Best Black Friday Amazon deals: $100 off M4 Mac mini, $250 off MacBook, $169 Apple Watch](https://appleinsider.com/articles/24/11/21/best-black-friday-amazon-deals-100-off-m4-mac-mini-250-off-macbook-189-apple-watch?utm_medium=rss)
  - [Best Smart Lights for 2024](https://www.cnet.com/home/kitchen-and-household/best-smart-lights/#ftag=CAD590a51e)
  - [Best Internet Providers in Temple, Texas](https://www.cnet.com/home/internet/best-internet-providers-in-temple-tx/#ftag=CAD590a51e)
  - [A bitcoin strategic reserve is a resilience strategy for the &quot;hodlers&quot;, not the US state, as a bet on bitcoin is bullish on permanent institutional collapse &lpar;Brendan Greeley/Financial Times&rpar;](http://www.techmeme.com/241125/p1#a241125p1)
- - [Today&#39;s NYT Mini Crossword Answers for Monday, Nov. 25](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-monday-nov-25/#ftag=CAD590a51e)
- - [Best Tower Fan for 2024](https://www.cnet.com/home/kitchen-and-household/best-tower-fan/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Today&#39;s NYT Mini Crossword Answers for Monday, Nov. 25](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-monday-nov-25/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

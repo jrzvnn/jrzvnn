@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Inmate crawled past officer to sexually assault woman in jail intake, police say](http://9gag.com/gag/aVv7Q0K)
- - 😝 [Made me laugh, posted it here](http://9gag.com/gag/aRBXA6y)
- - 💣 [A romantic interlude.](http://9gag.com/gag/a4PEL01)
+ - 😝 [A romantic interlude.](http://9gag.com/gag/a4PEL01)
  - 😝 [India&#39;s action movie Don 360 movie behind the scenes.](http://9gag.com/gag/aGypwgX)
- - 👉 [Bruise Lee.](http://9gag.com/gag/a9yEPZZ)<!-- MEMES:END -->
+ - 💣 [Made me laugh, posted it here](http://9gag.com/gag/aRBXA6y)
+ - 😝 [Brazil is not for amateurs](http://9gag.com/gag/aYQoW4w)
+ - 👉 [High technology!](http://9gag.com/gag/ayNMnNX)<!-- MEMES:END -->
 
 ---
 

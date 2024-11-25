@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Threads will finally let you set the following feed as your default](https://www.theverge.com/2024/11/25/24305690/threads-default-following-feed-test)
- - [Cars are polluting less — but for how long?](https://www.theverge.com/2024/11/25/24305599/cars-are-polluting-less-but-for-how-long)
- - [Nvidia claims a new AI audio generator can make sounds never heard before](https://www.theverge.com/2024/11/25/24305584/nvidia-fugatto-ai-audio-generator-music)
+ - [Dr Disrespect veers right into Rumble](https://www.theverge.com/2024/11/25/24305606/dr-disrespect-rumble-streaming-youtube-twitch)
  - [iPhone 17 Slim too thin for SIM tray, may not have mmWave](https://appleinsider.com/articles/24/11/25/iphone-17-slims-too-thin-for-sim-tray-may-not-have-mmwave?utm_medium=rss)
- - [Instagram DMs add live location sharing and nicknames](https://www.theverge.com/2024/11/25/24305587/instagram-dms-live-location-sharing-nicknames)<!-- TECH:END -->
+ - [iPhone 17 Pro may forego titanium, instead get alumimum &amp; glass](https://appleinsider.com/articles/24/11/25/iphone-17-pro-may-forego-titanium-instead-get-alumimum-glass?utm_medium=rss)
+ - [Anthropic announces the Model Context Protocol, an open source standard for connecting AI assistants to data sources &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/241125/p20#a241125p20)
+ - [Austin-based anti-ransomware startup Halcyon raised $100M at a $1B valuation led by Evolution Equity Partners, bringing its total funding to date to $190M &lpar;Katie Roof/Bloomberg&rpar;](http://www.techmeme.com/241125/p19#a241125p19)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

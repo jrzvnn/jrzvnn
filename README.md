@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Threads begins testing an option to set For You, Following, or a custom feed as the default feed, another improvement seemingly sparked by Bluesky competition &lpar;Chris Welch/The Verge&rpar;](http://www.techmeme.com/241125/p21#a241125p21)
+ - [iPhone 17 ‘Slim’ rumors are still floating around](https://www.theverge.com/2024/11/25/24305670/iphone-17-slim-rumors-sim-card-battery-problems)
  - [Dr Disrespect veers right into Rumble](https://www.theverge.com/2024/11/25/24305606/dr-disrespect-rumble-streaming-youtube-twitch)
  - [iPhone 17 Slim too thin for SIM tray, may not have mmWave](https://appleinsider.com/articles/24/11/25/iphone-17-slims-too-thin-for-sim-tray-may-not-have-mmwave?utm_medium=rss)
- - [iPhone 17 Pro may forego titanium, instead get alumimum &amp; glass](https://appleinsider.com/articles/24/11/25/iphone-17-pro-may-forego-titanium-instead-get-alumimum-glass?utm_medium=rss)
- - [Anthropic announces the Model Context Protocol, an open source standard for connecting AI assistants to data sources &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/241125/p20#a241125p20)
- - [Austin-based anti-ransomware startup Halcyon raised $100M at a $1B valuation led by Evolution Equity Partners, bringing its total funding to date to $190M &lpar;Katie Roof/Bloomberg&rpar;](http://www.techmeme.com/241125/p19#a241125p19)<!-- TECH:END -->
+ - [iPhone 17 Pro may forego titanium, instead get alumimum &amp; glass](https://appleinsider.com/articles/24/11/25/iphone-17-pro-may-forego-titanium-instead-get-alumimum-glass?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

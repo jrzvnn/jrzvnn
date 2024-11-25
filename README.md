@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Zoom reports Q3 revenue up 4% YoY to $1.18B, vs. $1.16B est., net income of $207.1M, up from $141.2M, and changes its corporate name to Zoom Communications Inc. &lpar;Jordan Novet/CNBC&rpar;](http://www.techmeme.com/241125/p26#a241125p26)
  - [COP29 Agreement Says Someone Should Pay to Help Developing Countries, But Not Who](https://www.wired.com/story/developing-countries-and-activists-rail-against-the-cop29-agreement/)
  - [Meta’s mixed-reality attempt at a Wii Sports knockoff is coming](https://www.theverge.com/2024/11/25/24305847/meta-quest-home-sports-vr-mr-tennis-bowling-hockey-game)
  - [Amazon&#39;s Black Friday AirPods Pro deal drops earbuds to record low $154](https://appleinsider.com/articles/24/11/25/amazons-black-friday-airpods-pro-deal-drops-earbuds-to-record-low-154?utm_medium=rss)
- - [Tron founder Justin Sun invests $30M in Trump&#39;s World Liberty Financial, making him the largest investor in the DeFi project &lpar;Teresa Xie/Bloomberg&rpar;](http://www.techmeme.com/241125/p25#a241125p25)
- - [Online vs. In-Store: Where to Score the Best Black Friday Deals](https://www.cnet.com/deals/online-vs-in-store-where-to-score-the-best-black-friday-deals/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Tron founder Justin Sun invests $30M in Trump&#39;s World Liberty Financial, making him the largest investor in the DeFi project &lpar;Teresa Xie/Bloomberg&rpar;](http://www.techmeme.com/241125/p25#a241125p25)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

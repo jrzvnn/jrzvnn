@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Symbiotic relationships](http://9gag.com/gag/aD2d05w)
- - 😝 [\u200f\u200f\u200f](http://9gag.com/gag/aE0pwdG)
- - 💣 [Powerful victim](http://9gag.com/gag/axyMGvp)
- - 😝 [High technology!](http://9gag.com/gag/ayNMnNX)
- - 👉 [Rush boys 5](http://9gag.com/gag/ae9A0Wj)<!-- MEMES:END -->
+ - 😝 [Wholesome posts that I saved #6](http://9gag.com/gag/aryM4g5)
+ - 😝 [Don&#39;t be like Aisha.](http://9gag.com/gag/aRBXPoQ)
+ - 💣 [Hey as long as it works](http://9gag.com/gag/aLnpBeW)
+ - 😝 [This is so beautiful, I love her smile](http://9gag.com/gag/aD2dmrO)
+ - 👉 [Man uses a 100,000 lumen flashlight to escape from the cops](http://9gag.com/gag/azxMjdq)<!-- MEMES:END -->
 
 ---
 

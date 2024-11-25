@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The best Black Friday gaming deals you can shop right now](https://www.theverge.com/24303477/black-friday-best-deals-gaming-nintendo-playstation-xbox-cyber-monday-2024)
+ - [GM has a deal to bring a new Cadillac F1 team to the grid](https://www.theverge.com/2024/11/25/24305768/gm-cadillac-formula-1-racing-2026)
+ - [UN climate negotiations were a major bummer](https://www.theverge.com/2024/11/25/24305393/united-nations-climate-change-summit-cop29-outcome)
  - [The US DOJ and Google made their closing arguments in the ad-market antitrust case before Judge Leonie Brinkema, who expressed some skepticism toward both sides &lpar;Washington Post&rpar;](http://www.techmeme.com/241125/p23#a241125p23)
- - [Elon Musk appears to confirm that posts containing links in their main text are deprioritized on X, saying it is to stop &quot;lazy linking&quot; &lpar;David Gilmour/Mediaite&rpar;](http://www.techmeme.com/241125/p22#a241125p22)
- - [Does Cloud Gaming on PlayStation Portal Mark the End for Consoles?](https://www.wired.com/story/does-cloud-gaming-on-playstation-portal-mark-the-end-for-consoles/)
- - [Nab the Keurig K-Mini Coffee Maker for 51% off This Black Friday at Amazon](https://www.cnet.com/deals/nab-the-keurig-k-mini-coffee-maker-for-51-off-this-black-friday-at-amazon/#ftag=CAD590a51e)
- - [Do These 10 Things With Your Money Before the Year Is Over](https://www.cnet.com/personal-finance/banking/make-these-10-money-moves-before-the-year-ends/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [This $10 Mini Waffle Maker Makes the Perfect Waffles for My Keto Diet](https://www.cnet.com/deals/this-10-mini-waffle-maker-makes-the-perfect-waffles-for-my-keto-diet/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

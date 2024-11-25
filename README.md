@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Google is inserting search links into webpages in the Google App now](https://www.theverge.com/2024/11/25/24305922/google-app-ios-inserting-search-links-websites)
  - [N-able, which sells software for managed service providers and spun off from SolarWinds in 2021, acquires DC-based cybersecurity company Adlumin in a $266M deal &lpar;Maria Deutscher/SiliconANGLE&rpar;](http://www.techmeme.com/241125/p27#a241125p27)
  - [Amazon&#39;s Black Friday AirPods Pro deal drops earbuds to record low $153.99](https://appleinsider.com/articles/24/11/25/amazons-black-friday-airpods-pro-deal-drops-earbuds-to-record-low-154?utm_medium=rss)
  - [YouTube shares a final blog post from Susan Wojcicki on fighting lung cancer](https://www.theverge.com/2024/11/25/24305962/susan-wojcicki-youtube-final-blog-post-lung-cancer-research)
- - [Here are the best Black Friday deals you can already get](https://www.theverge.com/24293826/best-early-black-friday-deals-2024-amazon-walmart-buy-target-tech-sale)
- - [I have some notes on Sam Altman’s note-taking advice](https://www.theverge.com/2024/11/25/24305832/sam-altman-pen-notebook-muji-uniball)<!-- TECH:END -->
+ - [Here are the best Black Friday deals you can already get](https://www.theverge.com/24293826/best-early-black-friday-deals-2024-amazon-walmart-buy-target-tech-sale)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

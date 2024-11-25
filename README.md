@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Nvidia claims a new AI audio generator can make sounds never heard before](https://www.theverge.com/2024/11/25/24305584/nvidia-fugatto-ai-audio-generator-music)
  - [iPhone 17 Slim too thin for SIM tray, may not have mmWave](https://appleinsider.com/articles/24/11/25/iphone-17-slims-too-thin-for-sim-tray-may-not-have-mmwave?utm_medium=rss)
  - [Instagram DMs add live location sharing and nicknames](https://www.theverge.com/2024/11/25/24305587/instagram-dms-live-location-sharing-nicknames)
  - [Instagram adds the ability for users to share their locations with friends via DMs for up to one hour, in select countries &lpar;Aisha Malik/TechCrunch&rpar;](http://www.techmeme.com/241125/p18#a241125p18)
- - [Bluesky is breaking the rules in the EU](https://www.theverge.com/2024/11/25/24305579/bluesky-breaking-european-union-rules-user-count)
- - [Sources: the prototypes of the thin iPhone are between 5 and 6 millimeters thick, and may be too thin for a physical SIM, which could dampen China sales &lpar;The Information&rpar;](http://www.techmeme.com/241125/p17#a241125p17)<!-- TECH:END -->
+ - [Bluesky is breaking the rules in the EU](https://www.theverge.com/2024/11/25/24305579/bluesky-breaking-european-union-rules-user-count)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

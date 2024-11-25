@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Insurance broker Howden: cyberattacks have cost UK businesses ~&amp;pound;44B in the past five years and 52% of private sector companies have reported at least one attack &lpar;Carolyn Cohn/Reuters&rpar;](http://www.techmeme.com/241125/p7#a241125p7)
  - [Parallel Parking Is Stressful. Most Drivers Still Won’t Let the Robots Take Over](https://www.wired.com/story/automated-parallel-parking-us-europe-china/)
  - [Airbnb plans to let tenants in nearly 1,500 flats owned by Greystar in London to sublet homes on a part-time basis, expanding on a 2022 Greystar partnership &lpar;Eri Sugiura/Financial Times&rpar;](http://www.techmeme.com/241125/p6#a241125p6)
  - [The Future of Online Privacy Hinges on Thousands of New Jersey Cops](https://www.wired.com/story/daniels-law-new-jersey-online-privacy-matt-adkisson-atlas-lawsuits/)
- - [Best Internet Providers in Washington, DC](https://www.cnet.com/home/internet/best-internet-providers-in-washington-dc/#ftag=CAD590a51e)
- - [US coding boot camp graduates are facing a tough job market due to AI coding tools and mass layoffs; CompTIA: developer job listings are down 56% since 2019 &lpar;Sarah Kessler/New York Times&rpar;](http://www.techmeme.com/241125/p5#a241125p5)<!-- TECH:END -->
+ - [Best Internet Providers in Washington, DC](https://www.cnet.com/home/internet/best-internet-providers-in-washington-dc/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

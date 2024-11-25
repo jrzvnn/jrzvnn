@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [A romantic interlude.](http://9gag.com/gag/a4PEL01)
- - 😝 [India&#39;s action movie Don 360 movie behind the scenes.](http://9gag.com/gag/aGypwgX)
- - 💣 [Made me laugh, posted it here](http://9gag.com/gag/aRBXA6y)
- - 😝 [Brazil is not for amateurs](http://9gag.com/gag/aYQoW4w)
- - 👉 [High technology!](http://9gag.com/gag/ayNMnNX)<!-- MEMES:END -->
+ - 😝 [Flying acrobat](http://9gag.com/gag/a9yEPGK)
+ - 😝 [A 74-year-old woman from Arizona broke her nose during a hike and was airlifted by rescuers. However, the stretcher spun uncontrollably at nearly 200 rotations per minute, resembling astronaut training. She later filed a $2M lawsuit and settled for $450K.](http://9gag.com/gag/awyMrR8)
+ - 💣 [A romantic interlude.](http://9gag.com/gag/a4PEL01)
+ - 😝 [Rush boys 5](http://9gag.com/gag/ae9A0Wj)
+ - 👉 [Breaking open a 47 lbs geode, the water inside being millions of years old](http://9gag.com/gag/a2v7YOw)<!-- MEMES:END -->
 
 ---
 

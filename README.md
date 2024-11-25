@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The EU says Corning offered commitments in a bid to settle an antitrust probe over alleged exclusive Gorilla Glass deals, including waiving exclusive clauses &lpar;Peter Chapman/Bloomberg&rpar;](http://www.techmeme.com/241125/p8#a241125p8)
+ - [How Tim Cook gets Trump to help Apple](https://appleinsider.com/articles/24/11/25/how-tim-cook-gets-trump-to-help-apple?utm_medium=rss)
+ - [Corning offers Gorilla Glass concessions to settle EU’s antitrust case](https://www.theverge.com/2024/11/25/24305368/corning-gorilla-glass-concessions-eu-antitrust-case-settlement)
  - [Cybertruck&#39;s Many Recalls Make It Worse Than 91 Percent of All 2024 Vehicles](https://www.wired.com/story/cybertrucks-many-recalls-make-it-worse-than-91-percent-of-all-2024-vehicles/)
- - [Black Friday Deal Knocks this Portable Anker Power Station Bundle Down to Just $138](https://www.cnet.com/deals/this-black-friday-deal-knocks-the-anker-solix-c300x-dc-portable-power-station-bundle-down-to-just-138/#ftag=CAD590a51e)
- - [Insurance broker Howden: cyberattacks have cost UK businesses ~&amp;pound;44B in the past five years and 52% of private sector companies have reported at least one attack &lpar;Carolyn Cohn/Reuters&rpar;](http://www.techmeme.com/241125/p7#a241125p7)
- - [Parallel Parking Is Stressful. Most Drivers Still Won’t Let the Robots Take Over](https://www.wired.com/story/automated-parallel-parking-us-europe-china/)
- - [This Is How Exercise Can Support Your Vision as You Age](https://www.cnet.com/health/personal-care/how-exercise-support-vision-as-you-age/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Black Friday Deal Knocks this Portable Anker Power Station Bundle Down to Just $138](https://www.cnet.com/deals/this-black-friday-deal-knocks-the-anker-solix-c300x-dc-portable-power-station-bundle-down-to-just-138/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

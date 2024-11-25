@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [A romantic interlude.](http://9gag.com/gag/a4PEL01)
- - 😝 [Symbiotic relationships](http://9gag.com/gag/aD2d05w)
- - 💣 [No more than unbabatabletomato](http://9gag.com/gag/ae9Apgm)
- - 😝 [Title](http://9gag.com/gag/aBy2rQ1)
- - 👉 [A 74-year-old woman from Arizona broke her nose during a hike and was airlifted by rescuers. However, the stretcher spun uncontrollably at nearly 200 rotations per minute, resembling astronaut training. She later filed a $2M lawsuit and settled for $450K.](http://9gag.com/gag/awyMrR8)<!-- MEMES:END -->
+ - 😝 [A 74-year-old woman from Arizona broke her nose during a hike and was airlifted by rescuers. However, the stretcher spun uncontrollably at nearly 200 rotations per minute, resembling astronaut training. She later filed a $2M lawsuit and settled for $450K.](http://9gag.com/gag/awyMrR8)
+ - 😝 [Inmate crawled past officer to sexually assault woman in jail intake, police say](http://9gag.com/gag/aVv7Q0K)
+ - 💣 [Bruise Lee.](http://9gag.com/gag/a9yEPZZ)
+ - 😝 [Daddy metaphor](http://9gag.com/gag/apRNB6n)
+ - 👉 [This is so beautiful, I love her smile](http://9gag.com/gag/aD2dmrO)<!-- MEMES:END -->
 
 ---
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The EU says Bluesky breaches its rules for not disclosing key details about itself, and has asked 27 governments to see &quot;if they can find any trace of Bluesky&quot; &lpar;Financial Times&rpar;](http://www.techmeme.com/241125/p13#a241125p13)
+ - [Nvidia unveils Fugatto, a new AI model for generating music and audio that can modify voices and make novel sounds, trained on open-source data &lpar;Stephen Nellis/Reuters&rpar;](http://www.techmeme.com/241125/p14#a241125p14)
+ - [Indian regulators keep pushing antitrust report forward, despite Apple&#39;s hold request](https://appleinsider.com/articles/24/11/25/indian-regulators-keep-pushing-antitrust-report-forward-despite-apples-hold-request?utm_medium=rss)
+ - [Build your next PC like it’s 1999](https://www.theverge.com/2024/11/25/24305435/silverstone-japan-pc-case-beige-flp01)
  - [Apple names 45 finalists for 2024 App Store Awards](https://appleinsider.com/articles/24/11/25/apple-names-45-finalists-for-2024-app-store-awards?utm_medium=rss)
- - [Roku is building its content into Google TVs](https://www.theverge.com/2024/11/25/24305346/roku-channel-google-tv-streaming-availability)
- - [Tim Cook heads to China for supply chain talks with premier](https://appleinsider.com/articles/24/11/25/tim-cook-heads-to-china-for-supply-chain-pow-wow-with-premier?utm_medium=rss)
- - [7 Best Ski Gloves and Mittens, Editor Tested and Reviewed &lpar;2024&rpar;](https://www.wired.com/gallery/best-ski-gloves-and-mittens/)<!-- TECH:END -->
+ - [CSA head Tobin Richardson discusses the future of Matter on HomeKit Insider](https://appleinsider.com/articles/24/11/25/csa-head-tobin-richardson-discusses-the-future-of-matter-on-homekit-insider?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

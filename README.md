@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [The South Korean \u201cRaybolt\u201d anti-tank missile system](http://9gag.com/gag/ajPmYX0)
- - 😝 [Wikipedia](http://9gag.com/gag/a2v7zX9)
- - 💣 [Rush boys 5](http://9gag.com/gag/ae9A0Wj)
- - 😝 [Daddy metaphor](http://9gag.com/gag/apRNB6n)
- - 👉 [Old school](http://9gag.com/gag/aAybRDo)<!-- MEMES:END -->
+ - 😝 [High technology!](http://9gag.com/gag/ayNMnNX)
+ - 😝 [Women don&#39;t understand. But the boys...the boys get this.](http://9gag.com/gag/a1mrvwG)
+ - 💣 [Please don&#39;t](http://9gag.com/gag/aE0pvAO)
+ - 😝 [No more than unbabatabletomato](http://9gag.com/gag/ae9Apgm)
+ - 👉 [Inmate crawled past officer to sexually assault woman in jail intake, police say](http://9gag.com/gag/aVv7Q0K)<!-- MEMES:END -->
 
 ---
 

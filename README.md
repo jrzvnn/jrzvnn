@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Zoom reports Q3 revenue up 4% YoY to $1.18B, vs. $1.16B est., net income of $207.1M, up from $141.2M, and changes its corporate name to Zoom Communications Inc. &lpar;Jordan Novet/CNBC&rpar;](http://www.techmeme.com/241125/p26#a241125p26)
- - [COP29 Agreement Says Someone Should Pay to Help Developing Countries, But Not Who](https://www.wired.com/story/developing-countries-and-activists-rail-against-the-cop29-agreement/)
- - [Meta’s mixed-reality attempt at a Wii Sports knockoff is coming](https://www.theverge.com/2024/11/25/24305847/meta-quest-home-sports-vr-mr-tennis-bowling-hockey-game)
- - [Amazon&#39;s Black Friday AirPods Pro deal drops earbuds to record low $154](https://appleinsider.com/articles/24/11/25/amazons-black-friday-airpods-pro-deal-drops-earbuds-to-record-low-154?utm_medium=rss)
- - [Tron founder Justin Sun invests $30M in Trump&#39;s World Liberty Financial, making him the largest investor in the DeFi project &lpar;Teresa Xie/Bloomberg&rpar;](http://www.techmeme.com/241125/p25#a241125p25)<!-- TECH:END -->
+ - [Here are the best Black Friday deals you can already get](https://www.theverge.com/24293826/best-early-black-friday-deals-2024-amazon-walmart-buy-target-tech-sale)
+ - [I have some notes on Sam Altman’s note-taking advice](https://www.theverge.com/2024/11/25/24305832/sam-altman-pen-notebook-muji-uniball)
+ - [Raw Milk Batch Recalled In California Over Bird Flu Contamination: Here&#39;s What to Know](https://www.cnet.com/health/nutrition/raw-milk-batch-recalled-in-california-over-bird-flu-contamination-heres-what-to-know/#ftag=CAD590a51e)
+ - [This Levoit Humidifer Saves My Sinuses in Winter. It&#39;s Just $36 on Black Friday](https://www.cnet.com/deals/this-levoit-humidifer-saves-my-sinuses-in-winter-its-just-36-on-black-friday/#ftag=CAD590a51e)
+ - [Spend $25 on Amazon Devices and Get $10 Off With This Black Friday Coupon Code](https://www.cnet.com/deals/spend-25-on-amazon-devices-and-get-10-off-with-this-black-friday-coupon-code/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

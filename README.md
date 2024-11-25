@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Clap for the kid](http://9gag.com/gag/a87ELvV)
- - 😝 [Wikipedia](http://9gag.com/gag/a2v7zX9)
- - 💣 [I know what you think &lpar;second post&rpar;](http://9gag.com/gag/aqyjZxj)
- - 😝 [Walk towards the light my son. You are free!](http://9gag.com/gag/a2v7z8p)
- - 👉 [Inmate crawled past officer to sexually assault woman in jail intake, police say](http://9gag.com/gag/aVv7Q0K)<!-- MEMES:END -->
+ - 😝 [White liberal women are cancer](http://9gag.com/gag/amoPNBX)
+ - 😝 [A 74-year-old woman from Arizona broke her nose during a hike and was airlifted by rescuers. However, the stretcher spun uncontrollably at nearly 200 rotations per minute, resembling astronaut training. She later filed a $2M lawsuit and settled for $450K.](http://9gag.com/gag/awyMrR8)
+ - 💣 [Inmate crawled past officer to sexually assault woman in jail intake, police say](http://9gag.com/gag/aVv7Q0K)
+ - 😝 [Brazil is not for amateurs](http://9gag.com/gag/aYQoW4w)
+ - 👉 [Breaking open a 47 lbs geode, the water inside being millions of years old](http://9gag.com/gag/a2v7YOw)<!-- MEMES:END -->
 
 ---
 

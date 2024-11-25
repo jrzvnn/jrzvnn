@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [No more than unbabatabletomato](http://9gag.com/gag/ae9Apgm)
+ - 😝 [High technology!](http://9gag.com/gag/ayNMnNX)
  - 😝 [Bruise Lee.](http://9gag.com/gag/a9yEPZZ)
- - 💣 [Daddy metaphor](http://9gag.com/gag/apRNB6n)
- - 😝 [Breaking open a 47 lbs geode, the water inside being millions of years old](http://9gag.com/gag/a2v7YOw)
- - 👉 [This is so beautiful, I love her smile](http://9gag.com/gag/aD2dmrO)<!-- MEMES:END -->
+ - 💣 [This is so beautiful, I love her smile](http://9gag.com/gag/aD2dmrO)
+ - 😝 [Daddy metaphor](http://9gag.com/gag/apRNB6n)
+ - 👉 [Breaking open a 47 lbs geode, the water inside being millions of years old](http://9gag.com/gag/a2v7YOw)<!-- MEMES:END -->
 
 ---
 

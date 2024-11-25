@@ -166,10 +166,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Rush boys 5](http://9gag.com/gag/ae9A0Wj)
- - 😝 [Mama had to make sure her baby was okay before anything else](http://9gag.com/gag/aE0pvd9)
- - 💣 [I can&#39;t even](http://9gag.com/gag/an7QXwb)
- - 😝 [Old school](http://9gag.com/gag/aAybRDo)
+ - 😝 [Symbiotic relationships](http://9gag.com/gag/aD2d05w)
+ - 😝 [Walk towards the light my son. You are free!](http://9gag.com/gag/a2v7z8p)
+ - 💣 [Hooters had an airline but ceased operations after 3 years](http://9gag.com/gag/aKG6gg6)
+ - 😝 [I know what you think &lpar;second post&rpar;](http://9gag.com/gag/aqyjZxj)
  - 👉 [Inmate crawled past officer to sexually assault woman in jail intake, police say](http://9gag.com/gag/aVv7Q0K)<!-- MEMES:END -->
 
 ---

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [If you have to be your own winggirl, then be it. Take every chance for love.](http://9gag.com/gag/a1mre62)
- - 😝 [Hey as long as it works](http://9gag.com/gag/aLnpBeW)
- - 💣 [What color is your pee?](http://9gag.com/gag/abAVyZB)
- - 😝 [Wholesome posts that I saved #7](http://9gag.com/gag/awyMKp1)
- - 👉 [Wholesome posts that I saved #6](http://9gag.com/gag/aryM4g5)<!-- MEMES:END -->
+ - 😝 [High technology!](http://9gag.com/gag/ayNMnNX)
+ - 😝 [Inmate crawled past officer to sexually assault woman in jail intake, police say](http://9gag.com/gag/aVv7Q0K)
+ - 💣 [A romantic interlude.](http://9gag.com/gag/a4PEL01)
+ - 😝 [May I have the permission to touch you?](http://9gag.com/gag/aZZ0bEX)
+ - 👉 [Breaking open a 47 lbs geode, the water inside being millions of years old](http://9gag.com/gag/a2v7YOw)<!-- MEMES:END -->
 
 ---
 

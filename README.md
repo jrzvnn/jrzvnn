@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [COP29 Agreement Says Someone Should Pay to Help Developing Countries, But Not Who](https://www.wired.com/story/developing-countries-and-activists-rail-against-the-cop29-agreement/)
  - [Meta’s mixed-reality attempt at a Wii Sports knockoff is coming](https://www.theverge.com/2024/11/25/24305847/meta-quest-home-sports-vr-mr-tennis-bowling-hockey-game)
  - [Amazon&#39;s Black Friday AirPods Pro deal drops earbuds to record low $154](https://appleinsider.com/articles/24/11/25/amazons-black-friday-airpods-pro-deal-drops-earbuds-to-record-low-154?utm_medium=rss)
  - [Tron founder Justin Sun invests $30M in Trump&#39;s World Liberty Financial, making him the largest investor in the DeFi project &lpar;Teresa Xie/Bloomberg&rpar;](http://www.techmeme.com/241125/p25#a241125p25)
- - [Online vs. In-Store: Where to Score the Best Black Friday Deals](https://www.cnet.com/deals/online-vs-in-store-where-to-score-the-best-black-friday-deals/#ftag=CAD590a51e)
- - [Shop Safely on Black Friday and Cyber Monday 2024: Avoid These Scams and Tricks](https://www.cnet.com/tech/services-and-software/shop-safely-on-black-friday-and-cyber-monday-2024-avoid-these-scams-and-tricks/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Online vs. In-Store: Where to Score the Best Black Friday Deals](https://www.cnet.com/deals/online-vs-in-store-where-to-score-the-best-black-friday-deals/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

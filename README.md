@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Wholesome posts that I saved #7](http://9gag.com/gag/awyMKp1)
- - 😝 [Hey as long as it works](http://9gag.com/gag/aLnpBeW)
- - 💣 [What color is your pee?](http://9gag.com/gag/abAVyZB)
- - 😝 [Don&#39;t be like Aisha.](http://9gag.com/gag/aRBXPoQ)
- - 👉 [Wholesome posts that I saved #6](http://9gag.com/gag/aryM4g5)<!-- MEMES:END -->
+ - 😝 [Oh no\u2026.](http://9gag.com/gag/aAybYRR)
+ - 😝 [Wikipedia](http://9gag.com/gag/a2v7zX9)
+ - 💣 [High technology!](http://9gag.com/gag/ayNMnNX)
+ - 😝 [A 74-year-old woman from Arizona broke her nose during a hike and was airlifted by rescuers. However, the stretcher spun uncontrollably at nearly 200 rotations per minute, resembling astronaut training. She later filed a $2M lawsuit and settled for $450K.](http://9gag.com/gag/awyMrR8)
+ - 👉 [Flying acrobat](http://9gag.com/gag/a9yEPGK)<!-- MEMES:END -->
 
 ---
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Do your best 9gag... or maybe do your worst...](http://9gag.com/gag/a34Ejve)
- - 😝 [No more than unbabatabletomato](http://9gag.com/gag/ae9Apgm)
- - 💣 [Symbiotic relationships](http://9gag.com/gag/aD2d05w)
- - 😝 [Title](http://9gag.com/gag/aBy2rQ1)
- - 👉 [Breaking open a 47 lbs geode, the water inside being millions of years old](http://9gag.com/gag/a2v7YOw)<!-- MEMES:END -->
+ - 😝 [3.7 seconds after she says `don&#39;t stop`](http://9gag.com/gag/a5QE7GG)
+ - 😝 [Crow helps split firewood for treats](http://9gag.com/gag/aryMKdp)
+ - 💣 [Acting like it vs. Being it](http://9gag.com/gag/aLnp9BP)
+ - 😝 [A romantic interlude.](http://9gag.com/gag/a4PEL01)
+ - 👉 [Obligatory Repost!](http://9gag.com/gag/aPA3vLR)<!-- MEMES:END -->
 
 ---
 

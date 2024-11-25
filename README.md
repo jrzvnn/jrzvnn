@@ -166,10 +166,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Wholesome posts that I saved #6](http://9gag.com/gag/aryM4g5)
- - 😝 [Don&#39;t be like Aisha.](http://9gag.com/gag/aRBXPoQ)
- - 💣 [This is so beautiful, I love her smile](http://9gag.com/gag/aD2dmrO)
- - 😝 [Hey as long as it works](http://9gag.com/gag/aLnpBeW)
+ - 😝 [\u200f\u200f\u200f](http://9gag.com/gag/aE0pwdG)
+ - 😝 [A 74-year-old woman from Arizona broke her nose during a hike and was airlifted by rescuers. However, the stretcher spun uncontrollably at nearly 200 rotations per minute, resembling astronaut training. She later filed a $2M lawsuit and settled for $450K.](http://9gag.com/gag/awyMrR8)
+ - 💣 [I can&#39;t even](http://9gag.com/gag/an7QXwb)
+ - 😝 [Breaking open a 47 lbs geode, the water inside being millions of years old](http://9gag.com/gag/a2v7YOw)
  - 👉 [A romantic interlude.](http://9gag.com/gag/a4PEL01)<!-- MEMES:END -->
 
 ---

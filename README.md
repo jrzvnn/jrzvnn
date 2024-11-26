@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Elon Musk learns how EV charging works from Pete Buttigieg](https://www.theverge.com/2024/11/26/24306385/elon-musk-pete-buttigieg-nevi-funding-ev-chargers-explainer)
- - [Atlantic hurricane season is coming to an end — will the US be ready for the next one?](https://www.theverge.com/2024/11/26/24306445/atlantic-hurricane-season-end-2024-noaa)
- - [Apple’s latest AirPods Pro are cheaper than the AirPods 4 right now](https://www.theverge.com/2024/11/26/24306522/apple-airpods-pro-2-usb-c-earbuds-black-friday-deal-sale)
- - [Wear OS 5.1 could let you play music on your built-in Android watch speakers](https://www.theverge.com/2024/11/26/24306483/wear-os-5-1-could-let-you-play-music-on-your-built-in-android-watch-speakers)
- - [BioWare veteran’s studio shuts down before releasing a game](https://www.theverge.com/2024/11/26/24306508/bioware-casey-hudson-humanoid-origin-shut-down)<!-- TECH:END -->
+ - [Amazon’s new Madden doc is a startup story — and a cautionary tale](https://www.theverge.com/24306628/madden-documentary-its-in-the-game-review-amazon-prime-video)
+ - [Bang &amp; Olufsen’s new $499 earbuds have better ANC and replaceable batteries](https://www.theverge.com/2024/11/26/24306567/bang-olufsen-beoplay-eleven-wireless-earbuds-replaceable-battery-sustainable)
+ - [Drake ropes Siri into his feud with rival Kendrick Lamar, for some reason](https://appleinsider.com/articles/24/11/26/drake-ropes-siri-into-his-feud-with-rival-kendrick-lamar-for-some-reason?utm_medium=rss)
+ - [Champions League Soccer: Livestream Sporting CP vs. Arsenal From Anywhere](https://www.cnet.com/tech/services-and-software/champions-league-soccer-livestream-sporting-cp-vs-arsenal-from-anywhere/#ftag=CAD590a51e)
+ - [Champions League Soccer: Livestream Man City vs. Feyenoord From Anywhere](https://www.cnet.com/tech/services-and-software/champions-league-soccer-livestream-man-city-vs-feyenoord-from-anywhere/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

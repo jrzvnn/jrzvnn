@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [It&#39;s Time to Make the Internet Safer for Kids](https://www.wired.com/story/digital-social-media-safeguards-children-policy/)
+ - [Huawei unveils the $760+ Mate 70 series, powered by its HarmonyOS Next, calling the flagship device the &quot;smartest&quot; Mate phone, as it faces US chip curbs &lpar;New York Times&rpar;](http://www.techmeme.com/241126/p5#a241126p5)
  - [The Fossil Fuels Conversation Needs a Hard Reset](https://www.wired.com/story/fossil-fuels-conversation-needs-a-hard-reset/)
  - [The Climate-Driven Diaspora Is Here](https://www.wired.com/story/the-climate-driven-diaspora-is-here/)
- - [Drake launches legal action against UMG and Spotify for allegedly using bots, payola, and more to inflate Kendrick Lamar&#39;s Not Like Us, a track attacking Drake &lpar;Bill Donahue/Billboard&rpar;](http://www.techmeme.com/241126/p4#a241126p4)
- - [Algorithms Are Coming for Democracy—but It&#39;s Not All Bad](https://www.wired.com/story/algorithms-are-coming-for-democracy-but-its-not-all-bad/)
- - [We Need a New Right to Repair for Artificial Intelligence](https://www.wired.com/story/we-need-new-right-to-repair-for-artificial-intelligence/)<!-- TECH:END -->
+ - [Drake launches legal action against UMG and Spotify for allegedly using bots, payola, and more to inflate Kendrick Lamar&#39;s Not Like Us, a track attacking Drake &lpar;Bill Donahue/Billboard&rpar;](http://www.techmeme.com/241126/p4#a241126p4)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

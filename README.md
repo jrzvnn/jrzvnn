@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Wondering if this was one of those shit tests they make to have the guy fight for them](http://9gag.com/gag/amoPzZd)
+ - 😝 [I really shouldnt put my dick in there...however](http://9gag.com/gag/azxMA3Z)
  - 😝 [Evolving, just backwards](http://9gag.com/gag/aMVKGZW)
- - 💣 [The last image of Keith Spasford, a 14 year old australian boy who wanted to explore the world, so he snuck to a plane wheel well, it opened in mid-air and the boy fell out. the photographer was just testing his new lenses and was shocked after developing those images](http://9gag.com/gag/aGypDv0)
- - 😝 [Deep Johnny Depp](http://9gag.com/gag/aLnpD6M)
- - 👉 [And a toll payer on top](http://9gag.com/gag/aGyp0Dw)<!-- MEMES:END -->
+ - 💣 [And a toll payer on top](http://9gag.com/gag/aGyp0Dw)
+ - 😝 [The last image of Keith Spasford, a 14 year old australian boy who wanted to explore the world, so he snuck to a plane wheel well, it opened in mid-air and the boy fell out. the photographer was just testing his new lenses and was shocked after developing those images](http://9gag.com/gag/aGypDv0)
+ - 👉 [German finest](http://9gag.com/gag/a7oE7Ax)<!-- MEMES:END -->
 
 ---
 

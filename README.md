@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [A government source says Japan&#39;s FTC raided Amazon Japan on November 26 suspecting it&#39;s inappropriately urging its sellers to lower their prices on its platform &lpar;Reuters&rpar;](http://www.techmeme.com/241126/p1#a241126p1)
+ - [Today&#39;s NYT Mini Crossword Answers for Tuesday, Nov. 26](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-tuesday-nov-26/#ftag=CAD590a51e)
  - [The Verge’s 2024 holiday gift guide](https://www.theverge.com/24224043/holiday-gift-guide-2024-best-ideas-unique-tech-gadgets)
  - [Today&#39;s NYT Strands Hints, Answers and Help for Nov. 26, #268](https://www.cnet.com/tech/gaming/todays-nyt-strands-hints-answers-and-help-for-nov-26-268/#ftag=CAD590a51e)
- - [Today&#39;s NYT Connections Hints, Answers and Help for Nov. 26, #534](https://www.cnet.com/tech/gaming/todays-nyt-connections-hints-answers-and-help-for-nov-26-534/#ftag=CAD590a51e)
- - [Today&#39;s Wordle Hints, Answer and Help for Nov. 26, #1256](https://www.cnet.com/tech/gaming/todays-wordle-hints-answer-and-help-for-nov-26-1256/#ftag=CAD590a51e)
- - [Today&#39;s NYT Connections: Sports Edition Hints and Answers for Nov. 26, #64](https://www.cnet.com/tech/gaming/todays-nyt-connections-sports-edition-hints-and-answers-for-nov-26-64/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Today&#39;s NYT Connections Hints, Answers and Help for Nov. 26, #534](https://www.cnet.com/tech/gaming/todays-nyt-connections-hints-answers-and-help-for-nov-26-534/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [An interview with Margrethe Vestager, the EU&#39;s tech antitrust enforcer since 2014, on her &quot;partly successful&quot; tenure, US collaboration, Trump, the DSA, and more &lpar;Adam Satariano/New York Times&rpar;](http://www.techmeme.com/241126/p10#a241126p10)
  - [Cradle, which uses AI to help design proteins and says its SaaS model has proven popular, raised a $73M Series B led by IVP, after a $24M Series A in 2023 &lpar;Devin Coldewey/TechCrunch&rpar;](http://www.techmeme.com/241126/p9#a241126p9)
  - [How Murderbot Saved Martha Wells&#39; Life](https://www.wired.com/story/murderbot-she-wrote-martha-wells/)
  - [Tim Cook&#39;s China visit is about getting Apple Intelligence into the country](https://appleinsider.com/articles/24/11/26/tim-cooks-china-visit-is-about-getting-apple-intelligence-into-the-country?utm_medium=rss)
- - [Google proposes Search tweaks in Europe to comply with the DMA, including removing the map showing hotel locations and results in Germany, Belgium, and Estonia &lpar;Foo Yun Chee/Reuters&rpar;](http://www.techmeme.com/241126/p8#a241126p8)
- - [Best Black Friday Deals on Outdoor Gear &lpar;2024&rpar;](https://www.wired.com/story/best-black-friday-outdoor-deals-2024/)<!-- TECH:END -->
+ - [Google proposes Search tweaks in Europe to comply with the DMA, including removing the map showing hotel locations and results in Germany, Belgium, and Estonia &lpar;Foo Yun Chee/Reuters&rpar;](http://www.techmeme.com/241126/p8#a241126p8)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

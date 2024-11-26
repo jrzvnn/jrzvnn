@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Black Friday discount: M4 Pro MacBook Pro &lpar;48GB RAM, 1TB SSD&rpar; on sale now for $2,389](https://appleinsider.com/articles/24/11/26/black-friday-discount-m4-pro-macbook-pro-48gb-ram-1tb-ssd-on-sale-now-for-2389?utm_medium=rss)
  - [Rivian gets $6.6 billion government loan to build its EV factory in Georgia](https://www.theverge.com/2024/11/26/24306402/rivian-doe-atvm-loan-georgia-ev-factory-trump)
  - [Best Portable Charger of 2024: iPhones, iPads, Laptops &amp; More](https://www.wired.com/gallery/best-portable-chargers-power-banks/)
  - [The influencer lawsuit that could change the industry](https://www.theverge.com/2024/11/26/24303161/amazon-influencers-lawsuit-copyright-clean-aesthetic-girl-sydney-nicole-gifford-alyssa-sheil)
- - [/dev/agents, which plans to build a cloud-based OS for AI agents that can work across phones, laptops, and cars, raised $56M, a source says at a $500M valuation &lpar;Shirin Ghaffary/Bloomberg&rpar;](http://www.techmeme.com/241126/p14#a241126p14)
- - [Carrier Holiday Deals: Beware of the Fine Print on Free Tablet or Smartwatch Bundles](https://www.cnet.com/tech/mobile/carrier-holiday-deals-beware-of-the-fine-print-on-free-tablet-or-smartwatch-bundles/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [/dev/agents, which plans to build a cloud-based OS for AI agents that can work across phones, laptops, and cars, raised $56M, a source says at a $500M valuation &lpar;Shirin Ghaffary/Bloomberg&rpar;](http://www.techmeme.com/241126/p14#a241126p14)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

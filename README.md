@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [HP reports Q4 revenue up 1.7% YoY to $14.1B, Personal Systems revenue up 2% to $9.59B vs. $9.74B est., forecasts Q1 profit below est.; HPQ drops 7%+ after hours &lpar;Brody Ford/Bloomberg&rpar;](http://www.techmeme.com/241126/p22#a241126p22)
  - [CrowdStrike reports Q3 revenue up 29% YoY to $1.01B, vs. $982.8M est., a $16.8M loss, compared to a $26.7M profit a year earlier, and raises its FY 2025 outlook &lpar;Connor Hart/Wall Street Journal&rpar;](http://www.techmeme.com/241126/p21#a241126p21)
  - [Kraken says it is shutting down its NFT marketplace almost two years after it was launched &lpar;Teresa Xie/Bloomberg&rpar;](http://www.techmeme.com/241126/p20#a241126p20)
  - [Dell Q3: revenue up 10% YoY to $24.4B, vs. $24.67B est., Infrastructure Solutions Group up 34% driven by AI sales, net income up 12%; DELL drops 6% after hours &lpar;Kif Leswing/CNBC&rpar;](http://www.techmeme.com/241126/p19#a241126p19)
- - [Drake May Soon Find Out If the Law Can Settle a Rap Beef](https://www.wired.com/story/drake-kendrick-lamar-beef-legal-umg-spotify-iheartradio/)
- - [8 Great Soundbar Deals to Grab Ahead of Black Friday &lpar;2024&rpar;](https://www.wired.com/story/black-friday-soundbar-deals-2024/)<!-- TECH:END -->
+ - [Drake May Soon Find Out If the Law Can Settle a Rap Beef](https://www.wired.com/story/drake-kendrick-lamar-beef-legal-umg-spotify-iheartradio/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

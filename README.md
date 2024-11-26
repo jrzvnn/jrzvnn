@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Dream job!](http://9gag.com/gag/azxMjNN)
- - 😝 [Title](http://9gag.com/gag/aBy2rQ1)
- - 💣 [It\u2019s called Bangkok honey](http://9gag.com/gag/aBy2YNO)
- - 😝 [Lois was toxic AF but in her defense Clark was a manipulative gaslighter](http://9gag.com/gag/aAybwPE)
- - 👉 [Daddy metaphor](http://9gag.com/gag/apRNB6n)<!-- MEMES:END -->
+ - 😝 [Well it\u2019s really difficult](http://9gag.com/gag/aAybPRE)
+ - 😝 [Bro chose the right person](http://9gag.com/gag/apRNLx8)
+ - 💣 [Acting like it vs. Being it](http://9gag.com/gag/aLnp9BP)
+ - 😝 [Good Job Tennessee.](http://9gag.com/gag/avy5Lz5)
+ - 👉 [I really shouldnt put my dick in there...however](http://9gag.com/gag/azxMA3Z)<!-- MEMES:END -->
 
 ---
 

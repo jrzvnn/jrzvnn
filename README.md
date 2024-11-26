@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Bruise Lee.](http://9gag.com/gag/a9yEPZZ)
- - 😝 [Do your best 9gag... or maybe do your worst...](http://9gag.com/gag/a34Ejve)
- - 💣 [Powerful victim](http://9gag.com/gag/axyMGvp)
- - 😝 [Daddy metaphor](http://9gag.com/gag/apRNB6n)
- - 👉 [High technology!](http://9gag.com/gag/ayNMnNX)<!-- MEMES:END -->
+ - 😝 [Title](http://9gag.com/gag/aBy2rQ1)
+ - 😝 [Man uses a 100,000 lumen flashlight to escape from the cops](http://9gag.com/gag/azxMjdq)
+ - 💣 [Breaking open a 47 lbs geode, the water inside being millions of years old](http://9gag.com/gag/a2v7YOw)
+ - 😝 [Acting like it vs. Being it](http://9gag.com/gag/aLnp9BP)
+ - 👉 [Daddy metaphor](http://9gag.com/gag/apRNB6n)<!-- MEMES:END -->
 
 ---
 

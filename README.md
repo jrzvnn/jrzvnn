@@ -166,10 +166,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [Frustrated sexually](http://9gag.com/gag/a5QEZxL)
  - 😝 [I really shouldnt put my dick in there...however](http://9gag.com/gag/azxMA3Z)
+ - 💣 [Dream job!](http://9gag.com/gag/azxMjNN)
  - 😝 [Evolving, just backwards](http://9gag.com/gag/aMVKGZW)
- - 💣 [And a toll payer on top](http://9gag.com/gag/aGyp0Dw)
- - 😝 [The last image of Keith Spasford, a 14 year old australian boy who wanted to explore the world, so he snuck to a plane wheel well, it opened in mid-air and the boy fell out. the photographer was just testing his new lenses and was shocked after developing those images](http://9gag.com/gag/aGypDv0)
  - 👉 [German finest](http://9gag.com/gag/a7oE7Ax)<!-- MEMES:END -->
 
 ---

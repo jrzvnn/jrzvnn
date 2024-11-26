@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [More retractable cables, please](https://www.theverge.com/2024/11/26/24306616/counterpart-charger-retractable-usb-c-charging-cable)
+ - [Mercedes-Benz now has an Apple Watch version of its mobile app](https://www.theverge.com/2024/11/26/24306633/mercedes-benz-apple-watch-app)
  - [Yes, That Viral LinkedIn Post You Read Was Probably AI-Generated](https://www.wired.com/story/linkedin-ai-generated-influencers/)
  - [A lawsuit between two Amazon influencers over allegations of copyright infringement shows the challenges of defining originality and ownership in content &lpar;Mia Sato/The Verge&rpar;](http://www.techmeme.com/241126/p17#a241126p17)
- - [Hulu’s best Black Friday deal is back with $.99 a month for an entire year](https://www.theverge.com/2024/11/26/24306632/hulu-disney-plus-ads-bundle-black-friday-deal-sale)
- - [Threads says 35 million users signed up in November](https://www.theverge.com/2024/11/26/24306591/threads-35-million-signups-november-growth)
- - [Amazon’s new Madden doc is a startup story — and a cautionary tale](https://www.theverge.com/24306628/madden-documentary-its-in-the-game-review-amazon-prime-video)<!-- TECH:END -->
+ - [Hulu’s best Black Friday deal is back with $.99 a month for an entire year](https://www.theverge.com/2024/11/26/24306632/hulu-disney-plus-ads-bundle-black-friday-deal-sale)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

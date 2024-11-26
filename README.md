@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Winter is here](http://9gag.com/gag/a87EyXV)
- - 😝 [Good Job Tennessee.](http://9gag.com/gag/avy5Lz5)
- - 💣 [I really shouldnt put my dick in there...however](http://9gag.com/gag/azxMA3Z)
- - 😝 [Frustrated sexually](http://9gag.com/gag/a5QEZxL)
- - 👉 [Fast, not fast](http://9gag.com/gag/aW4j65A)<!-- MEMES:END -->
+ - 😝 [Daddy metaphor](http://9gag.com/gag/apRNB6n)
+ - 😝 [Big brother is washing](http://9gag.com/gag/a1mrdDG)
+ - 💣 [Motorbiker giving advice to couple on a bridge](http://9gag.com/gag/aMVKGEA)
+ - 😝 [Evolving, just backwards](http://9gag.com/gag/aMVKGZW)
+ - 👉 [Lois was toxic AF but in her defense Clark was a manipulative gaslighter](http://9gag.com/gag/aAybwPE)<!-- MEMES:END -->
 
 ---
 

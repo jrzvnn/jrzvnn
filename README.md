@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [No more than unbabatabletomato](http://9gag.com/gag/ae9Apgm)
- - 😝 [Daddy metaphor](http://9gag.com/gag/apRNB6n)
- - 💣 [Evolving, just backwards](http://9gag.com/gag/aMVKGZW)
- - 😝 [Lois was toxic AF but in her defense Clark was a manipulative gaslighter](http://9gag.com/gag/aAybwPE)
- - 👉 [College liberal activist begging to retrieve her iPhone back from the homeless that stole it during a Palestine protest. She encouraged them to take anything they steal from \u201crich elite scum\u201d but that she\u2019s \u201cnice\u201d and \u201chonest\u201d and needs it back and she&#39;s `on their side`.](http://9gag.com/gag/aAybpP0)<!-- MEMES:END -->
+ - 😝 [Winter is here](http://9gag.com/gag/a87EyXV)
+ - 😝 [Good Job Tennessee.](http://9gag.com/gag/avy5Lz5)
+ - 💣 [I really shouldnt put my dick in there...however](http://9gag.com/gag/azxMA3Z)
+ - 😝 [Frustrated sexually](http://9gag.com/gag/a5QEZxL)
+ - 👉 [Fast, not fast](http://9gag.com/gag/aW4j65A)<!-- MEMES:END -->
 
 ---
 

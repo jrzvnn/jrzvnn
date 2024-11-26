@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [German finest](http://9gag.com/gag/a7oE7Ax)
- - 😝 [Professional skydiver Luigi Cani and his team scatter over 100 MILLION tree seeds in the heart of Brazil\u2019s Amazon rainforest. \ud83c\udf33\ud83c\udf33\ud83c\udde7\ud83c\uddf7](http://9gag.com/gag/a6ZEQWA)
- - 💣 [*Final Boss Enters The Room*](http://9gag.com/gag/a1mrYN6)
- - 😝 [And a toll payer on top](http://9gag.com/gag/aGyp0Dw)
- - 👉 [They did it again!](http://9gag.com/gag/a34ELdN)<!-- MEMES:END -->
+ - 😝 [Well it\u2019s really difficult](http://9gag.com/gag/aAybPRE)
+ - 😝 [Hitting the jackpot twice but still managing to lose all](http://9gag.com/gag/aD2djNG)
+ - 💣 [Bro chose the right person](http://9gag.com/gag/apRNLx8)
+ - 😝 [Acting like it vs. Being it](http://9gag.com/gag/aLnp9BP)
+ - 👉 [Good Job Tennessee.](http://9gag.com/gag/avy5Lz5)<!-- MEMES:END -->
 
 ---
 

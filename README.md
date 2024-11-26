@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Uber launches a data labeling service called Scaled Solutions, accepting gig worker signups from India, the US, Canada, Poland, and Nicaragua &lpar;Natalie Lung/Bloomberg&rpar;](http://www.techmeme.com/241126/p16#a241126p16)
+ - [The Crypto Industry Is Helping Trump Pick SEC Chair](https://www.wired.com/story/crypto-candidates-front-runners-sec-race/)
+ - [Anker’s 8-in-1 charging station is nearly half off](https://www.theverge.com/2024/11/26/24305776/anker-maggo-magnetic-charging-station-8-in-1-deal-sale)
  - [13 Superfoods to Supercharge Your Kidney Health](https://www.cnet.com/health/nutrition/13-superfoods-to-supercharge-your-kidney-health/#ftag=CAD590a51e)
- - [Chia Seed Water: What to Know and How to Make This Low-Effort Hydration Hack](https://www.cnet.com/health/nutrition/chia-seed-water-what-to-know-and-how-to-make-it/#ftag=CAD590a51e)
- - [Sealy Posturepedic Mattress Review 2024: How Does This Household Name Stack Up Against Other Online Beds?](https://www.cnet.com/health/sleep/sealy-posturepedic-mattress-review-2024-how-does-this-household-name-stack-up-against-other-online-beds/#ftag=CAD590a51e)
- - [Best Internet Speed Tests of 2024](https://www.cnet.com/home/internet/best-speed-tests/#ftag=CAD590a51e)
- - [This Ceramic Griddle Is Unscratchable &lpar;I&#39;ve Tried&rpar;, and It&#39;s $8 Off For Black Friday](https://www.cnet.com/how-to/this-ceramic-griddle-is-unscratchable-ive-tried-and-its-8-off-for-black-friday/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Chia Seed Water: What to Know and How to Make This Low-Effort Hydration Hack](https://www.cnet.com/health/nutrition/chia-seed-water-what-to-know-and-how-to-make-it/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

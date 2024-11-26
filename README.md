@@ -159,9 +159,9 @@ R                        1 repo              ░░░░░░░░░░░�
 <!-- TECH:START -->
  - [NFL&#39;s Gronk calls Apple his best-ever investment](https://appleinsider.com/articles/24/11/26/nfls-gronk-calls-apple-his-best-ever-investment?utm_medium=rss)
  - [Star Wars: Skeleton Crew is premiering a day early](https://www.theverge.com/2024/11/26/24306428/star-wars-skeleton-crew-early-premiere-date-disney-plus)
- - [Transparent&#39;s New Wireless Speaker Is a Love Letter to Brutalism](https://www.wired.com/story/transparents-new-wireless-speaker-is-a-love-letter-to-brutalism/)
- - [Microsoft is killing off its Xbox One-era Avatars in January](https://www.theverge.com/2024/11/26/24306394/xbox-avatar-editor-discontinued)
- - [Black Friday discount: M4 Pro MacBook Pro &lpar;48GB RAM, 1TB SSD&rpar; on sale now for $2,389](https://appleinsider.com/articles/24/11/26/black-friday-discount-m4-pro-macbook-pro-48gb-ram-1tb-ssd-on-sale-now-for-2389?utm_medium=rss)<!-- TECH:END -->
+ - [Best Weightlifting Shoes for 2024](https://www.cnet.com/health/fitness/best-weightlifting-shoes/#ftag=CAD590a51e)
+ - [25 Black Friday Deals Under $100: Price Cuts on Top Tech, Home Goods From Big-Name Brands Like Apple and Sony](https://www.cnet.com/deals/best-black-friday-deals-under-100-2024-11-26/#ftag=CAD590a51e)
+ - [46 Best Black Friday PS5 Deals: Record-Low Prices on PS5 Slim and Save on Some of the Year&#39;s Best Games](https://www.cnet.com/deals/best-black-friday-ps5-deals-2024-11-26/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

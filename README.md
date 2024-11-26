@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Neo-Nazis Are on the March Across America](https://www.wired.com/story/neo-nazi-demonstrations-trump/)
- - [Apple chipmaker TSMC struggles to please both U.S. and Chinese officials](https://appleinsider.com/articles/24/11/26/apple-chipmaker-tsmc-struggles-to-please-both-us-and-chinese-officials?utm_medium=rss)
- - [Huawei’s Mate 70 smartphones will run its new Android-free OS](https://www.theverge.com/2024/11/26/24306370/huawei-mate-70-pro-plus-android-google-harmonyos-next)
- - [Meta says Threads has seen 35M new users sign up for the platform since November 1 and is now going on three months of more than one million signups per day &lpar;Sara Fischer/Axios&rpar;](http://www.techmeme.com/241126/p15#a241126p15)
- - [NFL&#39;s Gronk calls Apple his best-ever investment](https://appleinsider.com/articles/24/11/26/nfls-gronk-calls-apple-his-best-ever-investment?utm_medium=rss)<!-- TECH:END -->
+ - [13 Superfoods to Supercharge Your Kidney Health](https://www.cnet.com/health/nutrition/13-superfoods-to-supercharge-your-kidney-health/#ftag=CAD590a51e)
+ - [Chia Seed Water: What to Know and How to Make This Low-Effort Hydration Hack](https://www.cnet.com/health/nutrition/chia-seed-water-what-to-know-and-how-to-make-it/#ftag=CAD590a51e)
+ - [Sealy Posturepedic Mattress Review 2024: How Does This Household Name Stack Up Against Other Online Beds?](https://www.cnet.com/health/sleep/sealy-posturepedic-mattress-review-2024-how-does-this-household-name-stack-up-against-other-online-beds/#ftag=CAD590a51e)
+ - [Best Internet Speed Tests of 2024](https://www.cnet.com/home/internet/best-speed-tests/#ftag=CAD590a51e)
+ - [This Ceramic Griddle Is Unscratchable &lpar;I&#39;ve Tried&rpar;, and It&#39;s $8 Off For Black Friday](https://www.cnet.com/how-to/this-ceramic-griddle-is-unscratchable-ive-tried-and-its-8-off-for-black-friday/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

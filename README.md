@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Daddy metaphor](http://9gag.com/gag/apRNB6n)
+ - 😝 [Motorbiker giving advice to couple on a bridge](http://9gag.com/gag/aMVKGEA)
+ - 😝 [Lois was toxic AF but in her defense Clark was a manipulative gaslighter](http://9gag.com/gag/aAybwPE)
+ - 💣 [Wondering if this was one of those shit tests they make to have the guy fight for them](http://9gag.com/gag/amoPzZd)
  - 😝 [Big brother is washing](http://9gag.com/gag/a1mrdDG)
- - 💣 [Motorbiker giving advice to couple on a bridge](http://9gag.com/gag/aMVKGEA)
- - 😝 [Evolving, just backwards](http://9gag.com/gag/aMVKGZW)
- - 👉 [Lois was toxic AF but in her defense Clark was a manipulative gaslighter](http://9gag.com/gag/aAybwPE)<!-- MEMES:END -->
+ - 👉 [Evolving, just backwards](http://9gag.com/gag/aMVKGZW)<!-- MEMES:END -->
 
 ---
 

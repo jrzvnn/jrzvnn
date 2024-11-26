@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The very best Black Friday deals you can already get](https://www.theverge.com/24293826/best-early-black-friday-deals-2024-amazon-walmart-buy-target-tech-sale)
+ - [The 30 Best Movies on Max &lpar;aka HBO Max&rpar; Right Now &lpar;December 2024&rpar;](https://www.wired.com/story/best-movies-hbo-max-right-now/)
  - [More retractable cables, please](https://www.theverge.com/2024/11/26/24306616/counterpart-charger-retractable-usb-c-charging-cable)
  - [Mercedes-Benz now has an Apple Watch version of its mobile app](https://www.theverge.com/2024/11/26/24306633/mercedes-benz-apple-watch-app)
- - [Best Black Friday Deals Available Now: Live Sales Updates on TVs, Laptops, Gaming and More](https://www.cnet.com/deals/best-black-friday-deals-live/#ftag=CAD590a51e)
- - [Yes, That Viral LinkedIn Post You Read Was Probably AI-Generated](https://www.wired.com/story/linkedin-ai-generated-influencers/)
- - [Best Apple iPhone SE Cases for 2024](https://www.cnet.com/tech/mobile/best-apple-iphone-se-case/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Best Black Friday Deals Available Now: Live Sales Updates on TVs, Laptops, Gaming and More](https://www.cnet.com/deals/best-black-friday-deals-live/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

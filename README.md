@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Bruise Lee.](http://9gag.com/gag/a9yEPZZ)
- - 😝 [And a toll payer on top](http://9gag.com/gag/aGyp0Dw)
- - 💣 [A defense mechanism against Drake](http://9gag.com/gag/a4PELWp)
  - 😝 [Man uses a 100,000 lumen flashlight to escape from the cops](http://9gag.com/gag/azxMjdq)
- - 👉 [India&#39;s action movie Don 360 movie behind the scenes.](http://9gag.com/gag/aGypwgX)<!-- MEMES:END -->
+ - 😝 [No more than unbabatabletomato](http://9gag.com/gag/ae9Apgm)
+ - 💣 [*Final Boss Enters The Room*](http://9gag.com/gag/a1mrYN6)
+ - 😝 [They did it again!](http://9gag.com/gag/a34ELdN)
+ - 👉 [And a toll payer on top](http://9gag.com/gag/aGyp0Dw)<!-- MEMES:END -->
 
 ---
 

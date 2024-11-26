@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Black Friday blowout deals drive M3 MacBook Pro prices down to $1,199+](https://appleinsider.com/articles/24/11/26/black-friday-blowout-deals-drive-m3-macbook-pro-prices-down-to-1199?utm_medium=rss)
  - [Artists say they leaked OpenAI’s Sora video model in protest](https://www.theverge.com/2024/11/26/24306879/openai-sora-video-ai-model-leak-artist-protest)
  - [ISPs say there’s no need for new customer service rules; everything is great](https://www.theverge.com/2024/11/26/24306797/internet-broadband-service-providers-fcc-inquiry-customer-service)
  - [South Korea says it will bolster its domestic chipmakers next year with $10.2B in support including loans, citing potential economic uncertainty under Trump &lpar;Sam Kim/Bloomberg&rpar;](http://www.techmeme.com/241126/p26#a241126p26)
- - [Analysis finds over 54% of longer English-language posts on LinkedIn are likely AI-generated; LinkedIn says it doesn&#39;t track how many posts are created by AI &lpar;Kate Knibbs/Wired&rpar;](http://www.techmeme.com/241126/p25#a241126p25)
- - [Best Buy Black Friday Deals Are Already Here: We Found the Best 40+ Deals](https://www.cnet.com/deals/best-buy-black-friday-deals-2024-11-26/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Analysis finds over 54% of longer English-language posts on LinkedIn are likely AI-generated; LinkedIn says it doesn&#39;t track how many posts are created by AI &lpar;Kate Knibbs/Wired&rpar;](http://www.techmeme.com/241126/p25#a241126p25)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

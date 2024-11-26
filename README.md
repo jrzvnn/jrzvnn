@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [College liberal activist begging to retrieve her iPhone back from the homeless that stole it during a Palestine protest. She encouraged them to take anything they steal from \u201crich elite scum\u201d but that she\u2019s \u201cnice\u201d and \u201chonest\u201d and needs it back and she&#39;s `on their side`.](http://9gag.com/gag/aAybpP0)
- - 😝 [Dream job!](http://9gag.com/gag/azxMjNN)
- - 💣 [Lois was toxic AF but in her defense Clark was a manipulative gaslighter](http://9gag.com/gag/aAybwPE)
- - 😝 [They did it again!](http://9gag.com/gag/a34ELdN)
- - 👉 [Daddy metaphor](http://9gag.com/gag/apRNB6n)<!-- MEMES:END -->
+ - 😝 [Acting like it vs. Being it](http://9gag.com/gag/aLnp9BP)
+ - 😝 [Frustrated sexually](http://9gag.com/gag/a5QEZxL)
+ - 💣 [Good Job Tennessee.](http://9gag.com/gag/avy5Lz5)
+ - 😝 [I really shouldnt put my dick in there...however](http://9gag.com/gag/azxMA3Z)
+ - 👉 [Fast, not fast](http://9gag.com/gag/aW4j65A)<!-- MEMES:END -->
 
 ---
 

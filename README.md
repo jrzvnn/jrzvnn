@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Artists say they leaked OpenAI’s Sora video model in protest](https://www.theverge.com/2024/11/26/24306879/openai-sora-video-ai-model-leak-artist-protest)
+ - [ISPs say there’s no need for new customer service rules; everything is great](https://www.theverge.com/2024/11/26/24306797/internet-broadband-service-providers-fcc-inquiry-customer-service)
+ - [South Korea says it will bolster its domestic chipmakers next year with $10.2B in support including loans, citing potential economic uncertainty under Trump &lpar;Sam Kim/Bloomberg&rpar;](http://www.techmeme.com/241126/p26#a241126p26)
  - [Analysis finds over 54% of longer English-language posts on LinkedIn are likely AI-generated; LinkedIn says it doesn&#39;t track how many posts are created by AI &lpar;Kate Knibbs/Wired&rpar;](http://www.techmeme.com/241126/p25#a241126p25)
- - [Best Buy Black Friday Deals Are Already Here: We Found the Best 40+ Deals](https://www.cnet.com/deals/best-buy-black-friday-deals-2024-11-26/#ftag=CAD590a51e)
- - [Our VR Expert Weighs In on the Best Black Friday Meta Quest 3 and Quest 3S Accessory Deals](https://www.cnet.com/deals/our-vr-expert-weighs-in-on-the-best-black-friday-meta-quest-3-and-quest-3s-accessory-deals/#ftag=CAD590a51e)
- - [The FCC approves a license for SpaceX and T-Mobile to use Starlink to offer supplemental coverage from space in a bid to extend internet access to remote areas &lpar;David Shepardson/Reuters&rpar;](http://www.techmeme.com/241126/p24#a241126p24)
- - [Best Reading Glasses for 2024](https://www.cnet.com/health/personal-care/best-reading-glasses/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Best Buy Black Friday Deals Are Already Here: We Found the Best 40+ Deals](https://www.cnet.com/deals/best-buy-black-friday-deals-2024-11-26/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

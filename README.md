@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [X files an objection to including X accounts belonging or related to Infowars in the outlet&#39;s bankruptcy auction, arguing it has ownership of all X accounts &lpar;Jason Koebler/404 Media&rpar;](http://www.techmeme.com/241126/p18#a241126p18)
  - [Best Black Friday Mattress Deals for Sweet Dreams &lpar;2024&rpar;](https://www.wired.com/story/best-black-friday-mattress-deals-2024/)
  - [The Verge’s guide to Black Friday 2024](https://www.theverge.com/24288220/black-friday-best-deals-guide-cyber-monday-tech-gadgets-2024)
  - [The very best Black Friday deals you can already get](https://www.theverge.com/24293826/best-early-black-friday-deals-2024-amazon-walmart-buy-target-tech-sale)
- - [The 30 Best Movies on Max &lpar;aka HBO Max&rpar; Right Now &lpar;December 2024&rpar;](https://www.wired.com/story/best-movies-hbo-max-right-now/)
- - [Best Christmas Gifts 2024: 63 Ideas to Clear Your Holiday List](https://www.cnet.com/tech/best-christmas-gift-ideas/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [The 30 Best Movies on Max &lpar;aka HBO Max&rpar; Right Now &lpar;December 2024&rpar;](https://www.wired.com/story/best-movies-hbo-max-right-now/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

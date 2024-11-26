@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Bruise Lee.](http://9gag.com/gag/a9yEPZZ)
+ - 😝 [German finest](http://9gag.com/gag/a7oE7Ax)
  - 😝 [*Final Boss Enters The Room*](http://9gag.com/gag/a1mrYN6)
  - 💣 [Powerful victim](http://9gag.com/gag/axyMGvp)
- - 😝 [National Treasure](http://9gag.com/gag/aryMRzB)
- - 👉 [Breaking open a 47 lbs geode, the water inside being millions of years old](http://9gag.com/gag/a2v7YOw)<!-- MEMES:END -->
+ - 😝 [Breaking open a 47 lbs geode, the water inside being millions of years old](http://9gag.com/gag/a2v7YOw)
+ - 👉 [Daddy metaphor](http://9gag.com/gag/apRNB6n)<!-- MEMES:END -->
 
 ---
 

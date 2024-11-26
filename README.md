@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Powerful victim](http://9gag.com/gag/axyMGvp)
- - 😝 [*Final Boss Enters The Room*](http://9gag.com/gag/a1mrYN6)
- - 💣 [High technology!](http://9gag.com/gag/ayNMnNX)
+ - 😝 [German finest](http://9gag.com/gag/a7oE7Ax)
+ - 😝 [Professional skydiver Luigi Cani and his team scatter over 100 MILLION tree seeds in the heart of Brazil\u2019s Amazon rainforest. \ud83c\udf33\ud83c\udf33\ud83c\udde7\ud83c\uddf7](http://9gag.com/gag/a6ZEQWA)
+ - 💣 [*Final Boss Enters The Room*](http://9gag.com/gag/a1mrYN6)
  - 😝 [And a toll payer on top](http://9gag.com/gag/aGyp0Dw)
- - 👉 [Legendary german pimp-cartel boss Stefan `Kiezklatscher` Hentschel pimp-slaps some drunk mullet that interrupts his interview.](http://9gag.com/gag/aRBXK3B)<!-- MEMES:END -->
+ - 👉 [They did it again!](http://9gag.com/gag/a34ELdN)<!-- MEMES:END -->
 
 ---
 

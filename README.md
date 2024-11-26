@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Man uses a 100,000 lumen flashlight to escape from the cops](http://9gag.com/gag/azxMjdq)
- - 😝 [No more than unbabatabletomato](http://9gag.com/gag/ae9Apgm)
- - 💣 [*Final Boss Enters The Room*](http://9gag.com/gag/a1mrYN6)
- - 😝 [They did it again!](http://9gag.com/gag/a34ELdN)
- - 👉 [And a toll payer on top](http://9gag.com/gag/aGyp0Dw)<!-- MEMES:END -->
+ - 😝 [Powerful victim](http://9gag.com/gag/axyMGvp)
+ - 😝 [*Final Boss Enters The Room*](http://9gag.com/gag/a1mrYN6)
+ - 💣 [High technology!](http://9gag.com/gag/ayNMnNX)
+ - 😝 [And a toll payer on top](http://9gag.com/gag/aGyp0Dw)
+ - 👉 [Legendary german pimp-cartel boss Stefan `Kiezklatscher` Hentschel pimp-slaps some drunk mullet that interrupts his interview.](http://9gag.com/gag/aRBXK3B)<!-- MEMES:END -->
 
 ---
 

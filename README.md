@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Cradle, which uses AI to help design proteins and says its SaaS model has proven popular, raised a $73M Series B led by IVP, after a $24M Series A in 2023 &lpar;Devin Coldewey/TechCrunch&rpar;](http://www.techmeme.com/241126/p9#a241126p9)
+ - [How Murderbot Saved Martha Wells&#39; Life](https://www.wired.com/story/murderbot-she-wrote-martha-wells/)
+ - [Tim Cook&#39;s China visit is about getting Apple Intelligence into the country](https://appleinsider.com/articles/24/11/26/tim-cooks-china-visit-is-about-getting-apple-intelligence-into-the-country?utm_medium=rss)
  - [Google proposes Search tweaks in Europe to comply with the DMA, including removing the map showing hotel locations and results in Germany, Belgium, and Estonia &lpar;Foo Yun Chee/Reuters&rpar;](http://www.techmeme.com/241126/p8#a241126p8)
- - [Best Black Friday Deals on Outdoor Gear &lpar;2024&rpar;](https://www.wired.com/story/best-black-friday-outdoor-deals-2024/)
- - [Q&amp;A with GoDaddy CEO Aman Bhutani on running the company since 2019, competing with social media, Squarespace, Wix, and more, AI, the Airo platform, and more &lpar;Nilay Patel/The Verge&rpar;](http://www.techmeme.com/241126/p7#a241126p7)
- - [Video leaks of Samsung’s curvier Galaxy S25 Ultra flagship](https://www.theverge.com/2024/11/26/24306324/samsung-galaxy-s25-ultra-video-leak)
- - [The US awards Intel up to $7.865B under the CHIPS Act to help build or expand plants in Arizona, New Mexico, Ohio, and Oregon, including $1B+ later in 2024 &lpar;Thomas Gryta/Wall Street Journal&rpar;](http://www.techmeme.com/241126/p6#a241126p6)<!-- TECH:END -->
+ - [Best Black Friday Deals on Outdoor Gear &lpar;2024&rpar;](https://www.wired.com/story/best-black-friday-outdoor-deals-2024/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

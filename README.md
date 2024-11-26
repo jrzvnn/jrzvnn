@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Interpol arrested 1,006 suspects in 19 African countries from September 2 to October 31 to clamp down on cybercrime that left 35,000 victims with $193M losses &lpar;Mark Banchereau/Associated Press&rpar;](http://www.techmeme.com/241126/p13#a241126p13)
+ - [The 5 Best Down Pillows We Found After Months of Nighttime Testing &lpar;2024&rpar;](https://www.wired.com/gallery/best-down-pillows/)
  - [Get a Torras Ostand iPhone 16 case in all-new colors, now 15% off for Black Friday](https://appleinsider.com/articles/24/11/26/get-a-torras-ostand-iphone-16-case-in-all-new-colors-now-15-off-for-black-friday?utm_medium=rss)
  - [What Is Generative AI? Everything to Know About the Tech Behind ChatGPT and Gemini](https://www.cnet.com/tech/services-and-software/what-is-generative-ai-everything-to-know-about-the-tech-behind-chatgpt-and-gemini/#ftag=CAD590a51e)
- - [The Galaxy S25 May Be Samsung&#39;s Last. Why Smaller Phones Are Disappearing](https://www.cnet.com/tech/mobile/the-galaxy-s25-may-be-samsungs-last-why-smaller-phones-are-disappearing/#ftag=CAD590a51e)
- - [The Virtual Villages Helping Digital Nomads Find Real-World Friends](https://www.wired.com/story/virtual-villages-for-digital-nomads/)
- - [DJI Mic Mini Review: Tiny Wireless Microphones](https://www.wired.com/review/dji-mic-mini/)<!-- TECH:END -->
+ - [The Galaxy S25 May Be Samsung&#39;s Last. Why Smaller Phones Are Disappearing](https://www.cnet.com/tech/mobile/the-galaxy-s25-may-be-samsungs-last-why-smaller-phones-are-disappearing/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

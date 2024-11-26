@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [/dev/agents, which plans to build a cloud-based OS for AI agents that can work across phones, laptops, and cars, raised $56M, a source says at a $500M valuation &lpar;Shirin Ghaffary/Bloomberg&rpar;](http://www.techmeme.com/241126/p14#a241126p14)
  - [Carrier Holiday Deals: Beware of the Fine Print on Free Tablet or Smartwatch Bundles](https://www.cnet.com/tech/mobile/carrier-holiday-deals-beware-of-the-fine-print-on-free-tablet-or-smartwatch-bundles/#ftag=CAD590a51e)
  - [Insta360 Ace Pro 2 Review: 8K Action Camera With a Leica Lens](https://www.wired.com/review/insta360-ace-pro-2/)
  - [How to use Google Gemini on your phone](https://www.theverge.com/24305656/gemini-google-assistant-android-how-to)
- - [Best Black Friday Deals Available Now: Live Sales Updates on TVs, Laptops, Gaming and More](https://www.cnet.com/deals/best-black-friday-deals-live/#ftag=CAD590a51e)
- - [Phone Maker Xiaomi Made the Car That Apple Couldn&#39;t](https://www.wired.com/story/phone-maker-xiaomi-made-the-car-that-apple-couldnt/)<!-- TECH:END -->
+ - [Best Black Friday Deals Available Now: Live Sales Updates on TVs, Laptops, Gaming and More](https://www.cnet.com/deals/best-black-friday-deals-live/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

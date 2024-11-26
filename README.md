@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Sources: Qualcomm&#39;s interest in an Intel acquisition has cooled; CEO Cristiano Amon says &quot;right now, at this time, we have not identified any large acquisition&quot; &lpar;Bloomberg&rpar;](http://www.techmeme.com/241125/p32#a241125p32)
  - [US v. Google redux: all the news from the ad tech trial](https://www.theverge.com/24237832/google-monopoly-trial-ad-tech-antitrust-us-search)
  - [Brazil&#39;s antitrust regulator is set to fine Apple if in-app purchase restrictions aren&#39;t lifted](https://appleinsider.com/articles/24/11/26/brazils-antitrust-regulator-is-set-to-fine-apple-if-in-app-purchase-restrictions-arent-lifted?utm_medium=rss)
  - [A look at Bluesky&#39;s moderation efforts amid a growth spurt; Bluesky plans to quadruple the size of its contract workforce of content moderators from 25 to 100 &lpar;Casey Newton/Platformer&rpar;](http://www.techmeme.com/241125/p31#a241125p31)
- - [IPVanish Review 2024: Good for Beginners, but Privacy-Critical Users Should Avoid](https://www.cnet.com/tech/services-and-software/ipvanish-review/#ftag=CAD590a51e)
- - [Telegram&#39;s H1 2024 unaudited financial docs: $525M in revenue, up 190% YoY, a $335M post-tax profit, and digital assets worth $1.3B, up from $400M at 2023&#39;s end &lpar;Financial Times&rpar;](http://www.techmeme.com/241125/p30#a241125p30)<!-- TECH:END -->
+ - [Best Internet Providers in Tulsa, Oklahoma](https://www.cnet.com/home/internet/best-internet-providers-in-tulsa-ok/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

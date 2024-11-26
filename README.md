@@ -166,10 +166,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Lois was toxic AF but in her defense Clark was a manipulative gaslighter](http://9gag.com/gag/aAybwPE)
- - 😝 [Wondering if this was one of those shit tests they make to have the guy fight for them](http://9gag.com/gag/amoPzZd)
- - 💣 [Man uses a 100,000 lumen flashlight to escape from the cops](http://9gag.com/gag/azxMjdq)
  - 😝 [Evolving, just backwards](http://9gag.com/gag/aMVKGZW)
+ - 😝 [Man uses a 100,000 lumen flashlight to escape from the cops](http://9gag.com/gag/azxMjdq)
+ - 💣 [Deep Johnny Depp](http://9gag.com/gag/aLnpD6M)
+ - 😝 [Wondering if this was one of those shit tests they make to have the guy fight for them](http://9gag.com/gag/amoPzZd)
  - 👉 [Big brother is washing](http://9gag.com/gag/a1mrdDG)<!-- MEMES:END -->
 
 ---

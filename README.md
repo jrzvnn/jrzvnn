@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [OpenAI, Meta, and Orange plan to train AI models on African languages, starting with Wolof and Pulaar, addressing a shortage for Africa&#39;s thousands of dialects &lpar;Bloomberg&rpar;](http://www.techmeme.com/241126/p12#a241126p12)
+ - [Traveling to Japan? Here Are 8 Useful Apps for Getting Around](https://www.wired.com/story/japan-travel-useful-apps/)
+ - [Bluesky says it is working to comply with EU rules and is consulting with its lawyers, after the bloc accused the social network of flouting its regulations &lpar;Gian Volpicelli/Bloomberg&rpar;](http://www.techmeme.com/241126/p11#a241126p11)
  - [Next generation CarPlay shown in regulator filing](https://appleinsider.com/articles/24/11/26/next-generation-carplay-shown-in-regulator-filing?utm_medium=rss)
- - [The Beginning of the End of Big Tech](https://www.wired.com/story/the-beginning-of-the-end-of-big-tech/)
- - [Emergency Vehicle Lights Can Screw Up a Car&#39;s Automated Driving System](https://www.wired.com/story/emergency-vehicle-lights-can-screw-up-a-cars-automated-driving-system/)
- - [3 Simple Rules to Beat the Downsides of Aging](https://www.wired.com/story/three-simple-rules-to-beat-the-downsides-of-aging/)
- - [How Do You Get to Artificial General Intelligence? Think Lighter](https://www.wired.com/story/how-do-you-get-to-artificial-general-intelligence-think-lighter/)<!-- TECH:END -->
+ - [The Beginning of the End of Big Tech](https://www.wired.com/story/the-beginning-of-the-end-of-big-tech/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

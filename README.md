@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Your fav neighbor](http://9gag.com/gag/a87E4DZ)
- - 😝 [I really shouldnt put my dick in there...however](http://9gag.com/gag/azxMA3Z)
- - 💣 [Bro chose the right person](http://9gag.com/gag/apRNLx8)
- - 😝 [A romantic interlude.](http://9gag.com/gag/a4PEL01)
- - 👉 [Good Job Tennessee.](http://9gag.com/gag/avy5Lz5)<!-- MEMES:END -->
+ - 😝 [Bruise Lee.](http://9gag.com/gag/a9yEPZZ)
+ - 😝 [Daddy metaphor](http://9gag.com/gag/apRNB6n)
+ - 💣 [Gentle reminder that our content funds this:](http://9gag.com/gag/abAV0Kp)
+ - 😝 [Evolving, just backwards](http://9gag.com/gag/aMVKGZW)
+ - 👉 [Acting like it vs. Being it](http://9gag.com/gag/aLnp9BP)<!-- MEMES:END -->
 
 ---
 

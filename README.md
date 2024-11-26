@@ -167,10 +167,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [This is so beautiful, I love her smile](http://9gag.com/gag/aD2dmrO)
- - 😝 [Man uses a 100,000 lumen flashlight to escape from the cops](http://9gag.com/gag/azxMjdq)
- - 💣 [No more than unbabatabletomato](http://9gag.com/gag/ae9Apgm)
- - 😝 [Breaking open a 47 lbs geode, the water inside being millions of years old](http://9gag.com/gag/a2v7YOw)
- - 👉 [A defense mechanism against Drake](http://9gag.com/gag/a4PELWp)<!-- MEMES:END -->
+ - 😝 [Your fav neighbor](http://9gag.com/gag/a87E4DZ)
+ - 💣 [A romantic interlude.](http://9gag.com/gag/a4PEL01)
+ - 😝 [Bro chose the right person](http://9gag.com/gag/apRNLx8)
+ - 👉 [Good Job Tennessee.](http://9gag.com/gag/avy5Lz5)<!-- MEMES:END -->
 
 ---
 

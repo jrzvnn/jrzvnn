@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Hulu’s best Black Friday deal is back with $.99 a month for an entire year](https://www.theverge.com/2024/11/26/24306632/hulu-disney-plus-ads-bundle-black-friday-deal-sale)
+ - [Threads says 35 million users signed up in November](https://www.theverge.com/2024/11/26/24306591/threads-35-million-signups-november-growth)
  - [Amazon’s new Madden doc is a startup story — and a cautionary tale](https://www.theverge.com/24306628/madden-documentary-its-in-the-game-review-amazon-prime-video)
  - [Bang &amp; Olufsen’s new $499 earbuds have better ANC and replaceable batteries](https://www.theverge.com/2024/11/26/24306567/bang-olufsen-beoplay-eleven-wireless-earbuds-replaceable-battery-sustainable)
- - [Drake ropes Siri into his feud with rival Kendrick Lamar, for some reason](https://appleinsider.com/articles/24/11/26/drake-ropes-siri-into-his-feud-with-rival-kendrick-lamar-for-some-reason?utm_medium=rss)
- - [Champions League Soccer: Livestream Sporting CP vs. Arsenal From Anywhere](https://www.cnet.com/tech/services-and-software/champions-league-soccer-livestream-sporting-cp-vs-arsenal-from-anywhere/#ftag=CAD590a51e)
- - [Champions League Soccer: Livestream Man City vs. Feyenoord From Anywhere](https://www.cnet.com/tech/services-and-software/champions-league-soccer-livestream-man-city-vs-feyenoord-from-anywhere/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Drake ropes Siri into his feud with rival Kendrick Lamar, for some reason](https://appleinsider.com/articles/24/11/26/drake-ropes-siri-into-his-feud-with-rival-kendrick-lamar-for-some-reason?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

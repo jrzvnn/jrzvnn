@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Title](http://9gag.com/gag/aBy2rQ1)
  - 😝 [Man uses a 100,000 lumen flashlight to escape from the cops](http://9gag.com/gag/azxMjdq)
- - 💣 [Breaking open a 47 lbs geode, the water inside being millions of years old](http://9gag.com/gag/a2v7YOw)
- - 😝 [Acting like it vs. Being it](http://9gag.com/gag/aLnp9BP)
- - 👉 [Daddy metaphor](http://9gag.com/gag/apRNB6n)<!-- MEMES:END -->
+ - 😝 [Evolving, just backwards](http://9gag.com/gag/aMVKGZW)
+ - 💣 [India&#39;s action movie Don 360 movie behind the scenes.](http://9gag.com/gag/aGypwgX)
+ - 😝 [Legendary german pimp-cartel boss Stefan `Kiezklatscher` Hentschel pimp-slaps some drunk mullet that interrupts his interview.](http://9gag.com/gag/aRBXK3B)
+ - 👉 [*Final Boss Enters The Room*](http://9gag.com/gag/a1mrYN6)<!-- MEMES:END -->
 
 ---
 

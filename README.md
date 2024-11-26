@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Wholesome posts that I saved #6](http://9gag.com/gag/aryM4g5)
- - 😝 [Bus driver having bad crash in his dream. Izmir, Turkey](http://9gag.com/gag/avy5PoE)
- - 💣 [Lois was toxic AF but in her defense Clark was a manipulative gaslighter](http://9gag.com/gag/aAybwPE)
- - 😝 [Professional skydiver Luigi Cani and his team scatter over 100 MILLION tree seeds in the heart of Brazil\u2019s Amazon rainforest. \ud83c\udf33\ud83c\udf33\ud83c\udde7\ud83c\uddf7](http://9gag.com/gag/a6ZEQWA)
- - 👉 [Legendary german pimp-cartel boss Stefan `Kiezklatscher` Hentschel pimp-slaps some drunk mullet that interrupts his interview.](http://9gag.com/gag/aRBXK3B)<!-- MEMES:END -->
+ - 😝 [And a toll payer on top](http://9gag.com/gag/aGyp0Dw)
+ - 😝 [Acting like it vs. Being it](http://9gag.com/gag/aLnp9BP)
+ - 💣 [Getting ready to go out demo.](http://9gag.com/gag/adB8Xd2)
+ - 😝 [A defense mechanism against Drake](http://9gag.com/gag/a4PELWp)
+ - 👉 [Title](http://9gag.com/gag/aBy2rQ1)<!-- MEMES:END -->
 
 ---
 

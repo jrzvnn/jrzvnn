@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Getting ready to go out demo.](http://9gag.com/gag/adB8Xd2)
- - 😝 [Breaking open a 47 lbs geode, the water inside being millions of years old](http://9gag.com/gag/a2v7YOw)
- - 💣 [And a toll payer on top](http://9gag.com/gag/aGyp0Dw)
- - 😝 [Bus driver having bad crash in his dream. Izmir, Turkey](http://9gag.com/gag/avy5PoE)
- - 👉 [Man uses a 100,000 lumen flashlight to escape from the cops](http://9gag.com/gag/azxMjdq)<!-- MEMES:END -->
+ - 😝 [Bruise Lee.](http://9gag.com/gag/a9yEPZZ)
+ - 😝 [And a toll payer on top](http://9gag.com/gag/aGyp0Dw)
+ - 💣 [A defense mechanism against Drake](http://9gag.com/gag/a4PELWp)
+ - 😝 [Man uses a 100,000 lumen flashlight to escape from the cops](http://9gag.com/gag/azxMjdq)
+ - 👉 [India&#39;s action movie Don 360 movie behind the scenes.](http://9gag.com/gag/aGypwgX)<!-- MEMES:END -->
 
 ---
 

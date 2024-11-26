@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Bruise Lee.](http://9gag.com/gag/a9yEPZZ)
  - 😝 [Gentle reminder that our content funds this:](http://9gag.com/gag/abAV0Kp)
- - 💣 [College liberal activist begging to retrieve her iPhone back from the homeless that stole it during a Palestine protest. She encouraged them to take anything they steal from \u201crich elite scum\u201d but that she\u2019s \u201cnice\u201d and \u201chonest\u201d and needs it back and she&#39;s `on their side`.](http://9gag.com/gag/aAybpP0)
- - 😝 [India&#39;s action movie Don 360 movie behind the scenes.](http://9gag.com/gag/aGypwgX)
- - 👉 [Daddy metaphor](http://9gag.com/gag/apRNB6n)<!-- MEMES:END -->
+ - 😝 [College liberal activist begging to retrieve her iPhone back from the homeless that stole it during a Palestine protest. She encouraged them to take anything they steal from \u201crich elite scum\u201d but that she\u2019s \u201cnice\u201d and \u201chonest\u201d and needs it back and she&#39;s `on their side`.](http://9gag.com/gag/aAybpP0)
+ - 💣 [Daddy metaphor](http://9gag.com/gag/apRNB6n)
+ - 😝 [German finest](http://9gag.com/gag/a7oE7Ax)
+ - 👉 [Breaking open a 47 lbs geode, the water inside being millions of years old](http://9gag.com/gag/a2v7YOw)<!-- MEMES:END -->
 
 ---
 

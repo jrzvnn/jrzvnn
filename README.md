@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Bruise Lee.](http://9gag.com/gag/a9yEPZZ)
+ - 😝 [Acting like it vs. Being it](http://9gag.com/gag/aLnp9BP)
  - 😝 [Daddy metaphor](http://9gag.com/gag/apRNB6n)
- - 💣 [Gentle reminder that our content funds this:](http://9gag.com/gag/abAV0Kp)
- - 😝 [Evolving, just backwards](http://9gag.com/gag/aMVKGZW)
- - 👉 [Acting like it vs. Being it](http://9gag.com/gag/aLnp9BP)<!-- MEMES:END -->
+ - 💣 [Getting ready to go out demo.](http://9gag.com/gag/adB8Xd2)
+ - 😝 [*Final Boss Enters The Room*](http://9gag.com/gag/a1mrYN6)
+ - 👉 [Gentle reminder that our content funds this:](http://9gag.com/gag/abAV0Kp)<!-- MEMES:END -->
 
 ---
 

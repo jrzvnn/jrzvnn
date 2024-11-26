@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Well it\u2019s really difficult](http://9gag.com/gag/aAybPRE)
- - 😝 [Hitting the jackpot twice but still managing to lose all](http://9gag.com/gag/aD2djNG)
- - 💣 [Bro chose the right person](http://9gag.com/gag/apRNLx8)
- - 😝 [Acting like it vs. Being it](http://9gag.com/gag/aLnp9BP)
- - 👉 [Good Job Tennessee.](http://9gag.com/gag/avy5Lz5)<!-- MEMES:END -->
+ - 😝 [Lois was toxic AF but in her defense Clark was a manipulative gaslighter](http://9gag.com/gag/aAybwPE)
+ - 😝 [German finest](http://9gag.com/gag/a7oE7Ax)
+ - 💣 [Frustrated sexually](http://9gag.com/gag/a5QEZxL)
+ - 😝 [Wondering if this was one of those shit tests they make to have the guy fight for them](http://9gag.com/gag/amoPzZd)
+ - 👉 [And a toll payer on top](http://9gag.com/gag/aGyp0Dw)<!-- MEMES:END -->
 
 ---
 

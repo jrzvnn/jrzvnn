@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [Dream job!](http://9gag.com/gag/azxMjNN)
+ - 😝 [Title](http://9gag.com/gag/aBy2rQ1)
+ - 💣 [It\u2019s called Bangkok honey](http://9gag.com/gag/aBy2YNO)
  - 😝 [Lois was toxic AF but in her defense Clark was a manipulative gaslighter](http://9gag.com/gag/aAybwPE)
- - 😝 [German finest](http://9gag.com/gag/a7oE7Ax)
- - 💣 [Frustrated sexually](http://9gag.com/gag/a5QEZxL)
- - 😝 [Wondering if this was one of those shit tests they make to have the guy fight for them](http://9gag.com/gag/amoPzZd)
- - 👉 [And a toll payer on top](http://9gag.com/gag/aGyp0Dw)<!-- MEMES:END -->
+ - 👉 [Daddy metaphor](http://9gag.com/gag/apRNB6n)<!-- MEMES:END -->
 
 ---
 

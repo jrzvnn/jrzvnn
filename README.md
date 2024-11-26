@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The Fossil Fuels Conversation Needs a Hard Reset](https://www.wired.com/story/fossil-fuels-conversation-needs-a-hard-reset/)
+ - [The Climate-Driven Diaspora Is Here](https://www.wired.com/story/the-climate-driven-diaspora-is-here/)
  - [Drake launches legal action against UMG and Spotify for allegedly using bots, payola, and more to inflate Kendrick Lamar&#39;s Not Like Us, a track attacking Drake &lpar;Bill Donahue/Billboard&rpar;](http://www.techmeme.com/241126/p4#a241126p4)
  - [Algorithms Are Coming for Democracy—but It&#39;s Not All Bad](https://www.wired.com/story/algorithms-are-coming-for-democracy-but-its-not-all-bad/)
- - [We Need a New Right to Repair for Artificial Intelligence](https://www.wired.com/story/we-need-new-right-to-repair-for-artificial-intelligence/)
- - [Embrace the Shift to ‘Prosocial Media’](https://www.wired.com/story/prosocial-media-social-networks-discourse-decentralization/)
- - [10% Off Sephora Promo Code for November 2024](https://www.wired.com/story/sephora-promo-code/)<!-- TECH:END -->
+ - [We Need a New Right to Repair for Artificial Intelligence](https://www.wired.com/story/we-need-new-right-to-repair-for-artificial-intelligence/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -159,9 +159,9 @@ R                        1 repo              ░░░░░░░░░░░�
 <!-- TECH:START -->
  - [More retractable cables, please](https://www.theverge.com/2024/11/26/24306616/counterpart-charger-retractable-usb-c-charging-cable)
  - [Mercedes-Benz now has an Apple Watch version of its mobile app](https://www.theverge.com/2024/11/26/24306633/mercedes-benz-apple-watch-app)
+ - [Best Black Friday Deals Available Now: Live Sales Updates on TVs, Laptops, Gaming and More](https://www.cnet.com/deals/best-black-friday-deals-live/#ftag=CAD590a51e)
  - [Yes, That Viral LinkedIn Post You Read Was Probably AI-Generated](https://www.wired.com/story/linkedin-ai-generated-influencers/)
- - [A lawsuit between two Amazon influencers over allegations of copyright infringement shows the challenges of defining originality and ownership in content &lpar;Mia Sato/The Verge&rpar;](http://www.techmeme.com/241126/p17#a241126p17)
- - [Hulu’s best Black Friday deal is back with $.99 a month for an entire year](https://www.theverge.com/2024/11/26/24306632/hulu-disney-plus-ads-bundle-black-friday-deal-sale)<!-- TECH:END -->
+ - [Best Apple iPhone SE Cases for 2024](https://www.cnet.com/tech/mobile/best-apple-iphone-se-case/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Atlantic hurricane season is coming to an end — will the US be ready for the next one?](https://www.theverge.com/2024/11/26/24306445/atlantic-hurricane-season-end-2024-noaa)
  - [Apple’s latest AirPods Pro are cheaper than the AirPods 4 right now](https://www.theverge.com/2024/11/26/24306522/apple-airpods-pro-2-usb-c-earbuds-black-friday-deal-sale)
  - [Wear OS 5.1 could let you play music on your built-in Android watch speakers](https://www.theverge.com/2024/11/26/24306483/wear-os-5-1-could-let-you-play-music-on-your-built-in-android-watch-speakers)
  - [BioWare veteran’s studio shuts down before releasing a game](https://www.theverge.com/2024/11/26/24306508/bioware-casey-hudson-humanoid-origin-shut-down)
- - [The small thing that can keep drivers attentive while using partial automation](https://www.theverge.com/2024/11/26/24306519/adas-partial-automation-driver-attention-steering-iihs)
- - [Champions League Soccer: Livestream Bayern Munich vs. PSG From Anywhere](https://www.cnet.com/tech/services-and-software/champions-league-soccer-livestream-bayern-munich-vs-psg-from-anywhere/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [The small thing that can keep drivers attentive while using partial automation](https://www.theverge.com/2024/11/26/24306519/adas-partial-automation-driver-attention-steering-iihs)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

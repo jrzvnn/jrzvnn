@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Dell Q3: revenue up 10% YoY to $24.4B, vs. $24.67B est., Infrastructure Solutions Group up 34% driven by AI sales, net income up 12%; DELL drops 6% after hours &lpar;Kif Leswing/CNBC&rpar;](http://www.techmeme.com/241126/p19#a241126p19)
+ - [Drake May Soon Find Out If the Law Can Settle a Rap Beef](https://www.wired.com/story/drake-kendrick-lamar-beef-legal-umg-spotify-iheartradio/)
+ - [8 Great Soundbar Deals to Grab Ahead of Black Friday &lpar;2024&rpar;](https://www.wired.com/story/black-friday-soundbar-deals-2024/)
  - [Best Black Friday Therabody Deals &lpar;2024&rpar;: LED Masks, Massage](https://www.wired.com/story/black-friday-therabody-deals/)
- - [Mac mini M4 Pro review: Mac Studio power, miniaturized](https://appleinsider.com/articles/24/11/26/mac-mini-m4-pro-review-mac-studio-power-miniaturized?utm_medium=rss)
- - [X files an objection to including X accounts belonging or related to Infowars in the outlet&#39;s bankruptcy auction, arguing it has ownership of all X accounts &lpar;Jason Koebler/404 Media&rpar;](http://www.techmeme.com/241126/p18#a241126p18)
- - [Best Black Friday Mattress Deals for Sweet Dreams &lpar;2024&rpar;](https://www.wired.com/story/best-black-friday-mattress-deals-2024/)
- - [The Verge’s guide to Black Friday 2024](https://www.theverge.com/24288220/black-friday-best-deals-guide-cyber-monday-tech-gadgets-2024)<!-- TECH:END -->
+ - [Mac mini M4 Pro review: Mac Studio power, miniaturized](https://appleinsider.com/articles/24/11/26/mac-mini-m4-pro-review-mac-studio-power-miniaturized?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

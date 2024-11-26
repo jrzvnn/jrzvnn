@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Phone Maker Xiaomi Made the Car That Apple Couldn&#39;t](https://www.wired.com/story/phone-maker-xiaomi-made-the-car-that-apple-couldnt/)
- - [Interpol arrested 1,006 suspects in 19 African countries from September 2 to October 31 to clamp down on cybercrime that left 35,000 victims with $193M losses &lpar;Mark Banchereau/Associated Press&rpar;](http://www.techmeme.com/241126/p13#a241126p13)
- - [The 5 Best Down Pillows We Found After Months of Nighttime Testing &lpar;2024&rpar;](https://www.wired.com/gallery/best-down-pillows/)
- - [Get a Torras Ostand iPhone 16 case in all-new colors, now 15% off for Black Friday](https://appleinsider.com/articles/24/11/26/get-a-torras-ostand-iphone-16-case-in-all-new-colors-now-15-off-for-black-friday?utm_medium=rss)
- - [What Is Generative AI? Everything to Know About the Tech Behind ChatGPT and Gemini](https://www.cnet.com/tech/services-and-software/what-is-generative-ai-everything-to-know-about-the-tech-behind-chatgpt-and-gemini/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Carrier Holiday Deals: Beware of the Fine Print on Free Tablet or Smartwatch Bundles](https://www.cnet.com/tech/mobile/carrier-holiday-deals-beware-of-the-fine-print-on-free-tablet-or-smartwatch-bundles/#ftag=CAD590a51e)
+ - [Insta360 Ace Pro 2 Review: 8K Action Camera With a Leica Lens](https://www.wired.com/review/insta360-ace-pro-2/)
+ - [How to use Google Gemini on your phone](https://www.theverge.com/24305656/gemini-google-assistant-android-how-to)
+ - [Best Black Friday Deals Available Now: Live Sales Updates on TVs, Laptops, Gaming and More](https://www.cnet.com/deals/best-black-friday-deals-live/#ftag=CAD590a51e)
+ - [Phone Maker Xiaomi Made the Car That Apple Couldn&#39;t](https://www.wired.com/story/phone-maker-xiaomi-made-the-car-that-apple-couldnt/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

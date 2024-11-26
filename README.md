@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Zoom 2.0 relaunches as an AI-first company without video in its name](https://www.theverge.com/2024/11/25/24305942/zoom-communications-rename-ai-first-company)
- - [Drake says UMG and Spotify used bots and payola to make ‘Not Like Us’ seem popular](https://www.theverge.com/2024/11/25/24305959/drake-kendrick-umg-spotify-not-like-us-legal-action)
- - [Google and the DOJ make their final arguments in the ad tech monopoly case](https://www.theverge.com/2024/11/25/24305748/google-doj-ad-tech-monopoly-closing-arguments)
- - [Google is &#39;three times a monopolist&#39; says DOJ in anti-trust lawsuit](https://appleinsider.com/articles/24/11/25/google-is-three-times-a-monopolist-says-doj-in-anti-trust-lawsuit?utm_medium=rss)
- - [Best Christmas Gifts 2024: 64 Ideas to Clear Your Holiday List](https://www.cnet.com/tech/best-christmas-gift-ideas/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Early Kindle Black Friday Deals and Amazon Device Sales &lpar;2024&rpar;](https://www.wired.com/story/black-friday-amazon-devices-deals-2024/)
+ - [The best Black Friday deals on AirPods, MacBooks, and other Apple tech](https://www.theverge.com/24305511/black-friday-apple-best-deals-2024-macbook-airpods-cyber-monday)
+ - [A ransomware attack on Blue Yonder, a major supply chain software provider, is disrupting operations at Starbucks, the UK&#39;s Sainsbury&#39;s, and other retailers &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/241125/p28#a241125p28)
+ - [Here&#39;s How to Get an Extra $200 for Amazon Black Friday Deals](https://www.cnet.com/personal-finance/credit-cards/heres-how-to-get-an-extra-200-for-amazon-black-friday-deals/#ftag=CAD590a51e)
+ - [Best Internet Providers in Traverse City, Michigan](https://www.cnet.com/home/internet/best-internet-providers-in-traverse-city-mi/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

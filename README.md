@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Next generation CarPlay shown in regulator filing](https://appleinsider.com/articles/24/11/26/next-generation-carplay-shown-in-regulator-filing?utm_medium=rss)
+ - [The Beginning of the End of Big Tech](https://www.wired.com/story/the-beginning-of-the-end-of-big-tech/)
+ - [Emergency Vehicle Lights Can Screw Up a Car&#39;s Automated Driving System](https://www.wired.com/story/emergency-vehicle-lights-can-screw-up-a-cars-automated-driving-system/)
  - [3 Simple Rules to Beat the Downsides of Aging](https://www.wired.com/story/three-simple-rules-to-beat-the-downsides-of-aging/)
- - [How Do You Get to Artificial General Intelligence? Think Lighter](https://www.wired.com/story/how-do-you-get-to-artificial-general-intelligence-think-lighter/)
- - [An interview with Margrethe Vestager, the EU&#39;s tech antitrust enforcer since 2014, on her &quot;partly successful&quot; tenure, US collaboration, Trump, the DSA, and more &lpar;Adam Satariano/New York Times&rpar;](http://www.techmeme.com/241126/p10#a241126p10)
- - [Cradle, which uses AI to help design proteins and says its SaaS model has proven popular, raised a $73M Series B led by IVP, after a $24M Series A in 2023 &lpar;Devin Coldewey/TechCrunch&rpar;](http://www.techmeme.com/241126/p9#a241126p9)
- - [What Will a Second Trump Term Mean for Your Money? Experts Weigh In](https://www.cnet.com/personal-finance/what-will-a-second-trump-term-mean-for-your-money-experts-weigh-in/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [How Do You Get to Artificial General Intelligence? Think Lighter](https://www.wired.com/story/how-do-you-get-to-artificial-general-intelligence-think-lighter/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

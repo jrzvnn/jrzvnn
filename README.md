@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [It&#39;s Time to Make the Internet Safer for Kids](https://www.wired.com/story/digital-social-media-safeguards-children-policy/)
- - [Huawei unveils the $760+ Mate 70 series, powered by its HarmonyOS Next, calling the flagship device the &quot;smartest&quot; Mate phone, as it faces US chip curbs &lpar;New York Times&rpar;](http://www.techmeme.com/241126/p5#a241126p5)
- - [The Fossil Fuels Conversation Needs a Hard Reset](https://www.wired.com/story/fossil-fuels-conversation-needs-a-hard-reset/)
- - [The Climate-Driven Diaspora Is Here](https://www.wired.com/story/the-climate-driven-diaspora-is-here/)
- - [Drake launches legal action against UMG and Spotify for allegedly using bots, payola, and more to inflate Kendrick Lamar&#39;s Not Like Us, a track attacking Drake &lpar;Bill Donahue/Billboard&rpar;](http://www.techmeme.com/241126/p4#a241126p4)<!-- TECH:END -->
+ - [Q&amp;A with GoDaddy CEO Aman Bhutani on running the company since 2019, competing with social media, Squarespace, Wix, and more, AI, the Airo platform, and more &lpar;Nilay Patel/The Verge&rpar;](http://www.techmeme.com/241126/p7#a241126p7)
+ - [Video leaks of Samsung’s curvier Galaxy S25 Ultra flagship](https://www.theverge.com/2024/11/26/24306324/samsung-galaxy-s25-ultra-video-leak)
+ - [The US awards Intel up to $7.865B under the CHIPS Act to help build or expand plants in Arizona, New Mexico, Ohio, and Oregon, including $1B+ later in 2024 &lpar;Thomas Gryta/Wall Street Journal&rpar;](http://www.techmeme.com/241126/p6#a241126p6)
+ - [Combining AI and Crispr Will Be Transformational](https://www.wired.com/story/combining-ai-and-crispr-will-be-transformational/)
+ - [It&#39;s Time to Make the Internet Safer for Kids](https://www.wired.com/story/digital-social-media-safeguards-children-policy/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

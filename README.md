@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [Motorbiker giving advice to couple on a bridge](http://9gag.com/gag/aMVKGEA)
  - 😝 [Evolving, just backwards](http://9gag.com/gag/aMVKGZW)
- - 😝 [Man uses a 100,000 lumen flashlight to escape from the cops](http://9gag.com/gag/azxMjdq)
  - 💣 [Deep Johnny Depp](http://9gag.com/gag/aLnpD6M)
  - 😝 [Wondering if this was one of those shit tests they make to have the guy fight for them](http://9gag.com/gag/amoPzZd)
- - 👉 [Big brother is washing](http://9gag.com/gag/a1mrdDG)<!-- MEMES:END -->
+ - 👉 [German finest](http://9gag.com/gag/a7oE7Ax)<!-- MEMES:END -->
 
 ---
 

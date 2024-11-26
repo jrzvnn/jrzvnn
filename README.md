@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Analysis finds over 54% of longer English-language posts on LinkedIn are likely AI-generated; LinkedIn says it doesn&#39;t track how many posts are created by AI &lpar;Kate Knibbs/Wired&rpar;](http://www.techmeme.com/241126/p25#a241126p25)
+ - [Best Buy Black Friday Deals Are Already Here: We Found the Best 40+ Deals](https://www.cnet.com/deals/best-buy-black-friday-deals-2024-11-26/#ftag=CAD590a51e)
+ - [Our VR Expert Weighs In on the Best Black Friday Meta Quest 3 and Quest 3S Accessory Deals](https://www.cnet.com/deals/our-vr-expert-weighs-in-on-the-best-black-friday-meta-quest-3-and-quest-3s-accessory-deals/#ftag=CAD590a51e)
  - [The FCC approves a license for SpaceX and T-Mobile to use Starlink to offer supplemental coverage from space in a bid to extend internet access to remote areas &lpar;David Shepardson/Reuters&rpar;](http://www.techmeme.com/241126/p24#a241126p24)
- - [A group published a project on Hugging Face that seemingly granted brief access to OpenAI&#39;s Sora, protesting what it calls duplicity and &quot;art washing&quot; by OpenAI &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/241126/p23#a241126p23)
- - [Mac mini M4 Pro review: Mac Studio power, miniaturized](https://appleinsider.com/articles/24/11/26/mac-mini-m4-pro-review-mac-studio-power-miniaturized?utm_medium=rss)
- - [Google’s connecting Spotify to its Gemini AI  assistant](https://www.theverge.com/2024/11/26/24306815/google-gemini-spotify-extension-rollout-android)
- - [19 Early Walmart Black Friday Deals](https://www.wired.com/story/walmart-deals-november-2024-1/)<!-- TECH:END -->
+ - [Best Reading Glasses for 2024](https://www.cnet.com/health/personal-care/best-reading-glasses/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

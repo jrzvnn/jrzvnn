@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Black Friday discount: M4 Pro MacBook Pro &lpar;48GB RAM, 1TB SSD&rpar; on sale now for $2,389](https://appleinsider.com/articles/24/11/26/black-friday-discount-m4-pro-macbook-pro-48gb-ram-1tb-ssd-on-sale-now-for-2389?utm_medium=rss)
- - [Rivian gets $6.6 billion government loan to build its EV factory in Georgia](https://www.theverge.com/2024/11/26/24306402/rivian-doe-atvm-loan-georgia-ev-factory-trump)
- - [Best Portable Charger of 2024: iPhones, iPads, Laptops &amp; More](https://www.wired.com/gallery/best-portable-chargers-power-banks/)
- - [The influencer lawsuit that could change the industry](https://www.theverge.com/2024/11/26/24303161/amazon-influencers-lawsuit-copyright-clean-aesthetic-girl-sydney-nicole-gifford-alyssa-sheil)
- - [/dev/agents, which plans to build a cloud-based OS for AI agents that can work across phones, laptops, and cars, raised $56M, a source says at a $500M valuation &lpar;Shirin Ghaffary/Bloomberg&rpar;](http://www.techmeme.com/241126/p14#a241126p14)<!-- TECH:END -->
+ - [NFL&#39;s Gronk calls Apple his best-ever investment](https://appleinsider.com/articles/24/11/26/nfls-gronk-calls-apple-his-best-ever-investment?utm_medium=rss)
+ - [Star Wars: Skeleton Crew is premiering a day early](https://www.theverge.com/2024/11/26/24306428/star-wars-skeleton-crew-early-premiere-date-disney-plus)
+ - [Transparent&#39;s New Wireless Speaker Is a Love Letter to Brutalism](https://www.wired.com/story/transparents-new-wireless-speaker-is-a-love-letter-to-brutalism/)
+ - [Microsoft is killing off its Xbox One-era Avatars in January](https://www.theverge.com/2024/11/26/24306394/xbox-avatar-editor-discontinued)
+ - [Black Friday discount: M4 Pro MacBook Pro &lpar;48GB RAM, 1TB SSD&rpar; on sale now for $2,389](https://appleinsider.com/articles/24/11/26/black-friday-discount-m4-pro-macbook-pro-48gb-ram-1tb-ssd-on-sale-now-for-2389?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -167,10 +167,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [Motorbiker giving advice to couple on a bridge](http://9gag.com/gag/aMVKGEA)
- - 😝 [Lois was toxic AF but in her defense Clark was a manipulative gaslighter](http://9gag.com/gag/aAybwPE)
- - 💣 [Wondering if this was one of those shit tests they make to have the guy fight for them](http://9gag.com/gag/amoPzZd)
  - 😝 [Big brother is washing](http://9gag.com/gag/a1mrdDG)
- - 👉 [Evolving, just backwards](http://9gag.com/gag/aMVKGZW)<!-- MEMES:END -->
+ - 💣 [No more than unbabatabletomato](http://9gag.com/gag/ae9Apgm)
+ - 😝 [Evolving, just backwards](http://9gag.com/gag/aMVKGZW)
+ - 👉 [Daddy metaphor](http://9gag.com/gag/apRNB6n)<!-- MEMES:END -->
 
 ---
 

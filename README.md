@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [DoorDash Promo Codes and Discounts: $0 Delivery in November](https://www.wired.com/story/doordash-promo-code/)
+ - [10% Off Sephora Promo Code for November 2024](https://www.wired.com/story/sephora-promo-code/)
+ - [15% Off DoorDash Promo Code &amp; Coupons for November 2024](https://www.wired.com/story/doordash-promo-code/)
+ - [Home Chef Promo Codes - 50% off November 2024](https://www.wired.com/story/home-chef-promo-code/)
  - [Exclusive $50 OFF VistaPrint Coupon | November 2024](https://www.wired.com/story/vistaprint-coupon-code/)
- - [Best Black Friday Apple Watch deals start at just $149](https://appleinsider.com/articles/24/11/26/best-black-friday-apple-watch-deals-start-at-just-149?utm_medium=rss)
- - [Exclusive Nectar Coupon Code: 40% Off November 2024](https://www.wired.com/story/nectar-coupon-code/)
- - [Dyson Promo Code: 20% Off November 2024](https://www.wired.com/story/dyson-cordless-vacuum-promo-code/)<!-- TECH:END -->
+ - [Best Black Friday Apple Watch deals start at just $149](https://appleinsider.com/articles/24/11/26/best-black-friday-apple-watch-deals-start-at-just-149?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

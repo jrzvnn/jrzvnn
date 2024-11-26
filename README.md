@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [How Do You Get to Artificial General Intelligence? Think Lighter](https://www.wired.com/story/how-do-you-get-to-artificial-general-intelligence-think-lighter/)
  - [An interview with Margrethe Vestager, the EU&#39;s tech antitrust enforcer since 2014, on her &quot;partly successful&quot; tenure, US collaboration, Trump, the DSA, and more &lpar;Adam Satariano/New York Times&rpar;](http://www.techmeme.com/241126/p10#a241126p10)
  - [Cradle, which uses AI to help design proteins and says its SaaS model has proven popular, raised a $73M Series B led by IVP, after a $24M Series A in 2023 &lpar;Devin Coldewey/TechCrunch&rpar;](http://www.techmeme.com/241126/p9#a241126p9)
- - [What Will a Second Trump Term Mean for Your Money? Experts Weigh In](https://www.cnet.com/personal-finance/what-will-a-second-trump-term-mean-for-your-money-experts-weigh-in/#ftag=CAD590a51e)
  - [How Murderbot Saved Martha Wells&#39; Life](https://www.wired.com/story/murderbot-she-wrote-martha-wells/)
- - [Outdoor Turkey Cooking Showdown: Big Green Egg vs. Deep Fryer vs. Smoker vs. Grill](https://www.cnet.com/how-to/outdoor-turkey-cooking-showdown-big-green-egg-vs-deep-fryer-vs-smoker-vs-grill/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Tim Cook&#39;s China visit is about getting Apple Intelligence into the country](https://appleinsider.com/articles/24/11/26/tim-cooks-china-visit-is-about-getting-apple-intelligence-into-the-country?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

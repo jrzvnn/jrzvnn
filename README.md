@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [NFL&#39;s Gronk calls Apple his best-ever investment](https://appleinsider.com/articles/24/11/26/nfls-gronk-calls-apple-his-best-ever-investment?utm_medium=rss)
- - [Star Wars: Skeleton Crew is premiering a day early](https://www.theverge.com/2024/11/26/24306428/star-wars-skeleton-crew-early-premiere-date-disney-plus)
- - [Best Weightlifting Shoes for 2024](https://www.cnet.com/health/fitness/best-weightlifting-shoes/#ftag=CAD590a51e)
- - [25 Black Friday Deals Under $100: Price Cuts on Top Tech, Home Goods From Big-Name Brands Like Apple and Sony](https://www.cnet.com/deals/best-black-friday-deals-under-100-2024-11-26/#ftag=CAD590a51e)
- - [46 Best Black Friday PS5 Deals: Record-Low Prices on PS5 Slim and Save on Some of the Year&#39;s Best Games](https://www.cnet.com/deals/best-black-friday-ps5-deals-2024-11-26/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Neo-Nazis Are on the March Across America](https://www.wired.com/story/neo-nazi-demonstrations-trump/)
+ - [Apple chipmaker TSMC struggles to please both U.S. and Chinese officials](https://appleinsider.com/articles/24/11/26/apple-chipmaker-tsmc-struggles-to-please-both-us-and-chinese-officials?utm_medium=rss)
+ - [Huawei’s Mate 70 smartphones will run its new Android-free OS](https://www.theverge.com/2024/11/26/24306370/huawei-mate-70-pro-plus-android-google-harmonyos-next)
+ - [Meta says Threads has seen 35M new users sign up for the platform since November 1 and is now going on three months of more than one million signups per day &lpar;Sara Fischer/Axios&rpar;](http://www.techmeme.com/241126/p15#a241126p15)
+ - [NFL&#39;s Gronk calls Apple his best-ever investment](https://appleinsider.com/articles/24/11/26/nfls-gronk-calls-apple-his-best-ever-investment?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [And a toll payer on top](http://9gag.com/gag/aGyp0Dw)
- - 😝 [Acting like it vs. Being it](http://9gag.com/gag/aLnp9BP)
- - 💣 [Getting ready to go out demo.](http://9gag.com/gag/adB8Xd2)
- - 😝 [A defense mechanism against Drake](http://9gag.com/gag/a4PELWp)
- - 👉 [Title](http://9gag.com/gag/aBy2rQ1)<!-- MEMES:END -->
+ - 😝 [Getting ready to go out demo.](http://9gag.com/gag/adB8Xd2)
+ - 😝 [Breaking open a 47 lbs geode, the water inside being millions of years old](http://9gag.com/gag/a2v7YOw)
+ - 💣 [And a toll payer on top](http://9gag.com/gag/aGyp0Dw)
+ - 😝 [Bus driver having bad crash in his dream. Izmir, Turkey](http://9gag.com/gag/avy5PoE)
+ - 👉 [Man uses a 100,000 lumen flashlight to escape from the cops](http://9gag.com/gag/azxMjdq)<!-- MEMES:END -->
 
 ---
 

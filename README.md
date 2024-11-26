@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [OpenAI, Meta, and Orange plan to train AI models on African languages, starting with Wolof and Pulaar, addressing a shortage for Africa&#39;s thousands of dialects &lpar;Bloomberg&rpar;](http://www.techmeme.com/241126/p12#a241126p12)
- - [Traveling to Japan? Here Are 8 Useful Apps for Getting Around](https://www.wired.com/story/japan-travel-useful-apps/)
- - [Bluesky says it is working to comply with EU rules and is consulting with its lawyers, after the bloc accused the social network of flouting its regulations &lpar;Gian Volpicelli/Bloomberg&rpar;](http://www.techmeme.com/241126/p11#a241126p11)
- - [Next generation CarPlay shown in regulator filing](https://appleinsider.com/articles/24/11/26/next-generation-carplay-shown-in-regulator-filing?utm_medium=rss)
- - [The Beginning of the End of Big Tech](https://www.wired.com/story/the-beginning-of-the-end-of-big-tech/)<!-- TECH:END -->
+ - [Get a Torras Ostand iPhone 16 case in all-new colors, now 15% off for Black Friday](https://appleinsider.com/articles/24/11/26/get-a-torras-ostand-iphone-16-case-in-all-new-colors-now-15-off-for-black-friday?utm_medium=rss)
+ - [What Is Generative AI? Everything to Know About the Tech Behind ChatGPT and Gemini](https://www.cnet.com/tech/services-and-software/what-is-generative-ai-everything-to-know-about-the-tech-behind-chatgpt-and-gemini/#ftag=CAD590a51e)
+ - [The Galaxy S25 May Be Samsung&#39;s Last. Why Smaller Phones Are Disappearing](https://www.cnet.com/tech/mobile/the-galaxy-s25-may-be-samsungs-last-why-smaller-phones-are-disappearing/#ftag=CAD590a51e)
+ - [The Virtual Villages Helping Digital Nomads Find Real-World Friends](https://www.wired.com/story/virtual-villages-for-digital-nomads/)
+ - [DJI Mic Mini Review: Tiny Wireless Microphones](https://www.wired.com/review/dji-mic-mini/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

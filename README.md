@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Man uses a 100,000 lumen flashlight to escape from the cops](http://9gag.com/gag/azxMjdq)
- - 😝 [Evolving, just backwards](http://9gag.com/gag/aMVKGZW)
- - 💣 [India&#39;s action movie Don 360 movie behind the scenes.](http://9gag.com/gag/aGypwgX)
- - 😝 [Legendary german pimp-cartel boss Stefan `Kiezklatscher` Hentschel pimp-slaps some drunk mullet that interrupts his interview.](http://9gag.com/gag/aRBXK3B)
- - 👉 [*Final Boss Enters The Room*](http://9gag.com/gag/a1mrYN6)<!-- MEMES:END -->
+ - 😝 [Wholesome posts that I saved #6](http://9gag.com/gag/aryM4g5)
+ - 😝 [Bus driver having bad crash in his dream. Izmir, Turkey](http://9gag.com/gag/avy5PoE)
+ - 💣 [Lois was toxic AF but in her defense Clark was a manipulative gaslighter](http://9gag.com/gag/aAybwPE)
+ - 😝 [Professional skydiver Luigi Cani and his team scatter over 100 MILLION tree seeds in the heart of Brazil\u2019s Amazon rainforest. \ud83c\udf33\ud83c\udf33\ud83c\udde7\ud83c\uddf7](http://9gag.com/gag/a6ZEQWA)
+ - 👉 [Legendary german pimp-cartel boss Stefan `Kiezklatscher` Hentschel pimp-slaps some drunk mullet that interrupts his interview.](http://9gag.com/gag/aRBXK3B)<!-- MEMES:END -->
 
 ---
 

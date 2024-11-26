@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Drake launches legal action against UMG and Spotify for allegedly using bots, payola, and more to inflate Kendrick Lamar&#39;s Not Like Us, a track attacking Drake &lpar;Bill Donahue/Billboard&rpar;](http://www.techmeme.com/241126/p4#a241126p4)
+ - [We Need a New Right to Repair for Artificial Intelligence](https://www.wired.com/story/we-need-new-right-to-repair-for-artificial-intelligence/)
  - [Embrace the Shift to ‘Prosocial Media’](https://www.wired.com/story/prosocial-media-social-networks-discourse-decentralization/)
  - [10% Off Sephora Promo Code for November 2024](https://www.wired.com/story/sephora-promo-code/)
- - [15% Off DoorDash Promo Code &amp; Coupons for November 2024](https://www.wired.com/story/doordash-promo-code/)
- - [Home Chef Promo Codes - 50% off November 2024](https://www.wired.com/story/home-chef-promo-code/)
- - [Exclusive $50 OFF VistaPrint Coupon | November 2024](https://www.wired.com/story/vistaprint-coupon-code/)<!-- TECH:END -->
+ - [15% Off DoorDash Promo Code &amp; Coupons for November 2024](https://www.wired.com/story/doordash-promo-code/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [DoorDash Promo Codes and Discounts: $0 Delivery in November](https://www.wired.com/story/doordash-promo-code/)
+ - [Exclusive $50 OFF VistaPrint Coupon | November 2024](https://www.wired.com/story/vistaprint-coupon-code/)
  - [Best Black Friday Apple Watch deals start at just $149](https://appleinsider.com/articles/24/11/26/best-black-friday-apple-watch-deals-start-at-just-149?utm_medium=rss)
  - [Exclusive Nectar Coupon Code: 40% Off November 2024](https://www.wired.com/story/nectar-coupon-code/)
- - [Dyson Promo Code: 20% Off November 2024](https://www.wired.com/story/dyson-cordless-vacuum-promo-code/)
- - [Sources: Xiaomi prepares its own mobile chip for its smartphones, to reduce reliance on Qualcomm and MediaTek, with mass production expected to begin in 2025 &lpar;Bloomberg&rpar;](http://www.techmeme.com/241126/p3#a241126p3)
- - [Best Black Friday Amazon deals: $150 off M4 iMac, $250 off MacBook, $169 Apple Watch](https://appleinsider.com/articles/24/11/21/best-black-friday-amazon-deals-100-off-m4-mac-mini-250-off-macbook-189-apple-watch?utm_medium=rss)<!-- TECH:END -->
+ - [Dyson Promo Code: 20% Off November 2024](https://www.wired.com/story/dyson-cordless-vacuum-promo-code/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

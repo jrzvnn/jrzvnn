@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Best Black Friday Amazon deals: $150 off M4 iMac, $250 off MacBook, $169 Apple Watch](https://appleinsider.com/articles/24/11/21/best-black-friday-amazon-deals-100-off-m4-mac-mini-250-off-macbook-189-apple-watch?utm_medium=rss)
  - [Sources: Apple held talks with local tech firms to help power Apple Intelligence in China; a CAC official says approval will be difficult without local partners &lpar;Financial Times&rpar;](http://www.techmeme.com/241126/p2#a241126p2)
  - [A government source says Japan&#39;s FTC raided Amazon Japan on November 26 suspecting it&#39;s inappropriately urging its sellers to lower their prices on its platform &lpar;Reuters&rpar;](http://www.techmeme.com/241126/p1#a241126p1)
- - [Today&#39;s NYT Mini Crossword Answers for Tuesday, Nov. 26](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-tuesday-nov-26/#ftag=CAD590a51e)
- - [The Verge’s 2024 holiday gift guide](https://www.theverge.com/24224043/holiday-gift-guide-2024-best-ideas-unique-tech-gadgets)
- - [Today&#39;s NYT Strands Hints, Answers and Help for Nov. 26, #268](https://www.cnet.com/tech/gaming/todays-nyt-strands-hints-answers-and-help-for-nov-26-268/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [24 Best Black Friday Mattress Deals to Shop This Season](https://www.cnet.com/deals/best-black-friday-mattress-deals-2024/#ftag=CAD590a51e)
+ - [Today&#39;s NYT Mini Crossword Answers for Tuesday, Nov. 26](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-tuesday-nov-26/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

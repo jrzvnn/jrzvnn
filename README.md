@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Early Kindle Black Friday Deals and Amazon Device Sales &lpar;2024&rpar;](https://www.wired.com/story/black-friday-amazon-devices-deals-2024/)
- - [The best Black Friday deals on AirPods, MacBooks, and other Apple tech](https://www.theverge.com/24305511/black-friday-apple-best-deals-2024-macbook-airpods-cyber-monday)
- - [A ransomware attack on Blue Yonder, a major supply chain software provider, is disrupting operations at Starbucks, the UK&#39;s Sainsbury&#39;s, and other retailers &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/241125/p28#a241125p28)
- - [Here&#39;s How to Get an Extra $200 for Amazon Black Friday Deals](https://www.cnet.com/personal-finance/credit-cards/heres-how-to-get-an-extra-200-for-amazon-black-friday-deals/#ftag=CAD590a51e)
- - [Best Internet Providers in Traverse City, Michigan](https://www.cnet.com/home/internet/best-internet-providers-in-traverse-city-mi/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [A look at Bluesky&#39;s moderation efforts amid a growth spurt; Bluesky plans to quadruple the size of its contract workforce of content moderators from 25 to 100 &lpar;Casey Newton/Platformer&rpar;](http://www.techmeme.com/241125/p31#a241125p31)
+ - [IPVanish Review 2024: Good for Beginners, but Privacy-Critical Users Should Avoid](https://www.cnet.com/tech/services-and-software/ipvanish-review/#ftag=CAD590a51e)
+ - [Telegram&#39;s H1 2024 unaudited financial docs: $525M in revenue, up 190% YoY, a $335M post-tax profit, and digital assets worth $1.3B, up from $400M at 2023&#39;s end &lpar;Financial Times&rpar;](http://www.techmeme.com/241125/p30#a241125p30)
+ - [Brazil&#39;s antitrust regulator says Apple must allow app developers to link to external payment methods and to offer other in-app payment processing options &lpar;Reuters&rpar;](http://www.techmeme.com/241125/p29#a241125p29)
+ - [The Best Holiday Gifts From Walmart for Everyone on Your List](https://www.cnet.com/news/best-walmart-gifts/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

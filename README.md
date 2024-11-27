@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Wanna see something funny?](http://9gag.com/gag/apRNro9)
- - 😝 [I really shouldnt put my dick in there...however](http://9gag.com/gag/azxMA3Z)
- - 💣 [That time when Sacha Baron Cohen put his ass in Eminem&#39;s face](http://9gag.com/gag/a0e7jXQ)
- - 😝 [Gentle reminder that our content funds this:](http://9gag.com/gag/abAV0Kp)
- - 👉 [Big brother is washing](http://9gag.com/gag/a1mrdDG)<!-- MEMES:END -->
+ - 😝 [Wondering if this was one of those shit tests they make to have the guy fight for them](http://9gag.com/gag/amoPzZd)
+ - 😝 [Deep Johnny Depp](http://9gag.com/gag/aLnpD6M)
+ - 💣 [Gentle reminder that our content funds this:](http://9gag.com/gag/abAV0Kp)
+ - 😝 [Big brother is washing](http://9gag.com/gag/a1mrdDG)
+ - 👉 [That time when Sacha Baron Cohen put his ass in Eminem&#39;s face](http://9gag.com/gag/a0e7jXQ)<!-- MEMES:END -->
 
 ---
 

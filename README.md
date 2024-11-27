@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Frustrated sexually](http://9gag.com/gag/a5QEZxL)
- - 😝 [I really shouldnt put my dick in there...however](http://9gag.com/gag/azxMA3Z)
- - 💣 [Dream job!](http://9gag.com/gag/azxMjNN)
- - 😝 [Evolving, just backwards](http://9gag.com/gag/aMVKGZW)
- - 👉 [German finest](http://9gag.com/gag/a7oE7Ax)<!-- MEMES:END -->
+ - 😝 [Wondering if this was one of those shit tests they make to have the guy fight for them](http://9gag.com/gag/amoPzZd)
+ - 😝 [Professional skydiver Luigi Cani and his team scatter over 100 MILLION tree seeds in the heart of Brazil\u2019s Amazon rainforest. \ud83c\udf33\ud83c\udf33\ud83c\udde7\ud83c\uddf7](http://9gag.com/gag/a6ZEQWA)
+ - 💣 [The what?](http://9gag.com/gag/aYQoeQ0)
+ - 😝 [Motorbiker giving advice to couple on a bridge](http://9gag.com/gag/aMVKGEA)
+ - 👉 [It\u2019s called Bangkok honey](http://9gag.com/gag/aBy2YNO)<!-- MEMES:END -->
 
 ---
 

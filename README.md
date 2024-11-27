@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The DJI Mini 3 is $100 off and matching its record low for Black Friday](https://www.theverge.com/2024/11/27/24307470/black-friday-deal-drone-dji-mini-3-cyber-monday)
  - [The Future of Online Privacy Hinges on Thousands of New Jersey Cops](https://www.wired.com/story/daniels-law-new-jersey-online-privacy-matt-adkisson-atlas-lawsuits/)
  - [xAI could soon have its own app](https://www.theverge.com/2024/11/27/24307571/xai-consumer-app-planned-report)
  - [Meta appears to be developing a Threads feature inspired by Bluesky&#39;s &quot;starter packs&quot;, with profiles &quot;handpicked by people on Threads&quot; for users to follow &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/241127/p25#a241127p25)
- - [Brutalist architecture inspired this blocky wireless speaker](https://www.theverge.com/2024/11/27/24307542/transparent-wireless-brutalist-speaker)
- - [Can AI help connect more solar and wind farms to the power grid?](https://www.theverge.com/2024/11/27/24307399/ai-solar-wind-energy-power-grid-doe-funding-interconnection)<!-- TECH:END -->
+ - [Brutalist architecture inspired this blocky wireless speaker](https://www.theverge.com/2024/11/27/24307542/transparent-wireless-brutalist-speaker)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

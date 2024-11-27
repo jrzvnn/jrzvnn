@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Apple takes over more NYC office space from Macy&#39;s](https://appleinsider.com/articles/24/11/27/apple-takes-over-more-nyc-office-space-from-macys?utm_medium=rss)
  - [Walmart made a whole Christmas movie just to sell you stuff](https://www.theverge.com/2024/11/27/24307517/walmart-roku-channel-jingle-bell-love-christmas-shopping-movie)
  - [A Chinese ship is suspected of sabotaging undersea cables](https://www.theverge.com/2024/11/27/24307498/chinese-ship-undersea-cables-severed-russia-baltic-seabed)
  - [Best Black Friday Phone Deals &lpar;2024&rpar;, Including Cases Too](https://www.wired.com/story/black-friday-phone-deals-2024/)
- - [The Best Dyson Vacuums &lpar;2024&rpar;, Tested and Reviewed](https://www.wired.com/gallery/best-dyson-vacuums/)
- - [Chinese self-driving company Pony.AI raised $413.4B in its US IPO, after pricing shares at $13, which rose 19% at open, giving it a nearly $5.4B market cap &lpar;Bailey Lipschultz/Bloomberg&rpar;](http://www.techmeme.com/241127/p24#a241127p24)<!-- TECH:END -->
+ - [The Best Dyson Vacuums &lpar;2024&rpar;, Tested and Reviewed](https://www.wired.com/gallery/best-dyson-vacuums/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

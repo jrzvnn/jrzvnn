@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Bluesky says it is up to outside orgs to respect user consent, after a Hugging Face employee published a dataset of 1M posts from Bluesky&#39;s API for ML research &lpar;Samantha Cole/404 Media&rpar;](http://www.techmeme.com/241127/p1#a241127p1)
  - [An investigation suggests the third suspect behind the hacks of Snowflake clients may be a US Army soldier who is or was recently stationed in South Korea &lpar;Brian Krebs/Krebs on Security&rpar;](http://www.techmeme.com/241126/p34#a241126p34)
  - [Wherobots, which offers a cloud-based platform to process and analyze geospatial data from satellites and other sources, raised a $21.5M Series A led by Felicis &lpar;Allie Garfinkle/Fortune&rpar;](http://www.techmeme.com/241126/p33#a241126p33)
  - [TikTok plans to block users under 18 years of age from using beauty filters and says it is tightening its systems to block users under 13 from the platform &lpar;Robert Booth/The Guardian&rpar;](http://www.techmeme.com/241126/p32#a241126p32)
- - [Today&#39;s NYT Strands Hints, Answers and Help for Nov. 27, #269](https://www.cnet.com/tech/gaming/todays-nyt-strands-hints-answers-and-help-for-nov-27-269/#ftag=CAD590a51e)
- - [Today&#39;s NYT Connections Hints, Answers and Help for Nov. 27, #535](https://www.cnet.com/tech/gaming/todays-nyt-connections-hints-answers-and-help-for-nov-27-535/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Today&#39;s NYT Strands Hints, Answers and Help for Nov. 27, #269](https://www.cnet.com/tech/gaming/todays-nyt-strands-hints-answers-and-help-for-nov-27-269/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

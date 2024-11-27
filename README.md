@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Stop that!](http://9gag.com/gag/aBy2WL2)
  - 😝 [Connor McGregor vs Boxing Machine](http://9gag.com/gag/avy57vn)
- - 💣 [They all have the same birthday](http://9gag.com/gag/a6ZEo32)
+ - 😝 [Streaming Cable](http://9gag.com/gag/a7oErLb)
+ - 💣 [How to correctly Hans a hornet nest...](http://9gag.com/gag/a34EqdN)
  - 😝 [That look](http://9gag.com/gag/a9yEr76)
- - 👉 [Professional skydiver Luigi Cani and his team scatter over 100 MILLION tree seeds in the heart of Brazil\u2019s Amazon rainforest. \ud83c\udf33\ud83c\udf33\ud83c\udde7\ud83c\uddf7](http://9gag.com/gag/a6ZEQWA)<!-- MEMES:END -->
+ - 👉 [He could be depressed?](http://9gag.com/gag/a9yEKE1)<!-- MEMES:END -->
 
 ---
 

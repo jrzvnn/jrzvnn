@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Bro chose the right person](http://9gag.com/gag/apRNLx8)
- - 😝 [That\u2019s pretty awesome](http://9gag.com/gag/a1mroAR)
- - 💣 [Acting like it vs. Being it](http://9gag.com/gag/aLnp9BP)
- - 😝 [A piece of paper would be fine.](http://9gag.com/gag/ajPmqPQ)
- - 👉 [Hitting the jackpot twice but still managing to lose all](http://9gag.com/gag/aD2djNG)<!-- MEMES:END -->
+ - 😝 [That look](http://9gag.com/gag/a9yEr76)
+ - 😝 [Lois was toxic AF but in her defense Clark was a manipulative gaslighter](http://9gag.com/gag/aAybwPE)
+ - 💣 [Honestly, it\u2019s crazy how much they shave off](http://9gag.com/gag/apRNLBp)
+ - 😝 [Gentle reminder that our content funds this:](http://9gag.com/gag/abAV0Kp)
+ - 👉 [And a toll payer on top](http://9gag.com/gag/aGyp0Dw)<!-- MEMES:END -->
 
 ---
 

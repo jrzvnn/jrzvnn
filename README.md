@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Deep Johnny Depp](http://9gag.com/gag/aLnpD6M)
+ - 😝 [Wondering if this was one of those shit tests they make to have the guy fight for them](http://9gag.com/gag/amoPzZd)
+ - 😝 [This is what we call miscalculation.](http://9gag.com/gag/a4PEjWw)
+ - 💣 [Honestly, it\u2019s crazy how much they shave off](http://9gag.com/gag/apRNLBp)
  - 😝 [That look](http://9gag.com/gag/a9yEr76)
- - 💣 [This is what we call miscalculation.](http://9gag.com/gag/a4PEjWw)
- - 😝 [And a toll payer on top](http://9gag.com/gag/aGyp0Dw)
- - 👉 [Gentle reminder that our content funds this:](http://9gag.com/gag/abAV0Kp)<!-- MEMES:END -->
+ - 👉 [And a toll payer on top](http://9gag.com/gag/aGyp0Dw)<!-- MEMES:END -->
 
 ---
 

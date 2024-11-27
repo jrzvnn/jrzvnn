@@ -160,8 +160,8 @@ R                        1 repo              ░░░░░░░░░░░�
  - [Apple Black Friday Deal: 14-inch MacBook Pro M4 &lpar;24GB RAM, 1TB&rpar; drops to $1,799](https://appleinsider.com/articles/24/11/27/apple-black-friday-deal-14-inch-macbook-pro-m4-24gb-ram-1tb-drops-to-1799?utm_medium=rss)
  - [Google Chat is rolling out huddles to let users instantly start an audio-first meeting, with a floating window displaying controls to add video or share screens &lpar;Abner Li/9to5Google&rpar;](http://www.techmeme.com/241127/p34#a241127p34)
  - [The discontinued Steam Deck LCD is on sale](https://www.theverge.com/2024/11/27/24307713/steam-deck-lcd-512gb-deal-autumn-sale)
- - [FTC changes its telemarketing rules to cover growing ‘tech support scam’ calls](https://www.theverge.com/2024/11/27/24307766/ftc-telemarketing-fraud-rules-tech-support-scam)
- - [US to Introduce New Restrictions on China’s Access to Cutting-Edge Chips](https://www.wired.com/story/memory-restrictions-china-advanced-chips/)<!-- TECH:END -->
+ - [Does &#39;Moana 2&#39; Have a Post-Credits Scene?](https://www.cnet.com/tech/services-and-software/does-moana-2-have-a-post-credits-scene/#ftag=CAD590a51e)
+ - [Best Full Mattress for 2024](https://www.cnet.com/health/sleep/best-full-size-mattress/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The discontinued Steam Deck LCD is on sale](https://www.theverge.com/2024/11/27/24307713/steam-deck-lcd-512gb-deal-autumn-sale)
+ - [FTC changes its telemarketing rules to cover growing ‘tech support scam’ calls](https://www.theverge.com/2024/11/27/24307766/ftc-telemarketing-fraud-rules-tech-support-scam)
+ - [US to Introduce New Restrictions on China’s Access to Cutting-Edge Chips](https://www.wired.com/story/memory-restrictions-china-advanced-chips/)
  - [Spotify will no longer allow developers building new third-party apps with its Web API to access several features, such as song and artist recommendations &lpar;Maxwell Zeff/TechCrunch&rpar;](http://www.techmeme.com/241127/p33#a241127p33)
- - [Microsoft is being investigated by the FTC over antitrust concerns](https://www.theverge.com/2024/11/27/24307790/microsoft-is-being-investigated-by-the-ftc-over-antitrust-concerns)
- - [Google Chat’s new huddles make it even more like Teams and Slack](https://www.theverge.com/2024/11/27/24307767/google-chat-huddles-meet-video-call-workspace-update)
- - [MacStadium adds M4 Mac mini to its cloud-based virtual machines](https://appleinsider.com/articles/24/11/27/macstadium-adds-m4-mac-mini-to-its-cloud-based-virtual-machines?utm_medium=rss)
- - [16 Best Gifts for Men, Manly Men, and Menly Man Men &lpar;2024&rpar;](https://www.wired.com/gallery/best-gifts-for-men/)<!-- TECH:END -->
+ - [Microsoft is being investigated by the FTC over antitrust concerns](https://www.theverge.com/2024/11/27/24307790/microsoft-is-being-investigated-by-the-ftc-over-antitrust-concerns)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: Trump&#39;s team interviewed Paul Atkins, a former SEC commissioner and strong proponent of crypto and fintech companies, as a candidate to lead the SEC &lpar;Bloomberg&rpar;](http://www.techmeme.com/241127/p28#a241127p28)
- - [Filing: Google asks a US federal appeals court to throw out the Epic ruling that would force it to overhaul the Play Store, as it competes with Apple and more &lpar;Bloomberg&rpar;](http://www.techmeme.com/241127/p27#a241127p27)
- - [Kobo’s color e-reader is a far better deal than Amazon’s new Kindle Colorsoft](https://www.theverge.com/2024/11/27/24307532/black-friday-best-deal-e-reader-kobo-libra-colour-cyber-monday)
- - [Belkin recalls its BoostCharge Pro power bank due to fire risk](https://www.theverge.com/2024/11/27/24307644/belkin-recall-boostcharge-pro-fast-wireless-charger-bpd005-power-bank-apple-watch)
- - [Boox Go 10.3 review: An e-ink iPad alternative, designed for productivity](https://appleinsider.com/articles/24/11/27/boox-go-103-review-an-e-ink-ipad-alternative-designed-for-productivity?utm_medium=rss)<!-- TECH:END -->
+ - [Sources: US FTC has opened an antitrust investigation of Microsoft, focusing on its cloud and software licensing business and its cybersecurity and AI products &lpar;Bloomberg&rpar;](http://www.techmeme.com/241127/p31#a241127p31)
+ - [Sriram Krishnan, a general partner at a16z, is leaving the firm; source: he has talked to Elon Musk about joining the Department of Government Efficiency &lpar;The Information&rpar;](http://www.techmeme.com/241127/p30#a241127p30)
+ - [The Apple AirPods Pro Are The Cheapest We&#39;ve Ever Seen](https://www.wired.com/story/black-friday-2024-apple-airpods-pro-deal/)
+ - [T-Mobile&#39;s CSO says &quot;suspicious behavior, discovery-type commands&quot; on the company&#39;s network devices tipped it off to the suspected Salt Typhoon-linked breach &lpar;Kelcee Griffis/Bloomberg&rpar;](http://www.techmeme.com/241127/p29#a241127p29)
+ - [The best Black Friday phone deals I’d actually recommend to real people](https://www.theverge.com/24306779/black-friday-2024-smartphone-best-deals-apple-samsung-pixel-motorola)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

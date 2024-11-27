@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Act with dignity Infront of your father](http://9gag.com/gag/axyMDDn)
- - 😝 [Lois was toxic AF but in her defense Clark was a manipulative gaslighter](http://9gag.com/gag/aAybwPE)
- - 💣 [Gentle reminder that our content funds this:](http://9gag.com/gag/abAV0Kp)
- - 😝 [Big brother is washing](http://9gag.com/gag/a1mrdDG)
- - 👉 [That time when Sacha Baron Cohen put his ass in Eminem&#39;s face](http://9gag.com/gag/a0e7jXQ)<!-- MEMES:END -->
+ - 😝 [Bro chose the right person](http://9gag.com/gag/apRNLx8)
+ - 😝 [That\u2019s pretty awesome](http://9gag.com/gag/a1mroAR)
+ - 💣 [Acting like it vs. Being it](http://9gag.com/gag/aLnp9BP)
+ - 😝 [A piece of paper would be fine.](http://9gag.com/gag/ajPmqPQ)
+ - 👉 [Hitting the jackpot twice but still managing to lose all](http://9gag.com/gag/aD2djNG)<!-- MEMES:END -->
 
 ---
 

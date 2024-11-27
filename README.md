@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [An investigation suggests the third suspect behind the hacks of Snowflake clients may be a US Army soldier who is or was recently stationed in South Korea &lpar;Brian Krebs/Krebs on Security&rpar;](http://www.techmeme.com/241126/p34#a241126p34)
  - [Wherobots, which offers a cloud-based platform to process and analyze geospatial data from satellites and other sources, raised a $21.5M Series A led by Felicis &lpar;Allie Garfinkle/Fortune&rpar;](http://www.techmeme.com/241126/p33#a241126p33)
  - [TikTok plans to block users under 18 years of age from using beauty filters and says it is tightening its systems to block users under 13 from the platform &lpar;Robert Booth/The Guardian&rpar;](http://www.techmeme.com/241126/p32#a241126p32)
- - [8 Early Black Friday TV Deals to Grab Ahead of the Madness](https://www.wired.com/story/early-black-friday-tv-deals-2024/)
- - [OpenAI suspends access to Sora in response to a group of artists leaking access to the tool in protest of the company&#39;s treatment of creative professionals &lpar;Nitasha Tiku/Washington Post&rpar;](http://www.techmeme.com/241126/p31#a241126p31)
- - [Samsung names Young Hyun Jun as its co-CEO as well as head of its memory chip business and appoints Jinman Han as the company president and foundry unit head &lpar;Reuters&rpar;](http://www.techmeme.com/241126/p30#a241126p30)<!-- TECH:END -->
+ - [Today&#39;s NYT Strands Hints, Answers and Help for Nov. 27, #269](https://www.cnet.com/tech/gaming/todays-nyt-strands-hints-answers-and-help-for-nov-27-269/#ftag=CAD590a51e)
+ - [Today&#39;s NYT Connections Hints, Answers and Help for Nov. 27, #535](https://www.cnet.com/tech/gaming/todays-nyt-connections-hints-answers-and-help-for-nov-27-535/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

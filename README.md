@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The Physics of the Macy’s Thanksgiving Day Parade Balloons](https://www.wired.com/story/the-physics-of-the-macys-thanksgiving-day-parade-balloons/)
- - [11 Best Umbrellas &lpar;2024&rpar;, Tested and Reviewed](https://www.wired.com/gallery/best-umbrellas/)
- - [Raspberry Pi Compute Module 5 review: the new $45+ module is a compact Pi 5 alternative with more power than the CM4, but doesn&#39;t work with a passive cooler &lpar;Les Pounder/Tom&#39;s Hardware&rpar;](http://www.techmeme.com/241127/p21#a241127p21)
- - [The best Bluetooth trackers for finding your stuff](https://www.theverge.com/23769840/best-bluetooth-trackers)
- - [Uber for AI labeling](https://www.theverge.com/2024/11/27/24307360/uber-scaled-solutions-ai-labeling-workforce)<!-- TECH:END -->
+ - [Foxconn Chair Young Liu says the company expects any impact of Trump&#39;s new tariffs to hit it less than its rivals, citing its global manufacturing footprint &lpar;Wen-Yee Lee/Reuters&rpar;](http://www.techmeme.com/241127/p22#a241127p22)
+ - [GM eliminated Apple CarPlay and Android Auto from its EVs — this upgrade adds them back](https://www.theverge.com/2024/11/27/24307345/gm-ev-carplay-android-auto-aftermarket-kit)
+ - [Best Black Friday Deals Live Right Now: More Than 70 Top Discounts on Laptops, TVs, Home Goods and Much More](https://www.cnet.com/deals/best-black-friday-deals-live-2024-11-27/#ftag=CAD590a51e)
+ - [My Favorite Electric Wine Opener Set Is 20% Off for Black Friday](https://www.cnet.com/deals/my-favorite-electric-wine-opener-set-is-20-off-for-black-friday/#ftag=CAD590a51e)
+ - [What&#39;s the Best Way to Buy the PlayStation 5 Pro? We Do the Math](https://www.cnet.com/personal-finance/credit-cards/whats-the-best-way-to-buy-the-playstation-5-pro-we-do-the-math/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

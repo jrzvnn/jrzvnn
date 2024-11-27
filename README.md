@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [Wanna see something funny?](http://9gag.com/gag/apRNro9)
+ - 😝 [I really shouldnt put my dick in there...however](http://9gag.com/gag/azxMA3Z)
+ - 💣 [That time when Sacha Baron Cohen put his ass in Eminem&#39;s face](http://9gag.com/gag/a0e7jXQ)
  - 😝 [Gentle reminder that our content funds this:](http://9gag.com/gag/abAV0Kp)
- - 😝 [Big brother is washing](http://9gag.com/gag/a1mrdDG)
- - 💣 [Motorbiker giving advice to couple on a bridge](http://9gag.com/gag/aMVKGEA)
- - 😝 [That time when Sacha Baron Cohen put his ass in Eminem&#39;s face](http://9gag.com/gag/a0e7jXQ)
- - 👉 [Deep Johnny Depp](http://9gag.com/gag/aLnpD6M)<!-- MEMES:END -->
+ - 👉 [Big brother is washing](http://9gag.com/gag/a1mrdDG)<!-- MEMES:END -->
 
 ---
 

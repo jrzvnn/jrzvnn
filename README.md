@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Hands on with Kuxiu X36W Pro Max Magnetic iPad Wall Mount Charging Stand](https://appleinsider.com/articles/24/11/27/hands-on-with-kuxiu-x36w-pro-max-magnetic-ipad-wall-mount-charging-stand?utm_medium=rss)
- - [Analysis: Elon Musk posted about Trump&#39;s cabinet picks 70+ times from November 7 to 20 to promote his preferred candidates; Trump picked others in several cases &lpar;Reuters&rpar;](http://www.techmeme.com/241127/p17#a241127p17)
- - [Best Black Friday Deals Live Right Now: More Than 70 Top Discounts on Laptops, TVs, Home Goods and Much More](https://www.cnet.com/deals/best-black-friday-deals-live-2024-11-27/#ftag=CAD590a51e)
- - [21 TV Shows on Netflix Perfect for Your Next Binge-Watch](https://www.cnet.com/tech/services-and-software/best-tv-shows-netflix-2024/#ftag=CAD590a51e)
- - [8 Best Ski Helmets Editor Tested and Reviewed &lpar;2024&rpar;](https://www.wired.com/gallery/the-best-ski-helmets/)<!-- TECH:END -->
+ - [You can now wear Apple’s running shoe emoji](https://www.theverge.com/2024/11/27/24307338/jose-wong-running-abcd-shoe-1-apple-emoji-fashion-streetwear)
+ - [12 Best Weighted Blankets, Robes, and Eye Masks &lpar;2024&rpar;](https://www.wired.com/gallery/best-weighted-blankets/)
+ - [Italy, Europol, and others say they dismantled a pirate streaming service that redistributed IPTV, Sky, and more, served 22M+ users, and made &amp;euro;250M per month &lpar;Bill Toulas/BleepingComputer&rpar;](http://www.techmeme.com/241127/p18#a241127p18)
+ - [11 Best Apple Black Friday Deals &lpar;2024&rpar;: MacBooks, iPads, AirPods](https://www.wired.com/story/apple-black-friday-deals-2024/)
+ - [Samsung Galaxy S24 FE review: not enough fan fare](https://www.theverge.com/24305866/samsung-galaxy-s24-fe-review-camera-battery-screen)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

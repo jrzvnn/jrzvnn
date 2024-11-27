@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Faithful](http://9gag.com/gag/a7oEr2b)
- - 😝 [The last image of Keith Spasford, a 14 year old australian boy who wanted to explore the world, so he snuck to a plane wheel well, it opened in mid-air and the boy fell out. the photographer was just testing his new lenses and was shocked after developing those images](http://9gag.com/gag/aGypDv0)
- - 💣 [Dad](http://9gag.com/gag/an7QjEL)
+ - 😝 [Half-life 3 confirmed?](http://9gag.com/gag/awyMnEQ)
  - 😝 [Connor McGregor vs Boxing Machine](http://9gag.com/gag/avy57vn)
- - 👉 [This is what we call miscalculation.](http://9gag.com/gag/a4PEjWw)<!-- MEMES:END -->
+ - 💣 [With another 10 to come for terrorism charges.](http://9gag.com/gag/aAybDEL)
+ - 😝 [Stop that!](http://9gag.com/gag/aBy2WL2)
+ - 👉 [Kindergarten teacher](http://9gag.com/gag/adB8KwB)<!-- MEMES:END -->
 
 ---
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [US filing: Google sent subpoenas in October 2024 to OpenAI, Perplexity AI, and Microsoft for the remedies part of the US v. Google search antitrust trial &lpar;Marty Swant/Digiday&rpar;](http://www.techmeme.com/241127/p32#a241127p32)
- - [Grab My Favorite Coffee Mug Warmer for 25% Off in This Black Friday Deal](https://www.cnet.com/deals/grab-my-favorite-coffee-mug-warmer-for-25-off-in-this-black-friday-deal/#ftag=CAD590a51e)
- - [Best Budget 3D Printers of 2024](https://www.cnet.com/tech/computing/best-budget-3d-printer/#ftag=CAD590a51e)
- - [Best Black Friday Deals Live Now: Shop Over 80 Amazing Offers on Top Tech, Small Appliances and More](https://www.cnet.com/deals/best-black-friday-deals-live-2024-11-27/#ftag=CAD590a51e)
- - [Best Mattress for Adjustable Beds in 2024](https://www.cnet.com/health/sleep/best-adjustable-mattress/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Microsoft is being investigated by the FTC over antitrust concerns](https://www.theverge.com/2024/11/27/24307790/microsoft-is-being-investigated-by-the-ftc-over-antitrust-concerns)
+ - [Google Chat’s new huddles make it even more like Teams and Slack](https://www.theverge.com/2024/11/27/24307767/google-chat-huddles-meet-video-call-workspace-update)
+ - [MacStadium adds M4 Mac mini to its cloud-based virtual machines](https://appleinsider.com/articles/24/11/27/macstadium-adds-m4-mac-mini-to-its-cloud-based-virtual-machines?utm_medium=rss)
+ - [16 Best Gifts for Men, Manly Men, and Menly Man Men &lpar;2024&rpar;](https://www.wired.com/gallery/best-gifts-for-men/)
+ - [US filing: Google sent subpoenas in October 2024 to OpenAI, Perplexity AI, and Microsoft for the remedies part of the US v. Google search antitrust trial &lpar;Marty Swant/Digiday&rpar;](http://www.techmeme.com/241127/p32#a241127p32)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

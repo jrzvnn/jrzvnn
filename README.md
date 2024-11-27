@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: OpenAI is letting current and former staff sell ~$1.5B worth of restricted stock in a new tender offer to SoftBank in a deal spurred by Masayoshi Son &lpar;CNBC&rpar;](http://www.techmeme.com/241127/p2#a241127p2)
- - [Bluesky says it is up to outside orgs to respect user consent, after a Hugging Face employee published a dataset of 1M posts from Bluesky&#39;s API for ML research &lpar;Samantha Cole/404 Media&rpar;](http://www.techmeme.com/241127/p1#a241127p1)
- - [Best Black Friday Deals Live Right Now: 70+ Deals on Laptops, TVs, Home Goods and Much More](https://www.cnet.com/deals/best-black-friday-deals-live-2024-11-26/#ftag=CAD590a51e)
- - [Best Cloud Storage Software Options](https://www.cnet.com/tech/services-and-software/best-cloud-storage-software-options/#ftag=CAD590a51e)
- - [An investigation suggests the third suspect behind the hacks of Snowflake clients may be a US Army soldier who is or was recently stationed in South Korea &lpar;Brian Krebs/Krebs on Security&rpar;](http://www.techmeme.com/241126/p34#a241126p34)<!-- TECH:END -->
+ - [Amazon&#39;s $399 iPad mini 7 deal arrives for Black Friday](https://appleinsider.com/articles/24/11/27/amazons-399-ipad-mini-7-deal-arrives-for-black-friday?utm_medium=rss)
+ - [Sources: Elon Musk has given investors, who backed his $44B Twitter acquisition, 25% of the shares in xAI, which is set to close a $5B round at a $50B valuation &lpar;Financial Times&rpar;](http://www.techmeme.com/241127/p3#a241127p3)
+ - [Best Black Friday Deals Live Right Now: 70-Plus Deals on Laptops, TVs, Home Goods and Much More](https://www.cnet.com/deals/best-black-friday-deals-live-2024-11-26/#ftag=CAD590a51e)
+ - [Best Fiber Supplements of 2024](https://www.cnet.com/health/nutrition/best-fiber-supplements-for-healthy-digestion/#ftag=CAD590a51e)
+ - [Sources: OpenAI is letting current and former staff sell ~$1.5B worth of restricted stock in a new tender offer to SoftBank in a deal spurred by Masayoshi Son &lpar;CNBC&rpar;](http://www.techmeme.com/241127/p2#a241127p2)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

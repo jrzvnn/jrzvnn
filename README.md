@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Wherobots, which offers a cloud-based platform to process and analyze geospatial data from satellites and other sources, raised a $21.5M Series A led by Felicis &lpar;Allie Garfinkle/Fortune&rpar;](http://www.techmeme.com/241126/p33#a241126p33)
+ - [TikTok plans to block users under 18 years of age from using beauty filters and says it is tightening its systems to block users under 13 from the platform &lpar;Robert Booth/The Guardian&rpar;](http://www.techmeme.com/241126/p32#a241126p32)
+ - [8 Early Black Friday TV Deals to Grab Ahead of the Madness](https://www.wired.com/story/early-black-friday-tv-deals-2024/)
  - [OpenAI suspends access to Sora in response to a group of artists leaking access to the tool in protest of the company&#39;s treatment of creative professionals &lpar;Nitasha Tiku/Washington Post&rpar;](http://www.techmeme.com/241126/p31#a241126p31)
- - [Samsung names Young Hyun Jun as its co-CEO as well as head of its memory chip business and appoints Jinman Han as the company president and foundry unit head &lpar;Reuters&rpar;](http://www.techmeme.com/241126/p30#a241126p30)
- - [Best Black Friday Deals That Are Live Now: 70+ Deals on TVs, Laptops, Headphones and More](https://www.cnet.com/deals/best-black-friday-deals-live-2024-11-26/#ftag=CAD590a51e)
- - [Best Black Friday Robot Vacuum Deals: Shop 18+ Deals at Amazon, Best Buy, Roborock and More](https://www.cnet.com/deals/best-black-friday-robot-vacuum-deals-2024/#ftag=CAD590a51e)
- - [Best Christmas Gifts 2024: 63 Ideas to Clear Your Holiday List](https://www.cnet.com/tech/best-christmas-gift-ideas/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Samsung names Young Hyun Jun as its co-CEO as well as head of its memory chip business and appoints Jinman Han as the company president and foundry unit head &lpar;Reuters&rpar;](http://www.techmeme.com/241126/p30#a241126p30)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

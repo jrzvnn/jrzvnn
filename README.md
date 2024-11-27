@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Well it\u2019s really difficult](http://9gag.com/gag/aAybPRE)
- - 😝 [Bro chose the right person](http://9gag.com/gag/apRNLx8)
- - 💣 [Acting like it vs. Being it](http://9gag.com/gag/aLnp9BP)
- - 😝 [Hitting the jackpot twice but still managing to lose all](http://9gag.com/gag/aD2djNG)
- - 👉 [A piece of paper would be fine.](http://9gag.com/gag/ajPmqPQ)<!-- MEMES:END -->
+ - 😝 [99 Cent Pizza is actually 2 Dollar Pizza](http://9gag.com/gag/ajPmEYp)
+ - 😝 [Hold on](http://9gag.com/gag/aNDpAeb)
+ - 💣 [This is what we call miscalculation.](http://9gag.com/gag/a4PEjWw)
+ - 😝 [And a toll payer on top](http://9gag.com/gag/aGyp0Dw)
+ - 👉 [Half-life 3 confirmed?](http://9gag.com/gag/awyMnEQ)<!-- MEMES:END -->
 
 ---
 

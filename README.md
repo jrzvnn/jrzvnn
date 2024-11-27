@@ -158,10 +158,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- TECH:START -->
  - [Hulu Promo Codes and Discounts: 90% Off for Select Users](https://www.wired.com/story/hulu-promo-code/)
+ - [Priceline Promo Code: 10% Off in November 2024](https://www.wired.com/story/priceline-promo-code/)
  - [Huawei&#39;s HarmonyOS NEXT in Mate 70 series of smartphones is the company&#39;s first fully self-developed OS that reportedly no longer uses open-source Android code &lpar;Arjun Kharpal/CNBC&rpar;](http://www.techmeme.com/241127/p4#a241127p4)
  - [Up to $700 Off Products With Canon Promo Codes and Deals](https://www.wired.com/story/canon-promo-code/)
- - [Verizon Promo Codes: $540 Off | November 2024](https://www.wired.com/story/verizon-promo-code/)
- - [Amazon&#39;s $399 iPad mini 7 deal arrives for Black Friday](https://appleinsider.com/articles/24/11/27/amazons-399-ipad-mini-7-deal-arrives-for-black-friday?utm_medium=rss)<!-- TECH:END -->
+ - [Verizon Promo Codes: $540 Off | November 2024](https://www.wired.com/story/verizon-promo-code/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

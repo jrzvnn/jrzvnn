@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Baldur’s Gate 3 has yet another big patch on the way](https://www.theverge.com/2024/11/27/24307746/baldurs-gate-3-patch-8-cross-play-photo-mode)
- - [Sources: US FTC has opened an antitrust investigation of Microsoft, focusing on its cloud and software licensing business and its cybersecurity and AI products &lpar;Bloomberg&rpar;](http://www.techmeme.com/241127/p31#a241127p31)
- - [Sriram Krishnan, a general partner at a16z, is leaving the firm; source: he has talked to Elon Musk about joining the Department of Government Efficiency &lpar;The Information&rpar;](http://www.techmeme.com/241127/p30#a241127p30)
- - [The Apple AirPods Pro Are The Cheapest We&#39;ve Ever Seen](https://www.wired.com/story/black-friday-2024-apple-airpods-pro-deal/)
- - [T-Mobile&#39;s CSO says &quot;suspicious behavior, discovery-type commands&quot; on the company&#39;s network devices tipped it off to the suspected Salt Typhoon-linked breach &lpar;Kelcee Griffis/Bloomberg&rpar;](http://www.techmeme.com/241127/p29#a241127p29)<!-- TECH:END -->
+ - [US filing: Google sent subpoenas in October 2024 to OpenAI, Perplexity AI, and Microsoft for the remedies part of the US v. Google search antitrust trial &lpar;Marty Swant/Digiday&rpar;](http://www.techmeme.com/241127/p32#a241127p32)
+ - [Grab My Favorite Coffee Mug Warmer for 25% Off in This Black Friday Deal](https://www.cnet.com/deals/grab-my-favorite-coffee-mug-warmer-for-25-off-in-this-black-friday-deal/#ftag=CAD590a51e)
+ - [Best Budget 3D Printers of 2024](https://www.cnet.com/tech/computing/best-budget-3d-printer/#ftag=CAD590a51e)
+ - [Best Black Friday Deals Live Now: Shop Over 80 Amazing Offers on Top Tech, Small Appliances and More](https://www.cnet.com/deals/best-black-friday-deals-live-2024-11-27/#ftag=CAD590a51e)
+ - [Best Mattress for Adjustable Beds in 2024](https://www.cnet.com/health/sleep/best-adjustable-mattress/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

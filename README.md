@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [She&#39;s wrong you know.](http://9gag.com/gag/aGypeB7)
- - 😝 [Stop that!](http://9gag.com/gag/aBy2WL2)
- - 💣 [Dad telling the waiter his daughter thought he was cute](http://9gag.com/gag/aAybDQd)
+ - 😝 [A V-shaped bed invented in 1932, supporting the body perfectly at every point and thus promotes better rest.](http://9gag.com/gag/aNDpzjr)
+ - 😝 [Why would one do that](http://9gag.com/gag/ajPmNnQ)
+ - 💣 [They all have the same birthday](http://9gag.com/gag/a6ZEo32)
  - 😝 [Half-life 3 confirmed?](http://9gag.com/gag/awyMnEQ)
- - 👉 [Yuri Gagarin was served tea with lemon at a reception with the Queen of Great Britain. After drinking the tea, he took out a lemon with a spoon &amp; ate it. Those around him were perplexed: the act did not fit into protocol at all. But Elizabeth II calmly took out her lemon &amp; ate it](http://9gag.com/gag/aW4j1Eq)<!-- MEMES:END -->
+ - 👉 [Connor McGregor vs Boxing Machine](http://9gag.com/gag/avy57vn)<!-- MEMES:END -->
 
 ---
 

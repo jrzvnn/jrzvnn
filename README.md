@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Anthropic updates Claude to add custom writing styles tailored to users, aiming to personalize its replies, following similar ChatGPT and Gemini features &lpar;Jess Weatherbed/The Verge&rpar;](http://www.techmeme.com/241127/p11#a241127p11)
+ - [No, Microsoft isn’t using your Office docs to train its AI](https://www.theverge.com/2024/11/27/24307284/microsoft-debunks-office-ai-data-scraping-rumors)
  - [IDC expects global smartphone shipments to rise 6.2% YoY to 1.24B units in 2024, with Android shipments growing 7.6% YoY and iPhone shipments growing 0.4% YoY &lpar;IDC&rpar;](http://www.techmeme.com/241127/p10#a241127p10)
  - [Stream Over 30,000 Movies for Free With This One Simple Item](https://www.cnet.com/tech/services-and-software/stream-over-30000-movies-for-free-with-this-one-simple-item/#ftag=CAD590a51e)
- - [31 of the Best Tech Gifts Under $100 for 2024](https://www.cnet.com/tech/best-tech-gifts-under-100/#ftag=CAD590a51e)
- - [Add Yourself to Your Holiday Gift List, Plus 6 Other Surprising Tips to Save Money This Black Friday](https://www.cnet.com/personal-finance/add-yourself-to-your-holiday-gift-list-plus-6-other-surprising-tips-to-save-money-this-black-friday/#ftag=CAD590a51e)
- - [Black Friday: 39 Spectacular Gifts for People Who Have Everything](https://www.cnet.com/news/gifts-for-people-who-have-everything/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [31 of the Best Tech Gifts Under $100 for 2024](https://www.cnet.com/tech/best-tech-gifts-under-100/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

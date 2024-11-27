@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Apple donating $5 per Apple Store purchase made with Apple Pay for World AIDS Day](https://appleinsider.com/articles/24/11/27/apple-donating-5-per-apple-store-purchase-made-with-apple-pay-for-world-aids-day?utm_medium=rss)
+ - [TikTok will block beauty filters for teens over mental health concerns](https://www.theverge.com/2024/11/27/24307314/tiktok-beauty-filter-effects-age-restriction-teens-wellbeing)
+ - [Sources: Guangzhou-based self-driving company Pony.AI raised $260M after pricing its US IPO at $13 per share, the top of the range, implying a ~$4.5B valuation &lpar;Bloomberg&rpar;](http://www.techmeme.com/241127/p14#a241127p14)
  - [Sources: xAI plans to launch a consumer app as soon as next month; the Elon Musk-run startup build its Colossus data center, which houses 100K GPUs, in 122 days &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/241127/p13#a241127p13)
- - [Vintage Digicams Aren&#39;t Just a Fad. They&#39;re an Artistic Statement](https://www.wired.com/story/vintage-digicams-artistic-photos/)
- - [Amsterdam-based Just Eat plans to delist from the London Stock Exchange on December 27 owing to the low liquidity, shifting to just an Amsterdam listing &lpar;Sarah Jacob/Bloomberg&rpar;](http://www.techmeme.com/241127/p12#a241127p12)
- - [Apple fails to ride global 2024 smartphone boom with Apple Intelligence](https://appleinsider.com/articles/24/11/27/apple-fails-to-ride-global-2024-smartphone-boom-with-apple-intelligence?utm_medium=rss)
- - [Why an Offline Nuclear Reactor Led to Thousands of Hospital Appointments Being Canceled](https://www.wired.com/story/why-an-offline-nuclear-reactor-led-to-thousands-of-hospital-appointments-being-cancelled/)<!-- TECH:END -->
+ - [Hide TV Wires: 6 Simple Solutions That Instantly Cut Cord Clutter](https://www.cnet.com/tech/home-entertainment/how-to-hide-tv-wires/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

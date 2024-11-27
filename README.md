@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Gentle reminder that our content funds this:](http://9gag.com/gag/abAV0Kp)
- - 😝 [Motorbiker giving advice to couple on a bridge](http://9gag.com/gag/aMVKGEA)
- - 💣 [Honestly, it\u2019s crazy how much they shave off](http://9gag.com/gag/apRNLBp)
- - 😝 [Deep Johnny Depp](http://9gag.com/gag/aLnpD6M)
- - 👉 [That time when Sacha Baron Cohen put his ass in Eminem&#39;s face](http://9gag.com/gag/a0e7jXQ)<!-- MEMES:END -->
+ - 😝 [Acting like it vs. Being it](http://9gag.com/gag/aLnp9BP)
+ - 😝 [A piece of paper would be fine.](http://9gag.com/gag/ajPmqPQ)
+ - 💣 [That\u2019s pretty awesome](http://9gag.com/gag/a1mroAR)
+ - 😝 [Hitting the jackpot twice but still managing to lose all](http://9gag.com/gag/aD2djNG)
+ - 👉 [I really shouldnt put my dick in there...however](http://9gag.com/gag/azxMA3Z)<!-- MEMES:END -->
 
 ---
 

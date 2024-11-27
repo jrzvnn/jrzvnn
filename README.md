@@ -158,10 +158,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- TECH:START -->
  - [Hulu Promo Codes and Discounts: 90% Off for Select Users](https://www.wired.com/story/hulu-promo-code/)
+ - [Best Black Friday Deals Live Right Now: 70-Plus Deals on Laptops, TVs, Home Goods and Much More](https://www.cnet.com/deals/best-black-friday-deals-live-2024-11-26/#ftag=CAD590a51e)
  - [A look at the evolution of China&#39;s semiconductor industry and Huawei under US export controls, as GPUs become the new focal point of US-China tech competition &lpar;Paul Triolo/American Affairs Journal&rpar;](http://www.techmeme.com/241127/p6#a241127p6)
  - [Therabody Promo Codes and Deals: Save Up to $300](https://www.wired.com/story/therabody-promo-code/)
- - [Wayfair Coupons: Up to 80% Off November 2024 | WIRED](https://www.wired.com/story/wayfair-coupon/)
- - [Booking.com Promo Codes - 50% off - November 2024](https://www.wired.com/story/booking-com-promo-code/)<!-- TECH:END -->
+ - [Wayfair Coupons: Up to 80% Off November 2024 | WIRED](https://www.wired.com/story/wayfair-coupon/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

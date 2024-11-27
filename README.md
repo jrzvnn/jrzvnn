@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [8 Best Ski Helmets Editor Tested and Reviewed &lpar;2024&rpar;](https://www.wired.com/gallery/the-best-ski-helmets/)
- - [US police are testing Axon&#39;s Draft One, an AI tool that generates police reports directly from Axon&#39;s bodycam audio, with 75 officers in Colorado and elsewhere &lpar;Barbara Booth/CNBC&rpar;](http://www.techmeme.com/241127/p16#a241127p16)
- - [14 Best Soundbars, Editor Tested and Reviewed &lpar;2024&rpar;: Sonos, Samsung, Yamaha, Sony, Bose](https://www.wired.com/gallery/best-soundbars/)
- - [A look at the UK&#39;s planned Digital Markets Unit, which will regulate US tech companies under the DMCC, passed in May 2024, and have the power to halt any M&amp;A &lpar;Ashley Rindsberg/Pirate Wires&rpar;](http://www.techmeme.com/241127/p15#a241127p15)
- - [Apple donating $5 per Apple Store purchase made with Apple Pay for World AIDS Day](https://appleinsider.com/articles/24/11/27/apple-donating-5-per-apple-store-purchase-made-with-apple-pay-for-world-aids-day?utm_medium=rss)<!-- TECH:END -->
+ - [Hands on with Kuxiu X36W Pro Max Magnetic iPad Wall Mount Charging Stand](https://appleinsider.com/articles/24/11/27/hands-on-with-kuxiu-x36w-pro-max-magnetic-ipad-wall-mount-charging-stand?utm_medium=rss)
+ - [Analysis: Elon Musk posted about Trump&#39;s cabinet picks 70+ times from November 7 to 20 to promote his preferred candidates; Trump picked others in several cases &lpar;Reuters&rpar;](http://www.techmeme.com/241127/p17#a241127p17)
+ - [Best Black Friday Deals Live Right Now: More Than 70 Top Discounts on Laptops, TVs, Home Goods and Much More](https://www.cnet.com/deals/best-black-friday-deals-live-2024-11-27/#ftag=CAD590a51e)
+ - [21 TV Shows on Netflix Perfect for Your Next Binge-Watch](https://www.cnet.com/tech/services-and-software/best-tv-shows-netflix-2024/#ftag=CAD590a51e)
+ - [8 Best Ski Helmets Editor Tested and Reviewed &lpar;2024&rpar;](https://www.wired.com/gallery/the-best-ski-helmets/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

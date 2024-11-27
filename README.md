@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Honestly, it\u2019s crazy how much they shave off](http://9gag.com/gag/apRNLBp)
  - 😝 [The old school vs the iVy league entitled.....](http://9gag.com/gag/aPA3W5R)
- - 💣 [Lois was toxic AF but in her defense Clark was a manipulative gaslighter](http://9gag.com/gag/aAybwPE)
- - 😝 [This is what we call miscalculation.](http://9gag.com/gag/a4PEjWw)
- - 👉 [Dream job!](http://9gag.com/gag/azxMjNN)<!-- MEMES:END -->
+ - 😝 [Lois was toxic AF but in her defense Clark was a manipulative gaslighter](http://9gag.com/gag/aAybwPE)
+ - 💣 [That time when Sacha Baron Cohen put his ass in Eminem&#39;s face](http://9gag.com/gag/a0e7jXQ)
+ - 😝 [Dream job!](http://9gag.com/gag/azxMjNN)
+ - 👉 [Professional skydiver Luigi Cani and his team scatter over 100 MILLION tree seeds in the heart of Brazil\u2019s Amazon rainforest. \ud83c\udf33\ud83c\udf33\ud83c\udde7\ud83c\uddf7](http://9gag.com/gag/a6ZEQWA)<!-- MEMES:END -->
 
 ---
 

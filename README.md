@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Black Friday streaming deals slash Disney Plus, Max, Hulu, Paramount Plus to as low $0.99/mo](https://appleinsider.com/articles/24/11/27/black-friday-streaming-deals-slash-disney-plus-max-hulu-paramount-plus-to-as-low-099mo?utm_medium=rss)
  - [The DJI Mini 3 is $100 off and matching its record low for Black Friday](https://www.theverge.com/2024/11/27/24307470/black-friday-deal-drone-dji-mini-3-cyber-monday)
  - [xAI could soon have its own app](https://www.theverge.com/2024/11/27/24307571/xai-consumer-app-planned-report)
  - [Meta appears to be developing a Threads feature inspired by Bluesky&#39;s &quot;starter packs&quot;, with profiles &quot;handpicked by people on Threads&quot; for users to follow &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/241127/p25#a241127p25)
- - [Brutalist architecture inspired this blocky wireless speaker](https://www.theverge.com/2024/11/27/24307542/transparent-wireless-brutalist-speaker)
- - [Grab This Black Friday Deal to Score 20% Off These New Earplugs](https://www.cnet.com/deals/grab-this-black-friday-deal-to-score-20-off-these-new-earplugs/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Brutalist architecture inspired this blocky wireless speaker](https://www.theverge.com/2024/11/27/24307542/transparent-wireless-brutalist-speaker)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

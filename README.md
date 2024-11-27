@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [German finest](http://9gag.com/gag/a7oE7Ax)
- - 😝 [Lois was toxic AF but in her defense Clark was a manipulative gaslighter](http://9gag.com/gag/aAybwPE)
- - 💣 [Motorbiker giving advice to couple on a bridge](http://9gag.com/gag/aMVKGEA)
- - 😝 [That time when Sacha Baron Cohen put his ass in Eminem&#39;s face](http://9gag.com/gag/a0e7jXQ)
- - 👉 [Honestly, it\u2019s crazy how much they shave off](http://9gag.com/gag/apRNLBp)<!-- MEMES:END -->
+ - 😝 [Gentle reminder that our content funds this:](http://9gag.com/gag/abAV0Kp)
+ - 😝 [Motorbiker giving advice to couple on a bridge](http://9gag.com/gag/aMVKGEA)
+ - 💣 [Honestly, it\u2019s crazy how much they shave off](http://9gag.com/gag/apRNLBp)
+ - 😝 [Deep Johnny Depp](http://9gag.com/gag/aLnpD6M)
+ - 👉 [That time when Sacha Baron Cohen put his ass in Eminem&#39;s face](http://9gag.com/gag/a0e7jXQ)<!-- MEMES:END -->
 
 ---
 

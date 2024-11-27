@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [A V-shaped bed invented in 1932, supporting the body perfectly at every point and thus promotes better rest.](http://9gag.com/gag/aNDpzjr)
- - 😝 [In the final scene of Bong Joon-Ho\u2019s 2003 film Memories of Murder based on the Hwaesong Serial Killer. The detective stares into the camera as if he\u2019s looking at the killer. The real life killer Lee Choon-Jae watched the film with his family before his capture in 2019.](http://9gag.com/gag/aAybPdg)
- - 💣 [Connor McGregor vs Boxing Machine](http://9gag.com/gag/avy57vn)
- - 😝 [Lois was toxic AF but in her defense Clark was a manipulative gaslighter](http://9gag.com/gag/aAybwPE)
- - 👉 [That look](http://9gag.com/gag/a9yEr76)<!-- MEMES:END -->
+ - 😝 [Faithful](http://9gag.com/gag/a7oEr2b)
+ - 😝 [The last image of Keith Spasford, a 14 year old australian boy who wanted to explore the world, so he snuck to a plane wheel well, it opened in mid-air and the boy fell out. the photographer was just testing his new lenses and was shocked after developing those images](http://9gag.com/gag/aGypDv0)
+ - 💣 [Dad](http://9gag.com/gag/an7QjEL)
+ - 😝 [Connor McGregor vs Boxing Machine](http://9gag.com/gag/avy57vn)
+ - 👉 [This is what we call miscalculation.](http://9gag.com/gag/a4PEjWw)<!-- MEMES:END -->
 
 ---
 

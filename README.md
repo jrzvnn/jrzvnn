@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Wondering if this was one of those shit tests they make to have the guy fight for them](http://9gag.com/gag/amoPzZd)
- - 😝 [Deep Johnny Depp](http://9gag.com/gag/aLnpD6M)
- - 💣 [Gentle reminder that our content funds this:](http://9gag.com/gag/abAV0Kp)
- - 😝 [Big brother is washing](http://9gag.com/gag/a1mrdDG)
- - 👉 [That time when Sacha Baron Cohen put his ass in Eminem&#39;s face](http://9gag.com/gag/a0e7jXQ)<!-- MEMES:END -->
+ - 😝 [Bro chose the right person](http://9gag.com/gag/apRNLx8)
+ - 😝 [Acting like it vs. Being it](http://9gag.com/gag/aLnp9BP)
+ - 💣 [A piece of paper would be fine.](http://9gag.com/gag/ajPmqPQ)
+ - 😝 [Frustrated sexually](http://9gag.com/gag/a5QEZxL)
+ - 👉 [I really shouldnt put my dick in there...however](http://9gag.com/gag/azxMA3Z)<!-- MEMES:END -->
 
 ---
 

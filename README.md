@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Yea that kick was helpful](http://9gag.com/gag/a9yE7VD)
+ - 😝 [Gentle reminder that our content funds this:](http://9gag.com/gag/abAV0Kp)
+ - 😝 [Lois was toxic AF but in her defense Clark was a manipulative gaslighter](http://9gag.com/gag/aAybwPE)
+ - 💣 [German finest](http://9gag.com/gag/a7oE7Ax)
  - 😝 [Deep Johnny Depp](http://9gag.com/gag/aLnpD6M)
- - 💣 [That time when Sacha Baron Cohen put his ass in Eminem&#39;s face](http://9gag.com/gag/a0e7jXQ)
- - 😝 [It\u2019s called Bangkok honey](http://9gag.com/gag/aBy2YNO)
- - 👉 [Dream job!](http://9gag.com/gag/azxMjNN)<!-- MEMES:END -->
+ - 👉 [Motorbiker giving advice to couple on a bridge](http://9gag.com/gag/aMVKGEA)<!-- MEMES:END -->
 
 ---
 

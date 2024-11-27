@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Just another sleepless night](http://9gag.com/gag/aLnpggv)
- - 😝 [It was delicious. Thank you](http://9gag.com/gag/aLnpjvV)
- - 💣 [So lego got competition](http://9gag.com/gag/aE0pxAx)
- - 😝 [The current regime has to go.](http://9gag.com/gag/aKG6jeg)
- - 👉 [Friends recruitment :&rpar;](http://9gag.com/gag/a9yEpxW)<!-- MEMES:END -->
+ - 😝 [She&#39;s wrong you know.](http://9gag.com/gag/aGypeB7)
+ - 😝 [Stop that!](http://9gag.com/gag/aBy2WL2)
+ - 💣 [Dad telling the waiter his daughter thought he was cute](http://9gag.com/gag/aAybDQd)
+ - 😝 [Half-life 3 confirmed?](http://9gag.com/gag/awyMnEQ)
+ - 👉 [Yuri Gagarin was served tea with lemon at a reception with the Queen of Great Britain. After drinking the tea, he took out a lemon with a spoon &amp; ate it. Those around him were perplexed: the act did not fit into protocol at all. But Elizabeth II calmly took out her lemon &amp; ate it](http://9gag.com/gag/aW4j1Eq)<!-- MEMES:END -->
 
 ---
 

@@ -157,7 +157,7 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: OpenAI is letting staff sell ~$1.5B worth of shares in a new tender offer to SoftBank in a deal spurred by Masayoshi Son and is set to close this week &lpar;CNBC&rpar;](http://www.techmeme.com/241127/p2#a241127p2)
+ - [Sources: OpenAI is letting current and former staff sell ~$1.5B worth of restricted stock in a new tender offer to SoftBank in a deal spurred by Masayoshi Son &lpar;CNBC&rpar;](http://www.techmeme.com/241127/p2#a241127p2)
  - [Bluesky says it is up to outside orgs to respect user consent, after a Hugging Face employee published a dataset of 1M posts from Bluesky&#39;s API for ML research &lpar;Samantha Cole/404 Media&rpar;](http://www.techmeme.com/241127/p1#a241127p1)
  - [Best Black Friday Deals Live Right Now: 70+ Deals on Laptops, TVs, Home Goods and Much More](https://www.cnet.com/deals/best-black-friday-deals-live-2024-11-26/#ftag=CAD590a51e)
  - [Best Cloud Storage Software Options](https://www.cnet.com/tech/services-and-software/best-cloud-storage-software-options/#ftag=CAD590a51e)

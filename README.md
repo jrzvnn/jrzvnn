@@ -161,7 +161,7 @@ R                        1 repo              ░░░░░░░░░░░�
  - [Sriram Krishnan, a general partner at a16z, is leaving the firm; source: he has talked to Elon Musk about joining the Department of Government Efficiency &lpar;The Information&rpar;](http://www.techmeme.com/241127/p30#a241127p30)
  - [The Apple AirPods Pro Are The Cheapest We&#39;ve Ever Seen](https://www.wired.com/story/black-friday-2024-apple-airpods-pro-deal/)
  - [T-Mobile&#39;s CSO says &quot;suspicious behavior, discovery-type commands&quot; on the company&#39;s network devices tipped it off to the suspected Salt Typhoon-linked breach &lpar;Kelcee Griffis/Bloomberg&rpar;](http://www.techmeme.com/241127/p29#a241127p29)
- - [The best Black Friday phone deals I’d actually recommend to real people](https://www.theverge.com/24306779/black-friday-2024-smartphone-best-deals-apple-samsung-pixel-motorola)<!-- TECH:END -->
+ - [3 Best Stainless Steel Frying Pans in 2024](https://www.cnet.com/news/best-stainless-steel-skillet/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

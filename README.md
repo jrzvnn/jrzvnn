@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Smallest Mac yet is perfect Apple Vision Pro companion with the right battery pack](https://appleinsider.com/articles/24/11/27/smallest-mac-yet-is-perfect-apple-vision-pro-companion-with-the-right-battery-pack?utm_medium=rss)
- - [Cloudflare says it lost 55% of all logs pushed to customers over a 3.5-hour period due to a bug on November 14; Cloudflare sends ~4.5T logs to customers daily &lpar;Bill Toulas/BleepingComputer&rpar;](http://www.techmeme.com/241127/p23#a241127p23)
- - [The UE Miniroll speaker is super portable and down to its best price ever](https://www.theverge.com/2024/11/27/24307424/ultimate-ears-miniroll-bluetooth-speaker-black-friday-deal-sale)
- - [Foxconn Chair Young Liu says the company expects any impact of Trump&#39;s new tariffs to hit it less than its rivals, citing its global manufacturing footprint &lpar;Wen-Yee Lee/Reuters&rpar;](http://www.techmeme.com/241127/p22#a241127p22)
- - [GM eliminated Apple CarPlay and Android Auto from its EVs — this upgrade adds them back](https://www.theverge.com/2024/11/27/24307345/gm-ev-carplay-android-auto-aftermarket-kit)<!-- TECH:END -->
+ - [The Best Dyson Vacuums &lpar;2024&rpar;, Tested and Reviewed](https://www.wired.com/gallery/best-dyson-vacuums/)
+ - [Chinese self-driving company Pony.AI raised $413.4B in its US IPO, after pricing shares at $13, which rose 19% at open, giving it a nearly $5.4B market cap &lpar;Bailey Lipschultz/Bloomberg&rpar;](http://www.techmeme.com/241127/p24#a241127p24)
+ - [Champions League Soccer: Livestream Liverpool vs. Real Madrid From Anywhere](https://www.cnet.com/tech/services-and-software/champions-league-soccer-livestream-liverpool-vs-real-madrid-from-anywhere/#ftag=CAD590a51e)
+ - [Experts Say to Focus on These 6 Vitamins and Minerals for Healthy Aging](https://www.cnet.com/health/nutrition/experts-say-to-focus-on-these-6-vitamins-and-minerals-for-healthy-aging/#ftag=CAD590a51e)
+ - [Best Mattresses for Sciatica for 2024](https://www.cnet.com/health/sleep/best-mattress-for-sciatica/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Gentle reminder that our content funds this:](http://9gag.com/gag/abAV0Kp)
- - 😝 [Lois was toxic AF but in her defense Clark was a manipulative gaslighter](http://9gag.com/gag/aAybwPE)
- - 💣 [German finest](http://9gag.com/gag/a7oE7Ax)
- - 😝 [Deep Johnny Depp](http://9gag.com/gag/aLnpD6M)
- - 👉 [Motorbiker giving advice to couple on a bridge](http://9gag.com/gag/aMVKGEA)<!-- MEMES:END -->
+ - 😝 [Acting like it vs. Being it](http://9gag.com/gag/aLnp9BP)
+ - 😝 [A piece of paper would be fine.](http://9gag.com/gag/ajPmqPQ)
+ - 💣 [I really shouldnt put my dick in there...however](http://9gag.com/gag/azxMA3Z)
+ - 😝 [Frustrated sexually](http://9gag.com/gag/a5QEZxL)
+ - 👉 [Hitting the jackpot twice but still managing to lose all](http://9gag.com/gag/aD2djNG)<!-- MEMES:END -->
 
 ---
 

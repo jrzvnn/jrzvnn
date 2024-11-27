@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Baldur’s Gate 3 has yet another big patch on the way](https://www.theverge.com/2024/11/27/24307746/baldurs-gate-3-patch-8-cross-play-photo-mode)
  - [Sources: US FTC has opened an antitrust investigation of Microsoft, focusing on its cloud and software licensing business and its cybersecurity and AI products &lpar;Bloomberg&rpar;](http://www.techmeme.com/241127/p31#a241127p31)
  - [Sriram Krishnan, a general partner at a16z, is leaving the firm; source: he has talked to Elon Musk about joining the Department of Government Efficiency &lpar;The Information&rpar;](http://www.techmeme.com/241127/p30#a241127p30)
  - [The Apple AirPods Pro Are The Cheapest We&#39;ve Ever Seen](https://www.wired.com/story/black-friday-2024-apple-airpods-pro-deal/)
- - [T-Mobile&#39;s CSO says &quot;suspicious behavior, discovery-type commands&quot; on the company&#39;s network devices tipped it off to the suspected Salt Typhoon-linked breach &lpar;Kelcee Griffis/Bloomberg&rpar;](http://www.techmeme.com/241127/p29#a241127p29)
- - [3 Best Stainless Steel Frying Pans in 2024](https://www.cnet.com/news/best-stainless-steel-skillet/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [T-Mobile&#39;s CSO says &quot;suspicious behavior, discovery-type commands&quot; on the company&#39;s network devices tipped it off to the suspected Salt Typhoon-linked breach &lpar;Kelcee Griffis/Bloomberg&rpar;](http://www.techmeme.com/241127/p29#a241127p29)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

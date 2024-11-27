@@ -159,9 +159,9 @@ R                        1 repo              ░░░░░░░░░░░�
 <!-- TECH:START -->
  - [Study: about 85% of US unicorn startups that have gone public were unprofitable in 2023, despite most having been founded more than fifteen years earlier &lpar;Jeffrey Funk/American Affairs Journal&rpar;](http://www.techmeme.com/241127/p7#a241127p7)
  - [Hulu Promo Codes and Discounts: 90% Off for Select Users](https://www.wired.com/story/hulu-promo-code/)
- - [Best Black Friday Deals Live Right Now: 70-Plus Deals on Laptops, TVs, Home Goods and Much More](https://www.cnet.com/deals/best-black-friday-deals-live-2024-11-26/#ftag=CAD590a51e)
- - [A look at the evolution of China&#39;s semiconductor industry and Huawei under US export controls, as GPUs become the new focal point of US-China tech competition &lpar;Paul Triolo/American Affairs Journal&rpar;](http://www.techmeme.com/241127/p6#a241127p6)
- - [Therabody Promo Codes and Deals: Save Up to $300](https://www.wired.com/story/therabody-promo-code/)<!-- TECH:END -->
+ - [Best Black Friday Deals Live Right Now: 70-Plus Deals on Laptops, TVs, Home Goods and Much More](https://www.cnet.com/deals/best-black-friday-deals-live-2024-11-27/#ftag=CAD590a51e)
+ - [Best Vitamins for Healthy Hair, Skin and Nails in 2024](https://www.cnet.com/health/nutrition/best-vitamins-for-hair-skin-and-nails/#ftag=CAD590a51e)
+ - [The 3 Best Juicers of 2024, Tested by CNET Editors](https://www.cnet.com/home/kitchen-and-household/best-juicer/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

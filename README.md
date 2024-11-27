@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [A V-shaped bed invented in 1932, supporting the body perfectly at every point and thus promotes better rest.](http://9gag.com/gag/aNDpzjr)
- - 😝 [Why would one do that](http://9gag.com/gag/ajPmNnQ)
- - 💣 [They all have the same birthday](http://9gag.com/gag/a6ZEo32)
- - 😝 [Half-life 3 confirmed?](http://9gag.com/gag/awyMnEQ)
- - 👉 [Connor McGregor vs Boxing Machine](http://9gag.com/gag/avy57vn)<!-- MEMES:END -->
+ - 😝 [They all have the same birthday](http://9gag.com/gag/a6ZEo32)
+ - 😝 [Kindergarten teacher](http://9gag.com/gag/adB8KwB)
+ - 💣 [Connor McGregor vs Boxing Machine](http://9gag.com/gag/avy57vn)
+ - 😝 [Dad telling the waiter his daughter thought he was cute](http://9gag.com/gag/aAybDQd)
+ - 👉 [Professional skydiver Luigi Cani and his team scatter over 100 MILLION tree seeds in the heart of Brazil\u2019s Amazon rainforest. \ud83c\udf33\ud83c\udf33\ud83c\udde7\ud83c\uddf7](http://9gag.com/gag/a6ZEQWA)<!-- MEMES:END -->
 
 ---
 

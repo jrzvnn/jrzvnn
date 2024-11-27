@@ -166,10 +166,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [A V-shaped bed invented in 1932, supporting the body perfectly at every point and thus promotes better rest.](http://9gag.com/gag/aNDpzjr)
  - 😝 [Kindergarten teacher](http://9gag.com/gag/adB8KwB)
- - 💣 [Dad telling the waiter his daughter thought he was cute](http://9gag.com/gag/aAybDQd)
- - 😝 [That look](http://9gag.com/gag/a9yEr76)
+ - 😝 [Streaming Cable](http://9gag.com/gag/a7oErLb)
+ - 💣 [How to correctly Hans a hornet nest...](http://9gag.com/gag/a34EqdN)
+ - 😝 [They all have the same birthday](http://9gag.com/gag/a6ZEo32)
  - 👉 [Usual suspect with a machete tries to decap someone buying a PS5, turns out that someone is an undercover cop, the suspect gets put to room temperature](http://9gag.com/gag/amoP28d)<!-- MEMES:END -->
 
 ---

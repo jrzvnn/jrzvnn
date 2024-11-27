@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [That look](http://9gag.com/gag/a9yEr76)
+ - 😝 [Honestly, it\u2019s crazy how much they shave off](http://9gag.com/gag/apRNLBp)
+ - 😝 [The old school vs the iVy league entitled.....](http://9gag.com/gag/aPA3W5R)
+ - 💣 [Lois was toxic AF but in her defense Clark was a manipulative gaslighter](http://9gag.com/gag/aAybwPE)
  - 😝 [This is what we call miscalculation.](http://9gag.com/gag/a4PEjWw)
- - 💣 [Honestly, it\u2019s crazy how much they shave off](http://9gag.com/gag/apRNLBp)
- - 😝 [And a toll payer on top](http://9gag.com/gag/aGyp0Dw)
- - 👉 [Big brother is washing](http://9gag.com/gag/a1mrdDG)<!-- MEMES:END -->
+ - 👉 [Dream job!](http://9gag.com/gag/azxMjNN)<!-- MEMES:END -->
 
 ---
 

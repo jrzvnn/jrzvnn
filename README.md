@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [That look](http://9gag.com/gag/a9yEr76)
- - 😝 [Lois was toxic AF but in her defense Clark was a manipulative gaslighter](http://9gag.com/gag/aAybwPE)
- - 💣 [Honestly, it\u2019s crazy how much they shave off](http://9gag.com/gag/apRNLBp)
+ - 😝 [German finest](http://9gag.com/gag/a7oE7Ax)
  - 😝 [Gentle reminder that our content funds this:](http://9gag.com/gag/abAV0Kp)
- - 👉 [And a toll payer on top](http://9gag.com/gag/aGyp0Dw)<!-- MEMES:END -->
+ - 💣 [And a toll payer on top](http://9gag.com/gag/aGyp0Dw)
+ - 😝 [That time when Sacha Baron Cohen put his ass in Eminem&#39;s face](http://9gag.com/gag/a0e7jXQ)
+ - 👉 [Deep Johnny Depp](http://9gag.com/gag/aLnpD6M)<!-- MEMES:END -->
 
 ---
 

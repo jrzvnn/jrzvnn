@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Smallest Mac yet is perfect Apple Vision Pro companion with the right battery pack](https://appleinsider.com/articles/24/11/27/smallest-mac-yet-is-perfect-apple-vision-pro-companion-with-the-right-battery-pack?utm_medium=rss)
+ - [Cloudflare says it lost 55% of all logs pushed to customers over a 3.5-hour period due to a bug on November 14; Cloudflare sends ~4.5T logs to customers daily &lpar;Bill Toulas/BleepingComputer&rpar;](http://www.techmeme.com/241127/p23#a241127p23)
+ - [The UE Miniroll speaker is super portable and down to its best price ever](https://www.theverge.com/2024/11/27/24307424/ultimate-ears-miniroll-bluetooth-speaker-black-friday-deal-sale)
  - [Foxconn Chair Young Liu says the company expects any impact of Trump&#39;s new tariffs to hit it less than its rivals, citing its global manufacturing footprint &lpar;Wen-Yee Lee/Reuters&rpar;](http://www.techmeme.com/241127/p22#a241127p22)
- - [GM eliminated Apple CarPlay and Android Auto from its EVs — this upgrade adds them back](https://www.theverge.com/2024/11/27/24307345/gm-ev-carplay-android-auto-aftermarket-kit)
- - [Best Black Friday Deals Live Right Now: More Than 70 Top Discounts on Laptops, TVs, Home Goods and Much More](https://www.cnet.com/deals/best-black-friday-deals-live-2024-11-27/#ftag=CAD590a51e)
- - [My Favorite Electric Wine Opener Set Is 20% Off for Black Friday](https://www.cnet.com/deals/my-favorite-electric-wine-opener-set-is-20-off-for-black-friday/#ftag=CAD590a51e)
- - [What&#39;s the Best Way to Buy the PlayStation 5 Pro? We Do the Math](https://www.cnet.com/personal-finance/credit-cards/whats-the-best-way-to-buy-the-playstation-5-pro-we-do-the-math/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [GM eliminated Apple CarPlay and Android Auto from its EVs — this upgrade adds them back](https://www.theverge.com/2024/11/27/24307345/gm-ev-carplay-android-auto-aftermarket-kit)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

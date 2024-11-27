@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Acting like it vs. Being it](http://9gag.com/gag/aLnp9BP)
- - 😝 [A piece of paper would be fine.](http://9gag.com/gag/ajPmqPQ)
- - 💣 [I really shouldnt put my dick in there...however](http://9gag.com/gag/azxMA3Z)
- - 😝 [That\u2019s pretty awesome](http://9gag.com/gag/a1mroAR)
- - 👉 [Frustrated sexually](http://9gag.com/gag/a5QEZxL)<!-- MEMES:END -->
+ - 😝 [It\u2019s called Bangkok honey](http://9gag.com/gag/aBy2YNO)
+ - 😝 [Motorbiker giving advice to couple on a bridge](http://9gag.com/gag/aMVKGEA)
+ - 💣 [German finest](http://9gag.com/gag/a7oE7Ax)
+ - 😝 [That time when Sacha Baron Cohen put his ass in Eminem&#39;s face](http://9gag.com/gag/a0e7jXQ)
+ - 👉 [Deep Johnny Depp](http://9gag.com/gag/aLnpD6M)<!-- MEMES:END -->
 
 ---
 

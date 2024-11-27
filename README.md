@@ -167,10 +167,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [Wondering if this was one of those shit tests they make to have the guy fight for them](http://9gag.com/gag/amoPzZd)
- - 😝 [Professional skydiver Luigi Cani and his team scatter over 100 MILLION tree seeds in the heart of Brazil\u2019s Amazon rainforest. \ud83c\udf33\ud83c\udf33\ud83c\udde7\ud83c\uddf7](http://9gag.com/gag/a6ZEQWA)
+ - 😝 [That time when Sacha Baron Cohen put his ass in Eminem&#39;s face](http://9gag.com/gag/a0e7jXQ)
  - 💣 [The what?](http://9gag.com/gag/aYQoeQ0)
- - 😝 [Motorbiker giving advice to couple on a bridge](http://9gag.com/gag/aMVKGEA)
- - 👉 [It\u2019s called Bangkok honey](http://9gag.com/gag/aBy2YNO)<!-- MEMES:END -->
+ - 😝 [Big brother is washing](http://9gag.com/gag/a1mrdDG)
+ - 👉 [Deep Johnny Depp](http://9gag.com/gag/aLnpD6M)<!-- MEMES:END -->
 
 ---
 

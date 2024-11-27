@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The very best Black Friday deals you can already get](https://www.theverge.com/24293826/best-early-black-friday-deals-2024-amazon-walmart-buy-target-tech-sale)
+ - [Sources: investigators suspect Chinese ship Yi Peng 3 dragged its anchor for 100+ miles to sever two Baltic internet cables, possibly at the behest of Russia &lpar;Bojan Pancevski/Wall Street Journal&rpar;](http://www.techmeme.com/241127/p20#a241127p20)
  - [Sony says it has sold 160M+ PlayStation 2 consoles globally since its 2000 launch, the highest-selling console of all time ahead of the Nintendo DS and Switch &lpar;Alex Stedman/IGN&rpar;](http://www.techmeme.com/241127/p19#a241127p19)
  - [The Best Action Cameras &lpar;2024&rpar;, Tested and Reviewed](https://www.wired.com/gallery/best-action-cameras/)
- - [The Verge’s 2024 holiday gift guide for moms](https://www.theverge.com/24224046/best-gift-ideas-mom-holiday-unique-2024-tech-gadgets)
- - [Starlink’s direct-to-cell satellite service is the first to receive FCC approval](https://www.theverge.com/2024/11/27/24307394/starlink-spacex-tmobile-direct-to-cell-satellite-fcc-approval)
- - [You can now wear Apple’s running shoe emoji](https://www.theverge.com/2024/11/27/24307338/jose-wong-running-abcd-shoe-1-apple-emoji-fashion-streetwear)<!-- TECH:END -->
+ - [The Verge’s 2024 holiday gift guide for moms](https://www.theverge.com/24224046/best-gift-ideas-mom-holiday-unique-2024-tech-gadgets)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -158,10 +158,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- TECH:START -->
  - [Hulu Promo Codes and Discounts: 90% Off for Select Users](https://www.wired.com/story/hulu-promo-code/)
- - [Roblox is offering 25% more Robux for users buying on the web and via gift cards than those making an IAP via Apple&#39;s App Store or Google&#39;s Play Store &lpar;Ivan Mehta/TechCrunch&rpar;](http://www.techmeme.com/241127/p5#a241127p5)
- - [Surfshark Coupons and Deals: Up to 87% Off Plans](https://www.wired.com/story/surfshark-coupon/)
- - [Priceline Promo Code: 10% Off in November 2024](https://www.wired.com/story/priceline-promo-code/)
- - [Huawei&#39;s HarmonyOS NEXT in Mate 70 series of smartphones is the company&#39;s first fully self-developed OS that reportedly no longer uses open-source Android code &lpar;Arjun Kharpal/CNBC&rpar;](http://www.techmeme.com/241127/p4#a241127p4)<!-- TECH:END -->
+ - [A look at the evolution of China&#39;s semiconductor industry and Huawei under US export controls, as GPUs become the new focal point of US-China tech competition &lpar;Paul Triolo/American Affairs Journal&rpar;](http://www.techmeme.com/241127/p6#a241127p6)
+ - [Therabody Promo Codes and Deals: Save Up to $300](https://www.wired.com/story/therabody-promo-code/)
+ - [Wayfair Coupons: Up to 80% Off November 2024 | WIRED](https://www.wired.com/story/wayfair-coupon/)
+ - [Booking.com Promo Codes - 50% off - November 2024](https://www.wired.com/story/booking-com-promo-code/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

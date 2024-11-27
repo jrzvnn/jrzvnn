@@ -166,9 +166,9 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Half-life 3 confirmed?](http://9gag.com/gag/awyMnEQ)
- - 😝 [Connor McGregor vs Boxing Machine](http://9gag.com/gag/avy57vn)
- - 💣 [With another 10 to come for terrorism charges.](http://9gag.com/gag/aAybDEL)
+ - 😝 [She&#39;s wrong you know.](http://9gag.com/gag/aGypeB7)
+ - 😝 [Streaming Cable](http://9gag.com/gag/a7oErLb)
+ - 💣 [Connor McGregor vs Boxing Machine](http://9gag.com/gag/avy57vn)
  - 😝 [Stop that!](http://9gag.com/gag/aBy2WL2)
  - 👉 [Kindergarten teacher](http://9gag.com/gag/adB8KwB)<!-- MEMES:END -->
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The Physics of the Macy’s Thanksgiving Day Parade Balloons](https://www.wired.com/story/the-physics-of-the-macys-thanksgiving-day-parade-balloons/)
+ - [11 Best Umbrellas &lpar;2024&rpar;, Tested and Reviewed](https://www.wired.com/gallery/best-umbrellas/)
  - [Raspberry Pi Compute Module 5 review: the new $45+ module is a compact Pi 5 alternative with more power than the CM4, but doesn&#39;t work with a passive cooler &lpar;Les Pounder/Tom&#39;s Hardware&rpar;](http://www.techmeme.com/241127/p21#a241127p21)
  - [The best Bluetooth trackers for finding your stuff](https://www.theverge.com/23769840/best-bluetooth-trackers)
- - [Uber for AI labeling](https://www.theverge.com/2024/11/27/24307360/uber-scaled-solutions-ai-labeling-workforce)
- - [14 Best Office Chairs of 2024— I&#39;ve Tested 55+ to Pick Them](https://www.wired.com/gallery/best-office-chairs/)
- - [12 Best Black Friday Laptop Deals &lpar;2024&rpar;: Acer, Apple, Anker](https://www.wired.com/story/best-black-friday-laptop-deals-2024/)<!-- TECH:END -->
+ - [Uber for AI labeling](https://www.theverge.com/2024/11/27/24307360/uber-scaled-solutions-ai-labeling-workforce)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

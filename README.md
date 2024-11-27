@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Can AI help connect more solar and wind farms to the power grid?](https://www.theverge.com/2024/11/27/24307399/ai-solar-wind-energy-power-grid-doe-funding-interconnection)
+ - [Former Android leaders are building an ‘operating system for AI agents’](https://www.theverge.com/2024/11/27/24307525/android-leaders-dev-agents-ai-agent-operating-system-startup)
+ - [The 11 Best TVs We’ve Reviewed, Plus Buying Advice &lpar;2024&rpar;](https://www.wired.com/gallery/best-tvs/)
  - [Apple takes over more NYC office space from Macy&#39;s](https://appleinsider.com/articles/24/11/27/apple-takes-over-more-nyc-office-space-from-macys?utm_medium=rss)
- - [Walmart made a whole Christmas movie just to sell you stuff](https://www.theverge.com/2024/11/27/24307517/walmart-roku-channel-jingle-bell-love-christmas-shopping-movie)
- - [A Chinese ship is suspected of sabotaging undersea cables](https://www.theverge.com/2024/11/27/24307498/chinese-ship-undersea-cables-severed-russia-baltic-seabed)
- - [Best Black Friday Phone Deals &lpar;2024&rpar;, Including Cases Too](https://www.wired.com/story/black-friday-phone-deals-2024/)
- - [The Best Dyson Vacuums &lpar;2024&rpar;, Tested and Reviewed](https://www.wired.com/gallery/best-dyson-vacuums/)<!-- TECH:END -->
+ - [Walmart made a whole Christmas movie just to sell you stuff](https://www.theverge.com/2024/11/27/24307517/walmart-roku-channel-jingle-bell-love-christmas-shopping-movie)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -169,8 +169,8 @@ R                        1 repo              ░░░░░░░░░░░�
  - 😝 [Acting like it vs. Being it](http://9gag.com/gag/aLnp9BP)
  - 😝 [A piece of paper would be fine.](http://9gag.com/gag/ajPmqPQ)
  - 💣 [I really shouldnt put my dick in there...however](http://9gag.com/gag/azxMA3Z)
- - 😝 [Frustrated sexually](http://9gag.com/gag/a5QEZxL)
- - 👉 [Hitting the jackpot twice but still managing to lose all](http://9gag.com/gag/aD2djNG)<!-- MEMES:END -->
+ - 😝 [That\u2019s pretty awesome](http://9gag.com/gag/a1mroAR)
+ - 👉 [Frustrated sexually](http://9gag.com/gag/a5QEZxL)<!-- MEMES:END -->
 
 ---
 

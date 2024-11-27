@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Uber for AI labeling](https://www.theverge.com/2024/11/27/24307360/uber-scaled-solutions-ai-labeling-workforce)
+ - [14 Best Office Chairs of 2024— I&#39;ve Tested 55+ to Pick Them](https://www.wired.com/gallery/best-office-chairs/)
+ - [12 Best Black Friday Laptop Deals &lpar;2024&rpar;: Acer, Apple, Anker](https://www.wired.com/story/best-black-friday-laptop-deals-2024/)
  - [The very best Black Friday deals you can already get](https://www.theverge.com/24293826/best-early-black-friday-deals-2024-amazon-walmart-buy-target-tech-sale)
- - [Sources: investigators suspect Chinese ship Yi Peng 3 dragged its anchor for 100+ miles to sever two Baltic internet cables, possibly at the behest of Russia &lpar;Bojan Pancevski/Wall Street Journal&rpar;](http://www.techmeme.com/241127/p20#a241127p20)
- - [Sony says it has sold 160M+ PlayStation 2 consoles globally since its 2000 launch, the highest-selling console of all time ahead of the Nintendo DS and Switch &lpar;Alex Stedman/IGN&rpar;](http://www.techmeme.com/241127/p19#a241127p19)
- - [The Best Action Cameras &lpar;2024&rpar;, Tested and Reviewed](https://www.wired.com/gallery/best-action-cameras/)
- - [The Verge’s 2024 holiday gift guide for moms](https://www.theverge.com/24224046/best-gift-ideas-mom-holiday-unique-2024-tech-gadgets)<!-- TECH:END -->
+ - [Sources: investigators suspect Chinese ship Yi Peng 3 dragged its anchor for 100+ miles to sever two Baltic internet cables, possibly at the behest of Russia &lpar;Bojan Pancevski/Wall Street Journal&rpar;](http://www.techmeme.com/241127/p20#a241127p20)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

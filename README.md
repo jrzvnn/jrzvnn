@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Boox Go 10.3 review: An e-ink iPad alternative, designed for productivity](https://appleinsider.com/articles/24/11/27/boox-go-103-review-an-e-ink-ipad-alternative-designed-for-productivity?utm_medium=rss)
  - [The US FTC is investigating Uber after customers complained the company signed them up for Uber One without their consent and made it difficult to cancel &lpar;Leah Nylen/Bloomberg&rpar;](http://www.techmeme.com/241127/p26#a241127p26)
  - [Black Friday streaming deals slash Disney Plus, Max, Hulu, Paramount Plus to as low $0.99/mo](https://appleinsider.com/articles/24/11/27/black-friday-streaming-deals-slash-disney-plus-max-hulu-paramount-plus-to-as-low-099mo?utm_medium=rss)
- - [The DJI Mini 3 is $100 off and matching its record low for Black Friday](https://www.theverge.com/2024/11/27/24307470/black-friday-deal-drone-dji-mini-3-cyber-monday)
- - [xAI could soon have its own app](https://www.theverge.com/2024/11/27/24307571/xai-consumer-app-planned-report)
- - [Meta appears to be developing a Threads feature inspired by Bluesky&#39;s &quot;starter packs&quot;, with profiles &quot;handpicked by people on Threads&quot; for users to follow &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/241127/p25#a241127p25)<!-- TECH:END -->
+ - [Best Black Friday Deals to Shop Now: We&#39;ve Found More Than 70 Top Offers on TVs, Headphones and More](https://www.cnet.com/deals/best-black-friday-deals-live-2024-11-27/#ftag=CAD590a51e)
+ - [Want Free Airport Lounge Access This Holiday Season? Here&#39;s The Best Way to Get It](https://www.cnet.com/personal-finance/credit-cards/want-free-airport-lounge-access-this-holiday-season-heres-the-best-way-to-get-it/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

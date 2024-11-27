@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Best Internet Providers in the Bronx, New York](https://www.cnet.com/home/internet/best-internet-providers-in-the-bronx-ny/#ftag=CAD590a51e)
- - [Best Black Friday Soundbar Deals: We’ve Found Huge Savings on Top Brands Like Samsung, Vizio and More](https://www.cnet.com/deals/best-black-friday-soundbar-deals-2024-11-26/#ftag=CAD590a51e)
- - [Porsche is holding on to gas cars for a bit longer](https://www.theverge.com/2024/11/26/24306935/porsche-more-gas-models-ev-slowdown)
+ - [Evolv reaches an agreement to resolve an FTC inquiry alleging the company made false claims about its AI-powered security system&#39;s ability to screen for weapons &lpar;Stephen Nakrosis/Wall Street Journal&rpar;](http://www.techmeme.com/241126/p29#a241126p29)
  - [Best Black Friday Deals That Are Live Now: 70+ Deals on TVs, Laptops, Headphones and More](https://www.cnet.com/deals/best-black-friday-deals-live-2024-11-26/#ftag=CAD590a51e)
- - [One of the Best 3D Printers Is on Sale This Black Friday – and It Would Make an Amazing Gift](https://www.cnet.com/deals/one-of-the-best-3d-printers-is-on-sale-this-black-friday/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [My Hands-On Experience With AT&amp;T Internet Air: Here&#39;s What I Learned](https://www.cnet.com/home/internet/my-hands-on-experience-with-at-t-internet-air-heres-what-i-learned/#ftag=CAD590a51e)
+ - [I Found the Best Tablet Deals for Black Friday &lpar;Including $400 Off iPads&rpar;](https://www.cnet.com/deals/best-black-friday-tablet-deals-2024/#ftag=CAD590a51e)
+ - [Best Internet Providers in the Bronx, New York](https://www.cnet.com/home/internet/best-internet-providers-in-the-bronx-ny/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

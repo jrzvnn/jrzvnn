@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The Best Pimple Patches for Every Skin Type](https://www.wired.com/story/how-do-pimple-patches-work/)
  - [Singapore, which has clear AV guidelines, is deploying self-driving buses and more as a way to overcome labor shortages and use its scarce land more efficiently &lpar;Sandy Ong/Rest of World&rpar;](http://www.techmeme.com/241127/p9#a241127p9)
- - [Game console makers rethink selling more powerful machines, as performance improvements become less dramatic and consumers can&#39;t tell between 4K and 8K graphics &lpar;Bloomberg&rpar;](http://www.techmeme.com/241127/p8#a241127p8)
- - [Study: about 85% of US unicorn startups that have gone public were unprofitable in 2023, despite most having been founded more than fifteen years earlier &lpar;Jeffrey Funk/American Affairs Journal&rpar;](http://www.techmeme.com/241127/p7#a241127p7)
- - [Hulu Promo Codes and Discounts: 90% Off for Select Users](https://www.wired.com/story/hulu-promo-code/)
- - [Best Black Friday Deals Live Right Now: 70-Plus Deals on Laptops, TVs, Home Goods and Much More](https://www.cnet.com/deals/best-black-friday-deals-live-2024-11-27/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [These Are the Vaccines You Need if You&#39;re 50 or Up](https://www.cnet.com/health/medical/these-are-the-vaccines-you-need-if-youre-50-or-up/#ftag=CAD590a51e)
+ - [You Can Still Find Savings Rates Over 5%, but They Won&#39;t Likely Last. Today&#39;s Daily Savings Rates, Nov. 27, 2024](https://www.cnet.com/personal-finance/banking/you-can-still-find-savings-rates-over-5-but-they-wont-likely-last-todays-daily-savings-rates-nov-27-2024/#ftag=CAD590a51e)
+ - [Amazon Black Friday Deals: I Found the 53 Deals Worth Shopping This Holiday Season](https://www.cnet.com/deals/best-amazon-black-friday-deals-2024-11-27/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

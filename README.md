@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Sources: xAI plans to launch a consumer app as soon as next month; the Elon Musk-run startup build its Colossus data center, which houses 100K GPUs, in 122 days &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/241127/p13#a241127p13)
+ - [Vintage Digicams Aren&#39;t Just a Fad. They&#39;re an Artistic Statement](https://www.wired.com/story/vintage-digicams-artistic-photos/)
  - [Amsterdam-based Just Eat plans to delist from the London Stock Exchange on December 27 owing to the low liquidity, shifting to just an Amsterdam listing &lpar;Sarah Jacob/Bloomberg&rpar;](http://www.techmeme.com/241127/p12#a241127p12)
  - [Apple fails to ride global 2024 smartphone boom with Apple Intelligence](https://appleinsider.com/articles/24/11/27/apple-fails-to-ride-global-2024-smartphone-boom-with-apple-intelligence?utm_medium=rss)
- - [Why an Offline Nuclear Reactor Led to Thousands of Hospital Appointments Being Canceled](https://www.wired.com/story/why-an-offline-nuclear-reactor-led-to-thousands-of-hospital-appointments-being-cancelled/)
- - [Anthropic updates Claude to add custom writing styles tailored to users, aiming to personalize its replies, following similar ChatGPT and Gemini features &lpar;Jess Weatherbed/The Verge&rpar;](http://www.techmeme.com/241127/p11#a241127p11)
- - [No, Microsoft isn’t using your Office docs to train its AI](https://www.theverge.com/2024/11/27/24307284/microsoft-debunks-office-ai-data-scraping-rumors)<!-- TECH:END -->
+ - [Why an Offline Nuclear Reactor Led to Thousands of Hospital Appointments Being Canceled](https://www.wired.com/story/why-an-offline-nuclear-reactor-led-to-thousands-of-hospital-appointments-being-cancelled/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

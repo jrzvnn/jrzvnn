@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Walmart made a whole Christmas movie just to sell you stuff](https://www.theverge.com/2024/11/27/24307517/walmart-roku-channel-jingle-bell-love-christmas-shopping-movie)
+ - [A Chinese ship is suspected of sabotaging undersea cables](https://www.theverge.com/2024/11/27/24307498/chinese-ship-undersea-cables-severed-russia-baltic-seabed)
+ - [Best Black Friday Phone Deals &lpar;2024&rpar;, Including Cases Too](https://www.wired.com/story/black-friday-phone-deals-2024/)
  - [The Best Dyson Vacuums &lpar;2024&rpar;, Tested and Reviewed](https://www.wired.com/gallery/best-dyson-vacuums/)
- - [Chinese self-driving company Pony.AI raised $413.4B in its US IPO, after pricing shares at $13, which rose 19% at open, giving it a nearly $5.4B market cap &lpar;Bailey Lipschultz/Bloomberg&rpar;](http://www.techmeme.com/241127/p24#a241127p24)
- - [Champions League Soccer: Livestream Liverpool vs. Real Madrid From Anywhere](https://www.cnet.com/tech/services-and-software/champions-league-soccer-livestream-liverpool-vs-real-madrid-from-anywhere/#ftag=CAD590a51e)
- - [Experts Say to Focus on These 6 Vitamins and Minerals for Healthy Aging](https://www.cnet.com/health/nutrition/experts-say-to-focus-on-these-6-vitamins-and-minerals-for-healthy-aging/#ftag=CAD590a51e)
- - [Best Mattresses for Sciatica for 2024](https://www.cnet.com/health/sleep/best-mattress-for-sciatica/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Chinese self-driving company Pony.AI raised $413.4B in its US IPO, after pricing shares at $13, which rose 19% at open, giving it a nearly $5.4B market cap &lpar;Bailey Lipschultz/Bloomberg&rpar;](http://www.techmeme.com/241127/p24#a241127p24)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

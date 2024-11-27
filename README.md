@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Gentle reminder that our content funds this:](http://9gag.com/gag/abAV0Kp)
- - 😝 [German finest](http://9gag.com/gag/a7oE7Ax)
- - 💣 [Act with dignity Infront of your father](http://9gag.com/gag/axyMDDn)
- - 😝 [Wanna see something funny?](http://9gag.com/gag/apRNro9)
- - 👉 [Wondering if this was one of those shit tests they make to have the guy fight for them](http://9gag.com/gag/amoPzZd)<!-- MEMES:END -->
+ - 😝 [Act with dignity Infront of your father](http://9gag.com/gag/axyMDDn)
+ - 😝 [Lois was toxic AF but in her defense Clark was a manipulative gaslighter](http://9gag.com/gag/aAybwPE)
+ - 💣 [Gentle reminder that our content funds this:](http://9gag.com/gag/abAV0Kp)
+ - 😝 [Big brother is washing](http://9gag.com/gag/a1mrdDG)
+ - 👉 [That time when Sacha Baron Cohen put his ass in Eminem&#39;s face](http://9gag.com/gag/a0e7jXQ)<!-- MEMES:END -->
 
 ---
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [You can now wear Apple’s running shoe emoji](https://www.theverge.com/2024/11/27/24307338/jose-wong-running-abcd-shoe-1-apple-emoji-fashion-streetwear)
- - [12 Best Weighted Blankets, Robes, and Eye Masks &lpar;2024&rpar;](https://www.wired.com/gallery/best-weighted-blankets/)
- - [Italy, Europol, and others say they dismantled a pirate streaming service that redistributed IPTV, Sky, and more, served 22M+ users, and made &amp;euro;250M per month &lpar;Bill Toulas/BleepingComputer&rpar;](http://www.techmeme.com/241127/p18#a241127p18)
- - [11 Best Apple Black Friday Deals &lpar;2024&rpar;: MacBooks, iPads, AirPods](https://www.wired.com/story/apple-black-friday-deals-2024/)
- - [Samsung Galaxy S24 FE review: not enough fan fare](https://www.theverge.com/24305866/samsung-galaxy-s24-fe-review-camera-battery-screen)<!-- TECH:END -->
+ - [Sony says it has sold 160M+ PlayStation 2 consoles globally since its 2000 launch, the highest-selling console of all time ahead of the Nintendo DS and Switch &lpar;Alex Stedman/IGN&rpar;](http://www.techmeme.com/241127/p19#a241127p19)
+ - [The Best Action Cameras &lpar;2024&rpar;, Tested and Reviewed](https://www.wired.com/gallery/best-action-cameras/)
+ - [The Verge’s 2024 holiday gift guide for moms](https://www.theverge.com/24224046/best-gift-ideas-mom-holiday-unique-2024-tech-gadgets)
+ - [Starlink’s direct-to-cell satellite service is the first to receive FCC approval](https://www.theverge.com/2024/11/27/24307394/starlink-spacex-tmobile-direct-to-cell-satellite-fcc-approval)
+ - [You can now wear Apple’s running shoe emoji](https://www.theverge.com/2024/11/27/24307338/jose-wong-running-abcd-shoe-1-apple-emoji-fashion-streetwear)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

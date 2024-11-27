@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Acting like it vs. Being it](http://9gag.com/gag/aLnp9BP)
- - 😝 [A piece of paper would be fine.](http://9gag.com/gag/ajPmqPQ)
- - 💣 [That\u2019s pretty awesome](http://9gag.com/gag/a1mroAR)
- - 😝 [Hitting the jackpot twice but still managing to lose all](http://9gag.com/gag/aD2djNG)
- - 👉 [I really shouldnt put my dick in there...however](http://9gag.com/gag/azxMA3Z)<!-- MEMES:END -->
+ - 😝 [Gentle reminder that our content funds this:](http://9gag.com/gag/abAV0Kp)
+ - 😝 [German finest](http://9gag.com/gag/a7oE7Ax)
+ - 💣 [Act with dignity Infront of your father](http://9gag.com/gag/axyMDDn)
+ - 😝 [Wanna see something funny?](http://9gag.com/gag/apRNro9)
+ - 👉 [Wondering if this was one of those shit tests they make to have the guy fight for them](http://9gag.com/gag/amoPzZd)<!-- MEMES:END -->
 
 ---
 

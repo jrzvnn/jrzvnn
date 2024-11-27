@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Amazon&#39;s $399 iPad mini 7 deal arrives for Black Friday](https://appleinsider.com/articles/24/11/27/amazons-399-ipad-mini-7-deal-arrives-for-black-friday?utm_medium=rss)
- - [Sources: Elon Musk has given investors, who backed his $44B Twitter acquisition, 25% of the shares in xAI, which is set to close a $5B round at a $50B valuation &lpar;Financial Times&rpar;](http://www.techmeme.com/241127/p3#a241127p3)
- - [Best Black Friday Deals Live Right Now: 70-Plus Deals on Laptops, TVs, Home Goods and Much More](https://www.cnet.com/deals/best-black-friday-deals-live-2024-11-26/#ftag=CAD590a51e)
- - [Best Fiber Supplements of 2024](https://www.cnet.com/health/nutrition/best-fiber-supplements-for-healthy-digestion/#ftag=CAD590a51e)
- - [Sources: OpenAI is letting current and former staff sell ~$1.5B worth of restricted stock in a new tender offer to SoftBank in a deal spurred by Masayoshi Son &lpar;CNBC&rpar;](http://www.techmeme.com/241127/p2#a241127p2)<!-- TECH:END -->
+ - [Hulu Promo Codes and Discounts: 90% Off for Select Users](https://www.wired.com/story/hulu-promo-code/)
+ - [Huawei&#39;s HarmonyOS NEXT in Mate 70 series of smartphones is the company&#39;s first fully self-developed OS that reportedly no longer uses open-source Android code &lpar;Arjun Kharpal/CNBC&rpar;](http://www.techmeme.com/241127/p4#a241127p4)
+ - [Up to $700 Off Products With Canon Promo Codes and Deals](https://www.wired.com/story/canon-promo-code/)
+ - [Verizon Promo Codes: $540 Off | November 2024](https://www.wired.com/story/verizon-promo-code/)
+ - [Amazon&#39;s $399 iPad mini 7 deal arrives for Black Friday](https://appleinsider.com/articles/24/11/27/amazons-399-ipad-mini-7-deal-arrives-for-black-friday?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Friends recruitment :&rpar;](http://9gag.com/gag/a9yEpxW)
- - 😝 [Wanda Dench and Jamal Hinton, former strangers who met eight years ago in a mistaken text message exchange, are reuniting for their ninth Thanksgiving celebration this week!](http://9gag.com/gag/ae9ArzB)
- - 💣 [The jellyfish dance](http://9gag.com/gag/aAyb3Nd)
- - 😝 [Kindergarten teacher](http://9gag.com/gag/adB8KwB)
- - 👉 [Well deserved tap on the head.](http://9gag.com/gag/azxM1Lx)<!-- MEMES:END -->
+ - 😝 [Dad](http://9gag.com/gag/an7QjEL)
+ - 😝 [Cheaper than divorce](http://9gag.com/gag/aRBX1KA)
+ - 💣 [Geniedislikescloud](http://9gag.com/gag/aBy2xdZ)
+ - 😝 [Diversity hire for the win](http://9gag.com/gag/avy5GMd)
+ - 👉 [She&#39;s wrong you know.](http://9gag.com/gag/aGypeB7)<!-- MEMES:END -->
 
 ---
 

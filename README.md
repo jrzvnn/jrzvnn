@@ -167,9 +167,9 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [Why it&#39;s important to turn off your high beams!](http://9gag.com/gag/aMVKZ71)
- - 😝 [You want to summon a Balrog? Because that&#39;s how you summon a Balrog](http://9gag.com/gag/aAybD7p)
- - 💣 [Connor McGregor vs Boxing Machine](http://9gag.com/gag/avy57vn)
- - 😝 [Usual suspect with a machete tries to decap someone buying a PS5, turns out that someone is an undercover cop, the suspect gets put to room temperature](http://9gag.com/gag/amoP28d)
+ - 😝 [Bro was like: are you f**king serious?](http://9gag.com/gag/an7Q96b)
+ - 💣 [Diversity hire for the win](http://9gag.com/gag/avy5GMd)
+ - 😝 [Connor McGregor vs Boxing Machine](http://9gag.com/gag/avy57vn)
  - 👉 [When will your Thai girl\u2026](http://9gag.com/gag/azxM99b)<!-- MEMES:END -->
 
 ---

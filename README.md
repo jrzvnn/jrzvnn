@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Ofcom: adults in the UK are now spending an average of 4 hours and 20 minutes daily online across devices, a jump from 3 hours and 41 minutes in 2023 &lpar;Ingrid Lunden/TechCrunch&rpar;](http://www.techmeme.com/241128/p4#a241128p4)
- - [20% Off Brooks Promo Code &amp; Deals for November 2024](https://www.wired.com/story/brooks-promo-code/)
- - [Peacock Promo Codes: Get 75% Off Subscriptions](https://www.wired.com/story/peacock-promo-code/)
- - [Apple Watch Ultra Black Friday Deal: Amazon Renewed model drops to new low $379.99](https://appleinsider.com/articles/24/11/28/apple-watch-ultra-black-friday-deal-amazon-renewed-model-drops-to-new-low-37999?utm_medium=rss)
- - [DefiLlama: the total market cap for stablecoins has risen 46% in 2024 to a record ~$190B, regaining ground lost after TerraUSD&#39;s infamous collapse in 2022 &lpar;Sidhartha Shukla/Bloomberg&rpar;](http://www.techmeme.com/241128/p3#a241128p3)<!-- TECH:END -->
+ - [Newegg Promo Code 10% off | November 2024](https://www.wired.com/story/newegg-promo-code/)
+ - [Ofcom: Reddit was visited by 22.9M UK adults in May 2024, up 47% YoY, making it the fifth most popular social media platform in the UK, surpassing X at 22.1M &lpar;Dan Milmo/The Guardian&rpar;](http://www.techmeme.com/241128/p5#a241128p5)
+ - [Hoka Coupon Code: Free Shipping in November 2024](https://www.wired.com/story/hoka-coupon-code/)
+ - [Top Blue Apron Coupon 50% | November 2024](https://www.wired.com/story/blue-apron-coupon/)
+ - [Ofcom: adults in the UK are now spending an average of 4 hours and 20 minutes daily online across devices, a jump from 3 hours and 41 minutes in 2023 &lpar;Ingrid Lunden/TechCrunch&rpar;](http://www.techmeme.com/241128/p4#a241128p4)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

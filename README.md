@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Best Black Friday Amazon deals: $150 off M4 iMac, $250 off MacBook, $169 Apple Watch](https://appleinsider.com/articles/24/11/21/best-black-friday-amazon-deals-100-off-m4-mac-mini-250-off-macbook-189-apple-watch?utm_medium=rss)
+ - [Best Black Friday Apple Watch Ultra 2 deal lands at $619.99](https://appleinsider.com/articles/24/11/28/best-black-friday-apple-watch-ultra-2-deal-lands-at-61999?utm_medium=rss)
+ - [The World’s First Ever All-Aluminum Skis Have Arrived](https://www.wired.com/story/the-worlds-first-ever-all-aluminum-skis-have-arrived/)
  - [Best Kids Tablets &lpar;2024&rpar;: iPads, Amazon Fire Kids Tablets, and More](https://www.wired.com/gallery/best-kids-tablets/)
- - [I&#39;m a Former Barista, and This $25 Coffee Brewer Has Earned a Spot in My Kitchen](https://www.cnet.com/deals/im-a-former-barista-and-this-25-coffee-brewer-has-earned-a-spot-in-my-kitchen/#ftag=CAD590a51e)
- - [How to Use AI to Decide What to Watch](https://www.cnet.com/tech/services-and-software/how-to-use-ai-to-decide-what-to-watch/#ftag=CAD590a51e)
- - [32 Nintendo Switch Games for Every Kind of Player &lpar;December 2024&rpar;](https://www.wired.com/gallery/best-nintendo-switch-games/)
- - [7 Things to Know Before Shopping for a Bed](https://www.cnet.com/health/sleep/mattress-buying-guide/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [32 Nintendo Switch Games for Every Kind of Player &lpar;December 2024&rpar;](https://www.wired.com/gallery/best-nintendo-switch-games/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [F**k this! My fav childhood movie. 3 movies &amp; series of lighthearted adventure. I was thankful the 3 were made before the woke, now they have to ruin its legacy. Universal took it from Dreamworks good grace, they couldn&#39;t have wait until the woke cult to die out, which is soon.](http://9gag.com/gag/awyMn9y)
- - 😝 [Stop that!](http://9gag.com/gag/aBy2WL2)
- - 💣 [Dad telling the waiter his daughter thought he was cute](http://9gag.com/gag/aAybDQd)
  - 😝 [Why it&#39;s important to turn off your high beams!](http://9gag.com/gag/aMVKZ71)
- - 👉 [Why r u gey?](http://9gag.com/gag/azxMrYB)<!-- MEMES:END -->
+ - 😝 [Usual suspect with a machete tries to decap someone buying a PS5, turns out that someone is an undercover cop, the suspect gets put to room temperature](http://9gag.com/gag/amoP28d)
+ - 💣 [. . .](http://9gag.com/gag/a87E3np)
+ - 😝 [Difference in mentality](http://9gag.com/gag/aQzoeWW)
+ - 👉 [Diversity hire for the win](http://9gag.com/gag/avy5GMd)<!-- MEMES:END -->
 
 ---
 

@@ -158,10 +158,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- TECH:START -->
  - [Alibaba releases QwQ-32B-Preview under an Apache 2.0 license and claims the &quot;reasoning&quot; AI model beats OpenAI&#39;s o1 models on the AIME and MATH tests &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/241128/p8#a241128p8)
- - [Call center workers in the Philippines, where an estimated 86% of white-collar workers already use AI, say generative AI tools have made work more demanding &lpar;Michael Beltran/Rest of World&rpar;](http://www.techmeme.com/241128/p7#a241128p7)
- - [Ditch Your Screens to End the Global Friendship Recession](https://www.wired.com/story/ditch-screens-end-global-friendship-recession/)
- - [Best Black Friday Deals Live Now: Score Big Savings on TVs, Laptops, Smart Home Tech and More](https://www.cnet.com/deals/best-black-friday-deals-live-2024-11-28/#ftag=CAD590a51e)
- - [Best Black Friday Amazon deals: $150 off M4 iMac, $250 off MacBook, $169 Apple Watch](https://appleinsider.com/articles/24/11/21/best-black-friday-amazon-deals-100-off-m4-mac-mini-250-off-macbook-189-apple-watch?utm_medium=rss)<!-- TECH:END -->
+ - [Best Black Friday Apple Deals 2024: We’ve Rounded Up the Biggest Discounts on Macs, iPads, AirPods and More](https://www.cnet.com/deals/best-black-friday-apple-deals-2024-11-28/#ftag=CAD590a51e)
+ - [19 Best Black Friday Deals on Bedding for Your Holiday Shopping](https://www.cnet.com/deals/best-black-friday-bedding-deals-2024/#ftag=CAD590a51e)
+ - [I Found the 21 Best Black Friday Vacuum Deals Worth Buying Right Now](https://www.cnet.com/deals/best-black-friday-vacuum-deals-2024-11-28/#ftag=CAD590a51e)
+ - [Best Black Friday Deals Live Now: Score Big Savings on TVs, Laptops, Smart Home Tech and More](https://www.cnet.com/deals/best-black-friday-deals-live-2024-11-28/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

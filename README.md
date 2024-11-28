@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Women using the `man` filter &lpar;sound on&rpar;](http://9gag.com/gag/aXPoj2d)
- - 😝 [Why would one do that](http://9gag.com/gag/ajPmNnQ)
- - 💣 [Black queens are in shock](http://9gag.com/gag/a34EM5v)
+ - 😝 [Where my Gamer bois at?](http://9gag.com/gag/aVv7wvv)
  - 😝 [Bro was like: are you f**king serious?](http://9gag.com/gag/an7Q96b)
- - 👉 [Cheaper than divorce](http://9gag.com/gag/aRBX1KA)<!-- MEMES:END -->
+ - 💣 [Cheaper than divorce](http://9gag.com/gag/aRBX1KA)
+ - 😝 [Where she came from?!](http://9gag.com/gag/aNDpY9b)
+ - 👉 [When will your Thai girl\u2026](http://9gag.com/gag/azxM99b)<!-- MEMES:END -->
 
 ---
 

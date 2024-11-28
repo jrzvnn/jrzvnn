@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Top B&amp;H Promo Codes and Deals for November 2024](https://www.wired.com/story/bh-photo-coupon/)
+ - [Top Dell Coupon Code 10% off | November 2024](https://www.wired.com/story/dell-coupon-code/)
+ - [Sephora Promo Codes and Deals: Up to 50% Off](https://www.wired.com/story/sephora-promo-code/)
  - [Newegg Promo Code 10% off | November 2024](https://www.wired.com/story/newegg-promo-code/)
- - [Ofcom: Reddit was visited by 22.9M UK adults in May 2024, up 47% YoY, making it the fifth most popular social media platform in the UK, surpassing X at 22.1M &lpar;Dan Milmo/The Guardian&rpar;](http://www.techmeme.com/241128/p5#a241128p5)
- - [Hoka Coupon Code: Free Shipping in November 2024](https://www.wired.com/story/hoka-coupon-code/)
- - [Top Blue Apron Coupon 50% | November 2024](https://www.wired.com/story/blue-apron-coupon/)
- - [Ofcom: adults in the UK are now spending an average of 4 hours and 20 minutes daily online across devices, a jump from 3 hours and 41 minutes in 2023 &lpar;Ingrid Lunden/TechCrunch&rpar;](http://www.techmeme.com/241128/p4#a241128p4)<!-- TECH:END -->
+ - [Ofcom: Reddit was visited by 22.9M UK adults in May 2024, up 47% YoY, making it the fifth most popular social media platform in the UK, surpassing X at 22.1M &lpar;Dan Milmo/The Guardian&rpar;](http://www.techmeme.com/241128/p5#a241128p5)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

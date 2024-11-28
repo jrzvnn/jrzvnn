@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Hold on](http://9gag.com/gag/aNDpAeb)
- - 😝 [All bow down before laser kiwi.](http://9gag.com/gag/ajPmqLx)
- - 💣 [She&#39;s wrong you know.](http://9gag.com/gag/aGypeB7)
- - 😝 [Streaming Cable](http://9gag.com/gag/a7oErLb)
- - 👉 [How to correctly Hans a hornet nest...](http://9gag.com/gag/a34EqdN)<!-- MEMES:END -->
+ - 😝 [Skilled flip flopper](http://9gag.com/gag/abAVY4L)
+ - 😝 [Therapy? who need it!](http://9gag.com/gag/azxM9gB)
+ - 💣 [He could be depressed?](http://9gag.com/gag/a9yEKE1)
+ - 😝 [Friends recruitment :&rpar;](http://9gag.com/gag/a9yEpxW)
+ - 👉 [Kindergarten teacher](http://9gag.com/gag/adB8KwB)<!-- MEMES:END -->
 
 ---
 

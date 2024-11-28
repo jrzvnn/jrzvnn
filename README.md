@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Skilled flip flopper](http://9gag.com/gag/abAVY4L)
- - 😝 [Therapy? who need it!](http://9gag.com/gag/azxM9gB)
- - 💣 [He could be depressed?](http://9gag.com/gag/a9yEKE1)
- - 😝 [Friends recruitment :&rpar;](http://9gag.com/gag/a9yEpxW)
- - 👉 [Kindergarten teacher](http://9gag.com/gag/adB8KwB)<!-- MEMES:END -->
+ - 😝 [In Australia, a man threatened to blow up a plane in the name of Allah. \u201cMy name is Mohammed, a slave of Allah. I will blow up this plane full of infidels.\u201d](http://9gag.com/gag/aBy20vx)
+ - 😝 [He could be depressed?](http://9gag.com/gag/a9yEKE1)
+ - 💣 [Fear 101 unlocked](http://9gag.com/gag/a7oEZQ2)
+ - 😝 [. . .](http://9gag.com/gag/a87E3np)
+ - 👉 [Cheaper than divorce](http://9gag.com/gag/aRBX1KA)<!-- MEMES:END -->
 
 ---
 

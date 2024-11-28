@@ -160,8 +160,8 @@ R                        1 repo              ░░░░░░░░░░░�
  - [Apple’s entry-level iPad is on sale for its lowest price ever for Black Friday](https://www.theverge.com/2024/11/28/24307735/apple-ipad-black-friday-deal-10th-gen-tablet-2024-sale)
  - [The very best Black Friday deals you can already get](https://www.theverge.com/24293826/best-early-black-friday-deals-2024-amazon-walmart-buy-target-tech-sale)
  - [The Best Google Pixel Phones of 2024, Tested and Reviewed: Which Model to Buy, Cases and Accessories, Feature Drops](https://www.wired.com/story/best-google-pixel-phone/)
- - [The hardest part of Dragon Age: The Veilguard is making a choice](https://www.theverge.com/24307786/dragon-age-the-veilguard-full-review)
- - [How Altera deployed up to 1,000 AI agents that used LLMs to interact in Minecraft, finding that they formed a remarkable range of personality traits and roles &lpar;Niall Firth/MIT Technology Review&rpar;](http://www.techmeme.com/241128/p13#a241128p13)<!-- TECH:END -->
+ - [I Control My Philips Hue Lights Lights With This Tiny, Must-Have Device, and It&#39;s Not My Phone](https://www.cnet.com/deals/i-control-my-philips-hue-lights-lights-with-this-tiny-must-have-device-and-its-not-my-phone/#ftag=CAD590a51e)
+ - [The Steam Autumn Sale Is Here: Check Out the Best Deals and Money-Saving Tips](https://www.cnet.com/tech/gaming/when-are-steam-sales/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

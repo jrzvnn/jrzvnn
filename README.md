@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Bro was like: are you f**king serious?](http://9gag.com/gag/an7Q96b)
- - 😝 [Dad telling the waiter his daughter thought he was cute](http://9gag.com/gag/aAybDQd)
- - 💣 [Black queens are in shock](http://9gag.com/gag/a34EM5v)
- - 😝 [Blast blows out windows behind wedding couple](http://9gag.com/gag/azxM1Pm)
- - 👉 [Cheaper than divorce](http://9gag.com/gag/aRBX1KA)<!-- MEMES:END -->
+ - 😝 [When will your Thai girl\u2026](http://9gag.com/gag/azxM99b)
+ - 😝 [He could be depressed?](http://9gag.com/gag/a9yEKE1)
+ - 💣 [Dad telling the waiter his daughter thought he was cute](http://9gag.com/gag/aAybDQd)
+ - 😝 [Cheaper than divorce](http://9gag.com/gag/aRBX1KA)
+ - 👉 [Geniedislikescloud](http://9gag.com/gag/aBy2xdZ)<!-- MEMES:END -->
 
 ---
 

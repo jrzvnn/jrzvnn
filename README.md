@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [India&#39;s competition watchdog launches a probe into Google&#39;s restrictive policies for real-money games on Android, following a complaint by gaming app WinZO &lpar;Munsif Vengattil/Reuters&rpar;](http://www.techmeme.com/241128/p14#a241128p14)
- - [Thanksgiving flash deal: LG OLED C4 TV drops to $796.99 &lpar;$703 off&rpar;](https://appleinsider.com/articles/24/11/28/thanksgiving-flash-deal-lg-oled-c4-tv-drops-to-79699-703-off?utm_medium=rss)
- - [Apple’s entry-level iPad is on sale for its lowest price ever for Black Friday](https://www.theverge.com/2024/11/28/24307735/apple-ipad-black-friday-deal-10th-gen-tablet-2024-sale)
- - [The very best Black Friday deals you can already get](https://www.theverge.com/24293826/best-early-black-friday-deals-2024-amazon-walmart-buy-target-tech-sale)
- - [The Best Google Pixel Phones of 2024, Tested and Reviewed: Which Model to Buy, Cases and Accessories, Feature Drops](https://www.wired.com/story/best-google-pixel-phone/)<!-- TECH:END -->
+ - [Australia bans social media for under 16s](https://www.theverge.com/2024/11/28/24308245/australia-bans-social-media-children-under-16)
+ - [18 Best Air Purifiers &lpar;2024&rpar;: Coway, AirDoctor, IQAir](https://www.wired.com/gallery/best-air-purifiers/)
+ - [123 Best Early Black Friday Deals of 2024 to Shop on Thanksgiving](https://www.wired.com/story/early-black-friday-deals-2024-3/)
+ - [UEFA Conference League Soccer: Livestream Heidenheim vs. Chelsea From Anywhere](https://www.cnet.com/tech/services-and-software/uefa-conference-league-soccer-livestream-heidenheim-vs-chelsea-from-anywhere/#ftag=CAD590a51e)
+ - [Got a New iPhone 16? Here&#39;s How to Factory Reset Your Old iPhone](https://www.cnet.com/tech/mobile/got-a-new-iphone-16-heres-how-to-factory-reset-your-old-iphone/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

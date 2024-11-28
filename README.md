@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The Best All-Clad Black Friday Deals](https://www.wired.com/story/black-friday-2024-all-clad-deals/)
- - [Black Friday iMac sale: grab M4 all-in-one desktop for just $1,149.99](https://appleinsider.com/articles/24/11/28/black-friday-imac-sale-grab-m4-all-in-one-desktop-for-just-114999?utm_medium=rss)
+ - [Details of Australia&#39;s social media ban for kids remain unclear, such as how to enforce it and what platforms it covers; kids and parents won&#39;t face punishment &lpar;Victoria Kim/New York Times&rpar;](http://www.techmeme.com/241128/p20#a241128p20)
+ - [&#39;Outlander&#39; Season 7 Part 2 Episode Release Schedule and How to Watch](https://www.cnet.com/tech/services-and-software/outlander-season-7-part-2-episode-release-schedule-how-to-watch/#ftag=CAD590a51e)
+ - [Best Black Friday Deals Under $25: 34 Great Items To Score Now From Essentials to Gifts](https://www.cnet.com/deals/best-black-friday-deals-under-25-2024-11-28/#ftag=CAD590a51e)
  - [Best Black Friday Deals Live Right Now: 80+ Hot Deals on Tech Gadgets, Kitchen Appliances, Smart Home Tech and More](https://www.cnet.com/deals/best-black-friday-deals-live-2024-11-28/#ftag=CAD590a51e)
- - [Best PS5 Black Friday Deals: Over 50 Price Cuts Across Consoles, Next-Gen Games, VR and Accessories](https://www.cnet.com/deals/best-black-friday-ps5-deals-2024-11-28/#ftag=CAD590a51e)
- - [Experts worry about the unintended consequences of Australia&#39;s controversial but popular social media ban on under-16s; Meta, TikTok, and X expressed concerns &lpar;Bloomberg&rpar;](http://www.techmeme.com/241128/p19#a241128p19)<!-- TECH:END -->
+ - [Best Noise-Canceling Headphones Under $100 for 2024](https://www.cnet.com/tech/mobile/best-noise-canceling-headphones-under-100/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

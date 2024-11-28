@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [How Huawei and other Chinese tech companies are inundating workers in Taiwan, Europe, and Silicon Valley with job offers in areas like advanced chips and AI &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/241128/p12#a241128p12)
- - [18 Best Camera Bags, Slings, Straps, and Backpacks &lpar;2024&rpar;, Tested](https://www.wired.com/gallery/best-camera-bags-backpacks-straps-inserts/)
- - [The best deals on the baby gear I recommend to my friends](https://www.theverge.com/24306818/black-friday-2024-best-deals-baby-gear-snoo-stroller-cyber-monday)
- - [101 Best Early Black Friday Deals of 2024 to Shop on Thanksgiving](https://www.wired.com/story/early-black-friday-deals-2024-3/)
- - [Galaxy Z Fold 6 vs. Z Fold 5 vs. Z Fold 4: A Three-Generation Comparison, Spec by Spec](https://www.cnet.com/tech/mobile/galaxy-z-fold-6-vs-z-fold-5-vs-z-fold-4-a-three-generation-comparison-step-by-step/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Best Kids Tablets &lpar;2024&rpar;: iPads, Amazon Fire Kids Tablets, and More](https://www.wired.com/gallery/best-kids-tablets/)
+ - [I&#39;m a Former Barista, and This $25 Coffee Brewer Has Earned a Spot in My Kitchen](https://www.cnet.com/deals/im-a-former-barista-and-this-25-coffee-brewer-has-earned-a-spot-in-my-kitchen/#ftag=CAD590a51e)
+ - [How to Use AI to Decide What to Watch](https://www.cnet.com/tech/services-and-software/how-to-use-ai-to-decide-what-to-watch/#ftag=CAD590a51e)
+ - [32 Nintendo Switch Games for Every Kind of Player &lpar;December 2024&rpar;](https://www.wired.com/gallery/best-nintendo-switch-games/)
+ - [7 Things to Know Before Shopping for a Bed](https://www.cnet.com/health/sleep/mattress-buying-guide/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

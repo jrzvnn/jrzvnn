@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Connor McGregor vs Boxing Machine](http://9gag.com/gag/avy57vn)
- - 😝 [Streaming Cable](http://9gag.com/gag/a7oErLb)
- - 💣 [How to correctly Hans a hornet nest...](http://9gag.com/gag/a34EqdN)
- - 😝 [That look](http://9gag.com/gag/a9yEr76)
- - 👉 [He could be depressed?](http://9gag.com/gag/a9yEKE1)<!-- MEMES:END -->
+ - 😝 [How to correctly Hans a hornet nest...](http://9gag.com/gag/a34EqdN)
+ - 😝 [The earth is healing, bullying is back](http://9gag.com/gag/aBy2WXA)
+ - 💣 [She&#39;s wrong you know.](http://9gag.com/gag/aGypeB7)
+ - 😝 [He could be depressed?](http://9gag.com/gag/a9yEKE1)
+ - 👉 [Hold on](http://9gag.com/gag/aNDpAeb)<!-- MEMES:END -->
 
 ---
 

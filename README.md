@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Ofcom: adults in the UK are now spending an average of 4 hours and 20 minutes daily online across devices, a jump from 3 hours and 41 minutes in 2023 &lpar;Ingrid Lunden/TechCrunch&rpar;](http://www.techmeme.com/241128/p4#a241128p4)
+ - [20% Off Brooks Promo Code &amp; Deals for November 2024](https://www.wired.com/story/brooks-promo-code/)
+ - [Peacock Promo Codes: Get 75% Off Subscriptions](https://www.wired.com/story/peacock-promo-code/)
  - [Apple Watch Ultra Black Friday Deal: Amazon Renewed model drops to new low $379.99](https://appleinsider.com/articles/24/11/28/apple-watch-ultra-black-friday-deal-amazon-renewed-model-drops-to-new-low-37999?utm_medium=rss)
- - [DefiLlama: the total market cap for stablecoins has risen 46% in 2024 to a record ~$190B, regaining ground lost after TerraUSD&#39;s infamous collapse in 2022 &lpar;Sidhartha Shukla/Bloomberg&rpar;](http://www.techmeme.com/241128/p3#a241128p3)
- - [The US FTC finalizes amendments to its Telemarketing Sales Rule, letting the agency pursue scam tech support companies even when consumers initiate the calls &lpar;Umar Shakir/The Verge&rpar;](http://www.techmeme.com/241128/p2#a241128p2)
- - [Best Black Friday iPad Pro deals: save up to $1,000](https://appleinsider.com/articles/24/11/24/best-black-friday-ipad-pro-deals-save-up-to-1000?utm_medium=rss)
- - [Source: Amazon&#39;s new generative AI model, codenamed Olympus, can process images, video, and text, and could be unveiled at next week&#39;s AWS re:Invent &lpar;The Information&rpar;](http://www.techmeme.com/241128/p1#a241128p1)<!-- TECH:END -->
+ - [DefiLlama: the total market cap for stablecoins has risen 46% in 2024 to a record ~$190B, regaining ground lost after TerraUSD&#39;s infamous collapse in 2022 &lpar;Sidhartha Shukla/Bloomberg&rpar;](http://www.techmeme.com/241128/p3#a241128p3)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Cheaper than divorce](http://9gag.com/gag/aRBX1KA)
- - 😝 [He could be depressed?](http://9gag.com/gag/a9yEKE1)
- - 💣 [She&#39;s wrong you know.](http://9gag.com/gag/aGypeB7)
- - 😝 [Bro was like: are you f**king serious?](http://9gag.com/gag/an7Q96b)
- - 👉 [With another 10 to come for terrorism charges.](http://9gag.com/gag/aAybDEL)<!-- MEMES:END -->
+ - 😝 [The earth is healing, bullying is back](http://9gag.com/gag/aBy2WXA)
+ - 😝 [With another 10 to come for terrorism charges.](http://9gag.com/gag/aAybDEL)
+ - 💣 [. . .](http://9gag.com/gag/a87E3np)
+ - 😝 [She&#39;s wrong you know.](http://9gag.com/gag/aGypeB7)
+ - 👉 [Dad](http://9gag.com/gag/an7QjEL)<!-- MEMES:END -->
 
 ---
 

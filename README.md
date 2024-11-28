@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Why it&#39;s important to turn off your high beams!](http://9gag.com/gag/aMVKZ71)
+ - 😝 [She&#39;s wrong you know.](http://9gag.com/gag/aGypeB7)
  - 😝 [Cheaper than divorce](http://9gag.com/gag/aRBX1KA)
- - 💣 [Dad telling the waiter his daughter thought he was cute](http://9gag.com/gag/aAybDQd)
- - 😝 [Geniedislikescloud](http://9gag.com/gag/aBy2xdZ)
- - 👉 [When will your Thai girl\u2026](http://9gag.com/gag/azxM99b)<!-- MEMES:END -->
+ - 💣 [Geniedislikescloud](http://9gag.com/gag/aBy2xdZ)
+ - 😝 [When will your Thai girl\u2026](http://9gag.com/gag/azxM99b)
+ - 👉 [Why it&#39;s important to turn off your high beams!](http://9gag.com/gag/aMVKZ71)<!-- MEMES:END -->
 
 ---
 

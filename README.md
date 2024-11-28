@@ -159,9 +159,9 @@ R                        1 repo              ░░░░░░░░░░░�
 <!-- TECH:START -->
  - [The Best All-Clad Black Friday Deals](https://www.wired.com/story/black-friday-2024-all-clad-deals/)
  - [Black Friday iMac sale: grab M4 all-in-one desktop for just $1,149.99](https://appleinsider.com/articles/24/11/28/black-friday-imac-sale-grab-m4-all-in-one-desktop-for-just-114999?utm_medium=rss)
- - [Experts worry about the unintended consequences of Australia&#39;s controversial but popular social media ban on under-16s; Meta, TikTok, and X expressed concerns &lpar;Bloomberg&rpar;](http://www.techmeme.com/241128/p19#a241128p19)
- - [Canada&#39;s Competition Bureau sues Google over alleged anti-competitive conduct in online advertising, seeking Google to sell two of its ad tech tools and more &lpar;Ismail Shakil/Reuters&rpar;](http://www.techmeme.com/241128/p18#a241128p18)
- - [16 Best Black Friday Streaming Deals: Hulu for $1, Peacock for 75% Off, and More](https://www.cnet.com/deals/best-black-friday-streaming-service-deals-2024/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Best Black Friday Deals Live Right Now: 80+ Hot Deals on Tech Gadgets, Kitchen Appliances, Smart Home Tech and More](https://www.cnet.com/deals/best-black-friday-deals-live-2024-11-28/#ftag=CAD590a51e)
+ - [Best PS5 Black Friday Deals: Over 50 Price Cuts Across Consoles, Next-Gen Games, VR and Accessories](https://www.cnet.com/deals/best-black-friday-ps5-deals-2024-11-28/#ftag=CAD590a51e)
+ - [Experts worry about the unintended consequences of Australia&#39;s controversial but popular social media ban on under-16s; Meta, TikTok, and X expressed concerns &lpar;Bloomberg&rpar;](http://www.techmeme.com/241128/p19#a241128p19)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

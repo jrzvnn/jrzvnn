@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [I feel like this is a very specific situation](http://9gag.com/gag/aLnpD96)
- - 😝 [With another 10 to come for terrorism charges.](http://9gag.com/gag/aAybDEL)
- - 💣 [Usual suspect with a machete tries to decap someone buying a PS5, turns out that someone is an undercover cop, the suspect gets put to room temperature](http://9gag.com/gag/amoP28d)
- - 😝 [Diversity hire for the win](http://9gag.com/gag/avy5GMd)
- - 👉 [Black queens are in shock](http://9gag.com/gag/a34EM5v)<!-- MEMES:END -->
+ - 😝 [Its lit allright](http://9gag.com/gag/aXPojog)
+ - 😝 [Kindergarten teacher](http://9gag.com/gag/adB8KwB)
+ - 💣 [Women using the `man` filter &lpar;sound on&rpar;](http://9gag.com/gag/aXPoj2d)
+ - 😝 [I bet you can\u2019t hit the same spot I did](http://9gag.com/gag/aD2dxBd)
+ - 👉 [C has to be done](http://9gag.com/gag/ayNMB5q)<!-- MEMES:END -->
 
 ---
 

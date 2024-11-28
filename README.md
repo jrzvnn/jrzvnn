@@ -167,10 +167,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [DB Cooper may have been identified! Siblings say their late father was the hijacker after finding a matching parachute. FBI investigating.](http://9gag.com/gag/a87E3WZ)
- - 😝 [Y&#39;all white peeupoos ain&#39;t neva gonna come close to these stats. \u270a\ud83c\udfff](http://9gag.com/gag/apRNpA5)
- - 💣 [Why would one do that](http://9gag.com/gag/ajPmNnQ)
- - 😝 [Diversity hire for the win](http://9gag.com/gag/avy5GMd)
- - 👉 [Why it&#39;s important to turn off your high beams!](http://9gag.com/gag/aMVKZ71)<!-- MEMES:END -->
+ - 😝 [Black queens are in shock](http://9gag.com/gag/a34EM5v)
+ - 💣 [Why it&#39;s important to turn off your high beams!](http://9gag.com/gag/aMVKZ71)
+ - 😝 [She&#39;s wrong you know.](http://9gag.com/gag/aGypeB7)
+ - 👉 [. . .](http://9gag.com/gag/a87E3np)<!-- MEMES:END -->
 
 ---
 

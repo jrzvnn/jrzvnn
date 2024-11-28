@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Best Black Friday iPad Pro deals: save up to $1,000](https://appleinsider.com/articles/24/11/24/best-black-friday-ipad-pro-deals-save-up-to-1000?utm_medium=rss)
+ - [Source: Amazon&#39;s new generative AI model, codenamed Olympus, can process images, video, and text, and could be unveiled at next week&#39;s AWS re:Invent &lpar;The Information&rpar;](http://www.techmeme.com/241128/p1#a241128p1)
  - [Today&#39;s NYT Strands Hints, Answers and Help for Nov. 28, #270](https://www.cnet.com/tech/gaming/todays-nyt-strands-hints-answers-and-help-for-nov-28-270/#ftag=CAD590a51e)
  - [Today&#39;s NYT Connections Hints, Answers and Help for Nov. 28, #536](https://www.cnet.com/tech/gaming/todays-nyt-connections-hints-answers-and-help-for-nov-28-536/#ftag=CAD590a51e)
- - [Best Black Friday Deals Live Now: Shop Over 80 Amazing Offers on Top Tech, Small Appliances and More](https://www.cnet.com/deals/best-black-friday-deals-live-2024-11-27/#ftag=CAD590a51e)
- - [Today&#39;s Wordle Hints, Answer and Help for Nov. 28, #1258](https://www.cnet.com/tech/gaming/todays-wordle-hints-answer-and-help-for-nov-28-1258/#ftag=CAD590a51e)
- - [Today&#39;s NYT Connections: Sports Edition Hints and Answers for Nov. 28, #66](https://www.cnet.com/tech/gaming/todays-nyt-connections-sports-edition-hints-and-answers-for-nov-28-66/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Best Black Friday Deals Live Now: Shop Over 80 Amazing Offers on Top Tech, Small Appliances and More](https://www.cnet.com/deals/best-black-friday-deals-live-2024-11-27/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

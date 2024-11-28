@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [In a risk assessment submitted to the EU in September 2023, X defended its new approach to content policing and &quot;mission to promote open conversation&quot; &lpar;Mathieu Pollet/Politico&rpar;](http://www.techmeme.com/241128/p17#a241128p17)
+ - [The 44 Best Shows on Max &lpar;aka HBO Max&rpar; Right Now &lpar;December 2024&rpar;](https://www.wired.com/story/hbo-max-best-shows-to-stream-right-now/)
  - [The 12 best TV deals you can grab ahead of Black Friday](https://www.theverge.com/24307741/black-friday-tv-deals-lg-samsung-sony-tcl-cyber-monday-2024)
  - [Save $400 with these Black Friday M4 Max MacBook Pro deals](https://appleinsider.com/articles/24/11/28/save-400-with-these-black-friday-m4-max-macbook-pro-deals?utm_medium=rss)
- - [Best Antivirus Software for 2024](https://www.cnet.com/tech/services-and-software/best-antivirus/#ftag=CAD590a51e)
- - [My Favorite Samsung Fitness Smartwatch Falls to Its Lowest Price With $215 Off](https://www.cnet.com/deals/my-favorite-samsung-fitness-smartwatch-falls-to-its-lowest-price-with-215-off/#ftag=CAD590a51e)
- - [Memo: Revolut tells ex-staff who were at the startup for 2+ years and held $100K+ in vested stock that they can join a secondary share sale at a $45B valuation &lpar;Aisha S Gani/Bloomberg&rpar;](http://www.techmeme.com/241128/p16#a241128p16)<!-- TECH:END -->
+ - [Best Antivirus Software for 2024](https://www.cnet.com/tech/services-and-software/best-antivirus/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

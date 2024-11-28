@@ -159,9 +159,9 @@ R                        1 repo              ░░░░░░░░░░░�
 <!-- TECH:START -->
  - [Memo: Revolut tells ex-staff who were at the startup for 2+ years and held $100K+ in vested stock that they can join a secondary share sale at a $45B valuation &lpar;Aisha S Gani/Bloomberg&rpar;](http://www.techmeme.com/241128/p16#a241128p16)
  - [The best Black Friday deals on AirPods, AirTags, and other Apple tech](https://www.theverge.com/24305511/black-friday-apple-best-deals-2024-macbook-airpods-cyber-monday)
- - [Philips Hue’s Festavia string lights are up to $100 off just in time for the holidays](https://www.theverge.com/2024/11/28/24307841/black-friday-philips-hue-festavia-smart-string-lights-deal-sale)
- - [Palworld’s new island will be its ‘largest’ and ‘harshest’](https://www.theverge.com/2024/11/28/24308294/palworld-december-2024-update-new-island)
- - [8BitDo added RGB backlights to the new Xbox version of its mechanical keyboard](https://www.theverge.com/2024/11/28/24308248/8bitdo-keyboard-retro-87-mechanical-xbox-edition-rgb-lighting-r8-mouse)<!-- TECH:END -->
+ - [Top 6 Vitamins and Supplements That Are Essential for Healthy Eyes](https://www.cnet.com/health/personal-care/6-vitamins-and-supplements-essential-for-healthy-eyes/#ftag=CAD590a51e)
+ - [The Best Gourmet Dog Treats We&#39;d Totally Taste Test Ourselves](https://www.cnet.com/home/kitchen-and-household/best-gourmet-dog-treats/#ftag=CAD590a51e)
+ - [Philips Hue’s Festavia string lights are up to $100 off just in time for the holidays](https://www.theverge.com/2024/11/28/24307841/black-friday-philips-hue-festavia-smart-string-lights-deal-sale)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

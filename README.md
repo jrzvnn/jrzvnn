@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [NordVPN Coupon: 74% Off + 3 Months Free](https://www.wired.com/story/nordvpn-coupon/)
- - [Apple&#39;s best-selling M3 MacBook Air 512GB drops to record low price for Black Friday](https://appleinsider.com/articles/24/11/28/apples-best-selling-m3-macbook-air-512gb-drops-to-record-low-price-for-black-friday?utm_medium=rss)
- - [Incoming FCC chairman Brendan Carr&#39;s censorial agenda, which is couched in the language of free speech, may be the biggest threat to the 1A in quite a long time &lpar;Mike Masnick/Techdirt&rpar;](http://www.techmeme.com/241128/p6#a241128p6)
- - [Squarespace Promo Codes -  November 2024](https://www.wired.com/story/squarespace-promo-code/)
- - [Logitech Promo Code: Exclusive 10% Off in November 2024](https://www.wired.com/story/logitech-promo-code/)<!-- TECH:END -->
+ - [Best Black Friday Amazon deals: $150 off M4 iMac, $250 off MacBook, $169 Apple Watch](https://appleinsider.com/articles/24/11/21/best-black-friday-amazon-deals-100-off-m4-mac-mini-250-off-macbook-189-apple-watch?utm_medium=rss)
+ - [Hotels.com Coupons and Deals: Save Up to 30%](https://www.wired.com/story/hotels-com-coupon/)
+ - [Save 50% with Nomad Coupon in November 2024](https://www.wired.com/story/nomad-discount-code/)
+ - [eBay Coupon Code: 20% Off in November 2024](https://www.wired.com/story/ebay-coupon-code/)
+ - [Design Within Reach Promo Code: 25% Off  | November 2024](https://www.wired.com/story/design-within-reach-promo-code/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

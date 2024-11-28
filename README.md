@@ -158,10 +158,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- TECH:START -->
  - [Canada&#39;s Competition Bureau sues Google over alleged anti-competitive conduct in online advertising, seeking Google to sell two of its ad tech tools and more &lpar;Ismail Shakil/Reuters&rpar;](http://www.techmeme.com/241128/p18#a241128p18)
- - [16 Best Black Friday Streaming Deals: Hulu for $1, Peacock for 75% Off, and More](https://www.cnet.com/deals/best-black-friday-streaming-service-deals-2024/#ftag=CAD590a51e)
  - [Best Black Friday Amazon deals: $150 off M4 iMac, $250 off MacBook, $169 Apple Watch](https://appleinsider.com/articles/24/11/21/best-black-friday-amazon-deals-100-off-m4-mac-mini-250-off-macbook-189-apple-watch?utm_medium=rss)
- - [Walmart Black Friday Sale: Over 55 of the Best Deals on Holiday Gifts, Gadgets, Kitchen Appliances and More](https://www.cnet.com/deals/walmart-best-black-friday-deals-2024-11-28/#ftag=CAD590a51e)
- - [Best Smart TV for 2024: Top Picks From Samsung, LG, Google TVs, Roku TVs and More](https://www.cnet.com/tech/home-entertainment/best-smart-tv/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [The Verge’s guide to Black Friday 2024](https://www.theverge.com/24288220/black-friday-best-deals-guide-cyber-monday-tech-gadgets-2024)
+ - [In a risk assessment submitted to the EU in September 2023, X defended its new approach to content policing and &quot;mission to promote open conversation&quot; &lpar;Mathieu Pollet/Politico&rpar;](http://www.techmeme.com/241128/p17#a241128p17)
+ - [The 44 Best Shows on Max &lpar;aka HBO Max&rpar; Right Now &lpar;December 2024&rpar;](https://www.wired.com/story/hbo-max-best-shows-to-stream-right-now/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

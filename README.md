@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Rokid Max 2 AR Glasses review: Hardwire shines, software needs polish](https://appleinsider.com/articles/24/11/28/rokid-max-2-ar-glasses-review-hardwire-shines-software-needs-polish?utm_medium=rss)
  - [Young founders and coders applying for Elon Musk&#39;s DOGE cite a range of professional and civic motivations; sources: DOGE is seeking 100 full-time hires in DC &lpar;Alex Konrad/Forbes&rpar;](http://www.techmeme.com/241127/p41#a241127p41)
  - [Best Black Friday Deals Live Now: Shop Over 80 Amazing Offers on Top Tech, Small Appliances and More](https://www.cnet.com/deals/best-black-friday-deals-live-2024-11-27/#ftag=CAD590a51e)
  - [Mark Zuckerberg met with Donald Trump at Mar-a-Lago on November 27; sources: Zuckerberg, who has had a strained relationship with Trump, initiated the meeting &lpar;New York Times&rpar;](http://www.techmeme.com/241127/p40#a241127p40)
- - [Best Christmas Gifts 2024: 63 Ideas to Clear Your Holiday List](https://www.cnet.com/tech/best-christmas-gift-ideas/#ftag=CAD590a51e)
- - [Best Black Friday Amazon deals: $150 off M4 iMac, $250 off MacBook, $169 Apple Watch](https://appleinsider.com/articles/24/11/21/best-black-friday-amazon-deals-100-off-m4-mac-mini-250-off-macbook-189-apple-watch?utm_medium=rss)<!-- TECH:END -->
+ - [Best Christmas Gifts 2024: 63 Ideas to Clear Your Holiday List](https://www.cnet.com/tech/best-christmas-gift-ideas/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

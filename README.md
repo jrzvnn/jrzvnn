@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Ditch Your Screens to End the Global Friendship Recession](https://www.wired.com/story/ditch-screens-end-global-friendship-recession/)
  - [Best Black Friday Amazon deals: $150 off M4 iMac, $250 off MacBook, $169 Apple Watch](https://appleinsider.com/articles/24/11/21/best-black-friday-amazon-deals-100-off-m4-mac-mini-250-off-macbook-189-apple-watch?utm_medium=rss)
  - [Hotels.com Coupons and Deals: Save Up to 30%](https://www.wired.com/story/hotels-com-coupon/)
  - [Save 50% with Nomad Coupon in November 2024](https://www.wired.com/story/nomad-discount-code/)
- - [eBay Coupon Code: 20% Off in November 2024](https://www.wired.com/story/ebay-coupon-code/)
- - [Best Black Friday Deals Live Now: Score Big Savings on TVs, Laptops, Smart Home Tech and More](https://www.cnet.com/deals/best-black-friday-deals-live-2024-11-28/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [eBay Coupon Code: 20% Off in November 2024](https://www.wired.com/story/ebay-coupon-code/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

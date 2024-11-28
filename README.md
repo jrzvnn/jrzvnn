@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Why it&#39;s important to turn off your high beams!](http://9gag.com/gag/aMVKZ71)
- - 😝 [When will your Thai girl\u2026](http://9gag.com/gag/azxM99b)
- - 💣 [Fear 101 unlocked](http://9gag.com/gag/a7oEZQ2)
+ - 😝 [Where she came from?!](http://9gag.com/gag/aNDpY9b)
+ - 😝 [With another 10 to come for terrorism charges.](http://9gag.com/gag/aAybDEL)
+ - 💣 [She&#39;s wrong you know.](http://9gag.com/gag/aGypeB7)
  - 😝 [Dad telling the waiter his daughter thought he was cute](http://9gag.com/gag/aAybDQd)
- - 👉 [Usual suspect with a machete tries to decap someone buying a PS5, turns out that someone is an undercover cop, the suspect gets put to room temperature](http://9gag.com/gag/amoP28d)<!-- MEMES:END -->
+ - 👉 [Medieval 50 Shades of Grey](http://9gag.com/gag/a4PEbWQ)<!-- MEMES:END -->
 
 ---
 

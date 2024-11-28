@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [DB Cooper may have been identified! Siblings say their late father was the hijacker after finding a matching parachute. FBI investigating.](http://9gag.com/gag/a87E3WZ)
  - 😝 [Black queens are in shock](http://9gag.com/gag/a34EM5v)
- - 💣 [Why it&#39;s important to turn off your high beams!](http://9gag.com/gag/aMVKZ71)
- - 😝 [She&#39;s wrong you know.](http://9gag.com/gag/aGypeB7)
- - 👉 [. . .](http://9gag.com/gag/a87E3np)<!-- MEMES:END -->
+ - 😝 [Geniedislikescloud](http://9gag.com/gag/aBy2xdZ)
+ - 💣 [The earth is healing, bullying is back](http://9gag.com/gag/aBy2WXA)
+ - 😝 [DB Cooper may have been identified! Siblings say their late father was the hijacker after finding a matching parachute. FBI investigating.](http://9gag.com/gag/a87E3WZ)
+ - 👉 [She&#39;s wrong you know.](http://9gag.com/gag/aGypeB7)<!-- MEMES:END -->
 
 ---
 

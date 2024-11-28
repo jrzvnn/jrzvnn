@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Best Black Friday Deals Live Now: Shop Over 80 Amazing Offers on Top Tech, Small Appliances and More](https://www.cnet.com/deals/best-black-friday-deals-live-2024-11-27/#ftag=CAD590a51e)
- - [Big Holiday Deals Are Here! Jump On These Offers Now to Save](https://www.cnet.com/paid-content/news/jump-on-these-early-holiday-deals-now-to-save-big/#ftag=CAD590a51e)
- - [I Stream All My Channels, Anywhere, With This Roku Stick That&#39;s Just $20 for Black Friday](https://www.cnet.com/deals/i-stream-all-my-channels-anywhere-with-this-roku-stick-thats-just-20-for-black-friday/#ftag=CAD590a51e)
- - [Save an Incredible $500 on the OnePlus Open Foldable Phone This Black Friday](https://www.cnet.com/deals/save-an-incredible-500-on-the-oneplus-open-foldable-phone-this-black-friday/#ftag=CAD590a51e)
- - [Costco Membership Deal: Get $45 Free Credit and To Do All Your Holiday Shopping](https://www.cnet.com/deals/costco-membership-deal-get-45-free-credit-and-save-this-black-friday/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Mark Zuckerberg met with Donald Trump at Mar-a-Lago on November 27; sources: Zuckerberg, who has had a strained relationship with Trump, initiated the meeting &lpar;New York Times&rpar;](http://www.techmeme.com/241127/p40#a241127p40)
+ - [Best Black Friday Amazon deals: $150 off M4 iMac, $250 off MacBook, $169 Apple Watch](https://appleinsider.com/articles/24/11/21/best-black-friday-amazon-deals-100-off-m4-mac-mini-250-off-macbook-189-apple-watch?utm_medium=rss)
+ - [Microsoft says a feature to let US users play and buy Xbox games from the Xbox app on Android is &quot;ready to go live as soon as the court makes a final decision&quot; &lpar;Richard Lawler/The Verge&rpar;](http://www.techmeme.com/241127/p39#a241127p39)
+ - [Mark Zuckerberg had dinner with Donald Trump at Mar-a-Lago](https://www.theverge.com/2024/11/27/24307943/mark-zuckerberg-donald-trump-dinner-mar-a-lago)
+ - [Best Black Friday Deals Live Now: Shop Over 80 Amazing Offers on Top Tech, Small Appliances and More](https://www.cnet.com/deals/best-black-friday-deals-live-2024-11-27/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

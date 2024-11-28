@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [India&#39;s competition watchdog launches a probe into Google&#39;s restrictive policies for real-money games on Android, following a complaint by gaming app WinZO &lpar;Munsif Vengattil/Reuters&rpar;](http://www.techmeme.com/241128/p14#a241128p14)
+ - [Thanksgiving flash deal: LG OLED C4 TV drops to $796.99 &lpar;$703 off&rpar;](https://appleinsider.com/articles/24/11/28/thanksgiving-flash-deal-lg-oled-c4-tv-drops-to-79699-703-off?utm_medium=rss)
  - [Apple’s entry-level iPad is on sale for its lowest price ever for Black Friday](https://www.theverge.com/2024/11/28/24307735/apple-ipad-black-friday-deal-10th-gen-tablet-2024-sale)
  - [The very best Black Friday deals you can already get](https://www.theverge.com/24293826/best-early-black-friday-deals-2024-amazon-walmart-buy-target-tech-sale)
- - [The Best Google Pixel Phones of 2024, Tested and Reviewed: Which Model to Buy, Cases and Accessories, Feature Drops](https://www.wired.com/story/best-google-pixel-phone/)
- - [I Control My Philips Hue Lights Lights With This Tiny, Must-Have Device, and It&#39;s Not My Phone](https://www.cnet.com/deals/i-control-my-philips-hue-lights-lights-with-this-tiny-must-have-device-and-its-not-my-phone/#ftag=CAD590a51e)
- - [The Steam Autumn Sale Is Here: Check Out the Best Deals and Money-Saving Tips](https://www.cnet.com/tech/gaming/when-are-steam-sales/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [The Best Google Pixel Phones of 2024, Tested and Reviewed: Which Model to Buy, Cases and Accessories, Feature Drops](https://www.wired.com/story/best-google-pixel-phone/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

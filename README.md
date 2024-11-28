@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Skilled flip flopper](http://9gag.com/gag/abAVY4L)
- - 😝 [Therapy? who need it!](http://9gag.com/gag/azxM9gB)
- - 💣 [He could be depressed?](http://9gag.com/gag/a9yEKE1)
- - 😝 [Friends recruitment :&rpar;](http://9gag.com/gag/a9yEpxW)
- - 👉 [Kindergarten teacher](http://9gag.com/gag/adB8KwB)<!-- MEMES:END -->
+ - 😝 [Cheaper than divorce](http://9gag.com/gag/aRBX1KA)
+ - 😝 [He could be depressed?](http://9gag.com/gag/a9yEKE1)
+ - 💣 [She&#39;s wrong you know.](http://9gag.com/gag/aGypeB7)
+ - 😝 [Bro was like: are you f**king serious?](http://9gag.com/gag/an7Q96b)
+ - 👉 [With another 10 to come for terrorism charges.](http://9gag.com/gag/aAybDEL)<!-- MEMES:END -->
 
 ---
 

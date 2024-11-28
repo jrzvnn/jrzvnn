@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Women using the `man` filter &lpar;sound on&rpar;](http://9gag.com/gag/aXPoj2d)
- - 😝 [Zero to hundred](http://9gag.com/gag/a0e7b3q)
- - 💣 [DB Cooper may have been identified! Siblings say their late father was the hijacker after finding a matching parachute. FBI investigating.](http://9gag.com/gag/a87E3WZ)
- - 😝 [Why would one do that](http://9gag.com/gag/ajPmNnQ)
- - 👉 [Diversity hire for the win](http://9gag.com/gag/avy5GMd)<!-- MEMES:END -->
+ - 😝 [DB Cooper may have been identified! Siblings say their late father was the hijacker after finding a matching parachute. FBI investigating.](http://9gag.com/gag/a87E3WZ)
+ - 😝 [Y&#39;all white peeupoos ain&#39;t neva gonna come close to these stats. \u270a\ud83c\udfff](http://9gag.com/gag/apRNpA5)
+ - 💣 [Why would one do that](http://9gag.com/gag/ajPmNnQ)
+ - 😝 [Diversity hire for the win](http://9gag.com/gag/avy5GMd)
+ - 👉 [Why it&#39;s important to turn off your high beams!](http://9gag.com/gag/aMVKZ71)<!-- MEMES:END -->
 
 ---
 

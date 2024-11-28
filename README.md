@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Black queens are in shock](http://9gag.com/gag/a34EM5v)
- - 😝 [Cheaper than divorce](http://9gag.com/gag/aRBX1KA)
- - 💣 [Geniedislikescloud](http://9gag.com/gag/aBy2xdZ)
  - 😝 [Bro was like: are you f**king serious?](http://9gag.com/gag/an7Q96b)
- - 👉 [Blast blows out windows behind wedding couple](http://9gag.com/gag/azxM1Pm)<!-- MEMES:END -->
+ - 😝 [Dad telling the waiter his daughter thought he was cute](http://9gag.com/gag/aAybDQd)
+ - 💣 [Black queens are in shock](http://9gag.com/gag/a34EM5v)
+ - 😝 [Blast blows out windows behind wedding couple](http://9gag.com/gag/azxM1Pm)
+ - 👉 [Cheaper than divorce](http://9gag.com/gag/aRBX1KA)<!-- MEMES:END -->
 
 ---
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Connor McGregor vs Boxing Machine](http://9gag.com/gag/avy57vn)
- - 😝 [She&#39;s wrong you know.](http://9gag.com/gag/aGypeB7)
- - 💣 [Bro was like: are you f**king serious?](http://9gag.com/gag/an7Q96b)
- - 😝 [Cheaper than divorce](http://9gag.com/gag/aRBX1KA)
- - 👉 [A V-shaped bed invented in 1932, supporting the body perfectly at every point and thus promotes better rest.](http://9gag.com/gag/aNDpzjr)<!-- MEMES:END -->
+ - 😝 [Women using the `man` filter &lpar;sound on&rpar;](http://9gag.com/gag/aXPoj2d)
+ - 😝 [Why would one do that](http://9gag.com/gag/ajPmNnQ)
+ - 💣 [Black queens are in shock](http://9gag.com/gag/a34EM5v)
+ - 😝 [Bro was like: are you f**king serious?](http://9gag.com/gag/an7Q96b)
+ - 👉 [Cheaper than divorce](http://9gag.com/gag/aRBX1KA)<!-- MEMES:END -->
 
 ---
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Good vibes](http://9gag.com/gag/a1mrQ9Y)
- - 😝 [That&#39;s what you call a prank](http://9gag.com/gag/aNDp1OA)
- - 💣 [Difference in mentality](http://9gag.com/gag/aQzoeWW)
- - 😝 [Why would one do that](http://9gag.com/gag/ajPmNnQ)
- - 👉 [Diversity hire for the win](http://9gag.com/gag/avy5GMd)<!-- MEMES:END -->
+ - 😝 [She&#39;s wrong you know.](http://9gag.com/gag/aGypeB7)
+ - 😝 [Dad](http://9gag.com/gag/an7QjEL)
+ - 💣 [Dad telling the waiter his daughter thought he was cute](http://9gag.com/gag/aAybDQd)
+ - 😝 [Diversity hire for the win](http://9gag.com/gag/avy5GMd)
+ - 👉 [With another 10 to come for terrorism charges.](http://9gag.com/gag/aAybDEL)<!-- MEMES:END -->
 
 ---
 

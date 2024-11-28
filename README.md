@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Where she came from?!](http://9gag.com/gag/aNDpY9b)
- - 😝 [With another 10 to come for terrorism charges.](http://9gag.com/gag/aAybDEL)
+ - 😝 [Gordon likes a good banter](http://9gag.com/gag/a9yEAX1)
+ - 😝 [Based on a true story](http://9gag.com/gag/aAybdeE)
  - 💣 [She&#39;s wrong you know.](http://9gag.com/gag/aGypeB7)
- - 😝 [Dad telling the waiter his daughter thought he was cute](http://9gag.com/gag/aAybDQd)
- - 👉 [Medieval 50 Shades of Grey](http://9gag.com/gag/a4PEbWQ)<!-- MEMES:END -->
+ - 😝 [Cheaper than divorce](http://9gag.com/gag/aRBX1KA)
+ - 👉 [Hold on](http://9gag.com/gag/aNDpAeb)<!-- MEMES:END -->
 
 ---
 

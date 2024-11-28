@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Young founders and coders applying for Elon Musk&#39;s DOGE cite a range of professional and civic motivations; sources: DOGE is seeking 100 full-time hires in DC &lpar;Alex Konrad/Forbes&rpar;](http://www.techmeme.com/241127/p41#a241127p41)
+ - [Best Black Friday Deals Live Now: Shop Over 80 Amazing Offers on Top Tech, Small Appliances and More](https://www.cnet.com/deals/best-black-friday-deals-live-2024-11-27/#ftag=CAD590a51e)
  - [Mark Zuckerberg met with Donald Trump at Mar-a-Lago on November 27; sources: Zuckerberg, who has had a strained relationship with Trump, initiated the meeting &lpar;New York Times&rpar;](http://www.techmeme.com/241127/p40#a241127p40)
- - [Best Black Friday Amazon deals: $150 off M4 iMac, $250 off MacBook, $169 Apple Watch](https://appleinsider.com/articles/24/11/21/best-black-friday-amazon-deals-100-off-m4-mac-mini-250-off-macbook-189-apple-watch?utm_medium=rss)
- - [Microsoft says a feature to let US users play and buy Xbox games from the Xbox app on Android is &quot;ready to go live as soon as the court makes a final decision&quot; &lpar;Richard Lawler/The Verge&rpar;](http://www.techmeme.com/241127/p39#a241127p39)
- - [Mark Zuckerberg had dinner with Donald Trump at Mar-a-Lago](https://www.theverge.com/2024/11/27/24307943/mark-zuckerberg-donald-trump-dinner-mar-a-lago)
- - [Best Black Friday Deals Live Now: Shop Over 80 Amazing Offers on Top Tech, Small Appliances and More](https://www.cnet.com/deals/best-black-friday-deals-live-2024-11-27/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Best Christmas Gifts 2024: 63 Ideas to Clear Your Holiday List](https://www.cnet.com/tech/best-christmas-gift-ideas/#ftag=CAD590a51e)
+ - [Best Black Friday Amazon deals: $150 off M4 iMac, $250 off MacBook, $169 Apple Watch](https://appleinsider.com/articles/24/11/21/best-black-friday-amazon-deals-100-off-m4-mac-mini-250-off-macbook-189-apple-watch?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

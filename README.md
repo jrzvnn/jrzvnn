@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Australia&#39;s Senate votes to pass a social media ban for children under 16, brushing aside lawmaker concerns on both sides; tech companies could be fined A$50M &lpar;Ben Westcott/Bloomberg&rpar;](http://www.techmeme.com/241128/p11#a241128p11)
- - [How the World Can Cope Better With Extreme Rainfall and Flooding](https://www.wired.com/story/how-the-world-can-cope-better-with-extreme-rainfall-and-flooding/)
- - [Casio turns back time with the G-Shock that started it all](https://www.theverge.com/2024/11/28/24308133/casio-g-shock-dw5000r-digital-watch-announcement)
- - [Best Black Friday Deals Live Now: Score Big Savings on TVs, Laptops, Smart Home Tech and More](https://www.cnet.com/deals/best-black-friday-deals-live-2024-11-28/#ftag=CAD590a51e)
- - [How to Watch Giants vs. Cowboys on Thanksgiving Today](https://www.cnet.com/tech/services-and-software/how-to-watch-giants-vs-cowboys-on-thanksgiving-today/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [The best deals on the baby gear I recommend to my friends](https://www.theverge.com/24306818/black-friday-2024-best-deals-baby-gear-snoo-stroller-cyber-monday)
+ - [101 Best Early Black Friday Deals of 2024 to Shop on Thanksgiving](https://www.wired.com/story/early-black-friday-deals-2024-3/)
+ - [The 19 Best Thanksgiving TV Episodes, Ranked](https://www.wired.com/story/best-thanksgiving-tv-episodes/)
+ - [Craft 3 is shockingly close to my ideal productivity app](https://www.theverge.com/2024/11/28/24307906/craft-3-notes-tasks-calendar-app-mac-iphone-windows)
+ - [Australia&#39;s Senate passes a social media ban for children under 16, brushing aside lawmaker concerns on both sides; tech companies could be fined up to A$50M &lpar;Ben Westcott/Bloomberg&rpar;](http://www.techmeme.com/241128/p11#a241128p11)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

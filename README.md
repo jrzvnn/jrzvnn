@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Zero to hundred](http://9gag.com/gag/a0e7b3q)
- - 😝 [Women using the `man` filter &lpar;sound on&rpar;](http://9gag.com/gag/aXPoj2d)
- - 💣 [When will your Thai girl\u2026](http://9gag.com/gag/azxM99b)
- - 😝 [F**k this! My fav childhood movie. 3 movies &amp; series of lighthearted adventure. I was thankful the 3 were made before the woke, now they have to ruin its legacy. Universal took it from Dreamworks good grace, they couldn&#39;t have wait until the woke cult to die out, which is soon.](http://9gag.com/gag/awyMn9y)
- - 👉 [Bro was like: are you f**king serious?](http://9gag.com/gag/an7Q96b)<!-- MEMES:END -->
+ - 😝 [Blast blows out windows behind wedding couple](http://9gag.com/gag/azxM1Pm)
+ - 😝 [When will your Thai girl\u2026](http://9gag.com/gag/azxM99b)
+ - 💣 [Why would one do that](http://9gag.com/gag/ajPmNnQ)
+ - 😝 [Who&#39;s the garbage now Gordon?](http://9gag.com/gag/a7oEMZ2)
+ - 👉 [Geniedislikescloud](http://9gag.com/gag/aBy2xdZ)<!-- MEMES:END -->
 
 ---
 

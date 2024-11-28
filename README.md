@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [How Huawei and other Chinese tech companies are inundating workers in Taiwan, Europe, and Silicon Valley with job offers in areas like advanced chips and AI &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/241128/p12#a241128p12)
+ - [18 Best Camera Bags, Slings, Straps, and Backpacks &lpar;2024&rpar;, Tested](https://www.wired.com/gallery/best-camera-bags-backpacks-straps-inserts/)
  - [The best deals on the baby gear I recommend to my friends](https://www.theverge.com/24306818/black-friday-2024-best-deals-baby-gear-snoo-stroller-cyber-monday)
  - [101 Best Early Black Friday Deals of 2024 to Shop on Thanksgiving](https://www.wired.com/story/early-black-friday-deals-2024-3/)
- - [The 19 Best Thanksgiving TV Episodes, Ranked](https://www.wired.com/story/best-thanksgiving-tv-episodes/)
- - [Craft 3 is shockingly close to my ideal productivity app](https://www.theverge.com/2024/11/28/24307906/craft-3-notes-tasks-calendar-app-mac-iphone-windows)
- - [Australia&#39;s Senate passes a social media ban for children under 16, brushing aside lawmaker concerns on both sides; tech companies could be fined up to A$50M &lpar;Ben Westcott/Bloomberg&rpar;](http://www.techmeme.com/241128/p11#a241128p11)<!-- TECH:END -->
+ - [Galaxy Z Fold 6 vs. Z Fold 5 vs. Z Fold 4: A Three-Generation Comparison, Spec by Spec](https://www.cnet.com/tech/mobile/galaxy-z-fold-6-vs-z-fold-5-vs-z-fold-4-a-three-generation-comparison-step-by-step/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [How Altera deployed up to 1,000 AI agents that used LLMs to interact in Minecraft, finding that they formed a remarkable range of personality traits and roles &lpar;Niall Firth/MIT Technology Review&rpar;](http://www.techmeme.com/241128/p13#a241128p13)
  - [Best Black Friday Amazon deals: $150 off M4 iMac, $250 off MacBook, $169 Apple Watch](https://appleinsider.com/articles/24/11/21/best-black-friday-amazon-deals-100-off-m4-mac-mini-250-off-macbook-189-apple-watch?utm_medium=rss)
  - [Best Black Friday Apple Watch Ultra 2 deal lands at $619.99](https://appleinsider.com/articles/24/11/28/best-black-friday-apple-watch-ultra-2-deal-lands-at-61999?utm_medium=rss)
  - [The World’s First Ever All-Aluminum Skis Have Arrived](https://www.wired.com/story/the-worlds-first-ever-all-aluminum-skis-have-arrived/)
- - [Best Kids Tablets &lpar;2024&rpar;: iPads, Amazon Fire Kids Tablets, and More](https://www.wired.com/gallery/best-kids-tablets/)
- - [32 Nintendo Switch Games for Every Kind of Player &lpar;December 2024&rpar;](https://www.wired.com/gallery/best-nintendo-switch-games/)<!-- TECH:END -->
+ - [Best Kids Tablets &lpar;2024&rpar;: iPads, Amazon Fire Kids Tablets, and More](https://www.wired.com/gallery/best-kids-tablets/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

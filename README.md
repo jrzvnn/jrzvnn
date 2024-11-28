@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Top B&amp;H Promo Codes and Deals for November 2024](https://www.wired.com/story/bh-photo-coupon/)
- - [Top Dell Coupon Code 10% off | November 2024](https://www.wired.com/story/dell-coupon-code/)
- - [Sephora Promo Codes and Deals: Up to 50% Off](https://www.wired.com/story/sephora-promo-code/)
- - [Newegg Promo Code 10% off | November 2024](https://www.wired.com/story/newegg-promo-code/)
- - [Ofcom: Reddit was visited by 22.9M UK adults in May 2024, up 47% YoY, making it the fifth most popular social media platform in the UK, surpassing X at 22.1M &lpar;Dan Milmo/The Guardian&rpar;](http://www.techmeme.com/241128/p5#a241128p5)<!-- TECH:END -->
+ - [Apple&#39;s best-selling M3 MacBook Air 512GB drops to record low price for Black Friday](https://appleinsider.com/articles/24/11/28/apples-best-selling-m3-macbook-air-512gb-drops-to-record-low-price-for-black-friday?utm_medium=rss)
+ - [Incoming FCC chairman Brendan Carr&#39;s censorial agenda, which is couched in the language of free speech, may be the biggest threat to the 1A in quite a long time &lpar;Mike Masnick/Techdirt&rpar;](http://www.techmeme.com/241128/p6#a241128p6)
+ - [Squarespace Promo Codes -  November 2024](https://www.wired.com/story/squarespace-promo-code/)
+ - [Logitech Promo Code: Exclusive 10% Off in November 2024](https://www.wired.com/story/logitech-promo-code/)
+ - [Top B&amp;H Promo Codes and Deals for November 2024](https://www.wired.com/story/bh-photo-coupon/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

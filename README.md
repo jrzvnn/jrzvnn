@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Blast blows out windows behind wedding couple](http://9gag.com/gag/azxM1Pm)
- - 😝 [When will your Thai girl\u2026](http://9gag.com/gag/azxM99b)
- - 💣 [Why would one do that](http://9gag.com/gag/ajPmNnQ)
- - 😝 [Who&#39;s the garbage now Gordon?](http://9gag.com/gag/a7oEMZ2)
- - 👉 [Geniedislikescloud](http://9gag.com/gag/aBy2xdZ)<!-- MEMES:END -->
+ - 😝 [What an amazing young man and great father](http://9gag.com/gag/aryMg90)
+ - 😝 [After all , he was lucky at the end](http://9gag.com/gag/a2v7ZK1)
+ - 💣 [Street Artist captures her personality nicely.](http://9gag.com/gag/aKG6xbN)
+ - 😝 [They did it, under 16s banned from social media and big fines for companies who dont abide by the new law. What do you think??](http://9gag.com/gag/axyM9dp)
+ - 👉 [Wholesome posts that I saved #10](http://9gag.com/gag/aGypg5w)<!-- MEMES:END -->
 
 ---
 

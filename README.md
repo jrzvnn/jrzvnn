@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Where my Gamer bois at?](http://9gag.com/gag/aVv7wvv)
- - 😝 [Bro was like: are you f**king serious?](http://9gag.com/gag/an7Q96b)
- - 💣 [Cheaper than divorce](http://9gag.com/gag/aRBX1KA)
- - 😝 [Where she came from?!](http://9gag.com/gag/aNDpY9b)
- - 👉 [When will your Thai girl\u2026](http://9gag.com/gag/azxM99b)<!-- MEMES:END -->
+ - 😝 [Black queens are in shock](http://9gag.com/gag/a34EM5v)
+ - 😝 [Geniedislikescloud](http://9gag.com/gag/aBy2xdZ)
+ - 💣 [When will your Thai girl\u2026](http://9gag.com/gag/azxM99b)
+ - 😝 [Cheaper than divorce](http://9gag.com/gag/aRBX1KA)
+ - 👉 [Dad telling the waiter his daughter thought he was cute](http://9gag.com/gag/aAybDQd)<!-- MEMES:END -->
 
 ---
 

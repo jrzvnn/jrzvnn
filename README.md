@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The 12 best TV deals you can grab ahead of Black Friday](https://www.theverge.com/24307741/black-friday-tv-deals-lg-samsung-sony-tcl-cyber-monday-2024)
  - [Save $400 with these Black Friday M4 Max MacBook Pro deals](https://appleinsider.com/articles/24/11/28/save-400-with-these-black-friday-m4-max-macbook-pro-deals?utm_medium=rss)
  - [Memo: Revolut tells ex-staff who were at the startup for 2+ years and held $100K+ in vested stock that they can join a secondary share sale at a $45B valuation &lpar;Aisha S Gani/Bloomberg&rpar;](http://www.techmeme.com/241128/p16#a241128p16)
  - [The best Black Friday deals on AirPods, AirTags, and other Apple tech](https://www.theverge.com/24305511/black-friday-apple-best-deals-2024-macbook-airpods-cyber-monday)
- - [Top 6 Vitamins and Supplements That Are Essential for Healthy Eyes](https://www.cnet.com/health/personal-care/6-vitamins-and-supplements-essential-for-healthy-eyes/#ftag=CAD590a51e)
- - [The Best Gourmet Dog Treats We&#39;d Totally Taste Test Ourselves](https://www.cnet.com/home/kitchen-and-household/best-gourmet-dog-treats/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Top 6 Vitamins and Supplements That Are Essential for Healthy Eyes](https://www.cnet.com/health/personal-care/6-vitamins-and-supplements-essential-for-healthy-eyes/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

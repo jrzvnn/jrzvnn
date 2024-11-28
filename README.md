@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Dad](http://9gag.com/gag/an7QjEL)
- - 😝 [Cheaper than divorce](http://9gag.com/gag/aRBX1KA)
- - 💣 [Geniedislikescloud](http://9gag.com/gag/aBy2xdZ)
- - 😝 [Diversity hire for the win](http://9gag.com/gag/avy5GMd)
- - 👉 [She&#39;s wrong you know.](http://9gag.com/gag/aGypeB7)<!-- MEMES:END -->
+ - 😝 [DB Cooper may have been identified! Siblings say their late father was the hijacker after finding a matching parachute. FBI investigating.](http://9gag.com/gag/a87E3WZ)
+ - 😝 [Usual suspect with a machete tries to decap someone buying a PS5, turns out that someone is an undercover cop, the suspect gets put to room temperature](http://9gag.com/gag/amoP28d)
+ - 💣 [She&#39;s wrong you know.](http://9gag.com/gag/aGypeB7)
+ - 😝 [Geniedislikescloud](http://9gag.com/gag/aBy2xdZ)
+ - 👉 [Black queens are in shock](http://9gag.com/gag/a34EM5v)<!-- MEMES:END -->
 
 ---
 

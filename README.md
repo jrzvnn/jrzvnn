@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Black Friday Mac Studio deal drops price to $1,789, plus $30 off AppleCare](https://appleinsider.com/articles/24/11/28/black-friday-mac-studio-deal-drops-price-to-1789-plus-30-off-applecare?utm_medium=rss)
  - [10 Black Friday TV Deals to Grab Ahead of the Hordes](https://www.wired.com/story/early-black-friday-tv-deals-2024-1/)
  - [The best Black Friday deals we’re seeing on Macbooks and other laptops](https://www.theverge.com/24305977/black-friday-best-deals-laptops-macbook-windows-gaming-cyber-monday-2024)
  - [Australia bans social media for under 16s](https://www.theverge.com/2024/11/28/24308245/australia-bans-social-media-children-under-16)
- - [18 Best Air Purifiers &lpar;2024&rpar;: Coway, AirDoctor, IQAir](https://www.wired.com/gallery/best-air-purifiers/)
- - [123 Best Early Black Friday Deals of 2024 to Shop on Thanksgiving](https://www.wired.com/story/early-black-friday-deals-2024-3/)<!-- TECH:END -->
+ - [18 Best Air Purifiers &lpar;2024&rpar;: Coway, AirDoctor, IQAir](https://www.wired.com/gallery/best-air-purifiers/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

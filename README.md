@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Well deserved tap on the head.](http://9gag.com/gag/azxM1Lx)
- - 😝 [Street Artist captures her personality nicely.](http://9gag.com/gag/aKG6xbN)
- - 💣 [He could be depressed?](http://9gag.com/gag/a9yEKE1)
- - 😝 [Zigzagoon](http://9gag.com/gag/aQzoRO8)
- - 👉 [Friends recruitment :&rpar;](http://9gag.com/gag/a9yEpxW)<!-- MEMES:END -->
+ - 😝 [Why it&#39;s important to turn off your high beams!](http://9gag.com/gag/aMVKZ71)
+ - 😝 [When will your Thai girl\u2026](http://9gag.com/gag/azxM99b)
+ - 💣 [Fear 101 unlocked](http://9gag.com/gag/a7oEZQ2)
+ - 😝 [Dad telling the waiter his daughter thought he was cute](http://9gag.com/gag/aAybDQd)
+ - 👉 [Usual suspect with a machete tries to decap someone buying a PS5, turns out that someone is an undercover cop, the suspect gets put to room temperature](http://9gag.com/gag/amoP28d)<!-- MEMES:END -->
 
 ---
 

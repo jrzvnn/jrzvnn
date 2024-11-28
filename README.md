@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [She&#39;s wrong you know.](http://9gag.com/gag/aGypeB7)
- - 😝 [Dad](http://9gag.com/gag/an7QjEL)
+ - 😝 [F**k this! My fav childhood movie. 3 movies &amp; series of lighthearted adventure. I was thankful the 3 were made before the woke, now they have to ruin its legacy. Universal took it from Dreamworks good grace, they couldn&#39;t have wait until the woke cult to die out, which is soon.](http://9gag.com/gag/awyMn9y)
+ - 😝 [Stop that!](http://9gag.com/gag/aBy2WL2)
  - 💣 [Dad telling the waiter his daughter thought he was cute](http://9gag.com/gag/aAybDQd)
- - 😝 [Diversity hire for the win](http://9gag.com/gag/avy5GMd)
- - 👉 [With another 10 to come for terrorism charges.](http://9gag.com/gag/aAybDEL)<!-- MEMES:END -->
+ - 😝 [Why it&#39;s important to turn off your high beams!](http://9gag.com/gag/aMVKZ71)
+ - 👉 [Why r u gey?](http://9gag.com/gag/azxMrYB)<!-- MEMES:END -->
 
 ---
 

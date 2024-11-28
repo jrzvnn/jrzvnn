@@ -166,10 +166,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Dad](http://9gag.com/gag/an7QjEL)
- - 😝 [99 Cent Pizza is actually 2 Dollar Pizza](http://9gag.com/gag/ajPmEYp)
- - 💣 [Kindergarten teacher](http://9gag.com/gag/adB8KwB)
- - 😝 [With another 10 to come for terrorism charges.](http://9gag.com/gag/aAybDEL)
+ - 😝 [Good vibes](http://9gag.com/gag/a1mrQ9Y)
+ - 😝 [That&#39;s what you call a prank](http://9gag.com/gag/aNDp1OA)
+ - 💣 [Difference in mentality](http://9gag.com/gag/aQzoeWW)
+ - 😝 [Why would one do that](http://9gag.com/gag/ajPmNnQ)
  - 👉 [Diversity hire for the win](http://9gag.com/gag/avy5GMd)<!-- MEMES:END -->
 
 ---

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The Best Dyson Vacuums &lpar;2024&rpar;, Tested and Reviewed](https://www.wired.com/gallery/best-dyson-vacuums/)
+ - [Tryptophan Isn’t What Puts You Under on Thanksgiving. It’s the Carbs](https://www.wired.com/story/whats-up-with-that-the-real-causes-of-the-thanksgiving-sleepies/)
  - [Reddit COO Jen Wong says ~50% of current users are located outside the US, and the company is developing new search tools to simplify navigation on Reddit &lpar;Arjun Kharpal/CNBC&rpar;](http://www.techmeme.com/241128/p9#a241128p9)
- - [The Whole Story of How Humans Evolved From Great Apes](https://www.wired.com/story/the-whole-story-of-how-humans-evolved-from-great-apes-homo-erectus-hominin-lucy/)
- - [Alibaba releases QwQ-32B-Preview under an Apache 2.0 license and claims the &quot;reasoning&quot; AI model beats OpenAI&#39;s o1 models on the AIME and MATH tests &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/241128/p8#a241128p8)
- - [Best Black Friday Apple Deals 2024: We’ve Rounded Up the Biggest Discounts on Macs, iPads, AirPods and More](https://www.cnet.com/deals/best-black-friday-apple-deals-2024-11-28/#ftag=CAD590a51e)
- - [19 Best Black Friday Deals on Bedding for Your Holiday Shopping](https://www.cnet.com/deals/best-black-friday-bedding-deals-2024/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Where and When to Watch Macy&#39;s Thanksgiving Day Parade Today Without Cable](https://www.cnet.com/tech/services-and-software/where-when-watch-macys-thanksgiving-day-parade-today-without-cable/#ftag=CAD590a51e)
+ - [The Whole Story of How Humans Evolved From Great Apes](https://www.wired.com/story/the-whole-story-of-how-humans-evolved-from-great-apes-homo-erectus-hominin-lucy/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

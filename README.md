@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Why it&#39;s important to turn off your high beams!](http://9gag.com/gag/aMVKZ71)
- - 😝 [Bro was like: are you f**king serious?](http://9gag.com/gag/an7Q96b)
- - 💣 [Diversity hire for the win](http://9gag.com/gag/avy5GMd)
- - 😝 [Connor McGregor vs Boxing Machine](http://9gag.com/gag/avy57vn)
- - 👉 [When will your Thai girl\u2026](http://9gag.com/gag/azxM99b)<!-- MEMES:END -->
+ - 😝 [She&#39;s wrong you know.](http://9gag.com/gag/aGypeB7)
+ - 😝 [Diversity hire for the win](http://9gag.com/gag/avy5GMd)
+ - 💣 [When will your Thai girl\u2026](http://9gag.com/gag/azxM99b)
+ - 😝 [Why would one do that](http://9gag.com/gag/ajPmNnQ)
+ - 👉 [Bro was like: are you f**king serious?](http://9gag.com/gag/an7Q96b)<!-- MEMES:END -->
 
 ---
 

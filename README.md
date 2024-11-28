@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Australia&#39;s Senate votes to pass a social media ban for children under 16, brushing aside lawmaker concerns on both sides; tech companies could be fined A$50M &lpar;Ben Westcott/Bloomberg&rpar;](http://www.techmeme.com/241128/p11#a241128p11)
+ - [How the World Can Cope Better With Extreme Rainfall and Flooding](https://www.wired.com/story/how-the-world-can-cope-better-with-extreme-rainfall-and-flooding/)
  - [Casio turns back time with the G-Shock that started it all](https://www.theverge.com/2024/11/28/24308133/casio-g-shock-dw5000r-digital-watch-announcement)
- - [Cloud backup startup Eon raised $70M led by BOND at a $1.4B valuation, taking its total funding to $200M since its January 2024 founding by AWS alumni &lpar;Paayal Zaveri/Bloomberg&rpar;](http://www.techmeme.com/241128/p10#a241128p10)
- - [The Best Dyson Vacuums &lpar;2024&rpar;, Tested and Reviewed](https://www.wired.com/gallery/best-dyson-vacuums/)
- - [Tryptophan Isn’t What Puts You Under on Thanksgiving. It’s the Carbs](https://www.wired.com/story/whats-up-with-that-the-real-causes-of-the-thanksgiving-sleepies/)
- - [Reddit COO Jen Wong says ~50% of current users are located outside the US, and the company is developing new search tools to simplify navigation on Reddit &lpar;Arjun Kharpal/CNBC&rpar;](http://www.techmeme.com/241128/p9#a241128p9)<!-- TECH:END -->
+ - [Best Black Friday Deals Live Now: Score Big Savings on TVs, Laptops, Smart Home Tech and More](https://www.cnet.com/deals/best-black-friday-deals-live-2024-11-28/#ftag=CAD590a51e)
+ - [How to Watch Giants vs. Cowboys on Thanksgiving Today](https://www.cnet.com/tech/services-and-software/how-to-watch-giants-vs-cowboys-on-thanksgiving-today/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

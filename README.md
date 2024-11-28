@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [DB Cooper may have been identified! Siblings say their late father was the hijacker after finding a matching parachute. FBI investigating.](http://9gag.com/gag/a87E3WZ)
- - 😝 [Usual suspect with a machete tries to decap someone buying a PS5, turns out that someone is an undercover cop, the suspect gets put to room temperature](http://9gag.com/gag/amoP28d)
- - 💣 [She&#39;s wrong you know.](http://9gag.com/gag/aGypeB7)
- - 😝 [Geniedislikescloud](http://9gag.com/gag/aBy2xdZ)
- - 👉 [Black queens are in shock](http://9gag.com/gag/a34EM5v)<!-- MEMES:END -->
+ - 😝 [Black queens are in shock](http://9gag.com/gag/a34EM5v)
+ - 😝 [Y&#39;all white peeupoos ain&#39;t neva gonna come close to these stats. \u270a\ud83c\udfff](http://9gag.com/gag/apRNpA5)
+ - 💣 [Diversity hire for the win](http://9gag.com/gag/avy5GMd)
+ - 😝 [With another 10 to come for terrorism charges.](http://9gag.com/gag/aAybDEL)
+ - 👉 [When will your Thai girl\u2026](http://9gag.com/gag/azxM99b)<!-- MEMES:END -->
 
 ---
 

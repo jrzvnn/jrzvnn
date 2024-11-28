@@ -161,7 +161,7 @@ R                        1 repo              ░░░░░░░░░░░�
  - [Hotels.com Coupons and Deals: Save Up to 30%](https://www.wired.com/story/hotels-com-coupon/)
  - [Save 50% with Nomad Coupon in November 2024](https://www.wired.com/story/nomad-discount-code/)
  - [eBay Coupon Code: 20% Off in November 2024](https://www.wired.com/story/ebay-coupon-code/)
- - [Design Within Reach Promo Code: 25% Off  | November 2024](https://www.wired.com/story/design-within-reach-promo-code/)<!-- TECH:END -->
+ - [Best Black Friday Deals Live Now: Score Big Savings on TVs, Laptops, Smart Home Tech and More](https://www.cnet.com/deals/best-black-friday-deals-live-2024-11-28/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

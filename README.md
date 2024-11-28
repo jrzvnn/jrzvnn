@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [Bro was like: are you f**king serious?](http://9gag.com/gag/an7Q96b)
+ - 😝 [Based on a true story](http://9gag.com/gag/aAybdeE)
+ - 💣 [Usual suspect with a machete tries to decap someone buying a PS5, turns out that someone is an undercover cop, the suspect gets put to room temperature](http://9gag.com/gag/amoP28d)
  - 😝 [Black queens are in shock](http://9gag.com/gag/a34EM5v)
- - 😝 [Y&#39;all white peeupoos ain&#39;t neva gonna come close to these stats. \u270a\ud83c\udfff](http://9gag.com/gag/apRNpA5)
- - 💣 [Diversity hire for the win](http://9gag.com/gag/avy5GMd)
- - 😝 [With another 10 to come for terrorism charges.](http://9gag.com/gag/aAybDEL)
- - 👉 [When will your Thai girl\u2026](http://9gag.com/gag/azxM99b)<!-- MEMES:END -->
+ - 👉 [Diversity hire for the win](http://9gag.com/gag/avy5GMd)<!-- MEMES:END -->
 
 ---
 

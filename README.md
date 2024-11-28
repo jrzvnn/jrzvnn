@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Apple’s entry-level iPad is on sale for its lowest price ever for Black Friday](https://www.theverge.com/2024/11/28/24307735/apple-ipad-black-friday-deal-10th-gen-tablet-2024-sale)
+ - [The very best Black Friday deals you can already get](https://www.theverge.com/24293826/best-early-black-friday-deals-2024-amazon-walmart-buy-target-tech-sale)
  - [The Best Google Pixel Phones of 2024, Tested and Reviewed: Which Model to Buy, Cases and Accessories, Feature Drops](https://www.wired.com/story/best-google-pixel-phone/)
  - [The hardest part of Dragon Age: The Veilguard is making a choice](https://www.theverge.com/24307786/dragon-age-the-veilguard-full-review)
- - [How Altera deployed up to 1,000 AI agents that used LLMs to interact in Minecraft, finding that they formed a remarkable range of personality traits and roles &lpar;Niall Firth/MIT Technology Review&rpar;](http://www.techmeme.com/241128/p13#a241128p13)
- - [Best Black Friday Amazon deals: $150 off M4 iMac, $250 off MacBook, $169 Apple Watch](https://appleinsider.com/articles/24/11/21/best-black-friday-amazon-deals-100-off-m4-mac-mini-250-off-macbook-189-apple-watch?utm_medium=rss)
- - [Best Black Friday Apple Watch Ultra 2 deal lands at $619.99](https://appleinsider.com/articles/24/11/28/best-black-friday-apple-watch-ultra-2-deal-lands-at-61999?utm_medium=rss)<!-- TECH:END -->
+ - [How Altera deployed up to 1,000 AI agents that used LLMs to interact in Minecraft, finding that they formed a remarkable range of personality traits and roles &lpar;Niall Firth/MIT Technology Review&rpar;](http://www.techmeme.com/241128/p13#a241128p13)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

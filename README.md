@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Why it&#39;s important to turn off your high beams!](http://9gag.com/gag/aMVKZ71)
- - 😝 [Usual suspect with a machete tries to decap someone buying a PS5, turns out that someone is an undercover cop, the suspect gets put to room temperature](http://9gag.com/gag/amoP28d)
- - 💣 [. . .](http://9gag.com/gag/a87E3np)
- - 😝 [Difference in mentality](http://9gag.com/gag/aQzoeWW)
- - 👉 [Diversity hire for the win](http://9gag.com/gag/avy5GMd)<!-- MEMES:END -->
+ - 😝 [Well deserved tap on the head.](http://9gag.com/gag/azxM1Lx)
+ - 😝 [Street Artist captures her personality nicely.](http://9gag.com/gag/aKG6xbN)
+ - 💣 [He could be depressed?](http://9gag.com/gag/a9yEKE1)
+ - 😝 [Zigzagoon](http://9gag.com/gag/aQzoRO8)
+ - 👉 [Friends recruitment :&rpar;](http://9gag.com/gag/a9yEpxW)<!-- MEMES:END -->
 
 ---
 

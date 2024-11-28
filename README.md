@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Black queens are in shock](http://9gag.com/gag/a34EM5v)
- - 😝 [Geniedislikescloud](http://9gag.com/gag/aBy2xdZ)
- - 💣 [The earth is healing, bullying is back](http://9gag.com/gag/aBy2WXA)
- - 😝 [DB Cooper may have been identified! Siblings say their late father was the hijacker after finding a matching parachute. FBI investigating.](http://9gag.com/gag/a87E3WZ)
- - 👉 [She&#39;s wrong you know.](http://9gag.com/gag/aGypeB7)<!-- MEMES:END -->
+ - 😝 [Why it&#39;s important to turn off your high beams!](http://9gag.com/gag/aMVKZ71)
+ - 😝 [You want to summon a Balrog? Because that&#39;s how you summon a Balrog](http://9gag.com/gag/aAybD7p)
+ - 💣 [Connor McGregor vs Boxing Machine](http://9gag.com/gag/avy57vn)
+ - 😝 [Usual suspect with a machete tries to decap someone buying a PS5, turns out that someone is an undercover cop, the suspect gets put to room temperature](http://9gag.com/gag/amoP28d)
+ - 👉 [When will your Thai girl\u2026](http://9gag.com/gag/azxM99b)<!-- MEMES:END -->
 
 ---
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [The earth is healing, bullying is back](http://9gag.com/gag/aBy2WXA)
+ - 😝 [Dad](http://9gag.com/gag/an7QjEL)
+ - 😝 [99 Cent Pizza is actually 2 Dollar Pizza](http://9gag.com/gag/ajPmEYp)
+ - 💣 [Kindergarten teacher](http://9gag.com/gag/adB8KwB)
  - 😝 [With another 10 to come for terrorism charges.](http://9gag.com/gag/aAybDEL)
- - 💣 [. . .](http://9gag.com/gag/a87E3np)
- - 😝 [She&#39;s wrong you know.](http://9gag.com/gag/aGypeB7)
- - 👉 [Dad](http://9gag.com/gag/an7QjEL)<!-- MEMES:END -->
+ - 👉 [Diversity hire for the win](http://9gag.com/gag/avy5GMd)<!-- MEMES:END -->
 
 ---
 

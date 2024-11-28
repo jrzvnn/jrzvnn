@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Its lit allright](http://9gag.com/gag/aXPojog)
- - 😝 [Kindergarten teacher](http://9gag.com/gag/adB8KwB)
- - 💣 [Women using the `man` filter &lpar;sound on&rpar;](http://9gag.com/gag/aXPoj2d)
- - 😝 [I bet you can\u2019t hit the same spot I did](http://9gag.com/gag/aD2dxBd)
- - 👉 [C has to be done](http://9gag.com/gag/ayNMB5q)<!-- MEMES:END -->
+ - 😝 [Women using the `man` filter &lpar;sound on&rpar;](http://9gag.com/gag/aXPoj2d)
+ - 😝 [Zero to hundred](http://9gag.com/gag/a0e7b3q)
+ - 💣 [DB Cooper may have been identified! Siblings say their late father was the hijacker after finding a matching parachute. FBI investigating.](http://9gag.com/gag/a87E3WZ)
+ - 😝 [Why would one do that](http://9gag.com/gag/ajPmNnQ)
+ - 👉 [Diversity hire for the win](http://9gag.com/gag/avy5GMd)<!-- MEMES:END -->
 
 ---
 

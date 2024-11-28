@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Black Friday iMac sale: grab M4 all-in-one desktop for just $1,149.99](https://appleinsider.com/articles/24/11/28/black-friday-imac-sale-grab-m4-all-in-one-desktop-for-just-114999?utm_medium=rss)
  - [Experts worry about the unintended consequences of Australia&#39;s controversial but popular social media ban on under-16s; Meta, TikTok, and X expressed concerns &lpar;Bloomberg&rpar;](http://www.techmeme.com/241128/p19#a241128p19)
  - [Canada&#39;s Competition Bureau sues Google over alleged anti-competitive conduct in online advertising, seeking Google to sell two of its ad tech tools and more &lpar;Ismail Shakil/Reuters&rpar;](http://www.techmeme.com/241128/p18#a241128p18)
- - [Best Black Friday Amazon deals: $150 off M4 iMac, $250 off MacBook, $169 Apple Watch](https://appleinsider.com/articles/24/11/21/best-black-friday-amazon-deals-100-off-m4-mac-mini-250-off-macbook-189-apple-watch?utm_medium=rss)
- - [The Verge’s guide to Black Friday 2024](https://www.theverge.com/24288220/black-friday-best-deals-guide-cyber-monday-tech-gadgets-2024)
- - [In a risk assessment submitted to the EU in September 2023, X defended its new approach to content policing and &quot;mission to promote open conversation&quot; &lpar;Mathieu Pollet/Politico&rpar;](http://www.techmeme.com/241128/p17#a241128p17)<!-- TECH:END -->
+ - [16 Best Black Friday Streaming Deals: Hulu for $1, Peacock for 75% Off, and More](https://www.cnet.com/deals/best-black-friday-streaming-service-deals-2024/#ftag=CAD590a51e)
+ - [Best Black Friday Amazon deals: $150 off M4 iMac, $250 off MacBook, $169 Apple Watch](https://appleinsider.com/articles/24/11/21/best-black-friday-amazon-deals-100-off-m4-mac-mini-250-off-macbook-189-apple-watch?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

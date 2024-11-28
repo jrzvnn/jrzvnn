@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Geniedislikescloud](http://9gag.com/gag/aBy2xdZ)
- - 😝 [Bro was like: are you f**king serious?](http://9gag.com/gag/an7Q96b)
- - 💣 [Black queens are in shock](http://9gag.com/gag/a34EM5v)
+ - 😝 [He could be depressed?](http://9gag.com/gag/a9yEKE1)
  - 😝 [When will your Thai girl\u2026](http://9gag.com/gag/azxM99b)
- - 👉 [Cheaper than divorce](http://9gag.com/gag/aRBX1KA)<!-- MEMES:END -->
+ - 💣 [Geniedislikescloud](http://9gag.com/gag/aBy2xdZ)
+ - 😝 [Who&#39;s the garbage now Gordon?](http://9gag.com/gag/a7oEMZ2)
+ - 👉 [Bro was like: are you f**king serious?](http://9gag.com/gag/an7Q96b)<!-- MEMES:END -->
 
 ---
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Samsung&#39;s Black Friday TV deals knock up to $1,400 off OLED, The Frame models](https://appleinsider.com/articles/24/11/29/samsungs-black-friday-tv-deals-knock-up-to-1400-off-oled-the-frame-models?utm_medium=rss)
+ - [The best Black Friday tech deals we’ve found &lpar;so far&rpar;](https://www.theverge.com/24307545/black-friday-2024-best-deals-tech-gadgets-cyber-monday-gift-ideas)
  - [Major Canadian news organizations, including Torstar, Postmedia, and CBC, sue OpenAI, alleging breach of copyright and terms of use &lpar;Josh Rubin/Toronto.com&rpar;](http://www.techmeme.com/241129/p13#a241129p13)
  - [12 Probiotic Foods to Add to Your Diet for a Healthy and Happy Gut](https://www.cnet.com/health/nutrition/12-probiotic-foods-for-a-happy-and-healthy-gut/#ftag=CAD590a51e)
- - [8 Best Sleep Trackers of 2024, Tested and Selected by Our Sleep Experts](https://www.cnet.com/health/sleep/best-sleep-tracker/#ftag=CAD590a51e)
- - [Titan Plus Mattress Review 2024: A Truly Firm Hybrid Bed Tested by Experts](https://www.cnet.com/health/sleep/titan-plus-mattress-review/#ftag=CAD590a51e)
- - [The Viral Lomi Kitchen Composter Is 50% Off for Black Friday](https://www.cnet.com/deals/the-viral-lomi-kitchen-composter-is-50-off-for-black-friday/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [8 Best Sleep Trackers of 2024, Tested and Selected by Our Sleep Experts](https://www.cnet.com/health/sleep/best-sleep-tracker/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

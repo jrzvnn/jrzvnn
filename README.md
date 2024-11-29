@@ -169,8 +169,8 @@ R                        1 repo              ░░░░░░░░░░░�
  - 😝 [I am old](http://9gag.com/gag/aRBXrdy)
  - 😝 [This encounter was meant.](http://9gag.com/gag/ae9ArLW)
  - 💣 [Chinese art college entrance exam](http://9gag.com/gag/avy55xd)
- - 😝 [The Matrix: Mirrored doorknob: There was no way to properly hide the camera, so the director of photography threw a coat onto himself with a tie matching the one Morpheus was wearing, trying to blend in as much as possible.](http://9gag.com/gag/an7QQp5)
- - 👉 [\u201cDid your genes even fight?\u201d](http://9gag.com/gag/aW4jjLx)<!-- MEMES:END -->
+ - 😝 [\u201cDid your genes even fight?\u201d](http://9gag.com/gag/aW4jjLx)
+ - 👉 [Mother burn\u2019s her 13 year old daughter\u2019s rapist outside of court after he taunted her](http://9gag.com/gag/a9yE1Z0)<!-- MEMES:END -->
 
 ---
 

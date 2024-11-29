@@ -166,10 +166,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [I clearly warned you](http://9gag.com/gag/aAybb6o)
  - 😝 [This encounter was meant.](http://9gag.com/gag/ae9ArLW)
- - 😝 [When will your Thai girl\u2026](http://9gag.com/gag/azxM99b)
- - 💣 [Whats up with these grape fantasies](http://9gag.com/gag/a7oE3Kr)
- - 😝 [Got the lotion and napkins ready](http://9gag.com/gag/avy5zKq)
+ - 💣 [When will your Thai girl\u2026](http://9gag.com/gag/azxM99b)
+ - 😝 [This photograph, taken by Andrew McAuley during his attempt to kayak 991 miles across the Tasman Sea from Australia to New Zealand, captures one of his final moments before he vanished at sea.](http://9gag.com/gag/ajPmm6q)
  - 👉 [Life as a 6ft7 Woman](http://9gag.com/gag/a9yEEeD)<!-- MEMES:END -->
 
 ---

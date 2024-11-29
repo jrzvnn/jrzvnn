@@ -166,10 +166,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Carelessness hurt you](http://9gag.com/gag/a1mrQZ8)
  - 😝 [Why it&#39;s important to turn off your high beams!](http://9gag.com/gag/aMVKZ71)
- - 💣 [Bro was like: are you f**king serious?](http://9gag.com/gag/an7Q96b)
- - 😝 [Where&#39;s she](http://9gag.com/gag/aW4jxzx)
+ - 😝 [How is he not passed out in the ground?](http://9gag.com/gag/a0e7Q2d)
+ - 💣 [The forbidden bend](http://9gag.com/gag/aVv73LP)
+ - 😝 [Can flex tape fix this?](http://9gag.com/gag/aAybbRE)
  - 👉 [When will your Thai girl\u2026](http://9gag.com/gag/azxM99b)<!-- MEMES:END -->
 
 ---

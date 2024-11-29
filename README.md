@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Best Black Friday Deals on LED Face Masks &lpar;2024&rpar;](https://www.wired.com/story/led-masks-black-friday-2024/)
- - [The best Black Friday smartwatch and fitness tracker deals](https://www.theverge.com/good-deals/24306393/black-friday-2024-best-deals-smartwatch-fitness-tracker-wearables-cyber-monday)
- - [OpenAI sued by Canada’s biggest media outlets](https://www.theverge.com/2024/11/29/24308984/openai-sued-canadian-media-copyright-chatgpt)
- - [All of our favorite robot vacuums are seeing steep discounts for Black Friday](https://www.theverge.com/24306781/black-friday-2024-best-deals-robot-vacuums-mops-roombas-cyber-monday)
- - [Hyundai Ioniq 5 N review: fake shifting, real fun](https://www.theverge.com/2024/11/29/24308950/hyundai-ioniq-5-n-review-price-specs-photos)<!-- TECH:END -->
+ - [Major Canadian news organizations, including Torstar, Postmedia, and CBC, sue OpenAI, alleging breach of copyright and terms of use &lpar;Josh Rubin/Toronto.com&rpar;](http://www.techmeme.com/241129/p13#a241129p13)
+ - [12 Probiotic Foods to Add to Your Diet for a Healthy and Happy Gut](https://www.cnet.com/health/nutrition/12-probiotic-foods-for-a-happy-and-healthy-gut/#ftag=CAD590a51e)
+ - [8 Best Sleep Trackers of 2024, Tested and Selected by Our Sleep Experts](https://www.cnet.com/health/sleep/best-sleep-tracker/#ftag=CAD590a51e)
+ - [Titan Plus Mattress Review 2024: A Truly Firm Hybrid Bed Tested by Experts](https://www.cnet.com/health/sleep/titan-plus-mattress-review/#ftag=CAD590a51e)
+ - [The Viral Lomi Kitchen Composter Is 50% Off for Black Friday](https://www.cnet.com/deals/the-viral-lomi-kitchen-composter-is-50-off-for-black-friday/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

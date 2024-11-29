@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The Best Black Friday Air Fryer and Kitchen Deals &lpar;2024&rpar;](https://www.wired.com/story/black-friday-kitchen-deals-2024/)
- - [15 Best Black Friday Toy Deals &lpar;2024&rpar;: Lego and Board Games](https://www.wired.com/story/black-friday-2024-toy-deals/)
- - [Grab a Free Bag of Coffee From Atlas Coffee Club With Our Exclusive Black Friday Coupon Code](https://www.cnet.com/deals/grab-a-free-bag-of-coffee-from-atlas-coffee-club-with-our-exclusive-black-friday-coupon-code/#ftag=CAD590a51e)
- - [There&#39;s Only One 5% Savings Account Left. Today&#39;s Daily Savings Rates, Nov. 29, 2024](https://www.cnet.com/personal-finance/banking/theres-only-one-5-savings-account-left-todays-daily-savings-rates-nov-29-2024/#ftag=CAD590a51e)
- - [All of our favorite robot vacuums are seeing steep discounts for Black Friday](https://www.theverge.com/24306781/black-friday-2024-best-deals-robot-vacuums-mops-roombas-cyber-monday)<!-- TECH:END -->
+ - [Didi reports Q3 revenue up 5% YoY to $7.44B and a net income of $128M, its second straight quarterly profit, as the company prepares for a Hong Kong IPO &lpar;Claire Che/Bloomberg&rpar;](http://www.techmeme.com/241129/p5#a241129p5)
+ - [12 Best Black Friday Coffee and Espresso Deals &lpar;2024&rpar;](https://www.wired.com/story/black-friday-coffee-deals/)
+ - [Rokid Max 2 AR Glasses review: Hardware shines, software needs polish](https://appleinsider.com/articles/24/11/28/rokid-max-2-ar-glasses-review-hardwire-shines-software-needs-polish?utm_medium=rss)
+ - [The US Army&#39;s Vision of Soldiers in Exoskeletons Lives On](https://www.wired.com/story/the-us-armys-vision-of-an-exoskeleton-future-lives-on/)
+ - [22 Best Black Friday Headphone Deals &lpar;2024&rpar;](https://www.wired.com/story/black-friday-headphone-deals-2024/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

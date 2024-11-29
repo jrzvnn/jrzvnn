@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Bait n switch](http://9gag.com/gag/aMVK4gM)
- - 😝 [The Matrix: Mirrored doorknob: There was no way to properly hide the camera, so the director of photography threw a coat onto himself with a tie matching the one Morpheus was wearing, trying to blend in as much as possible.](http://9gag.com/gag/an7QQp5)
- - 💣 [\u201cDid your genes even fight?\u201d](http://9gag.com/gag/aW4jjLx)
- - 😝 [Is it hard?](http://9gag.com/gag/aD2dDp9)
- - 👉 [WTF! I didn&#39;t know they could do that.](http://9gag.com/gag/aqyjjXj)<!-- MEMES:END -->
+ - 😝 [Chinese art college entrance exam](http://9gag.com/gag/avy55xd)
+ - 😝 [How is he not passed out in the ground?](http://9gag.com/gag/a0e7Q2d)
+ - 💣 [Is it hard?](http://9gag.com/gag/aD2dDp9)
+ - 😝 [WTF! I didn&#39;t know they could do that.](http://9gag.com/gag/aqyjjXj)
+ - 👉 [This encounter was meant.](http://9gag.com/gag/ae9ArLW)<!-- MEMES:END -->
 
 ---
 

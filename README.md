@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Just told her, I&#39;m gonna post sexy and racist stuff this week.](http://9gag.com/gag/agmBnqq)
- - 😝 [How is he not passed out in the ground?](http://9gag.com/gag/a0e7Q2d)
- - 💣 [Life as a 6ft7 Woman](http://9gag.com/gag/a9yEEeD)
- - 😝 [. . .](http://9gag.com/gag/a87E3np)
- - 👉 [This encounter was meant.](http://9gag.com/gag/ae9ArLW)<!-- MEMES:END -->
+ - 😝 [Chinese art college entrance exam](http://9gag.com/gag/avy55xd)
+ - 😝 [Martha](http://9gag.com/gag/aBy2g5x)
+ - 💣 [How is he not passed out in the ground?](http://9gag.com/gag/a0e7Q2d)
+ - 😝 [Do not buy cheap weapons](http://9gag.com/gag/a87EEmZ)
+ - 👉 [Life as a 6ft7 Woman](http://9gag.com/gag/a9yEEeD)<!-- MEMES:END -->
 
 ---
 

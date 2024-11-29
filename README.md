@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [19 Best Black Friday Toy Deals &lpar;2024&rpar;: Lego, Bikes, Board Games](https://www.wired.com/story/black-friday-2024-toy-deals/)
- - [We’re Tracking the Best Black Friday Deals of 2024 Live Right Now](https://www.wired.com/live/black-friday-2024-liveblog/)
- - [The Verge’s guide to Black Friday 2024](https://www.theverge.com/24288220/black-friday-best-deals-guide-cyber-monday-tech-gadgets-2024)
- - [A Bug Expert Reveals the Simple Secret to Stop Fruit Flies](https://www.cnet.com/how-to/a-bug-expert-revealed-the-simple-secret-to-stop-fruit-flies/#ftag=CAD590a51e)
- - [The Legend of Zelda: Tears of the Kingdom has dropped to $30 for the first time](https://www.theverge.com/2024/11/29/24309019/black-friday-2024-zelda-tears-of-the-kingdom-totk-nintendo-switch-cyber-monday)<!-- TECH:END -->
+ - [267 Absolute Best Black Friday Deals &lpar;2024&rpar;](https://www.wired.com/story/absolute-best-black-friday-deals-2024/)
+ - [We&#39;re Tracking 80+ Black Friday Deals Live — So You Can Grab the Best Savings Hassle-Free](https://www.cnet.com/deals/best-black-friday-deals-2024-11-29/#ftag=CAD590a51e)
+ - [5 Best Black Friday Dyson Deals on Cordless Stick Vacuums](https://www.wired.com/story/dyson-vacuum-black-friday-deals-2024/)
+ - [20 Best Apple Black Friday Deals &lpar;2024&rpar;: MacBooks, iPads, AirPods](https://www.wired.com/story/apple-black-friday-deals-2024-1/)
+ - [We&#39;re Tracking the Best Black Friday 2024 Apple Deals: Up to $70 Off the Apple Watch 10 and $400 Off MacBooks](https://www.cnet.com/deals/best-black-friday-apple-deals-2024-11-29/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

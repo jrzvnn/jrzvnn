@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Best Therabody Black Friday Deals &lpar;2024&rpar;: LED Masks, Massage](https://www.wired.com/story/black-friday-therabody-deals-1/)
  - [The best Black Friday headphone and earbud deals](https://www.theverge.com/24307533/black-friday-best-deals-headphones-wireless-earbuds-airpods-2024-cyber-monday)
  - [Sources: ByteDance execs fear that launching its own AI models, or apps powered by the models, in the US could give lawmakers another excuse to attack TikTok &lpar;The Information&rpar;](http://www.techmeme.com/241129/p9#a241129p9)
  - [LIVE: We’re Tracking the Best Black Friday Deals Real-Time 2024](https://www.wired.com/live/black-friday-2024-liveblog/)
- - [Black Friday MacBook Air deals knock $265 off 15-inch M3 512GB](https://appleinsider.com/articles/24/11/29/black-friday-macbook-air-deals-knock-265-off-15-inch-m3-512gb?utm_medium=rss)
- - [The best robot vacuums](https://www.theverge.com/22997597/best-robot-vacuum-cleaner)<!-- TECH:END -->
+ - [Black Friday MacBook Air deals knock $265 off 15-inch M3 512GB](https://appleinsider.com/articles/24/11/29/black-friday-macbook-air-deals-knock-265-off-15-inch-m3-512gb?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

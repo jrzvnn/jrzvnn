@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Farming simulator gives me immense satisfaction.](http://9gag.com/gag/aW4jx3Z)
- - 😝 [Wholesome posts that I saved #10](http://9gag.com/gag/aGypg5w)
- - 💣 [Krampus parade](http://9gag.com/gag/adB852Z)
- - 😝 [Dog be like : `can we talk in person for a minute, i think that&#39;s not a regular cat?`](http://9gag.com/gag/agmBAAK)
- - 👉 [True man](http://9gag.com/gag/aKG67nb)<!-- MEMES:END -->
+ - 😝 [He could be depressed?](http://9gag.com/gag/a9yEKE1)
+ - 😝 [When will your Thai girl\u2026](http://9gag.com/gag/azxM99b)
+ - 💣 [This encounter was meant.](http://9gag.com/gag/ae9ArLW)
+ - 😝 [The forbidden bend](http://9gag.com/gag/aVv73LP)
+ - 👉 [Geniedislikescloud](http://9gag.com/gag/aBy2xdZ)<!-- MEMES:END -->
 
 ---
 

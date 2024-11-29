@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [She&#39;s wrong you know.](http://9gag.com/gag/aGypeB7)
- - 😝 [Cheaper than divorce](http://9gag.com/gag/aRBX1KA)
- - 💣 [Geniedislikescloud](http://9gag.com/gag/aBy2xdZ)
- - 😝 [When will your Thai girl\u2026](http://9gag.com/gag/azxM99b)
- - 👉 [Why it&#39;s important to turn off your high beams!](http://9gag.com/gag/aMVKZ71)<!-- MEMES:END -->
+ - 😝 [Carelessness hurt you](http://9gag.com/gag/a1mrQZ8)
+ - 😝 [Geniedislikescloud](http://9gag.com/gag/aBy2xdZ)
+ - 💣 [The Underrated Power of a Shoe](http://9gag.com/gag/aAybDq9)
+ - 😝 [Who&#39;s the garbage now Gordon?](http://9gag.com/gag/a7oEMZ2)
+ - 👉 [Blast blows out windows behind wedding couple](http://9gag.com/gag/azxM1Pm)<!-- MEMES:END -->
 
 ---
 

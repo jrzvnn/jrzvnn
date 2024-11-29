@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [We’re Tracking the Best Black Friday Deals of 2024 Live Right Now](https://www.wired.com/live/black-friday-2024-liveblog/)
  - [The Verge’s guide to Black Friday 2024](https://www.theverge.com/24288220/black-friday-best-deals-guide-cyber-monday-tech-gadgets-2024)
  - [The Legend of Zelda: Tears of the Kingdom has dropped to $30 for the first time](https://www.theverge.com/2024/11/29/24309019/black-friday-2024-zelda-tears-of-the-kingdom-totk-nintendo-switch-cyber-monday)
  - [Leak: Intel’s Battlemage desktop GPUs are just days away](https://www.theverge.com/2024/11/29/24309086/intel-battlemage-gpu-leak-arc-b580-b570)
- - [MicroStrategy is now the largest corporate holder of bitcoins, owning ~2% of them, and its stock is up 450%+ this year, as its risky bitcoin strategy continues &lpar;Craig Coben/Financial Times&rpar;](http://www.techmeme.com/241129/p14#a241129p14)
- - [You can take a selfie with the Earth using this YouTuber’s satellite](https://www.theverge.com/2024/11/29/24309059/earth-selfie-satellite-mark-rober-youtube-spacex-tmobile)<!-- TECH:END -->
+ - [MicroStrategy is now the largest corporate holder of bitcoins, owning ~2% of them, and its stock is up 450%+ this year, as its risky bitcoin strategy continues &lpar;Craig Coben/Financial Times&rpar;](http://www.techmeme.com/241129/p14#a241129p14)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

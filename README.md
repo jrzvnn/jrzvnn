@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Got the lotion and napkins ready](http://9gag.com/gag/avy5zKq)
- - 😝 [This encounter was meant.](http://9gag.com/gag/ae9ArLW)
- - 💣 [. . .](http://9gag.com/gag/a87E3np)
- - 😝 [This photograph, taken by Andrew McAuley during his attempt to kayak 991 miles across the Tasman Sea from Australia to New Zealand, captures one of his final moments before he vanished at sea.](http://9gag.com/gag/ajPmm6q)
- - 👉 [Whats up with these grape fantasies](http://9gag.com/gag/a7oE3Kr)<!-- MEMES:END -->
+ - 😝 [Just told her, I&#39;m gonna post sexy and racist stuff this week.](http://9gag.com/gag/agmBnqq)
+ - 😝 [How is he not passed out in the ground?](http://9gag.com/gag/a0e7Q2d)
+ - 💣 [Life as a 6ft7 Woman](http://9gag.com/gag/a9yEEeD)
+ - 😝 [. . .](http://9gag.com/gag/a87E3np)
+ - 👉 [This encounter was meant.](http://9gag.com/gag/ae9ArLW)<!-- MEMES:END -->
 
 ---
 

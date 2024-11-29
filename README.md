@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [25 Best Walmart Black Friday Deals &lpar;2024&rpar;](https://www.wired.com/story/walmart-deals-november-2024-2/)
+ - [Our biggest stories and favorite things of 2024](https://www.theverge.com/2024/11/29/24307364/biggest-tech-stories-2024-favorite-things)
  - [Sources: European regulators rebuked Wise in 2022 after finding it lacked proof of address for hundreds of thousands of customers, forcing it into remediation &lpar;Akila Quinio/Financial Times&rpar;](http://www.techmeme.com/241129/p8#a241129p8)
  - [Android ‘Find My Device’ Has Gotten a Major Upgrade. Here’s What’s New](https://www.wired.com/story/android-find-my-device-upgrade-whats-new/)
- - [Meta is building the ‘mother of all’ subsea cables](https://www.theverge.com/2024/11/29/24308746/meta-10-billion-global-subsea-cable-project)
- - [23 Best Black Friday Laptop Deals &lpar;2024&rpar;: Acer, Apple, Anker](https://www.wired.com/story/best-black-friday-laptop-deals-2024-1/)
- - [Best deals on smart home gear this Black Friday](https://www.theverge.com/24306780/black-friday-best-deals-smart-home-tech-2024-cyber-monday)<!-- TECH:END -->
+ - [Meta is building the ‘mother of all’ subsea cables](https://www.theverge.com/2024/11/29/24308746/meta-10-billion-global-subsea-cable-project)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

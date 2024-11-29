@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The best Black Friday tech deals we’ve found &lpar;so far&rpar;](https://www.theverge.com/24307545/black-friday-2024-best-deals-tech-gadgets-cyber-monday-gift-ideas)
+ - [We’re Tracking the Best Black Friday Deals of 2024 Live Right Now](https://www.wired.com/live/black-friday-2024-liveblog/)
+ - [43 Best Black Friday Tech Deals &lpar;2024&rpar;](https://www.wired.com/story/black-friday-tech-deals-2024/)
  - [How Amazon Haul, a storefront for fashion, home, and other items at &quot;ultralow prices&quot;, reflects the &quot;haul&quot; shopping phenomenon popularized by YouTube and TikTok &lpar;Vanessa Friedman/New York Times&rpar;](http://www.techmeme.com/241129/p15#a241129p15)
- - [The 100 best Black Friday deals under $100](https://www.theverge.com/24309009/black-friday-2024-best-deals-under-100-tech-gift-ideas-cyber-monday)
- - [267 Absolute Best Black Friday Deals &lpar;2024&rpar;](https://www.wired.com/story/absolute-best-black-friday-deals-2024/)
- - [We&#39;re Tracking 80+ Black Friday Deals Live — So You Can Grab the Best Savings Hassle-Free](https://www.cnet.com/deals/best-black-friday-deals-2024-11-29/#ftag=CAD590a51e)
- - [5 Best Black Friday Dyson Deals on Cordless Stick Vacuums](https://www.wired.com/story/dyson-vacuum-black-friday-deals-2024/)<!-- TECH:END -->
+ - [The 100 best Black Friday deals under $100](https://www.theverge.com/24309009/black-friday-2024-best-deals-under-100-tech-gift-ideas-cyber-monday)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

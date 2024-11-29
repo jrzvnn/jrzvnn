@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Leak: Intel’s Battlemage desktop GPUs are just days away](https://www.theverge.com/2024/11/29/24309086/intel-battlemage-gpu-leak-arc-b580-b570)
  - [MicroStrategy is now the largest corporate holder of bitcoins, owning ~2% of them, and its stock is up 450%+ this year, as its risky bitcoin strategy continues &lpar;Craig Coben/Financial Times&rpar;](http://www.techmeme.com/241129/p14#a241129p14)
  - [You can take a selfie with the Earth using this YouTuber’s satellite](https://www.theverge.com/2024/11/29/24309059/earth-selfie-satellite-mark-rober-youtube-spacex-tmobile)
  - [Here are the best Black Friday deals you can grab for under $30](https://www.theverge.com/24306407/black-friday-2024-best-deals-under-30-tech-gift-ideas-cyber-monday)
- - [The best Black Friday deals you may want to get before Trump’s tariffs](https://www.theverge.com/24305982/black-friday-2024-best-deals-tariffs-trump-save-ideas-cyber-monday)
- - [261 Absolute Best Black Friday Deals &lpar;2024&rpar;](https://www.wired.com/story/absolute-best-black-friday-deals-2024/)<!-- TECH:END -->
+ - [The best Black Friday deals you may want to get before Trump’s tariffs](https://www.theverge.com/24305982/black-friday-2024-best-deals-tariffs-trump-save-ideas-cyber-monday)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

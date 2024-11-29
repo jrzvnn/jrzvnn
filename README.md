@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [I am old](http://9gag.com/gag/aRBXrdy)
- - 😝 [Where&#39;s she](http://9gag.com/gag/aW4jxzx)
- - 💣 [She could eat an apple through a tennis racket](http://9gag.com/gag/apRNmXp)
+ - 😝 [Chinese art college entrance exam](http://9gag.com/gag/avy55xd)
  - 😝 [The Matrix: Mirrored doorknob: There was no way to properly hide the camera, so the director of photography threw a coat onto himself with a tie matching the one Morpheus was wearing, trying to blend in as much as possible.](http://9gag.com/gag/an7QQp5)
- - 👉 [WTF! I didn&#39;t know they could do that.](http://9gag.com/gag/aqyjjXj)<!-- MEMES:END -->
+ - 💣 [Fighter fart causes opponent to pike while match](http://9gag.com/gag/aBy22w2)
+ - 😝 [Escalated quickly](http://9gag.com/gag/aW4jE0A)
+ - 👉 [\u201cDid your genes even fight?\u201d](http://9gag.com/gag/aW4jjLx)<!-- MEMES:END -->
 
 ---
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The best wireless earbuds to buy right now](https://www.theverge.com/21309820/best-wireless-earbuds)
- - [The best fitness trackers to buy right now](https://www.theverge.com/22985108/best-fitness-tracker)
- - [The best smartwatches for Android](https://www.theverge.com/23449363/best-android-smartwatches-wear-os)
- - [Samsung Galaxy S24 FE review: reasonable price, telephoto camera, and a big screen, but the screen isn&#39;t that sharp and other ~$500 phones offer more value &lpar;Allison Johnson/The Verge&rpar;](http://www.techmeme.com/241129/p11#a241129p11)
- - [Apple’s latest AirPods Pro are cheaper than the AirPods 4 right now](https://www.theverge.com/2024/11/26/24306522/apple-airpods-pro-2-usb-c-earbuds-black-friday-deal-sale)<!-- TECH:END -->
+ - [The best Black Friday tech deals we’ve found &lpar;so far&rpar;](https://www.theverge.com/24307545/black-friday-2024-best-deals-tech-gadgets-cyber-monday-gift-ideas)
+ - [250 Absolute Best Black Friday Deals &lpar;2024&rpar;](https://www.wired.com/story/absolute-best-black-friday-deals-2024/)
+ - [The best Black Friday deals on AirPods, AirTags, and other Apple tech](https://www.theverge.com/24305511/black-friday-apple-best-deals-2024-macbook-airpods-cyber-monday)
+ - [B&amp;H slashes MacBook Pro with 36GB RAM to $1,899 for Black Friday](https://appleinsider.com/articles/24/11/29/bh-slashes-macbook-pro-with-36gb-ram-to-1899-for-black-friday?utm_medium=rss)
+ - [The best wireless earbuds to buy right now](https://www.theverge.com/21309820/best-wireless-earbuds)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

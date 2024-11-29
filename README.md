@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Best Kindle Black Friday Deals and Amazon Device Sales &lpar;2024&rpar;](https://www.wired.com/story/black-friday-amazon-devices-deals-2024-1/)
- - [Max, Hulu, and Paramount Plus are all heavily discounted for Black Friday](https://www.theverge.com/24306534/black-friday-2024-streaming-best-deals-max-hulu-peacock-paramount-plus-cyber-monday)
- - [30 Best Black Friday Deals Under $50 &lpar;2024&rpar;](https://www.wired.com/story/black-friday-2024-deals-under-50/)
- - [The Best Black Friday Deals for MAGA, Conspiracists, and Extremists](https://www.wired.com/story/the-best-black-friday-deals-for-maga-conspiracists-and-extremists/)
- - [15 Best Apple Black Friday Deals &lpar;2024&rpar;: MacBooks, iPads, AirPods](https://www.wired.com/story/apple-black-friday-deals-2024-1/)<!-- TECH:END -->
+ - [Sources: European regulators rebuked Wise in 2022 after finding it lacked proof of address for hundreds of thousands of customers, forcing it into remediation &lpar;Akila Quinio/Financial Times&rpar;](http://www.techmeme.com/241129/p8#a241129p8)
+ - [Android ‘Find My Device’ Has Gotten a Major Upgrade. Here’s What’s New](https://www.wired.com/story/android-find-my-device-upgrade-whats-new/)
+ - [Meta is building the ‘mother of all’ subsea cables](https://www.theverge.com/2024/11/29/24308746/meta-10-billion-global-subsea-cable-project)
+ - [23 Best Black Friday Laptop Deals &lpar;2024&rpar;: Acer, Apple, Anker](https://www.wired.com/story/best-black-friday-laptop-deals-2024-1/)
+ - [Best deals on smart home gear this Black Friday](https://www.theverge.com/24306780/black-friday-best-deals-smart-home-tech-2024-cyber-monday)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -158,10 +158,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- TECH:START -->
  - [Save up to 40% with Aqara Black Friday deals on Apple Home smart locks, cameras &amp; more](https://appleinsider.com/articles/24/11/29/save-up-to-40-with-aqara-black-friday-deals-on-apple-home-smart-locks-cameras-more?utm_medium=rss)
- - [The best Black Friday smartwatch and fitness tracker deals](https://www.theverge.com/good-deals/24306393/black-friday-2024-best-deals-smartwatch-fitness-tracker-wearables-cyber-monday)
- - [Best Black Friday Deals Live Right Now: 80+ Hot Deals on Tech Gadgets, Kitchen Appliances, Smart Home Tech and More](https://www.cnet.com/deals/best-black-friday-deals-live-2024-11-29/#ftag=CAD590a51e)
- - [The Biggest Black Friday Deals: Online or In-Store?](https://www.cnet.com/deals/the-biggest-black-friday-deals-online-or-in-store/#ftag=CAD590a51e)
- - [The best Black Friday deals we’ve found &lpar;so far&rpar;](https://www.theverge.com/24307545/black-friday-2024-best-deals-tech-gadgets-cyber-monday-gift-ideas)<!-- TECH:END -->
+ - [Best Black Friday Deals Live Right Now: Super Savings on TVs, Laptops, Smart Tech, and More](https://www.cnet.com/deals/best-black-friday-deals-live-2024-11-29/#ftag=CAD590a51e)
+ - [Getting New Glasses? This Is How to Pick the Best Glasses for Your Face Shape and Skin Color](https://www.cnet.com/health/personal-care/this-is-how-to-pick-the-best-glasses-for-your-face-shape-and-skin-color/#ftag=CAD590a51e)
+ - [Get a Robot to Mow Your Lawn with Segway&#39;s 20% Black Friday Discount](https://www.cnet.com/deals/get-a-robot-to-mow-your-lawn-with-segways-20-black-friday-discount/#ftag=CAD590a51e)
+ - [The best Black Friday smartwatch and fitness tracker deals](https://www.theverge.com/good-deals/24306393/black-friday-2024-best-deals-smartwatch-fitness-tracker-wearables-cyber-monday)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

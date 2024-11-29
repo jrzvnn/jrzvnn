@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The best Black Friday deals we’ve found &lpar;so far&rpar;](https://www.theverge.com/24307545/black-friday-2024-best-deals-tech-gadgets-cyber-monday-gift-ideas)
  - [B&amp;H&#39;s Black Friday sale includes 196 noteworthy Apple deals](https://appleinsider.com/articles/24/11/29/bhs-black-friday-sale-includes-196-noteworthy-apple-deals?utm_medium=rss)
  - [Delivery Hero&#39;s Talabat, one of the largest food delivery services in the UAE, sets its Dubai IPO price at the top end of its range and plans to raise ~$2B &lpar;Reuters&rpar;](http://www.techmeme.com/241129/p2#a241129p2)
- - [Filing: Zomato has raised $1B by issuing approximately 336.5M shares at about $3 each, its first major fundraise since its 2021 IPO &lpar;Manish Singh/TechCrunch&rpar;](http://www.techmeme.com/241129/p1#a241129p1)
- - [B&amp;H&#39;s Black Friday Mac mini M4 Deal Zone slashes 2024 desktop to $529](https://appleinsider.com/articles/24/11/29/bhs-black-friday-mac-mini-m4-deal-zone-slashes-2024-desktop-to-529?utm_medium=rss)
- - [Stream These 17 Netflix Sci-Fi TV Shows for Some Out-of-This-World Fun](https://www.cnet.com/tech/services-and-software/best-sci-fi-tv-shows-on-netflix-2024/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Best Black Friday Deals Live Right Now: 80+ Hot Deals on Tech Gadgets, Kitchen Appliances, Smart Home Tech and More](https://www.cnet.com/deals/best-black-friday-deals-live-2024-11-28/#ftag=CAD590a51e)
+ - [Filing: Zomato has raised $1B by issuing approximately 336.5M shares at about $3 each, its first major fundraise since its 2021 IPO &lpar;Manish Singh/TechCrunch&rpar;](http://www.techmeme.com/241129/p1#a241129p1)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [This photograph, taken by Andrew McAuley during his attempt to kayak 991 miles across the Tasman Sea from Australia to New Zealand, captures one of his final moments before he vanished at sea.](http://9gag.com/gag/ajPmm6q)
+ - 😝 [Got the lotion and napkins ready](http://9gag.com/gag/avy5zKq)
  - 😝 [This encounter was meant.](http://9gag.com/gag/ae9ArLW)
- - 💣 [Bro was like: are you f**king serious?](http://9gag.com/gag/an7Q96b)
- - 😝 [Do not buy cheap weapons](http://9gag.com/gag/a87EEmZ)
- - 👉 [WTF! I didn&#39;t know they could do that.](http://9gag.com/gag/aqyjjXj)<!-- MEMES:END -->
+ - 💣 [. . .](http://9gag.com/gag/a87E3np)
+ - 😝 [This photograph, taken by Andrew McAuley during his attempt to kayak 991 miles across the Tasman Sea from Australia to New Zealand, captures one of his final moments before he vanished at sea.](http://9gag.com/gag/ajPmm6q)
+ - 👉 [Whats up with these grape fantasies](http://9gag.com/gag/a7oE3Kr)<!-- MEMES:END -->
 
 ---
 

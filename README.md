@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Carelessness hurt you](http://9gag.com/gag/a1mrQZ8)
- - 😝 [DB Cooper may have been identified! Siblings say their late father was the hijacker after finding a matching parachute. FBI investigating.](http://9gag.com/gag/a87E3WZ)
- - 💣 [The forbidden bend](http://9gag.com/gag/aVv73LP)
- - 😝 [Why it&#39;s important to turn off your high beams!](http://9gag.com/gag/aMVKZ71)
- - 👉 [Bro was like: are you f**king serious?](http://9gag.com/gag/an7Q96b)<!-- MEMES:END -->
+ - 😝 [. . .](http://9gag.com/gag/a87E3np)
+ - 😝 [The forbidden bend](http://9gag.com/gag/aVv73LP)
+ - 💣 [Geniedislikescloud](http://9gag.com/gag/aBy2xdZ)
+ - 😝 [Cheaper than divorce](http://9gag.com/gag/aRBX1KA)
+ - 👉 [DB Cooper may have been identified! Siblings say their late father was the hijacker after finding a matching parachute. FBI investigating.](http://9gag.com/gag/a87E3WZ)<!-- MEMES:END -->
 
 ---
 

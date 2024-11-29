@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [He could be depressed?](http://9gag.com/gag/a9yEKE1)
- - 😝 [When will your Thai girl\u2026](http://9gag.com/gag/azxM99b)
- - 💣 [This encounter was meant.](http://9gag.com/gag/ae9ArLW)
- - 😝 [The forbidden bend](http://9gag.com/gag/aVv73LP)
- - 👉 [Geniedislikescloud](http://9gag.com/gag/aBy2xdZ)<!-- MEMES:END -->
+ - 😝 [Bro was like: are you f**king serious?](http://9gag.com/gag/an7Q96b)
+ - 😝 [Whats up with these grape fantasies](http://9gag.com/gag/a7oE3Kr)
+ - 💣 [The forbidden bend](http://9gag.com/gag/aVv73LP)
+ - 😝 [\u201cDid your genes even fight?\u201d](http://9gag.com/gag/aW4jjLx)
+ - 👉 [WTF! I didn&#39;t know they could do that.](http://9gag.com/gag/aqyjjXj)<!-- MEMES:END -->
 
 ---
 

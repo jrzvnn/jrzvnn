@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Life as a 6ft7 Woman](http://9gag.com/gag/a9yEEeD)
- - 😝 [Phil is dead](http://9gag.com/gag/ayNM90V)
- - 💣 [The moment u know ur officially a WIZARD](http://9gag.com/gag/azxMedj)
- - 😝 [Friday positivity: be disciplined my fellow 9gag enjoyer](http://9gag.com/gag/amoPgNX)
- - 👉 [Funny cuz it&#39;s true](http://9gag.com/gag/aAybb39)<!-- MEMES:END -->
+ - 😝 [I am old](http://9gag.com/gag/aRBXrdy)
+ - 😝 [This encounter was meant.](http://9gag.com/gag/ae9ArLW)
+ - 💣 [Chinese art college entrance exam](http://9gag.com/gag/avy55xd)
+ - 😝 [The Matrix: Mirrored doorknob: There was no way to properly hide the camera, so the director of photography threw a coat onto himself with a tie matching the one Morpheus was wearing, trying to blend in as much as possible.](http://9gag.com/gag/an7QQp5)
+ - 👉 [\u201cDid your genes even fight?\u201d](http://9gag.com/gag/aW4jjLx)<!-- MEMES:END -->
 
 ---
 

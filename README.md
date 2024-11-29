@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Chinese food delivery giant Meituan reports Q3 revenue up 22.4% YoY to $12.9B, net profit up 3x YoY to $1.78B, and core delivery business up 20.2% YoY to $9.57B &lpar;Casey Hall/Reuters&rpar;](http://www.techmeme.com/241129/p4#a241129p4)
+ - [We&#39;re Tracking the Best Black Friday Deals Live 2024](https://www.wired.com/live/black-friday-2024-liveblog/)
+ - [The 15 Best Black Friday Deals From Best Buy &lpar;2024&rpar;](https://www.wired.com/story/best-buy-black-friday-deals-2024/)
  - [202 Absolute Best Black Friday Deals &lpar;2024&rpar;](https://www.wired.com/story/absolute-best-black-friday-deals-2024/)
- - [Black Friday AirPods deals you can&#39;t afford to skip](https://appleinsider.com/articles/24/11/29/black-friday-airpods-deals-you-cant-afford-to-skip?utm_medium=rss)
- - [Sequoia&#39;s former China unit HongShan is pushing for deals in Europe and North Asia, as it struggles to deploy $9B due to a weak domestic market and US controls &lpar;Financial Times&rpar;](http://www.techmeme.com/241129/p3#a241129p3)
- - [Best Black Friday Deals Live Right Now: Super Savings on TVs, Laptops, Smart Tech, and More](https://www.cnet.com/deals/best-black-friday-deals-live-2024-11-29/#ftag=CAD590a51e)
- - [Returning the Amazon Rainforest to Its True Caretakers](https://www.wired.com/story/amazon-rainforest-indigenous-peoples-justice-stewardship/)<!-- TECH:END -->
+ - [Black Friday AirPods deals you can&#39;t afford to skip](https://appleinsider.com/articles/24/11/29/black-friday-airpods-deals-you-cant-afford-to-skip?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

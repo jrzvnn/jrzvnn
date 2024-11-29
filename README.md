@@ -159,9 +159,9 @@ R                        1 repo              ░░░░░░░░░░░�
 <!-- TECH:START -->
  - [ESET researchers find the first UEFI bootkit designed specifically to target Linux systems, marking a shift in bootkits that previously focused on Windows &lpar;Bill Toulas/BleepingComputer&rpar;](http://www.techmeme.com/241128/p24#a241128p24)
  - [24 Best Black Friday Camera Deals &lpar;2024&rpar;](https://www.wired.com/story/best-black-friday-camera-deals-2024/)
- - [Writers and publishers criticize Spines, which raised a $16M seed round and charges authors $1,200 to $5,000 to use AI to edit and distribute their books &lpar;Ella Creamer/The Guardian&rpar;](http://www.techmeme.com/241128/p23#a241128p23)
- - [Best Christmas Gifts 2024: 63 Ideas to Clear Your Holiday List](https://www.cnet.com/tech/best-christmas-gift-ideas/#ftag=CAD590a51e)
- - [Walmart Black Friday Sale: Shop Over 50 of the Best Deals on TVs, Headphones, Kitchen Appliances and More](https://www.cnet.com/deals/walmart-best-black-friday-deals-2024-11-28/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [30+ Black Friday Apple Deals 2024: Major Savings on MacBooks, iPads, AirPods and More](https://www.cnet.com/deals/best-black-friday-apple-deals-2024-11-28/#ftag=CAD590a51e)
+ - [Best Black Friday Deals Live Right Now: 80+ Hot Deals on Tech Gadgets, Kitchen Appliances, Smart Home Tech and More](https://www.cnet.com/deals/best-black-friday-deals-live-2024-11-28/#ftag=CAD590a51e)
+ - [Writers and publishers criticize Spines, which raised a $16M seed round and charges authors $1,200 to $5,000 to use AI to edit and distribute their books &lpar;Ella Creamer/The Guardian&rpar;](http://www.techmeme.com/241128/p23#a241128p23)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

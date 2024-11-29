@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The best Black Friday tech deals we’ve found &lpar;so far&rpar;](https://www.theverge.com/24307545/black-friday-2024-best-deals-tech-gadgets-cyber-monday-gift-ideas)
+ - [The best budget robot vacuums](https://www.theverge.com/23846479/best-budget-robot-vacuum-robot-mop)
  - [The best Black Friday deals we’re seeing on MacBooks and other laptops](https://www.theverge.com/24305977/black-friday-best-deals-laptops-macbook-windows-gaming-cyber-monday-2024)
  - [24 Best Black Friday Camera Deals &lpar;2024&rpar;](https://www.wired.com/story/best-black-friday-camera-deals-2024-1/)
- - [Bluesky replies now default to appear by &quot;hotness&quot;, which weights more recent liked replies more heavily; some say this rewards clout farming like X &lpar;Shannon Connellan/Mashable&rpar;](http://www.techmeme.com/241129/p10#a241129p10)
- - [35 Best Black Friday Gaming Deals &lpar;2024&rpar;, Consoles and Games](https://www.wired.com/story/black-friday-gaming-deals-2024-1/)
- - [Best Therabody Black Friday Deals &lpar;2024&rpar;: LED Masks, Massage](https://www.wired.com/story/black-friday-therabody-deals-1/)<!-- TECH:END -->
+ - [Bluesky replies now default to appear by &quot;hotness&quot;, which weights more recent liked replies more heavily; some say this rewards clout farming like X &lpar;Shannon Connellan/Mashable&rpar;](http://www.techmeme.com/241129/p10#a241129p10)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

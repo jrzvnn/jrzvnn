@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Chinese food delivery giant Meituan reports Q3 revenue up 22.4% YoY to $12.9B, net profit up 3x YoY to $1.78B, and core delivery business up 20.2% YoY to $9.57B &lpar;Casey Hall/Reuters&rpar;](http://www.techmeme.com/241129/p4#a241129p4)
- - [We&#39;re Tracking the Best Black Friday Deals Live 2024](https://www.wired.com/live/black-friday-2024-liveblog/)
- - [The 15 Best Black Friday Deals From Best Buy &lpar;2024&rpar;](https://www.wired.com/story/best-buy-black-friday-deals-2024/)
- - [202 Absolute Best Black Friday Deals &lpar;2024&rpar;](https://www.wired.com/story/absolute-best-black-friday-deals-2024/)
- - [Black Friday AirPods deals you can&#39;t afford to skip](https://appleinsider.com/articles/24/11/29/black-friday-airpods-deals-you-cant-afford-to-skip?utm_medium=rss)<!-- TECH:END -->
+ - [The Best Black Friday Air Fryer and Kitchen Deals &lpar;2024&rpar;](https://www.wired.com/story/black-friday-kitchen-deals-2024/)
+ - [15 Best Black Friday Toy Deals &lpar;2024&rpar;: Lego and Board Games](https://www.wired.com/story/black-friday-2024-toy-deals/)
+ - [Grab a Free Bag of Coffee From Atlas Coffee Club With Our Exclusive Black Friday Coupon Code](https://www.cnet.com/deals/grab-a-free-bag-of-coffee-from-atlas-coffee-club-with-our-exclusive-black-friday-coupon-code/#ftag=CAD590a51e)
+ - [There&#39;s Only One 5% Savings Account Left. Today&#39;s Daily Savings Rates, Nov. 29, 2024](https://www.cnet.com/personal-finance/banking/theres-only-one-5-savings-account-left-todays-daily-savings-rates-nov-29-2024/#ftag=CAD590a51e)
+ - [All of our favorite robot vacuums are seeing steep discounts for Black Friday](https://www.theverge.com/24306781/black-friday-2024-best-deals-robot-vacuums-mops-roombas-cyber-monday)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Them](http://9gag.com/gag/aW4j1GA)
  - 😝 [When will your Thai girl\u2026](http://9gag.com/gag/azxM99b)
- - 💣 [\u201cDid your genes even fight?\u201d](http://9gag.com/gag/aW4jjLx)
- - 😝 [This encounter was meant.](http://9gag.com/gag/ae9ArLW)
- - 👉 [The forbidden bend](http://9gag.com/gag/aVv73LP)<!-- MEMES:END -->
+ - 😝 [Good vibes](http://9gag.com/gag/a1mrQ9Y)
+ - 💣 [DB Cooper may have been identified! Siblings say their late father was the hijacker after finding a matching parachute. FBI investigating.](http://9gag.com/gag/a87E3WZ)
+ - 😝 [That&#39;s what you call a prank](http://9gag.com/gag/aNDp1OA)
+ - 👉 [Life as a 6ft7 Woman](http://9gag.com/gag/a9yEEeD)<!-- MEMES:END -->
 
 ---
 

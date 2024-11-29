@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The 23 Best Black Friday Deals From Best Buy &lpar;2024&rpar;](https://www.wired.com/story/best-buy-black-friday-deals-2024-1/)
- - [The 12 best TV deals you can grab for Black Friday](https://www.theverge.com/24307741/black-friday-tv-deals-lg-samsung-sony-tcl-cyber-monday-2024)
- - [LIVE: We’re Tracking the Best Black Friday Deals Real-Time 2024](https://www.wired.com/live/black-friday-2024-liveblog/)
- - [The best Black Friday tech deals we’ve found &lpar;so far&rpar;](https://www.theverge.com/24307545/black-friday-2024-best-deals-tech-gadgets-cyber-monday-gift-ideas)
- - [The best budget robot vacuums](https://www.theverge.com/23846479/best-budget-robot-vacuum-robot-mop)<!-- TECH:END -->
+ - [The best smartwatches for Android](https://www.theverge.com/23449363/best-android-smartwatches-wear-os)
+ - [Samsung Galaxy S24 FE review: reasonable price, telephoto camera, and a big screen, but the screen isn&#39;t that sharp and other ~$500 phones offer more value &lpar;Allison Johnson/The Verge&rpar;](http://www.techmeme.com/241129/p11#a241129p11)
+ - [Apple’s latest AirPods Pro are cheaper than the AirPods 4 right now](https://www.theverge.com/2024/11/26/24306522/apple-airpods-pro-2-usb-c-earbuds-black-friday-deal-sale)
+ - [Best Black Friday Mattress Deals for Sweet Dreams &lpar;2024&rpar;](https://www.wired.com/story/best-black-friday-mattress-deals-2024-1/)
+ - [The 23 Best Black Friday Deals From Best Buy &lpar;2024&rpar;](https://www.wired.com/story/best-buy-black-friday-deals-2024-1/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

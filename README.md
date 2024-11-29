@@ -166,9 +166,9 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [This photograph, taken by Andrew McAuley during his attempt to kayak 991 miles across the Tasman Sea from Australia to New Zealand, captures one of his final moments before he vanished at sea.](http://9gag.com/gag/ajPmm6q)
  - 😝 [This encounter was meant.](http://9gag.com/gag/ae9ArLW)
- - 😝 [\u201cDid your genes even fight?\u201d](http://9gag.com/gag/aW4jjLx)
- - 💣 [Life as a 6ft7 Woman](http://9gag.com/gag/a9yEEeD)
+ - 💣 [Bro was like: are you f**king serious?](http://9gag.com/gag/an7Q96b)
  - 😝 [Do not buy cheap weapons](http://9gag.com/gag/a87EEmZ)
  - 👉 [WTF! I didn&#39;t know they could do that.](http://9gag.com/gag/aqyjjXj)<!-- MEMES:END -->
 

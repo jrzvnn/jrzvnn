@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The EU ends its long-running probe into whether Amazon received illegal tax benefits worth &amp;euro;250M from Luxembourg, where Amazon&#39;s EU HQ is, after court losses &lpar;Natasha Lomas/TechCrunch&rpar;](http://www.techmeme.com/241128/p21#a241128p21)
- - [Details of Australia&#39;s social media ban for kids remain unclear, such as how to enforce it and what platforms it covers; kids and parents won&#39;t face punishment &lpar;Victoria Kim/New York Times&rpar;](http://www.techmeme.com/241128/p20#a241128p20)
- - [The Best All-Clad Black Friday Deals](https://www.wired.com/story/black-friday-2024-all-clad-deals/)
- - [Black Friday iMac sale: grab M4 all-in-one desktop for just $1,149.99](https://appleinsider.com/articles/24/11/28/black-friday-imac-sale-grab-m4-all-in-one-desktop-for-just-114999?utm_medium=rss)
- - [Best Black Friday Deals Live Right Now: 80+ Hot Deals on Tech Gadgets, Kitchen Appliances, Smart Home Tech and More](https://www.cnet.com/deals/best-black-friday-deals-live-2024-11-28/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [The German government plans new chip subsidies, sources say about &amp;euro;2B, two months after Intel shelved plans to build a &amp;euro;30B factory in Magdeburg &lpar;Christina Kyriasoglou/Bloomberg&rpar;](http://www.techmeme.com/241128/p22#a241128p22)
+ - [Best Black Friday Deals Live Right Now: 80+ Hot Deals on Tech Gadgets, Kitchen Appliances, Smart Home Tech and More](https://www.cnet.com/deals/best-black-friday-deals-live-2024-11-28/#ftag=CAD590a51e)
+ - [145 Best Black Friday Deals Ready on Thanksgiving Day](https://www.wired.com/story/early-black-friday-deals-2024-3/)
+ - [31 Best Black Friday Deals Under $50: Save Big on Tech, Home and Essentials](https://www.cnet.com/deals/best-black-friday-deals-under-50-2024-11-28/#ftag=CAD590a51e)
+ - [39 Black Friday Deals Under $100: The Best Bargains on Tech and Home Goods From Top Brands](https://www.cnet.com/deals/best-black-friday-deals-under-100-2024-11-28/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

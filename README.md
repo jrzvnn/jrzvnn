@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [30 Best Black Friday Deals Under $50 &lpar;2024&rpar;](https://www.wired.com/story/black-friday-2024-deals-under-50/)
  - [The Best Black Friday Deals for MAGA, Conspiracists, and Extremists](https://www.wired.com/story/the-best-black-friday-deals-for-maga-conspiracists-and-extremists/)
  - [15 Best Apple Black Friday Deals &lpar;2024&rpar;: MacBooks, iPads, AirPods](https://www.wired.com/story/apple-black-friday-deals-2024-1/)
  - [Huawei&#39;s New Phone Lets You Transfer Photos With Hand Gestures](https://www.cnet.com/tech/mobile/huawei-new-phone-lets-you-transfer-photos-with-hand-gestures/#ftag=CAD590a51e)
- - [ProRes Log Video on iPhone: What Is It and Should You Use It?](https://www.cnet.com/tech/mobile/prores-log-video-on-iphone-16-pro-15-pro-what-is-it-should-you-use-it/#ftag=CAD590a51e)
- - [NFL Black Friday Game: How to Watch, Stream Raiders vs. Chiefs Today on Prime Video](https://www.cnet.com/tech/services-and-software/nfl-black-friday-game-how-to-watch-stream-raiders-vs-chiefs-today-on-prime-video/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [ProRes Log Video on iPhone: What Is It and Should You Use It?](https://www.cnet.com/tech/mobile/prores-log-video-on-iphone-16-pro-15-pro-what-is-it-should-you-use-it/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

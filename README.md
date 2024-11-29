@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [We&#39;re Tracking the Best Black Friday Deals Live 2024](https://www.wired.com/live/black-friday-2024-liveblog/)
- - [Japan allocates another $9.9B to boost its chip, quantum computing, and AI endeavors, with an undisclosed amount going to chip startup Rapidus &lpar;Bloomberg&rpar;](http://www.techmeme.com/241129/p6#a241129p6)
- - [Siri, iOS 19, and making a portable Mac mini on the AppleInsider Podcast](https://appleinsider.com/articles/24/11/29/siri-ios-19-and-making-a-portable-mac-mini-on-the-appleinsider-podcast?utm_medium=rss)
- - [215 Absolute Best Black Friday Deals &lpar;2024&rpar;](https://www.wired.com/story/absolute-best-black-friday-deals-2024/)
- - [Running Gear Guide: Bundle Up It&#39;s Getting Cold Outside](https://www.cnet.com/health/fitness/running-gear-guide-bundle-up-its-getting-cold-outside/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [The 16 Best Holiday Movies to Stream This Season: Netflix, Hulu, Amazon, Disney+](https://www.wired.com/story/holiday-movie-streaming-guide/)
+ - [Staff home favorites that are on sale for Black Friday right now](https://www.theverge.com/24307425/black-friday-best-deals-tech-staff-picks-cyber-monday-2024)
+ - [Grab the new Apple Watch Series 10 for just $329 in this Black Friday sale](https://appleinsider.com/articles/24/11/29/grab-the-new-apple-watch-series-10-for-just-329-in-this-black-friday-sale?utm_medium=rss)
+ - [11 Black Friday TV Deals to Grab Ahead of the Hordes &lpar;2024&rpar;](https://www.wired.com/story/early-black-friday-tv-deals-2024-2/)
+ - [Sources: Meta plans to build a 40K+ km-long fiber optic subsea cable extending around the world, a project that could cost more than $10B &lpar;Ingrid Lunden/TechCrunch&rpar;](http://www.techmeme.com/241129/p7#a241129p7)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

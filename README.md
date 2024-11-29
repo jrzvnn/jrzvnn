@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The best Black Friday deals we’ve found &lpar;so far&rpar;](https://www.theverge.com/24307545/black-friday-2024-best-deals-tech-gadgets-cyber-monday-gift-ideas)
  - [Black Friday Apple deals: live 2024 sales on Mac, iPad, Apple Watch, iPhone &amp; more](https://appleinsider.com/articles/24/11/29/black-friday-apple-deals-live-2024-sales-on-mac-ipad-apple-watch-iphone-more?utm_medium=rss)
  - [Nomad Black Friday Sale 2024: Deals on Chargers, iPhone Cases](https://www.wired.com/story/nomad-black-friday-sale-2024-1/)
  - [We&#39;re Tracking the Best Black Friday Deals Live 2024](https://www.wired.com/live/black-friday-2024-liveblog/)
- - [14 Best Black Friday Travel Deals &lpar;2024&rpar;: Suitcases and Luggage](https://www.wired.com/story/black-friday-2024-travel-deals/)
- - [Best Black Friday Beauty and Hair Deals &lpar;2024&rpar;](https://www.wired.com/story/black-friday-beauty-and-hair-deals/)<!-- TECH:END -->
+ - [14 Best Black Friday Travel Deals &lpar;2024&rpar;: Suitcases and Luggage](https://www.wired.com/story/black-friday-2024-travel-deals/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

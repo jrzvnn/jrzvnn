@@ -166,10 +166,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [How is he not passed out in the ground?](http://9gag.com/gag/a0e7Q2d)
  - 😝 [This encounter was meant.](http://9gag.com/gag/ae9ArLW)
- - 💣 [WTF! I didn&#39;t know they could do that.](http://9gag.com/gag/aqyjjXj)
- - 😝 [Blast blows out windows behind wedding couple](http://9gag.com/gag/azxM1Pm)
+ - 😝 [Seriously do it!](http://9gag.com/gag/aKG6m61)
+ - 💣 [Blast blows out windows behind wedding couple](http://9gag.com/gag/azxM1Pm)
+ - 😝 [How is he not passed out in the ground?](http://9gag.com/gag/a0e7Q2d)
  - 👉 [Is it hard?](http://9gag.com/gag/aD2dDp9)<!-- MEMES:END -->
 
 ---

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The 23 Best Black Friday Deals From Best Buy &lpar;2024&rpar;](https://www.wired.com/story/best-buy-black-friday-deals-2024-1/)
  - [The 12 best TV deals you can grab for Black Friday](https://www.theverge.com/24307741/black-friday-tv-deals-lg-samsung-sony-tcl-cyber-monday-2024)
  - [LIVE: We’re Tracking the Best Black Friday Deals Real-Time 2024](https://www.wired.com/live/black-friday-2024-liveblog/)
  - [The best Black Friday tech deals we’ve found &lpar;so far&rpar;](https://www.theverge.com/24307545/black-friday-2024-best-deals-tech-gadgets-cyber-monday-gift-ideas)
- - [The best budget robot vacuums](https://www.theverge.com/23846479/best-budget-robot-vacuum-robot-mop)
- - [The best Black Friday deals we’re seeing on MacBooks and other laptops](https://www.theverge.com/24305977/black-friday-best-deals-laptops-macbook-windows-gaming-cyber-monday-2024)<!-- TECH:END -->
+ - [The best budget robot vacuums](https://www.theverge.com/23846479/best-budget-robot-vacuum-robot-mop)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

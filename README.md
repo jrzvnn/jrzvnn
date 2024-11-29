@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [29 Best Black Friday Gaming Deals &lpar;2024&rpar;, Consoles and Games](https://www.wired.com/story/black-friday-gaming-deals-2024/)
- - [Today&#39;s NYT Strands Hints, Answers and Help for Nov. 29, #271](https://www.cnet.com/tech/gaming/todays-nyt-strands-hints-answers-and-help-for-nov-29-271/#ftag=CAD590a51e)
- - [Today&#39;s NYT Connections Hints, Answers and Help for Nov. 29, #537](https://www.cnet.com/tech/gaming/todays-nyt-connections-hints-answers-and-help-for-nov-29-537/#ftag=CAD590a51e)
- - [Today&#39;s Wordle Hints, Answer and Help for Nov. 29, #1259](https://www.cnet.com/tech/gaming/todays-wordle-hints-answer-and-help-for-nov-29-1259/#ftag=CAD590a51e)
- - [Black Friday Laptop Deals: Save Up to $1,300 Off Top Brands, Including Apple, HP and Many Others](https://www.cnet.com/deals/best-black-friday-laptop-deals-2024-11-28/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [B&amp;H&#39;s Black Friday Mac mini M4 Deal Zone slashes 2024 desktop to $529](https://appleinsider.com/articles/24/11/29/bhs-black-friday-mac-mini-m4-deal-zone-slashes-2024-desktop-to-529?utm_medium=rss)
+ - [Stream These 17 Netflix Sci-Fi TV Shows for Some Out-of-This-World Fun](https://www.cnet.com/tech/services-and-software/best-sci-fi-tv-shows-on-netflix-2024/#ftag=CAD590a51e)
+ - [Grab best robot vacuum and mop deals from $139 during Roborock 2024 Black Friday sales promotion](https://appleinsider.com/articles/24/11/29/grab-best-robot-vacuum-and-mop-deals-from-139-during-roborock-2024-black-friday-sales-promotion?utm_medium=rss)
+ - [Best Black Friday Deals Live Right Now: 80+ Hot Deals on Tech Gadgets, Kitchen Appliances, Smart Home Tech and More](https://www.cnet.com/deals/best-black-friday-deals-live-2024-11-28/#ftag=CAD590a51e)
+ - [29 Best Black Friday Gaming Deals &lpar;2024&rpar;, Consoles and Games](https://www.wired.com/story/black-friday-gaming-deals-2024/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

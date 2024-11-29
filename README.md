@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The 16 Best Holiday Movies to Stream This Season: Netflix, Hulu, Amazon, Disney+](https://www.wired.com/story/holiday-movie-streaming-guide/)
- - [Staff home favorites that are on sale for Black Friday right now](https://www.theverge.com/24307425/black-friday-best-deals-tech-staff-picks-cyber-monday-2024)
- - [Grab the new Apple Watch Series 10 for just $329 in this Black Friday sale](https://appleinsider.com/articles/24/11/29/grab-the-new-apple-watch-series-10-for-just-329-in-this-black-friday-sale?utm_medium=rss)
- - [11 Black Friday TV Deals to Grab Ahead of the Hordes &lpar;2024&rpar;](https://www.wired.com/story/early-black-friday-tv-deals-2024-2/)
- - [Sources: Meta plans to build a 40K+ km-long fiber optic subsea cable extending around the world, a project that could cost more than $10B &lpar;Ingrid Lunden/TechCrunch&rpar;](http://www.techmeme.com/241129/p7#a241129p7)<!-- TECH:END -->
+ - [The Best Black Friday Deals for MAGA, Conspiracists, and Extremists](https://www.wired.com/story/the-best-black-friday-deals-for-maga-conspiracists-and-extremists/)
+ - [15 Best Apple Black Friday Deals &lpar;2024&rpar;: MacBooks, iPads, AirPods](https://www.wired.com/story/apple-black-friday-deals-2024-1/)
+ - [Huawei&#39;s New Phone Lets You Transfer Photos With Hand Gestures](https://www.cnet.com/tech/mobile/huawei-new-phone-lets-you-transfer-photos-with-hand-gestures/#ftag=CAD590a51e)
+ - [ProRes Log Video on iPhone: What Is It and Should You Use It?](https://www.cnet.com/tech/mobile/prores-log-video-on-iphone-16-pro-15-pro-what-is-it-should-you-use-it/#ftag=CAD590a51e)
+ - [NFL Black Friday Game: How to Watch, Stream Raiders vs. Chiefs Today on Prime Video](https://www.cnet.com/tech/services-and-software/nfl-black-friday-game-how-to-watch-stream-raiders-vs-chiefs-today-on-prime-video/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

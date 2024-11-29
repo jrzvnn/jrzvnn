@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [LIVE: We’re Tracking the Best Black Friday Deals Real-Time 2024](https://www.wired.com/live/black-friday-2024-liveblog/)
+ - [26 Best Black Friday Headphone Deals &lpar;2024&rpar;](https://www.wired.com/story/black-friday-headphone-deals-2024-1/)
  - [Report: Russia arrested notorious cybercriminal Mikhail Matveev for developing malware and running hacking groups; US DOJ filed charges against him in 2023 &lpar;Sergiu Gatlan/BleepingComputer&rpar;](http://www.techmeme.com/241129/p12#a241129p12)
  - [7 best Black Friday iPad deals 2024: save up to $1,000](https://appleinsider.com/articles/24/11/29/7-best-black-friday-ipad-deals-2024-save-up-to-1000?utm_medium=rss)
- - [Best Black Friday Beauty and Hair Deals &lpar;2024&rpar;](https://www.wired.com/story/black-friday-beauty-and-hair-deals/)
- - [The best Black Friday deals on AirPods, AirTags, and other Apple tech](https://www.theverge.com/24305511/black-friday-apple-best-deals-2024-macbook-airpods-cyber-monday)
- - [The best Black Friday gaming deals you can shop right now](https://www.theverge.com/24303477/black-friday-best-deals-gaming-nintendo-playstation-xbox-cyber-monday-2024)<!-- TECH:END -->
+ - [Best Black Friday Deals for Beauty and Hair Tools &lpar;2024&rpar; | WIRED](https://www.wired.com/story/black-friday-beauty-and-hair-deals/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

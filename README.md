@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [That&#39;s what you call a prank](http://9gag.com/gag/aNDp1OA)
- - 😝 [Bro was like: are you f**king serious?](http://9gag.com/gag/an7Q96b)
- - 💣 [. . .](http://9gag.com/gag/a87E3np)
- - 😝 [It has been 999 days since the break of 1000 year `Killing Stone`, Sessho-seki. In Japanese mythology this released the 9-tailed fox demon named Tamamo-no-Mae.](http://9gag.com/gag/aQzo39K)
- - 👉 [The forbidden bend](http://9gag.com/gag/aVv73LP)<!-- MEMES:END -->
+ - 😝 [Four dollars worth of pain](http://9gag.com/gag/a6ZEErm)
+ - 😝 [He could be depressed?](http://9gag.com/gag/a9yEKE1)
+ - 💣 [Bro was like: are you f**king serious?](http://9gag.com/gag/an7Q96b)
+ - 😝 [This encounter was meant.](http://9gag.com/gag/ae9ArLW)
+ - 👉 [Why it&#39;s important to turn off your high beams!](http://9gag.com/gag/aMVKZ71)<!-- MEMES:END -->
 
 ---
 

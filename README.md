@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [MicroStrategy is now the largest corporate holder of bitcoins, owning ~2% of them, and its stock is up 450%+ this year, as its risky bitcoin strategy continues &lpar;Craig Coben/Financial Times&rpar;](http://www.techmeme.com/241129/p14#a241129p14)
+ - [You can take a selfie with the Earth using this YouTuber’s satellite](https://www.theverge.com/2024/11/29/24309059/earth-selfie-satellite-mark-rober-youtube-spacex-tmobile)
+ - [Here are the best Black Friday deals you can grab for under $30](https://www.theverge.com/24306407/black-friday-2024-best-deals-under-30-tech-gift-ideas-cyber-monday)
  - [The best Black Friday deals you may want to get before Trump’s tariffs](https://www.theverge.com/24305982/black-friday-2024-best-deals-tariffs-trump-save-ideas-cyber-monday)
- - [20 Best Black Friday Deals on Bedding for Your Holiday Shopping](https://www.cnet.com/deals/best-black-friday-bedding-deals-2024/#ftag=CAD590a51e)
- - [We&#39;re Tracking the 80+ Best Black Friday 2024 Deals Live](https://www.cnet.com/deals/best-black-friday-deals-2024-11-29/#ftag=CAD590a51e)
- - [261 Absolute Best Black Friday Deals &lpar;2024&rpar;](https://www.wired.com/story/absolute-best-black-friday-deals-2024/)
- - [I Unlocked 24 of the Best Black Friday Phone Deals From Apple, Google and Samsung](https://www.cnet.com/deals/best-black-friday-phone-deals-2024-11-29/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [20 Best Black Friday Deals on Bedding for Your Holiday Shopping](https://www.cnet.com/deals/best-black-friday-bedding-deals-2024/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

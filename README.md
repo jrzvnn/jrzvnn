@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [25 Best Walmart Black Friday Deals &lpar;2024&rpar;](https://www.wired.com/story/walmart-deals-november-2024-2/)
- - [Our biggest stories and favorite things of 2024](https://www.theverge.com/2024/11/29/24307364/biggest-tech-stories-2024-favorite-things)
- - [Sources: European regulators rebuked Wise in 2022 after finding it lacked proof of address for hundreds of thousands of customers, forcing it into remediation &lpar;Akila Quinio/Financial Times&rpar;](http://www.techmeme.com/241129/p8#a241129p8)
- - [Android ‘Find My Device’ Has Gotten a Major Upgrade. Here’s What’s New](https://www.wired.com/story/android-find-my-device-upgrade-whats-new/)
- - [Meta is building the ‘mother of all’ subsea cables](https://www.theverge.com/2024/11/29/24308746/meta-10-billion-global-subsea-cable-project)<!-- TECH:END -->
+ - [235 Absolute Best Black Friday Deals &lpar;2024&rpar;](https://www.wired.com/story/absolute-best-black-friday-deals-2024/)
+ - [Renovating your house? Black Friday is a surprisingly good time to buy light fixtures](https://www.theverge.com/2024/11/29/24308140/black-friday-lighting-deals-2024-pendant-sconce-flush-mount)
+ - [Ray-Ban Meta smart glasses come with a $90 credit on top of new all-time low price](https://www.theverge.com/2024/11/29/24308708/ray-ban-meta-smart-glasses-black-friday-deal-sale)
+ - [Best Black Friday Phone Deals &lpar;2024&rpar;, Including Cases Too](https://www.wired.com/story/black-friday-phone-deals-2024-1/)
+ - [25 Best Walmart Black Friday Deals &lpar;2024&rpar;](https://www.wired.com/story/walmart-deals-november-2024-2/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

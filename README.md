@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Best Kindle Black Friday Deals and Amazon Device Sales &lpar;2024&rpar;](https://www.wired.com/story/black-friday-amazon-devices-deals-2024-1/)
  - [Max, Hulu, and Paramount Plus are all heavily discounted for Black Friday](https://www.theverge.com/24306534/black-friday-2024-streaming-best-deals-max-hulu-peacock-paramount-plus-cyber-monday)
  - [30 Best Black Friday Deals Under $50 &lpar;2024&rpar;](https://www.wired.com/story/black-friday-2024-deals-under-50/)
  - [The Best Black Friday Deals for MAGA, Conspiracists, and Extremists](https://www.wired.com/story/the-best-black-friday-deals-for-maga-conspiracists-and-extremists/)
- - [15 Best Apple Black Friday Deals &lpar;2024&rpar;: MacBooks, iPads, AirPods](https://www.wired.com/story/apple-black-friday-deals-2024-1/)
- - [Huawei&#39;s New Phone Lets You Transfer Photos With Hand Gestures](https://www.cnet.com/tech/mobile/huawei-new-phone-lets-you-transfer-photos-with-hand-gestures/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [15 Best Apple Black Friday Deals &lpar;2024&rpar;: MacBooks, iPads, AirPods](https://www.wired.com/story/apple-black-friday-deals-2024-1/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [. . .](http://9gag.com/gag/a87E3np)
- - 😝 [The forbidden bend](http://9gag.com/gag/aVv73LP)
- - 💣 [Geniedislikescloud](http://9gag.com/gag/aBy2xdZ)
- - 😝 [Cheaper than divorce](http://9gag.com/gag/aRBX1KA)
- - 👉 [DB Cooper may have been identified! Siblings say their late father was the hijacker after finding a matching parachute. FBI investigating.](http://9gag.com/gag/a87E3WZ)<!-- MEMES:END -->
+ - 😝 [Interstellar Travel at the speed of light.](http://9gag.com/gag/an7Q55z)
+ - 😝 [Wholesome posts that I saved #10](http://9gag.com/gag/aGypg5w)
+ - 💣 [Krampus parade](http://9gag.com/gag/adB852Z)
+ - 😝 [Dog be like : `can we talk in person for a minute, i think that&#39;s not a regular cat?`](http://9gag.com/gag/agmBAAK)
+ - 👉 [Funny cuz it&#39;s true](http://9gag.com/gag/aAybb39)<!-- MEMES:END -->
 
 ---
 

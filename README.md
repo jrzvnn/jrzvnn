@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Sometimes I wake up grumpy, other times I let her sleep.](http://9gag.com/gag/a87E5RQ)
- - 😝 [Chinese art college entrance exam](http://9gag.com/gag/avy55xd)
- - 💣 [The Matrix: Mirrored doorknob: There was no way to properly hide the camera, so the director of photography threw a coat onto himself with a tie matching the one Morpheus was wearing, trying to blend in as much as possible.](http://9gag.com/gag/an7QQp5)
- - 😝 [When will your Thai girl\u2026](http://9gag.com/gag/azxM99b)
- - 👉 [Bro was like: are you f**king serious?](http://9gag.com/gag/an7Q96b)<!-- MEMES:END -->
+ - 😝 [The Matrix: Mirrored doorknob: There was no way to properly hide the camera, so the director of photography threw a coat onto himself with a tie matching the one Morpheus was wearing, trying to blend in as much as possible.](http://9gag.com/gag/an7QQp5)
+ - 😝 [Do not buy cheap weapons](http://9gag.com/gag/a87EEmZ)
+ - 💣 [Got the lotion and napkins ready](http://9gag.com/gag/avy5zKq)
+ - 😝 [Life as a 6ft7 Woman](http://9gag.com/gag/a9yEEeD)
+ - 👉 [Chinese art college entrance exam](http://9gag.com/gag/avy55xd)<!-- MEMES:END -->
 
 ---
 

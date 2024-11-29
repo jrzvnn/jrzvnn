@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Whats up with these grape fantasies](http://9gag.com/gag/a7oE3Kr)
- - 😝 [Poland](http://9gag.com/gag/avy5oXq)
- - 💣 [Geniedislikescloud](http://9gag.com/gag/aBy2xdZ)
- - 😝 [. . .](http://9gag.com/gag/a87E3np)
- - 👉 [I clearly warned you](http://9gag.com/gag/aAybb6o)<!-- MEMES:END -->
+ - 😝 [Farming simulator gives me immense satisfaction.](http://9gag.com/gag/aW4jx3Z)
+ - 😝 [Wholesome posts that I saved #10](http://9gag.com/gag/aGypg5w)
+ - 💣 [Krampus parade](http://9gag.com/gag/adB852Z)
+ - 😝 [Dog be like : `can we talk in person for a minute, i think that&#39;s not a regular cat?`](http://9gag.com/gag/agmBAAK)
+ - 👉 [True man](http://9gag.com/gag/aKG67nb)<!-- MEMES:END -->
 
 ---
 

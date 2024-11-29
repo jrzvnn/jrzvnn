@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [When will your Thai girl\u2026](http://9gag.com/gag/azxM99b)
- - 😝 [Good vibes](http://9gag.com/gag/a1mrQ9Y)
- - 💣 [DB Cooper may have been identified! Siblings say their late father was the hijacker after finding a matching parachute. FBI investigating.](http://9gag.com/gag/a87E3WZ)
- - 😝 [That&#39;s what you call a prank](http://9gag.com/gag/aNDp1OA)
- - 👉 [Life as a 6ft7 Woman](http://9gag.com/gag/a9yEEeD)<!-- MEMES:END -->
+ - 😝 [Wholesome posts that I saved #10](http://9gag.com/gag/aGypg5w)
+ - 😝 [Krampus parade](http://9gag.com/gag/adB852Z)
+ - 💣 [Dolph Lundgren reveals he\u2019s cancer-free following 9-year battle after doctors gave him only 2 years.](http://9gag.com/gag/aXPooz9)
+ - 😝 [True man](http://9gag.com/gag/aKG67nb)
+ - 👉 [Dog be like : `can we talk in person for a minute, i think that&#39;s not a regular cat?`](http://9gag.com/gag/agmBAAK)<!-- MEMES:END -->
 
 ---
 

@@ -166,10 +166,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [. . .](http://9gag.com/gag/a87E3np)
- - 😝 [When will your Thai girl\u2026](http://9gag.com/gag/azxM99b)
- - 💣 [Whats up with these grape fantasies](http://9gag.com/gag/a7oE3Kr)
- - 😝 [WTF! I didn&#39;t know they could do that.](http://9gag.com/gag/aqyjjXj)
+ - 😝 [This encounter was meant.](http://9gag.com/gag/ae9ArLW)
+ - 😝 [Bro was like: are you f**king serious?](http://9gag.com/gag/an7Q96b)
+ - 💣 [WTF! I didn&#39;t know they could do that.](http://9gag.com/gag/aqyjjXj)
+ - 😝 [The forbidden bend](http://9gag.com/gag/aVv73LP)
  - 👉 [Life as a 6ft7 Woman](http://9gag.com/gag/a9yEEeD)<!-- MEMES:END -->
 
 ---

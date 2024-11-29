@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Branch Black Friday Sale &lpar;2024&rpar;: Deals on Office Chairs](https://www.wired.com/story/branch-black-friday-sale-2024-1/)
- - [The best Black Friday deals we’ve found &lpar;so far&rpar;](https://www.theverge.com/24307545/black-friday-2024-best-deals-tech-gadgets-cyber-monday-gift-ideas)
- - [Black Friday Apple deals: live 2024 sales on Mac, iPad, Apple Watch, iPhone &amp; more](https://appleinsider.com/articles/24/11/29/black-friday-apple-deals-live-2024-sales-on-mac-ipad-apple-watch-iphone-more?utm_medium=rss)
- - [Nomad Black Friday Sale 2024: Deals on Chargers, iPhone Cases](https://www.wired.com/story/nomad-black-friday-sale-2024-1/)
- - [We&#39;re Tracking the Best Black Friday Deals Live 2024](https://www.wired.com/live/black-friday-2024-liveblog/)<!-- TECH:END -->
+ - [We&#39;re Tracking the Best Black Friday Deals Live 2024](https://www.wired.com/live/black-friday-2024-liveblog/)
+ - [Japan allocates another $9.9B to boost its chip, quantum computing, and AI endeavors, with an undisclosed amount going to chip startup Rapidus &lpar;Bloomberg&rpar;](http://www.techmeme.com/241129/p6#a241129p6)
+ - [Siri, iOS 19, and making a portable Mac mini on the AppleInsider Podcast](https://appleinsider.com/articles/24/11/29/siri-ios-19-and-making-a-portable-mac-mini-on-the-appleinsider-podcast?utm_medium=rss)
+ - [215 Absolute Best Black Friday Deals &lpar;2024&rpar;](https://www.wired.com/story/absolute-best-black-friday-deals-2024/)
+ - [Running Gear Guide: Bundle Up It&#39;s Getting Cold Outside](https://www.cnet.com/health/fitness/running-gear-guide-bundle-up-its-getting-cold-outside/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

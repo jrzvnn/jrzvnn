@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Didi reports Q3 revenue up 5% YoY to $7.44B and a net income of $128M, its second straight quarterly profit, as the company prepares for a Hong Kong IPO &lpar;Claire Che/Bloomberg&rpar;](http://www.techmeme.com/241129/p5#a241129p5)
- - [12 Best Black Friday Coffee and Espresso Deals &lpar;2024&rpar;](https://www.wired.com/story/black-friday-coffee-deals/)
- - [Rokid Max 2 AR Glasses review: Hardware shines, software needs polish](https://appleinsider.com/articles/24/11/28/rokid-max-2-ar-glasses-review-hardwire-shines-software-needs-polish?utm_medium=rss)
- - [The US Army&#39;s Vision of Soldiers in Exoskeletons Lives On](https://www.wired.com/story/the-us-armys-vision-of-an-exoskeleton-future-lives-on/)
- - [22 Best Black Friday Headphone Deals &lpar;2024&rpar;](https://www.wired.com/story/black-friday-headphone-deals-2024/)<!-- TECH:END -->
+ - [We&#39;re Tracking the Best Black Friday Deals Live 2024](https://www.wired.com/live/black-friday-2024-liveblog/)
+ - [14 Best Black Friday Travel Deals &lpar;2024&rpar;: Suitcases and Luggage](https://www.wired.com/story/black-friday-2024-travel-deals/)
+ - [Best Black Friday Beauty and Hair Deals &lpar;2024&rpar;](https://www.wired.com/story/black-friday-beauty-and-hair-deals/)
+ - [Our Favorite Black Friday T-Mobile Deals: Grab Deals on Phones, Smartwatches and More](https://www.cnet.com/deals/our-favorite-black-friday-t-mobile-deals-grab-deals-on-phones-smartwatches-and-more/#ftag=CAD590a51e)
+ - [Best Toys for Kids of All Ages in 2024: Hottest Holiday Gift Ideas](https://www.cnet.com/culture/entertainment/best-toys-for-kids/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Wholesome posts that I saved #10](http://9gag.com/gag/aGypg5w)
- - 😝 [Krampus parade](http://9gag.com/gag/adB852Z)
- - 💣 [Dolph Lundgren reveals he\u2019s cancer-free following 9-year battle after doctors gave him only 2 years.](http://9gag.com/gag/aXPooz9)
- - 😝 [True man](http://9gag.com/gag/aKG67nb)
- - 👉 [Dog be like : `can we talk in person for a minute, i think that&#39;s not a regular cat?`](http://9gag.com/gag/agmBAAK)<!-- MEMES:END -->
+ - 😝 [. . .](http://9gag.com/gag/a87E3np)
+ - 😝 [When will your Thai girl\u2026](http://9gag.com/gag/azxM99b)
+ - 💣 [Whats up with these grape fantasies](http://9gag.com/gag/a7oE3Kr)
+ - 😝 [WTF! I didn&#39;t know they could do that.](http://9gag.com/gag/aqyjjXj)
+ - 👉 [Life as a 6ft7 Woman](http://9gag.com/gag/a9yEEeD)<!-- MEMES:END -->
 
 ---
 

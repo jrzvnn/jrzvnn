@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The best Black Friday gaming deals you can shop right now](https://www.theverge.com/24303477/black-friday-best-deals-gaming-nintendo-playstation-xbox-cyber-monday-2024)
  - [The best Black Friday tech deals we’ve found &lpar;so far&rpar;](https://www.theverge.com/24307545/black-friday-2024-best-deals-tech-gadgets-cyber-monday-gift-ideas)
  - [250 Absolute Best Black Friday Deals &lpar;2024&rpar;](https://www.wired.com/story/absolute-best-black-friday-deals-2024/)
  - [The best Black Friday deals on AirPods, AirTags, and other Apple tech](https://www.theverge.com/24305511/black-friday-apple-best-deals-2024-macbook-airpods-cyber-monday)
- - [B&amp;H slashes MacBook Pro with 36GB RAM to $1,899 for Black Friday](https://appleinsider.com/articles/24/11/29/bh-slashes-macbook-pro-with-36gb-ram-to-1899-for-black-friday?utm_medium=rss)
- - [The best wireless earbuds to buy right now](https://www.theverge.com/21309820/best-wireless-earbuds)<!-- TECH:END -->
+ - [B&amp;H slashes MacBook Pro with 36GB RAM to $1,899 for Black Friday](https://appleinsider.com/articles/24/11/29/bh-slashes-macbook-pro-with-36gb-ram-to-1899-for-black-friday?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

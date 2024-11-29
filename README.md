@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The best Black Friday smartwatch and fitness tracker deals](https://www.theverge.com/good-deals/24306393/black-friday-2024-best-deals-smartwatch-fitness-tracker-wearables-cyber-monday)
+ - [OpenAI sued by Canada’s biggest media outlets](https://www.theverge.com/2024/11/29/24308984/openai-sued-canadian-media-copyright-chatgpt)
  - [All of our favorite robot vacuums are seeing steep discounts for Black Friday](https://www.theverge.com/24306781/black-friday-2024-best-deals-robot-vacuums-mops-roombas-cyber-monday)
  - [Hyundai Ioniq 5 N review: fake shifting, real fun](https://www.theverge.com/2024/11/29/24308950/hyundai-ioniq-5-n-review-price-specs-photos)
- - [LIVE: We’re Tracking the Best Black Friday Deals Real-Time 2024](https://www.wired.com/live/black-friday-2024-liveblog/)
- - [26 Best Black Friday Headphone Deals &lpar;2024&rpar;](https://www.wired.com/story/black-friday-headphone-deals-2024-1/)
- - [Report: Russia arrested notorious cybercriminal Mikhail Matveev for developing malware and running hacking groups; US DOJ filed charges against him in 2023 &lpar;Sergiu Gatlan/BleepingComputer&rpar;](http://www.techmeme.com/241129/p12#a241129p12)<!-- TECH:END -->
+ - [LIVE: We’re Tracking the Best Black Friday Deals Real-Time 2024](https://www.wired.com/live/black-friday-2024-liveblog/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [How to stay safe shopping during Black Friday with exclusive VPN deals from Surfshark](https://appleinsider.com/articles/24/11/29/how-to-stay-safe-shopping-during-black-friday-with-exclusive-vpn-deals-from-surfshark?utm_medium=rss)
- - [Save up to 40% with Aqara Black Friday deals on Apple Home smart locks, cameras &amp; more](https://appleinsider.com/articles/24/11/29/save-up-to-40-with-aqara-black-friday-deals-on-apple-home-smart-locks-cameras-more?utm_medium=rss)
- - [The best Black Friday smartwatch and fitness tracker deals](https://www.theverge.com/good-deals/24306393/black-friday-2024-best-deals-smartwatch-fitness-tracker-wearables-cyber-monday)
- - [Best Black Friday Deals Live Right Now: 80+ Hot Deals on Tech Gadgets, Kitchen Appliances, Smart Home Tech and More](https://www.cnet.com/deals/best-black-friday-deals-live-2024-11-29/#ftag=CAD590a51e)
- - [The Biggest Black Friday Deals: Online or In-Store?](https://www.cnet.com/deals/the-biggest-black-friday-deals-online-or-in-store/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Sequoia&#39;s former China unit HongShan is pushing for deals in Europe and North Asia, as it struggles to deploy $9B due to a weak domestic market and US controls &lpar;Financial Times&rpar;](http://www.techmeme.com/241129/p3#a241129p3)
+ - [Best Black Friday Deals Live Right Now: Super Savings on TVs, Laptops, Smart Tech, and More](https://www.cnet.com/deals/best-black-friday-deals-live-2024-11-29/#ftag=CAD590a51e)
+ - [Returning the Amazon Rainforest to Its True Caretakers](https://www.wired.com/story/amazon-rainforest-indigenous-peoples-justice-stewardship/)
+ - [This Generous Company Saves You Money This Black Friday While Helping Those in Need](https://www.cnet.com/deals/this-generous-company-saves-you-money-this-black-friday-while-helping-those-in-need/#ftag=CAD590a51e)
+ - [How to stay safe shopping during Black Friday with exclusive VPN deals from Surfshark](https://appleinsider.com/articles/24/11/29/how-to-stay-safe-shopping-during-black-friday-with-exclusive-vpn-deals-from-surfshark?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

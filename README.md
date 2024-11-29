@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Best Black Friday Deals on LED Face Masks &lpar;2024&rpar;](https://www.wired.com/story/led-masks-black-friday-2024/)
  - [The best Black Friday smartwatch and fitness tracker deals](https://www.theverge.com/good-deals/24306393/black-friday-2024-best-deals-smartwatch-fitness-tracker-wearables-cyber-monday)
  - [OpenAI sued by Canada’s biggest media outlets](https://www.theverge.com/2024/11/29/24308984/openai-sued-canadian-media-copyright-chatgpt)
  - [All of our favorite robot vacuums are seeing steep discounts for Black Friday](https://www.theverge.com/24306781/black-friday-2024-best-deals-robot-vacuums-mops-roombas-cyber-monday)
- - [Hyundai Ioniq 5 N review: fake shifting, real fun](https://www.theverge.com/2024/11/29/24308950/hyundai-ioniq-5-n-review-price-specs-photos)
- - [LIVE: We’re Tracking the Best Black Friday Deals Real-Time 2024](https://www.wired.com/live/black-friday-2024-liveblog/)<!-- TECH:END -->
+ - [Hyundai Ioniq 5 N review: fake shifting, real fun](https://www.theverge.com/2024/11/29/24308950/hyundai-ioniq-5-n-review-price-specs-photos)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

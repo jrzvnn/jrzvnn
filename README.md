@@ -161,7 +161,7 @@ R                        1 repo              ░░░░░░░░░░░�
  - [You can take a selfie with the Earth using this YouTuber’s satellite](https://www.theverge.com/2024/11/29/24309059/earth-selfie-satellite-mark-rober-youtube-spacex-tmobile)
  - [Here are the best Black Friday deals you can grab for under $30](https://www.theverge.com/24306407/black-friday-2024-best-deals-under-30-tech-gift-ideas-cyber-monday)
  - [The best Black Friday deals you may want to get before Trump’s tariffs](https://www.theverge.com/24305982/black-friday-2024-best-deals-tariffs-trump-save-ideas-cyber-monday)
- - [20 Best Black Friday Deals on Bedding for Your Holiday Shopping](https://www.cnet.com/deals/best-black-friday-bedding-deals-2024/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [261 Absolute Best Black Friday Deals &lpar;2024&rpar;](https://www.wired.com/story/absolute-best-black-friday-deals-2024/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

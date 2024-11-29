@@ -167,10 +167,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [Carelessness hurt you](http://9gag.com/gag/a1mrQZ8)
- - 😝 [Geniedislikescloud](http://9gag.com/gag/aBy2xdZ)
- - 💣 [The Underrated Power of a Shoe](http://9gag.com/gag/aAybDq9)
- - 😝 [Who&#39;s the garbage now Gordon?](http://9gag.com/gag/a7oEMZ2)
- - 👉 [Blast blows out windows behind wedding couple](http://9gag.com/gag/azxM1Pm)<!-- MEMES:END -->
+ - 😝 [Why it&#39;s important to turn off your high beams!](http://9gag.com/gag/aMVKZ71)
+ - 💣 [Bro was like: are you f**king serious?](http://9gag.com/gag/an7Q96b)
+ - 😝 [Where&#39;s she](http://9gag.com/gag/aW4jxzx)
+ - 👉 [When will your Thai girl\u2026](http://9gag.com/gag/azxM99b)<!-- MEMES:END -->
 
 ---
 

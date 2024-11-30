@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Her look tho](http://9gag.com/gag/aryMMn7)
- - 😝 [Seriously do it!](http://9gag.com/gag/aKG6m61)
- - 💣 [3 l 3 s is best shown](http://9gag.com/gag/ajPmPDx)
- - 😝 [Make-A-Wish](http://9gag.com/gag/aAyb0WR)
- - 👉 [\u201cDid your genes even fight?\u201d](http://9gag.com/gag/aW4jjLx)<!-- MEMES:END -->
+ - 😝 [So....](http://9gag.com/gag/azxMxmN)
+ - 😝 [Life is beautiful and so are people \u2728](http://9gag.com/gag/awyMZbx)
+ - 💣 [A short, witty title](http://9gag.com/gag/aGypyrK)
+ - 😝 [The complete European experience.](http://9gag.com/gag/aqyjRrv)
+ - 👉 [He&#39;s just a silly lil guyy](http://9gag.com/gag/aZZ0ZOp)<!-- MEMES:END -->
 
 ---
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The 12 best TV deals you can grab for Black Friday](https://www.theverge.com/24307741/black-friday-tv-deals-lg-samsung-sony-tcl-cyber-monday-2024)
- - [Best Earbuds and Headphones for Working Out in 2024](https://www.cnet.com/tech/mobile/best-workout-headphones/#ftag=CAD590a51e)
+ - [You can pick up an Apple Watch starting at just $149 right now](https://www.theverge.com/2024/11/29/24309202/black-friday-2024-apple-watch-se-cyber-monday)
+ - [23 Best Black Friday Laptop Deals &lpar;2024&rpar;: Acer, Apple, Anker](https://www.wired.com/story/best-black-friday-laptop-deals-2024-1/)
+ - [We&#39;re Tracking 80+ Black Friday Deals Live — So You Can Grab the Best Savings Hassle-Free](https://www.cnet.com/deals/best-black-friday-deals-2024-11-29/#ftag=CAD590a51e)
  - [Best Christmas Gifts 2024: 63 Ideas to Clear Your Holiday List](https://www.cnet.com/tech/best-christmas-gift-ideas/#ftag=CAD590a51e)
- - [Amazon and Oura Are Duking It Out for Lowest Price Yet on My Favorite Oura Ring Gen3](https://www.cnet.com/deals/amazon-and-oura-are-duking-it-out-for-lowest-price-yet-on-my-favorite-oura-ring-gen3/#ftag=CAD590a51e)
- - [The best Black Friday tech deals we’ve found &lpar;so far&rpar;](https://www.theverge.com/24307545/black-friday-2024-best-deals-tech-gadgets-cyber-monday-gift-ideas)<!-- TECH:END -->
+ - [12 Best Black Friday Sleep Deals for Sleep Lovers](https://www.cnet.com/deals/best-black-friday-sleep-deals-2024/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

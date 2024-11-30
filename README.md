@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [A short, witty title](http://9gag.com/gag/aGypyrK)
- - 😝 [Yea millennial so?](http://9gag.com/gag/ae9A9dv)
- - 💣 [Simple message](http://9gag.com/gag/ajPm7rq)
- - 😝 [1HP Rabbit](http://9gag.com/gag/aW4j4n4)
- - 👉 [So....](http://9gag.com/gag/azxMxmN)<!-- MEMES:END -->
+ - 😝 [WTF! I didn&#39;t know they could do that.](http://9gag.com/gag/aqyjjXj)
+ - 😝 [Age is just a number](http://9gag.com/gag/aoyMgy0)
+ - 💣 [\u201cDid your genes even fight?\u201d](http://9gag.com/gag/aW4jjLx)
+ - 😝 [No woke agenda, just Indonesian flight attendant](http://9gag.com/gag/aKG66BQ)
+ - 👉 [3 l 3 s is best shown](http://9gag.com/gag/ajPmPDx)<!-- MEMES:END -->
 
 ---
 

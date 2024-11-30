@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Mary Tyler Moore accidentally nails a trick shot in front of a live audience in 1962](http://9gag.com/gag/aE0p0po)
- - 😝 [No woke agenda, just Indonesian flight attendant](http://9gag.com/gag/aKG66BQ)
- - 💣 [WTF! I didn&#39;t know they could do that.](http://9gag.com/gag/aqyjjXj)
- - 😝 [This photograph, taken by Andrew McAuley during his attempt to kayak 991 miles across the Tasman Sea from Australia to New Zealand, captures one of his final moments before he vanished at sea.](http://9gag.com/gag/ajPmm6q)
- - 👉 [The Matrix: Mirrored doorknob: There was no way to properly hide the camera, so the director of photography threw a coat onto himself with a tie matching the one Morpheus was wearing, trying to blend in as much as possible.](http://9gag.com/gag/an7QQp5)<!-- MEMES:END -->
+ - 😝 [Crows can recognize and extinguish fires at an early stage.](http://9gag.com/gag/aRBXBXq)
+ - 😝 [1HP Rabbit](http://9gag.com/gag/aW4j4n4)
+ - 💣 [Legendary CS2 Video](http://9gag.com/gag/a34E4vr)
+ - 😝 [Yea millennial so?](http://9gag.com/gag/ae9A9dv)
+ - 👉 [So....](http://9gag.com/gag/azxMxmN)<!-- MEMES:END -->
 
 ---
 

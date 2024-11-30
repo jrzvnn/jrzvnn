@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [38 Best Black Friday Gaming Deals &lpar;2024&rpar;, Consoles and Games](https://www.wired.com/story/black-friday-gaming-deals-2024-2/)
+ - [The best Black Friday deals you can still get today](https://www.theverge.com/24309106/best-black-friday-deals-2024-tech-gadgets-cyber-monday)
  - [This high-powered portable power bank is down to just $74 right now](https://www.theverge.com/2024/11/30/24309602/black-friday-2024-anker-737-power-bank-charger-cyber-monday)
  - [80+ Black Friday Deals from Amazon, Best Buy, Walmart and More You Can Still Shop Today](https://www.cnet.com/deals/best-black-friday-deals-2024-11-30/#ftag=CAD590a51e)
- - [Amazon Jabra Earbuds Are Still on Sale By as Much as $100 for Black Friday](https://www.cnet.com/deals/amazon-just-slashed-jabra-earbuds-by-as-much-as-67-percent-for-black-friday/#ftag=CAD590a51e)
- - [Best Black Friday Mattress Deals: We Found the Best Mattress Discounts on Purple, Casper, Nectar and More](https://www.cnet.com/deals/best-mattress-deals/#ftag=CAD590a51e)
- - [Elon Musk files for an injunction to halt OpenAI&#39;s transition to a for-profit, alleges that OpenAI is discouraging investors from backing rivals like xAI, more &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/241130/p9#a241130p9)<!-- TECH:END -->
+ - [Amazon Jabra Earbuds Are Still on Sale By as Much as $100 for Black Friday](https://www.cnet.com/deals/amazon-just-slashed-jabra-earbuds-by-as-much-as-67-percent-for-black-friday/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

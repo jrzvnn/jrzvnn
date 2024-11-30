@@ -166,10 +166,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [This encounter was meant.](http://9gag.com/gag/ae9ArLW)
- - 😝 [Seriously do it!](http://9gag.com/gag/aKG6m61)
- - 💣 [Blast blows out windows behind wedding couple](http://9gag.com/gag/azxM1Pm)
- - 😝 [How is he not passed out in the ground?](http://9gag.com/gag/a0e7Q2d)
+ - 😝 [Dolph Lundgren reveals he\u2019s cancer-free following 9-year battle after doctors gave him only 2 years.](http://9gag.com/gag/aXPooz9)
+ - 😝 [Got the lotion and napkins ready](http://9gag.com/gag/avy5zKq)
+ - 💣 [Legend with a legendary movie ! Glad to see him back in the business](http://9gag.com/gag/aqyjGnv)
+ - 😝 [One second sooner](http://9gag.com/gag/abAVgjp)
  - 👉 [Is it hard?](http://9gag.com/gag/aD2dDp9)<!-- MEMES:END -->
 
 ---

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Best Kindle Black Friday Deals and Amazon Device Sales &lpar;2024&rpar;](https://www.wired.com/story/black-friday-amazon-devices-deals-2024-2/)
+ - [The Best Black Friday Air Fryer and Kitchen Deals &lpar;2024&rpar;](https://www.wired.com/story/black-friday-kitchen-deals-2024-1/)
  - [20 Best Apple Black Friday Deals &lpar;2024&rpar;: MacBooks, iPads, AirPods](https://www.wired.com/story/apple-black-friday-deals-2024-2/)
  - [Baidu receives a license to test its Apollo Go robotaxi service in Hong Kong, Baidu&#39;s first known permit for autonomous vehicle testing outside mainland China &lpar;Reuters&rpar;](http://www.techmeme.com/241130/p8#a241130p8)
- - [The best Black Friday deals you can still get today](https://www.theverge.com/24309106/best-black-friday-deals-2024-tech-gadgets-cyber-monday)
- - [80+ Black Friday Deals from Amazon, Best Buy, Walmart and More You Can Still Shop Today](https://www.cnet.com/deals/best-black-friday-deals-2024-11-30/#ftag=CAD590a51e)
- - [Don&#39;t Throw Out Those Expired Vitamins Just Yet](https://www.cnet.com/health/nutrition/dont-toss-expired-vitamins-just-yet/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [The best Black Friday deals you can still get today](https://www.theverge.com/24309106/best-black-friday-deals-2024-tech-gadgets-cyber-monday)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

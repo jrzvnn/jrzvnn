@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [\u201cDid your genes even fight?\u201d](http://9gag.com/gag/aW4jjLx)
- - 😝 [New photoshop challenge.](http://9gag.com/gag/ayNM9vV)
- - 💣 [No woke agenda, just Indonesian flight attendant](http://9gag.com/gag/aKG66BQ)
- - 😝 [Age is just a number](http://9gag.com/gag/aoyMgy0)
- - 👉 [Perfect](http://9gag.com/gag/aXPorDP)<!-- MEMES:END -->
+ - 😝 [Seriously do it!](http://9gag.com/gag/aKG6m61)
+ - 😝 [Perfect](http://9gag.com/gag/aXPorDP)
+ - 💣 [Is it hard?](http://9gag.com/gag/aD2dDp9)
+ - 😝 [Where&#39;s she](http://9gag.com/gag/aW4jxzx)
+ - 👉 [\u201cDid your genes even fight?\u201d](http://9gag.com/gag/aW4jjLx)<!-- MEMES:END -->
 
 ---
 

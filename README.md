@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Seriously do it!](http://9gag.com/gag/aKG6m61)
- - 😝 [Perfect](http://9gag.com/gag/aXPorDP)
- - 💣 [Is it hard?](http://9gag.com/gag/aD2dDp9)
- - 😝 [Where&#39;s she](http://9gag.com/gag/aW4jxzx)
- - 👉 [\u201cDid your genes even fight?\u201d](http://9gag.com/gag/aW4jjLx)<!-- MEMES:END -->
+ - 😝 [Science b*tch!](http://9gag.com/gag/agmBonq)
+ - 😝 [No woke agenda, just Indonesian flight attendant](http://9gag.com/gag/aKG66BQ)
+ - 💣 [Seriously do it!](http://9gag.com/gag/aKG6m61)
+ - 😝 [WTF! I didn&#39;t know they could do that.](http://9gag.com/gag/aqyjjXj)
+ - 👉 [Is it hard?](http://9gag.com/gag/aD2dDp9)<!-- MEMES:END -->
 
 ---
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Best Black Friday Deals for Beauty and Hair Tools &lpar;2024&rpar; | WIRED](https://www.wired.com/story/black-friday-beauty-and-hair-deals/)
  - [The best Black Friday gaming deals you can shop right now](https://www.theverge.com/24303477/black-friday-best-deals-gaming-nintendo-playstation-xbox-cyber-monday-2024)
  - [Best Therabody Black Friday Deals &lpar;2024&rpar;: LED Masks, Massage](https://www.wired.com/story/black-friday-therabody-deals-1/)
  - [Salesforce says global online Thanksgiving day sales hit $33.6B, up 6% YoY, and $8.1B in the US, up 8% YoY; Adobe says US online sales hit $6.1B, up ~9% YoY &lpar;Ingrid Lunden/TechCrunch&rpar;](http://www.techmeme.com/241129/p18#a241129p18)
- - [The 299 Absolute Best Black Friday Deals &lpar;2024&rpar;](https://www.wired.com/story/absolute-best-black-friday-deals-2024/)
- - [We&#39;re Tracking 80+ Black Friday Deals Live — So You Can Grab the Best Savings Hassle-Free](https://www.cnet.com/deals/best-black-friday-deals-2024-11-29/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [301 Absolute Best Black Friday Deals &lpar;2024&rpar;](https://www.wired.com/story/absolute-best-black-friday-deals-2024/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

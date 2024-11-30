@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The 100 best Black Friday deals you can still get for under $100](https://www.theverge.com/24309009/black-friday-2024-best-deals-under-100-tech-gift-ideas-cyber-monday)
- - [The 12 best TV deals for Black Friday you can still get](https://www.theverge.com/24307741/black-friday-tv-deals-lg-samsung-sony-tcl-cyber-monday-2024)
- - [The best Black Friday deals still around on AirPods, AirTags, and other Apple tech](https://www.theverge.com/24305511/black-friday-apple-best-deals-2024-macbook-airpods-cyber-monday)
- - [Cyber Monday software deals hit Adobe Creative Cloud, Parallels Desktop, Microsoft Office, VPNs](https://appleinsider.com/articles/24/11/23/black-friday-software-deals-hit-adobe-creative-cloud-parallels-desktop-microsoft-office-vpns?utm_medium=rss)
- - [Here are the best Black Friday deals you can still get for under $30](https://www.theverge.com/24306407/black-friday-2024-best-deals-under-30-tech-gift-ideas-cyber-monday)<!-- TECH:END -->
+ - [33 Best Black Friday Laptop Deals &lpar;2024&rpar;: Acer, Apple, Anker](https://www.wired.com/story/best-black-friday-laptop-deals-2024-2/)
+ - [The best Black Friday gaming deals you can still get right now](https://www.theverge.com/24303477/black-friday-best-deals-gaming-nintendo-playstation-xbox-cyber-monday-2024)
+ - [Ex-Meta crypto chief David Marcus says there was no legal or regulatory angle for the government to kill its Libra project and &quot;it was 100% a political kill&quot; &lpar;David Marcus/@davidmarcus&rpar;](http://www.techmeme.com/241130/p4#a241130p4)
+ - [5 Sleep-Saving Tips That Will Minimize Your Nightly Bathroom Trips](https://www.cnet.com/health/sleep/5-sleep-saving-tips-that-will-minimize-your-nightly-bathroom-trips/#ftag=CAD590a51e)
+ - [50 Best Black Friday Deals Under $50 &lpar;2024&rpar;](https://www.wired.com/story/black-friday-2024-deals-under-50-1/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

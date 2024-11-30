@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Life is beautiful and so are people \u2728](http://9gag.com/gag/awyMZbx)
- - 😝 [Has your father heard about this?](http://9gag.com/gag/a9yEzLL)
- - 💣 [A short, witty title](http://9gag.com/gag/aGypyrK)
- - 😝 [The complete European experience.](http://9gag.com/gag/aqyjRrv)
- - 👉 [He&#39;s just a silly lil guyy](http://9gag.com/gag/aZZ0ZOp)<!-- MEMES:END -->
+ - 😝 [A horrible idea executed perfectly](http://9gag.com/gag/a87EA4e)
+ - 😝 [Her look tho](http://9gag.com/gag/aryMMn7)
+ - 💣 [The Matrix: Mirrored doorknob: There was no way to properly hide the camera, so the director of photography threw a coat onto himself with a tie matching the one Morpheus was wearing, trying to blend in as much as possible.](http://9gag.com/gag/an7QQp5)
+ - 😝 [Age is just a number](http://9gag.com/gag/aoyMgy0)
+ - 👉 [Life as a 6ft7 Woman](http://9gag.com/gag/a9yEEeD)<!-- MEMES:END -->
 
 ---
 

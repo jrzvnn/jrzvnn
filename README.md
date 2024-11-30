@@ -167,10 +167,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [Age is just a number](http://9gag.com/gag/aoyMgy0)
- - 😝 [No woke agenda, just Indonesian flight attendant](http://9gag.com/gag/aKG66BQ)
+ - 😝 [Life as a 6ft7 Woman](http://9gag.com/gag/a9yEEeD)
  - 💣 [New photoshop challenge.](http://9gag.com/gag/ayNM9vV)
- - 😝 [They let him cook and we got this masterpiece](http://9gag.com/gag/aQzod8q)
- - 👉 [\u201cDid your genes even fight?\u201d](http://9gag.com/gag/aW4jjLx)<!-- MEMES:END -->
+ - 😝 [Bait n switch](http://9gag.com/gag/aMVK4gM)
+ - 👉 [WTF! I didn&#39;t know they could do that.](http://9gag.com/gag/aqyjjXj)<!-- MEMES:END -->
 
 ---
 

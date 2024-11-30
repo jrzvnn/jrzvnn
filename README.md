@@ -158,7 +158,7 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- TECH:START -->
  - [OpenAI says it plans to build data centers in parts of the US Midwest and Southwest; sources: OpenAI is spending $5B+ a year and is &quot;not close to breaking even&quot; &lpar;Financial Times&rpar;](http://www.techmeme.com/241130/p6#a241130p6)
- - [12 Black Friday TV Deals to Grab Right Now &lpar;2024&rpar;](https://www.wired.com/story/early-black-friday-tv-deals-2024-2/)
+ - [12 Black Friday TV Deals to Grab Right Now &lpar;2024&rpar;](https://www.wired.com/story/early-black-friday-tv-deals-2024-3/)
  - [The best Black Friday deals you can still get before Trump’s tariffs](https://www.theverge.com/24305982/black-friday-2024-best-deals-tariffs-trump-save-ideas-cyber-monday)
  - [Nomad Black Friday Sale 2024: Deals on Chargers, iPhone Cases](https://www.wired.com/story/nomad-black-friday-sale-2024-2/)
  - [The best Black Friday smart home deals you can still grab](https://www.theverge.com/24306780/black-friday-best-deals-smart-home-tech-2024-cyber-monday)<!-- TECH:END -->

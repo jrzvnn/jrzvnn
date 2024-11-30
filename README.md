@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The best Black Friday headphone and earbud deals you can still get](https://www.theverge.com/24307533/black-friday-best-deals-headphones-wireless-earbuds-airpods-2024-cyber-monday)
+ - [304 Absolute Best Black Friday Deals &lpar;2024&rpar;](https://www.wired.com/story/absolute-best-black-friday-deals-2024-1/)
  - [Google, which joined the Open Cloud Coalition, denies its offer of &amp;euro;100M+ in incentives to CISPE was linked to CISPE&#39;s antitrust complaint against Microsoft &lpar;Paul Kunert/The Register&rpar;](http://www.techmeme.com/241130/p3#a241130p3)
  - [Amazon&#39;s best Cyber Monday Apple deals are live with prices from $11](https://appleinsider.com/articles/24/11/30/amazons-best-cyber-monday-apple-deals-are-live-with-prices-from-11?utm_medium=rss)
- - [51 Best Black Friday Tech Deals &lpar;2024&rpar;](https://www.wired.com/story/black-friday-tech-deals-2024-1/)
- - [The best Black Friday deals you can still get](https://www.theverge.com/24309106/best-black-friday-deals-2024-tech-gadgets-cyber-monday)
- - [The best Black Friday robot vacuum deals you can still get from iRobot, Roborock, and more](https://www.theverge.com/24306781/black-friday-2024-best-deals-robot-vacuums-mops-roombas-cyber-monday)<!-- TECH:END -->
+ - [51 Best Black Friday Tech Deals &lpar;2024&rpar;](https://www.wired.com/story/black-friday-tech-deals-2024-1/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

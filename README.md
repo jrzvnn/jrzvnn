@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Elon Musk files for an injunction to halt OpenAI&#39;s transition to a for-profit, alleges that OpenAI is discouraging investors from backing rivals like xAI, more &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/241130/p9#a241130p9)
  - [Best Kindle Black Friday Deals and Amazon Device Sales &lpar;2024&rpar;](https://www.wired.com/story/black-friday-amazon-devices-deals-2024-2/)
  - [The Best Black Friday Air Fryer and Kitchen Deals &lpar;2024&rpar;](https://www.wired.com/story/black-friday-kitchen-deals-2024-1/)
  - [20 Best Apple Black Friday Deals &lpar;2024&rpar;: MacBooks, iPads, AirPods](https://www.wired.com/story/apple-black-friday-deals-2024-2/)
- - [Baidu receives a license to test its Apollo Go robotaxi service in Hong Kong, Baidu&#39;s first known permit for autonomous vehicle testing outside mainland China &lpar;Reuters&rpar;](http://www.techmeme.com/241130/p8#a241130p8)
- - [The best Black Friday deals you can still get today](https://www.theverge.com/24309106/best-black-friday-deals-2024-tech-gadgets-cyber-monday)<!-- TECH:END -->
+ - [Baidu receives a license to test its Apollo Go robotaxi service in Hong Kong, Baidu&#39;s first known permit for autonomous vehicle testing outside mainland China &lpar;Reuters&rpar;](http://www.techmeme.com/241130/p8#a241130p8)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [WTF! I didn&#39;t know they could do that.](http://9gag.com/gag/aqyjjXj)
- - 😝 [If goofy stuff don\u2019t happen at my funeral , they didn\u2019t know me](http://9gag.com/gag/a6ZEEx2)
- - 💣 [Age is just a number](http://9gag.com/gag/aoyMgy0)
- - 😝 [Wholesome posts that I saved #11](http://9gag.com/gag/awyMz2D)
- - 👉 [Make-A-Wish](http://9gag.com/gag/aAyb0WR)<!-- MEMES:END -->
+ - 😝 [Is it hard?](http://9gag.com/gag/aD2dDp9)
+ - 😝 [One second sooner](http://9gag.com/gag/abAVgjp)
+ - 💣 [Legendary CS2 Video](http://9gag.com/gag/a34E4vr)
+ - 😝 [Nnnyess](http://9gag.com/gag/aMVKEBM)
+ - 👉 [Don&#39;t mind us, just `racists` doing racist things. Might go to jail later.](http://9gag.com/gag/ae9AQgp)<!-- MEMES:END -->
 
 ---
 

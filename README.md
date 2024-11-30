@@ -167,10 +167,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [A short, witty title](http://9gag.com/gag/aGypyrK)
- - 😝 [WTF! I didn&#39;t know they could do that.](http://9gag.com/gag/aqyjjXj)
- - 💣 [Fighter fart causes opponent to pike while match](http://9gag.com/gag/aBy22w2)
- - 😝 [This photograph, taken by Andrew McAuley during his attempt to kayak 991 miles across the Tasman Sea from Australia to New Zealand, captures one of his final moments before he vanished at sea.](http://9gag.com/gag/ajPmm6q)
- - 👉 [Seriously do it!](http://9gag.com/gag/aKG6m61)<!-- MEMES:END -->
+ - 😝 [Yea millennial so?](http://9gag.com/gag/ae9A9dv)
+ - 💣 [Simple message](http://9gag.com/gag/ajPm7rq)
+ - 😝 [1HP Rabbit](http://9gag.com/gag/aW4j4n4)
+ - 👉 [So....](http://9gag.com/gag/azxMxmN)<!-- MEMES:END -->
 
 ---
 

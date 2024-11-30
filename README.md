@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Amazon&#39;s best Cyber Monday Apple deals are live with prices from $11](https://appleinsider.com/articles/24/11/30/amazons-best-cyber-monday-apple-deals-are-live-with-prices-from-11?utm_medium=rss)
  - [Snag Apple&#39;s 1TB M4 Pro MacBook Pro 14-inch for $1,999 during Black Friday weekend sale](https://appleinsider.com/articles/24/11/30/snag-apples-1tb-m4-pro-macbook-pro-14-inch-for-1999-during-black-friday-weekend-sale?utm_medium=rss)
  - [Elon Musk targets OpenAI’s for-profit transition in a new filing](https://www.theverge.com/2024/11/30/24309697/elon-musk-openai-lawsuit-for-profit-transition-preliminary-injunction)
  - [Black Friday Is Still Going Strong. We&#39;re Seeing These 80+ Great Deals Right Now](https://www.cnet.com/deals/best-black-friday-deals-2024-11-30/#ftag=CAD590a51e)
- - [One of Our Favorite E-Bikes Is $600 Off for Black Friday](https://www.cnet.com/roadshow/news/get-up-to-an-instant-600-off-a-tenways-e-bike-with-this-black-friday-deal/#ftag=CAD590a51e)
- - [29 Best Black Friday Headphone Deals &lpar;2024&rpar;](https://www.wired.com/story/black-friday-headphone-deals-2024-2/)<!-- TECH:END -->
+ - [One of Our Favorite E-Bikes Is $600 Off for Black Friday](https://www.cnet.com/roadshow/news/get-up-to-an-instant-600-off-a-tenways-e-bike-with-this-black-friday-deal/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

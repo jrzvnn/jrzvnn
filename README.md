@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Sometimes I wake up grumpy, other times I let her sleep.](http://9gag.com/gag/a87E5RQ)
- - 😝 [This photograph, taken by Andrew McAuley during his attempt to kayak 991 miles across the Tasman Sea from Australia to New Zealand, captures one of his final moments before he vanished at sea.](http://9gag.com/gag/ajPmm6q)
- - 💣 [New photoshop challenge.](http://9gag.com/gag/ayNM9vV)
- - 😝 [Make-A-Wish](http://9gag.com/gag/aAyb0WR)
- - 👉 [Age is just a number](http://9gag.com/gag/aoyMgy0)<!-- MEMES:END -->
+ - 😝 [Is it hard?](http://9gag.com/gag/aD2dDp9)
+ - 😝 [Nnnyess](http://9gag.com/gag/aMVKEBM)
+ - 💣 [Legendary CS2 Video](http://9gag.com/gag/a34E4vr)
+ - 😝 [So....](http://9gag.com/gag/azxMxmN)
+ - 👉 [Don&#39;t mind us, just `racists` doing racist things. Might go to jail later.](http://9gag.com/gag/ae9AQgp)<!-- MEMES:END -->
 
 ---
 

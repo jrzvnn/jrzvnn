@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [33 Best Black Friday Laptop Deals &lpar;2024&rpar;: Acer, Apple, Anker](https://www.wired.com/story/best-black-friday-laptop-deals-2024-2/)
- - [The best Black Friday gaming deals you can still get right now](https://www.theverge.com/24303477/black-friday-best-deals-gaming-nintendo-playstation-xbox-cyber-monday-2024)
- - [Ex-Meta crypto chief David Marcus says there was no legal or regulatory angle for the government to kill its Libra project and &quot;it was 100% a political kill&quot; &lpar;David Marcus/@davidmarcus&rpar;](http://www.techmeme.com/241130/p4#a241130p4)
- - [5 Sleep-Saving Tips That Will Minimize Your Nightly Bathroom Trips](https://www.cnet.com/health/sleep/5-sleep-saving-tips-that-will-minimize-your-nightly-bathroom-trips/#ftag=CAD590a51e)
- - [50 Best Black Friday Deals Under $50 &lpar;2024&rpar;](https://www.wired.com/story/black-friday-2024-deals-under-50-1/)<!-- TECH:END -->
+ - [14 Great Black Friday Soundbar Deals to Pump Up the Volume &lpar;2024&rpar;](https://www.wired.com/story/black-friday-soundbar-deals-2024-2/)
+ - [22 Best Black Friday Coffee and Espresso Deals &lpar;2024&rpar;](https://www.wired.com/story/black-friday-coffee-deals-2/)
+ - [The best Black Friday deals you can still get today](https://www.theverge.com/24309106/best-black-friday-deals-2024-tech-gadgets-cyber-monday)
+ - [Here are some Verge favorites that are still on sale for Black Friday](https://www.theverge.com/24307425/black-friday-best-deals-tech-staff-picks-cyber-monday-2024)
+ - [The best Black Friday smart home deals you can still grab](https://www.theverge.com/24306780/black-friday-best-deals-smart-home-tech-2024-cyber-monday)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The best Black Friday headphone and earbud deals you can still get](https://www.theverge.com/24307533/black-friday-best-deals-headphones-wireless-earbuds-airpods-2024-cyber-monday)
- - [304 Absolute Best Black Friday Deals &lpar;2024&rpar;](https://www.wired.com/story/absolute-best-black-friday-deals-2024-1/)
- - [Google, which joined the Open Cloud Coalition, denies its offer of &amp;euro;100M+ in incentives to CISPE was linked to CISPE&#39;s antitrust complaint against Microsoft &lpar;Paul Kunert/The Register&rpar;](http://www.techmeme.com/241130/p3#a241130p3)
- - [Amazon&#39;s best Cyber Monday Apple deals are live with prices from $11](https://appleinsider.com/articles/24/11/30/amazons-best-cyber-monday-apple-deals-are-live-with-prices-from-11?utm_medium=rss)
- - [51 Best Black Friday Tech Deals &lpar;2024&rpar;](https://www.wired.com/story/black-friday-tech-deals-2024-1/)<!-- TECH:END -->
+ - [Cyber Monday software deals hit Adobe Creative Cloud, Parallels Desktop, Microsoft Office, VPNs](https://appleinsider.com/articles/24/11/23/black-friday-software-deals-hit-adobe-creative-cloud-parallels-desktop-microsoft-office-vpns?utm_medium=rss)
+ - [Here are the best Black Friday deals you can still get for under $30](https://www.theverge.com/24306407/black-friday-2024-best-deals-under-30-tech-gift-ideas-cyber-monday)
+ - [Upgrade to the New Apple Watch Series 10 With $70 Off at Amazon Thanks to this Black Friday Deal](https://www.cnet.com/deals/upgrade-to-the-new-apple-watch-series-10-with-70-off-at-amazon-thanks-to-this-black-friday-deal/#ftag=CAD590a51e)
+ - [We&#39;re Found Over 80 Black Friday Deals You Can Still Shop Today](https://www.cnet.com/deals/best-black-friday-deals-2024-11-30/#ftag=CAD590a51e)
+ - [&#39;Landman&#39; Release Schedule: When Episode 4 Drops on Paramount Plus](https://www.cnet.com/tech/services-and-software/landman-release-schedule-when-episode-4-drops-on-paramount-plus/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [How to watch Fortnite’s big Juice WRLD, Snoop Dogg, Eminem, and Ice Spice concert](https://www.theverge.com/2024/11/30/24308372/fortnite-remix-finale-concert-juice-wrld-chapter-6-how-to-watch)
- - [Max, Hulu, and Paramount Plus are all heavily discounted for Black Friday weekend](https://www.theverge.com/24306534/black-friday-2024-streaming-best-deals-max-hulu-peacock-paramount-plus-cyber-monday)
- - [The 26 Best Black Friday Deals From Best Buy &lpar;2024&rpar;](https://www.wired.com/story/best-buy-black-friday-deals-2024-2/)
- - [The best Black Friday deals we’re seeing on MacBooks and other laptops](https://www.theverge.com/24305977/black-friday-best-deals-laptops-macbook-windows-gaming-cyber-monday-2024)
- - [Stay Toasty This Winter by Finding Your Thermostat&#39;s Sweet Spot](https://www.cnet.com/home/energy-and-utilities/stay-toasty-this-winter-by-finding-your-thermostats-sweet-spot/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [The best Black Friday robot vacuum deals from iRobot, Roborock, and more](https://www.theverge.com/24306781/black-friday-2024-best-deals-robot-vacuums-mops-roombas-cyber-monday)
+ - [20 Best Advent Calendars &lpar;2024&rpar;, Tested and Reviewed](https://www.wired.com/gallery/best-advent-calendars/)
+ - [You can still score a PlayStation 5 for as low as $374 for Black Friday](https://www.theverge.com/2024/11/30/24308967/black-friday-2024-playstation-5-ps5-slim-digital-edition-disc-cyber-monday)
+ - [We&#39;re Keeping Tabs on More Than 80 Black Friday Deals You Can Still Grab Today](https://www.cnet.com/deals/best-black-friday-deals-2024-11-30/#ftag=CAD590a51e)
+ - [Premier League Soccer: Livestream Brentford vs. Leicester From Anywhere](https://www.cnet.com/tech/services-and-software/premier-league-soccer-livestream-brentford-vs-leicester-from-anywhere/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

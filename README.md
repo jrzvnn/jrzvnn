@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The best Black Friday robot vacuum deals you can still get from iRobot, Roborock, and more](https://www.theverge.com/24306781/black-friday-2024-best-deals-robot-vacuums-mops-roombas-cyber-monday)
- - [20 Best Advent Calendars &lpar;2024&rpar;, Tested and Reviewed](https://www.wired.com/gallery/best-advent-calendars/)
- - [You can still score a PlayStation 5 for as low as $374 for Black Friday](https://www.theverge.com/2024/11/30/24308967/black-friday-2024-playstation-5-ps5-slim-digital-edition-disc-cyber-monday)
- - [We&#39;re Keeping Tabs on More Than 80 Black Friday Deals You Can Still Grab Today](https://www.cnet.com/deals/best-black-friday-deals-2024-11-30/#ftag=CAD590a51e)
- - [Premier League Soccer: Livestream Brentford vs. Leicester From Anywhere](https://www.cnet.com/tech/services-and-software/premier-league-soccer-livestream-brentford-vs-leicester-from-anywhere/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Google, which joined the Open Cloud Coalition, denies its offer of &amp;euro;100M+ in incentives to CISPE was linked to CISPE&#39;s antitrust complaint against Microsoft &lpar;Paul Kunert/The Register&rpar;](http://www.techmeme.com/241130/p3#a241130p3)
+ - [Amazon&#39;s best Cyber Monday Apple deals are live with prices from $11](https://appleinsider.com/articles/24/11/30/amazons-best-cyber-monday-apple-deals-are-live-with-prices-from-11?utm_medium=rss)
+ - [51 Best Black Friday Tech Deals &lpar;2024&rpar;](https://www.wired.com/story/black-friday-tech-deals-2024-1/)
+ - [The best Black Friday deals you can still get](https://www.theverge.com/24309106/best-black-friday-deals-2024-tech-gadgets-cyber-monday)
+ - [The best Black Friday robot vacuum deals you can still get from iRobot, Roborock, and more](https://www.theverge.com/24306781/black-friday-2024-best-deals-robot-vacuums-mops-roombas-cyber-monday)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

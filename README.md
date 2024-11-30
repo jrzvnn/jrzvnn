@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Age is just a number](http://9gag.com/gag/aoyMgy0)
- - 😝 [No woke agenda, just Indonesian flight attendant](http://9gag.com/gag/aKG66BQ)
+ - 😝 [The Matrix: Mirrored doorknob: There was no way to properly hide the camera, so the director of photography threw a coat onto himself with a tie matching the one Morpheus was wearing, trying to blend in as much as possible.](http://9gag.com/gag/an7QQp5)
+ - 😝 [Sometimes I wake up grumpy, other times I let her sleep.](http://9gag.com/gag/a87E5RQ)
  - 💣 [New photoshop challenge.](http://9gag.com/gag/ayNM9vV)
- - 😝 [This photograph, taken by Andrew McAuley during his attempt to kayak 991 miles across the Tasman Sea from Australia to New Zealand, captures one of his final moments before he vanished at sea.](http://9gag.com/gag/ajPmm6q)
- - 👉 [The Matrix: Mirrored doorknob: There was no way to properly hide the camera, so the director of photography threw a coat onto himself with a tie matching the one Morpheus was wearing, trying to blend in as much as possible.](http://9gag.com/gag/an7QQp5)<!-- MEMES:END -->
+ - 😝 [Seriously do it!](http://9gag.com/gag/aKG6m61)
+ - 👉 [\u201cDid your genes even fight?\u201d](http://9gag.com/gag/aW4jjLx)<!-- MEMES:END -->
 
 ---
 

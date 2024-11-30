@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Who wouldn\u2019t?](http://9gag.com/gag/a6ZEZEe)
- - 😝 [Tell her what she&#39;s won, Johnny!](http://9gag.com/gag/aBy2nMz)
- - 💣 [The Matrix: Mirrored doorknob: There was no way to properly hide the camera, so the director of photography threw a coat onto himself with a tie matching the one Morpheus was wearing, trying to blend in as much as possible.](http://9gag.com/gag/an7QQp5)
- - 😝 [The business guy understood everything](http://9gag.com/gag/ayNMNNy)
- - 👉 [New photoshop challenge.](http://9gag.com/gag/ayNM9vV)<!-- MEMES:END -->
+ - 😝 [A horrible idea executed perfectly](http://9gag.com/gag/a87EA4e)
+ - 😝 [Whenever you feel bad, just think to yourself:I can never be this useless](http://9gag.com/gag/aAybQpg)
+ - 💣 [Mother burn\u2019s her 13 year old daughter\u2019s rapist outside of court after he taunted her](http://9gag.com/gag/a9yE1Z0)
+ - 😝 [I am old](http://9gag.com/gag/aRBXrdy)
+ - 👉 [Seriously do it!](http://9gag.com/gag/aKG6m61)<!-- MEMES:END -->
 
 ---
 

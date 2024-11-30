@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The best Black Friday smart home deals you can still grab](https://www.theverge.com/24306780/black-friday-best-deals-smart-home-tech-2024-cyber-monday)
- - [The best Black Friday smartwatch and fitness tracker deals still available](https://www.theverge.com/good-deals/24306393/black-friday-2024-best-deals-smartwatch-fitness-tracker-wearables-cyber-monday)
- - [Best Black Friday Phone Deals &lpar;2024&rpar;, Including Cases Too](https://www.wired.com/story/black-friday-phone-deals-2024-2/)
- - [Salesforce says online Black Friday sales hit $74.4B globally, up 5% YoY, and $17.5B in the US, up 7% YoY; Adobe says US online sales hit $10.8B, up 10.2% YoY &lpar;Ingrid Lunden/TechCrunch&rpar;](http://www.techmeme.com/241130/p5#a241130p5)
- - [Marvel Rivals gets Wolverine, Black Widow, and more in the latest trailer](https://www.theverge.com/2024/11/30/24309516/marvel-rivals-gets-wolverine-black-widow-and-more-in-the-latest-trailer)<!-- TECH:END -->
+ - [OpenAI says it plans to build data centers in parts of the US Midwest and Southwest; sources: OpenAI is spending $5B+ a year and is &quot;not close to breaking even&quot; &lpar;Financial Times&rpar;](http://www.techmeme.com/241130/p6#a241130p6)
+ - [12 Black Friday TV Deals to Grab Right Now &lpar;2024&rpar;](https://www.wired.com/story/early-black-friday-tv-deals-2024-2/)
+ - [The best Black Friday deals you can still get before Trump’s tariffs](https://www.theverge.com/24305982/black-friday-2024-best-deals-tariffs-trump-save-ideas-cyber-monday)
+ - [Nomad Black Friday Sale 2024: Deals on Chargers, iPhone Cases](https://www.wired.com/story/nomad-black-friday-sale-2024-2/)
+ - [The best Black Friday smart home deals you can still grab](https://www.theverge.com/24306780/black-friday-best-deals-smart-home-tech-2024-cyber-monday)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

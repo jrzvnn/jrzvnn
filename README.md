@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Salesforce says online Black Friday sales hit $74.4B globally, up 5% YoY, and $17.5B in the US, up 7% YoY; Adobe says US online sales hit $10.8B, up 10.2% YoY &lpar;Ingrid Lunden/TechCrunch&rpar;](http://www.techmeme.com/241130/p5#a241130p5)
+ - [Marvel Rivals gets Wolverine, Black Widow, and more in the latest trailer](https://www.theverge.com/2024/11/30/24309516/marvel-rivals-gets-wolverine-black-widow-and-more-in-the-latest-trailer)
  - [14 Great Black Friday Soundbar Deals to Pump Up the Volume &lpar;2024&rpar;](https://www.wired.com/story/black-friday-soundbar-deals-2024-2/)
  - [22 Best Black Friday Coffee and Espresso Deals &lpar;2024&rpar;](https://www.wired.com/story/black-friday-coffee-deals-2/)
- - [The best Black Friday deals you can still get today](https://www.theverge.com/24309106/best-black-friday-deals-2024-tech-gadgets-cyber-monday)
- - [Here are some Verge favorites that are still on sale for Black Friday](https://www.theverge.com/24307425/black-friday-best-deals-tech-staff-picks-cyber-monday-2024)
- - [The best Black Friday smart home deals you can still grab](https://www.theverge.com/24306780/black-friday-best-deals-smart-home-tech-2024-cyber-monday)<!-- TECH:END -->
+ - [The best Black Friday deals you can still get today](https://www.theverge.com/24309106/best-black-friday-deals-2024-tech-gadgets-cyber-monday)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

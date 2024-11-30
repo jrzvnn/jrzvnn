@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [7 best Black Friday iPad deals 2024 extended: save up to $1,000](https://appleinsider.com/articles/24/11/29/7-best-black-friday-ipad-deals-2024-save-up-to-1000?utm_medium=rss)
  - [Black Friday iMac sale extended: grab M4 all-in-one desktop for just $1,149.99](https://appleinsider.com/articles/24/11/28/black-friday-imac-sale-grab-m4-all-in-one-desktop-for-just-114999?utm_medium=rss)
  - [20 Best Black Friday Coffee and Espresso Deals &lpar;2024&rpar;](https://www.wired.com/story/black-friday-coffee-deals-1/)
  - [Tune In to the Healing Powers of a Decent Playlist](https://www.wired.com/story/music-therapy-health-care/)
- - [We&#39;re Tracking Over 80 Black Friday Deals You Can Still Grab Now](https://www.cnet.com/deals/best-black-friday-deals-2024-11-30/#ftag=CAD590a51e)
- - [Hoka Coupon Code: Free Shipping in December 2024](https://www.wired.com/story/hoka-coupon-code/)<!-- TECH:END -->
+ - [We&#39;re Tracking Over 80 Black Friday Deals You Can Still Grab Now](https://www.cnet.com/deals/best-black-friday-deals-2024-11-30/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

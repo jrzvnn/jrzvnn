@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Fortnite’s latest concert turned pop stars into kaiju](https://www.theverge.com/2024/11/30/24305460/fortnite-chapter-2-remix-concert-eminem-snoop-juice-wrld-ice-spice)
- - [24 Best Black Friday Camera Deals &lpar;2024&rpar;](https://www.wired.com/story/best-black-friday-camera-deals-2024-2/)
- - [You can still grab Apple’s entry-level iPad for its lowest price to date](https://www.theverge.com/2024/11/28/24307735/apple-ipad-black-friday-deal-10th-gen-tablet-2024-sale)
- - [Best Deals From the REI Cyber Week Sale &lpar;2024&rpar;](https://www.wired.com/story/best-black-friday-outdoor-deals-2024-2/)
- - [Bluesky now requires parody or fan accounts to label themselves as such after a researcher found 44% of its 100 most-followed accounts have a doppelganger &lpar;Mariella Moon/Engadget&rpar;](http://www.techmeme.com/241130/p7#a241130p7)<!-- TECH:END -->
+ - [Baidu receives a license to test its Apollo Go robotaxi service in Hong Kong, Baidu&#39;s first known permit for autonomous vehicle testing outside mainland China &lpar;Reuters&rpar;](http://www.techmeme.com/241130/p8#a241130p8)
+ - [The best Black Friday deals you can still get today](https://www.theverge.com/24309106/best-black-friday-deals-2024-tech-gadgets-cyber-monday)
+ - [80+ Black Friday Deals from Amazon, Best Buy, Walmart and More You Can Still Shop Today](https://www.cnet.com/deals/best-black-friday-deals-2024-11-30/#ftag=CAD590a51e)
+ - [Don&#39;t Throw Out Those Expired Vitamins Just Yet](https://www.cnet.com/health/nutrition/dont-toss-expired-vitamins-just-yet/#ftag=CAD590a51e)
+ - [This Cyber Monday Deal Just Turned Toniebox Audio Player Into My Next Holiday Gift for Little Ones](https://www.cnet.com/deals/this-cyber-monday-deal-just-turned-toniebox-audio-player-into-my-next-holiday-gift-for-little-ones/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

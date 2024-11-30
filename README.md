@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [1HP Rabbit](http://9gag.com/gag/aW4j4n4)
- - 😝 [So....](http://9gag.com/gag/azxMxmN)
- - 💣 [He&#39;s just a silly lil guyy](http://9gag.com/gag/aZZ0ZOp)
- - 😝 [Life is beautiful and so are people \u2728](http://9gag.com/gag/awyMZbx)
- - 👉 [A short, witty title](http://9gag.com/gag/aGypyrK)<!-- MEMES:END -->
+ - 😝 [Her look tho](http://9gag.com/gag/aryMMn7)
+ - 😝 [Make-A-Wish](http://9gag.com/gag/aAyb0WR)
+ - 💣 [Exactly as one would have expected.](http://9gag.com/gag/a5QEXpO)
+ - 😝 [\u201cDid your genes even fight?\u201d](http://9gag.com/gag/aW4jjLx)
+ - 👉 [3 l 3 s is best shown](http://9gag.com/gag/ajPmPDx)<!-- MEMES:END -->
 
 ---
 

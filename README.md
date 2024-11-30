@@ -166,7 +166,7 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [M-m-mommy!](http://9gag.com/gag/aGypEwG)
+ - 😝 [Based and redpilled shark.](http://9gag.com/gag/a4PEooZ)
  - 😝 [Got the lotion and napkins ready](http://9gag.com/gag/avy5zKq)
  - 💣 [Mother burn\u2019s her 13 year old daughter\u2019s rapist outside of court after he taunted her](http://9gag.com/gag/a9yE1Z0)
  - 😝 [One second sooner](http://9gag.com/gag/abAVgjp)

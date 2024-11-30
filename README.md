@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Dolph Lundgren reveals he\u2019s cancer-free following 9-year battle after doctors gave him only 2 years.](http://9gag.com/gag/aXPooz9)
- - 😝 [Got the lotion and napkins ready](http://9gag.com/gag/avy5zKq)
- - 💣 [Legend with a legendary movie ! Glad to see him back in the business](http://9gag.com/gag/aqyjGnv)
- - 😝 [One second sooner](http://9gag.com/gag/abAVgjp)
- - 👉 [Is it hard?](http://9gag.com/gag/aD2dDp9)<!-- MEMES:END -->
+ - 😝 [Sometimes I wake up grumpy, other times I let her sleep.](http://9gag.com/gag/a87E5RQ)
+ - 😝 [Lady catches an amazing surprise.](http://9gag.com/gag/aAybb00)
+ - 💣 [Blast blows out windows behind wedding couple](http://9gag.com/gag/azxM1Pm)
+ - 😝 [This photograph, taken by Andrew McAuley during his attempt to kayak 991 miles across the Tasman Sea from Australia to New Zealand, captures one of his final moments before he vanished at sea.](http://9gag.com/gag/ajPmm6q)
+ - 👉 [\u201cDid your genes even fight?\u201d](http://9gag.com/gag/aW4jjLx)<!-- MEMES:END -->
 
 ---
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The 26 Best Black Friday Deals From Best Buy &lpar;2024&rpar;](https://www.wired.com/story/best-buy-black-friday-deals-2024-2/)
  - [The best Black Friday deals we’re seeing on MacBooks and other laptops](https://www.theverge.com/24305977/black-friday-best-deals-laptops-macbook-windows-gaming-cyber-monday-2024)
- - [Stay Toasty This Winter by Finding Your Thermostat&#39;s Sweet Spot](https://www.cnet.com/home/energy-and-utilities/stay-toasty-this-winter-by-finding-your-thermostats-sweet-spot/#ftag=CAD590a51e)
- - [Need a New iPhone or Android Phone? Consider These Factors Before You Buy](https://www.cnet.com/tech/mobile/need-a-new-iphone-or-android-phone-consider-these-things-before-you-buy/#ftag=CAD590a51e)
- - [Google Pixel Tips and Tricks: Try These Features On Your Pixel Phone](https://www.cnet.com/tech/mobile/google-pixel-tips-tricks-try-these-features-on-your-pixel-phone/#ftag=CAD590a51e)
- - [NordVPN vs. ExpressVPN: How Two of the Best VPNs Stack Up in 2024](https://www.cnet.com/tech/services-and-software/nordvpn-vs-expressvpn/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [The Commonwealth Bank of Australia says generative AI tools have helped it lower frauds by 30% and reduce call center customer wait times by 40% in 2024 &lpar;Harry Brumpton/Bloomberg&rpar;](http://www.techmeme.com/241130/p2#a241130p2)
+ - [The best Black Friday deals you can still get](https://www.theverge.com/24307545/black-friday-2024-best-deals-tech-gadgets-cyber-monday-gift-ideas)
+ - [Protests close Washington Apple Store during peak Black Friday rush](https://appleinsider.com/articles/24/11/30/protests-close-washington-apple-store-during-peak-black-friday-rush?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [304 Absolute Best Black Friday Deals &lpar;2024&rpar;](https://www.wired.com/story/absolute-best-black-friday-deals-2024-1/)
  - [Amazon Prime Cyber Monday deal: CalDigit TS3 Plus Thunderbolt 3 dock for $167.99](https://appleinsider.com/articles/24/11/30/amazon-prime-cyber-monday-deal-caldigit-ts3-plus-thunderbolt-3-dock-for-16799?utm_medium=rss)
  - [OpenAI says it plans to build data centers in parts of the US Midwest and Southwest; sources: OpenAI is spending $5B+ a year and is &quot;not close to breaking even&quot; &lpar;Financial Times&rpar;](http://www.techmeme.com/241130/p6#a241130p6)
  - [Eat These 13 Superfoods to Secure Your Kidney Health](https://www.cnet.com/health/nutrition/eat-these-13-superfoods-to-secure-your-kidney-health/#ftag=CAD590a51e)
- - [Worried About Identity Theft? Locking your Social Security Number May Help](https://www.cnet.com/personal-finance/worried-about-identity-theft-locking-your-social-security-number-may-help/#ftag=CAD590a51e)
- - [Now’s the Time to Winter-Proof Your Internet. Here’s How](https://www.cnet.com/home/internet/nows-the-time-to-winter-proof-your-internet-heres-how/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Worried About Identity Theft? Locking your Social Security Number May Help](https://www.cnet.com/personal-finance/worried-about-identity-theft-locking-your-social-security-number-may-help/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

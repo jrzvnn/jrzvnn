@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [The Matrix: Mirrored doorknob: There was no way to properly hide the camera, so the director of photography threw a coat onto himself with a tie matching the one Morpheus was wearing, trying to blend in as much as possible.](http://9gag.com/gag/an7QQp5)
- - 😝 [Perfect](http://9gag.com/gag/aXPorDP)
- - 💣 [Life as a 6ft7 Woman](http://9gag.com/gag/a9yEEeD)
- - 😝 [New photoshop challenge.](http://9gag.com/gag/ayNM9vV)
- - 👉 [\u201cDid your genes even fight?\u201d](http://9gag.com/gag/aW4jjLx)<!-- MEMES:END -->
+ - 😝 [M-m-mommy!](http://9gag.com/gag/aGypEwG)
+ - 😝 [Got the lotion and napkins ready](http://9gag.com/gag/avy5zKq)
+ - 💣 [Mother burn\u2019s her 13 year old daughter\u2019s rapist outside of court after he taunted her](http://9gag.com/gag/a9yE1Z0)
+ - 😝 [One second sooner](http://9gag.com/gag/abAVgjp)
+ - 👉 [Is it hard?](http://9gag.com/gag/aD2dDp9)<!-- MEMES:END -->
 
 ---
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Exactly as one would have expected.](http://9gag.com/gag/a5QEXpO)
- - 😝 [WTF! I didn&#39;t know they could do that.](http://9gag.com/gag/aqyjjXj)
- - 💣 [Seriously do it!](http://9gag.com/gag/aKG6m61)
- - 😝 [Her look tho](http://9gag.com/gag/aryMMn7)
- - 👉 [A short, witty title](http://9gag.com/gag/aGypyrK)<!-- MEMES:END -->
+ - 😝 [Life is beautiful and so are people \u2728](http://9gag.com/gag/awyMZbx)
+ - 😝 [Has your father heard about this?](http://9gag.com/gag/a9yEzLL)
+ - 💣 [A short, witty title](http://9gag.com/gag/aGypyrK)
+ - 😝 [The complete European experience.](http://9gag.com/gag/aqyjRrv)
+ - 👉 [He&#39;s just a silly lil guyy](http://9gag.com/gag/aZZ0ZOp)<!-- MEMES:END -->
 
 ---
 

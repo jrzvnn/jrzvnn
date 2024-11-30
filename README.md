@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Who wouldn\u2019t?](http://9gag.com/gag/a6ZEZEe)
- - 😝 [Life as a 6ft7 Woman](http://9gag.com/gag/a9yEEeD)
- - 💣 [Age is just a number](http://9gag.com/gag/aoyMgy0)
- - 😝 [Whenever you feel bad, just think to yourself:I can never be this useless](http://9gag.com/gag/aAybQpg)
- - 👉 [Is it a myth?](http://9gag.com/gag/aXPon4P)<!-- MEMES:END -->
+ - 😝 [Exactly as one would have expected.](http://9gag.com/gag/a5QEXpO)
+ - 😝 [WTF! I didn&#39;t know they could do that.](http://9gag.com/gag/aqyjjXj)
+ - 💣 [Seriously do it!](http://9gag.com/gag/aKG6m61)
+ - 😝 [Her look tho](http://9gag.com/gag/aryMMn7)
+ - 👉 [A short, witty title](http://9gag.com/gag/aGypyrK)<!-- MEMES:END -->
 
 ---
 

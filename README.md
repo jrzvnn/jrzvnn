@@ -157,7 +157,7 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The best Black Friday robot vacuum deals from iRobot, Roborock, and more](https://www.theverge.com/24306781/black-friday-2024-best-deals-robot-vacuums-mops-roombas-cyber-monday)
+ - [The best Black Friday robot vacuum deals you can still get from iRobot, Roborock, and more](https://www.theverge.com/24306781/black-friday-2024-best-deals-robot-vacuums-mops-roombas-cyber-monday)
  - [20 Best Advent Calendars &lpar;2024&rpar;, Tested and Reviewed](https://www.wired.com/gallery/best-advent-calendars/)
  - [You can still score a PlayStation 5 for as low as $374 for Black Friday](https://www.theverge.com/2024/11/30/24308967/black-friday-2024-playstation-5-ps5-slim-digital-edition-disc-cyber-monday)
  - [We&#39;re Keeping Tabs on More Than 80 Black Friday Deals You Can Still Grab Today](https://www.cnet.com/deals/best-black-friday-deals-2024-11-30/#ftag=CAD590a51e)

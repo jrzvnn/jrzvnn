@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Top Dell Coupon Code 10% off | December 2024](https://www.wired.com/story/dell-coupon-code/)
+ - [How Tony Sayegh, head of public affairs at a major TikTok investor and an official in the first Trump admin, led the effort to win Trump&#39;s support for TikTok &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/241130/p1#a241130p1)
+ - [Exclusive Nectar Coupon Code: 40% Off December 2024](https://www.wired.com/story/nectar-coupon-code/)
  - [Verizon Promo Codes: $540 Off | December 2024](https://www.wired.com/story/verizon-promo-code/)
- - [Squarespace Promo Codes -  December 2024](https://www.wired.com/story/squarespace-promo-code/)
- - [Wayfair Coupons: Up to 80% Off December 2024](https://www.wired.com/story/wayfair-coupon/)
- - [30% off Samsung Promo Codes - December 2024 Coupons](https://www.wired.com/story/samsung-promo-codes/)
- - [We&#39;re Tracking 80+ Black Friday Deals Live — So You Can Grab the Best Savings Hassle-Free](https://www.cnet.com/deals/best-black-friday-deals-2024-11-30/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Squarespace Promo Codes -  December 2024](https://www.wired.com/story/squarespace-promo-code/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

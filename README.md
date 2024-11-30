@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Based and redpilled shark.](http://9gag.com/gag/a4PEooZ)
- - 😝 [Got the lotion and napkins ready](http://9gag.com/gag/avy5zKq)
- - 💣 [Mother burn\u2019s her 13 year old daughter\u2019s rapist outside of court after he taunted her](http://9gag.com/gag/a9yE1Z0)
- - 😝 [One second sooner](http://9gag.com/gag/abAVgjp)
- - 👉 [Is it hard?](http://9gag.com/gag/aD2dDp9)<!-- MEMES:END -->
+ - 😝 [Sometimes I wake up grumpy, other times I let her sleep.](http://9gag.com/gag/a87E5RQ)
+ - 😝 [Legendary CS2 Video](http://9gag.com/gag/a34E4vr)
+ - 💣 [Is it hard?](http://9gag.com/gag/aD2dDp9)
+ - 😝 [Make-A-Wish](http://9gag.com/gag/aAyb0WR)
+ - 👉 [Bait n switch](http://9gag.com/gag/aMVK4gM)<!-- MEMES:END -->
 
 ---
 

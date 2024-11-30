@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The best Black Friday tech deals we’ve found &lpar;so far&rpar;](https://www.theverge.com/24307545/black-friday-2024-best-deals-tech-gadgets-cyber-monday-gift-ideas)
- - [Here are the best Black Friday deals you can grab for under $30](https://www.theverge.com/24306407/black-friday-2024-best-deals-under-30-tech-gift-ideas-cyber-monday)
- - [A look at the DOJ&#39;s proposed remedies in the Google Search antitrust case, and why forcing a sale of Chrome might not be biggest threat to Google&#39;s power &lpar;Lauren Feiner/The Verge&rpar;](http://www.techmeme.com/241129/p17#a241129p17)
- - [Best Kindle Black Friday Deals and Amazon Device Sales &lpar;2024&rpar;](https://www.wired.com/story/black-friday-amazon-devices-deals-2024-1/)
- - [We&#39;re Tracking 80+ Black Friday Deals Live — So You Can Grab the Best Savings Hassle-Free](https://www.cnet.com/deals/best-black-friday-deals-2024-11-29/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [The 299 Absolute Best Black Friday Deals &lpar;2024&rpar;](https://www.wired.com/story/absolute-best-black-friday-deals-2024/)
+ - [We&#39;re Tracking 80+ Black Friday Deals Live — So You Can Grab the Best Savings Hassle-Free](https://www.cnet.com/deals/best-black-friday-deals-2024-11-29/#ftag=CAD590a51e)
+ - [Today&#39;s NYT Strands Hints, Answers and Help for Nov. 30, #272](https://www.cnet.com/tech/gaming/todays-nyt-strands-hints-answers-and-help-for-nov-30-272/#ftag=CAD590a51e)
+ - [Today&#39;s NYT Connections Hints, Answers and Help for Nov. 30, #538](https://www.cnet.com/tech/gaming/todays-nyt-connections-hints-answers-and-help-for-nov-30-538/#ftag=CAD590a51e)
+ - [Today&#39;s Wordle Hints, Answer and Help for Nov. 30, #1260](https://www.cnet.com/tech/gaming/todays-wordle-hints-answer-and-help-for-nov-30-1260/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

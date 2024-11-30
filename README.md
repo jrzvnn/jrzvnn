@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Science b*tch!](http://9gag.com/gag/agmBonq)
- - 😝 [No woke agenda, just Indonesian flight attendant](http://9gag.com/gag/aKG66BQ)
- - 💣 [Seriously do it!](http://9gag.com/gag/aKG6m61)
- - 😝 [WTF! I didn&#39;t know they could do that.](http://9gag.com/gag/aqyjjXj)
- - 👉 [Is it hard?](http://9gag.com/gag/aD2dDp9)<!-- MEMES:END -->
+ - 😝 [The Matrix: Mirrored doorknob: There was no way to properly hide the camera, so the director of photography threw a coat onto himself with a tie matching the one Morpheus was wearing, trying to blend in as much as possible.](http://9gag.com/gag/an7QQp5)
+ - 😝 [Perfect](http://9gag.com/gag/aXPorDP)
+ - 💣 [Life as a 6ft7 Woman](http://9gag.com/gag/a9yEEeD)
+ - 😝 [New photoshop challenge.](http://9gag.com/gag/ayNM9vV)
+ - 👉 [\u201cDid your genes even fight?\u201d](http://9gag.com/gag/aW4jjLx)<!-- MEMES:END -->
 
 ---
 

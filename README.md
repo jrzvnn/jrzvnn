@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Age is just a number](http://9gag.com/gag/aoyMgy0)
- - 😝 [Life as a 6ft7 Woman](http://9gag.com/gag/a9yEEeD)
- - 💣 [New photoshop challenge.](http://9gag.com/gag/ayNM9vV)
  - 😝 [Bait n switch](http://9gag.com/gag/aMVK4gM)
- - 👉 [WTF! I didn&#39;t know they could do that.](http://9gag.com/gag/aqyjjXj)<!-- MEMES:END -->
+ - 😝 [Seriously do it!](http://9gag.com/gag/aKG6m61)
+ - 💣 [If goofy stuff don\u2019t happen at my funeral , they didn\u2019t know me](http://9gag.com/gag/a6ZEEx2)
+ - 😝 [Mary Tyler Moore accidentally nails a trick shot in front of a live audience in 1962](http://9gag.com/gag/aE0p0po)
+ - 👉 [\u201cDid your genes even fight?\u201d](http://9gag.com/gag/aW4jjLx)<!-- MEMES:END -->
 
 ---
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Best Therabody Black Friday Deals &lpar;2024&rpar;: LED Masks, Massage](https://www.wired.com/story/black-friday-therabody-deals-1/)
+ - [Salesforce says global online Thanksgiving day sales hit $33.6B, up 6% YoY, and $8.1B in the US, up 8% YoY; Adobe says US online sales hit $6.1B, up ~9% YoY &lpar;Ingrid Lunden/TechCrunch&rpar;](http://www.techmeme.com/241129/p18#a241129p18)
  - [The 299 Absolute Best Black Friday Deals &lpar;2024&rpar;](https://www.wired.com/story/absolute-best-black-friday-deals-2024/)
- - [We&#39;re Tracking 80+ Black Friday Deals Live — So You Can Grab the Best Savings Hassle-Free](https://www.cnet.com/deals/best-black-friday-deals-2024-11-29/#ftag=CAD590a51e)
- - [Today&#39;s NYT Strands Hints, Answers and Help for Nov. 30, #272](https://www.cnet.com/tech/gaming/todays-nyt-strands-hints-answers-and-help-for-nov-30-272/#ftag=CAD590a51e)
- - [Today&#39;s NYT Connections Hints, Answers and Help for Nov. 30, #538](https://www.cnet.com/tech/gaming/todays-nyt-connections-hints-answers-and-help-for-nov-30-538/#ftag=CAD590a51e)
- - [Today&#39;s Wordle Hints, Answer and Help for Nov. 30, #1260](https://www.cnet.com/tech/gaming/todays-wordle-hints-answer-and-help-for-nov-30-1260/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [The best Black Friday deals on AirPods, AirTags, and other Apple tech](https://www.theverge.com/24305511/black-friday-apple-best-deals-2024-macbook-airpods-cyber-monday)
+ - [The best Black Friday tech deals we’ve found &lpar;so far&rpar;](https://www.theverge.com/24307545/black-friday-2024-best-deals-tech-gadgets-cyber-monday-gift-ideas)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

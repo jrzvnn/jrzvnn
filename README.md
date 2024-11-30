@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [3 l 3 s is best shown](http://9gag.com/gag/ajPmPDx)
- - 😝 [They let him cook and we got this masterpiece](http://9gag.com/gag/aQzod8q)
- - 💣 [Seriously do it!](http://9gag.com/gag/aKG6m61)
  - 😝 [WTF! I didn&#39;t know they could do that.](http://9gag.com/gag/aqyjjXj)
- - 👉 [Is it hard?](http://9gag.com/gag/aD2dDp9)<!-- MEMES:END -->
+ - 😝 [If goofy stuff don\u2019t happen at my funeral , they didn\u2019t know me](http://9gag.com/gag/a6ZEEx2)
+ - 💣 [Age is just a number](http://9gag.com/gag/aoyMgy0)
+ - 😝 [Wholesome posts that I saved #11](http://9gag.com/gag/awyMz2D)
+ - 👉 [Make-A-Wish](http://9gag.com/gag/aAyb0WR)<!-- MEMES:END -->
 
 ---
 

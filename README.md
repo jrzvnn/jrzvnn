@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Crows can recognize and extinguish fires at an early stage.](http://9gag.com/gag/aRBXBXq)
- - 😝 [1HP Rabbit](http://9gag.com/gag/aW4j4n4)
- - 💣 [Legendary CS2 Video](http://9gag.com/gag/a34E4vr)
- - 😝 [Yea millennial so?](http://9gag.com/gag/ae9A9dv)
- - 👉 [So....](http://9gag.com/gag/azxMxmN)<!-- MEMES:END -->
+ - 😝 [Age is just a number](http://9gag.com/gag/aoyMgy0)
+ - 😝 [This photograph, taken by Andrew McAuley during his attempt to kayak 991 miles across the Tasman Sea from Australia to New Zealand, captures one of his final moments before he vanished at sea.](http://9gag.com/gag/ajPmm6q)
+ - 💣 [Mother burn\u2019s her 13 year old daughter\u2019s rapist outside of court after he taunted her](http://9gag.com/gag/a9yE1Z0)
+ - 😝 [New photoshop challenge.](http://9gag.com/gag/ayNM9vV)
+ - 👉 [Mary Tyler Moore accidentally nails a trick shot in front of a live audience in 1962](http://9gag.com/gag/aE0p0po)<!-- MEMES:END -->
 
 ---
 

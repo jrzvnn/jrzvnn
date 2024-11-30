@@ -161,7 +161,7 @@ R                        1 repo              ░░░░░░░░░░░�
  - [29 Best Black Friday Headphone Deals &lpar;2024&rpar;](https://www.wired.com/story/black-friday-headphone-deals-2024-2/)
  - [38 Best Black Friday Gaming Deals &lpar;2024&rpar;, Consoles and Games](https://www.wired.com/story/black-friday-gaming-deals-2024-2/)
  - [The best Black Friday deals you can still get today](https://www.theverge.com/24309106/best-black-friday-deals-2024-tech-gadgets-cyber-monday)
- - [This high-powered portable power bank is down to just $74 right now](https://www.theverge.com/2024/11/30/24309602/black-friday-2024-anker-737-power-bank-charger-cyber-monday)<!-- TECH:END -->
+ - [We Like This $400 Black Friday Laptop Deal for a Well-Designed, Durable Dell](https://www.cnet.com/deals/we-like-this-400-black-friday-laptop-deal-for-a-well-designed-durable-dell/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

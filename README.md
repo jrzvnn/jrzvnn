@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Design Within Reach Promo Code: 25% Off  | December 2024](https://www.wired.com/story/design-within-reach-promo-code/)
  - [NordVPN Coupon: 74% Off + 3 Months Free](https://www.wired.com/story/nordvpn-coupon/)
  - [Exclusive $50 OFF VistaPrint Coupon | December 2024](https://www.wired.com/story/vistaprint-coupon-code/)
  - [Top Dell Coupon Code 10% off | December 2024](https://www.wired.com/story/dell-coupon-code/)
- - [How Tony Sayegh, head of public affairs at a major TikTok investor and an official in the first Trump admin, led the effort to win Trump&#39;s support for TikTok &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/241130/p1#a241130p1)
- - [Exclusive Nectar Coupon Code: 40% Off December 2024](https://www.wired.com/story/nectar-coupon-code/)<!-- TECH:END -->
+ - [How Tony Sayegh, head of public affairs at a major TikTok investor and an official in the first Trump admin, led the effort to win Trump&#39;s support for TikTok &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/241130/p1#a241130p1)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -157,10 +157,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Black Friday weekend streaming deals slash Disney Plus, Max, Hulu, Paramount Plus to as low as $0.99/mo](https://appleinsider.com/articles/24/11/27/black-friday-streaming-deals-slash-disney-plus-max-hulu-paramount-plus-to-as-low-099mo?utm_medium=rss)
  - [7 best Black Friday iPad deals 2024 extended: save up to $1,000](https://appleinsider.com/articles/24/11/29/7-best-black-friday-ipad-deals-2024-save-up-to-1000?utm_medium=rss)
  - [Black Friday iMac sale extended: grab M4 all-in-one desktop for just $1,149.99](https://appleinsider.com/articles/24/11/28/black-friday-imac-sale-grab-m4-all-in-one-desktop-for-just-114999?utm_medium=rss)
- - [20 Best Black Friday Coffee and Espresso Deals &lpar;2024&rpar;](https://www.wired.com/story/black-friday-coffee-deals-1/)
- - [Tune In to the Healing Powers of a Decent Playlist](https://www.wired.com/story/music-therapy-health-care/)
+ - [La Liga Soccer Livestream: How to Watch Barcelona vs. Las Palmas From Anywhere](https://www.cnet.com/tech/services-and-software/la-liga-soccer-livestream-how-to-watch-barcelona-vs-las-palmas-from-anywhere/#ftag=CAD590a51e)
  - [We&#39;re Tracking Over 80 Black Friday Deals You Can Still Grab Now](https://www.cnet.com/deals/best-black-friday-deals-2024-11-30/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The Commonwealth Bank of Australia says generative AI tools have helped it lower frauds by 30% and reduce call center customer wait times by 40% in 2024 &lpar;Harry Brumpton/Bloomberg&rpar;](http://www.techmeme.com/241130/p2#a241130p2)
  - [The best Black Friday deals you can still get](https://www.theverge.com/24307545/black-friday-2024-best-deals-tech-gadgets-cyber-monday-gift-ideas)
  - [Protests close Washington Apple Store during peak Black Friday rush](https://appleinsider.com/articles/24/11/30/protests-close-washington-apple-store-during-peak-black-friday-rush?utm_medium=rss)
  - [We&#39;re Tracking Over 80 Black Friday Deals You Can Still Grab Now](https://www.cnet.com/deals/best-black-friday-deals-2024-11-30/#ftag=CAD590a51e)
- - [Premier League Soccer: Livestream Crystal Palace vs. Newcastle From Anywhere](https://www.cnet.com/tech/services-and-software/premier-league-soccer-livestream-crystal-palace-vs-newcastle-from-anywhere/#ftag=CAD590a51e)
- - [Power Out? Here&#39;s How to Keep Your Fridge Food Safe](https://www.cnet.com/how-to/power-out-heres-how-to-keep-your-fridge-food-safe/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Premier League Soccer: Livestream Crystal Palace vs. Newcastle From Anywhere](https://www.cnet.com/tech/services-and-software/premier-league-soccer-livestream-crystal-palace-vs-newcastle-from-anywhere/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

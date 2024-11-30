@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Bluesky now requires parody or fan accounts to label themselves as such after a researcher found 44% of its 100 most-followed accounts have a doppelganger &lpar;Mariella Moon/Engadget&rpar;](http://www.techmeme.com/241130/p7#a241130p7)
  - [The best Black Friday deals you can still get today](https://www.theverge.com/24309106/best-black-friday-deals-2024-tech-gadgets-cyber-monday)
  - [33 Best Walmart Black Friday Deals &lpar;2024&rpar;](https://www.wired.com/story/walmart-deals-november-2024-3/)
  - [317 Absolute Best Black Friday Deals &lpar;2024&rpar;](https://www.wired.com/story/absolute-best-black-friday-deals-2024-1/)
- - [Amazon Prime Cyber Monday deal: CalDigit TS3 Plus Thunderbolt 3 dock for $167.99](https://appleinsider.com/articles/24/11/30/amazon-prime-cyber-monday-deal-caldigit-ts3-plus-thunderbolt-3-dock-for-16799?utm_medium=rss)
- - [OpenAI says it plans to build data centers in parts of the US Midwest and Southwest; sources: OpenAI is spending $5B+ a year and is &quot;not close to breaking even&quot; &lpar;Financial Times&rpar;](http://www.techmeme.com/241130/p6#a241130p6)<!-- TECH:END -->
+ - [Amazon Prime Cyber Monday deal: CalDigit TS3 Plus Thunderbolt 3 dock for $167.99](https://appleinsider.com/articles/24/11/30/amazon-prime-cyber-monday-deal-caldigit-ts3-plus-thunderbolt-3-dock-for-16799?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

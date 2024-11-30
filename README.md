@@ -157,9 +157,9 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [We&#39;re Tracking 80+ Black Friday Deals Live — So You Can Grab the Best Savings Hassle-Free](https://www.cnet.com/deals/best-black-friday-deals-2024-11-30/#ftag=CAD590a51e)
  - [The best Black Friday tech deals we’ve found](https://www.theverge.com/24307545/black-friday-2024-best-deals-tech-gadgets-cyber-monday-gift-ideas)
  - [Best Black Friday Deals for Beauty and Hair Tools &lpar;2024&rpar; | WIRED](https://www.wired.com/story/black-friday-beauty-and-hair-deals/)
- - [We&#39;re Tracking 80+ Black Friday Deals Live — So You Can Grab the Best Savings Hassle-Free](https://www.cnet.com/deals/best-black-friday-deals-2024-11-29/#ftag=CAD590a51e)
  - [The best Black Friday gaming deals you can shop right now](https://www.theverge.com/24303477/black-friday-best-deals-gaming-nintendo-playstation-xbox-cyber-monday-2024)
  - [Today&#39;s NYT Mini Crossword Answers for Saturday, Nov. 30](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-saturday-nov-30/#ftag=CAD590a51e)<!-- TECH:END -->
 

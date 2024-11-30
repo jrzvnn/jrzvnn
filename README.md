@@ -158,8 +158,8 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- TECH:START -->
  - [Tune In to the Healing Powers of a Decent Playlist](https://www.wired.com/story/music-therapy-health-care/)
+ - [We&#39;re Tracking Over 80 Black Friday Deals You Can Still Grab Now](https://www.cnet.com/deals/best-black-friday-deals-2024-11-30/#ftag=CAD590a51e)
  - [Hoka Coupon Code: Free Shipping in December 2024](https://www.wired.com/story/hoka-coupon-code/)
- - [We&#39;re Tracking 80+ Black Friday Deals You Can Still Grab Now](https://www.cnet.com/deals/best-black-friday-deals-2024-11-30/#ftag=CAD590a51e)
  - [Design Within Reach Promo Code: 25% Off  | December 2024](https://www.wired.com/story/design-within-reach-promo-code/)
  - [NordVPN Coupon: 74% Off + 3 Months Free](https://www.wired.com/story/nordvpn-coupon/)<!-- TECH:END -->
 

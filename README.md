@@ -158,10 +158,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- TECH:START -->
  - [Hoka Coupon Code: Free Shipping in December 2024](https://www.wired.com/story/hoka-coupon-code/)
+ - [We&#39;re Tracking 80+ Black Friday Deals You Can Still Grab Now](https://www.cnet.com/deals/best-black-friday-deals-2024-11-30/#ftag=CAD590a51e)
  - [Design Within Reach Promo Code: 25% Off  | December 2024](https://www.wired.com/story/design-within-reach-promo-code/)
  - [NordVPN Coupon: 74% Off + 3 Months Free](https://www.wired.com/story/nordvpn-coupon/)
- - [Exclusive $50 OFF VistaPrint Coupon | December 2024](https://www.wired.com/story/vistaprint-coupon-code/)
- - [Top Dell Coupon Code 10% off | December 2024](https://www.wired.com/story/dell-coupon-code/)<!-- TECH:END -->
+ - [Exclusive $50 OFF VistaPrint Coupon | December 2024](https://www.wired.com/story/vistaprint-coupon-code/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

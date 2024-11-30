@@ -167,10 +167,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [Her look tho](http://9gag.com/gag/aryMMn7)
+ - 😝 [Seriously do it!](http://9gag.com/gag/aKG6m61)
+ - 💣 [3 l 3 s is best shown](http://9gag.com/gag/ajPmPDx)
  - 😝 [Make-A-Wish](http://9gag.com/gag/aAyb0WR)
- - 💣 [Exactly as one would have expected.](http://9gag.com/gag/a5QEXpO)
- - 😝 [\u201cDid your genes even fight?\u201d](http://9gag.com/gag/aW4jjLx)
- - 👉 [3 l 3 s is best shown](http://9gag.com/gag/ajPmPDx)<!-- MEMES:END -->
+ - 👉 [\u201cDid your genes even fight?\u201d](http://9gag.com/gag/aW4jjLx)<!-- MEMES:END -->
 
 ---
 

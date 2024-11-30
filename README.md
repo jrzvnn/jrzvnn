@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Fighter fart causes opponent to pike while match](http://9gag.com/gag/aBy22w2)
- - 😝 [Lady catches an amazing surprise.](http://9gag.com/gag/aAybb00)
- - 💣 [Blast blows out windows behind wedding couple](http://9gag.com/gag/azxM1Pm)
- - 😝 [Cheese.](http://9gag.com/gag/a0e77xO)
- - 👉 [\u201cDid your genes even fight?\u201d](http://9gag.com/gag/aW4jjLx)<!-- MEMES:END -->
+ - 😝 [\u201cDid your genes even fight?\u201d](http://9gag.com/gag/aW4jjLx)
+ - 😝 [New photoshop challenge.](http://9gag.com/gag/ayNM9vV)
+ - 💣 [No woke agenda, just Indonesian flight attendant](http://9gag.com/gag/aKG66BQ)
+ - 😝 [Age is just a number](http://9gag.com/gag/aoyMgy0)
+ - 👉 [Perfect](http://9gag.com/gag/aXPorDP)<!-- MEMES:END -->
 
 ---
 

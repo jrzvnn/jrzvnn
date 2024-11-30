@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Verizon Promo Codes: $540 Off | December 2024](https://www.wired.com/story/verizon-promo-code/)
  - [Squarespace Promo Codes -  December 2024](https://www.wired.com/story/squarespace-promo-code/)
  - [Wayfair Coupons: Up to 80% Off December 2024](https://www.wired.com/story/wayfair-coupon/)
  - [30% off Samsung Promo Codes - December 2024 Coupons](https://www.wired.com/story/samsung-promo-codes/)
- - [We&#39;re Tracking 80+ Black Friday Deals Live — So You Can Grab the Best Savings Hassle-Free](https://www.cnet.com/deals/best-black-friday-deals-2024-11-30/#ftag=CAD590a51e)
- - [The best Black Friday tech deals we’ve found](https://www.theverge.com/24307545/black-friday-2024-best-deals-tech-gadgets-cyber-monday-gift-ideas)<!-- TECH:END -->
+ - [We&#39;re Tracking 80+ Black Friday Deals Live — So You Can Grab the Best Savings Hassle-Free](https://www.cnet.com/deals/best-black-friday-deals-2024-11-30/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

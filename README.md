@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [So....](http://9gag.com/gag/azxMxmN)
- - 😝 [Life is beautiful and so are people \u2728](http://9gag.com/gag/awyMZbx)
- - 💣 [A short, witty title](http://9gag.com/gag/aGypyrK)
- - 😝 [The complete European experience.](http://9gag.com/gag/aqyjRrv)
- - 👉 [He&#39;s just a silly lil guyy](http://9gag.com/gag/aZZ0ZOp)<!-- MEMES:END -->
+ - 😝 [No woke agenda, just Indonesian flight attendant](http://9gag.com/gag/aKG66BQ)
+ - 😝 [Is it hard?](http://9gag.com/gag/aD2dDp9)
+ - 💣 [Who wouldn\u2019t?](http://9gag.com/gag/a6ZEZEe)
+ - 😝 [Seriously do it!](http://9gag.com/gag/aKG6m61)
+ - 👉 [3 l 3 s is best shown](http://9gag.com/gag/ajPmPDx)<!-- MEMES:END -->
 
 ---
 

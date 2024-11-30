@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The best Black Friday smart home deals you can still grab](https://www.theverge.com/24306780/black-friday-best-deals-smart-home-tech-2024-cyber-monday)
  - [The best Black Friday smartwatch and fitness tracker deals still available](https://www.theverge.com/good-deals/24306393/black-friday-2024-best-deals-smartwatch-fitness-tracker-wearables-cyber-monday)
  - [Best Black Friday Phone Deals &lpar;2024&rpar;, Including Cases Too](https://www.wired.com/story/black-friday-phone-deals-2024-2/)
  - [Salesforce says online Black Friday sales hit $74.4B globally, up 5% YoY, and $17.5B in the US, up 7% YoY; Adobe says US online sales hit $10.8B, up 10.2% YoY &lpar;Ingrid Lunden/TechCrunch&rpar;](http://www.techmeme.com/241130/p5#a241130p5)
- - [Marvel Rivals gets Wolverine, Black Widow, and more in the latest trailer](https://www.theverge.com/2024/11/30/24309516/marvel-rivals-gets-wolverine-black-widow-and-more-in-the-latest-trailer)
- - [14 Great Black Friday Soundbar Deals to Pump Up the Volume &lpar;2024&rpar;](https://www.wired.com/story/black-friday-soundbar-deals-2024-2/)<!-- TECH:END -->
+ - [Marvel Rivals gets Wolverine, Black Widow, and more in the latest trailer](https://www.theverge.com/2024/11/30/24309516/marvel-rivals-gets-wolverine-black-widow-and-more-in-the-latest-trailer)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

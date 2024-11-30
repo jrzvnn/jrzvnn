@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The best Black Friday headphone and earbud deals](https://www.theverge.com/24307533/black-friday-best-deals-headphones-wireless-earbuds-airpods-2024-cyber-monday)
- - [39 Best Black Friday Deals Under $50 &lpar;2024&rpar;](https://www.wired.com/story/black-friday-2024-deals-under-50/)
- - [The best Black Friday tech deals we’ve found &lpar;so far&rpar;](https://www.theverge.com/24307545/black-friday-2024-best-deals-tech-gadgets-cyber-monday-gift-ideas)
- - [You can pick up an Apple Watch starting at just $149 right now](https://www.theverge.com/2024/11/29/24309202/black-friday-2024-apple-watch-se-cyber-monday)
- - [23 Best Black Friday Laptop Deals &lpar;2024&rpar;: Acer, Apple, Anker](https://www.wired.com/story/best-black-friday-laptop-deals-2024-1/)<!-- TECH:END -->
+ - [Here are the best Black Friday deals you can grab for under $30](https://www.theverge.com/24306407/black-friday-2024-best-deals-under-30-tech-gift-ideas-cyber-monday)
+ - [A look at the DOJ&#39;s proposed remedies in the Google Search antitrust case, and why forcing a sale of Chrome might not be biggest threat to Google&#39;s power &lpar;Lauren Feiner/The Verge&rpar;](http://www.techmeme.com/241129/p17#a241129p17)
+ - [Best Kindle Black Friday Deals and Amazon Device Sales &lpar;2024&rpar;](https://www.wired.com/story/black-friday-amazon-devices-deals-2024-1/)
+ - [We&#39;re Tracking 80+ Black Friday Deals Live — So You Can Grab the Best Savings Hassle-Free](https://www.cnet.com/deals/best-black-friday-deals-2024-11-29/#ftag=CAD590a51e)
+ - [The best Black Friday headphone and earbud deals](https://www.theverge.com/24307533/black-friday-best-deals-headphones-wireless-earbuds-airpods-2024-cyber-monday)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

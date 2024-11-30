@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The 100 best Black Friday deals you can still get for under $100](https://www.theverge.com/24309009/black-friday-2024-best-deals-under-100-tech-gift-ideas-cyber-monday)
  - [The 12 best TV deals for Black Friday you can still get](https://www.theverge.com/24307741/black-friday-tv-deals-lg-samsung-sony-tcl-cyber-monday-2024)
  - [The best Black Friday deals still around on AirPods, AirTags, and other Apple tech](https://www.theverge.com/24305511/black-friday-apple-best-deals-2024-macbook-airpods-cyber-monday)
  - [Cyber Monday software deals hit Adobe Creative Cloud, Parallels Desktop, Microsoft Office, VPNs](https://appleinsider.com/articles/24/11/23/black-friday-software-deals-hit-adobe-creative-cloud-parallels-desktop-microsoft-office-vpns?utm_medium=rss)
- - [Here are the best Black Friday deals you can still get for under $30](https://www.theverge.com/24306407/black-friday-2024-best-deals-under-30-tech-gift-ideas-cyber-monday)
- - [Upgrade to the New Apple Watch Series 10 With $70 Off at Amazon Thanks to this Black Friday Deal](https://www.cnet.com/deals/upgrade-to-the-new-apple-watch-series-10-with-70-off-at-amazon-thanks-to-this-black-friday-deal/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Here are the best Black Friday deals you can still get for under $30](https://www.theverge.com/24306407/black-friday-2024-best-deals-under-30-tech-gift-ideas-cyber-monday)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

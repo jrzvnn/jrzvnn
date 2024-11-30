@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Sometimes I wake up grumpy, other times I let her sleep.](http://9gag.com/gag/a87E5RQ)
- - 😝 [Legendary CS2 Video](http://9gag.com/gag/a34E4vr)
- - 💣 [Is it hard?](http://9gag.com/gag/aD2dDp9)
- - 😝 [Make-A-Wish](http://9gag.com/gag/aAyb0WR)
- - 👉 [Bait n switch](http://9gag.com/gag/aMVK4gM)<!-- MEMES:END -->
+ - 😝 [3 l 3 s is best shown](http://9gag.com/gag/ajPmPDx)
+ - 😝 [They let him cook and we got this masterpiece](http://9gag.com/gag/aQzod8q)
+ - 💣 [Seriously do it!](http://9gag.com/gag/aKG6m61)
+ - 😝 [WTF! I didn&#39;t know they could do that.](http://9gag.com/gag/aqyjjXj)
+ - 👉 [Is it hard?](http://9gag.com/gag/aD2dDp9)<!-- MEMES:END -->
 
 ---
 

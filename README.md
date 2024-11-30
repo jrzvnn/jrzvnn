@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Age is just a number](http://9gag.com/gag/aoyMgy0)
- - 😝 [This photograph, taken by Andrew McAuley during his attempt to kayak 991 miles across the Tasman Sea from Australia to New Zealand, captures one of his final moments before he vanished at sea.](http://9gag.com/gag/ajPmm6q)
- - 💣 [Blast blows out windows behind wedding couple](http://9gag.com/gag/azxM1Pm)
- - 😝 [\u201cDid your genes even fight?\u201d](http://9gag.com/gag/aW4jjLx)
- - 👉 [Sometimes I wake up grumpy, other times I let her sleep.](http://9gag.com/gag/a87E5RQ)<!-- MEMES:END -->
+ - 😝 [Dolph Lundgren reveals he\u2019s cancer-free following 9-year battle after doctors gave him only 2 years.](http://9gag.com/gag/aXPooz9)
+ - 😝 [Got the lotion and napkins ready](http://9gag.com/gag/avy5zKq)
+ - 💣 [Mother burn\u2019s her 13 year old daughter\u2019s rapist outside of court after he taunted her](http://9gag.com/gag/a9yE1Z0)
+ - 😝 [Nnnyess](http://9gag.com/gag/aMVKEBM)
+ - 👉 [One second sooner](http://9gag.com/gag/abAVgjp)<!-- MEMES:END -->
 
 ---
 

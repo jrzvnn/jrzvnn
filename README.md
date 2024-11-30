@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Dolph Lundgren reveals he\u2019s cancer-free following 9-year battle after doctors gave him only 2 years.](http://9gag.com/gag/aXPooz9)
- - 😝 [Got the lotion and napkins ready](http://9gag.com/gag/avy5zKq)
- - 💣 [Mother burn\u2019s her 13 year old daughter\u2019s rapist outside of court after he taunted her](http://9gag.com/gag/a9yE1Z0)
- - 😝 [Nnnyess](http://9gag.com/gag/aMVKEBM)
- - 👉 [One second sooner](http://9gag.com/gag/abAVgjp)<!-- MEMES:END -->
+ - 😝 [Fighter fart causes opponent to pike while match](http://9gag.com/gag/aBy22w2)
+ - 😝 [Lady catches an amazing surprise.](http://9gag.com/gag/aAybb00)
+ - 💣 [Blast blows out windows behind wedding couple](http://9gag.com/gag/azxM1Pm)
+ - 😝 [Cheese.](http://9gag.com/gag/a0e77xO)
+ - 👉 [\u201cDid your genes even fight?\u201d](http://9gag.com/gag/aW4jjLx)<!-- MEMES:END -->
 
 ---
 

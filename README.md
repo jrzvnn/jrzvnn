@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Snag Apple&#39;s 1TB M4 Pro MacBook Pro 14-inch for $1,999 during Black Friday weekend sale](https://appleinsider.com/articles/24/11/30/snag-apples-1tb-m4-pro-macbook-pro-14-inch-for-1999-during-black-friday-weekend-sale?utm_medium=rss)
  - [Elon Musk targets OpenAI’s for-profit transition in a new filing](https://www.theverge.com/2024/11/30/24309697/elon-musk-openai-lawsuit-for-profit-transition-preliminary-injunction)
  - [29 Best Black Friday Headphone Deals &lpar;2024&rpar;](https://www.wired.com/story/black-friday-headphone-deals-2024-2/)
  - [38 Best Black Friday Gaming Deals &lpar;2024&rpar;, Consoles and Games](https://www.wired.com/story/black-friday-gaming-deals-2024-2/)
- - [The best Black Friday deals you can still get today](https://www.theverge.com/24309106/best-black-friday-deals-2024-tech-gadgets-cyber-monday)
- - [We Like This $400 Black Friday Laptop Deal for a Well-Designed, Durable Dell](https://www.cnet.com/deals/we-like-this-400-black-friday-laptop-deal-for-a-well-designed-durable-dell/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [The best Black Friday deals you can still get today](https://www.theverge.com/24309106/best-black-friday-deals-2024-tech-gadgets-cyber-monday)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

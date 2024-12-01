@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The best Cyber Monday deals on AirPods, AirTags, and other Apple tech](https://www.theverge.com/24305511/black-friday-apple-best-deals-2024-macbook-airpods-cyber-monday)
  - [5 Best Smart Christmas Lights &lpar;2024&rpar;, Tested and Reviewed](https://www.wired.com/gallery/best-smart-christmas-lights/)
  - [The best Cyber Monday smartwatch and fitness tracker deals](https://www.theverge.com/good-deals/24306393/black-friday-2024-best-deals-smartwatch-fitness-tracker-wearables-cyber-monday)
  - [The best Cyber Monday deals you can shop right now](https://www.theverge.com/24309106/best-black-friday-deals-2024-tech-gadgets-cyber-monday)
- - [Sonos Redesigned Its App and Made a Subscription Model Possible](https://www.wired.com/story/sonos-redesigned-its-app-and-made-a-subscription-model-possible/)
- - [Sunday Night Football: How to Watch 49ers vs. Bills Tonight](https://www.cnet.com/tech/services-and-software/sunday-night-football-how-to-watch-49ers-vs-bills-tonight/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Sonos Redesigned Its App and Made a Subscription Model Possible](https://www.wired.com/story/sonos-redesigned-its-app-and-made-a-subscription-model-possible/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -160,8 +160,8 @@ R                        1 repo              ░░░░░░░░░░░�
  - [How the UK, Australia, the US, South Korea, and the EU are dealing with explicit AI deepfakes, as legislation around the world remains largely untested &lpar;Financial Times&rpar;](http://www.techmeme.com/241201/p5#a241201p5)
  - [Nike Promo Code: Extra 30% Off Select Styles](https://www.wired.com/story/nike-promo-code/)
  - [The Mystery of How Supermassive Black Holes Merge](https://www.wired.com/story/how-do-merging-supermassive-black-holes-pass-the-final-parsec/)
- - [A look at Death Clock, an app that claims to predict a user&#39;s likely date of death by using an AI model trained on a dataset of 1,200+ life expectancy studies &lpar;Alexandre Tanzi/Bloomberg&rpar;](http://www.techmeme.com/241201/p4#a241201p4)
- - [Star Citizen, a video game in development since 2012, has now raised $750M+ in crowdfunding, and its single-player spin-off Squadron 42 won&#39;t be out until 2026 &lpar;Jack Coleman/TheGamer&rpar;](http://www.techmeme.com/241201/p3#a241201p3)<!-- TECH:END -->
+ - [We Found 80+ Black Friday Weekend and Cyber Monday Deals Available Now](https://www.cnet.com/deals/best-black-friday-deals-2024-11-30/#ftag=CAD590a51e)
+ - [A look at Death Clock, an app that claims to predict a user&#39;s likely date of death by using an AI model trained on a dataset of 1,200+ life expectancy studies &lpar;Alexandre Tanzi/Bloomberg&rpar;](http://www.techmeme.com/241201/p4#a241201p4)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

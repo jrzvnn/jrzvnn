@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Get 78% off lifetime access to Babbel &amp; learn languages on your iPhone](https://appleinsider.com/articles/24/12/01/get-78-off-lifetime-access-to-babbel-learn-languages-on-your-iphone?utm_medium=rss)
+ - [The 12 best TV deals for Cyber Monday](https://www.theverge.com/24307741/black-friday-tv-deals-lg-samsung-sony-tcl-cyber-monday-2024)
  - [The Best Black Friday Air Fryer and Kitchen Deals &lpar;2024&rpar;](https://www.wired.com/story/black-friday-kitchen-deals-2024-1/)
  - [17 Best Black Friday Deals on Essential Travel Gear &lpar;2024&rpar;: Suitcases and Luggage](https://www.wired.com/story/black-friday-2024-travel-deals/)
- - [The best Cyber Monday phone deals I’d actually recommend to real people](https://www.theverge.com/24306779/black-friday-2024-smartphone-best-deals-apple-samsung-pixel-motorola)
- - [Best Black Friday Phone Deals &lpar;2024&rpar;, Including Cases Too](https://www.wired.com/story/black-friday-phone-deals-2024-2/)
- - [Meta will require advertisers to be verified before they can run ads targeting Australian users with financial services, starting in early February 2025 &lpar;Josh Taylor/The Guardian&rpar;](http://www.techmeme.com/241201/p9#a241201p9)<!-- TECH:END -->
+ - [The best Cyber Monday phone deals I’d actually recommend to real people](https://www.theverge.com/24306779/black-friday-2024-smartphone-best-deals-apple-samsung-pixel-motorola)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

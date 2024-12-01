@@ -166,10 +166,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [What the f**k is that](http://9gag.com/gag/aAyb03E)
  - 😝 [She is perfect and he is lucky](http://9gag.com/gag/a34E5v5)
- - 😝 [Ah bloody hell...](http://9gag.com/gag/aNDpLrv)
- - 💣 [Oh no](http://9gag.com/gag/a34EGLr)
- - 😝 [Might have bought migraine tablets](http://9gag.com/gag/aKG6GZj)
+ - 💣 [Dude: Shits on fire yo Driver: What? My truck?!](http://9gag.com/gag/apRN3A9)
+ - 😝 [Dopping by](http://9gag.com/gag/a5QEXnL)
  - 👉 [Is that really iron man?](http://9gag.com/gag/aD2dY0d)<!-- MEMES:END -->
 
 ---

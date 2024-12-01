@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [Ps5 exhaust melted the wall paint. Kept behind tv.](http://9gag.com/gag/aGypnY5)
+ - 😝 [Waifu barber](http://9gag.com/gag/amoP10v)
+ - 💣 [The business guy understood everything](http://9gag.com/gag/ayNMNNy)
  - 😝 [3 l 3 s is best shown](http://9gag.com/gag/ajPmPDx)
- - 😝 [Good day for a bike ride](http://9gag.com/gag/ae9A15Q)
- - 💣 [Waifu barber](http://9gag.com/gag/amoP10v)
- - 😝 [Dutch : Guys we are F*cked](http://9gag.com/gag/amoPo7y)
- - 👉 [Wingman](http://9gag.com/gag/aW4j7d3)<!-- MEMES:END -->
+ - 👉 [Good day for a bike ride](http://9gag.com/gag/ae9A15Q)<!-- MEMES:END -->
 
 ---
 

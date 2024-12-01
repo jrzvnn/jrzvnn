@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Has your father heard about this?](http://9gag.com/gag/a9yEzLL)
- - 😝 [Life is beautiful and so are people \u2728](http://9gag.com/gag/awyMZbx)
- - 💣 [The complete European experience.](http://9gag.com/gag/aqyjRrv)
- - 😝 [A short, witty title](http://9gag.com/gag/aGypyrK)
- - 👉 [He&#39;s just a silly lil guyy](http://9gag.com/gag/aZZ0ZOp)<!-- MEMES:END -->
+ - 😝 [A Riveting Performance](http://9gag.com/gag/a87EqV1)
+ - 😝 [Lol](http://9gag.com/gag/aoyMMw0)
+ - 💣 [Ah bloody hell...](http://9gag.com/gag/aNDpLrv)
+ - 😝 [A horrible idea executed perfectly](http://9gag.com/gag/a87EA4e)
+ - 👉 [Age is just a number](http://9gag.com/gag/aoyMgy0)<!-- MEMES:END -->
 
 ---
 

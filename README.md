@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Life is beautiful and so are people \u2728](http://9gag.com/gag/awyMZbx)
- - 😝 [Are you sure it\u2019s not trans?](http://9gag.com/gag/aGypnx7)
- - 💣 [A short, witty title](http://9gag.com/gag/aGypyrK)
- - 😝 [Pizza flipping skills](http://9gag.com/gag/a6ZEXLm)
- - 👉 [Simple message](http://9gag.com/gag/ajPm7rq)<!-- MEMES:END -->
+ - 😝 [Gonna stick to my own knowledge](http://9gag.com/gag/avy5Q4Z)
+ - 😝 [Is that really iron man?](http://9gag.com/gag/aD2dY0d)
+ - 💣 [Dopping by](http://9gag.com/gag/a5QEXnL)
+ - 😝 [New photoshop challenge.](http://9gag.com/gag/ayNM9vV)
+ - 👉 [Mother burn\u2019s her 13 year old daughter\u2019s rapist outside of court after he taunted her](http://9gag.com/gag/a9yE1Z0)<!-- MEMES:END -->
 
 ---
 

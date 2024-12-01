@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Star Citizen, a video game in development since 2012, has now raised $750M+ in crowdfunding, and its single-player spin-off Squadron 42 won&#39;t be out until 2026 &lpar;Jack Coleman/TheGamer&rpar;](http://www.techmeme.com/241201/p3#a241201p3)
+ - [Some UK policymakers worry about Elon Musk complicating UK-US ties, as his diatribes against the Labour government extend well beyond tech and free speech &lpar;Financial Times&rpar;](http://www.techmeme.com/241201/p2#a241201p2)
+ - [We Found 80+ Black Friday Weekend and Cyber Monday Deals Available Now](https://www.cnet.com/deals/best-black-friday-deals-2024-11-30/#ftag=CAD590a51e)
  - [Data shows India&#39;s UPI recorded 10B+ merchant transactions in October 2024, up 53% YoY, while credit cards saw a 35% YoY increase in transactions to 433M &lpar;Pratik Bhakta/The Economic Times&rpar;](http://www.techmeme.com/241201/p1#a241201p1)
- - [We Keep Finding More Black Friday Deals: 80+ Discounts to Check Out Now](https://www.cnet.com/deals/best-black-friday-deals-2024-11-30/#ftag=CAD590a51e)
- - [Today&#39;s NYT Mini Crossword Answers for Sunday, Dec. 1](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-sunday-dec-1/#ftag=CAD590a51e)
- - [Today&#39;s NYT Connections Hints, Answers and Help for Dec. 1, #539](https://www.cnet.com/tech/gaming/todays-nyt-connections-hints-answers-and-help-for-dec-1-539/#ftag=CAD590a51e)
- - [Today&#39;s Wordle Hints, Answer and Help for Dec. 1, #1261](https://www.cnet.com/tech/gaming/todays-wordle-hints-answer-and-help-for-dec-1-1261/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Today&#39;s NYT Mini Crossword Answers for Sunday, Dec. 1](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-sunday-dec-1/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

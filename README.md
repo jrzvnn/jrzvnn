@@ -157,7 +157,7 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [340 Absolute Best Black Friday Deals Still Available &lpar;2024&rpar; | WIRED](https://www.wired.com/story/absolute-best-black-friday-deals-2024-1/)
+ - [348 Absolute Best Black Friday Deals Still Available &lpar;2024&rpar; | WIRED](https://www.wired.com/story/absolute-best-black-friday-deals-2024-1/)
  - [The best Cyber Monday gaming deals you can get](https://www.theverge.com/24303477/black-friday-best-deals-gaming-nintendo-playstation-xbox-cyber-monday-2024)
  - [The 100 best Cyber Monday deals under $100](https://www.theverge.com/24309009/black-friday-2024-best-deals-under-100-tech-gift-ideas-cyber-monday)
  - [We Found 80+ Best Cyber Monday Deals on Laptops, TVs and Other Top Tech](https://www.cnet.com/deals/best-cyber-monday-deals-live-2024-12-01/#ftag=CAD590a51e)

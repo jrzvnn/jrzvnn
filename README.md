@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Amazon&#39;s best Cyber Monday Apple deals are live with prices from $11](https://appleinsider.com/articles/24/11/30/amazons-best-cyber-monday-apple-deals-are-live-with-prices-from-11?utm_medium=rss)
- - [Snag Apple&#39;s 1TB M4 Pro MacBook Pro 14-inch for $1,999 during Black Friday weekend sale](https://appleinsider.com/articles/24/11/30/snag-apples-1tb-m4-pro-macbook-pro-14-inch-for-1999-during-black-friday-weekend-sale?utm_medium=rss)
- - [Elon Musk targets OpenAI’s for-profit transition in a new filing](https://www.theverge.com/2024/11/30/24309697/elon-musk-openai-lawsuit-for-profit-transition-preliminary-injunction)
- - [Black Friday Is Still Going Strong. We&#39;re Seeing These 80+ Great Deals Right Now](https://www.cnet.com/deals/best-black-friday-deals-2024-11-30/#ftag=CAD590a51e)
- - [One of Our Favorite E-Bikes Is $600 Off for Black Friday](https://www.cnet.com/roadshow/news/get-up-to-an-instant-600-off-a-tenways-e-bike-with-this-black-friday-deal/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [A look at AI-enabled dashcam tech being developed by Samsara, Motive, Nauto, and others to detect fatigue and deliver real-time audio alerts to drowsy drivers &lpar;Willie D. Jones/IEEE Spectrum&rpar;](http://www.techmeme.com/241130/p11#a241130p11)
+ - [Best Cyber Monday iPhone Deals: get an iPhone 16 for as little as a penny](https://appleinsider.com/articles/24/12/01/best-cyber-monday-iphone-deals-get-an-iphone-16-for-as-little-as-a-penny?utm_medium=rss)
+ - [Best Cookware Sets for 2024](https://www.cnet.com/news/best-cookware-sets/#ftag=CAD590a51e)
+ - [We Keep Finding More Black Friday Deals: 80+ Discounts to Check Out Now](https://www.cnet.com/deals/best-black-friday-deals-2024-11-30/#ftag=CAD590a51e)
+ - [I&#39;m Seeing 50% Off Glasses at Eyeglasses.com This Weekend. That Could Save Me Hundreds](https://www.cnet.com/deals/50-percent-off-glasses-at-eyeglassescom-black-friday-cyber-monday/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [21 Best Black Friday Clothing Deals on WIRED-Specific Fashion Finds](https://www.wired.com/story/black-friday-clothing-deals-2024/)
  - [359 Absolute Best Black Friday Deals Still Available &lpar;2024&rpar; | WIRED](https://www.wired.com/story/absolute-best-black-friday-deals-2024-1/)
  - [I can’t get over how good a deal the Pixel 8A is for $399](https://www.theverge.com/good-deals/2024/12/1/24310415/google-pixel-8a-black-friday-cyber-monday-deal)
  - [We Found 80+ Best Cyber Monday Deals to Shop at Amazon, Best Buy, Walmart and More](https://www.cnet.com/deals/best-cyber-monday-deals-live-2024-12-01/#ftag=CAD590a51e)
- - [21 Best Black Friday Coffee and Espresso Deals—Going Fast](https://www.wired.com/story/black-friday-coffee-deals-2/)
- - [Best Black Friday Deals for Beauty and Hair Tools &lpar;2024&rpar; | WIRED](https://www.wired.com/story/black-friday-beauty-and-hair-deals/)<!-- TECH:END -->
+ - [21 Best Black Friday Coffee and Espresso Deals—Going Fast](https://www.wired.com/story/black-friday-coffee-deals-2/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

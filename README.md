@@ -166,10 +166,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [She is perfect and he is lucky](http://9gag.com/gag/a34E5v5)
- - 😝 [Have a great day](http://9gag.com/gag/ae9A9xQ)
- - 💣 [Might have bought migraine tablets](http://9gag.com/gag/aKG6GZj)
- - 😝 [Wingman](http://9gag.com/gag/aW4j7d3)
+ - 😝 [It needs to end happily...](http://9gag.com/gag/a5QEVMO)
+ - 😝 [Might have bought migraine tablets](http://9gag.com/gag/aKG6GZj)
+ - 💣 [She didn\u2019t just\u2026 she didn\u2019t.. did she?](http://9gag.com/gag/aAybQw2)
+ - 😝 [Ah bloody hell...](http://9gag.com/gag/aNDpLrv)
  - 👉 [Dude: Shits on fire yo Driver: What? My truck?!](http://9gag.com/gag/apRN3A9)<!-- MEMES:END -->
 
 ---

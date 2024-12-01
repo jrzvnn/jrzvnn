@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Snap what a crook](http://9gag.com/gag/aW4jG6Z)
- - 😝 [I&#39;m not even joking, that was his wife, and his real son made it a comedy goldmine](http://9gag.com/gag/agmBQ31)
- - 💣 [She is perfect and he is lucky](http://9gag.com/gag/a34E5v5)
- - 😝 [It needs to end happily...](http://9gag.com/gag/a5QEVMO)
- - 👉 [A short, witty title](http://9gag.com/gag/aGypyrK)<!-- MEMES:END -->
+ - 😝 [Simple message](http://9gag.com/gag/ajPm7rq)
+ - 😝 [He&#39;s just a silly lil guyy](http://9gag.com/gag/aZZ0ZOp)
+ - 💣 [Whether you like it or not, this is the hard truth.](http://9gag.com/gag/aD2d227)
+ - 😝 [Pizza flipping skills](http://9gag.com/gag/a6ZEXLm)
+ - 👉 [Everyone who upvote&#39;s this will get their account banned.](http://9gag.com/gag/abAVvdX)<!-- MEMES:END -->
 
 ---
 

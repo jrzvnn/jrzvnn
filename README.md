@@ -158,10 +158,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- TECH:START -->
  - [A profile of SK Group Chairman Chey Tae-won, who made a highly risky bet to acquire debt-ridden Hynix in 2012 to form SK Hynix, which is now valued at ~$80B &lpar;Yoolim Lee/Bloomberg&rpar;](http://www.techmeme.com/241201/p6#a241201p6)
- - [Chocolate Has a Sustainability Problem. Science Thinks It&#39;s Found the Answer](https://www.wired.com/story/chocolate-has-a-sustainability-problem-science-thinks-its-found-the-answer/)
- - [We Found 80+ Black Friday Weekend and Cyber Monday Deals Available Now](https://www.cnet.com/deals/best-black-friday-deals-2024-12-01/#ftag=CAD590a51e)
- - [31 of the Best Christmas Gifts Under $200 for 2024](https://www.cnet.com/news/best-gifts-under-200/#ftag=CAD590a51e)
- - [We Found the Craziest Cyber Monday Nintendo Switch Deals You Shouldn&#39;t Miss](https://www.cnet.com/deals/best-cyber-monday-nintendo-switch-deals/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [We Found 80+ Best Cyber Monday Deals from Amazon, Walmart, Best Buy and More](https://www.cnet.com/deals/best-cyber-monday-deals-live/#ftag=CAD590a51e)
+ - [Streaming Guide December 2024: You&#39;re Gonna Need Disney Plus, Netflix and These Other Services](https://www.cnet.com/tech/services-and-software/streaming-guide-december-2024-youre-gonna-need-disney-plus-netflix-and-these-other-services/#ftag=CAD590a51e)
+ - [10 Other Word Games to Try If You Like Wordle](https://www.cnet.com/tech/gaming/10-other-word-games-to-try-if-you-like-wordle/#ftag=CAD590a51e)
+ - [We Found 15 Cyber Monday iPad Deals Worth Shopping Now: iPad Pro at $500 Off and More](https://www.cnet.com/deals/best-cyber-monday-ipad-deals/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

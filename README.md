@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Data shows India&#39;s UPI recorded 10B+ merchant transactions in October 2024, up 53% YoY, while credit cards saw a 35% YoY increase in transactions to 433M &lpar;Pratik Bhakta/The Economic Times&rpar;](http://www.techmeme.com/241201/p1#a241201p1)
  - [We Keep Finding More Black Friday Deals: 80+ Discounts to Check Out Now](https://www.cnet.com/deals/best-black-friday-deals-2024-11-30/#ftag=CAD590a51e)
  - [Today&#39;s NYT Mini Crossword Answers for Sunday, Dec. 1](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-sunday-dec-1/#ftag=CAD590a51e)
  - [Today&#39;s NYT Connections Hints, Answers and Help for Dec. 1, #539](https://www.cnet.com/tech/gaming/todays-nyt-connections-hints-answers-and-help-for-dec-1-539/#ftag=CAD590a51e)
- - [Today&#39;s Wordle Hints, Answer and Help for Dec. 1, #1261](https://www.cnet.com/tech/gaming/todays-wordle-hints-answer-and-help-for-dec-1-1261/#ftag=CAD590a51e)
- - [Today&#39;s NYT Strands Hints, Answers and Help for Dec. 1, #273](https://www.cnet.com/tech/gaming/todays-nyt-strands-hints-answers-and-help-for-dec-1-273/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Today&#39;s Wordle Hints, Answer and Help for Dec. 1, #1261](https://www.cnet.com/tech/gaming/todays-wordle-hints-answer-and-help-for-dec-1-1261/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

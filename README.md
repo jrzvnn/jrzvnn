@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The best Cyber Monday deals we’re seeing on MacBooks and other laptops](https://www.theverge.com/24305977/black-friday-best-deals-laptops-macbook-windows-gaming-cyber-monday-2024)
  - [Best Black Friday Deals on LED Face Masks &lpar;2024&rpar;](https://www.wired.com/story/led-masks-black-friday-2024/)
- - [The best Cyber Monday smart home deals](https://www.theverge.com/24306780/black-friday-best-deals-smart-home-tech-2024-cyber-monday)
- - [340 Absolute Best Black Friday Deals &lpar;2024&rpar;](https://www.wired.com/story/absolute-best-black-friday-deals-2024-1/)
- - [Intel Arc B570 GPU specs leak just days before launch](https://www.theverge.com/2024/12/1/24310104/intel-arc-b570-battlemage-gpu-leaked-specs)
- - [Max, Hulu, and Paramount Plus are all heavily discounted for Cyber Monday](https://www.theverge.com/24306534/black-friday-2024-streaming-best-deals-max-hulu-peacock-paramount-plus-cyber-monday)<!-- TECH:END -->
+ - [We Found 80+ Best Cyber Monday Deals on TVs, Headphones, Small Appliances and More](https://www.cnet.com/deals/best-cyber-monday-deals-live-2024-12-01/#ftag=CAD590a51e)
+ - [Every MacBook Owner Needs to Know This Display Hack](https://www.cnet.com/tech/services-and-software/mac-split-screen-view-how-to-set-up-your-ultimate-display/#ftag=CAD590a51e)
+ - [I Fly Over 50 Times Every Year. My Go-to Travel Backpack Is Still Just $29 for Cyber Monday](https://www.cnet.com/deals/i-fly-over-50-times-every-year-my-go-to-travel-backpack-is-still-just-29-for-cyber-monday/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

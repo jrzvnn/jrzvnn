@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [55 Best Black Friday Deals Under $50 &lpar;2024&rpar;](https://www.wired.com/story/black-friday-2024-deals-under-50-1/)
- - [Here are some Verge favorites that are on sale for Cyber Monday](https://www.theverge.com/24307425/black-friday-best-deals-tech-staff-picks-cyber-monday-2024)
- - [The best Cyber Monday deals we’re seeing on MacBooks and other laptops](https://www.theverge.com/24305977/black-friday-best-deals-laptops-macbook-windows-gaming-cyber-monday-2024)
- - [Best Black Friday Deals on LED Face Masks &lpar;2024&rpar;](https://www.wired.com/story/led-masks-black-friday-2024/)
- - [We Found 80+ Best Cyber Monday Deals on TVs, Headphones, Small Appliances and More](https://www.cnet.com/deals/best-cyber-monday-deals-live-2024-12-01/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Here are the best Cyber Monday deals for under $30](https://www.theverge.com/24306407/black-friday-2024-best-deals-under-30-tech-gift-ideas-cyber-monday)
+ - [The Verge’s guide to Cyber Monday 2024](https://www.theverge.com/24288220/black-friday-best-deals-guide-cyber-monday-tech-gadgets-2024)
+ - [Best Early Cyber Monday E-Bike and Scooter Deals: 26 Offers You Can Ride Home Today](https://www.cnet.com/roadshow/news/best-cyber-monday-deals-on-e-bikes-and-electric-scooters/#ftag=CAD590a51e)
+ - [Get a 65-Inch 4K Fire TV for Under $300 at Best Buy for Cyber Monday](https://www.cnet.com/deals/get-a-65-inch-4k-fire-tv-for-under-300-at-best-buy-this-cyber-monday/#ftag=CAD590a51e)
+ - [Best Waffle Makers of 2024](https://www.cnet.com/home/kitchen-and-household/best-waffle-makers/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

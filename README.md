@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [The complete European experience.](http://9gag.com/gag/aqyjRrv)
- - 😝 [Schizophrenia](http://9gag.com/gag/a7oE8Xb)
- - 💣 [Life is beautiful and so are people \u2728](http://9gag.com/gag/awyMZbx)
- - 😝 [A short, witty title](http://9gag.com/gag/aGypyrK)
- - 👉 [He&#39;s just a silly lil guyy](http://9gag.com/gag/aZZ0ZOp)<!-- MEMES:END -->
+ - 😝 [Might have bought migraine tablets](http://9gag.com/gag/aKG6GZj)
+ - 😝 [Drugs confiscated at the airport disguised as candy](http://9gag.com/gag/a6ZEZOb)
+ - 💣 [Dutch : Guys we are F*cked](http://9gag.com/gag/amoPo7y)
+ - 😝 [Make-A-Wish](http://9gag.com/gag/aAyb0WR)
+ - 👉 [Seriously do it!](http://9gag.com/gag/aKG6m61)<!-- MEMES:END -->
 
 ---
 

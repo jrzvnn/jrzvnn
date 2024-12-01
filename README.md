@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Seriously do it!](http://9gag.com/gag/aKG6m61)
+ - 😝 [Age is just a number](http://9gag.com/gag/aoyMgy0)
+ - 😝 [Lol](http://9gag.com/gag/aoyMMw0)
+ - 💣 [Gonna stick to my own knowledge](http://9gag.com/gag/avy5Q4Z)
  - 😝 [A horrible idea executed perfectly](http://9gag.com/gag/a87EA4e)
- - 💣 [The Matrix: Mirrored doorknob: There was no way to properly hide the camera, so the director of photography threw a coat onto himself with a tie matching the one Morpheus was wearing, trying to blend in as much as possible.](http://9gag.com/gag/an7QQp5)
- - 😝 [Drugs confiscated at the airport disguised as candy](http://9gag.com/gag/a6ZEZOb)
- - 👉 [Her look tho](http://9gag.com/gag/aryMMn7)<!-- MEMES:END -->
+ - 👉 [The business guy understood everything](http://9gag.com/gag/ayNMNNy)<!-- MEMES:END -->
 
 ---
 

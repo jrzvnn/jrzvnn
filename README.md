@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Simple message](http://9gag.com/gag/ajPm7rq)
- - 😝 [He&#39;s just a silly lil guyy](http://9gag.com/gag/aZZ0ZOp)
- - 💣 [Whether you like it or not, this is the hard truth.](http://9gag.com/gag/aD2d227)
- - 😝 [Pizza flipping skills](http://9gag.com/gag/a6ZEXLm)
- - 👉 [Everyone who upvote&#39;s this will get their account banned.](http://9gag.com/gag/abAVvdX)<!-- MEMES:END -->
+ - 😝 [She is perfect and he is lucky](http://9gag.com/gag/a34E5v5)
+ - 😝 [Ah bloody hell...](http://9gag.com/gag/aNDpLrv)
+ - 💣 [Oh no](http://9gag.com/gag/a34EGLr)
+ - 😝 [Might have bought migraine tablets](http://9gag.com/gag/aKG6GZj)
+ - 👉 [Is that really iron man?](http://9gag.com/gag/aD2dY0d)<!-- MEMES:END -->
 
 ---
 

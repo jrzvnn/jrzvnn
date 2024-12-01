@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The 100 best Cyber Monday deals under $100](https://www.theverge.com/24309009/black-friday-2024-best-deals-under-100-tech-gift-ideas-cyber-monday)
  - [Q&amp;A with Nokia CEO Pekka Lundmark on Nokia&#39;s failure in mobile phones, moving from mobile and fixed networks into data centers and defense, 5G, and more &lpar;Bloomberg&rpar;](http://www.techmeme.com/241201/p8#a241201p8)
  - [22 Black Friday Deals on Apple iPads, MacBooks, More Still Available](https://www.wired.com/story/apple-black-friday-deals-2024-2/)
  - [Why You Should Get a Chipolo Tracker Over an Apple AirTag for Cyber Monday](https://www.cnet.com/deals/why-you-should-get-a-chipolo-tracker-over-an-apple-airtag-for-cyber-monday/#ftag=CAD590a51e)
- - [17 Great Black Friday Soundbar Deals to Pump Up the Volume &lpar;2024&rpar;](https://www.wired.com/story/black-friday-soundbar-deals-2024-2/)
- - [We Found 80+ Best Cyber Monday Deals on Laptops, TVs and Other Top Tech](https://www.cnet.com/deals/best-cyber-monday-deals-live-2024-12-01/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [17 Great Black Friday Soundbar Deals to Pump Up the Volume &lpar;2024&rpar;](https://www.wired.com/story/black-friday-soundbar-deals-2024-2/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

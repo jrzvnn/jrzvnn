@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The 17 Best Clothing Deals on Jackets, Socks, and More](https://www.wired.com/story/black-friday-clothing-deals-2024/)
  - [The Best Black Friday Mattress Deals That Are Still Available](https://www.wired.com/story/best-black-friday-mattress-deals-2024-1/)
  - [Get 78% off lifetime access to Babbel &amp; learn languages on your iPhone](https://appleinsider.com/articles/24/12/01/get-78-off-lifetime-access-to-babbel-learn-languages-on-your-iphone?utm_medium=rss)
  - [The 12 best TV deals for Cyber Monday](https://www.theverge.com/24307741/black-friday-tv-deals-lg-samsung-sony-tcl-cyber-monday-2024)
- - [The Best Black Friday Air Fryer and Kitchen Deals &lpar;2024&rpar;](https://www.wired.com/story/black-friday-kitchen-deals-2024-1/)
- - [17 Best Black Friday Deals on Essential Travel Gear &lpar;2024&rpar;: Suitcases and Luggage](https://www.wired.com/story/black-friday-2024-travel-deals/)<!-- TECH:END -->
+ - [The Best Black Friday Air Fryer and Kitchen Deals &lpar;2024&rpar;](https://www.wired.com/story/black-friday-kitchen-deals-2024-1/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Every Feature You Should Use for Your WhatsApp Group Chats](https://www.wired.com/story/features-to-know-for-whatsapp-group-chats/)
+ - [Sonos Redesigned Its App and Made a Subscription Model Possible](https://www.wired.com/story/sonos-redesigned-its-app-and-made-a-subscription-model-possible/)
+ - [The 2024 Installer gift guide, part one](https://www.theverge.com/2024/12/1/24308191/tech-gifts-2024-installer-newsletter)
  - [A profile of SK Group Chairman Chey Tae-won, who made a highly risky bet to acquire debt-ridden Hynix in 2012 to form SK Hynix, which is now valued at ~$80B &lpar;Yoolim Lee/Bloomberg&rpar;](http://www.techmeme.com/241201/p6#a241201p6)
- - [We Found 80+ Best Cyber Monday Deals from Amazon, Walmart, Best Buy and More](https://www.cnet.com/deals/best-cyber-monday-deals-live/#ftag=CAD590a51e)
- - [Streaming Guide December 2024: You&#39;re Gonna Need Disney Plus, Netflix and These Other Services](https://www.cnet.com/tech/services-and-software/streaming-guide-december-2024-youre-gonna-need-disney-plus-netflix-and-these-other-services/#ftag=CAD590a51e)
- - [10 Other Word Games to Try If You Like Wordle](https://www.cnet.com/tech/gaming/10-other-word-games-to-try-if-you-like-wordle/#ftag=CAD590a51e)
- - [We Found 15 Cyber Monday iPad Deals Worth Shopping Now: iPad Pro at $500 Off and More](https://www.cnet.com/deals/best-cyber-monday-ipad-deals/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [We Found 80+ Best Cyber Monday Deals from Amazon, Walmart, Best Buy and More](https://www.cnet.com/deals/best-cyber-monday-deals-live/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

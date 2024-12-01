@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [A Riveting Performance](http://9gag.com/gag/a87EqV1)
- - 😝 [Lol](http://9gag.com/gag/aoyMMw0)
- - 💣 [Ah bloody hell...](http://9gag.com/gag/aNDpLrv)
- - 😝 [A horrible idea executed perfectly](http://9gag.com/gag/a87EA4e)
- - 👉 [Age is just a number](http://9gag.com/gag/aoyMgy0)<!-- MEMES:END -->
+ - 😝 [The business guy understood everything](http://9gag.com/gag/ayNMNNy)
+ - 😝 [Are you sure it\u2019s not trans?](http://9gag.com/gag/aGypnx7)
+ - 💣 [Age is just a number](http://9gag.com/gag/aoyMgy0)
+ - 😝 [It needs to end happily...](http://9gag.com/gag/a5QEVMO)
+ - 👉 [A horrible idea executed perfectly](http://9gag.com/gag/a87EA4e)<!-- MEMES:END -->
 
 ---
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Schizophrenia](http://9gag.com/gag/a7oE8Xb)
- - 😝 [Life is beautiful and so are people \u2728](http://9gag.com/gag/awyMZbx)
- - 💣 [Pizza flipping skills](http://9gag.com/gag/a6ZEXLm)
- - 😝 [A short, witty title](http://9gag.com/gag/aGypyrK)
- - 👉 [He&#39;s just a silly lil guyy](http://9gag.com/gag/aZZ0ZOp)<!-- MEMES:END -->
+ - 😝 [Age is just a number](http://9gag.com/gag/aoyMgy0)
+ - 😝 [Seriously do it!](http://9gag.com/gag/aKG6m61)
+ - 💣 [Dopping by](http://9gag.com/gag/a5QEXnL)
+ - 😝 [Might have bought migraine tablets](http://9gag.com/gag/aKG6GZj)
+ - 👉 [Dutch : Guys we are F*cked](http://9gag.com/gag/amoPo7y)<!-- MEMES:END -->
 
 ---
 

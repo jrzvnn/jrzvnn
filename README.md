@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Chocolate Has a Sustainability Problem. Science Thinks It&#39;s Found the Answer](https://www.wired.com/story/chocolate-has-a-sustainability-problem-science-thinks-its-found-the-answer/)
  - [We Found 80+ Black Friday Weekend and Cyber Monday Deals Available Now](https://www.cnet.com/deals/best-black-friday-deals-2024-12-01/#ftag=CAD590a51e)
  - [An Uncertain Future Requires Uncertain Prediction Skills](https://www.wired.com/story/embrace-uncertainty-forecasting-prediction-skills/)
  - [How the UK, Australia, the US, South Korea, and the EU are dealing with explicit AI deepfakes, as legislation around the world remains largely untested &lpar;Financial Times&rpar;](http://www.techmeme.com/241201/p5#a241201p5)
- - [Nike Promo Code: Extra 30% Off Select Styles](https://www.wired.com/story/nike-promo-code/)
- - [The Mystery of How Supermassive Black Holes Merge](https://www.wired.com/story/how-do-merging-supermassive-black-holes-pass-the-final-parsec/)<!-- TECH:END -->
+ - [Nike Promo Code: Extra 30% Off Select Styles](https://www.wired.com/story/nike-promo-code/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

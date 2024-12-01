@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [He&#39;s just a silly lil guyy](http://9gag.com/gag/aZZ0ZOp)
- - 😝 [Whether you like it or not, this is the hard truth.](http://9gag.com/gag/aD2d227)
- - 💣 [Everyone who upvote&#39;s this will get their account banned.](http://9gag.com/gag/abAVvdX)
- - 😝 [Mary Tyler Moore accidentally nails a trick shot in front of a live audience in 1962](http://9gag.com/gag/aE0p0po)
- - 👉 [Pizza flipping skills](http://9gag.com/gag/a6ZEXLm)<!-- MEMES:END -->
+ - 😝 [Good day for a bike ride](http://9gag.com/gag/ae9A15Q)
+ - 😝 [Harry potter and the chamber of tax evasion](http://9gag.com/gag/a4PEnGp)
+ - 💣 [Who wouldn\u2019t?](http://9gag.com/gag/a6ZEZEe)
+ - 😝 [Wingman](http://9gag.com/gag/aW4j7d3)
+ - 👉 [Waifu barber](http://9gag.com/gag/amoP10v)<!-- MEMES:END -->
 
 ---
 

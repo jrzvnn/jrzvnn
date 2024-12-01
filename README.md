@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Here are some Verge favorites that are on sale for Cyber Monday](https://www.theverge.com/24307425/black-friday-best-deals-tech-staff-picks-cyber-monday-2024)
  - [The best Cyber Monday deals we’re seeing on MacBooks and other laptops](https://www.theverge.com/24305977/black-friday-best-deals-laptops-macbook-windows-gaming-cyber-monday-2024)
  - [Best Black Friday Deals on LED Face Masks &lpar;2024&rpar;](https://www.wired.com/story/led-masks-black-friday-2024/)
  - [We Found 80+ Best Cyber Monday Deals on TVs, Headphones, Small Appliances and More](https://www.cnet.com/deals/best-cyber-monday-deals-live-2024-12-01/#ftag=CAD590a51e)
- - [Every MacBook Owner Needs to Know This Display Hack](https://www.cnet.com/tech/services-and-software/mac-split-screen-view-how-to-set-up-your-ultimate-display/#ftag=CAD590a51e)
- - [I Fly Over 50 Times Every Year. My Go-to Travel Backpack Is Still Just $29 for Cyber Monday](https://www.cnet.com/deals/i-fly-over-50-times-every-year-my-go-to-travel-backpack-is-still-just-29-for-cyber-monday/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Every MacBook Owner Needs to Know This Display Hack](https://www.cnet.com/tech/services-and-software/mac-split-screen-view-how-to-set-up-your-ultimate-display/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

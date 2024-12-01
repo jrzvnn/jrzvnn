@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Have a great day](http://9gag.com/gag/ae9A9xQ)
- - 😝 [Ps5 exhaust melted the wall paint. Kept behind tv.](http://9gag.com/gag/aGypnY5)
- - 💣 [Oh no](http://9gag.com/gag/a34EGLr)
- - 😝 [Waifu barber](http://9gag.com/gag/amoP10v)
- - 👉 [Dude: Shits on fire yo Driver: What? My truck?!](http://9gag.com/gag/apRN3A9)<!-- MEMES:END -->
+ - 😝 [Drugs confiscated at the airport disguised as candy](http://9gag.com/gag/a6ZEZOb)
+ - 😝 [Good day for a bike ride](http://9gag.com/gag/ae9A15Q)
+ - 💣 [She didn\u2019t just\u2026 she didn\u2019t.. did she?](http://9gag.com/gag/aAybQw2)
+ - 😝 [Looking up first is funny :D](http://9gag.com/gag/aNDp9Vw)
+ - 👉 [What did you expect](http://9gag.com/gag/a4PE6pd)<!-- MEMES:END -->
 
 ---
 

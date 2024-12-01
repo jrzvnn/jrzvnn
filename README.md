@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Ah bloody hell...](http://9gag.com/gag/aNDpLrv)
- - 😝 [Drugs confiscated at the airport disguised as candy](http://9gag.com/gag/a6ZEZOb)
- - 💣 [She didn\u2019t just\u2026 she didn\u2019t.. did she?](http://9gag.com/gag/aAybQw2)
- - 😝 [Waifu barber](http://9gag.com/gag/amoP10v)
- - 👉 [Good day for a bike ride](http://9gag.com/gag/ae9A15Q)<!-- MEMES:END -->
+ - 😝 [Oh no](http://9gag.com/gag/a34EGLr)
+ - 😝 [Good day for a bike ride](http://9gag.com/gag/ae9A15Q)
+ - 💣 [That sweet sound of crying little shit](http://9gag.com/gag/aLnpeb6)
+ - 😝 [It needs to end happily...](http://9gag.com/gag/a5QEVMO)
+ - 👉 [Just a typical night out in France.](http://9gag.com/gag/a9yEzo6)<!-- MEMES:END -->
 
 ---
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [3 l 3 s is best shown](http://9gag.com/gag/ajPmPDx)
+ - 😝 [Have a good one, guys.](http://9gag.com/gag/aPA3ZwG)
+ - 😝 [Whenever you feel bad, just think to yourself:I can never be this useless](http://9gag.com/gag/aAybQpg)
+ - 💣 [Age is just a number](http://9gag.com/gag/aoyMgy0)
  - 😝 [Seriously do it!](http://9gag.com/gag/aKG6m61)
- - 💣 [I&#39;m not even joking, that was his wife, and his real son made it a comedy goldmine](http://9gag.com/gag/agmBQ31)
- - 😝 [Mother burn\u2019s her 13 year old daughter\u2019s rapist outside of court after he taunted her](http://9gag.com/gag/a9yE1Z0)
- - 👉 [A horrible idea executed perfectly](http://9gag.com/gag/a87EA4e)<!-- MEMES:END -->
+ - 👉 [Dutch : Guys we are F*cked](http://9gag.com/gag/amoPo7y)<!-- MEMES:END -->
 
 ---
 

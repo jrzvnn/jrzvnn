@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Best Black Friday Deals for Beauty and Hair Tools &lpar;2024&rpar; | WIRED](https://www.wired.com/story/black-friday-beauty-and-hair-deals/)
+ - [Apple Cyber Monday Deal: 14-inch MacBook Pro M4 &lpar;24GB RAM, 1TB&rpar; dips to $1,799](https://appleinsider.com/articles/24/11/27/apple-black-friday-deal-14-inch-macbook-pro-m4-24gb-ram-1tb-drops-to-1799?utm_medium=rss)
  - [The 17 Best Clothing Deals on Jackets, Socks, and More](https://www.wired.com/story/black-friday-clothing-deals-2024/)
  - [The Best Black Friday Mattress Deals That Are Still Available](https://www.wired.com/story/best-black-friday-mattress-deals-2024-1/)
- - [Get 78% off lifetime access to Babbel &amp; learn languages on your iPhone](https://appleinsider.com/articles/24/12/01/get-78-off-lifetime-access-to-babbel-learn-languages-on-your-iphone?utm_medium=rss)
- - [The 12 best TV deals for Cyber Monday](https://www.theverge.com/24307741/black-friday-tv-deals-lg-samsung-sony-tcl-cyber-monday-2024)
- - [The Best Black Friday Air Fryer and Kitchen Deals &lpar;2024&rpar;](https://www.wired.com/story/black-friday-kitchen-deals-2024-1/)<!-- TECH:END -->
+ - [Best Melatonin Supplements of 2024](https://www.cnet.com/health/nutrition/best-melatonin-supplements/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

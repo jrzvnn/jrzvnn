@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Drugs confiscated at the airport disguised as candy](http://9gag.com/gag/a6ZEZOb)
- - 😝 [Snap what a crook](http://9gag.com/gag/aW4jG6Z)
- - 💣 [New photoshop challenge.](http://9gag.com/gag/ayNM9vV)
- - 😝 [Mother burn\u2019s her 13 year old daughter\u2019s rapist outside of court after he taunted her](http://9gag.com/gag/a9yE1Z0)
- - 👉 [3 l 3 s is best shown](http://9gag.com/gag/ajPmPDx)<!-- MEMES:END -->
+ - 😝 [Schizophrenia](http://9gag.com/gag/a7oE8Xb)
+ - 😝 [The complete European experience.](http://9gag.com/gag/aqyjRrv)
+ - 💣 [Life is beautiful and so are people \u2728](http://9gag.com/gag/awyMZbx)
+ - 😝 [A short, witty title](http://9gag.com/gag/aGypyrK)
+ - 👉 [He&#39;s just a silly lil guyy](http://9gag.com/gag/aZZ0ZOp)<!-- MEMES:END -->
 
 ---
 

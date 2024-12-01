@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [What the f**k is that](http://9gag.com/gag/aAyb03E)
  - 😝 [She is perfect and he is lucky](http://9gag.com/gag/a34E5v5)
- - 💣 [Dude: Shits on fire yo Driver: What? My truck?!](http://9gag.com/gag/apRN3A9)
+ - 😝 [Whenever you feel bad, just think to yourself:I can never be this useless](http://9gag.com/gag/aAybQpg)
+ - 💣 [Oh no](http://9gag.com/gag/a34EGLr)
  - 😝 [Dopping by](http://9gag.com/gag/a5QEXnL)
- - 👉 [Is that really iron man?](http://9gag.com/gag/aD2dY0d)<!-- MEMES:END -->
+ - 👉 [Ah bloody hell...](http://9gag.com/gag/aNDpLrv)<!-- MEMES:END -->
 
 ---
 

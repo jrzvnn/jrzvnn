@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Dude: Shits on fire yo Driver: What? My truck?!](http://9gag.com/gag/apRN3A9)
- - 😝 [The business guy understood everything](http://9gag.com/gag/ayNMNNy)
- - 💣 [Ah bloody hell...](http://9gag.com/gag/aNDpLrv)
- - 😝 [Oh no](http://9gag.com/gag/a34EGLr)
- - 👉 [3 l 3 s is best shown](http://9gag.com/gag/ajPmPDx)<!-- MEMES:END -->
+ - 😝 [He&#39;s just a silly lil guyy](http://9gag.com/gag/aZZ0ZOp)
+ - 😝 [Whether you like it or not, this is the hard truth.](http://9gag.com/gag/aD2d227)
+ - 💣 [Everyone who upvote&#39;s this will get their account banned.](http://9gag.com/gag/abAVvdX)
+ - 😝 [Mary Tyler Moore accidentally nails a trick shot in front of a live audience in 1962](http://9gag.com/gag/aE0p0po)
+ - 👉 [Pizza flipping skills](http://9gag.com/gag/a6ZEXLm)<!-- MEMES:END -->
 
 ---
 

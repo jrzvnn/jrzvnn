@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Age is just a number](http://9gag.com/gag/aoyMgy0)
+ - 😝 [Snap what a crook](http://9gag.com/gag/aW4jG6Z)
  - 😝 [Seriously do it!](http://9gag.com/gag/aKG6m61)
- - 💣 [Dopping by](http://9gag.com/gag/a5QEXnL)
+ - 💣 [Is that really iron man?](http://9gag.com/gag/aD2dY0d)
  - 😝 [Might have bought migraine tablets](http://9gag.com/gag/aKG6GZj)
- - 👉 [Dutch : Guys we are F*cked](http://9gag.com/gag/amoPo7y)<!-- MEMES:END -->
+ - 👉 [First time on the internet?](http://9gag.com/gag/aQzoXmW)<!-- MEMES:END -->
 
 ---
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Dopping by](http://9gag.com/gag/a5QEXnL)
- - 😝 [Wingman](http://9gag.com/gag/aW4j7d3)
- - 💣 [Whenever you feel bad, just think to yourself:I can never be this useless](http://9gag.com/gag/aAybQpg)
- - 😝 [She didn\u2019t just\u2026 she didn\u2019t.. did she?](http://9gag.com/gag/aAybQw2)
- - 👉 [Good day for a bike ride](http://9gag.com/gag/ae9A15Q)<!-- MEMES:END -->
+ - 😝 [Dude: Shits on fire yo Driver: What? My truck?!](http://9gag.com/gag/apRN3A9)
+ - 😝 [The business guy understood everything](http://9gag.com/gag/ayNMNNy)
+ - 💣 [Ah bloody hell...](http://9gag.com/gag/aNDpLrv)
+ - 😝 [Oh no](http://9gag.com/gag/a34EGLr)
+ - 👉 [3 l 3 s is best shown](http://9gag.com/gag/ajPmPDx)<!-- MEMES:END -->
 
 ---
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [A profile of SK Group Chairman Chey Tae-won, who made a highly risky bet to acquire debt-ridden Hynix in 2012 to form SK Hynix, which is now valued at ~$80B &lpar;Yoolim Lee/Bloomberg&rpar;](http://www.techmeme.com/241201/p6#a241201p6)
  - [Chocolate Has a Sustainability Problem. Science Thinks It&#39;s Found the Answer](https://www.wired.com/story/chocolate-has-a-sustainability-problem-science-thinks-its-found-the-answer/)
  - [We Found 80+ Black Friday Weekend and Cyber Monday Deals Available Now](https://www.cnet.com/deals/best-black-friday-deals-2024-12-01/#ftag=CAD590a51e)
  - [31 of the Best Christmas Gifts Under $200 for 2024](https://www.cnet.com/news/best-gifts-under-200/#ftag=CAD590a51e)
- - [We Found the Craziest Cyber Monday Nintendo Switch Deals You Shouldn&#39;t Miss](https://www.cnet.com/deals/best-cyber-monday-nintendo-switch-deals/#ftag=CAD590a51e)
- - [Premier League Soccer: Livestream Tottenham vs. Fulham From Anywhere](https://www.cnet.com/tech/services-and-software/premier-league-soccer-livestream-tottenham-vs-fulham-from-anywhere/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [We Found the Craziest Cyber Monday Nintendo Switch Deals You Shouldn&#39;t Miss](https://www.cnet.com/deals/best-cyber-monday-nintendo-switch-deals/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

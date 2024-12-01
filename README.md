@@ -158,10 +158,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- TECH:START -->
  - [A look at AI-enabled dashcam tech being developed by Samsara, Motive, Nauto, and others to detect fatigue and deliver real-time audio alerts to drowsy drivers &lpar;Willie D. Jones/IEEE Spectrum&rpar;](http://www.techmeme.com/241130/p11#a241130p11)
- - [Best Cyber Monday iPhone Deals: get an iPhone 16 for as little as a penny](https://appleinsider.com/articles/24/12/01/best-cyber-monday-iphone-deals-get-an-iphone-16-for-as-little-as-a-penny?utm_medium=rss)
- - [Best Cookware Sets for 2024](https://www.cnet.com/news/best-cookware-sets/#ftag=CAD590a51e)
  - [We Keep Finding More Black Friday Deals: 80+ Discounts to Check Out Now](https://www.cnet.com/deals/best-black-friday-deals-2024-11-30/#ftag=CAD590a51e)
- - [I&#39;m Seeing 50% Off Glasses at Eyeglasses.com This Weekend. That Could Save Me Hundreds](https://www.cnet.com/deals/50-percent-off-glasses-at-eyeglassescom-black-friday-cyber-monday/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [The Breville Infuser Espresso Machine Is Still 42% Off for Black Friday, but Now Only in One Color](https://www.cnet.com/deals/the-breville-infuser-espresso-machine-is-still-42-off-for-black-friday-but-now-only-in-one-color/#ftag=CAD590a51e)
+ - [I&#39;m Not Waiting Until Cyber Monday to Snag This Roku Outdoor Smart Plug for My Holiday Lights](https://www.cnet.com/deals/im-not-waiting-until-cyber-monday-to-snag-this-roku-outdoor-smart-plug-for-my-holiday-lights/#ftag=CAD590a51e)
+ - [Best Cyber Monday iPhone Deals: get an iPhone 16 for as little as a penny](https://appleinsider.com/articles/24/12/01/best-cyber-monday-iphone-deals-get-an-iphone-16-for-as-little-as-a-penny?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

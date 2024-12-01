@@ -166,8 +166,8 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Schizophrenia](http://9gag.com/gag/a7oE8Xb)
  - 😝 [The complete European experience.](http://9gag.com/gag/aqyjRrv)
+ - 😝 [Schizophrenia](http://9gag.com/gag/a7oE8Xb)
  - 💣 [Life is beautiful and so are people \u2728](http://9gag.com/gag/awyMZbx)
  - 😝 [A short, witty title](http://9gag.com/gag/aGypyrK)
  - 👉 [He&#39;s just a silly lil guyy](http://9gag.com/gag/aZZ0ZOp)<!-- MEMES:END -->

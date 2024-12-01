@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Eufy’s excellent X10 Pro Omni mopping robovac hits a record low for Cyber Monday](https://www.theverge.com/2024/12/1/24310286/eufys-x10-pro-omni-robot-vacuum-robovac-cyber-monday-2024-deal-sale)
  - [348 Absolute Best Black Friday Deals Still Available &lpar;2024&rpar; | WIRED](https://www.wired.com/story/absolute-best-black-friday-deals-2024-1/)
  - [The best Cyber Monday gaming deals you can get](https://www.theverge.com/24303477/black-friday-best-deals-gaming-nintendo-playstation-xbox-cyber-monday-2024)
  - [The 100 best Cyber Monday deals under $100](https://www.theverge.com/24309009/black-friday-2024-best-deals-under-100-tech-gift-ideas-cyber-monday)
- - [We Found 80+ Best Cyber Monday Deals on Laptops, TVs and Other Top Tech](https://www.cnet.com/deals/best-cyber-monday-deals-live-2024-12-01/#ftag=CAD590a51e)
- - [Amazon Cyber Monday and Black Friday Deals: 43 Must-See Offers Available Right Now](https://www.cnet.com/deals/best-amazon-cyber-monday-deals/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [We Found 80+ Best Cyber Monday Deals on Laptops, TVs and Other Top Tech](https://www.cnet.com/deals/best-cyber-monday-deals-live-2024-12-01/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

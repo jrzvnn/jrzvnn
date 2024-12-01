@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [Have a great day](http://9gag.com/gag/ae9A9xQ)
  - 😝 [Ps5 exhaust melted the wall paint. Kept behind tv.](http://9gag.com/gag/aGypnY5)
+ - 💣 [Oh no](http://9gag.com/gag/a34EGLr)
  - 😝 [Waifu barber](http://9gag.com/gag/amoP10v)
- - 💣 [The business guy understood everything](http://9gag.com/gag/ayNMNNy)
- - 😝 [3 l 3 s is best shown](http://9gag.com/gag/ajPmPDx)
- - 👉 [Good day for a bike ride](http://9gag.com/gag/ae9A15Q)<!-- MEMES:END -->
+ - 👉 [Dude: Shits on fire yo Driver: What? My truck?!](http://9gag.com/gag/apRN3A9)<!-- MEMES:END -->
 
 ---
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The best Cyber Monday robot vacuum deals you can get from iRobot, Roborock, and more](https://www.theverge.com/24306781/black-friday-2024-best-deals-robot-vacuums-mops-roombas-cyber-monday)
+ - [The best Cyber Monday deals you can shop right now](https://www.theverge.com/24309106/best-black-friday-deals-2024-tech-gadgets-cyber-monday)
+ - [The 28 Best Black Friday Deals From Best Buy &lpar;2024&rpar;](https://www.wired.com/story/best-buy-black-friday-deals-2024-2/)
  - [Here are the best Cyber Monday deals for under $30](https://www.theverge.com/24306407/black-friday-2024-best-deals-under-30-tech-gift-ideas-cyber-monday)
- - [The Verge’s guide to Cyber Monday 2024](https://www.theverge.com/24288220/black-friday-best-deals-guide-cyber-monday-tech-gadgets-2024)
- - [Best Early Cyber Monday E-Bike and Scooter Deals: 26 Offers You Can Ride Home Today](https://www.cnet.com/roadshow/news/best-cyber-monday-deals-on-e-bikes-and-electric-scooters/#ftag=CAD590a51e)
- - [Get a 65-Inch 4K Fire TV for Under $300 at Best Buy for Cyber Monday](https://www.cnet.com/deals/get-a-65-inch-4k-fire-tv-for-under-300-at-best-buy-this-cyber-monday/#ftag=CAD590a51e)
- - [Best Waffle Makers of 2024](https://www.cnet.com/home/kitchen-and-household/best-waffle-makers/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [The Verge’s guide to Cyber Monday 2024](https://www.theverge.com/24288220/black-friday-best-deals-guide-cyber-monday-tech-gadgets-2024)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

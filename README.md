@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Best Black Friday Deals on LED Face Masks &lpar;2024&rpar;](https://www.wired.com/story/led-masks-black-friday-2024/)
  - [The best Cyber Monday smart home deals](https://www.theverge.com/24306780/black-friday-best-deals-smart-home-tech-2024-cyber-monday)
  - [340 Absolute Best Black Friday Deals &lpar;2024&rpar;](https://www.wired.com/story/absolute-best-black-friday-deals-2024-1/)
  - [Intel Arc B570 GPU specs leak just days before launch](https://www.theverge.com/2024/12/1/24310104/intel-arc-b570-battlemage-gpu-leaked-specs)
- - [Max, Hulu, and Paramount Plus are all heavily discounted for Cyber Monday](https://www.theverge.com/24306534/black-friday-2024-streaming-best-deals-max-hulu-peacock-paramount-plus-cyber-monday)
- - [The best Cyber Monday headphone and earbud deals you can get](https://www.theverge.com/24307533/black-friday-best-deals-headphones-wireless-earbuds-airpods-2024-cyber-monday)<!-- TECH:END -->
+ - [Max, Hulu, and Paramount Plus are all heavily discounted for Cyber Monday](https://www.theverge.com/24306534/black-friday-2024-streaming-best-deals-max-hulu-peacock-paramount-plus-cyber-monday)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

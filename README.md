@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [I can’t get over how good a deal the Pixel 8A is for $399](https://www.theverge.com/good-deals/2024/12/1/24310415/google-pixel-8a-black-friday-cyber-monday-deal)
+ - [We Found 80+ Best Cyber Monday Deals to Shop at Amazon, Best Buy, Walmart and More](https://www.cnet.com/deals/best-cyber-monday-deals-live-2024-12-01/#ftag=CAD590a51e)
  - [21 Best Black Friday Coffee and Espresso Deals—Going Fast](https://www.wired.com/story/black-friday-coffee-deals-2/)
  - [Best Black Friday Deals for Beauty and Hair Tools &lpar;2024&rpar; | WIRED](https://www.wired.com/story/black-friday-beauty-and-hair-deals/)
- - [Apple Cyber Monday Deal: 14-inch MacBook Pro M4 &lpar;24GB RAM, 1TB&rpar; dips to $1,799](https://appleinsider.com/articles/24/11/27/apple-black-friday-deal-14-inch-macbook-pro-m4-24gb-ram-1tb-drops-to-1799?utm_medium=rss)
- - [The 17 Best Clothing Deals on Jackets, Socks, and More](https://www.wired.com/story/black-friday-clothing-deals-2024/)
- - [The Best Black Friday Mattress Deals That Are Still Available](https://www.wired.com/story/best-black-friday-mattress-deals-2024-1/)<!-- TECH:END -->
+ - [Apple Cyber Monday Deal: 14-inch MacBook Pro M4 &lpar;24GB RAM, 1TB&rpar; dips to $1,799](https://appleinsider.com/articles/24/11/27/apple-black-friday-deal-14-inch-macbook-pro-m4-24gb-ram-1tb-drops-to-1799?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

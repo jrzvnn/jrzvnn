@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [5 Best Smart Christmas Lights &lpar;2024&rpar;, Tested and Reviewed](https://www.wired.com/gallery/best-smart-christmas-lights/)
+ - [The best Cyber Monday smartwatch and fitness tracker deals](https://www.theverge.com/good-deals/24306393/black-friday-2024-best-deals-smartwatch-fitness-tracker-wearables-cyber-monday)
+ - [The best Cyber Monday deals you can shop right now](https://www.theverge.com/24309106/best-black-friday-deals-2024-tech-gadgets-cyber-monday)
  - [Sonos Redesigned Its App and Made a Subscription Model Possible](https://www.wired.com/story/sonos-redesigned-its-app-and-made-a-subscription-model-possible/)
- - [Every Feature You Should Use for Your WhatsApp Group Chats](https://www.wired.com/story/features-to-know-for-whatsapp-group-chats/)
- - [The 2024 Installer gift guide, part one](https://www.theverge.com/2024/12/1/24308191/tech-gifts-2024-installer-newsletter)
- - [A profile of SK Group Chairman Chey Tae-won, who made a highly risky bet to acquire debt-ridden Hynix in 2012 to form SK Hynix, which is now valued at ~$80B &lpar;Yoolim Lee/Bloomberg&rpar;](http://www.techmeme.com/241201/p6#a241201p6)
- - [We Found 80+ Best Cyber Monday Deals from Amazon, Walmart, Best Buy and More](https://www.cnet.com/deals/best-cyber-monday-deals-live/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Sunday Night Football: How to Watch 49ers vs. Bills Tonight](https://www.cnet.com/tech/services-and-software/sunday-night-football-how-to-watch-49ers-vs-bills-tonight/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Intel Arc B570 GPU specs leak just days before launch](https://www.theverge.com/2024/12/1/24310104/intel-arc-b570-battlemage-gpu-leaked-specs)
+ - [Max, Hulu, and Paramount Plus are all heavily discounted for Cyber Monday](https://www.theverge.com/24306534/black-friday-2024-streaming-best-deals-max-hulu-peacock-paramount-plus-cyber-monday)
+ - [The best Cyber Monday headphone and earbud deals you can get](https://www.theverge.com/24307533/black-friday-best-deals-headphones-wireless-earbuds-airpods-2024-cyber-monday)
  - [How Indigenous engineers are using AI to preserve Native American languages, building speech recognition models for over 200 endangered Indigenous languages &lpar;Iris Kim/NBC News&rpar;](http://www.techmeme.com/241201/p7#a241201p7)
- - [The best Cyber Monday deals on AirPods, AirTags, and other Apple tech](https://www.theverge.com/24305511/black-friday-apple-best-deals-2024-macbook-airpods-cyber-monday)
- - [Best Cyber Monday Deals Under $25: Save Up to $180 on 30+ Tech and Everyday Essentials](https://www.cnet.com/deals/best-black-friday-deals-under-25-2024-12-01/#ftag=CAD590a51e)
- - [YouTube TV User? Change This Setting to Speed Up NFL, NBA and Sports Watching on Your TV](https://www.cnet.com/tech/services-and-software/youtube-tv-user-change-this-setting-to-speed-up-nfl-nba-and-sports-watching-on-your-tv/#ftag=CAD590a51e)
- - [We Found 80+ Best Cyber Monday Deals from Amazon, Walmart, Best Buy and More](https://www.cnet.com/deals/best-cyber-monday-deals-live-2024-12-01/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [The best Cyber Monday deals on AirPods, AirTags, and other Apple tech](https://www.theverge.com/24305511/black-friday-apple-best-deals-2024-macbook-airpods-cyber-monday)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

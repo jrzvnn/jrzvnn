@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [A look at AI-enabled dashcam tech being developed by Samsara, Motive, Nauto, and others to detect fatigue and deliver real-time audio alerts to drowsy drivers &lpar;Willie D. Jones/IEEE Spectrum&rpar;](http://www.techmeme.com/241130/p11#a241130p11)
  - [We Keep Finding More Black Friday Deals: 80+ Discounts to Check Out Now](https://www.cnet.com/deals/best-black-friday-deals-2024-11-30/#ftag=CAD590a51e)
- - [The Breville Infuser Espresso Machine Is Still 42% Off for Black Friday, but Now Only in One Color](https://www.cnet.com/deals/the-breville-infuser-espresso-machine-is-still-42-off-for-black-friday-but-now-only-in-one-color/#ftag=CAD590a51e)
- - [I&#39;m Not Waiting Until Cyber Monday to Snag This Roku Outdoor Smart Plug for My Holiday Lights](https://www.cnet.com/deals/im-not-waiting-until-cyber-monday-to-snag-this-roku-outdoor-smart-plug-for-my-holiday-lights/#ftag=CAD590a51e)
- - [Best Cyber Monday iPhone Deals: get an iPhone 16 for as little as a penny](https://appleinsider.com/articles/24/12/01/best-cyber-monday-iphone-deals-get-an-iphone-16-for-as-little-as-a-penny?utm_medium=rss)<!-- TECH:END -->
+ - [Today&#39;s NYT Mini Crossword Answers for Sunday, Dec. 1](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-sunday-dec-1/#ftag=CAD590a51e)
+ - [Today&#39;s NYT Connections Hints, Answers and Help for Dec. 1, #539](https://www.cnet.com/tech/gaming/todays-nyt-connections-hints-answers-and-help-for-dec-1-539/#ftag=CAD590a51e)
+ - [Today&#39;s Wordle Hints, Answer and Help for Dec. 1, #1261](https://www.cnet.com/tech/gaming/todays-wordle-hints-answer-and-help-for-dec-1-1261/#ftag=CAD590a51e)
+ - [Today&#39;s NYT Strands Hints, Answers and Help for Dec. 1, #273](https://www.cnet.com/tech/gaming/todays-nyt-strands-hints-answers-and-help-for-dec-1-273/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

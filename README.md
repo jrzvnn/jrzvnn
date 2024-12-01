@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [How Indigenous engineers are using AI to preserve Native American languages, building speech recognition models for over 200 endangered Indigenous languages &lpar;Iris Kim/NBC News&rpar;](http://www.techmeme.com/241201/p7#a241201p7)
  - [The best Cyber Monday deals on AirPods, AirTags, and other Apple tech](https://www.theverge.com/24305511/black-friday-apple-best-deals-2024-macbook-airpods-cyber-monday)
- - [5 Best Smart Christmas Lights &lpar;2024&rpar;, Tested and Reviewed](https://www.wired.com/gallery/best-smart-christmas-lights/)
- - [The best Cyber Monday smartwatch and fitness tracker deals](https://www.theverge.com/good-deals/24306393/black-friday-2024-best-deals-smartwatch-fitness-tracker-wearables-cyber-monday)
- - [The best Cyber Monday deals you can shop right now](https://www.theverge.com/24309106/best-black-friday-deals-2024-tech-gadgets-cyber-monday)
- - [Sonos Redesigned Its App and Made a Subscription Model Possible](https://www.wired.com/story/sonos-redesigned-its-app-and-made-a-subscription-model-possible/)<!-- TECH:END -->
+ - [Best Cyber Monday Deals Under $25: Save Up to $180 on 30+ Tech and Everyday Essentials](https://www.cnet.com/deals/best-black-friday-deals-under-25-2024-12-01/#ftag=CAD590a51e)
+ - [YouTube TV User? Change This Setting to Speed Up NFL, NBA and Sports Watching on Your TV](https://www.cnet.com/tech/services-and-software/youtube-tv-user-change-this-setting-to-speed-up-nfl-nba-and-sports-watching-on-your-tv/#ftag=CAD590a51e)
+ - [We Found 80+ Best Cyber Monday Deals from Amazon, Walmart, Best Buy and More](https://www.cnet.com/deals/best-cyber-monday-deals-live-2024-12-01/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

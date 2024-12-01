@@ -167,10 +167,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [She is perfect and he is lucky](http://9gag.com/gag/a34E5v5)
- - 😝 [Whenever you feel bad, just think to yourself:I can never be this useless](http://9gag.com/gag/aAybQpg)
- - 💣 [Oh no](http://9gag.com/gag/a34EGLr)
- - 😝 [Dopping by](http://9gag.com/gag/a5QEXnL)
- - 👉 [Ah bloody hell...](http://9gag.com/gag/aNDpLrv)<!-- MEMES:END -->
+ - 😝 [Have a great day](http://9gag.com/gag/ae9A9xQ)
+ - 💣 [Might have bought migraine tablets](http://9gag.com/gag/aKG6GZj)
+ - 😝 [Wingman](http://9gag.com/gag/aW4j7d3)
+ - 👉 [Dude: Shits on fire yo Driver: What? My truck?!](http://9gag.com/gag/apRN3A9)<!-- MEMES:END -->
 
 ---
 

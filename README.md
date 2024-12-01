@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Age is just a number](http://9gag.com/gag/aoyMgy0)
- - 😝 [Lol](http://9gag.com/gag/aoyMMw0)
- - 💣 [Gonna stick to my own knowledge](http://9gag.com/gag/avy5Q4Z)
  - 😝 [A horrible idea executed perfectly](http://9gag.com/gag/a87EA4e)
- - 👉 [The business guy understood everything](http://9gag.com/gag/ayNMNNy)<!-- MEMES:END -->
+ - 😝 [Mother burn\u2019s her 13 year old daughter\u2019s rapist outside of court after he taunted her](http://9gag.com/gag/a9yE1Z0)
+ - 💣 [Dutch : Guys we are F*cked](http://9gag.com/gag/amoPo7y)
+ - 😝 [Gonna stick to my own knowledge](http://9gag.com/gag/avy5Q4Z)
+ - 👉 [Whenever you feel bad, just think to yourself:I can never be this useless](http://9gag.com/gag/aAybQpg)<!-- MEMES:END -->
 
 ---
 

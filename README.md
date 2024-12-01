@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Cyber Monday Mac Studio deal drops Apple&#39;s desktop to $1,749, lowest price ever](https://appleinsider.com/articles/24/12/01/cyber-monday-mac-studio-deal-drops-apples-desktop-to-1749-lowest-price-ever?utm_medium=rss)
- - [The best Cyber Monday robot vacuum deals you can get from iRobot, Roborock, and more](https://www.theverge.com/24306781/black-friday-2024-best-deals-robot-vacuums-mops-roombas-cyber-monday)
- - [The best Cyber Monday deals you can shop right now](https://www.theverge.com/24309106/best-black-friday-deals-2024-tech-gadgets-cyber-monday)
- - [The 28 Best Black Friday Deals From Best Buy &lpar;2024&rpar;](https://www.wired.com/story/best-buy-black-friday-deals-2024-2/)
- - [Here are the best Cyber Monday deals for under $30](https://www.theverge.com/24306407/black-friday-2024-best-deals-under-30-tech-gift-ideas-cyber-monday)<!-- TECH:END -->
+ - [20 Best Apple Black Friday Deals &lpar;2024&rpar;: MacBooks, iPads, AirPods](https://www.wired.com/story/apple-black-friday-deals-2024-2/)
+ - [Why You Should Get a Chipolo Tracker Over an Apple AirTag for Cyber Monday](https://www.cnet.com/deals/why-you-should-get-a-chipolo-tracker-over-an-apple-airtag-for-cyber-monday/#ftag=CAD590a51e)
+ - [17 Great Black Friday Soundbar Deals to Pump Up the Volume &lpar;2024&rpar;](https://www.wired.com/story/black-friday-soundbar-deals-2024-2/)
+ - [We Found 80+ Best Cyber Monday Deals on Laptops, TVs and Other Top Tech](https://www.cnet.com/deals/best-cyber-monday-deals-live-2024-12-01/#ftag=CAD590a51e)
+ - [I&#39;m Obsessed With the Furbo Dog Camera, and It&#39;s on Sale for $45 This Cyber Monday](https://www.cnet.com/home/kitchen-and-household/im-obsessed-with-the-furbo-dog-camera-and-its-on-sale-for-45-this-cyber-monday/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

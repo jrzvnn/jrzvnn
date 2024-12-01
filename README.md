@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [A look at Death Clock, an app that claims to predict a user&#39;s likely date of death by using an AI model trained on a dataset of 1,200+ life expectancy studies &lpar;Alexandre Tanzi/Bloomberg&rpar;](http://www.techmeme.com/241201/p4#a241201p4)
  - [Star Citizen, a video game in development since 2012, has now raised $750M+ in crowdfunding, and its single-player spin-off Squadron 42 won&#39;t be out until 2026 &lpar;Jack Coleman/TheGamer&rpar;](http://www.techmeme.com/241201/p3#a241201p3)
  - [Some UK policymakers worry about Elon Musk complicating UK-US ties, as his diatribes against the Labour government extend well beyond tech and free speech &lpar;Financial Times&rpar;](http://www.techmeme.com/241201/p2#a241201p2)
  - [We Found 80+ Black Friday Weekend and Cyber Monday Deals Available Now](https://www.cnet.com/deals/best-black-friday-deals-2024-11-30/#ftag=CAD590a51e)
- - [Data shows India&#39;s UPI recorded 10B+ merchant transactions in October 2024, up 53% YoY, while credit cards saw a 35% YoY increase in transactions to 433M &lpar;Pratik Bhakta/The Economic Times&rpar;](http://www.techmeme.com/241201/p1#a241201p1)
- - [Today&#39;s NYT Mini Crossword Answers for Sunday, Dec. 1](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-sunday-dec-1/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Data shows India&#39;s UPI recorded 10B+ merchant transactions in October 2024, up 53% YoY, while credit cards saw a 35% YoY increase in transactions to 433M &lpar;Pratik Bhakta/The Economic Times&rpar;](http://www.techmeme.com/241201/p1#a241201p1)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

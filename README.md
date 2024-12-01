@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [17 Best Black Friday Deals on Essential Travel Gear &lpar;2024&rpar;: Suitcases and Luggage](https://www.wired.com/story/black-friday-2024-travel-deals/)
+ - [The best Cyber Monday phone deals I’d actually recommend to real people](https://www.theverge.com/24306779/black-friday-2024-smartphone-best-deals-apple-samsung-pixel-motorola)
+ - [Best Black Friday Phone Deals &lpar;2024&rpar;, Including Cases Too](https://www.wired.com/story/black-friday-phone-deals-2024-2/)
  - [Meta will require advertisers to be verified before they can run ads targeting Australian users with financial services, starting in early February 2025 &lpar;Josh Taylor/The Guardian&rpar;](http://www.techmeme.com/241201/p9#a241201p9)
- - [Gamers Nexus claims NZXT’s Flex PC rental program is a ‘scam’](https://www.theverge.com/2024/12/1/24310181/nzxt-pc-rental-program-gamers-nexus-investigation)
- - [Eufy’s excellent X10 Pro Omni mopping robovac hits a record low for Cyber Monday](https://www.theverge.com/2024/12/1/24310286/eufys-x10-pro-omni-robot-vacuum-robovac-cyber-monday-2024-deal-sale)
- - [348 Absolute Best Black Friday Deals Still Available &lpar;2024&rpar; | WIRED](https://www.wired.com/story/absolute-best-black-friday-deals-2024-1/)
- - [The best Cyber Monday gaming deals you can get](https://www.theverge.com/24303477/black-friday-best-deals-gaming-nintendo-playstation-xbox-cyber-monday-2024)<!-- TECH:END -->
+ - [Gamers Nexus claims NZXT’s Flex PC rental program is a ‘scam’](https://www.theverge.com/2024/12/1/24310181/nzxt-pc-rental-program-gamers-nexus-investigation)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

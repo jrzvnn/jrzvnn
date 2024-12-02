@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [World Labs, founded by Fei-Fei Li, gives an &quot;early preview&quot; of its first project, an AI system that generates game-like, 3D scenes from a single image &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/241202/p25#a241202p25)
+ - [Leaks reveal a new DJI drone with a compact folding design](https://www.theverge.com/2024/12/2/24311063/dji-flip-folding-drone-fcc-leak)
+ - [Google Maps is now displaying Waze incident reports](https://www.theverge.com/2024/12/2/24311129/google-map-waze-integration-incident-reporting-rollout)
  - [The top Cyber Monday deals you can get right now](https://www.theverge.com/24309106/best-black-friday-deals-2024-tech-gadgets-cyber-monday)
- - [Apple accused of snooping on workers’ iPhones in new lawsuit](https://www.theverge.com/2024/12/2/24311060/apple-employee-surveillance-lawsuit)
- - [The Garmin Forerunner 255 is on sale for Cyber Monday](https://www.theverge.com/2024/12/2/24311166/cyber-monday-garmin-forerunner-255-deals)
- - [Here are the best Cyber Monday deals for under $30](https://www.theverge.com/24306407/black-friday-2024-best-deals-under-30-tech-gift-ideas-cyber-monday)
- - [The Best All-Clad Cyber Monday Deals](https://www.wired.com/story/cyber-monday-2024-all-clad-deals/)<!-- TECH:END -->
+ - [Apple accused of snooping on workers’ iPhones in new lawsuit](https://www.theverge.com/2024/12/2/24311060/apple-employee-surveillance-lawsuit)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

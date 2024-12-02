@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [I wonder why](http://9gag.com/gag/a34EAB5)
- - 😝 [Based](http://9gag.com/gag/abAV4wX)
- - 💣 [He just nuked India&#39;s tourism industry!](http://9gag.com/gag/aGypBYn)
- - 😝 [Can anyone translate ?](http://9gag.com/gag/aYQoDVw)
- - 👉 [Why Europe? Why?](http://9gag.com/gag/abAV1Pp)<!-- MEMES:END -->
+ - 😝 [Might have bought migraine tablets](http://9gag.com/gag/aKG6GZj)
+ - 😝 [Oh no](http://9gag.com/gag/a34EGLr)
+ - 💣 [Parking](http://9gag.com/gag/avy5Wwb)
+ - 😝 [No more billionaires!](http://9gag.com/gag/amoPWX4)
+ - 👉 [It needs to end happily...](http://9gag.com/gag/a5QEVMO)<!-- MEMES:END -->
 
 ---
 

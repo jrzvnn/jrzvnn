@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Japanese Gibbon performing Chikan](http://9gag.com/gag/a87E7A6)
- - 😝 [Lee was the only True ninja in the series, remaining all are people with super powers, magic and shit, Lee deserved much better than what they did to him.](http://9gag.com/gag/aryMy8p)
- - 💣 [POV you are winning in life](http://9gag.com/gag/amoPonj)
- - 😝 [Bring it in europe](http://9gag.com/gag/aYQoEjq)
- - 👉 [Pass on your genes and die. 95% of 9gaggers will only accomplish the latter.](http://9gag.com/gag/agmB7qv)<!-- MEMES:END -->
+ - 😝 [Surprised Pikachu face when I ask her to swallow the car battery](http://9gag.com/gag/aD2d25O)
+ - 😝 [Policeman gets grooming tips from a prisoner.](http://9gag.com/gag/a34EGd8)
+ - 💣 [He just nuked India&#39;s tourism industry!](http://9gag.com/gag/aGypBYn)
+ - 😝 [Normal for it to move? And the bolt moves?](http://9gag.com/gag/aKG69gj)
+ - 👉 [Ps5 exhaust melted the wall paint. Kept behind tv.](http://9gag.com/gag/aGypnY5)<!-- MEMES:END -->
 
 ---
 

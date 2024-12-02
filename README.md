@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [That sweet sound of crying little shit](http://9gag.com/gag/aLnpeb6)
- - 😝 [Ad hominem is missing](http://9gag.com/gag/ayNM4Xy)
- - 💣 [Reality wake the f**k up](http://9gag.com/gag/aqyjXPv)
- - 😝 [Nice stick](http://9gag.com/gag/a34EAj5)
- - 👉 [I wonder why](http://9gag.com/gag/a34EAB5)<!-- MEMES:END -->
+ - 😝 [Death. Taxes. Never challenge a Pinoy in a Karaoke Battle.](http://9gag.com/gag/aQzozK2)
+ - 😝 [POV you are winning in life](http://9gag.com/gag/amoPonj)
+ - 💣 [Grand poobah](http://9gag.com/gag/aNDp9g0)
+ - 😝 [Bring it in europe](http://9gag.com/gag/aYQoEjq)
+ - 👉 [Just a typical night out in France.](http://9gag.com/gag/a9yEzo6)<!-- MEMES:END -->
 
 ---
 

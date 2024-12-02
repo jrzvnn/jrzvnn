@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Best Deals From the REI Cyber Week Sale &lpar;2024&rpar;](https://www.wired.com/story/best-rei-cyber-week-outdoor-deals-2024/)
- - [407 Absolute Best Cyber Monday Deals &lpar;2024&rpar;](https://www.wired.com/story/absolute-best-cyber-monday-deals-2024/)
- - [Today is your last day to get Hulu for $1 a month and other streaming deals](https://www.theverge.com/2024/12/2/24310991/hulu-disney-plus-paramount-plus-peacock-max-cyber-monday-2024-streaming-deal-sale)
- - [Sony brings back original PlayStation boot screen with PS5 anniversary update](https://www.theverge.com/2024/12/2/24311112/playstation-30th-anniversary-psx-boot-sequence-ps5-update)
- - [Best Apple Cyber Monday deals: 50+ bargains that end today](https://appleinsider.com/articles/24/12/02/best-apple-cyber-monday-deals-50-bargains-that-expire-today?utm_medium=rss)<!-- TECH:END -->
+ - [Cyber Monday streaming deals slash Disney Plus, Max, Hulu, Paramount Plus to as low as $0.99/mo](https://appleinsider.com/articles/24/11/27/black-friday-streaming-deals-slash-disney-plus-max-hulu-paramount-plus-to-as-low-099mo?utm_medium=rss)
+ - [HomePass 2 launches, more new Matter devices, &amp; our new go-to travel charger on HomeKit Insider](https://appleinsider.com/articles/24/12/02/homepass-2-launches-more-new-matter-devices-our-new-go-to-travel-charger-on-homekit-insider?utm_medium=rss)
+ - [Best Therabody Cyber Monday Deals &lpar;2024&rpar;: LED Masks, Massage](https://www.wired.com/story/the-therabody-deals-you-cant-miss-this-cyber-monday/)
+ - [Cyber Monday Deals Tracked Live From Cyberspace 2024](https://www.wired.com/live/cyber-monday-deals-2024/)
+ - [Amazon&#39;s best Cyber Monday Apple deals are live with prices from $11 [updated]](https://appleinsider.com/articles/24/11/30/amazons-best-cyber-monday-apple-deals-are-live-with-prices-from-11?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

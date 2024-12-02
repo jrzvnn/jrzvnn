@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [2021 article but still big facepalm](http://9gag.com/gag/aryMAw6)
- - 😝 [What did you expect](http://9gag.com/gag/a4PE6pd)
- - 💣 [The accuracy is on point](http://9gag.com/gag/abAVWZ9)
- - 😝 [Sex up against the book shelf](http://9gag.com/gag/ayNMW8p)
- - 👉 [Just a typical night out in France.](http://9gag.com/gag/a9yEzo6)<!-- MEMES:END -->
+ - 😝 [Ps5 exhaust melted the wall paint. Kept behind tv.](http://9gag.com/gag/aGypnY5)
+ - 😝 [The accuracy is on point](http://9gag.com/gag/abAVWZ9)
+ - 💣 [Sex up against the book shelf](http://9gag.com/gag/ayNMW8p)
+ - 😝 [On ground footage of what a missile can look whistling past your ears](http://9gag.com/gag/aVv7ozy)
+ - 👉 [What did you expect](http://9gag.com/gag/a4PE6pd)<!-- MEMES:END -->
 
 ---
 

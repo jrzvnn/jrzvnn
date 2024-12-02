@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Wingman](http://9gag.com/gag/aW4j7d3)
- - 😝 [Harry potter and the chamber of tax evasion](http://9gag.com/gag/a4PEnGp)
- - 💣 [Bring it in europe](http://9gag.com/gag/aYQoEjq)
+ - 😝 [It needs to end happily...](http://9gag.com/gag/a5QEVMO)
  - 😝 [Might have bought migraine tablets](http://9gag.com/gag/aKG6GZj)
- - 👉 [Ps5 exhaust melted the wall paint. Kept behind tv.](http://9gag.com/gag/aGypnY5)<!-- MEMES:END -->
+ - 💣 [Ps5 exhaust melted the wall paint. Kept behind tv.](http://9gag.com/gag/aGypnY5)
+ - 😝 [Ah bloody hell...](http://9gag.com/gag/aNDpLrv)
+ - 👉 [Waifu barber](http://9gag.com/gag/amoP10v)<!-- MEMES:END -->
 
 ---
 

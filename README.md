@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [London-based 9fin, a data provider for debt markets, raised a $50M Series B led by Highland Europe, sources say at a ~$500M valuation on current ARR of ~$25M &lpar;Financial Times&rpar;](http://www.techmeme.com/241202/p4#a241202p4)
  - [Sources say a number of tech executives, including Sam Altman, worry that Elon Musk&#39;s new proximity to Trump could supersize rivalries in ways that favor Musk &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/241202/p3#a241202p3)
  - [AWS announces AWS Security Incident Response to help customers prepare for, respond to, and recover from various cyber incidents, including ransomware attacks &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/241202/p2#a241202p2)
  - [We Found the 80+ Best Cyber Monday Deals to Shop on Laptops, Vacuums, TVs and More](https://www.cnet.com/deals/best-cyber-monday-deals-live-2024-12-02/#ftag=CAD590a51e)
- - [AWS adds new generative AI features to Amazon Connect, which helps companies run their contact centers, including letting Lex-powered assistants use Amazon Q &lpar;Maria Deutscher/SiliconANGLE&rpar;](http://www.techmeme.com/241202/p1#a241202p1)
- - [Save Big on DeWalt Headphones and Speakers: Up to 34% Off This Cyber Monday](https://www.cnet.com/deals/save-big-on-dewalt-headphones-and-speakers-up-to-34-off-this-cyber-monday/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [AWS adds new generative AI features to Amazon Connect, which helps companies run their contact centers, including letting Lex-powered assistants use Amazon Q &lpar;Maria Deutscher/SiliconANGLE&rpar;](http://www.techmeme.com/241202/p1#a241202p1)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

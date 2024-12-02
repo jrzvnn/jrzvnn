@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [AWS details updates to its data centers, including liquid cooling for AI servers, more simplified electrical and mechanical designs for server racks, and more &lpar;Frederic Lardinois/TechCrunch&rpar;](http://www.techmeme.com/241202/p29#a241202p29)
+ - [Coinbase Onboard adds Apple Pay for crypto purchases in third-party apps](https://appleinsider.com/articles/24/12/02/coinbase-onboard-adds-apple-pay-for-crypto-purchases-in-third-party-apps?utm_medium=rss)
+ - [The top Cyber Monday deals you can get right now](https://www.theverge.com/24309106/best-black-friday-deals-2024-tech-gadgets-cyber-monday)
  - [Apple’s AirTags are cheaper than they’ve ever been for Cyber Monday](https://www.theverge.com/2024/12/2/24311290/cyber-monday-2024-apple-airtags-location-tracker-deal-sale)
- - [Oil giants blocked a treaty to curb plastic pollution, but countries will try again](https://www.theverge.com/2024/12/2/24310973/plastic-treaty-negotiations-2025)
- - [RTFKT, the digital wearables NFT startup Nike acquired in 2021, is shutting down by the end of January 2025; DefiLlama: RTFKT brought in ~$50M in total earnings &lpar;Daniel Kuhn/The Block&rpar;](http://www.techmeme.com/241202/p28#a241202p28)
- - [Twitch creator Kai Cenat completed a &quot;subathon&quot;, streaming 24 hours a day for 30 days, breaking Twitch subscriber records with ~727,700 subscribers in November &lpar;Zach Vallese/CNBC&rpar;](http://www.techmeme.com/241202/p27#a241202p27)
- - [Cyber Monday AirPods Deals Are Here: Save $150 on the AirPods Max, Plus Other Savings](https://www.cnet.com/deals/best-cyber-monday-airpods-deals-2024-12-02/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Oil giants blocked a treaty to curb plastic pollution, but countries will try again](https://www.theverge.com/2024/12/2/24310973/plastic-treaty-negotiations-2025)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

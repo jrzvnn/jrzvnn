@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [Just a typical night out in France.](http://9gag.com/gag/a9yEzo6)
+ - 😝 [On ground footage of what a missile can look whistling past your ears](http://9gag.com/gag/aVv7ozy)
+ - 💣 [Looking up first is funny :D](http://9gag.com/gag/aNDp9Vw)
  - 😝 [Normal for it to move? And the bolt moves?](http://9gag.com/gag/aKG69gj)
- - 😝 [POV you are winning in life](http://9gag.com/gag/amoPonj)
- - 💣 [Bring it in europe](http://9gag.com/gag/aYQoEjq)
- - 😝 [That sweet sound of crying little shit](http://9gag.com/gag/aLnpeb6)
- - 👉 [I&#39;m not even joking, that was his wife, and his real son made it a comedy goldmine](http://9gag.com/gag/agmBQ31)<!-- MEMES:END -->
+ - 👉 [Bring it in europe](http://9gag.com/gag/aYQoEjq)<!-- MEMES:END -->
 
 ---
 

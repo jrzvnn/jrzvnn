@@ -158,10 +158,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- TECH:START -->
  - [AWS adds new generative AI features to Amazon Connect, which helps companies run their contact centers, including letting Lex-powered assistants use Amazon Q &lpar;Maria Deutscher/SiliconANGLE&rpar;](http://www.techmeme.com/241202/p1#a241202p1)
+ - [We Found the 80+ Best Cyber Monday Deals to Shop on Laptops, Vacuums, TVs and More](https://www.cnet.com/deals/best-cyber-monday-deals-live-2024-12-02/#ftag=CAD590a51e)
  - [Sources: BYD&#39;s contract-manufacturing arm, which has 10K+ engineers and ~100K employees dedicated to the Apple&#39;s supply chain, now assembles 30%+ of all iPads &lpar;Yang Jie/Wall Street Journal&rpar;](http://www.techmeme.com/241201/p11#a241201p11)
  - [Today&#39;s NYT Mini Crossword Answers for Monday, Dec. 2](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-monday-dec-2/#ftag=CAD590a51e)
- - [Today&#39;s NYT Connections Hints, Answers and Help for Dec. 2, #540](https://www.cnet.com/tech/gaming/todays-nyt-connections-hints-answers-and-help-for-dec-2-540/#ftag=CAD590a51e)
- - [Today&#39;s Wordle Hints, Answer and Help for Dec. 2, #1262](https://www.cnet.com/tech/gaming/todays-wordle-hints-answer-and-help-for-dec-2-1262/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Today&#39;s NYT Connections Hints, Answers and Help for Dec. 2, #540](https://www.cnet.com/tech/gaming/todays-nyt-connections-hints-answers-and-help-for-dec-2-540/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

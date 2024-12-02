@@ -168,9 +168,9 @@ R                        1 repo              ░░░░░░░░░░░�
 <!-- MEMES:START -->
  - 😝 [He just nuked India&#39;s tourism industry!](http://9gag.com/gag/aGypBYn)
  - 😝 [Can anyone translate ?](http://9gag.com/gag/aYQoDVw)
- - 💣 [Technology man](http://9gag.com/gag/a1mr5QG)
- - 😝 [Off you go.](http://9gag.com/gag/ajPmOp1)
- - 👉 [Based](http://9gag.com/gag/abAV4wX)<!-- MEMES:END -->
+ - 💣 [Off you go.](http://9gag.com/gag/ajPmOp1)
+ - 😝 [Based](http://9gag.com/gag/abAV4wX)
+ - 👉 [Herman the German](http://9gag.com/gag/aVv7E5v)<!-- MEMES:END -->
 
 ---
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Social media videos documenting layoffs are now commonplace, especially by younger workers, creating headaches for companies; TikTok&#39;s #layoff has 32K+ posts &lpar;Cristina Criddle/Financial Times&rpar;](http://www.techmeme.com/241202/p16#a241202p16)
  - [15 Great Cyber Monday Soundbar Deals to Pump Up the Volume &lpar;2024&rpar;](https://www.wired.com/story/cyber-monday-soundbar-deals-2024/)
  - [Can Artificial Rain, Drones, or Satellites Clean Toxic Air?](https://www.wired.com/story/artificial-rain-drones-and-satellites-can-tech-clean-indias-toxic-air/)
  - [This Website Shows How Much Google’s AI Can Glean From Your Photos](https://www.wired.com/story/website-google-ai-photos-ente/)
- - [21 Cyber Monday Deals on Apple iPads, MacBooks, More Still Available](https://www.wired.com/story/cyber-monday-apple-deals-2024/)
- - [CoinGecko: Ripple-linked XRP&#39;s market cap reaches $137B to become the third-largest cryptocurrency, up from less than $30B on November 5 when Trump won &lpar;Sidhartha Shukla/Bloomberg&rpar;](http://www.techmeme.com/241202/p15#a241202p15)<!-- TECH:END -->
+ - [21 Cyber Monday Deals on Apple iPads, MacBooks, More Still Available](https://www.wired.com/story/cyber-monday-apple-deals-2024/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

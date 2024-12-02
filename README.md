@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Ps5 exhaust melted the wall paint. Kept behind tv.](http://9gag.com/gag/aGypnY5)
- - 😝 [The accuracy is on point](http://9gag.com/gag/abAVWZ9)
- - 💣 [Sex up against the book shelf](http://9gag.com/gag/ayNMW8p)
- - 😝 [On ground footage of what a missile can look whistling past your ears](http://9gag.com/gag/aVv7ozy)
- - 👉 [What did you expect](http://9gag.com/gag/a4PE6pd)<!-- MEMES:END -->
+ - 😝 [Anyone else have this problem?](http://9gag.com/gag/aQzomnw)
+ - 😝 [So the only thing that the Brexit caused was the exit of white people?](http://9gag.com/gag/a34EyON)
+ - 💣 [Technology man](http://9gag.com/gag/a1mr5QG)
+ - 😝 [Another community notes burn](http://9gag.com/gag/abAV498)
+ - 👉 [When the cat refuses medication](http://9gag.com/gag/aGypM27)<!-- MEMES:END -->
 
 ---
 

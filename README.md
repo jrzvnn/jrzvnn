@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Parking](http://9gag.com/gag/avy5Wwb)
- - 😝 [She accepted her fate](http://9gag.com/gag/a9yEvbW)
- - 💣 [No more billionaires!](http://9gag.com/gag/amoPWX4)
- - 😝 [Normal for it to move? And the bolt moves?](http://9gag.com/gag/aKG69gj)
- - 👉 [Bring it in europe](http://9gag.com/gag/aYQoEjq)<!-- MEMES:END -->
+ - 😝 [God damn how much crack does he smoke?](http://9gag.com/gag/aKG6Wjb)
+ - 😝 [Bring it in europe](http://9gag.com/gag/aYQoEjq)
+ - 💣 [What did you expect](http://9gag.com/gag/a4PE6pd)
+ - 😝 [Does oil calm rough water?](http://9gag.com/gag/adB8QW9)
+ - 👉 [Parking](http://9gag.com/gag/avy5Wwb)<!-- MEMES:END -->
 
 ---
 

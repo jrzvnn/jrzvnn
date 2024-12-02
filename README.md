@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Best MacBook Pro Cyber Monday deals slash prices by up to $600, better than Black Friday](https://appleinsider.com/articles/24/12/02/best-macbook-pro-cyber-monday-deals-slash-prices-by-up-to-600-better-than-black-friday?utm_medium=rss)
- - [London-based 9fin, a data provider for debt markets, raised a $50M Series B led by Highland Europe, sources say at a ~$500M valuation on current ARR of ~$25M &lpar;Financial Times&rpar;](http://www.techmeme.com/241202/p4#a241202p4)
- - [Sources say a number of tech executives, including Sam Altman, worry that Elon Musk&#39;s new proximity to Trump could supersize rivalries in ways that favor Musk &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/241202/p3#a241202p3)
- - [AWS announces AWS Security Incident Response to help customers prepare for, respond to, and recover from various cyber incidents, including ransomware attacks &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/241202/p2#a241202p2)
- - [AWS adds new generative AI features to Amazon Connect, which helps companies run their contact centers, including letting Lex-powered assistants use Amazon Q &lpar;Maria Deutscher/SiliconANGLE&rpar;](http://www.techmeme.com/241202/p1#a241202p1)<!-- TECH:END -->
+ - [Analysis: US spot bitcoin and ether ETFs logged record monthly net inflows, $6.5B and $1.1B respectively, in November 2024, buoyed by Trump&#39;s embrace of crypto &lpar;Bloomberg&rpar;](http://www.techmeme.com/241202/p5#a241202p5)
+ - [Amazon&#39;s best Cyber Monday Apple deals are live with prices from $11](https://appleinsider.com/articles/24/11/30/amazons-best-cyber-monday-apple-deals-are-live-with-prices-from-11?utm_medium=rss)
+ - [Therabody Promo Codes and Deals: 10% Off](https://www.wired.com/story/therabody-promo-code/)
+ - [Canon Promo Codes and Coupons: Up to $700 Off](https://www.wired.com/story/canon-promo-code/)
+ - [Visible Promo Code: Get a Free Phone This December](https://www.wired.com/story/visible-promo-code/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

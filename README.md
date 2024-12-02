@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Analysis: US spot bitcoin and ether ETFs logged record monthly net inflows, $6.5B and $1.1B respectively, in November 2024, buoyed by Trump&#39;s embrace of crypto &lpar;Bloomberg&rpar;](http://www.techmeme.com/241202/p5#a241202p5)
- - [Amazon&#39;s best Cyber Monday Apple deals are live with prices from $11](https://appleinsider.com/articles/24/11/30/amazons-best-cyber-monday-apple-deals-are-live-with-prices-from-11?utm_medium=rss)
- - [Therabody Promo Codes and Deals: 10% Off](https://www.wired.com/story/therabody-promo-code/)
- - [Canon Promo Codes and Coupons: Up to $700 Off](https://www.wired.com/story/canon-promo-code/)
- - [Visible Promo Code: Get a Free Phone This December](https://www.wired.com/story/visible-promo-code/)<!-- TECH:END -->
+ - [Analysis: US spot Bitcoin ETFs now hold more than 1M bitcoin, or about 5% of the total and about as many bitcoin frozen in the wallet of Satoshi Nakamoto &lpar;Bloomberg&rpar;](http://www.techmeme.com/241202/p7#a241202p7)
+ - [South Korean AI chip maker Rebellions completes its merger with Sapeon Korea, SK Telecom&#39;s AI chip subsidiary; Rebellions has valued the merged entity at ~$929M &lpar;Jie Ye-eun/The Korea Herald&rpar;](http://www.techmeme.com/241202/p6#a241202p6)
+ - [Amazon&#39;s best Cyber Monday Apple deals are live with prices from $11 [updated]](https://appleinsider.com/articles/24/11/30/amazons-best-cyber-monday-apple-deals-are-live-with-prices-from-11?utm_medium=rss)
+ - [Wayfair Coupons: 15% Off | December 2024](https://www.wired.com/story/wayfair-coupon/)
+ - [Analysis: US spot bitcoin and ether ETFs logged record monthly net inflows, $6.5B and $1.1B respectively, in November 2024, buoyed by Trump&#39;s embrace of crypto &lpar;Bloomberg&rpar;](http://www.techmeme.com/241202/p5#a241202p5)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

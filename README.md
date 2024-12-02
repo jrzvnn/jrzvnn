@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The Best All-Clad Cyber Monday Deals](https://www.wired.com/story/cyber-monday-2024-all-clad-deals/)
- - [Google’s abandoned Pixel Tablet 2 had a better display and 5G upgrades](https://www.theverge.com/2024/12/2/24311118/google-canceled-pixel-tablet-2-better-display-5g-tensor-g4)
- - [The very best Sonos speaker is on sale for Cyber Monday — and that’s rare](https://www.theverge.com/2024/12/2/24311156/sonos-five-cyber-monday-rare-discount)
- - [Cyber Monday streaming deals slash Disney Plus, Max, Hulu, Paramount Plus to as low as $0.99/mo](https://appleinsider.com/articles/24/11/27/black-friday-streaming-deals-slash-disney-plus-max-hulu-paramount-plus-to-as-low-099mo?utm_medium=rss)
- - [HomePass 2 launches, more new Matter devices, &amp; our new go-to travel charger on HomeKit Insider](https://appleinsider.com/articles/24/12/02/homepass-2-launches-more-new-matter-devices-our-new-go-to-travel-charger-on-homekit-insider?utm_medium=rss)<!-- TECH:END -->
+ - [The top Cyber Monday deals you can get right now](https://www.theverge.com/24309106/best-black-friday-deals-2024-tech-gadgets-cyber-monday)
+ - [Apple accused of snooping on workers’ iPhones in new lawsuit](https://www.theverge.com/2024/12/2/24311060/apple-employee-surveillance-lawsuit)
+ - [The Garmin Forerunner 255 is on sale for Cyber Monday](https://www.theverge.com/2024/12/2/24311166/cyber-monday-garmin-forerunner-255-deals)
+ - [Here are the best Cyber Monday deals for under $30](https://www.theverge.com/24306407/black-friday-2024-best-deals-under-30-tech-gift-ideas-cyber-monday)
+ - [The Best All-Clad Cyber Monday Deals](https://www.wired.com/story/cyber-monday-2024-all-clad-deals/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Might have bought migraine tablets](http://9gag.com/gag/aKG6GZj)
- - 😝 [Pass on your genes and die. 95% of 9gaggers will only accomplish the latter.](http://9gag.com/gag/agmB7qv)
- - 💣 [A long, long, long time ago, when people believed in a financial scam](http://9gag.com/gag/aoyM3pm)
- - 😝 [What did you expect](http://9gag.com/gag/a4PE6pd)
- - 👉 [Just a typical night out in France.](http://9gag.com/gag/a9yEzo6)<!-- MEMES:END -->
+ - 😝 [That sweet sound of crying little shit](http://9gag.com/gag/aLnpeb6)
+ - 😝 [Ad hominem is missing](http://9gag.com/gag/ayNM4Xy)
+ - 💣 [Reality wake the f**k up](http://9gag.com/gag/aqyjXPv)
+ - 😝 [Nice stick](http://9gag.com/gag/a34EAj5)
+ - 👉 [I wonder why](http://9gag.com/gag/a34EAB5)<!-- MEMES:END -->
 
 ---
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Surprised Pikachu face when I ask her to swallow the car battery](http://9gag.com/gag/aD2d25O)
- - 😝 [Policeman gets grooming tips from a prisoner.](http://9gag.com/gag/a34EGd8)
- - 💣 [He just nuked India&#39;s tourism industry!](http://9gag.com/gag/aGypBYn)
- - 😝 [Normal for it to move? And the bolt moves?](http://9gag.com/gag/aKG69gj)
- - 👉 [Ps5 exhaust melted the wall paint. Kept behind tv.](http://9gag.com/gag/aGypnY5)<!-- MEMES:END -->
+ - 😝 [Ps5 exhaust melted the wall paint. Kept behind tv.](http://9gag.com/gag/aGypnY5)
+ - 😝 [I&#39;m not even joking, that was his wife, and his real son made it a comedy goldmine](http://9gag.com/gag/agmBQ31)
+ - 💣 [Harry potter and the chamber of tax evasion](http://9gag.com/gag/a4PEnGp)
+ - 😝 [Ah bloody hell...](http://9gag.com/gag/aNDpLrv)
+ - 👉 [Have a great day](http://9gag.com/gag/ae9A9xQ)<!-- MEMES:END -->
 
 ---
 

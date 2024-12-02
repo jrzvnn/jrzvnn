@@ -157,7 +157,7 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [21 Best Black Friday Clothing Deals on WIRED-Specific Fashion Finds](https://www.wired.com/story/black-friday-clothing-deals-2024/)
+ - [21 Best Black Friday Clothing Deals on WIRED Fashion &lpar;2024&rpar;](https://www.wired.com/story/black-friday-clothing-deals-2024/)
  - [12 Best Black Friday Sleep Deals for Sleep Lovers](https://www.cnet.com/deals/best-black-friday-sleep-deals-2024/#ftag=CAD590a51e)
  - [Act Fast to Grab This Cyber Monday Echo Show Bundle That Gets You a Blink Video Doorbell for Free](https://www.cnet.com/deals/act-fast-to-grab-this-cyber-monday-echo-show-bundle-that-gets-you-a-blink-video-doorbell-for-free/#ftag=CAD590a51e)
  - [We Found 80+ Best Cyber Monday Deals to Shop at Amazon, Best Buy, Walmart and More](https://www.cnet.com/deals/best-cyber-monday-deals-live-2024-12-01/#ftag=CAD590a51e)

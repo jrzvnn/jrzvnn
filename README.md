@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The End Is Near for NASA’s Voyager Probes](https://www.wired.com/story/the-end-is-near-for-nasas-voyager-probes/)
+ - [AWS launches Data Transfer Terminal to let customers upload data to AWS Cloud by plugging in storage devices from a set of physical locations &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/241202/p11#a241202p11)
  - [370 Absolute Best Cyber Monday Deals &lpar;2024&rpar;](https://www.wired.com/story/absolute-best-cyber-monday-deals-2024/)
  - [An interview with Raspberry Pi CEO Eben Upton on the company&#39;s London listing, establishing a sales department, single-board device assembly in Wales, and more &lpar;Jonathan Moules/Financial Times&rpar;](http://www.techmeme.com/241202/p10#a241202p10)
- - [We Found the Top 80+ Cyber Monday Deals to Shop on TVs, Laptops, Smart Tech and More](https://www.cnet.com/deals/best-cyber-monday-deals-live-2024-12-02/#ftag=CAD590a51e)
- - [The Pressure Is on for Big Tech to Regulate the Broken Digital Advertising Industry](https://www.wired.com/story/big-tech-digital-advertising-regulation/)
- - [Save up to $250 on every M4 Mac mini, plus get M2 Cyber Monday deals from $449](https://appleinsider.com/articles/24/11/15/save-up-to-250-on-every-m4-mac-mini-plus-get-m2-early-black-friday-deals-from-449?utm_medium=rss)<!-- TECH:END -->
+ - [We Found the Top 80+ Cyber Monday Deals to Shop on TVs, Laptops, Smart Tech and More](https://www.cnet.com/deals/best-cyber-monday-deals-live-2024-12-02/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

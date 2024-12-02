@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [It needs to end happily...](http://9gag.com/gag/a5QEVMO)
- - 😝 [Sex up against the book shelf](http://9gag.com/gag/ayNMW8p)
- - 💣 [Bring it in europe](http://9gag.com/gag/aYQoEjq)
- - 😝 [What did you expect](http://9gag.com/gag/a4PE6pd)
- - 👉 [Parking](http://9gag.com/gag/avy5Wwb)<!-- MEMES:END -->
+ - 😝 [Parking](http://9gag.com/gag/avy5Wwb)
+ - 😝 [Bring it in europe](http://9gag.com/gag/aYQoEjq)
+ - 💣 [Sex up against the book shelf](http://9gag.com/gag/ayNMW8p)
+ - 😝 [On ground footage of what a missile can look whistling past your ears](http://9gag.com/gag/aVv7ozy)
+ - 👉 [What did you expect](http://9gag.com/gag/a4PE6pd)<!-- MEMES:END -->
 
 ---
 

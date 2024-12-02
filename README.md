@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Best Deals From the REI Cyber Week Sale &lpar;2024&rpar;](https://www.wired.com/story/best-rei-cyber-week-outdoor-deals-2024/)
  - [407 Absolute Best Cyber Monday Deals &lpar;2024&rpar;](https://www.wired.com/story/absolute-best-cyber-monday-deals-2024/)
  - [Today is your last day to get Hulu for $1 a month and other streaming deals](https://www.theverge.com/2024/12/2/24310991/hulu-disney-plus-paramount-plus-peacock-max-cyber-monday-2024-streaming-deal-sale)
  - [Sony brings back original PlayStation boot screen with PS5 anniversary update](https://www.theverge.com/2024/12/2/24311112/playstation-30th-anniversary-psx-boot-sequence-ps5-update)
- - [Best Apple Cyber Monday deals: 50+ bargains that expire today](https://appleinsider.com/articles/24/12/02/best-apple-cyber-monday-deals-50-bargains-that-expire-today?utm_medium=rss)
- - [Apple talks up privacy, yet spies on its own staff, says lawsuit](https://appleinsider.com/articles/24/12/02/apple-talks-up-privacy-yet-spies-on-its-own-staff-says-lawsuit?utm_medium=rss)<!-- TECH:END -->
+ - [Best Apple Cyber Monday deals: 50+ bargains that end today](https://appleinsider.com/articles/24/12/02/best-apple-cyber-monday-deals-50-bargains-that-expire-today?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [AT&amp;T launches a wireless backup for fiber internet outages](https://www.theverge.com/2024/12/2/24311372/att-internet-backup-wireless-cellular)
+ - [Best Kindle Cyber Monday Deals and Amazon Device Sales &lpar;2024&rpar;](https://www.wired.com/story/cyber-monday-amazon-devices-deals-2024/)
  - [The best Cyber Monday smartwatch and fitness tracker deals](https://www.theverge.com/good-deals/24306393/black-friday-2024-best-deals-smartwatch-fitness-tracker-wearables-cyber-monday)
  - [Cyber Monday Deals Tracked Live From Cyberspace 2024](https://www.wired.com/live/cyber-monday-deals-2024/)
- - [AWS details updates to its data centers, including liquid cooling for AI servers, more simplified electrical and mechanical designs for server racks, and more &lpar;Frederic Lardinois/TechCrunch&rpar;](http://www.techmeme.com/241202/p29#a241202p29)
- - [Coinbase Onboard adds Apple Pay for crypto purchases in third-party apps](https://appleinsider.com/articles/24/12/02/coinbase-onboard-adds-apple-pay-for-crypto-purchases-in-third-party-apps?utm_medium=rss)
- - [The top Cyber Monday deals you can get right now](https://www.theverge.com/24309106/best-black-friday-deals-2024-tech-gadgets-cyber-monday)<!-- TECH:END -->
+ - [AWS details updates to its data centers, including liquid cooling for AI servers, more simplified electrical and mechanical designs for server racks, and more &lpar;Frederic Lardinois/TechCrunch&rpar;](http://www.techmeme.com/241202/p29#a241202p29)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

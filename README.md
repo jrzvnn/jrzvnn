@@ -167,9 +167,9 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [She didn\u2019t just\u2026 she didn\u2019t.. did she?](http://9gag.com/gag/aAybQw2)
- - 😝 [It needs to end happily...](http://9gag.com/gag/a5QEVMO)
- - 💣 [What did you expect](http://9gag.com/gag/a4PE6pd)
- - 😝 [Share your saddest relationship moments](http://9gag.com/gag/a4PEzjd)
+ - 😝 [Parking](http://9gag.com/gag/avy5Wwb)
+ - 💣 [Bring it in europe](http://9gag.com/gag/aYQoEjq)
+ - 😝 [No more billionaires!](http://9gag.com/gag/amoPWX4)
  - 👉 [Normal for it to move? And the bolt moves?](http://9gag.com/gag/aKG69gj)<!-- MEMES:END -->
 
 ---

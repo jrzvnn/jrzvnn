@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Waifu barber](http://9gag.com/gag/amoP10v)
- - 😝 [Based](http://9gag.com/gag/abAV4wX)
- - 💣 [What did you expect](http://9gag.com/gag/a4PE6pd)
- - 😝 [No shifters allowed](http://9gag.com/gag/aQzom7W)
- - 👉 [Bring it in europe](http://9gag.com/gag/aYQoEjq)<!-- MEMES:END -->
+ - 😝 [Sex up against the book shelf](http://9gag.com/gag/ayNMW8p)
+ - 😝 [Bring it in europe](http://9gag.com/gag/aYQoEjq)
+ - 💣 [New is always better](http://9gag.com/gag/aXPoVwD)
+ - 😝 [Ps5 exhaust melted the wall paint. Kept behind tv.](http://9gag.com/gag/aGypnY5)
+ - 👉 [Man attacked by his wheelchair-bound neighbor&#39;s 4 Pitbulls](http://9gag.com/gag/abAVO4p)<!-- MEMES:END -->
 
 ---
 

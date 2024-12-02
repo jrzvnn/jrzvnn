@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [It needs to end happily...](http://9gag.com/gag/a5QEVMO)
- - 😝 [Might have bought migraine tablets](http://9gag.com/gag/aKG6GZj)
- - 💣 [Ps5 exhaust melted the wall paint. Kept behind tv.](http://9gag.com/gag/aGypnY5)
- - 😝 [Ah bloody hell...](http://9gag.com/gag/aNDpLrv)
- - 👉 [Waifu barber](http://9gag.com/gag/amoP10v)<!-- MEMES:END -->
+ - 😝 [That sweet sound of crying little shit](http://9gag.com/gag/aLnpeb6)
+ - 😝 [Nice stick](http://9gag.com/gag/a34EAj5)
+ - 💣 [I wonder why](http://9gag.com/gag/a34EAB5)
+ - 😝 [Can anyone translate ?](http://9gag.com/gag/aYQoDVw)
+ - 👉 [He just nuked India&#39;s tourism industry!](http://9gag.com/gag/aGypBYn)<!-- MEMES:END -->
 
 ---
 

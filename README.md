@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Top 4 iMac Cyber Monday deals to grab before today&#39;s sale ends](https://appleinsider.com/articles/24/12/02/top-4-imac-cyber-monday-deals-to-grab-before-todays-sale-ends?utm_medium=rss)
- - [Threads’ next update is a search feature that finds the post you’re looking for](https://www.theverge.com/2024/12/2/24311435/threads-search-tool-before-after-date-profile-filters)
- - [The 46 Best Cyber Monday Deals From Best Buy &lpar;2024&rpar;](https://www.wired.com/story/best-buy-cyber-monday-deals-2024/)
- - [The best Cyber Monday deals still left on MacBooks and other laptops](https://www.theverge.com/24305977/black-friday-best-deals-laptops-macbook-windows-gaming-cyber-monday-2024)
- - [Cyber Monday is a great day to buy a 32-inch OLED gaming monitor](https://www.theverge.com/2024/12/2/24311328/cyber-monday-oled-gaming-monitor-asus-alienware-msi-lg-deal-sale)<!-- TECH:END -->
+ - [The top Cyber Monday deals you can still get right now](https://www.theverge.com/24309106/best-black-friday-deals-2024-tech-gadgets-cyber-monday)
+ - [As Head of the FBI, Kash Patel Could Offer January 6 Rioters Retribution Against Their Enemies](https://www.wired.com/story/kash-patel-fbi-fedsurrection-january-6-rioters/)
+ - [The 16 best TV deals for Cyber Monday](https://www.theverge.com/24307741/black-friday-tv-deals-lg-samsung-sony-tcl-cyber-monday-2024)
+ - [ChatGPT refuses to say some names, possibly due to digital privacy requests or a post-prompt handling fault; OpenAI may have fixed the viral &quot;David Mayer&quot; issue &lpar;Devin Coldewey/TechCrunch&rpar;](http://www.techmeme.com/241202/p30#a241202p30)
+ - [Top 4 iMac Cyber Monday deals to grab before today&#39;s sale ends](https://appleinsider.com/articles/24/12/02/top-4-imac-cyber-monday-deals-to-grab-before-todays-sale-ends?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

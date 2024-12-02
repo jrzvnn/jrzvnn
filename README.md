@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Lenovo Legion Go S leak shows renders of the cheaper handheld gaming PC](https://www.theverge.com/2024/12/2/24311437/lenovo-legion-go-s-leak-pc-gaming-handheld)
+ - [GM sells stake in EV battery plant to partner LG Energy Solutions](https://www.theverge.com/2024/12/2/24311546/gm-sells-stake-ev-battery-factory-lg-lansing)
+ - [54 Best Cyber Monday Tech Deals &lpar;2024&rpar;](https://www.wired.com/story/cyber-monday-tech-deals-2024/)
  - [Elon Musk’s $56 billion pay package gets rejected  — again](https://www.theverge.com/2024/12/2/24311526/elon-musk-56-billion-pay-package-rejected-court)
- - [The best Cyber Monday headphone and earbud deals you can get](https://www.theverge.com/24307533/black-friday-best-deals-headphones-wireless-earbuds-airpods-2024-cyber-monday)
- - [40 Best Cyber Monday Laptop Deals &lpar;2024&rpar;, MacBooks Included](https://www.wired.com/story/best-cyber-monday-laptop-deals-2024/)
- - [420 Absolute Best Cyber Monday Deals Picked by Our Experts &lpar;2024&rpar; | WIRED](https://www.wired.com/story/absolute-best-cyber-monday-deals-2024/)
- - [35 Best Cyber Monday Headphone Deals &lpar;2024&rpar;](https://www.wired.com/story/cyber-monday-headphone-deals-2024/)<!-- TECH:END -->
+ - [The best Cyber Monday headphone and earbud deals you can get](https://www.theverge.com/24307533/black-friday-best-deals-headphones-wireless-earbuds-airpods-2024-cyber-monday)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

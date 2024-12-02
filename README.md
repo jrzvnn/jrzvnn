@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [He just nuked India&#39;s tourism industry!](http://9gag.com/gag/aGypBYn)
- - 😝 [Can anyone translate ?](http://9gag.com/gag/aYQoDVw)
- - 💣 [Off you go.](http://9gag.com/gag/ajPmOp1)
- - 😝 [Based](http://9gag.com/gag/abAV4wX)
- - 👉 [Herman the German](http://9gag.com/gag/aVv7E5v)<!-- MEMES:END -->
+ - 😝 [It needs to end happily...](http://9gag.com/gag/a5QEVMO)
+ - 😝 [Sex up against the book shelf](http://9gag.com/gag/ayNMW8p)
+ - 💣 [Bring it in europe](http://9gag.com/gag/aYQoEjq)
+ - 😝 [What did you expect](http://9gag.com/gag/a4PE6pd)
+ - 👉 [Parking](http://9gag.com/gag/avy5Wwb)<!-- MEMES:END -->
 
 ---
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Analysis: US spot Bitcoin ETFs now hold more than 1M bitcoin, or about 5% of the total and about as many bitcoin frozen in the wallet of Satoshi Nakamoto &lpar;Bloomberg&rpar;](http://www.techmeme.com/241202/p7#a241202p7)
- - [South Korean AI chip maker Rebellions completes its merger with Sapeon Korea, SK Telecom&#39;s AI chip subsidiary; Rebellions has valued the merged entity at ~$929M &lpar;Jie Ye-eun/The Korea Herald&rpar;](http://www.techmeme.com/241202/p6#a241202p6)
- - [Amazon&#39;s best Cyber Monday Apple deals are live with prices from $11 [updated]](https://appleinsider.com/articles/24/11/30/amazons-best-cyber-monday-apple-deals-are-live-with-prices-from-11?utm_medium=rss)
- - [Wayfair Coupons: 15% Off | December 2024](https://www.wired.com/story/wayfair-coupon/)
- - [Analysis: US spot bitcoin and ether ETFs logged record monthly net inflows, $6.5B and $1.1B respectively, in November 2024, buoyed by Trump&#39;s embrace of crypto &lpar;Bloomberg&rpar;](http://www.techmeme.com/241202/p5#a241202p5)<!-- TECH:END -->
+ - [Inside Helsinki&#39;s Slush 2024, a startup event described as a mix of TED Talks, Eurovision, and Shark Tank, attended by ~13K people, with LPs up 46% YoY to 350+ &lpar;Bloomberg&rpar;](http://www.techmeme.com/241202/p9#a241202p9)
+ - [The UN&#39;s ITU and the International Cable Protection Committee announce a 40-member global advisory body to support the resilience of submarine telecom cables &lpar;Laura Dobberstein/The Register&rpar;](http://www.techmeme.com/241202/p8#a241202p8)
+ - [Newegg Promo Code 10% off | December 2024](https://www.wired.com/story/newegg-promo-code/)
+ - [Analysis: US spot bitcoin ETFs now hold more than 1M bitcoin, or about 5% of the total and about as many bitcoin frozen in the wallet of Satoshi Nakamoto &lpar;Bloomberg&rpar;](http://www.techmeme.com/241202/p7#a241202p7)
+ - [South Korean AI chip maker Rebellions completes its merger with Sapeon Korea, SK Telecom&#39;s AI chip subsidiary; Rebellions has valued the merged entity at ~$929M &lpar;Jie Ye-eun/The Korea Herald&rpar;](http://www.techmeme.com/241202/p6#a241202p6)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

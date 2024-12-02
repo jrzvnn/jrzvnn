@@ -167,8 +167,8 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [Off you go.](http://9gag.com/gag/ajPmOp1)
- - 😝 [Based](http://9gag.com/gag/abAV4wX)
- - 💣 [Herman the German](http://9gag.com/gag/aVv7E5v)
+ - 😝 [Herman the German](http://9gag.com/gag/aVv7E5v)
+ - 💣 [Based](http://9gag.com/gag/abAV4wX)
  - 😝 [Pass on your genes and die. 95% of 9gaggers will only accomplish the latter.](http://9gag.com/gag/agmB7qv)
  - 👉 [Technology man](http://9gag.com/gag/a1mr5QG)<!-- MEMES:END -->
 

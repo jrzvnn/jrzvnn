@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [OpenAI CFO Sarah Friar says the startup is weighing up an ads model, but plans to be &quot;thoughtful&quot;; sources say OpenAI has hired ad talent from Meta and Google &lpar;Financial Times&rpar;](http://www.techmeme.com/241202/p17#a241202p17)
  - [Social media videos documenting layoffs are now commonplace, especially by younger workers, creating headaches for companies; TikTok&#39;s #layoff has 32K+ posts &lpar;Cristina Criddle/Financial Times&rpar;](http://www.techmeme.com/241202/p16#a241202p16)
  - [15 Great Cyber Monday Soundbar Deals to Pump Up the Volume &lpar;2024&rpar;](https://www.wired.com/story/cyber-monday-soundbar-deals-2024/)
  - [Can Artificial Rain, Drones, or Satellites Clean Toxic Air?](https://www.wired.com/story/artificial-rain-drones-and-satellites-can-tech-clean-indias-toxic-air/)
- - [This Website Shows How Much Google’s AI Can Glean From Your Photos](https://www.wired.com/story/website-google-ai-photos-ente/)
- - [21 Cyber Monday Deals on Apple iPads, MacBooks, More Still Available](https://www.wired.com/story/cyber-monday-apple-deals-2024/)<!-- TECH:END -->
+ - [This Website Shows How Much Google’s AI Can Glean From Your Photos](https://www.wired.com/story/website-google-ai-photos-ente/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

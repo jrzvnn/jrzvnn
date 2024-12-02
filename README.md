@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Save up to $250 on every M4 Mac mini, plus get M2 Cyber Monday deals from $449](https://appleinsider.com/articles/24/11/15/save-up-to-250-on-every-m4-mac-mini-plus-get-m2-early-black-friday-deals-from-449?utm_medium=rss)
- - [Save on Surfshark VPN and protect yourself online with this Cyber Monday discount](https://appleinsider.com/articles/24/12/02/save-on-surfshark-vpn-and-protect-yourself-online-with-this-cyber-monday-discount?utm_medium=rss)
- - [We Found the 80+ Best Cyber Monday Deals to Shop on Laptops, Vacuums, TVs and More](https://www.cnet.com/deals/best-cyber-monday-deals-live-2024-12-02/#ftag=CAD590a51e)
- - [The $529 Mac mini M4 deal is back for Cyber Monday, but supply is limited](https://appleinsider.com/articles/24/12/02/the-529-mac-mini-m4-deal-is-back-for-cyber-monday-but-supply-is-limited?utm_medium=rss)
- - [Inside Helsinki&#39;s Slush 2024, a startup event described as a mix of TED Talks, Eurovision, and Shark Tank, attended by ~13K people, with LPs up 46% YoY to 350+ &lpar;Bloomberg&rpar;](http://www.techmeme.com/241202/p9#a241202p9)<!-- TECH:END -->
+ - [370 Absolute Best Cyber Monday Deals &lpar;2024&rpar;](https://www.wired.com/story/absolute-best-cyber-monday-deals-2024/)
+ - [An interview with Raspberry Pi CEO Eben Upton on the company&#39;s London listing, establishing a sales department, single-board device assembly in Wales, and more &lpar;Jonathan Moules/Financial Times&rpar;](http://www.techmeme.com/241202/p10#a241202p10)
+ - [We Found the Top 80+ Cyber Monday Deals to Shop on TVs, Laptops, Smart Tech and More](https://www.cnet.com/deals/best-cyber-monday-deals-live-2024-12-02/#ftag=CAD590a51e)
+ - [The Pressure Is on for Big Tech to Regulate the Broken Digital Advertising Industry](https://www.wired.com/story/big-tech-digital-advertising-regulation/)
+ - [Save up to $250 on every M4 Mac mini, plus get M2 Cyber Monday deals from $449](https://appleinsider.com/articles/24/11/15/save-up-to-250-on-every-m4-mac-mini-plus-get-m2-early-black-friday-deals-from-449?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -166,10 +166,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Might have bought migraine tablets](http://9gag.com/gag/aKG6GZj)
  - 😝 [Oh no](http://9gag.com/gag/a34EGLr)
+ - 😝 [Might have bought migraine tablets](http://9gag.com/gag/aKG6GZj)
  - 💣 [Parking](http://9gag.com/gag/avy5Wwb)
- - 😝 [No more billionaires!](http://9gag.com/gag/amoPWX4)
+ - 😝 [Looking up first is funny :D](http://9gag.com/gag/aNDp9Vw)
  - 👉 [It needs to end happily...](http://9gag.com/gag/a5QEVMO)<!-- MEMES:END -->
 
 ---

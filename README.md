@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [36 Best Cyber Monday Laptop Deals &lpar;2024&rpar;, MacBooks Included](https://www.wired.com/story/best-cyber-monday-laptop-deals-2024/)
- - [Bose’s fantastic SoundLink Max is finally the right price for Cyber Monday](https://www.theverge.com/2024/12/2/24310531/bose-soundlink-max-bluetooth-speaker-cyber-monday-deal)
- - [Super Micro says an external review by a special committee of its board and external counsel found no evidence of wrongdoing, and plans to appoint a new CFO &lpar;Bloomberg&rpar;](http://www.techmeme.com/241202/p23#a241202p23)
- - [The best Cyber Monday robot vacuum deals you can get from iRobot, Roborock, and more](https://www.theverge.com/24306781/black-friday-2024-best-deals-robot-vacuums-mops-roombas-cyber-monday)
- - [Toronto-based AI chip designer Tenstorrent raised a $700M Series D from Jeff Bezos, Samsung, and more at a $2.6B valuation and reports nearly $150M in contracts &lpar;Bloomberg&rpar;](http://www.techmeme.com/241202/p22#a241202p22)<!-- TECH:END -->
+ - [The best robot vacuums](https://www.theverge.com/22997597/best-robot-vacuum-cleaner)
+ - [The best budget robot vacuums](https://www.theverge.com/23846479/best-budget-robot-vacuum-robot-mop)
+ - [45 Best Cyber Monday Gaming Deals &lpar;2024&rpar;, Consoles and Games](https://www.wired.com/story/cyber-monday-gaming-deals-2024/)
+ - [The best Cyber Monday smartwatch and fitness tracker deals](https://www.theverge.com/good-deals/24306393/black-friday-2024-best-deals-smartwatch-fitness-tracker-wearables-cyber-monday)
+ - [The top Cyber Monday deals you can get right now](https://www.theverge.com/24309106/best-black-friday-deals-2024-tech-gadgets-cyber-monday)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

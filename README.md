@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Twitch creator Kai Cenat completed a &quot;subathon&quot;, streaming 24 hours a day for 30 days, breaking Twitch subscriber records with ~727,700 subscribers in November &lpar;Zach Vallese/CNBC&rpar;](http://www.techmeme.com/241202/p27#a241202p27)
  - [LG’s 77-inch C3 OLED is the best TV deal you can grab for Cyber Monday](https://www.theverge.com/2024/12/2/24311237/cyber-monday-2024-lg-c3-oled-tv-77-inch)
  - [420 Absolute Best Cyber Monday Deals Picked by Our Experts &lpar;2024&rpar; | WIRED](https://www.wired.com/story/absolute-best-cyber-monday-deals-2024/)
  - [Roblox tries to skirt app store fees by making Robux worth more on other platforms](https://www.theverge.com/2024/12/2/24311337/roblox-robux-app-store-fees-worth-more-party)
- - [The 41 Best Cyber Monday Deals From Best Buy &lpar;2024&rpar;](https://www.wired.com/story/best-buy-cyber-monday-deals-2024/)
- - [Hands on: Baseus Qi2, 45W PD chargers, &amp; 100W cables cover nearly every charging need](https://appleinsider.com/articles/24/12/02/hands-on-baseus-qi2-45w-pd-chargers-100w-cables-covers-nearly-every-charging-need?utm_medium=rss)<!-- TECH:END -->
+ - [The 41 Best Cyber Monday Deals From Best Buy &lpar;2024&rpar;](https://www.wired.com/story/best-buy-cyber-monday-deals-2024/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

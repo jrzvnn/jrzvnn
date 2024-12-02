@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [5 Best Cyber Monday Sunrise Alarm Clock Deals to Grab Now](https://www.wired.com/story/sunrise-alarm-clock-cyber-monday-deals-2024/)
- - [AT&amp;T launches a wireless backup for fiber internet outages](https://www.theverge.com/2024/12/2/24311372/att-internet-backup-wireless-cellular)
- - [Best Kindle Cyber Monday Deals and Amazon Device Sales &lpar;2024&rpar;](https://www.wired.com/story/cyber-monday-amazon-devices-deals-2024/)
- - [The best Cyber Monday smartwatch and fitness tracker deals](https://www.theverge.com/good-deals/24306393/black-friday-2024-best-deals-smartwatch-fitness-tracker-wearables-cyber-monday)
- - [Cyber Monday Deals Tracked Live From Cyberspace 2024](https://www.wired.com/live/cyber-monday-deals-2024/)<!-- TECH:END -->
+ - [Top 4 iMac Cyber Monday deals to grab before today&#39;s sale ends](https://appleinsider.com/articles/24/12/02/top-4-imac-cyber-monday-deals-to-grab-before-todays-sale-ends?utm_medium=rss)
+ - [Threads’ next update is a search feature that finds the post you’re looking for](https://www.theverge.com/2024/12/2/24311435/threads-search-tool-before-after-date-profile-filters)
+ - [The 46 Best Cyber Monday Deals From Best Buy &lpar;2024&rpar;](https://www.wired.com/story/best-buy-cyber-monday-deals-2024/)
+ - [The best Cyber Monday deals still left on MacBooks and other laptops](https://www.theverge.com/24305977/black-friday-best-deals-laptops-macbook-windows-gaming-cyber-monday-2024)
+ - [Cyber Monday is a great day to buy a 32-inch OLED gaming monitor](https://www.theverge.com/2024/12/2/24311328/cyber-monday-oled-gaming-monitor-asus-alienware-msi-lg-deal-sale)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

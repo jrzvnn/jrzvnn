@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Japanese crypto exchange DMM Bitcoin is shutting down and plans to transfer accounts and assets to crypto firm SBI VC Trade by March, after a $300M+ hack in May &lpar;Jonathan Greig/The Record&rpar;](http://www.techmeme.com/241202/p31#a241202p31)
+ - [GOG’s preservation program lets you keep playing games after they’re delisted](https://www.theverge.com/2024/12/2/24311537/gog-preservation-program-warcraft-1-2-delisted-support-continues)
  - [Lenovo Legion Go S leak shows renders of the cheaper handheld gaming PC](https://www.theverge.com/2024/12/2/24311437/lenovo-legion-go-s-leak-pc-gaming-handheld)
  - [GM sells stake in EV battery plant to partner LG Energy Solutions](https://www.theverge.com/2024/12/2/24311546/gm-sells-stake-ev-battery-factory-lg-lansing)
- - [54 Best Cyber Monday Tech Deals &lpar;2024&rpar;](https://www.wired.com/story/cyber-monday-tech-deals-2024/)
- - [Elon Musk’s $56 billion pay package gets rejected  — again](https://www.theverge.com/2024/12/2/24311526/elon-musk-56-billion-pay-package-rejected-court)
- - [The best Cyber Monday headphone and earbud deals you can get](https://www.theverge.com/24307533/black-friday-best-deals-headphones-wireless-earbuds-airpods-2024-cyber-monday)<!-- TECH:END -->
+ - [54 Best Cyber Monday Tech Deals &lpar;2024&rpar;](https://www.wired.com/story/cyber-monday-tech-deals-2024/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

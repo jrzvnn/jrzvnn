@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [The accuracy is on point](http://9gag.com/gag/abAVWZ9)
+ - 😝 [So the only thing that the Brexit caused was the exit of white people?](http://9gag.com/gag/a34EyON)
+ - 😝 [Books are a mirror to the soul!!!](http://9gag.com/gag/aoyMxZA)
+ - 💣 [When the cat refuses medication](http://9gag.com/gag/aGypM27)
  - 😝 [Sex up against the book shelf](http://9gag.com/gag/ayNMW8p)
- - 💣 [On ground footage of what a missile can look whistling past your ears](http://9gag.com/gag/aVv7ozy)
- - 😝 [Waifu barber](http://9gag.com/gag/amoP10v)
- - 👉 [Man attacked by his wheelchair-bound neighbor&#39;s 4 Pitbulls](http://9gag.com/gag/abAVO4p)<!-- MEMES:END -->
+ - 👉 [Another way to hurt them](http://9gag.com/gag/awyMLOQ)<!-- MEMES:END -->
 
 ---
 

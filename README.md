@@ -158,10 +158,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- TECH:START -->
  - [The best Cyber Monday smartwatch and fitness tracker deals](https://www.theverge.com/good-deals/24306393/black-friday-2024-best-deals-smartwatch-fitness-tracker-wearables-cyber-monday)
+ - [Cyber Monday Deals Tracked Live From Cyberspace 2024](https://www.wired.com/live/cyber-monday-deals-2024/)
  - [AWS details updates to its data centers, including liquid cooling for AI servers, more simplified electrical and mechanical designs for server racks, and more &lpar;Frederic Lardinois/TechCrunch&rpar;](http://www.techmeme.com/241202/p29#a241202p29)
  - [Coinbase Onboard adds Apple Pay for crypto purchases in third-party apps](https://appleinsider.com/articles/24/12/02/coinbase-onboard-adds-apple-pay-for-crypto-purchases-in-third-party-apps?utm_medium=rss)
- - [80+ Blazing Hot Cyber Monday Deals Picked by CNET Shopping Experts](https://www.cnet.com/deals/best-cyber-monday-deals-live-2024-12-02/#ftag=CAD590a51e)
- - [I Tested the Eight Sleep Pod 4 Cover. Here Are 8 Things You Should Know Before Buying](https://www.cnet.com/health/sleep/testing-the-eight-sleep-pod-4-cover/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [The top Cyber Monday deals you can get right now](https://www.theverge.com/24309106/best-black-friday-deals-2024-tech-gadgets-cyber-monday)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

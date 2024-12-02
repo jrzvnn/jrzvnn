@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [Waifu barber](http://9gag.com/gag/amoP10v)
  - 😝 [Based](http://9gag.com/gag/abAV4wX)
- - 😝 [BMW driver doesn\u2019t move for a fire truck because of his ego](http://9gag.com/gag/aYQoPr7)
- - 💣 [Waifu barber](http://9gag.com/gag/amoP10v)
- - 😝 [Man attacked by his wheelchair-bound neighbor&#39;s 4 Pitbulls](http://9gag.com/gag/abAVO4p)
- - 👉 [On ground footage of what a missile can look whistling past your ears](http://9gag.com/gag/aVv7ozy)<!-- MEMES:END -->
+ - 💣 [What did you expect](http://9gag.com/gag/a4PE6pd)
+ - 😝 [No shifters allowed](http://9gag.com/gag/aQzom7W)
+ - 👉 [Bring it in europe](http://9gag.com/gag/aYQoEjq)<!-- MEMES:END -->
 
 ---
 

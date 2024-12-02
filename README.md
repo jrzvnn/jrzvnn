@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Parking](http://9gag.com/gag/avy5Wwb)
- - 😝 [Bring it in europe](http://9gag.com/gag/aYQoEjq)
- - 💣 [Sex up against the book shelf](http://9gag.com/gag/ayNMW8p)
- - 😝 [On ground footage of what a missile can look whistling past your ears](http://9gag.com/gag/aVv7ozy)
- - 👉 [What did you expect](http://9gag.com/gag/a4PE6pd)<!-- MEMES:END -->
+ - 😝 [God damn how much crack does he smoke?](http://9gag.com/gag/aKG6Wjb)
+ - 😝 [Normal for it to move? And the bolt moves?](http://9gag.com/gag/aKG69gj)
+ - 💣 [Ps5 exhaust melted the wall paint. Kept behind tv.](http://9gag.com/gag/aGypnY5)
+ - 😝 [What did you expect](http://9gag.com/gag/a4PE6pd)
+ - 👉 [Sex up against the book shelf](http://9gag.com/gag/ayNMW8p)<!-- MEMES:END -->
 
 ---
 

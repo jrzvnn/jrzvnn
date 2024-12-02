@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [5 Best Cyber Monday Sunrise Alarm Clock Deals to Grab Now](https://www.wired.com/story/sunrise-alarm-clock-cyber-monday-deals-2024/)
  - [AT&amp;T launches a wireless backup for fiber internet outages](https://www.theverge.com/2024/12/2/24311372/att-internet-backup-wireless-cellular)
  - [Best Kindle Cyber Monday Deals and Amazon Device Sales &lpar;2024&rpar;](https://www.wired.com/story/cyber-monday-amazon-devices-deals-2024/)
  - [The best Cyber Monday smartwatch and fitness tracker deals](https://www.theverge.com/good-deals/24306393/black-friday-2024-best-deals-smartwatch-fitness-tracker-wearables-cyber-monday)
- - [Cyber Monday Deals Tracked Live From Cyberspace 2024](https://www.wired.com/live/cyber-monday-deals-2024/)
- - [AWS details updates to its data centers, including liquid cooling for AI servers, more simplified electrical and mechanical designs for server racks, and more &lpar;Frederic Lardinois/TechCrunch&rpar;](http://www.techmeme.com/241202/p29#a241202p29)<!-- TECH:END -->
+ - [Cyber Monday Deals Tracked Live From Cyberspace 2024](https://www.wired.com/live/cyber-monday-deals-2024/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

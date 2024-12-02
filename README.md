@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Man attacked by his wheelchair-bound neighbor&#39;s 4 Pitbulls](http://9gag.com/gag/abAVO4p)
- - 😝 [*Ok Mike, everyone&#39;s looking; show them how cool your idea is &amp; everyone will copy you!*](http://9gag.com/gag/an7Qv30)
- - 💣 [On ground footage of what a missile can look whistling past your ears](http://9gag.com/gag/aVv7ozy)
+ - 😝 [Based](http://9gag.com/gag/abAV4wX)
  - 😝 [BMW driver doesn\u2019t move for a fire truck because of his ego](http://9gag.com/gag/aYQoPr7)
- - 👉 [2021 article but still big facepalm](http://9gag.com/gag/aryMAw6)<!-- MEMES:END -->
+ - 💣 [Waifu barber](http://9gag.com/gag/amoP10v)
+ - 😝 [Man attacked by his wheelchair-bound neighbor&#39;s 4 Pitbulls](http://9gag.com/gag/abAVO4p)
+ - 👉 [On ground footage of what a missile can look whistling past your ears](http://9gag.com/gag/aVv7ozy)<!-- MEMES:END -->
 
 ---
 

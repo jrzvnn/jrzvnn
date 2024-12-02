@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Just a typical night out in France.](http://9gag.com/gag/a9yEzo6)
- - 😝 [On ground footage of what a missile can look whistling past your ears](http://9gag.com/gag/aVv7ozy)
- - 💣 [Looking up first is funny :D](http://9gag.com/gag/aNDp9Vw)
- - 😝 [Normal for it to move? And the bolt moves?](http://9gag.com/gag/aKG69gj)
- - 👉 [Bring it in europe](http://9gag.com/gag/aYQoEjq)<!-- MEMES:END -->
+ - 😝 [One guy to pay for lunch, and a second guy to pay for dinner and a ride.](http://9gag.com/gag/aXPoMz2)
+ - 😝 [Recite the alphabet](http://9gag.com/gag/aXPoPrz)
+ - 💣 [Harry potter and the chamber of tax evasion](http://9gag.com/gag/a4PEnGp)
+ - 😝 [Waifu barber](http://9gag.com/gag/amoP10v)
+ - 👉 [Ps5 exhaust melted the wall paint. Kept behind tv.](http://9gag.com/gag/aGypnY5)<!-- MEMES:END -->
 
 ---
 

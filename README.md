@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [God damn how much crack does he smoke?](http://9gag.com/gag/aKG6Wjb)
- - 😝 [Bring it in europe](http://9gag.com/gag/aYQoEjq)
- - 💣 [What did you expect](http://9gag.com/gag/a4PE6pd)
- - 😝 [Does oil calm rough water?](http://9gag.com/gag/adB8QW9)
- - 👉 [Parking](http://9gag.com/gag/avy5Wwb)<!-- MEMES:END -->
+ - 😝 [He just nuked India&#39;s tourism industry!](http://9gag.com/gag/aGypBYn)
+ - 😝 [Can anyone translate ?](http://9gag.com/gag/aYQoDVw)
+ - 💣 [Technology man](http://9gag.com/gag/a1mr5QG)
+ - 😝 [Off you go.](http://9gag.com/gag/ajPmOp1)
+ - 👉 [Based](http://9gag.com/gag/abAV4wX)<!-- MEMES:END -->
 
 ---
 

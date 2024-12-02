@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The $529 Mac mini M4 deal is back for Cyber Monday, but supply is limited](https://appleinsider.com/articles/24/12/02/the-529-mac-mini-m4-deal-is-back-for-cyber-monday-but-supply-is-limited?utm_medium=rss)
  - [Inside Helsinki&#39;s Slush 2024, a startup event described as a mix of TED Talks, Eurovision, and Shark Tank, attended by ~13K people, with LPs up 46% YoY to 350+ &lpar;Bloomberg&rpar;](http://www.techmeme.com/241202/p9#a241202p9)
  - [The UN&#39;s ITU and the International Cable Protection Committee announce a 40-member global advisory body to support the resilience of submarine telecom cables &lpar;Laura Dobberstein/The Register&rpar;](http://www.techmeme.com/241202/p8#a241202p8)
  - [Newegg Promo Code 10% off | December 2024](https://www.wired.com/story/newegg-promo-code/)
- - [Analysis: US spot bitcoin ETFs now hold more than 1M bitcoin, or about 5% of the total and about as many bitcoin frozen in the wallet of Satoshi Nakamoto &lpar;Bloomberg&rpar;](http://www.techmeme.com/241202/p7#a241202p7)
- - [South Korean AI chip maker Rebellions completes its merger with Sapeon Korea, SK Telecom&#39;s AI chip subsidiary; Rebellions has valued the merged entity at ~$929M &lpar;Jie Ye-eun/The Korea Herald&rpar;](http://www.techmeme.com/241202/p6#a241202p6)<!-- TECH:END -->
+ - [Analysis: US spot bitcoin ETFs now hold more than 1M bitcoin, or about 5% of the total and about as many bitcoin frozen in the wallet of Satoshi Nakamoto &lpar;Bloomberg&rpar;](http://www.techmeme.com/241202/p7#a241202p7)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

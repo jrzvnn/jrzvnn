@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Branch Cyber Monday Sale &lpar;2024&rpar;: Deals on Office Chairs](https://www.wired.com/story/branch-cyber-monday-sale-2024/)
  - [Bengaluru-based Swiggy expands 10-minute food delivery service Bolt to 400+ Indian cities and towns, and says it has partnered with 40K+ restaurants, like KFC &lpar;Manish Singh/TechCrunch&rpar;](http://www.techmeme.com/241202/p12#a241202p12)
  - [30 Best Cyber Monday Headphone Deals &lpar;2024&rpar;](https://www.wired.com/story/cyber-monday-headphone-deals-2024/)
  - [The End Is Near for NASA’s Voyager Probes](https://www.wired.com/story/the-end-is-near-for-nasas-voyager-probes/)
- - [AWS launches Data Transfer Terminal to let customers upload data to AWS Cloud by plugging in storage devices from a set of physical locations &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/241202/p11#a241202p11)
- - [370 Absolute Best Cyber Monday Deals &lpar;2024&rpar;](https://www.wired.com/story/absolute-best-cyber-monday-deals-2024/)<!-- TECH:END -->
+ - [AWS launches Data Transfer Terminal to let customers upload data to AWS Cloud by plugging in storage devices from a set of physical locations &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/241202/p11#a241202p11)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

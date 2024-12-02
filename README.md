@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The best Cyber Monday headphone and earbud deals you can get](https://www.theverge.com/24307533/black-friday-best-deals-headphones-wireless-earbuds-airpods-2024-cyber-monday)
+ - [Best Cyber Monday Deals on LED Face Masks &lpar;2024&rpar;](https://www.wired.com/story/led-masks-cyber-monday-2024/)
  - [The Best Cyber Monday Air Fryer and Kitchen Deals &lpar;2024&rpar;](https://www.wired.com/story/cyber-monday-kitchen-deals-2024/)
  - [Tesla is launching an Apple Watch app](https://www.theverge.com/2024/12/2/24310957/tesla-holiday-update-2024-apple-watch-app-remote-sentry-clips)
- - [Cyber Monday Deals Tracked Live From Cyberspace 2024](https://www.wired.com/live/cyber-monday-deals-2024/)
- - [The Best Cyber Monday Mattress Deals](https://www.wired.com/story/best-cyber-monday-mattress-deals-2024/)
- - [The best robot vacuums](https://www.theverge.com/22997597/best-robot-vacuum-cleaner)<!-- TECH:END -->
+ - [Cyber Monday Deals Tracked Live From Cyberspace 2024](https://www.wired.com/live/cyber-monday-deals-2024/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

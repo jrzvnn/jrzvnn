@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Supporting wife](http://9gag.com/gag/aPA3PeR)
- - 😝 [Bring it in europe](http://9gag.com/gag/aYQoEjq)
- - 💣 [Wingman](http://9gag.com/gag/aW4j7d3)
- - 😝 [Ps5 exhaust melted the wall paint. Kept behind tv.](http://9gag.com/gag/aGypnY5)
- - 👉 [Might have bought migraine tablets](http://9gag.com/gag/aKG6GZj)<!-- MEMES:END -->
+ - 😝 [I wonder why](http://9gag.com/gag/a34EAB5)
+ - 😝 [Based](http://9gag.com/gag/abAV4wX)
+ - 💣 [He just nuked India&#39;s tourism industry!](http://9gag.com/gag/aGypBYn)
+ - 😝 [Can anyone translate ?](http://9gag.com/gag/aYQoDVw)
+ - 👉 [Why Europe? Why?](http://9gag.com/gag/abAV1Pp)<!-- MEMES:END -->
 
 ---
 

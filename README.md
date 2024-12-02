@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [21 Best Black Friday Clothing Deals on WIRED Fashion &lpar;2024&rpar;](https://www.wired.com/story/black-friday-clothing-deals-2024/)
- - [12 Best Black Friday Sleep Deals for Sleep Lovers](https://www.cnet.com/deals/best-black-friday-sleep-deals-2024/#ftag=CAD590a51e)
- - [Act Fast to Grab This Cyber Monday Echo Show Bundle That Gets You a Blink Video Doorbell for Free](https://www.cnet.com/deals/act-fast-to-grab-this-cyber-monday-echo-show-bundle-that-gets-you-a-blink-video-doorbell-for-free/#ftag=CAD590a51e)
- - [We Found 80+ Best Cyber Monday Deals to Shop at Amazon, Best Buy, Walmart and More](https://www.cnet.com/deals/best-cyber-monday-deals-live-2024-12-01/#ftag=CAD590a51e)
- - [359 Absolute Best Black Friday Deals Still Available &lpar;2024&rpar; | WIRED](https://www.wired.com/story/absolute-best-black-friday-deals-2024-1/)<!-- TECH:END -->
+ - [The best Cyber Monday gaming deals you can get](https://www.theverge.com/24303477/black-friday-best-deals-gaming-nintendo-playstation-xbox-cyber-monday-2024)
+ - [The 100 best Cyber Monday deals under $100](https://www.theverge.com/24309009/black-friday-2024-best-deals-under-100-tech-gift-ideas-cyber-monday)
+ - [We Found the 80+ Best Cyber Monday Deals to Shop on Laptops, Vacuums, TVs and More](https://www.cnet.com/deals/best-cyber-monday-deals-live-2024-12-01/#ftag=CAD590a51e)
+ - [370 Absolute Best Black Friday Deals Still Available &lpar;2024&rpar; | WIRED](https://www.wired.com/story/absolute-best-black-friday-deals-2024-1/)
+ - [Best Portable Grills of 2024, Tested and Reviewed](https://www.cnet.com/home/yard-and-outdoors/best-portable-grill/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

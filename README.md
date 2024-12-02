@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [So the only thing that the Brexit caused was the exit of white people?](http://9gag.com/gag/a34EyON)
- - 😝 [Books are a mirror to the soul!!!](http://9gag.com/gag/aoyMxZA)
- - 💣 [When the cat refuses medication](http://9gag.com/gag/aGypM27)
- - 😝 [Sex up against the book shelf](http://9gag.com/gag/ayNMW8p)
- - 👉 [Another way to hurt them](http://9gag.com/gag/awyMLOQ)<!-- MEMES:END -->
+ - 😝 [Does oil calm rough water?](http://9gag.com/gag/adB8QW9)
+ - 😝 [Nice in grey top.](http://9gag.com/gag/a4PEzdy)
+ - 💣 [Can anyone translate ?](http://9gag.com/gag/aYQoDVw)
+ - 😝 [The lion, the witch and the audacity of this b****!](http://9gag.com/gag/aKG6WZN)
+ - 👉 [Man attacked by his wheelchair-bound neighbor&#39;s 4 Pitbulls](http://9gag.com/gag/abAVO4p)<!-- MEMES:END -->
 
 ---
 

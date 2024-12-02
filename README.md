@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Oh no](http://9gag.com/gag/a34EGLr)
- - 😝 [Might have bought migraine tablets](http://9gag.com/gag/aKG6GZj)
- - 💣 [Parking](http://9gag.com/gag/avy5Wwb)
- - 😝 [Looking up first is funny :D](http://9gag.com/gag/aNDp9Vw)
- - 👉 [It needs to end happily...](http://9gag.com/gag/a5QEVMO)<!-- MEMES:END -->
+ - 😝 [She didn\u2019t just\u2026 she didn\u2019t.. did she?](http://9gag.com/gag/aAybQw2)
+ - 😝 [It needs to end happily...](http://9gag.com/gag/a5QEVMO)
+ - 💣 [What did you expect](http://9gag.com/gag/a4PE6pd)
+ - 😝 [Share your saddest relationship moments](http://9gag.com/gag/a4PEzjd)
+ - 👉 [Normal for it to move? And the bolt moves?](http://9gag.com/gag/aKG69gj)<!-- MEMES:END -->
 
 ---
 

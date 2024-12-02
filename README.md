@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [12 Cyber Monday TV Deals to Grab Right Now &lpar;2024&rpar;](https://www.wired.com/story/cyber-monday-tv-deals-2024/)
+ - [Cyber Monday Deals Tracked Live From Cyberspace](https://www.wired.com/live/cyber-monday-deals-2024/)
  - [The US adds new restrictions on transferring HBM chips to China, the fourth US attempt in three years to curb China, and adds 140 companies to its blacklist &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/241202/p13#a241202p13)
  - [Here&#39;s 80+ Amazing Cyber Monday Deals To Grab From Amazon, Best Buy, Walmart and More](https://www.cnet.com/deals/best-cyber-monday-deals-live-2024-12-02/#ftag=CAD590a51e)
- - [The US Just Made It Way Harder for China to Build Its Own AI Chips](https://www.wired.com/story/2024-chips-export-controls-china/)
- - [Yes, You Can Still Find a 5% Savings Account. Today&#39;s Savings Rates, Dec. 2, 2024](https://www.cnet.com/personal-finance/banking/yes-you-can-still-find-a-5-savings-account-todays-savings-rates-dec-2-2024/#ftag=CAD590a51e)
- - [Best Cyber Monday Soundbar Deals: We’re Seeing Huge Discounts on Top Brands Like Samsung, Sonos and More](https://www.cnet.com/deals/best-cyber-monday-soundbar-deals-2024-12-02/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [The US Just Made It Way Harder for China to Build Its Own AI Chips](https://www.wired.com/story/2024-chips-export-controls-china/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

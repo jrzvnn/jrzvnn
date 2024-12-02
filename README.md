@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Pizza flipping skills](http://9gag.com/gag/a6ZEXLm)
+ - 😝 [Normal for it to move? And the bolt moves?](http://9gag.com/gag/aKG69gj)
+ - 😝 [POV you are winning in life](http://9gag.com/gag/amoPonj)
+ - 💣 [Bring it in europe](http://9gag.com/gag/aYQoEjq)
  - 😝 [That sweet sound of crying little shit](http://9gag.com/gag/aLnpeb6)
- - 💣 [He just nuked India&#39;s tourism industry!](http://9gag.com/gag/aGypBYn)
- - 😝 [Nice stick](http://9gag.com/gag/a34EAj5)
- - 👉 [I wonder why](http://9gag.com/gag/a34EAB5)<!-- MEMES:END -->
+ - 👉 [I&#39;m not even joking, that was his wife, and his real son made it a comedy goldmine](http://9gag.com/gag/agmBQ31)<!-- MEMES:END -->
 
 ---
 

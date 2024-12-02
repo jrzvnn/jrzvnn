@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [36 Best Walmart Cyber Monday Deals &lpar;2024&rpar;](https://www.wired.com/story/cyber-monday-walmart-deals-november-2024/)
- - [Cyber Monday Deals Tracked Live From Cyberspace 2024](https://www.wired.com/live/cyber-monday-deals-2024/)
- - [If You’re Going to Make Something, Here’s How to Make It Robust](https://www.wired.com/story/christopher-tidy-robust-repairability-south-africa/)
- - [The Apple AirPods Pro Are &lpar;Still&rpar; the Cheapest We&#39;ve Ever Seen](https://www.wired.com/story/cyber-monday-2024-apple-airpods-pro-deal/)
- - [Jaguar’s Controversial EV Relaunch Has Leaked Online](https://www.wired.com/story/jaguars-controversial-ev-relaunch-has-leaked-online/)<!-- TECH:END -->
+ - [Stellantis CEO Carlos Tavares resigns from struggling carmaker](https://www.theverge.com/2024/12/2/24310921/stellantis-ceo-carlos-tavares-resigns-effective-immediately)
+ - [Best Kindle Cyber Monday Deals and Amazon Device Sales &lpar;2024&rpar;](https://www.wired.com/story/cyber-monday-amazon-devices-deals-2024/)
+ - [383 Absolute Best Cyber Monday Deals &lpar;2024&rpar;](https://www.wired.com/story/absolute-best-cyber-monday-deals-2024/)
+ - [New York-based Upwind, which sells tools to secure cloud infrastructure, raised a $100M Series A led by Craft Venture at a $900M post-money valuation &lpar;Ingrid Lunden/TechCrunch&rpar;](http://www.techmeme.com/241202/p20#a241202p20)
+ - [The top Cyber Monday deals you can get right now](https://www.theverge.com/24309106/best-black-friday-deals-2024-tech-gadgets-cyber-monday)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

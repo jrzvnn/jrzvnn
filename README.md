@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [VC firm Plural&#39;s cofounder says Europe, which is yet to create a $1T company, must start supporting experienced founders and start providing &quot;audacious capital&quot; &lpar;Ian Hogarth/Financial Times&rpar;](http://www.techmeme.com/241201/p10#a241201p10)
+ - [Today&#39;s NYT Mini Crossword Answers for Monday, Dec. 2](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-monday-dec-2/#ftag=CAD590a51e)
+ - [Today&#39;s NYT Connections Hints, Answers and Help for Dec. 2, #540](https://www.cnet.com/tech/gaming/todays-nyt-connections-hints-answers-and-help-for-dec-2-540/#ftag=CAD590a51e)
+ - [Today&#39;s Wordle Hints, Answer and Help for Dec. 2, #1262](https://www.cnet.com/tech/gaming/todays-wordle-hints-answer-and-help-for-dec-2-1262/#ftag=CAD590a51e)
  - [We Found the 80+ Best Cyber Monday Deals to Shop on Laptops, Vacuums, TVs and More](https://www.cnet.com/deals/best-cyber-monday-deals-live-2024-12-01/#ftag=CAD590a51e)
- - [Start Your Next D&amp;D Adventure With Three Core Rulebooks for Only $140 This Cyber Monday](https://www.cnet.com/deals/start-your-next-d-d-adventure-with-three-core-rulebooks-for-only-140-this-cyber-monday/#ftag=CAD590a51e)
- - [The best Cyber Monday gaming deals you can get](https://www.theverge.com/24303477/black-friday-best-deals-gaming-nintendo-playstation-xbox-cyber-monday-2024)
- - [Best Moving Companies of 2024](https://www.cnet.com/home/services/best-moving-companies/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Today&#39;s NYT Strands Hints, Answers and Help for Dec. 2, #274](https://www.cnet.com/tech/gaming/todays-nyt-strands-hints-answers-and-help-for-dec-2-274/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

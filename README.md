@@ -166,10 +166,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Wingman](http://9gag.com/gag/aW4j7d3)
- - 😝 [Oh no](http://9gag.com/gag/a34EGLr)
- - 💣 [Looking up first is funny :D](http://9gag.com/gag/aNDp9Vw)
- - 😝 [It needs to end happily...](http://9gag.com/gag/a5QEVMO)
+ - 😝 [Supporting wife](http://9gag.com/gag/aPA3PeR)
+ - 😝 [Bring it in europe](http://9gag.com/gag/aYQoEjq)
+ - 💣 [Wingman](http://9gag.com/gag/aW4j7d3)
+ - 😝 [Ps5 exhaust melted the wall paint. Kept behind tv.](http://9gag.com/gag/aGypnY5)
  - 👉 [Might have bought migraine tablets](http://9gag.com/gag/aKG6GZj)<!-- MEMES:END -->
 
 ---

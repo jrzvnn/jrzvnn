@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Lowest price ever: Get 4 AirTags for $69.99](https://appleinsider.com/articles/24/12/02/lowest-price-ever-get-4-airtags-for-6999?utm_medium=rss)
+ - [How generative AI may bridge current computing paradigms to future innovations, especially in wearables, which will benefit from context-aware user interfaces &lpar;Ben Thompson/Stratechery&rpar;](http://www.techmeme.com/241202/p26#a241202p26)
  - [The best Cyber Monday phone deals I’d actually recommend to real people](https://www.theverge.com/24306779/black-friday-2024-smartphone-best-deals-apple-samsung-pixel-motorola)
  - [These are the best Cyber Monday gaming deals I’ve found so far](https://www.theverge.com/24303477/black-friday-best-deals-gaming-nintendo-playstation-xbox-cyber-monday-2024)
- - [Cyber Monday 2024: last chance to pick up Apple&#39;s M4 MacBook Pro for $1,399](https://appleinsider.com/articles/24/12/02/cyber-monday-2024-last-chance-to-pick-up-apples-m4-macbook-pro-for-1399?utm_medium=rss)
- - [How to get your 2024 Apple Music Replay playlist](https://appleinsider.com/inside/apple-music/tips/how-to-get-your-2023-apple-music-replay-playlist?utm_medium=rss)
- - [The best Cyber Monday deals we’re seeing on MacBooks and other laptops](https://www.theverge.com/24305977/black-friday-best-deals-laptops-macbook-windows-gaming-cyber-monday-2024)<!-- TECH:END -->
+ - [Cyber Monday 2024: last chance to pick up Apple&#39;s M4 MacBook Pro for $1,399](https://appleinsider.com/articles/24/12/02/cyber-monday-2024-last-chance-to-pick-up-apples-m4-macbook-pro-for-1399?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

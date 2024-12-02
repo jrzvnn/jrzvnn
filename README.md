@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Anyone else have this problem?](http://9gag.com/gag/aQzomnw)
- - 😝 [So the only thing that the Brexit caused was the exit of white people?](http://9gag.com/gag/a34EyON)
- - 💣 [Technology man](http://9gag.com/gag/a1mr5QG)
- - 😝 [Another community notes burn](http://9gag.com/gag/abAV498)
- - 👉 [When the cat refuses medication](http://9gag.com/gag/aGypM27)<!-- MEMES:END -->
+ - 😝 [Man attacked by his wheelchair-bound neighbor&#39;s 4 Pitbulls](http://9gag.com/gag/abAVO4p)
+ - 😝 [*Ok Mike, everyone&#39;s looking; show them how cool your idea is &amp; everyone will copy you!*](http://9gag.com/gag/an7Qv30)
+ - 💣 [On ground footage of what a missile can look whistling past your ears](http://9gag.com/gag/aVv7ozy)
+ - 😝 [BMW driver doesn\u2019t move for a fire truck because of his ego](http://9gag.com/gag/aYQoPr7)
+ - 👉 [2021 article but still big facepalm](http://9gag.com/gag/aryMAw6)<!-- MEMES:END -->
 
 ---
 

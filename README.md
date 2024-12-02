@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [World Labs, founded by Fei-Fei Li, gives an &quot;early preview&quot; of its first project, an AI system that generates game-like, 3D scenes from a single image &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/241202/p25#a241202p25)
- - [Leaks reveal a new DJI drone with a compact folding design](https://www.theverge.com/2024/12/2/24311063/dji-flip-folding-drone-fcc-leak)
- - [Google Maps is now displaying Waze incident reports](https://www.theverge.com/2024/12/2/24311129/google-map-waze-integration-incident-reporting-rollout)
- - [The top Cyber Monday deals you can get right now](https://www.theverge.com/24309106/best-black-friday-deals-2024-tech-gadgets-cyber-monday)
- - [Apple accused of snooping on workers’ iPhones in new lawsuit](https://www.theverge.com/2024/12/2/24311060/apple-employee-surveillance-lawsuit)<!-- TECH:END -->
+ - [The best Cyber Monday deals we’re seeing on MacBooks and other laptops](https://www.theverge.com/24305977/black-friday-best-deals-laptops-macbook-windows-gaming-cyber-monday-2024)
+ - [84 Blazing Hot Cyber Monday Deals From Best Buy, Amazon, Walmart and More](https://www.cnet.com/deals/best-cyber-monday-deals-live-2024-12-02/#ftag=CAD590a51e)
+ - [The Smart Thermometer I Drove 1,100 Miles Across Country for Thanksgiving Is on Sale Now](https://www.cnet.com/deals/the-smart-thermometer-i-drove-1100-miles-across-country-for-thanksgiving-is-on-sale-now/#ftag=CAD590a51e)
+ - [Looking for the Lowest Price? Let These Browser Extensions and Apps Do the Work for You](https://www.cnet.com/tech/services-and-software/looking-for-the-lowest-price-let-these-browser-extensions-and-apps-do-the-work-for-you/#ftag=CAD590a51e)
+ - [Here are the best Cyber Monday deals for under $30](https://www.theverge.com/24306407/black-friday-2024-best-deals-under-30-tech-gift-ideas-cyber-monday)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

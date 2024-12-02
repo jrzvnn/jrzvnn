@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Intel says CEO Pat Gelsinger has retired, effective December 1, and stepped down from its board; David Zinsner and Michelle Johnston Holthaus are now co-CEOs &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/241202/p21#a241202p21)
  - [Stellantis CEO Carlos Tavares resigns from struggling carmaker](https://www.theverge.com/2024/12/2/24310921/stellantis-ceo-carlos-tavares-resigns-effective-immediately)
  - [Best Kindle Cyber Monday Deals and Amazon Device Sales &lpar;2024&rpar;](https://www.wired.com/story/cyber-monday-amazon-devices-deals-2024/)
  - [383 Absolute Best Cyber Monday Deals &lpar;2024&rpar;](https://www.wired.com/story/absolute-best-cyber-monday-deals-2024/)
- - [New York-based Upwind, which sells tools to secure cloud infrastructure, raised a $100M Series A led by Craft Venture at a $900M post-money valuation &lpar;Ingrid Lunden/TechCrunch&rpar;](http://www.techmeme.com/241202/p20#a241202p20)
- - [The top Cyber Monday deals you can get right now](https://www.theverge.com/24309106/best-black-friday-deals-2024-tech-gadgets-cyber-monday)<!-- TECH:END -->
+ - [New York-based Upwind, which sells tools to secure cloud infrastructure, raised a $100M Series A led by Craft Venture at a $900M post-money valuation &lpar;Ingrid Lunden/TechCrunch&rpar;](http://www.techmeme.com/241202/p20#a241202p20)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

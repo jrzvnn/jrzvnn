@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The best robot vacuums](https://www.theverge.com/22997597/best-robot-vacuum-cleaner)
- - [The best budget robot vacuums](https://www.theverge.com/23846479/best-budget-robot-vacuum-robot-mop)
- - [45 Best Cyber Monday Gaming Deals &lpar;2024&rpar;, Consoles and Games](https://www.wired.com/story/cyber-monday-gaming-deals-2024/)
- - [The best Cyber Monday smartwatch and fitness tracker deals](https://www.theverge.com/good-deals/24306393/black-friday-2024-best-deals-smartwatch-fitness-tracker-wearables-cyber-monday)
- - [The top Cyber Monday deals you can get right now](https://www.theverge.com/24309106/best-black-friday-deals-2024-tech-gadgets-cyber-monday)<!-- TECH:END -->
+ - [The Best Cyber Monday Air Fryer and Kitchen Deals &lpar;2024&rpar;](https://www.wired.com/story/cyber-monday-kitchen-deals-2024/)
+ - [Tesla is launching an Apple Watch app](https://www.theverge.com/2024/12/2/24310957/tesla-holiday-update-2024-apple-watch-app-remote-sentry-clips)
+ - [Cyber Monday Deals Tracked Live From Cyberspace 2024](https://www.wired.com/live/cyber-monday-deals-2024/)
+ - [The Best Cyber Monday Mattress Deals](https://www.wired.com/story/best-cyber-monday-mattress-deals-2024/)
+ - [The best robot vacuums](https://www.theverge.com/22997597/best-robot-vacuum-cleaner)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

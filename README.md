@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Best Deals From the REI Cyber Week Sale &lpar;2024&rpar;](https://www.wired.com/story/best-rei-cyber-week-outdoor-deals-2024/)
  - [Japanese crypto exchange DMM Bitcoin is shutting down and plans to transfer accounts and assets to crypto firm SBI VC Trade by March, after a $300M+ hack in May &lpar;Jonathan Greig/The Record&rpar;](http://www.techmeme.com/241202/p31#a241202p31)
  - [GOG’s preservation program lets you keep playing games after they’re delisted](https://www.theverge.com/2024/12/2/24311537/gog-preservation-program-warcraft-1-2-delisted-support-continues)
  - [Lenovo Legion Go S leak shows renders of the cheaper handheld gaming PC](https://www.theverge.com/2024/12/2/24311437/lenovo-legion-go-s-leak-pc-gaming-handheld)
- - [GM sells stake in EV battery plant to partner LG Energy Solutions](https://www.theverge.com/2024/12/2/24311546/gm-sells-stake-ev-battery-factory-lg-lansing)
- - [54 Best Cyber Monday Tech Deals &lpar;2024&rpar;](https://www.wired.com/story/cyber-monday-tech-deals-2024/)<!-- TECH:END -->
+ - [GM sells stake in EV battery plant to partner LG Energy Solutions](https://www.theverge.com/2024/12/2/24311546/gm-sells-stake-ev-battery-factory-lg-lansing)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

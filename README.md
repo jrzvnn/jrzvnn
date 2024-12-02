@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Death. Taxes. Never challenge a Pinoy in a Karaoke Battle.](http://9gag.com/gag/aQzozK2)
- - 😝 [POV you are winning in life](http://9gag.com/gag/amoPonj)
- - 💣 [Grand poobah](http://9gag.com/gag/aNDp9g0)
+ - 😝 [Japanese Gibbon performing Chikan](http://9gag.com/gag/a87E7A6)
+ - 😝 [Lee was the only True ninja in the series, remaining all are people with super powers, magic and shit, Lee deserved much better than what they did to him.](http://9gag.com/gag/aryMy8p)
+ - 💣 [POV you are winning in life](http://9gag.com/gag/amoPonj)
  - 😝 [Bring it in europe](http://9gag.com/gag/aYQoEjq)
- - 👉 [Just a typical night out in France.](http://9gag.com/gag/a9yEzo6)<!-- MEMES:END -->
+ - 👉 [Pass on your genes and die. 95% of 9gaggers will only accomplish the latter.](http://9gag.com/gag/agmB7qv)<!-- MEMES:END -->
 
 ---
 

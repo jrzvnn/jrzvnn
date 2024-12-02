@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Animal Crossing’s paid mobile app launches a day early](https://www.theverge.com/2024/12/2/24310972/animal-crossing-pocket-camp-complete-paid-launch-iphone-android)
- - [Intel says CEO Pat Gelsinger has retired, effective December 1, and stepped down from its board; David Zinsner and Michelle Johnston Holthaus are now co-CEOs &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/241202/p21#a241202p21)
- - [Stellantis CEO Carlos Tavares resigns from struggling carmaker](https://www.theverge.com/2024/12/2/24310921/stellantis-ceo-carlos-tavares-resigns-effective-immediately)
- - [Best Kindle Cyber Monday Deals and Amazon Device Sales &lpar;2024&rpar;](https://www.wired.com/story/cyber-monday-amazon-devices-deals-2024/)
- - [383 Absolute Best Cyber Monday Deals &lpar;2024&rpar;](https://www.wired.com/story/absolute-best-cyber-monday-deals-2024/)<!-- TECH:END -->
+ - [Toronto-based AI chip designer Tenstorrent raised a $700M Series D from Jeff Bezos, Samsung, and more at a $2.6B valuation and reports nearly $150M in contracts &lpar;Bloomberg&rpar;](http://www.techmeme.com/241202/p22#a241202p22)
+ - [22 Best Cyber Monday Toy Deals &lpar;2024&rpar;: Lego, Bikes, Board Games](https://www.wired.com/story/cyber-monday-2024-toy-deals/)
+ - [iPhone 17 Pro will keep titanium insists leaker](https://appleinsider.com/articles/24/12/02/iphone-17-pro-will-keep-titanium-insists-leaker?utm_medium=rss)
+ - [Cyber Monday Deals Tracked Live From Cyberspace 2024](https://www.wired.com/live/cyber-monday-deals-2024/)
+ - [Intel’s CEO is out after only three years](https://www.theverge.com/2024/12/2/24310983/intel-ceo-pat-gelsinger-retired)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

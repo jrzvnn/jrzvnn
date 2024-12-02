@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [2021 article but still big facepalm](http://9gag.com/gag/aryMAw6)
- - 😝 [That sweet sound of crying little shit](http://9gag.com/gag/aLnpeb6)
- - 💣 [Ps5 exhaust melted the wall paint. Kept behind tv.](http://9gag.com/gag/aGypnY5)
- - 😝 [Thank you Oscar!](http://9gag.com/gag/axyMbNn)
- - 👉 [Waifu barber](http://9gag.com/gag/amoP10v)<!-- MEMES:END -->
+ - 😝 [Off you go.](http://9gag.com/gag/ajPmOp1)
+ - 😝 [Based](http://9gag.com/gag/abAV4wX)
+ - 💣 [Herman the German](http://9gag.com/gag/aVv7E5v)
+ - 😝 [Pass on your genes and die. 95% of 9gaggers will only accomplish the latter.](http://9gag.com/gag/agmB7qv)
+ - 👉 [Technology man](http://9gag.com/gag/a1mr5QG)<!-- MEMES:END -->
 
 ---
 

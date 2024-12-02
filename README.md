@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The top Cyber Monday deals you can get right now](https://www.theverge.com/24309106/best-black-friday-deals-2024-tech-gadgets-cyber-monday)
- - [This $89 Wi-Fi router is designed to let you run whatever firmware you want](https://www.theverge.com/2024/12/2/24310967/openwrt-one-wi-fi-router-available-price-software-freedom-conservancy)
- - [The best Cyber Monday headphone and earbud deals you can get](https://www.theverge.com/24307533/black-friday-best-deals-headphones-wireless-earbuds-airpods-2024-cyber-monday)
- - [Best Cyber Monday Deals on LED Face Masks &lpar;2024&rpar;](https://www.wired.com/story/led-masks-cyber-monday-2024/)
- - [The Best Cyber Monday Air Fryer and Kitchen Deals &lpar;2024&rpar;](https://www.wired.com/story/cyber-monday-kitchen-deals-2024/)<!-- TECH:END -->
+ - [The Verge’s guide to Cyber Monday 2024](https://www.theverge.com/24288220/black-friday-best-deals-guide-cyber-monday-tech-gadgets-2024)
+ - [Best Cyber Monday Deals for Beauty and Hair Tools &lpar;2024&rpar; | WIRED](https://www.wired.com/story/the-best-cyber-monday-beauty-and-hair-tool-deals/)
+ - [Cyber Monday Apple Deals: The Best Deals and Discounts Across AirPods, iPads, MacBooks and More](https://www.cnet.com/deals/best-cyber-monday-apple-deals-2024-12-02/#ftag=CAD590a51e)
+ - [This New Smart Thermostat Helps Me Sleep Better and It&#39;s $50 Off for Cyber Monday](https://www.cnet.com/deals/this-new-smart-thermostat-helps-me-sleep-better-and-its-50-off-for-cyber-monday/#ftag=CAD590a51e)
+ - [85 Amazing Cyber Monday Deals on TVs, Laptops, Vacuums and More](https://www.cnet.com/deals/best-cyber-monday-deals-live-2024-12-02/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

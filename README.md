@@ -166,10 +166,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [One guy to pay for lunch, and a second guy to pay for dinner and a ride.](http://9gag.com/gag/aXPoMz2)
- - 😝 [Recite the alphabet](http://9gag.com/gag/aXPoPrz)
- - 💣 [Harry potter and the chamber of tax evasion](http://9gag.com/gag/a4PEnGp)
- - 😝 [Waifu barber](http://9gag.com/gag/amoP10v)
+ - 😝 [Wingman](http://9gag.com/gag/aW4j7d3)
+ - 😝 [Harry potter and the chamber of tax evasion](http://9gag.com/gag/a4PEnGp)
+ - 💣 [Bring it in europe](http://9gag.com/gag/aYQoEjq)
+ - 😝 [Might have bought migraine tablets](http://9gag.com/gag/aKG6GZj)
  - 👉 [Ps5 exhaust melted the wall paint. Kept behind tv.](http://9gag.com/gag/aGypnY5)<!-- MEMES:END -->
 
 ---

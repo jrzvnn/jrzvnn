@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The Best All-Clad Cyber Monday Deals](https://www.wired.com/story/cyber-monday-2024-all-clad-deals/)
+ - [Google’s abandoned Pixel Tablet 2 had a better display and 5G upgrades](https://www.theverge.com/2024/12/2/24311118/google-canceled-pixel-tablet-2-better-display-5g-tensor-g4)
+ - [The very best Sonos speaker is on sale for Cyber Monday — and that’s rare](https://www.theverge.com/2024/12/2/24311156/sonos-five-cyber-monday-rare-discount)
  - [Cyber Monday streaming deals slash Disney Plus, Max, Hulu, Paramount Plus to as low as $0.99/mo](https://appleinsider.com/articles/24/11/27/black-friday-streaming-deals-slash-disney-plus-max-hulu-paramount-plus-to-as-low-099mo?utm_medium=rss)
- - [HomePass 2 launches, more new Matter devices, &amp; our new go-to travel charger on HomeKit Insider](https://appleinsider.com/articles/24/12/02/homepass-2-launches-more-new-matter-devices-our-new-go-to-travel-charger-on-homekit-insider?utm_medium=rss)
- - [Best Therabody Cyber Monday Deals &lpar;2024&rpar;: LED Masks, Massage](https://www.wired.com/story/the-therabody-deals-you-cant-miss-this-cyber-monday/)
- - [Cyber Monday Deals Tracked Live From Cyberspace 2024](https://www.wired.com/live/cyber-monday-deals-2024/)
- - [Amazon&#39;s best Cyber Monday Apple deals are live with prices from $11 [updated]](https://appleinsider.com/articles/24/11/30/amazons-best-cyber-monday-apple-deals-are-live-with-prices-from-11?utm_medium=rss)<!-- TECH:END -->
+ - [HomePass 2 launches, more new Matter devices, &amp; our new go-to travel charger on HomeKit Insider](https://appleinsider.com/articles/24/12/02/homepass-2-launches-more-new-matter-devices-our-new-go-to-travel-charger-on-homekit-insider?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

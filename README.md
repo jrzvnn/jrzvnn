@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Amsterdam-based Nebius, which rebranded from Russian internet giant Yandex and offers cloud AI tools, raised $700M from Nvidia, Accel, and others &lpar;Mark Bergen/Bloomberg&rpar;](http://www.techmeme.com/241202/p18#a241202p18)
- - [25 Best Cyber Monday Coffee and Espresso Deals &lpar;2024&rpar;](https://www.wired.com/story/cyber-monday-coffee-deals/)
- - [62 Best Cyber Monday Deals Under $50 &lpar;2024&rpar;](https://www.wired.com/story/cyber-monday-2024-deals-under-50/)
- - [Malicious Ads in Search Results Are Driving New Generations of Scams](https://www.wired.com/story/malicious-ads-in-search-results-are-driving-new-generations-of-scams/)
- - [OpenAI CFO Sarah Friar says the startup is weighing up an ads model, but plans to be &quot;thoughtful&quot;; sources say OpenAI has hired ad talent from Meta and Google &lpar;Financial Times&rpar;](http://www.techmeme.com/241202/p17#a241202p17)<!-- TECH:END -->
+ - [36 Best Walmart Cyber Monday Deals &lpar;2024&rpar;](https://www.wired.com/story/cyber-monday-walmart-deals-november-2024/)
+ - [Cyber Monday Deals Tracked Live From Cyberspace 2024](https://www.wired.com/live/cyber-monday-deals-2024/)
+ - [If You’re Going to Make Something, Here’s How to Make It Robust](https://www.wired.com/story/christopher-tidy-robust-repairability-south-africa/)
+ - [The Apple AirPods Pro Are &lpar;Still&rpar; the Cheapest We&#39;ve Ever Seen](https://www.wired.com/story/cyber-monday-2024-apple-airpods-pro-deal/)
+ - [Jaguar’s Controversial EV Relaunch Has Leaked Online](https://www.wired.com/story/jaguars-controversial-ev-relaunch-has-leaked-online/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

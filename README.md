@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Hands on: Baseus Qi2, 45W PD chargers, &amp; 100W cables covers nearly every charging need](https://appleinsider.com/articles/24/12/02/hands-on-baseus-qi2-45w-pd-chargers-100w-cables-covers-nearly-every-charging-need?utm_medium=rss)
  - [The 100 best Cyber Monday deals under $100](https://www.theverge.com/24309009/black-friday-2024-best-deals-under-100-tech-gift-ideas-cyber-monday)
  - [21 Best Cyber Monday Clothing Deals on WIRED-Specific Fashion Finds](https://www.wired.com/story/the-best-cyber-monday-clothing-deals-on-wired-specific-fashion-finds/)
  - [Max, Hulu, and Paramount Plus are all heavily discounted for Cyber Monday](https://www.theverge.com/24306534/black-friday-2024-streaming-best-deals-max-hulu-peacock-paramount-plus-cyber-monday)
- - [Lowest price ever: Get 4 AirTags for $69.99](https://appleinsider.com/articles/24/12/02/lowest-price-ever-get-4-airtags-for-6999?utm_medium=rss)
- - [How generative AI may bridge current computing paradigms to future innovations, especially in wearables, which will benefit from context-aware user interfaces &lpar;Ben Thompson/Stratechery&rpar;](http://www.techmeme.com/241202/p26#a241202p26)<!-- TECH:END -->
+ - [Lowest price ever: Get 4 AirTags for $69.99](https://appleinsider.com/articles/24/12/02/lowest-price-ever-get-4-airtags-for-6999?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

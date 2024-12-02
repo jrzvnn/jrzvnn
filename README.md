@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Save up to $250 on every M4 Mac mini, plus get M2 Cyber Monday deals from $449](https://appleinsider.com/articles/24/11/15/save-up-to-250-on-every-m4-mac-mini-plus-get-m2-early-black-friday-deals-from-449?utm_medium=rss)
+ - [Save on Surfshark VPN and protect yourself online with this Cyber Monday discount](https://appleinsider.com/articles/24/12/02/save-on-surfshark-vpn-and-protect-yourself-online-with-this-cyber-monday-discount?utm_medium=rss)
+ - [We Found the 80+ Best Cyber Monday Deals to Shop on Laptops, Vacuums, TVs and More](https://www.cnet.com/deals/best-cyber-monday-deals-live-2024-12-02/#ftag=CAD590a51e)
  - [The $529 Mac mini M4 deal is back for Cyber Monday, but supply is limited](https://appleinsider.com/articles/24/12/02/the-529-mac-mini-m4-deal-is-back-for-cyber-monday-but-supply-is-limited?utm_medium=rss)
- - [Inside Helsinki&#39;s Slush 2024, a startup event described as a mix of TED Talks, Eurovision, and Shark Tank, attended by ~13K people, with LPs up 46% YoY to 350+ &lpar;Bloomberg&rpar;](http://www.techmeme.com/241202/p9#a241202p9)
- - [The UN&#39;s ITU and the International Cable Protection Committee announce a 40-member global advisory body to support the resilience of submarine telecom cables &lpar;Laura Dobberstein/The Register&rpar;](http://www.techmeme.com/241202/p8#a241202p8)
- - [Newegg Promo Code 10% off | December 2024](https://www.wired.com/story/newegg-promo-code/)
- - [Analysis: US spot bitcoin ETFs now hold more than 1M bitcoin, or about 5% of the total and about as many bitcoin frozen in the wallet of Satoshi Nakamoto &lpar;Bloomberg&rpar;](http://www.techmeme.com/241202/p7#a241202p7)<!-- TECH:END -->
+ - [Inside Helsinki&#39;s Slush 2024, a startup event described as a mix of TED Talks, Eurovision, and Shark Tank, attended by ~13K people, with LPs up 46% YoY to 350+ &lpar;Bloomberg&rpar;](http://www.techmeme.com/241202/p9#a241202p9)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

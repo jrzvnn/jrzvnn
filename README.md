@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The Verge’s guide to Cyber Monday 2024](https://www.theverge.com/24288220/black-friday-best-deals-guide-cyber-monday-tech-gadgets-2024)
- - [Best Cyber Monday Deals for Beauty and Hair Tools &lpar;2024&rpar; | WIRED](https://www.wired.com/story/the-best-cyber-monday-beauty-and-hair-tool-deals/)
- - [Cyber Monday Apple Deals: The Best Deals and Discounts Across AirPods, iPads, MacBooks and More](https://www.cnet.com/deals/best-cyber-monday-apple-deals-2024-12-02/#ftag=CAD590a51e)
- - [This New Smart Thermostat Helps Me Sleep Better and It&#39;s $50 Off for Cyber Monday](https://www.cnet.com/deals/this-new-smart-thermostat-helps-me-sleep-better-and-its-50-off-for-cyber-monday/#ftag=CAD590a51e)
- - [85 Amazing Cyber Monday Deals on TVs, Laptops, Vacuums and More](https://www.cnet.com/deals/best-cyber-monday-deals-live-2024-12-02/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [407 Absolute Best Cyber Monday Deals &lpar;2024&rpar;](https://www.wired.com/story/absolute-best-cyber-monday-deals-2024/)
+ - [Today is your last day to get Hulu for $1 a month and other streaming deals](https://www.theverge.com/2024/12/2/24310991/hulu-disney-plus-paramount-plus-peacock-max-cyber-monday-2024-streaming-deal-sale)
+ - [Sony brings back original PlayStation boot screen with PS5 anniversary update](https://www.theverge.com/2024/12/2/24311112/playstation-30th-anniversary-psx-boot-sequence-ps5-update)
+ - [Best Apple Cyber Monday deals: 50+ bargains that expire today](https://appleinsider.com/articles/24/12/02/best-apple-cyber-monday-deals-50-bargains-that-expire-today?utm_medium=rss)
+ - [Apple talks up privacy, yet spies on its own staff, says lawsuit](https://appleinsider.com/articles/24/12/02/apple-talks-up-privacy-yet-spies-on-its-own-staff-says-lawsuit?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

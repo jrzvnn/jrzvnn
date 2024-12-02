@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Ps5 exhaust melted the wall paint. Kept behind tv.](http://9gag.com/gag/aGypnY5)
- - 😝 [I&#39;m not even joking, that was his wife, and his real son made it a comedy goldmine](http://9gag.com/gag/agmBQ31)
- - 💣 [Harry potter and the chamber of tax evasion](http://9gag.com/gag/a4PEnGp)
- - 😝 [Ah bloody hell...](http://9gag.com/gag/aNDpLrv)
- - 👉 [Have a great day](http://9gag.com/gag/ae9A9xQ)<!-- MEMES:END -->
+ - 😝 [Have a great day](http://9gag.com/gag/ae9A9xQ)
+ - 😝 [Somebody in India claimed their hair oil can cure baldness, and this was the result when they opened their sale](http://9gag.com/gag/aoyMyxx)
+ - 💣 [Waifu barber](http://9gag.com/gag/amoP10v)
+ - 😝 [Bring it in europe](http://9gag.com/gag/aYQoEjq)
+ - 👉 [Oh no](http://9gag.com/gag/a34EGLr)<!-- MEMES:END -->
 
 ---
 

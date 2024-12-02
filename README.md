@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [420 Absolute Best Cyber Monday Deals Picked by Our Experts &lpar;2024&rpar; | WIRED](https://www.wired.com/story/absolute-best-cyber-monday-deals-2024/)
  - [35 Best Cyber Monday Headphone Deals &lpar;2024&rpar;](https://www.wired.com/story/cyber-monday-headphone-deals-2024/)
  - [The top Cyber Monday deals you can still get](https://www.theverge.com/24309106/best-black-friday-deals-2024-tech-gadgets-cyber-monday)
  - [As Head of the FBI, Kash Patel Could Offer January 6 Rioters Retribution Against Their Enemies](https://www.wired.com/story/kash-patel-fbi-fedsurrection-january-6-rioters/)
- - [The 16 best TV deals for Cyber Monday](https://www.theverge.com/24307741/black-friday-tv-deals-lg-samsung-sony-tcl-cyber-monday-2024)
- - [ChatGPT refuses to say some names, possibly due to digital privacy requests or a post-prompt handling fault; OpenAI may have fixed the viral &quot;David Mayer&quot; issue &lpar;Devin Coldewey/TechCrunch&rpar;](http://www.techmeme.com/241202/p30#a241202p30)<!-- TECH:END -->
+ - [The 16 best TV deals for Cyber Monday](https://www.theverge.com/24307741/black-friday-tv-deals-lg-samsung-sony-tcl-cyber-monday-2024)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

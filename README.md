@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Ireland Rejected the Far Right. The Election Conspiracy Theories Have Already Begun](https://www.wired.com/story/ireland-far-right-election-conspiracy-theories/)
+ - [Ford’s new electric Puma Gen-E looks like a mini-Mustang Mach-E](https://www.theverge.com/2024/12/3/24312042/ford-puma-gen-e-europe-ev-specs-range)
  - [Internal Google documents reveal concerns about its cloud contract with Israel](https://www.theverge.com/2024/12/3/24311951/google-project-nimbus-internal-documents)
  - [How to get The Verge’s new print magazine](https://www.theverge.com/2024/12/3/24307540/verge-print-magazine-seo-content-goblins)
- - [Here we go: The Verge now has a subscription](https://www.theverge.com/2024/12/3/24306571/verge-subscription-launch-fewer-ads-unlimited-access-full-text-rss)
- - [Apple Music’s yearly recap is finally available in the app](https://www.theverge.com/2024/12/3/24311987/apple-music-2024-recap-available-app)
- - [FTC bans location data providers Gravy and subsidiary Venntel as well as Mobilewalla from using or selling data related to sensitive locations and more &lpar;Joseph Cox/404 Media&rpar;](http://www.techmeme.com/241203/p17#a241203p17)<!-- TECH:END -->
+ - [Here we go: The Verge now has a subscription](https://www.theverge.com/2024/12/3/24306571/verge-subscription-launch-fewer-ads-unlimited-access-full-text-rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

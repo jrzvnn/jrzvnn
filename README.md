@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [KitchenAid Promo Codes: 15% Off Major Appliances](https://www.wired.com/story/exclusive-kitchenaid-promo-code/)
  - [Hulu Promo Codes and Discounts: 90% Off for Select Users](https://www.wired.com/story/hulu-promo-code/)
  - [Verizon Promo Codes | December 2024](https://www.wired.com/story/verizon-promo-code/)
  - [20% Off Brooks Promo Code &amp; Deals for December 2024](https://www.wired.com/story/brooks-promo-code/)
- - [Preqin data shows the US accounted for 83% of VC funding in G7 economies over the past decade; OECD data shows AI VC funding in China is second only to the US &lpar;Financial Times&rpar;](http://www.techmeme.com/241203/p5#a241203p5)
- - [Visible Promo Code: Save $15 a month this December](https://www.wired.com/story/visible-promo-code/)<!-- TECH:END -->
+ - [Preqin data shows the US accounted for 83% of VC funding in G7 economies over the past decade; OECD data shows AI VC funding in China is second only to the US &lpar;Financial Times&rpar;](http://www.techmeme.com/241203/p5#a241203p5)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

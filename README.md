@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [Nice in grey top.](http://9gag.com/gag/a4PEzdy)
+ - 😝 [Based](http://9gag.com/gag/abAV4wX)
+ - 💣 [Imma go there too](http://9gag.com/gag/aKG6Wvg)
  - 😝 [Can anyone translate ?](http://9gag.com/gag/aYQoDVw)
- - 😝 [Dinosaurs can be sexy too](http://9gag.com/gag/aW4jnG3)
- - 💣 [Man attacked by his wheelchair-bound neighbor&#39;s 4 Pitbulls](http://9gag.com/gag/abAVO4p)
- - 😝 [2021 article but still big facepalm](http://9gag.com/gag/aryMAw6)
- - 👉 [Normal for it to move? And the bolt moves?](http://9gag.com/gag/aKG69gj)<!-- MEMES:END -->
+ - 👉 [Thank you Oscar!](http://9gag.com/gag/axyMbNn)<!-- MEMES:END -->
 
 ---
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Dylan Field ‘Got a Real Kick’ Out of This Week’s Enron Relaunch](https://www.wired.com/story/big-interview-dylan-field-2024/)
  - [AWS announces Nova models for Bedrock, including Micro, Lite, Pro, and Premier text generating models, and Canvas and Reel models for image and video generation &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/241203/p25#a241203p25)
  - [Celsius Network founder Alex Mashinsky agreed in a US court to plead guilty to commodities fraud and a fraudulent scheme to manipulate the price of CEL &lpar;Luc Cohen/Reuters&rpar;](http://www.techmeme.com/241203/p24#a241203p24)
  - [Microsoft accuses FTC of leaking news of its antitrust investigation](https://www.theverge.com/2024/12/3/24312198/microsoft-ftc-antitrust-invesigation-leak)
- - [With Threats to Encryption Looming, Signal’s Meredith Whittaker Says ‘We’re Not Changing’](https://www.wired.com/story/big-interview-meredith-whittaker-signal-2024/)
- - [Amazon says third-party services like Zoom will soon be able to integrate Amazon Q Business into their services, and Q Developer gets a wide range of updates &lpar;Frederic Lardinois/TechCrunch&rpar;](http://www.techmeme.com/241203/p23#a241203p23)<!-- TECH:END -->
+ - [With Threats to Encryption Looming, Signal’s Meredith Whittaker Says ‘We’re Not Changing’](https://www.wired.com/story/big-interview-meredith-whittaker-signal-2024/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

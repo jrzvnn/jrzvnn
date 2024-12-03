@@ -166,10 +166,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [Based](http://9gag.com/gag/abAV4wX)
+ - 😝 [Never trust a murderous, paranoid schizophrenic](http://9gag.com/gag/a6ZE2yb)
+ - 💣 [South Korean airborne troops are breaking through the windows and entering the National Assembly](http://9gag.com/gag/aAybXed)
  - 😝 [Can anyone translate ?](http://9gag.com/gag/aYQoDVw)
- - 😝 [She must work on a dairy farm\u2026](http://9gag.com/gag/aRBXoqB)
- - 💣 [Never trust a murderous, paranoid schizophrenic](http://9gag.com/gag/a6ZE2yb)
- - 😝 [A narco was captured in Mexico](http://9gag.com/gag/agmBxDn)
  - 👉 [Awww, that&#39;s nice..wait..what?!](http://9gag.com/gag/adB8nG9)<!-- MEMES:END -->
 
 ---

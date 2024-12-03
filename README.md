@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Salesforce reports Q3 revenue up 8% YoY to $9.44B, vs. $9.35B est., net income up 25% YoY to $1.5B, and issues Q4 guidance above est.; CRM jumps 6%+ after hours &lpar;Jonathan Vanian/CNBC&rpar;](http://www.techmeme.com/241203/p28#a241203p28)
+ - [Walmart completes its $2.3B acquisition of TV maker Vizio, saying the purchase will let it offer new ways for advertisers to reach customers via Walmart Connect &lpar;Todd Spangler/Variety&rpar;](http://www.techmeme.com/241203/p27#a241203p27)
  - [Apple&#39;s Beats Solo Buds receive their first-ever firmware update](https://appleinsider.com/articles/24/12/03/apples-beats-solo-buds-receive-their-first-ever-firmware-update?utm_medium=rss)
- - [Apple considers using Amazon chips to train future Apple Intelligence models](https://appleinsider.com/articles/24/12/03/apple-considers-using-amazon-chips-to-train-future-apple-intelligence-models?utm_medium=rss)
- - [17 Best Housewarming Gifts for Any New Home](https://www.wired.com/gallery/best-housewarming-gifts-for-any-new-home/)
- - [The FBI and CISA urge US telecoms to harden their systems against attacks, as senior US officials say Salt Typhoon hackers remain present on telecoms&#39; networks &lpar;Sam Sabin/Axios&rpar;](http://www.techmeme.com/241203/p26#a241203p26)
- - [Dylan Field ‘Got a Real Kick’ Out of This Week’s Enron Relaunch](https://www.wired.com/story/big-interview-dylan-field-2024/)<!-- TECH:END -->
+ - [Breaking Gold Medalist Phil Wizard Says Raygun Doesn’t Deserve the Meme Machine’s Wrath](https://www.wired.com/story/big-interview-phil-wizard-2024/)
+ - [Apple considers using Amazon chips to train future Apple Intelligence models](https://appleinsider.com/articles/24/12/03/apple-considers-using-amazon-chips-to-train-future-apple-intelligence-models?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

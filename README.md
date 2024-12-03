@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Nick Clegg says Mark Zuckerberg is keen to play &quot;an active role&quot; in Trump admin tech policy debates and Meta &quot;overdid it a bit&quot; when moderating pandemic content &lpar;Hannah Murphy/Financial Times&rpar;](http://www.techmeme.com/241203/p13#a241203p13)
  - [Top US Consumer Watchdog Has a Plan to Fight Predatory Data Brokers](https://www.wired.com/story/cfpb-fcra-data-broker-oversight/)
  - [Meta says it’s mistakenly moderating too much](https://www.theverge.com/2024/12/3/24311513/meta-content-moderation-mistakes-nick-clegg)
  - [iPad, iPad Air, iPad Pro buyer&#39;s guide: which iPad to buy for your budget this holiday season](https://appleinsider.com/articles/24/12/03/ipad-ipad-air-ipad-pro-buyers-guide-which-ipad-to-buy-for-your-budget-this-holiday-season?utm_medium=rss)
- - [Indonesia says it expects $1 billion from Apple to lift iPhone 16 ban](https://appleinsider.com/articles/24/12/03/indonesia-says-it-expects-1-billion-from-apple-to-lift-iphone-16-ban?utm_medium=rss)
- - [RedMagic 10 Pro Hands-On: Kitted Up for Gaming, but Hit or Miss as a Phone](https://www.cnet.com/tech/mobile/redmagic-10-pro-hands-on-kitted-up-for-gaming-but-hit-or-miss-as-a-phone/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Indonesia says it expects $1 billion from Apple to lift iPhone 16 ban](https://appleinsider.com/articles/24/12/03/indonesia-says-it-expects-1-billion-from-apple-to-lift-iphone-16-ban?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

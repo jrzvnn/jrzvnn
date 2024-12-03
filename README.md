@@ -166,9 +166,9 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [No shifters allowed](http://9gag.com/gag/aQzom7W)
  - 😝 [Bad news coming](http://9gag.com/gag/azxMO5j)
- - 💣 [Books are a mirror to the soul!!!](http://9gag.com/gag/aoyMxZA)
+ - 😝 [Books are a mirror to the soul!!!](http://9gag.com/gag/aoyMxZA)
+ - 💣 [Fact](http://9gag.com/gag/aPA3Qow)
  - 😝 [Graceful](http://9gag.com/gag/avy5x8X)
  - 👉 [Snip](http://9gag.com/gag/awyMO9D)<!-- MEMES:END -->
 

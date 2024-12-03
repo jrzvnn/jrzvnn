@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Logitech Promo Code: Exclusive 10% Off in December 2024](https://www.wired.com/story/logitech-promo-code/)
- - [Peacock Promo Codes - December 2024](https://www.wired.com/story/peacock-promo-code/)
- - [Hoka Coupon Code: Free Shipping in December 2024](https://www.wired.com/story/hoka-coupon-code/)
- - [Save 80% with Nomad Coupon in December 2024](https://www.wired.com/story/nomad-discount-code/)
- - [Top Dell Coupon Code 10% off | December 2024](https://www.wired.com/story/dell-coupon-code/)<!-- TECH:END -->
+ - [Preqin data shows the US accounted for 83% of VC funding in G7 economies over the past decade; OECD data shows AI VC funding in China is second only to the US &lpar;Financial Times&rpar;](http://www.techmeme.com/241203/p5#a241203p5)
+ - [Newegg Promo Code 10% off | December 2024](https://www.wired.com/story/newegg-promo-code/)
+ - [NordVPN Coupon: 74% Off + 3 Months Free](https://www.wired.com/story/nordvpn-coupon/)
+ - [eBay Coupon Code: 10% Off in December 2024](https://www.wired.com/story/ebay-coupon-code/)
+ - [Logitech Promo Code: Exclusive 10% Off in December 2024](https://www.wired.com/story/logitech-promo-code/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

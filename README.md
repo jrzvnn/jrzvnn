@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Pat Gelsinger&#39;s departure opens the door for Intel to consider fresh deal options, like splitting factory and product-design divisions, selling Altera, and more &lpar;Bloomberg&rpar;](http://www.techmeme.com/241202/p36#a241202p36)
+ - [Apple Vision Pro global rollout continues with Taiwan on December 17](https://appleinsider.com/articles/24/12/03/apple-vision-pro-global-rollout-continues-with-taiwan-on-december-17?utm_medium=rss)
+ - [Hong Kong and Singapore-based KPay, which offers financial management tools to merchants and SMBs, raised a $55M Series A led by Apis Partners &lpar;Kate Park/TechCrunch&rpar;](http://www.techmeme.com/241202/p35#a241202p35)
  - [The best last-minute Cyber Monday deals you can still shop](https://www.theverge.com/24309106/best-black-friday-deals-2024-tech-gadgets-cyber-monday)
- - [Best Cyber Monday Phone Deals &lpar;2024&rpar;, Including Cases Too](https://www.wired.com/story/cyber-monday-phone-deals-2024/)
- - [CNET Shopping Experts Found 80+ Sizzling Cyber Monday Deals to Shop Before It&#39;s Too Late](https://www.cnet.com/deals/best-cyber-monday-deals-live-2024-12-02/#ftag=CAD590a51e)
- - [Jaguar’s bizarre rebranding continues with the Type 00 concept electric car](https://www.theverge.com/2024/12/2/24311604/jaguar-type-00-concept-ev-copy-nothing)
- - [Here are the best Cyber Monday deals that are still available for under $30](https://www.theverge.com/24306407/black-friday-2024-best-deals-under-30-tech-gift-ideas-cyber-monday)<!-- TECH:END -->
+ - [Best Cyber Monday Phone Deals &lpar;2024&rpar;, Including Cases Too](https://www.wired.com/story/cyber-monday-phone-deals-2024/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

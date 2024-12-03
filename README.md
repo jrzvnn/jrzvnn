@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Vodka maker Stoli says an August 2024 ransomware attack contributed to the bankruptcy filing of its US arm, amid its ongoing issues with the Russian government &lpar;Jonathan Greig/The Record&rpar;](http://www.techmeme.com/241203/p33#a241203p33)
  - [Mark Cuban&#39;s War on Drug Prices: &#39;How Much Fucking Money Do I Need?&#39;](https://www.wired.com/story/big-interview-mark-cuban-2024/)
  - [Walmart bought Vizio](https://www.theverge.com/2024/12/3/24312508/walmart-vizio-acquisition-complete)
  - [Sources: Microchip Technology is pausing its application for $162M in CHIPS Act grants, as it plans to close a factory in Arizona, affecting ~500 employees &lpar;Mackenzie Hawkins/Bloomberg&rpar;](http://www.techmeme.com/241203/p32#a241203p32)
- - [The 40 Best Shows on Hulu Right Now &lpar;December 2024&rpar;](https://www.wired.com/story/best-tv-shows-hulu-this-week/)
- - [Trade business software provider ServiceTitan offers an IPO share price range at $52-$57 and plans to buy back the shares of its non-convertible preferred stock &lpar;Julie Bort/TechCrunch&rpar;](http://www.techmeme.com/241203/p31#a241203p31)<!-- TECH:END -->
+ - [The 40 Best Shows on Hulu Right Now &lpar;December 2024&rpar;](https://www.wired.com/story/best-tv-shows-hulu-this-week/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

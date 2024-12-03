@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Two data brokers banned from selling  ‘sensitive’ location data by the FTC](https://www.theverge.com/2024/12/3/24312313/ftc-bans-sensitive-location-data-brokers-gravy-analytics-venntel-mobilewalla)
+ - [OpenAI hires its first chief marketing officer, Kate Rouch, who joined Coinbase in 2021 to lead global marketing and PR and previously spent 11+ years at Meta &lpar;Hayden Field/CNBC&rpar;](http://www.techmeme.com/241203/p30#a241203p30)
+ - [Zack Snyder Thinks Hollywood Needs to Get on Board With AI or Get Left Behind](https://www.wired.com/story/big-interview-zack-snyder-2024/)
  - [Apple Books celebrates 2024 with collections and Year in Review](https://appleinsider.com/articles/24/12/03/apple-books-celebrates-2024-with-collections-and-year-in-review?utm_medium=rss)
- - [Meta is seeking proposals from nuclear power developers, as it plans to add 1 to 4 gigawatts of new US nuclear generation capacity starting in the early 2030s &lpar;Timothy Gardner/Reuters&rpar;](http://www.techmeme.com/241203/p29#a241203p29)
- - [Salesforce reports Q3 revenue up 8% YoY to $9.44B, vs. $9.35B est., net income up 25% YoY to $1.5B, and issues Q4 guidance above est.; CRM jumps 6%+ after hours &lpar;Jonathan Vanian/CNBC&rpar;](http://www.techmeme.com/241203/p28#a241203p28)
- - [Walmart completes its $2.3B acquisition of TV maker Vizio, saying the purchase will let it offer new ways for advertisers to reach customers via Walmart Connect &lpar;Todd Spangler/Variety&rpar;](http://www.techmeme.com/241203/p27#a241203p27)
- - [Apple&#39;s Beats Solo Buds receive their first-ever firmware update](https://appleinsider.com/articles/24/12/03/apples-beats-solo-buds-receive-their-first-ever-firmware-update?utm_medium=rss)<!-- TECH:END -->
+ - [Meta is seeking proposals from nuclear power developers, as it plans to add 1 to 4 gigawatts of new US nuclear generation capacity starting in the early 2030s &lpar;Timothy Gardner/Reuters&rpar;](http://www.techmeme.com/241203/p29#a241203p29)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

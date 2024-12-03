@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Awww, that&#39;s nice..wait..what?!](http://9gag.com/gag/adB8nG9)
- - 😝 [Nice in grey top.](http://9gag.com/gag/a4PEzdy)
- - 💣 [Can anyone translate ?](http://9gag.com/gag/aYQoDVw)
- - 😝 [Based](http://9gag.com/gag/abAV4wX)
- - 👉 [The accuracy is on point](http://9gag.com/gag/abAVWZ9)<!-- MEMES:END -->
+ - 😝 [When the cat refuses medication](http://9gag.com/gag/aGypM27)
+ - 😝 [Another way to hurt them](http://9gag.com/gag/awyMLOQ)
+ - 💣 [Bad news coming](http://9gag.com/gag/azxMO5j)
+ - 😝 [Great Nordic Food.... With Some Jam On The Side....](http://9gag.com/gag/aVv7moP)
+ - 👉 [Sex up against the book shelf](http://9gag.com/gag/ayNMW8p)<!-- MEMES:END -->
 
 ---
 

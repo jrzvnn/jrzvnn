@@ -166,10 +166,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [USA, a woman found her stolen car with hijackers inside](http://9gag.com/gag/aNDpBWv)
  - 😝 [Bad news coming](http://9gag.com/gag/azxMO5j)
- - 💣 [Nice in grey top.](http://9gag.com/gag/a4PEzdy)
- - 😝 [Good job driver](http://9gag.com/gag/a1mrV28)
+ - 😝 [USA, a woman found her stolen car with hijackers inside](http://9gag.com/gag/aNDpBWv)
+ - 💣 [The accuracy is on point](http://9gag.com/gag/abAVWZ9)
+ - 😝 [Awww, that&#39;s nice..wait..what?!](http://9gag.com/gag/adB8nG9)
  - 👉 [The lion, the witch and the audacity of this b****!](http://9gag.com/gag/aKG6WZN)<!-- MEMES:END -->
 
 ---

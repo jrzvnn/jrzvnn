@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Give the gift of privacy and security online with Surfshark VPN&#39;s winter sale](https://appleinsider.com/articles/24/12/03/give-the-gift-of-privacy-and-security-online-with-surfshark-vpns-winter-sale?utm_medium=rss)
  - [A gadget lover’s guide to the great outdoors](https://www.theverge.com/2024/12/3/24311494/starlink-mini-vanlife-peak-design-creator-microphone-vergecast)
  - [Sources: Intel starts shortlisting a handful of CEO candidates, including former board member Lip-Bu Tan, who left in August 2024 after clashing with Gelsinger &lpar;Milana Vinn/Reuters&rpar;](http://www.techmeme.com/241203/p16#a241203p16)
  - [Best Cyber Monday Leftover Deals &lpar;2024&rpar;](https://www.wired.com/story/cyber-monday-leftover-deals-2024/)
- - [&#39;Hysterical&#39; named Apple Podcasts top new show of 2024](https://appleinsider.com/articles/24/12/03/hysterical-named-apple-podcasts-top-new-show-of-2024?utm_medium=rss)
- - [Generative AI startup Yurts, which has contracts with the US Army, Air Force, and others, raised a $40M Series B led by XYZ, taking its total raised to $58.35M &lpar;Margaux MacColl/TechCrunch&rpar;](http://www.techmeme.com/241203/p15#a241203p15)<!-- TECH:END -->
+ - [&#39;Hysterical&#39; named Apple Podcasts top new show of 2024](https://appleinsider.com/articles/24/12/03/hysterical-named-apple-podcasts-top-new-show-of-2024?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [China says it has banned shipments to the US of several &quot;dual-use&quot; minerals and metals used in chipmaking and military applications, after new US chip rules &lpar;Ryan McMorrow/Financial Times&rpar;](http://www.techmeme.com/241203/p10#a241203p10)
+ - [Apple Home support for robot vacuums has been delayed to 2025](https://www.theverge.com/2024/12/3/24311885/apple-homekit-robot-vacuums-delayed-2025)
  - [Internal docs: in early 2021, Google&#39;s lawyers, policy team, and more worried that its $1.2B Project Nimbus deal with Israel may enable human rights violations &lpar;Nico Grant/New York Times&rpar;](http://www.techmeme.com/241203/p9#a241203p9)
  - [Samsung’s DeX app is being replaced by Microsoft’s Phone Link in One UI 7](https://www.theverge.com/2024/12/3/24311882/samsung-dex-app-windows-replaced-link-to-windows-microsoft-phone-link)
- - [European defense tech startup Helsing unveils its first AI attack drone, which can fly up to 100km and re-identify and engage targets without a data connection &lpar;Sylvia Pfeifer/Financial Times&rpar;](http://www.techmeme.com/241203/p8#a241203p8)
- - [CNET Shopping Experts Found 75+ Lingering Cyber Monday Deals to Shop While You Still Can](https://www.cnet.com/deals/best-cyber-monday-deals-live-2024-12-03/#ftag=CAD590a51e)
- - [A New VR Game Puts You in the Middle of Real English Premier League Plays](https://www.wired.com/story/rezzil-english-premier-league-player-vr-game/)<!-- TECH:END -->
+ - [European defense tech startup Helsing unveils its first AI attack drone, which can fly up to 100km and re-identify and engage targets without a data connection &lpar;Sylvia Pfeifer/Financial Times&rpar;](http://www.techmeme.com/241203/p8#a241203p8)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

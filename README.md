@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Intel announces $249 Arc B580 and $219 Arc B570 ‘Battlemage’ graphics cards](https://www.theverge.com/2024/12/3/24311887/intel-battlemage-b580-b570-price-release-date)
+ - [TikTok says it removed a network covertly campaigning for Calin Georgescu, whose shock victory in the recent Romanian election threw the country into crisis &lpar;Gian Volpicelli/Bloomberg&rpar;](http://www.techmeme.com/241203/p14#a241203p14)
  - [Nick Clegg says Mark Zuckerberg is keen to play &quot;an active role&quot; in Trump admin tech policy debates and Meta &quot;overdid it a bit&quot; when moderating pandemic content &lpar;Hannah Murphy/Financial Times&rpar;](http://www.techmeme.com/241203/p13#a241203p13)
  - [Meet the Buoys Made for Hurricanes](https://www.cnet.com/science/climate/meet-the-buoys-made-for-hurricanes/#ftag=CAD590a51e)
- - [Have &#39;A Nonsense Christmas&#39;: How to Watch Sabrina Carpenter&#39;s Holiday Special](https://www.cnet.com/tech/services-and-software/have-a-nonsense-christmas-how-to-watch-sabrina-carpenters-holiday-special/#ftag=CAD590a51e)
- - [Gathering Hurricane Data From Inside the Storm video](https://www.cnet.com/videos/gathering-hurricane-data-from-inside-the-storm/#ftag=CAD590a51e)
- - [Top US Consumer Watchdog Has a Plan to Fight Predatory Data Brokers](https://www.wired.com/story/cfpb-fcra-data-broker-oversight/)<!-- TECH:END -->
+ - [Have &#39;A Nonsense Christmas&#39;: How to Watch Sabrina Carpenter&#39;s Holiday Special](https://www.cnet.com/tech/services-and-software/have-a-nonsense-christmas-how-to-watch-sabrina-carpenters-holiday-special/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

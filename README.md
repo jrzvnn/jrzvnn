@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The Flexbar resurrects the MacBook Pro’s Touch Bar as a standalone device](https://www.theverge.com/2024/12/3/24311935/flexbar-touchscreen-apple-macbook-pro-touch-bar-kickstarter)
- - [Apple wants to cram sensors for everything into Apple Vision Pro](https://appleinsider.com/articles/24/12/03/apple-wants-to-cram-sensors-for-everything-into-apple-vision-pro?utm_medium=rss)
- - [MSI’s Claw handhelds get an Intel Lunar Lake do-over with a $799 starting price](https://www.theverge.com/2024/12/3/24311944/msi-claw-7-ai-plus-8-ai-plus-lunar-lake-32gb-ram-gaming-pc-handhelds)
- - [What do you love when you fall for AI?](https://www.theverge.com/c/24300623/ai-companions-replika-openai-chatgpt-assistant-romance)
- - [This Last Minute Ember Mug 2 Cyber Monday Deal Keeps Your Drink Warm for Just $110](https://www.cnet.com/deals/this-last-minute-ember-mug-2-cyber-monday-deal-keeps-your-drink-warm-for-just-110/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Internal Google documents reveal concerns about its cloud contract with Israel](https://www.theverge.com/2024/12/3/24311951/google-project-nimbus-internal-documents)
+ - [How to get The Verge’s new print magazine](https://www.theverge.com/2024/12/3/24307540/verge-print-magazine-seo-content-goblins)
+ - [Here we go: The Verge now has a subscription](https://www.theverge.com/2024/12/3/24306571/verge-subscription-launch-fewer-ads-unlimited-access-full-text-rss)
+ - [Apple Music’s yearly recap is finally available in the app](https://www.theverge.com/2024/12/3/24311987/apple-music-2024-recap-available-app)
+ - [FTC bans location data providers Gravy and subsidiary Venntel as well as Mobilewalla from using or selling data related to sensitive locations and more &lpar;Joseph Cox/404 Media&rpar;](http://www.techmeme.com/241203/p17#a241203p17)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

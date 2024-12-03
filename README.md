@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Another way to hurt them](http://9gag.com/gag/awyMLOQ)
- - 😝 [Great Nordic Food.... With Some Jam On The Side....](http://9gag.com/gag/aVv7moP)
- - 💣 [Sex up against the book shelf](http://9gag.com/gag/ayNMW8p)
- - 😝 [Bad news coming](http://9gag.com/gag/azxMO5j)
- - 👉 [Books are a mirror to the soul!!!](http://9gag.com/gag/aoyMxZA)<!-- MEMES:END -->
+ - 😝 [Can anyone translate ?](http://9gag.com/gag/aYQoDVw)
+ - 😝 [Dinosaurs can be sexy too](http://9gag.com/gag/aW4jnG3)
+ - 💣 [Man attacked by his wheelchair-bound neighbor&#39;s 4 Pitbulls](http://9gag.com/gag/abAVO4p)
+ - 😝 [2021 article but still big facepalm](http://9gag.com/gag/aryMAw6)
+ - 👉 [Normal for it to move? And the bolt moves?](http://9gag.com/gag/aKG69gj)<!-- MEMES:END -->
 
 ---
 

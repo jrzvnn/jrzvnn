@@ -166,10 +166,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Based](http://9gag.com/gag/abAV4wX)
- - 😝 [Can anyone translate ?](http://9gag.com/gag/aYQoDVw)
- - 💣 [Nice in grey top.](http://9gag.com/gag/a4PEzdy)
  - 😝 [Man attacked by his wheelchair-bound neighbor&#39;s 4 Pitbulls](http://9gag.com/gag/abAVO4p)
+ - 😝 [Stopping time](http://9gag.com/gag/a9yE2YK)
+ - 💣 [Can anyone translate ?](http://9gag.com/gag/aYQoDVw)
+ - 😝 [Based](http://9gag.com/gag/abAV4wX)
  - 👉 [Imma go there too](http://9gag.com/gag/aKG6Wvg)<!-- MEMES:END -->
 
 ---

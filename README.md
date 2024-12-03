@@ -167,10 +167,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [A narco was captured in Mexico](http://9gag.com/gag/agmBxDn)
- - 😝 [As a 9GAG OP, this doesn\u2019t bother me at all.](http://9gag.com/gag/aYQoD7q)
- - 💣 [Google ...](http://9gag.com/gag/awyMOV1)
+ - 😝 [Dinosaurs can be sexy too](http://9gag.com/gag/aW4jnG3)
+ - 💣 [As a 9GAG OP, this doesn\u2019t bother me at all.](http://9gag.com/gag/aYQoD7q)
  - 😝 [Awww, that&#39;s nice..wait..what?!](http://9gag.com/gag/adB8nG9)
- - 👉 [The lion, the witch and the audacity of this b****!](http://9gag.com/gag/aKG6WZN)<!-- MEMES:END -->
+ - 👉 [Normal for it to move? And the bolt moves?](http://9gag.com/gag/aKG69gj)<!-- MEMES:END -->
 
 ---
 

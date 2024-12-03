@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [The double twist](http://9gag.com/gag/aKG6vMZ)
+ - 😝 [Thank you Oscar!](http://9gag.com/gag/axyMbNn)
+ - 😝 [Mr jobs why did you die](http://9gag.com/gag/a7oE9Eb)
+ - 💣 [Mischief managed](http://9gag.com/gag/awyMdwD)
  - 😝 [My fellow Anime enthusiast](http://9gag.com/gag/a34EWv3)
- - 💣 [She must work on a dairy farm\u2026](http://9gag.com/gag/aRBXoqB)
- - 😝 [What a lovely man. Some men could learn a lot from. Have the utmost respect for the mother of your child](http://9gag.com/gag/apRNbn8)
- - 👉 [Mischief managed](http://9gag.com/gag/awyMdwD)<!-- MEMES:END -->
+ - 👉 [She must work on a dairy farm\u2026](http://9gag.com/gag/aRBXoqB)<!-- MEMES:END -->
 
 ---
 

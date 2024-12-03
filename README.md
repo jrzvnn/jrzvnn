@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [When the cat refuses medication](http://9gag.com/gag/aGypM27)
- - 😝 [Another way to hurt them](http://9gag.com/gag/awyMLOQ)
- - 💣 [Bad news coming](http://9gag.com/gag/azxMO5j)
- - 😝 [Great Nordic Food.... With Some Jam On The Side....](http://9gag.com/gag/aVv7moP)
- - 👉 [Sex up against the book shelf](http://9gag.com/gag/ayNMW8p)<!-- MEMES:END -->
+ - 😝 [Based](http://9gag.com/gag/abAV4wX)
+ - 😝 [The accuracy is on point](http://9gag.com/gag/abAVWZ9)
+ - 💣 [The lion, the witch and the audacity of this b****!](http://9gag.com/gag/aKG6WZN)
+ - 😝 [Tencent do be crazy, so crazy it could work](http://9gag.com/gag/ayNM6Qp)
+ - 👉 [Nice in grey top.](http://9gag.com/gag/a4PEzdy)<!-- MEMES:END -->
 
 ---
 

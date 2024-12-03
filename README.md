@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Nice in grey top.](http://9gag.com/gag/a4PEzdy)
  - 😝 [Dinosaurs can be sexy too](http://9gag.com/gag/aW4jnG3)
- - 💣 [Man attacked by his wheelchair-bound neighbor&#39;s 4 Pitbulls](http://9gag.com/gag/abAVO4p)
- - 😝 [Can anyone translate ?](http://9gag.com/gag/aYQoDVw)
- - 👉 [Somebody please tell her](http://9gag.com/gag/a6ZEB0L)<!-- MEMES:END -->
+ - 😝 [Man attacked by his wheelchair-bound neighbor&#39;s 4 Pitbulls](http://9gag.com/gag/abAVO4p)
+ - 💣 [Stopping time](http://9gag.com/gag/a9yE2YK)
+ - 😝 [Awww, that&#39;s nice..wait..what?!](http://9gag.com/gag/adB8nG9)
+ - 👉 [2021 article but still big facepalm](http://9gag.com/gag/aryMAw6)<!-- MEMES:END -->
 
 ---
 

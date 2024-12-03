@@ -158,10 +158,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- TECH:START -->
  - [Preqin data shows the US accounted for 83% of VC funding in G7 economies over the past decade; OECD data shows AI VC funding in China is second only to the US &lpar;Financial Times&rpar;](http://www.techmeme.com/241203/p5#a241203p5)
+ - [Visible Promo Code: Save $15 a month this December](https://www.wired.com/story/visible-promo-code/)
+ - [$50 Off Target Promo Code | December 2024](https://www.wired.com/story/target-promo-code/)
  - [Newegg Promo Code 10% off | December 2024](https://www.wired.com/story/newegg-promo-code/)
- - [NordVPN Coupon: 74% Off + 3 Months Free](https://www.wired.com/story/nordvpn-coupon/)
- - [eBay Coupon Code: 10% Off in December 2024](https://www.wired.com/story/ebay-coupon-code/)
- - [Logitech Promo Code: Exclusive 10% Off in December 2024](https://www.wired.com/story/logitech-promo-code/)<!-- TECH:END -->
+ - [NordVPN Coupon: 74% Off + 3 Months Free](https://www.wired.com/story/nordvpn-coupon/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

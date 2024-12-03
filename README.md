@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The 40 Best Shows on Hulu Right Now &lpar;December 2024&rpar;](https://www.wired.com/story/best-tv-shows-hulu-this-week/)
  - [Trade business software provider ServiceTitan offers an IPO share price range at $52-$57 and plans to buy back the shares of its non-convertible preferred stock &lpar;Julie Bort/TechCrunch&rpar;](http://www.techmeme.com/241203/p31#a241203p31)
  - [You Can Save $26 on This Officially Licensed Xbox Joystick With an Extended Cyber Monday Deal](https://www.cnet.com/deals/you-can-save-26-on-this-officially-licensed-xbox-joystick-with-an-extended-cyber-monday-deal/#ftag=CAD590a51e)
  - [Two data brokers banned from selling  ‘sensitive’ location data by the FTC](https://www.theverge.com/2024/12/3/24312313/ftc-bans-sensitive-location-data-brokers-gravy-analytics-venntel-mobilewalla)
- - [Best Cyber Monday Deals 2024: There&#39;s Still 80+ Sales Still Live You Can Shop Right Now](https://www.cnet.com/deals/best-cyber-monday-deals-live-2024-12-03/#ftag=CAD590a51e)
- - [OpenAI hires its first chief marketing officer, Kate Rouch, who joined Coinbase in 2021 to lead global marketing and PR and previously spent 11+ years at Meta &lpar;Hayden Field/CNBC&rpar;](http://www.techmeme.com/241203/p30#a241203p30)<!-- TECH:END -->
+ - [Best Cyber Monday Deals 2024: There&#39;s Still 80+ Sales Still Live You Can Shop Right Now](https://www.cnet.com/deals/best-cyber-monday-deals-live-2024-12-03/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

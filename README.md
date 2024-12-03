@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Based](http://9gag.com/gag/abAV4wX)
- - 😝 [Never trust a murderous, paranoid schizophrenic](http://9gag.com/gag/a6ZE2yb)
- - 💣 [South Korean airborne troops are breaking through the windows and entering the National Assembly](http://9gag.com/gag/aAybXed)
- - 😝 [Can anyone translate ?](http://9gag.com/gag/aYQoDVw)
- - 👉 [Awww, that&#39;s nice..wait..what?!](http://9gag.com/gag/adB8nG9)<!-- MEMES:END -->
+ - 😝 [Anyone else have this problem?](http://9gag.com/gag/aQzomnw)
+ - 😝 [This is madness](http://9gag.com/gag/aO83PxM)
+ - 💣 [Fact](http://9gag.com/gag/aPA3Qow)
+ - 😝 [Looks like army has revised the requirements to enlist](http://9gag.com/gag/aNDpRdK)
+ - 👉 [Cooked](http://9gag.com/gag/aLnpXKM)<!-- MEMES:END -->
 
 ---
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [A narco was captured in Mexico](http://9gag.com/gag/agmBxDn)
- - 😝 [The accuracy is on point](http://9gag.com/gag/abAVWZ9)
- - 💣 [Nice in grey top.](http://9gag.com/gag/a4PEzdy)
- - 😝 [As a 9GAG OP, this doesn\u2019t bother me at all.](http://9gag.com/gag/aYQoD7q)
- - 👉 [Normal for it to move? And the bolt moves?](http://9gag.com/gag/aKG69gj)<!-- MEMES:END -->
+ - 😝 [Awww, that&#39;s nice..wait..what?!](http://9gag.com/gag/adB8nG9)
+ - 😝 [Nice in grey top.](http://9gag.com/gag/a4PEzdy)
+ - 💣 [Can anyone translate ?](http://9gag.com/gag/aYQoDVw)
+ - 😝 [Based](http://9gag.com/gag/abAV4wX)
+ - 👉 [The accuracy is on point](http://9gag.com/gag/abAVWZ9)<!-- MEMES:END -->
 
 ---
 

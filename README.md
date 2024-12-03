@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [A gadget lover’s guide to the great outdoors](https://www.theverge.com/2024/12/3/24311494/starlink-mini-vanlife-peak-design-creator-microphone-vergecast)
+ - [Sources: Intel starts shortlisting a handful of CEO candidates, including former board member Lip-Bu Tan, who left in August 2024 after clashing with Gelsinger &lpar;Milana Vinn/Reuters&rpar;](http://www.techmeme.com/241203/p16#a241203p16)
+ - [Best Cyber Monday Leftover Deals &lpar;2024&rpar;](https://www.wired.com/story/cyber-monday-leftover-deals-2024/)
  - [&#39;Hysterical&#39; named Apple Podcasts top new show of 2024](https://appleinsider.com/articles/24/12/03/hysterical-named-apple-podcasts-top-new-show-of-2024?utm_medium=rss)
- - [Yurts, which has contracts to develop generative AI for the US Army, Air Force, and others, raised a $40M Series B led by XYZ, taking its total raised to $58.4M &lpar;Margaux MacColl/TechCrunch&rpar;](http://www.techmeme.com/241203/p15#a241203p15)
- - [Intel announces $249 Arc B580 and $219 Arc B570 ‘Battlemage’ graphics cards](https://www.theverge.com/2024/12/3/24311887/intel-battlemage-b580-b570-price-release-date)
- - [TikTok says it removed a network covertly campaigning for Calin Georgescu, whose shock victory in Romania&#39;s November 24 election threw the country into crisis &lpar;Gian Volpicelli/Bloomberg&rpar;](http://www.techmeme.com/241203/p14#a241203p14)
- - [Nick Clegg says Mark Zuckerberg is keen to play &quot;an active role&quot; in Trump admin tech policy debates and Meta &quot;overdid it a bit&quot; when moderating pandemic content &lpar;Hannah Murphy/Financial Times&rpar;](http://www.techmeme.com/241203/p13#a241203p13)<!-- TECH:END -->
+ - [Generative AI startup Yurts, which has contracts with the US Army, Air Force, and others, raised a $40M Series B led by XYZ, taking its total raised to $58.35M &lpar;Margaux MacColl/TechCrunch&rpar;](http://www.techmeme.com/241203/p15#a241203p15)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [A narco was captured in Mexico](http://9gag.com/gag/agmBxDn)
- - 😝 [Normal for it to move? And the bolt moves?](http://9gag.com/gag/aKG69gj)
- - 💣 [Nice in grey top.](http://9gag.com/gag/a4PEzdy)
- - 😝 [Somebody please tell her](http://9gag.com/gag/a6ZEB0L)
- - 👉 [Based](http://9gag.com/gag/abAV4wX)<!-- MEMES:END -->
+ - 😝 [Based](http://9gag.com/gag/abAV4wX)
+ - 😝 [USA, a woman found her stolen car with hijackers inside](http://9gag.com/gag/aNDpBWv)
+ - 💣 [Can anyone translate ?](http://9gag.com/gag/aYQoDVw)
+ - 😝 [Thank you Oscar!](http://9gag.com/gag/axyMbNn)
+ - 👉 [2021 article but still big facepalm](http://9gag.com/gag/aryMAw6)<!-- MEMES:END -->
 
 ---
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Cameo launches CameoX, allowing creators to self-enroll and expanding beyond A-list celebrities, after piloting the app since May 2023 and adding 31K creators &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/241203/p20#a241203p20)
- - [AWS announces Project Rainier, a cluster that will contain &quot;hundreds of thousands&quot; of Trainium2 chips, slated for 2025 and to be used by Anthropic &lpar;Belle Lin/Wall Street Journal&rpar;](http://www.techmeme.com/241203/p19#a241203p19)
- - [Animal Crossing: Pocket Camp is much better without microtransactions](https://www.theverge.com/2024/12/3/24312047/animal-crossing-pocket-camp-complete-review-microtransactions)
- - [AWS announces general availability of Trainium2 chips, and EC2 Trn2 UltraServers, which feature 64 Trainium2 chips; Trainium3 is slated for 2025 &lpar;Frederic Lardinois/TechCrunch&rpar;](http://www.techmeme.com/241203/p18#a241203p18)
- - [Flash deal: Apple&#39;s 14-inch MacBook Pro with 16GB RAM on sale for $1,349](https://appleinsider.com/articles/24/12/03/flash-deal-apples-14-inch-macbook-pro-with-16gb-ram-on-sale-for-1349?utm_medium=rss)<!-- TECH:END -->
+ - [Apple issues fourth developer beta of visionOS 2.2](https://appleinsider.com/articles/24/12/03/apple-issues-fourth-developer-beta-of-visionos-22?utm_medium=rss)
+ - [AWS launches Automated Reasoning checks to combat AI hallucinations, and Model Distillation, a tool to transfer the capabilities of a large model to a small one &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/241203/p21#a241203p21)
+ - [ChatGPT’s search results for news are ‘unpredictable’ and frequently inaccurate](https://www.theverge.com/2024/12/3/24312016/chatgpt-search-results-review-inaccurate-unpredictable)
+ - [Amazon Is Building a Mega AI Supercomputer With Anthropic](https://www.wired.com/story/amazon-reinvent-anthropic-supercomputer/)
+ - [Cameo launches CameoX, allowing creators to self-enroll and expanding beyond A-list celebrities, after piloting the app since May 2023 and adding 31K creators &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/241203/p20#a241203p20)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

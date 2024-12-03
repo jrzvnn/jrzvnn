@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Bad news coming](http://9gag.com/gag/azxMO5j)
- - 😝 [Books are a mirror to the soul!!!](http://9gag.com/gag/aoyMxZA)
- - 💣 [Fact](http://9gag.com/gag/aPA3Qow)
- - 😝 [Graceful](http://9gag.com/gag/avy5x8X)
- - 👉 [Snip](http://9gag.com/gag/awyMO9D)<!-- MEMES:END -->
+ - 😝 [Can anyone translate ?](http://9gag.com/gag/aYQoDVw)
+ - 😝 [Stopping time](http://9gag.com/gag/a9yE2YK)
+ - 💣 [Awww, that&#39;s nice..wait..what?!](http://9gag.com/gag/adB8nG9)
+ - 😝 [Imma go there too](http://9gag.com/gag/aKG6Wvg)
+ - 👉 [When you&#39;ve accepted your fate](http://9gag.com/gag/aryMZd0)<!-- MEMES:END -->
 
 ---
 

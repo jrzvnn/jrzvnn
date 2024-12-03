@@ -170,7 +170,7 @@ R                        1 repo              ░░░░░░░░░░░�
  - 😝 [Great Nordic Food.... With Some Jam On The Side....](http://9gag.com/gag/aVv7moP)
  - 💣 [Sex up against the book shelf](http://9gag.com/gag/ayNMW8p)
  - 😝 [Bad news coming](http://9gag.com/gag/azxMO5j)
- - 👉 [Snip](http://9gag.com/gag/awyMO9D)<!-- MEMES:END -->
+ - 👉 [Books are a mirror to the soul!!!](http://9gag.com/gag/aoyMxZA)<!-- MEMES:END -->
 
 ---
 

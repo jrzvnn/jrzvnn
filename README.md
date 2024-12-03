@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Smell is racist](http://9gag.com/gag/aO839RE)
- - 😝 [Nice in grey top.](http://9gag.com/gag/a4PEzdy)
- - 💣 [The accuracy is on point](http://9gag.com/gag/abAVWZ9)
+ - 😝 [A narco was captured in Mexico](http://9gag.com/gag/agmBxDn)
+ - 😝 [As a 9GAG OP, this doesn\u2019t bother me at all.](http://9gag.com/gag/aYQoD7q)
+ - 💣 [Google ...](http://9gag.com/gag/awyMOV1)
  - 😝 [Awww, that&#39;s nice..wait..what?!](http://9gag.com/gag/adB8nG9)
- - 👉 [As a 9GAG OP, this doesn\u2019t bother me at all.](http://9gag.com/gag/aYQoD7q)<!-- MEMES:END -->
+ - 👉 [The lion, the witch and the audacity of this b****!](http://9gag.com/gag/aKG6WZN)<!-- MEMES:END -->
 
 ---
 

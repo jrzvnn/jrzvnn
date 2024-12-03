@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [A New VR Game Puts You in the Middle of Real English Premier League Plays](https://www.wired.com/story/rezzil-english-premier-league-player-vr-game/)
- - [Data brokers may be banned from selling your social security number](https://www.theverge.com/2024/12/3/24311498/cfpb-rule-data-brokers-social-security-number-fico-score)
- - [Indonesia&#39;s OJK: ~137M citizens owed 66T rupiah &lpar;~$4.1B&rpar; in outstanding digital lending debt in September 2024, up from 18.6M users owing 13.16T rupiah in 2019 &lpar;Ismi Damayanti/Nikkei Asia&rpar;](http://www.techmeme.com/241203/p7#a241203p7)
+ - [Samsung’s DeX app is being replaced by Microsoft’s Phone Link in One UI 7](https://www.theverge.com/2024/12/3/24311882/samsung-dex-app-windows-replaced-link-to-windows-microsoft-phone-link)
+ - [European defense tech startup Helsing unveils its first AI attack drone, which can fly up to 100km and re-identify and engage targets without a data connection &lpar;Sylvia Pfeifer/Financial Times&rpar;](http://www.techmeme.com/241203/p8#a241203p8)
  - [CNET Shopping Experts Found 75+ Lingering Cyber Monday Deals to Shop While You Still Can](https://www.cnet.com/deals/best-cyber-monday-deals-live-2024-12-03/#ftag=CAD590a51e)
- - [Early tests show Perplexity&#39;s AI shopping agent, which lets users make purchases within its app, sometimes takes hours to process purchases or runs into issues &lpar;Maxwell Zeff/TechCrunch&rpar;](http://www.techmeme.com/241203/p6#a241203p6)<!-- TECH:END -->
+ - [A New VR Game Puts You in the Middle of Real English Premier League Plays](https://www.wired.com/story/rezzil-english-premier-league-player-vr-game/)
+ - [Savings Rates Are Falling, but There&#39;s Still Time to Grab a 5% APY. Today&#39;s Savings Rates, Dec. 3, 2024](https://www.cnet.com/personal-finance/banking/savings-rates-are-falling-but-theres-still-time-to-grab-a-5-apy-todays-savings-rates-dec-3-2024/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

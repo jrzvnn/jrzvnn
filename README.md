@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Trade business software provider ServiceTitan offers an IPO share price range at $52-$57 and plans to buy back the shares of its non-convertible preferred stock &lpar;Julie Bort/TechCrunch&rpar;](http://www.techmeme.com/241203/p31#a241203p31)
  - [Two data brokers banned from selling  ‘sensitive’ location data by the FTC](https://www.theverge.com/2024/12/3/24312313/ftc-bans-sensitive-location-data-brokers-gravy-analytics-venntel-mobilewalla)
  - [OpenAI hires its first chief marketing officer, Kate Rouch, who joined Coinbase in 2021 to lead global marketing and PR and previously spent 11+ years at Meta &lpar;Hayden Field/CNBC&rpar;](http://www.techmeme.com/241203/p30#a241203p30)
  - [Zack Snyder Thinks Hollywood Needs to Get on Board With AI or Get Left Behind](https://www.wired.com/story/big-interview-zack-snyder-2024/)
- - [Apple Books celebrates 2024 with collections and Year in Review](https://appleinsider.com/articles/24/12/03/apple-books-celebrates-2024-with-collections-and-year-in-review?utm_medium=rss)
- - [Meta is seeking proposals from nuclear power developers, as it plans to add 1 to 4 gigawatts of new US nuclear generation capacity starting in the early 2030s &lpar;Timothy Gardner/Reuters&rpar;](http://www.techmeme.com/241203/p29#a241203p29)<!-- TECH:END -->
+ - [Apple Books celebrates 2024 with collections and Year in Review](https://appleinsider.com/articles/24/12/03/apple-books-celebrates-2024-with-collections-and-year-in-review?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [I am aint even mad and wont complain about it.](http://9gag.com/gag/an7QEwV)
- - 😝 [Never trust a murderous, paranoid schizophrenic](http://9gag.com/gag/a6ZE2yb)
- - 💣 [She must work on a dairy farm\u2026](http://9gag.com/gag/aRBXoqB)
- - 😝 [Awww, that&#39;s nice..wait..what?!](http://9gag.com/gag/adB8nG9)
- - 👉 [A narco was captured in Mexico](http://9gag.com/gag/agmBxDn)<!-- MEMES:END -->
+ - 😝 [Can anyone translate ?](http://9gag.com/gag/aYQoDVw)
+ - 😝 [She must work on a dairy farm\u2026](http://9gag.com/gag/aRBXoqB)
+ - 💣 [Never trust a murderous, paranoid schizophrenic](http://9gag.com/gag/a6ZE2yb)
+ - 😝 [A narco was captured in Mexico](http://9gag.com/gag/agmBxDn)
+ - 👉 [Awww, that&#39;s nice..wait..what?!](http://9gag.com/gag/adB8nG9)<!-- MEMES:END -->
 
 ---
 

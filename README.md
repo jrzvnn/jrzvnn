@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Stopping time](http://9gag.com/gag/a9yE2YK)
- - 😝 [Wow the past](http://9gag.com/gag/avy5eYW)
- - 💣 [I am aint even mad and wont complain about it.](http://9gag.com/gag/an7QEwV)
- - 😝 [Somebody please tell her](http://9gag.com/gag/a6ZEB0L)
- - 👉 [Imma go there too](http://9gag.com/gag/aKG6Wvg)<!-- MEMES:END -->
+ - 😝 [Hey guys, do you know this? South Korea has just declared martial law.](http://9gag.com/gag/ajPmKDw)
+ - 😝 [Awww, that&#39;s nice..wait..what?!](http://9gag.com/gag/adB8nG9)
+ - 💣 [Imma go there too](http://9gag.com/gag/aKG6Wvg)
+ - 😝 [Never trust a murderous, paranoid schizophrenic](http://9gag.com/gag/a6ZE2yb)
+ - 👉 [She must work on a dairy farm\u2026](http://9gag.com/gag/aRBXoqB)<!-- MEMES:END -->
 
 ---
 

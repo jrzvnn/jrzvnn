@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The NCSC says the UK faces a &quot;widening gap&quot; in its ability to fight cyber threats, and &quot;severe&quot; incidents handled by the agency tripled to 12 in the past year &lpar;John Paul Rathbone/Financial Times&rpar;](http://www.techmeme.com/241203/p1#a241203p1)
  - [The best last-minute Cyber Monday deals you can still shop](https://www.theverge.com/24309106/best-black-friday-deals-2024-tech-gadgets-cyber-monday)
  - [How to use Apple Notes for instant equation results on iOS 18](https://appleinsider.com/inside/apple-software/tips/how-to-use-apple-notes-for-instant-equation-results-on-ios-18?utm_medium=rss)
  - [425 Absolute Best Cyber Monday Deals Picked by Our Experts &lpar;2024&rpar; | WIRED](https://www.wired.com/story/absolute-best-cyber-monday-deals-2024/)
- - [Real estate broker and reality TV personality Ryan Serhant raised $45M for his app S.MPLE, which lets real estate brokers automate parts of their sales process &lpar;Leo Schwartz/Fortune&rpar;](http://www.techmeme.com/241202/p37#a241202p37)
- - [Pat Gelsinger&#39;s departure opens the door for Intel to consider fresh deal options, like splitting factory and product-design divisions, selling Altera, and more &lpar;Bloomberg&rpar;](http://www.techmeme.com/241202/p36#a241202p36)<!-- TECH:END -->
+ - [Real estate broker and reality TV personality Ryan Serhant raised $45M for his app S.MPLE, which lets real estate brokers automate parts of their sales process &lpar;Leo Schwartz/Fortune&rpar;](http://www.techmeme.com/241202/p37#a241202p37)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

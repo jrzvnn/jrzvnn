@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Internal docs: in early 2021, Google&#39;s lawyers, policy team, and more worried that its $1.2B Project Nimbus deal with Israel may enable human rights violations &lpar;Nico Grant/New York Times&rpar;](http://www.techmeme.com/241203/p9#a241203p9)
  - [Samsung’s DeX app is being replaced by Microsoft’s Phone Link in One UI 7](https://www.theverge.com/2024/12/3/24311882/samsung-dex-app-windows-replaced-link-to-windows-microsoft-phone-link)
  - [European defense tech startup Helsing unveils its first AI attack drone, which can fly up to 100km and re-identify and engage targets without a data connection &lpar;Sylvia Pfeifer/Financial Times&rpar;](http://www.techmeme.com/241203/p8#a241203p8)
  - [CNET Shopping Experts Found 75+ Lingering Cyber Monday Deals to Shop While You Still Can](https://www.cnet.com/deals/best-cyber-monday-deals-live-2024-12-03/#ftag=CAD590a51e)
- - [A New VR Game Puts You in the Middle of Real English Premier League Plays](https://www.wired.com/story/rezzil-english-premier-league-player-vr-game/)
- - [Savings Rates Are Falling, but There&#39;s Still Time to Grab a 5% APY. Today&#39;s Savings Rates, Dec. 3, 2024](https://www.cnet.com/personal-finance/banking/savings-rates-are-falling-but-theres-still-time-to-grab-a-5-apy-todays-savings-rates-dec-3-2024/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [A New VR Game Puts You in the Middle of Real English Premier League Plays](https://www.wired.com/story/rezzil-english-premier-league-player-vr-game/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

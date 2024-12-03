@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [A US law firm files an antitrust lawsuit against Microsoft with the UK&#39;s Competition Appeal Tribunal over how it charges users who buy services that rival Azure &lpar;Edith Hancock/Wall Street Journal&rpar;](http://www.techmeme.com/241203/p11#a241203p11)
  - [China says it has banned shipments to the US of several &quot;dual-use&quot; minerals and metals used in chipmaking and military applications, after new US chip rules &lpar;Ryan McMorrow/Financial Times&rpar;](http://www.techmeme.com/241203/p10#a241203p10)
  - [Apple Home support for robot vacuums has been delayed to 2025](https://www.theverge.com/2024/12/3/24311885/apple-homekit-robot-vacuums-delayed-2025)
- - [Internal docs: in early 2021, Google&#39;s lawyers, policy team, and more worried that its $1.2B Project Nimbus deal with Israel may enable human rights violations &lpar;Nico Grant/New York Times&rpar;](http://www.techmeme.com/241203/p9#a241203p9)
- - [Samsung’s DeX app is being replaced by Microsoft’s Phone Link in One UI 7](https://www.theverge.com/2024/12/3/24311882/samsung-dex-app-windows-replaced-link-to-windows-microsoft-phone-link)
- - [European defense tech startup Helsing unveils its first AI attack drone, which can fly up to 100km and re-identify and engage targets without a data connection &lpar;Sylvia Pfeifer/Financial Times&rpar;](http://www.techmeme.com/241203/p8#a241203p8)<!-- TECH:END -->
+ - [SSDI December 2024: Your Check Is on the Way](https://www.cnet.com/personal-finance/ssdi-december-2024-your-check-is-on-the-way/#ftag=CAD590a51e)
+ - [20 of the Best Gifts Under $25 for 2024](https://www.cnet.com/tech/best-gifts-under-25/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

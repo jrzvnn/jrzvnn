@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Based](http://9gag.com/gag/abAV4wX)
- - 😝 [USA, a woman found her stolen car with hijackers inside](http://9gag.com/gag/aNDpBWv)
- - 💣 [Can anyone translate ?](http://9gag.com/gag/aYQoDVw)
- - 😝 [Thank you Oscar!](http://9gag.com/gag/axyMbNn)
- - 👉 [2021 article but still big facepalm](http://9gag.com/gag/aryMAw6)<!-- MEMES:END -->
+ - 😝 [Nice in grey top.](http://9gag.com/gag/a4PEzdy)
+ - 😝 [Dinosaurs can be sexy too](http://9gag.com/gag/aW4jnG3)
+ - 💣 [Man attacked by his wheelchair-bound neighbor&#39;s 4 Pitbulls](http://9gag.com/gag/abAVO4p)
+ - 😝 [Can anyone translate ?](http://9gag.com/gag/aYQoDVw)
+ - 👉 [Somebody please tell her](http://9gag.com/gag/a6ZEB0L)<!-- MEMES:END -->
 
 ---
 

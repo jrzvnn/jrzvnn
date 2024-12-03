@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Amazon’s latest Kindles are on sale for up to $30 off for Cyber Monday](https://www.theverge.com/2024/11/22/24302590/amazon-kindle-paperwhite-2024-black-friday-deal-sale)
- - [Microchip Technology plans to close a plant in Tempe, Arizona, in the September 2025 quarter, affecting about 500 employees, and lowers its Q3 revenue forecast &lpar;Zaheer Kachwala/Reuters&rpar;](http://www.techmeme.com/241202/p33#a241202p33)
- - [6 Best Cyber Monday Deals for Sex Toys &lpar;2024&rpar; | WIRED](https://www.wired.com/story/the-7-best-cyber-monday-sex-toy-deals/)
- - [Cyber Monday deals on Verge staff favorites](https://www.theverge.com/24307425/black-friday-best-deals-tech-staff-picks-cyber-monday-2024)
- - [Threads is rolling out a search update globally over the next few weeks that will let users filter searches to a specific profile and within date ranges &lpar;Wes Davis/The Verge&rpar;](http://www.techmeme.com/241202/p32#a241202p32)<!-- TECH:END -->
+ - [Keychron K2 HE review: magnets take mechanical keyboard customization to new heights](https://appleinsider.com/articles/24/12/03/keychron-k2-he-review-magnets-take-mechanical-keyboard-customization-to-new-heights?utm_medium=rss)
+ - [Delivery Hero&#39;s food delivery app Glovo says it will move to an employment-based model for its drivers in Spain, and anticipates a &amp;euro;100M earnings hit in 2025 &lpar;Associated Press&rpar;](http://www.techmeme.com/241202/p34#a241202p34)
+ - [420 Absolute Best Cyber Monday Deals Picked by Our Experts &lpar;2024&rpar; | WIRED](https://www.wired.com/story/absolute-best-cyber-monday-deals-2024/)
+ - [CNET Shopping Experts Found 80+ Hot Cyber Monday Deals For You to Shop](https://www.cnet.com/deals/best-cyber-monday-deals-live-2024-12-02/#ftag=CAD590a51e)
+ - [Jaguar Type 00 EV: Price, Specs, Availability](https://www.wired.com/story/jaguar-finally-reveals-its-all-electric-type-00/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

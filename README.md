@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Hey guys, do you know this? South Korea has just declared martial law.](http://9gag.com/gag/ajPmKDw)
- - 😝 [Awww, that&#39;s nice..wait..what?!](http://9gag.com/gag/adB8nG9)
- - 💣 [Imma go there too](http://9gag.com/gag/aKG6Wvg)
- - 😝 [Never trust a murderous, paranoid schizophrenic](http://9gag.com/gag/a6ZE2yb)
- - 👉 [She must work on a dairy farm\u2026](http://9gag.com/gag/aRBXoqB)<!-- MEMES:END -->
+ - 😝 [Stopping time](http://9gag.com/gag/a9yE2YK)
+ - 😝 [She must work on a dairy farm\u2026](http://9gag.com/gag/aRBXoqB)
+ - 💣 [When you&#39;ve accepted your fate](http://9gag.com/gag/aryMZd0)
+ - 😝 [Imma go there too](http://9gag.com/gag/aKG6Wvg)
+ - 👉 [Never trust a murderous, paranoid schizophrenic](http://9gag.com/gag/a6ZE2yb)<!-- MEMES:END -->
 
 ---
 

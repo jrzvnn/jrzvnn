@@ -159,9 +159,9 @@ R                        1 repo              ░░░░░░░░░░░�
 <!-- TECH:START -->
  - [The best last-minute Cyber Monday deals you can still shop](https://www.theverge.com/24309106/best-black-friday-deals-2024-tech-gadgets-cyber-monday)
  - [Best Cyber Monday Phone Deals &lpar;2024&rpar;, Including Cases Too](https://www.wired.com/story/cyber-monday-phone-deals-2024/)
+ - [CNET Shopping Experts Found 80+ Sizzling Cyber Monday Deals to Shop Before It&#39;s Too Late](https://www.cnet.com/deals/best-cyber-monday-deals-live-2024-12-02/#ftag=CAD590a51e)
  - [Jaguar’s bizarre rebranding continues with the Type 00 concept electric car](https://www.theverge.com/2024/12/2/24311604/jaguar-type-00-concept-ev-copy-nothing)
- - [Here are the best Cyber Monday deals that are still available for under $30](https://www.theverge.com/24306407/black-friday-2024-best-deals-under-30-tech-gift-ideas-cyber-monday)
- - [CNET Shopping Experts Found 80+ Hot Cyber Monday Deals For You to Shop](https://www.cnet.com/deals/best-cyber-monday-deals-live-2024-12-02/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Here are the best Cyber Monday deals that are still available for under $30](https://www.theverge.com/24306407/black-friday-2024-best-deals-under-30-tech-gift-ideas-cyber-monday)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

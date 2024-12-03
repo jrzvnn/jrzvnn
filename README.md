@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Fact](http://9gag.com/gag/aPA3Qow)
- - 😝 [Anyone else have this problem?](http://9gag.com/gag/aQzomnw)
- - 💣 [Cooked](http://9gag.com/gag/aLnpXKM)
- - 😝 [I am aint even mad and wont complain about it.](http://9gag.com/gag/an7QEwV)
- - 👉 [Mischief managed](http://9gag.com/gag/awyMdwD)<!-- MEMES:END -->
+ - 😝 [She must work on a dairy farm\u2026](http://9gag.com/gag/aRBXoqB)
+ - 😝 [Imma go there too](http://9gag.com/gag/aKG6Wvg)
+ - 💣 [Awww, that&#39;s nice..wait..what?!](http://9gag.com/gag/adB8nG9)
+ - 😝 [South Korea president declares emergency martial law](http://9gag.com/gag/agmB2Nw)
+ - 👉 [Never trust a murderous, paranoid schizophrenic](http://9gag.com/gag/a6ZE2yb)<!-- MEMES:END -->
 
 ---
 

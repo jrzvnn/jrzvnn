@@ -158,10 +158,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- TECH:START -->
  - [The best last-minute Cyber Monday deals you can still shop](https://www.theverge.com/24309106/best-black-friday-deals-2024-tech-gadgets-cyber-monday)
- - [CNET Shopping Experts Found 80+ Sizzling Cyber Monday Deals to Shop Before It&#39;s Too Late](https://www.cnet.com/deals/best-cyber-monday-deals-live-2024-12-02/#ftag=CAD590a51e)
  - [How to use Apple Notes for instant equation results on iOS 18](https://appleinsider.com/inside/apple-software/tips/how-to-use-apple-notes-for-instant-equation-results-on-ios-18?utm_medium=rss)
  - [425 Absolute Best Cyber Monday Deals Picked by Our Experts &lpar;2024&rpar; | WIRED](https://www.wired.com/story/absolute-best-cyber-monday-deals-2024/)
- - [Today&#39;s NYT Mini Crossword Answers for Tuesday, Dec. 3](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-tuesday-dec-3/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Real estate broker and reality TV personality Ryan Serhant raised $45M for his app S.MPLE, which lets real estate brokers automate parts of their sales process &lpar;Leo Schwartz/Fortune&rpar;](http://www.techmeme.com/241202/p37#a241202p37)
+ - [Pat Gelsinger&#39;s departure opens the door for Intel to consider fresh deal options, like splitting factory and product-design divisions, selling Altera, and more &lpar;Bloomberg&rpar;](http://www.techmeme.com/241202/p36#a241202p36)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

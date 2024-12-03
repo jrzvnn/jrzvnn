@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Eve’s new app unlocks more smart features for Android users](https://www.theverge.com/2024/12/3/24312078/eve-android-app-launches-eve-thermo-thread-matter)
+ - [FTC Says Data Brokers Unlawfully Tracked Protesters and US Military Personnel](https://www.wired.com/story/ftc-mobilewalla-gravy-analytics-orders/)
  - [He Got Banned From X. Now He Wants to Help You Escape, Too](https://www.wired.com/story/x-delete-posts-cyd-micah-lee/)
  - [Apple says it&#39;s using Amazon&#39;s Trainium and Graviton chips to serve search services and is evaluating if Tranium2 chips can be used to pre-train its AI models &lpar;Kif Leswing/CNBC&rpar;](http://www.techmeme.com/241203/p22#a241203p22)
- - [Apple wants to cram sensors for everything into Apple Vision Pro](https://appleinsider.com/articles/24/12/03/apple-wants-to-cram-sensors-for-everything-into-apple-vision-pro?utm_medium=rss)
- - [Stellantis and Samsung to get $7.54 billion federal loan for two EV battery factories](https://www.theverge.com/2024/12/3/24312175/stellantis-samsung-doe-atvm-ev-battery-loan)
- - [Apple Watch tracks more health metrics than you realize](https://appleinsider.com/articles/24/12/03/apple-watch-tracks-more-health-metrics-than-you-realize?utm_medium=rss)<!-- TECH:END -->
+ - [Apple wants to cram sensors for everything into Apple Vision Pro](https://appleinsider.com/articles/24/12/03/apple-wants-to-cram-sensors-for-everything-into-apple-vision-pro?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [20% Off Brooks Promo Code &amp; Deals for December 2024](https://www.wired.com/story/brooks-promo-code/)
  - [Preqin data shows the US accounted for 83% of VC funding in G7 economies over the past decade; OECD data shows AI VC funding in China is second only to the US &lpar;Financial Times&rpar;](http://www.techmeme.com/241203/p5#a241203p5)
  - [Visible Promo Code: Save $15 a month this December](https://www.wired.com/story/visible-promo-code/)
  - [$50 Off Target Promo Code | December 2024](https://www.wired.com/story/target-promo-code/)
- - [Newegg Promo Code 10% off | December 2024](https://www.wired.com/story/newegg-promo-code/)
- - [NordVPN Coupon: 74% Off + 3 Months Free](https://www.wired.com/story/nordvpn-coupon/)<!-- TECH:END -->
+ - [Newegg Promo Code 10% off | December 2024](https://www.wired.com/story/newegg-promo-code/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

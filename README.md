@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Cyber Monday Laptop Deals: Save Up to $900 on Microsoft, Dell and Apple in These Final Hours](https://www.cnet.com/deals/best-cyber-monday-laptop-deals-2024-12-03/#ftag=CAD590a51e)
- - [Best Cyber Monday Deals 2024: There&#39;s Still 80+ Sales Still Live You Can Shop Right Now](https://www.cnet.com/deals/best-cyber-monday-deals-live-2024-12-03/#ftag=CAD590a51e)
+ - [Walmart bought Vizio](https://www.theverge.com/2024/12/3/24312508/walmart-vizio-acquisition-complete)
  - [Sources: Microchip Technology is pausing its application for $162M in CHIPS Act grants, as it plans to close a factory in Arizona, affecting ~500 employees &lpar;Mackenzie Hawkins/Bloomberg&rpar;](http://www.techmeme.com/241203/p32#a241203p32)
- - [Best Amazon Cyber Monday Deals Still Available on Apple, Dyson and More](https://www.cnet.com/deals/best-cyber-monday-amazon-deals-2024-12-03/#ftag=CAD590a51e)
- - [Deepfakes and AI Weren&#39;t a Big Part of Election Disinformation, Meta Says](https://www.cnet.com/news/social-media/deepfakes-and-ai-werent-a-big-part-of-election-disinformation-meta-says/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [The 40 Best Shows on Hulu Right Now &lpar;December 2024&rpar;](https://www.wired.com/story/best-tv-shows-hulu-this-week/)
+ - [Trade business software provider ServiceTitan offers an IPO share price range at $52-$57 and plans to buy back the shares of its non-convertible preferred stock &lpar;Julie Bort/TechCrunch&rpar;](http://www.techmeme.com/241203/p31#a241203p31)
+ - [You Can Save $26 on This Officially Licensed Xbox Joystick With an Extended Cyber Monday Deal](https://www.cnet.com/deals/you-can-save-26-on-this-officially-licensed-xbox-joystick-with-an-extended-cyber-monday-deal/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

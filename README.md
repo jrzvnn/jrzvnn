@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Apple says it&#39;s using Amazon&#39;s Trainium and Graviton chips to serve search services and is evaluating if Tranium2 chips can be used to pre-train its AI models &lpar;Kif Leswing/CNBC&rpar;](http://www.techmeme.com/241203/p22#a241203p22)
  - [Apple wants to cram sensors for everything into Apple Vision Pro](https://appleinsider.com/articles/24/12/03/apple-wants-to-cram-sensors-for-everything-into-apple-vision-pro?utm_medium=rss)
  - [Stellantis and Samsung to get $7.54 billion federal loan for two EV battery factories](https://www.theverge.com/2024/12/3/24312175/stellantis-samsung-doe-atvm-ev-battery-loan)
  - [Apple Watch tracks more health metrics than you realize](https://appleinsider.com/articles/24/12/03/apple-watch-tracks-more-health-metrics-than-you-realize?utm_medium=rss)
- - [Apple issues fourth developer beta of visionOS 2.2](https://appleinsider.com/articles/24/12/03/apple-issues-fourth-developer-beta-of-visionos-22?utm_medium=rss)
- - [AWS launches Automated Reasoning checks to combat AI hallucinations, and Model Distillation, a tool to transfer the capabilities of a large model to a small one &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/241203/p21#a241203p21)<!-- TECH:END -->
+ - [Apple issues fourth developer beta of visionOS 2.2](https://appleinsider.com/articles/24/12/03/apple-issues-fourth-developer-beta-of-visionos-22?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

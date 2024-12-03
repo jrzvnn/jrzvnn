@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [AWS announces general availability of Trainium2 chips, and EC2 Trn2 UltraServers, which feature 64 Trainium2 chips; Trainium3 is slated for 2025 &lpar;Frederic Lardinois/TechCrunch&rpar;](http://www.techmeme.com/241203/p18#a241203p18)
+ - [Flash deal: Apple&#39;s 14-inch MacBook Pro with 16GB RAM on sale for $1,349](https://appleinsider.com/articles/24/12/03/flash-deal-apples-14-inch-macbook-pro-with-16gb-ram-on-sale-for-1349?utm_medium=rss)
  - [Ireland Rejected the Far Right. The Election Conspiracy Theories Have Already Begun](https://www.wired.com/story/ireland-far-right-election-conspiracy-theories/)
  - [Ford’s new electric Puma Gen-E looks like a mini-Mustang Mach-E](https://www.theverge.com/2024/12/3/24312042/ford-puma-gen-e-europe-ev-specs-range)
- - [Internal Google documents reveal concerns about its cloud contract with Israel](https://www.theverge.com/2024/12/3/24311951/google-project-nimbus-internal-documents)
- - [How to get The Verge’s new print magazine](https://www.theverge.com/2024/12/3/24307540/verge-print-magazine-seo-content-goblins)
- - [Here we go: The Verge now has a subscription](https://www.theverge.com/2024/12/3/24306571/verge-subscription-launch-fewer-ads-unlimited-access-full-text-rss)<!-- TECH:END -->
+ - [RedMagic 10 Pro Hands-On: Powered Up for Gaming, but a Frustrating Phone](https://www.cnet.com/tech/mobile/redmagic-10-pro-hands-on-powered-up-for-gaming-but-a-frustrating-phone/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

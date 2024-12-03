@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Today is your last chance to shop Cyber Monday deals](https://www.theverge.com/24311578/best-cyber-monday-deals-2024-tech-gadgets-gift-ideas)
- - [China limits US export of chipmaking materials following sanctions](https://www.theverge.com/2024/12/3/24311929/china-us-export-chipmaking-components-sanctions)
- - [Give the gift of privacy and security online with Surfshark VPN&#39;s winter sale](https://appleinsider.com/articles/24/12/03/give-the-gift-of-privacy-and-security-online-with-surfshark-vpns-winter-sale?utm_medium=rss)
- - [A gadget lover’s guide to the great outdoors](https://www.theverge.com/2024/12/3/24311494/starlink-mini-vanlife-peak-design-creator-microphone-vergecast)
- - [Sources: Intel starts shortlisting a handful of CEO candidates, including former board member Lip-Bu Tan, who left in August 2024 after clashing with Gelsinger &lpar;Milana Vinn/Reuters&rpar;](http://www.techmeme.com/241203/p16#a241203p16)<!-- TECH:END -->
+ - [MSI’s Claw handhelds get an Intel Lunar Lake do-over with a $799 starting price](https://www.theverge.com/2024/12/3/24311944/msi-claw-7-ai-plus-8-ai-plus-lunar-lake-32gb-ram-gaming-pc-handhelds)
+ - [What do you love when you fall for AI?](https://www.theverge.com/c/24300623/ai-companions-replika-openai-chatgpt-assistant-romance)
+ - [This Last Minute Ember Mug 2 Cyber Monday Deal Keeps Your Drink Warm for Just $110](https://www.cnet.com/deals/this-last-minute-ember-mug-2-cyber-monday-deal-keeps-your-drink-warm-for-just-110/#ftag=CAD590a51e)
+ - [Last-Minute Cyber Monday Deal Slashes $200 off Bose Smart Soundbar 550 With Dolby Atmos](https://www.cnet.com/deals/last-minute-cyber-monday-deal-slashes-200-off-bose-smart-soundbar-550-with-dolby-atmos/#ftag=CAD590a51e)
+ - [Today is your last chance to shop Cyber Monday deals](https://www.theverge.com/24311578/best-cyber-monday-deals-2024-tech-gadgets-gift-ideas)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

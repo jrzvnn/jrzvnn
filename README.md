@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Cameo launches CameoX, allowing creators to self-enroll and expanding beyond A-list celebrities, after piloting the app since May 2023 and adding 31K creators &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/241203/p20#a241203p20)
+ - [AWS announces Project Rainier, a cluster that will contain &quot;hundreds of thousands&quot; of Trainium2 chips, slated for 2025 and to be used by Anthropic &lpar;Belle Lin/Wall Street Journal&rpar;](http://www.techmeme.com/241203/p19#a241203p19)
+ - [Animal Crossing: Pocket Camp is much better without microtransactions](https://www.theverge.com/2024/12/3/24312047/animal-crossing-pocket-camp-complete-review-microtransactions)
  - [AWS announces general availability of Trainium2 chips, and EC2 Trn2 UltraServers, which feature 64 Trainium2 chips; Trainium3 is slated for 2025 &lpar;Frederic Lardinois/TechCrunch&rpar;](http://www.techmeme.com/241203/p18#a241203p18)
- - [Flash deal: Apple&#39;s 14-inch MacBook Pro with 16GB RAM on sale for $1,349](https://appleinsider.com/articles/24/12/03/flash-deal-apples-14-inch-macbook-pro-with-16gb-ram-on-sale-for-1349?utm_medium=rss)
- - [Ireland Rejected the Far Right. The Election Conspiracy Theories Have Already Begun](https://www.wired.com/story/ireland-far-right-election-conspiracy-theories/)
- - [Ford’s new electric Puma Gen-E looks like a mini-Mustang Mach-E](https://www.theverge.com/2024/12/3/24312042/ford-puma-gen-e-europe-ev-specs-range)
- - [RedMagic 10 Pro Hands-On: Powered Up for Gaming, but a Frustrating Phone](https://www.cnet.com/tech/mobile/redmagic-10-pro-hands-on-powered-up-for-gaming-but-a-frustrating-phone/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Flash deal: Apple&#39;s 14-inch MacBook Pro with 16GB RAM on sale for $1,349](https://appleinsider.com/articles/24/12/03/flash-deal-apples-14-inch-macbook-pro-with-16gb-ram-on-sale-for-1349?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

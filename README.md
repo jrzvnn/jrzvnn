@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [What happened to Intel?](https://www.theverge.com/2024/12/3/24311594/intel-under-pat-gelsinger)
+ - [Amazon announces its own set of Nova AI models](https://www.theverge.com/2024/12/3/24312260/amazon-nova-foundation-ai-models-anthropic)
  - [Eve’s new app unlocks more smart features for Android users](https://www.theverge.com/2024/12/3/24312078/eve-android-app-launches-eve-thermo-thread-matter)
  - [FTC Says Data Brokers Unlawfully Tracked Protesters and US Military Personnel](https://www.wired.com/story/ftc-mobilewalla-gravy-analytics-orders/)
- - [Save 85% on Popular Audible Audiobooks, and Score Your First Three Months for $1](https://www.cnet.com/deals/save-85-on-popular-audible-audiobooks-and-score-your-first-three-months-for-1/#ftag=CAD590a51e)
- - [He Got Banned From X. Now He Wants to Help You Escape, Too](https://www.wired.com/story/x-delete-posts-cyd-micah-lee/)
- - [Apple says it&#39;s using Amazon&#39;s Trainium and Graviton chips to serve search services and is evaluating if Tranium2 chips can be used to pre-train its AI models &lpar;Kif Leswing/CNBC&rpar;](http://www.techmeme.com/241203/p22#a241203p22)<!-- TECH:END -->
+ - [Save 85% on Popular Audible Audiobooks, and Score Your First Three Months for $1](https://www.cnet.com/deals/save-85-on-popular-audible-audiobooks-and-score-your-first-three-months-for-1/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

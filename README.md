@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Microsoft accuses FTC of leaking news of its antitrust investigation](https://www.theverge.com/2024/12/3/24312198/microsoft-ftc-antitrust-invesigation-leak)
+ - [With Threats to Encryption Looming, Signal’s Meredith Whittaker Says ‘We’re Not Changing’](https://www.wired.com/story/big-interview-meredith-whittaker-signal-2024/)
  - [Amazon says third-party services like Zoom will soon be able to integrate Amazon Q Business into their services, and Q Developer gets a wide range of updates &lpar;Frederic Lardinois/TechCrunch&rpar;](http://www.techmeme.com/241203/p23#a241203p23)
- - [The 8 Best Herbal Teas to Reduce Stress and Promote Sleep](https://www.cnet.com/health/mental/best-teas-for-sleep/#ftag=CAD590a51e)
- - [Best Cyber Monday Deals 2024: There&#39;s Still 80+ Sales Still Live](https://www.cnet.com/deals/best-cyber-monday-deals-live-2024-12-03/#ftag=CAD590a51e)
- - [Cyber Week Deal: This Outdoor Air Fryer Is Just $99 at Walmart](https://www.cnet.com/deals/this-outdoor-air-fryer-is-just-99-at-walmart/#ftag=CAD590a51e)
- - [Best Blue Light Glasses of 2024](https://www.cnet.com/health/personal-care/best-blue-light-blocking-glasses/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [What happened to Intel?](https://www.theverge.com/2024/12/3/24311594/intel-under-pat-gelsinger)
+ - [Amazon announces its own set of Nova AI models](https://www.theverge.com/2024/12/3/24312260/amazon-nova-foundation-ai-models-anthropic)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

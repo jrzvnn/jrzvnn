@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources and documents: troubled IT firm Atos is largely responsible for issues delaying the roll out of the EU&#39;s biometric Entry/Exit border system to 2025 &lpar;Bloomberg&rpar;](http://www.techmeme.com/241203/p4#a241203p4)
- - [An email and documents show Google&#39;s Project Nimbus deal with Israel isn&#39;t subject to Google&#39;s general TOS, but an &quot;adjusted&quot; TOS drafted by Google and Israel &lpar;Sam Biddle/The Intercept&rpar;](http://www.techmeme.com/241203/p3#a241203p3)
- - [Chinese government data: generative AI users in China reached 230M at the end of June 2024; Ernie Bot had an 11.5% share, ChatGPT had 7.8%, and Gemini had 3.8% &lpar;Iris Deng/South China Morning Post&rpar;](http://www.techmeme.com/241203/p2#a241203p2)
- - [The best last-minute Cyber Monday deals you can still shop](https://www.theverge.com/24309106/best-black-friday-deals-2024-tech-gadgets-cyber-monday)
- - [The NCSC says the UK faces a &quot;widening gap&quot; in its ability to fight cyber threats, and &quot;severe&quot; incidents handled by the agency tripled to 12 in the past year &lpar;John Paul Rathbone/Financial Times&rpar;](http://www.techmeme.com/241203/p1#a241203p1)<!-- TECH:END -->
+ - [Logitech Promo Code: Exclusive 10% Off in December 2024](https://www.wired.com/story/logitech-promo-code/)
+ - [Peacock Promo Codes - December 2024](https://www.wired.com/story/peacock-promo-code/)
+ - [Hoka Coupon Code: Free Shipping in December 2024](https://www.wired.com/story/hoka-coupon-code/)
+ - [Save 80% with Nomad Coupon in December 2024](https://www.wired.com/story/nomad-discount-code/)
+ - [Top Dell Coupon Code 10% off | December 2024](https://www.wired.com/story/dell-coupon-code/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

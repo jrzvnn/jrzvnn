@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Early tests show Perplexity&#39;s AI shopping agent, which lets users make purchases within its app, sometimes takes hours to process purchases or runs into issues &lpar;Maxwell Zeff/TechCrunch&rpar;](http://www.techmeme.com/241203/p6#a241203p6)
  - [KitchenAid Promo Codes: 15% Off Major Appliances](https://www.wired.com/story/exclusive-kitchenaid-promo-code/)
  - [CNET Shopping Experts Found 75+ Lingering Cyber Monday Deals to Shop While You Still Can](https://www.cnet.com/deals/best-cyber-monday-deals-live-2024-12-03/#ftag=CAD590a51e)
  - [Hulu Promo Codes and Discounts: 90% Off for Select Users](https://www.wired.com/story/hulu-promo-code/)
- - [Verizon Promo Codes | December 2024](https://www.wired.com/story/verizon-promo-code/)
- - [20% Off Brooks Promo Code &amp; Deals for December 2024](https://www.wired.com/story/brooks-promo-code/)<!-- TECH:END -->
+ - [Verizon Promo Codes | December 2024](https://www.wired.com/story/verizon-promo-code/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

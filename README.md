@@ -166,10 +166,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Can anyone translate ?](http://9gag.com/gag/aYQoDVw)
- - 😝 [Stopping time](http://9gag.com/gag/a9yE2YK)
- - 💣 [Awww, that&#39;s nice..wait..what?!](http://9gag.com/gag/adB8nG9)
- - 😝 [Imma go there too](http://9gag.com/gag/aKG6Wvg)
+ - 😝 [I am aint even mad and wont complain about it.](http://9gag.com/gag/an7QEwV)
+ - 😝 [Somebody please tell her](http://9gag.com/gag/a6ZEB0L)
+ - 💣 [Stopping time](http://9gag.com/gag/a9yE2YK)
+ - 😝 [2021 article but still big facepalm](http://9gag.com/gag/aryMAw6)
  - 👉 [When you&#39;ve accepted your fate](http://9gag.com/gag/aryMZd0)<!-- MEMES:END -->
 
 ---

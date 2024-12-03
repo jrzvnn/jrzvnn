@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Anyone else have this problem?](http://9gag.com/gag/aQzomnw)
- - 😝 [This is madness](http://9gag.com/gag/aO83PxM)
- - 💣 [Fact](http://9gag.com/gag/aPA3Qow)
- - 😝 [Looks like army has revised the requirements to enlist](http://9gag.com/gag/aNDpRdK)
- - 👉 [Cooked](http://9gag.com/gag/aLnpXKM)<!-- MEMES:END -->
+ - 😝 [Mischief managed](http://9gag.com/gag/awyMdwD)
+ - 😝 [She must work on a dairy farm\u2026](http://9gag.com/gag/aRBXoqB)
+ - 💣 [Can anyone translate ?](http://9gag.com/gag/aYQoDVw)
+ - 😝 [Based](http://9gag.com/gag/abAV4wX)
+ - 👉 [What a lovely man. Some men could learn a lot from. Have the utmost respect for the mother of your child](http://9gag.com/gag/apRNbn8)<!-- MEMES:END -->
 
 ---
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Mischief managed](http://9gag.com/gag/awyMdwD)
+ - 😝 [My fellow Anime enthusiast](http://9gag.com/gag/a34EWv3)
+ - 😝 [What a lovely man. Some men could learn a lot from. Have the utmost respect for the mother of your child](http://9gag.com/gag/apRNbn8)
+ - 💣 [Mischief managed](http://9gag.com/gag/awyMdwD)
  - 😝 [She must work on a dairy farm\u2026](http://9gag.com/gag/aRBXoqB)
- - 💣 [Can anyone translate ?](http://9gag.com/gag/aYQoDVw)
- - 😝 [Based](http://9gag.com/gag/abAV4wX)
- - 👉 [What a lovely man. Some men could learn a lot from. Have the utmost respect for the mother of your child](http://9gag.com/gag/apRNbn8)<!-- MEMES:END -->
+ - 👉 [Mr jobs why did you die](http://9gag.com/gag/a7oE9Eb)<!-- MEMES:END -->
 
 ---
 

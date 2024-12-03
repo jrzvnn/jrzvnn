@@ -161,7 +161,7 @@ R                        1 repo              ░░░░░░░░░░░�
  - [Chinese government data: generative AI users in China reached 230M at the end of June 2024; Ernie Bot had an 11.5% share, ChatGPT had 7.8%, and Gemini had 3.8% &lpar;Iris Deng/South China Morning Post&rpar;](http://www.techmeme.com/241203/p2#a241203p2)
  - [The best last-minute Cyber Monday deals you can still shop](https://www.theverge.com/24309106/best-black-friday-deals-2024-tech-gadgets-cyber-monday)
  - [The NCSC says the UK faces a &quot;widening gap&quot; in its ability to fight cyber threats, and &quot;severe&quot; incidents handled by the agency tripled to 12 in the past year &lpar;John Paul Rathbone/Financial Times&rpar;](http://www.techmeme.com/241203/p1#a241203p1)
- - [CNET Shopping Experts Found 80+ Sizzling Cyber Monday Deals to Shop Before It&#39;s Too Late](https://www.cnet.com/deals/best-cyber-monday-deals-live-2024-12-02/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [CNET Shopping Experts Found 80+ Lingering Cyber Monday Deals to Shop While You Still Can](https://www.cnet.com/deals/best-cyber-monday-deals-live-2024-12-02/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

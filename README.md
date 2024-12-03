@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Top US Consumer Watchdog Has a Plan to Fight Predatory Data Brokers](https://www.wired.com/story/cfpb-fcra-data-broker-oversight/)
+ - [Meta says it’s mistakenly moderating too much](https://www.theverge.com/2024/12/3/24311513/meta-content-moderation-mistakes-nick-clegg)
+ - [iPad, iPad Air, iPad Pro buyer&#39;s guide: which iPad to buy for your budget this holiday season](https://appleinsider.com/articles/24/12/03/ipad-ipad-air-ipad-pro-buyers-guide-which-ipad-to-buy-for-your-budget-this-holiday-season?utm_medium=rss)
  - [Indonesia says it expects $1 billion from Apple to lift iPhone 16 ban](https://appleinsider.com/articles/24/12/03/indonesia-says-it-expects-1-billion-from-apple-to-lift-iphone-16-ban?utm_medium=rss)
- - [Watch WIRED’s Big Interview Event Right Here](https://www.wired.com/story/thebiginterview-2024-conference/)
- - [23 Best Travel Tuesday Deals &lpar;2024&rpar;](https://www.wired.com/story/travel-tuesday-deals-2024/)
- - [The CFPB proposes a rule to limit data brokers&#39; ability to sell Americans&#39; personal and financial info, after the National Public Data breach earlier in 2024 &lpar;Gaby Del Valle/The Verge&rpar;](http://www.techmeme.com/241203/p12#a241203p12)
- - [A US law firm files an antitrust lawsuit against Microsoft with the UK&#39;s Competition Appeal Tribunal over how it charges users who buy services that rival Azure &lpar;Edith Hancock/Wall Street Journal&rpar;](http://www.techmeme.com/241203/p11#a241203p11)<!-- TECH:END -->
+ - [RedMagic 10 Pro Hands-On: Kitted Up for Gaming, but Hit or Miss as a Phone](https://www.cnet.com/tech/mobile/redmagic-10-pro-hands-on-kitted-up-for-gaming-but-hit-or-miss-as-a-phone/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

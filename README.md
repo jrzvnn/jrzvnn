@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Mr jobs why did you die](http://9gag.com/gag/a7oE9Eb)
+ - 😝 [I am aint even mad and wont complain about it.](http://9gag.com/gag/an7QEwV)
  - 😝 [When you&#39;ve accepted your fate](http://9gag.com/gag/aryMZd0)
- - 💣 [Imma go there too](http://9gag.com/gag/aKG6Wvg)
- - 😝 [Hey guys, do you know this? South Korea has just declared martial law.](http://9gag.com/gag/ajPmKDw)
- - 👉 [Can anyone translate ?](http://9gag.com/gag/aYQoDVw)<!-- MEMES:END -->
+ - 💣 [My fellow Anime enthusiast](http://9gag.com/gag/a34EWv3)
+ - 😝 [Can anyone translate ?](http://9gag.com/gag/aYQoDVw)
+ - 👉 [She must work on a dairy farm\u2026](http://9gag.com/gag/aRBXoqB)<!-- MEMES:END -->
 
 ---
 

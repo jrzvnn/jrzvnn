@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [How to use Apple Notes for instant equation results on iOS 18](https://appleinsider.com/inside/apple-software/tips/how-to-use-apple-notes-for-instant-equation-results-on-ios-18?utm_medium=rss)
  - [Real estate broker and reality TV personality Ryan Serhant raised $45M for his app S.MPLE, which lets real estate brokers automate parts of their sales process &lpar;Leo Schwartz/Fortune&rpar;](http://www.techmeme.com/241202/p37#a241202p37)
  - [Pat Gelsinger&#39;s departure opens the door for Intel to consider fresh deal options, like splitting factory and product-design divisions, selling Altera, and more &lpar;Bloomberg&rpar;](http://www.techmeme.com/241202/p36#a241202p36)
  - [Apple Vision Pro global rollout continues with Taiwan on December 17](https://appleinsider.com/articles/24/12/03/apple-vision-pro-global-rollout-continues-with-taiwan-on-december-17?utm_medium=rss)
- - [Hong Kong and Singapore-based KPay, which offers financial management tools to merchants and SMBs, raised a $55M Series A led by Apis Partners &lpar;Kate Park/TechCrunch&rpar;](http://www.techmeme.com/241202/p35#a241202p35)
- - [The best last-minute Cyber Monday deals you can still shop](https://www.theverge.com/24309106/best-black-friday-deals-2024-tech-gadgets-cyber-monday)<!-- TECH:END -->
+ - [Hong Kong and Singapore-based KPay, which offers financial management tools to merchants and SMBs, raised a $55M Series A led by Apis Partners &lpar;Kate Park/TechCrunch&rpar;](http://www.techmeme.com/241202/p35#a241202p35)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

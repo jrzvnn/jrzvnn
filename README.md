@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [It&#39;s 2003, and these two students didn&#39;t realize they just made a massive hit song.](http://9gag.com/gag/aBy2O4Q)
- - 😝 [My fellow Anime enthusiast](http://9gag.com/gag/a34EWv3)
- - 💣 [9gaggers....](http://9gag.com/gag/a34E2XQ)
+ - 😝 [Rumor has it she\u2019s still trying to pronounce it](http://9gag.com/gag/ae9A7Yv)
+ - 😝 [She must work on a dairy farm\u2026](http://9gag.com/gag/aRBXoqB)
+ - 💣 [My fellow Anime enthusiast](http://9gag.com/gag/a34EWv3)
  - 😝 [Blasting some duckin&#39; sick beats! \ud83e\udd86\ud83d\udca5](http://9gag.com/gag/aYQoRx2)
- - 👉 [Awww, that&#39;s nice..wait..what?!](http://9gag.com/gag/adB8nG9)<!-- MEMES:END -->
+ - 👉 [`I don&#39;t even know what I&#39;m doing here`](http://9gag.com/gag/aKG6OwQ)<!-- MEMES:END -->
 
 ---
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The new Surf browser shows why everyone’s trying to connect AI to the web](https://www.theverge.com/2024/12/4/24312449/deta-surf-ai-browser)
- - [Apple’s ‘HomePod with a screen’ may come later in 2025](https://www.theverge.com/2024/12/4/24312969/apple-smart-home-display-homepod-screen-third-quarter-2025)
- - [A New Phone Scanner That Detects Spyware Has Already Found 7 Pegasus Infections](https://www.wired.com/story/iverify-spyware-detection-tool-nso-group-pegasus/)
- - [A New Benchmark for the Risks of AI](https://www.wired.com/story/benchmark-for-ai-risks/)
- - [Max is testing always-on HBO channels](https://www.theverge.com/2024/12/4/24312385/max-always-on-live-hbo-channels)<!-- TECH:END -->
+ - [How to find your 2024 Spotify Wrapped](https://www.theverge.com/24312980/spotify-wrapped-2024-how-to)
+ - [14 Thoughtful Gifts for Your Coworkers](https://www.wired.com/gallery/gifts-for-coworkers/)
+ - [A universal ‘Plug and Charge’ protocol for EV charging is coming in 2025](https://www.theverge.com/2024/12/4/24312002/ev-plug-and-charge-universal-protocol-sae-pki-roaming)
+ - [iVerify says its Mobile Threat Hunting tool, launched in May, found seven Pegasus infections after scanning 2,500 devices, including targeting business leaders &lpar;Lily Hay Newman/Wired&rpar;](http://www.techmeme.com/241204/p34#a241204p34)
+ - [Celsius Founder Alex Mashinsky Pleads Guilty To Fraud](https://www.wired.com/story/celsius-founder-alex-mashinsky-pleads-guilty-to-fraud-crypto-celsius/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

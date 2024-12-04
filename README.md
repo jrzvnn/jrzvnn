@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Trump picks two nominees who could decide the fate of Big Tech and crypto](https://www.theverge.com/2024/12/4/24313285/trump-sec-doj-antitrust-nominees-paul-atkins-gail-slater)
+ - [Sam Altman lowers the bar for AGI](https://www.theverge.com/2024/12/4/24313130/sam-altman-openai-agi-lower-the-bar)
+ - [Trump selects Gail Slater, an adviser to JD Vance and tech policy adviser during Trump&#39;s first term, as head of the DOJ&#39;s antitrust unit &lpar;Josh Sisco/Bloomberg&rpar;](http://www.techmeme.com/241204/p43#a241204p43)
  - [Threads takes an important baby step toward true fediverse integration](https://www.theverge.com/2024/12/4/24313229/threads-follow-fediverse-mastodon-users-post-notifications)
- - [Trump plans to nominate former SEC Commissioner Paul Atkins as SEC chair, keeping with his promise for a crypto-friendly administration &lpar;Jeff Cox/CNBC&rpar;](http://www.techmeme.com/241204/p42#a241204p42)
- - [Nokia’s classic Snake game is now a Nothing widget](https://www.theverge.com/2024/12/4/24313191/nothing-community-widgets-snake-game-nokia)
- - [Dune: Prophecy’s showrunner wants you to think beyond the hero / villain binary](https://www.theverge.com/2024/12/4/24311132/dune-prophecy-interview-alison-schapker)
- - [Donald Trump picks billionaire Jared Isaacman to lead NASA](https://www.theverge.com/2024/12/4/24313160/donald-trump-nasa-billionaire-jared-isaacman)<!-- TECH:END -->
+ - [Time&#39;s Almost Up for Verizon&#39;s Cyber Monday Deals: Free With Trade-In on Apple, Google and Samsung Phones](https://www.cnet.com/deals/best-verizon-cyber-monday-deals-2024-12-04/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -167,10 +167,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [USS Low Ground](http://9gag.com/gag/aO831Br)
- - 😝 [Stacy&#39;s mom has been spending a lot of time in the pool](http://9gag.com/gag/aAybXWE)
- - 💣 [Hey guys, do you know this? South Korea has just declared martial law.](http://9gag.com/gag/ajPmKDw)
- - 😝 [When you&#39;ve accepted your fate](http://9gag.com/gag/aryMZd0)
- - 👉 [Awww, that&#39;s nice..wait..what?!](http://9gag.com/gag/adB8nG9)<!-- MEMES:END -->
+ - 😝 [Loophole at the blackhole](http://9gag.com/gag/avy5E65)
+ - 💣 [Awww, that&#39;s nice..wait..what?!](http://9gag.com/gag/adB8nG9)
+ - 😝 [Anakin and Padm\u00e9](http://9gag.com/gag/azxMGZz)
+ - 👉 [South Korean airborne troops are breaking through the windows and entering the National Assembly](http://9gag.com/gag/aAybXed)<!-- MEMES:END -->
 
 ---
 

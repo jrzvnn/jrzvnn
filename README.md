@@ -158,10 +158,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- TECH:START -->
  - [Tim Cook Wants Apple to Literally Save Your Life](https://www.wired.com/story/big-interview-tim-cook-wants-apple-to-literally-save-your-life/)
+ - [Best Cyber Monday Deals 2024: 85 Deals You Can Still Score Now](https://www.cnet.com/deals/best-cyber-monday-deals-live-2024-12-04/#ftag=CAD590a51e)
  - [In the wake of Salt Typhoon, US officials recommend Americans use encrypted messaging apps to ensure their communications stay hidden from foreign hackers &lpar;Kevin Collier/NBC News&rpar;](http://www.techmeme.com/241204/p9#a241204p9)
  - [Kuo: Apple has delayed the mass production of smart home-focused display-equipped HomePod to after WWDC 2025 or Q3 2025, mainly due to software development &lpar;Ming-Chi Kuo&rpar;](http://www.techmeme.com/241204/p8#a241204p8)
- - [Groupon Promo Code: Get 20% Off This December](https://www.wired.com/story/groupon-promo-code/)
- - [Chewy Promo Code: Get a $20 eGift Card](https://www.wired.com/story/chewy-promo-code/)<!-- TECH:END -->
+ - [Groupon Promo Code: Get 20% Off This December](https://www.wired.com/story/groupon-promo-code/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

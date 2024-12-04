@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Who put a step in the middle of the road?](http://9gag.com/gag/aNDp4NG)
- - 😝 [Merry Xmas](http://9gag.com/gag/a9yE2MZ)
- - 💣 [Anakin and Padm\u00e9](http://9gag.com/gag/azxMGZz)
- - 😝 [A well trained fiance](http://9gag.com/gag/aD2dVyB)
- - 👉 [Mr jobs why did you die](http://9gag.com/gag/a7oE9Eb)<!-- MEMES:END -->
+ - 😝 [Loophole at the blackhole](http://9gag.com/gag/avy5E65)
+ - 😝 [Never trust a murderous, paranoid schizophrenic](http://9gag.com/gag/a6ZE2yb)
+ - 💣 [Somebody please tell her](http://9gag.com/gag/a6ZEB0L)
+ - 😝 [Mr jobs why did you die](http://9gag.com/gag/a7oE9Eb)
+ - 👉 [A narco was captured in Mexico](http://9gag.com/gag/agmBxDn)<!-- MEMES:END -->
 
 ---
 

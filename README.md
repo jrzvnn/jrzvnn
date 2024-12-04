@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Stacy&#39;s mom has been spending a lot of time in the pool](http://9gag.com/gag/aAybXWE)
- - 😝 [Bro regretted taking her](http://9gag.com/gag/aBy2GGZ)
- - 💣 [`I don&#39;t even know what I&#39;m doing here`](http://9gag.com/gag/aKG6OwQ)
+ - 😝 [This is madness](http://9gag.com/gag/aO83PxM)
+ - 😝 [Mischief managed](http://9gag.com/gag/awyMdwD)
+ - 💣 [South Korea Special Forces rebels easily neutralized by Tai Chi veteran news reporter](http://9gag.com/gag/aD2dXNd)
  - 😝 [Blasting some duckin&#39; sick beats! \ud83e\udd86\ud83d\udca5](http://9gag.com/gag/aYQoRx2)
- - 👉 [Anakin and Padm\u00e9](http://9gag.com/gag/azxMGZz)<!-- MEMES:END -->
+ - 👉 [I am aint even mad and wont complain about it.](http://9gag.com/gag/an7QEwV)<!-- MEMES:END -->
 
 ---
 

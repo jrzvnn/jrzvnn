@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Never trust a murderous, paranoid schizophrenic](http://9gag.com/gag/a6ZE2yb)
- - 😝 [My fellow Anime enthusiast](http://9gag.com/gag/a34EWv3)
- - 💣 [Mr jobs why did you die](http://9gag.com/gag/a7oE9Eb)
+ - 😝 [Rumor has it she\u2019s still trying to pronounce it](http://9gag.com/gag/ae9A7Yv)
+ - 😝 [Shawshank redeem](http://9gag.com/gag/a4PEwEp)
+ - 💣 [Growing up bober](http://9gag.com/gag/abAVRq8)
  - 😝 [Blasting some duckin&#39; sick beats! \ud83e\udd86\ud83d\udca5](http://9gag.com/gag/aYQoRx2)
- - 👉 [`I don&#39;t even know what I&#39;m doing here`](http://9gag.com/gag/aKG6OwQ)<!-- MEMES:END -->
+ - 👉 [You fight like a man, you lose like a man.](http://9gag.com/gag/a2v7OOZ)<!-- MEMES:END -->
 
 ---
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [AI&#39;s rise has made job interviews more gruelling, with an increase in tests, essays, and assignments, as recruiters struggle to find the right candidates &lpar;Elaine Moore/Financial Times&rpar;](http://www.techmeme.com/241204/p25#a241204p25)
- - [Google launches Veo, its AI video model to generate &quot;high-quality&quot; 1080p resolution videos in various styles, to businesses, beating OpenAI&#39;s Sora to market &lpar;Jess Weatherbed/The Verge&rpar;](http://www.techmeme.com/241204/p24#a241204p24)
- - [Sources: the EU plans to crack down on Asian online retailers like Temu and Shein, including a new tax on e-commerce revenue, to combat a flood of packages &lpar;Financial Times&rpar;](http://www.techmeme.com/241204/p23#a241204p23)
- - [Encore’s AI-Powered Site Helps You Shop for Vintage and Secondhand Items](https://www.wired.com/story/encore-ai-powered-search-vintage-secondhand-shopping/)
- - [Growl’s interactive bag lets you punch your boxing trainer in the face](https://www.theverge.com/2024/12/4/24305788/growl-boxing-punching-bag-interactive-trainer-fitness)<!-- TECH:END -->
+ - [M4 MacBook Air to iPhone SE -- What to expect from Apple in early 2025](https://appleinsider.com/articles/24/12/04/m4-macbook-air-to-iphone-se----what-to-expect-from-apple-in-early-2025?utm_medium=rss)
+ - [Spotify Wrapped Now Includes an AI-Generated Podcast Analyzing Your Listening Habits](https://www.wired.com/story/spotify-wrapped-ai-podcasts/)
+ - [Spotify Wrapped 2024 adds an AI podcast to recap your listening habits](https://www.theverge.com/2024/12/4/24312282/spotify-wrapped-2024-ai-podcast-recap-listening-habits)
+ - [FBI suggests use of encrypted messaging apps while US faces huge cyberattack from China](https://appleinsider.com/articles/24/12/04/use-encrypted-apps-while-us-faces-hacking-threat-says-fbi?utm_medium=rss)
+ - [CISAC study: generative AI risks costing music artists ~20% of their revenue by 2028; Abba&#39;s Bj&amp;ouml;rn Ulvaeus warns that AI &quot;has the power to cause great damage&quot; &lpar;Daniel Thomas/Financial Times&rpar;](http://www.techmeme.com/241204/p28#a241204p28)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

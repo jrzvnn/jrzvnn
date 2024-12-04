@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Trump picks two nominees who could decide the fate of Big Tech and crypto](https://www.theverge.com/2024/12/4/24313285/trump-sec-doj-antitrust-nominees-paul-atkins-gail-slater)
- - [Sam Altman lowers the bar for AGI](https://www.theverge.com/2024/12/4/24313130/sam-altman-openai-agi-lower-the-bar)
- - [Trump selects Gail Slater, an adviser to JD Vance and tech policy adviser during Trump&#39;s first term, as head of the DOJ&#39;s antitrust unit &lpar;Josh Sisco/Bloomberg&rpar;](http://www.techmeme.com/241204/p43#a241204p43)
- - [Threads takes an important baby step toward true fediverse integration](https://www.theverge.com/2024/12/4/24313229/threads-follow-fediverse-mastodon-users-post-notifications)
- - [Time&#39;s Almost Up for Verizon&#39;s Cyber Monday Deals: Free With Trade-In on Apple, Google and Samsung Phones](https://www.cnet.com/deals/best-verizon-cyber-monday-deals-2024-12-04/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Threads users can now follow fediverse accounts that have interacted with a Threads post, but the accounts aren&#39;t searchable and their posts won&#39;t show in feeds &lpar;Wes Davis/The Verge&rpar;](http://www.techmeme.com/241204/p44#a241204p44)
+ - [Bluesky Climbs to 24 Million Users, and Keeps Growing: Should You Join?](https://www.cnet.com/tech/bluesky-explained-why-this-social-media-network-is-now-growing-by-1-million-users-daily-luke-skywalker/#ftag=CAD590a51e)
+ - [If You Were Paid via PayPal, Venmo or Cash App This Year, You Should Know About This New IRS Tax Rule](https://www.cnet.com/personal-finance/taxes/if-you-were-paid-via-paypal-venmo-or-cash-app-this-year-you-should-know-about-this-new-irs-tax-rule/#ftag=CAD590a51e)
+ - [I Found a Shiatsu Foot Massager for Under $60 Perfect for the Holidays](https://www.cnet.com/deals/i-found-a-shiatsu-foot-massager-for-under-60-thats-perfect-for-the-holidays/#ftag=CAD590a51e)
+ - [Exclusive Deal: Score 20% Off Meta Quest Games, Plus Get Quest Cash With a New Headset](https://www.cnet.com/deals/exclusive-deal-score-20-off-meta-quest-games-plus-get-quest-cash-with-a-new-headset/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

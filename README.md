@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Stay On Target](http://9gag.com/gag/a87E296)
- - 😝 [When you&#39;ve accepted your fate](http://9gag.com/gag/aryMZd0)
- - 💣 [Stacy&#39;s mom has been spending a lot of time in the pool](http://9gag.com/gag/aAybXWE)
+ - 😝 [Who put a step in the middle of the road?](http://9gag.com/gag/aNDp4NG)
+ - 😝 [Stacy&#39;s mom has been spending a lot of time in the pool](http://9gag.com/gag/aAybXWE)
+ - 💣 [A well trained fiance](http://9gag.com/gag/aD2dVyB)
  - 😝 [Blasting some duckin&#39; sick beats! \ud83e\udd86\ud83d\udca5](http://9gag.com/gag/aYQoRx2)
- - 👉 [Pauline Grabosch is the biggest asset of the German track cycling team](http://9gag.com/gag/aryM240)<!-- MEMES:END -->
+ - 👉 [Never trust a murderous, paranoid schizophrenic](http://9gag.com/gag/a6ZE2yb)<!-- MEMES:END -->
 
 ---
 

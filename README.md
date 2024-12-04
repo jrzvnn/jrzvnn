@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Kuo: Apple has delayed the mass production of smart home-focused display-equipped HomePod to after WWDC 2025 or Q3 2025, mainly due to software development &lpar;Ming-Chi Kuo&rpar;](http://www.techmeme.com/241204/p8#a241204p8)
+ - [Groupon Promo Code: Get 20% Off This December](https://www.wired.com/story/groupon-promo-code/)
  - [Chewy Promo Code: Get a $20 eGift Card](https://www.wired.com/story/chewy-promo-code/)
  - [Adidas Promo Codes &amp; Deals: 15% Off](https://www.wired.com/story/adidas-promo-code/)
- - [Online secondhand fashion marketplace ThredUP, whose market cap dropped from $1.3B at its 2021 IPO to just $60M in November 2024, divests its European business &lpar;Paul Sawers/TechCrunch&rpar;](http://www.techmeme.com/241204/p7#a241204p7)
- - [Apptopia: Trump Media&#39;s Truth Social had 355,000 DAUs in November, up 3% MoM after Donald Trump won the election; Trump Media is still worth ~$7.2B &lpar;Bailey Lipschultz/Bloomberg&rpar;](http://www.techmeme.com/241204/p6#a241204p6)
- - [Save 80% with Nomad Coupon in December 2024](https://www.wired.com/story/nomad-discount-code/)<!-- TECH:END -->
+ - [Online secondhand fashion marketplace ThredUP, whose market cap dropped from $1.3B at its 2021 IPO to just $60M in November 2024, divests its European business &lpar;Paul Sawers/TechCrunch&rpar;](http://www.techmeme.com/241204/p7#a241204p7)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

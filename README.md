@@ -158,10 +158,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- TECH:START -->
  - [A look at ex-CEO Pat Gelsinger&#39;s history at Intel, the setbacks he faced in trying to turn the company around, and why investors may have lost confidence in him &lpar;Sean Hollister/The Verge&rpar;](http://www.techmeme.com/241204/p1#a241204p1)
- - [Best Cyber Monday Deals 2024: 85 Discounts to Shop Before They&#39;re Gone](https://www.cnet.com/deals/best-cyber-monday-deals-live-2024-12-03/#ftag=CAD590a51e)
- - [35 Best Wellness Gifts for the Health Gurus Who Have It All](https://www.cnet.com/health/35-best-wellness-gifts-for-the-health-gurus-that-have-it-all/#ftag=CAD590a51e)
  - [Coinbase Onramp adds Apple Pay for crypto purchases in third-party apps](https://appleinsider.com/articles/24/12/02/coinbase-onboard-adds-apple-pay-for-crypto-purchases-in-third-party-apps?utm_medium=rss)
- - [Premier League Soccer: Livestream Ipswich vs. Crystal Palace From Anywhere](https://www.cnet.com/tech/services-and-software/premier-league-soccer-livestream-ipswich-vs-crystal-palace-from-anywhere/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Today&#39;s NYT Mini Crossword Answers for Wednesday, Dec. 4](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-wednesday-dec-4/#ftag=CAD590a51e)
+ - [Today&#39;s NYT Connections: Sports Edition Hints and Answers for Dec. 4, #72](https://www.cnet.com/tech/gaming/todays-nyt-connections-sports-edition-hints-and-answers-for-dec-4-72/#ftag=CAD590a51e)
+ - [Today&#39;s NYT Strands Hints, Answers and Help for Dec. 4, #276](https://www.cnet.com/tech/gaming/todays-nyt-strands-hints-answers-and-help-for-dec-4-276/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

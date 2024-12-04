@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [You can try Dragon Age: The Veilguard’s excellent character creator for free](https://www.theverge.com/2024/12/4/24313188/dragon-age-the-veilguard-character-creator-free-patch-4)
  - [Amazon secretly excluded neighborhoods from Prime delivery, DC AG alleges](https://www.theverge.com/2024/12/4/24313142/amazon-allegedly-excluded-dc-neighborhoods-prime-delivery)
  - [At the DealBook Summit, Sam Altman says &quot;it would be profoundly un-American to use political power to hurt&quot; competitors and &quot;I don&#39;t think Elon would do it&quot; &lpar;Jackie Davalos/Bloomberg&rpar;](http://www.techmeme.com/241204/p41#a241204p41)
  - [AI-Powered Robots Can Be Tricked Into Acts of Violence](https://www.wired.com/story/researchers-llm-ai-robot-violence/)
- - [A New Phone Scanner That Detects Spyware Has Already Found 7 Pegasus Infections](https://www.wired.com/story/iverify-spyware-detection-tool-nso-group-pegasus/)
- - [Senators Warn the Pentagon: Get a Handle on China’s Telecom Hacking](https://www.wired.com/story/senators-warn-pentagon-salt-typhoon-china-hacking/)<!-- TECH:END -->
+ - [A New Phone Scanner That Detects Spyware Has Already Found 7 Pegasus Infections](https://www.wired.com/story/iverify-spyware-detection-tool-nso-group-pegasus/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

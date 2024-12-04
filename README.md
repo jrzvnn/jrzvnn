@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Anduril and OpenAI partner to deploy advanced AI systems for national security missions, focusing on &quot;improving the nation&#39;s counter-unmanned aircraft systems&quot; &lpar;Hayden Field/CNBC&rpar;](http://www.techmeme.com/241204/p45#a241204p45)
+ - [Apple now lets you sync your passwords with Firefox, but not on Windows](https://www.theverge.com/2024/12/4/24313300/apple-sync-passwords-firefox-not-windows)
  - [Nissan needs a little something extra to connect the Ariya to Tesla’s Superchargers](https://www.theverge.com/2024/12/4/24313313/nissan-ariya-nacs-adapter-plastic-insert-tesla-supercharger)
  - [Threads users can now follow fediverse accounts that have interacted with a Threads post, but the accounts aren&#39;t searchable and their posts won&#39;t show in feeds &lpar;Wes Davis/The Verge&rpar;](http://www.techmeme.com/241204/p44#a241204p44)
- - [Bluesky Climbs to 24 Million Users, and Keeps Growing: Should You Join?](https://www.cnet.com/tech/bluesky-explained-why-this-social-media-network-is-now-growing-by-1-million-users-daily-luke-skywalker/#ftag=CAD590a51e)
- - [If You Were Paid via PayPal, Venmo or Cash App This Year, You Should Know About This New IRS Tax Rule](https://www.cnet.com/personal-finance/taxes/if-you-were-paid-via-paypal-venmo-or-cash-app-this-year-you-should-know-about-this-new-irs-tax-rule/#ftag=CAD590a51e)
- - [I Found a Shiatsu Foot Massager for Under $60 Perfect for the Holidays](https://www.cnet.com/deals/i-found-a-shiatsu-foot-massager-for-under-60-thats-perfect-for-the-holidays/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Bluesky Climbs to 24 Million Users, and Keeps Growing: Should You Join?](https://www.cnet.com/tech/bluesky-explained-why-this-social-media-network-is-now-growing-by-1-million-users-daily-luke-skywalker/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [M4 MacBook Air to iPhone SE -- What to expect from Apple in early 2025](https://appleinsider.com/articles/24/12/04/m4-macbook-air-to-iphone-se----what-to-expect-from-apple-in-early-2025?utm_medium=rss)
- - [Spotify Wrapped Now Includes an AI-Generated Podcast Analyzing Your Listening Habits](https://www.wired.com/story/spotify-wrapped-ai-podcasts/)
- - [Spotify Wrapped 2024 adds an AI podcast to recap your listening habits](https://www.theverge.com/2024/12/4/24312282/spotify-wrapped-2024-ai-podcast-recap-listening-habits)
- - [FBI suggests use of encrypted messaging apps while US faces huge cyberattack from China](https://appleinsider.com/articles/24/12/04/use-encrypted-apps-while-us-faces-hacking-threat-says-fbi?utm_medium=rss)
- - [CISAC study: generative AI risks costing music artists ~20% of their revenue by 2028; Abba&#39;s Bj&amp;ouml;rn Ulvaeus warns that AI &quot;has the power to cause great damage&quot; &lpar;Daniel Thomas/Financial Times&rpar;](http://www.techmeme.com/241204/p28#a241204p28)<!-- TECH:END -->
+ - [Razer BlackWidow V4 Pro 75% Review: High Tech, High Price](https://www.wired.com/review/razer-blackwidow-v4-pro-75/)
+ - [Veeam, which helps secure and recover data, raised $2B via a secondary share sale led by TPG that valued it at $15B; Insight bought Veeam for $5B in early 2020 &lpar;Rebecca Szkutak/TechCrunch&rpar;](http://www.techmeme.com/241204/p31#a241204p31)
+ - [Spotify says Joe Rogan was its top US podcast in 2024 for the fourth year running, followed by Call Her Daddy, and 33%+ of the top 50 podcasts were video &lpar;Todd Spangler/Variety&rpar;](http://www.techmeme.com/241204/p30#a241204p30)
+ - [Spotify launches Spotify Wrapped, adding an AI podcast of users&#39; 2024 Wrapped via Google&#39;s AI summarization tool NotebookLM, and a Your Music Evolution feature &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/241204/p29#a241204p29)
+ - [Vitamix Ascent X2 Review: The Ferrari of Blenders](https://www.wired.com/review/vitamix-ascent-x2/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

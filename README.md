@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Can&#39;t imagine the pain of the owner when discovered this...](http://9gag.com/gag/an7QxGB)
- - 😝 [A well trained fiance](http://9gag.com/gag/aD2dVyB)
- - 💣 [You fight like a man, you lose like a man.](http://9gag.com/gag/a2v7OOZ)
+ - 😝 [Stacy&#39;s mom has been spending a lot of time in the pool](http://9gag.com/gag/aAybXWE)
+ - 😝 [Who put a step in the middle of the road?](http://9gag.com/gag/aNDp4NG)
+ - 💣 [Can&#39;t imagine the pain of the owner when discovered this...](http://9gag.com/gag/an7QxGB)
  - 😝 [Blasting some duckin&#39; sick beats! \ud83e\udd86\ud83d\udca5](http://9gag.com/gag/aYQoRx2)
- - 👉 [Colombia&#39;s most wanted sicaria has finally been captured](http://9gag.com/gag/ayNMP8V)<!-- MEMES:END -->
+ - 👉 [You fight like a man, you lose like a man.](http://9gag.com/gag/a2v7OOZ)<!-- MEMES:END -->
 
 ---
 

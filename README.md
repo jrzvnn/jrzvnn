@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [In an interview, Hugging Face CEO Clement Delangue said that he is &quot;a little worried&quot; about the strong concentration of top open-source AI models from China &lpar;Charles Rollet/TechCrunch&rpar;](http://www.techmeme.com/241204/p19#a241204p19)
+ - [AI companies&#39; ads for AI tools show most don&#39;t really know what AI is good for, and the ways people use AI are discomfiting, automating tasks that make us human &lpar;Maxwell Zeff/TechCrunch&rpar;](http://www.techmeme.com/241204/p18#a241204p18)
  - [US chipmaker Marvell reports Q3 revenue up 7% YoY to $1.52B, above $1.45B est., and expects Q4 revenue of $1.8B, above $1.64B est.; MRVL jumps 12%+ pre-market &lpar;Nick Turner/Bloomberg&rpar;](http://www.techmeme.com/241204/p17#a241204p17)
  - [Apple Arcade’s best exclusive game is finally on console and PC](https://www.theverge.com/24312363/fantasian-xbox-ps5-switch-pc-launch-hironobu-sakaguchi)
- - [Microsoft closes the door on Windows 11 supporting older hardware](https://www.theverge.com/2024/12/4/24312928/microsoft-windows-11-older-hardware-tpm-support)
- - [Okta reports Q3 revenue up 14% YoY to $665M, $651M in subscription revenue, above $635M est., and expects Q4 revenue above est.; OKTA jumps 16%+ pre-market &lpar;Ashley Capoot/CNBC&rpar;](http://www.techmeme.com/241204/p16#a241204p16)
- - [Signal President Meredith Whittaker says Signal plans to add support for encrypted backups in 2025, and it costs ~$50M/year to run the encrypted messaging app &lpar;Lily Hay Newman/Wired&rpar;](http://www.techmeme.com/241204/p15#a241204p15)<!-- TECH:END -->
+ - [Microsoft closes the door on Windows 11 supporting older hardware](https://www.theverge.com/2024/12/4/24312928/microsoft-windows-11-older-hardware-tpm-support)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

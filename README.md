@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Threads takes an important baby step toward true fediverse integration](https://www.theverge.com/2024/12/4/24313229/threads-follow-fediverse-mastodon-users-post-notifications)
  - [Trump plans to nominate former SEC Commissioner Paul Atkins as SEC chair, keeping with his promise for a crypto-friendly administration &lpar;Jeff Cox/CNBC&rpar;](http://www.techmeme.com/241204/p42#a241204p42)
  - [Nokia’s classic Snake game is now a Nothing widget](https://www.theverge.com/2024/12/4/24313191/nothing-community-widgets-snake-game-nokia)
  - [Dune: Prophecy’s showrunner wants you to think beyond the hero / villain binary](https://www.theverge.com/2024/12/4/24311132/dune-prophecy-interview-alison-schapker)
- - [Donald Trump picks billionaire Jared Isaacman to lead NASA](https://www.theverge.com/2024/12/4/24313160/donald-trump-nasa-billionaire-jared-isaacman)
- - [You can try Dragon Age: The Veilguard’s excellent character creator for free](https://www.theverge.com/2024/12/4/24313188/dragon-age-the-veilguard-character-creator-free-patch-4)<!-- TECH:END -->
+ - [Donald Trump picks billionaire Jared Isaacman to lead NASA](https://www.theverge.com/2024/12/4/24313160/donald-trump-nasa-billionaire-jared-isaacman)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

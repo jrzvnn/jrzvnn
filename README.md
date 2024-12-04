@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Congratulations.](http://9gag.com/gag/a87EKQe)
- - 😝 [Thank you Oscar!](http://9gag.com/gag/axyMbNn)
- - 💣 [Stopping time](http://9gag.com/gag/a9yE2YK)
- - 😝 [A narco was captured in Mexico](http://9gag.com/gag/agmBxDn)
- - 👉 [Loophole at the blackhole](http://9gag.com/gag/avy5E65)<!-- MEMES:END -->
+ - 😝 [The serious risk posed by a detached Truck&#39;s Tires](http://9gag.com/gag/aGypGLZ)
+ - 😝 [Anakin and Padm\u00e9](http://9gag.com/gag/azxMGZz)
+ - 💣 [Thank you Oscar!](http://9gag.com/gag/axyMbNn)
+ - 😝 [Imma go there too](http://9gag.com/gag/aKG6Wvg)
+ - 👉 [A narco was captured in Mexico](http://9gag.com/gag/agmBxDn)<!-- MEMES:END -->
 
 ---
 

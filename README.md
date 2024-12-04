@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Chinese AI company SenseTime says it completed a major organizational restructuring to focus on generative AI, shifting from computer vision and surveillance &lpar;Reuters&rpar;](http://www.techmeme.com/241204/p20#a241204p20)
+ - [Google’s new generative AI video model is now available](https://www.theverge.com/2024/12/4/24312938/google-veo-generative-ai-video-model-available-preview)
  - [In an interview, Hugging Face CEO Clement Delangue said that he is &quot;a little worried&quot; about the strong concentration of top open-source AI models from China &lpar;Charles Rollet/TechCrunch&rpar;](http://www.techmeme.com/241204/p19#a241204p19)
- - [AI companies&#39; ads for AI tools show most don&#39;t really know what AI is good for, and the ways people use AI are discomfiting, automating tasks that make us human &lpar;Maxwell Zeff/TechCrunch&rpar;](http://www.techmeme.com/241204/p18#a241204p18)
- - [US chipmaker Marvell reports Q3 revenue up 7% YoY to $1.52B, above $1.45B est., and expects Q4 revenue of $1.8B, above $1.64B est.; MRVL jumps 12%+ pre-market &lpar;Nick Turner/Bloomberg&rpar;](http://www.techmeme.com/241204/p17#a241204p17)
- - [Apple Arcade’s best exclusive game is finally on console and PC](https://www.theverge.com/24312363/fantasian-xbox-ps5-switch-pc-launch-hironobu-sakaguchi)
- - [Microsoft closes the door on Windows 11 supporting older hardware](https://www.theverge.com/2024/12/4/24312928/microsoft-windows-11-older-hardware-tpm-support)<!-- TECH:END -->
+ - [Cyber Monday Deals Under $50: Last Chance to Snag Bargains on Tech, Smart Home and More](https://www.cnet.com/deals/best-cyber-monday-deals-under-50-2024-12-04/#ftag=CAD590a51e)
+ - [AI companies&#39; ads for AI tools show most don&#39;t really know what AI is good for, and the ways people use AI are discomfiting, automating tasks that make us human &lpar;Maxwell Zeff/TechCrunch&rpar;](http://www.techmeme.com/241204/p18#a241204p18)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

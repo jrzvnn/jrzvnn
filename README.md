@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Here is your watch](http://9gag.com/gag/aQzo238)
- - 😝 [A narco was captured in Mexico](http://9gag.com/gag/agmBxDn)
- - 💣 [Stopping time](http://9gag.com/gag/a9yE2YK)
  - 😝 [A well trained fiance](http://9gag.com/gag/aD2dVyB)
- - 👉 [Somebody please tell her](http://9gag.com/gag/a6ZEB0L)<!-- MEMES:END -->
+ - 😝 [Stacy&#39;s mom has been spending a lot of time in the pool](http://9gag.com/gag/aAybXWE)
+ - 💣 [Stopping time](http://9gag.com/gag/a9yE2YK)
+ - 😝 [Mr jobs why did you die](http://9gag.com/gag/a7oE9Eb)
+ - 👉 [Merry Xmas](http://9gag.com/gag/a9yE2MZ)<!-- MEMES:END -->
 
 ---
 

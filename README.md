@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple Watch tracks more health metrics than you realize](https://appleinsider.com/articles/24/12/03/apple-watch-tracks-more-health-metrics-than-you-realize?utm_medium=rss)
- - [My Go-To Blackout Companion, Duracell&#39;s Portable Power Station, Is $99 During Cyber Week](https://www.cnet.com/deals/my-go-to-blackout-companion-duracells-portable-power-station-is-99-during-cyber-week/#ftag=CAD590a51e)
- - [Misinformation researcher admits ChatGPT added fake details to his court filing](https://www.theverge.com/2024/12/4/24313132/jeff-hancock-minnesota-deepfake-law-ai-hallucinations-citation)
- - [Your Spotify Wrapped Hits Will Sound Even Better If You Change This Setting](https://www.cnet.com/tech/services-and-software/get-ready-for-spotify-wrapped-with-these-audio-settings/#ftag=CAD590a51e)
- - [Cyberattack Prompts FBI to Urge Americans to Use Encrypted Messaging Apps](https://www.cnet.com/tech/services-and-software/cyberattack-prompts-fbi-to-urge-americans-to-use-encrypted-messaging-apps/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Meta turns to nuclear energy for its AI ambitions](https://www.theverge.com/2024/12/4/24313011/meta-ai-data-center-nuclear-energy)
+ - [The new Gundam anime looks great and sounds like it was named by a cat on a keyboard](https://www.theverge.com/2024/12/4/24313105/gundam-gquuuuuux-trailer-hideaki-anno-yoji-enokido)
+ - [Best Black Friday Apple deals that you can still grab today](https://appleinsider.com/articles/24/12/04/best-black-friday-apple-deals-that-you-can-still-grab-today?utm_medium=rss)
+ - [Stellantis denies hiring Apple&#39;s Luca Maestri to solve its massive problems](https://appleinsider.com/articles/24/12/04/stellantis-denies-hiring-apples-luca-maestri-to-solve-its-massive-problems?utm_medium=rss)
+ - [ChatGPT now has over 300 million weekly users](https://www.theverge.com/2024/12/4/24313097/chatgpt-300-million-weekly-users)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

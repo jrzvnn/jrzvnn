@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Come back](http://9gag.com/gag/aGypO8z)
- - 😝 [Fact](http://9gag.com/gag/aPA3Qow)
- - 💣 [Looks like army has revised the requirements to enlist](http://9gag.com/gag/aNDpRdK)
- - 😝 [South Korea Special Forces rebels easily neutralized by Tai Chi veteran news reporter](http://9gag.com/gag/aD2dXNd)
- - 👉 [Cooked](http://9gag.com/gag/aLnpXKM)<!-- MEMES:END -->
+ - 😝 [USS Low Ground](http://9gag.com/gag/aO831Br)
+ - 😝 [She must work on a dairy farm\u2026](http://9gag.com/gag/aRBXoqB)
+ - 💣 [Rumor has it she\u2019s still trying to pronounce it](http://9gag.com/gag/ae9A7Yv)
+ - 😝 [Awww, that&#39;s nice..wait..what?!](http://9gag.com/gag/adB8nG9)
+ - 👉 [Imma go there too](http://9gag.com/gag/aKG6Wvg)<!-- MEMES:END -->
 
 ---
 

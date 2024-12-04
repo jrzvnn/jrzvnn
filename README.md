@@ -160,8 +160,8 @@ R                        1 repo              ░░░░░░░░░░░�
  - [xAI plans to expand its Colossus supercomputer tenfold to incorporate more than 1M GPUs; work has already begun to increase the size of its facility in Memphis &lpar;Financial Times&rpar;](http://www.techmeme.com/241204/p47#a241204p47)
  - [OpenAI is partnering with defense tech company Anduril](https://www.theverge.com/2024/12/4/24313486/openai-anduril-partnership-counterdrone-systems)
  - [Verizon is once again raising its fees](https://www.theverge.com/2024/12/4/24313251/verizon-admin-and-telco-recovery-charge-fee-increase)
- - [OpenAI Is Working With Anduril to Supply the US Military With AI](https://www.wired.com/story/openai-anduril-defense/)
- - [Google DeepMind unveils Genie 2, a model that can generate 3D worlds from a single prompt image, playable by humans or AI agents using keyboard and mouse inputs &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/241204/p46#a241204p46)<!-- TECH:END -->
+ - [I Fly Over 50 Times Every Year. You Can Get My Go-to Travel Backpack for 20% Off After Cyber Monday](https://www.cnet.com/deals/i-fly-over-50-times-every-year-you-can-get-my-go-to-travel-backpack-for-20-off-after-cyber-monday/#ftag=CAD590a51e)
+ - [These Earbuds Help Me Read in My Noisy House, and They&#39;re 20% for Cyber Week](https://www.cnet.com/deals/these-earbuds-help-me-read-in-my-noisy-house-and-theyre-20-for-cyber-week/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

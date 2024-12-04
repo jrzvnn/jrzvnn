@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [An interview with PlayStation co-CEOs Hermen Hulst and Hideaki Nishino on AI in gaming, &quot;preserving the human touch&quot; in game development, Astro Bot, and more &lpar;Tom Gerken/BBC&rpar;](http://www.techmeme.com/241204/p37#a241204p37)
+ - [Apple is struggling to make Apple Intelligence comply with China&#39;s demands](https://appleinsider.com/articles/24/12/04/apple-is-struggling-to-make-apple-intelligence-comply-with-chinas-demands?utm_medium=rss)
  - [District of Columbia AG sues Amazon over allegedly violating consumer laws by making slower deliveries to Prime users in historically lower-income neighborhoods &lpar;Cecilia Kang/New York Times&rpar;](http://www.techmeme.com/241204/p36#a241204p36)
  - [Sources: Apple and Baidu are working to add AI features to Chinese iPhones but have clashed over model training data, and the models have struggled with prompts &lpar;The Information&rpar;](http://www.techmeme.com/241204/p35#a241204p35)
- - [How to find your 2024 Spotify Wrapped](https://www.theverge.com/24312980/spotify-wrapped-2024-how-to)
- - [14 Thoughtful Gifts for Your Coworkers](https://www.wired.com/gallery/gifts-for-coworkers/)
- - [A universal ‘Plug and Charge’ protocol for EV charging is coming in 2025](https://www.theverge.com/2024/12/4/24312002/ev-plug-and-charge-universal-protocol-sae-pki-roaming)<!-- TECH:END -->
+ - [How to find your 2024 Spotify Wrapped](https://www.theverge.com/24312980/spotify-wrapped-2024-how-to)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

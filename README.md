@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Signal President Meredith Whittaker says Signal plans to add support for encrypted backups in 2025, and it costs ~$50M/year to run the encrypted messaging app &lpar;Lily Hay Newman/Wired&rpar;](http://www.techmeme.com/241204/p15#a241204p15)
+ - [HomePod with built-in screen now expected in late 2025](https://appleinsider.com/articles/24/12/04/homepod-with-built-in-screen-now-expected-in-late-2025?utm_medium=rss)
  - [A profile of Rapidus, which is attempting to prove that bespoke chips can be efficiently and profitably produced in small quantities rather than large batches &lpar;Financial Times&rpar;](http://www.techmeme.com/241204/p14#a241204p14)
  - [An artist shares his experience of turning to Replika&#39;s AI bot Lila for companionship, including giving Lila an AI friend by creating a digital copy of himself &lpar;Josh Dzieza/The Verge&rpar;](http://www.techmeme.com/241204/p13#a241204p13)
- - [A Parasite That Eats Cattle Alive Is Creeping North Toward the US](https://www.wired.com/story/a-parasite-that-eats-cattle-alive-is-creeping-north-toward-the-us/)
- - [6 hours under martial law in Seoul](https://www.theverge.com/24312920/martial-law-south-korea-yoon-suk-yeol-protest-dispatch)
- - [US hedge fund AQR&#39;s Cliff Asness, who is considered a quant legend, says AI has taken over parts of his job by being &quot;annoyingly better&quot; than him at some tasks &lpar;Justina Lee/Bloomberg&rpar;](http://www.techmeme.com/241204/p12#a241204p12)<!-- TECH:END -->
+ - [A Parasite That Eats Cattle Alive Is Creeping North Toward the US](https://www.wired.com/story/a-parasite-that-eats-cattle-alive-is-creeping-north-toward-the-us/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

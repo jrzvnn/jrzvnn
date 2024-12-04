@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Who put a step in the middle of the road?](http://9gag.com/gag/aNDp4NG)
  - 😝 [Stacy&#39;s mom has been spending a lot of time in the pool](http://9gag.com/gag/aAybXWE)
+ - 😝 [`I don&#39;t even know what I&#39;m doing here`](http://9gag.com/gag/aKG6OwQ)
  - 💣 [A well trained fiance](http://9gag.com/gag/aD2dVyB)
  - 😝 [Blasting some duckin&#39; sick beats! \ud83e\udd86\ud83d\udca5](http://9gag.com/gag/aYQoRx2)
- - 👉 [Never trust a murderous, paranoid schizophrenic](http://9gag.com/gag/a6ZE2yb)<!-- MEMES:END -->
+ - 👉 [Mr jobs why did you die](http://9gag.com/gag/a7oE9Eb)<!-- MEMES:END -->
 
 ---
 

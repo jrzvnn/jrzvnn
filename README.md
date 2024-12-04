@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [She must work on a dairy farm\u2026](http://9gag.com/gag/aRBXoqB)
- - 😝 [Marisa Tomei turns 60 today and aged beautifully.](http://9gag.com/gag/ayNMvzX)
- - 💣 [My fellow Anime enthusiast](http://9gag.com/gag/a34EWv3)
+ - 😝 [A narco was captured in Mexico](http://9gag.com/gag/agmBxDn)
+ - 😝 [Who put a step in the middle of the road?](http://9gag.com/gag/aNDp4NG)
+ - 💣 [9gaggers....](http://9gag.com/gag/a34E2XQ)
  - 😝 [Blasting some duckin&#39; sick beats! \ud83e\udd86\ud83d\udca5](http://9gag.com/gag/aYQoRx2)
- - 👉 [It&#39;s 2003, and these two students didn&#39;t realize they just made a massive hit song.](http://9gag.com/gag/aBy2O4Q)<!-- MEMES:END -->
+ - 👉 [She must work on a dairy farm\u2026](http://9gag.com/gag/aRBXoqB)<!-- MEMES:END -->
 
 ---
 

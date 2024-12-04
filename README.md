@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [US officials recommend encrypted messaging to evade hackers in telecom networks](https://www.theverge.com/2024/12/4/24313187/encrypted-apps-salt-typhoon-hack-telecom-fbi-cisa)
  - [xAI plans to expand its Colossus supercomputer tenfold to incorporate more than 1M GPUs; work has already begun to increase the size of its facility in Memphis &lpar;Financial Times&rpar;](http://www.techmeme.com/241204/p47#a241204p47)
  - [OpenAI is partnering with defense tech company Anduril](https://www.theverge.com/2024/12/4/24313486/openai-anduril-partnership-counterdrone-systems)
  - [Verizon is once again raising its fees](https://www.theverge.com/2024/12/4/24313251/verizon-admin-and-telco-recovery-charge-fee-increase)
- - [I Fly Over 50 Times Every Year. You Can Get My Go-to Travel Backpack for 20% Off After Cyber Monday](https://www.cnet.com/deals/i-fly-over-50-times-every-year-you-can-get-my-go-to-travel-backpack-for-20-off-after-cyber-monday/#ftag=CAD590a51e)
- - [These Earbuds Help Me Read in My Noisy House, and They&#39;re 20% for Cyber Week](https://www.cnet.com/deals/these-earbuds-help-me-read-in-my-noisy-house-and-theyre-20-for-cyber-week/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [I Fly Over 50 Times Every Year. You Can Get My Go-to Travel Backpack for 20% Off After Cyber Monday](https://www.cnet.com/deals/i-fly-over-50-times-every-year-you-can-get-my-go-to-travel-backpack-for-20-off-after-cyber-monday/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Google DeepMind unveils GenCast, an AI weather model that outperforms traditional methods on forecasts up to 15 days and is better at foreseeing extreme events &lpar;William J. Broad/New York Times&rpar;](http://www.techmeme.com/241204/p40#a241204p40)
+ - [The UK NCA uncovers a Russian multibillion-dollar money laundering scheme that let Russian spies, European drug traffickers, and more evade sanctions via crypto &lpar;Financial Times&rpar;](http://www.techmeme.com/241204/p39#a241204p39)
+ - [GM and EVgo now have over 2,000 EV charging stalls and counting](https://www.theverge.com/2024/12/4/24313038/gm-and-evgo-now-have-over-2000-ev-charging-stalls-and-counting)
  - [She Was a Russian Socialite and Influencer. Cops Say She’s a Crypto Laundering Kingpin](https://www.wired.com/story/operation-destabilise-money-laundering/)
- - [Xreal’s new glasses are a surprisingly good TV for your face](https://www.theverge.com/2024/12/4/24312269/xreal-one-ar-glasses-release-news)
- - [Govee’s smart Christmas tree lights are cheaper than ever](https://www.theverge.com/2024/12/4/24312195/govees-smart-christmas-tree-lights-are-cheaper-than-ever)
- - [Sam Altman says OpenAI plans to kick off a &quot;shipmas&quot; period of features and products for 12 days on December 5, sources say including text-to-video AI tool Sora &lpar;The Verge&rpar;](http://www.techmeme.com/241204/p38#a241204p38)
- - [OpenAI’s 12 days of ‘shipmas’ include Sora and new reasoning model](https://www.theverge.com/2024/12/4/24312352/openai-sora-o1-reasoning-12-days-shipmas)<!-- TECH:END -->
+ - [Xreal’s new glasses are a surprisingly good TV for your face](https://www.theverge.com/2024/12/4/24312269/xreal-one-ar-glasses-release-news)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

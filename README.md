@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [People living in Rome and cultural leaders criticize Airbnb&#39;s planned Colosseum experience for 32 guests in May 2025, saying it will demean a cultural treasure &lpar;Elisabetta Povoledo/New York Times&rpar;](http://www.techmeme.com/241204/p22#a241204p22)
+ - [Use encrypted apps while US faces hacking threat, says FBI](https://appleinsider.com/articles/24/12/04/use-encrypted-apps-while-us-faces-hacking-threat-says-fbi?utm_medium=rss)
  - [Vanguard&#39;s Chief Economist Joe Davis warns that the rush into AI stocks in 2024 has overplayed AI&#39;s near-term potential and risks a &quot;correction&quot; in share prices &lpar;Jennifer Hughes/Financial Times&rpar;](http://www.techmeme.com/241204/p21#a241204p21)
  - [Chinese AI company SenseTime says it completed a major organizational restructuring to focus on generative AI, shifting from computer vision and surveillance &lpar;Reuters&rpar;](http://www.techmeme.com/241204/p20#a241204p20)
- - [Google’s new generative AI video model is now available](https://www.theverge.com/2024/12/4/24312938/google-veo-generative-ai-video-model-available-preview)
- - [In an interview, Hugging Face CEO Clement Delangue said that he is &quot;a little worried&quot; about the strong concentration of top open-source AI models from China &lpar;Charles Rollet/TechCrunch&rpar;](http://www.techmeme.com/241204/p19#a241204p19)
- - [AI companies&#39; ads for AI tools show most don&#39;t really know what AI is good for, and the ways people use AI are discomfiting, automating tasks that make us human &lpar;Maxwell Zeff/TechCrunch&rpar;](http://www.techmeme.com/241204/p18#a241204p18)<!-- TECH:END -->
+ - [Google’s new generative AI video model is now available](https://www.theverge.com/2024/12/4/24312938/google-veo-generative-ai-video-model-available-preview)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

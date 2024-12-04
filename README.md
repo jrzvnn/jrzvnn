@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Infinite Aura](http://9gag.com/gag/a0e7Edv)
  - 😝 [It&#39;s 2003, and these two students didn&#39;t realize they just made a massive hit song.](http://9gag.com/gag/aBy2O4Q)
- - 💣 [Somebody please tell her](http://9gag.com/gag/a6ZEB0L)
+ - 😝 [My fellow Anime enthusiast](http://9gag.com/gag/a34EWv3)
+ - 💣 [9gaggers....](http://9gag.com/gag/a34E2XQ)
  - 😝 [Blasting some duckin&#39; sick beats! \ud83e\udd86\ud83d\udca5](http://9gag.com/gag/aYQoRx2)
- - 👉 [A well trained fiance](http://9gag.com/gag/aD2dVyB)<!-- MEMES:END -->
+ - 👉 [Awww, that&#39;s nice..wait..what?!](http://9gag.com/gag/adB8nG9)<!-- MEMES:END -->
 
 ---
 

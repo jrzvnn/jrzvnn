@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [A narco was captured in Mexico](http://9gag.com/gag/agmBxDn)
- - 😝 [Who put a step in the middle of the road?](http://9gag.com/gag/aNDp4NG)
- - 💣 [9gaggers....](http://9gag.com/gag/a34E2XQ)
+ - 😝 [Best ad ever](http://9gag.com/gag/aYQoRMq)
+ - 😝 [This login interface](http://9gag.com/gag/aPA3rXg)
+ - 💣 [This cyclist has been spitting on his car for weeks, until the owner had an idea](http://9gag.com/gag/aNDpjp4)
  - 😝 [Blasting some duckin&#39; sick beats! \ud83e\udd86\ud83d\udca5](http://9gag.com/gag/aYQoRx2)
- - 👉 [She must work on a dairy farm\u2026](http://9gag.com/gag/aRBXoqB)<!-- MEMES:END -->
+ - 👉 [Germoney.](http://9gag.com/gag/a4PEwww)<!-- MEMES:END -->
 
 ---
 

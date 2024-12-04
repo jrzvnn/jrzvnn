@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Coinbase Onramp adds Apple Pay for crypto purchases in third-party apps](https://appleinsider.com/articles/24/12/02/coinbase-onboard-adds-apple-pay-for-crypto-purchases-in-third-party-apps?utm_medium=rss)
  - [Dangbei Atom Projector review: Big picture, small projector](https://appleinsider.com/articles/24/12/04/dangbei-atom-projector-review-big-picture-small-projector?utm_medium=rss)
  - [Ubisoft will shut down its free-to-play shooter XDefiant, with servers remaining on until June 3, 2025, and plans to cut ~277 people from the production team &lpar;Nicole Carpenter/Polygon&rpar;](http://www.techmeme.com/241203/p37#a241203p37)
  - [Save $170 on an Apple Mac Mini in This Cyber Monday Deal Still Available at Woot](https://www.cnet.com/deals/save-170-on-an-apple-mac-mini-in-this-cyber-monday-deal-still-available-at-woot/#ftag=CAD590a51e)
- - [Last Chance to Score This Grogu Mini Bluetooth Speaker Before the Cyber Monday Deals End](https://www.cnet.com/deals/last-chance-to-score-this-grogu-mini-bluetooth-speaker-before-the-cyber-monday-deals-end/#ftag=CAD590a51e)
- - [Best Cyber Monday Deals 2024: 85 Discounts to Shop Before They&#39;re Gone](https://www.cnet.com/deals/best-cyber-monday-deals-live-2024-12-03/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Last Chance to Score This Grogu Mini Bluetooth Speaker Before the Cyber Monday Deals End](https://www.cnet.com/deals/last-chance-to-score-this-grogu-mini-bluetooth-speaker-before-the-cyber-monday-deals-end/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

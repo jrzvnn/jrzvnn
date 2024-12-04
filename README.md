@@ -158,10 +158,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- TECH:START -->
  - [Verizon is once again raising its fees](https://www.theverge.com/2024/12/4/24313251/verizon-admin-and-telco-recovery-charge-fee-increase)
- - [OpenAI Is Working With Anduril to Supply the US Military With AI](https://www.wired.com/story/openai-anduril-defense/)
- - [Google DeepMind unveils Genie 2, a model that can generate 3D worlds from a single prompt image, playable by humans or AI agents using keyboard and mouse inputs &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/241204/p46#a241204p46)
- - [Peloton’s new audio-based app is like an invisible strength coach](https://www.theverge.com/2024/12/4/24313321/peloton-strength-plus-app-strength-training)
- - [Amazon&#39;s Flagship Fire Tablet Is Still at Its All-Time Low Price After Cyber Monday](https://www.cnet.com/deals/amazons-flagship-fire-tablet-is-still-at-its-all-time-low-price-after-cyber-monday/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [I Fly Over 50 Times Every Year. You Can Get My Go-to Travel Backpack for 20% Off After Cyber Monday](https://www.cnet.com/deals/i-fly-over-50-times-every-year-you-can-get-my-go-to-travel-backpack-for-20-off-after-cyber-monday/#ftag=CAD590a51e)
+ - [These Earbuds Help Me Read in My Noisy House, and They&#39;re 20% for Cyber Week](https://www.cnet.com/deals/these-earbuds-help-me-read-in-my-noisy-house-and-theyre-20-for-cyber-week/#ftag=CAD590a51e)
+ - [My Favorite Bluetooth Speaker Is a Great Gift, and It&#39;s $40 Off Today](https://www.cnet.com/deals/my-favorite-bluetooth-speaker-is-a-great-gift-and-its-40-off-today/#ftag=CAD590a51e)
+ - [My Dyson V15 Cordless Vacuum Exceeds Expectations. It&#39;s $150 Off During Cyber Week](https://www.cnet.com/deals/my-dyson-v15-cordless-vacuum-exceeds-expectations-its-150-off-during-cyber-week/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

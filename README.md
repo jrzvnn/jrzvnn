@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Verizon is once again raising its fees](https://www.theverge.com/2024/12/4/24313251/verizon-admin-and-telco-recovery-charge-fee-increase)
  - [OpenAI Is Working With Anduril to Supply the US Military With AI](https://www.wired.com/story/openai-anduril-defense/)
  - [Google DeepMind unveils Genie 2, a model that can generate 3D worlds from a single prompt image, playable by humans or AI agents using keyboard and mouse inputs &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/241204/p46#a241204p46)
  - [Peloton’s new audio-based app is like an invisible strength coach](https://www.theverge.com/2024/12/4/24313321/peloton-strength-plus-app-strength-training)
- - [Amazon&#39;s Flagship Fire Tablet Is Still at Its All-Time Low Price After Cyber Monday](https://www.cnet.com/deals/amazons-flagship-fire-tablet-is-still-at-its-all-time-low-price-after-cyber-monday/#ftag=CAD590a51e)
- - [We Found Amazon Devices for Up to 53% Off at Woot](https://www.cnet.com/deals/we-found-amazon-devices-for-up-to-53-off-at-woot/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Amazon&#39;s Flagship Fire Tablet Is Still at Its All-Time Low Price After Cyber Monday](https://www.cnet.com/deals/amazons-flagship-fire-tablet-is-still-at-its-all-time-low-price-after-cyber-monday/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

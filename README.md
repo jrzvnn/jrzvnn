@@ -166,9 +166,9 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Rumor has it she\u2019s still trying to pronounce it](http://9gag.com/gag/ae9A7Yv)
- - 😝 [She must work on a dairy farm\u2026](http://9gag.com/gag/aRBXoqB)
- - 💣 [My fellow Anime enthusiast](http://9gag.com/gag/a34EWv3)
+ - 😝 [Who put a step in the middle of the road?](http://9gag.com/gag/aNDp4NG)
+ - 😝 [This gives me ideas... I&#39;ll probably end up in jail, though.](http://9gag.com/gag/aqyjxWj)
+ - 💣 [9gaggers....](http://9gag.com/gag/a34E2XQ)
  - 😝 [Blasting some duckin&#39; sick beats! \ud83e\udd86\ud83d\udca5](http://9gag.com/gag/aYQoRx2)
  - 👉 [`I don&#39;t even know what I&#39;m doing here`](http://9gag.com/gag/aKG6OwQ)<!-- MEMES:END -->
 

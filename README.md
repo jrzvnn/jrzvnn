@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Trump plans to nominate former SEC Commissioner Paul Atkins as SEC chair, keeping with his promise for a crypto-friendly administration &lpar;Jeff Cox/CNBC&rpar;](http://www.techmeme.com/241204/p42#a241204p42)
+ - [Nokia’s classic Snake game is now a Nothing widget](https://www.theverge.com/2024/12/4/24313191/nothing-community-widgets-snake-game-nokia)
+ - [Dune: Prophecy’s showrunner wants you to think beyond the hero / villain binary](https://www.theverge.com/2024/12/4/24311132/dune-prophecy-interview-alison-schapker)
  - [Donald Trump picks billionaire Jared Isaacman to lead NASA](https://www.theverge.com/2024/12/4/24313160/donald-trump-nasa-billionaire-jared-isaacman)
- - [You can try Dragon Age: The Veilguard’s excellent character creator for free](https://www.theverge.com/2024/12/4/24313188/dragon-age-the-veilguard-character-creator-free-patch-4)
- - [Final Warning: These Post-Cyber Monday Apple Deals Are Selling Out Fast](https://www.cnet.com/deals/best-cyber-monday-apple-deals-2024-12-04/#ftag=CAD590a51e)
- - [Ultra-thin 24&quot; 100Hz Computer Monitor](https://www.cnet.com/tech/computing/ultra-thin-24inch-100hz-computer-monitor-dpnl/#ftag=CAD590a51e)
- - [My Favorite Compact Air Purifier Helps Make My Home Less Gross](https://www.cnet.com/deals/my-favorite-compact-air-purifier-helps-make-my-home-less-gross/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [You can try Dragon Age: The Veilguard’s excellent character creator for free](https://www.theverge.com/2024/12/4/24313188/dragon-age-the-veilguard-character-creator-free-patch-4)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

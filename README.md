@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [This cyclist has been spitting on his car for weeks, until the owner had an idea](http://9gag.com/gag/aNDpjp4)
- - 😝 [Germoney.](http://9gag.com/gag/a4PEwww)
+ - 😝 [A narco was captured in Mexico](http://9gag.com/gag/agmBxDn)
+ - 😝 [Pauline Grabosch is the biggest asset of the German track cycling team](http://9gag.com/gag/aryM240)
  - 💣 [Blasting some duckin&#39; sick beats! \ud83e\udd86\ud83d\udca5](http://9gag.com/gag/aYQoRx2)
- - 😝 [You fight like a man, you lose like a man.](http://9gag.com/gag/a2v7OOZ)
- - 👉 [It&#39;s 2003, and these two students didn&#39;t realize they just made a massive hit song.](http://9gag.com/gag/aBy2O4Q)<!-- MEMES:END -->
+ - 😝 [`I don&#39;t even know what I&#39;m doing here`](http://9gag.com/gag/aKG6OwQ)
+ - 👉 [You fight like a man, you lose like a man.](http://9gag.com/gag/a2v7OOZ)<!-- MEMES:END -->
 
 ---
 

@@ -157,10 +157,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Vanguard&#39;s Chief Economist Joe Davis warns that the rush into AI stocks in 2024 has overplayed AI&#39;s near-term potential and risks a &quot;correction&quot; in share prices &lpar;Jennifer Hughes/Financial Times&rpar;](http://www.techmeme.com/241204/p21#a241204p21)
  - [Chinese AI company SenseTime says it completed a major organizational restructuring to focus on generative AI, shifting from computer vision and surveillance &lpar;Reuters&rpar;](http://www.techmeme.com/241204/p20#a241204p20)
  - [Google’s new generative AI video model is now available](https://www.theverge.com/2024/12/4/24312938/google-veo-generative-ai-video-model-available-preview)
  - [In an interview, Hugging Face CEO Clement Delangue said that he is &quot;a little worried&quot; about the strong concentration of top open-source AI models from China &lpar;Charles Rollet/TechCrunch&rpar;](http://www.techmeme.com/241204/p19#a241204p19)
- - [Cyber Monday Deals Under $50: Last Chance to Snag Bargains on Tech, Smart Home and More](https://www.cnet.com/deals/best-cyber-monday-deals-under-50-2024-12-04/#ftag=CAD590a51e)
  - [AI companies&#39; ads for AI tools show most don&#39;t really know what AI is good for, and the ways people use AI are discomfiting, automating tasks that make us human &lpar;Maxwell Zeff/TechCrunch&rpar;](http://www.techmeme.com/241204/p18#a241204p18)<!-- TECH:END -->
 
 ### 😂 Memes of the hour

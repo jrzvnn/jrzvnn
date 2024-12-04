@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Adidas Promo Codes &amp; Deals: 15% Off](https://www.wired.com/story/adidas-promo-code/)
  - [Online secondhand fashion marketplace ThredUP, whose market cap dropped from $1.3B at its 2021 IPO to just $60M in November 2024, divests its European business &lpar;Paul Sawers/TechCrunch&rpar;](http://www.techmeme.com/241204/p7#a241204p7)
- - [Apptopia: Truth Social had 355,000 DAUs in November, up 3% MoM after Donald Trump won the election; Trump posted 200+ times in the four weeks since the election &lpar;Bailey Lipschultz/Bloomberg&rpar;](http://www.techmeme.com/241204/p6#a241204p6)
+ - [Apptopia: Trump Media&#39;s Truth Social had 355,000 DAUs in November, up 3% MoM after Donald Trump won the election; Trump Media is still worth ~$7.2B &lpar;Bailey Lipschultz/Bloomberg&rpar;](http://www.techmeme.com/241204/p6#a241204p6)
  - [Save 80% with Nomad Coupon in December 2024](https://www.wired.com/story/nomad-discount-code/)
- - [Exclusive Shed Rain Coupon: 15% Off](https://www.wired.com/story/shed-rain-coupon/)
- - [Founders Fund&#39;s Brian Singerman, one of the earliest employees of Peter Thiel&#39;s VC firm and best known for investments in SpaceX and Anduril, steps down as a GP &lpar;Ari Levy/CNBC&rpar;](http://www.techmeme.com/241204/p5#a241204p5)<!-- TECH:END -->
+ - [Exclusive Shed Rain Coupon: 15% Off](https://www.wired.com/story/shed-rain-coupon/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

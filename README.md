@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Best ad ever](http://9gag.com/gag/aYQoRMq)
- - 😝 [This login interface](http://9gag.com/gag/aPA3rXg)
- - 💣 [This cyclist has been spitting on his car for weeks, until the owner had an idea](http://9gag.com/gag/aNDpjp4)
+ - 😝 [His parents must not be home](http://9gag.com/gag/azxMRxm)
+ - 😝 [Congratulations.](http://9gag.com/gag/a87EKQe)
+ - 💣 [Merry Xmas](http://9gag.com/gag/a9yE2MZ)
  - 😝 [Blasting some duckin&#39; sick beats! \ud83e\udd86\ud83d\udca5](http://9gag.com/gag/aYQoRx2)
- - 👉 [Germoney.](http://9gag.com/gag/a4PEwww)<!-- MEMES:END -->
+ - 👉 [Never trust a murderous, paranoid schizophrenic](http://9gag.com/gag/a6ZE2yb)<!-- MEMES:END -->
 
 ---
 

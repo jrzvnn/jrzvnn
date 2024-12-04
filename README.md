@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Loophole at the blackhole](http://9gag.com/gag/avy5E65)
- - 😝 [Never trust a murderous, paranoid schizophrenic](http://9gag.com/gag/a6ZE2yb)
- - 💣 [Somebody please tell her](http://9gag.com/gag/a6ZEB0L)
- - 😝 [Mr jobs why did you die](http://9gag.com/gag/a7oE9Eb)
- - 👉 [A narco was captured in Mexico](http://9gag.com/gag/agmBxDn)<!-- MEMES:END -->
+ - 😝 [Here is your watch](http://9gag.com/gag/aQzo238)
+ - 😝 [A narco was captured in Mexico](http://9gag.com/gag/agmBxDn)
+ - 💣 [Stopping time](http://9gag.com/gag/a9yE2YK)
+ - 😝 [A well trained fiance](http://9gag.com/gag/aD2dVyB)
+ - 👉 [Somebody please tell her](http://9gag.com/gag/a6ZEB0L)<!-- MEMES:END -->
 
 ---
 

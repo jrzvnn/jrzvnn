@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [People living in Rome and cultural leaders criticize Airbnb&#39;s planned Colosseum experience for 32 guests in May 2025, saying it will demean a cultural treasure &lpar;Elisabetta Povoledo/New York Times&rpar;](http://www.techmeme.com/241204/p22#a241204p22)
- - [Use encrypted apps while US faces hacking threat, says FBI](https://appleinsider.com/articles/24/12/04/use-encrypted-apps-while-us-faces-hacking-threat-says-fbi?utm_medium=rss)
- - [Vanguard&#39;s Chief Economist Joe Davis warns that the rush into AI stocks in 2024 has overplayed AI&#39;s near-term potential and risks a &quot;correction&quot; in share prices &lpar;Jennifer Hughes/Financial Times&rpar;](http://www.techmeme.com/241204/p21#a241204p21)
- - [Chinese AI company SenseTime says it completed a major organizational restructuring to focus on generative AI, shifting from computer vision and surveillance &lpar;Reuters&rpar;](http://www.techmeme.com/241204/p20#a241204p20)
- - [Google’s new generative AI video model is now available](https://www.theverge.com/2024/12/4/24312938/google-veo-generative-ai-video-model-available-preview)<!-- TECH:END -->
+ - [AI&#39;s rise has made job interviews more gruelling, with an increase in tests, essays, and assignments, as recruiters struggle to find the right candidates &lpar;Elaine Moore/Financial Times&rpar;](http://www.techmeme.com/241204/p25#a241204p25)
+ - [Google launches Veo, its AI video model to generate &quot;high-quality&quot; 1080p resolution videos in various styles, to businesses, beating OpenAI&#39;s Sora to market &lpar;Jess Weatherbed/The Verge&rpar;](http://www.techmeme.com/241204/p24#a241204p24)
+ - [Sources: the EU plans to crack down on Asian online retailers like Temu and Shein, including a new tax on e-commerce revenue, to combat a flood of packages &lpar;Financial Times&rpar;](http://www.techmeme.com/241204/p23#a241204p23)
+ - [Encore’s AI-Powered Site Helps You Shop for Vintage and Secondhand Items](https://www.wired.com/story/encore-ai-powered-search-vintage-secondhand-shopping/)
+ - [Growl’s interactive bag lets you punch your boxing trainer in the face](https://www.theverge.com/2024/12/4/24305788/growl-boxing-punching-bag-interactive-trainer-fitness)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -167,10 +167,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [A narco was captured in Mexico](http://9gag.com/gag/agmBxDn)
- - 😝 [Pauline Grabosch is the biggest asset of the German track cycling team](http://9gag.com/gag/aryM240)
- - 💣 [Blasting some duckin&#39; sick beats! \ud83e\udd86\ud83d\udca5](http://9gag.com/gag/aYQoRx2)
- - 😝 [`I don&#39;t even know what I&#39;m doing here`](http://9gag.com/gag/aKG6OwQ)
- - 👉 [You fight like a man, you lose like a man.](http://9gag.com/gag/a2v7OOZ)<!-- MEMES:END -->
+ - 😝 [Merry Xmas](http://9gag.com/gag/a9yE2MZ)
+ - 💣 [Germoney.](http://9gag.com/gag/a4PEwww)
+ - 😝 [Blasting some duckin&#39; sick beats! \ud83e\udd86\ud83d\udca5](http://9gag.com/gag/aYQoRx2)
+ - 👉 [It&#39;s 2003, and these two students didn&#39;t realize they just made a massive hit song.](http://9gag.com/gag/aBy2O4Q)<!-- MEMES:END -->
 
 ---
 

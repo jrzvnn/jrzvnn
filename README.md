@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Meta turns to nuclear energy for its AI ambitions](https://www.theverge.com/2024/12/4/24313011/meta-ai-data-center-nuclear-energy)
- - [The new Gundam anime looks great and sounds like it was named by a cat on a keyboard](https://www.theverge.com/2024/12/4/24313105/gundam-gquuuuuux-trailer-hideaki-anno-yoji-enokido)
- - [Best Black Friday Apple deals that you can still grab today](https://appleinsider.com/articles/24/12/04/best-black-friday-apple-deals-that-you-can-still-grab-today?utm_medium=rss)
- - [Stellantis denies hiring Apple&#39;s Luca Maestri to solve its massive problems](https://appleinsider.com/articles/24/12/04/stellantis-denies-hiring-apples-luca-maestri-to-solve-its-massive-problems?utm_medium=rss)
- - [ChatGPT now has over 300 million weekly users](https://www.theverge.com/2024/12/4/24313097/chatgpt-300-million-weekly-users)<!-- TECH:END -->
+ - [At the DealBook Summit, Sam Altman says &quot;it would be profoundly un-American to use political power to hurt&quot; competitors and &quot;I don&#39;t think Elon would do it&quot; &lpar;Jackie Davalos/Bloomberg&rpar;](http://www.techmeme.com/241204/p41#a241204p41)
+ - [AI-Powered Robots Can Be Tricked Into Acts of Violence](https://www.wired.com/story/researchers-llm-ai-robot-violence/)
+ - [A New Phone Scanner That Detects Spyware Has Already Found 7 Pegasus Infections](https://www.wired.com/story/iverify-spyware-detection-tool-nso-group-pegasus/)
+ - [Senators Warn the Pentagon: Get a Handle on China’s Telecom Hacking](https://www.wired.com/story/senators-warn-pentagon-salt-typhoon-china-hacking/)
+ - [Meta turns to nuclear energy for its AI ambitions](https://www.theverge.com/2024/12/4/24313011/meta-ai-data-center-nuclear-energy)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

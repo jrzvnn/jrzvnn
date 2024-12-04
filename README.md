@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Loophole at the blackhole](http://9gag.com/gag/avy5E65)
- - 😝 [Alaska Natives increasingly prefer to be known by the names they use in their own languages, such as Inupiaq or Yupik. `Inuit` is now the current term in Alaska and across the Arctic, and `Eskimo` is fading from use.](http://9gag.com/gag/a1mrV3P)
+ - 😝 [When you&#39;ve accepted your fate](http://9gag.com/gag/aryMZd0)
+ - 😝 [Thank you Oscar!](http://9gag.com/gag/axyMbNn)
  - 💣 [Mr jobs why did you die](http://9gag.com/gag/a7oE9Eb)
- - 😝 [South Korean airborne troops are breaking through the windows and entering the National Assembly](http://9gag.com/gag/aAybXed)
- - 👉 [Never trust a murderous, paranoid schizophrenic](http://9gag.com/gag/a6ZE2yb)<!-- MEMES:END -->
+ - 😝 [Never trust a murderous, paranoid schizophrenic](http://9gag.com/gag/a6ZE2yb)
+ - 👉 [Anakin and Padm\u00e9](http://9gag.com/gag/azxMGZz)<!-- MEMES:END -->
 
 ---
 

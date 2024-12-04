@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google DeepMind unveils GenCast, an AI weather model that outperforms traditional methods on forecasts up to 15 days and is better at foreseeing extreme events &lpar;William J. Broad/New York Times&rpar;](http://www.techmeme.com/241204/p40#a241204p40)
- - [The UK NCA uncovers a Russian multibillion-dollar money laundering scheme that let Russian spies, European drug traffickers, and more evade sanctions via crypto &lpar;Financial Times&rpar;](http://www.techmeme.com/241204/p39#a241204p39)
- - [GM and EVgo now have over 2,000 EV charging stalls and counting](https://www.theverge.com/2024/12/4/24313038/gm-and-evgo-now-have-over-2000-ev-charging-stalls-and-counting)
- - [She Was a Russian Socialite and Influencer. Cops Say She’s a Crypto Laundering Kingpin](https://www.wired.com/story/operation-destabilise-money-laundering/)
- - [Xreal’s new glasses are a surprisingly good TV for your face](https://www.theverge.com/2024/12/4/24312269/xreal-one-ar-glasses-release-news)<!-- TECH:END -->
+ - [Apple Watch tracks more health metrics than you realize](https://appleinsider.com/articles/24/12/03/apple-watch-tracks-more-health-metrics-than-you-realize?utm_medium=rss)
+ - [My Go-To Blackout Companion, Duracell&#39;s Portable Power Station, Is $99 During Cyber Week](https://www.cnet.com/deals/my-go-to-blackout-companion-duracells-portable-power-station-is-99-during-cyber-week/#ftag=CAD590a51e)
+ - [Misinformation researcher admits ChatGPT added fake details to his court filing](https://www.theverge.com/2024/12/4/24313132/jeff-hancock-minnesota-deepfake-law-ai-hallucinations-citation)
+ - [Your Spotify Wrapped Hits Will Sound Even Better If You Change This Setting](https://www.cnet.com/tech/services-and-software/get-ready-for-spotify-wrapped-with-these-audio-settings/#ftag=CAD590a51e)
+ - [Cyberattack Prompts FBI to Urge Americans to Use Encrypted Messaging Apps](https://www.cnet.com/tech/services-and-software/cyberattack-prompts-fbi-to-urge-americans-to-use-encrypted-messaging-apps/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

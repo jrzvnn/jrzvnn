@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [When you&#39;ve accepted your fate](http://9gag.com/gag/aryMZd0)
+ - 😝 [Congratulations.](http://9gag.com/gag/a87EKQe)
  - 😝 [Thank you Oscar!](http://9gag.com/gag/axyMbNn)
- - 💣 [Mr jobs why did you die](http://9gag.com/gag/a7oE9Eb)
- - 😝 [Never trust a murderous, paranoid schizophrenic](http://9gag.com/gag/a6ZE2yb)
- - 👉 [Anakin and Padm\u00e9](http://9gag.com/gag/azxMGZz)<!-- MEMES:END -->
+ - 💣 [Stopping time](http://9gag.com/gag/a9yE2YK)
+ - 😝 [A narco was captured in Mexico](http://9gag.com/gag/agmBxDn)
+ - 👉 [Loophole at the blackhole](http://9gag.com/gag/avy5E65)<!-- MEMES:END -->
 
 ---
 

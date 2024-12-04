@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Rumor has it she\u2019s still trying to pronounce it](http://9gag.com/gag/ae9A7Yv)
- - 😝 [Shawshank redeem](http://9gag.com/gag/a4PEwEp)
- - 💣 [Growing up bober](http://9gag.com/gag/abAVRq8)
+ - 😝 [She must work on a dairy farm\u2026](http://9gag.com/gag/aRBXoqB)
+ - 😝 [Marisa Tomei turns 60 today and aged beautifully.](http://9gag.com/gag/ayNMvzX)
+ - 💣 [My fellow Anime enthusiast](http://9gag.com/gag/a34EWv3)
  - 😝 [Blasting some duckin&#39; sick beats! \ud83e\udd86\ud83d\udca5](http://9gag.com/gag/aYQoRx2)
- - 👉 [You fight like a man, you lose like a man.](http://9gag.com/gag/a2v7OOZ)<!-- MEMES:END -->
+ - 👉 [It&#39;s 2003, and these two students didn&#39;t realize they just made a massive hit song.](http://9gag.com/gag/aBy2O4Q)<!-- MEMES:END -->
 
 ---
 

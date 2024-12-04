@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [A well trained fiance](http://9gag.com/gag/aD2dVyB)
- - 😝 [Stacy&#39;s mom has been spending a lot of time in the pool](http://9gag.com/gag/aAybXWE)
- - 💣 [Stopping time](http://9gag.com/gag/a9yE2YK)
- - 😝 [Mr jobs why did you die](http://9gag.com/gag/a7oE9Eb)
- - 👉 [Merry Xmas](http://9gag.com/gag/a9yE2MZ)<!-- MEMES:END -->
+ - 😝 [Awww, that&#39;s nice..wait..what?!](http://9gag.com/gag/adB8nG9)
+ - 😝 [It&#39;s 2003, and these two students didn&#39;t realize they just made a massive hit song.](http://9gag.com/gag/aBy2O4Q)
+ - 💣 [A well trained fiance](http://9gag.com/gag/aD2dVyB)
+ - 😝 [`I don&#39;t even know what I&#39;m doing here`](http://9gag.com/gag/aKG6OwQ)
+ - 👉 [Who put a step in the middle of the road?](http://9gag.com/gag/aNDp4NG)<!-- MEMES:END -->
 
 ---
 

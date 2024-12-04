@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [What a new threat report says about Mac malware in 2024](https://appleinsider.com/articles/24/12/04/what-a-new-threat-report-says-about-mac-malware-in-2024?utm_medium=rss)
- - [Mira Murati Quit OpenAI. She’s as Optimistic as Ever About AGI](https://www.wired.com/story/big-interview-mira-murati-2024/)
- - [Bluesky COO Rose Wang rejects the idea the social network is &quot;left-leaning&quot; and says Bluesky plans to launch a subscription service by the end of this year &lpar;Bloomberg&rpar;](http://www.techmeme.com/241203/p35#a241203p35)
- - [Struggling With Early Sunset? Try These 9 Hacks for Driving Safer at Night](https://www.cnet.com/health/personal-care/struggling-with-early-sunset-try-these-9-hacks-for-driving-safer-at-night/#ftag=CAD590a51e)
- - [At Only $210, This Toshiba 4K TV Is an Extended Cyber Monday Deal That’s Too Good to Ignore](https://www.cnet.com/deals/only-210-toshiba-4k-tv-deal-too-good-to-ignore-cyber-monday/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Brian Chesky Says Big Things Are Coming for Airbnb in 2025](https://www.wired.com/story/big-interview-airbnb-brian-chesky-2024/)
+ - [AWS introduces Amazon Aurora DSQL, a new serverless, distributed SQL database that promises high availability, strong consistency, and PostgreSQL compatibility &lpar;Frederic Lardinois/TechCrunch&rpar;](http://www.techmeme.com/241203/p36#a241203p36)
+ - [Jensen Huang Wants to Make AI the New World Infrastructure](https://www.wired.com/story/big-interview-nvidia-jensen-huang-2024/)
+ - [OpenAI Poaches 3 Top Engineers From DeepMind](https://www.wired.com/story/openai-hires-deepmind-zurich/)
+ - [The Best Protein Powders in 2024](https://www.cnet.com/health/fitness/best-protein-powders/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

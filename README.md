@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [M5 iPad Pro rumored to arrive sometime in late 2025](https://appleinsider.com/articles/24/12/04/m5-ipad-pro-rumored-to-arrive-sometime-in-late-2025?utm_medium=rss)
  - [Razer BlackWidow V4 Pro 75% Review: High Tech, High Price](https://www.wired.com/review/razer-blackwidow-v4-pro-75/)
  - [Veeam, which helps secure and recover data, raised $2B via a secondary share sale led by TPG that valued it at $15B; Insight bought Veeam for $5B in early 2020 &lpar;Rebecca Szkutak/TechCrunch&rpar;](http://www.techmeme.com/241204/p31#a241204p31)
  - [Spotify says Joe Rogan was its top US podcast in 2024 for the fourth year running, followed by Call Her Daddy, and 33%+ of the top 50 podcasts were video &lpar;Todd Spangler/Variety&rpar;](http://www.techmeme.com/241204/p30#a241204p30)
- - [Spotify launches Spotify Wrapped, adding an AI podcast of users&#39; 2024 Wrapped via Google&#39;s AI summarization tool NotebookLM, and a Your Music Evolution feature &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/241204/p29#a241204p29)
- - [Vitamix Ascent X2 Review: The Ferrari of Blenders](https://www.wired.com/review/vitamix-ascent-x2/)<!-- TECH:END -->
+ - [Spotify launches Spotify Wrapped, adding an AI podcast of users&#39; 2024 Wrapped created with Google&#39;s NotebookLM summarizer, and a Your Music Evolution data story &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/241204/p29#a241204p29)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

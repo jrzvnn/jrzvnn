@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Merry Xmas](http://9gag.com/gag/a9yE2MZ)
  - 😝 [It&#39;s 2003, and these two students didn&#39;t realize they just made a massive hit song.](http://9gag.com/gag/aBy2O4Q)
- - 💣 [Germoney.](http://9gag.com/gag/a4PEwww)
- - 😝 [Blasting some duckin&#39; sick beats! \ud83e\udd86\ud83d\udca5](http://9gag.com/gag/aYQoRx2)
- - 👉 [`I don&#39;t even know what I&#39;m doing here`](http://9gag.com/gag/aKG6OwQ)<!-- MEMES:END -->
+ - 😝 [`I don&#39;t even know what I&#39;m doing here`](http://9gag.com/gag/aKG6OwQ)
+ - 💣 [Blasting some duckin&#39; sick beats! \ud83e\udd86\ud83d\udca5](http://9gag.com/gag/aYQoRx2)
+ - 😝 [You fight like a man, you lose like a man.](http://9gag.com/gag/a2v7OOZ)
+ - 👉 [Germoney.](http://9gag.com/gag/a4PEwww)<!-- MEMES:END -->
 
 ---
 

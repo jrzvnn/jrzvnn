@@ -166,10 +166,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [`I don&#39;t even know what I&#39;m doing here`](http://9gag.com/gag/aKG6OwQ)
- - 😝 [Pauline Grabosch is the biggest asset of the German track cycling team](http://9gag.com/gag/aryM240)
- - 💣 [Mr jobs why did you die](http://9gag.com/gag/a7oE9Eb)
+ - 😝 [Mr jobs why did you die](http://9gag.com/gag/a7oE9Eb)
  - 😝 [Anakin and Padm\u00e9](http://9gag.com/gag/azxMGZz)
+ - 💣 [It&#39;s 2003, and these two students didn&#39;t realize they just made a massive hit song.](http://9gag.com/gag/aBy2O4Q)
+ - 😝 [Blasting some duckin&#39; sick beats! \ud83e\udd86\ud83d\udca5](http://9gag.com/gag/aYQoRx2)
  - 👉 [Stacy&#39;s mom has been spending a lot of time in the pool](http://9gag.com/gag/aAybXWE)<!-- MEMES:END -->
 
 ---

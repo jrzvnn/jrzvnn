@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [His parents must not be home](http://9gag.com/gag/azxMRxm)
- - 😝 [Congratulations.](http://9gag.com/gag/a87EKQe)
- - 💣 [Merry Xmas](http://9gag.com/gag/a9yE2MZ)
+ - 😝 [Who put a step in the middle of the road?](http://9gag.com/gag/aNDp4NG)
+ - 😝 [Never trust a murderous, paranoid schizophrenic](http://9gag.com/gag/a6ZE2yb)
+ - 💣 [May I trim your hedges?](http://9gag.com/gag/aoyMLmn)
  - 😝 [Blasting some duckin&#39; sick beats! \ud83e\udd86\ud83d\udca5](http://9gag.com/gag/aYQoRx2)
- - 👉 [Never trust a murderous, paranoid schizophrenic](http://9gag.com/gag/a6ZE2yb)<!-- MEMES:END -->
+ - 👉 [Congratulations.](http://9gag.com/gag/a87EKQe)<!-- MEMES:END -->
 
 ---
 

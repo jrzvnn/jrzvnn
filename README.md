@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Founders Fund&#39;s Brian Singerman, one of the earliest employees of Peter Thiel&#39;s VC firm and best known for investments in SpaceX and Anduril, steps down as a GP &lpar;Ari Levy/CNBC&rpar;](http://www.techmeme.com/241204/p5#a241204p5)
- - [Meta says AI content made up less than 1% of election-related misinformation on its apps during major elections in the US, the UK, India, Indonesia, and others &lpar;Aisha Malik/TechCrunch&rpar;](http://www.techmeme.com/241204/p4#a241204p4)
- - [Best Cyber Monday Deals 2024: 85 Deals You Can Still Score Now](https://www.cnet.com/deals/best-cyber-monday-deals-live-2024-12-04/#ftag=CAD590a51e)
- - [Telegram agrees to work with the IWF to stop the spread of CSAM; IWF calls Telegram&#39;s decision &quot;transformational&quot; and the first step in a &quot;much longer journey&quot; &lpar;Joe Tidy/BBC&rpar;](http://www.techmeme.com/241204/p3#a241204p3)
- - [Salesforce says online Cyber Monday sales grew 3% YoY to $49.7B globally and just 2% YoY to $12.8B in the US; Adobe says US online sales grew 7.3% YoY to $13.3B &lpar;Ingrid Lunden/TechCrunch&rpar;](http://www.techmeme.com/241204/p2#a241204p2)<!-- TECH:END -->
+ - [Online secondhand fashion marketplace ThredUP, whose market cap dropped from $1.3B at its 2021 IPO to just $60M in November 2024, divests its European business &lpar;Paul Sawers/TechCrunch&rpar;](http://www.techmeme.com/241204/p7#a241204p7)
+ - [Apptopia: Truth Social had 355,000 DAUs in November, up 3% MoM after Donald Trump won the election; Trump posted 200+ times in the four weeks since the election &lpar;Bailey Lipschultz/Bloomberg&rpar;](http://www.techmeme.com/241204/p6#a241204p6)
+ - [Save 80% with Nomad Coupon in December 2024](https://www.wired.com/story/nomad-discount-code/)
+ - [Exclusive Shed Rain Coupon: 15% Off](https://www.wired.com/story/shed-rain-coupon/)
+ - [Founders Fund&#39;s Brian Singerman, one of the earliest employees of Peter Thiel&#39;s VC firm and best known for investments in SpaceX and Anduril, steps down as a GP &lpar;Ari Levy/CNBC&rpar;](http://www.techmeme.com/241204/p5#a241204p5)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

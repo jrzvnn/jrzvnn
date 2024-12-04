@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [She Was a Russian Socialite and Influencer. Cops Say She’s a Crypto Laundering Kingpin](https://www.wired.com/story/operation-destabilise-money-laundering/)
  - [Xreal’s new glasses are a surprisingly good TV for your face](https://www.theverge.com/2024/12/4/24312269/xreal-one-ar-glasses-release-news)
- - [The Smart Meat Thermometer I Trusted for Thanksgiving Is Now on Sale: Get Three for the Price of Two](https://www.cnet.com/deals/the-smart-thermometer-i-drove-1100-miles-across-country-for-thanksgiving-is-on-sale-now/#ftag=CAD590a51e)
- - [Best Cyber Monday Deals 2024: These Are the Top 82 Incredible Deals Still Available Today](https://www.cnet.com/deals/best-cyber-monday-deals-live-2024-12-04/#ftag=CAD590a51e)
- - [This Mini Lantern Is Great for Camping and Is Still 25% Off After Cyber Monday](https://www.cnet.com/deals/this-mini-lantern-is-great-for-camping-and-is-still-25-off-after-cyber-monday/#ftag=CAD590a51e)
- - [Govee’s smart Christmas tree lights are cheaper than ever](https://www.theverge.com/2024/12/4/24312195/govees-smart-christmas-tree-lights-are-cheaper-than-ever)<!-- TECH:END -->
+ - [Govee’s smart Christmas tree lights are cheaper than ever](https://www.theverge.com/2024/12/4/24312195/govees-smart-christmas-tree-lights-are-cheaper-than-ever)
+ - [Sam Altman says OpenAI plans to kick off a &quot;shipmas&quot; period of features and products for 12 days on December 5, sources say including text-to-video AI tool Sora &lpar;The Verge&rpar;](http://www.techmeme.com/241204/p38#a241204p38)
+ - [OpenAI’s 12 days of ‘shipmas’ include Sora and new reasoning model](https://www.theverge.com/2024/12/4/24312352/openai-sora-o1-reasoning-12-days-shipmas)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [This is madness](http://9gag.com/gag/aO83PxM)
- - 😝 [Mischief managed](http://9gag.com/gag/awyMdwD)
- - 💣 [South Korea Special Forces rebels easily neutralized by Tai Chi veteran news reporter](http://9gag.com/gag/aD2dXNd)
+ - 😝 [Infinite Aura](http://9gag.com/gag/a0e7Edv)
+ - 😝 [Somebody please tell her](http://9gag.com/gag/a6ZEB0L)
+ - 💣 [`I don&#39;t even know what I&#39;m doing here`](http://9gag.com/gag/aKG6OwQ)
  - 😝 [Blasting some duckin&#39; sick beats! \ud83e\udd86\ud83d\udca5](http://9gag.com/gag/aYQoRx2)
- - 👉 [I am aint even mad and wont complain about it.](http://9gag.com/gag/an7QEwV)<!-- MEMES:END -->
+ - 👉 [It&#39;s 2003, and these two students didn&#39;t realize they just made a massive hit song.](http://9gag.com/gag/aBy2O4Q)<!-- MEMES:END -->
 
 ---
 

@@ -166,9 +166,9 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Who put a step in the middle of the road?](http://9gag.com/gag/aNDp4NG)
- - 😝 [Never trust a murderous, paranoid schizophrenic](http://9gag.com/gag/a6ZE2yb)
- - 💣 [May I trim your hedges?](http://9gag.com/gag/aoyMLmn)
+ - 😝 [Colombia&#39;s most wanted sicaria has finally been captured](http://9gag.com/gag/ayNMP8V)
+ - 😝 [Funeral in Ghana](http://9gag.com/gag/aXPo25b)
+ - 💣 [Germoney.](http://9gag.com/gag/a4PEwww)
  - 😝 [Blasting some duckin&#39; sick beats! \ud83e\udd86\ud83d\udca5](http://9gag.com/gag/aYQoRx2)
  - 👉 [Congratulations.](http://9gag.com/gag/a87EKQe)<!-- MEMES:END -->
 

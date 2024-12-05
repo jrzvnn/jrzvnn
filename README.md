@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [6 Best Food Processors &lpar;2024&rpar;, Tested and Reviewed](https://www.wired.com/gallery/best-food-processors/)
+ - [Oura’s smart rings can now tell when you’re getting sick](https://www.theverge.com/2024/12/5/24313465/oura-symptom-radar-illness-wearable-smart-ring)
+ - [Rivian opens up its charging network to other EVs for the first time](https://www.theverge.com/2024/12/5/24313327/rivian-ev-charging-open-up-joshua-tree)
  - [Rumor roundup: iPhone SE 4 could be a low-priced Apple Intelligence powerhouse](https://appleinsider.com/articles/24/12/05/rumor-roundup-iphone-se-4-could-be-a-low-priced-apple-intelligence-powerhouse?utm_medium=rss)
- - [OpenAI strikes content deal with Tom’s Guide owner Future](https://www.theverge.com/2024/12/5/24313909/openai-content-deal-toms-guide-future)
- - [Chainalysis names co-founder Jonathan Levin as CEO, replacing co-founder Michael Gronager, who took a temporary personal leave of absence in October 2024 &lpar;Connie Loizos/TechCrunch&rpar;](http://www.techmeme.com/241205/p25#a241205p25)
- - [How one creator visualized AI by using very little AI](https://www.theverge.com/2024/12/5/24306548/stormy-pyeatte-friend-or-faux-ai-interview)
- - [In Sam Altman We Trust?](https://www.wired.com/story/uncanny-valley-podcast-5-in-sam-altman-we-trust/)<!-- TECH:END -->
+ - [OpenAI strikes content deal with Tom’s Guide owner Future](https://www.theverge.com/2024/12/5/24313909/openai-content-deal-toms-guide-future)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

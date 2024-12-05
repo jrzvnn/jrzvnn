@@ -161,7 +161,7 @@ R                        1 repo              ░░░░░░░░░░░�
  - [OpenAI strikes content deal with Tom’s Guide owner Future](https://www.theverge.com/2024/12/5/24313909/openai-content-deal-toms-guide-future)
  - [Chainalysis names co-founder Jonathan Levin as CEO, replacing co-founder Michael Gronager, who took a temporary personal leave of absence in October 2024 &lpar;Connie Loizos/TechCrunch&rpar;](http://www.techmeme.com/241205/p25#a241205p25)
  - [How one creator visualized AI by using very little AI](https://www.theverge.com/2024/12/5/24306548/stormy-pyeatte-friend-or-faux-ai-interview)
- - [Why Apple&#39;s Future Could Depend on Siri](https://www.cnet.com/tech/mobile/why-apples-future-could-depend-on-siri/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [In Sam Altman We Trust?](https://www.wired.com/story/uncanny-valley-podcast-5-in-sam-altman-we-trust/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

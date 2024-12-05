@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple wants faster RAM in the iPhone to help speed up Apple Intelligence](https://appleinsider.com/articles/24/12/05/apple-wants-faster-ram-in-the-iphone-to-help-speed-up-apple-intelligence?utm_medium=rss)
- - [Waymo says it will expand its fleet into Miami in 2025 with human safety drivers and plans to open up paid rides to local users via its Waymo One app by 2026 &lpar;CNBC&rpar;](http://www.techmeme.com/241205/p27#a241205p27)
- - [Five Easy Ways to Remove Coffee Stains From Your Favorite Mug](https://www.cnet.com/how-to/the-easiest-methods-to-remove-stubborn-coffee-stains-from-your-mugs/#ftag=CAD590a51e)
- - [Unlocked Galaxy S24 Phones Start as Low as $400 in This Pre-Christmas Blowout](https://www.cnet.com/deals/unlocked-galaxy-s24-phones-start-as-low-as-400-in-this-pre-christmas-blowout/#ftag=CAD590a51e)
- - [Sources: Meta is shifting part of the development and design of MR headsets to Chinese manufacturer Goertek and moving half of production to Vietnam from China &lpar;The Information&rpar;](http://www.techmeme.com/241205/p26#a241205p26)<!-- TECH:END -->
+ - [Trans Americans Are Turning to TikTok to Crowdfund Their Relocations](https://www.wired.com/story/trans-americans-are-turning-to-tiktok-to-crowdfund-their-relocations/)
+ - [9 Best MagSafe Power Banks for iPhones &lpar;2024&rpar;, Tested and Reviewed](https://www.wired.com/gallery/best-magsafe-power-banks/)
+ - [EA adds more tech patents to its accessibility program](https://www.theverge.com/2024/12/5/24314026/ea-electronic-arts-expands-accessibility-pledge-tech-patents)
+ - [Master &amp; Dynamic revived a pair of wired earphones](https://www.theverge.com/2024/12/5/24314000/master-dynamic-headphones-wired-earphones-me05)
+ - [Apple wants faster RAM in the iPhone to help speed up Apple Intelligence](https://appleinsider.com/articles/24/12/05/apple-wants-faster-ram-in-the-iphone-to-help-speed-up-apple-intelligence?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

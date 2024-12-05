@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Mischief managed](http://9gag.com/gag/awyMdwD)
- - 😝 [My fellow Anime enthusiast](http://9gag.com/gag/a34EWv3)
- - 💣 [A baby elephant was rescued after becoming stuck between tree stumps for a day in Zimbabwe](http://9gag.com/gag/axyMR5n)
+ - 😝 [Title](http://9gag.com/gag/aVv7R1n)
+ - 😝 [My first Cmas Repost](http://9gag.com/gag/aVv7BQy)
+ - 💣 [Germoney.](http://9gag.com/gag/a4PEwww)
  - 😝 [Blasting some duckin&#39; sick beats! \ud83e\udd86\ud83d\udca5](http://9gag.com/gag/aYQoRx2)
- - 👉 [A well trained fiance](http://9gag.com/gag/aD2dVyB)<!-- MEMES:END -->
+ - 👉 [Real rap](http://9gag.com/gag/an7QGPn)<!-- MEMES:END -->
 
 ---
 

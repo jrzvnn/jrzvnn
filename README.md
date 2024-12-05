@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Apple Savings APY hits new low of 3.90% after Federal Reserve rate cut](https://appleinsider.com/articles/24/12/05/apple-savings-apy-hits-new-low-of-390-after-federal-reserve-rate-cut?utm_medium=rss)
+ - [Bitcoin just hit $100,000](https://www.theverge.com/2024/12/4/24303204/bitcoin-price-hit-100000)
  - [Some Spotify users are left underwhelmed by 2024&#39;s Spotify Wrapped, complaining about the inclusion of an AI podcast, a lack of detailed statistics, and more &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/241204/p54#a241204p54)
  - [Former Apple employees allegedly stole $152k through donation matching scam](https://appleinsider.com/articles/24/12/05/former-apple-employees-allegedly-stole-152k-through-donation-matching-scam?utm_medium=rss)
- - [Bitcoin reached $100K for the first time after rallying ~126% since January 2024, driven by Bitcoin ETF demand, April&#39;s halving, and Donald Trump&#39;s election win &lpar;Helen Partz/Cointelegraph&rpar;](http://www.techmeme.com/241204/p53#a241204p53)
- - [TikTok Shop says its US sales tripled to over $100M on Black Friday and it drew a 165% annual increase in shoppers on the two days leading up to Cyber Monday &lpar;Alexandra S. Levine/Bloomberg&rpar;](http://www.techmeme.com/241204/p52#a241204p52)
- - [The White House says the Salt Typhoon hack has impacted eight telecom firms in the US, with dozens of other countries also affected, for as long as two years &lpar;Greg Otto/CyberScoop&rpar;](http://www.techmeme.com/241204/p51#a241204p51)<!-- TECH:END -->
+ - [Bitcoin reached $100K for the first time after rallying ~126% since January 2024, driven by Bitcoin ETF demand, April&#39;s halving, and Donald Trump&#39;s election win &lpar;Helen Partz/Cointelegraph&rpar;](http://www.techmeme.com/241204/p53#a241204p53)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

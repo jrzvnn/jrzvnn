@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Stacy&#39;s mom has been spending a lot of time in the pool](http://9gag.com/gag/aAybXWE)
  - 😝 [Operation friend](http://9gag.com/gag/aD2dPod)
+ - 😝 [This cyclist has been spitting on his car for weeks, until the owner had an idea](http://9gag.com/gag/aNDpjp4)
  - 💣 [Pauline Grabosch is the biggest asset of the German track cycling team](http://9gag.com/gag/aryM240)
  - 😝 [Infinite Aura](http://9gag.com/gag/a0e7Edv)
- - 👉 [This cyclist has been spitting on his car for weeks, until the owner had an idea](http://9gag.com/gag/aNDpjp4)<!-- MEMES:END -->
+ - 👉 [Your order](http://9gag.com/gag/aNDp326)<!-- MEMES:END -->
 
 ---
 

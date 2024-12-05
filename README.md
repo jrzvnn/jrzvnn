@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Good Man](http://9gag.com/gag/aW4jDVx)
- - 😝 [Your order](http://9gag.com/gag/aNDp326)
- - 💣 [Does this count?](http://9gag.com/gag/agmBdR1)
- - 😝 [Germoney.](http://9gag.com/gag/a4PEwww)
- - 👉 [UnitedHealthcare CEO Brian Thompson shot dead](http://9gag.com/gag/awyMvdx)<!-- MEMES:END -->
+ - 😝 [True Friendship](http://9gag.com/gag/axyMAXD)
+ - 😝 [Congratulations.](http://9gag.com/gag/a87EKQe)
+ - 💣 [I hope the CEO had life insurance](http://9gag.com/gag/apRNjED)
+ - 😝 [In June 2019, the 350 residents of Sommaroy\u2014which translates into \u201cSummer Island\u201d\u2014signed a petition to make their home the worlds first time-free zone](http://9gag.com/gag/aoyMdqn)
+ - 👉 [Let&#39;s fight racism together! Say NO to other colors!](http://9gag.com/gag/aRBXNeM)<!-- MEMES:END -->
 
 ---
 

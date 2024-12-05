@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Does this count?](http://9gag.com/gag/agmBdR1)
+ - 😝 [Good Man](http://9gag.com/gag/aW4jDVx)
  - 😝 [This cyclist has been spitting on his car for weeks, until the owner had an idea](http://9gag.com/gag/aNDpjp4)
- - 💣 [UnitedHealthcare CEO Brian Thompson shot dead](http://9gag.com/gag/awyMvdx)
- - 😝 [Well.. that&#39;s embarrassing](http://9gag.com/gag/aE0pQ2o)
- - 👉 [Nothing, ungrateful sons of b*tches. Not even a coffee cup](http://9gag.com/gag/aKG6LKb)<!-- MEMES:END -->
+ - 💣 [It&#39;s 2003, and these two students didn&#39;t realize they just made a massive hit song.](http://9gag.com/gag/aBy2O4Q)
+ - 😝 [UnitedHealthcare CEO Brian Thompson shot dead](http://9gag.com/gag/awyMvdx)
+ - 👉 [The end won&#39;t disappoint like OP](http://9gag.com/gag/aoyMDXx)<!-- MEMES:END -->
 
 ---
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [It&#39;s 2003, and these two students didn&#39;t realize they just made a massive hit song.](http://9gag.com/gag/aBy2O4Q)
- - 😝 [`I don&#39;t even know what I&#39;m doing here`](http://9gag.com/gag/aKG6OwQ)
- - 💣 [Blasting some duckin&#39; sick beats! \ud83e\udd86\ud83d\udca5](http://9gag.com/gag/aYQoRx2)
- - 😝 [You fight like a man, you lose like a man.](http://9gag.com/gag/a2v7OOZ)
- - 👉 [Germoney.](http://9gag.com/gag/a4PEwww)<!-- MEMES:END -->
+ - 😝 [Best ad ever](http://9gag.com/gag/aYQoRMq)
+ - 😝 [`Dude, I ain&#39;t fluent in Spanish, so I&#39;m totally lost on why this dude&#39;s flipping his lid.`](http://9gag.com/gag/aGyp2RK)
+ - 💣 [Stay On Target](http://9gag.com/gag/a87E296)
+ - 😝 [Blasting some duckin&#39; sick beats! \ud83e\udd86\ud83d\udca5](http://9gag.com/gag/aYQoRx2)
+ - 👉 [A well trained fiance](http://9gag.com/gag/aD2dVyB)<!-- MEMES:END -->
 
 ---
 

@@ -167,10 +167,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [This cyclist has been spitting on his car for weeks, until the owner had an idea](http://9gag.com/gag/aNDpjp4)
- - 😝 [Does this count?](http://9gag.com/gag/agmBdR1)
- - 💣 [What the lol](http://9gag.com/gag/aW4jD5n)
  - 😝 [It&#39;s 2003, and these two students didn&#39;t realize they just made a massive hit song.](http://9gag.com/gag/aBy2O4Q)
- - 👉 [We miss you Alan](http://9gag.com/gag/apRNjKD)<!-- MEMES:END -->
+ - 💣 [Does this count?](http://9gag.com/gag/agmBdR1)
+ - 😝 [Rumor has it she\u2019s still trying to pronounce it](http://9gag.com/gag/ae9A7Yv)
+ - 👉 [Pauline Grabosch is the biggest asset of the German track cycling team](http://9gag.com/gag/aryM240)<!-- MEMES:END -->
 
 ---
 

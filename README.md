@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Sources: TSMC is in discussions with Nvidia to make its Blackwell AI chips at TSMC&#39;s new Arizona plant starting in early 2025, expanding on Taiwan production &lpar;Reuters&rpar;](http://www.techmeme.com/241205/p23#a241205p23)
+ - [US authorities: Dubai has quietly become a leading home for crypto scamming in the past decade, including Ponzi and pyramid schemes that made $3.4B+ since 2017 &lpar;Alice Kantor/Bloomberg&rpar;](http://www.techmeme.com/241205/p22#a241205p22)
+ - [The Future of TikTok Is Being Decided This Week](https://www.wired.com/story/future-of-tiktok-appeals-court/)
  - [A look at the logistics network of Amazon, Walmart and Target for same-day or next-day delivery; Walmart says it now offers same-day to 86% of US households &lpar;Jordyn Holman/New York Times&rpar;](http://www.techmeme.com/241205/p21#a241205p21)
- - [The Best Gifts for the Beverage Enthusiast in Your Life &lpar;2024&rpar;](https://www.wired.com/story/best-gifts-for-the-beverage-enthusiast-in-your-life/)
- - [She Escaped An Abusive Marriage—Now She Helps Women Battle Cyber Harassment](https://www.wired.com/story/nighat-dad-digital-rights-foundation/)
- - [Meta plans to invest $10B to build a data center in Louisiana, in what would be its largest data center in the world, and expects work to start in December &lpar;Reuters&rpar;](http://www.techmeme.com/241205/p20#a241205p20)
- - [Sources: AT&amp;T, JPMorgan, and Dunkin&#39; pull ads from Twitch after a controversial group of livestreamers alleged that Twitch is promoting antisemitic content &lpar;Cecilia D&#39;Anastasio/Bloomberg&rpar;](http://www.techmeme.com/241205/p19#a241205p19)<!-- TECH:END -->
+ - [The Best Gifts for the Beverage Enthusiast in Your Life &lpar;2024&rpar;](https://www.wired.com/story/best-gifts-for-the-beverage-enthusiast-in-your-life/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

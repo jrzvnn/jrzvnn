@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Title](http://9gag.com/gag/aVv7R1n)
- - 😝 [Germoney.](http://9gag.com/gag/a4PEwww)
- - 💣 [My first Cmas Repost](http://9gag.com/gag/aVv7BQy)
+ - 😝 [My fellow Anime enthusiast](http://9gag.com/gag/a34EWv3)
+ - 😝 [It&#39;s 2003, and these two students didn&#39;t realize they just made a massive hit song.](http://9gag.com/gag/aBy2O4Q)
+ - 💣 [Pauline Grabosch is the biggest asset of the German track cycling team](http://9gag.com/gag/aryM240)
  - 😝 [Blasting some duckin&#39; sick beats! \ud83e\udd86\ud83d\udca5](http://9gag.com/gag/aYQoRx2)
- - 👉 [Dudes rock](http://9gag.com/gag/an7QGQ0)<!-- MEMES:END -->
+ - 👉 [Stacy&#39;s mom has been spending a lot of time in the pool](http://9gag.com/gag/aAybXWE)<!-- MEMES:END -->
 
 ---
 

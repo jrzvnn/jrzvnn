@@ -157,7 +157,7 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Bluesky CEO Jay Graber says it is not &quot;necessarily true&quot; that Bluesky will always be free of advertising, and ads on the service could be &quot;user intent-driven&quot; &lpar;Maxwell Zeff/TechCrunch&rpar;](http://www.techmeme.com/241205/p36#a241205p36)
+ - [Bluesky CEO Jay Graber says it is not &quot;necessarily true&quot; that Bluesky will always be ad-free; ads could be &quot;user intent-driven&quot;, like running in search results &lpar;Maxwell Zeff/TechCrunch&rpar;](http://www.techmeme.com/241205/p36#a241205p36)
  - [Indiana Jones and the Great Circle’s early access period won’t include full ray tracing](https://www.theverge.com/2024/12/5/24314171/indiana-jones-and-the-great-circle-early-access-full-ray-tracing)
  - [Holiday coupon: save up to $300 on every 14&quot; &amp; 16&quot; MacBook Pro M4](https://appleinsider.com/articles/24/12/05/holiday-coupon-save-up-to-300-on-every-14-16-macbook-pro-m4?utm_medium=rss)
  - [Apple issues release candidates for iOS 18.2, iPadOS 18.2, macOS Sequoia 15.2](https://appleinsider.com/articles/24/12/05/apple-issues-release-candidates-for-ios-182-ipados-182-macos-sequoia-152?utm_medium=rss)

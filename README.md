@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [10 Best Travel Adapters 2024: Top Picks to Keep Devices Charged](https://www.wired.com/gallery/best-travel-adapters/)
- - [Why investors don’t mind that AI is a money pit](https://www.theverge.com/2024/12/5/24313373/ai-spending-enterprise-profits-investment-menlo-ventures-openai-anthropic-decoder-podcast)
- - [Waymo’s next robotaxi city will be Miami](https://www.theverge.com/2024/12/5/24313346/waymo-miami-robotaxi-moove-2026)
- - [Amazon’s Secret Level is a hollow anthology of video game cutscenes](https://www.theverge.com/24313309/secret-level-review-amazon-prime-video)
- - [This new smart thermostat from Meross works with Matter](https://www.theverge.com/2024/12/5/24313941/meross-matter-smart-thermostat-release-date-price-specs)<!-- TECH:END -->
+ - [Five Easy Ways to Remove Coffee Stains From Your Favorite Mug](https://www.cnet.com/how-to/the-easiest-methods-to-remove-stubborn-coffee-stains-from-your-mugs/#ftag=CAD590a51e)
+ - [Unlocked Galaxy S24 Phones Start as Low as $400 in This Pre-Christmas Blowout](https://www.cnet.com/deals/unlocked-galaxy-s24-phones-start-as-low-as-400-in-this-pre-christmas-blowout/#ftag=CAD590a51e)
+ - [Sources: Meta is shifting part of the development and design of MR headsets to Chinese manufacturer Goertek and moving half of production to Vietnam from China &lpar;The Information&rpar;](http://www.techmeme.com/241205/p26#a241205p26)
+ - [Xbox Game Pass Ultimate Is an Even Better Value at $21 Off](https://www.cnet.com/deals/3-months-xbox-game-pass-ultimate-woot-deal/#ftag=CAD590a51e)
+ - [10 Best Travel Adapters 2024: Top Picks to Keep Devices Charged](https://www.wired.com/gallery/best-travel-adapters/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -166,10 +166,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Nothing, ungrateful sons of b*tches. Not even a coffee cup](http://9gag.com/gag/aKG6LKb)
- - 😝 [It&#39;s 2003, and these two students didn&#39;t realize they just made a massive hit song.](http://9gag.com/gag/aBy2O4Q)
- - 💣 [Does this count?](http://9gag.com/gag/agmBdR1)
- - 😝 [Pauline Grabosch is the biggest asset of the German track cycling team](http://9gag.com/gag/aryM240)
+ - 😝 [True Friendship](http://9gag.com/gag/axyMAXD)
+ - 😝 [Congratulations.](http://9gag.com/gag/a87EKQe)
+ - 💣 [In June 2019, the 350 residents of Sommaroy\u2014which translates into \u201cSummer Island\u201d\u2014signed a petition to make their home the worlds first time-free zone](http://9gag.com/gag/aoyMdqn)
+ - 😝 [Let&#39;s fight racism together! Say NO to other colors!](http://9gag.com/gag/aRBXNeM)
  - 👉 [We miss you Alan](http://9gag.com/gag/apRNjKD)<!-- MEMES:END -->
 
 ---

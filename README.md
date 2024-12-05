@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [CCData: crypto trading volume hit an all-time high in November, with $10T+ of assets traded for the first time on centralized spot and derivatives exchanges &lpar;Olga Kharif/Bloomberg&rpar;](http://www.techmeme.com/241205/p11#a241205p11)
+ - [We’ve Never Been Closer to Finding Life Outside Our Solar System](https://www.wired.com/story/james-webb-space-telescope-signs-of-life/)
  - [A deep dive into Amazon&#39;s Trainium2, which shows the company is on a path to eventually provide competitive custom AI chips, especially for LLM inference &lpar;SemiAnalysis&rpar;](http://www.techmeme.com/241205/p10#a241205p10)
  - [Intel interim co-CEO David Zinsner maintains Intel&#39;s financial forecast and says he expects the next CEO to have some capability around both foundry and product &lpar;Zaheer Kachwala/Reuters&rpar;](http://www.techmeme.com/241205/p9#a241205p9)
- - [At the DealBook Summit, Sundar Pichai said he would love to do a side-by-side comparison of Google and Microsoft&#39;s AI models, and expressed optimism about Trump &lpar;Nico Grant/New York Times&rpar;](http://www.techmeme.com/241205/p8#a241205p8)
- - [Four Chinese state-backed industry groups, representing most of China&#39;s chip demand, urge members to drop US chips, calling them &quot;no longer safe or reliable&quot; &lpar;Reuters&rpar;](http://www.techmeme.com/241205/p7#a241205p7)
- - [Enterpret, which lets companies automatically extract insights from customer feedback, raised a $20.8M Series A led by Canaan, bringing its total raised to $25M &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/241205/p6#a241205p6)<!-- TECH:END -->
+ - [At the DealBook Summit, Sundar Pichai said he would love to do a side-by-side comparison of Google and Microsoft&#39;s AI models, and expressed optimism about Trump &lpar;Nico Grant/New York Times&rpar;](http://www.techmeme.com/241205/p8#a241205p8)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

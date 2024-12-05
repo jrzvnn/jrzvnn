@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Google will support the Pixel 6, 7, and Fold with two extra years of OS updates](https://www.theverge.com/2024/12/5/24314389/google-pixel-6-7-fold-update-schedule-android-16-17)
  - [iOS 18.2 is nearing its public release and it&#39;s packed with AI features](https://appleinsider.com/articles/24/12/05/ios-182-is-nearing-its-public-release-and-its-packed-with-ai-features?utm_medium=rss)
  - [Google just made it easier to turn off personalized search results](https://www.theverge.com/2024/12/5/24314402/google-turn-off-personalized-search-results)
  - [US phone companies could face fines for weak security under a proposed new rule](https://www.theverge.com/2024/12/5/24314330/fcc-telecom-security-rule-salt-typhoon-hack)
- - [Oura rolls out Symptom Radar, a feature that tries to detect early signs of sickness using biometrics like heart rate variability, to Oura Ring Gen 3 and 4 &lpar;Victoria Song/The Verge&rpar;](http://www.techmeme.com/241205/p42#a241205p42)
- - [Save a massive $235 with this bundle of 13 Mac apps](https://appleinsider.com/articles/24/12/05/save-a-massive-235-with-this-bundle-of-13-mac-apps?utm_medium=rss)<!-- TECH:END -->
+ - [Oura rolls out Symptom Radar, a feature that tries to detect early signs of sickness using biometrics like heart rate variability, to Oura Ring Gen 3 and 4 &lpar;Victoria Song/The Verge&rpar;](http://www.techmeme.com/241205/p42#a241205p42)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

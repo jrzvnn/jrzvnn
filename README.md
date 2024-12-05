@@ -166,10 +166,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [Good Man](http://9gag.com/gag/aW4jDVx)
+ - 😝 [Your order](http://9gag.com/gag/aNDp326)
+ - 💣 [Does this count?](http://9gag.com/gag/agmBdR1)
  - 😝 [Germoney.](http://9gag.com/gag/a4PEwww)
- - 😝 [When a nation gets its shit together](http://9gag.com/gag/a1mrxWv)
- - 💣 [Your order](http://9gag.com/gag/aNDp326)
- - 😝 [It&#39;s 2003, and these two students didn&#39;t realize they just made a massive hit song.](http://9gag.com/gag/aBy2O4Q)
  - 👉 [UnitedHealthcare CEO Brian Thompson shot dead](http://9gag.com/gag/awyMvdx)<!-- MEMES:END -->
 
 ---

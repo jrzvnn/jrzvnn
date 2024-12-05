@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [My fellow Anime enthusiast](http://9gag.com/gag/a34EWv3)
- - 😝 [`I don&#39;t even know what I&#39;m doing here`](http://9gag.com/gag/aKG6OwQ)
- - 💣 [Who put a step in the middle of the road?](http://9gag.com/gag/aNDp4NG)
+ - 😝 [South Korea Special Forces rebels easily neutralized by Tai Chi veteran news reporter](http://9gag.com/gag/aD2dXNd)
+ - 😝 [Stay On Target](http://9gag.com/gag/a87E296)
+ - 💣 [Your order](http://9gag.com/gag/aNDp326)
  - 😝 [Blasting some duckin&#39; sick beats! \ud83e\udd86\ud83d\udca5](http://9gag.com/gag/aYQoRx2)
- - 👉 [A baby elephant was rescued after becoming stuck between tree stumps for a day in Zimbabwe](http://9gag.com/gag/axyMR5n)<!-- MEMES:END -->
+ - 👉 [Pauline Grabosch is the biggest asset of the German track cycling team](http://9gag.com/gag/aryM240)<!-- MEMES:END -->
 
 ---
 

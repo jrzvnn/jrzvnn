@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Good Man](http://9gag.com/gag/aW4jDVx)
- - 😝 [A baby elephant was rescued after becoming stuck between tree stumps for a day in Zimbabwe](http://9gag.com/gag/axyMR5n)
- - 💣 [Lil Wayne with the police officer, `Uncle Bob,` who saved his life when he was 12 years old.](http://9gag.com/gag/a5QE2GO)
+ - 😝 [This login interface](http://9gag.com/gag/aPA3rXg)
+ - 😝 [Title](http://9gag.com/gag/aVv7R1n)
+ - 💣 [Germoney.](http://9gag.com/gag/a4PEwww)
  - 😝 [Blasting some duckin&#39; sick beats! \ud83e\udd86\ud83d\udca5](http://9gag.com/gag/aYQoRx2)
- - 👉 [Stay On Target](http://9gag.com/gag/a87E296)<!-- MEMES:END -->
+ - 👉 [My first Cmas Repost](http://9gag.com/gag/aVv7BQy)<!-- MEMES:END -->
 
 ---
 

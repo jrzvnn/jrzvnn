@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Cleerly, whose AI-powered imaging tech aims to identify early-stage heart disease, raised a $106M Series C extension, adding to the $223M it raised in July 2022 &lpar;Marina Temkin/TechCrunch&rpar;](http://www.techmeme.com/241205/p2#a241205p2)
+ - [Microsoft and Lumen&#39;s Black Lotus Labs researchers find Russia-linked Turla hackers are hijacking Pakistan-based hackers&#39; servers to launch their own attacks &lpar;Bill Toulas/BleepingComputer&rpar;](http://www.techmeme.com/241205/p1#a241205p1)
  - [Axiado, which makes chips and apps to secure data centers, 5G base stations, and more from cyberattacks, raised a $60M Series C led by Maverick Silicon &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/241204/p56#a241204p56)
  - [Suspect in UnitedHealthcare CEO shooting reportedly didn’t use a Citi Bike to escape](https://www.theverge.com/2024/12/4/24313480/lyft-united-health-ceo-shooter-escaped-citi-bike-cooperating-authorities)
- - [Hands-on with Xreal&#39;s One Series smart glasses, powered by its custom-made X1 chip; the $499 One ships from December 9 and the $599 One Pro ships in early 2025 &lpar;Scott Stein/CNET&rpar;](http://www.techmeme.com/241204/p55#a241204p55)
- - [How to renew your DHCP lease on macOS](https://appleinsider.com/inside/macos/tips/how-to-renew-your-dhcp-lease-on-macos?utm_medium=rss)
- - [Apple Savings APY hits new low of 3.90% after Federal Reserve rate cut](https://appleinsider.com/articles/24/12/05/apple-savings-apy-hits-new-low-of-390-after-federal-reserve-rate-cut?utm_medium=rss)<!-- TECH:END -->
+ - [Hands-on with Xreal&#39;s One Series smart glasses, powered by its custom-made X1 chip; the $499 One ships from December 9 and the $599 One Pro ships in early 2025 &lpar;Scott Stein/CNET&rpar;](http://www.techmeme.com/241204/p55#a241204p55)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Big hair time](http://9gag.com/gag/aRBXR5G)
- - 😝 [Everything is Italy](http://9gag.com/gag/aW4jDXA)
- - 💣 [Your order](http://9gag.com/gag/aNDp326)
+ - 😝 [This cyclist has been spitting on his car for weeks, until the owner had an idea](http://9gag.com/gag/aNDpjp4)
  - 😝 [Good Man](http://9gag.com/gag/aW4jDVx)
- - 👉 [UnitedHealthcare CEO Brian Thompson shot dead](http://9gag.com/gag/awyMvdx)<!-- MEMES:END -->
+ - 💣 [Does this count?](http://9gag.com/gag/agmBdR1)
+ - 😝 [Nothing, ungrateful sons of b*tches. Not even a coffee cup](http://9gag.com/gag/aKG6LKb)
+ - 👉 [Your order](http://9gag.com/gag/aNDp326)<!-- MEMES:END -->
 
 ---
 

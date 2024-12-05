@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Q&amp;A with Anthropic CEO Dario Amodei on his &quot;Machines of Loving Grace&quot; essay, AI industry concentration, why democracies must maintain the lead in AI, and more &lpar;Madhumita Murgia/Financial Times&rpar;](http://www.techmeme.com/241205/p13#a241205p13)
+ - [AI language translation was one of the most beneficial uses of AI during major global elections in 2024, and AI misinformation was not as catastrophic as feared &lpar;The Conversation&rpar;](http://www.techmeme.com/241205/p12#a241205p12)
  - [CCData: crypto trading volume hit an all-time high in November, with $10T+ of assets traded for the first time on centralized spot and derivatives exchanges &lpar;Olga Kharif/Bloomberg&rpar;](http://www.techmeme.com/241205/p11#a241205p11)
  - [We’ve Never Been Closer to Finding Life Outside Our Solar System](https://www.wired.com/story/james-webb-space-telescope-signs-of-life/)
- - [A deep dive into Amazon&#39;s Trainium2, which shows the company is on a path to eventually provide competitive custom AI chips, especially for LLM inference &lpar;SemiAnalysis&rpar;](http://www.techmeme.com/241205/p10#a241205p10)
- - [Intel interim co-CEO David Zinsner maintains Intel&#39;s financial forecast and says he expects the next CEO to have some capability around both foundry and product &lpar;Zaheer Kachwala/Reuters&rpar;](http://www.techmeme.com/241205/p9#a241205p9)
- - [At the DealBook Summit, Sundar Pichai said he would love to do a side-by-side comparison of Google and Microsoft&#39;s AI models, and expressed optimism about Trump &lpar;Nico Grant/New York Times&rpar;](http://www.techmeme.com/241205/p8#a241205p8)<!-- TECH:END -->
+ - [A deep dive into Amazon&#39;s Trainium2, which shows the company is on a path to eventually provide competitive custom AI chips, especially for LLM inference &lpar;SemiAnalysis&rpar;](http://www.techmeme.com/241205/p10#a241205p10)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [A look at what went wrong for Intel CEO Pat Gelsinger; since Gelsinger took over in February 2021, Nvidia added $3T in market cap while Intel lost $150B &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/241205/p24#a241205p24)
- - [I Flew Over an Erupting Icelandic Volcano in a Helicopter. Maybe You Can, Too](https://www.wired.com/story/iceland-erupting-volcano-helicopter-tour/)
- - [Yamaha&#39;s TW-E7B Wireless Noise-Canceling Earbuds Have Fallen in Price by More Than $200](https://www.cnet.com/deals/yamahas-tw-e7b-wireless-noise-cancelling-earbuds-have-fallen-in-price-by-more-than-200/#ftag=CAD590a51e)
- - [Sources: TSMC is in discussions with Nvidia to make its Blackwell AI chips at TSMC&#39;s new Arizona plant starting in early 2025, expanding on Taiwan production &lpar;Reuters&rpar;](http://www.techmeme.com/241205/p23#a241205p23)
- - [Never Run Out of Charge Again With This 250-Watt Anker Power Bank at $80 Off](https://www.cnet.com/deals/never-run-out-of-charge-again-with-this-anker-prime-250-watt-power-bank-for-80-off/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Chainalysis names co-founder Jonathan Levin as CEO, replacing co-founder Michael Gronager, who took a temporary personal leave of absence in October 2024 &lpar;Connie Loizos/TechCrunch&rpar;](http://www.techmeme.com/241205/p25#a241205p25)
+ - [How one creator visualized AI by using very little AI](https://www.theverge.com/2024/12/5/24306548/stormy-pyeatte-friend-or-faux-ai-interview)
+ - [In Sam Altman We Trust?](https://www.wired.com/story/uncanny-valley-podcast-5-in-sam-altman-we-trust/)
+ - [Uber will deliver your Christmas tree — and even a troupe of carolers — to your front door](https://www.theverge.com/2024/12/5/24313074/uber-christmas-tree-delivery-carolers-courier-carseat)
+ - [A look at what went wrong for Intel CEO Pat Gelsinger; since Gelsinger took over in February 2021, Nvidia added $3T in market cap while Intel lost $150B &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/241205/p24#a241205p24)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

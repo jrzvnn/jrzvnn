@@ -159,9 +159,9 @@ R                        1 repo              ░░░░░░░░░░░�
 <!-- TECH:START -->
  - [Apple&#39;s display roadmap could lead to OLED iPad mini in 2026](https://appleinsider.com/articles/24/12/05/apples-display-roadmap-could-lead-to-oled-ipad-mini-in-2026?utm_medium=rss)
  - [Colorado-based AMP Robotics, which uses AI and robotics to sort municipal solid waste, raised a $91M Series D led by Congruent Ventures &lpar;The Robot Report&rpar;](http://www.techmeme.com/241205/p38#a241205p38)
- - [Google releases new Android features, including &quot;expressive&quot; video captions, improvements to the Pixel Screenshots app, a Spotify extension for Gemini, and more &lpar;Igor Bonifacic/Engadget&rpar;](http://www.techmeme.com/241205/p37#a241205p37)
- - [Bluesky CEO Jay Graber says it is not &quot;necessarily true&quot; that Bluesky will always be ad-free; ads could be &quot;user intent-driven&quot;, like running in search results &lpar;Maxwell Zeff/TechCrunch&rpar;](http://www.techmeme.com/241205/p36#a241205p36)
- - [Indiana Jones and the Great Circle’s early access period won’t include full ray tracing](https://www.theverge.com/2024/12/5/24314171/indiana-jones-and-the-great-circle-early-access-full-ray-tracing)<!-- TECH:END -->
+ - [Best Board Game Deals: Save Big While Stocking Up on Games for Kids and Adults](https://www.cnet.com/deals/best-board-game-deals/#ftag=CAD590a51e)
+ - [5ft Inflatable Lawn Snowman](https://www.cnet.com/news/5ft-inflatable-lawn-snowman-dpnl/#ftag=CAD590a51e)
+ - [Evergreen Pre Lit Artificial Tree](https://www.cnet.com/news/evergreen-pre-lit-artificial-tree-dpnl/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

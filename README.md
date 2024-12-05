@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [This cyclist has been spitting on his car for weeks, until the owner had an idea](http://9gag.com/gag/aNDpjp4)
- - 😝 [It&#39;s 2003, and these two students didn&#39;t realize they just made a massive hit song.](http://9gag.com/gag/aBy2O4Q)
- - 💣 [Does this count?](http://9gag.com/gag/agmBdR1)
- - 😝 [Rumor has it she\u2019s still trying to pronounce it](http://9gag.com/gag/ae9A7Yv)
- - 👉 [Pauline Grabosch is the biggest asset of the German track cycling team](http://9gag.com/gag/aryM240)<!-- MEMES:END -->
+ - 😝 [Let&#39;s fight racism together! Say NO to other colors!](http://9gag.com/gag/aRBXNeM)
+ - 😝 [We miss you Alan](http://9gag.com/gag/apRNjKD)
+ - 💣 [Champion](http://9gag.com/gag/azxMDbb)
+ - 😝 [Notice the women didn&#39;t pop are also the prettiest](http://9gag.com/gag/aZZ0dG9)
+ - 👉 [Love you, f**kers](http://9gag.com/gag/aPA3dLR)<!-- MEMES:END -->
 
 ---
 

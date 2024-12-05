@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [My fellow Anime enthusiast](http://9gag.com/gag/a34EWv3)
- - 😝 [A well trained fiance](http://9gag.com/gag/aD2dVyB)
- - 💣 [`I don&#39;t even know what I&#39;m doing here`](http://9gag.com/gag/aKG6OwQ)
- - 😝 [Pauline Grabosch is the biggest asset of the German track cycling team](http://9gag.com/gag/aryM240)
- - 👉 [Your order](http://9gag.com/gag/aNDp326)<!-- MEMES:END -->
+ - 😝 [Germoney.](http://9gag.com/gag/a4PEwww)
+ - 😝 [Real rap](http://9gag.com/gag/an7QGPn)
+ - 💣 [Dudes rock](http://9gag.com/gag/an7QGQ0)
+ - 😝 [Thank you Hedgehog](http://9gag.com/gag/agmBj4v)
+ - 👉 [It&#39;s 2003, and these two students didn&#39;t realize they just made a massive hit song.](http://9gag.com/gag/aBy2O4Q)<!-- MEMES:END -->
 
 ---
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Funeral in Ghana](http://9gag.com/gag/aXPo25b)
- - 😝 [Bro regretted taking her](http://9gag.com/gag/aBy2GGZ)
- - 💣 [Mischief managed](http://9gag.com/gag/awyMdwD)
+ - 😝 [Good Man](http://9gag.com/gag/aW4jDVx)
+ - 😝 [Next level.](http://9gag.com/gag/a34EWY1)
+ - 💣 [Oof](http://9gag.com/gag/apRNb3E)
  - 😝 [Blasting some duckin&#39; sick beats! \ud83e\udd86\ud83d\udca5](http://9gag.com/gag/aYQoRx2)
- - 👉 [Good Man](http://9gag.com/gag/aW4jDVx)<!-- MEMES:END -->
+ - 👉 [Bro regretted taking her](http://9gag.com/gag/aBy2GGZ)<!-- MEMES:END -->
 
 ---
 

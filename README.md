@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [9gaggers....](http://9gag.com/gag/a34E2XQ)
- - 😝 [Stacy&#39;s mom has been spending a lot of time in the pool](http://9gag.com/gag/aAybXWE)
- - 💣 [Lil Wayne with the police officer, `Uncle Bob,` who saved his life when he was 12 years old.](http://9gag.com/gag/a5QE2GO)
+ - 😝 [Title](http://9gag.com/gag/aVv7R1n)
+ - 😝 [Germoney.](http://9gag.com/gag/a4PEwww)
+ - 💣 [My first Cmas Repost](http://9gag.com/gag/aVv7BQy)
  - 😝 [Blasting some duckin&#39; sick beats! \ud83e\udd86\ud83d\udca5](http://9gag.com/gag/aYQoRx2)
- - 👉 [A well trained fiance](http://9gag.com/gag/aD2dVyB)<!-- MEMES:END -->
+ - 👉 [Dudes rock](http://9gag.com/gag/an7QGQ0)<!-- MEMES:END -->
 
 ---
 

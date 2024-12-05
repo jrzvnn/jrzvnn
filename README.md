@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Vodafone and Three can now merge to become the UK’s biggest mobile operator](https://www.theverge.com/2024/12/5/24313871/vodafone-three-mobile-network-merger-uk-antitrust-approval)
+ - [Sources: AT&amp;T, JPMorgan, and Dunkin&#39; pull ads from Twitch after a controversial group of livestreamers alleged that Twitch is promoting antisemitic content &lpar;Cecilia D&#39;Anastasio/Bloomberg&rpar;](http://www.techmeme.com/241205/p19#a241205p19)
+ - [Tricked by a Fake Viral Food Product? You’ve Just Been Snackfished](https://www.wired.com/story/snackfishing-fake-viral-food-clear-ketchup/)
+ - [Vodafone and Three clear to merge and form the UK’s biggest mobile operator](https://www.theverge.com/2024/12/5/24313871/vodafone-three-mobile-network-merger-uk-antitrust-approval)
  - [How subsea internet cables off West Africa fell into a nearly 3,000-foot canyon in March 2024, causing major disruptions, and a look at efforts to repair them &lpar;New York Times&rpar;](http://www.techmeme.com/241205/p18#a241205p18)
- - [London-based Lawhive, whose AI-based SaaS tools let small, &quot;Main Street&quot; law firms automate legal tasks, raised a $40M Series A co-led by GV and TQ Ventures &lpar;Mike Butcher/TechCrunch&rpar;](http://www.techmeme.com/241205/p17#a241205p17)
- - [The UK CMA clears the &amp;pound;15B Vodafone-Three deal after a 10-month inquiry, subject to investing &amp;pound;11B in UK digital infrastructure, creating the UK&#39;s biggest telco &lpar;Jillian Deutsch/Bloomberg&rpar;](http://www.techmeme.com/241205/p16#a241205p16)
- - [AT&amp;T&#39;s stock is up 35% in 2024 after CEO John Stankey reversed course in 2022 and spun off Warner Bros. and DirecTV, and plans to return $40B+ to shareholders &lpar;Drew FitzGerald/Wall Street Journal&rpar;](http://www.techmeme.com/241205/p15#a241205p15)<!-- TECH:END -->
+ - [London-based Lawhive, whose AI-based SaaS tools let small, &quot;Main Street&quot; law firms automate legal tasks, raised a $40M Series A co-led by GV and TQ Ventures &lpar;Mike Butcher/TechCrunch&rpar;](http://www.techmeme.com/241205/p17#a241205p17)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

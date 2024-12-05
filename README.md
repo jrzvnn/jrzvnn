@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Waymo says it will expand its fleet into Miami in 2025 with human safety drivers and plans to open up paid rides to local users via its Waymo One app by 2026 &lpar;CNBC&rpar;](http://www.techmeme.com/241205/p27#a241205p27)
  - [Five Easy Ways to Remove Coffee Stains From Your Favorite Mug](https://www.cnet.com/how-to/the-easiest-methods-to-remove-stubborn-coffee-stains-from-your-mugs/#ftag=CAD590a51e)
  - [Unlocked Galaxy S24 Phones Start as Low as $400 in This Pre-Christmas Blowout](https://www.cnet.com/deals/unlocked-galaxy-s24-phones-start-as-low-as-400-in-this-pre-christmas-blowout/#ftag=CAD590a51e)
  - [Sources: Meta is shifting part of the development and design of MR headsets to Chinese manufacturer Goertek and moving half of production to Vietnam from China &lpar;The Information&rpar;](http://www.techmeme.com/241205/p26#a241205p26)
- - [Xbox Game Pass Ultimate Is an Even Better Value at $21 Off](https://www.cnet.com/deals/3-months-xbox-game-pass-ultimate-woot-deal/#ftag=CAD590a51e)
- - [10 Best Travel Adapters 2024: Top Picks to Keep Devices Charged](https://www.wired.com/gallery/best-travel-adapters/)<!-- TECH:END -->
+ - [Xbox Game Pass Ultimate Is an Even Better Value at $21 Off](https://www.cnet.com/deals/3-months-xbox-game-pass-ultimate-woot-deal/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [At the DealBook Summit, Sundar Pichai said he would love to do a side-by-side comparison of Google and Microsoft&#39;s AI models, and expressed optimism about Trump &lpar;Nico Grant/New York Times&rpar;](http://www.techmeme.com/241205/p8#a241205p8)
  - [Four Chinese state-backed industry groups, representing most of China&#39;s chip demand, urge members to drop US chips, calling them &quot;no longer safe or reliable&quot; &lpar;Reuters&rpar;](http://www.techmeme.com/241205/p7#a241205p7)
  - [Enterpret, which lets companies automatically extract insights from customer feedback, raised a $20.8M Series A led by Canaan, bringing its total raised to $25M &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/241205/p6#a241205p6)
  - [At the DealBook Summit, Jeff Bezos said he is &quot;very hopeful&quot; about President-elect Donald Trump and praised his deregulatory agenda, and Elon Musk&#39;s leadership &lpar;New York Times&rpar;](http://www.techmeme.com/241205/p5#a241205p5)
- - [Three members of Google&#39;s NotebookLM team, including its lead Raiza Martin, are leaving to launch a startup focused on building &quot;a user-first AI product&quot; &lpar;Charles Rollet/TechCrunch&rpar;](http://www.techmeme.com/241205/p4#a241205p4)
- - [A look at European startups building AI-powered weapons, betting governments will increase defense budgets and buy more autonomous drones and AI systems &lpar;Mark Bergen/Bloomberg&rpar;](http://www.techmeme.com/241205/p3#a241205p3)<!-- TECH:END -->
+ - [Three members of Google&#39;s NotebookLM team, including its lead Raiza Martin, are leaving to launch a startup focused on building &quot;a user-first AI product&quot; &lpar;Charles Rollet/TechCrunch&rpar;](http://www.techmeme.com/241205/p4#a241205p4)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

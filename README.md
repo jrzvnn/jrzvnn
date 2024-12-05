@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Pauline Grabosch is the biggest asset of the German track cycling team](http://9gag.com/gag/aryM240)
- - 😝 [Good Man](http://9gag.com/gag/aW4jDVx)
- - 💣 [We miss you Alan](http://9gag.com/gag/apRNjKD)
- - 😝 [Infinite Aura](http://9gag.com/gag/a0e7Edv)
- - 👉 [Not mine but want to see yours](http://9gag.com/gag/aXPo2W9)<!-- MEMES:END -->
+ - 😝 [Best ad ever](http://9gag.com/gag/aYQoRMq)
+ - 😝 [We miss you Alan](http://9gag.com/gag/apRNjKD)
+ - 💣 [Thank you Hedgehog](http://9gag.com/gag/agmBj4v)
+ - 😝 [I hope the CEO had life insurance](http://9gag.com/gag/apRNjED)
+ - 👉 [And people say, Disney doesn&#39;t care about the audience.](http://9gag.com/gag/ayNMzRp)<!-- MEMES:END -->
 
 ---
 

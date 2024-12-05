@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Good Man](http://9gag.com/gag/aW4jDVx)
- - 😝 [Pauline Grabosch is the biggest asset of the German track cycling team](http://9gag.com/gag/aryM240)
- - 💣 [Your order](http://9gag.com/gag/aNDp326)
- - 😝 [Not mine but want to see yours](http://9gag.com/gag/aXPo2W9)
- - 👉 [UnitedHealthcare CEO Brian Thompson shot dead](http://9gag.com/gag/awyMvdx)<!-- MEMES:END -->
+ - 😝 [Stacy&#39;s mom has been spending a lot of time in the pool](http://9gag.com/gag/aAybXWE)
+ - 😝 [Operation friend](http://9gag.com/gag/aD2dPod)
+ - 💣 [Pauline Grabosch is the biggest asset of the German track cycling team](http://9gag.com/gag/aryM240)
+ - 😝 [Infinite Aura](http://9gag.com/gag/a0e7Edv)
+ - 👉 [This cyclist has been spitting on his car for weeks, until the owner had an idea](http://9gag.com/gag/aNDpjp4)<!-- MEMES:END -->
 
 ---
 

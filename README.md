@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Best ad ever](http://9gag.com/gag/aYQoRMq)
- - 😝 [`Dude, I ain&#39;t fluent in Spanish, so I&#39;m totally lost on why this dude&#39;s flipping his lid.`](http://9gag.com/gag/aGyp2RK)
- - 💣 [Stay On Target](http://9gag.com/gag/a87E296)
+ - 😝 [Good Man](http://9gag.com/gag/aW4jDVx)
+ - 😝 [`I don&#39;t even know what I&#39;m doing here`](http://9gag.com/gag/aKG6OwQ)
+ - 💣 [Title](http://9gag.com/gag/aVv7R1n)
  - 😝 [Blasting some duckin&#39; sick beats! \ud83e\udd86\ud83d\udca5](http://9gag.com/gag/aYQoRx2)
- - 👉 [A well trained fiance](http://9gag.com/gag/aD2dVyB)<!-- MEMES:END -->
+ - 👉 [Funeral in Ghana](http://9gag.com/gag/aXPo25b)<!-- MEMES:END -->
 
 ---
 

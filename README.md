@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [US phone companies could face fines for weak security under a proposed new rule](https://www.theverge.com/2024/12/5/24314330/fcc-telecom-security-rule-salt-typhoon-hack)
+ - [Oura rolls out Symptom Radar, a feature that tries to detect early signs of sickness using biometrics like heart rate variability, to Oura Ring Gen 3 and 4 &lpar;Victoria Song/The Verge&rpar;](http://www.techmeme.com/241205/p42#a241205p42)
+ - [Save a massive $235 with this bundle of 13 Mac apps](https://appleinsider.com/articles/24/12/05/save-a-massive-235-with-this-bundle-of-13-mac-apps?utm_medium=rss)
  - [The PC Gaming Show’s best trailers: creepy aliens, strategic turtles, and desktop platformers](https://www.theverge.com/2024/12/5/24314133/pc-gaming-show-2024-best-trailers)
- - [Waymo Is Expanding to Miami: Everything to Know About the Growing Robotaxi Service](https://www.cnet.com/roadshow/news/waymo-expands-to-miami-everything-to-know-about-the-growing-robotaxi-service/#ftag=CAD590a51e)
- - [Here&#39;s What OpenAI&#39;s $200 Monthly ChatGPT Pro Subscription Includes](https://www.wired.com/story/openai-chatgpt-pro-subscription/)
- - [I Tried the $299 Feno Smartbrush to Clean My Teeth. It&#39;s a Whole New Vibration](https://www.cnet.com/tech/services-and-software/i-tried-the-299-feno-smartbrush-to-clean-my-teeth-its-a-whole-new-vibration/#ftag=CAD590a51e)
- - [Sundar Pichai says Google Search will ‘change profoundly’ in 2025](https://www.theverge.com/2024/12/5/24314245/sundar-pichai-google-search-change-profoundly-2025)<!-- TECH:END -->
+ - [iOS 18.2 Will Bring More Than Just AI to Your iPhone Soon](https://www.cnet.com/tech/services-and-software/ios-18-2-will-bring-more-than-just-ai-to-your-iphone-soon/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

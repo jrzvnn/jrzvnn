@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [This cyclist has been spitting on his car for weeks, until the owner had an idea](http://9gag.com/gag/aNDpjp4)
+ - 😝 [It&#39;s 2003, and these two students didn&#39;t realize they just made a massive hit song.](http://9gag.com/gag/aBy2O4Q)
  - 😝 [Germoney.](http://9gag.com/gag/a4PEwww)
- - 💣 [UnitedHealthcare CEO Brian Thompson shot dead](http://9gag.com/gag/awyMvdx)
- - 😝 [Not mine but want to see yours](http://9gag.com/gag/aXPo2W9)
- - 👉 [Your order](http://9gag.com/gag/aNDp326)<!-- MEMES:END -->
+ - 💣 [Your order](http://9gag.com/gag/aNDp326)
+ - 😝 [UnitedHealthcare CEO Brian Thompson shot dead](http://9gag.com/gag/awyMvdx)
+ - 👉 [This cyclist has been spitting on his car for weeks, until the owner had an idea](http://9gag.com/gag/aNDpjp4)<!-- MEMES:END -->
 
 ---
 

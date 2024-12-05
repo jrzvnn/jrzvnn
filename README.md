@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [How to watch &#39;A Charlie Brown Christmas&#39; for free in 2024](https://appleinsider.com/inside/apple-tv-plus/tips/how-to-watch-a-charlie-brown-christmas-for-free-in-2024?utm_medium=rss)
- - [Google unveils PaliGemma 2 models, which can analyze images and generate captions describing &quot;actions, emotions, and the overall narrative of the scene&quot; &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/241205/p32#a241205p32)
- - [The pope goes electric with first EV popemobile from Mercedes-Benz](https://www.theverge.com/2024/12/5/24314084/pope-francis-popemobile-electric-mercedes-g-class)
- - [Google releases Android 15&#39;s first major update, including expressive video captions, Spotify extension for Gemini, and Screenshots app updates for the Pixel 9 &lpar;Allison Johnson/The Verge&rpar;](http://www.techmeme.com/241205/p31#a241205p31)
- - [Microsoft rolls out Copilot Vision in preview to analyze text and images on webpages and answer queries, starting with some Copilot Pro users in the US &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/241205/p30#a241205p30)<!-- TECH:END -->
+ - [Bluesky CEO Jay Graber says it is not &quot;necessarily true&quot; that Bluesky will always be free of advertising, and ads on the service could be &quot;user intent-driven&quot; &lpar;Maxwell Zeff/TechCrunch&rpar;](http://www.techmeme.com/241205/p36#a241205p36)
+ - [Indiana Jones and the Great Circle’s early access period won’t include full ray tracing](https://www.theverge.com/2024/12/5/24314171/indiana-jones-and-the-great-circle-early-access-full-ray-tracing)
+ - [Holiday coupon: save up to $300 on every 14&quot; &amp; 16&quot; MacBook Pro M4](https://appleinsider.com/articles/24/12/05/holiday-coupon-save-up-to-300-on-every-14-16-macbook-pro-m4?utm_medium=rss)
+ - [Apple issues release candidates for iOS 18.2, iPadOS 18.2, macOS Sequoia 15.2](https://appleinsider.com/articles/24/12/05/apple-issues-release-candidates-for-ios-182-ipados-182-macos-sequoia-152?utm_medium=rss)
+ - [Billionaire tech critic Frank McCourt says his Project Liberty initiative has secured $20B in informal commitments to fund his &quot;people&#39;s bid&quot; to buy TikTok &lpar;Sara Fischer/Axios&rpar;](http://www.techmeme.com/241205/p35#a241205p35)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

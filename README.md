@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [Pauline Grabosch is the biggest asset of the German track cycling team](http://9gag.com/gag/aryM240)
  - 😝 [Good Man](http://9gag.com/gag/aW4jDVx)
- - 😝 [Operation friend](http://9gag.com/gag/aD2dPod)
- - 💣 [Your order](http://9gag.com/gag/aNDp326)
+ - 💣 [We miss you Alan](http://9gag.com/gag/apRNjKD)
  - 😝 [Infinite Aura](http://9gag.com/gag/a0e7Edv)
- - 👉 [Pauline Grabosch is the biggest asset of the German track cycling team](http://9gag.com/gag/aryM240)<!-- MEMES:END -->
+ - 👉 [Not mine but want to see yours](http://9gag.com/gag/aXPo2W9)<!-- MEMES:END -->
 
 ---
 

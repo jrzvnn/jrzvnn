@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [A look at the logistics network of Amazon, Walmart and Target for same-day or next-day delivery; Walmart says it now offers same-day to 86% of US households &lpar;Jordyn Holman/New York Times&rpar;](http://www.techmeme.com/241205/p21#a241205p21)
+ - [The Best Gifts for the Beverage Enthusiast in Your Life &lpar;2024&rpar;](https://www.wired.com/story/best-gifts-for-the-beverage-enthusiast-in-your-life/)
  - [She Escaped An Abusive Marriage—Now She Helps Women Battle Cyber Harassment](https://www.wired.com/story/nighat-dad-digital-rights-foundation/)
  - [Meta plans to invest $10B to build a data center in Louisiana, in what would be its largest data center in the world, and expects work to start in December &lpar;Reuters&rpar;](http://www.techmeme.com/241205/p20#a241205p20)
- - [Sources: AT&amp;T, JPMorgan, and Dunkin&#39; pull ads from Twitch after a controversial group of livestreamers alleged that Twitch is promoting antisemitic content &lpar;Cecilia D&#39;Anastasio/Bloomberg&rpar;](http://www.techmeme.com/241205/p19#a241205p19)
- - [Thursday Night Football: How to Watch, Stream Packers vs. Lions Tonight on Prime Video](https://www.cnet.com/tech/services-and-software/thursday-night-football-how-to-watch-stream-packers-vs-lions-tonight-on-prime-video/#ftag=CAD590a51e)
- - [Tricked by a Fake Viral Food Product? You’ve Just Been Snackfished](https://www.wired.com/story/snackfishing-fake-viral-food-clear-ketchup/)<!-- TECH:END -->
+ - [Sources: AT&amp;T, JPMorgan, and Dunkin&#39; pull ads from Twitch after a controversial group of livestreamers alleged that Twitch is promoting antisemitic content &lpar;Cecilia D&#39;Anastasio/Bloomberg&rpar;](http://www.techmeme.com/241205/p19#a241205p19)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

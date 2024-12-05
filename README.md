@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Trans Americans Are Turning to TikTok to Crowdfund Their Relocations](https://www.wired.com/story/trans-americans-are-turning-to-tiktok-to-crowdfund-their-relocations/)
- - [9 Best MagSafe Power Banks for iPhones &lpar;2024&rpar;, Tested and Reviewed](https://www.wired.com/gallery/best-magsafe-power-banks/)
- - [EA adds more tech patents to its accessibility program](https://www.theverge.com/2024/12/5/24314026/ea-electronic-arts-expands-accessibility-pledge-tech-patents)
- - [Master &amp; Dynamic revived a pair of wired earphones](https://www.theverge.com/2024/12/5/24314000/master-dynamic-headphones-wired-earphones-me05)
- - [Apple wants faster RAM in the iPhone to help speed up Apple Intelligence](https://appleinsider.com/articles/24/12/05/apple-wants-faster-ram-in-the-iphone-to-help-speed-up-apple-intelligence?utm_medium=rss)<!-- TECH:END -->
+ - [Past, Present, Future: The state of Apple Intelligence in December 2024](https://appleinsider.com/articles/24/12/05/past-present-future-the-state-of-apple-intelligence-in-december-2024?utm_medium=rss)
+ - [NZXT responded to the Flex PC rental program controversy, but it’s not over yet](https://www.theverge.com/2024/12/5/24313974/nzxt-flex-pc-rental-response)
+ - [Watch the MSL Cup final for free on Apple TV this Saturday](https://appleinsider.com/articles/24/12/05/watch-the-msl-cup-final-for-free-on-apple-tv-this-saturday?utm_medium=rss)
+ - [Viral influencer Haliey Welch&#39;s Hawk Tuah memecoin sparks outrage across social media as it briefly pumped to a peak market cap of $490M and then dumped 90%+ &lpar;Tom Mitchelhill/Cointelegraph&rpar;](http://www.techmeme.com/241205/p28#a241205p28)
+ - [Trans Americans Are Turning to TikTok to Crowdfund Their Relocations](https://www.wired.com/story/trans-americans-are-turning-to-tiktok-to-crowdfund-their-relocations/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

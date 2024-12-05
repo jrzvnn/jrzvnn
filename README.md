@@ -166,9 +166,9 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [She must work on a dairy farm\u2026](http://9gag.com/gag/aRBXoqB)
- - 😝 [USS Low Ground](http://9gag.com/gag/aO831Br)
- - 💣 [Thank you Hedgehog](http://9gag.com/gag/agmBj4v)
+ - 😝 [A baby elephant was rescued after becoming stuck between tree stumps for a day in Zimbabwe](http://9gag.com/gag/axyMR5n)
+ - 😝 [Your order](http://9gag.com/gag/aNDp326)
+ - 💣 [`Dude, I ain&#39;t fluent in Spanish, so I&#39;m totally lost on why this dude&#39;s flipping his lid.`](http://9gag.com/gag/aGyp2RK)
  - 😝 [Captain, is this true? Expert opinion please!](http://9gag.com/gag/aMVKWBx)
  - 👉 [Infinite Aura](http://9gag.com/gag/a0e7Edv)<!-- MEMES:END -->
 

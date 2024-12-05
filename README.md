@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Best ad ever](http://9gag.com/gag/aYQoRMq)
- - 😝 [We miss you Alan](http://9gag.com/gag/apRNjKD)
- - 💣 [Thank you Hedgehog](http://9gag.com/gag/agmBj4v)
- - 😝 [I hope the CEO had life insurance](http://9gag.com/gag/apRNjED)
- - 👉 [And people say, Disney doesn&#39;t care about the audience.](http://9gag.com/gag/ayNMzRp)<!-- MEMES:END -->
+ - 😝 [This cyclist has been spitting on his car for weeks, until the owner had an idea](http://9gag.com/gag/aNDpjp4)
+ - 😝 [Germoney.](http://9gag.com/gag/a4PEwww)
+ - 💣 [UnitedHealthcare CEO Brian Thompson shot dead](http://9gag.com/gag/awyMvdx)
+ - 😝 [Not mine but want to see yours](http://9gag.com/gag/aXPo2W9)
+ - 👉 [Your order](http://9gag.com/gag/aNDp326)<!-- MEMES:END -->
 
 ---
 

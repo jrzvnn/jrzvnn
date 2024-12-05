@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The pope goes electric with first EV popemobile from Mercedes-Benz](https://www.theverge.com/2024/12/5/24314084/pope-francis-popemobile-electric-mercedes-g-class)
  - [Google releases Android 15&#39;s first major update, including expressive video captions, Spotify extension for Gemini, and Screenshots app updates for the Pixel 9 &lpar;Allison Johnson/The Verge&rpar;](http://www.techmeme.com/241205/p31#a241205p31)
  - [Microsoft rolls out Copilot Vision in preview to analyze text and images on webpages and answer queries, starting with some Copilot Pro users in the US &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/241205/p30#a241205p30)
  - [Universal Plug-and-Charge for EV Charging Stations Is Set to Launch in 2025](https://www.wired.com/story/universal-plug-and-charge-for-evs-launches-in-2025/)
- - [Android 15’s first major update has arrived](https://www.theverge.com/2024/12/5/24313569/android-15-qpr1-pixel-december-feature-drop)
- - [Intel adds former ASML CEO Eric Meurice and Microchip interim CEO Steve Sanghi to its board; both have significant semiconductor manufacturing experience &lpar;Rohan Goswami/CNBC&rpar;](http://www.techmeme.com/241205/p29#a241205p29)<!-- TECH:END -->
+ - [Android 15’s first major update has arrived](https://www.theverge.com/2024/12/5/24313569/android-15-qpr1-pixel-december-feature-drop)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

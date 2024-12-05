@@ -167,8 +167,8 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [Mischief managed](http://9gag.com/gag/awyMdwD)
- - 😝 [9gaggers....](http://9gag.com/gag/a34E2XQ)
- - 💣 [Infinite Aura](http://9gag.com/gag/a0e7Edv)
+ - 😝 [My fellow Anime enthusiast](http://9gag.com/gag/a34EWv3)
+ - 💣 [A baby elephant was rescued after becoming stuck between tree stumps for a day in Zimbabwe](http://9gag.com/gag/axyMR5n)
  - 😝 [Blasting some duckin&#39; sick beats! \ud83e\udd86\ud83d\udca5](http://9gag.com/gag/aYQoRx2)
  - 👉 [A well trained fiance](http://9gag.com/gag/aD2dVyB)<!-- MEMES:END -->
 

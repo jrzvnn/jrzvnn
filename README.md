@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [London-based Lawhive, whose AI-based SaaS tools let small, &quot;Main Street&quot; law firms automate legal tasks, raised a $40M Series A co-led by GV and TQ Ventures &lpar;Mike Butcher/TechCrunch&rpar;](http://www.techmeme.com/241205/p17#a241205p17)
+ - [The UK CMA clears the &amp;pound;15B Vodafone-Three deal after a 10-month inquiry, subject to investing &amp;pound;11B in UK digital infrastructure, creating the UK&#39;s biggest telco &lpar;Jillian Deutsch/Bloomberg&rpar;](http://www.techmeme.com/241205/p16#a241205p16)
  - [AT&amp;T&#39;s stock is up 35% in 2024 after CEO John Stankey reversed course in 2022 and spun off Warner Bros. and DirecTV, and plans to return $40B+ to shareholders &lpar;Drew FitzGerald/Wall Street Journal&rpar;](http://www.techmeme.com/241205/p15#a241205p15)
- - [Bengaluru-based Swiggy reports Q2 revenue of ~$425M and a $74M loss in its first post-IPO earnings, and expects to post positive core earnings by December 2025 &lpar;Reuters&rpar;](http://www.techmeme.com/241205/p14#a241205p14)
- - [Q&amp;A with Anthropic CEO Dario Amodei on his &quot;Machines of Loving Grace&quot; essay, AI industry concentration, why democracies must maintain the lead in AI, and more &lpar;Madhumita Murgia/Financial Times&rpar;](http://www.techmeme.com/241205/p13#a241205p13)
- - [Save $45 on This Excellent Pet Grooming Kit and Vacuum With This Late Cyber Monday Deal](https://www.cnet.com/deals/save-45-on-this-excellent-pet-grooming-kit-and-vacuum-with-this-late-cyber-monday-deal/#ftag=CAD590a51e)
- - [AI language translation was one of the most beneficial uses of AI during major global elections in 2024, and AI misinformation was not as catastrophic as feared &lpar;The Conversation&rpar;](http://www.techmeme.com/241205/p12#a241205p12)<!-- TECH:END -->
+ - [Samsung Galaxy S24 vs. S24 FE: Is the Higher-End Phone the Better Value?](https://www.cnet.com/tech/mobile/samsung-galaxy-s24-vs-s24-fe-is-the-higher-end-phone-the-better-value/#ftag=CAD590a51e)
+ - [Start Your 2025 Savings Goals Now. High APYs Could Be Gone by the New Year. Today&#39;s Savings Rates, Dec. 5, 2024](https://www.cnet.com/personal-finance/banking/start-your-2025-savings-goals-now-high-apys-could-be-gone-by-the-new-year-todays-savings-rates-dec-5-2024/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

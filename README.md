@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Past, Present, Future: The state of Apple Intelligence in December 2024](https://appleinsider.com/articles/24/12/05/past-present-future-the-state-of-apple-intelligence-in-december-2024?utm_medium=rss)
- - [NZXT responded to the Flex PC rental program controversy, but it’s not over yet](https://www.theverge.com/2024/12/5/24313974/nzxt-flex-pc-rental-response)
- - [Watch the MSL Cup final for free on Apple TV this Saturday](https://appleinsider.com/articles/24/12/05/watch-the-msl-cup-final-for-free-on-apple-tv-this-saturday?utm_medium=rss)
- - [Viral influencer Haliey Welch&#39;s Hawk Tuah memecoin sparks outrage across social media as it briefly pumped to a peak market cap of $490M and then dumped 90%+ &lpar;Tom Mitchelhill/Cointelegraph&rpar;](http://www.techmeme.com/241205/p28#a241205p28)
- - [Trans Americans Are Turning to TikTok to Crowdfund Their Relocations](https://www.wired.com/story/trans-americans-are-turning-to-tiktok-to-crowdfund-their-relocations/)<!-- TECH:END -->
+ - [Android 15’s first major update has arrived](https://www.theverge.com/2024/12/5/24313569/android-15-qpr1-pixel-december-feature-drop)
+ - [Intel adds former ASML CEO Eric Meurice and Microchip interim CEO Steve Sanghi to its board; both have significant semiconductor manufacturing experience &lpar;Rohan Goswami/CNBC&rpar;](http://www.techmeme.com/241205/p29#a241205p29)
+ - [Android Is Now Using AI to Upgrade Your Phone’s Closed Captions](https://www.wired.com/story/android-pixel-december-2024-software-updates/)
+ - [Microsoft and Google are fighting over the future of Xbox](https://www.theverge.com/2024/12/5/24313976/microsoft-google-xbox-app-android-future-notepad)
+ - [Microsoft’s Copilot can browse the web with you using AI ‘Vision’](https://www.theverge.com/2024/12/5/24313888/microsoft-copilot-vision-testing-websites)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -167,10 +167,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [Good Man](http://9gag.com/gag/aW4jDVx)
- - 😝 [`I don&#39;t even know what I&#39;m doing here`](http://9gag.com/gag/aKG6OwQ)
- - 💣 [Title](http://9gag.com/gag/aVv7R1n)
+ - 😝 [A baby elephant was rescued after becoming stuck between tree stumps for a day in Zimbabwe](http://9gag.com/gag/axyMR5n)
+ - 💣 [Lil Wayne with the police officer, `Uncle Bob,` who saved his life when he was 12 years old.](http://9gag.com/gag/a5QE2GO)
  - 😝 [Blasting some duckin&#39; sick beats! \ud83e\udd86\ud83d\udca5](http://9gag.com/gag/aYQoRx2)
- - 👉 [Funeral in Ghana](http://9gag.com/gag/aXPo25b)<!-- MEMES:END -->
+ - 👉 [Stay On Target](http://9gag.com/gag/a87E296)<!-- MEMES:END -->
 
 ---
 

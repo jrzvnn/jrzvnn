@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [US SEC filing: xAI raised $6B, bringing its total raised to $12B; it was reportedly aiming for a $50B valuation &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/241205/p40#a241205p40)
  - [NASA’s mission to return humans to the Moon has been delayed again until 2026](https://www.theverge.com/2024/12/5/24314193/nasa-artemis-ii-iii-moon-mission-landing-april-2026-2027)
  - [James Cameron&#39;s Lightstorm Vision strikes a deal with Meta to bring more premium content to the Meta Quest mixed reality headsets featuring &quot;big-name IP&quot; &lpar;Alex Weprin/The Hollywood Reporter&rpar;](http://www.techmeme.com/241205/p39#a241205p39)
  - [Spotify suddenly cut off app developers from a bunch of its data](https://www.theverge.com/2024/12/5/24311523/spotify-locked-down-apis-developers)
- - [Apple&#39;s display roadmap could lead to OLED iPad mini in 2026](https://appleinsider.com/articles/24/12/05/apples-display-roadmap-could-lead-to-oled-ipad-mini-in-2026?utm_medium=rss)
- - [Colorado-based AMP Robotics, which uses AI and robotics to sort municipal solid waste, raised a $91M Series D led by Congruent Ventures &lpar;The Robot Report&rpar;](http://www.techmeme.com/241205/p38#a241205p38)<!-- TECH:END -->
+ - [Apple&#39;s display roadmap could lead to OLED iPad mini in 2026](https://appleinsider.com/articles/24/12/05/apples-display-roadmap-could-lead-to-oled-ipad-mini-in-2026?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

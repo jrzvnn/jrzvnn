@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Sundar Pichai says Google Search will ‘change profoundly’ in 2025](https://www.theverge.com/2024/12/5/24314245/sundar-pichai-google-search-change-profoundly-2025)
+ - [PUBG’s creator has an ambitious plan for multiple new games](https://www.theverge.com/2024/12/5/24313965/pubg-brendan-playerunknown-greene-new-games-krafton)
+ - [US intelligence reports: online terrorist network 764 is using techniques normally used for financial crimes, such as SIM swapping, to commit child sextortion &lpar;CyberScoop&rpar;](http://www.techmeme.com/241205/p41#a241205p41)
  - [Nearly 80,000 Anker speakers recalled due to fire hazard](https://www.theverge.com/2024/12/5/24314217/anker-bluetooth-speaker-recall-fire-hazard-amazon)
- - [The Verge’s 2024 holiday gift guide](https://www.theverge.com/24224043/holiday-gift-guide-2024-best-ideas-unique-tech-gadgets)
- - [10&quot; Wifi Digital Photo Frame](https://www.cnet.com/tech/10-wifi-digital-photo-frame-dpnl/#ftag=CAD590a51e)
- - [Best Cyber Week Mattress Deals: We Found the Best Still Available Mattress Discounts on Purple, Casper, Nectar and More](https://www.cnet.com/deals/best-mattress-deals/#ftag=CAD590a51e)
- - [28&quot; Gas Fire Pit Table](https://www.cnet.com/news/28-gas-fire-pit-table-dpnl/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [The Verge’s 2024 holiday gift guide](https://www.theverge.com/24224043/holiday-gift-guide-2024-best-ideas-unique-tech-gadgets)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

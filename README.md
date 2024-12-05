@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [This new smart thermostat from Meross works with Matter](https://www.theverge.com/2024/12/5/24313941/meross-matter-smart-thermostat-release-date-price-specs)
- - [Ikea’s smart lights can now automatically adjust throughout the day](https://www.theverge.com/2024/12/5/24313938/ikea-ios-android-home-smart-app-lights-dirigera-adaptive-lighting)
- - [25 Gift Ideas Under $25 &lpar;2024&rpar;, Tested and Reviewed](https://www.wired.com/gallery/25-amazing-holiday-gift-ideas-under-25-2024/)
- - [Apple Watch tracks more health metrics than you realize](https://appleinsider.com/articles/24/12/03/apple-watch-tracks-more-health-metrics-than-you-realize?utm_medium=rss)
- - [Twos is a handy to-do list app with exactly the right amount of AI](https://www.theverge.com/2024/12/5/24313672/twos-app-tasks-notes-ai)<!-- TECH:END -->
+ - [10 Best Travel Adapters 2024: Top Picks to Keep Devices Charged](https://www.wired.com/gallery/best-travel-adapters/)
+ - [Why investors don’t mind that AI is a money pit](https://www.theverge.com/2024/12/5/24313373/ai-spending-enterprise-profits-investment-menlo-ventures-openai-anthropic-decoder-podcast)
+ - [Waymo’s next robotaxi city will be Miami](https://www.theverge.com/2024/12/5/24313346/waymo-miami-robotaxi-moove-2026)
+ - [Amazon’s Secret Level is a hollow anthology of video game cutscenes](https://www.theverge.com/24313309/secret-level-review-amazon-prime-video)
+ - [This new smart thermostat from Meross works with Matter](https://www.theverge.com/2024/12/5/24313941/meross-matter-smart-thermostat-release-date-price-specs)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Hands-on with Xreal&#39;s One Series smart glasses, powered by its custom-made X1 chip, shipping December 9 for the $499 One and early 2025 for the $599 One Pro &lpar;Scott Stein/CNET&rpar;](http://www.techmeme.com/241204/p55#a241204p55)
+ - [How to renew your DHCP lease on macOS](https://appleinsider.com/inside/macos/tips/how-to-renew-your-dhcp-lease-on-macos?utm_medium=rss)
  - [Apple Savings APY hits new low of 3.90% after Federal Reserve rate cut](https://appleinsider.com/articles/24/12/05/apple-savings-apy-hits-new-low-of-390-after-federal-reserve-rate-cut?utm_medium=rss)
  - [Bitcoin just hit $100,000](https://www.theverge.com/2024/12/4/24303204/bitcoin-price-hit-100000)
- - [Some Spotify users are left underwhelmed by 2024&#39;s Spotify Wrapped, complaining about the inclusion of an AI podcast, a lack of detailed statistics, and more &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/241204/p54#a241204p54)
- - [Former Apple employees allegedly stole $152k through donation matching scam](https://appleinsider.com/articles/24/12/05/former-apple-employees-allegedly-stole-152k-through-donation-matching-scam?utm_medium=rss)
- - [Bitcoin reached $100K for the first time after rallying ~126% since January 2024, driven by Bitcoin ETF demand, April&#39;s halving, and Donald Trump&#39;s election win &lpar;Helen Partz/Cointelegraph&rpar;](http://www.techmeme.com/241204/p53#a241204p53)<!-- TECH:END -->
+ - [Some Spotify users were underwhelmed by 2024 Wrapped, complaining about prioritizing an AI podcast over data stories, a lack of detailed statistics, and more &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/241204/p54#a241204p54)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

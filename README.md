@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Amazon is rolling out a Buy with AWS button that software companies can add to their websites as a way for customers with AWS accounts to pay for services &lpar;Jordan Novet/CNBC&rpar;](http://www.techmeme.com/241204/p49#a241204p49)
- - [First impressions of Amazon Nova LLMs: they are competitive with Google Gemini, among the cheapest available, and may position Amazon as a top model provider &lpar;Simon Willison/Simon Willison&#39;s Weblog&rpar;](http://www.techmeme.com/241204/p48#a241204p48)
- - [Jeff Bezos says he’s ‘very optimistic this time around’ about Trump](https://www.theverge.com/2024/12/4/24313549/bezos-trump-optimistic-dealbook-summit-doge)
- - [The NYPD is trying to track a Citi Bike used by the UnitedHealthcare CEO’s killer](https://www.theverge.com/2024/12/4/24313480/lyft-united-health-ceo-shooter-escaped-citi-bike-cooperating-authorities)
- - [US officials recommend encrypted messaging to evade hackers in telecom networks](https://www.theverge.com/2024/12/4/24313187/encrypted-apps-salt-typhoon-hack-telecom-fbi-cisa)<!-- TECH:END -->
+ - [The White House says the Salt Typhoon hack has impacted eight telecom firms in the US, with dozens of other countries also affected, for as long as two years &lpar;Greg Otto/CyberScoop&rpar;](http://www.techmeme.com/241204/p51#a241204p51)
+ - [Dockcase MagSafe SSD Enclosure review: Small and nimble storage on the go](https://appleinsider.com/articles/24/12/05/dockcase-magsafe-ssd-enclosure-review-small-and-nimble-storage-on-the-go?utm_medium=rss)
+ - [Cricket Livestream: How to Watch Australia vs. India 2nd Test From Anywhere](https://www.cnet.com/tech/services-and-software/cricket-livestream-how-to-watch-australia-vs-india-2nd-test-from-anywhere/#ftag=CAD590a51e)
+ - [Trump picks Paul Atkins, a former SEC commissioner who is seen as a strong advocate for looser regulation of crypto assets, to succeed Gary Gensler as SEC chair &lpar;New York Times&rpar;](http://www.techmeme.com/241204/p50#a241204p50)
+ - [Humane wants to put the AI Pin’s software inside your phone, car, and smart speaker](https://www.theverge.com/2024/12/4/24313582/humane-ai-pin-cosmos-phone-car-smart-speaker)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

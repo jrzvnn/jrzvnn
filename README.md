@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The PC Gaming Show’s best trailers: creepy aliens, strategic turtles, and desktop platformers](https://www.theverge.com/2024/12/5/24314133/pc-gaming-show-2024-best-trailers)
+ - [Waymo Is Expanding to Miami: Everything to Know About the Growing Robotaxi Service](https://www.cnet.com/roadshow/news/waymo-expands-to-miami-everything-to-know-about-the-growing-robotaxi-service/#ftag=CAD590a51e)
  - [Here&#39;s What OpenAI&#39;s $200 Monthly ChatGPT Pro Subscription Includes](https://www.wired.com/story/openai-chatgpt-pro-subscription/)
- - [Sundar Pichai says Google Search will ‘change profoundly’ in 2025](https://www.theverge.com/2024/12/5/24314245/sundar-pichai-google-search-change-profoundly-2025)
- - [PUBG’s creator has an ambitious plan for multiple new games](https://www.theverge.com/2024/12/5/24313965/pubg-brendan-playerunknown-greene-new-games-krafton)
- - [US intelligence reports: online terrorist network 764 is using techniques normally used for financial crimes, such as SIM swapping, to commit child sextortion &lpar;CyberScoop&rpar;](http://www.techmeme.com/241205/p41#a241205p41)
- - [Nearly 80,000 Anker speakers recalled due to fire hazard](https://www.theverge.com/2024/12/5/24314217/anker-bluetooth-speaker-recall-fire-hazard-amazon)<!-- TECH:END -->
+ - [I Tried the $299 Feno Smartbrush to Clean My Teeth. It&#39;s a Whole New Vibration](https://www.cnet.com/tech/services-and-software/i-tried-the-299-feno-smartbrush-to-clean-my-teeth-its-a-whole-new-vibration/#ftag=CAD590a51e)
+ - [Sundar Pichai says Google Search will ‘change profoundly’ in 2025](https://www.theverge.com/2024/12/5/24314245/sundar-pichai-google-search-change-profoundly-2025)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

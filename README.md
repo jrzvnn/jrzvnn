@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [This login interface](http://9gag.com/gag/aPA3rXg)
- - 😝 [Title](http://9gag.com/gag/aVv7R1n)
- - 💣 [Germoney.](http://9gag.com/gag/a4PEwww)
+ - 😝 [Funeral in Ghana](http://9gag.com/gag/aXPo25b)
+ - 😝 [Bro regretted taking her](http://9gag.com/gag/aBy2GGZ)
+ - 💣 [Mischief managed](http://9gag.com/gag/awyMdwD)
  - 😝 [Blasting some duckin&#39; sick beats! \ud83e\udd86\ud83d\udca5](http://9gag.com/gag/aYQoRx2)
- - 👉 [My first Cmas Repost](http://9gag.com/gag/aVv7BQy)<!-- MEMES:END -->
+ - 👉 [Good Man](http://9gag.com/gag/aW4jDVx)<!-- MEMES:END -->
 
 ---
 

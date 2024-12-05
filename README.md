@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Title](http://9gag.com/gag/aVv7R1n)
- - 😝 [My first Cmas Repost](http://9gag.com/gag/aVv7BQy)
- - 💣 [Germoney.](http://9gag.com/gag/a4PEwww)
- - 😝 [Blasting some duckin&#39; sick beats! \ud83e\udd86\ud83d\udca5](http://9gag.com/gag/aYQoRx2)
- - 👉 [Real rap](http://9gag.com/gag/an7QGPn)<!-- MEMES:END -->
+ - 😝 [She must work on a dairy farm\u2026](http://9gag.com/gag/aRBXoqB)
+ - 😝 [USS Low Ground](http://9gag.com/gag/aO831Br)
+ - 💣 [Thank you Hedgehog](http://9gag.com/gag/agmBj4v)
+ - 😝 [Captain, is this true? Expert opinion please!](http://9gag.com/gag/aMVKWBx)
+ - 👉 [Infinite Aura](http://9gag.com/gag/a0e7Edv)<!-- MEMES:END -->
 
 ---
 

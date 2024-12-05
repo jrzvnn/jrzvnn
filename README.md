@@ -167,9 +167,9 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [Does this count?](http://9gag.com/gag/agmBdR1)
- - 😝 [Champion](http://9gag.com/gag/azxMDbb)
- - 💣 [What the lol](http://9gag.com/gag/aW4jD5n)
- - 😝 [UnitedHealthcare CEO Brian Thompson shot dead](http://9gag.com/gag/awyMvdx)
+ - 😝 [This cyclist has been spitting on his car for weeks, until the owner had an idea](http://9gag.com/gag/aNDpjp4)
+ - 💣 [UnitedHealthcare CEO Brian Thompson shot dead](http://9gag.com/gag/awyMvdx)
+ - 😝 [Well.. that&#39;s embarrassing](http://9gag.com/gag/aE0pQ2o)
  - 👉 [Nothing, ungrateful sons of b*tches. Not even a coffee cup](http://9gag.com/gag/aKG6LKb)<!-- MEMES:END -->
 
 ---

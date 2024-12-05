@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Let&#39;s fight racism together! Say NO to other colors!](http://9gag.com/gag/aRBXNeM)
- - 😝 [We miss you Alan](http://9gag.com/gag/apRNjKD)
- - 💣 [Champion](http://9gag.com/gag/azxMDbb)
- - 😝 [Notice the women didn&#39;t pop are also the prettiest](http://9gag.com/gag/aZZ0dG9)
- - 👉 [Love you, f**kers](http://9gag.com/gag/aPA3dLR)<!-- MEMES:END -->
+ - 😝 [Does this count?](http://9gag.com/gag/agmBdR1)
+ - 😝 [Champion](http://9gag.com/gag/azxMDbb)
+ - 💣 [What the lol](http://9gag.com/gag/aW4jD5n)
+ - 😝 [UnitedHealthcare CEO Brian Thompson shot dead](http://9gag.com/gag/awyMvdx)
+ - 👉 [Nothing, ungrateful sons of b*tches. Not even a coffee cup](http://9gag.com/gag/aKG6LKb)<!-- MEMES:END -->
 
 ---
 

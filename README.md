@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [NASA’s mission to return humans to the Moon has been delayed again until 2026](https://www.theverge.com/2024/12/5/24314193/nasa-artemis-ii-iii-moon-mission-landing-april-2026-2027)
+ - [James Cameron&#39;s Lightstorm Vision strikes a deal with Meta to bring more premium content to the Meta Quest mixed reality headsets featuring &quot;big-name IP&quot; &lpar;Alex Weprin/The Hollywood Reporter&rpar;](http://www.techmeme.com/241205/p39#a241205p39)
  - [Spotify suddenly cut off app developers from a bunch of its data](https://www.theverge.com/2024/12/5/24311523/spotify-locked-down-apis-developers)
  - [Apple&#39;s display roadmap could lead to OLED iPad mini in 2026](https://appleinsider.com/articles/24/12/05/apples-display-roadmap-could-lead-to-oled-ipad-mini-in-2026?utm_medium=rss)
- - [Colorado-based AMP Robotics, which uses AI and robotics to sort municipal solid waste, raised a $91M Series D led by Congruent Ventures &lpar;The Robot Report&rpar;](http://www.techmeme.com/241205/p38#a241205p38)
- - [Google releases new Android features, including &quot;expressive&quot; video captions, improvements to the Pixel Screenshots app, a Spotify extension for Gemini, and more &lpar;Igor Bonifacic/Engadget&rpar;](http://www.techmeme.com/241205/p37#a241205p37)
- - [Bluesky CEO Jay Graber says it is not &quot;necessarily true&quot; that Bluesky will always be ad-free; ads could be &quot;user intent-driven&quot;, like running in search results &lpar;Maxwell Zeff/TechCrunch&rpar;](http://www.techmeme.com/241205/p36#a241205p36)<!-- TECH:END -->
+ - [Colorado-based AMP Robotics, which uses AI and robotics to sort municipal solid waste, raised a $91M Series D led by Congruent Ventures &lpar;The Robot Report&rpar;](http://www.techmeme.com/241205/p38#a241205p38)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

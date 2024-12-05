@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [South Korea Special Forces rebels easily neutralized by Tai Chi veteran news reporter](http://9gag.com/gag/aD2dXNd)
- - 😝 [Stay On Target](http://9gag.com/gag/a87E296)
- - 💣 [Your order](http://9gag.com/gag/aNDp326)
+ - 😝 [Mischief managed](http://9gag.com/gag/awyMdwD)
+ - 😝 [9gaggers....](http://9gag.com/gag/a34E2XQ)
+ - 💣 [Infinite Aura](http://9gag.com/gag/a0e7Edv)
  - 😝 [Blasting some duckin&#39; sick beats! \ud83e\udd86\ud83d\udca5](http://9gag.com/gag/aYQoRx2)
- - 👉 [Pauline Grabosch is the biggest asset of the German track cycling team](http://9gag.com/gag/aryM240)<!-- MEMES:END -->
+ - 👉 [A well trained fiance](http://9gag.com/gag/aD2dVyB)<!-- MEMES:END -->
 
 ---
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [AT&amp;T&#39;s stock is up 35% in 2024 after CEO John Stankey reversed course in 2022 and spun off Warner Bros. and DirecTV, and plans to return $40B+ to shareholders &lpar;Drew FitzGerald/Wall Street Journal&rpar;](http://www.techmeme.com/241205/p15#a241205p15)
  - [Bengaluru-based Swiggy reports Q2 revenue of ~$425M and a $74M loss in its first post-IPO earnings, and expects to post positive core earnings by December 2025 &lpar;Reuters&rpar;](http://www.techmeme.com/241205/p14#a241205p14)
  - [Q&amp;A with Anthropic CEO Dario Amodei on his &quot;Machines of Loving Grace&quot; essay, AI industry concentration, why democracies must maintain the lead in AI, and more &lpar;Madhumita Murgia/Financial Times&rpar;](http://www.techmeme.com/241205/p13#a241205p13)
  - [Save $45 on This Excellent Pet Grooming Kit and Vacuum With This Late Cyber Monday Deal](https://www.cnet.com/deals/save-45-on-this-excellent-pet-grooming-kit-and-vacuum-with-this-late-cyber-monday-deal/#ftag=CAD590a51e)
- - [AI language translation was one of the most beneficial uses of AI during major global elections in 2024, and AI misinformation was not as catastrophic as feared &lpar;The Conversation&rpar;](http://www.techmeme.com/241205/p12#a241205p12)
- - [CCData: crypto trading volume hit an all-time high in November, with $10T+ of assets traded for the first time on centralized spot and derivatives exchanges &lpar;Olga Kharif/Bloomberg&rpar;](http://www.techmeme.com/241205/p11#a241205p11)<!-- TECH:END -->
+ - [AI language translation was one of the most beneficial uses of AI during major global elections in 2024, and AI misinformation was not as catastrophic as feared &lpar;The Conversation&rpar;](http://www.techmeme.com/241205/p12#a241205p12)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

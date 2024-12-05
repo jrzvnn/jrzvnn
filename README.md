@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Good Man](http://9gag.com/gag/aW4jDVx)
- - 😝 [Next level.](http://9gag.com/gag/a34EWY1)
- - 💣 [Oof](http://9gag.com/gag/apRNb3E)
+ - 😝 [Infinite Aura](http://9gag.com/gag/a0e7Edv)
+ - 😝 [Who put a step in the middle of the road?](http://9gag.com/gag/aNDp4NG)
+ - 💣 [Bro regretted taking her](http://9gag.com/gag/aBy2GGZ)
  - 😝 [Blasting some duckin&#39; sick beats! \ud83e\udd86\ud83d\udca5](http://9gag.com/gag/aYQoRx2)
- - 👉 [Bro regretted taking her](http://9gag.com/gag/aBy2GGZ)<!-- MEMES:END -->
+ - 👉 [It&#39;s 2003, and these two students didn&#39;t realize they just made a massive hit song.](http://9gag.com/gag/aBy2O4Q)<!-- MEMES:END -->
 
 ---
 

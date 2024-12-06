@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Asus teaser hints at ‘world’s first’ 27-inch 4K OLED gaming monitor](https://www.theverge.com/2024/12/6/24314760/asus-27-inch-4k-oled-monitor-teaser-rumor-ces-2025)
+ - [Muppet History was a bright spot online — now it’s embroiled in a sexual harassment scandal](https://www.theverge.com/2024/12/6/24312382/muppet-history-fandom-sexual-harassment-dms)
  - [The &quot;AI is fake and sucks&quot; people who take phony comfort in their AI skepticism need to accept that AI is more real and dangerous than they currently admit &lpar;Casey Newton/Platformer&rpar;](http://www.techmeme.com/241206/p15#a241206p15)
  - [Apple&#39;s iPhone 17 Slim is a wrongheaded approach that ignores what people really want](https://appleinsider.com/articles/24/12/06/apples-iphone-17-slim-is-a-wrongheaded-approach-that-ignores-what-people-really-want?utm_medium=rss)
- - [Skip the Sea Kelp Supplements &lpar;2024&rpar;](https://www.wired.com/story/pass-on-sea-kelp-supplements/)
- - [Google Photos now has its own version of Spotify Wrapped](https://www.theverge.com/2024/12/6/24314709/google-photos-2024-recap-memories-spotify-wrapped)
- - [Romania&#39;s top court annuls presidential election, after its security council revealed &quot;hybrid Russian attacks&quot;, like cyberattacks and TikTok influence campaigns &lpar;CNN&rpar;](http://www.techmeme.com/241206/p14#a241206p14)<!-- TECH:END -->
+ - [Skip the Sea Kelp Supplements &lpar;2024&rpar;](https://www.wired.com/story/pass-on-sea-kelp-supplements/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Yeah bud copyright your shitty wannabe meme I&#39;m sure it will go viral](http://9gag.com/gag/aNDp850)
- - 😝 [A breeding bull entering the farm full of cows](http://9gag.com/gag/aPA3zdB)
- - 💣 [Captain, is this true? Expert opinion please!](http://9gag.com/gag/aMVKWBx)
+ - 😝 [We miss you Alan](http://9gag.com/gag/apRNjKD)
+ - 😝 [Smells like teen spirit](http://9gag.com/gag/aBy2v6Q)
+ - 💣 [Notice the women didn&#39;t pop are also the prettiest](http://9gag.com/gag/aZZ0dG9)
  - 😝 [\ud83c\udfa7Those beats just HIT DIFFERENT! Santa clau5 is coming to town!!](http://9gag.com/gag/a4PEBE6)
- - 👉 [Definitely setting a good foundation for a marriage](http://9gag.com/gag/aKG6nNQ)<!-- MEMES:END -->
+ - 👉 [World\u2019s fastest drag racer hits 580kmph &lpar;360mph&rpar; in just 3 seconds](http://9gag.com/gag/apRNzAW)<!-- MEMES:END -->
 
 ---
 

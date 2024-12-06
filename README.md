@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Sources: Apple&#39;s in-house modems will debut next spring in the new iPhone SE, with 2nd-gen modems expected in higher-end products like iPhone 18 lineup in 2026 &lpar;Mark Gurman/Bloomberg&rpar;](http://www.techmeme.com/241206/p19#a241206p19)
+ - [Lawsuit complaining about Apple&#39;s free 5GB iCloud plan is dismissed](https://appleinsider.com/articles/24/12/06/lawsuit-complaining-about-apples-free-5gb-icloud-plan-is-dismissed?utm_medium=rss)
+ - [The Inside Story of Apple Intelligence](https://www.wired.com/story/plaintext-the-inside-story-of-apple-intelligence/)
  - [Sauron, which is touting a waiting list of tech CEOs and VCs for its home security system that incorporates drones and facial recognition, raised a $18M seed &lpar;Nitasha Tiku/Washington Post&rpar;](http://www.techmeme.com/241206/p18#a241206p18)
- - [A Federal Appeals Court Just Upheld the TikTok Ban. Here’s What Could Happen Next](https://www.wired.com/story/doj-tiktok-constitutional-lawsuit/)
- - [Researchers put bird legs on a drone so it can take off by jumping](https://www.theverge.com/2024/12/6/24314771/epfl-uc-irvine-drone-raven-aircraft-research-science)
- - [21 Gift Ideas for the Home Chef &lpar;2024&rpar;: Vitamix, Cookbooks](https://www.wired.com/gallery/gift-for-the-home-chef-2024/)
- - [Sources: Ubisoft shareholders are considering how to structure a possible buyout of the game maker without reducing the founding Guillemot family&#39;s control &lpar;Reuters&rpar;](http://www.techmeme.com/241206/p17#a241206p17)<!-- TECH:END -->
+ - [A Federal Appeals Court Just Upheld the TikTok Ban. Here’s What Could Happen Next](https://www.wired.com/story/doj-tiktok-constitutional-lawsuit/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

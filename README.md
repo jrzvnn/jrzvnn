@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [UnitedHealthcare CEO Brian Thompson shot dead](http://9gag.com/gag/awyMvdx)
- - 😝 [Does this count?](http://9gag.com/gag/agmBdR1)
- - 💣 [Well.. that&#39;s embarrassing](http://9gag.com/gag/aE0pQ2o)
+ - 😝 [Your order](http://9gag.com/gag/aNDp326)
+ - 😝 [Nothing, ungrateful sons of b*tches. Not even a coffee cup](http://9gag.com/gag/aKG6LKb)
+ - 💣 [Your coverage is denied](http://9gag.com/gag/aBy2vbN)
  - 😝 [\ud83c\udfa7Those beats just HIT DIFFERENT! Santa clau5 is coming to town!!](http://9gag.com/gag/a4PEBE6)
- - 👉 [World\u2019s fastest drag racer hits 580kmph &lpar;360mph&rpar; in just 3 seconds](http://9gag.com/gag/apRNzAW)<!-- MEMES:END -->
+ - 👉 [Smells like teen spirit](http://9gag.com/gag/aBy2v6Q)<!-- MEMES:END -->
 
 ---
 

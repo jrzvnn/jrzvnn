@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [13 Deals on WIRED-Approved Gear at Walmart](https://www.wired.com/story/weekend-deals-december-7-2024/)
+ - [T-Mobile is introducing ‘revamped’ 5G Home Internet plans](https://www.theverge.com/2024/12/6/24314956/t-mobile-5g-home-internet-plans-rely-amplified-all-in)
  - [Apple’s custom modems could put 5G in Macs and Vision Pro](https://www.theverge.com/2024/12/6/24315099/apple-custom-modems-5g-macs-vision-pro)
  - [Google Wallet can now be your passport at many airports](https://www.theverge.com/2024/12/6/24315065/google-wallet-digital-id-passport-airports)
- - [Sources: with its own modem in the pipeline, Apple is investigating bringing cellular connectivity to the Mac and headsets like Vision Pro for the first time &lpar;Mark Gurman/Bloomberg&rpar;](http://www.techmeme.com/241206/p28#a241206p28)
- - [These Already-Affordable Bose Earbuds Are Now at a $50 Discount at Amazon](https://www.cnet.com/deals/bose-quietcomfort-earbuds-129-deal/#ftag=CAD590a51e)
- - [This Incredible Deal on Smart Icicle Lights Lets You Decorate Your Home for Half Price](https://www.cnet.com/deals/i-found-an-incredible-deal-on-smart-icicle-lights-so-you-can-decorate-your-home-for-half-price/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Sources: with its own modem in the pipeline, Apple is investigating bringing cellular connectivity to the Mac and headsets like Vision Pro for the first time &lpar;Mark Gurman/Bloomberg&rpar;](http://www.techmeme.com/241206/p28#a241206p28)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Apple&#39;s ongoing modem push rumored to result in cellular MacBooks](https://appleinsider.com/articles/24/12/06/apples-ongoing-modem-push-rumored-to-result-in-cellular-macbooks?utm_medium=rss)
  - [13 Deals on WIRED-Approved Gear at Walmart](https://www.wired.com/story/weekend-deals-december-7-2024/)
  - [T-Mobile is introducing ‘revamped’ 5G Home Internet plans](https://www.theverge.com/2024/12/6/24314956/t-mobile-5g-home-internet-plans-rely-amplified-all-in)
  - [Apple’s custom modems could put 5G in Macs and Vision Pro](https://www.theverge.com/2024/12/6/24315099/apple-custom-modems-5g-macs-vision-pro)
- - [Google Wallet can now be your passport at many airports](https://www.theverge.com/2024/12/6/24315065/google-wallet-digital-id-passport-airports)
- - [Sources: with its own modem in the pipeline, Apple is investigating bringing cellular connectivity to the Mac and headsets like Vision Pro for the first time &lpar;Mark Gurman/Bloomberg&rpar;](http://www.techmeme.com/241206/p28#a241206p28)<!-- TECH:END -->
+ - [Google Wallet can now be your passport at many airports](https://www.theverge.com/2024/12/6/24315065/google-wallet-digital-id-passport-airports)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

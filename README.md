@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Found the hoodie guy!](http://9gag.com/gag/aGyprz0)
- - 😝 [The absoulte state of the internet right now.](http://9gag.com/gag/ajPm3Rg)
- - 💣 [Subsonic Ammo with silencers makes guns extremely quiet](http://9gag.com/gag/aQzoBNe)
+ - 😝 [Karma](http://9gag.com/gag/awyMP2B)
+ - 😝 [WE FOUND HIM](http://9gag.com/gag/adB8rGd)
+ - 💣 [Love you, f**kers](http://9gag.com/gag/aPA3dLR)
  - 😝 [\ud83c\udfa7Those beats just HIT DIFFERENT! Santa clau5 is coming to town!!](http://9gag.com/gag/a4PEBE6)
- - 👉 [Give mom a minute](http://9gag.com/gag/axyMnq2)<!-- MEMES:END -->
+ - 👉 [New York citizens right now](http://9gag.com/gag/aMVK0QP)<!-- MEMES:END -->
 
 ---
 

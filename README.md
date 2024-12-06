@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [World\u2019s fastest drag racer hits 580kmph &lpar;360mph&rpar; in just 3 seconds](http://9gag.com/gag/apRNzAW)
- - 😝 [Eye check](http://9gag.com/gag/awyMe6W)
- - 💣 [Ip Man](http://9gag.com/gag/ajPmGZR)
- - 😝 [Subsonic Ammo with silencers makes guns extremely quiet](http://9gag.com/gag/aQzoBNe)
- - 👉 [Notice the women didn&#39;t pop are also the prettiest](http://9gag.com/gag/aZZ0dG9)<!-- MEMES:END -->
+ - 😝 [UnitedHealthcare CEO Brian Thompson shot dead](http://9gag.com/gag/awyMvdx)
+ - 😝 [Does this count?](http://9gag.com/gag/agmBdR1)
+ - 💣 [Well.. that&#39;s embarrassing](http://9gag.com/gag/aE0pQ2o)
+ - 😝 [\ud83c\udfa7Those beats just HIT DIFFERENT! Santa clau5 is coming to town!!](http://9gag.com/gag/a4PEBE6)
+ - 👉 [World\u2019s fastest drag racer hits 580kmph &lpar;360mph&rpar; in just 3 seconds](http://9gag.com/gag/apRNzAW)<!-- MEMES:END -->
 
 ---
 

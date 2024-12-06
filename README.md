@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Captain, is this true? Expert opinion please!](http://9gag.com/gag/aMVKWBx)
- - 😝 [A breeding bull entering the farm full of cows](http://9gag.com/gag/aPA3zdB)
- - 💣 [Subsonic Ammo with silencers makes guns extremely quiet](http://9gag.com/gag/aQzoBNe)
+ - 😝 [World\u2019s fastest drag racer hits 580kmph &lpar;360mph&rpar; in just 3 seconds](http://9gag.com/gag/apRNzAW)
+ - 😝 [Subsonic Ammo with silencers makes guns extremely quiet](http://9gag.com/gag/aQzoBNe)
+ - 💣 [Is this a guide or something..?](http://9gag.com/gag/a7oEBvb)
  - 😝 [\ud83c\udfa7Those beats just HIT DIFFERENT! Santa clau5 is coming to town!!](http://9gag.com/gag/a4PEBE6)
- - 👉 [Definitely setting a good foundation for a marriage](http://9gag.com/gag/aKG6nNQ)<!-- MEMES:END -->
+ - 👉 [Extracting gold from used electronics](http://9gag.com/gag/aE0pb7e)<!-- MEMES:END -->
 
 ---
 

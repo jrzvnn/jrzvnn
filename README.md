@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [These are the best discounts on Apple&#39;s MacBook Air for holiday gift-giving](https://appleinsider.com/articles/24/12/06/these-are-the-best-discounts-on-apples-macbook-air-for-holiday-gift-giving?utm_medium=rss)
  - [A US teen faces backlash for making ~$50K via a &quot;soft rug pull&quot; on Pump.Fun, which made $250M+ in less than a year and is struggling to protect users from scams &lpar;Joel Khalili/Wired&rpar;](http://www.techmeme.com/241206/p27#a241206p27)
  - [The Real Story of “The Order”](https://www.wired.com/story/real-story-the-order-fbi-movie-bob-mathews/)
  - [Keeping Your Personal Data Safe in the Age of Trump](https://www.wired.com/story/politics-lab-keeping-your-personal-data-safe/)
- - [The Verge’s favorite holiday gifts under $50](https://www.theverge.com/24224039/best-gifts-under-50-ideas-cheap-tech-2024-budget)
- - [SpaceX got a Pentagon contract in August to expand Ukraine&#39;s access to Starshield, an encrypted signal over Starlink that&#39;s more difficult to hack into or jam &lpar;Anthony Capaccio/Bloomberg&rpar;](http://www.techmeme.com/241206/p26#a241206p26)<!-- TECH:END -->
+ - [The Verge’s favorite holiday gifts under $50](https://www.theverge.com/24224039/best-gifts-under-50-ideas-cheap-tech-2024-budget)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

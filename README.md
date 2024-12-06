@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [A braveman Overcome shooter and saved lives](http://9gag.com/gag/aoyMdGX)
- - 😝 [Your order](http://9gag.com/gag/aNDp326)
- - 💣 [Nothing, ungrateful sons of b*tches. Not even a coffee cup](http://9gag.com/gag/aKG6LKb)
+ - 😝 [Smells like teen spirit](http://9gag.com/gag/aBy2v6Q)
+ - 😝 [Does this count?](http://9gag.com/gag/agmBdR1)
+ - 💣 [Eye check](http://9gag.com/gag/awyMe6W)
  - 😝 [\ud83c\udfa7Those beats just HIT DIFFERENT! Santa clau5 is coming to town!!](http://9gag.com/gag/a4PEBE6)
- - 👉 [Does this count?](http://9gag.com/gag/agmBdR1)<!-- MEMES:END -->
+ - 👉 [Nothing, ungrateful sons of b*tches. Not even a coffee cup](http://9gag.com/gag/aKG6LKb)<!-- MEMES:END -->
 
 ---
 

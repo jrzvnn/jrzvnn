@@ -167,10 +167,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [A braveman Overcome shooter and saved lives](http://9gag.com/gag/aoyMdGX)
- - 😝 [Eye check](http://9gag.com/gag/awyMe6W)
- - 💣 [Does this count?](http://9gag.com/gag/agmBdR1)
+ - 😝 [Your order](http://9gag.com/gag/aNDp326)
+ - 💣 [Nothing, ungrateful sons of b*tches. Not even a coffee cup](http://9gag.com/gag/aKG6LKb)
  - 😝 [\ud83c\udfa7Those beats just HIT DIFFERENT! Santa clau5 is coming to town!!](http://9gag.com/gag/a4PEBE6)
- - 👉 [Nothing, ungrateful sons of b*tches. Not even a coffee cup](http://9gag.com/gag/aKG6LKb)<!-- MEMES:END -->
+ - 👉 [Does this count?](http://9gag.com/gag/agmBdR1)<!-- MEMES:END -->
 
 ---
 

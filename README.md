@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [New York citizens right now](http://9gag.com/gag/aMVK0QP)
- - 😝 [All Joeys aside...](http://9gag.com/gag/a6ZE4Be)
- - 💣 [She posted a thirst-trap but got a debate instead](http://9gag.com/gag/awyM9WD)
+ - 😝 [Yeah bud copyright your shitty wannabe meme I&#39;m sure it will go viral](http://9gag.com/gag/aNDp850)
+ - 😝 [World\u2019s fastest drag racer hits 580kmph &lpar;360mph&rpar; in just 3 seconds](http://9gag.com/gag/apRNzAW)
+ - 💣 [I hope nothing bad happened.](http://9gag.com/gag/a34EzW7)
  - 😝 [\ud83c\udfa7Those beats just HIT DIFFERENT! Santa clau5 is coming to town!!](http://9gag.com/gag/a4PEBE6)
- - 👉 [The absoulte state of the internet right now.](http://9gag.com/gag/ajPm3Rg)<!-- MEMES:END -->
+ - 👉 [Definitely setting a good foundation for a marriage](http://9gag.com/gag/aKG6nNQ)<!-- MEMES:END -->
 
 ---
 

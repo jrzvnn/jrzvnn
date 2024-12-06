@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Best ad ever](http://9gag.com/gag/aYQoRMq)
- - 😝 [Mexican Atreyu and Artax, is that u?](http://9gag.com/gag/aKG6LVW)
- - 💣 [Eye check](http://9gag.com/gag/awyMe6W)
- - 😝 [Big hair time](http://9gag.com/gag/aRBXR5G)
- - 👉 [Well.. that&#39;s embarrassing](http://9gag.com/gag/aE0pQ2o)<!-- MEMES:END -->
+ - 😝 [She really had the time to pose for a photo while in a wrestling match](http://9gag.com/gag/apRNje8)
+ - 😝 [We miss you Alan](http://9gag.com/gag/apRNjKD)
+ - 💣 [Champion](http://9gag.com/gag/azxMDbb)
+ - 😝 [The night sky on Mars](http://9gag.com/gag/an7QWpo)
+ - 👉 [Notice the women didn&#39;t pop are also the prettiest](http://9gag.com/gag/aZZ0dG9)<!-- MEMES:END -->
 
 ---
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [X’s Grok AI chatbot is now available to all users](https://www.theverge.com/2024/12/6/24314860/x-grok-ai-chatbot-available-all-users)
+ - [AirPods 4 with Active Noise Cancellation hit new all-time low with $40 off](https://www.theverge.com/2024/12/6/24314768/apple-airpods-4-with-active-noise-cancellation-wireless-earbuds-xbox-core-controller-deal-sale)
+ - [Anthem BCBS is reversing its anesthesia policy after online outrage](https://www.theverge.com/2024/12/6/24314770/anthem-blue-cross-blue-shield-anesthesia-limit-policy-health-insurance)
  - [Coinbase publishes FDIC documents, obtained via a lawsuit, that it says prove crypto businesses were systematically walled off from banking by the regulator &lpar;Jesse Hamilton/CoinDesk&rpar;](http://www.techmeme.com/241206/p20#a241206p20)
- - [Sources: Apple&#39;s in-house modems will debut next spring in the new iPhone SE, with 2nd-gen modems expected in higher-end products like iPhone 18 lineup in 2026 &lpar;Mark Gurman/Bloomberg&rpar;](http://www.techmeme.com/241206/p19#a241206p19)
- - [Lawsuit complaining about Apple&#39;s free 5GB iCloud plan is dismissed](https://appleinsider.com/articles/24/12/06/lawsuit-complaining-about-apples-free-5gb-icloud-plan-is-dismissed?utm_medium=rss)
- - [The Inside Story of Apple Intelligence](https://www.wired.com/story/plaintext-the-inside-story-of-apple-intelligence/)
- - [Sauron, which is touting a waiting list of tech CEOs and VCs for its home security system that incorporates drones and facial recognition, raised a $18M seed &lpar;Nitasha Tiku/Washington Post&rpar;](http://www.techmeme.com/241206/p18#a241206p18)<!-- TECH:END -->
+ - [Sources: Apple&#39;s in-house modems will debut next spring in the new iPhone SE, with 2nd-gen modems expected in higher-end products like iPhone 18 lineup in 2026 &lpar;Mark Gurman/Bloomberg&rpar;](http://www.techmeme.com/241206/p19#a241206p19)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

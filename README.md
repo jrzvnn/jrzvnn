@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Trump says David Sacks will be the &quot;White House A.I. &amp; Crypto Czar&quot; to &quot;work on a legal framework so the Crypto industry has the clarity it has been asking for&quot; &lpar;Zoe Ma/Bloomberg&rpar;](http://www.techmeme.com/241205/p45#a241205p45)
- - [iFixit now sells official Xbox parts](https://www.theverge.com/2024/12/5/24314464/ifixit-now-sells-official-xbox-parts)
- - [GitLab co-founder Sid Sijbrandij steps down as CEO to focus on his health and will become executive chair; Bill Staples, former New Relic CEO, takes over as CEO &lpar;Paul Ziobro/MarketWatch&rpar;](http://www.techmeme.com/241205/p44#a241205p44)
- - [Apple says Brazil antitrust ruling &#39;drastically threatens&#39; user privacy in appeal](https://appleinsider.com/articles/24/12/06/apple-says-brazil-antitrust-ruling-drastically-threatens-user-privacy-in-appeal?utm_medium=rss)
- - [Here are the best AirPods deals you can get right now](https://www.theverge.com/21302051/best-apple-airpods-deals)<!-- TECH:END -->
+ - [The FCC proposes rules for carriers to submit an annual certification attesting they have a plan to protect against cyberattacks, after the Salt Typhoon hack &lpar;Reuters&rpar;](http://www.techmeme.com/241205/p47#a241205p47)
+ - [California says ride-hail drivers need to pass a fingerprint background check to transport unaccompanied teens; Uber launched Uber for Teens in CA in February &lpar;Rebecca Bellan/TechCrunch&rpar;](http://www.techmeme.com/241205/p46#a241205p46)
+ - [Canva Revolutionized Graphic Design. Will It Survive the Age of AI?](https://www.wired.com/story/canva-ceo-melanie-perkins-interview/)
+ - [Donald Trump says  David Sacks will be the ‘White House A.I. &amp; Crypto Czar’](https://www.theverge.com/2024/12/5/24314514/trump-david-sacks-white-house-ai-crypto-czar)
+ - [Brazil antitrust ruling against Apple overturned by Federal Justice](https://appleinsider.com/articles/24/12/06/brazil-antitrust-ruling-against-apple-overturned-by-federal-justice?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

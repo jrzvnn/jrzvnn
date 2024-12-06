@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Romania&#39;s top court annuls presidential election, after its security council revealed &quot;hybrid Russian attacks&quot;, like cyberattacks and TikTok influence campaigns &lpar;CNN&rpar;](http://www.techmeme.com/241206/p14#a241206p14)
- - [This Easy-to-Use Universal Remote Is a Great Gift, and It&#39;s on Sale Right Now](https://www.cnet.com/deals/this-easy-to-use-universal-remote-is-a-great-gift-and-its-on-sale-right-now/#ftag=CAD590a51e)
- - [Mortgage Rates Plunge Ahead of Strong Jobs Report. Today&#39;s Mortgage Rates, Dec. 6, 2024](https://www.cnet.com/personal-finance/rates-decline-for-prospective-buyers-todays-mortgage-rates-on-dec-6-2024/#ftag=CAD590a51e)
- - [M4 Mac mini was almost even smaller, but design compromises were made](https://appleinsider.com/articles/24/12/06/m4-mac-mini-was-almost-even-smaller-but-design-compromises-were-made?utm_medium=rss)
- - [Refi Rates Sink Lower Despite Strong Labor Data: Today&#39;s Refinance Rates, Dec. 6, 2024](https://www.cnet.com/personal-finance/refi-rates-dip-since-last-week-refinance-rates-for-dec-6-2024/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [The &quot;AI is fake and sucks&quot; people who take phony comfort in their AI skepticism need to accept that AI is more real and dangerous than they currently admit &lpar;Casey Newton/Platformer&rpar;](http://www.techmeme.com/241206/p15#a241206p15)
+ - [Apple&#39;s iPhone 17 Slim is a wrongheaded approach that ignores what people really want](https://appleinsider.com/articles/24/12/06/apples-iphone-17-slim-is-a-wrongheaded-approach-that-ignores-what-people-really-want?utm_medium=rss)
+ - [Skip the Sea Kelp Supplements &lpar;2024&rpar;](https://www.wired.com/story/pass-on-sea-kelp-supplements/)
+ - [Google Photos now has its own version of Spotify Wrapped](https://www.theverge.com/2024/12/6/24314709/google-photos-2024-recap-memories-spotify-wrapped)
+ - [Romania&#39;s top court annuls presidential election, after its security council revealed &quot;hybrid Russian attacks&quot;, like cyberattacks and TikTok influence campaigns &lpar;CNN&rpar;](http://www.techmeme.com/241206/p14#a241206p14)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

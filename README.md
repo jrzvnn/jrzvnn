@@ -167,10 +167,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [She spat on that thing](http://9gag.com/gag/aO83A72)
- - 😝 [This cyclist has been spitting on his car for weeks, until the owner had an idea](http://9gag.com/gag/aNDpjp4)
+ - 😝 [Your order](http://9gag.com/gag/aNDp326)
  - 💣 [Nothing, ungrateful sons of b*tches. Not even a coffee cup](http://9gag.com/gag/aKG6LKb)
- - 😝 [A breeding bull entering the farm full of cows](http://9gag.com/gag/aPA3zdB)
- - 👉 [Smells like teen spirit](http://9gag.com/gag/aBy2v6Q)<!-- MEMES:END -->
+ - 😝 [Definitely setting a good foundation for a marriage](http://9gag.com/gag/aKG6nNQ)
+ - 👉 [Notice the women didn&#39;t pop are also the prettiest](http://9gag.com/gag/aZZ0dG9)<!-- MEMES:END -->
 
 ---
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [Notice the women didn&#39;t pop are also the prettiest](http://9gag.com/gag/aZZ0dG9)
  - 😝 [We miss you Alan](http://9gag.com/gag/apRNjKD)
- - 😝 [All Joeys aside...](http://9gag.com/gag/a6ZE4Be)
- - 💣 [Champion](http://9gag.com/gag/azxMDbb)
- - 😝 [The night sky on Mars](http://9gag.com/gag/an7QWpo)
- - 👉 [Notice the women didn&#39;t pop are also the prettiest](http://9gag.com/gag/aZZ0dG9)<!-- MEMES:END -->
+ - 💣 [Does this count?](http://9gag.com/gag/agmBdR1)
+ - 😝 [Eye check](http://9gag.com/gag/awyMe6W)
+ - 👉 [Nothing, ungrateful sons of b*tches. Not even a coffee cup](http://9gag.com/gag/aKG6LKb)<!-- MEMES:END -->
 
 ---
 

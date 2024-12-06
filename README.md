@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Coinbase publishes FDIC documents, obtained via a lawsuit, that it says prove crypto businesses were systematically walled off from banking by the regulator &lpar;Jesse Hamilton/CoinDesk&rpar;](http://www.techmeme.com/241206/p20#a241206p20)
  - [Sources: Apple&#39;s in-house modems will debut next spring in the new iPhone SE, with 2nd-gen modems expected in higher-end products like iPhone 18 lineup in 2026 &lpar;Mark Gurman/Bloomberg&rpar;](http://www.techmeme.com/241206/p19#a241206p19)
  - [Lawsuit complaining about Apple&#39;s free 5GB iCloud plan is dismissed](https://appleinsider.com/articles/24/12/06/lawsuit-complaining-about-apples-free-5gb-icloud-plan-is-dismissed?utm_medium=rss)
  - [The Inside Story of Apple Intelligence](https://www.wired.com/story/plaintext-the-inside-story-of-apple-intelligence/)
- - [Sauron, which is touting a waiting list of tech CEOs and VCs for its home security system that incorporates drones and facial recognition, raised a $18M seed &lpar;Nitasha Tiku/Washington Post&rpar;](http://www.techmeme.com/241206/p18#a241206p18)
- - [A Federal Appeals Court Just Upheld the TikTok Ban. Here’s What Could Happen Next](https://www.wired.com/story/doj-tiktok-constitutional-lawsuit/)<!-- TECH:END -->
+ - [Sauron, which is touting a waiting list of tech CEOs and VCs for its home security system that incorporates drones and facial recognition, raised a $18M seed &lpar;Nitasha Tiku/Washington Post&rpar;](http://www.techmeme.com/241206/p18#a241206p18)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

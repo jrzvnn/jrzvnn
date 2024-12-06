@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Apple’s in-house 5G modem plans are just getting started with next year’s iPhone SE](https://www.theverge.com/2024/12/6/24314898/apple-5g-modem-debut-iphone-se-2025)
+ - [You can now try Microsoft’s Recall AI feature on Intel and AMD Copilot Plus PCs](https://www.theverge.com/2024/12/6/24314795/microsoft-recall-testing-amd-intel-copilot-plus-pcs)
+ - [The Inside Story of Apple Intelligence](https://www.wired.com/story/plaintext-the-inside-story-of-apple-intelligence/)
  - [Meta announces the Llama 3.3 70B, a text-only model that Meta claims can deliver the performance of its largest Llama model at a lower cost &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/241206/p23#a241206p23)
- - [The Crypto Industry Hails David Sacks, Its New ‘Czar’](https://www.wired.com/story/crypto-industry-hails-david-sacks-czar/)
- - [Apple plans three-year rollout of its self-made iPhone modem, starting with iPhone SE](https://appleinsider.com/articles/24/12/06/apple-plans-three-year-rollout-of-its-self-made-iphone-modem-starting-with-iphone-se?utm_medium=rss)
- - [xAI makes its AI chatbot Grok available to all users of X; non-Premium subscribers can send up to 10 messages to Grok every two hours &lpar;Emma Roth/The Verge&rpar;](http://www.techmeme.com/241206/p22#a241206p22)
- - [Sources: trading and investment platform eToro weighs a US IPO as soon as Q2, 2025, seeking a $3.5B+ valuation; it has 38M+ registered users from 75 countries &lpar;Bloomberg&rpar;](http://www.techmeme.com/241206/p21#a241206p21)<!-- TECH:END -->
+ - [The Crypto Industry Hails David Sacks, Its New ‘Czar’](https://www.wired.com/story/crypto-industry-hails-david-sacks-czar/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

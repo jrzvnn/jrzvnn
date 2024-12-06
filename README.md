@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [She really had the time to pose for a photo while in a wrestling match](http://9gag.com/gag/apRNje8)
- - 😝 [Champion](http://9gag.com/gag/azxMDbb)
- - 💣 [Notice the women didn&#39;t pop are also the prettiest](http://9gag.com/gag/aZZ0dG9)
- - 😝 [The night sky on Mars](http://9gag.com/gag/an7QWpo)
- - 👉 [You want a new Snape? Here&#39;s one.](http://9gag.com/gag/aPA3dQB)<!-- MEMES:END -->
+ - 😝 [We miss you Alan](http://9gag.com/gag/apRNjKD)
+ - 😝 [Smells like teen spirit](http://9gag.com/gag/aBy2v6Q)
+ - 💣 [She spat on that thing](http://9gag.com/gag/aO83A72)
+ - 😝 [Definitely setting a good foundation for a marriage](http://9gag.com/gag/aKG6nNQ)
+ - 👉 [Notice the women didn&#39;t pop are also the prettiest](http://9gag.com/gag/aZZ0dG9)<!-- MEMES:END -->
 
 ---
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [This is kinda concerning tbh](http://9gag.com/gag/an7QVjz)
- - 😝 [She spat on that thing](http://9gag.com/gag/aO83A72)
- - 💣 [Nothing, ungrateful sons of b*tches. Not even a coffee cup](http://9gag.com/gag/aKG6LKb)
- - 😝 [Your order](http://9gag.com/gag/aNDp326)
- - 👉 [Well.. that&#39;s embarrassing](http://9gag.com/gag/aE0pQ2o)<!-- MEMES:END -->
+ - 😝 [World\u2019s fastest drag racer hits 580kmph &lpar;360mph&rpar; in just 3 seconds](http://9gag.com/gag/apRNzAW)
+ - 😝 [Eye check](http://9gag.com/gag/awyMe6W)
+ - 💣 [Ip Man](http://9gag.com/gag/ajPmGZR)
+ - 😝 [Subsonic Ammo with silencers makes guns extremely quiet](http://9gag.com/gag/aQzoBNe)
+ - 👉 [Notice the women didn&#39;t pop are also the prettiest](http://9gag.com/gag/aZZ0dG9)<!-- MEMES:END -->
 
 ---
 

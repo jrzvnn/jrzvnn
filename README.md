@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [She really had the time to pose for a photo while in a wrestling match](http://9gag.com/gag/apRNje8)
- - 😝 [We miss you Alan](http://9gag.com/gag/apRNjKD)
- - 💣 [Champion](http://9gag.com/gag/azxMDbb)
- - 😝 [The night sky on Mars](http://9gag.com/gag/an7QWpo)
- - 👉 [Notice the women didn&#39;t pop are also the prettiest](http://9gag.com/gag/aZZ0dG9)<!-- MEMES:END -->
+ - 😝 [The size of this salmon](http://9gag.com/gag/aAybm3d)
+ - 😝 [Your order](http://9gag.com/gag/aNDp326)
+ - 💣 [Headline](http://9gag.com/gag/ayNMPoW)
+ - 😝 [Good Man](http://9gag.com/gag/aW4jDVx)
+ - 👉 [This is not an ocean.](http://9gag.com/gag/a2v7xMp)<!-- MEMES:END -->
 
 ---
 

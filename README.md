@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google will support the Pixel 6, 7, and Fold with two extra years of OS updates](https://www.theverge.com/2024/12/5/24314389/google-pixel-6-7-fold-update-schedule-android-16-17)
- - [iOS 18.2 is nearing its public release and it&#39;s packed with AI features](https://appleinsider.com/articles/24/12/05/ios-182-is-nearing-its-public-release-and-its-packed-with-ai-features?utm_medium=rss)
- - [Google just made it easier to turn off personalized search results](https://www.theverge.com/2024/12/5/24314402/google-turn-off-personalized-search-results)
- - [US phone companies could face fines for weak security under a proposed new rule](https://www.theverge.com/2024/12/5/24314330/fcc-telecom-security-rule-salt-typhoon-hack)
- - [Oura rolls out Symptom Radar, a feature that tries to detect early signs of sickness using biometrics like heart rate variability, to Oura Ring Gen 3 and 4 &lpar;Victoria Song/The Verge&rpar;](http://www.techmeme.com/241205/p42#a241205p42)<!-- TECH:END -->
+ - [Trump says David Sacks will be the &quot;White House A.I. &amp; Crypto Czar&quot; to &quot;work on a legal framework so the Crypto industry has the clarity it has been asking for&quot; &lpar;Zoe Ma/Bloomberg&rpar;](http://www.techmeme.com/241205/p45#a241205p45)
+ - [iFixit now sells official Xbox parts](https://www.theverge.com/2024/12/5/24314464/ifixit-now-sells-official-xbox-parts)
+ - [GitLab co-founder Sid Sijbrandij steps down as CEO to focus on his health and will become executive chair; Bill Staples, former New Relic CEO, takes over as CEO &lpar;Paul Ziobro/MarketWatch&rpar;](http://www.techmeme.com/241205/p44#a241205p44)
+ - [Apple says Brazil antitrust ruling &#39;drastically threatens&#39; user privacy in appeal](https://appleinsider.com/articles/24/12/06/apple-says-brazil-antitrust-ruling-drastically-threatens-user-privacy-in-appeal?utm_medium=rss)
+ - [Here are the best AirPods deals you can get right now](https://www.theverge.com/21302051/best-apple-airpods-deals)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

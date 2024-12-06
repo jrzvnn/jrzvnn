@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [We miss you Alan](http://9gag.com/gag/apRNjKD)
- - 😝 [She spat on that thing](http://9gag.com/gag/aO83A72)
- - 💣 [Operation friend](http://9gag.com/gag/aD2dPod)
- - 😝 [Good Man](http://9gag.com/gag/aW4jDVx)
- - 👉 [My chances of winning a lottery](http://9gag.com/gag/a1mrwED)<!-- MEMES:END -->
+ - 😝 [Best ad ever](http://9gag.com/gag/aYQoRMq)
+ - 😝 [Mexican Atreyu and Artax, is that u?](http://9gag.com/gag/aKG6LVW)
+ - 💣 [Eye check](http://9gag.com/gag/awyMe6W)
+ - 😝 [Big hair time](http://9gag.com/gag/aRBXR5G)
+ - 👉 [Well.. that&#39;s embarrassing](http://9gag.com/gag/aE0pQ2o)<!-- MEMES:END -->
 
 ---
 

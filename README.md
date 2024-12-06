@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Champion](http://9gag.com/gag/azxMDbb)
  - 😝 [Notice the women didn&#39;t pop are also the prettiest](http://9gag.com/gag/aZZ0dG9)
- - 💣 [You want a new Snape? Here&#39;s one.](http://9gag.com/gag/aPA3dQB)
+ - 😝 [You want a new Snape? Here&#39;s one.](http://9gag.com/gag/aPA3dQB)
+ - 💣 [After removing kidney and tumor 6hrs ago. tomorrow menu is kidneypudding. Fck you and see you tomorrow a++holes.](http://9gag.com/gag/aO83NW6)
  - 😝 [\ud83c\udfa7Those beats just HIT DIFFERENT! Santa clau5 is coming to town!!](http://9gag.com/gag/a4PEBE6)
- - 👉 [After removing kidney and tumor 6hrs ago. tomorrow menu is kidneypudding. Fck you and see you tomorrow a++holes.](http://9gag.com/gag/aO83NW6)<!-- MEMES:END -->
+ - 👉 [Raves over fatherhood](http://9gag.com/gag/avy5BVd)<!-- MEMES:END -->
 
 ---
 

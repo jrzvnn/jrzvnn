@@ -167,10 +167,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [We miss you Alan](http://9gag.com/gag/apRNjKD)
- - 😝 [Smells like teen spirit](http://9gag.com/gag/aBy2v6Q)
- - 💣 [Notice the women didn&#39;t pop are also the prettiest](http://9gag.com/gag/aZZ0dG9)
+ - 😝 [Well.. that&#39;s embarrassing](http://9gag.com/gag/aE0pQ2o)
+ - 💣 [Definitely setting a good foundation for a marriage](http://9gag.com/gag/aKG6nNQ)
  - 😝 [\ud83c\udfa7Those beats just HIT DIFFERENT! Santa clau5 is coming to town!!](http://9gag.com/gag/a4PEBE6)
- - 👉 [World\u2019s fastest drag racer hits 580kmph &lpar;360mph&rpar; in just 3 seconds](http://9gag.com/gag/apRNzAW)<!-- MEMES:END -->
+ - 👉 [Smells like teen spirit](http://9gag.com/gag/aBy2v6Q)<!-- MEMES:END -->
 
 ---
 

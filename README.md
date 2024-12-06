@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Finding the Real ‘Midnight Diner’](https://www.wired.com/story/finding-the-real-midnight-diner/)
+ - [Sources: OpenAI is discussing ditching a clause that cuts off Microsoft&#39;s access to OpenAI tech if OpenAI develops AGI, so that Microsoft can continue investing &lpar;Financial Times&rpar;](http://www.techmeme.com/241206/p11#a241206p11)
+ - [11 Best Cold-Brew Coffee Makers &lpar;2024&rpar;: Oxo, KitchenAid, and More](https://www.wired.com/story/best-cold-brew-coffee-makers/)
  - [Environmental Sensing Is Here, Tracking Everything from Forest Fires to Threatened Species](https://www.wired.com/story/environmental-sensing-is-here-tracking-everything-from-forest-fires-to-threatened-species/)
- - [Spotify Wrapped, TikTok—Maybe the Algorithms Are Losing Touch](https://www.wired.com/story/spotify-wrapped-tiktok-maybe-the-algorithms-are-losing-touch/)
- - [An evaluation of six frontier AI models for in-context scheming when strongly nudged to pursue a goal: only OpenAI&#39;s o1 was capable of scheming in all the tests &lpar;Marius Hobbhahn/Apollo Research&rpar;](http://www.techmeme.com/241206/p10#a241206p10)
- - [Now Indonesia says Apple will build it a $1 billion plant to end the iPhone 16 ban](https://appleinsider.com/articles/24/12/06/now-indonesia-says-apple-will-build-it-a-1-billion-plant-to-end-the-iphone-16-ban?utm_medium=rss)
- - [33 Viral TikTok Gifts That Are Actually Worth a Look &lpar;2024&rpar;](https://www.wired.com/gallery/best-viral-tiktok-gadgets/)<!-- TECH:END -->
+ - [T-Mobile Adds New Plans to Its Home Internet Menu -- and Throws in Hulu and Paramount Plus](https://www.cnet.com/home/internet/t-mobile-adds-new-plans-to-its-home-internet-menu-and-throws-in-hulu-and-paramount-plus/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

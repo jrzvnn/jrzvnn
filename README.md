@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Amazon&#39;s record-low AirPods 4 price is perfect for nailing down stocking stuffers](https://appleinsider.com/articles/24/12/06/amazons-record-low-airpods-4-price-is-perfect-for-nailing-down-stocking-stuffers?utm_medium=rss)
  - [Microsoft Surface rumors point to a big Copilot Plus refresh next year](https://www.theverge.com/2024/12/6/24315105/microsoft-surface-pro-laptop-intel-lunar-lake-rumors)
- - [What Arm’s CEO makes of the Intel debacle](https://www.theverge.com/2024/12/6/24315123/arm-ceo-rene-haas-intel-ai-chips-samsung-changes)
- - [Apple&#39;s John Giannandrea, Craig Federighi, and Greg Joswiak on the company&#39;s work on transformer-based AI models after GPT-3, building Apple Intelligence, more &lpar;Steven Levy/Wired&rpar;](http://www.techmeme.com/241206/p29#a241206p29)
- - [Apple&#39;s ongoing modem push rumored to result in cellular MacBooks](https://appleinsider.com/articles/24/12/06/apples-ongoing-modem-push-rumored-to-result-in-cellular-macbooks?utm_medium=rss)
- - [Last Chance: Learn a New Language With a Lifetime Babbel Subscription for $130](https://www.cnet.com/deals/master-any-language-with-a-lifetime-babbel-subscription-for-130-normally-599-this-cyber-monday/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Best Gifts Under $500 for the Holidays 2024](https://www.cnet.com/tech/best-gifts-under-500/#ftag=CAD590a51e)
+ - [Is a Solar Water Heater Worth It?](https://www.cnet.com/home/energy-and-utilities/solar-water-heaters-everything-you-need-to-know/#ftag=CAD590a51e)
+ - [Best Cloud Web Hosting for 2024](https://www.cnet.com/tech/services-and-software/best-cloud-web-hosting/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

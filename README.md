@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Love you, f**kers](http://9gag.com/gag/aPA3dLR)
- - 😝 [New York citizens right now](http://9gag.com/gag/aMVK0QP)
- - 💣 [All Joeys aside...](http://9gag.com/gag/a6ZE4Be)
+ - 😝 [Yeah bud copyright your shitty wannabe meme I&#39;m sure it will go viral](http://9gag.com/gag/aNDp850)
+ - 😝 [A breeding bull entering the farm full of cows](http://9gag.com/gag/aPA3zdB)
+ - 💣 [Captain, is this true? Expert opinion please!](http://9gag.com/gag/aMVKWBx)
  - 😝 [\ud83c\udfa7Those beats just HIT DIFFERENT! Santa clau5 is coming to town!!](http://9gag.com/gag/a4PEBE6)
- - 👉 [Bro lagged](http://9gag.com/gag/awyMDN4)<!-- MEMES:END -->
+ - 👉 [Definitely setting a good foundation for a marriage](http://9gag.com/gag/aKG6nNQ)<!-- MEMES:END -->
 
 ---
 

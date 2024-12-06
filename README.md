@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Google’s Pixel 9A looks destined to ditch the camera bar](https://www.theverge.com/2024/12/6/24314958/google-pixel-9a-prototype-photo-leak-camera-bar)
+ - [OpenAI expands its Reinforcement Fine-Tuning Research Program to let developers create expert models in specific domains with very little training data &lpar;OpenAI&rpar;](http://www.techmeme.com/241206/p24#a241206p24)
+ - [This Game Boy Advance clone could satisfy your purple taco nostalgia](https://www.theverge.com/2024/12/6/24314884/anbernic-rg34xx-handheld-emulator-retro-nintendo-game-boy-advance)
  - [Apple’s in-house 5G modem plans are just getting started with next year’s iPhone SE](https://www.theverge.com/2024/12/6/24314898/apple-5g-modem-debut-iphone-se-2025)
- - [You can now try Microsoft’s Recall AI feature on Intel and AMD Copilot Plus PCs](https://www.theverge.com/2024/12/6/24314795/microsoft-recall-testing-amd-intel-copilot-plus-pcs)
- - [The Inside Story of Apple Intelligence](https://www.wired.com/story/plaintext-the-inside-story-of-apple-intelligence/)
- - [Meta announces the Llama 3.3 70B, a text-only model that Meta claims can deliver the performance of its largest Llama model at a lower cost &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/241206/p23#a241206p23)
- - [The Crypto Industry Hails David Sacks, Its New ‘Czar’](https://www.wired.com/story/crypto-industry-hails-david-sacks-czar/)<!-- TECH:END -->
+ - [You can now try Microsoft’s Recall AI feature on Intel and AMD Copilot Plus PCs](https://www.theverge.com/2024/12/6/24314795/microsoft-recall-testing-amd-intel-copilot-plus-pcs)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

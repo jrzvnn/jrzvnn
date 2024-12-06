@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Does this count?](http://9gag.com/gag/agmBdR1)
- - 😝 [When a nation gets its shit together](http://9gag.com/gag/a1mrxWv)
- - 💣 [Big hair time](http://9gag.com/gag/aRBXR5G)
- - 😝 [Everything is Italy](http://9gag.com/gag/aW4jDXA)
- - 👉 [UnitedHealthcare CEO Brian Thompson shot dead](http://9gag.com/gag/awyMvdx)<!-- MEMES:END -->
+ - 😝 [We miss you Alan](http://9gag.com/gag/apRNjKD)
+ - 😝 [She spat on that thing](http://9gag.com/gag/aO83A72)
+ - 💣 [Operation friend](http://9gag.com/gag/aD2dPod)
+ - 😝 [Good Man](http://9gag.com/gag/aW4jDVx)
+ - 👉 [My chances of winning a lottery](http://9gag.com/gag/a1mrwED)<!-- MEMES:END -->
 
 ---
 

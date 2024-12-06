@@ -157,7 +157,7 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Romania&#39;s top court annuls presidential election after intelligence reports find &quot;hybrid Russian attacks&quot;, like cyberattacks and influence campaigns on TikTok &lpar;CNN&rpar;](http://www.techmeme.com/241206/p14#a241206p14)
+ - [Romania&#39;s top court annuls presidential election, after its security council revealed &quot;hybrid Russian attacks&quot;, like cyberattacks and TikTok influence campaigns &lpar;CNN&rpar;](http://www.techmeme.com/241206/p14#a241206p14)
  - [This Easy-to-Use Universal Remote Is a Great Gift, and It&#39;s on Sale Right Now](https://www.cnet.com/deals/this-easy-to-use-universal-remote-is-a-great-gift-and-its-on-sale-right-now/#ftag=CAD590a51e)
  - [Mortgage Rates Plunge Ahead of Strong Jobs Report. Today&#39;s Mortgage Rates, Dec. 6, 2024](https://www.cnet.com/personal-finance/rates-decline-for-prospective-buyers-todays-mortgage-rates-on-dec-6-2024/#ftag=CAD590a51e)
  - [M4 Mac mini was almost even smaller, but design compromises were made](https://appleinsider.com/articles/24/12/06/m4-mac-mini-was-almost-even-smaller-but-design-compromises-were-made?utm_medium=rss)

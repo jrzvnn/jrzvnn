@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The Verge’s 2024 holiday gift guide for dads](https://www.theverge.com/24224045/best-gift-ideas-dad-holiday-unique-2024-tech-gadgets)
  - [Valve’s master plan for Steam Machines is finally coming into focus](https://www.theverge.com/2024/12/6/24315098/valve-steam-machines-steamos-steam-deck-vr)
  - [The EU sends TikTok an urgent request for information on Russia&#39;s role in Romanian election turmoil, a day after ordering it to retain all election-related data &lpar;Kelvin Chan/Associated Press&rpar;](http://www.techmeme.com/241206/p30#a241206p30)
  - [Amazon&#39;s record-low AirPods 4 price is perfect for nailing down stocking stuffers](https://appleinsider.com/articles/24/12/06/amazons-record-low-airpods-4-price-is-perfect-for-nailing-down-stocking-stuffers?utm_medium=rss)
- - [Microsoft Surface rumors point to a big Copilot Plus refresh next year](https://www.theverge.com/2024/12/6/24315105/microsoft-surface-pro-laptop-intel-lunar-lake-rumors)
- - [Best Gifts Under $500 for the Holidays 2024](https://www.cnet.com/tech/best-gifts-under-500/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Microsoft Surface rumors point to a big Copilot Plus refresh next year](https://www.theverge.com/2024/12/6/24315105/microsoft-surface-pro-laptop-intel-lunar-lake-rumors)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

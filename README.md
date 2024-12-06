@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [World\u2019s fastest drag racer hits 580kmph &lpar;360mph&rpar; in just 3 seconds](http://9gag.com/gag/apRNzAW)
- - 😝 [Definitely setting a good foundation for a marriage](http://9gag.com/gag/aKG6nNQ)
- - 💣 [Nothing, ungrateful sons of b*tches. Not even a coffee cup](http://9gag.com/gag/aKG6LKb)
+ - 😝 [After removing kidney and tumor 6hrs ago. tomorrow menu is kidneypudding. Fck you and see you tomorrow a++holes.](http://9gag.com/gag/aO83NW6)
+ - 😝 [The absoulte state of the internet right now.](http://9gag.com/gag/ajPm3Rg)
+ - 💣 [New York citizens right now](http://9gag.com/gag/aMVK0QP)
  - 😝 [\ud83c\udfa7Those beats just HIT DIFFERENT! Santa clau5 is coming to town!!](http://9gag.com/gag/a4PEBE6)
- - 👉 [Smells like teen spirit](http://9gag.com/gag/aBy2v6Q)<!-- MEMES:END -->
+ - 👉 [Karma](http://9gag.com/gag/awyMP2B)<!-- MEMES:END -->
 
 ---
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Your order](http://9gag.com/gag/aNDp326)
- - 😝 [World\u2019s fastest drag racer hits 580kmph &lpar;360mph&rpar; in just 3 seconds](http://9gag.com/gag/apRNzAW)
- - 💣 [Your coverage is denied](http://9gag.com/gag/aBy2vbN)
+ - 😝 [Champion](http://9gag.com/gag/azxMDbb)
+ - 😝 [Notice the women didn&#39;t pop are also the prettiest](http://9gag.com/gag/aZZ0dG9)
+ - 💣 [You want a new Snape? Here&#39;s one.](http://9gag.com/gag/aPA3dQB)
  - 😝 [\ud83c\udfa7Those beats just HIT DIFFERENT! Santa clau5 is coming to town!!](http://9gag.com/gag/a4PEBE6)
- - 👉 [Nothing, ungrateful sons of b*tches. Not even a coffee cup](http://9gag.com/gag/aKG6LKb)<!-- MEMES:END -->
+ - 👉 [WE FOUND HIM](http://9gag.com/gag/adB8rGd)<!-- MEMES:END -->
 
 ---
 

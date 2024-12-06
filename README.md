@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [A Brazilian judge overturns an injunction that would have forced Apple to enable sideloading on iOS in 20 days, calling regulator&#39;s decision &quot;disproportionate&quot; &lpar;Filipe Esp&amp;oacute;sito/9to5Mac&rpar;](http://www.techmeme.com/241205/p48#a241205p48)
  - [The FCC proposes rules for carriers to submit an annual certification attesting they have a plan to protect against cyberattacks, after the Salt Typhoon hack &lpar;Reuters&rpar;](http://www.techmeme.com/241205/p47#a241205p47)
  - [California says ride-hail drivers need to pass a fingerprint background check to transport unaccompanied teens; Uber launched Uber for Teens in CA in February &lpar;Rebecca Bellan/TechCrunch&rpar;](http://www.techmeme.com/241205/p46#a241205p46)
  - [Canva Revolutionized Graphic Design. Will It Survive the Age of AI?](https://www.wired.com/story/canva-ceo-melanie-perkins-interview/)
- - [Donald Trump says  David Sacks will be the ‘White House A.I. &amp; Crypto Czar’](https://www.theverge.com/2024/12/5/24314514/trump-david-sacks-white-house-ai-crypto-czar)
- - [Brazil antitrust ruling against Apple overturned by Federal Justice](https://appleinsider.com/articles/24/12/06/brazil-antitrust-ruling-against-apple-overturned-by-federal-justice?utm_medium=rss)<!-- TECH:END -->
+ - [Donald Trump says  David Sacks will be the ‘White House A.I. &amp; Crypto Czar’](https://www.theverge.com/2024/12/5/24314514/trump-david-sacks-white-house-ai-crypto-czar)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

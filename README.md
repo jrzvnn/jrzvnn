@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Sauron, which is touting a waiting list of tech CEOs and VCs for its home security system that incorporates drones and facial recognition, raised a $18M seed &lpar;Nitasha Tiku/Washington Post&rpar;](http://www.techmeme.com/241206/p18#a241206p18)
+ - [A Federal Appeals Court Just Upheld the TikTok Ban. Here’s What Could Happen Next](https://www.wired.com/story/doj-tiktok-constitutional-lawsuit/)
  - [Researchers put bird legs on a drone so it can take off by jumping](https://www.theverge.com/2024/12/6/24314771/epfl-uc-irvine-drone-raven-aircraft-research-science)
  - [21 Gift Ideas for the Home Chef &lpar;2024&rpar;: Vitamix, Cookbooks](https://www.wired.com/gallery/gift-for-the-home-chef-2024/)
- - [Sources: Ubisoft shareholders are considering how to structure a possible buyout of the game maker without reducing the founding Guillemot family&#39;s control &lpar;Reuters&rpar;](http://www.techmeme.com/241206/p17#a241206p17)
- - [Amazon just completed its first delivery by drone in Italy](https://www.theverge.com/2024/12/6/24314789/amazon-drone-test-italy-prime-air-delivery)
- - [Netflix’s Jentry Chau vs. The Underworld is a fresh remix of Buffy-style monster slaying](https://www.theverge.com/2024/12/6/24307486/jentry-chau-vs-the-underworld-review)<!-- TECH:END -->
+ - [Sources: Ubisoft shareholders are considering how to structure a possible buyout of the game maker without reducing the founding Guillemot family&#39;s control &lpar;Reuters&rpar;](http://www.techmeme.com/241206/p17#a241206p17)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

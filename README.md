@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [She spat on that thing](http://9gag.com/gag/aO83A72)
- - 😝 [Your order](http://9gag.com/gag/aNDp326)
- - 💣 [Nothing, ungrateful sons of b*tches. Not even a coffee cup](http://9gag.com/gag/aKG6LKb)
- - 😝 [Definitely setting a good foundation for a marriage](http://9gag.com/gag/aKG6nNQ)
- - 👉 [Notice the women didn&#39;t pop are also the prettiest](http://9gag.com/gag/aZZ0dG9)<!-- MEMES:END -->
+ - 😝 [Well.. that&#39;s embarrassing](http://9gag.com/gag/aE0pQ2o)
+ - 😝 [Notice the women didn&#39;t pop are also the prettiest](http://9gag.com/gag/aZZ0dG9)
+ - 💣 [Smells like teen spirit](http://9gag.com/gag/aBy2v6Q)
+ - 😝 [Nothing, ungrateful sons of b*tches. Not even a coffee cup](http://9gag.com/gag/aKG6LKb)
+ - 👉 [Your order](http://9gag.com/gag/aNDp326)<!-- MEMES:END -->
 
 ---
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [SpaceX got a Pentagon contract in August to expand Ukraine&#39;s access to Starshield, an encrypted signal over Starlink that&#39;s more difficult to hack into or jam &lpar;Anthony Capaccio/Bloomberg&rpar;](http://www.techmeme.com/241206/p26#a241206p26)
  - [Q&amp;A with Trump&#39;s pick for FCC chairman Brendan Carr about the Salt Typhoon hack, Section 230, tech companies&#39; &quot;collusion to suppress speech&quot;, Starlink, more &lpar;CNBC&rpar;](http://www.techmeme.com/241206/p25#a241206p25)
  - [A Mysterious Respiratory Disease Has the Democratic Republic of the Congo on High Alert](https://www.wired.com/story/drc-mysterious-respiratory-disease-children-who-africa/)
  - [Large drones are flying over New Jersey at night and no one knows why](https://www.theverge.com/2024/12/6/24314928/new-jersey-ufo-drones-spotted-fbi-investigation-social-media-speculation)
- - [Google’s Pixel 9A looks destined to ditch the camera bar](https://www.theverge.com/2024/12/6/24314958/google-pixel-9a-prototype-photo-leak-camera-bar)
- - [OpenAI expands its Reinforcement Fine-Tuning Research Program to let developers create expert models in specific domains with very little training data &lpar;OpenAI&rpar;](http://www.techmeme.com/241206/p24#a241206p24)<!-- TECH:END -->
+ - [Google’s Pixel 9A looks destined to ditch the camera bar](https://www.theverge.com/2024/12/6/24314958/google-pixel-9a-prototype-photo-leak-camera-bar)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

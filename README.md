@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Pat Gelsinger was dealt a bad hand by Intel&#39;s board, which gave him just three years to execute a turnaround despite challenging timing and circumstances &lpar;M.G. Siegler/Spyglass&rpar;](http://www.techmeme.com/241206/p1#a241206p1)
  - [Today&#39;s NYT Strands Hints, Answers and Help for Dec. 6, #278](https://www.cnet.com/tech/gaming/todays-nyt-strands-hints-answers-and-help-for-dec-6-278/#ftag=CAD590a51e)
  - [Today&#39;s NYT Connections Hints, Answers and Help for Dec. 6, #544](https://www.cnet.com/tech/gaming/todays-nyt-connections-hints-answers-and-help-for-dec-6-544/#ftag=CAD590a51e)
  - [Today&#39;s Wordle Hints, Answer and Help for Dec. 6, #1266](https://www.cnet.com/tech/gaming/todays-wordle-hints-answer-and-help-for-dec-6-1266/#ftag=CAD590a51e)
- - [Today&#39;s NYT Connections: Sports Edition Hints and Answers for Dec. 6, #74](https://www.cnet.com/tech/gaming/todays-nyt-connections-sports-edition-hints-and-answers-for-dec-6-74/#ftag=CAD590a51e)
- - [Popular NFT project Pudgy Penguins plans to launch a Solana-based token called PENGU within this year, with 23.5% of the 88B tokens reserved for its NFT holders &lpar;Shaurya Malwa/CoinDesk&rpar;](http://www.techmeme.com/241205/p49#a241205p49)<!-- TECH:END -->
+ - [Today&#39;s NYT Connections: Sports Edition Hints and Answers for Dec. 6, #74](https://www.cnet.com/tech/gaming/todays-nyt-connections-sports-edition-hints-and-answers-for-dec-6-74/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

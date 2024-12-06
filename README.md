@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [33 Viral TikTok Gifts That Are Actually Worth a Look &lpar;2024&rpar;](https://www.wired.com/gallery/best-viral-tiktok-gadgets/)
  - [Uber’s first international robotaxi service is live in the UAE](https://www.theverge.com/2024/12/6/24313138/uber-weride-robotaxi-uae-abu-dhabi)
  - [Uber and Chinese autonomous vehicle company WeRide launch a commercial robotaxi service in Abu Dhabi, marking Uber&#39;s first international AV offering &lpar;Rebecca Bellan/TechCrunch&rpar;](http://www.techmeme.com/241206/p9#a241206p9)
  - [Why Soccer Players Are Training in the Dark](https://www.wired.com/story/why-soccer-players-are-training-in-the-dark-okkolo-football-sunderland-leeds-united-neuroscience/)
- - [FEC filing: Elon Musk poured at least $274M into US political groups in 2024, including $238.5M for his America PAC, making him the biggest US political donor &lpar;Bill Allison/Bloomberg&rpar;](http://www.techmeme.com/241206/p8#a241206p8)
- - [Twelve South Discounts Essential Tech Gift Bundles by Up to $45 Just in Time for Christmas](https://www.cnet.com/deals/twelve-south-discounts-essential-tech-gift-bundles-by-up-to-45-just-in-time-for-christmas/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [FEC filing: Elon Musk poured at least $274M into US political groups in 2024, including $238.5M for his America PAC, making him the biggest US political donor &lpar;Bill Allison/Bloomberg&rpar;](http://www.techmeme.com/241206/p8#a241206p8)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

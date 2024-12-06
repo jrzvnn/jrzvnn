@@ -158,10 +158,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- TECH:START -->
  - [FEC filing: Elon Musk poured at least $274M into US political groups in 2024, including $238.5M for his America PAC, making him the biggest US political donor &lpar;Bill Allison/Bloomberg&rpar;](http://www.techmeme.com/241206/p8#a241206p8)
- - [A Kid Made $50,000 Dumping Crypto He’d Created. Then Came the Backlash](https://www.wired.com/story/memecoin-kid-backlash/)
- - [Crave Vesper 2 Review: A Discreet Vibrator](https://www.wired.com/review/crave-vesper-2/)
- - [Industry insiders believe Pat Gelsinger&#39;s hasty exit could be a prelude to Intel moving away from manufacturing its chips altogether, in a blow to US ambitions &lpar;Financial Times&rpar;](http://www.techmeme.com/241206/p7#a241206p7)
- - [Amazon, AMD, and others are beginning to offer credible alternatives to Nvidia&#39;s AI chips, especially for inferencing, which is becoming increasingly important &lpar;Don Clark/New York Times&rpar;](http://www.techmeme.com/241206/p6#a241206p6)<!-- TECH:END -->
+ - [Twelve South Discounts Essential Tech Gift Bundles by Up to $45 Just in Time for Christmas](https://www.cnet.com/deals/twelve-south-discounts-essential-tech-gift-bundles-by-up-to-45-just-in-time-for-christmas/#ftag=CAD590a51e)
+ - [No Gifts, No Stress: Simple Tips to Celebrate the Holidays Without Spending](https://www.cnet.com/personal-finance/banking/no-gifts-no-stress-simple-tips-to-celebrate-the-holidays-without-spending/#ftag=CAD590a51e)
+ - [Sabrina Carpenter&#39;s Holiday Special Drops Tonight: How to Watch](https://www.cnet.com/tech/services-and-software/sabrina-carpenters-holiday-special-drops-tonight-how-to-watch/#ftag=CAD590a51e)
+ - [A Kid Made $50,000 Dumping Crypto He’d Created. Then Came the Backlash](https://www.wired.com/story/memecoin-kid-backlash/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

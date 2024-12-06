@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Finding the Real ‘Midnight Diner’](https://www.wired.com/story/finding-the-real-midnight-diner/)
- - [Sources: OpenAI is discussing ditching a clause that cuts off Microsoft&#39;s access to OpenAI tech if OpenAI develops AGI, so that Microsoft can continue investing &lpar;Financial Times&rpar;](http://www.techmeme.com/241206/p11#a241206p11)
- - [11 Best Cold-Brew Coffee Makers &lpar;2024&rpar;: Oxo, KitchenAid, and More](https://www.wired.com/story/best-cold-brew-coffee-makers/)
- - [Environmental Sensing Is Here, Tracking Everything from Forest Fires to Threatened Species](https://www.wired.com/story/environmental-sensing-is-here-tracking-everything-from-forest-fires-to-threatened-species/)
- - [T-Mobile Adds New Plans to Its Home Internet Menu -- and Throws in Hulu and Paramount Plus](https://www.cnet.com/home/internet/t-mobile-adds-new-plans-to-its-home-internet-menu-and-throws-in-hulu-and-paramount-plus/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Microsoft ends production of its $4,500 Surface Studio 2+, two years after announcing the device, with seemingly no plans to make a successor &lpar;Zac Bowden/Windows Central&rpar;](http://www.techmeme.com/241206/p12#a241206p12)
+ - [How ChatGPT&#39;s Canvas Can Help You Use AI More Productively](https://www.wired.com/story/how-to-use-chatgpt-canvas-productivity/)
+ - [Tim Cook, Super Intelligence, and Wallace and Gromit on the AppleInsider Podcast](https://appleinsider.com/articles/24/12/06/tim-cook-super-intelligence-and-wallace-and-gromit-on-the-appleinsider-podcast?utm_medium=rss)
+ - [Microsoft ends Surface Studio 2 Plus production with no successor in sight](https://www.theverge.com/2024/12/6/24314732/microsoft-surface-studio-2-plus-end-of-production)
+ - [Finding the Real ‘Midnight Diner’](https://www.wired.com/story/finding-the-real-midnight-diner/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

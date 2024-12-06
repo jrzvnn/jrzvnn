@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Large drones are flying over New Jersey at night and no one knows why](https://www.theverge.com/2024/12/6/24314928/new-jersey-ufo-drones-spotted-fbi-investigation-social-media-speculation)
  - [Google’s Pixel 9A looks destined to ditch the camera bar](https://www.theverge.com/2024/12/6/24314958/google-pixel-9a-prototype-photo-leak-camera-bar)
  - [OpenAI expands its Reinforcement Fine-Tuning Research Program to let developers create expert models in specific domains with very little training data &lpar;OpenAI&rpar;](http://www.techmeme.com/241206/p24#a241206p24)
  - [This Game Boy Advance clone could satisfy your purple taco nostalgia](https://www.theverge.com/2024/12/6/24314884/anbernic-rg34xx-handheld-emulator-retro-nintendo-game-boy-advance)
- - [Apple’s in-house 5G modem plans are just getting started with next year’s iPhone SE](https://www.theverge.com/2024/12/6/24314898/apple-5g-modem-debut-iphone-se-2025)
- - [You can now try Microsoft’s Recall AI feature on Intel and AMD Copilot Plus PCs](https://www.theverge.com/2024/12/6/24314795/microsoft-recall-testing-amd-intel-copilot-plus-pcs)<!-- TECH:END -->
+ - [Apple’s in-house 5G modem plans are just getting started with next year’s iPhone SE](https://www.theverge.com/2024/12/6/24314898/apple-5g-modem-debut-iphone-se-2025)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

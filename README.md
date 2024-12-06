@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Notice the women didn&#39;t pop are also the prettiest](http://9gag.com/gag/aZZ0dG9)
+ - 😝 [Big hair time](http://9gag.com/gag/aRBXR5G)
  - 😝 [We miss you Alan](http://9gag.com/gag/apRNjKD)
- - 💣 [Does this count?](http://9gag.com/gag/agmBdR1)
- - 😝 [Eye check](http://9gag.com/gag/awyMe6W)
- - 👉 [Nothing, ungrateful sons of b*tches. Not even a coffee cup](http://9gag.com/gag/aKG6LKb)<!-- MEMES:END -->
+ - 💣 [Nothing, ungrateful sons of b*tches. Not even a coffee cup](http://9gag.com/gag/aKG6LKb)
+ - 😝 [Your order](http://9gag.com/gag/aNDp326)
+ - 👉 [Smells like teen spirit](http://9gag.com/gag/aBy2v6Q)<!-- MEMES:END -->
 
 ---
 

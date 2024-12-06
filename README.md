@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [An interview with Amazon CTO Werner Vogels on the culture needed to attract top engineers, fighting misinformation through open-source intelligence, and more &lpar;Frederic Lardinois/TechCrunch&rpar;](http://www.techmeme.com/241206/p5#a241206p5)
  - [B&amp;H slashes MacBook Pro with 36GB RAM to $1,899 for Cyber Week](https://appleinsider.com/articles/24/11/29/bh-slashes-macbook-pro-with-36gb-ram-to-1899-for-black-friday?utm_medium=rss)
  - [Last call: Apple&#39;s 14-inch MacBook Pro with 16GB RAM on sale for $1,349](https://appleinsider.com/articles/24/12/03/flash-deal-apples-14-inch-macbook-pro-with-16gb-ram-on-sale-for-1349?utm_medium=rss)
  - [In a recent discussion, YC partners said the incubator was deluged with applications from startups looking to develop AI agents, which could become the new SaaS &lpar;John Thornhill/Financial Times&rpar;](http://www.techmeme.com/241206/p4#a241206p4)
- - [10% Off eBay Coupon Code | December 2024](https://www.wired.com/story/ebay-coupon-code/)
- - [Sources: the US spared China&#39;s top DRAM producer CXMT from its latest round of chip curbs because of Japan&#39;s opposition; Tokyo Electron is a major CXMT supplier &lpar;Che Pan/South China Morning Post&rpar;](http://www.techmeme.com/241206/p3#a241206p3)<!-- TECH:END -->
+ - [10% Off eBay Coupon Code | December 2024](https://www.wired.com/story/ebay-coupon-code/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

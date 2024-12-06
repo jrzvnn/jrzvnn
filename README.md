@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [After removing kidney and tumor 6hrs ago. tomorrow menu is kidneypudding. Fck you and see you tomorrow a++holes.](http://9gag.com/gag/aO83NW6)
- - 😝 [The absoulte state of the internet right now.](http://9gag.com/gag/ajPm3Rg)
- - 💣 [New York citizens right now](http://9gag.com/gag/aMVK0QP)
+ - 😝 [Give mom a minute](http://9gag.com/gag/axyMnq2)
+ - 😝 [Notice the women didn&#39;t pop are also the prettiest](http://9gag.com/gag/aZZ0dG9)
+ - 💣 [Subsonic Ammo with silencers makes guns extremely quiet](http://9gag.com/gag/aQzoBNe)
  - 😝 [\ud83c\udfa7Those beats just HIT DIFFERENT! Santa clau5 is coming to town!!](http://9gag.com/gag/a4PEBE6)
- - 👉 [Karma](http://9gag.com/gag/awyMP2B)<!-- MEMES:END -->
+ - 👉 [Well.. that&#39;s embarrassing](http://9gag.com/gag/aE0pQ2o)<!-- MEMES:END -->
 
 ---
 

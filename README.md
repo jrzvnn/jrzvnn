@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [FEC filing: Elon Musk poured at least $274M into US political groups in 2024, including $238.5M for his America PAC, making him the biggest US political donor &lpar;Bill Allison/Bloomberg&rpar;](http://www.techmeme.com/241206/p8#a241206p8)
+ - [A Kid Made $50,000 Dumping Crypto He’d Created. Then Came the Backlash](https://www.wired.com/story/memecoin-kid-backlash/)
+ - [Crave Vesper 2 Review: A Discreet Vibrator](https://www.wired.com/review/crave-vesper-2/)
  - [Industry insiders believe Pat Gelsinger&#39;s hasty exit could be a prelude to Intel moving away from manufacturing its chips altogether, in a blow to US ambitions &lpar;Financial Times&rpar;](http://www.techmeme.com/241206/p7#a241206p7)
- - [Amazon, AMD, and others are beginning to offer credible alternatives to Nvidia&#39;s AI chips, especially for inferencing, which is becoming increasingly important &lpar;Don Clark/New York Times&rpar;](http://www.techmeme.com/241206/p6#a241206p6)
- - [An interview with Amazon CTO Werner Vogels on the culture needed to attract top engineers, fighting misinformation through open-source intelligence, and more &lpar;Frederic Lardinois/TechCrunch&rpar;](http://www.techmeme.com/241206/p5#a241206p5)
- - [B&amp;H slashes MacBook Pro with 36GB RAM to $1,899 for Cyber Week](https://appleinsider.com/articles/24/11/29/bh-slashes-macbook-pro-with-36gb-ram-to-1899-for-black-friday?utm_medium=rss)
- - [Last call: Apple&#39;s 14-inch MacBook Pro with 16GB RAM on sale for $1,349](https://appleinsider.com/articles/24/12/03/flash-deal-apples-14-inch-macbook-pro-with-16gb-ram-on-sale-for-1349?utm_medium=rss)<!-- TECH:END -->
+ - [Amazon, AMD, and others are beginning to offer credible alternatives to Nvidia&#39;s AI chips, especially for inferencing, which is becoming increasingly important &lpar;Don Clark/New York Times&rpar;](http://www.techmeme.com/241206/p6#a241206p6)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [We miss you Alan](http://9gag.com/gag/apRNjKD)
- - 😝 [Well.. that&#39;s embarrassing](http://9gag.com/gag/aE0pQ2o)
- - 💣 [Definitely setting a good foundation for a marriage](http://9gag.com/gag/aKG6nNQ)
+ - 😝 [New York citizens right now](http://9gag.com/gag/aMVK0QP)
+ - 😝 [All Joeys aside...](http://9gag.com/gag/a6ZE4Be)
+ - 💣 [She posted a thirst-trap but got a debate instead](http://9gag.com/gag/awyM9WD)
  - 😝 [\ud83c\udfa7Those beats just HIT DIFFERENT! Santa clau5 is coming to town!!](http://9gag.com/gag/a4PEBE6)
- - 👉 [Smells like teen spirit](http://9gag.com/gag/aBy2v6Q)<!-- MEMES:END -->
+ - 👉 [The absoulte state of the internet right now.](http://9gag.com/gag/ajPm3Rg)<!-- MEMES:END -->
 
 ---
 

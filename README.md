@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Apple plans three-year rollout of its self-made iPhone modem, starting with iPhone SE](https://appleinsider.com/articles/24/12/06/apple-plans-three-year-rollout-of-its-self-made-iphone-modem-starting-with-iphone-se?utm_medium=rss)
+ - [xAI makes its AI chatbot Grok available to all users of X; non-Premium subscribers can send up to 10 messages to Grok every two hours &lpar;Emma Roth/The Verge&rpar;](http://www.techmeme.com/241206/p22#a241206p22)
  - [Sources: trading and investment platform eToro weighs a US IPO as soon as Q2, 2025, seeking a $3.5B+ valuation; it has 38M+ registered users from 75 countries &lpar;Bloomberg&rpar;](http://www.techmeme.com/241206/p21#a241206p21)
  - [X’s Grok AI chatbot is now available to all users](https://www.theverge.com/2024/12/6/24314860/x-grok-ai-chatbot-available-all-users)
- - [AirPods 4 with Active Noise Cancellation hit new all-time low with $40 off](https://www.theverge.com/2024/12/6/24314768/apple-airpods-4-with-active-noise-cancellation-wireless-earbuds-xbox-core-controller-deal-sale)
- - [Anthem BCBS is reversing its anesthesia policy after online outrage](https://www.theverge.com/2024/12/6/24314770/anthem-blue-cross-blue-shield-anesthesia-limit-policy-health-insurance)
- - [Coinbase publishes FDIC documents, obtained via a lawsuit, that it says prove crypto businesses were systematically walled off from banking by the regulator &lpar;Jesse Hamilton/CoinDesk&rpar;](http://www.techmeme.com/241206/p20#a241206p20)<!-- TECH:END -->
+ - [AirPods 4 with Active Noise Cancellation hit new all-time low with $40 off](https://www.theverge.com/2024/12/6/24314768/apple-airpods-4-with-active-noise-cancellation-wireless-earbuds-xbox-core-controller-deal-sale)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

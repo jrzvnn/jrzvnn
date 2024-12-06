@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Popular NFT project Pudgy Penguins plans to launch a Solana-based token called PENGU within this year, with 23.5% of the 88B tokens reserved for its NFT holders &lpar;Shaurya Malwa/CoinDesk&rpar;](http://www.techmeme.com/241205/p49#a241205p49)
- - [A Brazilian judge overturns an injunction that would have forced Apple to enable iOS sideloading in 20 days, calling the regulator&#39;s decision &quot;disproportionate&quot; &lpar;Filipe Esp&amp;oacute;sito/9to5Mac&rpar;](http://www.techmeme.com/241205/p48#a241205p48)
- - [The US FCC proposes rules for carriers to submit an annual certification attesting they have a plan to protect against cyberattacks, after the Salt Typhoon hack &lpar;Reuters&rpar;](http://www.techmeme.com/241205/p47#a241205p47)
- - [California says ride-hail drivers need to pass a fingerprint background check to transport unaccompanied minors; Uber launched Uber for Teens in CA in February &lpar;Rebecca Bellan/TechCrunch&rpar;](http://www.techmeme.com/241205/p46#a241205p46)
- - [Canva Revolutionized Graphic Design. Will It Survive the Age of AI?](https://www.wired.com/story/canva-ceo-melanie-perkins-interview/)<!-- TECH:END -->
+ - [Today&#39;s NYT Strands Hints, Answers and Help for Dec. 6, #278](https://www.cnet.com/tech/gaming/todays-nyt-strands-hints-answers-and-help-for-dec-6-278/#ftag=CAD590a51e)
+ - [Today&#39;s NYT Connections Hints, Answers and Help for Dec. 6, #544](https://www.cnet.com/tech/gaming/todays-nyt-connections-hints-answers-and-help-for-dec-6-544/#ftag=CAD590a51e)
+ - [Today&#39;s Wordle Hints, Answer and Help for Dec. 6, #1266](https://www.cnet.com/tech/gaming/todays-wordle-hints-answer-and-help-for-dec-6-1266/#ftag=CAD590a51e)
+ - [Today&#39;s NYT Connections: Sports Edition Hints and Answers for Dec. 6, #74](https://www.cnet.com/tech/gaming/todays-nyt-connections-sports-edition-hints-and-answers-for-dec-6-74/#ftag=CAD590a51e)
+ - [Popular NFT project Pudgy Penguins plans to launch a Solana-based token called PENGU within this year, with 23.5% of the 88B tokens reserved for its NFT holders &lpar;Shaurya Malwa/CoinDesk&rpar;](http://www.techmeme.com/241205/p49#a241205p49)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

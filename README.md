@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Last call: Apple&#39;s 14-inch MacBook Pro with 16GB RAM on sale for $1,349](https://appleinsider.com/articles/24/12/03/flash-deal-apples-14-inch-macbook-pro-with-16gb-ram-on-sale-for-1349?utm_medium=rss)
  - [In a recent discussion, YC partners said the incubator was deluged with applications from startups looking to develop AI agents, which could become the new SaaS &lpar;John Thornhill/Financial Times&rpar;](http://www.techmeme.com/241206/p4#a241206p4)
  - [10% Off eBay Coupon Code | December 2024](https://www.wired.com/story/ebay-coupon-code/)
  - [Sources: the US spared China&#39;s top DRAM producer CXMT from its latest round of chip curbs because of Japan&#39;s opposition; Tokyo Electron is a major CXMT supplier &lpar;Che Pan/South China Morning Post&rpar;](http://www.techmeme.com/241206/p3#a241206p3)
- - [Samsung releases One UI 7 beta for Galaxy S24, with a huge visual overhaul, a &quot;Now Bar&quot;, a vertically scrolling app drawer, new security and AI tools, and more &lpar;Ben Schoon/9to5Google&rpar;](http://www.techmeme.com/241206/p2#a241206p2)
- - [Pat Gelsinger was dealt a bad hand by Intel&#39;s board, which gave him just three years to execute a turnaround despite challenging timing and circumstances &lpar;M.G. Siegler/Spyglass&rpar;](http://www.techmeme.com/241206/p1#a241206p1)<!-- TECH:END -->
+ - [Samsung releases One UI 7 beta for Galaxy S24, with a huge visual overhaul, a &quot;Now Bar&quot;, a vertically scrolling app drawer, new security and AI tools, and more &lpar;Ben Schoon/9to5Google&rpar;](http://www.techmeme.com/241206/p2#a241206p2)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

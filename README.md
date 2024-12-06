@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [The size of this salmon](http://9gag.com/gag/aAybm3d)
- - 😝 [Your order](http://9gag.com/gag/aNDp326)
- - 💣 [Headline](http://9gag.com/gag/ayNMPoW)
- - 😝 [Good Man](http://9gag.com/gag/aW4jDVx)
- - 👉 [This is not an ocean.](http://9gag.com/gag/a2v7xMp)<!-- MEMES:END -->
+ - 😝 [We miss you Alan](http://9gag.com/gag/apRNjKD)
+ - 😝 [All Joeys aside...](http://9gag.com/gag/a6ZE4Be)
+ - 💣 [Champion](http://9gag.com/gag/azxMDbb)
+ - 😝 [The night sky on Mars](http://9gag.com/gag/an7QWpo)
+ - 👉 [Notice the women didn&#39;t pop are also the prettiest](http://9gag.com/gag/aZZ0dG9)<!-- MEMES:END -->
 
 ---
 

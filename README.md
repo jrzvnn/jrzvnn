@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The Real Story of “The Order”](https://www.wired.com/story/real-story-the-order-fbi-movie-bob-mathews/)
  - [Keeping Your Personal Data Safe in the Age of Trump](https://www.wired.com/story/politics-lab-keeping-your-personal-data-safe/)
  - [The Verge’s favorite holiday gifts under $50](https://www.theverge.com/24224039/best-gifts-under-50-ideas-cheap-tech-2024-budget)
  - [SpaceX got a Pentagon contract in August to expand Ukraine&#39;s access to Starshield, an encrypted signal over Starlink that&#39;s more difficult to hack into or jam &lpar;Anthony Capaccio/Bloomberg&rpar;](http://www.techmeme.com/241206/p26#a241206p26)
- - [Q&amp;A with Trump&#39;s pick for FCC chairman Brendan Carr about the Salt Typhoon hack, Section 230, tech companies&#39; &quot;collusion to suppress speech&quot;, Starlink, more &lpar;CNBC&rpar;](http://www.techmeme.com/241206/p25#a241206p25)
- - [A Mysterious Respiratory Disease Has the Democratic Republic of the Congo on High Alert](https://www.wired.com/story/drc-mysterious-respiratory-disease-children-who-africa/)<!-- TECH:END -->
+ - [Q&amp;A with Trump&#39;s pick for FCC chairman Brendan Carr about the Salt Typhoon hack, Section 230, tech companies&#39; &quot;collusion to suppress speech&quot;, Starlink, more &lpar;CNBC&rpar;](http://www.techmeme.com/241206/p25#a241206p25)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [World\u2019s fastest drag racer hits 580kmph &lpar;360mph&rpar; in just 3 seconds](http://9gag.com/gag/apRNzAW)
- - 😝 [Subsonic Ammo with silencers makes guns extremely quiet](http://9gag.com/gag/aQzoBNe)
- - 💣 [Is this a guide or something..?](http://9gag.com/gag/a7oEBvb)
+ - 😝 [Love you, f**kers](http://9gag.com/gag/aPA3dLR)
+ - 😝 [New York citizens right now](http://9gag.com/gag/aMVK0QP)
+ - 💣 [All Joeys aside...](http://9gag.com/gag/a6ZE4Be)
  - 😝 [\ud83c\udfa7Those beats just HIT DIFFERENT! Santa clau5 is coming to town!!](http://9gag.com/gag/a4PEBE6)
- - 👉 [Extracting gold from used electronics](http://9gag.com/gag/aE0pb7e)<!-- MEMES:END -->
+ - 👉 [Bro lagged](http://9gag.com/gag/awyMDN4)<!-- MEMES:END -->
 
 ---
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [When asked if Musk is a threat to democracy, Nick Clegg says Musk can be either an avid Trump supporter or can try to become &quot;a sort of political puppet master&quot; &lpar;Jennifer McKiernan/BBC&rpar;](http://www.techmeme.com/241206/p13#a241206p13)
+ - [8 Best Sleep Trackers &lpar;2024&rpar;: Expert Tips and Research](https://www.wired.com/gallery/best-sleep-trackers/)
+ - [AGI is coming and nobody cares](https://www.theverge.com/2024/12/6/24314746/agi-openai-sam-altman-cable-subscription-vergecast)
  - [Microsoft ends production of its $4,500 Surface Studio 2+, two years after announcing the device, with seemingly no plans to make a successor &lpar;Zac Bowden/Windows Central&rpar;](http://www.techmeme.com/241206/p12#a241206p12)
- - [How ChatGPT&#39;s Canvas Can Help You Use AI More Productively](https://www.wired.com/story/how-to-use-chatgpt-canvas-productivity/)
- - [Tim Cook, Super Intelligence, and Wallace and Gromit on the AppleInsider Podcast](https://appleinsider.com/articles/24/12/06/tim-cook-super-intelligence-and-wallace-and-gromit-on-the-appleinsider-podcast?utm_medium=rss)
- - [Microsoft ends Surface Studio 2 Plus production with no successor in sight](https://www.theverge.com/2024/12/6/24314732/microsoft-surface-studio-2-plus-end-of-production)
- - [Finding the Real ‘Midnight Diner’](https://www.wired.com/story/finding-the-real-midnight-diner/)<!-- TECH:END -->
+ - [How ChatGPT&#39;s Canvas Can Help You Use AI More Productively](https://www.wired.com/story/how-to-use-chatgpt-canvas-productivity/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [What Arm’s CEO makes of the Intel debacle](https://www.theverge.com/2024/12/6/24315123/arm-ceo-rene-haas-intel-ai-chips-samsung-changes)
+ - [Apple&#39;s John Giannandrea, Craig Federighi, and Greg Joswiak on the company&#39;s work on transformer-based AI models after GPT-3, building Apple Intelligence, more &lpar;Steven Levy/Wired&rpar;](http://www.techmeme.com/241206/p29#a241206p29)
  - [Apple&#39;s ongoing modem push rumored to result in cellular MacBooks](https://appleinsider.com/articles/24/12/06/apples-ongoing-modem-push-rumored-to-result-in-cellular-macbooks?utm_medium=rss)
- - [13 Deals on WIRED-Approved Gear at Walmart](https://www.wired.com/story/weekend-deals-december-7-2024/)
- - [T-Mobile is introducing ‘revamped’ 5G Home Internet plans](https://www.theverge.com/2024/12/6/24314956/t-mobile-5g-home-internet-plans-rely-amplified-all-in)
- - [Apple’s custom modems could put 5G in Macs and Vision Pro](https://www.theverge.com/2024/12/6/24315099/apple-custom-modems-5g-macs-vision-pro)
- - [Google Wallet can now be your passport at many airports](https://www.theverge.com/2024/12/6/24315065/google-wallet-digital-id-passport-airports)<!-- TECH:END -->
+ - [Last Chance: Learn a New Language With a Lifetime Babbel Subscription for $130](https://www.cnet.com/deals/master-any-language-with-a-lifetime-babbel-subscription-for-130-normally-599-this-cyber-monday/#ftag=CAD590a51e)
+ - [Best VPN for Gaming in 2024](https://www.cnet.com/tech/services-and-software/best-vpn-for-gaming/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

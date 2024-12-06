@@ -166,9 +166,9 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Smells like teen spirit](http://9gag.com/gag/aBy2v6Q)
- - 😝 [Does this count?](http://9gag.com/gag/agmBdR1)
- - 💣 [Eye check](http://9gag.com/gag/awyMe6W)
+ - 😝 [Your order](http://9gag.com/gag/aNDp326)
+ - 😝 [World\u2019s fastest drag racer hits 580kmph &lpar;360mph&rpar; in just 3 seconds](http://9gag.com/gag/apRNzAW)
+ - 💣 [Your coverage is denied](http://9gag.com/gag/aBy2vbN)
  - 😝 [\ud83c\udfa7Those beats just HIT DIFFERENT! Santa clau5 is coming to town!!](http://9gag.com/gag/a4PEBE6)
  - 👉 [Nothing, ungrateful sons of b*tches. Not even a coffee cup](http://9gag.com/gag/aKG6LKb)<!-- MEMES:END -->
 

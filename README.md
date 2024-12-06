@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [An evaluation of six frontier AI models for in-context scheming when strongly nudged to pursue a goal: only OpenAI&#39;s o1 was capable of scheming in all the tests &lpar;Marius Hobbhahn/Apollo Research&rpar;](http://www.techmeme.com/241206/p10#a241206p10)
+ - [Now Indonesia says Apple will build it a $1 billion plant to end the iPhone 16 ban](https://appleinsider.com/articles/24/12/06/now-indonesia-says-apple-will-build-it-a-1-billion-plant-to-end-the-iphone-16-ban?utm_medium=rss)
  - [33 Viral TikTok Gifts That Are Actually Worth a Look &lpar;2024&rpar;](https://www.wired.com/gallery/best-viral-tiktok-gadgets/)
  - [Uber’s first international robotaxi service is live in the UAE](https://www.theverge.com/2024/12/6/24313138/uber-weride-robotaxi-uae-abu-dhabi)
- - [Uber and Chinese autonomous vehicle company WeRide launch a commercial robotaxi service in Abu Dhabi, marking Uber&#39;s first international AV offering &lpar;Rebecca Bellan/TechCrunch&rpar;](http://www.techmeme.com/241206/p9#a241206p9)
- - [Why Soccer Players Are Training in the Dark](https://www.wired.com/story/why-soccer-players-are-training-in-the-dark-okkolo-football-sunderland-leeds-united-neuroscience/)
- - [FEC filing: Elon Musk poured at least $274M into US political groups in 2024, including $238.5M for his America PAC, making him the biggest US political donor &lpar;Bill Allison/Bloomberg&rpar;](http://www.techmeme.com/241206/p8#a241206p8)<!-- TECH:END -->
+ - [Apple AirPods 4 With ANC Just Hit a New Record Low at Amazon With $40 Off for the Holidays](https://www.cnet.com/deals/apple-airpods-4-with-anc-just-hit-a-new-record-low-at-amazon-for-the-holidays-with-40-off/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

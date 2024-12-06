@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Netflix’s Jentry Chau vs. The Underworld is a fresh remix of Buffy-style monster slaying](https://www.theverge.com/2024/12/6/24307486/jentry-chau-vs-the-underworld-review)
- - [TikTok divest-or-ban law upheld by federal court](https://www.theverge.com/2024/12/6/24297454/tiktok-divest-or-ban-dc-circuit-court-appeals)
- - [TikTok faces a US ban if it is not sold by January 19, after a federal appeals court ruled that Congress has the power to take action to protect US interests &lpar;Jacob Gershman/Wall Street Journal&rpar;](http://www.techmeme.com/241206/p16#a241206p16)
- - [Asus teaser hints at ‘world’s first’ 27-inch 4K OLED gaming monitor](https://www.theverge.com/2024/12/6/24314760/asus-27-inch-4k-oled-monitor-teaser-rumor-ces-2025)
- - [Muppet History was a bright spot online — now it’s embroiled in a sexual harassment scandal](https://www.theverge.com/2024/12/6/24312382/muppet-history-fandom-sexual-harassment-dms)<!-- TECH:END -->
+ - [Researchers put bird legs on a drone so it can take off by jumping](https://www.theverge.com/2024/12/6/24314771/epfl-uc-irvine-drone-raven-aircraft-research-science)
+ - [21 Gift Ideas for the Home Chef &lpar;2024&rpar;: Vitamix, Cookbooks](https://www.wired.com/gallery/gift-for-the-home-chef-2024/)
+ - [Sources: Ubisoft shareholders are considering how to structure a possible buyout of the game maker without reducing the founding Guillemot family&#39;s control &lpar;Reuters&rpar;](http://www.techmeme.com/241206/p17#a241206p17)
+ - [Amazon just completed its first delivery by drone in Italy](https://www.theverge.com/2024/12/6/24314789/amazon-drone-test-italy-prime-air-delivery)
+ - [Netflix’s Jentry Chau vs. The Underworld is a fresh remix of Buffy-style monster slaying](https://www.theverge.com/2024/12/6/24307486/jentry-chau-vs-the-underworld-review)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

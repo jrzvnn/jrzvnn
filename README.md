@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Apple’s custom modems could put 5G in Macs and Vision Pro](https://www.theverge.com/2024/12/6/24315099/apple-custom-modems-5g-macs-vision-pro)
+ - [Google Wallet can now be your passport at many airports](https://www.theverge.com/2024/12/6/24315065/google-wallet-digital-id-passport-airports)
  - [Sources: with its own modem in the pipeline, Apple is investigating bringing cellular connectivity to the Mac and headsets like Vision Pro for the first time &lpar;Mark Gurman/Bloomberg&rpar;](http://www.techmeme.com/241206/p28#a241206p28)
- - [These are the best discounts on Apple&#39;s MacBook Air for holiday gift-giving](https://appleinsider.com/articles/24/12/06/these-are-the-best-discounts-on-apples-macbook-air-for-holiday-gift-giving?utm_medium=rss)
- - [A US teen faces backlash for making ~$50K via a &quot;soft rug pull&quot; on Pump.Fun, which made $250M+ in less than a year and is struggling to protect users from scams &lpar;Joel Khalili/Wired&rpar;](http://www.techmeme.com/241206/p27#a241206p27)
- - [The Real Story of “The Order”](https://www.wired.com/story/real-story-the-order-fbi-movie-bob-mathews/)
- - [Keeping Your Personal Data Safe in the Age of Trump](https://www.wired.com/story/politics-lab-keeping-your-personal-data-safe/)<!-- TECH:END -->
+ - [These Already-Affordable Bose Earbuds Are Now at a $50 Discount at Amazon](https://www.cnet.com/deals/bose-quietcomfort-earbuds-129-deal/#ftag=CAD590a51e)
+ - [This Incredible Deal on Smart Icicle Lights Lets You Decorate Your Home for Half Price](https://www.cnet.com/deals/i-found-an-incredible-deal-on-smart-icicle-lights-so-you-can-decorate-your-home-for-half-price/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

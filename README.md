@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [Extracting gold from used electronics](http://9gag.com/gag/aE0pb7e)
+ - 😝 [Definitely setting a good foundation for a marriage](http://9gag.com/gag/aKG6nNQ)
+ - 💣 [A stand up](http://9gag.com/gag/aLnpNmv)
  - 😝 [Embarrased vs Bashful](http://9gag.com/gag/aKG6NmZ)
- - 😝 [World\u2019s fastest drag racer hits 580kmph &lpar;360mph&rpar; in just 3 seconds](http://9gag.com/gag/apRNzAW)
- - 💣 [I lol&#39;d.](http://9gag.com/gag/a7oEm0q)
- - 😝 [\ud83c\udfa7Those beats just HIT DIFFERENT! Santa clau5 is coming to town!!](http://9gag.com/gag/a4PEBE6)
- - 👉 [Extracting gold from used electronics](http://9gag.com/gag/aE0pb7e)<!-- MEMES:END -->
+ - 👉 [Subsonic Ammo with silencers makes guns extremely quiet](http://9gag.com/gag/aQzoBNe)<!-- MEMES:END -->
 
 ---
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Daniel Penny case DISMISSED!](http://9gag.com/gag/apRNXX9)
- - 😝 [She posted a thirst-trap but got a debate instead](http://9gag.com/gag/awyM9WD)
- - 💣 [Fixed](http://9gag.com/gag/a34EDwv)
- - 😝 [When I try to enter the meeting room as quite as possible.](http://9gag.com/gag/avy5qpn)
- - 👉 [Tania Fernandes Anderson, a proud BLM Muslim Democrat serving on the Boston City Council, has been arrested by the FBI for allegedly stealing large amounts of taxpayer funds for her family. She\u2019s the latest BLM activist accused of fraud &amp; theft.](http://9gag.com/gag/a6ZEzAN)<!-- MEMES:END -->
+ - 😝 [Mexican origin story](http://9gag.com/gag/abAVLzb)
+ - 😝 [I lol&#39;d.](http://9gag.com/gag/a7oEm0q)
+ - 💣 [When Hans actually comes](http://9gag.com/gag/aLnpVe6)
+ - 😝 [Definitely setting a good foundation for a marriage](http://9gag.com/gag/aKG6nNQ)
+ - 👉 [World\u2019s fastest drag racer hits 580kmph &lpar;360mph&rpar; in just 3 seconds](http://9gag.com/gag/apRNzAW)<!-- MEMES:END -->
 
 ---
 

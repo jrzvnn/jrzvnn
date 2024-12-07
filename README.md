@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Movie](http://9gag.com/gag/aVv7dGn)
- - 😝 [Ip Man](http://9gag.com/gag/ajPmGZR)
- - 💣 [I hope nothing bad happened.](http://9gag.com/gag/a34EzW7)
- - 😝 [Does this count?](http://9gag.com/gag/agmBdR1)
- - 👉 [Definitely setting a good foundation for a marriage](http://9gag.com/gag/aKG6nNQ)<!-- MEMES:END -->
+ - 😝 [This! The frustration is unreal..](http://9gag.com/gag/amoPQPX)
+ - 😝 [Subsonic Ammo with silencers makes guns extremely quiet](http://9gag.com/gag/aQzoBNe)
+ - 💣 [Mexican origin story](http://9gag.com/gag/abAVLzb)
+ - 😝 [Embarrased vs Bashful](http://9gag.com/gag/aKG6NmZ)
+ - 👉 [A Colombian hitwoman, known as \u2018The Doll,\u2019 has allegedly been arrested for several murders, including her ex-boyfriend](http://9gag.com/gag/aLnpOM5)<!-- MEMES:END -->
 
 ---
 

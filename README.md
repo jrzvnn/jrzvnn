@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Extracting gold from used electronics](http://9gag.com/gag/aE0pb7e)
- - 😝 [Notice the women didn&#39;t pop are also the prettiest](http://9gag.com/gag/aZZ0dG9)
- - 💣 [World\u2019s fastest drag racer hits 580kmph &lpar;360mph&rpar; in just 3 seconds](http://9gag.com/gag/apRNzAW)
+ - 😝 [Embarrased vs Bashful](http://9gag.com/gag/aKG6NmZ)
+ - 😝 [World\u2019s fastest drag racer hits 580kmph &lpar;360mph&rpar; in just 3 seconds](http://9gag.com/gag/apRNzAW)
+ - 💣 [I lol&#39;d.](http://9gag.com/gag/a7oEm0q)
  - 😝 [\ud83c\udfa7Those beats just HIT DIFFERENT! Santa clau5 is coming to town!!](http://9gag.com/gag/a4PEBE6)
- - 👉 [I lol&#39;d.](http://9gag.com/gag/a7oEm0q)<!-- MEMES:END -->
+ - 👉 [Extracting gold from used electronics](http://9gag.com/gag/aE0pb7e)<!-- MEMES:END -->
 
 ---
 

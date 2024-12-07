@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Me, me, please me...](http://9gag.com/gag/amoPOod)
- - 😝 [Mexican origin story](http://9gag.com/gag/abAVLzb)
- - 💣 [A Colombian hitwoman, known as \u2018The Doll,\u2019 has allegedly been arrested for several murders, including her ex-boyfriend](http://9gag.com/gag/aLnpOM5)
- - 😝 [Subsonic Ammo with silencers makes guns extremely quiet](http://9gag.com/gag/aQzoBNe)
- - 👉 [Give mom a minute](http://9gag.com/gag/axyMnq2)<!-- MEMES:END -->
+ - 😝 [D&#39;aaaaaawwwwww!](http://9gag.com/gag/aBy2bmQ)
+ - 😝 [A dagger with a destiny .](http://9gag.com/gag/aE0pKWp)
+ - 💣 [Every injury is a lesson learned](http://9gag.com/gag/aE0pbgK)
+ - 😝 [Found the hoodie guy!](http://9gag.com/gag/aGyprz0)
+ - 👉 [The truth brother](http://9gag.com/gag/aGypvx6)<!-- MEMES:END -->
 
 ---
 

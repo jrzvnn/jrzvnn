@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The Verge’s 2024 holiday gift guide for dads](https://www.theverge.com/24224045/best-gift-ideas-dad-holiday-unique-2024-tech-gadgets)
- - [Valve’s master plan for Steam Machines is finally coming into focus](https://www.theverge.com/2024/12/6/24315098/valve-steam-machines-steamos-steam-deck-vr)
- - [The EU sends TikTok an urgent request for information on Russia&#39;s role in Romanian election turmoil, a day after ordering it to retain all election-related data &lpar;Kelvin Chan/Associated Press&rpar;](http://www.techmeme.com/241206/p30#a241206p30)
- - [Amazon&#39;s record-low AirPods 4 price is perfect for nailing down stocking stuffers](https://appleinsider.com/articles/24/12/06/amazons-record-low-airpods-4-price-is-perfect-for-nailing-down-stocking-stuffers?utm_medium=rss)
- - [Microsoft Surface rumors point to a big Copilot Plus refresh next year](https://www.theverge.com/2024/12/6/24315105/microsoft-surface-pro-laptop-intel-lunar-lake-rumors)<!-- TECH:END -->
+ - [David Sacks, Trump&#39;s AI and crypto czar, lacks deep ties to either industry but is a longtime critic of tech regulation, which investors view as more important &lpar;Bloomberg&rpar;](http://www.techmeme.com/241206/p33#a241206p33)
+ - [How to Unlock the Music Easter Egg in Black Ops 6&#39;s New Zombies Map](https://www.cnet.com/tech/gaming/how-to-unlock-the-music-easter-egg-in-black-ops-6s-new-zombies-map/#ftag=CAD590a51e)
+ - [TurboTax Dives Deeper Into Automated Tax Prep With Improved AI Features](https://www.cnet.com/personal-finance/taxes/turbotax-dives-deeper-into-automated-tax-prep-with-improved-ai-features/#ftag=CAD590a51e)
+ - [Palantir and Anduril announce a partnership to advance AI capabilities for US national security, focusing on data readiness and processing data at scale &lpar;Connor Hart/Wall Street Journal&rpar;](http://www.techmeme.com/241206/p32#a241206p32)
+ - [Best Vitamins for Energy in 2024](https://www.cnet.com/health/nutrition/best-vitamins-for-energy/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

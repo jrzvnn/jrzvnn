@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [I am convinced 90% of people you see are NPCs.](http://9gag.com/gag/aXPoz49)
- - 😝 [Embarrased vs Bashful](http://9gag.com/gag/aKG6NmZ)
- - 💣 [Yeah bud copyright your shitty wannabe meme I&#39;m sure it will go viral](http://9gag.com/gag/aNDp850)
- - 😝 [When Hans actually comes](http://9gag.com/gag/aLnpVe6)
- - 👉 [This! The frustration is unreal..](http://9gag.com/gag/amoPQPX)<!-- MEMES:END -->
+ - 😝 [Me, me, please me...](http://9gag.com/gag/amoPOod)
+ - 😝 [Mexican origin story](http://9gag.com/gag/abAVLzb)
+ - 💣 [A Colombian hitwoman, known as \u2018The Doll,\u2019 has allegedly been arrested for several murders, including her ex-boyfriend](http://9gag.com/gag/aLnpOM5)
+ - 😝 [Subsonic Ammo with silencers makes guns extremely quiet](http://9gag.com/gag/aQzoBNe)
+ - 👉 [Give mom a minute](http://9gag.com/gag/axyMnq2)<!-- MEMES:END -->
 
 ---
 

@@ -158,10 +158,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- TECH:START -->
  - [OpenAI&#39;s o1 is a notable departure from older models, representing the industry&#39;s shift to reasoning models to overcome the limits of prediction-based AI &lpar;Matteo Wong/The Atlantic&rpar;](http://www.techmeme.com/241207/p11#a241207p11)
- - [Best Over-Ear Headphones for 2024](https://www.cnet.com/tech/mobile/best-over-ear-headphones/#ftag=CAD590a51e)
  - [SEO: Korg MicroKorg 2 Review: Better, Not Best](https://www.wired.com/review/korg-microkorg-2/)
- - [&#39;Landman&#39; Release Schedule: When Episode 5 Hits Paramount Plus](https://www.cnet.com/tech/services-and-software/landman-release-schedule-when-episode-5-hits-paramount-plus/#ftag=CAD590a51e)
- - [Paytm sells its stake in Japanese payments firm PayPay to SoftBank for $279.2M, ending Paytm&#39;s ties with SoftBank, which sold its remaining Paytm shares in June &lpar;Manish Singh/TechCrunch&rpar;](http://www.techmeme.com/241207/p10#a241207p10)<!-- TECH:END -->
+ - [Paytm sells its stake in Japanese payments firm PayPay to SoftBank for $279.2M, ending Paytm&#39;s ties with SoftBank, which sold its remaining Paytm shares in June &lpar;Manish Singh/TechCrunch&rpar;](http://www.techmeme.com/241207/p10#a241207p10)
+ - [Fortnite’s new mode is an FPS that’s a lot like Counter-Strike](https://www.theverge.com/2024/12/7/24315134/fortnite-ballistic-counter-strike-first-person-shooter-fps)
+ - [Skip the Viral Hatch Restore 2 for This Brighter, Cheaper Clock](https://www.wired.com/story/lumie-shine-300-rave/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -157,7 +157,7 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [OpenAI&#39;s o1 is a notable departure from older models, representing the industry&#39;s shift to reasoning models to overcome the limits of prediction-based AI &lpar;Matteo Wong/The Atlantic&rpar;](http://www.techmeme.com/241207/p11#a241207p11)
+ - [OpenAI&#39;s o1 is a notable departure from older models, representing the AI industry&#39;s shift to reasoning models to overcome the limits of prediction-based LLMs &lpar;Matteo Wong/The Atlantic&rpar;](http://www.techmeme.com/241207/p11#a241207p11)
  - [Best Over-Ear Headphones for 2024](https://www.cnet.com/tech/mobile/best-over-ear-headphones/#ftag=CAD590a51e)
  - [SEO: Korg MicroKorg 2 Review: Better, Not Best](https://www.wired.com/review/korg-microkorg-2/)
  - [&#39;Landman&#39; Release Schedule: When Episode 5 Hits Paramount Plus](https://www.cnet.com/tech/services-and-software/landman-release-schedule-when-episode-5-hits-paramount-plus/#ftag=CAD590a51e)

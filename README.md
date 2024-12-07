@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [From OCD to PHD](http://9gag.com/gag/aBy2bPZ)
- - 😝 [You thought you knew what a favela looked like...](http://9gag.com/gag/azxMwej)
- - 💣 [Yeah bud copyright your shitty wannabe meme I&#39;m sure it will go viral](http://9gag.com/gag/aNDp850)
  - 😝 [Poor Dooku](http://9gag.com/gag/aKG6nZ3)
- - 👉 [I hope nothing bad happened.](http://9gag.com/gag/a34EzW7)<!-- MEMES:END -->
+ - 😝 [Not the ending you expect](http://9gag.com/gag/ajPmvZ1)
+ - 💣 [World\u2019s fastest drag racer hits 580kmph &lpar;360mph&rpar; in just 3 seconds](http://9gag.com/gag/apRNzAW)
+ - 😝 [Waterslide](http://9gag.com/gag/apRN7bD)
+ - 👉 [When Hans actually comes](http://9gag.com/gag/aLnpVe6)<!-- MEMES:END -->
 
 ---
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [SEO: Korg MicroKorg 2 Review: Better, Not Best](https://www.wired.com/review/korg-microkorg-2/)
  - [Paytm sells its stake in Japanese payments firm PayPay to SoftBank for $279.2M, ending Paytm&#39;s ties with SoftBank, which sold its remaining Paytm shares in June &lpar;Manish Singh/TechCrunch&rpar;](http://www.techmeme.com/241207/p10#a241207p10)
  - [Fortnite’s new mode is an FPS that’s a lot like Counter-Strike](https://www.theverge.com/2024/12/7/24315134/fortnite-ballistic-counter-strike-first-person-shooter-fps)
  - [Skip the Viral Hatch Restore 2 for This Brighter, Cheaper Clock](https://www.wired.com/story/lumie-shine-300-rave/)
- - [How to stop the AI you’re using from training with your data](https://www.theverge.com/24315071/ai-training-chatgpt-gemini-copilot-how-to)
- - [How the UK has come to play a key role in the global regulation of AI after Sam Altman played a deepfake of Rishi Sunak on a 2023 call with the then PM &lpar;Vincent Manancourt/Politico&rpar;](http://www.techmeme.com/241207/p9#a241207p9)<!-- TECH:END -->
+ - [Best Prepaid Phone Plans for December 2024](https://www.cnet.com/tech/mobile/best-prepaid-phone-plan/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

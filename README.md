@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Does this count?](http://9gag.com/gag/agmBdR1)
- - 😝 [The flag ripping off its pole in this scene from The Two Towers wasn&#39;t intentional. They later added a scene of Aragon acknowledging it.](http://9gag.com/gag/aAybqVE)
- - 💣 [World\u2019s fastest drag racer hits 580kmph &lpar;360mph&rpar; in just 3 seconds](http://9gag.com/gag/apRNzAW)
+ - 😝 [Ip Man](http://9gag.com/gag/ajPmGZR)
+ - 😝 [Embarrased vs Bashful](http://9gag.com/gag/aKG6NmZ)
+ - 💣 [A stand up](http://9gag.com/gag/aLnpNmv)
  - 😝 [\ud83c\udfa7Those beats just HIT DIFFERENT! Santa clau5 is coming to town!!](http://9gag.com/gag/a4PEBE6)
- - 👉 [Smells like teen spirit](http://9gag.com/gag/aBy2v6Q)<!-- MEMES:END -->
+ - 👉 [Give mom a minute](http://9gag.com/gag/axyMnq2)<!-- MEMES:END -->
 
 ---
 

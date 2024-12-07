@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Extracting gold from used electronics](http://9gag.com/gag/aE0pb7e)
- - 😝 [Definitely setting a good foundation for a marriage](http://9gag.com/gag/aKG6nNQ)
- - 💣 [A stand up](http://9gag.com/gag/aLnpNmv)
- - 😝 [Embarrased vs Bashful](http://9gag.com/gag/aKG6NmZ)
- - 👉 [Subsonic Ammo with silencers makes guns extremely quiet](http://9gag.com/gag/aQzoBNe)<!-- MEMES:END -->
+ - 😝 [Daniel Penny case DISMISSED!](http://9gag.com/gag/apRNXX9)
+ - 😝 [She posted a thirst-trap but got a debate instead](http://9gag.com/gag/awyM9WD)
+ - 💣 [Fixed](http://9gag.com/gag/a34EDwv)
+ - 😝 [When I try to enter the meeting room as quite as possible.](http://9gag.com/gag/avy5qpn)
+ - 👉 [Tania Fernandes Anderson, a proud BLM Muslim Democrat serving on the Boston City Council, has been arrested by the FBI for allegedly stealing large amounts of taxpayer funds for her family. She\u2019s the latest BLM activist accused of fraud &amp; theft.](http://9gag.com/gag/a6ZEzAN)<!-- MEMES:END -->
 
 ---
 

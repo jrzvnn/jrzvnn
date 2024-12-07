@@ -159,9 +159,9 @@ R                        1 repo              ░░░░░░░░░░░�
 <!-- TECH:START -->
  - [A White House official says that the US believes China-linked Salt Typhoon hackers targeted and recorded the phone calls of &quot;very senior&quot; US political figures &lpar;Alexander Cornwell/Reuters&rpar;](http://www.techmeme.com/241207/p17#a241207p17)
  - [Michelle Yeoh’s spy team assembles in Star Trek: Section 31’s official trailer](https://www.theverge.com/2024/12/7/24315722/star-trek-section-31-official-movie-trailer-michelle-yeoh-paramount-plus-streaming)
- - [US Appeals Court upholds law requiring TikTok sale](https://appleinsider.com/articles/24/12/07/us-appeals-court-upholds-law-requiring-tiktok-sale?utm_medium=rss)
- - [David Sacks, who called OpenAI a &quot;piranha for-profit company&quot;, becoming AI czar comes at a delicate moment for OpenAI as it transitions to a for-profit &lpar;Sharon Goldman/Fortune&rpar;](http://www.techmeme.com/241207/p16#a241207p16)
- - [X gives Grok a new photorealistic AI image generator](https://www.theverge.com/2024/12/7/24315644/grok-x-aurora-ai-image-generator-xai)<!-- TECH:END -->
+ - [Best Walmart Deals: Snag Huge Savings on Tech, Home Goods and Much More](https://www.cnet.com/deals/best-walmart-deals/#ftag=CAD590a51e)
+ - [These 6 Daily Habits May Be Secretly Hurting Your Vision](https://www.cnet.com/health/personal-care/these-6-daily-habits-may-be-secretly-hurting-your-vision/#ftag=CAD590a51e)
+ - [US Appeals Court upholds law requiring TikTok sale](https://appleinsider.com/articles/24/12/07/us-appeals-court-upholds-law-requiring-tiktok-sale?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

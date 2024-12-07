@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Dark](http://9gag.com/gag/avy5w1q)
- - 😝 [Who said romance is dead](http://9gag.com/gag/aGyp6oX)
- - 💣 [Yeah bud copyright your shitty wannabe meme I&#39;m sure it will go viral](http://9gag.com/gag/aNDp850)
- - 😝 [You thought you knew what a favela looked like...](http://9gag.com/gag/azxMwej)
- - 👉 [Extracting gold from used electronics](http://9gag.com/gag/aE0pb7e)<!-- MEMES:END -->
+ - 😝 [Poor Dooku](http://9gag.com/gag/aKG6nZ3)
+ - 😝 [World\u2019s fastest drag racer hits 580kmph &lpar;360mph&rpar; in just 3 seconds](http://9gag.com/gag/apRNzAW)
+ - 💣 [From OCD to PHD](http://9gag.com/gag/aBy2bPZ)
+ - 😝 [Extracting gold from used electronics](http://9gag.com/gag/aE0pb7e)
+ - 👉 [I mean... c&#39;mon](http://9gag.com/gag/azxMz7p)<!-- MEMES:END -->
 
 ---
 

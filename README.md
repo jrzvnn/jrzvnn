@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [X gives Grok a new photorealistic AI image generator](https://www.theverge.com/2024/12/7/24315644/grok-x-aurora-ai-image-generator-xai)
  - [X helps update Kids Online Safety Act in final push for passage in the Republican-led House](https://www.theverge.com/2024/12/7/24315520/kids-online-safety-act-kosa-x-update-johnson-scalise)
  - [Linda Yaccarino says X worked with the authors of the Kids Online Safety Act to make changes to protect freedom of speech and urges the House to pass the bill &lpar;Alicia Diaz/Bloomberg&rpar;](http://www.techmeme.com/241207/p15#a241207p15)
- - [Severance’s season 2 trailer teases answers and raises strange new questions](https://www.theverge.com/2024/12/7/24314837/severance-season-2-trailer-goats-apple-tv-plus)
- - [Best Buy slashes M3 Pro MacBook Pro to $1,499 &lpar;all-time low price&rpar;](https://appleinsider.com/articles/24/12/07/best-buy-slashes-m3-pro-macbook-pro-to-1499-all-time-low-price?utm_medium=rss)
- - [Sources: the US has approved the export of advanced AI chips to a Microsoft-operated facility in the UAE as part of the company&#39;s partnership with G42 &lpar;Axios&rpar;](http://www.techmeme.com/241207/p14#a241207p14)<!-- TECH:END -->
+ - [Pack Your Diet With These Kidney-Healthy Foods to Safeguard Your Health](https://www.cnet.com/health/nutrition/pack-your-diet-with-these-kidney-healthy-foods-to-safeguard-your-health/#ftag=CAD590a51e)
+ - [Circle Members Have Until Tomorrow to Grab Gift Cards at Target for 10% Off](https://www.cnet.com/deals/circle-members-have-until-tomorrow-to-graft-gift-cards-attarget-worth-up-to-10-off/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

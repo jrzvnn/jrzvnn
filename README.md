@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Ip Man](http://9gag.com/gag/ajPmGZR)
- - 😝 [Embarrased vs Bashful](http://9gag.com/gag/aKG6NmZ)
- - 💣 [A stand up](http://9gag.com/gag/aLnpNmv)
+ - 😝 [Daniel Penny case DISMISSED!](http://9gag.com/gag/apRNXX9)
+ - 😝 [The absoulte state of the internet right now.](http://9gag.com/gag/ajPm3Rg)
+ - 💣 [Bro lagged](http://9gag.com/gag/awyMDN4)
  - 😝 [\ud83c\udfa7Those beats just HIT DIFFERENT! Santa clau5 is coming to town!!](http://9gag.com/gag/a4PEBE6)
- - 👉 [Give mom a minute](http://9gag.com/gag/axyMnq2)<!-- MEMES:END -->
+ - 👉 [She posted a thirst-trap but got a debate instead](http://9gag.com/gag/awyM9WD)<!-- MEMES:END -->
 
 ---
 

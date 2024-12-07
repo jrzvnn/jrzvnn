@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Asus Vivobook S 14 OLED Review: A Simple and Effective Laptop](https://www.wired.com/review/asus-vivobook-s-14-oled/)
  - [The end of the ISS will usher in a more commercialized future in space](https://www.theverge.com/2024/12/7/24314191/iss-end-2030-commercial-space-station-mars-moon)
  - [Google’s AI weather prediction model is pretty darn good](https://www.theverge.com/2024/12/7/24314064/ai-weather-forecast-model-google-deepmind-gencast)
  - [Try These Tricks to Free Up More Screen Real Estate on a Mac](https://www.wired.com/story/tips-tricks-more-screen-real-estate-on-a-mac/)
- - [Everyone Should Know Their Blood Type: 3 Methods to Find Out Yours](https://www.cnet.com/health/medical/everyone-should-know-their-blood-type-3-methods-to-find-out-yours/#ftag=CAD590a51e)
- - [Premier League Soccer: Livestream Crystal Palace vs. Man City From Anywhere](https://www.cnet.com/tech/services-and-software/premier-league-soccer-livestream-crystal-palace-vs-man-city-from-anywhere/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Everyone Should Know Their Blood Type: 3 Methods to Find Out Yours](https://www.cnet.com/health/medical/everyone-should-know-their-blood-type-3-methods-to-find-out-yours/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

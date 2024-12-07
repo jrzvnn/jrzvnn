@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The number of stillbirths and neonatal deaths at a clinic in Malawi has fallen by 82% after starting an AI-supported program for regular fetal observation &lpar;Caroline Kimeu/The Guardian&rpar;](http://www.techmeme.com/241207/p7#a241207p7)
  - [The Rich Can Afford Personal Care. The Rest Will Have to Make Do With AI](https://www.wired.com/story/wealth-inequality-personal-service-access-artificial-intelligence/)
  - [A look at the uncertainties for the chip industry under Donald Trump, including tariffs, the CHIPS Act, demand for AI chips, competition with China, and more &lpar;Chris Miller/Financial Times&rpar;](http://www.techmeme.com/241207/p6#a241207p6)
  - [A MarketVector index of the bottom half of the largest 100 digital tokens has risen over 2x since Trump&#39;s November 5 election win, topping the ~46% Bitcoin jump &lpar;Sidhartha Shukla/Bloomberg&rpar;](http://www.techmeme.com/241207/p5#a241207p5)
- - [A Uranium-Mining Boom Is Sweeping Through Texas](https://www.wired.com/story/a-uranium-mining-boom-is-sweeping-through-texas-nuclear-energy/)
- - [Best Buy slashes M3 Pro MacBook Pro to $1,499 &lpar;all-time low price&rpar;](https://appleinsider.com/articles/24/12/07/best-buy-slashes-m3-pro-macbook-pro-to-1499-all-time-low-price?utm_medium=rss)<!-- TECH:END -->
+ - [A Uranium-Mining Boom Is Sweeping Through Texas](https://www.wired.com/story/a-uranium-mining-boom-is-sweeping-through-texas-nuclear-energy/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The end of the ISS will usher in a more commercialized future in space](https://www.theverge.com/2024/12/7/24314191/iss-end-2030-commercial-space-station-mars-moon)
+ - [Google’s AI weather prediction model is pretty darn good](https://www.theverge.com/2024/12/7/24314064/ai-weather-forecast-model-google-deepmind-gencast)
  - [Try These Tricks to Free Up More Screen Real Estate on a Mac](https://www.wired.com/story/tips-tricks-more-screen-real-estate-on-a-mac/)
- - [The 42 Best Movies on Netflix Right Now &lpar;December 2024&rpar;](https://www.wired.com/story/netflix-best-movies-this-week/)
- - [The 42 Best Shows on Netflix Right Now &lpar;December 2024&rpar;](https://www.wired.com/story/netflix-best-shows-this-week/)
- - [A look at Uber Shuttle, the shared bus service that has rolled out in over 20 cities and completed ~30M trips globally, as Uber awaits approval in Bengaluru &lpar;Anisha Sircar/Rest of World&rpar;](http://www.techmeme.com/241207/p8#a241207p8)
- - [Your Indoor Air’s Dirty Secret Is Under Your Feet](https://www.wired.com/story/your-airs-dirty-secret-is-under-your-feet/)<!-- TECH:END -->
+ - [Everyone Should Know Their Blood Type: 3 Methods to Find Out Yours](https://www.cnet.com/health/medical/everyone-should-know-their-blood-type-3-methods-to-find-out-yours/#ftag=CAD590a51e)
+ - [Premier League Soccer: Livestream Crystal Palace vs. Man City From Anywhere](https://www.cnet.com/tech/services-and-software/premier-league-soccer-livestream-crystal-palace-vs-man-city-from-anywhere/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Movie](http://9gag.com/gag/aVv7dGn)
- - 😝 [I lol&#39;d.](http://9gag.com/gag/a7oEm0q)
- - 💣 [A stand up](http://9gag.com/gag/aLnpNmv)
+ - 😝 [Nothing, ungrateful sons of b*tches. Not even a coffee cup](http://9gag.com/gag/aKG6LKb)
+ - 😝 [Subsonic Ammo with silencers makes guns extremely quiet](http://9gag.com/gag/aQzoBNe)
+ - 💣 [I lol&#39;d.](http://9gag.com/gag/a7oEm0q)
  - 😝 [\ud83c\udfa7Those beats just HIT DIFFERENT! Santa clau5 is coming to town!!](http://9gag.com/gag/a4PEBE6)
- - 👉 [Embarrased vs Bashful](http://9gag.com/gag/aKG6NmZ)<!-- MEMES:END -->
+ - 👉 [A stand up](http://9gag.com/gag/aLnpNmv)<!-- MEMES:END -->
 
 ---
 

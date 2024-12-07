@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [KitchenAid Promo Codes: Exclusive 5% Off Countertop Appliances](https://www.wired.com/story/exclusive-kitchenaid-promo-code/)
+ - [A look at the Silicon Valley billionaires and millionaires steering Trump&#39;s transition by shaping hiring decisions and conducting senior-level job interviews &lpar;New York Times&rpar;](http://www.techmeme.com/241207/p2#a241207p2)
  - [Chewy Promo Codes: $20 Off December 2024](https://www.wired.com/story/chewy-promo-code/)
  - [MLCommons, a nonprofit that helps companies measure the performance of their AI systems, announces the AILuminate benchmark to measure the safety of LLMs &lpar;Will Knight/Wired&rpar;](http://www.techmeme.com/241207/p1#a241207p1)
- - [Atlanta-based Tractian, which offers sensors, software, and AI for industrial equipment monitoring and upkeep, raised a $120M Series C led by Sapphire Ventures &lpar;Chris Metinko/Crunchbase News&rpar;](http://www.techmeme.com/241206/p36#a241206p36)
- - [Today&#39;s NYT Mini Crossword Answers for Saturday, Dec. 7](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-saturday-dec-7/#ftag=CAD590a51e)
- - [Today&#39;s NYT Strands Hints, Answers and Help for Dec. 7, #279](https://www.cnet.com/tech/gaming/todays-nyt-strands-hints-answers-and-help-for-dec-7-279/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Atlanta-based Tractian, which offers sensors, software, and AI for industrial equipment monitoring and upkeep, raised a $120M Series C led by Sapphire Ventures &lpar;Chris Metinko/Crunchbase News&rpar;](http://www.techmeme.com/241206/p36#a241206p36)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

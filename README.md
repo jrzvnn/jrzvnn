@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Sources: the US has approved the export of advanced AI chips to a Microsoft-operated facility in the UAE as part of the company&#39;s partnership with G42 &lpar;Axios&rpar;](http://www.techmeme.com/241207/p14#a241207p14)
  - [Google sues to stop the US from monitoring it like a bank](https://www.theverge.com/2024/12/7/24315557/google-payment-federal-supervision-cfpb-lawsuit)
  - [X adds Aurora, an AI image generator that appears to excel at photorealistic images and has few restrictions; it isn&#39;t clear if xAI trained Aurora itself &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/241207/p13#a241207p13)
  - [Still Stuck With Fruit Flies in December? Expert Tips to Banish Them Forever](https://www.cnet.com/how-to/still-stuck-with-fruit-flies-in-december-expert-tips-to-banish-them-forever/#ftag=CAD590a51e)
- - [The Best Gifts for Hikers, From Their Feet to Their Butts](https://www.cnet.com/health/fitness/best-gifts-for-hikers/#ftag=CAD590a51e)
- - [An investigation finds 80+ livestreaming apps, like Bigo Live, on Apple&#39;s App Store and the Google Play Store that advertised child sexual abuse or bestiality &lpar;Michael H. Keller/New York Times&rpar;](http://www.techmeme.com/241207/p12#a241207p12)<!-- TECH:END -->
+ - [The Best Gifts for Hikers, From Their Feet to Their Butts](https://www.cnet.com/health/fitness/best-gifts-for-hikers/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

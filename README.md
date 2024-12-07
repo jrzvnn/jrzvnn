@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Waterslide](http://9gag.com/gag/apRN7bD)
- - 😝 [Subsonic Ammo with silencers makes guns extremely quiet](http://9gag.com/gag/aQzoBNe)
- - 💣 [Filming on the beach in California](http://9gag.com/gag/a34Eg33)
- - 😝 [Who said romance is dead](http://9gag.com/gag/aGyp6oX)
- - 👉 [I am convinced 90% of people you see are NPCs.](http://9gag.com/gag/aXPoz49)<!-- MEMES:END -->
+ - 😝 [A dagger with a destiny .](http://9gag.com/gag/aE0pKWp)
+ - 😝 [The second they catch the CEO shooter](http://9gag.com/gag/aVv7ry2)
+ - 💣 [The truth brother](http://9gag.com/gag/aGypvx6)
+ - 😝 [...](http://9gag.com/gag/aGyp5n5)
+ - 👉 [Apply boiling water to burned area](http://9gag.com/gag/ayNMrPp)<!-- MEMES:END -->
 
 ---
 

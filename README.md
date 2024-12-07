@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [Bad wife material, avoid](http://9gag.com/gag/a4PEB6p)
+ - 😝 [Filming on the beach in California](http://9gag.com/gag/a34Eg33)
+ - 💣 [In Hateful Eight, Kurt Russell accidentally smashed a one of a kind, 145-year-old guitar that was on loan from the Martin Guitar. Jennifer Jason Leigh\u2019s reaction was genuine.](http://9gag.com/gag/aO83nOy)
  - 😝 [Poor Dooku](http://9gag.com/gag/aKG6nZ3)
- - 😝 [World\u2019s fastest drag racer hits 580kmph &lpar;360mph&rpar; in just 3 seconds](http://9gag.com/gag/apRNzAW)
- - 💣 [From OCD to PHD](http://9gag.com/gag/aBy2bPZ)
- - 😝 [Extracting gold from used electronics](http://9gag.com/gag/aE0pb7e)
- - 👉 [I mean... c&#39;mon](http://9gag.com/gag/azxMz7p)<!-- MEMES:END -->
+ - 👉 [From OCD to PHD](http://9gag.com/gag/aBy2bPZ)<!-- MEMES:END -->
 
 ---
 

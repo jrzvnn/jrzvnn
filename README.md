@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Mexican origin story](http://9gag.com/gag/abAVLzb)
- - 😝 [I lol&#39;d.](http://9gag.com/gag/a7oEm0q)
- - 💣 [When Hans actually comes](http://9gag.com/gag/aLnpVe6)
- - 😝 [Definitely setting a good foundation for a marriage](http://9gag.com/gag/aKG6nNQ)
- - 👉 [World\u2019s fastest drag racer hits 580kmph &lpar;360mph&rpar; in just 3 seconds](http://9gag.com/gag/apRNzAW)<!-- MEMES:END -->
+ - 😝 [Movie](http://9gag.com/gag/aVv7dGn)
+ - 😝 [Ip Man](http://9gag.com/gag/ajPmGZR)
+ - 💣 [I hope nothing bad happened.](http://9gag.com/gag/a34EzW7)
+ - 😝 [Does this count?](http://9gag.com/gag/agmBdR1)
+ - 👉 [Definitely setting a good foundation for a marriage](http://9gag.com/gag/aKG6nNQ)<!-- MEMES:END -->
 
 ---
 

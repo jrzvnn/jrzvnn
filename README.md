@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Severance’s season 2 trailer teases answers and raises strange new questions](https://www.theverge.com/2024/12/7/24314837/severance-season-2-trailer-goats-apple-tv-plus)
  - [Best Buy slashes M3 Pro MacBook Pro to $1,499 &lpar;all-time low price&rpar;](https://appleinsider.com/articles/24/12/07/best-buy-slashes-m3-pro-macbook-pro-to-1499-all-time-low-price?utm_medium=rss)
  - [Sources: the US has approved the export of advanced AI chips to a Microsoft-operated facility in the UAE as part of the company&#39;s partnership with G42 &lpar;Axios&rpar;](http://www.techmeme.com/241207/p14#a241207p14)
  - [Google sues to stop the US from monitoring it like a bank](https://www.theverge.com/2024/12/7/24315557/google-payment-federal-supervision-cfpb-lawsuit)
- - [X adds Aurora, an AI image generator that appears to excel at photorealistic images and has few restrictions; it isn&#39;t clear if xAI trained Aurora itself &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/241207/p13#a241207p13)
- - [Still Stuck With Fruit Flies in December? Expert Tips to Banish Them Forever](https://www.cnet.com/how-to/still-stuck-with-fruit-flies-in-december-expert-tips-to-banish-them-forever/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [X adds Aurora, an AI image generator that appears to excel at photorealistic images and has few restrictions; it isn&#39;t clear if xAI trained Aurora itself &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/241207/p13#a241207p13)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

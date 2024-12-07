@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [From OCD to PHD](http://9gag.com/gag/aBy2bPZ)
- - 😝 [The flag ripping off its pole in this scene from The Two Towers wasn&#39;t intentional. They later added a scene of Aragon acknowledging it.](http://9gag.com/gag/aAybqVE)
- - 💣 [Extracting gold from used electronics](http://9gag.com/gag/aE0pb7e)
- - 😝 [Filming on the beach in California](http://9gag.com/gag/a34Eg33)
- - 👉 [Subsonic Ammo with silencers makes guns extremely quiet](http://9gag.com/gag/aQzoBNe)<!-- MEMES:END -->
+ - 😝 [A Colombian hitwoman, known as \u2018The Doll,\u2019 has allegedly been arrested for several murders, including her ex-boyfriend](http://9gag.com/gag/aLnpOM5)
+ - 😝 [Ip Man](http://9gag.com/gag/ajPmGZR)
+ - 💣 [Filming on the beach in California](http://9gag.com/gag/a34Eg33)
+ - 😝 [Bad wife material, avoid](http://9gag.com/gag/a4PEB6p)
+ - 👉 [I am convinced 90% of people you see are NPCs.](http://9gag.com/gag/aXPoz49)<!-- MEMES:END -->
 
 ---
 

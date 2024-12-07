@@ -158,10 +158,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- TECH:START -->
  - [Atlanta-based Tractian, which offers sensors, software, and AI for industrial equipment monitoring and upkeep, raised a $120M Series C led by Sapphire Ventures &lpar;Chris Metinko/Crunchbase News&rpar;](http://www.techmeme.com/241206/p36#a241206p36)
- - [Q&amp;A with Samsara CEO Sanjit Biswas on how AI has changed the $30B company, which offers sensors, cameras, and software for managing vehicle fleets and equipment &lpar;Reed Albergotti/Semafor&rpar;](http://www.techmeme.com/241206/p35#a241206p35)
- - [TikTok users shouldn&#39;t count on Trump to save the app, as his stance has been inconsistent and the app&#39;s existence brings little upside for him post-election &lpar;Dave Lee/Bloomberg&rpar;](http://www.techmeme.com/241206/p34#a241206p34)
- - [David Sacks, Trump&#39;s AI and crypto czar, lacks deep ties to either industry but is a longtime critic of tech regulation, which investors view as more important &lpar;Bloomberg&rpar;](http://www.techmeme.com/241206/p33#a241206p33)
- - [Best Toys for Kids in 2024: Hottest Holiday Gift Ideas for All Ages](https://www.cnet.com/culture/entertainment/best-toys-for-kids/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Today&#39;s NYT Mini Crossword Answers for Saturday, Dec. 7](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-saturday-dec-7/#ftag=CAD590a51e)
+ - [Today&#39;s NYT Strands Hints, Answers and Help for Dec. 7, #279](https://www.cnet.com/tech/gaming/todays-nyt-strands-hints-answers-and-help-for-dec-7-279/#ftag=CAD590a51e)
+ - [Today&#39;s NYT Connections Hints, Answers and Help for Dec. 7, #545](https://www.cnet.com/tech/gaming/todays-nyt-connections-hints-answers-and-help-for-dec-7-545/#ftag=CAD590a51e)
+ - [Today&#39;s Wordle Hints, Answer and Help for Dec. 7, #1267](https://www.cnet.com/tech/gaming/todays-wordle-hints-answer-and-help-for-dec-7-1267/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Filming on the beach in California](http://9gag.com/gag/a34Eg33)
- - 😝 [From OCD to PHD](http://9gag.com/gag/aBy2bPZ)
- - 💣 [Extracting gold from used electronics](http://9gag.com/gag/aE0pb7e)
+ - 😝 [Waterslide](http://9gag.com/gag/apRN7bD)
  - 😝 [Subsonic Ammo with silencers makes guns extremely quiet](http://9gag.com/gag/aQzoBNe)
- - 👉 [Bad wife material, avoid](http://9gag.com/gag/a4PEB6p)<!-- MEMES:END -->
+ - 💣 [Filming on the beach in California](http://9gag.com/gag/a34Eg33)
+ - 😝 [Who said romance is dead](http://9gag.com/gag/aGyp6oX)
+ - 👉 [I am convinced 90% of people you see are NPCs.](http://9gag.com/gag/aXPoz49)<!-- MEMES:END -->
 
 ---
 

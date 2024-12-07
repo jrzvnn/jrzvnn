@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Yeah bud copyright your shitty wannabe meme I&#39;m sure it will go viral](http://9gag.com/gag/aNDp850)
- - 😝 [Is this a guide or something..?](http://9gag.com/gag/a7oEBvb)
- - 💣 [World\u2019s fastest drag racer hits 580kmph &lpar;360mph&rpar; in just 3 seconds](http://9gag.com/gag/apRNzAW)
+ - 😝 [The absoulte state of the internet right now.](http://9gag.com/gag/ajPm3Rg)
+ - 😝 [Daniel Penny case DISMISSED!](http://9gag.com/gag/apRNXX9)
+ - 💣 [Tania Fernandes Anderson, a proud BLM Muslim Democrat serving on the Boston City Council, has been arrested by the FBI for allegedly stealing large amounts of taxpayer funds for her family. She\u2019s the latest BLM activist accused of fraud &amp; theft.](http://9gag.com/gag/a6ZEzAN)
  - 😝 [\ud83c\udfa7Those beats just HIT DIFFERENT! Santa clau5 is coming to town!!](http://9gag.com/gag/a4PEBE6)
- - 👉 [Definitely setting a good foundation for a marriage](http://9gag.com/gag/aKG6nNQ)<!-- MEMES:END -->
+ - 👉 [Bro lagged](http://9gag.com/gag/awyMDN4)<!-- MEMES:END -->
 
 ---
 

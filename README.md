@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Yeah i got time for that](http://9gag.com/gag/ayNMwq8)
- - 😝 [Title](http://9gag.com/gag/aKG65PO)
- - 💣 [Are u this old?](http://9gag.com/gag/aLnpEBA)
- - 😝 [Apply boiling water to burned area](http://9gag.com/gag/ayNMrPp)
- - 👉 [...](http://9gag.com/gag/aGyp5n5)<!-- MEMES:END -->
+ - 😝 [World\u2019s fastest drag racer hits 580kmph &lpar;360mph&rpar; in just 3 seconds](http://9gag.com/gag/apRNzAW)
+ - 😝 [At least the view is nice](http://9gag.com/gag/aBy2z4O)
+ - 💣 [Not the ending you expect](http://9gag.com/gag/ajPmvZ1)
+ - 😝 [US parenting](http://9gag.com/gag/a34EDy3)
+ - 👉 [Extracting gold from used electronics](http://9gag.com/gag/aE0pb7e)<!-- MEMES:END -->
 
 ---
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [MLCommons, a nonprofit that helps companies measure the performance of their AI systems, announces the AILuminate benchmark to measure the safety of LLMs &lpar;Will Knight/Wired&rpar;](http://www.techmeme.com/241207/p1#a241207p1)
  - [Atlanta-based Tractian, which offers sensors, software, and AI for industrial equipment monitoring and upkeep, raised a $120M Series C led by Sapphire Ventures &lpar;Chris Metinko/Crunchbase News&rpar;](http://www.techmeme.com/241206/p36#a241206p36)
  - [Today&#39;s NYT Mini Crossword Answers for Saturday, Dec. 7](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-saturday-dec-7/#ftag=CAD590a51e)
  - [Today&#39;s NYT Strands Hints, Answers and Help for Dec. 7, #279](https://www.cnet.com/tech/gaming/todays-nyt-strands-hints-answers-and-help-for-dec-7-279/#ftag=CAD590a51e)
- - [Today&#39;s NYT Connections Hints, Answers and Help for Dec. 7, #545](https://www.cnet.com/tech/gaming/todays-nyt-connections-hints-answers-and-help-for-dec-7-545/#ftag=CAD590a51e)
- - [Today&#39;s Wordle Hints, Answer and Help for Dec. 7, #1267](https://www.cnet.com/tech/gaming/todays-wordle-hints-answer-and-help-for-dec-7-1267/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Today&#39;s NYT Connections Hints, Answers and Help for Dec. 7, #545](https://www.cnet.com/tech/gaming/todays-nyt-connections-hints-answers-and-help-for-dec-7-545/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

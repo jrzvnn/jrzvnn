@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [The absoulte state of the internet right now.](http://9gag.com/gag/ajPm3Rg)
- - 😝 [Daniel Penny case DISMISSED!](http://9gag.com/gag/apRNXX9)
- - 💣 [Bro lagged](http://9gag.com/gag/awyMDN4)
+ - 😝 [Movie](http://9gag.com/gag/aVv7dGn)
+ - 😝 [I hope nothing bad happened.](http://9gag.com/gag/a34EzW7)
+ - 💣 [Is this a guide or something..?](http://9gag.com/gag/a7oEBvb)
  - 😝 [\ud83c\udfa7Those beats just HIT DIFFERENT! Santa clau5 is coming to town!!](http://9gag.com/gag/a4PEBE6)
- - 👉 [She posted a thirst-trap but got a debate instead](http://9gag.com/gag/awyM9WD)<!-- MEMES:END -->
+ - 👉 [Yeah bud copyright your shitty wannabe meme I&#39;m sure it will go viral](http://9gag.com/gag/aNDp850)<!-- MEMES:END -->
 
 ---
 

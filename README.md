@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [TikTok users shouldn&#39;t count on Trump to save the app, as his stance has been inconsistent and the app&#39;s existence brings little upside for him post-election &lpar;Dave Lee/Bloomberg&rpar;](http://www.techmeme.com/241206/p34#a241206p34)
  - [David Sacks, Trump&#39;s AI and crypto czar, lacks deep ties to either industry but is a longtime critic of tech regulation, which investors view as more important &lpar;Bloomberg&rpar;](http://www.techmeme.com/241206/p33#a241206p33)
- - [How to Unlock the Music Easter Egg in Black Ops 6&#39;s New Zombies Map](https://www.cnet.com/tech/gaming/how-to-unlock-the-music-easter-egg-in-black-ops-6s-new-zombies-map/#ftag=CAD590a51e)
- - [TurboTax Dives Deeper Into Automated Tax Prep With Improved AI Features](https://www.cnet.com/personal-finance/taxes/turbotax-dives-deeper-into-automated-tax-prep-with-improved-ai-features/#ftag=CAD590a51e)
- - [Palantir and Anduril announce a partnership to advance AI capabilities for US national security, focusing on data readiness and processing data at scale &lpar;Connor Hart/Wall Street Journal&rpar;](http://www.techmeme.com/241206/p32#a241206p32)
- - [Best Vitamins for Energy in 2024](https://www.cnet.com/health/nutrition/best-vitamins-for-energy/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Best Toys for Kids in 2024: Hottest Holiday Gift Ideas for All Ages](https://www.cnet.com/culture/entertainment/best-toys-for-kids/#ftag=CAD590a51e)
+ - [WinkBeds&#39; EcoCloud Mattress Review 2024: A Latex Hybrid Bed for Side Sleepers](https://www.cnet.com/health/sleep/winkbed-ecocloud-mattress-review/#ftag=CAD590a51e)
+ - [How to Unlock the Music Easter Egg in Black Ops 6&#39;s New Zombies Map](https://www.cnet.com/tech/gaming/how-to-unlock-the-music-easter-egg-in-black-ops-6s-new-zombies-map/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

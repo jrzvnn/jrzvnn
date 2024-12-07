@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [A White House official says that the US believes China-linked Salt Typhoon hackers targeted and recorded the phone calls of &quot;very senior&quot; US political figures &lpar;Alexander Cornwell/Reuters&rpar;](http://www.techmeme.com/241207/p17#a241207p17)
  - [Michelle Yeoh’s spy team assembles in Star Trek: Section 31’s official trailer](https://www.theverge.com/2024/12/7/24315722/star-trek-section-31-official-movie-trailer-michelle-yeoh-paramount-plus-streaming)
  - [US Appeals Court upholds law requiring TikTok sale](https://appleinsider.com/articles/24/12/07/us-appeals-court-upholds-law-requiring-tiktok-sale?utm_medium=rss)
  - [David Sacks, who called OpenAI a &quot;piranha for-profit company&quot;, becoming AI czar comes at a delicate moment for OpenAI as it transitions to a for-profit &lpar;Sharon Goldman/Fortune&rpar;](http://www.techmeme.com/241207/p16#a241207p16)
- - [X gives Grok a new photorealistic AI image generator](https://www.theverge.com/2024/12/7/24315644/grok-x-aurora-ai-image-generator-xai)
- - [You Have Two More Days to Nab These Best Buy Flash Holiday Sale Deals Before They’re Gone](https://www.cnet.com/deals/you-have-two-more-days-to-nab-these-best-buy-flash-holiday-sale-deals-before-theyre-gone/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [X gives Grok a new photorealistic AI image generator](https://www.theverge.com/2024/12/7/24315644/grok-x-aurora-ai-image-generator-xai)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

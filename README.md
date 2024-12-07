@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [A Colombian hitwoman, known as \u2018The Doll,\u2019 has allegedly been arrested for several murders, including her ex-boyfriend](http://9gag.com/gag/aLnpOM5)
- - 😝 [Ip Man](http://9gag.com/gag/ajPmGZR)
- - 💣 [Filming on the beach in California](http://9gag.com/gag/a34Eg33)
- - 😝 [Bad wife material, avoid](http://9gag.com/gag/a4PEB6p)
- - 👉 [I am convinced 90% of people you see are NPCs.](http://9gag.com/gag/aXPoz49)<!-- MEMES:END -->
+ - 😝 [Dark](http://9gag.com/gag/avy5w1q)
+ - 😝 [Who said romance is dead](http://9gag.com/gag/aGyp6oX)
+ - 💣 [Yeah bud copyright your shitty wannabe meme I&#39;m sure it will go viral](http://9gag.com/gag/aNDp850)
+ - 😝 [You thought you knew what a favela looked like...](http://9gag.com/gag/azxMwej)
+ - 👉 [Extracting gold from used electronics](http://9gag.com/gag/aE0pb7e)<!-- MEMES:END -->
 
 ---
 

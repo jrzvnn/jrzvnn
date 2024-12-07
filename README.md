@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Daniel Penny case DISMISSED!](http://9gag.com/gag/apRNXX9)
- - 😝 [She posted a thirst-trap but got a debate instead](http://9gag.com/gag/awyM9WD)
- - 💣 [When I try to enter the meeting room as quite as possible.](http://9gag.com/gag/avy5qpn)
+ - 😝 [Extracting gold from used electronics](http://9gag.com/gag/aE0pb7e)
+ - 😝 [Notice the women didn&#39;t pop are also the prettiest](http://9gag.com/gag/aZZ0dG9)
+ - 💣 [World\u2019s fastest drag racer hits 580kmph &lpar;360mph&rpar; in just 3 seconds](http://9gag.com/gag/apRNzAW)
  - 😝 [\ud83c\udfa7Those beats just HIT DIFFERENT! Santa clau5 is coming to town!!](http://9gag.com/gag/a4PEBE6)
- - 👉 [Fixed](http://9gag.com/gag/a34EDwv)<!-- MEMES:END -->
+ - 👉 [I lol&#39;d.](http://9gag.com/gag/a7oEm0q)<!-- MEMES:END -->
 
 ---
 

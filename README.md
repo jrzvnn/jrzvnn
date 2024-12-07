@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [World\u2019s fastest drag racer hits 580kmph &lpar;360mph&rpar; in just 3 seconds](http://9gag.com/gag/apRNzAW)
- - 😝 [At least the view is nice](http://9gag.com/gag/aBy2z4O)
- - 💣 [Not the ending you expect](http://9gag.com/gag/ajPmvZ1)
- - 😝 [US parenting](http://9gag.com/gag/a34EDy3)
- - 👉 [Extracting gold from used electronics](http://9gag.com/gag/aE0pb7e)<!-- MEMES:END -->
+ - 😝 [Extracting gold from used electronics](http://9gag.com/gag/aE0pb7e)
+ - 😝 [From OCD to PHD](http://9gag.com/gag/aBy2bPZ)
+ - 💣 [I hope nothing bad happened.](http://9gag.com/gag/a34EzW7)
+ - 😝 [Ip Man](http://9gag.com/gag/ajPmGZR)
+ - 👉 [Not the ending you expect](http://9gag.com/gag/ajPmvZ1)<!-- MEMES:END -->
 
 ---
 

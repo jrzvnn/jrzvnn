@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [When Hans actually comes](http://9gag.com/gag/aLnpVe6)
- - 😝 [Ip Man](http://9gag.com/gag/ajPmGZR)
- - 💣 [A stand up](http://9gag.com/gag/aLnpNmv)
+ - 😝 [A breeding bull entering the farm full of cows](http://9gag.com/gag/aPA3zdB)
  - 😝 [Yeah bud copyright your shitty wannabe meme I&#39;m sure it will go viral](http://9gag.com/gag/aNDp850)
- - 👉 [Me, me, please me...](http://9gag.com/gag/amoPOod)<!-- MEMES:END -->
+ - 💣 [The flag ripping off its pole in this scene from The Two Towers wasn&#39;t intentional. They later added a scene of Aragon acknowledging it.](http://9gag.com/gag/aAybqVE)
+ - 😝 [Give mom a minute](http://9gag.com/gag/axyMnq2)
+ - 👉 [Bad wife material, avoid](http://9gag.com/gag/a4PEB6p)<!-- MEMES:END -->
 
 ---
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [This! The frustration is unreal..](http://9gag.com/gag/amoPQPX)
+ - 😝 [Yeah bud copyright your shitty wannabe meme I&#39;m sure it will go viral](http://9gag.com/gag/aNDp850)
  - 😝 [Subsonic Ammo with silencers makes guns extremely quiet](http://9gag.com/gag/aQzoBNe)
- - 💣 [Mexican origin story](http://9gag.com/gag/abAVLzb)
- - 😝 [Embarrased vs Bashful](http://9gag.com/gag/aKG6NmZ)
- - 👉 [A Colombian hitwoman, known as \u2018The Doll,\u2019 has allegedly been arrested for several murders, including her ex-boyfriend](http://9gag.com/gag/aLnpOM5)<!-- MEMES:END -->
+ - 💣 [A breeding bull entering the farm full of cows](http://9gag.com/gag/aPA3zdB)
+ - 😝 [When Hans actually comes](http://9gag.com/gag/aLnpVe6)
+ - 👉 [I hope nothing bad happened.](http://9gag.com/gag/a34EzW7)<!-- MEMES:END -->
 
 ---
 

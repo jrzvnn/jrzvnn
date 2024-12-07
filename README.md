@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Subsonic Ammo with silencers makes guns extremely quiet](http://9gag.com/gag/aQzoBNe)
- - 😝 [Nothing, ungrateful sons of b*tches. Not even a coffee cup](http://9gag.com/gag/aKG6LKb)
- - 💣 [Embarrased vs Bashful](http://9gag.com/gag/aKG6NmZ)
+ - 😝 [Daniel Penny case DISMISSED!](http://9gag.com/gag/apRNXX9)
+ - 😝 [She posted a thirst-trap but got a debate instead](http://9gag.com/gag/awyM9WD)
+ - 💣 [When I try to enter the meeting room as quite as possible.](http://9gag.com/gag/avy5qpn)
  - 😝 [\ud83c\udfa7Those beats just HIT DIFFERENT! Santa clau5 is coming to town!!](http://9gag.com/gag/a4PEBE6)
- - 👉 [Give mom a minute](http://9gag.com/gag/axyMnq2)<!-- MEMES:END -->
+ - 👉 [Fixed](http://9gag.com/gag/a34EDwv)<!-- MEMES:END -->
 
 ---
 

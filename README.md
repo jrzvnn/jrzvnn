@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Try These Tricks to Free Up More Screen Real Estate on a Mac](https://www.wired.com/story/tips-tricks-more-screen-real-estate-on-a-mac/)
  - [The 42 Best Movies on Netflix Right Now &lpar;December 2024&rpar;](https://www.wired.com/story/netflix-best-movies-this-week/)
  - [The 42 Best Shows on Netflix Right Now &lpar;December 2024&rpar;](https://www.wired.com/story/netflix-best-shows-this-week/)
  - [A look at Uber Shuttle, the shared bus service that has rolled out in over 20 cities and completed ~30M trips globally, as Uber awaits approval in Bengaluru &lpar;Anisha Sircar/Rest of World&rpar;](http://www.techmeme.com/241207/p8#a241207p8)
- - [Your Indoor Air’s Dirty Secret Is Under Your Feet](https://www.wired.com/story/your-airs-dirty-secret-is-under-your-feet/)
- - [US Officials Recommend Encryption Apps Amid Chinese Telecom Hacking](https://www.wired.com/story/encryption-apps-chinese-telecom-hacking-hydra-russia-exxon/)<!-- TECH:END -->
+ - [Your Indoor Air’s Dirty Secret Is Under Your Feet](https://www.wired.com/story/your-airs-dirty-secret-is-under-your-feet/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

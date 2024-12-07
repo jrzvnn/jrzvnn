@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [I mean... c&#39;mon](http://9gag.com/gag/azxMz7p)
- - 😝 [Fun PE Class! What&#39;s your favorite subject? Leave a comment!](http://9gag.com/gag/a7oEg0L)
- - 💣 [Is this a guide or something..?](http://9gag.com/gag/a7oEBvb)
- - 😝 [I hope nothing bad happened.](http://9gag.com/gag/a34EzW7)
- - 👉 [I am convinced 90% of people you see are NPCs.](http://9gag.com/gag/aXPoz49)<!-- MEMES:END -->
+ - 😝 [Filming on the beach in California](http://9gag.com/gag/a34Eg33)
+ - 😝 [From OCD to PHD](http://9gag.com/gag/aBy2bPZ)
+ - 💣 [Extracting gold from used electronics](http://9gag.com/gag/aE0pb7e)
+ - 😝 [Subsonic Ammo with silencers makes guns extremely quiet](http://9gag.com/gag/aQzoBNe)
+ - 👉 [Bad wife material, avoid](http://9gag.com/gag/a4PEB6p)<!-- MEMES:END -->
 
 ---
 

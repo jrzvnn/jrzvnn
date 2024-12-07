@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [The Bullets That Struck United Healthcare CEO Brian Thompson Had &#39;Deny,&#39; &#39;Defend,&#39; and &#39;Depose&#39; Written on Them`](http://9gag.com/gag/aE0pNZO)
- - 😝 [Yeah bud copyright your shitty wannabe meme I&#39;m sure it will go viral](http://9gag.com/gag/aNDp850)
- - 💣 [World\u2019s fastest drag racer hits 580kmph &lpar;360mph&rpar; in just 3 seconds](http://9gag.com/gag/apRNzAW)
+ - 😝 [Daniel Penny case DISMISSED!](http://9gag.com/gag/apRNXX9)
+ - 😝 [Bro lagged](http://9gag.com/gag/awyMDN4)
+ - 💣 [The absoulte state of the internet right now.](http://9gag.com/gag/ajPm3Rg)
  - 😝 [\ud83c\udfa7Those beats just HIT DIFFERENT! Santa clau5 is coming to town!!](http://9gag.com/gag/a4PEBE6)
- - 👉 [Embarrased vs Bashful](http://9gag.com/gag/aKG6NmZ)<!-- MEMES:END -->
+ - 👉 [She posted a thirst-trap but got a debate instead](http://9gag.com/gag/awyM9WD)<!-- MEMES:END -->
 
 ---
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Yeah bud copyright your shitty wannabe meme I&#39;m sure it will go viral](http://9gag.com/gag/aNDp850)
- - 😝 [Subsonic Ammo with silencers makes guns extremely quiet](http://9gag.com/gag/aQzoBNe)
- - 💣 [A breeding bull entering the farm full of cows](http://9gag.com/gag/aPA3zdB)
  - 😝 [When Hans actually comes](http://9gag.com/gag/aLnpVe6)
- - 👉 [I hope nothing bad happened.](http://9gag.com/gag/a34EzW7)<!-- MEMES:END -->
+ - 😝 [Ip Man](http://9gag.com/gag/ajPmGZR)
+ - 💣 [A stand up](http://9gag.com/gag/aLnpNmv)
+ - 😝 [Yeah bud copyright your shitty wannabe meme I&#39;m sure it will go viral](http://9gag.com/gag/aNDp850)
+ - 👉 [Me, me, please me...](http://9gag.com/gag/amoPOod)<!-- MEMES:END -->
 
 ---
 

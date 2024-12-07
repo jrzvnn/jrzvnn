@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [US Appeals Court upholds law requiring TikTok sale](https://appleinsider.com/articles/24/12/07/us-appeals-court-upholds-law-requiring-tiktok-sale?utm_medium=rss)
+ - [David Sacks, who called OpenAI a &quot;piranha for-profit company&quot;, becoming AI czar comes at a delicate moment for OpenAI as it transitions to a for-profit &lpar;Sharon Goldman/Fortune&rpar;](http://www.techmeme.com/241207/p16#a241207p16)
  - [X gives Grok a new photorealistic AI image generator](https://www.theverge.com/2024/12/7/24315644/grok-x-aurora-ai-image-generator-xai)
  - [X helps update Kids Online Safety Act in final push for passage in the Republican-led House](https://www.theverge.com/2024/12/7/24315520/kids-online-safety-act-kosa-x-update-johnson-scalise)
- - [Linda Yaccarino says X worked with the authors of the Kids Online Safety Act to make changes to protect freedom of speech and urges the House to pass the bill &lpar;Alicia Diaz/Bloomberg&rpar;](http://www.techmeme.com/241207/p15#a241207p15)
- - [Pack Your Diet With These Kidney-Healthy Foods to Safeguard Your Health](https://www.cnet.com/health/nutrition/pack-your-diet-with-these-kidney-healthy-foods-to-safeguard-your-health/#ftag=CAD590a51e)
- - [Circle Members Have Until Tomorrow to Grab Gift Cards at Target for 10% Off](https://www.cnet.com/deals/circle-members-have-until-tomorrow-to-graft-gift-cards-attarget-worth-up-to-10-off/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Linda Yaccarino says X worked with the authors of the Kids Online Safety Act to make changes to protect freedom of speech and urges the House to pass the bill &lpar;Alicia Diaz/Bloomberg&rpar;](http://www.techmeme.com/241207/p15#a241207p15)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

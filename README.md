@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [A dagger with a destiny .](http://9gag.com/gag/aE0pKWp)
- - 😝 [The second they catch the CEO shooter](http://9gag.com/gag/aVv7ry2)
- - 💣 [The truth brother](http://9gag.com/gag/aGypvx6)
- - 😝 [...](http://9gag.com/gag/aGyp5n5)
- - 👉 [Apply boiling water to burned area](http://9gag.com/gag/ayNMrPp)<!-- MEMES:END -->
+ - 😝 [From OCD to PHD](http://9gag.com/gag/aBy2bPZ)
+ - 😝 [The flag ripping off its pole in this scene from The Two Towers wasn&#39;t intentional. They later added a scene of Aragon acknowledging it.](http://9gag.com/gag/aAybqVE)
+ - 💣 [Extracting gold from used electronics](http://9gag.com/gag/aE0pb7e)
+ - 😝 [Filming on the beach in California](http://9gag.com/gag/a34Eg33)
+ - 👉 [Subsonic Ammo with silencers makes guns extremely quiet](http://9gag.com/gag/aQzoBNe)<!-- MEMES:END -->
 
 ---
 

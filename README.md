@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [An investigation finds 80+ livestreaming apps, like Bigo Live, on Apple&#39;s App Store and the Google Play Store that advertised child sexual abuse or bestiality &lpar;Michael H. Keller/New York Times&rpar;](http://www.techmeme.com/241207/p12#a241207p12)
- - [OpenAI&#39;s o1 is a notable departure from older models, representing the AI industry&#39;s shift to reasoning models to overcome the limits of prediction-based LLMs &lpar;Matteo Wong/The Atlantic&rpar;](http://www.techmeme.com/241207/p11#a241207p11)
- - [Best Over-Ear Headphones for 2024](https://www.cnet.com/tech/mobile/best-over-ear-headphones/#ftag=CAD590a51e)
- - [SEO: Korg MicroKorg 2 Review: Better, Not Best](https://www.wired.com/review/korg-microkorg-2/)
- - [&#39;Landman&#39; Release Schedule: When Episode 5 Hits Paramount Plus](https://www.cnet.com/tech/services-and-software/landman-release-schedule-when-episode-5-hits-paramount-plus/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Google sues to stop the US from monitoring it like a bank](https://www.theverge.com/2024/12/7/24315557/google-payment-federal-supervision-cfpb-lawsuit)
+ - [X adds Aurora, an AI image generator that appears to excel at photorealistic images and has few restrictions; it isn&#39;t clear if xAI trained Aurora itself &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/241207/p13#a241207p13)
+ - [Still Stuck With Fruit Flies in December? Expert Tips to Banish Them Forever](https://www.cnet.com/how-to/still-stuck-with-fruit-flies-in-december-expert-tips-to-banish-them-forever/#ftag=CAD590a51e)
+ - [The Best Gifts for Hikers, From Their Feet to Their Butts](https://www.cnet.com/health/fitness/best-gifts-for-hikers/#ftag=CAD590a51e)
+ - [An investigation finds 80+ livestreaming apps, like Bigo Live, on Apple&#39;s App Store and the Google Play Store that advertised child sexual abuse or bestiality &lpar;Michael H. Keller/New York Times&rpar;](http://www.techmeme.com/241207/p12#a241207p12)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

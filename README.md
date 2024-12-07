@@ -168,9 +168,9 @@ R                        1 repo              ░░░░░░░░░░░�
 <!-- MEMES:START -->
  - 😝 [The absoulte state of the internet right now.](http://9gag.com/gag/ajPm3Rg)
  - 😝 [Daniel Penny case DISMISSED!](http://9gag.com/gag/apRNXX9)
- - 💣 [Tania Fernandes Anderson, a proud BLM Muslim Democrat serving on the Boston City Council, has been arrested by the FBI for allegedly stealing large amounts of taxpayer funds for her family. She\u2019s the latest BLM activist accused of fraud &amp; theft.](http://9gag.com/gag/a6ZEzAN)
+ - 💣 [Bro lagged](http://9gag.com/gag/awyMDN4)
  - 😝 [\ud83c\udfa7Those beats just HIT DIFFERENT! Santa clau5 is coming to town!!](http://9gag.com/gag/a4PEBE6)
- - 👉 [Bro lagged](http://9gag.com/gag/awyMDN4)<!-- MEMES:END -->
+ - 👉 [She posted a thirst-trap but got a debate instead](http://9gag.com/gag/awyM9WD)<!-- MEMES:END -->
 
 ---
 

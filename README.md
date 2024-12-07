@@ -168,8 +168,8 @@ R                        1 repo              ░░░░░░░░░░░�
 <!-- MEMES:START -->
  - 😝 [Yeah i got time for that](http://9gag.com/gag/ayNMwq8)
  - 😝 [Title](http://9gag.com/gag/aKG65PO)
- - 💣 [Apply boiling water to burned area](http://9gag.com/gag/ayNMrPp)
- - 😝 [Are u this old?](http://9gag.com/gag/aLnpEBA)
+ - 💣 [Are u this old?](http://9gag.com/gag/aLnpEBA)
+ - 😝 [Apply boiling water to burned area](http://9gag.com/gag/ayNMrPp)
  - 👉 [...](http://9gag.com/gag/aGyp5n5)<!-- MEMES:END -->
 
 ---

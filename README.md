@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [There&#39;s no other society in the history of humankind that loved this self castration so much](http://9gag.com/gag/aGypvY0)
+ - 😝 [Fun PE Class! What&#39;s your favorite subject? Leave a comment!](http://9gag.com/gag/a7oEg0L)
  - 😝 [I am convinced 90% of people you see are NPCs.](http://9gag.com/gag/aXPoz49)
- - 💣 [From OCD to PHD](http://9gag.com/gag/aBy2bPZ)
- - 😝 [Bad wife material, avoid](http://9gag.com/gag/a4PEB6p)
- - 👉 [Give mom a minute](http://9gag.com/gag/axyMnq2)<!-- MEMES:END -->
+ - 💣 [I hope nothing bad happened.](http://9gag.com/gag/a34EzW7)
+ - 😝 [The flag ripping off its pole in this scene from The Two Towers wasn&#39;t intentional. They later added a scene of Aragon acknowledging it.](http://9gag.com/gag/aAybqVE)
+ - 👉 [Is this a guide or something..?](http://9gag.com/gag/a7oEBvb)<!-- MEMES:END -->
 
 ---
 

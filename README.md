@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Your Indoor Air’s Dirty Secret Is Under Your Feet](https://www.wired.com/story/your-airs-dirty-secret-is-under-your-feet/)
+ - [US Officials Recommend Encryption Apps Amid Chinese Telecom Hacking](https://www.wired.com/story/encryption-apps-chinese-telecom-hacking-hydra-russia-exxon/)
  - [India Could Be Apple and Samsung’s Solution to the Future of Phones](https://www.wired.com/story/india-could-be-apple-and-samsungs-solution-to-the-future-of-phones/)
  - [The number of stillbirths and neonatal deaths at a clinic in Malawi has fallen by 82% after starting an AI-supported program for regular fetal observation &lpar;Caroline Kimeu/The Guardian&rpar;](http://www.techmeme.com/241207/p7#a241207p7)
- - [Premier League Soccer: Livestream Everton vs. Liverpool From Anywhere](https://www.cnet.com/tech/services-and-software/premier-league-soccer-livestream-everton-vs-liverpool-from-anywhere/#ftag=CAD590a51e)
- - [The Rich Can Afford Personal Care. The Rest Will Have to Make Do With AI](https://www.wired.com/story/wealth-inequality-personal-service-access-artificial-intelligence/)
- - [Friday&#39;s Jobs Report Won&#39;t Shake Up the Mortgage Market. Here&#39;s Why](https://www.cnet.com/personal-finance/fridays-jobs-report-wont-shake-up-the-mortgage-market-heres-why/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Premier League Soccer: Livestream Everton vs. Liverpool From Anywhere](https://www.cnet.com/tech/services-and-software/premier-league-soccer-livestream-everton-vs-liverpool-from-anywhere/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

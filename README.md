@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [D&#39;aaaaaawwwwww!](http://9gag.com/gag/aBy2bmQ)
- - 😝 [A dagger with a destiny .](http://9gag.com/gag/aE0pKWp)
- - 💣 [Every injury is a lesson learned](http://9gag.com/gag/aE0pbgK)
- - 😝 [Found the hoodie guy!](http://9gag.com/gag/aGyprz0)
- - 👉 [The truth brother](http://9gag.com/gag/aGypvx6)<!-- MEMES:END -->
+ - 😝 [There&#39;s no other society in the history of humankind that loved this self castration so much](http://9gag.com/gag/aGypvY0)
+ - 😝 [I am convinced 90% of people you see are NPCs.](http://9gag.com/gag/aXPoz49)
+ - 💣 [From OCD to PHD](http://9gag.com/gag/aBy2bPZ)
+ - 😝 [Bad wife material, avoid](http://9gag.com/gag/a4PEB6p)
+ - 👉 [Give mom a minute](http://9gag.com/gag/axyMnq2)<!-- MEMES:END -->
 
 ---
 

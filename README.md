@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Nothing, ungrateful sons of b*tches. Not even a coffee cup](http://9gag.com/gag/aKG6LKb)
- - 😝 [Subsonic Ammo with silencers makes guns extremely quiet](http://9gag.com/gag/aQzoBNe)
- - 💣 [I lol&#39;d.](http://9gag.com/gag/a7oEm0q)
+ - 😝 [World\u2019s fastest drag racer hits 580kmph &lpar;360mph&rpar; in just 3 seconds](http://9gag.com/gag/apRNzAW)
+ - 😝 [Notice the women didn&#39;t pop are also the prettiest](http://9gag.com/gag/aZZ0dG9)
+ - 💣 [Embarrased vs Bashful](http://9gag.com/gag/aKG6NmZ)
  - 😝 [\ud83c\udfa7Those beats just HIT DIFFERENT! Santa clau5 is coming to town!!](http://9gag.com/gag/a4PEBE6)
- - 👉 [A stand up](http://9gag.com/gag/aLnpNmv)<!-- MEMES:END -->
+ - 👉 [I hope nothing bad happened.](http://9gag.com/gag/a34EzW7)<!-- MEMES:END -->
 
 ---
 

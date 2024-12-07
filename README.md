@@ -160,8 +160,8 @@ R                        1 repo              ░░░░░░░░░░░�
  - [US Appeals Court upholds law requiring TikTok sale](https://appleinsider.com/articles/24/12/07/us-appeals-court-upholds-law-requiring-tiktok-sale?utm_medium=rss)
  - [David Sacks, who called OpenAI a &quot;piranha for-profit company&quot;, becoming AI czar comes at a delicate moment for OpenAI as it transitions to a for-profit &lpar;Sharon Goldman/Fortune&rpar;](http://www.techmeme.com/241207/p16#a241207p16)
  - [X gives Grok a new photorealistic AI image generator](https://www.theverge.com/2024/12/7/24315644/grok-x-aurora-ai-image-generator-xai)
- - [X helps update Kids Online Safety Act in final push for passage in the Republican-led House](https://www.theverge.com/2024/12/7/24315520/kids-online-safety-act-kosa-x-update-johnson-scalise)
- - [Linda Yaccarino says X worked with the authors of the Kids Online Safety Act to make changes to protect freedom of speech and urges the House to pass the bill &lpar;Alicia Diaz/Bloomberg&rpar;](http://www.techmeme.com/241207/p15#a241207p15)<!-- TECH:END -->
+ - [You Have Two More Days to Nab These Best Buy Flash Holiday Sale Deals Before They’re Gone](https://www.cnet.com/deals/you-have-two-more-days-to-nab-these-best-buy-flash-holiday-sale-deals-before-theyre-gone/#ftag=CAD590a51e)
+ - [X helps update Kids Online Safety Act in final push for passage in the Republican-led House](https://www.theverge.com/2024/12/7/24315520/kids-online-safety-act-kosa-x-update-johnson-scalise)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

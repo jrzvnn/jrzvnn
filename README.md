@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Galaxy Research: crypto lending via DeFi apps and centralized providers grew ~3x YoY to $36.8B in the first nine months of 2024; DeFi lender apps handled ~$31B &lpar;Bloomberg&rpar;](http://www.techmeme.com/241207/p3#a241207p3)
  - [KitchenAid Promo Codes: Exclusive 5% Off Countertop Appliances](https://www.wired.com/story/exclusive-kitchenaid-promo-code/)
  - [A look at the Silicon Valley billionaires and millionaires steering Trump&#39;s transition by shaping hiring decisions and conducting senior-level job interviews &lpar;New York Times&rpar;](http://www.techmeme.com/241207/p2#a241207p2)
  - [Chewy Promo Codes: $20 Off December 2024](https://www.wired.com/story/chewy-promo-code/)
- - [MLCommons, a nonprofit that helps companies measure the performance of their AI systems, announces the AILuminate benchmark to measure the safety of LLMs &lpar;Will Knight/Wired&rpar;](http://www.techmeme.com/241207/p1#a241207p1)
- - [Atlanta-based Tractian, which offers sensors, software, and AI for industrial equipment monitoring and upkeep, raised a $120M Series C led by Sapphire Ventures &lpar;Chris Metinko/Crunchbase News&rpar;](http://www.techmeme.com/241206/p36#a241206p36)<!-- TECH:END -->
+ - [MLCommons, a nonprofit that helps companies measure the performance of their AI systems, announces the AILuminate benchmark to measure the safety of LLMs &lpar;Will Knight/Wired&rpar;](http://www.techmeme.com/241207/p1#a241207p1)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

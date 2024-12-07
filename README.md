@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Movie](http://9gag.com/gag/aVv7dGn)
- - 😝 [I hope nothing bad happened.](http://9gag.com/gag/a34EzW7)
- - 💣 [Is this a guide or something..?](http://9gag.com/gag/a7oEBvb)
+ - 😝 [Does this count?](http://9gag.com/gag/agmBdR1)
+ - 😝 [The flag ripping off its pole in this scene from The Two Towers wasn&#39;t intentional. They later added a scene of Aragon acknowledging it.](http://9gag.com/gag/aAybqVE)
+ - 💣 [World\u2019s fastest drag racer hits 580kmph &lpar;360mph&rpar; in just 3 seconds](http://9gag.com/gag/apRNzAW)
  - 😝 [\ud83c\udfa7Those beats just HIT DIFFERENT! Santa clau5 is coming to town!!](http://9gag.com/gag/a4PEBE6)
- - 👉 [Yeah bud copyright your shitty wannabe meme I&#39;m sure it will go viral](http://9gag.com/gag/aNDp850)<!-- MEMES:END -->
+ - 👉 [Smells like teen spirit](http://9gag.com/gag/aBy2v6Q)<!-- MEMES:END -->
 
 ---
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Apple and Sony are working on Vision Pro support for PSVR2 controllers](https://www.theverge.com/2024/12/8/24316130/apple-vision-pro-sony-psvr2-controller-support-gaming)
+ - [ElevenLabs, which is reportedly raising $200M at a $3B valuation, launches a tool to let users create and edit AI-hosted podcasts from various source materials &lpar;Ashley Carman/Bloomberg&rpar;](http://www.techmeme.com/241208/p9#a241208p9)
  - [Third-party controllers may bring more games to Apple Vision Pro](https://appleinsider.com/articles/24/12/08/third-party-controllers-may-bring-more-games-to-apple-vision-pro?utm_medium=rss)
  - [These Brilliant BenQ ScreenBar Lamps Are My Favorite WFH Accessory](https://www.wired.com/story/benq-screenbar-pro-light-rave/)
- - [Premier League Soccer: Livestream Tottenham vs. Chelsea From Anywhere](https://www.cnet.com/tech/services-and-software/premier-league-soccer-livestream-tottenham-vs-chelsea-from-anywhere/#ftag=CAD590a51e)
- - [These 3 Things Are Standing in the Way of a Global Plastics Treaty](https://www.wired.com/story/these-3-things-are-standing-in-the-way-of-a-global-plastics-treaty/)
- - [Amazon Slashes Apple AirPods With ANC to New Record Low Price in Time for the Holidays](https://www.cnet.com/deals/amazon-slashes-apple-airpods-with-anc-to-new-record-low-price-in-time-for-the-holidays/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Premier League Soccer: Livestream Tottenham vs. Chelsea From Anywhere](https://www.cnet.com/tech/services-and-software/premier-league-soccer-livestream-tottenham-vs-chelsea-from-anywhere/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

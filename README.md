@@ -166,10 +166,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [The brown eyed monster](http://9gag.com/gag/aXPoOmb)
- - 😝 [I stole it, maybe repost but great quality](http://9gag.com/gag/aE0p9w9)
+ - 😝 [NeverEnding story horse goes zzz](http://9gag.com/gag/aLnpEdg)
+ - 😝 [Oscar winner Olivia Colman](http://9gag.com/gag/amoPevX)
  - 💣 [That wishful look](http://9gag.com/gag/a4PEORw)
- - 😝 [One little thing](http://9gag.com/gag/aNDp550)
+ - 😝 [You thought you knew what a favela looked like...](http://9gag.com/gag/azxMwej)
  - 👉 [Performing with an oxygen tank at 23yrs old is diabetical](http://9gag.com/gag/ajPmwGG)<!-- MEMES:END -->
 
 ---

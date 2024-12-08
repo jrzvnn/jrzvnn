@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Sony is still slashing prices on consoles, controllers, and more for the holidays](https://www.theverge.com/2024/12/8/24315169/sony-ps5-slim-psvr-2-dualsense-controller-holiday-sale-deal)
  - [Dell&#39;Oro Group expects global investment in data centers to rise ~30% YoY to $463.7B in 2025, with about half coming from Amazon, Microsoft, Google, and Meta &lpar;Ryotaro Yamada/Nikkei Asia&rpar;](http://www.techmeme.com/241208/p13#a241208p13)
  - [&#39;It Ends With Us&#39; Is Coming to Streaming. Here&#39;s When and Where to Watch](https://www.cnet.com/tech/services-and-software/it-ends-with-us-is-coming-to-streaming-heres-when-and-where-to-watch/#ftag=CAD590a51e)
  - [Apple faces a lawsuit accusing it of failing to implement a system that detects and removes CSAM from iCloud, despite initially developing such a tool in 2021 &lpar;Tripp Mickle/New York Times&rpar;](http://www.techmeme.com/241208/p12#a241208p12)
- - [Apple has reportedly approached Sony to partner on Apple Vision Pro controllers](https://appleinsider.com/articles/24/12/08/third-party-controllers-may-bring-more-games-to-apple-vision-pro?utm_medium=rss)
- - [Collagen Has Anti-Aging Benefits. How to Use It to Stay Young and Healthy](https://www.cnet.com/health/nutrition/collagen-has-anti-aging-benefits-how-to-use-it-to-stay-young-and-healthy/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Apple has reportedly approached Sony to partner on Apple Vision Pro controllers](https://appleinsider.com/articles/24/12/08/third-party-controllers-may-bring-more-games-to-apple-vision-pro?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

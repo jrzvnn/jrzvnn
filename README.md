@@ -168,9 +168,9 @@ R                        1 repo              ░░░░░░░░░░░�
 <!-- MEMES:START -->
  - 😝 [A Map Comparing Actual Distances to Their Representation on the Mercator Projection.](http://9gag.com/gag/aYQoBpv)
  - 😝 [You thought you knew what a favela looked like...](http://9gag.com/gag/azxMwej)
- - 💣 [At least the view is nice](http://9gag.com/gag/aBy2z4O)
- - 😝 [I would be so confused](http://9gag.com/gag/a1mrgNR)
- - 👉 [Her Frustration and His Frustration.](http://9gag.com/gag/apRNXDn)<!-- MEMES:END -->
+ - 💣 [I lol&#39;d.](http://9gag.com/gag/a7oEm0q)
+ - 😝 [Not the ending you expect](http://9gag.com/gag/ajPmvZ1)
+ - 👉 [AAAAHAHAHHAHAH Europe, you are clown world!](http://9gag.com/gag/a4PE8z6)<!-- MEMES:END -->
 
 ---
 

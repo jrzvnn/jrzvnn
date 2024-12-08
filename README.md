@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Cradlewise Smart Bassinet and Crib Review: AI to Help Infants Sleep](https://www.wired.com/review/cradlewise-smart-bassinet-and-crib/)
+ - [Amazon Slashes Apple AirPods With ANC to New Record Low Price in Time for the Holidays](https://www.cnet.com/deals/amazon-slashes-apple-airpods-with-anc-to-new-record-low-price-in-time-for-the-holidays/#ftag=CAD590a51e)
  - [A look at the Illinois Quantum and Microelectronics Park, a planned project aiming to make Chicago a quantum computing hub with PsiQuantum as the anchor tenant &lpar;Steven Rosenbush/Wall Street Journal&rpar;](http://www.techmeme.com/241208/p7#a241208p7)
- - [Thrustmaster H.E.A.R.T. Review: A Hall Effect Controller](https://www.wired.com/review/thrustmaster-heart/)
- - [As digital assets go more mainstream, memecoins like PNUT, named after a euthanised pet squirrel, show how the information ecosystem is changing in finance &lpar;Gillian Tett/Financial Times&rpar;](http://www.techmeme.com/241208/p6#a241208p6)
- - [The Digital Natives Will Revolt—and That’s Good for Everybody](https://www.wired.com/story/digital-natives-gen-z-underconsumption-no-tech/)
- - [A look at Chatbot Arena, which now ranks over 170 AI models and was launched in 2023 by two UCB researchers who hope to grow the project into a Wikipedia of AI &lpar;Miles Kruppa/Wall Street Journal&rpar;](http://www.techmeme.com/241208/p5#a241208p5)<!-- TECH:END -->
+ - [Premier League Soccer: Livestream Fulham vs. Arsenal From Anywhere](https://www.cnet.com/tech/services-and-software/premier-league-soccer-livestream-fulham-vs-arsenal-from-anywhere/#ftag=CAD590a51e)
+ - [Mindful Eating: What It Is and How You Can Practice It Daily](https://www.cnet.com/health/nutrition/mindful-eating-what-it-is-and-how-you-can-begin-to-practice-it-daily/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

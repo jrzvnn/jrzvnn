@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [US parenting](http://9gag.com/gag/a34EDy3)
- - 😝 [I hope nothing bad happened.](http://9gag.com/gag/a34EzW7)
- - 💣 [I bet you she sues him for that dough...](http://9gag.com/gag/aQzoK98)
- - 😝 [From OCD to PHD](http://9gag.com/gag/aBy2bPZ)
- - 👉 [A Colombian hitwoman, known as \u2018The Doll,\u2019 has allegedly been arrested for several murders, including her ex-boyfriend](http://9gag.com/gag/aLnpOM5)<!-- MEMES:END -->
+ - 😝 [Not the ending you expect](http://9gag.com/gag/ajPmvZ1)
+ - 😝 [Women](http://9gag.com/gag/an7QoeE)
+ - 💣 [I hope nothing bad happened.](http://9gag.com/gag/a34EzW7)
+ - 😝 [At least the view is nice](http://9gag.com/gag/aBy2z4O)
+ - 👉 [From OCD to PHD](http://9gag.com/gag/aBy2bPZ)<!-- MEMES:END -->
 
 ---
 

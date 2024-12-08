@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Now you understand the reason?](http://9gag.com/gag/aPA3bEK)
- - 😝 [Well they get paid either way except I dont get looked at like I am a filth](http://9gag.com/gag/aAyb599)
- - 💣 [Hubba Hubba Hubba Aunty May](http://9gag.com/gag/aGypQow)
- - 😝 [I would be so confused](http://9gag.com/gag/a1mrgNR)
- - 👉 [I am convinced 90% of people you see are NPCs.](http://9gag.com/gag/aXPoz49)<!-- MEMES:END -->
+ - 😝 [Deaf dog loves to watch fireworks](http://9gag.com/gag/aKG6o8N)
+ - 😝 [Luck as is](http://9gag.com/gag/aGypQKG)
+ - 💣 [This is a happy family](http://9gag.com/gag/azxMpoB)
+ - 😝 [Syrians are celebrating the new regime in Syria, when are they going back? That&#39;s Dortmund.](http://9gag.com/gag/an7QmKn)
+ - 👉 [You are not a war refugees anymore. Your homeland needs you. Go back and fix it](http://9gag.com/gag/an7Qmqb)<!-- MEMES:END -->
 
 ---
 

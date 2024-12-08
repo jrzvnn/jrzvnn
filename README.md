@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [A literal lucky cat](http://9gag.com/gag/an7Q0wV)
- - 😝 [Divided by language, united by thoughts](http://9gag.com/gag/axyMqdK)
- - 💣 [2 at least!](http://9gag.com/gag/aW4jXq6)
- - 😝 [Such great friends](http://9gag.com/gag/aNDpbYG)
- - 👉 [Learning](http://9gag.com/gag/aPA321K)<!-- MEMES:END -->
+ - 😝 [Hubba Hubba Hubba Aunty May](http://9gag.com/gag/aGypQow)
+ - 😝 [You thought you knew what a favela looked like...](http://9gag.com/gag/azxMwej)
+ - 💣 [US parenting](http://9gag.com/gag/a34EDy3)
+ - 😝 [A Map Comparing Actual Distances to Their Representation on the Mercator Projection.](http://9gag.com/gag/aYQoBpv)
+ - 👉 [Sea world](http://9gag.com/gag/ae9AqvW)<!-- MEMES:END -->
 
 ---
 

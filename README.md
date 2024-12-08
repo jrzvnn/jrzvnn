@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Hubba Hubba Hubba Aunty May](http://9gag.com/gag/aGypQow)
  - 😝 [Now you understand the reason?](http://9gag.com/gag/aPA3bEK)
- - 💣 [Dark](http://9gag.com/gag/avy5w1q)
- - 😝 [One little thing](http://9gag.com/gag/aNDp550)
- - 👉 [2 more to go](http://9gag.com/gag/a87ENyY)<!-- MEMES:END -->
+ - 😝 [Well they get paid either way except I dont get looked at like I am a filth](http://9gag.com/gag/aAyb599)
+ - 💣 [Hubba Hubba Hubba Aunty May](http://9gag.com/gag/aGypQow)
+ - 😝 [I would be so confused](http://9gag.com/gag/a1mrgNR)
+ - 👉 [I am convinced 90% of people you see are NPCs.](http://9gag.com/gag/aXPoz49)<!-- MEMES:END -->
 
 ---
 

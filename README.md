@@ -167,10 +167,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [One little thing](http://9gag.com/gag/aNDp550)
- - 😝 [Hubba Hubba Hubba Aunty May](http://9gag.com/gag/aGypQow)
- - 💣 [US parenting](http://9gag.com/gag/a34EDy3)
- - 😝 [At least the view is nice](http://9gag.com/gag/aBy2z4O)
- - 👉 [Sea world](http://9gag.com/gag/ae9AqvW)<!-- MEMES:END -->
+ - 😝 [Dark](http://9gag.com/gag/avy5w1q)
+ - 💣 [Hubba Hubba Hubba Aunty May](http://9gag.com/gag/aGypQow)
+ - 😝 [I mean... c&#39;mon](http://9gag.com/gag/azxMz7p)
+ - 👉 [At least the view is nice](http://9gag.com/gag/aBy2z4O)<!-- MEMES:END -->
 
 ---
 

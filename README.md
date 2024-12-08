@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Chinese girl in Canada \ud83c\udde8\ud83c\udde6 is surprised that there aren\u2019t anymore Canadians around.](http://9gag.com/gag/aD2d9Ww)
- - 😝 [Sanxyra](http://9gag.com/gag/adB8DoZ)
- - 💣 [One little thing](http://9gag.com/gag/aNDp550)
- - 😝 [I can feel the pain from here](http://9gag.com/gag/a87EOQ3)
- - 👉 [Now you understand the reason?](http://9gag.com/gag/aPA3bEK)<!-- MEMES:END -->
+ - 😝 [The brown eyed monster](http://9gag.com/gag/aXPoOmb)
+ - 😝 [I stole it, maybe repost but great quality](http://9gag.com/gag/aE0p9w9)
+ - 💣 [That wishful look](http://9gag.com/gag/a4PEORw)
+ - 😝 [One little thing](http://9gag.com/gag/aNDp550)
+ - 👉 [Performing with an oxygen tank at 23yrs old is diabetical](http://9gag.com/gag/ajPmwGG)<!-- MEMES:END -->
 
 ---
 

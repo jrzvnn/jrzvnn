@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [How the people treats the guy who put down the CEO](http://9gag.com/gag/aqyjwBp)
- - 😝 [Wtf Surprise](http://9gag.com/gag/aW4j5rn)
- - 💣 [Apply boiling water to burned area](http://9gag.com/gag/ayNMrPp)
- - 😝 [Yeah, Baby!](http://9gag.com/gag/aVv75Wd)
- - 👉 [Such great friends](http://9gag.com/gag/aNDpbYG)<!-- MEMES:END -->
+ - 😝 [AAAAHAHAHHAHAH Europe, you are clown world!](http://9gag.com/gag/a4PE8z6)
+ - 😝 [Luck as is](http://9gag.com/gag/aGypQKG)
+ - 💣 [2 more to go](http://9gag.com/gag/a87ENyY)
+ - 😝 [US parenting](http://9gag.com/gag/a34EDy3)
+ - 👉 [At least the view is nice](http://9gag.com/gag/aBy2z4O)<!-- MEMES:END -->
 
 ---
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Interesting](http://9gag.com/gag/ajPmwBR)
  - 😝 [Hubba Hubba Hubba Aunty May](http://9gag.com/gag/aGypQow)
+ - 😝 [I am convinced 90% of people you see are NPCs.](http://9gag.com/gag/aXPoz49)
  - 💣 [Dark](http://9gag.com/gag/avy5w1q)
- - 😝 [I mean... c&#39;mon](http://9gag.com/gag/azxMz7p)
- - 👉 [A Map Comparing Actual Distances to Their Representation on the Mercator Projection.](http://9gag.com/gag/aYQoBpv)<!-- MEMES:END -->
+ - 😝 [Now you understand the reason?](http://9gag.com/gag/aPA3bEK)
+ - 👉 [At least the view is nice](http://9gag.com/gag/aBy2z4O)<!-- MEMES:END -->
 
 ---
 

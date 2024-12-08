@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [These 3 Things Are Standing in the Way of a Global Plastics Treaty](https://www.wired.com/story/these-3-things-are-standing-in-the-way-of-a-global-plastics-treaty/)
  - [How the US-China fallout is fueling the rise of boomtowns in Vietnam and Malaysia, as companies and governments rush to develop AI and establish chipmaking hubs &lpar;Bloomberg&rpar;](http://www.techmeme.com/241208/p8#a241208p8)
  - [Amazon Kindle Scribe &lpar;2nd Gen&rpar; Review: Room for More](https://www.wired.com/review/amazon-kindle-scribe-second-generation/)
  - [The Installer gift guide, part two](https://www.theverge.com/2024/12/8/24314959/y2k-movie-peloton-strength-plus-jeopardy-installer)
- - [25 Work From Home Gift Ideas](https://www.wired.com/gallery/work-from-home-gift-ideas/)
- - [Best Knife Sharpener of 2024](https://www.cnet.com/news/best-knife-sharpener/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [25 Work From Home Gift Ideas](https://www.wired.com/gallery/work-from-home-gift-ideas/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

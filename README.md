@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Gamers don&#39;t need context. . . They live it.](http://9gag.com/gag/ae9ABEB)
- - 😝 [Performing with an oxygen tank at 23yrs old is diabetical](http://9gag.com/gag/ajPmwGG)
- - 💣 [I would be so confused](http://9gag.com/gag/a1mrgNR)
- - 😝 [This sparks joy!](http://9gag.com/gag/aD2dv1B)
- - 👉 [There&#39;s no going back now.](http://9gag.com/gag/aqyjwGM)<!-- MEMES:END -->
+ - 😝 [Syrians are celebrating the new regime in Syria, when are they going back? That&#39;s Dortmund.](http://9gag.com/gag/an7QmKn)
+ - 😝 [Don&#39;t ignore!](http://9gag.com/gag/azxMpDB)
+ - 💣 [Syrians celebrating in Warsaw Poland.](http://9gag.com/gag/aVv7pLM)
+ - 😝 [...](http://9gag.com/gag/ae9An2Q)
+ - 👉 [Bro get in the car](http://9gag.com/gag/aXPoyjv)<!-- MEMES:END -->
 
 ---
 

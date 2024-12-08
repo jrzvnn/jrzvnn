@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Meta says there are no plans to release its AI-powered coding tool Metamate externally; Metamate lacks the more autonomous, agent-like features of rivals&#39; tools &lpar;Financial Times&rpar;](http://www.techmeme.com/241208/p4#a241208p4)
  - [An analysis of US FEC data: Trump received $273.2M in donations from tech executives and VCs, including $242.6M from Elon Musk, while Harris received $120.9M &lpar;The Guardian&rpar;](http://www.techmeme.com/241208/p3#a241208p3)
  - [Nike Promo Code: Extra 25% Off Select Styles](https://www.wired.com/story/nike-promo-code/)
  - [Sources: ByteDance has taken an early lead in the generative AI race in China by poaching top talent from rivals and becoming Nvidia&#39;s biggest buyer in China &lpar;Financial Times&rpar;](http://www.techmeme.com/241208/p2#a241208p2)
- - [Ant President Cyril Han will succeed Eric Jing as CEO on March 1; Jing will remain company chairman and Han, who is also the CFO, will continue reporting to him &lpar;Yongchang Chin/Bloomberg&rpar;](http://www.techmeme.com/241208/p1#a241208p1)
- - [A profile of Brain Krebs, who in the past 20 years has probed and outed some of the worst cybercriminals, including the alleged hackers of Snowflake clients &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/241207/p21#a241207p21)<!-- TECH:END -->
+ - [Ant President Cyril Han will succeed Eric Jing as CEO on March 1; Jing will remain company chairman and Han, who is also the CFO, will continue reporting to him &lpar;Yongchang Chin/Bloomberg&rpar;](http://www.techmeme.com/241208/p1#a241208p1)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

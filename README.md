@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [US parenting](http://9gag.com/gag/a34EDy3)
- - 😝 [At least the view is nice](http://9gag.com/gag/aBy2z4O)
- - 💣 [Better to be a bit paranoid than to be robbed later](http://9gag.com/gag/aBy2z5Z)
- - 😝 [I am convinced 90% of people you see are NPCs.](http://9gag.com/gag/aXPoz49)
- - 👉 [I hope nothing bad happened.](http://9gag.com/gag/a34EzW7)<!-- MEMES:END -->
+ - 😝 [A literal lucky cat](http://9gag.com/gag/an7Q0wV)
+ - 😝 [Divided by language, united by thoughts](http://9gag.com/gag/axyMqdK)
+ - 💣 [2 at least!](http://9gag.com/gag/aW4jXq6)
+ - 😝 [Such great friends](http://9gag.com/gag/aNDpbYG)
+ - 👉 [Learning](http://9gag.com/gag/aPA321K)<!-- MEMES:END -->
 
 ---
 

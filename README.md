@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The rise of generative AI will force the web browser to evolve again, just as the web browser evolved for a mobile-first world by contorting itself into apps &lpar;Om Malik/Crazy Stupid Tech&rpar;](http://www.techmeme.com/241208/p11#a241208p11)
  - [Sources: Apple is working with Sony to add support for PlayStation VR2 controllers in visionOS; Apple has sold fewer than 500K units of the Vision Pro &lpar;Mark Gurman/Bloomberg&rpar;](http://www.techmeme.com/241208/p10#a241208p10)
  - [Our hottest and coldest 2025 takes](https://www.theverge.com/2024/12/8/24314769/2025-preview-tech-tiktok-matter-apple-ai-vergecast)
  - [Apple and Sony are working on Vision Pro support for PSVR2 controllers](https://www.theverge.com/2024/12/8/24316130/apple-vision-pro-sony-psvr2-controller-support-gaming)
- - [ElevenLabs, which is reportedly raising $200M at a $3B valuation, launches a tool to let users create and edit AI-hosted podcasts from various source materials &lpar;Ashley Carman/Bloomberg&rpar;](http://www.techmeme.com/241208/p9#a241208p9)
- - [Third-party controllers may bring more games to Apple Vision Pro](https://appleinsider.com/articles/24/12/08/third-party-controllers-may-bring-more-games-to-apple-vision-pro?utm_medium=rss)<!-- TECH:END -->
+ - [ElevenLabs, which is reportedly raising $200M at a $3B valuation, launches a tool to let users create and edit AI-hosted podcasts from various source materials &lpar;Ashley Carman/Bloomberg&rpar;](http://www.techmeme.com/241208/p9#a241208p9)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

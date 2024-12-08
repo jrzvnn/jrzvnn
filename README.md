@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Absolutely zero survival skills\ud83e\udd7a](http://9gag.com/gag/aqyjMOQ)
- - 😝 [Bad wife material, avoid](http://9gag.com/gag/a4PEB6p)
- - 💣 [A Map Comparing Actual Distances to Their Representation on the Mercator Projection.](http://9gag.com/gag/aYQoBpv)
- - 😝 [From OCD to PHD](http://9gag.com/gag/aBy2bPZ)
- - 👉 [I hope nothing bad happened.](http://9gag.com/gag/a34EzW7)<!-- MEMES:END -->
+ - 😝 [I would be so confused](http://9gag.com/gag/a1mrgNR)
+ - 😝 [They had the perfect Snape, instead they chose some DEI stereotypical looking black dude](http://9gag.com/gag/aryMDg5)
+ - 💣 [There&#39;s no going back now.](http://9gag.com/gag/aqyjwGM)
+ - 😝 [Luck as is](http://9gag.com/gag/aGypQKG)
+ - 👉 [US parenting](http://9gag.com/gag/a34EDy3)<!-- MEMES:END -->
 
 ---
 

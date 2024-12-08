@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [You thought you knew what a favela looked like...](http://9gag.com/gag/azxMwej)
  - 😝 [Gamers don&#39;t need context. . . They live it.](http://9gag.com/gag/ae9ABEB)
- - 💣 [I stole it, maybe repost but great quality](http://9gag.com/gag/aE0p9w9)
- - 😝 [There&#39;s no going back now.](http://9gag.com/gag/aqyjwGM)
- - 👉 [I can feel the pain from here](http://9gag.com/gag/a87EOQ3)<!-- MEMES:END -->
+ - 😝 [Performing with an oxygen tank at 23yrs old is diabetical](http://9gag.com/gag/ajPmwGG)
+ - 💣 [I would be so confused](http://9gag.com/gag/a1mrgNR)
+ - 😝 [This sparks joy!](http://9gag.com/gag/aD2dv1B)
+ - 👉 [There&#39;s no going back now.](http://9gag.com/gag/aqyjwGM)<!-- MEMES:END -->
 
 ---
 

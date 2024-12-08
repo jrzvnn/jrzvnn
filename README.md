@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [There&#39;s no going back now.](http://9gag.com/gag/aqyjwGM)
- - 😝 [Wtf Surprise](http://9gag.com/gag/aW4j5rn)
- - 💣 [In total, more than 500 private jets took off from Las Vegas after the football tournament.](http://9gag.com/gag/axyMenL)
- - 😝 [I lol&#39;d.](http://9gag.com/gag/a7oEm0q)
- - 👉 [Man arrested for trying to rape woman. He then screamed racism and &#39;I can&#39;t breath&#39; during the entire arrest.](http://9gag.com/gag/apRNMLW)<!-- MEMES:END -->
+ - 😝 [...](http://9gag.com/gag/aGyp5n5)
+ - 😝 [How the people treats the guy who put down the CEO](http://9gag.com/gag/aqyjwBp)
+ - 💣 [Apply boiling water to burned area](http://9gag.com/gag/ayNMrPp)
+ - 😝 [Yeah, Baby!](http://9gag.com/gag/aVv75Wd)
+ - 👉 [Such great friends](http://9gag.com/gag/aNDpbYG)<!-- MEMES:END -->
 
 ---
 

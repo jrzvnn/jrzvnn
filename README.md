@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Third-party controllers may bring more games to Apple Vision Pro](https://appleinsider.com/articles/24/12/08/third-party-controllers-may-bring-more-games-to-apple-vision-pro?utm_medium=rss)
  - [These Brilliant BenQ ScreenBar Lamps Are My Favorite WFH Accessory](https://www.wired.com/story/benq-screenbar-pro-light-rave/)
  - [Premier League Soccer: Livestream Tottenham vs. Chelsea From Anywhere](https://www.cnet.com/tech/services-and-software/premier-league-soccer-livestream-tottenham-vs-chelsea-from-anywhere/#ftag=CAD590a51e)
  - [These 3 Things Are Standing in the Way of a Global Plastics Treaty](https://www.wired.com/story/these-3-things-are-standing-in-the-way-of-a-global-plastics-treaty/)
- - [Amazon Slashes Apple AirPods With ANC to New Record Low Price in Time for the Holidays](https://www.cnet.com/deals/amazon-slashes-apple-airpods-with-anc-to-new-record-low-price-in-time-for-the-holidays/#ftag=CAD590a51e)
- - [Treat Yourself to a PlayStation VR 2 Bundle With Horizon for Its Lowest Price Yet](https://www.cnet.com/deals/treat-yourself-to-a-playstation-vr-2-bundle-with-horizon-for-its-lowest-price-yet/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Amazon Slashes Apple AirPods With ANC to New Record Low Price in Time for the Holidays](https://www.cnet.com/deals/amazon-slashes-apple-airpods-with-anc-to-new-record-low-price-in-time-for-the-holidays/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

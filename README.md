@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Wtf Surprise](http://9gag.com/gag/aW4j5rn)
- - 😝 [A literal lucky cat](http://9gag.com/gag/an7Q0wV)
- - 💣 [Apply boiling water to burned area](http://9gag.com/gag/ayNMrPp)
- - 😝 [Yeah, Baby!](http://9gag.com/gag/aVv75Wd)
- - 👉 [2 at least!](http://9gag.com/gag/aW4jXq6)<!-- MEMES:END -->
+ - 😝 [A Map Comparing Actual Distances to Their Representation on the Mercator Projection.](http://9gag.com/gag/aYQoBpv)
+ - 😝 [You thought you knew what a favela looked like...](http://9gag.com/gag/azxMwej)
+ - 💣 [At least the view is nice](http://9gag.com/gag/aBy2z4O)
+ - 😝 [I would be so confused](http://9gag.com/gag/a1mrgNR)
+ - 👉 [Her Frustration and His Frustration.](http://9gag.com/gag/apRNXDn)<!-- MEMES:END -->
 
 ---
 

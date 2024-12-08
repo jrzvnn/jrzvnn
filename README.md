@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [25 Work From Home Gift Ideas](https://www.wired.com/gallery/work-from-home-gift-ideas/)
+ - [Electric Cars Could Last Much Longer Than You Think](https://www.wired.com/story/electric-cars-could-last-much-longer-than-most-think/)
  - [Cradlewise Smart Bassinet and Crib Review: AI to Help Infants Sleep](https://www.wired.com/review/cradlewise-smart-bassinet-and-crib/)
- - [A look at the Illinois Quantum and Microelectronics Park, a planned project aiming to make Chicago a quantum computing hub with PsiQuantum as the anchor tenant &lpar;Steven Rosenbush/Wall Street Journal&rpar;](http://www.techmeme.com/241208/p7#a241208p7)
- - [Thrustmaster H.E.A.R.T. Review: A Hall Effect Controller](https://www.wired.com/review/thrustmaster-heart/)
- - [As digital assets go more mainstream, memecoins like PNUT, named after a euthanised pet squirrel, show how the information ecosystem is changing in finance &lpar;Gillian Tett/Financial Times&rpar;](http://www.techmeme.com/241208/p6#a241208p6)
- - [The Digital Natives Will Revolt—and That’s Good for Everybody](https://www.wired.com/story/digital-natives-gen-z-underconsumption-no-tech/)<!-- TECH:END -->
+ - [Amazon Slashes Apple AirPods With ANC to New Record Low Price in Time for the Holidays](https://www.cnet.com/deals/amazon-slashes-apple-airpods-with-anc-to-new-record-low-price-in-time-for-the-holidays/#ftag=CAD590a51e)
+ - [A look at the Illinois Quantum and Microelectronics Park, a planned project aiming to make Chicago a quantum computing hub with PsiQuantum as the anchor tenant &lpar;Steven Rosenbush/Wall Street Journal&rpar;](http://www.techmeme.com/241208/p7#a241208p7)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

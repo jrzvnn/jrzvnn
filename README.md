@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [I would be so confused](http://9gag.com/gag/a1mrgNR)
- - 😝 [They had the perfect Snape, instead they chose some DEI stereotypical looking black dude](http://9gag.com/gag/aryMDg5)
- - 💣 [There&#39;s no going back now.](http://9gag.com/gag/aqyjwGM)
- - 😝 [Luck as is](http://9gag.com/gag/aGypQKG)
- - 👉 [US parenting](http://9gag.com/gag/a34EDy3)<!-- MEMES:END -->
+ - 😝 [US parenting](http://9gag.com/gag/a34EDy3)
+ - 😝 [There&#39;s no going back now.](http://9gag.com/gag/aqyjwGM)
+ - 💣 [I lol&#39;d.](http://9gag.com/gag/a7oEm0q)
+ - 😝 [I am convinced 90% of people you see are NPCs.](http://9gag.com/gag/aXPoz49)
+ - 👉 [Her Frustration and His Frustration.](http://9gag.com/gag/apRNXDn)<!-- MEMES:END -->
 
 ---
 

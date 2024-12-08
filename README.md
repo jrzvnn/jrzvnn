@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [A look at the opportunities India provides for smartphone companies, including its growing market for premium phones and as a manufacturing hub outside of China &lpar;Andrew Williams/Wired&rpar;](http://www.techmeme.com/241208/p14#a241208p14)
  - [Best Indoor Bike Trainers for 2024: Tacx, Wahoo, Saris and More Compared](https://www.cnet.com/health/fitness/best-indoor-bike-trainer/#ftag=CAD590a51e)
  - [Bears vs. 49ers Livestream: How to Watch NFL Week 14 Today](https://www.cnet.com/tech/services-and-software/bears-vs-49ers-livestream-how-to-watch-nfl-week-14-today/#ftag=CAD590a51e)
  - [Bills vs. Rams Livestream: How to Watch NFL Week 14 Today](https://www.cnet.com/tech/services-and-software/bills-vs-rams-livestream-how-to-watch-nfl-week-14-today/#ftag=CAD590a51e)
- - [Seahawks vs. Cardinals: How to Watch NFL Week 14 Today](https://www.cnet.com/tech/services-and-software/seahawks-vs-cardinals-how-to-watch-nfl-week-14-today/#ftag=CAD590a51e)
- - [Sony is still slashing prices on consoles, controllers, and more for the holidays](https://www.theverge.com/2024/12/8/24315169/sony-ps5-slim-psvr-2-dualsense-controller-holiday-sale-deal)<!-- TECH:END -->
+ - [Seahawks vs. Cardinals: How to Watch NFL Week 14 Today](https://www.cnet.com/tech/services-and-software/seahawks-vs-cardinals-how-to-watch-nfl-week-14-today/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

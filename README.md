@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [NeverEnding story horse goes zzz](http://9gag.com/gag/aLnpEdg)
- - 😝 [Oscar winner Olivia Colman](http://9gag.com/gag/amoPevX)
- - 💣 [That wishful look](http://9gag.com/gag/a4PEORw)
- - 😝 [You thought you knew what a favela looked like...](http://9gag.com/gag/azxMwej)
- - 👉 [Performing with an oxygen tank at 23yrs old is diabetical](http://9gag.com/gag/ajPmwGG)<!-- MEMES:END -->
+ - 😝 [This is a happy family](http://9gag.com/gag/azxMpoB)
+ - 😝 [Bro get in the car](http://9gag.com/gag/aXPoyjv)
+ - 💣 [Syrians celebrating in Utrecht, The Netherlands. I guess they can all go home now, right?](http://9gag.com/gag/aryMQ57)
+ - 😝 [Syrians are celebrating the new regime in Syria, when are they going back? That&#39;s Dortmund.](http://9gag.com/gag/an7QmKn)
+ - 👉 [Next!](http://9gag.com/gag/aPA3EXP)<!-- MEMES:END -->
 
 ---
 

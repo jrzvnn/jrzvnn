@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [A Map Comparing Actual Distances to Their Representation on the Mercator Projection.](http://9gag.com/gag/aYQoBpv)
+ - 😝 [I hope nothing bad happened.](http://9gag.com/gag/a34EzW7)
+ - 😝 [AAAAHAHAHHAHAH Europe, you are clown world!](http://9gag.com/gag/a4PE8z6)
+ - 💣 [A Map Comparing Actual Distances to Their Representation on the Mercator Projection.](http://9gag.com/gag/aYQoBpv)
  - 😝 [You thought you knew what a favela looked like...](http://9gag.com/gag/azxMwej)
- - 💣 [I lol&#39;d.](http://9gag.com/gag/a7oEm0q)
- - 😝 [Not the ending you expect](http://9gag.com/gag/ajPmvZ1)
- - 👉 [AAAAHAHAHHAHAH Europe, you are clown world!](http://9gag.com/gag/a4PE8z6)<!-- MEMES:END -->
+ - 👉 [At least the view is nice](http://9gag.com/gag/aBy2z4O)<!-- MEMES:END -->
 
 ---
 

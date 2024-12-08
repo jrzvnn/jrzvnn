@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Extracting gold from used electronics](http://9gag.com/gag/aE0pb7e)
+ - 😝 [US parenting](http://9gag.com/gag/a34EDy3)
+ - 😝 [I hope nothing bad happened.](http://9gag.com/gag/a34EzW7)
+ - 💣 [I bet you she sues him for that dough...](http://9gag.com/gag/aQzoK98)
  - 😝 [From OCD to PHD](http://9gag.com/gag/aBy2bPZ)
- - 💣 [I hope nothing bad happened.](http://9gag.com/gag/a34EzW7)
- - 😝 [Ip Man](http://9gag.com/gag/ajPmGZR)
- - 👉 [Not the ending you expect](http://9gag.com/gag/ajPmvZ1)<!-- MEMES:END -->
+ - 👉 [A Colombian hitwoman, known as \u2018The Doll,\u2019 has allegedly been arrested for several murders, including her ex-boyfriend](http://9gag.com/gag/aLnpOM5)<!-- MEMES:END -->
 
 ---
 

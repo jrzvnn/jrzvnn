@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [One little thing](http://9gag.com/gag/aNDp550)
- - 😝 [Dark](http://9gag.com/gag/avy5w1q)
- - 💣 [Hubba Hubba Hubba Aunty May](http://9gag.com/gag/aGypQow)
+ - 😝 [Interesting](http://9gag.com/gag/ajPmwBR)
+ - 😝 [Hubba Hubba Hubba Aunty May](http://9gag.com/gag/aGypQow)
+ - 💣 [Dark](http://9gag.com/gag/avy5w1q)
  - 😝 [I mean... c&#39;mon](http://9gag.com/gag/azxMz7p)
- - 👉 [At least the view is nice](http://9gag.com/gag/aBy2z4O)<!-- MEMES:END -->
+ - 👉 [A Map Comparing Actual Distances to Their Representation on the Mercator Projection.](http://9gag.com/gag/aYQoBpv)<!-- MEMES:END -->
 
 ---
 

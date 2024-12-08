@@ -167,10 +167,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [I lol&#39;d.](http://9gag.com/gag/a7oEm0q)
+ - 😝 [Not the ending you expect](http://9gag.com/gag/ajPmvZ1)
+ - 💣 [Dark](http://9gag.com/gag/avy5w1q)
  - 😝 [I would be so confused](http://9gag.com/gag/a1mrgNR)
- - 💣 [I mean... c&#39;mon](http://9gag.com/gag/azxMz7p)
- - 😝 [At least the view is nice](http://9gag.com/gag/aBy2z4O)
- - 👉 [US parenting](http://9gag.com/gag/a34EDy3)<!-- MEMES:END -->
+ - 👉 [At least the view is nice](http://9gag.com/gag/aBy2z4O)<!-- MEMES:END -->
 
 ---
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [US parenting](http://9gag.com/gag/a34EDy3)
- - 😝 [There&#39;s no going back now.](http://9gag.com/gag/aqyjwGM)
- - 💣 [I lol&#39;d.](http://9gag.com/gag/a7oEm0q)
- - 😝 [I am convinced 90% of people you see are NPCs.](http://9gag.com/gag/aXPoz49)
- - 👉 [Her Frustration and His Frustration.](http://9gag.com/gag/apRNXDn)<!-- MEMES:END -->
+ - 😝 [How the people treats the guy who put down the CEO](http://9gag.com/gag/aqyjwBp)
+ - 😝 [Wtf Surprise](http://9gag.com/gag/aW4j5rn)
+ - 💣 [Apply boiling water to burned area](http://9gag.com/gag/ayNMrPp)
+ - 😝 [Yeah, Baby!](http://9gag.com/gag/aVv75Wd)
+ - 👉 [Such great friends](http://9gag.com/gag/aNDpbYG)<!-- MEMES:END -->
 
 ---
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [I hope nothing bad happened.](http://9gag.com/gag/a34EzW7)
- - 😝 [AAAAHAHAHHAHAH Europe, you are clown world!](http://9gag.com/gag/a4PE8z6)
- - 💣 [A Map Comparing Actual Distances to Their Representation on the Mercator Projection.](http://9gag.com/gag/aYQoBpv)
- - 😝 [You thought you knew what a favela looked like...](http://9gag.com/gag/azxMwej)
- - 👉 [At least the view is nice](http://9gag.com/gag/aBy2z4O)<!-- MEMES:END -->
+ - 😝 [US parenting](http://9gag.com/gag/a34EDy3)
+ - 😝 [At least the view is nice](http://9gag.com/gag/aBy2z4O)
+ - 💣 [Better to be a bit paranoid than to be robbed later](http://9gag.com/gag/aBy2z5Z)
+ - 😝 [I am convinced 90% of people you see are NPCs.](http://9gag.com/gag/aXPoz49)
+ - 👉 [I hope nothing bad happened.](http://9gag.com/gag/a34EzW7)<!-- MEMES:END -->
 
 ---
 

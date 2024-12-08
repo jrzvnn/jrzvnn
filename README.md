@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Chinese girl in Canada \ud83c\udde8\ud83c\udde6 is surprised that there aren\u2019t anymore Canadians around.](http://9gag.com/gag/aD2d9Ww)
- - 😝 [At least the view is nice](http://9gag.com/gag/aBy2z4O)
- - 💣 [I hope nothing bad happened.](http://9gag.com/gag/a34EzW7)
- - 😝 [Her Frustration and His Frustration.](http://9gag.com/gag/apRNXDn)
- - 👉 [2 more to go](http://9gag.com/gag/a87ENyY)<!-- MEMES:END -->
+ - 😝 [Absolutely zero survival skills\ud83e\udd7a](http://9gag.com/gag/aqyjMOQ)
+ - 😝 [Bad wife material, avoid](http://9gag.com/gag/a4PEB6p)
+ - 💣 [A Map Comparing Actual Distances to Their Representation on the Mercator Projection.](http://9gag.com/gag/aYQoBpv)
+ - 😝 [From OCD to PHD](http://9gag.com/gag/aBy2bPZ)
+ - 👉 [I hope nothing bad happened.](http://9gag.com/gag/a34EzW7)<!-- MEMES:END -->
 
 ---
 

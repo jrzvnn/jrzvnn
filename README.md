@@ -166,10 +166,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [One little thing](http://9gag.com/gag/aNDp550)
  - 😝 [Hubba Hubba Hubba Aunty May](http://9gag.com/gag/aGypQow)
- - 😝 [You thought you knew what a favela looked like...](http://9gag.com/gag/azxMwej)
  - 💣 [US parenting](http://9gag.com/gag/a34EDy3)
- - 😝 [A Map Comparing Actual Distances to Their Representation on the Mercator Projection.](http://9gag.com/gag/aYQoBpv)
+ - 😝 [At least the view is nice](http://9gag.com/gag/aBy2z4O)
  - 👉 [Sea world](http://9gag.com/gag/ae9AqvW)<!-- MEMES:END -->
 
 ---

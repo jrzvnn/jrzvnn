@@ -157,7 +157,7 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple faces a lawsuit accusing it of failing to implement a system to detect and remove CSAM from iCloud, despite initially developing such a tool in 2021 &lpar;Tripp Mickle/New York Times&rpar;](http://www.techmeme.com/241208/p12#a241208p12)
+ - [Apple faces a lawsuit accusing it of failing to implement a system that detects and removes CSAM from iCloud, despite initially developing such a tool in 2021 &lpar;Tripp Mickle/New York Times&rpar;](http://www.techmeme.com/241208/p12#a241208p12)
  - [Apple has reportedly approached Sony to partner on Apple Vision Pro controllers](https://appleinsider.com/articles/24/12/08/third-party-controllers-may-bring-more-games-to-apple-vision-pro?utm_medium=rss)
  - [The rise of generative AI will force the web browser to evolve again, just as the web browser evolved for a mobile-first world by contorting itself into apps &lpar;Om Malik/Crazy Stupid Tech&rpar;](http://www.techmeme.com/241208/p11#a241208p11)
  - [Sources: Apple and Sony could add PlayStation VR2 controller support to visionOS; Apple has sold fewer than 500K Vision Pro units since its February 2024 debut &lpar;Mark Gurman/Bloomberg&rpar;](http://www.techmeme.com/241208/p10#a241208p10)

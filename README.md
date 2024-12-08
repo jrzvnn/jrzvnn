@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Not the ending you expect](http://9gag.com/gag/ajPmvZ1)
- - 😝 [Women](http://9gag.com/gag/an7QoeE)
- - 💣 [I hope nothing bad happened.](http://9gag.com/gag/a34EzW7)
- - 😝 [At least the view is nice](http://9gag.com/gag/aBy2z4O)
- - 👉 [From OCD to PHD](http://9gag.com/gag/aBy2bPZ)<!-- MEMES:END -->
+ - 😝 [There&#39;s no going back now.](http://9gag.com/gag/aqyjwGM)
+ - 😝 [Wtf Surprise](http://9gag.com/gag/aW4j5rn)
+ - 💣 [In total, more than 500 private jets took off from Las Vegas after the football tournament.](http://9gag.com/gag/axyMenL)
+ - 😝 [I lol&#39;d.](http://9gag.com/gag/a7oEm0q)
+ - 👉 [Man arrested for trying to rape woman. He then screamed racism and &#39;I can&#39;t breath&#39; during the entire arrest.](http://9gag.com/gag/apRNMLW)<!-- MEMES:END -->
 
 ---
 

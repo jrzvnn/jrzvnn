@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Do You Have Retirement Money to Claim? This New Database Could Help You Find Old 401&lpar;k&rpar;s](https://www.cnet.com/personal-finance/investing/do-you-have-retirement-money-to-claim-this-new-database-could-help-you-find-old-401ks/#ftag=CAD590a51e)
- - [Did You Earn Money on PayPal, Cash App or Venmo This Year? Watch Out for This Tax Change](https://www.cnet.com/personal-finance/taxes/did-you-earn-money-on-paypal-cash-app-or-venmo-this-year-watch-out-for-this-tax-change/#ftag=CAD590a51e)
- - [A White House official says that the US believes China-linked Salt Typhoon hackers targeted and recorded the phone calls of &quot;very senior&quot; US political figures &lpar;Alexander Cornwell/Reuters&rpar;](http://www.techmeme.com/241207/p17#a241207p17)
- - [Michelle Yeoh’s spy team assembles in Star Trek: Section 31’s official trailer](https://www.theverge.com/2024/12/7/24315722/star-trek-section-31-official-movie-trailer-michelle-yeoh-paramount-plus-streaming)
- - [Best Walmart Deals: Snag Huge Savings on Tech, Home Goods and Much More](https://www.cnet.com/deals/best-walmart-deals/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [NZXT’s Flex PC rentals are still ‘misleading’ and ‘predatory,’ claims Gamers Nexus](https://www.theverge.com/2024/12/7/24315781/gamers-nexus-video-reply-nzxt-defense-misleading-customers-flex-pc-rentals)
+ - [I Can’t Sleep Without These 10 Items and They’re Still on Sale for Cyber Week](https://www.cnet.com/deals/best-cyber-week-sleep-deals-2024/#ftag=CAD590a51e)
+ - [CapitaLand: Asia Pacific&#39;s colocation data center market is expected to grow to $52.2B by 2026, up from $25.5B in 2022, driven by demand for AI-based services &lpar;Reuters&rpar;](http://www.techmeme.com/241207/p18#a241207p18)
+ - [60+ Best Star Wars Gifts for 2024: Lightsabers, Legos, and Much, Much More](https://www.cnet.com/culture/entertainment/best-star-wars-gifts/#ftag=CAD590a51e)
+ - [Do You Have Retirement Money to Claim? This New Database Could Help You Find Old 401&lpar;k&rpar;s](https://www.cnet.com/personal-finance/investing/do-you-have-retirement-money-to-claim-this-new-database-could-help-you-find-old-401ks/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

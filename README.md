@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Sources: Apple is working with Sony to add support for PlayStation VR2 controllers in visionOS; Apple has sold fewer than 500K units of the Vision Pro &lpar;Mark Gurman/Bloomberg&rpar;](http://www.techmeme.com/241208/p10#a241208p10)
+ - [Our hottest and coldest 2025 takes](https://www.theverge.com/2024/12/8/24314769/2025-preview-tech-tiktok-matter-apple-ai-vergecast)
  - [Apple and Sony are working on Vision Pro support for PSVR2 controllers](https://www.theverge.com/2024/12/8/24316130/apple-vision-pro-sony-psvr2-controller-support-gaming)
  - [ElevenLabs, which is reportedly raising $200M at a $3B valuation, launches a tool to let users create and edit AI-hosted podcasts from various source materials &lpar;Ashley Carman/Bloomberg&rpar;](http://www.techmeme.com/241208/p9#a241208p9)
- - [Third-party controllers may bring more games to Apple Vision Pro](https://appleinsider.com/articles/24/12/08/third-party-controllers-may-bring-more-games-to-apple-vision-pro?utm_medium=rss)
- - [These Brilliant BenQ ScreenBar Lamps Are My Favorite WFH Accessory](https://www.wired.com/story/benq-screenbar-pro-light-rave/)
- - [Premier League Soccer: Livestream Tottenham vs. Chelsea From Anywhere](https://www.cnet.com/tech/services-and-software/premier-league-soccer-livestream-tottenham-vs-chelsea-from-anywhere/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Third-party controllers may bring more games to Apple Vision Pro](https://appleinsider.com/articles/24/12/08/third-party-controllers-may-bring-more-games-to-apple-vision-pro?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

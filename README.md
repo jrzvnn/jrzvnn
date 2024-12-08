@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Hubba Hubba Hubba Aunty May](http://9gag.com/gag/aGypQow)
- - 😝 [That wishful look](http://9gag.com/gag/a4PEORw)
- - 💣 [One little thing](http://9gag.com/gag/aNDp550)
  - 😝 [I am convinced 90% of people you see are NPCs.](http://9gag.com/gag/aXPoz49)
- - 👉 [Not the ending you expect](http://9gag.com/gag/ajPmvZ1)<!-- MEMES:END -->
+ - 😝 [Stay aggressive, eat banana in one go.](http://9gag.com/gag/avy5wE5)
+ - 💣 [Hubba Hubba Hubba Aunty May](http://9gag.com/gag/aGypQow)
+ - 😝 [One little thing](http://9gag.com/gag/aNDp550)
+ - 👉 [Now you understand the reason?](http://9gag.com/gag/aPA3bEK)<!-- MEMES:END -->
 
 ---
 

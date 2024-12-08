@@ -167,10 +167,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [I lol&#39;d.](http://9gag.com/gag/a7oEm0q)
- - 😝 [Not the ending you expect](http://9gag.com/gag/ajPmvZ1)
- - 💣 [Dark](http://9gag.com/gag/avy5w1q)
  - 😝 [I would be so confused](http://9gag.com/gag/a1mrgNR)
- - 👉 [At least the view is nice](http://9gag.com/gag/aBy2z4O)<!-- MEMES:END -->
+ - 💣 [I bet you she sues him for that dough...](http://9gag.com/gag/aQzoK98)
+ - 😝 [A Map Comparing Actual Distances to Their Representation on the Mercator Projection.](http://9gag.com/gag/aYQoBpv)
+ - 👉 [Bad wife material, avoid](http://9gag.com/gag/a4PEB6p)<!-- MEMES:END -->
 
 ---
 

@@ -158,10 +158,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- TECH:START -->
  - [A profile of Brain Krebs, who in the past 20 years has probed and outed some of the worst cybercriminals, including the alleged hackers of Snowflake clients &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/241207/p21#a241207p21)
- - [Today&#39;s NYT Mini Crossword Answers for Sunday, Dec. 8](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-sunday-dec-8/#ftag=CAD590a51e)
- - [Today&#39;s NYT Strands Hints, Answers and Help for Dec. 8, #280](https://www.cnet.com/tech/gaming/todays-nyt-strands-hints-answers-and-help-for-dec-8-280/#ftag=CAD590a51e)
- - [Today&#39;s NYT Connections Hints, Answers and Help for Dec. 8, #546](https://www.cnet.com/tech/gaming/todays-nyt-connections-hints-answers-and-help-for-dec-8-546/#ftag=CAD590a51e)
- - [Today&#39;s Wordle Hints, Answer and Help for Dec. 8, #1268](https://www.cnet.com/tech/gaming/todays-wordle-hints-answer-and-help-for-dec-8-1268/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [The Intel Foundry Technology Research team announces breakthroughs in interconnect scaling, gate-all-around transistors, and packaging &lpar;Paul Alcorn/Tom&#39;s Hardware&rpar;](http://www.techmeme.com/241207/p20#a241207p20)
+ - [The 19 Best Extended Cyber Monday Bedding Deals to Stay Cozy This Winter](https://www.cnet.com/deals/best-black-friday-bedding-deals-2024/#ftag=CAD590a51e)
+ - [Broadcom shelves plans to work directly with the top 2,000 VMware customers, focusing on just 500 and giving 1,500 back to partners as a way to stem migrations &lpar;Simon Sharwood/The Register&rpar;](http://www.techmeme.com/241207/p19#a241207p19)
+ - [NZXT’s Flex PC rentals are still ‘misleading’ and ‘predatory,’ claims Gamers Nexus](https://www.theverge.com/2024/12/7/24315781/gamers-nexus-video-reply-nzxt-defense-misleading-customers-flex-pc-rentals)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

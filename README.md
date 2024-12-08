@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Hubba Hubba Hubba Aunty May](http://9gag.com/gag/aGypQow)
- - 😝 [I am convinced 90% of people you see are NPCs.](http://9gag.com/gag/aXPoz49)
- - 💣 [Dark](http://9gag.com/gag/avy5w1q)
- - 😝 [Now you understand the reason?](http://9gag.com/gag/aPA3bEK)
- - 👉 [At least the view is nice](http://9gag.com/gag/aBy2z4O)<!-- MEMES:END -->
+ - 😝 [Sanxyra](http://9gag.com/gag/adB8DoZ)
+ - 😝 [Who am I?](http://9gag.com/gag/a34Egv8)
+ - 💣 [Stay aggressive, eat banana in one go.](http://9gag.com/gag/avy5wE5)
+ - 😝 [One little thing](http://9gag.com/gag/aNDp550)
+ - 👉 [I am convinced 90% of people you see are NPCs.](http://9gag.com/gag/aXPoz49)<!-- MEMES:END -->
 
 ---
 

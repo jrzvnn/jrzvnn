@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [How the US-China fallout is fueling the rise of boomtowns in Vietnam and Malaysia, as companies and governments rush to develop AI and establish chipmaking hubs &lpar;Bloomberg&rpar;](http://www.techmeme.com/241208/p8#a241208p8)
  - [Amazon Kindle Scribe &lpar;2nd Gen&rpar; Review: Room for More](https://www.wired.com/review/amazon-kindle-scribe-second-generation/)
+ - [The Installer gift guide, part two](https://www.theverge.com/2024/12/8/24314959/y2k-movie-peloton-strength-plus-jeopardy-installer)
  - [25 Work From Home Gift Ideas](https://www.wired.com/gallery/work-from-home-gift-ideas/)
- - [Best Knife Sharpener of 2024](https://www.cnet.com/news/best-knife-sharpener/#ftag=CAD590a51e)
- - [5 Easy Strategies to Save Big Money on Flights](https://www.cnet.com/personal-finance/credit-cards/5-easy-strategies-to-save-big-money-on-flights/#ftag=CAD590a51e)
- - [Treat Yourself to a PlayStation VR 2 Bundle With Horizon for Its Lowest Price Yet](https://www.cnet.com/deals/treat-yourself-to-a-playstation-vr-2-bundle-with-horizon-for-its-lowest-price-yet/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Best Knife Sharpener of 2024](https://www.cnet.com/news/best-knife-sharpener/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

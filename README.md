@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Nab the Bose SoundLink Micro at the Record Low Price of $69 in Time for the Holidays](https://www.cnet.com/deals/nab-the-bose-soundlink-micro-at-the-record-low-price-of-69-in-time-for-the-holidays/#ftag=CAD590a51e)
  - [Study: gTLDs like .shop and .xyz, which had 11% market share for new domains, accounted for ~37% of cybercrime domains reported between Sep. 2023 and Aug. 2024 &lpar;Brian Krebs/Krebs on Security&rpar;](http://www.techmeme.com/241208/p15#a241208p15)
  - [The latest Invincible season 3 trailer shows off Mark’s new duds](https://www.theverge.com/2024/12/8/24316383/invincible-season-3-trailer-amazon-prime-video)
- - [Best Amazon Deals Under $100: Save Big on Holiday Tech Deals and Even Bigger Discounts](https://www.cnet.com/deals/best-amazon-deals-under-100/#ftag=CAD590a51e)
- - [How Strength Training Can Super Charge Your Weight Loss Journey](https://www.cnet.com/health/fitness/how-strength-training-can-super-charge-your-weight-loss-journey/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Analysis: Apple Vision Pro sells well, but needs more content faster](https://appleinsider.com/articles/24/12/08/analysis-apple-vision-pro-sells-well-but-needs-more-content-faster?utm_medium=rss)
+ - [The Wheel of Time spins up its third season in March](https://www.theverge.com/2024/12/8/24316339/wheel-of-time-season-3-streaming-premiere-amazon-prime-trailer-release-date)
+ - [A look at the opportunities India provides for smartphone companies, including its growing market for premium phones and as a manufacturing hub outside of China &lpar;Andrew Williams/Wired&rpar;](http://www.techmeme.com/241208/p14#a241208p14)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

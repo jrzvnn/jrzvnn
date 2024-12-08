@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [AAAAHAHAHHAHAH Europe, you are clown world!](http://9gag.com/gag/a4PE8z6)
- - 😝 [Luck as is](http://9gag.com/gag/aGypQKG)
- - 💣 [2 more to go](http://9gag.com/gag/a87ENyY)
+ - 😝 [I am convinced 90% of people you see are NPCs.](http://9gag.com/gag/aXPoz49)
+ - 😝 [I hope nothing bad happened.](http://9gag.com/gag/a34EzW7)
+ - 💣 [AAAAHAHAHHAHAH Europe, you are clown world!](http://9gag.com/gag/a4PE8z6)
  - 😝 [US parenting](http://9gag.com/gag/a34EDy3)
- - 👉 [At least the view is nice](http://9gag.com/gag/aBy2z4O)<!-- MEMES:END -->
+ - 👉 [I lol&#39;d.](http://9gag.com/gag/a7oEm0q)<!-- MEMES:END -->
 
 ---
 

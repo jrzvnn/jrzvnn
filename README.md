@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [I lol&#39;d.](http://9gag.com/gag/a7oEm0q)
- - 😝 [I would be so confused](http://9gag.com/gag/a1mrgNR)
- - 💣 [I bet you she sues him for that dough...](http://9gag.com/gag/aQzoK98)
- - 😝 [A Map Comparing Actual Distances to Their Representation on the Mercator Projection.](http://9gag.com/gag/aYQoBpv)
- - 👉 [Bad wife material, avoid](http://9gag.com/gag/a4PEB6p)<!-- MEMES:END -->
+ - 😝 [Chinese girl in Canada \ud83c\udde8\ud83c\udde6 is surprised that there aren\u2019t anymore Canadians around.](http://9gag.com/gag/aD2d9Ww)
+ - 😝 [At least the view is nice](http://9gag.com/gag/aBy2z4O)
+ - 💣 [I hope nothing bad happened.](http://9gag.com/gag/a34EzW7)
+ - 😝 [Her Frustration and His Frustration.](http://9gag.com/gag/apRNXDn)
+ - 👉 [2 more to go](http://9gag.com/gag/a87ENyY)<!-- MEMES:END -->
 
 ---
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [This is a happy family](http://9gag.com/gag/azxMpoB)
- - 😝 [Bro get in the car](http://9gag.com/gag/aXPoyjv)
- - 💣 [Syrians celebrating in Utrecht, The Netherlands. I guess they can all go home now, right?](http://9gag.com/gag/aryMQ57)
- - 😝 [Syrians are celebrating the new regime in Syria, when are they going back? That&#39;s Dortmund.](http://9gag.com/gag/an7QmKn)
- - 👉 [Next!](http://9gag.com/gag/aPA3EXP)<!-- MEMES:END -->
+ - 😝 [Filming on the beach in California](http://9gag.com/gag/a34Eg33)
+ - 😝 [This sparks joy!](http://9gag.com/gag/aD2dv1B)
+ - 💣 [That wishful look](http://9gag.com/gag/a4PEORw)
+ - 😝 [Gamers don&#39;t need context. . . They live it.](http://9gag.com/gag/ae9ABEB)
+ - 👉 [The brown eyed monster](http://9gag.com/gag/aXPoOmb)<!-- MEMES:END -->
 
 ---
 

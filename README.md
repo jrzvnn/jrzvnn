@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Luck as is](http://9gag.com/gag/aGypQKG)
- - 😝 [AAAAHAHAHHAHAH Europe, you are clown world!](http://9gag.com/gag/a4PE8z6)
- - 💣 [2 more to go](http://9gag.com/gag/a87ENyY)
- - 😝 [Bad wife material, avoid](http://9gag.com/gag/a4PEB6p)
- - 👉 [US parenting](http://9gag.com/gag/a34EDy3)<!-- MEMES:END -->
+ - 😝 [Wtf Surprise](http://9gag.com/gag/aW4j5rn)
+ - 😝 [A literal lucky cat](http://9gag.com/gag/an7Q0wV)
+ - 💣 [Apply boiling water to burned area](http://9gag.com/gag/ayNMrPp)
+ - 😝 [Yeah, Baby!](http://9gag.com/gag/aVv75Wd)
+ - 👉 [2 at least!](http://9gag.com/gag/aW4jXq6)<!-- MEMES:END -->
 
 ---
 

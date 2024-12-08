@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [&#39;It Ends With Us&#39; Is Coming to Streaming. Here&#39;s When and Where to Watch](https://www.cnet.com/tech/services-and-software/it-ends-with-us-is-coming-to-streaming-heres-when-and-where-to-watch/#ftag=CAD590a51e)
  - [Apple faces a lawsuit accusing it of failing to implement a system that detects and removes CSAM from iCloud, despite initially developing such a tool in 2021 &lpar;Tripp Mickle/New York Times&rpar;](http://www.techmeme.com/241208/p12#a241208p12)
  - [Apple has reportedly approached Sony to partner on Apple Vision Pro controllers](https://appleinsider.com/articles/24/12/08/third-party-controllers-may-bring-more-games-to-apple-vision-pro?utm_medium=rss)
- - [The rise of generative AI will force the web browser to evolve again, just as the web browser evolved for a mobile-first world by contorting itself into apps &lpar;Om Malik/Crazy Stupid Tech&rpar;](http://www.techmeme.com/241208/p11#a241208p11)
- - [Sources: Apple and Sony could add PlayStation VR2 controller support to visionOS; Apple has sold fewer than 500K Vision Pro units since its February 2024 debut &lpar;Mark Gurman/Bloomberg&rpar;](http://www.techmeme.com/241208/p10#a241208p10)
- - [These Epic Apple TV Plus Sci-Fi Shows Will Send You Over the Moon](https://www.cnet.com/tech/services-and-software/best-apple-tv-plus-sci-fi-shows-2024/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Collagen Has Anti-Aging Benefits. How to Use It to Stay Young and Healthy](https://www.cnet.com/health/nutrition/collagen-has-anti-aging-benefits-how-to-use-it-to-stay-young-and-healthy/#ftag=CAD590a51e)
+ - [The rise of generative AI will force the web browser to evolve again, just as the web browser evolved for a mobile-first world by contorting itself into apps &lpar;Om Malik/Crazy Stupid Tech&rpar;](http://www.techmeme.com/241208/p11#a241208p11)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Sources: ByteDance has taken an early lead in the generative AI race in China by poaching top talent from rivals and becoming Nvidia&#39;s biggest buyer in China &lpar;Financial Times&rpar;](http://www.techmeme.com/241208/p2#a241208p2)
+ - [Ant President Cyril Han will succeed Eric Jing as CEO on March 1; Jing will remain company chairman and Han, who is also the CFO, will continue reporting to him &lpar;Yongchang Chin/Bloomberg&rpar;](http://www.techmeme.com/241208/p1#a241208p1)
  - [A profile of Brain Krebs, who in the past 20 years has probed and outed some of the worst cybercriminals, including the alleged hackers of Snowflake clients &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/241207/p21#a241207p21)
  - [Today&#39;s NYT Mini Crossword Answers for Sunday, Dec. 8](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-sunday-dec-8/#ftag=CAD590a51e)
- - [Today&#39;s NYT Strands Hints, Answers and Help for Dec. 8, #280](https://www.cnet.com/tech/gaming/todays-nyt-strands-hints-answers-and-help-for-dec-8-280/#ftag=CAD590a51e)
- - [Today&#39;s NYT Connections Hints, Answers and Help for Dec. 8, #546](https://www.cnet.com/tech/gaming/todays-nyt-connections-hints-answers-and-help-for-dec-8-546/#ftag=CAD590a51e)
- - [Today&#39;s Wordle Hints, Answer and Help for Dec. 8, #1268](https://www.cnet.com/tech/gaming/todays-wordle-hints-answer-and-help-for-dec-8-1268/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Today&#39;s NYT Strands Hints, Answers and Help for Dec. 8, #280](https://www.cnet.com/tech/gaming/todays-nyt-strands-hints-answers-and-help-for-dec-8-280/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

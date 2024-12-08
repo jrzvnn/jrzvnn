@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [...](http://9gag.com/gag/aGyp5n5)
- - 😝 [How the people treats the guy who put down the CEO](http://9gag.com/gag/aqyjwBp)
- - 💣 [Apply boiling water to burned area](http://9gag.com/gag/ayNMrPp)
- - 😝 [Yeah, Baby!](http://9gag.com/gag/aVv75Wd)
- - 👉 [Such great friends](http://9gag.com/gag/aNDpbYG)<!-- MEMES:END -->
+ - 😝 [I lol&#39;d.](http://9gag.com/gag/a7oEm0q)
+ - 😝 [I would be so confused](http://9gag.com/gag/a1mrgNR)
+ - 💣 [I mean... c&#39;mon](http://9gag.com/gag/azxMz7p)
+ - 😝 [At least the view is nice](http://9gag.com/gag/aBy2z4O)
+ - 👉 [US parenting](http://9gag.com/gag/a34EDy3)<!-- MEMES:END -->
 
 ---
 

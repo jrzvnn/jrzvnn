@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [A look at Chatbot Arena, which now ranks over 170 AI models and was launched in 2023 by two UCB researchers who hope to grow the project into a Wikipedia of AI &lpar;Miles Kruppa/Wall Street Journal&rpar;](http://www.techmeme.com/241208/p5#a241208p5)
+ - [Everyone Is Capable of Mathematical Thinking—Yes, Even You](https://www.wired.com/story/everyone-is-capable-of-mathematical-thinking-yes-even-you/)
  - [Meta says there are no plans to release its AI-powered coding tool Metamate externally; Metamate lacks the more autonomous, agent-like features of rivals&#39; tools &lpar;Financial Times&rpar;](http://www.techmeme.com/241208/p4#a241208p4)
  - [An analysis of US FEC data: Trump received $273.2M in donations from tech executives and VCs, including $242.6M from Elon Musk, while Harris received $120.9M &lpar;The Guardian&rpar;](http://www.techmeme.com/241208/p3#a241208p3)
- - [Nike Promo Code: Extra 25% Off Select Styles](https://www.wired.com/story/nike-promo-code/)
- - [Sources: ByteDance has taken an early lead in the generative AI race in China by poaching top talent from rivals and becoming Nvidia&#39;s biggest buyer in China &lpar;Financial Times&rpar;](http://www.techmeme.com/241208/p2#a241208p2)
- - [Ant President Cyril Han will succeed Eric Jing as CEO on March 1; Jing will remain company chairman and Han, who is also the CFO, will continue reporting to him &lpar;Yongchang Chin/Bloomberg&rpar;](http://www.techmeme.com/241208/p1#a241208p1)<!-- TECH:END -->
+ - [Nike Promo Code: Extra 25% Off Select Styles](https://www.wired.com/story/nike-promo-code/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

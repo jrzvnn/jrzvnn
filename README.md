@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Deaf dog loves to watch fireworks](http://9gag.com/gag/aKG6o8N)
- - 😝 [Luck as is](http://9gag.com/gag/aGypQKG)
- - 💣 [This is a happy family](http://9gag.com/gag/azxMpoB)
- - 😝 [Syrians are celebrating the new regime in Syria, when are they going back? That&#39;s Dortmund.](http://9gag.com/gag/an7QmKn)
- - 👉 [You are not a war refugees anymore. Your homeland needs you. Go back and fix it](http://9gag.com/gag/an7Qmqb)<!-- MEMES:END -->
+ - 😝 [One little thing](http://9gag.com/gag/aNDp550)
+ - 😝 [The brown eyed monster](http://9gag.com/gag/aXPoOmb)
+ - 💣 [Save water, Shower together](http://9gag.com/gag/avy5qQ5)
+ - 😝 [That wishful look](http://9gag.com/gag/a4PEORw)
+ - 👉 [I can feel the pain from here](http://9gag.com/gag/a87EOQ3)<!-- MEMES:END -->
 
 ---
 

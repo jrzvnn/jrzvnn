@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Don&#39;t ignore!](http://9gag.com/gag/azxMpDB)
- - 😝 [Syrians are celebrating the new regime in Syria, when are they going back? That&#39;s Dortmund.](http://9gag.com/gag/an7QmKn)
- - 💣 [Syrians celebrating in Utrecht, The Netherlands. I guess they can all go home now, right?](http://9gag.com/gag/aryMQ57)
- - 😝 [Bro get in the car](http://9gag.com/gag/aXPoyjv)
- - 👉 [Have a nice weekend](http://9gag.com/gag/aD2dv29)<!-- MEMES:END -->
+ - 😝 [You thought you knew what a favela looked like...](http://9gag.com/gag/azxMwej)
+ - 😝 [Gamers don&#39;t need context. . . They live it.](http://9gag.com/gag/ae9ABEB)
+ - 💣 [I stole it, maybe repost but great quality](http://9gag.com/gag/aE0p9w9)
+ - 😝 [There&#39;s no going back now.](http://9gag.com/gag/aqyjwGM)
+ - 👉 [I can feel the pain from here](http://9gag.com/gag/a87EOQ3)<!-- MEMES:END -->
 
 ---
 

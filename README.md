@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Thrustmaster H.E.A.R.T. Review: A Hall Effect Controller](https://www.wired.com/review/thrustmaster-heart/)
  - [As digital assets go more mainstream, memecoins like PNUT, named after a euthanised pet squirrel, show how the information ecosystem is changing in finance &lpar;Gillian Tett/Financial Times&rpar;](http://www.techmeme.com/241208/p6#a241208p6)
  - [The Digital Natives Will Revolt—and That’s Good for Everybody](https://www.wired.com/story/digital-natives-gen-z-underconsumption-no-tech/)
  - [A look at Chatbot Arena, which now ranks over 170 AI models and was launched in 2023 by two UCB researchers who hope to grow the project into a Wikipedia of AI &lpar;Miles Kruppa/Wall Street Journal&rpar;](http://www.techmeme.com/241208/p5#a241208p5)
- - [Everyone Is Capable of Mathematical Thinking—Yes, Even You](https://www.wired.com/story/everyone-is-capable-of-mathematical-thinking-yes-even-you/)
- - [Meta says there are no plans to release its AI-powered coding tool Metamate externally; Metamate lacks the more autonomous, agent-like features of rivals&#39; tools &lpar;Financial Times&rpar;](http://www.techmeme.com/241208/p4#a241208p4)<!-- TECH:END -->
+ - [Everyone Is Capable of Mathematical Thinking—Yes, Even You](https://www.wired.com/story/everyone-is-capable-of-mathematical-thinking-yes-even-you/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

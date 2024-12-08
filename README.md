@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Amazon Kindle Scribe &lpar;2nd Gen&rpar; Review: Room for More](https://www.wired.com/review/amazon-kindle-scribe-second-generation/)
  - [25 Work From Home Gift Ideas](https://www.wired.com/gallery/work-from-home-gift-ideas/)
- - [Electric Cars Could Last Much Longer Than You Think](https://www.wired.com/story/electric-cars-could-last-much-longer-than-most-think/)
- - [Cradlewise Smart Bassinet and Crib Review: AI to Help Infants Sleep](https://www.wired.com/review/cradlewise-smart-bassinet-and-crib/)
- - [Amazon Slashes Apple AirPods With ANC to New Record Low Price in Time for the Holidays](https://www.cnet.com/deals/amazon-slashes-apple-airpods-with-anc-to-new-record-low-price-in-time-for-the-holidays/#ftag=CAD590a51e)
- - [A look at the Illinois Quantum and Microelectronics Park, a planned project aiming to make Chicago a quantum computing hub with PsiQuantum as the anchor tenant &lpar;Steven Rosenbush/Wall Street Journal&rpar;](http://www.techmeme.com/241208/p7#a241208p7)<!-- TECH:END -->
+ - [Best Knife Sharpener of 2024](https://www.cnet.com/news/best-knife-sharpener/#ftag=CAD590a51e)
+ - [5 Easy Strategies to Save Big Money on Flights](https://www.cnet.com/personal-finance/credit-cards/5-easy-strategies-to-save-big-money-on-flights/#ftag=CAD590a51e)
+ - [Treat Yourself to a PlayStation VR 2 Bundle With Horizon for Its Lowest Price Yet](https://www.cnet.com/deals/treat-yourself-to-a-playstation-vr-2-bundle-with-horizon-for-its-lowest-price-yet/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

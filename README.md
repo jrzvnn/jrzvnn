@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [How Russia-linked Akira group&#39;s ransomware attack on Knights of Old in June 2023 led to the 158-year-old UK delivery firm&#39;s bankruptcy after it refused to pay &lpar;Ryan Gallagher/Bloomberg&rpar;](http://www.techmeme.com/241209/p2#a241209p2)
  - [A study involving 747,604 women finds those who paid extra for AI-enhanced mammograms were 21% more likely to have breast cancer detected than those who didn&#39;t &lpar;Margherita Bassi/Gizmodo&rpar;](http://www.techmeme.com/241209/p1#a241209p1)
  - [A randomized study at a corporate lab employing more than 1,000 researchers: teams using AI discovered 44% more new materials than teams with standard workflows &lpar;Davide Castelvecchi/Nature&rpar;](http://www.techmeme.com/241208/p19#a241208p19)
  - [Today&#39;s NYT Mini Crossword Answers for Monday, Dec. 9](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-monday-dec-9/#ftag=CAD590a51e)
- - [Today&#39;s NYT Strands Hints, Answers and Help for Dec. 9, #281](https://www.cnet.com/tech/gaming/todays-nyt-strands-hints-answers-and-help-for-dec-9-281/#ftag=CAD590a51e)
- - [Today&#39;s NYT Connections Hints, Answers and Help for Dec. 9, #547](https://www.cnet.com/tech/gaming/todays-nyt-connections-hints-answers-and-help-for-dec-9-547/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Today&#39;s NYT Strands Hints, Answers and Help for Dec. 9, #281](https://www.cnet.com/tech/gaming/todays-nyt-strands-hints-answers-and-help-for-dec-9-281/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

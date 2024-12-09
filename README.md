@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Google says it had a major quantum error correction breakthrough, unveils its Willow quantum chip with 105 improved qubits, and shares benchmarks and a roadmap &lpar;John Russell/HPCwire&rpar;](http://www.techmeme.com/241209/p21#a241209p21)
+ - [Best Gifts for Hikers, Backpackers, Outdoorsy People &lpar;2024&rpar;](https://www.wired.com/gallery/awesome-gifts-for-hikers-backpackers-and-outdoorsy-people/)
  - [TikTok tried to save itself with the First Amendment — and failed](https://www.theverge.com/2024/12/9/24316941/tiktok-divest-ban-court-ruling-breakdown-first-amendment)
  - [Microsoft’s AI boss and Sam Altman disagree on what it takes to get to AGI](https://www.theverge.com/2024/12/9/24316969/mustafa-suleyman-sam-altman-microsoft-openai-agi)
- - [We’ve Found Amazon Fire Tablets for Up to Half Off Just Before the Holidays](https://www.cnet.com/deals/weve-found-amazon-fire-tablets-for-up-to-half-off-just-before-the-holidays/#ftag=CAD590a51e)
- - [Q&amp;A with Microsoft AI CEO Mustafa Suleyman on AGI, Copilot, AI agents, the OpenAI deal, joining Microsoft in March 2024, managing ~10K staff, DeepMind, and more &lpar;Nilay Patel/The Verge&rpar;](http://www.techmeme.com/241209/p20#a241209p20)
- - [33 Best STEM Toys for Kids &lpar;2024&rpar;: Make Learning Fun](https://www.wired.com/gallery/best-stem-toys-for-kids/)<!-- TECH:END -->
+ - [We’ve Found Amazon Fire Tablets for Up to Half Off Just Before the Holidays](https://www.cnet.com/deals/weve-found-amazon-fire-tablets-for-up-to-half-off-just-before-the-holidays/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

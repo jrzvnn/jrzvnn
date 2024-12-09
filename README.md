@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [iPhone SE 4 rumored to get 48MP rear camera, OLED screen](https://appleinsider.com/articles/24/12/09/iphone-se-4-rumored-to-get-48mp-rear-camera-oled-screen?utm_medium=rss)
  - [These are the best discounts on Apple&#39;s MacBook Air for holiday gift-giving](https://appleinsider.com/articles/24/12/06/these-are-the-best-discounts-on-apples-macbook-air-for-holiday-gift-giving?utm_medium=rss)
  - [A look at Grand Theft Auto VI, set for release in 2025 after Rockstar started development in 2018, as Rockstar tries to improve its culture after the 2022 hack &lpar;Jason Schreier/Bloomberg&rpar;](http://www.techmeme.com/241209/p15#a241209p15)
- - [Ukrainian officials worry over Telegram, which has soared in popularity during the war with Russia, questioning if its upsides outweigh the its security risks &lpar;New York Times&rpar;](http://www.techmeme.com/241209/p14#a241209p14)
- - [Surprising rumor says new HomePod will get high-quality OLED screen](https://appleinsider.com/articles/24/12/09/surprising-rumor-says-new-homepod-will-get-high-quality-oled-screen?utm_medium=rss)
- - [48 Hours in Tokyo With My AI Travel Companion](https://www.wired.com/story/48-hours-in-tokyo-with-my-ai-travel-companion/)<!-- TECH:END -->
+ - [Ukrainian officials worry about Telegram, which has soared in popularity during the war with Russia, questioning if its upsides outweigh its security risks &lpar;New York Times&rpar;](http://www.techmeme.com/241209/p14#a241209p14)
+ - [Surprising rumor says new HomePod will get high-quality OLED screen](https://appleinsider.com/articles/24/12/09/surprising-rumor-says-new-homepod-will-get-high-quality-oled-screen?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

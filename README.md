@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The Suicide Squad game’s final season is coming less than a year after launch](https://www.theverge.com/2024/12/9/24317407/suicide-squad-kill-the-justice-league-final-season-offline-mode)
  - [Google reveals quantum computing chip with ‘breakthrough’ achievements](https://www.theverge.com/2024/12/9/24317382/google-willow-quantum-computing-chip-breakthrough)
+ - [Walking Pad](https://www.cnet.com/health/fitness/walking-pad2-dpnl/#ftag=CAD590a51e)
  - [Norwegian payment service Vipps launches the world&#39;s first alternative to Apple Pay on iPhone, following Apple&#39;s move to open up NFC access to devs in iOS 18.1 &lpar;Tim Hardwick/MacRumors&rpar;](http://www.techmeme.com/241209/p27#a241209p27)
- - [Best Robot Vacuums of 2024: Roomba and Ecovacs Tie for Best Overall](https://www.cnet.com/home/kitchen-and-household/best-robot-vacuum/#ftag=CAD590a51e)
- - [Spotify shuts down Car Thing, and now owners have one last chance at a refund](https://www.theverge.com/2024/12/9/24317379/spotify-car-thing-shut-down-refund-deadline)
- - [Electric Ceramic Space Heater w/ Remote](https://www.cnet.com/news/electric-ceramic-space-heater-w-remote-dpnl/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [When to Watch the &#39;Secret Level&#39; Animated Series](https://www.cnet.com/tech/services-and-software/when-to-watch-the-secret-level-animated-series/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [This is what being very rich looks like](http://9gag.com/gag/a5QE40O)
- - 😝 [The brown eyed monster](http://9gag.com/gag/aXPoOmb)
- - 💣 [Bridge Pillar Collapses](http://9gag.com/gag/a34EXnm)
+ - 😝 [Next!](http://9gag.com/gag/aPA3EXP)
+ - 😝 [These birds saw a person feed an injured bird, so they all started pretending to be injured as well.](http://9gag.com/gag/a4PEXvd)
+ - 💣 [Would you please sign my petition or will it be your remaining family members?](http://9gag.com/gag/aQzoGVe)
  - 😝 [No cap, they\u2019re dropping quack beats! \ud83e\udd86\ud83d\udca5](http://9gag.com/gag/aoyMb9A)
- - 👉 [Freedom intensifies](http://9gag.com/gag/aBy2BbD)<!-- MEMES:END -->
+ - 👉 [Dogs are Angels](http://9gag.com/gag/aqyjqmj)<!-- MEMES:END -->
 
 ---
 

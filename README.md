@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [He done f*cked up.](http://9gag.com/gag/a2v765w)
- - 😝 [Mark Rober video exposing Indian call centers showed several of the scammers using 9gag!](http://9gag.com/gag/a87ERN1)
- - 💣 [The TRUE nice guy! \ud83d\udc95](http://9gag.com/gag/aPA3E3G)
- - 😝 [That wishful look](http://9gag.com/gag/a4PEORw)
- - 👉 [They&#39;re so realistic](http://9gag.com/gag/a6ZEPOq)<!-- MEMES:END -->
+ - 😝 [I can feel the pain from here](http://9gag.com/gag/a87EOQ3)
+ - 😝 [Transformer girl](http://9gag.com/gag/aMVKoXX)
+ - 💣 [Oscar winner Olivia Colman](http://9gag.com/gag/amoPevX)
+ - 😝 [Well they get paid either way except I dont get looked at like I am a filth](http://9gag.com/gag/aAyb599)
+ - 👉 [That wishful look](http://9gag.com/gag/a4PEORw)<!-- MEMES:END -->
 
 ---
 

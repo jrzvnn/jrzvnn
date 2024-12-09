@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Best Robot Vacuums of 2024: Roomba and Ecovacs Tie for Best Overall](https://www.cnet.com/home/kitchen-and-household/best-robot-vacuum/#ftag=CAD590a51e)
  - [Spotify shuts down Car Thing, and now owners have one last chance at a refund](https://www.theverge.com/2024/12/9/24317379/spotify-car-thing-shut-down-refund-deadline)
- - [Meta’s new Quest update has faster hand tracking and at-a-glance PC connections](https://www.theverge.com/2024/12/9/24317237/meta-quest-v72-update-pc-pairing-hand-tracking-keyboard-look)
- - [In New Trailer for &#39;Invincible&#39; Season 3, Mark Turns On His Boss](https://www.cnet.com/tech/services-and-software/in-new-trailer-for-invincible-season-3-mark-turns-on-his-boss/#ftag=CAD590a51e)
- - [Oracle reports Q2 revenue up 9% YoY to $14.06B, vs. $14.1B est., says it made a deal with Meta for training Llama models on its cloud; ORCL down 6%+ after hours &lpar;Jonathan Vanian/CNBC&rpar;](http://www.techmeme.com/241209/p26#a241209p26)
- - [Best 55-Inch TVs of 2024](https://www.cnet.com/tech/home-entertainment/best-55-inch-tv/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Electric Ceramic Space Heater w/ Remote](https://www.cnet.com/news/electric-ceramic-space-heater-w-remote-dpnl/#ftag=CAD590a51e)
+ - [3 in 1 Fast Charging Dock Station](https://www.cnet.com/tech/3-in-1-fast-charging-dock-station-dpnl/#ftag=CAD590a51e)
+ - [Meta’s new Quest update has faster hand tracking and at-a-glance PC connections](https://www.theverge.com/2024/12/9/24317237/meta-quest-v72-update-pc-pairing-hand-tracking-keyboard-look)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [But is it ever enough?](http://9gag.com/gag/a34EXKe)
- - 😝 [Have a nice weekend](http://9gag.com/gag/aD2dv29)
- - 💣 [You are not a war refugees anymore. Your homeland needs you. Go back and fix it](http://9gag.com/gag/an7Qmqb)
+ - 😝 [Mark Rober video exposing Indian call centers showed several of the scammers using 9gag!](http://9gag.com/gag/a87ERN1)
+ - 😝 [Stressed? F*#k off!](http://9gag.com/gag/agmBWex)
+ - 💣 [One little thing](http://9gag.com/gag/aNDp550)
  - 😝 [No cap, they\u2019re dropping quack beats! \ud83e\udd86\ud83d\udca5](http://9gag.com/gag/aoyMb9A)
- - 👉 [Would you please sign my petition or will it be your remaining family members?](http://9gag.com/gag/aQzoGVe)<!-- MEMES:END -->
+ - 👉 [How is this even possible!](http://9gag.com/gag/aZZ0e4X)<!-- MEMES:END -->
 
 ---
 

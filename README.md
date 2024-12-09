@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Next!](http://9gag.com/gag/aPA3EXP)
- - 😝 [This is what being very rich looks like](http://9gag.com/gag/a5QE40O)
- - 💣 [The brown eyed monster](http://9gag.com/gag/aXPoOmb)
+ - 😝 [Daniel Penny](http://9gag.com/gag/a0e72GZ)
+ - 😝 [Oscar winner Olivia Colman](http://9gag.com/gag/amoPevX)
+ - 💣 [Octopus, Octopus](http://9gag.com/gag/a7oExeq)
  - 😝 [No cap, they\u2019re dropping quack beats! \ud83e\udd86\ud83d\udca5](http://9gag.com/gag/aoyMb9A)
- - 👉 [Stressed? F*#k off!](http://9gag.com/gag/agmBWex)<!-- MEMES:END -->
+ - 👉 [Transformer girl](http://9gag.com/gag/aMVKoXX)<!-- MEMES:END -->
 
 ---
 

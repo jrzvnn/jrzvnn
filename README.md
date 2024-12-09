@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Octopus, Octopus](http://9gag.com/gag/a7oExeq)
- - 😝 [Not the ending you expect](http://9gag.com/gag/ajPmvZ1)
- - 💣 [Bro get in the car](http://9gag.com/gag/aXPoyjv)
  - 😝 [Transformer girl](http://9gag.com/gag/aMVKoXX)
- - 👉 [At least the view is nice](http://9gag.com/gag/aBy2z4O)<!-- MEMES:END -->
+ - 😝 [Well they get paid either way except I dont get looked at like I am a filth](http://9gag.com/gag/aAyb599)
+ - 💣 [Bridge Pillar Collapses](http://9gag.com/gag/a34EXnm)
+ - 😝 [Free massages](http://9gag.com/gag/a2v7eKd)
+ - 👉 [Hubba Hubba Hubba Aunty May](http://9gag.com/gag/aGypQow)<!-- MEMES:END -->
 
 ---
 

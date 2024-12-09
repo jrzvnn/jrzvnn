@@ -166,9 +166,9 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Syrians are celebrating the new regime in Syria, when are they going back? That&#39;s Dortmund.](http://9gag.com/gag/an7QmKn)
- - 😝 [Don&#39;t ignore!](http://9gag.com/gag/azxMpDB)
- - 💣 [Syrians celebrating in Warsaw Poland.](http://9gag.com/gag/aVv7pLM)
+ - 😝 [Relax buddy. You\u2019re in Japan](http://9gag.com/gag/aBy2AmD)
+ - 😝 [Syrians celebrating in Warsaw Poland.](http://9gag.com/gag/aVv7pLM)
+ - 💣 [Don&#39;t ignore!](http://9gag.com/gag/azxMpDB)
  - 😝 [...](http://9gag.com/gag/ae9An2Q)
  - 👉 [Bro get in the car](http://9gag.com/gag/aXPoyjv)<!-- MEMES:END -->
 

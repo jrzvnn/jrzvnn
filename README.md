@@ -158,10 +158,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- TECH:START -->
  - [A look at generative AI&#39;s impact, its structural issue of concentrated power among a few companies, and utopian questions over an alternative version of AI &lpar;Evgeny Morozov/Boston Review&rpar;](http://www.techmeme.com/241209/p5#a241209p5)
+ - [Could the Best CD Rates Drop Below 4% After the Next Fed Meeting? Today&#39;s CD Rates. Dec. 9, 2024](https://www.cnet.com/personal-finance/banking/could-the-best-cd-rates-drop-below-4-after-the-next-fed-meeting-todays-cd-rates-dec-9-2024/#ftag=CAD590a51e)
  - [Itch.io is currently offline due to a ‘trash AI-powered’ phishing report](https://www.theverge.com/2024/12/9/24316882/itch-io-offline-domain-registration-funko-report)
- - [Researchers say digital payments and cashless policies, which are picking up pace in the US, disadvantage a number of groups, including older adults &lpar;Paula Span/New York Times&rpar;](http://www.techmeme.com/241209/p4#a241209p4)
- - [Taking on the Tyranny of the Tech Bros](https://www.wired.com/story/tyranny-tech-bros-silicon-valley-activism/)
- - [GroupM expects global ad industry revenue to hit $1T for the first time in 2024; Google, Meta, ByteDance, Amazon, and Alibaba are set to earn 50%+ of the total &lpar;Daniel Thomas/Financial Times&rpar;](http://www.techmeme.com/241209/p3#a241209p3)<!-- TECH:END -->
+ - [Savings Rates Dropped Last Week, but You Can Still Find APYs Up to 5%. Today&#39;s Savings Rates, Dec. 9, 2024](https://www.cnet.com/personal-finance/banking/savings-rates-dropped-last-week-but-you-can-still-find-apys-up-to-5-todays-savings-rates-dec-9-2024/#ftag=CAD590a51e)
+ - [Researchers say digital payments and cashless policies, which are picking up pace in the US, disadvantage a number of groups, including older adults &lpar;Paula Span/New York Times&rpar;](http://www.techmeme.com/241209/p4#a241209p4)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

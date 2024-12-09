@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Congratulations on your parasite](http://9gag.com/gag/a87EgZ3)
- - 😝 [You thought you knew what a favela looked like...](http://9gag.com/gag/azxMwej)
- - 💣 [Bridge Pillar Collapses](http://9gag.com/gag/a34EXnm)
- - 😝 [He done f*cked up.](http://9gag.com/gag/a2v765w)
- - 👉 [At least the view is nice](http://9gag.com/gag/aBy2z4O)<!-- MEMES:END -->
+ - 😝 [Absolutely zero survival skills\ud83e\udd7a](http://9gag.com/gag/aqyjMOQ)
+ - 😝 [That was entrapment](http://9gag.com/gag/aAybAN9)
+ - 💣 [I stole it, maybe repost but great quality](http://9gag.com/gag/aE0p9w9)
+ - 😝 [This sparks joy!](http://9gag.com/gag/aD2dv1B)
+ - 👉 [He done f*cked up.](http://9gag.com/gag/a2v765w)<!-- MEMES:END -->
 
 ---
 

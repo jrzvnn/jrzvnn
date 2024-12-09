@@ -167,9 +167,9 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [Bridge Pillar Collapses](http://9gag.com/gag/a34EXnm)
- - 😝 [Easy mode](http://9gag.com/gag/aKG650j)
- - 💣 [That wishful look](http://9gag.com/gag/a4PEORw)
- - 😝 [One little thing](http://9gag.com/gag/aNDp550)
+ - 😝 [That wishful look](http://9gag.com/gag/a4PEORw)
+ - 💣 [Oscar winner Olivia Colman](http://9gag.com/gag/amoPevX)
+ - 😝 [Mark Rober video exposing Indian call centers showed several of the scammers using 9gag!](http://9gag.com/gag/a87ERN1)
  - 👉 [The TRUE nice guy! \ud83d\udc95](http://9gag.com/gag/aPA3E3G)<!-- MEMES:END -->
 
 ---

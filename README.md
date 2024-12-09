@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Bridge Pillar Collapses](http://9gag.com/gag/a34EXnm)
- - 😝 [This sparks joy!](http://9gag.com/gag/aD2dv1B)
- - 💣 [He done f*cked up.](http://9gag.com/gag/a2v765w)
+ - 😝 [The brown eyed monster](http://9gag.com/gag/aXPoOmb)
+ - 😝 [Boyfriend surprises his girlfriend with a wonderful reunion with her parents after being apart for so long](http://9gag.com/gag/ayNMONM)
+ - 💣 [Hubba Hubba Hubba Aunty May](http://9gag.com/gag/aGypQow)
  - 😝 [No cap, they\u2019re dropping quack beats! \ud83e\udd86\ud83d\udca5](http://9gag.com/gag/aoyMb9A)
- - 👉 [That wishful look](http://9gag.com/gag/a4PEORw)<!-- MEMES:END -->
+ - 👉 [Bro get in the car](http://9gag.com/gag/aXPoyjv)<!-- MEMES:END -->
 
 ---
 

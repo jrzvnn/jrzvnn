@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [You thought you knew what a favela looked like...](http://9gag.com/gag/azxMwej)
- - 😝 [Oscar winner Olivia Colman](http://9gag.com/gag/amoPevX)
- - 💣 [One little thing](http://9gag.com/gag/aNDp550)
- - 😝 [I can feel the pain from here](http://9gag.com/gag/a87EOQ3)
- - 👉 [Hubba Hubba Hubba Aunty May](http://9gag.com/gag/aGypQow)<!-- MEMES:END -->
+ - 😝 [...](http://9gag.com/gag/ae9An2Q)
+ - 😝 [Bro get in the car](http://9gag.com/gag/aXPoyjv)
+ - 💣 [Don&#39;t ignore!](http://9gag.com/gag/azxMpDB)
+ - 😝 [These birds saw a person feed an injured bird, so they all started pretending to be injured as well.](http://9gag.com/gag/a4PEXvd)
+ - 👉 [Have a nice weekend](http://9gag.com/gag/aD2dv29)<!-- MEMES:END -->
 
 ---
 

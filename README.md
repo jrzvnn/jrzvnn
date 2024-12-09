@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The best Bluetooth trackers for finding your stuff](https://www.theverge.com/23769840/best-bluetooth-trackers)
  - [Find Out the Best Time of Day to Exercise for Your Lifestyle](https://www.cnet.com/health/fitness/find-the-best-time-of-day-to-exercise/#ftag=CAD590a51e)
  - [&#39;Red One&#39; Streaming on Prime Video: Release Date and Time](https://www.cnet.com/tech/services-and-software/red-one-streaming-on-prime-video-release-date-and-time/#ftag=CAD590a51e)
  - [Social Security COLA 2025: Here&#39;s How Much Your Benefit Will Increase Next Month](https://www.cnet.com/personal-finance/social-security-cola-2025-heres-how-much-your-benefit-will-increase-next-month/#ftag=CAD590a51e)
- - [Keep Your iPhone Charged With This 3-in-1 Anker Changer, Now at a Record Low](https://www.cnet.com/deals/keep-your-iphone-charged-with-this-3-in-1-anker-changer-now-at-a-record-low/#ftag=CAD590a51e)
- - [Google’s Pixel Tablet has returned to its Black Friday all-time low price](https://www.theverge.com/2024/12/9/24317037/google-pixel-tablet-ue-wonderboom-4-deal-sale)<!-- TECH:END -->
+ - [Keep Your iPhone Charged With This 3-in-1 Anker Changer, Now at a Record Low](https://www.cnet.com/deals/keep-your-iphone-charged-with-this-3-in-1-anker-changer-now-at-a-record-low/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

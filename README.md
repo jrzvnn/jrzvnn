@@ -166,9 +166,9 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [This is what being very rich looks like](http://9gag.com/gag/a5QE40O)
- - 😝 [For the First Time in History, We Have a Clear Image of a Star in Another Galaxy](http://9gag.com/gag/aD2dKyK)
- - 💣 [Oscar winner Olivia Colman](http://9gag.com/gag/amoPevX)
+ - 😝 [Just a thought](http://9gag.com/gag/aAybjOL)
+ - 😝 [Dogs are Angels](http://9gag.com/gag/aqyjqmj)
+ - 💣 [Syria today. The dictator is gone, long live the new dictator. Belgian cartoon](http://9gag.com/gag/aKG6RZ1)
  - 😝 [No cap, they\u2019re dropping quack beats! \ud83e\udd86\ud83d\udca5](http://9gag.com/gag/aoyMb9A)
  - 👉 [The way this food vendor cuts and debones the chicken.](http://9gag.com/gag/a4PEDNA)<!-- MEMES:END -->
 

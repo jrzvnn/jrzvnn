@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Mark Rober video exposing Indian call centers showed several of the scammers using 9gag!](http://9gag.com/gag/a87ERN1)
- - 😝 [Dark](http://9gag.com/gag/avy5w1q)
- - 💣 [Absolutely zero survival skills\ud83e\udd7a](http://9gag.com/gag/aqyjMOQ)
+ - 😝 [You thought you knew what a favela looked like...](http://9gag.com/gag/azxMwej)
+ - 😝 [Oscar winner Olivia Colman](http://9gag.com/gag/amoPevX)
+ - 💣 [One little thing](http://9gag.com/gag/aNDp550)
  - 😝 [I can feel the pain from here](http://9gag.com/gag/a87EOQ3)
- - 👉 [They&#39;re so realistic](http://9gag.com/gag/a6ZEPOq)<!-- MEMES:END -->
+ - 👉 [Hubba Hubba Hubba Aunty May](http://9gag.com/gag/aGypQow)<!-- MEMES:END -->
 
 ---
 

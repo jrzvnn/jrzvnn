@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [A look at generative AI&#39;s impact, its structural issue of concentrated power among a few companies, and utopian questions over an alternative version of AI &lpar;Evgeny Morozov/Boston Review&rpar;](http://www.techmeme.com/241209/p5#a241209p5)
  - [Itch.io is currently offline due to a ‘trash AI-powered’ phishing report](https://www.theverge.com/2024/12/9/24316882/itch-io-offline-domain-registration-funko-report)
  - [Researchers say digital payments and cashless policies, which are picking up pace in the US, disadvantage a number of groups, including older adults &lpar;Paula Span/New York Times&rpar;](http://www.techmeme.com/241209/p4#a241209p4)
  - [Taking on the Tyranny of the Tech Bros](https://www.wired.com/story/tyranny-tech-bros-silicon-valley-activism/)
- - [GroupM expects global ad industry revenue to hit $1T for the first time in 2024; Google, Meta, ByteDance, Amazon, and Alibaba are set to earn 50%+ of the total &lpar;Daniel Thomas/Financial Times&rpar;](http://www.techmeme.com/241209/p3#a241209p3)
- - [How Russia-linked Akira group&#39;s ransomware attack on Knights of Old in June 2023 led to the 158-year-old UK delivery firm&#39;s bankruptcy after it refused to pay &lpar;Ryan Gallagher/Bloomberg&rpar;](http://www.techmeme.com/241209/p2#a241209p2)<!-- TECH:END -->
+ - [GroupM expects global ad industry revenue to hit $1T for the first time in 2024; Google, Meta, ByteDance, Amazon, and Alibaba are set to earn 50%+ of the total &lpar;Daniel Thomas/Financial Times&rpar;](http://www.techmeme.com/241209/p3#a241209p3)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

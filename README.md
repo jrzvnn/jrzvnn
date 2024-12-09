@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Bro get in the car](http://9gag.com/gag/aXPoyjv)
- - 😝 [This sparks joy!](http://9gag.com/gag/aD2dv1B)
- - 💣 [Oscar winner Olivia Colman](http://9gag.com/gag/amoPevX)
+ - 😝 [How is this even possible!](http://9gag.com/gag/aZZ0e4X)
+ - 😝 [Stressed? F*#k off!](http://9gag.com/gag/agmBWex)
+ - 💣 [One little thing](http://9gag.com/gag/aNDp550)
  - 😝 [No cap, they\u2019re dropping quack beats! \ud83e\udd86\ud83d\udca5](http://9gag.com/gag/aoyMb9A)
- - 👉 [The TRUE nice guy! \ud83d\udc95](http://9gag.com/gag/aPA3E3G)<!-- MEMES:END -->
+ - 👉 [Mark Rober video exposing Indian call centers showed several of the scammers using 9gag!](http://9gag.com/gag/a87ERN1)<!-- MEMES:END -->
 
 ---
 

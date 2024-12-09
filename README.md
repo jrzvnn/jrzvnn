@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Mark Rober video exposing Indian call centers showed several of the scammers using 9gag!](http://9gag.com/gag/a87ERN1)
- - 😝 [Stressed? F*#k off!](http://9gag.com/gag/agmBWex)
- - 💣 [One little thing](http://9gag.com/gag/aNDp550)
+ - 😝 [But is it ever enough?](http://9gag.com/gag/a34EXKe)
+ - 😝 [Have a nice weekend](http://9gag.com/gag/aD2dv29)
+ - 💣 [These birds saw a person feed an injured bird, so they all started pretending to be injured as well.](http://9gag.com/gag/a4PEXvd)
  - 😝 [No cap, they\u2019re dropping quack beats! \ud83e\udd86\ud83d\udca5](http://9gag.com/gag/aoyMb9A)
- - 👉 [How is this even possible!](http://9gag.com/gag/aZZ0e4X)<!-- MEMES:END -->
+ - 👉 [Next!](http://9gag.com/gag/aPA3EXP)<!-- MEMES:END -->
 
 ---
 

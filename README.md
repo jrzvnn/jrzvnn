@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Love gone wrong](http://9gag.com/gag/aPA3bMG)
- - 😝 [Transformer girl](http://9gag.com/gag/aMVKoXX)
- - 💣 [He done f*cked up.](http://9gag.com/gag/a2v765w)
+ - 😝 [This is what being very rich looks like](http://9gag.com/gag/a5QE40O)
+ - 😝 [For the First Time in History, We Have a Clear Image of a Star in Another Galaxy](http://9gag.com/gag/aD2dKyK)
+ - 💣 [Oscar winner Olivia Colman](http://9gag.com/gag/amoPevX)
  - 😝 [No cap, they\u2019re dropping quack beats! \ud83e\udd86\ud83d\udca5](http://9gag.com/gag/aoyMb9A)
- - 👉 [The brown eyed monster](http://9gag.com/gag/aXPoOmb)<!-- MEMES:END -->
+ - 👉 [The way this food vendor cuts and debones the chicken.](http://9gag.com/gag/a4PEDNA)<!-- MEMES:END -->
 
 ---
 

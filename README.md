@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Stressed? F*#k off!](http://9gag.com/gag/agmBWex)
- - 😝 [The TRUE nice guy! \ud83d\udc95](http://9gag.com/gag/aPA3E3G)
- - 💣 [No cap, they\u2019re dropping quack beats! \ud83e\udd86\ud83d\udca5](http://9gag.com/gag/aoyMb9A)
- - 😝 [One little thing](http://9gag.com/gag/aNDp550)
- - 👉 [That wishful look](http://9gag.com/gag/a4PEORw)<!-- MEMES:END -->
+ - 😝 [But is it ever enough?](http://9gag.com/gag/a34EXKe)
+ - 😝 [Have a nice weekend](http://9gag.com/gag/aD2dv29)
+ - 💣 [You are not a war refugees anymore. Your homeland needs you. Go back and fix it](http://9gag.com/gag/an7Qmqb)
+ - 😝 [No cap, they\u2019re dropping quack beats! \ud83e\udd86\ud83d\udca5](http://9gag.com/gag/aoyMb9A)
+ - 👉 [Would you please sign my petition or will it be your remaining family members?](http://9gag.com/gag/aQzoGVe)<!-- MEMES:END -->
 
 ---
 

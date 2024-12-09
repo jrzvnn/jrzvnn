@@ -166,7 +166,7 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [...](http://9gag.com/gag/ae9An2Q)
+ - 😝 [I stole it, maybe repost but great quality](http://9gag.com/gag/aE0p9w9)
  - 😝 [Bro get in the car](http://9gag.com/gag/aXPoyjv)
  - 💣 [Don&#39;t ignore!](http://9gag.com/gag/azxMpDB)
  - 😝 [These birds saw a person feed an injured bird, so they all started pretending to be injured as well.](http://9gag.com/gag/a4PEXvd)

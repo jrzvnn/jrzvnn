@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [One little thing](http://9gag.com/gag/aNDp550)
- - 😝 [That wishful look](http://9gag.com/gag/a4PEORw)
- - 💣 [This sparks joy!](http://9gag.com/gag/aD2dv1B)
+ - 😝 [Bro get in the car](http://9gag.com/gag/aXPoyjv)
+ - 😝 [This sparks joy!](http://9gag.com/gag/aD2dv1B)
+ - 💣 [Oscar winner Olivia Colman](http://9gag.com/gag/amoPevX)
  - 😝 [No cap, they\u2019re dropping quack beats! \ud83e\udd86\ud83d\udca5](http://9gag.com/gag/aoyMb9A)
- - 👉 [Bro get in the car](http://9gag.com/gag/aXPoyjv)<!-- MEMES:END -->
+ - 👉 [The TRUE nice guy! \ud83d\udc95](http://9gag.com/gag/aPA3E3G)<!-- MEMES:END -->
 
 ---
 

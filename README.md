@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Manchester City is letting fans design its new kit with AI](https://www.theverge.com/2024/12/9/24317157/manchester-city-puma-ai-uniform-design)
+ - [The best Android phones for everyone](https://www.theverge.com/23674658/best-android-phone)
  - [Apple Pay’s first competitor on the iPhone has arrived in Norway](https://www.theverge.com/2024/12/9/24317198/apple-pay-iphone-nfc-payment-vipps-norway)
  - [Police Arrest UHC CEO Shooting Suspect, App Developer Luigi Mangione](https://www.wired.com/story/luigi-mangione-arrested-uhc-shooting/)
- - [It sure sounds like Trump would be okay with a TikTok sale](https://www.theverge.com/2024/12/9/24317094/donald-trump-tiktok-ban-sale-meet-the-press-interview)
- - [AI is booming on the App Store, and developers are taking advantage of it](https://www.theverge.com/2024/12/9/24314972/apple-app-store-ai-apps-art-design-photography)
- - [OpenAI says the depiction of minors is limited with Sora, and only a &quot;subset&quot; of users can create videos of a real person using uploaded footage of that person &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/241209/p25#a241209p25)<!-- TECH:END -->
+ - [It sure sounds like Trump would be okay with a TikTok sale](https://www.theverge.com/2024/12/9/24317094/donald-trump-tiktok-ban-sale-meet-the-press-interview)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

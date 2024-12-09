@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Meta’s new Quest update has faster hand tracking and at-a-glance PC connections](https://www.theverge.com/2024/12/9/24317237/meta-quest-v72-update-pc-pairing-hand-tracking-keyboard-look)
+ - [In New Trailer for &#39;Invincible&#39; Season 3, Mark Turns On His Boss](https://www.cnet.com/tech/services-and-software/in-new-trailer-for-invincible-season-3-mark-turns-on-his-boss/#ftag=CAD590a51e)
  - [Oracle reports Q2 revenue up 9% YoY to $14.06B, vs. $14.1B est., says it made a deal with Meta for training Llama models on its cloud; ORCL down 6%+ after hours &lpar;Jonathan Vanian/CNBC&rpar;](http://www.techmeme.com/241209/p26#a241209p26)
- - [Scientists advise EU to halt solar geoengineering](https://www.theverge.com/2024/12/9/24317108/solar-geoengineering-european-commission-moratorium)
- - [Manchester City is letting fans design its new kit with AI](https://www.theverge.com/2024/12/9/24317157/manchester-city-puma-ai-uniform-design)
- - [The best Android phones for everyone](https://www.theverge.com/23674658/best-android-phone)
- - [Apple Pay’s first competitor on the iPhone has arrived in Norway](https://www.theverge.com/2024/12/9/24317198/apple-pay-iphone-nfc-payment-vipps-norway)<!-- TECH:END -->
+ - [Best 55-Inch TVs of 2024](https://www.cnet.com/tech/home-entertainment/best-55-inch-tv/#ftag=CAD590a51e)
+ - [Scientists advise EU to halt solar geoengineering](https://www.theverge.com/2024/12/9/24317108/solar-geoengineering-european-commission-moratorium)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

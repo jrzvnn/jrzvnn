@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [The brown eyed monster](http://9gag.com/gag/aXPoOmb)
- - 😝 [Sorry for the cancer, but someone finaly did it !](http://9gag.com/gag/aXPo6V9)
- - 💣 [Mark Rober video exposing Indian call centers showed several of the scammers using 9gag!](http://9gag.com/gag/a87ERN1)
+ - 😝 [Transformer girl](http://9gag.com/gag/aMVKoXX)
+ - 😝 [Well they get paid either way except I dont get looked at like I am a filth](http://9gag.com/gag/aAyb599)
+ - 💣 [Sorry for the cancer, but someone finaly did it !](http://9gag.com/gag/aXPo6V9)
  - 😝 [Bridge Pillar Collapses](http://9gag.com/gag/a34EXnm)
- - 👉 [Performing with an oxygen tank at 23yrs old is diabetical](http://9gag.com/gag/ajPmwGG)<!-- MEMES:END -->
+ - 👉 [Dark](http://9gag.com/gag/avy5w1q)<!-- MEMES:END -->
 
 ---
 

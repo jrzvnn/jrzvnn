@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [This sparks joy!](http://9gag.com/gag/aD2dv1B)
- - 😝 [A high school football star spent six years in prison accused of a false rape charge, which was dismissed after his 16-year-old accuser admitted the incident had been fabricated. He became very emotional when the case was closed.](http://9gag.com/gag/a34E6Ze)
- - 💣 [They&#39;re so realistic](http://9gag.com/gag/a6ZEPOq)
+ - 😝 [The brown eyed monster](http://9gag.com/gag/aXPoOmb)
+ - 😝 [That wishful look](http://9gag.com/gag/a4PEORw)
+ - 💣 [Stressed? F*#k off!](http://9gag.com/gag/agmBWex)
  - 😝 [No cap, they\u2019re dropping quack beats! \ud83e\udd86\ud83d\udca5](http://9gag.com/gag/aoyMb9A)
- - 👉 [I stole it, maybe repost but great quality](http://9gag.com/gag/aE0p9w9)<!-- MEMES:END -->
+ - 👉 [Freedom intensifies](http://9gag.com/gag/aBy2BbD)<!-- MEMES:END -->
 
 ---
 

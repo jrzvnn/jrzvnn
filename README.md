@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Muscle Implants Could Allow Mind-Controlled Prosthetics—No Brain Surgery Required](https://www.wired.com/story/amputees-could-control-prosthetics-with-just-their-thoughts-no-brain-surgery-required-phantom-neuro/)
+ - [Xiaomi’s next EV will be the YU7, coming summer 2025](https://www.theverge.com/2024/12/9/24317074/xiaomi-yu7-ev-suv-china-2025)
+ - [Best Internet Providers in Columbia, South Carolina](https://www.cnet.com/home/internet/best-internet-providers-in-columbia-sc/#ftag=CAD590a51e)
  - [Google says it had a major quantum error correction breakthrough, unveils its Willow quantum chip with 105 improved qubits, and shares benchmarks and a roadmap &lpar;John Russell/HPCwire&rpar;](http://www.techmeme.com/241209/p21#a241209p21)
- - [Best Gifts for Hikers, Backpackers, Outdoorsy People &lpar;2024&rpar;](https://www.wired.com/gallery/awesome-gifts-for-hikers-backpackers-and-outdoorsy-people/)
- - [TikTok tried to save itself with the First Amendment — and failed](https://www.theverge.com/2024/12/9/24316941/tiktok-divest-ban-court-ruling-breakdown-first-amendment)
- - [Microsoft’s AI boss and Sam Altman disagree on what it takes to get to AGI](https://www.theverge.com/2024/12/9/24316969/mustafa-suleyman-sam-altman-microsoft-openai-agi)
- - [We’ve Found Amazon Fire Tablets for Up to Half Off Just Before the Holidays](https://www.cnet.com/deals/weve-found-amazon-fire-tablets-for-up-to-half-off-just-before-the-holidays/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [These Eufy Smart Locks Start at $80 Just in Time for Your Holiday Trip](https://www.cnet.com/deals/these-eufy-smart-locks-start-at-80-just-in-time-for-your-holiday-trip/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

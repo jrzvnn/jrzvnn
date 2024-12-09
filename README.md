@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Filing: TikTok asks a US court to put on hold a law forcing a sale or ban of the app until SCOTUS can review it and the Trump admin can decide its position &lpar;Sabrina Willmer/Bloomberg&rpar;](http://www.techmeme.com/241209/p18#a241209p18)
- - [Here&#39;s where to get Apple&#39;s M3 MacBook Air 16GB for $899 with delivery by Christmas](https://appleinsider.com/articles/24/12/09/heres-where-to-get-apples-m3-macbook-air-16gb-for-899-with-delivery-by-christmas?utm_medium=rss)
- - [&#39;Slow Horses&#39; and &#39;Disclaimer&#39; lead Apple&#39;s Golden Globes nominations](https://appleinsider.com/articles/24/12/09/slow-horses-and-disclaimer-lead-apples-golden-globes-nominations?utm_medium=rss)
- - [WaveForms, which aims to create AI assistants that pick up on emotional cues from verbal interactions, raised a $40M seed from a16z at a $200M valuation &lpar;Rachel Metz/Bloomberg&rpar;](http://www.techmeme.com/241209/p17#a241209p17)
- - [Reddit says it is testing Reddit Answers, which lets select US users ask questions and receive curated summaries of relevant responses and threads in English &lpar;Aisha Malik/TechCrunch&rpar;](http://www.techmeme.com/241209/p16#a241209p16)<!-- TECH:END -->
+ - [Q&amp;A with Microsoft AI CEO Mustafa Suleyman on AGI, Copilot, AI agents, the OpenAI deal, joining Microsoft in March 2024, managing ~10K staff, DeepMind, and more &lpar;Nilay Patel/The Verge&rpar;](http://www.techmeme.com/241209/p20#a241209p20)
+ - [33 Best STEM Toys for Kids &lpar;2024&rpar;: Make Learning Fun](https://www.wired.com/gallery/best-stem-toys-for-kids/)
+ - [Cloudflare 2024 report: global internet traffic grew 17.2% in 2024, Google remained the top service, global traffic from Starlink grew 3.3x in 2024, and more &lpar;David Belson/The Cloudflare Blog&rpar;](http://www.techmeme.com/241209/p19#a241209p19)
+ - [Searching for color at Pantone’s all-brown party](https://www.theverge.com/24316196/pantone-2025-color-of-the-year-mocha-mousse-party)
+ - [Lego Fortnite is getting a big expansion with a GTA-style roleplaying city](https://www.theverge.com/2024/12/9/24316954/lego-fortnite-brick-life-social-roleplay-game)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

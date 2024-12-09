@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Researchers say digital payments and cashless policies, which are picking up pace in the US, disadvantage a number of groups, including older adults &lpar;Paula Span/New York Times&rpar;](http://www.techmeme.com/241209/p4#a241209p4)
  - [Taking on the Tyranny of the Tech Bros](https://www.wired.com/story/tyranny-tech-bros-silicon-valley-activism/)
  - [GroupM expects global ad industry revenue to hit $1T for the first time in 2024; Google, Meta, ByteDance, Amazon, and Alibaba are set to earn 50%+ of the total &lpar;Daniel Thomas/Financial Times&rpar;](http://www.techmeme.com/241209/p3#a241209p3)
  - [How Russia-linked Akira group&#39;s ransomware attack on Knights of Old in June 2023 led to the 158-year-old UK delivery firm&#39;s bankruptcy after it refused to pay &lpar;Ryan Gallagher/Bloomberg&rpar;](http://www.techmeme.com/241209/p2#a241209p2)
- - [A study involving 747,604 women finds those who paid extra for AI-enhanced mammograms were 21% more likely to have breast cancer detected than those who didn&#39;t &lpar;Margherita Bassi/Gizmodo&rpar;](http://www.techmeme.com/241209/p1#a241209p1)
- - [A randomized study at a corporate lab employing more than 1,000 researchers: teams using AI discovered 44% more new materials than teams with standard workflows &lpar;Davide Castelvecchi/Nature&rpar;](http://www.techmeme.com/241208/p19#a241208p19)<!-- TECH:END -->
+ - [A study involving 747,604 women finds those who paid extra for AI-enhanced mammograms were 21% more likely to have breast cancer detected than those who didn&#39;t &lpar;Margherita Bassi/Gizmodo&rpar;](http://www.techmeme.com/241209/p1#a241209p1)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

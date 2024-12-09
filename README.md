@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Relax buddy. You\u2019re in Japan](http://9gag.com/gag/aBy2AmD)
- - 😝 [...](http://9gag.com/gag/ae9An2Q)
- - 💣 [These birds saw a person feed an injured bird, so they all started pretending to be injured as well.](http://9gag.com/gag/a4PEXvd)
- - 😝 [Don&#39;t ignore!](http://9gag.com/gag/azxMpDB)
- - 👉 [Bro get in the car](http://9gag.com/gag/aXPoyjv)<!-- MEMES:END -->
+ - 😝 [Octopus, Octopus](http://9gag.com/gag/a7oExeq)
+ - 😝 [Not the ending you expect](http://9gag.com/gag/ajPmvZ1)
+ - 💣 [Bro get in the car](http://9gag.com/gag/aXPoyjv)
+ - 😝 [Transformer girl](http://9gag.com/gag/aMVKoXX)
+ - 👉 [At least the view is nice](http://9gag.com/gag/aBy2z4O)<!-- MEMES:END -->
 
 ---
 

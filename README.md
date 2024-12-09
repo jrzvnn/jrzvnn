@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [Mark Rober video exposing Indian call centers showed several of the scammers using 9gag!](http://9gag.com/gag/a87ERN1)
  - 😝 [Dark](http://9gag.com/gag/avy5w1q)
- - 😝 [I stole it, maybe repost but great quality](http://9gag.com/gag/aE0p9w9)
- - 💣 [Well they get paid either way except I dont get looked at like I am a filth](http://9gag.com/gag/aAyb599)
- - 😝 [He done f*cked up.](http://9gag.com/gag/a2v765w)
- - 👉 [I can feel the pain from here](http://9gag.com/gag/a87EOQ3)<!-- MEMES:END -->
+ - 💣 [Absolutely zero survival skills\ud83e\udd7a](http://9gag.com/gag/aqyjMOQ)
+ - 😝 [I can feel the pain from here](http://9gag.com/gag/a87EOQ3)
+ - 👉 [They&#39;re so realistic](http://9gag.com/gag/a6ZEPOq)<!-- MEMES:END -->
 
 ---
 

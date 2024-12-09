@@ -159,9 +159,9 @@ R                        1 repo              ░░░░░░░░░░░�
 <!-- TECH:START -->
  - [TikTok tried to save itself with the First Amendment — and failed](https://www.theverge.com/2024/12/9/24316941/tiktok-divest-ban-court-ruling-breakdown-first-amendment)
  - [Microsoft’s AI boss and Sam Altman disagree on what it takes to get to AGI](https://www.theverge.com/2024/12/9/24316969/mustafa-suleyman-sam-altman-microsoft-openai-agi)
+ - [We’ve Found Amazon Fire Tablets for Up to Half Off Just Before the Holidays](https://www.cnet.com/deals/weve-found-amazon-fire-tablets-for-up-to-half-off-just-before-the-holidays/#ftag=CAD590a51e)
  - [Q&amp;A with Microsoft AI CEO Mustafa Suleyman on AGI, Copilot, AI agents, the OpenAI deal, joining Microsoft in March 2024, managing ~10K staff, DeepMind, and more &lpar;Nilay Patel/The Verge&rpar;](http://www.techmeme.com/241209/p20#a241209p20)
- - [33 Best STEM Toys for Kids &lpar;2024&rpar;: Make Learning Fun](https://www.wired.com/gallery/best-stem-toys-for-kids/)
- - [Cloudflare 2024 report: global internet traffic grew 17.2% in 2024, Google remained the top service, global traffic from Starlink grew 3.3x in 2024, and more &lpar;David Belson/The Cloudflare Blog&rpar;](http://www.techmeme.com/241209/p19#a241209p19)<!-- TECH:END -->
+ - [33 Best STEM Toys for Kids &lpar;2024&rpar;: Make Learning Fun](https://www.wired.com/gallery/best-stem-toys-for-kids/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

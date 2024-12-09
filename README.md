@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [A look at Grand Theft Auto VI, set for release in 2025 after Rockstar started development in 2018, as Rockstar tries to improve its culture after the 2022 hack &lpar;Jason Schreier/Bloomberg&rpar;](http://www.techmeme.com/241209/p15#a241209p15)
  - [Ukrainian officials worry over Telegram, which has soared in popularity during the war with Russia, questioning if its upsides outweigh the its security risks &lpar;New York Times&rpar;](http://www.techmeme.com/241209/p14#a241209p14)
  - [Surprising rumor says new HomePod will get high-quality OLED screen](https://appleinsider.com/articles/24/12/09/surprising-rumor-says-new-homepod-will-get-high-quality-oled-screen?utm_medium=rss)
  - [48 Hours in Tokyo With My AI Travel Companion](https://www.wired.com/story/48-hours-in-tokyo-with-my-ai-travel-companion/)
- - [Lenovo IdeaPad Flex 5i Review: A Solid Budget Windows Laptop](https://www.wired.com/review/lenovo-ideapad-flex-5i/)
- - [Russian documents and sources detail how Putin&#39;s forces have been able to keep buying US chips, including $6M from Texas Instruments, via a Russian distributor &lpar;Bloomberg&rpar;](http://www.techmeme.com/241209/p13#a241209p13)<!-- TECH:END -->
+ - [Lenovo IdeaPad Flex 5i Review: A Solid Budget Windows Laptop](https://www.wired.com/review/lenovo-ideapad-flex-5i/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

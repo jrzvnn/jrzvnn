@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [I stole it, maybe repost but great quality](http://9gag.com/gag/aE0p9w9)
- - 😝 [Well they get paid either way except I dont get looked at like I am a filth](http://9gag.com/gag/aAyb599)
- - 💣 [Not the ending you expect](http://9gag.com/gag/ajPmvZ1)
- - 😝 [I would be so confused](http://9gag.com/gag/a1mrgNR)
- - 👉 [Performing with an oxygen tank at 23yrs old is diabetical](http://9gag.com/gag/ajPmwGG)<!-- MEMES:END -->
+ - 😝 [Relax buddy. You\u2019re in Japan](http://9gag.com/gag/aBy2AmD)
+ - 😝 [...](http://9gag.com/gag/ae9An2Q)
+ - 💣 [These birds saw a person feed an injured bird, so they all started pretending to be injured as well.](http://9gag.com/gag/a4PEXvd)
+ - 😝 [Don&#39;t ignore!](http://9gag.com/gag/azxMpDB)
+ - 👉 [Bro get in the car](http://9gag.com/gag/aXPoyjv)<!-- MEMES:END -->
 
 ---
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [I can feel the pain from here](http://9gag.com/gag/a87EOQ3)
- - 😝 [Transformer girl](http://9gag.com/gag/aMVKoXX)
- - 💣 [Oscar winner Olivia Colman](http://9gag.com/gag/amoPevX)
- - 😝 [Well they get paid either way except I dont get looked at like I am a filth](http://9gag.com/gag/aAyb599)
- - 👉 [That wishful look](http://9gag.com/gag/a4PEORw)<!-- MEMES:END -->
+ - 😝 [Bridge Pillar Collapses](http://9gag.com/gag/a34EXnm)
+ - 😝 [Easy mode](http://9gag.com/gag/aKG650j)
+ - 💣 [That wishful look](http://9gag.com/gag/a4PEORw)
+ - 😝 [One little thing](http://9gag.com/gag/aNDp550)
+ - 👉 [The TRUE nice guy! \ud83d\udc95](http://9gag.com/gag/aPA3E3G)<!-- MEMES:END -->
 
 ---
 

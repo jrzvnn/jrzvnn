@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [The brown eyed monster](http://9gag.com/gag/aXPoOmb)
- - 😝 [NeverEnding story horse goes zzz](http://9gag.com/gag/aLnpEdg)
- - 💣 [Stressed? F*#k off!](http://9gag.com/gag/agmBWex)
+ - 😝 [Next!](http://9gag.com/gag/aPA3EXP)
+ - 😝 [This is what being very rich looks like](http://9gag.com/gag/a5QE40O)
+ - 💣 [The brown eyed monster](http://9gag.com/gag/aXPoOmb)
  - 😝 [No cap, they\u2019re dropping quack beats! \ud83e\udd86\ud83d\udca5](http://9gag.com/gag/aoyMb9A)
- - 👉 [This sparks joy!](http://9gag.com/gag/aD2dv1B)<!-- MEMES:END -->
+ - 👉 [Stressed? F*#k off!](http://9gag.com/gag/agmBWex)<!-- MEMES:END -->
 
 ---
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Next!](http://9gag.com/gag/aPA3EXP)
- - 😝 [These birds saw a person feed an injured bird, so they all started pretending to be injured as well.](http://9gag.com/gag/a4PEXvd)
- - 💣 [Would you please sign my petition or will it be your remaining family members?](http://9gag.com/gag/aQzoGVe)
+ - 😝 [The brown eyed monster](http://9gag.com/gag/aXPoOmb)
+ - 😝 [NeverEnding story horse goes zzz](http://9gag.com/gag/aLnpEdg)
+ - 💣 [Stressed? F*#k off!](http://9gag.com/gag/agmBWex)
  - 😝 [No cap, they\u2019re dropping quack beats! \ud83e\udd86\ud83d\udca5](http://9gag.com/gag/aoyMb9A)
- - 👉 [Dogs are Angels](http://9gag.com/gag/aqyjqmj)<!-- MEMES:END -->
+ - 👉 [This sparks joy!](http://9gag.com/gag/aD2dv1B)<!-- MEMES:END -->
 
 ---
 

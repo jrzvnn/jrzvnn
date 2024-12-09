@@ -167,10 +167,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [Daniel Penny](http://9gag.com/gag/a0e72GZ)
- - 😝 [Oscar winner Olivia Colman](http://9gag.com/gag/amoPevX)
- - 💣 [Octopus, Octopus](http://9gag.com/gag/a7oExeq)
+ - 😝 [Here&#39;s Leslie Nielsen in his younger days.](http://9gag.com/gag/a9yE9Dj)
+ - 💣 [Stressed? F*#k off!](http://9gag.com/gag/agmBWex)
  - 😝 [No cap, they\u2019re dropping quack beats! \ud83e\udd86\ud83d\udca5](http://9gag.com/gag/aoyMb9A)
- - 👉 [Transformer girl](http://9gag.com/gag/aMVKoXX)<!-- MEMES:END -->
+ - 👉 [Oscar winner Olivia Colman](http://9gag.com/gag/amoPevX)<!-- MEMES:END -->
 
 ---
 

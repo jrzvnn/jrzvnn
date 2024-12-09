@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Daniel Penny](http://9gag.com/gag/a0e72GZ)
- - 😝 [Here&#39;s Leslie Nielsen in his younger days.](http://9gag.com/gag/a9yE9Dj)
- - 💣 [Stressed? F*#k off!](http://9gag.com/gag/agmBWex)
+ - 😝 [Love gone wrong](http://9gag.com/gag/aPA3bMG)
+ - 😝 [Transformer girl](http://9gag.com/gag/aMVKoXX)
+ - 💣 [He done f*cked up.](http://9gag.com/gag/a2v765w)
  - 😝 [No cap, they\u2019re dropping quack beats! \ud83e\udd86\ud83d\udca5](http://9gag.com/gag/aoyMb9A)
- - 👉 [Oscar winner Olivia Colman](http://9gag.com/gag/amoPevX)<!-- MEMES:END -->
+ - 👉 [The brown eyed monster](http://9gag.com/gag/aXPoOmb)<!-- MEMES:END -->
 
 ---
 

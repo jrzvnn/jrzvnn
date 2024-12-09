@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [The brown eyed monster](http://9gag.com/gag/aXPoOmb)
- - 😝 [That wishful look](http://9gag.com/gag/a4PEORw)
- - 💣 [Stressed? F*#k off!](http://9gag.com/gag/agmBWex)
+ - 😝 [Bridge Pillar Collapses](http://9gag.com/gag/a34EXnm)
+ - 😝 [This sparks joy!](http://9gag.com/gag/aD2dv1B)
+ - 💣 [He done f*cked up.](http://9gag.com/gag/a2v765w)
  - 😝 [No cap, they\u2019re dropping quack beats! \ud83e\udd86\ud83d\udca5](http://9gag.com/gag/aoyMb9A)
- - 👉 [Freedom intensifies](http://9gag.com/gag/aBy2BbD)<!-- MEMES:END -->
+ - 👉 [That wishful look](http://9gag.com/gag/a4PEORw)<!-- MEMES:END -->
 
 ---
 

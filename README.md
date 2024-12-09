@@ -166,9 +166,9 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Just a thought](http://9gag.com/gag/aAybjOL)
- - 😝 [Dogs are Angels](http://9gag.com/gag/aqyjqmj)
- - 💣 [Syria today. The dictator is gone, long live the new dictator. Belgian cartoon](http://9gag.com/gag/aKG6RZ1)
+ - 😝 [Always.](http://9gag.com/gag/a4PEO71)
+ - 😝 [Oscar winner Olivia Colman](http://9gag.com/gag/amoPevX)
+ - 💣 [Sorry for the cancer, but someone finaly did it !](http://9gag.com/gag/aXPo6V9)
  - 😝 [No cap, they\u2019re dropping quack beats! \ud83e\udd86\ud83d\udca5](http://9gag.com/gag/aoyMb9A)
  - 👉 [The way this food vendor cuts and debones the chicken.](http://9gag.com/gag/a4PEDNA)<!-- MEMES:END -->
 

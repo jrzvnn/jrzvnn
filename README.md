@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Norway gets world&#39;s first Apple Pay alternative for iPhone](https://appleinsider.com/articles/24/12/09/norway-gets-worlds-first-apple-pay-alternative-for-iphone?utm_medium=rss)
  - [Filing: Japanese chipmaker Kioxia set its IPO price at ~$9.70, the middle of the range, raising ~$800M and valuing it at ~$5.2B, ahead of a December 18 listing &lpar;Reuters&rpar;](http://www.techmeme.com/241209/p8#a241209p8)
  - [Meet the Plant Hacker Creating Flowers Never Seen &lpar;or Smelled&rpar; Before](https://www.wired.com/story/meet-the-plant-hacker-creating-flowers-never-seen-or-smelled-before/)
  - [Apple Stores coming to Saudi Arabia for the first time](https://appleinsider.com/articles/24/12/09/apple-stores-coming-to-saudi-arabia-for-the-first-time?utm_medium=rss)
- - [Researchers: Meta let 25 Facebook Pages run 4K+ ads attacking Romania&#39;s pro-EU candidate and promoting far-right figures, hitting 199M+ views since August 2024 &lpar;Daniel Zuidijk/Bloomberg&rpar;](http://www.techmeme.com/241209/p7#a241209p7)
- - [How FRED, a data tool created in 1991 by the St. Louis Federal Reserve, gained a major following in recent years, hitting nearly 15M website users in 2023 &lpar;Jeanna Smialek/New York Times&rpar;](http://www.techmeme.com/241209/p6#a241209p6)<!-- TECH:END -->
+ - [Researchers: Meta let 25 Facebook Pages run 4K+ ads attacking Romania&#39;s pro-EU candidate and promoting far-right figures, hitting 199M+ views since August 2024 &lpar;Daniel Zuidijk/Bloomberg&rpar;](http://www.techmeme.com/241209/p7#a241209p7)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

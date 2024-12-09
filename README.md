@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Raspberry Pi 500 review: the Pi 5&#39;s power in a convenient keyboard form factor with awesome thermal performance, but lacks NVMe storage and camera connections &lpar;Les Pounder/Tom&#39;s Hardware&rpar;](http://www.techmeme.com/241209/p12#a241209p12)
- - [Google Gemini Can Summarize Your Emails in Gmail. Should You Use It?](https://www.wired.com/story/google-gemini-summarize-emails-in-gmail/)
- - [Your Essential Guide to Apple AirTags](https://www.cnet.com/tech/mobile/your-essential-guide-to-apple-airtags/#ftag=CAD590a51e)
- - [Chinese state media: the State Administration for Market Regulation opened an investigation into Nvidia over allegedly breaking anti-monopoly laws &lpar;Amy Thomson/Bloomberg&rpar;](http://www.techmeme.com/241209/p11#a241209p11)
- - [A look at Intel&#39;s problems, starting with 2016&#39;s 10nm node: 7/11 board members have no chip experience, most CEO options are worse than Pat Gelsinger, and more &lpar;SemiAnalysis&rpar;](http://www.techmeme.com/241209/p10#a241209p10)<!-- TECH:END -->
+ - [Ukrainian officials worry over Telegram, which has soared in popularity during the war with Russia, questioning if its upsides outweigh the its security risks &lpar;New York Times&rpar;](http://www.techmeme.com/241209/p14#a241209p14)
+ - [Surprising rumor says new HomePod will get high-quality OLED screen](https://appleinsider.com/articles/24/12/09/surprising-rumor-says-new-homepod-will-get-high-quality-oled-screen?utm_medium=rss)
+ - [48 Hours in Tokyo With My AI Travel Companion](https://www.wired.com/story/48-hours-in-tokyo-with-my-ai-travel-companion/)
+ - [Lenovo IdeaPad Flex 5i Review: A Solid Budget Windows Laptop](https://www.wired.com/review/lenovo-ideapad-flex-5i/)
+ - [Russian documents and sources detail how Putin&#39;s forces have been able to keep buying US chips, including $6M from Texas Instruments, via a Russian distributor &lpar;Bloomberg&rpar;](http://www.techmeme.com/241209/p13#a241209p13)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

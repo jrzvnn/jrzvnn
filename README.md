@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Transformer girl](http://9gag.com/gag/aMVKoXX)
- - 😝 [Well they get paid either way except I dont get looked at like I am a filth](http://9gag.com/gag/aAyb599)
+ - 😝 [Congratulations on your parasite](http://9gag.com/gag/a87EgZ3)
+ - 😝 [You thought you knew what a favela looked like...](http://9gag.com/gag/azxMwej)
  - 💣 [Bridge Pillar Collapses](http://9gag.com/gag/a34EXnm)
- - 😝 [Free massages](http://9gag.com/gag/a2v7eKd)
- - 👉 [Hubba Hubba Hubba Aunty May](http://9gag.com/gag/aGypQow)<!-- MEMES:END -->
+ - 😝 [He done f*cked up.](http://9gag.com/gag/a2v765w)
+ - 👉 [At least the view is nice](http://9gag.com/gag/aBy2z4O)<!-- MEMES:END -->
 
 ---
 

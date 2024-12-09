@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [A look at Marvell, a chipmaker whose market cap surpassed Intel&#39;s, driven by its data center business; CEO Matt Murphy is reportedly been floated as Intel&#39;s CEO &lpar;Dan Gallagher/Wall Street Journal&rpar;](http://www.techmeme.com/241208/p18#a241208p18)
  - [To Build Electric Cars, Jaguar Land Rover Had to Redesign the Factory](https://www.wired.com/story/jlr-jaguar-land-rover-electric-vehicle-factory-halewood/)
  - [FEC post-election filings: Elon Musk gave $239M to America PAC, $20.5M as a sole donor to RBG PAC, $10M to Senate Leadership Fund, $3M to MAHA Alliance, more &lpar;CBS News&rpar;](http://www.techmeme.com/241208/p17#a241208p17)
  - [Snag Apple&#39;s Braided Solo Loop for Only $30 While You Still Can](https://www.cnet.com/deals/snag-apples-braided-solo-loop-for-only-30-while-you-still-can/#ftag=CAD590a51e)
- - [Trailers of the week: Star Trek, Severance, and Gundam](https://www.theverge.com/2024/12/8/24316520/trailers-of-the-week-star-trek-severance-gundam-the-gorge-wheel-of-time-invincible-gundam)
- - [Bloomberg Intelligence: the Magnificent Seven&#39;s combined profit growth is projected to slow from 34% in 2024 to 18% in 2025, or just 3% if Nvidia is excluded &lpar;Jeran Wittenstein/Bloomberg&rpar;](http://www.techmeme.com/241208/p16#a241208p16)<!-- TECH:END -->
+ - [Trailers of the week: Star Trek, Severance, and Gundam](https://www.theverge.com/2024/12/8/24316520/trailers-of-the-week-star-trek-severance-gundam-the-gorge-wheel-of-time-invincible-gundam)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

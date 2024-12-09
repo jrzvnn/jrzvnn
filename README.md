@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [OpenAI says the depiction of minors is limited with Sora, and only a &quot;subset&quot; of users can create videos of a real person using uploaded footage of that person &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/241209/p25#a241209p25)
  - [Software developer arrested in connection with UnitedHealthcare CEO killing](https://www.theverge.com/2024/12/9/24317259/unitedhealthcare-ceo-killing-software-developer-arrested)
+ - [Score Holiday Gifts Without Breaking the Bank With Walmart&#39;s Holiday Sale](https://www.cnet.com/deals/score-holiday-gifts-without-breaking-the-bank-with-walmarts-holiday-sale/#ftag=CAD590a51e)
  - [Rivian’s new Joshua Tree outpost is what EV charging should be](https://www.theverge.com/2024/12/9/24317241/rivian-ev-charging-station-joshua-tree-hands-on)
- - [Save up to $300 on Apple&#39;s M4 iPad Pro during this week&#39;s holiday sale](https://appleinsider.com/articles/24/12/09/save-up-to-300-on-apples-m4-ipad-pro-during-this-weeks-holiday-sale?utm_medium=rss)
- - [In a mockup posted on GitHub, Bluesky teases Bluesky+, a $8 per month paid subscription offering profile customizations, higher video upload limits, and more &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/241209/p24#a241209p24)
- - [iOS 18 Is Full of Awesome Features, but These 3 Might Get on Your Nerves](https://www.cnet.com/tech/services-and-software/ios-18-is-full-of-awesome-features-but-these-3-might-get-on-your-nerves/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [This Simple Visual Guide Makes Sure You Get Your 100 Grams of Protein Each Day](https://www.cnet.com/health/nutrition/this-simple-visual-guide-makes-sure-you-get-your-100-grams-of-protein-each-day/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

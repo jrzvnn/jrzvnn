@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [I stole it, maybe repost but great quality](http://9gag.com/gag/aE0p9w9)
- - 😝 [Bro get in the car](http://9gag.com/gag/aXPoyjv)
- - 💣 [Don&#39;t ignore!](http://9gag.com/gag/azxMpDB)
- - 😝 [These birds saw a person feed an injured bird, so they all started pretending to be injured as well.](http://9gag.com/gag/a4PEXvd)
- - 👉 [Have a nice weekend](http://9gag.com/gag/aD2dv29)<!-- MEMES:END -->
+ - 😝 [The brown eyed monster](http://9gag.com/gag/aXPoOmb)
+ - 😝 [Sorry for the cancer, but someone finaly did it !](http://9gag.com/gag/aXPo6V9)
+ - 💣 [Mark Rober video exposing Indian call centers showed several of the scammers using 9gag!](http://9gag.com/gag/a87ERN1)
+ - 😝 [Bridge Pillar Collapses](http://9gag.com/gag/a34EXnm)
+ - 👉 [Performing with an oxygen tank at 23yrs old is diabetical](http://9gag.com/gag/ajPmwGG)<!-- MEMES:END -->
 
 ---
 

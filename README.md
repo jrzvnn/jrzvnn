@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [AI is booming on the App Store, and developers are taking advantage of it](https://www.theverge.com/2024/12/9/24314972/apple-app-store-ai-apps-art-design-photography)
  - [OpenAI says the depiction of minors is limited with Sora, and only a &quot;subset&quot; of users can create videos of a real person using uploaded footage of that person &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/241209/p25#a241209p25)
  - [Software developer arrested in connection with UnitedHealthcare CEO killing](https://www.theverge.com/2024/12/9/24317259/unitedhealthcare-ceo-killing-software-developer-arrested)
  - [Score Holiday Gifts Without Breaking the Bank With Walmart&#39;s Holiday Sale](https://www.cnet.com/deals/score-holiday-gifts-without-breaking-the-bank-with-walmarts-holiday-sale/#ftag=CAD590a51e)
- - [Rivian’s new Joshua Tree outpost is what EV charging should be](https://www.theverge.com/2024/12/9/24317241/rivian-ev-charging-station-joshua-tree-hands-on)
- - [This Simple Visual Guide Makes Sure You Get Your 100 Grams of Protein Each Day](https://www.cnet.com/health/nutrition/this-simple-visual-guide-makes-sure-you-get-your-100-grams-of-protein-each-day/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Rivian’s new Joshua Tree outpost is what EV charging should be](https://www.theverge.com/2024/12/9/24317241/rivian-ev-charging-station-joshua-tree-hands-on)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

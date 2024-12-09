@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Apple Stores coming to Saudi Arabia for the first time](https://appleinsider.com/articles/24/12/09/apple-stores-coming-to-saudi-arabia-for-the-first-time?utm_medium=rss)
+ - [Researchers: Meta let 25 Facebook Pages run 4K+ ads attacking Romania&#39;s pro-EU candidate and promoting far-right figures, hitting 199M+ views since August 2024 &lpar;Daniel Zuidijk/Bloomberg&rpar;](http://www.techmeme.com/241209/p7#a241209p7)
  - [How FRED, a data tool created in 1991 by the St. Louis Federal Reserve, gained a major following in recent years, hitting nearly 15M website users in 2023 &lpar;Jeanna Smialek/New York Times&rpar;](http://www.techmeme.com/241209/p6#a241209p6)
  - [A look at generative AI&#39;s impact, its structural issue of concentrated power among a few companies, and utopian questions over an alternative version of AI &lpar;Evgeny Morozov/Boston Review&rpar;](http://www.techmeme.com/241209/p5#a241209p5)
- - [Could the Best CD Rates Drop Below 4% After the Next Fed Meeting? Today&#39;s CD Rates. Dec. 9, 2024](https://www.cnet.com/personal-finance/banking/could-the-best-cd-rates-drop-below-4-after-the-next-fed-meeting-todays-cd-rates-dec-9-2024/#ftag=CAD590a51e)
- - [Itch.io is currently offline due to a ‘trash AI-powered’ phishing report](https://www.theverge.com/2024/12/9/24316882/itch-io-offline-domain-registration-funko-report)
- - [Savings Rates Dropped Last Week, but You Can Still Find APYs Up to 5%. Today&#39;s Savings Rates, Dec. 9, 2024](https://www.cnet.com/personal-finance/banking/savings-rates-dropped-last-week-but-you-can-still-find-apys-up-to-5-todays-savings-rates-dec-9-2024/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Could the Best CD Rates Drop Below 4% After the Next Fed Meeting? Today&#39;s CD Rates. Dec. 9, 2024](https://www.cnet.com/personal-finance/banking/could-the-best-cd-rates-drop-below-4-after-the-next-fed-meeting-todays-cd-rates-dec-9-2024/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

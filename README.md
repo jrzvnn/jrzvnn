@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Always.](http://9gag.com/gag/a4PEO71)
- - 😝 [Oscar winner Olivia Colman](http://9gag.com/gag/amoPevX)
- - 💣 [Sorry for the cancer, but someone finaly did it !](http://9gag.com/gag/aXPo6V9)
+ - 😝 [This is what being very rich looks like](http://9gag.com/gag/a5QE40O)
+ - 😝 [Freedom intensifies](http://9gag.com/gag/aBy2BbD)
+ - 💣 [Oscar winner Olivia Colman](http://9gag.com/gag/amoPevX)
  - 😝 [No cap, they\u2019re dropping quack beats! \ud83e\udd86\ud83d\udca5](http://9gag.com/gag/aoyMb9A)
- - 👉 [The way this food vendor cuts and debones the chicken.](http://9gag.com/gag/a4PEDNA)<!-- MEMES:END -->
+ - 👉 [Peek a Boo!](http://9gag.com/gag/aKG6rpg)<!-- MEMES:END -->
 
 ---
 

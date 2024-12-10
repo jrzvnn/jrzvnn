@@ -166,10 +166,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Luigi Mangione, suspect in C.E.O. killing, photographed in his holding cell after being charged with murder](http://9gag.com/gag/aD2dBjd)
- - 😝 [How is this even possible!](http://9gag.com/gag/aZZ0e4X)
- - 💣 [Storytime](http://9gag.com/gag/aBy2p3Q)
+ - 😝 [Mess around and find out](http://9gag.com/gag/axyMxv1)
  - 😝 [Like a robot](http://9gag.com/gag/ajPmoLw)
+ - 💣 [Bro what?](http://9gag.com/gag/adB8ZV2)
+ - 😝 [Father of The Year](http://9gag.com/gag/awyMwBW)
  - 👉 [Wife material](http://9gag.com/gag/ae9AX0v)<!-- MEMES:END -->
 
 ---

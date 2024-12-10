@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [No more](http://9gag.com/gag/a7oE43m)
- - 😝 [Peek a Boo!](http://9gag.com/gag/aKG6rpg)
- - 💣 [Wife material](http://9gag.com/gag/ae9AX0v)
+ - 😝 [Mess around and find out](http://9gag.com/gag/axyMxv1)
+ - 😝 [I understood that reference... Both of them](http://9gag.com/gag/azxMNxb)
+ - 💣 [Storytime](http://9gag.com/gag/aBy2p3Q)
  - 😝 [No cap, they\u2019re dropping quack beats! \ud83e\udd86\ud83d\udca5](http://9gag.com/gag/aoyMb9A)
- - 👉 [Storytime](http://9gag.com/gag/aBy2p3Q)<!-- MEMES:END -->
+ - 👉 [He told them](http://9gag.com/gag/a1mrz92)<!-- MEMES:END -->
 
 ---
 

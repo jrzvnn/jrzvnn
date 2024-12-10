@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Solos challenges Meta’s Ray-Bans with $299 ChatGPT smart glasses](https://www.theverge.com/2024/12/10/24317805/solos-airgo-vision-chatgpt-ai-smart-glasses-price-availability)
+ - [25 Great Gifts for Mom: Ideas for the Best Mother &lpar;2024&rpar;](https://www.wired.com/gallery/gifts-for-moms/)
+ - [Fortnite FTC refunds are starting to show up](https://www.theverge.com/2024/12/10/24317779/fortnite-players-receiving-ftc-refunds)
  - [Amazon launches Amazon Autos, letting US users buy a Hyundai with plans to add dealerships and manufacturers in 2025, after announcing it in November 2023 &lpar;Boone Ashworth/Wired&rpar;](http://www.techmeme.com/241210/p11#a241210p11)
- - [The Vergecast Vergecast, part two](https://www.theverge.com/2024/12/10/24317808/future-of-media-verge-subscription-podcasts-vergecast)
- - [The dead are still raging in 28 Years Later’s first trailer](https://www.theverge.com/2024/12/10/24317796/28-years-later-trailer)
- - [Box users gain Adobe Express AI image editing features with new partnership](https://appleinsider.com/articles/24/12/10/box-users-gain-adobe-express-ai-image-editing-features-with-new-partnership?utm_medium=rss)
- - [AI language learning startup Speak, which focuses on speaking, not gamification, raised $78M led by Accel at a $1B valuation, taking its total funding to $162M &lpar;Jackie Davalos/Bloomberg&rpar;](http://www.techmeme.com/241210/p10#a241210p10)<!-- TECH:END -->
+ - [The Vergecast Vergecast, part two](https://www.theverge.com/2024/12/10/24317808/future-of-media-verge-subscription-podcasts-vergecast)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

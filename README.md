@@ -167,10 +167,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [Bro what?](http://9gag.com/gag/adB8ZV2)
- - 😝 [The media bending over backwards to control the narrative while the house of cards collapse...](http://9gag.com/gag/an7QAeb)
- - 💣 [Storytime](http://9gag.com/gag/aBy2p3Q)
- - 😝 [Title](http://9gag.com/gag/a0e7m7q)
- - 👉 [Like a robot](http://9gag.com/gag/ajPmoLw)<!-- MEMES:END -->
+ - 😝 [Storytime](http://9gag.com/gag/aBy2p3Q)
+ - 💣 [It happened boys,](http://9gag.com/gag/aZZ0Agn)
+ - 😝 [Like a robot](http://9gag.com/gag/ajPmoLw)
+ - 👉 [Wife material](http://9gag.com/gag/ae9AX0v)<!-- MEMES:END -->
 
 ---
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Stability AI CEO Prem Akkaraju, who was hired in June 2024, says the startup has seen &quot;triple digit growth&quot; and has &quot;a clean balance sheet, no debt&quot; &lpar;Kali Hays/Fortune&rpar;](http://www.techmeme.com/241209/p30#a241209p30)
- - [How WhatsApp has evolved from a messaging app into a comprehensive business platform, aggressively luring businesses to its suite of paid messaging products &lpar;Issie Lapowsky/Rest of World&rpar;](http://www.techmeme.com/241209/p29#a241209p29)
+ - [A growing cohort of AI startups are recruiting scores of experts to train models on highly specialized tasks for sensitive sectors like defense and health care &lpar;Saritha Rai/Bloomberg&rpar;](http://www.techmeme.com/241209/p31#a241209p31)
+ - [Stability AI CEO Prem Akkaraju says the startup, now focused on its API and licensing, has seen &quot;triple digit growth&quot; and has &quot;a clean balance sheet, no debt&quot; &lpar;Kali Hays/Fortune&rpar;](http://www.techmeme.com/241209/p30#a241209p30)
+ - [How WhatsApp evolved from a messaging app into a business messaging growth platform, aggressively luring big businesses to its suite of paid messaging products &lpar;Issie Lapowsky/Rest of World&rpar;](http://www.techmeme.com/241209/p29#a241209p29)
  - [Stranded NASA Astronauts on the ISS Catch Sight of the &#39;Twilight Zone&#39;](https://www.cnet.com/science/stranded-nasa-astronauts-have-now-been-stuck-on-the-iss-for-six-months/#ftag=CAD590a51e)
- - [Get Ready for iOS 18.2 by Backing Up Your iPhone Correctly](https://www.cnet.com/tech/mobile/get-ready-for-ios-18-2-by-backing-up-your-iphone-correctly/#ftag=CAD590a51e)
- - [A deep dive into &quot;debanking&quot;, which crypto advocates, including a16z, claim has been used against them by US political actors and agencies without due process &lpar;Patrick McKenzie/Bits about Money&rpar;](http://www.techmeme.com/241209/p28#a241209p28)<!-- TECH:END -->
+ - [Get Ready for iOS 18.2 by Backing Up Your iPhone Correctly](https://www.cnet.com/tech/mobile/get-ready-for-ios-18-2-by-backing-up-your-iphone-correctly/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [This is what being very rich looks like](http://9gag.com/gag/a5QE40O)
- - 😝 [The way this food vendor cuts and debones the chicken.](http://9gag.com/gag/a4PEDNA)
- - 💣 [I understood that reference... Both of them](http://9gag.com/gag/azxMNxb)
+ - 😝 [Mark Rober video exposing Indian call centers showed several of the scammers using 9gag!](http://9gag.com/gag/a87ERN1)
+ - 😝 [Oscar winner Olivia Colman](http://9gag.com/gag/amoPevX)
+ - 💣 [How is this even possible!](http://9gag.com/gag/aZZ0e4X)
  - 😝 [No cap, they\u2019re dropping quack beats! \ud83e\udd86\ud83d\udca5](http://9gag.com/gag/aoyMb9A)
- - 👉 [Based](http://9gag.com/gag/aQzo0Bw)<!-- MEMES:END -->
+ - 👉 [Even the rain knows not to disrespect an anime beauty.](http://9gag.com/gag/axyMLeK)<!-- MEMES:END -->
 
 ---
 

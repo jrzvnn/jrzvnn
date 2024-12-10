@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Guys! believe us! he is not a SCAPEGOAT!! -fbi](http://9gag.com/gag/a2v7QO1)
- - 😝 [Wife material](http://9gag.com/gag/ae9AX0v)
- - 💣 [Luigi Mangione, suspect in C.E.O. killing, photographed in his holding cell after being charged with murder](http://9gag.com/gag/aD2dBjd)
+ - 😝 [$60,000 gone with the wind](http://9gag.com/gag/a2v1EYp)
  - 😝 [Title](http://9gag.com/gag/a0e7m7q)
- - 👉 [Bro what?](http://9gag.com/gag/adB8ZV2)<!-- MEMES:END -->
+ - 💣 [Wife material](http://9gag.com/gag/ae9AX0v)
+ - 😝 [Luigi Mangione, suspect in C.E.O. killing, photographed in his holding cell after being charged with murder](http://9gag.com/gag/aD2dBjd)
+ - 👉 [Chinese being indian](http://9gag.com/gag/a6ZEWDm)<!-- MEMES:END -->
 
 ---
 

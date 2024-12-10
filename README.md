@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The Iconic Abbey Road Audio Experience is Coming to Cars—and Maybe Your Next Headphones](https://www.wired.com/story/how-bandw-and-volvo-made-cars-sound-like-the-worlds-most-famous-recording-studio-are-headphones-next/)
- - [Instagram will let creators test experimental reels on random people](https://www.theverge.com/2024/12/10/24317762/instagram-trial-reels-test-feature-availability)
- - [California could become the first state to require social media warning labels](https://www.theverge.com/2024/12/10/24317835/california-social-media-warning-labels-bill)
- - [Amazon’s online car dealership with Hyundai is now live](https://www.theverge.com/2024/12/10/24317821/amazon-autos-hyundai-online-car-shopping)
- - [Solos debuts the AirGo Vision, a camera-equipped pair of smart glasses featuring visual recognition powered by OpenAI&#39;s GPT-4o, available now starting from $299 &lpar;Jess Weatherbed/The Verge&rpar;](http://www.techmeme.com/241210/p12#a241210p12)<!-- TECH:END -->
+ - [Every smart home device that works with Matter](https://www.theverge.com/23568091/matter-compatible-devices-accessories-apple-amazon-google-samsung)
+ - [Instagram officially rolls out &quot;trial reels&quot;, which give creators a way to test out videos by publishing them only to people who don&#39;t follow them &lpar;Aisha Malik/TechCrunch&rpar;](http://www.techmeme.com/241210/p14#a241210p14)
+ - [The Internet’s Obsession With Luigi Mangione Signals a Major Shift](https://www.wired.com/story/internet-culture-luigi-mangione-major-shift-fandom/)
+ - [Over $6 billion in CHIPS Act funding finalized for Micron plants in the US](https://www.theverge.com/2024/12/10/24317897/micron-chips-act-6-1-billion-subsidy-grant-new-plants-idaho-new-york-virginia)
+ - [Character.AI sued again over ‘harmful’ messages sent to teens](https://www.theverge.com/2024/12/10/24317839/character-ai-lawsuit-teen-harmful-messages-mental-health)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

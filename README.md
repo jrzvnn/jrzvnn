@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Amazon’s online car dealership with Hyundai is now live](https://www.theverge.com/2024/12/10/24317821/amazon-autos-hyundai-online-car-shopping)
  - [Solos debuts the AirGo Vision, a camera-equipped pair of smart glasses featuring visual recognition powered by OpenAI&#39;s GPT-4o, available now starting from $299 &lpar;Jess Weatherbed/The Verge&rpar;](http://www.techmeme.com/241210/p12#a241210p12)
  - [Apple Music Radio taps big talent for three new stations](https://appleinsider.com/articles/24/12/10/apple-music-radio-taps-big-talent-for-three-new-stations?utm_medium=rss)
  - [I want to push the big red AC buttons on Genki’s USB-C packed power strip](https://www.theverge.com/2024/12/10/24317792/genki-moonbase-moonlink-usb-c-power-charger-cables)
- - [Luigi Mangione Is Everywhere](https://www.wired.com/story/the-internet-is-gripped-by-mangione-mania/)
- - [9 Best 2-in-1 Laptops to Flip Between Work and Play &lpar;2024&rpar;, Tested and Reviewed](https://www.wired.com/gallery/best-2-in-1-laptops/)<!-- TECH:END -->
+ - [Luigi Mangione Is Everywhere](https://www.wired.com/story/the-internet-is-gripped-by-mangione-mania/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

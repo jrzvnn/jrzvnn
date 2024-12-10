@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [No more](http://9gag.com/gag/a7oE43m)
- - 😝 [The way this food vendor cuts and debones the chicken.](http://9gag.com/gag/a4PEDNA)
- - 💣 [Based](http://9gag.com/gag/aQzo0Bw)
+ - 😝 [Father of The Year](http://9gag.com/gag/awyMwBW)
+ - 😝 [Brosnan posture shows command and lack of fear for weaponry, like someone who has fired guns so much it is second nature for him](http://9gag.com/gag/aMVKRwA)
+ - 💣 [It happened boys,](http://9gag.com/gag/aZZ0Agn)
  - 😝 [No cap, they\u2019re dropping quack beats! \ud83e\udd86\ud83d\udca5](http://9gag.com/gag/aoyMb9A)
- - 👉 [Mess around and find out](http://9gag.com/gag/axyMxv1)<!-- MEMES:END -->
+ - 👉 [Mark Rober video exposing Indian call centers showed several of the scammers using 9gag!](http://9gag.com/gag/a87ERN1)<!-- MEMES:END -->
 
 ---
 

@@ -167,10 +167,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [Storytime](http://9gag.com/gag/aBy2p3Q)
- - 😝 [Mark Rober video exposing Indian call centers showed several of the scammers using 9gag!](http://9gag.com/gag/a87ERN1)
- - 💣 [A high school football star spent six years in prison accused of a false rape charge, which was dismissed after his 16-year-old accuser admitted the incident had been fabricated. He became very emotional when the case was closed.](http://9gag.com/gag/a34E6Ze)
+ - 😝 [Freedom intensifies](http://9gag.com/gag/aBy2BbD)
+ - 💣 [Father of The Year](http://9gag.com/gag/awyMwBW)
  - 😝 [No cap, they\u2019re dropping quack beats! \ud83e\udd86\ud83d\udca5](http://9gag.com/gag/aoyMb9A)
- - 👉 [The TRUE nice guy! \ud83d\udc95](http://9gag.com/gag/aPA3E3G)<!-- MEMES:END -->
+ - 👉 [How is this even possible!](http://9gag.com/gag/aZZ0e4X)<!-- MEMES:END -->
 
 ---
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Software testing service LambdaTest, which supports 5K+ browser and OS combinations, raised a $38M Series D led by Avataar, taking its total funding to $108M &lpar;Manish Singh/TechCrunch&rpar;](http://www.techmeme.com/241210/p7#a241210p7)
- - [The 6 Best Heating Pads in 2024](https://www.cnet.com/health/the-best-heating-pads-according-the-cnet-staff-that-use-them/#ftag=CAD590a51e)
- - [TikTok launches TikTok Shop in Spain, letting creators sell products from beauty to home appliances, the first step of the feature&#39;s European rollout &lpar;Bloomberg&rpar;](http://www.techmeme.com/241210/p6#a241210p6)
- - [Homebuyers See Lower Mortgage Rates: Today&#39;s Mortgage Rates on Dec. 10, 2024](https://www.cnet.com/personal-finance/homebuyers-see-lower-mortgage-rates-todays-mortgage-rates-on-dec-10-2024/#ftag=CAD590a51e)
- - [MacWeb cloud firm adds M4 Mac mini options for developers](https://appleinsider.com/articles/24/12/10/macweb-cloud-firm-adds-m4-mac-mini-options-for-developers?utm_medium=rss)<!-- TECH:END -->
+ - [Poker Cheaters Allegedly Use Tiny Hidden Cameras to Spot Dealt Cards](https://www.wired.com/story/miniature-camera-poker-cheating/)
+ - [Paris-based Aqemia, which aims to scale drug discovery using quantum algorithms and AI, raised $38M led by Cathay Innovation, after raising &amp;euro;30M in January 2024 &lpar;Paul Sawers/TechCrunch&rpar;](http://www.techmeme.com/241210/p9#a241210p9)
+ - [The Best Gifts From Walmart for Everyone on Your Holiday List](https://www.cnet.com/news/best-walmart-gifts/#ftag=CAD590a51e)
+ - [Best Sim Racing Cockpit for 2024](https://www.cnet.com/roadshow/news/best-sim-racing-cockpit/#ftag=CAD590a51e)
+ - [The US Commerce Department finalizes a $6.1B+ subsidy for memory chipmaker Micron under the CHIPS Act to fund its factory projects in New York and Idaho &lpar;Deborah Sophia/Reuters&rpar;](http://www.techmeme.com/241210/p8#a241210p8)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

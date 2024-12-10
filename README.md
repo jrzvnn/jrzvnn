@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Who was there with us that specific night?](http://9gag.com/gag/aQzowZd)
- - 😝 [Mess around and find out](http://9gag.com/gag/axyMxv1)
- - 💣 [Gotcha B*tch](http://9gag.com/gag/a34E9A3)
- - 😝 [The TRUE nice guy! \ud83d\udc95](http://9gag.com/gag/aPA3E3G)
- - 👉 [Brosnan posture shows command and lack of fear for weaponry, like someone who has fired guns so much it is second nature for him](http://9gag.com/gag/aMVKRwA)<!-- MEMES:END -->
+ - 😝 [I understood that reference... Both of them](http://9gag.com/gag/azxMNxb)
+ - 😝 [How does DC motor work ??](http://9gag.com/gag/a4PEvEA)
+ - 💣 [Boyfriend surprises his girlfriend with a wonderful reunion with her parents after being apart for so long](http://9gag.com/gag/ayNMONM)
+ - 😝 [Wife material](http://9gag.com/gag/ae9AX0v)
+ - 👉 [Now you understand the reason?](http://9gag.com/gag/aPA3bEK)<!-- MEMES:END -->
 
 ---
 

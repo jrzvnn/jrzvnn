@@ -167,9 +167,9 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [Luigi Mangione, suspect in C.E.O. killing, photographed in his holding cell after being charged with murder](http://9gag.com/gag/aD2dBjd)
- - 😝 [Bro what?](http://9gag.com/gag/adB8ZV2)
+ - 😝 [How is this even possible!](http://9gag.com/gag/aZZ0e4X)
  - 💣 [Storytime](http://9gag.com/gag/aBy2p3Q)
- - 😝 [Title](http://9gag.com/gag/a0e7m7q)
+ - 😝 [Like a robot](http://9gag.com/gag/ajPmoLw)
  - 👉 [Wife material](http://9gag.com/gag/ae9AX0v)<!-- MEMES:END -->
 
 ---

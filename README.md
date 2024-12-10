@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Dyson Promo Code: 20% Off in December 2024](https://www.wired.com/story/dyson-cordless-vacuum-promo-code/)
  - [A look at Vinted, a popular app in the EU for selling secondhand clothes, which went from a near collapse to worth &amp;euro;5B and plans a US expansion in coming years &lpar;Trefor Moss/Wall Street Journal&rpar;](http://www.techmeme.com/241210/p2#a241210p2)
  - [Sources: in October, EU regulators asked Google for more information about its secret ads deal with Meta which skirted Google&#39;s own rules for targeting minors &lpar;Financial Times&rpar;](http://www.techmeme.com/241210/p1#a241210p1)
  - [Today&#39;s NYT Connections Hints, Answers and Help for Dec. 10, #548](https://www.cnet.com/tech/gaming/todays-nyt-connections-hints-answers-and-help-for-dec-10-548/#ftag=CAD590a51e)
- - [Today&#39;s NYT Strands Hints, Answers and Help for Dec. 10, #282](https://www.cnet.com/tech/gaming/todays-nyt-strands-hints-answers-and-help-for-dec-10-282/#ftag=CAD590a51e)
- - [Today&#39;s Wordle Hints, Answer and Help for Dec. 10, #1270](https://www.cnet.com/tech/gaming/todays-wordle-hints-answer-and-help-for-dec-10-1270/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Today&#39;s NYT Strands Hints, Answers and Help for Dec. 10, #282](https://www.cnet.com/tech/gaming/todays-nyt-strands-hints-answers-and-help-for-dec-10-282/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

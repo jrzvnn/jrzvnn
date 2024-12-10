@@ -159,9 +159,9 @@ R                        1 repo              ░░░░░░░░░░░�
 <!-- TECH:START -->
  - [Stability AI CEO Prem Akkaraju, who was hired in June 2024, says the startup has seen &quot;triple digit growth&quot; and has &quot;a clean balance sheet, no debt&quot; &lpar;Kali Hays/Fortune&rpar;](http://www.techmeme.com/241209/p30#a241209p30)
  - [How WhatsApp has evolved from a messaging app into a comprehensive business platform, aggressively luring businesses to its suite of paid messaging products &lpar;Issie Lapowsky/Rest of World&rpar;](http://www.techmeme.com/241209/p29#a241209p29)
- - [A deep dive into &quot;debanking&quot;, which crypto advocates, including a16z, claim has been used against them by US political actors and agencies without due process &lpar;Patrick McKenzie/Bits about Money&rpar;](http://www.techmeme.com/241209/p28#a241209p28)
- - [Watch Google Quantum AI Reveal Willow Quantum Computing Chip video](https://www.cnet.com/videos/watch-google-quantum-ai-reveal-willow-quantum-computing-chip/#ftag=CAD590a51e)
- - [$25 Plane Tickets for Young Adults: Amazon Is Selling 1,000 Each Day This Week](https://www.cnet.com/deals/25-plane-tickets-for-young-adults-amazon-will-sell-1000-each-day-this-week/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Stranded NASA Astronauts on the ISS Catch Sight of the &#39;Twilight Zone&#39;](https://www.cnet.com/science/stranded-nasa-astronauts-have-now-been-stuck-on-the-iss-for-six-months/#ftag=CAD590a51e)
+ - [Get Ready for iOS 18.2 by Backing Up Your iPhone Correctly](https://www.cnet.com/tech/mobile/get-ready-for-ios-18-2-by-backing-up-your-iphone-correctly/#ftag=CAD590a51e)
+ - [A deep dive into &quot;debanking&quot;, which crypto advocates, including a16z, claim has been used against them by US political actors and agencies without due process &lpar;Patrick McKenzie/Bits about Money&rpar;](http://www.techmeme.com/241209/p28#a241209p28)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

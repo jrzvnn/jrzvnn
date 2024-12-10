@@ -167,10 +167,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [This is what being very rich looks like](http://9gag.com/gag/a5QE40O)
- - 😝 [Freedom intensifies](http://9gag.com/gag/aBy2BbD)
- - 💣 [Oscar winner Olivia Colman](http://9gag.com/gag/amoPevX)
+ - 😝 [Syria today. The dictator is gone, long live the new dictator. Belgian cartoon](http://9gag.com/gag/aKG6RZ1)
+ - 💣 [Dogs are Angels](http://9gag.com/gag/aqyjqmj)
  - 😝 [No cap, they\u2019re dropping quack beats! \ud83e\udd86\ud83d\udca5](http://9gag.com/gag/aoyMb9A)
- - 👉 [Peek a Boo!](http://9gag.com/gag/aKG6rpg)<!-- MEMES:END -->
+ - 👉 [Checkmate](http://9gag.com/gag/aXPo5mg)<!-- MEMES:END -->
 
 ---
 

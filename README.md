@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Syria today. The dictator is gone, long live the new dictator. Belgian cartoon](http://9gag.com/gag/aKG6RZ1)
- - 😝 [Checkmate](http://9gag.com/gag/aXPo5mg)
- - 💣 [This is what being very rich looks like](http://9gag.com/gag/a5QE40O)
+ - 😝 [A high school football star spent six years in prison accused of a false rape charge, which was dismissed after his 16-year-old accuser admitted the incident had been fabricated. He became very emotional when the case was closed.](http://9gag.com/gag/a34E6Ze)
+ - 😝 [Freedom intensifies](http://9gag.com/gag/aBy2BbD)
+ - 💣 [Storytime](http://9gag.com/gag/aBy2p3Q)
  - 😝 [No cap, they\u2019re dropping quack beats! \ud83e\udd86\ud83d\udca5](http://9gag.com/gag/aoyMb9A)
- - 👉 [Dogs are Angels](http://9gag.com/gag/aqyjqmj)<!-- MEMES:END -->
+ - 👉 [Brosnan posture shows command and lack of fear for weaponry, like someone who has fired guns so much it is second nature for him](http://9gag.com/gag/aMVKRwA)<!-- MEMES:END -->
 
 ---
 

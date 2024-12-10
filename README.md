@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [A lawsuit against Character.AI alleges its chatbots harmed two young Texas users, including sympathizing with children who kill parents over screen time limits &lpar;Bobby Allyn/NPR&rpar;](http://www.techmeme.com/241210/p21#a241210p21)
+ - [YouTube’s AI-powered dubbing is now available to many more creators](https://www.theverge.com/2024/12/10/24318309/youtube-partners-ai-auto-dubbing-translation-knowledge-information-videos)
+ - [General Motors Cuts Funding to Cruise, Nixing Its Robotaxi Plan](https://www.wired.com/story/general-motors-cuts-funding-to-cruise-robotaxis/)
  - [The YouTube Kids mobile app gets a redesign that makes it look more like the standard YouTube app and lets users browse through videos in portrait mode &lpar;Quentyn Kennemer/The Verge&rpar;](http://www.techmeme.com/241210/p20#a241210p20)
- - [YouTube Kids is getting a redesign to make it look more like YouTube](https://www.theverge.com/2024/12/10/24318139/youtube-kids-mobile-app-update-android-ios-redesign)
- - [YouTube rolls out its auto-dubbing feature, which generates translated audio tracks, to hundreds of thousands of channels focused on knowledge and information &lpar;Lauren Forristal/TechCrunch&rpar;](http://www.techmeme.com/241210/p19#a241210p19)
- - [Google’s future data centers will be built next to solar and wind farms](https://www.theverge.com/2024/12/10/24317888/googles-data-center-solar-wind-renewable-energy-intersect-partnership)
- - [Microsoft is giving Copilot a new taskbar UI and keyboard shortcut on Windows](https://www.theverge.com/2024/12/10/24318241/microsoft-copilot-native-app-quick-view-windows-10-11)<!-- TECH:END -->
+ - [New 2024 Christmas Movies on Netflix, Hulu and More You Can Unwrap Now](https://www.cnet.com/tech/services-and-software/new-2024-christmas-movies-on-netflix-hulu-and-more-you-can-unwrap-now/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

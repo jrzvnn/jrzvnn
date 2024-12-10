@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [11 Great Best Buy Deals on Apple MacBooks, iPads, and More](https://www.wired.com/story/apple-best-buy-deals-december-2024/)
  - [The best wireless earbuds to buy right now](https://www.theverge.com/21309820/best-wireless-earbuds)
  - [If you absolutely must sing along with Wicked, do it here](https://www.theverge.com/2024/12/10/24318074/wicked-sing-along-screenings-premiere-date)
  - [&#39;Resident Evil 2&#39; lands early on Mac, iPad, and iPhone](https://appleinsider.com/articles/24/12/10/resident-evil-2-lands-early-on-mac-ipad-and-iphone?utm_medium=rss)
- - [Lucid’s Gravity SUV gets an EPA-estimated range of 450 miles](https://www.theverge.com/2024/12/10/24318002/lucid-gravity-ev-suv-epa-estimated-range-production-start)
- - [Stainless, a startup offering an AI-powered API-to-SDK generator to customers like OpenAI, Anthropic, and Meta, raised a $25M Series A led by a16z &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/241210/p16#a241210p16)<!-- TECH:END -->
+ - [Your Dishwasher Is Gross. Here’s How to Clean It](https://www.cnet.com/home/kitchen-and-household/your-dishwasher-is-gross-heres-how-to-clean-it/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

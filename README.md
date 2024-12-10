@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [WordPress must stop blocking WP Engine, judge rules](https://www.theverge.com/2024/12/10/24318350/automattic-restore-wp-engine-access-wordpress)
  - [Trump picks FTC Commissioner Andrew Ferguson to chair the FTC; Ferguson has said the FTC should tackle perceived censorship of conservative viewpoints online &lpar;Jody Godoy/Reuters&rpar;](http://www.techmeme.com/241210/p23#a241210p23)
  - [TikTok files a legal challenge against Canada&#39;s order to shut down its operations in the country, claiming the decision was &quot;driven by improper purposes&quot; &lpar;Canadian Press&rpar;](http://www.techmeme.com/241210/p22#a241210p22)
  - [Valve is now selling refurbished Steam Deck OLEDs starting at $439](https://www.theverge.com/2024/12/10/24318367/valve-refurbished-steam-deck-oled)
- - [The best instant cameras you can buy right now](https://www.theverge.com/23133103/best-instant-cameras-fujifilm-polaroid-kodak)
- - [A lawsuit against Character.AI alleges its chatbots harmed two young Texas users, including sympathizing with children who kill parents over screen time limits &lpar;Bobby Allyn/NPR&rpar;](http://www.techmeme.com/241210/p21#a241210p21)<!-- TECH:END -->
+ - [The best instant cameras you can buy right now](https://www.theverge.com/23133103/best-instant-cameras-fujifilm-polaroid-kodak)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

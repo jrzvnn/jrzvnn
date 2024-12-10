@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [How does DC motor work ??](http://9gag.com/gag/a4PEvEA)
- - 😝 [I understood that reference... Both of them](http://9gag.com/gag/azxMNxb)
- - 💣 [Boyfriend surprises his girlfriend with a wonderful reunion with her parents after being apart for so long](http://9gag.com/gag/ayNMONM)
- - 😝 [Logic is good.](http://9gag.com/gag/a9yEQNZ)
- - 👉 [Wife material](http://9gag.com/gag/ae9AX0v)<!-- MEMES:END -->
+ - 😝 [Bro what?](http://9gag.com/gag/adB8ZV2)
+ - 😝 [Storytime](http://9gag.com/gag/aBy2p3Q)
+ - 💣 [Mess around and find out](http://9gag.com/gag/axyMxv1)
+ - 😝 [Like a robot](http://9gag.com/gag/ajPmoLw)
+ - 👉 [Title](http://9gag.com/gag/a0e7m7q)<!-- MEMES:END -->
 
 ---
 

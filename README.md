@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Microsoft unveils a new data center design that aims to use zero water, down from the 125M litres per year a typical center uses, rolling out since August 2024 &lpar;Dina Bass/Bloomberg&rpar;](http://www.techmeme.com/241210/p4#a241210p4)
- - [Climate Change Is Destroying Monarch Butterflies’ Winter Habitat](https://www.wired.com/story/global-warming-threatens-the-monarch-butterfly-sanctuary-but-this-scientist-prepares-a-new-home-for-them/)
- - [Parents and school staff say student activity monitoring software that aims to intercept self-harm before it happens, while helpful, has unintended consequences &lpar;Ellen Barry/New York Times&rpar;](http://www.techmeme.com/241210/p3#a241210p3)
- - [More Humanitarian Organizations Will Harness AI’s Potential](https://www.wired.com/story/humanitarian-organizations-artificial-intelligence/)
- - [KitchenAid Promo Codes and Coupons: 15% Off in December](https://www.wired.com/story/exclusive-kitchenaid-promo-code/)<!-- TECH:END -->
+ - [MacWeb cloud firm adds M4 Mac mini options for developers](https://appleinsider.com/articles/24/12/10/macweb-cloud-firm-adds-m4-mac-mini-options-for-developers?utm_medium=rss)
+ - [TeamViewer says it plans to buy 1E, which makes automated remediation software, from Carlyle for $720M, closing in early 2025, its biggest ever acquisition &lpar;Aaron Kirchfeld/Bloomberg&rpar;](http://www.techmeme.com/241210/p5#a241210p5)
+ - [Tap to Pay on iPhone comes to the United Arab Emirates](https://appleinsider.com/articles/24/12/10/tap-to-pay-on-iphone-comes-to-the-united-arab-emirates?utm_medium=rss)
+ - [Inside a Fusion Startup&#39;s Insane, Top-Secret Opening Ceremony](https://www.wired.com/story/inside-a-fusion-startups-insane-top-secret-opening-ceremony/)
+ - [Microsoft unveils a new data center design that aims to use zero water, down from the 125M litres per year a typical center uses, rolling out since August 2024 &lpar;Dina Bass/Bloomberg&rpar;](http://www.techmeme.com/241210/p4#a241210p4)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

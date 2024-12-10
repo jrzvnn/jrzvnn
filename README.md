@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [How to Edit property lists in Terminal](https://appleinsider.com/articles/24/12/10/how-to-edit-property-lists-in-terminal?utm_medium=rss)
- - [A growing cohort of AI startups are recruiting scores of experts to train models on highly specialized tasks for sensitive sectors like defense and health care &lpar;Saritha Rai/Bloomberg&rpar;](http://www.techmeme.com/241209/p31#a241209p31)
- - [Stability AI CEO Prem Akkaraju says the startup, now focused on its API and licensing, has seen &quot;triple digit growth&quot; and has &quot;a clean balance sheet, no debt&quot; &lpar;Kali Hays/Fortune&rpar;](http://www.techmeme.com/241209/p30#a241209p30)
- - [How WhatsApp evolved from a messaging app into a business messaging growth platform, aggressively luring big businesses to its suite of paid messaging products &lpar;Issie Lapowsky/Rest of World&rpar;](http://www.techmeme.com/241209/p29#a241209p29)
- - [Stranded NASA Astronauts on the ISS Catch Sight of the &#39;Twilight Zone&#39;](https://www.cnet.com/science/stranded-nasa-astronauts-have-now-been-stuck-on-the-iss-for-six-months/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Sources: EU regulators asked Google for more info in October about a secret ads partnership with Meta which skirted Google&#39;s own rules for targeting minors &lpar;Financial Times&rpar;](http://www.techmeme.com/241210/p1#a241210p1)
+ - [Today&#39;s NYT Mini Crossword Answers for Tuesday, Dec. 10](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-tuesday-dec-10/#ftag=CAD590a51e)
+ - [Today&#39;s NYT Connections Hints, Answers and Help for Dec. 10, #548](https://www.cnet.com/tech/gaming/todays-nyt-connections-hints-answers-and-help-for-dec-10-548/#ftag=CAD590a51e)
+ - [Today&#39;s NYT Strands Hints, Answers and Help for Dec. 10, #282](https://www.cnet.com/tech/gaming/todays-nyt-strands-hints-answers-and-help-for-dec-10-282/#ftag=CAD590a51e)
+ - [Today&#39;s Wordle Hints, Answer and Help for Dec. 10, #1270](https://www.cnet.com/tech/gaming/todays-wordle-hints-answer-and-help-for-dec-10-1270/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

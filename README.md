@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Logic is good.](http://9gag.com/gag/a9yEQNZ)
+ - 😝 [Guys! believe us! he is not a SCAPEGOAT!! -fbi](http://9gag.com/gag/a2v7QO1)
  - 😝 [Wife material](http://9gag.com/gag/ae9AX0v)
- - 💣 [The sound is purfect](http://9gag.com/gag/ayNMyjq)
- - 😝 [...](http://9gag.com/gag/aqyjq37)
- - 👉 [Stay strong brotha](http://9gag.com/gag/agmBR2r)<!-- MEMES:END -->
+ - 💣 [Luigi Mangione, suspect in C.E.O. killing, photographed in his holding cell after being charged with murder](http://9gag.com/gag/aD2dBjd)
+ - 😝 [Title](http://9gag.com/gag/a0e7m7q)
+ - 👉 [Bro what?](http://9gag.com/gag/adB8ZV2)<!-- MEMES:END -->
 
 ---
 

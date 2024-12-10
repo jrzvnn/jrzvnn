@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Software testing service LambdaTest, which supports 5K+ browser and OS combinations, raised a $38M Series D led by Avataar, taking its total funding to $108M &lpar;Manish Singh/TechCrunch&rpar;](http://www.techmeme.com/241210/p7#a241210p7)
  - [TikTok launches TikTok Shop in Spain, letting creators sell products from beauty to home appliances, the first step of the feature&#39;s European rollout &lpar;Bloomberg&rpar;](http://www.techmeme.com/241210/p6#a241210p6)
  - [MacWeb cloud firm adds M4 Mac mini options for developers](https://appleinsider.com/articles/24/12/10/macweb-cloud-firm-adds-m4-mac-mini-options-for-developers?utm_medium=rss)
  - [TeamViewer says it plans to buy 1E, which makes automated remediation software, from Carlyle for $720M, closing in early 2025, its biggest ever acquisition &lpar;Aaron Kirchfeld/Bloomberg&rpar;](http://www.techmeme.com/241210/p5#a241210p5)
- - [Tap to Pay on iPhone comes to the United Arab Emirates](https://appleinsider.com/articles/24/12/10/tap-to-pay-on-iphone-comes-to-the-united-arab-emirates?utm_medium=rss)
- - [Inside a Fusion Startup&#39;s Insane, Top-Secret Opening Ceremony](https://www.wired.com/story/inside-a-fusion-startups-insane-top-secret-opening-ceremony/)<!-- TECH:END -->
+ - [Tap to Pay on iPhone comes to the United Arab Emirates](https://appleinsider.com/articles/24/12/10/tap-to-pay-on-iphone-comes-to-the-united-arab-emirates?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

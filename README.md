@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [&#39;Resident Evil 2&#39; lands early on Mac, iPad, and iPhone](https://appleinsider.com/articles/24/12/10/resident-evil-2-lands-early-on-mac-ipad-and-iphone?utm_medium=rss)
+ - [Lucid’s Gravity SUV gets an EPA-estimated range of 450 miles](https://www.theverge.com/2024/12/10/24318002/lucid-gravity-ev-suv-epa-estimated-range-production-start)
  - [Stainless, a startup offering an AI-powered API-to-SDK generator to customers like OpenAI, Anthropic, and Meta, raised a $25M Series A led by a16z &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/241210/p16#a241210p16)
  - [Cyberpunk 2077 just got a whole bunch of new ways to customize your character](https://www.theverge.com/2024/12/10/24318015/cyberpunk-2077-character-creator-car-customize-photo-mode)
- - [Google Docs adds 40 new templates to spruce up your documents](https://www.theverge.com/2024/12/10/24317958/google-docs-40-new-templates-launch)
- - [Castlevania: Nocturne’s new season 2 trailer pits vampires against a dragon](https://www.theverge.com/2024/12/10/24317950/castlevania-nocturne-season-2-trailer-premiere-date-netflix)
- - [The US sanctions Chinese cybersecurity government contractor Sichuan Silence and one of its staff over Ragnarok ransomware ties and creating and using zero-days &lpar;Sergiu Gatlan/BleepingComputer&rpar;](http://www.techmeme.com/241210/p15#a241210p15)<!-- TECH:END -->
+ - [Google Docs adds 40 new templates to spruce up your documents](https://www.theverge.com/2024/12/10/24317958/google-docs-40-new-templates-launch)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

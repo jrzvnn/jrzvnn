@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Parents and school staff say student activity monitoring software that aims to intercept self-harm before it happens, while helpful, has unintended consequences &lpar;Ellen Barry/New York Times&rpar;](http://www.techmeme.com/241210/p3#a241210p3)
+ - [More Humanitarian Organizations Will Harness AI’s Potential](https://www.wired.com/story/humanitarian-organizations-artificial-intelligence/)
  - [KitchenAid Promo Codes and Coupons: 15% Off in December](https://www.wired.com/story/exclusive-kitchenaid-promo-code/)
  - [Dyson Promo Code: 20% Off in December 2024](https://www.wired.com/story/dyson-cordless-vacuum-promo-code/)
- - [Best Cheap Video Doorbells for 2024](https://www.cnet.com/home/security/best-cheap-video-doorbells/#ftag=CAD590a51e)
- - [A look at Vinted, a popular app in the EU for selling secondhand clothes, which went from a near collapse to worth &amp;euro;5B and plans a US expansion in coming years &lpar;Trefor Moss/Wall Street Journal&rpar;](http://www.techmeme.com/241210/p2#a241210p2)
- - [Best Internet Providers in Denton, Texas](https://www.cnet.com/home/internet/best-internet-providers-in-denton-tx/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Best Cheap Video Doorbells for 2024](https://www.cnet.com/home/security/best-cheap-video-doorbells/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Razorbill birds: They have a unique look!!](http://9gag.com/gag/aPA3Epw)
- - 😝 [The TRUE nice guy! \ud83d\udc95](http://9gag.com/gag/aPA3E3G)
- - 💣 [Freedom intensifies](http://9gag.com/gag/aBy2BbD)
+ - 😝 [Syria today. The dictator is gone, long live the new dictator. Belgian cartoon](http://9gag.com/gag/aKG6RZ1)
+ - 😝 [Checkmate](http://9gag.com/gag/aXPo5mg)
+ - 💣 [This is what being very rich looks like](http://9gag.com/gag/a5QE40O)
  - 😝 [No cap, they\u2019re dropping quack beats! \ud83e\udd86\ud83d\udca5](http://9gag.com/gag/aoyMb9A)
- - 👉 [Salma Hayek in M\u00e9xico city 1988](http://9gag.com/gag/aqyjPBQ)<!-- MEMES:END -->
+ - 👉 [Dogs are Angels](http://9gag.com/gag/aqyjqmj)<!-- MEMES:END -->
 
 ---
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [I understood that reference... Both of them](http://9gag.com/gag/azxMNxb)
- - 😝 [How does DC motor work ??](http://9gag.com/gag/a4PEvEA)
- - 💣 [Boyfriend surprises his girlfriend with a wonderful reunion with her parents after being apart for so long](http://9gag.com/gag/ayNMONM)
- - 😝 [Wife material](http://9gag.com/gag/ae9AX0v)
- - 👉 [Now you understand the reason?](http://9gag.com/gag/aPA3bEK)<!-- MEMES:END -->
+ - 😝 [Title](http://9gag.com/gag/a0e7m7q)
+ - 😝 [A high school football star spent six years in prison accused of a false rape charge, which was dismissed after his 16-year-old accuser admitted the incident had been fabricated. He became very emotional when the case was closed.](http://9gag.com/gag/a34E6Ze)
+ - 💣 [Who was there with us that specific night?](http://9gag.com/gag/aQzowZd)
+ - 😝 [Father of The Year](http://9gag.com/gag/awyMwBW)
+ - 👉 [The media bending over backwards to control the narrative while the house of cards collapse...](http://9gag.com/gag/an7QAeb)<!-- MEMES:END -->
 
 ---
 

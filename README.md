@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [YouTube Kids is getting a redesign to make it look more like YouTube](https://www.theverge.com/2024/12/10/24318139/youtube-kids-mobile-app-update-android-ios-redesign)
  - [YouTube rolls out its auto-dubbing feature, which generates translated audio tracks, to hundreds of thousands of channels focused on knowledge and information &lpar;Lauren Forristal/TechCrunch&rpar;](http://www.techmeme.com/241210/p19#a241210p19)
  - [Google’s future data centers will be built next to solar and wind farms](https://www.theverge.com/2024/12/10/24317888/googles-data-center-solar-wind-renewable-energy-intersect-partnership)
  - [Microsoft is giving Copilot a new taskbar UI and keyboard shortcut on Windows](https://www.theverge.com/2024/12/10/24318241/microsoft-copilot-native-app-quick-view-windows-10-11)
- - [GM says Cruise will exit the robotaxi business, and Cruise and GM&#39;s technical teams will be combined to focus on autonomous tech for upcoming GM vehicles &lpar;David Welch/Bloomberg&rpar;](http://www.techmeme.com/241210/p18#a241210p18)
- - [Cruise’s robotaxi service will shut down as GM pulls its funding](https://www.theverge.com/2024/12/10/24318259/gm-cruise-shutdown-robotaxi-super-cruise)<!-- TECH:END -->
+ - [GM says Cruise will exit the robotaxi business, and Cruise and GM&#39;s technical teams will be combined to focus on autonomous tech for upcoming GM vehicles &lpar;David Welch/Bloomberg&rpar;](http://www.techmeme.com/241210/p18#a241210p18)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Apple Vision Pro becomes a virtual design studio with &#39;Analogue&#39;](https://appleinsider.com/articles/24/12/10/apple-vision-pro-becomes-a-virtual-design-studio-with-analogue?utm_medium=rss)
+ - [The Best Cookbooks of 2024: Big Dip Energy, Ottolenghi Comfort, and More](https://www.wired.com/gallery/the-best-cookbooks-of-2024/)
  - [The death of a robot designed for autistic children proves Apple&#39;s on-device AI is the right path](https://appleinsider.com/articles/24/12/10/the-death-of-a-robot-designed-for-autistic-children-proves-apples-on-device-ai-is-the-right-path?utm_medium=rss)
  - [Omega Speedmaster Pilot 2024: Price, Specs, Availability](https://www.wired.com/story/omega-speedmaster-pilot-2024/)
- - [Blue Apron Review: Not as Good as It Once Was](https://www.wired.com/review/blue-apron/)
- - [Half of Apple developers have doubts about making Apple Vision Pro apps](https://appleinsider.com/articles/24/12/10/half-of-apple-developers-have-doubts-about-making-apple-vision-pro-apps?utm_medium=rss)
- - [Update your iPhone now to stop your iCloud data from getting stolen](https://appleinsider.com/articles/24/12/10/update-your-iphone-now-to-stop-your-icloud-data-from-getting-stolen?utm_medium=rss)<!-- TECH:END -->
+ - [Blue Apron Review: Not as Good as It Once Was](https://www.wired.com/review/blue-apron/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

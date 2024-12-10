@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Mess around and find out](http://9gag.com/gag/axyMxv1)
- - 😝 [Like a robot](http://9gag.com/gag/ajPmoLw)
- - 💣 [Bro what?](http://9gag.com/gag/adB8ZV2)
- - 😝 [Father of The Year](http://9gag.com/gag/awyMwBW)
- - 👉 [Wife material](http://9gag.com/gag/ae9AX0v)<!-- MEMES:END -->
+ - 😝 [Logic is good.](http://9gag.com/gag/a9yEQNZ)
+ - 😝 [Wife material](http://9gag.com/gag/ae9AX0v)
+ - 💣 [The sound is purfect](http://9gag.com/gag/ayNMyjq)
+ - 😝 [...](http://9gag.com/gag/aqyjq37)
+ - 👉 [Stay strong brotha](http://9gag.com/gag/agmBR2r)<!-- MEMES:END -->
 
 ---
 

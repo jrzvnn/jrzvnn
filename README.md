@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Flash deal: Apple&#39;s 2024 iPad Air M2 falls to all-time low $469](https://appleinsider.com/articles/24/12/10/flash-deal-apples-2024-ipad-air-m2-falls-to-all-time-low-469?utm_medium=rss)
- - [Solos challenges Meta’s Ray-Bans with $299 ChatGPT smart glasses](https://www.theverge.com/2024/12/10/24317805/solos-airgo-vision-chatgpt-ai-smart-glasses-price-availability)
- - [25 Great Gifts for Mom: Ideas for the Best Mother &lpar;2024&rpar;](https://www.wired.com/gallery/gifts-for-moms/)
- - [Fortnite FTC refunds are starting to show up](https://www.theverge.com/2024/12/10/24317779/fortnite-players-receiving-ftc-refunds)
- - [Amazon launches Amazon Autos, letting US users buy a Hyundai with plans to add dealerships and manufacturers in 2025, after announcing it in November 2023 &lpar;Boone Ashworth/Wired&rpar;](http://www.techmeme.com/241210/p11#a241210p11)<!-- TECH:END -->
+ - [Solos debuts the AirGo Vision, a camera-equipped pair of smart glasses featuring visual recognition powered by OpenAI&#39;s GPT-4o, available now starting from $299 &lpar;Jess Weatherbed/The Verge&rpar;](http://www.techmeme.com/241210/p12#a241210p12)
+ - [Apple Music Radio taps big talent for three new stations](https://appleinsider.com/articles/24/12/10/apple-music-radio-taps-big-talent-for-three-new-stations?utm_medium=rss)
+ - [I want to push the big red AC buttons on Genki’s USB-C packed power strip](https://www.theverge.com/2024/12/10/24317792/genki-moonbase-moonlink-usb-c-power-charger-cables)
+ - [Luigi Mangione Is Everywhere](https://www.wired.com/story/the-internet-is-gripped-by-mangione-mania/)
+ - [9 Best 2-in-1 Laptops to Flip Between Work and Play &lpar;2024&rpar;, Tested and Reviewed](https://www.wired.com/gallery/best-2-in-1-laptops/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

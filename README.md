@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Oscar winner Olivia Colman](http://9gag.com/gag/amoPevX)
- - 😝 [Mess around and find out](http://9gag.com/gag/axyMxv1)
- - 💣 [Peek a Boo!](http://9gag.com/gag/aKG6rpg)
+ - 😝 [This is what being very rich looks like](http://9gag.com/gag/a5QE40O)
+ - 😝 [The way this food vendor cuts and debones the chicken.](http://9gag.com/gag/a4PEDNA)
+ - 💣 [I understood that reference... Both of them](http://9gag.com/gag/azxMNxb)
  - 😝 [No cap, they\u2019re dropping quack beats! \ud83e\udd86\ud83d\udca5](http://9gag.com/gag/aoyMb9A)
- - 👉 [Transformer girl](http://9gag.com/gag/aMVKoXX)<!-- MEMES:END -->
+ - 👉 [Based](http://9gag.com/gag/aQzo0Bw)<!-- MEMES:END -->
 
 ---
 

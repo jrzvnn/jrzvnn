@@ -159,9 +159,9 @@ R                        1 repo              ░░░░░░░░░░░�
 <!-- TECH:START -->
  - [Solos challenges Meta’s Ray-Bans with $299 ChatGPT smart glasses](https://www.theverge.com/2024/12/10/24317805/solos-airgo-vision-chatgpt-ai-smart-glasses-price-availability)
  - [25 Great Gifts for Mom: Ideas for the Best Mother &lpar;2024&rpar;](https://www.wired.com/gallery/gifts-for-moms/)
+ - [We Found a Deal That Knocks 74% Off the Samsung Wireless Charger &amp; UV Sanitizer Pod](https://www.cnet.com/deals/we-found-a-deal-that-knocks-74-off-the-samsung-wireless-charger-uv-sanitizer-pod/#ftag=CAD590a51e)
  - [Fortnite FTC refunds are starting to show up](https://www.theverge.com/2024/12/10/24317779/fortnite-players-receiving-ftc-refunds)
- - [Amazon launches Amazon Autos, letting US users buy a Hyundai with plans to add dealerships and manufacturers in 2025, after announcing it in November 2023 &lpar;Boone Ashworth/Wired&rpar;](http://www.techmeme.com/241210/p11#a241210p11)
- - [The Vergecast Vergecast, part two](https://www.theverge.com/2024/12/10/24317808/future-of-media-verge-subscription-podcasts-vergecast)<!-- TECH:END -->
+ - [Amazon launches Amazon Autos, letting US users buy a Hyundai with plans to add dealerships and manufacturers in 2025, after announcing it in November 2023 &lpar;Boone Ashworth/Wired&rpar;](http://www.techmeme.com/241210/p11#a241210p11)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

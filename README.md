@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [I understood that reference... Both of them](http://9gag.com/gag/azxMNxb)
- - 😝 [Boyfriend surprises his girlfriend with a wonderful reunion with her parents after being apart for so long](http://9gag.com/gag/ayNMONM)
- - 💣 [Logic is good.](http://9gag.com/gag/a9yEQNZ)
- - 😝 [Wife material](http://9gag.com/gag/ae9AX0v)
- - 👉 [Stay strong brotha](http://9gag.com/gag/agmBR2r)<!-- MEMES:END -->
+ - 😝 [Bro what?](http://9gag.com/gag/adB8ZV2)
+ - 😝 [How is this even possible!](http://9gag.com/gag/aZZ0e4X)
+ - 💣 [Father of The Year](http://9gag.com/gag/awyMwBW)
+ - 😝 [Guys! believe us! he is not a SCAPEGOAT!! -fbi](http://9gag.com/gag/a2v7QO1)
+ - 👉 [Wife material](http://9gag.com/gag/ae9AX0v)<!-- MEMES:END -->
 
 ---
 

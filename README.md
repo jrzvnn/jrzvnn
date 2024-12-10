@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The Iconic Abbey Road Audio Experience is Coming to Cars—and Maybe Your Next Headphones](https://www.wired.com/story/how-bandw-and-volvo-made-cars-sound-like-the-worlds-most-famous-recording-studio-are-headphones-next/)
+ - [Instagram will let creators test experimental reels on random people](https://www.theverge.com/2024/12/10/24317762/instagram-trial-reels-test-feature-availability)
  - [California could become the first state to require social media warning labels](https://www.theverge.com/2024/12/10/24317835/california-social-media-warning-labels-bill)
  - [Amazon’s online car dealership with Hyundai is now live](https://www.theverge.com/2024/12/10/24317821/amazon-autos-hyundai-online-car-shopping)
- - [Solos debuts the AirGo Vision, a camera-equipped pair of smart glasses featuring visual recognition powered by OpenAI&#39;s GPT-4o, available now starting from $299 &lpar;Jess Weatherbed/The Verge&rpar;](http://www.techmeme.com/241210/p12#a241210p12)
- - [I Found a Google Pixel Tablet Deal for $120 Off, Matching Its Black Friday Price](https://www.cnet.com/deals/i-found-a-google-pixel-tablet-deal-for-120-off-matching-its-black-friday-price/#ftag=CAD590a51e)
- - [Apple Music Radio taps big talent for three new stations](https://appleinsider.com/articles/24/12/10/apple-music-radio-taps-big-talent-for-three-new-stations?utm_medium=rss)<!-- TECH:END -->
+ - [Solos debuts the AirGo Vision, a camera-equipped pair of smart glasses featuring visual recognition powered by OpenAI&#39;s GPT-4o, available now starting from $299 &lpar;Jess Weatherbed/The Verge&rpar;](http://www.techmeme.com/241210/p12#a241210p12)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Poker Cheaters Allegedly Use Tiny Hidden Cameras to Spot Dealt Cards](https://www.wired.com/story/miniature-camera-poker-cheating/)
- - [Paris-based Aqemia, which aims to scale drug discovery using quantum algorithms and AI, raised $38M led by Cathay Innovation, after raising &amp;euro;30M in January 2024 &lpar;Paul Sawers/TechCrunch&rpar;](http://www.techmeme.com/241210/p9#a241210p9)
- - [The Best Gifts From Walmart for Everyone on Your Holiday List](https://www.cnet.com/news/best-walmart-gifts/#ftag=CAD590a51e)
- - [Best Sim Racing Cockpit for 2024](https://www.cnet.com/roadshow/news/best-sim-racing-cockpit/#ftag=CAD590a51e)
- - [The US Commerce Department finalizes a $6.1B+ subsidy for memory chipmaker Micron under the CHIPS Act to fund its factory projects in New York and Idaho &lpar;Deborah Sophia/Reuters&rpar;](http://www.techmeme.com/241210/p8#a241210p8)<!-- TECH:END -->
+ - [The death of a robot designed for autistic children proves Apple&#39;s on-device AI is the right path](https://appleinsider.com/articles/24/12/10/the-death-of-a-robot-designed-for-autistic-children-proves-apples-on-device-ai-is-the-right-path?utm_medium=rss)
+ - [Omega Speedmaster Pilot 2024: Price, Specs, Availability](https://www.wired.com/story/omega-speedmaster-pilot-2024/)
+ - [Blue Apron Review: Not as Good as It Once Was](https://www.wired.com/review/blue-apron/)
+ - [Half of Apple developers have doubts about making Apple Vision Pro apps](https://appleinsider.com/articles/24/12/10/half-of-apple-developers-have-doubts-about-making-apple-vision-pro-apps?utm_medium=rss)
+ - [Update your iPhone now to stop your iCloud data from getting stolen](https://appleinsider.com/articles/24/12/10/update-your-iphone-now-to-stop-your-icloud-data-from-getting-stolen?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

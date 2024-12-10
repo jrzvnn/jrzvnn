@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The best deals on MacBooks right now](https://www.theverge.com/22399419/apple-macbook-air-pro-mac-mini-imac-deals)
  - [Every smart home device that works with Matter](https://www.theverge.com/23568091/matter-compatible-devices-accessories-apple-amazon-google-samsung)
  - [Instagram officially rolls out &quot;trial reels&quot;, which give creators a way to test out videos by publishing them only to people who don&#39;t follow them &lpar;Aisha Malik/TechCrunch&rpar;](http://www.techmeme.com/241210/p14#a241210p14)
  - [The Internet’s Obsession With Luigi Mangione Signals a Major Shift](https://www.wired.com/story/internet-culture-luigi-mangione-major-shift-fandom/)
- - [Over $6 billion in CHIPS Act funding finalized for Micron plants in the US](https://www.theverge.com/2024/12/10/24317897/micron-chips-act-6-1-billion-subsidy-grant-new-plants-idaho-new-york-virginia)
- - [Character.AI sued again over ‘harmful’ messages sent to teens](https://www.theverge.com/2024/12/10/24317839/character-ai-lawsuit-teen-harmful-messages-mental-health)<!-- TECH:END -->
+ - [Over $6 billion in CHIPS Act funding finalized for Micron plants in the US](https://www.theverge.com/2024/12/10/24317897/micron-chips-act-6-1-billion-subsidy-grant-new-plants-idaho-new-york-virginia)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

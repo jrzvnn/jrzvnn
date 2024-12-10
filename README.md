@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [How to free up space on a Windows PC](https://www.theverge.com/24318085/windows-microsoft-pc-storage-how-to)
  - [Apple Watch Ultra 3 could bring Messages via Satellite to your wrist](https://appleinsider.com/articles/24/12/10/apple-watch-ultra-3-could-bring-messages-via-satellite-to-your-wrist?utm_medium=rss)
- - [The 33 Best Shows on Apple TV+ Right Now &lpar;December 2024&rpar;](https://www.wired.com/story/best-apple-tv-plus-shows/)
- - [Sources: 2025&#39;s Apple Watch Ultra is slated to get satellite connectivity for off-the-grid text messages, and it may also get a blood pressure sensing feature &lpar;Mark Gurman/Bloomberg&rpar;](http://www.techmeme.com/241210/p17#a241210p17)
- - [&#39;High Potential&#39; Hiatus: When Does the Next Episode Come Out?](https://www.cnet.com/tech/services-and-software/high-potential-hiatus-when-does-the-next-episode-come-out/#ftag=CAD590a51e)
- - [Best Laptop Deals: Get Up to $570 Off MacBooks, Alienware, HP and More](https://www.cnet.com/deals/best-laptop-deals/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [The next Apple Watch Ultra could have satellite texting](https://www.theverge.com/2024/12/10/24318154/apple-watch-ultra-satellite-texting-messaging-blood-pressure-monitoring)
+ - [New Beats Pill gets first firmware update since June launch](https://appleinsider.com/articles/24/12/10/new-beats-pill-gets-first-firmware-update-since-june-launch?utm_medium=rss)
+ - [Best AirPods Deals: Shop the Lowest Prices Out There on Apple Earbuds](https://www.cnet.com/deals/best-airpods-deals/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

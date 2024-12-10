@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Salma Hayek in M\u00e9xico city 1988](http://9gag.com/gag/aqyjPBQ)
- - 😝 [How is this even possible!](http://9gag.com/gag/aZZ0e4X)
+ - 😝 [The TRUE nice guy! \ud83d\udc95](http://9gag.com/gag/aPA3E3G)
+ - 😝 [When Cops give you a Unibrow](http://9gag.com/gag/aYQozWO)
  - 💣 [Like a robot](http://9gag.com/gag/ajPmoLw)
  - 😝 [He told them](http://9gag.com/gag/a1mrz92)
- - 👉 [When Cops give you a Unibrow](http://9gag.com/gag/aYQozWO)<!-- MEMES:END -->
+ - 👉 [Title](http://9gag.com/gag/a0e7m7q)<!-- MEMES:END -->
 
 ---
 

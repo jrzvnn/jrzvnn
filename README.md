@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Meet the Conspiracy Filmmaker Who Claims to Have Red-Pilled Tulsi Gabbard](https://www.wired.com/story/mikki-willis-tulsi-gabbard-red-pilled-plandemic/)
- - [How to free up space on a Windows PC](https://www.theverge.com/24318085/windows-microsoft-pc-storage-how-to)
- - [Apple Watch Ultra 3 could bring Messages via Satellite to your wrist](https://appleinsider.com/articles/24/12/10/apple-watch-ultra-3-could-bring-messages-via-satellite-to-your-wrist?utm_medium=rss)
- - [The next Apple Watch Ultra could have satellite texting](https://www.theverge.com/2024/12/10/24318154/apple-watch-ultra-satellite-texting-messaging-blood-pressure-monitoring)
- - [New Beats Pill gets first firmware update since June launch](https://appleinsider.com/articles/24/12/10/new-beats-pill-gets-first-firmware-update-since-june-launch?utm_medium=rss)<!-- TECH:END -->
+ - [Google’s future data centers will be built next to solar and wind farms](https://www.theverge.com/2024/12/10/24317888/googles-data-center-solar-wind-renewable-energy-intersect-partnership)
+ - [Microsoft is giving Copilot a new taskbar UI and keyboard shortcut on Windows](https://www.theverge.com/2024/12/10/24318241/microsoft-copilot-native-app-quick-view-windows-10-11)
+ - [GM says Cruise will exit the robotaxi business, and Cruise and GM&#39;s technical teams will be combined to focus on autonomous tech for upcoming GM vehicles &lpar;David Welch/Bloomberg&rpar;](http://www.techmeme.com/241210/p18#a241210p18)
+ - [Cruise’s robotaxi service will shut down as GM pulls its funding](https://www.theverge.com/2024/12/10/24318259/gm-cruise-shutdown-robotaxi-super-cruise)
+ - [Best iPad Deals: Score Great Holiday Gifts With Big Discounts on Apple Tablets](https://www.cnet.com/deals/best-ipad-deals/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Brosnan posture shows command and lack of fear for weaponry, like someone who has fired guns so much it is second nature for him](http://9gag.com/gag/aMVKRwA)
- - 😝 [Someone\u2019s always gotta ruin everyone\u2019s fun](http://9gag.com/gag/a2v7BwY)
- - 💣 [Even the rain knows not to disrespect an anime beauty.](http://9gag.com/gag/axyMLeK)
+ - 😝 [Oscar winner Olivia Colman](http://9gag.com/gag/amoPevX)
+ - 😝 [Mess around and find out](http://9gag.com/gag/axyMxv1)
+ - 💣 [Peek a Boo!](http://9gag.com/gag/aKG6rpg)
  - 😝 [No cap, they\u2019re dropping quack beats! \ud83e\udd86\ud83d\udca5](http://9gag.com/gag/aoyMb9A)
- - 👉 [Black one..](http://9gag.com/gag/aMVKMjP)<!-- MEMES:END -->
+ - 👉 [Transformer girl](http://9gag.com/gag/aMVKoXX)<!-- MEMES:END -->
 
 ---
 

@@ -158,10 +158,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- TECH:START -->
  - [Sources: EU regulators asked Google for more info in October about a secret ads partnership with Meta which skirted Google&#39;s own rules for targeting minors &lpar;Financial Times&rpar;](http://www.techmeme.com/241210/p1#a241210p1)
- - [Today&#39;s NYT Mini Crossword Answers for Tuesday, Dec. 10](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-tuesday-dec-10/#ftag=CAD590a51e)
  - [Today&#39;s NYT Connections Hints, Answers and Help for Dec. 10, #548](https://www.cnet.com/tech/gaming/todays-nyt-connections-hints-answers-and-help-for-dec-10-548/#ftag=CAD590a51e)
  - [Today&#39;s NYT Strands Hints, Answers and Help for Dec. 10, #282](https://www.cnet.com/tech/gaming/todays-nyt-strands-hints-answers-and-help-for-dec-10-282/#ftag=CAD590a51e)
- - [Today&#39;s Wordle Hints, Answer and Help for Dec. 10, #1270](https://www.cnet.com/tech/gaming/todays-wordle-hints-answer-and-help-for-dec-10-1270/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Today&#39;s Wordle Hints, Answer and Help for Dec. 10, #1270](https://www.cnet.com/tech/gaming/todays-wordle-hints-answer-and-help-for-dec-10-1270/#ftag=CAD590a51e)
+ - [Today&#39;s NYT Mini Crossword Answers for Tuesday, Dec. 10](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-tuesday-dec-10/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Stainless, a startup offering an AI-powered API-to-SDK generator to customers like OpenAI, Anthropic, and Meta, raised a $25M Series A led by a16z &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/241210/p16#a241210p16)
  - [Cyberpunk 2077 just got a whole bunch of new ways to customize your character](https://www.theverge.com/2024/12/10/24318015/cyberpunk-2077-character-creator-car-customize-photo-mode)
  - [Google Docs adds 40 new templates to spruce up your documents](https://www.theverge.com/2024/12/10/24317958/google-docs-40-new-templates-launch)
  - [Castlevania: Nocturne’s new season 2 trailer pits vampires against a dragon](https://www.theverge.com/2024/12/10/24317950/castlevania-nocturne-season-2-trailer-premiere-date-netflix)
- - [The US sanctions Chinese cybersecurity government contractor Sichuan Silence and one of its staff over Ragnarok ransomware ties and creating and using zero-days &lpar;Sergiu Gatlan/BleepingComputer&rpar;](http://www.techmeme.com/241210/p15#a241210p15)
- - [Sonos Arc Ultra review: don’t call it a comeback &lpar;yet&rpar;](https://www.theverge.com/24315195/sonos-arc-ultra-soundbar-review-dolby-atmos-more-bass)<!-- TECH:END -->
+ - [The US sanctions Chinese cybersecurity government contractor Sichuan Silence and one of its staff over Ragnarok ransomware ties and creating and using zero-days &lpar;Sergiu Gatlan/BleepingComputer&rpar;](http://www.techmeme.com/241210/p15#a241210p15)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

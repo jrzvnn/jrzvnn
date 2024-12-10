@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [Guys, sad hulk is back](https://www.reddit.com/r/memes/comments/1hbaeko/guys_sad_hulk_is_back/)
  - 😝 [Luigi Mangione, suspect in C.E.O. killing, photographed in his holding cell after being charged with murder](http://9gag.com/gag/aD2dBjd)
- - 😝 [Bro what?](http://9gag.com/gag/adB8ZV2)
- - 💣 [Storytime](http://9gag.com/gag/aBy2p3Q)
- - 😝 [Title](http://9gag.com/gag/a0e7m7q)
- - 👉 [Wife material](http://9gag.com/gag/ae9AX0v)<!-- MEMES:END -->
+ - 💣 [Bro what?](http://9gag.com/gag/adB8ZV2)
+ - 😝 [Storytime](http://9gag.com/gag/aBy2p3Q)
+ - 👉 [Title](http://9gag.com/gag/a0e7m7q)<!-- MEMES:END -->
 
 ---
 

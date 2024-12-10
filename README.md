@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Father of The Year](http://9gag.com/gag/awyMwBW)
- - 😝 [Brosnan posture shows command and lack of fear for weaponry, like someone who has fired guns so much it is second nature for him](http://9gag.com/gag/aMVKRwA)
- - 💣 [It happened boys,](http://9gag.com/gag/aZZ0Agn)
+ - 😝 [Mess around and find out](http://9gag.com/gag/axyMxv1)
+ - 😝 [How is this even possible!](http://9gag.com/gag/aZZ0e4X)
+ - 💣 [Storytime](http://9gag.com/gag/aBy2p3Q)
  - 😝 [No cap, they\u2019re dropping quack beats! \ud83e\udd86\ud83d\udca5](http://9gag.com/gag/aoyMb9A)
- - 👉 [Mark Rober video exposing Indian call centers showed several of the scammers using 9gag!](http://9gag.com/gag/a87ERN1)<!-- MEMES:END -->
+ - 👉 [Father of The Year](http://9gag.com/gag/awyMwBW)<!-- MEMES:END -->
 
 ---
 

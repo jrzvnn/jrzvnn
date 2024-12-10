@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [They&#39;re so realistic](http://9gag.com/gag/a6ZEPOq)
- - 😝 [Someone\u2019s always gotta ruin everyone\u2019s fun](http://9gag.com/gag/a2v7BwY)
- - 💣 [The TRUE nice guy! \ud83d\udc95](http://9gag.com/gag/aPA3E3G)
+ - 😝 [Love gone wrong](http://9gag.com/gag/aPA3bMG)
+ - 😝 [Oh, that&#39;s just great](http://9gag.com/gag/aW4jz94)
+ - 💣 [Mess around and find out](http://9gag.com/gag/axyMxv1)
  - 😝 [No cap, they\u2019re dropping quack beats! \ud83e\udd86\ud83d\udca5](http://9gag.com/gag/aoyMb9A)
- - 👉 [Oh, that&#39;s just great](http://9gag.com/gag/aW4jz94)<!-- MEMES:END -->
+ - 👉 [Even the rain knows not to disrespect an anime beauty.](http://9gag.com/gag/axyMLeK)<!-- MEMES:END -->
 
 ---
 

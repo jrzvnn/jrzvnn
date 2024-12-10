@@ -166,10 +166,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [Salma Hayek in M\u00e9xico city 1988](http://9gag.com/gag/aqyjPBQ)
+ - 😝 [How is this even possible!](http://9gag.com/gag/aZZ0e4X)
+ - 💣 [Like a robot](http://9gag.com/gag/ajPmoLw)
  - 😝 [He told them](http://9gag.com/gag/a1mrz92)
- - 😝 [Like a robot](http://9gag.com/gag/ajPmoLw)
- - 💣 [The media bending over backwards to control the narrative while the house of cards collapse...](http://9gag.com/gag/an7QAeb)
- - 😝 [Islamic Syrian crowd invades Essen&#39;s &lpar;Germany&rpar; Christmas markets shouting `Allah Akbar`](http://9gag.com/gag/aQzow5r)
  - 👉 [When Cops give you a Unibrow](http://9gag.com/gag/aYQozWO)<!-- MEMES:END -->
 
 ---

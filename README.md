@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple Vision Pro becomes a virtual design studio with &#39;Analogue&#39;](https://appleinsider.com/articles/24/12/10/apple-vision-pro-becomes-a-virtual-design-studio-with-analogue?utm_medium=rss)
- - [The Best Cookbooks of 2024: Big Dip Energy, Ottolenghi Comfort, and More](https://www.wired.com/gallery/the-best-cookbooks-of-2024/)
- - [The death of a robot designed for autistic children proves Apple&#39;s on-device AI is the right path](https://appleinsider.com/articles/24/12/10/the-death-of-a-robot-designed-for-autistic-children-proves-apples-on-device-ai-is-the-right-path?utm_medium=rss)
- - [Omega Speedmaster Pilot 2024: Price, Specs, Availability](https://www.wired.com/story/omega-speedmaster-pilot-2024/)
- - [Blue Apron Review: Not as Good as It Once Was](https://www.wired.com/review/blue-apron/)<!-- TECH:END -->
+ - [Amazon launches Amazon Autos, letting US users buy a Hyundai with plans to add dealerships and manufacturers in 2025, after announcing it in November 2023 &lpar;Boone Ashworth/Wired&rpar;](http://www.techmeme.com/241210/p11#a241210p11)
+ - [The Vergecast Vergecast, part two](https://www.theverge.com/2024/12/10/24317808/future-of-media-verge-subscription-podcasts-vergecast)
+ - [The dead are still raging in 28 Years Later’s first trailer](https://www.theverge.com/2024/12/10/24317796/28-years-later-trailer)
+ - [Box users gain Adobe Express AI image editing features with new partnership](https://appleinsider.com/articles/24/12/10/box-users-gain-adobe-express-ai-image-editing-features-with-new-partnership?utm_medium=rss)
+ - [AI language learning startup Speak, which focuses on speaking, not gamification, raised $78M led by Accel at a $1B valuation, taking its total funding to $162M &lpar;Jackie Davalos/Bloomberg&rpar;](http://www.techmeme.com/241210/p10#a241210p10)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

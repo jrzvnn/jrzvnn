@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [A high school football star spent six years in prison accused of a false rape charge, which was dismissed after his 16-year-old accuser admitted the incident had been fabricated. He became very emotional when the case was closed.](http://9gag.com/gag/a34E6Ze)
- - 😝 [Freedom intensifies](http://9gag.com/gag/aBy2BbD)
- - 💣 [Storytime](http://9gag.com/gag/aBy2p3Q)
+ - 😝 [They&#39;re so realistic](http://9gag.com/gag/a6ZEPOq)
+ - 😝 [Someone\u2019s always gotta ruin everyone\u2019s fun](http://9gag.com/gag/a2v7BwY)
+ - 💣 [The TRUE nice guy! \ud83d\udc95](http://9gag.com/gag/aPA3E3G)
  - 😝 [No cap, they\u2019re dropping quack beats! \ud83e\udd86\ud83d\udca5](http://9gag.com/gag/aoyMb9A)
- - 👉 [Brosnan posture shows command and lack of fear for weaponry, like someone who has fired guns so much it is second nature for him](http://9gag.com/gag/aMVKRwA)<!-- MEMES:END -->
+ - 👉 [Oh, that&#39;s just great](http://9gag.com/gag/aW4jz94)<!-- MEMES:END -->
 
 ---
 

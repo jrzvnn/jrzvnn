@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The Suicide Squad game’s final season is coming less than a year after launch](https://www.theverge.com/2024/12/9/24317407/suicide-squad-kill-the-justice-league-final-season-offline-mode)
- - [Google reveals quantum computing chip with ‘breakthrough’ achievements](https://www.theverge.com/2024/12/9/24317382/google-willow-quantum-computing-chip-breakthrough)
- - [Walking Pad](https://www.cnet.com/health/fitness/walking-pad2-dpnl/#ftag=CAD590a51e)
- - [Norwegian payment service Vipps launches the world&#39;s first alternative to Apple Pay on iPhone, following Apple&#39;s move to open up NFC access to devs in iOS 18.1 &lpar;Tim Hardwick/MacRumors&rpar;](http://www.techmeme.com/241209/p27#a241209p27)
- - [When to Watch the &#39;Secret Level&#39; Animated Series](https://www.cnet.com/tech/services-and-software/when-to-watch-the-secret-level-animated-series/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Stability AI CEO Prem Akkaraju, who was hired in June 2024, says the startup has seen &quot;triple digit growth&quot; and has &quot;a clean balance sheet, no debt&quot; &lpar;Kali Hays/Fortune&rpar;](http://www.techmeme.com/241209/p30#a241209p30)
+ - [How WhatsApp has evolved from a messaging app into a comprehensive business platform, aggressively luring businesses to its suite of paid messaging products &lpar;Issie Lapowsky/Rest of World&rpar;](http://www.techmeme.com/241209/p29#a241209p29)
+ - [A deep dive into &quot;debanking&quot;, which crypto advocates, including a16z, claim has been used against them by US political actors and agencies without due process &lpar;Patrick McKenzie/Bits about Money&rpar;](http://www.techmeme.com/241209/p28#a241209p28)
+ - [Watch Google Quantum AI Reveal Willow Quantum Computing Chip video](https://www.cnet.com/videos/watch-google-quantum-ai-reveal-willow-quantum-computing-chip/#ftag=CAD590a51e)
+ - [$25 Plane Tickets for Young Adults: Amazon Is Selling 1,000 Each Day This Week](https://www.cnet.com/deals/25-plane-tickets-for-young-adults-amazon-will-sell-1000-each-day-this-week/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Sources: 2025&#39;s Apple Watch Ultra is slated to get satellite connectivity for off-the-grid text messages, and it may also get a blood pressure sensing feature &lpar;Mark Gurman/Bloomberg&rpar;](http://www.techmeme.com/241210/p17#a241210p17)
+ - [&#39;High Potential&#39; Hiatus: When Does the Next Episode Come Out?](https://www.cnet.com/tech/services-and-software/high-potential-hiatus-when-does-the-next-episode-come-out/#ftag=CAD590a51e)
+ - [Best Laptop Deals: Get Up to $570 Off MacBooks, Alienware, HP and More](https://www.cnet.com/deals/best-laptop-deals/#ftag=CAD590a51e)
  - [11 Great Best Buy Deals on Apple MacBooks, iPads, and More](https://www.wired.com/story/apple-best-buy-deals-december-2024/)
- - [The best wireless earbuds to buy right now](https://www.theverge.com/21309820/best-wireless-earbuds)
- - [If you absolutely must sing along with Wicked, do it here](https://www.theverge.com/2024/12/10/24318074/wicked-sing-along-screenings-premiere-date)
- - [&#39;Resident Evil 2&#39; lands early on Mac, iPad, and iPhone](https://appleinsider.com/articles/24/12/10/resident-evil-2-lands-early-on-mac-ipad-and-iphone?utm_medium=rss)
- - [Your Dishwasher Is Gross. Here’s How to Clean It](https://www.cnet.com/home/kitchen-and-household/your-dishwasher-is-gross-heres-how-to-clean-it/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [I&#39;m a Student Loan Expert. Here&#39;s What Borrowers Should Do Before 2025](https://www.cnet.com/personal-finance/loans/im-a-student-loan-expert-heres-what-borrowers-should-do-before-2025/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

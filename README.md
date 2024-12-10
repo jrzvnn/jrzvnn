@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Meet the Conspiracy Filmmaker Who Claims to Have Red-Pilled Tulsi Gabbard](https://www.wired.com/story/mikki-willis-tulsi-gabbard-red-pilled-plandemic/)
  - [How to free up space on a Windows PC](https://www.theverge.com/24318085/windows-microsoft-pc-storage-how-to)
  - [Apple Watch Ultra 3 could bring Messages via Satellite to your wrist](https://appleinsider.com/articles/24/12/10/apple-watch-ultra-3-could-bring-messages-via-satellite-to-your-wrist?utm_medium=rss)
  - [The next Apple Watch Ultra could have satellite texting](https://www.theverge.com/2024/12/10/24318154/apple-watch-ultra-satellite-texting-messaging-blood-pressure-monitoring)
- - [New Beats Pill gets first firmware update since June launch](https://appleinsider.com/articles/24/12/10/new-beats-pill-gets-first-firmware-update-since-june-launch?utm_medium=rss)
- - [Best AirPods Deals: Shop the Lowest Prices Out There on Apple Earbuds](https://www.cnet.com/deals/best-airpods-deals/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [New Beats Pill gets first firmware update since June launch](https://appleinsider.com/articles/24/12/10/new-beats-pill-gets-first-firmware-update-since-june-launch?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

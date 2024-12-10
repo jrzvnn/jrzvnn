@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Wife material](http://9gag.com/gag/ae9AX0v)
- - 😝 [Father of The Year](http://9gag.com/gag/awyMwBW)
- - 💣 [Luigi Mangione, suspect in C.E.O. killing, photographed in his holding cell after being charged with murder](http://9gag.com/gag/aD2dBjd)
+ - 😝 [Brosnan posture shows command and lack of fear for weaponry, like someone who has fired guns so much it is second nature for him](http://9gag.com/gag/aMVKRwA)
+ - 😝 [Google\u2019s Willow Quantum Chip: With 105 qubits and real-time error correction, Willow solved a task in 5 minutes that would take classical supercomputers billions of years, marking a breakthrough in scalable quantum computing.](http://9gag.com/gag/ae9AoXp)
+ - 💣 [Father of The Year](http://9gag.com/gag/awyMwBW)
  - 😝 [Like a robot](http://9gag.com/gag/ajPmoLw)
- - 👉 [Bro what?](http://9gag.com/gag/adB8ZV2)<!-- MEMES:END -->
+ - 👉 [$60,000 gone with the wind](http://9gag.com/gag/a2v1EYp)<!-- MEMES:END -->
 
 ---
 

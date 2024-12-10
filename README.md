@@ -158,10 +158,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- TECH:START -->
  - [The YouTube Kids mobile app gets a redesign that makes it look more like the standard YouTube app and lets users browse through videos in portrait mode &lpar;Quentyn Kennemer/The Verge&rpar;](http://www.techmeme.com/241210/p20#a241210p20)
- - [New 2024 Christmas Movies on Netflix, Hulu and More You Can Unwrap Now](https://www.cnet.com/tech/services-and-software/new-2024-christmas-movies-on-netflix-hulu-and-more-you-can-unwrap-now/#ftag=CAD590a51e)
- - [5 Tips for Staying Safe While Online Holiday Shopping](https://www.cnet.com/tech/services-and-software/5-ways-to-keep-online-scammers-from-ruining-your-holiday-shopping/#ftag=CAD590a51e)
- - [Best Internet Providers in Chattanooga, Tennessee](https://www.cnet.com/home/internet/best-internet-providers-in-chattanooga-tn/#ftag=CAD590a51e)
- - [YouTube Kids is getting a redesign to make it look more like YouTube](https://www.theverge.com/2024/12/10/24318139/youtube-kids-mobile-app-update-android-ios-redesign)<!-- TECH:END -->
+ - [YouTube Kids is getting a redesign to make it look more like YouTube](https://www.theverge.com/2024/12/10/24318139/youtube-kids-mobile-app-update-android-ios-redesign)
+ - [YouTube rolls out its auto-dubbing feature, which generates translated audio tracks, to hundreds of thousands of channels focused on knowledge and information &lpar;Lauren Forristal/TechCrunch&rpar;](http://www.techmeme.com/241210/p19#a241210p19)
+ - [Google’s future data centers will be built next to solar and wind farms](https://www.theverge.com/2024/12/10/24317888/googles-data-center-solar-wind-renewable-energy-intersect-partnership)
+ - [Microsoft is giving Copilot a new taskbar UI and keyboard shortcut on Windows](https://www.theverge.com/2024/12/10/24318241/microsoft-copilot-native-app-quick-view-windows-10-11)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

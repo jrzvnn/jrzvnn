@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [A look at the relationship between Tether and Trump transition co-Chair Howard Lutnick, who boasted of Cantor Fitzgerald handling $10B in redemptions in 2022 &lpar;Financial Times&rpar;](http://www.techmeme.com/241211/p15#a241211p15)
  - [Sweden&#39;s financial regulator fines Klarna $50M and reprimands the BNPL company for breaking anti-money laundering rules between 2021 and 2022 &lpar;Richard Milne/Financial Times&rpar;](http://www.techmeme.com/241211/p14#a241211p14)
  - [OpenAI rolls out Canvas, its side-by-side digital editing space, to all ChatGPT users and adds new features, including support for Python and more text pasting &lpar;Emilia David/VentureBeat&rpar;](http://www.techmeme.com/241211/p13#a241211p13)
  - [Maximize Your Earnings With an APY up to 4.70%. Today&#39;s CD Rates, Dec. 11, 2024](https://www.cnet.com/personal-finance/banking/maximize-your-earnings-with-an-apy-up-to-4-70-todays-cd-rates-dec-11-2024/#ftag=CAD590a51e)
- - [Best Internet Providers in Bellingham, Washington](https://www.cnet.com/home/internet/best-internet-providers-in-bellingham-wa/#ftag=CAD590a51e)
- - [There&#39;s Still Time to Maximize Interest to Reach Your Savings Goals. Today&#39;s Savings Rates, Dec. 11, 2024](https://www.cnet.com/personal-finance/banking/theres-still-time-to-maximize-interest-to-reach-your-savings-goals-todays-savings-rates-dec-11-2024/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Best Internet Providers in Bellingham, Washington](https://www.cnet.com/home/internet/best-internet-providers-in-bellingham-wa/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

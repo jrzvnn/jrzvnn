@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [Never step on spiders. You could be stepping on a female with eggs, and they\u2019ll stick to your shoes and hatch all over your car and house.](http://9gag.com/gag/a2v1zPE)
  - 😝 [Personal space](http://9gag.com/gag/agmBP4g)
- - 😝 [Like a robot](http://9gag.com/gag/ajPmoLw)
- - 💣 [OSHA just left the job site.](http://9gag.com/gag/aMVK3OA)
- - 😝 [Bro what?](http://9gag.com/gag/adB8ZV2)
- - 👉 [Oh no Kermit ?](http://9gag.com/gag/aGypWW6)<!-- MEMES:END -->
+ - 💣 [Yup, that&#39;s him!](http://9gag.com/gag/ajPgQMG)
+ - 😝 [Chinese being indian](http://9gag.com/gag/a6ZEWDm)
+ - 👉 [Asada.](http://9gag.com/gag/aByn9j2)<!-- MEMES:END -->
 
 ---
 

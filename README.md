@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Exxon says it is in the early stages of developing a natural gas plant to supply data centers, the first time it built a plant that didn&#39;t supply its operations &lpar;Rebecca F. Elliott/New York Times&rpar;](http://www.techmeme.com/241211/p20#a241211p20)
- - [Kyu’s Tiny Camera Only Captures 9-Second Videos](https://www.wired.com/story/kyu-camera/)
- - [M3 MacBook Pro Prices Slashed by Up to $400 for Today Only](https://www.cnet.com/deals/m3-macbook-pro-prices-slashed-by-up-to-400-for-today-only/#ftag=CAD590a51e)
- - [Get the Party Started With the Skullcandy Barrel Boom Box Speaker at $90 Off](https://www.cnet.com/deals/get-the-party-started-with-the-skullcandy-barrel-boom-box-speaker-at-90-off/#ftag=CAD590a51e)
- - [The American Sunlight Project finds 35K+ mentions of nonconsensual intimate imagery on deepfake sites depicting 25 female Congress members and one male member &lpar;The Markup&rpar;](http://www.techmeme.com/241211/p19#a241211p19)<!-- TECH:END -->
+ - [Free App Duplicati Can Back Up Your Computer to Any Cloud Service](https://www.wired.com/story/duplicati-free-app-back-up-your-computer-to-any-cloud-service/)
+ - [iOS 18.2 is out now, adding ChatGPT integration and more Apple Intelligence tools](https://www.theverge.com/2024/12/11/24317119/ios-18-2-apple-intelligence-chatgpt-genmoji)
+ - [Apple rolls out iOS 18.2 and iPadOS 18.2, adding major AI updates, including Image Playground on iPhone 15 Pro, 16, and 16 Pro, Genmoji, and ChatGPT integration &lpar;Igor Bonifacic/Engadget&rpar;](http://www.techmeme.com/241211/p21#a241211p21)
+ - [9 Best Diffusers for Curly Hair &lpar;2024&rpar;, Tested and Reviewed](https://www.wired.com/gallery/best-diffusers/)
+ - [The Top New Features in Apple’s iOS 18 and iPadOS 18](https://www.wired.com/story/apple-iphone-ios-18-ipados-18-new-features/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

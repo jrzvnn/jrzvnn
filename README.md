@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Facebook, Instagram, and Threads are down](https://www.theverge.com/2024/12/11/24318908/facebook-instagram-threads-down-outage-meta)
- - [The Billion-Dollar Adult Streaming Industry Is Fueled by Horrific Labor Abuses](https://www.wired.com/story/hrw-report-adult-streaming-labor-abuses/)
- - [New visionOS 2.2 brings widescreen Mac to Apple Vision Pro](https://appleinsider.com/articles/24/12/11/new-visionos-22-brings-widescreen-mac-to-apple-vision-pro?utm_medium=rss)
- - [Apple rolls out watchOS 11.2 update, primarily addressing bug fixes](https://appleinsider.com/articles/24/12/11/apple-rolls-out-watchos-112-update-primarily-addressing-bug-fixes?utm_medium=rss)
- - [iPadOS 18.2 arrives with more Apple Intelligence features](https://appleinsider.com/articles/24/12/11/ipados-182-arrives-with-more-apple-intelligence-features?utm_medium=rss)<!-- TECH:END -->
+ - [Krispy Kreme got cyberattacked](https://www.theverge.com/2024/12/11/24318861/krispy-kreme-cybersecurity-incident-online-ordering)
+ - [Apple issues updates for iPadOS 17, macOS Ventura, Sonoma](https://appleinsider.com/articles/24/12/11/apple-issues-updates-for-ipados-17-macos-ventura-sonoma?utm_medium=rss)
+ - [The Vision Pro’s ultrawide Mac display is very close to being a killer app](https://www.theverge.com/2024/12/11/24301921/vision-pro-ultrawide-mac-display-visionos-2-2-killer-app)
+ - [The Verge’s 2024 holiday gift guide for moms](https://www.theverge.com/24224046/best-gift-ideas-mom-holiday-unique-2024-tech-gadgets)
+ - [Facebook, Instagram, and Threads are down](https://www.theverge.com/2024/12/11/24318908/facebook-instagram-threads-down-outage-meta)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

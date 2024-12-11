@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Adobe reports Q4 revenue up 11% YoY to $5.61B, vs. $5.54B est., Digital Media revenue up 12%, forecasts FY 2025 revenue below est.; ADBE drops 8%+ after hours &lpar;Brody Ford/Bloomberg&rpar;](http://www.techmeme.com/241211/p41#a241211p41)
+ - [Sonos plans return-to-office push for its product teams](https://www.theverge.com/2024/12/11/24314934/sonos-return-to-office-mandate)
  - [The ultrawide Mac display option in visionOS 2.2 is very close to being a killer app and makes the Vision Pro&#39;s price feel a little closer to right &lpar;Wes Davis/The Verge&rpar;](http://www.techmeme.com/241211/p40#a241211p40)
  - [Ayar Labs, which develops optical interconnects, raised a $155M Series D from Advent Global, Light Street, Nvidia, AMD, Intel, and others at a $1B+ valuation &lpar;Jane Lanhee Lee/Bloomberg&rpar;](http://www.techmeme.com/241211/p39#a241211p39)
- - [Android is making it easier to find unknown trackers to prevent stalking](https://www.theverge.com/2024/12/11/24318992/android-find-my-device-bluetooth-tracker-stalking)
- - [Best Internet Providers in Bowling Green, Kentucky](https://www.cnet.com/home/internet/best-internet-providers-in-bowling-green-ky/#ftag=CAD590a51e)
- - [Krispy Kreme Online Ordering Disrupted by Cyberattack](https://www.cnet.com/tech/services-and-software/krispy-kreme-online-ordering-disrupted-by-cyberattack/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Android is making it easier to find unknown trackers to prevent stalking](https://www.theverge.com/2024/12/11/24318992/android-find-my-device-bluetooth-tracker-stalking)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

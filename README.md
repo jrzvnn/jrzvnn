@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [A look at Anthropic&#39;s Frontier Red Team, which has grown to 11 people and is overseen by Logan Graham to assess catastrophic risks in Anthropic&#39;s AI models &lpar;Sam Schechner/Wall Street Journal&rpar;](http://www.techmeme.com/241211/p6#a241211p6)
+ - [Filing: as of June 30, 2024, the paper losses on Tiger Global&#39;s 15th fund was at 15%+, placing it in the bottom 10% of all VC funds raised in 2021 per PitchBook &lpar;Marina Temkin/TechCrunch&rpar;](http://www.techmeme.com/241211/p5#a241211p5)
  - [TikTok is offering users hundreds of dollars in Shop credits to spend time in the app, invite friends to join, and purchase products, ahead of a possible US ban &lpar;Alexandra S. Levine/Bloomberg&rpar;](http://www.techmeme.com/241211/p4#a241211p4)
  - [Microsoft AI CEO Mustafa Suleyman is building a new London-based team focused on health by poaching staff from a similar unit he once led at Google DeepMind &lpar;Madhumita Murgia/Financial Times&rpar;](http://www.techmeme.com/241211/p3#a241211p3)
- - [Google&#39;s top lobbyist Mark Isakowitz departs to become GOP Senator-elect Dave McCormick&#39;s chief of staff, leaving a power vacuum in the company&#39;s lobbying team &lpar;Emily Birnbaum/Bloomberg&rpar;](http://www.techmeme.com/241211/p2#a241211p2)
- - [Several Cruise employees say they were &quot;surprised&quot; and &quot;blindsided&quot; by GM&#39;s decision to end Cruise&#39;s robotaxi program and that they expect job cuts &lpar;TechCrunch&rpar;](http://www.techmeme.com/241211/p1#a241211p1)
- - [Silent Night? CNET Survey Reveals 4 in 10 US Adults Struggle to Get Quality Sleep During the Holiday Season](https://www.cnet.com/health/sleep/4-in-10-us-adults-struggle-with-sleep-during-the-holidays/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Google&#39;s top lobbyist Mark Isakowitz departs to become GOP Senator-elect Dave McCormick&#39;s chief of staff, leaving a power vacuum in the company&#39;s lobbying team &lpar;Emily Birnbaum/Bloomberg&rpar;](http://www.techmeme.com/241211/p2#a241211p2)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

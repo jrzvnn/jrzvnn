@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Microsoft starts testing iPhone file sharing for Windows PCs](https://www.theverge.com/2024/12/11/24318886/microsoft-phone-link-file-sharing-ios-windows-pcs)
+ - [Xbox tests streaming your Xbox games to your Xbox](https://www.theverge.com/2024/12/11/24318876/xbox-tests-streaming-games-console)
  - [Nvidia must face lawsuit alleging it downplayed crypto’s impact on its success](https://www.theverge.com/2024/12/11/24318794/nvidia-supreme-court-investor-lawsuit-cryptocurrency)
  - [Apple Intelligence launches outside of the US for the first time and is now available in Canada, Australia, New Zealand, Ireland, the UK, and South Africa &lpar;Joe Rossignol/MacRumors&rpar;](http://www.techmeme.com/241211/p34#a241211p34)
- - [Microsoft wants to make the Xbox app the home of PC gaming](https://www.theverge.com/2024/12/11/24318799/microsoft-xbox-app-new-games-homescreen)
- - [The PS5 disc drive is back in stock, but only for GameStop Pro members](https://www.theverge.com/2024/12/11/24318790/playstation-5-ps5-disc-drive-restock-gamestop-pro-members)
- - [Watching sports: a special series from The Verge](https://www.theverge.com/c/24312149/sports-gymnastics-tennis-surveillance-ai)<!-- TECH:END -->
+ - [Microsoft wants to make the Xbox app the home of PC gaming](https://www.theverge.com/2024/12/11/24318799/microsoft-xbox-app-new-games-homescreen)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

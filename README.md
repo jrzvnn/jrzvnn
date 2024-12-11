@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The best doorbell cameras](https://www.theverge.com/22954554/best-video-doorbell-camera)
+ - [Apple adds a Layered Recordings feature to Voice Memos app in iOS 18.2, for iPhone 16 Pro and Pro Max; iOS 18 previously brought transcriptions to Voice Memos &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/241211/p38#a241211p38)
  - [A global outage has hit Facebook, Instagram, Threads, and WhatsApp, starting at approximately 12:40pm ET; Meta says it&#39;s working to resolve a &quot;technical issue&quot; &lpar;Lawrence Abrams/BleepingComputer&rpar;](http://www.techmeme.com/241211/p37#a241211p37)
  - [The end of Cruise is the beginning of a risky new phase for autonomous vehicles](https://www.theverge.com/2024/12/11/24318651/cruise-robotaxi-gm-funding-autonomous-vehicles-risk)
- - [Trump’s DOJ broke policy to try to learn journalist’s sources, inspector general alleges](https://www.theverge.com/2024/12/11/24318852/trump-doj-journalist-sources-inspector-general-report)
- - [The iPhone 16 Pro now lets you layer recordings in Voice Memos](https://www.theverge.com/2024/12/11/24318918/apple-iphone-16-pro-layered-recordings-voice-memos)
- - [Now you can visit Roku City in 1080p](https://www.theverge.com/2024/12/11/24318930/roku-city-1080p-full-hd-resolution-upgrade)<!-- TECH:END -->
+ - [Trump’s DOJ broke policy to try to learn journalist’s sources, inspector general alleges](https://www.theverge.com/2024/12/11/24318852/trump-doj-journalist-sources-inspector-general-report)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

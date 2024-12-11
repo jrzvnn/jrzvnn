@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Trump’s pick for FTC chair promises to go after ‘censorship’ from tech companies](https://www.theverge.com/2024/12/10/24318388/trump-ftc-chair-pick-andrew-ferguson-censorship-tech-companies)
- - [Best Smart Speakers for 2024: We Tested Alexa, Google, Apple and Sonos](https://www.cnet.com/home/smart-home/best-smart-speaker/#ftag=CAD590a51e)
- - [Apple has reportedly approached Sony to partner on Apple Vision Pro controllers](https://appleinsider.com/articles/24/12/08/third-party-controllers-may-bring-more-games-to-apple-vision-pro?utm_medium=rss)
- - [Source: Google asked the US to break up Microsoft&#39;s exclusive agreement to host OpenAI&#39;s tech on Azure, after the FTC asked Google about Microsoft&#39;s practices &lpar;Aaron Holmes/The Information&rpar;](http://www.techmeme.com/241210/p25#a241210p25)
- - [The best noise-canceling headphones to buy right now](https://www.theverge.com/21345733/best-noise-canceling-headphones)<!-- TECH:END -->
+ - [The ‘Ghost Gun’ Linked to Luigi Mangione Shows Just How Far 3D-Printed Weapons Have Come](https://www.wired.com/story/luigi-mangione-united-healthcare-3d-printed-gun-fmda-chairmanwon-v1/)
+ - [Amazon plans to test a 15-minute delivery service for items ranging from grocery to household goods in India this month, starting with some areas in Bengaluru &lpar;Sankalp Phartiyal/Bloomberg&rpar;](http://www.techmeme.com/241210/p26#a241210p26)
+ - [Best Reading Glasses for 2024](https://www.cnet.com/health/personal-care/best-reading-glasses/#ftag=CAD590a51e)
+ - [8 Best Sleep Trackers of 2024, Tested and Selected by Our Sleep Experts](https://www.cnet.com/health/sleep/best-sleep-tracker/#ftag=CAD590a51e)
+ - [Trump’s pick for FTC chair promises to go after ‘censorship’ from tech companies](https://www.theverge.com/2024/12/10/24318388/trump-ftc-chair-pick-andrew-ferguson-censorship-tech-companies)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

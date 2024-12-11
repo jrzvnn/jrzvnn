@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The American Sunlight Project finds 35K+ mentions of nonconsensual intimate imagery on deepfake sites depicting 25 female Congress members and one male member &lpar;The Markup&rpar;](http://www.techmeme.com/241211/p19#a241211p19)
+ - [Tap to Pay on iPhone comes to Chile and Egypt](https://appleinsider.com/articles/24/12/11/tap-to-pay-on-iphone-comes-to-chile-and-egypt?utm_medium=rss)
+ - [Generative AI Is My Research and Writing Partner. Should I Disclose It?](https://www.wired.com/story/prompt-disclose-at-in-creative-work-teach-kids-about-chatbots/)
  - [As payment fraud grows, governments, banks, and tech companies disagree on who covers losses; Deloitte says AI content contributed to $12B+ in US losses in 2023 &lpar;Financial Times&rpar;](http://www.techmeme.com/241211/p18#a241211p18)
- - [Designer Babies Are Teenagers Now—and Some of Them Need Therapy Because of It](https://www.wired.com/story/your-next-job-designer-baby-therapist/)
- - [Swedish startup Mynt, which offers smart expense cards for SMEs, raised &amp;euro;22M led by Vor Capital, a source says at a ~&amp;euro;200M valuation, and claims 12K SME clients &lpar;Ingrid Lunden/TechCrunch&rpar;](http://www.techmeme.com/241211/p17#a241211p17)
- - [Tim Cook says Apple has invested over $18 billion in the UK since 2019](https://appleinsider.com/articles/24/12/11/tim-cook-says-apple-has-invested-over-18-billion-in-the-uk-since-2019?utm_medium=rss)
- - [Are You Experiencing or Promoting Toxic Positivity in Your Mind or Relationships?](https://www.cnet.com/health/mental/experiencing-promoting-toxic-positivity-mind-relationships/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Designer Babies Are Teenagers Now—and Some of Them Need Therapy Because of It](https://www.wired.com/story/your-next-job-designer-baby-therapist/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

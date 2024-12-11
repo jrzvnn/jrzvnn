@@ -157,8 +157,8 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Google&#39;s top lobbyist Mark Isakowitz departs to become GOP Senator-elect Dave McCormick&#39;s chief of staff, leaving a power vacuum in the company&#39;s lobbying team &lpar;Emily Birnbaum/Bloomberg&rpar;](http://www.techmeme.com/241211/p2#a241211p2)
  - [Several Cruise employees say they were &quot;surprised&quot; and &quot;blindsided&quot; by GM&#39;s decision to end Cruise&#39;s robotaxi program and that they expect job cuts &lpar;TechCrunch&rpar;](http://www.techmeme.com/241211/p1#a241211p1)
- - [Silent Night? CNET Survey Reveals 4 in 10 US Adults Struggle to Get Quality Sleep During the Holiday Season](https://www.cnet.com/health/sleep/4-in-10-us-adults-struggle-with-sleep-during-the-holidays/#ftag=CAD590a51e)
  - [How to turn on Empty Trash Automatically in macOS Sequoia](https://appleinsider.com/inside/macos/tips/how-to-turn-on-empty-trash-automatically-in-macos-sequoia?utm_medium=rss)
  - [Today&#39;s NYT Strands Hints, Answers and Help for Dec. 11, #283](https://www.cnet.com/tech/gaming/todays-nyt-strands-hints-answers-and-help-for-dec-11-283/#ftag=CAD590a51e)
  - [Today&#39;s Wordle Hints, Answer and Help for Dec. 11, #1271](https://www.cnet.com/tech/gaming/todays-wordle-hints-answer-and-help-for-dec-11-1271/#ftag=CAD590a51e)<!-- TECH:END -->

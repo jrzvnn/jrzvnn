@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [That&#39;s it boys, they&#39;ve got him](http://9gag.com/gag/aYQozOV)
- - 😝 [Islamic Syrian crowd invades Essen&#39;s &lpar;Germany&rpar; Christmas markets shouting `Allah Akbar`](http://9gag.com/gag/aQzow5r)
- - 💣 [Luigi Mangione: `This is completely out of touch and an insult to the intelligence of the American people!\u201d](http://9gag.com/gag/aKGm4vg)
- - 😝 [Peek a Boo!](http://9gag.com/gag/aKG6rpg)
- - 👉 [Guys! believe us! he is not a SCAPEGOAT!! -fbi](http://9gag.com/gag/a2v7QO1)<!-- MEMES:END -->
+ - 😝 [Perfect alibi.](http://9gag.com/gag/a9y1j20)
+ - 😝 [...](http://9gag.com/gag/aqyjq37)
+ - 💣 [Stay strong brotha](http://9gag.com/gag/agmBR2r)
+ - 😝 [It wasn&#39;t about the destination, it was about the friends we made along they way.](http://9gag.com/gag/aGyzKBw)
+ - 👉 [Crusades were 100% justified. Prophet Muhammad was a conqueror and Islam is all about conquest.](http://9gag.com/gag/avy5byd)<!-- MEMES:END -->
 
 ---
 

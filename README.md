@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Wife material](http://9gag.com/gag/ae9AX0v)
- - 😝 [That&#39;s pretty cool](http://9gag.com/gag/aKGmwq6)
- - 💣 [...](http://9gag.com/gag/aqyjq37)
- - 😝 [Stay strong brotha](http://9gag.com/gag/agmBR2r)
- - 👉 [It wasn&#39;t about the destination, it was about the friends we made along they way.](http://9gag.com/gag/aGyzKBw)<!-- MEMES:END -->
+ - 😝 [Peek a Boo!](http://9gag.com/gag/aKG6rpg)
+ - 😝 [When Cops give you a Unibrow](http://9gag.com/gag/aYQozWO)
+ - 💣 [Like a robot](http://9gag.com/gag/ajPmoLw)
+ - 😝 [Chinese being indian](http://9gag.com/gag/a6ZEWDm)
+ - 👉 [Bro what?](http://9gag.com/gag/adB8ZV2)<!-- MEMES:END -->
 
 ---
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google’s AI enters its ‘agentic era’](https://www.theverge.com/2024/12/11/24317436/google-deepmind-project-astra-mariner-ai-agent)
- - [It sure sounds like Google is planning to actually launch some smart glasses](https://www.theverge.com/2024/12/11/24318672/google-smart-glasses-ai-gemini)
- - [Google’s new Jules AI agent will help developers fix buggy code](https://www.theverge.com/2024/12/11/24318628/jules-google-ai-coding-agent-gemini-2-0-announcement)
- - [Google is testing Gemini AI agents that help you in video games](https://www.theverge.com/2024/12/11/24318530/google-gemini-2-0-understand-rules-video-games-genie)
- - [Google launched Gemini 2.0, its new AI model for practically everything](https://www.theverge.com/2024/12/11/24318444/google-gemini-2-0-flash-ai-model)<!-- TECH:END -->
+ - [Google unveils Project Mariner, a prototype AI agent built by Google DeepMind that can control Chrome, move the cursor, click buttons, fill out forms, and more &lpar;Maxwell Zeff/TechCrunch&rpar;](http://www.techmeme.com/241211/p31#a241211p31)
+ - [Google unveils an updated Project Astra, which can record and summarize videos recorded using an Android app or prototype glasses and answer questions &lpar;Ina Fried/Axios&rpar;](http://www.techmeme.com/241211/p30#a241211p30)
+ - [Google says it is testing AI agents based on Gemini 2.0 that can understand rules in video games like Clash of Clans to help players out &lpar;Jay Peters/The Verge&rpar;](http://www.techmeme.com/241211/p29#a241211p29)
+ - [Google unveils Trillium, its sixth-gen AI chip powering Gemini 2.0, with 4x the training performance of its predecessor while using significantly less energy &lpar;Michael Nu&amp;ntilde;ez/VentureBeat&rpar;](http://www.techmeme.com/241211/p28#a241211p28)
+ - [Google unveils Jules, an AI coding assistant that can autonomously fix software bugs and prepare code changes, built on Google&#39;s new Gemini 2.0 platform &lpar;Michael Nu&amp;ntilde;ez/VentureBeat&rpar;](http://www.techmeme.com/241211/p27#a241211p27)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

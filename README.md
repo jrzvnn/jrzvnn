@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Oh no Kermit ?](http://9gag.com/gag/aGypWW6)
- - 😝 [Asada.](http://9gag.com/gag/aByn9j2)
- - 💣 [Chinese being indian](http://9gag.com/gag/a6ZEWDm)
- - 😝 [OSHA just left the job site.](http://9gag.com/gag/aMVK3OA)
- - 👉 [Luigi Mangione, suspect in C.E.O. killing, photographed in his holding cell after being charged with murder](http://9gag.com/gag/aD2dBjd)<!-- MEMES:END -->
+ - 😝 [Perfect alibi.](http://9gag.com/gag/a9y1j20)
+ - 😝 [So much for gaming evolution](http://9gag.com/gag/aGyzYLK)
+ - 💣 [It wasn&#39;t about the destination, it was about the friends we made along they way.](http://9gag.com/gag/aGyzKBw)
+ - 😝 [It&#39;s wednesday, my dudes](http://9gag.com/gag/aKGmwN6)
+ - 👉 [Woman who can\u2019t help but look like Jim Carrey](http://9gag.com/gag/aLnvR6g)<!-- MEMES:END -->
 
 ---
 

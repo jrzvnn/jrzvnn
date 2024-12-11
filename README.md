@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple may be partnering with Broadcom to make AI processors for servers](https://appleinsider.com/articles/24/12/11/apple-may-be-partnering-with-broadcom-to-make-ai-processors-for-servers?utm_medium=rss)
- - [TechInsights: Huawei&#39;s new Mate 70 Pro Plus has a Kirin 9020 chip made by SMIC using the same 7nm process as in 2023&#39;s Mate 60 Pro, despite rumors of a 5nm chip &lpar;Bloomberg&rpar;](http://www.techmeme.com/241211/p23#a241211p23)
- - [There&#39;s Still Time to Maximize Interest to Reach Your Savings Goals. Today&#39;s Savings Rates, Dec. 11, 2024](https://www.cnet.com/personal-finance/banking/theres-still-time-to-maximize-interest-to-reach-your-savings-goals-todays-savings-rates-dec-11-2024/#ftag=CAD590a51e)
- - [&#39;One Hundred Years of Solitude: Part 1&#39;: How to Watch From Anywhere](https://www.cnet.com/tech/services-and-software/one-hundred-years-of-solitude-part-1-how-to-watch-from-anywhere/#ftag=CAD590a51e)
- - [I Tried the Cheapest Sauna on Wayfair](https://www.wired.com/story/wayfair-sauna-rave/)<!-- TECH:END -->
+ - [Wallace &amp; Gromit studio Aardman is working on a Pokémon project](https://www.theverge.com/2024/12/11/24318706/pokemon-aardman-project)
+ - [Adobe Lightroom, Balatro+ honored in Apple&#39;s App Store Awards](https://appleinsider.com/articles/24/12/11/adobe-lightroom-balatro-honored-in-apples-app-store-awards?utm_medium=rss)
+ - [Best WIRED-tested Wireless Meat Thermometers &lpar;2024&rpar;](https://www.wired.com/gallery/best-wireless-meat-thermometers/)
+ - [Why every company wants a podcast now](https://www.theverge.com/24318644/podcast-election-vc-marketing-business-decoder-interview)
+ - [We asked our staff for their 2025 predictions](https://www.theverge.com/24305936/2025-tech-predictions-ai-tiktok-ban-smart-home-fda-pcs)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

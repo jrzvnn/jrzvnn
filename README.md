@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [They&#39;re doing content houses now](http://9gag.com/gag/aMV419A)
- - 😝 [ARGENTINA ENDS DEFICIT FOR THE FIRST TIME IN 123 YEARS\u2026.](http://9gag.com/gag/ayN95xy)
- - 💣 [We have free electricity?](http://9gag.com/gag/ajPgQBp)
- - 😝 [F1 training is no joke](http://9gag.com/gag/aD2DRvw)
- - 👉 [Wife material](http://9gag.com/gag/ae9AX0v)<!-- MEMES:END -->
+ - 😝 [Luigi Mangione: `This is completely out of touch and an insult to the intelligence of the American people!\u201d](http://9gag.com/gag/aKGm4vg)
+ - 😝 [Guys! believe us! he is not a SCAPEGOAT!! -fbi](http://9gag.com/gag/a2v7QO1)
+ - 💣 [Asada.](http://9gag.com/gag/aByn9j2)
+ - 😝 [Every time when I watch the movie I&#39;m terrified by the voice over.](http://9gag.com/gag/aVvxjOd)
+ - 👉 [Nurse caught exposing herself to patient](http://9gag.com/gag/aKG6bDj)<!-- MEMES:END -->
 
 ---
 

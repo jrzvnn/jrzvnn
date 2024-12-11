@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [When Cops give you a Unibrow](http://9gag.com/gag/aYQozWO)
- - 😝 [Luigi Mangione, suspect in C.E.O. killing, photographed in his holding cell after being charged with murder](http://9gag.com/gag/aD2dBjd)
- - 💣 [Chinese being indian](http://9gag.com/gag/a6ZEWDm)
- - 😝 [Title](http://9gag.com/gag/a0e7m7q)
- - 👉 [Guys! believe us! he is not a SCAPEGOAT!! -fbi](http://9gag.com/gag/a2v7QO1)<!-- MEMES:END -->
+ - 😝 [...](http://9gag.com/gag/aqyjq37)
+ - 😝 [Perfect alibi.](http://9gag.com/gag/a9y1j20)
+ - 💣 [Stay strong brotha](http://9gag.com/gag/agmBR2r)
+ - 😝 [Crusades were 100% justified. Prophet Muhammad was a conqueror and Islam is all about conquest.](http://9gag.com/gag/avy5byd)
+ - 👉 [Future is now old man](http://9gag.com/gag/aZZrqgW)<!-- MEMES:END -->
 
 ---
 

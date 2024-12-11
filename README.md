@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Bro what?](http://9gag.com/gag/adB8ZV2)
+ - 😝 [Stereotype reinforcement - check](http://9gag.com/gag/aGyzKK7)
+ - 😝 [ARGENTINA ENDS DEFICIT FOR THE FIRST TIME IN 123 YEARS\u2026.](http://9gag.com/gag/ayN95xy)
+ - 💣 [Nurse caught exposing herself to patient](http://9gag.com/gag/aKG6bDj)
  - 😝 [F1 training is no joke](http://9gag.com/gag/aD2DRvw)
- - 💣 [Google\u2019s Willow Quantum Chip: With 105 qubits and real-time error correction, Willow solved a task in 5 minutes that would take classical supercomputers billions of years, marking a breakthrough in scalable quantum computing.](http://9gag.com/gag/ae9AoXp)
- - 😝 [We have free electricity?](http://9gag.com/gag/ajPgQBp)
- - 👉 [Luigi Mangione, suspect in C.E.O. killing, photographed in his holding cell after being charged with murder](http://9gag.com/gag/aD2dBjd)<!-- MEMES:END -->
+ - 👉 [Bro what?](http://9gag.com/gag/adB8ZV2)<!-- MEMES:END -->
 
 ---
 

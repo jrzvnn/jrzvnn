@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [2025 M4 MacBook Air leaked in macOS Sequoia 15.2 update &amp; regulatory documents](https://appleinsider.com/articles/24/12/11/m4-macbook-air-leaked-in-macos-sequoia-152-update-regulatory-documents?utm_medium=rss)
  - [The best doorbell cameras](https://www.theverge.com/22954554/best-video-doorbell-camera)
  - [Apple adds a Layered Recordings feature to Voice Memos app in iOS 18.2, for iPhone 16 Pro and Pro Max; iOS 18 previously brought transcriptions to Voice Memos &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/241211/p38#a241211p38)
  - [A global outage has hit Facebook, Instagram, Threads, and WhatsApp, starting at approximately 12:40pm ET; Meta says it&#39;s working to resolve a &quot;technical issue&quot; &lpar;Lawrence Abrams/BleepingComputer&rpar;](http://www.techmeme.com/241211/p37#a241211p37)
- - [The end of Cruise is the beginning of a risky new phase for autonomous vehicles](https://www.theverge.com/2024/12/11/24318651/cruise-robotaxi-gm-funding-autonomous-vehicles-risk)
- - [Trump’s DOJ broke policy to try to learn journalist’s sources, inspector general alleges](https://www.theverge.com/2024/12/11/24318852/trump-doj-journalist-sources-inspector-general-report)<!-- TECH:END -->
+ - [The end of Cruise is the beginning of a risky new phase for autonomous vehicles](https://www.theverge.com/2024/12/11/24318651/cruise-robotaxi-gm-funding-autonomous-vehicles-risk)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

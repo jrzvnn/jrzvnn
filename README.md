@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The PS5 disc drive is back in stock, but only for GameStop Pro members](https://www.theverge.com/2024/12/11/24318790/playstation-5-ps5-disc-drive-restock-gamestop-pro-members)
+ - [Watching sports: a special series from The Verge](https://www.theverge.com/c/24312149/sports-gymnastics-tennis-surveillance-ai)
  - [Beats launches Sunrise Pink and Twilight Blue cases for the iPhone 16 range](https://appleinsider.com/articles/24/12/11/beats-launches-sunrise-pink-and-twilight-blue-cases-for-the-iphone-16-range?utm_medium=rss)
  - [OnlyFans Models Are Using AI Impersonators to Keep Up With Their DMs](https://www.wired.com/story/onlyfans-models-are-using-ai-impersonators-to-keep-up-with-their-dms/)
- - [The Lord of the Rings: The War of the Rohirrim is a soulless return to Middle-earth](https://www.theverge.com/2024/12/11/24318164/lord-of-the-rings-war-of-the-rohirrim-review)
- - [The Onion’s acquisition of Infowars was blocked by a judge](https://www.theverge.com/2024/12/11/24318745/the-onion-infowars-acqusition-blocked-judge)
- - [Samsung&#39;s holiday TV deals slash up to $4,000 off OLED, The Frame, QLED models](https://appleinsider.com/articles/24/12/11/samsungs-holiday-tv-deals-slash-up-to-4000-off-oled-the-frame-qled-models?utm_medium=rss)<!-- TECH:END -->
+ - [The Lord of the Rings: The War of the Rohirrim is a soulless return to Middle-earth](https://www.theverge.com/2024/12/11/24318164/lord-of-the-rings-war-of-the-rohirrim-review)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

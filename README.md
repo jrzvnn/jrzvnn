@@ -159,9 +159,9 @@ R                        1 repo              ░░░░░░░░░░░�
 <!-- TECH:START -->
  - [Apple Intelligence second wave arrives today -- what you need to know](https://appleinsider.com/articles/24/12/05/ios-182-is-nearing-its-public-release-and-its-packed-with-ai-features?utm_medium=rss)
  - [Free App Duplicati Can Back Up Your Computer to Any Cloud Service](https://www.wired.com/story/duplicati-free-app-back-up-your-computer-to-any-cloud-service/)
- - [iOS 18.2 is out now, adding ChatGPT integration and more Apple Intelligence tools](https://www.theverge.com/2024/12/11/24317119/ios-18-2-apple-intelligence-chatgpt-genmoji)
- - [Apple rolls out iOS 18.2 and iPadOS 18.2, adding major AI updates, including Image Playground on iPhone 15 Pro, 16, and 16 Pro, Genmoji, and ChatGPT integration &lpar;Igor Bonifacic/Engadget&rpar;](http://www.techmeme.com/241211/p21#a241211p21)
- - [9 Best Diffusers for Curly Hair &lpar;2024&rpar;, Tested and Reviewed](https://www.wired.com/gallery/best-diffusers/)<!-- TECH:END -->
+ - [14 Standout Movies to Stream on Netflix Right Now](https://www.cnet.com/tech/services-and-software/14-standout-movies-to-stream-netflix-right-now/#ftag=CAD590a51e)
+ - [Mortgage Rates Dip Down: Mortgage Interest Rates Today for Dec. 11, 2024](https://www.cnet.com/personal-finance/mortgage-rates-drop-down-mortgage-interest-rates-today-for-dec-11-2024/#ftag=CAD590a51e)
+ - [Refi Rates Are Easing for Homeowners: Mortgage Refinance Rates on Dec. 11, 2024](https://www.cnet.com/personal-finance/refi-rates-are-falling-for-homeowners-mortgage-refinance-rates-on-dec-11-2024/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

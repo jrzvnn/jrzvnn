@@ -159,9 +159,9 @@ R                        1 repo              ░░░░░░░░░░░�
 <!-- TECH:START -->
  - [Adobe reports Q4 revenue up 11% YoY to $5.61B, vs. $5.54B est., Digital Media revenue up 12%, forecasts FY 2025 revenue below est.; ADBE drops 8%+ after hours &lpar;Brody Ford/Bloomberg&rpar;](http://www.techmeme.com/241211/p41#a241211p41)
  - [Sonos plans return-to-office push for its product teams](https://www.theverge.com/2024/12/11/24314934/sonos-return-to-office-mandate)
- - [The ultrawide Mac display option in visionOS 2.2 is very close to being a killer app and makes the Vision Pro&#39;s price feel a little closer to right &lpar;Wes Davis/The Verge&rpar;](http://www.techmeme.com/241211/p40#a241211p40)
- - [Ayar Labs, which develops optical interconnects, raised a $155M Series D from Advent Global, Light Street, Nvidia, AMD, Intel, and others at a $1B+ valuation &lpar;Jane Lanhee Lee/Bloomberg&rpar;](http://www.techmeme.com/241211/p39#a241211p39)
- - [Android is making it easier to find unknown trackers to prevent stalking](https://www.theverge.com/2024/12/11/24318992/android-find-my-device-bluetooth-tracker-stalking)<!-- TECH:END -->
+ - [Best Sounding Wireless Earbuds in 2024](https://www.cnet.com/tech/mobile/best-sounding-wireless-earbuds/#ftag=CAD590a51e)
+ - [ChatGPT Just Got Integrated With Siri. Here&#39;s What Will Change](https://www.cnet.com/tech/services-and-software/chatgpt-just-got-integrated-with-siri-heres-what-will-change/#ftag=CAD590a51e)
+ - [If You&#39;ve Got an iPhone 16 Put This MagSafe Case on Your Wish List While It&#39;s on Sale](https://www.cnet.com/deals/if-youve-got-an-iphone-16-put-this-magsafe-case-on-your-wish-list-while-its-on-sale/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

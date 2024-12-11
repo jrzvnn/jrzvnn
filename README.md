@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Luigi Mangione: `This is completely out of touch and an insult to the intelligence of the American people!\u201d](http://9gag.com/gag/aKGm4vg)
- - 😝 [When Cops give you a Unibrow](http://9gag.com/gag/aYQozWO)
- - 💣 [Chinese being indian](http://9gag.com/gag/a6ZEWDm)
- - 😝 [Father of The Year](http://9gag.com/gag/awyMwBW)
- - 👉 [Luigi Mangione, suspect in C.E.O. killing, photographed in his holding cell after being charged with murder](http://9gag.com/gag/aD2dBjd)<!-- MEMES:END -->
+ - 😝 [Wife material](http://9gag.com/gag/ae9AX0v)
+ - 😝 [...](http://9gag.com/gag/aqyjq37)
+ - 💣 [That is all the diversity I need.](http://9gag.com/gag/amogq2j)
+ - 😝 [It wasn&#39;t about the destination, it was about the friends we made along they way.](http://9gag.com/gag/aGyzKBw)
+ - 👉 [Stay strong brotha](http://9gag.com/gag/agmBR2r)<!-- MEMES:END -->
 
 ---
 

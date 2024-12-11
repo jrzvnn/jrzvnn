@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Intruder bird wanted to mate with her but she calls for her man and he comes home](http://9gag.com/gag/abAV979)
- - 😝 [Like a robot](http://9gag.com/gag/ajPmoLw)
- - 💣 [Personal space](http://9gag.com/gag/agmBP4g)
- - 😝 [Every time when I watch the movie I&#39;m terrified by the voice over.](http://9gag.com/gag/aVvxjOd)
- - 👉 [Islamic Syrian crowd invades Essen&#39;s &lpar;Germany&rpar; Christmas markets shouting `Allah Akbar`](http://9gag.com/gag/aQzow5r)<!-- MEMES:END -->
+ - 😝 [Islamic Syrian crowd invades Essen&#39;s &lpar;Germany&rpar; Christmas markets shouting `Allah Akbar`](http://9gag.com/gag/aQzow5r)
+ - 😝 [Personal space](http://9gag.com/gag/agmBP4g)
+ - 💣 [Every time when I watch the movie I&#39;m terrified by the voice over.](http://9gag.com/gag/aVvxjOd)
+ - 😝 [Bro what?](http://9gag.com/gag/adB8ZV2)
+ - 👉 [Life happened](http://9gag.com/gag/azxMN1K)<!-- MEMES:END -->
 
 ---
 

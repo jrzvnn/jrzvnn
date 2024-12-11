@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Stay strong brotha](http://9gag.com/gag/agmBR2r)
- - 😝 [Future is now old man](http://9gag.com/gag/aZZrqgW)
- - 💣 [That&#39;s pretty cool](http://9gag.com/gag/aKGmwq6)
- - 😝 [Perfect alibi.](http://9gag.com/gag/a9y1j20)
- - 👉 [Crusades were 100% justified. Prophet Muhammad was a conqueror and Islam is all about conquest.](http://9gag.com/gag/avy5byd)<!-- MEMES:END -->
+ - 😝 [Chinese being indian](http://9gag.com/gag/a6ZEWDm)
+ - 😝 [Asada.](http://9gag.com/gag/aByn9j2)
+ - 💣 [Intruder bird wanted to mate with her but she calls for her man and he comes home](http://9gag.com/gag/abAV979)
+ - 😝 [Yup, that&#39;s him!](http://9gag.com/gag/ajPgQMG)
+ - 👉 [Every time when I watch the movie I&#39;m terrified by the voice over.](http://9gag.com/gag/aVvxjOd)<!-- MEMES:END -->
 
 ---
 

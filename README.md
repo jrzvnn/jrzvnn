@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Apple may be partnering with Broadcom to make AI processors for servers](https://appleinsider.com/articles/24/12/11/apple-may-be-partnering-with-broadcom-to-make-ai-processors-for-servers?utm_medium=rss)
  - [TechInsights: Huawei&#39;s new Mate 70 Pro Plus has a Kirin 9020 chip made by SMIC using the same 7nm process as in 2023&#39;s Mate 60 Pro, despite rumors of a 5nm chip &lpar;Bloomberg&rpar;](http://www.techmeme.com/241211/p23#a241211p23)
  - [There&#39;s Still Time to Maximize Interest to Reach Your Savings Goals. Today&#39;s Savings Rates, Dec. 11, 2024](https://www.cnet.com/personal-finance/banking/theres-still-time-to-maximize-interest-to-reach-your-savings-goals-todays-savings-rates-dec-11-2024/#ftag=CAD590a51e)
  - [&#39;One Hundred Years of Solitude: Part 1&#39;: How to Watch From Anywhere](https://www.cnet.com/tech/services-and-software/one-hundred-years-of-solitude-part-1-how-to-watch-from-anywhere/#ftag=CAD590a51e)
- - [I Tried the Cheapest Sauna on Wayfair](https://www.wired.com/story/wayfair-sauna-rave/)
- - [Sources: Apple is working with Broadcom to develop its first AI server chip, codenamed Baltra and set for 2026 mass production, a milestone for its silicon team &lpar;The Information&rpar;](http://www.techmeme.com/241211/p22#a241211p22)<!-- TECH:END -->
+ - [I Tried the Cheapest Sauna on Wayfair](https://www.wired.com/story/wayfair-sauna-rave/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

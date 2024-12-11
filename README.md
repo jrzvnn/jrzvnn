@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Guys! believe us! he is not a SCAPEGOAT!! -fbi](http://9gag.com/gag/a2v7QO1)
+ - 😝 [Intruder bird wanted to mate with her but she calls for her man and he comes home](http://9gag.com/gag/abAV979)
+ - 😝 [Like a robot](http://9gag.com/gag/ajPmoLw)
+ - 💣 [Personal space](http://9gag.com/gag/agmBP4g)
  - 😝 [Every time when I watch the movie I&#39;m terrified by the voice over.](http://9gag.com/gag/aVvxjOd)
- - 💣 [Islamic Syrian crowd invades Essen&#39;s &lpar;Germany&rpar; Christmas markets shouting `Allah Akbar`](http://9gag.com/gag/aQzow5r)
- - 😝 [OSHA just left the job site.](http://9gag.com/gag/aMVK3OA)
- - 👉 [$60,000 gone with the wind](http://9gag.com/gag/a2v1EYp)<!-- MEMES:END -->
+ - 👉 [Islamic Syrian crowd invades Essen&#39;s &lpar;Germany&rpar; Christmas markets shouting `Allah Akbar`](http://9gag.com/gag/aQzow5r)<!-- MEMES:END -->
 
 ---
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [...](http://9gag.com/gag/aqyjq37)
- - 😝 [Perfect alibi.](http://9gag.com/gag/a9y1j20)
- - 💣 [Stay strong brotha](http://9gag.com/gag/agmBR2r)
- - 😝 [Crusades were 100% justified. Prophet Muhammad was a conqueror and Islam is all about conquest.](http://9gag.com/gag/avy5byd)
- - 👉 [Future is now old man](http://9gag.com/gag/aZZrqgW)<!-- MEMES:END -->
+ - 😝 [Guys! believe us! he is not a SCAPEGOAT!! -fbi](http://9gag.com/gag/a2v7QO1)
+ - 😝 [Every time when I watch the movie I&#39;m terrified by the voice over.](http://9gag.com/gag/aVvxjOd)
+ - 💣 [Islamic Syrian crowd invades Essen&#39;s &lpar;Germany&rpar; Christmas markets shouting `Allah Akbar`](http://9gag.com/gag/aQzow5r)
+ - 😝 [OSHA just left the job site.](http://9gag.com/gag/aMVK3OA)
+ - 👉 [$60,000 gone with the wind](http://9gag.com/gag/a2v1EYp)<!-- MEMES:END -->
 
 ---
 

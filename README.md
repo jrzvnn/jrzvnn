@@ -157,9 +157,9 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Here are the best iPad deals right now](https://www.theverge.com/21280354/best-ipad-deals-apple)
  - [The best MagSafe and Qi2 chargers for your iPhone](https://www.theverge.com/23505846/best-magsafe-magnetic-chargers-apple-iphone)
  - [The NYT Tech Guild, with 600+ members, reaches a tentative deal with management on a contract enhancing job security, setting flexible hybrid schedules, more &lpar;Katie Robertson/New York Times&rpar;](http://www.techmeme.com/241211/p44#a241211p44)
- - [The Verge’s 2024 holiday gift guide for tinkerers](https://www.theverge.com/24224047/best-tool-gift-ideas-holiday-2024-handyperson-builders-tinkerers)
  - [Google rolls out two updates to Android&#39;s unknown tracker alerts feature, letting users pause location updates from their phone and pinpoint unfamiliar trackers &lpar;Sheena Vasani/The Verge&rpar;](http://www.techmeme.com/241211/p43#a241211p43)
  - [10 Best Cooling Mattress Toppers of 2024](https://www.cnet.com/health/sleep/best-cooling-mattress-toppers/#ftag=CAD590a51e)<!-- TECH:END -->
 

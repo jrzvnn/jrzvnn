@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Chinese being indian](http://9gag.com/gag/a6ZEWDm)
- - 😝 [Asada.](http://9gag.com/gag/aByn9j2)
- - 💣 [Intruder bird wanted to mate with her but she calls for her man and he comes home](http://9gag.com/gag/abAV979)
- - 😝 [Yup, that&#39;s him!](http://9gag.com/gag/ajPgQMG)
- - 👉 [Every time when I watch the movie I&#39;m terrified by the voice over.](http://9gag.com/gag/aVvxjOd)<!-- MEMES:END -->
+ - 😝 [Life happened](http://9gag.com/gag/azxMN1K)
+ - 😝 [Every time when I watch the movie I&#39;m terrified by the voice over.](http://9gag.com/gag/aVvxjOd)
+ - 💣 [Bro what?](http://9gag.com/gag/adB8ZV2)
+ - 😝 [OSHA just left the job site.](http://9gag.com/gag/aMVK3OA)
+ - 👉 [We have free electricity?](http://9gag.com/gag/ajPgQBp)<!-- MEMES:END -->
 
 ---
 

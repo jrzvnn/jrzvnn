@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Apple Intelligence second wave arrives today -- what you need to know](https://appleinsider.com/articles/24/12/05/ios-182-is-nearing-its-public-release-and-its-packed-with-ai-features?utm_medium=rss)
  - [Free App Duplicati Can Back Up Your Computer to Any Cloud Service](https://www.wired.com/story/duplicati-free-app-back-up-your-computer-to-any-cloud-service/)
  - [iOS 18.2 is out now, adding ChatGPT integration and more Apple Intelligence tools](https://www.theverge.com/2024/12/11/24317119/ios-18-2-apple-intelligence-chatgpt-genmoji)
  - [Apple rolls out iOS 18.2 and iPadOS 18.2, adding major AI updates, including Image Playground on iPhone 15 Pro, 16, and 16 Pro, Genmoji, and ChatGPT integration &lpar;Igor Bonifacic/Engadget&rpar;](http://www.techmeme.com/241211/p21#a241211p21)
- - [9 Best Diffusers for Curly Hair &lpar;2024&rpar;, Tested and Reviewed](https://www.wired.com/gallery/best-diffusers/)
- - [The Top New Features in Apple’s iOS 18 and iPadOS 18](https://www.wired.com/story/apple-iphone-ios-18-ipados-18-new-features/)<!-- TECH:END -->
+ - [9 Best Diffusers for Curly Hair &lpar;2024&rpar;, Tested and Reviewed](https://www.wired.com/gallery/best-diffusers/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

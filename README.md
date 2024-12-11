@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Or the post](http://9gag.com/gag/agmBReg)
- - 😝 [Asada.](http://9gag.com/gag/aByn9j2)
- - 💣 [Good job](http://9gag.com/gag/an7geAo)
- - 😝 [Yup, that&#39;s him!](http://9gag.com/gag/ajPgQMG)
- - 👉 [Intruder bird wanted to mate with her but she calls for her man and he comes home](http://9gag.com/gag/abAV979)<!-- MEMES:END -->
+ - 😝 [So much for gaming evolution](http://9gag.com/gag/aGyzYLK)
+ - 😝 [Absurd or not at all](http://9gag.com/gag/aoyMBP2)
+ - 💣 [Woman who can\u2019t help but look like Jim Carrey](http://9gag.com/gag/aLnvR6g)
+ - 😝 [Dino got them moves](http://9gag.com/gag/aE08vbp)
+ - 👉 [Sparring](http://9gag.com/gag/aO8QK1D)<!-- MEMES:END -->
 
 ---
 

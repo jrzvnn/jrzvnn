@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Intruder bird wanted to mate with her but she calls for her man and he comes home](http://9gag.com/gag/abAV979)
- - 😝 [Personal space](http://9gag.com/gag/agmBP4g)
- - 💣 [Asada.](http://9gag.com/gag/aByn9j2)
  - 😝 [Bro what?](http://9gag.com/gag/adB8ZV2)
- - 👉 [Every time when I watch the movie I&#39;m terrified by the voice over.](http://9gag.com/gag/aVvxjOd)<!-- MEMES:END -->
+ - 😝 [Every time when I watch the movie I&#39;m terrified by the voice over.](http://9gag.com/gag/aVvxjOd)
+ - 💣 [Chinese being indian](http://9gag.com/gag/a6ZEWDm)
+ - 😝 [Shopping is a lot of fun!](http://9gag.com/gag/awyzNwx)
+ - 👉 [Oh no Kermit ?](http://9gag.com/gag/aGypWW6)<!-- MEMES:END -->
 
 ---
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Guys! believe us! he is not a SCAPEGOAT!! -fbi](http://9gag.com/gag/a2v7QO1)
- - 😝 [Once in a lifetime trick, proceeds to do the Thin Hulk pose](http://9gag.com/gag/aryMP7y)
- - 💣 [Luigi Mangione, suspect in C.E.O. killing, photographed in his holding cell after being charged with murder](http://9gag.com/gag/aD2dBjd)
- - 😝 [Intruder bird wanted to mate with her but she calls for her man and he comes home](http://9gag.com/gag/abAV979)
- - 👉 [Chinese being indian](http://9gag.com/gag/a6ZEWDm)<!-- MEMES:END -->
+ - 😝 [That is all the diversity I need.](http://9gag.com/gag/amogq2j)
+ - 😝 [Wife material](http://9gag.com/gag/ae9AX0v)
+ - 💣 [...](http://9gag.com/gag/aqyjq37)
+ - 😝 [It wasn&#39;t about the destination, it was about the friends we made along they way.](http://9gag.com/gag/aGyzKBw)
+ - 👉 [Stay strong brotha](http://9gag.com/gag/agmBR2r)<!-- MEMES:END -->
 
 ---
 

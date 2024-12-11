@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [How Tencent&#39;s MoreFun Studios, on the verge of collapse a decade ago, is fueling the company&#39;s ambitions to create &quot;evergreen&quot; global gaming franchises &lpar;Bloomberg&rpar;](http://www.techmeme.com/241211/p12#a241211p12)
  - [German online fashion retailer Zalando agrees to buy About You, a smaller rival, for ~&amp;euro;1.2B, or &amp;euro;6.50 per share, a ~67% premium on December 10&#39;s closing price &lpar;Deirdre Hipwell/Bloomberg&rpar;](http://www.techmeme.com/241211/p11#a241211p11)
  - [Blockchain Innovation Will Put an AI-Powered Internet Back Into Users’ Hands](https://www.wired.com/story/blockchain-open-web-user-data/)
  - [How niche communities globally are repurposing WhatsApp, including broadcasting news and shows, matchmaking, organizing prayers, and finding blood donors &lpar;Sonia Faleiro/Rest of World&rpar;](http://www.techmeme.com/241211/p10#a241211p10)
- - [Singapore-based auto financing marketplace CarDekho SEA, a unit of India&#39;s CarDekho, raised $60M at a $300M valuation, its first external raise since founding &lpar;Kate Park/TechCrunch&rpar;](http://www.techmeme.com/241211/p9#a241211p9)
- - [An investigation into the suicide of a Minnesota man details how an online terrorist network called 764 has used Discord to find and torment vulnerable people &lpar;Washington Post&rpar;](http://www.techmeme.com/241211/p8#a241211p8)<!-- TECH:END -->
+ - [Singapore-based auto financing marketplace CarDekho SEA, a unit of India&#39;s CarDekho, raised $60M at a $300M valuation, its first external raise since founding &lpar;Kate Park/TechCrunch&rpar;](http://www.techmeme.com/241211/p9#a241211p9)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Dino got them moves](http://9gag.com/gag/aE08vbp)
- - 😝 [Imagine being out of shape and trying to run from someone that is in shape.](http://9gag.com/gag/awyzrXQ)
- - 💣 [Insert your title here](http://9gag.com/gag/aoygEg0)
- - 😝 [Sparring](http://9gag.com/gag/aO8QK1D)
- - 👉 [Nurse caught exposing herself to patient](http://9gag.com/gag/aKG6bDj)<!-- MEMES:END -->
+ - 😝 [The last photo ever taken of Michael Rockefeller. It\u2019s believed that the Asmat people known cannibals who beheaded their victims ate the unlucky explorer during one of his trips.](http://9gag.com/gag/a5Q1p0O)
+ - 😝 [Luigi Mangione, suspect in C.E.O. killing, photographed in his holding cell after being charged with murder](http://9gag.com/gag/aD2dBjd)
+ - 💣 [How poor we are](http://9gag.com/gag/aO836DR)
+ - 😝 [Bro what?](http://9gag.com/gag/adB8ZV2)
+ - 👉 [The couch.](http://9gag.com/gag/avyA25E)<!-- MEMES:END -->
 
 ---
 

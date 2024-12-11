@@ -158,10 +158,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- TECH:START -->
  - [How to turn on Empty Trash Automatically in macOS Sequoia](https://appleinsider.com/inside/macos/tips/how-to-turn-on-empty-trash-automatically-in-macos-sequoia?utm_medium=rss)
- - [Mozilla is removing the &quot;Do Not Track&quot; feature from Firefox in version 135, the first major browser to do so, saying few websites honor the preference &lpar;Venkat/Windows Report&rpar;](http://www.techmeme.com/241210/p29#a241210p29)
- - [Apple Watch Ultra 3 could bring Messages via Satellite to your wrist](https://appleinsider.com/articles/24/12/10/apple-watch-ultra-3-could-bring-messages-via-satellite-to-your-wrist?utm_medium=rss)
- - [The Secret Cooking Technique for Quick, Perfectly Crispy Bacon](https://www.cnet.com/how-to/the-secret-cooking-technique-for-quick-crispy-bacon/#ftag=CAD590a51e)
- - [Embodied, which made an $800 companion robot called Moxie for kids, says it is closing down after a failed funding round and that its robot will soon be bricked &lpar;Scharon Harding/Ars Technica&rpar;](http://www.techmeme.com/241210/p28#a241210p28)<!-- TECH:END -->
+ - [Today&#39;s NYT Strands Hints, Answers and Help for Dec. 11, #283](https://www.cnet.com/tech/gaming/todays-nyt-strands-hints-answers-and-help-for-dec-11-283/#ftag=CAD590a51e)
+ - [Today&#39;s Wordle Hints, Answer and Help for Dec. 11, #1271](https://www.cnet.com/tech/gaming/todays-wordle-hints-answer-and-help-for-dec-11-1271/#ftag=CAD590a51e)
+ - [Today&#39;s NYT Connections Hints, Answers and Help for Dec. 11, #549](https://www.cnet.com/tech/gaming/todays-nyt-connections-hints-answers-and-help-for-dec-11-549/#ftag=CAD590a51e)
+ - [Today&#39;s NYT Connections: Sports Edition Hints and Answers for Dec. 11, #79](https://www.cnet.com/tech/gaming/todays-nyt-connections-sports-edition-hints-and-answers-for-dec-11-79/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

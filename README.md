@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Trump’s DOJ broke policy to try to learn journalist’s sources, inspector general alleges](https://www.theverge.com/2024/12/11/24318852/trump-doj-journalist-sources-inspector-general-report)
  - [The iPhone 16 Pro now lets you layer recordings in Voice Memos](https://www.theverge.com/2024/12/11/24318918/apple-iphone-16-pro-layered-recordings-voice-memos)
  - [Now you can visit Roku City in 1080p](https://www.theverge.com/2024/12/11/24318930/roku-city-1080p-full-hd-resolution-upgrade)
  - [The tundra keeps burning and it’s transforming the Arctic](https://www.theverge.com/2024/12/11/24318690/fire-arctic-report-card-carbon-climate-change)
- - [Apple&#39;s macOS Sequoia 15.2 update references a &quot;MacBook Air &lpar;13-inch, M4, 2025&rpar;&quot; and a &quot;MacBook Air &lpar;15-inch, M4, 2025&rpar;&quot; &lpar;Juli Clover/MacRumors&rpar;](http://www.techmeme.com/241211/p36#a241211p36)
- - [Sources: Google Pixel 9a will cost $499 for the 128GB model with Tensor G4, 8GB of RAM, a 6.3&quot; screen with 2,700 peak nits, 5,100mAh battery, 23W wired charging &lpar;Alexander Maxham/Android Headlines&rpar;](http://www.techmeme.com/241211/p35#a241211p35)<!-- TECH:END -->
+ - [Apple&#39;s macOS Sequoia 15.2 update references a &quot;MacBook Air &lpar;13-inch, M4, 2025&rpar;&quot; and a &quot;MacBook Air &lpar;15-inch, M4, 2025&rpar;&quot; &lpar;Juli Clover/MacRumors&rpar;](http://www.techmeme.com/241211/p36#a241211p36)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

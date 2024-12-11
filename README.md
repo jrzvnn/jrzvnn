@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [How niche communities globally are repurposing WhatsApp, including broadcasting news and shows, matchmaking, organizing prayers, and finding blood donors &lpar;Sonia Faleiro/Rest of World&rpar;](http://www.techmeme.com/241211/p10#a241211p10)
  - [Singapore-based auto financing marketplace CarDekho SEA, a unit of India&#39;s CarDekho, raised $60M at a $300M valuation, its first external raise since founding &lpar;Kate Park/TechCrunch&rpar;](http://www.techmeme.com/241211/p9#a241211p9)
  - [An investigation into the suicide of a Minnesota man details how an online terrorist network called 764 has used Discord to find and torment vulnerable people &lpar;Washington Post&rpar;](http://www.techmeme.com/241211/p8#a241211p8)
  - [Recorded Future: AI voice tech from ElevenLabs and others was &quot;very likely&quot; used in a recent Russian influence campaign to make videos appear more legitimate &lpar;Charles Rollet/TechCrunch&rpar;](http://www.techmeme.com/241211/p7#a241211p7)
- - [A look at Anthropic&#39;s Frontier Red Team, which has grown to 11 people and is overseen by Logan Graham to assess catastrophic risks in Anthropic&#39;s AI models &lpar;Sam Schechner/Wall Street Journal&rpar;](http://www.techmeme.com/241211/p6#a241211p6)
- - [Filing: as of June 30, 2024, the paper losses on Tiger Global&#39;s 15th fund was at 15%+, placing it in the bottom 10% of all VC funds raised in 2021 per PitchBook &lpar;Marina Temkin/TechCrunch&rpar;](http://www.techmeme.com/241211/p5#a241211p5)<!-- TECH:END -->
+ - [A look at Anthropic&#39;s Frontier Red Team, which has grown to 11 people and is overseen by Logan Graham to assess catastrophic risks in Anthropic&#39;s AI models &lpar;Sam Schechner/Wall Street Journal&rpar;](http://www.techmeme.com/241211/p6#a241211p6)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

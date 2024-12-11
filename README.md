@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Beats launches Sunrise Pink and Twilight Blue cases for the iPhone 16 range](https://appleinsider.com/articles/24/12/11/beats-launches-sunrise-pink-and-twilight-blue-cases-for-the-iphone-16-range?utm_medium=rss)
+ - [OnlyFans Models Are Using AI Impersonators to Keep Up With Their DMs](https://www.wired.com/story/onlyfans-models-are-using-ai-impersonators-to-keep-up-with-their-dms/)
+ - [The Lord of the Rings: The War of the Rohirrim is a soulless return to Middle-earth](https://www.theverge.com/2024/12/11/24318164/lord-of-the-rings-war-of-the-rohirrim-review)
  - [The Onion’s acquisition of Infowars was blocked by a judge](https://www.theverge.com/2024/12/11/24318745/the-onion-infowars-acqusition-blocked-judge)
- - [Samsung&#39;s holiday TV deals slash up to $4,000 off OLED, The Frame, QLED models](https://appleinsider.com/articles/24/12/11/samsungs-holiday-tv-deals-slash-up-to-4000-off-oled-the-frame-qled-models?utm_medium=rss)
- - [Apple Watch Series 10’s record low price from Black Friday is back](https://www.theverge.com/2024/12/11/24318667/apple-watch-series-10-smartwatch-sonos-ace-headphones-deal-sale)
- - [Google releases Gemini 2.0 Flash to generate images, audio, and text, and use third-party apps and services, available via Gemini API and developer platforms &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/241211/p33#a241211p33)
- - [Google unveils Deep Research, an AI tool to let its Gemini chatbot scour the web and write a detailed report, available in English for Gemini Advanced users &lpar;Emma Roth/The Verge&rpar;](http://www.techmeme.com/241211/p32#a241211p32)<!-- TECH:END -->
+ - [Samsung&#39;s holiday TV deals slash up to $4,000 off OLED, The Frame, QLED models](https://appleinsider.com/articles/24/12/11/samsungs-holiday-tv-deals-slash-up-to-4000-off-oled-the-frame-qled-models?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

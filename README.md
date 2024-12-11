@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [As payment fraud grows, governments, banks, and tech companies disagree on who covers losses; Deloitte says AI content contributed to $12B+ in US losses in 2023 &lpar;Financial Times&rpar;](http://www.techmeme.com/241211/p18#a241211p18)
+ - [Designer Babies Are Teenagers Now—and Some of Them Need Therapy Because of It](https://www.wired.com/story/your-next-job-designer-baby-therapist/)
  - [Swedish startup Mynt, which offers smart expense cards for SMEs, raised &amp;euro;22M led by Vor Capital, a source says at a ~&amp;euro;200M valuation, and claims 12K SME clients &lpar;Ingrid Lunden/TechCrunch&rpar;](http://www.techmeme.com/241211/p17#a241211p17)
  - [Tim Cook says Apple has invested over $18 billion in the UK since 2019](https://appleinsider.com/articles/24/12/11/tim-cook-says-apple-has-invested-over-18-billion-in-the-uk-since-2019?utm_medium=rss)
- - [Similarweb: X&#39;s US DAUs dropped by 8.4% from 32.3M to 29.6M between early October 2024 and now, while Bluesky&#39;s US DAUs rose 1,064% from 254,500 to ~2.7M &lpar;Raphael Boyd/The Guardian&rpar;](http://www.techmeme.com/241211/p16#a241211p16)
- - [US Meat, Milk Prices Should Spike if Donald Trump Carries Out Mass Deportation Schemes](https://www.wired.com/story/us-meat-milk-prices-should-spike-if-donald-trump-carries-out-mass-deportation-schemes/)
- - [A look at the relationship between Tether and Trump transition co-Chair Howard Lutnick, who boasted of Cantor Fitzgerald handling $10B in redemptions in 2022 &lpar;Financial Times&rpar;](http://www.techmeme.com/241211/p15#a241211p15)<!-- TECH:END -->
+ - [Similarweb: X&#39;s US DAUs dropped by 8.4% from 32.3M to 29.6M between early October 2024 and now, while Bluesky&#39;s US DAUs rose 1,064% from 254,500 to ~2.7M &lpar;Raphael Boyd/The Guardian&rpar;](http://www.techmeme.com/241211/p16#a241211p16)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

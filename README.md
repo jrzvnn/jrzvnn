@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Sweden&#39;s financial regulator fines Klarna $50M and reprimands the BNPL company for breaking anti-money laundering rules between 2021 and 2022 &lpar;Richard Milne/Financial Times&rpar;](http://www.techmeme.com/241211/p14#a241211p14)
  - [OpenAI rolls out Canvas, its side-by-side digital editing space, to all ChatGPT users and adds new features, including support for Python and more text pasting &lpar;Emilia David/VentureBeat&rpar;](http://www.techmeme.com/241211/p13#a241211p13)
- - [How Tencent&#39;s MoreFun Studios, on the verge of collapse a decade ago, is fueling the company&#39;s ambitions to create &quot;evergreen&quot; global gaming franchises &lpar;Bloomberg&rpar;](http://www.techmeme.com/241211/p12#a241211p12)
- - [German online fashion retailer Zalando agrees to buy About You, a smaller rival, for ~&amp;euro;1.2B, or &amp;euro;6.50 per share, a ~67% premium on December 10&#39;s closing price &lpar;Deirdre Hipwell/Bloomberg&rpar;](http://www.techmeme.com/241211/p11#a241211p11)
- - [Blockchain Innovation Will Put an AI-Powered Internet Back Into Users’ Hands](https://www.wired.com/story/blockchain-open-web-user-data/)
- - [How niche communities globally are repurposing WhatsApp, including broadcasting news and shows, matchmaking, organizing prayers, and finding blood donors &lpar;Sonia Faleiro/Rest of World&rpar;](http://www.techmeme.com/241211/p10#a241211p10)<!-- TECH:END -->
+ - [Maximize Your Earnings With an APY up to 4.70%. Today&#39;s CD Rates, Dec. 11, 2024](https://www.cnet.com/personal-finance/banking/maximize-your-earnings-with-an-apy-up-to-4-70-todays-cd-rates-dec-11-2024/#ftag=CAD590a51e)
+ - [Best Internet Providers in Bellingham, Washington](https://www.cnet.com/home/internet/best-internet-providers-in-bellingham-wa/#ftag=CAD590a51e)
+ - [There&#39;s Still Time to Maximize Interest to Reach Your Savings Goals. Today&#39;s Savings Rates, Dec. 11, 2024](https://www.cnet.com/personal-finance/banking/theres-still-time-to-maximize-interest-to-reach-your-savings-goals-todays-savings-rates-dec-11-2024/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

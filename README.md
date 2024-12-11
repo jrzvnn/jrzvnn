@@ -167,10 +167,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [Never step on spiders. You could be stepping on a female with eggs, and they\u2019ll stick to your shoes and hatch all over your car and house.](http://9gag.com/gag/a2v1zPE)
- - 😝 [Personal space](http://9gag.com/gag/agmBP4g)
- - 💣 [Yup, that&#39;s him!](http://9gag.com/gag/ajPgQMG)
- - 😝 [Chinese being indian](http://9gag.com/gag/a6ZEWDm)
- - 👉 [Asada.](http://9gag.com/gag/aByn9j2)<!-- MEMES:END -->
+ - 😝 [How poor we are](http://9gag.com/gag/aO836DR)
+ - 💣 [Shopping is a lot of fun!](http://9gag.com/gag/awyzNwx)
+ - 😝 [Yup, that&#39;s him!](http://9gag.com/gag/ajPgQMG)
+ - 👉 [Islamic Syrian crowd invades Essen&#39;s &lpar;Germany&rpar; Christmas markets shouting `Allah Akbar`](http://9gag.com/gag/aQzow5r)<!-- MEMES:END -->
 
 ---
 

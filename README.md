@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The ultrawide Mac display option in visionOS 2.2 is very close to being a killer app and makes the Vision Pro&#39;s price feel a little closer to right &lpar;Wes Davis/The Verge&rpar;](http://www.techmeme.com/241211/p40#a241211p40)
  - [Ayar Labs, which develops optical interconnects, raised a $155M Series D from Advent Global, Light Street, Nvidia, AMD, Intel, and others at a $1B+ valuation &lpar;Jane Lanhee Lee/Bloomberg&rpar;](http://www.techmeme.com/241211/p39#a241211p39)
  - [Android is making it easier to find unknown trackers to prevent stalking](https://www.theverge.com/2024/12/11/24318992/android-find-my-device-bluetooth-tracker-stalking)
- - [How to responsibly get rid of the stuff you’ve decluttered](https://www.theverge.com/22594200/recycle-tech-declutter-environment-green)
- - [NYT tech workers win tentative union contract after election week strike](https://www.theverge.com/2024/12/11/24319022/nyt-times-tech-guild-workers-win-tentative-union-contract)
- - [2025 M4 MacBook Air leaked in macOS Sequoia 15.2 update &amp; regulatory documents](https://appleinsider.com/articles/24/12/11/m4-macbook-air-leaked-in-macos-sequoia-152-update-regulatory-documents?utm_medium=rss)<!-- TECH:END -->
+ - [Best Internet Providers in Bowling Green, Kentucky](https://www.cnet.com/home/internet/best-internet-providers-in-bowling-green-ky/#ftag=CAD590a51e)
+ - [Krispy Kreme Online Ordering Disrupted by Cyberattack](https://www.cnet.com/tech/services-and-software/krispy-kreme-online-ordering-disrupted-by-cyberattack/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

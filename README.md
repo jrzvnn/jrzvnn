@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [That is all the diversity I need.](http://9gag.com/gag/amogq2j)
  - 😝 [Wife material](http://9gag.com/gag/ae9AX0v)
+ - 😝 [That&#39;s pretty cool](http://9gag.com/gag/aKGmwq6)
  - 💣 [...](http://9gag.com/gag/aqyjq37)
- - 😝 [It wasn&#39;t about the destination, it was about the friends we made along they way.](http://9gag.com/gag/aGyzKBw)
- - 👉 [Stay strong brotha](http://9gag.com/gag/agmBR2r)<!-- MEMES:END -->
+ - 😝 [Stay strong brotha](http://9gag.com/gag/agmBR2r)
+ - 👉 [It wasn&#39;t about the destination, it was about the friends we made along they way.](http://9gag.com/gag/aGyzKBw)<!-- MEMES:END -->
 
 ---
 

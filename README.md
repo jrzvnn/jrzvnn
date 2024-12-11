@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Stereotype reinforcement - check](http://9gag.com/gag/aGyzKK7)
  - 😝 [Google\u2019s Willow Quantum Chip: With 105 qubits and real-time error correction, Willow solved a task in 5 minutes that would take classical supercomputers billions of years, marking a breakthrough in scalable quantum computing.](http://9gag.com/gag/ae9AoXp)
- - 💣 [They&#39;re doing content houses now](http://9gag.com/gag/aMV419A)
- - 😝 [Nurse caught exposing herself to patient](http://9gag.com/gag/aKG6bDj)
- - 👉 [Luigi Mangione, suspect in C.E.O. killing, photographed in his holding cell after being charged with murder](http://9gag.com/gag/aD2dBjd)<!-- MEMES:END -->
+ - 😝 [Every time when I watch the movie I&#39;m terrified by the voice over.](http://9gag.com/gag/aVvxjOd)
+ - 💣 [Yup, that&#39;s him!](http://9gag.com/gag/ajPgQMG)
+ - 😝 [F1 training is no joke](http://9gag.com/gag/aD2DRvw)
+ - 👉 [Nurse caught exposing herself to patient](http://9gag.com/gag/aKG6bDj)<!-- MEMES:END -->
 
 ---
 

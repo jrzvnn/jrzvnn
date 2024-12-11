@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Embodied, which made an $800 companion robot called Moxie for kids, says it is closing down after a failed funding round and that its robot will soon be bricked &lpar;Scharon Harding/Ars Technica&rpar;](http://www.techmeme.com/241210/p28#a241210p28)
+ - [An interview with OpenAI CFO Sarah Friar on Donald Trump being the &quot;president of this AI generation&quot;, Elon Musk&#39;s public threats, ChatGPT user growth, and more &lpar;Krystal Hu/Reuters&rpar;](http://www.techmeme.com/241210/p27#a241210p27)
  - [The ‘Ghost Gun’ Linked to Luigi Mangione Shows Just How Far 3D-Printed Weapons Have Come](https://www.wired.com/story/luigi-mangione-united-healthcare-3d-printed-gun-fmda-chairmanwon-v1/)
  - [Amazon plans to test a 15-minute delivery service for items ranging from grocery to household goods in India this month, starting with some areas in Bengaluru &lpar;Sankalp Phartiyal/Bloomberg&rpar;](http://www.techmeme.com/241210/p26#a241210p26)
- - [Best Reading Glasses for 2024](https://www.cnet.com/health/personal-care/best-reading-glasses/#ftag=CAD590a51e)
- - [8 Best Sleep Trackers of 2024, Tested and Selected by Our Sleep Experts](https://www.cnet.com/health/sleep/best-sleep-tracker/#ftag=CAD590a51e)
- - [Trump’s pick for FTC chair promises to go after ‘censorship’ from tech companies](https://www.theverge.com/2024/12/10/24318388/trump-ftc-chair-pick-andrew-ferguson-censorship-tech-companies)<!-- TECH:END -->
+ - [Best Reading Glasses for 2024](https://www.cnet.com/health/personal-care/best-reading-glasses/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Android is making it easier to find unknown trackers to prevent stalking](https://www.theverge.com/2024/12/11/24318992/android-find-my-device-bluetooth-tracker-stalking)
  - [How to responsibly get rid of the stuff you’ve decluttered](https://www.theverge.com/22594200/recycle-tech-declutter-environment-green)
  - [NYT tech workers win tentative union contract after election week strike](https://www.theverge.com/2024/12/11/24319022/nyt-times-tech-guild-workers-win-tentative-union-contract)
  - [2025 M4 MacBook Air leaked in macOS Sequoia 15.2 update &amp; regulatory documents](https://appleinsider.com/articles/24/12/11/m4-macbook-air-leaked-in-macos-sequoia-152-update-regulatory-documents?utm_medium=rss)
- - [The best doorbell cameras](https://www.theverge.com/22954554/best-video-doorbell-camera)
- - [Apple adds Layered Recordings to the Voice Memos app in iOS 18.2, for the iPhone 16 Pro and Pro Max; iOS 18 previously brought transcriptions to Voice Memos &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/241211/p38#a241211p38)<!-- TECH:END -->
+ - [The best doorbell cameras](https://www.theverge.com/22954554/best-video-doorbell-camera)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

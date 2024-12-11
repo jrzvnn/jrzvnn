@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple Watch Series 10’s record low price from Black Friday is back](https://www.theverge.com/2024/12/11/24318667/apple-watch-series-10-smartwatch-sonos-ace-headphones-deal-sale)
- - [Google releases Gemini 2.0 Flash to generate images, audio, and text, and use third-party apps and services, available via Gemini API and developer platforms &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/241211/p33#a241211p33)
- - [Google unveils Deep Research, an AI tool to let its Gemini chatbot scour the web and write a detailed report, available in English for Gemini Advanced users &lpar;Emma Roth/The Verge&rpar;](http://www.techmeme.com/241211/p32#a241211p32)
- - [Google unveils Project Mariner, a prototype AI agent built by Google DeepMind that can control Chrome, move the cursor, click buttons, fill out forms, and more &lpar;Maxwell Zeff/TechCrunch&rpar;](http://www.techmeme.com/241211/p31#a241211p31)
- - [Google unveils an updated Project Astra, which can record and summarize videos recorded using an Android app or prototype glasses and answer questions &lpar;Ina Fried/Axios&rpar;](http://www.techmeme.com/241211/p30#a241211p30)<!-- TECH:END -->
+ - [The Onion’s acquisition of Infowars was blocked by a judge](https://www.theverge.com/2024/12/11/24318745/the-onion-infowars-acqusition-blocked-judge)
+ - [Samsung&#39;s holiday TV deals slash up to $4,000 off OLED, The Frame, QLED models](https://appleinsider.com/articles/24/12/11/samsungs-holiday-tv-deals-slash-up-to-4000-off-oled-the-frame-qled-models?utm_medium=rss)
+ - [Geminids Peaks This Week and It&#39;s the Final Big Meteor Shower of 2024](https://www.cnet.com/science/see-the-taurids-meteor-shower-tonight-plus-more-fireballs-through-years-end/#ftag=CAD590a51e)
+ - [You Can Download iOS 18.2 Today, With ChatGPT, Genmoji, Visual Intelligence for iPhone](https://www.cnet.com/tech/services-and-software/you-can-download-ios-18-2-today-with-chatgpt-genmoji-visual-intelligence-for-iphone/#ftag=CAD590a51e)
+ - [Best Solar Panel Installation Companies in California](https://www.cnet.com/home/energy-and-utilities/california-solar-panels/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

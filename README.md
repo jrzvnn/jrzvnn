@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [When Cops give you a Unibrow](http://9gag.com/gag/aYQozWO)
- - 😝 [Like a robot](http://9gag.com/gag/ajPmoLw)
+ - 😝 [Mess around and find out](http://9gag.com/gag/axyMxv1)
+ - 😝 [Never had real value](http://9gag.com/gag/agmBMLW)
  - 💣 [Once in a lifetime trick, proceeds to do the Thin Hulk pose](http://9gag.com/gag/aryMP7y)
- - 😝 [OSHA just left the job site.](http://9gag.com/gag/aMVK3OA)
- - 👉 [Luigi Mangione: `This is completely out of touch and an insult to the intelligence of the American people!\u201d](http://9gag.com/gag/aKGm4vg)<!-- MEMES:END -->
+ - 😝 [Guys! believe us! he is not a SCAPEGOAT!! -fbi](http://9gag.com/gag/a2v7QO1)
+ - 👉 [Intruder bird wanted to mate with her but she calls for her man and he comes home](http://9gag.com/gag/abAV979)<!-- MEMES:END -->
 
 ---
 

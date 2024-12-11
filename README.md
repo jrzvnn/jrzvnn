@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [WordPress must stop blocking WP Engine, judge rules](https://www.theverge.com/2024/12/10/24318350/automattic-restore-wp-engine-access-wordpress)
- - [Trump picks FTC Commissioner Andrew Ferguson to chair the FTC; Ferguson has said the FTC should tackle perceived censorship of conservative viewpoints online &lpar;Jody Godoy/Reuters&rpar;](http://www.techmeme.com/241210/p23#a241210p23)
- - [TikTok files a legal challenge against Canada&#39;s order to shut down its operations in the country, claiming the decision was &quot;driven by improper purposes&quot; &lpar;Canadian Press&rpar;](http://www.techmeme.com/241210/p22#a241210p22)
- - [Valve is now selling refurbished Steam Deck OLEDs starting at $439](https://www.theverge.com/2024/12/10/24318367/valve-refurbished-steam-deck-oled)
- - [The best instant cameras you can buy right now](https://www.theverge.com/23133103/best-instant-cameras-fujifilm-polaroid-kodak)<!-- TECH:END -->
+ - [Trump’s pick for FTC chair promises to go after ‘censorship’ from tech companies](https://www.theverge.com/2024/12/10/24318388/trump-ftc-chair-pick-andrew-ferguson-censorship-tech-companies)
+ - [Best Smart Speakers for 2024: We Tested Alexa, Google, Apple and Sonos](https://www.cnet.com/home/smart-home/best-smart-speaker/#ftag=CAD590a51e)
+ - [Apple has reportedly approached Sony to partner on Apple Vision Pro controllers](https://appleinsider.com/articles/24/12/08/third-party-controllers-may-bring-more-games-to-apple-vision-pro?utm_medium=rss)
+ - [Source: Google asked the US to break up Microsoft&#39;s exclusive agreement to host OpenAI&#39;s tech on Azure, after the FTC asked Google about Microsoft&#39;s practices &lpar;Aaron Holmes/The Information&rpar;](http://www.techmeme.com/241210/p25#a241210p25)
+ - [The best noise-canceling headphones to buy right now](https://www.theverge.com/21345733/best-noise-canceling-headphones)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

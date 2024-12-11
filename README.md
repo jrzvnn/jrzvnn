@@ -167,10 +167,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [When a little kid has more brains than you!](http://9gag.com/gag/a2v1EDZ)
- - 😝 [Luigi Mangione, suspect in C.E.O. killing, photographed in his holding cell after being charged with murder](http://9gag.com/gag/aD2dBjd)
- - 💣 [ARGENTINA ENDS DEFICIT FOR THE FIRST TIME IN 123 YEARS\u2026.](http://9gag.com/gag/ayN95xy)
+ - 😝 [How poor we are](http://9gag.com/gag/aO836DR)
+ - 💣 [Intruder bird wanted to mate with her but she calls for her man and he comes home](http://9gag.com/gag/abAV979)
  - 😝 [$60,000 gone with the wind](http://9gag.com/gag/a2v1EYp)
- - 👉 [Good job](http://9gag.com/gag/an7geAo)<!-- MEMES:END -->
+ - 👉 [Yup, that&#39;s him!](http://9gag.com/gag/ajPgQMG)<!-- MEMES:END -->
 
 ---
 

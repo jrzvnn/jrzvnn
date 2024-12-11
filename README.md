@@ -167,10 +167,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [The last photo ever taken of Michael Rockefeller. It\u2019s believed that the Asmat people known cannibals who beheaded their victims ate the unlucky explorer during one of his trips.](http://9gag.com/gag/a5Q1p0O)
- - 😝 [Luigi Mangione, suspect in C.E.O. killing, photographed in his holding cell after being charged with murder](http://9gag.com/gag/aD2dBjd)
- - 💣 [How poor we are](http://9gag.com/gag/aO836DR)
- - 😝 [Bro what?](http://9gag.com/gag/adB8ZV2)
- - 👉 [The couch.](http://9gag.com/gag/avyA25E)<!-- MEMES:END -->
+ - 😝 [Nurse caught exposing herself to patient](http://9gag.com/gag/aKG6bDj)
+ - 💣 [F1 training is no joke](http://9gag.com/gag/aD2DRvw)
+ - 😝 [How poor we are](http://9gag.com/gag/aO836DR)
+ - 👉 [ARGENTINA ENDS DEFICIT FOR THE FIRST TIME IN 123 YEARS\u2026.](http://9gag.com/gag/ayN95xy)<!-- MEMES:END -->
 
 ---
 

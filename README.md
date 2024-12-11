@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Google releases Gemini 2.0 Flash to generate images, audio, and text, and use third-party apps and services, available via Gemini API and developer platforms &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/241211/p33#a241211p33)
+ - [Google unveils Deep Research, an AI tool to let its Gemini chatbot scour the web and write a detailed report, available in English for Gemini Advanced users &lpar;Emma Roth/The Verge&rpar;](http://www.techmeme.com/241211/p32#a241211p32)
  - [Google unveils Project Mariner, a prototype AI agent built by Google DeepMind that can control Chrome, move the cursor, click buttons, fill out forms, and more &lpar;Maxwell Zeff/TechCrunch&rpar;](http://www.techmeme.com/241211/p31#a241211p31)
  - [Google unveils an updated Project Astra, which can record and summarize videos recorded using an Android app or prototype glasses and answer questions &lpar;Ina Fried/Axios&rpar;](http://www.techmeme.com/241211/p30#a241211p30)
- - [Google says it is testing AI agents based on Gemini 2.0 that can understand rules in video games like Clash of Clans to help players out &lpar;Jay Peters/The Verge&rpar;](http://www.techmeme.com/241211/p29#a241211p29)
- - [Google unveils Trillium, its sixth-gen AI chip powering Gemini 2.0, with 4x the training performance of its predecessor while using significantly less energy &lpar;Michael Nu&amp;ntilde;ez/VentureBeat&rpar;](http://www.techmeme.com/241211/p28#a241211p28)
- - [Google unveils Jules, an AI coding assistant that can autonomously fix software bugs and prepare code changes, built on Google&#39;s new Gemini 2.0 platform &lpar;Michael Nu&amp;ntilde;ez/VentureBeat&rpar;](http://www.techmeme.com/241211/p27#a241211p27)<!-- TECH:END -->
+ - [Google says it is testing AI agents based on Gemini 2.0 that can understand rules in video games like Clash of Clans to help players out &lpar;Jay Peters/The Verge&rpar;](http://www.techmeme.com/241211/p29#a241211p29)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

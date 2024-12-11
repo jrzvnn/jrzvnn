@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Google rolls out two updates to Android&#39;s unknown tracker alerts feature, letting users pause location updates from their phone and pinpoint unfamiliar trackers &lpar;Sheena Vasani/The Verge&rpar;](http://www.techmeme.com/241211/p43#a241211p43)
+ - [Apple testing M4 MacBook Air with ultra-wide camera &amp; Center Stage support](https://appleinsider.com/articles/24/12/11/m4-macbook-air-leaked-in-macos-sequoia-152-update-regulatory-documents?utm_medium=rss)
  - [Grab Apple&#39;s M3 15-inch MacBook Air with 24GB RAM, 1TB for $1,699 &lpar;$200 off&rpar;](https://appleinsider.com/articles/24/12/11/grab-apples-m3-15-inch-macbook-air-with-24gb-ram-1tb-for-1699-200-off?utm_medium=rss)
  - [Adobe reports Q4 revenue up 11% YoY to $5.61B, vs. $5.54B est., Digital Media revenue up 12%, forecasts FY 2025 revenue below est.; ADBE drops 8%+ after hours &lpar;Brody Ford/Bloomberg&rpar;](http://www.techmeme.com/241211/p41#a241211p41)
- - [Sonos plans return-to-office push for its product teams](https://www.theverge.com/2024/12/11/24314934/sonos-return-to-office-mandate)
- - [Best Sounding Wireless Earbuds in 2024](https://www.cnet.com/tech/mobile/best-sounding-wireless-earbuds/#ftag=CAD590a51e)
- - [ChatGPT Just Got Integrated With Siri. Here&#39;s What Will Change](https://www.cnet.com/tech/services-and-software/chatgpt-just-got-integrated-with-siri-heres-what-will-change/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Sonos plans return-to-office push for its product teams](https://www.theverge.com/2024/12/11/24314934/sonos-return-to-office-mandate)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

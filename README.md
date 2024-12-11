@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Islamic Syrian crowd invades Essen&#39;s &lpar;Germany&rpar; Christmas markets shouting `Allah Akbar`](http://9gag.com/gag/aQzow5r)
- - 😝 [Personal space](http://9gag.com/gag/agmBP4g)
- - 💣 [Every time when I watch the movie I&#39;m terrified by the voice over.](http://9gag.com/gag/aVvxjOd)
- - 😝 [Bro what?](http://9gag.com/gag/adB8ZV2)
- - 👉 [Life happened](http://9gag.com/gag/azxMN1K)<!-- MEMES:END -->
+ - 😝 [Life happened](http://9gag.com/gag/azxMN1K)
+ - 😝 [OSHA just left the job site.](http://9gag.com/gag/aMVK3OA)
+ - 💣 [Oh no Kermit ?](http://9gag.com/gag/aGypWW6)
+ - 😝 [Every time when I watch the movie I&#39;m terrified by the voice over.](http://9gag.com/gag/aVvxjOd)
+ - 👉 [$60,000 gone with the wind](http://9gag.com/gag/a2v1EYp)<!-- MEMES:END -->
 
 ---
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [How to turn on Empty Trash Automatically in macOS Sequoia](https://appleinsider.com/inside/macos/tips/how-to-turn-on-empty-trash-automatically-in-macos-sequoia?utm_medium=rss)
  - [Mozilla is removing the &quot;Do Not Track&quot; feature from Firefox in version 135, the first major browser to do so, saying few websites honor the preference &lpar;Venkat/Windows Report&rpar;](http://www.techmeme.com/241210/p29#a241210p29)
  - [Apple Watch Ultra 3 could bring Messages via Satellite to your wrist](https://appleinsider.com/articles/24/12/10/apple-watch-ultra-3-could-bring-messages-via-satellite-to-your-wrist?utm_medium=rss)
- - [Embodied, which made an $800 companion robot called Moxie for kids, says it is closing down after a failed funding round and that its robot will soon be bricked &lpar;Scharon Harding/Ars Technica&rpar;](http://www.techmeme.com/241210/p28#a241210p28)
- - [An interview with OpenAI CFO Sarah Friar on Donald Trump being the &quot;president of this AI generation&quot;, Elon Musk&#39;s public threats, ChatGPT user growth, and more &lpar;Krystal Hu/Reuters&rpar;](http://www.techmeme.com/241210/p27#a241210p27)
- - [The ‘Ghost Gun’ Linked to Luigi Mangione Shows Just How Far 3D-Printed Weapons Have Come](https://www.wired.com/story/luigi-mangione-united-healthcare-3d-printed-gun-fmda-chairmanwon-v1/)<!-- TECH:END -->
+ - [The Secret Cooking Technique for Quick, Perfectly Crispy Bacon](https://www.cnet.com/how-to/the-secret-cooking-technique-for-quick-crispy-bacon/#ftag=CAD590a51e)
+ - [Embodied, which made an $800 companion robot called Moxie for kids, says it is closing down after a failed funding round and that its robot will soon be bricked &lpar;Scharon Harding/Ars Technica&rpar;](http://www.techmeme.com/241210/p28#a241210p28)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Perfect alibi.](http://9gag.com/gag/a9y1j20)
- - 😝 [So much for gaming evolution](http://9gag.com/gag/aGyzYLK)
- - 💣 [It wasn&#39;t about the destination, it was about the friends we made along they way.](http://9gag.com/gag/aGyzKBw)
- - 😝 [It&#39;s wednesday, my dudes](http://9gag.com/gag/aKGmwN6)
- - 👉 [Woman who can\u2019t help but look like Jim Carrey](http://9gag.com/gag/aLnvR6g)<!-- MEMES:END -->
+ - 😝 [Personal space](http://9gag.com/gag/agmBP4g)
+ - 😝 [Like a robot](http://9gag.com/gag/ajPmoLw)
+ - 💣 [OSHA just left the job site.](http://9gag.com/gag/aMVK3OA)
+ - 😝 [Bro what?](http://9gag.com/gag/adB8ZV2)
+ - 👉 [Oh no Kermit ?](http://9gag.com/gag/aGypWW6)<!-- MEMES:END -->
 
 ---
 

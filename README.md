@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [$60,000 gone with the wind](http://9gag.com/gag/a2v1EYp)
- - 😝 [Islamic Syrian crowd invades Essen&#39;s &lpar;Germany&rpar; Christmas markets shouting `Allah Akbar`](http://9gag.com/gag/aQzow5r)
- - 💣 [They&#39;re doing content houses now](http://9gag.com/gag/aMV419A)
- - 😝 [Yup, that&#39;s him!](http://9gag.com/gag/ajPgQMG)
- - 👉 [Luigi Mangione, suspect in C.E.O. killing, photographed in his holding cell after being charged with murder](http://9gag.com/gag/aD2dBjd)<!-- MEMES:END -->
+ - 😝 [Dino got them moves](http://9gag.com/gag/aE08vbp)
+ - 😝 [Imagine being out of shape and trying to run from someone that is in shape.](http://9gag.com/gag/awyzrXQ)
+ - 💣 [Insert your title here](http://9gag.com/gag/aoygEg0)
+ - 😝 [Sparring](http://9gag.com/gag/aO8QK1D)
+ - 👉 [Nurse caught exposing herself to patient](http://9gag.com/gag/aKG6bDj)<!-- MEMES:END -->
 
 ---
 

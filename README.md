@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Wallace &amp; Gromit studio Aardman is working on a Pokémon project](https://www.theverge.com/2024/12/11/24318706/pokemon-aardman-project)
- - [Adobe Lightroom, Balatro+ honored in Apple&#39;s App Store Awards](https://appleinsider.com/articles/24/12/11/adobe-lightroom-balatro-honored-in-apples-app-store-awards?utm_medium=rss)
- - [Best WIRED-tested Wireless Meat Thermometers &lpar;2024&rpar;](https://www.wired.com/gallery/best-wireless-meat-thermometers/)
- - [Why every company wants a podcast now](https://www.theverge.com/24318644/podcast-election-vc-marketing-business-decoder-interview)
- - [We asked our staff for their 2025 predictions](https://www.theverge.com/24305936/2025-tech-predictions-ai-tiktok-ban-smart-home-fda-pcs)<!-- TECH:END -->
+ - [Google’s AI enters its ‘agentic era’](https://www.theverge.com/2024/12/11/24317436/google-deepmind-project-astra-mariner-ai-agent)
+ - [It sure sounds like Google is planning to actually launch some smart glasses](https://www.theverge.com/2024/12/11/24318672/google-smart-glasses-ai-gemini)
+ - [Google’s new Jules AI agent will help developers fix buggy code](https://www.theverge.com/2024/12/11/24318628/jules-google-ai-coding-agent-gemini-2-0-announcement)
+ - [Google is testing Gemini AI agents that help you in video games](https://www.theverge.com/2024/12/11/24318530/google-gemini-2-0-understand-rules-video-games-genie)
+ - [Google launched Gemini 2.0, its new AI model for practically everything](https://www.theverge.com/2024/12/11/24318444/google-gemini-2-0-flash-ai-model)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

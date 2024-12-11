@@ -161,7 +161,7 @@ R                        1 repo              ░░░░░░░░░░░�
  - [Designer Babies Are Teenagers Now—and Some of Them Need Therapy Because of It](https://www.wired.com/story/your-next-job-designer-baby-therapist/)
  - [Swedish startup Mynt, which offers smart expense cards for SMEs, raised &amp;euro;22M led by Vor Capital, a source says at a ~&amp;euro;200M valuation, and claims 12K SME clients &lpar;Ingrid Lunden/TechCrunch&rpar;](http://www.techmeme.com/241211/p17#a241211p17)
  - [Tim Cook says Apple has invested over $18 billion in the UK since 2019](https://appleinsider.com/articles/24/12/11/tim-cook-says-apple-has-invested-over-18-billion-in-the-uk-since-2019?utm_medium=rss)
- - [Similarweb: X&#39;s US DAUs dropped by 8.4% from 32.3M to 29.6M between early October 2024 and now, while Bluesky&#39;s US DAUs rose 1,064% from 254,500 to ~2.7M &lpar;Raphael Boyd/The Guardian&rpar;](http://www.techmeme.com/241211/p16#a241211p16)<!-- TECH:END -->
+ - [Are You Experiencing or Promoting Toxic Positivity in Your Mind or Relationships?](https://www.cnet.com/health/mental/experiencing-promoting-toxic-positivity-mind-relationships/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

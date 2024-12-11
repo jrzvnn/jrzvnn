@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Bro what?](http://9gag.com/gag/adB8ZV2)
- - 😝 [Every time when I watch the movie I&#39;m terrified by the voice over.](http://9gag.com/gag/aVvxjOd)
+ - 😝 [Oh no Kermit ?](http://9gag.com/gag/aGypWW6)
+ - 😝 [Asada.](http://9gag.com/gag/aByn9j2)
  - 💣 [Chinese being indian](http://9gag.com/gag/a6ZEWDm)
- - 😝 [Shopping is a lot of fun!](http://9gag.com/gag/awyzNwx)
- - 👉 [Oh no Kermit ?](http://9gag.com/gag/aGypWW6)<!-- MEMES:END -->
+ - 😝 [OSHA just left the job site.](http://9gag.com/gag/aMVK3OA)
+ - 👉 [Luigi Mangione, suspect in C.E.O. killing, photographed in his holding cell after being charged with murder](http://9gag.com/gag/aD2dBjd)<!-- MEMES:END -->
 
 ---
 

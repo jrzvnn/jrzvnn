@@ -159,9 +159,9 @@ R                        1 repo              ░░░░░░░░░░░�
 <!-- TECH:START -->
  - [The PS5 disc drive is back in stock, but only for GameStop Pro members](https://www.theverge.com/2024/12/11/24318790/playstation-5-ps5-disc-drive-restock-gamestop-pro-members)
  - [Watching sports: a special series from The Verge](https://www.theverge.com/c/24312149/sports-gymnastics-tennis-surveillance-ai)
- - [Beats launches Sunrise Pink and Twilight Blue cases for the iPhone 16 range](https://appleinsider.com/articles/24/12/11/beats-launches-sunrise-pink-and-twilight-blue-cases-for-the-iphone-16-range?utm_medium=rss)
- - [OnlyFans Models Are Using AI Impersonators to Keep Up With Their DMs](https://www.wired.com/story/onlyfans-models-are-using-ai-impersonators-to-keep-up-with-their-dms/)
- - [The Lord of the Rings: The War of the Rohirrim is a soulless return to Middle-earth](https://www.theverge.com/2024/12/11/24318164/lord-of-the-rings-war-of-the-rohirrim-review)<!-- TECH:END -->
+ - [iOS 18.2: How to Create Your Own Custom Emoji With Genmoji and AI](https://www.cnet.com/tech/services-and-software/ios-18-2-how-to-create-your-own-custom-emoji-with-genmoji-and-ai/#ftag=CAD590a51e)
+ - [We Love the HyperPack Pro Backpack and It Just Hit a New Low Price](https://www.cnet.com/deals/we-love-the-hyperpack-pro-backpack-and-it-just-hit-a-new-low-price/#ftag=CAD590a51e)
+ - [Today&#39;s NYT Mini Crossword Answers for Wednesday, Dec. 11](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-wednesday-dec-11/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

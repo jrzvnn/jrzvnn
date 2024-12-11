@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [iPhone 16 Pro lineup gets Layered Voice Memos feature in iOS 18.2](https://appleinsider.com/articles/24/12/11/iphone-16-pro-lineup-gets-layered-voice-memos-feature-in-ios-182?utm_medium=rss)
  - [Krispy Kreme got cyberattacked](https://www.theverge.com/2024/12/11/24318861/krispy-kreme-cybersecurity-incident-online-ordering)
  - [Apple issues updates for iPadOS 17, macOS Ventura, Sonoma](https://appleinsider.com/articles/24/12/11/apple-issues-updates-for-ipados-17-macos-ventura-sonoma?utm_medium=rss)
  - [The Vision Pro’s ultrawide Mac display is very close to being a killer app](https://www.theverge.com/2024/12/11/24301921/vision-pro-ultrawide-mac-display-visionos-2-2-killer-app)
- - [The Verge’s 2024 holiday gift guide for moms](https://www.theverge.com/24224046/best-gift-ideas-mom-holiday-unique-2024-tech-gadgets)
- - [Facebook, Instagram, and Threads are down](https://www.theverge.com/2024/12/11/24318908/facebook-instagram-threads-down-outage-meta)<!-- TECH:END -->
+ - [The Verge’s 2024 holiday gift guide for moms](https://www.theverge.com/24224046/best-gift-ideas-mom-holiday-unique-2024-tech-gadgets)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

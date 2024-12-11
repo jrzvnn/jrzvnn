@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [A global outage has hit Facebook, Instagram, Threads, and WhatsApp, starting at approximately 12:40pm ET; Meta says it&#39;s working to resolve a &quot;technical issue&quot; &lpar;Lawrence Abrams/BleepingComputer&rpar;](http://www.techmeme.com/241211/p37#a241211p37)
+ - [The end of Cruise is the beginning of a risky new phase for autonomous vehicles](https://www.theverge.com/2024/12/11/24318651/cruise-robotaxi-gm-funding-autonomous-vehicles-risk)
  - [Trump’s DOJ broke policy to try to learn journalist’s sources, inspector general alleges](https://www.theverge.com/2024/12/11/24318852/trump-doj-journalist-sources-inspector-general-report)
  - [The iPhone 16 Pro now lets you layer recordings in Voice Memos](https://www.theverge.com/2024/12/11/24318918/apple-iphone-16-pro-layered-recordings-voice-memos)
- - [Now you can visit Roku City in 1080p](https://www.theverge.com/2024/12/11/24318930/roku-city-1080p-full-hd-resolution-upgrade)
- - [The tundra keeps burning and it’s transforming the Arctic](https://www.theverge.com/2024/12/11/24318690/fire-arctic-report-card-carbon-climate-change)
- - [Apple&#39;s macOS Sequoia 15.2 update references a &quot;MacBook Air &lpar;13-inch, M4, 2025&rpar;&quot; and a &quot;MacBook Air &lpar;15-inch, M4, 2025&rpar;&quot; &lpar;Juli Clover/MacRumors&rpar;](http://www.techmeme.com/241211/p36#a241211p36)<!-- TECH:END -->
+ - [Now you can visit Roku City in 1080p](https://www.theverge.com/2024/12/11/24318930/roku-city-1080p-full-hd-resolution-upgrade)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

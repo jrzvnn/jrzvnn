@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Grab Apple&#39;s M3 15-inch MacBook Air with 24GB RAM, 1TB for $1,699 &lpar;$200 off&rpar;](https://appleinsider.com/articles/24/12/11/grab-apples-m3-15-inch-macbook-air-with-24gb-ram-1tb-for-1699-200-off?utm_medium=rss)
  - [Adobe reports Q4 revenue up 11% YoY to $5.61B, vs. $5.54B est., Digital Media revenue up 12%, forecasts FY 2025 revenue below est.; ADBE drops 8%+ after hours &lpar;Brody Ford/Bloomberg&rpar;](http://www.techmeme.com/241211/p41#a241211p41)
  - [Sonos plans return-to-office push for its product teams](https://www.theverge.com/2024/12/11/24314934/sonos-return-to-office-mandate)
  - [Best Sounding Wireless Earbuds in 2024](https://www.cnet.com/tech/mobile/best-sounding-wireless-earbuds/#ftag=CAD590a51e)
- - [ChatGPT Just Got Integrated With Siri. Here&#39;s What Will Change](https://www.cnet.com/tech/services-and-software/chatgpt-just-got-integrated-with-siri-heres-what-will-change/#ftag=CAD590a51e)
- - [If You&#39;ve Got an iPhone 16 Put This MagSafe Case on Your Wish List While It&#39;s on Sale](https://www.cnet.com/deals/if-youve-got-an-iphone-16-put-this-magsafe-case-on-your-wish-list-while-its-on-sale/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [ChatGPT Just Got Integrated With Siri. Here&#39;s What Will Change](https://www.cnet.com/tech/services-and-software/chatgpt-just-got-integrated-with-siri-heres-what-will-change/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

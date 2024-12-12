@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Guys! believe us! he is not a SCAPEGOAT!! -fbi](http://9gag.com/gag/a2v7QO1)
- - 😝 [Another quality purchase from Tehmoo](http://9gag.com/gag/a2v1N3D)
- - 💣 [Stereotype reinforcement - check](http://9gag.com/gag/aGyzKK7)
+ - 😝 [Yup, that&#39;s him!](http://9gag.com/gag/ajPgQMG)
+ - 😝 [The couch.](http://9gag.com/gag/avyA25E)
+ - 💣 [Title](http://9gag.com/gag/a0e7m7q)
  - 😝 [Every time when I watch the movie I&#39;m terrified by the voice over.](http://9gag.com/gag/aVvxjOd)
- - 👉 [Yup, that&#39;s him!](http://9gag.com/gag/ajPgQMG)<!-- MEMES:END -->
+ - 👉 [When a little kid has more brains than you!](http://9gag.com/gag/a2v1EDZ)<!-- MEMES:END -->
 
 ---
 

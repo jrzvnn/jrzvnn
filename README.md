@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Shopping is a lot of fun!](http://9gag.com/gag/awyzNwx)
- - 😝 [Luigi Mangione: `This is completely out of touch and an insult to the intelligence of the American people!\u201d](http://9gag.com/gag/aKGm4vg)
- - 💣 [Stereotype reinforcement - check](http://9gag.com/gag/aGyzKK7)
- - 😝 [Luigi Mangione, suspect in C.E.O. killing, photographed in his holding cell after being charged with murder](http://9gag.com/gag/aD2dBjd)
- - 👉 [We have free electricity?](http://9gag.com/gag/ajPgQBp)<!-- MEMES:END -->
+ - 😝 [Dino got them moves](http://9gag.com/gag/aE08vbp)
+ - 😝 [Always look at the mother](http://9gag.com/gag/aNDPejK)
+ - 💣 [Some of the best ad](http://9gag.com/gag/aQzXqer)
+ - 😝 [It&#39;s wednesday, my dudes](http://9gag.com/gag/aKGmwN6)
+ - 👉 [Modding](http://9gag.com/gag/aKGmwL6)<!-- MEMES:END -->
 
 ---
 

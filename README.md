@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Floof check](http://9gag.com/gag/aPAZy7g)
- - 😝 [Looks like New Yorkers are done playing nice!](http://9gag.com/gag/a2v1PGO)
- - 💣 [Send me your weirdest pictures &lpar;nothing sexual please&rpar;](http://9gag.com/gag/abAgypp)
- - 😝 [Billionaires distract you to fight a race war](http://9gag.com/gag/a7o1KQe)
- - 👉 [That&#39;s pretty neat](http://9gag.com/gag/aQzX4qe)<!-- MEMES:END -->
+ - 😝 [What are those?](http://9gag.com/gag/aYQrpWO)
+ - 😝 [Who\u2019s coming to hell with me?](http://9gag.com/gag/aryneW5)
+ - 💣 [Get screwed](http://9gag.com/gag/aVvxzgO)
+ - 😝 [We have free electricity?](http://9gag.com/gag/ajPgQBp)
+ - 👉 [Asada.](http://9gag.com/gag/aByn9j2)<!-- MEMES:END -->
 
 ---
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Amazon delayed the deployment of Microsoft 365 for its 1.5M employees for a year to resolve security concerns about Microsoft&#39;s Midnight Blizzard hack &lpar;Matt Day/Bloomberg&rpar;](http://www.techmeme.com/241212/p26#a241212p26)
- - [Apple Intelligence development may be delaying iOS 19 feature work](https://appleinsider.com/articles/24/12/12/apple-intelligence-development-may-be-delaying-ios-19-feature-work?utm_medium=rss)
- - [How to watch the 2024 Game Awards](https://www.theverge.com/2024/12/12/24319127/the-game-awards-2024-how-to-watch-stream-time)
- - [Character.AI has retrained its chatbots to stop chatting up teens](https://www.theverge.com/2024/12/12/24319050/character-ai-chatbots-teen-model-training-parental-controls)
- - [You can now use AirTags to expedite a lost luggage reunion through United’s mobile app](https://www.theverge.com/2024/12/12/24319503/apple-airtag-find-my-network-share-item-location-united-airlines-lost-bag-luggage)<!-- TECH:END -->
+ - [Sora’s AI video revolution is still a ways off](https://www.theverge.com/2024/12/12/24318924/openai-sora-ai-video-generator-hands-on)
+ - [Apple testing M4 MacBook Air with ultra-wide camera &amp; Center Stage support](https://appleinsider.com/articles/24/12/11/m4-macbook-air-leaked-in-macos-sequoia-152-update-regulatory-documents?utm_medium=rss)
+ - [Character.AI announces more parental controls and a separate LLM for users under 18, after two US lawsuits claimed its chatbots harmed young users &lpar;Adi Robertson/The Verge&rpar;](http://www.techmeme.com/241212/p27#a241212p27)
+ - [Warner Bros. Discovery restructures to split up streaming and cable businesses](https://www.theverge.com/2024/12/12/24319520/warner-bros-discovery-split-streaming-cable-businesses)
+ - [Wedding banned - Apple Watches not welcome at fashionista&#39;s ceremony](https://appleinsider.com/articles/24/12/12/wedding-banned---apple-watches-not-welcome-at-fashionistas-ceremony?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

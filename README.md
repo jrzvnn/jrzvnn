@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Because she is fat](http://9gag.com/gag/aKGmgxZ)
- - 😝 [When a little kid has more brains than you!](http://9gag.com/gag/a2v1EDZ)
- - 💣 [Every time when I watch the movie I&#39;m terrified by the voice over.](http://9gag.com/gag/aVvxjOd)
  - 😝 [The couch.](http://9gag.com/gag/avyA25E)
- - 👉 [Yup, that&#39;s him!](http://9gag.com/gag/ajPgQMG)<!-- MEMES:END -->
+ - 😝 [Every time when I watch the movie I&#39;m terrified by the voice over.](http://9gag.com/gag/aVvxjOd)
+ - 💣 [The power of the Prince Rupert drop](http://9gag.com/gag/aGyz9AK)
+ - 😝 [When a little kid has more brains than you!](http://9gag.com/gag/a2v1EDZ)
+ - 👉 [She was having an off day](http://9gag.com/gag/aGyzKMz)<!-- MEMES:END -->
 
 ---
 

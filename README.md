@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Crusoe Energy, which offers cost-effective generative AI compute at scale using clean energy, raised a $600M Series D led by Founders Fund at a $2.8B valuation &lpar;Kyt Dotson/SiliconANGLE&rpar;](http://www.techmeme.com/241212/p36#a241212p36)
- - [Apple gets into AI: all the news on iOS 18, macOS Sequoia, and more](https://www.theverge.com/24246632/apple-intelligence-ios-18-ipad-os-18-macos-sequoia-iphone-16)
- - [Supernote’s new E Ink tablet is upgradeable and repairable](https://www.theverge.com/2024/12/12/24319575/supernote-a5-x2-manta-tablet-e-ink-electronic-paper-upgradeable-repairable)
- - [Forbes: Elon Musk&#39;s net worth crossed $400B on December 12, boosted by Tesla stock and SpaceX&#39;s valuation; Jeff Bezos has a $244B net worth, the second highest &lpar;Reuters&rpar;](http://www.techmeme.com/241212/p35#a241212p35)
- - [4 Common Fridge Problems and How to Fix Them](https://www.cnet.com/home/kitchen-and-household/4-common-fridge-problems-and-how-to-fix-them/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Today&#39;s best Apple Watch sales deliver last-minute holiday deals from $189](https://appleinsider.com/articles/24/12/12/todays-best-apple-watch-sales-deliver-last-minute-holiday-deals-from-189?utm_medium=rss)
+ - [Sources: Apple plans to roll out its own Wi-Fi and Bluetooth chip as part of Apple TV and HomePod mini updates in 2025, and in iPhones later in the year &lpar;Mark Gurman/Bloomberg&rpar;](http://www.techmeme.com/241212/p37#a241212p37)
+ - [Gemini AI can now summarize what’s in your Google Drive folders](https://www.theverge.com/2024/12/12/24319697/gemini-ai-summarize-google-drive-folders)
+ - [The extremely online life of the American teenager](https://www.theverge.com/2024/12/12/24319692/half-of-us-teens-almost-constantly-online-pew-research-poll)
+ - [Microsoft’s Recall AI is creepy, clever, and compelling](https://www.theverge.com/2024/12/12/24319609/microsoft-recall-hands-on-notepad)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

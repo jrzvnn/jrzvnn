@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Yup, that&#39;s him!](http://9gag.com/gag/ajPgQMG)
+ - 😝 [The power of the Prince Rupert drop](http://9gag.com/gag/aGyz9AK)
+ - 😝 [F1 training is no joke](http://9gag.com/gag/aD2DRvw)
+ - 💣 [Who\u2019s coming to hell with me?](http://9gag.com/gag/aryneW5)
  - 😝 [Why did she do it?](http://9gag.com/gag/a6Z1yVq)
- - 💣 [F1 training is no joke](http://9gag.com/gag/aD2DRvw)
- - 😝 [Send me your weirdest pictures &lpar;nothing sexual please&rpar;](http://9gag.com/gag/abAgypp)
- - 👉 [Mosquito Repellent Smoke Grenade](http://9gag.com/gag/abAgqzX)<!-- MEMES:END -->
+ - 👉 [She was having an off day](http://9gag.com/gag/aGyzKMz)<!-- MEMES:END -->
 
 ---
 

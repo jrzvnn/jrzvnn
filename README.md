@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [ARGENTINA ENDS DEFICIT FOR THE FIRST TIME IN 123 YEARS\u2026.](http://9gag.com/gag/ayN95xy)
- - 😝 [Floof check](http://9gag.com/gag/aPAZy7g)
- - 💣 [Looks like New Yorkers are done playing nice!](http://9gag.com/gag/a2v1PGO)
- - 😝 [Billionaires distract you to fight a race war](http://9gag.com/gag/a7o1KQe)
- - 👉 [Comedian Bill Burr on why the media ignores the CEO killer\u2019s vast public support](http://9gag.com/gag/aKGmgyj)<!-- MEMES:END -->
+ - 😝 [When a little kid has more brains than you!](http://9gag.com/gag/a2v1EDZ)
+ - 😝 [Stray dog acts strange when getting brushed](http://9gag.com/gag/aYQrj4O)
+ - 💣 [She was on a break](http://9gag.com/gag/azxeL3N)
+ - 😝 [Mosquito Repellent Smoke Grenade](http://9gag.com/gag/abAgqzX)
+ - 👉 [When she realized](http://9gag.com/gag/ayN95ry)<!-- MEMES:END -->
 
 ---
 

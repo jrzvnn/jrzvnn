@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Study: the US is on track to add more construction for computer and electronics manufacturing in 2024 alone than it did during the 20 years before the CHIPS Act &lpar;Michael Acton/Financial Times&rpar;](http://www.techmeme.com/241212/p9#a241212p9)
+ - [The US CSRB starts probing the Salt Typhoon hack; CISA says the CSRB&#39;s report could come as early as next spring and wouldn&#39;t be disrupted by the transition &lpar;Jake Bleiberg/Bloomberg&rpar;](http://www.techmeme.com/241212/p8#a241212p8)
  - [Report: Apple canceled the development of a high-performance Mac chip this past summer to let some of its engineers in Israel work on its first AI server chip &lpar;John Gruber/Daring Fireball&rpar;](http://www.techmeme.com/241212/p7#a241212p7)
  - [Microsoft says Russia-backed hacking group Secret Blizzard targeted Ukraine&#39;s military using other cybercriminals&#39; tools, in order to make attribution harder &lpar;Lorenzo Franceschi-Bicchierai/TechCrunch&rpar;](http://www.techmeme.com/241212/p6#a241212p6)
- - [Today&#39;s NYT Mini Crossword Answers for Thursday, Dec. 12](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-thursday-dec-12/#ftag=CAD590a51e)
- - [Tel Aviv-based Astrix Security, which helps firms secure non-human identities like API keys and service accounts, raised a $45M Series B led by Menlo Ventures &lpar;Ryan Naraine/SecurityWeek&rpar;](http://www.techmeme.com/241212/p5#a241212p5)
- - [Best Solar Panel Installation Companies in Chicago](https://www.cnet.com/home/energy-and-utilities/chicago-solar-panels/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Today&#39;s NYT Mini Crossword Answers for Thursday, Dec. 12](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-thursday-dec-12/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [We have free electricity?](http://9gag.com/gag/ajPgQBp)
- - 😝 [Who\u2019s coming to hell with me?](http://9gag.com/gag/aryneW5)
- - 💣 [Mosquito Repellent Smoke Grenade](http://9gag.com/gag/abAgqzX)
- - 😝 [When a little kid has more brains than you!](http://9gag.com/gag/a2v1EDZ)
- - 👉 [Send me your weirdest pictures &lpar;nothing sexual please&rpar;](http://9gag.com/gag/abAgypp)<!-- MEMES:END -->
+ - 😝 [Yup, that&#39;s him!](http://9gag.com/gag/ajPgQMG)
+ - 😝 [Why did she do it?](http://9gag.com/gag/a6Z1yVq)
+ - 💣 [F1 training is no joke](http://9gag.com/gag/aD2DRvw)
+ - 😝 [Send me your weirdest pictures &lpar;nothing sexual please&rpar;](http://9gag.com/gag/abAgypp)
+ - 👉 [Mosquito Repellent Smoke Grenade](http://9gag.com/gag/abAgqzX)<!-- MEMES:END -->
 
 ---
 

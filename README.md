@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Modding](http://9gag.com/gag/aKGmwL6)
+ - 😝 [Floof check](http://9gag.com/gag/aPAZy7g)
  - 😝 [It&#39;s wednesday, my dudes](http://9gag.com/gag/aKGmwN6)
  - 💣 [Always look at the mother](http://9gag.com/gag/aNDPejK)
  - 😝 [Sparring](http://9gag.com/gag/aO8QK1D)
- - 👉 [Comedian Bill Burr on why the media ignores the CEO killer\u2019s vast public support](http://9gag.com/gag/aKGmgyj)<!-- MEMES:END -->
+ - 👉 [Won&#39;t be Christmas without the carrot in the box game RiP Sean](http://9gag.com/gag/abAg5jE)<!-- MEMES:END -->
 
 ---
 

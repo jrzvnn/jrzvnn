@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [RFK Plans to Take on Big Pharma. It’s Easier Said Than Done](https://www.wired.com/story/rfks-plan-to-take-on-big-pharma/)
+ - [Biden administration raises tariffs on solar materials from China](https://www.theverge.com/2024/12/12/24319521/china-tariffs-solar-energy-wafer-polysilicon-tungsten)
  - [YouTube quietly made some of its web embeds worse, including ours](https://www.theverge.com/2024/12/12/24318124/youtube-player-cant-click-title-sigh)
- - [How to choose which Apple Watch to buy](https://www.theverge.com/23037217/best-apple-watch-series-se-ultra)
- - [Hands-on with Samsung&#39;s Project Moohan: feels lighter than the Vision Pro, Android XR is highly reminiscent of visionOS, Gemini is the killer app, and more &lpar;Mark Gurman/Bloomberg&rpar;](http://www.techmeme.com/241212/p33#a241212p33)
- - [Apple testing M4 MacBook Air with ultra-wide camera &amp; Center Stage support](https://appleinsider.com/articles/24/12/11/m4-macbook-air-leaked-in-macos-sequoia-152-update-regulatory-documents?utm_medium=rss)
- - [Google announces Android XR, a mixed reality OS designed for headsets and smart glasses, with plans to launch it in 2025 with Samsung&#39;s Project Moohan headset &lpar;Victoria Song/The Verge&rpar;](http://www.techmeme.com/241212/p32#a241212p32)<!-- TECH:END -->
+ - [I Tried Google and Samsung&#39;s Android XR Headset and Glasses: Gemini AI Can See My Life Now video](https://www.cnet.com/videos/i-tried-google-and-samsungs-android-xr-headset-and-glasses-gemini-ai-can-see-my-life-now/#ftag=CAD590a51e)
+ - [How to choose which Apple Watch to buy](https://www.theverge.com/23037217/best-apple-watch-series-se-ultra)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

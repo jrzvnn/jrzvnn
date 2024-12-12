@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [When a little kid has more brains than you!](http://9gag.com/gag/a2v1EDZ)
- - 😝 [Stray dog acts strange when getting brushed](http://9gag.com/gag/aYQrj4O)
- - 💣 [She was on a break](http://9gag.com/gag/azxeL3N)
- - 😝 [Mosquito Repellent Smoke Grenade](http://9gag.com/gag/abAgqzX)
- - 👉 [When she realized](http://9gag.com/gag/ayN95ry)<!-- MEMES:END -->
+ - 😝 [Floof check](http://9gag.com/gag/aPAZy7g)
+ - 😝 [Looks like New Yorkers are done playing nice!](http://9gag.com/gag/a2v1PGO)
+ - 💣 [Send me your weirdest pictures &lpar;nothing sexual please&rpar;](http://9gag.com/gag/abAgypp)
+ - 😝 [Billionaires distract you to fight a race war](http://9gag.com/gag/a7o1KQe)
+ - 👉 [That&#39;s pretty neat](http://9gag.com/gag/aQzX4qe)<!-- MEMES:END -->
 
 ---
 

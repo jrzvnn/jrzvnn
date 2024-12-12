@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Yup, that&#39;s him!](http://9gag.com/gag/ajPgQMG)
- - 😝 [F1 training is no joke](http://9gag.com/gag/aD2DRvw)
- - 💣 [Send me your weirdest pictures &lpar;nothing sexual please&rpar;](http://9gag.com/gag/abAgypp)
- - 😝 [Who\u2019s coming to hell with me?](http://9gag.com/gag/aryneW5)
- - 👉 [When she realized](http://9gag.com/gag/ayN95ry)<!-- MEMES:END -->
+ - 😝 [Billionaires distract you to fight a race war](http://9gag.com/gag/a7o1KQe)
+ - 😝 [You cant escape!](http://9gag.com/gag/aqyG2NP)
+ - 💣 [Sad and True](http://9gag.com/gag/a7o1yb2)
+ - 😝 [Uno reverse card! A reporter in Poland went into the residence of the activists that glue themselves to roads and glued himself to a wall.](http://9gag.com/gag/a4P1dgp)
+ - 👉 [I&#39;m sorry but what did you expect?](http://9gag.com/gag/aW4gWyq)<!-- MEMES:END -->
 
 ---
 

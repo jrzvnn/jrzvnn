@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Vapi, which helps businesses deploy AI-powered voice agents, raised a $20M Series A from Bessemer, Y Combinator, and others, source says at a $130M valuation &lpar;Kritika Lamba/Reuters&rpar;](http://www.techmeme.com/241212/p46#a241212p46)
+ - [Sources: Yahoo laid off or lost through attrition 40 to 50 people from its 200-strong cybersecurity team in 2024, as it outsources its &quot;red team&quot; under new CTO &lpar;TechCrunch&rpar;](http://www.techmeme.com/241212/p45#a241212p45)
  - [Verizon is using 5G network slicing to offer better video calling — for a price](https://www.theverge.com/2024/12/12/24319785/verizon-5g-sa-network-slicing-enhanced-video-calling)
  - [Numbers, Pages, and Keynote gain Apple Intelligence smarts](https://appleinsider.com/articles/24/12/12/numbers-pages-and-keynote-gain-apple-intelligence-smarts?utm_medium=rss)
- - [Toyota’s next EV is this small Urban Cruiser SUV for Europe](https://www.theverge.com/2024/12/12/24319827/toyota-urban-cruiser-suzuki-evitara-suv-ev-europe)
- - [Amazon’s Prime Video pushes ‘AI Topics’ instead of the old algorithms](https://www.theverge.com/2024/12/12/24319824/amazon-prime-video-ai-topics-old-algorithms)
- - [Need a Holiday Movie? You Can Now Watch &#39;Red One&#39; at Home](https://www.cnet.com/tech/services-and-software/need-a-holiday-movie-you-can-now-watch-red-one-at-home/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Toyota’s next EV is this small Urban Cruiser SUV for Europe](https://www.theverge.com/2024/12/12/24319827/toyota-urban-cruiser-suzuki-evitara-suv-ev-europe)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

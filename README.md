@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The NLRB issues a complaint against Netflix&#39;s Love Is Blind and classifies its contestants as employees, a case that may have major implications for reality TV &lpar;Julia Jacobs/New York Times&rpar;](http://www.techmeme.com/241212/p17#a241212p17)
  - [Australia plans a new levy on tech companies like Meta with $250M+ in revenue to force them to pay publishers for journalism, after Meta quit the previous deal &lpar;Nic Fildes/Financial Times&rpar;](http://www.techmeme.com/241212/p16#a241212p16)
  - [GM pulling the plug on Cruise&#39;s robotaxi experiment in favor of &quot;privately owned&quot; driverless cars is the beginning of a risky new phase for autonomous vehicles &lpar;Andrew J. Hawkins/The Verge&rpar;](http://www.techmeme.com/241212/p15#a241212p15)
  - [The 12 Best Cooling Pillows of 2024](https://www.cnet.com/health/sleep/best-cooling-pillows/#ftag=CAD590a51e)
- - [The crypto industry&#39;s impact on the 2024 US elections shows that crypto is a perfect anti-establishment tech for the turbulence and distrust of the 2020s &lpar;Charlie Warzel/The Atlantic&rpar;](http://www.techmeme.com/241212/p14#a241212p14)
- - [Don&#39;t Sleep on High APYs. Today&#39;s CD Rates, Dec. 12, 2024](https://www.cnet.com/personal-finance/banking/dont-sleep-on-high-apys-todays-cd-rates-dec-12-2024/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [The crypto industry&#39;s impact on the 2024 US elections shows that crypto is a perfect anti-establishment tech for the turbulence and distrust of the 2020s &lpar;Charlie Warzel/The Atlantic&rpar;](http://www.techmeme.com/241212/p14#a241212p14)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

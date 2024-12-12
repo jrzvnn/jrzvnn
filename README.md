@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Another quality purchase from Tehmoo](http://9gag.com/gag/a2v1N3D)
- - 😝 [F1 training is no joke](http://9gag.com/gag/aD2DRvw)
- - 💣 [Yup, that&#39;s him!](http://9gag.com/gag/ajPgQMG)
- - 😝 [Stereotype reinforcement - check](http://9gag.com/gag/aGyzKK7)
- - 👉 [Because she is fat](http://9gag.com/gag/aKGmgxZ)<!-- MEMES:END -->
+ - 😝 [Because she is fat](http://9gag.com/gag/aKGmgxZ)
+ - 😝 [When a little kid has more brains than you!](http://9gag.com/gag/a2v1EDZ)
+ - 💣 [Every time when I watch the movie I&#39;m terrified by the voice over.](http://9gag.com/gag/aVvxjOd)
+ - 😝 [The couch.](http://9gag.com/gag/avyA25E)
+ - 👉 [Yup, that&#39;s him!](http://9gag.com/gag/ajPgQMG)<!-- MEMES:END -->
 
 ---
 

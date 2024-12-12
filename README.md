@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Floof check](http://9gag.com/gag/aPAZy7g)
- - 😝 [It&#39;s wednesday, my dudes](http://9gag.com/gag/aKGmwN6)
- - 💣 [Always look at the mother](http://9gag.com/gag/aNDPejK)
- - 😝 [Sparring](http://9gag.com/gag/aO8QK1D)
- - 👉 [Won&#39;t be Christmas without the carrot in the box game RiP Sean](http://9gag.com/gag/abAg5jE)<!-- MEMES:END -->
+ - 😝 [Another quality purchase from Tehmoo](http://9gag.com/gag/a2v1N3D)
+ - 😝 [F1 training is no joke](http://9gag.com/gag/aD2DRvw)
+ - 💣 [Yup, that&#39;s him!](http://9gag.com/gag/ajPgQMG)
+ - 😝 [Stereotype reinforcement - check](http://9gag.com/gag/aGyzKK7)
+ - 👉 [Because she is fat](http://9gag.com/gag/aKGmgxZ)<!-- MEMES:END -->
 
 ---
 

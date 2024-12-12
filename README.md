@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [She was having an off day](http://9gag.com/gag/aGyzKMz)
- - 😝 [Another quality purchase from Tehmoo](http://9gag.com/gag/a2v1N3D)
- - 💣 [We have free electricity?](http://9gag.com/gag/ajPgQBp)
- - 😝 [When a little kid has more brains than you!](http://9gag.com/gag/a2v1EDZ)
- - 👉 [Stereotype reinforcement - check](http://9gag.com/gag/aGyzKK7)<!-- MEMES:END -->
+ - 😝 [Floof check](http://9gag.com/gag/aPAZy7g)
+ - 😝 [Looks like New Yorkers are done playing nice!](http://9gag.com/gag/a2v1PGO)
+ - 💣 [ARGENTINA ENDS DEFICIT FOR THE FIRST TIME IN 123 YEARS\u2026.](http://9gag.com/gag/ayN95xy)
+ - 😝 [Billionaires distract you to fight a race war](http://9gag.com/gag/a7o1KQe)
+ - 👉 [Sad and True](http://9gag.com/gag/a7o1yb2)<!-- MEMES:END -->
 
 ---
 

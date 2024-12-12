@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Yup, that&#39;s him!](http://9gag.com/gag/ajPgQMG)
- - 😝 [Asada.](http://9gag.com/gag/aByn9j2)
- - 💣 [Guys! believe us! he is not a SCAPEGOAT!! -fbi](http://9gag.com/gag/a2v7QO1)
- - 😝 [They&#39;re doing content houses now](http://9gag.com/gag/aMV419A)
- - 👉 [Luigi Mangione, suspect in C.E.O. killing, photographed in his holding cell after being charged with murder](http://9gag.com/gag/aD2dBjd)<!-- MEMES:END -->
+ - 😝 [Some of the best ad](http://9gag.com/gag/aQzXqer)
+ - 😝 [Another quality purchase from Tehmoo](http://9gag.com/gag/a2v1N3D)
+ - 💣 [Modding](http://9gag.com/gag/aKGmwL6)
+ - 😝 [Always look at the mother](http://9gag.com/gag/aNDPejK)
+ - 👉 [It&#39;s wednesday, my dudes](http://9gag.com/gag/aKGmwN6)<!-- MEMES:END -->
 
 ---
 

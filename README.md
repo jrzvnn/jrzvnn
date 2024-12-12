@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Harvard says it&#39;s releasing a high-quality dataset of ~1M public-domain books, created with funding from Microsoft and OpenAI, to help train LLMs and AI tools &lpar;Kate Knibbs/Wired&rpar;](http://www.techmeme.com/241212/p1#a241212p1)
+ - [Meta donates $1M to president-elect Trump&#39;s inaugural fund; sources: Mark Zuckerberg gifted Meta&#39;s Ray-Ban smart glasses to Trump at Mar-a-Lago on November 27 &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/241211/p52#a241211p52)
  - [How to set parental controls on iOS 18 and iPadOS 18](https://appleinsider.com/articles/24/12/12/how-to-set-parental-controls-on-ios-18-and-ipados-18?utm_medium=rss)
  - [NeuBird, which is using generative AI to automate IT site reliability operations, raised a $22.5M seed extension led by M12, following a $22M seed in April &lpar;Marina Temkin/TechCrunch&rpar;](http://www.techmeme.com/241211/p51#a241211p51)
- - [Congress asking Apple and other big tech what they&#39;re doing about deepfakes](https://appleinsider.com/articles/24/12/12/congress-asking-apple-and-other-big-tech-what-theyre-doing-about-deepfakes?utm_medium=rss)
- - [Honda plans to dissolve a self-driving vehicle partnership with GM after GM announced plans to exit robotaxi development; Honda had invested $852M in Cruise &lpar;Shoya Okinaga/Nikkei Asia&rpar;](http://www.techmeme.com/241211/p50#a241211p50)
- - [Best Solar Panel Installation Companies in New Mexico](https://www.cnet.com/home/energy-and-utilities/new-mexico-solar-panels/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Congress asking Apple and other big tech what they&#39;re doing about deepfakes](https://appleinsider.com/articles/24/12/12/congress-asking-apple-and-other-big-tech-what-theyre-doing-about-deepfakes?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

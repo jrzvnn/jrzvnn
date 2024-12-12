@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [GM pulling the plug on Cruise&#39;s robotaxi experiment in favor of &quot;privately owned&quot; driverless cars is the beginning of a risky new phase for autonomous vehicles &lpar;Andrew J. Hawkins/The Verge&rpar;](http://www.techmeme.com/241212/p15#a241212p15)
  - [The crypto industry&#39;s impact on the 2024 US elections shows that crypto is a perfect anti-establishment tech for the turbulence and distrust of the 2020s &lpar;Charlie Warzel/The Atlantic&rpar;](http://www.techmeme.com/241212/p14#a241212p14)
  - [Tap to Pay on iPhone comes to Chile and Egypt](https://appleinsider.com/articles/24/12/11/tap-to-pay-on-iphone-comes-to-chile-and-egypt?utm_medium=rss)
  - [Berlin-based Upvest, which offers an API for stock trading and other financial services to N26, Revolut, and others, raised a &amp;euro;100M Series C led by Hedosophia &lpar;Romain Dillet/TechCrunch&rpar;](http://www.techmeme.com/241212/p13#a241212p13)
- - [A deep dive into AI scaling laws, including an outline of the old pre-training trends as well as the new scaling trends for post-training and inference time &lpar;SemiAnalysis&rpar;](http://www.techmeme.com/241212/p12#a241212p12)
- - [Startup Embodied Will Brick $800 Moxie Emotional Support Robot for Kids—Without Refunds](https://www.wired.com/story/embodied-will-brick-moxie-emotional-support-robot-for-kids-without-refunds/)<!-- TECH:END -->
+ - [A deep dive into AI scaling laws, including an outline of the old pre-training trends as well as the new scaling trends for post-training and inference time &lpar;SemiAnalysis&rpar;](http://www.techmeme.com/241212/p12#a241212p12)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

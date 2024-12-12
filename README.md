@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Japanese crypto exchange Coincheck lists on the Nasdaq via a SPAC, closing at $13.35 for a ~$1.7B market cap; Coincheck had 2.15M accounts in November 2024 &lpar;The Japan Times&rpar;](http://www.techmeme.com/241212/p20#a241212p20)
- - [Voicemod launches its voice-changing dongle for Xbox, PlayStation, and Switch](https://www.theverge.com/2024/12/12/24319463/voicemod-key-voice-changing-dongle-availability-xbox-ps5-switch)
- - [TikTok&#39;s Future in the US Is Unclear. We Check Back in With the Billionaire Who Wants to Save It](https://www.wired.com/story/tiktok-future-ban-billionaire-mccourt-sale/)
- - [Apple exec launches Apple Intelligence in Australia](https://appleinsider.com/articles/24/12/12/apple-exec-launches-apple-intelligence-in-australia?utm_medium=rss)
- - [Telef&amp;oacute;nica, one of the world&#39;s largest carriers, plans to preinstall the Epic Games Store on every new compatible Android phone it sells, including Samsung&#39;s &lpar;Sean Hollister/The Verge&rpar;](http://www.techmeme.com/241212/p19#a241212p19)<!-- TECH:END -->
+ - [Is This the Year Everyone Quits Social Media?](https://www.wired.com/story/uncanny-valley-podcast-6-quitting-social-media/)
+ - [Inside the launch — and future — of ChatGPT](https://www.theverge.com/2024/12/12/24318650/chatgpt-openai-history-two-year-anniversary)
+ - [Sources: Xiaohongshu, the Instagram-style app popular with younger Chinese users, tells investors it will cross $1B in 2024 profit ahead of a potential IPO &lpar;Bloomberg&rpar;](http://www.techmeme.com/241212/p21#a241212p21)
+ - [How to set parental controls on iOS 18 and iPadOS 18](https://appleinsider.com/articles/24/12/12/how-to-set-parental-controls-on-ios-18-and-ipados-18?utm_medium=rss)
+ - [The Bot fwd2cal Adds Events to Your Calendar Automatically. Just Forward It an Email](https://www.wired.com/story/this-bot-adds-events-to-your-calendar-automatically-just-forward-it-an-email/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

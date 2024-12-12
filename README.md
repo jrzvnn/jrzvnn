@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Broadcom reports Q4 revenue up 51% YoY to $14.05B vs. $14.09B est., FY 2024 AI revenue up 220%, forecasts Q1 revenue just above est.; AVGO jumps 9%+ after hours &lpar;Kif Leswing/CNBC&rpar;](http://www.techmeme.com/241212/p47#a241212p47)
+ - [Best monitors for Mac mini: budget visual heavyweights for the smallest Mac](https://appleinsider.com/inside/mac-mini/best/best-monitor-for-mac-mini?utm_medium=rss)
  - [Google says its breakthrough quantum chip can’t break modern cryptography](https://www.theverge.com/2024/12/12/24319879/google-willow-cant-break-rsa-cryptography)
- - [Vapi, which helps businesses deploy AI-powered voice agents, raised a $20M Series A from Bessemer, Y Combinator, and others, source says at a $130M valuation &lpar;Kritika Lamba/Reuters&rpar;](http://www.techmeme.com/241212/p46#a241212p46)
- - [Adobe now has a tool to get rid of ugly window reflections in photos](https://www.theverge.com/2024/12/12/24319849/adobe-lightroom-camera-raw-reflection-removal)
- - [Sources: Yahoo laid off or lost through attrition 40 to 50 people from its 200-strong cybersecurity team in 2024, as it outsources its &quot;red team&quot; under new CTO &lpar;TechCrunch&rpar;](http://www.techmeme.com/241212/p45#a241212p45)
- - [Verizon is using 5G network slicing to offer better video calling — for a price](https://www.theverge.com/2024/12/12/24319785/verizon-5g-sa-network-slicing-enhanced-video-calling)<!-- TECH:END -->
+ - [7 Questions to Ask Yourself Before You Buy a New Mattress](https://www.cnet.com/health/sleep/7-questions-to-ask-yourself-before-you-buy-a-new-mattress/#ftag=CAD590a51e)
+ - [Lull Luxe Hybrid Mattress Review 2024: Testing the Brand&#39;s Most Premium Hybrid Bed](https://www.cnet.com/health/sleep/lull-luxe-hybrid-mattress-review/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

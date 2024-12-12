@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Apple Vision Pro gets more comfortable with Kontor Head Strap](https://appleinsider.com/articles/24/12/12/apple-vision-pro-gets-more-comfortable-with-kontor-head-strap?utm_medium=rss)
  - [Apple-designed Wi-Fi chip rumored to debut in refreshed HomePod mini &amp; Apple TV](https://appleinsider.com/articles/24/12/12/apple-designed-wi-fi-chip-rumored-to-debut-in-refreshed-homepod-mini-apple-tv?utm_medium=rss)
  - [Xbox Game Pass Ultimate subscriptions are up to 50 percent off right now](https://www.theverge.com/2024/12/12/24319164/xbox-game-pass-ultimate-elgato-stream-deck-neo-deal-sale)
  - [Threads follows Bluesky’s starter packs with curated collections of people to follow](https://www.theverge.com/2024/12/12/24319783/threads-curated-collections-bluesky-starter-packs)
- - [Microsoft&#39;s new version of Recall appears to still capture sensitive data like credit card numbers, even with the &quot;sensitive information&quot; filter enabled &lpar;Avram Piltch/Tom&#39;s Hardware&rpar;](http://www.techmeme.com/241212/p41#a241212p41)
- - [A survey of US teens aged 13 to 17 shows 73% use YouTube daily, 57% use TikTok daily, 50% use Instagram, and 20% use Facebook; 17% use X, down from 23% in 2022 &lpar;Pew Research Center&rpar;](http://www.techmeme.com/241212/p40#a241212p40)<!-- TECH:END -->
+ - [Microsoft&#39;s new version of Recall appears to still capture sensitive data like credit card numbers, even with the &quot;sensitive information&quot; filter enabled &lpar;Avram Piltch/Tom&#39;s Hardware&rpar;](http://www.techmeme.com/241212/p41#a241212p41)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

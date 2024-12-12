@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [The power of the Prince Rupert drop](http://9gag.com/gag/aGyz9AK)
- - 😝 [F1 training is no joke](http://9gag.com/gag/aD2DRvw)
- - 💣 [Who\u2019s coming to hell with me?](http://9gag.com/gag/aryneW5)
- - 😝 [Why did she do it?](http://9gag.com/gag/a6Z1yVq)
- - 👉 [She was having an off day](http://9gag.com/gag/aGyzKMz)<!-- MEMES:END -->
+ - 😝 [She was having an off day](http://9gag.com/gag/aGyzKMz)
+ - 😝 [We have free electricity?](http://9gag.com/gag/ajPgQBp)
+ - 💣 [The power of the Prince Rupert drop](http://9gag.com/gag/aGyz9AK)
+ - 😝 [Man is high as a kite](http://9gag.com/gag/a9y1bBK)
+ - 👉 [Why did she do it?](http://9gag.com/gag/a6Z1yVq)<!-- MEMES:END -->
 
 ---
 

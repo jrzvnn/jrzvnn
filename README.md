@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Sublime, which uses AI to scan emails of companies and political campaigns for phishing attacks, raised a $60M Series B, taking its total raised to $93.8M &lpar;Jordan Novet/CNBC&rpar;](http://www.techmeme.com/241212/p44#a241212p44)
+ - [Apple is selling a $120 Vision Pro comfort strap with modular counterweights, made by sleep apnea device maker ResMed, to address complaints about extended wear &lpar;Zac Hall/9to5Mac&rpar;](http://www.techmeme.com/241212/p43#a241212p43)
  - [The 24 Best Movies on Apple TV+ Right Now &lpar;December 2024&rpar;](https://www.wired.com/story/best-apple-tv-plus-movies/)
  - [United Airlines and Air Canada first to offer official support for AirTag link sharing](https://appleinsider.com/articles/24/12/12/united-airlines-and-air-canada-first-to-offer-official-support-for-airtag-link-sharing?utm_medium=rss)
- - [How to set parental controls on iOS 18 and iPadOS 18](https://appleinsider.com/articles/24/12/12/how-to-set-parental-controls-on-ios-18-and-ipados-18?utm_medium=rss)
- - [Threads is testing collections of profiles to follow, curated by a &quot;handful of Threads community leaders&quot;, built around topics like fashion, food, and books &lpar;Jay Peters/The Verge&rpar;](http://www.techmeme.com/241212/p42#a241212p42)
- - [Best Internet Providers in Buffalo, New York](https://www.cnet.com/home/internet/best-internet-providers-in-buffalo-ny/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [How to set parental controls on iOS 18 and iPadOS 18](https://appleinsider.com/articles/24/12/12/how-to-set-parental-controls-on-ios-18-and-ipados-18?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [A survey of US teens aged 13 to 17 shows 73% use YouTube daily, 57% use TikTok daily, 50% use Instagram, and 20% use Facebook; 17% use X, down from 23% in 2022 &lpar;Pew Research Center&rpar;](http://www.techmeme.com/241212/p40#a241212p40)
  - [Sources: in the past year, US chip companies have lobbied the US government against a China sales ban, citing billions in lost revenue, shocking US officials &lpar;Ana Swanson/New York Times&rpar;](http://www.techmeme.com/241212/p39#a241212p39)
  - [OpenAI releases Advanced Voice Mode with vision for ChatGPT Plus, Team, and Pro users, letting them share their screen or video from phone cameras with ChatGPT &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/241212/p38#a241212p38)
- - [Mike Flanagan is writing a Clayface movie for DC Studios](https://www.theverge.com/2024/12/12/24319754/dc-studios-clayface-mike-flanagan-james-gunn-matt-reeves)
- - [Today&#39;s best Apple Watch sales deliver last-minute holiday deals from $189](https://appleinsider.com/articles/24/12/12/todays-best-apple-watch-sales-deliver-last-minute-holiday-deals-from-189?utm_medium=rss)
- - [Sources: Apple plans to roll out its own Wi-Fi and Bluetooth chip as part of Apple TV and HomePod mini updates in 2025, and in iPhones later in the year &lpar;Mark Gurman/Bloomberg&rpar;](http://www.techmeme.com/241212/p37#a241212p37)<!-- TECH:END -->
+ - [Helix Plus Luxe Mattress Review 2024: A Luxury Bed for Plus-Size Sleepers](https://www.cnet.com/health/sleep/helix-plus-luxe-mattress-review/#ftag=CAD590a51e)
+ - [Mike Flanagan is writing a Clayface movie for DC Studios](https://www.theverge.com/2024/12/12/24319754/dc-studios-clayface-mike-flanagan-james-gunn-matt-reeves)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

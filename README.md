@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Yup, that&#39;s him!](http://9gag.com/gag/ajPgQMG)
- - 😝 [The couch.](http://9gag.com/gag/avyA25E)
- - 💣 [Title](http://9gag.com/gag/a0e7m7q)
- - 😝 [Every time when I watch the movie I&#39;m terrified by the voice over.](http://9gag.com/gag/aVvxjOd)
- - 👉 [When a little kid has more brains than you!](http://9gag.com/gag/a2v1EDZ)<!-- MEMES:END -->
+ - 😝 [That&#39;s pretty neat](http://9gag.com/gag/aQzX4qe)
+ - 😝 [Another quality purchase from Tehmoo](http://9gag.com/gag/a2v1N3D)
+ - 💣 [Modding](http://9gag.com/gag/aKGmwL6)
+ - 😝 [It&#39;s wednesday, my dudes](http://9gag.com/gag/aKGmwN6)
+ - 👉 [Always look at the mother](http://9gag.com/gag/aNDPejK)<!-- MEMES:END -->
 
 ---
 

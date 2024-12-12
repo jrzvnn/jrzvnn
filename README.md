@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [That&#39;s it boys, they&#39;ve got him](http://9gag.com/gag/aYQozOV)
+ - 😝 [How poor we are](http://9gag.com/gag/aO836DR)
+ - 💣 [The couch.](http://9gag.com/gag/avyA25E)
  - 😝 [Every time when I watch the movie I&#39;m terrified by the voice over.](http://9gag.com/gag/aVvxjOd)
- - 😝 [Never step on spiders. You could be stepping on a female with eggs, and they\u2019ll stick to your shoes and hatch all over your car and house.](http://9gag.com/gag/a2v1zPE)
- - 💣 [Asada.](http://9gag.com/gag/aByn9j2)
- - 😝 [$60,000 gone with the wind](http://9gag.com/gag/a2v1EYp)
- - 👉 [The couch.](http://9gag.com/gag/avyA25E)<!-- MEMES:END -->
+ - 👉 [When a little kid has more brains than you!](http://9gag.com/gag/a2v1EDZ)<!-- MEMES:END -->
 
 ---
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Sundar Pichai and Jeff Bezos head to Mar-a-Lago to schmooze with Trump](https://www.theverge.com/2024/12/12/24319917/sundar-pichai-jeff-bezos-donald-trump-mar-a-lago)
  - [ServiceTitan&#39;s shares closed up 42.25% at $101 in its Nasdaq debut, giving the company a market cap of about $8.9B after it raised around $625M in its IPO &lpar;Jordan Novet/CNBC&rpar;](http://www.techmeme.com/241212/p48#a241212p48)
- - [Broadcom reports Q4 revenue up 51% YoY to $14.05B vs. $14.09B est., FY 2024 AI revenue up 220%, forecasts Q1 revenue just above est.; AVGO jumps 9%+ after hours &lpar;Kif Leswing/CNBC&rpar;](http://www.techmeme.com/241212/p47#a241212p47)
- - [Best monitors for Mac mini: budget visual heavyweights for the smallest Mac](https://appleinsider.com/inside/mac-mini/best/best-monitor-for-mac-mini?utm_medium=rss)
- - [Google says its breakthrough quantum chip can’t break modern cryptography](https://www.theverge.com/2024/12/12/24319879/google-willow-cant-break-rsa-cryptography)
- - [7 Questions to Ask Yourself Before You Buy a New Mattress](https://www.cnet.com/health/sleep/7-questions-to-ask-yourself-before-you-buy-a-new-mattress/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Broadcom reports Q4 revenue up 51% YoY to $14.05B vs. $14.09B est., FY 2024 AI revenue up 220%, expects Q1 revenue just above est.; AVGO jumps 10%+ after hours &lpar;Kif Leswing/CNBC&rpar;](http://www.techmeme.com/241212/p47#a241212p47)
+ - [I Fried Chicken in an Air Fryer and It Was So Simple](https://www.cnet.com/how-to/i-made-fried-chicken-in-an-air-fryer-and-now-everything-is-different/#ftag=CAD590a51e)
+ - [My Automatic Coffee Maker Is Like Having a Live-in Barista and It&#39;s 38% Off](https://www.cnet.com/deals/my-automatic-coffee-maker-is-like-having-a-live-in-barista-and-its-38-off/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

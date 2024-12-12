@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Numbers, Pages, and Keynote gain Apple Intelligence smarts](https://appleinsider.com/articles/24/12/12/numbers-pages-and-keynote-gain-apple-intelligence-smarts?utm_medium=rss)
  - [Toyota’s next EV is this small Urban Cruiser SUV for Europe](https://www.theverge.com/2024/12/12/24319827/toyota-urban-cruiser-suzuki-evitara-suv-ev-europe)
  - [Amazon’s Prime Video pushes ‘AI Topics’ instead of the old algorithms](https://www.theverge.com/2024/12/12/24319824/amazon-prime-video-ai-topics-old-algorithms)
  - [Sublime, which uses AI to scan emails of companies and political campaigns for phishing attacks, raised a $60M Series B, taking its total raised to $93.8M &lpar;Jordan Novet/CNBC&rpar;](http://www.techmeme.com/241212/p44#a241212p44)
- - [Apple is selling a $120 Vision Pro comfort strap with modular counterweights, made by sleep apnea device maker ResMed, to address complaints about extended wear &lpar;Zac Hall/9to5Mac&rpar;](http://www.techmeme.com/241212/p43#a241212p43)
- - [The 24 Best Movies on Apple TV+ Right Now &lpar;December 2024&rpar;](https://www.wired.com/story/best-apple-tv-plus-movies/)<!-- TECH:END -->
+ - [Apple is selling a $120 Vision Pro comfort strap with modular counterweights, made by sleep apnea device maker ResMed, to address complaints about extended wear &lpar;Zac Hall/9to5Mac&rpar;](http://www.techmeme.com/241212/p43#a241212p43)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

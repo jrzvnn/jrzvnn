@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Verizon is using 5G network slicing to offer better video calling — for a price](https://www.theverge.com/2024/12/12/24319785/verizon-5g-sa-network-slicing-enhanced-video-calling)
  - [Numbers, Pages, and Keynote gain Apple Intelligence smarts](https://appleinsider.com/articles/24/12/12/numbers-pages-and-keynote-gain-apple-intelligence-smarts?utm_medium=rss)
  - [Toyota’s next EV is this small Urban Cruiser SUV for Europe](https://www.theverge.com/2024/12/12/24319827/toyota-urban-cruiser-suzuki-evitara-suv-ev-europe)
  - [Amazon’s Prime Video pushes ‘AI Topics’ instead of the old algorithms](https://www.theverge.com/2024/12/12/24319824/amazon-prime-video-ai-topics-old-algorithms)
- - [Sublime, which uses AI to scan emails of companies and political campaigns for phishing attacks, raised a $60M Series B, taking its total raised to $93.8M &lpar;Jordan Novet/CNBC&rpar;](http://www.techmeme.com/241212/p44#a241212p44)
- - [Apple is selling a $120 Vision Pro comfort strap with modular counterweights, made by sleep apnea device maker ResMed, to address complaints about extended wear &lpar;Zac Hall/9to5Mac&rpar;](http://www.techmeme.com/241212/p43#a241212p43)<!-- TECH:END -->
+ - [Need a Holiday Movie? You Can Now Watch &#39;Red One&#39; at Home](https://www.cnet.com/tech/services-and-software/need-a-holiday-movie-you-can-now-watch-red-one-at-home/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

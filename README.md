@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [How to Effectively Clean Your Bathroom in 10 Minutes or Less](https://www.cnet.com/how-to/how-to-effectively-clean-your-bathroom-in-10-minutes-or-less/#ftag=CAD590a51e)
- - [Bloom Nutrition Greens Review 2024: Is the Trendy Brand Really Worth It?](https://www.cnet.com/health/nutrition/bloom-nutrition-greens-review/#ftag=CAD590a51e)
- - [Best Internet Providers in Boston, Massachusetts](https://www.cnet.com/home/internet/best-internet-providers-in-boston-ma/#ftag=CAD590a51e)
  - [Reddit bans posting UnitedHealthcare shooter’s manifesto](https://www.theverge.com/2024/12/12/24319957/reddit-bans-posting-uhc-shooter-luigi-mangione-manifesto)
- - [Best Internet Providers in Cincinnati, Ohio](https://www.cnet.com/home/internet/best-internet-providers-in-cincinnati-oh/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Sundar Pichai and Jeff Bezos head to Mar-a-Lago to schmooze with Trump](https://www.theverge.com/2024/12/12/24319917/sundar-pichai-jeff-bezos-donald-trump-mar-a-lago)
+ - [ServiceTitan&#39;s shares closed up 42.25% at $101 in its Nasdaq debut, giving the company a market cap of about $8.9B after it raised around $625M in its IPO &lpar;Jordan Novet/CNBC&rpar;](http://www.techmeme.com/241212/p48#a241212p48)
+ - [Broadcom reports Q4 revenue up 51% YoY to $14.05B vs. $14.09B est., FY 2024 AI revenue up 220%, expects Q1 revenue just above est.; AVGO jumps 10%+ after hours &lpar;Kif Leswing/CNBC&rpar;](http://www.techmeme.com/241212/p47#a241212p47)
+ - [I Fried Chicken in an Air Fryer and It Was So Simple](https://www.cnet.com/how-to/i-made-fried-chicken-in-an-air-fryer-and-now-everything-is-different/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

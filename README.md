@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [NeuBird, which is using generative AI to automate IT site reliability operations, raised a $22.5M seed extension led by M12, following a $22M seed in April &lpar;Marina Temkin/TechCrunch&rpar;](http://www.techmeme.com/241211/p51#a241211p51)
+ - [Congress asking Apple and other big tech what they&#39;re doing about deepfakes](https://appleinsider.com/articles/24/12/12/congress-asking-apple-and-other-big-tech-what-theyre-doing-about-deepfakes?utm_medium=rss)
  - [Honda plans to dissolve a self-driving vehicle partnership with GM after GM announced plans to exit robotaxi development; Honda had invested $852M in Cruise &lpar;Shoya Okinaga/Nikkei Asia&rpar;](http://www.techmeme.com/241211/p50#a241211p50)
- - [OpenAI says it is bringing ChatGPT traffic back up by region and API traffic recovery is ongoing while Sora is beginning to recover, after a multi-hour outage &lpar;Maxwell Zeff/TechCrunch&rpar;](http://www.techmeme.com/241211/p49#a241211p49)
- - [The best deals on Apple Watches right now](https://www.theverge.com/21289209/best-apple-watch-deals)
- - [ServiceTitan, which offers cloud software to contractors, prices its IPO at $71 per share, above the expected range, raising almost $625M at a ~$6.3B valuation &lpar;Jordan Novet/CNBC&rpar;](http://www.techmeme.com/241211/p48#a241211p48)
- - [Google&#39;s New AI Weather Model Could Make 15-Day Forecasts More Accurate](https://www.cnet.com/tech/services-and-software/googles-new-ai-weather-model-nails-15-day-forecasts/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Best Solar Panel Installation Companies in New Mexico](https://www.cnet.com/home/energy-and-utilities/new-mexico-solar-panels/#ftag=CAD590a51e)
+ - [OpenAI says it is bringing ChatGPT traffic back up by region and API traffic recovery is ongoing while Sora is beginning to recover, after a multi-hour outage &lpar;Maxwell Zeff/TechCrunch&rpar;](http://www.techmeme.com/241211/p49#a241211p49)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

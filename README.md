@@ -161,7 +161,7 @@ R                        1 repo              ░░░░░░░░░░░�
  - [Sources: Nvidia added ~200 staff to its self-driving R&amp;D team in Beijing and will end the year with ~4,000 staff in China, up from ~3,000 at the start of 2024 &lpar;Bloomberg&rpar;](http://www.techmeme.com/241212/p2#a241212p2)
  - [Harvard says it&#39;s releasing a high-quality dataset of ~1M public-domain books, created with funding from Microsoft and OpenAI, to help train LLMs and AI tools &lpar;Kate Knibbs/Wired&rpar;](http://www.techmeme.com/241212/p1#a241212p1)
  - [Meta donates $1M to president-elect Trump&#39;s inaugural fund; sources: Mark Zuckerberg gifted Meta&#39;s Ray-Ban smart glasses to Trump at Mar-a-Lago on November 27 &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/241211/p52#a241211p52)
- - [How to set parental controls on iOS 18 and iPadOS 18](https://appleinsider.com/articles/24/12/12/how-to-set-parental-controls-on-ios-18-and-ipados-18?utm_medium=rss)<!-- TECH:END -->
+ - [Best AirPods for 2024](https://www.cnet.com/tech/mobile/best-apple-airpods/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

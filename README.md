@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [Yup, that&#39;s him!](http://9gag.com/gag/ajPgQMG)
  - 😝 [Why did she do it?](http://9gag.com/gag/a6Z1yVq)
- - 😝 [The power of the Prince Rupert drop](http://9gag.com/gag/aGyz9AK)
- - 💣 [Yup, that&#39;s him!](http://9gag.com/gag/ajPgQMG)
- - 😝 [I love watching Japanese newsreaders.](http://9gag.com/gag/a4P1dXA)
- - 👉 [Who\u2019s coming to hell with me?](http://9gag.com/gag/aryneW5)<!-- MEMES:END -->
+ - 💣 [Who\u2019s coming to hell with me?](http://9gag.com/gag/aryneW5)
+ - 😝 [Send me your weirdest pictures &lpar;nothing sexual please&rpar;](http://9gag.com/gag/abAgypp)
+ - 👉 [F1 training is no joke](http://9gag.com/gag/aD2DRvw)<!-- MEMES:END -->
 
 ---
 

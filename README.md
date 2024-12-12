@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Dino got them moves](http://9gag.com/gag/aE08vbp)
- - 😝 [Always look at the mother](http://9gag.com/gag/aNDPejK)
- - 💣 [Some of the best ad](http://9gag.com/gag/aQzXqer)
- - 😝 [It&#39;s wednesday, my dudes](http://9gag.com/gag/aKGmwN6)
- - 👉 [Modding](http://9gag.com/gag/aKGmwL6)<!-- MEMES:END -->
+ - 😝 [Asada.](http://9gag.com/gag/aByn9j2)
+ - 😝 [I dont know why everyone is so mad about the Snow white remake, its kinda entertaining](http://9gag.com/gag/aryMPYd)
+ - 💣 [The couch.](http://9gag.com/gag/avyA25E)
+ - 😝 [Every time when I watch the movie I&#39;m terrified by the voice over.](http://9gag.com/gag/aVvxjOd)
+ - 👉 [Never step on spiders. You could be stepping on a female with eggs, and they\u2019ll stick to your shoes and hatch all over your car and house.](http://9gag.com/gag/a2v1zPE)<!-- MEMES:END -->
 
 ---
 

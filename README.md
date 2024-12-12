@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Australia plans a new levy on tech companies like Meta with $250M+ in revenue to force them to pay publishers for journalism, after Meta quit the previous deal &lpar;Nic Fildes/Financial Times&rpar;](http://www.techmeme.com/241212/p16#a241212p16)
  - [GM pulling the plug on Cruise&#39;s robotaxi experiment in favor of &quot;privately owned&quot; driverless cars is the beginning of a risky new phase for autonomous vehicles &lpar;Andrew J. Hawkins/The Verge&rpar;](http://www.techmeme.com/241212/p15#a241212p15)
+ - [The 12 Best Cooling Pillows of 2024](https://www.cnet.com/health/sleep/best-cooling-pillows/#ftag=CAD590a51e)
  - [The crypto industry&#39;s impact on the 2024 US elections shows that crypto is a perfect anti-establishment tech for the turbulence and distrust of the 2020s &lpar;Charlie Warzel/The Atlantic&rpar;](http://www.techmeme.com/241212/p14#a241212p14)
- - [Tap to Pay on iPhone comes to Chile and Egypt](https://appleinsider.com/articles/24/12/11/tap-to-pay-on-iphone-comes-to-chile-and-egypt?utm_medium=rss)
- - [Berlin-based Upvest, which offers an API for stock trading and other financial services to N26, Revolut, and others, raised a &amp;euro;100M Series C led by Hedosophia &lpar;Romain Dillet/TechCrunch&rpar;](http://www.techmeme.com/241212/p13#a241212p13)
- - [A deep dive into AI scaling laws, including an outline of the old pre-training trends as well as the new scaling trends for post-training and inference time &lpar;SemiAnalysis&rpar;](http://www.techmeme.com/241212/p12#a241212p12)<!-- TECH:END -->
+ - [Don&#39;t Sleep on High APYs. Today&#39;s CD Rates, Dec. 12, 2024](https://www.cnet.com/personal-finance/banking/dont-sleep-on-high-apys-todays-cd-rates-dec-12-2024/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

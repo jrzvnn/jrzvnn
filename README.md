@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [Yup, that&#39;s him!](http://9gag.com/gag/ajPgQMG)
+ - 😝 [Asada.](http://9gag.com/gag/aByn9j2)
+ - 💣 [Guys! believe us! he is not a SCAPEGOAT!! -fbi](http://9gag.com/gag/a2v7QO1)
  - 😝 [They&#39;re doing content houses now](http://9gag.com/gag/aMV419A)
- - 😝 [Luigi Mangione, suspect in C.E.O. killing, photographed in his holding cell after being charged with murder](http://9gag.com/gag/aD2dBjd)
- - 💣 [The couch.](http://9gag.com/gag/avyA25E)
- - 😝 [Never step on spiders. You could be stepping on a female with eggs, and they\u2019ll stick to your shoes and hatch all over your car and house.](http://9gag.com/gag/a2v1zPE)
- - 👉 [Stereotype reinforcement - check](http://9gag.com/gag/aGyzKK7)<!-- MEMES:END -->
+ - 👉 [Luigi Mangione, suspect in C.E.O. killing, photographed in his holding cell after being charged with murder](http://9gag.com/gag/aD2dBjd)<!-- MEMES:END -->
 
 ---
 

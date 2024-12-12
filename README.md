@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The EU&#39;s TikTok scrutiny over the Romanian presidential election will be a litmus test for the DSA and should finally uncover details of algorithmic influence &lpar;Marietje Schaake/Financial Times&rpar;](http://www.techmeme.com/241212/p18#a241212p18)
- - [Audi’s Rebrand in China Points to Bigger Changes in the Auto Industry](https://www.wired.com/story/audi-china-rebrand-four-rings-logo/)
- - [The NLRB issues a complaint against Netflix&#39;s Love Is Blind and classifies its contestants as employees, a case that may have major implications for reality TV &lpar;Julia Jacobs/New York Times&rpar;](http://www.techmeme.com/241212/p17#a241212p17)
- - [Australia plans a new levy on tech companies like Meta with $250M+ in revenue to force them to pay publishers for journalism, after Meta quit the previous deal &lpar;Nic Fildes/Financial Times&rpar;](http://www.techmeme.com/241212/p16#a241212p16)
- - [GM pulling the plug on Cruise&#39;s robotaxi experiment in favor of &quot;privately owned&quot; driverless cars is the beginning of a risky new phase for autonomous vehicles &lpar;Andrew J. Hawkins/The Verge&rpar;](http://www.techmeme.com/241212/p15#a241212p15)<!-- TECH:END -->
+ - [Japanese crypto exchange Coincheck lists on the Nasdaq via a SPAC, closing at $13.35 for a ~$1.7B market cap; Coincheck had 2.15M accounts in November 2024 &lpar;The Japan Times&rpar;](http://www.techmeme.com/241212/p20#a241212p20)
+ - [Voicemod launches its voice-changing dongle for Xbox, PlayStation, and Switch](https://www.theverge.com/2024/12/12/24319463/voicemod-key-voice-changing-dongle-availability-xbox-ps5-switch)
+ - [TikTok&#39;s Future in the US Is Unclear. We Check Back in With the Billionaire Who Wants to Save It](https://www.wired.com/story/tiktok-future-ban-billionaire-mccourt-sale/)
+ - [Apple exec launches Apple Intelligence in Australia](https://appleinsider.com/articles/24/12/12/apple-exec-launches-apple-intelligence-in-australia?utm_medium=rss)
+ - [Telef&amp;oacute;nica, one of the world&#39;s largest carriers, plans to preinstall the Epic Games Store on every new compatible Android phone it sells, including Samsung&#39;s &lpar;Sean Hollister/The Verge&rpar;](http://www.techmeme.com/241212/p19#a241212p19)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

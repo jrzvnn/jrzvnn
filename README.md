@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Current and former Netflix staff say the company has been scaling back employee benefits, including for parental leave, after shifting focus to profitability &lpar;Jessica Toonkel/Wall Street Journal&rpar;](http://www.techmeme.com/241212/p22#a241212p22)
+ - [17 Best Gifts for Babies and Toddlers, Editor Tested and Reviewed](https://www.wired.com/gallery/best-baby-gifts/)
  - [Is This the Year Everyone Quits Social Media?](https://www.wired.com/story/uncanny-valley-podcast-6-quitting-social-media/)
  - [Inside the launch — and future — of ChatGPT](https://www.theverge.com/2024/12/12/24318650/chatgpt-openai-history-two-year-anniversary)
- - [Sources: Xiaohongshu, the Instagram-style app popular with younger Chinese users, tells investors it will cross $1B in 2024 profit ahead of a potential IPO &lpar;Bloomberg&rpar;](http://www.techmeme.com/241212/p21#a241212p21)
- - [How to set parental controls on iOS 18 and iPadOS 18](https://appleinsider.com/articles/24/12/12/how-to-set-parental-controls-on-ios-18-and-ipados-18?utm_medium=rss)
- - [The Bot fwd2cal Adds Events to Your Calendar Automatically. Just Forward It an Email](https://www.wired.com/story/this-bot-adds-events-to-your-calendar-automatically-just-forward-it-an-email/)<!-- TECH:END -->
+ - [Sources: Xiaohongshu, the Instagram-style app popular with younger Chinese users, tells investors it will cross $1B in 2024 profit ahead of a potential IPO &lpar;Bloomberg&rpar;](http://www.techmeme.com/241212/p21#a241212p21)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

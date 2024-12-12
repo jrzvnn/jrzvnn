@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Forbes: Elon Musk&#39;s net worth crossed $400B on December 12, boosted by Tesla stock and SpaceX&#39;s valuation; Jeff Bezos has a $244B net worth, the second highest &lpar;Reuters&rpar;](http://www.techmeme.com/241212/p35#a241212p35)
+ - [Epic’s holiday sale includes 16 free games this year](https://www.theverge.com/2024/12/12/24319675/epic-games-holiday-sale-16-free-games)
  - [An interview with Google President of Android Ecosystem Sameer Samat on Android XR, why AI can make mixed reality work, Gemini, privacy concerns, and more &lpar;CNET&rpar;](http://www.techmeme.com/241212/p34#a241212p34)
  - [RFK Plans to Take on Big Pharma. It’s Easier Said Than Done](https://www.wired.com/story/rfks-plan-to-take-on-big-pharma/)
- - [Biden administration raises tariffs on solar materials from China](https://www.theverge.com/2024/12/12/24319521/china-tariffs-solar-energy-wafer-polysilicon-tungsten)
- - [YouTube quietly made some of its web embeds worse, including ours](https://www.theverge.com/2024/12/12/24318124/youtube-player-cant-click-title-sigh)
- - [I Tried Google and Samsung&#39;s Android XR Headset and Glasses: Gemini AI Can See My Life Now video](https://www.cnet.com/videos/i-tried-google-and-samsungs-android-xr-headset-and-glasses-gemini-ai-can-see-my-life-now/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Biden administration raises tariffs on solar materials from China](https://www.theverge.com/2024/12/12/24319521/china-tariffs-solar-energy-wafer-polysilicon-tungsten)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

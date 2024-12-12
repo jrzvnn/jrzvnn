@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The 24 Best Movies on Apple TV+ Right Now &lpar;December 2024&rpar;](https://www.wired.com/story/best-apple-tv-plus-movies/)
+ - [United Airlines and Air Canada first to offer official support for AirTag link sharing](https://appleinsider.com/articles/24/12/12/united-airlines-and-air-canada-first-to-offer-official-support-for-airtag-link-sharing?utm_medium=rss)
  - [How to set parental controls on iOS 18 and iPadOS 18](https://appleinsider.com/articles/24/12/12/how-to-set-parental-controls-on-ios-18-and-ipados-18?utm_medium=rss)
  - [Threads is testing collections of profiles to follow, curated by a &quot;handful of Threads community leaders&quot;, built around topics like fashion, food, and books &lpar;Jay Peters/The Verge&rpar;](http://www.techmeme.com/241212/p42#a241212p42)
- - [Meta makes $1 million donation to Trump’s inauguration](https://www.theverge.com/2024/12/12/24319768/meta-1-million-donation-trump-inauguration)
- - [Apple Vision Pro gets more comfortable with Kontor Head Strap](https://appleinsider.com/articles/24/12/12/apple-vision-pro-gets-more-comfortable-with-kontor-head-strap?utm_medium=rss)
- - [Apple-designed Wi-Fi chip rumored to debut in refreshed HomePod mini &amp; Apple TV](https://appleinsider.com/articles/24/12/12/apple-designed-wi-fi-chip-rumored-to-debut-in-refreshed-homepod-mini-apple-tv?utm_medium=rss)<!-- TECH:END -->
+ - [Best Internet Providers in Buffalo, New York](https://www.cnet.com/home/internet/best-internet-providers-in-buffalo-ny/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [YouTube TV’s monthly cost soars to $82.99](https://www.theverge.com/2024/12/12/24319585/youtube-tv-2024-subscription-price-increase-82-99)
  - [Sora’s AI video revolution is still a ways off](https://www.theverge.com/2024/12/12/24318924/openai-sora-ai-video-generator-hands-on)
  - [Apple testing M4 MacBook Air with ultra-wide camera &amp; Center Stage support](https://appleinsider.com/articles/24/12/11/m4-macbook-air-leaked-in-macos-sequoia-152-update-regulatory-documents?utm_medium=rss)
  - [Character.AI announces more parental controls and a separate LLM for users under 18, after two US lawsuits claimed its chatbots harmed young users &lpar;Adi Robertson/The Verge&rpar;](http://www.techmeme.com/241212/p27#a241212p27)
- - [Warner Bros. Discovery restructures to split up streaming and cable businesses](https://www.theverge.com/2024/12/12/24319520/warner-bros-discovery-split-streaming-cable-businesses)
- - [Wedding banned - Apple Watches not welcome at fashionista&#39;s ceremony](https://appleinsider.com/articles/24/12/12/wedding-banned---apple-watches-not-welcome-at-fashionistas-ceremony?utm_medium=rss)<!-- TECH:END -->
+ - [Warner Bros. Discovery restructures to split up streaming and cable businesses](https://www.theverge.com/2024/12/12/24319520/warner-bros-discovery-split-streaming-cable-businesses)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

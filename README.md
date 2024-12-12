@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Sources: in the past year, US chip companies have lobbied the US government against a China sales ban, citing billions in lost revenue, shocking US officials &lpar;Ana Swanson/New York Times&rpar;](http://www.techmeme.com/241212/p39#a241212p39)
+ - [OpenAI releases Advanced Voice Mode with vision for ChatGPT Plus, Team, and Pro users, letting them share their screen or video from phone cameras with ChatGPT &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/241212/p38#a241212p38)
+ - [Mike Flanagan is writing a Clayface movie for DC Studios](https://www.theverge.com/2024/12/12/24319754/dc-studios-clayface-mike-flanagan-james-gunn-matt-reeves)
  - [Today&#39;s best Apple Watch sales deliver last-minute holiday deals from $189](https://appleinsider.com/articles/24/12/12/todays-best-apple-watch-sales-deliver-last-minute-holiday-deals-from-189?utm_medium=rss)
- - [Sources: Apple plans to roll out its own Wi-Fi and Bluetooth chip as part of Apple TV and HomePod mini updates in 2025, and in iPhones later in the year &lpar;Mark Gurman/Bloomberg&rpar;](http://www.techmeme.com/241212/p37#a241212p37)
- - [Gemini AI can now summarize what’s in your Google Drive folders](https://www.theverge.com/2024/12/12/24319697/gemini-ai-summarize-google-drive-folders)
- - [The extremely online life of the American teenager](https://www.theverge.com/2024/12/12/24319692/half-of-us-teens-almost-constantly-online-pew-research-poll)
- - [Microsoft’s Recall AI is creepy, clever, and compelling](https://www.theverge.com/2024/12/12/24319609/microsoft-recall-hands-on-notepad)<!-- TECH:END -->
+ - [Sources: Apple plans to roll out its own Wi-Fi and Bluetooth chip as part of Apple TV and HomePod mini updates in 2025, and in iPhones later in the year &lpar;Mark Gurman/Bloomberg&rpar;](http://www.techmeme.com/241212/p37#a241212p37)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

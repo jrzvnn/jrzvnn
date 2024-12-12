@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Today&#39;s NYT Mini Crossword Answers for Thursday, Dec. 12](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-thursday-dec-12/#ftag=CAD590a51e)
  - [Tel Aviv-based Astrix Security, which helps firms secure non-human identities like API keys and service accounts, raised a $45M Series B led by Menlo Ventures &lpar;Ryan Naraine/SecurityWeek&rpar;](http://www.techmeme.com/241212/p5#a241212p5)
+ - [Best Solar Panel Installation Companies in Chicago](https://www.cnet.com/home/energy-and-utilities/chicago-solar-panels/#ftag=CAD590a51e)
  - [The FCC opens all 1,200 megahertz of the 6GHz band for unlicensed use by very-low-power devices, citing growth in wearables, AR/VR, and other cutting-edge tech &lpar;George Winslow/Tv Technology&rpar;](http://www.techmeme.com/241212/p4#a241212p4)
- - [Montreal-based Flare, a threat exposure management startup that develops tech to thwart info-stealer malware, raised a $30M Series B led by Base10 Partners &lpar;Julie Bort/TechCrunch&rpar;](http://www.techmeme.com/241212/p3#a241212p3)
- - [Sources: Nvidia added ~200 staff to its self-driving R&amp;D team in Beijing and will end the year with ~4,000 staff in China, up from ~3,000 at the start of 2024 &lpar;Bloomberg&rpar;](http://www.techmeme.com/241212/p2#a241212p2)
- - [Harvard says it&#39;s releasing a high-quality dataset of ~1M public-domain books, created with funding from Microsoft and OpenAI, to help train LLMs and AI tools &lpar;Kate Knibbs/Wired&rpar;](http://www.techmeme.com/241212/p1#a241212p1)<!-- TECH:END -->
+ - [Montreal-based Flare, a threat exposure management startup that develops tech to thwart info-stealer malware, raised a $30M Series B led by Base10 Partners &lpar;Julie Bort/TechCrunch&rpar;](http://www.techmeme.com/241212/p3#a241212p3)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

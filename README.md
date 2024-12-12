@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Asada.](http://9gag.com/gag/aByn9j2)
- - 😝 [Shopping is a lot of fun!](http://9gag.com/gag/awyzNwx)
- - 💣 [Nurse caught exposing herself to patient](http://9gag.com/gag/aKG6bDj)
- - 😝 [Never step on spiders. You could be stepping on a female with eggs, and they\u2019ll stick to your shoes and hatch all over your car and house.](http://9gag.com/gag/a2v1zPE)
- - 👉 [Luigi Mangione, suspect in C.E.O. killing, photographed in his holding cell after being charged with murder](http://9gag.com/gag/aD2dBjd)<!-- MEMES:END -->
+ - 😝 [The couch.](http://9gag.com/gag/avyA25E)
+ - 😝 [Every time when I watch the movie I&#39;m terrified by the voice over.](http://9gag.com/gag/aVvxjOd)
+ - 💣 [Asada.](http://9gag.com/gag/aByn9j2)
+ - 😝 [When she realized](http://9gag.com/gag/ayN95ry)
+ - 👉 [Stereotype reinforcement - check](http://9gag.com/gag/aGyzKK7)<!-- MEMES:END -->
 
 ---
 

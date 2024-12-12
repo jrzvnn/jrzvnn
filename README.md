@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Death switches](http://9gag.com/gag/apRgqX8)
- - 😝 [I love watching Japanese newsreaders.](http://9gag.com/gag/a4P1dXA)
- - 💣 [Who\u2019s coming to hell with me?](http://9gag.com/gag/aryneW5)
  - 😝 [Man is high as a kite](http://9gag.com/gag/a9y1bBK)
- - 👉 [Yup, that&#39;s him!](http://9gag.com/gag/ajPgQMG)<!-- MEMES:END -->
+ - 😝 [Why did she do it?](http://9gag.com/gag/a6Z1yVq)
+ - 💣 [F1 training is no joke](http://9gag.com/gag/aD2DRvw)
+ - 😝 [I love watching Japanese newsreaders.](http://9gag.com/gag/a4P1dXA)
+ - 👉 [Who\u2019s coming to hell with me?](http://9gag.com/gag/aryneW5)<!-- MEMES:END -->
 
 ---
 

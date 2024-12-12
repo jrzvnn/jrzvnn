@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [When she realized](http://9gag.com/gag/ayN95ry)
- - 😝 [Man is high as a kite](http://9gag.com/gag/a9y1bBK)
- - 💣 [Why did she do it?](http://9gag.com/gag/a6Z1yVq)
- - 😝 [I love watching Japanese newsreaders.](http://9gag.com/gag/a4P1dXA)
- - 👉 [Send me your weirdest pictures &lpar;nothing sexual please&rpar;](http://9gag.com/gag/abAgypp)<!-- MEMES:END -->
+ - 😝 [The power of the Prince Rupert drop](http://9gag.com/gag/aGyz9AK)
+ - 😝 [Princess red lobster](http://9gag.com/gag/aAyGVoE)
+ - 💣 [An Indian Congress MP Ranuka made her maid stand behind her child for hours while eating 5 star food. And to do that in a public place without fear of backlash is just proving why people hate Indians.](http://9gag.com/gag/aRBrgNG)
+ - 😝 [Why did she do it?](http://9gag.com/gag/a6Z1yVq)
+ - 👉 [Man is high as a kite](http://9gag.com/gag/a9y1bBK)<!-- MEMES:END -->
 
 ---
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Crusoe Energy, which offers cost-effective generative AI compute at scale using clean energy, raised a $600M Series D led by Founders Fund at a $2.8B valuation &lpar;Kyt Dotson/SiliconANGLE&rpar;](http://www.techmeme.com/241212/p36#a241212p36)
  - [Apple gets into AI: all the news on iOS 18, macOS Sequoia, and more](https://www.theverge.com/24246632/apple-intelligence-ios-18-ipad-os-18-macos-sequoia-iphone-16)
  - [Supernote’s new E Ink tablet is upgradeable and repairable](https://www.theverge.com/2024/12/12/24319575/supernote-a5-x2-manta-tablet-e-ink-electronic-paper-upgradeable-repairable)
  - [Forbes: Elon Musk&#39;s net worth crossed $400B on December 12, boosted by Tesla stock and SpaceX&#39;s valuation; Jeff Bezos has a $244B net worth, the second highest &lpar;Reuters&rpar;](http://www.techmeme.com/241212/p35#a241212p35)
- - [Epic’s holiday sale includes 16 free games this year](https://www.theverge.com/2024/12/12/24319675/epic-games-holiday-sale-16-free-games)
- - [An interview with Google President of Android Ecosystem Sameer Samat on Android XR, why AI can make mixed reality work, Gemini, privacy concerns, and more &lpar;CNET&rpar;](http://www.techmeme.com/241212/p34#a241212p34)<!-- TECH:END -->
+ - [4 Common Fridge Problems and How to Fix Them](https://www.cnet.com/home/kitchen-and-household/4-common-fridge-problems-and-how-to-fix-them/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

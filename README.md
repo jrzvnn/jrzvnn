@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Aqara has last-minute holiday deals from $34 that&#39;ll help fill your home with HomeKit sensors](https://appleinsider.com/articles/24/12/12/aqara-has-last-minute-holiday-deals-from-34-thatll-help-fill-your-home-with-homekit-sensors?utm_medium=rss)
- - [Harvard Is Releasing a Massive Free AI Training Dataset Funded by OpenAI and Microsoft](https://www.wired.com/story/harvard-ai-training-dataset-openai-microsoft/)
- - [iPadOS 18.2 arrives with more Apple Intelligence features](https://appleinsider.com/articles/24/12/11/ipados-182-arrives-with-more-apple-intelligence-features?utm_medium=rss)
- - [Best Kindle to Buy in 2024, Tested and Reviewed](https://www.wired.com/gallery/best-kindle/)
- - [Filing: Samsung accuses India&#39;s competition watchdog of unlawfully detaining its employees and seizing data in a 2022 antitrust raid over Amazon and Flipkart &lpar;Reuters&rpar;](http://www.techmeme.com/241212/p24#a241212p24)<!-- TECH:END -->
+ - [You can now use AirTags to expedite a lost luggage reunion through United’s mobile app](https://www.theverge.com/2024/12/12/24319503/apple-airtag-find-my-network-share-item-location-united-airlines-lost-bag-luggage)
+ - [With iOS 18.2, Apple completes its AI starter kit](https://www.theverge.com/2024/12/12/24318840/ios-18-2-apple-intelligence-chatgpt-genmoji-image-playground)
+ - [Stigg, which helps companies modernize their payment and billing infrastructure, raised a $17.5M Series A led by Red Dot, taking its total funding to $24M &lpar;Mike Wheatley/SiliconANGLE&rpar;](http://www.techmeme.com/241212/p25#a241212p25)
+ - [Aqara has last-minute holiday deals from $42 that&#39;ll help fill your home with HomeKit sensors](https://appleinsider.com/articles/24/12/12/aqara-has-last-minute-holiday-deals-from-34-thatll-help-fill-your-home-with-homekit-sensors?utm_medium=rss)
+ - [Harvard Is Releasing a Massive Free AI Training Dataset Funded by OpenAI and Microsoft](https://www.wired.com/story/harvard-ai-training-dataset-openai-microsoft/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

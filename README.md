@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [She was having an off day](http://9gag.com/gag/aGyzKMz)
- - 😝 [We have free electricity?](http://9gag.com/gag/ajPgQBp)
- - 💣 [The power of the Prince Rupert drop](http://9gag.com/gag/aGyz9AK)
- - 😝 [Man is high as a kite](http://9gag.com/gag/a9y1bBK)
- - 👉 [Why did she do it?](http://9gag.com/gag/a6Z1yVq)<!-- MEMES:END -->
+ - 😝 [Why did she do it?](http://9gag.com/gag/a6Z1yVq)
+ - 😝 [The power of the Prince Rupert drop](http://9gag.com/gag/aGyz9AK)
+ - 💣 [Yup, that&#39;s him!](http://9gag.com/gag/ajPgQMG)
+ - 😝 [I love watching Japanese newsreaders.](http://9gag.com/gag/a4P1dXA)
+ - 👉 [Who\u2019s coming to hell with me?](http://9gag.com/gag/aryneW5)<!-- MEMES:END -->
 
 ---
 

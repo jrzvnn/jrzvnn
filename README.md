@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [That&#39;s pretty neat](http://9gag.com/gag/aQzX4qe)
- - 😝 [Another quality purchase from Tehmoo](http://9gag.com/gag/a2v1N3D)
- - 💣 [Modding](http://9gag.com/gag/aKGmwL6)
- - 😝 [It&#39;s wednesday, my dudes](http://9gag.com/gag/aKGmwN6)
- - 👉 [Always look at the mother](http://9gag.com/gag/aNDPejK)<!-- MEMES:END -->
+ - 😝 [Every time when I watch the movie I&#39;m terrified by the voice over.](http://9gag.com/gag/aVvxjOd)
+ - 😝 [How poor we are](http://9gag.com/gag/aO836DR)
+ - 💣 [She was having an off day](http://9gag.com/gag/aGyzKMz)
+ - 😝 [The power of the Prince Rupert drop](http://9gag.com/gag/aGyz9AK)
+ - 👉 [Stereotype reinforcement - check](http://9gag.com/gag/aGyzKK7)<!-- MEMES:END -->
 
 ---
 

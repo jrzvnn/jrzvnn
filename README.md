@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Pokémon TCG Pocket’s new expansion drops next week](https://www.theverge.com/2024/12/12/24319498/pokemon-tcg-pocket-mythical-island-release-date)
- - [Z&amp;uuml;rich-based robotics startup Anybotics raised a $60M Series B extension, taking the round, announced in May 2023, to $110M and its total funding to $130M &lpar;Paul Sawers/TechCrunch&rpar;](http://www.techmeme.com/241212/p23#a241212p23)
- - [Best Internet Providers in Aurora, Colorado](https://www.cnet.com/home/internet/best-internet-providers-in-aurora-co/#ftag=CAD590a51e)
- - [Grab One of Our Favorite Mini Bluetooth Speakers for Just $50 Right Now, a Record Low](https://www.cnet.com/deals/grab-one-of-our-favorite-mini-bluetooth-speakers-for-just-50-right-now-a-record-low/#ftag=CAD590a51e)
- - [Current and former Netflix staff say the company has walked back its parental-leave benefits, after shifting its focus from subscriber growth to profitability &lpar;Jessica Toonkel/Wall Street Journal&rpar;](http://www.techmeme.com/241212/p22#a241212p22)<!-- TECH:END -->
+ - [Aqara has last-minute holiday deals from $34 that&#39;ll help fill your home with HomeKit sensors](https://appleinsider.com/articles/24/12/12/aqara-has-last-minute-holiday-deals-from-34-thatll-help-fill-your-home-with-homekit-sensors?utm_medium=rss)
+ - [Harvard Is Releasing a Massive Free AI Training Dataset Funded by OpenAI and Microsoft](https://www.wired.com/story/harvard-ai-training-dataset-openai-microsoft/)
+ - [iPadOS 18.2 arrives with more Apple Intelligence features](https://appleinsider.com/articles/24/12/11/ipados-182-arrives-with-more-apple-intelligence-features?utm_medium=rss)
+ - [Best Kindle to Buy in 2024, Tested and Reviewed](https://www.wired.com/gallery/best-kindle/)
+ - [Filing: Samsung accuses India&#39;s competition watchdog of unlawfully detaining its employees and seizing data in a 2022 antitrust raid over Amazon and Flipkart &lpar;Reuters&rpar;](http://www.techmeme.com/241212/p24#a241212p24)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

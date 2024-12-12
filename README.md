@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [OpenAI says ChatGPT and its developer-facing API have been partially recovered while Sora remains down, following an outage for over two hours &lpar;Maxwell Zeff/TechCrunch&rpar;](http://www.techmeme.com/241211/p49#a241211p49)
+ - [The best deals on Apple Watches right now](https://www.theverge.com/21289209/best-apple-watch-deals)
  - [ServiceTitan, which offers cloud software to contractors, prices its IPO at $71 per share, above the expected range, raising ~$625M and valuing it at ~$6.3B &lpar;Jordan Novet/CNBC&rpar;](http://www.techmeme.com/241211/p48#a241211p48)
- - [Binance and Circle partner to promote USDC; Binance plans to list more crypto trading pairs denominated in USDC and hold USDC for its own corporate treasury &lpar;Muyao Shen/Bloomberg&rpar;](http://www.techmeme.com/241211/p47#a241211p47)
- - [New Genmoji ad showcases creations that definitely were not made with Apple Intelligence](https://appleinsider.com/articles/24/12/12/new-genmoji-ad-showcases-creations-that-definitely-were-not-made-with-apple-intelligence?utm_medium=rss)
- - [Steam is adding a new default option for game updates](https://www.theverge.com/2024/12/11/24319225/valve-steam-default-option-game-updates-wait)
- - [Meta Says It&#39;s &#39;99% of the Way There&#39; in Restoring Instagram, Facebook and WhatsApp](https://www.cnet.com/tech/services-and-software/meta-says-its-99-of-the-way-there-in-restoring-instagram-facebook-and-whatsapp/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Google&#39;s New AI Weather Model Could Make 15-Day Forecasts More Accurate](https://www.cnet.com/tech/services-and-software/googles-new-ai-weather-model-nails-15-day-forecasts/#ftag=CAD590a51e)
+ - [Binance and Circle partner to promote USDC; Binance plans to list more crypto trading pairs denominated in USDC and hold USDC for its own corporate treasury &lpar;Muyao Shen/Bloomberg&rpar;](http://www.techmeme.com/241211/p47#a241211p47)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

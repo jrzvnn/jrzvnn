@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Current and former Netflix staff say the company has been scaling back employee benefits, including for parental leave, after shifting focus to profitability &lpar;Jessica Toonkel/Wall Street Journal&rpar;](http://www.techmeme.com/241212/p22#a241212p22)
+ - [Pokémon TCG Pocket’s next expansion drops next week](https://www.theverge.com/2024/12/12/24319498/pokemon-tcg-pocket-mythical-island-release-date)
+ - [Z&amp;uuml;rich-based robotics startup Anybotics raised a $60M Series B extension, taking the round, announced in May 2023, to $110M and its total funding to $130M &lpar;Paul Sawers/TechCrunch&rpar;](http://www.techmeme.com/241212/p23#a241212p23)
+ - [Current and former Netflix staff say the company has walked back its parental-leave benefits, after shifting its focus from subscriber growth to profitability &lpar;Jessica Toonkel/Wall Street Journal&rpar;](http://www.techmeme.com/241212/p22#a241212p22)
  - [17 Best Gifts for Babies and Toddlers, Editor Tested and Reviewed](https://www.wired.com/gallery/best-baby-gifts/)
- - [Is This the Year Everyone Quits Social Media?](https://www.wired.com/story/uncanny-valley-podcast-6-quitting-social-media/)
- - [Inside the launch — and future — of ChatGPT](https://www.theverge.com/2024/12/12/24318650/chatgpt-openai-history-two-year-anniversary)
- - [Sources: Xiaohongshu, the Instagram-style app popular with younger Chinese users, tells investors it will cross $1B in 2024 profit ahead of a potential IPO &lpar;Bloomberg&rpar;](http://www.techmeme.com/241212/p21#a241212p21)<!-- TECH:END -->
+ - [Is This the Year Everyone Quits Social Media?](https://www.wired.com/story/uncanny-valley-podcast-6-quitting-social-media/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

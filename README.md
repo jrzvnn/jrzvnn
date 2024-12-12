@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Yup, that&#39;s him!](http://9gag.com/gag/ajPgQMG)
- - 😝 [She was having an off day](http://9gag.com/gag/aGyzKMz)
- - 💣 [Beeing smart, beeing cool](http://9gag.com/gag/azxebLB)
- - 😝 [Stereotype reinforcement - check](http://9gag.com/gag/aGyzKK7)
- - 👉 [Because she is fat](http://9gag.com/gag/aKGmgxZ)<!-- MEMES:END -->
+ - 😝 [Floof check](http://9gag.com/gag/aPAZy7g)
+ - 😝 [ARGENTINA ENDS DEFICIT FOR THE FIRST TIME IN 123 YEARS\u2026.](http://9gag.com/gag/ayN95xy)
+ - 💣 [Looks like New Yorkers are done playing nice!](http://9gag.com/gag/a2v1PGO)
+ - 😝 [Billionaires distract you to fight a race war](http://9gag.com/gag/a7o1KQe)
+ - 👉 [Comedian Bill Burr on why the media ignores the CEO killer\u2019s vast public support](http://9gag.com/gag/aKGmgyj)<!-- MEMES:END -->
 
 ---
 

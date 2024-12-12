@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The FCC opens all 1,200 megahertz of the 6GHz band for unlicensed use by very-low-power devices, citing growth in wearables, AR/VR, and other cutting-edge tech &lpar;George Winslow/Tv Technology&rpar;](http://www.techmeme.com/241212/p4#a241212p4)
  - [Montreal-based Flare, a threat exposure management startup that develops tech to thwart info-stealer malware, raised a $30M Series B led by Base10 Partners &lpar;Julie Bort/TechCrunch&rpar;](http://www.techmeme.com/241212/p3#a241212p3)
  - [Sources: Nvidia added ~200 staff to its self-driving R&amp;D team in Beijing and will end the year with ~4,000 staff in China, up from ~3,000 at the start of 2024 &lpar;Bloomberg&rpar;](http://www.techmeme.com/241212/p2#a241212p2)
  - [Harvard says it&#39;s releasing a high-quality dataset of ~1M public-domain books, created with funding from Microsoft and OpenAI, to help train LLMs and AI tools &lpar;Kate Knibbs/Wired&rpar;](http://www.techmeme.com/241212/p1#a241212p1)
- - [Meta donates $1M to president-elect Trump&#39;s inaugural fund; sources: Mark Zuckerberg gifted Meta&#39;s Ray-Ban smart glasses to Trump at Mar-a-Lago on November 27 &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/241211/p52#a241211p52)
- - [Best AirPods for 2024](https://www.cnet.com/tech/mobile/best-apple-airpods/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Meta donates $1M to president-elect Trump&#39;s inaugural fund; sources: Mark Zuckerberg gifted Meta&#39;s Ray-Ban smart glasses to Trump at Mar-a-Lago on November 27 &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/241211/p52#a241211p52)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

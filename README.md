@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [You can now use AirTags to expedite a lost luggage reunion through United’s mobile app](https://www.theverge.com/2024/12/12/24319503/apple-airtag-find-my-network-share-item-location-united-airlines-lost-bag-luggage)
- - [With iOS 18.2, Apple completes its AI starter kit](https://www.theverge.com/2024/12/12/24318840/ios-18-2-apple-intelligence-chatgpt-genmoji-image-playground)
- - [Stigg, which helps companies modernize their payment and billing infrastructure, raised a $17.5M Series A led by Red Dot, taking its total funding to $24M &lpar;Mike Wheatley/SiliconANGLE&rpar;](http://www.techmeme.com/241212/p25#a241212p25)
- - [Aqara has last-minute holiday deals from $42 that&#39;ll help fill your home with HomeKit sensors](https://appleinsider.com/articles/24/12/12/aqara-has-last-minute-holiday-deals-from-34-thatll-help-fill-your-home-with-homekit-sensors?utm_medium=rss)
- - [Harvard Is Releasing a Massive Free AI Training Dataset Funded by OpenAI and Microsoft](https://www.wired.com/story/harvard-ai-training-dataset-openai-microsoft/)<!-- TECH:END -->
+ - [Amazon delayed the deployment of Microsoft 365 for its 1.5M employees for a year to resolve security concerns about Microsoft&#39;s Midnight Blizzard hack &lpar;Matt Day/Bloomberg&rpar;](http://www.techmeme.com/241212/p26#a241212p26)
+ - [Apple Intelligence development may be delaying iOS 19 feature work](https://appleinsider.com/articles/24/12/12/apple-intelligence-development-may-be-delaying-ios-19-feature-work?utm_medium=rss)
+ - [How to watch the 2024 Game Awards](https://www.theverge.com/2024/12/12/24319127/the-game-awards-2024-how-to-watch-stream-time)
+ - [Character.AI has retrained its chatbots to stop chatting up teens](https://www.theverge.com/2024/12/12/24319050/character-ai-chatbots-teen-model-training-parental-controls)
+ - [You can now use AirTags to expedite a lost luggage reunion through United’s mobile app](https://www.theverge.com/2024/12/12/24319503/apple-airtag-find-my-network-share-item-location-united-airlines-lost-bag-luggage)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

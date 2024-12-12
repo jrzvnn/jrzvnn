@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Gigs, which helps companies become mobile virtual network operators, raised a $73M Series B led by Ribbit Capital, after a $20M Series A in 2022 &lpar;Paul Sawers/TechCrunch&rpar;](http://www.techmeme.com/241212/p28#a241212p28)
- - [YouTube TV’s monthly cost soars to $82.99](https://www.theverge.com/2024/12/12/24319585/youtube-tv-2024-subscription-price-increase-82-99)
- - [Sora’s AI video revolution is still a ways off](https://www.theverge.com/2024/12/12/24318924/openai-sora-ai-video-generator-hands-on)
- - [Apple testing M4 MacBook Air with ultra-wide camera &amp; Center Stage support](https://appleinsider.com/articles/24/12/11/m4-macbook-air-leaked-in-macos-sequoia-152-update-regulatory-documents?utm_medium=rss)
- - [Character.AI announces more parental controls and a separate LLM for users under 18, after two US lawsuits claimed its chatbots harmed young users &lpar;Adi Robertson/The Verge&rpar;](http://www.techmeme.com/241212/p27#a241212p27)<!-- TECH:END -->
+ - [Google announces Android XR, a mixed reality OS designed for headsets and smart glasses, with plans to launch it in 2025 with Samsung&#39;s Project Moohan headset &lpar;Victoria Song/The Verge&rpar;](http://www.techmeme.com/241212/p32#a241212p32)
+ - [An interview with Evan Williams on his new app Mozi, which raised $6M and aims to foster in-person connections as a return to social media&#39;s original intention &lpar;Erin Griffith/New York Times&rpar;](http://www.techmeme.com/241212/p31#a241212p31)
+ - [BuzzFeed is selling Hot Ones](https://www.theverge.com/2024/12/12/24319564/buzzfeed-hot-ones-first-we-feast-sale)
+ - [Layer 1 blockchain project Avalanche raised $250M via a locked token sale co-led by Galaxy Digital, Dragonfly, and ParaFi, to support its Avalanche9000 upgrade &lpar;James Hunt/The Block&rpar;](http://www.techmeme.com/241212/p30#a241212p30)
+ - [Hands On With Google&#39;s Gemini-Powered Smart Glasses, Android XR, and Project Moohan Headset](https://www.wired.com/story/google-android-xr-demo-smart-glasses-mixed-reality-headset-project-moohan/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

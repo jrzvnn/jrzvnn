@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [A deep dive into AI scaling laws, including an outline of the old pre-training trends as well as the new scaling trends for post-training and inference time &lpar;SemiAnalysis&rpar;](http://www.techmeme.com/241212/p12#a241212p12)
+ - [Startup Embodied Will Brick $800 Moxie Emotional Support Robot for Kids—Without Refunds](https://www.wired.com/story/embodied-will-brick-moxie-emotional-support-robot-for-kids-without-refunds/)
+ - [Epic’s dream is starting to come true — its store will be preinstalled on ‘millions’ of Android phones](https://www.theverge.com/2024/12/12/24319206/epic-games-store-preinstall-telefonica-samsung-uk-europe-latin-america)
  - [Former Cognizant employees detail how it favored Indian H-1B workers over US staff; internal data from 2013 to 2020: ~66% of US-based employees were from India &lpar;Bloomberg&rpar;](http://www.techmeme.com/241212/p11#a241212p11)
- - [Humans Will Continue to Live in an Age of Incredible Food Waste](https://www.wired.com/story/food-production-energy-waste/)
- - [Gemini 2.0 Flash LLM early impressions: spatial reasoning performance is impressive and its new streaming API is one of those &quot;we live in the future&quot; moments &lpar;Simon Willison/Simon Willison&#39;s Weblog&rpar;](http://www.techmeme.com/241212/p10#a241212p10)
- - [Study: the US is on track to add more construction for computer and electronics manufacturing in 2024 alone than it did during the 20 years before the CHIPS Act &lpar;Michael Acton/Financial Times&rpar;](http://www.techmeme.com/241212/p9#a241212p9)
- - [Best Internet Providers in Arlington, Texas](https://www.cnet.com/home/internet/best-internet-providers-in-arlington-tx/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [If You Made Money via PayPal, Cash App or Venmo This Year, You May Get a 1099-K. Here&#39;s Why](https://www.cnet.com/personal-finance/taxes/if-you-made-money-via-paypal-cash-app-or-venmo-this-year-you-may-get-a-1099-k-heres-why/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

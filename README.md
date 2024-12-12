@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Asada.](http://9gag.com/gag/aByn9j2)
- - 😝 [I dont know why everyone is so mad about the Snow white remake, its kinda entertaining](http://9gag.com/gag/aryMPYd)
+ - 😝 [They&#39;re doing content houses now](http://9gag.com/gag/aMV419A)
+ - 😝 [Luigi Mangione, suspect in C.E.O. killing, photographed in his holding cell after being charged with murder](http://9gag.com/gag/aD2dBjd)
  - 💣 [The couch.](http://9gag.com/gag/avyA25E)
- - 😝 [Every time when I watch the movie I&#39;m terrified by the voice over.](http://9gag.com/gag/aVvxjOd)
- - 👉 [Never step on spiders. You could be stepping on a female with eggs, and they\u2019ll stick to your shoes and hatch all over your car and house.](http://9gag.com/gag/a2v1zPE)<!-- MEMES:END -->
+ - 😝 [Never step on spiders. You could be stepping on a female with eggs, and they\u2019ll stick to your shoes and hatch all over your car and house.](http://9gag.com/gag/a2v1zPE)
+ - 👉 [Stereotype reinforcement - check](http://9gag.com/gag/aGyzKK7)<!-- MEMES:END -->
 
 ---
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Luigi Mangione: `This is completely out of touch and an insult to the intelligence of the American people!\u201d](http://9gag.com/gag/aKGm4vg)
- - 😝 [Google\u2019s Willow Quantum Chip: With 105 qubits and real-time error correction, Willow solved a task in 5 minutes that would take classical supercomputers billions of years, marking a breakthrough in scalable quantum computing.](http://9gag.com/gag/ae9AoXp)
- - 💣 [When a little kid has more brains than you!](http://9gag.com/gag/a2v1EDZ)
- - 😝 [We have free electricity?](http://9gag.com/gag/ajPgQBp)
- - 👉 [Never step on spiders. You could be stepping on a female with eggs, and they\u2019ll stick to your shoes and hatch all over your car and house.](http://9gag.com/gag/a2v1zPE)<!-- MEMES:END -->
+ - 😝 [Asada.](http://9gag.com/gag/aByn9j2)
+ - 😝 [Shopping is a lot of fun!](http://9gag.com/gag/awyzNwx)
+ - 💣 [Nurse caught exposing herself to patient](http://9gag.com/gag/aKG6bDj)
+ - 😝 [Never step on spiders. You could be stepping on a female with eggs, and they\u2019ll stick to your shoes and hatch all over your car and house.](http://9gag.com/gag/a2v1zPE)
+ - 👉 [Luigi Mangione, suspect in C.E.O. killing, photographed in his holding cell after being charged with murder](http://9gag.com/gag/aD2dBjd)<!-- MEMES:END -->
 
 ---
 

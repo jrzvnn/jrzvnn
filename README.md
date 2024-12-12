@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Pokémon TCG Pocket’s next expansion drops next week](https://www.theverge.com/2024/12/12/24319498/pokemon-tcg-pocket-mythical-island-release-date)
+ - [Pokémon TCG Pocket’s new expansion drops next week](https://www.theverge.com/2024/12/12/24319498/pokemon-tcg-pocket-mythical-island-release-date)
  - [Z&amp;uuml;rich-based robotics startup Anybotics raised a $60M Series B extension, taking the round, announced in May 2023, to $110M and its total funding to $130M &lpar;Paul Sawers/TechCrunch&rpar;](http://www.techmeme.com/241212/p23#a241212p23)
- - [Current and former Netflix staff say the company has walked back its parental-leave benefits, after shifting its focus from subscriber growth to profitability &lpar;Jessica Toonkel/Wall Street Journal&rpar;](http://www.techmeme.com/241212/p22#a241212p22)
- - [17 Best Gifts for Babies and Toddlers, Editor Tested and Reviewed](https://www.wired.com/gallery/best-baby-gifts/)
- - [Is This the Year Everyone Quits Social Media?](https://www.wired.com/story/uncanny-valley-podcast-6-quitting-social-media/)<!-- TECH:END -->
+ - [Best Internet Providers in Aurora, Colorado](https://www.cnet.com/home/internet/best-internet-providers-in-aurora-co/#ftag=CAD590a51e)
+ - [Grab One of Our Favorite Mini Bluetooth Speakers for Just $50 Right Now, a Record Low](https://www.cnet.com/deals/grab-one-of-our-favorite-mini-bluetooth-speakers-for-just-50-right-now-a-record-low/#ftag=CAD590a51e)
+ - [Current and former Netflix staff say the company has walked back its parental-leave benefits, after shifting its focus from subscriber growth to profitability &lpar;Jessica Toonkel/Wall Street Journal&rpar;](http://www.techmeme.com/241212/p22#a241212p22)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [When she realized](http://9gag.com/gag/ayN95ry)
- - 😝 [Who\u2019s coming to hell with me?](http://9gag.com/gag/aryneW5)
- - 💣 [I love watching Japanese newsreaders.](http://9gag.com/gag/a4P1dXA)
+ - 😝 [What are those?](http://9gag.com/gag/aYQrpWO)
+ - 😝 [Princess red lobster](http://9gag.com/gag/aAyGVoE)
+ - 💣 [Who\u2019s coming to hell with me?](http://9gag.com/gag/aryneW5)
  - 😝 [Look up! It&#39;s shooting stars and beats \ud83c\udf0c\ud83c\udfb5](http://9gag.com/gag/a9y17LZ)
- - 👉 [If it works](http://9gag.com/gag/a2v1qrp)<!-- MEMES:END -->
+ - 👉 [Dude thought he bought a TV, but it turned out to be a Popeyes digital menu board.](http://9gag.com/gag/ae9gGmb)<!-- MEMES:END -->
 
 ---
 

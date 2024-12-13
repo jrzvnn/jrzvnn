@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [No, the US Military Can&#39;t Just Shoot Down the Mystery Drones](https://www.wired.com/story/us-military-mystery-drones-response/)
+ - [Lenovo might soon announce a SteamOS handheld](https://www.theverge.com/2024/12/13/24320477/lenovo-legion-go-s-steamos-handheld-gaming-pc-rumors)
+ - [How Anthropic&#39;s Claude became the chatbot of choice for AI industry insiders, who say its responses feel more creative and empathetic and less gratingly robotic &lpar;Kevin Roose/New York Times&rpar;](http://www.techmeme.com/241213/p18#a241213p18)
  - [9 Best Online Photo Printing Services That We Tested &lpar;2024&rpar;](https://www.wired.com/story/best-photo-printing-services/)
- - [Google rolls out NotebookLM Plus, the enterprise version of NotebookLM with added controls for access and data management, as part of Agentspace &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/241213/p17#a241213p17)
- - [Google Cloud launches Agentspace to let enterprises create and deploy AI agents for marketing, HR, software development, and more &lpar;Larry Dignan/Constellation Research&rpar;](http://www.techmeme.com/241213/p16#a241213p16)
- - [Google rolls out interactive Audio Overviews in NotebookLM, an &quot;experimental feature&quot; that lets users talk to the AI &quot;hosts&quot; of the overviews &lpar;Jay Peters/The Verge&rpar;](http://www.techmeme.com/241213/p15#a241213p15)
- - [OpenAI says the three hour ChatGPT outage on Wednesday was caused by a telemetry service it deployed to collect Kubernetes metrics &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/241213/p14#a241213p14)<!-- TECH:END -->
+ - [Google rolls out NotebookLM Plus, the enterprise version of NotebookLM with added controls for access and data management, as part of Agentspace &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/241213/p17#a241213p17)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

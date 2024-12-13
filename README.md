@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Sources: Apple will begin producing AirPods in India for the first time around Q1, 2025; a Foxconn unit is already making AirPods on a trial basis in Hyderabad &lpar;Bloomberg&rpar;](http://www.techmeme.com/241213/p4#a241213p4)
  - [What Billionaire Frank McCourt Would Actually Do With TikTok](https://www.wired.com/story/frank-mccourt-tiktok-bid/)
  - [China plans to set up a committee of 41 members, including representatives from Baidu and Peking University, to set standards for LLMs and AI risk assessment &lpar;Reuters&rpar;](http://www.techmeme.com/241213/p3#a241213p3)
  - [23 Gifts for Dads Who Don&#39;t Need Anything &lpar;2024&rpar;](https://www.wired.com/gallery/gifts-to-give-dads/)
- - [As the Mastermind of Far-Right ‘Active Clubs’ Goes to Prison, His Violent Movement Goes Global](https://www.wired.com/story/robert-rundo-sentencing-active-clubs/)
- - [How US SMB owners, celebrities, and retailers on TikTok are using livestreaming to boost their sales one year after TikTok Shop&#39;s launch in the country &lpar;Andrea Chang/Los Angeles Times&rpar;](http://www.techmeme.com/241213/p2#a241213p2)<!-- TECH:END -->
+ - [Lock In a High APY While You Still Can. Today&#39;s CD Rates, Dec. 13, 2024](https://www.cnet.com/personal-finance/banking/lock-in-a-high-apy-while-you-still-can-todays-cd-rates-dec-13-2024/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Texas sues New York doctor for prescribing abortion pills via telemedicine](https://www.theverge.com/2024/12/13/24320748/texas-lawsuit-telemedicine-abortion-doctor-new-york)
+ - [A Gemini-boosted Google Assistant is now available on some Nest speakers](https://www.theverge.com/2024/12/13/24320673/gemini-google-assistant-available-nest-smart-speakers)
+ - [Tips for ChatGPT’s Voice Mode? Best AI Uses for Retirees? Our Expert Answers Your Questions](https://www.wired.com/story/subscriber-only-livestream-with-reece-rogers-ai-unlocked-2/)
  - [The best Nintendo Switch controllers to buy right now](https://www.theverge.com/23350899/nintendo-switch-controllers-best-wireless-joy-con-gamepad)
- - [The US DOJ indicts 14 North Korean nationals for allegedly earning $88M+ through fraud by working as remote IT workers for US companies from 2017 to 2023 &lpar;Jonathan Greig/The Record&rpar;](http://www.techmeme.com/241213/p27#a241213p27)
- - [Apple’s AI summary mangled a BBC headline about Luigi Mangione](https://www.theverge.com/2024/12/13/24320689/apple-intelligence-summary-bbc-news-unitedhealthcare-luigi-mangione)
- - [The BBC complains to Apple after Apple Intelligence&#39;s notification summary falsely suggested the BBC had published an article saying Luigi Mangione shot himself &lpar;Graham Fraser/BBC&rpar;](http://www.techmeme.com/241213/p26#a241213p26)
- - [The Nintendo Switch 2, as described by Dbrand](https://www.theverge.com/2024/12/13/24320659/nintendo-switch-2-dbrand-killswitch)<!-- TECH:END -->
+ - [The US DOJ indicts 14 North Korean nationals for allegedly earning $88M+ through fraud by working as remote IT workers for US companies from 2017 to 2023 &lpar;Jonathan Greig/The Record&rpar;](http://www.techmeme.com/241213/p27#a241213p27)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

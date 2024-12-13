@@ -166,9 +166,9 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [What are those?](http://9gag.com/gag/aYQrpWO)
- - 😝 [Princess red lobster](http://9gag.com/gag/aAyGVoE)
- - 💣 [Who\u2019s coming to hell with me?](http://9gag.com/gag/aryneW5)
+ - 😝 [My spine is broken now!](http://9gag.com/gag/aPAZDQQ)
+ - 😝 [Standup by Andy Huggins](http://9gag.com/gag/aD2DoVw)
+ - 💣 [Be simpler](http://9gag.com/gag/axyBjvb)
  - 😝 [Look up! It&#39;s shooting stars and beats \ud83c\udf0c\ud83c\udfb5](http://9gag.com/gag/a9y17LZ)
  - 👉 [Dude thought he bought a TV, but it turned out to be a Popeyes digital menu board.](http://9gag.com/gag/ae9gGmb)<!-- MEMES:END -->
 

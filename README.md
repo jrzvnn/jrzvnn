@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Human Misuse Will Make Artificial Intelligence More Dangerous](https://www.wired.com/story/human-misuse-will-make-artificial-intelligence-more-dangerous/)
+ - [Apple MacBook Pro &lpar;M4 Pro and Max&rpar; review: still on top](https://www.theverge.com/24319419/apple-macbook-pro-m4-max-pro-review-price-specs)
  - [Searching for the first great AI app](https://www.theverge.com/2024/12/13/24320342/ai-killer-app-gemini-chatgpt-vergecast)
  - [iPhone 17 Slim specs will be an enormous engineering &amp; supply chain challenge](https://appleinsider.com/articles/24/12/13/iphone-17-slim-specs-will-be-an-enormous-engineering-supply-chain-challenge?utm_medium=rss)
- - [Apple Intelligence in iOS 18.2 &amp; Apple Vision Pro is the gadget of the year on the AppleInsider Podcast](https://appleinsider.com/articles/24/12/13/apple-intelligence-in-ios-182-apple-vision-pro-is-the-gadget-of-the-year-on-the-appleinsider-podcast?utm_medium=rss)
- - [Use Android’s Built-In Settings to Cut Your Phone Usage Time in Half](https://www.wired.com/story/use-androids-built-in-settings-to-cut-your-phone-usage-time-in-half/)
- - [The UK CMA opens a formal probe into BlackRock&#39;s acquisition of UK data provider Preqin over concerns that the &amp;pound;2.55B deal could stifle competition in the UK &lpar;Mauro Orru/Wall Street Journal&rpar;](http://www.techmeme.com/241213/p7#a241213p7)<!-- TECH:END -->
+ - [Apple Intelligence in iOS 18.2 &amp; Apple Vision Pro is the gadget of the year on the AppleInsider Podcast](https://appleinsider.com/articles/24/12/13/apple-intelligence-in-ios-182-apple-vision-pro-is-the-gadget-of-the-year-on-the-appleinsider-podcast?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -166,9 +166,9 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Death switches](http://9gag.com/gag/apRgqX8)
- - 😝 [They&#39;re the same picture](http://9gag.com/gag/aYQrW5v)
- - 💣 [What are those?](http://9gag.com/gag/aYQrpWO)
+ - 😝 [Who\u2019s coming to hell with me?](http://9gag.com/gag/aryneW5)
+ - 😝 [Seriously?](http://9gag.com/gag/aLnvRov)
+ - 💣 [Get screwed](http://9gag.com/gag/aVvxzgO)
  - 😝 [Mosquito Repellent Smoke Grenade](http://9gag.com/gag/abAgqzX)
  - 👉 [An Indian Congress MP Ranuka made her maid stand behind her child for hours while eating 5 star food. And to do that in a public place without fear of backlash is just proving why people hate Indians.](http://9gag.com/gag/aRBrgNG)<!-- MEMES:END -->
 

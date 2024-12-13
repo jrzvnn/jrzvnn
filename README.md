@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Mac representation at Game Awards caps off a good year for macOS gaming](https://appleinsider.com/articles/24/12/13/mac-representation-at-game-awards-caps-off-a-good-year-for-macos-gaming?utm_medium=rss)
+ - [Report: Apple will stop selling iPhone SE and iPhone 14 series at the year&#39;s end in the EU, as the USB-C universal charging connector deadline comes into effect &lpar;Benjamin Mayo/9to5Mac&rpar;](http://www.techmeme.com/241213/p22#a241213p22)
+ - [Best Cheap TV Deals: Save Up to $180 on Top TVs From Amazon, LG and More](https://www.cnet.com/deals/best-cheap-tv-deals/#ftag=CAD590a51e)
  - [Former ByteDance Intern Accused of Sabotage Among Winners of Prestigious AI Award](https://www.wired.com/story/bytedance-intern-best-paper-neurips/)
- - [Trump is probably going to kill the crash reporting rule that made Tesla look bad](https://www.theverge.com/2024/12/13/24320515/trump-tesla-crash-reporting-adas-nhtsa-sgo)
- - [Klarna CEO Sebastian Siemiatkowski says Klarna&#39;s investment in AI let it stop hiring a year ago and its headcount fell 22% to 3,500, mostly due to attrition &lpar;Bloomberg&rpar;](http://www.techmeme.com/241213/p21#a241213p21)
- - [EVgo nabs $1.25 billion loan as Biden races to approve more EV spending](https://www.theverge.com/2024/12/13/24320443/evgo-doe-loan-biden-ev-charging-money-trump)
- - [This Is the Only Correct Way to Clean Your Toaster Inside Out](https://www.cnet.com/home/kitchen-and-household/the-correct-way-to-clean-your-toaster-inside-and-out/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Tired of Night Sweats? Uncover the Cause and Cool Down With Our 4 Tips](https://www.cnet.com/health/sleep/tired-of-night-sweats-uncover-the-cause-and-cool-down-with-our-4-tips/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [9 Best Online Photo Printing Services That We Tested &lpar;2024&rpar;](https://www.wired.com/story/best-photo-printing-services/)
+ - [Google rolls out NotebookLM Plus, the enterprise version of NotebookLM with added controls for access and data management, as part of Agentspace &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/241213/p17#a241213p17)
+ - [Google Cloud launches Agentspace to let enterprises create and deploy AI agents for marketing, HR, software development, and more &lpar;Larry Dignan/Constellation Research&rpar;](http://www.techmeme.com/241213/p16#a241213p16)
  - [Google rolls out interactive Audio Overviews in NotebookLM, an &quot;experimental feature&quot; that lets users talk to the AI &quot;hosts&quot; of the overviews &lpar;Jay Peters/The Verge&rpar;](http://www.techmeme.com/241213/p15#a241213p15)
- - [OpenAI says the three hour ChatGPT outage on Wednesday was caused by a telemetry service it deployed to collect Kubernetes metrics &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/241213/p14#a241213p14)
- - [A Texas man gets a two-year sentence for underreporting capital gains from selling $3.7M in bitcoin, the first such prosecution based entirely on cryptocurrency &lpar;Adam James/The Block&rpar;](http://www.techmeme.com/241213/p13#a241213p13)
- - [Kraven the Hunter is the flimsiest strand in Sony’s spider-free web](https://www.theverge.com/2024/12/13/24318825/kraven-the-hunter-review)
- - [Google’s NotebookLM AI podcast hosts can now talk to you, too](https://www.theverge.com/2024/12/13/24318099/google-notebooklm-audio-overviews-talk-plus)<!-- TECH:END -->
+ - [OpenAI says the three hour ChatGPT outage on Wednesday was caused by a telemetry service it deployed to collect Kubernetes metrics &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/241213/p14#a241213p14)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

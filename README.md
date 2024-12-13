@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [The power of the Prince Rupert drop](http://9gag.com/gag/aGyz9AK)
- - 😝 [Princess red lobster](http://9gag.com/gag/aAyGVoE)
- - 💣 [An Indian Congress MP Ranuka made her maid stand behind her child for hours while eating 5 star food. And to do that in a public place without fear of backlash is just proving why people hate Indians.](http://9gag.com/gag/aRBrgNG)
- - 😝 [Why did she do it?](http://9gag.com/gag/a6Z1yVq)
- - 👉 [Man is high as a kite](http://9gag.com/gag/a9y1bBK)<!-- MEMES:END -->
+ - 😝 [See the problem](http://9gag.com/gag/a7o1b7L)
+ - 😝 [Growing up in the 80&#39;s, we all tried to dance like MJ, we mimicked his moves and we looked stupid. then forgot all about it, not gonna start now, just the nostalgia is enough.](http://9gag.com/gag/aD2Dwrw)
+ - 💣 [I&#39;m sorry but what did you expect?](http://9gag.com/gag/aW4gWyq)
+ - 😝 [The votes are in, the people want the CEO of Nestle to be murdered next](http://9gag.com/gag/aKGmBj3)
+ - 👉 [Dad: `Back in the day, we had no bridges!`](http://9gag.com/gag/aoyg0vn)<!-- MEMES:END -->
 
 ---
 

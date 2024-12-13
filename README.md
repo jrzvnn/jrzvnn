@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Why did she do it?](http://9gag.com/gag/a6Z1yVq)
+ - 😝 [What are those?](http://9gag.com/gag/aYQrpWO)
  - 😝 [Who\u2019s coming to hell with me?](http://9gag.com/gag/aryneW5)
  - 💣 [Mosquito Repellent Smoke Grenade](http://9gag.com/gag/abAgqzX)
- - 😝 [When she realized](http://9gag.com/gag/ayN95ry)
- - 👉 [Family video](http://9gag.com/gag/a5Q1PMO)<!-- MEMES:END -->
+ - 😝 [If it works](http://9gag.com/gag/a2v1qrp)
+ - 👉 [I love watching Japanese newsreaders.](http://9gag.com/gag/a4P1dXA)<!-- MEMES:END -->
 
 ---
 

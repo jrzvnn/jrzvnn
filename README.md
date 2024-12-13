@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [My spine is broken now!](http://9gag.com/gag/aPAZDQQ)
- - 😝 [Dad: `Back in the day, we had no bridges!`](http://9gag.com/gag/aoyg0vn)
- - 💣 [Standup by Andy Huggins](http://9gag.com/gag/aD2DoVw)
+ - 😝 [When she realized](http://9gag.com/gag/ayN95ry)
+ - 😝 [Who\u2019s coming to hell with me?](http://9gag.com/gag/aryneW5)
+ - 💣 [I love watching Japanese newsreaders.](http://9gag.com/gag/a4P1dXA)
  - 😝 [Look up! It&#39;s shooting stars and beats \ud83c\udf0c\ud83c\udfb5](http://9gag.com/gag/a9y17LZ)
- - 👉 [Be simpler](http://9gag.com/gag/axyBjvb)<!-- MEMES:END -->
+ - 👉 [If it works](http://9gag.com/gag/a2v1qrp)<!-- MEMES:END -->
 
 ---
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Use Android’s Built-In Settings to Cut Your Phone Usage Time in Half](https://www.wired.com/story/use-androids-built-in-settings-to-cut-your-phone-usage-time-in-half/)
+ - [The UK CMA opens a formal probe into BlackRock&#39;s acquisition of UK data provider Preqin over concerns that the &amp;pound;2.55B deal could stifle competition in the UK &lpar;Mauro Orru/Wall Street Journal&rpar;](http://www.techmeme.com/241213/p7#a241213p7)
+ - [8 Best Baby Carriers &lpar;2024&rpar;: Wraps, Slings, and Packs](https://www.wired.com/gallery/best-baby-carriers/)
  - [The UnitedHealthcare shooter got exactly what he wanted](https://www.theverge.com/2024/12/13/24319728/unitedhealthcare-luigi-mangione-brian-thompson-reaction)
- - [A look at Anthropic&#39;s Clio, an internal AI tool to identify new threats, disrupt coordinated abuse of the company&#39;s systems, and generate Claude usage insights &lpar;Casey Newton/Platformer&rpar;](http://www.techmeme.com/241213/p6#a241213p6)
- - [Microsoft kills off Skype credits and phone numbers in favor of subscriptions](https://www.theverge.com/2024/12/13/24320322/skype-credit-number-discontinued-microsoft)
- - [Apple looking at expanding AirPods manufacture to India to help avoid tariffs](https://appleinsider.com/articles/24/12/13/apple-looking-at-expanding-airpods-manufacture-to-india-to-help-avoid-tariffs?utm_medium=rss)
- - [Wayve&#39;s AI Self-Driving System Is Here to Drive Like a Human and Take On Waymo and Tesla](https://www.wired.com/story/wayves-ai-self-driving-system-is-here-to-drive-like-a-human-and-take-on-waymo-and-tesla/)<!-- TECH:END -->
+ - [A look at Anthropic&#39;s Clio, an internal AI tool to identify new threats, disrupt coordinated abuse of the company&#39;s systems, and generate Claude usage insights &lpar;Casey Newton/Platformer&rpar;](http://www.techmeme.com/241213/p6#a241213p6)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

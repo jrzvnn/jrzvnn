@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [See the problem](http://9gag.com/gag/a7o1b7L)
- - 😝 [He said what?!](http://9gag.com/gag/a4P1L1p)
- - 💣 [Growing up in the 80&#39;s, we all tried to dance like MJ, we mimicked his moves and we looked stupid. then forgot all about it, not gonna start now, just the nostalgia is enough.](http://9gag.com/gag/aD2Dwrw)
- - 😝 [The votes are in, the people want the CEO of Nestle to be murdered next](http://9gag.com/gag/aKGmBj3)
- - 👉 [I&#39;m sorry but what did you expect?](http://9gag.com/gag/aW4gWyq)<!-- MEMES:END -->
+ - 😝 [When she realized](http://9gag.com/gag/ayN95ry)
+ - 😝 [What are those?](http://9gag.com/gag/aYQrpWO)
+ - 💣 [If it works](http://9gag.com/gag/a2v1qrp)
+ - 😝 [I love watching Japanese newsreaders.](http://9gag.com/gag/a4P1dXA)
+ - 👉 [Hello Kate Moss, would you like some candy in your refreshment? Imma put some candy in your refreshment.](http://9gag.com/gag/a5Q1dVN)<!-- MEMES:END -->
 
 ---
 

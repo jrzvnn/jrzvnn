@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Apple’s AI summary mangled a BBC headline about Luigi Mangione](https://www.theverge.com/2024/12/13/24320689/apple-intelligence-summary-bbc-news-unitedhealthcare-luigi-mangione)
  - [The BBC complains to Apple after Apple Intelligence&#39;s notification summary falsely made it appear BBC published an article saying Luigi Mangione shot himself &lpar;Graham Fraser/BBC&rpar;](http://www.techmeme.com/241213/p26#a241213p26)
  - [The Nintendo Switch 2, as described by Dbrand](https://www.theverge.com/2024/12/13/24320659/nintendo-switch-2-dbrand-killswitch)
  - [Sources: Walmart is leading a funding round of $300M+ alongside Ribbit for Walmart&#39;s fintech venture, One, giving it a pre-money valuation of $2.5B &lpar;Bloomberg&rpar;](http://www.techmeme.com/241213/p25#a241213p25)
- - [Ring Up This Deal for $250 Off a New OnePlus 12 Phone](https://www.cnet.com/deals/ring-up-deal-250-off-new-oneplus-12-phone/#ftag=CAD590a51e)
- - [Best Internet Providers in Cheektowaga, New York](https://www.cnet.com/home/internet/best-internet-providers-in-cheektowaga-ny/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Ring Up This Deal for $250 Off a New OnePlus 12 Phone](https://www.cnet.com/deals/ring-up-deal-250-off-new-oneplus-12-phone/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

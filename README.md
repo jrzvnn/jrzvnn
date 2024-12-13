@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [If it works](http://9gag.com/gag/a2v1qrp)
  - 😝 [Seriously?](http://9gag.com/gag/aLnvRov)
- - 💣 [Who\u2019s coming to hell with me?](http://9gag.com/gag/aryneW5)
- - 😝 [An Indian Congress MP Ranuka made her maid stand behind her child for hours while eating 5 star food. And to do that in a public place without fear of backlash is just proving why people hate Indians.](http://9gag.com/gag/aRBrgNG)
- - 👉 [Mosquito Repellent Smoke Grenade](http://9gag.com/gag/abAgqzX)<!-- MEMES:END -->
+ - 😝 [I love watching Japanese newsreaders.](http://9gag.com/gag/a4P1dXA)
+ - 💣 [If it works](http://9gag.com/gag/a2v1qrp)
+ - 😝 [Nancy Parker, fired from her job and didn&#39;t get the reward money because she called 911 directly instead of the Crime Stoppers hotline](http://9gag.com/gag/ae9g0O5)
+ - 👉 [An Indian Congress MP Ranuka made her maid stand behind her child for hours while eating 5 star food. And to do that in a public place without fear of backlash is just proving why people hate Indians.](http://9gag.com/gag/aRBrgNG)<!-- MEMES:END -->
 
 ---
 

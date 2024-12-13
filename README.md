@@ -166,8 +166,8 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Who\u2019s coming to hell with me?](http://9gag.com/gag/aryneW5)
  - 😝 [Seriously?](http://9gag.com/gag/aLnvRov)
+ - 😝 [Hello Kate Moss, would you like some candy in your refreshment? Imma put some candy in your refreshment.](http://9gag.com/gag/a5Q1dVN)
  - 💣 [If it works](http://9gag.com/gag/a2v1qrp)
  - 😝 [An Indian Congress MP Ranuka made her maid stand behind her child for hours while eating 5 star food. And to do that in a public place without fear of backlash is just proving why people hate Indians.](http://9gag.com/gag/aRBrgNG)
  - 👉 [What are those?](http://9gag.com/gag/aYQrpWO)<!-- MEMES:END -->

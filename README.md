@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [When she realized](http://9gag.com/gag/ayN95ry)
  - 😝 [Hello Kate Moss, would you like some candy in your refreshment? Imma put some candy in your refreshment.](http://9gag.com/gag/a5Q1dVN)
- - 😝 [Princess red lobster](http://9gag.com/gag/aAyGVoE)
- - 💣 [If it works](http://9gag.com/gag/a2v1qrp)
- - 😝 [I&#39;m sorry but what did you expect?](http://9gag.com/gag/aW4gWyq)
- - 👉 [Who\u2019s coming to hell with me?](http://9gag.com/gag/aryneW5)<!-- MEMES:END -->
+ - 💣 [Seriously?](http://9gag.com/gag/aLnvRov)
+ - 😝 [Who\u2019s coming to hell with me?](http://9gag.com/gag/aryneW5)
+ - 👉 [I love watching Japanese newsreaders.](http://9gag.com/gag/a4P1dXA)<!-- MEMES:END -->
 
 ---
 

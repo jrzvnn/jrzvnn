@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [See the problem](http://9gag.com/gag/a7o1b7L)
- - 😝 [Growing up in the 80&#39;s, we all tried to dance like MJ, we mimicked his moves and we looked stupid. then forgot all about it, not gonna start now, just the nostalgia is enough.](http://9gag.com/gag/aD2Dwrw)
- - 💣 [I&#39;m sorry but what did you expect?](http://9gag.com/gag/aW4gWyq)
- - 😝 [The votes are in, the people want the CEO of Nestle to be murdered next](http://9gag.com/gag/aKGmBj3)
- - 👉 [Dad: `Back in the day, we had no bridges!`](http://9gag.com/gag/aoyg0vn)<!-- MEMES:END -->
+ - 😝 [Death switches](http://9gag.com/gag/apRgqX8)
+ - 😝 [They&#39;re the same picture](http://9gag.com/gag/aYQrW5v)
+ - 💣 [What are those?](http://9gag.com/gag/aYQrpWO)
+ - 😝 [Mosquito Repellent Smoke Grenade](http://9gag.com/gag/abAgqzX)
+ - 👉 [An Indian Congress MP Ranuka made her maid stand behind her child for hours while eating 5 star food. And to do that in a public place without fear of backlash is just proving why people hate Indians.](http://9gag.com/gag/aRBrgNG)<!-- MEMES:END -->
 
 ---
 

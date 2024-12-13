@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [I love watching Japanese newsreaders.](http://9gag.com/gag/a4P1dXA)
  - 😝 [My spine is broken now!](http://9gag.com/gag/aPAZDQQ)
- - 💣 [Dude thought he bought a TV, but it turned out to be a Popeyes digital menu board.](http://9gag.com/gag/ae9gGmb)
+ - 😝 [Dude thought he bought a TV, but it turned out to be a Popeyes digital menu board.](http://9gag.com/gag/ae9gGmb)
+ - 💣 [Deleted once.....?](http://9gag.com/gag/aNDPK64)
  - 😝 [Look up! It&#39;s shooting stars and beats \ud83c\udf0c\ud83c\udfb5](http://9gag.com/gag/a9y17LZ)
- - 👉 [Deleted once.....?](http://9gag.com/gag/aNDPK64)<!-- MEMES:END -->
+ - 👉 [I love watching Japanese newsreaders.](http://9gag.com/gag/a4P1dXA)<!-- MEMES:END -->
 
 ---
 

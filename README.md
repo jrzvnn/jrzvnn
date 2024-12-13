@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The Verge’s 2024 holiday gift guide](https://www.theverge.com/24224043/holiday-gift-guide-2024-best-ideas-unique-tech-gadgets)
+ - [Shutterstock launches a &quot;research license&quot; for AI companies, starting with Lightricks, which will train its video model LTXV on Shutterstock&#39;s video library &lpar;Michael Nu&amp;ntilde;ez/VentureBeat&rpar;](http://www.techmeme.com/241213/p28#a241213p28)
  - [The long-shot plan to save TikTok from a US ban](https://www.theverge.com/2024/12/13/24320722/frank-mccourt-project-liberty-tiktok-us-ban-bytedance)
  - [ChatGPT Projects are fancy folders for your AI chats](https://www.theverge.com/2024/12/13/24320800/openai-chatgpt-projects-folders-ai-chats)
- - [Peak Design denies snitching on Luigi Mangione](https://www.theverge.com/2024/12/13/24320785/peak-design-everyday-backpack-serial-number-united-healthcare-ceo-shooting)
- - [Avapow Jump Starter](https://www.cnet.com/roadshow/news/avapow-jump-starter-dpnl/#ftag=CAD590a51e)
- - [Hair Dryer Brush Set](https://www.cnet.com/culture/fashion/hair-dryer-brush-set/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Peak Design denies snitching on Luigi Mangione](https://www.theverge.com/2024/12/13/24320785/peak-design-everyday-backpack-serial-number-united-healthcare-ceo-shooting)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

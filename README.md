@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Why did she do it?](http://9gag.com/gag/a6Z1yVq)
- - 😝 [If it works](http://9gag.com/gag/a2v1qrp)
- - 💣 [Who\u2019s coming to hell with me?](http://9gag.com/gag/aryneW5)
+ - 😝 [Hello Kate Moss, would you like some candy in your refreshment? Imma put some candy in your refreshment.](http://9gag.com/gag/a5Q1dVN)
  - 😝 [Princess red lobster](http://9gag.com/gag/aAyGVoE)
- - 👉 [What are those?](http://9gag.com/gag/aYQrpWO)<!-- MEMES:END -->
+ - 💣 [If it works](http://9gag.com/gag/a2v1qrp)
+ - 😝 [I&#39;m sorry but what did you expect?](http://9gag.com/gag/aW4gWyq)
+ - 👉 [Who\u2019s coming to hell with me?](http://9gag.com/gag/aryneW5)<!-- MEMES:END -->
 
 ---
 

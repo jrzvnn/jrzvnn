@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Amazon is shipping the Kindle Colorsoft again, but it’s unclear if it’s fixed](https://www.theverge.com/2024/12/13/24320614/amazon-kindle-colorsoft-shipping-yellow-band-display-e-reader)
- - [BBC cries foul over Apple Intelligence headline notification summarizations](https://appleinsider.com/articles/24/12/13/bbc-cries-foul-over-apple-intelligence-headline-notification-summarizations?utm_medium=rss)
- - [Sources: the US is preparing rules restricting the sale of GPUs to some countries in Southeast Asia and the Middle East, to limit China&#39;s ability to access them &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/241213/p24#a241213p24)
- - [Sonos Arc Ultra review: The best Dolby Atmos soundbar just got better](https://appleinsider.com/articles/24/12/13/sonos-arc-ultra-review-the-best-dolby-atmos-soundbar-just-got-better?utm_medium=rss)
- - [Some Educated Guesses About Trump’s Second Term](https://www.wired.com/story/politics-lab-donald-trump-second-presidential-term/)<!-- TECH:END -->
+ - [The Nintendo Switch 2, as described by Dbrand](https://www.theverge.com/2024/12/13/24320659/nintendo-switch-2-dbrand-killswitch)
+ - [Sources: Walmart is leading a funding round of $300M+ alongside Ribbit for Walmart&#39;s fintech venture, One, giving it a pre-money valuation of $2.5B &lpar;Bloomberg&rpar;](http://www.techmeme.com/241213/p25#a241213p25)
+ - [Ring Up This Deal for $250 Off a New OnePlus 12 Phone](https://www.cnet.com/deals/ring-up-deal-250-off-new-oneplus-12-phone/#ftag=CAD590a51e)
+ - [Best Internet Providers in Cheektowaga, New York](https://www.cnet.com/home/internet/best-internet-providers-in-cheektowaga-ny/#ftag=CAD590a51e)
+ - [Amazon is shipping the Kindle Colorsoft again, but it’s unclear if it’s fixed](https://www.theverge.com/2024/12/13/24320614/amazon-kindle-colorsoft-shipping-yellow-band-display-e-reader)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

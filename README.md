@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Tumblr adds Reddit-like ‘communities’](https://www.theverge.com/2024/12/13/24320336/tumblr-communities-reddit-topics-groups)
+ - [Source: Sam Altman plans on making a personal commitment of $1M to Trump&#39;s Presidential Inaugural Committee, as opposed to a gift from OpenAI &lpar;Kristen Altus/Fox Business&rpar;](http://www.techmeme.com/241213/p9#a241213p9)
+ - [Musk says the SEC sent him a &quot;settlement demand&quot; after Twitter buyout probe, asking him to agree to a fine within 48 hours or &quot;face charges on numerous counts&quot; &lpar;Elizabeth Lopatto/The Verge&rpar;](http://www.techmeme.com/241213/p8#a241213p8)
  - [Human Misuse Will Make Artificial Intelligence More Dangerous](https://www.wired.com/story/human-misuse-will-make-artificial-intelligence-more-dangerous/)
- - [Apple MacBook Pro &lpar;M4 Pro and Max&rpar; review: still on top](https://www.theverge.com/24319419/apple-macbook-pro-m4-max-pro-review-price-specs)
- - [Searching for the first great AI app](https://www.theverge.com/2024/12/13/24320342/ai-killer-app-gemini-chatgpt-vergecast)
- - [iPhone 17 Slim specs will be an enormous engineering &amp; supply chain challenge](https://appleinsider.com/articles/24/12/13/iphone-17-slim-specs-will-be-an-enormous-engineering-supply-chain-challenge?utm_medium=rss)
- - [Apple Intelligence in iOS 18.2 &amp; Apple Vision Pro is the gadget of the year on the AppleInsider Podcast](https://appleinsider.com/articles/24/12/13/apple-intelligence-in-ios-182-apple-vision-pro-is-the-gadget-of-the-year-on-the-appleinsider-podcast?utm_medium=rss)<!-- TECH:END -->
+ - [Apple MacBook Pro &lpar;M4 Pro and Max&rpar; review: still on top](https://www.theverge.com/24319419/apple-macbook-pro-m4-max-pro-review-price-specs)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

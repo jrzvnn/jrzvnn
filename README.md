@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [As the Mastermind of Far-Right ‘Active Clubs’ Goes to Prison, His Violent Movement Goes Global](https://www.wired.com/story/robert-rundo-sentencing-active-clubs/)
  - [How US SMB owners, celebrities, and retailers on TikTok are using livestreaming to boost their sales one year after TikTok Shop&#39;s launch in the country &lpar;Andrea Chang/Los Angeles Times&rpar;](http://www.techmeme.com/241213/p2#a241213p2)
  - [Here&#39;s How Trump Will Affect the Housing Market in 2025: A Realtor&#39;s Perspective](https://www.cnet.com/personal-finance/heres-how-trump-will-affect-the-housing-market-in-2025-a-realtors-perspective/#ftag=CAD590a51e)
  - [Logitech Promo Code: Exclusive 10% Off in December 2024](https://www.wired.com/story/logitech-promo-code/)
- - [Western Digital Promo Code: 10% Off in December](https://www.wired.com/story/western-digital-promo-code/)
- - [Sources detail Anthropic and OpenAI&#39;s rivalry: OpenAI boosted ChatGPT&#39;s coding skills in response to Claude, Anthropic&#39;s safety focus, exec bad blood, and more &lpar;The Information&rpar;](http://www.techmeme.com/241213/p1#a241213p1)<!-- TECH:END -->
+ - [Western Digital Promo Code: 10% Off in December](https://www.wired.com/story/western-digital-promo-code/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

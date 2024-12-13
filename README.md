@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [China plans to set up a committee of 41 members, including representatives from Baidu and Peking University, to set standards for LLMs and AI risk assessment &lpar;Reuters&rpar;](http://www.techmeme.com/241213/p3#a241213p3)
  - [23 Gifts for Dads Who Don&#39;t Need Anything &lpar;2024&rpar;](https://www.wired.com/gallery/gifts-to-give-dads/)
- - [As the Mastermind of Far-Right ‘Active Clubs’ Goes to Prison, His Violent Movement Goes Global](https://www.wired.com/story/robert-rundo-sentencing-active-clubs/)
- - [How US SMB owners, celebrities, and retailers on TikTok are using livestreaming to boost their sales one year after TikTok Shop&#39;s launch in the country &lpar;Andrea Chang/Los Angeles Times&rpar;](http://www.techmeme.com/241213/p2#a241213p2)
- - [Here&#39;s How Trump Will Affect the Housing Market in 2025: A Realtor&#39;s Perspective](https://www.cnet.com/personal-finance/heres-how-trump-will-affect-the-housing-market-in-2025-a-realtors-perspective/#ftag=CAD590a51e)
- - [Logitech Promo Code: Exclusive 10% Off in December 2024](https://www.wired.com/story/logitech-promo-code/)<!-- TECH:END -->
+ - [Lock In a High APY While You Still Can. Today&#39;s CD Rates, Dec. 13, 2024](https://www.cnet.com/personal-finance/banking/lock-in-a-high-apy-while-you-still-can-todays-cd-rates-dec-13-2024/#ftag=CAD590a51e)
+ - [Tesla Powerwall: This Is the Real Cost of Going Off-Grid](https://www.cnet.com/home/energy-and-utilities/tesla-powerwall-cost/#ftag=CAD590a51e)
+ - [We Found All-Time Low AirPods Max Pricing, but the Deal Won&#39;t Last for Long](https://www.cnet.com/deals/we-found-all-time-low-airpods-max-pricing-but-the-deal-wont-last-for-long/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

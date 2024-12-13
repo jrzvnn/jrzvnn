@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Blacksky Is Nothing Like Black Twitter—and It Doesn’t Need to Be](https://www.wired.com/story/blacksky-is-nothing-like-black-twitter/)
- - [Sources: Apple will begin producing AirPods in India for the first time around Q1, 2025; a Foxconn unit is already making AirPods on a trial basis in Hyderabad &lpar;Bloomberg&rpar;](http://www.techmeme.com/241213/p4#a241213p4)
- - [What Billionaire Frank McCourt Would Actually Do With TikTok](https://www.wired.com/story/frank-mccourt-tiktok-bid/)
- - [China plans to set up a committee of 41 members, including representatives from Baidu and Peking University, to set standards for LLMs and AI risk assessment &lpar;Reuters&rpar;](http://www.techmeme.com/241213/p3#a241213p3)
- - [23 Gifts for Dads Who Don&#39;t Need Anything &lpar;2024&rpar;](https://www.wired.com/gallery/gifts-to-give-dads/)<!-- TECH:END -->
+ - [Intel executives hint at potential manufacturing spinoff](https://www.theverge.com/2024/12/13/24320305/intel-manufacturing-spinoff-hints-execs)
+ - [No One Needs a Luigi Mangione Show](https://www.wired.com/story/no-one-needs-a-luigi-mangione-show/)
+ - [Sources: the UK&#39;s AI Safety Institute delays plans for its US outpost as it faces Trump&#39;s &quot;starkly&quot; different AI regulation approach; the AISI has a &amp;pound;50M budget &lpar;Financial Times&rpar;](http://www.techmeme.com/241213/p5#a241213p5)
+ - [Refi Rates Dip Since Last Week: Current Refinance Rates on Dec. 13, 2024](https://www.cnet.com/personal-finance/refi-rates-dip-since-last-week-current-refinance-rates-dec-13-2024/#ftag=CAD590a51e)
+ - [Blacksky Is Nothing Like Black Twitter—and It Doesn’t Need to Be](https://www.wired.com/story/blacksky-is-nothing-like-black-twitter/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

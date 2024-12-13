@@ -160,8 +160,8 @@ R                        1 repo              ░░░░░░░░░░░�
  - [The Verge’s 2024 holiday gift guide](https://www.theverge.com/24224043/holiday-gift-guide-2024-best-ideas-unique-tech-gadgets)
  - [Shutterstock launches a &quot;research license&quot; for AI companies, starting with Lightricks, which will train its video model LTXV on Shutterstock&#39;s video library &lpar;Michael Nu&amp;ntilde;ez/VentureBeat&rpar;](http://www.techmeme.com/241213/p28#a241213p28)
  - [The long-shot plan to save TikTok from a US ban](https://www.theverge.com/2024/12/13/24320722/frank-mccourt-project-liberty-tiktok-us-ban-bytedance)
- - [ChatGPT Projects are fancy folders for your AI chats](https://www.theverge.com/2024/12/13/24320800/openai-chatgpt-projects-folders-ai-chats)
- - [Peak Design denies snitching on Luigi Mangione](https://www.theverge.com/2024/12/13/24320785/peak-design-everyday-backpack-serial-number-united-healthcare-ceo-shooting)<!-- TECH:END -->
+ - [Best Internet Providers in Chandler, Arizona](https://www.cnet.com/home/internet/best-internet-providers-in-chandler-az/#ftag=CAD590a51e)
+ - [12 Best Digital Gift Cards for Food, Drinks and Cookware in 2024](https://www.cnet.com/news/gift-cards-for-a-foodie/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Amazon is shipping the Kindle Colorsoft again, but it’s unclear if it’s fixed](https://www.theverge.com/2024/12/13/24320614/amazon-kindle-colorsoft-shipping-yellow-band-display-e-reader)
+ - [BBC cries foul over Apple Intelligence headline notification summarizations](https://appleinsider.com/articles/24/12/13/bbc-cries-foul-over-apple-intelligence-headline-notification-summarizations?utm_medium=rss)
+ - [Sources: the US is preparing rules restricting the sale of GPUs to some countries in Southeast Asia and the Middle East, to limit China&#39;s ability to access them &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/241213/p24#a241213p24)
  - [Sonos Arc Ultra review: The best Dolby Atmos soundbar just got better](https://appleinsider.com/articles/24/12/13/sonos-arc-ultra-review-the-best-dolby-atmos-soundbar-just-got-better?utm_medium=rss)
- - [Some Educated Guesses About Trump’s Second Term](https://www.wired.com/story/politics-lab-donald-trump-second-presidential-term/)
- - [The New Jersey Drone Mystery May Not Actually Be That Mysterious](https://www.wired.com/story/new-jersey-drone-mystery-maybe-not-drones/)
- - [In a blog post, OpenAI says &quot;You can&#39;t sue your way to AGI&quot;, and publishes emails from Elon Musk showing he wanted to own OpenAI and run it as a for-profit &lpar;Ina Fried/Axios&rpar;](http://www.techmeme.com/241213/p23#a241213p23)
- - [Best MacBook Deals: Get Savings on the Latest M4 Lineup, Plus M3, M2 and M1 Models](https://www.cnet.com/deals/best-macbook-deals/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Some Educated Guesses About Trump’s Second Term](https://www.wired.com/story/politics-lab-donald-trump-second-presidential-term/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [NASA thinks it’s figured out why the Mars helicopter crashed](https://www.theverge.com/2024/12/13/24320329/nasa-mars-perseverance-ingenuity-helicopter-crash)
- - [Airbnb’s anti-party tech is cracking down on ‘unauthorized’ get togethers](https://www.theverge.com/2024/12/13/24320345/airbnb-anti-party-tech-new-years-eve)
- - [An interview with Sundar Pichai about Google joining a &quot;Manhattan Project&quot; for AI under Trump, playing the long game after ChatGPT launch, Gemini 2.0, and more &lpar;Reed Albergotti/Semafor&rpar;](http://www.techmeme.com/241213/p10#a241213p10)
- - [The Backbone One with USB-C is just $50 for today only](https://www.theverge.com/2024/12/13/24319689/backbone-one-usb-c-mobile-gaming-controller-logitech-g203-mouse-deal-sale)
- - [Wayve&#39;s AI Self-Driving System Is Here to Drive Like a Human and Take On Waymo and Tesla](https://www.wired.com/story/wayves-ai-self-driving-system-is-here-to-drive-like-a-human-and-take-on-waymo-and-tesla/)<!-- TECH:END -->
+ - [The EU finds it breached its own privacy rules in a 2023 ad campaign on X that intended to sway opinions for a proposal to force messaging apps to scan for CSAM &lpar;Natasha Lomas/TechCrunch&rpar;](http://www.techmeme.com/241213/p11#a241213p11)
+ - [Tim Cook says Apple has invested over $18 billion in the UK since 2019](https://appleinsider.com/articles/24/12/11/tim-cook-says-apple-has-invested-over-18-billion-in-the-uk-since-2019?utm_medium=rss)
+ - [Platforms need the news — but they’re killing it](https://www.theverge.com/24320380/platforms-tiktok-influencers-news-media-journalism-google-matt-pearce-decoder-podcast-interview)
+ - [Waymo’s robotaxis pass the first responder test](https://www.theverge.com/2024/12/13/24319860/waymo-robotaxi-first-responder-tuv-sud-analysis)
+ - [NASA thinks it’s figured out why the Mars helicopter crashed](https://www.theverge.com/2024/12/13/24320329/nasa-mars-perseverance-ingenuity-helicopter-crash)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

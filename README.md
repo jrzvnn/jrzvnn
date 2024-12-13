@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Google rolls out interactive Audio Overviews in NotebookLM, an &quot;experimental feature&quot; that lets users talk to the AI &quot;hosts&quot; of the overviews &lpar;Jay Peters/The Verge&rpar;](http://www.techmeme.com/241213/p15#a241213p15)
  - [OpenAI says the three hour ChatGPT outage on Wednesday was caused by a telemetry service it deployed to collect Kubernetes metrics &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/241213/p14#a241213p14)
  - [A Texas man gets a two-year sentence for underreporting capital gains from selling $3.7M in bitcoin, the first such prosecution based entirely on cryptocurrency &lpar;Adam James/The Block&rpar;](http://www.techmeme.com/241213/p13#a241213p13)
  - [Kraven the Hunter is the flimsiest strand in Sony’s spider-free web](https://www.theverge.com/2024/12/13/24318825/kraven-the-hunter-review)
- - [Google now lets you talk with the AI ‘hosts’ of NotebookLM Audio Overviews](https://www.theverge.com/2024/12/13/24318099/google-notebooklm-audio-overviews-talk-plus)
- - [Broadcom shares jump 20%+ a day after the company reported Q4 results that showed strong AI revenue growth, pushing its market cap beyond $1T for the first time &lpar;Ashley Capoot/CNBC&rpar;](http://www.techmeme.com/241213/p12#a241213p12)<!-- TECH:END -->
+ - [Google’s NotebookLM AI podcast hosts can now talk to you, too](https://www.theverge.com/2024/12/13/24318099/google-notebooklm-audio-overviews-talk-plus)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Use Android’s Built-In Settings to Cut Your Phone Usage Time in Half](https://www.wired.com/story/use-androids-built-in-settings-to-cut-your-phone-usage-time-in-half/)
- - [The UK CMA opens a formal probe into BlackRock&#39;s acquisition of UK data provider Preqin over concerns that the &amp;pound;2.55B deal could stifle competition in the UK &lpar;Mauro Orru/Wall Street Journal&rpar;](http://www.techmeme.com/241213/p7#a241213p7)
- - [8 Best Baby Carriers &lpar;2024&rpar;: Wraps, Slings, and Packs](https://www.wired.com/gallery/best-baby-carriers/)
- - [The UnitedHealthcare shooter got exactly what he wanted](https://www.theverge.com/2024/12/13/24319728/unitedhealthcare-luigi-mangione-brian-thompson-reaction)
- - [A look at Anthropic&#39;s Clio, an internal AI tool to identify new threats, disrupt coordinated abuse of the company&#39;s systems, and generate Claude usage insights &lpar;Casey Newton/Platformer&rpar;](http://www.techmeme.com/241213/p6#a241213p6)<!-- TECH:END -->
+ - [Searching for the first great AI app](https://www.theverge.com/2024/12/13/24320342/ai-killer-app-gemini-chatgpt-vergecast)
+ - [iPhone 17 Slim specs will be an enormous engineering &amp; supply chain challenge](https://appleinsider.com/articles/24/12/13/iphone-17-slim-specs-will-be-an-enormous-engineering-supply-chain-challenge?utm_medium=rss)
+ - [Apple Intelligence in iOS 18.2 &amp; Apple Vision Pro is the gadget of the year on the AppleInsider Podcast](https://appleinsider.com/articles/24/12/13/apple-intelligence-in-ios-182-apple-vision-pro-is-the-gadget-of-the-year-on-the-appleinsider-podcast?utm_medium=rss)
+ - [Refinance Rates Hurdle Down. Today&#39;s Refinance Rates, Dec. 13, 2024](https://www.cnet.com/personal-finance/refi-rates-dip-since-last-week-current-refinance-rates-dec-13-2024/#ftag=CAD590a51e)
+ - [Use Android’s Built-In Settings to Cut Your Phone Usage Time in Half](https://www.wired.com/story/use-androids-built-in-settings-to-cut-your-phone-usage-time-in-half/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

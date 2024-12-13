@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [ChatGPT Projects are fancy folders for your AI chats](https://www.theverge.com/2024/12/13/24320800/openai-chatgpt-projects-folders-ai-chats)
  - [Peak Design denies snitching on Luigi Mangione](https://www.theverge.com/2024/12/13/24320785/peak-design-everyday-backpack-serial-number-united-healthcare-ceo-shooting)
  - [Texas sues New York doctor for prescribing abortion pills via telemedicine](https://www.theverge.com/2024/12/13/24320748/texas-lawsuit-telemedicine-abortion-doctor-new-york)
  - [A Gemini-boosted Google Assistant is now available on some Nest speakers](https://www.theverge.com/2024/12/13/24320673/gemini-google-assistant-available-nest-smart-speakers)
- - [Tips for ChatGPT’s Voice Mode? Best AI Uses for Retirees? Our Expert Answers Your Questions](https://www.wired.com/story/subscriber-only-livestream-with-reece-rogers-ai-unlocked-2/)
- - [The best Nintendo Switch controllers to buy right now](https://www.theverge.com/23350899/nintendo-switch-controllers-best-wireless-joy-con-gamepad)<!-- TECH:END -->
+ - [Tips for ChatGPT’s Voice Mode? Best AI Uses for Retirees? Our Expert Answers Your Questions](https://www.wired.com/story/subscriber-only-livestream-with-reece-rogers-ai-unlocked-2/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [What are those?](http://9gag.com/gag/aYQrpWO)
- - 😝 [Who\u2019s coming to hell with me?](http://9gag.com/gag/aryneW5)
- - 💣 [Mosquito Repellent Smoke Grenade](http://9gag.com/gag/abAgqzX)
- - 😝 [If it works](http://9gag.com/gag/a2v1qrp)
- - 👉 [I love watching Japanese newsreaders.](http://9gag.com/gag/a4P1dXA)<!-- MEMES:END -->
+ - 😝 [Why did she do it?](http://9gag.com/gag/a6Z1yVq)
+ - 😝 [Hello Kate Moss, would you like some candy in your refreshment? Imma put some candy in your refreshment.](http://9gag.com/gag/a5Q1dVN)
+ - 💣 [Seriously?](http://9gag.com/gag/aLnvRov)
+ - 😝 [Mosquito Repellent Smoke Grenade](http://9gag.com/gag/abAgqzX)
+ - 👉 [What are those?](http://9gag.com/gag/aYQrpWO)<!-- MEMES:END -->
 
 ---
 

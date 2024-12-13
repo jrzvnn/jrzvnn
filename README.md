@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [I love watching Japanese newsreaders.](http://9gag.com/gag/a4P1dXA)
+ - 😝 [Princess red lobster](http://9gag.com/gag/aAyGVoE)
  - 😝 [Hello Kate Moss, would you like some candy in your refreshment? Imma put some candy in your refreshment.](http://9gag.com/gag/a5Q1dVN)
  - 💣 [Who\u2019s coming to hell with me?](http://9gag.com/gag/aryneW5)
  - 😝 [Look up! It&#39;s shooting stars and beats \ud83c\udf0c\ud83c\udfb5](http://9gag.com/gag/a9y17LZ)
- - 👉 [I&#39;m sorry but what did you expect?](http://9gag.com/gag/aW4gWyq)<!-- MEMES:END -->
+ - 👉 [What are those?](http://9gag.com/gag/aYQrpWO)<!-- MEMES:END -->
 
 ---
 

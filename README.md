@@ -158,10 +158,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- TECH:START -->
  - [In a strategy change, Netflix plans to make its Squid Games battle royale game available for free to non-members for a limited time after its December 17 launch &lpar;Jennifer Maas/Variety&rpar;](http://www.techmeme.com/241212/p56#a241212p56)
+ - [The Last Of Us Studio&#39;s Next Game is Intergalactic, A Space Sci-Fi Adventure](https://www.cnet.com/tech/gaming/the-last-of-us-studios-next-game-is-intergalactic-a-space-sci-fi-adventure/#ftag=CAD590a51e)
+ - [The Game Awards 2024: Winners, How to Rewatch and More](https://www.cnet.com/tech/gaming/the-game-awards-2024-how-to-watch-nominees-winners-and-more/#ftag=CAD590a51e)
  - [Naughty Dog reveals sci-fi game Intergalactic: The Heretic Prophet](https://www.theverge.com/24320197/intergalactic-the-heretic-prophet-naughty-dog-trailer-game-awards-2024)
- - [How to copy file and app icons using macOS Preview](https://appleinsider.com/articles/24/12/13/how-to-copy-file-and-app-icons-using-macos-preview?utm_medium=rss)
- - [Australia-based Fleet Space, whose ExoSphere service helps find minerals in space using AI, sensors, and more, raised a AU$150M Series D at a AU$800M+ valuation &lpar;FinSMEs&rpar;](http://www.techmeme.com/241212/p55#a241212p55)
- - [Okami is getting a sequel](https://www.theverge.com/2024/12/12/24320133/okami-2-announce-game-awards)<!-- TECH:END -->
+ - [Today&#39;s NYT Strands Hints, Answers and Help for Dec. 13, #285](https://www.cnet.com/tech/gaming/todays-nyt-strands-hints-answers-and-help-for-dec-13-285/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

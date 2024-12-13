@@ -160,7 +160,7 @@ R                        1 repo              ░░░░░░░░░░░�
  - [Anker’s new 5K MagSafe battery is slimmer and faster](https://www.theverge.com/2024/12/13/24320423/anker-apple-magsafe-maggo-power-bank-qi2-battery)
  - [Private-credit firm Sixth Street commits $4B in capital for Affirm to underwrite short-term installment loans of between four and six months &lpar;Leslie Picker/CNBC&rpar;](http://www.techmeme.com/241213/p20#a241213p20)
  - [Game-like ‘task scams’ stole more than $220 million in six months](https://www.theverge.com/2024/12/13/24320391/ftc-task-scams-spotlight-warning)
- - [Liquid AI, which is building AI systems powered by liquid neural networks, raised a $250M Series A led by AMD at a $2.3B valuation, following a $46.6M seed &lpar;Bloomberg&rpar;](http://www.techmeme.com/241213/p19#a241213p19)
+ - [Liquid, which is building &quot;liquid foundation models&quot; inspired by the architecture of worm brains, raised a $250M Series A led by AMD at a $2.3B valuation &lpar;Bloomberg&rpar;](http://www.techmeme.com/241213/p19#a241213p19)
  - [AirPods Max plunge to $379.99 with Best Buy&#39;s doorbuster deal](https://appleinsider.com/articles/24/12/13/airpods-max-plunge-to-37999-with-best-buys-doorbuster-deal?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Here’s your very first look at The Witcher 4](https://www.theverge.com/2024/12/12/24320092/the-witcher-4-trailer-game-awards-2024)
- - [Meta releases Meta Video Seal, an AI tool to apply imperceptible watermarks to AI-generated videos as well as a hidden message to determine the video&#39;s origins &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/241212/p51#a241212p51)
- - [Elon Musk is mad at the SEC again](https://www.theverge.com/2024/12/12/24320060/elon-musk-sec-alex-spiro-tesla-neuralink-twitter)
- - [Meta unveils Meta Motivo, an AI model for controlling the movements of a human-like digital agent, with the potential to enhance the Metaverse experience &lpar;Reuters&rpar;](http://www.techmeme.com/241212/p50#a241212p50)
- - [Nvidia will host its first full LAN party in over a decade, and you’re invited](https://www.theverge.com/2024/12/12/24320009/nvidia-lan-party-comeback-2025)<!-- TECH:END -->
+ - [Texas AG Ken Paxton investigates 15 companies, including Character.AI, Reddit, Instagram, and Discord, over their privacy and safety practices for minors &lpar;Kanishka Singh/Reuters&rpar;](http://www.techmeme.com/241212/p53#a241212p53)
+ - [Microsoft launches Phi-4, a 14B-parameter language model that it says outperforms comparable and larger models, like Gemini Pro 1.5, on mathematical reasoning &lpar;Michael Nu&amp;ntilde;ez/VentureBeat&rpar;](http://www.techmeme.com/241212/p52#a241212p52)
+ - [Borderlands 4’s first trailer is all out war](https://www.theverge.com/24319512/borderlands-4-trailer-tga-2024)
+ - [Split Fiction is the next co-op game from Hazelight Studios](https://www.theverge.com/24319677/split-fiction-hazelight-studios-trailer-date-josef-fares)
+ - [FromSoftware debuts a new Elden Ring game](https://www.theverge.com/2024/12/12/24320097/elden-ring-sequel-nightreign-the-game-awards-trailer)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Dude thought he bought a TV, but it turned out to be a Popeyes digital menu board.](http://9gag.com/gag/ae9gGmb)
  - 😝 [Who\u2019s coming to hell with me?](http://9gag.com/gag/aryneW5)
- - 💣 [I&#39;m sorry but what did you expect?](http://9gag.com/gag/aW4gWyq)
+ - 😝 [When she realized](http://9gag.com/gag/ayN95ry)
+ - 💣 [Mosquito Repellent Smoke Grenade](http://9gag.com/gag/abAgqzX)
  - 😝 [Look up! It&#39;s shooting stars and beats \ud83c\udf0c\ud83c\udfb5](http://9gag.com/gag/a9y17LZ)
- - 👉 [An Indian Congress MP Ranuka made her maid stand behind her child for hours while eating 5 star food. And to do that in a public place without fear of backlash is just proving why people hate Indians.](http://9gag.com/gag/aRBrgNG)<!-- MEMES:END -->
+ - 👉 [I&#39;m sorry but what did you expect?](http://9gag.com/gag/aW4gWyq)<!-- MEMES:END -->
 
 ---
 

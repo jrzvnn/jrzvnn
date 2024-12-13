@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Western Digital Promo Code: 10% Off in December](https://www.wired.com/story/western-digital-promo-code/)
  - [Sources detail Anthropic and OpenAI&#39;s rivalry: OpenAI boosted ChatGPT&#39;s coding skills in response to Claude, Anthropic&#39;s safety focus, exec bad blood, and more &lpar;The Information&rpar;](http://www.techmeme.com/241213/p1#a241213p1)
  - [Today&#39;s NYT Mini Crossword Answers for Friday, Dec. 13](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-friday-dec-13/#ftag=CAD590a51e)
  - [iPhone 16 Pro Max vs. Pixel 9 Pro XL Specs: Big Phones Compared](https://www.cnet.com/tech/mobile/iphone-16-pro-max-vs-google-pixel-9-pro-xl-specs-compared/#ftag=CAD590a51e)
- - [In a strategy change, Netflix plans to make its Squid Games battle royale game available for free to non-members for a limited time after its December 17 launch &lpar;Jennifer Maas/Variety&rpar;](http://www.techmeme.com/241212/p56#a241212p56)
- - [Best Solar Panel Installation Companies in Tennessee](https://www.cnet.com/home/energy-and-utilities/tennessee-solar-panels/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [In a strategy change, Netflix plans to make its Squid Games battle royale game available for free to non-members for a limited time after its December 17 launch &lpar;Jennifer Maas/Variety&rpar;](http://www.techmeme.com/241212/p56#a241212p56)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

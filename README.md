@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Former ByteDance Intern Accused of Sabotage Among Winners of Prestigious AI Award](https://www.wired.com/story/bytedance-intern-best-paper-neurips/)
  - [Trump is probably going to kill the crash reporting rule that made Tesla look bad](https://www.theverge.com/2024/12/13/24320515/trump-tesla-crash-reporting-adas-nhtsa-sgo)
  - [Klarna CEO Sebastian Siemiatkowski says Klarna&#39;s investment in AI let it stop hiring a year ago and its headcount fell 22% to 3,500, mostly due to attrition &lpar;Bloomberg&rpar;](http://www.techmeme.com/241213/p21#a241213p21)
  - [EVgo nabs $1.25 billion loan as Biden races to approve more EV spending](https://www.theverge.com/2024/12/13/24320443/evgo-doe-loan-biden-ev-charging-money-trump)
- - [This Is the Only Correct Way to Clean Your Toaster Inside Out](https://www.cnet.com/home/kitchen-and-household/the-correct-way-to-clean-your-toaster-inside-and-out/#ftag=CAD590a51e)
- - [This Exclusive Code Will Save You More Than 50% Off Select Dreame Robot Vacuums Right Now](https://www.cnet.com/deals/this-exclusive-offer-code-will-save-you-more-than-50-on-select-dreame-vacuums-right-now/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [This Is the Only Correct Way to Clean Your Toaster Inside Out](https://www.cnet.com/home/kitchen-and-household/the-correct-way-to-clean-your-toaster-inside-and-out/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

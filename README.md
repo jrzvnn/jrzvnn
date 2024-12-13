@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The best Nintendo Switch controllers to buy right now](https://www.theverge.com/23350899/nintendo-switch-controllers-best-wireless-joy-con-gamepad)
+ - [The US DOJ indicts 14 North Korean nationals for allegedly earning $88M+ through fraud by working as remote IT workers for US companies from 2017 to 2023 &lpar;Jonathan Greig/The Record&rpar;](http://www.techmeme.com/241213/p27#a241213p27)
  - [Apple’s AI summary mangled a BBC headline about Luigi Mangione](https://www.theverge.com/2024/12/13/24320689/apple-intelligence-summary-bbc-news-unitedhealthcare-luigi-mangione)
- - [The BBC complains to Apple after Apple Intelligence&#39;s notification summary falsely made it appear BBC published an article saying Luigi Mangione shot himself &lpar;Graham Fraser/BBC&rpar;](http://www.techmeme.com/241213/p26#a241213p26)
- - [The Nintendo Switch 2, as described by Dbrand](https://www.theverge.com/2024/12/13/24320659/nintendo-switch-2-dbrand-killswitch)
- - [Sources: Walmart is leading a funding round of $300M+ alongside Ribbit for Walmart&#39;s fintech venture, One, giving it a pre-money valuation of $2.5B &lpar;Bloomberg&rpar;](http://www.techmeme.com/241213/p25#a241213p25)
- - [Ring Up This Deal for $250 Off a New OnePlus 12 Phone](https://www.cnet.com/deals/ring-up-deal-250-off-new-oneplus-12-phone/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [The BBC complains to Apple after Apple Intelligence&#39;s notification summary falsely suggested the BBC had published an article saying Luigi Mangione shot himself &lpar;Graham Fraser/BBC&rpar;](http://www.techmeme.com/241213/p26#a241213p26)
+ - [The Nintendo Switch 2, as described by Dbrand](https://www.theverge.com/2024/12/13/24320659/nintendo-switch-2-dbrand-killswitch)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

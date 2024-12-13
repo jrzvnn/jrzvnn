@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [How to Effectively Clean Your Bathroom in 10 Minutes or Less](https://www.cnet.com/how-to/how-to-effectively-clean-your-bathroom-in-10-minutes-or-less/#ftag=CAD590a51e)
- - [Bloom Nutrition Greens Review 2024: Is the Trendy Brand Really Worth It?](https://www.cnet.com/health/nutrition/bloom-nutrition-greens-review/#ftag=CAD590a51e)
- - [Best Internet Providers in Boston, Massachusetts](https://www.cnet.com/home/internet/best-internet-providers-in-boston-ma/#ftag=CAD590a51e)
- - [Reddit bans posting UnitedHealthcare shooter’s manifesto](https://www.theverge.com/2024/12/12/24319957/reddit-bans-posting-uhc-shooter-luigi-mangione-manifesto)
- - [Best Internet Providers in Cincinnati, Ohio](https://www.cnet.com/home/internet/best-internet-providers-in-cincinnati-oh/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Here’s your very first look at The Witcher 4](https://www.theverge.com/2024/12/12/24320092/the-witcher-4-trailer-game-awards-2024)
+ - [Meta releases Meta Video Seal, an AI tool to apply imperceptible watermarks to AI-generated videos as well as a hidden message to determine the video&#39;s origins &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/241212/p51#a241212p51)
+ - [Elon Musk is mad at the SEC again](https://www.theverge.com/2024/12/12/24320060/elon-musk-sec-alex-spiro-tesla-neuralink-twitter)
+ - [Meta unveils Meta Motivo, an AI model for controlling the movements of a human-like digital agent, with the potential to enhance the Metaverse experience &lpar;Reuters&rpar;](http://www.techmeme.com/241212/p50#a241212p50)
+ - [Nvidia will host its first full LAN party in over a decade, and you’re invited](https://www.theverge.com/2024/12/12/24320009/nvidia-lan-party-comeback-2025)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [No, the US Military Can&#39;t Just Shoot Down the Mystery Drones](https://www.wired.com/story/us-military-mystery-drones-response/)
- - [Lenovo might soon announce a SteamOS handheld](https://www.theverge.com/2024/12/13/24320477/lenovo-legion-go-s-steamos-handheld-gaming-pc-rumors)
- - [How Anthropic&#39;s Claude became the chatbot of choice for AI industry insiders, who say its responses feel more creative and empathetic and less gratingly robotic &lpar;Kevin Roose/New York Times&rpar;](http://www.techmeme.com/241213/p18#a241213p18)
- - [9 Best Online Photo Printing Services That We Tested &lpar;2024&rpar;](https://www.wired.com/story/best-photo-printing-services/)
- - [Google rolls out NotebookLM Plus, the enterprise version of NotebookLM with added controls for access and data management, as part of Agentspace &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/241213/p17#a241213p17)<!-- TECH:END -->
+ - [Game-like ‘task scams’ stole more than $220 million in six months](https://www.theverge.com/2024/12/13/24320391/ftc-task-scams-spotlight-warning)
+ - [Liquid AI, which is building AI systems powered by liquid neural networks, raised a $250M Series A led by AMD at a $2.3B valuation, following a $46.6M seed &lpar;Bloomberg&rpar;](http://www.techmeme.com/241213/p19#a241213p19)
+ - [AirPods Max plunge to $379.99 with Best Buy&#39;s doorbuster deal](https://appleinsider.com/articles/24/12/13/airpods-max-plunge-to-37999-with-best-buys-doorbuster-deal?utm_medium=rss)
+ - [Why the US Military Can&#39;t Just Shoot Down the Mystery Drones](https://www.wired.com/story/us-military-mystery-drones-response/)
+ - [Lenovo might soon announce a SteamOS handheld](https://www.theverge.com/2024/12/13/24320477/lenovo-legion-go-s-steamos-handheld-gaming-pc-rumors)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

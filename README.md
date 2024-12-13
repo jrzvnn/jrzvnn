@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [A Texas man gets a two-year sentence for underreporting capital gains from selling $3.7M in bitcoin, the first such prosecution based entirely on cryptocurrency &lpar;Adam James/The Block&rpar;](http://www.techmeme.com/241213/p13#a241213p13)
+ - [Broadcom shares jump 20%+ a day after the company reported Q4 results that showed strong AI revenue growth, pushing its market cap beyond $1T for the first time &lpar;Ashley Capoot/CNBC&rpar;](http://www.techmeme.com/241213/p12#a241213p12)
  - [The EU finds it breached its own privacy rules in a 2023 ad campaign on X that intended to sway opinions for a proposal to force messaging apps to scan for CSAM &lpar;Natasha Lomas/TechCrunch&rpar;](http://www.techmeme.com/241213/p11#a241213p11)
  - [Tim Cook says Apple has invested over $18 billion in the UK since 2019](https://appleinsider.com/articles/24/12/11/tim-cook-says-apple-has-invested-over-18-billion-in-the-uk-since-2019?utm_medium=rss)
- - [Platforms need the news — but they’re killing it](https://www.theverge.com/24320380/platforms-tiktok-influencers-news-media-journalism-google-matt-pearce-decoder-podcast-interview)
- - [Waymo’s robotaxis pass the first responder test](https://www.theverge.com/2024/12/13/24319860/waymo-robotaxi-first-responder-tuv-sud-analysis)
- - [NASA thinks it’s figured out why the Mars helicopter crashed](https://www.theverge.com/2024/12/13/24320329/nasa-mars-perseverance-ingenuity-helicopter-crash)<!-- TECH:END -->
+ - [Platforms need the news — but they’re killing it](https://www.theverge.com/24320380/platforms-tiktok-influencers-news-media-journalism-google-matt-pearce-decoder-podcast-interview)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Sonos Arc Ultra review: The best Dolby Atmos soundbar just got better](https://appleinsider.com/articles/24/12/13/sonos-arc-ultra-review-the-best-dolby-atmos-soundbar-just-got-better?utm_medium=rss)
+ - [Some Educated Guesses About Trump’s Second Term](https://www.wired.com/story/politics-lab-donald-trump-second-presidential-term/)
  - [The New Jersey Drone Mystery May Not Actually Be That Mysterious](https://www.wired.com/story/new-jersey-drone-mystery-maybe-not-drones/)
  - [In a blog post, OpenAI says &quot;You can&#39;t sue your way to AGI&quot;, and publishes emails from Elon Musk showing he wanted to own OpenAI and run it as a for-profit &lpar;Ina Fried/Axios&rpar;](http://www.techmeme.com/241213/p23#a241213p23)
- - [Elmo needs a new streaming home after Max drops Sesame Street](https://www.theverge.com/2024/12/13/24320522/sesame-street-warner-bros-discovery-part-ways-max-hbo)
- - [OpenAI just dropped new Elon Musk receipts: ‘You can’t sue your way to AGI’](https://www.theverge.com/2024/12/13/24320632/openai-elon-musk-lawsuit-sam-altman)
- - [Leak: Lenovo’s larger Legion handheld adds OLED and keeps the detachable mouse](https://www.theverge.com/2024/12/13/24320607/lenovo-legion-go-8-leak-gamepad)<!-- TECH:END -->
+ - [Best MacBook Deals: Get Savings on the Latest M4 Lineup, Plus M3, M2 and M1 Models](https://www.cnet.com/deals/best-macbook-deals/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

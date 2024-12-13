@@ -166,8 +166,8 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [So they made a meme like this, which was the style at the time...](http://9gag.com/gag/aBynYMx)
  - 😝 [Standup by Andy Huggins](http://9gag.com/gag/aD2DoVw)
+ - 😝 [Still not over it.](http://9gag.com/gag/ajPgD68)
  - 💣 [Be simpler](http://9gag.com/gag/axyBjvb)
  - 😝 [Look up! It&#39;s shooting stars and beats \ud83c\udf0c\ud83c\udfb5](http://9gag.com/gag/a9y17LZ)
  - 👉 [Dude thought he bought a TV, but it turned out to be a Popeyes digital menu board.](http://9gag.com/gag/ae9gGmb)<!-- MEMES:END -->

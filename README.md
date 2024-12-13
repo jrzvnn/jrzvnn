@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Tumblr adds Reddit-like ‘communities’](https://www.theverge.com/2024/12/13/24320336/tumblr-communities-reddit-topics-groups)
- - [Source: Sam Altman plans on making a personal commitment of $1M to Trump&#39;s Presidential Inaugural Committee, as opposed to a gift from OpenAI &lpar;Kristen Altus/Fox Business&rpar;](http://www.techmeme.com/241213/p9#a241213p9)
- - [Musk says the SEC sent him a &quot;settlement demand&quot; after Twitter buyout probe, asking him to agree to a fine within 48 hours or &quot;face charges on numerous counts&quot; &lpar;Elizabeth Lopatto/The Verge&rpar;](http://www.techmeme.com/241213/p8#a241213p8)
- - [Human Misuse Will Make Artificial Intelligence More Dangerous](https://www.wired.com/story/human-misuse-will-make-artificial-intelligence-more-dangerous/)
- - [Apple MacBook Pro &lpar;M4 Pro and Max&rpar; review: still on top](https://www.theverge.com/24319419/apple-macbook-pro-m4-max-pro-review-price-specs)<!-- TECH:END -->
+ - [NASA thinks it’s figured out why the Mars helicopter crashed](https://www.theverge.com/2024/12/13/24320329/nasa-mars-perseverance-ingenuity-helicopter-crash)
+ - [Airbnb’s anti-party tech is cracking down on ‘unauthorized’ get togethers](https://www.theverge.com/2024/12/13/24320345/airbnb-anti-party-tech-new-years-eve)
+ - [An interview with Sundar Pichai about Google joining a &quot;Manhattan Project&quot; for AI under Trump, playing the long game after ChatGPT launch, Gemini 2.0, and more &lpar;Reed Albergotti/Semafor&rpar;](http://www.techmeme.com/241213/p10#a241213p10)
+ - [The Backbone One with USB-C is just $50 for today only](https://www.theverge.com/2024/12/13/24319689/backbone-one-usb-c-mobile-gaming-controller-logitech-g203-mouse-deal-sale)
+ - [Wayve&#39;s AI Self-Driving System Is Here to Drive Like a Human and Take On Waymo and Tesla](https://www.wired.com/story/wayves-ai-self-driving-system-is-here-to-drive-like-a-human-and-take-on-waymo-and-tesla/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

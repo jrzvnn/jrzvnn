@@ -159,9 +159,9 @@ R                        1 repo              ░░░░░░░░░░░�
 <!-- TECH:START -->
  - [Duolingo has bucked the post-pandemic blues in edtech, with its stock price up over 300% from its 2021 IPO price of $102, giving the company a ~$15B market cap &lpar;Financial Times&rpar;](http://www.techmeme.com/241214/p11#a241214p11)
  - [7 Best Bassinets &lpar;2024&rpar;, Tested and Reviewed](https://www.wired.com/gallery/best-bassinets/)
- - [Tax Day 2025: The Earliest and Latest You Can File Your Taxes](https://www.cnet.com/personal-finance/taxes/tax-day-2025-the-earliest-and-latest-you-can-file-your-taxes/#ftag=CAD590a51e)
- - [I Tried the $299 Feno Smartbrush to Clean My Teeth. It&#39;s a Mouthful](https://www.cnet.com/tech/services-and-software/i-tried-the-299-feno-smartbrush-to-clean-my-teeth-its-a-mouthful/#ftag=CAD590a51e)
- - [CNET&#39;s Best Streaming Devices of 2024 video](https://www.cnet.com/videos/cnets-best-streaming-devices-of-2024/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Good at Reading? Your Brain May Be Structured Differently](https://www.wired.com/story/good-at-reading-your-brain-may-be-structured-differently/)
+ - [Save Space on Your Phone by Offloading and Archiving Apps](https://www.wired.com/story/offload-and-archive-apps-to-save-space-on-your-phone/)
+ - [As Soon as You Install iOS 18.2, Change These 8 iPhone Settings](https://www.cnet.com/tech/services-and-software/as-soon-as-you-install-ios-18-2-change-these-8-iphone-settings/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

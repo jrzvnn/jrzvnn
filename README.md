@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Rhode Island’s online benefits system shuts down after cyberattack](https://www.theverge.com/2024/12/14/24321065/rhode-island-cyberattack-ribridges-benefits-offline-personal-information-social-security-snap)
  - [Justin Sun&#39;s BiT Global, which became a key stakeholder in the wBTC ecosystem, sues Coinbase for delisting wBTC and launching a competing product &lpar;Daniel Kuhn/The Block&rpar;](http://www.techmeme.com/241214/p13#a241214p13)
  - [Ekster’s Stylish Wallet is Pocket-Sized Perfection](https://www.wired.com/story/ekster-parliament-smart-wallet-rave/)
  - [Infinity Nikki is a fashion-forward Zelda](https://www.theverge.com/2024/12/14/24320757/infinity-nikki-review-gacha-dress-up-game)
- - [How Viam, founded in 2020 by MongoDB co-founder Eliot Horowitz, helps companies make anything &quot;smart&quot;, including pizza buffets and bathroom lines &lpar;Isabelle Bousquette/Wall Street Journal&rpar;](http://www.techmeme.com/241214/p12#a241214p12)
- - [NeoRuler and M-Cube review: Smarter, iPhone-connected precision measuring](https://appleinsider.com/articles/24/12/14/neoruler-and-m-cube-review-smarter-iphone-connected-precision-measuring?utm_medium=rss)<!-- TECH:END -->
+ - [How Viam, founded in 2020 by MongoDB co-founder Eliot Horowitz, helps companies make anything &quot;smart&quot;, including pizza buffets and bathroom lines &lpar;Isabelle Bousquette/Wall Street Journal&rpar;](http://www.techmeme.com/241214/p12#a241214p12)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

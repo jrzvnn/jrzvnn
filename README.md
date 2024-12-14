@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Skeleton of a whale in the middle of the jungle in Costa Rica](http://9gag.com/gag/arynRDX)
- - 😝 [Lillian Phillips screwdriver needs to see a doctor after sleeping with 100 guys in one day](http://9gag.com/gag/aYQrKMV)
- - 💣 [Octopuses are crazy](http://9gag.com/gag/a5Q17zO)
+ - 😝 [Once again i beg for your weird knowledge support, give me all of your weird knowledge in the comments, ty fellows](http://9gag.com/gag/apRgron)
  - 😝 [A New Jersey resident apparently opens fire on a UAP/UFO &#39;drone&#39; tonight](http://9gag.com/gag/aO8QdrN)
- - 👉 [Police indicated `Currently no evidence of foul play`](http://9gag.com/gag/aVvxDBM)<!-- MEMES:END -->
+ - 💣 [Lillian Phillips screwdriver needs to see a doctor after sleeping with 100 guys in one day](http://9gag.com/gag/aYQrKMV)
+ - 😝 [Octopuses are crazy](http://9gag.com/gag/a5Q17zO)
+ - 👉 [9gaggers... hear me out...](http://9gag.com/gag/a341qw1)<!-- MEMES:END -->
 
 ---
 

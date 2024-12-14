@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Creating a Global Package to Solve the Problem of Plastics](https://www.wired.com/story/global-plastics-treaty-united-nations/)
+ - [Best Internet Providers in Carlsbad, California](https://www.cnet.com/home/internet/best-internet-providers-in-carlsbad-ca/#ftag=CAD590a51e)
+ - [Have Student Debt? 6 Things to Do Before the Year Ends, From a Student Loan Expert](https://www.cnet.com/personal-finance/loans/have-student-debt-6-things-to-do-before-the-year-ends-from-a-student-loan-expert/#ftag=CAD590a51e)
  - [A look at Dell&#39;s evolution under Michael Dell, who has transitioned the company from a nostalgic mid-90s PC maker into a leading AI infrastructure provider &lpar;Christopher Mims/Wall Street Journal&rpar;](http://www.techmeme.com/241214/p8#a241214p8)
- - [As Nvidia&#39;s stock price growth slows to just 3% over the past six months, experts say investor attention is likely to spread to companies actually using AI &lpar;Jennifer Hughes/Financial Times&rpar;](http://www.techmeme.com/241214/p7#a241214p7)
- - [Vietnam and Indonesia have imposed restrictions on Chinese e-commerce companies like Temu and Shein, seeing cheap imports as a threat to homegrown industries &lpar;Yuji Nitta/Nikkei Asia&rpar;](http://www.techmeme.com/241214/p6#a241214p6)
- - [Are Home Generators Worth Your Money?](https://www.cnet.com/home/energy-and-utilities/home-generators-cost-and-are-they-worth-it/#ftag=CAD590a51e)
- - [Malaysia, which has secured billions in AI and cloud infrastructure investments over the past year, launches a national AI office for policy and regulation &lpar;Ashley Tang/Reuters&rpar;](http://www.techmeme.com/241214/p5#a241214p5)<!-- TECH:END -->
+ - [As Nvidia&#39;s stock price growth slows to just 3% over the past six months, experts say investor attention is likely to spread to companies actually using AI &lpar;Jennifer Hughes/Financial Times&rpar;](http://www.techmeme.com/241214/p7#a241214p7)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

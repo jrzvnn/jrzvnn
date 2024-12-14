@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [HDMI 2.2 will be announced next month — and it may require a new cable](https://www.theverge.com/2024/12/14/24321144/hdmi-2-2-new-cable-higher-resolution-refresh-rate)
- - [Best Walmart Deals: There’s Still Time to Save on Tech, Home Essentials and More](https://www.cnet.com/deals/best-walmart-deals/#ftag=CAD590a51e)
- - [Document: Trump&#39;s transition team seeks to remove a crash-reporting rule opposed by Tesla and other car makers and &quot;liberalize&quot; autonomous vehicle regulation &lpar;Reuters&rpar;](http://www.techmeme.com/241214/p15#a241214p15)
- - [Apple may discontinue current iPhone SE &amp; iPhone 14 models in EU](https://appleinsider.com/articles/24/12/14/apple-may-discontinue-current-iphone-se-iphone-14-models-in-eu?utm_medium=rss)
- - [La Liga Soccer Livestream: How to Watch Rayo Vallecano vs. Real Madrid From Anywhere](https://www.cnet.com/tech/services-and-software/la-liga-soccer-livestream-how-to-watch-rayo-vallecano-vs-real-madrid-from-anywhere/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [An inside look at TSMC&#39;s $20B Arizona fab, which the company says is &quot;dang near back&quot; on schedule and will produce 4nm chips at a rate of 20K wafers per month &lpar;Katie Tarasov/CNBC&rpar;](http://www.techmeme.com/241214/p17#a241214p17)
+ - [YouTube TV is letting some subscribers hold off that price hike](https://www.theverge.com/2024/12/14/24321223/youtube-tv-price-lock-cancel-subscription-offer)
+ - [These Are the Best Food Sources for Every Vitamin You Need](https://www.cnet.com/health/nutrition/best-food-sources-for-every-vitamin-you-need/#ftag=CAD590a51e)
+ - [Get Rid Of Fruit Flies For Good](https://www.cnet.com/how-to/get-rid-of-fruit-flies-for-good/#ftag=CAD590a51e)
+ - [HDMI 2.2 will be announced next month — and it may require a new cable](https://www.theverge.com/2024/12/14/24321144/hdmi-2-2-new-cable-higher-resolution-refresh-rate)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

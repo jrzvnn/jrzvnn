@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [7 Best Bassinets &lpar;2024&rpar;, Tested and Reviewed](https://www.wired.com/gallery/best-bassinets/)
  - [Good at Reading? Your Brain May Be Structured Differently](https://www.wired.com/story/good-at-reading-your-brain-may-be-structured-differently/)
  - [Save Space on Your Phone by Offloading and Archiving Apps](https://www.wired.com/story/offload-and-archive-apps-to-save-space-on-your-phone/)
  - [As Soon as You Install iOS 18.2, Change These 8 iPhone Settings](https://www.cnet.com/tech/services-and-software/as-soon-as-you-install-ios-18-2-change-these-8-iphone-settings/#ftag=CAD590a51e)
- - [Premier League Soccer: Livestream Liverpool vs. Fulham From Anywhere](https://www.cnet.com/tech/services-and-software/premier-league-soccer-livestream-liverpool-vs-fulham-from-anywhere/#ftag=CAD590a51e)
- - [Premier League Soccer: Livestream Arsenal vs. Everton From Anywhere](https://www.cnet.com/tech/services-and-software/premier-league-soccer-livestream-arsenal-vs-everton-from-anywhere/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Premier League Soccer: Livestream Liverpool vs. Fulham From Anywhere](https://www.cnet.com/tech/services-and-software/premier-league-soccer-livestream-liverpool-vs-fulham-from-anywhere/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

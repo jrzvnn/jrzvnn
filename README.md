@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Which one is your favorite?](http://9gag.com/gag/aRBrmm5)
- - 😝 [The real enemy of humanity.](http://9gag.com/gag/an7gbNL)
- - 💣 [Casual racism to professional racism](http://9gag.com/gag/aD2DGqd)
- - 😝 [Merry Xmas](http://9gag.com/gag/a871yoe)
- - 👉 [I said your niece was f**kable?? Well she is](http://9gag.com/gag/aD2DWXG)<!-- MEMES:END -->
+ - 😝 [Lillian Phillips screwdriver needs to see a doctor after sleeping with 100 guys in one day](http://9gag.com/gag/aYQrKMV)
+ - 😝 [4am puctures](http://9gag.com/gag/aD2Djed)
+ - 💣 [Car driver prevents cyclist from a potential wolf attack](http://9gag.com/gag/a4P1ZEy)
+ - 😝 [Once again i beg for your weird knowledge support, give me all of your weird knowledge in the comments, ty fellows](http://9gag.com/gag/apRgron)
+ - 👉 [A New Jersey resident apparently opens fire on a UAP/UFO &#39;drone&#39; tonight](http://9gag.com/gag/aO8QdrN)<!-- MEMES:END -->
 
 ---
 

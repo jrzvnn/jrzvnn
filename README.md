@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Ex-ByteDance intern Keyu Tian, who was allegedly dismissed for &quot;serious misconduct&quot;, is a co-author of one of two papers chosen for the NeurIPS Best Paper Award &lpar;Louise Matsakis/Wired&rpar;](http://www.techmeme.com/241214/p4#a241214p4)
  - [Hikvision terminates five contracts with local governments in China&#39;s Xinjiang, a move that could shield the company from pressure from the Trump administration &lpar;Eleanor Olcott/Financial Times&rpar;](http://www.techmeme.com/241214/p3#a241214p3)
  - [The Top 6 Alarm Clocks of 2024](https://www.cnet.com/health/sleep/best-alarm-clock/#ftag=CAD590a51e)
  - [Tinder warns of declining to flat direct revenue through 2026, below estimates, and says it plans to prioritize improving its user experience over monetization &lpar;Natalie Lung/Bloomberg&rpar;](http://www.techmeme.com/241214/p2#a241214p2)
- - [Cantor Fitzgerald settles US SEC charges for $6.75M over disclosures before its SPACs merged with smart glass maker View and geospatial data company Satellogic &lpar;Christina Wilkie/CNBC&rpar;](http://www.techmeme.com/241214/p1#a241214p1)
- - [26 Best Harry Potter Gifts for Every Potterhead You Know](https://www.cnet.com/culture/entertainment/best-harry-potter-gifts/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Cantor Fitzgerald settles US SEC charges for $6.75M over disclosures before its SPACs merged with smart glass maker View and geospatial data company Satellogic &lpar;Christina Wilkie/CNBC&rpar;](http://www.techmeme.com/241214/p1#a241214p1)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

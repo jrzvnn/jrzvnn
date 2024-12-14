@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Well now there&#39;s a surprise](http://9gag.com/gag/aAyGP0E)
- - 😝 [Still not over it.](http://9gag.com/gag/ajPgD68)
- - 💣 [Finally found after a long time](http://9gag.com/gag/awyzVDy)
+ - 😝 [18 years later, she admits to have falsely accused the Duke Lacrosse team. POS deserves prison.](http://9gag.com/gag/arynRjV)
+ - 😝 [Overestimated herself](http://9gag.com/gag/avyAnrE)
+ - 💣 [Diversity is awesome when not forced.](http://9gag.com/gag/aPAZGrn)
  - 😝 [Look up! It&#39;s shooting stars and beats \ud83c\udf0c\ud83c\udfb5](http://9gag.com/gag/a9y17LZ)
- - 👉 [Based](http://9gag.com/gag/aoygp0g)<!-- MEMES:END -->
+ - 👉 [How does the tiger know not to f**k with this other animal despite it being much smaller and weaker than him?](http://9gag.com/gag/aPAZWvw)<!-- MEMES:END -->
 
 ---
 

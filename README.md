@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Hope the Sperms were WORHOLIC in japan](http://9gag.com/gag/aQzXxN2)
- - 😝 [Based](http://9gag.com/gag/aoygp0g)
- - 💣 [Damn, i miss this kind of movie](http://9gag.com/gag/a7o17ox)
+ - 😝 [How to pick up girls - one ez step](http://9gag.com/gag/aD2DojG)
+ - 😝 [How does the tiger know not to f**k with this other animal despite it being much smaller and weaker than him?](http://9gag.com/gag/aPAZWvw)
+ - 💣 [Hippos are cool](http://9gag.com/gag/aLnvP7V)
  - 😝 [Look up! It&#39;s shooting stars and beats \ud83c\udf0c\ud83c\udfb5](http://9gag.com/gag/a9y17LZ)
- - 👉 [Family video](http://9gag.com/gag/a5Q1PMO)<!-- MEMES:END -->
+ - 👉 [Flap her right in the purr](http://9gag.com/gag/aW4gWpx)<!-- MEMES:END -->
 
 ---
 

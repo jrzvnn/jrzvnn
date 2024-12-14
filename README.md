@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Diversity is awesome when not forced.](http://9gag.com/gag/aPAZGrn)
- - 😝 [Octopuses are crazy](http://9gag.com/gag/a5Q17zO)
- - 💣 [Deleted once.....?](http://9gag.com/gag/aNDPK64)
+ - 😝 [*neuron activation*](http://9gag.com/gag/a1m1eMY)
+ - 😝 [Nancy Parker, fired from her job and didn&#39;t get the reward money because she called 911 directly instead of the Crime Stoppers hotline](http://9gag.com/gag/ae9g0O5)
+ - 💣 [Well at least he didn&#39;t Pepsi the baby. Or maybe he&#39;s just a carnapper and not a kidnapper?](http://9gag.com/gag/aQzXxpq)
  - 😝 [Look up! It&#39;s shooting stars and beats \ud83c\udf0c\ud83c\udfb5](http://9gag.com/gag/a9y17LZ)
- - 👉 [I love watching Japanese newsreaders.](http://9gag.com/gag/a4P1dXA)<!-- MEMES:END -->
+ - 👉 [Diversity is awesome when not forced.](http://9gag.com/gag/aPAZGrn)<!-- MEMES:END -->
 
 ---
 

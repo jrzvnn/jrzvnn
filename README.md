@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Hope the Sperms were WORHOLIC in japan](http://9gag.com/gag/aQzXxN2)
- - 😝 [State of gaming](http://9gag.com/gag/aVvxDxy)
- - 💣 [Damn, i miss this kind of movie](http://9gag.com/gag/a7o17ox)
- - 😝 [Finally found after a long time](http://9gag.com/gag/awyzVDy)
- - 👉 [Justice works for the oligarchy, in one week they found the murder of UHC.](http://9gag.com/gag/a5Q17wq)<!-- MEMES:END -->
+ - 😝 [Stay focused](http://9gag.com/gag/aRBrAvG)
+ - 😝 [Diversity is awesome when not forced.](http://9gag.com/gag/aPAZGrn)
+ - 💣 [Octopuses are crazy](http://9gag.com/gag/a5Q17zO)
+ - 😝 [WNBA](http://9gag.com/gag/an7gN3B)
+ - 👉 [I&#39;m sorry but what did you expect?](http://9gag.com/gag/aW4gWyq)<!-- MEMES:END -->
 
 ---
 

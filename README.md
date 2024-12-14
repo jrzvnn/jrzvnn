@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [If it works](http://9gag.com/gag/a2v1qrp)
- - 😝 [Healthy option](http://9gag.com/gag/aMV4QVV)
- - 💣 [Lucky bear](http://9gag.com/gag/aPAZMbQ)
- - 😝 [Internet&#39;s gonna break and so does she\ud83d\uddff\ud83d\uddff....](http://9gag.com/gag/aPAZM1B)
- - 👉 [Police indicated `Currently no evidence of foul play`](http://9gag.com/gag/aVvxDBM)<!-- MEMES:END -->
+ - 😝 [Huh... Wait a second...](http://9gag.com/gag/a9y1Pxo)
+ - 😝 [9gaggers... hear me out...](http://9gag.com/gag/a341qw1)
+ - 💣 [Put a chick on it, make her lame and gay](http://9gag.com/gag/aoyg9ve)
+ - 😝 [WNBA](http://9gag.com/gag/an7gN3B)
+ - 👉 [Internet&#39;s gonna break and so does she\ud83d\uddff\ud83d\uddff....](http://9gag.com/gag/aPAZM1B)<!-- MEMES:END -->
 
 ---
 

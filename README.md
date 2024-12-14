@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Hippos are cool](http://9gag.com/gag/aLnvP7V)
- - 😝 [Diversity is awesome when not forced.](http://9gag.com/gag/aPAZGrn)
- - 💣 [I love watching Japanese newsreaders.](http://9gag.com/gag/a4P1dXA)
- - 😝 [Octopuses are crazy](http://9gag.com/gag/a5Q17zO)
- - 👉 [If it works](http://9gag.com/gag/a2v1qrp)<!-- MEMES:END -->
+ - 😝 [WNBA](http://9gag.com/gag/an7gN3B)
+ - 😝 [I love watching Japanese newsreaders.](http://9gag.com/gag/a4P1dXA)
+ - 💣 [How does the tiger know not to f**k with this other animal despite it being much smaller and weaker than him?](http://9gag.com/gag/aPAZWvw)
+ - 😝 [Cloth physics](http://9gag.com/gag/aE08zpn)
+ - 👉 [Diversity is awesome when not forced.](http://9gag.com/gag/aPAZGrn)<!-- MEMES:END -->
 
 ---
 

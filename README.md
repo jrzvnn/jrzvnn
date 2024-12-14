@@ -168,9 +168,9 @@ R                        1 repo              ░░░░░░░░░░░�
 <!-- MEMES:START -->
  - 😝 [Put a chick on it, make her lame and gay](http://9gag.com/gag/aoyg9ve)
  - 😝 [Hippos are cool](http://9gag.com/gag/aLnvP7V)
- - 💣 [WNBA](http://9gag.com/gag/an7gN3B)
- - 😝 [I love watching Japanese newsreaders.](http://9gag.com/gag/a4P1dXA)
- - 👉 [Octopuses are crazy](http://9gag.com/gag/a5Q17zO)<!-- MEMES:END -->
+ - 💣 [Bro is sleeping on the couch tonight](https://www.reddit.com/r/funny/comments/1he4jzd/bro_is_sleeping_on_the_couch_tonight/)
+ - 😝 [WNBA](http://9gag.com/gag/an7gN3B)
+ - 👉 [I love watching Japanese newsreaders.](http://9gag.com/gag/a4P1dXA)<!-- MEMES:END -->
 
 ---
 

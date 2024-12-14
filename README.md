@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [A New Jersey resident apparently opens fire on a UAP/UFO &#39;drone&#39; tonight](http://9gag.com/gag/aO8QdrN)
- - 😝 [I love watching Japanese newsreaders.](http://9gag.com/gag/a4P1dXA)
- - 💣 [Nancy Parker, fired from her job and didn&#39;t get the reward money because she called 911 directly instead of the Crime Stoppers hotline](http://9gag.com/gag/ae9g0O5)
- - 😝 [How does the tiger know not to f**k with this other animal despite it being much smaller and weaker than him?](http://9gag.com/gag/aPAZWvw)
- - 👉 [Cloth physics](http://9gag.com/gag/aE08zpn)<!-- MEMES:END -->
+ - 😝 [Hope the Sperms were WORHOLIC in japan](http://9gag.com/gag/aQzXxN2)
+ - 😝 [Damn, i miss this kind of movie](http://9gag.com/gag/a7o17ox)
+ - 💣 [Family video](http://9gag.com/gag/a5Q1PMO)
+ - 😝 [Finally found after a long time](http://9gag.com/gag/awyzVDy)
+ - 👉 [This is Beautifully Wicked](http://9gag.com/gag/aqyG5Rv)<!-- MEMES:END -->
 
 ---
 

@@ -167,10 +167,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [WNBA](http://9gag.com/gag/an7gN3B)
- - 😝 [Deleted once.....?](http://9gag.com/gag/aNDPK64)
- - 💣 [If it works](http://9gag.com/gag/a2v1qrp)
- - 😝 [Lillian Phillips screwdriver needs to see a doctor after sleeping with 100 guys in one day](http://9gag.com/gag/aYQrKMV)
- - 👉 [Police indicated `Currently no evidence of foul play`](http://9gag.com/gag/aVvxDBM)<!-- MEMES:END -->
+ - 😝 [Healthy option](http://9gag.com/gag/aMV4QVV)
+ - 💣 [Lillian Phillips screwdriver needs to see a doctor after sleeping with 100 guys in one day](http://9gag.com/gag/aYQrKMV)
+ - 😝 [Lucky bear](http://9gag.com/gag/aPAZMbQ)
+ - 👉 [How does the tiger know not to f**k with this other animal despite it being much smaller and weaker than him?](http://9gag.com/gag/aPAZWvw)<!-- MEMES:END -->
 
 ---
 

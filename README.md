@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [9 Best Mechanical Keyboards &lpar;2024&rpar;, Tested and Reviewed](https://www.wired.com/gallery/best-mechanical-keyboards/)
+ - [L’Oréal Colorsonic review: shades of gray](https://www.theverge.com/24319643/loreal-colorsonic-review-beauty-tech)
+ - [One of the year’s best movies was filmed in first person](https://www.theverge.com/24318489/nickel-boys-ramell-ross-interview-first-person-cinematography)
  - [Duolingo has bucked the post-pandemic blues in edtech, with its stock price up over 300% from its 2021 IPO price of $102, giving the company a ~$15B market cap &lpar;Financial Times&rpar;](http://www.techmeme.com/241214/p11#a241214p11)
- - [7 Best Bassinets &lpar;2024&rpar;, Tested and Reviewed](https://www.wired.com/gallery/best-bassinets/)
- - [Good at Reading? Your Brain May Be Structured Differently](https://www.wired.com/story/good-at-reading-your-brain-may-be-structured-differently/)
- - [Save Space on Your Phone by Offloading and Archiving Apps](https://www.wired.com/story/offload-and-archive-apps-to-save-space-on-your-phone/)
- - [As Soon as You Install iOS 18.2, Change These 8 iPhone Settings](https://www.cnet.com/tech/services-and-software/as-soon-as-you-install-ios-18-2-change-these-8-iphone-settings/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [7 Best Bassinets &lpar;2024&rpar;, Tested and Reviewed](https://www.wired.com/gallery/best-bassinets/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Put a chick on it, make her lame and gay](http://9gag.com/gag/aoyg9ve)
- - 😝 [What\u2019s the excuse for their behavior in Japan? Also slavery?](http://9gag.com/gag/axyBVDn)
- - 💣 [This is why I hate going swimming. F**k that](http://9gag.com/gag/aD2DGGd)
- - 😝 [Extended find out phase](http://9gag.com/gag/a1m1bjY)
- - 👉 [Octopuses are crazy](http://9gag.com/gag/a5Q17zO)<!-- MEMES:END -->
+ - 😝 [Which one is your favorite?](http://9gag.com/gag/aRBrmm5)
+ - 😝 [It&#39;s freedom time](http://9gag.com/gag/ae9gbMW)
+ - 💣 [The real enemy of humanity.](http://9gag.com/gag/an7gbNL)
+ - 😝 [Casual racism to professional racism](http://9gag.com/gag/aD2DGqd)
+ - 👉 [Merry Xmas](http://9gag.com/gag/a871yoe)<!-- MEMES:END -->
 
 ---
 

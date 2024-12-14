@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [If it works](http://9gag.com/gag/a2v1qrp)
- - 😝 [Diversity is awesome when not forced.](http://9gag.com/gag/aPAZGrn)
- - 💣 [Who\u2019s coming to hell with me?](http://9gag.com/gag/aryneW5)
+ - 😝 [WNBA](http://9gag.com/gag/an7gN3B)
+ - 😝 [I love watching Japanese newsreaders.](http://9gag.com/gag/a4P1dXA)
+ - 💣 [I&#39;m sorry but what did you expect?](http://9gag.com/gag/aW4gWyq)
  - 😝 [Look up! It&#39;s shooting stars and beats \ud83c\udf0c\ud83c\udfb5](http://9gag.com/gag/a9y17LZ)
- - 👉 [Dude thought he bought a TV, but it turned out to be a Popeyes digital menu board.](http://9gag.com/gag/ae9gGmb)<!-- MEMES:END -->
+ - 👉 [A black woman gathered #BLM activists to harass a local store owner after he kicked her out for shoplifting](http://9gag.com/gag/aVvxX9n)<!-- MEMES:END -->
 
 ---
 

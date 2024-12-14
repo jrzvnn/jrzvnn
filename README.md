@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Hope the Sperms were WORHOLIC in japan](http://9gag.com/gag/aQzXxN2)
- - 😝 [Justice works for the oligarchy, in one week they found the murder of UHC.](http://9gag.com/gag/a5Q17wq)
- - 💣 [This is Beautifully Wicked](http://9gag.com/gag/aqyG5Rv)
- - 😝 [Bro fishing in international sea..](http://9gag.com/gag/aMV4wOx)
- - 👉 [State of gaming](http://9gag.com/gag/aVvxDxy)<!-- MEMES:END -->
+ - 😝 [WNBA](http://9gag.com/gag/an7gN3B)
+ - 😝 [Deleted once.....?](http://9gag.com/gag/aNDPK64)
+ - 💣 [If it works](http://9gag.com/gag/a2v1qrp)
+ - 😝 [Lillian Phillips screwdriver needs to see a doctor after sleeping with 100 guys in one day](http://9gag.com/gag/aYQrKMV)
+ - 👉 [Police indicated `Currently no evidence of foul play`](http://9gag.com/gag/aVvxDBM)<!-- MEMES:END -->
 
 ---
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Which one is your favorite?](http://9gag.com/gag/aRBrmm5)
- - 😝 [It&#39;s freedom time](http://9gag.com/gag/ae9gbMW)
- - 💣 [The real enemy of humanity.](http://9gag.com/gag/an7gbNL)
- - 😝 [Casual racism to professional racism](http://9gag.com/gag/aD2DGqd)
- - 👉 [Merry Xmas](http://9gag.com/gag/a871yoe)<!-- MEMES:END -->
+ - 😝 [4am puctures](http://9gag.com/gag/aD2Djed)
+ - 😝 [Skeleton of a whale in the middle of the jungle in Costa Rica](http://9gag.com/gag/arynRDX)
+ - 💣 [Police indicated `Currently no evidence of foul play`](http://9gag.com/gag/aVvxDBM)
+ - 😝 [Lillian Phillips screwdriver needs to see a doctor after sleeping with 100 guys in one day](http://9gag.com/gag/aYQrKMV)
+ - 👉 [What\u2019s the excuse for their behavior in Japan? Also slavery?](http://9gag.com/gag/axyBVDn)<!-- MEMES:END -->
 
 ---
 

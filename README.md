@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Well at least he didn&#39;t Pepsi the baby. Or maybe he&#39;s just a carnapper and not a kidnapper?](http://9gag.com/gag/aQzXxpq)
- - 😝 [I love watching Japanese newsreaders.](http://9gag.com/gag/a4P1dXA)
- - 💣 [Healthy option](http://9gag.com/gag/aMV4QVV)
- - 😝 [13-year-old Magnus Carlsen gets bored playing against World Champ Kasparov](http://9gag.com/gag/aRBrK4q)
- - 👉 [Dude thought he bought a TV, but it turned out to be a Popeyes digital menu board.](http://9gag.com/gag/ae9gGmb)<!-- MEMES:END -->
+ - 😝 [Hope the Sperms were WORHOLIC in japan](http://9gag.com/gag/aQzXxN2)
+ - 😝 [Bro fishing in international sea..](http://9gag.com/gag/aMV4wOx)
+ - 💣 [Justice works for the oligarchy, in one week they found the murder of UHC.](http://9gag.com/gag/a5Q17wq)
+ - 😝 [This is Beautifully Wicked](http://9gag.com/gag/aqyG5Rv)
+ - 👉 [State of gaming](http://9gag.com/gag/aVvxDxy)<!-- MEMES:END -->
 
 ---
 

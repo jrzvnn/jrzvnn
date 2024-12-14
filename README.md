@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [I&#39;m sorry but what did you expect?](http://9gag.com/gag/aW4gWyq)
- - 😝 [A black woman gathered #BLM activists to harass a local store owner after he kicked her out for shoplifting](http://9gag.com/gag/aVvxX9n)
- - 💣 [Octopuses are crazy](http://9gag.com/gag/a5Q17zO)
+ - 😝 [Well now there&#39;s a surprise](http://9gag.com/gag/aAyGP0E)
+ - 😝 [Still not over it.](http://9gag.com/gag/ajPgD68)
+ - 💣 [Finally found after a long time](http://9gag.com/gag/awyzVDy)
  - 😝 [Look up! It&#39;s shooting stars and beats \ud83c\udf0c\ud83c\udfb5](http://9gag.com/gag/a9y17LZ)
- - 👉 [The atoms inside a nuclear bomb](http://9gag.com/gag/aAyGpvE)<!-- MEMES:END -->
+ - 👉 [Based](http://9gag.com/gag/aoygp0g)<!-- MEMES:END -->
 
 ---
 

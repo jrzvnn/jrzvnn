@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [How to pick up girls - one ez step](http://9gag.com/gag/aD2DojG)
- - 😝 [How does the tiger know not to f**k with this other animal despite it being much smaller and weaker than him?](http://9gag.com/gag/aPAZWvw)
- - 💣 [Hippos are cool](http://9gag.com/gag/aLnvP7V)
+ - 😝 [A New Jersey resident apparently opens fire on a UAP/UFO &#39;drone&#39; tonight](http://9gag.com/gag/aO8QdrN)
+ - 😝 [Why did she do it?](http://9gag.com/gag/a6Z1yVq)
+ - 💣 [How does the tiger know not to f**k with this other animal despite it being much smaller and weaker than him?](http://9gag.com/gag/aPAZWvw)
  - 😝 [Look up! It&#39;s shooting stars and beats \ud83c\udf0c\ud83c\udfb5](http://9gag.com/gag/a9y17LZ)
- - 👉 [Flap her right in the purr](http://9gag.com/gag/aW4gWpx)<!-- MEMES:END -->
+ - 👉 [Overestimated herself](http://9gag.com/gag/avyAnrE)<!-- MEMES:END -->
 
 ---
 

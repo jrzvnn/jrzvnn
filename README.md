@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Well at least he didn&#39;t Pepsi the baby. Or maybe he&#39;s just a carnapper and not a kidnapper?](http://9gag.com/gag/aQzXxpq)
+ - 😝 [I&#39;m sorry but what did you expect?](http://9gag.com/gag/aW4gWyq)
  - 😝 [A black woman gathered #BLM activists to harass a local store owner after he kicked her out for shoplifting](http://9gag.com/gag/aVvxX9n)
- - 💣 [Overestimated herself](http://9gag.com/gag/avyAnrE)
+ - 💣 [Octopuses are crazy](http://9gag.com/gag/a5Q17zO)
  - 😝 [Look up! It&#39;s shooting stars and beats \ud83c\udf0c\ud83c\udfb5](http://9gag.com/gag/a9y17LZ)
- - 👉 [It&#39;s that time of the year Do your worst!](http://9gag.com/gag/aGyzDQ5)<!-- MEMES:END -->
+ - 👉 [The atoms inside a nuclear bomb](http://9gag.com/gag/aAyGpvE)<!-- MEMES:END -->
 
 ---
 

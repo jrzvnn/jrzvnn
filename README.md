@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Hope the Sperms were WORHOLIC in japan](http://9gag.com/gag/aQzXxN2)
- - 😝 [Damn, i miss this kind of movie](http://9gag.com/gag/a7o17ox)
- - 💣 [Family video](http://9gag.com/gag/a5Q1PMO)
- - 😝 [Finally found after a long time](http://9gag.com/gag/awyzVDy)
- - 👉 [This is Beautifully Wicked](http://9gag.com/gag/aqyG5Rv)<!-- MEMES:END -->
+ - 😝 [Hippos are cool](http://9gag.com/gag/aLnvP7V)
+ - 😝 [Diversity is awesome when not forced.](http://9gag.com/gag/aPAZGrn)
+ - 💣 [I love watching Japanese newsreaders.](http://9gag.com/gag/a4P1dXA)
+ - 😝 [Octopuses are crazy](http://9gag.com/gag/a5Q17zO)
+ - 👉 [If it works](http://9gag.com/gag/a2v1qrp)<!-- MEMES:END -->
 
 ---
 

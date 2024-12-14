@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Dude thought he bought a TV, but it turned out to be a Popeyes digital menu board.](http://9gag.com/gag/ae9gGmb)
- - 😝 [I love watching Japanese newsreaders.](http://9gag.com/gag/a4P1dXA)
- - 💣 [My spine is broken now!](http://9gag.com/gag/aPAZDQQ)
+ - 😝 [If it works](http://9gag.com/gag/a2v1qrp)
+ - 😝 [Diversity is awesome when not forced.](http://9gag.com/gag/aPAZGrn)
+ - 💣 [Who\u2019s coming to hell with me?](http://9gag.com/gag/aryneW5)
  - 😝 [Look up! It&#39;s shooting stars and beats \ud83c\udf0c\ud83c\udfb5](http://9gag.com/gag/a9y17LZ)
- - 👉 [How does the tiger know not to f**k with this other animal despite it being much smaller and weaker than him?](http://9gag.com/gag/aPAZWvw)<!-- MEMES:END -->
+ - 👉 [Dude thought he bought a TV, but it turned out to be a Popeyes digital menu board.](http://9gag.com/gag/ae9gGmb)<!-- MEMES:END -->
 
 ---
 

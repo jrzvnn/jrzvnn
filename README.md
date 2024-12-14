@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Ekster’s Stylish Wallet is Pocket-Sized Perfection](https://www.wired.com/story/ekster-parliament-smart-wallet-rave/)
+ - [Infinity Nikki is a fashion-forward Zelda](https://www.theverge.com/2024/12/14/24320757/infinity-nikki-review-gacha-dress-up-game)
  - [How Viam, founded in 2020 by MongoDB co-founder Eliot Horowitz, helps companies make anything &quot;smart&quot;, including pizza buffets and bathroom lines &lpar;Isabelle Bousquette/Wall Street Journal&rpar;](http://www.techmeme.com/241214/p12#a241214p12)
  - [NeoRuler and M-Cube review: Smarter, iPhone-connected precision measuring](https://appleinsider.com/articles/24/12/14/neoruler-and-m-cube-review-smarter-iphone-connected-precision-measuring?utm_medium=rss)
- - [With Apple Getting Into Modems, It Needs to Remember the iPhone 4](https://www.cnet.com/tech/mobile/with-apple-getting-into-modems-it-needs-to-remember-the-iphone-4/#ftag=CAD590a51e)
- - [Reasons Why You Should Keep Your Landline Phone, Even in 2025](https://www.cnet.com/tech/mobile/reasons-why-you-should-keep-your-landline-phone-even-in-2025/#ftag=CAD590a51e)
- - [9 Best Mechanical Keyboards &lpar;2024&rpar;, Tested and Reviewed](https://www.wired.com/gallery/best-mechanical-keyboards/)<!-- TECH:END -->
+ - [With Apple Getting Into Modems, It Needs to Remember the iPhone 4](https://www.cnet.com/tech/mobile/with-apple-getting-into-modems-it-needs-to-remember-the-iphone-4/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

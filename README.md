@@ -161,7 +161,7 @@ R                        1 repo              ░░░░░░░░░░░�
  - [Apple may discontinue current iPhone SE &amp; iPhone 14 models in EU](https://appleinsider.com/articles/24/12/14/apple-may-discontinue-current-iphone-se-iphone-14-models-in-eu?utm_medium=rss)
  - [Amazon’s latest Kindle Paperwhite is nearly matching its Black Friday low](https://www.theverge.com/2024/12/14/24320291/amazon-kindle-paperwhite-12th-gen-eufy-11s-max-robot-vacuum-deal-sale)
  - [Evinced, which helps companies build accessible websites and apps, raised a $55M Series C led by Insight Partners, bringing its total funding to $112M &lpar;Devin Coldewey/TechCrunch&rpar;](http://www.techmeme.com/241214/p14#a241214p14)
- - [Rhode Island’s online benefits system shuts down after cyberattack](https://www.theverge.com/2024/12/14/24321065/rhode-island-cyberattack-ribridges-benefits-offline-personal-information-social-security-snap)<!-- TECH:END -->
+ - [Best Standing Desks of 2024](https://www.cnet.com/news/best-standing-desk/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

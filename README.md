@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Document: Trump&#39;s transition team seeks to remove a crash-reporting rule opposed by Tesla and other car makers and &quot;liberalize&quot; autonomous vehicle regulation &lpar;Reuters&rpar;](http://www.techmeme.com/241214/p15#a241214p15)
+ - [Apple may discontinue current iPhone SE &amp; iPhone 14 models in EU](https://appleinsider.com/articles/24/12/14/apple-may-discontinue-current-iphone-se-iphone-14-models-in-eu?utm_medium=rss)
  - [Amazon’s latest Kindle Paperwhite is nearly matching its Black Friday low](https://www.theverge.com/2024/12/14/24320291/amazon-kindle-paperwhite-12th-gen-eufy-11s-max-robot-vacuum-deal-sale)
  - [Evinced, which helps companies build accessible websites and apps, raised a $55M Series C led by Insight Partners, bringing its total funding to $112M &lpar;Devin Coldewey/TechCrunch&rpar;](http://www.techmeme.com/241214/p14#a241214p14)
- - [Rhode Island’s online benefits system shuts down after cyberattack](https://www.theverge.com/2024/12/14/24321065/rhode-island-cyberattack-ribridges-benefits-offline-personal-information-social-security-snap)
- - [Justin Sun&#39;s BiT Global, which became a key stakeholder in the wBTC ecosystem, sues Coinbase for delisting wBTC and launching a competing product &lpar;Daniel Kuhn/The Block&rpar;](http://www.techmeme.com/241214/p13#a241214p13)
- - [Ekster’s Stylish Wallet is Pocket-Sized Perfection](https://www.wired.com/story/ekster-parliament-smart-wallet-rave/)<!-- TECH:END -->
+ - [Rhode Island’s online benefits system shuts down after cyberattack](https://www.theverge.com/2024/12/14/24321065/rhode-island-cyberattack-ribridges-benefits-offline-personal-information-social-security-snap)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

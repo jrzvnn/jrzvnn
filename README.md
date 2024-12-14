@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Best Pillows for Back Sleepers in 2024](https://www.cnet.com/health/sleep/best-pillows-for-back-sleepers/#ftag=CAD590a51e)
+ - [An analysis of App Store rankings shows how market saturation for AI-based creative apps is making it harder to find good apps that use AI in more focused ways &lpar;Jess Weatherbed/The Verge&rpar;](http://www.techmeme.com/241214/p20#a241214p20)
  - [Windows warns Phone Link won’t show ‘sensitive’ Android 15 notifications](https://www.theverge.com/2024/12/14/24321315/microsoft-windows-phone-link-notifications-not-showing-android-15)
- - [Yes, You Can Freeze Your Social Security Number to Thwart Identity Thieves. Here&#39;s How](https://www.cnet.com/personal-finance/yes-you-can-freeze-your-social-security-number-to-thwart-identity-thieves-heres-how/#ftag=CAD590a51e)
  - [Trump plans to appoint Truth Social CEO Devin Nunes to lead the President&#39;s Intelligence Advisory Board, which oversees the US intelligence community &lpar;Politico&rpar;](http://www.techmeme.com/241214/p19#a241214p19)
- - [How to Find Out How Much Social Security Benefits You&#39;ll Get](https://www.cnet.com/personal-finance/how-to-find-out-how-much-social-security-benefits-youll-get/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [How to Find Out How Much Social Security Benefits You&#39;ll Get](https://www.cnet.com/personal-finance/how-to-find-out-how-much-social-security-benefits-youll-get/#ftag=CAD590a51e)
+ - [7 Quick Fixes to Boost Your Android Phone&#39;s Performance](https://www.cnet.com/tech/mobile/7-quick-fixes-to-boost-your-android-phones-performance/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

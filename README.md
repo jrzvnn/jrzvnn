@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [A look at Dell&#39;s evolution under Michael Dell, who has transitioned the company from a nostalgic mid-90s PC maker into a leading AI infrastructure provider &lpar;Christopher Mims/Wall Street Journal&rpar;](http://www.techmeme.com/241214/p8#a241214p8)
  - [As Nvidia&#39;s stock price growth slows to just 3% over the past six months, experts say investor attention is likely to spread to companies actually using AI &lpar;Jennifer Hughes/Financial Times&rpar;](http://www.techmeme.com/241214/p7#a241214p7)
  - [Vietnam and Indonesia have imposed restrictions on Chinese e-commerce companies like Temu and Shein, seeing cheap imports as a threat to homegrown industries &lpar;Yuji Nitta/Nikkei Asia&rpar;](http://www.techmeme.com/241214/p6#a241214p6)
  - [Malaysia, which has secured billions in AI and cloud infrastructure investments over the past year, launches a national AI office for policy and regulation &lpar;Ashley Tang/Reuters&rpar;](http://www.techmeme.com/241214/p5#a241214p5)
- - [Ex-ByteDance intern Keyu Tian, who was allegedly dismissed for &quot;serious misconduct&quot;, is a co-author of one of two papers chosen for the NeurIPS Best Paper Award &lpar;Louise Matsakis/Wired&rpar;](http://www.techmeme.com/241214/p4#a241214p4)
- - [Hikvision terminates five contracts with local governments in China&#39;s Xinjiang, a move that could shield the company from pressure from the Trump administration &lpar;Eleanor Olcott/Financial Times&rpar;](http://www.techmeme.com/241214/p3#a241214p3)<!-- TECH:END -->
+ - [Ex-ByteDance intern Keyu Tian, who was allegedly dismissed for &quot;serious misconduct&quot;, is a co-author of one of two papers chosen for the NeurIPS Best Paper Award &lpar;Louise Matsakis/Wired&rpar;](http://www.techmeme.com/241214/p4#a241214p4)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

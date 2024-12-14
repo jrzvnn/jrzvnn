@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [WNBA](http://9gag.com/gag/an7gN3B)
+ - 😝 [If it works](http://9gag.com/gag/a2v1qrp)
  - 😝 [Healthy option](http://9gag.com/gag/aMV4QVV)
- - 💣 [Lillian Phillips screwdriver needs to see a doctor after sleeping with 100 guys in one day](http://9gag.com/gag/aYQrKMV)
- - 😝 [Lucky bear](http://9gag.com/gag/aPAZMbQ)
- - 👉 [How does the tiger know not to f**k with this other animal despite it being much smaller and weaker than him?](http://9gag.com/gag/aPAZWvw)<!-- MEMES:END -->
+ - 💣 [Lucky bear](http://9gag.com/gag/aPAZMbQ)
+ - 😝 [Internet&#39;s gonna break and so does she\ud83d\uddff\ud83d\uddff....](http://9gag.com/gag/aPAZM1B)
+ - 👉 [Police indicated `Currently no evidence of foul play`](http://9gag.com/gag/aVvxDBM)<!-- MEMES:END -->
 
 ---
 

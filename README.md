@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Hope the Sperms were WORHOLIC in japan](http://9gag.com/gag/aQzXxN2)
- - 😝 [Bro fishing in international sea..](http://9gag.com/gag/aMV4wOx)
- - 💣 [Justice works for the oligarchy, in one week they found the murder of UHC.](http://9gag.com/gag/a5Q17wq)
- - 😝 [This is Beautifully Wicked](http://9gag.com/gag/aqyG5Rv)
- - 👉 [State of gaming](http://9gag.com/gag/aVvxDxy)<!-- MEMES:END -->
+ - 😝 [Cloth physics](http://9gag.com/gag/aE08zpn)
+ - 😝 [WNBA](http://9gag.com/gag/an7gN3B)
+ - 💣 [I&#39;m sorry but what did you expect?](http://9gag.com/gag/aW4gWyq)
+ - 😝 [Put a chick on it, make her lame and gay](http://9gag.com/gag/aoyg9ve)
+ - 👉 [How does the tiger know not to f**k with this other animal despite it being much smaller and weaker than him?](http://9gag.com/gag/aPAZWvw)<!-- MEMES:END -->
 
 ---
 

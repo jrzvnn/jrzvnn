@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Evinced, which helps companies build accessible websites and apps, raised a $55M Series C led by Insight Partners, bringing its total funding to $112M &lpar;Devin Coldewey/TechCrunch&rpar;](http://www.techmeme.com/241214/p14#a241214p14)
  - [Rhode Island’s online benefits system shuts down after cyberattack](https://www.theverge.com/2024/12/14/24321065/rhode-island-cyberattack-ribridges-benefits-offline-personal-information-social-security-snap)
  - [Justin Sun&#39;s BiT Global, which became a key stakeholder in the wBTC ecosystem, sues Coinbase for delisting wBTC and launching a competing product &lpar;Daniel Kuhn/The Block&rpar;](http://www.techmeme.com/241214/p13#a241214p13)
  - [Ekster’s Stylish Wallet is Pocket-Sized Perfection](https://www.wired.com/story/ekster-parliament-smart-wallet-rave/)
- - [Netflix&#39;s Best Fantasy TV Shows Will Take You to Magical Realms, Far and Wide](https://www.cnet.com/tech/services-and-software/best-fantasy-tv-shows-on-netflix-2024/#ftag=CAD590a51e)
- - [Need a Last-Minute Holiday Gift? Here&#39;s How to Use AI to Make One](https://www.cnet.com/tech/services-and-software/need-a-last-minute-holiday-gift-heres-how-to-use-ai-to-make-one/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Netflix&#39;s Best Fantasy TV Shows Will Take You to Magical Realms, Far and Wide](https://www.cnet.com/tech/services-and-software/best-fantasy-tv-shows-on-netflix-2024/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

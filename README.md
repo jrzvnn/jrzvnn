@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [WNBA](http://9gag.com/gag/an7gN3B)
- - 😝 [I love watching Japanese newsreaders.](http://9gag.com/gag/a4P1dXA)
- - 💣 [How does the tiger know not to f**k with this other animal despite it being much smaller and weaker than him?](http://9gag.com/gag/aPAZWvw)
- - 😝 [Cloth physics](http://9gag.com/gag/aE08zpn)
- - 👉 [Diversity is awesome when not forced.](http://9gag.com/gag/aPAZGrn)<!-- MEMES:END -->
+ - 😝 [How does the tiger know not to f**k with this other animal despite it being much smaller and weaker than him?](http://9gag.com/gag/aPAZWvw)
+ - 😝 [The Wife Carrying World Championships have been held annually in Sonkaj\u00e4rvi, Finland, since 1992: the prize for the winner is the wife&#39;s weight in beer.](http://9gag.com/gag/aLnvM45)
+ - 💣 [WNBA](http://9gag.com/gag/an7gN3B)
+ - 😝 [Octopuses are crazy](http://9gag.com/gag/a5Q17zO)
+ - 👉 [Dude thought he bought a TV, but it turned out to be a Popeyes digital menu board.](http://9gag.com/gag/ae9gGmb)<!-- MEMES:END -->
 
 ---
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [I&#39;m sorry but what did you expect?](http://9gag.com/gag/aW4gWyq)
- - 😝 [Deleted once.....?](http://9gag.com/gag/aNDPK64)
- - 💣 [Hope the Sperms were WORHOLIC in japan](http://9gag.com/gag/aQzXxN2)
+ - 😝 [Diversity is awesome when not forced.](http://9gag.com/gag/aPAZGrn)
+ - 😝 [Octopuses are crazy](http://9gag.com/gag/a5Q17zO)
+ - 💣 [Deleted once.....?](http://9gag.com/gag/aNDPK64)
  - 😝 [Look up! It&#39;s shooting stars and beats \ud83c\udf0c\ud83c\udfb5](http://9gag.com/gag/a9y17LZ)
- - 👉 [WNBA](http://9gag.com/gag/an7gN3B)<!-- MEMES:END -->
+ - 👉 [I love watching Japanese newsreaders.](http://9gag.com/gag/a4P1dXA)<!-- MEMES:END -->
 
 ---
 

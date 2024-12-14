@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Best Walmart Deals: There’s Still Time to Save on Tech, Home Essentials and More](https://www.cnet.com/deals/best-walmart-deals/#ftag=CAD590a51e)
  - [Document: Trump&#39;s transition team seeks to remove a crash-reporting rule opposed by Tesla and other car makers and &quot;liberalize&quot; autonomous vehicle regulation &lpar;Reuters&rpar;](http://www.techmeme.com/241214/p15#a241214p15)
  - [Apple may discontinue current iPhone SE &amp; iPhone 14 models in EU](https://appleinsider.com/articles/24/12/14/apple-may-discontinue-current-iphone-se-iphone-14-models-in-eu?utm_medium=rss)
- - [Amazon’s latest Kindle Paperwhite is nearly matching its Black Friday low](https://www.theverge.com/2024/12/14/24320291/amazon-kindle-paperwhite-12th-gen-eufy-11s-max-robot-vacuum-deal-sale)
- - [Evinced, which helps companies build accessible websites and apps, raised a $55M Series C led by Insight Partners, bringing its total funding to $112M &lpar;Devin Coldewey/TechCrunch&rpar;](http://www.techmeme.com/241214/p14#a241214p14)
- - [Best Standing Desks of 2024](https://www.cnet.com/news/best-standing-desk/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [La Liga Soccer Livestream: How to Watch Rayo Vallecano vs. Real Madrid From Anywhere](https://www.cnet.com/tech/services-and-software/la-liga-soccer-livestream-how-to-watch-rayo-vallecano-vs-real-madrid-from-anywhere/#ftag=CAD590a51e)
+ - [Puffy Lux Hybrid Mattress Review 2024: Best Luxury Memory Foam?](https://www.cnet.com/health/sleep/puffy-lux-mattress-review/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [xAI begins rolling out an upgraded version of Grok-2 that is &quot;three times faster&quot; to all X users, adds a &quot;Grok button&quot; to X posts, and reduces API pricing &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/241213/p36#a241213p36)
+ - [New IRS 1099-K Tax Rule: Here&#39;s What Freelancers Who Made Money on PayPal or Cash App Need to Know](https://www.cnet.com/personal-finance/taxes/new-irs-1099-k-tax-rule-heres-what-freelancers-who-made-money-on-paypal-or-cash-app-need-to-know/#ftag=CAD590a51e)
  - [Get a 24-inch iMac for just $799 with delivery for the holidays](https://appleinsider.com/articles/24/12/14/get-a-24-inch-imac-for-just-799-with-delivery-for-the-holidays?utm_medium=rss)
  - [MicroStrategy, Palantir, and Axon will join the Nasdaq 100 index, effective before the market open on December 23; Super Micro will be removed from the index &lpar;Tanaya Macheel/CNBC&rpar;](http://www.techmeme.com/241213/p35#a241213p35)
- - [Sources: ServiceTitan&#39;s IPO brought big windfalls for early investors, including returns of $1B+ for Iconiq Growth and $800M+ for Bessemer Venture Partners &lpar;Katie Roof/Bloomberg&rpar;](http://www.techmeme.com/241213/p34#a241213p34)
- - [During his NeurIPS talk, Ilya Sutskever says &quot;Pre-training as we know it will end&quot;, as &quot;we&#39;ve achieved peak data and there&#39;ll be no more&quot; &lpar;Kylie Robison/The Verge&rpar;](http://www.techmeme.com/241213/p33#a241213p33)
- - [Meta asks the US government to block OpenAI’s switch to a for-profit](https://www.theverge.com/2024/12/13/24320880/meta-california-ag-letter-openai-non-profit-elon-musk)<!-- TECH:END -->
+ - [Sources: ServiceTitan&#39;s IPO brought big windfalls for early investors, including returns of $1B+ for Iconiq Growth and $800M+ for Bessemer Venture Partners &lpar;Katie Roof/Bloomberg&rpar;](http://www.techmeme.com/241213/p34#a241213p34)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

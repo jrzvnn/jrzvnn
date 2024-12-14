@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Tinder warns of declining to flat direct revenue through 2026, below estimates, and says it plans to prioritize improving its user experience over monetization &lpar;Natalie Lung/Bloomberg&rpar;](http://www.techmeme.com/241214/p2#a241214p2)
+ - [Cantor Fitzgerald settles US SEC charges for $6.75M over disclosures before its SPACs merged with smart glass maker View and geospatial data company Satellogic &lpar;Christina Wilkie/CNBC&rpar;](http://www.techmeme.com/241214/p1#a241214p1)
  - [Today&#39;s NYT Mini Crossword Answers for Saturday, Dec. 14](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-saturday-dec-14/#ftag=CAD590a51e)
  - [Today&#39;s NYT Strands Hints, Answers and Help for Dec. 14, #286](https://www.cnet.com/tech/gaming/todays-nyt-strands-hints-answers-and-help-for-dec-14-286/#ftag=CAD590a51e)
- - [Today&#39;s NYT Connections Hints, Answers and Help for Dec. 14, #552](https://www.cnet.com/tech/gaming/todays-nyt-connections-hints-answers-and-help-for-dec-14-552/#ftag=CAD590a51e)
- - [Today&#39;s Wordle Hints, Answer and Help for Dec. 14, #1274](https://www.cnet.com/tech/gaming/todays-wordle-hints-answer-and-help-for-dec-14-1274/#ftag=CAD590a51e)
- - [Today&#39;s NYT Connections: Sports Edition Hints and Answers for Dec. 14, #82](https://www.cnet.com/tech/gaming/todays-nyt-connections-sports-edition-hints-and-answers-for-dec-14-82/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Today&#39;s NYT Connections Hints, Answers and Help for Dec. 14, #552](https://www.cnet.com/tech/gaming/todays-nyt-connections-hints-answers-and-help-for-dec-14-552/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

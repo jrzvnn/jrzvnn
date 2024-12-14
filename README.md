@@ -158,10 +158,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- TECH:START -->
  - [A look at opposing VC models of Benchmark, which maintains its traditional small-scale approach, and Andreessen Horowitz, which pursues aggressive expansion &lpar;Erin Griffith/New York Times&rpar;](http://www.techmeme.com/241214/p9#a241214p9)
+ - [Can Trump Influence the Federal Reserve and Lower Interest Rates?](https://www.cnet.com/personal-finance/can-trump-influence-the-federal-reserve-and-lower-interest-rates/#ftag=CAD590a51e)
  - [Creating a Global Package to Solve the Problem of Plastics](https://www.wired.com/story/global-plastics-treaty-united-nations/)
  - [Best Internet Providers in Carlsbad, California](https://www.cnet.com/home/internet/best-internet-providers-in-carlsbad-ca/#ftag=CAD590a51e)
- - [Have Student Debt? 6 Things to Do Before the Year Ends, From a Student Loan Expert](https://www.cnet.com/personal-finance/loans/have-student-debt-6-things-to-do-before-the-year-ends-from-a-student-loan-expert/#ftag=CAD590a51e)
- - [A look at Dell&#39;s evolution under Michael Dell, who has transitioned the company from a nostalgic mid-90s PC maker into a leading AI infrastructure provider &lpar;Christopher Mims/Wall Street Journal&rpar;](http://www.techmeme.com/241214/p8#a241214p8)<!-- TECH:END -->
+ - [Have Student Debt? 6 Things to Do Before the Year Ends, From a Student Loan Expert](https://www.cnet.com/personal-finance/loans/have-student-debt-6-things-to-do-before-the-year-ends-from-a-student-loan-expert/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

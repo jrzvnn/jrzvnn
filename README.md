@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Be simpler](http://9gag.com/gag/axyBjvb)
- - 😝 [Finally found after a long time](http://9gag.com/gag/awyzVDy)
- - 💣 [Well now there&#39;s a surprise](http://9gag.com/gag/aAyGP0E)
+ - 😝 [If it starts to smell rotten egg that&#39;s mean you&#39;re done, they call it silent killer](http://9gag.com/gag/aryn4Op)
+ - 😝 [Diversity is awesome when not forced.](http://9gag.com/gag/aPAZGrn)
+ - 💣 [Well at least he didn&#39;t Pepsi the baby. Or maybe he&#39;s just a carnapper and not a kidnapper?](http://9gag.com/gag/aQzXxpq)
  - 😝 [Look up! It&#39;s shooting stars and beats \ud83c\udf0c\ud83c\udfb5](http://9gag.com/gag/a9y17LZ)
- - 👉 [Family video](http://9gag.com/gag/a5Q1PMO)<!-- MEMES:END -->
+ - 👉 [*neuron activation*](http://9gag.com/gag/a1m1eMY)<!-- MEMES:END -->
 
 ---
 

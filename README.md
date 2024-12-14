@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Save Space on Your Phone by Offloading and Archiving Apps](https://www.wired.com/story/offload-and-archive-apps-to-save-space-on-your-phone/)
  - [Mega-Farms Are Driving the Threat of Bird Flu](https://www.wired.com/story/mega-farms-are-driving-the-threat-of-bird-flu/)
  - [The 25 Best Shows on Amazon Prime Right Now &lpar;December 2024&rpar;](https://www.wired.com/story/best-shows-amazon-prime/)
  - [Japanese chipmaker Kioxia&#39;s dramatic valuation drop from $18B in 2018 to $5.1B in its upcoming IPO is due to its high debt and lower AI exposure than rivals &lpar;Jacky Wong/Wall Street Journal&rpar;](http://www.techmeme.com/241214/p10#a241214p10)
- - [Microsoft’s AI Recall Tool Is Still Sucking Up Credit Card and Social Security Numbers](https://www.wired.com/story/microsoft-recall-credit-card-social-security-numbers/)
- - [Best Internet Providers in Idaho Falls, Idaho](https://www.cnet.com/home/internet/best-internet-providers-in-idaho-falls-id/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Microsoft’s AI Recall Tool Is Still Sucking Up Credit Card and Social Security Numbers](https://www.wired.com/story/microsoft-recall-credit-card-social-security-numbers/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

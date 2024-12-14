@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Japanese chipmaker Kioxia&#39;s dramatic valuation drop from $18B in 2018 to $5.1B in its upcoming IPO is due to its high debt and lower AI exposure than rivals &lpar;Jacky Wong/Wall Street Journal&rpar;](http://www.techmeme.com/241214/p10#a241214p10)
  - [Microsoft’s AI Recall Tool Is Still Sucking Up Credit Card and Social Security Numbers](https://www.wired.com/story/microsoft-recall-credit-card-social-security-numbers/)
- - [Can the AirPods Pro 2 Really Replace Hearing Aids? We Asked a Grandmother](https://www.wired.com/story/can-apple-airpods-pro-2-replace-hearing-aids-ask-a-grandmother/)
- - [Best Internet Providers in Jackson, Mississippi](https://www.cnet.com/home/internet/best-internet-providers-in-jackson-ms/#ftag=CAD590a51e)
- - [Best Internet Providers in Chicago, Illinois](https://www.cnet.com/home/internet/best-internet-providers-in-chicago-il/#ftag=CAD590a51e)
- - [A look at opposing VC models of Benchmark, which maintains its traditional small-scale approach, and Andreessen Horowitz, which pursues aggressive expansion &lpar;Erin Griffith/New York Times&rpar;](http://www.techmeme.com/241214/p9#a241214p9)<!-- TECH:END -->
+ - [Best Internet Providers in Idaho Falls, Idaho](https://www.cnet.com/home/internet/best-internet-providers-in-idaho-falls-id/#ftag=CAD590a51e)
+ - [Loneliness and Isolation: New Study Points to Higher Impact on Older Adults](https://www.cnet.com/health/mental/loneliness-isolation-new-study-higher-impact-older-adults/#ftag=CAD590a51e)
+ - [Keep Your Plates Clean With Fewer Dishwasher Loads With These Simple Steps](https://www.cnet.com/how-to/keep-plates-clean-with-fewer-loads-in-dishwasher/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

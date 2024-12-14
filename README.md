@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Car driver prevents cyclist from a potential wolf attack](http://9gag.com/gag/a4P1ZEy)
- - 😝 [9gaggers... hear me out...](http://9gag.com/gag/a341qw1)
- - 💣 [A New Jersey resident apparently opens fire on a UAP/UFO &#39;drone&#39; tonight](http://9gag.com/gag/aO8QdrN)
- - 😝 [4am puctures](http://9gag.com/gag/aD2Djed)
- - 👉 [How does the tiger know not to f**k with this other animal despite it being much smaller and weaker than him?](http://9gag.com/gag/aPAZWvw)<!-- MEMES:END -->
+ - 😝 [Which one is your favorite?](http://9gag.com/gag/aRBrmm5)
+ - 😝 [The real enemy of humanity.](http://9gag.com/gag/an7gbNL)
+ - 💣 [Casual racism to professional racism](http://9gag.com/gag/aD2DGqd)
+ - 😝 [Merry Xmas](http://9gag.com/gag/a871yoe)
+ - 👉 [I said your niece was f**kable?? Well she is](http://9gag.com/gag/aD2DWXG)<!-- MEMES:END -->
 
 ---
 

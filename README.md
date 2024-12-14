@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Huh... Wait a second...](http://9gag.com/gag/a9y1Pxo)
- - 😝 [9gaggers... hear me out...](http://9gag.com/gag/a341qw1)
+ - 😝 [What\u2019s the excuse for their behavior in Japan? Also slavery?](http://9gag.com/gag/axyBVDn)
+ - 😝 [Skeleton of a whale in the middle of the jungle in Costa Rica](http://9gag.com/gag/arynRDX)
  - 💣 [Put a chick on it, make her lame and gay](http://9gag.com/gag/aoyg9ve)
- - 😝 [WNBA](http://9gag.com/gag/an7gN3B)
- - 👉 [Internet&#39;s gonna break and so does she\ud83d\uddff\ud83d\uddff....](http://9gag.com/gag/aPAZM1B)<!-- MEMES:END -->
+ - 😝 [Jason Alexander was 29 in the first episode of Seindfeld](http://9gag.com/gag/aW4gOYK)
+ - 👉 [9gaggers... hear me out...](http://9gag.com/gag/a341qw1)<!-- MEMES:END -->
 
 ---
 

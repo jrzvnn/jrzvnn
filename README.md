@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Put a chick on it, make her lame and gay](http://9gag.com/gag/aoyg9ve)
- - 😝 [Hippos are cool](http://9gag.com/gag/aLnvP7V)
- - 💣 [Bro is sleeping on the couch tonight](https://www.reddit.com/r/funny/comments/1he4jzd/bro_is_sleeping_on_the_couch_tonight/)
- - 😝 [WNBA](http://9gag.com/gag/an7gN3B)
- - 👉 [I love watching Japanese newsreaders.](http://9gag.com/gag/a4P1dXA)<!-- MEMES:END -->
+ - 😝 [Well at least he didn&#39;t Pepsi the baby. Or maybe he&#39;s just a carnapper and not a kidnapper?](http://9gag.com/gag/aQzXxpq)
+ - 😝 [I love watching Japanese newsreaders.](http://9gag.com/gag/a4P1dXA)
+ - 💣 [Healthy option](http://9gag.com/gag/aMV4QVV)
+ - 😝 [13-year-old Magnus Carlsen gets bored playing against World Champ Kasparov](http://9gag.com/gag/aRBrK4q)
+ - 👉 [Dude thought he bought a TV, but it turned out to be a Popeyes digital menu board.](http://9gag.com/gag/ae9gGmb)<!-- MEMES:END -->
 
 ---
 

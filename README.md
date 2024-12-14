@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [xAI begins rolling out an upgraded version of Grok-2 that is &quot;three times faster&quot; to all X users, adds a &quot;Grok button&quot; to X posts, and reduces API pricing &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/241213/p36#a241213p36)
- - [New IRS 1099-K Tax Rule: Here&#39;s What Freelancers Who Made Money on PayPal or Cash App Need to Know](https://www.cnet.com/personal-finance/taxes/new-irs-1099-k-tax-rule-heres-what-freelancers-who-made-money-on-paypal-or-cash-app-need-to-know/#ftag=CAD590a51e)
- - [Get a 24-inch iMac for just $799 with delivery for the holidays](https://appleinsider.com/articles/24/12/14/get-a-24-inch-imac-for-just-799-with-delivery-for-the-holidays?utm_medium=rss)
- - [MicroStrategy, Palantir, and Axon will join the Nasdaq 100 index, effective before the market open on December 23; Super Micro will be removed from the index &lpar;Tanaya Macheel/CNBC&rpar;](http://www.techmeme.com/241213/p35#a241213p35)
- - [Sources: ServiceTitan&#39;s IPO brought big windfalls for early investors, including returns of $1B+ for Iconiq Growth and $800M+ for Bessemer Venture Partners &lpar;Katie Roof/Bloomberg&rpar;](http://www.techmeme.com/241213/p34#a241213p34)<!-- TECH:END -->
+ - [Today&#39;s NYT Mini Crossword Answers for Saturday, Dec. 14](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-saturday-dec-14/#ftag=CAD590a51e)
+ - [Today&#39;s NYT Strands Hints, Answers and Help for Dec. 14, #286](https://www.cnet.com/tech/gaming/todays-nyt-strands-hints-answers-and-help-for-dec-14-286/#ftag=CAD590a51e)
+ - [Today&#39;s NYT Connections Hints, Answers and Help for Dec. 14, #552](https://www.cnet.com/tech/gaming/todays-nyt-connections-hints-answers-and-help-for-dec-14-552/#ftag=CAD590a51e)
+ - [Today&#39;s Wordle Hints, Answer and Help for Dec. 14, #1274](https://www.cnet.com/tech/gaming/todays-wordle-hints-answer-and-help-for-dec-14-1274/#ftag=CAD590a51e)
+ - [Today&#39;s NYT Connections: Sports Edition Hints and Answers for Dec. 14, #82](https://www.cnet.com/tech/gaming/todays-nyt-connections-sports-edition-hints-and-answers-for-dec-14-82/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

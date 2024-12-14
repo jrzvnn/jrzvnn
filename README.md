@@ -167,10 +167,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [A New Jersey resident apparently opens fire on a UAP/UFO &#39;drone&#39; tonight](http://9gag.com/gag/aO8QdrN)
- - 😝 [Why did she do it?](http://9gag.com/gag/a6Z1yVq)
- - 💣 [How does the tiger know not to f**k with this other animal despite it being much smaller and weaker than him?](http://9gag.com/gag/aPAZWvw)
- - 😝 [Look up! It&#39;s shooting stars and beats \ud83c\udf0c\ud83c\udfb5](http://9gag.com/gag/a9y17LZ)
- - 👉 [Overestimated herself](http://9gag.com/gag/avyAnrE)<!-- MEMES:END -->
+ - 😝 [I love watching Japanese newsreaders.](http://9gag.com/gag/a4P1dXA)
+ - 💣 [Nancy Parker, fired from her job and didn&#39;t get the reward money because she called 911 directly instead of the Crime Stoppers hotline](http://9gag.com/gag/ae9g0O5)
+ - 😝 [How does the tiger know not to f**k with this other animal despite it being much smaller and weaker than him?](http://9gag.com/gag/aPAZWvw)
+ - 👉 [Cloth physics](http://9gag.com/gag/aE08zpn)<!-- MEMES:END -->
 
 ---
 

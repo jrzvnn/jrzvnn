@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Top 10 Mattresses for Side Sleepers of 2024, Expert-Tested and Approved](https://www.cnet.com/health/sleep/best-mattress-for-side-sleepers/#ftag=CAD590a51e)
- - [Best Mattress to Buy on Amazon in 2024](https://www.cnet.com/health/sleep/best-amazon-mattress/#ftag=CAD590a51e)
- - [Best Internet Providers in Casper, Wyoming](https://www.cnet.com/home/internet/best-internet-providers-in-casper-wy/#ftag=CAD590a51e)
- - [AI companies, running out of the conventional training data sets, may be forced to shift away from big, all-purpose LLMs to smaller, more specialized models &lpar;Nicola Jones/Nature&rpar;](http://www.techmeme.com/241214/p18#a241214p18)
- - [Best Internet Providers in Dover, Ohio](https://www.cnet.com/home/internet/best-internet-providers-in-dover-oh/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Trump plans to appoint Truth Social CEO Devin Nunes to lead the President&#39;s Intelligence Advisory Board, which oversees the US intelligence community &lpar;Politico&rpar;](http://www.techmeme.com/241214/p19#a241214p19)
+ - [How to Find Out How Much Social Security Benefits You&#39;ll Get](https://www.cnet.com/personal-finance/how-to-find-out-how-much-social-security-benefits-youll-get/#ftag=CAD590a51e)
+ - [7 Quick Fixes to Boost Your Android Phone&#39;s Performance](https://www.cnet.com/tech/mobile/7-quick-fixes-to-boost-your-android-phones-performance/#ftag=CAD590a51e)
+ - [Best Gifts for CrossFitters in 2024](https://www.cnet.com/health/fitness/best-gifts-for-crossfitters/#ftag=CAD590a51e)
+ - [Best Internet Providers in Columbus, Ohio](https://www.cnet.com/home/internet/best-internet-providers-in-columbus-oh/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

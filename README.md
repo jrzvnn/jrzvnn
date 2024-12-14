@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [As Nvidia&#39;s stock price growth slows to just 3% over the past six months, experts say investor attention is likely to spread to companies actually using AI &lpar;Jennifer Hughes/Financial Times&rpar;](http://www.techmeme.com/241214/p7#a241214p7)
+ - [Vietnam and Indonesia have imposed restrictions on Chinese e-commerce companies like Temu and Shein, seeing cheap imports as a threat to homegrown industries &lpar;Yuji Nitta/Nikkei Asia&rpar;](http://www.techmeme.com/241214/p6#a241214p6)
  - [Malaysia, which has secured billions in AI and cloud infrastructure investments over the past year, launches a national AI office for policy and regulation &lpar;Ashley Tang/Reuters&rpar;](http://www.techmeme.com/241214/p5#a241214p5)
  - [Ex-ByteDance intern Keyu Tian, who was allegedly dismissed for &quot;serious misconduct&quot;, is a co-author of one of two papers chosen for the NeurIPS Best Paper Award &lpar;Louise Matsakis/Wired&rpar;](http://www.techmeme.com/241214/p4#a241214p4)
- - [Hikvision terminates five contracts with local governments in China&#39;s Xinjiang, a move that could shield the company from pressure from the Trump administration &lpar;Eleanor Olcott/Financial Times&rpar;](http://www.techmeme.com/241214/p3#a241214p3)
- - [The Top 6 Alarm Clocks of 2024](https://www.cnet.com/health/sleep/best-alarm-clock/#ftag=CAD590a51e)
- - [Tinder warns of declining to flat direct revenue through 2026, below estimates, and says it plans to prioritize improving its user experience over monetization &lpar;Natalie Lung/Bloomberg&rpar;](http://www.techmeme.com/241214/p2#a241214p2)<!-- TECH:END -->
+ - [Hikvision terminates five contracts with local governments in China&#39;s Xinjiang, a move that could shield the company from pressure from the Trump administration &lpar;Eleanor Olcott/Financial Times&rpar;](http://www.techmeme.com/241214/p3#a241214p3)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

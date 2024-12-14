@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Overestimated herself](http://9gag.com/gag/avyAnrE)
- - 😝 [So what do you think this is?](http://9gag.com/gag/aByn1RO)
- - 💣 [Octopuses are crazy](http://9gag.com/gag/a5Q17zO)
+ - 😝 [Hope the Sperms were WORHOLIC in japan](http://9gag.com/gag/aQzXxN2)
+ - 😝 [Based](http://9gag.com/gag/aoygp0g)
+ - 💣 [Damn, i miss this kind of movie](http://9gag.com/gag/a7o17ox)
  - 😝 [Look up! It&#39;s shooting stars and beats \ud83c\udf0c\ud83c\udfb5](http://9gag.com/gag/a9y17LZ)
- - 👉 [If it starts to smell rotten egg that&#39;s mean you&#39;re done, they call it silent killer](http://9gag.com/gag/aryn4Op)<!-- MEMES:END -->
+ - 👉 [Family video](http://9gag.com/gag/a5Q1PMO)<!-- MEMES:END -->
 
 ---
 

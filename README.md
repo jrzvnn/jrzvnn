@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [If it starts to smell rotten egg that&#39;s mean you&#39;re done, they call it silent killer](http://9gag.com/gag/aryn4Op)
- - 😝 [Diversity is awesome when not forced.](http://9gag.com/gag/aPAZGrn)
- - 💣 [Well at least he didn&#39;t Pepsi the baby. Or maybe he&#39;s just a carnapper and not a kidnapper?](http://9gag.com/gag/aQzXxpq)
+ - 😝 [Well at least he didn&#39;t Pepsi the baby. Or maybe he&#39;s just a carnapper and not a kidnapper?](http://9gag.com/gag/aQzXxpq)
+ - 😝 [A black woman gathered #BLM activists to harass a local store owner after he kicked her out for shoplifting](http://9gag.com/gag/aVvxX9n)
+ - 💣 [Overestimated herself](http://9gag.com/gag/avyAnrE)
  - 😝 [Look up! It&#39;s shooting stars and beats \ud83c\udf0c\ud83c\udfb5](http://9gag.com/gag/a9y17LZ)
- - 👉 [*neuron activation*](http://9gag.com/gag/a1m1eMY)<!-- MEMES:END -->
+ - 👉 [It&#39;s that time of the year Do your worst!](http://9gag.com/gag/aGyzDQ5)<!-- MEMES:END -->
 
 ---
 

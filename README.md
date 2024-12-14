@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [MicroStrategy, Palantir, and Axon will join the Nasdaq 100 index, effective before the market open on December 23; Super Micro will be removed from the index &lpar;Tanaya Macheel/CNBC&rpar;](http://www.techmeme.com/241213/p35#a241213p35)
  - [Sources: ServiceTitan&#39;s IPO brought big windfalls for early investors, including returns of $1B+ for Iconiq Growth and $800M+ for Bessemer Venture Partners &lpar;Katie Roof/Bloomberg&rpar;](http://www.techmeme.com/241213/p34#a241213p34)
  - [During his NeurIPS talk, Ilya Sutskever says &quot;Pre-training as we know it will end&quot;, as &quot;we&#39;ve achieved peak data and there&#39;ll be no more&quot; &lpar;Kylie Robison/The Verge&rpar;](http://www.techmeme.com/241213/p33#a241213p33)
  - [Meta asks the US government to block OpenAI’s switch to a for-profit](https://www.theverge.com/2024/12/13/24320880/meta-california-ag-letter-openai-non-profit-elon-musk)
- - [Suchir Balaji, a former OpenAI researcher who accused the company of copyright violations in October, was found dead by suicide on November 26 in San Francisco &lpar;Jakob Rodgers/Mercury News&rpar;](http://www.techmeme.com/241213/p32#a241213p32)
- - [Best Internet Providers in Beaumont, Texas](https://www.cnet.com/home/internet/best-internet-providers-in-beaumont-tx/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Suchir Balaji, a former OpenAI researcher who accused the company of copyright violations in October, was found dead by suicide on November 26 in San Francisco &lpar;Jakob Rodgers/Mercury News&rpar;](http://www.techmeme.com/241213/p32#a241213p32)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Lillian Phillips screwdriver needs to see a doctor after sleeping with 100 guys in one day](http://9gag.com/gag/aYQrKMV)
- - 😝 [I love watching Japanese newsreaders.](http://9gag.com/gag/a4P1dXA)
- - 💣 [Stay focused](http://9gag.com/gag/aRBrAvG)
- - 😝 [How does the tiger know not to f**k with this other animal despite it being much smaller and weaker than him?](http://9gag.com/gag/aPAZWvw)
- - 👉 [Octopuses are crazy](http://9gag.com/gag/a5Q17zO)<!-- MEMES:END -->
+ - 😝 [WNBA](http://9gag.com/gag/an7gN3B)
+ - 😝 [She found out](http://9gag.com/gag/ayN9ngY)
+ - 💣 [Put a chick on it, make her lame and gay](http://9gag.com/gag/aoyg9ve)
+ - 😝 [Stay focused](http://9gag.com/gag/aRBrAvG)
+ - 👉 [I&#39;m sorry but what did you expect?](http://9gag.com/gag/aW4gWyq)<!-- MEMES:END -->
 
 ---
 

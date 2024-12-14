@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [Put a chick on it, make her lame and gay](http://9gag.com/gag/aoyg9ve)
  - 😝 [What\u2019s the excuse for their behavior in Japan? Also slavery?](http://9gag.com/gag/axyBVDn)
- - 😝 [Skeleton of a whale in the middle of the jungle in Costa Rica](http://9gag.com/gag/arynRDX)
- - 💣 [Put a chick on it, make her lame and gay](http://9gag.com/gag/aoyg9ve)
- - 😝 [Jason Alexander was 29 in the first episode of Seindfeld](http://9gag.com/gag/aW4gOYK)
- - 👉 [9gaggers... hear me out...](http://9gag.com/gag/a341qw1)<!-- MEMES:END -->
+ - 💣 [This is why I hate going swimming. F**k that](http://9gag.com/gag/aD2DGGd)
+ - 😝 [Extended find out phase](http://9gag.com/gag/a1m1bjY)
+ - 👉 [Octopuses are crazy](http://9gag.com/gag/a5Q17zO)<!-- MEMES:END -->
 
 ---
 

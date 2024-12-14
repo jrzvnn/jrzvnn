@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [4am puctures](http://9gag.com/gag/aD2Djed)
  - 😝 [Skeleton of a whale in the middle of the jungle in Costa Rica](http://9gag.com/gag/arynRDX)
- - 💣 [Police indicated `Currently no evidence of foul play`](http://9gag.com/gag/aVvxDBM)
  - 😝 [Lillian Phillips screwdriver needs to see a doctor after sleeping with 100 guys in one day](http://9gag.com/gag/aYQrKMV)
- - 👉 [What\u2019s the excuse for their behavior in Japan? Also slavery?](http://9gag.com/gag/axyBVDn)<!-- MEMES:END -->
+ - 💣 [Octopuses are crazy](http://9gag.com/gag/a5Q17zO)
+ - 😝 [A New Jersey resident apparently opens fire on a UAP/UFO &#39;drone&#39; tonight](http://9gag.com/gag/aO8QdrN)
+ - 👉 [Police indicated `Currently no evidence of foul play`](http://9gag.com/gag/aVvxDBM)<!-- MEMES:END -->
 
 ---
 

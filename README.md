@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [In a letter, Meta urges California&#39;s AG to block OpenAI&#39;s planned conversion to a for-profit company, saying &quot;OpenAI&#39;s conduct could have seismic implications&quot; &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/241213/p31#a241213p31)
- - [A US appeals court declines to temporarily block a ban on TikTok; TikTok had indicated it would ask SCOTUS to step in on an emergency basis to block the law &lpar;Devan Cole/CNN&rpar;](http://www.techmeme.com/241213/p30#a241213p30)
- - [OpenAI cofounder Ilya Sutskever says the way AI is built is about to change](https://www.theverge.com/2024/12/13/24320811/what-ilya-sutskever-sees-openai-model-data-training)
- - [Tim Cook is the latest tech CEO to meet with Trump at Mar-a-Lago](https://www.theverge.com/2024/12/13/24320839/donald-trump-tim-cook-mar-a-lago)
- - [Tim Cook rumored to be meeting with Donald Trump for dinner on Friday](https://appleinsider.com/articles/24/12/14/tim-cook-rumored-to-be-meeting-with-donald-trump-for-dinner-on-friday?utm_medium=rss)<!-- TECH:END -->
+ - [Sources: ServiceTitan&#39;s IPO brought big windfalls for early investors, including returns of $1B+ for Iconiq Growth and $800M+ for Bessemer Venture Partners &lpar;Katie Roof/Bloomberg&rpar;](http://www.techmeme.com/241213/p34#a241213p34)
+ - [During his NeurIPS talk, Ilya Sutskever says &quot;Pre-training as we know it will end&quot;, as &quot;we&#39;ve achieved peak data and there&#39;ll be no more&quot; &lpar;Kylie Robison/The Verge&rpar;](http://www.techmeme.com/241213/p33#a241213p33)
+ - [Meta asks the US government to block OpenAI’s switch to a for-profit](https://www.theverge.com/2024/12/13/24320880/meta-california-ag-letter-openai-non-profit-elon-musk)
+ - [Suchir Balaji, a former OpenAI researcher who accused the company of copyright violations in October, was found dead by suicide on November 26 in San Francisco &lpar;Jakob Rodgers/Mercury News&rpar;](http://www.techmeme.com/241213/p32#a241213p32)
+ - [Best Internet Providers in Beaumont, Texas](https://www.cnet.com/home/internet/best-internet-providers-in-beaumont-tx/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

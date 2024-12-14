@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [WNBA](http://9gag.com/gag/an7gN3B)
- - 😝 [She found out](http://9gag.com/gag/ayN9ngY)
- - 💣 [Put a chick on it, make her lame and gay](http://9gag.com/gag/aoyg9ve)
- - 😝 [Stay focused](http://9gag.com/gag/aRBrAvG)
- - 👉 [I&#39;m sorry but what did you expect?](http://9gag.com/gag/aW4gWyq)<!-- MEMES:END -->
+ - 😝 [Put a chick on it, make her lame and gay](http://9gag.com/gag/aoyg9ve)
+ - 😝 [Hippos are cool](http://9gag.com/gag/aLnvP7V)
+ - 💣 [WNBA](http://9gag.com/gag/an7gN3B)
+ - 😝 [I love watching Japanese newsreaders.](http://9gag.com/gag/a4P1dXA)
+ - 👉 [Octopuses are crazy](http://9gag.com/gag/a5Q17zO)<!-- MEMES:END -->
 
 ---
 

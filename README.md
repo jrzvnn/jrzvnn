@@ -158,10 +158,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- TECH:START -->
  - [Now ChromeOS can reset itself without erasing your laptop](https://www.theverge.com/2024/12/14/24321380/chromeos-m131-update-safety-reset-flash-notifications-accessibility)
- - [An analysis of App Store rankings shows how market saturation for AI-based creative apps is making it harder to find good apps that use AI in more focused ways &lpar;Jess Weatherbed/The Verge&rpar;](http://www.techmeme.com/241214/p20#a241214p20)
- - [Best Pillows for Back Sleepers in 2024](https://www.cnet.com/health/sleep/best-pillows-for-back-sleepers/#ftag=CAD590a51e)
- - [Windows warns Phone Link won’t show ‘sensitive’ Android 15 notifications](https://www.theverge.com/2024/12/14/24321315/microsoft-windows-phone-link-notifications-not-showing-android-15)
- - [Yes, You Can Freeze Your Social Security Number to Thwart Identity Thieves. Here&#39;s How](https://www.cnet.com/personal-finance/yes-you-can-freeze-your-social-security-number-to-thwart-identity-thieves-heres-how/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [The 5 Best RV Mattresses of 2024](https://www.cnet.com/health/sleep/best-rv-mattress/#ftag=CAD590a51e)
+ - [Holiday Shipping Guide: Your Last-Minute Dates for USPS, FedEx, UPS and Amazon](https://www.cnet.com/how-to/holiday-shipping-guide-your-last-minute-dates-for-usps-fedex-ups-and-amazon/#ftag=CAD590a51e)
+ - [Best AirPods Deals: Shop the Lowest Prices on Apple Earbuds in Time for the Holidays](https://www.cnet.com/deals/best-airpods-deals/#ftag=CAD590a51e)
+ - [An analysis of App Store rankings shows how market saturation for AI-based creative apps is making it harder to find good apps that use AI in more focused ways &lpar;Jess Weatherbed/The Verge&rpar;](http://www.techmeme.com/241214/p20#a241214p20)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

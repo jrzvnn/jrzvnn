@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [How does the tiger know not to f**k with this other animal despite it being much smaller and weaker than him?](http://9gag.com/gag/aPAZWvw)
- - 😝 [The Wife Carrying World Championships have been held annually in Sonkaj\u00e4rvi, Finland, since 1992: the prize for the winner is the wife&#39;s weight in beer.](http://9gag.com/gag/aLnvM45)
- - 💣 [WNBA](http://9gag.com/gag/an7gN3B)
- - 😝 [Octopuses are crazy](http://9gag.com/gag/a5Q17zO)
- - 👉 [Dude thought he bought a TV, but it turned out to be a Popeyes digital menu board.](http://9gag.com/gag/ae9gGmb)<!-- MEMES:END -->
+ - 😝 [Hope the Sperms were WORHOLIC in japan](http://9gag.com/gag/aQzXxN2)
+ - 😝 [State of gaming](http://9gag.com/gag/aVvxDxy)
+ - 💣 [Damn, i miss this kind of movie](http://9gag.com/gag/a7o17ox)
+ - 😝 [Finally found after a long time](http://9gag.com/gag/awyzVDy)
+ - 👉 [Justice works for the oligarchy, in one week they found the murder of UHC.](http://9gag.com/gag/a5Q17wq)<!-- MEMES:END -->
 
 ---
 

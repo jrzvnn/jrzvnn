@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [A look at Broadcom&#39;s path to $1T in market cap: stock up 760%+ after abandoning its $120B Qualcomm bid in 2018, three deals worth $10B+ after that, and more &lpar;Ari Levy/CNBC&rpar;](http://www.techmeme.com/241215/p3#a241215p3)
  - [Officials say hackers possibly accessed personal data of hundreds of thousands Rhode Island residents, with a &quot;high probability&quot; that sensitive info was stolen &lpar;Aimee Ortiz/New York Times&rpar;](http://www.techmeme.com/241215/p2#a241215p2)
  - [Sources say it makes no sense for Elon Musk to target OpenAI with onerous regulation as co-chair of DOGE, given his remit is to find ways to slash regulation &lpar;Financial Times&rpar;](http://www.techmeme.com/241215/p1#a241215p1)
  - [Qualcomm stated Snapdragon X PC return rates are &quot;within industry norm&quot;, after interim Intel co-CEO Michelle Johnston Holthaus claimed large ARM PC return rates &lpar;Dylan Martin/CRN&rpar;](http://www.techmeme.com/241214/p24#a241214p24)
- - [Researchers find a yearlong ongoing supply-chain attack targeting malicious and benevolent security personnel and stealing over 390K WordPress credentials &lpar;Dan Goodin/Ars Technica&rpar;](http://www.techmeme.com/241214/p23#a241214p23)
- - [Today&#39;s NYT Mini Crossword Answers for Sunday, Dec. 15](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-sunday-dec-15/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Researchers find a yearlong ongoing supply-chain attack targeting malicious and benevolent security personnel and stealing over 390K WordPress credentials &lpar;Dan Goodin/Ars Technica&rpar;](http://www.techmeme.com/241214/p23#a241214p23)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

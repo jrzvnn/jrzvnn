@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [A profile of Donald Trump&#39;s AI and crypto czar David Sacks, who has urged AI companies and other tech startups to boost US competitiveness and national security &lpar;George Hammond/Financial Times&rpar;](http://www.techmeme.com/241215/p13#a241215p13)
  - [Apple’s foldable iPad could be like ‘two iPad Pros side-by-side’](https://www.theverge.com/2024/12/15/24321659/apple-foldable-18-8-inch-ipad-invisible-crease-rumor)
  - [New 2024 Christmas Movies on Netflix, Hulu and More to Immerse You in the Season](https://www.cnet.com/tech/services-and-software/new-2024-christmas-movies-on-netflix-hulu-and-more-to-immerse-you-in-the-season/#ftag=CAD590a51e)
  - [Telegram says it has removed 15.4M groups and channels with harmful content in 2024, as its moderation page shows more enforcement since Pavel Durov&#39;s arrest &lpar;Charles Rollet/TechCrunch&rpar;](http://www.techmeme.com/241215/p12#a241215p12)
- - [Apple won&#39;t be selling smartglasses for a few more years](https://appleinsider.com/articles/24/12/15/apple-wont-be-selling-smartglasses-for-a-few-more-years?utm_medium=rss)
- - [Sources: Apple is working on a foldable device the size of two iPad Pros for 2028, a Magic Mouse revamp, and an AirTag with triple the range of the current one &lpar;Mark Gurman/Bloomberg&rpar;](http://www.techmeme.com/241215/p11#a241215p11)<!-- TECH:END -->
+ - [Apple won&#39;t be selling smartglasses for a few more years](https://appleinsider.com/articles/24/12/15/apple-wont-be-selling-smartglasses-for-a-few-more-years?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

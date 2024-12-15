@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [13-year-old Magnus Carlsen gets bored playing against World Champ Kasparov](http://9gag.com/gag/aRBrK4q)
  - 😝 [It would work on me](http://9gag.com/gag/aZZrmA0)
- - 💣 [A New Jersey resident apparently opens fire on a UAP/UFO &#39;drone&#39; tonight](http://9gag.com/gag/aO8QdrN)
- - 😝 [Octopuses are crazy](http://9gag.com/gag/a5Q17zO)
- - 👉 [Nice](http://9gag.com/gag/a4P1beQ)<!-- MEMES:END -->
+ - 😝 [Beast mode activated](http://9gag.com/gag/a1m1dNv)
+ - 💣 [Octopuses are crazy](http://9gag.com/gag/a5Q17zO)
+ - 😝 [How does the tiger know not to f**k with this other animal despite it being much smaller and weaker than him?](http://9gag.com/gag/aPAZWvw)
+ - 👉 [Once again i beg for your weird knowledge support, give me all of your weird knowledge in the comments, ty fellows](http://9gag.com/gag/apRgron)<!-- MEMES:END -->
 
 ---
 

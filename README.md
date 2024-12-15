@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The Simple Math Behind Public Key Cryptography](https://www.wired.com/story/how-public-key-cryptography-really-works-using-only-simple-math/)
  - [Sports stars promoting crypto coins and exchanges with little knowledge highlight the lack of mechanisms for consumers to distinguish opportunities from scams &lpar;Andrew Lawrence/The Guardian&rpar;](http://www.techmeme.com/241215/p9#a241215p9)
  - [Best Internet Providers in Corpus Christi, Texas](https://www.cnet.com/home/internet/best-internet-providers-in-corpus-christi-tx/#ftag=CAD590a51e)
  - [How to Use Google Flights Data to Get the Cheapest Flights Possible](https://www.cnet.com/personal-finance/how-to-use-google-flights-data-to-get-the-cheapest-flights-possible/#ftag=CAD590a51e)
- - [Amid Safety Lawsuits, Character.Ai Updates Teen Protection Features](https://www.cnet.com/tech/services-and-software/amid-safety-lawsuits-character-ai-updates-teen-protection-features/#ftag=CAD590a51e)
- - [iOS 18 Cheat Sheet: What to Know About Apple Intelligence and More](https://www.cnet.com/tech/services-and-software/ios-18-cheat-sheet-what-to-know-about-apple-intelligence-and-more/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Amid Safety Lawsuits, Character.Ai Updates Teen Protection Features](https://www.cnet.com/tech/services-and-software/amid-safety-lawsuits-character-ai-updates-teen-protection-features/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

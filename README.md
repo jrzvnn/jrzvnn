@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Beast mode activated](http://9gag.com/gag/a1m1dNv)
+ - 😝 [No accountability](http://9gag.com/gag/ajPgD0x)
  - 😝 [4am puctures](http://9gag.com/gag/aD2Djed)
- - 💣 [WNBA](http://9gag.com/gag/an7gN3B)
- - 😝 [Car driver prevents cyclist from a potential wolf attack](http://9gag.com/gag/a4P1ZEy)
- - 👉 [Once again i beg for your weird knowledge support, give me all of your weird knowledge in the comments, ty fellows](http://9gag.com/gag/apRgron)<!-- MEMES:END -->
+ - 💣 [Beast mode activated](http://9gag.com/gag/a1m1dNv)
+ - 😝 [WNBA](http://9gag.com/gag/an7gN3B)
+ - 👉 [13-year-old Magnus Carlsen gets bored playing against World Champ Kasparov](http://9gag.com/gag/aRBrK4q)<!-- MEMES:END -->
 
 ---
 

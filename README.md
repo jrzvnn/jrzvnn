@@ -166,7 +166,7 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [I said your niece was f**kable?? Well she is](http://9gag.com/gag/aD2DWXG)
+ - 😝 [Crazy woman](http://9gag.com/gag/aMV48gG)
  - 😝 [Which one is your favorite?](http://9gag.com/gag/aRBrmm5)
  - 💣 [Merry Xmas](http://9gag.com/gag/a871yoe)
  - 😝 [Casual racism to professional racism](http://9gag.com/gag/aD2DGqd)

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [I almost died when I was a kid, like twice iirc](http://9gag.com/gag/avyAO85)
- - 😝 [The show must go on](http://9gag.com/gag/axyB1yW)
- - 💣 [Boston Dynamics robot trying to escape the factory &lpar;2024 colorized&rpar;](http://9gag.com/gag/ajPgNr0)
- - 😝 [Some personal slaps](http://9gag.com/gag/apRg2Rp)
- - 👉 [This could have be any western country, if only](http://9gag.com/gag/aoygOwm)<!-- MEMES:END -->
+ - 😝 [13-year-old Magnus Carlsen gets bored playing against World Champ Kasparov](http://9gag.com/gag/aRBrK4q)
+ - 😝 [Car driver prevents cyclist from a potential wolf attack](http://9gag.com/gag/a4P1ZEy)
+ - 💣 [Police indicated `Currently no evidence of foul play`](http://9gag.com/gag/aVvxDBM)
+ - 😝 [Beast mode activated](http://9gag.com/gag/a1m1dNv)
+ - 👉 [Once again i beg for your weird knowledge support, give me all of your weird knowledge in the comments, ty fellows](http://9gag.com/gag/apRgron)<!-- MEMES:END -->
 
 ---
 

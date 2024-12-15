@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [4am puctures](http://9gag.com/gag/aD2Djed)
- - 😝 [Police indicated `Currently no evidence of foul play`](http://9gag.com/gag/aVvxDBM)
- - 💣 [Beast mode activated](http://9gag.com/gag/a1m1dNv)
- - 😝 [Internet&#39;s gonna break and so does she\ud83d\uddff\ud83d\uddff....](http://9gag.com/gag/aPAZM1B)
- - 👉 [Once again i beg for your weird knowledge support, give me all of your weird knowledge in the comments, ty fellows](http://9gag.com/gag/apRgron)<!-- MEMES:END -->
+ - 😝 [Car driver prevents cyclist from a potential wolf attack](http://9gag.com/gag/a4P1ZEy)
+ - 😝 [Once again i beg for your weird knowledge support, give me all of your weird knowledge in the comments, ty fellows](http://9gag.com/gag/apRgron)
+ - 💣 [Police indicated `Currently no evidence of foul play`](http://9gag.com/gag/aVvxDBM)
+ - 😝 [A New Jersey resident apparently opens fire on a UAP/UFO &#39;drone&#39; tonight](http://9gag.com/gag/aO8QdrN)
+ - 👉 [4am puctures](http://9gag.com/gag/aD2Djed)<!-- MEMES:END -->
 
 ---
 

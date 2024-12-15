@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [Once again i beg for your weird knowledge support, give me all of your weird knowledge in the comments, ty fellows](http://9gag.com/gag/apRgron)
+ - 😝 [Beast mode activated](http://9gag.com/gag/a1m1dNv)
+ - 💣 [4am puctures](http://9gag.com/gag/aD2Djed)
  - 😝 [13-year-old Magnus Carlsen gets bored playing against World Champ Kasparov](http://9gag.com/gag/aRBrK4q)
- - 😝 [Police indicated `Currently no evidence of foul play`](http://9gag.com/gag/aVvxDBM)
- - 💣 [Download wrong power ranger](http://9gag.com/gag/ayN9DeM)
- - 😝 [4am puctures](http://9gag.com/gag/aD2Djed)
- - 👉 [Beast mode activated](http://9gag.com/gag/a1m1dNv)<!-- MEMES:END -->
+ - 👉 [I&#39;m cured, but I don&#39;t want to go home.](http://9gag.com/gag/avyAGMb)<!-- MEMES:END -->
 
 ---
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Sports stars promoting crypto coins and exchanges with little knowledge highlight the lack of mechanisms for consumers to distinguish opportunities from scams &lpar;Andrew Lawrence/The Guardian&rpar;](http://www.techmeme.com/241215/p9#a241215p9)
  - [The UK Now Has Its Own Illegal Rubberized Cybertruck on the Road](https://www.wired.com/story/the-uk-now-has-its-own-illegal-rubberized-cybertruck-on-the-road/)
  - [Best Water Filter Pitcher for 2024](https://www.cnet.com/news/best-water-filter-pitcher/#ftag=CAD590a51e)
  - [Pick up Apple&#39;s M4 Pro Mac mini for $1,349 with free next day shipping](https://appleinsider.com/articles/24/12/15/pick-up-apples-m4-pro-mac-mini-for-1349-with-free-next-day-shipping?utm_medium=rss)
- - [OpenAI Kicks Off a New Era With Sora AI Videos](https://www.cnet.com/tech/services-and-software/openai-kicks-off-a-new-era-with-sora-ai-videos/#ftag=CAD590a51e)
- - [Best Duvet Covers for 2024](https://www.cnet.com/health/sleep/best-duvet-covers/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [OpenAI Kicks Off a New Era With Sora AI Videos](https://www.cnet.com/tech/services-and-software/openai-kicks-off-a-new-era-with-sora-ai-videos/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

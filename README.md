@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [How tech is stoking cycles of violence in US schools, with students using phones and social media to arrange, provoke, record and spread videos of school brawls &lpar;Natasha Singer/New York Times&rpar;](http://www.techmeme.com/241215/p15#a241215p15)
  - [Steelers vs. Eagles Livestream: How to Watch NFL Week 15 Today](https://www.cnet.com/tech/services-and-software/steelers-vs-eagles-livestream-how-to-watch-nfl-week-15-today/#ftag=CAD590a51e)
  - [Buccaneers vs. Chargers Livestream: How to Watch NFL Week 15 Today](https://www.cnet.com/tech/services-and-software/buccaneers-vs-chargers-livestream-how-to-watch-nfl-week-15-today/#ftag=CAD590a51e)
  - [Patriots vs. Cardinals: How to Watch NFL Week 15 Today](https://www.cnet.com/tech/services-and-software/patriots-vs-cardinals-how-to-watch-nfl-week-15-today/#ftag=CAD590a51e)
- - [Bills vs. Lions: How to Watch NFL Week 15 Today](https://www.cnet.com/tech/services-and-software/bills-vs-lions-how-to-watch-nfl-week-15-today/#ftag=CAD590a51e)
- - [Saatva Solaire Mattress Review 2024: A Truly Customizable Mattress for Couples](https://www.cnet.com/health/sleep/saatva-solaire-mattress-review/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Bills vs. Lions: How to Watch NFL Week 15 Today](https://www.cnet.com/tech/services-and-software/bills-vs-lions-how-to-watch-nfl-week-15-today/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

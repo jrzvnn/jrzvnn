@@ -158,10 +158,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- TECH:START -->
  - [A look at Blacksky, the Bluesky custom feed run by a team of six moderators, which is slowly turning into the main avenue for many Black users on the service &lpar;Jason Parham/Wired&rpar;](http://www.techmeme.com/241215/p14#a241215p14)
- - [New Magic Mouse said to fix everything that&#39;s been wrong with it for 15 years](https://appleinsider.com/articles/24/12/15/new-magic-mouse-said-to-fix-everything-thats-been-wrong-with-it-for-15-years?utm_medium=rss)
- - [Future Apple Watch Ultra rumored to get satellite communications &amp; hypertension detection](https://appleinsider.com/articles/24/12/15/future-apple-watch-ultra-rumored-to-get-satellite-communications-hypertension-detection?utm_medium=rss)
- - [A profile of Donald Trump&#39;s AI and crypto czar David Sacks, who has urged AI companies and other tech startups to boost US competitiveness and national security &lpar;George Hammond/Financial Times&rpar;](http://www.techmeme.com/241215/p13#a241215p13)
- - [Deleting Your 23andMe Genetic Data? There&#39;s a Way, But Also a Catch](https://www.cnet.com/news/privacy/deleting-your-23andme-genetic-data-theres-a-way-but-also-a-catch/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Best Internet Providers in Fort Lauderdale, Florida](https://www.cnet.com/home/internet/best-internet-providers-in-fort-lauderdale-fl/#ftag=CAD590a51e)
+ - [Getting New Glasses? This Is How to Pick the Best Glasses for Your Face Shape and Skin Color](https://www.cnet.com/health/personal-care/this-is-how-to-pick-the-best-glasses-for-your-face-shape-and-skin-color/#ftag=CAD590a51e)
+ - [La Liga Soccer Livestream: How to Watch Barcelona vs. Leganés From Anywhere](https://www.cnet.com/tech/services-and-software/la-liga-soccer-livestream-how-to-watch-barcelona-vs-leganes-from-anywhere/#ftag=CAD590a51e)
+ - [Kidney Health One Bite at a Time: Top 13 Foods That Will Safeguard Your Health](https://www.cnet.com/health/nutrition/kidney-health-one-bite-at-a-time-top-13-foods-that-will-safeguard-your-health/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

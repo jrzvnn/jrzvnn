@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Listen here you little shit.](http://9gag.com/gag/ae9ge2O)
  - 😝 [It would work on me](http://9gag.com/gag/aZZrmA0)
- - 💣 [Police indicated `Currently no evidence of foul play`](http://9gag.com/gag/aVvxDBM)
- - 😝 [Once again i beg for your weird knowledge support, give me all of your weird knowledge in the comments, ty fellows](http://9gag.com/gag/apRgron)
- - 👉 [Download wrong power ranger](http://9gag.com/gag/ayN9DeM)<!-- MEMES:END -->
+ - 😝 [Download wrong power ranger](http://9gag.com/gag/ayN9DeM)
+ - 💣 [Wtf did you just watch.](http://9gag.com/gag/aQzXe48)
+ - 😝 [Police indicated `Currently no evidence of foul play`](http://9gag.com/gag/aVvxDBM)
+ - 👉 [Nice](http://9gag.com/gag/a4P1beQ)<!-- MEMES:END -->
 
 ---
 

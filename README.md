@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Researchers find a yearlong ongoing supply-chain attack targeting malicious and benevolent security personnel and stealing over 390K WordPress credentials &lpar;Dan Goodin/Ars Technica&rpar;](http://www.techmeme.com/241214/p23#a241214p23)
  - [An investigation finds Cryptomus, registered in Vancouver, is a payment processor for dozens of Russian crypto exchanges and sites hawking cybercrime services &lpar;Brian Krebs/Krebs on Security&rpar;](http://www.techmeme.com/241214/p22#a241214p22)
  - [How Long Does It Really Take to Build Muscle?](https://www.cnet.com/health/fitness/how-long-does-it-really-take-to-build-muscle/#ftag=CAD590a51e)
  - [This 14-inch MacBook Pro just fell to $1,299, an all-time low price](https://appleinsider.com/articles/24/12/15/this-14-inch-macbook-pro-just-fell-to-1299-an-all-time-low-price?utm_medium=rss)
- - [Best Solar Panel Installation Companies in Massachusetts](https://www.cnet.com/home/energy-and-utilities/massachusetts-solar-panels/#ftag=CAD590a51e)
- - [Mexico&#39;s Yucat&amp;aacute;n state says AI-powered app MeMind contributed to a 9% drop in suicides over the past two years by connecting 10,000 at-risk people to treatment &lpar;Lillian Perlmutter/Rest of World&rpar;](http://www.techmeme.com/241214/p21#a241214p21)<!-- TECH:END -->
+ - [Best Solar Panel Installation Companies in Massachusetts](https://www.cnet.com/home/energy-and-utilities/massachusetts-solar-panels/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

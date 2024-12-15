@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [TikTok critics like Marco Rubio and Brendan Carr are set to occupy senior roles in the Trump administration, highlighting Trump&#39;s murky stance about the app &lpar;Anna Edgerton/Bloomberg&rpar;](http://www.techmeme.com/241215/p16#a241215p16)
  - [Meta’s Instagram boss: who posted something matters more in the AI age](https://www.theverge.com/2024/12/15/24321880/instagram-threads-adam-mosseri-dont-trust-images-ai-generated-labeling-moderation)
+ - [Best Gifts for Photographers in 2024](https://www.cnet.com/tech/computing/best-gifts-for-photographers/#ftag=CAD590a51e)
  - [Best Dog Beds of 2024](https://www.cnet.com/health/sleep/best-dog-beds/#ftag=CAD590a51e)
- - [Analysis: Apple not likely to enter the foldable market before 2027](https://appleinsider.com/articles/24/12/15/analysis-apple-not-likely-to-enter-the-foldable-market-before-2027?utm_medium=rss)
- - [Best Amazon Deals Under $100: Snag Huge Savings on Tech, Home Goods and More This Holiday Season](https://www.cnet.com/deals/best-amazon-deals-under-100/#ftag=CAD590a51e)
- - [Best Food and Drink Subscription Gifts for 2024](https://www.cnet.com/news/best-food-and-drink-subscriptions-to-gift/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Analysis: Apple not likely to enter the foldable market before 2027](https://appleinsider.com/articles/24/12/15/analysis-apple-not-likely-to-enter-the-foldable-market-before-2027?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

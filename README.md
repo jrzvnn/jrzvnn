@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Best Dog Beds of 2024](https://www.cnet.com/health/sleep/best-dog-beds/#ftag=CAD590a51e)
  - [Analysis: Apple not likely to enter the foldable market before 2027](https://appleinsider.com/articles/24/12/15/analysis-apple-not-likely-to-enter-the-foldable-market-before-2027?utm_medium=rss)
+ - [Best Amazon Deals Under $100: Snag Huge Savings on Tech, Home Goods and More This Holiday Season](https://www.cnet.com/deals/best-amazon-deals-under-100/#ftag=CAD590a51e)
  - [Best Food and Drink Subscription Gifts for 2024](https://www.cnet.com/news/best-food-and-drink-subscriptions-to-gift/#ftag=CAD590a51e)
- - [Today’s Your Last Chance to Save on Tech, Appliances and More at Best Buy’s Holiday Sale](https://www.cnet.com/deals/todays-your-last-chance-to-save-on-tech-appliances-and-more-at-best-buys-holiday-sale/#ftag=CAD590a51e)
- - [Snag Apple&#39;s M4 Pro MacBook Pro for just $1,779 with delivery by Christmas](https://appleinsider.com/articles/24/12/15/snag-apples-m4-pro-macbook-pro-for-just-1779-with-delivery-by-christmas?utm_medium=rss)
- - [18 Amazon Prime Perks You Might Not Be Using &lpar;But Should&rpar;](https://www.cnet.com/tech/mobile/18-amazon-prime-perks-you-might-not-be-using-but-should/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Today’s Your Last Chance to Save on Tech, Appliances and More at Best Buy’s Holiday Sale](https://www.cnet.com/deals/todays-your-last-chance-to-save-on-tech-appliances-and-more-at-best-buys-holiday-sale/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Apple’s foldable iPad could be like ‘two iPad Pros side-by-side’](https://www.theverge.com/2024/12/15/24321659/apple-foldable-18-8-inch-ipad-invisible-crease-rumor)
  - [Telegram says it has removed 15.4M groups and channels with harmful content in 2024, as its moderation page shows more enforcement since Pavel Durov&#39;s arrest &lpar;Charles Rollet/TechCrunch&rpar;](http://www.techmeme.com/241215/p12#a241215p12)
  - [Apple won&#39;t be selling smartglasses for a few more years](https://appleinsider.com/articles/24/12/15/apple-wont-be-selling-smartglasses-for-a-few-more-years?utm_medium=rss)
  - [Sources: Apple is working on a foldable device the size of two iPad Pros for 2028, a Magic Mouse revamp, and an AirTag with triple the range of the current one &lpar;Mark Gurman/Bloomberg&rpar;](http://www.techmeme.com/241215/p11#a241215p11)
- - [Future Apple Watch Ultra rumored to get satellite communications &amp; hypertension detection](https://appleinsider.com/articles/24/12/15/future-apple-watch-ultra-rumored-to-get-satellite-communications-hypertension-detection?utm_medium=rss)
- - [2025 in tech: who’s in and who’s out](https://www.theverge.com/2024/12/15/24320517/2025-preview-tech-politics-ai-regulation-vergecast)<!-- TECH:END -->
+ - [Future Apple Watch Ultra rumored to get satellite communications &amp; hypertension detection](https://appleinsider.com/articles/24/12/15/future-apple-watch-ultra-rumored-to-get-satellite-communications-hypertension-detection?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

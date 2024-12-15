@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Lillian Phillips screwdriver needs to see a doctor after sleeping with 100 guys in one day](http://9gag.com/gag/aYQrKMV)
- - 😝 [Nice](http://9gag.com/gag/a4P1beQ)
- - 💣 [4am puctures](http://9gag.com/gag/aD2Djed)
+ - 😝 [13-year-old Magnus Carlsen gets bored playing against World Champ Kasparov](http://9gag.com/gag/aRBrK4q)
  - 😝 [Wtf did you just watch.](http://9gag.com/gag/aQzXe48)
- - 👉 [Car driver prevents cyclist from a potential wolf attack](http://9gag.com/gag/a4P1ZEy)<!-- MEMES:END -->
+ - 💣 [Islamic mobs terrorize German women on Berlin subway. This is a huge problem.](http://9gag.com/gag/axyBVgn)
+ - 😝 [Car driver prevents cyclist from a potential wolf attack](http://9gag.com/gag/a4P1ZEy)
+ - 👉 [Beast mode activated](http://9gag.com/gag/a1m1dNv)<!-- MEMES:END -->
 
 ---
 

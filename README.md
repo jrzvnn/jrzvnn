@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [This could have be any western country, if only](http://9gag.com/gag/aoygOwm)
- - 😝 [Car driver prevents cyclist from a potential wolf attack](http://9gag.com/gag/a4P1ZEy)
- - 💣 [Beast mode activated](http://9gag.com/gag/a1m1dNv)
+ - 😝 [13-year-old Magnus Carlsen gets bored playing against World Champ Kasparov](http://9gag.com/gag/aRBrK4q)
+ - 😝 [Police indicated `Currently no evidence of foul play`](http://9gag.com/gag/aVvxDBM)
+ - 💣 [Download wrong power ranger](http://9gag.com/gag/ayN9DeM)
  - 😝 [4am puctures](http://9gag.com/gag/aD2Djed)
- - 👉 [I&#39;ve analyzed 9880 users who were active in the last few days and here is the graph of the amount of users REGISTERED by date. See something strange on 06.11.2024?](http://9gag.com/gag/aO8Qrm6)<!-- MEMES:END -->
+ - 👉 [Beast mode activated](http://9gag.com/gag/a1m1dNv)<!-- MEMES:END -->
 
 ---
 

@@ -158,10 +158,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- TECH:START -->
  - [Pick up Apple&#39;s M4 Pro Mac mini for $1,349 with free next day shipping](https://appleinsider.com/articles/24/12/15/pick-up-apples-m4-pro-mac-mini-for-1349-with-free-next-day-shipping?utm_medium=rss)
+ - [Experts Say the Fed Will Likely Cut Rates Next Week. But What&#39;s Next?](https://www.cnet.com/personal-finance/experts-say-the-fed-will-likely-cut-rates-next-week-but-whats-next/#ftag=CAD590a51e)
  - [The White Helmets, UNHCR, UNRWA, and other volunteer organizations describe how apps like WhatsApp have transformed communication in conflict and disaster zones &lpar;John Beck/Rest of World&rpar;](http://www.techmeme.com/241215/p8#a241215p8)
- - [AI Will Evolve Into an Organizational Strategy for All](https://www.wired.com/story/artificial-intelligence-work-organizational-strategy/)
- - [Everything You Need to Know About Apple AirTags](https://www.cnet.com/tech/mobile/everything-you-need-to-know-about-apple-airtags/#ftag=CAD590a51e)
- - [Best Internet Providers in Clarksburg, West Virginia](https://www.cnet.com/home/internet/best-internet-providers-in-clarksburg-wv/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Best Vacuums for Pet Hair for 2024](https://www.cnet.com/home/kitchen-and-household/best-vacuums-for-pet-hair/#ftag=CAD590a51e)
+ - [AI Will Evolve Into an Organizational Strategy for All](https://www.wired.com/story/artificial-intelligence-work-organizational-strategy/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

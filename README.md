@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Sources: Apple is working on a foldable device the size of two iPad Pros for 2028, a Magic Mouse revamp, and an AirTag with triple the range of the current one &lpar;Mark Gurman/Bloomberg&rpar;](http://www.techmeme.com/241215/p11#a241215p11)
+ - [Future Apple Watch Ultra rumored to get satellite communications &amp; hypertension detection](https://appleinsider.com/articles/24/12/15/future-apple-watch-ultra-rumored-to-get-satellite-communications-hypertension-detection?utm_medium=rss)
+ - [2025 in tech: who’s in and who’s out](https://www.theverge.com/2024/12/15/24320517/2025-preview-tech-politics-ai-regulation-vergecast)
  - [Giant foldable iPad with MacBook-like design rumored to arrive in 2028](https://appleinsider.com/articles/24/12/15/giant-foldable-ipad-with-macbook-like-design-rumored-to-arrive-in-2028?utm_medium=rss)
- - [For its next trick, Apple is reportedly preparing a Magic Mouse redesign](https://www.theverge.com/2024/12/15/24321636/apple-magic-mouse-redesign-charging-port-comfort)
- - [2025 AirTag rumored to get remarkably longer range location tracking and precision](https://appleinsider.com/articles/24/12/15/2025-airtag-rumored-to-get-remarkably-longer-range-location-tracking-and-precision?utm_medium=rss)
- - [New Magic Mouse said to fix everything that&#39;s been wrong with it for 15 years](https://appleinsider.com/articles/24/12/15/new-magic-mouse-said-to-fix-everything-thats-been-wrong-with-it-for-15-years?utm_medium=rss)
- - [6 Best Video Doorbell Cameras &lpar;2024&rpar;: Smart, Battery, AI, Budget, and Subscription-Free](https://www.wired.com/gallery/best-video-doorbells/)<!-- TECH:END -->
+ - [For its next trick, Apple is reportedly preparing a Magic Mouse redesign](https://www.theverge.com/2024/12/15/24321636/apple-magic-mouse-redesign-charging-port-comfort)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

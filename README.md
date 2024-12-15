@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [New Magic Mouse said to fix everything that&#39;s been wrong with it for 15 years](https://appleinsider.com/articles/24/12/15/new-magic-mouse-said-to-fix-everything-thats-been-wrong-with-it-for-15-years?utm_medium=rss)
- - [6 Best Video Doorbell Cameras &lpar;2024&rpar;: Smart, Battery, AI, Budget, and Subscription-Free](https://www.wired.com/gallery/best-video-doorbells/)
- - [The musical at the end of the world](https://www.theverge.com/24319324/the-end-musical-joshua-oppenheimer-director-interview)
+ - [For its next trick, Apple is reportedly preparing a Magic Mouse redesign](https://www.theverge.com/2024/12/15/24321636/apple-magic-mouse-redesign-charging-port-comfort)
+ - [Giant foldable iPad with MacBook-like design rumored to arrive in 2028](https://appleinsider.com/articles/24/12/15/giant-foldable-ipad-with-macbook-like-design-rumored-to-arrive-in-2028?utm_medium=rss)
  - [2025 AirTag rumored to get remarkably longer range location tracking and precision](https://appleinsider.com/articles/24/12/15/2025-airtag-rumored-to-get-remarkably-longer-range-location-tracking-and-precision?utm_medium=rss)
- - [Premier League Soccer: Livestream Man City vs. Man United From Anywhere](https://www.cnet.com/tech/services-and-software/premier-league-soccer-livestream-man-city-vs-man-united-from-anywhere/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [New Magic Mouse said to fix everything that&#39;s been wrong with it for 15 years](https://appleinsider.com/articles/24/12/15/new-magic-mouse-said-to-fix-everything-thats-been-wrong-with-it-for-15-years?utm_medium=rss)
+ - [6 Best Video Doorbell Cameras &lpar;2024&rpar;: Smart, Battery, AI, Budget, and Subscription-Free](https://www.wired.com/gallery/best-video-doorbells/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

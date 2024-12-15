@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Dark brotherhood would be proud](http://9gag.com/gag/ajPgqVg)
- - 😝 [It would work on me](http://9gag.com/gag/aZZrmA0)
- - 💣 [How does the tiger know not to f**k with this other animal despite it being much smaller and weaker than him?](http://9gag.com/gag/aPAZWvw)
- - 😝 [Nice](http://9gag.com/gag/a4P1beQ)
- - 👉 [Beast mode activated](http://9gag.com/gag/a1m1dNv)<!-- MEMES:END -->
+ - 😝 [Beast mode activated](http://9gag.com/gag/a1m1dNv)
+ - 😝 [4am puctures](http://9gag.com/gag/aD2Djed)
+ - 💣 [WNBA](http://9gag.com/gag/an7gN3B)
+ - 😝 [Car driver prevents cyclist from a potential wolf attack](http://9gag.com/gag/a4P1ZEy)
+ - 👉 [Once again i beg for your weird knowledge support, give me all of your weird knowledge in the comments, ty fellows](http://9gag.com/gag/apRgron)<!-- MEMES:END -->
 
 ---
 

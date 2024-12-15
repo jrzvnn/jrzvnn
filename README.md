@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [How does the tiger know not to f**k with this other animal despite it being much smaller and weaker than him?](http://9gag.com/gag/aPAZWvw)
- - 😝 [Internet&#39;s gonna break and so does she\ud83d\uddff\ud83d\uddff....](http://9gag.com/gag/aPAZM1B)
- - 💣 [A New Jersey resident apparently opens fire on a UAP/UFO &#39;drone&#39; tonight](http://9gag.com/gag/aO8QdrN)
- - 😝 [Octopuses are crazy](http://9gag.com/gag/a5Q17zO)
- - 👉 [Lillian Phillips screwdriver needs to see a doctor after sleeping with 100 guys in one day](http://9gag.com/gag/aYQrKMV)<!-- MEMES:END -->
+ - 😝 [Which one is your favorite?](http://9gag.com/gag/aRBrmm5)
+ - 😝 [Merry Xmas](http://9gag.com/gag/a871yoe)
+ - 💣 [Guy remade $million dollar VFX scene from Force Awakens alone in a week &lpar;ErikDoesVFX&rpar;](http://9gag.com/gag/a4P1GRZ)
+ - 😝 [Casual racism to professional racism](http://9gag.com/gag/aD2DGqd)
+ - 👉 [Advanced Canadian Birdwatching Technique](http://9gag.com/gag/aBynw32)<!-- MEMES:END -->
 
 ---
 

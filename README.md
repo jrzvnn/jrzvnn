@@ -158,10 +158,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- TECH:START -->
  - [Snag Apple&#39;s M4 Pro MacBook Pro for just $1,779 with delivery by Christmas](https://appleinsider.com/articles/24/12/15/snag-apples-m4-pro-macbook-pro-for-just-1779-with-delivery-by-christmas?utm_medium=rss)
+ - [18 Amazon Prime Perks You Might Not Be Using &lpar;But Should&rpar;](https://www.cnet.com/tech/mobile/18-amazon-prime-perks-you-might-not-be-using-but-should/#ftag=CAD590a51e)
  - [This mod turns the PSP into a tiny PS2 with Bluetooth controller support](https://www.theverge.com/2024/12/15/24321729/psp-ps-placeable-home-console-bluetooth-controller-mod)
- - [How tech is stoking cycles of violence in US schools, with students using phones and social media to arrange, provoke, record and spread videos of school brawls &lpar;Natasha Singer/New York Times&rpar;](http://www.techmeme.com/241215/p15#a241215p15)
- - [Steelers vs. Eagles Livestream: How to Watch NFL Week 15 Today](https://www.cnet.com/tech/services-and-software/steelers-vs-eagles-livestream-how-to-watch-nfl-week-15-today/#ftag=CAD590a51e)
- - [Buccaneers vs. Chargers Livestream: How to Watch NFL Week 15 Today](https://www.cnet.com/tech/services-and-software/buccaneers-vs-chargers-livestream-how-to-watch-nfl-week-15-today/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [How to Watch the &#39;What We Do in the Shadows&#39; Series Finale Without Cable](https://www.cnet.com/tech/services-and-software/how-to-watch-the-what-we-do-in-the-shadows-series-finale-without-cable/#ftag=CAD590a51e)
+ - [If Your Gas Stove Won&#39;t Light, Here&#39;s How to Fix It](https://www.cnet.com/how-to/if-your-gas-stove-wont-light-heres-how-to-fix-it/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

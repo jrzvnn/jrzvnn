@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [While businesses frequently try to get on an incoming president&#39;s good side, the frenzy of tech leaders this week to woo Trump stood out from other industries &lpar;New York Times&rpar;](http://www.techmeme.com/241215/p7#a241215p7)
+ - [The EC pledges &amp;euro;750M of the &amp;euro;1.5B planned investment to fund AI-optimized supercomputers across seven sites to help EU startups compete with global rivals &lpar;Pieter Haeck/Politico&rpar;](http://www.techmeme.com/241215/p6#a241215p6)
+ - [An interview with Fei-Fei Li on her NeurIPS keynote talk about visual intelligence, her startup World Labs, giving machines 3D spatial intelligence, and more &lpar;Eliza Strickland/IEEE Spectrum&rpar;](http://www.techmeme.com/241215/p5#a241215p5)
  - [Donald Bitzer, plasma screen co-inventor and the father of PLATO computer system, considered a precursor to messaging apps and more, died on December 10 at 90 &lpar;Harrison Smith/Washington Post&rpar;](http://www.techmeme.com/241215/p4#a241215p4)
- - [A look at Broadcom&#39;s path to $1T in market cap: stock up 760%+ after abandoning its $120B Qualcomm bid in 2018, three deals worth $10B+ after that, and more &lpar;Ari Levy/CNBC&rpar;](http://www.techmeme.com/241215/p3#a241215p3)
- - [Officials say hackers possibly accessed personal data of hundreds of thousands Rhode Island residents, with a &quot;high probability&quot; that sensitive info was stolen &lpar;Aimee Ortiz/New York Times&rpar;](http://www.techmeme.com/241215/p2#a241215p2)
- - [Sources say it makes no sense for Elon Musk to target OpenAI with onerous regulation as co-chair of DOGE, given his remit is to find ways to slash regulation &lpar;Financial Times&rpar;](http://www.techmeme.com/241215/p1#a241215p1)
- - [Qualcomm stated Snapdragon X PC return rates are &quot;within industry norm&quot;, after interim Intel co-CEO Michelle Johnston Holthaus claimed large ARM PC return rates &lpar;Dylan Martin/CRN&rpar;](http://www.techmeme.com/241214/p24#a241214p24)<!-- TECH:END -->
+ - [A look at Broadcom&#39;s path to $1T in market cap: stock up 760%+ after abandoning its $120B Qualcomm bid in 2018, three deals worth $10B+ after that, and more &lpar;Ari Levy/CNBC&rpar;](http://www.techmeme.com/241215/p3#a241215p3)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

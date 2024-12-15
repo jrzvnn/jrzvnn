@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Now ChromeOS can reset itself without erasing your laptop](https://www.theverge.com/2024/12/14/24321380/chromeos-m131-update-safety-reset-flash-notifications-accessibility)
- - [The 5 Best RV Mattresses of 2024](https://www.cnet.com/health/sleep/best-rv-mattress/#ftag=CAD590a51e)
- - [Holiday Shipping Guide: Your Last-Minute Dates for USPS, FedEx, UPS and Amazon](https://www.cnet.com/how-to/holiday-shipping-guide-your-last-minute-dates-for-usps-fedex-ups-and-amazon/#ftag=CAD590a51e)
- - [Best AirPods Deals: Shop the Lowest Prices on Apple Earbuds in Time for the Holidays](https://www.cnet.com/deals/best-airpods-deals/#ftag=CAD590a51e)
- - [An analysis of App Store rankings shows how market saturation for AI-based creative apps is making it harder to find good apps that use AI in more focused ways &lpar;Jess Weatherbed/The Verge&rpar;](http://www.techmeme.com/241214/p20#a241214p20)<!-- TECH:END -->
+ - [This 14-inch MacBook Pro just fell to $1,299, an all-time low price](https://appleinsider.com/articles/24/12/15/this-14-inch-macbook-pro-just-fell-to-1299-an-all-time-low-price?utm_medium=rss)
+ - [Mexico&#39;s Yucat&amp;aacute;n state says AI-powered app MeMind contributed to a 9% drop in suicides over the past two years by connecting 10,000 at-risk people to treatment &lpar;Lillian Perlmutter/Rest of World&rpar;](http://www.techmeme.com/241214/p21#a241214p21)
+ - [Saatva HD Mattress Review 2024: A Heavy-Duty Luxurious Bed](https://www.cnet.com/health/sleep/saatva-hd-mattress-review/#ftag=CAD590a51e)
+ - [Bear Natural Mattress Review 2024: The Latest Newcomer to the Bear Lineup](https://www.cnet.com/health/sleep/bear-natural-mattress-review/#ftag=CAD590a51e)
+ - [Best Solar Installation Companies in Miami](https://www.cnet.com/home/energy-and-utilities/best-solar-installation-companies-in-miami/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

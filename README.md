@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Best Water Filter Pitcher for 2024](https://www.cnet.com/news/best-water-filter-pitcher/#ftag=CAD590a51e)
  - [Pick up Apple&#39;s M4 Pro Mac mini for $1,349 with free next day shipping](https://appleinsider.com/articles/24/12/15/pick-up-apples-m4-pro-mac-mini-for-1349-with-free-next-day-shipping?utm_medium=rss)
- - [Experts Say the Fed Will Likely Cut Rates Next Week. But What&#39;s Next?](https://www.cnet.com/personal-finance/experts-say-the-fed-will-likely-cut-rates-next-week-but-whats-next/#ftag=CAD590a51e)
- - [The White Helmets, UNHCR, UNRWA, and other volunteer organizations describe how apps like WhatsApp have transformed communication in conflict and disaster zones &lpar;John Beck/Rest of World&rpar;](http://www.techmeme.com/241215/p8#a241215p8)
- - [Best Vacuums for Pet Hair for 2024](https://www.cnet.com/home/kitchen-and-household/best-vacuums-for-pet-hair/#ftag=CAD590a51e)
- - [AI Will Evolve Into an Organizational Strategy for All](https://www.wired.com/story/artificial-intelligence-work-organizational-strategy/)<!-- TECH:END -->
+ - [OpenAI Kicks Off a New Era With Sora AI Videos](https://www.cnet.com/tech/services-and-software/openai-kicks-off-a-new-era-with-sora-ai-videos/#ftag=CAD590a51e)
+ - [Best Duvet Covers for 2024](https://www.cnet.com/health/sleep/best-duvet-covers/#ftag=CAD590a51e)
+ - [Brooklyn Bedding Essential Mattress Review: The New Best Affordable Hybrid?](https://www.cnet.com/health/sleep/brooklyn-bedding-essential-mattress-review/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

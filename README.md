@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [No accountability](http://9gag.com/gag/ajPgD0x)
- - 😝 [4am puctures](http://9gag.com/gag/aD2Djed)
- - 💣 [Beast mode activated](http://9gag.com/gag/a1m1dNv)
- - 😝 [WNBA](http://9gag.com/gag/an7gN3B)
- - 👉 [13-year-old Magnus Carlsen gets bored playing against World Champ Kasparov](http://9gag.com/gag/aRBrK4q)<!-- MEMES:END -->
+ - 😝 [I said your niece was f**kable?? Well she is](http://9gag.com/gag/aD2DWXG)
+ - 😝 [Which one is your favorite?](http://9gag.com/gag/aRBrmm5)
+ - 💣 [Merry Xmas](http://9gag.com/gag/a871yoe)
+ - 😝 [Casual racism to professional racism](http://9gag.com/gag/aD2DGqd)
+ - 👉 [Advanced Canadian Birdwatching Technique](http://9gag.com/gag/aBynw32)<!-- MEMES:END -->
 
 ---
 

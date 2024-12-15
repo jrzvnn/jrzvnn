@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [The show must go on](http://9gag.com/gag/axyB1yW)
  - 😝 [I almost died when I was a kid, like twice iirc](http://9gag.com/gag/avyAO85)
+ - 😝 [The show must go on](http://9gag.com/gag/axyB1yW)
  - 💣 [Boston Dynamics robot trying to escape the factory &lpar;2024 colorized&rpar;](http://9gag.com/gag/ajPgNr0)
- - 😝 [This could have be any western country, if only](http://9gag.com/gag/aoygOwm)
- - 👉 [Some personal slaps](http://9gag.com/gag/apRg2Rp)<!-- MEMES:END -->
+ - 😝 [Some personal slaps](http://9gag.com/gag/apRg2Rp)
+ - 👉 [This could have be any western country, if only](http://9gag.com/gag/aoygOwm)<!-- MEMES:END -->
 
 ---
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [How Sony turned itself around by innovating its games business beyond consoles and making acquisitions to expand its IP and focus on original content &lpar;John Towfighi/CNN&rpar;](http://www.techmeme.com/241215/p10#a241215p10)
  - [5 Best Carbon Steel Pans For Every Budget &lpar;2024&rpar;](https://www.wired.com/gallery/the-best-carbon-steel-pans-for-every-budget/)
  - [A worthy update to my favorite mobile game ever](https://www.theverge.com/2024/12/15/24320546/monument-valley-3-mozi-supernote-joi-installer)
  - [Overcoming Credit Card Debt: A Step-by-Step Guide](https://www.cnet.com/personal-finance/credit-cards/overcoming-credit-card-debt-a-step-by-step-guide/#ftag=CAD590a51e)
- - [The Simple Math Behind Public Key Cryptography](https://www.wired.com/story/how-public-key-cryptography-really-works-using-only-simple-math/)
- - [YouTube TV vs. Hulu Plus Live TV: With Price Hikes, Which One Is Right for You?](https://www.cnet.com/tech/services-and-software/youtube-tv-vs-hulu-plus-live-tv-rated-the-pros-and-cons-of-each-streaming-service/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [The Simple Math Behind Public Key Cryptography](https://www.wired.com/story/how-public-key-cryptography-really-works-using-only-simple-math/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Casual racism to professional racism](http://9gag.com/gag/aD2DGqd)
- - 😝 [Advanced Canadian Birdwatching Technique](http://9gag.com/gag/aBynw32)
- - 💣 [Guy remade $million dollar VFX scene from Force Awakens alone in a week &lpar;ErikDoesVFX&rpar;](http://9gag.com/gag/a4P1GRZ)
- - 😝 [Lucky bear](http://9gag.com/gag/aPAZMbQ)
- - 👉 [This could have be any western country, if only](http://9gag.com/gag/aoygOwm)<!-- MEMES:END -->
+ - 😝 [4am puctures](http://9gag.com/gag/aD2Djed)
+ - 😝 [Police indicated `Currently no evidence of foul play`](http://9gag.com/gag/aVvxDBM)
+ - 💣 [Beast mode activated](http://9gag.com/gag/a1m1dNv)
+ - 😝 [Internet&#39;s gonna break and so does she\ud83d\uddff\ud83d\uddff....](http://9gag.com/gag/aPAZM1B)
+ - 👉 [Once again i beg for your weird knowledge support, give me all of your weird knowledge in the comments, ty fellows](http://9gag.com/gag/apRgron)<!-- MEMES:END -->
 
 ---
 

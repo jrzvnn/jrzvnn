@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [New Magic Mouse said to fix everything that&#39;s been wrong with it for 15 years](https://appleinsider.com/articles/24/12/15/new-magic-mouse-said-to-fix-everything-thats-been-wrong-with-it-for-15-years?utm_medium=rss)
+ - [6 Best Video Doorbell Cameras &lpar;2024&rpar;: Smart, Battery, AI, Budget, and Subscription-Free](https://www.wired.com/gallery/best-video-doorbells/)
+ - [The musical at the end of the world](https://www.theverge.com/24319324/the-end-musical-joshua-oppenheimer-director-interview)
  - [2025 AirTag rumored to get remarkably longer range location tracking and precision](https://appleinsider.com/articles/24/12/15/2025-airtag-rumored-to-get-remarkably-longer-range-location-tracking-and-precision?utm_medium=rss)
- - [How Sony turned itself around by innovating its games business beyond consoles and making acquisitions to expand its IP and focus on original content &lpar;John Towfighi/CNN&rpar;](http://www.techmeme.com/241215/p10#a241215p10)
- - [5 Best Carbon Steel Pans For Every Budget &lpar;2024&rpar;](https://www.wired.com/gallery/the-best-carbon-steel-pans-for-every-budget/)
- - [A worthy update to my favorite mobile game ever](https://www.theverge.com/2024/12/15/24320546/monument-valley-3-mozi-supernote-joi-installer)
- - [Overcoming Credit Card Debt: A Step-by-Step Guide](https://www.cnet.com/personal-finance/credit-cards/overcoming-credit-card-debt-a-step-by-step-guide/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Premier League Soccer: Livestream Man City vs. Man United From Anywhere](https://www.cnet.com/tech/services-and-software/premier-league-soccer-livestream-man-city-vs-man-united-from-anywhere/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

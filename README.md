@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [Guy remade $million dollar VFX scene from Force Awakens alone in a week &lpar;ErikDoesVFX&rpar;](http://9gag.com/gag/a4P1GRZ)
  - 😝 [13-year-old Magnus Carlsen gets bored playing against World Champ Kasparov](http://9gag.com/gag/aRBrK4q)
- - 😝 [Islamic mobs terrorize German women on Berlin subway. This is a huge problem.](http://9gag.com/gag/axyBVgn)
- - 💣 [Wtf did you just watch.](http://9gag.com/gag/aQzXe48)
- - 😝 [Beast mode activated](http://9gag.com/gag/a1m1dNv)
- - 👉 [I&#39;ve analyzed 9880 users who were active in the last few days and here is the graph of the amount of users REGISTERED by date. See something strange on 06.11.2024?](http://9gag.com/gag/aO8Qrm6)<!-- MEMES:END -->
+ - 💣 [4am puctures](http://9gag.com/gag/aD2Djed)
+ - 😝 [Police indicated `Currently no evidence of foul play`](http://9gag.com/gag/aVvxDBM)
+ - 👉 [Wtf did you just watch.](http://9gag.com/gag/aQzXe48)<!-- MEMES:END -->
 
 ---
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Which one is your favorite?](http://9gag.com/gag/aRBrmm5)
- - 😝 [Merry Xmas](http://9gag.com/gag/a871yoe)
- - 💣 [Guy remade $million dollar VFX scene from Force Awakens alone in a week &lpar;ErikDoesVFX&rpar;](http://9gag.com/gag/a4P1GRZ)
- - 😝 [Casual racism to professional racism](http://9gag.com/gag/aD2DGqd)
- - 👉 [Advanced Canadian Birdwatching Technique](http://9gag.com/gag/aBynw32)<!-- MEMES:END -->
+ - 😝 [Lillian Phillips screwdriver needs to see a doctor after sleeping with 100 guys in one day](http://9gag.com/gag/aYQrKMV)
+ - 😝 [Once again i beg for your weird knowledge support, give me all of your weird knowledge in the comments, ty fellows](http://9gag.com/gag/apRgron)
+ - 💣 [This could have be any western country, if only](http://9gag.com/gag/aoygOwm)
+ - 😝 [13-year-old Magnus Carlsen gets bored playing against World Champ Kasparov](http://9gag.com/gag/aRBrK4q)
+ - 👉 [It would work on me](http://9gag.com/gag/aZZrmA0)<!-- MEMES:END -->
 
 ---
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Pick up Apple&#39;s M4 Pro Mac mini for $1,349 with free next day shipping](https://appleinsider.com/articles/24/12/15/pick-up-apples-m4-pro-mac-mini-for-1349-with-free-next-day-shipping?utm_medium=rss)
  - [The White Helmets, UNHCR, UNRWA, and other volunteer organizations describe how apps like WhatsApp have transformed communication in conflict and disaster zones &lpar;John Beck/Rest of World&rpar;](http://www.techmeme.com/241215/p8#a241215p8)
  - [AI Will Evolve Into an Organizational Strategy for All](https://www.wired.com/story/artificial-intelligence-work-organizational-strategy/)
  - [Everything You Need to Know About Apple AirTags](https://www.cnet.com/tech/mobile/everything-you-need-to-know-about-apple-airtags/#ftag=CAD590a51e)
- - [Best Internet Providers in Clarksburg, West Virginia](https://www.cnet.com/home/internet/best-internet-providers-in-clarksburg-wv/#ftag=CAD590a51e)
- - [While businesses frequently try to get on an incoming president&#39;s good side, the past week&#39;s frenzy of tech leaders to woo Trump stood out from other industries &lpar;New York Times&rpar;](http://www.techmeme.com/241215/p7#a241215p7)<!-- TECH:END -->
+ - [Best Internet Providers in Clarksburg, West Virginia](https://www.cnet.com/home/internet/best-internet-providers-in-clarksburg-wv/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

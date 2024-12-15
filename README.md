@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [A look at Blacksky, the Bluesky custom feed run by a team of six moderators, which is slowly turning into the main avenue for many Black users on the service &lpar;Jason Parham/Wired&rpar;](http://www.techmeme.com/241215/p14#a241215p14)
- - [Best Internet Providers in Fort Lauderdale, Florida](https://www.cnet.com/home/internet/best-internet-providers-in-fort-lauderdale-fl/#ftag=CAD590a51e)
- - [Getting New Glasses? This Is How to Pick the Best Glasses for Your Face Shape and Skin Color](https://www.cnet.com/health/personal-care/this-is-how-to-pick-the-best-glasses-for-your-face-shape-and-skin-color/#ftag=CAD590a51e)
- - [La Liga Soccer Livestream: How to Watch Barcelona vs. Leganés From Anywhere](https://www.cnet.com/tech/services-and-software/la-liga-soccer-livestream-how-to-watch-barcelona-vs-leganes-from-anywhere/#ftag=CAD590a51e)
- - [Kidney Health One Bite at a Time: Top 13 Foods That Will Safeguard Your Health](https://www.cnet.com/health/nutrition/kidney-health-one-bite-at-a-time-top-13-foods-that-will-safeguard-your-health/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Steelers vs. Eagles Livestream: How to Watch NFL Week 15 Today](https://www.cnet.com/tech/services-and-software/steelers-vs-eagles-livestream-how-to-watch-nfl-week-15-today/#ftag=CAD590a51e)
+ - [Buccaneers vs. Chargers Livestream: How to Watch NFL Week 15 Today](https://www.cnet.com/tech/services-and-software/buccaneers-vs-chargers-livestream-how-to-watch-nfl-week-15-today/#ftag=CAD590a51e)
+ - [Patriots vs. Cardinals: How to Watch NFL Week 15 Today](https://www.cnet.com/tech/services-and-software/patriots-vs-cardinals-how-to-watch-nfl-week-15-today/#ftag=CAD590a51e)
+ - [Bills vs. Lions: How to Watch NFL Week 15 Today](https://www.cnet.com/tech/services-and-software/bills-vs-lions-how-to-watch-nfl-week-15-today/#ftag=CAD590a51e)
+ - [Saatva Solaire Mattress Review 2024: A Truly Customizable Mattress for Couples](https://www.cnet.com/health/sleep/saatva-solaire-mattress-review/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

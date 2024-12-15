@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Analysis: Apple not likely to enter the foldable market before 2027](https://appleinsider.com/articles/24/12/15/analysis-apple-not-likely-to-enter-the-foldable-market-before-2027?utm_medium=rss)
+ - [Best Food and Drink Subscription Gifts for 2024](https://www.cnet.com/news/best-food-and-drink-subscriptions-to-gift/#ftag=CAD590a51e)
+ - [Today’s Your Last Chance to Save on Tech, Appliances and More at Best Buy’s Holiday Sale](https://www.cnet.com/deals/todays-your-last-chance-to-save-on-tech-appliances-and-more-at-best-buys-holiday-sale/#ftag=CAD590a51e)
  - [Snag Apple&#39;s M4 Pro MacBook Pro for just $1,779 with delivery by Christmas](https://appleinsider.com/articles/24/12/15/snag-apples-m4-pro-macbook-pro-for-just-1779-with-delivery-by-christmas?utm_medium=rss)
- - [18 Amazon Prime Perks You Might Not Be Using &lpar;But Should&rpar;](https://www.cnet.com/tech/mobile/18-amazon-prime-perks-you-might-not-be-using-but-should/#ftag=CAD590a51e)
- - [This mod turns the PSP into a tiny PS2 with Bluetooth controller support](https://www.theverge.com/2024/12/15/24321729/psp-ps-placeable-home-console-bluetooth-controller-mod)
- - [How to Watch the &#39;What We Do in the Shadows&#39; Series Finale Without Cable](https://www.cnet.com/tech/services-and-software/how-to-watch-the-what-we-do-in-the-shadows-series-finale-without-cable/#ftag=CAD590a51e)
- - [If Your Gas Stove Won&#39;t Light, Here&#39;s How to Fix It](https://www.cnet.com/how-to/if-your-gas-stove-wont-light-heres-how-to-fix-it/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [18 Amazon Prime Perks You Might Not Be Using &lpar;But Should&rpar;](https://www.cnet.com/tech/mobile/18-amazon-prime-perks-you-might-not-be-using-but-should/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

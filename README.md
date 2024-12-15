@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [Octopuses are crazy](http://9gag.com/gag/a5Q17zO)
  - 😝 [4am puctures](http://9gag.com/gag/aD2Djed)
+ - 💣 [Nice](http://9gag.com/gag/a4P1beQ)
  - 😝 [It would work on me](http://9gag.com/gag/aZZrmA0)
- - 💣 [Once again i beg for your weird knowledge support, give me all of your weird knowledge in the comments, ty fellows](http://9gag.com/gag/apRgron)
- - 😝 [Beast mode activated](http://9gag.com/gag/a1m1dNv)
- - 👉 [Dark brotherhood would be proud](http://9gag.com/gag/ajPgqVg)<!-- MEMES:END -->
+ - 👉 [How does the tiger know not to f**k with this other animal despite it being much smaller and weaker than him?](http://9gag.com/gag/aPAZWvw)<!-- MEMES:END -->
 
 ---
 

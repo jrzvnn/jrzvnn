@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Car driver prevents cyclist from a potential wolf attack](http://9gag.com/gag/a4P1ZEy)
- - 😝 [No accountability](http://9gag.com/gag/ajPgD0x)
- - 💣 [It would work on me](http://9gag.com/gag/aZZrmA0)
- - 😝 [Once again i beg for your weird knowledge support, give me all of your weird knowledge in the comments, ty fellows](http://9gag.com/gag/apRgron)
- - 👉 [Beast mode activated](http://9gag.com/gag/a1m1dNv)<!-- MEMES:END -->
+ - 😝 [Casual racism to professional racism](http://9gag.com/gag/aD2DGqd)
+ - 😝 [Advanced Canadian Birdwatching Technique](http://9gag.com/gag/aBynw32)
+ - 💣 [Guy remade $million dollar VFX scene from Force Awakens alone in a week &lpar;ErikDoesVFX&rpar;](http://9gag.com/gag/a4P1GRZ)
+ - 😝 [Lucky bear](http://9gag.com/gag/aPAZMbQ)
+ - 👉 [This could have be any western country, if only](http://9gag.com/gag/aoygOwm)<!-- MEMES:END -->
 
 ---
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [It would work on me](http://9gag.com/gag/aZZrmA0)
- - 😝 [Advanced Canadian Birdwatching Technique](http://9gag.com/gag/aBynw32)
- - 💣 [Lucky bear](http://9gag.com/gag/aPAZMbQ)
- - 😝 [Guy remade $million dollar VFX scene from Force Awakens alone in a week &lpar;ErikDoesVFX&rpar;](http://9gag.com/gag/a4P1GRZ)
- - 👉 [F*ck you and see you tomorrow](http://9gag.com/gag/an7gbGz)<!-- MEMES:END -->
+ - 😝 [Internet&#39;s gonna break and so does she\ud83d\uddff\ud83d\uddff....](http://9gag.com/gag/aPAZM1B)
+ - 😝 [Wtf did you just watch.](http://9gag.com/gag/aQzXe48)
+ - 💣 [I&#39;m cured, but I don&#39;t want to go home.](http://9gag.com/gag/avyAGMb)
+ - 😝 [Police indicated `Currently no evidence of foul play`](http://9gag.com/gag/aVvxDBM)
+ - 👉 [Car driver prevents cyclist from a potential wolf attack](http://9gag.com/gag/a4P1ZEy)<!-- MEMES:END -->
 
 ---
 

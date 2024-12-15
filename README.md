@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Police indicated `Currently no evidence of foul play`](http://9gag.com/gag/aVvxDBM)
- - 😝 [It&#39;s that time of the year Do your worst!](http://9gag.com/gag/aGyzDQ5)
- - 💣 [Car driver prevents cyclist from a potential wolf attack](http://9gag.com/gag/a4P1ZEy)
- - 😝 [Nice](http://9gag.com/gag/a4P1beQ)
- - 👉 [Beast mode activated](http://9gag.com/gag/a1m1dNv)<!-- MEMES:END -->
+ - 😝 [4am puctures](http://9gag.com/gag/aD2Djed)
+ - 😝 [13-year-old Magnus Carlsen gets bored playing against World Champ Kasparov](http://9gag.com/gag/aRBrK4q)
+ - 💣 [Nice](http://9gag.com/gag/a4P1beQ)
+ - 😝 [Once again i beg for your weird knowledge support, give me all of your weird knowledge in the comments, ty fellows](http://9gag.com/gag/apRgron)
+ - 👉 [Wtf did you just watch.](http://9gag.com/gag/aQzXe48)<!-- MEMES:END -->
 
 ---
 

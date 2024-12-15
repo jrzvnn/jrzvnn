@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Car driver prevents cyclist from a potential wolf attack](http://9gag.com/gag/a4P1ZEy)
- - 😝 [I&#39;m cured, but I don&#39;t want to go home.](http://9gag.com/gag/avyAGMb)
- - 💣 [A New Jersey resident apparently opens fire on a UAP/UFO &#39;drone&#39; tonight](http://9gag.com/gag/aO8QdrN)
- - 😝 [Beast mode activated](http://9gag.com/gag/a1m1dNv)
- - 👉 [Once again i beg for your weird knowledge support, give me all of your weird knowledge in the comments, ty fellows](http://9gag.com/gag/apRgron)<!-- MEMES:END -->
+ - 😝 [The show must go on](http://9gag.com/gag/axyB1yW)
+ - 😝 [I almost died when I was a kid, like twice iirc](http://9gag.com/gag/avyAO85)
+ - 💣 [Boston Dynamics robot trying to escape the factory &lpar;2024 colorized&rpar;](http://9gag.com/gag/ajPgNr0)
+ - 😝 [This could have be any western country, if only](http://9gag.com/gag/aoygOwm)
+ - 👉 [Some personal slaps](http://9gag.com/gag/apRg2Rp)<!-- MEMES:END -->
 
 ---
 

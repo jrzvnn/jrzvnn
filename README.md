@@ -166,10 +166,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Looks dirty and bad](http://9gag.com/gag/aKGmV0b)
- - 😝 [Curiosity killed the ant](http://9gag.com/gag/ae9g58v)
- - 💣 [Unemployed girls are a burden on their fathers.](http://9gag.com/gag/aqyG1VP)
- - 😝 [The show must go on](http://9gag.com/gag/axyB1yW)
+ - 😝 [Cat.. Wtf..???](http://9gag.com/gag/a8715N3)
+ - 😝 [Adult](http://9gag.com/gag/a9y1nLj)
+ - 💣 [Class war not race war](http://9gag.com/gag/a9y1R5j)
+ - 😝 [He finally got his acorn](http://9gag.com/gag/aqyGg3M)
  - 👉 [Play the new WoT Blitz x deadmau5 &#39;&#39;in the house&#39;&#39; event while you hit different on the battlefield with sick bass &amp; beats!](http://9gag.com/gag/aMV4YW1)<!-- MEMES:END -->
 
 ---

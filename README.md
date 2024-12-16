@@ -160,8 +160,8 @@ R                        1 repo              ░░░░░░░░░░░�
  - [The best entertainment of 2024](https://www.theverge.com/entertainment/24090208/best-entertainment-2024-games-film-tv-streaming)
  - [Silo will end with season 4 on Apple TV Plus](https://www.theverge.com/2024/12/16/24322429/silo-final-season-apple-tv-plus)
  - [New Aqara devices leak, Apple&#39;s smart home progress continues, &amp; more on HomeKit Insider](https://appleinsider.com/articles/24/12/16/new-aqara-devices-leak-apples-smart-home-progress-continues-more-on-homekit-insider?utm_medium=rss)
- - [Snapchat plans to roll out a unified monetization program to pay influencers for ads placed in eligible Stories and Spotlight posts starting February 1, 2025 &lpar;Mia Sato/The Verge&rpar;](http://www.techmeme.com/241216/p14#a241216p14)
- - [The Best Tested Tote Bags &lpar;2024&rpar;: Weather-Proof, Durable](https://www.wired.com/gallery/best-laptop-totes-and-purses/)<!-- TECH:END -->
+ - [Best Internet Providers in Forney, Texas](https://www.cnet.com/home/internet/best-internet-providers-in-forney-tx/#ftag=CAD590a51e)
+ - [Grab This Excellent Gift-Worthy Firepit While It’s Just $70, but Only for Today](https://www.cnet.com/deals/grab-this-excellent-gift-worthy-firepit-while-its-just-70-but-only-for-today/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

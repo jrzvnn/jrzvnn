@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The EU signs a deal to build the &amp;euro;10.6B Iris&amp;sup2; satellite internet network to rival Starlink, with 61% of the project funded publicly, starting operations in 2030 &lpar;Peggy Hollinger/Financial Times&rpar;](http://www.techmeme.com/241216/p9#a241216p9)
- - [The Top Cybersecurity Agency in the US Is Bracing for Donald Trump](https://www.wired.com/story/cisa-cuts-trump-2/)
- - [Arm and Qualcomm&#39;s chip licensing dispute heads to trial in Delaware, in a high-stakes battle set to last about a week over Qualcomm&#39;s $1.4B Nuvia acquisition &lpar;Michael Acton/Financial Times&rpar;](http://www.techmeme.com/241216/p8#a241216p8)
- - [Fastmarkets: the price of gallium, a metal used to make chips, rose to $595 per kilogram on December 13, the highest since 2011, after China restricted exports &lpar;Jack Ryan/Bloomberg&rpar;](http://www.techmeme.com/241216/p7#a241216p7)
- - [iOS 18.2 Brings Major Upgrades to Apple Intelligence. Here&#39;s How To Download It on Your iPhone](https://www.cnet.com/tech/services-and-software/ios-18-2-brings-major-upgrades-to-apple-intelligence-heres-how-to-download-it-on-your-iphone/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [A researcher details a &quot;jailbreak&quot; of Reviver&#39;s digital license plates, which are legal in some US states, and rewrite its firmware to enable Bluetooth commands &lpar;Andy Greenberg/Wired&rpar;](http://www.techmeme.com/241216/p11#a241216p11)
+ - [Europe’s Starlink competitor is go](https://www.theverge.com/2024/12/16/24322358/iris2-starlink-rival-europe-date-cost)
+ - [US Senate investigation: senior Amazon execs disregarded internal warnings over the high rates of worker injuries due to concerns about Amazon&#39;s performance &lpar;Noam Scheiber/New York Times&rpar;](http://www.techmeme.com/241216/p10#a241216p10)
+ - [Europe&#39;s Most Innovative Library Has a Botanical Garden on the Roof](https://www.wired.com/story/warsaw-university-library-warsaw-poland-travel/)
+ - [The EU signs a deal to build the &amp;euro;10.6B Iris&amp;sup2; satellite internet network to rival Starlink, with 61% of the project funded publicly, starting operations in 2030 &lpar;Peggy Hollinger/Financial Times&rpar;](http://www.techmeme.com/241216/p9#a241216p9)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

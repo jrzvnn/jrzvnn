@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Electric Capital annual survey: total developers working in crypto fell 7% YoY globally, and Solana was the most popular blockchain among new developers &lpar;Margaux Nijkerk/CoinDesk&rpar;](http://www.techmeme.com/241216/p1#a241216p1)
  - [Today&#39;s NYT Mini Crossword Answers for Monday, Dec. 16](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-monday-dec-16/#ftag=CAD590a51e)
  - [Today&#39;s NYT Strands Hints, Answers and Help for Dec. 16, #288](https://www.cnet.com/tech/gaming/todays-nyt-strands-hints-answers-and-help-for-dec-16-288/#ftag=CAD590a51e)
  - [Today&#39;s NYT Connections Hints, Answers and Help for Dec. 16, #554](https://www.cnet.com/tech/gaming/todays-nyt-connections-hints-answers-and-help-for-dec-16-554/#ftag=CAD590a51e)
- - [Today&#39;s Wordle Hints, Answer and Help for Dec. 16, #1276](https://www.cnet.com/tech/gaming/todays-wordle-hints-answer-and-help-for-dec-16-1276/#ftag=CAD590a51e)
- - [Today&#39;s NYT Connections: Sports Edition Hints and Answers for Dec. 16, #84](https://www.cnet.com/tech/gaming/todays-nyt-connections-sports-edition-hints-and-answers-for-dec-16-84/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Today&#39;s Wordle Hints, Answer and Help for Dec. 16, #1276](https://www.cnet.com/tech/gaming/todays-wordle-hints-answer-and-help-for-dec-16-1276/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

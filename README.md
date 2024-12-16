@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [You can now buy this nostalgic Game Boy Advance clone](https://www.theverge.com/2024/12/16/24322504/anbernic-rg34xx-nintendo-game-boy-advance-gba-availability-pricing-emulator)
  - [T-Mobile is looking for Starlink satellite-to-cell beta testers](https://www.theverge.com/2024/12/16/24322447/t-mobile-starlink-spacex-beta-registration-open)
  - [Amazon Teamsters in NYC have voted to authorize a strike](https://www.theverge.com/2024/12/16/24322383/amazon-warehouse-delivery-drivers-unions-teamsters-strike-labor-safety-senate-report)
  - [BlackBerry sells its beleaguered cybersecurity business, Cylance, to Arctic Wolf for $160M, after paying $1.4B to acquire Cylance in 2018 &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/241216/p16#a241216p16)
- - [Q&amp;A with Arm CEO Rene Haas on AI&#39;s potential, working with Intel, TSMC, and Samsung, the Trump admin, China and IP licenses, the CHIPS Act, OpenAI, and more &lpar;Alex Heath/The Verge&rpar;](http://www.techmeme.com/241216/p15#a241216p15)
- - [A $169 Price Drop Makes These AKG N9 Noise Canceling Headphones a Clear Win](https://www.cnet.com/deals/a-169-price-drop-makes-these-akg-n9-noise-canceling-headphones-a-clear-win/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Q&amp;A with Arm CEO Rene Haas on AI&#39;s potential, working with Intel, TSMC, and Samsung, the Trump admin, China and IP licenses, the CHIPS Act, OpenAI, and more &lpar;Alex Heath/The Verge&rpar;](http://www.techmeme.com/241216/p15#a241216p15)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

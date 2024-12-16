@@ -167,8 +167,8 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [That moment when your dad is Thor](http://9gag.com/gag/a1m1bEv)
- - 😝 [I&#39;m cured, but I don&#39;t want to go home.](http://9gag.com/gag/avyAGMb)
- - 💣 [I&#39;ve analyzed 9880 users who were active in the last few days and here is the graph of the amount of users REGISTERED by date. See something strange on 06.11.2024?](http://9gag.com/gag/aO8Qrm6)
+ - 😝 [He&#39;s got a point](http://9gag.com/gag/aZZr3Xp)
+ - 💣 [Listen here you little shit.](http://9gag.com/gag/ae9ge2O)
  - 😝 [Security dragging Travis Scott out of his own concert.](http://9gag.com/gag/a0eZQ1O)
  - 👉 [Play the new WoT Blitz x deadmau5 &#39;&#39;in the house&#39;&#39; event while you hit different on the battlefield with sick bass &amp; beats!](http://9gag.com/gag/aMV4YW1)<!-- MEMES:END -->
 

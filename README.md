@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [You&#39;re a woman first](http://9gag.com/gag/ayN9XVb)
- - 😝 [Men only want one thing...](http://9gag.com/gag/aLnvD9v)
+ - 😝 [I&#39;ve analyzed 9880 users who were active in the last few days and here is the graph of the amount of users REGISTERED by date. See something strange on 06.11.2024?](http://9gag.com/gag/aO8Qrm6)
+ - 😝 [Cars on an unmarked speed bump.](http://9gag.com/gag/a1m1b0D)
  - 💣 [I&#39;m cured, but I don&#39;t want to go home.](http://9gag.com/gag/avyAGMb)
  - 😝 [Change my mind.](http://9gag.com/gag/awyzoK1)
- - 👉 [The show must go on](http://9gag.com/gag/axyB1yW)<!-- MEMES:END -->
+ - 👉 [The winner of Miss France, and the second place. Can someone please explain?](http://9gag.com/gag/aE082wO)<!-- MEMES:END -->
 
 ---
 

@@ -166,9 +166,9 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [I&#39;m cured, but I don&#39;t want to go home.](http://9gag.com/gag/avyAGMb)
- - 😝 [Listen here you little shit.](http://9gag.com/gag/ae9ge2O)
- - 💣 [The winner of Miss France, and the second place. Can someone please explain?](http://9gag.com/gag/aE082wO)
+ - 😝 [Explain this, humankind](http://9gag.com/gag/a6Z1opq)
+ - 😝 [Black people have an insane victim mentality.](http://9gag.com/gag/apRg229)
+ - 💣 [Wasted opportunity](http://9gag.com/gag/aPAZjDQ)
  - 😝 [Change my mind.](http://9gag.com/gag/awyzoK1)
  - 👉 [Play the new WoT Blitz x deadmau5 &#39;&#39;in the house&#39;&#39; event while you hit different on the battlefield with sick bass &amp; beats!](http://9gag.com/gag/aMV4YW1)<!-- MEMES:END -->
 

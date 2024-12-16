@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google debuts Whisk, an image generator that takes other images as prompts to suggest the subject, scene, and style, and uses the newly released Imagen 3 &lpar;Jay Peters/The Verge&rpar;](http://www.techmeme.com/241216/p27#a241216p27)
- - [Sources: Tesla received a high number of complaints about HW4 self driving hardware in recent Teslas; source: Tesla service was told to downplay safety concerns &lpar;Fred Lambert/Electrek&rpar;](http://www.techmeme.com/241216/p26#a241216p26)
- - [Blackmagic’s Vision Pro immersive camera can be yours for only $29,995](https://www.theverge.com/2024/12/16/24322713/blackmagic-cine-immersive-camera-preorder-vision-pro-immersive-video)
- - [ByteDance asks SCOTUS to block the law that could ban TikTok on Jan. 19; Trump said today he has a &quot;warm spot&quot; in his heart for TikTok, when asked about the law &lpar;Lawrence Hurley/NBC News&rpar;](http://www.techmeme.com/241216/p25#a241216p25)
- - [Serbian authorities are reportedly hacking and installing spyware on activists’ phones](https://www.theverge.com/2024/12/16/24322640/serbian-police-novispy-android-spyware-amnesty-international-cellebrite)<!-- TECH:END -->
+ - [Luigi Mangione Conspiracy Theories Are Going Strong](https://www.wired.com/story/luigi-mangione-conspiracy-theories-eyebrows-286-monopoly/)
+ - [Officials Warn Against Shooting Down Drones as More Sightings Reported](https://www.cnet.com/tech/officials-warn-against-shooting-down-drones-as-more-sightings-reported/#ftag=CAD590a51e)
+ - [TikTok Asks Supreme Court To Halt Ban: What to Know](https://www.cnet.com/tech/services-and-software/appeals-court-upholds-tiktok-ban-what-to-know/#ftag=CAD590a51e)
+ - [What&#39;s the Safest Way to Pay for Holiday Shopping? Credit Cards, Experts Say](https://www.cnet.com/personal-finance/credit-cards/whats-the-safest-way-to-pay-for-holiday-shopping-credit-cards-experts-say/#ftag=CAD590a51e)
+ - [Make These 4 Money Moves Before Thursday](https://www.cnet.com/personal-finance/banking/make-these-4-money-moves-before-thursday/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

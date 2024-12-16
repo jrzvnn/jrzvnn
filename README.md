@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Blackmagic’s Vision Pro immersive camera can be yours for only $29,995](https://www.theverge.com/2024/12/16/24322713/blackmagic-cine-immersive-camera-preorder-vision-pro-immersive-video)
+ - [ByteDance asks SCOTUS to block the law that could ban TikTok on Jan. 19; Trump said today he has a &quot;warm spot&quot; in his heart for TikTok, when asked about the law &lpar;Lawrence Hurley/NBC News&rpar;](http://www.techmeme.com/241216/p25#a241216p25)
  - [Serbian authorities are reportedly hacking and installing spyware on activists’ phones](https://www.theverge.com/2024/12/16/24322640/serbian-police-novispy-android-spyware-amnesty-international-cellebrite)
  - [YouTube is letting creators opt into allowing third-party AI training](https://www.theverge.com/2024/12/16/24322732/youtube-creators-opt-in-third-party-ai-training-videos)
- - [After probing an open-and-shut SEC violation for two years, it&#39;s nearly too late for the SEC to do anything over how Musk acquired Twitter before Trump moves in &lpar;Matt Levine/Bloomberg&rpar;](http://www.techmeme.com/241216/p24#a241216p24)
- - [macOS Sequoia 15.3 beta makes Genmoji available on Mac](https://appleinsider.com/articles/24/12/16/macos-sequoia-153-beta-makes-genmoji-available-on-mac?utm_medium=rss)
- - [ChatGPT’s AI search engine is rolling out to everyone](https://www.theverge.com/2024/12/16/24322665/chatgpt-search-engine-rolling-out-free-users)<!-- TECH:END -->
+ - [After probing an open-and-shut SEC violation for two years, it&#39;s nearly too late for the SEC to do anything over how Musk acquired Twitter before Trump moves in &lpar;Matt Levine/Bloomberg&rpar;](http://www.techmeme.com/241216/p24#a241216p24)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Arm and Qualcomm&#39;s chip licensing dispute heads to trial in Delaware, in a high-stakes battle set to last about a week over Qualcomm&#39;s $1.4B Nuvia acquisition &lpar;Michael Acton/Financial Times&rpar;](http://www.techmeme.com/241216/p8#a241216p8)
  - [Fastmarkets: the price of gallium, a metal used to make chips, rose to $595 per kilogram on December 13, the highest since 2011, after China restricted exports &lpar;Jack Ryan/Bloomberg&rpar;](http://www.techmeme.com/241216/p7#a241216p7)
  - [Hackers Can Jailbreak Digital License Plates to Make Others Pay Their Tolls and Tickets](https://www.wired.com/story/digital-license-plate-jailbreak-hack/)
  - [Sources: Revolut staff and early investors offloaded nearly $1B in stock in a secondary sale since August 2024, after the UK granted Revolut its banking license &lpar;Financial Times&rpar;](http://www.techmeme.com/241216/p6#a241216p6)
- - [Bag a Pair of Beats Studio Buds for Their Best-Ever Price for the Holidays](https://www.cnet.com/deals/bag-a-pair-of-beats-studio-buds-for-their-best-ever-price-for-the-holidays/#ftag=CAD590a51e)
- - [Act Fast to Score an APY Up to 4.70%. Today&#39;s CD Rates, Dec. 16, 2024](https://www.cnet.com/personal-finance/banking/act-fast-to-score-an-apy-up-to-4-70-todays-cd-rates-dec-14-2024/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Bag a Pair of Beats Studio Buds for Their Best-Ever Price for the Holidays](https://www.cnet.com/deals/bag-a-pair-of-beats-studio-buds-for-their-best-ever-price-for-the-holidays/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

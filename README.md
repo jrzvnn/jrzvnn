@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [How to remove your personal information from the internet with Incogni](https://appleinsider.com/articles/24/12/16/how-to-remove-your-personal-information-from-the-internet-with-incogni?utm_medium=rss)
  - [Amnesty International: Serbian authorities used phone hacking startup Cellebrite&#39;s tools to unlock a journalist&#39;s phone before infecting the device with malware &lpar;Joseph Cox/404 Media&rpar;](http://www.techmeme.com/241216/p13#a241216p13)
  - [Best VPN for Windows 2024](https://www.cnet.com/tech/services-and-software/best-vpn-for-windows/#ftag=CAD590a51e)
  - [Winter&#39;s Coming: Take These Steps to Weather Proof Your Internet](https://www.cnet.com/home/internet/winter-is-coming-take-these-steps-to-weather-proof-your-internet/#ftag=CAD590a51e)
- - [5 Best WIRED-Tested Humidifiers for Home and Away &lpar;2024&rpar;](https://www.wired.com/gallery/the-best-humidifiers/)
- - [Enjoy One of Our Favorite Mini Bluetooth Speakers for Just $45, if You Act Fast](https://www.cnet.com/deals/enjoy-one-of-our-favorite-mini-bluetooth-speakers-for-just-45-if-you-act-fast/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [5 Best WIRED-Tested Humidifiers for Home and Away &lpar;2024&rpar;](https://www.wired.com/gallery/the-best-humidifiers/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

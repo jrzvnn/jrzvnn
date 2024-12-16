@@ -161,7 +161,7 @@ R                        1 repo              ░░░░░░░░░░░�
  - [The Top Cybersecurity Agency in the US Is Bracing for Donald Trump](https://www.wired.com/story/cisa-cuts-trump-2/)
  - [Arm and Qualcomm&#39;s chip licensing dispute heads to trial in Delaware, in a high-stakes battle set to last about a week over Qualcomm&#39;s $1.4B Nuvia acquisition &lpar;Michael Acton/Financial Times&rpar;](http://www.techmeme.com/241216/p8#a241216p8)
  - [Fastmarkets: the price of gallium, a metal used to make chips, rose to $595 per kilogram on December 13, the highest since 2011, after China restricted exports &lpar;Jack Ryan/Bloomberg&rpar;](http://www.techmeme.com/241216/p7#a241216p7)
- - [Hackers Can Jailbreak Digital License Plates to Make Others Pay Their Tolls and Tickets](https://www.wired.com/story/digital-license-plate-jailbreak-hack/)<!-- TECH:END -->
+ - [iOS 18.2 Brings Major Upgrades to Apple Intelligence. Here&#39;s How To Download It on Your iPhone](https://www.cnet.com/tech/services-and-software/ios-18-2-brings-major-upgrades-to-apple-intelligence-heres-how-to-download-it-on-your-iphone/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

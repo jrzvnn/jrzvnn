@@ -166,10 +166,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Security dragging Travis Scott out of his own concert.](http://9gag.com/gag/a0eZQ1O)
- - 😝 [Alejandro](http://9gag.com/gag/aE08YrM)
- - 💣 [The show must go on](http://9gag.com/gag/axyB1yW)
- - 😝 [The winner of Miss France, and the second place. Can someone please explain?](http://9gag.com/gag/aE082wO)
+ - 😝 [From a boy to a man](http://9gag.com/gag/aGyzgEK)
+ - 😝 [That&#39;s wild!](http://9gag.com/gag/a4P1R7m)
+ - 💣 [Usually if the input was specific, the output was aswell. Not anymore.](http://9gag.com/gag/aO8QYEN)
+ - 😝 [The accuracy in that flip flop throw shows that she will be a great mother](http://9gag.com/gag/a341MX8)
  - 👉 [Play the new WoT Blitz x deadmau5 &#39;&#39;in the house&#39;&#39; event while you hit different on the battlefield with sick bass &amp; beats!](http://9gag.com/gag/aMV4YW1)<!-- MEMES:END -->
 
 ---

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Google debuts Whisk, an image generator that takes other images as prompts to suggest the subject, scene, and style, and uses the newly released Imagen 3 &lpar;Jay Peters/The Verge&rpar;](http://www.techmeme.com/241216/p27#a241216p27)
+ - [Sources: Tesla received a high number of complaints about HW4 self driving hardware in recent Teslas; source: Tesla service was told to downplay safety concerns &lpar;Fred Lambert/Electrek&rpar;](http://www.techmeme.com/241216/p26#a241216p26)
  - [Blackmagic’s Vision Pro immersive camera can be yours for only $29,995](https://www.theverge.com/2024/12/16/24322713/blackmagic-cine-immersive-camera-preorder-vision-pro-immersive-video)
  - [ByteDance asks SCOTUS to block the law that could ban TikTok on Jan. 19; Trump said today he has a &quot;warm spot&quot; in his heart for TikTok, when asked about the law &lpar;Lawrence Hurley/NBC News&rpar;](http://www.techmeme.com/241216/p25#a241216p25)
- - [Serbian authorities are reportedly hacking and installing spyware on activists’ phones](https://www.theverge.com/2024/12/16/24322640/serbian-police-novispy-android-spyware-amnesty-international-cellebrite)
- - [YouTube is letting creators opt into allowing third-party AI training](https://www.theverge.com/2024/12/16/24322732/youtube-creators-opt-in-third-party-ai-training-videos)
- - [After probing an open-and-shut SEC violation for two years, it&#39;s nearly too late for the SEC to do anything over how Musk acquired Twitter before Trump moves in &lpar;Matt Levine/Bloomberg&rpar;](http://www.techmeme.com/241216/p24#a241216p24)<!-- TECH:END -->
+ - [Serbian authorities are reportedly hacking and installing spyware on activists’ phones](https://www.theverge.com/2024/12/16/24322640/serbian-police-novispy-android-spyware-amnesty-international-cellebrite)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

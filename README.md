@@ -166,10 +166,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [He looks familiar](http://9gag.com/gag/aoyg5R2)
- - 😝 [Jungle fever](http://9gag.com/gag/a2v1ZEp)
- - 💣 [How saxophones are made](http://9gag.com/gag/aKGmDLZ)
- - 😝 [Just seen this.. knew this belongs here](http://9gag.com/gag/aRBr3rA)
+ - 😝 [Savage](http://9gag.com/gag/ajPgN91)
+ - 😝 [At 16, she made a jump so perfect that not even the judges could believe it](http://9gag.com/gag/a2v14Q1)
+ - 💣 [A real gamer](http://9gag.com/gag/aVvx31w)
+ - 😝 [I saw some fumes coming out of her, but couldn&#39;t determine if she was roasted enough](http://9gag.com/gag/azxeq4B)
  - 👉 [Play the new WoT Blitz x deadmau5 &#39;&#39;in the house&#39;&#39; event while you hit different on the battlefield with sick bass &amp; beats!](http://9gag.com/gag/aMV4YW1)<!-- MEMES:END -->
 
 ---

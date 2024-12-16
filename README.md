@@ -166,10 +166,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [4 layers of bubble gum](http://9gag.com/gag/a2v144Z)
- - 😝 [Listen here you little shit.](http://9gag.com/gag/ae9ge2O)
- - 💣 [The show must go on](http://9gag.com/gag/axyB1yW)
  - 😝 [Security dragging Travis Scott out of his own concert.](http://9gag.com/gag/a0eZQ1O)
+ - 😝 [Alejandro](http://9gag.com/gag/aE08YrM)
+ - 💣 [The show must go on](http://9gag.com/gag/axyB1yW)
+ - 😝 [The winner of Miss France, and the second place. Can someone please explain?](http://9gag.com/gag/aE082wO)
  - 👉 [Play the new WoT Blitz x deadmau5 &#39;&#39;in the house&#39;&#39; event while you hit different on the battlefield with sick bass &amp; beats!](http://9gag.com/gag/aMV4YW1)<!-- MEMES:END -->
 
 ---

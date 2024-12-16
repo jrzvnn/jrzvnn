@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [TikTok CEO meets with Trump as the platform tries to avoid a ban](https://www.theverge.com/2024/12/16/24322852/tiktok-ceo-trump-meeting-ban)
+ - [Fediverse creator payment platform sub.club is shutting down](https://www.theverge.com/2024/12/16/24322574/sub-club-mastodon-mammoth-fediverse-shutting-down)
+ - [Copenhagen-based Keepit, which offers SaaS data protection and backup services, raised $50M led by One Peak and Denmark&#39;s EIFO, taking its total raised to $90M &lpar;Eduard Kovacs/SecurityWeek&rpar;](http://www.techmeme.com/241216/p28#a241216p28)
  - [You can now schedule a DM on Instagram](https://www.theverge.com/2024/12/16/24322832/instagram-schedule-dms-rollout)
- - [Luigi Mangione Conspiracy Theories Are Going Strong](https://www.wired.com/story/luigi-mangione-conspiracy-theories-eyebrows-286-monopoly/)
- - [Officials Warn Against Shooting Down Drones as More Sightings Reported](https://www.cnet.com/tech/officials-warn-against-shooting-down-drones-as-more-sightings-reported/#ftag=CAD590a51e)
- - [TikTok Asks Supreme Court To Halt Ban: What to Know](https://www.cnet.com/tech/services-and-software/appeals-court-upholds-tiktok-ban-what-to-know/#ftag=CAD590a51e)
- - [What&#39;s the Safest Way to Pay for Holiday Shopping? Credit Cards, Experts Say](https://www.cnet.com/personal-finance/credit-cards/whats-the-safest-way-to-pay-for-holiday-shopping-credit-cards-experts-say/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Luigi Mangione Conspiracy Theories Are Going Strong](https://www.wired.com/story/luigi-mangione-conspiracy-theories-eyebrows-286-monopoly/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

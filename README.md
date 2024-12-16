@@ -166,10 +166,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Cat.. Wtf..???](http://9gag.com/gag/a8715N3)
- - 😝 [Adult](http://9gag.com/gag/a9y1nLj)
- - 💣 [Class war not race war](http://9gag.com/gag/a9y1R5j)
- - 😝 [He finally got his acorn](http://9gag.com/gag/aqyGg3M)
+ - 😝 [He looks familiar](http://9gag.com/gag/aoyg5R2)
+ - 😝 [Jungle fever](http://9gag.com/gag/a2v1ZEp)
+ - 💣 [How saxophones are made](http://9gag.com/gag/aKGmDLZ)
+ - 😝 [Just seen this.. knew this belongs here](http://9gag.com/gag/aRBr3rA)
  - 👉 [Play the new WoT Blitz x deadmau5 &#39;&#39;in the house&#39;&#39; event while you hit different on the battlefield with sick bass &amp; beats!](http://9gag.com/gag/aMV4YW1)<!-- MEMES:END -->
 
 ---

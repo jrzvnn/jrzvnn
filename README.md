@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Serbian authorities are reportedly hacking and installing spyware on activists’ phones](https://www.theverge.com/2024/12/16/24322640/serbian-police-novispy-android-spyware-amnesty-international-cellebrite)
  - [YouTube is letting creators opt into allowing third-party AI training](https://www.theverge.com/2024/12/16/24322732/youtube-creators-opt-in-third-party-ai-training-videos)
  - [After probing an open-and-shut SEC violation for two years, it&#39;s nearly too late for the SEC to do anything over how Musk acquired Twitter before Trump moves in &lpar;Matt Levine/Bloomberg&rpar;](http://www.techmeme.com/241216/p24#a241216p24)
  - [macOS Sequoia 15.3 beta makes Genmoji available on Mac](https://appleinsider.com/articles/24/12/16/macos-sequoia-153-beta-makes-genmoji-available-on-mac?utm_medium=rss)
- - [ChatGPT’s AI search engine is rolling out to everyone](https://www.theverge.com/2024/12/16/24322665/chatgpt-search-engine-rolling-out-free-users)
- - [Save a Staggering $60 on a Pair of Samsung Galaxy Buds 3 Pro in Time for Holiday Gifting](https://www.cnet.com/deals/save-a-staggering-60-on-a-pair-of-samsung-galaxy-buds-3-pro-in-time-for-holiday-gifting/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [ChatGPT’s AI search engine is rolling out to everyone](https://www.theverge.com/2024/12/16/24322665/chatgpt-search-engine-rolling-out-free-users)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

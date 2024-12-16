@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Becareful when you boo a comedian...](http://9gag.com/gag/agmgXm1)
- - 😝 [Change my mind.](http://9gag.com/gag/awyzoK1)
- - 💣 [Explain this, humankind](http://9gag.com/gag/a6Z1opq)
- - 😝 [Stop with the logic already](http://9gag.com/gag/a871oB6)
- - 👉 [Black people have an insane victim mentality.](http://9gag.com/gag/apRg229)<!-- MEMES:END -->
+ - 😝 [That moment when your dad is Thor](http://9gag.com/gag/a1m1bEv)
+ - 😝 [What a lovely daughter](http://9gag.com/gag/aNDP0Zv)
+ - 💣 [Listen here you little shit.](http://9gag.com/gag/ae9ge2O)
+ - 😝 [Download wrong power ranger](http://9gag.com/gag/ayN9DeM)
+ - 👉 [The winner of Miss France, and the second place. Can someone please explain?](http://9gag.com/gag/aE082wO)<!-- MEMES:END -->
 
 ---
 

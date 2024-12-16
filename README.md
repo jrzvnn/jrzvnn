@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [4am puctures](http://9gag.com/gag/aD2Djed)
- - 😝 [Police indicated `Currently no evidence of foul play`](http://9gag.com/gag/aVvxDBM)
- - 💣 [Islamic mobs terrorize German women on Berlin subway. This is a huge problem.](http://9gag.com/gag/axyBVgn)
- - 😝 [Download wrong power ranger](http://9gag.com/gag/ayN9DeM)
- - 👉 [Car driver prevents cyclist from a potential wolf attack](http://9gag.com/gag/a4P1ZEy)<!-- MEMES:END -->
+ - 😝 [A real gamer](http://9gag.com/gag/aVvx31w)
+ - 😝 [The Wife Carrying World Championships have been held annually in Sonkaj\u00e4rvi, Finland, since 1992: the prize for the winner is the wife&#39;s weight in beer.](http://9gag.com/gag/aLnvM45)
+ - 💣 [The mind can be a scary place](http://9gag.com/gag/aKGm2v6)
+ - 😝 [Islamic mobs terrorize German women on Berlin subway. This is a huge problem.](http://9gag.com/gag/axyBVgn)
+ - 👉 [Alejandro](http://9gag.com/gag/aE08YrM)<!-- MEMES:END -->
 
 ---
 

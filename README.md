@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Q&amp;A with Arm CEO Rene Haas on AI&#39;s potential, working with Intel, TSMC, and Samsung, the Trump admin, China and IP licenses, the CHIPS Act, OpenAI, and more &lpar;Alex Heath/The Verge&rpar;](http://www.techmeme.com/241216/p15#a241216p15)
  - [As robotaxi companies stumble in the US, China’s fleet is growing](https://www.theverge.com/2024/12/16/24322395/us-vs-china-robotaxi-pony-ai-cruise-waymo-trump)
  - [&#39;Silo&#39; renewed for two more seasons as series finale looms](https://appleinsider.com/articles/24/12/16/silo-renewed-for-two-more-seasons-as-series-finale-looms?utm_medium=rss)
  - [Arm CEO Rene Haas on the AI chip race, Intel, and what Trump means for tech](https://www.theverge.com/24320687/arm-ceo-rene-haas-on-the-ai-chip-race-intel-and-what-trump-means-for-tech)
- - [Eufy’s new $70 security cam captures color footage at night](https://www.theverge.com/2024/12/16/24322413/eufy-indoor-cam-e30-security-camera-night-vision-color)
- - [The best entertainment of 2024](https://www.theverge.com/entertainment/24090208/best-entertainment-2024-games-film-tv-streaming)<!-- TECH:END -->
+ - [Eufy’s new $70 security cam captures color footage at night](https://www.theverge.com/2024/12/16/24322413/eufy-indoor-cam-e30-security-camera-night-vision-color)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

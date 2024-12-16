@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [A real gamer](http://9gag.com/gag/aVvx31w)
- - 😝 [The Wife Carrying World Championships have been held annually in Sonkaj\u00e4rvi, Finland, since 1992: the prize for the winner is the wife&#39;s weight in beer.](http://9gag.com/gag/aLnvM45)
- - 💣 [The mind can be a scary place](http://9gag.com/gag/aKGm2v6)
+ - 😝 [Sewer explosion 4 hours ago in China](http://9gag.com/gag/aPAZBZR)
  - 😝 [Islamic mobs terrorize German women on Berlin subway. This is a huge problem.](http://9gag.com/gag/axyBVgn)
- - 👉 [Alejandro](http://9gag.com/gag/aE08YrM)<!-- MEMES:END -->
+ - 💣 [Listen here you little shit.](http://9gag.com/gag/ae9ge2O)
+ - 😝 [Men only want one thing...](http://9gag.com/gag/aLnvD9v)
+ - 👉 [The show must go on](http://9gag.com/gag/axyB1yW)<!-- MEMES:END -->
 
 ---
 

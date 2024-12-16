@@ -166,10 +166,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Listen here you little shit.](http://9gag.com/gag/ae9ge2O)
- - 😝 [Just seen this.. knew this belongs here](http://9gag.com/gag/aRBr3rA)
- - 💣 [Doesn&#39;t look good for George](http://9gag.com/gag/amogBzj)
- - 😝 [Wtf did you just watch.](http://9gag.com/gag/aQzXe48)
+ - 😝 [Looks dirty and bad](http://9gag.com/gag/aKGmV0b)
+ - 😝 [Curiosity killed the ant](http://9gag.com/gag/ae9g58v)
+ - 💣 [Unemployed girls are a burden on their fathers.](http://9gag.com/gag/aqyG1VP)
+ - 😝 [The show must go on](http://9gag.com/gag/axyB1yW)
  - 👉 [Play the new WoT Blitz x deadmau5 &#39;&#39;in the house&#39;&#39; event while you hit different on the battlefield with sick bass &amp; beats!](http://9gag.com/gag/aMV4YW1)<!-- MEMES:END -->
 
 ---

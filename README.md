@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Bag a Pair of Beats Studio Buds for Their Best-Ever Price for the Holidays](https://www.cnet.com/deals/bag-a-pair-of-beats-studio-buds-for-their-best-ever-price-for-the-holidays/#ftag=CAD590a51e)
+ - [Act Fast to Score an APY Up to 4.70%. Today&#39;s CD Rates, Dec. 16, 2024](https://www.cnet.com/personal-finance/banking/act-fast-to-score-an-apy-up-to-4-70-todays-cd-rates-dec-14-2024/#ftag=CAD590a51e)
  - [The UK&#39;s Ofcom says the Online Safety Act, passed in 2023 to govern illegal material on internet platforms, has taken effect, and plans to expand it in 2025 &lpar;Mark Bergen/Bloomberg&rpar;](http://www.techmeme.com/241216/p5#a241216p5)
- - [Workers are adopting generative AI faster than companies can issue guidelines on how to do so; a survey says ~25% the US workforce already uses the tech weekly &lpar;Stephanie Stacey/Financial Times&rpar;](http://www.techmeme.com/241216/p4#a241216p4)
- - [Homebuyers See Lower Mortgage Rates: Today&#39;s Mortgage Rates for Dec. 16, 2024](https://www.cnet.com/personal-finance/homebuyers-see-lower-mortgage-rates-todays-mortgage-rates-for-dec-16-2024/#ftag=CAD590a51e)
- - [Fed Set to Cut Interest Rates This Week. But Experts Say Next Year Brings Uncertainty](https://www.cnet.com/personal-finance/fed-set-to-cut-interest-rates-this-week-but-experts-say-next-year-brings-uncertainty/#ftag=CAD590a51e)
- - [Big Tech Will Scour the Globe in Its Search for Cheap Energy](https://www.wired.com/story/big-tech-data-centers-cheap-energy/)<!-- TECH:END -->
+ - [The Power of Vitamin B12: Benefits, Deficiency and More Explained](https://www.cnet.com/health/nutrition/power-vitamin-b12-benefits-deficiency-explained/#ftag=CAD590a51e)
+ - [Beware of USPS and FedEx Package Alerts by Scammers This Holiday Season](https://www.cnet.com/personal-finance/beware-of-usps-and-fedex-package-alerts-by-scammers-this-holiday-season/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

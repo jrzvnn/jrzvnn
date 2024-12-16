@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Amnesty International: Serbian authorities used phone hacking startup Cellebrite&#39;s tools to unlock a journalist&#39;s phone before infecting the device with malware &lpar;Joseph Cox/404 Media&rpar;](http://www.techmeme.com/241216/p13#a241216p13)
+ - [Best VPN for Windows 2024](https://www.cnet.com/tech/services-and-software/best-vpn-for-windows/#ftag=CAD590a51e)
+ - [Winter&#39;s Coming: Take These Steps to Weather Proof Your Internet](https://www.cnet.com/home/internet/winter-is-coming-take-these-steps-to-weather-proof-your-internet/#ftag=CAD590a51e)
  - [5 Best WIRED-Tested Humidifiers for Home and Away &lpar;2024&rpar;](https://www.wired.com/gallery/the-best-humidifiers/)
- - [Sonos Sub 4 review: A minor update helps future proof the high-end subwoofer](https://appleinsider.com/articles/24/12/16/sonos-sub-4-review-a-minor-update-helps-future-proof-the-high-end-subwoofer?utm_medium=rss)
- - [A profile of US ride-hailing startup Empower, which does 100K rides per week in DC despite refusing to register with the city&#39;s Department of For-Hire Vehicles &lpar;Eli Tan/New York Times&rpar;](http://www.techmeme.com/241216/p12#a241216p12)
- - [Best Over-the-Counter Eye Drops of 2024](https://www.cnet.com/health/personal-care/best-eye-drops/#ftag=CAD590a51e)
- - [How to Use Your iPhone to Text Over Satellite When You&#39;re Adventuring](https://www.wired.com/story/how-to-text-over-satellite-with-iphone/)<!-- TECH:END -->
+ - [Enjoy One of Our Favorite Mini Bluetooth Speakers for Just $45, if You Act Fast](https://www.cnet.com/deals/enjoy-one-of-our-favorite-mini-bluetooth-speakers-for-just-45-if-you-act-fast/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

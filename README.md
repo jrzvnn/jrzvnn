@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [OpenAI makes ChatGPT Search available to all logged in users, not just subscribers, and says ChatGPT Search can be set as their browser&#39;s default search engine &lpar;Rachel Metz/Bloomberg&rpar;](http://www.techmeme.com/241216/p21#a241216p21)
+ - [Price war: Apple&#39;s 1TB M4 Pro MacBook Pro falls to $1,979](https://appleinsider.com/articles/24/12/16/price-war-apples-1tb-m4-pro-macbook-pro-falls-to-1979?utm_medium=rss)
+ - [Apple restarts the developer beta process with iOS 18.3, macOS 15.3](https://appleinsider.com/articles/24/12/16/apple-restarts-the-developer-beta-process-with-ios-183-macos-153?utm_medium=rss)
  - [Meta rolls out live AI, live translations, and Shazam to Ray-Ban smart glasses for members of its Early Access Program &lpar;Victoria Song/The Verge&rpar;](http://www.techmeme.com/241216/p20#a241216p20)
- - [25 Piping Hot Gifts for Coffee Lovers &lpar;2024&rpar;](https://www.wired.com/gallery/gift-ideas-for-coffee-lovers-2024/)
- - [Google’s Whisk AI generator will ‘remix’ the pictures you plug in](https://www.theverge.com/2024/12/16/24322614/google-whisk-ai-generator-remix-pictures-plug-in)
- - [How Christmas Trees Could Become a Source of Low-Carbon Protein](https://www.wired.com/story/how-christmas-trees-could-become-a-source-of-low-carbon-protein/)
- - [Meta rolls out live AI, live translations, and Shazam to its smart glasses](https://www.theverge.com/2024/12/16/24322628/ray-ban-meta-smart-glasses-live-ai-translation-shazam)<!-- TECH:END -->
+ - [25 Piping Hot Gifts for Coffee Lovers &lpar;2024&rpar;](https://www.wired.com/gallery/gift-ideas-for-coffee-lovers-2024/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

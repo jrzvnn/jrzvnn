@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [5 Best WIRED-Tested Humidifiers for Home and Away &lpar;2024&rpar;](https://www.wired.com/gallery/the-best-humidifiers/)
  - [Sonos Sub 4 review: A minor update helps future proof the high-end subwoofer](https://appleinsider.com/articles/24/12/16/sonos-sub-4-review-a-minor-update-helps-future-proof-the-high-end-subwoofer?utm_medium=rss)
  - [A profile of US ride-hailing startup Empower, which does 100K rides per week in DC despite refusing to register with the city&#39;s Department of For-Hire Vehicles &lpar;Eli Tan/New York Times&rpar;](http://www.techmeme.com/241216/p12#a241216p12)
  - [Best Over-the-Counter Eye Drops of 2024](https://www.cnet.com/health/personal-care/best-eye-drops/#ftag=CAD590a51e)
- - [How to Use Your iPhone to Text Over Satellite When You&#39;re Adventuring](https://www.wired.com/story/how-to-text-over-satellite-with-iphone/)
- - [A researcher details a &quot;jailbreak&quot; of Reviver&#39;s digital license plates, which are legal in some US states, and rewrite its firmware to enable Bluetooth commands &lpar;Andy Greenberg/Wired&rpar;](http://www.techmeme.com/241216/p11#a241216p11)<!-- TECH:END -->
+ - [How to Use Your iPhone to Text Over Satellite When You&#39;re Adventuring](https://www.wired.com/story/how-to-text-over-satellite-with-iphone/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

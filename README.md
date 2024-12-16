@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Chuck Schumer wants answers after another weekend of drone chaos](https://www.theverge.com/2024/12/16/24322542/drone-sightings-chuck-schumer-detection-system-new-york-new-jersey)
- - [Reports: Israel-based Paragon, maker of Pegasus-rival Graphite, sold to US PE firm AE Industrial for ~$500M, a sum that may grow if profitability goals are hit &lpar;Lorenzo Franceschi-Bicchierai/TechCrunch&rpar;](http://www.techmeme.com/241216/p18#a241216p18)
- - [At a meeting with Trump, Masayoshi Son says SoftBank will invest $100B and create 100K jobs in the US, largely via AI-focused jobs and infrastructure projects &lpar;John Melloy/CNBC&rpar;](http://www.techmeme.com/241216/p17#a241216p17)
- - [You can now buy this nostalgic Game Boy Advance clone](https://www.theverge.com/2024/12/16/24322504/anbernic-rg34xx-nintendo-game-boy-advance-gba-availability-pricing-emulator)
- - [T-Mobile is looking for Starlink satellite-to-cell beta testers](https://www.theverge.com/2024/12/16/24322447/t-mobile-starlink-spacex-beta-registration-open)<!-- TECH:END -->
+ - [Undisclosed HomeKit flaw used by Cellebrite to attack Serbian journalists](https://appleinsider.com/articles/24/12/16/undisclosed-homekit-flaw-used-by-cellebrite-to-attack-serbian-journalists?utm_medium=rss)
+ - [YouTube is testing creator voice replies](https://www.theverge.com/2024/12/16/24322524/youtube-voice-replies-creator-comments-test)
+ - [DeepMind unveils Veo 2, a next-gen video-generating AI model that can create 2+ minute long clips in resolutions up to 4K, behind a waitlist as part of VideoFX &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/241216/p19#a241216p19)
+ - [Sony’s noise-canceling WF-1000XM5 are cheaper than they were on Black Friday](https://www.theverge.com/2024/12/16/24322475/sony-wf-1000xm5-earbuds-amazon-smart-plug-deal-sale)
+ - [Chuck Schumer wants answers after another weekend of drone chaos](https://www.theverge.com/2024/12/16/24322542/drone-sightings-chuck-schumer-detection-system-new-york-new-jersey)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

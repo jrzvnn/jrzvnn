@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Electric Capital annual survey: total developers working in crypto fell 7% YoY globally, and Solana was the most popular blockchain among new developers &lpar;Margaux Nijkerk/CoinDesk&rpar;](http://www.techmeme.com/241216/p1#a241216p1)
- - [Today&#39;s NYT Mini Crossword Answers for Monday, Dec. 16](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-monday-dec-16/#ftag=CAD590a51e)
- - [Today&#39;s NYT Strands Hints, Answers and Help for Dec. 16, #288](https://www.cnet.com/tech/gaming/todays-nyt-strands-hints-answers-and-help-for-dec-16-288/#ftag=CAD590a51e)
- - [Today&#39;s NYT Connections Hints, Answers and Help for Dec. 16, #554](https://www.cnet.com/tech/gaming/todays-nyt-connections-hints-answers-and-help-for-dec-16-554/#ftag=CAD590a51e)
- - [Today&#39;s Wordle Hints, Answer and Help for Dec. 16, #1276](https://www.cnet.com/tech/gaming/todays-wordle-hints-answer-and-help-for-dec-16-1276/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [How some companies are using AI agents: McKinsey for client onboarding, insurer Nsure to handle customer requests, and Accenture to support its marketing team &lpar;Jo Constantz/Bloomberg&rpar;](http://www.techmeme.com/241216/p2#a241216p2)
+ - [Sephora Promo Codes: 20% Off Fragrances + Free Shipping](https://www.wired.com/story/sephora-promo-code/)
+ - [Dyson Promo Code: 20% Off in December 2024](https://www.wired.com/story/dyson-cordless-vacuum-promo-code/)
+ - [Best Internet Providers in Eugene, Oregon](https://www.cnet.com/home/internet/best-internet-providers-in-eugene-or/#ftag=CAD590a51e)
+ - [Electric Capital annual survey: total developers working in crypto fell 7% YoY globally, and Solana was the most popular blockchain among new developers &lpar;Margaux Nijkerk/CoinDesk&rpar;](http://www.techmeme.com/241216/p1#a241216p1)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

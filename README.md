@@ -166,10 +166,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Change my mind.](http://9gag.com/gag/awyzoK1)
- - 😝 [A real gamer](http://9gag.com/gag/aVvx31w)
- - 💣 [At 16, she made a jump so perfect that not even the judges could believe it](http://9gag.com/gag/a2v14Q1)
- - 😝 [Guy remade $million dollar VFX scene from Force Awakens alone in a week &lpar;ErikDoesVFX&rpar;](http://9gag.com/gag/a4P1GRZ)
+ - 😝 [From a boy to a man](http://9gag.com/gag/aGyzgEK)
+ - 😝 [Usually if the input was specific, the output was aswell. Not anymore.](http://9gag.com/gag/aO8QYEN)
+ - 💣 [Class war not race war](http://9gag.com/gag/a9y1R5j)
+ - 😝 [I should join a dance class](http://9gag.com/gag/a2v1RLZ)
  - 👉 [Play the new WoT Blitz x deadmau5 &#39;&#39;in the house&#39;&#39; event while you hit different on the battlefield with sick bass &amp; beats!](http://9gag.com/gag/aMV4YW1)<!-- MEMES:END -->
 
 ---

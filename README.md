@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [New Aqara devices leak, Apple&#39;s smart home progress continues, &amp; more on HomeKit Insider](https://appleinsider.com/articles/24/12/16/new-aqara-devices-leak-apples-smart-home-progress-continues-more-on-homekit-insider?utm_medium=rss)
  - [Snapchat plans to roll out a unified monetization program to pay influencers for ads placed in eligible Stories and Spotlight posts starting February 1, 2025 &lpar;Mia Sato/The Verge&rpar;](http://www.techmeme.com/241216/p14#a241216p14)
  - [The Best Tested Tote Bags &lpar;2024&rpar;: Weather-Proof, Durable](https://www.wired.com/gallery/best-laptop-totes-and-purses/)
  - [Snapchat is overhauling how influencers earn money on the platform](https://www.theverge.com/2024/12/16/24320402/snapchat-creator-monetization-program-stories-spotlight)
- - [How to remove your personal information from the internet with Incogni](https://appleinsider.com/articles/24/12/16/how-to-remove-your-personal-information-from-the-internet-with-incogni?utm_medium=rss)
- - [Amnesty International: Serbian authorities used phone hacking startup Cellebrite&#39;s tools to unlock a journalist&#39;s phone before infecting the device with malware &lpar;Joseph Cox/404 Media&rpar;](http://www.techmeme.com/241216/p13#a241216p13)<!-- TECH:END -->
+ - [How to remove your personal information from the internet with Incogni](https://appleinsider.com/articles/24/12/16/how-to-remove-your-personal-information-from-the-internet-with-incogni?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

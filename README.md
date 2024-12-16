@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Still got more to lose &lpar;about another 20kg&rpar;, but this is a major goal achieved I never thought possible.](http://9gag.com/gag/aMV4AVM)
- - 😝 [Becareful when you boo a comedian...](http://9gag.com/gag/agmgXm1)
- - 💣 [Man of culture](http://9gag.com/gag/aAyGxWL)
- - 😝 [Explain this, humankind](http://9gag.com/gag/a6Z1opq)
- - 👉 [Usually if the input was specific, the output was aswell. Not anymore.](http://9gag.com/gag/aO8QYEN)<!-- MEMES:END -->
+ - 😝 [A real gamer](http://9gag.com/gag/aVvx31w)
+ - 😝 [I&#39;ve analyzed 9880 users who were active in the last few days and here is the graph of the amount of users REGISTERED by date. See something strange on 06.11.2024?](http://9gag.com/gag/aO8Qrm6)
+ - 💣 [Download wrong power ranger](http://9gag.com/gag/ayN9DeM)
+ - 😝 [Men only want one thing...](http://9gag.com/gag/aLnvD9v)
+ - 👉 [Islamic mobs terrorize German women on Berlin subway. This is a huge problem.](http://9gag.com/gag/axyBVgn)<!-- MEMES:END -->
 
 ---
 

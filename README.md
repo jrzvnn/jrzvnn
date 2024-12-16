@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Men only want one thing...](http://9gag.com/gag/aLnvD9v)
- - 😝 [Change my mind.](http://9gag.com/gag/awyzoK1)
+ - 😝 [Download wrong power ranger](http://9gag.com/gag/ayN9DeM)
+ - 😝 [Opportunity only knocks once, grab it or you&#39;ll lose it](http://9gag.com/gag/aoygOA3)
  - 💣 [The winner of Miss France, and the second place. Can someone please explain?](http://9gag.com/gag/aE082wO)
- - 😝 [Wtf did you just watch.](http://9gag.com/gag/aQzXe48)
- - 👉 [Another one will soon bite the dust](http://9gag.com/gag/apRgpK8)<!-- MEMES:END -->
+ - 😝 [Men only want one thing...](http://9gag.com/gag/aLnvD9v)
+ - 👉 [The show must go on](http://9gag.com/gag/axyB1yW)<!-- MEMES:END -->
 
 ---
 

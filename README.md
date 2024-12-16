@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The merger of advertising giants Omnicom and Interpublic shows how the industry is preparing for an AI-driven upheaval, which is squeezing out creative talent &lpar;Suzanne Vranica/Wall Street Journal&rpar;](http://www.techmeme.com/241215/p17#a241215p17)
  - [Best Gifts for Grandparents This Holiday Season 2024](https://www.cnet.com/news/best-gifts-for-grandparents/#ftag=CAD590a51e)
  - [Best Internet Providers in Dayton, Ohio](https://www.cnet.com/home/internet/best-internet-providers-in-dayton-oh/#ftag=CAD590a51e)
  - [5 Best Tea Clubs and Subscriptions for 2024, Tested and Reviewed](https://www.cnet.com/news/best-tea-clubs-and-tea-subscriptions/#ftag=CAD590a51e)
- - [Best Internet Providers in Cleveland, Ohio](https://www.cnet.com/home/internet/best-internet-providers-in-cleveland-oh/#ftag=CAD590a51e)
- - [TikTok critics like Marco Rubio, Jacob Helberg, and Brendan Carr are set for senior roles in Trump&#39;s administration, emphasizing Trump&#39;s murky stance on the app &lpar;Anna Edgerton/Bloomberg&rpar;](http://www.techmeme.com/241215/p16#a241215p16)<!-- TECH:END -->
+ - [Best Internet Providers in Cleveland, Ohio](https://www.cnet.com/home/internet/best-internet-providers-in-cleveland-oh/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

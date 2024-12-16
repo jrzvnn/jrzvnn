@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Best Gaming Laptop for 2024](https://www.cnet.com/tech/computing/best-gaming-laptop/#ftag=CAD590a51e)
  - [Blackmagic&#39;s new camera for Apple Vision Pro content has a hefty $29,995 price tag](https://appleinsider.com/articles/24/12/16/blackmagics-new-camera-for-apple-vision-pro-content-has-a-hefty-29995-price-tag?utm_medium=rss)
+ - [Best Internet Providers in Gainesville, Georgia](https://www.cnet.com/home/internet/best-internet-providers-in-gainesville-ga/#ftag=CAD590a51e)
  - [Source: Trump meets with TikTok CEO Shou Zi Chew at Mar-a-Lago, the same day that the company asks the Supreme Court to block the law that could ban the app &lpar;NBC News&rpar;](http://www.techmeme.com/241216/p29#a241216p29)
- - [TikTok CEO meets with Trump as the platform tries to avoid a ban](https://www.theverge.com/2024/12/16/24322852/tiktok-ceo-trump-meeting-ban)
- - [Fediverse creator payment platform sub.club is shutting down](https://www.theverge.com/2024/12/16/24322574/sub-club-mastodon-mammoth-fediverse-shutting-down)
- - [Copenhagen-based Keepit, which offers SaaS data protection and backup services, raised $50M led by One Peak and Denmark&#39;s EIFO, taking its total raised to $90M &lpar;Eduard Kovacs/SecurityWeek&rpar;](http://www.techmeme.com/241216/p28#a241216p28)<!-- TECH:END -->
+ - [Breaking Down Internet Monopolies: Why Choices Are Limited in Your Area](https://www.cnet.com/home/internet/breaking-down-internet-monopolies/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

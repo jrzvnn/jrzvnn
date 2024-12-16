@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Snapchat plans to roll out a unified monetization program to pay influencers for ads placed in eligible Stories and Spotlight posts starting February 1, 2025 &lpar;Mia Sato/The Verge&rpar;](http://www.techmeme.com/241216/p14#a241216p14)
+ - [The Best Tested Tote Bags &lpar;2024&rpar;: Weather-Proof, Durable](https://www.wired.com/gallery/best-laptop-totes-and-purses/)
+ - [Snapchat is overhauling how influencers earn money on the platform](https://www.theverge.com/2024/12/16/24320402/snapchat-creator-monetization-program-stories-spotlight)
  - [How to remove your personal information from the internet with Incogni](https://appleinsider.com/articles/24/12/16/how-to-remove-your-personal-information-from-the-internet-with-incogni?utm_medium=rss)
- - [Amnesty International: Serbian authorities used phone hacking startup Cellebrite&#39;s tools to unlock a journalist&#39;s phone before infecting the device with malware &lpar;Joseph Cox/404 Media&rpar;](http://www.techmeme.com/241216/p13#a241216p13)
- - [Best VPN for Windows 2024](https://www.cnet.com/tech/services-and-software/best-vpn-for-windows/#ftag=CAD590a51e)
- - [Winter&#39;s Coming: Take These Steps to Weather Proof Your Internet](https://www.cnet.com/home/internet/winter-is-coming-take-these-steps-to-weather-proof-your-internet/#ftag=CAD590a51e)
- - [5 Best WIRED-Tested Humidifiers for Home and Away &lpar;2024&rpar;](https://www.wired.com/gallery/the-best-humidifiers/)<!-- TECH:END -->
+ - [Amnesty International: Serbian authorities used phone hacking startup Cellebrite&#39;s tools to unlock a journalist&#39;s phone before infecting the device with malware &lpar;Joseph Cox/404 Media&rpar;](http://www.techmeme.com/241216/p13#a241216p13)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

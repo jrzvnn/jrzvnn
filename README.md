@@ -166,10 +166,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Sewer explosion 4 hours ago in China](http://9gag.com/gag/aPAZBZR)
- - 😝 [Islamic mobs terrorize German women on Berlin subway. This is a huge problem.](http://9gag.com/gag/axyBVgn)
- - 💣 [Listen here you little shit.](http://9gag.com/gag/ae9ge2O)
- - 😝 [Men only want one thing...](http://9gag.com/gag/aLnvD9v)
+ - 😝 [Lillian Phillips screwdriver needs to see a doctor after sleeping with 100 guys in one day](http://9gag.com/gag/aYQrKMV)
+ - 😝 [I&#39;ve analyzed 9880 users who were active in the last few days and here is the graph of the amount of users REGISTERED by date. See something strange on 06.11.2024?](http://9gag.com/gag/aO8Qrm6)
+ - 💣 [Download wrong power ranger](http://9gag.com/gag/ayN9DeM)
+ - 😝 [Just seconds after this image was captured, SeaWorld trainer Dawn Brancheau was snatched into the jaws of the orca pictured here and \u2018ripped apart.\u2019 She was then thrashed about over the course of 45 minutes while the horrified crowd helplessly looked on.](http://9gag.com/gag/aRBr19M)
  - 👉 [The show must go on](http://9gag.com/gag/axyB1yW)<!-- MEMES:END -->
 
 ---

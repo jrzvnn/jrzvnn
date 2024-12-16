@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Chuck Schumer wants answers after another weekend of drone chaos](https://www.theverge.com/2024/12/16/24322542/drone-sightings-chuck-schumer-detection-system-new-york-new-jersey)
+ - [Reports: Israel-based Paragon, maker of Pegasus-rival Graphite, sold to US PE firm AE Industrial for ~$500M, a sum that may grow if profitability goals are hit &lpar;Lorenzo Franceschi-Bicchierai/TechCrunch&rpar;](http://www.techmeme.com/241216/p18#a241216p18)
  - [At a meeting with Trump, Masayoshi Son says SoftBank will invest $100B and create 100K jobs in the US, largely via AI-focused jobs and infrastructure projects &lpar;John Melloy/CNBC&rpar;](http://www.techmeme.com/241216/p17#a241216p17)
  - [You can now buy this nostalgic Game Boy Advance clone](https://www.theverge.com/2024/12/16/24322504/anbernic-rg34xx-nintendo-game-boy-advance-gba-availability-pricing-emulator)
- - [T-Mobile is looking for Starlink satellite-to-cell beta testers](https://www.theverge.com/2024/12/16/24322447/t-mobile-starlink-spacex-beta-registration-open)
- - [Amazon Teamsters in NYC have voted to authorize a strike](https://www.theverge.com/2024/12/16/24322383/amazon-warehouse-delivery-drivers-unions-teamsters-strike-labor-safety-senate-report)
- - [BlackBerry sells its beleaguered cybersecurity business, Cylance, to Arctic Wolf for $160M, after paying $1.4B to acquire Cylance in 2018 &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/241216/p16#a241216p16)<!-- TECH:END -->
+ - [T-Mobile is looking for Starlink satellite-to-cell beta testers](https://www.theverge.com/2024/12/16/24322447/t-mobile-starlink-spacex-beta-registration-open)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

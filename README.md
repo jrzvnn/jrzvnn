@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Workers are adopting generative AI faster than companies can issue guidelines on how to do so; a survey says ~25% the US workforce already uses the tech weekly &lpar;Stephanie Stacey/Financial Times&rpar;](http://www.techmeme.com/241216/p4#a241216p4)
+ - [Homebuyers See Lower Mortgage Rates: Today&#39;s Mortgage Rates for Dec. 16, 2024](https://www.cnet.com/personal-finance/homebuyers-see-lower-mortgage-rates-todays-mortgage-rates-for-dec-16-2024/#ftag=CAD590a51e)
+ - [Fed Set to Cut Interest Rates This Week. But Experts Say Next Year Brings Uncertainty](https://www.cnet.com/personal-finance/fed-set-to-cut-interest-rates-this-week-but-experts-say-next-year-brings-uncertainty/#ftag=CAD590a51e)
  - [Big Tech Will Scour the Globe in Its Search for Cheap Energy](https://www.wired.com/story/big-tech-data-centers-cheap-energy/)
- - [Chinese merchants are rapidly expanding their presence on Russian e-commerce platforms like Ozon Global and Wildberries to find new markets and avoid US tariffs &lpar;William Langley/Financial Times&rpar;](http://www.techmeme.com/241216/p3#a241216p3)
- - [Mortgage Rate Predictions: Will Another Fed Rate Cut Make a Difference?](https://www.cnet.com/personal-finance/mortgage-rate-predictions-will-another-fed-rate-cut-make-a-difference/#ftag=CAD590a51e)
- - [How some companies are using AI agents: McKinsey for client onboarding, insurer Nsure to handle customer requests, and Accenture to support its marketing team &lpar;Jo Constantz/Bloomberg&rpar;](http://www.techmeme.com/241216/p2#a241216p2)
- - [Sephora Promo Codes: 20% Off Fragrances + Free Shipping](https://www.wired.com/story/sephora-promo-code/)<!-- TECH:END -->
+ - [Chinese merchants are rapidly expanding their presence on Russian e-commerce platforms like Ozon Global and Wildberries to find new markets and avoid US tariffs &lpar;William Langley/Financial Times&rpar;](http://www.techmeme.com/241216/p3#a241216p3)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

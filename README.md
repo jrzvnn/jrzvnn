@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [YouTube adds a tool to let creators give authorization to several third parties, including Amazon, Apple, Nvidia, OpenAI, and Meta, to train on their videos &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/241216/p22#a241216p22)
  - [OpenAI makes ChatGPT Search available to all logged in users, not just subscribers, and says ChatGPT Search can be set as their browser&#39;s default search engine &lpar;Rachel Metz/Bloomberg&rpar;](http://www.techmeme.com/241216/p21#a241216p21)
  - [Price war: Apple&#39;s 1TB M4 Pro MacBook Pro falls to $1,979](https://appleinsider.com/articles/24/12/16/price-war-apples-1tb-m4-pro-macbook-pro-falls-to-1979?utm_medium=rss)
  - [Apple restarts the developer beta process with iOS 18.3, macOS 15.3](https://appleinsider.com/articles/24/12/16/apple-restarts-the-developer-beta-process-with-ios-183-macos-153?utm_medium=rss)
- - [Meta rolls out live AI, live translations, and Shazam to Ray-Ban smart glasses for members of its Early Access Program &lpar;Victoria Song/The Verge&rpar;](http://www.techmeme.com/241216/p20#a241216p20)
- - [25 Piping Hot Gifts for Coffee Lovers &lpar;2024&rpar;](https://www.wired.com/gallery/gift-ideas-for-coffee-lovers-2024/)<!-- TECH:END -->
+ - [Best Gift Card Deals: Give the Gift of Uber, DoorDash, Meta and More While Saving](https://www.cnet.com/deals/best-gift-card-deals/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

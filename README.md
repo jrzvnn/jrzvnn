@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [YouTube is letting creators opt into allowing third-party AI training](https://www.theverge.com/2024/12/16/24322732/youtube-creators-opt-in-third-party-ai-training-videos)
+ - [After probing an open-and-shut SEC violation for two years, it&#39;s nearly too late for the SEC to do anything over how Musk acquired Twitter before Trump moves in &lpar;Matt Levine/Bloomberg&rpar;](http://www.techmeme.com/241216/p24#a241216p24)
+ - [macOS Sequoia 15.3 beta makes Genmoji available on Mac](https://appleinsider.com/articles/24/12/16/macos-sequoia-153-beta-makes-genmoji-available-on-mac?utm_medium=rss)
  - [ChatGPT’s AI search engine is rolling out to everyone](https://www.theverge.com/2024/12/16/24322665/chatgpt-search-engine-rolling-out-free-users)
- - [Chinese shopping app Temu was the year&#39;s most downloaded free app in the US, for the second year in a row, followed by Threads, TikTok, ChatGPT, and then Google &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/241216/p23#a241216p23)
- - [Supply chain rumor suggests OLED iPad mini in 2026, foldable iPad Pro in 2027](https://appleinsider.com/articles/24/12/16/supply-chain-rumor-suggests-oled-ipad-mini-in-2026-foldable-ipad-pro-in-2027?utm_medium=rss)
- - [YouTube adds a tool to let creators give authorization to several third parties, including Amazon, Apple, Nvidia, OpenAI, and Meta, to train on their videos &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/241216/p22#a241216p22)
- - [OpenAI makes ChatGPT Search available to all logged in users, not just subscribers, and says ChatGPT Search can be set as their browser&#39;s default search engine &lpar;Rachel Metz/Bloomberg&rpar;](http://www.techmeme.com/241216/p21#a241216p21)<!-- TECH:END -->
+ - [Save a Staggering $60 on a Pair of Samsung Galaxy Buds 3 Pro in Time for Holiday Gifting](https://www.cnet.com/deals/save-a-staggering-60-on-a-pair-of-samsung-galaxy-buds-3-pro-in-time-for-holiday-gifting/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

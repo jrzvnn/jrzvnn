@@ -167,9 +167,9 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [Explain this, humankind](http://9gag.com/gag/a6Z1opq)
- - 😝 [Black people have an insane victim mentality.](http://9gag.com/gag/apRg229)
- - 💣 [Wasted opportunity](http://9gag.com/gag/aPAZjDQ)
- - 😝 [Change my mind.](http://9gag.com/gag/awyzoK1)
+ - 😝 [The surgery went well. I&#39;m back here with you beautiful racist misogynistic bastards. Doc said I have a long life ahead. Thank you for all the encouragements.](http://9gag.com/gag/aQzX338)
+ - 💣 [Black people have an insane victim mentality.](http://9gag.com/gag/apRg229)
+ - 😝 [Wasted opportunity](http://9gag.com/gag/aPAZjDQ)
  - 👉 [Play the new WoT Blitz x deadmau5 &#39;&#39;in the house&#39;&#39; event while you hit different on the battlefield with sick bass &amp; beats!](http://9gag.com/gag/aMV4YW1)<!-- MEMES:END -->
 
 ---

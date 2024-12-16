@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Men only want one thing...](http://9gag.com/gag/aLnvD9v)
- - 😝 [Wtf did you just watch.](http://9gag.com/gag/aQzXe48)
- - 💣 [I&#39;m cured, but I don&#39;t want to go home.](http://9gag.com/gag/avyAGMb)
- - 😝 [The winner of Miss France, and the second place. Can someone please explain?](http://9gag.com/gag/aE082wO)
- - 👉 [Another one will soon bite the dust](http://9gag.com/gag/apRgpK8)<!-- MEMES:END -->
+ - 😝 [Becareful when you boo a comedian...](http://9gag.com/gag/agmgXm1)
+ - 😝 [Change my mind.](http://9gag.com/gag/awyzoK1)
+ - 💣 [Explain this, humankind](http://9gag.com/gag/a6Z1opq)
+ - 😝 [Stop with the logic already](http://9gag.com/gag/a871oB6)
+ - 👉 [Black people have an insane victim mentality.](http://9gag.com/gag/apRg229)<!-- MEMES:END -->
 
 ---
 

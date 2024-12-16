@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Instagram will let you recap 2024 with a collage for your story](https://www.theverge.com/2024/12/16/24322563/instagram-recap-2024-collage-story)
+ - [Apple Intelligence isn&#39;t hugely important, says an iPhone user survey done too early](https://appleinsider.com/articles/24/12/16/apple-intelligence-isnt-hugely-important-says-an-iphone-user-survey-done-too-early?utm_medium=rss)
  - [Undisclosed HomeKit flaw used by Cellebrite to attack Serbian journalists](https://appleinsider.com/articles/24/12/16/undisclosed-homekit-flaw-used-by-cellebrite-to-attack-serbian-journalists?utm_medium=rss)
  - [YouTube is testing creator voice replies](https://www.theverge.com/2024/12/16/24322524/youtube-voice-replies-creator-comments-test)
- - [DeepMind unveils Veo 2, a next-gen video-generating AI model that can create 2+ minute long clips in resolutions up to 4K, behind a waitlist as part of VideoFX &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/241216/p19#a241216p19)
- - [Sony’s noise-canceling WF-1000XM5 are cheaper than they were on Black Friday](https://www.theverge.com/2024/12/16/24322475/sony-wf-1000xm5-earbuds-amazon-smart-plug-deal-sale)
- - [Chuck Schumer wants answers after another weekend of drone chaos](https://www.theverge.com/2024/12/16/24322542/drone-sightings-chuck-schumer-detection-system-new-york-new-jersey)<!-- TECH:END -->
+ - [DeepMind unveils Veo 2, a next-gen video-generating AI model that can create 2+ minute long clips in resolutions up to 4K, behind a waitlist as part of VideoFX &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/241216/p19#a241216p19)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

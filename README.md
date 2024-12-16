@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Chinese merchants are rapidly expanding their presence on Russian e-commerce platforms like Ozon Global and Wildberries to find new markets and avoid US tariffs &lpar;William Langley/Financial Times&rpar;](http://www.techmeme.com/241216/p3#a241216p3)
  - [How some companies are using AI agents: McKinsey for client onboarding, insurer Nsure to handle customer requests, and Accenture to support its marketing team &lpar;Jo Constantz/Bloomberg&rpar;](http://www.techmeme.com/241216/p2#a241216p2)
  - [Sephora Promo Codes: 20% Off Fragrances + Free Shipping](https://www.wired.com/story/sephora-promo-code/)
  - [Dyson Promo Code: 20% Off in December 2024](https://www.wired.com/story/dyson-cordless-vacuum-promo-code/)
- - [Best Internet Providers in Eugene, Oregon](https://www.cnet.com/home/internet/best-internet-providers-in-eugene-or/#ftag=CAD590a51e)
- - [Electric Capital annual survey: total developers working in crypto fell 7% YoY globally, and Solana was the most popular blockchain among new developers &lpar;Margaux Nijkerk/CoinDesk&rpar;](http://www.techmeme.com/241216/p1#a241216p1)<!-- TECH:END -->
+ - [Best Internet Providers in Eugene, Oregon](https://www.cnet.com/home/internet/best-internet-providers-in-eugene-or/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

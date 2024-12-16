@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [This could have be any western country, if only](http://9gag.com/gag/aoygOwm)
- - 😝 [Still got more to lose &lpar;about another 20kg&rpar;, but this is a major goal achieved I never thought possible.](http://9gag.com/gag/aMV4AVM)
- - 💣 [Becareful when you boo a comedian...](http://9gag.com/gag/agmgXm1)
- - 😝 [Explain this, humankind](http://9gag.com/gag/a6Z1opq)
- - 👉 [Man of culture](http://9gag.com/gag/aAyGxWL)<!-- MEMES:END -->
+ - 😝 [Islamic mobs terrorize German women on Berlin subway. This is a huge problem.](http://9gag.com/gag/axyBVgn)
+ - 😝 [Men only want one thing...](http://9gag.com/gag/aLnvD9v)
+ - 💣 [Police indicated `Currently no evidence of foul play`](http://9gag.com/gag/aVvxDBM)
+ - 😝 [Listen here you little shit.](http://9gag.com/gag/ae9ge2O)
+ - 👉 [I&#39;m cured, but I don&#39;t want to go home.](http://9gag.com/gag/avyAGMb)<!-- MEMES:END -->
 
 ---
 

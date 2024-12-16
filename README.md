@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Lillian Phillips screwdriver needs to see a doctor after sleeping with 100 guys in one day](http://9gag.com/gag/aYQrKMV)
- - 😝 [I&#39;ve analyzed 9880 users who were active in the last few days and here is the graph of the amount of users REGISTERED by date. See something strange on 06.11.2024?](http://9gag.com/gag/aO8Qrm6)
- - 💣 [Download wrong power ranger](http://9gag.com/gag/ayN9DeM)
- - 😝 [Just seconds after this image was captured, SeaWorld trainer Dawn Brancheau was snatched into the jaws of the orca pictured here and \u2018ripped apart.\u2019 She was then thrashed about over the course of 45 minutes while the horrified crowd helplessly looked on.](http://9gag.com/gag/aRBr19M)
- - 👉 [The show must go on](http://9gag.com/gag/axyB1yW)<!-- MEMES:END -->
+ - 😝 [This could have be any western country, if only](http://9gag.com/gag/aoygOwm)
+ - 😝 [Still got more to lose &lpar;about another 20kg&rpar;, but this is a major goal achieved I never thought possible.](http://9gag.com/gag/aMV4AVM)
+ - 💣 [Becareful when you boo a comedian...](http://9gag.com/gag/agmgXm1)
+ - 😝 [Explain this, humankind](http://9gag.com/gag/a6Z1opq)
+ - 👉 [Man of culture](http://9gag.com/gag/aAyGxWL)<!-- MEMES:END -->
 
 ---
 

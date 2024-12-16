@@ -166,10 +166,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Security dragging Travis Scott out of his own concert.](http://9gag.com/gag/a0eZQ1O)
- - 😝 [The show must go on](http://9gag.com/gag/axyB1yW)
- - 💣 [Doesn&#39;t look good for George](http://9gag.com/gag/amogBzj)
+ - 😝 [Listen here you little shit.](http://9gag.com/gag/ae9ge2O)
  - 😝 [Just seen this.. knew this belongs here](http://9gag.com/gag/aRBr3rA)
+ - 💣 [Doesn&#39;t look good for George](http://9gag.com/gag/amogBzj)
+ - 😝 [Wtf did you just watch.](http://9gag.com/gag/aQzXe48)
  - 👉 [Play the new WoT Blitz x deadmau5 &#39;&#39;in the house&#39;&#39; event while you hit different on the battlefield with sick bass &amp; beats!](http://9gag.com/gag/aMV4YW1)<!-- MEMES:END -->
 
 ---

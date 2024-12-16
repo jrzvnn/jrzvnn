@@ -166,10 +166,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Savage](http://9gag.com/gag/ajPgN91)
- - 😝 [At 16, she made a jump so perfect that not even the judges could believe it](http://9gag.com/gag/a2v14Q1)
- - 💣 [A real gamer](http://9gag.com/gag/aVvx31w)
- - 😝 [I saw some fumes coming out of her, but couldn&#39;t determine if she was roasted enough](http://9gag.com/gag/azxeq4B)
+ - 😝 [Change my mind.](http://9gag.com/gag/awyzoK1)
+ - 😝 [A real gamer](http://9gag.com/gag/aVvx31w)
+ - 💣 [At 16, she made a jump so perfect that not even the judges could believe it](http://9gag.com/gag/a2v14Q1)
+ - 😝 [Guy remade $million dollar VFX scene from Force Awakens alone in a week &lpar;ErikDoesVFX&rpar;](http://9gag.com/gag/a4P1GRZ)
  - 👉 [Play the new WoT Blitz x deadmau5 &#39;&#39;in the house&#39;&#39; event while you hit different on the battlefield with sick bass &amp; beats!](http://9gag.com/gag/aMV4YW1)<!-- MEMES:END -->
 
 ---

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Guy remade $million dollar VFX scene from Force Awakens alone in a week &lpar;ErikDoesVFX&rpar;](http://9gag.com/gag/a4P1GRZ)
- - 😝 [13-year-old Magnus Carlsen gets bored playing against World Champ Kasparov](http://9gag.com/gag/aRBrK4q)
- - 💣 [4am puctures](http://9gag.com/gag/aD2Djed)
+ - 😝 [4am puctures](http://9gag.com/gag/aD2Djed)
  - 😝 [Police indicated `Currently no evidence of foul play`](http://9gag.com/gag/aVvxDBM)
- - 👉 [Wtf did you just watch.](http://9gag.com/gag/aQzXe48)<!-- MEMES:END -->
+ - 💣 [Islamic mobs terrorize German women on Berlin subway. This is a huge problem.](http://9gag.com/gag/axyBVgn)
+ - 😝 [Download wrong power ranger](http://9gag.com/gag/ayN9DeM)
+ - 👉 [Car driver prevents cyclist from a potential wolf attack](http://9gag.com/gag/a4P1ZEy)<!-- MEMES:END -->
 
 ---
 

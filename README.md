@@ -166,9 +166,9 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Lady has her ears cleaned after 16 years.](http://9gag.com/gag/avyA8Mq)
- - 😝 [I&#39;ve analyzed 9880 users who were active in the last few days and here is the graph of the amount of users REGISTERED by date. See something strange on 06.11.2024?](http://9gag.com/gag/aO8Qrm6)
- - 💣 [Listen here you little shit.](http://9gag.com/gag/ae9ge2O)
+ - 😝 [I&#39;m cured, but I don&#39;t want to go home.](http://9gag.com/gag/avyAGMb)
+ - 😝 [Listen here you little shit.](http://9gag.com/gag/ae9ge2O)
+ - 💣 [The winner of Miss France, and the second place. Can someone please explain?](http://9gag.com/gag/aE082wO)
  - 😝 [Change my mind.](http://9gag.com/gag/awyzoK1)
  - 👉 [Play the new WoT Blitz x deadmau5 &#39;&#39;in the house&#39;&#39; event while you hit different on the battlefield with sick bass &amp; beats!](http://9gag.com/gag/aMV4YW1)<!-- MEMES:END -->
 

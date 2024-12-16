@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [This could have be any western country, if only](http://9gag.com/gag/aoygOwm)
  - 😝 [Still got more to lose &lpar;about another 20kg&rpar;, but this is a major goal achieved I never thought possible.](http://9gag.com/gag/aMV4AVM)
- - 💣 [Becareful when you boo a comedian...](http://9gag.com/gag/agmgXm1)
- - 😝 [Explain this, humankind](http://9gag.com/gag/a6Z1opq)
- - 👉 [Man of culture](http://9gag.com/gag/aAyGxWL)<!-- MEMES:END -->
+ - 😝 [Becareful when you boo a comedian...](http://9gag.com/gag/agmgXm1)
+ - 💣 [Man of culture](http://9gag.com/gag/aAyGxWL)
+ - 😝 [Meowy New year](http://9gag.com/gag/aE08gYO)
+ - 👉 [Explain this, humankind](http://9gag.com/gag/a6Z1opq)<!-- MEMES:END -->
 
 ---
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [A real gamer](http://9gag.com/gag/aVvx31w)
- - 😝 [The show must go on](http://9gag.com/gag/axyB1yW)
- - 💣 [Change my mind.](http://9gag.com/gag/awyzoK1)
- - 😝 [Listen here you little shit.](http://9gag.com/gag/ae9ge2O)
- - 👉 [Men only want one thing...](http://9gag.com/gag/aLnvD9v)<!-- MEMES:END -->
+ - 😝 [Men only want one thing...](http://9gag.com/gag/aLnvD9v)
+ - 😝 [Change my mind.](http://9gag.com/gag/awyzoK1)
+ - 💣 [The winner of Miss France, and the second place. Can someone please explain?](http://9gag.com/gag/aE082wO)
+ - 😝 [Wtf did you just watch.](http://9gag.com/gag/aQzXe48)
+ - 👉 [Another one will soon bite the dust](http://9gag.com/gag/apRgpK8)<!-- MEMES:END -->
 
 ---
 

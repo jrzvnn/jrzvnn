@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Arm CEO Rene Haas on the AI chip race, Intel, and what Trump means for tech](https://www.theverge.com/24320687/arm-ceo-rene-haas-on-the-ai-chip-race-intel-and-what-trump-means-for-tech)
+ - [Eufy’s new $70 security cam captures color footage at night](https://www.theverge.com/2024/12/16/24322413/eufy-indoor-cam-e30-security-camera-night-vision-color)
  - [The best entertainment of 2024](https://www.theverge.com/entertainment/24090208/best-entertainment-2024-games-film-tv-streaming)
  - [Silo will end with season 4 on Apple TV Plus](https://www.theverge.com/2024/12/16/24322429/silo-final-season-apple-tv-plus)
- - [New Aqara devices leak, Apple&#39;s smart home progress continues, &amp; more on HomeKit Insider](https://appleinsider.com/articles/24/12/16/new-aqara-devices-leak-apples-smart-home-progress-continues-more-on-homekit-insider?utm_medium=rss)
- - [Best Internet Providers in Forney, Texas](https://www.cnet.com/home/internet/best-internet-providers-in-forney-tx/#ftag=CAD590a51e)
- - [Grab This Excellent Gift-Worthy Firepit While It’s Just $70, but Only for Today](https://www.cnet.com/deals/grab-this-excellent-gift-worthy-firepit-while-its-just-70-but-only-for-today/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [New Aqara devices leak, Apple&#39;s smart home progress continues, &amp; more on HomeKit Insider](https://appleinsider.com/articles/24/12/16/new-aqara-devices-leak-apples-smart-home-progress-continues-more-on-homekit-insider?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

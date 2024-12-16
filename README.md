@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [A real gamer](http://9gag.com/gag/aVvx31w)
+ - 😝 [The show must go on](http://9gag.com/gag/axyB1yW)
+ - 💣 [Change my mind.](http://9gag.com/gag/awyzoK1)
  - 😝 [Listen here you little shit.](http://9gag.com/gag/ae9ge2O)
- - 😝 [Download wrong power ranger](http://9gag.com/gag/ayN9DeM)
- - 💣 [The show must go on](http://9gag.com/gag/axyB1yW)
- - 😝 [Islamic mobs terrorize German women on Berlin subway. This is a huge problem.](http://9gag.com/gag/axyBVgn)
- - 👉 [I&#39;m cured, but I don&#39;t want to go home.](http://9gag.com/gag/avyAGMb)<!-- MEMES:END -->
+ - 👉 [Men only want one thing...](http://9gag.com/gag/aLnvD9v)<!-- MEMES:END -->
 
 ---
 

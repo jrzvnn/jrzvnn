@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Blackmagic&#39;s new camera for Apple Vision Pro content has a hefty $29,995 price tag](https://appleinsider.com/articles/24/12/16/blackmagics-new-camera-for-apple-vision-pro-content-has-a-hefty-29995-price-tag?utm_medium=rss)
+ - [Source: Trump meets with TikTok CEO Shou Zi Chew at Mar-a-Lago, the same day that the company asks the Supreme Court to block the law that could ban the app &lpar;NBC News&rpar;](http://www.techmeme.com/241216/p29#a241216p29)
  - [TikTok CEO meets with Trump as the platform tries to avoid a ban](https://www.theverge.com/2024/12/16/24322852/tiktok-ceo-trump-meeting-ban)
  - [Fediverse creator payment platform sub.club is shutting down](https://www.theverge.com/2024/12/16/24322574/sub-club-mastodon-mammoth-fediverse-shutting-down)
- - [Copenhagen-based Keepit, which offers SaaS data protection and backup services, raised $50M led by One Peak and Denmark&#39;s EIFO, taking its total raised to $90M &lpar;Eduard Kovacs/SecurityWeek&rpar;](http://www.techmeme.com/241216/p28#a241216p28)
- - [You can now schedule a DM on Instagram](https://www.theverge.com/2024/12/16/24322832/instagram-schedule-dms-rollout)
- - [Luigi Mangione Conspiracy Theories Are Going Strong](https://www.wired.com/story/luigi-mangione-conspiracy-theories-eyebrows-286-monopoly/)<!-- TECH:END -->
+ - [Copenhagen-based Keepit, which offers SaaS data protection and backup services, raised $50M led by One Peak and Denmark&#39;s EIFO, taking its total raised to $90M &lpar;Eduard Kovacs/SecurityWeek&rpar;](http://www.techmeme.com/241216/p28#a241216p28)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

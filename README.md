@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Instagram will let you recap 2024 with a collage for your story](https://www.theverge.com/2024/12/16/24322563/instagram-recap-2024-collage-story)
- - [Apple Intelligence isn&#39;t hugely important, says an iPhone user survey done too early](https://appleinsider.com/articles/24/12/16/apple-intelligence-isnt-hugely-important-says-an-iphone-user-survey-done-too-early?utm_medium=rss)
- - [Undisclosed HomeKit flaw used by Cellebrite to attack Serbian journalists](https://appleinsider.com/articles/24/12/16/undisclosed-homekit-flaw-used-by-cellebrite-to-attack-serbian-journalists?utm_medium=rss)
- - [YouTube is testing creator voice replies](https://www.theverge.com/2024/12/16/24322524/youtube-voice-replies-creator-comments-test)
- - [DeepMind unveils Veo 2, a next-gen video-generating AI model that can create 2+ minute long clips in resolutions up to 4K, behind a waitlist as part of VideoFX &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/241216/p19#a241216p19)<!-- TECH:END -->
+ - [Meta rolls out live AI, live translations, and Shazam to Ray-Ban smart glasses for members of its Early Access Program &lpar;Victoria Song/The Verge&rpar;](http://www.techmeme.com/241216/p20#a241216p20)
+ - [25 Piping Hot Gifts for Coffee Lovers &lpar;2024&rpar;](https://www.wired.com/gallery/gift-ideas-for-coffee-lovers-2024/)
+ - [Google’s Whisk AI generator will ‘remix’ the pictures you plug in](https://www.theverge.com/2024/12/16/24322614/google-whisk-ai-generator-remix-pictures-plug-in)
+ - [How Christmas Trees Could Become a Source of Low-Carbon Protein](https://www.wired.com/story/how-christmas-trees-could-become-a-source-of-low-carbon-protein/)
+ - [Meta rolls out live AI, live translations, and Shazam to its smart glasses](https://www.theverge.com/2024/12/16/24322628/ray-ban-meta-smart-glasses-live-ai-translation-shazam)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

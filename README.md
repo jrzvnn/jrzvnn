@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [That moment when your dad is Thor](http://9gag.com/gag/a1m1bEv)
- - 😝 [What a lovely daughter](http://9gag.com/gag/aNDP0Zv)
- - 💣 [Listen here you little shit.](http://9gag.com/gag/ae9ge2O)
- - 😝 [Download wrong power ranger](http://9gag.com/gag/ayN9DeM)
- - 👉 [The winner of Miss France, and the second place. Can someone please explain?](http://9gag.com/gag/aE082wO)<!-- MEMES:END -->
+ - 😝 [You&#39;re a woman first](http://9gag.com/gag/ayN9XVb)
+ - 😝 [Men only want one thing...](http://9gag.com/gag/aLnvD9v)
+ - 💣 [I&#39;m cured, but I don&#39;t want to go home.](http://9gag.com/gag/avyAGMb)
+ - 😝 [Change my mind.](http://9gag.com/gag/awyzoK1)
+ - 👉 [The show must go on](http://9gag.com/gag/axyB1yW)<!-- MEMES:END -->
 
 ---
 

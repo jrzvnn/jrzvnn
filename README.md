@@ -159,9 +159,9 @@ R                        1 repo              ░░░░░░░░░░░�
 <!-- TECH:START -->
  - [Big Tech Will Scour the Globe in Its Search for Cheap Energy](https://www.wired.com/story/big-tech-data-centers-cheap-energy/)
  - [Chinese merchants are rapidly expanding their presence on Russian e-commerce platforms like Ozon Global and Wildberries to find new markets and avoid US tariffs &lpar;William Langley/Financial Times&rpar;](http://www.techmeme.com/241216/p3#a241216p3)
+ - [Mortgage Rate Predictions: Will Another Fed Rate Cut Make a Difference?](https://www.cnet.com/personal-finance/mortgage-rate-predictions-will-another-fed-rate-cut-make-a-difference/#ftag=CAD590a51e)
  - [How some companies are using AI agents: McKinsey for client onboarding, insurer Nsure to handle customer requests, and Accenture to support its marketing team &lpar;Jo Constantz/Bloomberg&rpar;](http://www.techmeme.com/241216/p2#a241216p2)
- - [Sephora Promo Codes: 20% Off Fragrances + Free Shipping](https://www.wired.com/story/sephora-promo-code/)
- - [Dyson Promo Code: 20% Off in December 2024](https://www.wired.com/story/dyson-cordless-vacuum-promo-code/)<!-- TECH:END -->
+ - [Sephora Promo Codes: 20% Off Fragrances + Free Shipping](https://www.wired.com/story/sephora-promo-code/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

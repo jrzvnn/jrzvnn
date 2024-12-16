@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Still got more to lose &lpar;about another 20kg&rpar;, but this is a major goal achieved I never thought possible.](http://9gag.com/gag/aMV4AVM)
- - 😝 [Becareful when you boo a comedian...](http://9gag.com/gag/agmgXm1)
- - 💣 [Man of culture](http://9gag.com/gag/aAyGxWL)
- - 😝 [Meowy New year](http://9gag.com/gag/aE08gYO)
- - 👉 [Explain this, humankind](http://9gag.com/gag/a6Z1opq)<!-- MEMES:END -->
+ - 😝 [Police indicated `Currently no evidence of foul play`](http://9gag.com/gag/aVvxDBM)
+ - 😝 [Wtf did you just watch.](http://9gag.com/gag/aQzXe48)
+ - 💣 [Download wrong power ranger](http://9gag.com/gag/ayN9DeM)
+ - 😝 [Another one will soon bite the dust](http://9gag.com/gag/apRgpK8)
+ - 👉 [Islamic mobs terrorize German women on Berlin subway. This is a huge problem.](http://9gag.com/gag/axyBVgn)<!-- MEMES:END -->
 
 ---
 

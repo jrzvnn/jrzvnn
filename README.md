@@ -167,10 +167,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [He looks familiar](http://9gag.com/gag/aoyg5R2)
- - 😝 [Merry X-files you degenerates](http://9gag.com/gag/aGyzd3n)
- - 💣 [Miss France Winner &lpar;Top&rpar; Vs Miss France Runners Up &lpar;Bottom&rpar;](http://9gag.com/gag/aoyg50m)
+ - 😝 [Just seconds after this image was captured, SeaWorld trainer Dawn Brancheau was snatched into the jaws of the orca pictured here and \u2018ripped apart.\u2019 She was then thrashed about over the course of 45 minutes while the horrified crowd helplessly looked on.](http://9gag.com/gag/aRBr19M)
+ - 💣 [How stupid are you?](http://9gag.com/gag/azxemDq)
  - 😝 [\ud83c\udf81 iPhone 16 Pro Giveaway\ud83d\udcf1](http://9gag.com/gag/aO8Q3nr)
- - 👉 [Just seconds after this image was captured, SeaWorld trainer Dawn Brancheau was snatched into the jaws of the orca pictured here and \u2018ripped apart.\u2019 She was then thrashed about over the course of 45 minutes while the horrified crowd helplessly looked on.](http://9gag.com/gag/aRBr19M)<!-- MEMES:END -->
+ - 👉 [The female schoolshooter shared a link to a private manifesto no one can read, before she started blasting.](http://9gag.com/gag/aXProxz)<!-- MEMES:END -->
 
 ---
 

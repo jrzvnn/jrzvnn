@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Class war not race war](http://9gag.com/gag/a9y1R5j)
- - 😝 [From a boy to a man](http://9gag.com/gag/aGyzgEK)
- - 💣 [They understand it](http://9gag.com/gag/a1m1Q7v)
+ - 😝 [Vintage Overcoat](http://9gag.com/gag/aO8Q072)
+ - 😝 [This Dad surprises daughter with gift of a lifetime](http://9gag.com/gag/a341E77)
+ - 💣 [Not mine, but fits my meme CATegory, so it&#39;s fine](http://9gag.com/gag/aRBr1eM)
  - 😝 [\ud83c\udf81 iPhone 16 Pro Giveaway\ud83d\udcf1](http://9gag.com/gag/aO8Q3nr)
- - 👉 [Cat.. Wtf..???](http://9gag.com/gag/a8715N3)<!-- MEMES:END -->
+ - 👉 [DM: `You wanna do what to the Dragon?`](http://9gag.com/gag/azxeMEx)<!-- MEMES:END -->
 
 ---
 

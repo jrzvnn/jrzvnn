@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [The definition of we are one](http://9gag.com/gag/a4P1RrZ)
- - 😝 [They understand it](http://9gag.com/gag/a1m1Q7v)
- - 💣 [Security dragging Travis Scott out of his own concert.](http://9gag.com/gag/a0eZQ1O)
+ - 😝 [From a boy to a man](http://9gag.com/gag/aGyzgEK)
+ - 😝 [Class war not race war](http://9gag.com/gag/a9y1R5j)
+ - 💣 [They understand it](http://9gag.com/gag/a1m1Q7v)
  - 😝 [\ud83c\udf81 iPhone 16 Pro Giveaway\ud83d\udcf1](http://9gag.com/gag/aO8Q3nr)
- - 👉 [Class war not race war](http://9gag.com/gag/a9y1R5j)<!-- MEMES:END -->
+ - 👉 [Cat.. Wtf..???](http://9gag.com/gag/a8715N3)<!-- MEMES:END -->
 
 ---
 

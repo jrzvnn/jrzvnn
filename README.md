@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Intel Officials Warned Police That US Cities Aren’t Ready for Hostile Drones](https://www.wired.com/story/intel-officials-police-us-cities-drones-dhs/)
+ - [TikTok videos claim anyone can steal your credit cards with AirDrop](https://appleinsider.com/articles/24/12/17/tiktok-videos-claim-anyone-can-steal-your-credit-cards-with-airdrop?utm_medium=rss)
  - [Gemini, GTA, and the search for the next big thing](https://www.theverge.com/2024/12/17/24323395/gemini-ai-gta-vi-nintendo-switch-vergecast)
  - [Sources: Character.AI rival Talkie, one of the most-downloaded AI apps in the US and made by China&#39;s MiniMax, prepares an AI video feature to reignite growth &lpar;Juro Osawa/The Information&rpar;](http://www.techmeme.com/241217/p18#a241217p18)
- - [A New Social is a new non-profit that wants to help bridge platforms](https://www.theverge.com/2024/12/17/24322908/a-new-social-non-profit-bridge-platforms)
- - [Nest Learning Thermostat review: pretty smart](https://www.theverge.com/24322643/nest-learning-thermostat-4th-gen-review)
- - [The FTC is officially banning hidden junk fees from hotel and ticket prices](https://www.theverge.com/2024/12/17/24323274/ftc-hidden-junk-fees-ban-hotel-ticket-prices)<!-- TECH:END -->
+ - [A New Social is a new non-profit that wants to help bridge platforms](https://www.theverge.com/2024/12/17/24322908/a-new-social-non-profit-bridge-platforms)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

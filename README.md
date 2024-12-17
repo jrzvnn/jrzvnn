@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Astronaut Don Pettit shows how to take long-exposure photos from the ISS](https://www.theverge.com/2024/12/17/24323411/astronaut-don-pettit-long-exposure-photos-iss)
  - [Walmart starts its own Game Informer-style gaming site](https://www.theverge.com/2024/12/17/24323309/walmart-restart-run-game-informer-ziff-davis-buyouts)
  - [Amy Klobuchar isn’t done with antitrust reform](https://www.theverge.com/2024/12/17/24323339/klobuchar-antitrust-subcommittee-tech-enforcement)
  - [Sources: OpenAI is working to sever the nonprofit&#39;s control while compensating its board, possibly in the billions, and promised investors a two-year schedule &lpar;New York Times&rpar;](http://www.techmeme.com/241217/p20#a241217p20)
- - [Grammarly buys productivity startup Coda, set to close in January, and names Coda co-founder and CEO Shishir Mehrotra as CEO; Coda had a $1.4B valuation in 2021 &lpar;Paayal Zaveri/Bloomberg&rpar;](http://www.techmeme.com/241217/p19#a241217p19)
- - [The Child Tax Credit&#39;s Future: What Has the Incoming Trump Administration Said?](https://www.cnet.com/personal-finance/taxes/the-child-tax-credits-future-what-has-the-incoming-trump-administration-said/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Grammarly buys productivity startup Coda, set to close in January, and names Coda co-founder and CEO Shishir Mehrotra as CEO; Coda had a $1.4B valuation in 2021 &lpar;Paayal Zaveri/Bloomberg&rpar;](http://www.techmeme.com/241217/p19#a241217p19)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

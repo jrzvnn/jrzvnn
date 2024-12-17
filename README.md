@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Security dragging Travis Scott out of his own concert.](http://9gag.com/gag/a0eZQ1O)
- - 😝 [Lady has her ears cleaned after 16 years.](http://9gag.com/gag/avyA8Mq)
+ - 😝 [Doesn&#39;t look good for George](http://9gag.com/gag/amogBzj)
+ - 😝 [The female schoolshooter shared a link to a private manifesto no one can read, before she started blasting.](http://9gag.com/gag/aXProxz)
  - 💣 [Okay now I need instruments for practical](http://9gag.com/gag/aByn241)
  - 😝 [\ud83c\udf81 iPhone 16 Pro Giveaway\ud83d\udcf1](http://9gag.com/gag/aO8Q3nr)
- - 👉 [How stupid are you?](http://9gag.com/gag/azxemDq)<!-- MEMES:END -->
+ - 👉 [Lady has her ears cleaned after 16 years.](http://9gag.com/gag/avyA8Mq)<!-- MEMES:END -->
 
 ---
 

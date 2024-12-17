@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The UK opens a consultation on AI and copyright, and aims to offer an &quot;opt out&quot; copyright exception, force companies to open models to scrutiny, and more &lpar;Financial Times&rpar;](http://www.techmeme.com/241217/p5#a241217p5)
  - [Framework releases a $39 modular component to add two extra M.2 slots to the Laptop 16, letting users have 26TB+ of storage, and updates the Laptop 16&#39;s cooling &lpar;Sean Hollister/The Verge&rpar;](http://www.techmeme.com/241217/p4#a241217p4)
  - [Turkish startup Agave Games, developer of Find the Cat, which has 10M+ downloads since its August 2024 release, raised an $18M Series A at a $100M valuation &lpar;Ingrid Lunden/TechCrunch&rpar;](http://www.techmeme.com/241217/p3#a241217p3)
  - [Taxes Are Due by April 15, Unless You Live in One of These States](https://www.cnet.com/personal-finance/taxes/taxes-are-due-by-april-15-unless-you-live-in-one-of-these-states/#ftag=CAD590a51e)
- - [Best Weighted Blankets for 2024](https://www.cnet.com/health/sleep/best-weighted-blanket/#ftag=CAD590a51e)
- - [High Savings Rates Linger Ahead of This Week&#39;s Fed Meeting. Today&#39;s Savings Rates, Dec. 17, 2024](https://www.cnet.com/personal-finance/banking/high-savings-rates-linger-ahead-of-this-weeks-fed-meeting-todays-savings-rates-dec-17-2024/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Best Weighted Blankets for 2024](https://www.cnet.com/health/sleep/best-weighted-blanket/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

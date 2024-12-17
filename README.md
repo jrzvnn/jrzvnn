@@ -159,9 +159,9 @@ R                        1 repo              ░░░░░░░░░░░�
 <!-- TECH:START -->
  - [Beijing-based AI startup Zhipu, which aims to make services tailored to the China market, raised $412M, after raising $400M at a ~$3B valuation in May 2024 &lpar;Bloomberg&rpar;](http://www.techmeme.com/241217/p2#a241217p2)
  - [Europe’s Starlink competitor is go](https://www.theverge.com/2024/12/16/24322358/iris2-starlink-rival-europe-date-cost)
- - [Antibodies Could Soon Help Slow the Aging Process](https://www.wired.com/story/antibodies-could-soon-help-slow-the-aging-process/)
- - [Best Internet Providers in Greenville, South Carolina](https://www.cnet.com/home/internet/best-internet-providers-in-greenville-sc/#ftag=CAD590a51e)
- - [Logitech Promo Code: 15% Off in December 2024](https://www.wired.com/story/logitech-promo-code/)<!-- TECH:END -->
+ - [Beautyrest Mattress Review: Testing Premium Beds From a Top-Rated Industry Veteran](https://www.cnet.com/health/sleep/beautyrest-mattress-review/#ftag=CAD590a51e)
+ - [The Fed Cuts Interest Rates Tomorrow. Will You Notice a Difference in Your Finances?](https://www.cnet.com/personal-finance/banking/the-fed-cuts-interest-rates-tomorrow-will-you-notice-a-difference-in-your-finances/#ftag=CAD590a51e)
+ - [Antibodies Could Soon Help Slow the Aging Process](https://www.wired.com/story/antibodies-could-soon-help-slow-the-aging-process/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

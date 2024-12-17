@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [Usually if the input was specific, the output was aswell. Not anymore.](http://9gag.com/gag/aO8QYEN)
  - 😝 [Becareful when you boo a comedian...](http://9gag.com/gag/agmgXm1)
- - 😝 [Lady has her ears cleaned after 16 years.](http://9gag.com/gag/avyA8Mq)
  - 💣 [What a lovely daughter](http://9gag.com/gag/aNDP0Zv)
  - 😝 [Explain this, humankind](http://9gag.com/gag/a6Z1opq)
- - 👉 [The surgery went well. I&#39;m back here with you beautiful racist misogynistic bastards. Doc said I have a long life ahead. Thank you for all the encouragements.](http://9gag.com/gag/aQzX338)<!-- MEMES:END -->
+ - 👉 [Black people have an insane victim mentality.](http://9gag.com/gag/apRg229)<!-- MEMES:END -->
 
 ---
 

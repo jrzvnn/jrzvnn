@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Waymo is sending autonomous vehicles to Japan for first international tests](https://www.theverge.com/2024/12/16/24322769/waymo-japan-robotaxi-test-nihon-kotsu-go)
- - [Waymo plans to test its robotaxis in Tokyo in early 2025, its first international expansion, in partnerships with taxi operator Nihon Kotsu and taxi app GO &lpar;CNBC&rpar;](http://www.techmeme.com/241216/p31#a241216p31)
- - [Earth&#39;s Axis Tilted Noticeably Over Two Decades, and Now We Know Why](https://www.cnet.com/science/climate/earths-axis-tilted-noticeably-over-two-decades-heres-why/#ftag=CAD590a51e)
- - [The Framework Laptop 16 just got a modular gadget that enables quadruple SSDs](https://www.theverge.com/2024/12/16/24322955/framework-16-expansion-bay-dual-m2-adapter)
- - [The best smartphone you can buy for under $500](https://www.theverge.com/21420196/best-budget-smartphone-cheap)<!-- TECH:END -->
+ - [Australia&#39;s privacy watchdog says Meta agreed to a AU$50M settlement over a 2020 Cambridge Analytica lawsuit alleging 300K+ Facebook users&#39; data was exposed &lpar;Rishav Chatterjee/Reuters&rpar;](http://www.techmeme.com/241216/p33#a241216p33)
+ - [Digital bank Tyme Group, which operates in South Africa and the Philippines, raised a $250M Series D led by Brazilian digital bank Nubank at a $1.5B valuation &lpar;Bloomberg&rpar;](http://www.techmeme.com/241216/p32#a241216p32)
+ - [NASA Mars Rover Delivers Triumphant First Photos From Crater&#39;s &#39;Lookout Hill&#39;](https://www.cnet.com/science/space/nasa-mars-rover-delivers-triumphant-first-photos-from-crater-rim/#ftag=CAD590a51e)
+ - [Waymo Is Expanding Internationally, Bringing Its Self-Driving Fleet to Tokyo](https://www.cnet.com/roadshow/news/waymo-is-expanding-internationally-bringing-its-self-driving-fleet-to-tokyo/#ftag=CAD590a51e)
+ - [Waymo is sending autonomous vehicles to Japan for first international tests](https://www.theverge.com/2024/12/16/24322769/waymo-japan-robotaxi-test-nihon-kotsu-go)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

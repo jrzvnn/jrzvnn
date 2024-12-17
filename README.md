@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Toronto-based Hostaway, which offers vacation rental management tools, raised $365M led by General Atlantic at a $925M valuation, after raising $175M in 2023 &lpar;Ingrid Lunden/TechCrunch&rpar;](http://www.techmeme.com/241217/p9#a241217p9)
- - [Stop Calling Online Scams ‘Pig Butchering,’ Interpol Warns](https://www.wired.com/story/interpol-pig-butchering-scams-rename/)
- - [Drug Dealers Have Moved Onto Social Media](https://www.wired.com/story/drug-dealers-have-moved-onto-social-media/)
- - [Alibaba agrees to sell its Intime department store business, part of a plan to unify online and offline retailing in 2017, for ~$1B, taking a record $1.3B loss &lpar;Bloomberg&rpar;](http://www.techmeme.com/241217/p8#a241217p8)
- - [The European Commission opens a formal DSA investigation into TikTok over concerns foreign actors used it to interfere in the Romanian presidential elections &lpar;Edith Hancock/Wall Street Journal&rpar;](http://www.techmeme.com/241217/p7#a241217p7)<!-- TECH:END -->
+ - [A Taiwanese official says the country is in talks with Amazon&#39;s Kuiper over satellite internet as its current OneWeb deal does not offer sufficient capacity &lpar;Kathrin Hille/Financial Times&rpar;](http://www.techmeme.com/241217/p12#a241217p12)
+ - [Google Home tests access tiers for everyone in your smart home](https://www.theverge.com/2024/12/17/24323233/google-home-access-tiers-admin-member-smart-devices)
+ - [Taiwanese silicon wafer maker GlobalWafers finalizes $406M in CHIPS Act funding, part of a plan to invest nearly $4B to help build plants in Texas and Missouri &lpar;Bloomberg&rpar;](http://www.techmeme.com/241217/p11#a241217p11)
+ - [What a VPN Kill Switch Is and How to Set One Up](https://www.wired.com/story/what-a-vpn-kill-switch-is-and-how-to-set-one-up/)
+ - [After Trump&#39;s win, a look at what the crypto industry could do next, including weakening financial rules that might protect consumers from the next crypto crash &lpar;Molly White/Bloomberg&rpar;](http://www.techmeme.com/241217/p10#a241217p10)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

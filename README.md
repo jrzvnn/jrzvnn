@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The Verge’s 2024 holiday gift guide for dads](https://www.theverge.com/24224045/best-gift-ideas-dad-holiday-unique-2024-tech-gadgets)
  - [Apple’s App Store is inviting me to ‘search the way you talk’](https://www.theverge.com/2024/12/17/24323780/app-store-natural-language-search-ios-18-iphone-ipad-apple)
  - [Apple is already working on visionOS 3.0 and visionOS 2.4, evidence suggests](https://appleinsider.com/articles/24/12/17/apple-is-already-working-on-visionos-30-and-visionos-24-evidence-suggests?utm_medium=rss)
  - [Apple Maps on the web now has Look Around](https://www.theverge.com/2024/12/17/24323726/apple-maps-web-beta-look-around-feature-launch)
- - [The Verge’s 2024 holiday gift guide](https://www.theverge.com/24224043/holiday-gift-guide-2024-best-ideas-unique-tech-gadgets)
- - [Grubhub pays $25 million for allegedly tricking customers and lying to drivers](https://www.theverge.com/2024/12/17/24323708/grubhub-ftc-settlement-25-million-fine-deceiving-customers)<!-- TECH:END -->
+ - [The Verge’s 2024 holiday gift guide](https://www.theverge.com/24224043/holiday-gift-guide-2024-best-ideas-unique-tech-gadgets)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

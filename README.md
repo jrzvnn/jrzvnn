@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Databricks raised $10B from a16z, Thrive, and others at a $62B valuation, among the largest VC raises in history; documents show Databricks has $2.6B in revenue &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/241217/p16#a241217p16)
  - [macOS Sequoia 15.2 isn&#39;t allowing third-party utilities to make bootable backups](https://appleinsider.com/articles/24/12/17/macos-sequoia-152-isnt-allowing-third-party-utilities-to-make-bootable-backups?utm_medium=rss)
  - [17 Best White Elephant Gifts &lpar;2024&rpar;: Legos, Desk Accessories](https://www.wired.com/gallery/best-white-elephant-gifts/)
  - [Will the Fed&#39;s Interest Rate Cut Help Lower Mortgage Rates?](https://www.cnet.com/personal-finance/will-the-feds-interest-rate-cut-help-lower-mortgage-rates/#ftag=CAD590a51e)
- - [The US FTC issues long-awaited rules requiring companies to display the full price of hotels, concert tickets, and more up front, rather than hiding &quot;junk fees&quot; &lpar;Tony Romm/Washington Post&rpar;](http://www.techmeme.com/241217/p15#a241217p15)
- - [Apple accused of covering up war crimes by willfully using Congo conflict minerals](https://appleinsider.com/articles/24/12/17/apple-accused-of-covering-up-war-crimes-by-willfully-using-congo-conflict-minerals?utm_medium=rss)<!-- TECH:END -->
+ - [The US FTC issues long-awaited rules requiring companies to display the full price of hotels, concert tickets, and more up front, rather than hiding &quot;junk fees&quot; &lpar;Tony Romm/Washington Post&rpar;](http://www.techmeme.com/241217/p15#a241217p15)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

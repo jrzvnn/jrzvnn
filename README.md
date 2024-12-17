@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [So the latest school shooter is a 17 year old girl. Statistically it was bound to happen eventually.](http://9gag.com/gag/ajPgmgq)
- - 😝 [Merry X-files you degenerates](http://9gag.com/gag/aGyzd3n)
- - 💣 [The 1%: The Beginnings](http://9gag.com/gag/adBgVWV)
+ - 😝 [A quick swim while parasailing](http://9gag.com/gag/a341ZL8)
+ - 😝 [He looks familiar](http://9gag.com/gag/aoyg5R2)
+ - 💣 [Slowly recall all your mind](http://9gag.com/gag/a1m11bG)
  - 😝 [\ud83c\udf81 iPhone 16 Pro Giveaway\ud83d\udcf1](http://9gag.com/gag/aO8Q3nr)
- - 👉 [Slowly recall all your mind](http://9gag.com/gag/a1m11bG)<!-- MEMES:END -->
+ - 👉 [Merry X-files you degenerates](http://9gag.com/gag/aGyzd3n)<!-- MEMES:END -->
 
 ---
 

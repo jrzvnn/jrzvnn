@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Game emulator Delta adds an in-app link to pay via Patreon outside of the App Store, likely the first US app to use Apple&#39;s External Purchase Link Entitlement &lpar;John Voorhees/MacStories&rpar;](http://www.techmeme.com/241217/p33#a241217p33)
  - [OpenAI says it&#39;s rolling out o1 to its API for some developers, announces new versions of GPT-4o and GPT-4o mini as part of the Realtime API, and more &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/241217/p32#a241217p32)
  - [The Apple Watch 10 Is All In on Snorkeling. I Took It for a Swim](https://www.cnet.com/tech/mobile/the-apple-watch-10-is-all-in-on-snorkeling-i-took-it-for-a-swim/#ftag=CAD590a51e)
  - [Best 4K TV Deals: Save Up to $700 on Top Picks From LG, Samsung and Others](https://www.cnet.com/deals/best-4k-tv-deals/#ftag=CAD590a51e)
- - [Threads starts testing scheduled posts](https://www.theverge.com/2024/12/17/24323727/threads-testing-scheduled-posts)
- - [You Can Play Squid Game: Unleashed and More Now With Netflix Games](https://www.cnet.com/tech/gaming/you-can-play-squid-game-unleashed-and-more-now-with-netflix-games/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Threads starts testing scheduled posts](https://www.theverge.com/2024/12/17/24323727/threads-testing-scheduled-posts)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -168,9 +168,9 @@ R                        1 repo              ░░░░░░░░░░░�
 <!-- MEMES:START -->
  - 😝 [Becareful when you boo a comedian...](http://9gag.com/gag/agmgXm1)
  - 😝 [What a lovely daughter](http://9gag.com/gag/aNDP0Zv)
- - 💣 [Sometimes it\u2019s ok to break society\u2019s rules](http://9gag.com/gag/aZZr7Qp)
+ - 💣 [Lady has her ears cleaned after 16 years.](http://9gag.com/gag/avyA8Mq)
  - 😝 [\ud83c\udf81 iPhone 16 Pro Giveaway\ud83d\udcf1](http://9gag.com/gag/aO8Q3nr)
- - 👉 [Lady has her ears cleaned after 16 years.](http://9gag.com/gag/avyA8Mq)<!-- MEMES:END -->
+ - 👉 [Sometimes it\u2019s ok to break society\u2019s rules](http://9gag.com/gag/aZZr7Qp)<!-- MEMES:END -->
 
 ---
 

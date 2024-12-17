@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [The definition of we are one](http://9gag.com/gag/a4P1RrZ)
  - 😝 [They understand it](http://9gag.com/gag/a1m1Q7v)
- - 😝 [Class war not race war](http://9gag.com/gag/a9y1R5j)
- - 💣 [Sometimes it\u2019s ok to break society\u2019s rules](http://9gag.com/gag/aZZr7Qp)
+ - 💣 [What a lovely daughter](http://9gag.com/gag/aNDP0Zv)
  - 😝 [\ud83c\udf81 iPhone 16 Pro Giveaway\ud83d\udcf1](http://9gag.com/gag/aO8Q3nr)
- - 👉 [What a lovely daughter](http://9gag.com/gag/aNDP0Zv)<!-- MEMES:END -->
+ - 👉 [Class war not race war](http://9gag.com/gag/a9y1R5j)<!-- MEMES:END -->
 
 ---
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Amid the AI boom, non-AI companies that raised a Series A 18 months ago are likely facing challenges in securing their Series B, even with decent revenue growth &lpar;Marina Temkin/TechCrunch&rpar;](http://www.techmeme.com/241217/p29#a241217p29)
  - [Forbes is cutting ties with freelance writers, citing Google spam policies](https://www.theverge.com/2024/12/17/24322485/forbes-vetted-freelance-google-search-parasite-seo)
  - [The 51 Best Shows on Disney+ Right Now &lpar;December 2024&rpar;](https://www.wired.com/story/best-shows-disney-plus/)
  - [SCOTUS rejected ISPs&#39; challenge to a NY law requiring ISPs to offer $15 or $20/mo. services to low-income customers, by refusing to revisit a lower court ruling &lpar;Jon Brodkin/Ars Technica&rpar;](http://www.techmeme.com/241217/p28#a241217p28)
- - [AMD may launch its most powerful integrated GPU ever — in a gaming tablet](https://www.theverge.com/2024/12/17/24323599/amd-strix-halo-ai-max-395-rog-flow-z13)
- - [Best Noise-Canceling Headphones for 2024](https://www.cnet.com/tech/mobile/best-noise-canceling-headphones/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [AMD may launch its most powerful integrated GPU ever — in a gaming tablet](https://www.theverge.com/2024/12/17/24323599/amd-strix-halo-ai-max-395-rog-flow-z13)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

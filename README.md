@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [AMD may launch its most powerful integrated GPU ever — in a gaming tablet](https://www.theverge.com/2024/12/17/24323599/amd-strix-halo-ai-max-395-rog-flow-z13)
  - [Grubhub settled with the US FTC and IL AG for $25M, for allegedly adding restaurants without consent and misleading users about order fees and drivers about pay &lpar;Jody Godoy/Reuters&rpar;](http://www.techmeme.com/241217/p27#a241217p27)
  - [Amazon’s video game anthology Secret Level is getting a second season](https://www.theverge.com/2024/12/17/24323606/secret-level-season-2-renewal-amazon-prime-video)
  - [Honda and Nissan explore merger to navigate uncertain EV future](https://www.theverge.com/2024/12/17/24323448/honda-nissan-merger-talks-memorandum-ev)
- - [Leaks: Nvidia’s RTX 5090, 5080, 5070 Ti and 5070 tipped with new ‘neural rendering’](https://www.theverge.com/2024/12/17/24323555/leak-nvidia-rtx-5090-5080-5070-ti-5070-neural-rendering)
- - [Delta emulator triples Apple’s prices to encourage external clicks](https://www.theverge.com/2024/12/17/24323220/delta-emulator-ios-apple-triple-price-patreon-membership)<!-- TECH:END -->
+ - [Leaks: Nvidia’s RTX 5090, 5080, 5070 Ti and 5070 tipped with new ‘neural rendering’](https://www.theverge.com/2024/12/17/24323555/leak-nvidia-rtx-5090-5080-5070-ti-5070-neural-rendering)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

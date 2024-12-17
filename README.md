@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Becareful when you boo a comedian...](http://9gag.com/gag/agmgXm1)
- - 😝 [What a lovely daughter](http://9gag.com/gag/aNDP0Zv)
- - 💣 [Lady has her ears cleaned after 16 years.](http://9gag.com/gag/avyA8Mq)
+ - 😝 [From a boy to a man](http://9gag.com/gag/aGyzgEK)
+ - 😝 [Class war not race war](http://9gag.com/gag/a9y1R5j)
+ - 💣 [Explain this, humankind](http://9gag.com/gag/a6Z1opq)
  - 😝 [\ud83c\udf81 iPhone 16 Pro Giveaway\ud83d\udcf1](http://9gag.com/gag/aO8Q3nr)
- - 👉 [Sometimes it\u2019s ok to break society\u2019s rules](http://9gag.com/gag/aZZr7Qp)<!-- MEMES:END -->
+ - 👉 [After i got divorced i quit alcohol, i quit smoking, i started to go to the gym, i met new friends. I thought i cannot do this without her but i am feeling better now.](http://9gag.com/gag/an7g5o0)<!-- MEMES:END -->
 
 ---
 

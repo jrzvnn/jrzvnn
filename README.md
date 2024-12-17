@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [How to enable parental controls on macOS Sequoia](https://appleinsider.com/articles/24/12/17/how-to-enable-parental-controls-on-macos-sequoia?utm_medium=rss)
  - [Pune, India-based industrial AI startup Haber raised a $44M Series C, including $38M in equity and $6M in debt, led by Creaegis, BEENEXT, and Accel &lpar;FinSMEs&rpar;](http://www.techmeme.com/241216/p34#a241216p34)
  - [Best Internet Providers in Great Falls, Montana](https://www.cnet.com/home/internet/best-internet-providers-in-great-falls-mt/#ftag=CAD590a51e)
  - [Apple&#39;s M4 Pro 14-inch MacBook Pro has returned to its best $1,749 Black Friday price](https://appleinsider.com/articles/24/12/17/apples-m4-pro-14-inch-macbook-pro-has-returned-to-its-best-1749-black-friday-price?utm_medium=rss)
- - [Australia&#39;s privacy watchdog says Meta agreed to a AU$50M settlement over a 2020 Cambridge Analytica lawsuit alleging 300K+ Facebook users&#39; data was exposed &lpar;Rishav Chatterjee/Reuters&rpar;](http://www.techmeme.com/241216/p33#a241216p33)
- - [Best Internet Providers in Frederick, Maryland](https://www.cnet.com/home/internet/best-internet-providers-in-frederick-md/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Australia&#39;s privacy watchdog says Meta agreed to a AU$50M settlement over a 2020 Cambridge Analytica lawsuit alleging 300K+ Facebook users&#39; data was exposed &lpar;Rishav Chatterjee/Reuters&rpar;](http://www.techmeme.com/241216/p33#a241216p33)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

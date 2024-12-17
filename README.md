@@ -167,8 +167,8 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [Security dragging Travis Scott out of his own concert.](http://9gag.com/gag/a0eZQ1O)
- - 😝 [Let&#39;s be honest, the problem is not the character design, the problem is Sony](http://9gag.com/gag/a9y1KrW)
- - 💣 [Doesn&#39;t look good for George](http://9gag.com/gag/amogBzj)
+ - 😝 [Lady has her ears cleaned after 16 years.](http://9gag.com/gag/avyA8Mq)
+ - 💣 [Okay now I need instruments for practical](http://9gag.com/gag/aByn241)
  - 😝 [\ud83c\udf81 iPhone 16 Pro Giveaway\ud83d\udcf1](http://9gag.com/gag/aO8Q3nr)
  - 👉 [How stupid are you?](http://9gag.com/gag/azxemDq)<!-- MEMES:END -->
 

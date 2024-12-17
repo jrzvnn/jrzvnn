@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Antibodies Could Soon Help Slow the Aging Process](https://www.wired.com/story/antibodies-could-soon-help-slow-the-aging-process/)
  - [Logitech Promo Code: 15% Off in December 2024](https://www.wired.com/story/logitech-promo-code/)
  - [Nike Promo Code: Up to 50% Off Select Styles](https://www.wired.com/story/nike-promo-code/)
  - [Sephora Promo Codes: 20% Off Fragrances + Free Shipping](https://www.wired.com/story/sephora-promo-code/)
- - [Dyson Promo Code: 20% Off in December 2024](https://www.wired.com/story/dyson-cordless-vacuum-promo-code/)
- - [Got Your Real ID? You&#39;ll Need It to Fly in 2025](https://www.cnet.com/culture/got-your-real-id-youll-need-it-to-fly-in-2025/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Dyson Promo Code: 20% Off in December 2024](https://www.wired.com/story/dyson-cordless-vacuum-promo-code/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

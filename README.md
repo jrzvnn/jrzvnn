@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Security dragging Travis Scott out of his own concert.](http://9gag.com/gag/a0eZQ1O)
- - 😝 [Dumb teens playing with fire on a train](http://9gag.com/gag/aYQryo2)
- - 💣 [Okay now I need instruments for practical](http://9gag.com/gag/aByn241)
+ - 😝 [The state of gaming](http://9gag.com/gag/aW4gg5A)
+ - 😝 [Men are disgusting](http://9gag.com/gag/a87151Y)
+ - 💣 [How is this even legal](http://9gag.com/gag/an7gQWE)
  - 😝 [\ud83c\udf81 iPhone 16 Pro Giveaway\ud83d\udcf1](http://9gag.com/gag/aO8Q3nr)
- - 👉 [The female schoolshooter shared a link to a private manifesto no one can read, before she started blasting.](http://9gag.com/gag/aXProxz)<!-- MEMES:END -->
+ - 👉 [The definition of we are one](http://9gag.com/gag/a4P1RrZ)<!-- MEMES:END -->
 
 ---
 

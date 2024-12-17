@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [iRobot’s founder is working on a new kind of home robot](https://www.theverge.com/2024/12/17/24323439/irobot-founder-home-robot-familiar-machines-magic)
- - [Parafin, a startup run by ex-Robinhood staff offering spend management and savings tools as well as loan products, raised a $100 Series C at a $750M valuation &lpar;Emily Mason/Bloomberg&rpar;](http://www.techmeme.com/241217/p25#a241217p25)
- - [Nvidia’s $249 dev kit promises cheap, small AI power](https://www.theverge.com/2024/12/17/24323450/nvidia-jetson-orin-nano-super-developer-kit-software-update-ai-artificial-intelligence-maker-pc)
- - [Tech consultant Nima Momeni was convicted by a San Francisco jury in the fatal stabbing of Cash App founder Bob Lee that occurred on April 4, 2023 &lpar;New York Times&rpar;](http://www.techmeme.com/241217/p24#a241217p24)
- - [Atlanta-based Slip Robotics, a robot-as-a-service startup whose robots speed up the loading and unloading of truck trailers, raised a $28M Series B led by DCVC &lpar;Kirsten Korosec/TechCrunch&rpar;](http://www.techmeme.com/241217/p23#a241217p23)<!-- TECH:END -->
+ - [Honda and Nissan explore merger to navigate uncertain EV future](https://www.theverge.com/2024/12/17/24323448/honda-nissan-merger-talks-memorandum-ev)
+ - [Leaks: Nvidia’s RTX 5090, 5080, 5070 Ti and 5070 tipped with new ‘neural rendering’](https://www.theverge.com/2024/12/17/24323555/leak-nvidia-rtx-5090-5080-5070-ti-5070-neural-rendering)
+ - [Delta emulator triples Apple’s prices to encourage external clicks](https://www.theverge.com/2024/12/17/24323220/delta-emulator-ios-apple-triple-price-patreon-membership)
+ - [NYC-based AI-powered accounting startup Basis raised a $34M Series A led by Khosla Ventures, with Nat Friedman, Jeff Dean, Adam D&#39;Angelo, and others investing &lpar;Anna Tong/Reuters&rpar;](http://www.techmeme.com/241217/p26#a241217p26)
+ - [How to add extensions to Gemini](https://www.theverge.com/24322770/gemini-ai-google-how-to-extensions)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

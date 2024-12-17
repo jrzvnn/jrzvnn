@@ -166,10 +166,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [Wasted opportunity](http://9gag.com/gag/aPAZjDQ)
  - 😝 [Explain this, humankind](http://9gag.com/gag/a6Z1opq)
- - 😝 [Black people have an insane victim mentality.](http://9gag.com/gag/apRg229)
- - 💣 [A real gamer](http://9gag.com/gag/aVvx31w)
- - 😝 [Change my mind.](http://9gag.com/gag/awyzoK1)
+ - 💣 [Black people have an insane victim mentality.](http://9gag.com/gag/apRg229)
+ - 😝 [A real gamer](http://9gag.com/gag/aVvx31w)
  - 👉 [Play the new WoT Blitz x deadmau5 &#39;&#39;in the house&#39;&#39; event while you hit different on the battlefield with sick bass &amp; beats!](http://9gag.com/gag/aMV4YW1)<!-- MEMES:END -->
 
 ---

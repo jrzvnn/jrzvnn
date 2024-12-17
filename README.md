@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Logitech Promo Code: 15% Off in December 2024](https://www.wired.com/story/logitech-promo-code/)
  - [Nike Promo Code: Up to 50% Off Select Styles](https://www.wired.com/story/nike-promo-code/)
  - [Sephora Promo Codes: 20% Off Fragrances + Free Shipping](https://www.wired.com/story/sephora-promo-code/)
  - [Dyson Promo Code: 20% Off in December 2024](https://www.wired.com/story/dyson-cordless-vacuum-promo-code/)
- - [Congo has filed criminal complaints against Apple subsidiaries in France and Belgium, accusing the tech firm of using conflict minerals in its supply chain &lpar;Sonia Rolley/Reuters&rpar;](http://www.techmeme.com/241217/p1#a241217p1)
- - [How to enable parental controls on macOS Sequoia](https://appleinsider.com/articles/24/12/17/how-to-enable-parental-controls-on-macos-sequoia?utm_medium=rss)<!-- TECH:END -->
+ - [Congo has filed criminal complaints against Apple subsidiaries in France and Belgium, accusing the tech firm of using conflict minerals in its supply chain &lpar;Sonia Rolley/Reuters&rpar;](http://www.techmeme.com/241217/p1#a241217p1)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

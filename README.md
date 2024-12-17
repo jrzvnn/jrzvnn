@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Mark Zuckerberg says Threads has more than 100 million daily active users](https://www.theverge.com/2024/12/16/24322947/mark-zuckerberg-meta-threads-100-million-daily-active-users)
- - [Best Gaming Laptop for 2024](https://www.cnet.com/tech/computing/best-gaming-laptop/#ftag=CAD590a51e)
- - [Blackmagic&#39;s new camera for Apple Vision Pro content has a hefty $29,995 price tag](https://appleinsider.com/articles/24/12/16/blackmagics-new-camera-for-apple-vision-pro-content-has-a-hefty-29995-price-tag?utm_medium=rss)
- - [Best Internet Providers in Gainesville, Georgia](https://www.cnet.com/home/internet/best-internet-providers-in-gainesville-ga/#ftag=CAD590a51e)
- - [Source: Trump meets with TikTok CEO Shou Zi Chew at Mar-a-Lago, the same day that the company asks the Supreme Court to block the law that could ban the app &lpar;NBC News&rpar;](http://www.techmeme.com/241216/p29#a241216p29)<!-- TECH:END -->
+ - [Waymo is sending autonomous vehicles to Japan for first international tests](https://www.theverge.com/2024/12/16/24322769/waymo-japan-robotaxi-test-nihon-kotsu-go)
+ - [Waymo plans to test its robotaxis in Tokyo in early 2025, its first international expansion, in partnerships with taxi operator Nihon Kotsu and taxi app GO &lpar;CNBC&rpar;](http://www.techmeme.com/241216/p31#a241216p31)
+ - [Earth&#39;s Axis Tilted Noticeably Over Two Decades, and Now We Know Why](https://www.cnet.com/science/climate/earths-axis-tilted-noticeably-over-two-decades-heres-why/#ftag=CAD590a51e)
+ - [The Framework Laptop 16 just got a modular gadget that enables quadruple SSDs](https://www.theverge.com/2024/12/16/24322955/framework-16-expansion-bay-dual-m2-adapter)
+ - [The best smartphone you can buy for under $500](https://www.theverge.com/21420196/best-budget-smartphone-cheap)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

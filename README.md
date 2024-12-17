@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Vintage Overcoat](http://9gag.com/gag/aO8Q072)
- - 😝 [This Dad surprises daughter with gift of a lifetime](http://9gag.com/gag/a341E77)
- - 💣 [Not mine, but fits my meme CATegory, so it&#39;s fine](http://9gag.com/gag/aRBr1eM)
+ - 😝 [Security dragging Travis Scott out of his own concert.](http://9gag.com/gag/a0eZQ1O)
+ - 😝 [Let&#39;s be honest, the problem is not the character design, the problem is Sony](http://9gag.com/gag/a9y1KrW)
+ - 💣 [Doesn&#39;t look good for George](http://9gag.com/gag/amogBzj)
  - 😝 [\ud83c\udf81 iPhone 16 Pro Giveaway\ud83d\udcf1](http://9gag.com/gag/aO8Q3nr)
- - 👉 [DM: `You wanna do what to the Dragon?`](http://9gag.com/gag/azxeMEx)<!-- MEMES:END -->
+ - 👉 [How stupid are you?](http://9gag.com/gag/azxemDq)<!-- MEMES:END -->
 
 ---
 

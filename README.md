@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Toronto-based Hostaway, which offers vacation rental management tools, raised $365M led by General Atlantic at a $925M valuation, after raising $175M in 2023 &lpar;Ingrid Lunden/TechCrunch&rpar;](http://www.techmeme.com/241217/p9#a241217p9)
+ - [Stop Calling Online Scams ‘Pig Butchering,’ Interpol Warns](https://www.wired.com/story/interpol-pig-butchering-scams-rename/)
+ - [Drug Dealers Have Moved Onto Social Media](https://www.wired.com/story/drug-dealers-have-moved-onto-social-media/)
  - [Alibaba agrees to sell its Intime department store business, part of a plan to unify online and offline retailing in 2017, for ~$1B, taking a record $1.3B loss &lpar;Bloomberg&rpar;](http://www.techmeme.com/241217/p8#a241217p8)
- - [The European Commission opens a formal DSA investigation into TikTok over concerns foreign actors used it to interfere in the Romanian presidential elections &lpar;Edith Hancock/Wall Street Journal&rpar;](http://www.techmeme.com/241217/p7#a241217p7)
- - [Far-Right Sheriffs Want to Carry Out Donald Trump&#39;s Mass Deportations. That’s Not Possible](https://www.wired.com/story/far-right-sheriffs-donald-trump-mass-deportations-constitutional/)
- - [Nigeria arrests 792 suspects, including 148 Chinese and 40 Filipino nationals, in a raid on a building believed to be a crypto romance scam call center &lpar;Elisha Bala-Gbogbo/Reuters&rpar;](http://www.techmeme.com/241217/p6#a241217p6)
- - [Rates Decline for Prospective Buyers: Current Mortgage Interest Rates on Dec. 17, 2024](https://www.cnet.com/personal-finance/rates-decline-for-prospective-buyers-current-mortgage-interest-rates-on-dec-17-2024/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [The European Commission opens a formal DSA investigation into TikTok over concerns foreign actors used it to interfere in the Romanian presidential elections &lpar;Edith Hancock/Wall Street Journal&rpar;](http://www.techmeme.com/241217/p7#a241217p7)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

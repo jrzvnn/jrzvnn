@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [The female schoolshooter shared a link to a private manifesto no one can read, before she started blasting.](http://9gag.com/gag/aXProxz)
+ - 😝 [Security dragging Travis Scott out of his own concert.](http://9gag.com/gag/a0eZQ1O)
  - 😝 [Dumb teens playing with fire on a train](http://9gag.com/gag/aYQryo2)
- - 💣 [How stupid are you?](http://9gag.com/gag/azxemDq)
+ - 💣 [Okay now I need instruments for practical](http://9gag.com/gag/aByn241)
  - 😝 [\ud83c\udf81 iPhone 16 Pro Giveaway\ud83d\udcf1](http://9gag.com/gag/aO8Q3nr)
- - 👉 [Lady has her ears cleaned after 16 years.](http://9gag.com/gag/avyA8Mq)<!-- MEMES:END -->
+ - 👉 [The female schoolshooter shared a link to a private manifesto no one can read, before she started blasting.](http://9gag.com/gag/aXProxz)<!-- MEMES:END -->
 
 ---
 

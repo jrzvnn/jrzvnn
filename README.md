@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [The state of gaming](http://9gag.com/gag/aW4gg5A)
- - 😝 [Men are disgusting](http://9gag.com/gag/a87151Y)
- - 💣 [How is this even legal](http://9gag.com/gag/an7gQWE)
+ - 😝 [Just seconds after this image was captured, SeaWorld trainer Dawn Brancheau was snatched into the jaws of the orca pictured here and \u2018ripped apart.\u2019 She was then thrashed about over the course of 45 minutes while the horrified crowd helplessly looked on.](http://9gag.com/gag/aRBr19M)
+ - 😝 [A woman in Italy freaks out in response to seeing a man and woman kiss in public](http://9gag.com/gag/abAgVev)
+ - 💣 [When you thought the game was on easy mode](http://9gag.com/gag/a9y1EEm)
  - 😝 [\ud83c\udf81 iPhone 16 Pro Giveaway\ud83d\udcf1](http://9gag.com/gag/aO8Q3nr)
- - 👉 [The definition of we are one](http://9gag.com/gag/a4P1RrZ)<!-- MEMES:END -->
+ - 👉 [The female schoolshooter shared a link to a private manifesto no one can read, before she started blasting.](http://9gag.com/gag/aXProxz)<!-- MEMES:END -->
 
 ---
 

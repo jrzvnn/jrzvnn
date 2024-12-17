@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [OpenAI says it&#39;s rolling out o1 to its API for some developers, announces new versions of GPT-4o and GPT-4o mini as part of the Realtime API, and more &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/241217/p32#a241217p32)
+ - [The Apple Watch 10 Is All In on Snorkeling. I Took It for a Swim](https://www.cnet.com/tech/mobile/the-apple-watch-10-is-all-in-on-snorkeling-i-took-it-for-a-swim/#ftag=CAD590a51e)
+ - [Best 4K TV Deals: Save Up to $700 on Top Picks From LG, Samsung and Others](https://www.cnet.com/deals/best-4k-tv-deals/#ftag=CAD590a51e)
  - [Threads starts testing scheduled posts](https://www.theverge.com/2024/12/17/24323727/threads-testing-scheduled-posts)
- - [22 Best Gifts for Travelers Who Are Always One Flight Ahead &lpar;2024&rpar;](https://www.wired.com/gallery/best-travel-gifts/)
- - [CAA partners with YouTube to help CAA clients identify and remove AI-generated content that features their likeness, with a wider rollout planned in early 2025 &lpar;Todd Spangler/Variety&rpar;](http://www.techmeme.com/241217/p30#a241217p30)
- - [Salesforce says it will hire 2,000 people to sell AI software, a month after saying it would hire 1,000 for the task and two years after laying off 7,000 staff &lpar;Jordan Novet/CNBC&rpar;](http://www.techmeme.com/241217/p31#a241217p31)
- - [Six-Word Sci-Fi: Stories Written by You](https://www.wired.com/story/six-word/)<!-- TECH:END -->
+ - [You Can Play Squid Game: Unleashed and More Now With Netflix Games](https://www.cnet.com/tech/gaming/you-can-play-squid-game-unleashed-and-more-now-with-netflix-games/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

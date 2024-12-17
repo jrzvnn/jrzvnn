@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Beijing-based AI startup Zhipu, which aims to make services tailored to the China market, raised $412M, after raising $400M at a ~$3B valuation in May 2024 &lpar;Bloomberg&rpar;](http://www.techmeme.com/241217/p2#a241217p2)
+ - [Europe’s Starlink competitor is go](https://www.theverge.com/2024/12/16/24322358/iris2-starlink-rival-europe-date-cost)
  - [Antibodies Could Soon Help Slow the Aging Process](https://www.wired.com/story/antibodies-could-soon-help-slow-the-aging-process/)
- - [Logitech Promo Code: 15% Off in December 2024](https://www.wired.com/story/logitech-promo-code/)
- - [Nike Promo Code: Up to 50% Off Select Styles](https://www.wired.com/story/nike-promo-code/)
- - [Sephora Promo Codes: 20% Off Fragrances + Free Shipping](https://www.wired.com/story/sephora-promo-code/)
- - [Dyson Promo Code: 20% Off in December 2024](https://www.wired.com/story/dyson-cordless-vacuum-promo-code/)<!-- TECH:END -->
+ - [Best Internet Providers in Greenville, South Carolina](https://www.cnet.com/home/internet/best-internet-providers-in-greenville-sc/#ftag=CAD590a51e)
+ - [Logitech Promo Code: 15% Off in December 2024](https://www.wired.com/story/logitech-promo-code/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

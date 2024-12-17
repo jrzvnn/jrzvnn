@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The European Commission opens a formal DSA investigation into TikTok over concerns foreign actors used it to interfere in the Romanian presidential elections &lpar;Edith Hancock/Wall Street Journal&rpar;](http://www.techmeme.com/241217/p7#a241217p7)
+ - [Far-Right Sheriffs Want to Carry Out Donald Trump&#39;s Mass Deportations. That’s Not Possible](https://www.wired.com/story/far-right-sheriffs-donald-trump-mass-deportations-constitutional/)
  - [Nigeria arrests 792 suspects, including 148 Chinese and 40 Filipino nationals, in a raid on a building believed to be a crypto romance scam call center &lpar;Elisha Bala-Gbogbo/Reuters&rpar;](http://www.techmeme.com/241217/p6#a241217p6)
  - [The UK opens a consultation on AI and copyright, and aims to offer an &quot;opt out&quot; copyright exception, force companies to open models to scrutiny, and more &lpar;Financial Times&rpar;](http://www.techmeme.com/241217/p5#a241217p5)
- - [Framework releases a $39 modular component to add two extra M.2 slots to the Laptop 16, letting users have 26TB+ of storage, and updates the Laptop 16&#39;s cooling &lpar;Sean Hollister/The Verge&rpar;](http://www.techmeme.com/241217/p4#a241217p4)
- - [Turkish startup Agave Games, developer of Find the Cat, which has 10M+ downloads since its August 2024 release, raised an $18M Series A at a $100M valuation &lpar;Ingrid Lunden/TechCrunch&rpar;](http://www.techmeme.com/241217/p3#a241217p3)
- - [Beijing-based AI startup Zhipu, which aims to make services tailored to the China market, raised $412M, after raising $400M at a ~$3B valuation in May 2024 &lpar;Bloomberg&rpar;](http://www.techmeme.com/241217/p2#a241217p2)<!-- TECH:END -->
+ - [Framework releases a $39 modular component to add two extra M.2 slots to the Laptop 16, letting users have 26TB+ of storage, and updates the Laptop 16&#39;s cooling &lpar;Sean Hollister/The Verge&rpar;](http://www.techmeme.com/241217/p4#a241217p4)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Sephora Promo Codes: 20% Off Fragrances + Free Shipping](https://www.wired.com/story/sephora-promo-code/)
+ - [Dyson Promo Code: 20% Off in December 2024](https://www.wired.com/story/dyson-cordless-vacuum-promo-code/)
  - [Congo has filed criminal complaints against Apple subsidiaries in France and Belgium, accusing the tech firm of using conflict minerals in its supply chain &lpar;Sonia Rolley/Reuters&rpar;](http://www.techmeme.com/241217/p1#a241217p1)
  - [How to enable parental controls on macOS Sequoia](https://appleinsider.com/articles/24/12/17/how-to-enable-parental-controls-on-macos-sequoia?utm_medium=rss)
- - [Today&#39;s NYT Strands Hints, Answers and Help for Dec. 17, #289](https://www.cnet.com/tech/gaming/todays-nyt-strands-hints-answers-and-help-for-dec-17-289/#ftag=CAD590a51e)
- - [Today&#39;s Wordle Hints, Answer and Help for Dec. 17, #1277](https://www.cnet.com/tech/gaming/todays-wordle-hints-answer-and-help-for-dec-17-1277/#ftag=CAD590a51e)
- - [Today&#39;s NYT Connections Hints, Answers and Help for Dec. 17, #555](https://www.cnet.com/tech/gaming/todays-nyt-connections-hints-answers-and-help-for-dec-17-555/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Today&#39;s NYT Strands Hints, Answers and Help for Dec. 17, #289](https://www.cnet.com/tech/gaming/todays-nyt-strands-hints-answers-and-help-for-dec-17-289/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

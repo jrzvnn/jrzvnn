@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Pune, India-based industrial AI startup Haber raised a $44M Series C, including $38M in equity and $6M in debt, led by Creaegis, BEENEXT, and Accel &lpar;FinSMEs&rpar;](http://www.techmeme.com/241216/p34#a241216p34)
+ - [Apple&#39;s M4 Pro 14-inch MacBook Pro has returned to its best $1,749 Black Friday price](https://appleinsider.com/articles/24/12/17/apples-m4-pro-14-inch-macbook-pro-has-returned-to-its-best-1749-black-friday-price?utm_medium=rss)
  - [Australia&#39;s privacy watchdog says Meta agreed to a AU$50M settlement over a 2020 Cambridge Analytica lawsuit alleging 300K+ Facebook users&#39; data was exposed &lpar;Rishav Chatterjee/Reuters&rpar;](http://www.techmeme.com/241216/p33#a241216p33)
  - [Digital bank Tyme Group, which operates in South Africa and the Philippines, raised a $250M Series D led by Brazilian digital bank Nubank at a $1.5B valuation &lpar;Bloomberg&rpar;](http://www.techmeme.com/241216/p32#a241216p32)
- - [NASA Mars Rover Delivers Triumphant First Photos From Crater&#39;s &#39;Lookout Hill&#39;](https://www.cnet.com/science/space/nasa-mars-rover-delivers-triumphant-first-photos-from-crater-rim/#ftag=CAD590a51e)
- - [Waymo Is Expanding Internationally, Bringing Its Self-Driving Fleet to Tokyo](https://www.cnet.com/roadshow/news/waymo-is-expanding-internationally-bringing-its-self-driving-fleet-to-tokyo/#ftag=CAD590a51e)
- - [Waymo is sending autonomous vehicles to Japan for first international tests](https://www.theverge.com/2024/12/16/24322769/waymo-japan-robotaxi-test-nihon-kotsu-go)<!-- TECH:END -->
+ - [NASA Mars Rover Delivers Triumphant First Photos From Crater&#39;s &#39;Lookout Hill&#39;](https://www.cnet.com/science/space/nasa-mars-rover-delivers-triumphant-first-photos-from-crater-rim/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

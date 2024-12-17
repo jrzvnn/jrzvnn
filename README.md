@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Threads starts testing scheduled posts](https://www.theverge.com/2024/12/17/24323727/threads-testing-scheduled-posts)
  - [22 Best Gifts for Travelers Who Are Always One Flight Ahead &lpar;2024&rpar;](https://www.wired.com/gallery/best-travel-gifts/)
  - [CAA partners with YouTube to help CAA clients identify and remove AI-generated content that features their likeness, with a wider rollout planned in early 2025 &lpar;Todd Spangler/Variety&rpar;](http://www.techmeme.com/241217/p30#a241217p30)
  - [Salesforce says it will hire 2,000 people to sell AI software, a month after saying it would hire 1,000 for the task and two years after laying off 7,000 staff &lpar;Jordan Novet/CNBC&rpar;](http://www.techmeme.com/241217/p31#a241217p31)
- - [Six-Word Sci-Fi: Stories Written by You](https://www.wired.com/story/six-word/)
- - [YouTube says that soon, its tech will be able to find AI copies of celebs and creators](https://www.theverge.com/2024/12/17/24323558/youtube-detect-remove-creators-ai-likeness)<!-- TECH:END -->
+ - [Six-Word Sci-Fi: Stories Written by You](https://www.wired.com/story/six-word/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

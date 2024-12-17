@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Forbes is cutting ties with freelance writers, citing Google spam policies](https://www.theverge.com/2024/12/17/24322485/forbes-vetted-freelance-google-search-parasite-seo)
+ - [The 51 Best Shows on Disney+ Right Now &lpar;December 2024&rpar;](https://www.wired.com/story/best-shows-disney-plus/)
+ - [SCOTUS rejected ISPs&#39; challenge to a NY law requiring ISPs to offer $15 or $20/mo. services to low-income customers, by refusing to revisit a lower court ruling &lpar;Jon Brodkin/Ars Technica&rpar;](http://www.techmeme.com/241217/p28#a241217p28)
  - [AMD may launch its most powerful integrated GPU ever — in a gaming tablet](https://www.theverge.com/2024/12/17/24323599/amd-strix-halo-ai-max-395-rog-flow-z13)
- - [Grubhub settled with the US FTC and IL AG for $25M, for allegedly adding restaurants without consent and misleading users about order fees and drivers about pay &lpar;Jody Godoy/Reuters&rpar;](http://www.techmeme.com/241217/p27#a241217p27)
- - [Amazon’s video game anthology Secret Level is getting a second season](https://www.theverge.com/2024/12/17/24323606/secret-level-season-2-renewal-amazon-prime-video)
- - [Honda and Nissan explore merger to navigate uncertain EV future](https://www.theverge.com/2024/12/17/24323448/honda-nissan-merger-talks-memorandum-ev)
- - [Leaks: Nvidia’s RTX 5090, 5080, 5070 Ti and 5070 tipped with new ‘neural rendering’](https://www.theverge.com/2024/12/17/24323555/leak-nvidia-rtx-5090-5080-5070-ti-5070-neural-rendering)<!-- TECH:END -->
+ - [Best Noise-Canceling Headphones for 2024](https://www.cnet.com/tech/mobile/best-noise-canceling-headphones/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

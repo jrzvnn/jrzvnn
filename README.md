@@ -160,8 +160,8 @@ R                        1 repo              ░░░░░░░░░░░�
  - [The European Commission opens a formal DSA investigation into TikTok over concerns foreign actors used it to interfere in the Romanian presidential elections &lpar;Edith Hancock/Wall Street Journal&rpar;](http://www.techmeme.com/241217/p7#a241217p7)
  - [Far-Right Sheriffs Want to Carry Out Donald Trump&#39;s Mass Deportations. That’s Not Possible](https://www.wired.com/story/far-right-sheriffs-donald-trump-mass-deportations-constitutional/)
  - [Nigeria arrests 792 suspects, including 148 Chinese and 40 Filipino nationals, in a raid on a building believed to be a crypto romance scam call center &lpar;Elisha Bala-Gbogbo/Reuters&rpar;](http://www.techmeme.com/241217/p6#a241217p6)
- - [The UK opens a consultation on AI and copyright, and aims to offer an &quot;opt out&quot; copyright exception, force companies to open models to scrutiny, and more &lpar;Financial Times&rpar;](http://www.techmeme.com/241217/p5#a241217p5)
- - [Framework releases a $39 modular component to add two extra M.2 slots to the Laptop 16, letting users have 26TB+ of storage, and updates the Laptop 16&#39;s cooling &lpar;Sean Hollister/The Verge&rpar;](http://www.techmeme.com/241217/p4#a241217p4)<!-- TECH:END -->
+ - [Rates Decline for Prospective Buyers: Current Mortgage Interest Rates on Dec. 17, 2024](https://www.cnet.com/personal-finance/rates-decline-for-prospective-buyers-current-mortgage-interest-rates-on-dec-17-2024/#ftag=CAD590a51e)
+ - [Refi Rates Dip Since Last Week: Mortgage Refinance Rates for Dec. 17, 2024](https://www.cnet.com/personal-finance/refi-rates-dip-since-last-week-mortgage-refinance-rates-for-dec-17-2024/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

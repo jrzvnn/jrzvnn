@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [A Taiwanese official says the country is in talks with Amazon&#39;s Kuiper over satellite internet as its current OneWeb deal does not offer sufficient capacity &lpar;Kathrin Hille/Financial Times&rpar;](http://www.techmeme.com/241217/p12#a241217p12)
- - [Google Home tests access tiers for everyone in your smart home](https://www.theverge.com/2024/12/17/24323233/google-home-access-tiers-admin-member-smart-devices)
- - [Taiwanese silicon wafer maker GlobalWafers finalizes $406M in CHIPS Act funding, part of a plan to invest nearly $4B to help build plants in Texas and Missouri &lpar;Bloomberg&rpar;](http://www.techmeme.com/241217/p11#a241217p11)
- - [What a VPN Kill Switch Is and How to Set One Up](https://www.wired.com/story/what-a-vpn-kill-switch-is-and-how-to-set-one-up/)
- - [After Trump&#39;s win, a look at what the crypto industry could do next, including weakening financial rules that might protect consumers from the next crypto crash &lpar;Molly White/Bloomberg&rpar;](http://www.techmeme.com/241217/p10#a241217p10)<!-- TECH:END -->
+ - [The US FTC issues long-awaited rules requiring companies to display the full price of hotels, concert tickets, and more up front, rather than hiding &quot;junk fees&quot; &lpar;Tony Romm/Washington Post&rpar;](http://www.techmeme.com/241217/p15#a241217p15)
+ - [Apple accused of covering up war crimes by willfully using Congo conflict minerals](https://appleinsider.com/articles/24/12/17/apple-accused-of-covering-up-war-crimes-by-willfully-using-congo-conflict-minerals?utm_medium=rss)
+ - [The Irish Data Protection Commission fines Meta &amp;euro;251M over a Facebook breach that affected ~29M users globally and ~3M in the EU and EEA in September 2018 &lpar;Natasha Lomas/TechCrunch&rpar;](http://www.techmeme.com/241217/p14#a241217p14)
+ - [Interpol says calling online scams &quot;pig butchering&quot;, a widely used phrase, is unhelpful as gangs &quot;appear to have&quot; created the phrase to describe victims &lpar;Wired&rpar;](http://www.techmeme.com/241217/p13#a241217p13)
+ - [A Taiwanese official says the country is in talks with Amazon&#39;s Kuiper over satellite internet as its current OneWeb deal does not offer sufficient capacity &lpar;Kathrin Hille/Financial Times&rpar;](http://www.techmeme.com/241217/p12#a241217p12)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [iRobot’s mop-equipped Roomba Combo j7 Plus is nearly matching its best price to date](https://www.theverge.com/2024/12/17/24323364/irobot-roomba-combo-j7-plus-loop-experience-2-deal-sale)
+ - [How Apple Watch will bring healther nights to Brazil with sleep apnea detection](https://appleinsider.com/articles/24/12/17/how-apple-watch-will-bring-healther-nights-to-brazil-with-sleep-apnea-detection?utm_medium=rss)
  - [Some tech leaders say they&#39;re optimistic that Trump will increase visas to highly skilled foreign workers, despite Trump curbing such programs in his first term &lpar;New York Times&rpar;](http://www.techmeme.com/241217/p22#a241217p22)
  - [Google launches Gemini Code Assist tools that lets the AI code completion product access real-time data and information from outside apps &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/241217/p21#a241217p21)
- - [Astronaut Don Pettit shows how to take long-exposure photos from the ISS](https://www.theverge.com/2024/12/17/24323411/astronaut-don-pettit-long-exposure-photos-iss)
- - [Walmart starts its own Game Informer-style gaming site](https://www.theverge.com/2024/12/17/24323309/walmart-restart-run-game-informer-ziff-davis-buyouts)
- - [Amy Klobuchar isn’t done with antitrust reform](https://www.theverge.com/2024/12/17/24323339/klobuchar-antitrust-subcommittee-tech-enforcement)<!-- TECH:END -->
+ - [Astronaut Don Pettit shows how to take long-exposure photos from the ISS](https://www.theverge.com/2024/12/17/24323411/astronaut-don-pettit-long-exposure-photos-iss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

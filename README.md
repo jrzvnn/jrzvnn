@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [17 Best White Elephant Gifts &lpar;2024&rpar;: Legos, Desk Accessories](https://www.wired.com/gallery/best-white-elephant-gifts/)
  - [The US FTC issues long-awaited rules requiring companies to display the full price of hotels, concert tickets, and more up front, rather than hiding &quot;junk fees&quot; &lpar;Tony Romm/Washington Post&rpar;](http://www.techmeme.com/241217/p15#a241217p15)
  - [Apple accused of covering up war crimes by willfully using Congo conflict minerals](https://appleinsider.com/articles/24/12/17/apple-accused-of-covering-up-war-crimes-by-willfully-using-congo-conflict-minerals?utm_medium=rss)
  - [The Irish Data Protection Commission fines Meta &amp;euro;251M over a Facebook breach that affected ~29M users globally and ~3M in the EU and EEA in September 2018 &lpar;Natasha Lomas/TechCrunch&rpar;](http://www.techmeme.com/241217/p14#a241217p14)
- - [Interpol says calling online scams &quot;pig butchering&quot;, a widely used phrase, is unhelpful as gangs &quot;appear to have&quot; created the phrase to describe victims &lpar;Wired&rpar;](http://www.techmeme.com/241217/p13#a241217p13)
- - [A Taiwanese official says the country is in talks with Amazon&#39;s Kuiper over satellite internet as its current OneWeb deal does not offer sufficient capacity &lpar;Kathrin Hille/Financial Times&rpar;](http://www.techmeme.com/241217/p12#a241217p12)<!-- TECH:END -->
+ - [Interpol says calling online scams &quot;pig butchering&quot;, a widely used phrase, is unhelpful as gangs &quot;appear to have&quot; created the phrase to describe victims &lpar;Wired&rpar;](http://www.techmeme.com/241217/p13#a241217p13)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [He looks familiar](http://9gag.com/gag/aoyg5R2)
- - 😝 [Just seconds after this image was captured, SeaWorld trainer Dawn Brancheau was snatched into the jaws of the orca pictured here and \u2018ripped apart.\u2019 She was then thrashed about over the course of 45 minutes while the horrified crowd helplessly looked on.](http://9gag.com/gag/aRBr19M)
- - 💣 [How stupid are you?](http://9gag.com/gag/azxemDq)
+ - 😝 [Security dragging Travis Scott out of his own concert.](http://9gag.com/gag/a0eZQ1O)
+ - 😝 [Merry X-files you degenerates](http://9gag.com/gag/aGyzd3n)
+ - 💣 [Just seconds after this image was captured, SeaWorld trainer Dawn Brancheau was snatched into the jaws of the orca pictured here and \u2018ripped apart.\u2019 She was then thrashed about over the course of 45 minutes while the horrified crowd helplessly looked on.](http://9gag.com/gag/aRBr19M)
  - 😝 [\ud83c\udf81 iPhone 16 Pro Giveaway\ud83d\udcf1](http://9gag.com/gag/aO8Q3nr)
- - 👉 [The female schoolshooter shared a link to a private manifesto no one can read, before she started blasting.](http://9gag.com/gag/aXProxz)<!-- MEMES:END -->
+ - 👉 [How stupid are you?](http://9gag.com/gag/azxemDq)<!-- MEMES:END -->
 
 ---
 

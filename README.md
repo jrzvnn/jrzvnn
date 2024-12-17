@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Framework releases a $39 modular component to add two extra M.2 slots to the Laptop 16, letting users have 26TB+ of storage, and updates the Laptop 16&#39;s cooling &lpar;Sean Hollister/The Verge&rpar;](http://www.techmeme.com/241217/p4#a241217p4)
  - [Turkish startup Agave Games, developer of Find the Cat, which has 10M+ downloads since its August 2024 release, raised an $18M Series A at a $100M valuation &lpar;Ingrid Lunden/TechCrunch&rpar;](http://www.techmeme.com/241217/p3#a241217p3)
- - [Beijing-based AI startup Zhipu, which aims to make services tailored to the China market, raised $412M, after raising $400M at a ~$3B valuation in May 2024 &lpar;Bloomberg&rpar;](http://www.techmeme.com/241217/p2#a241217p2)
- - [Europe’s Starlink competitor is go](https://www.theverge.com/2024/12/16/24322358/iris2-starlink-rival-europe-date-cost)
- - [Beautyrest Mattress Review: Testing Premium Beds From a Top-Rated Industry Veteran](https://www.cnet.com/health/sleep/beautyrest-mattress-review/#ftag=CAD590a51e)
- - [The Fed Cuts Interest Rates Tomorrow. Will You Notice a Difference in Your Finances?](https://www.cnet.com/personal-finance/banking/the-fed-cuts-interest-rates-tomorrow-will-you-notice-a-difference-in-your-finances/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Taxes Are Due by April 15, Unless You Live in One of These States](https://www.cnet.com/personal-finance/taxes/taxes-are-due-by-april-15-unless-you-live-in-one-of-these-states/#ftag=CAD590a51e)
+ - [Best Weighted Blankets for 2024](https://www.cnet.com/health/sleep/best-weighted-blanket/#ftag=CAD590a51e)
+ - [High Savings Rates Linger Ahead of This Week&#39;s Fed Meeting. Today&#39;s Savings Rates, Dec. 17, 2024](https://www.cnet.com/personal-finance/banking/high-savings-rates-linger-ahead-of-this-weeks-fed-meeting-todays-savings-rates-dec-17-2024/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

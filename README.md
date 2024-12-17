@@ -161,7 +161,7 @@ R                        1 repo              ░░░░░░░░░░░�
  - [Nike Promo Code: Up to 50% Off Select Styles](https://www.wired.com/story/nike-promo-code/)
  - [Sephora Promo Codes: 20% Off Fragrances + Free Shipping](https://www.wired.com/story/sephora-promo-code/)
  - [Dyson Promo Code: 20% Off in December 2024](https://www.wired.com/story/dyson-cordless-vacuum-promo-code/)
- - [Congo has filed criminal complaints against Apple subsidiaries in France and Belgium, accusing the tech firm of using conflict minerals in its supply chain &lpar;Sonia Rolley/Reuters&rpar;](http://www.techmeme.com/241217/p1#a241217p1)<!-- TECH:END -->
+ - [Got Your Real ID? You&#39;ll Need It to Fly in 2025](https://www.cnet.com/culture/got-your-real-id-youll-need-it-to-fly-in-2025/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

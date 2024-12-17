@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [The surgery went well. I&#39;m back here with you beautiful racist misogynistic bastards. Doc said I have a long life ahead. Thank you for all the encouragements.](http://9gag.com/gag/aQzX338)
- - 😝 [Wasted opportunity](http://9gag.com/gag/aPAZjDQ)
- - 💣 [Class war not race war](http://9gag.com/gag/a9y1R5j)
+ - 😝 [Becareful when you boo a comedian...](http://9gag.com/gag/agmgXm1)
+ - 😝 [Lady has her ears cleaned after 16 years.](http://9gag.com/gag/avyA8Mq)
+ - 💣 [What a lovely daughter](http://9gag.com/gag/aNDP0Zv)
  - 😝 [Explain this, humankind](http://9gag.com/gag/a6Z1opq)
- - 👉 [Play the new WoT Blitz x deadmau5 &#39;&#39;in the house&#39;&#39; event while you hit different on the battlefield with sick bass &amp; beats!](http://9gag.com/gag/aMV4YW1)<!-- MEMES:END -->
+ - 👉 [The surgery went well. I&#39;m back here with you beautiful racist misogynistic bastards. Doc said I have a long life ahead. Thank you for all the encouragements.](http://9gag.com/gag/aQzX338)<!-- MEMES:END -->
 
 ---
 

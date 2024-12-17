@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Apple Maps on the web now has Look Around](https://www.theverge.com/2024/12/17/24323726/apple-maps-web-beta-look-around-feature-launch)
  - [The Verge’s 2024 holiday gift guide](https://www.theverge.com/24224043/holiday-gift-guide-2024-best-ideas-unique-tech-gadgets)
  - [Grubhub pays $25 million for allegedly tricking customers and lying to drivers](https://www.theverge.com/2024/12/17/24323708/grubhub-ftc-settlement-25-million-fine-deceiving-customers)
  - [The US ITC says smartphones made by Lenovo&#39;s Motorola Mobility infringe 5G patents owned by Ericsson; a final ruling is scheduled for April 2025 &lpar;Blake Brittain/Reuters&rpar;](http://www.techmeme.com/241217/p34#a241217p34)
- - [Best Flip Phone for 2024](https://www.cnet.com/tech/mobile/best-flip-phone/#ftag=CAD590a51e)
- - [Best Desktop Computer for 2024](https://www.cnet.com/tech/computing/best-desktop-computer/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Game emulator Delta adds an in-app link to pay via Patreon outside of the App Store, likely the first US app to use Apple&#39;s External Purchase Link Entitlement &lpar;John Voorhees/MacStories&rpar;](http://www.techmeme.com/241217/p33#a241217p33)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

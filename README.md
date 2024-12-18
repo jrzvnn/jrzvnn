@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The Verge’s 2024 holiday gift guide for dads](https://www.theverge.com/24224045/best-gift-ideas-dad-holiday-unique-2024-tech-gadgets)
- - [Apple’s App Store is inviting me to ‘search the way you talk’](https://www.theverge.com/2024/12/17/24323780/app-store-natural-language-search-ios-18-iphone-ipad-apple)
- - [Apple is already working on visionOS 3.0 and visionOS 2.4, evidence suggests](https://appleinsider.com/articles/24/12/17/apple-is-already-working-on-visionos-30-and-visionos-24-evidence-suggests?utm_medium=rss)
- - [Apple Maps on the web now has Look Around](https://www.theverge.com/2024/12/17/24323726/apple-maps-web-beta-look-around-feature-launch)
- - [The Verge’s 2024 holiday gift guide](https://www.theverge.com/24224043/holiday-gift-guide-2024-best-ideas-unique-tech-gadgets)<!-- TECH:END -->
+ - [Intel finally notches a GPU win, confirms Arc B580 is selling out after stellar reviews](https://www.theverge.com/2024/12/17/24323888/intel-arc-b580-sold-out-availability)
+ - [NYC-based Precision Neuroscience, a maker of brain-computer interfaces, raised a $102M Series C led by General Equity Holdings at a ~$500M post-money valuation &lpar;Richard Waters/Financial Times&rpar;](http://www.techmeme.com/241217/p37#a241217p37)
+ - [The best fitness trackers to buy right now](https://www.theverge.com/22985108/best-fitness-tracker)
+ - [Nvidia unveils Jetson Orin Nano Super Developer Kit, a $249 compact AI development board that promises 67 TOPS, compared to 40 TOPS of the $499 last-gen kit &lpar;Avram Piltch/Tom&#39;s Hardware&rpar;](http://www.techmeme.com/241217/p36#a241217p36)
+ - [Best Blue Light Glasses of 2024](https://www.cnet.com/health/personal-care/best-blue-light-blocking-glasses/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

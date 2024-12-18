@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [German police randomly searching dangerous people at the Christmas market....clown world.](http://9gag.com/gag/abAgeqL)
- - 😝 [Merry X-files you degenerates](http://9gag.com/gag/aGyzd3n)
- - 💣 [Yeah](http://9gag.com/gag/aXProP2)
+ - 😝 [So the latest school shooter is a 17 year old girl. Statistically it was bound to happen eventually.](http://9gag.com/gag/ajPgmgq)
+ - 😝 [Girl tried to kill 10 people with a gun at a school in Brazil, Lyedja Yasmin, 19](http://9gag.com/gag/aD2D2LN)
+ - 💣 [German police randomly searching dangerous people at the Christmas market....clown world.](http://9gag.com/gag/abAgeqL)
  - 😝 [#TFORCEDANCE. Feeling Motivated Today? Join T-Force Dancing Challenge Now! Link in description!](http://9gag.com/gag/azxex9b)
- - 👉 [We are all equal](http://9gag.com/gag/aXProvV)<!-- MEMES:END -->
+ - 👉 [Merry X-files you degenerates](http://9gag.com/gag/aGyzd3n)<!-- MEMES:END -->
 
 ---
 

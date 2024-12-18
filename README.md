@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Total Wireless Promo Codes &amp; Deals: 50% Off Select Plans](https://www.wired.com/story/total-wireless-promo-code/)
- - [NERC, overseen by FERC, warns soaring electricity demand from sources including data centers to power AI could strain US and Canadian grids, risking blackouts &lpar;Myles McCormick/Financial Times&rpar;](http://www.techmeme.com/241218/p3#a241218p3)
- - [Today&#39;s NYT Mini Crossword Answers for Wednesday, Dec. 18](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-wednesday-dec-18/#ftag=CAD590a51e)
- - [India&#39;s commerce minister says that Shein will operate in India purely as a tech partner, with Reliance Retail having full ownership and control of operations &lpar;Manish Singh/TechCrunch&rpar;](http://www.techmeme.com/241218/p2#a241218p2)
- - [Google introduces FACTS Grounding benchmark for evaluating the factuality of LLMs, and announces a leaderboard that ranks Gemini 2.0 Flash Experimental on top &lpar;Google DeepMind&rpar;](http://www.techmeme.com/241218/p1#a241218p1)<!-- TECH:END -->
+ - [Shares in MobiKwik surged as much as 82% on their trading debut, after the Indian digital payments firm, which claims to have 161M users, raised $69M in its IPO &lpar;Manish Singh/TechCrunch&rpar;](http://www.techmeme.com/241218/p5#a241218p5)
+ - [Shares of Kioxia rose 6%+ on its first day of trading in Tokyo, giving the chipmaker a ~$5.2B market cap; a group led by Bain had paid $18B for Kioxia in 2018 &lpar;Financial Times&rpar;](http://www.techmeme.com/241218/p4#a241218p4)
+ - [AirDoctor Coupon Code: 25% Off Purifiers](https://www.wired.com/story/airdoctor-coupon-code/)
+ - [Govee Discount Codes and Deals: Up to 50% Off](https://www.wired.com/story/govee-discount-code/)
+ - [Total Wireless Promo Codes &amp; Deals: 50% Off Select Plans](https://www.wired.com/story/total-wireless-promo-code/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

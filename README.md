@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [You can now call 1-800-CHATGPT](https://www.theverge.com/2024/12/18/24324376/openai-shipmas-1-800-chatgpt-whatsapp)
  - [Pick up Apple&#39;s M4 iPad Pro for $849 with delivery by Christmas](https://appleinsider.com/articles/24/12/18/pick-up-apples-m4-ipad-pro-for-849-with-delivery-by-christmas?utm_medium=rss)
  - [OpenAI rolls out a way to talk to ChatGPT by dialing 1-800-CHATGPT for 15 minutes of free access per month in the US or messaging it via WhatsApp globally &lpar;Hayden Field/CNBC&rpar;](http://www.techmeme.com/241218/p27#a241218p27)
  - [LG’s transparent OLED TV will put a very visible $60,000 hole in your wallet](https://www.theverge.com/2024/12/18/24324379/lg-signature-oled-t-transparent-tv-price-announced)
- - [CDC Confirms First US Case of Severe Bird Flu](https://www.wired.com/story/cdc-confirms-first-us-case-of-severe-bird-flu/)
- - [PlayStation announces ‘deeper collaboration’ with AMD to infuse games with AI](https://www.theverge.com/2024/12/18/24324317/amd-playstation-ai-work-better-graphics-project-amethyst)<!-- TECH:END -->
+ - [CDC Confirms First US Case of Severe Bird Flu](https://www.wired.com/story/cdc-confirms-first-us-case-of-severe-bird-flu/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

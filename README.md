@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [When you thought the game was on easy mode](http://9gag.com/gag/a9y1EEm)
- - 😝 [The female schoolshooter shared a link to a private manifesto no one can read, before she started blasting.](http://9gag.com/gag/aXProxz)
- - 💣 [How stupid are you?](http://9gag.com/gag/azxemDq)
+ - 😝 [France. This will be deleted soon by leftist team of 9gag](http://9gag.com/gag/ayN9N8y)
+ - 😝 [How stupid are you?](http://9gag.com/gag/azxemDq)
+ - 💣 [A quick swim while parasailing](http://9gag.com/gag/a341ZL8)
  - 😝 [#TFORCEDANCE. Feeling Motivated Today? Join T-Force Dancing Challenge Now! Link in description!](http://9gag.com/gag/azxex9b)
- - 👉 [That\u2019s coolin buddy boy!](http://9gag.com/gag/aKGm7AN)<!-- MEMES:END -->
+ - 👉 [The female schoolshooter shared a link to a private manifesto no one can read, before she started blasting.](http://9gag.com/gag/aXProxz)<!-- MEMES:END -->
 
 ---
 

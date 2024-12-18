@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Seagate is getting ready to launch its first high-capacity HAMR hard drive](https://www.theverge.com/2024/12/18/24324143/seagate-32tb-hamr-hard-drive)
- - [LG will bring its wireless TV tech to Mini LED models in 2025](https://www.theverge.com/2024/12/18/24324162/lg-qned-mini-led-zero-connect-box-wireless-tv)
- - [US may ban the most popular home router over Chinese security fears](https://appleinsider.com/articles/24/12/18/us-may-ban-the-most-popular-home-router-over-chinese-security-fears?utm_medium=rss)
- - [Death of a Unicorn’s first trailer brings a fairytale creature into a dark comedy](https://www.theverge.com/2024/12/18/24323773/death-of-a-unicorn-trailer-a24)
- - [This Z-Wave smart plug can work over a mile from your house](https://www.theverge.com/2024/12/18/24324097/shelly-wave-zwave-long-range-smart-plug-availability)<!-- TECH:END -->
+ - [Best AI app to effortlessly remove background from image on Mac](https://appleinsider.com/articles/24/12/18/best-ai-app-to-effortlessly-remove-background-from-image-on-mac?utm_medium=rss)
+ - [Tech antitrust is about to get really weird](https://www.theverge.com/24324167/tech-antitrust-trump-vance-google-monopoly-regulation-decoder-podcast-interview)
+ - [Alphabet’s Wing will deliver DoorDash by drone in Dallas-Fort Worth](https://www.theverge.com/2024/12/18/24324111/alphabet-wing-doordash-drone-deliveries-dallas-fort-worth)
+ - [8 great games for your Steam Deck](https://www.theverge.com/24305570/steam-deck-best-games-2024-verified-playable-valve)
+ - [Seagate is getting ready to launch its first high-capacity HAMR hard drive](https://www.theverge.com/2024/12/18/24324143/seagate-32tb-hamr-hard-drive)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

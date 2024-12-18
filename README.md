@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The Kids Online Safety Act’s last stand](https://www.theverge.com/2024/12/18/24324276/kids-online-safety-act-parent-advocates)
- - [Botto, the Millionaire AI Artist, Is Getting a Personality](https://www.wired.com/story/botto-the-millionaire-ai-artist-is-getting-a-personality/)
- - [It’s been a rough year for robotaxis — but not for Waymo](https://www.theverge.com/24323593/waymo-year-in-review-robotaxi-trips-miles-growth-cost)
- - [Best Earplugs for Sleeping in 2024](https://www.cnet.com/health/sleep/best-earplugs-for-sleeping/#ftag=CAD590a51e)
- - [Sources: Amazon recently pushed back RTO dates for some staff in Austin, Dallas, and Phoenix by as much as four months, citing a lack of office space &lpar;Bloomberg&rpar;](http://www.techmeme.com/241218/p25#a241218p25)<!-- TECH:END -->
+ - [Pick up Apple&#39;s M4 iPad Pro for $849 with delivery by Christmas](https://appleinsider.com/articles/24/12/18/pick-up-apples-m4-ipad-pro-for-849-with-delivery-by-christmas?utm_medium=rss)
+ - [OpenAI rolls out a way to talk to ChatGPT by dialing 1-800-CHATGPT for 15 minutes of free access per month in the US or messaging it via WhatsApp globally &lpar;Hayden Field/CNBC&rpar;](http://www.techmeme.com/241218/p27#a241218p27)
+ - [LG’s transparent OLED TV will put a very visible $60,000 hole in your wallet](https://www.theverge.com/2024/12/18/24324379/lg-signature-oled-t-transparent-tv-price-announced)
+ - [CDC Confirms First US Case of Severe Bird Flu](https://www.wired.com/story/cdc-confirms-first-us-case-of-severe-bird-flu/)
+ - [PlayStation announces ‘deeper collaboration’ with AMD to infuse games with AI](https://www.theverge.com/2024/12/18/24324317/amd-playstation-ai-work-better-graphics-project-amethyst)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

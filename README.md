@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [France. This will be deleted soon by leftist team of 9gag](http://9gag.com/gag/ayN9N8y)
- - 😝 [How stupid are you?](http://9gag.com/gag/azxemDq)
- - 💣 [A quick swim while parasailing](http://9gag.com/gag/a341ZL8)
+ - 😝 [Do I look like a new girlfriend?](http://9gag.com/gag/aNDPpjb)
+ - 😝 [A man enters through below the door when the shop is about to close](http://9gag.com/gag/aYQrV6x)
+ - 💣 [A woman in Italy freaks out in response to seeing a man and woman kiss in public](http://9gag.com/gag/abAgVev)
  - 😝 [#TFORCEDANCE. Feeling Motivated Today? Join T-Force Dancing Challenge Now! Link in description!](http://9gag.com/gag/azxex9b)
- - 👉 [The female schoolshooter shared a link to a private manifesto no one can read, before she started blasting.](http://9gag.com/gag/aXProxz)<!-- MEMES:END -->
+ - 👉 [France. This will be deleted soon by leftist team of 9gag](http://9gag.com/gag/ayN9N8y)<!-- MEMES:END -->
 
 ---
 

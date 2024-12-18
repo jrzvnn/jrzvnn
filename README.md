@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Analysis: as uncertainty looms over Japan&#39;s China-dependent chipmaking stocks, Sony, Nintendo, and Capcom have seen double-digit returns since Trump&#39;s victory &lpar;Bloomberg&rpar;](http://www.techmeme.com/241218/p14#a241218p14)
  - [A look at Huawei subsidiary Yinwang, which sells hardware and software to carmakers, has a $16B valuation, and more than doubled its revenue to ~$655M in 2023 &lpar;Financial Times&rpar;](http://www.techmeme.com/241218/p13#a241218p13)
  - [Experts say national security and immigration policies could deprive US companies of AI talent from China, which had 47% of the top AI researchers in 2022 &lpar;Yvonne Lau/Rest of World&rpar;](http://www.techmeme.com/241218/p12#a241218p12)
  - [The UK Gambling Commission blocks eight illegal casinos using Roblox to lure children into online gambling, following a news investigation into the casinos &lpar;Sky News&rpar;](http://www.techmeme.com/241218/p11#a241218p11)
- - [The Edgelord AI That Seduced Marc Andreessen, Then Turned a Famed Shock Meme Into Cryptomillions](https://www.wired.com/story/truth-terminal-goatse-crypto-millionaire/)
- - [A profile of 114-year-old Japanese conglomerate Hitachi, whose market cap recently hit $100B after becoming an industrial software and hardware provider &lpar;Financial Times&rpar;](http://www.techmeme.com/241218/p10#a241218p10)<!-- TECH:END -->
+ - [The Edgelord AI That Seduced Marc Andreessen, Then Turned a Famed Shock Meme Into Cryptomillions](https://www.wired.com/story/truth-terminal-goatse-crypto-millionaire/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

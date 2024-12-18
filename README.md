@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [The female schoolshooter shared a link to a private manifesto no one can read, before she started blasting.](http://9gag.com/gag/aXProxz)
- - 😝 [Quick fix](http://9gag.com/gag/adBg8GV)
- - 💣 [How stupid are you?](http://9gag.com/gag/azxemDq)
+ - 😝 [Lol](http://9gag.com/gag/aGyzEdK)
+ - 😝 [The state of gaming](http://9gag.com/gag/aW4gg5A)
+ - 💣 [Its not young people...its....](http://9gag.com/gag/aLnv1pz)
  - 😝 [#TFORCEDANCE. Feeling Motivated Today? Join T-Force Dancing Challenge Now! Link in description!](http://9gag.com/gag/azxex9b)
- - 👉 [When you thought the game was on easy mode](http://9gag.com/gag/a9y1EEm)<!-- MEMES:END -->
+ - 👉 [The master of parallel parking](http://9gag.com/gag/aD2DYA7)<!-- MEMES:END -->
 
 ---
 

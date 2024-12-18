@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Sources: Apple has halted work on a project to build an iPhone hardware subscription service, which had been in development since around 2022 &lpar;Mark Gurman/Bloomberg&rpar;](http://www.techmeme.com/241218/p29#a241218p29)
  - [Here are 40 last-minute gifts you can still grab in time for the holidays](https://www.theverge.com/24323542/best-last-minute-gifts-ideas-unique)
  - [GitHub makes its Copilot free in VS Code, with 2,000 code completions and 50 chat messages per month; GitHub now has 150M developers, up from 100M in early 2023 &lpar;Frederic Lardinois/TechCrunch&rpar;](http://www.techmeme.com/241218/p28#a241218p28)
  - [Why is every picture of the New Jersey drones so bad?](https://www.theverge.com/2024/12/18/24324347/new-jersey-drones-photos-phone-camera)
- - [Supreme Court to Hear TikTok Case: What to Know](https://www.cnet.com/tech/services-and-software/appeals-court-upholds-tiktok-ban-what-to-know/#ftag=CAD590a51e)
- - [Last Chance to Bag Refurb iPhones and Apple Watches Starting at Just $110](https://www.cnet.com/deals/last-chance-to-bag-refurb-iphones-and-apple-watches-starting-at-just-110/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [You can now call 1-800-CHATGPT](https://www.theverge.com/2024/12/18/24324376/openai-shipmas-1-800-chatgpt-whatsapp)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

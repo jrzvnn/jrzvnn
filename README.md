@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [SandboxAQ, which aims to apply quantum tech and techniques to AI, raised $300M from Alger, Yann LeCun, and others at a $5.6B valuation to recruit more engineers &lpar;Bloomberg&rpar;](http://www.techmeme.com/241218/p16#a241218p16)
  - [After a rough year, Intel says its $250 Arc B580 &quot;Battlemage&quot; GPU, which received near-universal praise from reviewers, has already sold out in most retailers &lpar;Sean Hollister/The Verge&rpar;](http://www.techmeme.com/241218/p15#a241218p15)
  - [The Study That Called Out Black Plastic Utensils Had a Major Math Error](https://www.wired.com/story/black-plastic-utensils-study-math-error-correction/)
  - [Analysis: as uncertainty looms over Japan&#39;s China-dependent chipmaking stocks, Sony, Nintendo, and Capcom have seen double-digit returns since Trump&#39;s victory &lpar;Bloomberg&rpar;](http://www.techmeme.com/241218/p14#a241218p14)
- - [A look at Huawei subsidiary Yinwang, which sells hardware and software to carmakers, has a $16B valuation, and more than doubled its revenue to ~$655M in 2023 &lpar;Financial Times&rpar;](http://www.techmeme.com/241218/p13#a241218p13)
- - [Experts say national security and immigration policies could deprive US companies of AI talent from China, which had 47% of the top AI researchers in 2022 &lpar;Yvonne Lau/Rest of World&rpar;](http://www.techmeme.com/241218/p12#a241218p12)<!-- TECH:END -->
+ - [A look at Huawei subsidiary Yinwang, which sells hardware and software to carmakers, has a $16B valuation, and more than doubled its revenue to ~$655M in 2023 &lpar;Financial Times&rpar;](http://www.techmeme.com/241218/p13#a241218p13)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Apple says Meta has made 15 interoperability requests under the EU&#39;s DMA, more than any other company, and that these could affect users&#39; privacy and security &lpar;Foo Yun Chee/Reuters&rpar;](http://www.techmeme.com/241218/p35#a241218p35)
+ - [Here’s everything we don’t know about New Jersey’s drone mystery](https://www.theverge.com/24324635/new-jersey-drones-rumors-nj-news)
  - [The Nintendo Switch 2 and its dock, as described by the mystery Reddit leaker](https://www.theverge.com/2024/12/18/24324483/nintendo-switch-2-leak-reddit-next-handheld)
  - [This waterproof coffin gives your AirTag 10 years of battery life](https://www.theverge.com/2024/12/18/24324526/elevation-lab-time-capsule-apple-air-tag-battery-life)
- - [The best smartwatches for Android](https://www.theverge.com/23449363/best-android-smartwatches-wear-os)
- - [Wrapped 2024: the annual app recaps are here](https://www.theverge.com/24301386/spotify-wrapped-2024-apple-music-replay-youtube-music-recap)
- - [Sony details PS5 Pro specs, including its GPU based on AMD RDNA 2 with 16.7TF of performance and ray tracing improvements, and announces a partnership with AMD &lpar;Will Judd/Eurogamer.net&rpar;](http://www.techmeme.com/241218/p34#a241218p34)<!-- TECH:END -->
+ - [Rhode Island Residents: Your Personal Data May Be Leaked After RIBridges Breach](https://www.cnet.com/personal-finance/rhode-island-residents-your-personal-data-may-be-leaked-after-ribridges-breach/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

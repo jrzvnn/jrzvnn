@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [This electrician came to change the front bulb so I decided that she should change all of them while at it](http://9gag.com/gag/a9y1yKL)
- - 😝 [Italian food is the best](http://9gag.com/gag/ajPgPzG)
- - 💣 [German police randomly searching dangerous people at the Christmas market....clown world.](http://9gag.com/gag/abAgeqL)
+ - 😝 [Always Bruv!](http://9gag.com/gag/aKGm6nW)
+ - 😝 [The almost perfect synchronization of scenes between the remake and the original film](http://9gag.com/gag/a1m1P3w)
+ - 💣 [When you thought the game was on easy mode](http://9gag.com/gag/a9y1EEm)
  - 😝 [#TFORCEDANCE. Feeling Motivated Today? Join T-Force Dancing Challenge Now! Link in description!](http://9gag.com/gag/azxex9b)
- - 👉 [Story found on the internet](http://9gag.com/gag/a0eZe9n)<!-- MEMES:END -->
+ - 👉 [A man enters through below the door when the shop is about to close](http://9gag.com/gag/aYQrV6x)<!-- MEMES:END -->
 
 ---
 

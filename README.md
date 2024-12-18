@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [This waterproof coffin will keep an AirTag alive for a decade](https://www.theverge.com/2024/12/18/24324526/elevation-lab-time-capsule-apple-air-tag-battery-life)
+ - [The best smartwatches for Android](https://www.theverge.com/23449363/best-android-smartwatches-wear-os)
+ - [Wrapped 2024: the annual app recaps are here](https://www.theverge.com/24301386/spotify-wrapped-2024-apple-music-replay-youtube-music-recap)
  - [Sony details PS5 Pro specs, including its GPU based on AMD RDNA 2 with 16.7TF of performance and ray tracing improvements, and announces a partnership with AMD &lpar;Will Judd/Eurogamer.net&rpar;](http://www.techmeme.com/241218/p34#a241218p34)
- - [NASA Postpones Return of Stranded Starliner Astronauts to March](https://www.wired.com/story/boeing-starliner-astronauts-stranded-until-march-nasa/)
- - [GM and ChargePoint plan to install hundreds of fast EV chargers by the end of 2025](https://www.theverge.com/2024/12/18/24324512/gm-chargepoint-dc-fast-charger-network)
- - [Best Internet Providers in Idaho](https://www.cnet.com/home/internet/best-internet-providers-in-idaho/#ftag=CAD590a51e)
- - [The Fed Cut Rates Again, but Don&#39;t Expect Relief From Sky-High Credit Card Interest](https://www.cnet.com/personal-finance/the-fed-cut-rates-again-but-dont-expect-relief-from-sky-high-credit-card-interest/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [NASA Postpones Return of Stranded Starliner Astronauts to March](https://www.wired.com/story/boeing-starliner-astronauts-stranded-until-march-nasa/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

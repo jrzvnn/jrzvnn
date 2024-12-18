@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [A man enters through below the door when the shop is about to close](http://9gag.com/gag/aYQrV6x)
- - 😝 [The almost perfect synchronization of scenes between the remake and the original film](http://9gag.com/gag/a1m1P3w)
- - 💣 [Okay now I need instruments for practical](http://9gag.com/gag/aByn241)
+ - 😝 [Scientist may found new theory or wrote some new equation, but the engineers and technician who made the real magic.](http://9gag.com/gag/a7o110L)
+ - 😝 [Free trip is free](http://9gag.com/gag/axyBy2Y)
+ - 💣 [Italian food is the best](http://9gag.com/gag/ajPgPzG)
  - 😝 [#TFORCEDANCE. Feeling Motivated Today? Join T-Force Dancing Challenge Now! Link in description!](http://9gag.com/gag/azxex9b)
- - 👉 [Do I look like a new girlfriend?](http://9gag.com/gag/aNDPpjb)<!-- MEMES:END -->
+ - 👉 [This electrician came to change the front bulb so I decided that she should change all of them while at it](http://9gag.com/gag/a9y1yKL)<!-- MEMES:END -->
 
 ---
 

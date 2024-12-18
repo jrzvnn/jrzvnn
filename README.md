@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [We are all equal](http://9gag.com/gag/aXProvV)
- - 😝 [She knew, she definitely knew.](http://9gag.com/gag/aXPrr9P)
- - 💣 [So the latest school shooter is a 17 year old girl. Statistically it was bound to happen eventually.](http://9gag.com/gag/ajPgmgq)
+ - 😝 [Italian food is the best](http://9gag.com/gag/ajPgPzG)
+ - 😝 [Scientist may found new theory or wrote some new equation, but the engineers and technician who made the real magic.](http://9gag.com/gag/a7o110L)
+ - 💣 [Free trip is free](http://9gag.com/gag/axyBy2Y)
  - 😝 [#TFORCEDANCE. Feeling Motivated Today? Join T-Force Dancing Challenge Now! Link in description!](http://9gag.com/gag/azxex9b)
- - 👉 [Do I look like a new girlfriend?](http://9gag.com/gag/aNDPpjb)<!-- MEMES:END -->
+ - 👉 [This electrician came to change the front bulb so I decided that she should change all of them while at it](http://9gag.com/gag/a9y1yKL)<!-- MEMES:END -->
 
 ---
 

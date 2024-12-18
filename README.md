@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Death of a Unicorn’s first trailer brings a fairytale creature into a dark comedy](https://www.theverge.com/2024/12/18/24323773/death-of-a-unicorn-trailer-a24)
+ - [This Z-Wave smart plug can work over a mile from your house](https://www.theverge.com/2024/12/18/24324097/shelly-wave-zwave-long-range-smart-plug-availability)
+ - [Social networks in 2024: bless this mess](https://www.theverge.com/24314116/bluesky-threads-2024-social-media-networks-fediverse-twitter-x)
  - [Q&amp;A with Microsoft Chief Product Officer of Responsible AI Sarah Bird on generative AI, its impact on work, Copilots, OpenAI, AGI, AI agents, bias, and more &lpar;Cristina Criddle/Financial Times&rpar;](http://www.techmeme.com/241218/p21#a241218p21)
- - [AirPods Max four years later: a missed spatial computing opportunity](https://appleinsider.com/articles/24/12/18/airpods-max-four-years-later-a-missed-spatial-computing-opportunity?utm_medium=rss)
- - [Bureau, which offers tools to prevent user identity fraud, raised a $30M Series B led by Sorenson Capital, a source says at a ~$150M valuation &lpar;Jaspreet Singh/Reuters&rpar;](http://www.techmeme.com/241218/p20#a241218p20)
- - [US targets TP-Link with a potential ban on the Chinese routers](https://www.theverge.com/2024/12/18/24324140/tp-link-us-investigation-ban-chinese-routers)
- - [Apple is already working on visionOS 3.0 and visionOS 2.4](https://appleinsider.com/articles/24/12/17/apple-is-already-working-on-visionos-30-and-visionos-24-evidence-suggests?utm_medium=rss)<!-- TECH:END -->
+ - [Best Internet Providers in Houston](https://www.cnet.com/home/internet/best-internet-providers-in-houston-tx/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

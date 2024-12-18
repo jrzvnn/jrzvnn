@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Do I look like a new girlfriend?](http://9gag.com/gag/aNDPpjb)
- - 😝 [Quick fix](http://9gag.com/gag/adBg8GV)
- - 💣 [When you thought the game was on easy mode](http://9gag.com/gag/a9y1EEm)
+ - 😝 [When you thought the game was on easy mode](http://9gag.com/gag/a9y1EEm)
+ - 😝 [The female schoolshooter shared a link to a private manifesto no one can read, before she started blasting.](http://9gag.com/gag/aXProxz)
+ - 💣 [How stupid are you?](http://9gag.com/gag/azxemDq)
  - 😝 [#TFORCEDANCE. Feeling Motivated Today? Join T-Force Dancing Challenge Now! Link in description!](http://9gag.com/gag/azxex9b)
- - 👉 [A man enters through below the door when the shop is about to close](http://9gag.com/gag/aYQrV6x)<!-- MEMES:END -->
+ - 👉 [That\u2019s coolin buddy boy!](http://9gag.com/gag/aKGm7AN)<!-- MEMES:END -->
 
 ---
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Masayoshi Son&#39;s $100B AI investment pledge to Trump would require a massive fundraising effort, new debt, or selling some of SoftBank&#39;s holdings to raise cash &lpar;Eliot Brown/Wall Street Journal&rpar;](http://www.techmeme.com/241218/p7#a241218p7)
  - [A look at Reddit&#39;s growth in sports fan communities; internal data: Reddit recorded a 35% YoY increase in engagement in 1,000+ sports-themed Subreddits in 2024 &lpar;Sam Bradley/Digiday&rpar;](http://www.techmeme.com/241218/p6#a241218p6)
  - [Logitech Promo Code: 15% Off in December 2024](https://www.wired.com/story/logitech-promo-code/)
  - [Shares in MobiKwik surged as much as 82% on their trading debut, after the Indian digital payments firm, which claims to have 161M users, raised $69M in its IPO &lpar;Manish Singh/TechCrunch&rpar;](http://www.techmeme.com/241218/p5#a241218p5)
- - [Shares of Kioxia rose 6%+ on its first day of trading in Tokyo, giving the chipmaker a ~$5.2B market cap; a group led by Bain had paid $18B for Kioxia in 2018 &lpar;Financial Times&rpar;](http://www.techmeme.com/241218/p4#a241218p4)
- - [AirDoctor Coupon Code: 25% Off Purifiers](https://www.wired.com/story/airdoctor-coupon-code/)<!-- TECH:END -->
+ - [Shares of Kioxia rose 6%+ on its first day of trading in Tokyo, giving the chipmaker a ~$5.2B market cap; a group led by Bain had paid $18B for Kioxia in 2018 &lpar;Financial Times&rpar;](http://www.techmeme.com/241218/p4#a241218p4)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

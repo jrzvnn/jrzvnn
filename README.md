@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [I, for one, like Roman numerals](http://9gag.com/gag/agmgBM1)
- - 😝 [France. This will be deleted soon by leftist team of 9gag](http://9gag.com/gag/ayN9N8y)
- - 💣 [Merry Christmas](http://9gag.com/gag/aVvxvxK)
+ - 😝 [This electrician came to change the front bulb so I decided that she should change all of them while at it](http://9gag.com/gag/a9y1yKL)
+ - 😝 [Italian food is the best](http://9gag.com/gag/ajPgPzG)
+ - 💣 [They are not Romanians, they are Gypsies. Let the healing begin.](http://9gag.com/gag/amogWGo)
  - 😝 [#TFORCEDANCE. Feeling Motivated Today? Join T-Force Dancing Challenge Now! Link in description!](http://9gag.com/gag/azxex9b)
- - 👉 [We are all equal](http://9gag.com/gag/aXProvV)<!-- MEMES:END -->
+ - 👉 [Story found on the internet](http://9gag.com/gag/a0eZe9n)<!-- MEMES:END -->
 
 ---
 

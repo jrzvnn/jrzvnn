@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Lol](http://9gag.com/gag/aGyzEdK)
- - 😝 [The state of gaming](http://9gag.com/gag/aW4gg5A)
- - 💣 [Its not young people...its....](http://9gag.com/gag/aLnv1pz)
+ - 😝 [Always Bruv!](http://9gag.com/gag/aKGm6nW)
+ - 😝 [A quick swim while parasailing](http://9gag.com/gag/a341ZL8)
+ - 💣 [We are all equal](http://9gag.com/gag/aXProvV)
  - 😝 [#TFORCEDANCE. Feeling Motivated Today? Join T-Force Dancing Challenge Now! Link in description!](http://9gag.com/gag/azxex9b)
- - 👉 [The master of parallel parking](http://9gag.com/gag/aD2DYA7)<!-- MEMES:END -->
+ - 👉 [So the latest school shooter is a 17 year old girl. Statistically it was bound to happen eventually.](http://9gag.com/gag/ajPgmgq)<!-- MEMES:END -->
 
 ---
 

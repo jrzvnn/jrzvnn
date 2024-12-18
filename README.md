@@ -160,8 +160,8 @@ R                        1 repo              ░░░░░░░░░░░�
  - [Sony details PS5 Pro specs, including its GPU based on AMD RDNA 2 with 16.7TF of performance and ray tracing improvements, and announces a partnership with AMD &lpar;Will Judd/Eurogamer.net&rpar;](http://www.techmeme.com/241218/p34#a241218p34)
  - [NASA Postpones Return of Stranded Starliner Astronauts to March](https://www.wired.com/story/boeing-starliner-astronauts-stranded-until-march-nasa/)
  - [GM and ChargePoint plan to install hundreds of fast EV chargers by the end of 2025](https://www.theverge.com/2024/12/18/24324512/gm-chargepoint-dc-fast-charger-network)
- - [Micron reports Q1 revenue up 84% YoY to $8.71B, in line with est., Q2 revenue forecast below est. due to sluggish phone and PC demand; MU drops 13%+ after hours &lpar;Ian King/Bloomberg&rpar;](http://www.techmeme.com/241218/p33#a241218p33)
- - [The Ram 1500 Rev is now delayed to 2026](https://www.theverge.com/2024/12/18/24324527/ram-1500-rev-delayed-2026-ramcharger)<!-- TECH:END -->
+ - [Best Internet Providers in Idaho](https://www.cnet.com/home/internet/best-internet-providers-in-idaho/#ftag=CAD590a51e)
+ - [The Fed Cut Rates Again, but Don&#39;t Expect Relief From Sky-High Credit Card Interest](https://www.cnet.com/personal-finance/the-fed-cut-rates-again-but-dont-expect-relief-from-sky-high-credit-card-interest/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

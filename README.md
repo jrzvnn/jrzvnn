@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Yes please](http://9gag.com/gag/agmgBKw)
- - 😝 [Yeah](http://9gag.com/gag/aXProP2)
- - 💣 [So the latest school shooter is a 17 year old girl. Statistically it was bound to happen eventually.](http://9gag.com/gag/ajPgmgq)
+ - 😝 [What are the odds](http://9gag.com/gag/azxe2Ez)
+ - 😝 [Merry Christmas](http://9gag.com/gag/aVvxvxK)
+ - 💣 [BREAKING: Italian government &amp; Giorgio Meloni has made a move to chemically castrate convicted pedophiles and rapists. The left oppose it, claiming it\u2019s both racist and Islamophobic.](http://9gag.com/gag/aMV44pP)
  - 😝 [#TFORCEDANCE. Feeling Motivated Today? Join T-Force Dancing Challenge Now! Link in description!](http://9gag.com/gag/azxex9b)
- - 👉 [France. This will be deleted soon by leftist team of 9gag](http://9gag.com/gag/ayN9N8y)<!-- MEMES:END -->
+ - 👉 [Tougher than the GTA helicopter mission](http://9gag.com/gag/aYQrV3v)<!-- MEMES:END -->
 
 ---
 

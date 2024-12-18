@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The Ram 1500 Rev is now delayed to 2026](https://www.theverge.com/2024/12/18/24324527/ram-1500-rev-delayed-2026-ramcharger)
  - [Threads rolls out a way to reshare photos and videos without quote posting the original post, while crediting the original poster; users can disable the feature &lpar;Emma Roth/The Verge&rpar;](http://www.techmeme.com/241218/p32#a241218p32)
- - [The Fed Cut Rates Again, But Don&#39;t Expect Relief From Sky-High Credit Card Interest](https://www.cnet.com/personal-finance/the-fed-cut-interest-rates-again-what-it-means-for-your-credit-cards/#ftag=CAD590a51e)
- - [The Fed Cut Rates Again Today. Make These 4 Money Moves ASAP](https://www.cnet.com/personal-finance/banking/make-these-4-money-moves-before-fed-decision/#ftag=CAD590a51e)
- - [The Fed Cut Rates Again. Will Savings Account &amp; CD APYs Continue to Drop?](https://www.cnet.com/personal-finance/banking/the-fed-cut-rates-again-will-savings-account-cd-apys-continue-to-drop/#ftag=CAD590a51e)
- - [Dock Stations Make Life Easier and We Just Found This Baseus Model at an All-Time Low Price](https://www.cnet.com/deals/dock-stations-make-life-easier-and-we-just-found-this-baseus-model-at-an-all-time-low-price/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Intel announces the first updates to address Arrow Lake gaming performance issues, fixing four of five root causes, and plans a new update for January &lpar;Paul Alcorn/Tom&#39;s Hardware&rpar;](http://www.techmeme.com/241218/p31#a241218p31)
+ - [Congress Again Fails to Limit Scope of Spy Powers in New Defense Bill](https://www.wired.com/story/congress-spy-powers-fisa-ndaa-trump-702/)
+ - [Apple reportedly won’t launch an iPhone subscription service](https://www.theverge.com/2024/12/18/24324485/apple-iphone-subscription-service-wont-launch)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

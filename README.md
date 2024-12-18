@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Dad recorded his music-loving daughter&#39;s growth over the years.](http://9gag.com/gag/aoygKmA)
- - 😝 [Its not young people...its....](http://9gag.com/gag/aLnv1pz)
- - 💣 [Bro did not hesitate](http://9gag.com/gag/an7gg7B)
+ - 😝 [He looks familiar](http://9gag.com/gag/aoyg5R2)
+ - 😝 [When you thought the game was on easy mode](http://9gag.com/gag/a9y1EEm)
+ - 💣 [Yeah](http://9gag.com/gag/aXProP2)
  - 😝 [\ud83c\udf81 iPhone 16 Pro Giveaway\ud83d\udcf1](http://9gag.com/gag/aO8Q3nr)
- - 👉 [Tougher than the GTA helicopter mission](http://9gag.com/gag/aYQrV3v)<!-- MEMES:END -->
+ - 👉 [So the latest school shooter is a 17 year old girl. Statistically it was bound to happen eventually.](http://9gag.com/gag/ajPgmgq)<!-- MEMES:END -->
 
 ---
 

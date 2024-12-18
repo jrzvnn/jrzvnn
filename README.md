@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The best smart locks you can buy right now](https://www.theverge.com/23393163/best-smart-door-lock)
  - [Apple may have cancelled its long-rumored iPhone hardware subscription service](https://appleinsider.com/articles/24/12/18/apple-may-have-cancelled-its-iphone-hardware-subscription-service?utm_medium=rss)
  - [Source: Perplexity raised $500M led by Institutional Venture Partners at a $9B valuation earlier this month, up from a $3B valuation in June &lpar;Shirin Ghaffary/Bloomberg&rpar;](http://www.techmeme.com/241218/p30#a241218p30)
  - [This card game lets you build the ideal social network — or the most toxic](https://www.theverge.com/2024/12/18/24324420/one-billion-users-card-game-social-network-techdirt-kickstarter)
- - [Sources: Apple has halted work on a project to build an iPhone hardware subscription service, which had been in development since around 2022 &lpar;Mark Gurman/Bloomberg&rpar;](http://www.techmeme.com/241218/p29#a241218p29)
- - [Here are 40 last-minute gifts you can still grab in time for the holidays](https://www.theverge.com/24323542/best-last-minute-gifts-ideas-unique)<!-- TECH:END -->
+ - [Sources: Apple has halted work on a project to build an iPhone hardware subscription service, which had been in development since around 2022 &lpar;Mark Gurman/Bloomberg&rpar;](http://www.techmeme.com/241218/p29#a241218p29)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

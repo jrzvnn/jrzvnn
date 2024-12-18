@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [He looks familiar](http://9gag.com/gag/aoyg5R2)
- - 😝 [Welcome to London \ud83d\ude43](http://9gag.com/gag/axyBBDb)
- - 💣 [When you thought the game was on easy mode](http://9gag.com/gag/a9y1EEm)
+ - 😝 [Lol](http://9gag.com/gag/aGyzEdK)
+ - 😝 [Dad recorded his music-loving daughter&#39;s growth over the years.](http://9gag.com/gag/aoygKmA)
+ - 💣 [Bro did not hesitate](http://9gag.com/gag/an7gg7B)
  - 😝 [\ud83c\udf81 iPhone 16 Pro Giveaway\ud83d\udcf1](http://9gag.com/gag/aO8Q3nr)
- - 👉 [A woman in Italy freaks out in response to seeing a man and woman kiss in public](http://9gag.com/gag/abAgVev)<!-- MEMES:END -->
+ - 👉 [Its not young people...its....](http://9gag.com/gag/aLnv1pz)<!-- MEMES:END -->
 
 ---
 

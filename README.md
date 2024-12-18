@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Data center operator Vultr raised $333M led by LuminArx, with participation from AMD and others, at a $3.5B valuation, its first outside funding round &lpar;Belle Lin/Wall Street Journal&rpar;](http://www.techmeme.com/241218/p22#a241218p22)
  - [Best AI app to effortlessly remove background from image on Mac](https://appleinsider.com/articles/24/12/18/best-ai-app-to-effortlessly-remove-background-from-image-on-mac?utm_medium=rss)
  - [Tech antitrust is about to get really weird](https://www.theverge.com/24324167/tech-antitrust-trump-vance-google-monopoly-regulation-decoder-podcast-interview)
  - [15 Best Stocking Stuffers &lpar;2024&rpar;, Tested and Reviewed](https://www.wired.com/gallery/best-stocking-stuffers/)
- - [Alphabet’s Wing will deliver DoorDash by drone in Dallas-Fort Worth](https://www.theverge.com/2024/12/18/24324111/alphabet-wing-doordash-drone-deliveries-dallas-fort-worth)
- - [8 great games for your Steam Deck](https://www.theverge.com/24305570/steam-deck-best-games-2024-verified-playable-valve)<!-- TECH:END -->
+ - [Alphabet’s Wing will deliver DoorDash by drone in Dallas-Fort Worth](https://www.theverge.com/2024/12/18/24324111/alphabet-wing-doordash-drone-deliveries-dallas-fort-worth)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

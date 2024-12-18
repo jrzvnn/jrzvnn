@@ -159,7 +159,7 @@ R                        1 repo              ░░░░░░░░░░░�
 <!-- TECH:START -->
  - [The Kids Online Safety Act’s last stand](https://www.theverge.com/2024/12/18/24324276/kids-online-safety-act-parent-advocates)
  - [Botto, the Millionaire AI Artist, Is Getting a Personality](https://www.wired.com/story/botto-the-millionaire-ai-artist-is-getting-a-personality/)
- - [It was a rough year for robotaxis — but not for Waymo](https://www.theverge.com/24323593/waymo-year-in-review-robotaxi-trips-miles-growth-cost)
+ - [It’s been a rough year for robotaxis — but not for Waymo](https://www.theverge.com/24323593/waymo-year-in-review-robotaxi-trips-miles-growth-cost)
  - [Best Earplugs for Sleeping in 2024](https://www.cnet.com/health/sleep/best-earplugs-for-sleeping/#ftag=CAD590a51e)
  - [Sources: Amazon recently pushed back RTO dates for some staff in Austin, Dallas, and Phoenix by as much as four months, citing a lack of office space &lpar;Bloomberg&rpar;](http://www.techmeme.com/241218/p25#a241218p25)<!-- TECH:END -->
 

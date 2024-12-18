@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [What are the odds](http://9gag.com/gag/azxe2Ez)
- - 😝 [Merry Christmas](http://9gag.com/gag/aVvxvxK)
- - 💣 [BREAKING: Italian government &amp; Giorgio Meloni has made a move to chemically castrate convicted pedophiles and rapists. The left oppose it, claiming it\u2019s both racist and Islamophobic.](http://9gag.com/gag/aMV44pP)
+ - 😝 [Do I look like a new girlfriend?](http://9gag.com/gag/aNDPpjb)
+ - 😝 [Quick fix](http://9gag.com/gag/adBg8GV)
+ - 💣 [When you thought the game was on easy mode](http://9gag.com/gag/a9y1EEm)
  - 😝 [#TFORCEDANCE. Feeling Motivated Today? Join T-Force Dancing Challenge Now! Link in description!](http://9gag.com/gag/azxex9b)
- - 👉 [Tougher than the GTA helicopter mission](http://9gag.com/gag/aYQrV3v)<!-- MEMES:END -->
+ - 👉 [A man enters through below the door when the shop is about to close](http://9gag.com/gag/aYQrV6x)<!-- MEMES:END -->
 
 ---
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [A quick swim while parasailing](http://9gag.com/gag/a341ZL8)
- - 😝 [He looks familiar](http://9gag.com/gag/aoyg5R2)
- - 💣 [Slowly recall all your mind](http://9gag.com/gag/a1m11bG)
+ - 😝 [Do I look like a new girlfriend?](http://9gag.com/gag/aNDPpjb)
+ - 😝 [We are all equal](http://9gag.com/gag/aXProvV)
+ - 💣 [When you thought the game was on easy mode](http://9gag.com/gag/a9y1EEm)
  - 😝 [\ud83c\udf81 iPhone 16 Pro Giveaway\ud83d\udcf1](http://9gag.com/gag/aO8Q3nr)
- - 👉 [Merry X-files you degenerates](http://9gag.com/gag/aGyzd3n)<!-- MEMES:END -->
+ - 👉 [So the latest school shooter is a 17 year old girl. Statistically it was bound to happen eventually.](http://9gag.com/gag/ajPgmgq)<!-- MEMES:END -->
 
 ---
 

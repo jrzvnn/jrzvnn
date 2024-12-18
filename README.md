@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [eMarketer expects Instagram to hit $32B in US ad revenue in 2025, or 50% of Meta&#39;s ad sales; filings: Instagram was ~30% of Meta&#39;s global business in early 2022 &lpar;Aisha Counts/Bloomberg&rpar;](http://www.techmeme.com/241218/p19#a241218p19)
- - [Sources: US officials are investigating Chinese router maker TP-Link, which has an estimated 65% US market share, and could ban the sale of its routers in 2025 &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/241218/p18#a241218p18)
- - [iPhone 17 range will keep triangular camera system, claims leaker](https://appleinsider.com/articles/24/12/18/iphone-17-range-will-keep-triangular-camera-system-claims-leaker?utm_medium=rss)
- - [Omdia estimates Microsoft bought 485K of Nvidia&#39;s Hopper GPUs in 2024, ByteDance and Tencent bought ~230K each, Meta bought 225K, and Tesla/xAI bought ~200K &lpar;Financial Times&rpar;](http://www.techmeme.com/241218/p17#a241218p17)
- - [Best Internet Providers in Honolulu, Hawaii](https://www.cnet.com/home/internet/best-internet-providers-in-honolulu-hi/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [iPhone 17 camera layout may not radically change after all](https://appleinsider.com/articles/24/12/18/iphone-17-range-will-keep-triangular-camera-system-claims-leaker?utm_medium=rss)
+ - [The quickly disappearing web](https://www.theverge.com/24321569/internet-decay-link-rot-web-archive-deleted-culture)
+ - [Best Strategy Board Games for 2024](https://www.cnet.com/culture/entertainment/best-strategy-board-games/#ftag=CAD590a51e)
+ - [We Found a Deal That Knocks $240 Off the Motorola Razr Plus, but Only for Today](https://www.cnet.com/deals/we-found-a-deal-that-knocks-240-off-the-motorola-razr-plus-but-only-for-today/#ftag=CAD590a51e)
+ - [Best Internet Providers in Franklin, North Carolina](https://www.cnet.com/home/internet/best-internet-providers-in-franklin-nc/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [We are all equal](http://9gag.com/gag/aXProvV)
- - 😝 [Sigh.. what do you expect](http://9gag.com/gag/aqyGnwL)
- - 💣 [That\u2019s coolin buddy boy!](http://9gag.com/gag/aKGm7AN)
+ - 😝 [The female schoolshooter shared a link to a private manifesto no one can read, before she started blasting.](http://9gag.com/gag/aXProxz)
+ - 😝 [Quick fix](http://9gag.com/gag/adBg8GV)
+ - 💣 [How stupid are you?](http://9gag.com/gag/azxemDq)
  - 😝 [#TFORCEDANCE. Feeling Motivated Today? Join T-Force Dancing Challenge Now! Link in description!](http://9gag.com/gag/azxex9b)
- - 👉 [Yeah](http://9gag.com/gag/aXProP2)<!-- MEMES:END -->
+ - 👉 [When you thought the game was on easy mode](http://9gag.com/gag/a9y1EEm)<!-- MEMES:END -->
 
 ---
 

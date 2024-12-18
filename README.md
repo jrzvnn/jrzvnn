@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [So the latest school shooter is a 17 year old girl. Statistically it was bound to happen eventually.](http://9gag.com/gag/ajPgmgq)
- - 😝 [Yeah](http://9gag.com/gag/aXProP2)
- - 💣 [France. This will be deleted soon by leftist team of 9gag](http://9gag.com/gag/ayN9N8y)
+ - 😝 [I, for one, like Roman numerals](http://9gag.com/gag/agmgBM1)
+ - 😝 [France. This will be deleted soon by leftist team of 9gag](http://9gag.com/gag/ayN9N8y)
+ - 💣 [Merry Christmas](http://9gag.com/gag/aVvxvxK)
  - 😝 [#TFORCEDANCE. Feeling Motivated Today? Join T-Force Dancing Challenge Now! Link in description!](http://9gag.com/gag/azxex9b)
- - 👉 [Merry X-files you degenerates](http://9gag.com/gag/aGyzd3n)<!-- MEMES:END -->
+ - 👉 [We are all equal](http://9gag.com/gag/aXProvV)<!-- MEMES:END -->
 
 ---
 

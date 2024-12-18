@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [The state of gaming](http://9gag.com/gag/aW4gg5A)
- - 😝 [Its not young people...its....](http://9gag.com/gag/aLnv1pz)
- - 💣 [The master of parallel parking](http://9gag.com/gag/aD2DYA7)
+ - 😝 [Yes please](http://9gag.com/gag/agmgBKw)
+ - 😝 [Yeah](http://9gag.com/gag/aXProP2)
+ - 💣 [So the latest school shooter is a 17 year old girl. Statistically it was bound to happen eventually.](http://9gag.com/gag/ajPgmgq)
  - 😝 [#TFORCEDANCE. Feeling Motivated Today? Join T-Force Dancing Challenge Now! Link in description!](http://9gag.com/gag/azxex9b)
- - 👉 [What are the odds](http://9gag.com/gag/azxe2Ez)<!-- MEMES:END -->
+ - 👉 [France. This will be deleted soon by leftist team of 9gag](http://9gag.com/gag/ayN9N8y)<!-- MEMES:END -->
 
 ---
 

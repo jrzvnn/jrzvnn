@@ -159,9 +159,9 @@ R                        1 repo              ░░░░░░░░░░░�
 <!-- TECH:START -->
  - [Best AI app to effortlessly remove background from image on Mac](https://appleinsider.com/articles/24/12/18/best-ai-app-to-effortlessly-remove-background-from-image-on-mac?utm_medium=rss)
  - [Tech antitrust is about to get really weird](https://www.theverge.com/24324167/tech-antitrust-trump-vance-google-monopoly-regulation-decoder-podcast-interview)
+ - [15 Best Stocking Stuffers &lpar;2024&rpar;, Tested and Reviewed](https://www.wired.com/gallery/best-stocking-stuffers/)
  - [Alphabet’s Wing will deliver DoorDash by drone in Dallas-Fort Worth](https://www.theverge.com/2024/12/18/24324111/alphabet-wing-doordash-drone-deliveries-dallas-fort-worth)
- - [8 great games for your Steam Deck](https://www.theverge.com/24305570/steam-deck-best-games-2024-verified-playable-valve)
- - [Seagate is getting ready to launch its first high-capacity HAMR hard drive](https://www.theverge.com/2024/12/18/24324143/seagate-32tb-hamr-hard-drive)<!-- TECH:END -->
+ - [8 great games for your Steam Deck](https://www.theverge.com/24305570/steam-deck-best-games-2024-verified-playable-valve)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

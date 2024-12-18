@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Steve Jobs&#39; original Macintosh demo site is now rubble](https://appleinsider.com/articles/24/12/18/steve-jobs-original-macintosh-demo-site-is-now-rubble?utm_medium=rss)
+ - [The New Jersey drone hysteria exposes one salient truth: no one knows anything](https://www.theverge.com/2024/12/18/24324142/nj-drone-sightings-politicians-wrong)
  - [Flipboard’s Surf app is a big new idea about the future of social](https://www.theverge.com/2024/12/18/24323903/flipboard-surf-fediverse-social-web-app)
  - [Supreme Court will hear TikTok ban arguments in January](https://www.theverge.com/2024/12/18/24324293/supreme-court-tiktok-ban-case-granted-oral-arguments)
- - [Amazon unveils new packaging for its Echo, Kindle, and Fire TV products, including removing plastic, less paper and ink, and using more recycled fibers &lpar;Kurt Schlosser/GeekWire&rpar;](http://www.techmeme.com/241218/p24#a241218p24)
- - [Roku snaps up X Games streaming rights](https://www.theverge.com/2024/12/18/24324207/roku-x-games-streaming-rights-us)
- - [SCOTUS says it will hear a challenge on January 10 to a new law that could lead to a TikTok ban in the US, ahead of the law taking effect on January 19 &lpar;Melissa Quinn/CBS News&rpar;](http://www.techmeme.com/241218/p23#a241218p23)<!-- TECH:END -->
+ - [Amazon unveils new packaging for its Echo, Kindle, and Fire TV products, including removing plastic, less paper and ink, and using more recycled fibers &lpar;Kurt Schlosser/GeekWire&rpar;](http://www.techmeme.com/241218/p24#a241218p24)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

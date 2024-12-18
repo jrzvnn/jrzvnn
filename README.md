@@ -158,10 +158,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- TECH:START -->
  - [NERC, overseen by FERC, warns soaring electricity demand from sources including data centers to power AI could strain US and Canadian grids, risking blackouts &lpar;Myles McCormick/Financial Times&rpar;](http://www.techmeme.com/241218/p3#a241218p3)
+ - [Today&#39;s NYT Mini Crossword Answers for Wednesday, Dec. 18](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-wednesday-dec-18/#ftag=CAD590a51e)
  - [India&#39;s commerce minister says that Shein will operate in India purely as a tech partner, with Reliance Retail having full ownership and control of operations &lpar;Manish Singh/TechCrunch&rpar;](http://www.techmeme.com/241218/p2#a241218p2)
  - [Google introduces FACTS Grounding benchmark for evaluating the factuality of LLMs, and announces a leaderboard that ranks Gemini 2.0 Flash Experimental on top &lpar;Google DeepMind&rpar;](http://www.techmeme.com/241218/p1#a241218p1)
- - [Today&#39;s NYT Strands Hints, Answers and Help for Dec. 18, #290](https://www.cnet.com/tech/gaming/todays-nyt-strands-hints-answers-and-help-for-dec-18-290/#ftag=CAD590a51e)
- - [Today&#39;s NYT Connections Hints, Answers and Help for Dec. 18, #556](https://www.cnet.com/tech/gaming/todays-nyt-connections-hints-answers-and-help-for-dec-18-556/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Best Cheap Phone of 2024: Most Value for the Money](https://www.cnet.com/tech/mobile/best-cheap-phone/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

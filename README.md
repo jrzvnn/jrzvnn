@@ -166,9 +166,9 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Merry X-files you degenerates](http://9gag.com/gag/aGyzd3n)
- - 😝 [That\u2019s coolin buddy boy!](http://9gag.com/gag/aKGm7AN)
- - 💣 [How to cheat during interview](http://9gag.com/gag/amog5A6)
+ - 😝 [He looks familiar](http://9gag.com/gag/aoyg5R2)
+ - 😝 [Welcome to London \ud83d\ude43](http://9gag.com/gag/axyBBDb)
+ - 💣 [When you thought the game was on easy mode](http://9gag.com/gag/a9y1EEm)
  - 😝 [\ud83c\udf81 iPhone 16 Pro Giveaway\ud83d\udcf1](http://9gag.com/gag/aO8Q3nr)
  - 👉 [A woman in Italy freaks out in response to seeing a man and woman kiss in public](http://9gag.com/gag/abAgVev)<!-- MEMES:END -->
 

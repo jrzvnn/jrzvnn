@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Bluesky&#39;s use of domains to verify users has led to cybersquatting and impersonation, as domains don&#39;t offer enough social proof for the average person &lpar;Ernie Smith/Tedium&rpar;](http://www.techmeme.com/241217/p38#a241217p38)
  - [Intel finally notches a GPU win, confirms Arc B580 is selling out after stellar reviews](https://www.theverge.com/2024/12/17/24323888/intel-arc-b580-sold-out-availability)
  - [NYC-based Precision Neuroscience, a maker of brain-computer interfaces, raised a $102M Series C led by General Equity Holdings at a ~$500M post-money valuation &lpar;Richard Waters/Financial Times&rpar;](http://www.techmeme.com/241217/p37#a241217p37)
- - [The best fitness trackers to buy right now](https://www.theverge.com/22985108/best-fitness-tracker)
- - [Nvidia unveils Jetson Orin Nano Super Developer Kit, a $249 compact AI development board that promises 67 TOPS, compared to 40 TOPS of the $499 last-gen kit &lpar;Avram Piltch/Tom&#39;s Hardware&rpar;](http://www.techmeme.com/241217/p36#a241217p36)
- - [Best Blue Light Glasses of 2024](https://www.cnet.com/health/personal-care/best-blue-light-blocking-glasses/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Casper Dream Hybrid Mattress Review 2024: Casper&#39;s Most Accommodating Bed](https://www.cnet.com/health/sleep/casper-dream-hybrid-review/#ftag=CAD590a51e)
+ - [Best Pillow-Top Mattresses for 2024](https://www.cnet.com/health/sleep/best-pillow-top-mattress/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

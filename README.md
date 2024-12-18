@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Dad recorded his music-loving daughter&#39;s growth over the years.](http://9gag.com/gag/aoygKmA)
- - 😝 [Bro did not hesitate](http://9gag.com/gag/an7gg7B)
- - 💣 [This is what it means when Google Weather says &#39;Feels Like Snowing&#39;](http://9gag.com/gag/agmgoOK)
+ - 😝 [Merry X-files you degenerates](http://9gag.com/gag/aGyzd3n)
+ - 😝 [That\u2019s coolin buddy boy!](http://9gag.com/gag/aKGm7AN)
+ - 💣 [How to cheat during interview](http://9gag.com/gag/amog5A6)
  - 😝 [\ud83c\udf81 iPhone 16 Pro Giveaway\ud83d\udcf1](http://9gag.com/gag/aO8Q3nr)
- - 👉 [Its not young people...its....](http://9gag.com/gag/aLnv1pz)<!-- MEMES:END -->
+ - 👉 [A woman in Italy freaks out in response to seeing a man and woman kiss in public](http://9gag.com/gag/abAgVev)<!-- MEMES:END -->
 
 ---
 

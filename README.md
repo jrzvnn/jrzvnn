@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [The state of gaming](http://9gag.com/gag/aW4gg5A)
- - 😝 [Its not young people...its....](http://9gag.com/gag/aLnv1pz)
- - 💣 [The master of parallel parking](http://9gag.com/gag/aD2DYA7)
+ - 😝 [She knew, she definitely knew.](http://9gag.com/gag/aXPrr9P)
+ - 😝 [To be fair, Missouri is like a different planet, speaking as a person that lives in the state](http://9gag.com/gag/aAyG0YL)
+ - 💣 [Sigh.. what do you expect](http://9gag.com/gag/aqyGnwL)
  - 😝 [#TFORCEDANCE. Feeling Motivated Today? Join T-Force Dancing Challenge Now! Link in description!](http://9gag.com/gag/azxex9b)
- - 👉 [What are the odds](http://9gag.com/gag/azxe2Ez)<!-- MEMES:END -->
+ - 👉 [We are all equal](http://9gag.com/gag/aXProvV)<!-- MEMES:END -->
 
 ---
 

@@ -169,7 +169,7 @@ R                        1 repo              ░░░░░░░░░░░�
  - 😝 [So the latest school shooter is a 17 year old girl. Statistically it was bound to happen eventually.](http://9gag.com/gag/ajPgmgq)
  - 😝 [A quick swim while parasailing](http://9gag.com/gag/a341ZL8)
  - 💣 [When you thought the game was on easy mode](http://9gag.com/gag/a9y1EEm)
- - 😝 [\ud83c\udf81 iPhone 16 Pro Giveaway\ud83d\udcf1](http://9gag.com/gag/aO8Q3nr)
+ - 😝 [#TFORCEDANCE. Feeling Motivated Today? Join T-Force Dancing Challenge Now! Link in description!](http://9gag.com/gag/azxex9b)
  - 👉 [Christmas Gorilla \ud83c\udf84 \ud83e\udd8d](http://9gag.com/gag/aMV44zx)<!-- MEMES:END -->
 
 ---

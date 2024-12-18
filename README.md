@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [He looks familiar](http://9gag.com/gag/aoyg5R2)
- - 😝 [When you thought the game was on easy mode](http://9gag.com/gag/a9y1EEm)
- - 💣 [Yeah](http://9gag.com/gag/aXProP2)
+ - 😝 [Yeah](http://9gag.com/gag/aXProP2)
+ - 😝 [A woman in Italy freaks out in response to seeing a man and woman kiss in public](http://9gag.com/gag/abAgVev)
+ - 💣 [So the latest school shooter is a 17 year old girl. Statistically it was bound to happen eventually.](http://9gag.com/gag/ajPgmgq)
  - 😝 [\ud83c\udf81 iPhone 16 Pro Giveaway\ud83d\udcf1](http://9gag.com/gag/aO8Q3nr)
- - 👉 [So the latest school shooter is a 17 year old girl. Statistically it was bound to happen eventually.](http://9gag.com/gag/ajPgmgq)<!-- MEMES:END -->
+ - 👉 [He looks familiar](http://9gag.com/gag/aoyg5R2)<!-- MEMES:END -->
 
 ---
 

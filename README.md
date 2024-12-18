@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [LG will bring its wireless TV tech to Mini LED models in 2025](https://www.theverge.com/2024/12/18/24324162/lg-qned-mini-led-zero-connect-box-wireless-tv)
+ - [US may ban the most popular home router over Chinese security fears](https://appleinsider.com/articles/24/12/18/us-may-ban-the-most-popular-home-router-over-chinese-security-fears?utm_medium=rss)
  - [Death of a Unicorn’s first trailer brings a fairytale creature into a dark comedy](https://www.theverge.com/2024/12/18/24323773/death-of-a-unicorn-trailer-a24)
  - [This Z-Wave smart plug can work over a mile from your house](https://www.theverge.com/2024/12/18/24324097/shelly-wave-zwave-long-range-smart-plug-availability)
- - [Social networks in 2024: bless this mess](https://www.theverge.com/24314116/bluesky-threads-2024-social-media-networks-fediverse-twitter-x)
- - [Q&amp;A with Microsoft Chief Product Officer of Responsible AI Sarah Bird on generative AI, its impact on work, Copilots, OpenAI, AGI, AI agents, bias, and more &lpar;Cristina Criddle/Financial Times&rpar;](http://www.techmeme.com/241218/p21#a241218p21)
- - [Best Internet Providers in Houston](https://www.cnet.com/home/internet/best-internet-providers-in-houston-tx/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Social networks in 2024: bless this mess](https://www.theverge.com/24314116/bluesky-threads-2024-social-media-networks-fediverse-twitter-x)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

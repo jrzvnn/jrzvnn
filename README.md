@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Sources: US officials are investigating Chinese router maker TP-Link, which has an estimated 65% US market share, and could ban the sale of its routers in 2025 &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/241218/p18#a241218p18)
+ - [iPhone 17 range will keep triangular camera system, claims leaker](https://appleinsider.com/articles/24/12/18/iphone-17-range-will-keep-triangular-camera-system-claims-leaker?utm_medium=rss)
  - [Omdia estimates Microsoft bought 485K of Nvidia&#39;s Hopper GPUs in 2024, ByteDance and Tencent bought ~230K each, Meta bought 225K, and Tesla/xAI bought ~200K &lpar;Financial Times&rpar;](http://www.techmeme.com/241218/p17#a241218p17)
- - [SandboxAQ, which aims to apply quantum tech and techniques to AI, raised $300M from Alger, Yann LeCun, and others at a $5.6B valuation to recruit more engineers &lpar;Bloomberg&rpar;](http://www.techmeme.com/241218/p16#a241218p16)
- - [After a rough year, Intel says its $250 Arc B580 &quot;Battlemage&quot; GPU, which received near-universal praise from reviewers, has already sold out in most retailers &lpar;Sean Hollister/The Verge&rpar;](http://www.techmeme.com/241218/p15#a241218p15)
- - [The Study That Called Out Black Plastic Utensils Had a Major Math Error](https://www.wired.com/story/black-plastic-utensils-study-math-error-correction/)
- - [Analysis: as uncertainty looms over Japan&#39;s China-dependent chipmaking stocks, Sony, Nintendo, and Capcom have seen double-digit returns since Trump&#39;s victory &lpar;Bloomberg&rpar;](http://www.techmeme.com/241218/p14#a241218p14)<!-- TECH:END -->
+ - [Best Internet Providers in Honolulu, Hawaii](https://www.cnet.com/home/internet/best-internet-providers-in-honolulu-hi/#ftag=CAD590a51e)
+ - [SandboxAQ, which aims to apply quantum tech and techniques to AI, raised $300M from Alger, Yann LeCun, and others at a $5.6B valuation to recruit more engineers &lpar;Bloomberg&rpar;](http://www.techmeme.com/241218/p16#a241218p16)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

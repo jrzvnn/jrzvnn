@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [NERC, overseen by FERC, warns soaring electricity demand from sources including data centers to power AI could strain US and Canadian grids, risking blackouts &lpar;Myles McCormick/Financial Times&rpar;](http://www.techmeme.com/241218/p3#a241218p3)
  - [India&#39;s commerce minister says that Shein will operate in India purely as a tech partner, with Reliance Retail having full ownership and control of operations &lpar;Manish Singh/TechCrunch&rpar;](http://www.techmeme.com/241218/p2#a241218p2)
  - [Google introduces FACTS Grounding benchmark for evaluating the factuality of LLMs, and announces a leaderboard that ranks Gemini 2.0 Flash Experimental on top &lpar;Google DeepMind&rpar;](http://www.techmeme.com/241218/p1#a241218p1)
  - [Today&#39;s NYT Strands Hints, Answers and Help for Dec. 18, #290](https://www.cnet.com/tech/gaming/todays-nyt-strands-hints-answers-and-help-for-dec-18-290/#ftag=CAD590a51e)
- - [Today&#39;s NYT Connections Hints, Answers and Help for Dec. 18, #556](https://www.cnet.com/tech/gaming/todays-nyt-connections-hints-answers-and-help-for-dec-18-556/#ftag=CAD590a51e)
- - [Satechi 6-in-1 Slim USB-C Adapter review: Few ports, fewer complaints](https://appleinsider.com/articles/24/12/18/satechi-6-in-1-slim-usb-c-adapter-review-few-ports-fewer-complaints?utm_medium=rss)<!-- TECH:END -->
+ - [Today&#39;s NYT Connections Hints, Answers and Help for Dec. 18, #556](https://www.cnet.com/tech/gaming/todays-nyt-connections-hints-answers-and-help-for-dec-18-556/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

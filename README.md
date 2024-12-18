@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The UK Gambling Commission blocks eight illegal casinos using Roblox to lure children into online gambling, following a news investigation into the casinos &lpar;Sky News&rpar;](http://www.techmeme.com/241218/p11#a241218p11)
+ - [The Edgelord AI That Seduced Marc Andreessen, Then Turned a Famed Shock Meme Into Cryptomillions](https://www.wired.com/story/truth-terminal-goatse-crypto-millionaire/)
  - [A profile of 114-year-old Japanese conglomerate Hitachi, whose market cap recently hit $100B after becoming an industrial software and hardware provider &lpar;Financial Times&rpar;](http://www.techmeme.com/241218/p10#a241218p10)
  - [A profile of Tyler Denk, co-founder of newsletter platform Beehiiv, which raised a $33M Series B in April 2024 and generates $1.6M to $1.75M in monthly revenue &lpar;Ben Sherry/Inc&rpar;](http://www.techmeme.com/241218/p9#a241218p9)
- - [A look at Microsoft&#39;s risky Xbox strategy, where exclusives are the exception; sources say Microsoft is working on cross-platform Xbox interface Project Rainway &lpar;Jez Corden/Windows Central&rpar;](http://www.techmeme.com/241218/p8#a241218p8)
- - [Generative AI and Climate Change Are on a Collision Course](https://www.wired.com/story/true-cost-generative-ai-data-centers-energy/)
- - [Masayoshi Son&#39;s $100B AI investment pledge to Trump would require a massive fundraising effort, new debt, or selling some of SoftBank&#39;s holdings to raise cash &lpar;Eliot Brown/Wall Street Journal&rpar;](http://www.techmeme.com/241218/p7#a241218p7)<!-- TECH:END -->
+ - [A look at Microsoft&#39;s risky Xbox strategy, where exclusives are the exception; sources say Microsoft is working on cross-platform Xbox interface Project Rainway &lpar;Jez Corden/Windows Central&rpar;](http://www.techmeme.com/241218/p8#a241218p8)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

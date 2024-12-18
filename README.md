@@ -166,8 +166,8 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Kamala would&#39;ve given her a credit card](http://9gag.com/gag/azxeM6b)
- - 😝 [New cars with screens everywhere, haptic feedback buttons and full of electronics that are expensive to repair. Sometimes less is more.](http://9gag.com/gag/aQzXXzz)
+ - 😝 [Tougher than the GTA helicopter mission](http://9gag.com/gag/aYQrV3v)
+ - 😝 [Dad recorded his music-loving daughter&#39;s growth over the years.](http://9gag.com/gag/aoygKmA)
  - 💣 [Its not young people...its....](http://9gag.com/gag/aLnv1pz)
  - 😝 [\ud83c\udf81 iPhone 16 Pro Giveaway\ud83d\udcf1](http://9gag.com/gag/aO8Q3nr)
  - 👉 [Bro did not hesitate](http://9gag.com/gag/an7gg7B)<!-- MEMES:END -->

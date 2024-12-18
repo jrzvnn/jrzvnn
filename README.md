@@ -170,7 +170,7 @@ R                        1 repo              ░░░░░░░░░░░�
  - 😝 [Girl tried to kill 10 people with a gun at a school in Brazil, Lyedja Yasmin, 19](http://9gag.com/gag/aD2D2LN)
  - 💣 [German police randomly searching dangerous people at the Christmas market....clown world.](http://9gag.com/gag/abAgeqL)
  - 😝 [#TFORCEDANCE. Feeling Motivated Today? Join T-Force Dancing Challenge Now! Link in description!](http://9gag.com/gag/azxex9b)
- - 👉 [Merry X-files you degenerates](http://9gag.com/gag/aGyzd3n)<!-- MEMES:END -->
+ - 👉 [What is the best alternative sub Reddit for this level of master craftsmanship?](https://www.reddit.com/r/funny/comments/1hhcc2y/what_is_the_best_alternative_sub_reddit_for_this/)<!-- MEMES:END -->
 
 ---
 

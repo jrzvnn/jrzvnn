@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [This waterproof coffin will keep an AirTag alive for a decade](https://www.theverge.com/2024/12/18/24324526/elevation-lab-time-capsule-apple-air-tag-battery-life)
+ - [The Nintendo Switch 2 and its dock, as described by the mystery Reddit leaker](https://www.theverge.com/2024/12/18/24324483/nintendo-switch-2-leak-reddit-next-handheld)
+ - [This waterproof coffin gives your AirTag 10 years of battery life](https://www.theverge.com/2024/12/18/24324526/elevation-lab-time-capsule-apple-air-tag-battery-life)
  - [The best smartwatches for Android](https://www.theverge.com/23449363/best-android-smartwatches-wear-os)
  - [Wrapped 2024: the annual app recaps are here](https://www.theverge.com/24301386/spotify-wrapped-2024-apple-music-replay-youtube-music-recap)
- - [Sony details PS5 Pro specs, including its GPU based on AMD RDNA 2 with 16.7TF of performance and ray tracing improvements, and announces a partnership with AMD &lpar;Will Judd/Eurogamer.net&rpar;](http://www.techmeme.com/241218/p34#a241218p34)
- - [NASA Postpones Return of Stranded Starliner Astronauts to March](https://www.wired.com/story/boeing-starliner-astronauts-stranded-until-march-nasa/)<!-- TECH:END -->
+ - [Sony details PS5 Pro specs, including its GPU based on AMD RDNA 2 with 16.7TF of performance and ray tracing improvements, and announces a partnership with AMD &lpar;Will Judd/Eurogamer.net&rpar;](http://www.techmeme.com/241218/p34#a241218p34)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

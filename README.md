@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [You can now call 1-800-CHATGPT](https://www.theverge.com/2024/12/18/24324376/openai-shipmas-1-800-chatgpt-whatsapp)
- - [Pick up Apple&#39;s M4 iPad Pro for $849 with delivery by Christmas](https://appleinsider.com/articles/24/12/18/pick-up-apples-m4-ipad-pro-for-849-with-delivery-by-christmas?utm_medium=rss)
- - [OpenAI rolls out a way to talk to ChatGPT by dialing 1-800-CHATGPT for 15 minutes of free access per month in the US or messaging it via WhatsApp globally &lpar;Hayden Field/CNBC&rpar;](http://www.techmeme.com/241218/p27#a241218p27)
- - [LG’s transparent OLED TV will put a very visible $60,000 hole in your wallet](https://www.theverge.com/2024/12/18/24324379/lg-signature-oled-t-transparent-tv-price-announced)
- - [CDC Confirms First US Case of Severe Bird Flu](https://www.wired.com/story/cdc-confirms-first-us-case-of-severe-bird-flu/)<!-- TECH:END -->
+ - [Here are 40 last-minute gifts you can still grab in time for the holidays](https://www.theverge.com/24323542/best-last-minute-gifts-ideas-unique)
+ - [GitHub makes its Copilot free in VS Code, with 2,000 code completions and 50 chat messages per month; GitHub now has 150M developers, up from 100M in early 2023 &lpar;Frederic Lardinois/TechCrunch&rpar;](http://www.techmeme.com/241218/p28#a241218p28)
+ - [Why is every picture of the New Jersey drones so bad?](https://www.theverge.com/2024/12/18/24324347/new-jersey-drones-photos-phone-camera)
+ - [Supreme Court to Hear TikTok Case: What to Know](https://www.cnet.com/tech/services-and-software/appeals-court-upholds-tiktok-ban-what-to-know/#ftag=CAD590a51e)
+ - [Last Chance to Bag Refurb iPhones and Apple Watches Starting at Just $110](https://www.cnet.com/deals/last-chance-to-bag-refurb-iphones-and-apple-watches-starting-at-just-110/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

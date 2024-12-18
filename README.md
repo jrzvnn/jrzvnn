@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Intel outlines the performance fixes for Arrow Lake CPUs](https://www.theverge.com/2024/12/18/24324594/intel-performance-arrow-lake-core-ultra-200s-cpus)
  - [Apple says Meta has made 15 interoperability requests under the EU&#39;s DMA, more than any other company, and that these could affect users&#39; privacy and security &lpar;Foo Yun Chee/Reuters&rpar;](http://www.techmeme.com/241218/p35#a241218p35)
  - [Here’s everything we don’t know about New Jersey’s drone mystery](https://www.theverge.com/24324635/new-jersey-drones-rumors-nj-news)
  - [The Nintendo Switch 2 and its dock, as described by the mystery Reddit leaker](https://www.theverge.com/2024/12/18/24324483/nintendo-switch-2-leak-reddit-next-handheld)
- - [This waterproof coffin gives your AirTag 10 years of battery life](https://www.theverge.com/2024/12/18/24324526/elevation-lab-time-capsule-apple-air-tag-battery-life)
- - [Rhode Island Residents: Your Personal Data May Be Leaked After RIBridges Breach](https://www.cnet.com/personal-finance/rhode-island-residents-your-personal-data-may-be-leaked-after-ribridges-breach/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [This waterproof coffin gives your AirTag 10 years of battery life](https://www.theverge.com/2024/12/18/24324526/elevation-lab-time-capsule-apple-air-tag-battery-life)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Do I look like a new girlfriend?](http://9gag.com/gag/aNDPpjb)
- - 😝 [A man enters through below the door when the shop is about to close](http://9gag.com/gag/aYQrV6x)
- - 💣 [A woman in Italy freaks out in response to seeing a man and woman kiss in public](http://9gag.com/gag/abAgVev)
+ - 😝 [We are all equal](http://9gag.com/gag/aXProvV)
+ - 😝 [She knew, she definitely knew.](http://9gag.com/gag/aXPrr9P)
+ - 💣 [So the latest school shooter is a 17 year old girl. Statistically it was bound to happen eventually.](http://9gag.com/gag/ajPgmgq)
  - 😝 [#TFORCEDANCE. Feeling Motivated Today? Join T-Force Dancing Challenge Now! Link in description!](http://9gag.com/gag/azxex9b)
- - 👉 [France. This will be deleted soon by leftist team of 9gag](http://9gag.com/gag/ayN9N8y)<!-- MEMES:END -->
+ - 👉 [Do I look like a new girlfriend?](http://9gag.com/gag/aNDPpjb)<!-- MEMES:END -->
 
 ---
 

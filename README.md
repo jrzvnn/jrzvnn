@@ -168,7 +168,7 @@ R                        1 repo              ░░░░░░░░░░░�
 <!-- MEMES:START -->
  - 😝 [This electrician came to change the front bulb so I decided that she should change all of them while at it](http://9gag.com/gag/a9y1yKL)
  - 😝 [Italian food is the best](http://9gag.com/gag/ajPgPzG)
- - 💣 [They are not Romanians, they are Gypsies. Let the healing begin.](http://9gag.com/gag/amogWGo)
+ - 💣 [German police randomly searching dangerous people at the Christmas market....clown world.](http://9gag.com/gag/abAgeqL)
  - 😝 [#TFORCEDANCE. Feeling Motivated Today? Join T-Force Dancing Challenge Now! Link in description!](http://9gag.com/gag/azxex9b)
  - 👉 [Story found on the internet](http://9gag.com/gag/a0eZe9n)<!-- MEMES:END -->
 

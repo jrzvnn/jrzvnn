@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [iPhone 17 camera layout may not radically change after all](https://appleinsider.com/articles/24/12/18/iphone-17-range-will-keep-triangular-camera-system-claims-leaker?utm_medium=rss)
- - [The quickly disappearing web](https://www.theverge.com/24321569/internet-decay-link-rot-web-archive-deleted-culture)
- - [Best Strategy Board Games for 2024](https://www.cnet.com/culture/entertainment/best-strategy-board-games/#ftag=CAD590a51e)
- - [We Found a Deal That Knocks $240 Off the Motorola Razr Plus, but Only for Today](https://www.cnet.com/deals/we-found-a-deal-that-knocks-240-off-the-motorola-razr-plus-but-only-for-today/#ftag=CAD590a51e)
- - [Best Internet Providers in Franklin, North Carolina](https://www.cnet.com/home/internet/best-internet-providers-in-franklin-nc/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [AirPods Max four years later: a missed spatial computing opportunity](https://appleinsider.com/articles/24/12/18/airpods-max-four-years-later-a-missed-spatial-computing-opportunity?utm_medium=rss)
+ - [Bureau, which offers tools to prevent user identity fraud, raised a $30M Series B led by Sorenson Capital, a source says at a ~$150M valuation &lpar;Jaspreet Singh/Reuters&rpar;](http://www.techmeme.com/241218/p20#a241218p20)
+ - [US targets TP-Link with a potential ban on the Chinese routers](https://www.theverge.com/2024/12/18/24324140/tp-link-us-investigation-ban-chinese-routers)
+ - [Apple is already working on visionOS 3.0 and visionOS 2.4](https://appleinsider.com/articles/24/12/17/apple-is-already-working-on-visionos-30-and-visionos-24-evidence-suggests?utm_medium=rss)
+ - [iPhone 17 camera layout may not radically change after all](https://appleinsider.com/articles/24/12/18/iphone-17-range-will-keep-triangular-camera-system-claims-leaker?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

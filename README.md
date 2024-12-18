@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The Kids Online Safety Act’s last stand](https://www.theverge.com/2024/12/18/24324276/kids-online-safety-act-parent-advocates)
  - [Botto, the Millionaire AI Artist, Is Getting a Personality](https://www.wired.com/story/botto-the-millionaire-ai-artist-is-getting-a-personality/)
  - [It was a rough year for robotaxis — but not for Waymo](https://www.theverge.com/24323593/waymo-year-in-review-robotaxi-trips-miles-growth-cost)
  - [Sources: Amazon recently pushed back RTO dates for some staff in Austin, Dallas, and Phoenix by as much as four months, citing a lack of office space &lpar;Bloomberg&rpar;](http://www.techmeme.com/241218/p25#a241218p25)
- - [Steve Jobs&#39; original Macintosh demo site is now rubble](https://appleinsider.com/articles/24/12/18/steve-jobs-original-macintosh-demo-site-is-now-rubble?utm_medium=rss)
- - [The New Jersey drone hysteria exposes one salient truth: no one knows anything](https://www.theverge.com/2024/12/18/24324142/nj-drone-sightings-politicians-wrong)<!-- TECH:END -->
+ - [Steve Jobs&#39; original Macintosh demo site is now rubble](https://appleinsider.com/articles/24/12/18/steve-jobs-original-macintosh-demo-site-is-now-rubble?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

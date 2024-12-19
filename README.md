@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Amazon&#39;s best $249 iPad 10th Generation deal is back](https://appleinsider.com/articles/24/12/19/amazons-best-249-ipad-10th-generation-deal-is-back?utm_medium=rss)
  - [GOP Lawmakers Want Elon Musk to Be Speaker of the House](https://www.wired.com/story/gop-lawmakers-want-elon-musk-to-be-speaker-of-the-house/)
- - [Best Internet Providers in Irving, Texas](https://www.cnet.com/home/internet/best-internet-providers-in-irving-tx/#ftag=CAD590a51e)
- - [Leesa Legend Mattress Review 2024: An Extra-Supportive Hybrid Bed for Everyone](https://www.cnet.com/health/sleep/leesa-legend-mattress-review/#ftag=CAD590a51e)
  - [Sources: the US&#39; proposed AI chip rules would block adversaries entirely, and give others quotas based on their US alignment, threatening Nvidia&#39;s expansion &lpar;New York Times&rpar;](http://www.techmeme.com/241219/p29#a241219p29)
- - [Best Vitamins for Energy in 2024](https://www.cnet.com/health/nutrition/best-vitamins-for-energy/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Google reveals AI ‘reasoning’ model that ‘explicitly shows its thoughts’](https://www.theverge.com/2024/12/19/24325169/google-ai-reasoning-model-gemini-flash-2-thinking)
+ - [Every AI Copyright Lawsuit in the US, Visualized](https://www.wired.com/story/ai-copyright-case-tracker/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

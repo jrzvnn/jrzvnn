@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [9 Best Standing Desks of 2024, Tested and Reviewed](https://www.wired.com/gallery/best-standing-desks/)
+ - [Congress approves $3B in funding for a project to remove Huawei and ZTE equipment from US networks nationwide; Trump&#39;s FCC started the initiative in 2020 &lpar;Washington Post&rpar;](http://www.techmeme.com/241219/p19#a241219p19)
  - [How Bengaluru, the &quot;Silicon Valley of India&quot;, is under pressure as rapid growth tests local infrastructure; its population jumped from 8M in 2010 to ~14M now &lpar;Business Insider&rpar;](http://www.techmeme.com/241219/p18#a241219p18)
  - [Apple pushed hard by EU to make iOS and iPadOS more interoperable](https://www.theverge.com/2024/12/19/24324894/apple-eu-ios-interoperability-requests-dma-pushback)
- - [Swiss tech advisory SoftwareOne to buy Norwegian rival Crayon in a cash and stock deal valuing Crayon at ~$1.4B; the combined firm will have ~$1.8B in revenue &lpar;Paul Arnold/Reuters&rpar;](http://www.techmeme.com/241219/p17#a241219p17)
- - [The US finalizes a $458M grant for SK Hynix under the CHIPS Act and $500M in loans to build a $3.87B chip packaging facility in Indiana &lpar;Mackenzie Hawkins/Bloomberg&rpar;](http://www.techmeme.com/241219/p16#a241219p16)
- - [This VPN Lets Anyone Use Your Internet Connection. What Could Go Wrong?](https://www.wired.com/story/residential-proxy-network-cybercrime-vpn/)<!-- TECH:END -->
+ - [28 of the Best TikTok Gifts That Are Actually Worth the Hype in 2024](https://www.cnet.com/news/best-tiktok-gifts/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

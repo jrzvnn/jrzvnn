@@ -161,7 +161,7 @@ R                        1 repo              ░░░░░░░░░░░�
  - [Sources: Apple is in early-stage talks with Tencent and ByteDance about integrating their AI models into iPhones sold in China; ChatGPT is unavailable in China &lpar;Reuters&rpar;](http://www.techmeme.com/241219/p10#a241219p10)
  - [13 Habits of Highly Effective Risk-Takers](https://www.wired.com/story/thirteen-habits-highly-effective-risk-takers/)
  - [A look at Truth Terminal, an AI bot on X that was created to spark debate about AI alignment, as its crypto wallet swells to ~$40M after boosting memecoins &lpar;Joel Khalili/Wired&rpar;](http://www.techmeme.com/241219/p9#a241219p9)
- - [KitchenAid Promo Codes and Coupons: $170 Off Select Items](https://www.wired.com/story/exclusive-kitchenaid-promo-code/)<!-- TECH:END -->
+ - [Home Equity Borrowing Should Get Cheaper After Fed Rate Cut](https://www.cnet.com/personal-finance/home-equity-borrowing-should-get-cheaper-after-fed-rate-cut/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

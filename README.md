@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Wait for the light to turn green...](http://9gag.com/gag/aAyGEgp)
- - 😝 [What a B*tch!](http://9gag.com/gag/aW4g743)
- - 💣 [King of Spain during improper flag raising](http://9gag.com/gag/aNDPvb4)
- - 😝 [In the absence of a mobile phone, this is how I imagine about myself.](http://9gag.com/gag/aZZrn7V)
- - 👉 [I just know it\u2019s good](http://9gag.com/gag/agmgOQg)<!-- MEMES:END -->
+ - 😝 [When your instinct almost betray you](http://9gag.com/gag/a5Q1B8r)
+ - 😝 [Interesting](http://9gag.com/gag/ae9g4M5)
+ - 💣 [Gamble away](http://9gag.com/gag/a0eZewq)
+ - 😝 [Run away Matt! Run away!](http://9gag.com/gag/aLnvzvA)
+ - 👉 [Spreader](http://9gag.com/gag/aE08Vb9)<!-- MEMES:END -->
 
 ---
 

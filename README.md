@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Imagine a world with this kind of funny...](http://9gag.com/gag/aD2DY5Z)
- - 😝 [Guess I&#39;ll die now](http://9gag.com/gag/aO8QQ4y)
- - 💣 [Merry Christmas](http://9gag.com/gag/aVvxvxK)
+ - 😝 [Always Bruv!](http://9gag.com/gag/aKGm6nW)
+ - 😝 [Do I look like a new girlfriend?](http://9gag.com/gag/aNDPpjb)
+ - 💣 [This is a fiction show, but lots of women really behave like this irl, zero accountability.](http://9gag.com/gag/aW4gGjn)
  - 😝 [#TFORCEDANCE. Feeling Motivated Today? Join T-Force Dancing Challenge Now! Link in description!](http://9gag.com/gag/azxex9b)
- - 👉 [This gave me some brain freeze\u2026](http://9gag.com/gag/aMV44RP)<!-- MEMES:END -->
+ - 👉 [American modern math](http://9gag.com/gag/aAyGQVp)<!-- MEMES:END -->
 
 ---
 

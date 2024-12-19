@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Lol](http://9gag.com/gag/aGyzEdK)
+ - 😝 [Run away Matt! Run away!](http://9gag.com/gag/aLnvzvA)
  - 😝 [Peter Parker should have picked Ursula over MJ.](http://9gag.com/gag/aQzXgnW)
- - 💣 [A man enters through below the door when the shop is about to close](http://9gag.com/gag/aYQrV6x)
- - 😝 [Slowly recall all your mind](http://9gag.com/gag/a1m11bG)
- - 👉 [They are not Romanians, they are Gypsies. Let the healing begin.](http://9gag.com/gag/amogWGo)<!-- MEMES:END -->
+ - 💣 [Girl tried to kill 10 people with a gun at a school in Brazil, Lyedja Yasmin, 19](http://9gag.com/gag/aD2D2LN)
+ - 😝 [This is a fiction show, but lots of women really behave like this irl, zero accountability.](http://9gag.com/gag/aW4gGjn)
+ - 👉 [Lol](http://9gag.com/gag/aGyzEdK)<!-- MEMES:END -->
 
 ---
 

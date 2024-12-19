@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [How great the weather feels is up to you. How sexy it feels is up to your news channel.](http://9gag.com/gag/a1m1DvR)
  - 😝 [Run away Matt! Run away!](http://9gag.com/gag/aLnvzvA)
- - 💣 [I didn&#39;t know but now I know, and you know too.](http://9gag.com/gag/aE08VPM)
- - 😝 [Man helps police make an arrest.](http://9gag.com/gag/aBynLZN)
- - 👉 [King of Spain during improper flag raising](http://9gag.com/gag/aNDPvb4)<!-- MEMES:END -->
+ - 😝 [Girl tried to kill 10 people with a gun at a school in Brazil, Lyedja Yasmin, 19](http://9gag.com/gag/aD2D2LN)
+ - 💣 [King of Spain during improper flag raising](http://9gag.com/gag/aNDPvb4)
+ - 😝 [A dignified scam](http://9gag.com/gag/aQzXQx7)
+ - 👉 [How great the weather feels is up to you. How sexy it feels is up to your news channel.](http://9gag.com/gag/a1m1DvR)<!-- MEMES:END -->
 
 ---
 

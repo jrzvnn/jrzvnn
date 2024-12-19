@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [American modern math](http://9gag.com/gag/aAyGQVp)
- - 😝 [At least she didn&#39;t run and yell](http://9gag.com/gag/a871EX1)
- - 💣 [Do I look like a new girlfriend?](http://9gag.com/gag/aNDPpjb)
+ - 😝 [Imagine a world with this kind of funny...](http://9gag.com/gag/aD2DY5Z)
+ - 😝 [Guess I&#39;ll die now](http://9gag.com/gag/aO8QQ4y)
+ - 💣 [Merry Christmas](http://9gag.com/gag/aVvxvxK)
  - 😝 [#TFORCEDANCE. Feeling Motivated Today? Join T-Force Dancing Challenge Now! Link in description!](http://9gag.com/gag/azxex9b)
- - 👉 [Girl tried to kill 10 people with a gun at a school in Brazil, Lyedja Yasmin, 19](http://9gag.com/gag/aD2D2LN)<!-- MEMES:END -->
+ - 👉 [This gave me some brain freeze\u2026](http://9gag.com/gag/aMV44RP)<!-- MEMES:END -->
 
 ---
 

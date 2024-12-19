@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [This gave me some brain freeze\u2026](http://9gag.com/gag/aMV44RP)
- - 😝 [Payback time](http://9gag.com/gag/an7g73V)
- - 💣 [What the f*ck! How the f*ck! Where the f*ck! Why the f*ck! When the f*ck! F*ck the f*ck!](http://9gag.com/gag/a4P11Qy)
+ - 😝 [Christmas Gorilla \ud83c\udf84 \ud83e\udd8d](http://9gag.com/gag/aMV44zx)
+ - 😝 [Guess I&#39;ll die now](http://9gag.com/gag/aO8QQ4y)
+ - 💣 [Payback time](http://9gag.com/gag/an7g73V)
  - 😝 [#TFORCEDANCE. Feeling Motivated Today? Join T-Force Dancing Challenge Now! Link in description!](http://9gag.com/gag/azxex9b)
- - 👉 [American modern math](http://9gag.com/gag/aAyGQVp)<!-- MEMES:END -->
+ - 👉 [German police randomly searching dangerous people at the Christmas market....clown world.](http://9gag.com/gag/abAgeqL)<!-- MEMES:END -->
 
 ---
 

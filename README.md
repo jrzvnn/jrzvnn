@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [A look at BirdVoxDetect, an ML-powered open-source software that ornithologists can use and adapt to detect flight calls from songbirds in audio recordings &lpar;Christian Elliott/MIT Technology Review&rpar;](http://www.techmeme.com/241219/p11#a241219p11)
+ - [Sources: Apple is in early-stage talks with Tencent and ByteDance about integrating their AI models into iPhones sold in China; ChatGPT is unavailable in China &lpar;Reuters&rpar;](http://www.techmeme.com/241219/p10#a241219p10)
+ - [13 Habits of Highly Effective Risk-Takers](https://www.wired.com/story/thirteen-habits-highly-effective-risk-takers/)
  - [A look at Truth Terminal, an AI bot on X that was created to spark debate about AI alignment, as its crypto wallet swells to ~$40M after boosting memecoins &lpar;Joel Khalili/Wired&rpar;](http://www.techmeme.com/241219/p9#a241219p9)
- - [KitchenAid Promo Codes and Coupons: $170 Off Select Items](https://www.wired.com/story/exclusive-kitchenaid-promo-code/)
- - [An analysis of nearly 4,000 public datasets finds that over 90% of AI training datasets came from Europe and North America, and fewer than 4% came from Africa &lpar;Melissa Heikkil&amp;auml;/MIT Technology Review&rpar;](http://www.techmeme.com/241219/p8#a241219p8)
- - [Anthropic demonstrates &quot;alignment faking&quot; in Claude 3 Opus to show how developers could be misled into thinking an LLM is more aligned than it may actually be &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/241219/p7#a241219p7)
- - [Q&amp;A with Sony Semiconductor Manufacturing President Yoshihiro Yamaguchi on shipping 20B+ image sensors, a new manufacturing plant in Kumamoto, Japan, and more &lpar;Nikkei Asia&rpar;](http://www.techmeme.com/241219/p6#a241219p6)<!-- TECH:END -->
+ - [KitchenAid Promo Codes and Coupons: $170 Off Select Items](https://www.wired.com/story/exclusive-kitchenaid-promo-code/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

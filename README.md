@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The best budget robot vacuums](https://www.theverge.com/23846479/best-budget-robot-vacuum-robot-mop)
+ - [The FAA is banning drones in parts of NJ after thousands of mystery sightings](https://www.theverge.com/2024/12/19/24325058/faa-drone-ban-sightings-new-jersey)
+ - [How Apple&#39;s smart home revolution begins in 2025](https://appleinsider.com/articles/24/12/19/how-apples-smart-home-revolution-begins-in-2025?utm_medium=rss)
  - [Craig Wright Found in Contempt of Court Over Bitcoin Creation Claims](https://www.wired.com/story/craig-wright-the-self-styled-creator-of-bitcoin-handed-suspended-prison-sentence/)
- - [The US FAA prohibits drone flights over several parts of New Jersey, as public hysteria over sightings of possible drone activity continues to persist &lpar;Allyson Versprille/Bloomberg&rpar;](http://www.techmeme.com/241219/p26#a241219p26)
- - [Now Max Is Giving You a Streaming End-of-Year Wrap Too](https://www.cnet.com/tech/services-and-software/now-max-is-giving-you-a-streaming-end-of-year-wrap-too/#ftag=CAD590a51e)
- - [When to Watch Clint Eastwood&#39;s &#39;Juror #2&#39; on Max](https://www.cnet.com/tech/services-and-software/when-to-watch-clint-eastwoods-juror-2-on-max/#ftag=CAD590a51e)
- - [Want Collagen&#39;s Anti-Aging Properties? These Are the Benefits and Drawbacks to Know](https://www.cnet.com/health/nutrition/want-collagens-anti-aging-properties-these-are-the-benefits-and-drawbacks-to-know/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [The US FAA prohibits drone flights over several parts of New Jersey, as public hysteria over sightings of possible drone activity continues to persist &lpar;Allyson Versprille/Bloomberg&rpar;](http://www.techmeme.com/241219/p26#a241219p26)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -166,10 +166,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Not all heroes wear capes](http://9gag.com/gag/ajPggWG)
- - 😝 [In the absence of a mobile phone, this is how I imagine about myself.](http://9gag.com/gag/aZZrn7V)
- - 💣 [This is a fiction show, but lots of women really behave like this irl, zero accountability.](http://9gag.com/gag/aW4gGjn)
+ - 😝 [Lol](http://9gag.com/gag/aGyzEdK)
  - 😝 [Peter Parker should have picked Ursula over MJ.](http://9gag.com/gag/aQzXgnW)
+ - 💣 [A man enters through below the door when the shop is about to close](http://9gag.com/gag/aYQrV6x)
+ - 😝 [Slowly recall all your mind](http://9gag.com/gag/a1m11bG)
  - 👉 [They are not Romanians, they are Gypsies. Let the healing begin.](http://9gag.com/gag/amogWGo)<!-- MEMES:END -->
 
 ---

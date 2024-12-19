@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [In 150+ X posts, Elon Musk led the charge to kill a bipartisan spending deal, in part by sharing misinfo, which may lead to a government shutdown over Christmas &lpar;New York Times&rpar;](http://www.techmeme.com/241219/p28#a241219p28)
  - [8BitDo’s new mini Xbox controller fits gamers with smaller hands](https://www.theverge.com/2024/12/19/24325092/8bitdo-ultimate-mini-wired-microsoft-xbox-controller-rgb-lighting)
  - [Best Pillows for Side Sleepers in 2024](https://www.cnet.com/health/sleep/best-pillow-for-side-sleepers/#ftag=CAD590a51e)
  - [GhostBed Classic Mattress Review: A Comfortable Bed With Latex Foam](https://www.cnet.com/health/sleep/ghostbed-mattress-review/#ftag=CAD590a51e)
- - [Sonic 4 is speeding into theaters in 2027](https://www.theverge.com/2024/12/19/24325163/sonic-4-confirmed-paramount-pictures-sonic-the-hedgehog)
- - [US Adults Are Willing to Spend Nearly $1000 a Year to Achieve a Good Night&#39;s Sleep, CNET Survey Finds](https://www.cnet.com/health/sleep/us-adults-are-willing-to-spend-1000-a-year-for-better-sleep/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Sonic 4 is speeding into theaters in 2027](https://www.theverge.com/2024/12/19/24325163/sonic-4-confirmed-paramount-pictures-sonic-the-hedgehog)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

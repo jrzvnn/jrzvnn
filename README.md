@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Always Bruv!](http://9gag.com/gag/aKGm6nW)
- - 😝 [How to make a friend](http://9gag.com/gag/aQzXv67)
- - 💣 [A quick swim while parasailing](http://9gag.com/gag/a341ZL8)
+ - 😝 [Mental health generation!](http://9gag.com/gag/azxeeBp)
+ - 😝 [American modern math](http://9gag.com/gag/aAyGQVp)
+ - 💣 [I, for one, like Roman numerals](http://9gag.com/gag/agmgBM1)
  - 😝 [#TFORCEDANCE. Feeling Motivated Today? Join T-Force Dancing Challenge Now! Link in description!](http://9gag.com/gag/azxex9b)
- - 👉 [Do I look like a new girlfriend?](http://9gag.com/gag/aNDPpjb)<!-- MEMES:END -->
+ - 👉 [Not all heroes wear capes](http://9gag.com/gag/ajPggWG)<!-- MEMES:END -->
 
 ---
 

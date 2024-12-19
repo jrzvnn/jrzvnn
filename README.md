@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Tencent &amp; ByteDance may be Apple Intelligence launch partners in China](https://appleinsider.com/articles/24/12/19/tencent-bytedance-may-be-apple-intelligence-launch-partners-in-china?utm_medium=rss)
- - [EU interoperability spat shows Apple and Meta will never agree about privacy](https://appleinsider.com/articles/24/12/19/eu-interoperability-spat-shows-apple-and-meta-will-never-agree-about-privacy?utm_medium=rss)
- - [Tokyo’s Best Video Game Arcades in Akihabara: Where to Go, What to Do](https://www.wired.com/story/a-guide-to-tokyo-akihabara-best-video-game-arcades/)
- - [In 2024, hackers stole $2.2B in crypto across 303 hacks, up from $1.8B across 282 hacks in 2023; in H1 2024, $1.58B had been stolen, but the pace slowed in H2 &lpar;Chainalysis&rpar;](http://www.techmeme.com/241219/p20#a241219p20)
- - [Starlink’s first nationwide satellite texting service launches in New Zealand](https://www.theverge.com/2024/12/19/24324924/starlink-nationwide-satellite-texting-new-zealand-one-nz)<!-- TECH:END -->
+ - [Microsoft is testing live translation on Intel and AMD Copilot Plus PCs](https://www.theverge.com/2024/12/19/24324932/microsoft-live-translation-intel-amd-copilot-plus-pcs)
+ - [Finnish smart ring maker &amp;Omacr;ura raised a $200M Series D led by Fidelity at a $5.2B valuation and says sales doubled in 2024 to ~$500M, with 2.5M+ total rings sold &lpar;Tim Bradshaw/Financial Times&rpar;](http://www.techmeme.com/241219/p21#a241219p21)
+ - [12 WIRED-Recommended Last-Minute Gift Ideas &lpar;2024&rpar;](https://www.wired.com/gallery/extremely-last-minute-gift-ideas/)
+ - [2024 in wearables: the year of the smart ring](https://www.theverge.com/24305485/smart-rings-2024-smart-rings-oura-samsung-galaxy)
+ - [The first Superman trailer is full of hope](https://www.theverge.com/2024/12/19/24320518/superman-trailer-james-gunn-david-corenswet)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

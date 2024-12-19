@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [36 Best Gifts for Teens &lpar;2024&rpar;, Tested and Reviewed](https://www.wired.com/gallery/best-gift-ideas-for-teens/)
- - [The delusion of Amazon Haul](https://www.theverge.com/2024/12/19/24322922/amazon-haul-aliexpress-shein-temu-fast-fashion-ecommerce)
- - [Microsoft is testing live translation on Intel and AMD Copilot Plus PCs](https://www.theverge.com/2024/12/19/24324932/microsoft-live-translation-intel-amd-copilot-plus-pcs)
- - [Smart ring maker &amp;Omacr;ura raised a $200M Series D from Fidelity and Dexcom at a $5.2B valuation and says sales doubled in 2024 to ~$500M with 2.5M+ total rings sold &lpar;Tim Bradshaw/Financial Times&rpar;](http://www.techmeme.com/241219/p21#a241219p21)
- - [12 WIRED-Recommended Last-Minute Gift Ideas &lpar;2024&rpar;](https://www.wired.com/gallery/extremely-last-minute-gift-ideas/)<!-- TECH:END -->
+ - [Samsung Galaxy Ring could soon come in larger sizes](https://www.theverge.com/2024/12/19/24324958/samsung-galaxy-ring-wearables-bigger-size)
+ - [The 7 Best Photography Books of 2024](https://www.wired.com/gallery/best-photography-books-of-2024/)
+ - [22 TV Shows on Netflix Perfect for Your Next Binge-Watch](https://www.cnet.com/tech/services-and-software/best-tv-shows-netflix-2024/#ftag=CAD590a51e)
+ - [8 great Apple Arcade games for your iPhone or iPad](https://www.theverge.com/24305493/apple-arcade-best-games-2024-ios-iphone-ipad)
+ - [Decart, which helps organizations train AI models at scale, raised a $32M Series A, sources say at a $500M+ valuation, after a $21M seed in October 2024 &lpar;Ingrid Lunden/TechCrunch&rpar;](http://www.techmeme.com/241219/p22#a241219p22)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

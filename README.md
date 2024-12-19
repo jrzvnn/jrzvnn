@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Intel outlines the performance fixes for Arrow Lake CPUs](https://www.theverge.com/2024/12/18/24324594/intel-performance-arrow-lake-core-ultra-200s-cpus)
- - [Apple says Meta has made 15 interoperability requests under the EU&#39;s DMA, more than any other company, and that these could affect users&#39; privacy and security &lpar;Foo Yun Chee/Reuters&rpar;](http://www.techmeme.com/241218/p35#a241218p35)
- - [Here’s everything we don’t know about New Jersey’s drone mystery](https://www.theverge.com/24324635/new-jersey-drones-rumors-nj-news)
- - [The Nintendo Switch 2 and its dock, as described by the mystery Reddit leaker](https://www.theverge.com/2024/12/18/24324483/nintendo-switch-2-leak-reddit-next-handheld)
- - [This waterproof coffin gives your AirTag 10 years of battery life](https://www.theverge.com/2024/12/18/24324526/elevation-lab-time-capsule-apple-air-tag-battery-life)<!-- TECH:END -->
+ - [Balatro’s creator isn’t happy about the game’s 18-plus rating in Europe](https://www.theverge.com/2024/12/18/24324626/balatro-localthunk-18-plus-rating-europe-pegi)
+ - [Apple says EU interoperability laws pose severe privacy risks](https://appleinsider.com/articles/24/12/19/apple-says-eu-interoperability-laws-pose-severe-privacy-risks?utm_medium=rss)
+ - [The European Commission has pressed Apple to rework iOS so that it&#39;s more compatible with smartwatches, earbuds, headsets, and other devices from competitors &lpar;Bloomberg&rpar;](http://www.techmeme.com/241218/p36#a241218p36)
+ - [What Happens to My Benefits If the Federal Government Shuts Down Friday Night?](https://www.cnet.com/how-to/what-happens-to-my-benefits-if-the-federal-government-shuts-down-friday-night/#ftag=CAD590a51e)
+ - [Meta seeking unfettered access to iPhone user data via EU DMA interoperability requests](https://appleinsider.com/articles/24/12/19/meta-seeking-unfettered-access-to-iphone-user-data-via-eu-dma-interoperability-requests?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

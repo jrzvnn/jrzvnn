@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Always Bruv!](http://9gag.com/gag/aKGm6nW)
- - 😝 [The almost perfect synchronization of scenes between the remake and the original film](http://9gag.com/gag/a1m1P3w)
- - 💣 [When you thought the game was on easy mode](http://9gag.com/gag/a9y1EEm)
+ - 😝 [Merry Christmas](http://9gag.com/gag/aVvxvxK)
+ - 😝 [Slowly recall all your mind](http://9gag.com/gag/a1m11bG)
+ - 💣 [Yeah](http://9gag.com/gag/aXProP2)
  - 😝 [#TFORCEDANCE. Feeling Motivated Today? Join T-Force Dancing Challenge Now! Link in description!](http://9gag.com/gag/azxex9b)
- - 👉 [A man enters through below the door when the shop is about to close](http://9gag.com/gag/aYQrV6x)<!-- MEMES:END -->
+ - 👉 [Guess I&#39;ll die now](http://9gag.com/gag/aO8QQ4y)<!-- MEMES:END -->
 
 ---
 

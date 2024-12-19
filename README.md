@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [You want to sneak in? alright then](http://9gag.com/gag/a0eZ46q)
- - 😝 [A woman in Argentina left her dog locked in her car without cracking a window all day long &lpar;it&#39;s summer over there now&rpar;. She found it dead inside and her car surrounded by people who verbally abused her for animal cruelty](http://9gag.com/gag/a6Z1q4R)
- - 💣 [New fear unlocked](http://9gag.com/gag/abAgvp9)
- - 😝 [When they ask `what is you talent?`](http://9gag.com/gag/a0eZX5v)
- - 👉 [A man enters through below the door when the shop is about to close](http://9gag.com/gag/aYQrV6x)<!-- MEMES:END -->
+ - 😝 [Girl tried to kill 10 people with a gun at a school in Brazil, Lyedja Yasmin, 19](http://9gag.com/gag/aD2D2LN)
+ - 😝 [No good deed goes unpunished](http://9gag.com/gag/ayN92Zr)
+ - 💣 [A woman in Argentina left her dog locked in her car without cracking a window all day long &lpar;it&#39;s summer over there now&rpar;. She found it dead inside and her car surrounded by people who verbally abused her for animal cruelty](http://9gag.com/gag/a6Z1q4R)
+ - 😝 [A quick swim while parasailing](http://9gag.com/gag/a341ZL8)
+ - 👉 [Run away Matt! Run away!](http://9gag.com/gag/aLnvzvA)<!-- MEMES:END -->
 
 ---
 

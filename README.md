@@ -167,10 +167,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [Japanese journalist interviewing a Latina journalist &lpar;dude almost had a nosebleed like in anime&rpar;](http://9gag.com/gag/axyBWLD)
- - 😝 [Even us Asians are afraid of female Asian driving](http://9gag.com/gag/aByny3x)
- - 💣 [A quick swim while parasailing](http://9gag.com/gag/a341ZL8)
- - 😝 [France. This will be deleted soon by leftist team of 9gag](http://9gag.com/gag/ayN9N8y)
- - 👉 [Peter Parker should have picked Ursula over MJ.](http://9gag.com/gag/aQzXgnW)<!-- MEMES:END -->
+ - 😝 [Here we go](http://9gag.com/gag/a1m1mj6)
+ - 💣 [People are strange](http://9gag.com/gag/arynywX)
+ - 😝 [This is so sweet \ud83e\udd7a](http://9gag.com/gag/aByn6R2)
+ - 👉 [Making friends after 30](http://9gag.com/gag/aGyznn7)<!-- MEMES:END -->
 
 ---
 

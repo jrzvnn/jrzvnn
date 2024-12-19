@@ -169,8 +169,8 @@ R                        1 repo              ░░░░░░░░░░░�
  - 😝 [This is a fiction show, but lots of women really behave like this irl, zero accountability.](http://9gag.com/gag/aW4gGjn)
  - 😝 [I, for one, like Roman numerals](http://9gag.com/gag/agmgBM1)
  - 💣 [This gave me some brain freeze\u2026](http://9gag.com/gag/aMV44RP)
- - 😝 [#TFORCEDANCE. Feeling Motivated Today? Join T-Force Dancing Challenge Now! Link in description!](http://9gag.com/gag/azxex9b)
- - 👉 [They are not Romanians, they are Gypsies. Let the healing begin.](http://9gag.com/gag/amogWGo)<!-- MEMES:END -->
+ - 😝 [They are not Romanians, they are Gypsies. Let the healing begin.](http://9gag.com/gag/amogWGo)
+ - 👉 [At one with nature](http://9gag.com/gag/aByn6PQ)<!-- MEMES:END -->
 
 ---
 

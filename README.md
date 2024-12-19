@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Italian food is the best](http://9gag.com/gag/ajPgPzG)
+ - 😝 [You want to sneak in? alright then](http://9gag.com/gag/a0eZ46q)
+ - 😝 [A woman in Argentina left her dog locked in her car without cracking a window all day long &lpar;it&#39;s summer over there now&rpar;. She found it dead inside and her car surrounded by people who verbally abused her for animal cruelty](http://9gag.com/gag/a6Z1q4R)
+ - 💣 [New fear unlocked](http://9gag.com/gag/abAgvp9)
  - 😝 [When they ask `what is you talent?`](http://9gag.com/gag/a0eZX5v)
- - 💣 [How great the weather feels is up to you. How sexy it feels is up to your news channel.](http://9gag.com/gag/a1m1DvR)
- - 😝 [A man enters through below the door when the shop is about to close](http://9gag.com/gag/aYQrV6x)
- - 👉 [New fear unlocked](http://9gag.com/gag/abAgvp9)<!-- MEMES:END -->
+ - 👉 [A man enters through below the door when the shop is about to close](http://9gag.com/gag/aYQrV6x)<!-- MEMES:END -->
 
 ---
 

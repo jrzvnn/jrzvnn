@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Anthropic, whose CEO Dario Amodei has been quite vocal about opposing Trump, and OpenAI look to hire people with ties to Trump and GOP for their policy teams &lpar;Stephanie Palazzolo/The Information&rpar;](http://www.techmeme.com/241219/p30#a241219p30)
- - [Thousands of Amazon delivery drivers at seven hubs are on strike](https://www.theverge.com/2024/12/19/24325243/amazon-delivery-drivers-teamsters-strike)
- - [How to reshare Threads posts without quote posting](https://www.theverge.com/24324969/threads-reshare-posts-images-how-to)
- - [Amazon&#39;s best $249 iPad 10th Generation deal is back](https://appleinsider.com/articles/24/12/19/amazons-best-249-ipad-10th-generation-deal-is-back?utm_medium=rss)
- - [GOP Lawmakers Want Elon Musk to Be Speaker of the House](https://www.wired.com/story/gop-lawmakers-want-elon-musk-to-be-speaker-of-the-house/)<!-- TECH:END -->
+ - [The 66 Best Movies on Disney+ Right Now &lpar;December 2024&rpar;](https://www.wired.com/story/best-movies-disney-plus/)
+ - [Best Internet Providers in Harlingen, Texas](https://www.cnet.com/home/internet/best-internet-providers-in-harlingen-tx/#ftag=CAD590a51e)
+ - [TP-Link Routers Could Be Banned In the Next Year, Affecting Nearly 65% of Internet Users in the US](https://www.cnet.com/home/internet/tp-link-routers-could-be-banned-in-the-next-year-affecting-nearly-65-of-internet-users-in-the-us/#ftag=CAD590a51e)
+ - [Save Up to $300 Off Apple&#39;s Latest M4 MacBook Pros Before It&#39;s Too Late](https://www.cnet.com/deals/save-up-to-300-off-apples-latest-m4-macbook-pros-before-its-too-late/#ftag=CAD590a51e)
+ - [How to Make Your Holidays as Waste-Free as Possible: DIY Tips and Advice](https://www.wired.com/story/how-to-make-your-holidays-as-waste-free-as-possible/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

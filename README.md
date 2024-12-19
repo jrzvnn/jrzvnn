@@ -159,9 +159,9 @@ R                        1 repo              ░░░░░░░░░░░�
 <!-- TECH:START -->
  - [Charlotte, NC-based Aiwyn, which provides automation software for accounting firms, raised $113M led by KKR and Bessemer, bringing its total funding to $127M &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/241219/p34#a241219p34)
  - [Google Street View helped police solve a missing persons case](https://www.theverge.com/2024/12/19/24325360/google-street-view-police-solve-murder)
- - [Here are the best iPad deals right now](https://www.theverge.com/21280354/best-ipad-deals-apple)
- - [YouTube plans to start a crackdown on &quot;egregious clickbait&quot;, or videos where the titles or thumbnails make claims the videos don&#39;t back up, beginning in India &lpar;Ivan Mehta/TechCrunch&rpar;](http://www.techmeme.com/241219/p33#a241219p33)
- - [28 Best Personalized Gifts That Are Impressive Yet Thoughtful This Holiday Season](https://www.cnet.com/news/best-personalized-gifts/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [&#39;Outlander&#39; Season 7 Part 2 Release Schedule and How to Watch Episode 13](https://www.cnet.com/tech/services-and-software/outlander-season-7-part-2-episode-release-schedule-how-to-watch/#ftag=CAD590a51e)
+ - [Gifts Your In-Laws Will Love for the Holidays in 2024](https://www.cnet.com/news/gifts-your-in-laws-will-love/#ftag=CAD590a51e)
+ - [What We’ve Learned About Mattress Firmness, Thanks to Our Mattress Smasher 9000](https://www.cnet.com/health/what-weve-learned-about-mattress-firmness-thanks-to-our-mattress-smasher-9000/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Christmas Gorilla \ud83c\udf84 \ud83e\udd8d](http://9gag.com/gag/aMV44zx)
- - 😝 [Guess I&#39;ll die now](http://9gag.com/gag/aO8QQ4y)
- - 💣 [Payback time](http://9gag.com/gag/an7g73V)
+ - 😝 [Girl tried to kill 10 people with a gun at a school in Brazil, Lyedja Yasmin, 19](http://9gag.com/gag/aD2D2LN)
+ - 😝 [German police randomly searching dangerous people at the Christmas market....clown world.](http://9gag.com/gag/abAgeqL)
+ - 💣 [How to make a friend](http://9gag.com/gag/aQzXv67)
  - 😝 [#TFORCEDANCE. Feeling Motivated Today? Join T-Force Dancing Challenge Now! Link in description!](http://9gag.com/gag/azxex9b)
- - 👉 [German police randomly searching dangerous people at the Christmas market....clown world.](http://9gag.com/gag/abAgeqL)<!-- MEMES:END -->
+ - 👉 [Payback time](http://9gag.com/gag/an7g73V)<!-- MEMES:END -->
 
 ---
 

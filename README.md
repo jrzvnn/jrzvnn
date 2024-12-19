@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [This is a fiction show, but lots of women really behave like this irl, zero accountability.](http://9gag.com/gag/aW4gGjn)
- - 😝 [I, for one, like Roman numerals](http://9gag.com/gag/agmgBM1)
- - 💣 [This gave me some brain freeze\u2026](http://9gag.com/gag/aMV44RP)
- - 😝 [They are not Romanians, they are Gypsies. Let the healing begin.](http://9gag.com/gag/amogWGo)
- - 👉 [At one with nature](http://9gag.com/gag/aByn6PQ)<!-- MEMES:END -->
+ - 😝 [Not all heroes wear capes](http://9gag.com/gag/ajPggWG)
+ - 😝 [German police randomly searching dangerous people at the Christmas market....clown world.](http://9gag.com/gag/abAgeqL)
+ - 💣 [Liger challenges dude to a tug of war](http://9gag.com/gag/avyAQAO)
+ - 😝 [American modern math](http://9gag.com/gag/aAyGQVp)
+ - 👉 [They are not Romanians, they are Gypsies. Let the healing begin.](http://9gag.com/gag/amogWGo)<!-- MEMES:END -->
 
 ---
 

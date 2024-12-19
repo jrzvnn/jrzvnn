@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [The almost perfect synchronization of scenes between the remake and the original film](http://9gag.com/gag/a1m1P3w)
- - 😝 [Merry Christmas](http://9gag.com/gag/aVvxvxK)
- - 💣 [American modern math](http://9gag.com/gag/aAyGQVp)
- - 😝 [France. This will be deleted soon by leftist team of 9gag](http://9gag.com/gag/ayN9N8y)
- - 👉 [You want to sneak in? alright then](http://9gag.com/gag/a0eZ46q)<!-- MEMES:END -->
+ - 😝 [This is a fiction show, but lots of women really behave like this irl, zero accountability.](http://9gag.com/gag/aW4gGjn)
+ - 😝 [Payback time](http://9gag.com/gag/an7g73V)
+ - 💣 [A quick swim while parasailing](http://9gag.com/gag/a341ZL8)
+ - 😝 [This guy has the cojones to say this in Hollywood.](http://9gag.com/gag/a5Q1VnL)
+ - 👉 [New fear unlocked](http://9gag.com/gag/abAgvp9)<!-- MEMES:END -->
 
 ---
 

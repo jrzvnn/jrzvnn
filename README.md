@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Future MacBook notch may get replaced with removable cameras on a rotating screen](https://appleinsider.com/articles/24/07/30/future-macbook-notch-may-get-replaced-with-removable-cameras-on-a-rotating-screen?utm_medium=rss)
  - [Instagram teases AI editing tools that will completely reimagine your videos](https://www.theverge.com/2024/12/19/24325015/instagram-ai-video-editing-tool-meta-movie-gen-teaser)
  - [A coalition of newspapers, writers, movie producers, and others rejects UK&#39;s plans to create a copyright exemption for AI companies to train their models &lpar;Robert Booth/The Guardian&rpar;](http://www.techmeme.com/241219/p23#a241219p23)
  - [33 Best Family Board Games &lpar;2024&rpar;: Catan, Labyrinth, Onitama](https://www.wired.com/gallery/best-family-board-games/)
- - [How to screen calls on an Android phone](https://www.theverge.com/24323787/android-google-samsung-phone-calls-how-to)
- - [Samsung Galaxy Ring could soon come in larger sizes](https://www.theverge.com/2024/12/19/24324958/samsung-galaxy-ring-wearables-bigger-size)<!-- TECH:END -->
+ - [How to screen calls on an Android phone](https://www.theverge.com/24323787/android-google-samsung-phone-calls-how-to)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [Peter Parker should have picked Ursula over MJ.](http://9gag.com/gag/aQzXgnW)
+ - 😝 [Unstoppable Workweek Power..](http://9gag.com/gag/aPAZxnQ)
+ - 💣 [Just a spider having a better social life than us](http://9gag.com/gag/a871q6V)
  - 😝 [Who made the mistake first. No road clo](http://9gag.com/gag/a7o1qoz)
- - 😝 [New fear unlocked](http://9gag.com/gag/abAgvp9)
- - 💣 [Unstoppable Workweek Power..](http://9gag.com/gag/aPAZxnQ)
- - 😝 [How great the weather feels is up to you. How sexy it feels is up to your news channel.](http://9gag.com/gag/a1m1DvR)
- - 👉 [Peter Parker should have picked Ursula over MJ.](http://9gag.com/gag/aQzXgnW)<!-- MEMES:END -->
+ - 👉 [New fear unlocked](http://9gag.com/gag/abAgvp9)<!-- MEMES:END -->
 
 ---
 

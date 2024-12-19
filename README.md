@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Payback time](http://9gag.com/gag/an7g73V)
- - 😝 [A quick swim while parasailing](http://9gag.com/gag/a341ZL8)
- - 💣 [Girl tried to kill 10 people with a gun at a school in Brazil, Lyedja Yasmin, 19](http://9gag.com/gag/aD2D2LN)
- - 😝 [A woman in Argentina left her dog locked in her car without cracking a window all day long &lpar;it&#39;s summer over there now&rpar;. She found it dead inside and her car surrounded by people who verbally abused her for animal cruelty](http://9gag.com/gag/a6Z1q4R)
- - 👉 [This is a fiction show, but lots of women really behave like this irl, zero accountability.](http://9gag.com/gag/aW4gGjn)<!-- MEMES:END -->
+ - 😝 [They are not Romanians, they are Gypsies. Let the healing begin.](http://9gag.com/gag/amogWGo)
+ - 😝 [Japanese journalist interviewing a Latina journalist &lpar;dude almost had a nosebleed like in anime&rpar;](http://9gag.com/gag/axyBWLD)
+ - 💣 [The whole rap moment is cancer](http://9gag.com/gag/aLnvzVz)
+ - 😝 [This is so sweet \ud83e\udd7a](http://9gag.com/gag/aByn6R2)
+ - 👉 [Making friends after 30](http://9gag.com/gag/aGyznn7)<!-- MEMES:END -->
 
 ---
 

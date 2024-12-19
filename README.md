@@ -166,10 +166,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Peter Parker should have picked Ursula over MJ.](http://9gag.com/gag/aQzXgnW)
- - 😝 [Unstoppable Workweek Power..](http://9gag.com/gag/aPAZxnQ)
- - 💣 [Just a spider having a better social life than us](http://9gag.com/gag/a871q6V)
- - 😝 [Who made the mistake first. No road clo](http://9gag.com/gag/a7o1qoz)
+ - 😝 [Italian food is the best](http://9gag.com/gag/ajPgPzG)
+ - 😝 [When they ask `what is you talent?`](http://9gag.com/gag/a0eZX5v)
+ - 💣 [How great the weather feels is up to you. How sexy it feels is up to your news channel.](http://9gag.com/gag/a1m1DvR)
+ - 😝 [A man enters through below the door when the shop is about to close](http://9gag.com/gag/aYQrV6x)
  - 👉 [New fear unlocked](http://9gag.com/gag/abAgvp9)<!-- MEMES:END -->
 
 ---

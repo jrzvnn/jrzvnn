@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [France. This will be deleted soon by leftist team of 9gag](http://9gag.com/gag/ayN9N8y)
+ - 😝 [This gave me some brain freeze\u2026](http://9gag.com/gag/aMV44RP)
  - 😝 [Payback time](http://9gag.com/gag/an7g73V)
- - 💣 [A quick swim while parasailing](http://9gag.com/gag/a341ZL8)
+ - 💣 [What the f*ck! How the f*ck! Where the f*ck! Why the f*ck! When the f*ck! F*ck the f*ck!](http://9gag.com/gag/a4P11Qy)
  - 😝 [#TFORCEDANCE. Feeling Motivated Today? Join T-Force Dancing Challenge Now! Link in description!](http://9gag.com/gag/azxex9b)
- - 👉 [This is a fiction show, but lots of women really behave like this irl, zero accountability.](http://9gag.com/gag/aW4gGjn)<!-- MEMES:END -->
+ - 👉 [American modern math](http://9gag.com/gag/aAyGQVp)<!-- MEMES:END -->
 
 ---
 

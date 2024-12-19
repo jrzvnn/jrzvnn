@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [New Uber update](http://9gag.com/gag/ayN936X)
+ - 😝 [When they ask `what is you talent?`](http://9gag.com/gag/a0eZX5v)
  - 😝 [Unstoppable Workweek Power..](http://9gag.com/gag/aPAZxnQ)
- - 💣 [New fear unlocked](http://9gag.com/gag/abAgvp9)
- - 😝 [Wait for the light to turn green...](http://9gag.com/gag/aAyGEgp)
- - 👉 [This gave me some brain freeze\u2026](http://9gag.com/gag/aMV44RP)<!-- MEMES:END -->
+ - 💣 [This gave me some brain freeze\u2026](http://9gag.com/gag/aMV44RP)
+ - 😝 [New fear unlocked](http://9gag.com/gag/abAgvp9)
+ - 👉 [I didn&#39;t know but now I know, and you know too.](http://9gag.com/gag/aE08VPM)<!-- MEMES:END -->
 
 ---
 

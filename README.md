@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [When they ask `what is you talent?`](http://9gag.com/gag/a0eZX5v)
- - 😝 [Unstoppable Workweek Power..](http://9gag.com/gag/aPAZxnQ)
- - 💣 [This gave me some brain freeze\u2026](http://9gag.com/gag/aMV44RP)
+ - 😝 [Who made the mistake first. No road clo](http://9gag.com/gag/a7o1qoz)
  - 😝 [New fear unlocked](http://9gag.com/gag/abAgvp9)
- - 👉 [I didn&#39;t know but now I know, and you know too.](http://9gag.com/gag/aE08VPM)<!-- MEMES:END -->
+ - 💣 [Unstoppable Workweek Power..](http://9gag.com/gag/aPAZxnQ)
+ - 😝 [How great the weather feels is up to you. How sexy it feels is up to your news channel.](http://9gag.com/gag/a1m1DvR)
+ - 👉 [Peter Parker should have picked Ursula over MJ.](http://9gag.com/gag/aQzXgnW)<!-- MEMES:END -->
 
 ---
 

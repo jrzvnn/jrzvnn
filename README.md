@@ -160,8 +160,8 @@ R                        1 repo              ░░░░░░░░░░░�
  - [Lens, a high-performance layer-2 blockchain developed by Avara for consumer apps, raised $31M led by Lightspeed Faction, and plans to launch Lens v3 in Q1 2025 &lpar;Romain Dillet/TechCrunch&rpar;](http://www.techmeme.com/241219/p1#a241219p1)
  - [How to apply Quartz filters in macOS when saving images in Preview](https://appleinsider.com/inside/macos/tips/how-to-apply-quartz-filters-in-macos-when-saving-images-in-preview?utm_medium=rss)
  - [Here comes Sandisk with a rebrand](https://www.theverge.com/2024/12/19/24324603/sandisk-rebrand-new-logo)
- - [Today&#39;s NYT Mini Crossword Answers for Thursday, Dec. 19](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-thursday-dec-19/#ftag=CAD590a51e)
- - [Today&#39;s NYT Strands Hints, Answers and Help for Dec. 19, #291](https://www.cnet.com/tech/gaming/todays-nyt-strands-hints-answers-and-help-for-dec-19-291/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Today&#39;s NYT Connections: Sports Edition Hints and Answers for Dec. 19, #87](https://www.cnet.com/tech/gaming/todays-nyt-connections-sports-edition-hints-and-answers-for-dec-19-87/#ftag=CAD590a51e)
+ - [El Salvador to scale back its bitcoin efforts under an agreement for a $1.4B IMF loan; bitcoin acceptance will no longer be mandatory for the private sector &lpar;Vince Dioquino/Decrypt&rpar;](http://www.techmeme.com/241218/p41#a241218p41)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

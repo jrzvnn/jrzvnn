@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Amazon Warehouse Workers Across US Strike Ahead of Holiday Rush](https://www.wired.com/story/amazon-warehouse-workers-across-us-strike-ahead-of-holiday-rush/)
- - [Sources: Insight Partners, which bought Dotmatics for around $629M in 2021, is exploring options for the R&amp;D software maker, including selling it for $5B+ &lpar;Bloomberg&rpar;](http://www.techmeme.com/241219/p25#a241219p25)
- - [Adam Mosseri teases an AI editing tool in Instagram powered by Meta&#39;s Movie Gen AI model to change outfits, backgrounds, and more in videos with a text prompt &lpar;Jess Weatherbed/The Verge&rpar;](http://www.techmeme.com/241219/p24#a241219p24)
- - [The Best Cookbooks of 2024: Big Dip Energy, Ottolenghi Comfort, and More](https://www.wired.com/gallery/the-best-cookbooks-of-2024/)
- - [Waymo still doing better than humans at preventing injuries and property damage](https://www.theverge.com/2024/12/19/24324492/waymo-injury-property-damage-insurance-data-swiss-re)<!-- TECH:END -->
+ - [Craig Wright Found in Contempt of Court Over Bitcoin Creation Claims](https://www.wired.com/story/craig-wright-the-self-styled-creator-of-bitcoin-handed-suspended-prison-sentence/)
+ - [The US FAA prohibits drone flights over several parts of New Jersey, as public hysteria over sightings of possible drone activity continues to persist &lpar;Allyson Versprille/Bloomberg&rpar;](http://www.techmeme.com/241219/p26#a241219p26)
+ - [Now Max Is Giving You a Streaming End-of-Year Wrap Too](https://www.cnet.com/tech/services-and-software/now-max-is-giving-you-a-streaming-end-of-year-wrap-too/#ftag=CAD590a51e)
+ - [When to Watch Clint Eastwood&#39;s &#39;Juror #2&#39; on Max](https://www.cnet.com/tech/services-and-software/when-to-watch-clint-eastwoods-juror-2-on-max/#ftag=CAD590a51e)
+ - [Want Collagen&#39;s Anti-Aging Properties? These Are the Benefits and Drawbacks to Know](https://www.cnet.com/health/nutrition/want-collagens-anti-aging-properties-these-are-the-benefits-and-drawbacks-to-know/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

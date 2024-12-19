@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [36 Best Gifts for Teens &lpar;2024&rpar;, Tested and Reviewed](https://www.wired.com/gallery/best-gift-ideas-for-teens/)
  - [The delusion of Amazon Haul](https://www.theverge.com/2024/12/19/24322922/amazon-haul-aliexpress-shein-temu-fast-fashion-ecommerce)
  - [Microsoft is testing live translation on Intel and AMD Copilot Plus PCs](https://www.theverge.com/2024/12/19/24324932/microsoft-live-translation-intel-amd-copilot-plus-pcs)
  - [Smart ring maker &amp;Omacr;ura raised a $200M Series D from Fidelity and Dexcom at a $5.2B valuation and says sales doubled in 2024 to ~$500M with 2.5M+ total rings sold &lpar;Tim Bradshaw/Financial Times&rpar;](http://www.techmeme.com/241219/p21#a241219p21)
- - [12 WIRED-Recommended Last-Minute Gift Ideas &lpar;2024&rpar;](https://www.wired.com/gallery/extremely-last-minute-gift-ideas/)
- - [2024 in wearables: the year of the smart ring](https://www.theverge.com/24305485/smart-rings-2024-smart-rings-oura-samsung-galaxy)<!-- TECH:END -->
+ - [12 WIRED-Recommended Last-Minute Gift Ideas &lpar;2024&rpar;](https://www.wired.com/gallery/extremely-last-minute-gift-ideas/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

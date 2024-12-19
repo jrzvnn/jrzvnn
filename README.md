@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [They are not Romanians, they are Gypsies. Let the healing begin.](http://9gag.com/gag/amogWGo)
- - 😝 [Japanese journalist interviewing a Latina journalist &lpar;dude almost had a nosebleed like in anime&rpar;](http://9gag.com/gag/axyBWLD)
- - 💣 [The whole rap moment is cancer](http://9gag.com/gag/aLnvzVz)
- - 😝 [This is so sweet \ud83e\udd7a](http://9gag.com/gag/aByn6R2)
- - 👉 [Making friends after 30](http://9gag.com/gag/aGyznn7)<!-- MEMES:END -->
+ - 😝 [The almost perfect synchronization of scenes between the remake and the original film](http://9gag.com/gag/a1m1P3w)
+ - 😝 [Merry Christmas](http://9gag.com/gag/aVvxvxK)
+ - 💣 [American modern math](http://9gag.com/gag/aAyGQVp)
+ - 😝 [France. This will be deleted soon by leftist team of 9gag](http://9gag.com/gag/ayN9N8y)
+ - 👉 [You want to sneak in? alright then](http://9gag.com/gag/a0eZ46q)<!-- MEMES:END -->
 
 ---
 

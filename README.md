@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [German police randomly searching dangerous people at the Christmas market....clown world.](http://9gag.com/gag/abAgeqL)
- - 😝 [They are not Romanians, they are Gypsies. Let the healing begin.](http://9gag.com/gag/amogWGo)
- - 💣 [Story found on the internet](http://9gag.com/gag/a0eZe9n)
+ - 😝 [Do I look like a new girlfriend?](http://9gag.com/gag/aNDPpjb)
+ - 😝 [American modern math](http://9gag.com/gag/aAyGQVp)
+ - 💣 [In the absence of a mobile phone, this is how I imagine about myself.](http://9gag.com/gag/aZZrn7V)
  - 😝 [#TFORCEDANCE. Feeling Motivated Today? Join T-Force Dancing Challenge Now! Link in description!](http://9gag.com/gag/azxex9b)
- - 👉 [I mean.....](http://9gag.com/gag/aZZrnqW)<!-- MEMES:END -->
+ - 👉 [They are not Romanians, they are Gypsies. Let the healing begin.](http://9gag.com/gag/amogWGo)<!-- MEMES:END -->
 
 ---
 

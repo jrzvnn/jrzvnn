@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Sony buys ~$320M of shares in Japanese media powerhouse Kadokawa, which owns FromSoftware, taking its stake to ~10% and becoming Kadokawa&#39;s top shareholder &lpar;Kiyoshi Takenaka/Reuters&rpar;](http://www.techmeme.com/241219/p14#a241219p14)
+ - [Arm v. Qualcomm: Qualcomm CEO Christian Amon described Arm&#39;s Nuvia license cancellation and demand for Qualcomm to destroy IP after buying Nuvia as &quot;outrageous&quot; &lpar;Jef Feeley/Bloomberg&rpar;](http://www.techmeme.com/241219/p13#a241219p13)
  - [Samsung starts making refrigerators for thermoelectric nerds](https://www.theverge.com/2024/12/19/24324893/samsung-peltier-refrigerator-hybrid-date-specs)
  - [What Internet Fandoms and Communities Can Tell Us About 2025](https://www.wired.com/story/what-internet-fandoms-and-communities-can-tell-us-about-2025/)
- - [Biden administration passes the torch to local leaders to keep climate action alive](https://www.theverge.com/2024/12/19/24324456/us-climate-goal-paris-agreement-biden-administration-trump)
- - [Tracxn: Indian startup funding rounds fell 32% YoY to 1,448 in 2024, but overall funding rose 6% YoY to $11.3B; 40+ startups completed IPOs, up 80% YoY &lpar;Manish Singh/TechCrunch&rpar;](http://www.techmeme.com/241219/p12#a241219p12)
- - [A look at BirdVoxDetect, an ML-powered open-source software that ornithologists can use and adapt to detect flight calls from songbirds in audio recordings &lpar;Christian Elliott/MIT Technology Review&rpar;](http://www.techmeme.com/241219/p11#a241219p11)<!-- TECH:END -->
+ - [Biden administration passes the torch to local leaders to keep climate action alive](https://www.theverge.com/2024/12/19/24324456/us-climate-goal-paris-agreement-biden-administration-trump)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The best phone to buy right now](https://www.theverge.com/22163811/best-phone)
+ - [Dune: Prophecy is getting a second season on HBO](https://www.theverge.com/2024/12/19/24325379/dune-prophecy-season-2-hbo)
  - [Google Keep might be joining the ranks of Android system apps](https://www.theverge.com/2024/12/19/24325273/google-keep-note-taking-apps-android-16-smartphones)
  - [A look at Frank McCourt&#39;s efforts to buy TikTok and the obstacles he faces, as he lobbies Congress and Trump&#39;s team and tries to recruit ex-TikTok executives &lpar;Bloomberg&rpar;](http://www.techmeme.com/241219/p32#a241219p32)
- - [Home Assistant’s new voice assistant answers to ‘Hey Jarvis’](https://www.theverge.com/2024/12/19/24325101/home-assistant-voice-preview-edition-smart-home-voice-assistant-hardware)
- - [Best Latex Mattress of 2024, Tested and Hand-Selected by Our Experts](https://www.cnet.com/health/sleep/best-latex-mattress/#ftag=CAD590a51e)
- - [Capture All the Action This New Year With the DJI Osmo Action 5 Pro Bundle Offer](https://www.cnet.com/deals/dji-osmo-action-5-pro-gift-card-batteries-bundle-deal/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Home Assistant’s new voice assistant answers to ‘Hey Jarvis’](https://www.theverge.com/2024/12/19/24325101/home-assistant-voice-preview-edition-smart-home-voice-assistant-hardware)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

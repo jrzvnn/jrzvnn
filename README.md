@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Mental health generation!](http://9gag.com/gag/azxeeBp)
- - 😝 [New fear unlocked](http://9gag.com/gag/abAgvp9)
- - 💣 [Christmas Gorilla \ud83c\udf84 \ud83e\udd8d](http://9gag.com/gag/aMV44zx)
+ - 😝 [American modern math](http://9gag.com/gag/aAyGQVp)
+ - 😝 [At least she didn&#39;t run and yell](http://9gag.com/gag/a871EX1)
+ - 💣 [Do I look like a new girlfriend?](http://9gag.com/gag/aNDPpjb)
  - 😝 [#TFORCEDANCE. Feeling Motivated Today? Join T-Force Dancing Challenge Now! Link in description!](http://9gag.com/gag/azxex9b)
- - 👉 [This gave me some brain freeze\u2026](http://9gag.com/gag/aMV44RP)<!-- MEMES:END -->
+ - 👉 [Girl tried to kill 10 people with a gun at a school in Brazil, Lyedja Yasmin, 19](http://9gag.com/gag/aD2D2LN)<!-- MEMES:END -->
 
 ---
 

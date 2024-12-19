@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Mental health generation!](http://9gag.com/gag/azxeeBp)
- - 😝 [American modern math](http://9gag.com/gag/aAyGQVp)
- - 💣 [I, for one, like Roman numerals](http://9gag.com/gag/agmgBM1)
+ - 😝 [At one with nature](http://9gag.com/gag/aByn6PQ)
+ - 😝 [This is a fiction show, but lots of women really behave like this irl, zero accountability.](http://9gag.com/gag/aW4gGjn)
+ - 💣 [Always Bruv!](http://9gag.com/gag/aKGm6nW)
  - 😝 [#TFORCEDANCE. Feeling Motivated Today? Join T-Force Dancing Challenge Now! Link in description!](http://9gag.com/gag/azxex9b)
- - 👉 [Not all heroes wear capes](http://9gag.com/gag/ajPggWG)<!-- MEMES:END -->
+ - 👉 [Payback time](http://9gag.com/gag/an7g73V)<!-- MEMES:END -->
 
 ---
 

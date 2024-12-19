@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Amazon Warehouse Workers Across US Strike Ahead of Holiday Rush](https://www.wired.com/story/amazon-warehouse-workers-across-us-strike-ahead-of-holiday-rush/)
  - [Sources: Insight Partners, which bought Dotmatics for around $629M in 2021, is exploring options for the R&amp;D software maker, including selling it for $5B+ &lpar;Bloomberg&rpar;](http://www.techmeme.com/241219/p25#a241219p25)
  - [Adam Mosseri teases an AI editing tool in Instagram powered by Meta&#39;s Movie Gen AI model to change outfits, backgrounds, and more in videos with a text prompt &lpar;Jess Weatherbed/The Verge&rpar;](http://www.techmeme.com/241219/p24#a241219p24)
  - [The Best Cookbooks of 2024: Big Dip Energy, Ottolenghi Comfort, and More](https://www.wired.com/gallery/the-best-cookbooks-of-2024/)
- - [Waymo still doing better than humans at preventing injuries and property damage](https://www.theverge.com/2024/12/19/24324492/waymo-injury-property-damage-insurance-data-swiss-re)
- - [Asus ROG Zephyrus G16 &lpar;2024&rpar; review: an AMD upgrade](https://www.theverge.com/24324299/asus-rog-zephyrus-g16-2024-gaming-laptop-review-amd-strix-point)<!-- TECH:END -->
+ - [Waymo still doing better than humans at preventing injuries and property damage](https://www.theverge.com/2024/12/19/24324492/waymo-injury-property-damage-insurance-data-swiss-re)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Japanese journalist interviewing a Latina journalist &lpar;dude almost had a nosebleed like in anime&rpar;](http://9gag.com/gag/axyBWLD)
- - 😝 [They are not Romanians, they are Gypsies. Let the healing begin.](http://9gag.com/gag/amogWGo)
- - 💣 [Here we go](http://9gag.com/gag/a1m1mj6)
- - 😝 [People are strange](http://9gag.com/gag/arynywX)
- - 👉 [This is so sweet \ud83e\udd7a](http://9gag.com/gag/aByn6R2)<!-- MEMES:END -->
+ - 😝 [Mental health generation!](http://9gag.com/gag/azxeeBp)
+ - 😝 [This is a fiction show, but lots of women really behave like this irl, zero accountability.](http://9gag.com/gag/aW4gGjn)
+ - 💣 [Payback time](http://9gag.com/gag/an7g73V)
+ - 😝 [Peter Parker should have picked Ursula over MJ.](http://9gag.com/gag/aQzXgnW)
+ - 👉 [American modern math](http://9gag.com/gag/aAyGQVp)<!-- MEMES:END -->
 
 ---
 

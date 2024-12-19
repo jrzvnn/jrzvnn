@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [KitchenAid Promo Codes and Coupons: $170 Off Select Items](https://www.wired.com/story/exclusive-kitchenaid-promo-code/)
  - [An analysis of nearly 4,000 public datasets finds that over 90% of AI training datasets came from Europe and North America, and fewer than 4% came from Africa &lpar;Melissa Heikkil&amp;auml;/MIT Technology Review&rpar;](http://www.techmeme.com/241219/p8#a241219p8)
  - [Anthropic demonstrates &quot;alignment faking&quot; in Claude 3 Opus to show how developers could be misled into thinking an LLM is more aligned than it may actually be &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/241219/p7#a241219p7)
  - [Q&amp;A with Sony Semiconductor Manufacturing President Yoshihiro Yamaguchi on shipping 20B+ image sensors, a new manufacturing plant in Kumamoto, Japan, and more &lpar;Nikkei Asia&rpar;](http://www.techmeme.com/241219/p6#a241219p6)
- - [Alejandro Mayorkas, the US DHS&#39; outgoing secretary, says Europe&#39;s &quot;adversarial&quot; relationship with tech companies is hampering a global approach to AI regulation &lpar;Financial Times&rpar;](http://www.techmeme.com/241219/p5#a241219p5)
- - [Analysis: Alphabet&#39;s shares have jumped about 30% from a September low, with a chunk of those gains coming after Google unveiled its Willow quantum chip &lpar;Ryan Vlastelica/Bloomberg&rpar;](http://www.techmeme.com/241219/p4#a241219p4)<!-- TECH:END -->
+ - [Alejandro Mayorkas, the US DHS&#39; outgoing secretary, says Europe&#39;s &quot;adversarial&quot; relationship with tech companies is hampering a global approach to AI regulation &lpar;Financial Times&rpar;](http://www.techmeme.com/241219/p5#a241219p5)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

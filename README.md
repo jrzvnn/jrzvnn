@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Here are the best AirPods deals you can get right now](https://www.theverge.com/21302051/best-apple-airpods-deals)
+ - [Chinese self-driving trucking company TuSimple rebrands to CreateAI, in a pivot to generative AI for video games and animation, and debuts its first model, Ruyi &lpar;Evelyn Cheng/CNBC&rpar;](http://www.techmeme.com/241218/p38#a241218p38)
+ - [Sources: Elon Musk has tapped Steve Davis, who oversaw Twitter&#39;s cost-cutting, former US CTO Michael Kratsios, and others to interview potential DOGE candidates &lpar;Bloomberg&rpar;](http://www.techmeme.com/241218/p37#a241218p37)
  - [Balatro’s creator isn’t happy about the game’s 18-plus rating in Europe](https://www.theverge.com/2024/12/18/24324626/balatro-localthunk-18-plus-rating-europe-pegi)
- - [Apple says EU interoperability laws pose severe privacy risks](https://appleinsider.com/articles/24/12/19/apple-says-eu-interoperability-laws-pose-severe-privacy-risks?utm_medium=rss)
- - [The European Commission has pressed Apple to rework iOS so that it&#39;s more compatible with smartwatches, earbuds, headsets, and other devices from competitors &lpar;Bloomberg&rpar;](http://www.techmeme.com/241218/p36#a241218p36)
- - [What Happens to My Benefits If the Federal Government Shuts Down Friday Night?](https://www.cnet.com/how-to/what-happens-to-my-benefits-if-the-federal-government-shuts-down-friday-night/#ftag=CAD590a51e)
- - [Meta seeking unfettered access to iPhone user data via EU DMA interoperability requests](https://appleinsider.com/articles/24/12/19/meta-seeking-unfettered-access-to-iphone-user-data-via-eu-dma-interoperability-requests?utm_medium=rss)<!-- TECH:END -->
+ - [Apple says EU interoperability laws pose severe privacy risks](https://appleinsider.com/articles/24/12/19/apple-says-eu-interoperability-laws-pose-severe-privacy-risks?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

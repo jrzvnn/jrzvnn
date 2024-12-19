@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [The almost perfect synchronization of scenes between the remake and the original film](http://9gag.com/gag/a1m1P3w)
- - 😝 [He actually needs that](http://9gag.com/gag/aPAZA4g)
- - 💣 [Peter Parker should have picked Ursula over MJ.](http://9gag.com/gag/aQzXgnW)
- - 😝 [Gamble away](http://9gag.com/gag/a0eZewq)
- - 👉 [Interesting](http://9gag.com/gag/ae9g4M5)<!-- MEMES:END -->
+ - 😝 [Payback time](http://9gag.com/gag/an7g73V)
+ - 😝 [Wait for the light to turn green...](http://9gag.com/gag/aAyGEgp)
+ - 💣 [What a B*tch!](http://9gag.com/gag/aW4g743)
+ - 😝 [In the absence of a mobile phone, this is how I imagine about myself.](http://9gag.com/gag/aZZrn7V)
+ - 👉 [I just know it\u2019s good](http://9gag.com/gag/agmgOQg)<!-- MEMES:END -->
 
 ---
 

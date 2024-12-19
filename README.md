@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Run away Matt! Run away!](http://9gag.com/gag/aLnvzvA)
- - 😝 [Peter Parker should have picked Ursula over MJ.](http://9gag.com/gag/aQzXgnW)
- - 💣 [Girl tried to kill 10 people with a gun at a school in Brazil, Lyedja Yasmin, 19](http://9gag.com/gag/aD2D2LN)
- - 😝 [This is a fiction show, but lots of women really behave like this irl, zero accountability.](http://9gag.com/gag/aW4gGjn)
- - 👉 [Lol](http://9gag.com/gag/aGyzEdK)<!-- MEMES:END -->
+ - 😝 [Japanese journalist interviewing a Latina journalist &lpar;dude almost had a nosebleed like in anime&rpar;](http://9gag.com/gag/axyBWLD)
+ - 😝 [Even us Asians are afraid of female Asian driving](http://9gag.com/gag/aByny3x)
+ - 💣 [A quick swim while parasailing](http://9gag.com/gag/a341ZL8)
+ - 😝 [France. This will be deleted soon by leftist team of 9gag](http://9gag.com/gag/ayN9N8y)
+ - 👉 [Peter Parker should have picked Ursula over MJ.](http://9gag.com/gag/aQzXgnW)<!-- MEMES:END -->
 
 ---
 

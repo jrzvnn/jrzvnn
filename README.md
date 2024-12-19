@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The best phone to buy right now](https://www.theverge.com/22163811/best-phone)
- - [Dune: Prophecy is getting a second season on HBO](https://www.theverge.com/2024/12/19/24325379/dune-prophecy-season-2-hbo)
- - [Google Keep might be joining the ranks of Android system apps](https://www.theverge.com/2024/12/19/24325273/google-keep-note-taking-apps-android-16-smartphones)
- - [A look at Frank McCourt&#39;s efforts to acquire TikTok and the obstacles he faces, as he lobbies Congress and Trump&#39;s team and recruits former TikTok executives &lpar;Bloomberg&rpar;](http://www.techmeme.com/241219/p32#a241219p32)
- - [Home Assistant’s new voice assistant answers to ‘Hey Jarvis’](https://www.theverge.com/2024/12/19/24325101/home-assistant-voice-preview-edition-smart-home-voice-assistant-hardware)<!-- TECH:END -->
+ - [YouTube plans to start a crackdown on &quot;egregious clickbait&quot;, or videos where the titles or thumbnails make claims the videos don&#39;t back up, beginning in India &lpar;Ivan Mehta/TechCrunch&rpar;](http://www.techmeme.com/241219/p33#a241219p33)
+ - [28 Best Personalized Gifts That Are Impressive Yet Thoughtful This Holiday Season](https://www.cnet.com/news/best-personalized-gifts/#ftag=CAD590a51e)
+ - [Best Hotel Mattresses in 2024](https://www.cnet.com/health/sleep/best-hotel-mattresses/#ftag=CAD590a51e)
+ - [Best Internet Providers in Jacksonville, Florida](https://www.cnet.com/home/internet/best-internet-providers-in-jacksonville-fl/#ftag=CAD590a51e)
+ - [The best phone to buy right now](https://www.theverge.com/22163811/best-phone)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

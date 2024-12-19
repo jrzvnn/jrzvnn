@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Not all heroes wear capes](http://9gag.com/gag/ajPggWG)
- - 😝 [German police randomly searching dangerous people at the Christmas market....clown world.](http://9gag.com/gag/abAgeqL)
- - 💣 [Liger challenges dude to a tug of war](http://9gag.com/gag/avyAQAO)
- - 😝 [American modern math](http://9gag.com/gag/aAyGQVp)
- - 👉 [They are not Romanians, they are Gypsies. Let the healing begin.](http://9gag.com/gag/amogWGo)<!-- MEMES:END -->
+ - 😝 [Japanese journalist interviewing a Latina journalist &lpar;dude almost had a nosebleed like in anime&rpar;](http://9gag.com/gag/axyBWLD)
+ - 😝 [They are not Romanians, they are Gypsies. Let the healing begin.](http://9gag.com/gag/amogWGo)
+ - 💣 [Here we go](http://9gag.com/gag/a1m1mj6)
+ - 😝 [People are strange](http://9gag.com/gag/arynywX)
+ - 👉 [This is so sweet \ud83e\udd7a](http://9gag.com/gag/aByn6R2)<!-- MEMES:END -->
 
 ---
 

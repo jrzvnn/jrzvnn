@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [At one with nature](http://9gag.com/gag/aByn6PQ)
- - 😝 [This is a fiction show, but lots of women really behave like this irl, zero accountability.](http://9gag.com/gag/aW4gGjn)
- - 💣 [Always Bruv!](http://9gag.com/gag/aKGm6nW)
+ - 😝 [France. This will be deleted soon by leftist team of 9gag](http://9gag.com/gag/ayN9N8y)
+ - 😝 [Payback time](http://9gag.com/gag/an7g73V)
+ - 💣 [A quick swim while parasailing](http://9gag.com/gag/a341ZL8)
  - 😝 [#TFORCEDANCE. Feeling Motivated Today? Join T-Force Dancing Challenge Now! Link in description!](http://9gag.com/gag/azxex9b)
- - 👉 [Payback time](http://9gag.com/gag/an7g73V)<!-- MEMES:END -->
+ - 👉 [This is a fiction show, but lots of women really behave like this irl, zero accountability.](http://9gag.com/gag/aW4gGjn)<!-- MEMES:END -->
 
 ---
 

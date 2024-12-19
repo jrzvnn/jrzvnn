@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [When your instinct almost betray you](http://9gag.com/gag/a5Q1B8r)
- - 😝 [Interesting](http://9gag.com/gag/ae9g4M5)
- - 💣 [Gamble away](http://9gag.com/gag/a0eZewq)
+ - 😝 [How great the weather feels is up to you. How sexy it feels is up to your news channel.](http://9gag.com/gag/a1m1DvR)
  - 😝 [Run away Matt! Run away!](http://9gag.com/gag/aLnvzvA)
- - 👉 [When you try to be open but she is closed](http://9gag.com/gag/aE08Vxn)<!-- MEMES:END -->
+ - 💣 [I didn&#39;t know but now I know, and you know too.](http://9gag.com/gag/aE08VPM)
+ - 😝 [Man helps police make an arrest.](http://9gag.com/gag/aBynLZN)
+ - 👉 [King of Spain during improper flag raising](http://9gag.com/gag/aNDPvb4)<!-- MEMES:END -->
 
 ---
 

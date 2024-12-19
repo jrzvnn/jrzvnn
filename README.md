@@ -157,7 +157,7 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google Keep’s joining the ranks of system apps considered essential](https://www.theverge.com/2024/12/19/24325273/google-keep-note-taking-apps-android-16-smartphones)
+ - [Google Keep might be joining the ranks of Android system apps](https://www.theverge.com/2024/12/19/24325273/google-keep-note-taking-apps-android-16-smartphones)
  - [A look at Frank McCourt&#39;s efforts to buy TikTok and the obstacles he faces, as he lobbies Congress and Trump&#39;s team and tries to recruit ex-TikTok executives &lpar;Bloomberg&rpar;](http://www.techmeme.com/241219/p32#a241219p32)
  - [Home Assistant’s new voice assistant answers to ‘Hey Jarvis’](https://www.theverge.com/2024/12/19/24325101/home-assistant-voice-preview-edition-smart-home-voice-assistant-hardware)
  - [Best Latex Mattress of 2024, Tested and Hand-Selected by Our Experts](https://www.cnet.com/health/sleep/best-latex-mattress/#ftag=CAD590a51e)

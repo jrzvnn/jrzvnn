@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Mental health generation!](http://9gag.com/gag/azxeeBp)
- - 😝 [This is a fiction show, but lots of women really behave like this irl, zero accountability.](http://9gag.com/gag/aW4gGjn)
- - 💣 [Payback time](http://9gag.com/gag/an7g73V)
+ - 😝 [Not all heroes wear capes](http://9gag.com/gag/ajPggWG)
+ - 😝 [In the absence of a mobile phone, this is how I imagine about myself.](http://9gag.com/gag/aZZrn7V)
+ - 💣 [This is a fiction show, but lots of women really behave like this irl, zero accountability.](http://9gag.com/gag/aW4gGjn)
  - 😝 [Peter Parker should have picked Ursula over MJ.](http://9gag.com/gag/aQzXgnW)
- - 👉 [American modern math](http://9gag.com/gag/aAyGQVp)<!-- MEMES:END -->
+ - 👉 [They are not Romanians, they are Gypsies. Let the healing begin.](http://9gag.com/gag/amogWGo)<!-- MEMES:END -->
 
 ---
 

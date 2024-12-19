@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Samsung Galaxy Ring could soon come in larger sizes](https://www.theverge.com/2024/12/19/24324958/samsung-galaxy-ring-wearables-bigger-size)
- - [The 7 Best Photography Books of 2024](https://www.wired.com/gallery/best-photography-books-of-2024/)
- - [22 TV Shows on Netflix Perfect for Your Next Binge-Watch](https://www.cnet.com/tech/services-and-software/best-tv-shows-netflix-2024/#ftag=CAD590a51e)
- - [8 great Apple Arcade games for your iPhone or iPad](https://www.theverge.com/24305493/apple-arcade-best-games-2024-ios-iphone-ipad)
- - [Decart, which helps organizations train AI models at scale, raised a $32M Series A, sources say at a $500M+ valuation, after a $21M seed in October 2024 &lpar;Ingrid Lunden/TechCrunch&rpar;](http://www.techmeme.com/241219/p22#a241219p22)<!-- TECH:END -->
+ - [Instagram teases AI editing tools that will completely reimagine your videos](https://www.theverge.com/2024/12/19/24325015/instagram-ai-video-editing-tool-meta-movie-gen-teaser)
+ - [A coalition of newspapers, writers, movie producers, and others rejects UK&#39;s plans to create a copyright exemption for AI companies to train their models &lpar;Robert Booth/The Guardian&rpar;](http://www.techmeme.com/241219/p23#a241219p23)
+ - [33 Best Family Board Games &lpar;2024&rpar;: Catan, Labyrinth, Onitama](https://www.wired.com/gallery/best-family-board-games/)
+ - [How to screen calls on an Android phone](https://www.theverge.com/24323787/android-google-samsung-phone-calls-how-to)
+ - [Samsung Galaxy Ring could soon come in larger sizes](https://www.theverge.com/2024/12/19/24324958/samsung-galaxy-ring-wearables-bigger-size)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

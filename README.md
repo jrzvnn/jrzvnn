@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [In the absence of a mobile phone, this is how I imagine about myself.](http://9gag.com/gag/aZZrn7V)
- - 😝 [Dude found his forever halloween costume](http://9gag.com/gag/aQzXoLr)
- - 💣 [This gave me some brain freeze\u2026](http://9gag.com/gag/aMV44RP)
+ - 😝 [German police randomly searching dangerous people at the Christmas market....clown world.](http://9gag.com/gag/abAgeqL)
+ - 😝 [They are not Romanians, they are Gypsies. Let the healing begin.](http://9gag.com/gag/amogWGo)
+ - 💣 [Story found on the internet](http://9gag.com/gag/a0eZe9n)
  - 😝 [#TFORCEDANCE. Feeling Motivated Today? Join T-Force Dancing Challenge Now! Link in description!](http://9gag.com/gag/azxex9b)
- - 👉 [Payback time](http://9gag.com/gag/an7g73V)<!-- MEMES:END -->
+ - 👉 [I mean.....](http://9gag.com/gag/aZZrnqW)<!-- MEMES:END -->
 
 ---
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Google Street View helped police solve a man’s disappearance](https://www.theverge.com/2024/12/19/24325360/google-street-view-police-solve-murder)
  - [Here are the best iPad deals right now](https://www.theverge.com/21280354/best-ipad-deals-apple)
  - [YouTube plans to start a crackdown on &quot;egregious clickbait&quot;, or videos where the titles or thumbnails make claims the videos don&#39;t back up, beginning in India &lpar;Ivan Mehta/TechCrunch&rpar;](http://www.techmeme.com/241219/p33#a241219p33)
  - [28 Best Personalized Gifts That Are Impressive Yet Thoughtful This Holiday Season](https://www.cnet.com/news/best-personalized-gifts/#ftag=CAD590a51e)
- - [Best Hotel Mattresses in 2024](https://www.cnet.com/health/sleep/best-hotel-mattresses/#ftag=CAD590a51e)
- - [Best Internet Providers in Jacksonville, Florida](https://www.cnet.com/home/internet/best-internet-providers-in-jacksonville-fl/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Best Hotel Mattresses in 2024](https://www.cnet.com/health/sleep/best-hotel-mattresses/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

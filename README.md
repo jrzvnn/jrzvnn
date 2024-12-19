@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [This is a fiction show, but lots of women really behave like this irl, zero accountability.](http://9gag.com/gag/aW4gGjn)
- - 😝 [Payback time](http://9gag.com/gag/an7g73V)
- - 💣 [A quick swim while parasailing](http://9gag.com/gag/a341ZL8)
- - 😝 [This guy has the cojones to say this in Hollywood.](http://9gag.com/gag/a5Q1VnL)
- - 👉 [New fear unlocked](http://9gag.com/gag/abAgvp9)<!-- MEMES:END -->
+ - 😝 [New Uber update](http://9gag.com/gag/ayN936X)
+ - 😝 [Unstoppable Workweek Power..](http://9gag.com/gag/aPAZxnQ)
+ - 💣 [New fear unlocked](http://9gag.com/gag/abAgvp9)
+ - 😝 [Wait for the light to turn green...](http://9gag.com/gag/aAyGEgp)
+ - 👉 [This gave me some brain freeze\u2026](http://9gag.com/gag/aMV44RP)<!-- MEMES:END -->
 
 ---
 

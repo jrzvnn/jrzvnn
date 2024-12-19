@@ -167,10 +167,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [Always Bruv!](http://9gag.com/gag/aKGm6nW)
- - 😝 [Do I look like a new girlfriend?](http://9gag.com/gag/aNDPpjb)
- - 💣 [This is a fiction show, but lots of women really behave like this irl, zero accountability.](http://9gag.com/gag/aW4gGjn)
+ - 😝 [How to make a friend](http://9gag.com/gag/aQzXv67)
+ - 💣 [A quick swim while parasailing](http://9gag.com/gag/a341ZL8)
  - 😝 [#TFORCEDANCE. Feeling Motivated Today? Join T-Force Dancing Challenge Now! Link in description!](http://9gag.com/gag/azxex9b)
- - 👉 [American modern math](http://9gag.com/gag/aAyGQVp)<!-- MEMES:END -->
+ - 👉 [Do I look like a new girlfriend?](http://9gag.com/gag/aNDPpjb)<!-- MEMES:END -->
 
 ---
 

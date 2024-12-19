@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Girl tried to kill 10 people with a gun at a school in Brazil, Lyedja Yasmin, 19](http://9gag.com/gag/aD2D2LN)
- - 😝 [No good deed goes unpunished](http://9gag.com/gag/ayN92Zr)
- - 💣 [A woman in Argentina left her dog locked in her car without cracking a window all day long &lpar;it&#39;s summer over there now&rpar;. She found it dead inside and her car surrounded by people who verbally abused her for animal cruelty](http://9gag.com/gag/a6Z1q4R)
- - 😝 [A quick swim while parasailing](http://9gag.com/gag/a341ZL8)
- - 👉 [Run away Matt! Run away!](http://9gag.com/gag/aLnvzvA)<!-- MEMES:END -->
+ - 😝 [`You&#39;re as beautiful as in the day i lost you`](http://9gag.com/gag/apRgDP8)
+ - 😝 [Wait for the light to turn green...](http://9gag.com/gag/aAyGEgp)
+ - 💣 [I just know it\u2019s good](http://9gag.com/gag/agmgOQg)
+ - 😝 [What a B*tch!](http://9gag.com/gag/aW4g743)
+ - 👉 [In the absence of a mobile phone, this is how I imagine about myself.](http://9gag.com/gag/aZZrn7V)<!-- MEMES:END -->
 
 ---
 

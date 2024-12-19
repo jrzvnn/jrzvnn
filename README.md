@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Tencent &amp; ByteDance may be Apple Intelligence launch partners in China](https://appleinsider.com/articles/24/12/19/tencent-bytedance-may-be-apple-intelligence-launch-partners-in-china?utm_medium=rss)
+ - [EU interoperability spat shows Apple and Meta will never agree about privacy](https://appleinsider.com/articles/24/12/19/eu-interoperability-spat-shows-apple-and-meta-will-never-agree-about-privacy?utm_medium=rss)
+ - [Tokyo’s Best Video Game Arcades in Akihabara: Where to Go, What to Do](https://www.wired.com/story/a-guide-to-tokyo-akihabara-best-video-game-arcades/)
  - [In 2024, hackers stole $2.2B in crypto across 303 hacks, up from $1.8B across 282 hacks in 2023; in H1 2024, $1.58B had been stolen, but the pace slowed in H2 &lpar;Chainalysis&rpar;](http://www.techmeme.com/241219/p20#a241219p20)
- - [Starlink’s first nationwide satellite texting service launches in New Zealand](https://www.theverge.com/2024/12/19/24324924/starlink-nationwide-satellite-texting-new-zealand-one-nz)
- - [Apple&#39;s Indonesia iPhone 16 ban drama will probably end with $1 billion investment](https://appleinsider.com/articles/24/12/19/apples-indonesia-iphone-16-ban-drama-will-probably-end-with-1-billion-investment?utm_medium=rss)
- - [All of Our Hopes and Fears for Tech in 2025](https://www.wired.com/story/uncanny-valley-podcast-7-tech-hopes-fears/)
- - [9 Best Standing Desks of 2024, Tested and Reviewed](https://www.wired.com/gallery/best-standing-desks/)<!-- TECH:END -->
+ - [Starlink’s first nationwide satellite texting service launches in New Zealand](https://www.theverge.com/2024/12/19/24324924/starlink-nationwide-satellite-texting-new-zealand-one-nz)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

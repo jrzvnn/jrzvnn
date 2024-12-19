@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [How Bengaluru, the &quot;Silicon Valley of India&quot;, is under pressure as rapid growth tests local infrastructure; its population jumped from 8M in 2010 to ~14M now &lpar;Business Insider&rpar;](http://www.techmeme.com/241219/p18#a241219p18)
  - [Apple pushed hard by EU to make iOS and iPadOS more interoperable](https://www.theverge.com/2024/12/19/24324894/apple-eu-ios-interoperability-requests-dma-pushback)
  - [Swiss tech advisory SoftwareOne to buy Norwegian rival Crayon in a cash and stock deal valuing Crayon at ~$1.4B; the combined firm will have ~$1.8B in revenue &lpar;Paul Arnold/Reuters&rpar;](http://www.techmeme.com/241219/p17#a241219p17)
  - [The US finalizes a $458M grant for SK Hynix under the CHIPS Act and $500M in loans to build a $3.87B chip packaging facility in Indiana &lpar;Mackenzie Hawkins/Bloomberg&rpar;](http://www.techmeme.com/241219/p16#a241219p16)
- - [This VPN Lets Anyone Use Your Internet Connection. What Could Go Wrong?](https://www.wired.com/story/residential-proxy-network-cybercrime-vpn/)
- - [A look at the quickly disappearing web, as digital decay and link rot erase all kinds of media; a Pew study says 38% of webpages accessible in 2013 are now gone &lpar;S.E. Smith/The Verge&rpar;](http://www.techmeme.com/241219/p15#a241219p15)<!-- TECH:END -->
+ - [This VPN Lets Anyone Use Your Internet Connection. What Could Go Wrong?](https://www.wired.com/story/residential-proxy-network-cybercrime-vpn/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

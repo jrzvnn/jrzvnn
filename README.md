@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Samsung starts making refrigerators for thermoelectric nerds](https://www.theverge.com/2024/12/19/24324893/samsung-peltier-refrigerator-hybrid-date-specs)
+ - [What Internet Fandoms and Communities Can Tell Us About 2025](https://www.wired.com/story/what-internet-fandoms-and-communities-can-tell-us-about-2025/)
+ - [Biden administration passes the torch to local leaders to keep climate action alive](https://www.theverge.com/2024/12/19/24324456/us-climate-goal-paris-agreement-biden-administration-trump)
  - [Tracxn: Indian startup funding rounds fell 32% YoY to 1,448 in 2024, but overall funding rose 6% YoY to $11.3B; 40+ startups completed IPOs, up 80% YoY &lpar;Manish Singh/TechCrunch&rpar;](http://www.techmeme.com/241219/p12#a241219p12)
- - [A look at BirdVoxDetect, an ML-powered open-source software that ornithologists can use and adapt to detect flight calls from songbirds in audio recordings &lpar;Christian Elliott/MIT Technology Review&rpar;](http://www.techmeme.com/241219/p11#a241219p11)
- - [Sources: Apple is in early-stage talks with Tencent and ByteDance about integrating their AI models into iPhones sold in China; ChatGPT is unavailable in China &lpar;Reuters&rpar;](http://www.techmeme.com/241219/p10#a241219p10)
- - [13 Habits of Highly Effective Risk-Takers](https://www.wired.com/story/thirteen-habits-highly-effective-risk-takers/)
- - [A look at Truth Terminal, an AI bot on X that was created to spark debate about AI alignment, as its crypto wallet swells to ~$40M after boosting memecoins &lpar;Joel Khalili/Wired&rpar;](http://www.techmeme.com/241219/p9#a241219p9)<!-- TECH:END -->
+ - [A look at BirdVoxDetect, an ML-powered open-source software that ornithologists can use and adapt to detect flight calls from songbirds in audio recordings &lpar;Christian Elliott/MIT Technology Review&rpar;](http://www.techmeme.com/241219/p11#a241219p11)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

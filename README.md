@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Merry Christmas](http://9gag.com/gag/aVvxvxK)
- - 😝 [Slowly recall all your mind](http://9gag.com/gag/a1m11bG)
- - 💣 [Yeah](http://9gag.com/gag/aXProP2)
+ - 😝 [In the absence of a mobile phone, this is how I imagine about myself.](http://9gag.com/gag/aZZrn7V)
+ - 😝 [Dude found his forever halloween costume](http://9gag.com/gag/aQzXoLr)
+ - 💣 [This gave me some brain freeze\u2026](http://9gag.com/gag/aMV44RP)
  - 😝 [#TFORCEDANCE. Feeling Motivated Today? Join T-Force Dancing Challenge Now! Link in description!](http://9gag.com/gag/azxex9b)
- - 👉 [Guess I&#39;ll die now](http://9gag.com/gag/aO8QQ4y)<!-- MEMES:END -->
+ - 👉 [Payback time](http://9gag.com/gag/an7g73V)<!-- MEMES:END -->
 
 ---
 

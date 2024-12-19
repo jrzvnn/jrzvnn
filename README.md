@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Do I look like a new girlfriend?](http://9gag.com/gag/aNDPpjb)
- - 😝 [American modern math](http://9gag.com/gag/aAyGQVp)
- - 💣 [In the absence of a mobile phone, this is how I imagine about myself.](http://9gag.com/gag/aZZrn7V)
+ - 😝 [Mental health generation!](http://9gag.com/gag/azxeeBp)
+ - 😝 [New fear unlocked](http://9gag.com/gag/abAgvp9)
+ - 💣 [Christmas Gorilla \ud83c\udf84 \ud83e\udd8d](http://9gag.com/gag/aMV44zx)
  - 😝 [#TFORCEDANCE. Feeling Motivated Today? Join T-Force Dancing Challenge Now! Link in description!](http://9gag.com/gag/azxex9b)
- - 👉 [They are not Romanians, they are Gypsies. Let the healing begin.](http://9gag.com/gag/amogWGo)<!-- MEMES:END -->
+ - 👉 [This gave me some brain freeze\u2026](http://9gag.com/gag/aMV44RP)<!-- MEMES:END -->
 
 ---
 

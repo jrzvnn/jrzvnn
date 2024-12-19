@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Backflip, which is building AI models that can produce 3D designs using text, sketches, or photos as prompts, raised a $30M Series A co-led by NEA and a16z &lpar;Charles Rollet/TechCrunch&rpar;](http://www.techmeme.com/241219/p31#a241219p31)
  - [The 66 Best Movies on Disney+ Right Now &lpar;December 2024&rpar;](https://www.wired.com/story/best-movies-disney-plus/)
  - [Best Internet Providers in Harlingen, Texas](https://www.cnet.com/home/internet/best-internet-providers-in-harlingen-tx/#ftag=CAD590a51e)
  - [TP-Link Routers Could Be Banned In the Next Year, Affecting Nearly 65% of Internet Users in the US](https://www.cnet.com/home/internet/tp-link-routers-could-be-banned-in-the-next-year-affecting-nearly-65-of-internet-users-in-the-us/#ftag=CAD590a51e)
- - [Save Up to $300 Off Apple&#39;s Latest M4 MacBook Pros Before It&#39;s Too Late](https://www.cnet.com/deals/save-up-to-300-off-apples-latest-m4-macbook-pros-before-its-too-late/#ftag=CAD590a51e)
- - [How to Make Your Holidays as Waste-Free as Possible: DIY Tips and Advice](https://www.wired.com/story/how-to-make-your-holidays-as-waste-free-as-possible/)<!-- TECH:END -->
+ - [Save Up to $300 Off Apple&#39;s Latest M4 MacBook Pros Before It&#39;s Too Late](https://www.cnet.com/deals/save-up-to-300-off-apples-latest-m4-macbook-pros-before-its-too-late/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

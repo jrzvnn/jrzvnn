@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Google releases Gemini 2.0 Flash Thinking Experimental, with the ability to &quot;reason over the most complex problems&quot; in fields like programming and physics &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/241219/p27#a241219p27)
+ - [Valve will be Lenovo’s ‘special guest’ at just-announced gaming handheld event](https://www.theverge.com/2024/12/19/24325072/lenovo-legion-go-ces-event-valve-microsoft)
+ - [The best laptops you can buy](https://www.theverge.com/21250695/best-laptops)
  - [Xbox Elite Series 2 controller drops to record low $124](https://www.theverge.com/2024/12/19/24324936/xbox-elite-series-2-series-x-s-wireless-controller-astro-bot-ps5-deal-sale)
- - [The best budget robot vacuums](https://www.theverge.com/23846479/best-budget-robot-vacuum-robot-mop)
- - [The FAA is banning drones in parts of NJ after thousands of mystery sightings](https://www.theverge.com/2024/12/19/24325058/faa-drone-ban-sightings-new-jersey)
- - [How Apple&#39;s smart home revolution begins in 2025](https://appleinsider.com/articles/24/12/19/how-apples-smart-home-revolution-begins-in-2025?utm_medium=rss)
- - [Craig Wright Found in Contempt of Court Over Bitcoin Creation Claims](https://www.wired.com/story/craig-wright-the-self-styled-creator-of-bitcoin-handed-suspended-prison-sentence/)<!-- TECH:END -->
+ - [The best budget robot vacuums](https://www.theverge.com/23846479/best-budget-robot-vacuum-robot-mop)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [9 Best Standing Desks of 2024, Tested and Reviewed](https://www.wired.com/gallery/best-standing-desks/)
- - [Congress approves $3B in funding for a project to remove Huawei and ZTE equipment from US networks nationwide; Trump&#39;s FCC started the initiative in 2020 &lpar;Washington Post&rpar;](http://www.techmeme.com/241219/p19#a241219p19)
- - [How Bengaluru, the &quot;Silicon Valley of India&quot;, is under pressure as rapid growth tests local infrastructure; its population jumped from 8M in 2010 to ~14M now &lpar;Business Insider&rpar;](http://www.techmeme.com/241219/p18#a241219p18)
- - [Apple pushed hard by EU to make iOS and iPadOS more interoperable](https://www.theverge.com/2024/12/19/24324894/apple-eu-ios-interoperability-requests-dma-pushback)
- - [28 of the Best TikTok Gifts That Are Actually Worth the Hype in 2024](https://www.cnet.com/news/best-tiktok-gifts/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [In 2024, hackers stole $2.2B in crypto across 303 hacks, up from $1.8B across 282 hacks in 2023; in H1 2024, $1.58B had been stolen, but the pace slowed in H2 &lpar;Chainalysis&rpar;](http://www.techmeme.com/241219/p20#a241219p20)
+ - [Starlink’s first nationwide satellite texting service launches in New Zealand](https://www.theverge.com/2024/12/19/24324924/starlink-nationwide-satellite-texting-new-zealand-one-nz)
+ - [Apple&#39;s Indonesia iPhone 16 ban drama will probably end with $1 billion investment](https://appleinsider.com/articles/24/12/19/apples-indonesia-iphone-16-ban-drama-will-probably-end-with-1-billion-investment?utm_medium=rss)
+ - [All of Our Hopes and Fears for Tech in 2025](https://www.wired.com/story/uncanny-valley-podcast-7-tech-hopes-fears/)
+ - [9 Best Standing Desks of 2024, Tested and Reviewed](https://www.wired.com/gallery/best-standing-desks/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Apple begins pulling iPhone SE, 14, and 14 Plus from EU](https://www.theverge.com/2024/12/20/24325893/apple-usb-c-eu-iphone-se-iphone-14-iphone-14-plus)
+ - [TikTok nonsense, iPhone 17 rumors, and the Blackmagic Camera on the AppleInsider Podcast](https://appleinsider.com/articles/24/12/20/tiktok-nonsense-iphone-17-rumors-and-the-blackmagic-camera-on-the-appleinsider-podcast?utm_medium=rss)
  - [How to stop spam calls and reclaim some sanity on your iPhone](https://appleinsider.com/articles/24/12/20/how-to-stop-spam-calls-and-reclaim-some-sanity-on-your-iphone?utm_medium=rss)
  - [US hospital operator Ascension notifies ~5.6M patients and staffers that their personal and health data was stolen in a May 2024 cyberattack &lpar;Sergiu Gatlan/BleepingComputer&rpar;](http://www.techmeme.com/241220/p12#a241220p12)
- - [Google Fiber’s internet plans are getting simpler](https://www.theverge.com/2024/12/20/24325828/google-fiber-simplifying-internet-plans)
- - [I Talked With a Disney Imagineer About Those New Haunted Mansion Illusions](https://www.cnet.com/tech/i-talked-with-a-disney-imagineer-about-those-new-haunted-mansion-illusions/#ftag=CAD590a51e)
- - [Bundesliga Soccer Livestream: How to Watch Bayern Munich vs. RB Leipzig From Anywhere](https://www.cnet.com/tech/services-and-software/bundesliga-soccer-livestream-how-to-watch-bayern-munich-vs-rb-leipzig-from-anywhere/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Google Fiber’s internet plans are getting simpler](https://www.theverge.com/2024/12/20/24325828/google-fiber-simplifying-internet-plans)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

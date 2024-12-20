@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [What did he even do?](http://9gag.com/gag/aKGmW4b)
- - 😝 [How to ruin your life](http://9gag.com/gag/aLnvGnW)
- - 💣 [How great the weather feels is up to you. How sexy it feels is up to your news channel.](http://9gag.com/gag/a1m1DvR)
+ - 😝 [Maybe a new set of teeth?](http://9gag.com/gag/aD2DnQN)
  - 😝 [New Uber update](http://9gag.com/gag/ayN936X)
- - 👉 [Interesting](http://9gag.com/gag/ae9g4M5)<!-- MEMES:END -->
+ - 💣 [12 seconds and he anexed \ud83d\udfe5](http://9gag.com/gag/apRg1ZW)
+ - 😝 [What did he even do?](http://9gag.com/gag/aKGmW4b)
+ - 👉 [Unstoppable Workweek Power..](http://9gag.com/gag/aPAZxnQ)<!-- MEMES:END -->
 
 ---
 

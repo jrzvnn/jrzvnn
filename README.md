@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [&#39;Batman: Arkham Shadow&#39; Proves VR Gaming Isn&#39;t Just a Gimmick](https://www.wired.com/story/batman-arkham-shadow-is-a-glimpse-into-the-future-of-gaming-the-industry-should-pay-attention/)
+ - [Robert Eggers wants you to see his Nosferatu as both a lover and a biter](https://www.theverge.com/2024/12/20/24322594/robert-eggers-nosferatu-interview)
  - [Netflix will stream the Women’s World Cup in 2027 and 2031](https://www.theverge.com/2024/12/20/24325822/netflix-fifa-womens-world-cup-us-streaming-rights)
  - [Linden Lab says it has spent $1.3B building Second Life since 2003, paid out $1.1B to creators, and the virtual world has an economy of ~$650M per year &lpar;Dean Takahashi/VentureBeat&rpar;](http://www.techmeme.com/241220/p9#a241220p9)
- - [Google Search will reportedly have a dedicated ‘AI Mode’ soon](https://www.theverge.com/2024/12/20/24325776/google-search-dedicated-ai-mode-gemini)
- - [2025 will be the year of the smart lock](https://www.theverge.com/24313084/smart-lock-home-preview-2025-matter-apple)
- - [The Vergecast Matter Holiday Spec-tacular](https://www.theverge.com/2024/12/20/24325573/matter-protocol-thread-home-assistant-vergecast)<!-- TECH:END -->
+ - [Google Search will reportedly have a dedicated ‘AI Mode’ soon](https://www.theverge.com/2024/12/20/24325776/google-search-dedicated-ai-mode-gemini)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

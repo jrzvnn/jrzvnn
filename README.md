@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Man helps police make an arrest.](http://9gag.com/gag/aBynLZN)
- - 😝 [When you try to be open but she is closed](http://9gag.com/gag/aE08Vxn)
- - 💣 [Gamble away](http://9gag.com/gag/a0eZewq)
- - 😝 [Who wants to go next](http://9gag.com/gag/axyBy0W)
- - 👉 [When your instinct almost betray you](http://9gag.com/gag/a5Q1B8r)<!-- MEMES:END -->
+ - 😝 [When they ask `what is you talent?`](http://9gag.com/gag/a0eZX5v)
+ - 😝 [King of Spain during improper flag raising](http://9gag.com/gag/aNDPvb4)
+ - 💣 [When your instinct almost betray you](http://9gag.com/gag/a5Q1B8r)
+ - 😝 [Gamble away](http://9gag.com/gag/a0eZewq)
+ - 👉 [Run away Matt! Run away!](http://9gag.com/gag/aLnvzvA)<!-- MEMES:END -->
 
 ---
 

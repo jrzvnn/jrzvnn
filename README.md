@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Some people should not be on the road](http://9gag.com/gag/aPAZmLQ)
+ - 😝 [Of sugars and daddies](http://9gag.com/gag/apRg3mB)
+ - 😝 [The whole rap moment is cancer](http://9gag.com/gag/aLnvzVz)
+ - 💣 [Interesting](http://9gag.com/gag/ae9g4M5)
  - 😝 [Over 200 rapes, still wants a public trial. Face of bravery](http://9gag.com/gag/a6Z152b)
- - 💣 [Because of AI, many artists are going back to traditional ways](http://9gag.com/gag/aPAZm1V)
- - 😝 [How great the weather feels is up to you. How sexy it feels is up to your news channel.](http://9gag.com/gag/a1m1DvR)
- - 👉 [A dignified scam](http://9gag.com/gag/aQzXQx7)<!-- MEMES:END -->
+ - 👉 [Unstoppable Workweek Power..](http://9gag.com/gag/aPAZxnQ)<!-- MEMES:END -->
 
 ---
 

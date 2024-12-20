@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The CFPB sues Zelle operator EWS, JPMorgan Chase, BoA, and Wells Fargo, alleging that customers lost $870M+ to fraud since the launch of Zelle in 2017 &lpar;Hugh Son/CNBC&rpar;](http://www.techmeme.com/241220/p11#a241220p11)
+ - [We repaired an iPhone to see if iOS 18 fixes iPhone repair](https://www.theverge.com/24325804/apple-iphone-ios-18-right-to-repair)
  - [How to screen calls on an iPhone](https://www.theverge.com/24325270/iphone-apple-spam-calls-screen-how-to)
  - [Italy&#39;s data regulator fines OpenAI &amp;euro;15M after its probe found that the startup processed users&#39; personal data to train ChatGPT without an adequate legal basis &lpar;Reuters&rpar;](http://www.techmeme.com/241220/p10#a241220p10)
- - [Indiana Jones and the Great Circle Review: Fortune and Glory](https://www.wired.com/review/indiana-jones-and-the-great-circle/)
- - [Answering your biggest Decoder questions](https://www.theverge.com/24325789/decoder-mailbag-2024-answering-questions-feedback-youtube-spotify-podcast)
- - [The Verge’s 2024 in review](https://www.theverge.com/24305538/2024-best-worst-streaming-gaming-tech-list-roundup)<!-- TECH:END -->
+ - [Indiana Jones and the Great Circle Review: Fortune and Glory](https://www.wired.com/review/indiana-jones-and-the-great-circle/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

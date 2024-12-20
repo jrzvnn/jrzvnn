@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [I Used AI to Do All of My Holiday Shopping](https://www.wired.com/story/chatbots-holiday-shopping-gifts/)
+ - [Why Can’t You Switch Seats in an Empty Airplane?](https://www.wired.com/story/why-cant-you-switch-seats-in-an-empty-airplane/)
  - [Experts say Apple&#39;s spyware notifications for victims are a game changer for research; the notifications direct the victims to nonprofit security lab Access Now &lpar;Lorenzo Franceschi-Bicchierai/TechCrunch&rpar;](http://www.techmeme.com/241220/p13#a241220p13)
  - [Apple begins pulling iPhone SE, 14, and 14 Plus from EU](https://www.theverge.com/2024/12/20/24325893/apple-usb-c-eu-iphone-se-iphone-14-iphone-14-plus)
- - [TikTok nonsense, iPhone 17 rumors, and the Blackmagic Camera on the AppleInsider Podcast](https://appleinsider.com/articles/24/12/20/tiktok-nonsense-iphone-17-rumors-and-the-blackmagic-camera-on-the-appleinsider-podcast?utm_medium=rss)
- - [How to stop spam calls and reclaim some sanity on your iPhone](https://appleinsider.com/articles/24/12/20/how-to-stop-spam-calls-and-reclaim-some-sanity-on-your-iphone?utm_medium=rss)
- - [US hospital operator Ascension notifies ~5.6M patients and staffers that their personal and health data was stolen in a May 2024 cyberattack &lpar;Sergiu Gatlan/BleepingComputer&rpar;](http://www.techmeme.com/241220/p12#a241220p12)<!-- TECH:END -->
+ - [TikTok nonsense, iPhone 17 rumors, and the Blackmagic Camera on the AppleInsider Podcast](https://appleinsider.com/articles/24/12/20/tiktok-nonsense-iphone-17-rumors-and-the-blackmagic-camera-on-the-appleinsider-podcast?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

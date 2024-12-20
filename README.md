@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Because of AI, many artists are going back to traditional ways](http://9gag.com/gag/aPAZm1V)
+ - 😝 [How great the weather feels is up to you. How sexy it feels is up to your news channel.](http://9gag.com/gag/a1m1DvR)
  - 😝 [New Uber update](http://9gag.com/gag/ayN936X)
- - 💣 [Some people should not be on the road](http://9gag.com/gag/aPAZmLQ)
- - 😝 [King of Spain during improper flag raising](http://9gag.com/gag/aNDPvb4)
- - 👉 [Interesting](http://9gag.com/gag/ae9g4M5)<!-- MEMES:END -->
+ - 💣 [King of Spain during improper flag raising](http://9gag.com/gag/aNDPvb4)
+ - 😝 [Run away Matt! Run away!](http://9gag.com/gag/aLnvzvA)
+ - 👉 [Unstoppable Workweek Power..](http://9gag.com/gag/aPAZxnQ)<!-- MEMES:END -->
 
 ---
 

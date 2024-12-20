@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The UK CMA says its phase one probe finds that chip designer Synopsys&#39; $35B acquisition of 3D software maker Ansys could reduce innovation and increase prices &lpar;Reuters&rpar;](http://www.techmeme.com/241220/p7#a241220p7)
+ - [I’m Spending the Holidays Watching Cabin Builders on TikTok—While I Still Can](https://www.wired.com/story/im-spending-the-holidays-watching-cabin-builders-on-tiktok-while-i-still-can/)
+ - [Bluesky updates its app to include a separate mentions tab in notifications, protections against username squatting, and new controls for replies sorting &lpar;Ivan Mehta/TechCrunch&rpar;](http://www.techmeme.com/241220/p6#a241220p6)
  - [14 Best Office Chairs of 2024— I&#39;ve Tested 55+ to Pick Them](https://www.wired.com/gallery/best-office-chairs/)
- - [The EU commission approves Nvidia&#39;s acquisition of Israeli AI workload management startup Run:ai, saying the takeover raises no competition concerns in the EU &lpar;Samuel Stolton/Bloomberg&rpar;](http://www.techmeme.com/241220/p5#a241220p5)
- - [2025 Will Be Smart Glasses All the Way Down](https://www.wired.com/story/smart-glasses-all-the-way-down/)
- - [20 Best Gifts for Gamers for the Holidays 2024](https://www.cnet.com/tech/gaming/best-gifts-for-gamers/#ftag=CAD590a51e)
- - [Best Coffee Makers for 2024](https://www.cnet.com/home/kitchen-and-household/best-coffee-maker/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [The EU commission approves Nvidia&#39;s acquisition of Israeli AI workload management startup Run:ai, saying the takeover raises no competition concerns in the EU &lpar;Samuel Stolton/Bloomberg&rpar;](http://www.techmeme.com/241220/p5#a241220p5)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

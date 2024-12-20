@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [21 WIRED-Tested Gifts for People Who Need Some Sleep &lpar;2024&rpar;](https://www.wired.com/gallery/gift-ideas-for-sleeping/)
  - [&#39;Batman: Arkham Shadow&#39; Proves VR Gaming Isn&#39;t Just a Gimmick](https://www.wired.com/story/batman-arkham-shadow-is-a-glimpse-into-the-future-of-gaming-the-industry-should-pay-attention/)
  - [Robert Eggers wants you to see his Nosferatu as both a lover and a biter](https://www.theverge.com/2024/12/20/24322594/robert-eggers-nosferatu-interview)
  - [Netflix will stream the Women’s World Cup in 2027 and 2031](https://www.theverge.com/2024/12/20/24325822/netflix-fifa-womens-world-cup-us-streaming-rights)
- - [Linden Lab says it has spent $1.3B building Second Life since 2003, paid out $1.1B to creators, and the virtual world has an economy of ~$650M per year &lpar;Dean Takahashi/VentureBeat&rpar;](http://www.techmeme.com/241220/p9#a241220p9)
- - [Google Search will reportedly have a dedicated ‘AI Mode’ soon](https://www.theverge.com/2024/12/20/24325776/google-search-dedicated-ai-mode-gemini)<!-- TECH:END -->
+ - [Linden Lab says it has spent $1.3B building Second Life since 2003, paid out $1.1B to creators, and the virtual world has an economy of ~$650M per year &lpar;Dean Takahashi/VentureBeat&rpar;](http://www.techmeme.com/241220/p9#a241220p9)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

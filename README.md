@@ -157,7 +157,7 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [A federal jury in Delaware finds that Qualcomm didn&#39;t violate the terms of an agreement covering Arm&#39;s chip designs that was part of the $1.4B buyout of Nuvia &lpar;Jef Feeley/Bloomberg&rpar;](http://www.techmeme.com/241220/p22#a241220p22)
+ - [A federal jury in Delaware finds that Qualcomm didn&#39;t violate the terms of an agreement covering Arm&#39;s chip designs that was part of the $1.4B buyout of Nuvia &lpar;Bloomberg&rpar;](http://www.techmeme.com/241220/p22#a241220p22)
  - [Here are the shipping and return policies for all the big-name retailers](https://www.theverge.com/21570161/holiday-shipping-return-policy-apple-google-microsoft-amazon)
  - [How Spotify used its Perfect Fit Content program to rig its system against musicians, filling popular playlists with &quot;ghost artists&quot; to cut its royalty payouts &lpar;Liz Pelly/Harper&#39;s&rpar;](http://www.techmeme.com/241220/p21#a241220p21)
  - [The AI talent wars are just getting started](https://www.theverge.com/2024/12/20/24326135/ai-talent-wars-databricks-interview)

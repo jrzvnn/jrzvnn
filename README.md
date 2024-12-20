@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Singapore-based bolttech, a B2B2C startup that offers &quot;embedded&quot; insurance products, raised a $100M+ Series C led by Dragon Fund at a $2.1B valuation &lpar;Yantoultra Ngui/Reuters&rpar;](http://www.techmeme.com/241219/p38#a241219p38)
  - [Sources: Anysphere, developer of GitHub Copilot rival Cursor, raised a $100M Series B at a $2.6B valuation, up from a $400M valuation in August 2024 &lpar;Marina Temkin/TechCrunch&rpar;](http://www.techmeme.com/241219/p37#a241219p37)
  - [Episode One Projector review: Cheap and compact, with consequences](https://appleinsider.com/articles/24/12/20/episode-one-projector-review-cheap-and-compact-with-consequences?utm_medium=rss)
  - [Best Internet Providers in Gulfport, Mississippi](https://www.cnet.com/home/internet/best-internet-providers-in-gulfport-ms/#ftag=CAD590a51e)
- - [Apple researchers say the company&#39;s open-source ReDrafter method on Nvidia GPUs led to a 2.7x speed increase in generated tokens per second for greedy encoding &lpar;Malcolm Owen/AppleInsider&rpar;](http://www.techmeme.com/241219/p36#a241219p36)
- - [Researchers unveil Genesis, an open-source generative physics engine that trains robots in simulated reality 430K times faster than in the real world &lpar;Benj Edwards/Ars Technica&rpar;](http://www.techmeme.com/241219/p35#a241219p35)<!-- TECH:END -->
+ - [Apple researchers say the company&#39;s open-source ReDrafter method on Nvidia GPUs led to a 2.7x speed increase in generated tokens per second for greedy encoding &lpar;Malcolm Owen/AppleInsider&rpar;](http://www.techmeme.com/241219/p36#a241219p36)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

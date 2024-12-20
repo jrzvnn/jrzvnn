@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [`Hold on to the fish`](http://9gag.com/gag/amogWeV)
- - 😝 [12 seconds and he anexed \ud83d\udfe5](http://9gag.com/gag/apRg1ZW)
- - 💣 [Interesting](http://9gag.com/gag/ae9g4M5)
  - 😝 [What did he even do?](http://9gag.com/gag/aKGmW4b)
- - 👉 [Over 200 rapes, still wants a public trial. Face of bravery](http://9gag.com/gag/a6Z152b)<!-- MEMES:END -->
+ - 😝 [How to ruin your life](http://9gag.com/gag/aLnvGnW)
+ - 💣 [How great the weather feels is up to you. How sexy it feels is up to your news channel.](http://9gag.com/gag/a1m1DvR)
+ - 😝 [New Uber update](http://9gag.com/gag/ayN936X)
+ - 👉 [Interesting](http://9gag.com/gag/ae9g4M5)<!-- MEMES:END -->
 
 ---
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [This scene doesn&#39;t need subtitles even for non Spanish speakers](http://9gag.com/gag/aE08qLN)
- - 😝 [Girl tried to kill 10 people with a gun at a school in Brazil, Lyedja Yasmin, 19](http://9gag.com/gag/aD2D2LN)
- - 💣 [Who wants to go next](http://9gag.com/gag/axyBy0W)
- - 😝 [I didn&#39;t know but now I know, and you know too.](http://9gag.com/gag/aE08VPM)
- - 👉 [Gamble away](http://9gag.com/gag/a0eZewq)<!-- MEMES:END -->
+ - 😝 [What a B*tch!](http://9gag.com/gag/aW4g743)
+ - 😝 [In the absence of a mobile phone, this is how I imagine about myself.](http://9gag.com/gag/aZZrn7V)
+ - 💣 [`You&#39;re as beautiful as in the day i lost you`](http://9gag.com/gag/apRgDP8)
+ - 😝 [Sure, things are bad, but here&#39;s something to make you smile...](http://9gag.com/gag/a87101O)
+ - 👉 [At one with nature](http://9gag.com/gag/aByn6PQ)<!-- MEMES:END -->
 
 ---
 

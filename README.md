@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [This Tropical Virus Is Spreading Out of the Amazon to the US and Europe](https://www.wired.com/story/this-tropical-virus-is-spreading-out-of-the-amazon-to-the-us-and-europe/)
+ - [Reduce strain on your ports with this 240 USB-C cable that rotates and bends](https://www.theverge.com/2024/12/20/24325936/sanwa-supply-usb-c-flexible-240w-charging-cable)
+ - [YouTube is cracking down on clickbait](https://www.theverge.com/2024/12/20/24325999/youtube-clickbait-crackdown-india)
  - [OpenAI teases new reasoning model—but don’t expect to try it soon](https://www.theverge.com/2024/12/20/24326036/openai-o1-o2-o3-reasoning-model-testing)
- - [NHTSA finally releases new rules for self-driving cars — but there’s a twist](https://www.theverge.com/2024/12/20/24325996/nhtsa-av-step-autonomous-vehicle-regulatory-framework)
- - [Three of the biggest US banks are facing a lawsuit for ‘widespread fraud’ on Zelle](https://www.theverge.com/2024/12/20/24325923/cfpb-zelle-lawsuit-widespread-fraud)
- - [OpenAI says safety researchers can sign up for o3 preview today and it did not name the new model o2 &quot;out of respect&quot; for the UK telecom brand &lpar;Bloomberg&rpar;](http://www.techmeme.com/241220/p17#a241220p17)
- - [OpenAI unveils o3 and o3-mini, trained to &quot;think&quot; before responding via what OpenAI calls a &quot;private chain of thought&quot;, and plans to launch them early next year &lpar;Maxwell Zeff/TechCrunch&rpar;](http://www.techmeme.com/241220/p16#a241220p16)<!-- TECH:END -->
+ - [NHTSA finally releases new rules for self-driving cars — but there’s a twist](https://www.theverge.com/2024/12/20/24325996/nhtsa-av-step-autonomous-vehicle-regulatory-framework)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

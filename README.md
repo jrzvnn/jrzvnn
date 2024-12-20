@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [When your instinct almost betray you](http://9gag.com/gag/a5Q1B8r)
- - 😝 [Run away Matt! Run away!](http://9gag.com/gag/aLnvzvA)
- - 💣 [A dignified scam](http://9gag.com/gag/aQzXQx7)
- - 😝 [When you try to be open but she is closed](http://9gag.com/gag/aE08Vxn)
- - 👉 [King of Spain during improper flag raising](http://9gag.com/gag/aNDPvb4)<!-- MEMES:END -->
+ - 😝 [Peter Parker should have picked Ursula over MJ.](http://9gag.com/gag/aQzXgnW)
+ - 😝 [Interesting](http://9gag.com/gag/ae9g4M5)
+ - 💣 [When your instinct almost betray you](http://9gag.com/gag/a5Q1B8r)
+ - 😝 [New Uber update](http://9gag.com/gag/ayN936X)
+ - 👉 [When you try to be open but she is closed](http://9gag.com/gag/aE08Vxn)<!-- MEMES:END -->
 
 ---
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Interesting](http://9gag.com/gag/ae9g4M5)
- - 😝 [King of Spain during improper flag raising](http://9gag.com/gag/aNDPvb4)
+ - 😝 [Some people should not be on the road](http://9gag.com/gag/aPAZmLQ)
+ - 😝 [Over 200 rapes, still wants a public trial. Face of bravery](http://9gag.com/gag/a6Z152b)
  - 💣 [Because of AI, many artists are going back to traditional ways](http://9gag.com/gag/aPAZm1V)
- - 😝 [9gaggers](http://9gag.com/gag/aD2DZ6Z)
- - 👉 [When your instinct almost betray you](http://9gag.com/gag/a5Q1B8r)<!-- MEMES:END -->
+ - 😝 [How great the weather feels is up to you. How sexy it feels is up to your news channel.](http://9gag.com/gag/a1m1DvR)
+ - 👉 [A dignified scam](http://9gag.com/gag/aQzXQx7)<!-- MEMES:END -->
 
 ---
 

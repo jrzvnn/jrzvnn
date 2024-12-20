@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [How to stop spam calls and reclaim some sanity on your iPhone](https://appleinsider.com/articles/24/12/20/how-to-stop-spam-calls-and-reclaim-some-sanity-on-your-iphone?utm_medium=rss)
+ - [US hospital operator Ascension notifies ~5.6M patients and staffers that their personal and health data was stolen in a May 2024 cyberattack &lpar;Sergiu Gatlan/BleepingComputer&rpar;](http://www.techmeme.com/241220/p12#a241220p12)
  - [Google Fiber’s internet plans are getting simpler](https://www.theverge.com/2024/12/20/24325828/google-fiber-simplifying-internet-plans)
  - [I Talked With a Disney Imagineer About Those New Haunted Mansion Illusions](https://www.cnet.com/tech/i-talked-with-a-disney-imagineer-about-those-new-haunted-mansion-illusions/#ftag=CAD590a51e)
- - [Bundesliga Soccer Livestream: How to Watch Bayern Munich vs. RB Leipzig From Anywhere](https://www.cnet.com/tech/services-and-software/bundesliga-soccer-livestream-how-to-watch-bayern-munich-vs-rb-leipzig-from-anywhere/#ftag=CAD590a51e)
- - [These Powered Exoskeleton Pants Gave Me a MASSIVE Boost! video](https://www.cnet.com/videos/these-powered-exoskeleton-pants-gave-me-a-massive-boost/#ftag=CAD590a51e)
- - [Purple Restore Premier Review: Purple&#39;s Softest Hybrid Mattress](https://www.cnet.com/health/sleep/purple-restore-premier-review-purples-softest-hybrid-mattress/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Bundesliga Soccer Livestream: How to Watch Bayern Munich vs. RB Leipzig From Anywhere](https://www.cnet.com/tech/services-and-software/bundesliga-soccer-livestream-how-to-watch-bayern-munich-vs-rb-leipzig-from-anywhere/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

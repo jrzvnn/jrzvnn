@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Peter Parker should have picked Ursula over MJ.](http://9gag.com/gag/aQzXgnW)
- - 😝 [Gamble away](http://9gag.com/gag/a0eZewq)
- - 💣 [New Uber update](http://9gag.com/gag/ayN936X)
- - 😝 [Girl tried to kill 10 people with a gun at a school in Brazil, Lyedja Yasmin, 19](http://9gag.com/gag/aD2D2LN)
- - 👉 [When they ask `what is you talent?`](http://9gag.com/gag/a0eZX5v)<!-- MEMES:END -->
+ - 😝 [Interesting](http://9gag.com/gag/ae9g4M5)
+ - 😝 [A dignified scam](http://9gag.com/gag/aQzXQx7)
+ - 💣 [Because of AI, many artists are going back to traditional ways](http://9gag.com/gag/aPAZm1V)
+ - 😝 [When they ask `what is you talent?`](http://9gag.com/gag/a0eZX5v)
+ - 👉 [When your instinct almost betray you](http://9gag.com/gag/a5Q1B8r)<!-- MEMES:END -->
 
 ---
 

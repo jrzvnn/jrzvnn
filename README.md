@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [2025 will be the year of the smart lock](https://www.theverge.com/24313084/smart-lock-home-preview-2025-matter-apple)
  - [The Vergecast Matter Holiday Spec-tacular](https://www.theverge.com/2024/12/20/24325573/matter-protocol-thread-home-assistant-vergecast)
  - [Home Office Setup Guide &lpar;2024&rpar;: Webcams, Desks, Chairs, and More](https://www.wired.com/story/work-from-home-home-office-gear-guide/)
  - [16 Best Hair Straighteners We Tested &lpar;2024&rpar; | WIRED](https://www.wired.com/gallery/best-hair-straighteners/)
- - [How to Stay Safe While Shopping For Last-Minute Holiday Gifts](https://www.cnet.com/tech/services-and-software/5-ways-to-keep-online-scammers-from-ruining-your-holiday-shopping/#ftag=CAD590a51e)
- - [Apple Vision Pro Finally Gets Better Fit, Improved Mac Modes At Year&#39;s End](https://www.cnet.com/tech/computing/apple-vision-pro-finally-gets-better-fit-improved-mac-modes-at-years-end/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [How to Stay Safe While Shopping For Last-Minute Holiday Gifts](https://www.cnet.com/tech/services-and-software/5-ways-to-keep-online-scammers-from-ruining-your-holiday-shopping/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

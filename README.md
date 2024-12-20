@@ -166,10 +166,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Interesting](http://9gag.com/gag/ae9g4M5)
- - 😝 [A dignified scam](http://9gag.com/gag/aQzXQx7)
- - 💣 [Because of AI, many artists are going back to traditional ways](http://9gag.com/gag/aPAZm1V)
+ - 😝 [How great the weather feels is up to you. How sexy it feels is up to your news channel.](http://9gag.com/gag/a1m1DvR)
  - 😝 [When they ask `what is you talent?`](http://9gag.com/gag/a0eZX5v)
+ - 💣 [A dignified scam](http://9gag.com/gag/aQzXQx7)
+ - 😝 [Interesting](http://9gag.com/gag/ae9g4M5)
  - 👉 [When your instinct almost betray you](http://9gag.com/gag/a5Q1B8r)<!-- MEMES:END -->
 
 ---

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [How to change FaceTime audio &amp; video settings for clearer calls](https://appleinsider.com/inside/facetime/tips/how-to-change-facetime-audio-video-settings-for-clearer-calls?utm_medium=rss)
- - [Singapore-based bolttech, a B2B2C startup that offers &quot;embedded&quot; insurance products, raised a $100M+ Series C led by Dragon Fund at a $2.1B valuation &lpar;Yantoultra Ngui/Reuters&rpar;](http://www.techmeme.com/241219/p38#a241219p38)
- - [Best Internet Providers in Huntington Beach, California](https://www.cnet.com/home/internet/best-internet-providers-in-huntington-beach-ca/#ftag=CAD590a51e)
- - [Sources: Anysphere, developer of GitHub Copilot rival Cursor, raised a $100M Series B at a $2.6B valuation, up from a $400M valuation in August 2024 &lpar;Marina Temkin/TechCrunch&rpar;](http://www.techmeme.com/241219/p37#a241219p37)
- - [Episode One Projector review: Cheap and compact, with consequences](https://appleinsider.com/articles/24/12/20/episode-one-projector-review-cheap-and-compact-with-consequences?utm_medium=rss)<!-- TECH:END -->
+ - [Today&#39;s NYT Mini Crossword Answers for Friday, Dec. 20](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-friday-dec-20/#ftag=CAD590a51e)
+ - [Today&#39;s Wordle Hints, Answer and Help for Dec. 20, #1280](https://www.cnet.com/tech/gaming/todays-wordle-hints-answer-and-help-for-dec-20-1280/#ftag=CAD590a51e)
+ - [Today&#39;s NYT Connections Hints, Answers and Help for Dec. 20, #558](https://www.cnet.com/tech/gaming/todays-nyt-connections-hints-answers-and-help-for-dec-20-558/#ftag=CAD590a51e)
+ - [Today&#39;s NYT Strands Hints, Answers and Help for Dec. 20, #292](https://www.cnet.com/tech/gaming/todays-nyt-strands-hints-answers-and-help-for-dec-20-292/#ftag=CAD590a51e)
+ - [Today&#39;s NYT Connections: Sports Edition Hints and Answers for Dec. 20, #88](https://www.cnet.com/tech/gaming/todays-nyt-connections-sports-edition-hints-and-answers-for-dec-20-88/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

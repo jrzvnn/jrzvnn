@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Here are the shipping and return policies for all the big-name retailers](https://www.theverge.com/21570161/holiday-shipping-return-policy-apple-google-microsoft-amazon)
+ - [How Spotify used its Perfect Fit Content program to rig its system against musicians, filling popular playlists with &quot;ghost artists&quot; to cut its royalty payouts &lpar;Liz Pelly/Harper&#39;s&rpar;](http://www.techmeme.com/241220/p21#a241220p21)
  - [The AI talent wars are just getting started](https://www.theverge.com/2024/12/20/24326135/ai-talent-wars-databricks-interview)
  - [Third episode of &#39;Adventure&#39; immersive video series dives onto Apple Vision Pro](https://appleinsider.com/articles/24/12/20/third-episode-of-adventure-immersive-video-series-dives-onto-apple-vision-pro?utm_medium=rss)
- - [Shivakumar Venkataraman, a longtime Google executive who joined OpenAI earlier this year to help lead the development of search and AI for enterprise, has left &lpar;The Information&rpar;](http://www.techmeme.com/241220/p20#a241220p20)
- - [Moxie robot may be saved by a last-minute open-sourcing effort](https://appleinsider.com/articles/24/12/20/moxie-robot-may-be-saved-by-a-last-minute-open-sourcing-effort?utm_medium=rss)
- - [The US charges dual Russian and Israeli national Rostislav Panev for allegedly working with the LockBit ransomware group and seeks his extradition from Israel &lpar;Jamie Tarabay/Bloomberg&rpar;](http://www.techmeme.com/241220/p19#a241220p19)<!-- TECH:END -->
+ - [Shivakumar Venkataraman, a longtime Google executive who joined OpenAI earlier in 2024 to help lead the development of search and AI for enterprise, has left &lpar;The Information&rpar;](http://www.techmeme.com/241220/p20#a241220p20)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

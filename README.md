@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Run away Matt! Run away!](http://9gag.com/gag/aLnvzvA)
- - 😝 [When you try to be open but she is closed](http://9gag.com/gag/aE08Vxn)
- - 💣 [Man helps police make an arrest.](http://9gag.com/gag/aBynLZN)
- - 😝 [King of Spain during improper flag raising](http://9gag.com/gag/aNDPvb4)
- - 👉 [Unstoppable Workweek Power..](http://9gag.com/gag/aPAZxnQ)<!-- MEMES:END -->
+ - 😝 [In the absence of a mobile phone, this is how I imagine about myself.](http://9gag.com/gag/aZZrn7V)
+ - 😝 [Team Work](http://9gag.com/gag/awyz1n1)
+ - 💣 [At one with nature](http://9gag.com/gag/aByn6PQ)
+ - 😝 [Dolphin playing catch with football](http://9gag.com/gag/apRg3N9)
+ - 👉 [King of Spain during improper flag raising](http://9gag.com/gag/aNDPvb4)<!-- MEMES:END -->
 
 ---
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Squid Game: Unleashed is a fun game and a terrible adaptation](https://www.theverge.com/2024/12/20/24325810/squid-game-unleashed-netflix-mobile-game)
  - [Apple Vision Pro is driving VR use from games to healthcare and productivity](https://appleinsider.com/articles/24/12/20/apple-vision-pro-is-driving-vr-use-from-games-to-healthcare-and-productivity?utm_medium=rss)
  - [Sam Altman says Elon Musk is &quot;clearly a bully&quot; who is suing OpenAI because the startup is doing really well and calls the lawsuits &quot;a little bit of a sideshow&quot; &lpar;Fortune&rpar;](http://www.techmeme.com/241220/p14#a241220p14)
  - [I Used AI to Do All of My Holiday Shopping](https://www.wired.com/story/chatbots-holiday-shopping-gifts/)
- - [Why Can’t You Switch Seats in an Empty Airplane?](https://www.wired.com/story/why-cant-you-switch-seats-in-an-empty-airplane/)
- - [When to Stream &#39;Between the Temples&#39; on Netflix](https://www.cnet.com/tech/services-and-software/when-to-stream-between-the-temples-on-netflix/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Why Can’t You Switch Seats in an Empty Airplane?](https://www.wired.com/story/why-cant-you-switch-seats-in-an-empty-airplane/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

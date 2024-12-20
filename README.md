@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The CFPB sues Zelle operator EWS, JPMorgan Chase, BoA, and Wells Fargo, alleging that customers lost $870M+ to fraud since the launch of Zelle in 2017 &lpar;Hugh Son/CNBC&rpar;](http://www.techmeme.com/241220/p11#a241220p11)
- - [We repaired an iPhone to see if iOS 18 fixes iPhone repair](https://www.theverge.com/24325804/apple-iphone-ios-18-right-to-repair)
- - [How to screen calls on an iPhone](https://www.theverge.com/24325270/iphone-apple-spam-calls-screen-how-to)
- - [Italy&#39;s data regulator fines OpenAI &amp;euro;15M after its probe found that the startup processed users&#39; personal data to train ChatGPT without an adequate legal basis &lpar;Reuters&rpar;](http://www.techmeme.com/241220/p10#a241220p10)
- - [Indiana Jones and the Great Circle Review: Fortune and Glory](https://www.wired.com/review/indiana-jones-and-the-great-circle/)<!-- TECH:END -->
+ - [Google Fiber’s internet plans are getting simpler](https://www.theverge.com/2024/12/20/24325828/google-fiber-simplifying-internet-plans)
+ - [I Talked With a Disney Imagineer About Those New Haunted Mansion Illusions](https://www.cnet.com/tech/i-talked-with-a-disney-imagineer-about-those-new-haunted-mansion-illusions/#ftag=CAD590a51e)
+ - [Bundesliga Soccer Livestream: How to Watch Bayern Munich vs. RB Leipzig From Anywhere](https://www.cnet.com/tech/services-and-software/bundesliga-soccer-livestream-how-to-watch-bayern-munich-vs-rb-leipzig-from-anywhere/#ftag=CAD590a51e)
+ - [These Powered Exoskeleton Pants Gave Me a MASSIVE Boost! video](https://www.cnet.com/videos/these-powered-exoskeleton-pants-gave-me-a-massive-boost/#ftag=CAD590a51e)
+ - [Purple Restore Premier Review: Purple&#39;s Softest Hybrid Mattress](https://www.cnet.com/health/sleep/purple-restore-premier-review-purples-softest-hybrid-mattress/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

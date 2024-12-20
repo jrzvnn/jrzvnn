@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The Vergecast Matter Holiday Spec-tacular](https://www.theverge.com/2024/12/20/24325573/matter-protocol-thread-home-assistant-vergecast)
+ - [Home Office Setup Guide &lpar;2024&rpar;: Webcams, Desks, Chairs, and More](https://www.wired.com/story/work-from-home-home-office-gear-guide/)
  - [16 Best Hair Straighteners We Tested &lpar;2024&rpar; | WIRED](https://www.wired.com/gallery/best-hair-straighteners/)
- - [Senators rip into automakers for selling customer data and blocking right to repair](https://www.theverge.com/2024/12/20/24325236/car-right-to-repair-data-collect-senator-letter)
- - [The UK ICO criticizes Google&#39;s plans to no longer prohibit companies using its ad products from employing fingerprinting techniques from 16 February 2025 &lpar;Robert Booth/The Guardian&rpar;](http://www.techmeme.com/241220/p8#a241220p8)
- - [What’s the Winter Solstice? Celebrations, Science, Livestream](https://www.wired.com/story/winter-solstice/)
- - [The UK CMA says its phase one probe finds that chip designer Synopsys&#39; $35B acquisition of 3D software maker Ansys could reduce innovation and increase prices &lpar;Reuters&rpar;](http://www.techmeme.com/241220/p7#a241220p7)<!-- TECH:END -->
+ - [How to Stay Safe While Shopping For Last-Minute Holiday Gifts](https://www.cnet.com/tech/services-and-software/5-ways-to-keep-online-scammers-from-ruining-your-holiday-shopping/#ftag=CAD590a51e)
+ - [Apple Vision Pro Finally Gets Better Fit, Improved Mac Modes At Year&#39;s End](https://www.cnet.com/tech/computing/apple-vision-pro-finally-gets-better-fit-improved-mac-modes-at-years-end/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [In the absence of a mobile phone, this is how I imagine about myself.](http://9gag.com/gag/aZZrn7V)
- - 😝 [Team Work](http://9gag.com/gag/awyz1n1)
- - 💣 [At one with nature](http://9gag.com/gag/aByn6PQ)
- - 😝 [Dolphin playing catch with football](http://9gag.com/gag/apRg3N9)
- - 👉 [King of Spain during improper flag raising](http://9gag.com/gag/aNDPvb4)<!-- MEMES:END -->
+ - 😝 [Peter Parker should have picked Ursula over MJ.](http://9gag.com/gag/aQzXgnW)
+ - 😝 [Who wants to go next](http://9gag.com/gag/axyBy0W)
+ - 💣 [Man helps police make an arrest.](http://9gag.com/gag/aBynLZN)
+ - 😝 [Of sugars and daddies](http://9gag.com/gag/apRg3mB)
+ - 👉 [New Uber update](http://9gag.com/gag/ayN936X)<!-- MEMES:END -->
 
 ---
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Netflix will stream the Women’s World Cup in 2027 and 2031](https://www.theverge.com/2024/12/20/24325822/netflix-fifa-womens-world-cup-us-streaming-rights)
+ - [Linden Lab says it has spent $1.3B building Second Life since 2003, paid out $1.1B to creators, and the virtual world has an economy of ~$650M per year &lpar;Dean Takahashi/VentureBeat&rpar;](http://www.techmeme.com/241220/p9#a241220p9)
+ - [Google Search will reportedly have a dedicated ‘AI Mode’ soon](https://www.theverge.com/2024/12/20/24325776/google-search-dedicated-ai-mode-gemini)
  - [2025 will be the year of the smart lock](https://www.theverge.com/24313084/smart-lock-home-preview-2025-matter-apple)
- - [The Vergecast Matter Holiday Spec-tacular](https://www.theverge.com/2024/12/20/24325573/matter-protocol-thread-home-assistant-vergecast)
- - [Home Office Setup Guide &lpar;2024&rpar;: Webcams, Desks, Chairs, and More](https://www.wired.com/story/work-from-home-home-office-gear-guide/)
- - [16 Best Hair Straighteners We Tested &lpar;2024&rpar; | WIRED](https://www.wired.com/gallery/best-hair-straighteners/)
- - [How to Stay Safe While Shopping For Last-Minute Holiday Gifts](https://www.cnet.com/tech/services-and-software/5-ways-to-keep-online-scammers-from-ruining-your-holiday-shopping/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [The Vergecast Matter Holiday Spec-tacular](https://www.theverge.com/2024/12/20/24325573/matter-protocol-thread-home-assistant-vergecast)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Malaysia says it has identified WhatsApp, Facebook, Instagram, X, YouTube, Telegram, WeChat, and TikTok as platforms that need to obtain a license by next year &lpar;Bloomberg&rpar;](http://www.techmeme.com/241220/p4#a241220p4)
  - [AI Labels Need to Be the New Norm in 2025](https://www.cnet.com/tech/services-and-software/ai-labels-need-to-be-the-new-norm-in-2025/#ftag=CAD590a51e)
  - [Use the ‘Anti-AI’ Camera Apps Zerocam and Hallide to Keep Your Photos Looking More Natural](https://www.wired.com/story/zerocam-hallide-anti-ai-camera-apps-for-better-smartphone-photos/)
  - [Mortgage Rates Inch Up Since Last Week: Today&#39;s Mortgage Rates for Dec. 20, 2024](https://www.cnet.com/personal-finance/mortgages/mortgage-rates-inch-up-since-last-week-todays-mortgage-rates-for-dec-20-2024/#ftag=CAD590a51e)
- - [Homeowners Face Higher Refi Rates: Mortgage Refinance Rates on Dec. 20, 2024](https://www.cnet.com/personal-finance/mortgages/homeowners-face-higher-refi-rates-mortgage-refinance-rates-on-dec-20-2024/#ftag=CAD590a51e)
- - [Q&amp;A with Australia&#39;s eSafety Commissioner Julie Inman Grant on what led to the country&#39;s under-16 social media ban, enforcement, unintended consequences, more &lpar;Bobby Allyn/NPR&rpar;](http://www.techmeme.com/241220/p3#a241220p3)<!-- TECH:END -->
+ - [Homeowners Face Higher Refi Rates: Mortgage Refinance Rates on Dec. 20, 2024](https://www.cnet.com/personal-finance/mortgages/homeowners-face-higher-refi-rates-mortgage-refinance-rates-on-dec-20-2024/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

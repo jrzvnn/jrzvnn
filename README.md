@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The US charges dual Russian and Israeli national Rostislav Panev for allegedly working with the LockBit ransomware group and seeks his extradition from Israel &lpar;Jamie Tarabay/Bloomberg&rpar;](http://www.techmeme.com/241220/p19#a241220p19)
  - [o3, trained on ARC-AGI-1 Public Training set, scored 87.5% on ARC Prize&#39;s Semi-Private Evaluation in a high-compute configuration; GPT-4o scored 5% in 2024 &lpar;ARC Prize&rpar;](http://www.techmeme.com/241220/p18#a241220p18)
  - [This Tropical Virus Is Spreading Out of the Amazon to the US and Europe](https://www.wired.com/story/this-tropical-virus-is-spreading-out-of-the-amazon-to-the-us-and-europe/)
  - [This 240W USB-C cable’s connector both rotates and bends](https://www.theverge.com/2024/12/20/24325936/sanwa-supply-usb-c-flexible-240w-charging-cable)
- - [YouTube is cracking down on clickbait](https://www.theverge.com/2024/12/20/24325999/youtube-clickbait-crackdown-india)
- - [OpenAI teases new reasoning model—but don’t expect to try it soon](https://www.theverge.com/2024/12/20/24326036/openai-o1-o2-o3-reasoning-model-testing)<!-- TECH:END -->
+ - [YouTube is cracking down on clickbait](https://www.theverge.com/2024/12/20/24325999/youtube-clickbait-crackdown-india)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

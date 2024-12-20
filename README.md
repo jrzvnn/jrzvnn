@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [AI Labels Need to Be the New Norm in 2025](https://www.cnet.com/tech/services-and-software/ai-labels-need-to-be-the-new-norm-in-2025/#ftag=CAD590a51e)
  - [Use the ‘Anti-AI’ Camera Apps Zerocam and Hallide to Keep Your Photos Looking More Natural](https://www.wired.com/story/zerocam-hallide-anti-ai-camera-apps-for-better-smartphone-photos/)
- - [Q&amp;A with Australia&#39;s eSafety Commissioner Julie Inman Grant on what led to the country&#39;s under-16 social media ban, enforcement, unintended consequences, more &lpar;Bobby Allyn/NPR&rpar;](http://www.techmeme.com/241220/p3#a241220p3)
- - [Generative AI Still Needs to Prove Its Usefulness](https://www.wired.com/story/generative-ai-will-need-to-prove-its-usefulness/)
- - [Blood Types: Why Knowing Yours Is Crucial and How to Find It](https://www.cnet.com/health/medical/blood-types-why-knowing-yours-is-crucial-and-how-to-find-it/#ftag=CAD590a51e)
- - [2025 Mortgage Rate Forecast: Will Homebuyers Finally Get Some Relief?](https://www.cnet.com/personal-finance/2025-mortgage-rate-forecast-will-homebuyers-finally-get-some-relief/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Mortgage Rates Inch Up Since Last Week: Today&#39;s Mortgage Rates for Dec. 20, 2024](https://www.cnet.com/personal-finance/mortgages/mortgage-rates-inch-up-since-last-week-todays-mortgage-rates-for-dec-20-2024/#ftag=CAD590a51e)
+ - [Homeowners Face Higher Refi Rates: Mortgage Refinance Rates on Dec. 20, 2024](https://www.cnet.com/personal-finance/mortgages/homeowners-face-higher-refi-rates-mortgage-refinance-rates-on-dec-20-2024/#ftag=CAD590a51e)
+ - [Q&amp;A with Australia&#39;s eSafety Commissioner Julie Inman Grant on what led to the country&#39;s under-16 social media ban, enforcement, unintended consequences, more &lpar;Bobby Allyn/NPR&rpar;](http://www.techmeme.com/241220/p3#a241220p3)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

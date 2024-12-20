@@ -167,9 +167,9 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [What did he even do?](http://9gag.com/gag/aKGmW4b)
- - 😝 [12 seconds and he anexed \ud83d\udfe5](http://9gag.com/gag/apRg1ZW)
- - 💣 [I dont remember this episode](http://9gag.com/gag/avyAEG5)
- - 😝 [New Uber update](http://9gag.com/gag/ayN936X)
+ - 😝 [No in between](http://9gag.com/gag/aPAZ8mV)
+ - 💣 [New Uber update](http://9gag.com/gag/ayN936X)
+ - 😝 [I dont remember this episode](http://9gag.com/gag/avyAEG5)
  - 👉 [The fruit with the most comments is...](http://9gag.com/gag/aQzXA9z)<!-- MEMES:END -->
 
 ---

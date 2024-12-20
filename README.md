@@ -167,10 +167,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [When your instinct almost betray you](http://9gag.com/gag/a5Q1B8r)
- - 😝 [Interesting](http://9gag.com/gag/ae9g4M5)
- - 💣 [Unstoppable Workweek Power..](http://9gag.com/gag/aPAZxnQ)
- - 😝 [Man helps police make an arrest.](http://9gag.com/gag/aBynLZN)
- - 👉 [When you try to be open but she is closed](http://9gag.com/gag/aE08Vxn)<!-- MEMES:END -->
+ - 😝 [Run away Matt! Run away!](http://9gag.com/gag/aLnvzvA)
+ - 💣 [A dignified scam](http://9gag.com/gag/aQzXQx7)
+ - 😝 [When you try to be open but she is closed](http://9gag.com/gag/aE08Vxn)
+ - 👉 [King of Spain during improper flag raising](http://9gag.com/gag/aNDPvb4)<!-- MEMES:END -->
 
 ---
 

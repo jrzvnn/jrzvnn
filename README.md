@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [A dignified scam](http://9gag.com/gag/aQzXQx7)
- - 😝 [When your instinct almost betray you](http://9gag.com/gag/a5Q1B8r)
- - 💣 [Unstoppable Workweek Power..](http://9gag.com/gag/aPAZxnQ)
- - 😝 [New Uber update](http://9gag.com/gag/ayN936X)
- - 👉 [Man helps police make an arrest.](http://9gag.com/gag/aBynLZN)<!-- MEMES:END -->
+ - 😝 [King of Spain during improper flag raising](http://9gag.com/gag/aNDPvb4)
+ - 😝 [12 seconds and he anexed \ud83d\udfe5](http://9gag.com/gag/apRg1ZW)
+ - 💣 [Interesting](http://9gag.com/gag/ae9g4M5)
+ - 😝 [Gamble away](http://9gag.com/gag/a0eZewq)
+ - 👉 [New Uber update](http://9gag.com/gag/ayN936X)<!-- MEMES:END -->
 
 ---
 

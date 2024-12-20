@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Who wants to go next](http://9gag.com/gag/axyBy0W)
- - 😝 [A dignified scam](http://9gag.com/gag/aQzXQx7)
- - 💣 [Girl tried to kill 10 people with a gun at a school in Brazil, Lyedja Yasmin, 19](http://9gag.com/gag/aD2D2LN)
- - 😝 [New Uber update](http://9gag.com/gag/ayN936X)
- - 👉 [12 seconds and he anexed \ud83d\udfe5](http://9gag.com/gag/apRg1ZW)<!-- MEMES:END -->
+ - 😝 [Gamble away](http://9gag.com/gag/a0eZewq)
+ - 😝 [Shitass420 the month after](http://9gag.com/gag/amogAD6)
+ - 💣 [Peter Parker should have picked Ursula over MJ.](http://9gag.com/gag/aQzXgnW)
+ - 😝 [When you try to be open but she is closed](http://9gag.com/gag/aE08Vxn)
+ - 👉 [New Uber update](http://9gag.com/gag/ayN936X)<!-- MEMES:END -->
 
 ---
 

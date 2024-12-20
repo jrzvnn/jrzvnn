@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Peter Parker should have picked Ursula over MJ.](http://9gag.com/gag/aQzXgnW)
- - 😝 [Who wants to go next](http://9gag.com/gag/axyBy0W)
- - 💣 [Man helps police make an arrest.](http://9gag.com/gag/aBynLZN)
- - 😝 [Of sugars and daddies](http://9gag.com/gag/apRg3mB)
- - 👉 [New Uber update](http://9gag.com/gag/ayN936X)<!-- MEMES:END -->
+ - 😝 [When your instinct almost betray you](http://9gag.com/gag/a5Q1B8r)
+ - 😝 [Interesting](http://9gag.com/gag/ae9g4M5)
+ - 💣 [Unstoppable Workweek Power..](http://9gag.com/gag/aPAZxnQ)
+ - 😝 [Man helps police make an arrest.](http://9gag.com/gag/aBynLZN)
+ - 👉 [When you try to be open but she is closed](http://9gag.com/gag/aE08Vxn)<!-- MEMES:END -->
 
 ---
 

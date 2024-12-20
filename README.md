@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [16 Best Hair Straighteners We Tested &lpar;2024&rpar; | WIRED](https://www.wired.com/gallery/best-hair-straighteners/)
+ - [Senators rip into automakers for selling customer data and blocking right to repair](https://www.theverge.com/2024/12/20/24325236/car-right-to-repair-data-collect-senator-letter)
  - [The UK ICO criticizes Google&#39;s plans to no longer prohibit companies using its ad products from employing fingerprinting techniques from 16 February 2025 &lpar;Robert Booth/The Guardian&rpar;](http://www.techmeme.com/241220/p8#a241220p8)
  - [What’s the Winter Solstice? Celebrations, Science, Livestream](https://www.wired.com/story/winter-solstice/)
- - [The UK CMA says its phase one probe finds that chip designer Synopsys&#39; $35B acquisition of 3D software maker Ansys could reduce innovation and increase prices &lpar;Reuters&rpar;](http://www.techmeme.com/241220/p7#a241220p7)
- - [Sling TV&#39;s Price Increase Is Here: What to Know About Your Account](https://www.cnet.com/tech/services-and-software/sling-tv-price-increase-is-here-what-to-know-about-your-account/#ftag=CAD590a51e)
- - [Droyd Fury Review: 4-Wheel Fun for Young Ones](https://www.cnet.com/roadshow/news/droyd-fury-review-4-wheel-fun-for-young-ones/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [The UK CMA says its phase one probe finds that chip designer Synopsys&#39; $35B acquisition of 3D software maker Ansys could reduce innovation and increase prices &lpar;Reuters&rpar;](http://www.techmeme.com/241220/p7#a241220p7)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

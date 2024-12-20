@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The best Xbox controller to buy right now](https://www.theverge.com/23025443/best-xbox-controllers-one-series-x-s)
  - [Rumble announces a $775M investment from Tether and plans to use $525M to fund a tender offer for ~70M shares of its common stock; RUM jumps 35%+ after hours &lpar;Stephen Alpher/CoinDesk&rpar;](http://www.techmeme.com/241220/p25#a241220p25)
  - [Google hired 100+ staffers of Magic Leap as contractors to assist with Google&#39;s work on its new Android XR OS, raising questions about the future of Magic Leap &lpar;Sylvia Varnham O&#39;Regan/The Information&rpar;](http://www.techmeme.com/241220/p24#a241220p24)
  - [US reveals charges against alleged LockBit ransomware developer](https://www.theverge.com/2024/12/20/24326156/us-lockbit-ransomware-developer-charges)
- - [US DOJ says a Romanian involved in Netwalker ransomware attacks has been sentenced to 20 years in prison after pleading guilty to computer fraud and wire fraud &lpar;Sergiu Gatlan/BleepingComputer&rpar;](http://www.techmeme.com/241220/p23#a241220p23)
- - [We rounded up 40 last-minute gifts you can still grab in time for the holidays](https://www.theverge.com/24323542/best-last-minute-gifts-ideas-unique)<!-- TECH:END -->
+ - [US DOJ says a Romanian involved in Netwalker ransomware attacks has been sentenced to 20 years in prison after pleading guilty to computer fraud and wire fraud &lpar;Sergiu Gatlan/BleepingComputer&rpar;](http://www.techmeme.com/241220/p23#a241220p23)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [What a B*tch!](http://9gag.com/gag/aW4g743)
- - 😝 [In the absence of a mobile phone, this is how I imagine about myself.](http://9gag.com/gag/aZZrn7V)
- - 💣 [`You&#39;re as beautiful as in the day i lost you`](http://9gag.com/gag/apRgDP8)
- - 😝 [Sure, things are bad, but here&#39;s something to make you smile...](http://9gag.com/gag/a87101O)
- - 👉 [At one with nature](http://9gag.com/gag/aByn6PQ)<!-- MEMES:END -->
+ - 😝 [Gamble away](http://9gag.com/gag/a0eZewq)
+ - 😝 [I didn&#39;t know but now I know, and you know too.](http://9gag.com/gag/aE08VPM)
+ - 💣 [`Hold on to the fish`](http://9gag.com/gag/amogWeV)
+ - 😝 [A dignified scam](http://9gag.com/gag/aQzXQx7)
+ - 👉 [When you try to be open but she is closed](http://9gag.com/gag/aE08Vxn)<!-- MEMES:END -->
 
 ---
 

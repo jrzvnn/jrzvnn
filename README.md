@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [How great the weather feels is up to you. How sexy it feels is up to your news channel.](http://9gag.com/gag/a1m1DvR)
- - 😝 [When they ask `what is you talent?`](http://9gag.com/gag/a0eZX5v)
- - 💣 [A dignified scam](http://9gag.com/gag/aQzXQx7)
+ - 😝 [When your instinct almost betray you](http://9gag.com/gag/a5Q1B8r)
  - 😝 [Interesting](http://9gag.com/gag/ae9g4M5)
- - 👉 [When your instinct almost betray you](http://9gag.com/gag/a5Q1B8r)<!-- MEMES:END -->
+ - 💣 [Girl tried to kill 10 people with a gun at a school in Brazil, Lyedja Yasmin, 19](http://9gag.com/gag/aD2D2LN)
+ - 😝 [Man helps police make an arrest.](http://9gag.com/gag/aBynLZN)
+ - 👉 [Gamble away](http://9gag.com/gag/a0eZewq)<!-- MEMES:END -->
 
 ---
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [When your instinct almost betray you](http://9gag.com/gag/a5Q1B8r)
+ - 😝 [Because of AI, many artists are going back to traditional ways](http://9gag.com/gag/aPAZm1V)
+ - 😝 [New Uber update](http://9gag.com/gag/ayN936X)
+ - 💣 [Some people should not be on the road](http://9gag.com/gag/aPAZmLQ)
  - 😝 [King of Spain during improper flag raising](http://9gag.com/gag/aNDPvb4)
- - 💣 [A dignified scam](http://9gag.com/gag/aQzXQx7)
- - 😝 [Run away Matt! Run away!](http://9gag.com/gag/aLnvzvA)
- - 👉 [New Uber update](http://9gag.com/gag/ayN936X)<!-- MEMES:END -->
+ - 👉 [Interesting](http://9gag.com/gag/ae9g4M5)<!-- MEMES:END -->
 
 ---
 

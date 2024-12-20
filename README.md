@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [When they ask `what is you talent?`](http://9gag.com/gag/a0eZX5v)
- - 😝 [King of Spain during improper flag raising](http://9gag.com/gag/aNDPvb4)
- - 💣 [When your instinct almost betray you](http://9gag.com/gag/a5Q1B8r)
- - 😝 [Gamble away](http://9gag.com/gag/a0eZewq)
- - 👉 [Run away Matt! Run away!](http://9gag.com/gag/aLnvzvA)<!-- MEMES:END -->
+ - 😝 [12 seconds and he anexed \ud83d\udfe5](http://9gag.com/gag/apRg1ZW)
+ - 😝 [Interesting](http://9gag.com/gag/ae9g4M5)
+ - 💣 [When you try to be open but she is closed](http://9gag.com/gag/aE08Vxn)
+ - 😝 [A dignified scam](http://9gag.com/gag/aQzXQx7)
+ - 👉 [When your instinct almost betray you](http://9gag.com/gag/a5Q1B8r)<!-- MEMES:END -->
 
 ---
 

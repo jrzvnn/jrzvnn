@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Gamble away](http://9gag.com/gag/a0eZewq)
- - 😝 [I didn&#39;t know but now I know, and you know too.](http://9gag.com/gag/aE08VPM)
- - 💣 [`Hold on to the fish`](http://9gag.com/gag/amogWeV)
- - 😝 [A dignified scam](http://9gag.com/gag/aQzXQx7)
- - 👉 [When you try to be open but she is closed](http://9gag.com/gag/aE08Vxn)<!-- MEMES:END -->
+ - 😝 [Man helps police make an arrest.](http://9gag.com/gag/aBynLZN)
+ - 😝 [12 seconds and he anexed \ud83d\udfe5](http://9gag.com/gag/apRg1ZW)
+ - 💣 [A dignified scam](http://9gag.com/gag/aQzXQx7)
+ - 😝 [Of sugars and daddies](http://9gag.com/gag/apRg3mB)
+ - 👉 [New Uber update](http://9gag.com/gag/ayN936X)<!-- MEMES:END -->
 
 ---
 

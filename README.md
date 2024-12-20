@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [How to screen calls on an iPhone](https://www.theverge.com/24325270/iphone-apple-spam-calls-screen-how-to)
  - [Italy&#39;s data regulator fines OpenAI &amp;euro;15M after its probe found that the startup processed users&#39; personal data to train ChatGPT without an adequate legal basis &lpar;Reuters&rpar;](http://www.techmeme.com/241220/p10#a241220p10)
  - [Indiana Jones and the Great Circle Review: Fortune and Glory](https://www.wired.com/review/indiana-jones-and-the-great-circle/)
  - [Answering your biggest Decoder questions](https://www.theverge.com/24325789/decoder-mailbag-2024-answering-questions-feedback-youtube-spotify-podcast)
- - [The Verge’s 2024 in review](https://www.theverge.com/24305538/2024-best-worst-streaming-gaming-tech-list-roundup)
- - [21 WIRED-Tested Gifts for People Who Need Some Sleep &lpar;2024&rpar;](https://www.wired.com/gallery/gift-ideas-for-sleeping/)<!-- TECH:END -->
+ - [The Verge’s 2024 in review](https://www.theverge.com/24305538/2024-best-worst-streaming-gaming-tech-list-roundup)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

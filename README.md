@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [This Unemployment Class Action Settlement Ends Today: Are You Eligible?](https://www.cnet.com/personal-finance/this-unemployment-class-action-settlement-ends-today-are-you-eligible/#ftag=CAD590a51e)
- - [Crypto executives worry that the EU&#39;s MiCA, which puts stringent conditions on crypto exchanges to list stablecoins like USDT, will drain liquidity from markets &lpar;Emily Nicolle/Bloomberg&rpar;](http://www.techmeme.com/241220/p2#a241220p2)
- - [eBay Coupon Codes and Deals: Up to 60% Off Select Items](https://www.wired.com/story/ebay-coupon-code/)
- - [SAP promoted a team lead accused by five female staff of targeting female subordinates, raising concerns about company culture and workplace discrimination &lpar;Bloomberg&rpar;](http://www.techmeme.com/241220/p1#a241220p1)
- - [Sony&#39;s shares in Japan surged 50%+ from an August low to reach its new all-time high since 2000 last week, as investors are bullish on its gaming growth in 2025 &lpar;Bloomberg&rpar;](http://www.techmeme.com/241219/p39#a241219p39)<!-- TECH:END -->
+ - [Q&amp;A with Australia&#39;s eSafety Commissioner Julie Inman Grant on what led to the country&#39;s under-16 social media ban, enforcement, unintended consequences, more &lpar;Bobby Allyn/NPR&rpar;](http://www.techmeme.com/241220/p3#a241220p3)
+ - [Generative AI Still Needs to Prove Its Usefulness](https://www.wired.com/story/generative-ai-will-need-to-prove-its-usefulness/)
+ - [Blood Types: Why Knowing Yours Is Crucial and How to Find It](https://www.cnet.com/health/medical/blood-types-why-knowing-yours-is-crucial-and-how-to-find-it/#ftag=CAD590a51e)
+ - [2025 Mortgage Rate Forecast: Will Homebuyers Finally Get Some Relief?](https://www.cnet.com/personal-finance/2025-mortgage-rate-forecast-will-homebuyers-finally-get-some-relief/#ftag=CAD590a51e)
+ - [This Unemployment Class Action Settlement Ends Today: Are You Eligible?](https://www.cnet.com/personal-finance/this-unemployment-class-action-settlement-ends-today-are-you-eligible/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

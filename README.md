@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Maybe a new set of teeth?](http://9gag.com/gag/aD2DnQN)
- - 😝 [New Uber update](http://9gag.com/gag/ayN936X)
- - 💣 [12 seconds and he anexed \ud83d\udfe5](http://9gag.com/gag/apRg1ZW)
  - 😝 [What did he even do?](http://9gag.com/gag/aKGmW4b)
- - 👉 [Unstoppable Workweek Power..](http://9gag.com/gag/aPAZxnQ)<!-- MEMES:END -->
+ - 😝 [12 seconds and he anexed \ud83d\udfe5](http://9gag.com/gag/apRg1ZW)
+ - 💣 [I dont remember this episode](http://9gag.com/gag/avyAEG5)
+ - 😝 [New Uber update](http://9gag.com/gag/ayN936X)
+ - 👉 [The fruit with the most comments is...](http://9gag.com/gag/aQzXA9z)<!-- MEMES:END -->
 
 ---
 

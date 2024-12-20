@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Squid Game: Unleashed is a fun game and a terrible adaptation](https://www.theverge.com/2024/12/20/24325810/squid-game-unleashed-netflix-mobile-game)
- - [Apple Vision Pro is driving VR use from games to healthcare and productivity](https://appleinsider.com/articles/24/12/20/apple-vision-pro-is-driving-vr-use-from-games-to-healthcare-and-productivity?utm_medium=rss)
- - [Sam Altman says Elon Musk is &quot;clearly a bully&quot; who is suing OpenAI because the startup is doing really well and calls the lawsuits &quot;a little bit of a sideshow&quot; &lpar;Fortune&rpar;](http://www.techmeme.com/241220/p14#a241220p14)
- - [I Used AI to Do All of My Holiday Shopping](https://www.wired.com/story/chatbots-holiday-shopping-gifts/)
- - [Why Can’t You Switch Seats in an Empty Airplane?](https://www.wired.com/story/why-cant-you-switch-seats-in-an-empty-airplane/)<!-- TECH:END -->
+ - [OpenAI says safety researchers can sign up for o3 preview today and it did not name the new model o2 &quot;out of respect&quot; for the UK telecom brand &lpar;Bloomberg&rpar;](http://www.techmeme.com/241220/p17#a241220p17)
+ - [OpenAI unveils o3 and o3-mini, trained to &quot;think&quot; before responding via what OpenAI calls a &quot;private chain of thought&quot;, and plans to launch them early next year &lpar;Maxwell Zeff/TechCrunch&rpar;](http://www.techmeme.com/241220/p16#a241220p16)
+ - [The proposed climate fix tech companies just spent millions on? Rocks.](https://www.theverge.com/2024/12/20/24320692/google-tech-terradot-enhanced-rock-weathering-frontier-carbon-removal-climate)
+ - [Grindr will cover as much as $300,000 in fertility, surrogacy, and adoption costs for staffers who have been at the company for 18+ months, starting next year &lpar;Kelsey Butler/Bloomberg&rpar;](http://www.techmeme.com/241220/p15#a241220p15)
+ - [OpenAI Upgrades Its Smartest AI Model With Improved Reasoning Skills](https://www.wired.com/story/openai-o3-reasoning-model-google-gemini/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

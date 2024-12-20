@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Of sugars and daddies](http://9gag.com/gag/apRg3mB)
- - 😝 [The whole rap moment is cancer](http://9gag.com/gag/aLnvzVz)
+ - 😝 [`Hold on to the fish`](http://9gag.com/gag/amogWeV)
+ - 😝 [12 seconds and he anexed \ud83d\udfe5](http://9gag.com/gag/apRg1ZW)
  - 💣 [Interesting](http://9gag.com/gag/ae9g4M5)
- - 😝 [Over 200 rapes, still wants a public trial. Face of bravery](http://9gag.com/gag/a6Z152b)
- - 👉 [Unstoppable Workweek Power..](http://9gag.com/gag/aPAZxnQ)<!-- MEMES:END -->
+ - 😝 [What did he even do?](http://9gag.com/gag/aKGmW4b)
+ - 👉 [Over 200 rapes, still wants a public trial. Face of bravery](http://9gag.com/gag/a6Z152b)<!-- MEMES:END -->
 
 ---
 

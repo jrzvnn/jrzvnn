@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Man helps police make an arrest.](http://9gag.com/gag/aBynLZN)
- - 😝 [12 seconds and he anexed \ud83d\udfe5](http://9gag.com/gag/apRg1ZW)
- - 💣 [A dignified scam](http://9gag.com/gag/aQzXQx7)
- - 😝 [Of sugars and daddies](http://9gag.com/gag/apRg3mB)
- - 👉 [New Uber update](http://9gag.com/gag/ayN936X)<!-- MEMES:END -->
+ - 😝 [Who wants to go next](http://9gag.com/gag/axyBy0W)
+ - 😝 [A dignified scam](http://9gag.com/gag/aQzXQx7)
+ - 💣 [Girl tried to kill 10 people with a gun at a school in Brazil, Lyedja Yasmin, 19](http://9gag.com/gag/aD2D2LN)
+ - 😝 [New Uber update](http://9gag.com/gag/ayN936X)
+ - 👉 [12 seconds and he anexed \ud83d\udfe5](http://9gag.com/gag/apRg1ZW)<!-- MEMES:END -->
 
 ---
 

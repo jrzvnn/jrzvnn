@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [21 WIRED-Tested Gifts for People Who Need Some Sleep &lpar;2024&rpar;](https://www.wired.com/gallery/gift-ideas-for-sleeping/)
- - [&#39;Batman: Arkham Shadow&#39; Proves VR Gaming Isn&#39;t Just a Gimmick](https://www.wired.com/story/batman-arkham-shadow-is-a-glimpse-into-the-future-of-gaming-the-industry-should-pay-attention/)
- - [Robert Eggers wants you to see his Nosferatu as both a lover and a biter](https://www.theverge.com/2024/12/20/24322594/robert-eggers-nosferatu-interview)
- - [Netflix will stream the Women’s World Cup in 2027 and 2031](https://www.theverge.com/2024/12/20/24325822/netflix-fifa-womens-world-cup-us-streaming-rights)
- - [Linden Lab says it has spent $1.3B building Second Life since 2003, paid out $1.1B to creators, and the virtual world has an economy of ~$650M per year &lpar;Dean Takahashi/VentureBeat&rpar;](http://www.techmeme.com/241220/p9#a241220p9)<!-- TECH:END -->
+ - [Italy&#39;s data regulator fines OpenAI &amp;euro;15M after its probe found that the startup processed users&#39; personal data to train ChatGPT without an adequate legal basis &lpar;Reuters&rpar;](http://www.techmeme.com/241220/p10#a241220p10)
+ - [Indiana Jones and the Great Circle Review: Fortune and Glory](https://www.wired.com/review/indiana-jones-and-the-great-circle/)
+ - [Answering your biggest Decoder questions](https://www.theverge.com/24325789/decoder-mailbag-2024-answering-questions-feedback-youtube-spotify-podcast)
+ - [The Verge’s 2024 in review](https://www.theverge.com/24305538/2024-best-worst-streaming-gaming-tech-list-roundup)
+ - [21 WIRED-Tested Gifts for People Who Need Some Sleep &lpar;2024&rpar;](https://www.wired.com/gallery/gift-ideas-for-sleeping/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

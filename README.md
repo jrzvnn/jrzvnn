@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Bluesky now has a mentions tab in your notifications area](https://www.theverge.com/2024/12/19/24325515/bluesky-mentions-tab-notifications-update-1-96)
- - [Best Smart Scale for 2024](https://www.cnet.com/health/fitness/best-smart-scale/#ftag=CAD590a51e)
- - [You Should Rinse All Produce, but Especially Wash These 12 Pesticide-Prone Fruits and Vegetables](https://www.cnet.com/news/you-should-rinse-all-produce-but-especially-these-12-pesticide-prone-fruits-vegetables/#ftag=CAD590a51e)
- - [Best Internet Providers in Louisiana](https://www.cnet.com/home/internet/best-internet-providers-in-louisiana/#ftag=CAD590a51e)
- - [Charlotte, NC-based Aiwyn, which provides automation software for accounting firms, raised $113M led by KKR and Bessemer, bringing its total funding to $127M &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/241219/p34#a241219p34)<!-- TECH:END -->
+ - [Sources: Anysphere, developer of GitHub Copilot rival Cursor, raised a $100M Series B at a $2.6B valuation, up from a $400M valuation in August 2024 &lpar;Marina Temkin/TechCrunch&rpar;](http://www.techmeme.com/241219/p37#a241219p37)
+ - [Episode One Projector review: Cheap and compact, with consequences](https://appleinsider.com/articles/24/12/20/episode-one-projector-review-cheap-and-compact-with-consequences?utm_medium=rss)
+ - [Best Internet Providers in Gulfport, Mississippi](https://www.cnet.com/home/internet/best-internet-providers-in-gulfport-ms/#ftag=CAD590a51e)
+ - [Apple researchers say the company&#39;s open-source ReDrafter method on Nvidia GPUs led to a 2.7x speed increase in generated tokens per second for greedy encoding &lpar;Malcolm Owen/AppleInsider&rpar;](http://www.techmeme.com/241219/p36#a241219p36)
+ - [Researchers unveil Genesis, an open-source generative physics engine that trains robots in simulated reality 430K times faster than in the real world &lpar;Benj Edwards/Ars Technica&rpar;](http://www.techmeme.com/241219/p35#a241219p35)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

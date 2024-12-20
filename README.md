@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Charlotte, NC-based Aiwyn, which provides automation software for accounting firms, raised $113M led by KKR and Bessemer, bringing its total funding to $127M &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/241219/p34#a241219p34)
- - [Google Street View helped police solve a missing persons case](https://www.theverge.com/2024/12/19/24325360/google-street-view-police-solve-murder)
- - [&#39;Outlander&#39; Season 7 Part 2 Release Schedule and How to Watch Episode 13](https://www.cnet.com/tech/services-and-software/outlander-season-7-part-2-episode-release-schedule-how-to-watch/#ftag=CAD590a51e)
- - [Gifts Your In-Laws Will Love for the Holidays in 2024](https://www.cnet.com/news/gifts-your-in-laws-will-love/#ftag=CAD590a51e)
- - [What We’ve Learned About Mattress Firmness, Thanks to Our Mattress Smasher 9000](https://www.cnet.com/health/what-weve-learned-about-mattress-firmness-thanks-to-our-mattress-smasher-9000/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Bluesky now has a mentions tab in your notifications area](https://www.theverge.com/2024/12/19/24325515/bluesky-mentions-tab-notifications-update-1-96)
+ - [Best Smart Scale for 2024](https://www.cnet.com/health/fitness/best-smart-scale/#ftag=CAD590a51e)
+ - [You Should Rinse All Produce, but Especially Wash These 12 Pesticide-Prone Fruits and Vegetables](https://www.cnet.com/news/you-should-rinse-all-produce-but-especially-these-12-pesticide-prone-fruits-vegetables/#ftag=CAD590a51e)
+ - [Best Internet Providers in Louisiana](https://www.cnet.com/home/internet/best-internet-providers-in-louisiana/#ftag=CAD590a51e)
+ - [Charlotte, NC-based Aiwyn, which provides automation software for accounting firms, raised $113M led by KKR and Bessemer, bringing its total funding to $127M &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/241219/p34#a241219p34)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

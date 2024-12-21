@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Tai Mo Shan, part of Jump Trading&#39;s crypto unit, agrees to pay $123M to settle SEC&#39;s claims it misled investors about the stability of TerraUSD &lpar;David Scheer/Bloomberg&rpar;](http://www.techmeme.com/241220/p28#a241220p28)
+ - [Sources: David Sacks&#39; role as WH AI and crypto czar will be limited to an adviser role, overseen by Michael Kratsios, partly because he won&#39;t divest from Craft &lpar;Kali Hays/Fortune&rpar;](http://www.techmeme.com/241220/p27#a241220p27)
  - [A study by Waymo and insurer Swiss Re finds Waymo&#39;s vehicles were safer than those driven by humans, with a 92% reduction in bodily injury claims and more &lpar;Andrew J. Hawkins/The Verge&rpar;](http://www.techmeme.com/241220/p26#a241220p26)
  - [Qualcomm wins a legal battle over Arm chip licensing](https://www.theverge.com/2024/12/20/24326242/qualcomm-legal-battle-win-arm-chip-licensing)
- - [The best Xbox controller to buy right now](https://www.theverge.com/23025443/best-xbox-controllers-one-series-x-s)
- - [Rumble announces a $775M investment from Tether and plans to use $525M to fund a tender offer for ~70M shares of its common stock; RUM jumps 35%+ after hours &lpar;Stephen Alpher/CoinDesk&rpar;](http://www.techmeme.com/241220/p25#a241220p25)
- - [Google hired 100+ staffers of Magic Leap as contractors to assist with Google&#39;s work on its new Android XR OS, raising questions about the future of Magic Leap &lpar;Sylvia Varnham O&#39;Regan/The Information&rpar;](http://www.techmeme.com/241220/p24#a241220p24)<!-- TECH:END -->
+ - [The best Xbox controller to buy right now](https://www.theverge.com/23025443/best-xbox-controllers-one-series-x-s)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [14 Best Planners: Weekly and Daily Notebooks &amp; Accessories &lpar;2024&rpar;](https://www.wired.com/story/best-paper-planners/)
  - [TCL’s new AI short films range from bad comedy to existential horror](https://www.theverge.com/2024/12/21/24319502/tcl-new-ai-films-bad-comedy-existential-horror-ranked)
  - [LG’s brilliant B4 OLED TV is on sale with a $50 gift card for its best price ever](https://www.theverge.com/2024/12/21/24326032/lg-b4-series-oled-tv-apple-ipad-10th-gen-deal-sale)
  - [The US awards a $4.75B CHIPS Act grant to Samsung and $1.6B to Texas Instruments for new factories in Texas and Utah, rounding out the program&#39;s largest grants &lpar;Bloomberg&rpar;](http://www.techmeme.com/241221/p7#a241221p7)
- - [The Electric Explorer’s Nightmare Launch Shows Everything Ford Gets Right and Wrong About EVs](https://www.wired.com/story/ford-electric-explorer-ev-test-drive/)
- - [Google Says It Won&#39;t Force Gemini on Partners in Antitrust Remedy Proposal](https://www.wired.com/story/google-gemini-antitrust-remedy-search/)<!-- TECH:END -->
+ - [The Electric Explorer’s Nightmare Launch Shows Everything Ford Gets Right and Wrong About EVs](https://www.wired.com/story/ford-electric-explorer-ev-test-drive/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

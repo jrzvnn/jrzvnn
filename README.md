@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Tai Mo Shan, part of Jump Trading&#39;s crypto unit, agrees to pay $123M to settle SEC&#39;s claims it misled investors about the stability of TerraUSD &lpar;David Scheer/Bloomberg&rpar;](http://www.techmeme.com/241220/p28#a241220p28)
- - [Sources: David Sacks&#39; role as WH AI and crypto czar will be limited to an adviser role, overseen by Michael Kratsios, partly because he won&#39;t divest from Craft &lpar;Kali Hays/Fortune&rpar;](http://www.techmeme.com/241220/p27#a241220p27)
- - [A study by Waymo and insurer Swiss Re finds Waymo&#39;s vehicles were safer than those driven by humans, with a 92% reduction in bodily injury claims and more &lpar;Andrew J. Hawkins/The Verge&rpar;](http://www.techmeme.com/241220/p26#a241220p26)
- - [Qualcomm wins a legal battle over Arm chip licensing](https://www.theverge.com/2024/12/20/24326242/qualcomm-legal-battle-win-arm-chip-licensing)
- - [The best Xbox controller to buy right now](https://www.theverge.com/23025443/best-xbox-controllers-one-series-x-s)<!-- TECH:END -->
+ - [Global shipments of VR and MR headsets are expected to reach ~9.6M units in 2024, up 8.8% YoY; Meta remains the global leader with a 73% market share &lpar;TrendForce&rpar;](http://www.techmeme.com/241220/p30#a241220p30)
+ - [Josh King’s viral slide-out MagSafe gamepad found a home at OhSnap and looks amazing](https://www.theverge.com/2024/12/20/24326337/ohsnap-mcon-josh-king-magsafe-gamepad)
+ - [Pegasus spyware maker NSO Group is liable for attacks on 1,400 WhatsApp users](https://www.theverge.com/2024/12/20/24326342/meta-whatsapp-nso-group-pegasus-spyware-hack-liable)
+ - [A US judge finds NSO Group liable for exploiting a bug in WhatsApp to spy on 1,400 users and that WhatsApp is entitled to sanctions against NSO &lpar;Joseph Menn/Washington Post&rpar;](http://www.techmeme.com/241220/p29#a241220p29)
+ - [Tai Mo Shan, part of Jump Trading&#39;s crypto unit, agrees to pay $123M to settle SEC&#39;s claims it misled investors about the stability of TerraUSD &lpar;David Scheer/Bloomberg&rpar;](http://www.techmeme.com/241220/p28#a241220p28)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Music Can Thrive in the AI Era](https://www.wired.com/story/artificial-intelligence-music-human-creativity/)
  - [Nike Promo Codes and Deals: Up to 40% Off](https://www.wired.com/story/nike-promo-code/)
  - [A look at a lawsuit from 64 families against Snap that alleges Snapchat&#39;s design is responsible for connecting teens to dealers selling counterfeit drugs &lpar;Olivia Carville/Bloomberg&rpar;](http://www.techmeme.com/241221/p5#a241221p5)
  - [Design Within Reach Promo Codes: Extra 20% Off](https://www.wired.com/story/design-within-reach-promo-code/)
- - [KitchenAid Promo Codes and Coupons: 10% Off](https://www.wired.com/story/exclusive-kitchenaid-promo-code/)
- - [Sensor Tower: Indian quick commerce startup Zepto had 31M MAUs in Nov. 2024, up from 6M in May 2022; Blinkit had 30M MAUs in Nov. 2024, up from 28M in May 2022 &lpar;Manish Singh/India Dispatch&rpar;](http://www.techmeme.com/241221/p4#a241221p4)<!-- TECH:END -->
+ - [KitchenAid Promo Codes and Coupons: 10% Off](https://www.wired.com/story/exclusive-kitchenaid-promo-code/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

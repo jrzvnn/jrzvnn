@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Design Within Reach Promo Codes: Extra 20% Off](https://www.wired.com/story/design-within-reach-promo-code/)
  - [KitchenAid Promo Codes and Coupons: 10% Off](https://www.wired.com/story/exclusive-kitchenaid-promo-code/)
  - [Sensor Tower: Indian quick commerce startup Zepto had 31M MAUs in Nov. 2024, up from 6M in May 2022; Blinkit had 30M MAUs in Nov. 2024, up from 28M in May 2022 &lpar;Manish Singh/India Dispatch&rpar;](http://www.techmeme.com/241221/p4#a241221p4)
  - [Researchers at Anthropic, Oxford, Stanford, and MATS create Best-of-N Jailbreaking, a black-box algorithm that jailbreaks frontier AI systems across modalities &lpar;Emanuel Maiberg/404 Media&rpar;](http://www.techmeme.com/241221/p3#a241221p3)
- - [Dealogic data: the global M&amp;A activity in the tech sector in 2024 jumped 20%+ YoY to $534B, accounting for the largest share of the total $3.45T in M&amp;A activity &lpar;Reuters&rpar;](http://www.techmeme.com/241221/p2#a241221p2)
- - [Google’s counteroffer to the government trying to break it up is unbundling Android apps](https://www.theverge.com/2024/12/21/24326402/google-search-antitrust-remedies-proposal-browser-default-android)<!-- TECH:END -->
+ - [Dealogic data: the global M&amp;A activity in the tech sector in 2024 jumped 20%+ YoY to $534B, accounting for the largest share of the total $3.45T in M&amp;A activity &lpar;Reuters&rpar;](http://www.techmeme.com/241221/p2#a241221p2)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

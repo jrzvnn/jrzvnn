@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Google files its proposed remedies in the DOJ&#39;s search antitrust lawsuit, including letting browser companies have multiple default agreements across platforms &lpar;Lee-Anne Mulholland/The Keyword&rpar;](http://www.techmeme.com/241220/p32#a241220p32)
  - [Sources: OpenAI&#39;s GPT-5, codenamed Orion, is behind schedule and faces technical hurdles, including high computing costs and limited high-quality training data &lpar;Deepa Seetharaman/Wall Street Journal&rpar;](http://www.techmeme.com/241220/p31#a241220p31)
  - [Global shipments of VR and MR headsets are expected to reach ~9.6M units in 2024, up 8.8% YoY; Meta remains the global leader with a 73% market share &lpar;TrendForce&rpar;](http://www.techmeme.com/241220/p30#a241220p30)
  - [Josh King’s viral slide-out MagSafe gamepad found a home at OhSnap and looks amazing](https://www.theverge.com/2024/12/20/24326337/ohsnap-mcon-josh-king-magsafe-gamepad)
- - [Pegasus spyware maker NSO Group is liable for attacks on 1,400 WhatsApp users](https://www.theverge.com/2024/12/20/24326342/meta-whatsapp-nso-group-pegasus-spyware-hack-liable)
- - [A US judge finds NSO Group liable for exploiting a bug in WhatsApp to spy on 1,400 users and that WhatsApp is entitled to sanctions against NSO &lpar;Joseph Menn/Washington Post&rpar;](http://www.techmeme.com/241220/p29#a241220p29)<!-- TECH:END -->
+ - [Pegasus spyware maker NSO Group is liable for attacks on 1,400 WhatsApp users](https://www.theverge.com/2024/12/20/24326342/meta-whatsapp-nso-group-pegasus-spyware-hack-liable)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Best Running Shoes &lpar;2024&rpar;: Asics, Hoka, Nike, On Running](https://www.wired.com/gallery/best-running-shoes/)
+ - [10 excellent shows and movies from 2024 to stream on Max](https://www.theverge.com/24305797/max-best-shows-movies-streaming-2024-hbo)
  - [Wood Veneer Hub’s Slat Panels Are an Easy Home Office Upgrade](https://www.wired.com/story/wood-veneer-hub-american-walnut-acoustic-slat-wood-wall-panels-rave/)
  - [December Wildfires Are Now a Thing](https://www.wired.com/story/december-wildfires-are-now-a-thing/)
- - [How to Manage Food Anxiety Over the Holidays](https://www.wired.com/story/how-to-cope-with-food-anxiety-during-the-festive-season/)
- - [The 25 Best Movies on Amazon Prime Right Now &lpar;December 2024&rpar;](https://www.wired.com/story/best-amazon-prime-movies/)
- - [A profile of AWS CEO Matt Garman, including his first few months on the job, what his stewardship means for the business, and his opportunities and challenges &lpar;Jason Del Rey/Fortune&rpar;](http://www.techmeme.com/241221/p6#a241221p6)<!-- TECH:END -->
+ - [How to Manage Food Anxiety Over the Holidays](https://www.wired.com/story/how-to-cope-with-food-anxiety-during-the-festive-season/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

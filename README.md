@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Here’s the first CoPilot plus mini PC with Intel’s new Core Ultra 9 processors](https://www.theverge.com/2024/12/21/24326557/asus-copilot-plus-nuc-mini-pc-intel-core-ultra-series-2-processor)
  - [ModRetro Chromatic review: an arms dealer’s Game Boy is among the best ever made](https://www.theverge.com/24303052/modretro-chromatic-review-game-boy-color-handheld-palmer-luckey)
  - [The Verge’s 2024 holiday gift guide](https://www.theverge.com/24224043/holiday-gift-guide-2024-best-ideas-unique-tech-gadgets)
  - [As part of its remedies proposal, Google says it won&#39;t require device makers and other partners to distribute Gemini to US users for three years &lpar;Paresh Dave/Wired&rpar;](http://www.techmeme.com/241221/p8#a241221p8)
- - [14 Best Planners: Weekly and Daily Notebooks &amp; Accessories &lpar;2024&rpar;](https://www.wired.com/story/best-paper-planners/)
- - [TCL’s new AI short films range from bad comedy to existential horror](https://www.theverge.com/2024/12/21/24319502/tcl-new-ai-films-bad-comedy-existential-horror-ranked)<!-- TECH:END -->
+ - [14 Best Planners: Weekly and Daily Notebooks &amp; Accessories &lpar;2024&rpar;](https://www.wired.com/story/best-paper-planners/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

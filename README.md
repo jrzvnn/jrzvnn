@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Google’s counteroffer to the government trying to break it up is unbundling Android apps](https://www.theverge.com/2024/12/21/24326402/google-search-antitrust-remedies-proposal-browser-default-android)
+ - [Report: Alibaba splits the team developing apps for its AI chatbot Qianwen from the team that builds its LLM, following similar moves by ByteDance and Baidu &lpar;Wency Chen/South China Morning Post&rpar;](http://www.techmeme.com/241221/p1#a241221p1)
  - [Sources: Intel shortlists buyout firms for the next round of bidding for its Altera unit, including Francisco Partners, Silver Lake, and Lattice Semiconductor &lpar;Bloomberg&rpar;](http://www.techmeme.com/241220/p35#a241220p35)
  - [Google calls DOJ&#39;s proposed Chrome sale &quot;extreme&quot; and at odds with the law, urging the judge to take caution to avoid stifling innovation and future investment &lpar;Bloomberg&rpar;](http://www.techmeme.com/241220/p34#a241220p34)
- - [As part of its remedies proposal, Google would make its Android agreements with OEMs non-exclusive and allow them to unbundle Play Store from Chrome and Search &lpar;Jody Godoy/Reuters&rpar;](http://www.techmeme.com/241220/p33#a241220p33)
- - [Google files its proposed remedies in the DOJ&#39;s search antitrust lawsuit, including letting browser companies have multiple default agreements across platforms &lpar;Lee-Anne Mulholland/The Keyword&rpar;](http://www.techmeme.com/241220/p32#a241220p32)
- - [Sources: OpenAI&#39;s GPT-5, codenamed Orion, is behind schedule and faces technical hurdles, including high computing costs and limited high-quality training data &lpar;Deepa Seetharaman/Wall Street Journal&rpar;](http://www.techmeme.com/241220/p31#a241220p31)<!-- TECH:END -->
+ - [As part of its remedies proposal, Google would make its Android agreements with OEMs non-exclusive and allow them to unbundle Play Store from Chrome and Search &lpar;Jody Godoy/Reuters&rpar;](http://www.techmeme.com/241220/p33#a241220p33)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

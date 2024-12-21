@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Tether says it is on track for a record $10B net profit in 2024 and expects to invest $2.5B to $3B in 2025 across AI, finance, biotech, education, and mining &lpar;Lucinda Shen/Axios&rpar;](http://www.techmeme.com/241221/p10#a241221p10)
  - [The US finalizes CHIPS Act funding for Samsung and Texas Instruments](https://www.theverge.com/2024/12/21/24326617/samsung-texas-instruments-chips-act-us-manufacturing-funding)
  - [Best Buy&#39;s last-minute doorbuster deals slash Apple products to $22.99+](https://appleinsider.com/articles/24/12/21/best-buys-last-minute-doorbuster-deals-slash-apple-products-to-2299?utm_medium=rss)
  - [Albania bans TikTok for a year from January 2025, part of a broader plan to make schools safer following the killing of a 14-year-old near a school in November &lpar;Reuters&rpar;](http://www.techmeme.com/241221/p9#a241221p9)
- - [Here’s the first CoPilot plus mini PC with Intel’s new Core Ultra 9 processors](https://www.theverge.com/2024/12/21/24326557/asus-copilot-plus-nuc-mini-pc-intel-core-ultra-series-2-processor)
- - [ModRetro Chromatic review: an arms dealer’s Game Boy is among the best ever made](https://www.theverge.com/24303052/modretro-chromatic-review-game-boy-color-handheld-palmer-luckey)<!-- TECH:END -->
+ - [Here’s the first CoPilot plus mini PC with Intel’s new Core Ultra 9 processors](https://www.theverge.com/2024/12/21/24326557/asus-copilot-plus-nuc-mini-pc-intel-core-ultra-series-2-processor)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

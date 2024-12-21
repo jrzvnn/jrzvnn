@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Best Buy&#39;s last-minute doorbuster deals slash Apple products to $22.99+](https://appleinsider.com/articles/24/12/21/best-buys-last-minute-doorbuster-deals-slash-apple-products-to-2299?utm_medium=rss)
+ - [Albania bans TikTok for a year from January 2025, part of a broader plan to make schools safer following the killing of a 14-year-old near a school in November &lpar;Reuters&rpar;](http://www.techmeme.com/241221/p9#a241221p9)
  - [Here’s the first CoPilot plus mini PC with Intel’s new Core Ultra 9 processors](https://www.theverge.com/2024/12/21/24326557/asus-copilot-plus-nuc-mini-pc-intel-core-ultra-series-2-processor)
  - [ModRetro Chromatic review: an arms dealer’s Game Boy is among the best ever made](https://www.theverge.com/24303052/modretro-chromatic-review-game-boy-color-handheld-palmer-luckey)
- - [The Verge’s 2024 holiday gift guide](https://www.theverge.com/24224043/holiday-gift-guide-2024-best-ideas-unique-tech-gadgets)
- - [As part of its remedies proposal, Google says it won&#39;t require device makers and other partners to distribute Gemini to US users for three years &lpar;Paresh Dave/Wired&rpar;](http://www.techmeme.com/241221/p8#a241221p8)
- - [14 Best Planners: Weekly and Daily Notebooks &amp; Accessories &lpar;2024&rpar;](https://www.wired.com/story/best-paper-planners/)<!-- TECH:END -->
+ - [The Verge’s 2024 holiday gift guide](https://www.theverge.com/24224043/holiday-gift-guide-2024-best-ideas-unique-tech-gadgets)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

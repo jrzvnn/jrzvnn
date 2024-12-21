@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [A Spacecraft Is About to Fly Into the Sun’s Atmosphere for the First Time](https://www.wired.com/story/parker-solar-probe-atmosphere/)
  - [To Improve Your Gut Microbiome, Spend More Time in Nature](https://www.wired.com/story/to-improve-your-gut-microbiome-spend-more-time-in-nature-kathy-willis/)
  - [Music Can Thrive in the AI Era](https://www.wired.com/story/artificial-intelligence-music-human-creativity/)
  - [Nike Promo Codes and Deals: Up to 40% Off](https://www.wired.com/story/nike-promo-code/)
- - [A look at a lawsuit from 64 families against Snap that alleges Snapchat&#39;s design is responsible for connecting teens to dealers selling counterfeit drugs &lpar;Olivia Carville/Bloomberg&rpar;](http://www.techmeme.com/241221/p5#a241221p5)
- - [Design Within Reach Promo Codes: Extra 20% Off](https://www.wired.com/story/design-within-reach-promo-code/)<!-- TECH:END -->
+ - [A look at a lawsuit from 64 families against Snap that alleges Snapchat&#39;s design is responsible for connecting teens to dealers selling counterfeit drugs &lpar;Olivia Carville/Bloomberg&rpar;](http://www.techmeme.com/241221/p5#a241221p5)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

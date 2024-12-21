@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Google Says It Won&#39;t Force Gemini on Partners in Antitrust Remedy Proposal](https://www.wired.com/story/google-gemini-antitrust-remedy-search/)
  - [Best Running Shoes &lpar;2024&rpar;: Asics, Hoka, Nike, On Running](https://www.wired.com/gallery/best-running-shoes/)
  - [10 excellent shows and movies from 2024 to stream on Max](https://www.theverge.com/24305797/max-best-shows-movies-streaming-2024-hbo)
  - [Wood Veneer Hub’s Slat Panels Are an Easy Home Office Upgrade](https://www.wired.com/story/wood-veneer-hub-american-walnut-acoustic-slat-wood-wall-panels-rave/)
- - [December Wildfires Are Now a Thing](https://www.wired.com/story/december-wildfires-are-now-a-thing/)
- - [How to Manage Food Anxiety Over the Holidays](https://www.wired.com/story/how-to-cope-with-food-anxiety-during-the-festive-season/)<!-- TECH:END -->
+ - [December Wildfires Are Now a Thing](https://www.wired.com/story/december-wildfires-are-now-a-thing/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

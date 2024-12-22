@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [What did he even do?](http://9gag.com/gag/aKGmW4b)
- - 😝 [No in between](http://9gag.com/gag/aPAZ8mV)
- - 💣 [New Uber update](http://9gag.com/gag/ayN936X)
- - 😝 [I dont remember this episode](http://9gag.com/gag/avyAEG5)
- - 👉 [The fruit with the most comments is...](http://9gag.com/gag/aQzXA9z)<!-- MEMES:END -->
+ - 😝 [People are so sensitive these days...](http://9gag.com/gag/azxeOZm)
+ - 😝 [The real hero.](http://9gag.com/gag/aBynGj2)
+ - 💣 [Jerk treatment](http://9gag.com/gag/aryn275)
+ - 😝 [Colin Jost doing joke swap while Scarlett Johansson is backstage](http://9gag.com/gag/a0eZOLX)
+ - 👉 [You member?](http://9gag.com/gag/agmgxdx)<!-- MEMES:END -->
 
 ---
 

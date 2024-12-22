@@ -166,10 +166,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Shallow Hal &lpar;2001&rpar;](http://9gag.com/gag/aGyz7A0)
- - 😝 [You member?](http://9gag.com/gag/agmgxdx)
- - 💣 [Jerk treatment](http://9gag.com/gag/aryn275)
+ - 😝 [Football and rodeo](http://9gag.com/gag/a9y1moK)
  - 😝 [Gimme my money](http://9gag.com/gag/agmgKqv)
+ - 💣 [No translation needed\u2026](http://9gag.com/gag/aMV4zXM)
+ - 😝 [Jerk treatment](http://9gag.com/gag/aryn275)
  - 👉 [Katerina](http://9gag.com/gag/adBgo52)<!-- MEMES:END -->
 
 ---

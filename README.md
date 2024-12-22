@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [People are so sensitive these days...](http://9gag.com/gag/azxeOZm)
- - 😝 [The real hero.](http://9gag.com/gag/aBynGj2)
- - 💣 [Jerk treatment](http://9gag.com/gag/aryn275)
- - 😝 [Colin Jost doing joke swap while Scarlett Johansson is backstage](http://9gag.com/gag/a0eZOLX)
- - 👉 [You member?](http://9gag.com/gag/agmgxdx)<!-- MEMES:END -->
+ - 😝 [Show your love](http://9gag.com/gag/a5Q1qbL)
+ - 😝 [Never tell them you next move](http://9gag.com/gag/amogpP9)
+ - 💣 [Wait a little](http://9gag.com/gag/a87129O)
+ - 😝 [I like french fries](http://9gag.com/gag/ae9gmKB)
+ - 👉 [The running at the end......hahaha](http://9gag.com/gag/aAyGMwp)<!-- MEMES:END -->
 
 ---
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: Palantir and Anduril are in talks with OpenAI, SpaceX, and more to form a consortium to bid for US defense contracts and plan to announce it in January &lpar;Financial Times&rpar;](http://www.techmeme.com/241222/p8#a241222p8)
- - [A look at the challenges facing Crunchyroll, as current and ex-staffers say its management is out of touch, amid Disney and Netflix&#39;s expansion into anime &lpar;Bloomberg&rpar;](http://www.techmeme.com/241222/p7#a241222p7)
- - [Best Internet Providers in Melbourne, Florida](https://www.cnet.com/home/internet/best-internet-providers-in-melbourne-fl/#ftag=CAD590a51e)
- - [Your House Can Pay You Back Big in Your Tax Refund: Here&#39;s How It Works](https://www.cnet.com/personal-finance/taxes/your-house-can-pay-you-back-big-in-your-tax-refund-heres-how-it-works/#ftag=CAD590a51e)
- - [Patriots vs. Bills: How to Watch NFL Week 16 Today](https://www.cnet.com/tech/services-and-software/patriots-vs-bills-how-to-watch-nfl-week-16-today/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Apple may revive its AirPort technology in new HomePod and Apple TV](https://appleinsider.com/articles/24/12/22/apple-may-revive-its-airport-technology-in-new-homepod-and-apple-tv?utm_medium=rss)
+ - [Best AirPods Deals: Save Big on Apple&#39;s Popular Wireless Personal Audio Gear](https://www.cnet.com/deals/best-airpods-deals/#ftag=CAD590a51e)
+ - [Best Internet Providers in New Braunfels, Texas](https://www.cnet.com/home/internet/best-internet-providers-in-new-braunfels-tx/#ftag=CAD590a51e)
+ - [Best Galaxy Watch Deals: Save on the Ultra, 7 and Other Models With These Festive Deals](https://www.cnet.com/deals/best-galaxy-watch-deals/#ftag=CAD590a51e)
+ - [Sources: Palantir and Anduril are in talks with OpenAI, SpaceX, and more to form a consortium to bid for US defense contracts and plan to announce it in January &lpar;Financial Times&rpar;](http://www.techmeme.com/241222/p8#a241222p8)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

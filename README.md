@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Katerina](http://9gag.com/gag/adBgo52)
- - 😝 [The real hero.](http://9gag.com/gag/aBynGj2)
- - 💣 [You member?](http://9gag.com/gag/agmgxdx)
- - 😝 [Lord give me strength](http://9gag.com/gag/a4P1qMQ)
- - 👉 [Gimme my money](http://9gag.com/gag/agmgKqv)<!-- MEMES:END -->
+ - 😝 [Jerk treatment](http://9gag.com/gag/aryn275)
+ - 😝 [The future is now!](http://9gag.com/gag/aNDPjO0)
+ - 💣 [Nice](http://9gag.com/gag/a0eZMRZ)
+ - 😝 [Shallow Hal &lpar;2001&rpar;](http://9gag.com/gag/aGyz7A0)
+ - 👉 [Katerina](http://9gag.com/gag/adBgo52)<!-- MEMES:END -->
 
 ---
 

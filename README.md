@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [9 Best French Presses &lpar;2024&rpar;: Plastic, Glass, Stainless Steel, Travel](https://www.wired.com/gallery/best-french-presses/)
+ - [A new and better way to control your smart home](https://www.theverge.com/2024/12/22/24325938/home-assistant-voice-sonic-3-flipboard-surf-installer)
  - [How to Change the Default Search Engine in Google Chrome](https://www.wired.com/story/how-to-change-the-default-search-engine-in-google-chrome/)
  - [The Universe Is Teeming With Complex Organic Molecules](https://www.wired.com/story/the-universe-is-teeming-with-complex-organic-molecules/)
- - [Preqin data: Southeast Asia&#39;s AI startups raised just $1.7B across 122 deals so far in 2024, out of ~$20B across 1,845 deals for the whole Asia-Pacific region &lpar;Bloomberg&rpar;](http://www.techmeme.com/241222/p4#a241222p4)
- - [Cloud Gaming on the PlayStation Portal Isn’t the Exciting Step Forward We’d Hoped for](https://www.wired.com/story/cloud-gaming-on-the-playstation-portal-isnt-the-exciting-step-forward-wed-hoped-for/)
- - [The Race to Translate Animal Sounds Into Human Language](https://www.wired.com/story/artificial-intelligence-translation-animal-sounds-human-language/)<!-- TECH:END -->
+ - [Preqin data: Southeast Asia&#39;s AI startups raised just $1.7B across 122 deals so far in 2024, out of ~$20B across 1,845 deals for the whole Asia-Pacific region &lpar;Bloomberg&rpar;](http://www.techmeme.com/241222/p4#a241222p4)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Sources: Palantir and Anduril are in talks with OpenAI, SpaceX, and more to form a consortium to bid for US defense contracts and plan to announce it in January &lpar;Financial Times&rpar;](http://www.techmeme.com/241222/p8#a241222p8)
  - [A look at the challenges facing Crunchyroll, as current and ex-staffers say its management is out of touch, amid Disney and Netflix&#39;s expansion into anime &lpar;Bloomberg&rpar;](http://www.techmeme.com/241222/p7#a241222p7)
  - [Best Internet Providers in Melbourne, Florida](https://www.cnet.com/home/internet/best-internet-providers-in-melbourne-fl/#ftag=CAD590a51e)
  - [Your House Can Pay You Back Big in Your Tax Refund: Here&#39;s How It Works](https://www.cnet.com/personal-finance/taxes/your-house-can-pay-you-back-big-in-your-tax-refund-heres-how-it-works/#ftag=CAD590a51e)
- - [Patriots vs. Bills: How to Watch NFL Week 16 Today](https://www.cnet.com/tech/services-and-software/patriots-vs-bills-how-to-watch-nfl-week-16-today/#ftag=CAD590a51e)
- - [49ers vs. Dolphins: How to Watch NFL Week 16 Today](https://www.cnet.com/tech/services-and-software/49ers-vs-dolphins-how-to-watch-nfl-week-16-today/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Patriots vs. Bills: How to Watch NFL Week 16 Today](https://www.cnet.com/tech/services-and-software/patriots-vs-bills-how-to-watch-nfl-week-16-today/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

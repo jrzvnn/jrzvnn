@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Best Internet Providers in Plymouth, Minnesota](https://www.cnet.com/home/internet/best-internet-providers-in-plymouth-mn/#ftag=CAD590a51e)
  - [Apple may revive its AirPort technology in new HomePod and Apple TV](https://appleinsider.com/articles/24/12/22/apple-may-revive-its-airport-technology-in-new-homepod-and-apple-tv?utm_medium=rss)
- - [Best AirPods Deals: Save Big on Apple&#39;s Popular Wireless Personal Audio Gear](https://www.cnet.com/deals/best-airpods-deals/#ftag=CAD590a51e)
- - [Best Internet Providers in New Braunfels, Texas](https://www.cnet.com/home/internet/best-internet-providers-in-new-braunfels-tx/#ftag=CAD590a51e)
- - [Best Galaxy Watch Deals: Save on the Ultra, 7 and Other Models With These Festive Deals](https://www.cnet.com/deals/best-galaxy-watch-deals/#ftag=CAD590a51e)
- - [Sources: Palantir and Anduril are in talks with OpenAI, SpaceX, and more to form a consortium to bid for US defense contracts and plan to announce it in January &lpar;Financial Times&rpar;](http://www.techmeme.com/241222/p8#a241222p8)<!-- TECH:END -->
+ - [What Time to Watch Marvel&#39;s &#39;What If...&#39; Season 3 Episodes](https://www.cnet.com/tech/services-and-software/what-time-watch-marvels-what-if-season-3-episodes/#ftag=CAD590a51e)
+ - [Best Web Hosting Services for 2024](https://www.cnet.com/tech/services-and-software/best-web-hosting/#ftag=CAD590a51e)
+ - [Best Mattress in a Box for 2024](https://www.cnet.com/health/sleep/best-mattress-in-a-box/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

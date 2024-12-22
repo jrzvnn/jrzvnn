@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [How to Change the Default Search Engine in Google Chrome](https://www.wired.com/story/how-to-change-the-default-search-engine-in-google-chrome/)
  - [The Universe Is Teeming With Complex Organic Molecules](https://www.wired.com/story/the-universe-is-teeming-with-complex-organic-molecules/)
  - [Preqin data: Southeast Asia&#39;s AI startups raised just $1.7B across 122 deals so far in 2024, out of ~$20B across 1,845 deals for the whole Asia-Pacific region &lpar;Bloomberg&rpar;](http://www.techmeme.com/241222/p4#a241222p4)
  - [Cloud Gaming on the PlayStation Portal Isn’t the Exciting Step Forward We’d Hoped for](https://www.wired.com/story/cloud-gaming-on-the-playstation-portal-isnt-the-exciting-step-forward-wed-hoped-for/)
- - [The Race to Translate Animal Sounds Into Human Language](https://www.wired.com/story/artificial-intelligence-translation-animal-sounds-human-language/)
- - [How Britannica survived the Wikipedia era by changing itself into a maker of education software and AI agents, as it reportedly weighs an IPO at a $1B valuation &lpar;Michael J. de la Merced/New York Times&rpar;](http://www.techmeme.com/241222/p3#a241222p3)<!-- TECH:END -->
+ - [The Race to Translate Animal Sounds Into Human Language](https://www.wired.com/story/artificial-intelligence-translation-animal-sounds-human-language/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

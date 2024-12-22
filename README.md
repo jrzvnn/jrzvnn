@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [You can do that if you are men... but some how it is all men fault](http://9gag.com/gag/adBg2W2)
- - 😝 [Hmm...Government shutdown...](http://9gag.com/gag/aYQrqw2)
- - 💣 [A little girl has her first crush](http://9gag.com/gag/a0eZnKQ)
- - 😝 [No translation needed\u2026](http://9gag.com/gag/aMV4zXM)
- - 👉 [Lord give me strength](http://9gag.com/gag/a4P1qMQ)<!-- MEMES:END -->
+ - 😝 [Nice](http://9gag.com/gag/a0eZMRZ)
+ - 😝 [A little girl has her first crush](http://9gag.com/gag/a0eZnKQ)
+ - 💣 [Jerk treatment](http://9gag.com/gag/aryn275)
+ - 😝 [You member?](http://9gag.com/gag/agmgxdx)
+ - 👉 [Pattern recognition. Do you notice something?](http://9gag.com/gag/aAyGMqp)<!-- MEMES:END -->
 
 ---
 

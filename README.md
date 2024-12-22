@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Jerk treatment](http://9gag.com/gag/aryn275)
- - 😝 [The future is now!](http://9gag.com/gag/aNDPjO0)
- - 💣 [Nice](http://9gag.com/gag/a0eZMRZ)
- - 😝 [Shallow Hal &lpar;2001&rpar;](http://9gag.com/gag/aGyz7A0)
- - 👉 [Katerina](http://9gag.com/gag/adBgo52)<!-- MEMES:END -->
+ - 😝 [Lord give me strength](http://9gag.com/gag/a4P1qMQ)
+ - 😝 [The female mind, ladies and gentlemen...](http://9gag.com/gag/axyBm9L)
+ - 💣 [Jerk treatment](http://9gag.com/gag/aryn275)
+ - 😝 [Nice](http://9gag.com/gag/a0eZMRZ)
+ - 👉 [Football and rodeo](http://9gag.com/gag/a9y1moK)<!-- MEMES:END -->
 
 ---
 

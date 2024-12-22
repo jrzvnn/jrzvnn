@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Villains in movies](http://9gag.com/gag/aryn8EK)
- - 😝 [Nice dad](http://9gag.com/gag/aYQrA82)
- - 💣 [Facepalm](http://9gag.com/gag/agmgERr)
- - 😝 [The gaslighting is off the charts these days.](http://9gag.com/gag/a5Q1DpG)
- - 👉 [Women](http://9gag.com/gag/an7gGr0)<!-- MEMES:END -->
+ - 😝 [Glass stronger than steel Prince Rupert drop](http://9gag.com/gag/abAgQe9)
+ - 😝 [Pattern recognition. Do you notice something?](http://9gag.com/gag/aAyGMqp)
+ - 💣 [Finding a Megalodon tooth](http://9gag.com/gag/a1m1Ey2)
+ - 😝 [Jerk treatment](http://9gag.com/gag/aryn275)
+ - 👉 [I expect nothing and I&#39;m still disappointed](http://9gag.com/gag/aD2DOdB)<!-- MEMES:END -->
 
 ---
 

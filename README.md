@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Lord give me strength](http://9gag.com/gag/a4P1qMQ)
- - 😝 [The female mind, ladies and gentlemen...](http://9gag.com/gag/axyBm9L)
- - 💣 [Jerk treatment](http://9gag.com/gag/aryn275)
- - 😝 [Nice](http://9gag.com/gag/a0eZMRZ)
- - 👉 [Football and rodeo](http://9gag.com/gag/a9y1moK)<!-- MEMES:END -->
+ - 😝 [Shallow Hal &lpar;2001&rpar;](http://9gag.com/gag/aGyz7A0)
+ - 😝 [You can do that if you are men... but some how it is all men fault](http://9gag.com/gag/adBg2W2)
+ - 💣 [No translation needed\u2026](http://9gag.com/gag/aMV4zXM)
+ - 😝 [ItBreaksIt](http://9gag.com/gag/avyAxEn)
+ - 👉 [Jerk treatment](http://9gag.com/gag/aryn275)<!-- MEMES:END -->
 
 ---
 

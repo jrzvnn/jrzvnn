@@ -158,10 +158,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- TECH:START -->
  - [A look at the challenges facing Crunchyroll, as current and ex-staffers say its management is out of touch, amid Disney and Netflix&#39;s expansion into anime &lpar;Bloomberg&rpar;](http://www.techmeme.com/241222/p7#a241222p7)
- - [All of Canoo’s employees are reportedly on a ‘mandatory unpaid break’](https://www.theverge.com/2024/12/22/24327265/canoo-ev-employees-furloughed-mandatory-unpaid-break)
- - [Best Internet Providers in Lubbock, Texas](https://www.cnet.com/home/internet/best-internet-providers-in-lubbock-tx/#ftag=CAD590a51e)
- - [Grab the Dyson AirWrap for $119 off Right Now and You&#39;ll Get It in Time for Christmas](https://www.cnet.com/deals/grab-the-dyson-airwrap-for-119-off-right-now-and-youll-get-it-in-time-for-christmas/#ftag=CAD590a51e)
- - [6 Tricks to Get the Perfect Seat for Your Next Flight](https://www.cnet.com/personal-finance/6-tricks-to-get-the-perfect-seat-for-your-next-flight/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Best Internet Providers in Melbourne, Florida](https://www.cnet.com/home/internet/best-internet-providers-in-melbourne-fl/#ftag=CAD590a51e)
+ - [Your House Can Pay You Back Big in Your Tax Refund: Here&#39;s How It Works](https://www.cnet.com/personal-finance/taxes/your-house-can-pay-you-back-big-in-your-tax-refund-heres-how-it-works/#ftag=CAD590a51e)
+ - [Patriots vs. Bills: How to Watch NFL Week 16 Today](https://www.cnet.com/tech/services-and-software/patriots-vs-bills-how-to-watch-nfl-week-16-today/#ftag=CAD590a51e)
+ - [49ers vs. Dolphins: How to Watch NFL Week 16 Today](https://www.cnet.com/tech/services-and-software/49ers-vs-dolphins-how-to-watch-nfl-week-16-today/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

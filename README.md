@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Sources: SoftBank&#39;s Masayoshi Son has recently become singularly obsessed with how to build the next Nvidia and wants competitive AI chips ready to ship by 2026 &lpar;Bloomberg&rpar;](http://www.techmeme.com/241222/p12#a241222p12)
  - [Broadcom CEO Hock Tan says AI spending frenzy will continue until the decade&#39;s end, and downplays an Intel bid, saying he had his &quot;hands very full&quot; in AI chips &lpar;Tim Bradshaw/Financial Times&rpar;](http://www.techmeme.com/241222/p11#a241222p11)
  - [Donald Trump announces that Sriram Krishnan, until recently a general partner at a16z, will serve as senior policy advisor for AI at the White House OSTP &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/241222/p10#a241222p10)
  - [A survey of 501 organizations globally estimates organizations contribute $7.7B annually to open source software and 86% of contribution value is employee labor &lpar;The Linux Foundation&rpar;](http://www.techmeme.com/241222/p9#a241222p9)
- - [iOS 19 won&#39;t drop currently supported devices, but iPadOS 19 will](https://appleinsider.com/articles/24/12/21/ios-19-wont-drop-currently-supported-devices-but-ipados-19-will?utm_medium=rss)
- - [Nectar Hybrid Mattress Review 2024: A Memory Foam Hybrid Bed Tested by Our Experts](https://www.cnet.com/health/sleep/nectar-hybrid-mattress-review/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [iOS 19 won&#39;t drop currently supported devices, but iPadOS 19 will](https://appleinsider.com/articles/24/12/21/ios-19-wont-drop-currently-supported-devices-but-ipados-19-will?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

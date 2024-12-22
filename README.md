@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Katerina](http://9gag.com/gag/adBgo52)
- - 😝 [Nice](http://9gag.com/gag/a0eZMRZ)
+ - 😝 [Baiting a car mechanic with a perfectly functioning car to see if he will try a scam](http://9gag.com/gag/apRgAq8)
+ - 😝 [Savages barely even human](http://9gag.com/gag/adBgorM)
  - 💣 [Gimme my money](http://9gag.com/gag/agmgKqv)
- - 😝 [Cate Blanchett and her husband](http://9gag.com/gag/aW4gRYx)
- - 👉 [Lord give me strength](http://9gag.com/gag/a4P1qMQ)<!-- MEMES:END -->
+ - 😝 [Shallow Hal &lpar;2001&rpar;](http://9gag.com/gag/aGyz7A0)
+ - 👉 [A tourist visiting North Korea secretly filmed a female traffic officer\u2019s movements and published the footage.](http://9gag.com/gag/arynBO5)<!-- MEMES:END -->
 
 ---
 

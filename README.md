@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [You wanted MEMES? Well, too bad! Here are feels!](http://9gag.com/gag/a5Q1DVy)
- - 😝 [Finding a Megalodon tooth](http://9gag.com/gag/a1m1Ey2)
- - 💣 [Glass stronger than steel Prince Rupert drop](http://9gag.com/gag/abAgQe9)
+ - 😝 [Katerina](http://9gag.com/gag/adBgo52)
+ - 😝 [Nice](http://9gag.com/gag/a0eZMRZ)
+ - 💣 [Gimme my money](http://9gag.com/gag/agmgKqv)
  - 😝 [Cate Blanchett and her husband](http://9gag.com/gag/aW4gRYx)
- - 👉 [Gimme my money](http://9gag.com/gag/agmgKqv)<!-- MEMES:END -->
+ - 👉 [Lord give me strength](http://9gag.com/gag/a4P1qMQ)<!-- MEMES:END -->
 
 ---
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [A look at Amazon&#39;s revamped drone delivery program near Phoenix, Arizona, where the company&#39;s new MK-30 drones deliver dozens of packages a day to customers &lpar;Kevin Roose/New York Times&rpar;](http://www.techmeme.com/241222/p6#a241222p6)
- - [Reduce Your Stress and Get More Rest by Trying GABA](https://www.cnet.com/health/sleep/best-gaba-supplements/#ftag=CAD590a51e)
- - [Consider a Roth IRA Conversion Before the End of the Year to Maximize Retirement Savings](https://www.cnet.com/personal-finance/investing/consider-a-roth-ira-conversion-before-the-end-of-the-year-to-maximize-retirement-savings/#ftag=CAD590a51e)
- - [I Tried to Use AI to Design a Holiday Card. It Kept Giving Me a Fake Family](https://www.cnet.com/tech/services-and-software/i-tried-to-use-ai-to-design-a-holiday-card-it-kept-giving-me-a-fake-family/#ftag=CAD590a51e)
- - [GhostBed Flex Hybrid Mattress Review: A Responsive Memory Foam Bed for Everyone](https://www.cnet.com/health/sleep/ghostbed-flex-hybrid-mattress-review/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Best Internet Providers in Lubbock, Texas](https://www.cnet.com/home/internet/best-internet-providers-in-lubbock-tx/#ftag=CAD590a51e)
+ - [Grab the Dyson AirWrap for $119 off Right Now and You&#39;ll Get It in Time for Christmas](https://www.cnet.com/deals/grab-the-dyson-airwrap-for-119-off-right-now-and-youll-get-it-in-time-for-christmas/#ftag=CAD590a51e)
+ - [6 Tricks to Get the Perfect Seat for Your Next Flight](https://www.cnet.com/personal-finance/6-tricks-to-get-the-perfect-seat-for-your-next-flight/#ftag=CAD590a51e)
+ - [Nolah Evolution Comfort Plus Review 2024: A Luxurious Pillow-Top Mattress for Heavy People](https://www.cnet.com/health/sleep/nolah-evolution-comfort-plus-review/#ftag=CAD590a51e)
+ - [Best Internet Providers in Las Vegas, Nevada](https://www.cnet.com/home/internet/best-internet-providers-in-las-vegas-nv/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

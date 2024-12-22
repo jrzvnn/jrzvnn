@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [An iPhone owner’s guide to living off the app grid](https://www.theverge.com/2024/12/22/24325858/iphone-minimalist-homescreen-ios-18-widgets-shortcuts)
+ - [The Verge’s favorite books from 2024](https://www.theverge.com/24306925/best-books-2024-staff-picks-favorites)
+ - [AirPods could add temperature sensing, heart rate measuring, and a camera for Apple Intelligence](https://appleinsider.com/articles/24/12/22/airpods-could-add-temperature-sensing-heart-rate-measuring-and-a-camera-for-apple-intelligence?utm_medium=rss)
  - [L’Oreal Professionnel AirLight Pro Review: Faster, Lighter, and Repairable](https://www.wired.com/review/loreal-professionnel-airlight-pro/)
- - [9 Best French Presses &lpar;2024&rpar;: Plastic, Glass, Stainless Steel, Travel](https://www.wired.com/gallery/best-french-presses/)
- - [A new and better way to control your smart home](https://www.theverge.com/2024/12/22/24325938/home-assistant-voice-sonic-3-flipboard-surf-installer)
- - [How to Change the Default Search Engine in Google Chrome](https://www.wired.com/story/how-to-change-the-default-search-engine-in-google-chrome/)
- - [The Universe Is Teeming With Complex Organic Molecules](https://www.wired.com/story/the-universe-is-teeming-with-complex-organic-molecules/)<!-- TECH:END -->
+ - [9 Best French Presses &lpar;2024&rpar;: Plastic, Glass, Stainless Steel, Travel](https://www.wired.com/gallery/best-french-presses/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

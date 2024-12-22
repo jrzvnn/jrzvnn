@@ -158,10 +158,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- TECH:START -->
  - [A look at Amazon&#39;s revamped drone delivery program near Phoenix, Arizona, where the company&#39;s new MK-30 drones deliver dozens of packages a day to customers &lpar;Kevin Roose/New York Times&rpar;](http://www.techmeme.com/241222/p6#a241222p6)
- - [Apple to push new and refreshed home hardware across 2025](https://appleinsider.com/articles/24/12/22/apple-to-push-new-and-refreshed-home-hardware-across-2025?utm_medium=rss)
- - [Best Samsung Galaxy Z Fold 6 Deals: Holiday Deals Are Still on for This Versatile, Foldable Phone](https://www.cnet.com/deals/best-samsung-galaxy-z-fold-6-deals/#ftag=CAD590a51e)
- - [Best Walmart Deals: Save Big on Kitchen Accessories, Entertainment and Much More](https://www.cnet.com/deals/best-walmart-deals/#ftag=CAD590a51e)
- - [Cardinals vs. Panthers Livestream: How to Watch NFL Week 16 Today](https://www.cnet.com/tech/services-and-software/cardinals-vs-panthers-livestream-how-to-watch-nfl-week-16-today/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Reduce Your Stress and Get More Rest by Trying GABA](https://www.cnet.com/health/sleep/best-gaba-supplements/#ftag=CAD590a51e)
+ - [Consider a Roth IRA Conversion Before the End of the Year to Maximize Retirement Savings](https://www.cnet.com/personal-finance/investing/consider-a-roth-ira-conversion-before-the-end-of-the-year-to-maximize-retirement-savings/#ftag=CAD590a51e)
+ - [I Tried to Use AI to Design a Holiday Card. It Kept Giving Me a Fake Family](https://www.cnet.com/tech/services-and-software/i-tried-to-use-ai-to-design-a-holiday-card-it-kept-giving-me-a-fake-family/#ftag=CAD590a51e)
+ - [GhostBed Flex Hybrid Mattress Review: A Responsive Memory Foam Bed for Everyone](https://www.cnet.com/health/sleep/ghostbed-flex-hybrid-mattress-review/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

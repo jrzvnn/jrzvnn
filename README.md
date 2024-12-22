@@ -167,10 +167,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [Shallow Hal &lpar;2001&rpar;](http://9gag.com/gag/aGyz7A0)
- - 😝 [You can do that if you are men... but some how it is all men fault](http://9gag.com/gag/adBg2W2)
- - 💣 [No translation needed\u2026](http://9gag.com/gag/aMV4zXM)
- - 😝 [ItBreaksIt](http://9gag.com/gag/avyAxEn)
- - 👉 [Jerk treatment](http://9gag.com/gag/aryn275)<!-- MEMES:END -->
+ - 😝 [You member?](http://9gag.com/gag/agmgxdx)
+ - 💣 [Jerk treatment](http://9gag.com/gag/aryn275)
+ - 😝 [Gimme my money](http://9gag.com/gag/agmgKqv)
+ - 👉 [Katerina](http://9gag.com/gag/adBgo52)<!-- MEMES:END -->
 
 ---
 

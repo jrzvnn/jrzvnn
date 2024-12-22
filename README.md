@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Gina Raimondo says holding back China in the chips race is a &quot;fool&#39;s errand&quot;, and investment, more than export controls, will keep US ahead of Beijing &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/241222/p1#a241222p1)
  - [A look at India&#39;s quick food delivery market as Swiggy and Zomato enter the sector; report: online food delivery market in India to reach $15B by March 2029 &lpar;Satviki Sanjay/Bloomberg&rpar;](http://www.techmeme.com/241221/p14#a241221p14)
  - [Exploring the scaling challenges of transformer-based LLMs in efficiently processing large amounts of text, as well as potential solutions, such as RAG systems &lpar;Timothy B. Lee/Ars Technica&rpar;](http://www.techmeme.com/241221/p13#a241221p13)
  - [Gemini can now tell when a PDF is on your phone screen](https://www.theverge.com/2024/12/21/24326767/google-gemini-ask-about-pdf-rolling-out-files-android)
- - [The US NHTSA suggests easing rules allowing for fully driverless cars and urges companies operating driverless cars to share more data for greater transparency &lpar;Andrew J. Hawkins/The Verge&rpar;](http://www.techmeme.com/241221/p12#a241221p12)
- - [Report: hedge funds employing crypto strategies posted 46% gains in November, bringing their YTD returns to 76%, outpacing the industry average of 10% YTD gains &lpar;Financial Times&rpar;](http://www.techmeme.com/241221/p11#a241221p11)<!-- TECH:END -->
+ - [The US NHTSA suggests easing rules allowing for fully driverless cars and urges companies operating driverless cars to share more data for greater transparency &lpar;Andrew J. Hawkins/The Verge&rpar;](http://www.techmeme.com/241221/p12#a241221p12)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

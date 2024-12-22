@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [All of Canoo’s employees are reportedly on a ‘mandatory unpaid break’](https://www.theverge.com/2024/12/22/24327265/canoo-ev-employees-furloughed-mandatory-unpaid-break)
  - [Best Internet Providers in Lubbock, Texas](https://www.cnet.com/home/internet/best-internet-providers-in-lubbock-tx/#ftag=CAD590a51e)
  - [Grab the Dyson AirWrap for $119 off Right Now and You&#39;ll Get It in Time for Christmas](https://www.cnet.com/deals/grab-the-dyson-airwrap-for-119-off-right-now-and-youll-get-it-in-time-for-christmas/#ftag=CAD590a51e)
  - [6 Tricks to Get the Perfect Seat for Your Next Flight](https://www.cnet.com/personal-finance/6-tricks-to-get-the-perfect-seat-for-your-next-flight/#ftag=CAD590a51e)
- - [Nolah Evolution Comfort Plus Review 2024: A Luxurious Pillow-Top Mattress for Heavy People](https://www.cnet.com/health/sleep/nolah-evolution-comfort-plus-review/#ftag=CAD590a51e)
- - [Best Internet Providers in Las Vegas, Nevada](https://www.cnet.com/home/internet/best-internet-providers-in-las-vegas-nv/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Nolah Evolution Comfort Plus Review 2024: A Luxurious Pillow-Top Mattress for Heavy People](https://www.cnet.com/health/sleep/nolah-evolution-comfort-plus-review/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

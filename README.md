@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Sources: Apple is working on a smart doorbell system with advanced facial recognition that can wirelessly connect and unlock third-party smart locks &lpar;Mark Gurman/Bloomberg&rpar;](http://www.techmeme.com/241222/p5#a241222p5)
  - [Apple is working on a doorbell camera with Face ID](https://www.theverge.com/2024/12/22/24327133/apple-smart-home-doorbell-camera-face-id-unlock)
  - [HomeKit Smart doorbell with Face ID expected by 2026](https://appleinsider.com/articles/24/12/22/homekit-smart-doorbell-with-face-id-expected-by-2026?utm_medium=rss)
  - [AirPods could add temperature sensing, heart rate measuring, and a camera for Apple Intelligence](https://appleinsider.com/articles/24/12/22/airpods-could-add-temperature-sensing-heart-rate-measuring-and-a-camera-for-apple-intelligence?utm_medium=rss)
- - [An iPhone owner’s guide to living off the app grid](https://www.theverge.com/2024/12/22/24325858/iphone-minimalist-homescreen-ios-18-widgets-shortcuts)
- - [The Verge’s favorite books from 2024](https://www.theverge.com/24306925/best-books-2024-staff-picks-favorites)<!-- TECH:END -->
+ - [An iPhone owner’s guide to living off the app grid](https://www.theverge.com/2024/12/22/24325858/iphone-minimalist-homescreen-ios-18-widgets-shortcuts)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

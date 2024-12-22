@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [I expect nothing and I&#39;m still disappointed](http://9gag.com/gag/aD2DOdB)
+ - 😝 [The female mind, ladies and gentlemen...](http://9gag.com/gag/axyBm9L)
  - 😝 [Savages barely even human](http://9gag.com/gag/adBgorM)
- - 💣 [I see this as a new hobby.. too bad i live in eastern Europe where playing this is quite impossible](http://9gag.com/gag/adBgo7N)
- - 😝 [The emotional vigil at Magdeburg cathedral is about to finish. Germany is heartbroken.](http://9gag.com/gag/aVvxBOn)
- - 👉 [Lord give me strength](http://9gag.com/gag/a4P1qMQ)<!-- MEMES:END -->
+ - 💣 [Lord give me strength](http://9gag.com/gag/a4P1qMQ)
+ - 😝 [Finding a Megalodon tooth](http://9gag.com/gag/a1m1Ey2)
+ - 👉 [A tourist visiting North Korea secretly filmed a female traffic officer\u2019s movements and published the footage.](http://9gag.com/gag/arynBO5)<!-- MEMES:END -->
 
 ---
 

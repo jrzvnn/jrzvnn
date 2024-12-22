@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Nice](http://9gag.com/gag/a0eZMRZ)
+ - 😝 [Katerina](http://9gag.com/gag/adBgo52)
  - 😝 [The real hero.](http://9gag.com/gag/aBynGj2)
- - 💣 [Lord give me strength](http://9gag.com/gag/a4P1qMQ)
- - 😝 [Jerk treatment](http://9gag.com/gag/aryn275)
- - 👉 [No translation needed\u2026](http://9gag.com/gag/aMV4zXM)<!-- MEMES:END -->
+ - 💣 [You member?](http://9gag.com/gag/agmgxdx)
+ - 😝 [Lord give me strength](http://9gag.com/gag/a4P1qMQ)
+ - 👉 [Gimme my money](http://9gag.com/gag/agmgKqv)<!-- MEMES:END -->
 
 ---
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Preqin data: Southeast Asia&#39;s AI startups raised just $1.7B across 122 deals so far in 2024, out of ~$20B across 1,845 deals for the whole Asia-Pacific region &lpar;Bloomberg&rpar;](http://www.techmeme.com/241222/p4#a241222p4)
+ - [Cloud Gaming on the PlayStation Portal Isn’t the Exciting Step Forward We’d Hoped for](https://www.wired.com/story/cloud-gaming-on-the-playstation-portal-isnt-the-exciting-step-forward-wed-hoped-for/)
  - [The Race to Translate Animal Sounds Into Human Language](https://www.wired.com/story/artificial-intelligence-translation-animal-sounds-human-language/)
  - [How Britannica survived the Wikipedia era by changing itself into a maker of education software and AI agents, as it reportedly weighs an IPO at a $1B valuation &lpar;Michael J. de la Merced/New York Times&rpar;](http://www.techmeme.com/241222/p3#a241222p3)
- - [Tesla&#39;s shares are up 73% since Election Day, as several analysts see the Trump administration easing rules for self-driving tech, benefiting Tesla&#39;s ambitions &lpar;Esha Dey/Bloomberg&rpar;](http://www.techmeme.com/241222/p2#a241222p2)
- - [Gina Raimondo says holding back China in the chips race is a &quot;fool&#39;s errand&quot;, and investment, more than export controls, will keep US ahead of Beijing &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/241222/p1#a241222p1)
- - [A look at India&#39;s quick food delivery market as Swiggy and Zomato enter the sector; report: online food delivery market in India to reach $15B by March 2029 &lpar;Satviki Sanjay/Bloomberg&rpar;](http://www.techmeme.com/241221/p14#a241221p14)<!-- TECH:END -->
+ - [Tesla&#39;s shares are up 73% since Election Day, as several analysts see the Trump administration easing rules for self-driving tech, benefiting Tesla&#39;s ambitions &lpar;Esha Dey/Bloomberg&rpar;](http://www.techmeme.com/241222/p2#a241222p2)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

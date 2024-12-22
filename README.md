@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [An iPhone owner’s guide to living off the app grid](https://www.theverge.com/2024/12/22/24325858/iphone-minimalist-homescreen-ios-18-widgets-shortcuts)
- - [The Verge’s favorite books from 2024](https://www.theverge.com/24306925/best-books-2024-staff-picks-favorites)
+ - [Apple is working on a doorbell camera with Face ID](https://www.theverge.com/2024/12/22/24327133/apple-smart-home-doorbell-camera-face-id-unlock)
+ - [HomeKit Smart doorbell with Face ID expected by 2026](https://appleinsider.com/articles/24/12/22/homekit-smart-doorbell-with-face-id-expected-by-2026?utm_medium=rss)
  - [AirPods could add temperature sensing, heart rate measuring, and a camera for Apple Intelligence](https://appleinsider.com/articles/24/12/22/airpods-could-add-temperature-sensing-heart-rate-measuring-and-a-camera-for-apple-intelligence?utm_medium=rss)
- - [L’Oreal Professionnel AirLight Pro Review: Faster, Lighter, and Repairable](https://www.wired.com/review/loreal-professionnel-airlight-pro/)
- - [9 Best French Presses &lpar;2024&rpar;: Plastic, Glass, Stainless Steel, Travel](https://www.wired.com/gallery/best-french-presses/)<!-- TECH:END -->
+ - [An iPhone owner’s guide to living off the app grid](https://www.theverge.com/2024/12/22/24325858/iphone-minimalist-homescreen-ios-18-widgets-shortcuts)
+ - [The Verge’s favorite books from 2024](https://www.theverge.com/24306925/best-books-2024-staff-picks-favorites)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

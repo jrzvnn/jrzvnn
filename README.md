@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Exploring the scaling challenges of transformer-based LLMs in efficiently processing large amounts of text, as well as potential solutions, such as RAG systems &lpar;Timothy B. Lee/Ars Technica&rpar;](http://www.techmeme.com/241221/p13#a241221p13)
  - [Gemini can now tell when a PDF is on your phone screen](https://www.theverge.com/2024/12/21/24326767/google-gemini-ask-about-pdf-rolling-out-files-android)
  - [The US NHTSA suggests easing rules allowing for fully driverless cars and urges companies operating driverless cars to share more data for greater transparency &lpar;Andrew J. Hawkins/The Verge&rpar;](http://www.techmeme.com/241221/p12#a241221p12)
  - [Report: hedge funds employing crypto strategies posted 46% gains in November, bringing their YTD returns to 76%, outpacing the industry average of 10% YTD gains &lpar;Financial Times&rpar;](http://www.techmeme.com/241221/p11#a241221p11)
- - [iOS 19 won&#39;t drop currently supported devices, but iPadOS 19 will](https://appleinsider.com/articles/24/12/21/ios-19-wont-drop-currently-supported-devices-but-ipados-19-will?utm_medium=rss)
- - [Tether says it is on track for a record $10B net profit in 2024 and expects to invest $2.5B to $3B in 2025 across AI, finance, biotech, education, and mining &lpar;Lucinda Shen/Axios&rpar;](http://www.techmeme.com/241221/p10#a241221p10)<!-- TECH:END -->
+ - [iOS 19 won&#39;t drop currently supported devices, but iPadOS 19 will](https://appleinsider.com/articles/24/12/21/ios-19-wont-drop-currently-supported-devices-but-ipados-19-will?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

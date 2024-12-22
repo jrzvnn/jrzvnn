@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Nice](http://9gag.com/gag/a0eZMRZ)
- - 😝 [A little girl has her first crush](http://9gag.com/gag/a0eZnKQ)
- - 💣 [Jerk treatment](http://9gag.com/gag/aryn275)
- - 😝 [You member?](http://9gag.com/gag/agmgxdx)
- - 👉 [Pattern recognition. Do you notice something?](http://9gag.com/gag/aAyGMqp)<!-- MEMES:END -->
+ - 😝 [Male bee dies after ejaculation while mating with a queen bee](http://9gag.com/gag/aLnvmq6)
+ - 😝 [Colin Jost doing joke swap while Scarlett Johansson is backstage](http://9gag.com/gag/a0eZOLX)
+ - 💣 [Katerina](http://9gag.com/gag/adBgo52)
+ - 😝 [No translation needed\u2026](http://9gag.com/gag/aMV4zXM)
+ - 👉 [You can do that if you are men... but some how it is all men fault](http://9gag.com/gag/adBg2W2)<!-- MEMES:END -->
 
 ---
 

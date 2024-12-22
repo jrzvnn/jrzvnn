@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [10 great shows to stream on Amazon Prime Video from 2024](https://www.theverge.com/24302660/amazon-prime-video-best-2024-shows-streaming)
- - [Sources: Apple is working on a smart doorbell system with advanced facial recognition that can wirelessly connect and unlock third-party smart locks &lpar;Mark Gurman/Bloomberg&rpar;](http://www.techmeme.com/241222/p5#a241222p5)
- - [Apple is working on a doorbell camera with Face ID](https://www.theverge.com/2024/12/22/24327133/apple-smart-home-doorbell-camera-face-id-unlock)
- - [HomeKit Smart doorbell with Face ID expected by 2026](https://appleinsider.com/articles/24/12/22/homekit-smart-doorbell-with-face-id-expected-by-2026?utm_medium=rss)
- - [AirPods could add temperature sensing, heart rate measuring, and a camera for Apple Intelligence](https://appleinsider.com/articles/24/12/22/airpods-could-add-temperature-sensing-heart-rate-measuring-and-a-camera-for-apple-intelligence?utm_medium=rss)<!-- TECH:END -->
+ - [Best Samsung Galaxy Z Fold 6 Deals: Holiday Deals Are Still on for This Versatile, Foldable Phone](https://www.cnet.com/deals/best-samsung-galaxy-z-fold-6-deals/#ftag=CAD590a51e)
+ - [Best Walmart Deals: Save Big on Kitchen Accessories, Entertainment and Much More](https://www.cnet.com/deals/best-walmart-deals/#ftag=CAD590a51e)
+ - [Cardinals vs. Panthers Livestream: How to Watch NFL Week 16 Today](https://www.cnet.com/tech/services-and-software/cardinals-vs-panthers-livestream-how-to-watch-nfl-week-16-today/#ftag=CAD590a51e)
+ - [Giants vs. Falcons Livestream: How to Watch NFL Week 16 Today](https://www.cnet.com/tech/services-and-software/giants-vs-falcons-livestream-how-to-watch-nfl-week-16-today/#ftag=CAD590a51e)
+ - [Lions vs. Bears Livestream: How to Watch NFL Week 16 Today](https://www.cnet.com/tech/services-and-software/lions-vs-bears-livestream-how-to-watch-nfl-week-16-today/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

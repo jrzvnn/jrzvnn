@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Football and rodeo](http://9gag.com/gag/a9y1moK)
- - 😝 [Gimme my money](http://9gag.com/gag/agmgKqv)
- - 💣 [No translation needed\u2026](http://9gag.com/gag/aMV4zXM)
- - 😝 [Jerk treatment](http://9gag.com/gag/aryn275)
- - 👉 [Katerina](http://9gag.com/gag/adBgo52)<!-- MEMES:END -->
+ - 😝 [Villains in movies](http://9gag.com/gag/aryn8EK)
+ - 😝 [Nice dad](http://9gag.com/gag/aYQrA82)
+ - 💣 [Facepalm](http://9gag.com/gag/agmgERr)
+ - 😝 [The gaslighting is off the charts these days.](http://9gag.com/gag/a5Q1DpG)
+ - 👉 [Women](http://9gag.com/gag/an7gGr0)<!-- MEMES:END -->
 
 ---
 

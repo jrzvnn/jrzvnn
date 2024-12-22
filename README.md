@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [iOS 19 won&#39;t drop currently supported devices, but iPadOS 19 will](https://appleinsider.com/articles/24/12/21/ios-19-wont-drop-currently-supported-devices-but-ipados-19-will?utm_medium=rss)
  - [Best Internet Providers in Plymouth, Minnesota](https://www.cnet.com/home/internet/best-internet-providers-in-plymouth-mn/#ftag=CAD590a51e)
  - [Apple may revive its AirPort technology in new HomePod and Apple TV](https://appleinsider.com/articles/24/12/22/apple-may-revive-its-airport-technology-in-new-homepod-and-apple-tv?utm_medium=rss)
  - [What Time to Watch Marvel&#39;s &#39;What If...&#39; Season 3 Episodes](https://www.cnet.com/tech/services-and-software/what-time-watch-marvels-what-if-season-3-episodes/#ftag=CAD590a51e)
- - [Best Web Hosting Services for 2024](https://www.cnet.com/tech/services-and-software/best-web-hosting/#ftag=CAD590a51e)
- - [Best Mattress in a Box for 2024](https://www.cnet.com/health/sleep/best-mattress-in-a-box/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Best Web Hosting Services for 2024](https://www.cnet.com/tech/services-and-software/best-web-hosting/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

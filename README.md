@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Show your love](http://9gag.com/gag/a5Q1qbL)
- - 😝 [Never tell them you next move](http://9gag.com/gag/amogpP9)
- - 💣 [Wait a little](http://9gag.com/gag/a87129O)
- - 😝 [I like french fries](http://9gag.com/gag/ae9gmKB)
- - 👉 [The running at the end......hahaha](http://9gag.com/gag/aAyGMwp)<!-- MEMES:END -->
+ - 😝 [You can do that if you are men... but some how it is all men fault](http://9gag.com/gag/adBg2W2)
+ - 😝 [Hmm...Government shutdown...](http://9gag.com/gag/aYQrqw2)
+ - 💣 [A little girl has her first crush](http://9gag.com/gag/a0eZnKQ)
+ - 😝 [No translation needed\u2026](http://9gag.com/gag/aMV4zXM)
+ - 👉 [Lord give me strength](http://9gag.com/gag/a4P1qMQ)<!-- MEMES:END -->
 
 ---
 

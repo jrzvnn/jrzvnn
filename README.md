@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [L’Oreal Professionnel AirLight Pro Review: Faster, Lighter, and Repairable](https://www.wired.com/review/loreal-professionnel-airlight-pro/)
  - [9 Best French Presses &lpar;2024&rpar;: Plastic, Glass, Stainless Steel, Travel](https://www.wired.com/gallery/best-french-presses/)
  - [A new and better way to control your smart home](https://www.theverge.com/2024/12/22/24325938/home-assistant-voice-sonic-3-flipboard-surf-installer)
  - [How to Change the Default Search Engine in Google Chrome](https://www.wired.com/story/how-to-change-the-default-search-engine-in-google-chrome/)
- - [The Universe Is Teeming With Complex Organic Molecules](https://www.wired.com/story/the-universe-is-teeming-with-complex-organic-molecules/)
- - [Preqin data: Southeast Asia&#39;s AI startups raised just $1.7B across 122 deals so far in 2024, out of ~$20B across 1,845 deals for the whole Asia-Pacific region &lpar;Bloomberg&rpar;](http://www.techmeme.com/241222/p4#a241222p4)<!-- TECH:END -->
+ - [The Universe Is Teeming With Complex Organic Molecules](https://www.wired.com/story/the-universe-is-teeming-with-complex-organic-molecules/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Glass stronger than steel Prince Rupert drop](http://9gag.com/gag/abAgQe9)
- - 😝 [Pattern recognition. Do you notice something?](http://9gag.com/gag/aAyGMqp)
- - 💣 [Finding a Megalodon tooth](http://9gag.com/gag/a1m1Ey2)
- - 😝 [Jerk treatment](http://9gag.com/gag/aryn275)
- - 👉 [I expect nothing and I&#39;m still disappointed](http://9gag.com/gag/aD2DOdB)<!-- MEMES:END -->
+ - 😝 [I expect nothing and I&#39;m still disappointed](http://9gag.com/gag/aD2DOdB)
+ - 😝 [Savages barely even human](http://9gag.com/gag/adBgorM)
+ - 💣 [I see this as a new hobby.. too bad i live in eastern Europe where playing this is quite impossible](http://9gag.com/gag/adBgo7N)
+ - 😝 [The emotional vigil at Magdeburg cathedral is about to finish. Germany is heartbroken.](http://9gag.com/gag/aVvxBOn)
+ - 👉 [Lord give me strength](http://9gag.com/gag/a4P1qMQ)<!-- MEMES:END -->
 
 ---
 

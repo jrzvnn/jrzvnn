@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Tesla&#39;s shares are up 73% since Election Day, as several analysts see the Trump administration easing rules for self-driving tech, benefiting Tesla&#39;s ambitions &lpar;Esha Dey/Bloomberg&rpar;](http://www.techmeme.com/241222/p2#a241222p2)
  - [Gina Raimondo says holding back China in the chips race is a &quot;fool&#39;s errand&quot;, and investment, more than export controls, will keep US ahead of Beijing &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/241222/p1#a241222p1)
  - [A look at India&#39;s quick food delivery market as Swiggy and Zomato enter the sector; report: online food delivery market in India to reach $15B by March 2029 &lpar;Satviki Sanjay/Bloomberg&rpar;](http://www.techmeme.com/241221/p14#a241221p14)
  - [Exploring the scaling challenges of transformer-based LLMs in efficiently processing large amounts of text, as well as potential solutions, such as RAG systems &lpar;Timothy B. Lee/Ars Technica&rpar;](http://www.techmeme.com/241221/p13#a241221p13)
- - [Gemini can now tell when a PDF is on your phone screen](https://www.theverge.com/2024/12/21/24326767/google-gemini-ask-about-pdf-rolling-out-files-android)
- - [The US NHTSA suggests easing rules allowing for fully driverless cars and urges companies operating driverless cars to share more data for greater transparency &lpar;Andrew J. Hawkins/The Verge&rpar;](http://www.techmeme.com/241221/p12#a241221p12)<!-- TECH:END -->
+ - [Gemini can now tell when a PDF is on your phone screen](https://www.theverge.com/2024/12/21/24326767/google-gemini-ask-about-pdf-rolling-out-files-android)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

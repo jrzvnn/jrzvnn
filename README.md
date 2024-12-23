@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [When a society are so divided](http://9gag.com/gag/awyz4eR)
- - 😝 [Gimme my money](http://9gag.com/gag/agmgKqv)
- - 💣 [I get it now :&lpar;](http://9gag.com/gag/aAyG2no)
- - 😝 [You wanted MEMES? Well, too bad! Here are feels!](http://9gag.com/gag/a5Q1DVy)
- - 👉 [OddlySpecific](http://9gag.com/gag/avyAmLW)<!-- MEMES:END -->
+ - 😝 [OddlySpecific](http://9gag.com/gag/avyAmLW)
+ - 😝 [Cate Blanchett and her husband](http://9gag.com/gag/aW4gRYx)
+ - 💣 [Never tell them you next move](http://9gag.com/gag/amogpP9)
+ - 😝 [I get it now :&lpar;](http://9gag.com/gag/aAyG2no)
+ - 👉 [When a society are so divided](http://9gag.com/gag/awyz4eR)<!-- MEMES:END -->
 
 ---
 

@@ -167,10 +167,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [`Influencer` gets treated the way he deserves.](http://9gag.com/gag/a6Z1xEq)
- - 😝 [What the hell dude?](http://9gag.com/gag/ayN9zMM)
- - 💣 [Avada Kedavra](http://9gag.com/gag/abAgdq8)
- - 😝 [Whoever did that is da real MVP](http://9gag.com/gag/a1m1wO6)
- - 👉 [Lol](http://9gag.com/gag/ae9g7XQ)<!-- MEMES:END -->
+ - 😝 [Lol](http://9gag.com/gag/ae9g7XQ)
+ - 💣 [Cate Blanchett and her husband](http://9gag.com/gag/aW4gRYx)
+ - 😝 [Not all men](http://9gag.com/gag/a5Q1DAq)
+ - 👉 [NYC Bodega Owner has had enough of a customer and shows them the door](http://9gag.com/gag/a871Vde)<!-- MEMES:END -->
 
 ---
 

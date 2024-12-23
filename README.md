@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [When a society are so divided](http://9gag.com/gag/awyz4eR)
- - 😝 [I expect nothing and I&#39;m still disappointed](http://9gag.com/gag/aD2DOdB)
- - 💣 [You can do that if you are men... but some how it is all men fault](http://9gag.com/gag/adBg2W2)
+ - 😝 [Jerk treatment](http://9gag.com/gag/aryn275)
+ - 😝 [Born to be king](http://9gag.com/gag/aVvx2gO)
+ - 💣 [Tinkerbell](http://9gag.com/gag/aE08E0x)
  - 😝 [My first thought was also \u201ctech neck\u201d and nothing else.](http://9gag.com/gag/awyzvXW)
- - 👉 [NYC Bodega Owner has had enough of a customer and shows them the door](http://9gag.com/gag/a871Vde)<!-- MEMES:END -->
+ - 👉 [Saving the best for last](http://9gag.com/gag/apRgAzp)<!-- MEMES:END -->
 
 ---
 

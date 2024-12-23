@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Google to court: we’ll change our Apple deal, but please let us keep Chrome](https://www.theverge.com/2024/12/23/24328087/google-proposed-final-judgement-search-monopoly-antitrust-default-contracts)
  - [Apple&#39;s Apple Pay campaign raised $3 million for fight against AIDS](https://appleinsider.com/articles/24/12/23/apples-apple-pay-campaign-raised-3-million-for-fight-against-aids?utm_medium=rss)
  - [Tech companies want to capture carbon at paper mills and sewage plants](https://www.theverge.com/2024/12/23/24328158/paper-sewage-carbon-removal-google-salesforce-frontier-crew-co280)
  - [Asus teases a new RGB-outlined Rog Strix laptop coming next year](https://www.theverge.com/2024/12/23/24328211/asus-rog-strix-laptop-teaser-ces-2025)
- - [9 Last-Minute Deals on WIRED-Approved Gifts That Will Arrive In Time](https://www.wired.com/story/last-minute-gift-deals-december-2024/)
- - [Sources: Microsoft is working on adding more internally developed and 3rd-party AI models to power 365 Copilot, to reduce reliance on OpenAI amid cost concerns &lpar;Reuters&rpar;](http://www.techmeme.com/241223/p16#a241223p16)<!-- TECH:END -->
+ - [9 Last-Minute Deals on WIRED-Approved Gifts That Will Arrive In Time](https://www.wired.com/story/last-minute-gift-deals-december-2024/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

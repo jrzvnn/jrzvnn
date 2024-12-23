@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Apple&#39;s smart home plan, 18.3 changes, &amp; xBloom smart coffee maker review on HomeKit Insider](https://appleinsider.com/articles/24/12/23/apples-smart-home-plan-183-changes-xbloom-smart-coffee-maker-review-on-homekit-insider?utm_medium=rss)
+ - [Kash Patel Is the Hero QAnon Has Been Waiting For](https://www.wired.com/story/kash-patel-is-the-hero-qanon-has-been-waiting-for/)
  - [Amazon Kindle Paperwhite &lpar;2024&rpar; review: slightly larger, slightly faster, slightly better](https://www.theverge.com/24326185/amazon-kindle-paperwhite-signature-edition-2024-e-reader-review)
  - [App Store age ratings process isn&#39;t enough, say child safety organizations](https://appleinsider.com/articles/24/12/23/app-store-age-ratings-process-isnt-enough-say-child-safety-organizations?utm_medium=rss)
- - [9 Best Indoor Security Cameras &lpar;2024&rpar;: For Homes and Apartments](https://www.wired.com/gallery/best-security-cameras/)
- - [The best app to convert video to MP4 and compress 4K video on Mac](https://appleinsider.com/articles/24/12/23/the-best-app-to-convert-video-to-mp4-and-compress-4k-video-on-mac?utm_medium=rss)
- - [Trump announces new tech policy picks for his second term](https://www.theverge.com/2024/12/23/24327968/trump-administration-tech-policy-picks-michael-kratsios-lynne-parker-bo-hines-sriram-krishnan)<!-- TECH:END -->
+ - [9 Best Indoor Security Cameras &lpar;2024&rpar;: For Homes and Apartments](https://www.wired.com/gallery/best-security-cameras/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Apple&#39;s M4 Pro 14-inch MacBook Pro has returned to its best $1,749 Black Friday price](https://appleinsider.com/articles/24/12/17/apples-m4-pro-14-inch-macbook-pro-has-returned-to-its-best-1749-black-friday-price?utm_medium=rss)
+ - [X raises Premium Plus subscription pricing by almost 40 percent](https://www.theverge.com/2024/12/23/24327918/x-premium-plus-subscription-price-increases)
  - [AI platforms are unlikely to become a major source of traffic or ad revenue for media outlets, with content deals offering only a short-term revenue boost &lpar;Om Malik/On my Om&rpar;](http://www.techmeme.com/241223/p3#a241223p3)
  - [The Invisible Russia-Ukraine Battlefield](https://www.wired.com/story/electronic-warfare-russia-ukraine/)
- - [AI Agents Will Be Manipulation Engines](https://www.wired.com/story/ai-agents-personal-assistants-manipulation-engines/)
- - [Google and OpenAI&#39;s AI product announcements over the past month have transformed the state of AI and show the breadth and pace of change &lpar;Ethan Mollick/One Useful Thing&rpar;](http://www.techmeme.com/241223/p2#a241223p2)
- - [Could Your Chest Pain Be Linked to Anxiety? Symptoms and 4 Solutions](https://www.cnet.com/health/mental/could-chest-pain-linked-anxiety-symptoms-solutions/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Best Internet Providers in Montana](https://www.cnet.com/home/internet/best-internet-providers-in-montana/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

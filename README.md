@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Source: in a first, Telegram is set to be profitable in 2024, with $1B+ in revenue, up from ~$350M in 2023, and $500M cash, as it grapples with billions in debt &lpar;New York Times&rpar;](http://www.techmeme.com/241223/p8#a241223p8)
  - [SEC filings: senior Spotify executives have sold $1.25B in stock in 2024, including CEO Daniel Ek selling ~$350M and co-founder Martin Lorentzon selling $550M+ &lpar;Financial Times&rpar;](http://www.techmeme.com/241223/p7#a241223p7)
  - [The World’s First Crispr Drug Gets a Slow Start](https://www.wired.com/story/the-worlds-first-crispr-drug-gets-a-slow-start-sickle-cell-beta-thalassemia-vertex/)
  - [X raises US Premium+ prices by 37.5% to $22 per month, starting on December 21, and EU prices from &amp;euro;16 to &amp;euro;21 per month; the basic subscription still costs $3 &lpar;Manish Singh/TechCrunch&rpar;](http://www.techmeme.com/241223/p6#a241223p6)
- - [The Biden administration opens a trade investigation into China&#39;s production of older chips, a move that may lead to tariffs and other measures to block imports &lpar;New York Times&rpar;](http://www.techmeme.com/241223/p5#a241223p5)
- - [Google says it plans to counter Japan&#39;s FTC over claims that it hobbles rivals in search; a source says Japan&#39;s FTC sent a cease-and-desist order to Google &lpar;Bloomberg&rpar;](http://www.techmeme.com/241223/p4#a241223p4)<!-- TECH:END -->
+ - [The Biden administration opens a trade investigation into China&#39;s production of older chips, a move that may lead to tariffs and other measures to block imports &lpar;New York Times&rpar;](http://www.techmeme.com/241223/p5#a241223p5)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

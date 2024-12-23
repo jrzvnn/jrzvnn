@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [My first thought was also \u201ctech neck\u201d and nothing else.](http://9gag.com/gag/awyzvXW)
+ - 😝 [The emotional vigil at Magdeburg cathedral is about to finish. Germany is heartbroken.](http://9gag.com/gag/aVvxBOn)
+ - 💣 [Tinkerbell](http://9gag.com/gag/aE08E0x)
  - 😝 [Always pays off](http://9gag.com/gag/aGyzo50)
- - 😝 [Iguazu Falls Brazil after heavy rain](http://9gag.com/gag/agmgd5n)
- - 💣 [Lol](http://9gag.com/gag/ae9g7XQ)
- - 😝 [#NeverForget](http://9gag.com/gag/aVvxded)
- - 👉 [`Influencer` gets treated the way he deserves.](http://9gag.com/gag/a6Z1xEq)<!-- MEMES:END -->
+ - 👉 [Not all men](http://9gag.com/gag/a5Q1DAq)<!-- MEMES:END -->
 
 ---
 

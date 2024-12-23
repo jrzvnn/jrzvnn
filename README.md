@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Nice!](http://9gag.com/gag/a871KRQ)
- - 😝 [Lol](http://9gag.com/gag/ae9g7XQ)
- - 💣 [When a society are so divided](http://9gag.com/gag/awyz4eR)
- - 😝 [Cate Blanchett and her husband](http://9gag.com/gag/aW4gRYx)
- - 👉 [NYC Bodega Owner has had enough of a customer and shows them the door](http://9gag.com/gag/a871Vde)<!-- MEMES:END -->
+ - 😝 [`When &#39;Spot the Difference&#39; becomes a real-life marital challenge.`](http://9gag.com/gag/axyBm1M)
+ - 😝 [Jerk treatment](http://9gag.com/gag/aryn275)
+ - 💣 [Kid completely ignoring Grandma and going straight to Grandpa](http://9gag.com/gag/agmgEpW)
+ - 😝 [Poor donkey](http://9gag.com/gag/a871KPd)
+ - 👉 [When a society are so divided](http://9gag.com/gag/awyz4eR)<!-- MEMES:END -->
 
 ---
 

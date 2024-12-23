@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [It was nice while it lasted... chrome has started phasing out manifest v2 extensions](http://9gag.com/gag/aE08NRo)
- - 😝 [Cate Blanchett and her husband](http://9gag.com/gag/aW4gRYx)
- - 💣 [OddlySpecific](http://9gag.com/gag/avyAmLW)
- - 😝 [Avada Kedavra](http://9gag.com/gag/abAgdq8)
- - 👉 [Iguazu Falls Brazil after heavy rain](http://9gag.com/gag/agmgd5n)<!-- MEMES:END -->
+ - 😝 [\ud83d\udea8Breaking: German men demand immediate deportations as word gets out and numbers increase](http://9gag.com/gag/a7o1ABb)
+ - 😝 [Man i missed it](http://9gag.com/gag/awyz8O8)
+ - 💣 [Left or goth?](http://9gag.com/gag/aZZrdrW)
+ - 😝 [Who said something about foam](http://9gag.com/gag/aBynNn2)
+ - 👉 [Story that I&#39;ll tell to my Grankids](http://9gag.com/gag/aPAZdyq)<!-- MEMES:END -->
 
 ---
 

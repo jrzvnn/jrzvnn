@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Left or goth?](http://9gag.com/gag/aZZrdrW)
- - 😝 [Cate Blanchett and her husband](http://9gag.com/gag/aW4gRYx)
- - 💣 [Poor donkey](http://9gag.com/gag/a871KPd)
- - 😝 [Avada Kedavra](http://9gag.com/gag/abAgdq8)
- - 👉 [Whoever did that is da real MVP](http://9gag.com/gag/a1m1wO6)<!-- MEMES:END -->
+ - 😝 [Always pays off](http://9gag.com/gag/aGyzo50)
+ - 😝 [Iguazu Falls Brazil after heavy rain](http://9gag.com/gag/agmgd5n)
+ - 💣 [Lol](http://9gag.com/gag/ae9g7XQ)
+ - 😝 [#NeverForget](http://9gag.com/gag/aVvxded)
+ - 👉 [`Influencer` gets treated the way he deserves.](http://9gag.com/gag/a6Z1xEq)<!-- MEMES:END -->
 
 ---
 

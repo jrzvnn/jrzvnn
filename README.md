@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [AI platforms are unlikely to become a major source of traffic or ad revenue for media outlets, with content deals offering only a short-term revenue boost &lpar;Om Malik/On my Om&rpar;](http://www.techmeme.com/241223/p3#a241223p3)
+ - [The Invisible Russia-Ukraine Battlefield](https://www.wired.com/story/electronic-warfare-russia-ukraine/)
  - [AI Agents Will Be Manipulation Engines](https://www.wired.com/story/ai-agents-personal-assistants-manipulation-engines/)
  - [Google and OpenAI&#39;s AI product announcements over the past month have transformed the state of AI and show the breadth and pace of change &lpar;Ethan Mollick/One Useful Thing&rpar;](http://www.techmeme.com/241223/p2#a241223p2)
- - [Could Your Chest Pain Be Linked to Anxiety? Symptoms and 4 Solutions](https://www.cnet.com/health/mental/could-chest-pain-linked-anxiety-symptoms-solutions/#ftag=CAD590a51e)
- - [A look at new tech-based mental health treatments like the Tetris method and Avatar therapy that are offering promising early results and possibilities &lpar;Michael Peel/Financial Times&rpar;](http://www.techmeme.com/241223/p1#a241223p1)
- - [Best Internet Providers in Murfreesboro, Tennessee](https://www.cnet.com/home/internet/best-internet-providers-in-murfreesboro-tn/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Could Your Chest Pain Be Linked to Anxiety? Symptoms and 4 Solutions](https://www.cnet.com/health/mental/could-chest-pain-linked-anxiety-symptoms-solutions/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

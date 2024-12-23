@@ -167,10 +167,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [When a society are so divided](http://9gag.com/gag/awyz4eR)
- - 😝 [Bro has all the energy! Lol](http://9gag.com/gag/aMV4XZX)
- - 💣 [You wanted MEMES? Well, too bad! Here are feels!](http://9gag.com/gag/a5Q1DVy)
- - 😝 [Taxi driver trying to keep his composure while lady having a baby at the backseat of his car](http://9gag.com/gag/aD2DMgd)
- - 👉 [OddlySpecific](http://9gag.com/gag/avyAmLW)<!-- MEMES:END -->
+ - 😝 [I expect nothing and I&#39;m still disappointed](http://9gag.com/gag/aD2DOdB)
+ - 💣 [You can do that if you are men... but some how it is all men fault](http://9gag.com/gag/adBg2W2)
+ - 😝 [My first thought was also \u201ctech neck\u201d and nothing else.](http://9gag.com/gag/awyzvXW)
+ - 👉 [NYC Bodega Owner has had enough of a customer and shows them the door](http://9gag.com/gag/a871Vde)<!-- MEMES:END -->
 
 ---
 

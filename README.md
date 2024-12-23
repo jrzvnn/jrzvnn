@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Knowledge Increased](http://9gag.com/gag/aLnvrrW)
- - 😝 [Icing Christmas Cookies](http://9gag.com/gag/a341Nyr)
- - 💣 [The gaslighting is off the charts these days.](http://9gag.com/gag/a5Q1DpG)
- - 😝 [I see this as a new hobby.. too bad i live in eastern Europe where playing this is quite impossible](http://9gag.com/gag/adBgo7N)
- - 👉 [Villains in movies](http://9gag.com/gag/aryn8EK)<!-- MEMES:END -->
+ - 😝 [When a society are so divided](http://9gag.com/gag/awyz4eR)
+ - 😝 [Bro has all the energy! Lol](http://9gag.com/gag/aMV4XZX)
+ - 💣 [You wanted MEMES? Well, too bad! Here are feels!](http://9gag.com/gag/a5Q1DVy)
+ - 😝 [Taxi driver trying to keep his composure while lady having a baby at the backseat of his car](http://9gag.com/gag/aD2DMgd)
+ - 👉 [OddlySpecific](http://9gag.com/gag/avyAmLW)<!-- MEMES:END -->
 
 ---
 

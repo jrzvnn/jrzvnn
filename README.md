@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Is he sad or happy](http://9gag.com/gag/aXPrdWV)
- - 😝 [Cate Blanchett and her husband](http://9gag.com/gag/aW4gRYx)
- - 💣 [My first thought was also \u201ctech neck\u201d and nothing else.](http://9gag.com/gag/awyzvXW)
- - 😝 [Iguazu Falls Brazil after heavy rain](http://9gag.com/gag/agmgd5n)
- - 👉 [Not all men](http://9gag.com/gag/a5Q1DAq)<!-- MEMES:END -->
+ - 😝 [Taxi driver trying to keep his composure while lady having a baby at the backseat of his car](http://9gag.com/gag/aD2DMgd)
+ - 😝 [Tinkerbell](http://9gag.com/gag/aE08E0x)
+ - 💣 [Repeat shoplifters in California learn the hard way that new law Prop. 36 is now in effect.](http://9gag.com/gag/aRBrNvG)
+ - 😝 [Poor donkey](http://9gag.com/gag/a871KPd)
+ - 👉 [Cate Blanchett and her husband](http://9gag.com/gag/aW4gRYx)<!-- MEMES:END -->
 
 ---
 

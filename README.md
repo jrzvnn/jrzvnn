@@ -159,7 +159,7 @@ R                        1 repo              ░░░░░░░░░░░�
 <!-- TECH:START -->
  - [Here are 40 last-minute gifts you can still nab before Christmas](https://www.theverge.com/23642026/best-digital-gift-ideas-online-cards-subscriptions)
  - [Apple planning iOS 18.2.1 update with general bug fixes](https://appleinsider.com/articles/24/12/23/apple-planning-ios-1821-update-with-general-bug-fixes?utm_medium=rss)
- - [Experts: Bitcoin has time to adopt encryption that&#39;s resistant to attacks via potentially upcoming quantum systems, but such an overhaul would be time-consuming &lpar;Alexander Osipovich/Wall Street Journal&rpar;](http://www.techmeme.com/241223/p17#a241223p17)
+ - [Experts: Bitcoin has time to adopt newer encryption that&#39;s resistant to attacks via potentially upcoming quantum systems, but such an overhaul could take years &lpar;Alexander Osipovich/Wall Street Journal&rpar;](http://www.techmeme.com/241223/p17#a241223p17)
  - [HomeKit Smart doorbell with Face ID expected by 2026](https://appleinsider.com/articles/24/12/22/homekit-smart-doorbell-with-face-id-expected-by-2026?utm_medium=rss)
  - [Google to court: we’ll change our Apple deal, but please let us keep Chrome](https://www.theverge.com/2024/12/23/24328087/google-proposed-final-judgement-search-monopoly-antitrust-default-contracts)<!-- TECH:END -->
 

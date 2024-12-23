@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Here’s a new way to lose an argument online: the appeal to AI](https://www.theverge.com/2024/12/23/24326077/i-asked-chatgpt)
- - [VC insiders say many partners left big firms in 2024, either quitting or being pushed out, as bleak market conditions led to less funding and leaner operations &lpar;Bloomberg&rpar;](http://www.techmeme.com/241223/p10#a241223p10)
- - [McLaren Artura review: a plug-in hybrid for the 1 percent](https://www.theverge.com/2024/12/23/24325168/mclaren-artura-review-hybrid-specs-price)
- - [Sources: Meta plans to add displays to its Ray-Ban glasses as soon as H2 2025 to show notifications or AI responses, and has accelerated Orion&#39;s development &lpar;Financial Times&rpar;](http://www.techmeme.com/241223/p9#a241223p9)
- - [Honda and Nissan plan to merge as we enter the age of electric cars](https://www.theverge.com/2024/12/23/24327946/honda-nissan-mitsubishi-merger-deal-plans-2026)<!-- TECH:END -->
+ - [This Smart Bathroom Exhaust Fan Is Great for Parties](https://www.wired.com/story/commercial-electric-smart-bathroom-exhaust-fan-rave/)
+ - [Dutch tech investor Prosus plans to acquire online travel agency Despegar.com for $1.7B, or $19.50 per share, to expand in Latin American, closing in Q2 2025 &lpar;Loni Prinsloo/Bloomberg&rpar;](http://www.techmeme.com/241223/p11#a241223p11)
+ - [The AI smartphones that never materialized in 2024](https://www.theverge.com/24315181/ai-smartphones-2024-apple-intelligence-gemini-samsung)
+ - [Did You Make $5,000 or More via PayPal, Venmo or Cash App? Expect a 1099-K Tax Form](https://www.cnet.com/personal-finance/taxes/did-you-make-5000-or-more-via-paypal-venmo-or-cash-app-expect-a-1099-k-tax-form/#ftag=CAD590a51e)
+ - [Best VPN for Windows 2024](https://www.cnet.com/tech/services-and-software/best-vpn-for-windows/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

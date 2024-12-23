@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [How Google Maps Makes It Harder for Palestinians to Navigate the West Bank](https://www.wired.com/story/google-maps-west-bank/)
  - [Sony’s WH-1000XM4 headphones are nearly 50 percent off right now](https://www.theverge.com/2024/12/23/24327980/sony-wh-1000xm4-noise-canceling-headphones-rig-nacon-revolution-x-controller-deal-sale)
  - [App Store age ratings process isn&#39;t enough, say child safety organizations](https://appleinsider.com/articles/24/12/23/app-store-age-ratings-process-isnt-enough-say-child-safety-organizations?utm_medium=rss)
  - [Walmart sued over illegally opening bank accounts for delivery drivers](https://www.theverge.com/2024/12/23/24328046/walmart-spark-delivery-lawsuit-branch-instant-payment)
- - [The Best TV Shows You Missed in 2024](https://www.wired.com/story/the-best-tv-shows-you-missed-in-2024/)
- - [This Clear AI Class-Action Settlement Is Open Til Dec. 27: Are You Eligible?](https://www.cnet.com/personal-finance/this-clear-ai-class-action-settlement-is-open-til-dec-27-are-you-eligible/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [The Best TV Shows You Missed in 2024](https://www.wired.com/story/the-best-tv-shows-you-missed-in-2024/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

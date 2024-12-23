@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Icing Christmas Cookies](http://9gag.com/gag/a341Nyr)
- - 😝 [I see this as a new hobby.. too bad i live in eastern Europe where playing this is quite impossible](http://9gag.com/gag/adBgo7N)
- - 💣 [Diy is getting out of control](http://9gag.com/gag/aAyGZBL)
- - 😝 [The gaslighting is off the charts these days.](http://9gag.com/gag/a5Q1DpG)
- - 👉 [Villains in movies](http://9gag.com/gag/aryn8EK)<!-- MEMES:END -->
+ - 😝 [When a society are so divided](http://9gag.com/gag/awyz4eR)
+ - 😝 [Gimme my money](http://9gag.com/gag/agmgKqv)
+ - 💣 [I get it now :&lpar;](http://9gag.com/gag/aAyG2no)
+ - 😝 [You wanted MEMES? Well, too bad! Here are feels!](http://9gag.com/gag/a5Q1DVy)
+ - 👉 [OddlySpecific](http://9gag.com/gag/avyAmLW)<!-- MEMES:END -->
 
 ---
 

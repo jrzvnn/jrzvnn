@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [M5 Pro may separate out GPU and CPU for new server-grade performance](https://appleinsider.com/articles/24/12/23/m5-pro-may-separate-out-gpu-and-cpu-for-new-server-grade-performance?utm_medium=rss)
  - [iPhone 18 Pro expected to have a variable aperture camera system](https://appleinsider.com/articles/24/12/23/iphone-18-pro-expected-to-have-a-variable-aperture-camera-system?utm_medium=rss)
  - [Kuo: Apple&#39;s M5 chip to use TSMC&#39;s advanced N3P node; M5 Pro, Max, and Ultra will use a new server-grade SoIC packaging featuring separate CPU and GPU designs &lpar;Ben Lovejoy/9to5Mac&rpar;](http://www.techmeme.com/241223/p13#a241223p13)
  - [This Was the Year Elon Musk Took Over Politics](https://www.wired.com/story/the-year-elon-musk-took-over-politics/)
- - [The 10 Best Movies You Missed in 2024](https://www.wired.com/story/the-best-movies-you-missed-in-2024/)
- - [How Netflix took on live TV — and got ready to take on the NFL](https://www.theverge.com/24326196/netflix-live-nfl-paul-tyson-wwe-world-cup)<!-- TECH:END -->
+ - [The 10 Best Movies You Missed in 2024](https://www.wired.com/story/the-best-movies-you-missed-in-2024/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Yo homie](http://9gag.com/gag/amogdXv)
- - 😝 [United Kingdom of I-slimes](http://9gag.com/gag/aLnvbAg)
- - 💣 [So Cute Cake](http://9gag.com/gag/aE08EPN)
- - 😝 [You wanted MEMES? Well, too bad! Here are feels!](http://9gag.com/gag/a5Q1DVy)
- - 👉 [\ud83d\udea8Breaking: German men demand immediate deportations as word gets out and numbers increase](http://9gag.com/gag/a7o1ABb)<!-- MEMES:END -->
+ - 😝 [Poor donkey](http://9gag.com/gag/a871KPd)
+ - 😝 [Not all men](http://9gag.com/gag/a5Q1DAq)
+ - 💣 [What the hell dude?](http://9gag.com/gag/ayN9zMM)
+ - 😝 [Savages barely even human](http://9gag.com/gag/adBgorM)
+ - 👉 [Lol](http://9gag.com/gag/ae9g7XQ)<!-- MEMES:END -->
 
 ---
 

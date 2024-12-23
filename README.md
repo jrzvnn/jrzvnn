@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Lol](http://9gag.com/gag/ae9g7XQ)
- - 😝 [Saving the best for last](http://9gag.com/gag/apRgAzp)
- - 💣 [Bro has all the energy! Lol](http://9gag.com/gag/aMV4XZX)
  - 😝 [Cate Blanchett and her husband](http://9gag.com/gag/aW4gRYx)
- - 👉 [Iguazu Falls Brazil after heavy rain](http://9gag.com/gag/agmgd5n)<!-- MEMES:END -->
+ - 😝 [Avada Kedavra](http://9gag.com/gag/abAgdq8)
+ - 💣 [Poor donkey](http://9gag.com/gag/a871KPd)
+ - 😝 [Not all men](http://9gag.com/gag/a5Q1DAq)
+ - 👉 [Lol](http://9gag.com/gag/ae9g7XQ)<!-- MEMES:END -->
 
 ---
 

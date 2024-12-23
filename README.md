@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Walmart sued over illegally opening bank accounts for delivery drivers](https://www.theverge.com/2024/12/23/24328046/walmart-spark-delivery-lawsuit-branch-instant-payment)
  - [The Best TV Shows You Missed in 2024](https://www.wired.com/story/the-best-tv-shows-you-missed-in-2024/)
  - [This Clear AI Class-Action Settlement Is Open Til Dec. 27: Are You Eligible?](https://www.cnet.com/personal-finance/this-clear-ai-class-action-settlement-is-open-til-dec-27-are-you-eligible/#ftag=CAD590a51e)
  - [Did You Make $5,000 or More via PayPal, Venmo or Cash App? The IRS Will Know About It](https://www.cnet.com/personal-finance/taxes/did-you-make-5000-or-more-via-paypal-venmo-or-cash-app-the-irs-will-know-about-it/#ftag=CAD590a51e)
- - [M5 Pro may separate out GPU and CPU for new server-grade performance](https://appleinsider.com/articles/24/12/23/m5-pro-may-separate-out-gpu-and-cpu-for-new-server-grade-performance?utm_medium=rss)
- - [iPhone 18 Pro expected to have a variable aperture camera system](https://appleinsider.com/articles/24/12/23/iphone-18-pro-expected-to-have-a-variable-aperture-camera-system?utm_medium=rss)<!-- TECH:END -->
+ - [M5 Pro may separate out GPU and CPU for new server-grade performance](https://appleinsider.com/articles/24/12/23/m5-pro-may-separate-out-gpu-and-cpu-for-new-server-grade-performance?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

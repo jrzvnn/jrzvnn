@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The Animation Guild ratifies a contract with big studios, without AI demands such as letting members opt out of using AI or having AI train on their work &lpar;Gene Maddaus/Variety&rpar;](http://www.techmeme.com/241223/p15#a241223p15)
  - [App Store age ratings process isn&#39;t enough, say child safety organizations](https://appleinsider.com/articles/24/12/23/app-store-age-ratings-process-isnt-enough-say-child-safety-organizations?utm_medium=rss)
  - [A viral YouTube video from MegaLag claims PayPal&#39;s Honey browser extension often doesn&#39;t show users the best coupon codes and steals creators&#39; affiliate revenue &lpar;Ryan Christoffel/9to5Mac&rpar;](http://www.techmeme.com/241223/p14#a241223p14)
  - [How Google Maps Makes It Harder for Palestinians to Navigate the West Bank](https://www.wired.com/story/google-maps-west-bank/)
- - [Sony’s WH-1000XM4 headphones are nearly 50 percent off right now](https://www.theverge.com/2024/12/23/24327980/sony-wh-1000xm4-noise-canceling-headphones-rig-nacon-revolution-x-controller-deal-sale)
- - [Need a Break From Elf and Red One? Stream These Alternative Christmas Movies](https://www.cnet.com/tech/services-and-software/need-a-break-from-elf-and-red-one-stream-these-alternative-christmas-movies/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Sony’s WH-1000XM4 headphones are nearly 50 percent off right now](https://www.theverge.com/2024/12/23/24327980/sony-wh-1000xm4-noise-canceling-headphones-rig-nacon-revolution-x-controller-deal-sale)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

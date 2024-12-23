@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Women](http://9gag.com/gag/an7gGr0)
- - 😝 [I see this as a new hobby.. too bad i live in eastern Europe where playing this is quite impossible](http://9gag.com/gag/adBgo7N)
- - 💣 [Icing Christmas Cookies](http://9gag.com/gag/a341Nyr)
- - 😝 [Villains in movies](http://9gag.com/gag/aryn8EK)
- - 👉 [The gaslighting is off the charts these days.](http://9gag.com/gag/a5Q1DpG)<!-- MEMES:END -->
+ - 😝 [Gimme my money](http://9gag.com/gag/agmgKqv)
+ - 😝 [Nice](http://9gag.com/gag/a0eZMRZ)
+ - 💣 [\ud83d\udea8Breaking: German men demand immediate deportations as word gets out and numbers increase](http://9gag.com/gag/a7o1ABb)
+ - 😝 [NYC Bodega Owner has had enough of a customer and shows them the door](http://9gag.com/gag/a871Vde)
+ - 👉 [A tourist visiting North Korea secretly filmed a female traffic officer\u2019s movements and published the footage.](http://9gag.com/gag/arynBO5)<!-- MEMES:END -->
 
 ---
 

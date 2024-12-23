@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Not all men](http://9gag.com/gag/a5Q1DAq)
- - 😝 [Avada Kedavra](http://9gag.com/gag/abAgdq8)
- - 💣 [When a society are so divided](http://9gag.com/gag/awyz4eR)
- - 😝 [Whoever did that is da real MVP](http://9gag.com/gag/a1m1wO6)
- - 👉 [Iguazu Falls Brazil after heavy rain](http://9gag.com/gag/agmgd5n)<!-- MEMES:END -->
+ - 😝 [Yo homie](http://9gag.com/gag/amogdXv)
+ - 😝 [United Kingdom of I-slimes](http://9gag.com/gag/aLnvbAg)
+ - 💣 [So Cute Cake](http://9gag.com/gag/aE08EPN)
+ - 😝 [You wanted MEMES? Well, too bad! Here are feels!](http://9gag.com/gag/a5Q1DVy)
+ - 👉 [\ud83d\udea8Breaking: German men demand immediate deportations as word gets out and numbers increase](http://9gag.com/gag/a7o1ABb)<!-- MEMES:END -->
 
 ---
 

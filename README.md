@@ -166,10 +166,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Poor donkey](http://9gag.com/gag/a871KPd)
- - 😝 [Not all men](http://9gag.com/gag/a5Q1DAq)
- - 💣 [What the hell dude?](http://9gag.com/gag/ayN9zMM)
- - 😝 [Savages barely even human](http://9gag.com/gag/adBgorM)
+ - 😝 [`Influencer` gets treated the way he deserves.](http://9gag.com/gag/a6Z1xEq)
+ - 😝 [What the hell dude?](http://9gag.com/gag/ayN9zMM)
+ - 💣 [Avada Kedavra](http://9gag.com/gag/abAgdq8)
+ - 😝 [Whoever did that is da real MVP](http://9gag.com/gag/a1m1wO6)
  - 👉 [Lol](http://9gag.com/gag/ae9g7XQ)<!-- MEMES:END -->
 
 ---

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [9 Best Indoor Security Cameras &lpar;2024&rpar;: For Homes and Apartments](https://www.wired.com/gallery/best-security-cameras/)
+ - [The best app to convert video to MP4 and compress 4K video on Mac](https://appleinsider.com/articles/24/12/23/the-best-app-to-convert-video-to-mp4-and-compress-4k-video-on-mac?utm_medium=rss)
  - [Trump announces new tech policy picks for his second term](https://www.theverge.com/2024/12/23/24327968/trump-administration-tech-policy-picks-michael-kratsios-lynne-parker-bo-hines-sriram-krishnan)
- - [Nosferatu is the stuff of exquisitely erotic nightmares](https://www.theverge.com/24322968/nosferatu-review-robert-eggers)
- - [This Smart Bathroom Exhaust Fan Is Great for Parties](https://www.wired.com/story/commercial-electric-smart-bathroom-exhaust-fan-rave/)
- - [Dutch tech investor Prosus plans to acquire online travel agency Despegar.com for $1.7B, or $19.50 per share, to expand in Latin America, closing in Q2 2025 &lpar;Loni Prinsloo/Bloomberg&rpar;](http://www.techmeme.com/241223/p11#a241223p11)
- - [The AI smartphones that never materialized in 2024](https://www.theverge.com/24315181/ai-smartphones-2024-apple-intelligence-gemini-samsung)<!-- TECH:END -->
+ - [Tax Season Is a Month Away. Review Our End-of-Year Tax Checklist to Prepare](https://www.cnet.com/personal-finance/taxes/tax-season-is-a-month-away-review-our-end-of-year-tax-checklist-to-prepare/#ftag=CAD590a51e)
+ - [Nosferatu is the stuff of exquisitely erotic nightmares](https://www.theverge.com/24322968/nosferatu-review-robert-eggers)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

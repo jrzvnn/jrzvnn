@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [*inserts Benny Hill song*](http://9gag.com/gag/a341n5e)
- - 😝 [Cate Blanchett and her husband](http://9gag.com/gag/aW4gRYx)
+ - 😝 [`Influencer` gets treated the way he deserves.](http://9gag.com/gag/a6Z1xEq)
+ - 😝 [Tinkerbell](http://9gag.com/gag/aE08E0x)
  - 💣 [When a society are so divided](http://9gag.com/gag/awyz4eR)
- - 😝 [Poor donkey](http://9gag.com/gag/a871KPd)
- - 👉 [Jerk treatment](http://9gag.com/gag/aryn275)<!-- MEMES:END -->
+ - 😝 [My first thought was also \u201ctech neck\u201d and nothing else.](http://9gag.com/gag/awyzvXW)
+ - 👉 [Bro has all the energy! Lol](http://9gag.com/gag/aMV4XZX)<!-- MEMES:END -->
 
 ---
 

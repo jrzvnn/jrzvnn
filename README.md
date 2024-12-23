@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [`Influencer` gets treated the way he deserves.](http://9gag.com/gag/a6Z1xEq)
- - 😝 [Lol](http://9gag.com/gag/ae9g7XQ)
- - 💣 [Cate Blanchett and her husband](http://9gag.com/gag/aW4gRYx)
- - 😝 [Not all men](http://9gag.com/gag/a5Q1DAq)
- - 👉 [NYC Bodega Owner has had enough of a customer and shows them the door](http://9gag.com/gag/a871Vde)<!-- MEMES:END -->
+ - 😝 [Avada Kedavra](http://9gag.com/gag/abAgdq8)
+ - 😝 [What the hell dude?](http://9gag.com/gag/ayN9zMM)
+ - 💣 [Not all men](http://9gag.com/gag/a5Q1DAq)
+ - 😝 [Left or goth?](http://9gag.com/gag/aZZrdrW)
+ - 👉 [Lol](http://9gag.com/gag/ae9g7XQ)<!-- MEMES:END -->
 
 ---
 

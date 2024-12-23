@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Whoever did that is da real MVP](http://9gag.com/gag/a1m1wO6)
+ - 😝 [Not all men](http://9gag.com/gag/a5Q1DAq)
  - 😝 [Avada Kedavra](http://9gag.com/gag/abAgdq8)
- - 💣 [Not all men](http://9gag.com/gag/a5Q1DAq)
- - 😝 [#NeverForget](http://9gag.com/gag/aVvxded)
- - 👉 [When a society are so divided](http://9gag.com/gag/awyz4eR)<!-- MEMES:END -->
+ - 💣 [When a society are so divided](http://9gag.com/gag/awyz4eR)
+ - 😝 [Whoever did that is da real MVP](http://9gag.com/gag/a1m1wO6)
+ - 👉 [Iguazu Falls Brazil after heavy rain](http://9gag.com/gag/agmgd5n)<!-- MEMES:END -->
 
 ---
 

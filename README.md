@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Apple planning iOS 18.2.1 update with general bug fixes](https://appleinsider.com/articles/24/12/23/apple-planning-ios-1821-update-with-general-bug-fixes?utm_medium=rss)
+ - [Experts: Bitcoin has time to adopt encryption that&#39;s resistant to attacks via potentially upcoming quantum systems, but such an overhaul would be time-consuming &lpar;Alexander Osipovich/Wall Street Journal&rpar;](http://www.techmeme.com/241223/p17#a241223p17)
  - [HomeKit Smart doorbell with Face ID expected by 2026](https://appleinsider.com/articles/24/12/22/homekit-smart-doorbell-with-face-id-expected-by-2026?utm_medium=rss)
  - [Google to court: we’ll change our Apple deal, but please let us keep Chrome](https://www.theverge.com/2024/12/23/24328087/google-proposed-final-judgement-search-monopoly-antitrust-default-contracts)
- - [Apple&#39;s Apple Pay campaign raised $3 million for fight against AIDS](https://appleinsider.com/articles/24/12/23/apples-apple-pay-campaign-raised-3-million-for-fight-against-aids?utm_medium=rss)
- - [Tech companies want to capture carbon at paper mills and sewage plants](https://www.theverge.com/2024/12/23/24328158/paper-sewage-carbon-removal-google-salesforce-frontier-crew-co280)
- - [Asus teases a new RGB-outlined Rog Strix laptop coming next year](https://www.theverge.com/2024/12/23/24328211/asus-rog-strix-laptop-teaser-ces-2025)<!-- TECH:END -->
+ - [Apple&#39;s Apple Pay campaign raised $3 million for fight against AIDS](https://appleinsider.com/articles/24/12/23/apples-apple-pay-campaign-raised-3-million-for-fight-against-aids?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

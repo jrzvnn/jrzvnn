@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [App Store age ratings process isn&#39;t enough, say child safety organizations](https://appleinsider.com/articles/24/12/23/app-store-age-ratings-process-isnt-enough-say-child-safety-organizations?utm_medium=rss)
  - [9 Best Indoor Security Cameras &lpar;2024&rpar;: For Homes and Apartments](https://www.wired.com/gallery/best-security-cameras/)
  - [The best app to convert video to MP4 and compress 4K video on Mac](https://appleinsider.com/articles/24/12/23/the-best-app-to-convert-video-to-mp4-and-compress-4k-video-on-mac?utm_medium=rss)
  - [Trump announces new tech policy picks for his second term](https://www.theverge.com/2024/12/23/24327968/trump-administration-tech-policy-picks-michael-kratsios-lynne-parker-bo-hines-sriram-krishnan)
- - [Tax Season Is a Month Away. Review Our End-of-Year Tax Checklist to Prepare](https://www.cnet.com/personal-finance/taxes/tax-season-is-a-month-away-review-our-end-of-year-tax-checklist-to-prepare/#ftag=CAD590a51e)
- - [Nosferatu is the stuff of exquisitely erotic nightmares](https://www.theverge.com/24322968/nosferatu-review-robert-eggers)<!-- TECH:END -->
+ - [Tax Season Is a Month Away. Review Our End-of-Year Tax Checklist to Prepare](https://www.cnet.com/personal-finance/taxes/tax-season-is-a-month-away-review-our-end-of-year-tax-checklist-to-prepare/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

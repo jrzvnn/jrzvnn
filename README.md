@@ -166,10 +166,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [OddlySpecific](http://9gag.com/gag/avyAmLW)
- - 😝 [Cate Blanchett and her husband](http://9gag.com/gag/aW4gRYx)
- - 💣 [Never tell them you next move](http://9gag.com/gag/amogpP9)
- - 😝 [I get it now :&lpar;](http://9gag.com/gag/aAyG2no)
+ - 😝 [I have the same conversation with my dog everytime he needs a bath](http://9gag.com/gag/aE08O0O)
+ - 😝 [Saving the best for last](http://9gag.com/gag/apRgAzp)
+ - 💣 [A tourist visiting North Korea secretly filmed a female traffic officer\u2019s movements and published the footage.](http://9gag.com/gag/arynBO5)
+ - 😝 [Taxi driver trying to keep his composure while lady having a baby at the backseat of his car](http://9gag.com/gag/aD2DMgd)
  - 👉 [When a society are so divided](http://9gag.com/gag/awyz4eR)<!-- MEMES:END -->
 
 ---

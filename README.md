@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The Biden administration opens a trade investigation into China&#39;s production of older chips, a move that may lead to tariffs and other measures to block imports &lpar;New York Times&rpar;](http://www.techmeme.com/241223/p5#a241223p5)
  - [Google says it plans to counter Japan&#39;s FTC over claims that it hobbles rivals in search; a source says Japan&#39;s FTC sent a cease-and-desist order to Google &lpar;Bloomberg&rpar;](http://www.techmeme.com/241223/p4#a241223p4)
- - [Apple&#39;s M4 Pro 14-inch MacBook Pro has returned to its best $1,749 Black Friday price](https://appleinsider.com/articles/24/12/17/apples-m4-pro-14-inch-macbook-pro-has-returned-to-its-best-1749-black-friday-price?utm_medium=rss)
- - [X raises Premium Plus subscription pricing by almost 40 percent](https://www.theverge.com/2024/12/23/24327918/x-premium-plus-subscription-price-increases)
- - [AI platforms are unlikely to become a major source of traffic or ad revenue for media outlets, with content deals offering only a short-term revenue boost &lpar;Om Malik/On my Om&rpar;](http://www.techmeme.com/241223/p3#a241223p3)
- - [The Invisible Russia-Ukraine Battlefield](https://www.wired.com/story/electronic-warfare-russia-ukraine/)<!-- TECH:END -->
+ - [Now&#39;s the Time to Lock In a High APY. Today&#39;s CD Rates, Dec. 23, 2024](https://www.cnet.com/personal-finance/banking/nows-the-time-to-lock-in-a-high-apy-todays-cd-rates-dec-23-2024/#ftag=CAD590a51e)
+ - [Best Internet Providers in Philadelphia, Pennsylvania](https://www.cnet.com/home/internet/best-internet-providers-in-philadelphia-pa/#ftag=CAD590a51e)
+ - [Apple&#39;s M4 Pro 14-inch MacBook Pro has returned to its best $1,749 Black Friday price](https://appleinsider.com/articles/24/12/17/apples-m4-pro-14-inch-macbook-pro-has-returned-to-its-best-1749-black-friday-price?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

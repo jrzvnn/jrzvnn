@@ -167,10 +167,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [The gaslighting is off the charts these days.](http://9gag.com/gag/a5Q1DpG)
- - 😝 [My first thought was also \u201ctech neck\u201d and nothing else.](http://9gag.com/gag/awyzvXW)
- - 💣 [Villains in movies](http://9gag.com/gag/aryn8EK)
+ - 😝 [Villains in movies](http://9gag.com/gag/aryn8EK)
+ - 💣 [My first thought was also \u201ctech neck\u201d and nothing else.](http://9gag.com/gag/awyzvXW)
  - 😝 [I see this as a new hobby.. too bad i live in eastern Europe where playing this is quite impossible](http://9gag.com/gag/adBgo7N)
- - 👉 [Knowledge Increased](http://9gag.com/gag/aLnvrrW)<!-- MEMES:END -->
+ - 👉 [Mark Zuckerberg, the proud new owner of a $300 million, 387-foot megayacht, powered by four colossal diesel engines, lectures us about the importance of `stopping climate change before we destroy the planet.`](http://9gag.com/gag/abAgE5v)<!-- MEMES:END -->
 
 ---
 

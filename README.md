@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Avada Kedavra](http://9gag.com/gag/abAgdq8)
+ - 😝 [Whoever did that is da real MVP](http://9gag.com/gag/a1m1wO6)
  - 😝 [What the hell dude?](http://9gag.com/gag/ayN9zMM)
- - 💣 [Not all men](http://9gag.com/gag/a5Q1DAq)
- - 😝 [Left or goth?](http://9gag.com/gag/aZZrdrW)
- - 👉 [Lol](http://9gag.com/gag/ae9g7XQ)<!-- MEMES:END -->
+ - 💣 [Iguazu Falls Brazil after heavy rain](http://9gag.com/gag/agmgd5n)
+ - 😝 [Lol](http://9gag.com/gag/ae9g7XQ)
+ - 👉 [FedEx employee wants to make sure the package is delivered](http://9gag.com/gag/a7o1G6L)<!-- MEMES:END -->
 
 ---
 

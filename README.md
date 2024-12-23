@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Savages barely even human](http://9gag.com/gag/adBgorM)
- - 😝 [#NeverForget](http://9gag.com/gag/aVvxded)
- - 💣 [What the hell dude?](http://9gag.com/gag/ayN9zMM)
- - 😝 [OddlySpecific](http://9gag.com/gag/avyAmLW)
- - 👉 [Not all men](http://9gag.com/gag/a5Q1DAq)<!-- MEMES:END -->
+ - 😝 [Man i missed it](http://9gag.com/gag/awyz8O8)
+ - 😝 [\ud83d\udea8Breaking: German men demand immediate deportations as word gets out and numbers increase](http://9gag.com/gag/a7o1ABb)
+ - 💣 [Left or goth?](http://9gag.com/gag/aZZrdrW)
+ - 😝 [Who said something about foam](http://9gag.com/gag/aBynNn2)
+ - 👉 [Story that I&#39;ll tell to my Grankids](http://9gag.com/gag/aPAZdyq)<!-- MEMES:END -->
 
 ---
 

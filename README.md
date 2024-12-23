@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The Best TV Shows You Missed in 2024](https://www.wired.com/story/the-best-tv-shows-you-missed-in-2024/)
  - [This Clear AI Class-Action Settlement Is Open Til Dec. 27: Are You Eligible?](https://www.cnet.com/personal-finance/this-clear-ai-class-action-settlement-is-open-til-dec-27-are-you-eligible/#ftag=CAD590a51e)
  - [Did You Make $5,000 or More via PayPal, Venmo or Cash App? The IRS Will Know About It](https://www.cnet.com/personal-finance/taxes/did-you-make-5000-or-more-via-paypal-venmo-or-cash-app-the-irs-will-know-about-it/#ftag=CAD590a51e)
  - [M5 Pro may separate out GPU and CPU for new server-grade performance](https://appleinsider.com/articles/24/12/23/m5-pro-may-separate-out-gpu-and-cpu-for-new-server-grade-performance?utm_medium=rss)
- - [iPhone 18 Pro expected to have a variable aperture camera system](https://appleinsider.com/articles/24/12/23/iphone-18-pro-expected-to-have-a-variable-aperture-camera-system?utm_medium=rss)
- - [Kuo: Apple&#39;s M5 chip to use TSMC&#39;s advanced N3P node; M5 Pro, Max, and Ultra will use a new server-grade SoIC packaging featuring separate CPU and GPU designs &lpar;Ben Lovejoy/9to5Mac&rpar;](http://www.techmeme.com/241223/p13#a241223p13)<!-- TECH:END -->
+ - [iPhone 18 Pro expected to have a variable aperture camera system](https://appleinsider.com/articles/24/12/23/iphone-18-pro-expected-to-have-a-variable-aperture-camera-system?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Taxi driver trying to keep his composure while lady having a baby at the backseat of his car](http://9gag.com/gag/aD2DMgd)
- - 😝 [Tinkerbell](http://9gag.com/gag/aE08E0x)
- - 💣 [Repeat shoplifters in California learn the hard way that new law Prop. 36 is now in effect.](http://9gag.com/gag/aRBrNvG)
- - 😝 [Poor donkey](http://9gag.com/gag/a871KPd)
- - 👉 [Cate Blanchett and her husband](http://9gag.com/gag/aW4gRYx)<!-- MEMES:END -->
+ - 😝 [FedEx employee wants to make sure the package is delivered](http://9gag.com/gag/a7o1G6L)
+ - 😝 [Cate Blanchett and her husband](http://9gag.com/gag/aW4gRYx)
+ - 💣 [It was nice while it lasted... chrome has started phasing out manifest v2 extensions](http://9gag.com/gag/aE08NRo)
+ - 😝 [Luigi Mangione has pleaded not guilty in the killing of UnitedHealthcare CEO Brian Thompson.](http://9gag.com/gag/a0eZW7O)
+ - 👉 [Repeat shoplifters in California learn the hard way that new law Prop. 36 is now in effect.](http://9gag.com/gag/aRBrNvG)<!-- MEMES:END -->
 
 ---
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Tech companies want to capture carbon at paper mills and sewage plants](https://www.theverge.com/2024/12/23/24328158/paper-sewage-carbon-removal-google-salesforce-frontier-crew-co280)
  - [Asus teases a new RGB-outlined Rog Strix laptop coming next year](https://www.theverge.com/2024/12/23/24328211/asus-rog-strix-laptop-teaser-ces-2025)
  - [9 Last-Minute Deals on WIRED-Approved Gifts That Will Arrive In Time](https://www.wired.com/story/last-minute-gift-deals-december-2024/)
  - [Sources: Microsoft is working on adding more internally developed and 3rd-party AI models to power 365 Copilot, to reduce reliance on OpenAI amid cost concerns &lpar;Reuters&rpar;](http://www.techmeme.com/241223/p16#a241223p16)
- - [The Verge’s 2024 holiday gift guide](https://www.theverge.com/24224043/holiday-gift-guide-2024-best-ideas-unique-tech-gadgets)
- - [The Animation Guild ratifies a contract with big studios, without AI demands such as letting members opt out of using AI or having AI train on their work &lpar;Gene Maddaus/Variety&rpar;](http://www.techmeme.com/241223/p15#a241223p15)<!-- TECH:END -->
+ - [The Verge’s 2024 holiday gift guide](https://www.theverge.com/24224043/holiday-gift-guide-2024-best-ideas-unique-tech-gadgets)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

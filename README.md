@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Cate Blanchett and her husband](http://9gag.com/gag/aW4gRYx)
- - 😝 [Avada Kedavra](http://9gag.com/gag/abAgdq8)
- - 💣 [Poor donkey](http://9gag.com/gag/a871KPd)
+ - 😝 [FedEx employee wants to make sure the package is delivered](http://9gag.com/gag/a7o1G6L)
+ - 😝 [Awarding money to the defendant](http://9gag.com/gag/aryn8m6)
+ - 💣 [Lol](http://9gag.com/gag/ae9g7XQ)
  - 😝 [Not all men](http://9gag.com/gag/a5Q1DAq)
- - 👉 [Lol](http://9gag.com/gag/ae9g7XQ)<!-- MEMES:END -->
+ - 👉 [Iguazu Falls Brazil after heavy rain](http://9gag.com/gag/agmgd5n)<!-- MEMES:END -->
 
 ---
 

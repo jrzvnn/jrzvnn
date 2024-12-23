@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Trump announces new tech policy picks for his second term](https://www.theverge.com/2024/12/23/24327968/trump-administration-tech-policy-picks-michael-kratsios-lynne-parker-bo-hines-sriram-krishnan)
  - [Nosferatu is the stuff of exquisitely erotic nightmares](https://www.theverge.com/24322968/nosferatu-review-robert-eggers)
  - [This Smart Bathroom Exhaust Fan Is Great for Parties](https://www.wired.com/story/commercial-electric-smart-bathroom-exhaust-fan-rave/)
- - [Dutch tech investor Prosus plans to acquire online travel agency Despegar.com for $1.7B, or $19.50 per share, to expand in Latin American, closing in Q2 2025 &lpar;Loni Prinsloo/Bloomberg&rpar;](http://www.techmeme.com/241223/p11#a241223p11)
- - [The AI smartphones that never materialized in 2024](https://www.theverge.com/24315181/ai-smartphones-2024-apple-intelligence-gemini-samsung)
- - [Did You Make $5,000 or More via PayPal, Venmo or Cash App? Expect a 1099-K Tax Form](https://www.cnet.com/personal-finance/taxes/did-you-make-5000-or-more-via-paypal-venmo-or-cash-app-expect-a-1099-k-tax-form/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Dutch tech investor Prosus plans to acquire online travel agency Despegar.com for $1.7B, or $19.50 per share, to expand in Latin America, closing in Q2 2025 &lpar;Loni Prinsloo/Bloomberg&rpar;](http://www.techmeme.com/241223/p11#a241223p11)
+ - [The AI smartphones that never materialized in 2024](https://www.theverge.com/24315181/ai-smartphones-2024-apple-intelligence-gemini-samsung)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

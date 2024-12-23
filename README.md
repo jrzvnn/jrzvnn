@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [M5 Pro may separate out GPU and CPU for new server-grade performance](https://appleinsider.com/articles/24/12/23/m5-pro-may-separate-out-gpu-and-cpu-for-new-server-grade-performance?utm_medium=rss)
- - [Amazon Kindle Paperwhite Signature Edition review: best e-reader screen, fast page turns, and color options, but mostly small upgrades and lacks stylus support &lpar;Andrew Liszewski/The Verge&rpar;](http://www.techmeme.com/241223/p12#a241223p12)
- - [Apple&#39;s smart home plan, 18.3 changes, &amp; xBloom smart coffee maker review on HomeKit Insider](https://appleinsider.com/articles/24/12/23/apples-smart-home-plan-183-changes-xbloom-smart-coffee-maker-review-on-homekit-insider?utm_medium=rss)
- - [Kash Patel Is the Hero QAnon Has Been Waiting For](https://www.wired.com/story/kash-patel-is-the-hero-qanon-has-been-waiting-for/)
- - [Amazon Kindle Paperwhite &lpar;2024&rpar; review: slightly larger, slightly faster, slightly better](https://www.theverge.com/24326185/amazon-kindle-paperwhite-signature-edition-2024-e-reader-review)<!-- TECH:END -->
+ - [iPhone 18 Pro expected to have a variable aperture camera system](https://appleinsider.com/articles/24/12/23/iphone-18-pro-expected-to-have-a-variable-aperture-camera-system?utm_medium=rss)
+ - [Kuo: Apple&#39;s M5 chip to use TSMC&#39;s advanced N3P node; M5 Pro, Max, and Ultra will use a new server-grade SoIC packaging featuring separate CPU and GPU designs &lpar;Ben Lovejoy/9to5Mac&rpar;](http://www.techmeme.com/241223/p13#a241223p13)
+ - [This Was the Year Elon Musk Took Over Politics](https://www.wired.com/story/the-year-elon-musk-took-over-politics/)
+ - [The 10 Best Movies You Missed in 2024](https://www.wired.com/story/the-best-movies-you-missed-in-2024/)
+ - [How Netflix took on live TV — and got ready to take on the NFL](https://www.theverge.com/24326196/netflix-live-nfl-paul-tyson-wwe-world-cup)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

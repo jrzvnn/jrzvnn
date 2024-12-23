@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [M5 Pro may separate out GPU and CPU for new server-grade performance](https://appleinsider.com/articles/24/12/23/m5-pro-may-separate-out-gpu-and-cpu-for-new-server-grade-performance?utm_medium=rss)
+ - [Amazon Kindle Paperwhite Signature Edition review: best e-reader screen, fast page turns, and color options, but mostly small upgrades and lacks stylus support &lpar;Andrew Liszewski/The Verge&rpar;](http://www.techmeme.com/241223/p12#a241223p12)
  - [Apple&#39;s smart home plan, 18.3 changes, &amp; xBloom smart coffee maker review on HomeKit Insider](https://appleinsider.com/articles/24/12/23/apples-smart-home-plan-183-changes-xbloom-smart-coffee-maker-review-on-homekit-insider?utm_medium=rss)
  - [Kash Patel Is the Hero QAnon Has Been Waiting For](https://www.wired.com/story/kash-patel-is-the-hero-qanon-has-been-waiting-for/)
- - [Amazon Kindle Paperwhite &lpar;2024&rpar; review: slightly larger, slightly faster, slightly better](https://www.theverge.com/24326185/amazon-kindle-paperwhite-signature-edition-2024-e-reader-review)
- - [App Store age ratings process isn&#39;t enough, say child safety organizations](https://appleinsider.com/articles/24/12/23/app-store-age-ratings-process-isnt-enough-say-child-safety-organizations?utm_medium=rss)
- - [9 Best Indoor Security Cameras &lpar;2024&rpar;: For Homes and Apartments](https://www.wired.com/gallery/best-security-cameras/)<!-- TECH:END -->
+ - [Amazon Kindle Paperwhite &lpar;2024&rpar; review: slightly larger, slightly faster, slightly better](https://www.theverge.com/24326185/amazon-kindle-paperwhite-signature-edition-2024-e-reader-review)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

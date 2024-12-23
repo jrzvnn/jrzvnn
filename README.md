@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [I have the same conversation with my dog everytime he needs a bath](http://9gag.com/gag/aE08O0O)
- - 😝 [Saving the best for last](http://9gag.com/gag/apRgAzp)
- - 💣 [A tourist visiting North Korea secretly filmed a female traffic officer\u2019s movements and published the footage.](http://9gag.com/gag/arynBO5)
- - 😝 [Taxi driver trying to keep his composure while lady having a baby at the backseat of his car](http://9gag.com/gag/aD2DMgd)
- - 👉 [When a society are so divided](http://9gag.com/gag/awyz4eR)<!-- MEMES:END -->
+ - 😝 [Knowledge Increased](http://9gag.com/gag/aLnvrrW)
+ - 😝 [Icing Christmas Cookies](http://9gag.com/gag/a341Nyr)
+ - 💣 [The gaslighting is off the charts these days.](http://9gag.com/gag/a5Q1DpG)
+ - 😝 [I see this as a new hobby.. too bad i live in eastern Europe where playing this is quite impossible](http://9gag.com/gag/adBgo7N)
+ - 👉 [Villains in movies](http://9gag.com/gag/aryn8EK)<!-- MEMES:END -->
 
 ---
 

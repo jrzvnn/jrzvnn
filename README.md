@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Marriott and Starwood hotels will have to get better at data security](https://www.theverge.com/2024/12/23/24328437/ftc-marriott-international-starwood-hotels-order-data-security-cyberattacks-hacks-ransomware)
+ - [Xerox agrees to acquire Lexmark from Ninestar, PAG Asia Capital, and Shanghai Shouda in a deal valued at $1.5B, including debt, and expected to close in H2 2025 &lpar;Lauren Thomas/Wall Street Journal&rpar;](http://www.techmeme.com/241223/p18#a241223p18)
  - [The best Garmin watches for training and everyday life](https://www.theverge.com/23691498/best-garmin-smartwatch-fitness-tracker-wearables)
  - [Apple&#39;s updated M4 MacBook Air could arrive sooner than expected](https://appleinsider.com/articles/24/12/23/apples-updated-m4-macbook-air-could-arrive-sooner-than-expected?utm_medium=rss)
- - [Score a 15-inch MacBook Air for $1,099 in year-end price war](https://appleinsider.com/articles/24/12/23/score-a-15-inch-macbook-air-for-1099-in-year-end-price-war?utm_medium=rss)
- - [Keanu Reeves&#39; Johnny Silverhands Is Coming to Fornite](https://www.cnet.com/tech/gaming/keanu-reeves-johnny-silverhands-is-coming-to-fornite/#ftag=CAD590a51e)
- - [Honey’s deal-hunting browser extension is accused of ripping off customers and YouTubers](https://www.theverge.com/2024/12/23/24328268/honey-coupon-code-browser-extension-scam-influencers-affiliate-marketing)<!-- TECH:END -->
+ - [Score a 15-inch MacBook Air for $1,099 in year-end price war](https://appleinsider.com/articles/24/12/23/score-a-15-inch-macbook-air-for-1099-in-year-end-price-war?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

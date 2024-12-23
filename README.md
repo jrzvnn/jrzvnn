@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [9 Last-Minute Deals on WIRED-Approved Gifts That Will Arrive In Time](https://www.wired.com/story/last-minute-gift-deals-december-2024/)
  - [Sources: Microsoft is working on adding more internally developed and 3rd-party AI models to power 365 Copilot, to reduce reliance on OpenAI amid cost concerns &lpar;Reuters&rpar;](http://www.techmeme.com/241223/p16#a241223p16)
  - [The Verge’s 2024 holiday gift guide](https://www.theverge.com/24224043/holiday-gift-guide-2024-best-ideas-unique-tech-gadgets)
  - [The Animation Guild ratifies a contract with big studios, without AI demands such as letting members opt out of using AI or having AI train on their work &lpar;Gene Maddaus/Variety&rpar;](http://www.techmeme.com/241223/p15#a241223p15)
- - [Apple Is Developing a Doorbell That Unlocks With Your Face, Report Says](https://www.cnet.com/tech/mobile/apple-is-developing-a-doorbell-that-unlocks-with-your-face-report-says/#ftag=CAD590a51e)
- - [App Store age ratings process isn&#39;t enough, say child safety organizations](https://appleinsider.com/articles/24/12/23/app-store-age-ratings-process-isnt-enough-say-child-safety-organizations?utm_medium=rss)<!-- TECH:END -->
+ - [Apple Is Developing a Doorbell That Unlocks With Your Face, Report Says](https://www.cnet.com/tech/mobile/apple-is-developing-a-doorbell-that-unlocks-with-your-face-report-says/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [The gaslighting is off the charts these days.](http://9gag.com/gag/a5Q1DpG)
- - 😝 [Villains in movies](http://9gag.com/gag/aryn8EK)
- - 💣 [My first thought was also \u201ctech neck\u201d and nothing else.](http://9gag.com/gag/awyzvXW)
- - 😝 [I see this as a new hobby.. too bad i live in eastern Europe where playing this is quite impossible](http://9gag.com/gag/adBgo7N)
- - 👉 [Mark Zuckerberg, the proud new owner of a $300 million, 387-foot megayacht, powered by four colossal diesel engines, lectures us about the importance of `stopping climate change before we destroy the planet.`](http://9gag.com/gag/abAgE5v)<!-- MEMES:END -->
+ - 😝 [Savages barely even human](http://9gag.com/gag/adBgorM)
+ - 😝 [A tourist visiting North Korea secretly filmed a female traffic officer\u2019s movements and published the footage.](http://9gag.com/gag/arynBO5)
+ - 💣 [Cate Blanchett and her husband](http://9gag.com/gag/aW4gRYx)
+ - 😝 [*inserts Benny Hill song*](http://9gag.com/gag/a341n5e)
+ - 👉 [Male bee dies after ejaculation while mating with a queen bee](http://9gag.com/gag/aLnvmq6)<!-- MEMES:END -->
 
 ---
 

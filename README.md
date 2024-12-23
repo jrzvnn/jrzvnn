@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Iguazu Falls Brazil after heavy rain](http://9gag.com/gag/agmgd5n)
  - 😝 [I get it now :&lpar;](http://9gag.com/gag/aAyG2no)
- - 💣 [Bro has all the energy! Lol](http://9gag.com/gag/aMV4XZX)
- - 😝 [Whoever did that is da real MVP](http://9gag.com/gag/a1m1wO6)
- - 👉 [Lord give me strength](http://9gag.com/gag/a4P1qMQ)<!-- MEMES:END -->
+ - 😝 [Jerk treatment](http://9gag.com/gag/aryn275)
+ - 💣 [Tinkerbell](http://9gag.com/gag/aE08E0x)
+ - 😝 [Iguazu Falls Brazil after heavy rain](http://9gag.com/gag/agmgd5n)
+ - 👉 [A tourist visiting North Korea secretly filmed a female traffic officer\u2019s movements and published the footage.](http://9gag.com/gag/arynBO5)<!-- MEMES:END -->
 
 ---
 

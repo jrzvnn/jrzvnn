@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Google and OpenAI&#39;s AI product announcements over the past month have transformed the state of AI and show the breadth and pace of change &lpar;Ethan Mollick/One Useful Thing&rpar;](http://www.techmeme.com/241223/p2#a241223p2)
  - [A look at new tech-based mental health treatments like the Tetris method and Avatar therapy that are offering promising early results and possibilities &lpar;Michael Peel/Financial Times&rpar;](http://www.techmeme.com/241223/p1#a241223p1)
  - [Best Internet Providers in Murfreesboro, Tennessee](https://www.cnet.com/home/internet/best-internet-providers-in-murfreesboro-tn/#ftag=CAD590a51e)
  - [Today&#39;s NYT Mini Crossword Answers for Monday, Dec. 23](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-monday-dec-23/#ftag=CAD590a51e)
- - [Today&#39;s NYT Connections Hints, Answers and Help for Dec. 23, #561](https://www.cnet.com/tech/gaming/todays-nyt-connections-hints-answers-and-help-for-dec-23-561/#ftag=CAD590a51e)
- - [Today&#39;s NYT Strands Hints, Answers and Help for Dec. 23, #295](https://www.cnet.com/tech/gaming/todays-nyt-strands-hints-answers-and-help-for-dec-23-295/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Today&#39;s NYT Connections Hints, Answers and Help for Dec. 23, #561](https://www.cnet.com/tech/gaming/todays-nyt-connections-hints-answers-and-help-for-dec-23-561/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Lol](http://9gag.com/gag/ae9g7XQ)
- - 😝 [A tourist visiting North Korea secretly filmed a female traffic officer\u2019s movements and published the footage.](http://9gag.com/gag/arynBO5)
- - 💣 [Saving the best for last](http://9gag.com/gag/apRgAzp)
- - 😝 [NYC Bodega Owner has had enough of a customer and shows them the door](http://9gag.com/gag/a871Vde)
- - 👉 [My first thought was also \u201ctech neck\u201d and nothing else.](http://9gag.com/gag/awyzvXW)<!-- MEMES:END -->
+ - 😝 [The gaslighting is off the charts these days.](http://9gag.com/gag/a5Q1DpG)
+ - 😝 [My first thought was also \u201ctech neck\u201d and nothing else.](http://9gag.com/gag/awyzvXW)
+ - 💣 [Villains in movies](http://9gag.com/gag/aryn8EK)
+ - 😝 [I see this as a new hobby.. too bad i live in eastern Europe where playing this is quite impossible](http://9gag.com/gag/adBgo7N)
+ - 👉 [Knowledge Increased](http://9gag.com/gag/aLnvrrW)<!-- MEMES:END -->
 
 ---
 

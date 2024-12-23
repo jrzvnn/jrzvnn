@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Here are 40 last-minute gifts you can still nab before Christmas](https://www.theverge.com/23642026/best-digital-gift-ideas-online-cards-subscriptions)
- - [Apple planning iOS 18.2.1 update with general bug fixes](https://appleinsider.com/articles/24/12/23/apple-planning-ios-1821-update-with-general-bug-fixes?utm_medium=rss)
- - [Experts: Bitcoin has time to adopt newer encryption that&#39;s resistant to attacks via potentially upcoming quantum systems, but such an overhaul could take years &lpar;Alexander Osipovich/Wall Street Journal&rpar;](http://www.techmeme.com/241223/p17#a241223p17)
- - [HomeKit Smart doorbell with Face ID expected by 2026](https://appleinsider.com/articles/24/12/22/homekit-smart-doorbell-with-face-id-expected-by-2026?utm_medium=rss)
- - [Google to court: we’ll change our Apple deal, but please let us keep Chrome](https://www.theverge.com/2024/12/23/24328087/google-proposed-final-judgement-search-monopoly-antitrust-default-contracts)<!-- TECH:END -->
+ - [Apple&#39;s updated M4 MacBook Air could arrive sooner than expected](https://appleinsider.com/articles/24/12/23/apples-updated-m4-macbook-air-could-arrive-sooner-than-expected?utm_medium=rss)
+ - [Score a 15-inch MacBook Air for $1,099 in year-end price war](https://appleinsider.com/articles/24/12/23/score-a-15-inch-macbook-air-for-1099-in-year-end-price-war?utm_medium=rss)
+ - [Honey’s deal-hunting browser extension is accused of ripping off customers and YouTubers](https://www.theverge.com/2024/12/23/24328268/honey-coupon-code-browser-extension-scam-influencers-affiliate-marketing)
+ - [Halide Mark III is coming with color grades, HDR, and early access for subscribers](https://www.theverge.com/2024/12/23/24328371/halide-mark-iii-3-ios-camera-early-access-launch-discord-feedback)
+ - [Hyundai will give its EV customers free NACS adapters in early 2025](https://www.theverge.com/2024/12/23/24328347/hyundai-free-nacs-tesla-supercharger-adapter-2025-ioniq-5)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Source: in a first, Telegram is set to be profitable in 2024, with $1B+ in revenue, up from ~$350M in 2023, and $500M cash, as it grapples with billions in debt &lpar;New York Times&rpar;](http://www.techmeme.com/241223/p8#a241223p8)
- - [SEC filings: senior Spotify executives have sold $1.25B in stock in 2024, including CEO Daniel Ek selling ~$350M and co-founder Martin Lorentzon selling $550M+ &lpar;Financial Times&rpar;](http://www.techmeme.com/241223/p7#a241223p7)
- - [The World’s First Crispr Drug Gets a Slow Start](https://www.wired.com/story/the-worlds-first-crispr-drug-gets-a-slow-start-sickle-cell-beta-thalassemia-vertex/)
- - [X raises US Premium+ prices by 37.5% to $22 per month, starting on December 21, and EU prices from &amp;euro;16 to &amp;euro;21 per month; the basic subscription still costs $3 &lpar;Manish Singh/TechCrunch&rpar;](http://www.techmeme.com/241223/p6#a241223p6)
- - [The Biden administration opens a trade investigation into China&#39;s production of older chips, a move that may lead to tariffs and other measures to block imports &lpar;New York Times&rpar;](http://www.techmeme.com/241223/p5#a241223p5)<!-- TECH:END -->
+ - [Sources: Meta plans to add displays to its Ray-Ban glasses as soon as H2 2025 to show notifications or AI responses, and has accelerated Orion&#39;s development &lpar;Financial Times&rpar;](http://www.techmeme.com/241223/p9#a241223p9)
+ - [Honda and Nissan plan to merge as we enter the age of electric cars](https://www.theverge.com/2024/12/23/24327946/honda-nissan-mitsubishi-merger-deal-plans-2026)
+ - [Electric Vehicle Charging Is Going to Get Political](https://www.wired.com/story/electric-vehicle-charging-is-going-to-get-political/)
+ - [In a first, Telegram is set to be profitable in 2024, with $1B+ in revenue, up from ~$350M in 2023, and ending 2024 with $500M in cash, as it grapples with debt &lpar;New York Times&rpar;](http://www.techmeme.com/241223/p8#a241223p8)
+ - [SEC filings: senior Spotify executives have sold $1.25B in stock in 2024, including CEO Daniel Ek selling ~$350M and co-founder Martin Lorentzon selling $550M+ &lpar;Financial Times&rpar;](http://www.techmeme.com/241223/p7#a241223p7)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

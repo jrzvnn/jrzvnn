@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Google says it plans to counter Japan&#39;s FTC over claims that it hobbles rivals in search; a source says Japan&#39;s FTC sent a cease-and-desist order to Google &lpar;Bloomberg&rpar;](http://www.techmeme.com/241223/p4#a241223p4)
  - [Apple&#39;s M4 Pro 14-inch MacBook Pro has returned to its best $1,749 Black Friday price](https://appleinsider.com/articles/24/12/17/apples-m4-pro-14-inch-macbook-pro-has-returned-to-its-best-1749-black-friday-price?utm_medium=rss)
  - [X raises Premium Plus subscription pricing by almost 40 percent](https://www.theverge.com/2024/12/23/24327918/x-premium-plus-subscription-price-increases)
  - [AI platforms are unlikely to become a major source of traffic or ad revenue for media outlets, with content deals offering only a short-term revenue boost &lpar;Om Malik/On my Om&rpar;](http://www.techmeme.com/241223/p3#a241223p3)
- - [The Invisible Russia-Ukraine Battlefield](https://www.wired.com/story/electronic-warfare-russia-ukraine/)
- - [Best Internet Providers in Montana](https://www.cnet.com/home/internet/best-internet-providers-in-montana/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [The Invisible Russia-Ukraine Battlefield](https://www.wired.com/story/electronic-warfare-russia-ukraine/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

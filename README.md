@@ -159,9 +159,9 @@ R                        1 repo              ░░░░░░░░░░░�
 <!-- TECH:START -->
  - [Apple&#39;s bad blood with Nvidia continues, after decades of fighting](https://appleinsider.com/articles/24/12/24/apples-bad-blood-with-nvidia-continues-after-decades-of-fighting?utm_medium=rss)
  - [There’s a reason Metaphor: ReFantanzio’s battle music sounds as cool as it does](https://www.theverge.com/2024/12/24/24328374/metaphor-refantanzio-battle-music-shoji-meguro-interview)
+ - [Best iPhone 13, iPhone 13 Pro and iPhone 13 Pro Max Cases of 2024](https://www.cnet.com/tech/mobile/best-iphone-13-cases/#ftag=CAD590a51e)
  - [Kobo’s Elipsa 2E, an excellent e-reader for taking notes, is down to its best price](https://www.theverge.com/2024/12/24/24328079/kobo-elipsa-2e-sony-wh-ch720-deal-sale)
- - [How NASA Might Change Under Donald Trump](https://www.wired.com/story/how-nasa-might-change-under-donald-trump/)
- - [Apple&#39;s microLED plans will get a giant boost from Foxconn&#39;s AR glasses move](https://appleinsider.com/articles/24/12/24/apples-microled-plans-will-get-a-giant-boost-from-foxconns-ar-glasses-move?utm_medium=rss)<!-- TECH:END -->
+ - [How NASA Might Change Under Donald Trump](https://www.wired.com/story/how-nasa-might-change-under-donald-trump/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

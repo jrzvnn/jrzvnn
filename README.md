@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Who said something about foam](http://9gag.com/gag/aBynNn2)
- - 😝 [Yo homie](http://9gag.com/gag/amogdXv)
- - 💣 [Man i missed it](http://9gag.com/gag/awyz8O8)
- - 😝 [\ud83d\udea8Breaking: German men demand immediate deportations as word gets out and numbers increase](http://9gag.com/gag/a7o1ABb)
- - 👉 [Left or goth?](http://9gag.com/gag/aZZrdrW)<!-- MEMES:END -->
+ - 😝 [Tiger woods reaction to his sons first hole-in-one](http://9gag.com/gag/aNDP3M4)
+ - 😝 [Not all men](http://9gag.com/gag/a5Q1DAq)
+ - 💣 [Black Spooderman might get canceled cuz the black actor is a creep.](http://9gag.com/gag/a5Q1xxo)
+ - 😝 [YouTuber nowadays](http://9gag.com/gag/aE08ZWO)
+ - 👉 [Always pays off](http://9gag.com/gag/aGyzo50)<!-- MEMES:END -->
 
 ---
 

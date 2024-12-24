@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Three Japanese car manufacturers are getting together.](http://9gag.com/gag/agmgZRr)
- - 😝 [Avada Kedavra](http://9gag.com/gag/abAgdq8)
- - 💣 [#NeverForget](http://9gag.com/gag/aVvxded)
+ - 😝 [OddlySpecific](http://9gag.com/gag/avyAmLW)
+ - 😝 [277](http://9gag.com/gag/aAyGqKg)
+ - 💣 [It was nice while it lasted... chrome has started phasing out manifest v2 extensions](http://9gag.com/gag/aE08NRo)
  - 😝 [We all have a party legend in your squad! \ud83c\udf84\ud83c\udfb6 Turn up the new WoT Blitz x deadmau5 track Familiars while you hit different on the battlefield this Xmas!](http://9gag.com/gag/aE08ymo)
- - 👉 [277](http://9gag.com/gag/aAyGqKg)<!-- MEMES:END -->
+ - 👉 [Always pays off](http://9gag.com/gag/aGyzo50)<!-- MEMES:END -->
 
 ---
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Ancestry vs. 23andMe: Which Is the Best DNA Testing Kit for You?](https://www.cnet.com/health/medical/ancestry-vs-23-and-me-dna-testing-kit-which-is-best/#ftag=CAD590a51e)
  - [Analysis: SAP accounts for ~40% of Frankfurt DAX&#39;s 18.7% gains in 2024, with SAP up 70%+ as the software company transitions its business customers to the cloud &lpar;Financial Times&rpar;](http://www.techmeme.com/241224/p9#a241224p9)
+ - [Best Internet Providers in Oklahoma](https://www.cnet.com/home/internet/best-internet-providers-in-oklahoma/#ftag=CAD590a51e)
  - [People With Extreme Wealth Should Give It Away—or Be Penalized](https://www.wired.com/story/people-with-extreme-wealth-should-give-it-away-or-be-penalized/)
- - [How AI hallucinations are transforming scientific discovery, with some scientists calling the term &quot;hallucination&quot; misleading and likening it to exploration &lpar;William J. Broad/New York Times&rpar;](http://www.techmeme.com/241224/p8#a241224p8)
- - [OpenAI&#39;s o3 performance on benchmarks suggests that test-time compute is the next best way to scale AI models, raising new questions about costs and usage &lpar;Maxwell Zeff/TechCrunch&rpar;](http://www.techmeme.com/241224/p7#a241224p7)
- - [An investigator says he reported 26 OnlyFans accounts suspected of containing CSAM to NCMEC and that all of the accounts were removed within a day of his report &lpar;Reuters&rpar;](http://www.techmeme.com/241224/p6#a241224p6)<!-- TECH:END -->
+ - [How AI hallucinations are transforming scientific discovery, with some scientists calling the term &quot;hallucination&quot; misleading and likening it to exploration &lpar;William J. Broad/New York Times&rpar;](http://www.techmeme.com/241224/p8#a241224p8)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

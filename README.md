@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Penguins.... are not actually Penguins.](http://9gag.com/gag/an7gW3B)
- - 😝 [NYC Bodega Owner has had enough of a customer and shows them the door](http://9gag.com/gag/a871Vde)
- - 💣 [Poor donkey](http://9gag.com/gag/a871KPd)
- - 😝 [Nativity play](http://9gag.com/gag/azxeQ2B)
- - 👉 [Burn](http://9gag.com/gag/avyAXLZ)<!-- MEMES:END -->
+ - 😝 [Who said something about foam](http://9gag.com/gag/aBynNn2)
+ - 😝 [Yo homie](http://9gag.com/gag/amogdXv)
+ - 💣 [Man i missed it](http://9gag.com/gag/awyz8O8)
+ - 😝 [\ud83d\udea8Breaking: German men demand immediate deportations as word gets out and numbers increase](http://9gag.com/gag/a7o1ABb)
+ - 👉 [Left or goth?](http://9gag.com/gag/aZZrdrW)<!-- MEMES:END -->
 
 ---
 

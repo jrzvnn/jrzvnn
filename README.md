@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [It was nice while it lasted... chrome has started phasing out manifest v2 extensions](http://9gag.com/gag/aE08NRo)
- - 😝 [The female mind, ladies and gentlemen...](http://9gag.com/gag/axyBm9L)
- - 💣 [Merry Christmas you filthy animals.](http://9gag.com/gag/aBynNGZ)
- - 😝 [Avada Kedavra](http://9gag.com/gag/abAgdq8)
- - 👉 [What the hell dude?](http://9gag.com/gag/ayN9zMM)<!-- MEMES:END -->
+ - 😝 [Penguins.... are not actually Penguins.](http://9gag.com/gag/an7gW3B)
+ - 😝 [Merry Christmas you filthy animals.](http://9gag.com/gag/aBynNGZ)
+ - 💣 [It was nice while it lasted... chrome has started phasing out manifest v2 extensions](http://9gag.com/gag/aE08NRo)
+ - 😝 [Black Spooderman might get canceled cuz the black actor is a creep.](http://9gag.com/gag/a5Q1xxo)
+ - 👉 [Not all men](http://9gag.com/gag/a5Q1DAq)<!-- MEMES:END -->
 
 ---
 

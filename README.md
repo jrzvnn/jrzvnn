@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Tinkerbell](http://9gag.com/gag/aE08E0x)
- - 😝 [Iron? I barely fold. Everything is on hangers](http://9gag.com/gag/abAgLXv)
- - 💣 [Even the actors are ashamed of The Witcher](http://9gag.com/gag/an7gd8V)
+ - 😝 [Three Japanese car manufacturers are getting together.](http://9gag.com/gag/agmgZRr)
+ - 😝 [Avada Kedavra](http://9gag.com/gag/abAgdq8)
+ - 💣 [#NeverForget](http://9gag.com/gag/aVvxded)
  - 😝 [We all have a party legend in your squad! \ud83c\udf84\ud83c\udfb6 Turn up the new WoT Blitz x deadmau5 track Familiars while you hit different on the battlefield this Xmas!](http://9gag.com/gag/aE08ymo)
- - 👉 [Three Japanese car manufacturers are getting together.](http://9gag.com/gag/agmgZRr)<!-- MEMES:END -->
+ - 👉 [277](http://9gag.com/gag/aAyGqKg)<!-- MEMES:END -->
 
 ---
 

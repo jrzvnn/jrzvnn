@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Tinkerbell](http://9gag.com/gag/aE08E0x)
- - 😝 [Tiger woods reaction to his sons first hole-in-one](http://9gag.com/gag/aNDP3M4)
- - 💣 [What the hell dude?](http://9gag.com/gag/ayN9zMM)
- - 😝 [Merry Christmas you filthy animals.](http://9gag.com/gag/aBynNGZ)
- - 👉 [#NeverForget](http://9gag.com/gag/aVvxded)<!-- MEMES:END -->
+ - 😝 [Poor donkey](http://9gag.com/gag/a871KPd)
+ - 😝 [Luigi Mangione has pleaded not guilty in the killing of UnitedHealthcare CEO Brian Thompson.](http://9gag.com/gag/a0eZW7O)
+ - 💣 [Black Spooderman might get canceled cuz the black actor is a creep.](http://9gag.com/gag/a5Q1xxo)
+ - 😝 [Taxi driver trying to keep his composure while lady having a baby at the backseat of his car](http://9gag.com/gag/aD2DMgd)
+ - 👉 [NYC Bodega Owner has had enough of a customer and shows them the door](http://9gag.com/gag/a871Vde)<!-- MEMES:END -->
 
 ---
 

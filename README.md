@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Three Japanese car manufacturers are getting together.](http://9gag.com/gag/agmgZRr)
- - 😝 [Hmm](http://9gag.com/gag/arynDe0)
- - 💣 [I&#39;m changing my phone plan](http://9gag.com/gag/a2v1A0Z)
+ - 😝 [Merry Christmas you filthy animals.](http://9gag.com/gag/aBynNGZ)
+ - 😝 [Not all men](http://9gag.com/gag/a5Q1DAq)
+ - 💣 [#NeverForget](http://9gag.com/gag/aVvxded)
  - 😝 [We all have a party legend in your squad! \ud83c\udf84\ud83c\udfb6 Turn up the new WoT Blitz x deadmau5 track Familiars while you hit different on the battlefield this Xmas!](http://9gag.com/gag/aE08ymo)
- - 👉 [Woke](http://9gag.com/gag/aGyz6dw)<!-- MEMES:END -->
+ - 👉 [Three Japanese car manufacturers are getting together.](http://9gag.com/gag/agmgZRr)<!-- MEMES:END -->
 
 ---
 

@@ -161,7 +161,7 @@ R                        1 repo              ░░░░░░░░░░░�
  - [Hashed: $112M+ worth of USDC fled Hyperliquid, the top DeFi derivatives exchange by volume, on December 23, after concern over trading by North Korean hackers &lpar;Muyao Shen/Bloomberg&rpar;](http://www.techmeme.com/241224/p1#a241224p1)
  - [Filing: Chinese video surveillance provider Dahua to terminate or exit five government projects in Xinjiang; Hikvision made a similar announcement this month &lpar;Reuters&rpar;](http://www.techmeme.com/241223/p22#a241223p22)
  - [Donald Trump announces Scott Kupor, a managing partner at a16z, will serve as director of OPM, and Michael Kratsios will serve as the White House OSTP director &lpar;Annie Palmer/CNBC&rpar;](http://www.techmeme.com/241223/p21#a241223p21)
- - [Internet freedom advocates criticize Vietnam&#39;s Decree 147, which goes into effect on Dec. 25 and requires social media users to verify their identities and more &lpar;Agence France-Presse&rpar;](http://www.techmeme.com/241223/p20#a241223p20)<!-- TECH:END -->
+ - [Today&#39;s NYT Mini Crossword Answers for Tuesday, Dec. 24](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-tuesday-dec-24/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [What the hell dude?](http://9gag.com/gag/ayN9zMM)
- - 😝 [Nativity play](http://9gag.com/gag/azxeQ2B)
- - 💣 [Cate Blanchett and her husband](http://9gag.com/gag/aW4gRYx)
- - 😝 [Burn](http://9gag.com/gag/avyAXLZ)
- - 👉 [Is he sad or happy](http://9gag.com/gag/aXPrdWV)<!-- MEMES:END -->
+ - 😝 [You wanted MEMES? Well, too bad! Here are feels!](http://9gag.com/gag/a5Q1DVy)
+ - 😝 [Yo homie](http://9gag.com/gag/amogdXv)
+ - 💣 [Man i missed it](http://9gag.com/gag/awyz8O8)
+ - 😝 [\ud83d\udea8Breaking: German men demand immediate deportations as word gets out and numbers increase](http://9gag.com/gag/a7o1ABb)
+ - 👉 [Left or goth?](http://9gag.com/gag/aZZrdrW)<!-- MEMES:END -->
 
 ---
 

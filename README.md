@@ -167,10 +167,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [*sad gamer noises*](http://9gag.com/gag/adBgW9Z)
- - 😝 [Scientifically Accurate Philosoraptor](http://9gag.com/gag/aGyzrYX)
- - 💣 [Burn](http://9gag.com/gag/avyAXLZ)
+ - 😝 [Merry Christmas you filthy animals.](http://9gag.com/gag/aBynNGZ)
+ - 💣 [Woke](http://9gag.com/gag/aGyz6dw)
  - 😝 [We all have a party legend in your squad! \ud83c\udf84\ud83c\udfb6 Turn up the new WoT Blitz x deadmau5 track Familiars while you hit different on the battlefield this Xmas!](http://9gag.com/gag/aE08ymo)
- - 👉 [Mexican power](http://9gag.com/gag/agmg66v)<!-- MEMES:END -->
+ - 👉 [Not all men](http://9gag.com/gag/a5Q1DAq)<!-- MEMES:END -->
 
 ---
 

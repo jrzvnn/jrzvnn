@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [US and Japanese law enforcement say North Korean hackers were responsible for stealing 4,502.9 bitcoin, worth $308M, from Japanese exchange DMM in May 2024 &lpar;Sheldon Reback/CoinDesk&rpar;](http://www.techmeme.com/241224/p14#a241224p14)
  - [Home Is Where the Couch Is: Photos by Natcha Wongchanglaw](https://www.wired.com/story/home-is-where-the-couch-is-photos-by-natcha-wongchanglaw/)
  - [American Airlines resumes flights across the US following ‘technical issues’](https://www.theverge.com/2024/12/24/24328745/american-airlines-flights-grounded-christmas-eve-systems-issues)
  - [Arizona&#39;s Maricopa County is set to have the second largest concentration of US data centers by 2028, as the state races to increase electricity production &lpar;Pranshu Verma/Washington Post&rpar;](http://www.techmeme.com/241224/p13#a241224p13)
- - [What Should You Do When You Receive a Data Breach Notice?](https://www.cnet.com/personal-finance/what-should-you-do-when-you-receive-a-data-breach-notice/#ftag=CAD590a51e)
- - [This solid aluminum keyboard costs as much as a MacBook Pro](https://www.theverge.com/2024/12/24/24328735/serene-industries-icebreaker-aluminum-keyboard-price-availability)<!-- TECH:END -->
+ - [What Should You Do When You Receive a Data Breach Notice?](https://www.cnet.com/personal-finance/what-should-you-do-when-you-receive-a-data-breach-notice/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [OddlySpecific](http://9gag.com/gag/avyAmLW)
- - 😝 [277](http://9gag.com/gag/aAyGqKg)
- - 💣 [It was nice while it lasted... chrome has started phasing out manifest v2 extensions](http://9gag.com/gag/aE08NRo)
+ - 😝 [Who are these 5% and why won&#39;t they go to Africa or India?](http://9gag.com/gag/an7g8Zo)
+ - 😝 [Stephen King](http://9gag.com/gag/aYQrZ5q)
+ - 💣 [She wants 9gagger type friend...](http://9gag.com/gag/aMV4DzM)
  - 😝 [We all have a party legend in your squad! \ud83c\udf84\ud83c\udfb6 Turn up the new WoT Blitz x deadmau5 track Familiars while you hit different on the battlefield this Xmas!](http://9gag.com/gag/aE08ymo)
- - 👉 [Always pays off](http://9gag.com/gag/aGyzo50)<!-- MEMES:END -->
+ - 👉 [`Influencer` gets treated the way he deserves.](http://9gag.com/gag/a6Z1xEq)<!-- MEMES:END -->
 
 ---
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [Tiger woods reaction to his sons first hole-in-one](http://9gag.com/gag/aNDP3M4)
  - 😝 [It was nice while it lasted... chrome has started phasing out manifest v2 extensions](http://9gag.com/gag/aE08NRo)
- - 😝 [Avada Kedavra](http://9gag.com/gag/abAgdq8)
- - 💣 [OddlySpecific](http://9gag.com/gag/avyAmLW)
- - 😝 [Black Spooderman might get canceled cuz the black actor is a creep.](http://9gag.com/gag/a5Q1xxo)
- - 👉 [Whoever did that is da real MVP](http://9gag.com/gag/a1m1wO6)<!-- MEMES:END -->
+ - 💣 [Taxi driver trying to keep his composure while lady having a baby at the backseat of his car](http://9gag.com/gag/aD2DMgd)
+ - 😝 [Change my mind](http://9gag.com/gag/awyzPA8)
+ - 👉 [Repeat shoplifters in California learn the hard way that new law Prop. 36 is now in effect.](http://9gag.com/gag/aRBrNvG)<!-- MEMES:END -->
 
 ---
 

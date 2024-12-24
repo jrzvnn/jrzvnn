@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Filing: Chinese video surveillance provider Dahua to terminate or exit five government projects in Xinjiang; Hikvision made a similar announcement this month &lpar;Reuters&rpar;](http://www.techmeme.com/241223/p22#a241223p22)
  - [Donald Trump announces Scott Kupor, a managing partner at a16z, will serve as director of OPM, and Michael Kratsios will serve as the White House OSTP director &lpar;Annie Palmer/CNBC&rpar;](http://www.techmeme.com/241223/p21#a241223p21)
  - [Internet freedom advocates criticize Vietnam&#39;s Decree 147, which goes into effect on Dec. 25 and requires social media users to verify their identities and more &lpar;Agence France-Presse&rpar;](http://www.techmeme.com/241223/p20#a241223p20)
  - [How to test your network or server using ping in Terminal](https://appleinsider.com/inside/macos/tips/how-to-test-your-network-or-server-using-ping-in-terminal?utm_medium=rss)
- - [xAI announces it raised a $6B Series C from a16z, BlackRock, Fidelity, Kingdom Holdings, Sequoia, Nvidia, and others, at a reported valuation of at least $40B &lpar;Antonio Peque&amp;ntilde;o IV/Forbes&rpar;](http://www.techmeme.com/241223/p19#a241223p19)
- - [TP-Link Routers Could Be Banned Next Year. Are They Actually Dangerous?](https://www.cnet.com/home/internet/tp-link-routers-could-be-banned-next-year-are-they-actually-dangerous/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [xAI announces it raised a $6B Series C from a16z, BlackRock, Fidelity, Kingdom Holdings, Sequoia, Nvidia, and others, at a reported valuation of at least $40B &lpar;Antonio Peque&amp;ntilde;o IV/Forbes&rpar;](http://www.techmeme.com/241223/p19#a241223p19)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

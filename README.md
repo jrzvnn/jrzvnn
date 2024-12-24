@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Ending Google search partnership would hamstring Apple, says Eddy Cue](https://appleinsider.com/articles/24/12/24/ending-google-search-partnership-would-hamstring-apple-says-eddy-cue?utm_medium=rss)
+ - [Best Internet Providers in Portland, Oregon](https://www.cnet.com/home/internet/best-internet-providers-in-portland-or/#ftag=CAD590a51e)
  - [Elon Musk is one of two paid subscribers of an X account that has suggested South Africa was better off under apartheid, lambasted &quot;Black ruled&quot; countries, more &lpar;Isaac Schorr/Mediaite&rpar;](http://www.techmeme.com/241224/p20#a241224p20)
- - [Best Workout Apps for Women in 2024](https://www.cnet.com/health/fitness/best-workout-apps-for-women/#ftag=CAD590a51e)
- - [NASA&#39;s Parker Probe Flies Closer to the Sun Than Any Object Ever Has](https://www.cnet.com/science/nasas-parker-probe-flies-closer-to-the-sun-than-any-object-ever-has/#ftag=CAD590a51e)
- - [Two major China-based Amazon merchants say Amazon reps have recently been offering incentives like free ads and lower commissions if they stop selling on Temu &lpar;The Information&rpar;](http://www.techmeme.com/241224/p19#a241224p19)
- - [3 Age-Defying Exercises to Do for a Better You](https://www.cnet.com/health/fitness/3-age-defying-exercises-to-do-for-a-better-you/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Best Internet Providers in Oregon](https://www.cnet.com/home/internet/best-internet-providers-in-oregon/#ftag=CAD590a51e)
+ - [Best Internet Providers in Sedona, Arizona](https://www.cnet.com/home/internet/best-internet-providers-in-sedona-az/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

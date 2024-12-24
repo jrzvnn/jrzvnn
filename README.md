@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Tiger woods reaction to his sons first hole-in-one](http://9gag.com/gag/aNDP3M4)
- - 😝 [Not all men](http://9gag.com/gag/a5Q1DAq)
- - 💣 [OddlySpecific](http://9gag.com/gag/avyAmLW)
- - 😝 [Luigi Mangione has pleaded not guilty in the killing of UnitedHealthcare CEO Brian Thompson.](http://9gag.com/gag/a0eZW7O)
- - 👉 [Roast beef](http://9gag.com/gag/a6Z1xym)<!-- MEMES:END -->
+ - 😝 [Good old copper](http://9gag.com/gag/aO8QNL3)
+ - 😝 [Yo homie](http://9gag.com/gag/amogdXv)
+ - 💣 [Man i missed it](http://9gag.com/gag/awyz8O8)
+ - 😝 [\ud83d\udea8Breaking: German men demand immediate deportations as word gets out and numbers increase](http://9gag.com/gag/a7o1ABb)
+ - 👉 [Left or goth?](http://9gag.com/gag/aZZrdrW)<!-- MEMES:END -->
 
 ---
 

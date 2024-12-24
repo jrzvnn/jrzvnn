@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The dream of an all-glass iPhone will have to wait a bit longer](https://appleinsider.com/articles/24/12/24/the-dream-of-an-all-glass-iphone-will-have-to-wait-a-bit-longer?utm_medium=rss)
+ - [The Barbie Phone is plastic, fantastic, and impractical](https://www.theverge.com/24325045/barbie-phone-hmd-mattel-kai-os)
  - [West Bank residents, who have long complained of missing and outdated data on Google Maps, say the Israel-Hamas war has made the app even worse for navigation &lpar;Paresh Dave/Wired&rpar;](http://www.techmeme.com/241224/p15#a241224p15)
  - [Woosh Smart Air Filter Review: No More Guessing](https://www.wired.com/review/woosh-smart-air-filter/)
- - [2024: a good year for earbuds](https://www.theverge.com/24307485/best-earbuds-2024-apple-sony-jabra-nothing)
- - [US and Japanese law enforcement say North Korean hackers were responsible for stealing 4,502.9 bitcoin, worth $308M, from Japanese exchange DMM in May 2024 &lpar;Sheldon Reback/CoinDesk&rpar;](http://www.techmeme.com/241224/p14#a241224p14)
- - [The iPhone in 2025: What to Expect Beyond the iPhone 17](https://www.cnet.com/tech/mobile/the-iphone-in-2025-what-to-expect-beyond-the-iphone-17/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [2024: a good year for earbuds](https://www.theverge.com/24307485/best-earbuds-2024-apple-sony-jabra-nothing)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

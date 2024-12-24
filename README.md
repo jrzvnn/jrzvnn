@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Penguins.... are not actually Penguins.](http://9gag.com/gag/an7gW3B)
- - 😝 [Merry Christmas you filthy animals.](http://9gag.com/gag/aBynNGZ)
- - 💣 [It was nice while it lasted... chrome has started phasing out manifest v2 extensions](http://9gag.com/gag/aE08NRo)
+ - 😝 [It was nice while it lasted... chrome has started phasing out manifest v2 extensions](http://9gag.com/gag/aE08NRo)
+ - 😝 [Avada Kedavra](http://9gag.com/gag/abAgdq8)
+ - 💣 [OddlySpecific](http://9gag.com/gag/avyAmLW)
  - 😝 [Black Spooderman might get canceled cuz the black actor is a creep.](http://9gag.com/gag/a5Q1xxo)
- - 👉 [Not all men](http://9gag.com/gag/a5Q1DAq)<!-- MEMES:END -->
+ - 👉 [Whoever did that is da real MVP](http://9gag.com/gag/a1m1wO6)<!-- MEMES:END -->
 
 ---
 

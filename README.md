@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Elon Musk is one of two paid subscribers of an X account that has suggested South Africa was better off under apartheid, lambasted &quot;Black ruled&quot; countries, more &lpar;Isaac Schorr/Mediaite&rpar;](http://www.techmeme.com/241224/p20#a241224p20)
+ - [Best Workout Apps for Women in 2024](https://www.cnet.com/health/fitness/best-workout-apps-for-women/#ftag=CAD590a51e)
+ - [NASA&#39;s Parker Probe Flies Closer to the Sun Than Any Object Ever Has](https://www.cnet.com/science/nasas-parker-probe-flies-closer-to-the-sun-than-any-object-ever-has/#ftag=CAD590a51e)
  - [Two major China-based Amazon merchants say Amazon reps have recently been offering incentives like free ads and lower commissions if they stop selling on Temu &lpar;The Information&rpar;](http://www.techmeme.com/241224/p19#a241224p19)
- - [Filing: Apple asks to participate in Google&#39;s upcoming US search antitrust trial, saying it can&#39;t rely on Google to defend their revenue-sharing agreements &lpar;Jody Godoy/Reuters&rpar;](http://www.techmeme.com/241224/p18#a241224p18)
- - [Best Internet Providers in North Dakota](https://www.cnet.com/home/internet/best-internet-providers-in-north-dakota/#ftag=CAD590a51e)
- - [Iran claims it will lift its ban on &quot;certain widely used foreign platforms&quot;, naming WhatsApp and Google Play as the first two apps to be unblocked &lpar;Bloomberg&rpar;](http://www.techmeme.com/241224/p17#a241224p17)
- - [Apple&#39;s bad blood with Nvidia continues, after decades of fighting](https://appleinsider.com/articles/24/12/24/apples-bad-blood-with-nvidia-continues-after-decades-of-fighting?utm_medium=rss)<!-- TECH:END -->
+ - [3 Age-Defying Exercises to Do for a Better You](https://www.cnet.com/health/fitness/3-age-defying-exercises-to-do-for-a-better-you/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [A woman and her bike](http://9gag.com/gag/aGyzN1w)
- - 😝 [Every night](http://9gag.com/gag/aZZro46)
- - 💣 [Always pays off](http://9gag.com/gag/aGyzo50)
+ - 😝 [277](http://9gag.com/gag/aAyGqKg)
+ - 😝 [Hmm](http://9gag.com/gag/arynDe0)
+ - 💣 [Nativity play](http://9gag.com/gag/azxeQ2B)
  - 😝 [We all have a party legend in your squad! \ud83c\udf84\ud83c\udfb6 Turn up the new WoT Blitz x deadmau5 track Familiars while you hit different on the battlefield this Xmas!](http://9gag.com/gag/aE08ymo)
- - 👉 [Taxi driver trying to keep his composure while lady having a baby at the backseat of his car](http://9gag.com/gag/aD2DMgd)<!-- MEMES:END -->
+ - 👉 [I&#39;m changing my phone plan](http://9gag.com/gag/a2v1A0Z)<!-- MEMES:END -->
 
 ---
 

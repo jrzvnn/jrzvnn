@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [You wanted MEMES? Well, too bad! Here are feels!](http://9gag.com/gag/a5Q1DVy)
- - 😝 [Yo homie](http://9gag.com/gag/amogdXv)
- - 💣 [Man i missed it](http://9gag.com/gag/awyz8O8)
- - 😝 [\ud83d\udea8Breaking: German men demand immediate deportations as word gets out and numbers increase](http://9gag.com/gag/a7o1ABb)
- - 👉 [Left or goth?](http://9gag.com/gag/aZZrdrW)<!-- MEMES:END -->
+ - 😝 [OddlySpecific](http://9gag.com/gag/avyAmLW)
+ - 😝 [The female mind, ladies and gentlemen...](http://9gag.com/gag/axyBm9L)
+ - 💣 [Merry Christmas you filthy animals.](http://9gag.com/gag/aBynNGZ)
+ - 😝 [What the hell dude?](http://9gag.com/gag/ayN9zMM)
+ - 👉 [Black Spooderman might get canceled cuz the black actor is a creep.](http://9gag.com/gag/a5Q1xxo)<!-- MEMES:END -->
 
 ---
 

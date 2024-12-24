@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [OddlySpecific](http://9gag.com/gag/avyAmLW)
- - 😝 [The female mind, ladies and gentlemen...](http://9gag.com/gag/axyBm9L)
- - 💣 [Merry Christmas you filthy animals.](http://9gag.com/gag/aBynNGZ)
- - 😝 [What the hell dude?](http://9gag.com/gag/ayN9zMM)
- - 👉 [Black Spooderman might get canceled cuz the black actor is a creep.](http://9gag.com/gag/a5Q1xxo)<!-- MEMES:END -->
+ - 😝 [Tiger woods reaction to his sons first hole-in-one](http://9gag.com/gag/aNDP3M4)
+ - 😝 [Not all men](http://9gag.com/gag/a5Q1DAq)
+ - 💣 [OddlySpecific](http://9gag.com/gag/avyAmLW)
+ - 😝 [Luigi Mangione has pleaded not guilty in the killing of UnitedHealthcare CEO Brian Thompson.](http://9gag.com/gag/a0eZW7O)
+ - 👉 [Roast beef](http://9gag.com/gag/a6Z1xym)<!-- MEMES:END -->
 
 ---
 

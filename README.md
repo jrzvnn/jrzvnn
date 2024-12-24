@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Penguins.... are not actually Penguins.](http://9gag.com/gag/an7gW3B)
- - 😝 [Hmm](http://9gag.com/gag/arynDe0)
- - 💣 [Not all men](http://9gag.com/gag/a5Q1DAq)
+ - 😝 [Burn](http://9gag.com/gag/avyAXLZ)
+ - 😝 [Not all men](http://9gag.com/gag/a5Q1DAq)
+ - 💣 [I&#39;m changing my phone plan](http://9gag.com/gag/a2v1A0Z)
  - 😝 [We all have a party legend in your squad! \ud83c\udf84\ud83c\udfb6 Turn up the new WoT Blitz x deadmau5 track Familiars while you hit different on the battlefield this Xmas!](http://9gag.com/gag/aE08ymo)
- - 👉 [Woke](http://9gag.com/gag/aGyz6dw)<!-- MEMES:END -->
+ - 👉 [Black Spooderman might get canceled cuz the black actor is a creep.](http://9gag.com/gag/a5Q1xxo)<!-- MEMES:END -->
 
 ---
 

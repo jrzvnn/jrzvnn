@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Filing: Apple asks to participate in Google&#39;s upcoming US search antitrust trial, saying it can&#39;t rely on Google to defend their revenue-sharing agreements &lpar;Jody Godoy/Reuters&rpar;](http://www.techmeme.com/241224/p18#a241224p18)
  - [Iran claims it will lift its ban on &quot;certain widely used foreign platforms&quot;, naming WhatsApp and Google Play as the first two apps to be unblocked &lpar;Bloomberg&rpar;](http://www.techmeme.com/241224/p17#a241224p17)
  - [Apple&#39;s bad blood with Nvidia continues, after decades of fighting](https://appleinsider.com/articles/24/12/24/apples-bad-blood-with-nvidia-continues-after-decades-of-fighting?utm_medium=rss)
  - [The Coziest TV Shows to Binge This Winter Season](https://www.cnet.com/health/sleep/our-favorite-shows-for-relaxing-before-bed/#ftag=CAD590a51e)
- - [There’s a reason Metaphor: ReFantanzio’s battle music sounds as cool as it does](https://www.theverge.com/2024/12/24/24328374/metaphor-refantanzio-battle-music-shoji-meguro-interview)
- - [Best iPhone 13, iPhone 13 Pro and iPhone 13 Pro Max Cases of 2024](https://www.cnet.com/tech/mobile/best-iphone-13-cases/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [There’s a reason Metaphor: ReFantanzio’s battle music sounds as cool as it does](https://www.theverge.com/2024/12/24/24328374/metaphor-refantanzio-battle-music-shoji-meguro-interview)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

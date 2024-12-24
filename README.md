@@ -166,9 +166,9 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [*sad gamer noises*](http://9gag.com/gag/adBgW9Z)
- - 😝 [Black Spooderman might get canceled cuz the black actor is a creep.](http://9gag.com/gag/a5Q1xxo)
- - 💣 [I&#39;m changing my phone plan](http://9gag.com/gag/a2v1A0Z)
+ - 😝 [I&#39;m changing my phone plan](http://9gag.com/gag/a2v1A0Z)
+ - 😝 [What the hell dude?](http://9gag.com/gag/ayN9zMM)
+ - 💣 [#NeverForget](http://9gag.com/gag/aVvxded)
  - 😝 [We all have a party legend in your squad! \ud83c\udf84\ud83c\udfb6 Turn up the new WoT Blitz x deadmau5 track Familiars while you hit different on the battlefield this Xmas!](http://9gag.com/gag/aE08ymo)
  - 👉 [Nativity play](http://9gag.com/gag/azxeQ2B)<!-- MEMES:END -->
 

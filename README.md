@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [How to test your network or server using ping in Terminal](https://appleinsider.com/inside/macos/tips/how-to-test-your-network-or-server-using-ping-in-terminal?utm_medium=rss)
  - [xAI announces it raised a $6B Series C from a16z, BlackRock, Fidelity, Kingdom Holdings, Sequoia, Nvidia, and others, at a reported valuation of at least $40B &lpar;Antonio Peque&amp;ntilde;o IV/Forbes&rpar;](http://www.techmeme.com/241223/p19#a241223p19)
  - [TP-Link Routers Could Be Banned Next Year. Are They Actually Dangerous?](https://www.cnet.com/home/internet/tp-link-routers-could-be-banned-next-year-are-they-actually-dangerous/#ftag=CAD590a51e)
  - [Cooking Trends You Can Expect in 2025, According to 6 World-Famous Chefs](https://www.cnet.com/news/cooking-trends-you-can-expect-in-2025-according-to-6-world-famous-chefs/#ftag=CAD590a51e)
- - [Google issues its remedies proposal in antitrust case surrounding its search engine](https://appleinsider.com/articles/24/12/24/google-issues-its-remedies-proposal-in-antitrust-case-surrounding-its-search-engine?utm_medium=rss)
- - [Marriott and Starwood hotels will have to get better at data security](https://www.theverge.com/2024/12/23/24328437/ftc-marriott-international-starwood-hotels-order-data-security-cyberattacks-hacks-ransomware)<!-- TECH:END -->
+ - [Google issues its remedies proposal in antitrust case surrounding its search engine](https://appleinsider.com/articles/24/12/24/google-issues-its-remedies-proposal-in-antitrust-case-surrounding-its-search-engine?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

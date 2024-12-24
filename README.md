@@ -158,10 +158,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- TECH:START -->
  - [US and Japanese law enforcement say North Korean hackers were responsible for stealing 4,502.9 bitcoin, worth $308M, from Japanese exchange DMM in May 2024 &lpar;Sheldon Reback/CoinDesk&rpar;](http://www.techmeme.com/241224/p14#a241224p14)
+ - [The iPhone in 2025: What to Expect Beyond the iPhone 17](https://www.cnet.com/tech/mobile/the-iphone-in-2025-what-to-expect-beyond-the-iphone-17/#ftag=CAD590a51e)
+ - [When to Watch the &#39;Doctor Who&#39; Christmas Special on Disney Plus](https://www.cnet.com/tech/services-and-software/when-to-watch-the-doctor-who-christmas-special-on-disney-plus/#ftag=CAD590a51e)
  - [Home Is Where the Couch Is: Photos by Natcha Wongchanglaw](https://www.wired.com/story/home-is-where-the-couch-is-photos-by-natcha-wongchanglaw/)
- - [American Airlines resumes flights across the US following ‘technical issues’](https://www.theverge.com/2024/12/24/24328745/american-airlines-flights-grounded-christmas-eve-systems-issues)
- - [Arizona&#39;s Maricopa County is set to have the second largest concentration of US data centers by 2028, as the state races to increase electricity production &lpar;Pranshu Verma/Washington Post&rpar;](http://www.techmeme.com/241224/p13#a241224p13)
- - [What Should You Do When You Receive a Data Breach Notice?](https://www.cnet.com/personal-finance/what-should-you-do-when-you-receive-a-data-breach-notice/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [American Airlines resumes flights across the US following ‘technical issues’](https://www.theverge.com/2024/12/24/24328745/american-airlines-flights-grounded-christmas-eve-systems-issues)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

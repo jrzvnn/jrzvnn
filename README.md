@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [This solid aluminum keyboard costs as much as a MacBook Pro](https://www.theverge.com/2024/12/24/24328735/serene-industries-icebreaker-aluminum-keyboard-price-availability)
+ - [Disney Pulled the Plug on This Game in 2013. A Group of Teens Kept It Alive](https://www.wired.com/story/toontown-online-kept-alive-11-years-toontown-rewritten/)
  - [I&#39;m a Money Expert With $10k in Credit Card Debt. Here&#39;s How I&#39;m Paying It Off](https://www.cnet.com/personal-finance/im-a-money-expert-with-10k-in-credit-card-debt-heres-how-im-paying-it-off/#ftag=CAD590a51e)
  - [The US FTC orders Marriott and Starwood to implement a robust customer data security scheme after Starwood&#39;s 2014 to 2018 breaches and Marriott&#39;s 2018 breach &lpar;Bill Toulas/BleepingComputer&rpar;](http://www.techmeme.com/241224/p12#a241224p12)
- - [Helix Plus Mattress Review 2024: A Durable Hybrid Bed Gets a Fresh New Look](https://www.cnet.com/health/sleep/helix-plus-mattress-review/#ftag=CAD590a51e)
- - [It Was a Record Year for Dating Apps. They Still Don’t Have It Figured Out](https://www.wired.com/story/it-was-a-record-year-for-dating-apps-they-still-dont-have-it-figured-out/)
- - [24 of the Best Last-Minute Gifts You Can Send Online Immediately](https://www.cnet.com/tech/mobile/last-minute-gifts/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Helix Plus Mattress Review 2024: A Durable Hybrid Bed Gets a Fresh New Look](https://www.cnet.com/health/sleep/helix-plus-mattress-review/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

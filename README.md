@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [She wants 9gagger type friend...](http://9gag.com/gag/aMV4DzM)
- - 😝 [Left or goth?](http://9gag.com/gag/aZZrdrW)
- - 💣 [\ud83d\udea8Breaking: German men demand immediate deportations as word gets out and numbers increase](http://9gag.com/gag/a7o1ABb)
+ - 😝 [Penguins.... are not actually Penguins.](http://9gag.com/gag/an7gW3B)
+ - 😝 [Luigi Mangione has pleaded not guilty in the killing of UnitedHealthcare CEO Brian Thompson.](http://9gag.com/gag/a0eZW7O)
+ - 💣 [Merry Christmas you filthy animals.](http://9gag.com/gag/aBynNGZ)
  - 😝 [We all have a party legend in your squad! \ud83c\udf84\ud83c\udfb6 Turn up the new WoT Blitz x deadmau5 track Familiars while you hit different on the battlefield this Xmas!](http://9gag.com/gag/aE08ymo)
- - 👉 [Story that I&#39;ll tell to my Grankids](http://9gag.com/gag/aPAZdyq)<!-- MEMES:END -->
+ - 👉 [277](http://9gag.com/gag/aAyGqKg)<!-- MEMES:END -->
 
 ---
 

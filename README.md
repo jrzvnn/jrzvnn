@@ -166,9 +166,9 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Three Japanese car manufacturers are getting together.](http://9gag.com/gag/agmgZRr)
+ - 😝 [Not all men](http://9gag.com/gag/a5Q1DAq)
  - 😝 [I&#39;m changing my phone plan](http://9gag.com/gag/a2v1A0Z)
- - 💣 [Hmm](http://9gag.com/gag/arynDe0)
+ - 💣 [A woman and her bike](http://9gag.com/gag/aGyzN1w)
  - 😝 [We all have a party legend in your squad! \ud83c\udf84\ud83c\udfb6 Turn up the new WoT Blitz x deadmau5 track Familiars while you hit different on the battlefield this Xmas!](http://9gag.com/gag/aE08ymo)
  - 👉 [*sad gamer noises*](http://9gag.com/gag/adBgW9Z)<!-- MEMES:END -->
 

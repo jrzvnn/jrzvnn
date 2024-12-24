@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Woosh Smart Air Filter Review: No More Guessing](https://www.wired.com/review/woosh-smart-air-filter/)
+ - [2024: a good year for earbuds](https://www.theverge.com/24307485/best-earbuds-2024-apple-sony-jabra-nothing)
  - [US and Japanese law enforcement say North Korean hackers were responsible for stealing 4,502.9 bitcoin, worth $308M, from Japanese exchange DMM in May 2024 &lpar;Sheldon Reback/CoinDesk&rpar;](http://www.techmeme.com/241224/p14#a241224p14)
  - [The iPhone in 2025: What to Expect Beyond the iPhone 17](https://www.cnet.com/tech/mobile/the-iphone-in-2025-what-to-expect-beyond-the-iphone-17/#ftag=CAD590a51e)
- - [When to Watch the &#39;Doctor Who&#39; Christmas Special on Disney Plus](https://www.cnet.com/tech/services-and-software/when-to-watch-the-doctor-who-christmas-special-on-disney-plus/#ftag=CAD590a51e)
- - [Home Is Where the Couch Is: Photos by Natcha Wongchanglaw](https://www.wired.com/story/home-is-where-the-couch-is-photos-by-natcha-wongchanglaw/)
- - [American Airlines resumes flights across the US following ‘technical issues’](https://www.theverge.com/2024/12/24/24328745/american-airlines-flights-grounded-christmas-eve-systems-issues)<!-- TECH:END -->
+ - [When to Watch the &#39;Doctor Who&#39; Christmas Special on Disney Plus](https://www.cnet.com/tech/services-and-software/when-to-watch-the-doctor-who-christmas-special-on-disney-plus/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Who are these 5% and why won&#39;t they go to Africa or India?](http://9gag.com/gag/an7g8Zo)
- - 😝 [Stephen King](http://9gag.com/gag/aYQrZ5q)
- - 💣 [She wants 9gagger type friend...](http://9gag.com/gag/aMV4DzM)
+ - 😝 [A woman and her bike](http://9gag.com/gag/aGyzN1w)
+ - 😝 [Every night](http://9gag.com/gag/aZZro46)
+ - 💣 [Always pays off](http://9gag.com/gag/aGyzo50)
  - 😝 [We all have a party legend in your squad! \ud83c\udf84\ud83c\udfb6 Turn up the new WoT Blitz x deadmau5 track Familiars while you hit different on the battlefield this Xmas!](http://9gag.com/gag/aE08ymo)
- - 👉 [`Influencer` gets treated the way he deserves.](http://9gag.com/gag/a6Z1xEq)<!-- MEMES:END -->
+ - 👉 [Taxi driver trying to keep his composure while lady having a baby at the backseat of his car](http://9gag.com/gag/aD2DMgd)<!-- MEMES:END -->
 
 ---
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [It Was a Record Year for Dating Apps. They Still Don’t Have It Figured Out](https://www.wired.com/story/it-was-a-record-year-for-dating-apps-they-still-dont-have-it-figured-out/)
+ - [Tass: the Russian government bans crypto mining in 10 regions from January 1 to March 15, 2031, citing power consumption, after legalizing mining in July 2024 &lpar;Sheldon Reback/CoinDesk&rpar;](http://www.techmeme.com/241224/p11#a241224p11)
+ - [Best Internet Providers in Redding, California](https://www.cnet.com/home/internet/best-internet-providers-in-redding-ca/#ftag=CAD590a51e)
  - [Sources: the EU will conditionally approve US chip design software company Synopsys&#39; $35B Ansys acquisition, the largest tech deal since Broadcom bought VMware &lpar;Foo Yun Chee/Reuters&rpar;](http://www.techmeme.com/241224/p10#a241224p10)
- - [Ancestry vs. 23andMe: Which Is the Best DNA Testing Kit for You?](https://www.cnet.com/health/medical/ancestry-vs-23-and-me-dna-testing-kit-which-is-best/#ftag=CAD590a51e)
- - [Analysis: SAP accounts for ~40% of Frankfurt DAX&#39;s 18.7% gains in 2024, with SAP up 70%+ as the software company transitions its business customers to the cloud &lpar;Financial Times&rpar;](http://www.techmeme.com/241224/p9#a241224p9)
- - [Best Internet Providers in Oklahoma](https://www.cnet.com/home/internet/best-internet-providers-in-oklahoma/#ftag=CAD590a51e)
- - [People With Extreme Wealth Should Give It Away—or Be Penalized](https://www.wired.com/story/people-with-extreme-wealth-should-give-it-away-or-be-penalized/)<!-- TECH:END -->
+ - [Act Now and Lock In APYs Above 4% on Your Cash. Today&#39;s CD Rates, Dec. 24, 2024](https://www.cnet.com/personal-finance/banking/act-now-and-lock-in-apys-above-4-on-your-cash-todays-cd-rates-dec-24-2024/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Not all men](http://9gag.com/gag/a5Q1DAq)
- - 😝 [Nativity play](http://9gag.com/gag/azxeQ2B)
- - 💣 [What&#39;s wrong? Isn&#39;t this what you wanted?](http://9gag.com/gag/aMV4q36)
+ - 😝 [277](http://9gag.com/gag/aAyGqKg)
+ - 😝 [It was nice while it lasted... chrome has started phasing out manifest v2 extensions](http://9gag.com/gag/aE08NRo)
+ - 💣 [#NeverForget](http://9gag.com/gag/aVvxded)
  - 😝 [We all have a party legend in your squad! \ud83c\udf84\ud83c\udfb6 Turn up the new WoT Blitz x deadmau5 track Familiars while you hit different on the battlefield this Xmas!](http://9gag.com/gag/aE08ymo)
- - 👉 [Is he sad or happy](http://9gag.com/gag/aXPrdWV)<!-- MEMES:END -->
+ - 👉 [Penguins.... are not actually Penguins.](http://9gag.com/gag/an7gW3B)<!-- MEMES:END -->
 
 ---
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Tiger woods reaction to his sons first hole-in-one](http://9gag.com/gag/aNDP3M4)
- - 😝 [Not all men](http://9gag.com/gag/a5Q1DAq)
- - 💣 [Black Spooderman might get canceled cuz the black actor is a creep.](http://9gag.com/gag/a5Q1xxo)
- - 😝 [YouTuber nowadays](http://9gag.com/gag/aE08ZWO)
- - 👉 [Always pays off](http://9gag.com/gag/aGyzo50)<!-- MEMES:END -->
+ - 😝 [What the hell dude?](http://9gag.com/gag/ayN9zMM)
+ - 😝 [Nativity play](http://9gag.com/gag/azxeQ2B)
+ - 💣 [Cate Blanchett and her husband](http://9gag.com/gag/aW4gRYx)
+ - 😝 [Burn](http://9gag.com/gag/avyAXLZ)
+ - 👉 [Is he sad or happy](http://9gag.com/gag/aXPrdWV)<!-- MEMES:END -->
 
 ---
 

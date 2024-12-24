@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Hmm](http://9gag.com/gag/arynDe0)
- - 😝 [Every night](http://9gag.com/gag/aZZro46)
- - 💣 [*sad gamer noises*](http://9gag.com/gag/adBgW9Z)
+ - 😝 [*sad gamer noises*](http://9gag.com/gag/adBgW9Z)
+ - 😝 [Scientifically Accurate Philosoraptor](http://9gag.com/gag/aGyzrYX)
+ - 💣 [Burn](http://9gag.com/gag/avyAXLZ)
  - 😝 [We all have a party legend in your squad! \ud83c\udf84\ud83c\udfb6 Turn up the new WoT Blitz x deadmau5 track Familiars while you hit different on the battlefield this Xmas!](http://9gag.com/gag/aE08ymo)
- - 👉 [277](http://9gag.com/gag/aAyGqKg)<!-- MEMES:END -->
+ - 👉 [Mexican power](http://9gag.com/gag/agmg66v)<!-- MEMES:END -->
 
 ---
 

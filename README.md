@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Good old copper](http://9gag.com/gag/aO8QNL3)
  - 😝 [Yo homie](http://9gag.com/gag/amogdXv)
+ - 😝 [Good old copper](http://9gag.com/gag/aO8QNL3)
  - 💣 [Man i missed it](http://9gag.com/gag/awyz8O8)
- - 😝 [\ud83d\udea8Breaking: German men demand immediate deportations as word gets out and numbers increase](http://9gag.com/gag/a7o1ABb)
- - 👉 [Left or goth?](http://9gag.com/gag/aZZrdrW)<!-- MEMES:END -->
+ - 😝 [Left or goth?](http://9gag.com/gag/aZZrdrW)
+ - 👉 [\ud83d\udea8Breaking: German men demand immediate deportations as word gets out and numbers increase](http://9gag.com/gag/a7o1ABb)<!-- MEMES:END -->
 
 ---
 

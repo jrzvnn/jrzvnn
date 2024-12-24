@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [*sad gamer noises*](http://9gag.com/gag/adBgW9Z)
+ - 😝 [Someone has to tell you: WD 40 is not for what you think it is.](http://9gag.com/gag/aXPrQYV)
  - 😝 [Merry Christmas you filthy animals.](http://9gag.com/gag/aBynNGZ)
- - 💣 [Woke](http://9gag.com/gag/aGyz6dw)
+ - 💣 [*sad gamer noises*](http://9gag.com/gag/adBgW9Z)
  - 😝 [We all have a party legend in your squad! \ud83c\udf84\ud83c\udfb6 Turn up the new WoT Blitz x deadmau5 track Familiars while you hit different on the battlefield this Xmas!](http://9gag.com/gag/aE08ymo)
- - 👉 [Not all men](http://9gag.com/gag/a5Q1DAq)<!-- MEMES:END -->
+ - 👉 [Honey Founders George Ruan, Ryan Hudson. Honey has been scamming people for millions of dollars. Mama Mia](http://9gag.com/gag/amogb6j)<!-- MEMES:END -->
 
 ---
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Google issues its remedies proposal in antitrust case surrounding its search engine](https://appleinsider.com/articles/24/12/24/google-issues-its-remedies-proposal-in-antitrust-case-surrounding-its-search-engine?utm_medium=rss)
  - [Marriott and Starwood hotels will have to get better at data security](https://www.theverge.com/2024/12/23/24328437/ftc-marriott-international-starwood-hotels-order-data-security-cyberattacks-hacks-ransomware)
+ - [Monday Night Football: How to Watch Saints vs. Packers Tonight](https://www.cnet.com/tech/services-and-software/monday-night-football-how-to-watch-saints-vs-packers-tonight/#ftag=CAD590a51e)
  - [Xerox agrees to acquire Lexmark from Ninestar, PAG Asia Capital, and Shanghai Shouda in a deal valued at $1.5B, including debt, and expected to close in H2 2025 &lpar;Lauren Thomas/Wall Street Journal&rpar;](http://www.techmeme.com/241223/p18#a241223p18)
- - [The best Garmin watches for training and everyday life](https://www.theverge.com/23691498/best-garmin-smartwatch-fitness-tracker-wearables)
- - [Apple&#39;s updated M4 MacBook Air could arrive sooner than expected](https://appleinsider.com/articles/24/12/23/apples-updated-m4-macbook-air-could-arrive-sooner-than-expected?utm_medium=rss)
- - [Score a 15-inch MacBook Air for $1,099 in year-end price war](https://appleinsider.com/articles/24/12/23/score-a-15-inch-macbook-air-for-1099-in-year-end-price-war?utm_medium=rss)<!-- TECH:END -->
+ - [I&#39;m a Student Loan Expert. Here Are 5 Steps You Should Take Now -- and 1 Thing Not to Do](https://www.cnet.com/personal-finance/loans/im-a-student-loan-expert-here-are-5-steps-you-should-take-now-and-1-thing-not-to-do/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [#NeverForget](http://9gag.com/gag/aVvxded)
- - 😝 [What&#39;s wrong? Isn&#39;t this what you wanted?](http://9gag.com/gag/aMV4q36)
- - 💣 [Even the actors are ashamed of The Witcher](http://9gag.com/gag/an7gd8V)
+ - 😝 [She wants 9gagger type friend...](http://9gag.com/gag/aMV4DzM)
+ - 😝 [Left or goth?](http://9gag.com/gag/aZZrdrW)
+ - 💣 [\ud83d\udea8Breaking: German men demand immediate deportations as word gets out and numbers increase](http://9gag.com/gag/a7o1ABb)
  - 😝 [We all have a party legend in your squad! \ud83c\udf84\ud83c\udfb6 Turn up the new WoT Blitz x deadmau5 track Familiars while you hit different on the battlefield this Xmas!](http://9gag.com/gag/aE08ymo)
- - 👉 [Penguins.... are not actually Penguins.](http://9gag.com/gag/an7gW3B)<!-- MEMES:END -->
+ - 👉 [Story that I&#39;ll tell to my Grankids](http://9gag.com/gag/aPAZdyq)<!-- MEMES:END -->
 
 ---
 

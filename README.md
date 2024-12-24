@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [An investigator says he reported 26 OnlyFans accounts suspected of containing CSAM to NCMEC and that all of the accounts were removed within a day of his report &lpar;Reuters&rpar;](http://www.techmeme.com/241224/p6#a241224p6)
+ - [PitchBook: global edtech VC funding reached just $3B in 2024, the lowest amount since $2.3B in 2014, and down from $17.3B at the peak of the pandemic in 2021 &lpar;Cristina Criddle/Financial Times&rpar;](http://www.techmeme.com/241224/p5#a241224p5)
  - [A Lawrence Berkeley National Laboratory report says data centers could account for 6.7%-12% of US total electricity consumption by 2028, up from ~4% currently &lpar;Laila Kearney/Reuters&rpar;](http://www.techmeme.com/241224/p4#a241224p4)
  - [30% off Samsung Promo Codes - January 2025](https://www.wired.com/story/samsung-promo-codes/)
- - [Netflix sues Broadcom in California federal court, accusing VMware&#39;s cloud software of infringing five patents covering aspects of operating virtual machines &lpar;Blake Brittain/Reuters&rpar;](http://www.techmeme.com/241224/p3#a241224p3)
- - [Balderton Capital and Dealroom: European AI startups attracted 25% of the region&#39;s VC funding, or ~$13.7B, in 2024, compared to 15% in 2020 &lpar;Anna Heim/TechCrunch&rpar;](http://www.techmeme.com/241224/p2#a241224p2)
- - [Hashed: $112M+ worth of USDC fled Hyperliquid, the top DeFi derivatives exchange by volume, on December 23, after concern over trading by North Korean hackers &lpar;Muyao Shen/Bloomberg&rpar;](http://www.techmeme.com/241224/p1#a241224p1)<!-- TECH:END -->
+ - [Netflix sues Broadcom in California federal court, accusing VMware&#39;s cloud software of infringing five patents covering aspects of operating virtual machines &lpar;Blake Brittain/Reuters&rpar;](http://www.techmeme.com/241224/p3#a241224p3)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

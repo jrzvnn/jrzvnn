@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Two major China-based Amazon merchants say Amazon reps have recently been offering incentives like free ads and lower commissions if they stop selling on Temu &lpar;The Information&rpar;](http://www.techmeme.com/241224/p19#a241224p19)
  - [Filing: Apple asks to participate in Google&#39;s upcoming US search antitrust trial, saying it can&#39;t rely on Google to defend their revenue-sharing agreements &lpar;Jody Godoy/Reuters&rpar;](http://www.techmeme.com/241224/p18#a241224p18)
  - [Best Internet Providers in North Dakota](https://www.cnet.com/home/internet/best-internet-providers-in-north-dakota/#ftag=CAD590a51e)
  - [Iran claims it will lift its ban on &quot;certain widely used foreign platforms&quot;, naming WhatsApp and Google Play as the first two apps to be unblocked &lpar;Bloomberg&rpar;](http://www.techmeme.com/241224/p17#a241224p17)
- - [Apple&#39;s bad blood with Nvidia continues, after decades of fighting](https://appleinsider.com/articles/24/12/24/apples-bad-blood-with-nvidia-continues-after-decades-of-fighting?utm_medium=rss)
- - [The Coziest TV Shows to Binge This Winter Season](https://www.cnet.com/health/sleep/our-favorite-shows-for-relaxing-before-bed/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Apple&#39;s bad blood with Nvidia continues, after decades of fighting](https://appleinsider.com/articles/24/12/24/apples-bad-blood-with-nvidia-continues-after-decades-of-fighting?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

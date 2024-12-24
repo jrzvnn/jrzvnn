@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Yo homie](http://9gag.com/gag/amogdXv)
- - 😝 [Good old copper](http://9gag.com/gag/aO8QNL3)
- - 💣 [Man i missed it](http://9gag.com/gag/awyz8O8)
- - 😝 [Left or goth?](http://9gag.com/gag/aZZrdrW)
- - 👉 [\ud83d\udea8Breaking: German men demand immediate deportations as word gets out and numbers increase](http://9gag.com/gag/a7o1ABb)<!-- MEMES:END -->
+ - 😝 [It was nice while it lasted... chrome has started phasing out manifest v2 extensions](http://9gag.com/gag/aE08NRo)
+ - 😝 [The female mind, ladies and gentlemen...](http://9gag.com/gag/axyBm9L)
+ - 💣 [Merry Christmas you filthy animals.](http://9gag.com/gag/aBynNGZ)
+ - 😝 [Avada Kedavra](http://9gag.com/gag/abAgdq8)
+ - 👉 [What the hell dude?](http://9gag.com/gag/ayN9zMM)<!-- MEMES:END -->
 
 ---
 

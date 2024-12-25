@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Merry Christmas you filthy animals.](http://9gag.com/gag/aBynNGZ)
- - 😝 [Drone with the wind!](http://9gag.com/gag/aBynN6O)
- - 💣 [Three Japanese car manufacturers are getting together.](http://9gag.com/gag/agmgZRr)
+ - 😝 [Woke](http://9gag.com/gag/aGyz6dw)
+ - 😝 [Someone has to tell you: WD 40 is not for what you think it is.](http://9gag.com/gag/aXPrQYV)
+ - 💣 [Are we there yet?](http://9gag.com/gag/aW4gNQA)
  - 😝 [We all have a party legend in your squad! \ud83c\udf84\ud83c\udfb6 Turn up the new WoT Blitz x deadmau5 track Familiars while you hit different on the battlefield this Xmas!](http://9gag.com/gag/aE08ymo)
- - 👉 [Someone has to tell you: WD 40 is not for what you think it is.](http://9gag.com/gag/aXPrQYV)<!-- MEMES:END -->
+ - 👉 [277](http://9gag.com/gag/aAyGqKg)<!-- MEMES:END -->
 
 ---
 

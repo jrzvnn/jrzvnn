@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Best Internet Providers in Wilkes-Barre, Pennsylvania](https://www.cnet.com/home/internet/best-internet-providers-in-wilkes-barre-pa/#ftag=CAD590a51e)
- - [President Biden signs the $895B 2025 defense policy bill, including $3B for the FCC&#39;s &quot;rip and replace&quot; program to get rid of Chinese networking equipment &lpar;Martin Matishak/The Record&rpar;](http://www.techmeme.com/241224/p23#a241224p23)
- - [Best Internet Providers in Cambridge, Massachusetts](https://www.cnet.com/home/internet/best-internet-providers-in-cambridge-ma/#ftag=CAD590a51e)
- - [Stranded NASA Astronauts on the ISS Share Christmas Greetings on Social Media](https://www.cnet.com/science/stranded-nasa-astronauts-have-now-been-stuck-on-the-iss-for-six-months-send-christmas-greetings/#ftag=CAD590a51e)
- - [Best MagSafe Accessories for iPhone in 2024](https://www.cnet.com/tech/mobile/best-magsafe-and-magnetic-iphone-accessories/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Today&#39;s NYT Mini Crossword Answers for Wednesday, Dec. 25](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-wednesday-dec-25/#ftag=CAD590a51e)
+ - [Today&#39;s Wordle Hints, Answer and Help for Dec. 25, #1285](https://www.cnet.com/tech/gaming/todays-wordle-hints-answer-and-help-for-dec-25-1285/#ftag=CAD590a51e)
+ - [Today&#39;s NYT Strands Hints, Answers and Help for Dec. 25, #297](https://www.cnet.com/tech/gaming/todays-nyt-strands-hints-answers-and-help-for-dec-25-297/#ftag=CAD590a51e)
+ - [Today&#39;s NYT Connections Hints, Answers and Help for Dec. 25, #563](https://www.cnet.com/tech/gaming/todays-nyt-connections-hints-answers-and-help-for-dec-25-563/#ftag=CAD590a51e)
+ - [Today&#39;s NYT Connections: Sports Edition Hints and Answers for Dec. 25, #93](https://www.cnet.com/tech/gaming/todays-nyt-connections-sports-edition-hints-and-answers-for-dec-25-93/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

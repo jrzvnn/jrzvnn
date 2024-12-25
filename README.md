@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [If not dangerous why unfriendly-shaped?](http://9gag.com/gag/aQzXDdW)
- - 😝 [Three Japanese car manufacturers are getting together.](http://9gag.com/gag/agmgZRr)
- - 💣 [So satisfying](http://9gag.com/gag/aD2Drow)
- - 😝 [And don&#39;t get me started on Pedro Pascal...](http://9gag.com/gag/avyAB4X)
- - 👉 [Fathers, Mothers, Sons, Daughters, Brothers, Sisters, Families, Friends, Neighbors\u2026](http://9gag.com/gag/agmgpDv)<!-- MEMES:END -->
+ - 😝 [Bro went nuclear on her](http://9gag.com/gag/aYQrB42)
+ - 😝 [Remember your training](http://9gag.com/gag/aoyg6Ge)
+ - 💣 [Can i raise two hands for double agreement?](http://9gag.com/gag/agmgwrn)
+ - 😝 [Wanna know why they call &#39;em hurricanes after chicks?](http://9gag.com/gag/a7o1X7A)
+ - 👉 [Building this is not as fast as it looks](http://9gag.com/gag/avyAwDO)<!-- MEMES:END -->
 
 ---
 

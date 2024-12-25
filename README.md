@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Best Internet Providers in Santa Clara, California](https://www.cnet.com/home/internet/best-internet-providers-in-santa-clara-ca/#ftag=CAD590a51e)
  - [Analysis: Coinbase International saw its total trading volume grow 124% week-over-week to $119B+ this past week; it averaged just $2.5B per day in November 2024 &lpar;The Block&rpar;](http://www.techmeme.com/241225/p10#a241225p10)
  - [Snag an M4 MacBook Pro 14-inch for $1,399 with free next day delivery](https://appleinsider.com/articles/24/12/25/snag-an-m4-macbook-pro-14-inch-for-1399-with-free-next-day-delivery?utm_medium=rss)
- - [Best Internet Providers in Round Rock, Texas](https://www.cnet.com/home/internet/best-internet-providers-in-round-rock-tx/#ftag=CAD590a51e)
- - [Chiefs vs. Steelers: How to Watch the NFL on Netflix Today](https://www.cnet.com/tech/services-and-software/chiefs-vs-steelers-how-to-watch-the-nfl-on-netflix-today/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Best Internet Providers in New York, New York](https://www.cnet.com/home/internet/best-internet-providers-in-new-york-ny/#ftag=CAD590a51e)
+ - [This Clear AI Class-Action Settlement Is Only Open Until Friday: Are You Eligible?](https://www.cnet.com/personal-finance/this-clear-ai-class-action-settlement-is-only-open-til-friday-are-you-eligible/#ftag=CAD590a51e)
+ - [Russia&#39;s finance minister says Russian companies have begun using bitcoin and other digital currencies in international payments to counter Western sanctions &lpar;Gleb Bryanski/Reuters&rpar;](http://www.techmeme.com/241225/p9#a241225p9)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

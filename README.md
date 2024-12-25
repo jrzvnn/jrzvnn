@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [How we work: Malcolm Owen&#39;s sprawling setup](https://appleinsider.com/articles/24/12/25/how-we-work-malcolm-owens-sprawling-setup?utm_medium=rss)
+ - [2024 has been an amazing year for roguelikes](https://www.theverge.com/24312434/best-roguelikes-2024-balatro-hades-2-prince-of-persia)
  - [11 Best Beard Trimmers &lpar;2024&rpar;: Full Beards, Hair, Stubble](https://www.wired.com/gallery/best-beard-trimmers/)
  - [Taiwan&#39;s FTC blocks Uber&#39;s $950M acquisition of Delivery Hero&#39;s Foodpanda, arguing it would decrease competition as their combined market share would be 90%+ &lpar;Bloomberg&rpar;](http://www.techmeme.com/241225/p7#a241225p7)
- - [10 Best Beauty Box Subscriptions, Tested and Reviewed &lpar;2024&rpar;](https://www.wired.com/gallery/best-beauty-subscription-boxes/)
- - [Nosferatu’s Resurrection Was a Long Time Coming](https://www.wired.com/story/nosferatu-robert-eggers-interview/)
- - [Buying a $300 Phone Comes With a Big Choice: Fun Features or More Support](https://www.cnet.com/tech/mobile/buying-a-300-phone-comes-with-a-big-choice-fun-features-or-more-support/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [10 Best Beauty Box Subscriptions, Tested and Reviewed &lpar;2024&rpar;](https://www.wired.com/gallery/best-beauty-subscription-boxes/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [11 Best Beard Trimmers &lpar;2024&rpar;: Full Beards, Hair, Stubble](https://www.wired.com/gallery/best-beard-trimmers/)
  - [Taiwan&#39;s FTC blocks Uber&#39;s $950M acquisition of Delivery Hero&#39;s Foodpanda, arguing it would decrease competition as their combined market share would be 90%+ &lpar;Bloomberg&rpar;](http://www.techmeme.com/241225/p7#a241225p7)
  - [10 Best Beauty Box Subscriptions, Tested and Reviewed &lpar;2024&rpar;](https://www.wired.com/gallery/best-beauty-subscription-boxes/)
  - [Nosferatu’s Resurrection Was a Long Time Coming](https://www.wired.com/story/nosferatu-robert-eggers-interview/)
- - [Buying a $300 Phone Comes With a Big Choice: Fun Features or More Support](https://www.cnet.com/tech/mobile/buying-a-300-phone-comes-with-a-big-choice-fun-features-or-more-support/#ftag=CAD590a51e)
- - [Let the Games Begin. Here&#39;s When You Can Stream &#39;Squid Game&#39; Season 2 on Netflix](https://www.cnet.com/tech/services-and-software/when-you-can-stream-squid-game-season-2-on-netflix/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Buying a $300 Phone Comes With a Big Choice: Fun Features or More Support](https://www.cnet.com/tech/mobile/buying-a-300-phone-comes-with-a-big-choice-fun-features-or-more-support/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

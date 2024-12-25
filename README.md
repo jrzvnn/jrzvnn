@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Penguins.... are not actually Penguins.](http://9gag.com/gag/an7gW3B)
- - 😝 [#NeverForget](http://9gag.com/gag/aVvxded)
- - 💣 [`You&#39;ve trespassed into the library`](http://9gag.com/gag/abAgdgp)
+ - 😝 [Someone has to tell you: WD 40 is not for what you think it is.](http://9gag.com/gag/aXPrQYV)
+ - 😝 [Always pays off](http://9gag.com/gag/aGyzo50)
+ - 💣 [And don&#39;t get me started on Pedro Pascal...](http://9gag.com/gag/avyAB4X)
  - 😝 [We all have a party legend in your squad! \ud83c\udf84\ud83c\udfb6 Turn up the new WoT Blitz x deadmau5 track Familiars while you hit different on the battlefield this Xmas!](http://9gag.com/gag/aE08ymo)
- - 👉 [Guatemalan authorities rescue 160 children from Jewish Lev Tahor sect...](http://9gag.com/gag/aGyzoLK)<!-- MEMES:END -->
+ - 👉 [Is he sad or happy](http://9gag.com/gag/aXPrdWV)<!-- MEMES:END -->
 
 ---
 

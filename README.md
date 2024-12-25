@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Taiwan&#39;s FTC blocks Uber&#39;s $950M acquisition of Delivery Hero&#39;s Foodpanda, arguing it would decrease competition as their combined market share would be 90%+ &lpar;Bloomberg&rpar;](http://www.techmeme.com/241225/p7#a241225p7)
  - [10 Best Beauty Box Subscriptions, Tested and Reviewed &lpar;2024&rpar;](https://www.wired.com/gallery/best-beauty-subscription-boxes/)
  - [Nosferatu’s Resurrection Was a Long Time Coming](https://www.wired.com/story/nosferatu-robert-eggers-interview/)
- - [You Need to Create a Secret Password With Your Family](https://www.wired.com/story/you-need-to-create-a-secret-passphrase-with-your-family/)
- - [Best Kamado Grill for 2024](https://www.cnet.com/home/yard-and-outdoors/best-kamado-grill/#ftag=CAD590a51e)
- - [Benchmarking AMD&#39;s MI300X and Nvidia&#39;s H100 and H200; in theory, AMD&#39;s GPU has advantages in specs and Total Cost of Ownership, but software bugs hold it back &lpar;Dylan Patel/SemiAnalysis&rpar;](http://www.techmeme.com/241225/p6#a241225p6)<!-- TECH:END -->
+ - [Buying a $300 Phone Comes With a Big Choice: Fun Features or More Support](https://www.cnet.com/tech/mobile/buying-a-300-phone-comes-with-a-big-choice-fun-features-or-more-support/#ftag=CAD590a51e)
+ - [Let the Games Begin. Here&#39;s When You Can Stream &#39;Squid Game&#39; Season 2 on Netflix](https://www.cnet.com/tech/services-and-software/when-you-can-stream-squid-game-season-2-on-netflix/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

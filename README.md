@@ -167,10 +167,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [277](http://9gag.com/gag/aAyGqKg)
- - 😝 [Woke](http://9gag.com/gag/aGyz6dw)
- - 💣 [Honey Founders George Ruan, Ryan Hudson. Honey has been scamming people for millions of dollars. Mama Mia](http://9gag.com/gag/amogb6j)
  - 😝 [And don&#39;t get me started on Pedro Pascal...](http://9gag.com/gag/avyAB4X)
- - 👉 [So satisfying](http://9gag.com/gag/aD2Drow)<!-- MEMES:END -->
+ - 💣 [Merry Christmas you filthy animals.](http://9gag.com/gag/aBynNGZ)
+ - 😝 [*sad gamer noises*](http://9gag.com/gag/adBgW9Z)
+ - 👉 [If not dangerous why unfriendly-shaped?](http://9gag.com/gag/aQzXDdW)<!-- MEMES:END -->
 
 ---
 

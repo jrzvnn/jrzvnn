@@ -160,8 +160,8 @@ R                        1 repo              ░░░░░░░░░░░�
  - [Kaiko: the share of BTC-USD trades in US market hours has now climbed to ~53% from 40% in 2021, with crypto liquidity back at levels seen before FTX&#39;s collapse &lpar;Sidhartha Shukla/Bloomberg&rpar;](http://www.techmeme.com/241225/p5#a241225p5)
  - [Opensignal ranks Japan #1 in G7 mobile reliability experience between July 1 and September 28, followed by France, Germany, the US, Canada, Italy, and the UK &lpar;Yasemin Craggs Mersinoglu/Financial Times&rpar;](http://www.techmeme.com/241225/p4#a241225p4)
  - [Singapore issued 13 crypto licenses in 2024, pulling ahead of Hong Kong, where authorities have been more cautious, in the race to become a regional crypto hub &lpar;Suvashree Ghosh/Bloomberg&rpar;](http://www.techmeme.com/241225/p3#a241225p3)
- - [Ant splits Alipay into the Digital Payment Business Group focused on new payment products, and the Alipay Business Group focused on user growth and monetization &lpar;Ann Cao/South China Morning Post&rpar;](http://www.techmeme.com/241225/p2#a241225p2)
- - [Fiserv to acquire Toronto-based Payfare, which lets gig workers on platforms like Uber access their wages early, for $140M, expected to close in H1 2025 &lpar;Niket Nishant/Reuters&rpar;](http://www.techmeme.com/241225/p1#a241225p1)<!-- TECH:END -->
+ - [Best Internet Providers in Pensacola, Florida](https://www.cnet.com/home/internet/best-internet-providers-in-pensacola-fl/#ftag=CAD590a51e)
+ - [Ant splits Alipay into the Digital Payment Business Group focused on new payment products, and the Alipay Business Group focused on user growth and monetization &lpar;Ann Cao/South China Morning Post&rpar;](http://www.techmeme.com/241225/p2#a241225p2)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

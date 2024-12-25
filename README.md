@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Sick, insecure, toxic woman berates, curses at, and assaults a man onboard a plane](http://9gag.com/gag/aZZrKo3)
- - 😝 [Birth control ad](http://9gag.com/gag/azxeyLN)
- - 💣 [And don&#39;t get me started on Pedro Pascal...](http://9gag.com/gag/avyAB4X)
  - 😝 [Fathers, Mothers, Sons, Daughters, Brothers, Sisters, Families, Friends, Neighbors\u2026](http://9gag.com/gag/agmgpDv)
- - 👉 [Woke](http://9gag.com/gag/aGyz6dw)<!-- MEMES:END -->
+ - 😝 [And don&#39;t get me started on Pedro Pascal...](http://9gag.com/gag/avyAB4X)
+ - 💣 [Coca Cola replaced their artists with AI and couldn&#39;t even get their logo right.](http://9gag.com/gag/aW4gPE2)
+ - 😝 [Every night](http://9gag.com/gag/aZZro46)
+ - 👉 [New video from Azerbaijani Airlines plane crash site by Azerbaijani source showing shrapnel damage everywhere.](http://9gag.com/gag/aYQr5Em)<!-- MEMES:END -->
 
 ---
 

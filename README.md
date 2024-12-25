@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [I&#39;m changing my phone plan](http://9gag.com/gag/a2v1A0Z)
- - 😝 [2005](http://9gag.com/gag/a341D2e)
- - 💣 [Sometimes what you see isn&#39;t always the truth](http://9gag.com/gag/aBynz8P)
- - 😝 [Burn](http://9gag.com/gag/avyAXLZ)
- - 👉 [Raycism protects](http://9gag.com/gag/aD2Dry7)<!-- MEMES:END -->
+ - 😝 [So satisfying](http://9gag.com/gag/aD2Drow)
+ - 😝 [And don&#39;t get me started on Pedro Pascal...](http://9gag.com/gag/avyAB4X)
+ - 💣 [277](http://9gag.com/gag/aAyGqKg)
+ - 😝 [He needs that Disney cash](http://9gag.com/gag/avyAqZq)
+ - 👉 [Oh, how the turned tables](http://9gag.com/gag/aBynMDZ)<!-- MEMES:END -->
 
 ---
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [This Clear AI Class-Action Settlement Is Only Open Until Friday: Are You Eligible?](https://www.cnet.com/personal-finance/this-clear-ai-class-action-settlement-is-only-open-til-friday-are-you-eligible/#ftag=CAD590a51e)
  - [Russia&#39;s finance minister says Russian companies have begun using bitcoin and other digital currencies in international payments to counter Western sanctions &lpar;Gleb Bryanski/Reuters&rpar;](http://www.techmeme.com/241225/p9#a241225p9)
  - [Unwrap 2024&#39;s New Christmas Movies: Here&#39;s What&#39;s on Netflix, Hulu and Beyond](https://www.cnet.com/tech/services-and-software/unwrap-2024s-new-christmas-movies-heres-whats-on-netflix-hulu-and-beyond/#ftag=CAD590a51e)
  - [What podcasts looked like in 2024 — literally](https://www.theverge.com/24302894/podcasts-video-youtube-2024-trends-tiktok-instagram)
- - [Best Peloton Alternatives for 2024](https://www.cnet.com/health/fitness/best-peloton-alternative/#ftag=CAD590a51e)
- - [A look at the more challenging AI evaluations emerging in response to the rapid progress of models, including FrontierMath, Humanity&#39;s Last Exam, and RE-Bench &lpar;Tharin Pillay/Time&rpar;](http://www.techmeme.com/241225/p8#a241225p8)<!-- TECH:END -->
+ - [Best Peloton Alternatives for 2024](https://www.cnet.com/health/fitness/best-peloton-alternative/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

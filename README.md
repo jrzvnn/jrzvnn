@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Opensignal ranks Japan #1 in G7 mobile reliability experience between July 1 and September 28, followed by France, Germany, the US, Canada, Italy, and the UK &lpar;Yasemin Craggs Mersinoglu/Financial Times&rpar;](http://www.techmeme.com/241225/p4#a241225p4)
  - [Singapore issued 13 crypto licenses in 2024, pulling ahead of Hong Kong, where authorities have been more cautious, in the race to become a regional crypto hub &lpar;Suvashree Ghosh/Bloomberg&rpar;](http://www.techmeme.com/241225/p3#a241225p3)
+ - [Best Internet Providers in Pensacola, Florida](https://www.cnet.com/home/internet/best-internet-providers-in-pensacola-fl/#ftag=CAD590a51e)
  - [Ant splits Alipay into the Digital Payment Business Group focused on new payment products, and the Alipay Business Group focused on user growth and monetization &lpar;Ann Cao/South China Morning Post&rpar;](http://www.techmeme.com/241225/p2#a241225p2)
- - [Fiserv to acquire Toronto-based Payfare, which lets gig workers on platforms like Uber access their wages early, for $140M, expected to close in H1 2025 &lpar;Niket Nishant/Reuters&rpar;](http://www.techmeme.com/241225/p1#a241225p1)
- - [Today&#39;s NYT Mini Crossword Answers for Wednesday, Dec. 25](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-wednesday-dec-25/#ftag=CAD590a51e)
- - [Today&#39;s Wordle Hints, Answer and Help for Dec. 25, #1285](https://www.cnet.com/tech/gaming/todays-wordle-hints-answer-and-help-for-dec-25-1285/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Fiserv to acquire Toronto-based Payfare, which lets gig workers on platforms like Uber access their wages early, for $140M, expected to close in H1 2025 &lpar;Niket Nishant/Reuters&rpar;](http://www.techmeme.com/241225/p1#a241225p1)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

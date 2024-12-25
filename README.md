@@ -158,10 +158,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- TECH:START -->
  - [Alibaba&#39;s Qwen unveils QvQ-72B-Preview, an experimental research model focused on &quot;enhancing visual reasoning capabilities&quot;, built upon Qwen2-VL-72B &lpar;Qwen&rpar;](http://www.techmeme.com/241225/p12#a241225p12)
+ - [Best Tower Fan for 2024](https://www.cnet.com/home/kitchen-and-household/best-tower-fan/#ftag=CAD590a51e)
  - [Ravens vs. Texans: How to Watch the NFL on Netflix&#39;s Second Game, Beyoncé Halftime Show Today](https://www.cnet.com/tech/services-and-software/ravens-vs-texans-how-to-watch-the-nfl-on-netflixs-second-game-beyonce-halftime-show-today/#ftag=CAD590a51e)
  - [Analysis: roughly two-thirds of 39 public digital health companies have lost value in 2024, while the Nasdaq is up 32% &lpar;Ashley Capoot/CNBC&rpar;](http://www.techmeme.com/241225/p11#a241225p11)
- - [The 5 Best Sunrise Alarm Clocks and How to Choose One](https://www.cnet.com/health/sleep/best-sunrise-alarm-clock/#ftag=CAD590a51e)
- - [The Best External Hard Drives and SSDs for 2024](https://www.cnet.com/tech/computing/best-external-hard-drive-ssd/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [The 5 Best Sunrise Alarm Clocks and How to Choose One](https://www.cnet.com/health/sleep/best-sunrise-alarm-clock/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

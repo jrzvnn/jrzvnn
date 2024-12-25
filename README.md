@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Ant splits Alipay into the Digital Payment Business Group focused on new payment products, and the Alipay Business Group focused on user growth and monetization &lpar;Ann Cao/South China Morning Post&rpar;](http://www.techmeme.com/241225/p2#a241225p2)
+ - [Fiserv to acquire Toronto-based Payfare, which lets gig workers on platforms like Uber access their wages early, for $140M, expected to close in H1 2025 &lpar;Niket Nishant/Reuters&rpar;](http://www.techmeme.com/241225/p1#a241225p1)
  - [Today&#39;s NYT Mini Crossword Answers for Wednesday, Dec. 25](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-wednesday-dec-25/#ftag=CAD590a51e)
  - [Today&#39;s Wordle Hints, Answer and Help for Dec. 25, #1285](https://www.cnet.com/tech/gaming/todays-wordle-hints-answer-and-help-for-dec-25-1285/#ftag=CAD590a51e)
- - [Today&#39;s NYT Strands Hints, Answers and Help for Dec. 25, #297](https://www.cnet.com/tech/gaming/todays-nyt-strands-hints-answers-and-help-for-dec-25-297/#ftag=CAD590a51e)
- - [Today&#39;s NYT Connections Hints, Answers and Help for Dec. 25, #563](https://www.cnet.com/tech/gaming/todays-nyt-connections-hints-answers-and-help-for-dec-25-563/#ftag=CAD590a51e)
- - [Today&#39;s NYT Connections: Sports Edition Hints and Answers for Dec. 25, #93](https://www.cnet.com/tech/gaming/todays-nyt-connections-sports-edition-hints-and-answers-for-dec-25-93/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Today&#39;s NYT Strands Hints, Answers and Help for Dec. 25, #297](https://www.cnet.com/tech/gaming/todays-nyt-strands-hints-answers-and-help-for-dec-25-297/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

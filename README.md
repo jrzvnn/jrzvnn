@@ -167,10 +167,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [Fathers, Mothers, Sons, Daughters, Brothers, Sisters, Families, Friends, Neighbors\u2026](http://9gag.com/gag/agmgpDv)
- - 😝 [Hmm](http://9gag.com/gag/arynDe0)
- - 💣 [So satisfying](http://9gag.com/gag/aD2Drow)
- - 😝 [277](http://9gag.com/gag/aAyGqKg)
- - 👉 [And don&#39;t get me started on Pedro Pascal...](http://9gag.com/gag/avyAB4X)<!-- MEMES:END -->
+ - 😝 [Sht goes from 0 to 100 real quick](http://9gag.com/gag/aKGmXv6)
+ - 💣 [Birth control ad](http://9gag.com/gag/azxeyLN)
+ - 😝 [Wholesome neighbor just wanted a brother](http://9gag.com/gag/amogQAd)
+ - 👉 [He needs that Disney cash](http://9gag.com/gag/avyAqZq)<!-- MEMES:END -->
 
 ---
 

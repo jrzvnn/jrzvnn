@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [So satisfying](http://9gag.com/gag/aD2Drow)
- - 😝 [And don&#39;t get me started on Pedro Pascal...](http://9gag.com/gag/avyAB4X)
- - 💣 [277](http://9gag.com/gag/aAyGqKg)
+ - 😝 [Coca Cola replaced their artists with AI and couldn&#39;t even get their logo right.](http://9gag.com/gag/aW4gPE2)
  - 😝 [He needs that Disney cash](http://9gag.com/gag/avyAqZq)
- - 👉 [Oh, how the turned tables](http://9gag.com/gag/aBynMDZ)<!-- MEMES:END -->
+ - 💣 [And don&#39;t get me started on Pedro Pascal...](http://9gag.com/gag/avyAB4X)
+ - 😝 [So satisfying](http://9gag.com/gag/aD2Drow)
+ - 👉 [Birth control ad](http://9gag.com/gag/azxeyLN)<!-- MEMES:END -->
 
 ---
 

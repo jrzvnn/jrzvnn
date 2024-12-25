@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Scientifically Accurate Philosoraptor](http://9gag.com/gag/aGyzrYX)
- - 😝 [*sad gamer noises*](http://9gag.com/gag/adBgW9Z)
- - 💣 [Title](http://9gag.com/gag/avyABVb)
+ - 😝 [Three Japanese car manufacturers are getting together.](http://9gag.com/gag/agmgZRr)
+ - 😝 [Guatemalan authorities rescue 160 children from Jewish Lev Tahor sect...](http://9gag.com/gag/aGyzoLK)
+ - 💣 [Honey Founders George Ruan, Ryan Hudson. Honey has been scamming people for millions of dollars. Mama Mia](http://9gag.com/gag/amogb6j)
  - 😝 [We all have a party legend in your squad! \ud83c\udf84\ud83c\udfb6 Turn up the new WoT Blitz x deadmau5 track Familiars while you hit different on the battlefield this Xmas!](http://9gag.com/gag/aE08ymo)
- - 👉 [Burn](http://9gag.com/gag/avyAXLZ)<!-- MEMES:END -->
+ - 👉 [Hmm](http://9gag.com/gag/arynDe0)<!-- MEMES:END -->
 
 ---
 

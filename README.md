@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Coca Cola replaced their artists with AI and couldn&#39;t even get their logo right.](http://9gag.com/gag/aW4gPE2)
- - 😝 [So satisfying](http://9gag.com/gag/aD2Drow)
- - 💣 [Every night](http://9gag.com/gag/aZZro46)
- - 😝 [Merry Christmas you filthy animals.](http://9gag.com/gag/aBynNGZ)
- - 👉 [And don&#39;t get me started on Pedro Pascal...](http://9gag.com/gag/avyAB4X)<!-- MEMES:END -->
+ - 😝 [I&#39;m changing my phone plan](http://9gag.com/gag/a2v1A0Z)
+ - 😝 [2005](http://9gag.com/gag/a341D2e)
+ - 💣 [Sometimes what you see isn&#39;t always the truth](http://9gag.com/gag/aBynz8P)
+ - 😝 [Burn](http://9gag.com/gag/avyAXLZ)
+ - 👉 [Raycism protects](http://9gag.com/gag/aD2Dry7)<!-- MEMES:END -->
 
 ---
 

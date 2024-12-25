@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Stroganina is a dish of the indigenous people of northern Arctic Siberia consisting of raw, thin, long-sliced frozen fish](http://9gag.com/gag/a0eZgvv)
- - 😝 [Someone has to tell you: WD 40 is not for what you think it is.](http://9gag.com/gag/aXPrQYV)
- - 💣 [And don&#39;t get me started on Pedro Pascal...](http://9gag.com/gag/avyAB4X)
- - 😝 [Shrapnel marks on crashed airplane](http://9gag.com/gag/amogwBv)
- - 👉 [Haters gonna say it\u2019s fake.](http://9gag.com/gag/aQzX5qq)<!-- MEMES:END -->
+ - 😝 [Remember your training](http://9gag.com/gag/aoyg6Ge)
+ - 😝 [Can i raise two hands for double agreement?](http://9gag.com/gag/agmgwrn)
+ - 💣 [Wanna know why they call &#39;em hurricanes after chicks?](http://9gag.com/gag/a7o1X7A)
+ - 😝 [Post title](http://9gag.com/gag/awyz21r)
+ - 👉 [All coincidences with real people are random](http://9gag.com/gag/aZZr5v0)<!-- MEMES:END -->
 
 ---
 

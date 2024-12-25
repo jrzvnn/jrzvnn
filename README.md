@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Poland. At night, two masked men broke into the office on Rydla Street in Szczecin and for almost a minute they tried to break the glass in the cash register window with hammers.](http://9gag.com/gag/aGyzqBG)
- - 😝 [If not dangerous why unfriendly-shaped?](http://9gag.com/gag/aQzXDdW)
- - 💣 [Someone has to tell you: WD 40 is not for what you think it is.](http://9gag.com/gag/aXPrQYV)
- - 😝 [Fathers, Mothers, Sons, Daughters, Brothers, Sisters, Families, Friends, Neighbors\u2026](http://9gag.com/gag/agmgpDv)
- - 👉 [Wild wild west](http://9gag.com/gag/a871NmO)<!-- MEMES:END -->
+ - 😝 [Stroganina is a dish of the indigenous people of northern Arctic Siberia consisting of raw, thin, long-sliced frozen fish](http://9gag.com/gag/a0eZgvv)
+ - 😝 [Someone has to tell you: WD 40 is not for what you think it is.](http://9gag.com/gag/aXPrQYV)
+ - 💣 [And don&#39;t get me started on Pedro Pascal...](http://9gag.com/gag/avyAB4X)
+ - 😝 [Shrapnel marks on crashed airplane](http://9gag.com/gag/amogwBv)
+ - 👉 [Haters gonna say it\u2019s fake.](http://9gag.com/gag/aQzX5qq)<!-- MEMES:END -->
 
 ---
 

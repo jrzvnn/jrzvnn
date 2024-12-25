@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Three Japanese car manufacturers are getting together.](http://9gag.com/gag/agmgZRr)
  - 😝 [If not dangerous why unfriendly-shaped?](http://9gag.com/gag/aQzXDdW)
- - 💣 [Honey Founders George Ruan, Ryan Hudson. Honey has been scamming people for millions of dollars. Mama Mia](http://9gag.com/gag/amogb6j)
+ - 😝 [Guatemalan authorities rescue 160 children from Jewish Lev Tahor sect...](http://9gag.com/gag/aGyzoLK)
+ - 💣 [Is he sad or happy](http://9gag.com/gag/aXPrdWV)
  - 😝 [We all have a party legend in your squad! \ud83c\udf84\ud83c\udfb6 Turn up the new WoT Blitz x deadmau5 track Familiars while you hit different on the battlefield this Xmas!](http://9gag.com/gag/aE08ymo)
- - 👉 [Always pays off](http://9gag.com/gag/aGyzo50)<!-- MEMES:END -->
+ - 👉 [Just casually transferring $20k from bank to machine in casino to enable gambling addiction.](http://9gag.com/gag/ajPg3Nx)<!-- MEMES:END -->
 
 ---
 

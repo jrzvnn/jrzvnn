@@ -166,8 +166,8 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [Technically UFO](http://9gag.com/gag/aAyGA20)
  - 😝 [Wholesome neighbor just wanted a brother](http://9gag.com/gag/amogQAd)
- - 😝 [Burn](http://9gag.com/gag/avyAXLZ)
  - 💣 [Repeat shoplifters in California learn the hard way that new law Prop. 36 is now in effect.](http://9gag.com/gag/aRBrNvG)
  - 😝 [Does in winter\ud83d\ude02](http://9gag.com/gag/aKGmXXN)
  - 👉 [Sometimes what you see isn&#39;t always the truth](http://9gag.com/gag/aBynz8P)<!-- MEMES:END -->

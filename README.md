@@ -159,9 +159,9 @@ R                        1 repo              ░░░░░░░░░░░�
 <!-- TECH:START -->
  - [Benchmarking AMD&#39;s MI300X and Nvidia&#39;s H100 and H200; in theory, AMD&#39;s GPU has advantages in specs and Total Cost of Ownership, but software bugs hold it back &lpar;Dylan Patel/SemiAnalysis&rpar;](http://www.techmeme.com/241225/p6#a241225p6)
  - [Give Your Social Health a Decent Workout](https://www.wired.com/story/social-health-relationships-community/)
- - [Best Internet Providers in Reading, Pennsylvania](https://www.cnet.com/home/internet/best-internet-providers-in-reading-pa/#ftag=CAD590a51e)
  - [Lowest price: Apple&#39;s M4 Mac mini with 512GB storage dips to $699](https://appleinsider.com/articles/24/12/25/lowest-price-apples-m4-mac-mini-with-512gb-storage-dips-to-699?utm_medium=rss)
- - [Best King-Size Mattresses for 2024, Tested and Reviewed by CNET’s Sleep Experts](https://www.cnet.com/health/sleep/best-king-mattress/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Sephora Promo Codes and Deals: Save Up to 50%](https://www.wired.com/story/sephora-promo-code/)
+ - [Kaiko: the share of BTC-USD trades in US market hours has now climbed to ~53% from 40% in 2021, with crypto liquidity back at levels seen before FTX&#39;s collapse &lpar;Sidhartha Shukla/Bloomberg&rpar;](http://www.techmeme.com/241225/p5#a241225p5)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

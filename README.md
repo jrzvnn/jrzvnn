@@ -167,10 +167,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [Fathers, Mothers, Sons, Daughters, Brothers, Sisters, Families, Friends, Neighbors\u2026](http://9gag.com/gag/agmgpDv)
- - 😝 [And don&#39;t get me started on Pedro Pascal...](http://9gag.com/gag/avyAB4X)
- - 💣 [Coca Cola replaced their artists with AI and couldn&#39;t even get their logo right.](http://9gag.com/gag/aW4gPE2)
- - 😝 [Every night](http://9gag.com/gag/aZZro46)
- - 👉 [New video from Azerbaijani Airlines plane crash site by Azerbaijani source showing shrapnel damage everywhere.](http://9gag.com/gag/aYQr5Em)<!-- MEMES:END -->
+ - 😝 [Wild wild west](http://9gag.com/gag/a871NmO)
+ - 💣 [Woke](http://9gag.com/gag/aGyz6dw)
+ - 😝 [277](http://9gag.com/gag/aAyGqKg)
+ - 👉 [Someone has to tell you: WD 40 is not for what you think it is.](http://9gag.com/gag/aXPrQYV)<!-- MEMES:END -->
 
 ---
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Woke](http://9gag.com/gag/aGyz6dw)
- - 😝 [Someone has to tell you: WD 40 is not for what you think it is.](http://9gag.com/gag/aXPrQYV)
- - 💣 [Are we there yet?](http://9gag.com/gag/aW4gNQA)
+ - 😝 [Scientifically Accurate Philosoraptor](http://9gag.com/gag/aGyzrYX)
+ - 😝 [*sad gamer noises*](http://9gag.com/gag/adBgW9Z)
+ - 💣 [Burn](http://9gag.com/gag/avyAXLZ)
  - 😝 [We all have a party legend in your squad! \ud83c\udf84\ud83c\udfb6 Turn up the new WoT Blitz x deadmau5 track Familiars while you hit different on the battlefield this Xmas!](http://9gag.com/gag/aE08ymo)
- - 👉 [277](http://9gag.com/gag/aAyGqKg)<!-- MEMES:END -->
+ - 👉 [I&#39;m changing my phone plan](http://9gag.com/gag/a2v1A0Z)<!-- MEMES:END -->
 
 ---
 

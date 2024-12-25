@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [If not dangerous why unfriendly-shaped?](http://9gag.com/gag/aQzXDdW)
- - 😝 [Guatemalan authorities rescue 160 children from Jewish Lev Tahor sect...](http://9gag.com/gag/aGyzoLK)
- - 💣 [Is he sad or happy](http://9gag.com/gag/aXPrdWV)
+ - 😝 [Penguins.... are not actually Penguins.](http://9gag.com/gag/an7gW3B)
+ - 😝 [#NeverForget](http://9gag.com/gag/aVvxded)
+ - 💣 [`You&#39;ve trespassed into the library`](http://9gag.com/gag/abAgdgp)
  - 😝 [We all have a party legend in your squad! \ud83c\udf84\ud83c\udfb6 Turn up the new WoT Blitz x deadmau5 track Familiars while you hit different on the battlefield this Xmas!](http://9gag.com/gag/aE08ymo)
- - 👉 [Just casually transferring $20k from bank to machine in casino to enable gambling addiction.](http://9gag.com/gag/ajPg3Nx)<!-- MEMES:END -->
+ - 👉 [Guatemalan authorities rescue 160 children from Jewish Lev Tahor sect...](http://9gag.com/gag/aGyzoLK)<!-- MEMES:END -->
 
 ---
 

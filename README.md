@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [What podcasts looked like in 2024 — literally](https://www.theverge.com/24302894/podcasts-video-youtube-2024-trends-tiktok-instagram)
+ - [Best Peloton Alternatives for 2024](https://www.cnet.com/health/fitness/best-peloton-alternative/#ftag=CAD590a51e)
  - [A look at the more challenging AI evaluations emerging in response to the rapid progress of models, including FrontierMath, Humanity&#39;s Last Exam, and RE-Bench &lpar;Tharin Pillay/Time&rpar;](http://www.techmeme.com/241225/p8#a241225p8)
  - [How we work: Malcolm Owen&#39;s sprawling setup](https://appleinsider.com/articles/24/12/25/how-we-work-malcolm-owens-sprawling-setup?utm_medium=rss)
- - [2024 has been an amazing year for roguelikes](https://www.theverge.com/24312434/best-roguelikes-2024-balatro-hades-2-prince-of-persia)
- - [11 Best Beard Trimmers &lpar;2024&rpar;: Full Beards, Hair, Stubble](https://www.wired.com/gallery/best-beard-trimmers/)
- - [Taiwan&#39;s FTC blocks Uber&#39;s $950M acquisition of Delivery Hero&#39;s Foodpanda, arguing it would decrease competition as their combined market share would be 90%+ &lpar;Bloomberg&rpar;](http://www.techmeme.com/241225/p7#a241225p7)<!-- TECH:END -->
+ - [Chiefs vs. Steelers: How to Watch NFL on Netflix Today](https://www.cnet.com/tech/services-and-software/chiefs-vs-steelers-how-to-watch-nfl-on-netflix-today/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

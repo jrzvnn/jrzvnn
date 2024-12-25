@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Sht goes from 0 to 100 real quick](http://9gag.com/gag/aKGmXv6)
- - 😝 [Hmm](http://9gag.com/gag/arynDe0)
- - 💣 [Just casually transferring $20k from bank to machine in casino to enable gambling addiction.](http://9gag.com/gag/ajPg3Nx)
- - 😝 [He needs that Disney cash](http://9gag.com/gag/avyAqZq)
- - 👉 [If not dangerous why unfriendly-shaped?](http://9gag.com/gag/aQzXDdW)<!-- MEMES:END -->
+ - 😝 [Ants solving a puzzle](http://9gag.com/gag/a2v1gVZ)
+ - 😝 [Honey Founders George Ruan, Ryan Hudson. Honey has been scamming people for millions of dollars. Mama Mia](http://9gag.com/gag/amogb6j)
+ - 💣 [So satisfying](http://9gag.com/gag/aD2Drow)
+ - 😝 [Merry Christmas you filthy animals.](http://9gag.com/gag/aBynNGZ)
+ - 👉 [He needs that Disney cash](http://9gag.com/gag/avyAqZq)<!-- MEMES:END -->
 
 ---
 

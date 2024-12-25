@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Bro went nuclear on her](http://9gag.com/gag/aYQrB42)
- - 😝 [Remember your training](http://9gag.com/gag/aoyg6Ge)
- - 💣 [Can i raise two hands for double agreement?](http://9gag.com/gag/agmgwrn)
- - 😝 [Wanna know why they call &#39;em hurricanes after chicks?](http://9gag.com/gag/a7o1X7A)
- - 👉 [Building this is not as fast as it looks](http://9gag.com/gag/avyAwDO)<!-- MEMES:END -->
+ - 😝 [Sick, insecure, toxic woman berates, curses at, and assaults a man onboard a plane](http://9gag.com/gag/aZZrKo3)
+ - 😝 [Birth control ad](http://9gag.com/gag/azxeyLN)
+ - 💣 [And don&#39;t get me started on Pedro Pascal...](http://9gag.com/gag/avyAB4X)
+ - 😝 [Fathers, Mothers, Sons, Daughters, Brothers, Sisters, Families, Friends, Neighbors\u2026](http://9gag.com/gag/agmgpDv)
+ - 👉 [Woke](http://9gag.com/gag/aGyz6dw)<!-- MEMES:END -->
 
 ---
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [Birth control ad](http://9gag.com/gag/azxeyLN)
+ - 😝 [Flight survivors](http://9gag.com/gag/aZZrX26)
+ - 💣 [Coca Cola replaced their artists with AI and couldn&#39;t even get their logo right.](http://9gag.com/gag/aW4gPE2)
  - 😝 [Fathers, Mothers, Sons, Daughters, Brothers, Sisters, Families, Friends, Neighbors\u2026](http://9gag.com/gag/agmgpDv)
- - 😝 [Sht goes from 0 to 100 real quick](http://9gag.com/gag/aKGmXv6)
- - 💣 [Birth control ad](http://9gag.com/gag/azxeyLN)
- - 😝 [Wholesome neighbor just wanted a brother](http://9gag.com/gag/amogQAd)
- - 👉 [He needs that Disney cash](http://9gag.com/gag/avyAqZq)<!-- MEMES:END -->
+ - 👉 [Wholesome neighbor just wanted a brother](http://9gag.com/gag/amogQAd)<!-- MEMES:END -->
 
 ---
 

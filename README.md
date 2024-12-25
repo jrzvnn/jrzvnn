@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [277](http://9gag.com/gag/aAyGqKg)
- - 😝 [And don&#39;t get me started on Pedro Pascal...](http://9gag.com/gag/avyAB4X)
- - 💣 [Merry Christmas you filthy animals.](http://9gag.com/gag/aBynNGZ)
- - 😝 [*sad gamer noises*](http://9gag.com/gag/adBgW9Z)
- - 👉 [If not dangerous why unfriendly-shaped?](http://9gag.com/gag/aQzXDdW)<!-- MEMES:END -->
+ - 😝 [Merry Christmas you filthy animals.](http://9gag.com/gag/aBynNGZ)
+ - 😝 [Honey Founders George Ruan, Ryan Hudson. Honey has been scamming people for millions of dollars. Mama Mia](http://9gag.com/gag/amogb6j)
+ - 💣 [So satisfying](http://9gag.com/gag/aD2Drow)
+ - 😝 [Sht goes from 0 to 100 real quick](http://9gag.com/gag/aKGmXv6)
+ - 👉 [Woke](http://9gag.com/gag/aGyz6dw)<!-- MEMES:END -->
 
 ---
 

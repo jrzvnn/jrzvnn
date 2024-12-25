@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Three Japanese car manufacturers are getting together.](http://9gag.com/gag/agmgZRr)
- - 😝 [Guatemalan authorities rescue 160 children from Jewish Lev Tahor sect...](http://9gag.com/gag/aGyzoLK)
+ - 😝 [Woke](http://9gag.com/gag/aGyz6dw)
+ - 😝 [So satisfying](http://9gag.com/gag/aD2Drow)
  - 💣 [Honey Founders George Ruan, Ryan Hudson. Honey has been scamming people for millions of dollars. Mama Mia](http://9gag.com/gag/amogb6j)
  - 😝 [We all have a party legend in your squad! \ud83c\udf84\ud83c\udfb6 Turn up the new WoT Blitz x deadmau5 track Familiars while you hit different on the battlefield this Xmas!](http://9gag.com/gag/aE08ymo)
- - 👉 [Hmm](http://9gag.com/gag/arynDe0)<!-- MEMES:END -->
+ - 👉 [And don&#39;t get me started on Pedro Pascal...](http://9gag.com/gag/avyAB4X)<!-- MEMES:END -->
 
 ---
 

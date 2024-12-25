@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Birth control ad](http://9gag.com/gag/azxeyLN)
- - 😝 [Flight survivors](http://9gag.com/gag/aZZrX26)
- - 💣 [Coca Cola replaced their artists with AI and couldn&#39;t even get their logo right.](http://9gag.com/gag/aW4gPE2)
- - 😝 [Fathers, Mothers, Sons, Daughters, Brothers, Sisters, Families, Friends, Neighbors\u2026](http://9gag.com/gag/agmgpDv)
- - 👉 [Wholesome neighbor just wanted a brother](http://9gag.com/gag/amogQAd)<!-- MEMES:END -->
+ - 😝 [If not dangerous why unfriendly-shaped?](http://9gag.com/gag/aQzXDdW)
+ - 😝 [Three Japanese car manufacturers are getting together.](http://9gag.com/gag/agmgZRr)
+ - 💣 [So satisfying](http://9gag.com/gag/aD2Drow)
+ - 😝 [And don&#39;t get me started on Pedro Pascal...](http://9gag.com/gag/avyAB4X)
+ - 👉 [Fathers, Mothers, Sons, Daughters, Brothers, Sisters, Families, Friends, Neighbors\u2026](http://9gag.com/gag/agmgpDv)<!-- MEMES:END -->
 
 ---
 

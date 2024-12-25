@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [277](http://9gag.com/gag/aAyGqKg)
- - 😝 [Just casually transferring $20k from bank to machine in casino to enable gambling addiction.](http://9gag.com/gag/ajPg3Nx)
+ - 😝 [Sht goes from 0 to 100 real quick](http://9gag.com/gag/aKGmXv6)
+ - 😝 [And don&#39;t get me started on Pedro Pascal...](http://9gag.com/gag/avyAB4X)
  - 💣 [Three Japanese car manufacturers are getting together.](http://9gag.com/gag/agmgZRr)
- - 😝 [Merry Christmas you filthy animals.](http://9gag.com/gag/aBynNGZ)
- - 👉 [He needs that Disney cash](http://9gag.com/gag/avyAqZq)<!-- MEMES:END -->
+ - 😝 [277](http://9gag.com/gag/aAyGqKg)
+ - 👉 [Birth control ad](http://9gag.com/gag/azxeyLN)<!-- MEMES:END -->
 
 ---
 

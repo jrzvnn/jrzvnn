@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Ants solving a puzzle](http://9gag.com/gag/a2v1gVZ)
- - 😝 [Honey Founders George Ruan, Ryan Hudson. Honey has been scamming people for millions of dollars. Mama Mia](http://9gag.com/gag/amogb6j)
- - 💣 [So satisfying](http://9gag.com/gag/aD2Drow)
- - 😝 [Merry Christmas you filthy animals.](http://9gag.com/gag/aBynNGZ)
- - 👉 [He needs that Disney cash](http://9gag.com/gag/avyAqZq)<!-- MEMES:END -->
+ - 😝 [He needs that Disney cash](http://9gag.com/gag/avyAqZq)
+ - 😝 [277](http://9gag.com/gag/aAyGqKg)
+ - 💣 [If not dangerous why unfriendly-shaped?](http://9gag.com/gag/aQzXDdW)
+ - 😝 [Birth control ad](http://9gag.com/gag/azxeyLN)
+ - 👉 [Hmm](http://9gag.com/gag/arynDe0)<!-- MEMES:END -->
 
 ---
 

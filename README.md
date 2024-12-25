@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Analysis: roughly two-thirds of 39 public digital health companies have lost value in 2024, while the Nasdaq is up 32% &lpar;Ashley Capoot/CNBC&rpar;](http://www.techmeme.com/241225/p11#a241225p11)
  - [Best Internet Providers in Santa Clara, California](https://www.cnet.com/home/internet/best-internet-providers-in-santa-clara-ca/#ftag=CAD590a51e)
  - [Analysis: Coinbase International saw its total trading volume grow 124% week-over-week to $119B+ this past week; it averaged just $2.5B per day in November 2024 &lpar;The Block&rpar;](http://www.techmeme.com/241225/p10#a241225p10)
  - [Snag an M4 MacBook Pro 14-inch for $1,399 with free next day delivery](https://appleinsider.com/articles/24/12/25/snag-an-m4-macbook-pro-14-inch-for-1399-with-free-next-day-delivery?utm_medium=rss)
- - [Best Internet Providers in Round Rock, Texas](https://www.cnet.com/home/internet/best-internet-providers-in-round-rock-tx/#ftag=CAD590a51e)
- - [Chiefs vs. Steelers: How to Watch the NFL on Netflix Today](https://www.cnet.com/tech/services-and-software/chiefs-vs-steelers-how-to-watch-the-nfl-on-netflix-today/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Best Internet Providers in Round Rock, Texas](https://www.cnet.com/home/internet/best-internet-providers-in-round-rock-tx/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

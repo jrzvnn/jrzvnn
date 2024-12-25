@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Always pays off](http://9gag.com/gag/aGyzo50)
- - 😝 [So satisfying](http://9gag.com/gag/aD2Drow)
- - 💣 [A fireball was filmed falling in the sky over Kagoshima, Japan.](http://9gag.com/gag/ayN9VZV)
+ - 😝 [Drone with the wind!](http://9gag.com/gag/aBynN6O)
+ - 😝 [A fireball was filmed falling in the sky over Kagoshima, Japan.](http://9gag.com/gag/ayN9VZV)
+ - 💣 [Honey Founders George Ruan, Ryan Hudson. Honey has been scamming people for millions of dollars. Mama Mia](http://9gag.com/gag/amogb6j)
  - 😝 [We all have a party legend in your squad! \ud83c\udf84\ud83c\udfb6 Turn up the new WoT Blitz x deadmau5 track Familiars while you hit different on the battlefield this Xmas!](http://9gag.com/gag/aE08ymo)
- - 👉 [Honey Founders George Ruan, Ryan Hudson. Honey has been scamming people for millions of dollars. Mama Mia](http://9gag.com/gag/amogb6j)<!-- MEMES:END -->
+ - 👉 [And don&#39;t get me started on Pedro Pascal...](http://9gag.com/gag/avyAB4X)<!-- MEMES:END -->
 
 ---
 

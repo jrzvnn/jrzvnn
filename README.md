@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Merry Christmas, from the entire AppleInsider team](https://appleinsider.com/articles/24/12/24/merry-christmas-from-the-entire-appleinsider-team?utm_medium=rss)
- - [Sources: Founders Fund seeks ~$3B for its third growth equity fund; it raised $3.4B for its second growth fund and $1.8B for its eighth early-stage fund in 2022 &lpar;Dan Primack/Axios&rpar;](http://www.techmeme.com/241224/p21#a241224p21)
- - [Best Internet Providers in Parma, Ohio](https://www.cnet.com/home/internet/best-internet-providers-in-parma-oh/#ftag=CAD590a51e)
- - [Best Internet Providers in North Carolina](https://www.cnet.com/home/internet/best-internet-providers-in-north-carolina/#ftag=CAD590a51e)
- - [Best Internet Providers in Arlington, Virginia](https://www.cnet.com/home/internet/best-internet-providers-in-arlington-va/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [A look at OpenAI&#39;s interest in humanoid robots, from investing in startups like Figure and Physical Intelligence to, sources say, considering making one itself &lpar;The Information&rpar;](http://www.techmeme.com/241224/p22#a241224p22)
+ - [Best Reusable Water Bottles in 2024](https://www.cnet.com/health/best-water-bottle/#ftag=CAD590a51e)
+ - [Best Smart Ovens of 2024](https://www.cnet.com/home/kitchen-and-household/best-smart-ovens/#ftag=CAD590a51e)
+ - [Best Clothing Subscription Boxes for 2024](https://www.cnet.com/tech/services-and-software/best-clothing-subscription-boxes/#ftag=CAD590a51e)
+ - [Merry Christmas, from the entire AppleInsider team](https://appleinsider.com/articles/24/12/24/merry-christmas-from-the-entire-appleinsider-team?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

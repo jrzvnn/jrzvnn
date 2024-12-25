@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Sht goes from 0 to 100 real quick](http://9gag.com/gag/aKGmXv6)
- - 😝 [And don&#39;t get me started on Pedro Pascal...](http://9gag.com/gag/avyAB4X)
- - 💣 [Three Japanese car manufacturers are getting together.](http://9gag.com/gag/agmgZRr)
+ - 😝 [Fathers, Mothers, Sons, Daughters, Brothers, Sisters, Families, Friends, Neighbors\u2026](http://9gag.com/gag/agmgpDv)
+ - 😝 [Hmm](http://9gag.com/gag/arynDe0)
+ - 💣 [So satisfying](http://9gag.com/gag/aD2Drow)
  - 😝 [277](http://9gag.com/gag/aAyGqKg)
- - 👉 [Birth control ad](http://9gag.com/gag/azxeyLN)<!-- MEMES:END -->
+ - 👉 [And don&#39;t get me started on Pedro Pascal...](http://9gag.com/gag/avyAB4X)<!-- MEMES:END -->
 
 ---
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Every night](http://9gag.com/gag/aZZro46)
- - 😝 [And don&#39;t get me started on Pedro Pascal...](http://9gag.com/gag/avyAB4X)
- - 💣 [Penguins.... are not actually Penguins.](http://9gag.com/gag/an7gW3B)
- - 😝 [We all have a party legend in your squad! \ud83c\udf84\ud83c\udfb6 Turn up the new WoT Blitz x deadmau5 track Familiars while you hit different on the battlefield this Xmas!](http://9gag.com/gag/aE08ymo)
- - 👉 [Honey Founders George Ruan, Ryan Hudson. Honey has been scamming people for millions of dollars. Mama Mia](http://9gag.com/gag/amogb6j)<!-- MEMES:END -->
+ - 😝 [Coca Cola replaced their artists with AI and couldn&#39;t even get their logo right.](http://9gag.com/gag/aW4gPE2)
+ - 😝 [So satisfying](http://9gag.com/gag/aD2Drow)
+ - 💣 [Every night](http://9gag.com/gag/aZZro46)
+ - 😝 [Merry Christmas you filthy animals.](http://9gag.com/gag/aBynNGZ)
+ - 👉 [And don&#39;t get me started on Pedro Pascal...](http://9gag.com/gag/avyAB4X)<!-- MEMES:END -->
 
 ---
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [AppLovin was 2024&#39;s top performing US tech stock, up 758% as of December 24, MicroStrategy was the second top performing, up 467%; Palantir was third, up 380% &lpar;Ari Levy/CNBC&rpar;](http://www.techmeme.com/241226/p2#a241226p2)
  - [Dyson Promo Code: 20% + Up to $300 Off](https://www.wired.com/story/dyson-cordless-vacuum-promo-code/)
- - [Purple Plus Mattress Review 2024: Purple&#39;s Entry-Level Side Sleeper Mattress](https://www.cnet.com/health/sleep/purple-plus-mattress-review/#ftag=CAD590a51e)
- - [Best Standing Desks of 2024](https://www.cnet.com/news/best-standing-desk/#ftag=CAD590a51e)
  - [Best Queen Mattress for 2024: Expert Tested and Approved](https://www.cnet.com/health/sleep/best-queen-mattress/#ftag=CAD590a51e)
- - [Best Internet Providers in Salem, Oregon](https://www.cnet.com/home/internet/best-internet-providers-in-salem-or/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Best Internet Providers in Salem, Oregon](https://www.cnet.com/home/internet/best-internet-providers-in-salem-or/#ftag=CAD590a51e)
+ - [Japan Airlines halts ticket sales after a cyberattack hit its network equipment, causing delays to more than 40 flights and says flight safety was not impacted &lpar;New York Times&rpar;](http://www.techmeme.com/241226/p1#a241226p1)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

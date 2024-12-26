@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Remember your training](http://9gag.com/gag/aoyg6Ge)
- - 😝 [Post title](http://9gag.com/gag/awyz21r)
- - 💣 [Wanna know why they call &#39;em hurricanes after chicks?](http://9gag.com/gag/a7o1X7A)
- - 😝 [All coincidences with real people are random](http://9gag.com/gag/aZZr5v0)
- - 👉 [Happy holidays snowflakes](http://9gag.com/gag/aE0851M)<!-- MEMES:END -->
+ - 😝 [He needs that Disney cash](http://9gag.com/gag/avyAqZq)
+ - 😝 [Fathers, Mothers, Sons, Daughters, Brothers, Sisters, Families, Friends, Neighbors\u2026](http://9gag.com/gag/agmgpDv)
+ - 💣 [I need an explanation to increase my weird knowledge](http://9gag.com/gag/aBynbEz)
+ - 😝 [Sick, insecure, toxic woman berates, curses at, and assaults a man onboard a plane](http://9gag.com/gag/aZZrKo3)
+ - 👉 [Birth control ad](http://9gag.com/gag/azxeyLN)<!-- MEMES:END -->
 
 ---
 

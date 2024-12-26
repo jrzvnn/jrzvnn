@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Extended: grab Apple&#39;s M4 Pro MacBook Pro for $1,699 for 2 days only](https://appleinsider.com/articles/24/12/26/extended-grab-apples-m4-pro-macbook-pro-for-1699-for-2-days-only?utm_medium=rss)
  - [The best smartwatches for Android](https://www.theverge.com/23449363/best-android-smartwatches-wear-os)
  - [Tech lobbyists see new opportunities to expand access to high-skilled H-1B visas and green cards by leveraging the sway of Elon Musk over the GOP &lpar;Brendan Bordelon/Politico&rpar;](http://www.techmeme.com/241226/p16#a241226p16)
  - [A weird Windows 11 bug won’t let some people install any security updates](https://www.theverge.com/2024/12/26/24329779/windows-11-october-november-installer-usb-media-secuity-update-bug)
- - [The best fitness trackers to buy right now](https://www.theverge.com/22985108/best-fitness-tracker)
- - [DeepSeek unveils DeepSeek-V3, a mixture-of-experts model of 671B total parameters, with 37B activated per token, claiming it outperforms top open-source models &lpar;Shubham Sharma/VentureBeat&rpar;](http://www.techmeme.com/241226/p15#a241226p15)<!-- TECH:END -->
+ - [The best fitness trackers to buy right now](https://www.theverge.com/22985108/best-fitness-tracker)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

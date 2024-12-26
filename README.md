@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Remember your training](http://9gag.com/gag/aoyg6Ge)
- - 😝 [Wanna know why they call &#39;em hurricanes after chicks?](http://9gag.com/gag/a7o1X7A)
- - 💣 [All coincidences with real people are random](http://9gag.com/gag/aZZr5v0)
- - 😝 [Bro went nuclear on her](http://9gag.com/gag/aYQrB42)
- - 👉 [Happy holidays snowflakes](http://9gag.com/gag/aE0851M)<!-- MEMES:END -->
+ - 😝 [Aussie Car driver use a bike path to call out Cyclists who use the road instead of the bike path.... ...only for those cyclists to arrest him later since they&#39;re police.](http://9gag.com/gag/aPAZLnG)
+ - 😝 [Couple of round seconds](http://9gag.com/gag/aNDPG20)
+ - 💣 [Stroganina is a dish of the indigenous people of northern Arctic Siberia consisting of raw, thin, long-sliced frozen fish](http://9gag.com/gag/a0eZgvv)
+ - 😝 [`Gen-Z entered the workforce chat`](http://9gag.com/gag/aByn51Z)
+ - 👉 [Don&#39;t worry. They both gave her a huge tip.](http://9gag.com/gag/adBgMVd)<!-- MEMES:END -->
 
 ---
 

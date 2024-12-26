@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The Year Villainy Won](https://www.wired.com/story/the-year-villainy-won/)
  - [Beyond Meat Says Being Attacked Has Just Made It Stronger](https://www.wired.com/story/beyond-meat-hits-back-against-the-haters-ethan-brown/)
  - [Italian energy giant Eni launches its HPC6 supercomputer, the most powerful outside the US, costing &amp;euro;100M to build and using 14K AMD GPUs, to find oil and gas &lpar;Malcolm Moore/Financial Times&rpar;](http://www.techmeme.com/241226/p5#a241226p5)
  - [The Year of the AI Election Wasn’t Quite What Everyone Expected](https://www.wired.com/story/the-year-of-the-ai-election-wasnt-quite-what-everyone-expected/)
- - [Best Internet Providers in Raleigh, North Carolina](https://www.cnet.com/home/internet/best-internet-providers-in-raleigh-nc/#ftag=CAD590a51e)
- - [The Worst Hacks of 2024](https://www.wired.com/story/worst-hacks-2024/)<!-- TECH:END -->
+ - [Best Internet Providers in Raleigh, North Carolina](https://www.cnet.com/home/internet/best-internet-providers-in-raleigh-nc/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

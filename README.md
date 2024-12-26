@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Japan Airlines halts ticket sales after a cyberattack hit its network equipment, causing delays to more than 40 flights and says flight safety was not impacted &lpar;New York Times&rpar;](http://www.techmeme.com/241226/p1#a241226p1)
  - [Best Earplugs for Sleeping in 2024](https://www.cnet.com/health/sleep/best-earplugs-for-sleeping/#ftag=CAD590a51e)
  - [Netflix&#39;s first livestream of NFL games solved the major buffering and freezing issues that plagued the Tyson-Paul fight for the most part, after early glitches &lpar;Richard Deitsch/New York Times&rpar;](http://www.techmeme.com/241225/p15#a241225p15)
  - [Today&#39;s NYT Mini Crossword Answers for Thursday, Dec. 26](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-thursday-dec-26/#ftag=CAD590a51e)
- - [Today&#39;s Wordle Hints, Answer and Help for Dec. 26, #1286](https://www.cnet.com/tech/gaming/todays-wordle-hints-answer-and-help-for-dec-26-1286/#ftag=CAD590a51e)
- - [Today&#39;s NYT Strands Hints, Answers and Help for Dec. 26, #298](https://www.cnet.com/tech/gaming/todays-nyt-strands-hints-answers-and-help-for-dec-26-298/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Today&#39;s Wordle Hints, Answer and Help for Dec. 26, #1286](https://www.cnet.com/tech/gaming/todays-wordle-hints-answer-and-help-for-dec-26-1286/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

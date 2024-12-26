@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Typical sibling things.](http://9gag.com/gag/ae9gwOQ)
- - 😝 [Sick, insecure, toxic woman berates, curses at, and assaults a man onboard a plane](http://9gag.com/gag/aZZrKo3)
- - 💣 [There goes all your hard work](http://9gag.com/gag/aPAZ07w)
- - 😝 [Thank You Very Very Much](http://9gag.com/gag/aLnvowv)
- - 👉 [Wild wild west](http://9gag.com/gag/a871NmO)<!-- MEMES:END -->
+ - 😝 [Bro cooked her](http://9gag.com/gag/aByn5gx)
+ - 😝 [Accurate af probably a 9gagger](http://9gag.com/gag/ajPgv0g)
+ - 💣 [Don&#39;t worry. They both gave her a huge tip.](http://9gag.com/gag/adBgMVd)
+ - 😝 [Alex the intelligent one](http://9gag.com/gag/adBgDyN)
+ - 👉 [Honda, Nissan, and Mitsubishi are officially teaming up under a single holding company to tackle global competition. The merger, set to finalize by August 2026](http://9gag.com/gag/a341X7r)<!-- MEMES:END -->
 
 ---
 

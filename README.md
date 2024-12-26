@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Here’s how many people tuned into Netflix’s Christmas Day NFL games](https://www.theverge.com/2024/12/26/24329685/netflix-nfl-christmas-day-games-streaming-numbers)
+ - [Hertz is asking EV renters if they want to keep it, permanently](https://www.theverge.com/2024/12/26/24329874/hertz-ev-tesla-email-sales-offers)
  - [Advantest CEO Doug Lefever, whose company is the largest provider of chip testing machines, on AI chip demand, China, and more; Advantest&#39;s stock is up 95%+ YTD &lpar;Financial Times&rpar;](http://www.techmeme.com/241226/p17#a241226p17)
  - [Extended: grab Apple&#39;s M4 Pro MacBook Pro for $1,699 for 2 days only](https://appleinsider.com/articles/24/12/26/extended-grab-apples-m4-pro-macbook-pro-for-1699-for-2-days-only?utm_medium=rss)
- - [Best Internet Providers in Warren, Michigan](https://www.cnet.com/home/internet/best-internet-providers-in-warren-mi/#ftag=CAD590a51e)
- - [The best smartwatches for Android](https://www.theverge.com/23449363/best-android-smartwatches-wear-os)
- - [Tech lobbyists see new opportunities to expand access to high-skilled H-1B visas and green cards by leveraging the sway of Elon Musk over the GOP &lpar;Brendan Bordelon/Politico&rpar;](http://www.techmeme.com/241226/p16#a241226p16)<!-- TECH:END -->
+ - [Best Internet Providers in Warren, Michigan](https://www.cnet.com/home/internet/best-internet-providers-in-warren-mi/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

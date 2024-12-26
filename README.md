@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Eddy Cue explains why Apple won’t make a search engine](https://www.theverge.com/2024/12/26/24329148/apple-eddy-cue-search-engine-ai-google-doj-antitrust-intervene)
+ - [The 2TB WD_Black C50 expansion card for Xbox Series X/S hits record low $190](https://www.theverge.com/2024/12/26/24329530/western-digital-2tb-wd-black-c50-expansion-card-umbra-cono-smart-lamp-deal-sale)
  - [How H-1B workers from India and other places help the US remain dominant in tech, as some on the new Tech Right discover the racial-nationalist bigotry of MAGA &lpar;Noah Smith/Noahpinion&rpar;](http://www.techmeme.com/241226/p11#a241226p11)
  - [Source: Microsoft and OpenAI wrangle over Microsoft&#39;s stake in the for-profit, use of OpenAI&#39;s IP, continued collection of 20% of OpenAI&#39;s revenue, and more &lpar;The Information&rpar;](http://www.techmeme.com/241226/p10#a241226p10)
- - [LG’s new lamp puts a mini garden inside your home](https://www.theverge.com/2024/12/26/24329562/lg-lamp-indoor-garden)
- - [Is Incogni legit? Find out how to protect your privacy online and avoid scams](https://appleinsider.com/articles/24/12/26/is-incogni-legit-find-out-how-to-protect-your-privacy-online-and-avoid-scams?utm_medium=rss)
- - [The best shows and movies on Netflix in 2024](https://www.theverge.com/24322728/netflix-best-shows-movies-2024-streaming)<!-- TECH:END -->
+ - [LG’s new lamp puts a mini garden inside your home](https://www.theverge.com/2024/12/26/24329562/lg-lamp-indoor-garden)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

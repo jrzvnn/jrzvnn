@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Wild wild west](http://9gag.com/gag/a871NmO)
- - 😝 [Camels can eat cactus but not lemons](http://9gag.com/gag/avyAqGd)
- - 💣 [Am i drunk or Aslan in 2005 looks more realistic than lion king 2024? Probably drunk](http://9gag.com/gag/aYQr0Nm)
- - 😝 [The random crab though](http://9gag.com/gag/a7o1RDx)
- - 👉 [So, where was I\u2026oh yea!](http://9gag.com/gag/a341X8e)<!-- MEMES:END -->
+ - 😝 [Unreal](http://9gag.com/gag/agmgbxK)
+ - 😝 [No audio but still satisfied](http://9gag.com/gag/aqyGMjp)
+ - 💣 [I saw some wild shit as a kid](http://9gag.com/gag/ajPgvyg)
+ - 😝 [Am i drunk or Aslan in 2005 looks more realistic than lion king 2024? Probably drunk](http://9gag.com/gag/aYQr0Nm)
+ - 👉 [She moves like a silkworm](http://9gag.com/gag/a2v1p0Y)<!-- MEMES:END -->
 
 ---
 

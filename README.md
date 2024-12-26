@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Wild wild west](http://9gag.com/gag/a871NmO)
- - 😝 [She moves like a silkworm](http://9gag.com/gag/a2v1p0Y)
- - 💣 [Stroganina is a dish of the indigenous people of northern Arctic Siberia consisting of raw, thin, long-sliced frozen fish](http://9gag.com/gag/a0eZgvv)
- - 😝 [Don&#39;t worry. They both gave her a huge tip.](http://9gag.com/gag/adBgMVd)
- - 👉 [There goes all your hard work](http://9gag.com/gag/aPAZ07w)<!-- MEMES:END -->
+ - 😝 [Interesting](http://9gag.com/gag/a4P1yBy)
+ - 😝 [Thank You Very Very Much](http://9gag.com/gag/aLnvowv)
+ - 💣 [American tourists live streamed &#39;racist Italian boys&#39; because they stopped the women from twerking on historical monument for Tik Tok](http://9gag.com/gag/aKGmMnN)
+ - 😝 [Have a nice day](http://9gag.com/gag/aoyg6E3)
+ - 👉 [Stroganina is a dish of the indigenous people of northern Arctic Siberia consisting of raw, thin, long-sliced frozen fish](http://9gag.com/gag/a0eZgvv)<!-- MEMES:END -->
 
 ---
 

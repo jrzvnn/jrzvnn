@@ -160,8 +160,8 @@ R                        1 repo              ░░░░░░░░░░░�
  - [Microsoft adds Copilot to Microsoft 365 in Australia and Southeast Asia and raises 365&#39;s price, a sign of how it aims to turn a profit from its AI investments &lpar;Tom Dotan/Wall Street Journal&rpar;](http://www.techmeme.com/241226/p14#a241226p14)
  - [Amazon&#39;s after-Christmas sale knocks up to 50% off Apple products](https://appleinsider.com/articles/24/12/26/amazons-after-christmas-sale-knocks-up-to-50-off-apple-products?utm_medium=rss)
  - [How to make iOS 18 Photos work more like it used to](https://appleinsider.com/inside/ios-18/tips/how-to-make-ios-18-photos-work-more-like-it-used-to?utm_medium=rss)
- - [US federal lobbying disclosure forms reveal how Meta, with a team of 14 directly employed lobbyists, led efforts to block the passage of KOSA in Congress &lpar;Ruth Reader/Politico&rpar;](http://www.techmeme.com/241226/p13#a241226p13)
- - [Samsung will let you disable annoyingly-bright HDR content across all apps](https://www.theverge.com/2024/12/26/24329658/samsung-one-ui-7-disable-hdr-setting-bright-videos)<!-- TECH:END -->
+ - [Best Innerspring Mattress in 2024](https://www.cnet.com/health/sleep/best-innerspring-mattress/#ftag=CAD590a51e)
+ - [Best Organic Mattress of 2024](https://www.cnet.com/health/sleep/best-organic-mattress/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

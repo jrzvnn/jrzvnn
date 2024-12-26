@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [It’s Time to Move Past AI Nationalism](https://www.wired.com/story/artificial-intelligence-global-collaboration/)
  - [Squid Game season 2 is a brutal remix of Netflix’s biggest show](https://www.theverge.com/24324173/squid-game-season-2-review-netflix)
  - [Govee Discount Codes and Deals: $5 Off](https://www.wired.com/story/govee-discount-code/)
  - [AppLovin was 2024&#39;s top performing US tech stock, up 758% as of December 24, MicroStrategy was the second top performing, up 467%; Palantir was third, up 380% &lpar;Ari Levy/CNBC&rpar;](http://www.techmeme.com/241226/p2#a241226p2)
- - [Dyson Promo Code: 20% + Up to $300 Off](https://www.wired.com/story/dyson-cordless-vacuum-promo-code/)
- - [Purple Plus Mattress Review 2024: Purple&#39;s Entry-Level Side Sleeper Mattress](https://www.cnet.com/health/sleep/purple-plus-mattress-review/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Dyson Promo Code: 20% + Up to $300 Off](https://www.wired.com/story/dyson-cordless-vacuum-promo-code/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

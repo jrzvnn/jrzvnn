@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Great Christmas](http://9gag.com/gag/aqyGM3v)
- - 😝 [Wild wild west](http://9gag.com/gag/a871NmO)
- - 💣 [Sick, insecure, toxic woman berates, curses at, and assaults a man onboard a plane](http://9gag.com/gag/aZZrKo3)
- - 😝 [She moves like a silkworm](http://9gag.com/gag/a2v1p0Y)
- - 👉 [Interesting](http://9gag.com/gag/a4P1yBy)<!-- MEMES:END -->
+ - 😝 [American tourists live streamed &#39;racist Italian boys&#39; because they stopped the women from twerking on historical monument for Tik Tok](http://9gag.com/gag/aKGmMnN)
+ - 😝 [The key is communication](http://9gag.com/gag/a341OOm)
+ - 💣 [Happy holidays snowflakes](http://9gag.com/gag/aE0851M)
+ - 😝 [Pro](http://9gag.com/gag/aKGmZWb)
+ - 👉 [Wife material](http://9gag.com/gag/axyBwR1)<!-- MEMES:END -->
 
 ---
 

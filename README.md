@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Bluesky adds Trending topics to its arsenal](https://www.theverge.com/2024/12/26/24329549/bluesky-trending-features)
  - [Bluesky launches a Trending Topics feature in beta on its desktop and mobile apps in English, and says users&#39; muted words will transfer to Trending &lpar;Ivan Mehta/TechCrunch&rpar;](http://www.techmeme.com/241226/p7#a241226p7)
  - [How to change what the iPhone 16 Camera Control button does](https://appleinsider.com/inside/iphone/tips/how-to-change-what-the-iphone-16-camera-control-button-does?utm_medium=rss)
  - [Samsung HW-Q990D Review: Atmos Tested, Gamer Approved](https://www.wired.com/review/samsung-hw-q990d/)
- - [Bose SoundLink Home review: a speaker that’s all about looks](https://www.theverge.com/24326228/bose-soundlink-home-speaker-review)
- - [The Best Tested and Reviewed Mesh Wi-Fi Routers of 2024](https://www.wired.com/story/best-mesh-wifi-routers/)<!-- TECH:END -->
+ - [Bose SoundLink Home review: a speaker that’s all about looks](https://www.theverge.com/24326228/bose-soundlink-home-speaker-review)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

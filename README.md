@@ -161,7 +161,7 @@ R                        1 repo              ░░░░░░░░░░░�
  - [Alibaba agrees to merge its South Korean operations with E-Mart&#39;s Gmarket, creating a 50-50 joint venture; sources say the new company could be valued at ~$4B &lpar;Manuel Baigorri/Bloomberg&rpar;](http://www.techmeme.com/241226/p4#a241226p4)
  - [Temu’s Takeover Is Now Complete](https://www.wired.com/story/temus-takeover-is-now-complete/)
  - [An in-depth analysis of 62 AI queries: ChatGPT search beat Google on content gap analysis and disambiguation queries, but Google was better for most searches &lpar;Eric Enge/Search Engine Land&rpar;](http://www.techmeme.com/241226/p3#a241226p3)
- - [It’s Time to Move Past AI Nationalism](https://www.wired.com/story/artificial-intelligence-global-collaboration/)<!-- TECH:END -->
+ - [Best Internet Providers in Roseville, California](https://www.cnet.com/home/internet/best-internet-providers-in-roseville-ca/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

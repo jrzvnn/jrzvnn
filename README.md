@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [China continues to rub Europes face in the grass.](http://9gag.com/gag/aAyG58d)
  - 😝 [No audio but still satisfied](http://9gag.com/gag/aqyGMjp)
- - 💣 [Do you believe in coincidences?](http://9gag.com/gag/ayN9j0X)
+ - 😝 [Interesting](http://9gag.com/gag/a4P1yBy)
+ - 💣 [Camels can eat cactus but not lemons](http://9gag.com/gag/avyAqGd)
  - 😝 [I saw some wild shit as a kid](http://9gag.com/gag/ajPgvyg)
- - 👉 [So, where was I\u2026oh yea!](http://9gag.com/gag/a341X8e)<!-- MEMES:END -->
+ - 👉 [She moves like a silkworm](http://9gag.com/gag/a2v1p0Y)<!-- MEMES:END -->
 
 ---
 

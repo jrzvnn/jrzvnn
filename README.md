@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Fathers, Mothers, Sons, Daughters, Brothers, Sisters, Families, Friends, Neighbors\u2026](http://9gag.com/gag/agmgpDv)
- - 😝 [`Gen-Z entered the workforce chat`](http://9gag.com/gag/aByn51Z)
- - 💣 [Sht goes from 0 to 100 real quick](http://9gag.com/gag/aKGmXv6)
- - 😝 [Thank You Very Very Much](http://9gag.com/gag/aLnvowv)
- - 👉 [I need an explanation to increase my weird knowledge](http://9gag.com/gag/aBynbEz)<!-- MEMES:END -->
+ - 😝 [Oh, how the turned tables](http://9gag.com/gag/aBynMDZ)
+ - 😝 [Sht goes from 0 to 100 real quick](http://9gag.com/gag/aKGmXv6)
+ - 💣 [Thank You Very Very Much](http://9gag.com/gag/aLnvowv)
+ - 😝 [Poland. At night, two masked men broke into the office on Rydla Street in Szczecin and for almost a minute they tried to break the glass in the cash register window with hammers.](http://9gag.com/gag/aGyzqBG)
+ - 👉 [Fish eating another fish causing it&#39;s eye to pop out.](http://9gag.com/gag/a6Z1e8R)<!-- MEMES:END -->
 
 ---
 

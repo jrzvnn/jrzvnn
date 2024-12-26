@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [He needs that Disney cash](http://9gag.com/gag/avyAqZq)
- - 😝 [Wild wild west](http://9gag.com/gag/a871NmO)
- - 💣 [Thank You Very Very Much](http://9gag.com/gag/aLnvowv)
  - 😝 [Stroganina is a dish of the indigenous people of northern Arctic Siberia consisting of raw, thin, long-sliced frozen fish](http://9gag.com/gag/a0eZgvv)
- - 👉 [I need an explanation to increase my weird knowledge](http://9gag.com/gag/aBynbEz)<!-- MEMES:END -->
+ - 😝 [Have a nice day](http://9gag.com/gag/aoyg6E3)
+ - 💣 [I need an explanation to increase my weird knowledge](http://9gag.com/gag/aBynbEz)
+ - 😝 [Mistletoe, not miss a toe](http://9gag.com/gag/an7g0jq)
+ - 👉 [Have not seen the tradition yet. So here you go. Merry Christmas](http://9gag.com/gag/amogynV)<!-- MEMES:END -->
 
 ---
 

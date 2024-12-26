@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Temu’s Takeover Is Now Complete](https://www.wired.com/story/temus-takeover-is-now-complete/)
  - [An in-depth analysis of 62 AI queries: ChatGPT search beat Google on content gap analysis and disambiguation queries, but Google was better for most searches &lpar;Eric Enge/Search Engine Land&rpar;](http://www.techmeme.com/241226/p3#a241226p3)
+ - [Best Internet Providers in Roseville, California](https://www.cnet.com/home/internet/best-internet-providers-in-roseville-ca/#ftag=CAD590a51e)
  - [It’s Time to Move Past AI Nationalism](https://www.wired.com/story/artificial-intelligence-global-collaboration/)
- - [&#39;Squid Game&#39; Season 2 Review: Red Light, Green Light Is Still the Scariest Game](https://www.cnet.com/tech/services-and-software/squid-game-season-2-review-red-light-green-light-is-still-the-scariest-game/#ftag=CAD590a51e)
- - [Squid Game season 2 is a brutal remix of Netflix’s biggest show](https://www.theverge.com/24324173/squid-game-season-2-review-netflix)
- - [Govee Discount Codes and Deals: $5 Off](https://www.wired.com/story/govee-discount-code/)<!-- TECH:END -->
+ - [&#39;Squid Game&#39; Season 2 Review: Red Light, Green Light Is Still the Scariest Game](https://www.cnet.com/tech/services-and-software/squid-game-season-2-review-red-light-green-light-is-still-the-scariest-game/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

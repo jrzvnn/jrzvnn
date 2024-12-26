@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Best Earplugs for Sleeping in 2024](https://www.cnet.com/health/sleep/best-earplugs-for-sleeping/#ftag=CAD590a51e)
  - [Netflix&#39;s first livestream of NFL games solved the major buffering and freezing issues that plagued the Tyson-Paul fight for the most part, after early glitches &lpar;Richard Deitsch/New York Times&rpar;](http://www.techmeme.com/241225/p15#a241225p15)
- - [A look at Toontown Rewritten, an unofficial recreation of Disney&#39;s Toontown Online game that shut down in 2013; Toontown Rewritten now has 10K DAUs and 50K MAUs &lpar;J. Clara Chan/Wired&rpar;](http://www.techmeme.com/241225/p14#a241225p14)
- - [Best Internet Providers in Sebring, Florida](https://www.cnet.com/home/internet/best-internet-providers-in-sebring-fl/#ftag=CAD590a51e)
- - [Examining Biden&#39;s tech legacy and the CHIPS Act, as the White House says $446B has been announced for chips and electronics manufacturing since he took office &lpar;Politico&rpar;](http://www.techmeme.com/241225/p13#a241225p13)
- - [Alibaba&#39;s Qwen unveils QvQ-72B-Preview, an experimental research model focused on &quot;enhancing visual reasoning capabilities&quot;, built upon Qwen2-VL-72B &lpar;Qwen&rpar;](http://www.techmeme.com/241225/p12#a241225p12)<!-- TECH:END -->
+ - [Today&#39;s NYT Mini Crossword Answers for Thursday, Dec. 26](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-thursday-dec-26/#ftag=CAD590a51e)
+ - [Today&#39;s Wordle Hints, Answer and Help for Dec. 26, #1286](https://www.cnet.com/tech/gaming/todays-wordle-hints-answer-and-help-for-dec-26-1286/#ftag=CAD590a51e)
+ - [Today&#39;s NYT Strands Hints, Answers and Help for Dec. 26, #298](https://www.cnet.com/tech/gaming/todays-nyt-strands-hints-answers-and-help-for-dec-26-298/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

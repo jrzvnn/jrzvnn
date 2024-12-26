@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Can i raise two hands for double agreement?](http://9gag.com/gag/agmgwrn)
- - 😝 [Post title](http://9gag.com/gag/awyz21r)
- - 💣 [Wanna know why they call &#39;em hurricanes after chicks?](http://9gag.com/gag/a7o1X7A)
- - 😝 [All coincidences with real people are random](http://9gag.com/gag/aZZr5v0)
- - 👉 [Happy holidays snowflakes](http://9gag.com/gag/aE0851M)<!-- MEMES:END -->
+ - 😝 [Fathers, Mothers, Sons, Daughters, Brothers, Sisters, Families, Friends, Neighbors\u2026](http://9gag.com/gag/agmgpDv)
+ - 😝 [`Gen-Z entered the workforce chat`](http://9gag.com/gag/aByn51Z)
+ - 💣 [Sht goes from 0 to 100 real quick](http://9gag.com/gag/aKGmXv6)
+ - 😝 [Thank You Very Very Much](http://9gag.com/gag/aLnvowv)
+ - 👉 [I need an explanation to increase my weird knowledge](http://9gag.com/gag/aBynbEz)<!-- MEMES:END -->
 
 ---
 

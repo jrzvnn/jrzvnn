@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [I saw some wild shit as a kid](http://9gag.com/gag/ajPgvyg)
- - 😝 [There goes all your hard work](http://9gag.com/gag/aPAZ07w)
- - 💣 [Thank You Very Very Much](http://9gag.com/gag/aLnvowv)
- - 😝 [So, where was I\u2026oh yea!](http://9gag.com/gag/a341X8e)
- - 👉 [Alex the intelligent one](http://9gag.com/gag/adBgDyN)<!-- MEMES:END -->
+ - 😝 [Who&#39;s gonna stop him?](http://9gag.com/gag/aXPr68D)
+ - 😝 [UK is doomed](http://9gag.com/gag/aqyGo4Y)
+ - 💣 [What&#39;s going on here](http://9gag.com/gag/adBgDDd)
+ - 😝 [Haters gonna say it\u2019s fake.](http://9gag.com/gag/aQzX5qq)
+ - 👉 [Mery poppins](http://9gag.com/gag/a341635)<!-- MEMES:END -->
 
 ---
 

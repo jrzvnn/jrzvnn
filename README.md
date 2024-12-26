@@ -166,10 +166,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Aussie Car driver use a bike path to call out Cyclists who use the road instead of the bike path.... ...only for those cyclists to arrest him later since they&#39;re police.](http://9gag.com/gag/aPAZLnG)
- - 😝 [Couple of round seconds](http://9gag.com/gag/aNDPG20)
- - 💣 [Stroganina is a dish of the indigenous people of northern Arctic Siberia consisting of raw, thin, long-sliced frozen fish](http://9gag.com/gag/a0eZgvv)
- - 😝 [`Gen-Z entered the workforce chat`](http://9gag.com/gag/aByn51Z)
+ - 😝 [I saw some wild shit as a kid](http://9gag.com/gag/ajPgvyg)
+ - 😝 [She moves like a silkworm](http://9gag.com/gag/a2v1p0Y)
+ - 💣 [Interesting](http://9gag.com/gag/a4P1yBy)
+ - 😝 [Thank You Very Very Much](http://9gag.com/gag/aLnvowv)
  - 👉 [Don&#39;t worry. They both gave her a huge tip.](http://9gag.com/gag/adBgMVd)<!-- MEMES:END -->
 
 ---

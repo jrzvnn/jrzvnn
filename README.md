@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Oh, how the turned tables](http://9gag.com/gag/aBynMDZ)
- - 😝 [Sht goes from 0 to 100 real quick](http://9gag.com/gag/aKGmXv6)
- - 💣 [Thank You Very Very Much](http://9gag.com/gag/aLnvowv)
- - 😝 [Poland. At night, two masked men broke into the office on Rydla Street in Szczecin and for almost a minute they tried to break the glass in the cash register window with hammers.](http://9gag.com/gag/aGyzqBG)
- - 👉 [Fish eating another fish causing it&#39;s eye to pop out.](http://9gag.com/gag/a6Z1e8R)<!-- MEMES:END -->
+ - 😝 [Remember your training](http://9gag.com/gag/aoyg6Ge)
+ - 😝 [Post title](http://9gag.com/gag/awyz21r)
+ - 💣 [Wanna know why they call &#39;em hurricanes after chicks?](http://9gag.com/gag/a7o1X7A)
+ - 😝 [All coincidences with real people are random](http://9gag.com/gag/aZZr5v0)
+ - 👉 [Happy holidays snowflakes](http://9gag.com/gag/aE0851M)<!-- MEMES:END -->
 
 ---
 

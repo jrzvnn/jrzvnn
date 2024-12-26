@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Remember your training](http://9gag.com/gag/aoyg6Ge)
- - 😝 [Can i raise two hands for double agreement?](http://9gag.com/gag/agmgwrn)
- - 💣 [Wanna know why they call &#39;em hurricanes after chicks?](http://9gag.com/gag/a7o1X7A)
- - 😝 [Post title](http://9gag.com/gag/awyz21r)
- - 👉 [All coincidences with real people are random](http://9gag.com/gag/aZZr5v0)<!-- MEMES:END -->
+ - 😝 [Poland. At night, two masked men broke into the office on Rydla Street in Szczecin and for almost a minute they tried to break the glass in the cash register window with hammers.](http://9gag.com/gag/aGyzqBG)
+ - 😝 [Just casually transferring $20k from bank to machine in casino to enable gambling addiction.](http://9gag.com/gag/ajPg3Nx)
+ - 💣 [Fathers, Mothers, Sons, Daughters, Brothers, Sisters, Families, Friends, Neighbors\u2026](http://9gag.com/gag/agmgpDv)
+ - 😝 [And don&#39;t get me started on Pedro Pascal...](http://9gag.com/gag/avyAB4X)
+ - 👉 [Wild wild west](http://9gag.com/gag/a871NmO)<!-- MEMES:END -->
 
 ---
 

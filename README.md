@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Imagine the employees having to deal with these people daily](http://9gag.com/gag/a5Q1Yvq)
  - 😝 [Stroganina is a dish of the indigenous people of northern Arctic Siberia consisting of raw, thin, long-sliced frozen fish](http://9gag.com/gag/a0eZgvv)
- - 💣 [Wild wild west](http://9gag.com/gag/a871NmO)
- - 😝 [American tourists live streamed &#39;racist Italian boys&#39; because they stopped the women from twerking on historical monument for Tik Tok](http://9gag.com/gag/aKGmMnN)
- - 👉 [He needs that Disney cash](http://9gag.com/gag/avyAqZq)<!-- MEMES:END -->
+ - 😝 [`Gen-Z entered the workforce chat`](http://9gag.com/gag/aByn51Z)
+ - 💣 [Imagine the employees having to deal with these people daily](http://9gag.com/gag/a5Q1Yvq)
+ - 😝 [He needs that Disney cash](http://9gag.com/gag/avyAqZq)
+ - 👉 [American tourists live streamed &#39;racist Italian boys&#39; because they stopped the women from twerking on historical monument for Tik Tok](http://9gag.com/gag/aKGmMnN)<!-- MEMES:END -->
 
 ---
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Interesting](http://9gag.com/gag/a4P1yBy)
+ - 😝 [Typical sibling things.](http://9gag.com/gag/ae9gwOQ)
+ - 😝 [Sick, insecure, toxic woman berates, curses at, and assaults a man onboard a plane](http://9gag.com/gag/aZZrKo3)
+ - 💣 [There goes all your hard work](http://9gag.com/gag/aPAZ07w)
  - 😝 [Thank You Very Very Much](http://9gag.com/gag/aLnvowv)
- - 💣 [American tourists live streamed &#39;racist Italian boys&#39; because they stopped the women from twerking on historical monument for Tik Tok](http://9gag.com/gag/aKGmMnN)
- - 😝 [Have a nice day](http://9gag.com/gag/aoyg6E3)
- - 👉 [Stroganina is a dish of the indigenous people of northern Arctic Siberia consisting of raw, thin, long-sliced frozen fish](http://9gag.com/gag/a0eZgvv)<!-- MEMES:END -->
+ - 👉 [Wild wild west](http://9gag.com/gag/a871NmO)<!-- MEMES:END -->
 
 ---
 

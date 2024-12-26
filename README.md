@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Stroganina is a dish of the indigenous people of northern Arctic Siberia consisting of raw, thin, long-sliced frozen fish](http://9gag.com/gag/a0eZgvv)
+ - 😝 [I saw some wild shit as a kid](http://9gag.com/gag/ajPgvyg)
  - 😝 [There goes all your hard work](http://9gag.com/gag/aPAZ07w)
- - 💣 [I saw some wild shit as a kid](http://9gag.com/gag/ajPgvyg)
- - 😝 [Definitely not](http://9gag.com/gag/aVvx5mK)
- - 👉 [Wild wild west](http://9gag.com/gag/a871NmO)<!-- MEMES:END -->
+ - 💣 [Thank You Very Very Much](http://9gag.com/gag/aLnvowv)
+ - 😝 [So, where was I\u2026oh yea!](http://9gag.com/gag/a341X8e)
+ - 👉 [Alex the intelligent one](http://9gag.com/gag/adBgDyN)<!-- MEMES:END -->
 
 ---
 

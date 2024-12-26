@@ -158,7 +158,7 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- TECH:START -->
  - [The best fitness trackers to buy right now](https://www.theverge.com/22985108/best-fitness-tracker)
- - [DeepSeek unveils DeepSeek-V3, a mixture-of-experts model of 671B total parameters, with 37B activated per token, claiming it outperforms top open-source models &lpar;Shubham Sharma/VentureBeat&rpar;](http://www.techmeme.com/241226/p15#a241226p15)
+ - [DeepSeek unveils DeepSeek-V3, a mixture-of-experts model of 685B total parameters, with 37B activated per token, claiming it outperforms top open-source models &lpar;Shubham Sharma/VentureBeat&rpar;](http://www.techmeme.com/241226/p15#a241226p15)
  - [How we work: William Gallagher&#39;s mess of Mac apps and cables](https://appleinsider.com/articles/24/12/26/how-we-work-william-gallaghers-mess-of-mac-apps-and-cables?utm_medium=rss)
  - [The best deals on MacBooks right now](https://www.theverge.com/22399419/apple-macbook-air-pro-mac-mini-imac-deals)
  - [Apple TV+ has something planned for January 4 &amp; 5](https://appleinsider.com/articles/24/12/26/apple-tv-has-something-planned-for-january-4-5?utm_medium=rss)<!-- TECH:END -->

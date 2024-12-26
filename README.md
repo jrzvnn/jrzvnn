@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Birth control ad](http://9gag.com/gag/azxeyLN)
- - 😝 [I saw some wild shit as a kid](http://9gag.com/gag/ajPgvyg)
- - 💣 [`Gen-Z entered the workforce chat`](http://9gag.com/gag/aByn51Z)
- - 😝 [Stroganina is a dish of the indigenous people of northern Arctic Siberia consisting of raw, thin, long-sliced frozen fish](http://9gag.com/gag/a0eZgvv)
- - 👉 [Interesting](http://9gag.com/gag/a4P1yBy)<!-- MEMES:END -->
+ - 😝 [Remember your training](http://9gag.com/gag/aoyg6Ge)
+ - 😝 [Wanna know why they call &#39;em hurricanes after chicks?](http://9gag.com/gag/a7o1X7A)
+ - 💣 [All coincidences with real people are random](http://9gag.com/gag/aZZr5v0)
+ - 😝 [Bro went nuclear on her](http://9gag.com/gag/aYQrB42)
+ - 👉 [Happy holidays snowflakes](http://9gag.com/gag/aE0851M)<!-- MEMES:END -->
 
 ---
 

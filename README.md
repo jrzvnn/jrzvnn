@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [How some doctors are using AI tools, like DAX Copilot from Microsoft&#39;s Nuance, to automate administrative tasks like taking and summarizing notes &lpar;Geoffrey A. Fowler/Washington Post&rpar;](http://www.techmeme.com/241226/p8#a241226p8)
  - [How to change what the iPhone 16 Camera Control button does](https://appleinsider.com/inside/iphone/tips/how-to-change-what-the-iphone-16-camera-control-button-does?utm_medium=rss)
  - [HomeKit Smart doorbell with Face ID expected by 2026](https://appleinsider.com/articles/24/12/22/homekit-smart-doorbell-with-face-id-expected-by-2026?utm_medium=rss)
  - [Even Apple wasn’t able to make VR headsets mainstream in 2024](https://www.theverge.com/24303262/apple-vision-pro-vr-mainstream-meta-glasses)
- - [Bluesky adds Trending topics to its arsenal](https://www.theverge.com/2024/12/26/24329549/bluesky-trending-features)
- - [Bluesky launches a Trending Topics feature in beta on its desktop and mobile apps in English, and says users&#39; muted words will transfer to Trending &lpar;Ivan Mehta/TechCrunch&rpar;](http://www.techmeme.com/241226/p7#a241226p7)<!-- TECH:END -->
+ - [Bluesky adds Trending topics to its arsenal](https://www.theverge.com/2024/12/26/24329549/bluesky-trending-features)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

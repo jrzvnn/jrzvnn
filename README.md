@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Thank You Very Very Much](http://9gag.com/gag/aLnvowv)
- - 😝 [And don&#39;t get me started on Pedro Pascal...](http://9gag.com/gag/avyAB4X)
- - 💣 [I need an explanation to increase my weird knowledge](http://9gag.com/gag/aBynbEz)
- - 😝 [Birth control ad](http://9gag.com/gag/azxeyLN)
- - 👉 [Poland. At night, two masked men broke into the office on Rydla Street in Szczecin and for almost a minute they tried to break the glass in the cash register window with hammers.](http://9gag.com/gag/aGyzqBG)<!-- MEMES:END -->
+ - 😝 [He needs that Disney cash](http://9gag.com/gag/avyAqZq)
+ - 😝 [Wild wild west](http://9gag.com/gag/a871NmO)
+ - 💣 [Thank You Very Very Much](http://9gag.com/gag/aLnvowv)
+ - 😝 [Stroganina is a dish of the indigenous people of northern Arctic Siberia consisting of raw, thin, long-sliced frozen fish](http://9gag.com/gag/a0eZgvv)
+ - 👉 [I need an explanation to increase my weird knowledge](http://9gag.com/gag/aBynbEz)<!-- MEMES:END -->
 
 ---
 

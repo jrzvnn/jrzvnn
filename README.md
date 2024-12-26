@@ -167,10 +167,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [I saw some wild shit as a kid](http://9gag.com/gag/ajPgvyg)
- - 😝 [He needs that Disney cash](http://9gag.com/gag/avyAqZq)
- - 💣 [I need an explanation to increase my weird knowledge](http://9gag.com/gag/aBynbEz)
  - 😝 [American tourists live streamed &#39;racist Italian boys&#39; because they stopped the women from twerking on historical monument for Tik Tok](http://9gag.com/gag/aKGmMnN)
- - 👉 [Stroganina is a dish of the indigenous people of northern Arctic Siberia consisting of raw, thin, long-sliced frozen fish](http://9gag.com/gag/a0eZgvv)<!-- MEMES:END -->
+ - 💣 [Imagine the employees having to deal with these people daily](http://9gag.com/gag/a5Q1Yvq)
+ - 😝 [Stroganina is a dish of the indigenous people of northern Arctic Siberia consisting of raw, thin, long-sliced frozen fish](http://9gag.com/gag/a0eZgvv)
+ - 👉 [He needs that Disney cash](http://9gag.com/gag/avyAqZq)<!-- MEMES:END -->
 
 ---
 

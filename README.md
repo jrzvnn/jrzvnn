@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Am i drunk or Aslan in 2005 looks more realistic than lion king 2024? Probably drunk](http://9gag.com/gag/aYQr0Nm)
- - 😝 [He needs that Disney cash](http://9gag.com/gag/avyAqZq)
- - 💣 [Imagine the employees having to deal with these people daily](http://9gag.com/gag/a5Q1Yvq)
- - 😝 [Stroganina is a dish of the indigenous people of northern Arctic Siberia consisting of raw, thin, long-sliced frozen fish](http://9gag.com/gag/a0eZgvv)
- - 👉 [She moves like a silkworm](http://9gag.com/gag/a2v1p0Y)<!-- MEMES:END -->
+ - 😝 [Great Christmas](http://9gag.com/gag/aqyGM3v)
+ - 😝 [Wild wild west](http://9gag.com/gag/a871NmO)
+ - 💣 [Sick, insecure, toxic woman berates, curses at, and assaults a man onboard a plane](http://9gag.com/gag/aZZrKo3)
+ - 😝 [She moves like a silkworm](http://9gag.com/gag/a2v1p0Y)
+ - 👉 [Interesting](http://9gag.com/gag/a4P1yBy)<!-- MEMES:END -->
 
 ---
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [I need an explanation to increase my weird knowledge](http://9gag.com/gag/aBynbEz)
  - 😝 [Stroganina is a dish of the indigenous people of northern Arctic Siberia consisting of raw, thin, long-sliced frozen fish](http://9gag.com/gag/a0eZgvv)
- - 😝 [Have a nice day](http://9gag.com/gag/aoyg6E3)
- - 💣 [I need an explanation to increase my weird knowledge](http://9gag.com/gag/aBynbEz)
- - 😝 [Mistletoe, not miss a toe](http://9gag.com/gag/an7g0jq)
- - 👉 [Have not seen the tradition yet. So here you go. Merry Christmas](http://9gag.com/gag/amogynV)<!-- MEMES:END -->
+ - 💣 [He needs that Disney cash](http://9gag.com/gag/avyAqZq)
+ - 😝 [Sht goes from 0 to 100 real quick](http://9gag.com/gag/aKGmXv6)
+ - 👉 [Have a nice day](http://9gag.com/gag/aoyg6E3)<!-- MEMES:END -->
 
 ---
 

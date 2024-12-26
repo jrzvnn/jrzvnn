@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Amazon&#39;s after-Christmas sale knocks up to 50% off Apple products](https://appleinsider.com/articles/24/12/26/amazons-after-christmas-sale-knocks-up-to-50-off-apple-products?utm_medium=rss)
  - [How to make iOS 18 Photos work more like it used to](https://appleinsider.com/inside/ios-18/tips/how-to-make-ios-18-photos-work-more-like-it-used-to?utm_medium=rss)
  - [US federal lobbying disclosure forms reveal how Meta, with a team of 14 directly employed lobbyists, led efforts to block the passage of KOSA in Congress &lpar;Ruth Reader/Politico&rpar;](http://www.techmeme.com/241226/p13#a241226p13)
  - [Samsung will let you disable annoyingly-bright HDR content across all apps](https://www.theverge.com/2024/12/26/24329658/samsung-one-ui-7-disable-hdr-setting-bright-videos)
- - [Best Internet Providers in Richmond, Virginia](https://www.cnet.com/home/internet/best-internet-providers-in-richmond-va/#ftag=CAD590a51e)
- - [Cryptocurrency Is Surging Again. Here&#39;s How to Spot Scams and Keep Your Wallet Safe](https://www.cnet.com/personal-finance/cryptocurrency-is-surging-again-heres-how-to-spot-scams-and-keep-your-wallet-safe/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Best Internet Providers in Richmond, Virginia](https://www.cnet.com/home/internet/best-internet-providers-in-richmond-va/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

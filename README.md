@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Is Incogni legit? Find out how to protect your privacy online and avoid scams](https://appleinsider.com/articles/24/12/26/is-incogni-legit-find-out-how-to-protect-your-privacy-online-and-avoid-scams?utm_medium=rss)
+ - [The best shows and movies on Netflix in 2024](https://www.theverge.com/24322728/netflix-best-shows-movies-2024-streaming)
  - [Finland says it suspects an oil tanker in Russia&#39;s shadow fleet of damaging three undersea internet cables on December 25, the latest Baltic Sea cable damaged &lpar;Richard Milne/Financial Times&rpar;](http://www.techmeme.com/241226/p9#a241226p9)
- - [How some doctors are using AI tools, like DAX Copilot from Microsoft&#39;s Nuance, to automate administrative tasks like taking and summarizing notes &lpar;Geoffrey A. Fowler/Washington Post&rpar;](http://www.techmeme.com/241226/p8#a241226p8)
- - [How to change what the iPhone 16 Camera Control button does](https://appleinsider.com/inside/iphone/tips/how-to-change-what-the-iphone-16-camera-control-button-does?utm_medium=rss)
- - [HomeKit Smart doorbell with Face ID expected by 2026](https://appleinsider.com/articles/24/12/22/homekit-smart-doorbell-with-face-id-expected-by-2026?utm_medium=rss)
- - [Even Apple wasn’t able to make VR headsets mainstream in 2024](https://www.theverge.com/24303262/apple-vision-pro-vr-mainstream-meta-glasses)<!-- TECH:END -->
+ - [How to Give Your Old TV a Second Life](https://www.cnet.com/tech/home-entertainment/how-to-give-your-old-tv-a-second-life/#ftag=CAD590a51e)
+ - [How some doctors are using AI tools, like DAX Copilot from Microsoft&#39;s Nuance, to automate administrative tasks like taking and summarizing notes &lpar;Geoffrey A. Fowler/Washington Post&rpar;](http://www.techmeme.com/241226/p8#a241226p8)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

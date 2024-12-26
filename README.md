@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Dyson Promo Code: 20% + Up to $300 Off](https://www.wired.com/story/dyson-cordless-vacuum-promo-code/)
  - [Best Queen Mattress for 2024: Expert Tested and Approved](https://www.cnet.com/health/sleep/best-queen-mattress/#ftag=CAD590a51e)
  - [Best Internet Providers in Salem, Oregon](https://www.cnet.com/home/internet/best-internet-providers-in-salem-or/#ftag=CAD590a51e)
  - [Japan Airlines halts ticket sales after a cyberattack hit its network equipment, causing delays to more than 40 flights and says flight safety was not impacted &lpar;New York Times&rpar;](http://www.techmeme.com/241226/p1#a241226p1)
- - [Best Earplugs for Sleeping in 2024](https://www.cnet.com/health/sleep/best-earplugs-for-sleeping/#ftag=CAD590a51e)
- - [Netflix&#39;s first livestream of NFL games avoided major buffering and freezing issues that plagued the Tyson-Paul fight for the most part, after early glitches &lpar;Richard Deitsch/New York Times&rpar;](http://www.techmeme.com/241225/p15#a241225p15)<!-- TECH:END -->
+ - [Best Earplugs for Sleeping in 2024](https://www.cnet.com/health/sleep/best-earplugs-for-sleeping/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

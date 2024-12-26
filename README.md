@@ -159,9 +159,9 @@ R                        1 repo              ░░░░░░░░░░░�
 <!-- TECH:START -->
  - [An in-depth analysis of 62 AI queries: ChatGPT search beat Google on content gap analysis and disambiguation queries, but Google was better for most searches &lpar;Eric Enge/Search Engine Land&rpar;](http://www.techmeme.com/241226/p3#a241226p3)
  - [It’s Time to Move Past AI Nationalism](https://www.wired.com/story/artificial-intelligence-global-collaboration/)
+ - [&#39;Squid Game&#39; Season 2 Review: Red Light, Green Light Is Still the Scariest Game](https://www.cnet.com/tech/services-and-software/squid-game-season-2-review-red-light-green-light-is-still-the-scariest-game/#ftag=CAD590a51e)
  - [Squid Game season 2 is a brutal remix of Netflix’s biggest show](https://www.theverge.com/24324173/squid-game-season-2-review-netflix)
- - [Govee Discount Codes and Deals: $5 Off](https://www.wired.com/story/govee-discount-code/)
- - [AppLovin was 2024&#39;s top performing US tech stock, up 758% as of December 24, followed by MicroStrategy, up 467%, and Palantir, up 380%; the Nasdaq jumped 33% &lpar;Ari Levy/CNBC&rpar;](http://www.techmeme.com/241226/p2#a241226p2)<!-- TECH:END -->
+ - [Govee Discount Codes and Deals: $5 Off](https://www.wired.com/story/govee-discount-code/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Birth control ad](http://9gag.com/gag/azxeyLN)
- - 😝 [Mistletoe, not miss a toe](http://9gag.com/gag/an7g0jq)
- - 💣 [*sad gamer noises*](http://9gag.com/gag/adBgW9Z)
- - 😝 [Don&#39;t worry. They both gave her a huge tip.](http://9gag.com/gag/adBgMVd)
- - 👉 [I need an explanation to increase my weird knowledge](http://9gag.com/gag/aBynbEz)<!-- MEMES:END -->
+ - 😝 [Remember your training](http://9gag.com/gag/aoyg6Ge)
+ - 😝 [Wanna know why they call &#39;em hurricanes after chicks?](http://9gag.com/gag/a7o1X7A)
+ - 💣 [All coincidences with real people are random](http://9gag.com/gag/aZZr5v0)
+ - 😝 [Bro went nuclear on her](http://9gag.com/gag/aYQrB42)
+ - 👉 [Happy holidays snowflakes](http://9gag.com/gag/aE0851M)<!-- MEMES:END -->
 
 ---
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Apple TV+ has something planned for January 4 &amp; 5](https://appleinsider.com/articles/24/12/26/apple-tv-has-something-planned-for-january-4-5?utm_medium=rss)
  - [ChatGPT is down](https://www.theverge.com/2024/12/26/24329760/chatgpt-down-outage-error-sora-openai)
  - [Microsoft adds Copilot to Microsoft 365 in Australia and Southeast Asia and raises 365&#39;s price, a sign of how it aims to turn a profit from its AI investments &lpar;Tom Dotan/Wall Street Journal&rpar;](http://www.techmeme.com/241226/p14#a241226p14)
  - [Amazon&#39;s after-Christmas sale knocks up to 50% off Apple products](https://appleinsider.com/articles/24/12/26/amazons-after-christmas-sale-knocks-up-to-50-off-apple-products?utm_medium=rss)
- - [How to make iOS 18 Photos work more like it used to](https://appleinsider.com/inside/ios-18/tips/how-to-make-ios-18-photos-work-more-like-it-used-to?utm_medium=rss)
- - [Best Innerspring Mattress in 2024](https://www.cnet.com/health/sleep/best-innerspring-mattress/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [How to make iOS 18 Photos work more like it used to](https://appleinsider.com/inside/ios-18/tips/how-to-make-ios-18-photos-work-more-like-it-used-to?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

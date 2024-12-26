@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Wanna know why they call &#39;em hurricanes after chicks?](http://9gag.com/gag/a7o1X7A)
- - 😝 [Bro went nuclear on her](http://9gag.com/gag/aYQrB42)
- - 💣 [Happy holidays snowflakes](http://9gag.com/gag/aE0851M)
- - 😝 [UK is doomed](http://9gag.com/gag/aqyGo4Y)
- - 👉 [Pro](http://9gag.com/gag/aKGmZWb)<!-- MEMES:END -->
+ - 😝 [I saw some wild shit as a kid](http://9gag.com/gag/ajPgvyg)
+ - 😝 [He needs that Disney cash](http://9gag.com/gag/avyAqZq)
+ - 💣 [I need an explanation to increase my weird knowledge](http://9gag.com/gag/aBynbEz)
+ - 😝 [American tourists live streamed &#39;racist Italian boys&#39; because they stopped the women from twerking on historical monument for Tik Tok](http://9gag.com/gag/aKGmMnN)
+ - 👉 [Stroganina is a dish of the indigenous people of northern Arctic Siberia consisting of raw, thin, long-sliced frozen fish](http://9gag.com/gag/a0eZgvv)<!-- MEMES:END -->
 
 ---
 

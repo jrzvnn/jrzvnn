@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Chinese workplace safety animation](http://9gag.com/gag/avyAq9q)
- - 😝 [The random crab though](http://9gag.com/gag/a7o1RDx)
- - 💣 [Wild wild west](http://9gag.com/gag/a871NmO)
+ - 😝 [Alex the intelligent one](http://9gag.com/gag/adBgDyN)
  - 😝 [No audio but still satisfied](http://9gag.com/gag/aqyGMjp)
- - 👉 [She moves like a silkworm](http://9gag.com/gag/a2v1p0Y)<!-- MEMES:END -->
+ - 💣 [China continues to rub Europes face in the grass.](http://9gag.com/gag/aAyG58d)
+ - 😝 [Honda, Nissan, and Mitsubishi are officially teaming up under a single holding company to tackle global competition. The merger, set to finalize by August 2026](http://9gag.com/gag/a341X7r)
+ - 👉 [Wild wild west](http://9gag.com/gag/a871NmO)<!-- MEMES:END -->
 
 ---
 

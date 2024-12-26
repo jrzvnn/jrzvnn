@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [`Gen-Z entered the workforce chat`](http://9gag.com/gag/aByn51Z)
- - 😝 [Am i drunk or Aslan in 2005 looks more realistic than lion king 2024? Probably drunk](http://9gag.com/gag/aYQr0Nm)
- - 💣 [Wild wild west](http://9gag.com/gag/a871NmO)
- - 😝 [Processing coconuts](http://9gag.com/gag/agmg9GW)
- - 👉 [She moves like a silkworm](http://9gag.com/gag/a2v1p0Y)<!-- MEMES:END -->
+ - 😝 [Wild wild west](http://9gag.com/gag/a871NmO)
+ - 😝 [Camels can eat cactus but not lemons](http://9gag.com/gag/avyAqGd)
+ - 💣 [Am i drunk or Aslan in 2005 looks more realistic than lion king 2024? Probably drunk](http://9gag.com/gag/aYQr0Nm)
+ - 😝 [The random crab though](http://9gag.com/gag/a7o1RDx)
+ - 👉 [So, where was I\u2026oh yea!](http://9gag.com/gag/a341X8e)<!-- MEMES:END -->
 
 ---
 

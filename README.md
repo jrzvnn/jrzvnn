@@ -159,9 +159,9 @@ R                        1 repo              ░░░░░░░░░░░�
 <!-- TECH:START -->
  - [Italian energy giant Eni launches its HPC6 supercomputer, the most powerful outside the US, costing &amp;euro;100M to build and using 14K AMD GPUs, to find oil and gas &lpar;Malcolm Moore/Financial Times&rpar;](http://www.techmeme.com/241226/p5#a241226p5)
  - [The Year of the AI Election Wasn’t Quite What Everyone Expected](https://www.wired.com/story/the-year-of-the-ai-election-wasnt-quite-what-everyone-expected/)
- - [Best Internet Providers in Raleigh, North Carolina](https://www.cnet.com/home/internet/best-internet-providers-in-raleigh-nc/#ftag=CAD590a51e)
  - [The Worst Hacks of 2024](https://www.wired.com/story/worst-hacks-2024/)
- - [Alibaba agrees to merge its South Korean operations with E-Mart&#39;s Gmarket, creating a 50-50 joint venture; sources say the new company could be valued at ~$4B &lpar;Manuel Baigorri/Bloomberg&rpar;](http://www.techmeme.com/241226/p4#a241226p4)<!-- TECH:END -->
+ - [Alibaba agrees to merge its South Korean operations with E-Mart&#39;s Gmarket, creating a 50-50 joint venture; sources say the new company could be valued at ~$4B &lpar;Manuel Baigorri/Bloomberg&rpar;](http://www.techmeme.com/241226/p4#a241226p4)
+ - [Temu’s Takeover Is Now Complete](https://www.wired.com/story/temus-takeover-is-now-complete/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

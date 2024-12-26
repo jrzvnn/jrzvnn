@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Don&#39;t worry. They both gave her a huge tip.](http://9gag.com/gag/adBgMVd)
- - 😝 [Thank You Very Very Much](http://9gag.com/gag/aLnvowv)
- - 💣 [Birth control ad](http://9gag.com/gag/azxeyLN)
+ - 😝 [Birth control ad](http://9gag.com/gag/azxeyLN)
  - 😝 [Mistletoe, not miss a toe](http://9gag.com/gag/an7g0jq)
- - 👉 [Have a nice day](http://9gag.com/gag/aoyg6E3)<!-- MEMES:END -->
+ - 💣 [*sad gamer noises*](http://9gag.com/gag/adBgW9Z)
+ - 😝 [Don&#39;t worry. They both gave her a huge tip.](http://9gag.com/gag/adBgMVd)
+ - 👉 [I need an explanation to increase my weird knowledge](http://9gag.com/gag/aBynbEz)<!-- MEMES:END -->
 
 ---
 

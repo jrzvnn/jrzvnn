@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Who&#39;s gonna stop him?](http://9gag.com/gag/aXPr68D)
- - 😝 [UK is doomed](http://9gag.com/gag/aqyGo4Y)
- - 💣 [What&#39;s going on here](http://9gag.com/gag/adBgDDd)
- - 😝 [Haters gonna say it\u2019s fake.](http://9gag.com/gag/aQzX5qq)
- - 👉 [Mery poppins](http://9gag.com/gag/a341635)<!-- MEMES:END -->
+ - 😝 [`Gen-Z entered the workforce chat`](http://9gag.com/gag/aByn51Z)
+ - 😝 [Am i drunk or Aslan in 2005 looks more realistic than lion king 2024? Probably drunk](http://9gag.com/gag/aYQr0Nm)
+ - 💣 [Wild wild west](http://9gag.com/gag/a871NmO)
+ - 😝 [Processing coconuts](http://9gag.com/gag/agmg9GW)
+ - 👉 [She moves like a silkworm](http://9gag.com/gag/a2v1p0Y)<!-- MEMES:END -->
 
 ---
 

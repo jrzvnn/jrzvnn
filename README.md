@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [I saw some wild shit as a kid](http://9gag.com/gag/ajPgvyg)
- - 😝 [China continues to rub Europes face in the grass.](http://9gag.com/gag/aAyG58d)
- - 💣 [Honda, Nissan, and Mitsubishi are officially teaming up under a single holding company to tackle global competition. The merger, set to finalize by August 2026](http://9gag.com/gag/a341X7r)
+ - 😝 [Chinese workplace safety animation](http://9gag.com/gag/avyAq9q)
+ - 😝 [The random crab though](http://9gag.com/gag/a7o1RDx)
+ - 💣 [Wild wild west](http://9gag.com/gag/a871NmO)
  - 😝 [No audio but still satisfied](http://9gag.com/gag/aqyGMjp)
- - 👉 [Thank You Very Very Much](http://9gag.com/gag/aLnvowv)<!-- MEMES:END -->
+ - 👉 [She moves like a silkworm](http://9gag.com/gag/a2v1p0Y)<!-- MEMES:END -->
 
 ---
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The Best Tested and Reviewed Mesh Wi-Fi Routers of 2024](https://www.wired.com/story/best-mesh-wifi-routers/)
- - [Electricians are flocking to regions around the US to build data centers, as AI shapes up to be an economy-bending force that creates boom towns &lpar;New York Times&rpar;](http://www.techmeme.com/241226/p6#a241226p6)
- - [The Year Villainy Won](https://www.wired.com/story/the-year-villainy-won/)
- - [Beyond Meat Says Being Attacked Has Just Made It Stronger](https://www.wired.com/story/beyond-meat-hits-back-against-the-haters-ethan-brown/)
- - [Italian energy giant Eni launches its HPC6 supercomputer, the most powerful outside the US, costing &amp;euro;100M to build and using 14K AMD GPUs, to find oil and gas &lpar;Malcolm Moore/Financial Times&rpar;](http://www.techmeme.com/241226/p5#a241226p5)<!-- TECH:END -->
+ - [Bluesky launches a Trending Topics feature in beta on its desktop and mobile apps in English, and says users&#39; muted words will transfer to Trending &lpar;Ivan Mehta/TechCrunch&rpar;](http://www.techmeme.com/241226/p7#a241226p7)
+ - [How to change what the iPhone 16 Camera Control button does](https://appleinsider.com/inside/iphone/tips/how-to-change-what-the-iphone-16-camera-control-button-does?utm_medium=rss)
+ - [Samsung HW-Q990D Review: Atmos Tested, Gamer Approved](https://www.wired.com/review/samsung-hw-q990d/)
+ - [Bose SoundLink Home review: a speaker that’s all about looks](https://www.theverge.com/24326228/bose-soundlink-home-speaker-review)
+ - [The Best Tested and Reviewed Mesh Wi-Fi Routers of 2024](https://www.wired.com/story/best-mesh-wifi-routers/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

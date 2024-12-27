@@ -166,8 +166,8 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Captain, experts .. is this true? Or just comedy?](http://9gag.com/gag/aVvxA28)
  - 😝 [I wish my uncle only lasted 4 minutes](http://9gag.com/gag/a4P1DEd)
+ - 😝 [What\u2019s the latest news there? You got it going in over there? How goes life? Avoiding fat \u201celephants\u201d?](http://9gag.com/gag/a9y1Qdm)
  - 💣 [The guy is cooked](http://9gag.com/gag/aD2DEAx)
  - 😝 [Updating myself here because I have no one else but you f**kers. See you in 30 more days as I go from Hagrid to....less Hagrid](http://9gag.com/gag/adBgGy9)
  - 👉 [Nice](http://9gag.com/gag/aBynp8D)<!-- MEMES:END -->

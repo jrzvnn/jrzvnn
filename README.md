@@ -166,10 +166,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [It&#39;s never the skin color](http://9gag.com/gag/aNDPNob)
+ - 😝 [Your small secretary](http://9gag.com/gag/ayN9GpY)
  - 😝 [Movies were pushin it back then. A little](http://9gag.com/gag/aBynAZA)
- - 💣 [She moves like a silkworm](http://9gag.com/gag/a2v1p0Y)
- - 😝 [Nature](http://9gag.com/gag/a6Z1PyA)
+ - 💣 [No underwear](http://9gag.com/gag/aXPr6yP)
+ - 😝 [Alex the intelligent one](http://9gag.com/gag/adBgDyN)
  - 👉 [The random crab though](http://9gag.com/gag/a7o1RDx)<!-- MEMES:END -->
 
 ---

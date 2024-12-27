@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Hmmm](http://9gag.com/gag/aVvxAe2)
- - 😝 [Haters gonna say it\u2019s fake.](http://9gag.com/gag/aQzX5qq)
- - 💣 [Let people like what they like. Except for disco polo.](http://9gag.com/gag/abAg7pr)
- - 😝 [Bro set the bar real high](http://9gag.com/gag/avyAKYE)
- - 👉 [That looks dangerous](http://9gag.com/gag/a5Q1Ozr)<!-- MEMES:END -->
+ - 😝 [Poor Maryjane\u2026](http://9gag.com/gag/aYQr36V)
+ - 😝 [`Man! now we have to work again?`](http://9gag.com/gag/aoygXPA)
+ - 💣 [Nice](http://9gag.com/gag/aBynp8D)
+ - 😝 [What is the phenomenon called?](http://9gag.com/gag/aRBrnXA)
+ - 👉 [Thanks to people like this, I stopped donating.](http://9gag.com/gag/aW4g3LZ)<!-- MEMES:END -->
 
 ---
 

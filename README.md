@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Video game executives say making cinematic games is getting so expensive and time-consuming that investing in graphics is providing diminished financial returns &lpar;Zachary Small/New York Times&rpar;](http://www.techmeme.com/241227/p2#a241227p2)
  - [There’s Still Time to Get Ahead of the Next Global Pandemic](https://www.wired.com/story/global-pandemic-public-health-lessons-preparedness/)
  - [US open-air shopping center vacancies drop to historically low levels, defying forecasts of a retail apocalypse caused by e-commerce, which has ~16% of US sales &lpar;Gregory Meyer/Financial Times&rpar;](http://www.techmeme.com/241227/p1#a241227p1)
  - [Best Internet Providers in Santa Ana, California](https://www.cnet.com/home/internet/best-internet-providers-in-santa-ana-ca/#ftag=CAD590a51e)
- - [Best Internet Providers in Roswell, Georgia](https://www.cnet.com/home/internet/best-internet-providers-in-roswell-ga/#ftag=CAD590a51e)
- - [Best Continuous Glucose Monitors of 2024](https://www.cnet.com/health/medical/best-continuous-glucose-monitors/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Best Internet Providers in Roswell, Georgia](https://www.cnet.com/home/internet/best-internet-providers-in-roswell-ga/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

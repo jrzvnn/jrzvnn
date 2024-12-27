@@ -166,10 +166,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Poor Maryjane\u2026](http://9gag.com/gag/aYQr36V)
- - 😝 [`Man! now we have to work again?`](http://9gag.com/gag/aoygXPA)
- - 💣 [Nice](http://9gag.com/gag/aBynp8D)
- - 😝 [What is the phenomenon called?](http://9gag.com/gag/aRBrnXA)
+ - 😝 [The way it crept down. Slow and sinister.](http://9gag.com/gag/aD2DydN)
+ - 😝 [It&#39;s never the skin color](http://9gag.com/gag/aNDPNob)
+ - 💣 [Hot hot](http://9gag.com/gag/aqyGwKY)
+ - 😝 [`Gen-Z entered the workforce chat`](http://9gag.com/gag/aByn51Z)
  - 👉 [Thanks to people like this, I stopped donating.](http://9gag.com/gag/aW4g3LZ)<!-- MEMES:END -->
 
 ---

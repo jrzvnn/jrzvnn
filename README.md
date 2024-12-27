@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [If you look at the water, it will look back at you](http://9gag.com/gag/avyAN0O)
- - 😝 [Poor Maryjane\u2026](http://9gag.com/gag/aYQr36V)
- - 💣 [Heels and glasses](http://9gag.com/gag/a6Z10Dq)
- - 😝 [Am i drunk or Aslan in 2005 looks more realistic than lion king 2024? Probably drunk](http://9gag.com/gag/aYQr0Nm)
- - 👉 [The way it crept down. Slow and sinister.](http://9gag.com/gag/aD2DydN)<!-- MEMES:END -->
+ - 😝 [Let&#39;s help disney.](http://9gag.com/gag/aMV4gBX)
+ - 😝 [I wish my uncle only lasted 4 minutes](http://9gag.com/gag/a4P1DEd)
+ - 💣 [In Brazil, a 533-meter bridge collapsed just as a man was reporting on the poor condition of the bridge.](http://9gag.com/gag/a1m13q6)
+ - 😝 [Captain, experts .. is this true? Or just comedy?](http://9gag.com/gag/aVvxA28)
+ - 👉 [The guy is cooked](http://9gag.com/gag/aD2DEAx)<!-- MEMES:END -->
 
 ---
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Elon Musk riles up Trump’s far-right base by praising immigrants](https://www.theverge.com/2024/12/27/24330144/elon-musk-vivek-ramaswamy-silicon-valley-immigration-maga-racism-trump)
+ - [The Beats Fit Pro, our favorite fitness-centric earbuds, are matching their best price](https://www.theverge.com/2024/12/27/24330203/beats-fit-pro-epicka-universal-travel-adapter-deal-sale)
  - [NASA’s Parker Solar Probe has survived the closest-ever Sun flyby](https://www.theverge.com/2024/12/27/24330216/nasa-parker-solar-probe-touch-the-sun)
  - [TSMC says it has started mass production at its first factory in Japan, located in Kumamoto, producing 12nm to 28nm chips for use in cars and image sensors &lpar;Kyodo News+&rpar;](http://www.techmeme.com/241227/p7#a241227p7)
- - [Save $70 on Apple&#39;s 256GB iPad mini 7 during today&#39;s flash sale](https://appleinsider.com/articles/24/12/27/save-70-on-apples-256gb-ipad-mini-7-during-todays-flash-sale?utm_medium=rss)
- - [Montenegro says Terraform Labs co-founder Do Kwon will be extradited to the US, potentially ending a standoff over competing demands by the US and South Korea &lpar;Bloomberg&rpar;](http://www.techmeme.com/241227/p6#a241227p6)
- - [Simplify Your Morning With a One-Step Coffee-Weighing Cup](https://www.wired.com/story/subminimal-subscale-rave/)<!-- TECH:END -->
+ - [Save $70 on Apple&#39;s 256GB iPad mini 7 during today&#39;s flash sale](https://appleinsider.com/articles/24/12/27/save-70-on-apples-256gb-ipad-mini-7-during-todays-flash-sale?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

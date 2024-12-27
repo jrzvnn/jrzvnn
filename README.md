@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Nature](http://9gag.com/gag/a6Z1PyA)
- - 😝 [The way it crept down. Slow and sinister.](http://9gag.com/gag/aD2DydN)
- - 💣 [What is the phenomenon called?](http://9gag.com/gag/aRBrnXA)
- - 😝 [Nice](http://9gag.com/gag/aBynp8D)
- - 👉 [National lotteries be like](http://9gag.com/gag/aBynpdz)<!-- MEMES:END -->
+ - 😝 [Let people like what they like. Except for disco polo.](http://9gag.com/gag/abAg7pr)
+ - 😝 [Let&#39;s help disney.](http://9gag.com/gag/aMV4gBX)
+ - 💣 [Hmmm](http://9gag.com/gag/aVvxAe2)
+ - 😝 [Captain, experts .. is this true? Or just comedy?](http://9gag.com/gag/aVvxA28)
+ - 👉 [In Brazil, a 533-meter bridge collapsed just as a man was reporting on the poor condition of the bridge.](http://9gag.com/gag/a1m13q6)<!-- MEMES:END -->
 
 ---
 

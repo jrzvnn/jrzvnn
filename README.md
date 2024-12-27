@@ -166,10 +166,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Thanks to people like this, I stopped donating.](http://9gag.com/gag/aW4g3LZ)
- - 😝 [Nice](http://9gag.com/gag/aBynp8D)
- - 💣 [Poor Maryjane\u2026](http://9gag.com/gag/aYQr36V)
- - 😝 [No underwear](http://9gag.com/gag/aXPr6yP)
+ - 😝 [If you look at the water, it will look back at you](http://9gag.com/gag/avyAN0O)
+ - 😝 [Poor Maryjane\u2026](http://9gag.com/gag/aYQr36V)
+ - 💣 [Heels and glasses](http://9gag.com/gag/a6Z10Dq)
+ - 😝 [Am i drunk or Aslan in 2005 looks more realistic than lion king 2024? Probably drunk](http://9gag.com/gag/aYQr0Nm)
  - 👉 [The way it crept down. Slow and sinister.](http://9gag.com/gag/aD2DydN)<!-- MEMES:END -->
 
 ---

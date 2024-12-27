@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [A profile of Boring Company President and key Elon Musk deputy Steve Davis, who has spent 20+ years helping Musk cut costs and now helps recruit staff at DOGE &lpar;Sarah McBride/Bloomberg&rpar;](http://www.techmeme.com/241226/p18#a241226p18)
  - [Here’s how many people tuned into Netflix’s Christmas Day NFL games](https://www.theverge.com/2024/12/26/24329685/netflix-nfl-christmas-day-games-streaming-numbers)
  - [Hertz is asking EV renters if they want to keep it, permanently](https://www.theverge.com/2024/12/26/24329874/hertz-ev-tesla-email-sales-offers)
  - [Best Facial Sunscreens of 2024, Tested and Chosen From 50 Top Brands](https://www.cnet.com/health/personal-care/best-sunscreen-for-face/#ftag=CAD590a51e)
- - [&#39;Outlander&#39; Season 7 Part 2 Release Schedule and How to Watch Episode 14](https://www.cnet.com/tech/services-and-software/outlander-season-7-part-2-episode-release-schedule-how-to-watch/#ftag=CAD590a51e)
- - [Advantest CEO Doug Lefever, whose company is the largest provider of chip testing machines, on AI chip demand, China, and more; Advantest&#39;s stock is up 95%+ YTD &lpar;Financial Times&rpar;](http://www.techmeme.com/241226/p17#a241226p17)<!-- TECH:END -->
+ - [&#39;Outlander&#39; Season 7 Part 2 Release Schedule and How to Watch Episode 14](https://www.cnet.com/tech/services-and-software/outlander-season-7-part-2-episode-release-schedule-how-to-watch/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

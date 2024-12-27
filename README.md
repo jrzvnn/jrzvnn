@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Revisiting the 3 Biggest Hardware Flops of 2024: Apple Vision Pro, Rabbit R1, Humane Ai Pin](https://www.wired.com/story/revisiting-the-three-biggest-flops-of-2024/)
  - [The Paper Passport Is Dying](https://www.wired.com/story/the-paper-passport-is-dying/)
  - [This Was the Year of the Influencer Political Takeover](https://www.wired.com/story/this-was-the-year-of-the-influencer-political-takeover/)
  - [Best Over-the-Counter Eye Drops of 2024](https://www.cnet.com/health/personal-care/best-eye-drops/#ftag=CAD590a51e)
- - [Don&#39;t Let High APYs Pass You By. Today&#39;s CD Rates, Dec. 27, 2024](https://www.cnet.com/personal-finance/banking/dont-let-high-apys-pass-you-by-todays-cd-rates-dec-27-2024/#ftag=CAD590a51e)
- - [Best Gas Grills of 2024](https://www.cnet.com/home/yard-and-outdoors/best-gas-grill/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Don&#39;t Let High APYs Pass You By. Today&#39;s CD Rates, Dec. 27, 2024](https://www.cnet.com/personal-finance/banking/dont-let-high-apys-pass-you-by-todays-cd-rates-dec-27-2024/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

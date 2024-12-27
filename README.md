@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [I wish my uncle only lasted 4 minutes](http://9gag.com/gag/a4P1DEd)
- - 😝 [What\u2019s the latest news there? You got it going in over there? How goes life? Avoiding fat \u201celephants\u201d?](http://9gag.com/gag/a9y1Qdm)
- - 💣 [The guy is cooked](http://9gag.com/gag/aD2DEAx)
- - 😝 [Updating myself here because I have no one else but you f**kers. See you in 30 more days as I go from Hagrid to....less Hagrid](http://9gag.com/gag/adBgGy9)
- - 👉 [Nice](http://9gag.com/gag/aBynp8D)<!-- MEMES:END -->
+ - 😝 [Heels and glasses](http://9gag.com/gag/a6Z10Dq)
+ - 😝 [Movies were pushin it back then. A little](http://9gag.com/gag/aBynAZA)
+ - 💣 [If you look at the water, it will look back at you](http://9gag.com/gag/avyAN0O)
+ - 😝 [Ah yes, the negotiator.](http://9gag.com/gag/adBgDY2)
+ - 👉 [Tao Wickrath](http://9gag.com/gag/avyANj5)<!-- MEMES:END -->
 
 ---
 

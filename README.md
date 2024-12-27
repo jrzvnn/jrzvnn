@@ -166,10 +166,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [No audio but still satisfied](http://9gag.com/gag/aqyGMjp)
- - 😝 [Interesting](http://9gag.com/gag/a4P1yBy)
- - 💣 [Camels can eat cactus but not lemons](http://9gag.com/gag/avyAqGd)
- - 😝 [I saw some wild shit as a kid](http://9gag.com/gag/ajPgvyg)
+ - 😝 [Man has a close encounter with the Largest Predator on the Planet.](http://9gag.com/gag/aD2D5Mw)
+ - 😝 [Who the f**k steals a cat, they are literally everywhere.](http://9gag.com/gag/a0eZ3Rv)
+ - 💣 [Wild wild west](http://9gag.com/gag/a871NmO)
+ - 😝 [Thank You Very Very Much](http://9gag.com/gag/aLnvowv)
  - 👉 [She moves like a silkworm](http://9gag.com/gag/a2v1p0Y)<!-- MEMES:END -->
 
 ---

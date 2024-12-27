@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [No underwear](http://9gag.com/gag/aXPr6yP)
- - 😝 [Heels and glasses](http://9gag.com/gag/a6Z10Dq)
- - 💣 [The way it crept down. Slow and sinister.](http://9gag.com/gag/aD2DydN)
- - 😝 [Tao Wickrath](http://9gag.com/gag/avyANj5)
- - 👉 [Today marks the 20th Anniversary of one of the deadliest Tsunamis](http://9gag.com/gag/aryn745)<!-- MEMES:END -->
+ - 😝 [Captain, experts .. is this true? Or just comedy?](http://9gag.com/gag/aVvxA28)
+ - 😝 [I wish my uncle only lasted 4 minutes](http://9gag.com/gag/a4P1DEd)
+ - 💣 [The guy is cooked](http://9gag.com/gag/aD2DEAx)
+ - 😝 [Updating myself here because I have no one else but you f**kers. See you in 30 more days as I go from Hagrid to....less Hagrid](http://9gag.com/gag/adBgGy9)
+ - 👉 [Nice](http://9gag.com/gag/aBynp8D)<!-- MEMES:END -->
 
 ---
 

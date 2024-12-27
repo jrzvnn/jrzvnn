@@ -166,10 +166,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [Thanks to people like this, I stopped donating.](http://9gag.com/gag/aW4g3LZ)
  - 😝 [Nice](http://9gag.com/gag/aBynp8D)
- - 😝 [Do you believe in coincidences?](http://9gag.com/gag/ayN9j0X)
- - 💣 [Thanks to people like this, I stopped donating.](http://9gag.com/gag/aW4g3LZ)
- - 😝 [Heels and glasses](http://9gag.com/gag/a6Z10Dq)
+ - 💣 [Poor Maryjane\u2026](http://9gag.com/gag/aYQr36V)
+ - 😝 [No underwear](http://9gag.com/gag/aXPr6yP)
  - 👉 [The way it crept down. Slow and sinister.](http://9gag.com/gag/aD2DydN)<!-- MEMES:END -->
 
 ---

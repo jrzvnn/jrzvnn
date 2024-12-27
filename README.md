@@ -167,10 +167,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [National lotteries be like](http://9gag.com/gag/aBynpdz)
- - 😝 [The way it crept down. Slow and sinister.](http://9gag.com/gag/aD2DydN)
- - 💣 [I am a minority...](http://9gag.com/gag/aAyGzrL)
- - 😝 [Nature](http://9gag.com/gag/a6Z1PyA)
- - 👉 [Do you believe in coincidences?](http://9gag.com/gag/ayN9j0X)<!-- MEMES:END -->
+ - 😝 [Let people like what they like. Except for disco polo.](http://9gag.com/gag/abAg7pr)
+ - 💣 [Hmmm](http://9gag.com/gag/aVvxAe2)
+ - 😝 [Let&#39;s help disney.](http://9gag.com/gag/aMV4gBX)
+ - 👉 [Captain, experts .. is this true? Or just comedy?](http://9gag.com/gag/aVvxA28)<!-- MEMES:END -->
 
 ---
 

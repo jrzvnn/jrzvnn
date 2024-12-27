@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Memecoin MIRA, created to fund research into a brain tumor affecting tech CEO Siqi Chen&#39;s daughter, hit an $80M market cap before falling as Chen began selling &lpar;Zack Abrams/The Block&rpar;](http://www.techmeme.com/241226/p20#a241226p20)
- - [OpenAI says ChatGPT is mostly recovered and APIs and Sora fully operational, after an outage led to the services &quot;experiencing high error rates&quot; for a few hours &lpar;Emma Roth/The Verge&rpar;](http://www.techmeme.com/241226/p19#a241226p19)
- - [A profile of Boring Company President and key Elon Musk deputy Steve Davis, who has spent 20+ years helping Musk cut costs and now helps recruit staff at DOGE &lpar;Sarah McBride/Bloomberg&rpar;](http://www.techmeme.com/241226/p18#a241226p18)
- - [Here’s how many people tuned into Netflix’s Christmas Day NFL games](https://www.theverge.com/2024/12/26/24329685/netflix-nfl-christmas-day-games-streaming-numbers)
- - [Hertz is asking EV renters if they want to keep it, permanently](https://www.theverge.com/2024/12/26/24329874/hertz-ev-tesla-email-sales-offers)<!-- TECH:END -->
+ - [Today&#39;s NYT Mini Crossword Answers for Friday, Dec. 27](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-friday-dec-27/#ftag=CAD590a51e)
+ - [Best Solar Panel Installation Companies in Connecticut](https://www.cnet.com/home/energy-and-utilities/connecticut-solar-panels/#ftag=CAD590a51e)
+ - [Today&#39;s NYT Connections Hints, Answers and Help for Dec. 27, #565](https://www.cnet.com/tech/gaming/todays-nyt-connections-hints-answers-and-help-for-friday-dec-27-565/#ftag=CAD590a51e)
+ - [Today&#39;s NYT Strands Hints, Answers and Help for Dec. 27, #299](https://www.cnet.com/tech/gaming/todays-nyt-strands-hints-answers-and-help-for-dec-27-299/#ftag=CAD590a51e)
+ - [Today&#39;s Wordle Hints, Answer and Help for Dec. 27, #1287](https://www.cnet.com/tech/gaming/todays-wordle-hints-answer-and-help-for-dec-27-1287/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

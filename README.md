@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [If you look at the water, it will look back at you](http://9gag.com/gag/avyAN0O)
  - 😝 [Heels and glasses](http://9gag.com/gag/a6Z10Dq)
- - 😝 [Movies were pushin it back then. A little](http://9gag.com/gag/aBynAZA)
- - 💣 [If you look at the water, it will look back at you](http://9gag.com/gag/avyAN0O)
- - 😝 [Ah yes, the negotiator.](http://9gag.com/gag/adBgDY2)
- - 👉 [Tao Wickrath](http://9gag.com/gag/avyANj5)<!-- MEMES:END -->
+ - 💣 [You wanted out of kitchen...now enjoy equality](http://9gag.com/gag/aO8QXmv)
+ - 😝 [Never insult a crow](http://9gag.com/gag/aGyz4RX)
+ - 👉 [It&#39;s never the skin color](http://9gag.com/gag/aNDPNob)<!-- MEMES:END -->
 
 ---
 

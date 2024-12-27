@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [No audio but still satisfied](http://9gag.com/gag/aqyGMjp)
- - 😝 [She moves like a silkworm](http://9gag.com/gag/a2v1p0Y)
- - 💣 [In 1997, Daft Punk would release a song that has the same three words repeated a total of 144 times, yet still become a global hit and have a music video that became iconic](http://9gag.com/gag/a6Z16Ne)
- - 😝 [This bald guy travels the world visiting countries](http://9gag.com/gag/aGyz446)
- - 👉 [Hot hot](http://9gag.com/gag/aqyGwKY)<!-- MEMES:END -->
+ - 😝 [Patriarchy debunked](http://9gag.com/gag/awyz2MQ)
+ - 😝 [Best Reverse Uno Card](http://9gag.com/gag/apRg7XW)
+ - 💣 [Indian military parade](http://9gag.com/gag/aRBrbZG)
+ - 😝 [Movies were pushin it back then. A little](http://9gag.com/gag/aBynAZA)
+ - 👉 [How is he called ?](http://9gag.com/gag/aD2D5GO)<!-- MEMES:END -->
 
 ---
 

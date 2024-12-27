@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Patriarchy debunked](http://9gag.com/gag/awyz2MQ)
- - 😝 [Best Reverse Uno Card](http://9gag.com/gag/apRg7XW)
- - 💣 [Indian military parade](http://9gag.com/gag/aRBrbZG)
- - 😝 [Movies were pushin it back then. A little](http://9gag.com/gag/aBynAZA)
- - 👉 [How is he called ?](http://9gag.com/gag/aD2D5GO)<!-- MEMES:END -->
+ - 😝 [Man has a close encounter with the Largest Predator on the Planet.](http://9gag.com/gag/aD2D5Mw)
+ - 😝 [Indian military parade](http://9gag.com/gag/aRBrbZG)
+ - 💣 [Aussie Car driver use a bike path to call out Cyclists who use the road instead of the bike path.... ...only for those cyclists to arrest him later since they&#39;re police.](http://9gag.com/gag/aPAZLnG)
+ - 😝 [This bald guy travels the world visiting countries](http://9gag.com/gag/aGyz446)
+ - 👉 [Movies were pushin it back then. A little](http://9gag.com/gag/aBynAZA)<!-- MEMES:END -->
 
 ---
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Man has a close encounter with the Largest Predator on the Planet.](http://9gag.com/gag/aD2D5Mw)
+ - 😝 [Movies were pushin it back then. A little](http://9gag.com/gag/aBynAZA)
  - 😝 [Indian military parade](http://9gag.com/gag/aRBrbZG)
- - 💣 [Aussie Car driver use a bike path to call out Cyclists who use the road instead of the bike path.... ...only for those cyclists to arrest him later since they&#39;re police.](http://9gag.com/gag/aPAZLnG)
- - 😝 [This bald guy travels the world visiting countries](http://9gag.com/gag/aGyz446)
- - 👉 [Movies were pushin it back then. A little](http://9gag.com/gag/aBynAZA)<!-- MEMES:END -->
+ - 💣 [So, where was I\u2026oh yea!](http://9gag.com/gag/a341X8e)
+ - 😝 [How to treat clinical depression](http://9gag.com/gag/a4P10Oy)
+ - 👉 [She moves like a silkworm](http://9gag.com/gag/a2v1p0Y)<!-- MEMES:END -->
 
 ---
 

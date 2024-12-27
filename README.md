@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Bookkeeping startup Bench, which raised $100M+ including from Shopify, closes down effective immediately; several employees say Bench also laid off staff &lpar;Natasha Mascarenhas/The Information&rpar;](http://www.techmeme.com/241227/p13#a241227p13)
  - [Eight free-speech groups, including the EFF, and three members of Congress file briefs with SCOTUS in support of TikTok&#39;s appeal against the divest-or-ban law &lpar;Todd Spangler/Variety&rpar;](http://www.techmeme.com/241227/p12#a241227p12)
  - [How to choose which Apple Watch to buy](https://www.theverge.com/23037217/best-apple-watch-series-se-ultra)
  - [The Batman 2 is delayed to 2027, but Mickey 17’s release date is moving up](https://www.theverge.com/2024/12/27/24330346/batman-part-ii-2027-delay-mickey-17-release-date)
- - [Experts say hackers compromised several companies&#39; Chrome browser extensions, including Cyberhaven&#39;s, in a series of intrusions dating back to mid-December &lpar;Reuters&rpar;](http://www.techmeme.com/241227/p11#a241227p11)
- - [The US says it has identified a ninth telecom company impacted by the Salt Typhoon hacks, and the number of individuals directly impacted is &quot;less than 100&quot; &lpar;Greg Otto/CyberScoop&rpar;](http://www.techmeme.com/241227/p10#a241227p10)<!-- TECH:END -->
+ - [APYs are Dropping, but These Accounts Are Still a Smart Place to Stash Your Cash. Today&#39;s Savings Rates, Dec. 27, 2024](https://www.cnet.com/personal-finance/banking/apys-are-dropping-but-these-accounts-are-still-a-smart-place-to-stash-your-cash-todays-savings-rates-dec-27-2024/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

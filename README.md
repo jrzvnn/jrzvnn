@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Let&#39;s help disney.](http://9gag.com/gag/aMV4gBX)
- - 😝 [I wish my uncle only lasted 4 minutes](http://9gag.com/gag/a4P1DEd)
- - 💣 [In Brazil, a 533-meter bridge collapsed just as a man was reporting on the poor condition of the bridge.](http://9gag.com/gag/a1m13q6)
- - 😝 [Captain, experts .. is this true? Or just comedy?](http://9gag.com/gag/aVvxA28)
- - 👉 [The guy is cooked](http://9gag.com/gag/aD2DEAx)<!-- MEMES:END -->
+ - 😝 [Gift](http://9gag.com/gag/azxenrN)
+ - 😝 [This bald guy travels the world visiting countries](http://9gag.com/gag/aGyz446)
+ - 💣 [Today marks the 20th Anniversary of one of the deadliest Tsunamis](http://9gag.com/gag/aryn745)
+ - 😝 [[Meme vs. Angry Wall of Text] in real life!](http://9gag.com/gag/aGyzXn0)
+ - 👉 [National lotteries be like](http://9gag.com/gag/aBynpdz)<!-- MEMES:END -->
 
 ---
 

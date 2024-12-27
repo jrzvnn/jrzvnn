@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Your small secretary](http://9gag.com/gag/ayN9GpY)
- - 😝 [Movies were pushin it back then. A little](http://9gag.com/gag/aBynAZA)
- - 💣 [No underwear](http://9gag.com/gag/aXPr6yP)
- - 😝 [Alex the intelligent one](http://9gag.com/gag/adBgDyN)
- - 👉 [The random crab though](http://9gag.com/gag/a7o1RDx)<!-- MEMES:END -->
+ - 😝 [Ah yes, the negotiator.](http://9gag.com/gag/adBgDY2)
+ - 😝 [Chinese workplace safety animation](http://9gag.com/gag/avyAq9q)
+ - 💣 [Nice](http://9gag.com/gag/aBynp8D)
+ - 😝 [Nature](http://9gag.com/gag/a6Z1PyA)
+ - 👉 [Movies were pushin it back then. A little](http://9gag.com/gag/aBynAZA)<!-- MEMES:END -->
 
 ---
 

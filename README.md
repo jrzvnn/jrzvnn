@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Do Kwon will be extradited to the US to face charges over Terra’s $40 billion crypto crash](https://www.theverge.com/2024/12/27/24330300/terraform-labs-co-founder-do-kwon-extradited-us)
  - [Meta expects AI-generated characters to &quot;generate and share content&quot; and &quot;over time, exist on our platforms&quot;, similarly to regular accounts &lpar;Financial Times&rpar;](http://www.techmeme.com/241227/p8#a241227p8)
+ - [Xbox Cloud Gaming Outage: Here&#39;s Why Your Queue Is So Long](https://www.cnet.com/tech/gaming/xbox-cloud-gaming-outage-heres-why-your-queue-is-so-long/#ftag=CAD590a51e)
  - [Elon Musk riles up Trump’s far-right base by praising immigrants](https://www.theverge.com/2024/12/27/24330144/elon-musk-vivek-ramaswamy-silicon-valley-immigration-maga-racism-trump)
- - [The Beats Fit Pro, our favorite fitness-centric earbuds, are matching their best price](https://www.theverge.com/2024/12/27/24330203/beats-fit-pro-epicka-universal-travel-adapter-deal-sale)
- - [NASA’s Parker Solar Probe has survived the closest-ever Sun flyby](https://www.theverge.com/2024/12/27/24330216/nasa-parker-solar-probe-touch-the-sun)
- - [TSMC says it has started mass production at its first factory in Japan, located in Kumamoto, producing 12nm to 28nm chips for use in cars and image sensors &lpar;Kyodo News+&rpar;](http://www.techmeme.com/241227/p7#a241227p7)<!-- TECH:END -->
+ - [The Beats Fit Pro, our favorite fitness-centric earbuds, are matching their best price](https://www.theverge.com/2024/12/27/24330203/beats-fit-pro-epicka-universal-travel-adapter-deal-sale)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

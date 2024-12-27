@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [The key is communication](http://9gag.com/gag/a341OOm)
- - 😝 [UK is doomed](http://9gag.com/gag/aqyGo4Y)
- - 💣 [Haters gonna say it\u2019s fake.](http://9gag.com/gag/aQzX5qq)
- - 😝 [My son knows what he&#39;s doing, i&#39;m proud](http://9gag.com/gag/a1m1yo2)
- - 👉 [How to treat clinical depression](http://9gag.com/gag/a4P10Oy)<!-- MEMES:END -->
+ - 😝 [This bald guy travels the world visiting countries](http://9gag.com/gag/aGyz446)
+ - 😝 [She moves like a silkworm](http://9gag.com/gag/a2v1p0Y)
+ - 💣 [The bearded vulture is the only animal whose diet is almost exclusively bones](http://9gag.com/gag/a2v1X0Z)
+ - 😝 [No underwear](http://9gag.com/gag/aXPr6yP)
+ - 👉 [Am i drunk or Aslan in 2005 looks more realistic than lion king 2024? Probably drunk](http://9gag.com/gag/aYQr0Nm)<!-- MEMES:END -->
 
 ---
 

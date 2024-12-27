@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The US says it has identified a ninth telecom company impacted by the Salt Typhoon hacks, and the number of individuals directly impacted is &quot;less than 100&quot; &lpar;Greg Otto/CyberScoop&rpar;](http://www.techmeme.com/241227/p10#a241227p10)
  - [The best Fitbits for your fitness and health](https://www.theverge.com/22982833/best-fitbit-watch-fitness-tracker)
  - [Sydney-based Sitemate, which offers no-code software tools for industries like infrastructure and utilities, raised a AU$27.5M Series A at a ~AU$150M valuation &lpar;Shivaune Field/Forbes Australia&rpar;](http://www.techmeme.com/241227/p9#a241227p9)
  - [Do Kwon will be extradited to the US to face charges over Terra’s $40 billion crypto crash](https://www.theverge.com/2024/12/27/24330300/terraform-labs-co-founder-do-kwon-extradited-us)
- - [Meta expects AI-generated characters to &quot;generate and share content&quot; and &quot;over time, exist on our platforms&quot;, similarly to regular accounts &lpar;Financial Times&rpar;](http://www.techmeme.com/241227/p8#a241227p8)
- - [Xbox Cloud Gaming Outage: Here&#39;s Why Your Queue Is So Long](https://www.cnet.com/tech/gaming/xbox-cloud-gaming-outage-heres-why-your-queue-is-so-long/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Meta expects AI-generated characters to &quot;generate and share content&quot; and &quot;over time, exist on our platforms&quot;, similarly to regular accounts &lpar;Financial Times&rpar;](http://www.techmeme.com/241227/p8#a241227p8)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

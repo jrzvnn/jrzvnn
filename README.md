@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [There’s Still Time to Get Ahead of the Next Global Pandemic](https://www.wired.com/story/global-pandemic-public-health-lessons-preparedness/)
  - [US open-air shopping center vacancies drop to historically low levels, defying forecasts of a retail apocalypse caused by e-commerce, which has ~16% of US sales &lpar;Gregory Meyer/Financial Times&rpar;](http://www.techmeme.com/241227/p1#a241227p1)
  - [Best Internet Providers in Santa Ana, California](https://www.cnet.com/home/internet/best-internet-providers-in-santa-ana-ca/#ftag=CAD590a51e)
  - [Best Internet Providers in Roswell, Georgia](https://www.cnet.com/home/internet/best-internet-providers-in-roswell-ga/#ftag=CAD590a51e)
- - [Best Continuous Glucose Monitors of 2024](https://www.cnet.com/health/medical/best-continuous-glucose-monitors/#ftag=CAD590a51e)
- - [Today&#39;s NYT Mini Crossword Answers for Friday, Dec. 27](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-friday-dec-27/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Best Continuous Glucose Monitors of 2024](https://www.cnet.com/health/medical/best-continuous-glucose-monitors/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

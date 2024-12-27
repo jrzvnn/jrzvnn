@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Nature](http://9gag.com/gag/a6Z1PyA)
- - 😝 [This bald guy travels the world visiting countries](http://9gag.com/gag/aGyz446)
- - 💣 [Movies were pushin it back then. A little](http://9gag.com/gag/aBynAZA)
- - 😝 [Typical sibling things.](http://9gag.com/gag/ae9gwOQ)
- - 👉 [Nice](http://9gag.com/gag/aBynp8D)<!-- MEMES:END -->
+ - 😝 [How to treat clinical depression](http://9gag.com/gag/a4P10Oy)
+ - 😝 [Haters gonna say it\u2019s fake.](http://9gag.com/gag/aQzX5qq)
+ - 💣 [Holiday time repost](http://9gag.com/gag/ae9gnym)
+ - 😝 [Bro set the bar real high](http://9gag.com/gag/avyAKYE)
+ - 👉 [That looks dangerous](http://9gag.com/gag/a5Q1Ozr)<!-- MEMES:END -->
 
 ---
 

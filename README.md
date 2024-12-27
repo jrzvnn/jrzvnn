@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [It&#39;s never the skin color](http://9gag.com/gag/aNDPNob)
  - 😝 [Movies were pushin it back then. A little](http://9gag.com/gag/aBynAZA)
- - 😝 [Indian military parade](http://9gag.com/gag/aRBrbZG)
- - 💣 [So, where was I\u2026oh yea!](http://9gag.com/gag/a341X8e)
- - 😝 [How to treat clinical depression](http://9gag.com/gag/a4P10Oy)
- - 👉 [She moves like a silkworm](http://9gag.com/gag/a2v1p0Y)<!-- MEMES:END -->
+ - 💣 [She moves like a silkworm](http://9gag.com/gag/a2v1p0Y)
+ - 😝 [Nature](http://9gag.com/gag/a6Z1PyA)
+ - 👉 [The random crab though](http://9gag.com/gag/a7o1RDx)<!-- MEMES:END -->
 
 ---
 

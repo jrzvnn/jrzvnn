@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Ah yes, the negotiator.](http://9gag.com/gag/adBgDY2)
- - 😝 [Chinese workplace safety animation](http://9gag.com/gag/avyAq9q)
- - 💣 [Nice](http://9gag.com/gag/aBynp8D)
- - 😝 [Nature](http://9gag.com/gag/a6Z1PyA)
- - 👉 [Movies were pushin it back then. A little](http://9gag.com/gag/aBynAZA)<!-- MEMES:END -->
+ - 😝 [Holiday time repost](http://9gag.com/gag/ae9gnym)
+ - 😝 [Haters gonna say it\u2019s fake.](http://9gag.com/gag/aQzX5qq)
+ - 💣 [How to treat clinical depression](http://9gag.com/gag/a4P10Oy)
+ - 😝 [That looks dangerous](http://9gag.com/gag/a5Q1Ozr)
+ - 👉 [Bro set the bar real high](http://9gag.com/gag/avyAKYE)<!-- MEMES:END -->
 
 ---
 

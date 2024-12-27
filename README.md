@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [NASA&#39;s Parker Solar Probe Flies Closer to the Sun Than Any Object Ever Has](https://www.cnet.com/science/nasas-parker-solar-probe-flies-closer-to-the-sun-than-any-object-ever-has/#ftag=CAD590a51e)
  - [Bookkeeping startup Bench, which raised $100M+ including from Shopify, closes down effective immediately; several employees say Bench also laid off staff &lpar;Natasha Mascarenhas/The Information&rpar;](http://www.techmeme.com/241227/p13#a241227p13)
+ - [Pet Food Recall Linked to Bird Flu Contamination: What to Know](https://www.cnet.com/health/pet-food-recall-linked-to-bird-flu-contamination-what-to-know/#ftag=CAD590a51e)
  - [Eight free-speech groups, including the EFF, and three members of Congress file briefs with SCOTUS in support of TikTok&#39;s appeal against the divest-or-ban law &lpar;Todd Spangler/Variety&rpar;](http://www.techmeme.com/241227/p12#a241227p12)
- - [How to choose which Apple Watch to buy](https://www.theverge.com/23037217/best-apple-watch-series-se-ultra)
- - [The Batman 2 is delayed to 2027, but Mickey 17’s release date is moving up](https://www.theverge.com/2024/12/27/24330346/batman-part-ii-2027-delay-mickey-17-release-date)
- - [Experts say hackers compromised several companies&#39; Chrome browser extensions, including Cyberhaven&#39;s, in a series of intrusions dating back to mid-December &lpar;Reuters&rpar;](http://www.techmeme.com/241227/p11#a241227p11)<!-- TECH:END -->
+ - [Best Internet Providers in St. Paul, Minnesota](https://www.cnet.com/home/internet/best-internet-providers-in-st-paul-mn/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

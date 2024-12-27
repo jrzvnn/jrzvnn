@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Holiday time repost](http://9gag.com/gag/ae9gnym)
- - 😝 [Haters gonna say it\u2019s fake.](http://9gag.com/gag/aQzX5qq)
- - 💣 [How to treat clinical depression](http://9gag.com/gag/a4P10Oy)
- - 😝 [That looks dangerous](http://9gag.com/gag/a5Q1Ozr)
- - 👉 [Bro set the bar real high](http://9gag.com/gag/avyAKYE)<!-- MEMES:END -->
+ - 😝 [Poor Maryjane\u2026](http://9gag.com/gag/aYQr36V)
+ - 😝 [Alex the intelligent one](http://9gag.com/gag/adBgDyN)
+ - 💣 [That looks dangerous](http://9gag.com/gag/a5Q1Ozr)
+ - 😝 [Gift](http://9gag.com/gag/azxenrN)
+ - 👉 [`Gen-Z entered the workforce chat`](http://9gag.com/gag/aByn51Z)<!-- MEMES:END -->
 
 ---
 

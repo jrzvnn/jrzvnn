@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [Thanks to people like this, I stopped donating.](http://9gag.com/gag/aW4g3LZ)
+ - 😝 [The way it crept down. Slow and sinister.](http://9gag.com/gag/aD2DydN)
+ - 💣 [National lotteries be like](http://9gag.com/gag/aBynpdz)
  - 😝 [Heels and glasses](http://9gag.com/gag/a6Z10Dq)
- - 😝 [The random crab though](http://9gag.com/gag/a7o1RDx)
- - 💣 [Nice](http://9gag.com/gag/aBynp8D)
- - 😝 [National lotteries be like](http://9gag.com/gag/aBynpdz)
- - 👉 [The way it crept down. Slow and sinister.](http://9gag.com/gag/aD2DydN)<!-- MEMES:END -->
+ - 👉 [So, where was I\u2026oh yea!](http://9gag.com/gag/a341X8e)<!-- MEMES:END -->
 
 ---
 

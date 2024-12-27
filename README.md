@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [The key is communication](http://9gag.com/gag/a341OOm)
- - 😝 [My son knows what he&#39;s doing, i&#39;m proud](http://9gag.com/gag/a1m1yo2)
- - 💣 [Haters gonna say it\u2019s fake.](http://9gag.com/gag/aQzX5qq)
- - 😝 [How to treat clinical depression](http://9gag.com/gag/a4P10Oy)
- - 👉 [Bro set the bar real high](http://9gag.com/gag/avyAKYE)<!-- MEMES:END -->
+ - 😝 [No audio but still satisfied](http://9gag.com/gag/aqyGMjp)
+ - 😝 [She moves like a silkworm](http://9gag.com/gag/a2v1p0Y)
+ - 💣 [In 1997, Daft Punk would release a song that has the same three words repeated a total of 144 times, yet still become a global hit and have a music video that became iconic](http://9gag.com/gag/a6Z16Ne)
+ - 😝 [This bald guy travels the world visiting countries](http://9gag.com/gag/aGyz446)
+ - 👉 [Hot hot](http://9gag.com/gag/aqyGwKY)<!-- MEMES:END -->
 
 ---
 

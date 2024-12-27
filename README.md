@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Imagine the employees having to deal with these people daily](http://9gag.com/gag/a5Q1Yvq)
- - 😝 [Hot hot](http://9gag.com/gag/aqyGwKY)
- - 💣 [Nature](http://9gag.com/gag/a6Z1PyA)
- - 😝 [National lotteries be like](http://9gag.com/gag/aBynpdz)
- - 👉 [Typical sibling things.](http://9gag.com/gag/ae9gwOQ)<!-- MEMES:END -->
+ - 😝 [Nature](http://9gag.com/gag/a6Z1PyA)
+ - 😝 [This bald guy travels the world visiting countries](http://9gag.com/gag/aGyz446)
+ - 💣 [The way it crept down. Slow and sinister.](http://9gag.com/gag/aD2DydN)
+ - 😝 [What is the phenomenon called?](http://9gag.com/gag/aRBrnXA)
+ - 👉 [The random crab though](http://9gag.com/gag/a7o1RDx)<!-- MEMES:END -->
 
 ---
 

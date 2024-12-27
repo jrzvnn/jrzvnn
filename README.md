@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Poor Maryjane\u2026](http://9gag.com/gag/aYQr36V)
- - 😝 [Alex the intelligent one](http://9gag.com/gag/adBgDyN)
- - 💣 [That looks dangerous](http://9gag.com/gag/a5Q1Ozr)
- - 😝 [Gift](http://9gag.com/gag/azxenrN)
- - 👉 [`Gen-Z entered the workforce chat`](http://9gag.com/gag/aByn51Z)<!-- MEMES:END -->
+ - 😝 [Nature](http://9gag.com/gag/a6Z1PyA)
+ - 😝 [This bald guy travels the world visiting countries](http://9gag.com/gag/aGyz446)
+ - 💣 [Movies were pushin it back then. A little](http://9gag.com/gag/aBynAZA)
+ - 😝 [Typical sibling things.](http://9gag.com/gag/ae9gwOQ)
+ - 👉 [Nice](http://9gag.com/gag/aBynp8D)<!-- MEMES:END -->
 
 ---
 

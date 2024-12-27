@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Core memory](http://9gag.com/gag/avyAj15)
- - 😝 [She moves like a silkworm](http://9gag.com/gag/a2v1p0Y)
- - 💣 [So, where was I\u2026oh yea!](http://9gag.com/gag/a341X8e)
- - 😝 [This bald guy travels the world visiting countries](http://9gag.com/gag/aGyz446)
- - 👉 [Camels can eat cactus but not lemons](http://9gag.com/gag/avyAqGd)<!-- MEMES:END -->
+ - 😝 [UK is doomed](http://9gag.com/gag/aqyGo4Y)
+ - 😝 [Mery poppins](http://9gag.com/gag/a341635)
+ - 💣 [Haters gonna say it\u2019s fake.](http://9gag.com/gag/aQzX5qq)
+ - 😝 [My son knows what he&#39;s doing, i&#39;m proud](http://9gag.com/gag/a1m1yo2)
+ - 👉 [How to treat clinical depression](http://9gag.com/gag/a4P10Oy)<!-- MEMES:END -->
 
 ---
 

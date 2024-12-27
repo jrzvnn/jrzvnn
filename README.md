@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Nature](http://9gag.com/gag/a6Z1PyA)
- - 😝 [This bald guy travels the world visiting countries](http://9gag.com/gag/aGyz446)
- - 💣 [The way it crept down. Slow and sinister.](http://9gag.com/gag/aD2DydN)
- - 😝 [What is the phenomenon called?](http://9gag.com/gag/aRBrnXA)
- - 👉 [The random crab though](http://9gag.com/gag/a7o1RDx)<!-- MEMES:END -->
+ - 😝 [Captain, experts .. is this true? Or just comedy?](http://9gag.com/gag/aVvxA28)
+ - 😝 [Holiday time repost](http://9gag.com/gag/ae9gnym)
+ - 💣 [Let people like what they like. Except for disco polo.](http://9gag.com/gag/abAg7pr)
+ - 😝 [Let&#39;s help disney.](http://9gag.com/gag/aMV4gBX)
+ - 👉 [Hmmm](http://9gag.com/gag/aVvxAe2)<!-- MEMES:END -->
 
 ---
 

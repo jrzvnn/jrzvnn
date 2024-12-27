@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Winks from Macy](http://9gag.com/gag/a4P1vMZ)
- - 😝 [Bro set the bar real high](http://9gag.com/gag/avyAKYE)
- - 💣 [That looks dangerous](http://9gag.com/gag/a5Q1Ozr)
- - 😝 [Holiday time repost](http://9gag.com/gag/ae9gnym)
- - 👉 [Let people like what they like. Except for disco polo.](http://9gag.com/gag/abAg7pr)<!-- MEMES:END -->
+ - 😝 [Imagine the employees having to deal with these people daily](http://9gag.com/gag/a5Q1Yvq)
+ - 😝 [Hot hot](http://9gag.com/gag/aqyGwKY)
+ - 💣 [Nature](http://9gag.com/gag/a6Z1PyA)
+ - 😝 [National lotteries be like](http://9gag.com/gag/aBynpdz)
+ - 👉 [Typical sibling things.](http://9gag.com/gag/ae9gwOQ)<!-- MEMES:END -->
 
 ---
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Montenegro says Terraform Labs co-founder Do Kwon will be extradited to the US, potentially ending a standoff over competing demands by the US and South Korea &lpar;Bloomberg&rpar;](http://www.techmeme.com/241227/p6#a241227p6)
  - [Simplify Your Morning With a One-Step Coffee-Weighing Cup](https://www.wired.com/story/subminimal-subscale-rave/)
  - [How we work: Charles prepares for a big Apple tech refresh in 2025](https://appleinsider.com/articles/24/12/27/how-we-work-charles-prepares-for-a-big-apple-tech-refresh-in-2025?utm_medium=rss)
  - [The Canon R5 Mark II is everything I love about this camera line](https://www.theverge.com/24327724/canon-r5-mark-ii-review-best-hybrid-camera)
- - [9 great Game Pass games for your Xbox](https://www.theverge.com/24317923/xbox-game-pass-best-games-2024-microsoft-pc)
- - [OpenAI announces plan to transform into a for-profit company](https://www.theverge.com/2024/12/27/24330131/openai-plan-transform-for-profit-company)<!-- TECH:END -->
+ - [9 great Game Pass games for your Xbox](https://www.theverge.com/24317923/xbox-game-pass-best-games-2024-microsoft-pc)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

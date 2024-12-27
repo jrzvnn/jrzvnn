@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Memecoin MIRA, created to fund research into a brain tumor affecting tech CEO Siqi Chen&#39;s daughter, hit an $80M market cap before falling as Chen began selling &lpar;Zack Abrams/The Block&rpar;](http://www.techmeme.com/241226/p20#a241226p20)
  - [OpenAI says ChatGPT is mostly recovered and APIs and Sora fully operational, after an outage led to the services &quot;experiencing high error rates&quot; for a few hours &lpar;Emma Roth/The Verge&rpar;](http://www.techmeme.com/241226/p19#a241226p19)
  - [A profile of Boring Company President and key Elon Musk deputy Steve Davis, who has spent 20+ years helping Musk cut costs and now helps recruit staff at DOGE &lpar;Sarah McBride/Bloomberg&rpar;](http://www.techmeme.com/241226/p18#a241226p18)
  - [Here’s how many people tuned into Netflix’s Christmas Day NFL games](https://www.theverge.com/2024/12/26/24329685/netflix-nfl-christmas-day-games-streaming-numbers)
- - [Hertz is asking EV renters if they want to keep it, permanently](https://www.theverge.com/2024/12/26/24329874/hertz-ev-tesla-email-sales-offers)
- - [Best Facial Sunscreens of 2024, Tested and Chosen From 50 Top Brands](https://www.cnet.com/health/personal-care/best-sunscreen-for-face/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Hertz is asking EV renters if they want to keep it, permanently](https://www.theverge.com/2024/12/26/24329874/hertz-ev-tesla-email-sales-offers)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

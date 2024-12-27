@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Today&#39;s NYT Mini Crossword Answers for Friday, Dec. 27](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-friday-dec-27/#ftag=CAD590a51e)
- - [Best Solar Panel Installation Companies in Connecticut](https://www.cnet.com/home/energy-and-utilities/connecticut-solar-panels/#ftag=CAD590a51e)
- - [Today&#39;s NYT Connections Hints, Answers and Help for Dec. 27, #565](https://www.cnet.com/tech/gaming/todays-nyt-connections-hints-answers-and-help-for-friday-dec-27-565/#ftag=CAD590a51e)
- - [Today&#39;s NYT Strands Hints, Answers and Help for Dec. 27, #299](https://www.cnet.com/tech/gaming/todays-nyt-strands-hints-answers-and-help-for-dec-27-299/#ftag=CAD590a51e)
- - [Today&#39;s Wordle Hints, Answer and Help for Dec. 27, #1287](https://www.cnet.com/tech/gaming/todays-wordle-hints-answer-and-help-for-dec-27-1287/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [US open-air shopping center vacancies drop to historically low levels, defying forecasts of a retail apocalypse caused by e-commerce, which has ~16% of US sales &lpar;Gregory Meyer/Financial Times&rpar;](http://www.techmeme.com/241227/p1#a241227p1)
+ - [Best Internet Providers in Santa Ana, California](https://www.cnet.com/home/internet/best-internet-providers-in-santa-ana-ca/#ftag=CAD590a51e)
+ - [Best Internet Providers in Roswell, Georgia](https://www.cnet.com/home/internet/best-internet-providers-in-roswell-ga/#ftag=CAD590a51e)
+ - [Best Continuous Glucose Monitors of 2024](https://www.cnet.com/health/medical/best-continuous-glucose-monitors/#ftag=CAD590a51e)
+ - [Today&#39;s NYT Mini Crossword Answers for Friday, Dec. 27](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-friday-dec-27/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [The way it crept down. Slow and sinister.](http://9gag.com/gag/aD2DydN)
- - 😝 [It&#39;s never the skin color](http://9gag.com/gag/aNDPNob)
- - 💣 [Hot hot](http://9gag.com/gag/aqyGwKY)
- - 😝 [`Gen-Z entered the workforce chat`](http://9gag.com/gag/aByn51Z)
- - 👉 [Thanks to people like this, I stopped donating.](http://9gag.com/gag/aW4g3LZ)<!-- MEMES:END -->
+ - 😝 [Winks from Macy](http://9gag.com/gag/a4P1vMZ)
+ - 😝 [Bro set the bar real high](http://9gag.com/gag/avyAKYE)
+ - 💣 [That looks dangerous](http://9gag.com/gag/a5Q1Ozr)
+ - 😝 [Holiday time repost](http://9gag.com/gag/ae9gnym)
+ - 👉 [Let people like what they like. Except for disco polo.](http://9gag.com/gag/abAg7pr)<!-- MEMES:END -->
 
 ---
 

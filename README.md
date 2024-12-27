@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The USB-C charging mandate arrives in the EU — here’s what that means](https://www.theverge.com/24330106/usb-c-common-charger-directive-explained-europe)
  - [Revisiting the 3 Biggest Hardware Flops of 2024: Apple Vision Pro, Rabbit R1, Humane Ai Pin](https://www.wired.com/story/revisiting-the-three-biggest-flops-of-2024/)
  - [The Paper Passport Is Dying](https://www.wired.com/story/the-paper-passport-is-dying/)
- - [This Was the Year of the Influencer Political Takeover](https://www.wired.com/story/this-was-the-year-of-the-influencer-political-takeover/)
- - [Best Over-the-Counter Eye Drops of 2024](https://www.cnet.com/health/personal-care/best-eye-drops/#ftag=CAD590a51e)
- - [Don&#39;t Let High APYs Pass You By. Today&#39;s CD Rates, Dec. 27, 2024](https://www.cnet.com/personal-finance/banking/dont-let-high-apys-pass-you-by-todays-cd-rates-dec-27-2024/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Best Internet Providers in Portland, Maine](https://www.cnet.com/home/internet/best-internet-providers-in-portland-me/#ftag=CAD590a51e)
+ - [Have Apple Intelligence FOMO? Don&#39;t. 3 Work-Arounds To Consider](https://www.cnet.com/tech/services-and-software/have-apple-intelligence-fomo-dont-3-work-arounds-to-consider/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

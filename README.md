@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [How to treat clinical depression](http://9gag.com/gag/a4P10Oy)
- - 😝 [Haters gonna say it\u2019s fake.](http://9gag.com/gag/aQzX5qq)
- - 💣 [Holiday time repost](http://9gag.com/gag/ae9gnym)
- - 😝 [Bro set the bar real high](http://9gag.com/gag/avyAKYE)
- - 👉 [That looks dangerous](http://9gag.com/gag/a5Q1Ozr)<!-- MEMES:END -->
+ - 😝 [Do you believe in coincidences?](http://9gag.com/gag/ayN9j0X)
+ - 😝 [No underwear](http://9gag.com/gag/aXPr6yP)
+ - 💣 [It&#39;s never the skin color](http://9gag.com/gag/aNDPNob)
+ - 😝 [Poor Maryjane\u2026](http://9gag.com/gag/aYQr36V)
+ - 👉 [Nature](http://9gag.com/gag/a6Z1PyA)<!-- MEMES:END -->
 
 ---
 

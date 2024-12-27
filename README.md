@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Man has a close encounter with the Largest Predator on the Planet.](http://9gag.com/gag/aD2D5Mw)
- - 😝 [Who the f**k steals a cat, they are literally everywhere.](http://9gag.com/gag/a0eZ3Rv)
- - 💣 [Wild wild west](http://9gag.com/gag/a871NmO)
- - 😝 [Thank You Very Very Much](http://9gag.com/gag/aLnvowv)
- - 👉 [She moves like a silkworm](http://9gag.com/gag/a2v1p0Y)<!-- MEMES:END -->
+ - 😝 [In Brazil, a 533-meter bridge collapsed just as a man was reporting on the poor condition of the bridge.](http://9gag.com/gag/a1m13q6)
+ - 😝 [So, where was I\u2026oh yea!](http://9gag.com/gag/a341X8e)
+ - 💣 [Who the f**k steals a cat, they are literally everywhere.](http://9gag.com/gag/a0eZ3Rv)
+ - 😝 [She moves like a silkworm](http://9gag.com/gag/a2v1p0Y)
+ - 👉 [`Gen-Z entered the workforce chat`](http://9gag.com/gag/aByn51Z)<!-- MEMES:END -->
 
 ---
 

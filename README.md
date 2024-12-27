@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Camels can eat cactus but not lemons](http://9gag.com/gag/avyAqGd)
- - 😝 [In Brazil, a 533-meter bridge collapsed just as a man was reporting on the poor condition of the bridge.](http://9gag.com/gag/a1m13q6)
- - 💣 [So, where was I\u2026oh yea!](http://9gag.com/gag/a341X8e)
- - 😝 [Ah yes, the negotiator.](http://9gag.com/gag/adBgDY2)
- - 👉 [Who the f**k steals a cat, they are literally everywhere.](http://9gag.com/gag/a0eZ3Rv)<!-- MEMES:END -->
+ - 😝 [Movies were pushin it back then. A little](http://9gag.com/gag/aBynAZA)
+ - 😝 [No audio but still satisfied](http://9gag.com/gag/aqyGMjp)
+ - 💣 [She moves like a silkworm](http://9gag.com/gag/a2v1p0Y)
+ - 😝 [Who the f**k steals a cat, they are literally everywhere.](http://9gag.com/gag/a0eZ3Rv)
+ - 👉 [In Brazil, a 533-meter bridge collapsed just as a man was reporting on the poor condition of the bridge.](http://9gag.com/gag/a1m13q6)<!-- MEMES:END -->
 
 ---
 

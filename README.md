@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [National lotteries be like](http://9gag.com/gag/aBynpdz)
- - 😝 [Let people like what they like. Except for disco polo.](http://9gag.com/gag/abAg7pr)
- - 💣 [Hmmm](http://9gag.com/gag/aVvxAe2)
- - 😝 [Let&#39;s help disney.](http://9gag.com/gag/aMV4gBX)
- - 👉 [Captain, experts .. is this true? Or just comedy?](http://9gag.com/gag/aVvxA28)<!-- MEMES:END -->
+ - 😝 [Nature](http://9gag.com/gag/a6Z1PyA)
+ - 😝 [The way it crept down. Slow and sinister.](http://9gag.com/gag/aD2DydN)
+ - 💣 [What is the phenomenon called?](http://9gag.com/gag/aRBrnXA)
+ - 😝 [Nice](http://9gag.com/gag/aBynp8D)
+ - 👉 [National lotteries be like](http://9gag.com/gag/aBynpdz)<!-- MEMES:END -->
 
 ---
 

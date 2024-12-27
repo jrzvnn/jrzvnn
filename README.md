@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [OpenAI says its board of directors is evaluating its corporate structure, including a plan to turn its for-profit arm into a Delaware Public Benefit Corporation &lpar;OpenAI&rpar;](http://www.techmeme.com/241227/p3#a241227p3)
  - [17 Best Smart Home Lighting &lpar;2024&rpar;: Decorative Panels, LED Strips, and Ambient Lamps](https://www.wired.com/gallery/best-smart-lighting/)
  - [A fake Nintendo lawyer is scaring YouTubers, and it’s not clear YouTube can stop him](https://www.theverge.com/2024/12/27/24326278/nintendo-fake-takedowns-youtube-domtendo-dmca)
  - [How to fix System Data filling your iPhone&#39;s storage](https://appleinsider.com/articles/22/05/29/how-to-fix-system-data-filling-your-iphones-storage?utm_medium=rss)
- - [The USB-C charging mandate arrives in the EU — here’s what that means](https://www.theverge.com/24330106/usb-c-common-charger-directive-explained-europe)
- - [Revisiting the 3 Biggest Hardware Flops of 2024: Apple Vision Pro, Rabbit R1, Humane Ai Pin](https://www.wired.com/story/revisiting-the-three-biggest-flops-of-2024/)<!-- TECH:END -->
+ - [Best Internet Providers in San Antonio, Texas](https://www.cnet.com/home/internet/best-internet-providers-in-san-antonio-tx/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

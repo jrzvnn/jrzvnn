@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [OpenAI announces plan to transform into a for-profit company](https://www.theverge.com/2024/12/27/24330131/openai-plan-transform-for-profit-company)
- - [OpenAI says the PBC will oversee commercial operations, and the nonprofit will hire staff to pursue charitable activities in health care, education, and science &lpar;Hayden Field/CNBC&rpar;](http://www.techmeme.com/241227/p5#a241227p5)
- - [OpenAI says its non-profit arm would receive shares in the new public benefit corporation at a valuation determined by independent financial advisors &lpar;Cade Metz/New York Times&rpar;](http://www.techmeme.com/241227/p4#a241227p4)
- - [How Does a Movie Projector Show the Color Black?](https://www.wired.com/story/how-does-a-movie-projector-show-the-color-black/)
- - [2024’s best games channeled the heart and soul of the ‘90s](https://www.theverge.com/24325371/2024s-best-games-classic-genres-astro-bot-balatro-metaphor)<!-- TECH:END -->
+ - [Simplify Your Morning With a One-Step Coffee-Weighing Cup](https://www.wired.com/story/subminimal-subscale-rave/)
+ - [How we work: Charles prepares for a big Apple tech refresh in 2025](https://appleinsider.com/articles/24/12/27/how-we-work-charles-prepares-for-a-big-apple-tech-refresh-in-2025?utm_medium=rss)
+ - [The Canon R5 Mark II is everything I love about this camera line](https://www.theverge.com/24327724/canon-r5-mark-ii-review-best-hybrid-camera)
+ - [9 great Game Pass games for your Xbox](https://www.theverge.com/24317923/xbox-game-pass-best-games-2024-microsoft-pc)
+ - [OpenAI announces plan to transform into a for-profit company](https://www.theverge.com/2024/12/27/24330131/openai-plan-transform-for-profit-company)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

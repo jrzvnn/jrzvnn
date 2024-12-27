@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Best Internet Providers in Pittsburgh, Pennsylvania](https://www.cnet.com/home/internet/best-internet-providers-in-pittsburgh-pa/#ftag=CAD590a51e)
  - [OpenAI says its board of directors is evaluating its corporate structure, including a plan to turn its for-profit arm into a Delaware Public Benefit Corporation &lpar;OpenAI&rpar;](http://www.techmeme.com/241227/p3#a241227p3)
  - [17 Best Smart Home Lighting &lpar;2024&rpar;: Decorative Panels, LED Strips, and Ambient Lamps](https://www.wired.com/gallery/best-smart-lighting/)
- - [A fake Nintendo lawyer is scaring YouTubers, and it’s not clear YouTube can stop him](https://www.theverge.com/2024/12/27/24326278/nintendo-fake-takedowns-youtube-domtendo-dmca)
- - [How to fix System Data filling your iPhone&#39;s storage](https://appleinsider.com/articles/22/05/29/how-to-fix-system-data-filling-your-iphones-storage?utm_medium=rss)
- - [Best Internet Providers in San Antonio, Texas](https://www.cnet.com/home/internet/best-internet-providers-in-san-antonio-tx/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Here&#39;s Why You Should Keep Your Landline, Even in 2025](https://www.cnet.com/tech/mobile/heres-why-you-should-keep-your-landline-even-in-2025/#ftag=CAD590a51e)
+ - [iPhone 16 Pro Max vs. Galaxy S24 Ultra Camera Comparison: Which Phone Takes the Prize?](https://www.cnet.com/tech/mobile/iphone-16-pro-max-vs-galaxy-s24-ultra-camera-comparison-which-phone-takes-the-prize/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

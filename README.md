@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [White children things](http://9gag.com/gag/aAyGWYL)
- - 😝 [No underwear](http://9gag.com/gag/aXPr6yP)
- - 💣 [Finally found one](http://9gag.com/gag/aD2DeQN)
- - 😝 [Here we go](http://9gag.com/gag/aPAZb8G)
- - 👉 [It&#39;s never the skin color](http://9gag.com/gag/aNDPNob)<!-- MEMES:END -->
+ - 😝 [Poor Maryjane\u2026](http://9gag.com/gag/aYQr36V)
+ - 😝 [Gimme a kiss, behbeh...](http://9gag.com/gag/aZZreP0)
+ - 💣 [White children things](http://9gag.com/gag/aAyGWYL)
+ - 😝 [When Santa forgot your gift.](http://9gag.com/gag/a6Z1Y32)
+ - 👉 [Finally found one](http://9gag.com/gag/aD2DeQN)<!-- MEMES:END -->
 
 ---
 

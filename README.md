@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Best Internet Providers in Santa Clarita, California](https://www.cnet.com/home/internet/best-internet-providers-in-santa-clarita-ca/#ftag=CAD590a51e)
  - [A look at the EU&#39;s common charging regulations, which come into force on Dec. 28 and cover USB-C ports, fast charging, unbundling of charging bricks, and more &lpar;Callum Booth/The Verge&rpar;](http://www.techmeme.com/241227/p19#a241227p19)
  - [Best Internet Providers in Sarasota, Florida](https://www.cnet.com/home/internet/best-internet-providers-in-sarasota-fl/#ftag=CAD590a51e)
  - [A profile of Tron founder Justin Sun, who wants to be the &quot;Elon Musk of the crypto world&quot; and advises the Trump-backed crypto project World Liberty Financial &lpar;Vicky Ge Huang/Wall Street Journal&rpar;](http://www.techmeme.com/241227/p18#a241227p18)
- - [Best Internet Providers in St. Petersburg, Florida](https://www.cnet.com/home/internet/best-internet-providers-in-st-petersburg-fl/#ftag=CAD590a51e)
- - [Apple ceases iPhone 14, third-gen iPhone SE sales in the EU](https://appleinsider.com/articles/24/12/27/apple-ceases-iphone-14-third-gen-iphone-se-sales-in-the-eu?utm_medium=rss)<!-- TECH:END -->
+ - [Best Internet Providers in St. Petersburg, Florida](https://www.cnet.com/home/internet/best-internet-providers-in-st-petersburg-fl/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

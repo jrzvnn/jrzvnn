@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [When Santa forgot your gift.](http://9gag.com/gag/a6Z1Y32)
  - 😝 [White children things](http://9gag.com/gag/aAyGWYL)
- - 💣 [Today marks the 20th Anniversary of one of the deadliest Tsunamis](http://9gag.com/gag/aryn745)
- - 😝 [Pic of actual killer blown up vs Luigi](http://9gag.com/gag/aGyz43Z)
- - 👉 [And just like that your life is over](http://9gag.com/gag/a0eZAev)<!-- MEMES:END -->
+ - 😝 [No underwear](http://9gag.com/gag/aXPr6yP)
+ - 💣 [Finally found one](http://9gag.com/gag/aD2DeQN)
+ - 😝 [Here we go](http://9gag.com/gag/aPAZb8G)
+ - 👉 [It&#39;s never the skin color](http://9gag.com/gag/aNDPNob)<!-- MEMES:END -->
 
 ---
 

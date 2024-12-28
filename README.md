@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [The guy is cooked](http://9gag.com/gag/aD2DEAx)
- - 😝 [Man will look at this and said `hell yeah`](http://9gag.com/gag/arynj0B)
- - 💣 [Poland is based](http://9gag.com/gag/ae9go5v)
- - 😝 [Updating myself here because I have no one else but you f**kers. See you in 30 more days as I go from Hagrid to....less Hagrid](http://9gag.com/gag/adBgGy9)
- - 👉 [What\u2019s the latest news there? You got it going in over there? How goes life? Avoiding fat \u201celephants\u201d?](http://9gag.com/gag/a9y1Qdm)<!-- MEMES:END -->
+ - 😝 [When Santa forgot your gift.](http://9gag.com/gag/a6Z1Y32)
+ - 😝 [Gimme a kiss, behbeh...](http://9gag.com/gag/aZZreP0)
+ - 💣 [So, where was I\u2026oh yea!](http://9gag.com/gag/a341X8e)
+ - 😝 [What is the phenomenon called?](http://9gag.com/gag/aRBrnXA)
+ - 👉 [Tao Wickrath](http://9gag.com/gag/avyANj5)<!-- MEMES:END -->
 
 ---
 

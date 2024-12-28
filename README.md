@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [Heels and glasses](http://9gag.com/gag/a6Z10Dq)
+ - 😝 [This bald guy travels the world visiting countries](http://9gag.com/gag/aGyz446)
+ - 💣 [When Santa forgot your gift.](http://9gag.com/gag/a6Z1Y32)
  - 😝 [Poor Maryjane\u2026](http://9gag.com/gag/aYQr36V)
- - 😝 [It&#39;s never the skin color](http://9gag.com/gag/aNDPNob)
- - 💣 [Heels and glasses](http://9gag.com/gag/a6Z10Dq)
- - 😝 [National lotteries be like](http://9gag.com/gag/aBynpdz)
- - 👉 [When Santa forgot your gift.](http://9gag.com/gag/a6Z1Y32)<!-- MEMES:END -->
+ - 👉 [Pic of actual killer blown up vs Luigi](http://9gag.com/gag/aGyz43Z)<!-- MEMES:END -->
 
 ---
 

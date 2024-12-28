@@ -167,10 +167,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [When Santa forgot your gift.](http://9gag.com/gag/a6Z1Y32)
- - 😝 [It&#39;s the time of the year again my friends, the feminists will make way more false rape accusations as usual, do not help any woman, stay alert and take care who you are talking to... You never know when a woman feels bored and decides to make a false accusation... Stay safe](http://9gag.com/gag/a5Q101O)
- - 💣 [What is the phenomenon called?](http://9gag.com/gag/aRBrnXA)
  - 😝 [White children things](http://9gag.com/gag/aAyGWYL)
- - 👉 [This bald guy travels the world visiting countries](http://9gag.com/gag/aGyz446)<!-- MEMES:END -->
+ - 💣 [Today marks the 20th Anniversary of one of the deadliest Tsunamis](http://9gag.com/gag/aryn745)
+ - 😝 [Pic of actual killer blown up vs Luigi](http://9gag.com/gag/aGyz43Z)
+ - 👉 [And just like that your life is over](http://9gag.com/gag/a0eZAev)<!-- MEMES:END -->
 
 ---
 

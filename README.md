@@ -166,10 +166,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [A train made by BMW](http://9gag.com/gag/aNDP7XA)
+ - 😝 [Yeah, I am envious...](http://9gag.com/gag/a871PEY)
+ - 😝 [Tao Wickrath](http://9gag.com/gag/avyANj5)
+ - 💣 [Big brain time](http://9gag.com/gag/aGyz300)
  - 😝 [Heels and glasses](http://9gag.com/gag/a6Z10Dq)
- - 💣 [Gimme a kiss, behbeh...](http://9gag.com/gag/aZZreP0)
- - 😝 [Your small secretary](http://9gag.com/gag/ayN9GpY)
  - 👉 [Poor Maryjane\u2026](http://9gag.com/gag/aYQr36V)<!-- MEMES:END -->
 
 ---

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [When Santa forgot your gift.](http://9gag.com/gag/a6Z1Y32)
  - 😝 [Heels and glasses](http://9gag.com/gag/a6Z10Dq)
+ - 💣 [Your small secretary](http://9gag.com/gag/ayN9GpY)
  - 😝 [This bald guy travels the world visiting countries](http://9gag.com/gag/aGyz446)
- - 💣 [When Santa forgot your gift.](http://9gag.com/gag/a6Z1Y32)
- - 😝 [Poor Maryjane\u2026](http://9gag.com/gag/aYQr36V)
- - 👉 [Pic of actual killer blown up vs Luigi](http://9gag.com/gag/aGyz43Z)<!-- MEMES:END -->
+ - 👉 [Gift](http://9gag.com/gag/azxenrN)<!-- MEMES:END -->
 
 ---
 

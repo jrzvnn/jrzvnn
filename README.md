@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [National lotteries be like](http://9gag.com/gag/aBynpdz)
- - 😝 [Pic of actual killer blown up vs Luigi](http://9gag.com/gag/aGyz43Z)
- - 💣 [The way it crept down. Slow and sinister.](http://9gag.com/gag/aD2DydN)
- - 😝 [Here we go](http://9gag.com/gag/aPAZb8G)
- - 👉 [Finally found one](http://9gag.com/gag/aD2DeQN)<!-- MEMES:END -->
+ - 😝 [And just like that your life is over](http://9gag.com/gag/a0eZAev)
+ - 😝 [The way it crept down. Slow and sinister.](http://9gag.com/gag/aD2DydN)
+ - 💣 [Gift](http://9gag.com/gag/azxenrN)
+ - 😝 [Finally found one](http://9gag.com/gag/aD2DeQN)
+ - 👉 [When Santa forgot your gift.](http://9gag.com/gag/a6Z1Y32)<!-- MEMES:END -->
 
 ---
 

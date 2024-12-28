@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [She had bro tapping out](http://9gag.com/gag/agmgW9K)
- - 😝 [Pic of actual killer blown up vs Luigi](http://9gag.com/gag/aGyz43Z)
- - 💣 [Your small secretary](http://9gag.com/gag/ayN9GpY)
- - 😝 [When Santa forgot your gift.](http://9gag.com/gag/a6Z1Y32)
- - 👉 [Here we go](http://9gag.com/gag/aPAZb8G)<!-- MEMES:END -->
+ - 😝 [The guy is cooked](http://9gag.com/gag/aD2DEAx)
+ - 😝 [Man will look at this and said `hell yeah`](http://9gag.com/gag/arynj0B)
+ - 💣 [What\u2019s the latest news there? You got it going in over there? How goes life? Avoiding fat \u201celephants\u201d?](http://9gag.com/gag/a9y1Qdm)
+ - 😝 [A grown man and her wife](http://9gag.com/gag/aW4gKYq)
+ - 👉 [Updating myself here because I have no one else but you f**kers. See you in 30 more days as I go from Hagrid to....less Hagrid](http://9gag.com/gag/adBgGy9)<!-- MEMES:END -->
 
 ---
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Flexbar review: Could be the heir-apparent to the Touch Bar, someday](https://appleinsider.com/articles/24/12/28/flexbar-review-could-be-the-heir-apparent-to-the-touch-bar-someday?utm_medium=rss)
  - [The US plans to update HIPAA with new cybersecurity rules to protect patients&#39; private data, including mandatory encryption and multifactor authentication &lpar;A.J. Vicens/Reuters&rpar;](http://www.techmeme.com/241228/p9#a241228p9)
  - [What&#39;s Free on the Epic Games Store This Week?](https://www.cnet.com/tech/gaming/list-of-free-games-on-the-epic-games-store-this-week/#ftag=CAD590a51e)
  - [The 6 Best White Noise Machines of 2024](https://www.cnet.com/health/sleep/best-white-noise-machines/#ftag=CAD590a51e)
- - [Trump supports H-1B visas, saying &quot;I have many H-1B visas on my properties. I&#39;ve been a believer in H-1B&quot;, siding with Musk in the MAGA debate on the issue &lpar;Jon Levine/New York Post&rpar;](http://www.techmeme.com/241228/p8#a241228p8)
- - [Accessory maker Zagg notifies customers of credit card info breach](https://appleinsider.com/articles/24/12/28/accessory-maker-zagg-notifies-customers-of-credit-card-info-breach?utm_medium=rss)<!-- TECH:END -->
+ - [Trump supports H-1B visas, saying &quot;I have many H-1B visas on my properties. I&#39;ve been a believer in H-1B&quot;, siding with Musk in the MAGA debate on the issue &lpar;Jon Levine/New York Post&rpar;](http://www.techmeme.com/241228/p8#a241228p8)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

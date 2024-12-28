@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Money well spent.](http://9gag.com/gag/a3419zr)
- - 😝 [You can thank me in the comments](http://9gag.com/gag/aYQr9bv)
- - 💣 [Impressive](http://9gag.com/gag/aD2DBPG)
- - 😝 [Greek fast food](http://9gag.com/gag/an7zeK5)
- - 👉 [Former devs from CDPR formed a new studio called Rebel Wolves, refusing to make garbage games](http://9gag.com/gag/aKGmbE1)<!-- MEMES:END -->
+ - 😝 [Military recruit saved after dropping live grenade at his feet](http://9gag.com/gag/aVvxnqM)
+ - 😝 [What is the phenomenon called?](http://9gag.com/gag/aRBrnXA)
+ - 💣 [What she doin now? Trainer?](http://9gag.com/gag/aBynDXN)
+ - 😝 [If you look at the water, it will look back at you](http://9gag.com/gag/avyAN0O)
+ - 👉 [Bastards could fly all along, they just lazy](http://9gag.com/gag/aNDPyvb)<!-- MEMES:END -->
 
 ---
 

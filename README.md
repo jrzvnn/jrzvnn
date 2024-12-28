@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [The random crab though](http://9gag.com/gag/a7o1RDx)
- - 😝 [When Santa forgot your gift.](http://9gag.com/gag/a6Z1Y32)
- - 💣 [Finally found one](http://9gag.com/gag/aD2DeQN)
+ - 😝 [25% chance of being born an Indian](http://9gag.com/gag/aE0891x)
  - 😝 [It&#39;s never the skin color](http://9gag.com/gag/aNDPNob)
- - 👉 [Poor Maryjane\u2026](http://9gag.com/gag/aYQr36V)<!-- MEMES:END -->
+ - 💣 [The way it crept down. Slow and sinister.](http://9gag.com/gag/aD2DydN)
+ - 😝 [When Santa forgot your gift.](http://9gag.com/gag/a6Z1Y32)
+ - 👉 [And just like that your life is over](http://9gag.com/gag/a0eZAev)<!-- MEMES:END -->
 
 ---
 

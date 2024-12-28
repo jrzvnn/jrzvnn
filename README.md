@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Is this a challenge?](http://9gag.com/gag/aZZrAn6)
- - 😝 [Standard imperial technology, This is a common fuse box.](http://9gag.com/gag/apRgy0p)
- - 💣 [Military recruit saved after dropping live grenade at his feet](http://9gag.com/gag/aVvxnqM)
- - 😝 [Poor Maryjane\u2026](http://9gag.com/gag/aYQr36V)
- - 👉 [What she doin now? Trainer?](http://9gag.com/gag/aBynDXN)<!-- MEMES:END -->
+ - 😝 [What is the phenomenon called?](http://9gag.com/gag/aRBrnXA)
+ - 😝 [Every day a new gender](http://9gag.com/gag/abAgjob)
+ - 💣 [Poor Maryjane\u2026](http://9gag.com/gag/aYQr36V)
+ - 😝 [Factory reset...](http://9gag.com/gag/a4P1vwQ)
+ - 👉 [Bastards could fly all along, they just lazy](http://9gag.com/gag/aNDPyvb)<!-- MEMES:END -->
 
 ---
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [No title](http://9gag.com/gag/a0eZABz)
- - 😝 [Poland is based](http://9gag.com/gag/ae9go5v)
- - 💣 [Former devs from CDPR formed a new studio called Rebel Wolves, refusing to make garbage games](http://9gag.com/gag/aKGmbE1)
- - 😝 [Multiply this `problem` across the developed world. It is why genetically modified foods are so prominent.](http://9gag.com/gag/aXPrD39)
- - 👉 [Nice](http://9gag.com/gag/aBynp8D)<!-- MEMES:END -->
+ - 😝 [Bastards could fly all along, they just lazy](http://9gag.com/gag/aNDPyvb)
+ - 😝 [25% chance of being born an Indian](http://9gag.com/gag/aE0891x)
+ - 💣 [Tao Wickrath](http://9gag.com/gag/avyANj5)
+ - 😝 [The way it crept down. Slow and sinister.](http://9gag.com/gag/aD2DydN)
+ - 👉 [Poor Maryjane\u2026](http://9gag.com/gag/aYQr36V)<!-- MEMES:END -->
 
 ---
 

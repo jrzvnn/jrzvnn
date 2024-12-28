@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [14 Best USB Flash Drives &lpar;2024&rpar;: Pen Drives, Thumb Drives, Memory Sticks](https://www.wired.com/gallery/best-usb-flash-drives/)
+ - [The 44 Best Movies on Netflix Right Now &lpar;December 2024&rpar;](https://www.wired.com/story/netflix-best-movies-this-week/)
+ - [The 44 Best Shows on Netflix Right Now &lpar;December 2024&rpar;](https://www.wired.com/story/netflix-best-shows-this-week/)
  - [What to expect in 2025: increased hype around AI agents, new generative AI-powered gadgets, better weather forecasts due to Google DeepMind&#39;s GenCast, and more &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/241228/p4#a241228p4)
- - [10 Best Digital Notebooks, Tablets, and Smart Pens &lpar;2024&rpar;](https://www.wired.com/gallery/best-smart-notebooks-and-smart-pens/)
- - [Apple pulls remaining Lightning-based devices from European stores](https://www.theverge.com/2024/12/28/24330733/apple-pulls-lightning-based-devices-from-european-stores)
- - [What&#39;s Free on the Epic Games Store This Week?](https://www.cnet.com/tech/gaming/list-of-free-games-on-the-epic-games-store-this-week/#ftag=CAD590a51e)
- - [Green Disposal: Recycle Your Old Computers and Printers for Free](https://www.cnet.com/tech/computing/green-disposal-recycle-your-old-computers-and-printers-for-free/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [10 Best Digital Notebooks, Tablets, and Smart Pens &lpar;2024&rpar;](https://www.wired.com/gallery/best-smart-notebooks-and-smart-pens/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [You wanted out of kitchen...now enjoy equality](http://9gag.com/gag/aO8QXmv)
- - 😝 [Tao Wickrath](http://9gag.com/gag/avyANj5)
- - 💣 [Bastards could fly all along, they just lazy](http://9gag.com/gag/aNDPyvb)
- - 😝 [Military recruit saved after dropping live grenade at his feet](http://9gag.com/gag/aVvxnqM)
- - 👉 [25% chance of being born an Indian](http://9gag.com/gag/aE0891x)<!-- MEMES:END -->
+ - 😝 [A train made by BMW](http://9gag.com/gag/aNDP7XA)
+ - 😝 [Heels and glasses](http://9gag.com/gag/a6Z10Dq)
+ - 💣 [Gimme a kiss, behbeh...](http://9gag.com/gag/aZZreP0)
+ - 😝 [Your small secretary](http://9gag.com/gag/ayN9GpY)
+ - 👉 [Poor Maryjane\u2026](http://9gag.com/gag/aYQr36V)<!-- MEMES:END -->
 
 ---
 

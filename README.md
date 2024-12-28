@@ -159,9 +159,9 @@ R                        1 repo              ░░░░░░░░░░░�
 <!-- TECH:START -->
  - [10 Best Digital Notebooks, Tablets, and Smart Pens &lpar;2024&rpar;](https://www.wired.com/gallery/best-smart-notebooks-and-smart-pens/)
  - [Apple pulls remaining Lightning-based devices from European stores](https://www.theverge.com/2024/12/28/24330733/apple-pulls-lightning-based-devices-from-european-stores)
+ - [What&#39;s Free on the Epic Games Store This Week?](https://www.cnet.com/tech/gaming/list-of-free-games-on-the-epic-games-store-this-week/#ftag=CAD590a51e)
  - [Green Disposal: Recycle Your Old Computers and Printers for Free](https://www.cnet.com/tech/computing/green-disposal-recycle-your-old-computers-and-printers-for-free/#ftag=CAD590a51e)
- - [Healthier Cities Will Require a Strong Dose of Nature](https://www.wired.com/story/healthier-cities-will-require-a-strong-dose-of-nature/)
- - [Analysis: 50%+ of the US households showing highly-distorted power readings from February to October were within 20 miles of significant data center activity &lpar;Bloomberg&rpar;](http://www.techmeme.com/241228/p3#a241228p3)<!-- TECH:END -->
+ - [Healthier Cities Will Require a Strong Dose of Nature](https://www.wired.com/story/healthier-cities-will-require-a-strong-dose-of-nature/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

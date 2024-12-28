@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [AT&amp;T says China targeted a few &quot;individuals of foreign intelligence interest&quot; in the Salt Typhoon hack and its networks are now clear from the intrusion &lpar;Kelcee Griffis/Bloomberg&rpar;](http://www.techmeme.com/241228/p10#a241228p10)
  - [Meta’s ‘software update issue’ has been breaking Quest headsets for weeks](https://www.theverge.com/2024/12/28/24330226/metas-software-update-issue-has-been-breaking-quest-headsets-for-weeks)
  - [Flexbar review: Could be the heir-apparent to the Touch Bar, someday](https://appleinsider.com/articles/24/12/28/flexbar-review-could-be-the-heir-apparent-to-the-touch-bar-someday?utm_medium=rss)
  - [These Are the Best Food Sources for Every Vitamin You Need](https://www.cnet.com/health/nutrition/best-food-sources-for-every-vitamin-you-need/#ftag=CAD590a51e)
- - [Best Internet Providers in Texas](https://www.cnet.com/home/internet/best-internet-providers-in-texas/#ftag=CAD590a51e)
- - [The US plans to update HIPAA with new cybersecurity rules to protect patients&#39; private data, including mandatory encryption and multifactor authentication &lpar;A.J. Vicens/Reuters&rpar;](http://www.techmeme.com/241228/p9#a241228p9)<!-- TECH:END -->
+ - [Best Internet Providers in Texas](https://www.cnet.com/home/internet/best-internet-providers-in-texas/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

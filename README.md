@@ -158,10 +158,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- TECH:START -->
  - [Apple pulls remaining Lightning-based devices from European stores](https://www.theverge.com/2024/12/28/24330733/apple-pulls-lightning-based-devices-from-european-stores)
+ - [Green Disposal: Recycle Your Old Computers and Printers for Free](https://www.cnet.com/tech/computing/green-disposal-recycle-your-old-computers-and-printers-for-free/#ftag=CAD590a51e)
  - [Healthier Cities Will Require a Strong Dose of Nature](https://www.wired.com/story/healthier-cities-will-require-a-strong-dose-of-nature/)
  - [Analysis: 50%+ of the US households showing highly-distorted power readings from February to October were within 20 miles of significant data center activity &lpar;Bloomberg&rpar;](http://www.techmeme.com/241228/p3#a241228p3)
- - [Four districts in southern China announce a pilot framework for connected cars, with the goal of allowing autonomous robotaxis to travel across cities &lpar;Coco Feng/South China Morning Post&rpar;](http://www.techmeme.com/241228/p2#a241228p2)
- - [Microsoft says that the issues with Xbox Cloud Gaming have been resolved after users experienced long wait times when launching games for over a day &lpar;Ian Carlos Campbell/Engadget&rpar;](http://www.techmeme.com/241228/p1#a241228p1)<!-- TECH:END -->
+ - [Four districts in southern China announce a pilot framework for connected cars, with the goal of allowing autonomous robotaxis to travel across cities &lpar;Coco Feng/South China Morning Post&rpar;](http://www.techmeme.com/241228/p2#a241228p2)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

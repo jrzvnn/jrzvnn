@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [When Santa forgot your gift.](http://9gag.com/gag/a6Z1Y32)
- - 😝 [Gimme a kiss, behbeh...](http://9gag.com/gag/aZZreP0)
- - 💣 [So, where was I\u2026oh yea!](http://9gag.com/gag/a341X8e)
- - 😝 [What is the phenomenon called?](http://9gag.com/gag/aRBrnXA)
- - 👉 [Tao Wickrath](http://9gag.com/gag/avyANj5)<!-- MEMES:END -->
+ - 😝 [White children things](http://9gag.com/gag/aAyGWYL)
+ - 😝 [It&#39;s never the skin color](http://9gag.com/gag/aNDPNob)
+ - 💣 [Poor Maryjane\u2026](http://9gag.com/gag/aYQr36V)
+ - 😝 [Gets terrier and gets upset when they do what they were bred to do](http://9gag.com/gag/aW4grKK)
+ - 👉 [What is the phenomenon called?](http://9gag.com/gag/aRBrnXA)<!-- MEMES:END -->
 
 ---
 

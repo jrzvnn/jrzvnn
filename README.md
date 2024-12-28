@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Heels and glasses](http://9gag.com/gag/a6Z10Dq)
- - 😝 [If you look at the water, it will look back at you](http://9gag.com/gag/avyAN0O)
- - 💣 [Gimme a kiss, behbeh...](http://9gag.com/gag/aZZreP0)
- - 😝 [Is this a challenge?](http://9gag.com/gag/aZZrAn6)
- - 👉 [Factory reset...](http://9gag.com/gag/a4P1vwQ)<!-- MEMES:END -->
+ - 😝 [Tao Wickrath](http://9gag.com/gag/avyANj5)
+ - 😝 [Ahh yes\u2026 when you get people so the a high school education to uphold the law](http://9gag.com/gag/an7g6bo)
+ - 💣 [Every day a new gender](http://9gag.com/gag/abAgjob)
+ - 😝 [This is Dr. Donald Cline - A fertility doctor who illegally fathered 94 children - He discarded donated sperm &amp; replaced it with his own - He served a one-year suspended sentence for his atrocities](http://9gag.com/gag/aD2DBqN)
+ - 👉 [Poor Maryjane\u2026](http://9gag.com/gag/aYQr36V)<!-- MEMES:END -->
 
 ---
 

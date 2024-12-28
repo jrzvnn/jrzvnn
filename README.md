@@ -159,9 +159,9 @@ R                        1 repo              ░░░░░░░░░░░�
 <!-- TECH:START -->
  - [The US proposes rules to make healthcare data more secure](https://www.theverge.com/2024/12/28/24330878/the-us-proposes-rules-to-make-healthcare-data-more-secure)
  - [Finland, Canada, the US, and other countries are testing tech for passport-free travel, including facial recognition and a &quot;digital travel credential&quot; &lpar;Matt Burgess/Wired&rpar;](http://www.techmeme.com/241228/p7#a241228p7)
- - [NFL Network Saturday: How to Watch, Stream All Three Week 17 Games Today](https://www.cnet.com/tech/services-and-software/nfl-network-saturday-how-to-watch-stream-all-three-week-17-games-today/#ftag=CAD590a51e)
- - [Best Internet Providers in Richardson, Texas](https://www.cnet.com/home/internet/best-internet-providers-in-richardson-tx/#ftag=CAD590a51e)
- - [Best Internet Providers in South Carolina](https://www.cnet.com/home/internet/best-internet-providers-in-south-carolina/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Best Internet Providers in Tempe, Arizona](https://www.cnet.com/home/internet/best-internet-providers-in-tempe-az/#ftag=CAD590a51e)
+ - [Best Internet Providers in Salinas, California](https://www.cnet.com/home/internet/best-internet-providers-in-salinas-ca/#ftag=CAD590a51e)
+ - [Best Internet Providers in Tennessee](https://www.cnet.com/home/internet/best-internet-providers-in-tennessee/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

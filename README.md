@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Tao Wickrath](http://9gag.com/gag/avyANj5)
- - 😝 [Ahh yes\u2026 when you get people so the a high school education to uphold the law](http://9gag.com/gag/an7g6bo)
- - 💣 [Every day a new gender](http://9gag.com/gag/abAgjob)
- - 😝 [This is Dr. Donald Cline - A fertility doctor who illegally fathered 94 children - He discarded donated sperm &amp; replaced it with his own - He served a one-year suspended sentence for his atrocities](http://9gag.com/gag/aD2DBqN)
- - 👉 [Poor Maryjane\u2026](http://9gag.com/gag/aYQr36V)<!-- MEMES:END -->
+ - 😝 [What she doin now? Trainer?](http://9gag.com/gag/aBynDXN)
+ - 😝 [Poor Maryjane\u2026](http://9gag.com/gag/aYQr36V)
+ - 💣 [Factory reset...](http://9gag.com/gag/a4P1vwQ)
+ - 😝 [Every day a new gender](http://9gag.com/gag/abAgjob)
+ - 👉 [Bastards could fly all along, they just lazy](http://9gag.com/gag/aNDPyvb)<!-- MEMES:END -->
 
 ---
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [10 terrific Nintendo Switch games from 2024 to check out](https://www.theverge.com/24317154/nintendo-switch-best-games-2024-top-10-goty)
+ - [Best VPN for Mac for 2024](https://www.cnet.com/tech/services-and-software/best-mac-vpn/#ftag=CAD590a51e)
  - [Kindle Scribe &lpar;2024&rpar; review: nothing to write home about](https://www.theverge.com/2024/12/28/24328287/amazon-kindle-scribe-2024-e-reader-notetaking-pen-review)
  - [14 Best USB Flash Drives &lpar;2024&rpar;: Pen Drives, Thumb Drives, Memory Sticks](https://www.wired.com/gallery/best-usb-flash-drives/)
- - [Apple Watch Series 10 vs. Series 9: Don&#39;t Buy the Wrong One](https://www.cnet.com/tech/mobile/apple-watch-series-10-vs-series-9-dont-buy-the-wrong-one/#ftag=CAD590a51e)
- - [How to Adjust and Change Your iPhone&#39;s Control Center in iOS 18](https://www.cnet.com/tech/services-and-software/how-to-adjust-and-change-your-iphones-control-center-in-ios-18/#ftag=CAD590a51e)
- - [The 44 Best Movies on Netflix Right Now &lpar;December 2024&rpar;](https://www.wired.com/story/netflix-best-movies-this-week/)<!-- TECH:END -->
+ - [Apple Watch Series 10 vs. Series 9: Don&#39;t Buy the Wrong One](https://www.cnet.com/tech/mobile/apple-watch-series-10-vs-series-9-dont-buy-the-wrong-one/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

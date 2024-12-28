@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [When Santa forgot your gift.](http://9gag.com/gag/a6Z1Y32)
- - 😝 [Heels and glasses](http://9gag.com/gag/a6Z10Dq)
- - 💣 [Your small secretary](http://9gag.com/gag/ayN9GpY)
- - 😝 [This bald guy travels the world visiting countries](http://9gag.com/gag/aGyz446)
- - 👉 [Gift](http://9gag.com/gag/azxenrN)<!-- MEMES:END -->
+ - 😝 [A grown man and her wife](http://9gag.com/gag/aW4gKYq)
+ - 😝 [No title](http://9gag.com/gag/a0eZABz)
+ - 💣 [Poland is based](http://9gag.com/gag/ae9go5v)
+ - 😝 [Multiply this `problem` across the developed world. It is why genetically modified foods are so prominent.](http://9gag.com/gag/aXPrD39)
+ - 👉 [Nice](http://9gag.com/gag/aBynp8D)<!-- MEMES:END -->
 
 ---
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The SwitchBot S10, one of our favorite robovac / mop hybrids, is $500 off](https://www.theverge.com/2024/12/28/24330306/switchbot-s10-mobvoi-home-walking-treadmill-deal-sale)
  - [How we work: Amber&#39;s reporting and high-tech crafting setup](https://appleinsider.com/articles/24/12/28/how-we-work-ambers-reporting-and-high-tech-crafting-setup?utm_medium=rss)
  - [A look at Google&#39;s pressure-filled 2024 under Sundar Pichai, notching some AI wins with new Gemini models and navigating product mishaps, layoffs, and more &lpar;Jennifer Elias/CNBC&rpar;](http://www.techmeme.com/241228/p6#a241228p6)
  - [iPad mini 7 two-month review: Now I get it](https://appleinsider.com/articles/24/12/28/ipad-mini-7-two-month-review-now-i-get-it?utm_medium=rss)
- - [Hackers hijacked legitimate Chrome extensions to try to steal data](https://www.theverge.com/2024/12/28/24330758/chrome-extension-cyberhaven-hijack-phishing-cyberattack-facebook-ads-authentication-theft)
- - [Bloom Nutrition Greens Review 2024: Is the Trendy Brand Really Worth It?](https://www.cnet.com/health/nutrition/bloom-nutrition-greens-review/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Hackers hijacked legitimate Chrome extensions to try to steal data](https://www.theverge.com/2024/12/28/24330758/chrome-extension-cyberhaven-hijack-phishing-cyberattack-facebook-ads-authentication-theft)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

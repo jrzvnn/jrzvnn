@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Bastards could fly all along, they just lazy](http://9gag.com/gag/aNDPyvb)
- - 😝 [25% chance of being born an Indian](http://9gag.com/gag/aE0891x)
+ - 😝 [If you look at the water, it will look back at you](http://9gag.com/gag/avyAN0O)
+ - 😝 [No underwear](http://9gag.com/gag/aXPr6yP)
  - 💣 [Tao Wickrath](http://9gag.com/gag/avyANj5)
- - 😝 [The way it crept down. Slow and sinister.](http://9gag.com/gag/aD2DydN)
- - 👉 [Poor Maryjane\u2026](http://9gag.com/gag/aYQr36V)<!-- MEMES:END -->
+ - 😝 [Every day a new gender](http://9gag.com/gag/abAgjob)
+ - 👉 [Bastards could fly all along, they just lazy](http://9gag.com/gag/aNDPyvb)<!-- MEMES:END -->
 
 ---
 

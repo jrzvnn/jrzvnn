@@ -166,10 +166,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [25% chance of being born an Indian](http://9gag.com/gag/aE0891x)
- - 😝 [It&#39;s never the skin color](http://9gag.com/gag/aNDPNob)
- - 💣 [The way it crept down. Slow and sinister.](http://9gag.com/gag/aD2DydN)
- - 😝 [When Santa forgot your gift.](http://9gag.com/gag/a6Z1Y32)
+ - 😝 [New prime benefit](http://9gag.com/gag/azxen8N)
+ - 😝 [Finally found one](http://9gag.com/gag/aD2DeQN)
+ - 💣 [When Santa forgot your gift.](http://9gag.com/gag/a6Z1Y32)
+ - 😝 [Your small secretary](http://9gag.com/gag/ayN9GpY)
  - 👉 [And just like that your life is over](http://9gag.com/gag/a0eZAev)<!-- MEMES:END -->
 
 ---

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Analysis: mentions of deepfakes or AI-made content in X&#39;s Community Notes were more correlated with new image generation model releases than elections in 2024 &lpar;Clara Murray/Financial Times&rpar;](http://www.techmeme.com/241228/p5#a241228p5)
  - [10 terrific Nintendo Switch games from 2024 to check out](https://www.theverge.com/24317154/nintendo-switch-best-games-2024-top-10-goty)
  - [Best VPN for Mac for 2024](https://www.cnet.com/tech/services-and-software/best-mac-vpn/#ftag=CAD590a51e)
  - [Kindle Scribe &lpar;2024&rpar; review: nothing to write home about](https://www.theverge.com/2024/12/28/24328287/amazon-kindle-scribe-2024-e-reader-notetaking-pen-review)
- - [14 Best USB Flash Drives &lpar;2024&rpar;: Pen Drives, Thumb Drives, Memory Sticks](https://www.wired.com/gallery/best-usb-flash-drives/)
- - [Apple Watch Series 10 vs. Series 9: Don&#39;t Buy the Wrong One](https://www.cnet.com/tech/mobile/apple-watch-series-10-vs-series-9-dont-buy-the-wrong-one/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [14 Best USB Flash Drives &lpar;2024&rpar;: Pen Drives, Thumb Drives, Memory Sticks](https://www.wired.com/gallery/best-usb-flash-drives/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

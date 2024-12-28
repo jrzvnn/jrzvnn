@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [And just like that your life is over](http://9gag.com/gag/a0eZAev)
- - 😝 [What she doin now? Trainer?](http://9gag.com/gag/aBynDXN)
- - 💣 [The way it crept down. Slow and sinister.](http://9gag.com/gag/aD2DydN)
  - 😝 [Heels and glasses](http://9gag.com/gag/a6Z10Dq)
- - 👉 [Every day a new gender](http://9gag.com/gag/abAgjob)<!-- MEMES:END -->
+ - 😝 [If you look at the water, it will look back at you](http://9gag.com/gag/avyAN0O)
+ - 💣 [Gimme a kiss, behbeh...](http://9gag.com/gag/aZZreP0)
+ - 😝 [Is this a challenge?](http://9gag.com/gag/aZZrAn6)
+ - 👉 [Factory reset...](http://9gag.com/gag/a4P1vwQ)<!-- MEMES:END -->
 
 ---
 

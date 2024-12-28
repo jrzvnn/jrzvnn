@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Poland is based](http://9gag.com/gag/ae9go5v)
- - 😝 [Multiply this `problem` across the developed world. It is why genetically modified foods are so prominent.](http://9gag.com/gag/aXPrD39)
- - 💣 [Nice](http://9gag.com/gag/aBynp8D)
  - 😝 [You wanted out of kitchen...now enjoy equality](http://9gag.com/gag/aO8QXmv)
- - 👉 [Money well spent.](http://9gag.com/gag/a3419zr)<!-- MEMES:END -->
+ - 😝 [Tao Wickrath](http://9gag.com/gag/avyANj5)
+ - 💣 [Bastards could fly all along, they just lazy](http://9gag.com/gag/aNDPyvb)
+ - 😝 [Military recruit saved after dropping live grenade at his feet](http://9gag.com/gag/aVvxnqM)
+ - 👉 [25% chance of being born an Indian](http://9gag.com/gag/aE0891x)<!-- MEMES:END -->
 
 ---
 

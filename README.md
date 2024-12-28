@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [If you look at the water, it will look back at you](http://9gag.com/gag/avyAN0O)
- - 😝 [No underwear](http://9gag.com/gag/aXPr6yP)
- - 💣 [Tao Wickrath](http://9gag.com/gag/avyANj5)
- - 😝 [Every day a new gender](http://9gag.com/gag/abAgjob)
- - 👉 [Bastards could fly all along, they just lazy](http://9gag.com/gag/aNDPyvb)<!-- MEMES:END -->
+ - 😝 [Poland is based](http://9gag.com/gag/ae9go5v)
+ - 😝 [Multiply this `problem` across the developed world. It is why genetically modified foods are so prominent.](http://9gag.com/gag/aXPrD39)
+ - 💣 [Nice](http://9gag.com/gag/aBynp8D)
+ - 😝 [You wanted out of kitchen...now enjoy equality](http://9gag.com/gag/aO8QXmv)
+ - 👉 [Money well spent.](http://9gag.com/gag/a3419zr)<!-- MEMES:END -->
 
 ---
 

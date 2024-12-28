@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Hackers hijacked legitimate Chrome extensions to try to steal data](https://www.theverge.com/2024/12/28/24330758/chrome-extension-cyberhaven-hijack-phishing-cyberattack-facebook-ads-authentication-theft)
+ - [Bloom Nutrition Greens Review 2024: Is the Trendy Brand Really Worth It?](https://www.cnet.com/health/nutrition/bloom-nutrition-greens-review/#ftag=CAD590a51e)
  - [What&#39;s Free on the Epic Games Store This Week?](https://www.cnet.com/tech/gaming/list-of-free-games-on-the-epic-games-store-this-week/#ftag=CAD590a51e)
  - [Analysis: mentions of deepfakes or AI-made content in X&#39;s Community Notes were more correlated with new image generation model releases than elections in 2024 &lpar;Clara Murray/Financial Times&rpar;](http://www.techmeme.com/241228/p5#a241228p5)
- - [Stearns &amp; Foster Lux Estate Mattress Review 2024: Experts Test Handcrafted Comfort, Available Online or In-Store](https://www.cnet.com/health/sleep/stearns-foster-lux-estate-mattress-review/#ftag=CAD590a51e)
- - [Netflix&#39;s Best Fantasy TV Shows Will Take You to Magical Realms, Far and Wide](https://www.cnet.com/tech/services-and-software/best-fantasy-tv-shows-on-netflix-2024/#ftag=CAD590a51e)
- - [10 terrific Nintendo Switch games from 2024 to check out](https://www.theverge.com/24317154/nintendo-switch-best-games-2024-top-10-goty)<!-- TECH:END -->
+ - [Stearns &amp; Foster Lux Estate Mattress Review 2024: Experts Test Handcrafted Comfort, Available Online or In-Store](https://www.cnet.com/health/sleep/stearns-foster-lux-estate-mattress-review/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

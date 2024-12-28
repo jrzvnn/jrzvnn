@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The US plans to update HIPAA with new cybersecurity rules to protect patients&#39; private data, including mandatory encryption and multifactor authentication &lpar;A.J. Vicens/Reuters&rpar;](http://www.techmeme.com/241228/p9#a241228p9)
  - [Trump supports H-1B visas, saying &quot;I have many H-1B visas on my properties. I&#39;ve been a believer in H-1B&quot;, siding with Musk in the MAGA debate on the issue &lpar;Jon Levine/New York Post&rpar;](http://www.techmeme.com/241228/p8#a241228p8)
  - [Accessory maker Zagg notifies customers of credit card info breach](https://appleinsider.com/articles/24/12/28/accessory-maker-zagg-notifies-customers-of-credit-card-info-breach?utm_medium=rss)
  - [&#39;Star Wars: Skeleton Crew&#39;: Find Out When Episode 6 Premieres on Disney Plus](https://www.cnet.com/tech/services-and-software/star-wars-skeleton-crew-release-schedule-when-episode-five-hits-disney-plus/#ftag=CAD590a51e)
- - [Best Pregnancy Pillows of 2024](https://www.cnet.com/health/sleep/best-pregnancy-pillow/#ftag=CAD590a51e)
- - [The US proposes rules to make healthcare data more secure](https://www.theverge.com/2024/12/28/24330878/the-us-proposes-rules-to-make-healthcare-data-more-secure)<!-- TECH:END -->
+ - [Best Pregnancy Pillows of 2024](https://www.cnet.com/health/sleep/best-pregnancy-pillow/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

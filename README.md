@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [New prime benefit](http://9gag.com/gag/azxen8N)
- - 😝 [Finally found one](http://9gag.com/gag/aD2DeQN)
- - 💣 [When Santa forgot your gift.](http://9gag.com/gag/a6Z1Y32)
- - 😝 [Your small secretary](http://9gag.com/gag/ayN9GpY)
- - 👉 [And just like that your life is over](http://9gag.com/gag/a0eZAev)<!-- MEMES:END -->
+ - 😝 [This bald guy travels the world visiting countries](http://9gag.com/gag/aGyz446)
+ - 😝 [And just like that your life is over](http://9gag.com/gag/a0eZAev)
+ - 💣 [Never insult a crow](http://9gag.com/gag/aGyz4RX)
+ - 😝 [Forbidden fettuccine.](http://9gag.com/gag/axyBqp2)
+ - 👉 [Poor Maryjane\u2026](http://9gag.com/gag/aYQr36V)<!-- MEMES:END -->
 
 ---
 

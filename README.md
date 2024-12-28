@@ -166,10 +166,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Gift](http://9gag.com/gag/azxenrN)
+ - 😝 [Poor Maryjane\u2026](http://9gag.com/gag/aYQr36V)
  - 😝 [It&#39;s never the skin color](http://9gag.com/gag/aNDPNob)
- - 💣 [Poor Maryjane\u2026](http://9gag.com/gag/aYQr36V)
- - 😝 [Here we go](http://9gag.com/gag/aPAZb8G)
+ - 💣 [Heels and glasses](http://9gag.com/gag/a6Z10Dq)
+ - 😝 [National lotteries be like](http://9gag.com/gag/aBynpdz)
  - 👉 [When Santa forgot your gift.](http://9gag.com/gag/a6Z1Y32)<!-- MEMES:END -->
 
 ---

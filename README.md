@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Healthier Cities Will Require a Strong Dose of Nature](https://www.wired.com/story/healthier-cities-will-require-a-strong-dose-of-nature/)
  - [Analysis: 50%+ of the US households showing highly-distorted power readings from February to October were within 20 miles of significant data center activity &lpar;Bloomberg&rpar;](http://www.techmeme.com/241228/p3#a241228p3)
  - [Four districts in southern China announce a pilot framework for connected cars, with the goal of allowing autonomous robotaxis to travel across cities &lpar;Coco Feng/South China Morning Post&rpar;](http://www.techmeme.com/241228/p2#a241228p2)
  - [Microsoft says that the issues with Xbox Cloud Gaming have been resolved after users experienced long wait times when launching games for over a day &lpar;Ian Carlos Campbell/Engadget&rpar;](http://www.techmeme.com/241228/p1#a241228p1)
- - [Best Portable Chargers and Power Banks to Buy for Android in 2024](https://www.cnet.com/tech/mobile/best-portable-chargers-power-banks-for-android/#ftag=CAD590a51e)
- - [Oracle&#39;s shares are up ~63% in 2024, lifting Larry Ellison&#39;s net worth to $217B+, as the company enjoyed its biggest stock rally since 1999 and the dot-com boom &lpar;Jordan Novet/CNBC&rpar;](http://www.techmeme.com/241227/p20#a241227p20)<!-- TECH:END -->
+ - [Best Portable Chargers and Power Banks to Buy for Android in 2024](https://www.cnet.com/tech/mobile/best-portable-chargers-power-banks-for-android/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

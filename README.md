@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Finland, Canada, the US, and other countries are testing tech for passport-free travel, including facial recognition and a &quot;digital travel credential&quot; &lpar;Matt Burgess/Wired&rpar;](http://www.techmeme.com/241228/p7#a241228p7)
  - [NFL Network Saturday: How to Watch, Stream All Three Week 17 Games Today](https://www.cnet.com/tech/services-and-software/nfl-network-saturday-how-to-watch-stream-all-three-week-17-games-today/#ftag=CAD590a51e)
  - [Best Internet Providers in Richardson, Texas](https://www.cnet.com/home/internet/best-internet-providers-in-richardson-tx/#ftag=CAD590a51e)
  - [Best Internet Providers in South Carolina](https://www.cnet.com/home/internet/best-internet-providers-in-south-carolina/#ftag=CAD590a51e)
- - [&#39;Landman&#39; Release Schedule: When Episode 8 Drops on Paramount Plus](https://www.cnet.com/tech/services-and-software/landman-release-schedule-when-episode-8-drops-on-paramount-plus/#ftag=CAD590a51e)
- - [The SwitchBot S10, one of our favorite robovac / mop hybrids, is $500 off](https://www.theverge.com/2024/12/28/24330306/switchbot-s10-mobvoi-home-walking-treadmill-deal-sale)<!-- TECH:END -->
+ - [&#39;Landman&#39; Release Schedule: When Episode 8 Drops on Paramount Plus](https://www.cnet.com/tech/services-and-software/landman-release-schedule-when-episode-8-drops-on-paramount-plus/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

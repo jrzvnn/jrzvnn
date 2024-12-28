@@ -167,10 +167,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [Gift](http://9gag.com/gag/azxenrN)
- - 😝 [She had bro tapping out](http://9gag.com/gag/agmgW9K)
- - 💣 [This bald guy travels the world visiting countries](http://9gag.com/gag/aGyz446)
- - 😝 [And just like that your life is over](http://9gag.com/gag/a0eZAev)
- - 👉 [Here we go](http://9gag.com/gag/aPAZb8G)<!-- MEMES:END -->
+ - 😝 [It&#39;s never the skin color](http://9gag.com/gag/aNDPNob)
+ - 💣 [Poor Maryjane\u2026](http://9gag.com/gag/aYQr36V)
+ - 😝 [Here we go](http://9gag.com/gag/aPAZb8G)
+ - 👉 [When Santa forgot your gift.](http://9gag.com/gag/a6Z1Y32)<!-- MEMES:END -->
 
 ---
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [When Santa forgot your gift.](http://9gag.com/gag/a6Z1Y32)
+ - 😝 [It&#39;s the time of the year again my friends, the feminists will make way more false rape accusations as usual, do not help any woman, stay alert and take care who you are talking to... You never know when a woman feels bored and decides to make a false accusation... Stay safe](http://9gag.com/gag/a5Q101O)
+ - 💣 [What is the phenomenon called?](http://9gag.com/gag/aRBrnXA)
  - 😝 [White children things](http://9gag.com/gag/aAyGWYL)
- - 😝 [It&#39;s never the skin color](http://9gag.com/gag/aNDPNob)
- - 💣 [Poor Maryjane\u2026](http://9gag.com/gag/aYQr36V)
- - 😝 [Gets terrier and gets upset when they do what they were bred to do](http://9gag.com/gag/aW4grKK)
- - 👉 [What is the phenomenon called?](http://9gag.com/gag/aRBrnXA)<!-- MEMES:END -->
+ - 👉 [This bald guy travels the world visiting countries](http://9gag.com/gag/aGyz446)<!-- MEMES:END -->
 
 ---
 

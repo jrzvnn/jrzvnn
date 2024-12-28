@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Accessory maker Zagg notifies customers of credit card info breach](https://appleinsider.com/articles/24/12/28/accessory-maker-zagg-notifies-customers-of-credit-card-info-breach?utm_medium=rss)
  - [The US proposes rules to make healthcare data more secure](https://www.theverge.com/2024/12/28/24330878/the-us-proposes-rules-to-make-healthcare-data-more-secure)
  - [Finland, Canada, the US, and other countries are testing tech for passport-free travel, including facial recognition and a &quot;digital travel credential&quot; &lpar;Matt Burgess/Wired&rpar;](http://www.techmeme.com/241228/p7#a241228p7)
  - [Best Internet Providers in Tempe, Arizona](https://www.cnet.com/home/internet/best-internet-providers-in-tempe-az/#ftag=CAD590a51e)
- - [Best Internet Providers in Salinas, California](https://www.cnet.com/home/internet/best-internet-providers-in-salinas-ca/#ftag=CAD590a51e)
- - [Best Internet Providers in Tennessee](https://www.cnet.com/home/internet/best-internet-providers-in-tennessee/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Best Internet Providers in Salinas, California](https://www.cnet.com/home/internet/best-internet-providers-in-salinas-ca/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

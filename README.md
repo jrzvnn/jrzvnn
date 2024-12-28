@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Man will look at this and said `hell yeah`](http://9gag.com/gag/arynj0B)
- - 😝 [What\u2019s the latest news there? You got it going in over there? How goes life? Avoiding fat \u201celephants\u201d?](http://9gag.com/gag/a9y1Qdm)
- - 💣 [Money well spent.](http://9gag.com/gag/a3419zr)
- - 😝 [A grown man and her wife](http://9gag.com/gag/aW4gKYq)
- - 👉 [Updating myself here because I have no one else but you f**kers. See you in 30 more days as I go from Hagrid to....less Hagrid](http://9gag.com/gag/adBgGy9)<!-- MEMES:END -->
+ - 😝 [National lotteries be like](http://9gag.com/gag/aBynpdz)
+ - 😝 [Pic of actual killer blown up vs Luigi](http://9gag.com/gag/aGyz43Z)
+ - 💣 [The way it crept down. Slow and sinister.](http://9gag.com/gag/aD2DydN)
+ - 😝 [Here we go](http://9gag.com/gag/aPAZb8G)
+ - 👉 [Finally found one](http://9gag.com/gag/aD2DeQN)<!-- MEMES:END -->
 
 ---
 

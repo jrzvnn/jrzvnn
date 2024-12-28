@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Forbidden fettuccine.](http://9gag.com/gag/axyBqp2)
- - 😝 [And just like that your life is over](http://9gag.com/gag/a0eZAev)
- - 💣 [Japanese version of Squid Game.](http://9gag.com/gag/aQzXwKK)
- - 😝 [Military recruit saved after dropping live grenade at his feet](http://9gag.com/gag/aVvxnqM)
- - 👉 [Pic of actual killer blown up vs Luigi](http://9gag.com/gag/aGyz43Z)<!-- MEMES:END -->
+ - 😝 [Japanese version of Squid Game.](http://9gag.com/gag/aQzXwKK)
+ - 😝 [Gift](http://9gag.com/gag/azxenrN)
+ - 💣 [Pic of actual killer blown up vs Luigi](http://9gag.com/gag/aGyz43Z)
+ - 😝 [Here we go](http://9gag.com/gag/aPAZb8G)
+ - 👉 [It&#39;s never the skin color](http://9gag.com/gag/aNDPNob)<!-- MEMES:END -->
 
 ---
 

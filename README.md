@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Yeah, I am envious...](http://9gag.com/gag/a871PEY)
  - 😝 [Tao Wickrath](http://9gag.com/gag/avyANj5)
+ - 😝 [Military recruit saved after dropping live grenade at his feet](http://9gag.com/gag/aVvxnqM)
  - 💣 [Big brain time](http://9gag.com/gag/aGyz300)
- - 😝 [Heels and glasses](http://9gag.com/gag/a6Z10Dq)
- - 👉 [Poor Maryjane\u2026](http://9gag.com/gag/aYQr36V)<!-- MEMES:END -->
+ - 😝 [Is this a challenge?](http://9gag.com/gag/aZZrAn6)
+ - 👉 [Heels and glasses](http://9gag.com/gag/a6Z10Dq)<!-- MEMES:END -->
 
 ---
 

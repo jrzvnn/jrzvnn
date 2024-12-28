@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Oracle&#39;s shares are up ~63% in 2024, lifting Larry Ellison&#39;s net worth to $217B+, as the company enjoyed its biggest stock rally since 1999 and the dot-com boom &lpar;Jordan Novet/CNBC&rpar;](http://www.techmeme.com/241227/p20#a241227p20)
  - [Best Internet Providers in Santa Clarita, California](https://www.cnet.com/home/internet/best-internet-providers-in-santa-clarita-ca/#ftag=CAD590a51e)
  - [A look at the EU&#39;s common charging regulations, which come into force on Dec. 28 and cover USB-C ports, fast charging, unbundling of charging bricks, and more &lpar;Callum Booth/The Verge&rpar;](http://www.techmeme.com/241227/p19#a241227p19)
  - [Best Internet Providers in Sarasota, Florida](https://www.cnet.com/home/internet/best-internet-providers-in-sarasota-fl/#ftag=CAD590a51e)
- - [A profile of Tron founder Justin Sun, who wants to be the &quot;Elon Musk of the crypto world&quot; and advises the Trump-backed crypto project World Liberty Financial &lpar;Vicky Ge Huang/Wall Street Journal&rpar;](http://www.techmeme.com/241227/p18#a241227p18)
- - [Best Internet Providers in St. Petersburg, Florida](https://www.cnet.com/home/internet/best-internet-providers-in-st-petersburg-fl/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [A profile of Tron founder Justin Sun, who wants to be the &quot;Elon Musk of the crypto world&quot; and advises the Trump-backed crypto project World Liberty Financial &lpar;Vicky Ge Huang/Wall Street Journal&rpar;](http://www.techmeme.com/241227/p18#a241227p18)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

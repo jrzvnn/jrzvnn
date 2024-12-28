@@ -166,9 +166,9 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [A grown man and her wife](http://9gag.com/gag/aW4gKYq)
  - 😝 [No title](http://9gag.com/gag/a0eZABz)
- - 💣 [Poland is based](http://9gag.com/gag/ae9go5v)
+ - 😝 [Poland is based](http://9gag.com/gag/ae9go5v)
+ - 💣 [Former devs from CDPR formed a new studio called Rebel Wolves, refusing to make garbage games](http://9gag.com/gag/aKGmbE1)
  - 😝 [Multiply this `problem` across the developed world. It is why genetically modified foods are so prominent.](http://9gag.com/gag/aXPrD39)
  - 👉 [Nice](http://9gag.com/gag/aBynp8D)<!-- MEMES:END -->
 

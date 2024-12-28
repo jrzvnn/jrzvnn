@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [A profile of Tron founder Justin Sun, who wants to be the &quot;Elon Musk of the crypto world&quot; and advises the Trump-backed crypto project World Liberty Financial &lpar;Vicky Ge Huang/Wall Street Journal&rpar;](http://www.techmeme.com/241227/p18#a241227p18)
+ - [Best Internet Providers in St. Petersburg, Florida](https://www.cnet.com/home/internet/best-internet-providers-in-st-petersburg-fl/#ftag=CAD590a51e)
  - [Apple ceases iPhone 14, third-gen iPhone SE sales in the EU](https://appleinsider.com/articles/24/12/27/apple-ceases-iphone-14-third-gen-iphone-se-sales-in-the-eu?utm_medium=rss)
- - [Some conservative critics of Elon Musk allege censorship and claim they were stripped of their X verification badges after challenging his views on H-1B visas &lpar;Angrej Singh/Axios&rpar;](http://www.techmeme.com/241227/p17#a241227p17)
- - [Supreme Court to Hear TikTok Case: What to Know](https://www.cnet.com/tech/services-and-software/appeals-court-upholds-tiktok-ban-what-to-know/#ftag=CAD590a51e)
- - [Trump asks the Supreme Court to let him rescue TikTok](https://www.theverge.com/2024/12/27/24330513/trump-asks-the-supreme-court-to-let-him-rescue-tiktok)
- - [Apple: It&#39;s &#39;Wrong&#39; to Assume We&#39;d Want to Create Our Own Search Engine](https://www.cnet.com/tech/mobile/apple-its-wrong-to-assume-wed-want-to-create-our-own-search-engine/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Best Home Ellipticals in 2024](https://www.cnet.com/health/fitness/best-elliptical/#ftag=CAD590a51e)
+ - [Some conservative critics of Elon Musk allege censorship and claim they were stripped of their X verification badges after challenging his views on H-1B visas &lpar;Angrej Singh/Axios&rpar;](http://www.techmeme.com/241227/p17#a241227p17)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

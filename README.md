@@ -158,10 +158,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- TECH:START -->
  - [Netflix&#39;s foray into live sports caps off a strong year, with its share price up 90%+ in 2024, but the stock&#39;s rich valuation sets a high bar for follow-up act &lpar;Dan Gallagher/Wall Street Journal&rpar;](http://www.techmeme.com/241229/p6#a241229p6)
- - [Best Mattress Deals: Make a Good Night&#39;s Sleep Your Priority for 2025](https://www.cnet.com/deals/best-mattress-deals/#ftag=CAD590a51e)
- - [Best Fitbit Deals: Save Big on Fitness Tech to Boost Your Health for 2025](https://www.cnet.com/deals/best-fitbit-deals/#ftag=CAD590a51e)
  - [Is your iPhone sharing photos with Apple by default?](https://www.theverge.com/2024/12/29/24331354/ios-18-sending-photos-data-apple-enhanced-visual-search-opt-out-landmark-lookup)
- - [Best Smart Ovens of 2024](https://www.cnet.com/home/kitchen-and-household/best-smart-ovens/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Best Smart Ovens of 2024](https://www.cnet.com/home/kitchen-and-household/best-smart-ovens/#ftag=CAD590a51e)
+ - [Best Internet Providers in Presque Isle, Maine](https://www.cnet.com/home/internet/best-internet-providers-in-presque-isle-me/#ftag=CAD590a51e)
+ - [Logitech Wave Keys for Mac review: Ergonomic without hurting your wallet](https://appleinsider.com/articles/24/12/29/logitech-wave-keys-for-mac-review-ergonomic-without-hurting-your-wallet?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

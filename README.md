@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Factory reset...](http://9gag.com/gag/a4P1vwQ)
- - 😝 [The only time anyone &lpar;jedi or sith&rpar; used speed ability in all 11 movies](http://9gag.com/gag/a6Z1Ab8)
- - 💣 [Tragic - history repeats itself. I can&#39;t stop laughing](http://9gag.com/gag/aBydR92)
+ - 😝 [Found the legendary memes](http://9gag.com/gag/agmgPyr)
  - 😝 [Crazy in the head, crazy in the bed?](http://9gag.com/gag/avyAbWb)
- - 👉 [She had bro tapping out](http://9gag.com/gag/agmgW9K)<!-- MEMES:END -->
+ - 💣 [Standard imperial technology, This is a common fuse box.](http://9gag.com/gag/apRgy0p)
+ - 😝 [Captain, experts .. is this true? Or just comedy?](http://9gag.com/gag/aVvxA28)
+ - 👉 [He&#39;s lucky he didn&#39;t get shot](http://9gag.com/gag/agmgMmv)<!-- MEMES:END -->
 
 ---
 

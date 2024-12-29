@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [The only time anyone &lpar;jedi or sith&rpar; used speed ability in all 11 movies](http://9gag.com/gag/a6Z1Ab8)
+ - 😝 [Closing their doors](http://9gag.com/gag/aKGmR0O)
+ - 💣 [He&#39;s lucky he didn&#39;t get shot](http://9gag.com/gag/agmgMmv)
  - 😝 [This is Dr. Donald Cline - A fertility doctor who illegally fathered 94 children - He discarded donated sperm &amp; replaced it with his own - He served a one-year suspended sentence for his atrocities](http://9gag.com/gag/aD2DBqN)
- - 😝 [She had bro tapping out](http://9gag.com/gag/agmgW9K)
- - 💣 [Every day a new gender](http://9gag.com/gag/abAgjob)
- - 😝 [Gimme a kiss, behbeh...](http://9gag.com/gag/aZZreP0)
- - 👉 [Factory reset...](http://9gag.com/gag/a4P1vwQ)<!-- MEMES:END -->
+ - 👉 [Every day a new gender](http://9gag.com/gag/abAgjob)<!-- MEMES:END -->
 
 ---
 

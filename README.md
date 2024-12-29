@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [This is Dr. Donald Cline - A fertility doctor who illegally fathered 94 children - He discarded donated sperm &amp; replaced it with his own - He served a one-year suspended sentence for his atrocities](http://9gag.com/gag/aD2DBqN)
- - 😝 [Factory reset...](http://9gag.com/gag/a4P1vwQ)
- - 💣 [When you lack the answers or arguments to support your opinions, all that&#39;s left is to laugh.](http://9gag.com/gag/ayN9Gey)
- - 😝 [The only time anyone &lpar;jedi or sith&rpar; used speed ability in all 11 movies](http://9gag.com/gag/a6Z1Ab8)
- - 👉 [Is this a challenge?](http://9gag.com/gag/aZZrAn6)<!-- MEMES:END -->
+ - 😝 [Grandma&#39;s Christmas tree ice](http://9gag.com/gag/a1mPp12)
+ - 😝 [Money well spent.](http://9gag.com/gag/a3419zr)
+ - 💣 [Greek fast food](http://9gag.com/gag/an7zeK5)
+ - 😝 [Former devs from CDPR formed a new studio called Rebel Wolves, refusing to make garbage games](http://9gag.com/gag/aKGmbE1)
+ - 👉 [Impressive](http://9gag.com/gag/aD2DBPG)<!-- MEMES:END -->
 
 ---
 

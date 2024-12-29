@@ -159,9 +159,9 @@ R                        1 repo              ░░░░░░░░░░░�
 <!-- TECH:START -->
  - [Our 10 Favorite Stand Mixers We&#39;ve Tested and Reviewed &lpar;2024&rpar;](https://www.wired.com/gallery/best-stand-mixers/)
  - [Sources and documents detail OnlyFans&#39; journey from an obscure, porn-free site to an adults-only platform fueled by erotic performers and celebrity influencers &lpar;Reuters&rpar;](http://www.techmeme.com/241229/p3#a241229p3)
- - [Why Social Media&#39;s Focus on Counting Calories Misses the Mark](https://www.cnet.com/health/nutrition/why-social-medias-focus-on-counting-calories-misses-the-mark/#ftag=CAD590a51e)
- - [Self-Driving Cars Are Having a Moment. You Just Have to Be in the Right Place](https://www.cnet.com/roadshow/news/self-driving-cars-are-having-a-moment-you-just-have-to-be-in-the-right-place/#ftag=CAD590a51e)
- - [Streaming Services Keep Transforming to Earn Your Attention. We Expect 3 Areas to Grow in 2025](https://www.cnet.com/tech/services-and-software/streaming-services-keep-transforming-to-earn-your-attention-we-expect-3-areas-to-grow-in-2025/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Best Internet Providers in St. Cloud, Florida](https://www.cnet.com/home/internet/best-internet-providers-in-st-cloud-fl/#ftag=CAD590a51e)
+ - [As Birth Rates Plummet, Women&#39;s Autonomy Will Be Even More at Risk](https://www.wired.com/story/women-autonomy-birth-rates-gender-rights/)
+ - [Nectar Premier Copper Mattress Review 2024: A Step Above the Brand’s Flagship Bed](https://www.cnet.com/health/sleep/nectar-premier-copper-mattress-review/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

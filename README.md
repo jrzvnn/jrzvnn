@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [Bastards could fly all along, they just lazy](http://9gag.com/gag/aNDPyvb)
  - 😝 [Every day a new gender](http://9gag.com/gag/abAgjob)
- - 😝 [They can\u2019t even get head shaving right](http://9gag.com/gag/axyodDK)
- - 💣 [I will take the risk to feel the joy](http://9gag.com/gag/a0e483Q)
- - 😝 [White children things](http://9gag.com/gag/aAyGWYL)
- - 👉 [Betrayal](http://9gag.com/gag/aQzE63z)<!-- MEMES:END -->
+ - 💣 [All we needed is to tax the rich the way we did it](http://9gag.com/gag/abAgjQr)
+ - 😝 [Have a great sunday](http://9gag.com/gag/aVvbz32)
+ - 👉 [Found a plot hole](http://9gag.com/gag/aLnvydW)<!-- MEMES:END -->
 
 ---
 

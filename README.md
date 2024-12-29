@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Bastards could fly all along, they just lazy](http://9gag.com/gag/aNDPyvb)
- - 😝 [Every day a new gender](http://9gag.com/gag/abAgjob)
+ - 😝 [Is this a challenge?](http://9gag.com/gag/aZZrAn6)
+ - 😝 [What would you do in this situation?](http://9gag.com/gag/an7zqmo)
  - 💣 [All we needed is to tax the rich the way we did it](http://9gag.com/gag/abAgjQr)
- - 😝 [Have a great sunday](http://9gag.com/gag/aVvbz32)
- - 👉 [Found a plot hole](http://9gag.com/gag/aLnvydW)<!-- MEMES:END -->
+ - 😝 [He&#39;s lucky he didn&#39;t get shot](http://9gag.com/gag/agmgMmv)
+ - 👉 [That sudden realization that the consequence of your actions will lead you to spending the rest of your life in prison.](http://9gag.com/gag/aYQrzgm)<!-- MEMES:END -->
 
 ---
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [US politicians fully embraced influencers in 2024, blurring lines between punditry and journalism and paving the way for lawmakers to become creators themselves &lpar;Makena Kelly/Wired&rpar;](http://www.techmeme.com/241229/p4#a241229p4)
  - [Crime blotter: Apple Store thefts in Southern California continue](https://appleinsider.com/articles/24/12/29/crime-blotter-apple-store-thefts-in-southern-california-continue?utm_medium=rss)
  - [iPhone case maker Zagg hit with big customer credit card number theft](https://appleinsider.com/articles/24/12/28/accessory-maker-zagg-notifies-customers-of-credit-card-info-breach?utm_medium=rss)
  - [8 Best Electric Scooters of 2024: Tested for Top Performance](https://www.wired.com/gallery/best-electric-scooters/)
- - [2024 was a big year for Windows on Arm](https://www.theverge.com/24319497/windows-on-arm-2024-review-laptops)
- - [Best Internet Providers in Superior, Wisconsin](https://www.cnet.com/home/internet/best-internet-providers-in-superior-wi/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [2024 was a big year for Windows on Arm](https://www.theverge.com/24319497/windows-on-arm-2024-review-laptops)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

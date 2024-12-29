@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Bastards could fly all along, they just lazy](http://9gag.com/gag/aNDPyvb)
  - 😝 [Money well spent.](http://9gag.com/gag/a3419zr)
- - 💣 [Grandma&#39;s Christmas tree ice](http://9gag.com/gag/a1mPp12)
- - 😝 [Former devs from CDPR formed a new studio called Rebel Wolves, refusing to make garbage games](http://9gag.com/gag/aKGmbE1)
- - 👉 [They can\u2019t even get head shaving right](http://9gag.com/gag/axyodDK)<!-- MEMES:END -->
+ - 😝 [Grandma&#39;s Christmas tree ice](http://9gag.com/gag/a1mPp12)
+ - 💣 [Former devs from CDPR formed a new studio called Rebel Wolves, refusing to make garbage games](http://9gag.com/gag/aKGmbE1)
+ - 😝 [They can\u2019t even get head shaving right](http://9gag.com/gag/axyodDK)
+ - 👉 [Impressive](http://9gag.com/gag/aD2DBPG)<!-- MEMES:END -->
 
 ---
 

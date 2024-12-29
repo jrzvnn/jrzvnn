@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Mexico plans to launch an app in January 2025 that will let Mexican migrants warn relatives and alert the nearest consulate if US immigration agents detain them &lpar;Russell Contreras/Axios&rpar;](http://www.techmeme.com/241229/p5#a241229p5)
+ - [How we work: How Andrew Orr&#39;s MacBook Air, iPhone 16 &amp; Beats Pill keeps him going](https://appleinsider.com/articles/24/12/29/how-we-work-how-andrew-orrs-macbook-air-iphone-16-beats-pill-keeps-him-going?utm_medium=rss)
  - [Best iPhone 15 Deals: Start the New Year with a New Phone](https://www.cnet.com/deals/best-iphone-15-deals/#ftag=CAD590a51e)
  - [Best Internet Providers in Virginia Beach, Virginia](https://www.cnet.com/home/internet/best-internet-providers-in-virginia-beach-va/#ftag=CAD590a51e)
- - [Best Knife Sharpener of 2024](https://www.cnet.com/news/best-knife-sharpener/#ftag=CAD590a51e)
- - [6 of the Best Pull-Up Bars for Your Home Gym in 2024](https://www.cnet.com/health/fitness/best-pull-up-bars/#ftag=CAD590a51e)
- - [Save Your Clothes With My Go-To Stain Removal Tips](https://www.cnet.com/how-to/save-your-clothes-with-my-go-to-stain-removal-tips/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Best Knife Sharpener of 2024](https://www.cnet.com/news/best-knife-sharpener/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

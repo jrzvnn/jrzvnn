@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [All we needed is to tax the rich the way we did it](http://9gag.com/gag/abAgjQr)
- - 😝 [Is this a challenge?](http://9gag.com/gag/aZZrAn6)
- - 💣 [Bastards could fly all along, they just lazy](http://9gag.com/gag/aNDPyvb)
- - 😝 [Standard imperial technology, This is a common fuse box.](http://9gag.com/gag/apRgy0p)
- - 👉 [Never loose opportunity](http://9gag.com/gag/a5QXp6N)<!-- MEMES:END -->
+ - 😝 [28-12-2024 - Plane landing gear fails on touchdown. Halifax, NS](http://9gag.com/gag/azx2gRm)
+ - 😝 [It&#39;s THAT time of the year. Good luck!](http://9gag.com/gag/aAy0RXg)
+ - 💣 [Never loose opportunity](http://9gag.com/gag/a5QXp6N)
+ - 😝 [Tragic - history repeats itself. I can&#39;t stop laughing](http://9gag.com/gag/aBydR92)
+ - 👉 [What would you do in this situation?](http://9gag.com/gag/an7zqmo)<!-- MEMES:END -->
 
 ---
 

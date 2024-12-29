@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Tao Wickrath](http://9gag.com/gag/avyANj5)
- - 😝 [This is Dr. Donald Cline - A fertility doctor who illegally fathered 94 children - He discarded donated sperm &amp; replaced it with his own - He served a one-year suspended sentence for his atrocities](http://9gag.com/gag/aD2DBqN)
- - 💣 [Found a plot hole](http://9gag.com/gag/aLnvydW)
- - 😝 [The only time anyone &lpar;jedi or sith&rpar; used speed ability in all 11 movies](http://9gag.com/gag/a6Z1Ab8)
- - 👉 [What she doin now? Trainer?](http://9gag.com/gag/aBynDXN)<!-- MEMES:END -->
+ - 😝 [Closing their doors](http://9gag.com/gag/aKGmR0O)
+ - 😝 [All we needed is to tax the rich the way we did it](http://9gag.com/gag/abAgjQr)
+ - 💣 [Betrayal](http://9gag.com/gag/aQzE63z)
+ - 😝 [So, Loofahs were just, like, growing naturally all along.](http://9gag.com/gag/aW4GB7d)
+ - 👉 [Factory reset...](http://9gag.com/gag/a4P1vwQ)<!-- MEMES:END -->
 
 ---
 

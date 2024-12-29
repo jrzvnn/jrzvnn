@@ -167,10 +167,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [Have a great sunday](http://9gag.com/gag/aVvbz32)
- - 😝 [Family bonds](http://9gag.com/gag/aW4GQZK)
- - 💣 [Much obliged](http://9gag.com/gag/a87qdPd)
- - 😝 [Slavic perfection in every details](http://9gag.com/gag/aLnvy5V)
- - 👉 [Yeah, I am envious...](http://9gag.com/gag/a871PEY)<!-- MEMES:END -->
+ - 😝 [Every day a new gender](http://9gag.com/gag/abAgjob)
+ - 💣 [They can\u2019t even get head shaving right](http://9gag.com/gag/axyodDK)
+ - 😝 [He&#39;s lucky he didn&#39;t get shot](http://9gag.com/gag/agmgMmv)
+ - 👉 [Tragic - history repeats itself. I can&#39;t stop laughing](http://9gag.com/gag/aBydR92)<!-- MEMES:END -->
 
 ---
 

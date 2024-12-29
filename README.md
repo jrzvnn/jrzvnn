@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Money well spent.](http://9gag.com/gag/a3419zr)
- - 😝 [Grandma&#39;s Christmas tree ice](http://9gag.com/gag/a1mPp12)
- - 💣 [Former devs from CDPR formed a new studio called Rebel Wolves, refusing to make garbage games](http://9gag.com/gag/aKGmbE1)
- - 😝 [They can\u2019t even get head shaving right](http://9gag.com/gag/axyodDK)
- - 👉 [Impressive](http://9gag.com/gag/aD2DBPG)<!-- MEMES:END -->
+ - 😝 [The only time anyone &lpar;jedi or sith&rpar; used speed ability in all 11 movies](http://9gag.com/gag/a6Z1Ab8)
+ - 😝 [Slavic perfection in every details](http://9gag.com/gag/aLnvy5V)
+ - 💣 [Found the legendary memes](http://9gag.com/gag/agmgPyr)
+ - 😝 [Crazy in the head, crazy in the bed?](http://9gag.com/gag/avyAbWb)
+ - 👉 [Also where?](http://9gag.com/gag/abAgPX8)<!-- MEMES:END -->
 
 ---
 

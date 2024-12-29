@@ -166,10 +166,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Betrayal](http://9gag.com/gag/aQzE63z)
- - 😝 [All we needed is to tax the rich the way we did it](http://9gag.com/gag/abAgjQr)
- - 💣 [What she doin now? Trainer?](http://9gag.com/gag/aBynDXN)
- - 😝 [They can\u2019t even get head shaving right](http://9gag.com/gag/axyodDK)
+ - 😝 [Found the legendary memes](http://9gag.com/gag/agmgPyr)
+ - 😝 [He&#39;s lucky he didn&#39;t get shot](http://9gag.com/gag/agmgMmv)
+ - 💣 [The only time anyone &lpar;jedi or sith&rpar; used speed ability in all 11 movies](http://9gag.com/gag/a6Z1Ab8)
+ - 😝 [Much obliged](http://9gag.com/gag/a87qdPd)
  - 👉 [Factory reset...](http://9gag.com/gag/a4P1vwQ)<!-- MEMES:END -->
 
 ---

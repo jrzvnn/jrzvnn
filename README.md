@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [What would you do in this situation?](http://9gag.com/gag/an7zqmo)
- - 😝 [Great Britain WTF](http://9gag.com/gag/aQzEPDd)
- - 💣 [Betrayal](http://9gag.com/gag/aQzE63z)
- - 😝 [Wholesome indeed](http://9gag.com/gag/a9yqbmL)
- - 👉 [Sonic 3 is peak](http://9gag.com/gag/avyQ0QE)<!-- MEMES:END -->
+ - 😝 [All we needed is to tax the rich the way we did it](http://9gag.com/gag/abAgjQr)
+ - 😝 [Which one is up to you.](http://9gag.com/gag/agmo3AK)
+ - 💣 [I love lamp](http://9gag.com/gag/aoyKZZ3)
+ - 😝 [Those cute puppies can smell your fear from your accent!](http://9gag.com/gag/aE0qvw9)
+ - 👉 [28-12-2024 - Plane landing gear fails on touchdown. Halifax, NS](http://9gag.com/gag/azx2gRm)<!-- MEMES:END -->
 
 ---
 

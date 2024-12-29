@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [What is the phenomenon called?](http://9gag.com/gag/aRBrnXA)
- - 😝 [Every day a new gender](http://9gag.com/gag/abAgjob)
- - 💣 [Poor Maryjane\u2026](http://9gag.com/gag/aYQr36V)
- - 😝 [Factory reset...](http://9gag.com/gag/a4P1vwQ)
- - 👉 [Bastards could fly all along, they just lazy](http://9gag.com/gag/aNDPyvb)<!-- MEMES:END -->
+ - 😝 [Money well spent.](http://9gag.com/gag/a3419zr)
+ - 😝 [You can thank me in the comments](http://9gag.com/gag/aYQr9bv)
+ - 💣 [Former devs from CDPR formed a new studio called Rebel Wolves, refusing to make garbage games](http://9gag.com/gag/aKGmbE1)
+ - 😝 [Impressive](http://9gag.com/gag/aD2DBPG)
+ - 👉 [Greek fast food](http://9gag.com/gag/an7zeK5)<!-- MEMES:END -->
 
 ---
 

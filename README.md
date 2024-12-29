@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [What did you expect](http://9gag.com/gag/aMVEe2V)
+ - 😝 [One Night Stand From Hell](http://9gag.com/gag/a1m14WY)
+ - 💣 [Sonic 3 is peak](http://9gag.com/gag/avyQ0QE)
  - 😝 [`Dont let me leave,Murph!`](http://9gag.com/gag/a5QXe3r)
- - 😝 [He&#39;s lucky he didn&#39;t get shot](http://9gag.com/gag/agmgMmv)
- - 💣 [Those cute puppies can smell your fear from your accent!](http://9gag.com/gag/aE0qvw9)
- - 😝 [All we needed is to tax the rich the way we did it](http://9gag.com/gag/abAgjQr)
- - 👉 [28-12-2024 - Plane landing gear fails on touchdown. Halifax, NS](http://9gag.com/gag/azx2gRm)<!-- MEMES:END -->
+ - 👉 [Is this a challenge?](http://9gag.com/gag/aZZrAn6)<!-- MEMES:END -->
 
 ---
 

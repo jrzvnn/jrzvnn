@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [When IKEA furniture isn\u2019t frustrating enough](http://9gag.com/gag/aGyE92z)
- - 😝 [Sonic 3 is peak](http://9gag.com/gag/avyQ0QE)
- - 💣 [Great Britain WTF](http://9gag.com/gag/aQzEPDd)
- - 😝 [Betrayal](http://9gag.com/gag/aQzE63z)
- - 👉 [Wholesome indeed](http://9gag.com/gag/a9yqbmL)<!-- MEMES:END -->
+ - 😝 [`Dont let me leave,Murph!`](http://9gag.com/gag/a5QXe3r)
+ - 😝 [He&#39;s lucky he didn&#39;t get shot](http://9gag.com/gag/agmgMmv)
+ - 💣 [Those cute puppies can smell your fear from your accent!](http://9gag.com/gag/aE0qvw9)
+ - 😝 [All we needed is to tax the rich the way we did it](http://9gag.com/gag/abAgjQr)
+ - 👉 [28-12-2024 - Plane landing gear fails on touchdown. Halifax, NS](http://9gag.com/gag/azx2gRm)<!-- MEMES:END -->
 
 ---
 

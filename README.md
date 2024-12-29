@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Bastards could fly all along, they just lazy](http://9gag.com/gag/aNDPyvb)
- - 😝 [This is Dr. Donald Cline - A fertility doctor who illegally fathered 94 children - He discarded donated sperm &amp; replaced it with his own - He served a one-year suspended sentence for his atrocities](http://9gag.com/gag/aD2DBqN)
+ - 😝 [Betrayal](http://9gag.com/gag/aQzE63z)
+ - 😝 [All we needed is to tax the rich the way we did it](http://9gag.com/gag/abAgjQr)
  - 💣 [What she doin now? Trainer?](http://9gag.com/gag/aBynDXN)
- - 😝 [The only time anyone &lpar;jedi or sith&rpar; used speed ability in all 11 movies](http://9gag.com/gag/a6Z1Ab8)
- - 👉 [Is this a challenge?](http://9gag.com/gag/aZZrAn6)<!-- MEMES:END -->
+ - 😝 [They can\u2019t even get head shaving right](http://9gag.com/gag/axyodDK)
+ - 👉 [Factory reset...](http://9gag.com/gag/a4P1vwQ)<!-- MEMES:END -->
 
 ---
 

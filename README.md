@@ -167,10 +167,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [The only time anyone &lpar;jedi or sith&rpar; used speed ability in all 11 movies](http://9gag.com/gag/a6Z1Ab8)
- - 😝 [Closing their doors](http://9gag.com/gag/aKGmR0O)
- - 💣 [He&#39;s lucky he didn&#39;t get shot](http://9gag.com/gag/agmgMmv)
- - 😝 [This is Dr. Donald Cline - A fertility doctor who illegally fathered 94 children - He discarded donated sperm &amp; replaced it with his own - He served a one-year suspended sentence for his atrocities](http://9gag.com/gag/aD2DBqN)
- - 👉 [Every day a new gender](http://9gag.com/gag/abAgjob)<!-- MEMES:END -->
+ - 😝 [Factory reset...](http://9gag.com/gag/a4P1vwQ)
+ - 💣 [She had bro tapping out](http://9gag.com/gag/agmgW9K)
+ - 😝 [All we needed is to tax the rich the way we did it](http://9gag.com/gag/abAgjQr)
+ - 👉 [This is Dr. Donald Cline - A fertility doctor who illegally fathered 94 children - He discarded donated sperm &amp; replaced it with his own - He served a one-year suspended sentence for his atrocities](http://9gag.com/gag/aD2DBqN)<!-- MEMES:END -->
 
 ---
 

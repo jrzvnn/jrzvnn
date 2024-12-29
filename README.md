@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [All we needed is to tax the rich the way we did it](http://9gag.com/gag/abAgjQr)
  - 😝 [Is this a challenge?](http://9gag.com/gag/aZZrAn6)
- - 😝 [What would you do in this situation?](http://9gag.com/gag/an7zqmo)
- - 💣 [All we needed is to tax the rich the way we did it](http://9gag.com/gag/abAgjQr)
- - 😝 [He&#39;s lucky he didn&#39;t get shot](http://9gag.com/gag/agmgMmv)
- - 👉 [That sudden realization that the consequence of your actions will lead you to spending the rest of your life in prison.](http://9gag.com/gag/aYQrzgm)<!-- MEMES:END -->
+ - 💣 [Bastards could fly all along, they just lazy](http://9gag.com/gag/aNDPyvb)
+ - 😝 [Standard imperial technology, This is a common fuse box.](http://9gag.com/gag/apRgy0p)
+ - 👉 [Never loose opportunity](http://9gag.com/gag/a5QXp6N)<!-- MEMES:END -->
 
 ---
 

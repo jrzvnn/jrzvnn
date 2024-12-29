@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Closing their doors](http://9gag.com/gag/aKGmR0O)
- - 😝 [All we needed is to tax the rich the way we did it](http://9gag.com/gag/abAgjQr)
- - 💣 [Betrayal](http://9gag.com/gag/aQzE63z)
- - 😝 [So, Loofahs were just, like, growing naturally all along.](http://9gag.com/gag/aW4GB7d)
- - 👉 [Factory reset...](http://9gag.com/gag/a4P1vwQ)<!-- MEMES:END -->
+ - 😝 [Some &#39;youth&#39; tried to rob a man after moving to Texas, learned Texas culture the hard way](http://9gag.com/gag/awyzwXR)
+ - 😝 [Magic worked well until she started laughing](http://9gag.com/gag/aqyG0gP)
+ - 💣 [Found the legendary memes](http://9gag.com/gag/agmgPyr)
+ - 😝 [Found a plot hole](http://9gag.com/gag/aLnvydW)
+ - 👉 [She had bro tapping out](http://9gag.com/gag/agmgW9K)<!-- MEMES:END -->
 
 ---
 

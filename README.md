@@ -158,10 +158,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- TECH:START -->
  - [Snag an M4 MacBook Pro 14-inch for $1,399 with free 2-day shipping](https://appleinsider.com/articles/24/12/25/snag-an-m4-macbook-pro-14-inch-for-1399-with-free-next-day-delivery?utm_medium=rss)
- - [RWA.xyz estimates the total value of tokenized real-world assets, excluding stablecoins, is $13B, as Opimas says just 0.003% of global asset value is tokenized &lpar;Bloomberg&rpar;](http://www.techmeme.com/241228/p11#a241228p11)
- - [Casper Dream Hybrid Mattress Review 2024: Casper&#39;s Most Accommodating Bed](https://www.cnet.com/health/sleep/casper-dream-hybrid-review/#ftag=CAD590a51e)
- - [Best Light Therapy Lamps for 2024](https://www.cnet.com/health/best-sad-light-therapy-lamp/#ftag=CAD590a51e)
- - [Best Internet Providers in Terre Haute, Indiana](https://www.cnet.com/home/internet/best-internet-providers-in-terre-haute-in/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Today&#39;s NYT Mini Crossword Answers for Sunday, Dec. 29](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-sunday-dec-29/#ftag=CAD590a51e)
+ - [Today&#39;s NYT Connections: Sports Edition Hints and Answers for Dec. 29, #97](https://www.cnet.com/tech/gaming/todays-nyt-connections-sports-edition-hints-and-answers-for-dec-29-97/#ftag=CAD590a51e)
+ - [Today&#39;s NYT Connections Hints, Answers and Help for Dec. 29, #567](https://www.cnet.com/tech/gaming/todays-nyt-connections-hints-answers-and-help-for-dec-29-567/#ftag=CAD590a51e)
+ - [Today&#39;s NYT Strands Hints, Answers and Help for Dec. 29, #301](https://www.cnet.com/tech/gaming/todays-nyt-strands-hints-answers-and-help-for-dec-29-301/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

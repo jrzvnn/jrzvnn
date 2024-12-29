@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Best Kindle Accessories &lpar;2024&rpar;: Kindle Cases, Straps, Charms](https://www.wired.com/gallery/best-kindle-accessories/)
- - [Best Internet Providers in Torrance, California](https://www.cnet.com/home/internet/best-internet-providers-in-torrance-ca/#ftag=CAD590a51e)
- - [How to Create Distraction-Free Holiday Memories With Apple&#39;s Photo Clean Up Tool](https://www.cnet.com/tech/services-and-software/how-to-create-distraction-free-holiday-memories-with-apples-photo-clean-up-tool/#ftag=CAD590a51e)
- - [Don&#39;t Live With a Slow iPhone. Here&#39;s How to Speed It Up and Get Rid of Lag.](https://www.cnet.com/tech/mobile/dont-live-with-a-slow-iphone-heres-how-to-speed-it-up-and-get-rid-of-lag/#ftag=CAD590a51e)
- - [iOS 18 -- Finally -- Brought T9 Dialing to Your iPhone. Here&#39;s How It Works](https://www.cnet.com/tech/services-and-software/ios-18-finally-brought-t9-dialing-to-your-iphone-heres-how-it-works/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [8 Best Electric Scooters of 2024: Tested for Top Performance](https://www.wired.com/gallery/best-electric-scooters/)
+ - [2024 was a big year for Windows on Arm](https://www.theverge.com/24319497/windows-on-arm-2024-review-laptops)
+ - [Best Internet Providers in Superior, Wisconsin](https://www.cnet.com/home/internet/best-internet-providers-in-superior-wi/#ftag=CAD590a51e)
+ - [Best Walmart Deals: Thousands of Savings on Clearance Across Tech, Home, Kitchen and More](https://www.cnet.com/deals/best-walmart-deals/#ftag=CAD590a51e)
+ - [Best Kindle Accessories &lpar;2024&rpar;: Kindle Cases, Straps, Charms](https://www.wired.com/gallery/best-kindle-accessories/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

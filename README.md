@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Have a great sunday](http://9gag.com/gag/aVvbz32)
+ - 😝 [Thought you&#39;d wanna know.](http://9gag.com/gag/arympZd)
  - 😝 [Sonic 3 is peak](http://9gag.com/gag/avyQ0QE)
- - 💣 [One Night Stand From Hell](http://9gag.com/gag/a1m14WY)
- - 😝 [Those cute puppies can smell your fear from your accent!](http://9gag.com/gag/aE0qvw9)
- - 👉 [Real fear](http://9gag.com/gag/aVvbjXw)<!-- MEMES:END -->
+ - 💣 [All we needed is to tax the rich the way we did it](http://9gag.com/gag/abAgjQr)
+ - 😝 [Real fear](http://9gag.com/gag/aVvbjXw)
+ - 👉 [Those cute puppies can smell your fear from your accent!](http://9gag.com/gag/aE0qvw9)<!-- MEMES:END -->
 
 ---
 

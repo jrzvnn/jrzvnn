@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Is your iPhone sharing photos with Apple by default?](https://www.theverge.com/2024/12/29/24331354/ios-18-sending-photos-data-apple-enhanced-visual-search-opt-out-landmark-lookup)
+ - [Best Smart Ovens of 2024](https://www.cnet.com/home/kitchen-and-household/best-smart-ovens/#ftag=CAD590a51e)
+ - [Best Internet Providers in Presque Isle, Maine](https://www.cnet.com/home/internet/best-internet-providers-in-presque-isle-me/#ftag=CAD590a51e)
  - [Logitech Wave Keys for Mac review: Ergonomic without hurting your wallet](https://appleinsider.com/articles/24/12/29/logitech-wave-keys-for-mac-review-ergonomic-without-hurting-your-wallet?utm_medium=rss)
- - [You Want to Change These 8 iPhone Settings Right After Installing iOS 18.2](https://www.cnet.com/tech/services-and-software/you-want-to-change-these-8-iphone-settings-right-after-installing-ios-18-2/#ftag=CAD590a51e)
- - [Best Sonos Deals: Enhance Your Audio Experience for 2025 With Bundles, Limited-Time Offers and Major Discounts](https://www.cnet.com/deals/best-sonos-deals/#ftag=CAD590a51e)
- - [Mexico plans to launch an app in January 2025 that will let Mexican migrants warn relatives and alert the nearest consulate if US immigration agents detain them &lpar;Russell Contreras/Axios&rpar;](http://www.techmeme.com/241229/p5#a241229p5)
- - [How we work: How Andrew Orr&#39;s MacBook Air, iPhone 16 &amp; Beats Pill keeps him going](https://appleinsider.com/articles/24/12/29/how-we-work-how-andrew-orrs-macbook-air-iphone-16-beats-pill-keeps-him-going?utm_medium=rss)<!-- TECH:END -->
+ - [You Want to Change These 8 iPhone Settings Right After Installing iOS 18.2](https://www.cnet.com/tech/services-and-software/you-want-to-change-these-8-iphone-settings-right-after-installing-ios-18-2/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

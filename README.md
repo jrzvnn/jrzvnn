@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Casper Dream Hybrid Mattress Review 2024: Casper&#39;s Most Accommodating Bed](https://www.cnet.com/health/sleep/casper-dream-hybrid-review/#ftag=CAD590a51e)
+ - [Best Light Therapy Lamps for 2024](https://www.cnet.com/health/best-sad-light-therapy-lamp/#ftag=CAD590a51e)
  - [Best Internet Providers in Terre Haute, Indiana](https://www.cnet.com/home/internet/best-internet-providers-in-terre-haute-in/#ftag=CAD590a51e)
- - [Flexbar review: Could be the heir-apparent to the Touch Bar, someday](https://appleinsider.com/articles/24/12/28/flexbar-review-could-be-the-heir-apparent-to-the-touch-bar-someday?utm_medium=rss)
- - [Best Internet Providers in Santa Fe, New Mexico](https://www.cnet.com/home/internet/best-internet-providers-in-santa-fe-nm/#ftag=CAD590a51e)
- - [Saatva HD Mattress Review 2024: A Heavy-Duty Luxurious Bed](https://www.cnet.com/health/sleep/saatva-hd-mattress-review/#ftag=CAD590a51e)
- - [3 Best Stainless Steel Frying Pans in 2024](https://www.cnet.com/news/best-stainless-steel-skillet/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Best Earplugs to Prevent Hearing Loss for 2024](https://www.cnet.com/health/medical/best-earplugs-to-prevent-hearing-loss/#ftag=CAD590a51e)
+ - [Flexbar review: Could be the heir-apparent to the Touch Bar, someday](https://appleinsider.com/articles/24/12/28/flexbar-review-could-be-the-heir-apparent-to-the-touch-bar-someday?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

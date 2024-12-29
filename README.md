@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Architecting one of the year’s most ambitious films](https://www.theverge.com/24330004/the-brutalist-brady-corbet-director-interview)
- - [The 12 Best Sheets of 2024: How to Choose Based on Your Sleep Preferences](https://www.cnet.com/health/sleep/best-sheets/#ftag=CAD590a51e)
- - [Best Fitness Deals: Kick Off the New Year With These Major Savings and Get in Shape for Less](https://www.cnet.com/deals/best-fitness-deals/#ftag=CAD590a51e)
- - [US politicians fully embraced influencers in 2024, blurring lines between punditry and journalism and paving the way for lawmakers to become creators themselves &lpar;Makena Kelly/Wired&rpar;](http://www.techmeme.com/241229/p4#a241229p4)
- - [Best Mattress Pads of 2024](https://www.cnet.com/health/sleep/best-mattress-pads/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Best iPhone 15 Deals: Start the New Year with a New Phone](https://www.cnet.com/deals/best-iphone-15-deals/#ftag=CAD590a51e)
+ - [Best Internet Providers in Virginia Beach, Virginia](https://www.cnet.com/home/internet/best-internet-providers-in-virginia-beach-va/#ftag=CAD590a51e)
+ - [Best Knife Sharpener of 2024](https://www.cnet.com/news/best-knife-sharpener/#ftag=CAD590a51e)
+ - [6 of the Best Pull-Up Bars for Your Home Gym in 2024](https://www.cnet.com/health/fitness/best-pull-up-bars/#ftag=CAD590a51e)
+ - [Save Your Clothes With My Go-To Stain Removal Tips](https://www.cnet.com/how-to/save-your-clothes-with-my-go-to-stain-removal-tips/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

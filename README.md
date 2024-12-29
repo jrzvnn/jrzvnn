@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [The only time anyone &lpar;jedi or sith&rpar; used speed ability in all 11 movies](http://9gag.com/gag/a6Z1Ab8)
+ - 😝 [One Night Stand From Hell](http://9gag.com/gag/a1m14WY)
+ - 😝 [All we needed is to tax the rich the way we did it](http://9gag.com/gag/abAgjQr)
+ - 💣 [Crazy in the head, crazy in the bed?](http://9gag.com/gag/avyAbWb)
  - 😝 [Slavic perfection in every details](http://9gag.com/gag/aLnvy5V)
- - 💣 [Found the legendary memes](http://9gag.com/gag/agmgPyr)
- - 😝 [Crazy in the head, crazy in the bed?](http://9gag.com/gag/avyAbWb)
- - 👉 [Also where?](http://9gag.com/gag/abAgPX8)<!-- MEMES:END -->
+ - 👉 [Found a plot hole](http://9gag.com/gag/aLnvydW)<!-- MEMES:END -->
 
 ---
 

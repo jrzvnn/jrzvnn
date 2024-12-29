@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Found the legendary memes](http://9gag.com/gag/agmgPyr)
  - 😝 [He&#39;s lucky he didn&#39;t get shot](http://9gag.com/gag/agmgMmv)
- - 💣 [The only time anyone &lpar;jedi or sith&rpar; used speed ability in all 11 movies](http://9gag.com/gag/a6Z1Ab8)
- - 😝 [Much obliged](http://9gag.com/gag/a87qdPd)
- - 👉 [Factory reset...](http://9gag.com/gag/a4P1vwQ)<!-- MEMES:END -->
+ - 😝 [This guy shifts better than an automatic gearbox](http://9gag.com/gag/aYQr87O)
+ - 💣 [Family bonds](http://9gag.com/gag/aW4GQZK)
+ - 😝 [Tragic - history repeats itself. I can&#39;t stop laughing](http://9gag.com/gag/aBydR92)
+ - 👉 [Betrayal](http://9gag.com/gag/aQzE63z)<!-- MEMES:END -->
 
 ---
 

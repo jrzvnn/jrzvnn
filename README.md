@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Grandma&#39;s Christmas tree ice](http://9gag.com/gag/a1mPp12)
- - 😝 [Money well spent.](http://9gag.com/gag/a3419zr)
- - 💣 [Greek fast food](http://9gag.com/gag/an7zeK5)
- - 😝 [Former devs from CDPR formed a new studio called Rebel Wolves, refusing to make garbage games](http://9gag.com/gag/aKGmbE1)
- - 👉 [Impressive](http://9gag.com/gag/aD2DBPG)<!-- MEMES:END -->
+ - 😝 [Found the legendary memes](http://9gag.com/gag/agmgPyr)
+ - 😝 [All the people on 9gag, who told me I was rediculous for saying `The Witcher 4` is going to be a `woke` shit show, should look at this.](http://9gag.com/gag/adBgErQ)
+ - 💣 [What is the phenomenon called?](http://9gag.com/gag/aRBrnXA)
+ - 😝 [Real fear](http://9gag.com/gag/aVvbjXw)
+ - 👉 [Bastards could fly all along, they just lazy](http://9gag.com/gag/aNDPyvb)<!-- MEMES:END -->
 
 ---
 

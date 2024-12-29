@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Our 10 Favorite Stand Mixers We&#39;ve Tested and Reviewed &lpar;2024&rpar;](https://www.wired.com/gallery/best-stand-mixers/)
+ - [Sources and documents detail OnlyFans&#39; journey from an obscure, porn-free site to an adults-only platform fueled by erotic performers and celebrity influencers &lpar;Reuters&rpar;](http://www.techmeme.com/241229/p3#a241229p3)
  - [Best Internet Providers in St. Cloud, Florida](https://www.cnet.com/home/internet/best-internet-providers-in-st-cloud-fl/#ftag=CAD590a51e)
  - [As Birth Rates Plummet, Women&#39;s Autonomy Will Be Even More at Risk](https://www.wired.com/story/women-autonomy-birth-rates-gender-rights/)
- - [Nectar Premier Copper Mattress Review 2024: A Step Above the Brand’s Flagship Bed](https://www.cnet.com/health/sleep/nectar-premier-copper-mattress-review/#ftag=CAD590a51e)
- - [Best Internet Providers in Tallahassee, Florida](https://www.cnet.com/home/internet/best-internet-providers-in-tallahassee-fl/#ftag=CAD590a51e)
- - [How Donald Trump went from backing a TikTok ban in 2020 to backing off in 2024, as he became a political star on the platform with more than 14.7M followers &lpar;New York Times&rpar;](http://www.techmeme.com/241229/p2#a241229p2)<!-- TECH:END -->
+ - [Nectar Premier Copper Mattress Review 2024: A Step Above the Brand’s Flagship Bed](https://www.cnet.com/health/sleep/nectar-premier-copper-mattress-review/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

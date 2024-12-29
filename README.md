@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [How Donald Trump went from backing a TikTok ban in 2020 to backing off in 2024, as he became a political star on the platform with more than 14.7M followers &lpar;New York Times&rpar;](http://www.techmeme.com/241229/p2#a241229p2)
+ - [Viewers of Quantum Events Are Also Subject to Uncertainty](https://www.wired.com/story/in-the-quantum-world-even-points-of-view-are-uncertain/)
  - [Three industry groups sue the IRS, challenging a rule that would require some DeFi brokers to report users&#39; personal information to the agency starting in 2027 &lpar;Zack Abrams/The Block&rpar;](http://www.techmeme.com/241229/p1#a241229p1)
  - [Best Internet Providers in South Dakota](https://www.cnet.com/home/internet/best-internet-providers-in-south-dakota/#ftag=CAD590a51e)
- - [Snag an M4 MacBook Pro 14-inch for $1,399 with free 2-day shipping](https://appleinsider.com/articles/24/12/25/snag-an-m4-macbook-pro-14-inch-for-1399-with-free-next-day-delivery?utm_medium=rss)
- - [Today&#39;s NYT Mini Crossword Answers for Sunday, Dec. 29](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-sunday-dec-29/#ftag=CAD590a51e)
- - [Today&#39;s NYT Connections: Sports Edition Hints and Answers for Dec. 29, #97](https://www.cnet.com/tech/gaming/todays-nyt-connections-sports-edition-hints-and-answers-for-dec-29-97/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Snag an M4 MacBook Pro 14-inch for $1,399 with free 2-day shipping](https://appleinsider.com/articles/24/12/25/snag-an-m4-macbook-pro-14-inch-for-1399-with-free-next-day-delivery?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

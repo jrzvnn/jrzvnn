@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Never loose opportunity](http://9gag.com/gag/a5QXp6N)
+ - 😝 [Only Feminist agree with other feminist](http://9gag.com/gag/aD2DBZd)
  - 😝 [He&#39;s lucky he didn&#39;t get shot](http://9gag.com/gag/agmgMmv)
- - 💣 [Yeah, I am envious...](http://9gag.com/gag/a871PEY)
- - 😝 [That sudden realization that the consequence of your actions will lead you to spending the rest of your life in prison.](http://9gag.com/gag/aYQrzgm)
- - 👉 [Is this a challenge?](http://9gag.com/gag/aZZrAn6)<!-- MEMES:END -->
+ - 💣 [Bastards could fly all along, they just lazy](http://9gag.com/gag/aNDPyvb)
+ - 😝 [All we needed is to tax the rich the way we did it](http://9gag.com/gag/abAgjQr)
+ - 👉 [That sudden realization that the consequence of your actions will lead you to spending the rest of your life in prison.](http://9gag.com/gag/aYQrzgm)<!-- MEMES:END -->
 
 ---
 

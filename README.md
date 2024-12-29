@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Brooklyn Bedding Essential Mattress Review: The New Best Affordable Hybrid?](https://www.cnet.com/health/sleep/brooklyn-bedding-essential-mattress-review/#ftag=CAD590a51e)
+ - [Now That Apple Intelligence Is Here, These Are the 4 Features You&#39;ll Actually Use Daily](https://www.cnet.com/tech/services-and-software/now-that-apple-intelligence-is-here-these-are-the-4-features-youll-actually-use-daily/#ftag=CAD590a51e)
  - [Our 10 Favorite Stand Mixers We&#39;ve Tested and Reviewed &lpar;2024&rpar;](https://www.wired.com/gallery/best-stand-mixers/)
- - [Sources and documents detail OnlyFans&#39; journey from an obscure, porn-free site to an adults-only platform fueled by erotic performers and celebrity influencers &lpar;Reuters&rpar;](http://www.techmeme.com/241229/p3#a241229p3)
- - [Why Social Media&#39;s Focus on Counting Calories Misses the Mark](https://www.cnet.com/health/nutrition/why-social-medias-focus-on-counting-calories-misses-the-mark/#ftag=CAD590a51e)
- - [Self-Driving Cars Are Having a Moment. You Just Have to Be in the Right Place](https://www.cnet.com/roadshow/news/self-driving-cars-are-having-a-moment-you-just-have-to-be-in-the-right-place/#ftag=CAD590a51e)
- - [Streaming Services Keep Transforming to Earn Your Attention. We Expect 3 Areas to Grow in 2025](https://www.cnet.com/tech/services-and-software/streaming-services-keep-transforming-to-earn-your-attention-we-expect-3-areas-to-grow-in-2025/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Clever Cleaning Hacks for the Hardest-to-Reach Crevices in Your Kitchen](https://www.cnet.com/home/kitchen-and-household/clever-cleaning-hacks-for-the-hardest-to-reach-crevices-in-your-kitchen/#ftag=CAD590a51e)
+ - [Sources and documents detail OnlyFans&#39; journey from an obscure, porn-free site to an adults-only platform fueled by erotic performers and celebrity influencers &lpar;Reuters&rpar;](http://www.techmeme.com/241229/p3#a241229p3)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

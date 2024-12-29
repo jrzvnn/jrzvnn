@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Thanks MA..](http://9gag.com/gag/a0eZmvQ)
- - 😝 [Closing their doors](http://9gag.com/gag/aKGmR0O)
- - 💣 [Found the legendary memes](http://9gag.com/gag/agmgPyr)
- - 😝 [What she doin now? Trainer?](http://9gag.com/gag/aBynDXN)
- - 👉 [The only time anyone &lpar;jedi or sith&rpar; used speed ability in all 11 movies](http://9gag.com/gag/a6Z1Ab8)<!-- MEMES:END -->
+ - 😝 [Bastards could fly all along, they just lazy](http://9gag.com/gag/aNDPyvb)
+ - 😝 [This is Dr. Donald Cline - A fertility doctor who illegally fathered 94 children - He discarded donated sperm &amp; replaced it with his own - He served a one-year suspended sentence for his atrocities](http://9gag.com/gag/aD2DBqN)
+ - 💣 [What she doin now? Trainer?](http://9gag.com/gag/aBynDXN)
+ - 😝 [The only time anyone &lpar;jedi or sith&rpar; used speed ability in all 11 movies](http://9gag.com/gag/a6Z1Ab8)
+ - 👉 [Is this a challenge?](http://9gag.com/gag/aZZrAn6)<!-- MEMES:END -->
 
 ---
 

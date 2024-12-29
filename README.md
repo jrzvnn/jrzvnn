@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [When IKEA furniture isn\u2019t frustrating enough](http://9gag.com/gag/aGyE92z)
  - 😝 [Sonic 3 is peak](http://9gag.com/gag/avyQ0QE)
- - 😝 [Never loose opportunity](http://9gag.com/gag/a5QXp6N)
- - 💣 [Is this a challenge?](http://9gag.com/gag/aZZrAn6)
- - 😝 [Gone but not forgotten](http://9gag.com/gag/aKGEw9O)
- - 👉 [Weird dog trying to disturb working man](http://9gag.com/gag/a6Zqr1N)<!-- MEMES:END -->
+ - 💣 [Great Britain WTF](http://9gag.com/gag/aQzEPDd)
+ - 😝 [Betrayal](http://9gag.com/gag/aQzE63z)
+ - 👉 [Wholesome indeed](http://9gag.com/gag/a9yqbmL)<!-- MEMES:END -->
 
 ---
 

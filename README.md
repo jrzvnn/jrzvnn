@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Best Internet Providers in Terre Haute, Indiana](https://www.cnet.com/home/internet/best-internet-providers-in-terre-haute-in/#ftag=CAD590a51e)
  - [Flexbar review: Could be the heir-apparent to the Touch Bar, someday](https://appleinsider.com/articles/24/12/28/flexbar-review-could-be-the-heir-apparent-to-the-touch-bar-someday?utm_medium=rss)
- - [AT&amp;T says China targeted a few &quot;individuals of foreign intelligence interest&quot; in the Salt Typhoon hack and its networks are now clear from the intrusion &lpar;Kelcee Griffis/Bloomberg&rpar;](http://www.techmeme.com/241228/p10#a241228p10)
- - [Getting New Glasses? How to Pick the Best Glasses for Your Face Shape and Skin Tone](https://www.cnet.com/health/personal-care/this-is-how-to-pick-the-best-glasses-for-your-face-shape-and-skin-color/#ftag=CAD590a51e)
- - [The Top 6 Alarm Clocks of 2024](https://www.cnet.com/health/sleep/best-alarm-clock/#ftag=CAD590a51e)
- - [Meta’s ‘software update issue’ has been breaking Quest headsets for weeks](https://www.theverge.com/2024/12/28/24330226/metas-software-update-issue-has-been-breaking-quest-headsets-for-weeks)<!-- TECH:END -->
+ - [Best Internet Providers in Santa Fe, New Mexico](https://www.cnet.com/home/internet/best-internet-providers-in-santa-fe-nm/#ftag=CAD590a51e)
+ - [Saatva HD Mattress Review 2024: A Heavy-Duty Luxurious Bed](https://www.cnet.com/health/sleep/saatva-hd-mattress-review/#ftag=CAD590a51e)
+ - [3 Best Stainless Steel Frying Pans in 2024](https://www.cnet.com/news/best-stainless-steel-skillet/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

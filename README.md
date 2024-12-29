@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [28-12-2024 - Plane landing gear fails on touchdown. Halifax, NS](http://9gag.com/gag/azx2gRm)
- - 😝 [It&#39;s THAT time of the year. Good luck!](http://9gag.com/gag/aAy0RXg)
- - 💣 [Never loose opportunity](http://9gag.com/gag/a5QXp6N)
- - 😝 [Tragic - history repeats itself. I can&#39;t stop laughing](http://9gag.com/gag/aBydR92)
- - 👉 [What would you do in this situation?](http://9gag.com/gag/an7zqmo)<!-- MEMES:END -->
+ - 😝 [Never loose opportunity](http://9gag.com/gag/a5QXp6N)
+ - 😝 [He&#39;s lucky he didn&#39;t get shot](http://9gag.com/gag/agmgMmv)
+ - 💣 [Yeah, I am envious...](http://9gag.com/gag/a871PEY)
+ - 😝 [That sudden realization that the consequence of your actions will lead you to spending the rest of your life in prison.](http://9gag.com/gag/aYQrzgm)
+ - 👉 [Is this a challenge?](http://9gag.com/gag/aZZrAn6)<!-- MEMES:END -->
 
 ---
 

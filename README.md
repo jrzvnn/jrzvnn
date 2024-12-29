@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Real fear](http://9gag.com/gag/aVvbjXw)
  - 😝 [Found a plot hole](http://9gag.com/gag/aLnvydW)
- - 💣 [Family bonds](http://9gag.com/gag/aW4GQZK)
  - 😝 [Bastards could fly all along, they just lazy](http://9gag.com/gag/aNDPyvb)
- - 👉 [That sudden realization that the consequence of your actions will lead you to spending the rest of your life in prison.](http://9gag.com/gag/aYQrzgm)<!-- MEMES:END -->
+ - 💣 [Real fear](http://9gag.com/gag/aVvbjXw)
+ - 😝 [Which one is up to you.](http://9gag.com/gag/agmo3AK)
+ - 👉 [Much obliged](http://9gag.com/gag/a87qdPd)<!-- MEMES:END -->
 
 ---
 

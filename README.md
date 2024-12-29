@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [One Night Stand From Hell](http://9gag.com/gag/a1m14WY)
- - 😝 [All we needed is to tax the rich the way we did it](http://9gag.com/gag/abAgjQr)
- - 💣 [Crazy in the head, crazy in the bed?](http://9gag.com/gag/avyAbWb)
- - 😝 [Slavic perfection in every details](http://9gag.com/gag/aLnvy5V)
- - 👉 [Found a plot hole](http://9gag.com/gag/aLnvydW)<!-- MEMES:END -->
+ - 😝 [Real fear](http://9gag.com/gag/aVvbjXw)
+ - 😝 [Found a plot hole](http://9gag.com/gag/aLnvydW)
+ - 💣 [Family bonds](http://9gag.com/gag/aW4GQZK)
+ - 😝 [Bastards could fly all along, they just lazy](http://9gag.com/gag/aNDPyvb)
+ - 👉 [That sudden realization that the consequence of your actions will lead you to spending the rest of your life in prison.](http://9gag.com/gag/aYQrzgm)<!-- MEMES:END -->
 
 ---
 

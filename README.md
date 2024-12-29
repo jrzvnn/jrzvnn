@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Money well spent.](http://9gag.com/gag/a3419zr)
- - 😝 [You can thank me in the comments](http://9gag.com/gag/aYQr9bv)
- - 💣 [Former devs from CDPR formed a new studio called Rebel Wolves, refusing to make garbage games](http://9gag.com/gag/aKGmbE1)
- - 😝 [Impressive](http://9gag.com/gag/aD2DBPG)
- - 👉 [Greek fast food](http://9gag.com/gag/an7zeK5)<!-- MEMES:END -->
+ - 😝 [This is Dr. Donald Cline - A fertility doctor who illegally fathered 94 children - He discarded donated sperm &amp; replaced it with his own - He served a one-year suspended sentence for his atrocities](http://9gag.com/gag/aD2DBqN)
+ - 😝 [She had bro tapping out](http://9gag.com/gag/agmgW9K)
+ - 💣 [Every day a new gender](http://9gag.com/gag/abAgjob)
+ - 😝 [Gimme a kiss, behbeh...](http://9gag.com/gag/aZZreP0)
+ - 👉 [Factory reset...](http://9gag.com/gag/a4P1vwQ)<!-- MEMES:END -->
 
 ---
 

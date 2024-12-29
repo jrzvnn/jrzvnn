@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Crime blotter: Apple Store thefts in Southern California continue](https://appleinsider.com/articles/24/12/29/crime-blotter-apple-store-thefts-in-southern-california-continue?utm_medium=rss)
+ - [iPhone case maker Zagg hit with big customer credit card number theft](https://appleinsider.com/articles/24/12/28/accessory-maker-zagg-notifies-customers-of-credit-card-info-breach?utm_medium=rss)
  - [8 Best Electric Scooters of 2024: Tested for Top Performance](https://www.wired.com/gallery/best-electric-scooters/)
  - [2024 was a big year for Windows on Arm](https://www.theverge.com/24319497/windows-on-arm-2024-review-laptops)
- - [Best Internet Providers in Superior, Wisconsin](https://www.cnet.com/home/internet/best-internet-providers-in-superior-wi/#ftag=CAD590a51e)
- - [Best Walmart Deals: Thousands of Savings on Clearance Across Tech, Home, Kitchen and More](https://www.cnet.com/deals/best-walmart-deals/#ftag=CAD590a51e)
- - [Best Kindle Accessories &lpar;2024&rpar;: Kindle Cases, Straps, Charms](https://www.wired.com/gallery/best-kindle-accessories/)<!-- TECH:END -->
+ - [Best Internet Providers in Superior, Wisconsin](https://www.cnet.com/home/internet/best-internet-providers-in-superior-wi/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

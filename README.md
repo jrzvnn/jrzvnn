@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Found the legendary memes](http://9gag.com/gag/agmgPyr)
- - 😝 [Crazy in the head, crazy in the bed?](http://9gag.com/gag/avyAbWb)
- - 💣 [Standard imperial technology, This is a common fuse box.](http://9gag.com/gag/apRgy0p)
- - 😝 [Captain, experts .. is this true? Or just comedy?](http://9gag.com/gag/aVvxA28)
- - 👉 [He&#39;s lucky he didn&#39;t get shot](http://9gag.com/gag/agmgMmv)<!-- MEMES:END -->
+ - 😝 [Bastards could fly all along, they just lazy](http://9gag.com/gag/aNDPyvb)
+ - 😝 [Money well spent.](http://9gag.com/gag/a3419zr)
+ - 💣 [Grandma&#39;s Christmas tree ice](http://9gag.com/gag/a1mPp12)
+ - 😝 [Former devs from CDPR formed a new studio called Rebel Wolves, refusing to make garbage games](http://9gag.com/gag/aKGmbE1)
+ - 👉 [They can\u2019t even get head shaving right](http://9gag.com/gag/axyodDK)<!-- MEMES:END -->
 
 ---
 

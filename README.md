@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Have a great sunday](http://9gag.com/gag/aVvbz32)
- - 😝 [Every day a new gender](http://9gag.com/gag/abAgjob)
- - 💣 [They can\u2019t even get head shaving right](http://9gag.com/gag/axyodDK)
- - 😝 [He&#39;s lucky he didn&#39;t get shot](http://9gag.com/gag/agmgMmv)
- - 👉 [Tragic - history repeats itself. I can&#39;t stop laughing](http://9gag.com/gag/aBydR92)<!-- MEMES:END -->
+ - 😝 [This is Dr. Donald Cline - A fertility doctor who illegally fathered 94 children - He discarded donated sperm &amp; replaced it with his own - He served a one-year suspended sentence for his atrocities](http://9gag.com/gag/aD2DBqN)
+ - 😝 [Markiplier Predicts Honey Scam In 2020](http://9gag.com/gag/aPAZNwn)
+ - 💣 [That sudden realization that the consequence of your actions will lead you to spending the rest of your life in prison.](http://9gag.com/gag/aYQrzgm)
+ - 😝 [Found a plot hole](http://9gag.com/gag/aLnvydW)
+ - 👉 [Family bonds](http://9gag.com/gag/aW4GQZK)<!-- MEMES:END -->
 
 ---
 

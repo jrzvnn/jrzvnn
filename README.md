@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [YouTube is testing a floating ‘Play something’ button](https://www.theverge.com/2024/12/29/24331622/youtube-play-something-floating-action-button-random-video)
+ - [Best Surge Protector of 2024: APC Is Our Top Choice](https://www.cnet.com/news/best-surge-protector/#ftag=CAD590a51e)
  - [Amazon&#39;s year-end Apple Watch sale drops Series 10 to $329](https://appleinsider.com/articles/24/12/29/amazons-year-end-apple-watch-sale-drops-series-10-to-329?utm_medium=rss)
  - [Spotify showed porn videos in search results for some popular artists](https://www.theverge.com/2024/12/29/24331523/spotify-pornographic-graphic-explicit-videos)
- - [Best Internet Providers in Waterbury, Connecticut](https://www.cnet.com/home/internet/best-internet-providers-in-waterbury-ct/#ftag=CAD590a51e)
- - [Best Internet Providers in Valdosta, Georgia](https://www.cnet.com/home/internet/best-internet-providers-in-valdosta-ga/#ftag=CAD590a51e)
- - [Netflix&#39;s foray into live sports caps off a strong year, with its share price up 90%+ in 2024, but the stock&#39;s rich valuation sets a high bar for follow-up act &lpar;Dan Gallagher/Wall Street Journal&rpar;](http://www.techmeme.com/241229/p6#a241229p6)<!-- TECH:END -->
+ - [Best Internet Providers in Waterbury, Connecticut](https://www.cnet.com/home/internet/best-internet-providers-in-waterbury-ct/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

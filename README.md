@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [What did you expect](http://9gag.com/gag/aMVEe2V)
- - 😝 [One Night Stand From Hell](http://9gag.com/gag/a1m14WY)
- - 💣 [Sonic 3 is peak](http://9gag.com/gag/avyQ0QE)
- - 😝 [`Dont let me leave,Murph!`](http://9gag.com/gag/a5QXe3r)
- - 👉 [Is this a challenge?](http://9gag.com/gag/aZZrAn6)<!-- MEMES:END -->
+ - 😝 [Have a great sunday](http://9gag.com/gag/aVvbz32)
+ - 😝 [Sonic 3 is peak](http://9gag.com/gag/avyQ0QE)
+ - 💣 [One Night Stand From Hell](http://9gag.com/gag/a1m14WY)
+ - 😝 [Those cute puppies can smell your fear from your accent!](http://9gag.com/gag/aE0qvw9)
+ - 👉 [Real fear](http://9gag.com/gag/aVvbjXw)<!-- MEMES:END -->
 
 ---
 

@@ -158,10 +158,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- TECH:START -->
  - [Architecting one of the year’s most ambitious films](https://www.theverge.com/24330004/the-brutalist-brady-corbet-director-interview)
+ - [The 12 Best Sheets of 2024: How to Choose Based on Your Sleep Preferences](https://www.cnet.com/health/sleep/best-sheets/#ftag=CAD590a51e)
+ - [Best Fitness Deals: Kick Off the New Year With These Major Savings and Get in Shape for Less](https://www.cnet.com/deals/best-fitness-deals/#ftag=CAD590a51e)
  - [US politicians fully embraced influencers in 2024, blurring lines between punditry and journalism and paving the way for lawmakers to become creators themselves &lpar;Makena Kelly/Wired&rpar;](http://www.techmeme.com/241229/p4#a241229p4)
- - [Crime blotter: Apple Store thefts in Southern California continue](https://appleinsider.com/articles/24/12/29/crime-blotter-apple-store-thefts-in-southern-california-continue?utm_medium=rss)
- - [iPhone case maker Zagg hit with big customer credit card number theft](https://appleinsider.com/articles/24/12/28/accessory-maker-zagg-notifies-customers-of-credit-card-info-breach?utm_medium=rss)
- - [8 Best Electric Scooters of 2024: Tested for Top Performance](https://www.wired.com/gallery/best-electric-scooters/)<!-- TECH:END -->
+ - [Best Mattress Pads of 2024](https://www.cnet.com/health/sleep/best-mattress-pads/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

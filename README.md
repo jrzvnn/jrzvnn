@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Found a plot hole](http://9gag.com/gag/aLnvydW)
- - 😝 [They can\u2019t even get head shaving right](http://9gag.com/gag/axyodDK)
- - 💣 [Have a great sunday](http://9gag.com/gag/aVvbz32)
- - 😝 [Path of Exile 2. Clearly missed the DEI consultancy](http://9gag.com/gag/aE08ep9)
- - 👉 [That sudden realization that the consequence of your actions will lead you to spending the rest of your life in prison.](http://9gag.com/gag/aYQrzgm)<!-- MEMES:END -->
+ - 😝 [What she doin now? Trainer?](http://9gag.com/gag/aBynDXN)
+ - 😝 [Family bonds](http://9gag.com/gag/aW4GQZK)
+ - 💣 [Path of Exile 2. Clearly missed the DEI consultancy](http://9gag.com/gag/aE08ep9)
+ - 😝 [Have a great sunday](http://9gag.com/gag/aVvbz32)
+ - 👉 [Standard imperial technology, This is a common fuse box.](http://9gag.com/gag/apRgy0p)<!-- MEMES:END -->
 
 ---
 

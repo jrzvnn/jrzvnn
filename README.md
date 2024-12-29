@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Found the legendary memes](http://9gag.com/gag/agmgPyr)
- - 😝 [All the people on 9gag, who told me I was rediculous for saying `The Witcher 4` is going to be a `woke` shit show, should look at this.](http://9gag.com/gag/adBgErQ)
- - 💣 [What is the phenomenon called?](http://9gag.com/gag/aRBrnXA)
- - 😝 [Real fear](http://9gag.com/gag/aVvbjXw)
- - 👉 [Bastards could fly all along, they just lazy](http://9gag.com/gag/aNDPyvb)<!-- MEMES:END -->
+ - 😝 [Tao Wickrath](http://9gag.com/gag/avyANj5)
+ - 😝 [This is Dr. Donald Cline - A fertility doctor who illegally fathered 94 children - He discarded donated sperm &amp; replaced it with his own - He served a one-year suspended sentence for his atrocities](http://9gag.com/gag/aD2DBqN)
+ - 💣 [Found a plot hole](http://9gag.com/gag/aLnvydW)
+ - 😝 [The only time anyone &lpar;jedi or sith&rpar; used speed ability in all 11 movies](http://9gag.com/gag/a6Z1Ab8)
+ - 👉 [What she doin now? Trainer?](http://9gag.com/gag/aBynDXN)<!-- MEMES:END -->
 
 ---
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Found a plot hole](http://9gag.com/gag/aLnvydW)
- - 😝 [Bastards could fly all along, they just lazy](http://9gag.com/gag/aNDPyvb)
- - 💣 [Real fear](http://9gag.com/gag/aVvbjXw)
- - 😝 [Which one is up to you.](http://9gag.com/gag/agmo3AK)
- - 👉 [Much obliged](http://9gag.com/gag/a87qdPd)<!-- MEMES:END -->
+ - 😝 [Have a great sunday](http://9gag.com/gag/aVvbz32)
+ - 😝 [Family bonds](http://9gag.com/gag/aW4GQZK)
+ - 💣 [Much obliged](http://9gag.com/gag/a87qdPd)
+ - 😝 [Slavic perfection in every details](http://9gag.com/gag/aLnvy5V)
+ - 👉 [Yeah, I am envious...](http://9gag.com/gag/a871PEY)<!-- MEMES:END -->
 
 ---
 

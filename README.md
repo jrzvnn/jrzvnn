@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [What she doin now? Trainer?](http://9gag.com/gag/aBynDXN)
- - 😝 [Family bonds](http://9gag.com/gag/aW4GQZK)
- - 💣 [Path of Exile 2. Clearly missed the DEI consultancy](http://9gag.com/gag/aE08ep9)
- - 😝 [Have a great sunday](http://9gag.com/gag/aVvbz32)
- - 👉 [Standard imperial technology, This is a common fuse box.](http://9gag.com/gag/apRgy0p)<!-- MEMES:END -->
+ - 😝 [Every day a new gender](http://9gag.com/gag/abAgjob)
+ - 😝 [They can\u2019t even get head shaving right](http://9gag.com/gag/axyodDK)
+ - 💣 [I will take the risk to feel the joy](http://9gag.com/gag/a0e483Q)
+ - 😝 [White children things](http://9gag.com/gag/aAyGWYL)
+ - 👉 [Betrayal](http://9gag.com/gag/aQzE63z)<!-- MEMES:END -->
 
 ---
 

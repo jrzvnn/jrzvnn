@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Only Feminist agree with other feminist](http://9gag.com/gag/aD2DBZd)
- - 😝 [He&#39;s lucky he didn&#39;t get shot](http://9gag.com/gag/agmgMmv)
- - 💣 [Bastards could fly all along, they just lazy](http://9gag.com/gag/aNDPyvb)
- - 😝 [All we needed is to tax the rich the way we did it](http://9gag.com/gag/abAgjQr)
- - 👉 [That sudden realization that the consequence of your actions will lead you to spending the rest of your life in prison.](http://9gag.com/gag/aYQrzgm)<!-- MEMES:END -->
+ - 😝 [What would you do in this situation?](http://9gag.com/gag/an7zqmo)
+ - 😝 [Great Britain WTF](http://9gag.com/gag/aQzEPDd)
+ - 💣 [Betrayal](http://9gag.com/gag/aQzE63z)
+ - 😝 [When IKEA furniture isn\u2019t frustrating enough](http://9gag.com/gag/aGyE92z)
+ - 👉 [Depression sucks- it made me forget for years how fulfilling making wood bowls is for me\u2026 until last night.](http://9gag.com/gag/a9yqd6j)<!-- MEMES:END -->
 
 ---
 

@@ -168,9 +168,9 @@ R                        1 repo              ░░░░░░░░░░░�
 <!-- MEMES:START -->
  - 😝 [Thought you&#39;d wanna know.](http://9gag.com/gag/arympZd)
  - 😝 [New Taliban rule: Women are no longer allowed to be visible from house windows under any circumstance. If the kitchen has a window, women can&#39;t even cook near it. This comes after other rulings that women are forbidden from making sounds or even speaking to each other.](http://9gag.com/gag/aD2Y0qx)
- - 💣 [28-12-2024 - Plane landing gear fails on touchdown. Halifax, NS](http://9gag.com/gag/azx2gRm)
- - 😝 [This barbershop has been operating in Japan for over 90 years with the highest levels of service.](http://9gag.com/gag/a87qbx3)
- - 👉 [Tragic - history repeats itself. I can&#39;t stop laughing](http://9gag.com/gag/aBydR92)<!-- MEMES:END -->
+ - 💣 [This barbershop has been operating in Japan for over 90 years with the highest levels of service.](http://9gag.com/gag/a87qbx3)
+ - 😝 [Imagine showing this to someone from the middle ages](http://9gag.com/gag/a34Zd5N)
+ - 👉 [What did he do?](http://9gag.com/gag/aVvbOpO)<!-- MEMES:END -->
 
 ---
 

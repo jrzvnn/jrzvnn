@@ -159,9 +159,9 @@ R                        1 repo              ░░░░░░░░░░░�
 <!-- TECH:START -->
  - [How we Work: Wes Hilliard&#39;s Apple Vision Pro &amp; iPad Pro-centric workflows](https://appleinsider.com/articles/24/12/30/how-we-work-wes-hilliards-apple-vision-pro-ipad-pro-centric-workflows?utm_medium=rss)
  - [The technology of passkeys is elegant, but the complexities of syncing them to password managers can contribute to platform lock-in and make them less usable &lpar;Dan Goodin/Ars Technica&rpar;](http://www.techmeme.com/241230/p21#a241230p21)
- - [The best robot vacuums](https://www.theverge.com/22997597/best-robot-vacuum-cleaner)
- - [Monday Night Football: How to Watch Lions vs. 49ers Tonight](https://www.cnet.com/tech/services-and-software/monday-night-football-how-to-watch-lions-vs-49ers-tonight/#ftag=CAD590a51e)
- - [Best Internet Providers in Scottsdale, Arizona](https://www.cnet.com/home/internet/best-internet-providers-in-scottsdale-az/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [No Apple TV Plus? No Worries: You Can Stream It for Free This Weekend](https://www.cnet.com/tech/services-and-software/no-apple-tv-plus-no-worries-you-can-stream-it-for-free-this-weekend/#ftag=CAD590a51e)
+ - [Best Internet Providers in Twin Falls, Idaho](https://www.cnet.com/home/internet/best-internet-providers-in-twin-falls-id/#ftag=CAD590a51e)
+ - [The best robot vacuums](https://www.theverge.com/22997597/best-robot-vacuum-cleaner)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

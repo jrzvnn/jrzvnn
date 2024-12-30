@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [New Taliban rule: Women are no longer allowed to be visible from house windows under any circumstance. If the kitchen has a window, women can&#39;t even cook near it. This comes after other rulings that women are forbidden from making sounds or even speaking to each other.](http://9gag.com/gag/aD2Y0qx)
- - 😝 [Danny Crane](http://9gag.com/gag/aKGEgvj)
- - 💣 [Its her personality](http://9gag.com/gag/abAgjDb)
- - 😝 [Thought you&#39;d wanna know.](http://9gag.com/gag/arympZd)
- - 👉 [Never loose opportunity](http://9gag.com/gag/a5QXp6N)<!-- MEMES:END -->
+ - 😝 [Sonic 3 is peak](http://9gag.com/gag/avyQ0QE)
+ - 😝 [Imagine showing this to someone from the middle ages](http://9gag.com/gag/a34Zd5N)
+ - 💣 [Maximus](http://9gag.com/gag/aD2YA5O)
+ - 😝 [Passive income](http://9gag.com/gag/awyZrNQ)
+ - 👉 [This barbershop has been operating in Japan for over 90 years with the highest levels of service.](http://9gag.com/gag/a87qbx3)<!-- MEMES:END -->
 
 ---
 

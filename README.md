@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Mornin&#39;! nice day](http://9gag.com/gag/aMVE27W)
- - 😝 [You can\u2019t park there mate](http://9gag.com/gag/a87qb1e)
- - 💣 [Bet they could take up half the table :&rpar;](http://9gag.com/gag/aZZDP29)
  - 😝 [GenieDislikesCloud](http://9gag.com/gag/aO8xKN2)
- - 👉 [Which one is up to you.](http://9gag.com/gag/agmo3AK)<!-- MEMES:END -->
+ - 😝 [This barbershop has been operating in Japan for over 90 years with the highest levels of service.](http://9gag.com/gag/a87qbx3)
+ - 💣 [That&#39;s the best movie I&#39;m ever going to be in](http://9gag.com/gag/aAy0Vo9)
+ - 😝 [Which one is up to you.](http://9gag.com/gag/agmo3AK)
+ - 👉 [What did he do?](http://9gag.com/gag/aVvbOpO)<!-- MEMES:END -->
 
 ---
 

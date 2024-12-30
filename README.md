@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [What&#39;s best to watch on Apple TV+ during the upcoming free weekend](https://appleinsider.com/articles/24/12/30/whats-best-to-watch-on-apple-tv-during-the-upcoming-free-weekend?utm_medium=rss)
+ - [A two-pack of refurbished Blink Outdoor 4 cameras is more than half off right now](https://www.theverge.com/2024/12/30/24332046/blink-outdoor-4-security-camera-8bitdo-ultimate-controller-deal-sale)
  - [MacBook Air prices drop to as low as $749 with these New Year&#39;s deals](https://appleinsider.com/articles/24/12/30/macbook-air-prices-drop-to-as-low-as-749-with-these-new-years-deals?utm_medium=rss)
  - [Apple TV Plus is free to stream this weekend](https://www.theverge.com/2024/12/30/24332085/apple-tv-plus-free-weekend-january-2025-offer)
- - [Donald Trump&#39;s next term may widen the longstanding speech divide between the US and Europe, putting social media companies in the middle of a global tug-of-war &lpar;New York Times&rpar;](http://www.techmeme.com/241230/p16#a241230p16)
- - [This Samsung Four-Speaker Surround Sound Setup Is Over 50% Off at Woot](https://www.cnet.com/deals/samsung-hw-q990d-soundbar-woot-deal/#ftag=CAD590a51e)
- - [Best Nintendo Switch Deals: Get a New Console and Games for the New Year With These Limited-Time Discounts](https://www.cnet.com/deals/best-nintendo-switch-deals/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Donald Trump&#39;s next term may widen the longstanding speech divide between the US and Europe, putting social media companies in the middle of a global tug-of-war &lpar;New York Times&rpar;](http://www.techmeme.com/241230/p16#a241230p16)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Danny Crane](http://9gag.com/gag/aKGEgvj)
- - 😝 [GenieDislikesCloud](http://9gag.com/gag/aO8xKN2)
- - 💣 [Tragic - history repeats itself. I can&#39;t stop laughing](http://9gag.com/gag/aBydR92)
- - 😝 [Its her personality](http://9gag.com/gag/abAgjDb)
- - 👉 [Guys.. finally happening?](http://9gag.com/gag/a2vKEze)<!-- MEMES:END -->
+ - 😝 [Never loose opportunity](http://9gag.com/gag/a5QXp6N)
+ - 😝 [Thought you&#39;d wanna know.](http://9gag.com/gag/arympZd)
+ - 💣 [Robert Downey Jr visiting Wall Street in 1992](http://9gag.com/gag/ae9gX5Q)
+ - 😝 [Guys.. finally happening?](http://9gag.com/gag/a2vKEze)
+ - 👉 [What she doin now? Trainer?](http://9gag.com/gag/aBynDXN)<!-- MEMES:END -->
 
 ---
 

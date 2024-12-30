@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Wholesome indeed](http://9gag.com/gag/a9yqbmL)
- - 😝 [Betrayal](http://9gag.com/gag/aQzE63z)
- - 💣 [Amazingly accurate](http://9gag.com/gag/apR9E49)
- - 😝 [I love lamp](http://9gag.com/gag/aoyKZZ3)
- - 👉 [Sonic 3 is peak](http://9gag.com/gag/avyQ0QE)<!-- MEMES:END -->
+ - 😝 [Dad reaction after seeing his christmass gift](http://9gag.com/gag/amogDY4)
+ - 😝 [New Taliban rule: Women are no longer allowed to be visible from house windows under any circumstance. If the kitchen has a window, women can&#39;t even cook near it. This comes after other rulings that women are forbidden from making sounds or even speaking to each other.](http://9gag.com/gag/aD2Y0qx)
+ - 💣 [Tragic - history repeats itself. I can&#39;t stop laughing](http://9gag.com/gag/aBydR92)
+ - 😝 [Blaire Ivory &lpar;26&rpar; dental checkup](http://9gag.com/gag/aqyeZ2P)
+ - 👉 [Robert Downey Jr visiting Wall Street in 1992](http://9gag.com/gag/ae9gX5Q)<!-- MEMES:END -->
 
 ---
 

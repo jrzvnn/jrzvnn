@@ -166,8 +166,8 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Amazingly accurate](http://9gag.com/gag/apR9E49)
  - 😝 [Depression sucks- it made me forget for years how fulfilling making wood bowls is for me\u2026 until last night.](http://9gag.com/gag/a9yqd6j)
+ - 😝 [Imagine showing this to someone from the middle ages](http://9gag.com/gag/a34Zd5N)
  - 💣 [Betrayal](http://9gag.com/gag/aQzE63z)
  - 😝 [Sonic 3 is peak](http://9gag.com/gag/avyQ0QE)
  - 👉 [When you finally realise, you was only human in whole 9gag community and arguing with bots last 4 years](http://9gag.com/gag/aAy0VDR)<!-- MEMES:END -->

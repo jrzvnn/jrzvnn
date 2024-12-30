@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Tragic - history repeats itself. I can&#39;t stop laughing](http://9gag.com/gag/aBydR92)
- - 😝 [Tararara](http://9gag.com/gag/abAvq2r)
- - 💣 [That&#39;s the best movie I&#39;m ever going to be in](http://9gag.com/gag/aAy0Vo9)
- - 😝 [A 1995 casting photo of Salma Hayek](http://9gag.com/gag/aPAg6rQ)
- - 👉 [You can\u2019t park there mate](http://9gag.com/gag/a87qb1e)<!-- MEMES:END -->
+ - 😝 [Which one is up to you.](http://9gag.com/gag/agmo3AK)
+ - 😝 [That&#39;s the best movie I&#39;m ever going to be in](http://9gag.com/gag/aAy0Vo9)
+ - 💣 [He is carrying her home like a bowling ball](http://9gag.com/gag/aByd3PA)
+ - 😝 [You can\u2019t park there mate](http://9gag.com/gag/a87qb1e)
+ - 👉 [Bet they could take up half the table :&rpar;](http://9gag.com/gag/aZZDP29)<!-- MEMES:END -->
 
 ---
 

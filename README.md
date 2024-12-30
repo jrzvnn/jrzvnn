@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [LG’s microwave has a 27-inch display that’ll be perfect for ads](https://www.theverge.com/2024/12/30/24331994/lg-microwave-27-inch-display-speakers)
  - [Philippine investigators say Alice Guo, ex-mayor of the Bamban town, owned the land on which a pig butchering scam center was built, housing ~3,000 scammers &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/241230/p6#a241230p6)
  - [Reddit must continue growing its ad and content licensing revenue to justify its market valuation, which could fast-track the platform&#39;s &quot;enshittification&quot; &lpar;Farhad Manjoo/Slate&rpar;](http://www.techmeme.com/241230/p5#a241230p5)
  - [Best Phones Under $300 in 2025](https://www.cnet.com/tech/mobile/best-phones-under-300/#ftag=CAD590a51e)
- - [Some residents and lawmakers worry that the pace of Atlanta metro&#39;s data center growth, projected to hit 4,000+ MW by 2028, up 30x since 2012, has gone too far &lpar;Will Parker/Wall Street Journal&rpar;](http://www.techmeme.com/241230/p4#a241230p4)
- - [About 50% of the 2,200 employees at TSMC&#39;s Arizona plant are from Taiwan, seeding a cultural and demographic shift at the edge of Phoenix and the Sonoran Desert &lpar;New York Times&rpar;](http://www.techmeme.com/241230/p3#a241230p3)<!-- TECH:END -->
+ - [Some residents and lawmakers worry that the pace of Atlanta metro&#39;s data center growth, projected to hit 4,000+ MW by 2028, up 30x since 2012, has gone too far &lpar;Will Parker/Wall Street Journal&rpar;](http://www.techmeme.com/241230/p4#a241230p4)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

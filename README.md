@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Chinese AI chip designer Cambricon&#39;s stock jumped 383% in 2024, giving the company a $37B market cap, driven by the localization of AI chips in the country &lpar;Bloomberg&rpar;](http://www.techmeme.com/241230/p13#a241230p13)
+ - [The Steam Deck has finally been surpassed — by a fork of Valve’s own experience](https://www.theverge.com/2024/12/30/24329005/bazzite-asus-rog-ally-x-steam-os-editorial)
  - [Ibiden CEO Koji Kawashima says the 112-year-old company, a dominant supplier of chip package substrates to Nvidia, may need to boost capacity due to AI demand &lpar;Bloomberg&rpar;](http://www.techmeme.com/241230/p12#a241230p12)
  - [WIRED’s 2024 Year-in-Review Quiz: From AI Slop to Human Brain Implants](https://www.wired.com/story/2024-year-in-review-quiz/)
- - [Johns Hopkins and Stanford researchers say they trained robots with videos to perform surgical tasks with the skill of human doctors, even correcting mistakes &lpar;Mark Johnson/Washington Post&rpar;](http://www.techmeme.com/241230/p11#a241230p11)
- - [In 2024, Fandom Conquered the World](https://www.wired.com/story/the-year-fandom-conquered-the-world/)
- - [Elon Musk&#39;s new political influence may make it harder for regulators and politicians worldwide to resist Space X&#39;s Starlink, which added 20+ nations in 2024 &lpar;Bloomberg&rpar;](http://www.techmeme.com/241230/p10#a241230p10)<!-- TECH:END -->
+ - [Johns Hopkins and Stanford researchers say they trained robots with videos to perform surgical tasks with the skill of human doctors, even correcting mistakes &lpar;Mark Johnson/Washington Post&rpar;](http://www.techmeme.com/241230/p11#a241230p11)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

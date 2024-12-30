@@ -166,10 +166,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [What did he do?](http://9gag.com/gag/aVvbOpO)
- - 😝 [Record holder](http://9gag.com/gag/aZZDPy0)
- - 💣 [Only Feminist agree with other feminist](http://9gag.com/gag/aD2DBZd)
- - 😝 [Its her personality](http://9gag.com/gag/abAgjDb)
+ - 😝 [Do you like Korean girls?](http://9gag.com/gag/aVvbz0y)
+ - 😝 [A 1995 casting photo of Salma Hayek](http://9gag.com/gag/aPAg6rQ)
+ - 💣 [What did he do?](http://9gag.com/gag/aVvbOpO)
+ - 😝 [Guys.. finally happening?](http://9gag.com/gag/a2vKEze)
  - 👉 [GenieDislikesCloud](http://9gag.com/gag/aO8xKN2)<!-- MEMES:END -->
 
 ---

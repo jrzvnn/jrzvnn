@@ -167,10 +167,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [You can\u2019t park there mate](http://9gag.com/gag/a87qb1e)
- - 😝 [Imagine showing this to someone from the middle ages](http://9gag.com/gag/a34Zd5N)
- - 💣 [This barbershop has been operating in Japan for over 90 years with the highest levels of service.](http://9gag.com/gag/a87qbx3)
+ - 😝 [Bet they could take up half the table :&rpar;](http://9gag.com/gag/aZZDP29)
+ - 💣 [Imagine showing this to someone from the middle ages](http://9gag.com/gag/a34Zd5N)
  - 😝 [Tragic - history repeats itself. I can&#39;t stop laughing](http://9gag.com/gag/aBydR92)
- - 👉 [What did he do?](http://9gag.com/gag/aVvbOpO)<!-- MEMES:END -->
+ - 👉 [Tararara](http://9gag.com/gag/abAvq2r)<!-- MEMES:END -->
 
 ---
 

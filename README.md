@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [The Moment you start thinking](http://9gag.com/gag/awyZKWQ)
- - 😝 [The ball was paid actor](http://9gag.com/gag/aRBEgxM)
- - 💣 [This barbershop has been operating in Japan for over 90 years with the highest levels of service.](http://9gag.com/gag/a87qbx3)
  - 😝 [She saved John Wick](http://9gag.com/gag/adBP6dN)
- - 👉 [Take a 1 minute and 2 sec break with me](http://9gag.com/gag/ae9Q3vW)<!-- MEMES:END -->
+ - 😝 [Tararara](http://9gag.com/gag/abAvq2r)
+ - 💣 [New Taliban rule: Women are no longer allowed to be visible from house windows under any circumstance. If the kitchen has a window, women can&#39;t even cook near it. This comes after other rulings that women are forbidden from making sounds or even speaking to each other.](http://9gag.com/gag/aD2Y0qx)
+ - 😝 [You can\u2019t park there mate](http://9gag.com/gag/a87qb1e)
+ - 👉 [Never loose opportunity](http://9gag.com/gag/a5QXp6N)<!-- MEMES:END -->
 
 ---
 

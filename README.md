@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [He is carrying her home like a bowling ball](http://9gag.com/gag/aByd3PA)
- - 😝 [New Taliban rule: Women are no longer allowed to be visible from house windows under any circumstance. If the kitchen has a window, women can&#39;t even cook near it. This comes after other rulings that women are forbidden from making sounds or even speaking to each other.](http://9gag.com/gag/aD2Y0qx)
- - 💣 [Bet they could take up half the table :&rpar;](http://9gag.com/gag/aZZDP29)
+ - 😝 [GenieDislikesCloud](http://9gag.com/gag/aO8xKN2)
+ - 😝 [You can\u2019t park there mate](http://9gag.com/gag/a87qb1e)
+ - 💣 [New Taliban rule: Women are no longer allowed to be visible from house windows under any circumstance. If the kitchen has a window, women can&#39;t even cook near it. This comes after other rulings that women are forbidden from making sounds or even speaking to each other.](http://9gag.com/gag/aD2Y0qx)
  - 😝 [Do you like Korean girls?](http://9gag.com/gag/aVvbz0y)
- - 👉 [Have a great sunday](http://9gag.com/gag/aVvbz32)<!-- MEMES:END -->
+ - 👉 [Blaire Ivory &lpar;26&rpar; dental checkup](http://9gag.com/gag/aqyeZ2P)<!-- MEMES:END -->
 
 ---
 

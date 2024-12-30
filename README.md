@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [VW Group had sensitive info, including GPS coordinates, of 800K+ electric vehicles exposed on an unprotected AWS database for months before it was alerted &lpar;Thanos Pappas/Carscoops&rpar;](http://www.techmeme.com/241230/p22#a241230p22)
+ - [AT&amp;T and Verizon Declare Their Networks Secure Amid Salt Typhoon Cyberattack](https://www.cnet.com/tech/services-and-software/at-t-and-verizon-declare-their-networks-secure-amid-salt-typhoon-cyberattack/#ftag=CAD590a51e)
  - [How we Work: Wes Hilliard&#39;s Apple Vision Pro &amp; iPad Pro-centric workflows](https://appleinsider.com/articles/24/12/30/how-we-work-wes-hilliards-apple-vision-pro-ipad-pro-centric-workflows?utm_medium=rss)
- - [The technology of passkeys is elegant, but the complexities of syncing them to password managers can contribute to platform lock-in and make them less usable &lpar;Dan Goodin/Ars Technica&rpar;](http://www.techmeme.com/241230/p21#a241230p21)
- - [No Apple TV Plus? No Worries: You Can Stream It for Free This Weekend](https://www.cnet.com/tech/services-and-software/no-apple-tv-plus-no-worries-you-can-stream-it-for-free-this-weekend/#ftag=CAD590a51e)
- - [Best Internet Providers in Twin Falls, Idaho](https://www.cnet.com/home/internet/best-internet-providers-in-twin-falls-id/#ftag=CAD590a51e)
- - [The best robot vacuums](https://www.theverge.com/22997597/best-robot-vacuum-cleaner)<!-- TECH:END -->
+ - [Best E-Bike Deals: Eco-Friendly Transportation Starting at $440](https://www.cnet.com/roadshow/news/best-e-bike-deals/#ftag=CAD590a51e)
+ - [I Fly Almost Every Week. The Backpack I Take On Every Flight Is $36 Right Now](https://www.cnet.com/deals/i-fly-nearly-every-week-the-backpack-i-take-on-every-flight-is-36-right-now/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

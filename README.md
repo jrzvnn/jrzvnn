@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Apple rumored to be keeping the iPhone SE 4 price down](https://appleinsider.com/articles/24/12/30/apple-rumored-to-be-keeping-the-iphone-se-4-price-down?utm_medium=rss)
  - [How New York state is defying Donald Trump’s plans to roll back climate action](https://www.theverge.com/2024/12/30/24332241/climate-change-superfund-act-new-york-state-trump)
  - [VW Group had sensitive info, including GPS coordinates, of 800K+ electric vehicles exposed on an unprotected AWS database for months before it was alerted &lpar;Thanos Pappas/Carscoops&rpar;](http://www.techmeme.com/241230/p22#a241230p22)
  - [AT&amp;T and Verizon Declare Their Networks Secure Amid Salt Typhoon Cyberattack](https://www.cnet.com/tech/services-and-software/at-t-and-verizon-declare-their-networks-secure-amid-salt-typhoon-cyberattack/#ftag=CAD590a51e)
- - [How we Work: Wes Hilliard&#39;s Apple Vision Pro &amp; iPad Pro-centric workflows](https://appleinsider.com/articles/24/12/30/how-we-work-wes-hilliards-apple-vision-pro-ipad-pro-centric-workflows?utm_medium=rss)
- - [Best E-Bike Deals: Eco-Friendly Transportation Starting at $440](https://www.cnet.com/roadshow/news/best-e-bike-deals/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [How we Work: Wes Hilliard&#39;s Apple Vision Pro &amp; iPad Pro-centric workflows](https://appleinsider.com/articles/24/12/30/how-we-work-wes-hilliards-apple-vision-pro-ipad-pro-centric-workflows?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

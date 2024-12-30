@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Imagine showing this to someone from the middle ages](http://9gag.com/gag/a34Zd5N)
+ - 😝 [The Moment you start thinking](http://9gag.com/gag/awyZKWQ)
  - 😝 [The ball was paid actor](http://9gag.com/gag/aRBEgxM)
  - 💣 [This barbershop has been operating in Japan for over 90 years with the highest levels of service.](http://9gag.com/gag/a87qbx3)
  - 😝 [She saved John Wick](http://9gag.com/gag/adBP6dN)
- - 👉 [WTF](http://9gag.com/gag/aZZDxO9)<!-- MEMES:END -->
+ - 👉 [Take a 1 minute and 2 sec break with me](http://9gag.com/gag/ae9Q3vW)<!-- MEMES:END -->
 
 ---
 

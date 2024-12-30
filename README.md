@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [At least I have a wife](http://9gag.com/gag/an7zK4V)
- - 😝 [Do you like Korean girls?](http://9gag.com/gag/aVvbz0y)
- - 💣 [Women will tell on themselves when you allow them to speak](http://9gag.com/gag/a1mPZev)
+ - 😝 [Mornin&#39;! nice day](http://9gag.com/gag/aMVE27W)
  - 😝 [You can\u2019t park there mate](http://9gag.com/gag/a87qb1e)
- - 👉 [GenieDislikesCloud](http://9gag.com/gag/aO8xKN2)<!-- MEMES:END -->
+ - 💣 [Bet they could take up half the table :&rpar;](http://9gag.com/gag/aZZDP29)
+ - 😝 [GenieDislikesCloud](http://9gag.com/gag/aO8xKN2)
+ - 👉 [Which one is up to you.](http://9gag.com/gag/agmo3AK)<!-- MEMES:END -->
 
 ---
 

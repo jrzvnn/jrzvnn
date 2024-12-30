@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [All we needed is to tax the rich the way we did it](http://9gag.com/gag/abAgjQr)
- - 😝 [Which one is up to you.](http://9gag.com/gag/agmo3AK)
- - 💣 [I love lamp](http://9gag.com/gag/aoyKZZ3)
- - 😝 [Those cute puppies can smell your fear from your accent!](http://9gag.com/gag/aE0qvw9)
- - 👉 [28-12-2024 - Plane landing gear fails on touchdown. Halifax, NS](http://9gag.com/gag/azx2gRm)<!-- MEMES:END -->
+ - 😝 [GenieDislikesCloud](http://9gag.com/gag/aO8xKN2)
+ - 😝 [I removed the emojis](http://9gag.com/gag/a87qWP1)
+ - 💣 [What she doin now? Trainer?](http://9gag.com/gag/aBynDXN)
+ - 😝 [28-12-2024 - Plane landing gear fails on touchdown. Halifax, NS](http://9gag.com/gag/azx2gRm)
+ - 👉 [One Night Stand From Hell](http://9gag.com/gag/a1m14WY)<!-- MEMES:END -->
 
 ---
 

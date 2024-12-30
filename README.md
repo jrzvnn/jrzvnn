@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [B&amp;H has dropped Apple&#39;s M3 Pro MacBook Pro to $1,599 for 1 more day](https://appleinsider.com/articles/24/12/30/bh-has-dropped-apples-m3-pro-macbook-pro-to-1599-for-1-more-day?utm_medium=rss)
  - [Volkswagen leak exposed location data for 800,000 electric cars](https://www.theverge.com/2024/12/30/24332181/volkswagen-data-leak-exposed-location-evs)
  - [Apple promised next-gen CarPlay in 2024, so where is it?](https://www.theverge.com/2024/12/30/24332162/apple-next-gen-carplay-not-available-2024-porsche-aston-martin)
- - [Source: ByteDance keeps using a loophole for US chip sanctions and told suppliers it planned to spend up to $7B to access Nvidia chips outside China in 2025 &lpar;The Information&rpar;](http://www.techmeme.com/241230/p20#a241230p20)
- - [Source: accounting startup Bench, which had raised $100M+ and abruptly shut down last week, will be acquired by Employer.com for an undisclosed price &lpar;Charles Rollet/TechCrunch&rpar;](http://www.techmeme.com/241230/p19#a241230p19)
- - [New Magic Mouse may listen for voice commands](https://appleinsider.com/articles/24/12/30/new-magic-mouse-may-listen-for-voice-commands?utm_medium=rss)<!-- TECH:END -->
+ - [Best PlayStation VR 2 Deals: Save $250 With This Incredible Bundle](https://www.cnet.com/deals/playstation-vr-2-deals/#ftag=CAD590a51e)
+ - [Did You Catch That &#39;Squid Game&#39; Season 2 Post-Credits Scene?](https://www.cnet.com/tech/services-and-software/that-squid-game-season-2-cliffhanger-ending-explained/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

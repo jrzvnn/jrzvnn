@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Maximus](http://9gag.com/gag/aD2YA5O)
  - 😝 [Imagine showing this to someone from the middle ages](http://9gag.com/gag/a34Zd5N)
- - 💣 [Passive income](http://9gag.com/gag/awyZrNQ)
- - 😝 [The ball was paid actor](http://9gag.com/gag/aRBEgxM)
- - 👉 [God-tier repair](http://9gag.com/gag/aW4G0O3)<!-- MEMES:END -->
+ - 😝 [Passive income](http://9gag.com/gag/awyZrNQ)
+ - 💣 [Damn based cats!](http://9gag.com/gag/arymeEX)
+ - 😝 [God-tier repair](http://9gag.com/gag/aW4G0O3)
+ - 👉 [The ball was paid actor](http://9gag.com/gag/aRBEgxM)<!-- MEMES:END -->
 
 ---
 

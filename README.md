@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Kyivstar, Ukraine&#39;s largest mobile operator, signs a deal with Starlink to roll out text messaging in Q4 2025, and plans to add voice and data in later stages &lpar;Cagan Koc/Bloomberg&rpar;](http://www.techmeme.com/241230/p15#a241230p15)
  - [Apple&#39;s video doorbell plans &amp; 2024 smart home wrapped on HomeKit Insider](https://appleinsider.com/articles/24/12/30/apples-video-doorbell-plans-2024-smart-home-wrapped-on-homekit-insider?utm_medium=rss)
  - [ProMotion displays rumored to be on all iPhone 17 models](https://appleinsider.com/articles/24/12/30/promotion-displays-rumored-to-be-on-all-iphone-17-models?utm_medium=rss)
  - [Nvidia completes its $700M acquisition of Israel-based Run:ai, which helps orchestrate GPU clouds, and plans to open source its software &lpar;Dean Takahashi/VentureBeat&rpar;](http://www.techmeme.com/241230/p14#a241230p14)
- - [Eight Sleep Pod 4 Review: Sleep Better](https://www.wired.com/review/eight-sleep-pod-4-cover/)
- - [The best PS5 games in 2024](https://www.theverge.com/24322806/ps5-best-games-2024-playstation-sony)<!-- TECH:END -->
+ - [Eight Sleep Pod 4 Review: Sleep Better](https://www.wired.com/review/eight-sleep-pod-4-cover/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

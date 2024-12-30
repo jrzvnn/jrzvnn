@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Yesterday, Peru](http://9gag.com/gag/an7zqj5)
- - 😝 [GenieDislikesCloud](http://9gag.com/gag/aO8xKN2)
- - 💣 [New Taliban rule: Women are no longer allowed to be visible from house windows under any circumstance. If the kitchen has a window, women can&#39;t even cook near it. This comes after other rulings that women are forbidden from making sounds or even speaking to each other.](http://9gag.com/gag/aD2Y0qx)
- - 😝 [What did he do?](http://9gag.com/gag/aVvbOpO)
- - 👉 [Women will tell on themselves when you allow them to speak](http://9gag.com/gag/a1mPZev)<!-- MEMES:END -->
+ - 😝 [Thought you&#39;d wanna know.](http://9gag.com/gag/arympZd)
+ - 😝 [Gone but not forgotten](http://9gag.com/gag/aKGEw9O)
+ - 💣 [GenieDislikesCloud](http://9gag.com/gag/aO8xKN2)
+ - 😝 [28-12-2024 - Plane landing gear fails on touchdown. Halifax, NS](http://9gag.com/gag/azx2gRm)
+ - 👉 [Imagine showing this to someone from the middle ages](http://9gag.com/gag/a34Zd5N)<!-- MEMES:END -->
 
 ---
 

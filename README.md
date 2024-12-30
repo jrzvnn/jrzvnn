@@ -158,10 +158,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- TECH:START -->
  - [The technology of passkeys is elegant, but the complexities of syncing them to password managers can contribute to platform lock-in and make them less usable &lpar;Dan Goodin/Ars Technica&rpar;](http://www.techmeme.com/241230/p21#a241230p21)
+ - [No Apple TV Plus? No Worries: You Can Stream It for Free This Weekend](https://www.cnet.com/tech/services-and-software/no-apple-tv-plus-no-worries-you-can-stream-it-for-free-this-weekend/#ftag=CAD590a51e)
+ - [Best Internet Providers in Twin Falls, Idaho](https://www.cnet.com/home/internet/best-internet-providers-in-twin-falls-id/#ftag=CAD590a51e)
  - [The best robot vacuums](https://www.theverge.com/22997597/best-robot-vacuum-cleaner)
- - [Monday Night Football: How to Watch Lions vs. 49ers Tonight](https://www.cnet.com/tech/services-and-software/monday-night-football-how-to-watch-lions-vs-49ers-tonight/#ftag=CAD590a51e)
- - [Best Internet Providers in Scottsdale, Arizona](https://www.cnet.com/home/internet/best-internet-providers-in-scottsdale-az/#ftag=CAD590a51e)
- - [Best Internet Providers in Washington, DC](https://www.cnet.com/home/internet/best-internet-providers-in-washington-dc/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Use This Trick to Earn Southwest&#39;s &#39;Buy One, Get One Free&#39; Plane Tickets for Nearly Two Years](https://www.cnet.com/personal-finance/credit-cards/use-this-trick-to-earn-southwests-buy-one-get-one-free-plane-tickets-for-nearly-two-years/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

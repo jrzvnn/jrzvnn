@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Imagine showing this to someone from the middle ages](http://9gag.com/gag/a34Zd5N)
- - 😝 [Passive income](http://9gag.com/gag/awyZrNQ)
- - 💣 [Damn based cats!](http://9gag.com/gag/arymeEX)
- - 😝 [God-tier repair](http://9gag.com/gag/aW4G0O3)
- - 👉 [The ball was paid actor](http://9gag.com/gag/aRBEgxM)<!-- MEMES:END -->
+ - 😝 [Those cute puppies can smell your fear from your accent!](http://9gag.com/gag/aE0qvw9)
+ - 😝 [GenieDislikesCloud](http://9gag.com/gag/aO8xKN2)
+ - 💣 [28-12-2024 - Plane landing gear fails on touchdown. Halifax, NS](http://9gag.com/gag/azx2gRm)
+ - 😝 [She saved John Wick](http://9gag.com/gag/adBP6dN)
+ - 👉 [What did he do?](http://9gag.com/gag/aVvbOpO)<!-- MEMES:END -->
 
 ---
 

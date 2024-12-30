@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Nvidia completes its $700M acquisition of Israel-based Run:ai, which helps orchestrate GPU clouds, and plans to open source its software &lpar;Dean Takahashi/VentureBeat&rpar;](http://www.techmeme.com/241230/p14#a241230p14)
+ - [Eight Sleep Pod 4 Review: Sleep Better](https://www.wired.com/review/eight-sleep-pod-4-cover/)
+ - [The best PS5 games in 2024](https://www.theverge.com/24322806/ps5-best-games-2024-playstation-sony)
  - [The 9 Best Electric Toothbrushes, Tested and Reviewed &lpar;2024&rpar;](https://www.wired.com/gallery/best-electric-toothbrushes/)
- - [Chinese AI chip designer Cambricon&#39;s stock jumped 383% in 2024, giving the company a $37B market cap, driven by the localization of AI chips in the country &lpar;Bloomberg&rpar;](http://www.techmeme.com/241230/p13#a241230p13)
- - [The Steam Deck has finally been surpassed — by a fork of Valve’s own experience](https://www.theverge.com/2024/12/30/24329005/bazzite-asus-rog-ally-x-steam-os-editorial)
- - [Ibiden CEO Koji Kawashima says the 112-year-old company, a dominant supplier of chip package substrates to Nvidia, may need to boost capacity due to AI demand &lpar;Bloomberg&rpar;](http://www.techmeme.com/241230/p12#a241230p12)
- - [WIRED’s 2024 Year-in-Review Quiz: From AI Slop to Human Brain Implants](https://www.wired.com/story/2024-year-in-review-quiz/)<!-- TECH:END -->
+ - [Chinese AI chip designer Cambricon&#39;s stock jumped 383% in 2024, giving the company a $37B market cap, driven by the localization of AI chips in the country &lpar;Bloomberg&rpar;](http://www.techmeme.com/241230/p13#a241230p13)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Bet they could take up half the table :&rpar;](http://9gag.com/gag/aZZDP29)
- - 😝 [What did you expect](http://9gag.com/gag/aMVEe2V)
- - 💣 [New Taliban rule: Women are no longer allowed to be visible from house windows under any circumstance. If the kitchen has a window, women can&#39;t even cook near it. This comes after other rulings that women are forbidden from making sounds or even speaking to each other.](http://9gag.com/gag/aD2Y0qx)
+ - 😝 [New Taliban rule: Women are no longer allowed to be visible from house windows under any circumstance. If the kitchen has a window, women can&#39;t even cook near it. This comes after other rulings that women are forbidden from making sounds or even speaking to each other.](http://9gag.com/gag/aD2Y0qx)
  - 😝 [She saved John Wick](http://9gag.com/gag/adBP6dN)
- - 👉 [Tararara](http://9gag.com/gag/abAvq2r)<!-- MEMES:END -->
+ - 💣 [What did he do?](http://9gag.com/gag/aVvbOpO)
+ - 😝 [Tragic - history repeats itself. I can&#39;t stop laughing](http://9gag.com/gag/aBydR92)
+ - 👉 [Never loose opportunity](http://9gag.com/gag/a5QXp6N)<!-- MEMES:END -->
 
 ---
 

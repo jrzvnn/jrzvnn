@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Mornin&#39;! nice day](http://9gag.com/gag/aMVE27W)
- - 😝 [Thought you&#39;d wanna know.](http://9gag.com/gag/arympZd)
- - 💣 [Tragic - history repeats itself. I can&#39;t stop laughing](http://9gag.com/gag/aBydR92)
- - 😝 [Women will tell on themselves when you allow them to speak](http://9gag.com/gag/a1mPZev)
- - 👉 [Crazy in the head, crazy in the bed?](http://9gag.com/gag/avyAbWb)<!-- MEMES:END -->
+ - 😝 [What did he do?](http://9gag.com/gag/aVvbOpO)
+ - 😝 [New Taliban rule: Women are no longer allowed to be visible from house windows under any circumstance. If the kitchen has a window, women can&#39;t even cook near it. This comes after other rulings that women are forbidden from making sounds or even speaking to each other.](http://9gag.com/gag/aD2Y0qx)
+ - 💣 [Never loose opportunity](http://9gag.com/gag/a5QXp6N)
+ - 😝 [Tragic - history repeats itself. I can&#39;t stop laughing](http://9gag.com/gag/aBydR92)
+ - 👉 [What did you expect](http://9gag.com/gag/aMVEe2V)<!-- MEMES:END -->
 
 ---
 

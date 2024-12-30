@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Ibiden CEO Koji Kawashima says the 112-year-old company, a dominant supplier of chip package substrates to Nvidia, may need to boost capacity due to AI demand &lpar;Bloomberg&rpar;](http://www.techmeme.com/241230/p12#a241230p12)
  - [WIRED’s 2024 Year-in-Review Quiz: From AI Slop to Human Brain Implants](https://www.wired.com/story/2024-year-in-review-quiz/)
  - [Johns Hopkins and Stanford researchers say they trained robots with videos to perform surgical tasks with the skill of human doctors, even correcting mistakes &lpar;Mark Johnson/Washington Post&rpar;](http://www.techmeme.com/241230/p11#a241230p11)
  - [In 2024, Fandom Conquered the World](https://www.wired.com/story/the-year-fandom-conquered-the-world/)
- - [Elon Musk&#39;s new political influence may make it harder for regulators and politicians worldwide to resist Space X&#39;s Starlink, which added 20+ nations in 2024 &lpar;Bloomberg&rpar;](http://www.techmeme.com/241230/p10#a241230p10)
- - [The Most Dangerous People on the Internet in 2024](https://www.wired.com/story/the-most-dangerous-people-on-the-internet-in-2024/)<!-- TECH:END -->
+ - [Elon Musk&#39;s new political influence may make it harder for regulators and politicians worldwide to resist Space X&#39;s Starlink, which added 20+ nations in 2024 &lpar;Bloomberg&rpar;](http://www.techmeme.com/241230/p10#a241230p10)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

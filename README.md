@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [God-tier repair](http://9gag.com/gag/aW4G0O3)
- - 😝 [Damn based cats!](http://9gag.com/gag/arymeEX)
- - 💣 [I love lamp](http://9gag.com/gag/aoyKZZ3)
- - 😝 [The ball was paid actor](http://9gag.com/gag/aRBEgxM)
- - 👉 [She saved John Wick](http://9gag.com/gag/adBP6dN)<!-- MEMES:END -->
+ - 😝 [You can\u2019t park there mate](http://9gag.com/gag/a87qb1e)
+ - 😝 [Imagine showing this to someone from the middle ages](http://9gag.com/gag/a34Zd5N)
+ - 💣 [This barbershop has been operating in Japan for over 90 years with the highest levels of service.](http://9gag.com/gag/a87qbx3)
+ - 😝 [Tragic - history repeats itself. I can&#39;t stop laughing](http://9gag.com/gag/aBydR92)
+ - 👉 [What did he do?](http://9gag.com/gag/aVvbOpO)<!-- MEMES:END -->
 
 ---
 

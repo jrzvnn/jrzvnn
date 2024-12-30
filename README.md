@@ -158,10 +158,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- TECH:START -->
  - [Apple could bring its ‘Pro’ OLED displays to the entire iPhone 17 line](https://www.theverge.com/2024/12/30/24332070/iphone-17-rumor-oled-promotion-120hz-display)
+ - [This Excellent Anker USB-C Nano Charger Is Just $30, but Not for Long](https://www.cnet.com/deals/this-excellent-anker-usb-c-nano-charger-is-just-30-but-not-for-long/#ftag=CAD590a51e)
  - [Kyivstar, Ukraine&#39;s largest mobile operator, signs a deal with Starlink to roll out text messaging in Q4 2025, and plans to add voice and data in later stages &lpar;Cagan Koc/Bloomberg&rpar;](http://www.techmeme.com/241230/p15#a241230p15)
  - [Apple&#39;s video doorbell plans &amp; 2024 smart home wrapped on HomeKit Insider](https://appleinsider.com/articles/24/12/30/apples-video-doorbell-plans-2024-smart-home-wrapped-on-homekit-insider?utm_medium=rss)
- - [ProMotion displays rumored to be on all iPhone 17 models](https://appleinsider.com/articles/24/12/30/promotion-displays-rumored-to-be-on-all-iphone-17-models?utm_medium=rss)
- - [Nvidia completes its $700M acquisition of Israel-based Run:ai, which helps orchestrate GPU clouds for AI, and plans to open source Run:ai&#39;s software &lpar;Dean Takahashi/VentureBeat&rpar;](http://www.techmeme.com/241230/p14#a241230p14)<!-- TECH:END -->
+ - [ProMotion displays rumored to be on all iPhone 17 models](https://appleinsider.com/articles/24/12/30/promotion-displays-rumored-to-be-on-all-iphone-17-models?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

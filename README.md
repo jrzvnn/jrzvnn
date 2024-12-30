@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Letter: the US Treasury says China-backed hackers gained access to some Treasury workstations and unclassified docs; a vendor notified it of the hack on Dec. 8 &lpar;Zack Whittaker/TechCrunch&rpar;](http://www.techmeme.com/241230/p24#a241230p24)
  - [A US judge delays the CFTC v. Gemini trial to January 21, after Trump&#39;s inauguration; CFTC alleged Gemini misled the agency in its 2017 bid to debut BTC futures &lpar;Turner Wright/Cointelegraph&rpar;](http://www.techmeme.com/241230/p23#a241230p23)
  - [The US Treasury Department was hacked](https://www.theverge.com/2024/12/30/24332429/us-treasury-department-beyondtrust-hack-security-breach)
- - [Apple rumored to be keeping the iPhone SE 4 price down](https://appleinsider.com/articles/24/12/30/apple-rumored-to-be-keeping-the-iphone-se-4-price-down?utm_medium=rss)
- - [How New York state is defying Donald Trump’s plans to roll back climate action](https://www.theverge.com/2024/12/30/24332241/climate-change-superfund-act-new-york-state-trump)
- - [Keep on Rockin&#39; in the New Year With This $40 JBL Speaker](https://www.cnet.com/deals/jbl-go-4-is-only-40/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Best Buy Members Can Snag $51 off the Xbox Series X Right Now](https://www.cnet.com/deals/best-buy-members-can-snag-51-off-the-xbox-series-x-right-now/#ftag=CAD590a51e)
+ - [9 Foods That Should Never Go in the Freezer](https://www.cnet.com/news/9-foods-that-should-never-go-in-the-freezer/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

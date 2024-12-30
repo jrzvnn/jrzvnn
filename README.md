@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The UK&#39;s CMA opens an antitrust investigation into IBM&#39;s planned acquisition of cloud software vendor HashiCorp; the US FTC has been investigating it since July &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/241230/p17#a241230p17)
- - [What&#39;s best to watch on Apple TV+ during the upcoming free weekend](https://appleinsider.com/articles/24/12/30/whats-best-to-watch-on-apple-tv-during-the-upcoming-free-weekend?utm_medium=rss)
- - [A two-pack of refurbished Blink Outdoor 4 cameras is more than half off right now](https://www.theverge.com/2024/12/30/24332046/blink-outdoor-4-security-camera-8bitdo-ultimate-controller-deal-sale)
- - [MacBook Air prices drop to as low as $749 with these New Year&#39;s deals](https://appleinsider.com/articles/24/12/30/macbook-air-prices-drop-to-as-low-as-749-with-these-new-years-deals?utm_medium=rss)
- - [Apple TV Plus is free to stream this weekend](https://www.theverge.com/2024/12/30/24332085/apple-tv-plus-free-weekend-january-2025-offer)<!-- TECH:END -->
+ - [Source: accounting startup Bench, which had raised $100M+ and abruptly shut down last week, will be acquired by Employer.com for an undisclosed price &lpar;Charles Rollet/TechCrunch&rpar;](http://www.techmeme.com/241230/p19#a241230p19)
+ - [New Magic Mouse may listen for voice commands](https://appleinsider.com/articles/24/12/30/new-magic-mouse-may-listen-for-voice-commands?utm_medium=rss)
+ - [Waymo robotaxis, which are now ubiquitous in parts of CA, will often not stop for pedestrians using crosswalks there, unless a pedestrian is far into the road &lpar;Geoffrey A. Fowler/Washington Post&rpar;](http://www.techmeme.com/241230/p18#a241230p18)
+ - [Inside the secret labs powering iPhone 16&#39;s camera magic](https://appleinsider.com/articles/24/12/30/inside-the-secret-labs-powering-iphone-16s-camera-magic?utm_medium=rss)
+ - [The UK&#39;s CMA opens an antitrust investigation into IBM&#39;s planned acquisition of cloud software vendor HashiCorp; the US FTC has been investigating it since July &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/241230/p17#a241230p17)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Women will tell on themselves when you allow them to speak](http://9gag.com/gag/a1mPZev)
- - 😝 [Which one is up to you.](http://9gag.com/gag/agmo3AK)
- - 💣 [Its her personality](http://9gag.com/gag/abAgjDb)
- - 😝 [What did he do?](http://9gag.com/gag/aVvbOpO)
- - 👉 [Guys.. finally happening?](http://9gag.com/gag/a2vKEze)<!-- MEMES:END -->
+ - 😝 [Wholesome indeed](http://9gag.com/gag/a9yqbmL)
+ - 😝 [Betrayal](http://9gag.com/gag/aQzE63z)
+ - 💣 [Amazingly accurate](http://9gag.com/gag/apR9E49)
+ - 😝 [I love lamp](http://9gag.com/gag/aoyKZZ3)
+ - 👉 [Sonic 3 is peak](http://9gag.com/gag/avyQ0QE)<!-- MEMES:END -->
 
 ---
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [She saved John Wick](http://9gag.com/gag/adBP6dN)
+ - 😝 [Tragic - history repeats itself. I can&#39;t stop laughing](http://9gag.com/gag/aBydR92)
  - 😝 [Tararara](http://9gag.com/gag/abAvq2r)
- - 💣 [New Taliban rule: Women are no longer allowed to be visible from house windows under any circumstance. If the kitchen has a window, women can&#39;t even cook near it. This comes after other rulings that women are forbidden from making sounds or even speaking to each other.](http://9gag.com/gag/aD2Y0qx)
- - 😝 [You can\u2019t park there mate](http://9gag.com/gag/a87qb1e)
- - 👉 [Never loose opportunity](http://9gag.com/gag/a5QXp6N)<!-- MEMES:END -->
+ - 💣 [That&#39;s the best movie I&#39;m ever going to be in](http://9gag.com/gag/aAy0Vo9)
+ - 😝 [A 1995 casting photo of Salma Hayek](http://9gag.com/gag/aPAg6rQ)
+ - 👉 [You can\u2019t park there mate](http://9gag.com/gag/a87qb1e)<!-- MEMES:END -->
 
 ---
 

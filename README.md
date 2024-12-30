@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [New Taliban rule: Women are no longer allowed to be visible from house windows under any circumstance. If the kitchen has a window, women can&#39;t even cook near it. This comes after other rulings that women are forbidden from making sounds or even speaking to each other.](http://9gag.com/gag/aD2Y0qx)
- - 😝 [She saved John Wick](http://9gag.com/gag/adBP6dN)
- - 💣 [What did he do?](http://9gag.com/gag/aVvbOpO)
- - 😝 [Tragic - history repeats itself. I can&#39;t stop laughing](http://9gag.com/gag/aBydR92)
- - 👉 [Never loose opportunity](http://9gag.com/gag/a5QXp6N)<!-- MEMES:END -->
+ - 😝 [God-tier repair](http://9gag.com/gag/aW4G0O3)
+ - 😝 [Damn based cats!](http://9gag.com/gag/arymeEX)
+ - 💣 [I love lamp](http://9gag.com/gag/aoyKZZ3)
+ - 😝 [The ball was paid actor](http://9gag.com/gag/aRBEgxM)
+ - 👉 [She saved John Wick](http://9gag.com/gag/adBP6dN)<!-- MEMES:END -->
 
 ---
 

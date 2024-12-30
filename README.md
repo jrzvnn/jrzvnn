@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Our Favorite High-End Earbuds Are Currently $80 Off](https://www.cnet.com/deals/our-favorite-high-end-earbuds-are-currently-80-off/#ftag=CAD590a51e)
  - [Letter: the US Treasury says China-backed hackers gained access to some Treasury workstations and unclassified docs; a vendor notified it of the hack on Dec. 8 &lpar;Zack Whittaker/TechCrunch&rpar;](http://www.techmeme.com/241230/p24#a241230p24)
  - [A US judge delays the CFTC v. Gemini trial to January 21, after Trump&#39;s inauguration; CFTC alleged Gemini misled the agency in its 2017 bid to debut BTC futures &lpar;Turner Wright/Cointelegraph&rpar;](http://www.techmeme.com/241230/p23#a241230p23)
  - [The US Treasury Department was hacked](https://www.theverge.com/2024/12/30/24332429/us-treasury-department-beyondtrust-hack-security-breach)
- - [Best Buy Members Can Snag $51 off the Xbox Series X Right Now](https://www.cnet.com/deals/best-buy-members-can-snag-51-off-the-xbox-series-x-right-now/#ftag=CAD590a51e)
- - [9 Foods That Should Never Go in the Freezer](https://www.cnet.com/news/9-foods-that-should-never-go-in-the-freezer/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Best Buy Members Can Snag $51 Off the Xbox Series X Right Now](https://www.cnet.com/deals/best-buy-members-can-snag-51-off-the-xbox-series-x-right-now/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

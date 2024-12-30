@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [WIRED’s 2024 Year-in-Review Quiz: From AI Slop to Human Brain Implants](https://www.wired.com/story/2024-year-in-review-quiz/)
+ - [Johns Hopkins and Stanford researchers say they trained robots with videos to perform surgical tasks with the skill of human doctors, even correcting mistakes &lpar;Mark Johnson/Washington Post&rpar;](http://www.techmeme.com/241230/p11#a241230p11)
+ - [In 2024, Fandom Conquered the World](https://www.wired.com/story/the-year-fandom-conquered-the-world/)
  - [Elon Musk&#39;s new political influence may make it harder for regulators and politicians worldwide to resist Space X&#39;s Starlink, which added 20+ nations in 2024 &lpar;Bloomberg&rpar;](http://www.techmeme.com/241230/p10#a241230p10)
- - [The Most Dangerous People on the Internet in 2024](https://www.wired.com/story/the-most-dangerous-people-on-the-internet-in-2024/)
- - [How cloud computing, AI, and geopolitics could shape the evolution of ransomware, which could cost victims $265B annually by 2031, as the AIDS Trojan turns 35 &lpar;Ryan Browne/CNBC&rpar;](http://www.techmeme.com/241230/p9#a241230p9)
- - [The Year Democrats Lost the Internet](https://www.wired.com/story/the-year-democrats-lost-the-internet/)
- - [DJI now makes a very powerful car charger for its big ass batteries](https://www.theverge.com/2024/12/30/24332004/dji-1000w-alternator-charger-specs-price)<!-- TECH:END -->
+ - [The Most Dangerous People on the Internet in 2024](https://www.wired.com/story/the-most-dangerous-people-on-the-internet-in-2024/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

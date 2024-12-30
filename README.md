@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [B&amp;H has dropped Apple&#39;s M3 Pro MacBook Pro to $1,599 for 1 more day](https://appleinsider.com/articles/24/12/30/bh-has-dropped-apples-m3-pro-macbook-pro-to-1599-for-1-more-day?utm_medium=rss)
- - [Volkswagen leak exposed location data for 800,000 electric cars](https://www.theverge.com/2024/12/30/24332181/volkswagen-data-leak-exposed-location-evs)
- - [Apple promised next-gen CarPlay in 2024, so where is it?](https://www.theverge.com/2024/12/30/24332162/apple-next-gen-carplay-not-available-2024-porsche-aston-martin)
- - [Best PlayStation VR 2 Deals: Save $250 With This Incredible Bundle](https://www.cnet.com/deals/playstation-vr-2-deals/#ftag=CAD590a51e)
- - [Did You Catch That &#39;Squid Game&#39; Season 2 Post-Credits Scene?](https://www.cnet.com/tech/services-and-software/that-squid-game-season-2-cliffhanger-ending-explained/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [The best robot vacuums](https://www.theverge.com/22997597/best-robot-vacuum-cleaner)
+ - [Monday Night Football: How to Watch Lions vs. 49ers Tonight](https://www.cnet.com/tech/services-and-software/monday-night-football-how-to-watch-lions-vs-49ers-tonight/#ftag=CAD590a51e)
+ - [Best Internet Providers in Scottsdale, Arizona](https://www.cnet.com/home/internet/best-internet-providers-in-scottsdale-az/#ftag=CAD590a51e)
+ - [Best Internet Providers in Washington, DC](https://www.cnet.com/home/internet/best-internet-providers-in-washington-dc/#ftag=CAD590a51e)
+ - [B&amp;H has dropped Apple&#39;s M3 Pro MacBook Pro to $1,599 for 1 more day](https://appleinsider.com/articles/24/12/30/bh-has-dropped-apples-m3-pro-macbook-pro-to-1599-for-1-more-day?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

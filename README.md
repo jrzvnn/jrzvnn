@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Women will tell on themselves when you allow them to speak](http://9gag.com/gag/a1mPZev)
- - 😝 [GenieDislikesCloud](http://9gag.com/gag/aO8xKN2)
- - 💣 [New Taliban rule: Women are no longer allowed to be visible from house windows under any circumstance. If the kitchen has a window, women can&#39;t even cook near it. This comes after other rulings that women are forbidden from making sounds or even speaking to each other.](http://9gag.com/gag/aD2Y0qx)
- - 😝 [Its her personality](http://9gag.com/gag/abAgjDb)
- - 👉 [She saved John Wick](http://9gag.com/gag/adBP6dN)<!-- MEMES:END -->
+ - 😝 [Amazingly accurate](http://9gag.com/gag/apR9E49)
+ - 😝 [Depression sucks- it made me forget for years how fulfilling making wood bowls is for me\u2026 until last night.](http://9gag.com/gag/a9yqd6j)
+ - 💣 [Betrayal](http://9gag.com/gag/aQzE63z)
+ - 😝 [Sonic 3 is peak](http://9gag.com/gag/avyQ0QE)
+ - 👉 [When you finally realise, you was only human in whole 9gag community and arguing with bots last 4 years](http://9gag.com/gag/aAy0VDR)<!-- MEMES:END -->
 
 ---
 

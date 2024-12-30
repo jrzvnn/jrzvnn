@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Do you like Korean girls?](http://9gag.com/gag/aVvbz0y)
- - 😝 [A 1995 casting photo of Salma Hayek](http://9gag.com/gag/aPAg6rQ)
- - 💣 [What did he do?](http://9gag.com/gag/aVvbOpO)
- - 😝 [Guys.. finally happening?](http://9gag.com/gag/a2vKEze)
- - 👉 [GenieDislikesCloud](http://9gag.com/gag/aO8xKN2)<!-- MEMES:END -->
+ - 😝 [Yesterday, Peru](http://9gag.com/gag/an7zqj5)
+ - 😝 [GenieDislikesCloud](http://9gag.com/gag/aO8xKN2)
+ - 💣 [New Taliban rule: Women are no longer allowed to be visible from house windows under any circumstance. If the kitchen has a window, women can&#39;t even cook near it. This comes after other rulings that women are forbidden from making sounds or even speaking to each other.](http://9gag.com/gag/aD2Y0qx)
+ - 😝 [What did he do?](http://9gag.com/gag/aVvbOpO)
+ - 👉 [Women will tell on themselves when you allow them to speak](http://9gag.com/gag/a1mPZev)<!-- MEMES:END -->
 
 ---
 

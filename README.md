@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [What did he do?](http://9gag.com/gag/aVvbOpO)
- - 😝 [Record holder](http://9gag.com/gag/aZZDPy0)
- - 💣 [I removed the emojis](http://9gag.com/gag/a87qWP1)
- - 😝 [What did you expect](http://9gag.com/gag/aMVEe2V)
- - 👉 [28-12-2024 - Plane landing gear fails on touchdown. Halifax, NS](http://9gag.com/gag/azx2gRm)<!-- MEMES:END -->
+ - 😝 [Betrayal](http://9gag.com/gag/aQzE63z)
+ - 😝 [Amazingly accurate](http://9gag.com/gag/apR9E49)
+ - 💣 [I love lamp](http://9gag.com/gag/aoyKZZ3)
+ - 😝 [Pixel artifier](http://9gag.com/gag/aQzEp8r)
+ - 👉 [Sonic 3 is peak](http://9gag.com/gag/avyQ0QE)<!-- MEMES:END -->
 
 ---
 

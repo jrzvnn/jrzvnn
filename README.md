@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple could bring its ‘Pro’ OLED displays to the entire iPhone 17 line](https://www.theverge.com/2024/12/30/24332070/iphone-17-rumor-oled-promotion-120hz-display)
- - [This Excellent Anker USB-C Nano Charger Is Just $30, but Not for Long](https://www.cnet.com/deals/this-excellent-anker-usb-c-nano-charger-is-just-30-but-not-for-long/#ftag=CAD590a51e)
- - [Kyivstar, Ukraine&#39;s largest mobile operator, signs a deal with Starlink to roll out text messaging in Q4 2025, and plans to add voice and data in later stages &lpar;Cagan Koc/Bloomberg&rpar;](http://www.techmeme.com/241230/p15#a241230p15)
- - [Apple&#39;s video doorbell plans &amp; 2024 smart home wrapped on HomeKit Insider](https://appleinsider.com/articles/24/12/30/apples-video-doorbell-plans-2024-smart-home-wrapped-on-homekit-insider?utm_medium=rss)
- - [ProMotion displays rumored to be on all iPhone 17 models](https://appleinsider.com/articles/24/12/30/promotion-displays-rumored-to-be-on-all-iphone-17-models?utm_medium=rss)<!-- TECH:END -->
+ - [MacBook Air prices drop to as low as $749 with these New Year&#39;s deals](https://appleinsider.com/articles/24/12/30/macbook-air-prices-drop-to-as-low-as-749-with-these-new-years-deals?utm_medium=rss)
+ - [Apple TV Plus is free to stream this weekend](https://www.theverge.com/2024/12/30/24332085/apple-tv-plus-free-weekend-january-2025-offer)
+ - [Donald Trump&#39;s next term may widen the longstanding speech divide between the US and Europe, putting social media companies in the middle of a global tug-of-war &lpar;New York Times&rpar;](http://www.techmeme.com/241230/p16#a241230p16)
+ - [This Samsung Four-Speaker Surround Sound Setup Is Over 50% Off at Woot](https://www.cnet.com/deals/samsung-hw-q990d-soundbar-woot-deal/#ftag=CAD590a51e)
+ - [Best Nintendo Switch Deals: Get a New Console and Games for the New Year With These Limited-Time Discounts](https://www.cnet.com/deals/best-nintendo-switch-deals/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

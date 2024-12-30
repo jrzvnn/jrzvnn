@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Depression sucks- it made me forget for years how fulfilling making wood bowls is for me\u2026 until last night.](http://9gag.com/gag/a9yqd6j)
- - 😝 [Imagine showing this to someone from the middle ages](http://9gag.com/gag/a34Zd5N)
- - 💣 [Betrayal](http://9gag.com/gag/aQzE63z)
- - 😝 [Sonic 3 is peak](http://9gag.com/gag/avyQ0QE)
- - 👉 [When you finally realise, you was only human in whole 9gag community and arguing with bots last 4 years](http://9gag.com/gag/aAy0VDR)<!-- MEMES:END -->
+ - 😝 [Mornin&#39;! nice day](http://9gag.com/gag/aMVE27W)
+ - 😝 [Thought you&#39;d wanna know.](http://9gag.com/gag/arympZd)
+ - 💣 [Tragic - history repeats itself. I can&#39;t stop laughing](http://9gag.com/gag/aBydR92)
+ - 😝 [Women will tell on themselves when you allow them to speak](http://9gag.com/gag/a1mPZev)
+ - 👉 [Crazy in the head, crazy in the bed?](http://9gag.com/gag/avyAbWb)<!-- MEMES:END -->
 
 ---
 

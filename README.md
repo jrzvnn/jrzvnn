@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Yesterday, Peru](http://9gag.com/gag/an7zqj5)
- - 😝 [Women will tell on themselves when you allow them to speak](http://9gag.com/gag/a1mPZev)
- - 💣 [She saved John Wick](http://9gag.com/gag/adBP6dN)
- - 😝 [Danny Crane](http://9gag.com/gag/aKGEgvj)
- - 👉 [Tragic - history repeats itself. I can&#39;t stop laughing](http://9gag.com/gag/aBydR92)<!-- MEMES:END -->
+ - 😝 [Maximus](http://9gag.com/gag/aD2YA5O)
+ - 😝 [Imagine showing this to someone from the middle ages](http://9gag.com/gag/a34Zd5N)
+ - 💣 [Passive income](http://9gag.com/gag/awyZrNQ)
+ - 😝 [The ball was paid actor](http://9gag.com/gag/aRBEgxM)
+ - 👉 [God-tier repair](http://9gag.com/gag/aW4G0O3)<!-- MEMES:END -->
 
 ---
 

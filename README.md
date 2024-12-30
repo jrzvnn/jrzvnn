@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Never loose opportunity](http://9gag.com/gag/a5QXp6N)
- - 😝 [What did he do?](http://9gag.com/gag/aVvbOpO)
- - 💣 [This is Dr. Donald Cline - A fertility doctor who illegally fathered 94 children - He discarded donated sperm &amp; replaced it with his own - He served a one-year suspended sentence for his atrocities](http://9gag.com/gag/aD2DBqN)
+ - 😝 [New Taliban rule: Women are no longer allowed to be visible from house windows under any circumstance. If the kitchen has a window, women can&#39;t even cook near it. This comes after other rulings that women are forbidden from making sounds or even speaking to each other.](http://9gag.com/gag/aD2Y0qx)
+ - 😝 [Danny Crane](http://9gag.com/gag/aKGEgvj)
+ - 💣 [Its her personality](http://9gag.com/gag/abAgjDb)
  - 😝 [Thought you&#39;d wanna know.](http://9gag.com/gag/arympZd)
- - 👉 [She saved John Wick](http://9gag.com/gag/adBP6dN)<!-- MEMES:END -->
+ - 👉 [Never loose opportunity](http://9gag.com/gag/a5QXp6N)<!-- MEMES:END -->
 
 ---
 

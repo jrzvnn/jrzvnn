@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [This Excellent Anker USB-C Nano Charger Is Just $30, but Not for Long](https://www.cnet.com/deals/this-excellent-anker-usb-c-nano-charger-is-just-30-but-not-for-long/#ftag=CAD590a51e)
  - [Kyivstar, Ukraine&#39;s largest mobile operator, signs a deal with Starlink to roll out text messaging in Q4 2025, and plans to add voice and data in later stages &lpar;Cagan Koc/Bloomberg&rpar;](http://www.techmeme.com/241230/p15#a241230p15)
  - [Apple&#39;s video doorbell plans &amp; 2024 smart home wrapped on HomeKit Insider](https://appleinsider.com/articles/24/12/30/apples-video-doorbell-plans-2024-smart-home-wrapped-on-homekit-insider?utm_medium=rss)
  - [ProMotion displays rumored to be on all iPhone 17 models](https://appleinsider.com/articles/24/12/30/promotion-displays-rumored-to-be-on-all-iphone-17-models?utm_medium=rss)
- - [Nvidia completes its $700M acquisition of Israel-based Run:ai, which helps orchestrate GPU clouds, and plans to open source its software &lpar;Dean Takahashi/VentureBeat&rpar;](http://www.techmeme.com/241230/p14#a241230p14)
- - [Eight Sleep Pod 4 Review: Sleep Better](https://www.wired.com/review/eight-sleep-pod-4-cover/)<!-- TECH:END -->
+ - [We Found This Awesome Zelda-Themed 1TB MicroSD Card at 40% Off for the New Switch Owner in Your Life](https://www.cnet.com/deals/we-found-this-awesome-zelda-themed-1tb-microsd-card-at-40-off-for-the-new-switch-owner-in-your-life/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

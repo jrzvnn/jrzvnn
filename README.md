@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Volkswagen leak exposed location data for 800,000 electric cars](https://www.theverge.com/2024/12/30/24332181/volkswagen-data-leak-exposed-location-evs)
+ - [Apple promised next-gen CarPlay in 2024, so where is it?](https://www.theverge.com/2024/12/30/24332162/apple-next-gen-carplay-not-available-2024-porsche-aston-martin)
  - [Source: ByteDance keeps using a loophole for US chip sanctions and told suppliers it planned to spend up to $7B to access Nvidia chips outside China in 2025 &lpar;The Information&rpar;](http://www.techmeme.com/241230/p20#a241230p20)
  - [Source: accounting startup Bench, which had raised $100M+ and abruptly shut down last week, will be acquired by Employer.com for an undisclosed price &lpar;Charles Rollet/TechCrunch&rpar;](http://www.techmeme.com/241230/p19#a241230p19)
- - [New Magic Mouse may listen for voice commands](https://appleinsider.com/articles/24/12/30/new-magic-mouse-may-listen-for-voice-commands?utm_medium=rss)
- - [Waymo robotaxis, which are now ubiquitous in parts of CA, will often not stop for pedestrians using crosswalks there, unless a pedestrian is far into the road &lpar;Geoffrey A. Fowler/Washington Post&rpar;](http://www.techmeme.com/241230/p18#a241230p18)
- - [Inside the secret labs powering iPhone 16&#39;s camera magic](https://appleinsider.com/articles/24/12/30/inside-the-secret-labs-powering-iphone-16s-camera-magic?utm_medium=rss)<!-- TECH:END -->
+ - [New Magic Mouse may listen for voice commands](https://appleinsider.com/articles/24/12/30/new-magic-mouse-may-listen-for-voice-commands?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

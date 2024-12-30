@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [GenieDislikesCloud](http://9gag.com/gag/aO8xKN2)
- - 😝 [I removed the emojis](http://9gag.com/gag/a87qWP1)
- - 💣 [What she doin now? Trainer?](http://9gag.com/gag/aBynDXN)
- - 😝 [28-12-2024 - Plane landing gear fails on touchdown. Halifax, NS](http://9gag.com/gag/azx2gRm)
- - 👉 [One Night Stand From Hell](http://9gag.com/gag/a1m14WY)<!-- MEMES:END -->
+ - 😝 [What did he do?](http://9gag.com/gag/aVvbOpO)
+ - 😝 [Record holder](http://9gag.com/gag/aZZDPy0)
+ - 💣 [I removed the emojis](http://9gag.com/gag/a87qWP1)
+ - 😝 [What did you expect](http://9gag.com/gag/aMVEe2V)
+ - 👉 [28-12-2024 - Plane landing gear fails on touchdown. Halifax, NS](http://9gag.com/gag/azx2gRm)<!-- MEMES:END -->
 
 ---
 

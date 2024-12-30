@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Apple&#39;s video doorbell plans &amp; 2024 smart home wrapped on HomeKit Insider](https://appleinsider.com/articles/24/12/30/apples-video-doorbell-plans-2024-smart-home-wrapped-on-homekit-insider?utm_medium=rss)
+ - [ProMotion displays rumored to be on all iPhone 17 models](https://appleinsider.com/articles/24/12/30/promotion-displays-rumored-to-be-on-all-iphone-17-models?utm_medium=rss)
  - [Nvidia completes its $700M acquisition of Israel-based Run:ai, which helps orchestrate GPU clouds, and plans to open source its software &lpar;Dean Takahashi/VentureBeat&rpar;](http://www.techmeme.com/241230/p14#a241230p14)
  - [Eight Sleep Pod 4 Review: Sleep Better](https://www.wired.com/review/eight-sleep-pod-4-cover/)
- - [The best PS5 games in 2024](https://www.theverge.com/24322806/ps5-best-games-2024-playstation-sony)
- - [The 9 Best Electric Toothbrushes, Tested and Reviewed &lpar;2024&rpar;](https://www.wired.com/gallery/best-electric-toothbrushes/)
- - [Chinese AI chip designer Cambricon&#39;s stock jumped 383% in 2024, giving the company a $37B market cap, driven by the localization of AI chips in the country &lpar;Bloomberg&rpar;](http://www.techmeme.com/241230/p13#a241230p13)<!-- TECH:END -->
+ - [The best PS5 games in 2024](https://www.theverge.com/24322806/ps5-best-games-2024-playstation-sony)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

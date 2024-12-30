@@ -160,8 +160,8 @@ R                        1 repo              ░░░░░░░░░░░�
  - [How cloud computing, AI, and geopolitics could shape the evolution of ransomware, which could cost victims $265B annually by 2031, as the AIDS Trojan turns 35 &lpar;Ryan Browne/CNBC&rpar;](http://www.techmeme.com/241230/p9#a241230p9)
  - [The Year Democrats Lost the Internet](https://www.wired.com/story/the-year-democrats-lost-the-internet/)
  - [DJI now makes a very powerful car charger for its big ass batteries](https://www.theverge.com/2024/12/30/24332004/dji-1000w-alternator-charger-specs-price)
- - [2024 was a big year for Windows on ARM, and fierce competition between Intel, AMD, and Qualcomm promises to make 2025 an exciting year for Windows laptops &lpar;Tom Warren/The Verge&rpar;](http://www.techmeme.com/241230/p8#a241230p8)
- - [Mortgages Move Up for Homeseekers: Mortgage Rates for Dec. 30, 2024](https://www.cnet.com/personal-finance/mortgages/mortgages-move-up-for-homeseekers-mortgage-rates-for-dec-30-2024/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Best Internet Providers in Winter Haven, Florida](https://www.cnet.com/home/internet/best-internet-providers-in-winter-haven-fl/#ftag=CAD590a51e)
+ - [Your Phone Is Dirtier Than a Toilet Seat. Here&#39;s How to Clean It the Right Way](https://www.cnet.com/tech/mobile/your-phone-is-dirtier-than-a-toilet-seat-heres-how-to-clean-it-the-right-way/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [DJI now makes a very powerful car charger for its big ass batteries](https://www.theverge.com/2024/12/30/24332004/dji-1000w-alternator-charger-specs-price)
  - [2024 was a big year for Windows on ARM, and fierce competition between Intel, AMD, and Qualcomm promises to make 2025 an exciting year for Windows laptops &lpar;Tom Warren/The Verge&rpar;](http://www.techmeme.com/241230/p8#a241230p8)
- - [Amazon&#39;s year-end Apple Watch sale drops Series 10 to $329](https://appleinsider.com/articles/24/12/29/amazons-year-end-apple-watch-sale-drops-series-10-to-329?utm_medium=rss)
- - [To Fight AI Search Spam, Prioritize Real Human Voices](https://www.wired.com/story/optimize-for-authentic-voices-in-a-sea-of-ai-search-spam/)
- - [DFC Intelligence expects GTA VI to generate $3.2B in its first year, double that of 2013&#39;s GTA V, making it a bright spot in a lackluster video games market &lpar;Tim Bradshaw/Financial Times&rpar;](http://www.techmeme.com/241230/p7#a241230p7)
- - [LG’s microwave has a 27-inch display that’ll be perfect for ads](https://www.theverge.com/2024/12/30/24331994/lg-microwave-27-inch-display-speakers)<!-- TECH:END -->
+ - [Mortgages Move Up for Homeseekers: Mortgage Rates for Dec. 30, 2024](https://www.cnet.com/personal-finance/mortgages/mortgages-move-up-for-homeseekers-mortgage-rates-for-dec-30-2024/#ftag=CAD590a51e)
+ - [Refi Rates Ride High: Today&#39;s Refinance Rates, Dec. 30, 2024](https://www.cnet.com/personal-finance/mortgages/refi-rates-ride-high-todays-refinance-rates-dec-30-2024/#ftag=CAD590a51e)
+ - [Amazon&#39;s year-end Apple Watch sale drops Series 10 to $329](https://appleinsider.com/articles/24/12/29/amazons-year-end-apple-watch-sale-drops-series-10-to-329?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

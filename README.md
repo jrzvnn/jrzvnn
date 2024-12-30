@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [I love lamp](http://9gag.com/gag/aoyKZZ3)
- - 😝 [The ball was paid actor](http://9gag.com/gag/aRBEgxM)
- - 💣 [She saved John Wick](http://9gag.com/gag/adBP6dN)
- - 😝 [This barbershop has been operating in Japan for over 90 years with the highest levels of service.](http://9gag.com/gag/a87qbx3)
- - 👉 [Take a 1 minute and 2 sec break with me](http://9gag.com/gag/ae9Q3vW)<!-- MEMES:END -->
+ - 😝 [A 1995 casting photo of Salma Hayek](http://9gag.com/gag/aPAg6rQ)
+ - 😝 [New Taliban rule: Women are no longer allowed to be visible from house windows under any circumstance. If the kitchen has a window, women can&#39;t even cook near it. This comes after other rulings that women are forbidden from making sounds or even speaking to each other.](http://9gag.com/gag/aD2Y0qx)
+ - 💣 [28-12-2024 - Plane landing gear fails on touchdown. Halifax, NS](http://9gag.com/gag/azx2gRm)
+ - 😝 [Tararara](http://9gag.com/gag/abAvq2r)
+ - 👉 [Imagine showing this to someone from the middle ages](http://9gag.com/gag/a34Zd5N)<!-- MEMES:END -->
 
 ---
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Dad reaction after seeing his christmass gift](http://9gag.com/gag/amogDY4)
- - 😝 [New Taliban rule: Women are no longer allowed to be visible from house windows under any circumstance. If the kitchen has a window, women can&#39;t even cook near it. This comes after other rulings that women are forbidden from making sounds or even speaking to each other.](http://9gag.com/gag/aD2Y0qx)
+ - 😝 [Danny Crane](http://9gag.com/gag/aKGEgvj)
+ - 😝 [GenieDislikesCloud](http://9gag.com/gag/aO8xKN2)
  - 💣 [Tragic - history repeats itself. I can&#39;t stop laughing](http://9gag.com/gag/aBydR92)
- - 😝 [Blaire Ivory &lpar;26&rpar; dental checkup](http://9gag.com/gag/aqyeZ2P)
- - 👉 [Robert Downey Jr visiting Wall Street in 1992](http://9gag.com/gag/ae9gX5Q)<!-- MEMES:END -->
+ - 😝 [Its her personality](http://9gag.com/gag/abAgjDb)
+ - 👉 [Guys.. finally happening?](http://9gag.com/gag/a2vKEze)<!-- MEMES:END -->
 
 ---
 

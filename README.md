@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [GenieDislikesCloud](http://9gag.com/gag/aO8xKN2)
- - 😝 [This barbershop has been operating in Japan for over 90 years with the highest levels of service.](http://9gag.com/gag/a87qbx3)
- - 💣 [That&#39;s the best movie I&#39;m ever going to be in](http://9gag.com/gag/aAy0Vo9)
- - 😝 [Which one is up to you.](http://9gag.com/gag/agmo3AK)
- - 👉 [What did he do?](http://9gag.com/gag/aVvbOpO)<!-- MEMES:END -->
+ - 😝 [Female logic](http://9gag.com/gag/aGyEwzX)
+ - 😝 [The Moment you start thinking](http://9gag.com/gag/awyZKWQ)
+ - 💣 [Hey now](http://9gag.com/gag/aD2Ym77)
+ - 😝 [Wait.. Don\u2019t scroll](http://9gag.com/gag/aMVEbN6)
+ - 👉 [Even flowers don\u2019t die these days\u2026](http://9gag.com/gag/a7oqbOL)<!-- MEMES:END -->
 
 ---
 

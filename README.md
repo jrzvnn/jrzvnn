@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Law enforcement officials worldwide say Chinese mafia boss Wan Kuok-koi, aka Broken Tooth, has played a central role in the emergence of pig butchering scams &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/241230/p2#a241230p2)
  - [As Tether says it is on track for a record $10B net profit in 2024, banks around the world are exploring launching their own stablecoins for payments &lpar;Bloomberg&rpar;](http://www.techmeme.com/241230/p1#a241230p1)
  - [Sources detail IDF&#39;s Unit 8200, tasked with identifying human targets as candidates for elimination during the war in Gaza; one describes it as an &quot;AI factory&quot; &lpar;Elizabeth Dwoskin/Washington Post&rpar;](http://www.techmeme.com/241229/p8#a241229p8)
  - [Today&#39;s NYT Mini Crossword Answers for Monday, Dec. 30](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-monday-dec-30/#ftag=CAD590a51e)
- - [Today&#39;s NYT Connections: Sports Edition Hints and Answers for Dec. 30, #98](https://www.cnet.com/tech/gaming/todays-nyt-connections-sports-edition-hints-and-answers-for-dec-30-98/#ftag=CAD590a51e)
- - [Today&#39;s NYT Connections Hints, Answers and Help for Dec. 30, #568](https://www.cnet.com/tech/gaming/todays-nyt-connections-hints-answers-and-help-for-dec-30-568/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Today&#39;s NYT Connections: Sports Edition Hints and Answers for Dec. 30, #98](https://www.cnet.com/tech/gaming/todays-nyt-connections-sports-edition-hints-and-answers-for-dec-30-98/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

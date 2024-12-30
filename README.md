@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [2024 was a big year for Windows on ARM, and fierce competition between Intel, AMD, and Qualcomm promises to make 2025 an exciting year for Windows laptops &lpar;Tom Warren/The Verge&rpar;](http://www.techmeme.com/241230/p8#a241230p8)
  - [Amazon&#39;s year-end Apple Watch sale drops Series 10 to $329](https://appleinsider.com/articles/24/12/29/amazons-year-end-apple-watch-sale-drops-series-10-to-329?utm_medium=rss)
  - [To Fight AI Search Spam, Prioritize Real Human Voices](https://www.wired.com/story/optimize-for-authentic-voices-in-a-sea-of-ai-search-spam/)
  - [DFC Intelligence expects GTA VI to generate $3.2B in its first year, double that of 2013&#39;s GTA V, making it a bright spot in a lackluster video games market &lpar;Tim Bradshaw/Financial Times&rpar;](http://www.techmeme.com/241230/p7#a241230p7)
- - [LG’s microwave has a 27-inch display that’ll be perfect for ads](https://www.theverge.com/2024/12/30/24331994/lg-microwave-27-inch-display-speakers)
- - [Philippine investigators say Alice Guo, ex-mayor of the Bamban town, owned the land on which a &quot;pig butchering&quot; scam center was built, housing ~3,000 scammers &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/241230/p6#a241230p6)<!-- TECH:END -->
+ - [LG’s microwave has a 27-inch display that’ll be perfect for ads](https://www.theverge.com/2024/12/30/24331994/lg-microwave-27-inch-display-speakers)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

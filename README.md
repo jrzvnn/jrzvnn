@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Some residents and lawmakers worry that the pace of Atlanta metro&#39;s data center growth, projected to hit 4,000+ MW by 2028, up 30x since 2012, has gone too far &lpar;Will Parker/Wall Street Journal&rpar;](http://www.techmeme.com/241230/p4#a241230p4)
  - [About 50% of the 2,200 employees at TSMC&#39;s Arizona plant are from Taiwan, seeding a cultural and demographic shift at the edge of Phoenix and the Sonoran Desert &lpar;New York Times&rpar;](http://www.techmeme.com/241230/p3#a241230p3)
  - [Law enforcement officials worldwide say Chinese mafia boss Wan Kuok-koi, aka Broken Tooth, has played a central role in the emergence of pig butchering scams &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/241230/p2#a241230p2)
  - [As Tether says it is on track for a record $10B net profit in 2024, banks around the world are exploring launching their own stablecoins for payments &lpar;Bloomberg&rpar;](http://www.techmeme.com/241230/p1#a241230p1)
- - [Sources detail IDF&#39;s Unit 8200, tasked with identifying human targets as candidates for elimination during the war in Gaza; one describes it as an &quot;AI factory&quot; &lpar;Elizabeth Dwoskin/Washington Post&rpar;](http://www.techmeme.com/241229/p8#a241229p8)
- - [Today&#39;s NYT Mini Crossword Answers for Monday, Dec. 30](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-monday-dec-30/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Sources detail IDF&#39;s Unit 8200, tasked with identifying human targets as candidates for elimination during the war in Gaza; one describes it as an &quot;AI factory&quot; &lpar;Elizabeth Dwoskin/Washington Post&rpar;](http://www.techmeme.com/241229/p8#a241229p8)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

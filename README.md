@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Sonic 3 is peak](http://9gag.com/gag/avyQ0QE)
- - 😝 [Imagine showing this to someone from the middle ages](http://9gag.com/gag/a34Zd5N)
- - 💣 [Maximus](http://9gag.com/gag/aD2YA5O)
- - 😝 [Passive income](http://9gag.com/gag/awyZrNQ)
- - 👉 [This barbershop has been operating in Japan for over 90 years with the highest levels of service.](http://9gag.com/gag/a87qbx3)<!-- MEMES:END -->
+ - 😝 [Yesterday, Peru](http://9gag.com/gag/an7zqj5)
+ - 😝 [Women will tell on themselves when you allow them to speak](http://9gag.com/gag/a1mPZev)
+ - 💣 [She saved John Wick](http://9gag.com/gag/adBP6dN)
+ - 😝 [Danny Crane](http://9gag.com/gag/aKGEgvj)
+ - 👉 [Tragic - history repeats itself. I can&#39;t stop laughing](http://9gag.com/gag/aBydR92)<!-- MEMES:END -->
 
 ---
 

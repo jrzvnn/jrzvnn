@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [They wouldn\u2019t compete at all.](http://9gag.com/gag/agmoV9x)
- - 😝 [Yes, I hope more restaurants will follow.](http://9gag.com/gag/aAy0PYd)
- - 💣 [Happy new year from Tuvalu](http://9gag.com/gag/a9yq7o6)
+ - 😝 [Rabbit meat is running](http://9gag.com/gag/aQzEnvw)
+ - 😝 [What could have been](http://9gag.com/gag/axyoZjM)
+ - 💣 [Not your run of the mill chick](http://9gag.com/gag/awyZK58)
  - 😝 [End the year with a surprise from your beloved!](http://9gag.com/gag/a87qMM3)
- - 👉 [I want to play it again](http://9gag.com/gag/an7z1ZL)<!-- MEMES:END -->
+ - 👉 [`My son won&#39;t miss even a single day of school, and now I know why.`](http://9gag.com/gag/aE0qnbp)<!-- MEMES:END -->
 
 ---
 

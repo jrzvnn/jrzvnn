@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Made in China.](http://9gag.com/gag/aYQVWrm)
- - 😝 [Not your run of the mill chick](http://9gag.com/gag/awyZK58)
- - 💣 [This guy learnt Chinese just to Propose her.](http://9gag.com/gag/a7oqKrL)
+ - 😝 [Uh, no.](http://9gag.com/gag/aoyK9Ym)
+ - 😝 [Fellow females, little help?](http://9gag.com/gag/azx2VZZ)
+ - 💣 [Static void tattoo, my eyes hate this.](http://9gag.com/gag/a1mPM9b)
  - 😝 [End the year with a surprise from your beloved!](http://9gag.com/gag/a87qMM3)
- - 👉 [Why are some people so stupid?!](http://9gag.com/gag/abAvZYE)<!-- MEMES:END -->
+ - 👉 [No hurricane ever crossed the equator.](http://9gag.com/gag/aBydYXz)<!-- MEMES:END -->
 
 ---
 

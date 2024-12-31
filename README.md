@@ -159,9 +159,9 @@ R                        1 repo              ░░░░░░░░░░░�
 <!-- TECH:START -->
  - [What&#39;s best to watch on Apple TV+ during the upcoming free weekend [u]](https://appleinsider.com/articles/24/12/30/whats-best-to-watch-on-apple-tv-during-the-upcoming-free-weekend?utm_medium=rss)
  - [Apple&#39;s 2TB M4 Mac mini is $100 off &amp; in stock](https://appleinsider.com/articles/24/12/31/apples-2tb-m4-mac-mini-is-100-off-in-stock?utm_medium=rss)
+ - [Best Internet Providers in Yakima, Washington](https://www.cnet.com/home/internet/best-internet-providers-in-yakima-wa/#ftag=CAD590a51e)
  - [New Magic Mouse may listen for voice commands](https://appleinsider.com/articles/24/12/30/new-magic-mouse-may-listen-for-voice-commands?utm_medium=rss)
- - [Some 2024 LLM takeaways: multimodal vision became common, LLM prices crashed, overall environmental impact worsened despite efficiency gains, slop arrived, more &lpar;Simon Willison/Simon Willison&#39;s Weblog&rpar;](http://www.techmeme.com/241231/p13#a241231p13)
- - [Best Internet Providers in Wisconsin](https://www.cnet.com/home/internet/best-internet-providers-in-wisconsin/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Helix Sunset Luxe Mattress Review 2024: The Best Helix Bed for Side Sleeping](https://www.cnet.com/health/sleep/helix-sunset-luxe-mattress-review/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

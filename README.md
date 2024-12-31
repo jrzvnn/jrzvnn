@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [St. Louis-based tech services company World Wide Technology agrees to acquire Canadian IT provider Softchoice in an all-cash deal valuing the latter at ~CA$1.8B &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/241231/p14#a241231p14)
- - [Squid Game Season 3 Confirmed for 2025](https://www.cnet.com/tech/services-and-software/squid-game-season-3-confirmed-for-2025/#ftag=CAD590a51e)
- - [States Offering Their Own Child Tax Credit: Minnesota Debuts Big Early Payouts in 2025](https://www.cnet.com/personal-finance/taxes/states-offering-their-own-child-tax-credit-minnesota-debuts-big-early-payouts-in-2025/#ftag=CAD590a51e)
- - [Best Bread Machines of 2024, Tested by CNET](https://www.cnet.com/home/kitchen-and-household/best-bread-machines/#ftag=CAD590a51e)
- - [Is a Heat Pump Water Heater Worth It?](https://www.cnet.com/how-to/what-is-a-heat-pump-water-heater/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [The US Treasury sanctions Iranian and Russian entities over attempted election interference, including a Moscow entity that directed the creation of deepfakes &lpar;Raquel Coronell Uribe/NBC News&rpar;](http://www.techmeme.com/241231/p15#a241231p15)
+ - [Start Your New Year Off Right With Up to $700 Off Roborock Robot Vacuums](https://www.cnet.com/deals/start-your-new-year-off-right-with-up-to-700-off-roborock-robot-vacuums/#ftag=CAD590a51e)
+ - [Best Protein Shakes for an Effortless Boost](https://www.cnet.com/health/fitness/best-protein-shakes/#ftag=CAD590a51e)
+ - [Restless Nights? Grounding Sheets Might Improve Your Sleep](https://www.cnet.com/health/sleep/grounding-sheets/#ftag=CAD590a51e)
+ - [Nest Sparrow Hybrid Review 2024: Universal Comfort for Couples](https://www.cnet.com/health/sleep/nest-sparrow-hybrid-review/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

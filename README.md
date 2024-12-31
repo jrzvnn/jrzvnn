@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [At least I have a wife](http://9gag.com/gag/an7zK4V)
- - 😝 [Christian Bale&#39;s IQ](http://9gag.com/gag/aQzE4Pd)
- - 💣 [Rabbit meat is running](http://9gag.com/gag/aQzEnvw)
+ - 😝 [ALLRIGHT!!?](http://9gag.com/gag/aE0q1ZN)
+ - 😝 [A cool little detail is that Legolas can walk on top of the snow whilst the rest of the fellowship has to walk through the snow.](http://9gag.com/gag/aD2Y0wB)
+ - 💣 [Another airplane crash landing, this time canada](http://9gag.com/gag/avyQpVO)
  - 😝 [End the year with a surprise from your beloved!](http://9gag.com/gag/a87qMM3)
- - 👉 [Girls cant steal in London anymore](http://9gag.com/gag/amoA8x9)<!-- MEMES:END -->
+ - 👉 [At least I have a wife](http://9gag.com/gag/an7zK4V)<!-- MEMES:END -->
 
 ---
 

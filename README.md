@@ -157,8 +157,8 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [M4 Mac owners having problems with ultrawide 5K monitors](https://appleinsider.com/articles/24/12/31/m4-mac-users-report-problems-using-ultrawide-5k-monitors?utm_medium=rss)
  - [How to set up Apple TV VPN with Surfshark](https://appleinsider.com/articles/24/12/31/how-to-set-up-apple-tv-vpn-with-surfshark?utm_medium=rss)
- - [M4 Mac users report problems using ultrawide 5K monitors](https://appleinsider.com/articles/24/12/31/m4-mac-users-report-problems-using-ultrawide-5k-monitors?utm_medium=rss)
  - [Ant Group&#39;s payment app Alipay adds an AI-powered image search feature as it tries to become a super app like rival Tencent&#39;s WeChat &lpar;Coco Feng/South China Morning Post&rpar;](http://www.techmeme.com/241231/p10#a241231p10)
  - [Fancy an Air Fryer? This $45 Bella Pro Deal Is the Perfect Excuse To Grab One](https://www.cnet.com/deals/fancy-an-air-fryer-this-45-bella-pro-deal-is-the-perfect-excuse-to-grab-one/#ftag=CAD590a51e)
  - [30-Year Fixed Refinance Drops: Current Refinance Rates for Dec. 31, 2024](https://www.cnet.com/personal-finance/30-year-fixed-refinance-drops-current-refinance-rates-for-dec-31-2024/#ftag=CAD590a51e)<!-- TECH:END -->

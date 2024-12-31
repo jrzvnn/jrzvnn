@@ -159,9 +159,9 @@ R                        1 repo              ░░░░░░░░░░░�
 <!-- TECH:START -->
  - [WIRED Tested Miracle Hangover Cures. You&#39;re Welcome](https://www.wired.com/story/wired-tested-miracle-hangover-cures/)
  - [The US arrests a US Army soldier on suspicion of being Kiberphant0m, who sold sensitive customer call records stolen from AT&amp;T and Verizon in the Snowflake hack &lpar;Brian Krebs/Krebs on Security&rpar;](http://www.techmeme.com/241231/p5#a241231p5)
- - [7 Best Lighted Makeup Mirrors &lpar;2024&rpar;, Tested and Reviewed](https://www.wired.com/gallery/best-lighted-makeup-mirrors/)
- - [India removes a 100M user cap on WhatsApp Pay, letting Meta roll out the mobile payments service to all of its 500M+ users in the country &lpar;Manish Singh/TechCrunch&rpar;](http://www.techmeme.com/241231/p4#a241231p4)
- - [Best Internet Providers in York, Pennsylvania](https://www.cnet.com/home/internet/best-internet-providers-in-york-pa/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Best Electric Toothbrushes of 2024](https://www.cnet.com/health/personal-care/best-electric-toothbrush/#ftag=CAD590a51e)
+ - [Best Internet Providers in West Valley City, Utah](https://www.cnet.com/home/internet/best-internet-providers-in-west-valley-city-ut/#ftag=CAD590a51e)
+ - [7 Best Lighted Makeup Mirrors &lpar;2024&rpar;, Tested and Reviewed](https://www.wired.com/gallery/best-lighted-makeup-mirrors/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

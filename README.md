@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [US Treasury Department Admits It Got Hacked by China](https://www.wired.com/story/us-treasury-hacked-by-china/)
- - [Samsung invests $181M in South Korean robot maker Rainbow Robotics, boosting its stake to 35%, and launches a Future Robotics Office reporting to the CEO &lpar;Reuters&rpar;](http://www.techmeme.com/241230/p26#a241230p26)
- - [Best Internet Providers in The Villages, Florida](https://www.cnet.com/home/internet/best-internet-providers-in-the-villages-fl/#ftag=CAD590a51e)
- - [Best Online Glasses and Contacts Deals: Start the New Year With New Frames at a Big Discount](https://www.cnet.com/deals/best-online-glasses-and-contacts-deals/#ftag=CAD590a51e)
- - [Venezuela&#39;s top court fines TikTok $10M over viral challenge deaths, citing a failure to take necessary measures, and orders it to open an office in the country &lpar;Agence France-Presse&rpar;](http://www.techmeme.com/241230/p25#a241230p25)<!-- TECH:END -->
+ - [Today&#39;s NYT Mini Crossword Answers for Tuesday, Dec. 31](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-tuesday-dec-31/#ftag=CAD590a51e)
+ - [Today&#39;s NYT Connections: Sports Edition Hints and Answers for Dec. 31, #99](https://www.cnet.com/tech/gaming/todays-nyt-connections-sports-edition-hints-and-answers-for-dec-31-99/#ftag=CAD590a51e)
+ - [Today&#39;s NYT Connections Hints, Answers and Help for Dec. 31, #569](https://www.cnet.com/tech/gaming/todays-nyt-connections-hints-answers-and-help-for-dec-31-569/#ftag=CAD590a51e)
+ - [Today&#39;s Wordle Hints, Answer and Help for Dec. 31, #1291](https://www.cnet.com/tech/gaming/todays-wordle-hints-answer-and-help-for-dec-31-1291/#ftag=CAD590a51e)
+ - [Today&#39;s NYT Strands Hints, Answers and Help for Dec. 31, #303](https://www.cnet.com/tech/gaming/todays-nyt-strands-hints-answers-and-help-for-dec-31-303/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

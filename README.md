@@ -166,10 +166,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Bet they could take up half the table :&rpar;](http://9gag.com/gag/aZZDP29)
- - 😝 [ALLRIGHT!!?](http://9gag.com/gag/aE0q1ZN)
- - 💣 [What did he do?](http://9gag.com/gag/aVvbOpO)
- - 😝 [End the year with a surprise from your beloved!](http://9gag.com/gag/a87qMM3)
+ - 😝 [The bleeps, the sweeps, aaaand the creeps.](http://9gag.com/gag/aMVErVX)
+ - 😝 [Thought you&#39;d wanna know.](http://9gag.com/gag/arympZd)
+ - 💣 [End the year with a surprise from your beloved!](http://9gag.com/gag/a87qMM3)
+ - 😝 [Sri Lanka has the lowest gravity on the planet &lpar;blue&rpar;](http://9gag.com/gag/aO8xqMN)
  - 👉 [He is carrying her home like a bowling ball](http://9gag.com/gag/aByd3PA)<!-- MEMES:END -->
 
 ---

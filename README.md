@@ -166,8 +166,8 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [What is the logic in bringing them in?](http://9gag.com/gag/aAy0pQE)
  - 😝 [Malaysia done with them. Lol](http://9gag.com/gag/aAy012E)
+ - 😝 [They wouldn\u2019t compete at all.](http://9gag.com/gag/agmoV9x)
  - 💣 [Happy new year from Tuvalu](http://9gag.com/gag/a9yq7o6)
  - 😝 [End the year with a surprise from your beloved!](http://9gag.com/gag/a87qMM3)
  - 👉 [Waste of paper? Yeah, I know\u2026](http://9gag.com/gag/aRBEeeB)<!-- MEMES:END -->

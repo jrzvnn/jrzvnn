@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Tararara](http://9gag.com/gag/abAvq2r)
- - 😝 [New Taliban rule: Women are no longer allowed to be visible from house windows under any circumstance. If the kitchen has a window, women can&#39;t even cook near it. This comes after other rulings that women are forbidden from making sounds or even speaking to each other.](http://9gag.com/gag/aD2Y0qx)
- - 💣 [Michael C. Hall and Jennifer Carpenter starred as brother and sister Dexter and Deb Morgan on Dexter &lpar;2006-2013&rpar;.](http://9gag.com/gag/aPAgDPg)
+ - 😝 [What is the logic in bringing them in?](http://9gag.com/gag/aAy0pQE)
+ - 😝 [Malaysia done with them. Lol](http://9gag.com/gag/aAy012E)
+ - 💣 [Happy new year from Tuvalu](http://9gag.com/gag/a9yq7o6)
  - 😝 [End the year with a surprise from your beloved!](http://9gag.com/gag/a87qMM3)
- - 👉 [Thought you&#39;d wanna know.](http://9gag.com/gag/arympZd)<!-- MEMES:END -->
+ - 👉 [Waste of paper? Yeah, I know\u2026](http://9gag.com/gag/aRBEeeB)<!-- MEMES:END -->
 
 ---
 

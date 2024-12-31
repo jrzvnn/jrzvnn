@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Sources: Mobvista explores selling mobile ad platform Mintegral after getting interest from buyers like Bain Capital; Mobvista stock in HK surged ~190% in 2024 &lpar;Bloomberg&rpar;](http://www.techmeme.com/241231/p9#a241231p9)
  - [The 20 Most Anticipated Movies of 2025](https://www.wired.com/story/most-anticipated-movies-of-2025/)
  - [Alibaba cuts prices on its visual language model Qwen-VL by up to 85%, after cutting Qwen prices by as much as 97% in May, amid growing AI competition in China &lpar;Ryan Browne/CNBC&rpar;](http://www.techmeme.com/241231/p8#a241231p8)
  - [Montenegro extradites Terraform Labs co-founder Do Kwon to the US; South Korea also sought Do Kwon&#39;s extradition &lpar;Reuters&rpar;](http://www.techmeme.com/241231/p7#a241231p7)
- - [India extends a deadline for implementing a 30% cap on any company&#39;s share of transactions on UPI payments network, providing relief to Google Pay and PhonePe &lpar;Manish Singh/TechCrunch&rpar;](http://www.techmeme.com/241231/p6#a241231p6)
- - [College Football Playoff: How to Watch Boise State vs. Penn State Tonight](https://www.cnet.com/tech/services-and-software/college-football-playoff-how-to-watch-boise-state-vs-penn-state-tonight/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [India extends a deadline for implementing a 30% cap on any company&#39;s share of transactions on UPI payments network, providing relief to Google Pay and PhonePe &lpar;Manish Singh/TechCrunch&rpar;](http://www.techmeme.com/241231/p6#a241231p6)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

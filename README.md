@@ -167,10 +167,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [Girls cant steal in London anymore](http://9gag.com/gag/amoA8x9)
- - 😝 [Made in China.](http://9gag.com/gag/aYQVWrm)
- - 💣 [What could have been](http://9gag.com/gag/axyoZjM)
+ - 😝 [Tararara](http://9gag.com/gag/abAvq2r)
+ - 💣 [Made in China.](http://9gag.com/gag/aYQVWrm)
  - 😝 [End the year with a surprise from your beloved!](http://9gag.com/gag/a87qMM3)
- - 👉 [Michael C. Hall and Jennifer Carpenter starred as brother and sister Dexter and Deb Morgan on Dexter &lpar;2006-2013&rpar;.](http://9gag.com/gag/aPAgDPg)<!-- MEMES:END -->
+ - 👉 [Blaire Ivory &lpar;26&rpar; dental checkup](http://9gag.com/gag/aqyeZ2P)<!-- MEMES:END -->
 
 ---
 

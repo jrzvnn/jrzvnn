@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Pablo has more snow on his table than in Lithuania during Christmas :&lpar;](http://9gag.com/gag/aLn1PWV)
- - 😝 [Thought you&#39;d wanna know.](http://9gag.com/gag/arympZd)
- - 💣 [Makes you think.](http://9gag.com/gag/awyZ7py)
- - 😝 [End the year with a surprise from your beloved!](http://9gag.com/gag/a87qMM3)
- - 👉 [Bet they could take up half the table :&rpar;](http://9gag.com/gag/aZZDP29)<!-- MEMES:END -->
+ - 😝 [Sri Lanka has the lowest gravity on the planet &lpar;blue&rpar;](http://9gag.com/gag/aO8xqMN)
+ - 😝 [Tararara](http://9gag.com/gag/abAvq2r)
+ - 💣 [End the year with a surprise from your beloved!](http://9gag.com/gag/a87qMM3)
+ - 😝 [What did he do?](http://9gag.com/gag/aVvbOpO)
+ - 👉 [Rabbit meat is running](http://9gag.com/gag/aQzEnvw)<!-- MEMES:END -->
 
 ---
 

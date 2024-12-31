@@ -158,10 +158,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- TECH:START -->
  - [Sources: Mobvista explores selling mobile ad platform Mintegral after getting interest from buyers like Bain Capital; Mobvista stock in HK surged ~190% in 2024 &lpar;Bloomberg&rpar;](http://www.techmeme.com/241231/p9#a241231p9)
+ - [How Wearables Are Slowly Turning Into Personal Health Coaches in 2025](https://www.cnet.com/tech/mobile/how-wearables-are-slowly-turning-into-personal-health-coaches-in-2025/#ftag=CAD590a51e)
+ - [Everything We Expect in Gaming in 2025 video](https://www.cnet.com/videos/everything-we-expect-in-gaming-in-2025/#ftag=CAD590a51e)
  - [The 20 Most Anticipated Movies of 2025](https://www.wired.com/story/most-anticipated-movies-of-2025/)
- - [Alibaba cuts prices on its visual language model Qwen-VL by up to 85%, after cutting Qwen prices by as much as 97% in May, amid growing AI competition in China &lpar;Ryan Browne/CNBC&rpar;](http://www.techmeme.com/241231/p8#a241231p8)
- - [Montenegro extradites Terraform Labs co-founder Do Kwon to the US; South Korea also sought Do Kwon&#39;s extradition &lpar;Reuters&rpar;](http://www.techmeme.com/241231/p7#a241231p7)
- - [India extends a deadline for implementing a 30% cap on any company&#39;s share of transactions on UPI payments network, providing relief to Google Pay and PhonePe &lpar;Manish Singh/TechCrunch&rpar;](http://www.techmeme.com/241231/p6#a241231p6)<!-- TECH:END -->
+ - [Get Strong in 2025 With This Beginner&#39;s Guide to Strength Training](https://www.cnet.com/health/fitness/a-beginners-guide-to-strength-training-for-those-who-dont-know-where-to-start/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

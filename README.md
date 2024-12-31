@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Inside Apple labs testing and calibrating iPhone 16 series&#39; audio and video features, including new Audio Mix editing tools and 4K slow motion capabilities &lpar;Patrick Holland/CNET&rpar;](http://www.techmeme.com/241231/p3#a241231p3)
  - [Mornings or Evenings: Discover the Best Time of Day to Exercise for Your Lifestyle](https://www.cnet.com/health/fitness/mornings-evenings-discover-best-time-day-exercise-lifestyle/#ftag=CAD590a51e)
  - [How Do You Live a Happier Life? Notice What Was There All Along](https://www.wired.com/story/happiness-habituation-experiment-in-living/)
  - [LG’s lightweight Gram laptops get new Intel chips and offline AI features](https://www.theverge.com/2024/12/31/24332438/lg-gram-pro-laptops-2025-ai-copilot)
- - [24 Things That Made the World a Better Place in 2024](https://www.wired.com/story/24-things-that-made-the-world-a-better-place-in-2024-good-news/)
- - [The US DOJ files a complaint and announces a civil enforcement action against fintech startup Dave and CEO Jason Wilk, replacing an FTC complaint from November &lpar;Kanishka Singh/Reuters&rpar;](http://www.techmeme.com/241231/p2#a241231p2)<!-- TECH:END -->
+ - [24 Things That Made the World a Better Place in 2024](https://www.wired.com/story/24-things-that-made-the-world-a-better-place-in-2024-good-news/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

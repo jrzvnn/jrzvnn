@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [New Taliban rule: Women are no longer allowed to be visible from house windows under any circumstance. If the kitchen has a window, women can&#39;t even cook near it. This comes after other rulings that women are forbidden from making sounds or even speaking to each other.](http://9gag.com/gag/aD2Y0qx)
- - 😝 [Women will tell on themselves when you allow them to speak](http://9gag.com/gag/a1mPZev)
- - 💣 [Thought you&#39;d wanna know.](http://9gag.com/gag/arympZd)
- - 😝 [End the year with a surprise from your beloved!](http://9gag.com/gag/a87qMM3)
- - 👉 [Bet they could take up half the table :&rpar;](http://9gag.com/gag/aZZDP29)<!-- MEMES:END -->
+ - 😝 [Headlights gone &lpar;not OC&rpar;](http://9gag.com/gag/amoAX1X)
+ - 😝 [Another Boy Lost his life due to Bullying at School](http://9gag.com/gag/aKGEzZ1)
+ - 💣 [End the year with a surprise from your beloved!](http://9gag.com/gag/a87qMM3)
+ - 😝 [Bet they could take up half the table :&rpar;](http://9gag.com/gag/aZZDP29)
+ - 👉 [Rabbit meat is running](http://9gag.com/gag/aQzEnvw)<!-- MEMES:END -->
 
 ---
 

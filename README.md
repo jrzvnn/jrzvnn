@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Made in China.](http://9gag.com/gag/aYQVWrm)
  - 😝 [What could have been](http://9gag.com/gag/axyoZjM)
- - 💣 [You can\u2019t park there mate](http://9gag.com/gag/a87qb1e)
+ - 😝 [He is carrying her home like a bowling ball](http://9gag.com/gag/aByd3PA)
+ - 💣 [Rabbit meat is running](http://9gag.com/gag/aQzEnvw)
  - 😝 [End the year with a surprise from your beloved!](http://9gag.com/gag/a87qMM3)
- - 👉 [What&#39;s your favorite conspiracy theory that turned out to be true?](http://9gag.com/gag/aGyExMz)<!-- MEMES:END -->
+ - 👉 [Not your run of the mill chick](http://9gag.com/gag/awyZK58)<!-- MEMES:END -->
 
 ---
 

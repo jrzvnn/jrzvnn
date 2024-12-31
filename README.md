@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Female logic](http://9gag.com/gag/aGyEwzX)
- - 😝 [The Moment you start thinking](http://9gag.com/gag/awyZKWQ)
- - 💣 [Hey now](http://9gag.com/gag/aD2Ym77)
- - 😝 [Wait.. Don\u2019t scroll](http://9gag.com/gag/aMVEbN6)
- - 👉 [Even flowers don\u2019t die these days\u2026](http://9gag.com/gag/a7oqbOL)<!-- MEMES:END -->
+ - 😝 [Women will tell on themselves when you allow them to speak](http://9gag.com/gag/a1mPZev)
+ - 😝 [He is carrying her home like a bowling ball](http://9gag.com/gag/aByd3PA)
+ - 💣 [New Taliban rule: Women are no longer allowed to be visible from house windows under any circumstance. If the kitchen has a window, women can&#39;t even cook near it. This comes after other rulings that women are forbidden from making sounds or even speaking to each other.](http://9gag.com/gag/aD2Y0qx)
+ - 😝 [Turns out, 10 users are responsible for 22% of all the posts on 9gag. The list of them is in the comments](http://9gag.com/gag/awyZbbR)
+ - 👉 [Blaire Ivory &lpar;26&rpar; dental checkup](http://9gag.com/gag/aqyeZ2P)<!-- MEMES:END -->
 
 ---
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [What&#39;s your favorite conspiracy theory that turned out to be true?](http://9gag.com/gag/aGyExMz)
+ - 😝 [Made in China.](http://9gag.com/gag/aYQVWrm)
  - 😝 [Not your run of the mill chick](http://9gag.com/gag/awyZK58)
- - 💣 [Bro Gave The Safest Answer , He Wasn&#39;t Going To Fall For That Trap](http://9gag.com/gag/aoyK98m)
+ - 💣 [This guy learnt Chinese just to Propose her.](http://9gag.com/gag/a7oqKrL)
  - 😝 [End the year with a surprise from your beloved!](http://9gag.com/gag/a87qMM3)
- - 👉 [What could have been](http://9gag.com/gag/axyoZjM)<!-- MEMES:END -->
+ - 👉 [Why are some people so stupid?!](http://9gag.com/gag/abAvZYE)<!-- MEMES:END -->
 
 ---
 

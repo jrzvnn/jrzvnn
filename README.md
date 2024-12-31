@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Mornin&#39;! nice day](http://9gag.com/gag/aMVE27W)
- - 😝 [I removed the emojis](http://9gag.com/gag/a87qWP1)
- - 💣 [Tomboy Childhood Friend All Along!](http://9gag.com/gag/apR9qzn)
- - 😝 [End the year with a surprise from your beloved!](http://9gag.com/gag/a87qMM3)
- - 👉 [How stupid can you be? Yes](http://9gag.com/gag/aMVEQyG)<!-- MEMES:END -->
+ - 😝 [Rabbit meat is running](http://9gag.com/gag/aQzEnvw)
+ - 😝 [28-12-2024 - Plane landing gear fails on touchdown. Halifax, NS](http://9gag.com/gag/azx2gRm)
+ - 💣 [End the year with a surprise from your beloved!](http://9gag.com/gag/a87qMM3)
+ - 😝 [What did he do?](http://9gag.com/gag/aVvbOpO)
+ - 👉 [Gone but not forgotten](http://9gag.com/gag/aKGEw9O)<!-- MEMES:END -->
 
 ---
 

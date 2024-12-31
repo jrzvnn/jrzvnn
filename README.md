@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [What could have been](http://9gag.com/gag/axyoZjM)
- - 😝 [Michael C. Hall and Jennifer Carpenter starred as brother and sister Dexter and Deb Morgan on Dexter &lpar;2006-2013&rpar;.](http://9gag.com/gag/aPAgDPg)
- - 💣 [He is carrying her home like a bowling ball](http://9gag.com/gag/aByd3PA)
+ - 😝 [They wouldn\u2019t compete at all.](http://9gag.com/gag/agmoV9x)
+ - 😝 [Yes, I hope more restaurants will follow.](http://9gag.com/gag/aAy0PYd)
+ - 💣 [Happy new year from Tuvalu](http://9gag.com/gag/a9yq7o6)
  - 😝 [End the year with a surprise from your beloved!](http://9gag.com/gag/a87qMM3)
- - 👉 [Not your run of the mill chick](http://9gag.com/gag/awyZK58)<!-- MEMES:END -->
+ - 👉 [I want to play it again](http://9gag.com/gag/an7z1ZL)<!-- MEMES:END -->
 
 ---
 

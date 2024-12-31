@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Girls cant steal in London anymore](http://9gag.com/gag/amoA8x9)
- - 😝 [What could have been](http://9gag.com/gag/axyoZjM)
+ - 😝 [Made in China.](http://9gag.com/gag/aYQVWrm)
+ - 😝 [He is carrying her home like a bowling ball](http://9gag.com/gag/aByd3PA)
  - 💣 [Sri Lanka has the lowest gravity on the planet &lpar;blue&rpar;](http://9gag.com/gag/aO8xqMN)
  - 😝 [End the year with a surprise from your beloved!](http://9gag.com/gag/a87qMM3)
- - 👉 [He is carrying her home like a bowling ball](http://9gag.com/gag/aByd3PA)<!-- MEMES:END -->
+ - 👉 [You can\u2019t park there mate](http://9gag.com/gag/a87qb1e)<!-- MEMES:END -->
 
 ---
 

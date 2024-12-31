@@ -159,9 +159,9 @@ R                        1 repo              ░░░░░░░░░░░�
 <!-- TECH:START -->
  - [24 Things That Made the World a Better Place in 2024](https://www.wired.com/story/24-things-that-made-the-world-a-better-place-in-2024-good-news/)
  - [The US DOJ files a complaint and announces a civil enforcement action against fintech startup Dave and CEO Jason Wilk, replacing an FTC complaint from November &lpar;Kanishka Singh/Reuters&rpar;](http://www.techmeme.com/241231/p2#a241231p2)
- - [BlackRock&#39;s Bitcoin ETF surpassed $50B in assets in 11 months, marking the fastest-growing ETF debut ever, and helping BTC exceed $100K in mid-December &lpar;Sidhartha Shukla/Bloomberg&rpar;](http://www.techmeme.com/241231/p1#a241231p1)
- - [Best Mattress in a Box for 2024](https://www.cnet.com/health/sleep/best-mattress-in-a-box/#ftag=CAD590a51e)
- - [Best Identity Theft Protection and Monitoring Services for 2024](https://www.cnet.com/tech/services-and-software/best-identity-theft-protection/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Best Mattresses You Can Buy Online](https://www.cnet.com/health/sleep/best-online-mattress/#ftag=CAD590a51e)
+ - [Want the Benefits of Apple Cider Vinegar Without the Harsh Taste? Try These Tasty ACV Drinks.](https://www.cnet.com/news/best-apple-cider-vinegar-drinks/#ftag=CAD590a51e)
+ - [Best Internet Providers in Nampa, Idaho](https://www.cnet.com/home/internet/best-internet-providers-in-nampa-id/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

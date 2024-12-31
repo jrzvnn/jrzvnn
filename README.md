@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Best Internet Providers in Oceanside, California](https://www.cnet.com/home/internet/best-internet-providers-in-oceanside-ca/#ftag=CAD590a51e)
- - [Best Exercise Bikes for 2024](https://www.cnet.com/health/fitness/best-exercise-bike/#ftag=CAD590a51e)
- - [Best Internet Providers in Provo, Utah](https://www.cnet.com/home/internet/best-internet-providers-in-provo-ut/#ftag=CAD590a51e)
- - [Best Pixel 9 Deals: Save on Top-Rated Androids With a New Line or Trade-In](https://www.cnet.com/deals/best-pixel-9-deals/#ftag=CAD590a51e)
- - [Best Glucose Meter for Diabetes and Blood Sugar Monitoring](https://www.cnet.com/health/medical/best-glucose-meter/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [The 30 Best Movies on Max &lpar;aka HBO Max&rpar; Right Now &lpar;January 2025&rpar;](https://www.wired.com/story/best-movies-hbo-max-right-now/)
+ - [Grab This Unbeatable Deal on an Xbox Wireless Controller While It Lasts](https://www.cnet.com/deals/unbeatable-deal-xbox-wireless-controller-deal/#ftag=CAD590a51e)
+ - [Best MacBook Deals: Record Low Prices Are on Offer for the New Year](https://www.cnet.com/deals/best-macbook-deals/#ftag=CAD590a51e)
+ - [Aurora Borealis on New Year&#39;s Eve: Where It&#39;ll Be Visible Tonight](https://www.cnet.com/science/aurora-borealis-on-new-years-eve-where-itll-be-visible-tonight/#ftag=CAD590a51e)
+ - [Best Internet Providers in Oceanside, California](https://www.cnet.com/home/internet/best-internet-providers-in-oceanside-ca/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

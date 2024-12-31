@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Not your run of the mill chick](http://9gag.com/gag/awyZK58)
+ - 😝 [Tararara](http://9gag.com/gag/abAvq2r)
  - 😝 [New Taliban rule: Women are no longer allowed to be visible from house windows under any circumstance. If the kitchen has a window, women can&#39;t even cook near it. This comes after other rulings that women are forbidden from making sounds or even speaking to each other.](http://9gag.com/gag/aD2Y0qx)
- - 💣 [Girls cant steal in London anymore](http://9gag.com/gag/amoA8x9)
+ - 💣 [Michael C. Hall and Jennifer Carpenter starred as brother and sister Dexter and Deb Morgan on Dexter &lpar;2006-2013&rpar;.](http://9gag.com/gag/aPAgDPg)
  - 😝 [End the year with a surprise from your beloved!](http://9gag.com/gag/a87qMM3)
- - 👉 [You can\u2019t park there mate](http://9gag.com/gag/a87qb1e)<!-- MEMES:END -->
+ - 👉 [Thought you&#39;d wanna know.](http://9gag.com/gag/arympZd)<!-- MEMES:END -->
 
 ---
 

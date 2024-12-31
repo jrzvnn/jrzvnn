@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [ALLRIGHT!!?](http://9gag.com/gag/aE0q1ZN)
- - 😝 [A cool little detail is that Legolas can walk on top of the snow whilst the rest of the fellowship has to walk through the snow.](http://9gag.com/gag/aD2Y0wB)
- - 💣 [Another airplane crash landing, this time canada](http://9gag.com/gag/avyQpVO)
+ - 😝 [Girls cant steal in London anymore](http://9gag.com/gag/amoA8x9)
+ - 😝 [Another airplane crash landing, this time canada](http://9gag.com/gag/avyQpVO)
+ - 💣 [It&#39;s because of the smell, isn&#39;t it?](http://9gag.com/gag/a9yqboj)
  - 😝 [End the year with a surprise from your beloved!](http://9gag.com/gag/a87qMM3)
- - 👉 [At least I have a wife](http://9gag.com/gag/an7zK4V)<!-- MEMES:END -->
+ - 👉 [I love lamp](http://9gag.com/gag/aoyKZZ3)<!-- MEMES:END -->
 
 ---
 

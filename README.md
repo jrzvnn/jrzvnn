@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The 15 Shows We’re Most Looking Forward to in 2025](https://www.wired.com/story/15-most-anticipated-shows-of-2025/)
+ - [2024: a year in art on The Verge](https://www.theverge.com/24317843/2024-art-photography-best-illustration-features)
  - [Sources: Mobvista explores selling mobile ad platform Mintegral after getting interest from buyers like Bain Capital; Mobvista stock in HK surged ~190% in 2024 &lpar;Bloomberg&rpar;](http://www.techmeme.com/241231/p9#a241231p9)
  - [How Wearables Are Slowly Turning Into Personal Health Coaches in 2025](https://www.cnet.com/tech/mobile/how-wearables-are-slowly-turning-into-personal-health-coaches-in-2025/#ftag=CAD590a51e)
- - [Everything We Expect in Gaming in 2025 video](https://www.cnet.com/videos/everything-we-expect-in-gaming-in-2025/#ftag=CAD590a51e)
- - [The 20 Most Anticipated Movies of 2025](https://www.wired.com/story/most-anticipated-movies-of-2025/)
- - [Get Strong in 2025 With This Beginner&#39;s Guide to Strength Training](https://www.cnet.com/health/fitness/a-beginners-guide-to-strength-training-for-those-who-dont-know-where-to-start/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Everything We Expect in Gaming in 2025 video](https://www.cnet.com/videos/everything-we-expect-in-gaming-in-2025/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

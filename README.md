@@ -158,10 +158,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- TECH:START -->
  - [India removes a 100M user cap on WhatsApp Pay, letting Meta roll out the mobile payments service to all of its 500M+ users in the country &lpar;Manish Singh/TechCrunch&rpar;](http://www.techmeme.com/241231/p4#a241231p4)
+ - [Best Internet Providers in York, Pennsylvania](https://www.cnet.com/home/internet/best-internet-providers-in-york-pa/#ftag=CAD590a51e)
  - [Inside Apple labs testing and calibrating iPhone 16 series&#39; audio and video features, including new Audio Mix editing tools and 4K slow motion capabilities &lpar;Patrick Holland/CNET&rpar;](http://www.techmeme.com/241231/p3#a241231p3)
- - [Mornings or Evenings: Discover the Best Time of Day to Exercise for Your Lifestyle](https://www.cnet.com/health/fitness/mornings-evenings-discover-best-time-day-exercise-lifestyle/#ftag=CAD590a51e)
- - [How Do You Live a Happier Life? Notice What Was There All Along](https://www.wired.com/story/happiness-habituation-experiment-in-living/)
- - [LG’s lightweight Gram laptops get new Intel chips and offline AI features](https://www.theverge.com/2024/12/31/24332438/lg-gram-pro-laptops-2025-ai-copilot)<!-- TECH:END -->
+ - [Best Pellet Grill of 2024](https://www.cnet.com/home/yard-and-outdoors/best-pellet-grill/#ftag=CAD590a51e)
+ - [AirPods Owner? You&#39;re Missing Out if You&#39;re Not Using These Tricks](https://www.cnet.com/tech/mobile/airpods-owner-youre-missing-out-if-youre-not-using-these-tricks/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

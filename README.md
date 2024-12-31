@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Girls cant steal in London anymore](http://9gag.com/gag/amoA8x9)
- - 😝 [Tararara](http://9gag.com/gag/abAvq2r)
- - 💣 [Made in China.](http://9gag.com/gag/aYQVWrm)
+ - 😝 [Blaire Ivory &lpar;26&rpar; dental checkup](http://9gag.com/gag/aqyeZ2P)
+ - 😝 [Kids now having it easy](http://9gag.com/gag/aW4G6n2)
+ - 💣 [What the duck is this](http://9gag.com/gag/a5QX71r)
  - 😝 [End the year with a surprise from your beloved!](http://9gag.com/gag/a87qMM3)
- - 👉 [Blaire Ivory &lpar;26&rpar; dental checkup](http://9gag.com/gag/aqyeZ2P)<!-- MEMES:END -->
+ - 👉 [You can\u2019t park there mate](http://9gag.com/gag/a87qb1e)<!-- MEMES:END -->
 
 ---
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Bet they could take up half the table :&rpar;](http://9gag.com/gag/aZZDP29)
- - 😝 [Rabbit meat is running](http://9gag.com/gag/aQzEnvw)
- - 💣 [End the year with a surprise from your beloved!](http://9gag.com/gag/a87qMM3)
- - 😝 [At least I have a wife](http://9gag.com/gag/an7zK4V)
- - 👉 [Blaire Ivory &lpar;26&rpar; dental checkup](http://9gag.com/gag/aqyeZ2P)<!-- MEMES:END -->
+ - 😝 [Pablo has more snow on his table than in Lithuania during Christmas :&lpar;](http://9gag.com/gag/aLn1PWV)
+ - 😝 [Thought you&#39;d wanna know.](http://9gag.com/gag/arympZd)
+ - 💣 [Makes you think.](http://9gag.com/gag/awyZ7py)
+ - 😝 [End the year with a surprise from your beloved!](http://9gag.com/gag/a87qMM3)
+ - 👉 [Bet they could take up half the table :&rpar;](http://9gag.com/gag/aZZDP29)<!-- MEMES:END -->
 
 ---
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [Thought you&#39;d wanna know.](http://9gag.com/gag/arympZd)
  - 😝 [Coconut peeling and cutting in Thailand](http://9gag.com/gag/aKGEw6Z)
- - 😝 [She got a lost piece of her childhood back, all thanks to him!](http://9gag.com/gag/a7oqK4b)
- - 💣 [Danny Crane](http://9gag.com/gag/aKGEgvj)
- - 😝 [I removed the emojis](http://9gag.com/gag/a87qWP1)
- - 👉 [He is carrying her home like a bowling ball](http://9gag.com/gag/aByd3PA)<!-- MEMES:END -->
+ - 💣 [Mornin&#39;! nice day](http://9gag.com/gag/aMVE27W)
+ - 😝 [Danny Crane](http://9gag.com/gag/aKGEgvj)
+ - 👉 [GenieDislikesCloud](http://9gag.com/gag/aO8xKN2)<!-- MEMES:END -->
 
 ---
 

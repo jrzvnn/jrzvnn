@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Letter: the US Treasury says China-backed hackers gained access to some Treasury workstations and unclassified docs; a vendor notified it of the hack on Dec. 8 &lpar;Zack Whittaker/TechCrunch&rpar;](http://www.techmeme.com/241230/p24#a241230p24)
- - [A US judge delays the CFTC v. Gemini trial to January 21, after Trump&#39;s inauguration; CFTC alleged Gemini misled the agency in its 2017 bid to debut BTC futures &lpar;Turner Wright/Cointelegraph&rpar;](http://www.techmeme.com/241230/p23#a241230p23)
- - [The US Treasury Department was hacked](https://www.theverge.com/2024/12/30/24332429/us-treasury-department-beyondtrust-hack-security-breach)
- - [Best Buy Members Can Snag $51 off the Xbox Series X Right Now](https://www.cnet.com/deals/best-buy-members-can-snag-51-off-the-xbox-series-x-right-now/#ftag=CAD590a51e)
- - [9 Foods That Should Never Go in the Freezer](https://www.cnet.com/news/9-foods-that-should-never-go-in-the-freezer/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Venezuela&#39;s top court fines TikTok $10M over viral challenge deaths, citing a failure to take necessary measures, and orders it to open an office in the country &lpar;Agence France-Presse&rpar;](http://www.techmeme.com/241230/p25#a241230p25)
+ - [Best Workout Apps for Women in 2024](https://www.cnet.com/health/fitness/best-workout-apps-for-women/#ftag=CAD590a51e)
+ - [Is Incogni legit? Find out how to protect your privacy online and avoid scams](https://appleinsider.com/articles/24/12/26/is-incogni-legit-find-out-how-to-protect-your-privacy-online-and-avoid-scams?utm_medium=rss)
+ - [Monday Night Football: How to Watch Lions vs. 49ers Tonight](https://www.cnet.com/tech/services-and-software/monday-night-football-how-to-watch-lions-vs-49ers-tonight/#ftag=CAD590a51e)
+ - [Best Clothing Subscription Boxes for 2024](https://www.cnet.com/tech/services-and-software/best-clothing-subscription-boxes/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

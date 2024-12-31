@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Rabbit meat is running](http://9gag.com/gag/aQzEnvw)
- - 😝 [He is carrying her home like a bowling ball](http://9gag.com/gag/aByd3PA)
- - 💣 [Sri Lanka has the lowest gravity on the planet &lpar;blue&rpar;](http://9gag.com/gag/aO8xqMN)
+ - 😝 [Girls cant steal in London anymore](http://9gag.com/gag/amoA8x9)
+ - 😝 [Made in China.](http://9gag.com/gag/aYQVWrm)
+ - 💣 [What could have been](http://9gag.com/gag/axyoZjM)
  - 😝 [End the year with a surprise from your beloved!](http://9gag.com/gag/a87qMM3)
- - 👉 [Blaire Ivory &lpar;26&rpar; dental checkup](http://9gag.com/gag/aqyeZ2P)<!-- MEMES:END -->
+ - 👉 [Michael C. Hall and Jennifer Carpenter starred as brother and sister Dexter and Deb Morgan on Dexter &lpar;2006-2013&rpar;.](http://9gag.com/gag/aPAgDPg)<!-- MEMES:END -->
 
 ---
 

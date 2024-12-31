@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Rabbit meat is running](http://9gag.com/gag/aQzEnvw)
- - 😝 [28-12-2024 - Plane landing gear fails on touchdown. Halifax, NS](http://9gag.com/gag/azx2gRm)
- - 💣 [End the year with a surprise from your beloved!](http://9gag.com/gag/a87qMM3)
- - 😝 [What did he do?](http://9gag.com/gag/aVvbOpO)
- - 👉 [Gone but not forgotten](http://9gag.com/gag/aKGEw9O)<!-- MEMES:END -->
+ - 😝 [For a change !](http://9gag.com/gag/a1mPYMG)
+ - 😝 [Another Boy Lost his life due to Bullying at School](http://9gag.com/gag/aKGEzZ1)
+ - 💣 [Thought you&#39;d wanna know.](http://9gag.com/gag/arympZd)
+ - 😝 [End the year with a surprise from your beloved!](http://9gag.com/gag/a87qMM3)
+ - 👉 [He is carrying her home like a bowling ball](http://9gag.com/gag/aByd3PA)<!-- MEMES:END -->
 
 ---
 

@@ -158,10 +158,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- TECH:START -->
  - [iPhone SE, M4 MacBook Air &amp; more: What to expect from Apple&#39;s loaded first half of 2025](https://appleinsider.com/articles/24/12/31/iphone-se-m4-macbook-air-more-what-to-expect-from-apples-loaded-first-half-of-2025?utm_medium=rss)
- - [Best Microwave for 2024](https://www.cnet.com/home/kitchen-and-household/best-microwaves/#ftag=CAD590a51e)
- - [Best VPN for Australia](https://www.cnet.com/tech/services-and-software/best-vpn-for-australia/#ftag=CAD590a51e)
- - [The Best Budget-Friendly Champagne to Pop on New Year&#39;s Eve](https://www.cnet.com/how-to/the-best-budget-friendly-champagne-to-pop-on-new-years-eve/#ftag=CAD590a51e)
- - [How We Work - How caffeine &amp; tech fuel Andrew O&#39;Hara&#39;s video workflow](https://appleinsider.com/articles/24/12/31/how-we-work---how-caffeine-tech-fuel-andrew-oharas-video-workflow?utm_medium=rss)<!-- TECH:END -->
+ - [How We Work - How caffeine &amp; tech fuel Andrew O&#39;Hara&#39;s video workflow](https://appleinsider.com/articles/24/12/31/how-we-work---how-caffeine-tech-fuel-andrew-oharas-video-workflow?utm_medium=rss)
+ - [In 2024, Intel had its worst year since going public in 1971, losing 61% of value; Broadcom stock soared 111%, its best performance ever, driven by AI revenue &lpar;CNBC&rpar;](http://www.techmeme.com/241231/p11#a241231p11)
+ - [The Apple Watch Series 10 has returned to its Black Friday sale price](https://www.theverge.com/2024/12/31/24332302/apple-watch-series-10-anker-soundcore-sport-x10-earbuds-deal-sale)
+ - [M4 Mac owners having problems with ultrawide 5K monitors](https://appleinsider.com/articles/24/12/31/m4-mac-users-report-problems-using-ultrawide-5k-monitors?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

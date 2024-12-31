@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Tomboy Childhood Friend All Along!](http://9gag.com/gag/apR9qzn)
- - 😝 [A cool little detail is that Legolas can walk on top of the snow whilst the rest of the fellowship has to walk through the snow.](http://9gag.com/gag/aD2Y0wB)
- - 💣 [That&#39;s the best movie I&#39;m ever going to be in](http://9gag.com/gag/aAy0Vo9)
+ - 😝 [At least I have a wife](http://9gag.com/gag/an7zK4V)
+ - 😝 [Christian Bale&#39;s IQ](http://9gag.com/gag/aQzE4Pd)
+ - 💣 [Rabbit meat is running](http://9gag.com/gag/aQzEnvw)
  - 😝 [End the year with a surprise from your beloved!](http://9gag.com/gag/a87qMM3)
- - 👉 [What did he do?](http://9gag.com/gag/aVvbOpO)<!-- MEMES:END -->
+ - 👉 [Girls cant steal in London anymore](http://9gag.com/gag/amoA8x9)<!-- MEMES:END -->
 
 ---
 

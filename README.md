@@ -166,9 +166,9 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Blaire Ivory &lpar;26&rpar; dental checkup](http://9gag.com/gag/aqyeZ2P)
- - 😝 [Kids now having it easy](http://9gag.com/gag/aW4G6n2)
- - 💣 [What the duck is this](http://9gag.com/gag/a5QX71r)
+ - 😝 [What could have been](http://9gag.com/gag/axyoZjM)
+ - 😝 [Tararara](http://9gag.com/gag/abAvq2r)
+ - 💣 [She got a lost piece of her childhood back, all thanks to him!](http://9gag.com/gag/a7oqK4b)
  - 😝 [End the year with a surprise from your beloved!](http://9gag.com/gag/a87qMM3)
  - 👉 [You can\u2019t park there mate](http://9gag.com/gag/a87qb1e)<!-- MEMES:END -->
 

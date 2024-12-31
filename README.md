@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [What could have been](http://9gag.com/gag/axyoZjM)
- - 😝 [Tararara](http://9gag.com/gag/abAvq2r)
- - 💣 [She got a lost piece of her childhood back, all thanks to him!](http://9gag.com/gag/a7oqK4b)
+ - 😝 [What&#39;s your favorite conspiracy theory that turned out to be true?](http://9gag.com/gag/aGyExMz)
+ - 😝 [Not your run of the mill chick](http://9gag.com/gag/awyZK58)
+ - 💣 [Bro Gave The Safest Answer , He Wasn&#39;t Going To Fall For That Trap](http://9gag.com/gag/aoyK98m)
  - 😝 [End the year with a surprise from your beloved!](http://9gag.com/gag/a87qMM3)
- - 👉 [You can\u2019t park there mate](http://9gag.com/gag/a87qb1e)<!-- MEMES:END -->
+ - 👉 [What could have been](http://9gag.com/gag/axyoZjM)<!-- MEMES:END -->
 
 ---
 

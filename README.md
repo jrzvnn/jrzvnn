@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Rabbit meat is running](http://9gag.com/gag/aQzEnvw)
- - 😝 [Michael C. Hall and Jennifer Carpenter starred as brother and sister Dexter and Deb Morgan on Dexter &lpar;2006-2013&rpar;.](http://9gag.com/gag/aPAgDPg)
- - 💣 [Made in China.](http://9gag.com/gag/aYQVWrm)
+ - 😝 [Yes, I hope more restaurants will follow.](http://9gag.com/gag/aAy0PYd)
+ - 😝 [Bro Gave The Safest Answer , He Wasn&#39;t Going To Fall For That Trap](http://9gag.com/gag/aoyK98m)
+ - 💣 [Dude&#39;s a legend](http://9gag.com/gag/ajPVnAx)
  - 😝 [End the year with a surprise from your beloved!](http://9gag.com/gag/a87qMM3)
- - 👉 [Another Boy Lost his life due to Bullying at School](http://9gag.com/gag/aKGEzZ1)<!-- MEMES:END -->
+ - 👉 [They wouldn\u2019t compete at all.](http://9gag.com/gag/agmoV9x)<!-- MEMES:END -->
 
 ---
 

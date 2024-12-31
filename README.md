@@ -158,10 +158,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- TECH:START -->
  - [St. Louis-based tech services company World Wide Technology agrees to acquire Canadian IT provider Softchoice in an all-cash deal valuing the latter at ~CA$1.8B &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/241231/p14#a241231p14)
- - [What&#39;s best to watch on Apple TV+ during the upcoming free weekend [u]](https://appleinsider.com/articles/24/12/30/whats-best-to-watch-on-apple-tv-during-the-upcoming-free-weekend?utm_medium=rss)
- - [Apple&#39;s 2TB M4 Mac mini is $100 off &amp; in stock](https://appleinsider.com/articles/24/12/31/apples-2tb-m4-mac-mini-is-100-off-in-stock?utm_medium=rss)
- - [Best Internet Providers in Yakima, Washington](https://www.cnet.com/home/internet/best-internet-providers-in-yakima-wa/#ftag=CAD590a51e)
- - [New Magic Mouse may listen for voice commands](https://appleinsider.com/articles/24/12/30/new-magic-mouse-may-listen-for-voice-commands?utm_medium=rss)<!-- TECH:END -->
+ - [Squid Game Season 3 Confirmed for 2025](https://www.cnet.com/tech/services-and-software/squid-game-season-3-confirmed-for-2025/#ftag=CAD590a51e)
+ - [States Offering Their Own Child Tax Credit: Minnesota Debuts Big Early Payouts in 2025](https://www.cnet.com/personal-finance/taxes/states-offering-their-own-child-tax-credit-minnesota-debuts-big-early-payouts-in-2025/#ftag=CAD590a51e)
+ - [Best Bread Machines of 2024, Tested by CNET](https://www.cnet.com/home/kitchen-and-household/best-bread-machines/#ftag=CAD590a51e)
+ - [Is a Heat Pump Water Heater Worth It?](https://www.cnet.com/how-to/what-is-a-heat-pump-water-heater/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

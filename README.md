@@ -166,9 +166,9 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [For a change !](http://9gag.com/gag/a1mPYMG)
+ - 😝 [A cool little detail is that Legolas can walk on top of the snow whilst the rest of the fellowship has to walk through the snow.](http://9gag.com/gag/aD2Y0wB)
  - 😝 [Another Boy Lost his life due to Bullying at School](http://9gag.com/gag/aKGEzZ1)
- - 💣 [Thought you&#39;d wanna know.](http://9gag.com/gag/arympZd)
+ - 💣 [Bet they could take up half the table :&rpar;](http://9gag.com/gag/aZZDP29)
  - 😝 [End the year with a surprise from your beloved!](http://9gag.com/gag/a87qMM3)
  - 👉 [He is carrying her home like a bowling ball](http://9gag.com/gag/aByd3PA)<!-- MEMES:END -->
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Alibaba cuts prices on its visual language model Qwen-VL by up to 85%, after cutting Qwen prices by as much as 97% in May, amid growing AI competition in China &lpar;Ryan Browne/CNBC&rpar;](http://www.techmeme.com/241231/p8#a241231p8)
+ - [Montenegro extradites Terraform Labs co-founder Do Kwon to the US; South Korea also sought Do Kwon&#39;s extradition &lpar;Reuters&rpar;](http://www.techmeme.com/241231/p7#a241231p7)
  - [India extends a deadline for implementing a 30% cap on any company&#39;s share of transactions on UPI payments network, providing relief to Google Pay and PhonePe &lpar;Manish Singh/TechCrunch&rpar;](http://www.techmeme.com/241231/p6#a241231p6)
  - [WIRED Tested Miracle Hangover Cures. You&#39;re Welcome](https://www.wired.com/story/wired-tested-miracle-hangover-cures/)
- - [The US arrests a US Army soldier on suspicion of being Kiberphant0m, who sold sensitive customer call records stolen from AT&amp;T and Verizon in the Snowflake hack &lpar;Brian Krebs/Krebs on Security&rpar;](http://www.techmeme.com/241231/p5#a241231p5)
- - [Best Electric Toothbrushes of 2024](https://www.cnet.com/health/personal-care/best-electric-toothbrush/#ftag=CAD590a51e)
- - [Best Internet Providers in West Valley City, Utah](https://www.cnet.com/home/internet/best-internet-providers-in-west-valley-city-ut/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [The US arrests a US Army soldier on suspicion of being Kiberphant0m, who sold sensitive customer call records stolen from AT&amp;T and Verizon in the Snowflake hack &lpar;Brian Krebs/Krebs on Security&rpar;](http://www.techmeme.com/241231/p5#a241231p5)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

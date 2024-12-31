@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Headlights gone &lpar;not OC&rpar;](http://9gag.com/gag/amoAX1X)
- - 😝 [Another Boy Lost his life due to Bullying at School](http://9gag.com/gag/aKGEzZ1)
- - 💣 [End the year with a surprise from your beloved!](http://9gag.com/gag/a87qMM3)
  - 😝 [Bet they could take up half the table :&rpar;](http://9gag.com/gag/aZZDP29)
- - 👉 [Rabbit meat is running](http://9gag.com/gag/aQzEnvw)<!-- MEMES:END -->
+ - 😝 [Rabbit meat is running](http://9gag.com/gag/aQzEnvw)
+ - 💣 [End the year with a surprise from your beloved!](http://9gag.com/gag/a87qMM3)
+ - 😝 [At least I have a wife](http://9gag.com/gag/an7zK4V)
+ - 👉 [Blaire Ivory &lpar;26&rpar; dental checkup](http://9gag.com/gag/aqyeZ2P)<!-- MEMES:END -->
 
 ---
 

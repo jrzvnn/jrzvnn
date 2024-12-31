@@ -166,9 +166,9 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Made in China.](http://9gag.com/gag/aYQVWrm)
- - 😝 [He is carrying her home like a bowling ball](http://9gag.com/gag/aByd3PA)
- - 💣 [Sri Lanka has the lowest gravity on the planet &lpar;blue&rpar;](http://9gag.com/gag/aO8xqMN)
+ - 😝 [Not your run of the mill chick](http://9gag.com/gag/awyZK58)
+ - 😝 [New Taliban rule: Women are no longer allowed to be visible from house windows under any circumstance. If the kitchen has a window, women can&#39;t even cook near it. This comes after other rulings that women are forbidden from making sounds or even speaking to each other.](http://9gag.com/gag/aD2Y0qx)
+ - 💣 [Girls cant steal in London anymore](http://9gag.com/gag/amoA8x9)
  - 😝 [End the year with a surprise from your beloved!](http://9gag.com/gag/a87qMM3)
  - 👉 [You can\u2019t park there mate](http://9gag.com/gag/a87qb1e)<!-- MEMES:END -->
 

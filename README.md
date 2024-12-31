@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Girls cant steal in London anymore](http://9gag.com/gag/amoA8x9)
- - 😝 [Another airplane crash landing, this time canada](http://9gag.com/gag/avyQpVO)
- - 💣 [It&#39;s because of the smell, isn&#39;t it?](http://9gag.com/gag/a9yqboj)
+ - 😝 [New Taliban rule: Women are no longer allowed to be visible from house windows under any circumstance. If the kitchen has a window, women can&#39;t even cook near it. This comes after other rulings that women are forbidden from making sounds or even speaking to each other.](http://9gag.com/gag/aD2Y0qx)
+ - 😝 [Women will tell on themselves when you allow them to speak](http://9gag.com/gag/a1mPZev)
+ - 💣 [Thought you&#39;d wanna know.](http://9gag.com/gag/arympZd)
  - 😝 [End the year with a surprise from your beloved!](http://9gag.com/gag/a87qMM3)
- - 👉 [I love lamp](http://9gag.com/gag/aoyKZZ3)<!-- MEMES:END -->
+ - 👉 [Bet they could take up half the table :&rpar;](http://9gag.com/gag/aZZDP29)<!-- MEMES:END -->
 
 ---
 

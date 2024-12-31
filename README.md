@@ -158,7 +158,7 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- TECH:START -->
  - [The US DOJ files a complaint and announces a civil enforcement action against fintech startup Dave and CEO Jason Wilk, replacing an FTC complaint from November &lpar;Kanishka Singh/Reuters&rpar;](http://www.techmeme.com/241231/p2#a241231p2)
- - [BlackRock&#39;s Bitcoin ETF surpassed $50B in assets in 11 months, marking the fastest-growing ETF debut ever and pushing BTC&#39;s price past $100K for the first time &lpar;Sidhartha Shukla/Bloomberg&rpar;](http://www.techmeme.com/241231/p1#a241231p1)
+ - [BlackRock&#39;s Bitcoin ETF surpassed $50B in assets in 11 months, marking the fastest-growing ETF debut ever, and helping BTC exceed $100K in mid-December &lpar;Sidhartha Shukla/Bloomberg&rpar;](http://www.techmeme.com/241231/p1#a241231p1)
  - [Best Mattress in a Box for 2024](https://www.cnet.com/health/sleep/best-mattress-in-a-box/#ftag=CAD590a51e)
  - [Best Identity Theft Protection and Monitoring Services for 2024](https://www.cnet.com/tech/services-and-software/best-identity-theft-protection/#ftag=CAD590a51e)
  - [Today&#39;s NYT Mini Crossword Answers for Tuesday, Dec. 31](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-tuesday-dec-31/#ftag=CAD590a51e)<!-- TECH:END -->

@@ -166,10 +166,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Thought you&#39;d wanna know.](http://9gag.com/gag/arympZd)
- - 😝 [Coconut peeling and cutting in Thailand](http://9gag.com/gag/aKGEw6Z)
- - 💣 [Mornin&#39;! nice day](http://9gag.com/gag/aMVE27W)
- - 😝 [Danny Crane](http://9gag.com/gag/aKGEgvj)
+ - 😝 [Raichu is the best chonk](http://9gag.com/gag/apR9qpE)
+ - 😝 [Tararara](http://9gag.com/gag/abAvq2r)
+ - 💣 [Another Boy Lost his life due to Bullying at School](http://9gag.com/gag/aKGEzZ1)
+ - 😝 [End the year with a surprise from your beloved!](http://9gag.com/gag/a87qMM3)
  - 👉 [GenieDislikesCloud](http://9gag.com/gag/aO8xKN2)<!-- MEMES:END -->
 
 ---

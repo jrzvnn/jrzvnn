@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Yes, I hope more restaurants will follow.](http://9gag.com/gag/aAy0PYd)
- - 😝 [Bro Gave The Safest Answer , He Wasn&#39;t Going To Fall For That Trap](http://9gag.com/gag/aoyK98m)
- - 💣 [Dude&#39;s a legend](http://9gag.com/gag/ajPVnAx)
+ - 😝 [Rabbit meat is running](http://9gag.com/gag/aQzEnvw)
+ - 😝 [He is carrying her home like a bowling ball](http://9gag.com/gag/aByd3PA)
+ - 💣 [Sri Lanka has the lowest gravity on the planet &lpar;blue&rpar;](http://9gag.com/gag/aO8xqMN)
  - 😝 [End the year with a surprise from your beloved!](http://9gag.com/gag/a87qMM3)
- - 👉 [They wouldn\u2019t compete at all.](http://9gag.com/gag/agmoV9x)<!-- MEMES:END -->
+ - 👉 [Blaire Ivory &lpar;26&rpar; dental checkup](http://9gag.com/gag/aqyeZ2P)<!-- MEMES:END -->
 
 ---
 

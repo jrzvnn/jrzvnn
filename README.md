@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Best Luggage, Wheeled Cases, Duffels and Carry-Ons for 2024](https://www.cnet.com/news/best-luggage-wheeled-cases-duffels-and-carry-on/#ftag=CAD590a51e)
  - [Researchers find 4.5M &quot;stars&quot; on GitHub repos they suspect are fake; in July, Check Point found a network of inauthentic users starring repos containing malware &lpar;Bill Toulas/BleepingComputer&rpar;](http://www.techmeme.com/241231/p12#a241231p12)
- - [iPhone SE, M4 MacBook Air &amp; more: What to expect from Apple&#39;s loaded first half of 2025](https://appleinsider.com/articles/24/12/31/iphone-se-m4-macbook-air-more-what-to-expect-from-apples-loaded-first-half-of-2025?utm_medium=rss)
- - [Best Microwave for 2024](https://www.cnet.com/home/kitchen-and-household/best-microwaves/#ftag=CAD590a51e)
- - [Best VPN for Australia](https://www.cnet.com/tech/services-and-software/best-vpn-for-australia/#ftag=CAD590a51e)
- - [The Best Budget-Friendly Champagne to Pop on New Year&#39;s Eve](https://www.cnet.com/how-to/the-best-budget-friendly-champagne-to-pop-on-new-years-eve/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [10 Movies We&#39;re Looking Forward to Watching on Netflix in January](https://www.cnet.com/tech/services-and-software/10-netflix-movies-to-watch-in-january/#ftag=CAD590a51e)
+ - [5 Simple New Year&#39;s Resolutions That Could Fix Your Sleep Quality in 2025](https://www.cnet.com/health/sleep/5-simple-new-years-sleep-resolutions-that-could-fix-your-sleep-quality-in-2025/#ftag=CAD590a51e)
+ - [6 Vitamins and Supplements That Can Unlock Healthy Eyes in 2025](https://www.cnet.com/health/personal-care/6-vitamins-and-supplements-that-can-unlock-healthy-eyes-in-2025/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

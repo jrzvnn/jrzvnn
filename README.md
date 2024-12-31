@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Women will tell on themselves when you allow them to speak](http://9gag.com/gag/a1mPZev)
- - 😝 [He is carrying her home like a bowling ball](http://9gag.com/gag/aByd3PA)
- - 💣 [New Taliban rule: Women are no longer allowed to be visible from house windows under any circumstance. If the kitchen has a window, women can&#39;t even cook near it. This comes after other rulings that women are forbidden from making sounds or even speaking to each other.](http://9gag.com/gag/aD2Y0qx)
- - 😝 [Turns out, 10 users are responsible for 22% of all the posts on 9gag. The list of them is in the comments](http://9gag.com/gag/awyZbbR)
- - 👉 [Blaire Ivory &lpar;26&rpar; dental checkup](http://9gag.com/gag/aqyeZ2P)<!-- MEMES:END -->
+ - 😝 [Coconut peeling and cutting in Thailand](http://9gag.com/gag/aKGEw6Z)
+ - 😝 [She got a lost piece of her childhood back, all thanks to him!](http://9gag.com/gag/a7oqK4b)
+ - 💣 [Danny Crane](http://9gag.com/gag/aKGEgvj)
+ - 😝 [I removed the emojis](http://9gag.com/gag/a87qWP1)
+ - 👉 [He is carrying her home like a bowling ball](http://9gag.com/gag/aByd3PA)<!-- MEMES:END -->
 
 ---
 

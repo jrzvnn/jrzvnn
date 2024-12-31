@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Sri Lanka has the lowest gravity on the planet &lpar;blue&rpar;](http://9gag.com/gag/aO8xqMN)
- - 😝 [Tararara](http://9gag.com/gag/abAvq2r)
- - 💣 [End the year with a surprise from your beloved!](http://9gag.com/gag/a87qMM3)
- - 😝 [What did he do?](http://9gag.com/gag/aVvbOpO)
- - 👉 [Rabbit meat is running](http://9gag.com/gag/aQzEnvw)<!-- MEMES:END -->
+ - 😝 [Bet they could take up half the table :&rpar;](http://9gag.com/gag/aZZDP29)
+ - 😝 [ALLRIGHT!!?](http://9gag.com/gag/aE0q1ZN)
+ - 💣 [What did he do?](http://9gag.com/gag/aVvbOpO)
+ - 😝 [End the year with a surprise from your beloved!](http://9gag.com/gag/a87qMM3)
+ - 👉 [He is carrying her home like a bowling ball](http://9gag.com/gag/aByd3PA)<!-- MEMES:END -->
 
 ---
 

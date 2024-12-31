@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [M4 Mac users report problems using ultrawide 5K monitors](https://appleinsider.com/articles/24/12/31/m4-mac-users-report-problems-using-ultrawide-5k-monitors?utm_medium=rss)
+ - [Ant Group&#39;s payment app Alipay adds an AI-powered image search feature as it tries to become a super app like rival Tencent&#39;s WeChat &lpar;Coco Feng/South China Morning Post&rpar;](http://www.techmeme.com/241231/p10#a241231p10)
  - [The 15 Shows We’re Most Looking Forward to in 2025](https://www.wired.com/story/15-most-anticipated-shows-of-2025/)
  - [2024: a year in art on The Verge](https://www.theverge.com/24317843/2024-art-photography-best-illustration-features)
- - [Sources: Mobvista explores selling mobile ad platform Mintegral after getting interest from buyers like Bain Capital; Mobvista stock in HK surged ~190% in 2024 &lpar;Bloomberg&rpar;](http://www.techmeme.com/241231/p9#a241231p9)
- - [How Wearables Are Slowly Turning Into Personal Health Coaches in 2025](https://www.cnet.com/tech/mobile/how-wearables-are-slowly-turning-into-personal-health-coaches-in-2025/#ftag=CAD590a51e)
- - [Everything We Expect in Gaming in 2025 video](https://www.cnet.com/videos/everything-we-expect-in-gaming-in-2025/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Sources: Mobvista explores selling mobile ad platform Mintegral after getting interest from buyers like Bain Capital; Mobvista stock in HK surged ~190% in 2024 &lpar;Bloomberg&rpar;](http://www.techmeme.com/241231/p9#a241231p9)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

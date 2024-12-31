@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Best Internet Providers in Oceanside, California](https://www.cnet.com/home/internet/best-internet-providers-in-oceanside-ca/#ftag=CAD590a51e)
- - [Best Exercise Bikes for 2024](https://www.cnet.com/health/fitness/best-exercise-bike/#ftag=CAD590a51e)
- - [Best Internet Providers in Provo, Utah](https://www.cnet.com/home/internet/best-internet-providers-in-provo-ut/#ftag=CAD590a51e)
- - [Best Pixel 9 Deals: Save on Top-Rated Androids With a New Line or Trade-In](https://www.cnet.com/deals/best-pixel-9-deals/#ftag=CAD590a51e)
- - [Best Glucose Meter for Diabetes and Blood Sugar Monitoring](https://www.cnet.com/health/medical/best-glucose-meter/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Best Luggage, Wheeled Cases, Duffels and Carry-Ons for 2024](https://www.cnet.com/news/best-luggage-wheeled-cases-duffels-and-carry-on/#ftag=CAD590a51e)
+ - [Researchers find 4.5M &quot;stars&quot; on GitHub repos they suspect are fake; in July, Check Point found a network of inauthentic users starring repos containing malware &lpar;Bill Toulas/BleepingComputer&rpar;](http://www.techmeme.com/241231/p12#a241231p12)
+ - [10 Movies We&#39;re Looking Forward to Watching on Netflix in January](https://www.cnet.com/tech/services-and-software/10-netflix-movies-to-watch-in-january/#ftag=CAD590a51e)
+ - [5 Simple New Year&#39;s Resolutions That Could Fix Your Sleep Quality in 2025](https://www.cnet.com/health/sleep/5-simple-new-years-sleep-resolutions-that-could-fix-your-sleep-quality-in-2025/#ftag=CAD590a51e)
+ - [6 Vitamins and Supplements That Can Unlock Healthy Eyes in 2025](https://www.cnet.com/health/personal-care/6-vitamins-and-supplements-that-can-unlock-healthy-eyes-in-2025/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

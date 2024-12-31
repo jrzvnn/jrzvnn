@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Based](http://9gag.com/gag/aGyEx7X)
- - 😝 [The Moment you start thinking](http://9gag.com/gag/awyZKWQ)
- - 💣 [Wait.. Don\u2019t scroll](http://9gag.com/gag/aMVEbN6)
- - 😝 [End the year with a surprise from your beloved!](http://9gag.com/gag/a87qMM3)
- - 👉 [Female logic](http://9gag.com/gag/aGyEwzX)<!-- MEMES:END -->
+ - 😝 [Sri Lanka has the lowest gravity on the planet &lpar;blue&rpar;](http://9gag.com/gag/aO8xqMN)
+ - 😝 [Thought you&#39;d wanna know.](http://9gag.com/gag/arympZd)
+ - 💣 [End the year with a surprise from your beloved!](http://9gag.com/gag/a87qMM3)
+ - 😝 [Rabbit meat is running](http://9gag.com/gag/aQzEnvw)
+ - 👉 [He is carrying her home like a bowling ball](http://9gag.com/gag/aByd3PA)<!-- MEMES:END -->
 
 ---
 

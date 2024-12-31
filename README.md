@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Researchers find 4.5M &quot;stars&quot; on GitHub repos they suspect are fake; in July, Check Point found a network of inauthentic users starring repos containing malware &lpar;Bill Toulas/BleepingComputer&rpar;](http://www.techmeme.com/241231/p12#a241231p12)
  - [iPhone SE, M4 MacBook Air &amp; more: What to expect from Apple&#39;s loaded first half of 2025](https://appleinsider.com/articles/24/12/31/iphone-se-m4-macbook-air-more-what-to-expect-from-apples-loaded-first-half-of-2025?utm_medium=rss)
  - [How We Work - How caffeine &amp; tech fuel Andrew O&#39;Hara&#39;s video workflow](https://appleinsider.com/articles/24/12/31/how-we-work---how-caffeine-tech-fuel-andrew-oharas-video-workflow?utm_medium=rss)
  - [In 2024, Intel had its worst year since going public in 1971, losing 61% of value; Broadcom stock soared 111%, its best performance ever, driven by AI revenue &lpar;CNBC&rpar;](http://www.techmeme.com/241231/p11#a241231p11)
- - [The Apple Watch Series 10 has returned to its Black Friday sale price](https://www.theverge.com/2024/12/31/24332302/apple-watch-series-10-anker-soundcore-sport-x10-earbuds-deal-sale)
- - [M4 Mac owners having problems with ultrawide 5K monitors](https://appleinsider.com/articles/24/12/31/m4-mac-users-report-problems-using-ultrawide-5k-monitors?utm_medium=rss)<!-- TECH:END -->
+ - [The Apple Watch Series 10 has returned to its Black Friday sale price](https://www.theverge.com/2024/12/31/24332302/apple-watch-series-10-anker-soundcore-sport-x10-earbuds-deal-sale)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

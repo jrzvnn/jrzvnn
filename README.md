@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [How We Work - How caffeine &amp; tech fuel Andrew O&#39;Hara&#39;s video workflow](https://appleinsider.com/articles/24/12/31/how-we-work---how-caffeine-tech-fuel-andrew-oharas-video-workflow?utm_medium=rss)
  - [In 2024, Intel had its worst year since going public in 1971, losing 61% of value; Broadcom stock soared 111%, its best performance ever, driven by AI revenue &lpar;CNBC&rpar;](http://www.techmeme.com/241231/p11#a241231p11)
  - [The Apple Watch Series 10 has returned to its Black Friday sale price](https://www.theverge.com/2024/12/31/24332302/apple-watch-series-10-anker-soundcore-sport-x10-earbuds-deal-sale)
  - [M4 Mac owners having problems with ultrawide 5K monitors](https://appleinsider.com/articles/24/12/31/m4-mac-users-report-problems-using-ultrawide-5k-monitors?utm_medium=rss)
- - [How to set up Apple TV VPN with Surfshark](https://appleinsider.com/articles/24/12/31/how-to-set-up-apple-tv-vpn-with-surfshark?utm_medium=rss)
- - [Ant Group&#39;s payment app Alipay adds an AI-powered image search feature as it tries to become a super app like rival Tencent&#39;s WeChat &lpar;Coco Feng/South China Morning Post&rpar;](http://www.techmeme.com/241231/p10#a241231p10)<!-- TECH:END -->
+ - [How to set up Apple TV VPN with Surfshark](https://appleinsider.com/articles/24/12/31/how-to-set-up-apple-tv-vpn-with-surfshark?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

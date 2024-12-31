@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Malaysia done with them. Lol](http://9gag.com/gag/aAy012E)
- - 😝 [They wouldn\u2019t compete at all.](http://9gag.com/gag/agmoV9x)
- - 💣 [Happy new year from Tuvalu](http://9gag.com/gag/a9yq7o6)
+ - 😝 [Kids now having it easy](http://9gag.com/gag/aW4G6n2)
+ - 😝 [Dumps all their rubbish on the beach and then pulls out the &#39;vIcTiM cArD&#39; immediately. It&#39;s always THEM !](http://9gag.com/gag/a4PodBd)
+ - 💣 [Made in China.](http://9gag.com/gag/aYQVWrm)
  - 😝 [End the year with a surprise from your beloved!](http://9gag.com/gag/a87qMM3)
- - 👉 [Waste of paper? Yeah, I know\u2026](http://9gag.com/gag/aRBEeeB)<!-- MEMES:END -->
+ - 👉 [New Taliban rule: Women are no longer allowed to be visible from house windows under any circumstance. If the kitchen has a window, women can&#39;t even cook near it. This comes after other rulings that women are forbidden from making sounds or even speaking to each other.](http://9gag.com/gag/aD2Y0qx)<!-- MEMES:END -->
 
 ---
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Kids now having it easy](http://9gag.com/gag/aW4G6n2)
- - 😝 [Dumps all their rubbish on the beach and then pulls out the &#39;vIcTiM cArD&#39; immediately. It&#39;s always THEM !](http://9gag.com/gag/a4PodBd)
+ - 😝 [Rabbit meat is running](http://9gag.com/gag/aQzEnvw)
+ - 😝 [Michael C. Hall and Jennifer Carpenter starred as brother and sister Dexter and Deb Morgan on Dexter &lpar;2006-2013&rpar;.](http://9gag.com/gag/aPAgDPg)
  - 💣 [Made in China.](http://9gag.com/gag/aYQVWrm)
  - 😝 [End the year with a surprise from your beloved!](http://9gag.com/gag/a87qMM3)
- - 👉 [New Taliban rule: Women are no longer allowed to be visible from house windows under any circumstance. If the kitchen has a window, women can&#39;t even cook near it. This comes after other rulings that women are forbidden from making sounds or even speaking to each other.](http://9gag.com/gag/aD2Y0qx)<!-- MEMES:END -->
+ - 👉 [Another Boy Lost his life due to Bullying at School](http://9gag.com/gag/aKGEzZ1)<!-- MEMES:END -->
 
 ---
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Uh, no.](http://9gag.com/gag/aoyK9Ym)
- - 😝 [Fellow females, little help?](http://9gag.com/gag/azx2VZZ)
- - 💣 [Static void tattoo, my eyes hate this.](http://9gag.com/gag/a1mPM9b)
+ - 😝 [Made in China.](http://9gag.com/gag/aYQVWrm)
+ - 😝 [What could have been](http://9gag.com/gag/axyoZjM)
+ - 💣 [You can\u2019t park there mate](http://9gag.com/gag/a87qb1e)
  - 😝 [End the year with a surprise from your beloved!](http://9gag.com/gag/a87qMM3)
- - 👉 [No hurricane ever crossed the equator.](http://9gag.com/gag/aBydYXz)<!-- MEMES:END -->
+ - 👉 [What&#39;s your favorite conspiracy theory that turned out to be true?](http://9gag.com/gag/aGyExMz)<!-- MEMES:END -->
 
 ---
 

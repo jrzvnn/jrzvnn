@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Raichu is the best chonk](http://9gag.com/gag/apR9qpE)
- - 😝 [Tararara](http://9gag.com/gag/abAvq2r)
- - 💣 [Another Boy Lost his life due to Bullying at School](http://9gag.com/gag/aKGEzZ1)
+ - 😝 [Mornin&#39;! nice day](http://9gag.com/gag/aMVE27W)
+ - 😝 [I removed the emojis](http://9gag.com/gag/a87qWP1)
+ - 💣 [Tomboy Childhood Friend All Along!](http://9gag.com/gag/apR9qzn)
  - 😝 [End the year with a surprise from your beloved!](http://9gag.com/gag/a87qMM3)
- - 👉 [GenieDislikesCloud](http://9gag.com/gag/aO8xKN2)<!-- MEMES:END -->
+ - 👉 [How stupid can you be? Yes](http://9gag.com/gag/aMVEQyG)<!-- MEMES:END -->
 
 ---
 

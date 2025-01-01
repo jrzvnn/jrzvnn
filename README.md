@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Link-Busters, an anti-piracy company working for big publishers, passed 2B URL takedown requests sent to Google and is behind 50%+ of Google takedown requests &lpar;Ernesto Van der Sar/TorrentFreak&rpar;](http://www.techmeme.com/250101/p4#a250101p4)
- - [Today&#39;s NYT Mini Crossword Answers for Wednesday, Jan. 1](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-wednesday-jan-1/#ftag=CAD590a51e)
- - [Best Internet Providers in Temple, Texas](https://www.cnet.com/home/internet/best-internet-providers-in-temple-tx/#ftag=CAD590a51e)
- - [Best Reading Glasses for 2025](https://www.cnet.com/health/personal-care/best-reading-glasses/#ftag=CAD590a51e)
- - [How to Build a Healthier Relationship With Your Screen](https://www.wired.com/story/healthy-screen-time-habits-tech-use/)<!-- TECH:END -->
+ - [Hey, Maybe It&#39;s Time to Delete Some Old Chat Histories](https://www.wired.com/story/old-chat-history-delete/)
+ - [In 2025, We&#39;re Healing From the Inside-Out. Will Tech Help or Hurt Us?](https://www.cnet.com/health/in-2025-healing-from-inside-out-will-tech-help-or-hurt-us/#ftag=CAD590a51e)
+ - [The Social Security COLA 2025 Increase Is Here: Here&#39;s When to Expect Your Boosted Check](https://www.cnet.com/personal-finance/social-security-cola-2025-your-first-increased-check-is-coming-soon/#ftag=CAD590a51e)
+ - [The 5 Best Magnesium Supplements of 2025](https://www.cnet.com/health/nutrition/5-best-magnesium-supplements/#ftag=CAD590a51e)
+ - [7 Hacks to Improve Your Android Phone&#39;s Performance](https://www.cnet.com/tech/mobile/7-hacks-to-improve-your-android-phones-performance/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

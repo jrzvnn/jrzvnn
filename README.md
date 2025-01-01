@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Alibaba sells Sun Art Retail stake to PE firm DCP for ~$1.6B, after paying ~$3.6B in 2020 to double the stake to 70%+, as it focuses on its core online business &lpar;Bloomberg&rpar;](http://www.techmeme.com/250101/p5#a250101p5)
+ - [The 17 Best EVs Coming in 2025](https://www.wired.com/story/the-17-best-evs-coming-in-2025/)
  - [How to Start &lpar;and Keep&rpar; a Healthy Habit &lpar;2025&rpar;](https://www.wired.com/story/how-to-start-a-healthy-habit/)
  - [Sea Moss Gummies: Side Effects, Benefits and Who Should Try Them](https://www.cnet.com/health/nutrition/sea-moss-gummies-side-effects-benefits-and-who-should-try-them/#ftag=CAD590a51e)
- - [Best Creatine Supplements of 2025](https://www.cnet.com/health/nutrition/best-creatine-supplements/#ftag=CAD590a51e)
- - [WatchOS 11.2 Adds Surprising Health Features to Your Apple Watch. Download It Now](https://www.cnet.com/tech/mobile/watchos-11-2-adds-surprising-health-features-to-your-apple-watch-download-it-now/#ftag=CAD590a51e)
- - [How Becoming an Early Bird Can Transform Your Mental Health and Productivity](https://www.cnet.com/health/sleep/how-becoming-an-early-bird-can-transform-your-mental-health-and-productivity/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Best Creatine Supplements of 2025](https://www.cnet.com/health/nutrition/best-creatine-supplements/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

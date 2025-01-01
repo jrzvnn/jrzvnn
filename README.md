@@ -158,10 +158,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- TECH:START -->
  - [Alibaba sells Sun Art Retail stake to PE firm DCP for ~$1.6B, after paying ~$3.6B in 2020 to double the stake to 70%+, as it focuses on its core online business &lpar;Bloomberg&rpar;](http://www.techmeme.com/250101/p5#a250101p5)
- - [The 17 Best EVs Coming in 2025](https://www.wired.com/story/the-17-best-evs-coming-in-2025/)
- - [How to Start &lpar;and Keep&rpar; a Healthy Habit &lpar;2025&rpar;](https://www.wired.com/story/how-to-start-a-healthy-habit/)
- - [Sea Moss Gummies: Side Effects, Benefits and Who Should Try Them](https://www.cnet.com/health/nutrition/sea-moss-gummies-side-effects-benefits-and-who-should-try-them/#ftag=CAD590a51e)
- - [Best Creatine Supplements of 2025](https://www.cnet.com/health/nutrition/best-creatine-supplements/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Best MP3 Players for 2025](https://www.cnet.com/tech/mobile/best-mp3-player/#ftag=CAD590a51e)
+ - [Don&#39;t Quit These Streaming Services Just Yet in January 2025](https://www.cnet.com/tech/services-and-software/dont-quit-these-streaming-services-just-yet-in-january-2025/#ftag=CAD590a51e)
+ - [Is Your New Years Resolution to Exercise More? Try Running With iOS 18](https://www.cnet.com/tech/services-and-software/is-your-new-years-resolution-to-exercise-more-try-running-with-ios-18/#ftag=CAD590a51e)
+ - [Go Ahead, Clean Your TV Screen, But Beware of Using the Wrong Cleaner](https://www.cnet.com/tech/home-entertainment/go-ahead-clean-your-tv-screen-but-beware-of-using-the-wrong-cleaner/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

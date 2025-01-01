@@ -158,10 +158,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- TECH:START -->
  - [Link-Busters, an anti-piracy company working for big publishers, passed 2B URL takedown requests sent to Google and is behind 50%+ of Google takedown requests &lpar;Ernesto Van der Sar/TorrentFreak&rpar;](http://www.techmeme.com/250101/p4#a250101p4)
- - [How to Build a Healthier Relationship With Your Screen](https://www.wired.com/story/healthy-screen-time-habits-tech-use/)
- - [The Best Mattress for Hip Pain and Pressure Relief](https://www.cnet.com/health/sleep/best-mattress-for-hip-pain/#ftag=CAD590a51e)
- - [Best Wi-Fi Routers](https://www.cnet.com/home/internet/best-wi-fi-routers/#ftag=CAD590a51e)
- - [20% Off Brooks Promo Code &amp; Deals for January 2025](https://www.wired.com/story/brooks-promo-code/)<!-- TECH:END -->
+ - [Today&#39;s NYT Mini Crossword Answers for Wednesday, Jan. 1](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-wednesday-jan-1/#ftag=CAD590a51e)
+ - [Best Internet Providers in Temple, Texas](https://www.cnet.com/home/internet/best-internet-providers-in-temple-tx/#ftag=CAD590a51e)
+ - [Best Reading Glasses for 2025](https://www.cnet.com/health/personal-care/best-reading-glasses/#ftag=CAD590a51e)
+ - [How to Build a Healthier Relationship With Your Screen](https://www.wired.com/story/healthy-screen-time-habits-tech-use/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

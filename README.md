@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Nomad Coupons: 80% Off | January 2024](https://www.wired.com/story/nomad-discount-code/)
+ - [Exclusive Nectar Coupon Code: 40% Off](https://www.wired.com/story/nectar-coupon-code/)
+ - [Target Promo Codes and Coupons: $50 Off | January 2024](https://www.wired.com/story/target-promo-code/)
  - [50% Off Blue Apron Coupon and Promo Codes](https://www.wired.com/story/blue-apron-coupon/)
- - [Factor Promo Code: Extra $130 Off](https://www.wired.com/story/factor-promo-code/)
- - [An investigation details how predatory men engage in the grooming of child influencers on Instagram under the guise of working as social media professionals &lpar;New York Times&rpar;](http://www.techmeme.com/250101/p3#a250101p3)
- - [AirDoctor Coupon Codes and Deals: Save 15%](https://www.wired.com/story/airdoctor-coupon-code/)
- - [Hoka Coupon Code: Free Shipping in January 2025](https://www.wired.com/story/hoka-coupon-code/)<!-- TECH:END -->
+ - [Factor Promo Code: Extra $130 Off](https://www.wired.com/story/factor-promo-code/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [As someone that does the sex a lot](http://9gag.com/gag/adBPX7D)
- - 😝 [Uh, no.](http://9gag.com/gag/aoyK9Ym)
+ - 😝 [2nd &#39;Incident&#39; after a woman burnt alive. A man was shoved in front of an NYC subway train today. He is now in critical condition.](http://9gag.com/gag/agmoLBW)
+ - 😝 [My fellow IT support](http://9gag.com/gag/aE0qR9G)
  - 💣 [M.A.H.A.](http://9gag.com/gag/amoA892)
- - 😝 [HAKUNA HER TATA](http://9gag.com/gag/aLn195W)
- - 👉 [A reason for Korean martial law 2024](http://9gag.com/gag/aD2YGWB)<!-- MEMES:END -->
+ - 😝 [A reason for Korean martial law 2024](http://9gag.com/gag/aD2YGWB)
+ - 👉 [Comeback of the decade](http://9gag.com/gag/aO8xVgr)<!-- MEMES:END -->
 
 ---
 

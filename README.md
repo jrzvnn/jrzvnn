@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [US soldier arrested after allegedly posting hacked Trump and Harris call logs](https://www.theverge.com/2025/1/1/24333523/us-soldier-arrested-snowflake-data-sale-att)
- - [Say Goodbye Your Nighttime Anxiety: This New Sleep Hack Won&#39;t Have You Counting Sheep](https://www.cnet.com/health/sleep/say-goodbye-to-your-nighttime-anxiety-this-new-sleep-hack-wont-have-you-counting-sheep/#ftag=CAD590a51e)
- - [Unreliable leakers agree on unlikely &#39;iPhone 16E&#39; name for iPhone SE 4](https://appleinsider.com/articles/25/01/01/unreliable-leakers-agree-on-unlikely-iphone-16e-name-for-iphone-se-4?utm_medium=rss)
- - [Best Wireless Earbuds and Headphones for Your Samsung Phone in 2025](https://www.cnet.com/tech/mobile/best-wireless-earbuds-and-headphones-for-samsung-phones/#ftag=CAD590a51e)
- - [Best Google Pixel Deals: Ring In 2025 With a Brand-New Phone](https://www.cnet.com/deals/best-google-pixel-deals/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [How we work: Oliver Haslam&#39;s MacBook Pro-powered setup](https://appleinsider.com/articles/25/01/01/how-we-work-oliver-haslams-macbook-pro-powered-setup?utm_medium=rss)
+ - [Apple Watch Series 10 Returns to Record Low Price With This Deal](https://www.cnet.com/deals/apple-watch-series-10-returns-to-record-low-price-with-this-deal/#ftag=CAD590a51e)
+ - [How a 0% Intro APR Credit Card Can Help You Avoid Sky-High Interest This Year](https://www.cnet.com/personal-finance/how-a-0-intro-apr-credit-card-can-help-you-avoid-sky-high-interest-this-year/#ftag=CAD590a51e)
+ - [Best Places to Buy Contact Lenses Online for 2025](https://www.cnet.com/health/personal-care/best-place-to-buy-contacts-online/#ftag=CAD590a51e)
+ - [Don&#39;t Miss Out on an Amazon Echo Show 8 for 43% Off](https://www.cnet.com/deals/dont-miss-out-amazon-echo-show-8-43-off/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

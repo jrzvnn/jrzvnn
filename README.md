@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [People reacting to the new Japanese Maglev bullet train passing right by them during a test run.](http://9gag.com/gag/aAy0PZE)
- - 😝 [Tradition](http://9gag.com/gag/an7zyeq)
- - 💣 [Based](http://9gag.com/gag/aGyEx7X)
- - 😝 [Kids now having it easy](http://9gag.com/gag/aW4G6n2)
- - 👉 [MARVEL RIVALS MADE A `OOPS DID I DO THAT`](http://9gag.com/gag/ajPVApw)<!-- MEMES:END -->
+ - 😝 [No title](http://9gag.com/gag/azx2AYq)
+ - 😝 [M.A.H.A.](http://9gag.com/gag/amoA892)
+ - 💣 [No hurricane ever crossed the equator.](http://9gag.com/gag/aBydYXz)
+ - 😝 [Downgrade](http://9gag.com/gag/agmoG3K)
+ - 👉 [A reason for Korean martial law 2024](http://9gag.com/gag/aD2YGWB)<!-- MEMES:END -->
 
 ---
 

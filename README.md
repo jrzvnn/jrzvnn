@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Happy new year from Tuvalu](http://9gag.com/gag/a9yq7o6)
- - 😝 [Most definitely](http://9gag.com/gag/aLn1BzP)
- - 💣 [No worries they can buy another one from temu for 50 bucks](http://9gag.com/gag/a6ZqQD8)
- - 😝 [I want to play it again](http://9gag.com/gag/an7z1ZL)
- - 👉 [Tradition](http://9gag.com/gag/an7zyeq)<!-- MEMES:END -->
+ - 😝 [What was that?](http://9gag.com/gag/avyQnzX)
+ - 😝 [Her eyes show she is at the start of slowly losing her kindness to daily BS from this type of people.](http://9gag.com/gag/adBPp99)
+ - 💣 [Just ignore the shit](http://9gag.com/gag/apR9vEp)
+ - 😝 [The Joker: Kerala edition](http://9gag.com/gag/axyoZgY)
+ - 👉 [M.A.H.A.](http://9gag.com/gag/amoA892)<!-- MEMES:END -->
 
 ---
 

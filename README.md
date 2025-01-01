@@ -158,10 +158,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- TECH:START -->
  - [A Very Happy New Year from AppleInsider](https://appleinsider.com/articles/25/01/01/a-very-happy-new-year-from-appleinsider?utm_medium=rss)
- - [Report: users on Douyin, WeChat, and other short video apps in China dropped for the first time, reaching 1.05B in June 2024, ~300M fewer than in December 2023 &lpar;Coco Feng/South China Morning Post&rpar;](http://www.techmeme.com/241231/p16#a241231p16)
- - [Best Electric Bike for 2025](https://www.cnet.com/roadshow/news/best-electric-bike/#ftag=CAD590a51e)
- - [Best Instant Pots for 2025](https://www.cnet.com/news/best-instant-pot/#ftag=CAD590a51e)
- - [The US Treasury sanctions Iranian and Russian entities over attempted election interference, including a Moscow entity that directed the creation of deepfakes &lpar;Raquel Coronell Uribe/NBC News&rpar;](http://www.techmeme.com/241231/p15#a241231p15)<!-- TECH:END -->
+ - [Today&#39;s NYT Strands Hints, Answers and Help for Jan. 1, #304](https://www.cnet.com/tech/gaming/todays-nyt-strands-hints-answers-and-help-for-jan-1-304/#ftag=CAD590a51e)
+ - [Today&#39;s NYT Connections Hints, Answers and Help for Jan. 1, #570](https://www.cnet.com/tech/gaming/todays-nyt-connections-hints-answers-and-help-for-jan-1-570/#ftag=CAD590a51e)
+ - [Today&#39;s Wordle Hints, Answer and Help for Jan. 1, #1292](https://www.cnet.com/tech/gaming/todays-wordle-hints-answer-and-help-for-jan-1-1292/#ftag=CAD590a51e)
+ - [Report: users on Douyin, WeChat, and other short video apps in China dropped for the first time, reaching 1.05B in June 2024, ~300M fewer than in December 2023 &lpar;Coco Feng/South China Morning Post&rpar;](http://www.techmeme.com/241231/p16#a241231p16)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

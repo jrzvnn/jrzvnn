@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [I want to play it again](http://9gag.com/gag/an7z1ZL)
- - 😝 [Most definitely](http://9gag.com/gag/aLn1BzP)
- - 💣 [No worries they can buy another one from temu for 50 bucks](http://9gag.com/gag/a6ZqQD8)
- - 😝 [Tradition](http://9gag.com/gag/an7zyeq)
- - 👉 [Based](http://9gag.com/gag/aGyEx7X)<!-- MEMES:END -->
+ - 😝 [Just ignore the shit](http://9gag.com/gag/apR9vEp)
+ - 😝 [He is carrying her home like a bowling ball](http://9gag.com/gag/aByd3PA)
+ - 💣 [As someone that does the sex a lot](http://9gag.com/gag/adBPX7D)
+ - 😝 [British cops found a missing 13yr old girl in a house, naked and blind drunk, with 7 Pakistani men. THEY ARRESTED THE GIRL for being `Drunk &amp; Disorderly`.](http://9gag.com/gag/aBydwvD)
+ - 👉 [Uh, no.](http://9gag.com/gag/aoyK9Ym)<!-- MEMES:END -->
 
 ---
 

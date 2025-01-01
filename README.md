@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [No title](http://9gag.com/gag/azx2AYq)
- - 😝 [Bro Gave The Safest Answer , He Wasn&#39;t Going To Fall For That Trap](http://9gag.com/gag/aoyK98m)
- - 💣 [A reason for Korean martial law 2024](http://9gag.com/gag/aD2YGWB)
- - 😝 [M.A.H.A.](http://9gag.com/gag/amoA892)
- - 👉 [Rabbit meat is running](http://9gag.com/gag/aQzEnvw)<!-- MEMES:END -->
+ - 😝 [Most definitely](http://9gag.com/gag/aLn1BzP)
+ - 😝 [Tradition](http://9gag.com/gag/an7zyeq)
+ - 💣 [Based](http://9gag.com/gag/aGyEx7X)
+ - 😝 [British cops found a missing 13yr old girl in a house, naked and blind drunk, with 7 Pakistani men. THEY ARRESTED THE GIRL for being `Drunk &amp; Disorderly`.](http://9gag.com/gag/aBydwvD)
+ - 👉 [Kids now having it easy](http://9gag.com/gag/aW4G6n2)<!-- MEMES:END -->
 
 ---
 

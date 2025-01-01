@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Just ignore the shit](http://9gag.com/gag/apR9vEp)
- - 😝 [He is carrying her home like a bowling ball](http://9gag.com/gag/aByd3PA)
+ - 😝 [What the duck is this](http://9gag.com/gag/a5QX71r)
+ - 😝 [Not your run of the mill chick](http://9gag.com/gag/awyZK58)
  - 💣 [As someone that does the sex a lot](http://9gag.com/gag/adBPX7D)
- - 😝 [British cops found a missing 13yr old girl in a house, naked and blind drunk, with 7 Pakistani men. THEY ARRESTED THE GIRL for being `Drunk &amp; Disorderly`.](http://9gag.com/gag/aBydwvD)
- - 👉 [Uh, no.](http://9gag.com/gag/aoyK9Ym)<!-- MEMES:END -->
+ - 😝 [M.A.H.A.](http://9gag.com/gag/amoA892)
+ - 👉 [The Joker: Kerala edition](http://9gag.com/gag/axyoZgY)<!-- MEMES:END -->
 
 ---
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Link-Busters, an anti-piracy company working for big publishers, passed 2B URL takedown requests sent to Google and is behind 50%+ of Google takedown requests &lpar;Ernesto Van der Sar/TorrentFreak&rpar;](http://www.techmeme.com/250101/p4#a250101p4)
  - [How to Build a Healthier Relationship With Your Screen](https://www.wired.com/story/healthy-screen-time-habits-tech-use/)
  - [The Best Mattress for Hip Pain and Pressure Relief](https://www.cnet.com/health/sleep/best-mattress-for-hip-pain/#ftag=CAD590a51e)
  - [Best Wi-Fi Routers](https://www.cnet.com/home/internet/best-wi-fi-routers/#ftag=CAD590a51e)
- - [20% Off Brooks Promo Code &amp; Deals for January 2025](https://www.wired.com/story/brooks-promo-code/)
- - [17 Best Mattresses You Can Buy Online—We Tested for a Week Each &lpar;2025&rpar;](https://www.wired.com/gallery/best-mattresses/)<!-- TECH:END -->
+ - [20% Off Brooks Promo Code &amp; Deals for January 2025](https://www.wired.com/story/brooks-promo-code/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

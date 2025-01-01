@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Next generation CarPlay is missing in action as Apple fails to hit its own deadline](https://appleinsider.com/articles/25/01/01/next-generation-carplay-is-missing-in-action-as-apple-fails-to-hit-its-own-deadline?utm_medium=rss)
  - [PitchBook: the number of VCs investing in US startups fell from a peak of 8,315 in 2021 to 6,175 in 2024; 9 firms raised 50%+ of the $71B raised by VCs in 2024 &lpar;George Hammond/Financial Times&rpar;](http://www.techmeme.com/250101/p6#a250101p6)
  - [The Cumulus Machine Review: Fast and Frothy Cold Brew](https://www.wired.com/review/cumulus-coffee-the-cumulus-machine/)
  - [If You&#39;re Planning to Remodel This Year, AI Can Help](https://www.cnet.com/tech/services-and-software/if-youre-planning-to-remodel-this-year-ai-can-help/#ftag=CAD590a51e)
- - [Popeye and Tintin are now in the public domain](https://www.theverge.com/2025/1/1/24330191/popeye-tintin-head-2025-public-domain)
- - [Keychron Q5 HE review: Marvelously magnetic mechanical keyboard](https://appleinsider.com/articles/25/01/01/keychron-q5-he-review-marvelously-magnetic-mechanical-keyboard?utm_medium=rss)<!-- TECH:END -->
+ - [Popeye and Tintin are now in the public domain](https://www.theverge.com/2025/1/1/24330191/popeye-tintin-head-2025-public-domain)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

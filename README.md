@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [2nd &#39;Incident&#39; after a woman burnt alive. A man was shoved in front of an NYC subway train today. He is now in critical condition.](http://9gag.com/gag/agmoLBW)
- - 😝 [My fellow IT support](http://9gag.com/gag/aE0qR9G)
- - 💣 [M.A.H.A.](http://9gag.com/gag/amoA892)
- - 😝 [A reason for Korean martial law 2024](http://9gag.com/gag/aD2YGWB)
- - 👉 [Comeback of the decade](http://9gag.com/gag/aO8xVgr)<!-- MEMES:END -->
+ - 😝 [Execution by cannon, Shiraz, Iran. 1890s.](http://9gag.com/gag/aW4GMvZ)
+ - 😝 [British cops found a missing 13yr old girl in a house, naked and blind drunk, with 7 Pakistani men. THEY ARRESTED THE GIRL for being `Drunk &amp; Disorderly`.](http://9gag.com/gag/aBydwvD)
+ - 💣 [My fellow IT support](http://9gag.com/gag/aE0qR9G)
+ - 😝 [HAKUNA HER TATA](http://9gag.com/gag/aLn195W)
+ - 👉 [Uh, no.](http://9gag.com/gag/aoyK9Ym)<!-- MEMES:END -->
 
 ---
 

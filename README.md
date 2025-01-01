@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [An investigation details how predatory men engage in the grooming of child influencers on Instagram under the guise of working as social media professionals &lpar;New York Times&rpar;](http://www.techmeme.com/250101/p3#a250101p3)
+ - [AirDoctor Coupon Codes and Deals: Save 15%](https://www.wired.com/story/airdoctor-coupon-code/)
  - [Hoka Coupon Code: Free Shipping in January 2025](https://www.wired.com/story/hoka-coupon-code/)
  - [OnePlus Promo Code: 20% Off in January 2025](https://www.wired.com/story/oneplus-promo-code/)
- - [Dell Coupon and Promo Codes 10% Off](https://www.wired.com/story/dell-coupon-code/)
- - [Canon Promo Codes and Coupons: Up to $700 Off](https://www.wired.com/story/canon-promo-code/)
- - [Wayfair Coupon and Promo Codes: 15% Off](https://www.wired.com/story/wayfair-coupon/)<!-- TECH:END -->
+ - [Dell Coupon and Promo Codes 10% Off](https://www.wired.com/story/dell-coupon-code/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

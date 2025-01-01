@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Wayfair Coupon and Promo Codes: 15% Off](https://www.wired.com/story/wayfair-coupon/)
- - [Verizon Promo Codes and Deals | Up to $540 Off](https://www.wired.com/story/verizon-promo-code/)
- - [As Beijing pushes for self-sufficiency in the $80B+ per year car chip business, sources say the use of homemade chips in Chinese cars has risen to around 15% &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/250101/p2#a250101p2)
- - [VistaPrint Coupon: 25% Off Printing in 2025](https://www.wired.com/story/vistaprint-coupon-code/)
- - [Squarespace Promo Code: 10% Off in January 2025](https://www.wired.com/story/squarespace-promo-code/)<!-- TECH:END -->
+ - [Hoka Coupon Code: Free Shipping in January 2025](https://www.wired.com/story/hoka-coupon-code/)
+ - [OnePlus Promo Code: 20% Off in January 2025](https://www.wired.com/story/oneplus-promo-code/)
+ - [Dell Coupon and Promo Codes 10% Off](https://www.wired.com/story/dell-coupon-code/)
+ - [Canon Promo Codes and Coupons: Up to $700 Off](https://www.wired.com/story/canon-promo-code/)
+ - [Wayfair Coupon and Promo Codes: 15% Off](https://www.wired.com/story/wayfair-coupon/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

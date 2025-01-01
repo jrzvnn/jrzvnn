@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Comeback of the decade](http://9gag.com/gag/aO8xVgr)
  - 😝 [HAKUNA HER TATA](http://9gag.com/gag/aLn195W)
- - 💣 [No hurricane ever crossed the equator.](http://9gag.com/gag/aBydYXz)
- - 😝 [What kind of a party was that?](http://9gag.com/gag/a7oqZBe)
- - 👉 [Uh, no.](http://9gag.com/gag/aoyK9Ym)<!-- MEMES:END -->
+ - 😝 [No hurricane ever crossed the equator.](http://9gag.com/gag/aBydYXz)
+ - 💣 [As someone that does the sex a lot](http://9gag.com/gag/adBPX7D)
+ - 😝 [Downgrade](http://9gag.com/gag/agmoG3K)
+ - 👉 [What was that?](http://9gag.com/gag/avyQnzX)<!-- MEMES:END -->
 
 ---
 

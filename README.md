@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Hey, Maybe It&#39;s Time to Delete Some Old Chat Histories](https://www.wired.com/story/old-chat-history-delete/)
- - [In 2025, We&#39;re Healing From the Inside-Out. Will Tech Help or Hurt Us?](https://www.cnet.com/health/in-2025-healing-from-inside-out-will-tech-help-or-hurt-us/#ftag=CAD590a51e)
- - [The Social Security COLA 2025 Increase Is Here: Here&#39;s When to Expect Your Boosted Check](https://www.cnet.com/personal-finance/social-security-cola-2025-your-first-increased-check-is-coming-soon/#ftag=CAD590a51e)
- - [The 5 Best Magnesium Supplements of 2025](https://www.cnet.com/health/nutrition/5-best-magnesium-supplements/#ftag=CAD590a51e)
- - [7 Hacks to Improve Your Android Phone&#39;s Performance](https://www.cnet.com/tech/mobile/7-hacks-to-improve-your-android-phones-performance/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [How to Start &lpar;and Keep&rpar; a Healthy Habit &lpar;2025&rpar;](https://www.wired.com/story/how-to-start-a-healthy-habit/)
+ - [Sea Moss Gummies: Side Effects, Benefits and Who Should Try Them](https://www.cnet.com/health/nutrition/sea-moss-gummies-side-effects-benefits-and-who-should-try-them/#ftag=CAD590a51e)
+ - [Best Creatine Supplements of 2025](https://www.cnet.com/health/nutrition/best-creatine-supplements/#ftag=CAD590a51e)
+ - [WatchOS 11.2 Adds Surprising Health Features to Your Apple Watch. Download It Now](https://www.cnet.com/tech/mobile/watchos-11-2-adds-surprising-health-features-to-your-apple-watch-download-it-now/#ftag=CAD590a51e)
+ - [How Becoming an Early Bird Can Transform Your Mental Health and Productivity](https://www.cnet.com/health/sleep/how-becoming-an-early-bird-can-transform-your-mental-health-and-productivity/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

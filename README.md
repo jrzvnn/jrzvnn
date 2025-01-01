@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Not only was she unable to make new memories but she constantly woke up thinking it was the 11th of June, 2019, the day of her injury.](http://9gag.com/gag/azx2jYz)
  - 😝 [Downgrade](http://9gag.com/gag/agmoG3K)
- - 💣 [A reason for Korean martial law 2024](http://9gag.com/gag/aD2YGWB)
- - 😝 [As someone that does the sex a lot](http://9gag.com/gag/adBPX7D)
- - 👉 [Uh, no.](http://9gag.com/gag/aoyK9Ym)<!-- MEMES:END -->
+ - 😝 [Not only was she unable to make new memories but she constantly woke up thinking it was the 11th of June, 2019, the day of her injury.](http://9gag.com/gag/azx2jYz)
+ - 💣 [What kind of a party was that?](http://9gag.com/gag/a7oqZBe)
+ - 😝 [No hurricane ever crossed the equator.](http://9gag.com/gag/aBydYXz)
+ - 👉 [As someone that does the sex a lot](http://9gag.com/gag/adBPX7D)<!-- MEMES:END -->
 
 ---
 

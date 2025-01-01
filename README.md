@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Uh, no.](http://9gag.com/gag/aoyK9Ym)
  - 😝 [No title](http://9gag.com/gag/azx2AYq)
- - 💣 [Comeback of the decade](http://9gag.com/gag/aO8xVgr)
- - 😝 [British cops found a missing 13yr old girl in a house, naked and blind drunk, with 7 Pakistani men. THEY ARRESTED THE GIRL for being `Drunk &amp; Disorderly`.](http://9gag.com/gag/aBydwvD)
- - 👉 [No hurricane ever crossed the equator.](http://9gag.com/gag/aBydYXz)<!-- MEMES:END -->
+ - 😝 [Bro Gave The Safest Answer , He Wasn&#39;t Going To Fall For That Trap](http://9gag.com/gag/aoyK98m)
+ - 💣 [A reason for Korean martial law 2024](http://9gag.com/gag/aD2YGWB)
+ - 😝 [M.A.H.A.](http://9gag.com/gag/amoA892)
+ - 👉 [Rabbit meat is running](http://9gag.com/gag/aQzEnvw)<!-- MEMES:END -->
 
 ---
 

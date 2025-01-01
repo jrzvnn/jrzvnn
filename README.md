@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Most definitely](http://9gag.com/gag/aLn1BzP)
- - 😝 [Tradition](http://9gag.com/gag/an7zyeq)
- - 💣 [Based](http://9gag.com/gag/aGyEx7X)
- - 😝 [British cops found a missing 13yr old girl in a house, naked and blind drunk, with 7 Pakistani men. THEY ARRESTED THE GIRL for being `Drunk &amp; Disorderly`.](http://9gag.com/gag/aBydwvD)
- - 👉 [Kids now having it easy](http://9gag.com/gag/aW4G6n2)<!-- MEMES:END -->
+ - 😝 [Australian gal just lost her manager and contract cancelled because she refused to change the lyrics.](http://9gag.com/gag/aGyExAz)
+ - 😝 [M.A.H.A.](http://9gag.com/gag/amoA892)
+ - 💣 [No title](http://9gag.com/gag/azx2AYq)
+ - 😝 [No hurricane ever crossed the equator.](http://9gag.com/gag/aBydYXz)
+ - 👉 [As someone that does the sex a lot](http://9gag.com/gag/adBPX7D)<!-- MEMES:END -->
 
 ---
 

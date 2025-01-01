@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [OP says Happy New Year](http://9gag.com/gag/a6ZqQ0L)
- - 😝 [New Year&#39;s celebration in China.](http://9gag.com/gag/aqyermM)
- - 💣 [Happy new year my fellow degenerates](http://9gag.com/gag/aQzEM1w)
- - 😝 [Definitely not AI.](http://9gag.com/gag/aQzE9eW)
- - 👉 [2nd &#39;Incident&#39; after a woman burnt alive. A man was shoved in front of an NYC subway train today. He is now in critical condition.](http://9gag.com/gag/agmoLBW)<!-- MEMES:END -->
+ - 😝 [HAKUNA HER TATA](http://9gag.com/gag/aLn195W)
+ - 😝 [British cops found a missing 13yr old girl in a house, naked and blind drunk, with 7 Pakistani men. THEY ARRESTED THE GIRL for being `Drunk &amp; Disorderly`.](http://9gag.com/gag/aBydwvD)
+ - 💣 [A reason for Korean martial law 2024](http://9gag.com/gag/aD2YGWB)
+ - 😝 [What kind of a party was that?](http://9gag.com/gag/a7oqZBe)
+ - 👉 [Uh, no.](http://9gag.com/gag/aoyK9Ym)<!-- MEMES:END -->
 
 ---
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [People reacting to the new Japanese Maglev bullet train passing right by them during a test run.](http://9gag.com/gag/aAy0PZE)
- - 😝 [MARVEL RIVALS MADE A `OOPS DID I DO THAT`](http://9gag.com/gag/ajPVApw)
- - 💣 [Kids now having it easy](http://9gag.com/gag/aW4G6n2)
- - 😝 [IQ test among military in Denmark showed a weird dependency of the IQ with the person&#39;s name](http://9gag.com/gag/aBydWmx)
- - 👉 [OP says Happy New Year](http://9gag.com/gag/a6ZqQ0L)<!-- MEMES:END -->
+ - 😝 [What kind of a party was that?](http://9gag.com/gag/a7oqZBe)
+ - 😝 [Uh, no.](http://9gag.com/gag/aoyK9Ym)
+ - 💣 [Comeback of the decade](http://9gag.com/gag/aO8xVgr)
+ - 😝 [Execution by cannon, Shiraz, Iran. 1890s.](http://9gag.com/gag/aW4GMvZ)
+ - 👉 [HAKUNA HER TATA](http://9gag.com/gag/aLn195W)<!-- MEMES:END -->
 
 ---
 

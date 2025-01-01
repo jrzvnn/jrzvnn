@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Keychron Q5 HE review: Marvelously magnetic mechanical keyboard](https://appleinsider.com/articles/25/01/01/keychron-q5-he-review-marvelously-magnetic-mechanical-keyboard?utm_medium=rss)
  - [Our Favorite Fitness Apps for 2025, Tested and Reviewed](https://www.wired.com/gallery/best-fitness-apps-and-services/)
  - [Make the Most of This Great New Year Deal on JBL&#39;s Tune Earbuds for Just $45](https://www.cnet.com/deals/make-the-most-of-this-new-year-deal-to-grab-the-jbl-tune-earbuds-for-just-45/#ftag=CAD590a51e)
  - [You Really Should Add These Netflix Sci-Fi TV Shows to Your Watch List](https://www.cnet.com/tech/services-and-software/best-sci-fi-tv-shows-on-netflix-2024/#ftag=CAD590a51e)
- - [14 Unmissable Movies to Stream on Netflix Right Now](https://www.cnet.com/tech/services-and-software/best-movies-on-netflix/#ftag=CAD590a51e)
- - [Do Your iPhone a Favor in 2025 and Start Clearing Your Cache](https://www.cnet.com/tech/services-and-software/do-your-phone-a-favor-in-2025-and-start-clearing-your-cache/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [14 Unmissable Movies to Stream on Netflix Right Now](https://www.cnet.com/tech/services-and-software/best-movies-on-netflix/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Uh, no.](http://9gag.com/gag/aoyK9Ym)
- - 😝 [M.A.H.A.](http://9gag.com/gag/amoA892)
- - 💣 [No title](http://9gag.com/gag/azx2AYq)
- - 😝 [Comeback of the decade](http://9gag.com/gag/aO8xVgr)
- - 👉 [No hurricane ever crossed the equator.](http://9gag.com/gag/aBydYXz)<!-- MEMES:END -->
+ - 😝 [No worries they can buy another one from temu for 50 bucks](http://9gag.com/gag/a6ZqQD8)
+ - 😝 [Most definitely](http://9gag.com/gag/aLn1BzP)
+ - 💣 [Tradition](http://9gag.com/gag/an7zyeq)
+ - 😝 [Based](http://9gag.com/gag/aGyEx7X)
+ - 👉 [Kids now having it easy](http://9gag.com/gag/aW4G6n2)<!-- MEMES:END -->
 
 ---
 

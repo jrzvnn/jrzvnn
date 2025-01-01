@@ -158,10 +158,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- TECH:START -->
  - [Our Favorite Fitness Apps for 2025, Tested and Reviewed](https://www.wired.com/gallery/best-fitness-apps-and-services/)
- - [Is Sleep’s Dopesmoker still the heaviest album of all time?](https://www.theverge.com/2025/1/1/24333190/heavier-than-dopesmoker)
- - [Alibaba sells Sun Art Retail stake to PE firm DCP for ~$1.6B, after paying ~$3.6B in 2020 to double the stake to 70%+, as it focuses on its core online business &lpar;Bloomberg&rpar;](http://www.techmeme.com/250101/p5#a250101p5)
- - [Best MP3 Players for 2025](https://www.cnet.com/tech/mobile/best-mp3-player/#ftag=CAD590a51e)
- - [Don&#39;t Quit These Streaming Services Just Yet in January 2025](https://www.cnet.com/tech/services-and-software/dont-quit-these-streaming-services-just-yet-in-january-2025/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Make the Most of This Great New Year Deal on JBL&#39;s Tune Earbuds for Just $45](https://www.cnet.com/deals/make-the-most-of-this-new-year-deal-to-grab-the-jbl-tune-earbuds-for-just-45/#ftag=CAD590a51e)
+ - [You Really Should Add These Netflix Sci-Fi TV Shows to Your Watch List](https://www.cnet.com/tech/services-and-software/best-sci-fi-tv-shows-on-netflix-2024/#ftag=CAD590a51e)
+ - [14 Unmissable Movies to Stream on Netflix Right Now](https://www.cnet.com/tech/services-and-software/best-movies-on-netflix/#ftag=CAD590a51e)
+ - [Do Your iPhone a Favor in 2025 and Start Clearing Your Cache](https://www.cnet.com/tech/services-and-software/do-your-phone-a-favor-in-2025-and-start-clearing-your-cache/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

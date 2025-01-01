@@ -157,7 +157,7 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Huawei&#39;s rotating chair Meng Wanzhou says that Huawei is helping train 300,000 tech students a year, in cooperation with 3,000+ universities in 110 countries &lpar;Nikkei Asia&rpar;](http://www.techmeme.com/250101/p12#a250101p12)
+ - [Huawei Rotating Chair Meng Wanzhou says the company is helping train 300,000+ tech students per year, in cooperation with 3,000+ universities in 110 countries &lpar;Nikkei Asia&rpar;](http://www.techmeme.com/250101/p12#a250101p12)
  - [Meta saying it expects AI characters to populate its apps is its friendly rebrand of an effective but alienating effort to automate social interactions &lpar;John Herrman/New York Magazine&rpar;](http://www.techmeme.com/250101/p11#a250101p11)
  - [How we work: Oliver Haslam&#39;s MacBook Pro-powered setup](https://appleinsider.com/articles/25/01/01/how-we-work-oliver-haslams-macbook-pro-powered-setup?utm_medium=rss)
  - [Apple Watch Series 10 Returns to Record Low Price With This Deal](https://www.cnet.com/deals/apple-watch-series-10-returns-to-record-low-price-with-this-deal/#ftag=CAD590a51e)

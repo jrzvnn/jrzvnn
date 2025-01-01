@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [He is carrying her home like a bowling ball](http://9gag.com/gag/aByd3PA)
+ - 😝 [Made in China.](http://9gag.com/gag/aYQVWrm)
  - 😝 [M.A.H.A.](http://9gag.com/gag/amoA892)
- - 💣 [Why are some people so stupid?!](http://9gag.com/gag/abAvZYE)
- - 😝 [Comeback of the decade](http://9gag.com/gag/aO8xVgr)
- - 👉 [As someone that does the sex a lot](http://9gag.com/gag/adBPX7D)<!-- MEMES:END -->
+ - 💣 [Her eyes show she is at the start of slowly losing her kindness to daily BS from this type of people.](http://9gag.com/gag/adBPp99)
+ - 😝 [Uh, no.](http://9gag.com/gag/aoyK9Ym)
+ - 👉 [Why are some people so stupid?!](http://9gag.com/gag/abAvZYE)<!-- MEMES:END -->
 
 ---
 

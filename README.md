@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [What the duck is this](http://9gag.com/gag/a5QX71r)
  - 😝 [Not your run of the mill chick](http://9gag.com/gag/awyZK58)
- - 💣 [As someone that does the sex a lot](http://9gag.com/gag/adBPX7D)
- - 😝 [M.A.H.A.](http://9gag.com/gag/amoA892)
- - 👉 [The Joker: Kerala edition](http://9gag.com/gag/axyoZgY)<!-- MEMES:END -->
+ - 😝 [`My son won&#39;t miss even a single day of school, and now I know why.`](http://9gag.com/gag/aE0qnbp)
+ - 💣 [M.A.H.A.](http://9gag.com/gag/amoA892)
+ - 😝 [British cops found a missing 13yr old girl in a house, naked and blind drunk, with 7 Pakistani men. THEY ARRESTED THE GIRL for being `Drunk &amp; Disorderly`.](http://9gag.com/gag/aBydwvD)
+ - 👉 [Comeback of the decade](http://9gag.com/gag/aO8xVgr)<!-- MEMES:END -->
 
 ---
 

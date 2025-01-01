@@ -166,9 +166,9 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [The Joker: Kerala edition](http://9gag.com/gag/axyoZgY)
  - 😝 [Uh, no.](http://9gag.com/gag/aoyK9Ym)
- - 💣 [M.A.H.A.](http://9gag.com/gag/amoA892)
+ - 😝 [M.A.H.A.](http://9gag.com/gag/amoA892)
+ - 💣 [No title](http://9gag.com/gag/azx2AYq)
  - 😝 [Comeback of the decade](http://9gag.com/gag/aO8xVgr)
  - 👉 [No hurricane ever crossed the equator.](http://9gag.com/gag/aBydYXz)<!-- MEMES:END -->
 

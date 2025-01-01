@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Happy new year my fellow degenerates](http://9gag.com/gag/aQzEM1w)
- - 😝 [New Year&#39;s celebration in China.](http://9gag.com/gag/aqyermM)
- - 💣 [IQ test among military in Denmark showed a weird dependency of the IQ with the person&#39;s name](http://9gag.com/gag/aBydWmx)
- - 😝 [2nd &#39;Incident&#39; after a woman burnt alive. A man was shoved in front of an NYC subway train today. He is now in critical condition.](http://9gag.com/gag/agmoLBW)
- - 👉 [Definitely not AI.](http://9gag.com/gag/aQzE9eW)<!-- MEMES:END -->
+ - 😝 [No title](http://9gag.com/gag/azx2AYq)
+ - 😝 [A reason for Korean martial law 2024](http://9gag.com/gag/aD2YGWB)
+ - 💣 [What kind of a party was that?](http://9gag.com/gag/a7oqZBe)
+ - 😝 [Uh, no.](http://9gag.com/gag/aoyK9Ym)
+ - 👉 [British cops found a missing 13yr old girl in a house, naked and blind drunk, with 7 Pakistani men. THEY ARRESTED THE GIRL for being `Drunk &amp; Disorderly`.](http://9gag.com/gag/aBydwvD)<!-- MEMES:END -->
 
 ---
 

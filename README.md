@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [HAKUNA HER TATA](http://9gag.com/gag/aLn195W)
- - 😝 [No hurricane ever crossed the equator.](http://9gag.com/gag/aBydYXz)
- - 💣 [As someone that does the sex a lot](http://9gag.com/gag/adBPX7D)
- - 😝 [Downgrade](http://9gag.com/gag/agmoG3K)
- - 👉 [What was that?](http://9gag.com/gag/avyQnzX)<!-- MEMES:END -->
+ - 😝 [OP says Happy New Year](http://9gag.com/gag/a6ZqQ0L)
+ - 😝 [New Year&#39;s celebration in China.](http://9gag.com/gag/aqyermM)
+ - 💣 [Happy new year my fellow degenerates](http://9gag.com/gag/aQzEM1w)
+ - 😝 [Definitely not AI.](http://9gag.com/gag/aQzE9eW)
+ - 👉 [2nd &#39;Incident&#39; after a woman burnt alive. A man was shoved in front of an NYC subway train today. He is now in critical condition.](http://9gag.com/gag/agmoLBW)<!-- MEMES:END -->
 
 ---
 

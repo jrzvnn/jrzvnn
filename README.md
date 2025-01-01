@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [A reason for Korean martial law 2024](http://9gag.com/gag/aD2YGWB)
+ - 😝 [M.A.H.A.](http://9gag.com/gag/amoA892)
+ - 💣 [Fellow females, little help?](http://9gag.com/gag/azx2VZZ)
  - 😝 [What was that?](http://9gag.com/gag/avyQnzX)
- - 😝 [Her eyes show she is at the start of slowly losing her kindness to daily BS from this type of people.](http://9gag.com/gag/adBPp99)
- - 💣 [Just ignore the shit](http://9gag.com/gag/apR9vEp)
- - 😝 [The Joker: Kerala edition](http://9gag.com/gag/axyoZgY)
- - 👉 [M.A.H.A.](http://9gag.com/gag/amoA892)<!-- MEMES:END -->
+ - 👉 [Wise choice](http://9gag.com/gag/a34ZLBN)<!-- MEMES:END -->
 
 ---
 

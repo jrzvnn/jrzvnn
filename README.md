@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [No title](http://9gag.com/gag/azx2AYq)
- - 😝 [M.A.H.A.](http://9gag.com/gag/amoA892)
- - 💣 [No hurricane ever crossed the equator.](http://9gag.com/gag/aBydYXz)
- - 😝 [Downgrade](http://9gag.com/gag/agmoG3K)
- - 👉 [A reason for Korean martial law 2024](http://9gag.com/gag/aD2YGWB)<!-- MEMES:END -->
+ - 😝 [HAKUNA HER TATA](http://9gag.com/gag/aLn195W)
+ - 😝 [No hurricane ever crossed the equator.](http://9gag.com/gag/aBydYXz)
+ - 💣 [Uh, no.](http://9gag.com/gag/aoyK9Ym)
+ - 😝 [What kind of a party was that?](http://9gag.com/gag/a7oqZBe)
+ - 👉 [As someone that does the sex a lot](http://9gag.com/gag/adBPX7D)<!-- MEMES:END -->
 
 ---
 

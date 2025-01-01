@@ -158,10 +158,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- TECH:START -->
  - [Unreliable leakers agree on unlikely &#39;iPhone 16E&#39; name for iPhone SE 4](https://appleinsider.com/articles/25/01/01/unreliable-leakers-agree-on-unlikely-iphone-16e-name-for-iphone-se-4?utm_medium=rss)
+ - [Act Fast to Get a New PS5 Slim for $75 Off](https://www.cnet.com/deals/act-fast-get-new-ps5-slim-for-75-off/#ftag=CAD590a51e)
  - [Elon Musk got new support for his OpenAI lawsuit in filings last week, including from tech advocacy group Encode, backed by AI researchers like Geoffrey Hinton &lpar;Gerrit De Vynck/Washington Post&rpar;](http://www.techmeme.com/250101/p9#a250101p9)
- - [US sanctions Russian group over AI-generated election disinformation](https://www.theverge.com/2025/1/1/24333522/us-sanctions-iran-russia-election-interference)
- - [A judge blocks parts of California&#39;s SB 976, finding it may infringe on First Amendment rights, but allows a provision banning &quot;addictive feeds&quot; for minors &lpar;Matt Simons/Courthouse News Service&rpar;](http://www.techmeme.com/250101/p8#a250101p8)
- - [If You Made Money via PayPal, Venmo or Cash App in 2024, Get Ready for This IRS Tax Change](https://www.cnet.com/personal-finance/taxes/if-you-made-money-via-paypal-venmo-or-cash-app-in-2024-get-ready-for-this-irs-tax-change/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Best Pillows for Back Sleepers in 2025](https://www.cnet.com/health/sleep/best-pillows-for-back-sleepers/#ftag=CAD590a51e)
+ - [Best Outdoor Smart Plugs for 2025](https://www.cnet.com/home/smart-home/best-outdoor-smart-plugs/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

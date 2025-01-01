@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [People reacting to the new Japanese Maglev bullet train passing right by them during a test run.](http://9gag.com/gag/aAy0PZE)
- - 😝 [Based](http://9gag.com/gag/aGyEx7X)
- - 💣 [Gf didn&#39;t have time to buy me a present](http://9gag.com/gag/aAy0dY2)
- - 😝 [Kids now having it easy](http://9gag.com/gag/aW4G6n2)
- - 👉 [MARVEL RIVALS MADE A `OOPS DID I DO THAT`](http://9gag.com/gag/ajPVApw)<!-- MEMES:END -->
+ - 😝 [As someone that does the sex a lot](http://9gag.com/gag/adBPX7D)
+ - 😝 [Uh, no.](http://9gag.com/gag/aoyK9Ym)
+ - 💣 [M.A.H.A.](http://9gag.com/gag/amoA892)
+ - 😝 [HAKUNA HER TATA](http://9gag.com/gag/aLn195W)
+ - 👉 [A reason for Korean martial law 2024](http://9gag.com/gag/aD2YGWB)<!-- MEMES:END -->
 
 ---
 

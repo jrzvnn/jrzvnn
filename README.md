@@ -168,8 +168,8 @@ R                        1 repo              ░░░░░░░░░░░�
 <!-- MEMES:START -->
  - 😝 [People reacting to the new Japanese Maglev bullet train passing right by them during a test run.](http://9gag.com/gag/aAy0PZE)
  - 😝 [MARVEL RIVALS MADE A `OOPS DID I DO THAT`](http://9gag.com/gag/ajPVApw)
- - 💣 [IQ test among military in Denmark showed a weird dependency of the IQ with the person&#39;s name](http://9gag.com/gag/aBydWmx)
- - 😝 [Kids now having it easy](http://9gag.com/gag/aW4G6n2)
+ - 💣 [Kids now having it easy](http://9gag.com/gag/aW4G6n2)
+ - 😝 [IQ test among military in Denmark showed a weird dependency of the IQ with the person&#39;s name](http://9gag.com/gag/aBydWmx)
  - 👉 [OP says Happy New Year](http://9gag.com/gag/a6ZqQ0L)<!-- MEMES:END -->
 
 ---

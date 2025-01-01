@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Rabbit meat is running](http://9gag.com/gag/aQzEnvw)
- - 😝 [What could have been](http://9gag.com/gag/axyoZjM)
- - 💣 [Not your run of the mill chick](http://9gag.com/gag/awyZK58)
- - 😝 [End the year with a surprise from your beloved!](http://9gag.com/gag/a87qMM3)
- - 👉 [`My son won&#39;t miss even a single day of school, and now I know why.`](http://9gag.com/gag/aE0qnbp)<!-- MEMES:END -->
+ - 😝 [He is carrying her home like a bowling ball](http://9gag.com/gag/aByd3PA)
+ - 😝 [M.A.H.A.](http://9gag.com/gag/amoA892)
+ - 💣 [Why are some people so stupid?!](http://9gag.com/gag/abAvZYE)
+ - 😝 [Comeback of the decade](http://9gag.com/gag/aO8xVgr)
+ - 👉 [As someone that does the sex a lot](http://9gag.com/gag/adBPX7D)<!-- MEMES:END -->
 
 ---
 

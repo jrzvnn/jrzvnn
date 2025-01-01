@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [The Joker: Kerala edition](http://9gag.com/gag/axyoZgY)
- - 😝 [Not your run of the mill chick](http://9gag.com/gag/awyZK58)
+ - 😝 [For a change !](http://9gag.com/gag/a1mPYMG)
+ - 😝 [M.A.H.A.](http://9gag.com/gag/amoA892)
  - 💣 [No hurricane ever crossed the equator.](http://9gag.com/gag/aBydYXz)
- - 😝 [A reason for Korean martial law 2024](http://9gag.com/gag/aD2YGWB)
- - 👉 [Makes you think.](http://9gag.com/gag/awyZ7py)<!-- MEMES:END -->
+ - 😝 [The Joker: Kerala edition](http://9gag.com/gag/axyoZgY)
+ - 👉 [Height marks on the wall](http://9gag.com/gag/a4PoZQv)<!-- MEMES:END -->
 
 ---
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [US soldier arrested after allegedly posting hacked Trump and Harris call logs](https://www.theverge.com/2025/1/1/24333523/us-soldier-arrested-snowflake-data-sale-att)
  - [Unreliable leakers agree on unlikely &#39;iPhone 16E&#39; name for iPhone SE 4](https://appleinsider.com/articles/25/01/01/unreliable-leakers-agree-on-unlikely-iphone-16e-name-for-iphone-se-4?utm_medium=rss)
  - [The defense industry is poised for a deal surge as firms expand in AI, drones, and space systems; Bain: VC deal value in the sector has risen 18x in a decade &lpar;Sylvia Pfeifer/Financial Times&rpar;](http://www.techmeme.com/250101/p10#a250101p10)
  - [A Cybertruck ‘blew up’ outside Trump’s hotel in Las Vegas](https://www.theverge.com/2025/1/1/24333612/cybertruck-fire-explosion-trump-hotel-las-vegas)
- - [Best Smart Scale for 2025](https://www.cnet.com/health/fitness/best-smart-scale/#ftag=CAD590a51e)
- - [Best Food Processors of 2025: KitchenAid, Cuisinart and More](https://www.cnet.com/home/kitchen-and-household/best-food-processor/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Best Smart Scale for 2025](https://www.cnet.com/health/fitness/best-smart-scale/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

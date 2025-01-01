@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Australian gal just lost her manager and contract cancelled because she refused to change the lyrics.](http://9gag.com/gag/aGyExAz)
- - 😝 [M.A.H.A.](http://9gag.com/gag/amoA892)
- - 💣 [No title](http://9gag.com/gag/azx2AYq)
- - 😝 [No hurricane ever crossed the equator.](http://9gag.com/gag/aBydYXz)
- - 👉 [As someone that does the sex a lot](http://9gag.com/gag/adBPX7D)<!-- MEMES:END -->
+ - 😝 [People reacting to the new Japanese Maglev bullet train passing right by them during a test run.](http://9gag.com/gag/aAy0PZE)
+ - 😝 [Tradition](http://9gag.com/gag/an7zyeq)
+ - 💣 [Based](http://9gag.com/gag/aGyEx7X)
+ - 😝 [Kids now having it easy](http://9gag.com/gag/aW4G6n2)
+ - 👉 [MARVEL RIVALS MADE A `OOPS DID I DO THAT`](http://9gag.com/gag/ajPVApw)<!-- MEMES:END -->
 
 ---
 

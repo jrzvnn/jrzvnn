@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [A Very Happy New Year from AppleInsider](https://appleinsider.com/articles/25/01/01/a-very-happy-new-year-from-appleinsider?utm_medium=rss)
  - [Report: users on Douyin, WeChat, and other short video apps in China dropped for the first time, reaching 1.05B in June 2024, ~300M fewer than in December 2023 &lpar;Coco Feng/South China Morning Post&rpar;](http://www.techmeme.com/241231/p16#a241231p16)
  - [Best Electric Bike for 2025](https://www.cnet.com/roadshow/news/best-electric-bike/#ftag=CAD590a51e)
  - [Best Instant Pots for 2025](https://www.cnet.com/news/best-instant-pot/#ftag=CAD590a51e)
- - [The US Treasury sanctions Iranian and Russian entities over attempted election interference, including a Moscow entity that directed the creation of deepfakes &lpar;Raquel Coronell Uribe/NBC News&rpar;](http://www.techmeme.com/241231/p15#a241231p15)
- - [Start Your New Year Off Right With Up to $700 Off Roborock Robot Vacuums](https://www.cnet.com/deals/start-your-new-year-off-right-with-up-to-700-off-roborock-robot-vacuums/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [The US Treasury sanctions Iranian and Russian entities over attempted election interference, including a Moscow entity that directed the creation of deepfakes &lpar;Raquel Coronell Uribe/NBC News&rpar;](http://www.techmeme.com/241231/p15#a241231p15)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

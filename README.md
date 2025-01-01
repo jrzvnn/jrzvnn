@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [HAKUNA HER TATA](http://9gag.com/gag/aLn195W)
- - 😝 [What kind of a party was that?](http://9gag.com/gag/a7oqZBe)
- - 💣 [No hurricane ever crossed the equator.](http://9gag.com/gag/aBydYXz)
- - 😝 [Downgrade](http://9gag.com/gag/agmoG3K)
- - 👉 [Execution by cannon, Shiraz, Iran. 1890s.](http://9gag.com/gag/aW4GMvZ)<!-- MEMES:END -->
+ - 😝 [Happy new year my fellow degenerates](http://9gag.com/gag/aQzEM1w)
+ - 😝 [New Year&#39;s celebration in China.](http://9gag.com/gag/aqyermM)
+ - 💣 [IQ test among military in Denmark showed a weird dependency of the IQ with the person&#39;s name](http://9gag.com/gag/aBydWmx)
+ - 😝 [2nd &#39;Incident&#39; after a woman burnt alive. A man was shoved in front of an NYC subway train today. He is now in critical condition.](http://9gag.com/gag/agmoLBW)
+ - 👉 [Definitely not AI.](http://9gag.com/gag/aQzE9eW)<!-- MEMES:END -->
 
 ---
 

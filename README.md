@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Not your run of the mill chick](http://9gag.com/gag/awyZK58)
- - 😝 [`My son won&#39;t miss even a single day of school, and now I know why.`](http://9gag.com/gag/aE0qnbp)
+ - 😝 [The Joker: Kerala edition](http://9gag.com/gag/axyoZgY)
+ - 😝 [Uh, no.](http://9gag.com/gag/aoyK9Ym)
  - 💣 [M.A.H.A.](http://9gag.com/gag/amoA892)
- - 😝 [British cops found a missing 13yr old girl in a house, naked and blind drunk, with 7 Pakistani men. THEY ARRESTED THE GIRL for being `Drunk &amp; Disorderly`.](http://9gag.com/gag/aBydwvD)
- - 👉 [Comeback of the decade](http://9gag.com/gag/aO8xVgr)<!-- MEMES:END -->
+ - 😝 [Comeback of the decade](http://9gag.com/gag/aO8xVgr)
+ - 👉 [No hurricane ever crossed the equator.](http://9gag.com/gag/aBydYXz)<!-- MEMES:END -->
 
 ---
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [For a change !](http://9gag.com/gag/a1mPYMG)
- - 😝 [M.A.H.A.](http://9gag.com/gag/amoA892)
- - 💣 [No hurricane ever crossed the equator.](http://9gag.com/gag/aBydYXz)
+ - 😝 [British cops found a missing 13yr old girl in a house, naked and blind drunk, with 7 Pakistani men. THEY ARRESTED THE GIRL for being `Drunk &amp; Disorderly`.](http://9gag.com/gag/aBydwvD)
+ - 😝 [Height marks on the wall](http://9gag.com/gag/a4PoZQv)
+ - 💣 [Pablo has more snow on his table than in Lithuania during Christmas :&lpar;](http://9gag.com/gag/aLn1PWV)
  - 😝 [The Joker: Kerala edition](http://9gag.com/gag/axyoZgY)
- - 👉 [Height marks on the wall](http://9gag.com/gag/a4PoZQv)<!-- MEMES:END -->
+ - 👉 [`My son won&#39;t miss even a single day of school, and now I know why.`](http://9gag.com/gag/aE0qnbp)<!-- MEMES:END -->
 
 ---
 

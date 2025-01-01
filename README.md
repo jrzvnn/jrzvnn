@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [No hurricane ever crossed the equator.](http://9gag.com/gag/aBydYXz)
- - 😝 [A reason for Korean martial law 2024](http://9gag.com/gag/aD2YGWB)
- - 💣 [British cops found a missing 13yr old girl in a house, naked and blind drunk, with 7 Pakistani men. THEY ARRESTED THE GIRL for being `Drunk &amp; Disorderly`.](http://9gag.com/gag/aBydwvD)
+ - 😝 [HAKUNA HER TATA](http://9gag.com/gag/aLn195W)
  - 😝 [What kind of a party was that?](http://9gag.com/gag/a7oqZBe)
- - 👉 [Downgrade](http://9gag.com/gag/agmoG3K)<!-- MEMES:END -->
+ - 💣 [No hurricane ever crossed the equator.](http://9gag.com/gag/aBydYXz)
+ - 😝 [Downgrade](http://9gag.com/gag/agmoG3K)
+ - 👉 [Execution by cannon, Shiraz, Iran. 1890s.](http://9gag.com/gag/aW4GMvZ)<!-- MEMES:END -->
 
 ---
 

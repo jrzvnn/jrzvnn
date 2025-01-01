@@ -158,10 +158,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- TECH:START -->
  - [US soldier arrested after allegedly posting hacked Trump and Harris call logs](https://www.theverge.com/2025/1/1/24333523/us-soldier-arrested-snowflake-data-sale-att)
+ - [Say Goodbye Your Nighttime Anxiety: This New Sleep Hack Won&#39;t Have You Counting Sheep](https://www.cnet.com/health/sleep/say-goodbye-to-your-nighttime-anxiety-this-new-sleep-hack-wont-have-you-counting-sheep/#ftag=CAD590a51e)
  - [Unreliable leakers agree on unlikely &#39;iPhone 16E&#39; name for iPhone SE 4](https://appleinsider.com/articles/25/01/01/unreliable-leakers-agree-on-unlikely-iphone-16e-name-for-iphone-se-4?utm_medium=rss)
- - [The defense industry is poised for a deal surge as firms expand in AI, drones, and space systems; Bain: VC deal value in the sector has risen 18x in a decade &lpar;Sylvia Pfeifer/Financial Times&rpar;](http://www.techmeme.com/250101/p10#a250101p10)
- - [A Cybertruck ‘blew up’ outside Trump’s hotel in Las Vegas](https://www.theverge.com/2025/1/1/24333612/cybertruck-fire-explosion-trump-hotel-las-vegas)
- - [Best Smart Scale for 2025](https://www.cnet.com/health/fitness/best-smart-scale/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Best Wireless Earbuds and Headphones for Your Samsung Phone in 2025](https://www.cnet.com/tech/mobile/best-wireless-earbuds-and-headphones-for-samsung-phones/#ftag=CAD590a51e)
+ - [Best Google Pixel Deals: Ring In 2025 With a Brand-New Phone](https://www.cnet.com/deals/best-google-pixel-deals/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

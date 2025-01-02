@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Meta appoints new Trump-friendly policy chief](https://www.theverge.com/2025/1/2/24334432/meta-trump-friendly-policy-chief-joel-kaplan-nick-clegg)
  - [The best deals on MacBooks right now](https://www.theverge.com/22399419/apple-macbook-air-pro-mac-mini-imac-deals)
  - [Spotify debuts a Partner Program in the US, the UK, Canada, and Australia, letting popular podcast hosts monetize video content, after announcing it in November &lpar;Lauren Forristal/TechCrunch&rpar;](http://www.techmeme.com/250102/p20#a250102p20)
  - [Third-party iPad smart connector accessories not working with iPadOS 18.3 beta](https://appleinsider.com/articles/25/01/02/third-party-ipad-smart-connector-accessories-not-working-with-ipados-183-beta?utm_medium=rss)
- - [&#39;Marvel Rivals&#39; players face 100-year ban for play on macOS](https://appleinsider.com/articles/25/01/02/marvel-rivals-players-face-100-year-ban-for-play-on-macos?utm_medium=rss)
- - [Net neutrality eviscerated by appeals court ruling](https://www.theverge.com/2025/1/2/24334309/net-neutrality-struck-down-sixth-circuit-chevron-deference)<!-- TECH:END -->
+ - [&#39;Marvel Rivals&#39; players face 100-year ban for play on macOS](https://appleinsider.com/articles/25/01/02/marvel-rivals-players-face-100-year-ban-for-play-on-macos?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

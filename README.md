@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [Avid nerds start camping out at the Pitch Drop experiment to catch the tenth droplet. `Any day now, my dudes. Aaaaanyyyyy daaaaayyyyy nowwwww...`](http://9gag.com/gag/a2vKoNE)
+ - 😝 [BREAKING: US Representative AOC found dead after suicide.](http://9gag.com/gag/awyZnp8)
+ - 💣 [Why wont he understand!](http://9gag.com/gag/abAvpyp)
  - 😝 [Uncovering the portal to hell](http://9gag.com/gag/a7oqD3q)
- - 😝 [What kind of a party was that?](http://9gag.com/gag/a7oqZBe)
- - 💣 [Ponytail blade](http://9gag.com/gag/a9yqrrZ)
- - 😝 [British cops found a missing 13yr old girl in a house, naked and blind drunk, with 7 Pakistani men. THEY ARRESTED THE GIRL for being `Drunk &amp; Disorderly`.](http://9gag.com/gag/aBydwvD)
- - 👉 [Its average nowadays](http://9gag.com/gag/azx2Xbq)<!-- MEMES:END -->
+ - 👉 [Take a note 9gaggers&#39;s virgins selfclaimed womanizer](http://9gag.com/gag/aBydw5P)<!-- MEMES:END -->
 
 ---
 

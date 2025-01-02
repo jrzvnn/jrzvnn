@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [HAKUNA HER TATA](http://9gag.com/gag/aLn195W)
- - 😝 [Kids admiring bike](http://9gag.com/gag/a7oqr0w)
- - 💣 [Ponytail blade](http://9gag.com/gag/a9yqrrZ)
- - 😝 [What was that?](http://9gag.com/gag/avyQnzX)
- - 👉 [Execution by cannon, Shiraz, Iran. 1890s.](http://9gag.com/gag/aW4GMvZ)<!-- MEMES:END -->
+ - 😝 [Go sport](http://9gag.com/gag/a7oqDnw)
+ - 😝 [Downgrade](http://9gag.com/gag/agmoG3K)
+ - 💣 [Best fight ever \u2026](http://9gag.com/gag/aByd8Xz)
+ - 😝 [Strong icelandic stone](http://9gag.com/gag/aZZDpM9)
+ - 👉 [Kids admiring bike](http://9gag.com/gag/a7oqr0w)<!-- MEMES:END -->
 
 ---
 

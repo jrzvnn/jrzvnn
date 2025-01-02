@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Go sport](http://9gag.com/gag/a7oqDnw)
- - 😝 [Downgrade](http://9gag.com/gag/agmoG3K)
+ - 😝 [What kind of a party was that?](http://9gag.com/gag/a7oqZBe)
+ - 😝 [Its average nowadays](http://9gag.com/gag/azx2Xbq)
  - 💣 [Best fight ever \u2026](http://9gag.com/gag/aByd8Xz)
- - 😝 [Strong icelandic stone](http://9gag.com/gag/aZZDpM9)
- - 👉 [Kids admiring bike](http://9gag.com/gag/a7oqr0w)<!-- MEMES:END -->
+ - 😝 [Downgrade](http://9gag.com/gag/agmoG3K)
+ - 👉 [British cops found a missing 13yr old girl in a house, naked and blind drunk, with 7 Pakistani men. THEY ARRESTED THE GIRL for being `Drunk &amp; Disorderly`.](http://9gag.com/gag/aBydwvD)<!-- MEMES:END -->
 
 ---
 

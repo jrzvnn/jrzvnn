@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Avid nerds start camping out at the Pitch Drop experiment to catch the tenth droplet. `Any day now, my dudes. Aaaaanyyyyy daaaaayyyyy nowwwww...`](http://9gag.com/gag/a2vKoNE)
- - 😝 [BREAKING: US Representative AOC found dead after suicide.](http://9gag.com/gag/awyZnp8)
- - 💣 [Why wont he understand!](http://9gag.com/gag/abAvpyp)
  - 😝 [Uncovering the portal to hell](http://9gag.com/gag/a7oqD3q)
- - 👉 [Take a note 9gaggers&#39;s virgins selfclaimed womanizer](http://9gag.com/gag/aBydw5P)<!-- MEMES:END -->
+ - 😝 [Okay, lets share a secret. Who was your first boner?](http://9gag.com/gag/a87qp73)
+ - 💣 [Take a note 9gaggers&#39;s virgins selfclaimed womanizer](http://9gag.com/gag/aBydw5P)
+ - 😝 [Any clues??](http://9gag.com/gag/aZZD3N9)
+ - 👉 [How Places Like BK Don&#39;t Look At Their Employees As Human Beings, Even for Funerals, Stoop To A New Low!](http://9gag.com/gag/an7zbY0)<!-- MEMES:END -->
 
 ---
 

@@ -167,10 +167,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [White guys imitating Indians making street food.](http://9gag.com/gag/a1mPKqY)
+ - 😝 [Its the right one...](http://9gag.com/gag/aD2Yx8O)
+ - 💣 [Like every time. Even at their children&#39;s birthday parties when they&#39;re driving later.](http://9gag.com/gag/aKGE2QO)
  - 😝 [Take a note 9gaggers&#39;s virgins selfclaimed womanizer](http://9gag.com/gag/aBydw5P)
- - 💣 [Its the right one...](http://9gag.com/gag/aD2Yx8O)
- - 😝 [Its average nowadays](http://9gag.com/gag/azx2Xbq)
- - 👉 [Flawless goes bra-less](http://9gag.com/gag/agmoqqW)<!-- MEMES:END -->
+ - 👉 [Its average nowadays](http://9gag.com/gag/azx2Xbq)<!-- MEMES:END -->
 
 ---
 

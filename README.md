@@ -158,10 +158,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- TECH:START -->
  - [You can still save $100 on Apple&#39;s latest iPad Air in 2025](https://appleinsider.com/articles/25/01/02/you-can-still-save-100-on-apples-latest-ipad-air-in-2025?utm_medium=rss)
- - [Nvidia invested $1B across 50 funding rounds and several corporate deals in 2024, up from $872M in 2023; majority of deals were with &quot;core AI&quot; companies &lpar;Financial Times&rpar;](http://www.techmeme.com/250101/p15#a250101p15)
- - [Sources: Chinese government hackers breached the US Treasury Department&#39;s OFAC, which administers economic sanctions, and two other Treasury offices &lpar;Washington Post&rpar;](http://www.techmeme.com/250101/p14#a250101p14)
- - [Pornhub now blocks users in 17 US states, including almost all of the South, after blocking Florida, Tennessee, and South Carolina due to age verification laws &lpar;Samantha Cole/404 Media&rpar;](http://www.techmeme.com/250101/p13#a250101p13)
- - [Huawei Rotating Chair Meng Wanzhou says the company is helping train 300,000+ tech students per year, in cooperation with 3,000+ universities in 110 countries &lpar;Nikkei Asia&rpar;](http://www.techmeme.com/250101/p12#a250101p12)<!-- TECH:END -->
+ - [Today&#39;s NYT Connections: Sports Edition Hints and Answers for Jan. 2, #101](https://www.cnet.com/tech/gaming/todays-nyt-connections-sports-edition-hints-and-answers-for-jan-2-101/#ftag=CAD590a51e)
+ - [Today&#39;s NYT Strands Hints, Answers and Help for Jan. 2, #305](https://www.cnet.com/tech/gaming/todays-nyt-strands-hints-answers-and-help-for-jan-2-305/#ftag=CAD590a51e)
+ - [Today&#39;s Wordle Hints, Answer and Help for Jan. 2, #1293](https://www.cnet.com/tech/gaming/todays-wordle-hints-answer-and-help-for-jan-2-1293/#ftag=CAD590a51e)
+ - [Nvidia invested $1B across 50 funding rounds and several corporate deals in 2024, up from $872M in 2023; majority of deals were with &quot;core AI&quot; companies &lpar;Financial Times&rpar;](http://www.techmeme.com/250101/p15#a250101p15)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [10% food 90% tap water](http://9gag.com/gag/a4PoGgp)
- - 😝 [HAKUNA HER TATA](http://9gag.com/gag/aLn195W)
- - 💣 [A Chameleon erupts in a final display of color as she dies. This is a survival strategy called programmed death, which is also seen in other species like octopuses and moths.](http://9gag.com/gag/a1mPXn6)
  - 😝 [Why wont he understand!](http://9gag.com/gag/abAvpyp)
- - 👉 [Best fight ever \u2026](http://9gag.com/gag/aByd8Xz)<!-- MEMES:END -->
+ - 😝 [Height marks on the wall](http://9gag.com/gag/a4PoZQv)
+ - 💣 [Ponytail blade](http://9gag.com/gag/a9yqrrZ)
+ - 😝 [Best fight ever \u2026](http://9gag.com/gag/aByd8Xz)
+ - 👉 [Go sport](http://9gag.com/gag/a7oqDnw)<!-- MEMES:END -->
 
 ---
 

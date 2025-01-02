@@ -158,10 +158,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- TECH:START -->
  - [Rembrand, which offers AI tools to add product placements in social media videos, raised a $23M Series A and plans to expand to CTV content and add a free tier &lpar;Kerry Flynn/Axios&rpar;](http://www.techmeme.com/250102/p7#a250102p7)
- - [10 Hidden iOS 18.2 iPhone Features You Should Really Know About](https://www.cnet.com/tech/services-and-software/10-hidden-ios-18-2-iphone-features-you-should-really-know-about/#ftag=CAD590a51e)
- - [13 of the Best Fitness Gifts Under $50 for 2025](https://www.cnet.com/health/fitness/cheap-fitness-gifts/#ftag=CAD590a51e)
- - [Refi Rates Drop Over the Last Week: Mortgage Refinance Rates on Jan. 2, 2025](https://www.cnet.com/personal-finance/refi-rates-drop-over-the-last-week-mortgage-refinance-rates-on-jan-2-2025/#ftag=CAD590a51e)
- - [Mortgage Rates Dip Down: Current Mortgage Rates on Jan. 2, 2025](https://www.cnet.com/personal-finance/mortgage-rates-dip-down-current-mortgage-rates-on-jan-2-2025/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [A Rodent Researcher Told Us How to Keep Mice Away This Winter](https://www.cnet.com/how-to/a-rodent-researcher-told-us-how-to-keep-mice-away-this-winter/#ftag=CAD590a51e)
+ - [iOS 18: Here&#39;s What You Need to Know About RCS Messaging on iPhone](https://www.cnet.com/tech/services-and-software/ios-18-heres-what-you-need-to-know-about-rcs-messaging-on-iphone/#ftag=CAD590a51e)
+ - [This $17 USB-C Power Bank Also Charges Your Stuff Wirelessly](https://www.cnet.com/deals/this-17-usb-c-power-bank-also-charges-your-stuff-wirelessly/#ftag=CAD590a51e)
+ - [Charge Everything at Once With This 9-in-1 Anker Charging Station at Just $36](https://www.cnet.com/deals/charge-everything-at-once-with-this-9-in-1-anker-charging-station-at-just-36/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

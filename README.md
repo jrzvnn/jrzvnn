@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Its average nowadays](http://9gag.com/gag/azx2Xbq)
- - 😝 [Why wont he understand!](http://9gag.com/gag/abAvpyp)
- - 💣 [Go sport](http://9gag.com/gag/a7oqDnw)
  - 😝 [White guys imitating Indians making street food.](http://9gag.com/gag/a1mPKqY)
- - 👉 [How Places Like BK Don&#39;t Look At Their Employees As Human Beings, Even for Funerals, Stoop To A New Low!](http://9gag.com/gag/an7zbY0)<!-- MEMES:END -->
+ - 😝 [Take a note 9gaggers&#39;s virgins selfclaimed womanizer](http://9gag.com/gag/aBydw5P)
+ - 💣 [Its the right one...](http://9gag.com/gag/aD2Yx8O)
+ - 😝 [Its average nowadays](http://9gag.com/gag/azx2Xbq)
+ - 👉 [Flawless goes bra-less](http://9gag.com/gag/agmoqqW)<!-- MEMES:END -->
 
 ---
 

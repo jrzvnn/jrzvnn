@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [Sources say that she is still speaking about her resolution](https://www.reddit.com/r/funny/comments/1hrwm9a/sources_say_that_she_is_still_speaking_about_her/)
  - 😝 [Why wont he understand!](http://9gag.com/gag/abAvpyp)
- - 😝 [Height marks on the wall](http://9gag.com/gag/a4PoZQv)
- - 💣 [Ponytail blade](http://9gag.com/gag/a9yqrrZ)
- - 😝 [Best fight ever \u2026](http://9gag.com/gag/aByd8Xz)
- - 👉 [Go sport](http://9gag.com/gag/a7oqDnw)<!-- MEMES:END -->
+ - 💣 [Height marks on the wall](http://9gag.com/gag/a4PoZQv)
+ - 😝 [Ponytail blade](http://9gag.com/gag/a9yqrrZ)
+ - 👉 [Best fight ever \u2026](http://9gag.com/gag/aByd8Xz)<!-- MEMES:END -->
 
 ---
 

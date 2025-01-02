@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Gf didn&#39;t have time to buy me a present](http://9gag.com/gag/aAy0dY2)
- - 😝 [Sliding into 2025 like](http://9gag.com/gag/aW4GqxA)
- - 💣 [British cops found a missing 13yr old girl in a house, naked and blind drunk, with 7 Pakistani men. THEY ARRESTED THE GIRL for being `Drunk &amp; Disorderly`.](http://9gag.com/gag/aBydwvD)
- - 😝 [To me these bastards lied](http://9gag.com/gag/aBydWAx)
- - 👉 [Keep up the good work](http://9gag.com/gag/aO8xBbM)<!-- MEMES:END -->
+ - 😝 [No title](http://9gag.com/gag/azx2AYq)
+ - 😝 [As someone that does the sex a lot](http://9gag.com/gag/adBPX7D)
+ - 💣 [Why wont he understand!](http://9gag.com/gag/abAvpyp)
+ - 😝 [Downgrade](http://9gag.com/gag/agmoG3K)
+ - 👉 [Okay, lets share a secret. Who was your first boner?](http://9gag.com/gag/a87qp73)<!-- MEMES:END -->
 
 ---
 

@@ -158,10 +158,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- TECH:START -->
  - [Fintech themes to watch in 2025: relaxed regulation in the second Trump administration, more IPOs, M&amp;A, and VC deal activity, and the expansion of stablecoins &lpar;Emily Mason/Bloomberg&rpar;](http://www.techmeme.com/250102/p5#a250102p5)
- - [Today&#39;s NYT Mini Crossword Answers for Thursday, Jan. 2](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-thursday-jan-2/#ftag=CAD590a51e)
  - [Experts warn of a rise in personalized phishing emails targeting corporate executives with personal details probably obtained via AI analysis of online profiles &lpar;Stephanie Stacey/Financial Times&rpar;](http://www.techmeme.com/250102/p4#a250102p4)
  - [Q&amp;A with Robinhood CEO Vlad Tenev about the company&#39;s aggressive plans for 2025, including competing with prediction markets like Kalshi &lpar;Connie Loizos/TechCrunch&rpar;](http://www.techmeme.com/250102/p3#a250102p3)
- - [Malaysia says X and Google haven&#39;t applied for a new social media license; X cites under 8M Malaysian users, while Google disputes YouTube&#39;s classification &lpar;Ram Anand/Bloomberg&rpar;](http://www.techmeme.com/250102/p2#a250102p2)<!-- TECH:END -->
+ - [Malaysia says X and Google haven&#39;t applied for a new social media license; X cites under 8M Malaysian users, while Google disputes YouTube&#39;s classification &lpar;Ram Anand/Bloomberg&rpar;](http://www.techmeme.com/250102/p2#a250102p2)
+ - [China&#39;s Wingtech, supplier to Apple, Samsung, Xiaomi, and others, plans to sell its contract manufacturing business to Luxshare after being sanctioned by the US &lpar;Iris Deng/South China Morning Post&rpar;](http://www.techmeme.com/250102/p1#a250102p1)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

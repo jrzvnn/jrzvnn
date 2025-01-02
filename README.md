@@ -166,10 +166,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [As someone that does the sex a lot](http://9gag.com/gag/adBPX7D)
- - 😝 [Like every time. Even at their children&#39;s birthday parties when they&#39;re driving later.](http://9gag.com/gag/aKGE2QO)
- - 💣 [What was that?](http://9gag.com/gag/avyQnzX)
- - 😝 [No hurricane ever crossed the equator.](http://9gag.com/gag/aBydYXz)
+ - 😝 [Uncovering the portal to hell](http://9gag.com/gag/a7oqD3q)
+ - 😝 [Downgrade](http://9gag.com/gag/agmoG3K)
+ - 💣 [British cops found a missing 13yr old girl in a house, naked and blind drunk, with 7 Pakistani men. THEY ARRESTED THE GIRL for being `Drunk &amp; Disorderly`.](http://9gag.com/gag/aBydwvD)
+ - 😝 [What was that?](http://9gag.com/gag/avyQnzX)
  - 👉 [A reason for Korean martial law 2024](http://9gag.com/gag/aD2YGWB)<!-- MEMES:END -->
 
 ---

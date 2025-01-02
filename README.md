@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Take a note 9gaggers&#39;s virgins selfclaimed womanizer](http://9gag.com/gag/aBydw5P)
- - 😝 [Okay, lets share a secret. Who was your first boner?](http://9gag.com/gag/a87qp73)
- - 💣 [Its average nowadays](http://9gag.com/gag/azx2Xbq)
- - 😝 [Go sport](http://9gag.com/gag/a7oqDnw)
- - 👉 [British cops found a missing 13yr old girl in a house, naked and blind drunk, with 7 Pakistani men. THEY ARRESTED THE GIRL for being `Drunk &amp; Disorderly`.](http://9gag.com/gag/aBydwvD)<!-- MEMES:END -->
+ - 😝 [HAKUNA HER TATA](http://9gag.com/gag/aLn195W)
+ - 😝 [The start of Marvel Avengers](http://9gag.com/gag/aXPnqwD)
+ - 💣 [Kids admiring bike](http://9gag.com/gag/a7oqr0w)
+ - 😝 [Its average nowadays](http://9gag.com/gag/azx2Xbq)
+ - 👉 [Ponytail blade](http://9gag.com/gag/a9yqrrZ)<!-- MEMES:END -->
 
 ---
 

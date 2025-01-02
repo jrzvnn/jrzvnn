@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Rembrand, which offers AI tools to add product placements in social media videos, raised a $23M Series A and plans to expand to CTV content and add a free tier &lpar;Kerry Flynn/Axios&rpar;](http://www.techmeme.com/250102/p7#a250102p7)
- - [A Rodent Researcher Told Us How to Keep Mice Away This Winter](https://www.cnet.com/how-to/a-rodent-researcher-told-us-how-to-keep-mice-away-this-winter/#ftag=CAD590a51e)
- - [iOS 18: Here&#39;s What You Need to Know About RCS Messaging on iPhone](https://www.cnet.com/tech/services-and-software/ios-18-heres-what-you-need-to-know-about-rcs-messaging-on-iphone/#ftag=CAD590a51e)
- - [This $17 USB-C Power Bank Also Charges Your Stuff Wirelessly](https://www.cnet.com/deals/this-17-usb-c-power-bank-also-charges-your-stuff-wirelessly/#ftag=CAD590a51e)
- - [Charge Everything at Once With This 9-in-1 Anker Charging Station at Just $36](https://www.cnet.com/deals/charge-everything-at-once-with-this-9-in-1-anker-charging-station-at-just-36/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [While the crypto industry anticipates lighter regulation and wider adoption under Trump, some critics worry about systemic risks, particularly from stablecoins &lpar;Financial Times&rpar;](http://www.techmeme.com/250102/p8#a250102p8)
+ - [Samsung bets big on OLED and gaming with its 2025 monitor lineup](https://www.theverge.com/2025/1/2/24334067/samsung-odyssey-g8-g6-3d-smart-monitor-m9-specs)
+ - [Asus, Samsung, and MSI announce world’s first 27-inch 4K OLED 240Hz monitors](https://www.theverge.com/2025/1/2/24334049/asus-samsung-msi-27-inch-4k-oled-240hz-monitors)
+ - [Best Fitness Trackers of 2025 for Peak Performance](https://www.wired.com/gallery/best-fitness-tracker/)
+ - [Rembrand, which offers AI tools to add product placements in social media videos, raised a $23M Series A and plans to expand to CTV content and add a free tier &lpar;Kerry Flynn/Axios&rpar;](http://www.techmeme.com/250102/p7#a250102p7)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

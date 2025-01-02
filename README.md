@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Ponytail blade](http://9gag.com/gag/a9yqrrZ)
- - 😝 [What was that?](http://9gag.com/gag/avyQnzX)
- - 💣 [Okay, lets share a secret. Who was your first boner?](http://9gag.com/gag/a87qp73)
+ - 😝 [The start of Marvel Avengers](http://9gag.com/gag/aXPnqwD)
  - 😝 [Its average nowadays](http://9gag.com/gag/azx2Xbq)
- - 👉 [HAKUNA HER TATA](http://9gag.com/gag/aLn195W)<!-- MEMES:END -->
+ - 💣 [Why are some people so stupid?!](http://9gag.com/gag/abAvZYE)
+ - 😝 [Take a note 9gaggers&#39;s virgins selfclaimed womanizer](http://9gag.com/gag/aBydw5P)
+ - 👉 [Go sport](http://9gag.com/gag/a7oqDnw)<!-- MEMES:END -->
 
 ---
 

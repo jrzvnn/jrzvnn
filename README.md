@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Editors at Science Journal Resign En Masse Over Bad Use of AI, High Fees](https://www.wired.com/story/editors-at-science-journal-resign-en-masse-over-bad-use-of-ai-high-fees/)
  - [Sources: China-backed hackers accessed the computers of senior US Treasury officials; the department&#39;s email system and classified data were not breached &lpar;Bloomberg&rpar;](http://www.techmeme.com/250102/p22#a250102p22)
  - [The best Nintendo Switch controllers to buy right now](https://www.theverge.com/23350899/nintendo-switch-controllers-best-wireless-joy-con-gamepad)
  - [The best noise-canceling headphones to buy right now](https://www.theverge.com/21345733/best-noise-canceling-headphones)
- - [Many advertisers on TikTok say they will shift ad dollars if and when a US ban actually takes effect, as the yearslong saga has dulled any real sense of urgency &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/250102/p21#a250102p21)
- - [Samsung’s smart fridges will use AI to suggest groceries to buy on Instacart](https://www.theverge.com/2025/1/2/24334411/samsung-instacart-smart-fridge-partnership)<!-- TECH:END -->
+ - [Many advertisers on TikTok say they will shift ad dollars if and when a US ban actually takes effect, as the yearslong saga has dulled any real sense of urgency &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/250102/p21#a250102p21)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

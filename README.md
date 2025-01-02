@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Why wont he understand!](http://9gag.com/gag/abAvpyp)
  - 😝 [British cops found a missing 13yr old girl in a house, naked and blind drunk, with 7 Pakistani men. THEY ARRESTED THE GIRL for being `Drunk &amp; Disorderly`.](http://9gag.com/gag/aBydwvD)
- - 💣 [A reason for Korean martial law 2024](http://9gag.com/gag/aD2YGWB)
- - 😝 [No hurricane ever crossed the equator.](http://9gag.com/gag/aBydYXz)
- - 👉 [Not only was she unable to make new memories but she constantly woke up thinking it was the 11th of June, 2019, the day of her injury.](http://9gag.com/gag/azx2jYz)<!-- MEMES:END -->
+ - 😝 [Go sport](http://9gag.com/gag/a7oqDnw)
+ - 💣 [Downgrade](http://9gag.com/gag/agmoG3K)
+ - 😝 [HAKUNA HER TATA](http://9gag.com/gag/aLn195W)
+ - 👉 [What was that?](http://9gag.com/gag/avyQnzX)<!-- MEMES:END -->
 
 ---
 

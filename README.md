@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Sources: Morgan Stanley&#39;s E-Trade explores adding crypto trading, if approved by Federal Reserve, anticipating a favorable regulatory environment under Trump &lpar;Yueqi Yang/The Information&rpar;](http://www.techmeme.com/250102/p11#a250102p11)
+ - [7 Surprising Places Microplastics Hide in Your Kitchen and Easy Swaps](https://www.cnet.com/health/7-surprising-places-microplastics-hide-in-your-kitchen-and-easy-swaps/#ftag=CAD590a51e)
+ - [A $250 Discount Drops This EcoFlow Power Station Down to All-Time Low Price](https://www.cnet.com/deals/250-off-ecoflow-delta-3-plus-portable-power-station/#ftag=CAD590a51e)
  - [Tesla’s sales fell year-over-year for the first time](https://www.theverge.com/2025/1/2/24334102/tesla-q4-2024-production-delivery-drop-first)
- - [Xbox Game Pass: Swing Into Action With Indiana Jones Now, More Games Soon](https://www.cnet.com/tech/gaming/xbox-game-pass-swing-into-action-with-indiana-jones-now-more-games-soon/#ftag=CAD590a51e)
- - [Compare Current Refinance Rates in January 2025](https://www.cnet.com/personal-finance/refinance-interest-rates-today/#ftag=CAD590a51e)
- - [Compare Current Mortgage Rates in January 2025](https://www.cnet.com/personal-finance/mortgage-interest-rates-today/#ftag=CAD590a51e)
- - [14 Best Soundbars We&#39;ve Tested and Reviewed &lpar;2025&rpar;: Sonos, Sony, Bose](https://www.wired.com/gallery/best-soundbars/)<!-- TECH:END -->
+ - [Acer PD163Q Portable Monitor Review: Dual Displays Can Mean Double the Trouble](https://www.cnet.com/tech/computing/acer-pd163q-portable-monitor-review-dual-displays-can-mean-double-the-trouble/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

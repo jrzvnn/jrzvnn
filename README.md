@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Why are some people so stupid?!](http://9gag.com/gag/abAvZYE)
+ - 😝 [10% food 90% tap water](http://9gag.com/gag/a4PoGgp)
+ - 😝 [HAKUNA HER TATA](http://9gag.com/gag/aLn195W)
+ - 💣 [A Chameleon erupts in a final display of color as she dies. This is a survival strategy called programmed death, which is also seen in other species like octopuses and moths.](http://9gag.com/gag/a1mPXn6)
  - 😝 [Why wont he understand!](http://9gag.com/gag/abAvpyp)
- - 💣 [A reason for Korean martial law 2024](http://9gag.com/gag/aD2YGWB)
- - 😝 [Go sport](http://9gag.com/gag/a7oqDnw)
- - 👉 [Its average nowadays](http://9gag.com/gag/azx2Xbq)<!-- MEMES:END -->
+ - 👉 [Best fight ever \u2026](http://9gag.com/gag/aByd8Xz)<!-- MEMES:END -->
 
 ---
 

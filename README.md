@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [That&#39;s so cute](http://9gag.com/gag/avyQ7Yq)
- - 😝 [Gf didn&#39;t have time to buy me a present](http://9gag.com/gag/aAy0dY2)
- - 💣 [To me these bastards lied](http://9gag.com/gag/aBydWAx)
- - 😝 [British cops found a missing 13yr old girl in a house, naked and blind drunk, with 7 Pakistani men. THEY ARRESTED THE GIRL for being `Drunk &amp; Disorderly`.](http://9gag.com/gag/aBydwvD)
- - 👉 [Keep up the good work](http://9gag.com/gag/aO8xBbM)<!-- MEMES:END -->
+ - 😝 [Like every time. Even at their children&#39;s birthday parties when they&#39;re driving later.](http://9gag.com/gag/aKGE2QO)
+ - 😝 [Okay, lets share a secret. Who was your first boner?](http://9gag.com/gag/a87qp73)
+ - 💣 [Australian gal just lost her manager and contract cancelled because she refused to change the lyrics.](http://9gag.com/gag/aGyExAz)
+ - 😝 [What was that?](http://9gag.com/gag/avyQnzX)
+ - 👉 [No hurricane ever crossed the equator.](http://9gag.com/gag/aBydYXz)<!-- MEMES:END -->
 
 ---
 

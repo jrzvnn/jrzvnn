@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [No title](http://9gag.com/gag/azx2AYq)
- - 😝 [As someone that does the sex a lot](http://9gag.com/gag/adBPX7D)
- - 💣 [Why wont he understand!](http://9gag.com/gag/abAvpyp)
- - 😝 [Downgrade](http://9gag.com/gag/agmoG3K)
- - 👉 [Okay, lets share a secret. Who was your first boner?](http://9gag.com/gag/a87qp73)<!-- MEMES:END -->
+ - 😝 [Its average nowadays](http://9gag.com/gag/azx2Xbq)
+ - 😝 [Strong icelandic stone](http://9gag.com/gag/aZZDpM9)
+ - 💣 [Yep, you indeed won at life if this happens with you!](http://9gag.com/gag/abAv0mE)
+ - 😝 [HAKUNA HER TATA](http://9gag.com/gag/aLn195W)
+ - 👉 [Downgrade](http://9gag.com/gag/agmoG3K)<!-- MEMES:END -->
 
 ---
 

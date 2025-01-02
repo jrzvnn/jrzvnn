@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Rembrand, which offers AI tools to add product placements in social media videos, raised a $23M Series A and plans to expand to CTV content and add a free tier &lpar;Kerry Flynn/Axios&rpar;](http://www.techmeme.com/250102/p7#a250102p7)
  - [10 Hidden iOS 18.2 iPhone Features You Should Really Know About](https://www.cnet.com/tech/services-and-software/10-hidden-ios-18-2-iphone-features-you-should-really-know-about/#ftag=CAD590a51e)
  - [13 of the Best Fitness Gifts Under $50 for 2025](https://www.cnet.com/health/fitness/cheap-fitness-gifts/#ftag=CAD590a51e)
  - [Refi Rates Drop Over the Last Week: Mortgage Refinance Rates on Jan. 2, 2025](https://www.cnet.com/personal-finance/refi-rates-drop-over-the-last-week-mortgage-refinance-rates-on-jan-2-2025/#ftag=CAD590a51e)
- - [Mortgage Rates Dip Down: Current Mortgage Rates on Jan. 2, 2025](https://www.cnet.com/personal-finance/mortgage-rates-dip-down-current-mortgage-rates-on-jan-2-2025/#ftag=CAD590a51e)
- - [In 2024, warning calls about catastrophic AI risks were drowned out by the tech industry&#39;s promotion of a practical and prosperous vision of generative AI &lpar;Maxwell Zeff/TechCrunch&rpar;](http://www.techmeme.com/250102/p6#a250102p6)<!-- TECH:END -->
+ - [Mortgage Rates Dip Down: Current Mortgage Rates on Jan. 2, 2025](https://www.cnet.com/personal-finance/mortgage-rates-dip-down-current-mortgage-rates-on-jan-2-2025/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

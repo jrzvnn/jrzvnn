@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Telegram adds third-party verification to combat scams](https://www.theverge.com/2025/1/2/24334132/telegram-third-party-verification-combat-scams)
+ - [Samsung wants to break Sony&#39;s exclusive hold on iPhone camera sensors](https://appleinsider.com/articles/25/01/02/samsung-wants-to-break-sonys-exclusive-hold-on-iphone-camera-sensors?utm_medium=rss)
  - [Sources: Morgan Stanley&#39;s E-Trade explores adding crypto trading, if approved by Federal Reserve, anticipating a favorable regulatory environment under Trump &lpar;Yueqi Yang/The Information&rpar;](http://www.techmeme.com/250102/p11#a250102p11)
  - [7 Surprising Places Microplastics Hide in Your Kitchen and Easy Swaps](https://www.cnet.com/health/7-surprising-places-microplastics-hide-in-your-kitchen-and-easy-swaps/#ftag=CAD590a51e)
- - [A $250 Discount Drops This EcoFlow Power Station Down to All-Time Low Price](https://www.cnet.com/deals/250-off-ecoflow-delta-3-plus-portable-power-station/#ftag=CAD590a51e)
- - [Tesla’s sales fell year-over-year for the first time](https://www.theverge.com/2025/1/2/24334102/tesla-q4-2024-production-delivery-drop-first)
- - [Acer PD163Q Portable Monitor Review: Dual Displays Can Mean Double the Trouble](https://www.cnet.com/tech/computing/acer-pd163q-portable-monitor-review-dual-displays-can-mean-double-the-trouble/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [A $250 Discount Drops This EcoFlow Power Station Down to All-Time Low Price](https://www.cnet.com/deals/250-off-ecoflow-delta-3-plus-portable-power-station/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

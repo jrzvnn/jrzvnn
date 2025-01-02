@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [What kind of a party was that?](http://9gag.com/gag/a7oqZBe)
+ - 😝 [Ponytail blade](http://9gag.com/gag/a9yqrrZ)
+ - 😝 [What was that?](http://9gag.com/gag/avyQnzX)
+ - 💣 [Okay, lets share a secret. Who was your first boner?](http://9gag.com/gag/a87qp73)
  - 😝 [Its average nowadays](http://9gag.com/gag/azx2Xbq)
- - 💣 [Best fight ever \u2026](http://9gag.com/gag/aByd8Xz)
- - 😝 [Downgrade](http://9gag.com/gag/agmoG3K)
- - 👉 [British cops found a missing 13yr old girl in a house, naked and blind drunk, with 7 Pakistani men. THEY ARRESTED THE GIRL for being `Drunk &amp; Disorderly`.](http://9gag.com/gag/aBydwvD)<!-- MEMES:END -->
+ - 👉 [HAKUNA HER TATA](http://9gag.com/gag/aLn195W)<!-- MEMES:END -->
 
 ---
 

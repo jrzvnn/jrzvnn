@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [The start of Marvel Avengers](http://9gag.com/gag/aXPnqwD)
- - 😝 [Its average nowadays](http://9gag.com/gag/azx2Xbq)
- - 💣 [Why are some people so stupid?!](http://9gag.com/gag/abAvZYE)
- - 😝 [Take a note 9gaggers&#39;s virgins selfclaimed womanizer](http://9gag.com/gag/aBydw5P)
- - 👉 [Go sport](http://9gag.com/gag/a7oqDnw)<!-- MEMES:END -->
+ - 😝 [I got him honey](http://9gag.com/gag/aGyE1G0)
+ - 😝 [Best fight ever \u2026](http://9gag.com/gag/aByd8Xz)
+ - 💣 [Like every time. Even at their children&#39;s birthday parties when they&#39;re driving later.](http://9gag.com/gag/aKGE2QO)
+ - 😝 [What was that?](http://9gag.com/gag/avyQnzX)
+ - 👉 [Why are some people so stupid?!](http://9gag.com/gag/abAvZYE)<!-- MEMES:END -->
 
 ---
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Uncovering the portal to hell](http://9gag.com/gag/a7oqD3q)
- - 😝 [Okay, lets share a secret. Who was your first boner?](http://9gag.com/gag/a87qp73)
- - 💣 [Take a note 9gaggers&#39;s virgins selfclaimed womanizer](http://9gag.com/gag/aBydw5P)
  - 😝 [Any clues??](http://9gag.com/gag/aZZD3N9)
- - 👉 [How Places Like BK Don&#39;t Look At Their Employees As Human Beings, Even for Funerals, Stoop To A New Low!](http://9gag.com/gag/an7zbY0)<!-- MEMES:END -->
+ - 😝 [Friends Forever](http://9gag.com/gag/aYQV4jV)
+ - 💣 [Impact of your childhood](http://9gag.com/gag/aqyeK5j)
+ - 😝 [Any capt?](http://9gag.com/gag/a9yqrKj)
+ - 👉 [Why wont he understand!](http://9gag.com/gag/abAvpyp)<!-- MEMES:END -->
 
 ---
 

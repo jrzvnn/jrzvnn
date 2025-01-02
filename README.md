@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Kids admiring bike](http://9gag.com/gag/a7oqr0w)
- - 😝 [Why wont he understand!](http://9gag.com/gag/abAvpyp)
- - 💣 [Impact of your childhood](http://9gag.com/gag/aqyeK5j)
- - 😝 [Any capt?](http://9gag.com/gag/a9yqrKj)
- - 👉 [Its average nowadays](http://9gag.com/gag/azx2Xbq)<!-- MEMES:END -->
+ - 😝 [White guys imitating Indians making street food.](http://9gag.com/gag/a1mPKqY)
+ - 😝 [Take a note 9gaggers&#39;s virgins selfclaimed womanizer](http://9gag.com/gag/aBydw5P)
+ - 💣 [Cybertruck explodes in Las Vegas, NV - January 1, 2025](http://9gag.com/gag/arym5yy)
+ - 😝 [First time i see trash on the streets of Japan, any theories?](http://9gag.com/gag/aPAgYgP)
+ - 👉 [Like every time. Even at their children&#39;s birthday parties when they&#39;re driving later.](http://9gag.com/gag/aKGE2QO)<!-- MEMES:END -->
 
 ---
 

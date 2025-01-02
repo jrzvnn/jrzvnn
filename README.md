@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Email: NYC-based Level, which raised a $27M Series A in 2021 to help companies offer staff benefits, shuts down after an effort to sell the company fell through &lpar;The Information&rpar;](http://www.techmeme.com/250102/p19#a250102p19)
+ - [The 45 Best Shows on Max &lpar;aka HBO Max&rpar; Right Now &lpar;January 2025&rpar;](https://www.wired.com/story/hbo-max-best-shows-to-stream-right-now/)
+ - [The US government announced a ‘historic’ nuclear energy deal](https://www.theverge.com/2025/1/2/24334195/nuclear-energy-deal-us-government-constellation-gsa)
  - [Short seller Hindenburg shorts Carvana claiming the company&#39;s turnaround is a &quot;mirage&quot; that&#39;s being propped up by unstable loans and accounting manipulation &lpar;Michael Wayland/CNBC&rpar;](http://www.techmeme.com/250102/p18#a250102p18)
- - [Microsoft has a new ergonomic keyboard, but it’s expensive and made by Incase](https://www.theverge.com/2025/1/2/24334283/microsoft-ergonomic-keyboard-incase-pricing)
- - [A US appeals court rules the FCC did not have legal authority to reinstate net neutrality rules; incoming FCC chair Brendan Carr opposed the 2024 reinstatement &lpar;David Shepardson/Reuters&rpar;](http://www.techmeme.com/250102/p17#a250102p17)
- - [Meta appoints Joel Kaplan as Chief Global Affairs Officer, replacing Nick Clegg, who is leaving the company; Kaplan is Meta&#39;s most prominent Republican &lpar;Semafor&rpar;](http://www.techmeme.com/250102/p16#a250102p16)
- - [Apple will pay $95 million to people who were spied on by Siri](https://www.theverge.com/2025/1/2/24334268/apple-siri-recording-privacy-lawsuit-settlement-proposed)<!-- TECH:END -->
+ - [These Nothing Earbuds Have Built-In ChatGPT Support and Now They&#39;re Down to a Record-Low](https://www.cnet.com/deals/these-nothing-earbuds-have-built-in-chatgpt-support-down-to-record-low/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

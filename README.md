@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Its average nowadays](http://9gag.com/gag/azx2Xbq)
- - 😝 [Strong icelandic stone](http://9gag.com/gag/aZZDpM9)
- - 💣 [Yep, you indeed won at life if this happens with you!](http://9gag.com/gag/abAv0mE)
- - 😝 [HAKUNA HER TATA](http://9gag.com/gag/aLn195W)
- - 👉 [Downgrade](http://9gag.com/gag/agmoG3K)<!-- MEMES:END -->
+ - 😝 [Go sport](http://9gag.com/gag/a7oqDnw)
+ - 😝 [Why are some people so stupid?!](http://9gag.com/gag/abAvZYE)
+ - 💣 [Execution by cannon, Shiraz, Iran. 1890s.](http://9gag.com/gag/aW4GMvZ)
+ - 😝 [Downgrade](http://9gag.com/gag/agmoG3K)
+ - 👉 [A reason for Korean martial law 2024](http://9gag.com/gag/aD2YGWB)<!-- MEMES:END -->
 
 ---
 

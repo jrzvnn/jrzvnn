@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Sources: Chinese government hackers breached the US Treasury Department&#39;s OFAC, which administers economic sanctions, and two other Treasury offices &lpar;Washington Post&rpar;](http://www.techmeme.com/250101/p14#a250101p14)
+ - [Pornhub now blocks users in 17 US states, including almost all of the South, after blocking Florida, Tennessee, and South Carolina due to age verification laws &lpar;Samantha Cole/404 Media&rpar;](http://www.techmeme.com/250101/p13#a250101p13)
  - [Huawei Rotating Chair Meng Wanzhou says the company is helping train 300,000+ tech students per year, in cooperation with 3,000+ universities in 110 countries &lpar;Nikkei Asia&rpar;](http://www.techmeme.com/250101/p12#a250101p12)
  - [Meta saying it expects AI characters to populate its apps is its friendly rebrand of an effective but alienating effort to automate social interactions &lpar;John Herrman/New York Magazine&rpar;](http://www.techmeme.com/250101/p11#a250101p11)
- - [How we work: Oliver Haslam&#39;s MacBook Pro-powered setup](https://appleinsider.com/articles/25/01/01/how-we-work-oliver-haslams-macbook-pro-powered-setup?utm_medium=rss)
- - [Apple Watch Series 10 Returns to Record Low Price With This Deal](https://www.cnet.com/deals/apple-watch-series-10-returns-to-record-low-price-with-this-deal/#ftag=CAD590a51e)
- - [How a 0% Intro APR Credit Card Can Help You Avoid Sky-High Interest This Year](https://www.cnet.com/personal-finance/how-a-0-intro-apr-credit-card-can-help-you-avoid-sky-high-interest-this-year/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [How we work: Oliver Haslam&#39;s MacBook Pro-powered setup](https://appleinsider.com/articles/25/01/01/how-we-work-oliver-haslams-macbook-pro-powered-setup?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

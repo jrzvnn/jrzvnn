@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Take a note 9gaggers&#39;s virgins selfclaimed womanizer](http://9gag.com/gag/aBydw5P)
- - 😝 [Like every time. Even at their children&#39;s birthday parties when they&#39;re driving later.](http://9gag.com/gag/aKGE2QO)
- - 💣 [Dog is like we can do this the easy way or the hard way you chose](http://9gag.com/gag/adBP7BV)
- - 😝 [Okay, lets share a secret. Who was your first boner?](http://9gag.com/gag/a87qp73)
- - 👉 [Its average nowadays](http://9gag.com/gag/azx2Xbq)<!-- MEMES:END -->
+ - 😝 [Same...](http://9gag.com/gag/aKGEjnO)
+ - 😝 [Upvote Hypnobutt to have great luck in year 2025](http://9gag.com/gag/ayN2LmV)
+ - 💣 [An ancient prophecy has just come true](http://9gag.com/gag/aQzE32z)
+ - 😝 [New gif for 2025, you\u2019re welcome](http://9gag.com/gag/adBPKpV)
+ - 👉 [Diamond Potato of Ultra Luck - upvote for luck in 2025](http://9gag.com/gag/aD2YWxK)<!-- MEMES:END -->
 
 ---
 

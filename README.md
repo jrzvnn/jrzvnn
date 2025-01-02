@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Windows 11’s dynamic wallpapers revealed by former Microsoft designer](https://www.theverge.com/2025/1/2/24334304/microsoft-windows-11-dynamic-wallpapers)
+ - [Apple’s AirTags add new child safety battery warnings](https://www.theverge.com/2025/1/2/24334293/apple-airtags-child-safety-battery-warnings-cpsc)
  - [How to Watch the Spectacular Quadrantids Meteor Shower Tonight](https://www.wired.com/story/watch-meteor-showers-2025-shooting-stars-ursids-geminids-leonids-orionids-perseids-southern-delta-aquariids-lyrids-quadrantids/)
  - [The T3 Financial Crime Unit says it has frozen $100M of USDT used by illicit actors since the unit was formed in September 2024 by Tron, TRM Labs, and Tether &lpar;Sam Reynolds/CoinDesk&rpar;](http://www.techmeme.com/250102/p15#a250102p15)
- - [What speed to expect from M4 Ultra in the 2025 Mac Studio &amp; Mac Pro](https://appleinsider.com/articles/25/01/02/what-speed-to-expect-from-m4-ultra-in-the-2025-mac-studio-mac-pro?utm_medium=rss)
- - [Apple updates AirTag warnings to comply with safety standards](https://appleinsider.com/articles/25/01/02/apple-updates-airtag-warnings-to-comply-with-safety-standards?utm_medium=rss)
- - [Apple agrees to $95M settlement to end privacy lawsuit over Siri recordings](https://appleinsider.com/articles/25/01/02/apple-agrees-to-95m-settlement-to-end-privacy-lawsuit-over-siri-recordings?utm_medium=rss)<!-- TECH:END -->
+ - [What speed to expect from M4 Ultra in the 2025 Mac Studio &amp; Mac Pro](https://appleinsider.com/articles/25/01/02/what-speed-to-expect-from-m4-ultra-in-the-2025-mac-studio-mac-pro?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

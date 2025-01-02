@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Captain? What\u2019s this type of CGI called?](http://9gag.com/gag/aBydYwO)
- - 😝 [Not only was she unable to make new memories but she constantly woke up thinking it was the 11th of June, 2019, the day of her injury.](http://9gag.com/gag/azx2jYz)
- - 💣 [Now THIS is art!](http://9gag.com/gag/aGyEeA7)
- - 😝 [Execution by cannon, Shiraz, Iran. 1890s.](http://9gag.com/gag/aW4GMvZ)
- - 👉 [British cops found a missing 13yr old girl in a house, naked and blind drunk, with 7 Pakistani men. THEY ARRESTED THE GIRL for being `Drunk &amp; Disorderly`.](http://9gag.com/gag/aBydwvD)<!-- MEMES:END -->
+ - 😝 [What kind of a party was that?](http://9gag.com/gag/a7oqZBe)
+ - 😝 [What was that?](http://9gag.com/gag/avyQnzX)
+ - 💣 [Uh, no.](http://9gag.com/gag/aoyK9Ym)
+ - 😝 [British cops found a missing 13yr old girl in a house, naked and blind drunk, with 7 Pakistani men. THEY ARRESTED THE GIRL for being `Drunk &amp; Disorderly`.](http://9gag.com/gag/aBydwvD)
+ - 👉 [A reason for Korean martial law 2024](http://9gag.com/gag/aD2YGWB)<!-- MEMES:END -->
 
 ---
 

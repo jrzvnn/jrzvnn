@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Malaysia says X and Google haven&#39;t applied for a new social media license; X cites under 8M Malaysian users, while Google disputes YouTube&#39;s classification &lpar;Ram Anand/Bloomberg&rpar;](http://www.techmeme.com/250102/p2#a250102p2)
  - [China&#39;s Wingtech, supplier to Apple, Samsung, Xiaomi, and others, plans to sell its contract manufacturing business to Luxshare after being sanctioned by the US &lpar;Iris Deng/South China Morning Post&rpar;](http://www.techmeme.com/250102/p1#a250102p1)
  - [You can still save $100 on Apple&#39;s latest iPad Air in 2025](https://appleinsider.com/articles/25/01/02/you-can-still-save-100-on-apples-latest-ipad-air-in-2025?utm_medium=rss)
  - [Today&#39;s NYT Connections: Sports Edition Hints and Answers for Jan. 2, #101](https://www.cnet.com/tech/gaming/todays-nyt-connections-sports-edition-hints-and-answers-for-jan-2-101/#ftag=CAD590a51e)
- - [Today&#39;s NYT Strands Hints, Answers and Help for Jan. 2, #305](https://www.cnet.com/tech/gaming/todays-nyt-strands-hints-answers-and-help-for-jan-2-305/#ftag=CAD590a51e)
- - [Today&#39;s Wordle Hints, Answer and Help for Jan. 2, #1293](https://www.cnet.com/tech/gaming/todays-wordle-hints-answer-and-help-for-jan-2-1293/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Today&#39;s NYT Strands Hints, Answers and Help for Jan. 2, #305](https://www.cnet.com/tech/gaming/todays-nyt-strands-hints-answers-and-help-for-jan-2-305/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -161,7 +161,7 @@ R                        1 repo              ░░░░░░░░░░░�
  - [The best deals on MacBooks right now](https://www.theverge.com/22399419/apple-macbook-air-pro-mac-mini-imac-deals)
  - [Spotify debuts a Partner Program in the US, the UK, Canada, and Australia, letting popular podcast hosts monetize video content, after announcing it in November &lpar;Lauren Forristal/TechCrunch&rpar;](http://www.techmeme.com/250102/p20#a250102p20)
  - [Third-party iPad smart connector accessories not working with iPadOS 18.3 beta](https://appleinsider.com/articles/25/01/02/third-party-ipad-smart-connector-accessories-not-working-with-ipados-183-beta?utm_medium=rss)
- - [&#39;Marvel Rivals&#39; players face 100-year ban for play on macOS](https://appleinsider.com/articles/25/01/02/marvel-rivals-players-face-100-year-ban-for-play-on-macos?utm_medium=rss)<!-- TECH:END -->
+ - [Samsung Galaxy A16 Comes to US at $200, With 6 Years of Updates](https://www.cnet.com/tech/mobile/samsung-galaxy-a16-comes-to-us-at-200-with-6-years-of-updates/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

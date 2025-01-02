@@ -157,8 +157,8 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Microsoft’s mini AI PCs are on the way](https://www.theverge.com/2025/1/2/24334251/microsoft-copilot-plus-mini-pcs-ces-2025-notepad)
  - [Apple agrees to $95M settlement to end privacy lawsuit over Siri recordings](https://appleinsider.com/articles/25/01/02/apple-agrees-to-95m-settlement-to-end-privacy-lawsuit-over-siri-recordings?utm_medium=rss)
+ - [Microsoft’s mini AI PCs are on the way](https://www.theverge.com/2025/1/2/24334251/microsoft-copilot-plus-mini-pcs-ces-2025-notepad)
  - [GlobalFoundries and IBM settle dueling lawsuits claiming that GlobalFoundries breached a contract with IBM and that IBM misused the chipmaker&#39;s trade secrets &lpar;Blake Brittain/Reuters&rpar;](http://www.techmeme.com/250102/p14#a250102p14)
  - [Amazon’s Echo Show 5 and Show 8 are up to 50 percent off right now](https://www.theverge.com/2025/1/2/24334072/amazon-echo-show-5-8-anker-735-charger-deal-sale)
  - [Samsung’s cheap Galaxy Fit 3 fitness tracker is coming to the US](https://www.theverge.com/2025/1/2/24334199/samsung-cheap-galaxy-fit3-fitness-tracker-a16-us-launch)<!-- TECH:END -->

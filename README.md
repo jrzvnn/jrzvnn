@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [British cops found a missing 13yr old girl in a house, naked and blind drunk, with 7 Pakistani men. THEY ARRESTED THE GIRL for being `Drunk &amp; Disorderly`.](http://9gag.com/gag/aBydwvD)
- - 😝 [Its the right one...](http://9gag.com/gag/aD2Yx8O)
- - 💣 [10% food 90% tap water](http://9gag.com/gag/a4PoGgp)
+ - 😝 [Uncovering the portal to hell](http://9gag.com/gag/a7oqD3q)
  - 😝 [What kind of a party was that?](http://9gag.com/gag/a7oqZBe)
- - 👉 [Cybertruck explodes in Las Vegas, NV - January 1, 2025](http://9gag.com/gag/arym5yy)<!-- MEMES:END -->
+ - 💣 [Ponytail blade](http://9gag.com/gag/a9yqrrZ)
+ - 😝 [British cops found a missing 13yr old girl in a house, naked and blind drunk, with 7 Pakistani men. THEY ARRESTED THE GIRL for being `Drunk &amp; Disorderly`.](http://9gag.com/gag/aBydwvD)
+ - 👉 [Its average nowadays](http://9gag.com/gag/azx2Xbq)<!-- MEMES:END -->
 
 ---
 

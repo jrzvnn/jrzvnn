@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Its average nowadays](http://9gag.com/gag/azx2Xbq)
- - 😝 [HAKUNA HER TATA](http://9gag.com/gag/aLn195W)
- - 💣 [10% food 90% tap water](http://9gag.com/gag/a4PoGgp)
- - 😝 [Why wont he understand!](http://9gag.com/gag/abAvpyp)
- - 👉 [What kind of a party was that?](http://9gag.com/gag/a7oqZBe)<!-- MEMES:END -->
+ - 😝 [Take a note 9gaggers&#39;s virgins selfclaimed womanizer](http://9gag.com/gag/aBydw5P)
+ - 😝 [Okay, lets share a secret. Who was your first boner?](http://9gag.com/gag/a87qp73)
+ - 💣 [Its average nowadays](http://9gag.com/gag/azx2Xbq)
+ - 😝 [Go sport](http://9gag.com/gag/a7oqDnw)
+ - 👉 [British cops found a missing 13yr old girl in a house, naked and blind drunk, with 7 Pakistani men. THEY ARRESTED THE GIRL for being `Drunk &amp; Disorderly`.](http://9gag.com/gag/aBydwvD)<!-- MEMES:END -->
 
 ---
 

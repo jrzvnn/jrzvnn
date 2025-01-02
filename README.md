@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Same...](http://9gag.com/gag/aKGEjnO)
- - 😝 [Upvote Hypnobutt to have great luck in year 2025](http://9gag.com/gag/ayN2LmV)
- - 💣 [An ancient prophecy has just come true](http://9gag.com/gag/aQzE32z)
- - 😝 [New gif for 2025, you\u2019re welcome](http://9gag.com/gag/adBPKpV)
- - 👉 [Diamond Potato of Ultra Luck - upvote for luck in 2025](http://9gag.com/gag/aD2YWxK)<!-- MEMES:END -->
+ - 😝 [Its average nowadays](http://9gag.com/gag/azx2Xbq)
+ - 😝 [HAKUNA HER TATA](http://9gag.com/gag/aLn195W)
+ - 💣 [10% food 90% tap water](http://9gag.com/gag/a4PoGgp)
+ - 😝 [Why wont he understand!](http://9gag.com/gag/abAvpyp)
+ - 👉 [What kind of a party was that?](http://9gag.com/gag/a7oqZBe)<!-- MEMES:END -->
 
 ---
 

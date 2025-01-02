@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Sources: China-backed hackers accessed the computers of senior US Treasury officials; the department&#39;s email system and classified data were not breached &lpar;Bloomberg&rpar;](http://www.techmeme.com/250102/p22#a250102p22)
+ - [The best Nintendo Switch controllers to buy right now](https://www.theverge.com/23350899/nintendo-switch-controllers-best-wireless-joy-con-gamepad)
+ - [The best noise-canceling headphones to buy right now](https://www.theverge.com/21345733/best-noise-canceling-headphones)
  - [Many advertisers on TikTok say they will shift ad dollars if and when a US ban actually takes effect, as the yearslong saga has dulled any real sense of urgency &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/250102/p21#a250102p21)
- - [Samsung’s smart fridges will use AI to suggest groceries to buy on Instacart](https://www.theverge.com/2025/1/2/24334411/samsung-instacart-smart-fridge-partnership)
- - [Meta appoints new Trump-friendly policy chief](https://www.theverge.com/2025/1/2/24334432/meta-trump-friendly-policy-chief-joel-kaplan-nick-clegg)
- - [The best deals on MacBooks right now](https://www.theverge.com/22399419/apple-macbook-air-pro-mac-mini-imac-deals)
- - [Spotify debuts a Partner Program in the US, the UK, Canada, and Australia, letting popular podcast hosts monetize video content, after announcing it in November &lpar;Lauren Forristal/TechCrunch&rpar;](http://www.techmeme.com/250102/p20#a250102p20)<!-- TECH:END -->
+ - [Samsung’s smart fridges will use AI to suggest groceries to buy on Instacart](https://www.theverge.com/2025/1/2/24334411/samsung-instacart-smart-fridge-partnership)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

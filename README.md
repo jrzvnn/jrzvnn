@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [No title](http://9gag.com/gag/azx2AYq)
- - 😝 [Go sport](http://9gag.com/gag/a7oqDnw)
- - 💣 [Why wont he understand!](http://9gag.com/gag/abAvpyp)
- - 😝 [HAKUNA HER TATA](http://9gag.com/gag/aLn195W)
- - 👉 [Uh, no.](http://9gag.com/gag/aoyK9Ym)<!-- MEMES:END -->
+ - 😝 [Gf didn&#39;t have time to buy me a present](http://9gag.com/gag/aAy0dY2)
+ - 😝 [Sliding into 2025 like](http://9gag.com/gag/aW4GqxA)
+ - 💣 [British cops found a missing 13yr old girl in a house, naked and blind drunk, with 7 Pakistani men. THEY ARRESTED THE GIRL for being `Drunk &amp; Disorderly`.](http://9gag.com/gag/aBydwvD)
+ - 😝 [To me these bastards lied](http://9gag.com/gag/aBydWAx)
+ - 👉 [Keep up the good work](http://9gag.com/gag/aO8xBbM)<!-- MEMES:END -->
 
 ---
 

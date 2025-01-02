@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Indian regulators set to accuse Apple of anticompetitive practices](https://appleinsider.com/articles/25/01/02/indian-regulators-set-to-accuse-apple-of-anticompetitive-practices?utm_medium=rss)
+ - [Matter speakers are coming to stream music and tell you when the wash is done](https://www.theverge.com/2025/1/2/24332848/speakers-matter-smart-home-apple-google-amazon-legato)
  - [Thomson Reuters acquires Michigan-based tax automation company SafeSend in an all-cash transaction valued at $600M &lpar;Paul Sawers/TechCrunch&rpar;](http://www.techmeme.com/250102/p13#a250102p13)
- - [Apple to pay $95M to settle a lawsuit claiming Apple recorded private conversations when Siri was unintentionally activated and shared the data with advertisers &lpar;Jonathan Stempel/Reuters&rpar;](http://www.techmeme.com/250102/p12#a250102p12)
- - [What&#39;s best to watch on Apple TV+ during the upcoming free weekend](https://appleinsider.com/articles/24/12/30/whats-best-to-watch-on-apple-tv-during-the-upcoming-free-weekend?utm_medium=rss)
- - [Telegram adds third-party verification to combat scams](https://www.theverge.com/2025/1/2/24334132/telegram-third-party-verification-combat-scams)
- - [Samsung wants to break Sony&#39;s exclusive hold on iPhone camera sensors](https://appleinsider.com/articles/25/01/02/samsung-wants-to-break-sonys-exclusive-hold-on-iphone-camera-sensors?utm_medium=rss)<!-- TECH:END -->
+ - [We&#39;re Choosing the Best of CES, and We Want Your Nominations](https://www.cnet.com/tech/were-choosing-the-best-of-ces-and-we-want-your-nominations/#ftag=CAD590a51e)
+ - [Kickstart the New Year with the Samsung Galaxy Watch FE for Only $200](https://www.cnet.com/deals/kickstart-the-new-year-with-the-samsung-galaxy-watch-fe-for-only-200/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

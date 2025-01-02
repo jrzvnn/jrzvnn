@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [A US appeals court rules the FCC did not have legal authority to reinstate net neutrality rules; incoming FCC chair Brendan Carr opposed the 2024 reinstatement &lpar;David Shepardson/Reuters&rpar;](http://www.techmeme.com/250102/p17#a250102p17)
+ - [Sources: Meta is overhauling its global policy team, replacing President Nick Clegg with Joel Kaplan, his deputy and the company&#39;s most prominent Republican &lpar;Semafor&rpar;](http://www.techmeme.com/250102/p16#a250102p16)
  - [Apple will pay $95 million to people who were spied on by Siri](https://www.theverge.com/2025/1/2/24334268/apple-siri-recording-privacy-lawsuit-settlement-proposed)
  - [What speed to expect from M4 Ultra in the 2025 Mac Studio &amp; Mac Pro](https://appleinsider.com/articles/25/01/02/what-speed-to-expect-from-m4-ultra-in-the-2025-mac-studio-mac-pro?utm_medium=rss)
- - [Windows 11’s dynamic wallpapers revealed by former Microsoft designer](https://www.theverge.com/2025/1/2/24334304/microsoft-windows-11-dynamic-wallpapers)
- - [Apple’s AirTags add new child safety battery warnings](https://www.theverge.com/2025/1/2/24334293/apple-airtags-child-safety-battery-warnings-cpsc)
- - [How to Watch the Spectacular Quadrantids Meteor Shower Tonight](https://www.wired.com/story/watch-meteor-showers-2025-shooting-stars-ursids-geminids-leonids-orionids-perseids-southern-delta-aquariids-lyrids-quadrantids/)<!-- TECH:END -->
+ - [Windows 11’s dynamic wallpapers revealed by former Microsoft designer](https://www.theverge.com/2025/1/2/24334304/microsoft-windows-11-dynamic-wallpapers)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [What kind of a party was that?](http://9gag.com/gag/a7oqZBe)
- - 😝 [Happy New Year](http://9gag.com/gag/an7z10V)
- - 💣 [No title](http://9gag.com/gag/azx2AYq)
- - 😝 [Downgrade](http://9gag.com/gag/agmoG3K)
- - 👉 [What was that?](http://9gag.com/gag/avyQnzX)<!-- MEMES:END -->
+ - 😝 [HAKUNA HER TATA](http://9gag.com/gag/aLn195W)
+ - 😝 [Kids admiring bike](http://9gag.com/gag/a7oqr0w)
+ - 💣 [Ponytail blade](http://9gag.com/gag/a9yqrrZ)
+ - 😝 [What was that?](http://9gag.com/gag/avyQnzX)
+ - 👉 [Execution by cannon, Shiraz, Iran. 1890s.](http://9gag.com/gag/aW4GMvZ)<!-- MEMES:END -->
 
 ---
 

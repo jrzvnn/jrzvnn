@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Uncovering the portal to hell](http://9gag.com/gag/a7oqD3q)
- - 😝 [Downgrade](http://9gag.com/gag/agmoG3K)
- - 💣 [British cops found a missing 13yr old girl in a house, naked and blind drunk, with 7 Pakistani men. THEY ARRESTED THE GIRL for being `Drunk &amp; Disorderly`.](http://9gag.com/gag/aBydwvD)
- - 😝 [What was that?](http://9gag.com/gag/avyQnzX)
- - 👉 [A reason for Korean martial law 2024](http://9gag.com/gag/aD2YGWB)<!-- MEMES:END -->
+ - 😝 [That&#39;s so cute](http://9gag.com/gag/avyQ7Yq)
+ - 😝 [Gf didn&#39;t have time to buy me a present](http://9gag.com/gag/aAy0dY2)
+ - 💣 [To me these bastards lied](http://9gag.com/gag/aBydWAx)
+ - 😝 [British cops found a missing 13yr old girl in a house, naked and blind drunk, with 7 Pakistani men. THEY ARRESTED THE GIRL for being `Drunk &amp; Disorderly`.](http://9gag.com/gag/aBydwvD)
+ - 👉 [Keep up the good work](http://9gag.com/gag/aO8xBbM)<!-- MEMES:END -->
 
 ---
 

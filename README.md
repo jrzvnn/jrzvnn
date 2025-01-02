@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [HAKUNA HER TATA](http://9gag.com/gag/aLn195W)
- - 😝 [The start of Marvel Avengers](http://9gag.com/gag/aXPnqwD)
- - 💣 [Kids admiring bike](http://9gag.com/gag/a7oqr0w)
- - 😝 [Its average nowadays](http://9gag.com/gag/azx2Xbq)
- - 👉 [Ponytail blade](http://9gag.com/gag/a9yqrrZ)<!-- MEMES:END -->
+ - 😝 [Kids admiring bike](http://9gag.com/gag/a7oqr0w)
+ - 😝 [White guys imitating Indians making street food.](http://9gag.com/gag/a1mPKqY)
+ - 💣 [Go sport](http://9gag.com/gag/a7oqDnw)
+ - 😝 [Ponytail blade](http://9gag.com/gag/a9yqrrZ)
+ - 👉 [Its average nowadays](http://9gag.com/gag/azx2Xbq)<!-- MEMES:END -->
 
 ---
 

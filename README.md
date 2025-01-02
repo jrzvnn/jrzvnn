@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Apple agrees to $95M settlement to end privacy lawsuit over Siri recordings](https://appleinsider.com/articles/25/01/02/apple-agrees-to-95m-settlement-to-end-privacy-lawsuit-over-siri-recordings?utm_medium=rss)
+ - [GlobalFoundries and IBM settle dueling lawsuits claiming that GlobalFoundries breached a contract with IBM and that IBM misused the chipmaker&#39;s trade secrets &lpar;Blake Brittain/Reuters&rpar;](http://www.techmeme.com/250102/p14#a250102p14)
  - [Amazon’s Echo Show 5 and Show 8 are up to 50 percent off right now](https://www.theverge.com/2025/1/2/24334072/amazon-echo-show-5-8-anker-735-charger-deal-sale)
  - [Samsung’s cheap Galaxy Fit 3 fitness tracker is coming to the US](https://www.theverge.com/2025/1/2/24334199/samsung-cheap-galaxy-fit3-fitness-tracker-a16-us-launch)
- - [Indian regulators set to accuse Apple of anticompetitive practices](https://appleinsider.com/articles/25/01/02/indian-regulators-set-to-accuse-apple-of-anticompetitive-practices?utm_medium=rss)
- - [Matter speakers are coming to stream music and tell you when the wash is done](https://www.theverge.com/2025/1/2/24332848/speakers-matter-smart-home-apple-google-amazon-legato)
- - [Thomson Reuters acquires Michigan-based tax automation company SafeSend in an all-cash transaction valued at $600M &lpar;Paul Sawers/TechCrunch&rpar;](http://www.techmeme.com/250102/p13#a250102p13)<!-- TECH:END -->
+ - [Indian regulators set to accuse Apple of anticompetitive practices](https://appleinsider.com/articles/25/01/02/indian-regulators-set-to-accuse-apple-of-anticompetitive-practices?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

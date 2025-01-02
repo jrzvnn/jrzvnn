@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Net neutrality eviscerated by appeals court ruling](https://www.theverge.com/2025/1/2/24334309/net-neutrality-struck-down-sixth-circuit-chevron-deference)
- - [Email: NYC-based Level, which raised a $27M Series A in 2021 to help companies offer staff benefits, shuts down after an effort to sell the company fell through &lpar;The Information&rpar;](http://www.techmeme.com/250102/p19#a250102p19)
- - [The 45 Best Shows on Max &lpar;aka HBO Max&rpar; Right Now &lpar;January 2025&rpar;](https://www.wired.com/story/hbo-max-best-shows-to-stream-right-now/)
- - [The US government announced a ‘historic’ nuclear energy deal](https://www.theverge.com/2025/1/2/24334195/nuclear-energy-deal-us-government-constellation-gsa)
- - [Short seller Hindenburg shorts Carvana claiming the company&#39;s turnaround is a &quot;mirage&quot; that&#39;s being propped up by unstable loans and accounting manipulation &lpar;Michael Wayland/CNBC&rpar;](http://www.techmeme.com/250102/p18#a250102p18)<!-- TECH:END -->
+ - [The best deals on MacBooks right now](https://www.theverge.com/22399419/apple-macbook-air-pro-mac-mini-imac-deals)
+ - [Spotify debuts a Partner Program in the US, the UK, Canada, and Australia, letting popular podcast hosts monetize video content, after announcing it in November &lpar;Lauren Forristal/TechCrunch&rpar;](http://www.techmeme.com/250102/p20#a250102p20)
+ - [Third-party iPad smart connector accessories not working with iPadOS 18.3 beta](https://appleinsider.com/articles/25/01/02/third-party-ipad-smart-connector-accessories-not-working-with-ipados-183-beta?utm_medium=rss)
+ - [&#39;Marvel Rivals&#39; players face 100-year ban for play on macOS](https://appleinsider.com/articles/25/01/02/marvel-rivals-players-face-100-year-ban-for-play-on-macos?utm_medium=rss)
+ - [Net neutrality eviscerated by appeals court ruling](https://www.theverge.com/2025/1/2/24334309/net-neutrality-struck-down-sixth-circuit-chevron-deference)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

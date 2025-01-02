@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Why wont he understand!](http://9gag.com/gag/abAvpyp)
- - 😝 [Height marks on the wall](http://9gag.com/gag/a4PoZQv)
- - 💣 [Ponytail blade](http://9gag.com/gag/a9yqrrZ)
- - 😝 [Best fight ever \u2026](http://9gag.com/gag/aByd8Xz)
- - 👉 [Go sport](http://9gag.com/gag/a7oqDnw)<!-- MEMES:END -->
+ - 😝 [Take a note 9gaggers&#39;s virgins selfclaimed womanizer](http://9gag.com/gag/aBydw5P)
+ - 😝 [Like every time. Even at their children&#39;s birthday parties when they&#39;re driving later.](http://9gag.com/gag/aKGE2QO)
+ - 💣 [Dog is like we can do this the easy way or the hard way you chose](http://9gag.com/gag/adBP7BV)
+ - 😝 [Okay, lets share a secret. Who was your first boner?](http://9gag.com/gag/a87qp73)
+ - 👉 [Its average nowadays](http://9gag.com/gag/azx2Xbq)<!-- MEMES:END -->
 
 ---
 

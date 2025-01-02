@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Short seller Hindenburg shorts Carvana claiming the company&#39;s turnaround is a &quot;mirage&quot; that&#39;s being propped up by unstable loans and accounting manipulation &lpar;Michael Wayland/CNBC&rpar;](http://www.techmeme.com/250102/p18#a250102p18)
  - [Microsoft has a new ergonomic keyboard, but it’s expensive and made by Incase](https://www.theverge.com/2025/1/2/24334283/microsoft-ergonomic-keyboard-incase-pricing)
  - [A US appeals court rules the FCC did not have legal authority to reinstate net neutrality rules; incoming FCC chair Brendan Carr opposed the 2024 reinstatement &lpar;David Shepardson/Reuters&rpar;](http://www.techmeme.com/250102/p17#a250102p17)
  - [Meta overhauls its global policy team, replacing President Nick Clegg with Joel Kaplan, his deputy and the company&#39;s most prominent Republican &lpar;Semafor&rpar;](http://www.techmeme.com/250102/p16#a250102p16)
- - [Apple will pay $95 million to people who were spied on by Siri](https://www.theverge.com/2025/1/2/24334268/apple-siri-recording-privacy-lawsuit-settlement-proposed)
- - [What speed to expect from M4 Ultra in the 2025 Mac Studio &amp; Mac Pro](https://appleinsider.com/articles/25/01/02/what-speed-to-expect-from-m4-ultra-in-the-2025-mac-studio-mac-pro?utm_medium=rss)<!-- TECH:END -->
+ - [Apple will pay $95 million to people who were spied on by Siri](https://www.theverge.com/2025/1/2/24334268/apple-siri-recording-privacy-lawsuit-settlement-proposed)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

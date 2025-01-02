@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [British cops found a missing 13yr old girl in a house, naked and blind drunk, with 7 Pakistani men. THEY ARRESTED THE GIRL for being `Drunk &amp; Disorderly`.](http://9gag.com/gag/aBydwvD)
+ - 😝 [No title](http://9gag.com/gag/azx2AYq)
  - 😝 [Go sport](http://9gag.com/gag/a7oqDnw)
- - 💣 [Downgrade](http://9gag.com/gag/agmoG3K)
+ - 💣 [Why wont he understand!](http://9gag.com/gag/abAvpyp)
  - 😝 [HAKUNA HER TATA](http://9gag.com/gag/aLn195W)
- - 👉 [What was that?](http://9gag.com/gag/avyQnzX)<!-- MEMES:END -->
+ - 👉 [Uh, no.](http://9gag.com/gag/aoyK9Ym)<!-- MEMES:END -->
 
 ---
 

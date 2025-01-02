@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Go sport](http://9gag.com/gag/a7oqDnw)
- - 😝 [Why are some people so stupid?!](http://9gag.com/gag/abAvZYE)
- - 💣 [Execution by cannon, Shiraz, Iran. 1890s.](http://9gag.com/gag/aW4GMvZ)
+ - 😝 [What kind of a party was that?](http://9gag.com/gag/a7oqZBe)
+ - 😝 [Happy New Year](http://9gag.com/gag/an7z10V)
+ - 💣 [No title](http://9gag.com/gag/azx2AYq)
  - 😝 [Downgrade](http://9gag.com/gag/agmoG3K)
- - 👉 [A reason for Korean martial law 2024](http://9gag.com/gag/aD2YGWB)<!-- MEMES:END -->
+ - 👉 [What was that?](http://9gag.com/gag/avyQnzX)<!-- MEMES:END -->
 
 ---
 

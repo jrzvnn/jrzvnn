@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [I got him honey](http://9gag.com/gag/aGyE1G0)
- - 😝 [Best fight ever \u2026](http://9gag.com/gag/aByd8Xz)
- - 💣 [Like every time. Even at their children&#39;s birthday parties when they&#39;re driving later.](http://9gag.com/gag/aKGE2QO)
- - 😝 [What was that?](http://9gag.com/gag/avyQnzX)
- - 👉 [Why are some people so stupid?!](http://9gag.com/gag/abAvZYE)<!-- MEMES:END -->
+ - 😝 [Why are some people so stupid?!](http://9gag.com/gag/abAvZYE)
+ - 😝 [Why wont he understand!](http://9gag.com/gag/abAvpyp)
+ - 💣 [A reason for Korean martial law 2024](http://9gag.com/gag/aD2YGWB)
+ - 😝 [Go sport](http://9gag.com/gag/a7oqDnw)
+ - 👉 [Its average nowadays](http://9gag.com/gag/azx2Xbq)<!-- MEMES:END -->
 
 ---
 

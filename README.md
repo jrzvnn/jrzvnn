@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Apple to pay $95M to settle a lawsuit claiming Apple recorded private conversations when Siri was unintentionally activated and shared the data with advertisers &lpar;Jonathan Stempel/Reuters&rpar;](http://www.techmeme.com/250102/p12#a250102p12)
+ - [What&#39;s best to watch on Apple TV+ during the upcoming free weekend](https://appleinsider.com/articles/24/12/30/whats-best-to-watch-on-apple-tv-during-the-upcoming-free-weekend?utm_medium=rss)
  - [Telegram adds third-party verification to combat scams](https://www.theverge.com/2025/1/2/24334132/telegram-third-party-verification-combat-scams)
  - [Samsung wants to break Sony&#39;s exclusive hold on iPhone camera sensors](https://appleinsider.com/articles/25/01/02/samsung-wants-to-break-sonys-exclusive-hold-on-iphone-camera-sensors?utm_medium=rss)
- - [Sources: Morgan Stanley&#39;s E-Trade explores adding crypto trading, if approved by Federal Reserve, anticipating a favorable regulatory environment under Trump &lpar;Yueqi Yang/The Information&rpar;](http://www.techmeme.com/250102/p11#a250102p11)
- - [7 Surprising Places Microplastics Hide in Your Kitchen and Easy Swaps](https://www.cnet.com/health/7-surprising-places-microplastics-hide-in-your-kitchen-and-easy-swaps/#ftag=CAD590a51e)
- - [A $250 Discount Drops This EcoFlow Power Station Down to All-Time Low Price](https://www.cnet.com/deals/250-off-ecoflow-delta-3-plus-portable-power-station/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Sources: Morgan Stanley&#39;s E-Trade explores adding crypto trading, if approved by Federal Reserve, anticipating a favorable regulatory environment under Trump &lpar;Yueqi Yang/The Information&rpar;](http://www.techmeme.com/250102/p11#a250102p11)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

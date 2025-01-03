@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [Oskar](http://9gag.com/gag/aKGExQQ)
  - 😝 [First time i see trash on the streets of Japan, any theories?](http://9gag.com/gag/aPAgYgP)
- - 😝 [Eww](http://9gag.com/gag/an7z52b)
- - 💣 [Kids admiring bike](http://9gag.com/gag/a7oqr0w)
+ - 💣 [Indian politician takes a bad fall due to poor safety measures](http://9gag.com/gag/aVvb3Rv)
  - 😝 [After 5,000 years, we finally have shovel 2.0 and before GTA VI.](http://9gag.com/gag/adBPLD2)
- - 👉 [Indian politician takes a bad fall due to poor safety measures](http://9gag.com/gag/aVvb3Rv)<!-- MEMES:END -->
+ - 👉 [Watching fireworks from balcony](http://9gag.com/gag/avyQ8xO)<!-- MEMES:END -->
 
 ---
 

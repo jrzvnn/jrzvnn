@@ -158,10 +158,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- TECH:START -->
  - [Paris is vying with London as Europe&#39;s top AI hotspot, with 34 of the 40 best-performing startups at the Station F incubator in 2024 focused on AI &lpar;John Thornhill/Financial Times&rpar;](http://www.techmeme.com/250102/p24#a250102p24)
+ - [The Government May Ban TP-Link Routers This Year. How Worried Should You Be?](https://www.cnet.com/home/internet/the-government-may-ban-tp-link-routers-this-year-how-worried-should-you-be/#ftag=CAD590a51e)
+ - [Appeals Court Strikes Down FCC&#39;s Net Neutrality Rules, Citing Supreme Court Decision](https://www.cnet.com/tech/appeals-court-strikes-down-fccs-net-neutrality-rules-citing-supreme-court-decision/#ftag=CAD590a51e)
  - [The latest RTX 50 leak comes from Nvidia](https://www.theverge.com/2025/1/2/24334642/nvidia-geforce-rtx-50-leak-lan-party)
- - [The best MagSafe and Qi2 chargers for your iPhone](https://www.theverge.com/23505846/best-magsafe-magnetic-chargers-apple-iphone)
- - [The Death of Net Neutrality Is a Bad Omen](https://www.wired.com/story/net-neutrality-ruling-dead/)
- - [Amazon drops Apple&#39;s M4 16-inch MacBook Pro to $2,249 in latest sale](https://appleinsider.com/articles/25/01/02/amazon-drops-apples-m4-16-inch-macbook-pro-to-2249-in-latest-sale?utm_medium=rss)<!-- TECH:END -->
+ - [The best MagSafe and Qi2 chargers for your iPhone](https://www.theverge.com/23505846/best-magsafe-magnetic-chargers-apple-iphone)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [The real luxuries in life](http://9gag.com/gag/a34ZQvm)
- - 😝 [Japanese moving companies are second to none.](http://9gag.com/gag/aZZDgNQ)
- - 💣 [Classic...](http://9gag.com/gag/aRBE3xG)
- - 😝 [Diamond Potato of Ultra Luck - upvote for luck in 2025](http://9gag.com/gag/aD2YWxK)
- - 👉 [Women taking Ls](http://9gag.com/gag/a4Po7BZ)<!-- MEMES:END -->
+ - 😝 [Cybertruck explodes in Las Vegas, NV - January 1, 2025](http://9gag.com/gag/arym5yy)
+ - 😝 [Go sport](http://9gag.com/gag/a7oqDnw)
+ - 💣 [Any clues??](http://9gag.com/gag/aZZD3N9)
+ - 😝 [Its average nowadays](http://9gag.com/gag/azx2Xbq)
+ - 👉 [Watching fireworks from balcony](http://9gag.com/gag/avyQ8xO)<!-- MEMES:END -->
 
 ---
 

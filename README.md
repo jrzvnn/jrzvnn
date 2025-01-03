@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Elon Musk Is Posting Nonstop Falsehoods About &#39;Grooming Gangs&#39;](https://www.wired.com/story/elon-musk-disinformation-uk-grooming-gangs/)
  - [The Tesla Cybertruck isn’t living up to expectations](https://www.theverge.com/2025/1/3/24334954/tesla-cybertruck-sales-demand-expectation-elon-musk)
  - [The Wild Robot is coming to Peacock later this month](https://www.theverge.com/2025/1/3/24334991/the-wild-robot-peacock-streaming-debut-theatrical-rerelease)
  - [Apple&#39;s 2025 releases and free Apple TV+ for the weekend, on the AppleInsider Podcast](https://appleinsider.com/articles/25/01/03/apples-2025-releases-and-free-apple-tv-for-the-weekend-on-the-appleinsider-podcast?utm_medium=rss)
- - [An unredacted lawsuit from Utah&#39;s AG claims TikTok has long known that TikTok Live promoted sexual content streams to minors and facilitated money laundering &lpar;Alexandra S. Levine/Bloomberg&rpar;](http://www.techmeme.com/250103/p10#a250103p10)
- - [Meta’s AI-generated bot profiles are not being received well](https://www.theverge.com/2025/1/3/24334946/meta-ai-profiles-instagram-facebook-bots)<!-- TECH:END -->
+ - [An unredacted lawsuit from Utah&#39;s AG claims TikTok has long known that TikTok Live promoted sexual content streams to minors and facilitated money laundering &lpar;Alexandra S. Levine/Bloomberg&rpar;](http://www.techmeme.com/250103/p10#a250103p10)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

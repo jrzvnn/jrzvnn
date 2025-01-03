@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [They did exactly what they should have done](http://9gag.com/gag/aBydgmx)
- - 😝 [They&#39;re Trying to Pull a Fast One on Her](http://9gag.com/gag/aKGE7GZ)
- - 💣 [Installing bathroom tiles](http://9gag.com/gag/aW4GxGx)
- - 😝 [Oskar](http://9gag.com/gag/aKGExQQ)
- - 👉 [Gender Swap!! G](http://9gag.com/gag/aKGEdY1)<!-- MEMES:END -->
+ - 😝 [All parents have been there once or twice](http://9gag.com/gag/a2vKReE)
+ - 😝 [If you wonder why Rotherham dads got arrested after tracking down islamic scum that abused their daughters, this is UK minister of Justice. England is so f**ked up, and I enjoy it.](http://9gag.com/gag/azx2X5j)
+ - 💣 [5th of your budget](http://9gag.com/gag/adBPK7D)
+ - 😝 [Car insurance companies are like, `so, what route do you take every day?`](http://9gag.com/gag/aRBE00q)
+ - 👉 [Lord Gaben is indeed a Generous God](http://9gag.com/gag/aGyEjLK)<!-- MEMES:END -->
 
 ---
 

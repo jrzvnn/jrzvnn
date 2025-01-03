@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Sources: Getty Images is exploring a merger with rival Shutterstock; deliberations are ongoing and Getty could decide not to pursue a deal &lpar;Bloomberg&rpar;](http://www.techmeme.com/250103/p15#a250103p15)
  - [Answering your questions about AI, smart glasses, TikTok, and more](https://www.theverge.com/2025/1/3/24333045/command-line-reader-mailbag-issue-2025)
  - [Save Up to 84% on a New Belkin WeMo Video Doorbell System With This New Year Woot Deal](https://www.cnet.com/deals/save-up-to-84-on-a-new-belkin-video-doorbell-system-with-this-new-year-woot-deal/#ftag=CAD590a51e)
  - [Max: The 26 Absolute Best TV Shows to Watch](https://www.cnet.com/tech/services-and-software/best-tv-show-on-max-january-2025/#ftag=CAD590a51e)
- - [Prime Members Can Score 2 Anker USB-C Chargers and 2 Cables for Just $12](https://www.cnet.com/deals/prime-members-can-score-2-anker-usb-c-chargers-and-2-cables-for-just-12/#ftag=CAD590a51e)
- - [Put Your New Year&#39;s Fitness Goals First With Big Discounts on TheraGun Massage Guns](https://www.cnet.com/deals/put-your-new-years-fitness-goals-first-with-big-discounts-on-theragun-massage-guns/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Prime Members Can Score 2 Anker USB-C Chargers and 2 Cables for Just $12](https://www.cnet.com/deals/prime-members-can-score-2-anker-usb-c-chargers-and-2-cables-for-just-12/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

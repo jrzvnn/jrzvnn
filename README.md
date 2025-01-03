@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [5th of your budget](http://9gag.com/gag/adBPK7D)
- - 😝 [Any clues??](http://9gag.com/gag/aZZD3N9)
+ - 😝 [If you wonder why Rotherham dads got arrested after tracking down islamic scum that abused their daughters, this is UK minister of Justice. England is so f**ked up, and I enjoy it.](http://9gag.com/gag/azx2X5j)
+ - 😝 [Cybertruck explodes in Las Vegas, NV - January 1, 2025](http://9gag.com/gag/arym5yy)
  - 💣 [Phd references](http://9gag.com/gag/azx29zK)
- - 😝 [Watching fireworks from balcony](http://9gag.com/gag/avyQ8xO)
- - 👉 [First time i see trash on the streets of Japan, any theories?](http://9gag.com/gag/aPAgYgP)<!-- MEMES:END -->
+ - 😝 [Lord Gaben is indeed a Generous God](http://9gag.com/gag/aGyEjLK)
+ - 👉 [Any clues??](http://9gag.com/gag/aZZD3N9)<!-- MEMES:END -->
 
 ---
 

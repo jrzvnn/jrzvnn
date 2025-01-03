@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [China plans to extend its national consumer subsidies to smartphone, tablet, and smartwatch purchases to boost domestic spending as external headwinds pick up &lpar;Bloomberg&rpar;](http://www.techmeme.com/250103/p2#a250103p2)
  - [6 of the Best Pull-Up Bars for Your Home Gym in 2025](https://www.cnet.com/health/fitness/best-pull-up-bars/#ftag=CAD590a51e)
  - [Sources: Apple and Google removed over six VPN apps, including Cloudflare&#39;s 1.1.1.1, from their Indian app stores after the government issued removal orders &lpar;Manish Singh/TechCrunch&rpar;](http://www.techmeme.com/250103/p1#a250103p1)
  - [Nolah Evolution Hybrid Mattress Review 2024: Hotel Style Comfort With Firmness Options](https://www.cnet.com/health/sleep/nolah-evolution-hybrid-mattress-review/#ftag=CAD590a51e)
- - [Google&#39;s Nest Hub and Nest Audio have stopped responding to basic commands, like questions on the weather and time, for many users over the past few days &lpar;Rita El Khoury/Android Authority&rpar;](http://www.techmeme.com/250102/p27#a250102p27)
- - [Best King-Size Mattresses for 2025, Tested and Reviewed by CNET’s Sleep Experts](https://www.cnet.com/health/sleep/best-king-mattress/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Google&#39;s Nest Hub and Nest Audio have stopped responding to basic commands, like questions on the weather and time, for many users over the past few days &lpar;Rita El Khoury/Android Authority&rpar;](http://www.techmeme.com/250102/p27#a250102p27)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

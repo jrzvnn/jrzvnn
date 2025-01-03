@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Cybertruck explodes in Las Vegas, NV - January 1, 2025](http://9gag.com/gag/arym5yy)
+ - 😝 [Why wont he understand!](http://9gag.com/gag/abAvpyp)
+ - 😝 [Watching fireworks from balcony](http://9gag.com/gag/avyQ8xO)
+ - 💣 [Friends Forever](http://9gag.com/gag/aYQV4jV)
  - 😝 [Go sport](http://9gag.com/gag/a7oqDnw)
- - 💣 [Any clues??](http://9gag.com/gag/aZZD3N9)
- - 😝 [Its average nowadays](http://9gag.com/gag/azx2Xbq)
- - 👉 [Watching fireworks from balcony](http://9gag.com/gag/avyQ8xO)<!-- MEMES:END -->
+ - 👉 [Its average nowadays](http://9gag.com/gag/azx2Xbq)<!-- MEMES:END -->
 
 ---
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Microsoft says it expects to spend $80B in FY 2025 on the construction of data centers that can handle AI workloads, with 50%+ of the spending in the US &lpar;Jordan Novet/CNBC&rpar;](http://www.techmeme.com/250103/p16#a250103p16)
  - [Sources: Getty Images is exploring a merger with rival Shutterstock; deliberations are ongoing and Getty could decide not to pursue a deal &lpar;Bloomberg&rpar;](http://www.techmeme.com/250103/p15#a250103p15)
  - [Answering your questions about AI, smart glasses, TikTok, and more](https://www.theverge.com/2025/1/3/24333045/command-line-reader-mailbag-issue-2025)
  - [Save Up to 84% on a New Belkin WeMo Video Doorbell System With This New Year Woot Deal](https://www.cnet.com/deals/save-up-to-84-on-a-new-belkin-video-doorbell-system-with-this-new-year-woot-deal/#ftag=CAD590a51e)
- - [Max: The 26 Absolute Best TV Shows to Watch](https://www.cnet.com/tech/services-and-software/best-tv-show-on-max-january-2025/#ftag=CAD590a51e)
- - [Prime Members Can Score 2 Anker USB-C Chargers and 2 Cables for Just $12](https://www.cnet.com/deals/prime-members-can-score-2-anker-usb-c-chargers-and-2-cables-for-just-12/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Max: The 26 Absolute Best TV Shows to Watch](https://www.cnet.com/tech/services-and-software/best-tv-show-on-max-january-2025/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

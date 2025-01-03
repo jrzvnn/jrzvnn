@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Please take me home](http://9gag.com/gag/axyogrD)
- - 😝 [The power of water !](http://9gag.com/gag/arym577)
- - 💣 [It&#39;s OK!!](http://9gag.com/gag/an7zMob)
+ - 😝 [Just a totally normal vacation](http://9gag.com/gag/aGyEev6)
  - 😝 [Any clues??](http://9gag.com/gag/aZZD3N9)
- - 👉 [Like every time. Even at their children&#39;s birthday parties when they&#39;re driving later.](http://9gag.com/gag/aKGE2QO)<!-- MEMES:END -->
+ - 💣 [How Places Like BK Don&#39;t Look At Their Employees As Human Beings, Even for Funerals, Stoop To A New Low!](http://9gag.com/gag/an7zbY0)
+ - 😝 [Like every time. Even at their children&#39;s birthday parties when they&#39;re driving later.](http://9gag.com/gag/aKGE2QO)
+ - 👉 [It&#39;s OK!!](http://9gag.com/gag/an7zMob)<!-- MEMES:END -->
 
 ---
 

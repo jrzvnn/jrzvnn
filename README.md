@@ -158,10 +158,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- TECH:START -->
  - [Answering your questions about AI, smart glasses, TikTok, and more](https://www.theverge.com/2025/1/3/24333045/command-line-reader-mailbag-issue-2025)
- - [Meta says the viral AI profiles on Facebook and Instagram were created in 2023 as part of &quot;an early experiment&quot; with AI characters, and it is deleting them &lpar;Jason Koebler/404 Media&rpar;](http://www.techmeme.com/250103/p14#a250103p14)
- - [Elon Musk fanboy Adrian Dittmann&#39;s alleged 4Chan posts and X activity suggest he might be Musk&#39;s fake online persona; source: the viral 4Chan screenshot is fake &lpar;The Verge&rpar;](http://www.techmeme.com/250103/p13#a250103p13)
- - [Apple Intelligence, with features like Genmoji and Image Playground in iOS 18.2, requires 7GB of storage, compared to 4GB in iOS 18.1 &lpar;Ryan Christoffel/9to5Mac&rpar;](http://www.techmeme.com/250103/p12#a250103p12)
- - [Here are the best iPad deals right now](https://www.theverge.com/21280354/best-ipad-deals-apple)<!-- TECH:END -->
+ - [Save Up to 84% on a New Belkin WeMo Video Doorbell System With This New Year Woot Deal](https://www.cnet.com/deals/save-up-to-84-on-a-new-belkin-video-doorbell-system-with-this-new-year-woot-deal/#ftag=CAD590a51e)
+ - [Max: The 26 Absolute Best TV Shows to Watch](https://www.cnet.com/tech/services-and-software/best-tv-show-on-max-january-2025/#ftag=CAD590a51e)
+ - [Prime Members Can Score 2 Anker USB-C Chargers and 2 Cables for Just $12](https://www.cnet.com/deals/prime-members-can-score-2-anker-usb-c-chargers-and-2-cables-for-just-12/#ftag=CAD590a51e)
+ - [Put Your New Year&#39;s Fitness Goals First With Big Discounts on TheraGun Massage Guns](https://www.cnet.com/deals/put-your-new-years-fitness-goals-first-with-big-discounts-on-theragun-massage-guns/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

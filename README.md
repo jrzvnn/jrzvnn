@@ -166,9 +166,9 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Friends Forever](http://9gag.com/gag/aYQV4jV)
  - 😝 [After 5,000 years, we finally have shovel 2.0 and before GTA VI.](http://9gag.com/gag/adBPLD2)
- - 💣 [5th of your budget](http://9gag.com/gag/adBPK7D)
+ - 😝 [Cologne Central Station, Germany looks oddly similar to a different place](http://9gag.com/gag/aMVEYjA)
+ - 💣 [First time i see trash on the streets of Japan, any theories?](http://9gag.com/gag/aPAgYgP)
  - 😝 [Lord Gaben is indeed a Generous God](http://9gag.com/gag/aGyEjLK)
  - 👉 [Phd references](http://9gag.com/gag/azx29zK)<!-- MEMES:END -->
 

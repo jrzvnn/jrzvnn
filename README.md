@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Why wont he understand!](http://9gag.com/gag/abAvpyp)
- - 😝 [Watching fireworks from balcony](http://9gag.com/gag/avyQ8xO)
- - 💣 [Friends Forever](http://9gag.com/gag/aYQV4jV)
- - 😝 [Go sport](http://9gag.com/gag/a7oqDnw)
- - 👉 [Its average nowadays](http://9gag.com/gag/azx2Xbq)<!-- MEMES:END -->
+ - 😝 [How Places Like BK Don&#39;t Look At Their Employees As Human Beings, Even for Funerals, Stoop To A New Low!](http://9gag.com/gag/an7zbY0)
+ - 😝 [Kids admiring bike](http://9gag.com/gag/a7oqr0w)
+ - 💣 [After 5,000 years, we finally have shovel 2.0 and before GTA VI.](http://9gag.com/gag/adBPLD2)
+ - 😝 [Its average nowadays](http://9gag.com/gag/azx2Xbq)
+ - 👉 [Just wanted to show you my favourite nutcracker. The back in comments.](http://9gag.com/gag/awyZXqW)<!-- MEMES:END -->
 
 ---
 

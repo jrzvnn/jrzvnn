@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Paris is vying with London as Europe&#39;s top AI hotspot, with 34 of the 40 best-performing startups at the Station F incubator in 2024 focused on AI &lpar;John Thornhill/Financial Times&rpar;](http://www.techmeme.com/250102/p24#a250102p24)
+ - [The latest RTX 50 leak comes from Nvidia](https://www.theverge.com/2025/1/2/24334642/nvidia-geforce-rtx-50-leak-lan-party)
  - [The best MagSafe and Qi2 chargers for your iPhone](https://www.theverge.com/23505846/best-magsafe-magnetic-chargers-apple-iphone)
  - [The Death of Net Neutrality Is a Bad Omen](https://www.wired.com/story/net-neutrality-ruling-dead/)
- - [Amazon drops Apple&#39;s M4 16-inch MacBook Pro to $2,249 in latest sale](https://appleinsider.com/articles/25/01/02/amazon-drops-apples-m4-16-inch-macbook-pro-to-2249-in-latest-sale?utm_medium=rss)
- - [Terraform Labs co-founder Do Kwon pleads not guilty before a US federal judge in New York to nine counts, including wire fraud, over the $40B TerraUSD collapse &lpar;Bob Van Voris/Bloomberg&rpar;](http://www.techmeme.com/250102/p23#a250102p23)
- - [Quadrantids Meteor Shower Is Peaking Tonight: How to Watch It](https://www.cnet.com/science/quadrantids-meteor-shower-peaks-jan-2-3-heres-how-to-watch-it/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Amazon drops Apple&#39;s M4 16-inch MacBook Pro to $2,249 in latest sale](https://appleinsider.com/articles/25/01/02/amazon-drops-apples-m4-16-inch-macbook-pro-to-2249-in-latest-sale?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

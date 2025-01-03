@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Elon Musk Is Posting Nonstop Falsehoods About &#39;Grooming Gangs&#39;](https://www.wired.com/story/elon-musk-disinformation-uk-grooming-gangs/)
- - [The Tesla Cybertruck isn’t living up to expectations](https://www.theverge.com/2025/1/3/24334954/tesla-cybertruck-sales-demand-expectation-elon-musk)
- - [The Wild Robot is coming to Peacock later this month](https://www.theverge.com/2025/1/3/24334991/the-wild-robot-peacock-streaming-debut-theatrical-rerelease)
- - [Apple&#39;s 2025 releases and free Apple TV+ for the weekend, on the AppleInsider Podcast](https://appleinsider.com/articles/25/01/03/apples-2025-releases-and-free-apple-tv-for-the-weekend-on-the-appleinsider-podcast?utm_medium=rss)
- - [An unredacted lawsuit from Utah&#39;s AG claims TikTok has long known that TikTok Live promoted sexual content streams to minors and facilitated money laundering &lpar;Alexandra S. Levine/Bloomberg&rpar;](http://www.techmeme.com/250103/p10#a250103p10)<!-- TECH:END -->
+ - [Twelve South’s Find My-compatible charger has hit an all-time low price](https://www.theverge.com/2025/1/3/24334643/twelve-south-bose-soundlike-max-plugbug-deal-sale)
+ - [The US sanctions Beijing-based cybersecurity company Integrity Technology over its alleged links to China-backed hacking group Flax Typhoon &lpar;Carly Page/TechCrunch&rpar;](http://www.techmeme.com/250103/p11#a250103p11)
+ - [Cybertruck explosion investigation identifies the driver and tracks its path to Las Vegas](https://www.theverge.com/2025/1/3/24334937/cybertruck-explosion-trump-hotel-las-vegas)
+ - [You can aim this projector by moving its motion-sensing remote around](https://www.theverge.com/2025/1/3/24334077/jmgo-n3-ultra-max-4k-projector-motorized-gimbal)
+ - [Elon Musk Is Posting Nonstop Falsehoods About &#39;Grooming Gangs&#39;](https://www.wired.com/story/elon-musk-disinformation-uk-grooming-gangs/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

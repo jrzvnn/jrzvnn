@@ -167,10 +167,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [First time i see trash on the streets of Japan, any theories?](http://9gag.com/gag/aPAgYgP)
- - 😝 [Kids admiring bike](http://9gag.com/gag/a7oqr0w)
- - 💣 [Any clues??](http://9gag.com/gag/aZZD3N9)
- - 😝 [Phd references](http://9gag.com/gag/azx29zK)
- - 👉 [Appliances where destroyed because somebody&#39;s kid went `king kong` mode](http://9gag.com/gag/a87q3OQ)<!-- MEMES:END -->
+ - 😝 [Eww](http://9gag.com/gag/an7z52b)
+ - 💣 [Kids admiring bike](http://9gag.com/gag/a7oqr0w)
+ - 😝 [After 5,000 years, we finally have shovel 2.0 and before GTA VI.](http://9gag.com/gag/adBPLD2)
+ - 👉 [Indian politician takes a bad fall due to poor safety measures](http://9gag.com/gag/aVvb3Rv)<!-- MEMES:END -->
 
 ---
 

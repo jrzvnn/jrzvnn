@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Best Headphones for Working Out &lpar;2025&rpar;: Beats, Bose, Shokz, JLab](https://www.wired.com/gallery/best-workout-headphones/)
  - [New Year update to Apple Fitness+ adds Strava integration](https://appleinsider.com/articles/25/01/03/new-year-update-to-apple-fitness-adds-strava-integration?utm_medium=rss)
  - [The Best Tested Apple 3-in-1 Wireless Chargers &lpar;2025&rpar;](https://www.wired.com/gallery/best-apple-3-in-1-wireless-chargers/)
  - [Chinese smartphone market continues to be tough for Apple and other foreign brands](https://appleinsider.com/articles/25/01/03/chinese-smartphone-market-continues-to-be-tough-for-apple-and-other-foreign-brands?utm_medium=rss)
- - [Tired of Eating Out? I Tried This Recipe-Generating AI Tool to Create a Restaurant Meal at Home](https://www.cnet.com/tech/services-and-software/tired-of-eating-out-i-tried-this-recipe-generating-ai-tool-to-create-a-restaurant-meal-at-home/#ftag=CAD590a51e)
- - [Apple and Strava partner to feature Strava athletes in Fitness+ programming, add more detailed Fitness+ workout summaries in the Strava app, and more &lpar;Victoria Song/The Verge&rpar;](http://www.techmeme.com/250103/p6#a250103p6)<!-- TECH:END -->
+ - [Tired of Eating Out? I Tried This Recipe-Generating AI Tool to Create a Restaurant Meal at Home](https://www.cnet.com/tech/services-and-software/tired-of-eating-out-i-tried-this-recipe-generating-ai-tool-to-create-a-restaurant-meal-at-home/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

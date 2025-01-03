@@ -167,10 +167,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [Any clues??](http://9gag.com/gag/aZZD3N9)
- - 😝 [Friends Forever](http://9gag.com/gag/aYQV4jV)
- - 💣 [Impact of your childhood](http://9gag.com/gag/aqyeK5j)
- - 😝 [Any capt?](http://9gag.com/gag/a9yqrKj)
- - 👉 [Why wont he understand!](http://9gag.com/gag/abAvpyp)<!-- MEMES:END -->
+ - 😝 [What kind of a party was that?](http://9gag.com/gag/a7oqZBe)
+ - 💣 [British cops found a missing 13yr old girl in a house, naked and blind drunk, with 7 Pakistani men. THEY ARRESTED THE GIRL for being `Drunk &amp; Disorderly`.](http://9gag.com/gag/aBydwvD)
+ - 😝 [Just wanted to show you my favourite nutcracker. The back in comments.](http://9gag.com/gag/awyZXqW)
+ - 👉 [Take a note 9gaggers&#39;s virgins selfclaimed womanizer](http://9gag.com/gag/aBydw5P)<!-- MEMES:END -->
 
 ---
 

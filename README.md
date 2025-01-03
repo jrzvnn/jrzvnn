@@ -167,10 +167,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [All parents have been there once or twice](http://9gag.com/gag/a2vKReE)
- - 😝 [If you wonder why Rotherham dads got arrested after tracking down islamic scum that abused their daughters, this is UK minister of Justice. England is so f**ked up, and I enjoy it.](http://9gag.com/gag/azx2X5j)
- - 💣 [5th of your budget](http://9gag.com/gag/adBPK7D)
- - 😝 [Car insurance companies are like, `so, what route do you take every day?`](http://9gag.com/gag/aRBE00q)
- - 👉 [Lord Gaben is indeed a Generous God](http://9gag.com/gag/aGyEjLK)<!-- MEMES:END -->
+ - 😝 [Lord Gaben is indeed a Generous God](http://9gag.com/gag/aGyEjLK)
+ - 💣 [Car insurance companies are like, `so, what route do you take every day?`](http://9gag.com/gag/aRBE00q)
+ - 😝 [They&#39;re Trying to Pull a Fast One on Her](http://9gag.com/gag/aKGE7GZ)
+ - 👉 [5th of your budget](http://9gag.com/gag/adBPK7D)<!-- MEMES:END -->
 
 ---
 

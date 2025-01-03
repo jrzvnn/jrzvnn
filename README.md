@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Filing: Dara Khosrowshahi resigns from self-driving truck startup Aurora&#39;s board, to focus on his job as Uber CEO and reduce external board commitments &lpar;Rebecca Bellan/TechCrunch&rpar;](http://www.techmeme.com/250103/p21#a250103p21)
+ - [The best smartphone you can buy for under $500](https://www.theverge.com/21420196/best-budget-smartphone-cheap)
  - [Tim Cook is donating $1 million to Trump’s inauguration, too](https://www.theverge.com/2025/1/3/24335290/apple-donation-donald-trump-inauguration-tim-cook)
  - [PitchBook: generative AI companies worldwide raised $56B from VCs in 2024 across 885 deals, up 192% from 2023, with startups outside the US raising just $6.2B &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/250103/p20#a250103p20)
- - [Apple CEO Tim Cook personally invested $1 million in Trump&#39;s inauguration](https://appleinsider.com/articles/25/01/03/apple-ceo-tim-cook-personally-invested-1-million-in-trumps-inauguration?utm_medium=rss)
- - [In a test, asking Claude 3.5 Sonnet to &quot;write better code&quot; iteratively improved the code&#39;s features and speed, but more aggressive prompt engineering added bugs &lpar;Max Woolf/Max Woolf&#39;s Blog&rpar;](http://www.techmeme.com/250103/p19#a250103p19)
- - [Sources: Tim Cook will personally donate $1M to President-elect Trump&#39;s inaugural committee in the spirit of unity; Apple is not expected to donate &lpar;Mike Allen/Axios&rpar;](http://www.techmeme.com/250103/p18#a250103p18)<!-- TECH:END -->
+ - [Apple CEO Tim Cook personally invested $1 million in Trump&#39;s inauguration](https://appleinsider.com/articles/25/01/03/apple-ceo-tim-cook-personally-invested-1-million-in-trumps-inauguration?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

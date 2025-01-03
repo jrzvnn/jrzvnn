@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [New Year update to Apple Fitness+ adds Strava integration](https://appleinsider.com/articles/25/01/03/new-year-update-to-apple-fitness-adds-strava-integration?utm_medium=rss)
  - [The Best Tested Apple 3-in-1 Wireless Chargers &lpar;2025&rpar;](https://www.wired.com/gallery/best-apple-3-in-1-wireless-chargers/)
  - [Chinese smartphone market continues to be tough for Apple and other foreign brands](https://appleinsider.com/articles/25/01/03/chinese-smartphone-market-continues-to-be-tough-for-apple-and-other-foreign-brands?utm_medium=rss)
  - [Tired of Eating Out? I Tried This Recipe-Generating AI Tool to Create a Restaurant Meal at Home](https://www.cnet.com/tech/services-and-software/tired-of-eating-out-i-tried-this-recipe-generating-ai-tool-to-create-a-restaurant-meal-at-home/#ftag=CAD590a51e)
- - [Apple and Strava partner to feature Strava athletes in Fitness+ programming, add more detailed Fitness+ workout summaries in the Strava app, and more &lpar;Victoria Song/The Verge&rpar;](http://www.techmeme.com/250103/p6#a250103p6)
- - [Keep Things Private: A Quick Guide to Blurring Your House on Google Maps](https://www.cnet.com/tech/services-and-software/keep-things-private-a-quick-guide-to-blurring-your-house-on-google-maps/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Apple and Strava partner to feature Strava athletes in Fitness+ programming, add more detailed Fitness+ workout summaries in the Strava app, and more &lpar;Victoria Song/The Verge&rpar;](http://www.techmeme.com/250103/p6#a250103p6)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

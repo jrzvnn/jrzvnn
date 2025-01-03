@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Oskar](http://9gag.com/gag/aKGExQQ)
- - 😝 [Indian politician takes a bad fall due to poor safety measures](http://9gag.com/gag/aVvb3Rv)
- - 💣 [Lord Gaben is indeed a Generous God](http://9gag.com/gag/aGyEjLK)
- - 😝 [Appliances where destroyed because somebody&#39;s kid went `king kong` mode](http://9gag.com/gag/a87q3OQ)
- - 👉 [Phd references](http://9gag.com/gag/azx29zK)<!-- MEMES:END -->
+ - 😝 [Phd references](http://9gag.com/gag/azx29zK)
+ - 😝 [What is this show about ?](http://9gag.com/gag/amoA5mo)
+ - 💣 [Appliances where destroyed because somebody&#39;s kid went `king kong` mode](http://9gag.com/gag/a87q3OQ)
+ - 😝 [Lord Gaben is indeed a Generous God](http://9gag.com/gag/aGyEjLK)
+ - 👉 [Watching fireworks from balcony](http://9gag.com/gag/avyQ8xO)<!-- MEMES:END -->
 
 ---
 

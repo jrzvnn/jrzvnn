@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [What is this show about ?](http://9gag.com/gag/amoA5mo)
- - 😝 [After 5,000 years, we finally have shovel 2.0 and before GTA VI.](http://9gag.com/gag/adBPLD2)
- - 💣 [Oskar](http://9gag.com/gag/aKGExQQ)
+ - 😝 [Oskar](http://9gag.com/gag/aKGExQQ)
  - 😝 [Indian politician takes a bad fall due to poor safety measures](http://9gag.com/gag/aVvb3Rv)
- - 👉 [First time i see trash on the streets of Japan, any theories?](http://9gag.com/gag/aPAgYgP)<!-- MEMES:END -->
+ - 💣 [Lord Gaben is indeed a Generous God](http://9gag.com/gag/aGyEjLK)
+ - 😝 [Appliances where destroyed because somebody&#39;s kid went `king kong` mode](http://9gag.com/gag/a87q3OQ)
+ - 👉 [Phd references](http://9gag.com/gag/azx29zK)<!-- MEMES:END -->
 
 ---
 

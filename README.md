@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [A super-intelligent woman wanted to get a spectacular photo shoot against the backdrop of a herd of horses and this is what came out of it.](http://9gag.com/gag/aW4GxB6)
- - 😝 [Women](http://9gag.com/gag/an7z5D0)
- - 💣 [They did exactly what they should have done](http://9gag.com/gag/aBydgmx)
- - 😝 [Oskar](http://9gag.com/gag/aKGExQQ)
- - 👉 [You ruined my life!](http://9gag.com/gag/aVvb028)<!-- MEMES:END -->
+ - 😝 [Lord Gaben is indeed a Generous God](http://9gag.com/gag/aGyEjLK)
+ - 😝 [First time i see trash on the streets of Japan, any theories?](http://9gag.com/gag/aPAgYgP)
+ - 💣 [Tolkien&#39;s roommate](http://9gag.com/gag/aBydg0D)
+ - 😝 [Phd references](http://9gag.com/gag/azx29zK)
+ - 👉 [What is this show about ?](http://9gag.com/gag/amoA5mo)<!-- MEMES:END -->
 
 ---
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [In a test, asking Claude 3.5 Sonnet to &quot;write better code&quot; iteratively improved the code&#39;s features and speed, but more aggressive prompt engineering added bugs &lpar;Max Woolf/Max Woolf&#39;s Blog&rpar;](http://www.techmeme.com/250103/p19#a250103p19)
  - [Sources: Tim Cook will personally donate $1M to President-elect Trump&#39;s inaugural committee in the spirit of unity; Apple is not expected to donate &lpar;Mike Allen/Axios&rpar;](http://www.techmeme.com/250103/p18#a250103p18)
  - [Samsung and Google’s new spatial audio format will take on Dolby Atmos this year](https://www.theverge.com/2025/1/3/24335170/samsung-google-eclipsa-spatial-audio-format-2025-tvs)
  - [An in-depth look at Elon Musk&#39;s criticisms of Wikipedia, as he joins a growing chorus of right-wing voices attacking information sources outside their control &lpar;Molly White/Citation Needed&rpar;](http://www.techmeme.com/250103/p17#a250103p17)
- - [A Huge 85-Inch Samsung TV Comes With Huge Savings for Your Wallet](https://www.cnet.com/deals/a-huge-85-inch-samsung-tv-comes-with-huge-savings-for-your-wallet/#ftag=CAD590a51e)
- - [A Book App Used AI to ‘Roast’ Its Users. It Went Anti-Woke Instead](https://www.wired.com/story/fable-controversy-ai-summaries/)<!-- TECH:END -->
+ - [A Huge 85-Inch Samsung TV Comes With Huge Savings for Your Wallet](https://www.cnet.com/deals/a-huge-85-inch-samsung-tv-comes-with-huge-savings-for-your-wallet/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

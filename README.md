@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Apple Intelligence, with features like Genmoji and Image Playground in iOS 18.2, requires 7GB of storage, compared to 4GB in iOS 18.1 &lpar;Ryan Christoffel/9to5Mac&rpar;](http://www.techmeme.com/250103/p12#a250103p12)
+ - [Here are the best iPad deals right now](https://www.theverge.com/21280354/best-ipad-deals-apple)
+ - [Apple sells limited-edition Year of the Snake AirPods 4 in China](https://appleinsider.com/articles/25/01/03/apple-sells-limited-edition-year-of-the-snake-airpods-4-in-china?utm_medium=rss)
  - [That Elon Musk ‘Adrian Dittmann’ screenshot is almost certainly fake](https://www.theverge.com/2025/1/3/24335045/elon-musk-4chan-adrian-dittmann-x-screenshot-admin-portal-fake)
- - [Twelve South’s Find My-compatible charger has hit an all-time low price](https://www.theverge.com/2025/1/3/24334643/twelve-south-bose-soundlike-max-plugbug-deal-sale)
- - [The US sanctions Beijing-based cybersecurity company Integrity Technology over its alleged links to China-backed hacking group Flax Typhoon &lpar;Carly Page/TechCrunch&rpar;](http://www.techmeme.com/250103/p11#a250103p11)
- - [Cybertruck explosion investigation identifies the driver and tracks its path to Las Vegas](https://www.theverge.com/2025/1/3/24334937/cybertruck-explosion-trump-hotel-las-vegas)
- - [You can aim this projector by moving its motion-sensing remote around](https://www.theverge.com/2025/1/3/24334077/jmgo-n3-ultra-max-4k-projector-motorized-gimbal)<!-- TECH:END -->
+ - [Twelve South’s Find My-compatible charger has hit an all-time low price](https://www.theverge.com/2025/1/3/24334643/twelve-south-bose-soundlike-max-plugbug-deal-sale)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

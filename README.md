@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [First time i see trash on the streets of Japan, any theories?](http://9gag.com/gag/aPAgYgP)
- - 😝 [Cybertruck explodes in Las Vegas, NV - January 1, 2025](http://9gag.com/gag/arym5yy)
- - 💣 [Car insurance companies are like, `so, what route do you take every day?`](http://9gag.com/gag/aRBE00q)
+ - 😝 [`you can&#39;t tell a TV show just by people&#39;s chins` The Chins:](http://9gag.com/gag/aD2YzNZ)
+ - 😝 [5th of your budget](http://9gag.com/gag/adBPK7D)
+ - 💣 [Phd references](http://9gag.com/gag/azx29zK)
  - 😝 [What is this show about ?](http://9gag.com/gag/amoA5mo)
- - 👉 [Phd references](http://9gag.com/gag/azx29zK)<!-- MEMES:END -->
+ - 👉 [Watching fireworks from balcony](http://9gag.com/gag/avyQ8xO)<!-- MEMES:END -->
 
 ---
 

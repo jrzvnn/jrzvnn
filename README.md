@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Guess he didn&#39;t like the song](http://9gag.com/gag/aXPnjxV)
  - 😝 [After 5,000 years, we finally have shovel 2.0 and before GTA VI.](http://9gag.com/gag/adBPLD2)
- - 💣 [Just a totally normal vacation](http://9gag.com/gag/aGyEev6)
- - 😝 [Cologne Central Station, Germany looks oddly similar to a different place](http://9gag.com/gag/aMVEYjA)
- - 👉 [One angry man can beat the whole army women](http://9gag.com/gag/avyQo5d)<!-- MEMES:END -->
+ - 😝 [Cybertruck explodes in Las Vegas, NV - January 1, 2025](http://9gag.com/gag/arym5yy)
+ - 💣 [5th of your budget](http://9gag.com/gag/adBPK7D)
+ - 😝 [Oskar](http://9gag.com/gag/aKGExQQ)
+ - 👉 [There is no amount of money anyone can pay me to bring me or my family to this forsaken place](http://9gag.com/gag/amoA7xX)<!-- MEMES:END -->
 
 ---
 

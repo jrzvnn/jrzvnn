@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Cybertruck explodes in Las Vegas, NV - January 1, 2025](http://9gag.com/gag/arym5yy)
  - 😝 [Please take me home](http://9gag.com/gag/axyogrD)
- - 💣 [Go sport](http://9gag.com/gag/a7oqDnw)
+ - 😝 [The power of water !](http://9gag.com/gag/arym577)
+ - 💣 [It&#39;s OK!!](http://9gag.com/gag/an7zMob)
  - 😝 [Any clues??](http://9gag.com/gag/aZZD3N9)
- - 👉 [Kids admiring bike](http://9gag.com/gag/a7oqr0w)<!-- MEMES:END -->
+ - 👉 [Like every time. Even at their children&#39;s birthday parties when they&#39;re driving later.](http://9gag.com/gag/aKGE2QO)<!-- MEMES:END -->
 
 ---
 

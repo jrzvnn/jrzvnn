@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Lord Gaben is indeed a Generous God](http://9gag.com/gag/aGyEjLK)
- - 😝 [First time i see trash on the streets of Japan, any theories?](http://9gag.com/gag/aPAgYgP)
- - 💣 [After 5,000 years, we finally have shovel 2.0 and before GTA VI.](http://9gag.com/gag/adBPLD2)
- - 😝 [Phd references](http://9gag.com/gag/azx29zK)
- - 👉 [Conspiracy theory](http://9gag.com/gag/aD2YzXB)<!-- MEMES:END -->
+ - 😝 [A fellow pattern recognizer. Well said brother!](http://9gag.com/gag/aNDw1wb)
+ - 😝 [Women](http://9gag.com/gag/an7z5D0)
+ - 💣 [They did exactly what they should have done](http://9gag.com/gag/aBydgmx)
+ - 😝 [Oskar](http://9gag.com/gag/aKGExQQ)
+ - 👉 [You ruined my life!](http://9gag.com/gag/aVvb028)<!-- MEMES:END -->
 
 ---
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Sources: Tim Cook will personally donate $1M to President-elect Trump&#39;s inaugural committee in the spirit of unity; Apple is not expected to donate &lpar;Mike Allen/Axios&rpar;](http://www.techmeme.com/250103/p18#a250103p18)
  - [Samsung and Google’s new spatial audio format will take on Dolby Atmos this year](https://www.theverge.com/2025/1/3/24335170/samsung-google-eclipsa-spatial-audio-format-2025-tvs)
  - [An in-depth look at Elon Musk&#39;s criticisms of Wikipedia, as he joins a growing chorus of right-wing voices attacking information sources outside their control &lpar;Molly White/Citation Needed&rpar;](http://www.techmeme.com/250103/p17#a250103p17)
- - [A Book App Used AI to ‘Roast’ Its Users. It Went Anti-Woke Instead](https://www.wired.com/story/fable-controversy-ai-summaries/)
- - [USB-C Is Now the Law of the Land in Europe](https://www.wired.com/story/usb-c-is-now-a-legal-requirement-for-most-rechargeable-gadgets-in-europe/)
- - [The best wireless earbuds to buy right now](https://www.theverge.com/21309820/best-wireless-earbuds)<!-- TECH:END -->
+ - [A Huge 85-Inch Samsung TV Comes With Huge Savings for Your Wallet](https://www.cnet.com/deals/a-huge-85-inch-samsung-tv-comes-with-huge-savings-for-your-wallet/#ftag=CAD590a51e)
+ - [A Book App Used AI to ‘Roast’ Its Users. It Went Anti-Woke Instead](https://www.wired.com/story/fable-controversy-ai-summaries/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Why wont he understand!](http://9gag.com/gag/abAvpyp)
+ - 😝 [Cybertruck explodes in Las Vegas, NV - January 1, 2025](http://9gag.com/gag/arym5yy)
  - 😝 [Just wanted to show you my favourite nutcracker. The back in comments.](http://9gag.com/gag/awyZXqW)
- - 💣 [Oskar](http://9gag.com/gag/aKGExQQ)
- - 😝 [A private jet ordered to stop from colliding into a commercial plane taking off](http://9gag.com/gag/aVvbq4w)
- - 👉 [Like every time. Even at their children&#39;s birthday parties when they&#39;re driving later.](http://9gag.com/gag/aKGE2QO)<!-- MEMES:END -->
+ - 💣 [Its average nowadays](http://9gag.com/gag/azx2Xbq)
+ - 😝 [Why wont he understand!](http://9gag.com/gag/abAvpyp)
+ - 👉 [Oskar](http://9gag.com/gag/aKGExQQ)<!-- MEMES:END -->
 
 ---
 

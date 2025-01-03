@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The Minute You Install iOS 18.2, Change These 8 iPhone Settings](https://www.cnet.com/tech/services-and-software/the-minute-you-install-ios-18-2-change-these-8-iphone-settings/#ftag=CAD590a51e)
  - [A look at the Texas Responsible AI Governance Act, which was formally introduced in Texas legislature and has very broad negligence liability for developers &lpar;Dean W. Ball/Hyperdimensional&rpar;](http://www.techmeme.com/250103/p3#a250103p3)
- - [Dictatorships Will Be Vulnerable to Algorithms](https://www.wired.com/story/dictatorships-will-be-vulnerable-to-algorithms/)
- - [This LG lamp is also a projector and Bluetooth speaker](https://www.theverge.com/2025/1/3/24334850/lg-lamp-projectors-speaker-ust-4k-specs)
- - [China plans to extend its national consumer subsidies to smartphone, tablet, and smartwatch purchases to boost domestic spending as external headwinds pick up &lpar;Bloomberg&rpar;](http://www.techmeme.com/250103/p2#a250103p2)
- - [6 of the Best Pull-Up Bars for Your Home Gym in 2025](https://www.cnet.com/health/fitness/best-pull-up-bars/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [The Future of AI Is Coming for Our Eyes: VR and AR&#39;s Killer App, With Killer Unknowns](https://www.cnet.com/tech/computing/the-future-of-ai-is-coming-for-our-eyes-vr-and-ars-killer-app-with-killer-unknowns/#ftag=CAD590a51e)
+ - [Rates Decline for Prospective Buyers: Today&#39;s Mortgage Rates on Jan. 3, 2025](https://www.cnet.com/personal-finance/mortgages/rates-decline-for-prospective-buyers-todays-mortgage-rates-on-jan-3-2025/#ftag=CAD590a51e)
+ - [Refinance Rates Slide Down Again: Current Refinance Rates on Jan. 3, 2025](https://www.cnet.com/personal-finance/mortgages/refinance-rates-slide-down-again-current-refinance-rates-on-jan-3-2025/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

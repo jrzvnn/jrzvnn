@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Japanese moving companies are second to none.](http://9gag.com/gag/aZZDgNQ)
- - 😝 [Diamond Potato of Ultra Luck - upvote for luck in 2025](http://9gag.com/gag/aD2YWxK)
- - 💣 [Impact of your childhood](http://9gag.com/gag/aqyeK5j)
- - 😝 [The real luxuries in life](http://9gag.com/gag/a34ZQvm)
- - 👉 [Classic...](http://9gag.com/gag/aRBE3xG)<!-- MEMES:END -->
+ - 😝 [Just wanted to show you my favourite nutcracker. The back in comments.](http://9gag.com/gag/awyZXqW)
+ - 😝 [Cybertruck explodes in Las Vegas, NV - January 1, 2025](http://9gag.com/gag/arym5yy)
+ - 💣 [What kind of a party was that?](http://9gag.com/gag/a7oqZBe)
+ - 😝 [Rules the remaining pieces of Asgard](http://9gag.com/gag/a2vKorp)
+ - 👉 [Like every time. Even at their children&#39;s birthday parties when they&#39;re driving later.](http://9gag.com/gag/aKGE2QO)<!-- MEMES:END -->
 
 ---
 

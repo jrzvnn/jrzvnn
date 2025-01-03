@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The best wireless earbuds to buy right now](https://www.theverge.com/21309820/best-wireless-earbuds)
  - [Ford is extending its free at-home EV charging promotion](https://www.theverge.com/2025/1/3/24335123/ford-power-promise-2025-free-ev-charger-extension)
  - [Apple Intelligence summaries are still screwing up headlines](https://appleinsider.com/articles/25/01/03/apple-intelligence-summaries-are-still-screwing-up-headlines?utm_medium=rss)
  - [Microsoft says it expects to spend $80B in FY 2025 on the construction of data centers that can handle AI workloads, with 50%+ of the spending in the US &lpar;Jordan Novet/CNBC&rpar;](http://www.techmeme.com/250103/p16#a250103p16)
- - [Sources: Getty Images is exploring a merger with rival Shutterstock; deliberations are ongoing and Getty could decide not to pursue a deal &lpar;Bloomberg&rpar;](http://www.techmeme.com/250103/p15#a250103p15)
- - [Answering your questions about AI, smart glasses, TikTok, and more](https://www.theverge.com/2025/1/3/24333045/command-line-reader-mailbag-issue-2025)<!-- TECH:END -->
+ - [Anthropic AI Copyright Case Centers on &#39;Guardrails&#39; for Song Lyrics](https://www.cnet.com/tech/services-and-software/anthropic-ai-copyright-case-centers-on-guardrails-for-song-lyrics/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

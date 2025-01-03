@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [A source at X says a viral 4chan screenshot that seems to suggest Elon Musk is cosplaying as his superfan Adrian Dittmann is almost certainly fake &lpar;The Verge&rpar;](http://www.techmeme.com/250103/p13#a250103p13)
+ - [Meta says the viral AI profiles on Facebook and Instagram were created in 2023 as part of &quot;an early experiment&quot; with AI characters, and it is deleting them &lpar;Jason Koebler/404 Media&rpar;](http://www.techmeme.com/250103/p14#a250103p14)
+ - [Elon Musk fanboy Adrian Dittmann&#39;s alleged 4Chan posts and X activity suggest he might be Musk&#39;s fake online persona; source: the viral 4Chan screenshot is fake &lpar;The Verge&rpar;](http://www.techmeme.com/250103/p13#a250103p13)
  - [Apple Intelligence, with features like Genmoji and Image Playground in iOS 18.2, requires 7GB of storage, compared to 4GB in iOS 18.1 &lpar;Ryan Christoffel/9to5Mac&rpar;](http://www.techmeme.com/250103/p12#a250103p12)
  - [Here are the best iPad deals right now](https://www.theverge.com/21280354/best-ipad-deals-apple)
- - [Apple sells limited-edition Year of the Snake AirPods 4 in China](https://appleinsider.com/articles/25/01/03/apple-sells-limited-edition-year-of-the-snake-airpods-4-in-china?utm_medium=rss)
- - [That Elon Musk ‘Adrian Dittmann’ screenshot is almost certainly fake](https://www.theverge.com/2025/1/3/24335045/elon-musk-4chan-adrian-dittmann-x-screenshot-admin-portal-fake)<!-- TECH:END -->
+ - [Apple sells limited-edition Year of the Snake AirPods 4 in China](https://appleinsider.com/articles/25/01/03/apple-sells-limited-edition-year-of-the-snake-airpods-4-in-china?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [After 5,000 years, we finally have shovel 2.0 and before GTA VI.](http://9gag.com/gag/adBPLD2)
- - 😝 [The power of water !](http://9gag.com/gag/arym577)
- - 💣 [What is this show about ?](http://9gag.com/gag/amoA5mo)
- - 😝 [Any clues??](http://9gag.com/gag/aZZD3N9)
- - 👉 [First time i see trash on the streets of Japan, any theories?](http://9gag.com/gag/aPAgYgP)<!-- MEMES:END -->
+ - 😝 [First time i see trash on the streets of Japan, any theories?](http://9gag.com/gag/aPAgYgP)
+ - 😝 [Cybertruck explodes in Las Vegas, NV - January 1, 2025](http://9gag.com/gag/arym5yy)
+ - 💣 [Car insurance companies are like, `so, what route do you take every day?`](http://9gag.com/gag/aRBE00q)
+ - 😝 [What is this show about ?](http://9gag.com/gag/amoA5mo)
+ - 👉 [Phd references](http://9gag.com/gag/azx29zK)<!-- MEMES:END -->
 
 ---
 

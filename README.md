@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Dictatorships Will Be Vulnerable to Algorithms](https://www.wired.com/story/dictatorships-will-be-vulnerable-to-algorithms/)
  - [This LG lamp is also a projector and Bluetooth speaker](https://www.theverge.com/2025/1/3/24334850/lg-lamp-projectors-speaker-ust-4k-specs)
  - [China plans to extend its national consumer subsidies to smartphone, tablet, and smartwatch purchases to boost domestic spending as external headwinds pick up &lpar;Bloomberg&rpar;](http://www.techmeme.com/250103/p2#a250103p2)
  - [6 of the Best Pull-Up Bars for Your Home Gym in 2025](https://www.cnet.com/health/fitness/best-pull-up-bars/#ftag=CAD590a51e)
- - [Sources: Apple and Google removed over six VPN apps, including Cloudflare&#39;s 1.1.1.1, from their Indian app stores after the government issued removal orders &lpar;Manish Singh/TechCrunch&rpar;](http://www.techmeme.com/250103/p1#a250103p1)
- - [Nolah Evolution Hybrid Mattress Review 2024: Hotel Style Comfort With Firmness Options](https://www.cnet.com/health/sleep/nolah-evolution-hybrid-mattress-review/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Sources: Apple and Google removed over six VPN apps, including Cloudflare&#39;s 1.1.1.1, from their Indian app stores after the government issued removal orders &lpar;Manish Singh/TechCrunch&rpar;](http://www.techmeme.com/250103/p1#a250103p1)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

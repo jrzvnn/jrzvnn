@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [First time i see trash on the streets of Japan, any theories?](http://9gag.com/gag/aPAgYgP)
- - 😝 [Phd references](http://9gag.com/gag/azx29zK)
- - 💣 [Rules the remaining pieces of Asgard](http://9gag.com/gag/a2vKorp)
+ - 😝 [They did exactly what they should have done](http://9gag.com/gag/aBydgmx)
  - 😝 [They&#39;re Trying to Pull a Fast One on Her](http://9gag.com/gag/aKGE7GZ)
- - 👉 [Tolkien&#39;s roommate](http://9gag.com/gag/aBydg0D)<!-- MEMES:END -->
+ - 💣 [Installing bathroom tiles](http://9gag.com/gag/aW4GxGx)
+ - 😝 [Oskar](http://9gag.com/gag/aKGExQQ)
+ - 👉 [Gender Swap!! G](http://9gag.com/gag/aKGEdY1)<!-- MEMES:END -->
 
 ---
 

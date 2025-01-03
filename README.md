@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The best MagSafe and Qi2 chargers for your iPhone](https://www.theverge.com/23505846/best-magsafe-magnetic-chargers-apple-iphone)
+ - [The Death of Net Neutrality Is a Bad Omen](https://www.wired.com/story/net-neutrality-ruling-dead/)
+ - [Amazon drops Apple&#39;s M4 16-inch MacBook Pro to $2,249 in latest sale](https://appleinsider.com/articles/25/01/02/amazon-drops-apples-m4-16-inch-macbook-pro-to-2249-in-latest-sale?utm_medium=rss)
  - [Terraform Labs co-founder Do Kwon pleads not guilty before a US federal judge in New York to nine counts, including wire fraud, over the $40B TerraUSD collapse &lpar;Bob Van Voris/Bloomberg&rpar;](http://www.techmeme.com/250102/p23#a250102p23)
- - [Hyundai and Kia now qualify for the federal EV tax credit](https://www.theverge.com/2025/1/2/24334471/hyundai-kia-genesis-federal-ev-tax-credit-2025-trump)
- - [Editors at Science Journal Resign En Masse Over Bad Use of AI, High Fees](https://www.wired.com/story/editors-at-science-journal-resign-en-masse-over-bad-use-of-ai-high-fees/)
- - [Sources: China-backed hackers accessed the computers of senior US Treasury officials; the department&#39;s email system and classified data were not breached &lpar;Bloomberg&rpar;](http://www.techmeme.com/250102/p22#a250102p22)
- - [The best Nintendo Switch controllers to buy right now](https://www.theverge.com/23350899/nintendo-switch-controllers-best-wireless-joy-con-gamepad)<!-- TECH:END -->
+ - [Quadrantids Meteor Shower Is Peaking Tonight: How to Watch It](https://www.cnet.com/science/quadrantids-meteor-shower-peaks-jan-2-3-heres-how-to-watch-it/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

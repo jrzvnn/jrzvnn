@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Lord Gaben is indeed a Generous God](http://9gag.com/gag/aGyEjLK)
- - 😝 [5th of your budget](http://9gag.com/gag/adBPK7D)
- - 💣 [Cybertruck explodes in Las Vegas, NV - January 1, 2025](http://9gag.com/gag/arym5yy)
- - 😝 [After 5,000 years, we finally have shovel 2.0 and before GTA VI.](http://9gag.com/gag/adBPLD2)
- - 👉 [What is this show about ?](http://9gag.com/gag/amoA5mo)<!-- MEMES:END -->
+ - 😝 [Not today!](http://9gag.com/gag/arymgYV)
+ - 😝 [Never nude a country twice](http://9gag.com/gag/azx29XK)
+ - 💣 [A fellow pattern recognizer. Well said brother!](http://9gag.com/gag/aNDw1wb)
+ - 😝 [Women](http://9gag.com/gag/an7z5D0)
+ - 👉 [They did exactly what they should have done](http://9gag.com/gag/aBydgmx)<!-- MEMES:END -->
 
 ---
 

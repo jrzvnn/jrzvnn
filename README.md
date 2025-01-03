@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Chinese smartphone market continues to be tough for Apple and other foreign brands](https://appleinsider.com/articles/25/01/03/chinese-smartphone-market-continues-to-be-tough-for-apple-and-other-foreign-brands?utm_medium=rss)
  - [Apple and Strava partner to feature Strava athletes in Fitness+ programming, add more detailed Fitness+ workout summaries in the Strava app, and more &lpar;Victoria Song/The Verge&rpar;](http://www.techmeme.com/250103/p6#a250103p6)
  - [15 Best Outdoor Security Cameras &lpar;2025&rpar;: Battery-Powered, LTE, No Subscription](https://www.wired.com/gallery/best-outdoor-security-cameras/)
  - [Weak iPad Pro sales prompt OLED supplier to switch to making more iPhone screens](https://appleinsider.com/articles/25/01/03/weak-ipad-pro-sales-prompt-oled-supplier-to-switch-to-making-more-iphone-screens?utm_medium=rss)
- - [Foreign smartphone shipments, including iPhones, to China fell 47.4% YoY in November, following a 44.25% YoY drop in October, marking four months of decline &lpar;Reuters&rpar;](http://www.techmeme.com/250103/p5#a250103p5)
- - [How to Customize Your iPhone&#39;s Home Screen Widgets Fast With iOS 18](https://www.cnet.com/tech/services-and-software/how-to-customize-your-iphones-home-screen-widgets-fast-with-ios-18/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Foreign smartphone shipments, including iPhones, to China fell 47.4% YoY in November, following a 44.25% YoY drop in October, marking four months of decline &lpar;Reuters&rpar;](http://www.techmeme.com/250103/p5#a250103p5)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

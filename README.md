@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Go sport](http://9gag.com/gag/a7oqDnw)
- - 😝 [Just wanted to show you my favourite nutcracker. The back in comments.](http://9gag.com/gag/awyZXqW)
- - 💣 [It&#39;s OK!!](http://9gag.com/gag/an7zMob)
  - 😝 [Cybertruck explodes in Las Vegas, NV - January 1, 2025](http://9gag.com/gag/arym5yy)
- - 👉 [Just a totally normal vacation](http://9gag.com/gag/aGyEev6)<!-- MEMES:END -->
+ - 😝 [Please take me home](http://9gag.com/gag/axyogrD)
+ - 💣 [Go sport](http://9gag.com/gag/a7oqDnw)
+ - 😝 [Any clues??](http://9gag.com/gag/aZZD3N9)
+ - 👉 [Kids admiring bike](http://9gag.com/gag/a7oqr0w)<!-- MEMES:END -->
 
 ---
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Lord Gaben is indeed a Generous God](http://9gag.com/gag/aGyEjLK)
- - 😝 [First time i see trash on the streets of Japan, any theories?](http://9gag.com/gag/aPAgYgP)
- - 💣 [Tolkien&#39;s roommate](http://9gag.com/gag/aBydg0D)
- - 😝 [Phd references](http://9gag.com/gag/azx29zK)
- - 👉 [What is this show about ?](http://9gag.com/gag/amoA5mo)<!-- MEMES:END -->
+ - 😝 [5th of your budget](http://9gag.com/gag/adBPK7D)
+ - 😝 [Any clues??](http://9gag.com/gag/aZZD3N9)
+ - 💣 [Phd references](http://9gag.com/gag/azx29zK)
+ - 😝 [Watching fireworks from balcony](http://9gag.com/gag/avyQ8xO)
+ - 👉 [First time i see trash on the streets of Japan, any theories?](http://9gag.com/gag/aPAgYgP)<!-- MEMES:END -->
 
 ---
 

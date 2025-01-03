@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The Best Tested Apple 3-in-1 Wireless Chargers &lpar;2025&rpar;](https://www.wired.com/gallery/best-apple-3-in-1-wireless-chargers/)
  - [Chinese smartphone market continues to be tough for Apple and other foreign brands](https://appleinsider.com/articles/25/01/03/chinese-smartphone-market-continues-to-be-tough-for-apple-and-other-foreign-brands?utm_medium=rss)
+ - [Tired of Eating Out? I Tried This Recipe-Generating AI Tool to Create a Restaurant Meal at Home](https://www.cnet.com/tech/services-and-software/tired-of-eating-out-i-tried-this-recipe-generating-ai-tool-to-create-a-restaurant-meal-at-home/#ftag=CAD590a51e)
  - [Apple and Strava partner to feature Strava athletes in Fitness+ programming, add more detailed Fitness+ workout summaries in the Strava app, and more &lpar;Victoria Song/The Verge&rpar;](http://www.techmeme.com/250103/p6#a250103p6)
- - [15 Best Outdoor Security Cameras &lpar;2025&rpar;: Battery-Powered, LTE, No Subscription](https://www.wired.com/gallery/best-outdoor-security-cameras/)
- - [Weak iPad Pro sales prompt OLED supplier to switch to making more iPhone screens](https://appleinsider.com/articles/25/01/03/weak-ipad-pro-sales-prompt-oled-supplier-to-switch-to-making-more-iphone-screens?utm_medium=rss)
- - [Foreign smartphone shipments, including iPhones, to China fell 47.4% YoY in November, following a 44.25% YoY drop in October, marking four months of decline &lpar;Reuters&rpar;](http://www.techmeme.com/250103/p5#a250103p5)<!-- TECH:END -->
+ - [Keep Things Private: A Quick Guide to Blurring Your House on Google Maps](https://www.cnet.com/tech/services-and-software/keep-things-private-a-quick-guide-to-blurring-your-house-on-google-maps/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

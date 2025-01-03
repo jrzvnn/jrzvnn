@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Impact of your childhood](http://9gag.com/gag/aqyeK5j)
- - 😝 [Classic...](http://9gag.com/gag/aRBE3xG)
- - 💣 [Japanese moving companies are second to none.](http://9gag.com/gag/aZZDgNQ)
- - 😝 [Women taking Ls](http://9gag.com/gag/a4Po7BZ)
- - 👉 [Diamond Potato of Ultra Luck - upvote for luck in 2025](http://9gag.com/gag/aD2YWxK)<!-- MEMES:END -->
+ - 😝 [Cologne Central Station, Germany looks oddly similar to a different place](http://9gag.com/gag/aMVEYjA)
+ - 😝 [After 5,000 years, we finally have shovel 2.0 and before GTA VI.](http://9gag.com/gag/adBPLD2)
+ - 💣 [Just wanted to show you my favourite nutcracker. The back in comments.](http://9gag.com/gag/awyZXqW)
+ - 😝 [Oops](http://9gag.com/gag/aD2YgYN)
+ - 👉 [Oskar](http://9gag.com/gag/aKGExQQ)<!-- MEMES:END -->
 
 ---
 

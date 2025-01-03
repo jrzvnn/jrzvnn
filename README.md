@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Just a totally normal vacation](http://9gag.com/gag/aGyEev6)
- - 😝 [Any clues??](http://9gag.com/gag/aZZD3N9)
- - 💣 [How Places Like BK Don&#39;t Look At Their Employees As Human Beings, Even for Funerals, Stoop To A New Low!](http://9gag.com/gag/an7zbY0)
- - 😝 [Like every time. Even at their children&#39;s birthday parties when they&#39;re driving later.](http://9gag.com/gag/aKGE2QO)
- - 👉 [It&#39;s OK!!](http://9gag.com/gag/an7zMob)<!-- MEMES:END -->
+ - 😝 [Why wont he understand!](http://9gag.com/gag/abAvpyp)
+ - 😝 [Just wanted to show you my favourite nutcracker. The back in comments.](http://9gag.com/gag/awyZXqW)
+ - 💣 [Oskar](http://9gag.com/gag/aKGExQQ)
+ - 😝 [A private jet ordered to stop from colliding into a commercial plane taking off](http://9gag.com/gag/aVvbq4w)
+ - 👉 [Like every time. Even at their children&#39;s birthday parties when they&#39;re driving later.](http://9gag.com/gag/aKGE2QO)<!-- MEMES:END -->
 
 ---
 

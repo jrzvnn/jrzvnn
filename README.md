@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Tass: a Russian court ordered Yandex to hide access to maps and photos of a Russian oil refinery from search results due to repeated attacks by Ukrainian drones &lpar;Alexander Marrow/Reuters&rpar;](http://www.techmeme.com/250103/p4#a250103p4)
  - [The Minute You Install iOS 18.2, Change These 8 iPhone Settings](https://www.cnet.com/tech/services-and-software/the-minute-you-install-ios-18-2-change-these-8-iphone-settings/#ftag=CAD590a51e)
  - [A look at the Texas Responsible AI Governance Act, which was formally introduced in Texas legislature and has very broad negligence liability for developers &lpar;Dean W. Ball/Hyperdimensional&rpar;](http://www.techmeme.com/250103/p3#a250103p3)
  - [The Future of AI Is Coming for Our Eyes: VR and AR&#39;s Killer App, With Killer Unknowns](https://www.cnet.com/tech/computing/the-future-of-ai-is-coming-for-our-eyes-vr-and-ars-killer-app-with-killer-unknowns/#ftag=CAD590a51e)
- - [Rates Decline for Prospective Buyers: Today&#39;s Mortgage Rates on Jan. 3, 2025](https://www.cnet.com/personal-finance/mortgages/rates-decline-for-prospective-buyers-todays-mortgage-rates-on-jan-3-2025/#ftag=CAD590a51e)
- - [Refinance Rates Slide Down Again: Current Refinance Rates on Jan. 3, 2025](https://www.cnet.com/personal-finance/mortgages/refinance-rates-slide-down-again-current-refinance-rates-on-jan-3-2025/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Rates Decline for Prospective Buyers: Today&#39;s Mortgage Rates on Jan. 3, 2025](https://www.cnet.com/personal-finance/mortgages/rates-decline-for-prospective-buyers-todays-mortgage-rates-on-jan-3-2025/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

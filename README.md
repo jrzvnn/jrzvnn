@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Grab the iPad 10th Gen for just $279 at Amazon this weekend](https://appleinsider.com/articles/25/01/03/grab-the-ipad-10th-gen-for-just-279-at-amazon-this-weekend?utm_medium=rss)
  - [Californians Say X Blocked Them From Viewing Amber Alert About Missing 14-Year-Old](https://www.wired.com/story/amber-alert-paywall-california/)
  - [Elon Musk fanboy Adrian Dittmann&#39;s alleged 4Chan posts and Dittmann&#39;s X Spaces appearances suggest he might be a fake online persona used by Musk himself &lpar;Jess Weatherbed/The Verge&rpar;](http://www.techmeme.com/250103/p9#a250103p9)
  - [Apple Watch health tips to kick off the new year](https://appleinsider.com/articles/25/01/03/apple-watch-health-tips-to-kick-off-the-new-year?utm_medium=rss)
- - [Meta required a public statesman like Nick Clegg after the Cambridge Analytica scandal, and now turns to the in-house Republican Joel Kaplan to appease Trump &lpar;Dave Lee/Bloomberg&rpar;](http://www.techmeme.com/250103/p8#a250103p8)
- - [New evidence suggests Elon Musk is cosplaying his superfan Adrian Dittmann](https://www.theverge.com/2025/1/3/24334936/elon-musk-adrian-dittmann-burner-account-rumors)<!-- TECH:END -->
+ - [It&#39;s Cold Outside! Winter&#39;s Here, So Take These Steps to Weatherproof Your Internet](https://www.cnet.com/home/internet/winter-is-here-so-take-these-steps-to-weather-proof-your-internet/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

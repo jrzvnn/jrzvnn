@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Apple Watch health tips to kick off the new year](https://appleinsider.com/articles/25/01/03/apple-watch-health-tips-to-kick-off-the-new-year?utm_medium=rss)
  - [Meta required a public statesman like Nick Clegg after the Cambridge Analytica scandal, and now turns to the in-house Republican Joel Kaplan to appease Trump &lpar;Dave Lee/Bloomberg&rpar;](http://www.techmeme.com/250103/p8#a250103p8)
  - [New evidence suggests Elon Musk is cosplaying his superfan Adrian Dittmann](https://www.theverge.com/2025/1/3/24334936/elon-musk-adrian-dittmann-burner-account-rumors)
  - [There&#39;s an AI Overhaul Happening in Your Home, but You Might Not Notice It](https://www.cnet.com/home/smart-home/theres-an-ai-overhaul-happening-in-your-home-but-you-might-not-notice-it/#ftag=CAD590a51e)
- - [Time for iOS 18.3? When to Expect the Next iPhone Update](https://www.cnet.com/tech/services-and-software/time-for-ios-18-3-when-to-expect-the-next-iphone-update/#ftag=CAD590a51e)
- - [Influencer marketing company Later acquires Mavely, which pays commissions to social-media creators for the sales they generate, for $250M in cash and stock &lpar;Katie Deighton/Wall Street Journal&rpar;](http://www.techmeme.com/250103/p7#a250103p7)<!-- TECH:END -->
+ - [Time for iOS 18.3? When to Expect the Next iPhone Update](https://www.cnet.com/tech/services-and-software/time-for-ios-18-3-when-to-expect-the-next-iphone-update/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

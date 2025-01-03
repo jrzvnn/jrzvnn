@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Memo: Sameer Singh, TikTok&#39;s general manager for North America&#39;s ads team, is leaving the company at the end of February, as the company faces a ban in the US &lpar;Trishla Ostwal/Adweek&rpar;](http://www.techmeme.com/250103/p22#a250103p22)
  - [The best Bluetooth trackers for finding your stuff](https://www.theverge.com/23769840/best-bluetooth-trackers)
  - [Filing: Dara Khosrowshahi resigns from self-driving truck startup Aurora&#39;s board, to focus on his job as Uber CEO and reduce external board commitments &lpar;Rebecca Bellan/TechCrunch&rpar;](http://www.techmeme.com/250103/p21#a250103p21)
  - [The best smartphone you can buy for under $500](https://www.theverge.com/21420196/best-budget-smartphone-cheap)
- - [Tim Cook is donating $1 million to Trump’s inauguration, too](https://www.theverge.com/2025/1/3/24335290/apple-donation-donald-trump-inauguration-tim-cook)
- - [PitchBook: generative AI companies worldwide raised $56B from VCs in 2024 across 885 deals, up 192% from 2023, with startups outside the US raising just $6.2B &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/250103/p20#a250103p20)<!-- TECH:END -->
+ - [Tim Cook is donating $1 million to Trump’s inauguration, too](https://www.theverge.com/2025/1/3/24335290/apple-donation-donald-trump-inauguration-tim-cook)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

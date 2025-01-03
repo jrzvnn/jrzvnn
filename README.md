@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The Tesla Cybertruck isn’t living up to expectations](https://www.theverge.com/2025/1/3/24334954/tesla-cybertruck-sales-demand-expectation-elon-musk)
+ - [The Wild Robot is coming to Peacock later this month](https://www.theverge.com/2025/1/3/24334991/the-wild-robot-peacock-streaming-debut-theatrical-rerelease)
  - [Apple&#39;s 2025 releases and free Apple TV+ for the weekend, on the AppleInsider Podcast](https://appleinsider.com/articles/25/01/03/apples-2025-releases-and-free-apple-tv-for-the-weekend-on-the-appleinsider-podcast?utm_medium=rss)
  - [An unredacted lawsuit from Utah&#39;s AG claims TikTok has long known that TikTok Live promoted sexual content streams to minors and facilitated money laundering &lpar;Alexandra S. Levine/Bloomberg&rpar;](http://www.techmeme.com/250103/p10#a250103p10)
- - [Meta’s AI-generated bot profiles are not being received well](https://www.theverge.com/2025/1/3/24334946/meta-ai-profiles-instagram-facebook-bots)
- - [Grab the iPad 10th Gen for just $279 at Amazon this weekend](https://appleinsider.com/articles/25/01/03/grab-the-ipad-10th-gen-for-just-279-at-amazon-this-weekend?utm_medium=rss)
- - [Californians Say X Blocked Them From Viewing Amber Alert About Missing 14-Year-Old](https://www.wired.com/story/amber-alert-paywall-california/)<!-- TECH:END -->
+ - [Meta’s AI-generated bot profiles are not being received well](https://www.theverge.com/2025/1/3/24334946/meta-ai-profiles-instagram-facebook-bots)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

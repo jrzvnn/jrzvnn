@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Cologne Central Station, Germany looks oddly similar to a different place](http://9gag.com/gag/aMVEYjA)
+ - 😝 [Guess he didn&#39;t like the song](http://9gag.com/gag/aXPnjxV)
  - 😝 [After 5,000 years, we finally have shovel 2.0 and before GTA VI.](http://9gag.com/gag/adBPLD2)
- - 💣 [Just wanted to show you my favourite nutcracker. The back in comments.](http://9gag.com/gag/awyZXqW)
- - 😝 [Oskar](http://9gag.com/gag/aKGExQQ)
- - 👉 [First time i see trash on the streets of Japan, any theories?](http://9gag.com/gag/aPAgYgP)<!-- MEMES:END -->
+ - 💣 [Just a totally normal vacation](http://9gag.com/gag/aGyEev6)
+ - 😝 [Cologne Central Station, Germany looks oddly similar to a different place](http://9gag.com/gag/aMVEYjA)
+ - 👉 [One angry man can beat the whole army women](http://9gag.com/gag/avyQo5d)<!-- MEMES:END -->
 
 ---
 

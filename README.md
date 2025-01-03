@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Lord Gaben is indeed a Generous God](http://9gag.com/gag/aGyEjLK)
- - 😝 [Tolkien&#39;s roommate](http://9gag.com/gag/aBydg0D)
- - 💣 [The power of water !](http://9gag.com/gag/arym577)
- - 😝 [Car insurance companies are like, `so, what route do you take every day?`](http://9gag.com/gag/aRBE00q)
- - 👉 [What is this show about ?](http://9gag.com/gag/amoA5mo)<!-- MEMES:END -->
+ - 😝 [First time i see trash on the streets of Japan, any theories?](http://9gag.com/gag/aPAgYgP)
+ - 😝 [Phd references](http://9gag.com/gag/azx29zK)
+ - 💣 [Rules the remaining pieces of Asgard](http://9gag.com/gag/a2vKorp)
+ - 😝 [They&#39;re Trying to Pull a Fast One on Her](http://9gag.com/gag/aKGE7GZ)
+ - 👉 [Tolkien&#39;s roommate](http://9gag.com/gag/aBydg0D)<!-- MEMES:END -->
 
 ---
 

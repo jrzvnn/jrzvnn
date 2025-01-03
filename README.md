@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [15 Best Outdoor Security Cameras &lpar;2025&rpar;: Battery-Powered, LTE, No Subscription](https://www.wired.com/gallery/best-outdoor-security-cameras/)
  - [Weak iPad Pro sales prompt OLED supplier to switch to making more iPhone screens](https://appleinsider.com/articles/25/01/03/weak-ipad-pro-sales-prompt-oled-supplier-to-switch-to-making-more-iphone-screens?utm_medium=rss)
  - [Foreign smartphone shipments, including iPhones, to China fell 47.4% YoY in November, following a 44.25% YoY drop in October, marking four months of decline &lpar;Reuters&rpar;](http://www.techmeme.com/250103/p5#a250103p5)
- - [Best MacBooks &lpar;2025&rpar;: Which Apple Laptop Should You Buy?](https://www.wired.com/story/which-macbook-should-you-buy/)
- - [Apple Fitness Plus and Strava are collaborating with a new integration](https://www.theverge.com/2025/1/3/24324466/apple-fitness-plus-strava-integration)
- - [Facebook and Instagram Ads Push Gun Silencers Disguised as Car Parts](https://www.wired.com/story/fuel-filter-gun-silencer-ads-facebook-instagram/)<!-- TECH:END -->
+ - [How to Customize Your iPhone&#39;s Home Screen Widgets Fast With iOS 18](https://www.cnet.com/tech/services-and-software/how-to-customize-your-iphones-home-screen-widgets-fast-with-ios-18/#ftag=CAD590a51e)
+ - [Best MacBooks &lpar;2025&rpar;: Which Apple Laptop Should You Buy?](https://www.wired.com/story/which-macbook-should-you-buy/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

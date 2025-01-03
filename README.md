@@ -158,10 +158,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- TECH:START -->
  - [In a test, asking Claude 3.5 Sonnet to &quot;write better code&quot; iteratively improved the code&#39;s features and speed, but more aggressive prompt engineering added bugs &lpar;Max Woolf/Max Woolf&#39;s Blog&rpar;](http://www.techmeme.com/250103/p19#a250103p19)
- - [Overhaul Your Space With LG&#39;s Mammoth 86-Inch TV for Under $1,200](https://www.cnet.com/deals/overhaul-your-space-with-lgs-mammoth-86-inch-tv-for-under-1200/#ftag=CAD590a51e)
  - [Sources: Tim Cook will personally donate $1M to President-elect Trump&#39;s inaugural committee in the spirit of unity; Apple is not expected to donate &lpar;Mike Allen/Axios&rpar;](http://www.techmeme.com/250103/p18#a250103p18)
- - [Today&#39;s Wordle Hints, Answer and Help for Jan. 4, #1295](https://www.cnet.com/tech/gaming/todays-wordle-hints-answer-and-help-for-jan-4-1295/#ftag=CAD590a51e)
- - [You Can Save $500 on This SwitchBot Robot Vacuum and Mop Combo if You Act Fast](https://www.cnet.com/deals/you-can-save-500-on-this-switchbot-robot-vacuum-and-mop-combo-if-you-act-fast/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Samsung and Google’s new spatial audio format will take on Dolby Atmos this year](https://www.theverge.com/2025/1/3/24335170/samsung-google-eclipsa-spatial-audio-format-2025-tvs)
+ - [An in-depth look at Elon Musk&#39;s criticisms of Wikipedia, as he joins a growing chorus of right-wing voices attacking information sources outside their control &lpar;Molly White/Citation Needed&rpar;](http://www.techmeme.com/250103/p17#a250103p17)
+ - [A Huge 85-Inch Samsung TV Comes With Huge Savings for Your Wallet](https://www.cnet.com/deals/a-huge-85-inch-samsung-tv-comes-with-huge-savings-for-your-wallet/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Facebook and Instagram Ads Push Gun Silencers Disguised as Car Parts](https://www.wired.com/story/fuel-filter-gun-silencer-ads-facebook-instagram/)
- - [Anthropic reaches deal with music publishers over lyric dispute](https://www.theverge.com/2025/1/3/24334866/anthropic-claude-music-publishers-lyric-copyright-lawsuit-deal)
- - [Refinance Rates Slide Down Again: Current Refinance Rates for Jan. 3, 2025](https://www.cnet.com/personal-finance/refinance-rates-slide-down-again-current-refinance-rates-for-jan-3-2025/#ftag=CAD590a51e)
- - [Unlock Alexa&#39;s Hidden Potential: 6 Secrets to Supercharge Your Digital Assistant](https://www.cnet.com/home/smart-home/unlock-alexas-hidden-potential-6-secrets-to-supercharge-your-digital-assistant/#ftag=CAD590a51e)
- - [27 Best Housewarming Gifts for 2025](https://www.cnet.com/news/best-housewarming-gifts/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Weak iPad Pro sales prompt OLED supplier to switch to making more iPhone screens](https://appleinsider.com/articles/25/01/03/weak-ipad-pro-sales-prompt-oled-supplier-to-switch-to-making-more-iphone-screens?utm_medium=rss)
+ - [Foreign smartphone shipments, including iPhones, to China fell 47.4% YoY in November, following a 44.25% YoY drop in October, marking four months of decline &lpar;Reuters&rpar;](http://www.techmeme.com/250103/p5#a250103p5)
+ - [Best MacBooks &lpar;2025&rpar;: Which Apple Laptop Should You Buy?](https://www.wired.com/story/which-macbook-should-you-buy/)
+ - [Apple Fitness Plus and Strava are collaborating with a new integration](https://www.theverge.com/2025/1/3/24324466/apple-fitness-plus-strava-integration)
+ - [Facebook and Instagram Ads Push Gun Silencers Disguised as Car Parts](https://www.wired.com/story/fuel-filter-gun-silencer-ads-facebook-instagram/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

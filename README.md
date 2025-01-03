@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Just wanted to show you my favourite nutcracker. The back in comments.](http://9gag.com/gag/awyZXqW)
- - 😝 [Kids admiring bike](http://9gag.com/gag/a7oqr0w)
- - 💣 [5th of your budget](http://9gag.com/gag/adBPK7D)
- - 😝 [How Places Like BK Don&#39;t Look At Their Employees As Human Beings, Even for Funerals, Stoop To A New Low!](http://9gag.com/gag/an7zbY0)
- - 👉 [After 5,000 years, we finally have shovel 2.0 and before GTA VI.](http://9gag.com/gag/adBPLD2)<!-- MEMES:END -->
+ - 😝 [Impact of your childhood](http://9gag.com/gag/aqyeK5j)
+ - 😝 [Classic...](http://9gag.com/gag/aRBE3xG)
+ - 💣 [Japanese moving companies are second to none.](http://9gag.com/gag/aZZDgNQ)
+ - 😝 [Women taking Ls](http://9gag.com/gag/a4Po7BZ)
+ - 👉 [Diamond Potato of Ultra Luck - upvote for luck in 2025](http://9gag.com/gag/aD2YWxK)<!-- MEMES:END -->
 
 ---
 

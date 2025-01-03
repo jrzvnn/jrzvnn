@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Just wanted to show you my favourite nutcracker. The back in comments.](http://9gag.com/gag/awyZXqW)
+ - 😝 [That\u2019s wisdom and knowledge.](http://9gag.com/gag/a87q3re)
+ - 😝 [Just a totally normal vacation](http://9gag.com/gag/aGyEev6)
+ - 💣 [Like every time. Even at their children&#39;s birthday parties when they&#39;re driving later.](http://9gag.com/gag/aKGE2QO)
  - 😝 [Cybertruck explodes in Las Vegas, NV - January 1, 2025](http://9gag.com/gag/arym5yy)
- - 💣 [What kind of a party was that?](http://9gag.com/gag/a7oqZBe)
- - 😝 [Rules the remaining pieces of Asgard](http://9gag.com/gag/a2vKorp)
- - 👉 [Like every time. Even at their children&#39;s birthday parties when they&#39;re driving later.](http://9gag.com/gag/aKGE2QO)<!-- MEMES:END -->
+ - 👉 [Just wanted to show you my favourite nutcracker. The back in comments.](http://9gag.com/gag/awyZXqW)<!-- MEMES:END -->
 
 ---
 

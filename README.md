@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Ford is extending its free at-home EV charging promotion](https://www.theverge.com/2025/1/3/24335123/ford-power-promise-2025-free-ev-charger-extension)
+ - [Apple Intelligence summaries are still screwing up headlines](https://appleinsider.com/articles/25/01/03/apple-intelligence-summaries-are-still-screwing-up-headlines?utm_medium=rss)
  - [Microsoft says it expects to spend $80B in FY 2025 on the construction of data centers that can handle AI workloads, with 50%+ of the spending in the US &lpar;Jordan Novet/CNBC&rpar;](http://www.techmeme.com/250103/p16#a250103p16)
- - [Sources: Getty Images is exploring a merger with rival Shutterstock; deliberations are ongoing and Getty could decide not to pursue a deal &lpar;Bloomberg&rpar;](http://www.techmeme.com/250103/p15#a250103p15)
- - [Answering your questions about AI, smart glasses, TikTok, and more](https://www.theverge.com/2025/1/3/24333045/command-line-reader-mailbag-issue-2025)
- - [Save Up to 84% on a New Belkin WeMo Video Doorbell System With This New Year Woot Deal](https://www.cnet.com/deals/save-up-to-84-on-a-new-belkin-video-doorbell-system-with-this-new-year-woot-deal/#ftag=CAD590a51e)
- - [Max: The 26 Absolute Best TV Shows to Watch](https://www.cnet.com/tech/services-and-software/best-tv-show-on-max-january-2025/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Anthropic AI Copyright Case Centers on &#39;Guardrails&#39; for Song Lyrics](https://www.cnet.com/tech/services-and-software/anthropic-ai-copyright-case-centers-on-guardrails-for-song-lyrics/#ftag=CAD590a51e)
+ - [Quadrantids Meteor Shower Is Continuing: How to Watch It](https://www.cnet.com/science/quadrantids-meteor-shower-peaks-tonight-heres-how-to-watch-it/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

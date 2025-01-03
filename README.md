@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The best doorbell cameras](https://www.theverge.com/22954554/best-video-doorbell-camera)
  - [How to Save the Food in Your Fridge When the Power Goes Out](https://www.cnet.com/how-to/how-to-save-the-food-in-your-fridge-when-the-power-goes-out/#ftag=CAD590a51e)
  - [Memo: Sameer Singh, TikTok&#39;s general manager for North America&#39;s ads team, is leaving the company at the end of February, as the company faces a ban in the US &lpar;Trishla Ostwal/Adweek&rpar;](http://www.techmeme.com/250103/p22#a250103p22)
  - [The 6 Best White Noise Machines of 2025](https://www.cnet.com/health/sleep/best-white-noise-machines/#ftag=CAD590a51e)
- - [Best Gifts for Cyclists They&#39;ll Want to Use on Their Next Ride in 2025](https://www.cnet.com/health/fitness/best-gifts-for-cyclists/#ftag=CAD590a51e)
- - [If You Want to Avoid Frozen Pipes This Winter, Follow These 6 Tips](https://www.cnet.com/how-to/if-you-want-to-avoid-frozen-pipes-this-winter-follow-these-6-tips/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Best Gifts for Cyclists They&#39;ll Want to Use on Their Next Ride in 2025](https://www.cnet.com/health/fitness/best-gifts-for-cyclists/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

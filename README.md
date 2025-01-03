@@ -157,7 +157,7 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Californians Say X Blocked Them From Viewing Amber Alert About Missing 14 Year-Old](https://www.wired.com/story/amber-alert-paywall-california/)
+ - [Californians Say X Blocked Them From Viewing Amber Alert About Missing 14-Year-Old](https://www.wired.com/story/amber-alert-paywall-california/)
  - [Elon Musk fanboy Adrian Dittmann&#39;s alleged 4Chan posts and Dittmann&#39;s X Spaces appearances suggest he might be a fake online persona used by Musk himself &lpar;Jess Weatherbed/The Verge&rpar;](http://www.techmeme.com/250103/p9#a250103p9)
  - [Apple Watch health tips to kick off the new year](https://appleinsider.com/articles/25/01/03/apple-watch-health-tips-to-kick-off-the-new-year?utm_medium=rss)
  - [Meta required a public statesman like Nick Clegg after the Cambridge Analytica scandal, and now turns to the in-house Republican Joel Kaplan to appease Trump &lpar;Dave Lee/Bloomberg&rpar;](http://www.techmeme.com/250103/p8#a250103p8)

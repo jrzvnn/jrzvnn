@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [If you wonder why Rotherham dads got arrested after tracking down islamic scum that abused their daughters, this is UK minister of Justice. England is so f**ked up, and I enjoy it.](http://9gag.com/gag/azx2X5j)
- - 😝 [Cybertruck explodes in Las Vegas, NV - January 1, 2025](http://9gag.com/gag/arym5yy)
- - 💣 [Phd references](http://9gag.com/gag/azx29zK)
- - 😝 [Lord Gaben is indeed a Generous God](http://9gag.com/gag/aGyEjLK)
- - 👉 [Any clues??](http://9gag.com/gag/aZZD3N9)<!-- MEMES:END -->
+ - 😝 [After 5,000 years, we finally have shovel 2.0 and before GTA VI.](http://9gag.com/gag/adBPLD2)
+ - 😝 [The power of water !](http://9gag.com/gag/arym577)
+ - 💣 [What is this show about ?](http://9gag.com/gag/amoA5mo)
+ - 😝 [Any clues??](http://9gag.com/gag/aZZD3N9)
+ - 👉 [First time i see trash on the streets of Japan, any theories?](http://9gag.com/gag/aPAgYgP)<!-- MEMES:END -->
 
 ---
 

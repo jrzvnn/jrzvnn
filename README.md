@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [An in-depth look at Elon Musk&#39;s criticisms of Wikipedia, as he joins a growing chorus of right-wing voices attacking information sources outside their control &lpar;Molly White/Citation Needed&rpar;](http://www.techmeme.com/250103/p17#a250103p17)
+ - [A Book App Used AI to &#39;Roast&#39; Its Users. It Went Anti-Woke Instead](https://www.wired.com/story/fable-controversy-ai-summaries/)
+ - [USB-C Is Now the Law of the Land in Europe](https://www.wired.com/story/usb-c-is-now-a-legal-requirement-for-most-rechargeable-gadgets-in-europe/)
  - [The best wireless earbuds to buy right now](https://www.theverge.com/21309820/best-wireless-earbuds)
- - [Ford is extending its free at-home EV charging promotion](https://www.theverge.com/2025/1/3/24335123/ford-power-promise-2025-free-ev-charger-extension)
- - [Apple Intelligence summaries are still screwing up headlines](https://appleinsider.com/articles/25/01/03/apple-intelligence-summaries-are-still-screwing-up-headlines?utm_medium=rss)
- - [Microsoft says it expects to spend $80B in FY 2025 on the construction of data centers that can handle AI workloads, with 50%+ of the spending in the US &lpar;Jordan Novet/CNBC&rpar;](http://www.techmeme.com/250103/p16#a250103p16)
- - [Anthropic AI Copyright Case Centers on &#39;Guardrails&#39; for Song Lyrics](https://www.cnet.com/tech/services-and-software/anthropic-ai-copyright-case-centers-on-guardrails-for-song-lyrics/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Ford is extending its free at-home EV charging promotion](https://www.theverge.com/2025/1/3/24335123/ford-power-promise-2025-free-ev-charger-extension)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

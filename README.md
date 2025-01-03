@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Oskar](http://9gag.com/gag/aKGExQQ)
  - 😝 [First time i see trash on the streets of Japan, any theories?](http://9gag.com/gag/aPAgYgP)
- - 💣 [Indian politician takes a bad fall due to poor safety measures](http://9gag.com/gag/aVvb3Rv)
- - 😝 [After 5,000 years, we finally have shovel 2.0 and before GTA VI.](http://9gag.com/gag/adBPLD2)
- - 👉 [Watching fireworks from balcony](http://9gag.com/gag/avyQ8xO)<!-- MEMES:END -->
+ - 😝 [Cybertruck explodes in Las Vegas, NV - January 1, 2025](http://9gag.com/gag/arym5yy)
+ - 💣 [After 5,000 years, we finally have shovel 2.0 and before GTA VI.](http://9gag.com/gag/adBPLD2)
+ - 😝 [What is this show about ?](http://9gag.com/gag/amoA5mo)
+ - 👉 [Rules the remaining pieces of Asgard](http://9gag.com/gag/a2vKorp)<!-- MEMES:END -->
 
 ---
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Here you go degenerates:](http://9gag.com/gag/aYQVy1m)
- - 😝 [Gender Swap!! G](http://9gag.com/gag/aKGEdY1)
- - 💣 [Germany is a third world country](http://9gag.com/gag/ayN2eyq)
- - 😝 [Oh yes \u201csouth asian\u201d](http://9gag.com/gag/aD2Yg5K)
- - 👉 [Looks like apartheid is back on the menu](http://9gag.com/gag/aoyKMP0)<!-- MEMES:END -->
+ - 😝 [You ruined my life!](http://9gag.com/gag/aVvb028)
+ - 😝 [First time i see trash on the streets of Japan, any theories?](http://9gag.com/gag/aPAgYgP)
+ - 💣 [Sherbet recipe](http://9gag.com/gag/aXPnj8g)
+ - 😝 [Australia could be saved !](http://9gag.com/gag/aE0qpox)
+ - 👉 [CAN THERE BE ANYTHING MORE EXCITING THAN FINDING GOLD COINS UNDER THE OCEAN? One thousand years under salt water does nothing to this noble metal.](http://9gag.com/gag/aLn1wXv)<!-- MEMES:END -->
 
 ---
 

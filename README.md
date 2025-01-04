@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Oskar](http://9gag.com/gag/aKGExQQ)
- - 😝 [Be the reason](http://9gag.com/gag/azx2m3x)
- - 💣 [Here you go degenerates:](http://9gag.com/gag/aYQVy1m)
- - 😝 [I&#39;m something of a gamer myself](http://9gag.com/gag/aNDwgL6)
- - 👉 [Gender Swap!! G](http://9gag.com/gag/aKGEdY1)<!-- MEMES:END -->
+ - 😝 [CAN THERE BE ANYTHING MORE EXCITING THAN FINDING GOLD COINS UNDER THE OCEAN? One thousand years under salt water does nothing to this noble metal.](http://9gag.com/gag/aLn1wXv)
+ - 😝 [There is no amount of money anyone can pay me to bring me or my family to this forsaken place](http://9gag.com/gag/amoA7xX)
+ - 💣 [Tolkien&#39;s roommate](http://9gag.com/gag/aBydg0D)
+ - 😝 [Watching fireworks from balcony](http://9gag.com/gag/avyQ8xO)
+ - 👉 [Mass, Momentum, and Torque](http://9gag.com/gag/apR95KE)<!-- MEMES:END -->
 
 ---
 

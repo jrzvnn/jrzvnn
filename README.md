@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Tolkien&#39;s roommate](http://9gag.com/gag/aBydg0D)
- - 😝 [They&#39;re Trying to Pull a Fast One on Her](http://9gag.com/gag/aKGE7GZ)
- - 💣 [Any clues??](http://9gag.com/gag/aZZD3N9)
- - 😝 [Sherbet recipe](http://9gag.com/gag/aXPnj8g)
- - 👉 [Mass, Momentum, and Torque](http://9gag.com/gag/apR95KE)<!-- MEMES:END -->
+ - 😝 [Any clues??](http://9gag.com/gag/aZZD3N9)
+ - 😝 [Rules the remaining pieces of Asgard](http://9gag.com/gag/a2vKorp)
+ - 💣 [There is no amount of money anyone can pay me to bring me or my family to this forsaken place](http://9gag.com/gag/amoA7xX)
+ - 😝 [Mass, Momentum, and Torque](http://9gag.com/gag/apR95KE)
+ - 👉 [Sherbet recipe](http://9gag.com/gag/aXPnj8g)<!-- MEMES:END -->
 
 ---
 

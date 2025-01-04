@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [There is no amount of money anyone can pay me to bring me or my family to this forsaken place](http://9gag.com/gag/amoA7xX)
- - 😝 [Pacific Rim: Tokyo Drift](http://9gag.com/gag/aAy0gQL)
- - 💣 [Sherbet recipe](http://9gag.com/gag/aXPnj8g)
  - 😝 [Tolkien&#39;s roommate](http://9gag.com/gag/aBydg0D)
- - 👉 [Be the reason](http://9gag.com/gag/azx2m3x)<!-- MEMES:END -->
+ - 😝 [Sherbet recipe](http://9gag.com/gag/aXPnj8g)
+ - 💣 [Watching fireworks from balcony](http://9gag.com/gag/avyQ8xO)
+ - 😝 [What is this show about ?](http://9gag.com/gag/amoA5mo)
+ - 👉 [First time i see trash on the streets of Japan, any theories?](http://9gag.com/gag/aPAgYgP)<!-- MEMES:END -->
 
 ---
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Experience makes a man a man](http://9gag.com/gag/a0e4NdX)
+ - 😝 [She knows how to play with ball](http://9gag.com/gag/a5QXE9g)
+ - 😝 [Crazy grip strength from the girl](http://9gag.com/gag/abAvVpE)
+ - 💣 [They are welcoming the Syrians at the border who are returning back home.](http://9gag.com/gag/ae9QAbQ)
  - 😝 [Eww](http://9gag.com/gag/an7z52b)
- - 💣 [The strength of Jeff Dabe](http://9gag.com/gag/aByd2pA)
- - 😝 [What a menace](http://9gag.com/gag/aZZDrqz)
- - 👉 [Watching fireworks from balcony](http://9gag.com/gag/avyQ8xO)<!-- MEMES:END -->
+ - 👉 [What a menace](http://9gag.com/gag/aZZDrqz)<!-- MEMES:END -->
 
 ---
 

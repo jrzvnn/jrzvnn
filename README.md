@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Mass, Momentum, and Torque](http://9gag.com/gag/apR95KE)
+ - 😝 [What is this show about ?](http://9gag.com/gag/amoA5mo)
  - 😝 [She knows how to play with ball](http://9gag.com/gag/a5QXE9g)
- - 💣 [Breaking: German men demand immediate deportations as word gets out and numbers increase](http://9gag.com/gag/aGyEpQn)
- - 😝 [Experience makes a man a man](http://9gag.com/gag/a0e4NdX)
- - 👉 [What a menace](http://9gag.com/gag/aZZDrqz)<!-- MEMES:END -->
+ - 💣 [Crazy grip strength from the girl](http://9gag.com/gag/abAvVpE)
+ - 😝 [Mass, Momentum, and Torque](http://9gag.com/gag/apR95KE)
+ - 👉 [Breaking: German men demand immediate deportations as word gets out and numbers increase](http://9gag.com/gag/aGyEpQn)<!-- MEMES:END -->
 
 ---
 

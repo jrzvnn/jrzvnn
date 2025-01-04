@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Best iPhone 13 Deals: Offers Are Scarce but These Are the Best Ones Out There](https://www.cnet.com/deals/best-iphone-13-deals/#ftag=CAD590a51e)
+ - [Best Amazon Deals Under $100: Save Big on Top Tech Gear, Home Goods and More While Deals Last](https://www.cnet.com/deals/best-amazon-deals-under-100/#ftag=CAD590a51e)
+ - [Best Apple Watch Ultra and Ultra 2 Deals: Save on This Luxe Apple Watch While You Can](https://www.cnet.com/deals/best-apple-watch-ultra-deals/#ftag=CAD590a51e)
  - [Get $900 off the EcoFlow Delta Pro Portable Power Station Plus Free Items](https://www.cnet.com/deals/score-the-ecoflow-delta-pro-portable-power-station-for-900-off-plus-free-items/#ftag=CAD590a51e)
- - [This Pocket-Size Mini Power Bank Is on Sale for Just $16 Right Now](https://www.cnet.com/deals/this-pocket-sized-mini-power-bank-is-on-sale-for-just-16-right-now/#ftag=CAD590a51e)
- - [Prime Video: The 33 Absolute Best TV Shows to Watch](https://www.cnet.com/tech/services-and-software/best-tv-shows-on-prime-video-january-2025/#ftag=CAD590a51e)
- - [Today&#39;s Wordle Hints, Answer and Help for Jan. 5, #1296](https://www.cnet.com/tech/gaming/todays-wordle-hints-answer-and-help-for-jan-5-1296/#ftag=CAD590a51e)
- - [Best MacBook Deals: Kickstart Productivity in 2025 With a New Apple Laptop](https://www.cnet.com/deals/best-macbook-deals/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [This Pocket-Size Mini Power Bank Is on Sale for Just $16 Right Now](https://www.cnet.com/deals/this-pocket-sized-mini-power-bank-is-on-sale-for-just-16-right-now/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

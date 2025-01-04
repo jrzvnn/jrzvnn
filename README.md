@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [What is this show about ?](http://9gag.com/gag/amoA5mo)
- - 😝 [Restoring An Old Basketball Court](http://9gag.com/gag/a5QXMPV)
- - 💣 [A big town is called a city. A big city is called a metropolis. And then there&#39;s Tokyo...](http://9gag.com/gag/aD2Y4gd)
- - 😝 [Crazy grip strength from the girl](http://9gag.com/gag/abAvVpE)
- - 👉 [They are welcoming the Syrians at the border who are returning back home.](http://9gag.com/gag/ae9QAbQ)<!-- MEMES:END -->
+ - 😝 [This dog became the first to cross the Hungary/Romania border after Romania joins the Schengen visa free zone.](http://9gag.com/gag/aPAgROK)
+ - 😝 [Looks like apartheid is back on the menu](http://9gag.com/gag/aoyKMP0)
+ - 💣 [Islamic terrorism is a bad thing](http://9gag.com/gag/adBPVG9)
+ - 😝 [Thoughts?](http://9gag.com/gag/aZZDrNp)
+ - 👉 [She knows how to play with ball](http://9gag.com/gag/a5QXE9g)<!-- MEMES:END -->
 
 ---
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [Rules the remaining pieces of Asgard](http://9gag.com/gag/a2vKorp)
+ - 😝 [There is no amount of money anyone can pay me to bring me or my family to this forsaken place](http://9gag.com/gag/amoA7xX)
+ - 💣 [5th of your budget](http://9gag.com/gag/adBPK7D)
  - 😝 [Mass, Momentum, and Torque](http://9gag.com/gag/apR95KE)
- - 😝 [Permanent concrete bollards now fixture in Melbourne sidewalks to prevent horrendous acts](http://9gag.com/gag/aRBE3Ky)
- - 💣 [A big town is called a city. A big city is called a metropolis. And then there&#39;s Tokyo...](http://9gag.com/gag/aD2Y4gd)
- - 😝 [Everything is better with bacon.](http://9gag.com/gag/aYQVowV)
- - 👉 [CAN THERE BE ANYTHING MORE EXCITING THAN FINDING GOLD COINS UNDER THE OCEAN? One thousand years under salt water does nothing to this noble metal.](http://9gag.com/gag/aLn1wXv)<!-- MEMES:END -->
+ - 👉 [Car insurance companies are like, `so, what route do you take every day?`](http://9gag.com/gag/aRBE00q)<!-- MEMES:END -->
 
 ---
 

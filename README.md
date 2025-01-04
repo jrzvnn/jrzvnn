@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Twelve South’s travel-friendly Bluetooth dongle is on sale for its best price yet](https://www.theverge.com/2025/1/4/24311067/twelve-south-airfly-se-sony-wh-1000xm5-headphones-deal-sale)
  - [NetEase reverses bans on macOS, Linux players of &#39;Marvel Rivals&#39;](https://appleinsider.com/articles/25/01/04/netease-reverses-bans-on-macos-linux-players-of-marvel-rivals?utm_medium=rss)
  - [Industry insiders hope the success of Black Myth: Wukong, which earned ~$1.1B from ~25M copies sold, will rekindle Chinese gaming investments after crackdowns &lpar;Financial Times&rpar;](http://www.techmeme.com/250104/p7#a250104p7)
  - [Arlo’s monthly subscriptions are going up again](https://www.theverge.com/2025/1/4/24335628/arlo-secure-plus-subscription-price-increase-ai-features-cloud-video-storage)
- - [Best Portable Chargers &lpar;2025&rpar;: iPhones, iPads, Laptops &amp; More](https://www.wired.com/gallery/best-portable-chargers-power-banks/)
- - [CES 2025: all the news, gadgets, and surprises](https://www.theverge.com/2025/1/4/24307731/ces-2025-tvs-gaming-smart-home-wearables-news)<!-- TECH:END -->
+ - [Save a Staggering 50% on This 85-Inch 4K Panasonic Fire TV at Woot Right Now](https://www.cnet.com/deals/save-a-staggering-50-on-this-85-inch-4k-panasonic-fire-tv-at-woot-right-now/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

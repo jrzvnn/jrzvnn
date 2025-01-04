@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [I&#39;m something of a gamer myself](http://9gag.com/gag/aNDwgL6)
- - 😝 [Germany is a third world country](http://9gag.com/gag/ayN2eyq)
- - 💣 [Here you go degenerates:](http://9gag.com/gag/aYQVy1m)
- - 😝 [Be the reason](http://9gag.com/gag/azx2m3x)
- - 👉 [Gender Swap!! G](http://9gag.com/gag/aKGEdY1)<!-- MEMES:END -->
+ - 😝 [There is no amount of money anyone can pay me to bring me or my family to this forsaken place](http://9gag.com/gag/amoA7xX)
+ - 😝 [If you wonder why Rotherham dads got arrested after tracking down islamic scum that abused their daughters, this is UK minister of Justice. England is so f**ked up, and I enjoy it.](http://9gag.com/gag/azx2X5j)
+ - 💣 [First time i see trash on the streets of Japan, any theories?](http://9gag.com/gag/aPAgYgP)
+ - 😝 [Tolkien&#39;s roommate](http://9gag.com/gag/aBydg0D)
+ - 👉 [Watching fireworks from balcony](http://9gag.com/gag/avyQ8xO)<!-- MEMES:END -->
 
 ---
 

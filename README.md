@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Apple to report holiday quarter earnings on January 30, 2025](https://appleinsider.com/articles/25/01/04/apple-to-report-holiday-quarter-earnings-on-january-30-2025?utm_medium=rss)
+ - [Samsung and Google plan to bring Eclipsa Audio, a new open-source 3D audio standard, to some YouTube videos later this year on Samsung&#39;s 2025 TVs and soundbars &lpar;Emma Roth/The Verge&rpar;](http://www.techmeme.com/250103/p23#a250103p23)
+ - [Don&#39;t Ignore These 10 Wi-Fi Network Security Tips](https://www.cnet.com/home/internet/dont-ignore-these-10-wi-fi-network-security-tips/#ftag=CAD590a51e)
  - [The best doorbell cameras](https://www.theverge.com/22954554/best-video-doorbell-camera)
- - [How to Save the Food in Your Fridge When the Power Goes Out](https://www.cnet.com/how-to/how-to-save-the-food-in-your-fridge-when-the-power-goes-out/#ftag=CAD590a51e)
- - [Memo: Sameer Singh, TikTok&#39;s general manager for North America&#39;s ads team, is leaving the company at the end of February, as the company faces a ban in the US &lpar;Trishla Ostwal/Adweek&rpar;](http://www.techmeme.com/250103/p22#a250103p22)
- - [The 6 Best White Noise Machines of 2025](https://www.cnet.com/health/sleep/best-white-noise-machines/#ftag=CAD590a51e)
- - [Best Gifts for Cyclists They&#39;ll Want to Use on Their Next Ride in 2025](https://www.cnet.com/health/fitness/best-gifts-for-cyclists/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [How to Save the Food in Your Fridge When the Power Goes Out](https://www.cnet.com/how-to/how-to-save-the-food-in-your-fridge-when-the-power-goes-out/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

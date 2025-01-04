@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Tolkien&#39;s roommate](http://9gag.com/gag/aBydg0D)
- - 😝 [Sherbet recipe](http://9gag.com/gag/aXPnj8g)
- - 💣 [The strength of Jeff Dabe](http://9gag.com/gag/aByd2pA)
- - 😝 [Just wanted to show you my favourite nutcracker. The back in comments.](http://9gag.com/gag/awyZXqW)
- - 👉 [What is this show about ?](http://9gag.com/gag/amoA5mo)<!-- MEMES:END -->
+ - 😝 [Crazy grip strength from the girl](http://9gag.com/gag/abAvVpE)
+ - 😝 [She knows how to play with ball](http://9gag.com/gag/a5QXE9g)
+ - 💣 [First time i see trash on the streets of Japan, any theories?](http://9gag.com/gag/aPAgYgP)
+ - 😝 [What is this show about ?](http://9gag.com/gag/amoA5mo)
+ - 👉 [Restoring An Old Basketball Court](http://9gag.com/gag/a5QXMPV)<!-- MEMES:END -->
 
 ---
 

@@ -158,10 +158,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- TECH:START -->
  - [Analysis of social media posts, AI art, Spaces comments, biographical details, and more suggests Adrian Dittmann is a German fan of Elon Musk living in Fiji &lpar;Jacqueline Sweet/The Spectator World&rpar;](http://www.techmeme.com/250104/p9#a250104p9)
- - [A look at India&#39;s draft DPDP Rules, which require platforms to verify the age and identity of a parent when obtaining consent to process data of users under 18 &lpar;Kamya Pandey/MEDIANAMA&rpar;](http://www.techmeme.com/250104/p8#a250104p8)
- - [These JBL Vibe Beam Earbuds Are Still at a Record-Low Price of $25](https://www.cnet.com/deals/jbl-vibe-beam-wireless-earbuds-at-a-record-low-price-of-25/#ftag=CAD590a51e)
- - [3 Best Stainless Steel Frying Pans in 2025](https://www.cnet.com/news/best-stainless-steel-skillet/#ftag=CAD590a51e)
- - [The best sleep gadgets to help you catch those Zzzs](https://www.theverge.com/23291925/best-sleep-tech-trackers-earbuds-wearables)<!-- TECH:END -->
+ - [This Offer from Woot Means You Can Get the Ring Battery Doorbell Pro at Its Lowest Price Ever](https://www.cnet.com/deals/get-the-ring-battery-doorbell-pro-at-its-lowest-price-ever/#ftag=CAD590a51e)
+ - [Don&#39;t Miss the Chance to Save $250 and Get the OnePlus 12 Phone at a Record Low Price](https://www.cnet.com/deals/250-off-new-oneplus-12-phone/#ftag=CAD590a51e)
+ - [No-Stress Strategies to Transfer Everything to a New iPhone](https://www.cnet.com/tech/mobile/no-stress-strategies-to-transfer-everything-to-a-new-iphone/#ftag=CAD590a51e)
+ - [Top 10 Mattresses for Side Sleepers of 2025, Expert-Tested and Approved](https://www.cnet.com/health/sleep/best-mattress-for-side-sleepers/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

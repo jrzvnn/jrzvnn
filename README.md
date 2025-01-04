@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [ShUt uP b0b!](http://9gag.com/gag/aO8xQvE)
- - 😝 [That ship has sailed.](http://9gag.com/gag/adBPgRQ)
- - 💣 [Thoughts?](http://9gag.com/gag/aZZDrNp)
- - 😝 [Breaking: German men demand immediate deportations as word gets out and numbers increase](http://9gag.com/gag/aGyEpQn)
- - 👉 [She knows how to play with ball](http://9gag.com/gag/a5QXE9g)<!-- MEMES:END -->
+ - 😝 [Mass, Momentum, and Torque](http://9gag.com/gag/apR95KE)
+ - 😝 [She knows how to play with ball](http://9gag.com/gag/a5QXE9g)
+ - 💣 [Breaking: German men demand immediate deportations as word gets out and numbers increase](http://9gag.com/gag/aGyEpQn)
+ - 😝 [Experience makes a man a man](http://9gag.com/gag/a0e4NdX)
+ - 👉 [What a menace](http://9gag.com/gag/aZZDrqz)<!-- MEMES:END -->
 
 ---
 

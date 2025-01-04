@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Analysis of social media posts, AI art, Spaces comments, biographical details, and more suggests Adrian Dittmann is a German fan of Elon Musk living in Fiji &lpar;Jacqueline Sweet/The Spectator World&rpar;](http://www.techmeme.com/250104/p9#a250104p9)
  - [This Offer from Woot Means You Can Get the Ring Battery Doorbell Pro at Its Lowest Price Ever](https://www.cnet.com/deals/get-the-ring-battery-doorbell-pro-at-its-lowest-price-ever/#ftag=CAD590a51e)
  - [Don&#39;t Miss the Chance to Save $250 and Get the OnePlus 12 Phone at a Record Low Price](https://www.cnet.com/deals/250-off-new-oneplus-12-phone/#ftag=CAD590a51e)
  - [No-Stress Strategies to Transfer Everything to a New iPhone](https://www.cnet.com/tech/mobile/no-stress-strategies-to-transfer-everything-to-a-new-iphone/#ftag=CAD590a51e)
- - [Top 10 Mattresses for Side Sleepers of 2025, Expert-Tested and Approved](https://www.cnet.com/health/sleep/best-mattress-for-side-sleepers/#ftag=CAD590a51e)
- - [This Dyson Hot and Cold Bladeless Fan Is Now a Massive $150 Off at QVC](https://www.cnet.com/deals/this-dyson-hot-and-cold-bladeless-fan-is-now-a-massive-150-off-at-qvc/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Top 10 Mattresses for Side Sleepers of 2025, Expert-Tested and Approved](https://www.cnet.com/health/sleep/best-mattress-for-side-sleepers/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

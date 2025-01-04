@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [There is no amount of money anyone can pay me to bring me or my family to this forsaken place](http://9gag.com/gag/amoA7xX)
- - 😝 [If you wonder why Rotherham dads got arrested after tracking down islamic scum that abused their daughters, this is UK minister of Justice. England is so f**ked up, and I enjoy it.](http://9gag.com/gag/azx2X5j)
- - 💣 [First time i see trash on the streets of Japan, any theories?](http://9gag.com/gag/aPAgYgP)
- - 😝 [Tolkien&#39;s roommate](http://9gag.com/gag/aBydg0D)
- - 👉 [Watching fireworks from balcony](http://9gag.com/gag/avyQ8xO)<!-- MEMES:END -->
+ - 😝 [Just wanted to show you my favourite nutcracker. The back in comments.](http://9gag.com/gag/awyZXqW)
+ - 😝 [Restoring An Old Basketball Court](http://9gag.com/gag/a5QXMPV)
+ - 💣 [Be the reason](http://9gag.com/gag/azx2m3x)
+ - 😝 [Lord Gaben is indeed a Generous God](http://9gag.com/gag/aGyEjLK)
+ - 👉 [Experience makes a man a man](http://9gag.com/gag/a0e4NdX)<!-- MEMES:END -->
 
 ---
 

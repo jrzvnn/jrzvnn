@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [All parents have been there once or twice](http://9gag.com/gag/a2vKReE)
- - 😝 [Lord Gaben is indeed a Generous God](http://9gag.com/gag/aGyEjLK)
- - 💣 [Car insurance companies are like, `so, what route do you take every day?`](http://9gag.com/gag/aRBE00q)
- - 😝 [They&#39;re Trying to Pull a Fast One on Her](http://9gag.com/gag/aKGE7GZ)
- - 👉 [5th of your budget](http://9gag.com/gag/adBPK7D)<!-- MEMES:END -->
+ - 😝 [Oskar](http://9gag.com/gag/aKGExQQ)
+ - 😝 [NPC spotted](http://9gag.com/gag/a5QXW6L)
+ - 💣 [Here you go degenerates:](http://9gag.com/gag/aYQVy1m)
+ - 😝 [I&#39;m something of a gamer myself](http://9gag.com/gag/aNDwgL6)
+ - 👉 [Gender Swap!! G](http://9gag.com/gag/aKGEdY1)<!-- MEMES:END -->
 
 ---
 

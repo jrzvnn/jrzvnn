@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Belgium-based Swave Photonics, which is developing its Holographic eXtended Reality platform for smart glasses and heads-up displays, raised a $28.27M Series A &lpar;Dean Takahashi/VentureBeat&rpar;](http://www.techmeme.com/250103/p24#a250103p24)
- - [Running Gear Guide: Everything You Need for the New Year](https://www.cnet.com/health/fitness/running-gear-guide-bundle-up-its-getting-cold-outside/#ftag=CAD590a51e)
- - [Apple to report holiday quarter earnings on January 30, 2025](https://appleinsider.com/articles/25/01/04/apple-to-report-holiday-quarter-earnings-on-january-30-2025?utm_medium=rss)
- - [Samsung and Google plan to bring Eclipsa Audio, a new open-source 3D audio standard, to some YouTube videos later this year on Samsung&#39;s 2025 TVs and soundbars &lpar;Emma Roth/The Verge&rpar;](http://www.techmeme.com/250103/p23#a250103p23)
- - [Don&#39;t Ignore These 10 Wi-Fi Network Security Tips](https://www.cnet.com/home/internet/dont-ignore-these-10-wi-fi-network-security-tips/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Today&#39;s NYT Strands Hints, Answers and Help for Jan. 4, #307](https://www.cnet.com/tech/gaming/todays-nyt-strands-hints-answers-and-help-for-jan-4-307/#ftag=CAD590a51e)
+ - [Today&#39;s NYT Connections Hints, Answers and Help for Jan. 4, #573](https://www.cnet.com/tech/gaming/todays-nyt-connections-hints-answers-and-help-for-jan-4-573/#ftag=CAD590a51e)
+ - [Today&#39;s NYT Connections: Sports Edition Hints and Answers for Jan. 4, #103](https://www.cnet.com/tech/gaming/todays-nyt-connections-sports-edition-hints-and-answers-for-jan-4-103/#ftag=CAD590a51e)
+ - [5 Lifesaving Uses for a Portable Power Station](https://www.cnet.com/home/energy-and-utilities/5-lifesaving-uses-for-a-portable-power-station/#ftag=CAD590a51e)
+ - [Belgium-based Swave Photonics, which is developing its Holographic eXtended Reality platform for smart glasses and heads-up displays, raised a $28.27M Series A &lpar;Dean Takahashi/VentureBeat&rpar;](http://www.techmeme.com/250103/p24#a250103p24)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

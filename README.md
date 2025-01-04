@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [What is this show about ?](http://9gag.com/gag/amoA5mo)
- - 😝 [Car insurance companies are like, `so, what route do you take every day?`](http://9gag.com/gag/aRBE00q)
- - 💣 [She knows how to play with ball](http://9gag.com/gag/a5QXE9g)
- - 😝 [Watching fireworks from balcony](http://9gag.com/gag/avyQ8xO)
- - 👉 [What a menace](http://9gag.com/gag/aZZDrqz)<!-- MEMES:END -->
+ - 😝 [I spot a pattern](http://9gag.com/gag/aMVExyX)
+ - 😝 [Be the reason](http://9gag.com/gag/azx2m3x)
+ - 💣 [The culture of Goat Bangers](http://9gag.com/gag/agmo5eK)
+ - 😝 [Looks like apartheid is back on the menu](http://9gag.com/gag/aoyKMP0)
+ - 👉 [This dog became the first to cross the Hungary/Romania border after Romania joins the Schengen visa free zone.](http://9gag.com/gag/aPAgROK)<!-- MEMES:END -->
 
 ---
 

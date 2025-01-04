@@ -158,10 +158,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- TECH:START -->
  - [It’s Time for Parents to Step Up in the Fight for Clean Air](https://www.wired.com/story/fossil-fuel-pollution-impact-children-parents-action/)
- - [Take Part in Veganuary and You Might See Yourself Differently](https://www.wired.com/story/does-taking-part-in-veganuary-put-people-off-meat-in-the-long-term-heres-what-the-evidence-shows/)
- - [Climate group that called for Gaza ceasefire risks losing federal funding](https://www.theverge.com/2025/1/4/24326092/biden-epa-delays-environmental-justice-funding-gaza)
- - [Religious leaders are experimenting with AI, spurring an industry of faith-based tech companies that offer AI tools to do theological research and write sermons &lpar;Eli Tan/New York Times&rpar;](http://www.techmeme.com/250104/p5#a250104p5)
- - [Best Wireless Headphones &lpar;2025&rpar;: Tested Over Many Hours](https://www.wired.com/gallery/best-wireless-headphones/)<!-- TECH:END -->
+ - [Here&#39;s What&#39;s Coming to Disneyland and Disney World This Year and Beyond](https://www.cnet.com/tech/services-and-software/heres-whats-coming-to-disneyland-and-disney-world-this-year-and-beyond/#ftag=CAD590a51e)
+ - [7 Ingredients to Add to Your Dry January Mocktails for Maximum Health Benefits](https://www.cnet.com/health/nutrition/ingredients-add-dry-january-mocktails-maximum-health-benefits/#ftag=CAD590a51e)
+ - [Watch the Full Wolf Moon Gobble Up Mars on Jan. 13](https://www.cnet.com/science/space/watch-the-full-wolf-moon-gobble-up-mars-on-jan-13/#ftag=CAD590a51e)
+ - [Kick Off Your New Year With These Epic Sci-Fi Movies on Prime Video](https://www.cnet.com/tech/services-and-software/best-sci-fi-movies-on-prime-video-2024/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

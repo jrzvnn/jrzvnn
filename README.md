@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Here&#39;s the Easiest Way to Track a Paper Tax Refund Check](https://www.cnet.com/personal-finance/taxes/heres-the-easiest-way-to-track-a-paper-tax-refund-check/#ftag=CAD590a51e)
+ - [Here&#39;s the Easiest Way to View and Share Wi-Fi Passwords on Your iPhone](https://www.cnet.com/tech/mobile/heres-the-easiest-way-to-view-and-share-wi-fi-passwords-on-your-iphone/#ftag=CAD590a51e)
+ - [Premier League Soccer: Livestream Tottenham vs. Newcastle From Anywhere](https://www.cnet.com/tech/services-and-software/premier-league-soccer-livestream-tottenham-vs-newcastle-from-anywhere/#ftag=CAD590a51e)
  - [An interview with YouTube CEO Neal Mohan on rolling out AI tools without upsetting creators, and more; YouTube has paid $70B to partners in the past three years &lpar;Stephen Morris/Financial Times&rpar;](http://www.techmeme.com/250104/p4#a250104p4)
- - [Today&#39;s Wordle Hints, Answer and Help for Jan. 4, #1295](https://www.cnet.com/tech/gaming/todays-wordle-hints-answer-and-help-for-jan-4-1295/#ftag=CAD590a51e)
- - [Today&#39;s NYT Mini Crossword Answers for Saturday, Jan. 4](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-saturday-jan-4/#ftag=CAD590a51e)
- - [The GMCI Meme index, which tracks leading memecoins by market cap, delivered 320% returns in 2024, outpacing AI at 91% and the top 30 cryptocurrencies at 88% &lpar;The Block&rpar;](http://www.techmeme.com/250104/p3#a250104p3)
- - [Alibaba Cloud partners with 01.AI, the Beijing-based AI unicorn founded by former Google China head Kai-Fu Lee, to set up an &quot;industrial large model laboratory&quot; &lpar;Ann Cao/South China Morning Post&rpar;](http://www.techmeme.com/250104/p2#a250104p2)<!-- TECH:END -->
+ - [Today&#39;s Wordle Hints, Answer and Help for Jan. 4, #1295](https://www.cnet.com/tech/gaming/todays-wordle-hints-answer-and-help-for-jan-4-1295/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

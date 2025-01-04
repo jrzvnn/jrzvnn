@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The best sleep gadgets to help you catch those Zzzs](https://www.theverge.com/23291925/best-sleep-tech-trackers-earbuds-wearables)
  - [Elon Musk Calls Out NASA’s Moon Ambitions: ‘We’re Going Straight to Mars’](https://www.wired.com/story/elon-musk-mars-moon-artemis-nasa/)
  - [Twelve South’s travel-friendly Bluetooth dongle is on sale for its best price yet](https://www.theverge.com/2025/1/4/24311067/twelve-south-airfly-se-sony-wh-1000xm5-headphones-deal-sale)
  - [NetEase reverses bans on macOS, Linux players of &#39;Marvel Rivals&#39;](https://appleinsider.com/articles/25/01/04/netease-reverses-bans-on-macos-linux-players-of-marvel-rivals?utm_medium=rss)
- - [Industry insiders hope the success of Black Myth: Wukong, which earned ~$1.1B from ~25M copies sold, will rekindle Chinese gaming investments after crackdowns &lpar;Financial Times&rpar;](http://www.techmeme.com/250104/p7#a250104p7)
- - [Arlo’s monthly subscriptions are going up again](https://www.theverge.com/2025/1/4/24335628/arlo-secure-plus-subscription-price-increase-ai-features-cloud-video-storage)<!-- TECH:END -->
+ - [These 8 New Texting Features in iOS 18.2 Will Make Your iPhone Texts Sizzle](https://www.cnet.com/tech/services-and-software/these-8-new-texting-features-in-ios-18-2-will-make-your-iphone-texts-sizzle/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

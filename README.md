@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Its the right one...](http://9gag.com/gag/aD2Yx8O)
- - 😝 [Imagine the power](http://9gag.com/gag/a2vKZoZ)
- - 💣 [Tolkien&#39;s roommate](http://9gag.com/gag/aBydg0D)
- - 😝 [We all know that one couple that\u2019s into freaky dicky sh*t](http://9gag.com/gag/aLn1w1g)
- - 👉 [There is no amount of money anyone can pay me to bring me or my family to this forsaken place](http://9gag.com/gag/amoA7xX)<!-- MEMES:END -->
+ - 😝 [Germany is a third world country](http://9gag.com/gag/ayN2eyq)
+ - 😝 [I&#39;m something of a gamer myself](http://9gag.com/gag/aNDwgL6)
+ - 💣 [Here you go degenerates:](http://9gag.com/gag/aYQVy1m)
+ - 😝 [Be the reason](http://9gag.com/gag/azx2m3x)
+ - 👉 [Gender Swap!! G](http://9gag.com/gag/aKGEdY1)<!-- MEMES:END -->
 
 ---
 

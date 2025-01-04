@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Single `lady`](http://9gag.com/gag/ae9QrRq)
- - 😝 [Sherbet recipe](http://9gag.com/gag/aXPnj8g)
- - 💣 [Crazy grip strength from the girl](http://9gag.com/gag/abAvVpE)
- - 😝 [What a menace](http://9gag.com/gag/aZZDrqz)
- - 👉 [Eww](http://9gag.com/gag/an7z52b)<!-- MEMES:END -->
+ - 😝 [ShUt uP b0b!](http://9gag.com/gag/aO8xQvE)
+ - 😝 [That ship has sailed.](http://9gag.com/gag/adBPgRQ)
+ - 💣 [Thoughts?](http://9gag.com/gag/aZZDrNp)
+ - 😝 [Breaking: German men demand immediate deportations as word gets out and numbers increase](http://9gag.com/gag/aGyEpQn)
+ - 👉 [She knows how to play with ball](http://9gag.com/gag/a5QXE9g)<!-- MEMES:END -->
 
 ---
 

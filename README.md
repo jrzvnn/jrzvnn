@@ -167,10 +167,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [CAN THERE BE ANYTHING MORE EXCITING THAN FINDING GOLD COINS UNDER THE OCEAN? One thousand years under salt water does nothing to this noble metal.](http://9gag.com/gag/aLn1wXv)
- - 😝 [There is no amount of money anyone can pay me to bring me or my family to this forsaken place](http://9gag.com/gag/amoA7xX)
- - 💣 [Tolkien&#39;s roommate](http://9gag.com/gag/aBydg0D)
+ - 😝 [Mass, Momentum, and Torque](http://9gag.com/gag/apR95KE)
+ - 💣 [Any clues??](http://9gag.com/gag/aZZD3N9)
  - 😝 [Watching fireworks from balcony](http://9gag.com/gag/avyQ8xO)
- - 👉 [Mass, Momentum, and Torque](http://9gag.com/gag/apR95KE)<!-- MEMES:END -->
+ - 👉 [Sherbet recipe](http://9gag.com/gag/aXPnj8g)<!-- MEMES:END -->
 
 ---
 

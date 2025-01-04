@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Tesla May Be in a Sales Slump, but EVs Are Doing OK Overall](https://www.wired.com/story/tesla-may-be-in-a-sales-slump-but-evs-overall-are-doing-ok/)
  - [Here&#39;s the Easiest Way to Track a Paper Tax Refund Check](https://www.cnet.com/personal-finance/taxes/heres-the-easiest-way-to-track-a-paper-tax-refund-check/#ftag=CAD590a51e)
  - [Here&#39;s the Easiest Way to View and Share Wi-Fi Passwords on Your iPhone](https://www.cnet.com/tech/mobile/heres-the-easiest-way-to-view-and-share-wi-fi-passwords-on-your-iphone/#ftag=CAD590a51e)
  - [Premier League Soccer: Livestream Tottenham vs. Newcastle From Anywhere](https://www.cnet.com/tech/services-and-software/premier-league-soccer-livestream-tottenham-vs-newcastle-from-anywhere/#ftag=CAD590a51e)
- - [An interview with YouTube CEO Neal Mohan on rolling out AI tools without upsetting creators, and more; YouTube has paid $70B to partners in the past three years &lpar;Stephen Morris/Financial Times&rpar;](http://www.techmeme.com/250104/p4#a250104p4)
- - [Today&#39;s Wordle Hints, Answer and Help for Jan. 4, #1295](https://www.cnet.com/tech/gaming/todays-wordle-hints-answer-and-help-for-jan-4-1295/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [An interview with YouTube CEO Neal Mohan on rolling out AI tools without upsetting creators, and more; YouTube has paid $70B to partners in the past three years &lpar;Stephen Morris/Financial Times&rpar;](http://www.techmeme.com/250104/p4#a250104p4)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

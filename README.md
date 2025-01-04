@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [India releases the draft Digital Personal Data Protection Rules, 2025, aimed at enforcing the Digital Personal Data Protection Act, 2023, for public comments &lpar;Aroon Deep/The Hindu&rpar;](http://www.techmeme.com/250104/p1#a250104p1)
  - [Today&#39;s NYT Strands Hints, Answers and Help for Jan. 4, #307](https://www.cnet.com/tech/gaming/todays-nyt-strands-hints-answers-and-help-for-jan-4-307/#ftag=CAD590a51e)
  - [Today&#39;s NYT Connections Hints, Answers and Help for Jan. 4, #573](https://www.cnet.com/tech/gaming/todays-nyt-connections-hints-answers-and-help-for-jan-4-573/#ftag=CAD590a51e)
  - [Today&#39;s NYT Connections: Sports Edition Hints and Answers for Jan. 4, #103](https://www.cnet.com/tech/gaming/todays-nyt-connections-sports-edition-hints-and-answers-for-jan-4-103/#ftag=CAD590a51e)
- - [5 Lifesaving Uses for a Portable Power Station](https://www.cnet.com/home/energy-and-utilities/5-lifesaving-uses-for-a-portable-power-station/#ftag=CAD590a51e)
- - [Belgium-based Swave Photonics, which is developing its Holographic eXtended Reality platform for smart glasses and heads-up displays, raised a $28.27M Series A &lpar;Dean Takahashi/VentureBeat&rpar;](http://www.techmeme.com/250103/p24#a250103p24)<!-- TECH:END -->
+ - [5 Lifesaving Uses for a Portable Power Station](https://www.cnet.com/home/energy-and-utilities/5-lifesaving-uses-for-a-portable-power-station/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

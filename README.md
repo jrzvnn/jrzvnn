@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [CAN THERE BE ANYTHING MORE EXCITING THAN FINDING GOLD COINS UNDER THE OCEAN? One thousand years under salt water does nothing to this noble metal.](http://9gag.com/gag/aLn1wXv)
- - 😝 [Phd references](http://9gag.com/gag/azx29zK)
- - 💣 [Pacific Rim: Tokyo Drift](http://9gag.com/gag/aAy0gQL)
- - 😝 [Tolkien&#39;s roommate](http://9gag.com/gag/aBydg0D)
- - 👉 [Rules the remaining pieces of Asgard](http://9gag.com/gag/a2vKorp)<!-- MEMES:END -->
+ - 😝 [Its the right one...](http://9gag.com/gag/aD2Yx8O)
+ - 😝 [Imagine the power](http://9gag.com/gag/a2vKZoZ)
+ - 💣 [Tolkien&#39;s roommate](http://9gag.com/gag/aBydg0D)
+ - 😝 [We all know that one couple that\u2019s into freaky dicky sh*t](http://9gag.com/gag/aLn1w1g)
+ - 👉 [There is no amount of money anyone can pay me to bring me or my family to this forsaken place](http://9gag.com/gag/amoA7xX)<!-- MEMES:END -->
 
 ---
 

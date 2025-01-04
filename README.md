@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Oskar](http://9gag.com/gag/aKGExQQ)
- - 😝 [Be the reason](http://9gag.com/gag/azx2m3x)
- - 💣 [Here you go degenerates:](http://9gag.com/gag/aYQVy1m)
- - 😝 [I&#39;m something of a gamer myself](http://9gag.com/gag/aNDwgL6)
- - 👉 [Gender Swap!! G](http://9gag.com/gag/aKGEdY1)<!-- MEMES:END -->
+ - 😝 [Tolkien&#39;s roommate](http://9gag.com/gag/aBydg0D)
+ - 😝 [They&#39;re Trying to Pull a Fast One on Her](http://9gag.com/gag/aKGE7GZ)
+ - 💣 [Any clues??](http://9gag.com/gag/aZZD3N9)
+ - 😝 [Sherbet recipe](http://9gag.com/gag/aXPnj8g)
+ - 👉 [Mass, Momentum, and Torque](http://9gag.com/gag/apR95KE)<!-- MEMES:END -->
 
 ---
 

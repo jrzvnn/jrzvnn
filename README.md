@@ -167,7 +167,7 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [Oskar](http://9gag.com/gag/aKGExQQ)
- - 😝 [NPC spotted](http://9gag.com/gag/a5QXW6L)
+ - 😝 [Be the reason](http://9gag.com/gag/azx2m3x)
  - 💣 [Here you go degenerates:](http://9gag.com/gag/aYQVy1m)
  - 😝 [I&#39;m something of a gamer myself](http://9gag.com/gag/aNDwgL6)
  - 👉 [Gender Swap!! G](http://9gag.com/gag/aKGEdY1)<!-- MEMES:END -->

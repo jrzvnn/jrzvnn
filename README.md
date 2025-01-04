@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple May Owe You $20 in a Siri Privacy Lawsuit Settlement](https://www.wired.com/story/apple-95-million-siri-privacy-lawsuit/)
- - [Tesla May Be in a Sales Slump, but EVs Are Doing OK Overall](https://www.wired.com/story/tesla-may-be-in-a-sales-slump-but-evs-overall-are-doing-ok/)
- - [Here&#39;s the Easiest Way to Track a Paper Tax Refund Check](https://www.cnet.com/personal-finance/taxes/heres-the-easiest-way-to-track-a-paper-tax-refund-check/#ftag=CAD590a51e)
- - [Here&#39;s the Easiest Way to View and Share Wi-Fi Passwords on Your iPhone](https://www.cnet.com/tech/mobile/heres-the-easiest-way-to-view-and-share-wi-fi-passwords-on-your-iphone/#ftag=CAD590a51e)
- - [Premier League Soccer: Livestream Tottenham vs. Newcastle From Anywhere](https://www.cnet.com/tech/services-and-software/premier-league-soccer-livestream-tottenham-vs-newcastle-from-anywhere/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Religious leaders are experimenting with AI, spurring an industry of faith-based tech companies that offer AI tools to do theological research and write sermons &lpar;Eli Tan/New York Times&rpar;](http://www.techmeme.com/250104/p5#a250104p5)
+ - [Best Wireless Headphones &lpar;2025&rpar;: Tested Over Many Hours](https://www.wired.com/gallery/best-wireless-headphones/)
+ - [Premier League Soccer: Livestream Man City vs. West Ham From Anywhere](https://www.cnet.com/tech/services-and-software/premier-league-soccer-livestream-man-city-vs-west-ham-from-anywhere/#ftag=CAD590a51e)
+ - [What Time to Watch &#39;Solo Leveling&#39; Season 2 Today on Crunchyroll](https://www.cnet.com/tech/services-and-software/what-time-watch-solo-leveling-season-2-today-crunchyroll/#ftag=CAD590a51e)
+ - [Premier League Soccer: Livestream Crystal Palace vs. Chelsea From Anywhere](https://www.cnet.com/tech/services-and-software/premier-league-soccer-livestream-crystal-palace-vs-chelsea-from-anywhere/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

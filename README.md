@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Stronk lady](http://9gag.com/gag/aYQVVjx)
- - 😝 [A big town is called a city. A big city is called a metropolis. And then there&#39;s Tokyo...](http://9gag.com/gag/aD2Y4gd)
- - 💣 [Experience makes a man a man](http://9gag.com/gag/a0e4NdX)
- - 😝 [Not just starving. I just don&#39;t do anything. Don&#39;t spend and don&#39;t talk as well.](http://9gag.com/gag/arymo2V)
- - 👉 [Mass, Momentum, and Torque](http://9gag.com/gag/apR95KE)<!-- MEMES:END -->
+ - 😝 [Experience makes a man a man](http://9gag.com/gag/a0e4NdX)
+ - 😝 [The Bacterial Flagellum is a naturally occurring motor that spins up to 100,000 rpm with nearly 100% efficiency and can reverse its rotational direction in milliseconds](http://9gag.com/gag/awyZAqr)
+ - 💣 [They are welcoming the Syrians at the border who are returning back home.](http://9gag.com/gag/ae9QAbQ)
+ - 😝 [Crazy grip strength from the girl](http://9gag.com/gag/abAvVpE)
+ - 👉 [A big town is called a city. A big city is called a metropolis. And then there&#39;s Tokyo...](http://9gag.com/gag/aD2Y4gd)<!-- MEMES:END -->
 
 ---
 

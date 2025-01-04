@@ -167,10 +167,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [What is this show about ?](http://9gag.com/gag/amoA5mo)
- - 😝 [The strength of Jeff Dabe](http://9gag.com/gag/aByd2pA)
- - 💣 [Crazy grip strength from the girl](http://9gag.com/gag/abAvVpE)
- - 😝 [Experience makes a man a man](http://9gag.com/gag/a0e4NdX)
- - 👉 [Restoring An Old Basketball Court](http://9gag.com/gag/a5QXMPV)<!-- MEMES:END -->
+ - 😝 [Restoring An Old Basketball Court](http://9gag.com/gag/a5QXMPV)
+ - 💣 [A big town is called a city. A big city is called a metropolis. And then there&#39;s Tokyo...](http://9gag.com/gag/aD2Y4gd)
+ - 😝 [Crazy grip strength from the girl](http://9gag.com/gag/abAvVpE)
+ - 👉 [They are welcoming the Syrians at the border who are returning back home.](http://9gag.com/gag/ae9QAbQ)<!-- MEMES:END -->
 
 ---
 

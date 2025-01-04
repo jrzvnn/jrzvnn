@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Experience makes a man a man](http://9gag.com/gag/a0e4NdX)
- - 😝 [How to piss off an entire community in less than 30 seconds](http://9gag.com/gag/axyo9D1)
- - 💣 [Not just starving. I just don&#39;t do anything. Don&#39;t spend and don&#39;t talk as well.](http://9gag.com/gag/arymo2V)
- - 😝 [What a menace](http://9gag.com/gag/aZZDrqz)
- - 👉 [Crazy grip strength from the girl](http://9gag.com/gag/abAvVpE)<!-- MEMES:END -->
+ - 😝 [They did exactly what they should have done](http://9gag.com/gag/aBydgmx)
+ - 😝 [Tolkien&#39;s roommate](http://9gag.com/gag/aBydg0D)
+ - 💣 [What a menace](http://9gag.com/gag/aZZDrqz)
+ - 😝 [Sherbet recipe](http://9gag.com/gag/aXPnj8g)
+ - 👉 [Mass, Momentum, and Torque](http://9gag.com/gag/apR95KE)<!-- MEMES:END -->
 
 ---
 

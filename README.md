@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [An interview with YouTube CEO Neal Mohan on rolling out AI tools without upsetting creators, and more; YouTube has paid $70B to partners in the past three years &lpar;Stephen Morris/Financial Times&rpar;](http://www.techmeme.com/250104/p4#a250104p4)
  - [The GMCI Meme index, which tracks leading memecoins by market cap, delivered 320% returns in 2024, outpacing AI at 91% and the top 30 cryptocurrencies at 88% &lpar;The Block&rpar;](http://www.techmeme.com/250104/p3#a250104p3)
  - [Alibaba Cloud partners with 01.AI, the Beijing-based AI unicorn founded by former Google China head Kai-Fu Lee, to set up an &quot;industrial large model laboratory&quot; &lpar;Ann Cao/South China Morning Post&rpar;](http://www.techmeme.com/250104/p2#a250104p2)
  - [India releases the draft Digital Personal Data Protection Rules, 2025, aimed at enforcing the Digital Personal Data Protection Act, 2023, for public comments &lpar;Aroon Deep/The Hindu&rpar;](http://www.techmeme.com/250104/p1#a250104p1)
- - [Worried About the Fate of Student Debt Relief? 6 Insights from a Student Loan Expert](https://www.cnet.com/personal-finance/loans/worried-about-the-fate-of-student-debt-relief-6-insights-from-a-student-loan-expert/#ftag=CAD590a51e)
- - [Today&#39;s NYT Strands Hints, Answers and Help for Jan. 4, #307](https://www.cnet.com/tech/gaming/todays-nyt-strands-hints-answers-and-help-for-jan-4-307/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Worried About the Fate of Student Debt Relief? 6 Insights from a Student Loan Expert](https://www.cnet.com/personal-finance/loans/worried-about-the-fate-of-student-debt-relief-6-insights-from-a-student-loan-expert/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

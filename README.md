@@ -166,8 +166,8 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Germany is a third world country](http://9gag.com/gag/ayN2eyq)
  - 😝 [I&#39;m something of a gamer myself](http://9gag.com/gag/aNDwgL6)
+ - 😝 [Germany is a third world country](http://9gag.com/gag/ayN2eyq)
  - 💣 [Here you go degenerates:](http://9gag.com/gag/aYQVy1m)
  - 😝 [Be the reason](http://9gag.com/gag/azx2m3x)
  - 👉 [Gender Swap!! G](http://9gag.com/gag/aKGEdY1)<!-- MEMES:END -->

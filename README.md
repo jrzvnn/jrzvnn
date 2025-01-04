@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The Price of the Google Pixel 7 Pro Is Currently Slashed to Just $400 During Woot&#39;s Limited-Time Sale](https://www.cnet.com/deals/google-pixel-7-pro-drops-to-400-in-woot-limited-time-sale/#ftag=CAD590a51e)
  - [Amit Yoran, the CEO of cybersecurity company Tenable, passed away after a battle with cancer; he previously held a number of roles, including president of RSA &lpar;Anthony Ha/TechCrunch&rpar;](http://www.techmeme.com/250104/p10#a250104p10)
  - [Apple&#39;s 1TB 14-inch MacBook Pro is available at a $220 discount today](https://appleinsider.com/articles/25/01/04/apples-1tb-14-inch-macbook-pro-is-available-at-a-220-discount-today?utm_medium=rss)
- - [Analysis of social media posts, AI art, Spaces comments, biographical details, and more suggests Adrian Dittmann is a German fan of Elon Musk living in Fiji &lpar;Jacqueline Sweet/The Spectator World&rpar;](http://www.techmeme.com/250104/p9#a250104p9)
- - [This Offer from Woot Means You Can Get the Ring Battery Doorbell Pro at Its Lowest Price Ever](https://www.cnet.com/deals/get-the-ring-battery-doorbell-pro-at-its-lowest-price-ever/#ftag=CAD590a51e)
- - [Don&#39;t Miss the Chance to Save $250 and Get the OnePlus 12 Phone at a Record Low Price](https://www.cnet.com/deals/250-off-new-oneplus-12-phone/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Hey, Apple, Let&#39;s Shake Up the iPhone&#39;s Design in 2025 — Finally](https://www.cnet.com/tech/mobile/hey-apple-lets-shake-up-the-iphones-design-in-2025-finally/#ftag=CAD590a51e)
+ - [Best VPN Deals: Protect Your Online Privacy for as Low as $2 a Month](https://www.cnet.com/deals/best-vpn-deals/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

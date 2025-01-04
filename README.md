@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Mass, Momentum, and Torque](http://9gag.com/gag/apR95KE)
- - 😝 [Crazy grip strength from the girl](http://9gag.com/gag/abAvVpE)
- - 💣 [The strength of Jeff Dabe](http://9gag.com/gag/aByd2pA)
+ - 😝 [What is this show about ?](http://9gag.com/gag/amoA5mo)
+ - 😝 [The strength of Jeff Dabe](http://9gag.com/gag/aByd2pA)
+ - 💣 [Crazy grip strength from the girl](http://9gag.com/gag/abAvVpE)
  - 😝 [Experience makes a man a man](http://9gag.com/gag/a0e4NdX)
- - 👉 [Sherbet recipe](http://9gag.com/gag/aXPnj8g)<!-- MEMES:END -->
+ - 👉 [Restoring An Old Basketball Court](http://9gag.com/gag/a5QXMPV)<!-- MEMES:END -->
 
 ---
 

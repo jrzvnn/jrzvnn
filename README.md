@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [CAN THERE BE ANYTHING MORE EXCITING THAN FINDING GOLD COINS UNDER THE OCEAN? One thousand years under salt water does nothing to this noble metal.](http://9gag.com/gag/aLn1wXv)
  - 😝 [Mass, Momentum, and Torque](http://9gag.com/gag/apR95KE)
- - 💣 [Any clues??](http://9gag.com/gag/aZZD3N9)
- - 😝 [Watching fireworks from balcony](http://9gag.com/gag/avyQ8xO)
- - 👉 [Sherbet recipe](http://9gag.com/gag/aXPnj8g)<!-- MEMES:END -->
+ - 😝 [Permanent concrete bollards now fixture in Melbourne sidewalks to prevent horrendous acts](http://9gag.com/gag/aRBE3Ky)
+ - 💣 [A big town is called a city. A big city is called a metropolis. And then there&#39;s Tokyo...](http://9gag.com/gag/aD2Y4gd)
+ - 😝 [Everything is better with bacon.](http://9gag.com/gag/aYQVowV)
+ - 👉 [CAN THERE BE ANYTHING MORE EXCITING THAN FINDING GOLD COINS UNDER THE OCEAN? One thousand years under salt water does nothing to this noble metal.](http://9gag.com/gag/aLn1wXv)<!-- MEMES:END -->
 
 ---
 

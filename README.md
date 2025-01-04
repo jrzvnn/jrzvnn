@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Here you go degenerates:](http://9gag.com/gag/aYQVy1m)
- - 😝 [Gender Swap!! G](http://9gag.com/gag/aKGEdY1)
- - 💣 [Oh yes \u201csouth asian\u201d](http://9gag.com/gag/aD2Yg5K)
- - 😝 [Germany is a third world country](http://9gag.com/gag/ayN2eyq)
- - 👉 [I spot a pattern](http://9gag.com/gag/aMVExyX)<!-- MEMES:END -->
+ - 😝 [What is this show about ?](http://9gag.com/gag/amoA5mo)
+ - 😝 [Car insurance companies are like, `so, what route do you take every day?`](http://9gag.com/gag/aRBE00q)
+ - 💣 [She knows how to play with ball](http://9gag.com/gag/a5QXE9g)
+ - 😝 [Watching fireworks from balcony](http://9gag.com/gag/avyQ8xO)
+ - 👉 [What a menace](http://9gag.com/gag/aZZDrqz)<!-- MEMES:END -->
 
 ---
 

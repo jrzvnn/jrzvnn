@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [I spot a pattern](http://9gag.com/gag/aMVExyX)
- - 😝 [Be the reason](http://9gag.com/gag/azx2m3x)
- - 💣 [The culture of Goat Bangers](http://9gag.com/gag/agmo5eK)
- - 😝 [Looks like apartheid is back on the menu](http://9gag.com/gag/aoyKMP0)
- - 👉 [This dog became the first to cross the Hungary/Romania border after Romania joins the Schengen visa free zone.](http://9gag.com/gag/aPAgROK)<!-- MEMES:END -->
+ - 😝 [Tolkien&#39;s roommate](http://9gag.com/gag/aBydg0D)
+ - 😝 [Sherbet recipe](http://9gag.com/gag/aXPnj8g)
+ - 💣 [The strength of Jeff Dabe](http://9gag.com/gag/aByd2pA)
+ - 😝 [Just wanted to show you my favourite nutcracker. The back in comments.](http://9gag.com/gag/awyZXqW)
+ - 👉 [What is this show about ?](http://9gag.com/gag/amoA5mo)<!-- MEMES:END -->
 
 ---
 

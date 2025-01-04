@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [CAN THERE BE ANYTHING MORE EXCITING THAN FINDING GOLD COINS UNDER THE OCEAN? One thousand years under salt water does nothing to this noble metal.](http://9gag.com/gag/aLn1wXv)
- - 😝 [Breaking: German men demand immediate deportations as word gets out and numbers increase](http://9gag.com/gag/aGyEpQn)
- - 💣 [Crazy grip strength from the girl](http://9gag.com/gag/abAvVpE)
- - 😝 [Mass, Momentum, and Torque](http://9gag.com/gag/apR95KE)
- - 👉 [What a menace](http://9gag.com/gag/aZZDrqz)<!-- MEMES:END -->
+ - 😝 [She knows how to play with ball](http://9gag.com/gag/a5QXE9g)
+ - 😝 [Eww](http://9gag.com/gag/an7z52b)
+ - 💣 [What is this show about ?](http://9gag.com/gag/amoA5mo)
+ - 😝 [Crazy grip strength from the girl](http://9gag.com/gag/abAvVpE)
+ - 👉 [A big town is called a city. A big city is called a metropolis. And then there&#39;s Tokyo...](http://9gag.com/gag/aD2Y4gd)<!-- MEMES:END -->
 
 ---
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Any clues??](http://9gag.com/gag/aZZD3N9)
- - 😝 [Rules the remaining pieces of Asgard](http://9gag.com/gag/a2vKorp)
- - 💣 [There is no amount of money anyone can pay me to bring me or my family to this forsaken place](http://9gag.com/gag/amoA7xX)
- - 😝 [Mass, Momentum, and Torque](http://9gag.com/gag/apR95KE)
- - 👉 [Sherbet recipe](http://9gag.com/gag/aXPnj8g)<!-- MEMES:END -->
+ - 😝 [Oskar](http://9gag.com/gag/aKGExQQ)
+ - 😝 [Be the reason](http://9gag.com/gag/azx2m3x)
+ - 💣 [Here you go degenerates:](http://9gag.com/gag/aYQVy1m)
+ - 😝 [I&#39;m something of a gamer myself](http://9gag.com/gag/aNDwgL6)
+ - 👉 [Gender Swap!! G](http://9gag.com/gag/aKGEdY1)<!-- MEMES:END -->
 
 ---
 

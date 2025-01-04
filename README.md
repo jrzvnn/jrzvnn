@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Islamic terrorism is a bad thing](http://9gag.com/gag/adBPVG9)
- - 😝 [ShUt uP b0b!](http://9gag.com/gag/aO8xQvE)
- - 💣 [Thoughts?](http://9gag.com/gag/aZZDrNp)
- - 😝 [She knows how to play with ball](http://9gag.com/gag/a5QXE9g)
- - 👉 [Breaking: German men demand immediate deportations as word gets out and numbers increase](http://9gag.com/gag/aGyEpQn)<!-- MEMES:END -->
+ - 😝 [Experience makes a man a man](http://9gag.com/gag/a0e4NdX)
+ - 😝 [Eww](http://9gag.com/gag/an7z52b)
+ - 💣 [The strength of Jeff Dabe](http://9gag.com/gag/aByd2pA)
+ - 😝 [What a menace](http://9gag.com/gag/aZZDrqz)
+ - 👉 [Watching fireworks from balcony](http://9gag.com/gag/avyQ8xO)<!-- MEMES:END -->
 
 ---
 

@@ -166,10 +166,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Rules the remaining pieces of Asgard](http://9gag.com/gag/a2vKorp)
- - 😝 [There is no amount of money anyone can pay me to bring me or my family to this forsaken place](http://9gag.com/gag/amoA7xX)
- - 💣 [5th of your budget](http://9gag.com/gag/adBPK7D)
- - 😝 [Mass, Momentum, and Torque](http://9gag.com/gag/apR95KE)
+ - 😝 [A coffee shop in Argentina . Look how nice it is](http://9gag.com/gag/aVvb3Dn)
+ - 😝 [Tolkien&#39;s roommate](http://9gag.com/gag/aBydg0D)
+ - 💣 [Phd references](http://9gag.com/gag/azx29zK)
+ - 😝 [Good choice](http://9gag.com/gag/a7oqW3A)
  - 👉 [Car insurance companies are like, `so, what route do you take every day?`](http://9gag.com/gag/aRBE00q)<!-- MEMES:END -->
 
 ---

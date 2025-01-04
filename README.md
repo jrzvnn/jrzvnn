@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Eww](http://9gag.com/gag/an7z52b)
- - 😝 [First time i see trash on the streets of Japan, any theories?](http://9gag.com/gag/aPAgYgP)
- - 💣 [Crazy grip strength from the girl](http://9gag.com/gag/abAvVpE)
- - 😝 [What is this show about ?](http://9gag.com/gag/amoA5mo)
- - 👉 [Experience makes a man a man](http://9gag.com/gag/a0e4NdX)<!-- MEMES:END -->
+ - 😝 [Islamic terrorism is a bad thing](http://9gag.com/gag/adBPVG9)
+ - 😝 [ShUt uP b0b!](http://9gag.com/gag/aO8xQvE)
+ - 💣 [Thoughts?](http://9gag.com/gag/aZZDrNp)
+ - 😝 [She knows how to play with ball](http://9gag.com/gag/a5QXE9g)
+ - 👉 [Breaking: German men demand immediate deportations as word gets out and numbers increase](http://9gag.com/gag/aGyEpQn)<!-- MEMES:END -->
 
 ---
 

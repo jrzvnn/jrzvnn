@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [This dog became the first to cross the Hungary/Romania border after Romania joins the Schengen visa free zone.](http://9gag.com/gag/aPAgROK)
- - 😝 [Looks like apartheid is back on the menu](http://9gag.com/gag/aoyKMP0)
- - 💣 [Islamic terrorism is a bad thing](http://9gag.com/gag/adBPVG9)
- - 😝 [Thoughts?](http://9gag.com/gag/aZZDrNp)
- - 👉 [She knows how to play with ball](http://9gag.com/gag/a5QXE9g)<!-- MEMES:END -->
+ - 😝 [Eww](http://9gag.com/gag/an7z52b)
+ - 😝 [First time i see trash on the streets of Japan, any theories?](http://9gag.com/gag/aPAgYgP)
+ - 💣 [Crazy grip strength from the girl](http://9gag.com/gag/abAvVpE)
+ - 😝 [What is this show about ?](http://9gag.com/gag/amoA5mo)
+ - 👉 [Experience makes a man a man](http://9gag.com/gag/a0e4NdX)<!-- MEMES:END -->
 
 ---
 

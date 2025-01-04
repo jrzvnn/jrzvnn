@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [A look at India&#39;s draft DPDP rules, which require platforms to verify the age and identity of a parent when obtaining consent to process data of users under 18 &lpar;Kamya Pandey/MEDIANAMA&rpar;](http://www.techmeme.com/250104/p8#a250104p8)
- - [These JBL Vibe Beam Earbuds Are Still at a Record-Low Price of $25](https://www.cnet.com/deals/jbl-vibe-beam-wireless-earbuds-at-a-record-low-price-of-25/#ftag=CAD590a51e)
- - [3 Best Stainless Steel Frying Pans in 2025](https://www.cnet.com/news/best-stainless-steel-skillet/#ftag=CAD590a51e)
+ - [A look at India&#39;s draft DPDP Rules, which require platforms to verify the age and identity of a parent when obtaining consent to process data of users under 18 &lpar;Kamya Pandey/MEDIANAMA&rpar;](http://www.techmeme.com/250104/p8#a250104p8)
  - [The best sleep gadgets to help you catch those Zzzs](https://www.theverge.com/23291925/best-sleep-tech-trackers-earbuds-wearables)
- - [Best Creatine Supplements of 2025](https://www.cnet.com/health/nutrition/best-creatine-supplements/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Elon Musk Calls Out NASA’s Moon Ambitions: ‘We’re Going Straight to Mars’](https://www.wired.com/story/elon-musk-mars-moon-artemis-nasa/)
+ - [Twelve South’s travel-friendly Bluetooth dongle is on sale for its best price yet](https://www.theverge.com/2025/1/4/24311067/twelve-south-airfly-se-sony-wh-1000xm5-headphones-deal-sale)
+ - [NetEase reverses bans on macOS, Linux players of &#39;Marvel Rivals&#39;](https://appleinsider.com/articles/25/01/04/netease-reverses-bans-on-macos-linux-players-of-marvel-rivals?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

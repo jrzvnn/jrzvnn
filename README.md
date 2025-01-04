@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [A coffee shop in Argentina . Look how nice it is](http://9gag.com/gag/aVvb3Dn)
+ - 😝 [CAN THERE BE ANYTHING MORE EXCITING THAN FINDING GOLD COINS UNDER THE OCEAN? One thousand years under salt water does nothing to this noble metal.](http://9gag.com/gag/aLn1wXv)
+ - 😝 [Phd references](http://9gag.com/gag/azx29zK)
+ - 💣 [Pacific Rim: Tokyo Drift](http://9gag.com/gag/aAy0gQL)
  - 😝 [Tolkien&#39;s roommate](http://9gag.com/gag/aBydg0D)
- - 💣 [Phd references](http://9gag.com/gag/azx29zK)
- - 😝 [Good choice](http://9gag.com/gag/a7oqW3A)
- - 👉 [Car insurance companies are like, `so, what route do you take every day?`](http://9gag.com/gag/aRBE00q)<!-- MEMES:END -->
+ - 👉 [Rules the remaining pieces of Asgard](http://9gag.com/gag/a2vKorp)<!-- MEMES:END -->
 
 ---
 

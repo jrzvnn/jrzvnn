@@ -167,10 +167,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [Experience makes a man a man](http://9gag.com/gag/a0e4NdX)
- - 😝 [The Bacterial Flagellum is a naturally occurring motor that spins up to 100,000 rpm with nearly 100% efficiency and can reverse its rotational direction in milliseconds](http://9gag.com/gag/awyZAqr)
- - 💣 [They are welcoming the Syrians at the border who are returning back home.](http://9gag.com/gag/ae9QAbQ)
- - 😝 [Crazy grip strength from the girl](http://9gag.com/gag/abAvVpE)
- - 👉 [A big town is called a city. A big city is called a metropolis. And then there&#39;s Tokyo...](http://9gag.com/gag/aD2Y4gd)<!-- MEMES:END -->
+ - 😝 [How to piss off an entire community in less than 30 seconds](http://9gag.com/gag/axyo9D1)
+ - 💣 [Not just starving. I just don&#39;t do anything. Don&#39;t spend and don&#39;t talk as well.](http://9gag.com/gag/arymo2V)
+ - 😝 [What a menace](http://9gag.com/gag/aZZDrqz)
+ - 👉 [Crazy grip strength from the girl](http://9gag.com/gag/abAvVpE)<!-- MEMES:END -->
 
 ---
 

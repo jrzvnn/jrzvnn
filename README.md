@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [ShUt uP b0b!](http://9gag.com/gag/aO8xQvE)
- - 😝 [Thoughts?](http://9gag.com/gag/aZZDrNp)
- - 💣 [Breaking: German men demand immediate deportations as word gets out and numbers increase](http://9gag.com/gag/aGyEpQn)
- - 😝 [I gotta say this is impressive](http://9gag.com/gag/aVvbx22)
- - 👉 [She knows how to play with ball](http://9gag.com/gag/a5QXE9g)<!-- MEMES:END -->
+ - 😝 [CAN THERE BE ANYTHING MORE EXCITING THAN FINDING GOLD COINS UNDER THE OCEAN? One thousand years under salt water does nothing to this noble metal.](http://9gag.com/gag/aLn1wXv)
+ - 😝 [Breaking: German men demand immediate deportations as word gets out and numbers increase](http://9gag.com/gag/aGyEpQn)
+ - 💣 [Crazy grip strength from the girl](http://9gag.com/gag/abAvVpE)
+ - 😝 [Mass, Momentum, and Torque](http://9gag.com/gag/apR95KE)
+ - 👉 [What a menace](http://9gag.com/gag/aZZDrqz)<!-- MEMES:END -->
 
 ---
 

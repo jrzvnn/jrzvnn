@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [It’s Time for Parents to Step Up in the Fight for Clean Air](https://www.wired.com/story/fossil-fuel-pollution-impact-children-parents-action/)
  - [Take Part in Veganuary and You Might See Yourself Differently](https://www.wired.com/story/does-taking-part-in-veganuary-put-people-off-meat-in-the-long-term-heres-what-the-evidence-shows/)
  - [Climate group that called for Gaza ceasefire risks losing federal funding](https://www.theverge.com/2025/1/4/24326092/biden-epa-delays-environmental-justice-funding-gaza)
  - [Religious leaders are experimenting with AI, spurring an industry of faith-based tech companies that offer AI tools to do theological research and write sermons &lpar;Eli Tan/New York Times&rpar;](http://www.techmeme.com/250104/p5#a250104p5)
- - [Best Wireless Headphones &lpar;2025&rpar;: Tested Over Many Hours](https://www.wired.com/gallery/best-wireless-headphones/)
- - [Premier League Soccer: Livestream Man City vs. West Ham From Anywhere](https://www.cnet.com/tech/services-and-software/premier-league-soccer-livestream-man-city-vs-west-ham-from-anywhere/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Best Wireless Headphones &lpar;2025&rpar;: Tested Over Many Hours](https://www.wired.com/gallery/best-wireless-headphones/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

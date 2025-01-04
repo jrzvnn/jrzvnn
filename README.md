@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The Price of the Google Pixel 7 Pro Is Currently Slashed to Just $400 During Woot&#39;s Limited-Time Sale](https://www.cnet.com/deals/google-pixel-7-pro-drops-to-400-in-woot-limited-time-sale/#ftag=CAD590a51e)
- - [Amit Yoran, the CEO of cybersecurity company Tenable, passed away after a battle with cancer; he previously held a number of roles, including president of RSA &lpar;Anthony Ha/TechCrunch&rpar;](http://www.techmeme.com/250104/p10#a250104p10)
- - [Apple&#39;s 1TB 14-inch MacBook Pro is available at a $220 discount today](https://appleinsider.com/articles/25/01/04/apples-1tb-14-inch-macbook-pro-is-available-at-a-220-discount-today?utm_medium=rss)
- - [Hey, Apple, Let&#39;s Shake Up the iPhone&#39;s Design in 2025 — Finally](https://www.cnet.com/tech/mobile/hey-apple-lets-shake-up-the-iphones-design-in-2025-finally/#ftag=CAD590a51e)
- - [Best VPN Deals: Protect Your Online Privacy for as Low as $2 a Month](https://www.cnet.com/deals/best-vpn-deals/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [This Pocket-Sized Mini Power Bank Is on Sale for Just $16 Right Now](https://www.cnet.com/deals/this-pocket-sized-mini-power-bank-is-on-sale-for-just-16-right-now/#ftag=CAD590a51e)
+ - [Prime Video: The 33 Absolute Best TV Shows to Watch](https://www.cnet.com/tech/services-and-software/best-tv-shows-on-prime-video-january-2025/#ftag=CAD590a51e)
+ - [Today&#39;s Wordle Hints, Answer and Help for Jan. 5, #1296](https://www.cnet.com/tech/gaming/todays-wordle-hints-answer-and-help-for-jan-5-1296/#ftag=CAD590a51e)
+ - [Best MacBook Deals: Kickstart Productivity in 2025 With a New Apple Laptop](https://www.cnet.com/deals/best-macbook-deals/#ftag=CAD590a51e)
+ - [The Price of the Google Pixel 7 Pro Is Currently Slashed to Just $400 During Woot&#39;s Limited-Time Sale](https://www.cnet.com/deals/google-pixel-7-pro-drops-to-400-in-woot-limited-time-sale/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

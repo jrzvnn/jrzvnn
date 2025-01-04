@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Best Portable Chargers &lpar;2025&rpar;: iPhones, iPads, Laptops &amp; More](https://www.wired.com/gallery/best-portable-chargers-power-banks/)
+ - [CES 2025: all the news, gadgets, and surprises](https://www.theverge.com/2025/1/4/24307731/ces-2025-tvs-gaming-smart-home-wearables-news)
  - [Inside the fall and last-minute revival of accounting startup Bench, which struggled with implementing automation tools and faced tumult in its executive suite &lpar;Charles Rollet/TechCrunch&rpar;](http://www.techmeme.com/250104/p6#a250104p6)
  - [Gardencup Review: Making Eating as Convenient as It Gets](https://www.wired.com/review/gardencup/)
- - [What to expect at CES 2025](https://www.theverge.com/2025/1/4/24335163/ces-2025-what-to-expect-tvs-smart-home-auto)
- - [It’s Time for Parents to Step Up in the Fight for Clean Air](https://www.wired.com/story/fossil-fuel-pollution-impact-children-parents-action/)
- - [Here&#39;s What&#39;s Coming to Disneyland and Disney World This Year and Beyond](https://www.cnet.com/tech/services-and-software/heres-whats-coming-to-disneyland-and-disney-world-this-year-and-beyond/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [31 Best Gifts Under $200 for 2025](https://www.cnet.com/news/best-gifts-under-200/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

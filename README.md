@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [How to piss off an entire community in less than 30 seconds](http://9gag.com/gag/axyo9D1)
- - 😝 [Pineapple Juice vs Human Parasites](http://9gag.com/gag/aGyEEy7)
- - 💣 [Who at Disney looked at these redesigns and went \u201cYeah, this is an improvement\u201d?](http://9gag.com/gag/aPAgg9G)
- - 😝 [Australia could be saved !](http://9gag.com/gag/aE0qpox)
- - 👉 [Sherbet recipe](http://9gag.com/gag/aXPnj8g)<!-- MEMES:END -->
+ - 😝 [They are eating the dogs they are eating the rats](http://9gag.com/gag/aPAggLG)
+ - 😝 [Horse prevents human from getting squashed](http://9gag.com/gag/aBydmQQ)
+ - 💣 [CAN THERE BE ANYTHING MORE EXCITING THAN FINDING GOLD COINS UNDER THE OCEAN? One thousand years under salt water does nothing to this noble metal.](http://9gag.com/gag/aLn1wXv)
+ - 😝 [Crazy grip strength from the girl](http://9gag.com/gag/abAvVpE)
+ - 👉 [They are welcoming the Syrians at the border who are returning back home.](http://9gag.com/gag/ae9QAbQ)<!-- MEMES:END -->
 
 ---
 

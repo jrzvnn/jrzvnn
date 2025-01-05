@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [AlphaTheta DDJ-FLX2 Review: A Great Entry-Level DJ Controller](https://www.wired.com/review/akphtatheta-ddj-flx2/)
+ - [United Airlines now says first flights with Starlink Wi-Fi will take off spring 2025](https://www.theverge.com/2025/1/5/24332356/united-starlink-wifi-flights-spring-2025)
  - [The UK CMA is testing an AI tool to help catch companies that collude when bidding for public contracts, amid a &quot;significant risk of bid-rigging&quot; by contractors &lpar;Suzi Ring/Financial Times&rpar;](http://www.techmeme.com/250105/p5#a250105p5)
- - [Could Humans Have a Brain Microbiome?](https://www.wired.com/story/fish-have-a-brain-microbiome-could-humans-have-one-too/)
- - [AI Hardware Is in Its ‘Put Up or Shut Up’ Era](https://www.wired.com/story/ces-2025-ai-hardware-is-in-its-put-up-or-shut-up-era/)
- - [Best Wi-Fi Routers of 2025 Tested and Reviewed by Experts](https://www.wired.com/gallery/best-wifi-routers/)
- - [Child Tax Credit 2024: Find Out If You&#39;re Eligible](https://www.cnet.com/personal-finance/child-tax-credit-2024-find-out-if-youre-eligible/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Tech and Wellness Will Combine Like Never Before in 2025, but Will We Benefit?](https://www.cnet.com/health/tech-and-wellness-will-combine-like-never-before-in-2025-but-will-we-benefit/#ftag=CAD590a51e)
+ - [Master Any Math Equation With This iOS 18 Trick](https://www.cnet.com/tech/services-and-software/master-any-math-eqaution-with-this-ios-18-trick/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

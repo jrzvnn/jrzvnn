@@ -167,10 +167,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [Breaking: German men demand immediate deportations as word gets out and numbers increase](http://9gag.com/gag/aGyEpQn)
- - 😝 [Stronk lady](http://9gag.com/gag/aYQVVjx)
- - 💣 [Everything lasts longer when you take care of it](http://9gag.com/gag/abAvVNp)
- - 😝 [She knows how to play with ball](http://9gag.com/gag/a5QXE9g)
- - 👉 [The strength of Jeff Dabe](http://9gag.com/gag/aByd2pA)<!-- MEMES:END -->
+ - 😝 [Everything lasts longer when you take care of it](http://9gag.com/gag/abAvVNp)
+ - 💣 [Stronk lady](http://9gag.com/gag/aYQVVjx)
+ - 😝 [The strength of Jeff Dabe](http://9gag.com/gag/aByd2pA)
+ - 👉 [She knows how to play with ball](http://9gag.com/gag/a5QXE9g)<!-- MEMES:END -->
 
 ---
 

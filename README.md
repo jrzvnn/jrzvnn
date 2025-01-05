@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Directed by Michael Bay](http://9gag.com/gag/aRBEXrG)
- - 😝 [No context needed](http://9gag.com/gag/apR99jM)
- - 💣 [Fears to Fathom have the scariest set pieces in spite of the lofi graphics](http://9gag.com/gag/arymmWX)
- - 😝 [They are eating the dogs they are eating the rats](http://9gag.com/gag/aPAggLG)
- - 👉 [Simona Halep, Romanian former #1 tennis before breast reduction](http://9gag.com/gag/aQzEEjz)<!-- MEMES:END -->
+ - 😝 [He asked for a sewing machine for Christmas, and the first thing he made was for his sister.](http://9gag.com/gag/a0e4e2n)
+ - 😝 [It&#39;s Lunch Time, let&#39;s have a 1 meter Pizza](http://9gag.com/gag/aPAgAzw)
+ - 💣 [Take some rest for a while, and upvote this dog. Luck will come to you in 2025](http://9gag.com/gag/ae9QQAm)
+ - 😝 [A harbinger of evil](http://9gag.com/gag/a1mPm7v)
+ - 👉 [Found the video you saved for later](http://9gag.com/gag/aYQVQDw)<!-- MEMES:END -->
 
 ---
 

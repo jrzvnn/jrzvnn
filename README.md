@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [No context needed](http://9gag.com/gag/apR99jM)
  - 😝 [Fears to Fathom have the scariest set pieces in spite of the lofi graphics](http://9gag.com/gag/arymmWX)
- - 💣 [HIS SCHROCK IS OUT](http://9gag.com/gag/a7oqqyq)
- - 😝 [Andrew Tate looks like he found the ring and is on his way to becoming Gollum](http://9gag.com/gag/a9yqq0j)
- - 👉 [Directed by Michael Bay](http://9gag.com/gag/aRBEXrG)<!-- MEMES:END -->
+ - 😝 [They are eating the dogs they are eating the rats](http://9gag.com/gag/aPAggLG)
+ - 💣 [Directed by Michael Bay](http://9gag.com/gag/aRBEXrG)
+ - 😝 [No context needed](http://9gag.com/gag/apR99jM)
+ - 👉 [HIS SCHROCK IS OUT](http://9gag.com/gag/a7oqqyq)<!-- MEMES:END -->
 
 ---
 

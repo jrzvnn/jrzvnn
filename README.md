@@ -160,8 +160,8 @@ R                        1 repo              ░░░░░░░░░░░�
  - [Best iPad to Buy &lpar;and Some to Avoid&rpar; in 2025](https://www.wired.com/gallery/the-best-ipad/)
  - [PitchBook: AI startups developing medical note-taking apps raised $800M in 2024, compared to $390M in 2023, as Microsoft and others compete for market share &lpar;Madhumita Murgia/Financial Times&rpar;](http://www.techmeme.com/250105/p6#a250105p6)
  - [15 Best Wireless Earbuds, Tested and Reviewed &lpar;2025&rpar;](https://www.wired.com/gallery/best-wirefree-earbuds/)
- - [How to watch Awesome Games Done Quick 2025](https://www.theverge.com/2025/1/5/24334425/how-to-watch-awesome-games-done-quick-agdq-2025)
- - [How AI Can Help You Save Money on Groceries](https://www.cnet.com/tech/services-and-software/how-to-use-ai-to-save-money-on-groceries/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Slow Wi-Fi? Place Your Mesh Router in These Spots for a Speed Boost](https://www.cnet.com/home/internet/slow-wi-fi-place-your-mesh-router-in-these-spots-for-a-speed-boost/#ftag=CAD590a51e)
+ - [How to watch Awesome Games Done Quick 2025](https://www.theverge.com/2025/1/5/24334425/how-to-watch-awesome-games-done-quick-agdq-2025)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Australia could be saved !](http://9gag.com/gag/aE0qpox)
- - 😝 [How to piss off an entire community in less than 30 seconds](http://9gag.com/gag/axyo9D1)
- - 💣 [Sherbet recipe](http://9gag.com/gag/aXPnj8g)
- - 😝 [Burger King employee caught sharing customer\u2019s credit card information with her friend via Facetime.](http://9gag.com/gag/ae9QQyO)
- - 👉 [Crazy grip strength from the girl](http://9gag.com/gag/abAvVpE)<!-- MEMES:END -->
+ - 😝 [Breaking: German men demand immediate deportations as word gets out and numbers increase](http://9gag.com/gag/aGyEpQn)
+ - 😝 [Stronk lady](http://9gag.com/gag/aYQVVjx)
+ - 💣 [The strength of Jeff Dabe](http://9gag.com/gag/aByd2pA)
+ - 😝 [Everything lasts longer when you take care of it](http://9gag.com/gag/abAvVNp)
+ - 👉 [Weebs](http://9gag.com/gag/azx2eem)<!-- MEMES:END -->
 
 ---
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [I Have no idea whats going on here - but peoples behavior is getting out if hand - happened in New Zealand](http://9gag.com/gag/a5QX1QE)
- - 😝 [CAN THERE BE ANYTHING MORE EXCITING THAN FINDING GOLD COINS UNDER THE OCEAN? One thousand years under salt water does nothing to this noble metal.](http://9gag.com/gag/aLn1wXv)
- - 💣 [Experience makes a man a man](http://9gag.com/gag/a0e4NdX)
- - 😝 [A big town is called a city. A big city is called a metropolis. And then there&#39;s Tokyo...](http://9gag.com/gag/aD2Y4gd)
- - 👉 [The strength of Jeff Dabe](http://9gag.com/gag/aByd2pA)<!-- MEMES:END -->
+ - 😝 [Breaking: German men demand immediate deportations as word gets out and numbers increase](http://9gag.com/gag/aGyEpQn)
+ - 😝 [She knows how to play with ball](http://9gag.com/gag/a5QXE9g)
+ - 💣 [Everything lasts longer when you take care of it](http://9gag.com/gag/abAvVNp)
+ - 😝 [The strength of Jeff Dabe](http://9gag.com/gag/aByd2pA)
+ - 👉 [What a menace](http://9gag.com/gag/aZZDrqz)<!-- MEMES:END -->
 
 ---
 

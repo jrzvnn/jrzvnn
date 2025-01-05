@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Breaking: German men demand immediate deportations as word gets out and numbers increase](http://9gag.com/gag/aGyEpQn)
- - 😝 [She knows how to play with ball](http://9gag.com/gag/a5QXE9g)
- - 💣 [Everything lasts longer when you take care of it](http://9gag.com/gag/abAvVNp)
- - 😝 [The strength of Jeff Dabe](http://9gag.com/gag/aByd2pA)
- - 👉 [What a menace](http://9gag.com/gag/aZZDrqz)<!-- MEMES:END -->
+ - 😝 [Tandem paraglider pilot Babu Sunuwar and experienced Everest climber Lakpa Tshering Sherpa have flown a tandem paraglider from the summit of Everest.](http://9gag.com/gag/adBP5r9)
+ - 😝 [Good choice](http://9gag.com/gag/a7oqW3A)
+ - 💣 [Stronk lady](http://9gag.com/gag/aYQVVjx)
+ - 😝 [Man made horrors coming to you soon](http://9gag.com/gag/arymnAV)
+ - 👉 [Guys only want one thing and it\u2019s beautiful.](http://9gag.com/gag/agmoBMw)<!-- MEMES:END -->
 
 ---
 

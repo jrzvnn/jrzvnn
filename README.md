@@ -166,10 +166,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Stronk lady](http://9gag.com/gag/aYQVVjx)
  - 😝 [Who at Disney looked at these redesigns and went \u201cYeah, this is an improvement\u201d?](http://9gag.com/gag/aPAgg9G)
- - 💣 [Man made horrors coming to you soon](http://9gag.com/gag/arymnAV)
- - 😝 [No context needed](http://9gag.com/gag/apR99jM)
+ - 😝 [Man made horrors coming to you soon](http://9gag.com/gag/arymnAV)
+ - 💣 [Crazy grip strength from the girl](http://9gag.com/gag/abAvVpE)
+ - 😝 [They are welcoming the Syrians at the border who are returning back home.](http://9gag.com/gag/ae9QAbQ)
  - 👉 [CAN THERE BE ANYTHING MORE EXCITING THAN FINDING GOLD COINS UNDER THE OCEAN? One thousand years under salt water does nothing to this noble metal.](http://9gag.com/gag/aLn1wXv)<!-- MEMES:END -->
 
 ---

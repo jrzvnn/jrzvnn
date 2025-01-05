@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [A look at Chinese hackers&#39; attacks on US infrastructure and telecoms; sources: Charter, Consolidated Communications, and Windstream networks were also breached &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/250105/p8#a250105p8)
+ - [EcoFlow’s Oasis could be a powerful tool for simplifying your home’s energy use](https://www.theverge.com/2025/1/5/24335856/ecoflow-oasis-smart-home-energy-management-system)
  - [Belkin’s PowerGrip adds a magnetic battery and shutter button to your iPhone](https://www.theverge.com/2025/1/5/24335612/belkin-stage-powergrip-battery-pack-camera-grip-stand)
- - [YouTuber Legal Eagle is suing over PayPal’s Honey extension](https://www.theverge.com/2025/1/5/24336236/youtube-creators-suing-paypal-honey-extension-affiliate-link-swapping)
- - [Nvidia’s RTX 5090 leaks with 32GB of GDDR7 memory](https://www.theverge.com/2025/1/5/24336321/nvidia-rtx-5090-32gb-vram-gddr7-memory-ces-leak-rumor)
- - [Foxconn reports Q4 revenue of ~$64.6B, up 15% YoY and exceeding analyst expectations for a 13% rise, with December 2024 bringing in ~$19.8B, up 42% YoY &lpar;Jane Lanhee Lee/Bloomberg&rpar;](http://www.techmeme.com/250105/p7#a250105p7)
- - [EcoFlow Slashes Portable Power Stations and Solar Panels by 55% in Limited-Time New Year Sale](https://www.cnet.com/deals/ecoflow-slashes-portable-power-stations-and-solar-panels-by-55-in-limited-time-new-year-sale/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [This robovac has an arm that can pick up your dirty laundry](https://www.theverge.com/2025/1/5/24332998/roborock-saros-z70-robot-vacuum-omnigrip-arm)
+ - [YouTuber Legal Eagle is suing over PayPal’s Honey extension](https://www.theverge.com/2025/1/5/24336236/youtube-creators-suing-paypal-honey-extension-affiliate-link-swapping)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

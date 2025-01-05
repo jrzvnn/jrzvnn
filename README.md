@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [HIS SCHROCK IS OUT](http://9gag.com/gag/a7oqqyq)
- - 😝 [Sherbet recipe](http://9gag.com/gag/aXPnj8g)
- - 💣 [CAN THERE BE ANYTHING MORE EXCITING THAN FINDING GOLD COINS UNDER THE OCEAN? One thousand years under salt water does nothing to this noble metal.](http://9gag.com/gag/aLn1wXv)
  - 😝 [Guy spins apple using air compressor until it explodes](http://9gag.com/gag/ae9QQD5)
- - 👉 [Guys only want one thing and it\u2019s beautiful.](http://9gag.com/gag/agmoBMw)<!-- MEMES:END -->
+ - 😝 [Guys only want one thing and it\u2019s beautiful.](http://9gag.com/gag/agmoBMw)
+ - 💣 [Australia could be saved !](http://9gag.com/gag/aE0qpox)
+ - 😝 [HIS SCHROCK IS OUT](http://9gag.com/gag/a7oqqyq)
+ - 👉 [What a menace](http://9gag.com/gag/aZZDrqz)<!-- MEMES:END -->
 
 ---
 

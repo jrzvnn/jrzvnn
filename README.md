@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Belkin’s PowerGrip adds a magnetic battery and shutter button to your iPhone](https://www.theverge.com/2025/1/5/24335612/belkin-stage-powergrip-battery-pack-camera-grip-stand)
  - [YouTuber Legal Eagle is suing over PayPal’s Honey extension](https://www.theverge.com/2025/1/5/24336236/youtube-creators-suing-paypal-honey-extension-affiliate-link-swapping)
  - [Nvidia’s RTX 5090 leaks with 32GB of GDDR7 memory](https://www.theverge.com/2025/1/5/24336321/nvidia-rtx-5090-32gb-vram-gddr7-memory-ces-leak-rumor)
  - [Foxconn reports Q4 revenue of ~$64.6B, up 15% YoY and exceeding analyst expectations for a 13% rise, with December 2024 bringing in ~$19.8B, up 42% YoY &lpar;Jane Lanhee Lee/Bloomberg&rpar;](http://www.techmeme.com/250105/p7#a250105p7)
- - [EcoFlow Slashes Portable Power Stations and Solar Panels by 55% in Limited-Time New Year Sale](https://www.cnet.com/deals/ecoflow-slashes-portable-power-stations-and-solar-panels-by-55-in-limited-time-new-year-sale/#ftag=CAD590a51e)
- - [I&#39;m Buying These Must-Have Sleep Items From Cozy Earth While They&#39;re Up to 75% Off](https://www.cnet.com/deals/must-have-sleep-items-from-cozy-earth-75-off-warehouse-sale/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [EcoFlow Slashes Portable Power Stations and Solar Panels by 55% in Limited-Time New Year Sale](https://www.cnet.com/deals/ecoflow-slashes-portable-power-stations-and-solar-panels-by-55-in-limited-time-new-year-sale/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

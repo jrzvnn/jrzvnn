@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Tandem paraglider pilot Babu Sunuwar and experienced Everest climber Lakpa Tshering Sherpa have flown a tandem paraglider from the summit of Everest.](http://9gag.com/gag/adBP5r9)
- - 😝 [I Have no idea whats going on here - but peoples behavior is getting out if hand - happened in New Zealand](http://9gag.com/gag/a5QX1QE)
- - 💣 [Guys only want one thing and it\u2019s beautiful.](http://9gag.com/gag/agmoBMw)
- - 😝 [Man made horrors coming to you soon](http://9gag.com/gag/arymnAV)
- - 👉 [Milked like a cow](http://9gag.com/gag/a2vK1VZ)<!-- MEMES:END -->
+ - 😝 [Crazy grip strength from the girl](http://9gag.com/gag/abAvVpE)
+ - 😝 [Milked like a cow](http://9gag.com/gag/a2vK1VZ)
+ - 💣 [How to piss off an entire community in less than 30 seconds](http://9gag.com/gag/axyo9D1)
+ - 😝 [Guys only want one thing and it\u2019s beautiful.](http://9gag.com/gag/agmoBMw)
+ - 👉 [Not just starving. I just don&#39;t do anything. Don&#39;t spend and don&#39;t talk as well.](http://9gag.com/gag/arymo2V)<!-- MEMES:END -->
 
 ---
 

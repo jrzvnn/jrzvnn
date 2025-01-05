@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Belkin bolsters eco-friendly pledge at CES alongside new chargers &amp; audio gear](https://appleinsider.com/articles/25/01/05/belkin-bolsters-eco-friendly-pledge-at-ces-alongside-new-chargers-audio-gear?utm_medium=rss)
+ - [First Look: This New Robot Vacuum Picks Up Socks and Underwear While It Cleans](https://www.cnet.com/home/kitchen-and-household/roborocks-new-robot-vac-has-an-arm-to-pick-up-your-dirty-socks-and-underwear/#ftag=CAD590a51e)
+ - [Best Cheap Home Security Systems for 2025](https://www.cnet.com/home/security/best-cheap-home-security-systems/#ftag=CAD590a51e)
  - [Malaysia&#39;s environment minister says global tech companies should expect to pay a premium for access to energy and water to serve data centres in the country &lpar;Financial Times&rpar;](http://www.techmeme.com/250105/p9#a250105p9)
- - [The 12 Best Sheets of 2025: How to Choose Based on Your Sleep Preferences](https://www.cnet.com/health/sleep/best-sheets/#ftag=CAD590a51e)
- - [Best Minimalist Wallet for 2025: I Tested Dozens of Different Shapes and Sizes -- Here Are the Very Best](https://www.cnet.com/tech/best-minimalist-wallet/#ftag=CAD590a51e)
- - [The Absolute Best Horror Movies on Hulu](https://www.cnet.com/tech/services-and-software/the-absolute-best-horror-movies-hulu-january-2025/#ftag=CAD590a51e)
- - [Best Tower Fan for 2025](https://www.cnet.com/home/kitchen-and-household/best-tower-fan/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Here&#39;s When You&#39;ll Actually Need a Real ID to Fly in 2025](https://www.cnet.com/culture/heres-when-youll-actually-need-a-real-id-to-fly-in-2025/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

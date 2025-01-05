@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Fears to Fathom have the scariest set pieces in spite of the lofi graphics](http://9gag.com/gag/arymmWX)
- - 😝 [They are eating the dogs they are eating the rats](http://9gag.com/gag/aPAggLG)
- - 💣 [Directed by Michael Bay](http://9gag.com/gag/aRBEXrG)
+ - 😝 [Always care for each other](http://9gag.com/gag/aO8x8Zy)
  - 😝 [No context needed](http://9gag.com/gag/apR99jM)
- - 👉 [HIS SCHROCK IS OUT](http://9gag.com/gag/a7oqqyq)<!-- MEMES:END -->
+ - 💣 [Guy spins apple using air compressor until it explodes](http://9gag.com/gag/ae9QQD5)
+ - 😝 [Goalkeeper randomly gifts little boy with his gloves](http://9gag.com/gag/a0e440B)
+ - 👉 [They are eating the dogs they are eating the rats](http://9gag.com/gag/aPAggLG)<!-- MEMES:END -->
 
 ---
 

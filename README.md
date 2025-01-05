@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Guy spins apple using air compressor until it explodes](http://9gag.com/gag/ae9QQD5)
+ - 😝 [Australia could be saved !](http://9gag.com/gag/aE0qpox)
  - 😝 [A harbinger of evil](http://9gag.com/gag/a1mPm7v)
- - 💣 [HIS SCHROCK IS OUT](http://9gag.com/gag/a7oqqyq)
- - 😝 [Fears to Fathom have the scariest set pieces in spite of the lofi graphics](http://9gag.com/gag/arymmWX)
- - 👉 [Andrew Tate looks like he found the ring and is on his way to becoming Gollum](http://9gag.com/gag/a9yqq0j)<!-- MEMES:END -->
+ - 💣 [Directed by Michael Bay](http://9gag.com/gag/aRBEXrG)
+ - 😝 [Andrew Tate looks like he found the ring and is on his way to becoming Gollum](http://9gag.com/gag/a9yqq0j)
+ - 👉 [They are eating the dogs they are eating the rats](http://9gag.com/gag/aPAggLG)<!-- MEMES:END -->
 
 ---
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Best Electric Bike for 2025](https://www.cnet.com/roadshow/news/best-electric-bike/#ftag=CAD590a51e)
  - [A look at Chinese hackers&#39; attacks on US infrastructure and telecoms; sources: Charter, Consolidated Communications, and Windstream networks were also breached &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/250105/p8#a250105p8)
- - [EcoFlow’s Oasis could be a powerful tool for simplifying your home’s energy use](https://www.theverge.com/2025/1/5/24335856/ecoflow-oasis-smart-home-energy-management-system)
- - [Belkin’s PowerGrip adds a magnetic battery and shutter button to your iPhone](https://www.theverge.com/2025/1/5/24335612/belkin-stage-powergrip-battery-pack-camera-grip-stand)
- - [This robovac has an arm that can pick up your dirty laundry](https://www.theverge.com/2025/1/5/24332998/roborock-saros-z70-robot-vacuum-omnigrip-arm)
- - [YouTuber Legal Eagle is suing over PayPal’s Honey extension](https://www.theverge.com/2025/1/5/24336236/youtube-creators-suing-paypal-honey-extension-affiliate-link-swapping)<!-- TECH:END -->
+ - [Here&#39;s When You Can Stream &#39;WWE Raw&#39; Live on Netflix](https://www.cnet.com/tech/services-and-software/heres-when-you-can-stream-wwe-raw-live-on-netflix/#ftag=CAD590a51e)
+ - [Roborock Gives a First Look at the Saros Z70 Robovacuum video](https://www.cnet.com/videos/roborock-gives-a-first-look-at-the-saros-z70-robovacuum/#ftag=CAD590a51e)
+ - [EcoFlow Just Put an AI Assistant Into Power Stations to Make Your Energy Use Smarter](https://www.cnet.com/news/ecoflow-just-put-an-ai-assistant-into-power-stations-to-make-your-energy-use-smarter/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Guy spins apple using air compressor until it explodes](http://9gag.com/gag/ae9QQD5)
- - 😝 [Guys only want one thing and it\u2019s beautiful.](http://9gag.com/gag/agmoBMw)
- - 💣 [Australia could be saved !](http://9gag.com/gag/aE0qpox)
- - 😝 [HIS SCHROCK IS OUT](http://9gag.com/gag/a7oqqyq)
- - 👉 [What a menace](http://9gag.com/gag/aZZDrqz)<!-- MEMES:END -->
+ - 😝 [What a menace](http://9gag.com/gag/aZZDrqz)
+ - 😝 [Crazy grip strength from the girl](http://9gag.com/gag/abAvVpE)
+ - 💣 [Guys only want one thing and it\u2019s beautiful.](http://9gag.com/gag/agmoBMw)
+ - 😝 [A harbinger of evil](http://9gag.com/gag/a1mPm7v)
+ - 👉 [Horse prevents human from getting squashed](http://9gag.com/gag/aBydmQQ)<!-- MEMES:END -->
 
 ---
 

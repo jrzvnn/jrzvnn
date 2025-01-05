@@ -167,10 +167,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [Why It&#39;s A Good Idea To Have A Dash Cam-People trying to scam ~S~](http://9gag.com/gag/a7oqqOw)
- - 😝 [Guy spins apple using air compressor until it explodes](http://9gag.com/gag/ae9QQD5)
- - 💣 [Goalkeeper randomly gifts little boy with his gloves](http://9gag.com/gag/a0e440B)
- - 😝 [Raining](http://9gag.com/gag/aVvbve8)
- - 👉 [A big town is called a city. A big city is called a metropolis. And then there&#39;s Tokyo...](http://9gag.com/gag/aD2Y4gd)<!-- MEMES:END -->
+ - 😝 [Goalkeeper randomly gifts little boy with his gloves](http://9gag.com/gag/a0e440B)
+ - 💣 [Guys only want one thing and it\u2019s beautiful.](http://9gag.com/gag/agmoBMw)
+ - 😝 [Simona Halep, Romanian former #1 tennis before breast reduction](http://9gag.com/gag/aQzEEjz)
+ - 👉 [They are welcoming the Syrians at the border who are returning back home.](http://9gag.com/gag/ae9QAbQ)<!-- MEMES:END -->
 
 ---
 

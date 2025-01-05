@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [LG G5 OLED TV Bumps Brightness Even Higher video](https://www.cnet.com/videos/lg-g5-oled-tv-bumps-brightness-even-higher/#ftag=CAD590a51e)
  - [Espresso Displays has a new portable pro-level monitor](https://appleinsider.com/articles/25/01/05/espresso-displays-has-a-new-portable-pro-level-monitor?utm_medium=rss)
- - [Amazon is working on a Melania Trump documentary](https://www.theverge.com/2025/1/5/24336488/amazon-prime-video-melania-trump-documentary-brett-ratner-director)
- - [Today&#39;s NYT Connections Hints, Answers and Help for Jan. 6, #575](https://www.cnet.com/tech/gaming/todays-nyt-connections-hints-answers-and-help-for-jan-6-575/#ftag=CAD590a51e)
- - [Today&#39;s Wordle Hints, Answer and Help for Jan. 6, #1297](https://www.cnet.com/tech/gaming/todays-wordle-hints-answer-and-help-for-jan-6-1297/#ftag=CAD590a51e)
- - [Tempur-Pedic Mattress Guide 2024: Every Tempur-Pedic Mattress Tested](https://www.cnet.com/health/sleep/tempurpedic-mattress-review/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Best True Wireless Sports Earbuds With Ear Hooks for 2025](https://www.cnet.com/tech/mobile/best-true-wireless-sports-earbuds-with-ear-hooks/#ftag=CAD590a51e)
+ - [New LG OLED TVs Boost Brightness 20%, Load Up on AI and Flirt With Going Wireless](https://www.cnet.com/tech/home-entertainment/new-lg-tvs-boost-brightness-20-load-up-on-ai-and-flirt-with-going-wireless/#ftag=CAD590a51e)
+ - [Best Gaming PC Deals: All the Latest and Greatest Price Drops on the Latest Games in 2025](https://www.cnet.com/deals/best-gaming-pc-deals/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

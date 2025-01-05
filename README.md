@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [They did exactly what they should have done](http://9gag.com/gag/aBydgmx)
- - 😝 [Tolkien&#39;s roommate](http://9gag.com/gag/aBydg0D)
- - 💣 [What a menace](http://9gag.com/gag/aZZDrqz)
- - 😝 [Sherbet recipe](http://9gag.com/gag/aXPnj8g)
- - 👉 [Mass, Momentum, and Torque](http://9gag.com/gag/apR95KE)<!-- MEMES:END -->
+ - 😝 [I Have no idea whats going on here - but peoples behavior is getting out if hand - happened in New Zealand](http://9gag.com/gag/a5QX1QE)
+ - 😝 [CAN THERE BE ANYTHING MORE EXCITING THAN FINDING GOLD COINS UNDER THE OCEAN? One thousand years under salt water does nothing to this noble metal.](http://9gag.com/gag/aLn1wXv)
+ - 💣 [Experience makes a man a man](http://9gag.com/gag/a0e4NdX)
+ - 😝 [A big town is called a city. A big city is called a metropolis. And then there&#39;s Tokyo...](http://9gag.com/gag/aD2Y4gd)
+ - 👉 [The strength of Jeff Dabe](http://9gag.com/gag/aByd2pA)<!-- MEMES:END -->
 
 ---
 

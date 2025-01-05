@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [A harbinger of evil](http://9gag.com/gag/a1mPm7v)
- - 😝 [Take some rest for a while, and upvote this dog. Luck will come to you in 2025](http://9gag.com/gag/ae9QQAm)
- - 💣 [He asked for a sewing machine for Christmas, and the first thing he made was for his sister.](http://9gag.com/gag/a0e4e2n)
- - 😝 [Found the video you saved for later](http://9gag.com/gag/aYQVQDw)
- - 👉 [An airplane pilot welcomes the New Year 2025 over Warsaw](http://9gag.com/gag/apR91vD)<!-- MEMES:END -->
+ - 😝 [Directed by Michael Bay](http://9gag.com/gag/aRBEXrG)
+ - 😝 [I&#39;m 40, I don&#39;t have time for this BS](http://9gag.com/gag/aqyeyWR)
+ - 💣 [Cops Turn Missing Woman\u2019s Home Into Netflix and Chill Zone](http://9gag.com/gag/ae9QgP5)
+ - 😝 [Always care for each other](http://9gag.com/gag/aO8x8Zy)
+ - 👉 [Guy spins apple using air compressor until it explodes](http://9gag.com/gag/ae9QQD5)<!-- MEMES:END -->
 
 ---
 

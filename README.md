@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Goalkeeper randomly gifts little boy with his gloves](http://9gag.com/gag/a0e440B)
- - 😝 [Sometime in the 90s](http://9gag.com/gag/avyQygX)
- - 💣 [Fears to Fathom have the scariest set pieces in spite of the lofi graphics](http://9gag.com/gag/arymmWX)
- - 😝 [Always care for each other](http://9gag.com/gag/aO8x8Zy)
- - 👉 [They are eating the dogs they are eating the rats](http://9gag.com/gag/aPAggLG)<!-- MEMES:END -->
+ - 😝 [Fears to Fathom have the scariest set pieces in spite of the lofi graphics](http://9gag.com/gag/arymmWX)
+ - 😝 [Directed by Michael Bay](http://9gag.com/gag/aRBEXrG)
+ - 💣 [A harbinger of evil](http://9gag.com/gag/a1mPm7v)
+ - 😝 [They are eating the dogs they are eating the rats](http://9gag.com/gag/aPAggLG)
+ - 👉 [Simona Halep, Romanian former #1 tennis before breast reduction](http://9gag.com/gag/aQzEEjz)<!-- MEMES:END -->
 
 ---
 

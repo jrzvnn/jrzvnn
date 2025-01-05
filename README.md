@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Crazy grip strength from the girl](http://9gag.com/gag/abAvVpE)
- - 😝 [Milked like a cow](http://9gag.com/gag/a2vK1VZ)
- - 💣 [How to piss off an entire community in less than 30 seconds](http://9gag.com/gag/axyo9D1)
- - 😝 [Guys only want one thing and it\u2019s beautiful.](http://9gag.com/gag/agmoBMw)
- - 👉 [Not just starving. I just don&#39;t do anything. Don&#39;t spend and don&#39;t talk as well.](http://9gag.com/gag/arymo2V)<!-- MEMES:END -->
+ - 😝 [Breaking: German men demand immediate deportations as word gets out and numbers increase](http://9gag.com/gag/aGyEpQn)
+ - 😝 [She knows how to play with ball](http://9gag.com/gag/a5QXE9g)
+ - 💣 [Stronk lady](http://9gag.com/gag/aYQVVjx)
+ - 😝 [Everything lasts longer when you take care of it](http://9gag.com/gag/abAvVNp)
+ - 👉 [The strength of Jeff Dabe](http://9gag.com/gag/aByd2pA)<!-- MEMES:END -->
 
 ---
 

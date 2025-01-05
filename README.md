@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Always care for each other](http://9gag.com/gag/aO8x8Zy)
- - 😝 [No context needed](http://9gag.com/gag/apR99jM)
- - 💣 [Guy spins apple using air compressor until it explodes](http://9gag.com/gag/ae9QQD5)
- - 😝 [Goalkeeper randomly gifts little boy with his gloves](http://9gag.com/gag/a0e440B)
- - 👉 [They are eating the dogs they are eating the rats](http://9gag.com/gag/aPAggLG)<!-- MEMES:END -->
+ - 😝 [Too much here...](http://9gag.com/gag/aO8x8BN)
+ - 😝 [It&#39;s Lunch Time, let&#39;s have a 1 meter Pizza](http://9gag.com/gag/aPAgAzw)
+ - 💣 [Why I was late to work...](http://9gag.com/gag/a1mPmyD)
+ - 😝 [Stay awhile and drink with me - 45 today](http://9gag.com/gag/aQzEzYz)
+ - 👉 [Take some rest for a while, and upvote this dog. Luck will come to you in 2025](http://9gag.com/gag/ae9QQAm)<!-- MEMES:END -->
 
 ---
 

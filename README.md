@@ -158,7 +158,7 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- TECH:START -->
  - [Espresso Displays has a new portable pro-level monitor](https://appleinsider.com/articles/25/01/05/espresso-displays-has-a-new-portable-pro-level-monitor?utm_medium=rss)
- - [Prime Video licensed a Melania Trump documentary directed by Brett Ratner](https://www.theverge.com/2025/1/5/24336488/amazon-prime-video-melania-trump-documentary-brett-ratner-director)
+ - [Amazon is working on a Melania Trump documentary](https://www.theverge.com/2025/1/5/24336488/amazon-prime-video-melania-trump-documentary-brett-ratner-director)
  - [Today&#39;s NYT Connections Hints, Answers and Help for Jan. 6, #575](https://www.cnet.com/tech/gaming/todays-nyt-connections-hints-answers-and-help-for-jan-6-575/#ftag=CAD590a51e)
  - [Today&#39;s Wordle Hints, Answer and Help for Jan. 6, #1297](https://www.cnet.com/tech/gaming/todays-wordle-hints-answer-and-help-for-jan-6-1297/#ftag=CAD590a51e)
  - [Tempur-Pedic Mattress Guide 2024: Every Tempur-Pedic Mattress Tested](https://www.cnet.com/health/sleep/tempurpedic-mattress-review/#ftag=CAD590a51e)<!-- TECH:END -->

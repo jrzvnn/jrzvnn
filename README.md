@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Some people.](http://9gag.com/gag/ajPV9Op)
+ - 😝 [Guy spins apple using air compressor until it explodes](http://9gag.com/gag/ae9QQD5)
  - 😝 [A harbinger of evil](http://9gag.com/gag/a1mPm7v)
- - 💣 [Fears to Fathom have the scariest set pieces in spite of the lofi graphics](http://9gag.com/gag/arymmWX)
- - 😝 [They are welcoming the Syrians at the border who are returning back home.](http://9gag.com/gag/ae9QAbQ)
- - 👉 [HIS SCHROCK IS OUT](http://9gag.com/gag/a7oqqyq)<!-- MEMES:END -->
+ - 💣 [HIS SCHROCK IS OUT](http://9gag.com/gag/a7oqqyq)
+ - 😝 [Fears to Fathom have the scariest set pieces in spite of the lofi graphics](http://9gag.com/gag/arymmWX)
+ - 👉 [Andrew Tate looks like he found the ring and is on his way to becoming Gollum](http://9gag.com/gag/a9yqq0j)<!-- MEMES:END -->
 
 ---
 

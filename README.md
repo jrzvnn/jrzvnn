@@ -160,8 +160,8 @@ R                        1 repo              ░░░░░░░░░░░�
  - [Q&amp;A with Sam Altman on OpenAI&#39;s and ChatGPT&#39;s first few years, his removal as CEO, OpenAI&#39;s structure, AGI, AI safety, nuclear fusion, Trump, Musk, and more &lpar;Josh Tyrangiel/Bloomberg&rpar;](http://www.techmeme.com/250105/p11#a250105p11)
  - [Two new Govee Matter smart lights have arrived at CES 2025](https://appleinsider.com/articles/25/01/05/two-new-govee-matter-smart-lights-have-arrived-at-ces-2025?utm_medium=rss)
  - [Hyper &amp; Targus have many new cables, bags, &amp; more for Apple users at CES](https://appleinsider.com/articles/25/01/05/hyper-targus-have-many-new-cables-bags-more-for-apple-users-at-ces?utm_medium=rss)
- - [The HyperSpace Trackpad Pro is a Magic Trackpad for Windows](https://www.theverge.com/2025/1/5/24334270/hyperspace-trackpad-pro-apple-magic-trackpad-ces-2025)
- - [This pixel light grid can show you the weather &lpar;and the price of Bitcoin&rpar;](https://www.theverge.com/2025/1/5/24329784/govee-gaming-pixel-light-table-lamp-2-pro-ces-2025)<!-- TECH:END -->
+ - [Best Prescription Sunglasses for 2025](https://www.cnet.com/health/personal-care/best-prescription-sunglasses/#ftag=CAD590a51e)
+ - [The HyperSpace Trackpad Pro is a Magic Trackpad for Windows](https://www.theverge.com/2025/1/5/24334270/hyperspace-trackpad-pro-apple-magic-trackpad-ces-2025)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

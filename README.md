@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [PitchBook: AI startups developing medical note-taking apps raised $800M in 2024, compared to $390M in 2023, as Microsoft and others compete for market share &lpar;Madhumita Murgia/Financial Times&rpar;](http://www.techmeme.com/250105/p6#a250105p6)
  - [15 Best Wireless Earbuds, Tested and Reviewed &lpar;2025&rpar;](https://www.wired.com/gallery/best-wirefree-earbuds/)
  - [How to watch Awesome Games Done Quick 2025](https://www.theverge.com/2025/1/5/24334425/how-to-watch-awesome-games-done-quick-agdq-2025)
  - [How AI Can Help You Save Money on Groceries](https://www.cnet.com/tech/services-and-software/how-to-use-ai-to-save-money-on-groceries/#ftag=CAD590a51e)
- - [AlphaTheta DDJ-FLX2 Review: A Great Entry-Level DJ Controller](https://www.wired.com/review/akphtatheta-ddj-flx2/)
- - [Get Happier in 2025 With These Easy Mental Health Tips](https://www.cnet.com/health/mental/7-mental-health-hacks-to-bost-your-happiness/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [AlphaTheta DDJ-FLX2 Review: A Great Entry-Level DJ Controller](https://www.wired.com/review/akphtatheta-ddj-flx2/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -167,10 +167,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [Guy spins apple using air compressor until it explodes](http://9gag.com/gag/ae9QQD5)
- - 😝 [They are welcoming the Syrians at the border who are returning back home.](http://9gag.com/gag/ae9QAbQ)
- - 💣 [HIS SCHROCK IS OUT](http://9gag.com/gag/a7oqqyq)
- - 😝 [Simona Halep, Romanian former #1 tennis before breast reduction](http://9gag.com/gag/aQzEEjz)
- - 👉 [Fears to Fathom have the scariest set pieces in spite of the lofi graphics](http://9gag.com/gag/arymmWX)<!-- MEMES:END -->
+ - 😝 [Guys only want one thing and it\u2019s beautiful.](http://9gag.com/gag/agmoBMw)
+ - 💣 [Fears to Fathom have the scariest set pieces in spite of the lofi graphics](http://9gag.com/gag/arymmWX)
+ - 😝 [Andrew Tate looks like he found the ring and is on his way to becoming Gollum](http://9gag.com/gag/a9yqq0j)
+ - 👉 [HIS SCHROCK IS OUT](http://9gag.com/gag/a7oqqyq)<!-- MEMES:END -->
 
 ---
 

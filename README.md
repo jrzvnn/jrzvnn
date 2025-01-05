@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [School teacher nowadays](http://9gag.com/gag/a9yqqGj)
- - 😝 [OSHA: Heavy breathing](http://9gag.com/gag/a4PoE21)
- - 💣 [Guy spins apple using air compressor until it explodes](http://9gag.com/gag/ae9QQD5)
- - 😝 [No context needed](http://9gag.com/gag/apR99jM)
- - 👉 [Crazy grip strength from the girl](http://9gag.com/gag/abAvVpE)<!-- MEMES:END -->
+ - 😝 [Breaking: German men demand immediate deportations as word gets out and numbers increase](http://9gag.com/gag/aGyEpQn)
+ - 😝 [Stronk lady](http://9gag.com/gag/aYQVVjx)
+ - 💣 [Everything lasts longer when you take care of it](http://9gag.com/gag/abAvVNp)
+ - 😝 [She knows how to play with ball](http://9gag.com/gag/a5QXE9g)
+ - 👉 [The strength of Jeff Dabe](http://9gag.com/gag/aByd2pA)<!-- MEMES:END -->
 
 ---
 

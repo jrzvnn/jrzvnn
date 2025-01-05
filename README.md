@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [15 Best Wireless Earbuds, Tested and Reviewed &lpar;2025&rpar;](https://www.wired.com/gallery/best-wirefree-earbuds/)
+ - [How to watch Awesome Games Done Quick 2025](https://www.theverge.com/2025/1/5/24334425/how-to-watch-awesome-games-done-quick-agdq-2025)
+ - [How AI Can Help You Save Money on Groceries](https://www.cnet.com/tech/services-and-software/how-to-use-ai-to-save-money-on-groceries/#ftag=CAD590a51e)
  - [AlphaTheta DDJ-FLX2 Review: A Great Entry-Level DJ Controller](https://www.wired.com/review/akphtatheta-ddj-flx2/)
- - [United Airlines now says first flights with Starlink Wi-Fi will take off spring 2025](https://www.theverge.com/2025/1/5/24332356/united-starlink-wifi-flights-spring-2025)
- - [The UK CMA is testing an AI tool to help catch companies that collude when bidding for public contracts, amid a &quot;significant risk of bid-rigging&quot; by contractors &lpar;Suzi Ring/Financial Times&rpar;](http://www.techmeme.com/250105/p5#a250105p5)
- - [Tech and Wellness Will Combine Like Never Before in 2025, but Will We Benefit?](https://www.cnet.com/health/tech-and-wellness-will-combine-like-never-before-in-2025-but-will-we-benefit/#ftag=CAD590a51e)
- - [Master Any Math Equation With This iOS 18 Trick](https://www.cnet.com/tech/services-and-software/master-any-math-eqaution-with-this-ios-18-trick/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Get Happier in 2025 With These Easy Mental Health Tips](https://www.cnet.com/health/mental/7-mental-health-hacks-to-bost-your-happiness/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

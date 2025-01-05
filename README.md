@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The UK CMA is testing an AI tool to help catch companies that collude when bidding for public contracts, amid a &quot;significant risk of bid-rigging&quot; by contractors &lpar;Suzi Ring/Financial Times&rpar;](http://www.techmeme.com/250105/p5#a250105p5)
+ - [Could Humans Have a Brain Microbiome?](https://www.wired.com/story/fish-have-a-brain-microbiome-could-humans-have-one-too/)
  - [AI Hardware Is in Its ‘Put Up or Shut Up’ Era](https://www.wired.com/story/ces-2025-ai-hardware-is-in-its-put-up-or-shut-up-era/)
  - [Best Wi-Fi Routers of 2025 Tested and Reviewed by Experts](https://www.wired.com/gallery/best-wifi-routers/)
- - [The Video Game Industry Is Finally Getting Serious About Player Safety](https://www.wired.com/story/video-games-developers-online-safety/)
- - [Mortgage Predictions for Week of Jan. 5-11, 2025](https://www.cnet.com/personal-finance/mortgage-predictions-for-week-of-jan-5-11-2025/#ftag=CAD590a51e)
- - [How Huawei is flourishing despite harsh US sanctions, demonstrating the resilience of a company at the center of a worsening cold war between the US and China &lpar;Eva Dou/Washington Post&rpar;](http://www.techmeme.com/250105/p4#a250105p4)<!-- TECH:END -->
+ - [Child Tax Credit 2024: Find Out If You&#39;re Eligible](https://www.cnet.com/personal-finance/child-tax-credit-2024-find-out-if-youre-eligible/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

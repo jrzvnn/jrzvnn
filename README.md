@@ -158,10 +158,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- TECH:START -->
  - [The Video Game Industry Is Finally Getting Serious About Player Safety](https://www.wired.com/story/video-games-developers-online-safety/)
+ - [Mortgage Predictions for Week of Jan. 5-11, 2025](https://www.cnet.com/personal-finance/mortgage-predictions-for-week-of-jan-5-11-2025/#ftag=CAD590a51e)
  - [How Huawei is flourishing despite harsh US sanctions, demonstrating the resilience of a company at the center of a worsening cold war between the US and China &lpar;Eva Dou/Washington Post&rpar;](http://www.techmeme.com/250105/p4#a250105p4)
  - [CrowdStrike, whose botched software update caused a global IT outage in July 2024, has more than recovered the $30B in market value it shed after the crisis &lpar;Stephanie Stacey/Financial Times&rpar;](http://www.techmeme.com/250105/p3#a250105p3)
- - [Douyin, Pinduoduo, and Xiaohongshu vow to improve their algorithms, after China launched a campaign in November 2024 to address &quot;typical issues with algorithms&quot; &lpar;Coco Feng/South China Morning Post&rpar;](http://www.techmeme.com/250105/p2#a250105p2)
- - [Sources: Reliance writes off its $200M investment in Bengaluru-based hyperlocal delivery startup Dunzo, as CEO Kabeer Biswas looks to sell Dunzo for $25M-$30M &lpar;Bismah Malik/Inc42&rpar;](http://www.techmeme.com/250105/p1#a250105p1)<!-- TECH:END -->
+ - [Douyin, Pinduoduo, and Xiaohongshu vow to improve their algorithms, after China launched a campaign in November 2024 to address &quot;typical issues with algorithms&quot; &lpar;Coco Feng/South China Morning Post&rpar;](http://www.techmeme.com/250105/p2#a250105p2)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

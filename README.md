@@ -158,10 +158,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- TECH:START -->
  - [Banned macOS &amp; Linux players of &#39;Marvel Rivals&#39; have been given a reprieve](https://appleinsider.com/articles/25/01/04/netease-reverses-bans-on-macos-linux-players-of-marvel-rivals?utm_medium=rss)
- - [LG’s 2025 OLED TVs are its best yet — but they risk going overboard with AI](https://www.theverge.com/2025/1/5/24336168/lg-2025-oled-tv-m5-g5-c5-b5-features-specs)
- - [Sources: Italy is in advanced talks for a $1.6B, five-year SpaceX deal to provide the government with secure telecom services, Europe&#39;s largest such project &lpar;Bloomberg&rpar;](http://www.techmeme.com/250105/p10#a250105p10)
- - [Belkin bolsters eco-friendly pledge at CES alongside new chargers &amp; audio gear](https://appleinsider.com/articles/25/01/05/belkin-bolsters-eco-friendly-pledge-at-ces-alongside-new-chargers-audio-gear?utm_medium=rss)
- - [First Look: This New Robot Vacuum Picks Up Socks and Underwear While It Cleans](https://www.cnet.com/home/kitchen-and-household/roborocks-new-robot-vac-has-an-arm-to-pick-up-your-dirty-socks-and-underwear/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [We Asked a Wine Pro if Open Red Wine Lasts Longer in the Fridge](https://www.cnet.com/how-to/we-asked-a-wine-pro-if-open-red-wine-lasts-longer-in-the-fridge/#ftag=CAD590a51e)
+ - [Best Vitamins for Energy in 2025](https://www.cnet.com/health/nutrition/best-vitamins-for-energy/#ftag=CAD590a51e)
+ - [LG G5 and M5 OLED TVs Aim for Better Gaming and Picture Quality](https://www.cnet.com/tech/home-entertainment/lg-g5-and-m5-oled-tvs-aim-for-better-gaming-and-picture-quality/#ftag=CAD590a51e)
+ - [The 8 Best Indoor Smart Gardens for 2025](https://www.cnet.com/home/smart-home/best-indoor-garden/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

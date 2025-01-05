@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [LG’s 2025 OLED TVs are its best yet — but they risk going overboard with AI](https://www.theverge.com/2025/1/5/24336168/lg-2025-oled-tv-m5-g5-c5-b5-features-specs)
  - [Sources: Italy is in advanced talks for a $1.6B, five-year SpaceX deal to provide the government with secure telecom services, Europe&#39;s largest such project &lpar;Bloomberg&rpar;](http://www.techmeme.com/250105/p10#a250105p10)
  - [Belkin bolsters eco-friendly pledge at CES alongside new chargers &amp; audio gear](https://appleinsider.com/articles/25/01/05/belkin-bolsters-eco-friendly-pledge-at-ces-alongside-new-chargers-audio-gear?utm_medium=rss)
- - [Malaysia&#39;s environment minister says global tech companies should expect to pay a premium for access to energy and water to serve data centres in the country &lpar;Financial Times&rpar;](http://www.techmeme.com/250105/p9#a250105p9)
- - [The 12 Best Sheets of 2025: How to Choose Based on Your Sleep Preferences](https://www.cnet.com/health/sleep/best-sheets/#ftag=CAD590a51e)
- - [Best Minimalist Wallet for 2025: I Tested Dozens of Different Shapes and Sizes -- Here Are the Very Best](https://www.cnet.com/tech/best-minimalist-wallet/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [First Look: This New Robot Vacuum Picks Up Socks and Underwear While It Cleans](https://www.cnet.com/home/kitchen-and-household/roborocks-new-robot-vac-has-an-arm-to-pick-up-your-dirty-socks-and-underwear/#ftag=CAD590a51e)
+ - [Best Cheap Home Security Systems for 2025](https://www.cnet.com/home/security/best-cheap-home-security-systems/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

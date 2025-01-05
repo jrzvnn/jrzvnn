@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Breaking: German men demand immediate deportations as word gets out and numbers increase](http://9gag.com/gag/aGyEpQn)
- - 😝 [Stronk lady](http://9gag.com/gag/aYQVVjx)
- - 💣 [She knows how to play with ball](http://9gag.com/gag/a5QXE9g)
- - 😝 [Everything lasts longer when you take care of it](http://9gag.com/gag/abAvVNp)
- - 👉 [The strength of Jeff Dabe](http://9gag.com/gag/aByd2pA)<!-- MEMES:END -->
+ - 😝 [Eden Choi performing at The Magic Star](http://9gag.com/gag/amoAvZ6)
+ - 😝 [A big town is called a city. A big city is called a metropolis. And then there&#39;s Tokyo...](http://9gag.com/gag/aD2Y4gd)
+ - 💣 [Australia could be saved !](http://9gag.com/gag/aE0qpox)
+ - 😝 [Why It&#39;s A Good Idea To Have A Dash Cam-People trying to scam ~S~](http://9gag.com/gag/a7oqqOw)
+ - 👉 [Not just starving. I just don&#39;t do anything. Don&#39;t spend and don&#39;t talk as well.](http://9gag.com/gag/arymo2V)<!-- MEMES:END -->
 
 ---
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [CAN THERE BE ANYTHING MORE EXCITING THAN FINDING GOLD COINS UNDER THE OCEAN? One thousand years under salt water does nothing to this noble metal.](http://9gag.com/gag/aLn1wXv)
- - 😝 [Man made horrors coming to you soon](http://9gag.com/gag/arymnAV)
- - 💣 [Why It&#39;s A Good Idea To Have A Dash Cam-People trying to scam ~S~](http://9gag.com/gag/a7oqqOw)
- - 😝 [Who at Disney looked at these redesigns and went \u201cYeah, this is an improvement\u201d?](http://9gag.com/gag/aPAgg9G)
- - 👉 [Guy spins apple using air compressor until it explodes](http://9gag.com/gag/ae9QQD5)<!-- MEMES:END -->
+ - 😝 [Why It&#39;s A Good Idea To Have A Dash Cam-People trying to scam ~S~](http://9gag.com/gag/a7oqqOw)
+ - 😝 [Guy spins apple using air compressor until it explodes](http://9gag.com/gag/ae9QQD5)
+ - 💣 [Goalkeeper randomly gifts little boy with his gloves](http://9gag.com/gag/a0e440B)
+ - 😝 [Raining](http://9gag.com/gag/aVvbve8)
+ - 👉 [A big town is called a city. A big city is called a metropolis. And then there&#39;s Tokyo...](http://9gag.com/gag/aD2Y4gd)<!-- MEMES:END -->
 
 ---
 

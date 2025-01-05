@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Breaking: German men demand immediate deportations as word gets out and numbers increase](http://9gag.com/gag/aGyEpQn)
  - 😝 [Stronk lady](http://9gag.com/gag/aYQVVjx)
- - 💣 [The strength of Jeff Dabe](http://9gag.com/gag/aByd2pA)
- - 😝 [Everything lasts longer when you take care of it](http://9gag.com/gag/abAvVNp)
- - 👉 [Weebs](http://9gag.com/gag/azx2eem)<!-- MEMES:END -->
+ - 😝 [Who at Disney looked at these redesigns and went \u201cYeah, this is an improvement\u201d?](http://9gag.com/gag/aPAgg9G)
+ - 💣 [Man made horrors coming to you soon](http://9gag.com/gag/arymnAV)
+ - 😝 [No context needed](http://9gag.com/gag/apR99jM)
+ - 👉 [CAN THERE BE ANYTHING MORE EXCITING THAN FINDING GOLD COINS UNDER THE OCEAN? One thousand years under salt water does nothing to this noble metal.](http://9gag.com/gag/aLn1wXv)<!-- MEMES:END -->
 
 ---
 

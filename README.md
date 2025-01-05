@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [What to expect at CES 2025: TVs with AI features, laptops built around Nvidia&#39;s new 50-series discrete GPUs, Matter smart home devices, and more &lpar;The Verge&rpar;](http://www.techmeme.com/250104/p12#a250104p12)
  - [The 20 Best Gift Baskets of 2025: Find the Perfect Edible Gift](https://www.cnet.com/news/best-gift-baskets/#ftag=CAD590a51e)
  - [Best AI Image Generators of 2025](https://www.cnet.com/tech/services-and-software/best-ai-image-generators/#ftag=CAD590a51e)
  - [How China-linked Volt Typhoon hackers breached local utilities and the US DOD&#39;s sensitive networks in Guam, a US territory vital for defending Taiwan militarily &lpar;Katrina Manson/Bloomberg&rpar;](http://www.techmeme.com/250104/p11#a250104p11)
- - [Best iPhone 13 Deals: Offers Are Scarce but These Are the Best Ones Out There](https://www.cnet.com/deals/best-iphone-13-deals/#ftag=CAD590a51e)
- - [Best Amazon Deals Under $100: Save Big on Top Tech Gear, Home Goods and More While Deals Last](https://www.cnet.com/deals/best-amazon-deals-under-100/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Best iPhone 13 Deals: Offers Are Scarce but These Are the Best Ones Out There](https://www.cnet.com/deals/best-iphone-13-deals/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

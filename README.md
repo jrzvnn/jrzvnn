@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [He asked for a sewing machine for Christmas, and the first thing he made was for his sister.](http://9gag.com/gag/a0e4e2n)
- - 😝 [It&#39;s Lunch Time, let&#39;s have a 1 meter Pizza](http://9gag.com/gag/aPAgAzw)
- - 💣 [Take some rest for a while, and upvote this dog. Luck will come to you in 2025](http://9gag.com/gag/ae9QQAm)
- - 😝 [A harbinger of evil](http://9gag.com/gag/a1mPm7v)
- - 👉 [Found the video you saved for later](http://9gag.com/gag/aYQVQDw)<!-- MEMES:END -->
+ - 😝 [Goalkeeper randomly gifts little boy with his gloves](http://9gag.com/gag/a0e440B)
+ - 😝 [Sometime in the 90s](http://9gag.com/gag/avyQygX)
+ - 💣 [Fears to Fathom have the scariest set pieces in spite of the lofi graphics](http://9gag.com/gag/arymmWX)
+ - 😝 [Always care for each other](http://9gag.com/gag/aO8x8Zy)
+ - 👉 [They are eating the dogs they are eating the rats](http://9gag.com/gag/aPAggLG)<!-- MEMES:END -->
 
 ---
 

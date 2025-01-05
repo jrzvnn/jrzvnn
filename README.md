@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [A harbinger of evil](http://9gag.com/gag/a1mPm7v)
- - 😝 [Take some rest for a while, and upvote this dog. Luck will come to you in 2025](http://9gag.com/gag/ae9QQAm)
- - 💣 [An airplane pilot welcomes the New Year 2025 over Warsaw](http://9gag.com/gag/apR91vD)
- - 😝 [He asked for a sewing machine for Christmas, and the first thing he made was for his sister.](http://9gag.com/gag/a0e4e2n)
- - 👉 [Found the video you saved for later](http://9gag.com/gag/aYQVQDw)<!-- MEMES:END -->
+ - 😝 [Always care for each other](http://9gag.com/gag/aO8x8Zy)
+ - 😝 [No context needed](http://9gag.com/gag/apR99jM)
+ - 💣 [Simona Halep, Romanian former #1 tennis before breast reduction](http://9gag.com/gag/aQzEEjz)
+ - 😝 [Fears to Fathom have the scariest set pieces in spite of the lofi graphics](http://9gag.com/gag/arymmWX)
+ - 👉 [Who at Disney looked at these redesigns and went \u201cYeah, this is an improvement\u201d?](http://9gag.com/gag/aPAgg9G)<!-- MEMES:END -->
 
 ---
 

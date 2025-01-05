@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Tandem paraglider pilot Babu Sunuwar and experienced Everest climber Lakpa Tshering Sherpa have flown a tandem paraglider from the summit of Everest.](http://9gag.com/gag/adBP5r9)
  - 😝 [Good choice](http://9gag.com/gag/a7oqW3A)
- - 💣 [Stronk lady](http://9gag.com/gag/aYQVVjx)
- - 😝 [Man made horrors coming to you soon](http://9gag.com/gag/arymnAV)
- - 👉 [Guys only want one thing and it\u2019s beautiful.](http://9gag.com/gag/agmoBMw)<!-- MEMES:END -->
+ - 😝 [Guys only want one thing and it\u2019s beautiful.](http://9gag.com/gag/agmoBMw)
+ - 💣 [Not just starving. I just don&#39;t do anything. Don&#39;t spend and don&#39;t talk as well.](http://9gag.com/gag/arymo2V)
+ - 😝 [I Have no idea whats going on here - but peoples behavior is getting out if hand - happened in New Zealand](http://9gag.com/gag/a5QX1QE)
+ - 👉 [Man made horrors coming to you soon](http://9gag.com/gag/arymnAV)<!-- MEMES:END -->
 
 ---
 

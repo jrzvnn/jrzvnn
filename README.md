@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [YouTuber Legal Eagle is suing over PayPal’s Honey extension](https://www.theverge.com/2025/1/5/24336236/youtube-creators-suing-paypal-honey-extension-affiliate-link-swapping)
+ - [Nvidia’s RTX 5090 leaks with 32GB of GDDR7 memory](https://www.theverge.com/2025/1/5/24336321/nvidia-rtx-5090-32gb-vram-gddr7-memory-ces-leak-rumor)
  - [Foxconn reports Q4 revenue of ~$64.6B, up 15% YoY and exceeding analyst expectations for a 13% rise, with December 2024 bringing in ~$19.8B, up 42% YoY &lpar;Jane Lanhee Lee/Bloomberg&rpar;](http://www.techmeme.com/250105/p7#a250105p7)
- - [I&#39;m Buying These Must-Have Sleep Items From Cozy Earth While They&#39;re Up to 75% Off](https://www.cnet.com/deals/must-have-sleep-items-from-cozy-earth-75-off-warehouse-sale/#ftag=CAD590a51e)
- - [Best iPad to Buy &lpar;and Some to Avoid&rpar; in 2025](https://www.wired.com/gallery/the-best-ipad/)
- - [PitchBook: AI startups developing medical note-taking apps raised $800M in 2024, compared to $390M in 2023, as Microsoft and others compete for market share &lpar;Madhumita Murgia/Financial Times&rpar;](http://www.techmeme.com/250105/p6#a250105p6)
- - [Data Privacy: Your Carrier Knows a Lot About You. Here&#39;s How to Take Back Control](https://www.cnet.com/tech/mobile/data-privacy-your-carrier-knows-a-lot-about-you-heres-how-to-take-back-control/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [EcoFlow Slashes Portable Power Stations and Solar Panels by 55% in Limited-Time New Year Sale](https://www.cnet.com/deals/ecoflow-slashes-portable-power-stations-and-solar-panels-by-55-in-limited-time-new-year-sale/#ftag=CAD590a51e)
+ - [I&#39;m Buying These Must-Have Sleep Items From Cozy Earth While They&#39;re Up to 75% Off](https://www.cnet.com/deals/must-have-sleep-items-from-cozy-earth-75-off-warehouse-sale/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

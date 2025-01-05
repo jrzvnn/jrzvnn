@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Foxconn reports Q4 revenue of ~$64.6B, up 15% YoY and exceeding analyst expectations for a 13% rise, with December 2024 bringing in ~$19.8B, up 42% YoY &lpar;Jane Lanhee Lee/Bloomberg&rpar;](http://www.techmeme.com/250105/p7#a250105p7)
+ - [I&#39;m Buying These Must-Have Sleep Items From Cozy Earth While They&#39;re Up to 75% Off](https://www.cnet.com/deals/must-have-sleep-items-from-cozy-earth-75-off-warehouse-sale/#ftag=CAD590a51e)
  - [Best iPad to Buy &lpar;and Some to Avoid&rpar; in 2025](https://www.wired.com/gallery/the-best-ipad/)
  - [PitchBook: AI startups developing medical note-taking apps raised $800M in 2024, compared to $390M in 2023, as Microsoft and others compete for market share &lpar;Madhumita Murgia/Financial Times&rpar;](http://www.techmeme.com/250105/p6#a250105p6)
- - [15 Best Wireless Earbuds, Tested and Reviewed &lpar;2025&rpar;](https://www.wired.com/gallery/best-wirefree-earbuds/)
- - [Slow Wi-Fi? Place Your Mesh Router in These Spots for a Speed Boost](https://www.cnet.com/home/internet/slow-wi-fi-place-your-mesh-router-in-these-spots-for-a-speed-boost/#ftag=CAD590a51e)
- - [How to watch Awesome Games Done Quick 2025](https://www.theverge.com/2025/1/5/24334425/how-to-watch-awesome-games-done-quick-agdq-2025)<!-- TECH:END -->
+ - [Data Privacy: Your Carrier Knows a Lot About You. Here&#39;s How to Take Back Control](https://www.cnet.com/tech/mobile/data-privacy-your-carrier-knows-a-lot-about-you-heres-how-to-take-back-control/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

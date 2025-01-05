@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [AI Hardware Is in Its ‘Put Up or Shut Up’ Era](https://www.wired.com/story/ces-2025-ai-hardware-is-in-its-put-up-or-shut-up-era/)
  - [Best Wi-Fi Routers of 2025 Tested and Reviewed by Experts](https://www.wired.com/gallery/best-wifi-routers/)
  - [The Video Game Industry Is Finally Getting Serious About Player Safety](https://www.wired.com/story/video-games-developers-online-safety/)
  - [Mortgage Predictions for Week of Jan. 5-11, 2025](https://www.cnet.com/personal-finance/mortgage-predictions-for-week-of-jan-5-11-2025/#ftag=CAD590a51e)
- - [How Huawei is flourishing despite harsh US sanctions, demonstrating the resilience of a company at the center of a worsening cold war between the US and China &lpar;Eva Dou/Washington Post&rpar;](http://www.techmeme.com/250105/p4#a250105p4)
- - [CrowdStrike, whose botched software update caused a global IT outage in July 2024, has more than recovered the $30B in market value it shed after the crisis &lpar;Stephanie Stacey/Financial Times&rpar;](http://www.techmeme.com/250105/p3#a250105p3)<!-- TECH:END -->
+ - [How Huawei is flourishing despite harsh US sanctions, demonstrating the resilience of a company at the center of a worsening cold war between the US and China &lpar;Eva Dou/Washington Post&rpar;](http://www.techmeme.com/250105/p4#a250105p4)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

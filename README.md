@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The 12 Best Sheets of 2025: How to Choose Based on Your Sleep Preferences](https://www.cnet.com/health/sleep/best-sheets/#ftag=CAD590a51e)
- - [Best Minimalist Wallet for 2025: I Tested Dozens of Different Shapes and Sizes -- Here Are the Very Best](https://www.cnet.com/tech/best-minimalist-wallet/#ftag=CAD590a51e)
- - [The Absolute Best Horror Movies on Hulu](https://www.cnet.com/tech/services-and-software/the-absolute-best-horror-movies-hulu-january-2025/#ftag=CAD590a51e)
- - [Best Tower Fan for 2025](https://www.cnet.com/home/kitchen-and-household/best-tower-fan/#ftag=CAD590a51e)
- - [Best MP3 Players for 2025](https://www.cnet.com/tech/mobile/best-mp3-player/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Best Electric Bike for 2025](https://www.cnet.com/roadshow/news/best-electric-bike/#ftag=CAD590a51e)
+ - [A look at Chinese hackers&#39; attacks on US infrastructure and telecoms; sources: Charter, Consolidated Communications, and Windstream networks were also breached &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/250105/p8#a250105p8)
+ - [Here&#39;s When You Can Stream &#39;WWE Raw&#39; Live on Netflix](https://www.cnet.com/tech/services-and-software/heres-when-you-can-stream-wwe-raw-live-on-netflix/#ftag=CAD590a51e)
+ - [Roborock Gives a First Look at the Saros Z70 Robovacuum video](https://www.cnet.com/videos/roborock-gives-a-first-look-at-the-saros-z70-robovacuum/#ftag=CAD590a51e)
+ - [EcoFlow Just Put an AI Assistant Into Power Stations to Make Your Energy Use Smarter](https://www.cnet.com/news/ecoflow-just-put-an-ai-assistant-into-power-stations-to-make-your-energy-use-smarter/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

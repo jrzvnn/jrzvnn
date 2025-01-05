@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Who at Disney looked at these redesigns and went \u201cYeah, this is an improvement\u201d?](http://9gag.com/gag/aPAgg9G)
- - 😝 [Man made horrors coming to you soon](http://9gag.com/gag/arymnAV)
- - 💣 [Crazy grip strength from the girl](http://9gag.com/gag/abAvVpE)
- - 😝 [They are welcoming the Syrians at the border who are returning back home.](http://9gag.com/gag/ae9QAbQ)
- - 👉 [CAN THERE BE ANYTHING MORE EXCITING THAN FINDING GOLD COINS UNDER THE OCEAN? One thousand years under salt water does nothing to this noble metal.](http://9gag.com/gag/aLn1wXv)<!-- MEMES:END -->
+ - 😝 [Tony Spark](http://9gag.com/gag/aYQVVQV)
+ - 😝 [Stronk lady](http://9gag.com/gag/aYQVVjx)
+ - 💣 [Weebs](http://9gag.com/gag/azx2eem)
+ - 😝 [The strength of Jeff Dabe](http://9gag.com/gag/aByd2pA)
+ - 👉 [Everything lasts longer when you take care of it](http://9gag.com/gag/abAvVNp)<!-- MEMES:END -->
 
 ---
 

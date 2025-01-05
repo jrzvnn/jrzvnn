@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Eden Choi performing at The Magic Star](http://9gag.com/gag/amoAvZ6)
- - 😝 [A big town is called a city. A big city is called a metropolis. And then there&#39;s Tokyo...](http://9gag.com/gag/aD2Y4gd)
- - 💣 [Australia could be saved !](http://9gag.com/gag/aE0qpox)
- - 😝 [Why It&#39;s A Good Idea To Have A Dash Cam-People trying to scam ~S~](http://9gag.com/gag/a7oqqOw)
- - 👉 [Not just starving. I just don&#39;t do anything. Don&#39;t spend and don&#39;t talk as well.](http://9gag.com/gag/arymo2V)<!-- MEMES:END -->
+ - 😝 [School teacher nowadays](http://9gag.com/gag/a9yqqGj)
+ - 😝 [OSHA: Heavy breathing](http://9gag.com/gag/a4PoE21)
+ - 💣 [Guy spins apple using air compressor until it explodes](http://9gag.com/gag/ae9QQD5)
+ - 😝 [No context needed](http://9gag.com/gag/apR99jM)
+ - 👉 [Crazy grip strength from the girl](http://9gag.com/gag/abAvVpE)<!-- MEMES:END -->
 
 ---
 

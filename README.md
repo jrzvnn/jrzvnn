@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Tony Spark](http://9gag.com/gag/aYQVVQV)
- - 😝 [Stronk lady](http://9gag.com/gag/aYQVVjx)
- - 💣 [Weebs](http://9gag.com/gag/azx2eem)
- - 😝 [The strength of Jeff Dabe](http://9gag.com/gag/aByd2pA)
- - 👉 [Everything lasts longer when you take care of it](http://9gag.com/gag/abAvVNp)<!-- MEMES:END -->
+ - 😝 [How to piss off an entire community in less than 30 seconds](http://9gag.com/gag/axyo9D1)
+ - 😝 [Pineapple Juice vs Human Parasites](http://9gag.com/gag/aGyEEy7)
+ - 💣 [Who at Disney looked at these redesigns and went \u201cYeah, this is an improvement\u201d?](http://9gag.com/gag/aPAgg9G)
+ - 😝 [Australia could be saved !](http://9gag.com/gag/aE0qpox)
+ - 👉 [Sherbet recipe](http://9gag.com/gag/aXPnj8g)<!-- MEMES:END -->
 
 ---
 

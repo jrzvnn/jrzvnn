@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Samsung claims its Ballie AI robot will actually be released this year](https://www.theverge.com/2025/1/6/24337478/samsung-ballie-robot-release-date-features-2025)
+ - [Similarweb: DAUs of the Bluesky&#39;s mobile app in the US grew 12% in December vs. 284% in November; Bluesky has 26.44M total users, after hitting 20M in November &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/250106/p26#a250106p26)
  - [Satechi’s M4 Mac Mini hub will launch in February for $99.99](https://www.theverge.com/2025/1/6/24337441/satechi-mac-mini-m4-stand-hub-apple-usb-c-ssd-storage)
  - [Dell is rebranding its PC lines as Dell, Dell Pro, and Dell Pro Max, each with Base, Plus, and Premium tiers, killing names like XPS, Inspiron, and Latitude &lpar;Antonio G. Di Benedetto/The Verge&rpar;](http://www.techmeme.com/250106/p25#a250106p25)
- - [This robot vacuum has legs](https://www.theverge.com/2025/1/6/24337114/dreame-x50-ultra-robot-vacuum-climb-steps-legs-price-ces)
- - [AMD unveils the Ryzen 9 9950X3D and 9900X3D, with clock speeds up to 5.7GHz, 144MB of cache, and up to 64% faster performance than the Intel Core Ultra 9 285K &lpar;Hassan Mujtaba/Wccftech&rpar;](http://www.techmeme.com/250106/p24#a250106p24)
- - [AMD’s Z2 handheld gaming chips are official — and not coming to a Steam Deck near you](https://www.theverge.com/2025/1/6/24337300/amd-ryzen-z2-z2-extreme-z2-go)<!-- TECH:END -->
+ - [This robot vacuum has legs](https://www.theverge.com/2025/1/6/24337114/dreame-x50-ultra-robot-vacuum-climb-steps-legs-price-ces)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

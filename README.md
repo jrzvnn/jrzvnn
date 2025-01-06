@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Guy spins apple using air compressor until it explodes](http://9gag.com/gag/ae9QQD5)
- - 😝 [Always care for each other](http://9gag.com/gag/aO8x8Zy)
- - 💣 [Who at Disney looked at these redesigns and went \u201cYeah, this is an improvement\u201d?](http://9gag.com/gag/aPAgg9G)
  - 😝 [The best way to sell a product is by testing it. \ud83e\udd2f](http://9gag.com/gag/a5QX1dV)
- - 👉 [Fears to Fathom have the scariest set pieces in spite of the lofi graphics](http://9gag.com/gag/arymmWX)<!-- MEMES:END -->
+ - 😝 [Tommy Robinson sentenced to 18 months SOLITARY for exposing immigrant child grooming gangs. The actual criminals walk free, while the ones exposing them are jailed. WTF UK?!?!](http://9gag.com/gag/arymWYB)
+ - 💣 [Goalkeeper randomly gifts little boy with his gloves](http://9gag.com/gag/a0e440B)
+ - 😝 [Kurt Cobain really had a heart of gold.](http://9gag.com/gag/a1mPP9R)
+ - 👉 [The quality of Japanese street food is just incredible.](http://9gag.com/gag/aE0q86n)<!-- MEMES:END -->
 
 ---
 

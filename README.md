@@ -167,10 +167,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [What attacked him? A bat, a spider or 4skin?](http://9gag.com/gag/avyQWx5)
- - 😝 [Let\u2019s go eat squid, it\u2019ll be fun - they said](http://9gag.com/gag/aGyEynz)
- - 💣 [Kurt Cobain really had a heart of gold.](http://9gag.com/gag/a1mPP9R)
  - 😝 [Fears to Fathom have the scariest set pieces in spite of the lofi graphics](http://9gag.com/gag/arymmWX)
- - 👉 [Always care for each other](http://9gag.com/gag/aO8x8Zy)<!-- MEMES:END -->
+ - 💣 [Goalkeeper randomly gifts little boy with his gloves](http://9gag.com/gag/a0e440B)
+ - 😝 [Kurt Cobain really had a heart of gold.](http://9gag.com/gag/a1mPP9R)
+ - 👉 [Damn that father ain&#39;t recovering after that jeez](http://9gag.com/gag/aO8xeGD)<!-- MEMES:END -->
 
 ---
 

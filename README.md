@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [The fun is in not knowing](http://9gag.com/gag/aBydn1x)
- - 😝 [I&#39;m 40, I don&#39;t have time for this BS](http://9gag.com/gag/aqyeyWR)
- - 💣 [A harbinger of evil](http://9gag.com/gag/a1mPm7v)
- - 😝 [Always care for each other](http://9gag.com/gag/aO8x8Zy)
- - 👉 [Who at Disney looked at these redesigns and went \u201cYeah, this is an improvement\u201d?](http://9gag.com/gag/aPAgg9G)<!-- MEMES:END -->
+ - 😝 [Cops Turn Missing Woman\u2019s Home Into Netflix and Chill Zone](http://9gag.com/gag/ae9QgP5)
+ - 😝 [A harbinger of evil](http://9gag.com/gag/a1mPm7v)
+ - 💣 [Why It&#39;s A Good Idea To Have A Dash Cam-People trying to scam ~S~](http://9gag.com/gag/a7oqqOw)
+ - 😝 [Kurt Cobain really had a heart of gold.](http://9gag.com/gag/a1mPP9R)
+ - 👉 [The best way to sell a product is by testing it. \ud83e\udd2f](http://9gag.com/gag/a5QX1dV)<!-- MEMES:END -->
 
 ---
 

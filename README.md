@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: India plans $2.7B in fresh subsidies and import tariff cuts to boost local manufacturing, especially of smartphones made by companies like Apple &lpar;Bloomberg&rpar;](http://www.techmeme.com/250106/p5#a250106p5)
- - [The 10 Coolest Things We&#39;ve Seen So Far at CES 2025](https://www.wired.com/gallery/ces-2025-photo-gallery-day-1/)
- - [HTML Is Actually a Programming Language. Fight Me](https://www.wired.com/story/html-is-actually-a-programming-language-fight-me/)
- - [LG and Samsung are adding Microsoft’s Copilot AI assistant to their TVs](https://www.theverge.com/2025/1/6/24337033/lg-samsung-microsoft-copilot-smart-tvs-ces-2025)
- - [These High Savings APYs Can Help You Reach Your Money Goals Faster. Today&#39;s Savings Rates, Jan. 6, 2025](https://www.cnet.com/personal-finance/banking/these-high-savings-apys-can-help-you-reach-your-money-goals-faster-todays-savings-rates-jan-6-2025/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [7 Best Space Heaters &lpar;2025&rpar;, Tested and Reviewed](https://www.wired.com/gallery/the-best-space-heaters/)
+ - [Uber and Lyft are embracing autonomous vehicle operators like Waymo, May Mobility, and others, after abandoning their own self-driving car programs &lpar;Preetika Rana/Wall Street Journal&rpar;](http://www.techmeme.com/250106/p6#a250106p6)
+ - [SwitchBot&#39;s new K20+ Pro robot vacuum makes keeping your house clean even easier](https://appleinsider.com/articles/25/01/06/smarter-living-made-simple-with-switchbots-new-k20-pro-robot-vacuum?utm_medium=rss)
+ - [iPhone 17 rumored to return to curved sides with new material blending](https://appleinsider.com/articles/25/01/06/iphone-17-rumored-to-return-to-curved-sides-with-new-material-blending?utm_medium=rss)
+ - [OWC ThunderBlade X12 offers speedy storage for film production](https://appleinsider.com/articles/25/01/06/owc-thunderblade-x12-offers-speedy-storage-for-film-production?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [The best way to sell a product is by testing it. \ud83e\udd2f](http://9gag.com/gag/a5QX1dV)
- - 😝 [Tommy Robinson sentenced to 18 months SOLITARY for exposing immigrant child grooming gangs. The actual criminals walk free, while the ones exposing them are jailed. WTF UK?!?!](http://9gag.com/gag/arymWYB)
- - 💣 [Goalkeeper randomly gifts little boy with his gloves](http://9gag.com/gag/a0e440B)
- - 😝 [Kurt Cobain really had a heart of gold.](http://9gag.com/gag/a1mPP9R)
- - 👉 [The quality of Japanese street food is just incredible.](http://9gag.com/gag/aE0q86n)<!-- MEMES:END -->
+ - 😝 [Why It&#39;s A Good Idea To Have A Dash Cam-People trying to scam ~S~](http://9gag.com/gag/a7oqqOw)
+ - 😝 [Goalkeeper randomly gifts little boy with his gloves](http://9gag.com/gag/a0e440B)
+ - 💣 [Kurt Cobain really had a heart of gold.](http://9gag.com/gag/a1mPP9R)
+ - 😝 [HIS SCHROCK IS OUT](http://9gag.com/gag/a7oqqyq)
+ - 👉 [White sissy](http://9gag.com/gag/a5QXVnN)<!-- MEMES:END -->
 
 ---
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Samsung announces new Galaxy Book5 Pro and Book5 360 laptops with Intel Arrow Lake Core Ultra processors, available in the US, Canada, UK, and more in February &lpar;Umar Shakir/The Verge&rpar;](http://www.techmeme.com/250106/p31#a250106p31)
+ - [Samsung’s next Unpacked event sets a date to reveal the Galaxy S25](https://www.theverge.com/2025/1/6/24336647/samsung-galaxy-unpacked-announced-galaxy-s25-android-ai)
+ - [Dana White is joining Meta’s board of directors](https://www.theverge.com/2025/1/6/24337670/meta-board-of-directors-dana-white-ufc)
  - [HDMI Forum unveils the HDMI 2.2 spec, with better audio sync and up to 96Gbps bandwidth for resolutions like 12K at 120Hz, some of which need an &quot;Ultra96&quot; cable &lpar;Darragh Murphy/Tom&#39;s Guide&rpar;](http://www.techmeme.com/250106/p30#a250106p30)
- - [NBC’s Grimm series is being reborn as a Peacock movie](https://www.theverge.com/2025/1/6/24337649/peacock-grimm-reboot-movie)
- - [A new tax credit for hydrogen helps out nuclear energy](https://www.theverge.com/2025/1/6/24337140/hydrogen-tax-credit-nuclear-power)
- - [The Connectivity Standards Alliance announces that Apple, Google, and Samsung will accept its Matter certification for their own &quot;Works With&quot; programs &lpar;Jennifer Pattison Tuohy/The Verge&rpar;](http://www.techmeme.com/250106/p29#a250106p29)
- - [Apple&#39;s fix for bad AI notification summaries won&#39;t actually improve results](https://appleinsider.com/articles/25/01/06/apples-fix-for-bad-ai-notification-summaries-wont-actually-improve-results?utm_medium=rss)<!-- TECH:END -->
+ - [I Suction-Cupped Displace TV&#39;s Wireless OLED to a Wall. I&#39;ll Never Be the Same](https://www.cnet.com/tech/home-entertainment/i-suction-cupped-displace-tvs-wireless-oled-to-a-wall-ill-never-be-the-same/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Fears to Fathom have the scariest set pieces in spite of the lofi graphics](http://9gag.com/gag/arymmWX)
  - 😝 [Didn\u2018t do nothing](http://9gag.com/gag/aO8x286)
- - 💣 [Kurt Cobain really had a heart of gold.](http://9gag.com/gag/a1mPP9R)
- - 😝 [Burger King employee caught sharing customer\u2019s credit card information with her friend via Facetime.](http://9gag.com/gag/ae9QQyO)
- - 👉 [The line to this Tesla charging station in Sweden](http://9gag.com/gag/a87qAw6)<!-- MEMES:END -->
+ - 😝 [The line to this Tesla charging station in Sweden](http://9gag.com/gag/a87qAw6)
+ - 💣 [Goalkeeper randomly gifts little boy with his gloves](http://9gag.com/gag/a0e440B)
+ - 😝 [When your salary is not enough to pay rent](http://9gag.com/gag/aE0qMNp)
+ - 👉 [Sometime in the 90s](http://9gag.com/gag/avyQygX)<!-- MEMES:END -->
 
 ---
 

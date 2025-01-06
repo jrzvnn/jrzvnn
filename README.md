@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [An airplane pilot welcomes the New Year 2025 over Warsaw](http://9gag.com/gag/apR91vD)
- - 😝 [Lest we forget.](http://9gag.com/gag/aKGEA26)
- - 💣 [When your salary is not enough to pay rent](http://9gag.com/gag/aE0qMNp)
- - 😝 [Found the video you saved for later](http://9gag.com/gag/aYQVQDw)
- - 👉 [I don&#39;t know why this make me furious. I don&#39;t even f****ng lives in UK](http://9gag.com/gag/arym33V)<!-- MEMES:END -->
+ - 😝 [Female Invincibility card: REJECTED!](http://9gag.com/gag/a34Z5pe)
+ - 😝 [No context needed](http://9gag.com/gag/apR99jM)
+ - 💣 [Kurt Cobain really had a heart of gold.](http://9gag.com/gag/a1mPP9R)
+ - 😝 [Andrew Tate looks like he found the ring and is on his way to becoming Gollum](http://9gag.com/gag/a9yqq0j)
+ - 👉 [When she tells you no means yes](http://9gag.com/gag/aPAgmDg)<!-- MEMES:END -->
 
 ---
 

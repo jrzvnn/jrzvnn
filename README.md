@@ -157,10 +157,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Gemini agrees to pay $5M to end a CFTC claim that it misled the derivatives regulator in a bid to launch the first US-regulated Bitcoin futures contract &lpar;Bob Van Voris/Bloomberg&rpar;](http://www.techmeme.com/250106/p22#a250106p22)
  - [Hisense’s TriChroma TV could be the middle ground between Mini LED and MicroLED](https://www.theverge.com/2025/1/6/24337147/hisense-microled-trichroma-tv-features-specs)
  - [Google will use more mics and Gemini AI to get you to talk to your TV](https://www.theverge.com/2025/1/6/24337314/google-tv-gemini-integration-ai-ces-2025)
  - [LG TVs are getting Xbox Cloud Gaming](https://www.theverge.com/2025/1/6/24337366/xbox-cloud-gaming-lg-tvs-ces-2025)
- - [Best Cooling Mattress for Hot Sleepers in 2025](https://www.cnet.com/health/sleep/best-cooling-mattress/#ftag=CAD590a51e)
  - [Lockly&#39;s new HomeKit door locks &amp; cameras offer security &amp; AI upgrades](https://appleinsider.com/articles/25/01/06/locklys-new-homekit-door-locks-cameras-offer-security-ai-upgrades?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour

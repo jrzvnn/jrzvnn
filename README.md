@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [LG and Samsung are adding Microsoft’s Copilot AI assistant to their TVs](https://www.theverge.com/2025/1/6/24337033/lg-samsung-microsoft-copilot-smart-tvs-ces-2025)
  - [A look at the rise of Watch Duty, a wildfire alert app that is active in 14 US states and has gained up to 7.2M active users in three years since its launch &lpar;Gabrielle Canon/The Guardian&rpar;](http://www.techmeme.com/250106/p4#a250106p4)
- - [Finally, a real contender for Apple’s pricey Thunderbolt 4 cable is here](https://www.theverge.com/2025/1/6/24336701/owc-usb4-active-optical-cable-3-4-5-meter-40-gbps-thunderbolt-4)
- - [To Interact With the Real World, AI Will Gain Physical Intelligence](https://www.wired.com/story/ai-physical-intelligence-machine-learning/)
- - [This Water Bottle Cap Is Like a Personal SodaStream You Can Take on the Go. It Sparkles](https://www.cnet.com/how-to/this-water-bottle-cap-is-like-a-personal-sodastream-you-can-take-on-the-go-it-sparkles/#ftag=CAD590a51e)
- - [A profile of headhunter Peterson Conway, who worked with Palantir and other Silicon Valley defense and hard tech firms and is now the talent head at VC firm A* &lpar;Margaux MacColl/TechCrunch&rpar;](http://www.techmeme.com/250106/p3#a250106p3)<!-- TECH:END -->
+ - [Best Space Heaters in 2025](https://www.cnet.com/home/kitchen-and-household/best-space-heater/#ftag=CAD590a51e)
+ - [Best Mattress Pads of 2025](https://www.cnet.com/health/sleep/best-mattress-pads/#ftag=CAD590a51e)
+ - [Stop Scalding Your Tongue On Tea and Soup. This $25 Cat Robot &#39;Blows&#39; on Your Drink to Cool It](https://www.cnet.com/news/stop-scalding-your-tongue-on-tea-and-soup-this-25-cat-robot-blows-on-your-drink-to-cool-it/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

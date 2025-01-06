@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Directed by Michael Bay](http://9gag.com/gag/aRBEXrG)
+ - 😝 [The fun is in not knowing](http://9gag.com/gag/aBydn1x)
  - 😝 [I&#39;m 40, I don&#39;t have time for this BS](http://9gag.com/gag/aqyeyWR)
- - 💣 [Cops Turn Missing Woman\u2019s Home Into Netflix and Chill Zone](http://9gag.com/gag/ae9QgP5)
+ - 💣 [A harbinger of evil](http://9gag.com/gag/a1mPm7v)
  - 😝 [Always care for each other](http://9gag.com/gag/aO8x8Zy)
- - 👉 [Guy spins apple using air compressor until it explodes](http://9gag.com/gag/ae9QQD5)<!-- MEMES:END -->
+ - 👉 [Who at Disney looked at these redesigns and went \u201cYeah, this is an improvement\u201d?](http://9gag.com/gag/aPAgg9G)<!-- MEMES:END -->
 
 ---
 

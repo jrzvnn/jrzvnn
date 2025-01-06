@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Bird Buddy’s new camera tracks plants and insects in your garden](https://www.theverge.com/2025/1/6/24337124/bird-buddy-wonder-petal-camera-track-plants-insects-ces-2025)
+ - [The newest Kindle Scribe is $75 off in its first sale](https://www.theverge.com/2025/1/6/24337121/amazon-kindle-scribe-ebook-reader-gopro-hero-13-black-action-camera-deal-sale)
+ - [Qualcomm unveils the Snapdragon X Platform, a chip to bring AI features to PCs starting at $600, with laptops from Dell, Lenovo, and others coming &quot;early 2025&quot; &lpar;Ian King/Bloomberg&rpar;](http://www.techmeme.com/250106/p19#a250106p19)
  - [Nvidia unveils Project Digits, a &quot;personal AI supercomputer&quot; with a new GB10 Grace Blackwell Superchip and says it can run models up to 200B parameters in size &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/250106/p18#a250106p18)
- - [Google previews changes coming to Google TV, including adding Gemini, more natural voice commands, and deeper YouTube integration, rolling out later in 2025 &lpar;Mark Gurman/Bloomberg&rpar;](http://www.techmeme.com/250106/p17#a250106p17)
- - [Samsung’s Galaxy Book 5 laptops get an Arrow Lake CPU upgrade](https://www.theverge.com/2025/1/6/24337167/samsung-galaxy-book-5-pro-360-laptop-intel-arrow-lake-ces)
- - [HDMI 2.2 cranks the bandwidth to 96Gbps and aims to eliminate audio sync issues forever](https://www.theverge.com/2025/1/6/24337196/hdmi-2-2-spec-announced-96gbps-audio-sync)
- - [Amazon drops M3 MacBook Air with 16GB RAM, 512GB SSD to $1,099, lowest price in 30 days](https://appleinsider.com/articles/25/01/06/amazon-drops-m3-macbook-air-with-16gb-ram-512gb-ssd-to-1099-lowest-price-in-30-days?utm_medium=rss)<!-- TECH:END -->
+ - [Google previews changes coming to Google TV, including adding Gemini, more natural voice commands, and deeper YouTube integration, rolling out later in 2025 &lpar;Mark Gurman/Bloomberg&rpar;](http://www.techmeme.com/250106/p17#a250106p17)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

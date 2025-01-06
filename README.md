@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Trudeau resigned](http://9gag.com/gag/a4Poz66)
+ - 😝 [Fears to Fathom have the scariest set pieces in spite of the lofi graphics](http://9gag.com/gag/arymmWX)
  - 😝 [She needs to be punished appropriately](http://9gag.com/gag/a5QX6LE)
- - 💣 [The line to this Tesla charging station in Sweden](http://9gag.com/gag/a87qAw6)
- - 😝 [Asking the real question](http://9gag.com/gag/aByd6gQ)
- - 👉 [Andrew Tate looks like he found the ring and is on his way to becoming Gollum](http://9gag.com/gag/a9yqq0j)<!-- MEMES:END -->
+ - 💣 [Trudeau resigned](http://9gag.com/gag/a4Poz66)
+ - 😝 [Sometime in the 90s](http://9gag.com/gag/avyQygX)
+ - 👉 [A mom discovers body parts in her son\u2019s room, and his haunting explanation is straight out of a nightmare](http://9gag.com/gag/aMVEBBG)<!-- MEMES:END -->
 
 ---
 

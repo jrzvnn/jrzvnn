@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Dell is rebranding its PC lines as Dell, Dell Pro, and Dell Pro Max, each with Base, Plus, and Premium tiers, killing names like XPS, Inspiron, and Latitude &lpar;Antonio G. Di Benedetto/The Verge&rpar;](http://www.techmeme.com/250106/p25#a250106p25)
+ - [This robot vacuum has legs](https://www.theverge.com/2025/1/6/24337114/dreame-x50-ultra-robot-vacuum-climb-steps-legs-price-ces)
+ - [AMD unveils the Ryzen 9 9950X3D and 9900X3D, with clock speeds up to 5.7GHz, 144MB of cache, and up to 64% faster performance than the Intel Core Ultra 9 285K &lpar;Hassan Mujtaba/Wccftech&rpar;](http://www.techmeme.com/250106/p24#a250106p24)
  - [AMD’s Z2 handheld gaming chips are official — and not coming to a Steam Deck near you](https://www.theverge.com/2025/1/6/24337300/amd-ryzen-z2-z2-extreme-z2-go)
- - [AMD announces ‘Fire Range’ and Ryzen AI Max, its most potent laptop chips yet](https://www.theverge.com/2025/1/6/24337025/amd-ryzen-ai-max-strix-halo-fire-range-9955hx3d)
- - [Everyone’s favorite office monitor is getting even better](https://www.theverge.com/2025/1/6/24336649/dell-ultrasharp-4k-office-monitors-120hz-price-availability)
- - [Acer’s latest all-in-one and mini PCs are getting Copilot Plus AI features](https://www.theverge.com/2025/1/6/24336404/acer-aspire-s-ai-mini-pc-copilot-plus-specs-price-ces)
- - [AMD announces next-gen Radeon RX 9070-series GPUs with AI-powered FSR 4 upscaling](https://www.theverge.com/2025/1/6/24336246/amd-radeon-rx-9070-series-rdna-4-fsr-4-ces-2025)<!-- TECH:END -->
+ - [AMD announces ‘Fire Range’ and Ryzen AI Max, its most potent laptop chips yet](https://www.theverge.com/2025/1/6/24337025/amd-ryzen-ai-max-strix-halo-fire-range-9955hx3d)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

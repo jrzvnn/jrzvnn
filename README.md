@@ -161,7 +161,7 @@ R                        1 repo              ░░░░░░░░░░░�
  - [US designates Tencent and CATL as Chinese military companies](https://www.theverge.com/2025/1/6/24337489/tencent-catl-us-defense-department-chinese-military-companies)
  - [Samsung claims its Ballie AI robot will actually be released this year](https://www.theverge.com/2025/1/6/24337478/samsung-ballie-robot-release-date-features-2025)
  - [Similarweb: DAUs of the Bluesky&#39;s mobile app in the US grew 12% in December vs. 284% in November; Bluesky has 26.44M total users, after hitting 20M in November &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/250106/p26#a250106p26)
- - [Satechi’s M4 Mac Mini hub will launch in February for $99.99](https://www.theverge.com/2025/1/6/24337441/satechi-mac-mini-m4-stand-hub-apple-usb-c-ssd-storage)<!-- TECH:END -->
+ - [Grab an Already-Affordable 2024 Motorola Edge for a Record-Low $300](https://www.cnet.com/deals/2024-motorola-edge-300-record-low-price/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

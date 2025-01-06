@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Finally, a real contender for Apple’s pricey Thunderbolt 4 cable is here](https://www.theverge.com/2025/1/6/24336701/owc-usb4-active-optical-cable-3-4-5-meter-40-gbps-thunderbolt-4)
+ - [To Interact With the Real World, AI Will Gain Physical Intelligence](https://www.wired.com/story/ai-physical-intelligence-machine-learning/)
  - [This Water Bottle Cap Is Like a Personal SodaStream You Can Take on the Go. It Sparkles](https://www.cnet.com/how-to/this-water-bottle-cap-is-like-a-personal-sodastream-you-can-take-on-the-go-it-sparkles/#ftag=CAD590a51e)
  - [A profile of headhunter Peterson Conway, who worked with Palantir and other Silicon Valley defense and hard tech firms and is now the talent head at VC firm A* &lpar;Margaux MacColl/TechCrunch&rpar;](http://www.techmeme.com/250106/p3#a250106p3)
- - [L’Oréal claims its new skincare gadget can tell which ingredients work best for you](https://www.theverge.com/2025/1/6/24334941/loreal-cell-bioprint-ces-2025-skincare-beauty-tech)
- - [Sam Altman says OpenAI is currently losing money on its ChatGPT Pro plan, which costs $200 per month, because &quot;people use it much more than we expected&quot; &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/250106/p2#a250106p2)
- - [Singapore-based Digital Edge, which operates 21 data centers in Japan, Korea, India, and others, raised over $1.6B, including ~$640M in equity and $1B in debt &lpar;Yantoultra Ngui/Reuters&rpar;](http://www.techmeme.com/250106/p1#a250106p1)<!-- TECH:END -->
+ - [L’Oréal claims its new skincare gadget can tell which ingredients work best for you](https://www.theverge.com/2025/1/6/24334941/loreal-cell-bioprint-ces-2025-skincare-beauty-tech)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

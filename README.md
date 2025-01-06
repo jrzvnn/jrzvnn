@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [TiVo plans to launch TiVo OS in the US with a new Sharp TV, arriving as soon as February 2025, rivaling Roku, Google TV, and Amazon&#39;s Fire TV &lpar;Emma Roth/The Verge&rpar;](http://www.techmeme.com/250106/p10#a250106p10)
+ - [Apple again dominates CES without even showing up](https://appleinsider.com/articles/25/01/06/apple-again-dominates-ces-without-even-showing-up?utm_medium=rss)
  - [Comcast plans to launch Universal Ads, to simplify ad buying and win over SMB advertisers from Big Tech, in Q1 2025, and signs deals with NBCU and others &lpar;Lillian Rizzo/CNBC&rpar;](http://www.techmeme.com/250106/p9#a250106p9)
  - [This outdoor security cam adds a second camera that moves and zooms](https://www.theverge.com/2025/1/6/24336942/tapo-hybridcam-duo-security-camera-wide-plus-zoom)
- - [Tapo’s palm-scanning door lock promises a full year of battery life](https://www.theverge.com/2025/1/6/24336895/tapo-palmkey-door-lock-announced-one-year-battery)
- - [A look at Victrola&#39;s expanded audio offerings for 2025](https://appleinsider.com/articles/25/01/06/a-look-at-victrolas-expanded-audio-offerings-for-2025?utm_medium=rss)
- - [Athom&#39;s new Homey Pro mini is a home automation hub at a great price](https://appleinsider.com/articles/25/01/06/athoms-new-homey-pro-mini-is-a-home-automation-hub-at-a-great-price?utm_medium=rss)<!-- TECH:END -->
+ - [Tapo’s palm-scanning door lock promises a full year of battery life](https://www.theverge.com/2025/1/6/24336895/tapo-palmkey-door-lock-announced-one-year-battery)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

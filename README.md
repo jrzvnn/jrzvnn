@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [What&#39;s the difference between a porcupine and a Porsche?](http://9gag.com/gag/aGyEzyn)
- - 😝 [Kurt Cobain really had a heart of gold.](http://9gag.com/gag/a1mPP9R)
- - 💣 [The line to this Tesla charging station in Sweden](http://9gag.com/gag/a87qAw6)
- - 😝 [Mount Everest covered in waste, including 12,000 kilos of human excrement](http://9gag.com/gag/aVvbgMK)
- - 👉 [Burger King employee caught sharing customer\u2019s credit card information with her friend via Facetime.](http://9gag.com/gag/ae9QQyO)<!-- MEMES:END -->
+ - 😝 [No context needed](http://9gag.com/gag/apR99jM)
+ - 😝 [HIS SCHROCK IS OUT](http://9gag.com/gag/a7oqqyq)
+ - 💣 [Kurt Cobain really had a heart of gold.](http://9gag.com/gag/a1mPP9R)
+ - 😝 [Andrew Tate looks like he found the ring and is on his way to becoming Gollum](http://9gag.com/gag/a9yqq0j)
+ - 👉 [Who at Disney looked at these redesigns and went \u201cYeah, this is an improvement\u201d?](http://9gag.com/gag/aPAgg9G)<!-- MEMES:END -->
 
 ---
 

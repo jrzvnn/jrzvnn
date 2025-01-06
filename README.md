@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Asking the real question](http://9gag.com/gag/aByd6gQ)
- - 😝 [Andrew Tate looks like he found the ring and is on his way to becoming Gollum](http://9gag.com/gag/a9yqq0j)
- - 💣 [Damn that father ain&#39;t recovering after that jeez](http://9gag.com/gag/aO8xeGD)
  - 😝 [Trudeau resigned](http://9gag.com/gag/a4Poz66)
- - 👉 [She needs to be punished appropriately](http://9gag.com/gag/a5QX6LE)<!-- MEMES:END -->
+ - 😝 [She needs to be punished appropriately](http://9gag.com/gag/a5QX6LE)
+ - 💣 [The line to this Tesla charging station in Sweden](http://9gag.com/gag/a87qAw6)
+ - 😝 [Asking the real question](http://9gag.com/gag/aByd6gQ)
+ - 👉 [Andrew Tate looks like he found the ring and is on his way to becoming Gollum](http://9gag.com/gag/a9yqq0j)<!-- MEMES:END -->
 
 ---
 

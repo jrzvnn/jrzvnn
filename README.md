@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [A harbinger of evil](http://9gag.com/gag/a1mPm7v)
- - 😝 [He asked for a sewing machine for Christmas, and the first thing he made was for his sister.](http://9gag.com/gag/a0e4e2n)
- - 💣 [When your salary is not enough to pay rent](http://9gag.com/gag/aE0qMNp)
- - 😝 [Too much here...](http://9gag.com/gag/aO8x8BN)
- - 👉 [Always relevant](http://9gag.com/gag/aPAgxoG)<!-- MEMES:END -->
+ - 😝 [Fears to Fathom have the scariest set pieces in spite of the lofi graphics](http://9gag.com/gag/arymmWX)
+ - 😝 [Didn\u2018t do nothing](http://9gag.com/gag/aO8x286)
+ - 💣 [Kurt Cobain really had a heart of gold.](http://9gag.com/gag/a1mPP9R)
+ - 😝 [Burger King employee caught sharing customer\u2019s credit card information with her friend via Facetime.](http://9gag.com/gag/ae9QQyO)
+ - 👉 [The line to this Tesla charging station in Sweden](http://9gag.com/gag/a87qAw6)<!-- MEMES:END -->
 
 ---
 

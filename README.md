@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Intel launches Arrow Lake Core Ultra 200U, 200H, and 200HX laptop CPUs; none of the CPUs meet the AI performance requirements for Microsoft&#39;s Copilot+ &lpar;Andrew Cunningham/Ars Technica&rpar;](http://www.techmeme.com/250106/p13#a250106p13)
+ - [Ring announces a new partnership with fire safety brand Kidde to launch smart smoke and carbon monoxide alarms, launching for $54.97 and $74.97 in April 2025 &lpar;Jennifer Pattison Tuohy/The Verge&rpar;](http://www.techmeme.com/250106/p12#a250106p12)
+ - [These High Savings APYs Can Help You Reach Your Money Goals Faster. Today&#39;s Savings Rates, Jan. 6, 2025](https://www.cnet.com/personal-finance/banking/these-high-savings-apys-can-help-you-reach-your-money-goals-faster-todays-savings-rates-jan-6-2025/#ftag=CAD590a51e)
  - [Isaac by PreEvnt uses an iPhone app to track blood glucose with breath analysis](https://appleinsider.com/articles/25/01/06/isaac-by-preevnt-uses-an-iphone-app-to-track-blood-clucose-with-breath-analysis?utm_medium=rss)
- - [OpenAI’s Sam Altman says ‘we know how to build AGI’](https://www.theverge.com/2025/1/6/24337106/sam-altman-says-openai-knows-how-to-build-agi-blog-post)
- - [Microsoft is using Bing to trick people into thinking they’re on Google](https://www.theverge.com/2025/1/6/24337117/microsoft-bing-search-results-google-design-trick)
- - [Disney and Fubo announce a deal as part of which Disney will combine Hulu + Live TV with Fubo in a joint venture and Fubo will drop Venu Sports lawsuit &lpar;Todd Spangler/Variety&rpar;](http://www.techmeme.com/250106/p11#a250106p11)
- - [Scosche&#39;s new iPhone chargers provide power &amp; practicality with style](https://appleinsider.com/articles/25/01/06/scosches-new-iphone-chargers-provide-power-practicality-with-style?utm_medium=rss)<!-- TECH:END -->
+ - [OpenAI’s Sam Altman says ‘we know how to build AGI’](https://www.theverge.com/2025/1/6/24337106/sam-altman-says-openai-knows-how-to-build-agi-blog-post)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

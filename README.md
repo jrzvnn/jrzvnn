@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [A profile of headhunter Peterson Conway, who worked with Palantir and other Silicon Valley defense and hard tech firms and is now the talent head at VC firm A* &lpar;Margaux MacColl/TechCrunch&rpar;](http://www.techmeme.com/250106/p3#a250106p3)
+ - [L’Oréal claims its new skincare gadget can tell which ingredients work best for you](https://www.theverge.com/2025/1/6/24334941/loreal-cell-bioprint-ces-2025-skincare-beauty-tech)
  - [Sam Altman says OpenAI is currently losing money on its ChatGPT Pro plan, which costs $200 per month, because &quot;people use it much more than we expected&quot; &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/250106/p2#a250106p2)
  - [Singapore-based Digital Edge, which operates 21 data centers in Japan, Korea, India, and others, raised over $1.6B, including ~$640M in equity and $1B in debt &lpar;Yantoultra Ngui/Reuters&rpar;](http://www.techmeme.com/250106/p1#a250106p1)
- - [Samsung unveils a suite of AI experiences for its TVs, including Click to Search, Live Translate, and a way to recognize food on the screen and provide recipes &lpar;Dean Takahashi/VentureBeat&rpar;](http://www.techmeme.com/250105/p13#a250105p13)
- - [Today&#39;s NYT Mini Crossword Answers for Monday, Jan. 6](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-monday-jan-6/#ftag=CAD590a51e)
- - [Today&#39;s NYT Strands Hints, Answers and Help for Jan. 6, #309](https://www.cnet.com/tech/gaming/todays-nyt-strands-hints-answers-and-help-for-jan-6-309/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Samsung unveils a suite of AI experiences for its TVs, including Click to Search, Live Translate, and a way to recognize food on the screen and provide recipes &lpar;Dean Takahashi/VentureBeat&rpar;](http://www.techmeme.com/250105/p13#a250105p13)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

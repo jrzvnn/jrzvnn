@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Lest we forget.](http://9gag.com/gag/aKGEA26)
- - 😝 [When your salary is not enough to pay rent](http://9gag.com/gag/aE0qMNp)
- - 💣 [Why I was late to work...](http://9gag.com/gag/a1mPmyD)
- - 😝 [Tommy Robinson sentenced to 18 months SOLITARY for exposing immigrant child grooming gangs. The actual criminals walk free, while the ones exposing them are jailed. WTF UK?!?!](http://9gag.com/gag/arymWYB)
- - 👉 [Even their way of slaughtering animals gotta be inhumane and barbaric](http://9gag.com/gag/aD2Y6YZ)<!-- MEMES:END -->
+ - 😝 [What attacked him? A bat, a spider or 4skin?](http://9gag.com/gag/avyQWx5)
+ - 😝 [Who did this appeal to?](http://9gag.com/gag/aoyK3Kw)
+ - 💣 [Andrew Tate looks like he found the ring and is on his way to becoming Gollum](http://9gag.com/gag/a9yqq0j)
+ - 😝 [Must be 9gagger](http://9gag.com/gag/aMVEVdP)
+ - 👉 [Kurt Cobain really had a heart of gold.](http://9gag.com/gag/a1mPP9R)<!-- MEMES:END -->
 
 ---
 

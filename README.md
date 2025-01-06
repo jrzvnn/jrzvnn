@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [A harbinger of evil](http://9gag.com/gag/a1mPm7v)
- - 😝 [Andrew Tate looks like he found the ring and is on his way to becoming Gollum](http://9gag.com/gag/a9yqq0j)
- - 💣 [Kurt Cobain really had a heart of gold.](http://9gag.com/gag/a1mPP9R)
- - 😝 [Mount Everest covered in waste, including 12,000 kilos of human excrement](http://9gag.com/gag/aVvbgMK)
- - 👉 [Fears to Fathom have the scariest set pieces in spite of the lofi graphics](http://9gag.com/gag/arymmWX)<!-- MEMES:END -->
+ - 😝 [The quality of Japanese street food is just incredible.](http://9gag.com/gag/aE0q86n)
+ - 😝 [Kurt Cobain really had a heart of gold.](http://9gag.com/gag/a1mPP9R)
+ - 💣 [Another addition to my storage](http://9gag.com/gag/aVvbbgn)
+ - 😝 [Must be 9gagger](http://9gag.com/gag/aMVEVdP)
+ - 👉 [Who at Disney looked at these redesigns and went \u201cYeah, this is an improvement\u201d?](http://9gag.com/gag/aPAgg9G)<!-- MEMES:END -->
 
 ---
 

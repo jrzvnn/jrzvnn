@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Apple&#39;s fix for bad AI notification summaries won&#39;t actually improve results](https://appleinsider.com/articles/25/01/06/apples-fix-for-bad-ai-notification-summaries-wont-actually-improve-results?utm_medium=rss)
  - [Meta elected three new directors to its board, including UFC CEO and outspoken Donald Trump supporter Dana White &lpar;Kurt Wagner/Bloomberg&rpar;](http://www.techmeme.com/250106/p28#a250106p28)
  - [Toyota’s futuristic Woven City in Japan is ready for its first residents](https://www.theverge.com/2025/1/6/24337152/toyota-woven-city-japan-residents-phase-one)
  - [Fubo is expected to become immediately cash flow positive after its deal with Disney closes in 12 to 18 months; Fubo stock jumped 253.85% on Monday &lpar;Lillian Rizzo/CNBC&rpar;](http://www.techmeme.com/250106/p27#a250106p27)
- - [The best phone to buy right now](https://www.theverge.com/22163811/best-phone)
- - [LG UltraFine 6K Monitor first to connect with Thunderbolt 5](https://appleinsider.com/articles/25/01/06/lg-ultrafine-6k-monitor-first-to-connect-with-thunderbolt-5?utm_medium=rss)<!-- TECH:END -->
+ - [The best phone to buy right now](https://www.theverge.com/22163811/best-phone)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

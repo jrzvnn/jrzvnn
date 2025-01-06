@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [HDMI Forum unveils the HDMI 2.2 spec, with better audio sync and up to 96Gbps bandwidth for resolutions like 12K at 120Hz, some of which need an &quot;Ultra96&quot; cable &lpar;Darragh Murphy/Tom&#39;s Guide&rpar;](http://www.techmeme.com/250106/p30#a250106p30)
  - [NBC’s Grimm series is being reborn as a Peacock movie](https://www.theverge.com/2025/1/6/24337649/peacock-grimm-reboot-movie)
  - [A new tax credit for hydrogen helps out nuclear energy](https://www.theverge.com/2025/1/6/24337140/hydrogen-tax-credit-nuclear-power)
  - [The Connectivity Standards Alliance announces that Apple, Google, and Samsung will accept its Matter certification for their own &quot;Works With&quot; programs &lpar;Jennifer Pattison Tuohy/The Verge&rpar;](http://www.techmeme.com/250106/p29#a250106p29)
- - [Apple&#39;s fix for bad AI notification summaries won&#39;t actually improve results](https://appleinsider.com/articles/25/01/06/apples-fix-for-bad-ai-notification-summaries-wont-actually-improve-results?utm_medium=rss)
- - [Meta elected three new directors to its board, including UFC CEO and outspoken Donald Trump supporter Dana White &lpar;Kurt Wagner/Bloomberg&rpar;](http://www.techmeme.com/250106/p28#a250106p28)<!-- TECH:END -->
+ - [Apple&#39;s fix for bad AI notification summaries won&#39;t actually improve results](https://appleinsider.com/articles/25/01/06/apples-fix-for-bad-ai-notification-summaries-wont-actually-improve-results?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

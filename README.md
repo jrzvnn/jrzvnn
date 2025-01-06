@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Disney strikes deal to merge Fubo with Hulu + Live TV](https://www.theverge.com/2025/1/6/24337172/hulu-fubo-disney-streaming-sports-deal)
+ - [Elvie’s automatic baby bouncer and bassinet costs $799 for six months of use](https://www.theverge.com/2025/1/6/24337180/elvie-rise-automatic-baby-bouncer-and-bassinet-price-specs)
  - [India proposes nearly $3 billion in subsidies for electronics makers like Apple](https://appleinsider.com/articles/25/01/06/india-proposes-nearly-3-billion-in-subsidies-for-electronics-makers-like-apple?utm_medium=rss)
  - [Birdfy Bath Pro is a voyeuristic take on smart bird feeders](https://www.theverge.com/2025/1/6/24337091/birdfy-bath-pro-smart-bird-camera-wi-fi-ai-identification)
- - [&#39;Works with Apple Home&#39; badge will be easier for vendors to get](https://appleinsider.com/articles/25/01/06/works-with-apple-home-badge-will-be-easier-for-vendors-to-get?utm_medium=rss)
- - [Emmanuel Macron joins growing European criticism of Musk, says &quot;the owner of one of the world&#39;s largest social networks&quot; is &quot;intervening directly in elections&quot; &lpar;Jon Henley/The Guardian&rpar;](http://www.techmeme.com/250106/p15#a250106p15)
- - [Honeywell Home’s first Matter thermostat costs just $80](https://www.theverge.com/2025/1/6/24337076/honeywell-home-x2s-smart-thermostat-matter-price)<!-- TECH:END -->
+ - [&#39;Works with Apple Home&#39; badge will be easier for vendors to get](https://appleinsider.com/articles/25/01/06/works-with-apple-home-badge-will-be-easier-for-vendors-to-get?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

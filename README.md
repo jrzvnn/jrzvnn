@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Marvel Rivals is adding The Fantastic Four with its first season update](https://www.theverge.com/2025/1/6/24337409/marvel-rivals-fantastic-four-season-1-date-trailer)
  - [Apple releases iOS 18.2.1 and iPadOS 18.2.1 bug-fix updates](https://appleinsider.com/articles/25/01/06/apple-releases-ios-1821-and-ipados-1821-bug-fix-updates?utm_medium=rss)
  - [John Deere says its self-driving tractors and trucks will help address labor shortages](https://www.theverge.com/2025/1/6/24334357/john-deere-autonomous-tractor-truck-orchard-mow-ces)
  - [Here are the best AirPods deals you can get right now](https://www.theverge.com/21302051/best-apple-airpods-deals)
- - [Aukey refreshes MagFusion charging line with two new chargers at CES 2025](https://appleinsider.com/articles/25/01/06/aukey-refreshes-magfusion-charging-line-with-two-new-chargers-at-ces-2025?utm_medium=rss)
- - [More Android phones with Qi2 wireless charging will finally show up in 2025](https://www.theverge.com/2025/1/6/24337323/more-android-phones-qi2-ready-certification-wireless-magnetic-charging-ces-2025)<!-- TECH:END -->
+ - [Aukey refreshes MagFusion charging line with two new chargers at CES 2025](https://appleinsider.com/articles/25/01/06/aukey-refreshes-magfusion-charging-line-with-two-new-chargers-at-ces-2025?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Fubo is expected to become immediately cash flow positive after its deal with Disney closes in 12 to 18 months; Fubo stock jumped 253.85% on Monday &lpar;Lillian Rizzo/CNBC&rpar;](http://www.techmeme.com/250106/p27#a250106p27)
+ - [The best phone to buy right now](https://www.theverge.com/22163811/best-phone)
  - [LG UltraFine 6K Monitor first to connect with Thunderbolt 5](https://appleinsider.com/articles/25/01/06/lg-ultrafine-6k-monitor-first-to-connect-with-thunderbolt-5?utm_medium=rss)
  - [US designates Tencent and CATL as Chinese military companies](https://www.theverge.com/2025/1/6/24337489/tencent-catl-us-defense-department-chinese-military-companies)
- - [Samsung claims its Ballie AI robot will actually be released this year](https://www.theverge.com/2025/1/6/24337478/samsung-ballie-robot-release-date-features-2025)
- - [Similarweb: DAUs of the Bluesky&#39;s mobile app in the US grew 12% in December vs. 284% in November; Bluesky has 26.44M total users, after hitting 20M in November &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/250106/p26#a250106p26)
- - [Grab an Already-Affordable 2024 Motorola Edge for a Record-Low $300](https://www.cnet.com/deals/2024-motorola-edge-300-record-low-price/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Samsung claims its Ballie AI robot will actually be released this year](https://www.theverge.com/2025/1/6/24337478/samsung-ballie-robot-release-date-features-2025)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

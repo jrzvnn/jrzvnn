@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [7 Best Space Heaters &lpar;2025&rpar;, Tested and Reviewed](https://www.wired.com/gallery/the-best-space-heaters/)
- - [Uber and Lyft are embracing autonomous vehicle operators like Waymo, May Mobility, and others, after abandoning their own self-driving car programs &lpar;Preetika Rana/Wall Street Journal&rpar;](http://www.techmeme.com/250106/p6#a250106p6)
- - [SwitchBot&#39;s new K20+ Pro robot vacuum makes keeping your house clean even easier](https://appleinsider.com/articles/25/01/06/smarter-living-made-simple-with-switchbots-new-k20-pro-robot-vacuum?utm_medium=rss)
- - [iPhone 17 rumored to return to curved sides with new material blending](https://appleinsider.com/articles/25/01/06/iphone-17-rumored-to-return-to-curved-sides-with-new-material-blending?utm_medium=rss)
- - [OWC ThunderBlade X12 offers speedy storage for film production](https://appleinsider.com/articles/25/01/06/owc-thunderblade-x12-offers-speedy-storage-for-film-production?utm_medium=rss)<!-- TECH:END -->
+ - [Athom&#39;s new Homey Pro mini is a home automation hub at a great price](https://appleinsider.com/articles/25/01/06/athoms-new-homey-pro-mini-is-a-home-automation-hub-at-a-great-price?utm_medium=rss)
+ - [Avataar releases Velocity, a generative AI tool that creates product videos based on a product link, says HP, Victoria&#39;s Secret, and others are using the tool &lpar;Ivan Mehta/TechCrunch&rpar;](http://www.techmeme.com/250106/p8#a250106p8)
+ - [Apple, Google, and Samsung will accept Matter certification of smart home products](https://www.theverge.com/2025/1/6/24336570/apple-google-samsung-accept-matter-certification)
+ - [The ElliQ companion robot can now send health updates to a caregiver](https://www.theverge.com/2025/1/6/24334149/elliq-robot-aging-in-place-tech-smart-home)
+ - [TiVo-powered TVs are coming to the US](https://www.theverge.com/2025/1/6/24330498/tivo-tv-us-launch-platform-ces-sharp)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

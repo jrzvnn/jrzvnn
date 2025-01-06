@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Apple&#39;s Shazam is trying to predict what you will listen to in 2025](https://appleinsider.com/articles/25/01/06/apples-shazam-is-trying-to-predict-what-you-will-listen-to-in-2025?utm_medium=rss)
  - [Disney strikes deal to merge Fubo with Hulu + Live TV](https://www.theverge.com/2025/1/6/24337172/hulu-fubo-disney-streaming-sports-deal)
  - [Elvie’s automatic baby bouncer and bassinet costs $799 for six months of use](https://www.theverge.com/2025/1/6/24337180/elvie-rise-automatic-baby-bouncer-and-bassinet-price-specs)
- - [India proposes nearly $3 billion in subsidies for electronics makers like Apple](https://appleinsider.com/articles/25/01/06/india-proposes-nearly-3-billion-in-subsidies-for-electronics-makers-like-apple?utm_medium=rss)
- - [Birdfy Bath Pro is a voyeuristic take on smart bird feeders](https://www.theverge.com/2025/1/6/24337091/birdfy-bath-pro-smart-bird-camera-wi-fi-ai-identification)
- - [&#39;Works with Apple Home&#39; badge will be easier for vendors to get](https://appleinsider.com/articles/25/01/06/works-with-apple-home-badge-will-be-easier-for-vendors-to-get?utm_medium=rss)<!-- TECH:END -->
+ - [Snag These Cute and Convenient Anker Nano Chargers for Just $15 Apiece](https://www.cnet.com/deals/anker-nano-portable-charger-woot-deal/#ftag=CAD590a51e)
+ - [India proposes nearly $3 billion in subsidies for electronics makers like Apple](https://appleinsider.com/articles/25/01/06/india-proposes-nearly-3-billion-in-subsidies-for-electronics-makers-like-apple?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Found the video you saved for later](http://9gag.com/gag/aYQVQDw)
- - 😝 [Lest we forget.](http://9gag.com/gag/aKGEA26)
- - 💣 [Why I was late to work...](http://9gag.com/gag/a1mPmyD)
- - 😝 [You can&#39;t be pushed if you have your bank against the wall.](http://9gag.com/gag/aO8xe96)
- - 👉 [When your salary is not enough to pay rent](http://9gag.com/gag/aE0qMNp)<!-- MEMES:END -->
+ - 😝 [Mount Everest covered in waste, including 12,000 kilos of human excrement](http://9gag.com/gag/aVvbgMK)
+ - 😝 [Man made horrors coming to you soon](http://9gag.com/gag/arymnAV)
+ - 💣 [HIS SCHROCK IS OUT](http://9gag.com/gag/a7oqqyq)
+ - 😝 [What attacked him? A bat, a spider or 4skin?](http://9gag.com/gag/avyQWx5)
+ - 👉 [Andrew Tate looks like he found the ring and is on his way to becoming Gollum](http://9gag.com/gag/a9yqq0j)<!-- MEMES:END -->
 
 ---
 

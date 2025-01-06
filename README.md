@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [LG UltraFine 6K Monitor first to connect with Thunderbolt 5](https://appleinsider.com/articles/25/01/06/lg-ultrafine-6k-monitor-first-to-connect-with-thunderbolt-5?utm_medium=rss)
- - [AMD unveils Ryzen AI Max+, a laptop chip with new integrated memory and 16 Zen 5 CPU cores, claiming 84% faster rendering performance vs. the MacBook M4 Pro &lpar;Paul Alcorn/Tom&#39;s Hardware&rpar;](http://www.techmeme.com/250106/p23#a250106p23)
- - [ecovacs debuts new Deebot X8 PRO OMNI vacuum with self-washing mop at CES 2025](https://appleinsider.com/articles/25/01/06/ecovacs-debuts-new-deebot-x8-pro-omni-vacuum-with-self-washing-mop-at-ces-2025?utm_medium=rss)
- - [Roborock unveils futuristic robotic vacuum with grabbing arm that will clean your home](https://appleinsider.com/articles/25/01/06/roborock-unveils-futuristic-robotic-vacuum-with-grabbing-arm-that-will-clean-your-home?utm_medium=rss)
- - [TCL’s first Mini LED TV of 2025 offers impressive specs at a tempting price](https://www.theverge.com/2025/1/6/24337426/tcl-qm6k-mini-led-features-specs-pricing)<!-- TECH:END -->
+ - [AMD’s Z2 handheld gaming chips are official — and not coming to a Steam Deck near you](https://www.theverge.com/2025/1/6/24337300/amd-ryzen-z2-z2-extreme-z2-go)
+ - [AMD announces ‘Fire Range’ and Ryzen AI Max, its most potent laptop chips yet](https://www.theverge.com/2025/1/6/24337025/amd-ryzen-ai-max-strix-halo-fire-range-9955hx3d)
+ - [Everyone’s favorite office monitor is getting even better](https://www.theverge.com/2025/1/6/24336649/dell-ultrasharp-4k-office-monitors-120hz-price-availability)
+ - [Acer’s latest all-in-one and mini PCs are getting Copilot Plus AI features](https://www.theverge.com/2025/1/6/24336404/acer-aspire-s-ai-mini-pc-copilot-plus-specs-price-ces)
+ - [AMD announces next-gen Radeon RX 9070-series GPUs with AI-powered FSR 4 upscaling](https://www.theverge.com/2025/1/6/24336246/amd-radeon-rx-9070-series-rdna-4-fsr-4-ces-2025)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

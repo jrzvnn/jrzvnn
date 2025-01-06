@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Advertising company Outfront, whose clients include Mercury, Brex, and Venmo, says fintech ad spend over the past three years has grown an average of 45%+ YoY &lpar;Teresa Xie/Bloomberg&rpar;](http://www.techmeme.com/250105/p12#a250105p12)
- - [Samsung&#39;s AI Robot Ball With a Projector Is Real and Ready to Roll in 2025](https://www.cnet.com/home/smart-home/samsungs-ai-robot-ball-with-a-projector-is-real-and-ready-to-roll-in-2025/#ftag=CAD590a51e)
- - [Samsung&#39;s 2025 OLED TVs Reduce Glare, Probably Won&#39;t Reduce Price](https://www.cnet.com/tech/home-entertainment/samsungs-2025-oled-tvs-reduce-glare-probably-wont-reduce-price/#ftag=CAD590a51e)
- - [Samsung OLED and Neo QLED TVs Reduce Glare, Add More AI video](https://www.cnet.com/videos/samsung-oled-and-neo-qled-tvs-reduce-glare-add-more-ai/#ftag=CAD590a51e)
- - [Samsung goes big on anti-glare screens and AI with 2025 TV lineup](https://www.theverge.com/2025/1/5/24336442/samsung-2025-tv-oled-mini-led-s95f-qn90f-features)<!-- TECH:END -->
+ - [Samsung unveils a suite of AI experiences for its TVs, including Click to Search, Live Translate, and a way to recognize food on the screen and provide recipes &lpar;Dean Takahashi/VentureBeat&rpar;](http://www.techmeme.com/250105/p13#a250105p13)
+ - [Today&#39;s NYT Mini Crossword Answers for Monday, Jan. 6](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-monday-jan-6/#ftag=CAD590a51e)
+ - [Today&#39;s NYT Strands Hints, Answers and Help for Jan. 6, #309](https://www.cnet.com/tech/gaming/todays-nyt-strands-hints-answers-and-help-for-jan-6-309/#ftag=CAD590a51e)
+ - [This Donut-Shaped Motor Could Change How EV Are Designed](https://www.cnet.com/roadshow/news/donut-lab-in-wheel-hubless-ev-motors/#ftag=CAD590a51e)
+ - [Today&#39;s NYT Connections: Sports Edition Hints and Answers for Jan. 6, #105](https://www.cnet.com/tech/gaming/todays-nyt-connections-sports-edition-hints-and-answers-for-jan-6-105/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

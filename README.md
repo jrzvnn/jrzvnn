@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Player makes sure ball girl is OK after getting hit by tennis ball.](http://9gag.com/gag/a5QXVKG)
- - 😝 [The quality of Japanese street food is just incredible.](http://9gag.com/gag/aE0q86n)
- - 💣 [Guy spins apple using air compressor until it explodes](http://9gag.com/gag/ae9QQD5)
- - 😝 [Kurt Cobain really had a heart of gold.](http://9gag.com/gag/a1mPP9R)
- - 👉 [Who at Disney looked at these redesigns and went \u201cYeah, this is an improvement\u201d?](http://9gag.com/gag/aPAgg9G)<!-- MEMES:END -->
+ - 😝 [Sometime in the 90s](http://9gag.com/gag/avyQygX)
+ - 😝 [Tight tight tight](http://9gag.com/gag/amoAgOV)
+ - 💣 [Goalkeeper randomly gifts little boy with his gloves](http://9gag.com/gag/a0e440B)
+ - 😝 [Milked like a cow](http://9gag.com/gag/a2vK1VZ)
+ - 👉 [Andrew Tate looks like he found the ring and is on his way to becoming Gollum](http://9gag.com/gag/a9yqq0j)<!-- MEMES:END -->
 
 ---
 

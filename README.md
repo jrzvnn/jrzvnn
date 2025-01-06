@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [TiVo plans to launch TiVo OS in the US with a new Sharp TV, arriving as soon as February 2025, rivaling Roku, Google TV, and Amazon&#39;s Fire TV &lpar;Emma Roth/The Verge&rpar;](http://www.techmeme.com/250106/p10#a250106p10)
- - [Apple again dominates CES without even showing up](https://appleinsider.com/articles/25/01/06/apple-again-dominates-ces-without-even-showing-up?utm_medium=rss)
- - [Comcast plans to launch Universal Ads, to simplify ad buying and win over SMB advertisers from Big Tech, in Q1 2025, and signs deals with NBCU and others &lpar;Lillian Rizzo/CNBC&rpar;](http://www.techmeme.com/250106/p9#a250106p9)
- - [This outdoor security cam adds a second camera that moves and zooms](https://www.theverge.com/2025/1/6/24336942/tapo-hybridcam-duo-security-camera-wide-plus-zoom)
- - [Tapo’s palm-scanning door lock promises a full year of battery life](https://www.theverge.com/2025/1/6/24336895/tapo-palmkey-door-lock-announced-one-year-battery)<!-- TECH:END -->
+ - [Isaac by PreEvnt uses an iPhone app to track blood glucose with breath analysis](https://appleinsider.com/articles/25/01/06/isaac-by-preevnt-uses-an-iphone-app-to-track-blood-clucose-with-breath-analysis?utm_medium=rss)
+ - [OpenAI’s Sam Altman says ‘we know how to build AGI’](https://www.theverge.com/2025/1/6/24337106/sam-altman-says-openai-knows-how-to-build-agi-blog-post)
+ - [Microsoft is using Bing to trick people into thinking they’re on Google](https://www.theverge.com/2025/1/6/24337117/microsoft-bing-search-results-google-design-trick)
+ - [Disney and Fubo announce a deal as part of which Disney will combine Hulu + Live TV with Fubo in a joint venture and Fubo will drop Venu Sports lawsuit &lpar;Todd Spangler/Variety&rpar;](http://www.techmeme.com/250106/p11#a250106p11)
+ - [Scosche&#39;s new iPhone chargers provide power &amp; practicality with style](https://appleinsider.com/articles/25/01/06/scosches-new-iphone-chargers-provide-power-practicality-with-style?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

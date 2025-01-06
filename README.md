@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [A harbinger of evil](http://9gag.com/gag/a1mPm7v)
- - 😝 [Too much here...](http://9gag.com/gag/aO8x8BN)
- - 💣 [Stay awhile and drink with me - 45 today](http://9gag.com/gag/aQzEzYz)
- - 😝 [Always relevant](http://9gag.com/gag/aPAgxoG)
- - 👉 [He asked for a sewing machine for Christmas, and the first thing he made was for his sister.](http://9gag.com/gag/a0e4e2n)<!-- MEMES:END -->
+ - 😝 [Milked like a cow](http://9gag.com/gag/a2vK1VZ)
+ - 😝 [I Have no idea whats going on here - but peoples behavior is getting out if hand - happened in New Zealand](http://9gag.com/gag/a5QX1QE)
+ - 💣 [Fears to Fathom have the scariest set pieces in spite of the lofi graphics](http://9gag.com/gag/arymmWX)
+ - 😝 [They are eating the dogs they are eating the rats](http://9gag.com/gag/aPAggLG)
+ - 👉 [Another addition to my storage](http://9gag.com/gag/aVvbbgn)<!-- MEMES:END -->
 
 ---
 

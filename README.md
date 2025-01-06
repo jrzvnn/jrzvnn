@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Milked like a cow](http://9gag.com/gag/a2vK1VZ)
- - 😝 [I Have no idea whats going on here - but peoples behavior is getting out if hand - happened in New Zealand](http://9gag.com/gag/a5QX1QE)
- - 💣 [Fears to Fathom have the scariest set pieces in spite of the lofi graphics](http://9gag.com/gag/arymmWX)
- - 😝 [They are eating the dogs they are eating the rats](http://9gag.com/gag/aPAggLG)
- - 👉 [Another addition to my storage](http://9gag.com/gag/aVvbbgn)<!-- MEMES:END -->
+ - 😝 [Skydiver falls through a through a raincloud](http://9gag.com/gag/abAvAb9)
+ - 😝 [Guy spins apple using air compressor until it explodes](http://9gag.com/gag/ae9QQD5)
+ - 💣 [Didn\u2018t do nothing](http://9gag.com/gag/aO8x286)
+ - 😝 [Hail to one of the greatest of all time.](http://9gag.com/gag/axyoB0D)
+ - 👉 [HIS SCHROCK IS OUT](http://9gag.com/gag/a7oqqyq)<!-- MEMES:END -->
 
 ---
 

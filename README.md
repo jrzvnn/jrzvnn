@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Andrew Tate looks like he found the ring and is on his way to becoming Gollum](http://9gag.com/gag/a9yqq0j)
- - 😝 [HIS SCHROCK IS OUT](http://9gag.com/gag/a7oqqyq)
- - 💣 [Asking the real question](http://9gag.com/gag/aByd6gQ)
- - 😝 [Always care for each other](http://9gag.com/gag/aO8x8Zy)
- - 👉 [Fears to Fathom have the scariest set pieces in spite of the lofi graphics](http://9gag.com/gag/arymmWX)<!-- MEMES:END -->
+ - 😝 [Guy spins apple using air compressor until it explodes](http://9gag.com/gag/ae9QQD5)
+ - 😝 [Sometime in the 90s](http://9gag.com/gag/avyQygX)
+ - 💣 [Fears to Fathom have the scariest set pieces in spite of the lofi graphics](http://9gag.com/gag/arymmWX)
+ - 😝 [Kurt Cobain really had a heart of gold.](http://9gag.com/gag/a1mPP9R)
+ - 👉 [Tight tight tight](http://9gag.com/gag/amoAgOV)<!-- MEMES:END -->
 
 ---
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Andrew Tate looks like he found the ring and is on his way to becoming Gollum](http://9gag.com/gag/a9yqq0j)
- - 😝 [Sometime in the 90s](http://9gag.com/gag/avyQygX)
- - 💣 [Mount Everest covered in waste, including 12,000 kilos of human excrement](http://9gag.com/gag/aVvbgMK)
  - 😝 [Asking the real question](http://9gag.com/gag/aByd6gQ)
- - 👉 [Kurt Cobain really had a heart of gold.](http://9gag.com/gag/a1mPP9R)<!-- MEMES:END -->
+ - 😝 [Andrew Tate looks like he found the ring and is on his way to becoming Gollum](http://9gag.com/gag/a9yqq0j)
+ - 💣 [Damn that father ain&#39;t recovering after that jeez](http://9gag.com/gag/aO8xeGD)
+ - 😝 [Trudeau resigned](http://9gag.com/gag/a4Poz66)
+ - 👉 [She needs to be punished appropriately](http://9gag.com/gag/a5QX6LE)<!-- MEMES:END -->
 
 ---
 

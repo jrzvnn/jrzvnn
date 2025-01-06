@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Advertising company Outfront, whose clients include Mercury, Brex, and Venmo, says fintech ad spend over the past three years has grown an average of 45%+ YoY &lpar;Teresa Xie/Bloomberg&rpar;](http://www.techmeme.com/250105/p12#a250105p12)
+ - [Samsung goes big on anti-glare screens and AI with 2025 TV lineup](https://www.theverge.com/2025/1/5/24336442/samsung-2025-tv-oled-mini-led-s95f-qn90f-features)
+ - [Samsung announces The Frame Pro: could this be the perfect TV?](https://www.theverge.com/2025/1/5/24336154/samsung-the-frame-pro-features-specs)
  - [There’s a better way to type on TVs, and it’s based on old-school phones](https://www.theverge.com/2025/1/5/24336817/tv-keyboard-typing-direction9-ces-2025)
- - [Lymow One smart robomower made to deal with large lawns](https://appleinsider.com/articles/25/01/06/lymow-one-smart-robomower-made-to-deal-with-large-lawns?utm_medium=rss)
- - [Circular&#39;s second-gen Ring adds ECG and digital ring-sizing](https://appleinsider.com/articles/25/01/06/circulars-second-gen-ring-adds-ecg-and-digital-ring-sizing?utm_medium=rss)
- - [Eli Health brings hormone testing to the iPhone](https://appleinsider.com/articles/25/01/06/eli-health-brings-hormone-testing-to-the-iphone?utm_medium=rss)
- - [Go stealth mode with Halliday&#39;s new smart glasses](https://appleinsider.com/articles/25/01/06/go-stealth-mode-with-hallidays-new-smart-glasses?utm_medium=rss)<!-- TECH:END -->
+ - [Lymow One smart robomower made to deal with large lawns](https://appleinsider.com/articles/25/01/06/lymow-one-smart-robomower-made-to-deal-with-large-lawns?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -166,10 +166,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Simona Halep, Romanian former #1 tennis before breast reduction](http://9gag.com/gag/aQzEEjz)
- - 😝 [Asking the real question](http://9gag.com/gag/aByd6gQ)
- - 💣 [She needs to be punished appropriately](http://9gag.com/gag/a5QX6LE)
- - 😝 [Mount Everest covered in waste, including 12,000 kilos of human excrement](http://9gag.com/gag/aVvbgMK)
+ - 😝 [Guy spins apple using air compressor until it explodes](http://9gag.com/gag/ae9QQD5)
+ - 😝 [Kurt Cobain really had a heart of gold.](http://9gag.com/gag/a1mPP9R)
+ - 💣 [Mount Everest covered in waste, including 12,000 kilos of human excrement](http://9gag.com/gag/aVvbgMK)
+ - 😝 [Sometime in the 90s](http://9gag.com/gag/avyQygX)
  - 👉 [What attacked him? A bat, a spider or 4skin?](http://9gag.com/gag/avyQWx5)<!-- MEMES:END -->
 
 ---

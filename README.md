@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Meta stops selling the Quest Pro](https://www.theverge.com/2025/1/6/24337157/meta-stops-selling-quest-pro-vr-headset-low-sales-discontinued)
- - [Apple&#39;s Shazam is trying to predict what you will listen to in 2025](https://appleinsider.com/articles/25/01/06/apples-shazam-is-trying-to-predict-what-you-will-listen-to-in-2025?utm_medium=rss)
- - [Disney strikes deal to merge Fubo with Hulu + Live TV](https://www.theverge.com/2025/1/6/24337172/hulu-fubo-disney-streaming-sports-deal)
- - [Elvie’s automatic baby bouncer and bassinet costs $799 for six months of use](https://www.theverge.com/2025/1/6/24337180/elvie-rise-automatic-baby-bouncer-and-bassinet-price-specs)
- - [Snag These Cute and Convenient Anker Nano Chargers for Just $15 Apiece](https://www.cnet.com/deals/anker-nano-portable-charger-woot-deal/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [HDMI 2.2 cranks the bandwidth to 96Gbps and aims to eliminate audio sync issues forever](https://www.theverge.com/2025/1/6/24337196/hdmi-2-2-spec-announced-96gbps-audio-sync)
+ - [Amazon drops M3 MacBook Air with 16GB RAM, 512GB SSD to $1,099, lowest price in 30 days](https://appleinsider.com/articles/25/01/06/amazon-drops-m3-macbook-air-with-16gb-ram-512gb-ssd-to-1099-lowest-price-in-30-days?utm_medium=rss)
+ - [Microsoft is showing a Bing search result page that mimics Google Search UI when a user searches for &quot;Google&quot; on Bing while not signed into a Microsoft account &lpar;Mayank Parmar/Windows Latest&rpar;](http://www.techmeme.com/250106/p16#a250106p16)
+ - [Ecobee launches an even cheaper smart thermostat](https://www.theverge.com/2025/1/6/24335022/ecobee-essential-thermostat-price-ces-2025)
+ - [Qualcomm’s new Snapdragon X chips bring Windows on Arm to cheaper laptops](https://www.theverge.com/2025/1/6/24334870/qualcomm-snapdragon-x-laptops-mini-pcs-ces-2025)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

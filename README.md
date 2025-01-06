@@ -159,9 +159,9 @@ R                        1 repo              ░░░░░░░░░░░�
 <!-- TECH:START -->
  - [HTML Is Actually a Programming Language. Fight Me](https://www.wired.com/story/html-is-actually-a-programming-language-fight-me/)
  - [LG and Samsung are adding Microsoft’s Copilot AI assistant to their TVs](https://www.theverge.com/2025/1/6/24337033/lg-samsung-microsoft-copilot-smart-tvs-ces-2025)
- - [A look at the rise of Watch Duty, a wildfire alert app that is active in 14 US states and has gained up to 7.2M active users in three years since its launch &lpar;Gabrielle Canon/The Guardian&rpar;](http://www.techmeme.com/250106/p4#a250106p4)
- - [Best Space Heaters in 2025](https://www.cnet.com/home/kitchen-and-household/best-space-heater/#ftag=CAD590a51e)
- - [Best Mattress Pads of 2025](https://www.cnet.com/health/sleep/best-mattress-pads/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [These High Savings APYs Can Help You Reach Your Money Goals Faster. Today&#39;s Savings Rates, Jan. 6, 2025](https://www.cnet.com/personal-finance/banking/these-high-savings-apys-can-help-you-reach-your-money-goals-faster-todays-savings-rates-jan-6-2025/#ftag=CAD590a51e)
+ - [Home Loan Rates Fall: Current Mortgage Rates for Jan. 6, 2025](https://www.cnet.com/personal-finance/mortgages/home-loan-rates-fall-current-mortgage-rates-for-jan-6-2025/#ftag=CAD590a51e)
+ - [Refi Rates Are Easing for Homeowners: Mortgage Refinance Rates for Jan. 6, 2025](https://www.cnet.com/personal-finance/mortgages/refi-rates-are-easing-for-homeowners-mortgage-refinance-rates-for-jan-6-2025/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Apple says it will ‘clarify’ AI summaries after botching BBC headlines](https://www.theverge.com/2025/1/6/24337681/apple-intelligence-summary-bbc-news-luigi-mangione-response)
  - [Samsung schedules its next Galaxy Unpacked event for January 22 at 10AM PT in San Jose, where Galaxy AI updates, the Galaxy S25, and more are expected &lpar;Ben Schoon/9to5Google&rpar;](http://www.techmeme.com/250106/p32#a250106p32)
  - [The best robot vacuums](https://www.theverge.com/22997597/best-robot-vacuum-cleaner)
  - [Samsung announces new Galaxy Book5 Pro and Book5 360 laptops with Intel Arrow Lake Core Ultra processors, available in the US, Canada, UK, and more in February &lpar;Umar Shakir/The Verge&rpar;](http://www.techmeme.com/250106/p31#a250106p31)
- - [Samsung’s next Unpacked event sets a date to reveal the Galaxy S25](https://www.theverge.com/2025/1/6/24336647/samsung-galaxy-unpacked-announced-galaxy-s25-android-ai)
- - [Dana White is joining Meta’s board of directors](https://www.theverge.com/2025/1/6/24337670/meta-board-of-directors-dana-white-ufc)<!-- TECH:END -->
+ - [Samsung’s next Unpacked event sets a date to reveal the Galaxy S25](https://www.theverge.com/2025/1/6/24336647/samsung-galaxy-unpacked-announced-galaxy-s25-android-ai)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

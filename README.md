@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Sometime in the 90s](http://9gag.com/gag/avyQygX)
- - 😝 [Tight tight tight](http://9gag.com/gag/amoAgOV)
- - 💣 [Goalkeeper randomly gifts little boy with his gloves](http://9gag.com/gag/a0e440B)
- - 😝 [Milked like a cow](http://9gag.com/gag/a2vK1VZ)
- - 👉 [Andrew Tate looks like he found the ring and is on his way to becoming Gollum](http://9gag.com/gag/a9yqq0j)<!-- MEMES:END -->
+ - 😝 [An airplane pilot welcomes the New Year 2025 over Warsaw](http://9gag.com/gag/apR91vD)
+ - 😝 [Lest we forget.](http://9gag.com/gag/aKGEA26)
+ - 💣 [When your salary is not enough to pay rent](http://9gag.com/gag/aE0qMNp)
+ - 😝 [Found the video you saved for later](http://9gag.com/gag/aYQVQDw)
+ - 👉 [I don&#39;t know why this make me furious. I don&#39;t even f****ng lives in UK](http://9gag.com/gag/arym33V)<!-- MEMES:END -->
 
 ---
 

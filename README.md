@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [AI done right](http://9gag.com/gag/apR93On)
- - 😝 [This woman!](http://9gag.com/gag/ayN232p)
- - 💣 [Damn that father ain&#39;t recovering after that jeez](http://9gag.com/gag/aO8xeGD)
- - 😝 [I don&#39;t know why this make me furious. I don&#39;t even f****ng lives in UK](http://9gag.com/gag/arym33V)
- - 👉 [Tommy Robinson sentenced to 18 months SOLITARY for exposing immigrant child grooming gangs. The actual criminals walk free, while the ones exposing them are jailed. WTF UK?!?!](http://9gag.com/gag/arymWYB)<!-- MEMES:END -->
+ - 😝 [Simona Halep, Romanian former #1 tennis before breast reduction](http://9gag.com/gag/aQzEEjz)
+ - 😝 [Asking the real question](http://9gag.com/gag/aByd6gQ)
+ - 💣 [She needs to be punished appropriately](http://9gag.com/gag/a5QX6LE)
+ - 😝 [Mount Everest covered in waste, including 12,000 kilos of human excrement](http://9gag.com/gag/aVvbgMK)
+ - 👉 [What attacked him? A bat, a spider or 4skin?](http://9gag.com/gag/avyQWx5)<!-- MEMES:END -->
 
 ---
 

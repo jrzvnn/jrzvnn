@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [ecovacs debuts new Deebot X8 PRO OMNI vacuum with self-washing mop at CES 2025](https://appleinsider.com/articles/25/01/06/ecovacs-debuts-new-deebot-x8-pro-omni-vacuum-with-self-washing-mop-at-ces-2025?utm_medium=rss)
  - [Roborock unveils futuristic robotic vacuum with grabbing arm that will clean your home](https://appleinsider.com/articles/25/01/06/roborock-unveils-futuristic-robotic-vacuum-with-grabbing-arm-that-will-clean-your-home?utm_medium=rss)
  - [TCL’s first Mini LED TV of 2025 offers impressive specs at a tempting price](https://www.theverge.com/2025/1/6/24337426/tcl-qm6k-mini-led-features-specs-pricing)
  - [‘Max Ink Mode’ makes TCL’s screens even inkier](https://www.theverge.com/2025/1/6/24335983/tcl-60-xe-nxtpaper-e-ink-specs-ces)
- - [Marvel Rivals is adding The Fantastic Four with its first season update](https://www.theverge.com/2025/1/6/24337409/marvel-rivals-fantastic-four-season-1-date-trailer)
- - [Apple releases iOS 18.2.1 and iPadOS 18.2.1 bug-fix updates](https://appleinsider.com/articles/25/01/06/apple-releases-ios-1821-and-ipados-1821-bug-fix-updates?utm_medium=rss)<!-- TECH:END -->
+ - [Marvel Rivals is adding The Fantastic Four with its first season update](https://www.theverge.com/2025/1/6/24337409/marvel-rivals-fantastic-four-season-1-date-trailer)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

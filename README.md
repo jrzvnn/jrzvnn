@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Tight tight tight](http://9gag.com/gag/amoAgOV)
- - 😝 [A re-education camp in China.](http://9gag.com/gag/aW4GpW6)
- - 💣 [Milked like a cow](http://9gag.com/gag/a2vK1VZ)
  - 😝 [What attacked him? A bat, a spider or 4skin?](http://9gag.com/gag/avyQWx5)
- - 👉 [Asking the real question](http://9gag.com/gag/aByd6gQ)<!-- MEMES:END -->
+ - 😝 [Let\u2019s go eat squid, it\u2019ll be fun - they said](http://9gag.com/gag/aGyEynz)
+ - 💣 [Kurt Cobain really had a heart of gold.](http://9gag.com/gag/a1mPP9R)
+ - 😝 [Fears to Fathom have the scariest set pieces in spite of the lofi graphics](http://9gag.com/gag/arymmWX)
+ - 👉 [Always care for each other](http://9gag.com/gag/aO8x8Zy)<!-- MEMES:END -->
 
 ---
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Meta elected three new directors to its board, including UFC CEO and outspoken Donald Trump supporter Dana White &lpar;Kurt Wagner/Bloomberg&rpar;](http://www.techmeme.com/250106/p28#a250106p28)
+ - [Toyota’s futuristic Woven City in Japan is ready for its first residents](https://www.theverge.com/2025/1/6/24337152/toyota-woven-city-japan-residents-phase-one)
  - [Fubo is expected to become immediately cash flow positive after its deal with Disney closes in 12 to 18 months; Fubo stock jumped 253.85% on Monday &lpar;Lillian Rizzo/CNBC&rpar;](http://www.techmeme.com/250106/p27#a250106p27)
  - [The best phone to buy right now](https://www.theverge.com/22163811/best-phone)
- - [LG UltraFine 6K Monitor first to connect with Thunderbolt 5](https://appleinsider.com/articles/25/01/06/lg-ultrafine-6k-monitor-first-to-connect-with-thunderbolt-5?utm_medium=rss)
- - [US designates Tencent and CATL as Chinese military companies](https://www.theverge.com/2025/1/6/24337489/tencent-catl-us-defense-department-chinese-military-companies)
- - [Samsung claims its Ballie AI robot will actually be released this year](https://www.theverge.com/2025/1/6/24337478/samsung-ballie-robot-release-date-features-2025)<!-- TECH:END -->
+ - [LG UltraFine 6K Monitor first to connect with Thunderbolt 5](https://appleinsider.com/articles/25/01/06/lg-ultrafine-6k-monitor-first-to-connect-with-thunderbolt-5?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Bird Buddy’s new camera tracks plants and insects in your garden](https://www.theverge.com/2025/1/6/24337124/bird-buddy-wonder-petal-camera-track-plants-insects-ces-2025)
- - [The newest Kindle Scribe is $75 off in its first sale](https://www.theverge.com/2025/1/6/24337121/amazon-kindle-scribe-ebook-reader-gopro-hero-13-black-action-camera-deal-sale)
- - [Qualcomm unveils the Snapdragon X Platform, a chip to bring AI features to PCs starting at $600, with laptops from Dell, Lenovo, and others coming &quot;early 2025&quot; &lpar;Ian King/Bloomberg&rpar;](http://www.techmeme.com/250106/p19#a250106p19)
- - [Nvidia unveils Project Digits, a &quot;personal AI supercomputer&quot; with a new GB10 Grace Blackwell Superchip and says it can run models up to 200B parameters in size &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/250106/p18#a250106p18)
- - [Google previews changes coming to Google TV, including adding Gemini, more natural voice commands, and deeper YouTube integration, rolling out later in 2025 &lpar;Mark Gurman/Bloomberg&rpar;](http://www.techmeme.com/250106/p17#a250106p17)<!-- TECH:END -->
+ - [Aqara reveals new smart home control center and more sensors at CES](https://appleinsider.com/articles/25/01/06/aqara-reveals-new-smart-home-control-center-and-more-sensors-at-ces?utm_medium=rss)
+ - [Intel won’t kill off its graphics card business](https://www.theverge.com/2025/1/6/24337345/intel-discrete-gpu-ces-2025)
+ - [Fox Corp says Tubi surpassed 97M MAUs and 10B streaming hours in 2024, but doesn&#39;t say how it calculate MAUs; 77% of Tubi viewers say they do not have cable &lpar;Dade Hayes/Deadline&rpar;](http://www.techmeme.com/250106/p20#a250106p20)
+ - [Satechi&#39;s Mac mini M4 Stand &amp; Hub arrives February 17](https://appleinsider.com/articles/25/01/06/satechis-mac-mini-m4-stand-hub-arrives-february-17?utm_medium=rss)
+ - [Robot Vacuums Are Now the Tiny Butlers of Your Dreams](https://www.wired.com/story/robot-vacuum-roborock-arm-omnigrip-ces/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

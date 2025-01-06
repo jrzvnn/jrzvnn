@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Samsung schedules its next Galaxy Unpacked event for January 22 at 10AM PT in San Jose, where Galaxy AI updates, the Galaxy S25, and more are expected &lpar;Ben Schoon/9to5Google&rpar;](http://www.techmeme.com/250106/p32#a250106p32)
+ - [The best robot vacuums](https://www.theverge.com/22997597/best-robot-vacuum-cleaner)
  - [Samsung announces new Galaxy Book5 Pro and Book5 360 laptops with Intel Arrow Lake Core Ultra processors, available in the US, Canada, UK, and more in February &lpar;Umar Shakir/The Verge&rpar;](http://www.techmeme.com/250106/p31#a250106p31)
  - [Samsung’s next Unpacked event sets a date to reveal the Galaxy S25](https://www.theverge.com/2025/1/6/24336647/samsung-galaxy-unpacked-announced-galaxy-s25-android-ai)
- - [Dana White is joining Meta’s board of directors](https://www.theverge.com/2025/1/6/24337670/meta-board-of-directors-dana-white-ufc)
- - [HDMI Forum unveils the HDMI 2.2 spec, with better audio sync and up to 96Gbps bandwidth for resolutions like 12K at 120Hz, some of which need an &quot;Ultra96&quot; cable &lpar;Darragh Murphy/Tom&#39;s Guide&rpar;](http://www.techmeme.com/250106/p30#a250106p30)
- - [I Suction-Cupped Displace TV&#39;s Wireless OLED to a Wall. I&#39;ll Never Be the Same](https://www.cnet.com/tech/home-entertainment/i-suction-cupped-displace-tvs-wireless-oled-to-a-wall-ill-never-be-the-same/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Dana White is joining Meta’s board of directors](https://www.theverge.com/2025/1/6/24337670/meta-board-of-directors-dana-white-ufc)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

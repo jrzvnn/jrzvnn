@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [A harbinger of evil](http://9gag.com/gag/a1mPm7v)
- - 😝 [Too much here...](http://9gag.com/gag/aO8x8BN)
- - 💣 [Stay awhile and drink with me - 45 today](http://9gag.com/gag/aQzEzYz)
- - 😝 [Always relevant](http://9gag.com/gag/aPAgxoG)
- - 👉 [He asked for a sewing machine for Christmas, and the first thing he made was for his sister.](http://9gag.com/gag/a0e4e2n)<!-- MEMES:END -->
+ - 😝 [Guy spins apple using air compressor until it explodes](http://9gag.com/gag/ae9QQD5)
+ - 😝 [The best way to sell a product is by testing it. \ud83e\udd2f](http://9gag.com/gag/a5QX1dV)
+ - 💣 [No context needed](http://9gag.com/gag/apR99jM)
+ - 😝 [Always care for each other](http://9gag.com/gag/aO8x8Zy)
+ - 👉 [Why It&#39;s A Good Idea To Have A Dash Cam-People trying to scam ~S~](http://9gag.com/gag/a7oqqOw)<!-- MEMES:END -->
 
 ---
 

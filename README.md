@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Lockly&#39;s new HomeKit door locks &amp; cameras offer security &amp; AI upgrades](https://appleinsider.com/articles/25/01/06/locklys-new-homekit-door-locks-cameras-offer-security-ai-upgrades?utm_medium=rss)
+ - [Tencent&#39;s stock drops 6%+ after the US DoD added it to a blacklist of companies with alleged ties to China&#39;s military; it may face delisting or index removals &lpar;Bloomberg&rpar;](http://www.techmeme.com/250106/p21#a250106p21)
  - [Aqara reveals new smart home control center and more sensors at CES](https://appleinsider.com/articles/25/01/06/aqara-reveals-new-smart-home-control-center-and-more-sensors-at-ces?utm_medium=rss)
  - [Intel won’t kill off its graphics card business](https://www.theverge.com/2025/1/6/24337345/intel-discrete-gpu-ces-2025)
- - [Fox Corp says Tubi surpassed 97M MAUs and 10B streaming hours in 2024, but doesn&#39;t say how it calculate MAUs; 77% of Tubi viewers say they do not have cable &lpar;Dade Hayes/Deadline&rpar;](http://www.techmeme.com/250106/p20#a250106p20)
- - [Satechi&#39;s Mac mini M4 Stand &amp; Hub arrives February 17](https://appleinsider.com/articles/25/01/06/satechis-mac-mini-m4-stand-hub-arrives-february-17?utm_medium=rss)
- - [Robot Vacuums Are Now the Tiny Butlers of Your Dreams](https://www.wired.com/story/robot-vacuum-roborock-arm-omnigrip-ces/)<!-- TECH:END -->
+ - [Fox Corp says Tubi surpassed 97M MAUs and 10B streaming hours in 2024, but doesn&#39;t say how it calculate MAUs; 77% of Tubi viewers say they do not have cable &lpar;Dade Hayes/Deadline&rpar;](http://www.techmeme.com/250106/p20#a250106p20)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

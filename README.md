@@ -158,10 +158,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- TECH:START -->
  - [Advertising company Outfront, whose clients include Mercury, Brex, and Venmo, says fintech ad spend over the past three years has grown an average of 45%+ YoY &lpar;Teresa Xie/Bloomberg&rpar;](http://www.techmeme.com/250105/p12#a250105p12)
- - [Samsung goes big on anti-glare screens and AI with 2025 TV lineup](https://www.theverge.com/2025/1/5/24336442/samsung-2025-tv-oled-mini-led-s95f-qn90f-features)
- - [Samsung announces The Frame Pro: could this be the perfect TV?](https://www.theverge.com/2025/1/5/24336154/samsung-the-frame-pro-features-specs)
- - [There’s a better way to type on TVs, and it’s based on old-school phones](https://www.theverge.com/2025/1/5/24336817/tv-keyboard-typing-direction9-ces-2025)
- - [Lymow One smart robomower made to deal with large lawns](https://appleinsider.com/articles/25/01/06/lymow-one-smart-robomower-made-to-deal-with-large-lawns?utm_medium=rss)<!-- TECH:END -->
+ - [Samsung&#39;s AI Robot Ball With a Projector Is Real and Ready to Roll in 2025](https://www.cnet.com/home/smart-home/samsungs-ai-robot-ball-with-a-projector-is-real-and-ready-to-roll-in-2025/#ftag=CAD590a51e)
+ - [Samsung&#39;s 2025 OLED TVs Reduce Glare, Probably Won&#39;t Reduce Price](https://www.cnet.com/tech/home-entertainment/samsungs-2025-oled-tvs-reduce-glare-probably-wont-reduce-price/#ftag=CAD590a51e)
+ - [Samsung OLED and Neo QLED TVs Reduce Glare, Add More AI video](https://www.cnet.com/videos/samsung-oled-and-neo-qled-tvs-reduce-glare-add-more-ai/#ftag=CAD590a51e)
+ - [Samsung goes big on anti-glare screens and AI with 2025 TV lineup](https://www.theverge.com/2025/1/5/24336442/samsung-2025-tv-oled-mini-led-s95f-qn90f-features)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

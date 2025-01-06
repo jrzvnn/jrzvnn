@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Nvidia unveils Project Digits, a &quot;personal AI supercomputer&quot; with a new GB10 Grace Blackwell Superchip and says it can run models up to 200B parameters in size &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/250106/p18#a250106p18)
+ - [Google previews changes coming to Google TV, including adding Gemini, more natural voice commands, and deeper YouTube integration, rolling out later in 2025 &lpar;Mark Gurman/Bloomberg&rpar;](http://www.techmeme.com/250106/p17#a250106p17)
  - [Samsung’s Galaxy Book 5 laptops get an Arrow Lake CPU upgrade](https://www.theverge.com/2025/1/6/24337167/samsung-galaxy-book-5-pro-360-laptop-intel-arrow-lake-ces)
  - [HDMI 2.2 cranks the bandwidth to 96Gbps and aims to eliminate audio sync issues forever](https://www.theverge.com/2025/1/6/24337196/hdmi-2-2-spec-announced-96gbps-audio-sync)
- - [Amazon drops M3 MacBook Air with 16GB RAM, 512GB SSD to $1,099, lowest price in 30 days](https://appleinsider.com/articles/25/01/06/amazon-drops-m3-macbook-air-with-16gb-ram-512gb-ssd-to-1099-lowest-price-in-30-days?utm_medium=rss)
- - [Microsoft is showing a Bing search result page that mimics Google Search UI when a user searches for &quot;Google&quot; on Bing while not signed into a Microsoft account &lpar;Mayank Parmar/Windows Latest&rpar;](http://www.techmeme.com/250106/p16#a250106p16)
- - [Ecobee launches an even cheaper smart thermostat](https://www.theverge.com/2025/1/6/24335022/ecobee-essential-thermostat-price-ces-2025)<!-- TECH:END -->
+ - [Amazon drops M3 MacBook Air with 16GB RAM, 512GB SSD to $1,099, lowest price in 30 days](https://appleinsider.com/articles/25/01/06/amazon-drops-m3-macbook-air-with-16gb-ram-512gb-ssd-to-1099-lowest-price-in-30-days?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

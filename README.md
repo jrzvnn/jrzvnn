@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Why It&#39;s A Good Idea To Have A Dash Cam-People trying to scam ~S~](http://9gag.com/gag/a7oqqOw)
- - 😝 [Goalkeeper randomly gifts little boy with his gloves](http://9gag.com/gag/a0e440B)
- - 💣 [Kurt Cobain really had a heart of gold.](http://9gag.com/gag/a1mPP9R)
- - 😝 [HIS SCHROCK IS OUT](http://9gag.com/gag/a7oqqyq)
- - 👉 [White sissy](http://9gag.com/gag/a5QXVnN)<!-- MEMES:END -->
+ - 😝 [What&#39;s the difference between a porcupine and a Porsche?](http://9gag.com/gag/aGyEzyn)
+ - 😝 [Kurt Cobain really had a heart of gold.](http://9gag.com/gag/a1mPP9R)
+ - 💣 [The line to this Tesla charging station in Sweden](http://9gag.com/gag/a87qAw6)
+ - 😝 [Mount Everest covered in waste, including 12,000 kilos of human excrement](http://9gag.com/gag/aVvbgMK)
+ - 👉 [Burger King employee caught sharing customer\u2019s credit card information with her friend via Facetime.](http://9gag.com/gag/ae9QQyO)<!-- MEMES:END -->
 
 ---
 

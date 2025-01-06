@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Asking the real question](http://9gag.com/gag/aByd6gQ)
- - 😝 [Who did this appeal to?](http://9gag.com/gag/aoyK3Kw)
- - 💣 [What attacked him? A bat, a spider or 4skin?](http://9gag.com/gag/avyQWx5)
- - 😝 [Damn that father ain&#39;t recovering after that jeez](http://9gag.com/gag/aO8xeGD)
- - 👉 [HIS SCHROCK IS OUT](http://9gag.com/gag/a7oqqyq)<!-- MEMES:END -->
+ - 😝 [Always care for each other](http://9gag.com/gag/aO8x8Zy)
+ - 😝 [No context needed](http://9gag.com/gag/apR99jM)
+ - 💣 [Damn that father ain&#39;t recovering after that jeez](http://9gag.com/gag/aO8xeGD)
+ - 😝 [A mom discovers body parts in her son\u2019s room, and his haunting explanation is straight out of a nightmare](http://9gag.com/gag/aMVEBBG)
+ - 👉 [Goalkeeper randomly gifts little boy with his gloves](http://9gag.com/gag/a0e440B)<!-- MEMES:END -->
 
 ---
 

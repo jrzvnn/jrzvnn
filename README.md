@@ -166,10 +166,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Fears to Fathom have the scariest set pieces in spite of the lofi graphics](http://9gag.com/gag/arymmWX)
- - 😝 [She needs to be punished appropriately](http://9gag.com/gag/a5QX6LE)
+ - 😝 [Played them like a damn fiddle](http://9gag.com/gag/avyQexb)
+ - 😝 [`He didnt cry at titanic, do mem even have feelings?` meanwhile men: ...](http://9gag.com/gag/aoyKV12)
  - 💣 [Trudeau resigned](http://9gag.com/gag/a4Poz66)
- - 😝 [Sometime in the 90s](http://9gag.com/gag/avyQygX)
+ - 😝 [Yeah boy](http://9gag.com/gag/a5QXBGE)
  - 👉 [A mom discovers body parts in her son\u2019s room, and his haunting explanation is straight out of a nightmare](http://9gag.com/gag/aMVEBBG)<!-- MEMES:END -->
 
 ---

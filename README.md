@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Guy spins apple using air compressor until it explodes](http://9gag.com/gag/ae9QQD5)
- - 😝 [Kurt Cobain really had a heart of gold.](http://9gag.com/gag/a1mPP9R)
- - 💣 [Mount Everest covered in waste, including 12,000 kilos of human excrement](http://9gag.com/gag/aVvbgMK)
+ - 😝 [Andrew Tate looks like he found the ring and is on his way to becoming Gollum](http://9gag.com/gag/a9yqq0j)
  - 😝 [Sometime in the 90s](http://9gag.com/gag/avyQygX)
- - 👉 [What attacked him? A bat, a spider or 4skin?](http://9gag.com/gag/avyQWx5)<!-- MEMES:END -->
+ - 💣 [Mount Everest covered in waste, including 12,000 kilos of human excrement](http://9gag.com/gag/aVvbgMK)
+ - 😝 [Asking the real question](http://9gag.com/gag/aByd6gQ)
+ - 👉 [Kurt Cobain really had a heart of gold.](http://9gag.com/gag/a1mPP9R)<!-- MEMES:END -->
 
 ---
 

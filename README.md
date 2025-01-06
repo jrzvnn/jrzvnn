@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Mount Everest covered in waste, including 12,000 kilos of human excrement](http://9gag.com/gag/aVvbgMK)
- - 😝 [Man made horrors coming to you soon](http://9gag.com/gag/arymnAV)
- - 💣 [HIS SCHROCK IS OUT](http://9gag.com/gag/a7oqqyq)
- - 😝 [What attacked him? A bat, a spider or 4skin?](http://9gag.com/gag/avyQWx5)
- - 👉 [Andrew Tate looks like he found the ring and is on his way to becoming Gollum](http://9gag.com/gag/a9yqq0j)<!-- MEMES:END -->
+ - 😝 [Andrew Tate looks like he found the ring and is on his way to becoming Gollum](http://9gag.com/gag/a9yqq0j)
+ - 😝 [HIS SCHROCK IS OUT](http://9gag.com/gag/a7oqqyq)
+ - 💣 [Asking the real question](http://9gag.com/gag/aByd6gQ)
+ - 😝 [Always care for each other](http://9gag.com/gag/aO8x8Zy)
+ - 👉 [Fears to Fathom have the scariest set pieces in spite of the lofi graphics](http://9gag.com/gag/arymmWX)<!-- MEMES:END -->
 
 ---
 

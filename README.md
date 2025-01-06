@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Hisense’s TriChroma TV could be the middle ground between Mini LED and MicroLED](https://www.theverge.com/2025/1/6/24337147/hisense-microled-trichroma-tv-features-specs)
+ - [Google will use more mics and Gemini AI to get you to talk to your TV](https://www.theverge.com/2025/1/6/24337314/google-tv-gemini-integration-ai-ces-2025)
  - [LG TVs are getting Xbox Cloud Gaming](https://www.theverge.com/2025/1/6/24337366/xbox-cloud-gaming-lg-tvs-ces-2025)
- - [Lockly&#39;s new HomeKit door locks &amp; cameras offer security &amp; AI upgrades](https://appleinsider.com/articles/25/01/06/locklys-new-homekit-door-locks-cameras-offer-security-ai-upgrades?utm_medium=rss)
- - [Tencent&#39;s stock drops 6%+ after the US DoD added it to a blacklist of companies with alleged ties to China&#39;s military; it may face delisting or index removals &lpar;Bloomberg&rpar;](http://www.techmeme.com/250106/p21#a250106p21)
- - [Aqara reveals new smart home control center and more sensors at CES](https://appleinsider.com/articles/25/01/06/aqara-reveals-new-smart-home-control-center-and-more-sensors-at-ces?utm_medium=rss)
- - [Intel won’t kill off its graphics card business](https://www.theverge.com/2025/1/6/24337345/intel-discrete-gpu-ces-2025)<!-- TECH:END -->
+ - [Best Cooling Mattress for Hot Sleepers in 2025](https://www.cnet.com/health/sleep/best-cooling-mattress/#ftag=CAD590a51e)
+ - [Lockly&#39;s new HomeKit door locks &amp; cameras offer security &amp; AI upgrades](https://appleinsider.com/articles/25/01/06/locklys-new-homekit-door-locks-cameras-offer-security-ai-upgrades?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

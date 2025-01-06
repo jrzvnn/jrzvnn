@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [More Android phones with Qi2 wireless charging will finally show up in 2025](https://www.theverge.com/2025/1/6/24337323/more-android-phones-qi2-ready-certification-wireless-magnetic-charging-ces-2025)
- - [Gemini agrees to pay $5M to end a CFTC claim that it misled the derivatives regulator in a bid to launch the first US-regulated Bitcoin futures contract &lpar;Bob Van Voris/Bloomberg&rpar;](http://www.techmeme.com/250106/p22#a250106p22)
- - [Hisense’s TriChroma TV could be the middle ground between Mini LED and MicroLED](https://www.theverge.com/2025/1/6/24337147/hisense-microled-trichroma-tv-features-specs)
- - [Google will use more mics and Gemini AI to get you to talk to your TV](https://www.theverge.com/2025/1/6/24337314/google-tv-gemini-integration-ai-ces-2025)
- - [LG TVs are getting Xbox Cloud Gaming](https://www.theverge.com/2025/1/6/24337366/xbox-cloud-gaming-lg-tvs-ces-2025)<!-- TECH:END -->
+ - [Apple releases iOS 18.2.1 and iPadOS 18.2.1 bug-fix updates](https://appleinsider.com/articles/25/01/06/apple-releases-ios-1821-and-ipados-1821-bug-fix-updates?utm_medium=rss)
+ - [John Deere says its self-driving tractors and trucks will help address labor shortages](https://www.theverge.com/2025/1/6/24334357/john-deere-autonomous-tractor-truck-orchard-mow-ces)
+ - [Here are the best AirPods deals you can get right now](https://www.theverge.com/21302051/best-apple-airpods-deals)
+ - [Aukey refreshes MagFusion charging line with two new chargers at CES 2025](https://appleinsider.com/articles/25/01/06/aukey-refreshes-magfusion-charging-line-with-two-new-chargers-at-ces-2025?utm_medium=rss)
+ - [More Android phones with Qi2 wireless charging will finally show up in 2025](https://www.theverge.com/2025/1/6/24337323/more-android-phones-qi2-ready-certification-wireless-magnetic-charging-ces-2025)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

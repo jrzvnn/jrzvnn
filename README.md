@@ -160,8 +160,8 @@ R                        1 repo              ░░░░░░░░░░░�
  - [Asus unveils the 2025 Asus XG Mobile, a $1,200+ portable docking station with the world&#39;s first Thunderbolt 5 eGPU, with an option to add a GeForce RTX 5090 &lpar;Sean Hollister/The Verge&rpar;](http://www.techmeme.com/250107/p35#a250107p35)
  - [Meta&#39;s fact-checking partners, including USA Today, say they were blindsided by Meta&#39;s decision to drop them and reject claims of being &quot;too politically biased&quot; &lpar;David Gilbert/Wired&rpar;](http://www.techmeme.com/250107/p34#a250107p34)
  - [Reolink’s new cameras can record 24/7 without a power outlet or internet connection](https://www.theverge.com/2025/1/7/24336220/reolinks-24-7-altas-cameras-battery-solar-specs-price-ces)
- - [Honda Zero is ready to blast off with all-new sedan and SUV EVs](https://www.theverge.com/2025/1/7/24338134/honda-zero-saloon-suv-ev-asimo-os-ces)
- - [Meta Now Lets Users Say Gay and Trans People Have &#39;Mental Illness&#39;](https://www.wired.com/story/meta-immigration-gender-policies-change/)<!-- TECH:END -->
+ - [I Took a Ride in an EV That Doesn&#39;t Need to Plug In](https://www.cnet.com/roadshow/news/i-took-a-ride-in-an-ev-that-doesnt-need-to-plug-in/#ftag=CAD590a51e)
+ - [The Most Innovative Products From CES 2025 That You Can Actually Get Your Hands On](https://www.cnet.com/deals/the-most-innovative-products-from-ces-2025-that-you-can-actually-get-your-hands-on/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

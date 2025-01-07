@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Who did this appeal to?](http://9gag.com/gag/aoyK3Kw)
- - 😝 [The fake `snow` used in Dawson&#39;s Creek](http://9gag.com/gag/a34ZGDr)
- - 💣 [Fisherman struck by lightning twice](http://9gag.com/gag/a6Zq5r2)
  - 😝 [Look how fast and easy it is to shop in London. Putting China&#39;s palm-scanning payment system to shame.](http://9gag.com/gag/awyZ1KB)
- - 👉 [Asking the real question](http://9gag.com/gag/aByd6gQ)<!-- MEMES:END -->
+ - 😝 [They are eating the dogs they are eating the rats](http://9gag.com/gag/aPAggLG)
+ - 💣 [Sometime in the 90s](http://9gag.com/gag/avyQygX)
+ - 😝 [A German guy in Pakistan is shocked by what the locals think of Hitler](http://9gag.com/gag/aVvbE0P)
+ - 👉 [9gag, do your duty](http://9gag.com/gag/amoAWZj)<!-- MEMES:END -->
 
 ---
 

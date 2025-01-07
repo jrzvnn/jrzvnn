@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Fisherman struck by lightning twice](http://9gag.com/gag/a6Zq5r2)
- - 😝 [Damn that father ain&#39;t recovering after that jeez](http://9gag.com/gag/aO8xeGD)
- - 💣 [Now thats a gender equality](http://9gag.com/gag/a87q0nO)
  - 😝 [9gag, do your duty](http://9gag.com/gag/amoAWZj)
- - 👉 [Screaming almost helped](http://9gag.com/gag/aLn1zoP)<!-- MEMES:END -->
+ - 😝 [Now thats a gender equality](http://9gag.com/gag/a87q0nO)
+ - 💣 [In 2011, a 29-year-old Australian bartender found an ATM glitch that allowed him to withdraw way beyond his balance. In a bender that lasted four-and-half months, he managed to spend around $1.6 million of the bank\u2019s money.](http://9gag.com/gag/aqyeXBP)
+ - 😝 [Asking the real question](http://9gag.com/gag/aByd6gQ)
+ - 👉 [Damn that father ain&#39;t recovering after that jeez](http://9gag.com/gag/aO8xeGD)<!-- MEMES:END -->
 
 ---
 

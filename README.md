@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sony is working on Horizon Zero Dawn and Helldivers 2 movies](https://www.theverge.com/2025/1/6/24337875/sony-playstation-horizon-zero-dawn-helldivers-2-ghosts-of-tsushima-movie-tv-show)
- - [U-Tec Ultraloq is first to market with UWB smart lock at CES 2025](https://appleinsider.com/articles/25/01/07/u-tec-ultraloq-is-first-to-market-with-uwb-smart-lock-at-ces-2025?utm_medium=rss)
- - [The Last of Us season 2 will premiere in April](https://www.theverge.com/2025/1/6/24337876/last-of-us-season-two-release-date-hbo-max-announced)
- - [There’s a new contender for budget smartwatch king](https://www.theverge.com/2025/1/6/24336409/amazfit-active-2-hands-on-specs-price-ces-2025)
- - [Sony’s Xyn is a prototype VR headset for making 3D games and movies](https://www.theverge.com/2025/1/6/24337597/sony-xyn-vr-headset-prototype-3d-games-movies)<!-- TECH:END -->
+ - [Nvidia announces next-gen RTX 5090 and RTX 5080 GPUs](https://www.theverge.com/2025/1/6/24337396/nvidia-rtx-5080-5090-5070-ti-5070-price-release-date)
+ - [Eureka J15 Max Ultra robot cleaner can now see water on wet floors](https://appleinsider.com/articles/25/01/07/eureka-j15-max-ultra-robot-cleaner-can-now-see-water-on-wet-floors?utm_medium=rss)
+ - [Anker announces impressive charging tech at CES 2025 including solar umbrella](https://appleinsider.com/articles/25/01/07/anker-announces-impressive-charging-tech-at-ces-2025-including-solar-umbrella?utm_medium=rss)
+ - [Anker’s solar umbrella uses next-gen perovskite cells to keep a longer charge](https://www.theverge.com/2025/1/6/24334891/anker-perovskite-solar-umbrella-everfrost-fridge-dates-specs)
+ - [Anker’s new wall charger has ports on the bottom to help it stay plugged in](https://www.theverge.com/2025/1/6/24332180/anker-wall-charger-140w-power-bank-retractable-cables-price)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

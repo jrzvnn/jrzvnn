@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [12 Easy Habits to Reinvent Your Health This Year](https://www.cnet.com/health/easy-habits-reinvent-your-health-this-year/#ftag=CAD590a51e)
  - [Dutch chipmaker NXP agrees to buy TTTech Auto, a Vienna-based automotive safety software provider, for $625M in cash, aiming to boost its automotive operations &lpar;Toby Sterling/Reuters&rpar;](http://www.techmeme.com/250107/p8#a250107p8)
  - [Correcting Genetic Spelling Errors With Next-Generation Crispr](https://www.wired.com/story/correcting-genetic-spelling-errors-with-next-generation-crispr/)
- - [Satya Nadella says Microsoft will invest about $3B to expand its Azure cloud and AI capacity in India and train 10 million people in AI in the country by 2030 &lpar;Reuters&rpar;](http://www.techmeme.com/250107/p7#a250107p7)
- - [Satellites Can Now Identify Methane ‘Super-Emitters’](https://www.wired.com/story/satellites-global-methane-emissions-greenhouse-gas/)
- - [Philips Hue is getting an AI-powered lighting assistant](https://www.theverge.com/2025/1/7/24337219/philips-hue-ai-lighting-assistant-smart-lights-home-ces-2025)<!-- TECH:END -->
+ - [Give Your Savings a Boost With APYs Close to 5%. Today&#39;s Savings Rates, Jan. 7, 2025](https://www.cnet.com/personal-finance/banking/give-your-savings-a-boost-with-apys-close-to-5-todays-savings-rates-jan-7-2025/#ftag=CAD590a51e)
+ - [Satya Nadella says Microsoft will invest about $3B to expand its Azure cloud and AI capacity in India and train 10 million people in AI in the country by 2030 &lpar;Reuters&rpar;](http://www.techmeme.com/250107/p7#a250107p7)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

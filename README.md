@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Mount Everest covered in waste, including 12,000 kilos of human excrement](http://9gag.com/gag/aVvbgMK)
+ - 😝 [A re-education camp in China.](http://9gag.com/gag/aW4GpW6)
  - 😝 [Why does this happen?](http://9gag.com/gag/a5QXB1G)
- - 💣 [In 2016, a guy hijacked an Egyptian airline with explosives packed to him. A British man on board asked for a picture with the hijacker as it was happening](http://9gag.com/gag/axyov8Y)
- - 😝 [In Philippines, crocodiles pretend to be a drowning human to get human food](http://9gag.com/gag/apR91Wb)
- - 👉 [The Beast](http://9gag.com/gag/aYQVGzN)<!-- MEMES:END -->
+ - 💣 [Mount Everest covered in waste, including 12,000 kilos of human excrement](http://9gag.com/gag/aVvbgMK)
+ - 😝 [Exposing a cheater :D](http://9gag.com/gag/aqyeRwv)
+ - 👉 [In Philippines, crocodiles pretend to be a drowning human to get human food](http://9gag.com/gag/apR91Wb)<!-- MEMES:END -->
 
 ---
 

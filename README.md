@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Played them like a damn fiddle](http://9gag.com/gag/avyQexb)
- - 😝 [`He didnt cry at titanic, do mem even have feelings?` meanwhile men: ...](http://9gag.com/gag/aoyKV12)
- - 💣 [Trudeau resigned](http://9gag.com/gag/a4Poz66)
- - 😝 [Yeah boy](http://9gag.com/gag/a5QXBGE)
- - 👉 [A mom discovers body parts in her son\u2019s room, and his haunting explanation is straight out of a nightmare](http://9gag.com/gag/aMVEBBG)<!-- MEMES:END -->
+ - 😝 [Fisherman struck by lightning twice](http://9gag.com/gag/a6Zq5r2)
+ - 😝 [The No-Touch Game](http://9gag.com/gag/aZZDnG0)
+ - 💣 [Kurt Cobain really had a heart of gold.](http://9gag.com/gag/a1mPP9R)
+ - 😝 [What attacked him? A bat, a spider or 4skin?](http://9gag.com/gag/avyQWx5)
+ - 👉 [In Philippines, crocodiles pretend to be a drowning human to get human food](http://9gag.com/gag/apR91Wb)<!-- MEMES:END -->
 
 ---
 

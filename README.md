@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Satellites Can Now Identify Methane ‘Super-Emitters’](https://www.wired.com/story/satellites-global-methane-emissions-greenhouse-gas/)
  - [Philips Hue is getting an AI-powered lighting assistant](https://www.theverge.com/2025/1/7/24337219/philips-hue-ai-lighting-assistant-smart-lights-home-ces-2025)
  - [Dyson Promo Code: 20% + Up to $300 Off](https://www.wired.com/story/dyson-cordless-vacuum-promo-code/)
  - [US bitcoin miners, including Riot Platforms, leveraged BTC&#39;s recent price surge to raise $3.7B+ from investors since November, and used the funds to buy coins &lpar;Niamh Rowe/Financial Times&rpar;](http://www.techmeme.com/250107/p6#a250107p6)
- - [Jensen Huang predicts robotics could become &quot;the largest technology industry the world has ever seen&quot;; Nvidia: the humanoids market to reach $38B in 20 years &lpar;Michael Acton/Financial Times&rpar;](http://www.techmeme.com/250107/p5#a250107p5)
- - [Sources: Apple plans to expand Apple News in more countries and considered building locally focused news coverage in the UK; Apple News has 125M monthly users &lpar;Daniel Thomas/Financial Times&rpar;](http://www.techmeme.com/250107/p4#a250107p4)<!-- TECH:END -->
+ - [Jensen Huang predicts robotics could become &quot;the largest technology industry the world has ever seen&quot;; Nvidia: the humanoids market to reach $38B in 20 years &lpar;Michael Acton/Financial Times&rpar;](http://www.techmeme.com/250107/p5#a250107p5)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

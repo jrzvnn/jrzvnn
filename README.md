@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [9gag, do your duty](http://9gag.com/gag/amoAWZj)
+ - 😝 [How to be kind, smart and f**king dumb in less than 30 seconds...](http://9gag.com/gag/aVvbKLn)
+ - 😝 [Now thats a gender equality](http://9gag.com/gag/a87q0nO)
+ - 💣 [What attacked him? A bat, a spider or 4skin?](http://9gag.com/gag/avyQWx5)
  - 😝 [Man goes around slashing random peoples tires](http://9gag.com/gag/aNDwvnK)
- - 💣 [Damn that father ain&#39;t recovering after that jeez](http://9gag.com/gag/aO8xeGD)
- - 😝 [New year new me](http://9gag.com/gag/an7z280)
- - 👉 [In 2011, a 29-year-old Australian bartender found an ATM glitch that allowed him to withdraw way beyond his balance. In a bender that lasted four-and-half months, he managed to spend around $1.6 million of the bank\u2019s money.](http://9gag.com/gag/aqyeXBP)<!-- MEMES:END -->
+ - 👉 [Asking the real question](http://9gag.com/gag/aByd6gQ)<!-- MEMES:END -->
 
 ---
 

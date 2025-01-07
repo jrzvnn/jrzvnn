@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Mount Everest covered in waste, including 12,000 kilos of human excrement](http://9gag.com/gag/aVvbgMK)
- - 😝 [Wholesome and rare behavior but lady was reaching for pepper spray](http://9gag.com/gag/a1mPNbR)
- - 💣 [The Beast](http://9gag.com/gag/aYQVGzN)
+ - 😝 [A German guy in Pakistan is shocked by what the locals think of Hitler](http://9gag.com/gag/aVvbE0P)
+ - 😝 [Player makes sure ball girl is OK after getting hit by tennis ball.](http://9gag.com/gag/a5QXVKG)
+ - 💣 [Mount Everest covered in waste, including 12,000 kilos of human excrement](http://9gag.com/gag/aVvbgMK)
  - 😝 [Man goes around slashing random peoples tires](http://9gag.com/gag/aNDwvnK)
- - 👉 [Player makes sure ball girl is OK after getting hit by tennis ball.](http://9gag.com/gag/a5QXVKG)<!-- MEMES:END -->
+ - 👉 [What attacked him? A bat, a spider or 4skin?](http://9gag.com/gag/avyQWx5)<!-- MEMES:END -->
 
 ---
 

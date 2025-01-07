@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [9gag, do your duty](http://9gag.com/gag/amoAWZj)
- - 😝 [New year new me](http://9gag.com/gag/an7z280)
+ - 😝 [Tameshigiri Master demonstrates how useless a katana could be without the proper technique &amp; skills](http://9gag.com/gag/a5QXwGG)
+ - 😝 [The fake `snow` used in Dawson&#39;s Creek](http://9gag.com/gag/a34ZGDr)
  - 💣 [Now thats a gender equality](http://9gag.com/gag/a87q0nO)
- - 😝 [Exposing a cheater :D](http://9gag.com/gag/aqyeRwv)
- - 👉 [Damn that father ain&#39;t recovering after that jeez](http://9gag.com/gag/aO8xeGD)<!-- MEMES:END -->
+ - 😝 [In 2011, a 29-year-old Australian bartender found an ATM glitch that allowed him to withdraw way beyond his balance. In a bender that lasted four-and-half months, he managed to spend around $1.6 million of the bank\u2019s money.](http://9gag.com/gag/aqyeXBP)
+ - 👉 [9gag, do your duty](http://9gag.com/gag/amoAWZj)<!-- MEMES:END -->
 
 ---
 

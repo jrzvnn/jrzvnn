@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Fisherman struck by lightning twice](http://9gag.com/gag/a6Zq5r2)
- - 😝 [The No-Touch Game](http://9gag.com/gag/aZZDnG0)
- - 💣 [Kurt Cobain really had a heart of gold.](http://9gag.com/gag/a1mPP9R)
- - 😝 [What attacked him? A bat, a spider or 4skin?](http://9gag.com/gag/avyQWx5)
- - 👉 [In Philippines, crocodiles pretend to be a drowning human to get human food](http://9gag.com/gag/apR91Wb)<!-- MEMES:END -->
+ - 😝 [Who did this appeal to?](http://9gag.com/gag/aoyK3Kw)
+ - 😝 [The fake `snow` used in Dawson&#39;s Creek](http://9gag.com/gag/a34ZGDr)
+ - 💣 [Fisherman struck by lightning twice](http://9gag.com/gag/a6Zq5r2)
+ - 😝 [Look how fast and easy it is to shop in London. Putting China&#39;s palm-scanning payment system to shame.](http://9gag.com/gag/awyZ1KB)
+ - 👉 [Asking the real question](http://9gag.com/gag/aByd6gQ)<!-- MEMES:END -->
 
 ---
 

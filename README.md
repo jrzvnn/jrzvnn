@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Nvidia says the RTX 5090 has 92B transistors, 4,000 AI TOPS, and GDDR7 memory, with support for next-gen DLSS 4, which can now generate multiple frames at once &lpar;Brian Heater/TechCrunch&rpar;](http://www.techmeme.com/250106/p37#a250106p37)
+ - [Plugable debuts 5 Display Dock, 10-port USB-C Charger, and DisplayLink Pro Quad Display Adapter at CES 2025](https://appleinsider.com/articles/25/01/07/plugable-debuts-5-display-dock-10-port-usb-c-charger-and-displaylink-pro-quad-display-adapter-at-ces-2025?utm_medium=rss)
+ - [Nvidia reveals the RTX 50-series Blackwell GPUs: a $1,999 RTX 5090, a $999 RTX 5080, a $749 RTX 5070 Ti, and a $549 RTX 5070, available starting in January &lpar;Tom Warren/The Verge&rpar;](http://www.techmeme.com/250106/p36#a250106p36)
  - [Nvidia announces next-gen RTX 5090 and RTX 5080 GPUs](https://www.theverge.com/2025/1/6/24337396/nvidia-rtx-5080-5090-5070-ti-5070-price-release-date)
- - [Eureka J15 Max Ultra robot cleaner can now see water on wet floors](https://appleinsider.com/articles/25/01/07/eureka-j15-max-ultra-robot-cleaner-can-now-see-water-on-wet-floors?utm_medium=rss)
- - [Anker announces impressive charging tech at CES 2025 including solar umbrella](https://appleinsider.com/articles/25/01/07/anker-announces-impressive-charging-tech-at-ces-2025-including-solar-umbrella?utm_medium=rss)
- - [Anker’s solar umbrella uses next-gen perovskite cells to keep a longer charge](https://www.theverge.com/2025/1/6/24334891/anker-perovskite-solar-umbrella-everfrost-fridge-dates-specs)
- - [Anker’s new wall charger has ports on the bottom to help it stay plugged in](https://www.theverge.com/2025/1/6/24332180/anker-wall-charger-140w-power-bank-retractable-cables-price)<!-- TECH:END -->
+ - [Eureka J15 Max Ultra robot cleaner can now see water on wet floors](https://appleinsider.com/articles/25/01/07/eureka-j15-max-ultra-robot-cleaner-can-now-see-water-on-wet-floors?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

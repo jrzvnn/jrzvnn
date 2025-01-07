@@ -166,10 +166,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [The fake `snow` used in Dawson&#39;s Creek](http://9gag.com/gag/a34ZGDr)
  - 😝 [9gag, do your duty](http://9gag.com/gag/amoAWZj)
- - 💣 [Player makes sure ball girl is OK after getting hit by tennis ball.](http://9gag.com/gag/a5QXVKG)
- - 😝 [In 2016, a guy hijacked an Egyptian airline with explosives packed to him. A British man on board asked for a picture with the hijacker as it was happening](http://9gag.com/gag/axyov8Y)
+ - 😝 [Asking the real question](http://9gag.com/gag/aByd6gQ)
+ - 💣 [In 2016, a guy hijacked an Egyptian airline with explosives packed to him. A British man on board asked for a picture with the hijacker as it was happening](http://9gag.com/gag/axyov8Y)
+ - 😝 [Man trying to control his dog around two girls doing yoga](http://9gag.com/gag/ajPV1Nq)
  - 👉 [Can you fix her?](http://9gag.com/gag/a6Zq5b8)<!-- MEMES:END -->
 
 ---

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Meta says it&#39;s testing an &quot;Imagine Yourself&quot; feature announced in September that automatically generates AI images of a user and puts them into that user&#39;s feed &lpar;Jason Koebler/404 Media&rpar;](http://www.techmeme.com/250106/p33#a250106p33)
- - [Apple says it will ‘clarify’ AI summaries after botching BBC headlines](https://www.theverge.com/2025/1/6/24337681/apple-intelligence-summary-bbc-news-luigi-mangione-response)
- - [Samsung schedules its next Galaxy Unpacked event for January 22 at 10AM PT in San Jose, where Galaxy AI updates, the Galaxy S25, and more are expected &lpar;Ben Schoon/9to5Google&rpar;](http://www.techmeme.com/250106/p32#a250106p32)
- - [The best robot vacuums](https://www.theverge.com/22997597/best-robot-vacuum-cleaner)
- - [Samsung announces new Galaxy Book5 Pro and Book5 360 laptops with Intel Arrow Lake Core Ultra processors, available in the US, Canada, UK, and more in February &lpar;Umar Shakir/The Verge&rpar;](http://www.techmeme.com/250106/p31#a250106p31)<!-- TECH:END -->
+ - [Sony’s Xyn is a prototype VR headset for making 3D games and movies](https://www.theverge.com/2025/1/6/24337597/sony-xyn-vr-headset-prototype-3d-games-movies)
+ - [This toaster-looking gadget boosts your phone’s battery in seconds](https://www.theverge.com/2025/1/6/24337684/swippitt-phone-charging-system-ces-2025)
+ - [Sony and Honda’s Afeela electric car will start at $89,900](https://www.theverge.com/2025/1/6/24336375/sony-honda-afeela-ev-preorder-price-ces)
+ - [We Tried On Nike Shoes That Look Like Boats and Can Squeeze and Heat Your Strained, Weary Feet](https://www.cnet.com/tech/mobile/we-tried-on-nike-shoes-that-look-like-boats-and-can-squeeze-and-heat-your-strained-weary-feet/#ftag=CAD590a51e)
+ - [CES 2025: Hands-On With the Displace TV, Which Sticks to a Wall With Suction Cups](https://www.cnet.com/pictures/ces-2025-hands-on-with-the-displace-tv-which-sticks-to-a-wall-with-suction-cups/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

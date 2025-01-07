@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [2025 Swift Student Challenge submissions open February 3](https://appleinsider.com/articles/25/01/07/2025-swift-student-challenge-submissions-open-february-3?utm_medium=rss)
- - [The Health Monitoring Boom Only Gets Weirder From Here](https://www.wired.com/story/the-health-monitoring-boom-only-gets-weirder-from-here/)
- - [Blue Ghost Lunar Lander scheduled to launch on January 15th](https://www.theverge.com/2025/1/7/24338415/firefly-blue-ghost-1-moon-landing-spacex-nasa-mission)
- - [New Nike Therapeutic Shoes at CES 2025 Look Like Nothing You&#39;ve Ever Seen Before](https://www.cnet.com/tech/mobile/new-nike-therapeutic-shoes-at-ces-2025-look-like-nothing-youve-ever-seen-before/#ftag=CAD590a51e)
- - [The best budget robot vacuums](https://www.theverge.com/23846479/best-budget-robot-vacuum-robot-mop)<!-- TECH:END -->
+ - [The maker of the electric USPS truck is also building garbage robots and EV firefighters](https://www.theverge.com/2025/1/7/24337602/oshkosh-usps-ev-fire-garbage-robot)
+ - [Best Sleep Headphones of 2025](https://www.cnet.com/health/sleep/headphones-for-sleeping/#ftag=CAD590a51e)
+ - [Best Bluetooth Speaker for 2025](https://www.cnet.com/tech/home-entertainment/best-bluetooth-speaker/#ftag=CAD590a51e)
+ - [I Made Things Weird Trying TSA&#39;s New Shoe Scanner Machine video](https://www.cnet.com/videos/i-made-things-weird-trying-tsas-new-shoe-scanner-machine/#ftag=CAD590a51e)
+ - [Best Noise-Canceling Earbuds for 2025](https://www.cnet.com/tech/mobile/best-noise-canceling-wireless-earbuds/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

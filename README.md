@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Meta&#39;s fact-checking partners, including USA Today, say they were blindsided by Meta&#39;s decision to drop them and reject claims of being &quot;too politically biased&quot; &lpar;David Gilbert/Wired&rpar;](http://www.techmeme.com/250107/p34#a250107p34)
+ - [Reolink’s new cameras can record 24/7 without a power outlet or internet connection](https://www.theverge.com/2025/1/7/24336220/reolinks-24-7-altas-cameras-battery-solar-specs-price-ces)
  - [Honda Zero is ready to blast off with all-new sedan and SUV EVs](https://www.theverge.com/2025/1/7/24338134/honda-zero-saloon-suv-ev-asimo-os-ces)
  - [Meta Now Lets Users Say Gay and Trans People Have &#39;Mental Illness&#39;](https://www.wired.com/story/meta-immigration-gender-policies-change/)
- - [People are taking horrific videos like of mass shootings and using Runway&#39;s AI tools to insert cartoons, likely to bypass social networks&#39; automated moderation &lpar;Emanuel Maiberg/404 Media&rpar;](http://www.techmeme.com/250107/p33#a250107p33)
- - [License Plate Readers Are Leaking Real-Time Video Feeds and Vehicle Data](https://www.wired.com/story/license-plate-reader-live-video-data-exposed/)
- - [Zuckerberg says he’s moving Meta moderators to Texas because California seems too ‘biased’](https://www.theverge.com/2025/1/7/24338305/meta-mark-zuckerberg-moving-meta-moderators-texas-california-bias)<!-- TECH:END -->
+ - [People are taking horrific videos like of mass shootings and using Runway&#39;s AI tools to insert cartoons, likely to bypass social networks&#39; automated moderation &lpar;Emanuel Maiberg/404 Media&rpar;](http://www.techmeme.com/250107/p33#a250107p33)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

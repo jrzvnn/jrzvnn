@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [2025 Swift Student Challenge submissions open February 3](https://appleinsider.com/articles/25/01/07/2025-swift-student-challenge-submissions-open-february-3?utm_medium=rss)
+ - [The Health Monitoring Boom Only Gets Weirder From Here](https://www.wired.com/story/the-health-monitoring-boom-only-gets-weirder-from-here/)
  - [Blue Ghost Lunar Lander scheduled to launch on January 15th](https://www.theverge.com/2025/1/7/24338415/firefly-blue-ghost-1-moon-landing-spacex-nasa-mission)
- - [The best budget robot vacuums](https://www.theverge.com/23846479/best-budget-robot-vacuum-robot-mop)
- - [LG made a slim 32-inch 6K monitor with Thunderbolt 5](https://www.theverge.com/2025/1/7/24338425/lg-ultrafine-32-inch-6k-monitor-thunderbolt-5-ces-2025)
- - [Mark Zuckerberg says Meta will phase back in &quot;civic content&quot;, seemingly a reversal of earlier decisions against recommending political content &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/250107/p36#a250107p36)
- - [RCA’s new camo TVs will blend in perfectly with forest decor](https://www.theverge.com/2025/1/7/24338416/rca-outdoor-television-dust-moisture-resistant-camouflage-qled)<!-- TECH:END -->
+ - [New Nike Therapeutic Shoes at CES 2025 Look Like Nothing You&#39;ve Ever Seen Before](https://www.cnet.com/tech/mobile/new-nike-therapeutic-shoes-at-ces-2025-look-like-nothing-youve-ever-seen-before/#ftag=CAD590a51e)
+ - [The best budget robot vacuums](https://www.theverge.com/23846479/best-budget-robot-vacuum-robot-mop)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

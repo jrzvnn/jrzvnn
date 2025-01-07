@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Sources: Apple plans to expand Apple News in more countries and considered building locally focused news coverage in the UK; Apple News has 125M monthly users &lpar;Daniel Thomas/Financial Times&rpar;](http://www.techmeme.com/250107/p4#a250107p4)
+ - [Nvidia announces early access to Omniverse Cloud Sensor RTX, enabling smarter autonomous machines with generative AI, via APIs for select devs like Accenture &lpar;Dean Takahashi/VentureBeat&rpar;](http://www.techmeme.com/250107/p3#a250107p3)
  - [Nvidia updates its Autonomous Game Characters, says the NPCs can &quot;perceive, plan, and act like human players&quot; in games like PUBG, with &quot;small language models&quot; &lpar;Jay Peters/The Verge&rpar;](http://www.techmeme.com/250107/p2#a250107p2)
  - [Jensen Huang says Nvidia&#39;s Cosmos models for humanoids were trained on 20M hours of real footage of &quot;humans walking, hands moving, manipulating things&quot; &lpar;Will Knight/Wired&rpar;](http://www.techmeme.com/250107/p1#a250107p1)
- - [Whale TV Rolls Out Updated TV OS With AI-Powered Recs, Voice Assistant](https://www.cnet.com/tech/home-entertainment/whale-tv-rolls-out-updated-tv-os-with-ai-powered-recs-voice-assistant/#ftag=CAD590a51e)
- - [Nvidia is bringing a native GeForce Now app to Steam Deck](https://www.theverge.com/2025/1/6/24337977/nvidia-native-geforce-now-app-steam-deck-vr)
- - [Nvidia’s AI NPCs are no longer chatbots — they’re your new PUBG teammate](https://www.theverge.com/2025/1/6/24337949/nvidia-ace-ai-npcs-pubg-ally-teammate)<!-- TECH:END -->
+ - [Whale TV Rolls Out Updated TV OS With AI-Powered Recs, Voice Assistant](https://www.cnet.com/tech/home-entertainment/whale-tv-rolls-out-updated-tv-os-with-ai-powered-recs-voice-assistant/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

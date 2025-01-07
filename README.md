@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Man goes around slashing random peoples tires](http://9gag.com/gag/aNDwvnK)
- - 😝 [Fisherman struck by lightning twice](http://9gag.com/gag/a6Zq5r2)
+ - 😝 [In 2011, a 29-year-old Australian bartender found an ATM glitch that allowed him to withdraw way beyond his balance. In a bender that lasted four-and-half months, he managed to spend around $1.6 million of the bank\u2019s money.](http://9gag.com/gag/aqyeXBP)
+ - 😝 [In 2016, a guy hijacked an Egyptian airline with explosives packed to him. A British man on board asked for a picture with the hijacker as it was happening](http://9gag.com/gag/axyov8Y)
  - 💣 [New year new me](http://9gag.com/gag/an7z280)
- - 😝 [What attacked him? A bat, a spider or 4skin?](http://9gag.com/gag/avyQWx5)
- - 👉 [9gag, do your duty](http://9gag.com/gag/amoAWZj)<!-- MEMES:END -->
+ - 😝 [Man goes around slashing random peoples tires](http://9gag.com/gag/aNDwvnK)
+ - 👉 [Now thats a gender equality](http://9gag.com/gag/a87q0nO)<!-- MEMES:END -->
 
 ---
 

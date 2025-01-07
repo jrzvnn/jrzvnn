@@ -158,10 +158,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- TECH:START -->
  - [Jensen Huang says Nvidia&#39;s Cosmos models for humanoids were trained on 20M hours of real footage of &quot;humans walking, hands moving, manipulating things&quot; &lpar;Will Knight/Wired&rpar;](http://www.techmeme.com/250107/p1#a250107p1)
+ - [Whale TV Rolls Out Updated TV OS With AI-Powered Recs, Voice Assistant](https://www.cnet.com/tech/home-entertainment/whale-tv-rolls-out-updated-tv-os-with-ai-powered-recs-voice-assistant/#ftag=CAD590a51e)
  - [Nvidia is bringing a native GeForce Now app to Steam Deck](https://www.theverge.com/2025/1/6/24337977/nvidia-native-geforce-now-app-steam-deck-vr)
  - [Nvidia’s AI NPCs are no longer chatbots — they’re your new PUBG teammate](https://www.theverge.com/2025/1/6/24337949/nvidia-ace-ai-npcs-pubg-ally-teammate)
- - [Nvidia&#39;s &#39;Cosmos&#39; AI Helps Humanoid Robots Navigate the World](https://www.wired.com/story/nvidia-cosmos-ai-helps-robots-self-driving-cars/)
- - [The ROG Strix Scar 16 and 18 come with a lid that lights up and more RGB](https://www.theverge.com/2025/1/6/24336394/asus-rog-strix-scar-16-18-specs-price-ces-2025)<!-- TECH:END -->
+ - [Nvidia&#39;s &#39;Cosmos&#39; AI Helps Humanoid Robots Navigate the World](https://www.wired.com/story/nvidia-cosmos-ai-helps-robots-self-driving-cars/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

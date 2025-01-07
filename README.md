@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [New year new me](http://9gag.com/gag/an7z280)
+ - 😝 [Asking the real question](http://9gag.com/gag/aByd6gQ)
  - 😝 [`One of the best investments you could possibly make.` Good luck to the owners wanting to sell theirs. LOL](http://9gag.com/gag/aQzE7b2)
- - 💣 [In 2011, a 29-year-old Australian bartender found an ATM glitch that allowed him to withdraw way beyond his balance. In a bender that lasted four-and-half months, he managed to spend around $1.6 million of the bank\u2019s money.](http://9gag.com/gag/aqyeXBP)
- - 😝 [In Philippines, crocodiles pretend to be a drowning human to get human food](http://9gag.com/gag/apR91Wb)
- - 👉 [Press to win a prize](http://9gag.com/gag/aoyKVE0)<!-- MEMES:END -->
+ - 💣 [New year new me](http://9gag.com/gag/an7z280)
+ - 😝 [Screaming almost helped](http://9gag.com/gag/aLn1zoP)
+ - 👉 [Exposing a cheater :D](http://9gag.com/gag/aqyeRwv)<!-- MEMES:END -->
 
 ---
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [iPad 11, iPad Air, iPhone SE 4 expected in April, despite January launch rumors](https://appleinsider.com/articles/25/01/07/ipad-11-ipad-air-iphone-se-4-expected-in-april-despite-january-launch-rumors?utm_medium=rss)
+ - [Washington state&#39;s AG sues T-Mobile, claiming the carrier failed to adequately secure sensitive personal information of 2M+ residents in a 2021 cyberattack &lpar;Kurt Schlosser/GeekWire&rpar;](http://www.techmeme.com/250107/p37#a250107p37)
+ - [The First US Bird Flu Death Is a Stark Warning](https://www.wired.com/story/the-first-us-bird-flu-death-is-a-stark-warning/)
  - [The maker of the electric USPS truck is also building garbage robots and EV firefighters](https://www.theverge.com/2025/1/7/24337602/oshkosh-usps-ev-fire-garbage-robot)
- - [Best Sleep Headphones of 2025](https://www.cnet.com/health/sleep/headphones-for-sleeping/#ftag=CAD590a51e)
- - [Best Bluetooth Speaker for 2025](https://www.cnet.com/tech/home-entertainment/best-bluetooth-speaker/#ftag=CAD590a51e)
- - [I Made Things Weird Trying TSA&#39;s New Shoe Scanner Machine video](https://www.cnet.com/videos/i-made-things-weird-trying-tsas-new-shoe-scanner-machine/#ftag=CAD590a51e)
- - [Best Noise-Canceling Earbuds for 2025](https://www.cnet.com/tech/mobile/best-noise-canceling-wireless-earbuds/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Best Sleep Headphones of 2025](https://www.cnet.com/health/sleep/headphones-for-sleeping/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

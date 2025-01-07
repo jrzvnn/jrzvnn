@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [LG made a slim 32-inch 6K monitor with Thunderbolt 5](https://www.theverge.com/2025/1/7/24338425/lg-ultrafine-32-inch-6k-monitor-thunderbolt-5-ces-2025)
+ - [Mark Zuckerberg says Meta will phase back in &quot;civic content&quot;, seemingly a reversal of earlier decisions against recommending political content &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/250107/p36#a250107p36)
+ - [RCA’s new camo TVs will blend in perfectly with forest decor](https://www.theverge.com/2025/1/7/24338416/rca-outdoor-television-dust-moisture-resistant-camouflage-qled)
  - [The 42 Best Shows on Hulu Right Now &lpar;January 2025&rpar;](https://www.wired.com/story/best-tv-shows-hulu-this-week/)
- - [Savant’s new smart budget system lets you control your home’s electrical load](https://www.theverge.com/2025/1/7/24338151/savant-smart-budget-circuit-breaker-modules-smart-home-control-energy-monitoring)
- - [Valve will officially let you install SteamOS on other handhelds as soon as this April](https://www.theverge.com/2025/1/7/24338405/valve-steamos-beta-other-handhelds-beyond-steam-deck)
- - [Asus unveils the 2025 Asus XG Mobile, a $1,200+ portable docking station with the world&#39;s first Thunderbolt 5 eGPU, with an option to add a GeForce RTX 5090 &lpar;Sean Hollister/The Verge&rpar;](http://www.techmeme.com/250107/p35#a250107p35)
- - [Meta&#39;s fact-checking partners, including USA Today, say they were blindsided by Meta&#39;s decision to drop them and reject claims of being &quot;too politically biased&quot; &lpar;David Gilbert/Wired&rpar;](http://www.techmeme.com/250107/p34#a250107p34)<!-- TECH:END -->
+ - [Savant’s new ‘Smart Budget’ system lets you control your home’s electrical load](https://www.theverge.com/2025/1/7/24338151/savant-smart-budget-circuit-breaker-modules-smart-home-control-energy-monitoring)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

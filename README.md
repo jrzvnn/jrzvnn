@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Valerion VisionMaster Pro 2 projector review: Beautiful hardware, amazing image quality](https://appleinsider.com/articles/25/01/07/valerion-visionmaster-pro-2-projector-review-beautiful-hardware-amazing-image-quality?utm_medium=rss)
- - [Zuckerberg, inspired by Musk, abandons fact checking for Community Notes](https://www.theverge.com/2025/1/7/24338062/facebook-instagram-threads-meta-abandon-fact-checking)
- - [Chipmaker NXP agrees to buy Austrian automotive software developer TTTech Auto for $625M in cash to build out its products for software-defined vehicle makers &lpar;Cagan Koc/Bloomberg&rpar;](http://www.techmeme.com/250107/p12#a250107p12)
- - [Microsoft Says It&#39;s Time to Replace Your Old Windows 10 PC](https://www.wired.com/story/microsoft-says-its-time-to-replace-your-old-windows-10-pc/)
- - [Joel Kaplan says the Trump administration is &quot;a huge supporter of free expression&quot; and &quot;gets us back to the values that Mark founded the company on&quot; &lpar;Fox News&rpar;](http://www.techmeme.com/250107/p11#a250107p11)<!-- TECH:END -->
+ - [Getty Images Holdings and Shutterstock agree to merge in a deal that creates a $3.7B company; Getty CEO Craig Peters will remain CEO of the combined business &lpar;Michael Flaherty/Axios&rpar;](http://www.techmeme.com/250107/p14#a250107p14)
+ - [Segway at CES: a powerful pair of e-bikes, a 50mph scooter, and a robot mower](https://www.theverge.com/2025/1/7/24336284/segway-e-bike-scooter-xyber-xafari-gt3-mower-price-ces)
+ - [The 12 Best TVs We’ve Reviewed, Plus Buying Advice &lpar;2025&rpar;](https://www.wired.com/gallery/best-tvs/)
+ - [This all-electric robo-bus has swappable batteries and can fit 30 passengers](https://www.theverge.com/2025/1/7/24336904/may-mobility-tecnobus-autonomous-minibus)
+ - [Goodyear’s smart tires can sense rain and ice for improved emergency braking](https://www.theverge.com/2025/1/7/24336892/goodyear-tire-sightline-aeb-rain-snow)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

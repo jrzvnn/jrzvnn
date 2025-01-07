@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Europe Wanted to Lead the World on EVs. Its Carmakers Can’t Keep Up](https://www.wired.com/story/europe-wanted-to-lead-the-world-on-evs-carmakers-cant-keep-up/)
- - [Does Dry January Really Make People Healthier?](https://www.wired.com/story/does-dry-january-really-make-people-healthier/)
- - [Plugable debuts two new USB-C docks plus 10-port USB-C Charger](https://appleinsider.com/articles/25/01/07/plugable-debuts-5-display-dock-10-port-usb-c-charger-and-displaylink-pro-quad-display-adapter-at-ces-2025?utm_medium=rss)
- - [Indonesia wants more than $1 billion from Apple to lift iPhone ban, welcomes Huawei with open arms](https://appleinsider.com/articles/25/01/07/indonesia-welcomes-huawei-but-wants-still-more-than-1-billion-from-apple?utm_medium=rss)
- - [Google is building its own ‘world modeling’ AI team for games and robot training](https://www.theverge.com/2025/1/7/24338053/google-deepmind-world-modeling-ai-team-gaming-robot-training)<!-- TECH:END -->
+ - [Valerion VisionMaster Pro 2 projector review: Beautiful hardware, amazing image quality](https://appleinsider.com/articles/25/01/07/valerion-visionmaster-pro-2-projector-review-beautiful-hardware-amazing-image-quality?utm_medium=rss)
+ - [Zuckerberg, inspired by Musk, abandons fact checking for Community Notes](https://www.theverge.com/2025/1/7/24338062/facebook-instagram-threads-meta-abandon-fact-checking)
+ - [Chipmaker NXP agrees to buy Austrian automotive software developer TTTech Auto for $625M in cash to build out its products for software-defined vehicle makers &lpar;Cagan Koc/Bloomberg&rpar;](http://www.techmeme.com/250107/p12#a250107p12)
+ - [Microsoft Says It&#39;s Time to Replace Your Old Windows 10 PC](https://www.wired.com/story/microsoft-says-its-time-to-replace-your-old-windows-10-pc/)
+ - [Joel Kaplan says the Trump administration is &quot;a huge supporter of free expression&quot; and &quot;gets us back to the values that Mark founded the company on&quot; &lpar;Fox News&rpar;](http://www.techmeme.com/250107/p11#a250107p11)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

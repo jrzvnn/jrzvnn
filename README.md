@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sony’s Xyn is a prototype VR headset for making 3D games and movies](https://www.theverge.com/2025/1/6/24337597/sony-xyn-vr-headset-prototype-3d-games-movies)
- - [This toaster-looking gadget boosts your phone’s battery in seconds](https://www.theverge.com/2025/1/6/24337684/swippitt-phone-charging-system-ces-2025)
- - [Sony and Honda’s Afeela electric car will start at $89,900](https://www.theverge.com/2025/1/6/24336375/sony-honda-afeela-ev-preorder-price-ces)
- - [We Tried On Nike Shoes That Look Like Boats and Can Squeeze and Heat Your Strained, Weary Feet](https://www.cnet.com/tech/mobile/we-tried-on-nike-shoes-that-look-like-boats-and-can-squeeze-and-heat-your-strained-weary-feet/#ftag=CAD590a51e)
- - [CES 2025: Hands-On With the Displace TV, Which Sticks to a Wall With Suction Cups](https://www.cnet.com/pictures/ces-2025-hands-on-with-the-displace-tv-which-sticks-to-a-wall-with-suction-cups/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Sony is working on Horizon Zero Dawn and Helldivers 2 movies](https://www.theverge.com/2025/1/6/24337875/sony-playstation-horizon-zero-dawn-helldivers-2-ghosts-of-tsushima-movie-tv-show)
+ - [U-Tec Ultraloq is first to market with UWB smart lock at CES 2025](https://appleinsider.com/articles/25/01/07/u-tec-ultraloq-is-first-to-market-with-uwb-smart-lock-at-ces-2025?utm_medium=rss)
+ - [The Last of Us season 2 will premiere in April](https://www.theverge.com/2025/1/6/24337876/last-of-us-season-two-release-date-hbo-max-announced)
+ - [There’s a new contender for budget smartwatch king](https://www.theverge.com/2025/1/6/24336409/amazfit-active-2-hands-on-specs-price-ces-2025)
+ - [Sony’s Xyn is a prototype VR headset for making 3D games and movies](https://www.theverge.com/2025/1/6/24337597/sony-xyn-vr-headset-prototype-3d-games-movies)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

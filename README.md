@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Dutch chipmaker NXP agrees to buy TTTech Auto, a Vienna-based automotive safety software provider, for $625M in cash, aiming to boost its automotive operations &lpar;Toby Sterling/Reuters&rpar;](http://www.techmeme.com/250107/p8#a250107p8)
+ - [Correcting Genetic Spelling Errors With Next-Generation Crispr](https://www.wired.com/story/correcting-genetic-spelling-errors-with-next-generation-crispr/)
  - [Satya Nadella says Microsoft will invest about $3B to expand its Azure cloud and AI capacity in India and train 10 million people in AI in the country by 2030 &lpar;Reuters&rpar;](http://www.techmeme.com/250107/p7#a250107p7)
  - [Satellites Can Now Identify Methane ‘Super-Emitters’](https://www.wired.com/story/satellites-global-methane-emissions-greenhouse-gas/)
- - [Philips Hue is getting an AI-powered lighting assistant](https://www.theverge.com/2025/1/7/24337219/philips-hue-ai-lighting-assistant-smart-lights-home-ces-2025)
- - [Dyson Promo Code: 20% + Up to $300 Off](https://www.wired.com/story/dyson-cordless-vacuum-promo-code/)
- - [US bitcoin miners, including Riot Platforms, leveraged BTC&#39;s recent price surge to raise $3.7B+ from investors since November, and used the funds to buy coins &lpar;Niamh Rowe/Financial Times&rpar;](http://www.techmeme.com/250107/p6#a250107p6)<!-- TECH:END -->
+ - [Philips Hue is getting an AI-powered lighting assistant](https://www.theverge.com/2025/1/7/24337219/philips-hue-ai-lighting-assistant-smart-lights-home-ces-2025)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

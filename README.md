@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [iPad 11, iPad Air, iPhone SE 4 expected in April, despite January launch rumors](https://appleinsider.com/articles/25/01/07/ipad-11-ipad-air-iphone-se-4-expected-in-april-despite-january-launch-rumors?utm_medium=rss)
- - [Washington state&#39;s AG sues T-Mobile, claiming the carrier failed to adequately secure sensitive personal information of 2M+ residents in a 2021 cyberattack &lpar;Kurt Schlosser/GeekWire&rpar;](http://www.techmeme.com/250107/p37#a250107p37)
- - [The First US Bird Flu Death Is a Stark Warning](https://www.wired.com/story/the-first-us-bird-flu-death-is-a-stark-warning/)
- - [The maker of the electric USPS truck is also building garbage robots and EV firefighters](https://www.theverge.com/2025/1/7/24337602/oshkosh-usps-ev-fire-garbage-robot)
- - [Best Sleep Headphones of 2025](https://www.cnet.com/health/sleep/headphones-for-sleeping/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [LG’s StanbyME sequel adds a carrying strap to the portable TV](https://www.theverge.com/2025/1/7/24338520/lg-stanbyme-2-portable-tv-carrying-strap-ces-2025)
+ - [Las Vegas police say the man who exploded a Cybertruck outside the Trump hotel used ChatGPT to help plan the attack, including to seek info on explosive targets &lpar;Associated Press&rpar;](http://www.techmeme.com/250107/p39#a250107p39)
+ - [Sources: Addepar, a provider of wealth management and investment software, is in talks to raise $250M at a pre-money valuation of $3.25B, up from ~$2B in 2021 &lpar;Bloomberg&rpar;](http://www.techmeme.com/250107/p38#a250107p38)
+ - [Baseus’ overachieving power bank hotspot delivers charging and mobile Wi-Fi](https://www.theverge.com/2025/1/7/24334550/baseus-energeek-mifi-power-bank-mobile-hotspot-charging-enercore-battery)
+ - [If you’re constantly losing cables, this could be your ideal charger](https://www.theverge.com/2025/1/7/24334476/baseus-enercore-wall-charger-retractable-usb-c-primetrip-vr2-car-automotive)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

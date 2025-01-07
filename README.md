@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Meta is leaving its users to wade through hate and disinformation](https://www.theverge.com/2025/1/7/24338127/meta-end-fact-checking-misinformation-zuckerberg)
  - [Meta Follows Elon Musk’s Lead, Moves Staffers to Billionaire-Friendly Texas](https://www.wired.com/story/meta-elon-musks-lead-trust-safety-billionaire-friendly-texas/)
  - [All the Top CPU and GPU News From CES 2025](https://www.wired.com/story/intel-amd-qualcomm-nvidia-new-cpus-and-gpus-ces-2025/)
  - [LG’s StanbyME sequel adds a carrying strap to the portable TV](https://www.theverge.com/2025/1/7/24338520/lg-stanbyme-2-portable-tv-carrying-strap-ces-2025)
- - [Las Vegas police say the man who exploded a Cybertruck outside the Trump hotel used ChatGPT to help plan the attack, including to seek info on explosive targets &lpar;Associated Press&rpar;](http://www.techmeme.com/250107/p39#a250107p39)
- - [Sources: Addepar, a provider of wealth management and investment software, is in talks to raise $250M at a pre-money valuation of $3.25B, up from ~$2B in 2021 &lpar;Bloomberg&rpar;](http://www.techmeme.com/250107/p38#a250107p38)<!-- TECH:END -->
+ - [Las Vegas police say the man who exploded a Cybertruck outside the Trump hotel used ChatGPT to help plan the attack, including to seek info on explosive targets &lpar;Associated Press&rpar;](http://www.techmeme.com/250107/p39#a250107p39)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

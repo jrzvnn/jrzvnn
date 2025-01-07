@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Asking the real question](http://9gag.com/gag/aByd6gQ)
- - 😝 [`One of the best investments you could possibly make.` Good luck to the owners wanting to sell theirs. LOL](http://9gag.com/gag/aQzE7b2)
- - 💣 [New year new me](http://9gag.com/gag/an7z280)
- - 😝 [Screaming almost helped](http://9gag.com/gag/aLn1zoP)
- - 👉 [Exposing a cheater :D](http://9gag.com/gag/aqyeRwv)<!-- MEMES:END -->
+ - 😝 [9gag, do your duty](http://9gag.com/gag/amoAWZj)
+ - 😝 [Man goes around slashing random peoples tires](http://9gag.com/gag/aNDwvnK)
+ - 💣 [Damn that father ain&#39;t recovering after that jeez](http://9gag.com/gag/aO8xeGD)
+ - 😝 [New year new me](http://9gag.com/gag/an7z280)
+ - 👉 [In 2011, a 29-year-old Australian bartender found an ATM glitch that allowed him to withdraw way beyond his balance. In a bender that lasted four-and-half months, he managed to spend around $1.6 million of the bank\u2019s money.](http://9gag.com/gag/aqyeXBP)<!-- MEMES:END -->
 
 ---
 

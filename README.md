@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [`He didnt cry at titanic, do mem even have feelings?` meanwhile men: ...](http://9gag.com/gag/aoyKV12)
- - 😝 [A mom discovers body parts in her son\u2019s room, and his haunting explanation is straight out of a nightmare](http://9gag.com/gag/aMVEBBG)
- - 💣 [Money runs the world](http://9gag.com/gag/aD2Yn0w)
- - 😝 [Human, what&#39;s wrong?](http://9gag.com/gag/a0e4Vqq)
- - 👉 [He&#39;s done](http://9gag.com/gag/aLn1edz)<!-- MEMES:END -->
+ - 😝 [In 2016, a guy hijacked an Egyptian airline with explosives packed to him. A British man on board asked for a picture with the hijacker as it was happening](http://9gag.com/gag/axyov8Y)
+ - 😝 [Abrupt lane edge\u2026](http://9gag.com/gag/a7oq84A)
+ - 💣 [Let\u2019s go eat squid, it\u2019ll be fun - they said](http://9gag.com/gag/aGyEynz)
+ - 😝 [Press to win a prize](http://9gag.com/gag/aoyKVE0)
+ - 👉 [Can you fix her?](http://9gag.com/gag/a6Zq5b8)<!-- MEMES:END -->
 
 ---
 

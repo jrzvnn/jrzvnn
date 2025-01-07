@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [LaCie leverages Thunderbolt 5 with Rugged SSD Pro5 for creative pros at CES 2025](https://appleinsider.com/articles/25/01/07/lacie-leverages-thunderbolt-5-with-rugged-ssd-pro5-for-creative-pros-at-ces-2025?utm_medium=rss)
- - [Lenovo announces the Yoga Slim 9i, the first Windows laptop with a camera hidden under the display panel, coming in February and starting at $1,849 &lpar;Andrew Romero/9to5Google&rpar;](http://www.techmeme.com/250107/p24#a250107p24)
- - [Screenshots: several employees&#39; posts critical of Meta&#39;s new board member Dana White were deleted by Meta&#39;s ICC, which aims to &quot;minimize disruption&quot; internally &lpar;Jason Koebler/404 Media&rpar;](http://www.techmeme.com/250107/p23#a250107p23)
- - [Lenovo&#39;s Latest Laptop Has a Rollable OLED Screen](https://www.wired.com/story/lenovo-ces-2025-rollable-oled-laptop-steamos-legion-go-s/)
- - [OnePlus 13 Review: This Flagship Phone Desperately Needs a Reason to Exist](https://www.cnet.com/tech/mobile/oneplus-13-review-this-flagship-phone-desperately-needs-a-reason-to-exist/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [BMW’s new iDrive turns the whole windshield into a heads-up display](https://www.theverge.com/2025/1/7/24335460/bmw-ces-2025-idrive-heads-up-display-ar)
+ - [Lenovo announces the ThinkBook Plus Gen 6 Rollable AI PC, a laptop featuring a 14-inch screen that can extend vertically to 16.7 inches, coming in Q1 for $3,499 &lpar;Julian Chokkattu/Wired&rpar;](http://www.techmeme.com/250107/p27#a250107p27)
+ - [Lenovo unveils the $499 Legion Go S, the first authorized third-party SteamOS handheld, weighing 1.6 pounds and ditching the previous gen&#39;s detachable gamepads &lpar;Sean Hollister/The Verge&rpar;](http://www.techmeme.com/250107/p26#a250107p26)
+ - [Trump announces a $20B investment in US data centers, saying the investor is Emirati billionaire Hussain Sajwani, chairman of DAMAC properties &lpar;Reuters&rpar;](http://www.techmeme.com/250107/p25#a250107p25)
+ - [Recharge your iPhone on the move with Satechi&#39;s OnTheGo power banks](https://appleinsider.com/articles/25/01/07/recharge-your-iphone-on-the-move-with-satechis-onthego-power-banks?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Fisherman struck by lightning twice](http://9gag.com/gag/a6Zq5r2)
- - 😝 [Damn that father ain&#39;t recovering after that jeez](http://9gag.com/gag/aO8xeGD)
- - 💣 [In 2011, a 29-year-old Australian bartender found an ATM glitch that allowed him to withdraw way beyond his balance. In a bender that lasted four-and-half months, he managed to spend around $1.6 million of the bank\u2019s money.](http://9gag.com/gag/aqyeXBP)
- - 😝 [Can you fix her?](http://9gag.com/gag/a6Zq5b8)
- - 👉 [New year new me](http://9gag.com/gag/an7z280)<!-- MEMES:END -->
+ - 😝 [Human, what&#39;s wrong?](http://9gag.com/gag/a0e4Vqq)
+ - 😝 [A billion?](http://9gag.com/gag/aD2Y8DK)
+ - 💣 [He&#39;s done](http://9gag.com/gag/aLn1edz)
+ - 😝 [`One of the best investments you could possibly make.` Good luck to the owners wanting to sell theirs. LOL](http://9gag.com/gag/aQzE7b2)
+ - 👉 [She laughs in crow too.](http://9gag.com/gag/a34Z0br)<!-- MEMES:END -->
 
 ---
 

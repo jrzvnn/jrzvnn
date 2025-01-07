@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Former Annapurna leads take charge of Take-Two’s discarded indie games](https://www.theverge.com/2025/1/7/24338274/annapurna-interactive-new-company-take-two-private-division)
  - [This cat tree is also an air purifier](https://www.theverge.com/2025/1/7/24338231/lg-aerocattower-air-purifier-cat-tower)
  - [Human Metapneumovirus Is Finally Being Taken Seriously](https://www.wired.com/story/human-metapneumovirus-is-the-forgotten-burden-of-public-health-china-flu-rsv-covid/)
  - [Source: OpenAI may launch agents this month and has been cautious, as rivals like Anthropic moved ahead, partly due to concerns of prompt injection attacks &lpar;Stephanie Palazzolo/The Information&rpar;](http://www.techmeme.com/250107/p29#a250107p29)
- - [Apple’s AirTags are matching their best price to date](https://www.theverge.com/2025/1/7/24337439/apple-airtag-tracker-google-pixel-buds-pro-deal-sale)
- - [iFixit shrinks its most popular tech repair toolkit to half the size](https://www.theverge.com/24338176/ifixit-repair-portable-tool-kit-pro-tech-go)<!-- TECH:END -->
+ - [Apple’s AirTags are matching their best price to date](https://www.theverge.com/2025/1/7/24337439/apple-airtag-tracker-google-pixel-buds-pro-deal-sale)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

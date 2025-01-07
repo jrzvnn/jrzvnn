@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [In 2016, a guy hijacked an Egyptian airline with explosives packed to him. A British man on board asked for a picture with the hijacker as it was happening](http://9gag.com/gag/axyov8Y)
- - 😝 [Abrupt lane edge\u2026](http://9gag.com/gag/a7oq84A)
- - 💣 [Let\u2019s go eat squid, it\u2019ll be fun - they said](http://9gag.com/gag/aGyEynz)
- - 😝 [Press to win a prize](http://9gag.com/gag/aoyKVE0)
- - 👉 [Can you fix her?](http://9gag.com/gag/a6Zq5b8)<!-- MEMES:END -->
+ - 😝 [Can you fix her?](http://9gag.com/gag/a6Zq5b8)
+ - 😝 [Exposing a cheater :D](http://9gag.com/gag/aqyeRwv)
+ - 💣 [In 2016, a guy hijacked an Egyptian airline with explosives packed to him. A British man on board asked for a picture with the hijacker as it was happening](http://9gag.com/gag/axyov8Y)
+ - 😝 [The Beast](http://9gag.com/gag/aYQVGzN)
+ - 👉 [Man goes around slashing random peoples tires](http://9gag.com/gag/aNDwvnK)<!-- MEMES:END -->
 
 ---
 

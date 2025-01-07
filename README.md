@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [9gag, do your duty](http://9gag.com/gag/amoAWZj)
- - 😝 [Asking the real question](http://9gag.com/gag/aByd6gQ)
+ - 😝 [Mount Everest covered in waste, including 12,000 kilos of human excrement](http://9gag.com/gag/aVvbgMK)
+ - 😝 [Why does this happen?](http://9gag.com/gag/a5QXB1G)
  - 💣 [In 2016, a guy hijacked an Egyptian airline with explosives packed to him. A British man on board asked for a picture with the hijacker as it was happening](http://9gag.com/gag/axyov8Y)
- - 😝 [Man trying to control his dog around two girls doing yoga](http://9gag.com/gag/ajPV1Nq)
- - 👉 [Can you fix her?](http://9gag.com/gag/a6Zq5b8)<!-- MEMES:END -->
+ - 😝 [In Philippines, crocodiles pretend to be a drowning human to get human food](http://9gag.com/gag/apR91Wb)
+ - 👉 [The Beast](http://9gag.com/gag/aYQVGzN)<!-- MEMES:END -->
 
 ---
 

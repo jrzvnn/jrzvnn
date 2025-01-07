@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Meta Now Lets Users Say Gay and Trans People Have &#39;Mental Illness&#39;](https://www.wired.com/story/meta-immigration-gender-policies-change/)
+ - [People are taking horrific videos like of mass shootings and using Runway&#39;s AI tools to insert cartoons, likely to bypass social networks&#39; automated moderation &lpar;Emanuel Maiberg/404 Media&rpar;](http://www.techmeme.com/250107/p33#a250107p33)
+ - [License Plate Readers Are Leaking Real-Time Video Feeds and Vehicle Data](https://www.wired.com/story/license-plate-reader-live-video-data-exposed/)
  - [Zuckerberg says he’s moving Meta moderators to Texas because California seems too ‘biased’](https://www.theverge.com/2025/1/7/24338305/meta-mark-zuckerberg-moving-meta-moderators-texas-california-bias)
- - [The best stuff we’ve seen at CES so far](https://www.theverge.com/2025/1/6/24337606/ces-2025-smart-home-tv-cameras-power-bank-robot-smart-glasses)
- - [Sources: Anthropic is in advanced talks to raise $2B in a round led by Lightspeed Venture Partners that would value it at $60B &lpar;Berber Jin/Wall Street Journal&rpar;](http://www.techmeme.com/250107/p32#a250107p32)
- - [Meta&#39;s Fact-Checking Partners Say They Were &#39;Blindsided&#39; by Decision to Axe Them](https://www.wired.com/story/metas-fact-checking-partners-blindsided/)
- - [Best Earbuds for Phone Calls for 2025](https://www.cnet.com/tech/mobile/best-wireless-earbuds-and-bluetooth-headphones-for-making-calls/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [The best stuff we’ve seen at CES so far](https://www.theverge.com/2025/1/6/24337606/ces-2025-smart-home-tv-cameras-power-bank-robot-smart-glasses)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

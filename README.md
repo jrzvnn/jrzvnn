@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The 42 Best Shows on Hulu Right Now &lpar;January 2025&rpar;](https://www.wired.com/story/best-tv-shows-hulu-this-week/)
+ - [Savant’s new smart budget system lets you control your home’s electrical load](https://www.theverge.com/2025/1/7/24338151/savant-smart-budget-circuit-breaker-modules-smart-home-control-energy-monitoring)
+ - [Valve will officially let you install SteamOS on other handhelds as soon as this April](https://www.theverge.com/2025/1/7/24338405/valve-steamos-beta-other-handhelds-beyond-steam-deck)
  - [Asus unveils the 2025 Asus XG Mobile, a $1,200+ portable docking station with the world&#39;s first Thunderbolt 5 eGPU, with an option to add a GeForce RTX 5090 &lpar;Sean Hollister/The Verge&rpar;](http://www.techmeme.com/250107/p35#a250107p35)
- - [Meta&#39;s fact-checking partners, including USA Today, say they were blindsided by Meta&#39;s decision to drop them and reject claims of being &quot;too politically biased&quot; &lpar;David Gilbert/Wired&rpar;](http://www.techmeme.com/250107/p34#a250107p34)
- - [Reolink’s new cameras can record 24/7 without a power outlet or internet connection](https://www.theverge.com/2025/1/7/24336220/reolinks-24-7-altas-cameras-battery-solar-specs-price-ces)
- - [I Took a Ride in an EV That Doesn&#39;t Need to Plug In](https://www.cnet.com/roadshow/news/i-took-a-ride-in-an-ev-that-doesnt-need-to-plug-in/#ftag=CAD590a51e)
- - [The Most Innovative Products From CES 2025 That You Can Actually Get Your Hands On](https://www.cnet.com/deals/the-most-innovative-products-from-ces-2025-that-you-can-actually-get-your-hands-on/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Meta&#39;s fact-checking partners, including USA Today, say they were blindsided by Meta&#39;s decision to drop them and reject claims of being &quot;too politically biased&quot; &lpar;David Gilbert/Wired&rpar;](http://www.techmeme.com/250107/p34#a250107p34)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [A German guy in Pakistan is shocked by what the locals think of Hitler](http://9gag.com/gag/aVvbE0P)
- - 😝 [Player makes sure ball girl is OK after getting hit by tennis ball.](http://9gag.com/gag/a5QXVKG)
- - 💣 [Mount Everest covered in waste, including 12,000 kilos of human excrement](http://9gag.com/gag/aVvbgMK)
- - 😝 [Man goes around slashing random peoples tires](http://9gag.com/gag/aNDwvnK)
- - 👉 [What attacked him? A bat, a spider or 4skin?](http://9gag.com/gag/avyQWx5)<!-- MEMES:END -->
+ - 😝 [`He didnt cry at titanic, do mem even have feelings?` meanwhile men: ...](http://9gag.com/gag/aoyKV12)
+ - 😝 [A mom discovers body parts in her son\u2019s room, and his haunting explanation is straight out of a nightmare](http://9gag.com/gag/aMVEBBG)
+ - 💣 [Money runs the world](http://9gag.com/gag/aD2Yn0w)
+ - 😝 [Human, what&#39;s wrong?](http://9gag.com/gag/a0e4Vqq)
+ - 👉 [He&#39;s done](http://9gag.com/gag/aLn1edz)<!-- MEMES:END -->
 
 ---
 

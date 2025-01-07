@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Nvidia announces the Llama Nemotron and Cosmos Nemotron family of AI models to advance agentic AI, available in Nano, Super, and Ultra sizes on Hugging Face &lpar;Dean Takahashi/VentureBeat&rpar;](http://www.techmeme.com/250106/p38#a250106p38)
- - [Nvidia announces DLSS 4 with Multi Frame Generation](https://www.theverge.com/2025/1/6/24337402/nvidia-dlss-4-upscaling-announcement-ces-2025)
- - [Nvidia says the RTX 5090 has 92B transistors, 4,000 AI TOPS, and GDDR7 memory, with support for next-gen DLSS 4, which can now generate multiple frames at once &lpar;Brian Heater/TechCrunch&rpar;](http://www.techmeme.com/250106/p37#a250106p37)
- - [Plugable debuts 5 Display Dock, 10-port USB-C Charger, and DisplayLink Pro Quad Display Adapter at CES 2025](https://appleinsider.com/articles/25/01/07/plugable-debuts-5-display-dock-10-port-usb-c-charger-and-displaylink-pro-quad-display-adapter-at-ces-2025?utm_medium=rss)
- - [Nvidia reveals the RTX 50-series Blackwell GPUs: a $1,999 RTX 5090, a $999 RTX 5080, a $749 RTX 5070 Ti, and a $549 RTX 5070, available starting in January &lpar;Tom Warren/The Verge&rpar;](http://www.techmeme.com/250106/p36#a250106p36)<!-- TECH:END -->
+ - [Nvidia unveils Mega, an &quot;Omniverse Blueprint&quot; for developing, testing, and optimizing physical AI and robot fleets at scale in a digital twin before deployment &lpar;Dean Takahashi/VentureBeat&rpar;](http://www.techmeme.com/250106/p41#a250106p41)
+ - [Toyota says its next-gen vehicles will have automated driving powered by Nvidia&#39;s Drive AGX Orin supercomputer and safety-focused operating system, DriveOS &lpar;Rebecca Bellan/TechCrunch&rpar;](http://www.techmeme.com/250106/p40#a250106p40)
+ - [Acer’s Predator Helios 18 AI gaming laptop leans into 4K Mini LED](https://www.theverge.com/2025/1/6/24337047/acer-predator-helios-18-16-ai-gaming-laptops-4k-mini-led-price)
+ - [The Razer Blade 16 is even thinner this year](https://www.theverge.com/2025/1/6/24335984/razer-blade-16-laptop-thin-ryzen-amd-cpu-nvidia-gpu-240-hz-oled-display)
+ - [Alienware’s flagship desktop finally ditches proprietary parts](https://www.theverge.com/2025/1/6/24335565/alienware-area-51-gaming-pc-desktop-atx-power-supply-motherboard)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

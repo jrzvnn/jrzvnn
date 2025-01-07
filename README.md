@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Human, what&#39;s wrong?](http://9gag.com/gag/a0e4Vqq)
- - 😝 [A billion?](http://9gag.com/gag/aD2Y8DK)
- - 💣 [He&#39;s done](http://9gag.com/gag/aLn1edz)
- - 😝 [`One of the best investments you could possibly make.` Good luck to the owners wanting to sell theirs. LOL](http://9gag.com/gag/aQzE7b2)
- - 👉 [She laughs in crow too.](http://9gag.com/gag/a34Z0br)<!-- MEMES:END -->
+ - 😝 [Asking the real question](http://9gag.com/gag/aByd6gQ)
+ - 😝 [9gag, do your duty](http://9gag.com/gag/amoAWZj)
+ - 💣 [In 2011, a 29-year-old Australian bartender found an ATM glitch that allowed him to withdraw way beyond his balance. In a bender that lasted four-and-half months, he managed to spend around $1.6 million of the bank\u2019s money.](http://9gag.com/gag/aqyeXBP)
+ - 😝 [What attacked him? A bat, a spider or 4skin?](http://9gag.com/gag/avyQWx5)
+ - 👉 [In 2016, a guy hijacked an Egyptian airline with explosives packed to him. A British man on board asked for a picture with the hijacker as it was happening](http://9gag.com/gag/axyov8Y)<!-- MEMES:END -->
 
 ---
 

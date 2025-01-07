@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Screenshots: several employees&#39; posts critical of Meta&#39;s new board member Dana White were deleted by Meta&#39;s ICC, which aims to &quot;minimize disruption&quot; internally &lpar;Jason Koebler/404 Media&rpar;](http://www.techmeme.com/250107/p23#a250107p23)
+ - [Lenovo&#39;s Latest Laptop Has a Rollable OLED Screen](https://www.wired.com/story/lenovo-ces-2025-rollable-oled-laptop-steamos-legion-go-s/)
+ - [OnePlus 13 review: finally, a flagship that can hang](https://www.theverge.com/24336534/oneplus-13-review-specs-screen-camera-battery)
  - [Inworld AI, Streamlabs, and Nvidia unveil an AI assistant for streamers that can provide technical support for streams in real time and even act as a cohost &lpar;Jay Peters/The Verge&rpar;](http://www.techmeme.com/250107/p22#a250107p22)
- - [Meta’s fact-checking changes are just what Trump’s FCC head asked for](https://www.theverge.com/2025/1/7/24338125/meta-mark-zuckerberg-fact-checking-censorship-brendan-carr-trump)
- - [Lenovo Legion Go S official: $499 buys the first authorized third-party SteamOS handheld](https://www.theverge.com/2025/1/7/24338028/lenovo-legion-go-s-steam-windows)
- - [Lenovo’s rollable laptop is a concept no more — launching this year for $3,500](https://www.theverge.com/2025/1/7/24337633/lenovo-thinkbook-plus-gen-6-rollable-laptop-flexible-oled-price-specs)
- - [Instead of fertility, this femtech wearable zeroes in on perimenopause](https://www.theverge.com/2025/1/7/24337603/identifyher-peri-ces-2025-perimenopause-wearable-health-tech)<!-- TECH:END -->
+ - [Meta’s fact-checking changes are just what Trump’s FCC head asked for](https://www.theverge.com/2025/1/7/24338125/meta-mark-zuckerberg-fact-checking-censorship-brendan-carr-trump)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [All the Top CPU and GPU News From CES 2025](https://www.wired.com/story/intel-amd-qualcomm-nvidia-new-cpus-and-gpus-ces-2025/)
  - [LG’s StanbyME sequel adds a carrying strap to the portable TV](https://www.theverge.com/2025/1/7/24338520/lg-stanbyme-2-portable-tv-carrying-strap-ces-2025)
  - [Las Vegas police say the man who exploded a Cybertruck outside the Trump hotel used ChatGPT to help plan the attack, including to seek info on explosive targets &lpar;Associated Press&rpar;](http://www.techmeme.com/250107/p39#a250107p39)
  - [Sources: Addepar, a provider of wealth management and investment software, is in talks to raise $250M at a pre-money valuation of $3.25B, up from ~$2B in 2021 &lpar;Bloomberg&rpar;](http://www.techmeme.com/250107/p38#a250107p38)
- - [Baseus’ overachieving power bank hotspot delivers charging and mobile Wi-Fi](https://www.theverge.com/2025/1/7/24334550/baseus-energeek-mifi-power-bank-mobile-hotspot-charging-enercore-battery)
- - [If you’re constantly losing cables, this could be your ideal charger](https://www.theverge.com/2025/1/7/24334476/baseus-enercore-wall-charger-retractable-usb-c-primetrip-vr2-car-automotive)<!-- TECH:END -->
+ - [Baseus’ overachieving power bank hotspot delivers charging and mobile Wi-Fi](https://www.theverge.com/2025/1/7/24334550/baseus-energeek-mifi-power-bank-mobile-hotspot-charging-enercore-battery)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

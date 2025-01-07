@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Tameshigiri Master demonstrates how useless a katana could be without the proper technique &amp; skills](http://9gag.com/gag/a5QXwGG)
- - 😝 [The fake `snow` used in Dawson&#39;s Creek](http://9gag.com/gag/a34ZGDr)
- - 💣 [Now thats a gender equality](http://9gag.com/gag/a87q0nO)
- - 😝 [In 2011, a 29-year-old Australian bartender found an ATM glitch that allowed him to withdraw way beyond his balance. In a bender that lasted four-and-half months, he managed to spend around $1.6 million of the bank\u2019s money.](http://9gag.com/gag/aqyeXBP)
- - 👉 [9gag, do your duty](http://9gag.com/gag/amoAWZj)<!-- MEMES:END -->
+ - 😝 [Now thats a gender equality](http://9gag.com/gag/a87q0nO)
+ - 😝 [Fisherman struck by lightning twice](http://9gag.com/gag/a6Zq5r2)
+ - 💣 [In 2011, a 29-year-old Australian bartender found an ATM glitch that allowed him to withdraw way beyond his balance. In a bender that lasted four-and-half months, he managed to spend around $1.6 million of the bank\u2019s money.](http://9gag.com/gag/aqyeXBP)
+ - 😝 [9gag, do your duty](http://9gag.com/gag/amoAWZj)
+ - 👉 [A calm drive turned into utter chaos](http://9gag.com/gag/azx2Gxx)<!-- MEMES:END -->
 
 ---
 

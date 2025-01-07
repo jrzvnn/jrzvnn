@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [How to be kind, smart and f**king dumb in less than 30 seconds...](http://9gag.com/gag/aVvbKLn)
- - 😝 [Now thats a gender equality](http://9gag.com/gag/a87q0nO)
- - 💣 [What attacked him? A bat, a spider or 4skin?](http://9gag.com/gag/avyQWx5)
- - 😝 [Man goes around slashing random peoples tires](http://9gag.com/gag/aNDwvnK)
- - 👉 [Asking the real question](http://9gag.com/gag/aByd6gQ)<!-- MEMES:END -->
+ - 😝 [What happened to women&#39;s rights?](http://9gag.com/gag/ae9QVyp)
+ - 😝 [Georgian folk dance](http://9gag.com/gag/aoyKVbm)
+ - 💣 [She laughs in crow too.](http://9gag.com/gag/a34Z0br)
+ - 😝 [`One of the best investments you could possibly make.` Good luck to the owners wanting to sell theirs. LOL](http://9gag.com/gag/aQzE7b2)
+ - 👉 [For the boys](http://9gag.com/gag/ae9QO1p)<!-- MEMES:END -->
 
 ---
 

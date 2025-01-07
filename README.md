@@ -167,10 +167,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [Man goes around slashing random peoples tires](http://9gag.com/gag/aNDwvnK)
- - 😝 [Asking the real question](http://9gag.com/gag/aByd6gQ)
- - 💣 [Skydiver falls through a through a raincloud](http://9gag.com/gag/abAvAb9)
- - 😝 [Sometime in the 90s](http://9gag.com/gag/avyQygX)
- - 👉 [The Beast](http://9gag.com/gag/aYQVGzN)<!-- MEMES:END -->
+ - 😝 [Man trying to control his dog around two girls doing yoga](http://9gag.com/gag/ajPV1Nq)
+ - 💣 [Wholesome and rare behavior but lady was reaching for pepper spray](http://9gag.com/gag/a1mPNbR)
+ - 😝 [Kurt Cobain really had a heart of gold.](http://9gag.com/gag/a1mPP9R)
+ - 👉 [Asking the real question](http://9gag.com/gag/aByd6gQ)<!-- MEMES:END -->
 
 ---
 

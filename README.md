@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google is building its own ‘world modeling’ AI team for games and robot training](https://www.theverge.com/2025/1/7/24338053/google-deepmind-world-modeling-ai-team-gaming-robot-training)
- - [PitchBook: US startups raised $209B in 2024, up ~33% from 2023; AI startups raised $97B, the largest portion on record; VCs raised $76.1B, the lowest since 2019 &lpar;Sarah McBride/Bloomberg&rpar;](http://www.techmeme.com/250107/p9#a250107p9)
- - [10 More of the Coolest Things We’ve Seen at CES 2025](https://www.wired.com/gallery/ces-2025-photo-gallery-day-2/)
- - [12 Easy Habits to Reinvent Your Health This Year](https://www.cnet.com/health/easy-habits-reinvent-your-health-this-year/#ftag=CAD590a51e)
- - [Dutch chipmaker NXP agrees to buy TTTech Auto, a Vienna-based automotive safety software provider, for $625M in cash, aiming to boost its automotive operations &lpar;Toby Sterling/Reuters&rpar;](http://www.techmeme.com/250107/p8#a250107p8)<!-- TECH:END -->
+ - [Europe Wanted to Lead the World on EVs. Its Carmakers Can’t Keep Up](https://www.wired.com/story/europe-wanted-to-lead-the-world-on-evs-carmakers-cant-keep-up/)
+ - [Does Dry January Really Make People Healthier?](https://www.wired.com/story/does-dry-january-really-make-people-healthier/)
+ - [Plugable debuts two new USB-C docks plus 10-port USB-C Charger](https://appleinsider.com/articles/25/01/07/plugable-debuts-5-display-dock-10-port-usb-c-charger-and-displaylink-pro-quad-display-adapter-at-ces-2025?utm_medium=rss)
+ - [Indonesia wants more than $1 billion from Apple to lift iPhone ban, welcomes Huawei with open arms](https://appleinsider.com/articles/25/01/07/indonesia-welcomes-huawei-but-wants-still-more-than-1-billion-from-apple?utm_medium=rss)
+ - [Google is building its own ‘world modeling’ AI team for games and robot training](https://www.theverge.com/2025/1/7/24338053/google-deepmind-world-modeling-ai-team-gaming-robot-training)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

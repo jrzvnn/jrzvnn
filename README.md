@@ -167,10 +167,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [Man goes around slashing random peoples tires](http://9gag.com/gag/aNDwvnK)
- - 😝 [Man trying to control his dog around two girls doing yoga](http://9gag.com/gag/ajPV1Nq)
- - 💣 [Wholesome and rare behavior but lady was reaching for pepper spray](http://9gag.com/gag/a1mPNbR)
- - 😝 [Kurt Cobain really had a heart of gold.](http://9gag.com/gag/a1mPP9R)
- - 👉 [Asking the real question](http://9gag.com/gag/aByd6gQ)<!-- MEMES:END -->
+ - 😝 [In 2011, a 29-year-old Australian bartender found an ATM glitch that allowed him to withdraw way beyond his balance. In a bender that lasted four-and-half months, he managed to spend around $1.6 million of the bank\u2019s money.](http://9gag.com/gag/aqyeXBP)
+ - 💣 [The fake `snow` used in Dawson&#39;s Creek](http://9gag.com/gag/a34ZGDr)
+ - 😝 [In Philippines, crocodiles pretend to be a drowning human to get human food](http://9gag.com/gag/apR91Wb)
+ - 👉 [What attacked him? A bat, a spider or 4skin?](http://9gag.com/gag/avyQWx5)<!-- MEMES:END -->
 
 ---
 

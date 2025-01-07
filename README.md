@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Nvidia’s $3,000 ‘Personal AI Supercomputer’ Will Let You Ditch the Data Center](https://www.wired.com/story/nvidia-personal-supercomputer-ces/)
+ - [Everything Announced at Nvidia&#39;s CES Event in 12 Minutes video](https://www.cnet.com/videos/everything-announced-at-nvidias-ces-event-in-12-minutes/#ftag=CAD590a51e)
+ - [Nvidia announces $3,000 personal AI supercomputer called Digits](https://www.theverge.com/2025/1/6/24337530/nvidia-ces-digits-super-computer-ai)
  - [Nvidia unveils Mega, an &quot;Omniverse Blueprint&quot; for developing, testing, and optimizing physical AI and robot fleets at scale in a digital twin before deployment &lpar;Dean Takahashi/VentureBeat&rpar;](http://www.techmeme.com/250106/p41#a250106p41)
- - [Toyota says its next-gen vehicles will have automated driving powered by Nvidia&#39;s Drive AGX Orin supercomputer and safety-focused operating system, DriveOS &lpar;Rebecca Bellan/TechCrunch&rpar;](http://www.techmeme.com/250106/p40#a250106p40)
- - [Acer’s Predator Helios 18 AI gaming laptop leans into 4K Mini LED](https://www.theverge.com/2025/1/6/24337047/acer-predator-helios-18-16-ai-gaming-laptops-4k-mini-led-price)
- - [The Razer Blade 16 is even thinner this year](https://www.theverge.com/2025/1/6/24335984/razer-blade-16-laptop-thin-ryzen-amd-cpu-nvidia-gpu-240-hz-oled-display)
- - [Alienware’s flagship desktop finally ditches proprietary parts](https://www.theverge.com/2025/1/6/24335565/alienware-area-51-gaming-pc-desktop-atx-power-supply-motherboard)<!-- TECH:END -->
+ - [Toyota says its next-gen vehicles will have automated driving powered by Nvidia&#39;s Drive AGX Orin supercomputer and safety-focused operating system, DriveOS &lpar;Rebecca Bellan/TechCrunch&rpar;](http://www.techmeme.com/250106/p40#a250106p40)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

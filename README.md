@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Google is building its own ‘world modeling’ AI team for games and robot training](https://www.theverge.com/2025/1/7/24338053/google-deepmind-world-modeling-ai-team-gaming-robot-training)
+ - [PitchBook: US startups raised $209B in 2024, up ~33% from 2023; AI startups raised $97B, the largest portion on record; VCs raised $76.1B, the lowest since 2019 &lpar;Sarah McBride/Bloomberg&rpar;](http://www.techmeme.com/250107/p9#a250107p9)
+ - [10 More of the Coolest Things We’ve Seen at CES 2025](https://www.wired.com/gallery/ces-2025-photo-gallery-day-2/)
  - [12 Easy Habits to Reinvent Your Health This Year](https://www.cnet.com/health/easy-habits-reinvent-your-health-this-year/#ftag=CAD590a51e)
- - [Dutch chipmaker NXP agrees to buy TTTech Auto, a Vienna-based automotive safety software provider, for $625M in cash, aiming to boost its automotive operations &lpar;Toby Sterling/Reuters&rpar;](http://www.techmeme.com/250107/p8#a250107p8)
- - [Correcting Genetic Spelling Errors With Next-Generation Crispr](https://www.wired.com/story/correcting-genetic-spelling-errors-with-next-generation-crispr/)
- - [Give Your Savings a Boost With APYs Close to 5%. Today&#39;s Savings Rates, Jan. 7, 2025](https://www.cnet.com/personal-finance/banking/give-your-savings-a-boost-with-apys-close-to-5-todays-savings-rates-jan-7-2025/#ftag=CAD590a51e)
- - [Satya Nadella says Microsoft will invest about $3B to expand its Azure cloud and AI capacity in India and train 10 million people in AI in the country by 2030 &lpar;Reuters&rpar;](http://www.techmeme.com/250107/p7#a250107p7)<!-- TECH:END -->
+ - [Dutch chipmaker NXP agrees to buy TTTech Auto, a Vienna-based automotive safety software provider, for $625M in cash, aiming to boost its automotive operations &lpar;Toby Sterling/Reuters&rpar;](http://www.techmeme.com/250107/p8#a250107p8)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

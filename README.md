@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Nvidia is bringing a native GeForce Now app to Steam Deck](https://www.theverge.com/2025/1/6/24337977/nvidia-native-geforce-now-app-steam-deck-vr)
  - [Nvidia’s AI NPCs are no longer chatbots — they’re your new PUBG teammate](https://www.theverge.com/2025/1/6/24337949/nvidia-ace-ai-npcs-pubg-ally-teammate)
  - [Nvidia&#39;s &#39;Cosmos&#39; AI Helps Humanoid Robots Navigate the World](https://www.wired.com/story/nvidia-cosmos-ai-helps-robots-self-driving-cars/)
  - [The ROG Strix Scar 16 and 18 come with a lid that lights up and more RGB](https://www.theverge.com/2025/1/6/24336394/asus-rog-strix-scar-16-18-specs-price-ces-2025)
- - [Asus just announced the world’s first Thunderbolt 5 eGPU](https://www.theverge.com/24336135/asus-thunderbolt-5-external-gpu-graphics-xg-mobile-ces-2025)
- - [Asus’ latest ROG Flow Z13 gaming tablet uses AMD’s new integrated graphics](https://www.theverge.com/2025/1/6/24335012/asus-rog-flow-z13-gaming-tablet-amd-ryzen-max-plus-price-specs)<!-- TECH:END -->
+ - [Asus just announced the world’s first Thunderbolt 5 eGPU](https://www.theverge.com/24336135/asus-thunderbolt-5-external-gpu-graphics-xg-mobile-ces-2025)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Nvidia’s $3,000 ‘Personal AI Supercomputer’ Will Let You Ditch the Data Center](https://www.wired.com/story/nvidia-personal-supercomputer-ces/)
- - [Everything Announced at Nvidia&#39;s CES Event in 12 Minutes video](https://www.cnet.com/videos/everything-announced-at-nvidias-ces-event-in-12-minutes/#ftag=CAD590a51e)
- - [Nvidia announces $3,000 personal AI supercomputer called Digits](https://www.theverge.com/2025/1/6/24337530/nvidia-ces-digits-super-computer-ai)
- - [Nvidia unveils Mega, an &quot;Omniverse Blueprint&quot; for developing, testing, and optimizing physical AI and robot fleets at scale in a digital twin before deployment &lpar;Dean Takahashi/VentureBeat&rpar;](http://www.techmeme.com/250106/p41#a250106p41)
- - [Toyota says its next-gen vehicles will have automated driving powered by Nvidia&#39;s Drive AGX Orin supercomputer and safety-focused operating system, DriveOS &lpar;Rebecca Bellan/TechCrunch&rpar;](http://www.techmeme.com/250106/p40#a250106p40)<!-- TECH:END -->
+ - [Nvidia’s AI NPCs are no longer chatbots — they’re your new PUBG teammate](https://www.theverge.com/2025/1/6/24337949/nvidia-ace-ai-npcs-pubg-ally-teammate)
+ - [Nvidia&#39;s &#39;Cosmos&#39; AI Helps Humanoid Robots Navigate the World](https://www.wired.com/story/nvidia-cosmos-ai-helps-robots-self-driving-cars/)
+ - [The ROG Strix Scar 16 and 18 come with a lid that lights up and more RGB](https://www.theverge.com/2025/1/6/24336394/asus-rog-strix-scar-16-18-specs-price-ces-2025)
+ - [Asus just announced the world’s first Thunderbolt 5 eGPU](https://www.theverge.com/24336135/asus-thunderbolt-5-external-gpu-graphics-xg-mobile-ces-2025)
+ - [Asus’ latest ROG Flow Z13 gaming tablet uses AMD’s new integrated graphics](https://www.theverge.com/2025/1/6/24335012/asus-rog-flow-z13-gaming-tablet-amd-ryzen-max-plus-price-specs)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

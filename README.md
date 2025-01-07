@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Can you fix her?](http://9gag.com/gag/a6Zq5b8)
- - 😝 [Exposing a cheater :D](http://9gag.com/gag/aqyeRwv)
- - 💣 [In 2016, a guy hijacked an Egyptian airline with explosives packed to him. A British man on board asked for a picture with the hijacker as it was happening](http://9gag.com/gag/axyov8Y)
- - 😝 [The Beast](http://9gag.com/gag/aYQVGzN)
- - 👉 [Man goes around slashing random peoples tires](http://9gag.com/gag/aNDwvnK)<!-- MEMES:END -->
+ - 😝 [A re-education camp in China.](http://9gag.com/gag/aW4GpW6)
+ - 😝 [Man trying to control his dog around two girls doing yoga](http://9gag.com/gag/ajPV1Nq)
+ - 💣 [Let\u2019s go eat squid, it\u2019ll be fun - they said](http://9gag.com/gag/aGyEynz)
+ - 😝 [Asking the real question](http://9gag.com/gag/aByd6gQ)
+ - 👉 [The Beast](http://9gag.com/gag/aYQVGzN)<!-- MEMES:END -->
 
 ---
 

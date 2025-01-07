@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Reddit unveils Reddit Pro Trends, which allows companies to see what users are discussing about &quot;virtually anything&quot; on Reddit, and a new ad format for AMAs &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/250107/p20#a250107p20)
- - [Keychron is putting Hall effect switches into more keyboards](https://www.theverge.com/2025/1/7/24338132/keychron-q6-lemokey-p1-mechanical-keyboard-hall-effect-price-specs)
- - [Ultrahuman thinks its 18-karat gold smart ring is worth $1,900](https://www.theverge.com/2025/1/7/24337049/ultrahuman-rare-ces-2025-smart-ring-wearables)
- - [It’s 2025 and the Nintendo Wii is getting a new Guitar Hero controller](https://www.theverge.com/2025/1/7/24338092/hyperkin-guitar-hero-hyper-strummer-controller-nintendo-wii)
- - [TikTok&#39;s sister app Lemon8 is sponsoring TikTok posts that encourage US users to migrate to Lemon8 as a TikTok ban looms; Lemon8 has TikTok account integrations &lpar;Axios&rpar;](http://www.techmeme.com/250107/p19#a250107p19)<!-- TECH:END -->
+ - [Inworld AI, Streamlabs, and Nvidia unveil an AI assistant for streamers that can provide technical support for streams in real time and even act as a cohost &lpar;Jay Peters/The Verge&rpar;](http://www.techmeme.com/250107/p22#a250107p22)
+ - [Meta’s fact-checking changes are just what Trump’s FCC head asked for](https://www.theverge.com/2025/1/7/24338125/meta-mark-zuckerberg-fact-checking-censorship-brendan-carr-trump)
+ - [Lenovo Legion Go S official: $499 buys the first authorized third-party SteamOS handheld](https://www.theverge.com/2025/1/7/24338028/lenovo-legion-go-s-steam-windows)
+ - [Lenovo’s rollable laptop is a concept no more — launching this year for $3,500](https://www.theverge.com/2025/1/7/24337633/lenovo-thinkbook-plus-gen-6-rollable-laptop-flexible-oled-price-specs)
+ - [Instead of fertility, this femtech wearable zeroes in on perimenopause](https://www.theverge.com/2025/1/7/24337603/identifyher-peri-ces-2025-perimenopause-wearable-health-tech)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

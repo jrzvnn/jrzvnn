@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The best budget robot vacuums](https://www.theverge.com/23846479/best-budget-robot-vacuum-robot-mop)
  - [LG made a slim 32-inch 6K monitor with Thunderbolt 5](https://www.theverge.com/2025/1/7/24338425/lg-ultrafine-32-inch-6k-monitor-thunderbolt-5-ces-2025)
  - [Mark Zuckerberg says Meta will phase back in &quot;civic content&quot;, seemingly a reversal of earlier decisions against recommending political content &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/250107/p36#a250107p36)
  - [RCA’s new camo TVs will blend in perfectly with forest decor](https://www.theverge.com/2025/1/7/24338416/rca-outdoor-television-dust-moisture-resistant-camouflage-qled)
- - [The 42 Best Shows on Hulu Right Now &lpar;January 2025&rpar;](https://www.wired.com/story/best-tv-shows-hulu-this-week/)
- - [Savant’s new ‘Smart Budget’ system lets you control your home’s electrical load](https://www.theverge.com/2025/1/7/24338151/savant-smart-budget-circuit-breaker-modules-smart-home-control-energy-monitoring)<!-- TECH:END -->
+ - [The 42 Best Shows on Hulu Right Now &lpar;January 2025&rpar;](https://www.wired.com/story/best-tv-shows-hulu-this-week/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

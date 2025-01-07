@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [A German guy in Pakistan is shocked by what the locals think of Hitler](http://9gag.com/gag/aVvbE0P)
+ - 😝 [Man goes around slashing random peoples tires](http://9gag.com/gag/aNDwvnK)
  - 😝 [Asking the real question](http://9gag.com/gag/aByd6gQ)
- - 💣 [Player makes sure ball girl is OK after getting hit by tennis ball.](http://9gag.com/gag/a5QXVKG)
- - 😝 [Look how fast and easy it is to shop in London. Putting China&#39;s palm-scanning payment system to shame.](http://9gag.com/gag/awyZ1KB)
- - 👉 [What attacked him? A bat, a spider or 4skin?](http://9gag.com/gag/avyQWx5)<!-- MEMES:END -->
+ - 💣 [Skydiver falls through a through a raincloud](http://9gag.com/gag/abAvAb9)
+ - 😝 [Sometime in the 90s](http://9gag.com/gag/avyQygX)
+ - 👉 [The Beast](http://9gag.com/gag/aYQVGzN)<!-- MEMES:END -->
 
 ---
 

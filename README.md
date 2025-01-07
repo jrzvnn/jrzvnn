@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [MacPaw goes after mobile device management with CleanMy Mac Business](https://appleinsider.com/articles/25/01/07/macpaw-goes-after-mobile-device-management-with-cleanmy-mac-business?utm_medium=rss)
+ - [Jackery’s Solar Roof announced alongside a fast car charger and new solar generator](https://www.theverge.com/2025/1/7/24338032/jackerys-solar-roof-dc-to-dc-car-charger-generator-price-specs-date)
+ - [Netgear’s new Wi-Fi 7 Orbi mesh system is a solid bump with plenty of ports](https://www.theverge.com/2025/1/7/24337658/netgear-orbi-870-wi-fi-7-mesh-system-price-features-ces-2025)
  - [Getty Images Holdings and Shutterstock agree to merge in a deal that creates a $3.7B company; Getty CEO Craig Peters will remain CEO of the combined business &lpar;Michael Flaherty/Axios&rpar;](http://www.techmeme.com/250107/p14#a250107p14)
- - [Segway at CES: a powerful pair of e-bikes, a 50mph scooter, and a robot mower](https://www.theverge.com/2025/1/7/24336284/segway-e-bike-scooter-xyber-xafari-gt3-mower-price-ces)
- - [The 12 Best TVs We’ve Reviewed, Plus Buying Advice &lpar;2025&rpar;](https://www.wired.com/gallery/best-tvs/)
- - [This all-electric robo-bus has swappable batteries and can fit 30 passengers](https://www.theverge.com/2025/1/7/24336904/may-mobility-tecnobus-autonomous-minibus)
- - [Goodyear’s smart tires can sense rain and ice for improved emergency braking](https://www.theverge.com/2025/1/7/24336892/goodyear-tire-sightline-aeb-rain-snow)<!-- TECH:END -->
+ - [Segway at CES: a powerful pair of e-bikes, a 50mph scooter, and a robot mower](https://www.theverge.com/2025/1/7/24336284/segway-e-bike-scooter-xyber-xafari-gt3-mower-price-ces)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

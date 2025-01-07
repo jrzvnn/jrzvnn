@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [I&#39;m 40, I don&#39;t have time for this BS](http://9gag.com/gag/aqyeyWR)
- - 😝 [Exposing a cheater :D](http://9gag.com/gag/aqyeRwv)
- - 💣 [In 2016, a guy hijacked an Egyptian airline with explosives packed to him. A British man on board asked for a picture with the hijacker as it was happening](http://9gag.com/gag/axyov8Y)
- - 😝 [Man goes around slashing random peoples tires](http://9gag.com/gag/aNDwvnK)
- - 👉 [Wholesome and rare behavior but lady was reaching for pepper spray](http://9gag.com/gag/a1mPNbR)<!-- MEMES:END -->
+ - 😝 [Money runs the world](http://9gag.com/gag/aD2Yn0w)
+ - 😝 [A billion?](http://9gag.com/gag/aD2Y8DK)
+ - 💣 [Human, what&#39;s wrong?](http://9gag.com/gag/a0e4Vqq)
+ - 😝 [`One of the best investments you could possibly make.` Good luck to the owners wanting to sell theirs. LOL](http://9gag.com/gag/aQzE7b2)
+ - 👉 [He&#39;s done](http://9gag.com/gag/aLn1edz)<!-- MEMES:END -->
 
 ---
 

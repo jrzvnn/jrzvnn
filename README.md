@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Zuckerberg says he’s moving Meta moderators to Texas because California seems too ‘biased’](https://www.theverge.com/2025/1/7/24338305/meta-mark-zuckerberg-moving-meta-moderators-texas-california-bias)
+ - [The best stuff we’ve seen at CES so far](https://www.theverge.com/2025/1/6/24337606/ces-2025-smart-home-tv-cameras-power-bank-robot-smart-glasses)
+ - [Sources: Anthropic is in advanced talks to raise $2B in a round led by Lightspeed Venture Partners that would value it at $60B &lpar;Berber Jin/Wall Street Journal&rpar;](http://www.techmeme.com/250107/p32#a250107p32)
  - [Meta&#39;s Fact-Checking Partners Say They Were &#39;Blindsided&#39; by Decision to Axe Them](https://www.wired.com/story/metas-fact-checking-partners-blindsided/)
- - [Apple&#39;s second iOS 18.3, iPadOS 18.3 developer betas kick off 2025](https://appleinsider.com/articles/25/01/07/apples-second-ios-183-ipados-183-developer-betas-kick-off-2025?utm_medium=rss)
- - [Meta is dropping fact-checking after incoming FCC head Brendan Carr threatened it over such practices, undercutting the notion that Meta&#39;s move was principled &lpar;Adi Robertson/The Verge&rpar;](http://www.techmeme.com/250107/p31#a250107p31)
- - [For months, Meta hid posts that included LGBTQ+ hashtags for all users who had their sensitive content filter turned on; Meta claims this was done erroneously &lpar;Taylor Lorenz/User Mag&rpar;](http://www.techmeme.com/250107/p30#a250107p30)
- - [Tesla’s remote parking feature under investigation after over a dozen crashes](https://www.theverge.com/2025/1/7/24338250/tesla-actually-smart-summon-remote-parking-nhtsa)<!-- TECH:END -->
+ - [Best Earbuds for Phone Calls for 2025](https://www.cnet.com/tech/mobile/best-wireless-earbuds-and-bluetooth-headphones-for-making-calls/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

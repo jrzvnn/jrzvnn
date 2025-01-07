@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Former Annapurna leads take charge of Take-Two’s discarded indie games](https://www.theverge.com/2025/1/7/24338274/annapurna-interactive-new-company-take-two-private-division)
- - [This cat tree is also an air purifier](https://www.theverge.com/2025/1/7/24338231/lg-aerocattower-air-purifier-cat-tower)
- - [Human Metapneumovirus Is Finally Being Taken Seriously](https://www.wired.com/story/human-metapneumovirus-is-the-forgotten-burden-of-public-health-china-flu-rsv-covid/)
- - [Source: OpenAI may launch agents this month and has been cautious, as rivals like Anthropic moved ahead, partly due to concerns of prompt injection attacks &lpar;Stephanie Palazzolo/The Information&rpar;](http://www.techmeme.com/250107/p29#a250107p29)
- - [Apple’s AirTags are matching their best price to date](https://www.theverge.com/2025/1/7/24337439/apple-airtag-tracker-google-pixel-buds-pro-deal-sale)<!-- TECH:END -->
+ - [Meta&#39;s Fact-Checking Partners Say They Were &#39;Blindsided&#39; by Decision to Axe Them](https://www.wired.com/story/metas-fact-checking-partners-blindsided/)
+ - [Apple&#39;s second iOS 18.3, iPadOS 18.3 developer betas kick off 2025](https://appleinsider.com/articles/25/01/07/apples-second-ios-183-ipados-183-developer-betas-kick-off-2025?utm_medium=rss)
+ - [Meta is dropping fact-checking after incoming FCC head Brendan Carr threatened it over such practices, undercutting the notion that Meta&#39;s move was principled &lpar;Adi Robertson/The Verge&rpar;](http://www.techmeme.com/250107/p31#a250107p31)
+ - [For months, Meta hid posts that included LGBTQ+ hashtags for all users who had their sensitive content filter turned on; Meta claims this was done erroneously &lpar;Taylor Lorenz/User Mag&rpar;](http://www.techmeme.com/250107/p30#a250107p30)
+ - [Tesla’s remote parking feature under investigation after over a dozen crashes](https://www.theverge.com/2025/1/7/24338250/tesla-actually-smart-summon-remote-parking-nhtsa)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

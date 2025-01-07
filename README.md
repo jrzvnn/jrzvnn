@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [LaCie leverages Thunderbolt 5 with Rugged SSD Pro5 for creative pros at CES 2025](https://appleinsider.com/articles/25/01/07/lacie-leverages-thunderbolt-5-with-rugged-ssd-pro5-for-creative-pros-at-ces-2025?utm_medium=rss)
+ - [Lenovo announces the Yoga Slim 9i, the first Windows laptop with a camera hidden under the display panel, coming in February and starting at $1,849 &lpar;Andrew Romero/9to5Google&rpar;](http://www.techmeme.com/250107/p24#a250107p24)
  - [Screenshots: several employees&#39; posts critical of Meta&#39;s new board member Dana White were deleted by Meta&#39;s ICC, which aims to &quot;minimize disruption&quot; internally &lpar;Jason Koebler/404 Media&rpar;](http://www.techmeme.com/250107/p23#a250107p23)
  - [Lenovo&#39;s Latest Laptop Has a Rollable OLED Screen](https://www.wired.com/story/lenovo-ces-2025-rollable-oled-laptop-steamos-legion-go-s/)
- - [OnePlus 13 review: finally, a flagship that can hang](https://www.theverge.com/24336534/oneplus-13-review-specs-screen-camera-battery)
- - [Inworld AI, Streamlabs, and Nvidia unveil an AI assistant for streamers that can provide technical support for streams in real time and even act as a cohost &lpar;Jay Peters/The Verge&rpar;](http://www.techmeme.com/250107/p22#a250107p22)
- - [Meta’s fact-checking changes are just what Trump’s FCC head asked for](https://www.theverge.com/2025/1/7/24338125/meta-mark-zuckerberg-fact-checking-censorship-brendan-carr-trump)<!-- TECH:END -->
+ - [OnePlus 13 Review: This Flagship Phone Desperately Needs a Reason to Exist](https://www.cnet.com/tech/mobile/oneplus-13-review-this-flagship-phone-desperately-needs-a-reason-to-exist/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Jensen Huang predicts robotics could become &quot;the largest technology industry the world has ever seen&quot;; Nvidia: the humanoids market to reach $38B in 20 years &lpar;Financial Times&rpar;](http://www.techmeme.com/250107/p5#a250107p5)
  - [Sources: Apple plans to expand Apple News in more countries and considered building locally focused news coverage in the UK; Apple News has 125M monthly users &lpar;Daniel Thomas/Financial Times&rpar;](http://www.techmeme.com/250107/p4#a250107p4)
  - [Nvidia announces early access to Omniverse Cloud Sensor RTX, enabling smarter autonomous machines with generative AI, via APIs for select devs like Accenture &lpar;Dean Takahashi/VentureBeat&rpar;](http://www.techmeme.com/250107/p3#a250107p3)
  - [Nvidia updates its Autonomous Game Characters, says the NPCs can &quot;perceive, plan, and act like human players&quot; in games like PUBG, with &quot;small language models&quot; &lpar;Jay Peters/The Verge&rpar;](http://www.techmeme.com/250107/p2#a250107p2)
- - [Jensen Huang says Nvidia&#39;s Cosmos models for humanoids were trained on 20M hours of real footage of &quot;humans walking, hands moving, manipulating things&quot; &lpar;Will Knight/Wired&rpar;](http://www.techmeme.com/250107/p1#a250107p1)
- - [Whale TV Rolls Out Updated TV OS With AI-Powered Recs, Voice Assistant](https://www.cnet.com/tech/home-entertainment/whale-tv-rolls-out-updated-tv-os-with-ai-powered-recs-voice-assistant/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Jensen Huang says Nvidia&#39;s Cosmos models for humanoids were trained on 20M hours of real footage of &quot;humans walking, hands moving, manipulating things&quot; &lpar;Will Knight/Wired&rpar;](http://www.techmeme.com/250107/p1#a250107p1)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

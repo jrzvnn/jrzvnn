@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Indonesian e-commerce pioneer Bukalapak will stop sales of physical goods to focus on virtual goods like mobile credits, amid competition from Shopee and others &lpar;Yuan Gao/Bloomberg&rpar;](http://www.techmeme.com/250108/p6#a250108p6)
  - [AWS says it plans to invest &quot;at least&quot; $11B to expand data center infrastructure in Georgia, which is becoming a popular site for data centers in the US &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/250108/p5#a250108p5)
  - [Ex-Facebook director Katie Harbath says Mark Zuckerberg&#39;s team uses elections to take stock of &quot;where society is, to readjust how they&#39;re approaching content&quot; &lpar;Bloomberg&rpar;](http://www.techmeme.com/250108/p4#a250108p4)
  - [Global venture funding rose 3% YoY to ~$314B in 2024; venture funding to US companies totaled $178B, out of which $90B was invested in Bay Area startups &lpar;Gen&amp;eacute; Teare/Crunchbase News&rpar;](http://www.techmeme.com/250108/p3#a250108p3)
- - [Nvidia CEO Jensen Huang says that MediaTek will be able to sell the CPU chip that the two companies unveiled for Project DIGITS, Nvidia&#39;s first desktop computer &lpar;Stephen Nellis/Reuters&rpar;](http://www.techmeme.com/250108/p2#a250108p2)
- - [Atlanta-based HR and payroll software startup OnPay raised a $63M Series B led by Carrick Capital Partners, taking its total raised to $165M+ in equity and debt &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/250108/p1#a250108p1)<!-- TECH:END -->
+ - [Nvidia CEO Jensen Huang says that MediaTek will be able to sell the CPU chip that the two companies unveiled for Project DIGITS, Nvidia&#39;s first desktop computer &lpar;Stephen Nellis/Reuters&rpar;](http://www.techmeme.com/250108/p2#a250108p2)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

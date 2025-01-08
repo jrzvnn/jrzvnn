@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [His first $100,000 in stock investments turned out pretty well!](http://9gag.com/gag/a0e411X)
- - 😝 [Isn&#39;t that the plot of Yellowstone?](http://9gag.com/gag/aGyEBR6)
- - 💣 [Reminder](http://9gag.com/gag/a6Zqn59)
- - 😝 [How to be kind, smart and f**king dumb in less than 30 seconds...](http://9gag.com/gag/aVvbKLn)
- - 👉 [Fisherman struck by lightning twice](http://9gag.com/gag/a6Zq5r2)<!-- MEMES:END -->
+ - 😝 [Too much mom\u2019s spaghetti.](http://9gag.com/gag/amoAmg6)
+ - 😝 [Why does this happen?](http://9gag.com/gag/a5QXB1G)
+ - 💣 [Fisherman struck by lightning twice](http://9gag.com/gag/a6Zq5r2)
+ - 😝 [John Lennon, 12 months apart. An interesting fact is that John Lennon and Yoko Ono met in 1966 in an art gallery in London.](http://9gag.com/gag/a2vK8bO)
+ - 👉 [How to be kind, smart and f**king dumb in less than 30 seconds...](http://9gag.com/gag/aVvbKLn)<!-- MEMES:END -->
 
 ---
 

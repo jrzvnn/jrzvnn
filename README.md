@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Scammers are going after &#39;Baldur&#39;s Gate 3&#39; gamers in the App Store](https://appleinsider.com/articles/25/01/08/scammers-are-going-after-baldurs-gate-3-gamers-in-the-app-store?utm_medium=rss)
  - [Here’s how small Nvidia’s $3,000 Digits supercomputer looks in person](https://www.theverge.com/2025/1/8/24339195/nvidia-digits-ai-supercomputer-in-person-photos-small)
  - [The fallout of Meta’s content moderation overhaul](https://www.theverge.com/24339131/meta-content-moderation-fact-check-zuckerberg-texas)
  - [&#39;Solo Leveling&#39; Season 2 Release Schedule: When Does Episode 2 Drop?](https://www.cnet.com/tech/services-and-software/solo-leveling-season-2-release-schedule-when-does-episode-2-drop/#ftag=CAD590a51e)
- - [I Took Lemme Sleep for 3 Weeks. Here’s How This Popular Supplement Impacted My Sleep](https://www.cnet.com/health/sleep/i-tested-the-viral-lemme-sleep-gummies/#ftag=CAD590a51e)
- - [CES 2025: 20 New Products and Ideas We&#39;re Obsessed With](https://www.cnet.com/pictures/ces-2025-20-new-products-and-ideas-were-obsessed-with/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [I Took Lemme Sleep for 3 Weeks. Here’s How This Popular Supplement Impacted My Sleep](https://www.cnet.com/health/sleep/i-tested-the-viral-lemme-sleep-gummies/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

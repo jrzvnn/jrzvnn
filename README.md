@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Indonesia says Apple can&#39;t sell its iPhone 16 in the country yet, despite a deal to build a local production facility, as it hasn&#39;t met domestic content rules &lpar;Bernadette Christina/Reuters&rpar;](http://www.techmeme.com/250108/p16#a250108p16)
+ - [T-Mobile is once again being sued over its 2021 data breach](https://www.theverge.com/2025/1/8/24338947/t-mobile-2021-data-breach-washington-ag-lawsuit)
  - [Akamai plans to end its CDN services in China on June 30, 2026, saying customers can move to an Akamai CDN outside China or use local providers like Tencent &lpar;Simon Sharwood/The Register&rpar;](http://www.techmeme.com/250108/p15#a250108p15)
  - [Dublin-based payments startup NomuPay, formed in 2023 from some of Wirecard&#39;s regional payment licenses, raised a $37M Series B at a $200M valuation &lpar;Ingrid Lunden/TechCrunch&rpar;](http://www.techmeme.com/250108/p14#a250108p14)
- - [Nvidia’s Jensen Huang hints at ‘plans’ for its own desktop CPU](https://www.theverge.com/2025/1/8/24338939/nvidia-jensen-huang-hints-arm-desktop-cpu)
- - [NASA Wants to Explore the Icy Moons of Jupiter and Saturn With Autonomous Robots](https://www.wired.com/story/swim-icy-moons-extraterrestrial-life-nasa-jupiter-saturn-europa-swim/)
- - [Don&#39;t Sleep on APYs up to 4.65%. Today&#39;s CD Rates, Jan. 8, 2025](https://www.cnet.com/personal-finance/banking/dont-sleep-on-apys-up-to-4-65-todays-cd-rates-jan-8-2025/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Nvidia’s Jensen Huang hints at ‘plans’ for its own desktop CPU](https://www.theverge.com/2025/1/8/24338939/nvidia-jensen-huang-hints-arm-desktop-cpu)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

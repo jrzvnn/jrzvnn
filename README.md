@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [She laughs in crow too.](http://9gag.com/gag/a34Z0br)
- - 😝 [What happened to women&#39;s rights?](http://9gag.com/gag/ae9QVyp)
- - 💣 [Love the anti Muslim Elon arc lately](http://9gag.com/gag/azx2K3B)
- - 😝 [Best cartoons of my adulthood](http://9gag.com/gag/aqyex1L)
- - 👉 [9/10](http://9gag.com/gag/avyQEnn)<!-- MEMES:END -->
+ - 😝 [For the boys](http://9gag.com/gag/ae9QO1p)
+ - 😝 [Love the anti Muslim Elon arc lately](http://9gag.com/gag/azx2K3B)
+ - 💣 [Best cartoons of my adulthood](http://9gag.com/gag/aqyex1L)
+ - 😝 [9/10](http://9gag.com/gag/avyQEnn)
+ - 👉 [Have you seen any condemnation?](http://9gag.com/gag/aRBEvdy)<!-- MEMES:END -->
 
 ---
 

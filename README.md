@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Your Next AI Wearable Will Listen to Everything All the Time](https://www.wired.com/story/bee-ai-omi-always-listening-ai-wearables/)
  - [Satechi SM3 Slim Mechanical Backlit Bluetooth Keyboard arrives with a full layout](https://appleinsider.com/articles/25/01/08/satechi-sm3-slim-mechanical-backlit-bluetooth-keyboard-arrives-with-a-full-layout?utm_medium=rss)
  - [Apple signs lease for even more office space in Seattle](https://appleinsider.com/articles/25/01/08/apple-signs-lease-for-even-more-office-space-in-seattle?utm_medium=rss)
- - [The X-ification of Meta](https://www.wired.com/story/the-x-ification-of-meta/)
- - [The best stuff we’ve seen at CES so far](https://www.theverge.com/2025/1/6/24337606/ces-2025-smart-home-tv-cameras-power-bank-robot-smart-glasses)
- - [Meta revamping its content moderation systems with Community Notes is good, but Zuckerberg pretending it&#39;s about free speech is bad, and the timing is stupid &lpar;Mike Masnick/Techdirt&rpar;](http://www.techmeme.com/250108/p33#a250108p33)<!-- TECH:END -->
+ - [Meta&#39;s Future Looks Like a Lot Like Elon Musk&#39;s X](https://www.wired.com/story/the-x-ification-of-meta/)
+ - [The best stuff we’ve seen at CES so far](https://www.theverge.com/2025/1/6/24337606/ces-2025-smart-home-tv-cameras-power-bank-robot-smart-glasses)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

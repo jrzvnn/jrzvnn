@@ -158,10 +158,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- TECH:START -->
  - [Tencent repurchased 3.93M Hong Kong shares worth $193M on January 7, its largest buyback since April 2006, following its addition to a US blacklist &lpar;Charlotte Yang/Bloomberg&rpar;](http://www.techmeme.com/250107/p48#a250107p48)
+ - [We Love These Ground-Breaking EV Solutions at CES 2025](https://www.cnet.com/roadshow/news/we-love-these-ground-breaking-ev-solutions-at-ces-2025/#ftag=CAD590a51e)
  - [Documents: The Heritage Foundation plans to &quot;identify and target&quot; Wikipedia editors who it says are &quot;abusing their position&quot; to publish antisemitic content &lpar;Arno Rosenfeld/The Forward&rpar;](http://www.techmeme.com/250107/p47#a250107p47)
- - [Meta&#39;s fact-checking partners PolitiFact and FactCheck.org say they had no role in deciding what the company did with the content that was fact-checked &lpar;Stuart A. Thompson/New York Times&rpar;](http://www.techmeme.com/250107/p46#a250107p46)
- - [Microsoft is combining ‘the best of Xbox and Windows together’ for handhelds](https://www.theverge.com/2025/1/7/24338778/microsoft-xbox-handheld-pc-gaming)
- - [Ten current and former Meta employees share frustrations over Meta&#39;s surrender to the right on speech issues; one called the changes &quot;a precursor to genocide&quot; &lpar;Casey Newton/Platformer&rpar;](http://www.techmeme.com/250107/p45#a250107p45)<!-- TECH:END -->
+ - [Solar-Powered EV, Robot Vacuum With Legs and More Bananas New Stuff From CES 2025](https://www.cnet.com/tech/solar-powered-ev-robot-vacuum-with-legs-and-more-bananas-new-stuff-from-ces-2025/#ftag=CAD590a51e)
+ - [Meta&#39;s fact-checking partners PolitiFact and FactCheck.org say they had no role in deciding what the company did with the content that was fact-checked &lpar;Stuart A. Thompson/New York Times&rpar;](http://www.techmeme.com/250107/p46#a250107p46)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

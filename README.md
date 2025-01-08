@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [A building being demolished from the bodttom-up.](http://9gag.com/gag/an7z2j5)
- - 😝 [Sometimes I just wonder if the orange man is just trolling.](http://9gag.com/gag/aZZDEj6)
- - 💣 [Cap?](http://9gag.com/gag/amoAMQX)
- - 😝 [In 2016, a guy hijacked an Egyptian airline with explosives packed to him. A British man on board asked for a picture with the hijacker as it was happening](http://9gag.com/gag/axyov8Y)
- - 👉 [How to be kind, smart and f**king dumb in less than 30 seconds...](http://9gag.com/gag/aVvbKLn)<!-- MEMES:END -->
+ - 😝 [His first $100,000 in stock investments turned out pretty well!](http://9gag.com/gag/a0e411X)
+ - 😝 [Amazeballs](http://9gag.com/gag/apR9DZW)
+ - 💣 [Instert What the hell happened here meme ..here](http://9gag.com/gag/aAy02oL)
+ - 😝 [How to be kind, smart and f**king dumb in less than 30 seconds...](http://9gag.com/gag/aVvbKLn)
+ - 👉 [A building being demolished from the bodttom-up.](http://9gag.com/gag/an7z2j5)<!-- MEMES:END -->
 
 ---
 

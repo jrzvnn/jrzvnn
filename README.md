@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [MacPaw goes after mobile device management with CleanMy Mac Business](https://appleinsider.com/articles/25/01/07/macpaw-goes-after-mobile-device-management-with-cleanmy-mac-business?utm_medium=rss)
  - [Apple employees fired over charity donation matching fraud](https://appleinsider.com/articles/25/01/08/apple-employees-fired-over-charity-donation-matching-fraud?utm_medium=rss)
  - [Samsung is rolling out a smartphone subscription next month](https://www.theverge.com/2025/1/8/24338974/samsung-galaxy-subscription-smartphones-ballie)
  - [Meta will launch a test in Germany, France and the US to publish eBay listings on Facebook Marketplace, after it was fined &amp;euro;798M by EU for abusing dominance &lpar;Samuel Stolton/Bloomberg&rpar;](http://www.techmeme.com/250108/p21#a250108p21)
- - [Best Noise-Canceling Headphones &lpar;2025&rpar;: Over-Ears, Wireless Earbuds, Workout Pairs](https://www.wired.com/gallery/best-noise-canceling-headphones/)
- - [In a first, an EU court fines the EC &amp;euro;400 for breaching its own data protection law by transferring a user&#39;s data to the US via a Sign in with Facebook option &lpar;Reuters&rpar;](http://www.techmeme.com/250108/p20#a250108p20)<!-- TECH:END -->
+ - [Best Noise-Canceling Headphones &lpar;2025&rpar;: Over-Ears, Wireless Earbuds, Workout Pairs](https://www.wired.com/gallery/best-noise-canceling-headphones/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

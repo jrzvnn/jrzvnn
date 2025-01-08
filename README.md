@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Sources: Bluesky is finalizing a new round at a ~$700M valuation led by Bain Capital Ventures; it raised a $15M Series A in October 2024 and an $8M seed in 2023 &lpar;Business Insider&rpar;](http://www.techmeme.com/250108/p10#a250108p10)
+ - [Asus unveils the Zenbook A14, with a new base-model eight-core Snapdragon X processor, available mid-January starting at $1,100; a $900 variant debuts in March &lpar;Antonio G. Di Benedetto/The Verge&rpar;](http://www.techmeme.com/250108/p9#a250108p9)
  - [Jensen Huang says Nvidia&#39;s AI chips are improving faster than Moore&#39;s Law, claiming that today&#39;s Nvidia AI chips are 1,000x better than those made 10 years ago &lpar;Maxwell Zeff/TechCrunch&rpar;](http://www.techmeme.com/250108/p8#a250108p8)
  - [Sources: Mark Zuckerberg demanded a review at Meta after his 2023 knee surgery post on Facebook initially got anemic attention; Meta downplays the significance &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/250108/p7#a250108p7)
- - [Indonesian e-commerce pioneer Bukalapak will stop sales of physical goods to focus on virtual goods like mobile credits, amid competition from Shopee and others &lpar;Yuan Gao/Bloomberg&rpar;](http://www.techmeme.com/250108/p6#a250108p6)
- - [AWS says it plans to invest &quot;at least&quot; $11B to expand data center infrastructure in Georgia, which is becoming a popular state for data centers in the US &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/250108/p5#a250108p5)
- - [Ex-Facebook director Katie Harbath says Mark Zuckerberg&#39;s team uses elections to take stock of &quot;where society is, to readjust how they&#39;re approaching content&quot; &lpar;Bloomberg&rpar;](http://www.techmeme.com/250108/p4#a250108p4)<!-- TECH:END -->
+ - [Indonesian e-commerce pioneer Bukalapak will stop sales of physical goods to focus on virtual goods like mobile credits, amid competition from Shopee and others &lpar;Yuan Gao/Bloomberg&rpar;](http://www.techmeme.com/250108/p6#a250108p6)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

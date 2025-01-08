@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [For the boys](http://9gag.com/gag/ae9QO1p)
- - 😝 [What happened to women&#39;s rights?](http://9gag.com/gag/ae9QVyp)
- - 💣 [She laughs in crow too.](http://9gag.com/gag/a34Z0br)
- - 😝 [Best cartoons of my adulthood](http://9gag.com/gag/aqyex1L)
- - 👉 [Love the anti Muslim Elon arc lately](http://9gag.com/gag/azx2K3B)<!-- MEMES:END -->
+ - 😝 [Minors](http://9gag.com/gag/avyQ1qM)
+ - 😝 [Why does this happen?](http://9gag.com/gag/a5QXB1G)
+ - 💣 [Reminder](http://9gag.com/gag/a6Zqn59)
+ - 😝 [In 2011, a 29-year-old Australian bartender found an ATM glitch that allowed him to withdraw way beyond his balance. In a bender that lasted four-and-half months, he managed to spend around $1.6 million of the bank\u2019s money.](http://9gag.com/gag/aqyeXBP)
+ - 👉 [She needs to be punished appropriately](http://9gag.com/gag/a5QX6LE)<!-- MEMES:END -->
 
 ---
 

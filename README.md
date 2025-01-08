@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [A building being demolished from the bodttom-up.](http://9gag.com/gag/an7z2j5)
- - 😝 [Now thats a gender equality](http://9gag.com/gag/a87q0nO)
- - 💣 [Fisherman struck by lightning twice](http://9gag.com/gag/a6Zq5r2)
- - 😝 [How to be kind, smart and f**king dumb in less than 30 seconds...](http://9gag.com/gag/aVvbKLn)
- - 👉 [Amazeballs](http://9gag.com/gag/apR9DZW)<!-- MEMES:END -->
+ - 😝 [Best cartoons of my adulthood](http://9gag.com/gag/aqyex1L)
+ - 😝 [9/10](http://9gag.com/gag/avyQEnn)
+ - 💣 [Have you seen any condemnation?](http://9gag.com/gag/aRBEvdy)
+ - 😝 [Closest to the halfway line wins.](http://9gag.com/gag/aqyexmj)
+ - 👉 [Freedom of speach, yeah](http://9gag.com/gag/aAy02wo)<!-- MEMES:END -->
 
 ---
 

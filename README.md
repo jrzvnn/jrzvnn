@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Driver tries to leave scene of accident](http://9gag.com/gag/aRBEzNy)
- - 😝 [Damn that father ain&#39;t recovering after that jeez](http://9gag.com/gag/aO8xeGD)
- - 💣 [Reminder](http://9gag.com/gag/a6Zqn59)
- - 😝 [When you realize](http://9gag.com/gag/a87q0rp)
- - 👉 [Can you fix her?](http://9gag.com/gag/a6Zq5b8)<!-- MEMES:END -->
+ - 😝 [For the boys](http://9gag.com/gag/ae9QO1p)
+ - 😝 [What happened to women&#39;s rights?](http://9gag.com/gag/ae9QVyp)
+ - 💣 [She laughs in crow too.](http://9gag.com/gag/a34Z0br)
+ - 😝 [Best cartoons of my adulthood](http://9gag.com/gag/aqyex1L)
+ - 👉 [Love the anti Muslim Elon arc lately](http://9gag.com/gag/azx2K3B)<!-- MEMES:END -->
 
 ---
 

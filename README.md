@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The best Android phones for everyone](https://www.theverge.com/23674658/best-android-phone)
  - [Do Kwon&#39;s criminal fraud trial in the US is scheduled for January 2026; prosecutors expect challenges accessing encrypted devices and translating communications &lpar;Cheyenne Ligon/CoinDesk&rpar;](http://www.techmeme.com/250108/p35#a250108p35)
  - [Blowout deal: M2 Mac mini with 16GB RAM plunges to $499](https://appleinsider.com/articles/25/01/08/blowout-deal-m2-mac-mini-with-16gb-ram-plunges-to-499?utm_medium=rss)
  - [Is this the Nintendo Switch 2?](https://www.theverge.com/2025/1/8/24339396/nintendo-switch-2-genki-ces-2025)
- - [Some users can&#39;t access Apple Cash due to ongoing issue causing an outage](https://appleinsider.com/articles/25/01/08/some-users-cant-access-apple-cash-due-to-ongoing-issue-causing-an-outage?utm_medium=rss)
- - [The OnePlus 13 is already on sale with a free storage upgrade and a smartwatch](https://www.theverge.com/2025/1/8/24338635/oneplus-13-bose-soundlink-flex-bluetooth-speaker-deal-sale)<!-- TECH:END -->
+ - [Some users can&#39;t access Apple Cash due to ongoing issue causing an outage](https://appleinsider.com/articles/25/01/08/some-users-cant-access-apple-cash-due-to-ongoing-issue-causing-an-outage?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [The perfect flip](http://9gag.com/gag/aBydGvZ)
- - 😝 [Boomer game.](http://9gag.com/gag/awyZdXR)
- - 💣 [Cap?](http://9gag.com/gag/amoAMQX)
- - 😝 [Men are simple creatures](http://9gag.com/gag/axyobrb)
- - 👉 [Why do we feel](http://9gag.com/gag/aBydGrN)<!-- MEMES:END -->
+ - 😝 [Once upon a time](http://9gag.com/gag/apR9xbB)
+ - 😝 [His first $100,000 in stock investments turned out pretty well!](http://9gag.com/gag/a0e411X)
+ - 💣 [Reminder](http://9gag.com/gag/a6Zqn59)
+ - 😝 [Swedish friends, is that true?](http://9gag.com/gag/ae9Qmqj)
+ - 👉 [Sometimes I just wonder if the orange man is just trolling.](http://9gag.com/gag/aZZDEj6)<!-- MEMES:END -->
 
 ---
 

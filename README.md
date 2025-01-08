@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Instert What the hell happened here meme ..here](http://9gag.com/gag/aAy02oL)
- - 😝 [Ride](http://9gag.com/gag/aqye69p)
- - 💣 [Fisherman struck by lightning twice](http://9gag.com/gag/a6Zq5r2)
+ - 😝 [His first $100,000 in stock investments turned out pretty well!](http://9gag.com/gag/a0e411X)
+ - 😝 [HowDisappointing](http://9gag.com/gag/aE0qWgO)
+ - 💣 [Grapes.](http://9gag.com/gag/aVvbL6v)
  - 😝 [Swedish friends, is that true?](http://9gag.com/gag/ae9Qmqj)
- - 👉 [His first $100,000 in stock investments turned out pretty well!](http://9gag.com/gag/a0e411X)<!-- MEMES:END -->
+ - 👉 [Fisherman struck by lightning twice](http://9gag.com/gag/a6Zq5r2)<!-- MEMES:END -->
 
 ---
 

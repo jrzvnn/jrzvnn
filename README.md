@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Now thats a gender equality](http://9gag.com/gag/a87q0nO)
+ - 😝 [Reminder](http://9gag.com/gag/a6Zqn59)
+ - 😝 [Tameshigiri Master demonstrates how useless a katana could be without the proper technique &amp; skills](http://9gag.com/gag/a5QXwGG)
+ - 💣 [A building being demolished from the bodttom-up.](http://9gag.com/gag/an7z2j5)
  - 😝 [Alison Lohman behind the scenes of \u201cDrag Me to Hell\u201d &lpar;2009&rpar;.](http://9gag.com/gag/aQzEQZq)
- - 💣 [Tameshigiri Master demonstrates how useless a katana could be without the proper technique &amp; skills](http://9gag.com/gag/a5QXwGG)
- - 😝 [Asking the real question](http://9gag.com/gag/aByd6gQ)
- - 👉 [In 2011, a 29-year-old Australian bartender found an ATM glitch that allowed him to withdraw way beyond his balance. In a bender that lasted four-and-half months, he managed to spend around $1.6 million of the bank\u2019s money.](http://9gag.com/gag/aqyeXBP)<!-- MEMES:END -->
+ - 👉 [In 2016, a guy hijacked an Egyptian airline with explosives packed to him. A British man on board asked for a picture with the hijacker as it was happening](http://9gag.com/gag/axyov8Y)<!-- MEMES:END -->
 
 ---
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Swedish friends, is that true?](http://9gag.com/gag/ae9Qmqj)
+ - 😝 [What are you doing step police bro](http://9gag.com/gag/arymBDB)
  - 😝 [His first $100,000 in stock investments turned out pretty well!](http://9gag.com/gag/a0e411X)
- - 💣 [How to be kind, smart and f**king dumb in less than 30 seconds...](http://9gag.com/gag/aVvbKLn)
- - 😝 [Sometimes I just wonder if the orange man is just trolling.](http://9gag.com/gag/aZZDEj6)
- - 👉 [Once upon a time](http://9gag.com/gag/apR9xbB)<!-- MEMES:END -->
+ - 💣 [When you realize](http://9gag.com/gag/a87q0rp)
+ - 😝 [Tameshigiri Master demonstrates how useless a katana could be without the proper technique &amp; skills](http://9gag.com/gag/a5QXwGG)
+ - 👉 [Guy in his million-dollar LA mansion would rather film the wildfire than flee](http://9gag.com/gag/a87q2De)<!-- MEMES:END -->
 
 ---
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Tencent repurchased 3.93M Hong Kong shares worth $193M on January 7, its largest buyback since April 2006, following its addition to a US blacklist &lpar;Charlotte Yang/Bloomberg&rpar;](http://www.techmeme.com/250107/p48#a250107p48)
+ - [Documents: The Heritage Foundation plans to &quot;identify and target&quot; Wikipedia editors who it says are &quot;abusing their position&quot; to publish antisemitic content &lpar;Arno Rosenfeld/The Forward&rpar;](http://www.techmeme.com/250107/p47#a250107p47)
  - [Meta&#39;s fact-checking partners PolitiFact and FactCheck.org say they had no role in deciding what the company did with the content that was fact-checked &lpar;Stuart A. Thompson/New York Times&rpar;](http://www.techmeme.com/250107/p46#a250107p46)
  - [Microsoft is combining ‘the best of Xbox and Windows together’ for handhelds](https://www.theverge.com/2025/1/7/24338778/microsoft-xbox-handheld-pc-gaming)
- - [Ten current and former Meta employees share frustrations over Meta&#39;s surrender to the right on speech issues; one called the changes &quot;a precursor to genocide&quot; &lpar;Casey Newton/Platformer&rpar;](http://www.techmeme.com/250107/p45#a250107p45)
- - [Sam Altman’s sister files sexual abuse lawsuit against him — his family says it’s ‘utterly untrue’](https://www.theverge.com/2025/1/7/24338736/sam-altman-sexual-abuse-lawsuit-ann-sister)
- - [Sam Altman, in a statement with his family, denies the sexual abuse allegations made by his sister in a lawsuit and says she faces &quot;mental health challenges&quot; &lpar;Hayden Field/CNBC&rpar;](http://www.techmeme.com/250107/p44#a250107p44)<!-- TECH:END -->
+ - [Ten current and former Meta employees share frustrations over Meta&#39;s surrender to the right on speech issues; one called the changes &quot;a precursor to genocide&quot; &lpar;Casey Newton/Platformer&rpar;](http://www.techmeme.com/250107/p45#a250107p45)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

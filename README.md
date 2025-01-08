@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Nvidia CEO Jensen Huang says that MediaTek will be able to sell the CPU chip that the two companies unveiled for Project DIGITS, Nvidia&#39;s first desktop computer &lpar;Stephen Nellis/Reuters&rpar;](http://www.techmeme.com/250108/p2#a250108p2)
+ - [Atlanta-based HR and payroll software startup OnPay raised a $63M Series B led by Carrick Capital Partners, taking its total raised to $165M+ in equity and debt &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/250108/p1#a250108p1)
  - [7 of the Best Soft Mattresses of 2025](https://www.cnet.com/health/sleep/best-soft-mattress/#ftag=CAD590a51e)
  - [Today&#39;s NYT Mini Crossword Answers for Wednesday, Jan. 8](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-wednesday-jan-8/#ftag=CAD590a51e)
- - [Today&#39;s NYT Mini Crossword Answers for Tuesday, Jan. 7](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-tuesday-jan-7/#ftag=CAD590a51e)
- - [Today&#39;s NYT Connections: Sports Edition Hints and Answers for Jan. 8, #107](https://www.cnet.com/tech/gaming/todays-nyt-connections-sports-edition-hints-and-answers-for-jan-8-107/#ftag=CAD590a51e)
- - [How to automate iPhone reboots to improve performance &amp; security](https://appleinsider.com/inside/iphone/tips/how-to-automate-iphone-reboots-to-improve-performance-security?utm_medium=rss)<!-- TECH:END -->
+ - [Today&#39;s NYT Mini Crossword Answers for Tuesday, Jan. 7](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-tuesday-jan-7/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

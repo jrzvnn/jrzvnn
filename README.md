@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Satechi SM3 Slim Mechanical Backlit Bluetooth Keyboard arrives with a full layout](https://appleinsider.com/articles/25/01/08/satechi-sm3-slim-mechanical-backlit-bluetooth-keyboard-arrives-with-a-full-layout?utm_medium=rss)
+ - [Apple signs lease for even more office space in Seattle](https://appleinsider.com/articles/25/01/08/apple-signs-lease-for-even-more-office-space-in-seattle?utm_medium=rss)
  - [The X-ification of Meta](https://www.wired.com/story/the-x-ification-of-meta/)
  - [The best stuff we’ve seen at CES so far](https://www.theverge.com/2025/1/6/24337606/ces-2025-smart-home-tv-cameras-power-bank-robot-smart-glasses)
- - [Meta revamping its content moderation systems with Community Notes is good, but Zuckerberg pretending it&#39;s about free speech is bad, and the timing is stupid &lpar;Mike Masnick/Techdirt&rpar;](http://www.techmeme.com/250108/p33#a250108p33)
- - [Scammers are going after &#39;Baldur&#39;s Gate 3&#39; gamers in the App Store](https://appleinsider.com/articles/25/01/08/scammers-are-going-after-baldurs-gate-3-gamers-in-the-app-store?utm_medium=rss)
- - [Here’s how small Nvidia’s $3,000 Digits supercomputer looks in person](https://www.theverge.com/2025/1/8/24339195/nvidia-digits-ai-supercomputer-in-person-photos-small)<!-- TECH:END -->
+ - [Meta revamping its content moderation systems with Community Notes is good, but Zuckerberg pretending it&#39;s about free speech is bad, and the timing is stupid &lpar;Mike Masnick/Techdirt&rpar;](http://www.techmeme.com/250108/p33#a250108p33)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

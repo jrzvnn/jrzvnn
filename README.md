@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Man with headaches used nails to try to relieve the pain over course of a year before seeking medical attention. He survived with no ill effects.](http://9gag.com/gag/aO8x9dy)
- - 😝 [This woman!](http://9gag.com/gag/ayN232p)
- - 💣 [Reminder](http://9gag.com/gag/a6Zqn59)
- - 😝 [How to be kind, smart and f**king dumb in less than 30 seconds...](http://9gag.com/gag/aVvbKLn)
- - 👉 [Alison Lohman behind the scenes of \u201cDrag Me to Hell\u201d &lpar;2009&rpar;.](http://9gag.com/gag/aQzEQZq)<!-- MEMES:END -->
+ - 😝 [For the boys](http://9gag.com/gag/ae9QO1p)
+ - 😝 [Best cartoons of my adulthood](http://9gag.com/gag/aqyex1L)
+ - 💣 [What happened to women&#39;s rights?](http://9gag.com/gag/ae9QVyp)
+ - 😝 [She laughs in crow too.](http://9gag.com/gag/a34Z0br)
+ - 👉 [Love the anti Muslim Elon arc lately](http://9gag.com/gag/azx2K3B)<!-- MEMES:END -->
 
 ---
 

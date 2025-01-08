@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Too much mom\u2019s spaghetti.](http://9gag.com/gag/amoAmg6)
- - 😝 [Why does this happen?](http://9gag.com/gag/a5QXB1G)
- - 💣 [Fisherman struck by lightning twice](http://9gag.com/gag/a6Zq5r2)
+ - 😝 [Fisherman struck by lightning twice](http://9gag.com/gag/a6Zq5r2)
+ - 😝 [A building being demolished from the bodttom-up.](http://9gag.com/gag/an7z2j5)
+ - 💣 [Reminder](http://9gag.com/gag/a6Zqn59)
  - 😝 [John Lennon, 12 months apart. An interesting fact is that John Lennon and Yoko Ono met in 1966 in an art gallery in London.](http://9gag.com/gag/a2vK8bO)
- - 👉 [How to be kind, smart and f**king dumb in less than 30 seconds...](http://9gag.com/gag/aVvbKLn)<!-- MEMES:END -->
+ - 👉 [Top 10 anime betrayals](http://9gag.com/gag/aE0qWMn)<!-- MEMES:END -->
 
 ---
 

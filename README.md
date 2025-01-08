@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Meta tests eBay listings in Facebook Marketplace](https://www.theverge.com/2025/1/8/24339056/meta-ebay-listings-facebook-marketplace-eu)
  - [Niklas Zennstr&amp;ouml;m says European startups can thrive by developing apps for US-based AI platforms and believes pessimism about European startups is exaggerated &lpar;Tim Bradshaw/Financial Times&rpar;](http://www.techmeme.com/250108/p27#a250108p27)
  - [AT&amp;T will credit you for a day’s service after some fiber or wireless outages](https://www.theverge.com/2025/1/8/24339036/att-fiber-wireless-outage-guarantee-rewards-card-credits)
- - [Turn Up the Music With a Pair of AirPods Max While They&#39;re Down to $400](https://www.cnet.com/deals/airpods-max-down-to-400/#ftag=CAD590a51e)
- - [Best Protein Shakes for an Effortless Boost in 2025](https://www.cnet.com/health/fitness/best-protein-shakes/#ftag=CAD590a51e)
- - [Sources: TSMC&#39;s Arizona plant is now producing Systems-in-Package for the Apple Watch, almost certainly the S9, in addition to the A16 processor for iPhones &lpar;Tim Culpan/Culpium,&rpar;](http://www.techmeme.com/250108/p26#a250108p26)<!-- TECH:END -->
+ - [Sources: TSMC&#39;s Arizona plant is now producing Systems-in-Package for the Apple Watch, almost certainly the S9, in addition to the A16 processor for iPhones &lpar;Tim Culpan/Culpium,&rpar;](http://www.techmeme.com/250108/p26#a250108p26)
+ - [Google says Nest hubs, Chromecasts, Google TV devices on Android 14, and more can now control Matter devices locally, and opens its Home APIs to all developers &lpar;Jennifer Pattison Tuohy/The Verge&rpar;](http://www.techmeme.com/250108/p25#a250108p25)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

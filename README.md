@@ -166,10 +166,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Why does this happen?](http://9gag.com/gag/a5QXB1G)
- - 😝 [Alison Lohman behind the scenes of \u201cDrag Me to Hell\u201d &lpar;2009&rpar;.](http://9gag.com/gag/aQzEQZq)
- - 💣 [How to be kind, smart and f**king dumb in less than 30 seconds...](http://9gag.com/gag/aVvbKLn)
- - 😝 [Can you fix her?](http://9gag.com/gag/a6Zq5b8)
+ - 😝 [Sometimes I just wonder if the orange man is just trolling.](http://9gag.com/gag/aZZDEj6)
+ - 😝 [When you realize](http://9gag.com/gag/a87q0rp)
+ - 💣 [Top 10 anime betrayals](http://9gag.com/gag/aE0qWMn)
+ - 😝 [How to be kind, smart and f**king dumb in less than 30 seconds...](http://9gag.com/gag/aVvbKLn)
  - 👉 [Reminder](http://9gag.com/gag/a6Zqn59)<!-- MEMES:END -->
 
 ---

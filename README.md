@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [7 of the Best Soft Mattresses of 2025](https://www.cnet.com/health/sleep/best-soft-mattress/#ftag=CAD590a51e)
- - [Today&#39;s NYT Mini Crossword Answers for Wednesday, Jan. 8](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-wednesday-jan-8/#ftag=CAD590a51e)
- - [Today&#39;s NYT Mini Crossword Answers for Tuesday, Jan. 7](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-tuesday-jan-7/#ftag=CAD590a51e)
- - [Today&#39;s NYT Connections: Sports Edition Hints and Answers for Jan. 8, #107](https://www.cnet.com/tech/gaming/todays-nyt-connections-sports-edition-hints-and-answers-for-jan-8-107/#ftag=CAD590a51e)
- - [How to automate iPhone reboots to improve performance &amp; security](https://appleinsider.com/inside/iphone/tips/how-to-automate-iphone-reboots-to-improve-performance-security?utm_medium=rss)<!-- TECH:END -->
+ - [How to automate iPhone reboots to improve performance &amp; security](https://appleinsider.com/inside/iphone/tips/how-to-automate-iphone-reboots-to-improve-performance-security?utm_medium=rss)
+ - [The US NLRB says Google is a &quot;joint employer&quot; of ~50 Accenture Flex workers who joined the Alphabet Workers Union in 2023 and must bargain with their union &lpar;Daniel Wiessner/Reuters&rpar;](http://www.techmeme.com/250107/p49#a250107p49)
+ - [Las Vegas police release ChatGPT logs from the suspect in the Cybertruck explosion](https://www.theverge.com/2025/1/7/24338788/las-vegas-cybertruck-explosion-chatgpt-ai-search)
+ - [Tencent repurchased 3.93M Hong Kong-listed shares, worth ~$193M, on January 7, its largest buyback since April 2006, following its addition to a US blacklist &lpar;Charlotte Yang/Bloomberg&rpar;](http://www.techmeme.com/250107/p48#a250107p48)
+ - [We Love These Ground-Breaking EV Solutions at CES 2025](https://www.cnet.com/roadshow/news/we-love-these-ground-breaking-ev-solutions-at-ces-2025/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

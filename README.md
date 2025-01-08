@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Ride](http://9gag.com/gag/aqye69p)
- - 😝 [How to be kind, smart and f**king dumb in less than 30 seconds...](http://9gag.com/gag/aVvbKLn)
- - 💣 [Reminder](http://9gag.com/gag/a6Zqn59)
  - 😝 [Swedish friends, is that true?](http://9gag.com/gag/ae9Qmqj)
- - 👉 [Tameshigiri Master demonstrates how useless a katana could be without the proper technique &amp; skills](http://9gag.com/gag/a5QXwGG)<!-- MEMES:END -->
+ - 😝 [Instert What the hell happened here meme ..here](http://9gag.com/gag/aAy02oL)
+ - 💣 [Fisherman struck by lightning twice](http://9gag.com/gag/a6Zq5r2)
+ - 😝 [Ride](http://9gag.com/gag/aqye69p)
+ - 👉 [Sometimes I just wonder if the orange man is just trolling.](http://9gag.com/gag/aZZDEj6)<!-- MEMES:END -->
 
 ---
 

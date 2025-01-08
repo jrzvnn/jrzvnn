@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Audio: Meta told the International Fact-Checking Network that its US partnerships will end in March but Community Notes rollout is expected to take time &lpar;Pranav Dixit/Business Insider&rpar;](http://www.techmeme.com/250108/p31#a250108p31)
+ - [Price war: Apple&#39;s 15-inch MacBook Air 512GB falls to lowest price in 30 days](https://appleinsider.com/articles/25/01/08/price-war-apples-15-inch-macbook-air-512gb-falls-to-lowest-price-in-30-days?utm_medium=rss)
  - [Can Nvidia’s RTX 5070 really deliver RTX 4090 performance for $549?](https://www.theverge.com/2025/1/8/24338999/nvidia-rtx-5070-vs-rtx4090-performance-price)
  - [Internal 2023 docs: Meta exempted some top advertisers from its usual content moderation process amid concerns that its systems mistakenly penalised top brands &lpar;Financial Times&rpar;](http://www.techmeme.com/250108/p30#a250108p30)
- - [EU rejects Zuckerberg&#39;s claim that &quot;Europe has an ever increasing number of laws institutionalising censorship&quot;, saying it only requires illegal content removal &lpar;Philip Blenkinsop/Reuters&rpar;](http://www.techmeme.com/250108/p29#a250108p29)
- - [Omi is another AI companion wearable — but this one’s trying to read your mind](https://www.theverge.com/2025/1/8/24338750/omi-ai-wearable-friend-companion)
- - [Foxconn wants a bigger cut of India&#39;s production incentive subsidies](https://appleinsider.com/articles/25/01/08/foxconn-wants-a-bigger-cut-of-indias-production-incentive-subsidies?utm_medium=rss)<!-- TECH:END -->
+ - [EU rejects Zuckerberg&#39;s claim that &quot;Europe has an ever increasing number of laws institutionalising censorship&quot;, saying it only requires illegal content removal &lpar;Philip Blenkinsop/Reuters&rpar;](http://www.techmeme.com/250108/p29#a250108p29)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

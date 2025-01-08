@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [A building being demolished from the bodttom-up.](http://9gag.com/gag/an7z2j5)
  - 😝 [Once upon a time](http://9gag.com/gag/apR9xbB)
- - 😝 [His first $100,000 in stock investments turned out pretty well!](http://9gag.com/gag/a0e411X)
- - 💣 [Reminder](http://9gag.com/gag/a6Zqn59)
+ - 💣 [Welcome to the new era of gaming](http://9gag.com/gag/aMVEzYX)
  - 😝 [Swedish friends, is that true?](http://9gag.com/gag/ae9Qmqj)
- - 👉 [Sometimes I just wonder if the orange man is just trolling.](http://9gag.com/gag/aZZDEj6)<!-- MEMES:END -->
+ - 👉 [Man with headaches used nails to try to relieve the pain over course of a year before seeking medical attention. He survived with no ill effects.](http://9gag.com/gag/aO8x9dy)<!-- MEMES:END -->
 
 ---
 

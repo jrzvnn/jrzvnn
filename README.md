@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [You can get a $50 credit when you preorder the next Samsung Galaxy devices](https://www.theverge.com/2025/1/8/24339000/samsung-unpacked-2025-galaxy-s25-plus-ultra-pre-order-credit-deal)
- - [JPMorgan files two lawsuits over its investment in fintech Viva Wallet; source: JPM claims &amp;euro;916M, alleging Viva deprived JPM the value of its 2022 investment &lpar;Sotiris Nikas/Bloomberg&rpar;](http://www.techmeme.com/250108/p28#a250108p28)
- - [Mythic Quest is working through its AI woes in new season 4 trailer](https://www.theverge.com/2025/1/8/24339070/mythic-quest-season-4-trailer)
- - [Meta tests eBay listings in Facebook Marketplace](https://www.theverge.com/2025/1/8/24339056/meta-ebay-listings-facebook-marketplace-eu)
- - [Niklas Zennstr&amp;ouml;m says European startups can thrive by developing apps for US-based AI platforms and believes pessimism about European startups is exaggerated &lpar;Tim Bradshaw/Financial Times&rpar;](http://www.techmeme.com/250108/p27#a250108p27)<!-- TECH:END -->
+ - [Can Nvidia’s RTX 5070 really deliver RTX 4090 performance for $549?](https://www.theverge.com/2025/1/8/24338999/nvidia-rtx-5070-vs-rtx4090-performance-price)
+ - [Internal 2023 docs: Meta exempted some top advertisers from its usual content moderation process amid concerns that its systems mistakenly penalised top brands &lpar;Financial Times&rpar;](http://www.techmeme.com/250108/p30#a250108p30)
+ - [EU rejects Zuckerberg&#39;s claim that &quot;Europe has an ever increasing number of laws institutionalising censorship&quot;, saying it only requires illegal content removal &lpar;Philip Blenkinsop/Reuters&rpar;](http://www.techmeme.com/250108/p29#a250108p29)
+ - [Omi is another AI companion wearable — but this one’s trying to read your mind](https://www.theverge.com/2025/1/8/24338750/omi-ai-wearable-friend-companion)
+ - [Foxconn wants a bigger cut of India&#39;s production incentive subsidies](https://appleinsider.com/articles/25/01/08/foxconn-wants-a-bigger-cut-of-indias-production-incentive-subsidies?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

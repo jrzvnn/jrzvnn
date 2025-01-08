@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The fallout of Meta’s content moderation overhaul](https://www.theverge.com/24339131/meta-content-moderation-fact-check-zuckerberg-texas)
  - [&#39;Solo Leveling&#39; Season 2 Release Schedule: When Does Episode 2 Drop?](https://www.cnet.com/tech/services-and-software/solo-leveling-season-2-release-schedule-when-does-episode-2-drop/#ftag=CAD590a51e)
  - [I Took Lemme Sleep for 3 Weeks. Here’s How This Popular Supplement Impacted My Sleep](https://www.cnet.com/health/sleep/i-tested-the-viral-lemme-sleep-gummies/#ftag=CAD590a51e)
  - [CES 2025: 20 New Products and Ideas We&#39;re Obsessed With](https://www.cnet.com/pictures/ces-2025-20-new-products-and-ideas-were-obsessed-with/#ftag=CAD590a51e)
- - [Robot Vacuum With Legs, Rollable Laptop and More Innovative New Products From CES 2025](https://www.cnet.com/tech/robot-vacuum-with-legs-rollable-laptop-and-more-innovative-new-products-from-ces-2025/#ftag=CAD590a51e)
- - [Best Apple Watch Series 10 Deals: Save $70 Instantly, More With Trade-In](https://www.cnet.com/deals/best-apple-watch-series-10-deals/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Robot Vacuum With Legs, Rollable Laptop and More Innovative New Products From CES 2025](https://www.cnet.com/tech/robot-vacuum-with-legs-rollable-laptop-and-more-innovative-new-products-from-ces-2025/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [For the boys](http://9gag.com/gag/ae9QO1p)
- - 😝 [Love the anti Muslim Elon arc lately](http://9gag.com/gag/azx2K3B)
- - 💣 [Best cartoons of my adulthood](http://9gag.com/gag/aqyex1L)
- - 😝 [9/10](http://9gag.com/gag/avyQEnn)
- - 👉 [Have you seen any condemnation?](http://9gag.com/gag/aRBEvdy)<!-- MEMES:END -->
+ - 😝 [A lesson has been learned](http://9gag.com/gag/a4PoNM1)
+ - 😝 [Reminder](http://9gag.com/gag/a6Zqn59)
+ - 💣 [Man with headaches used nails to try to relieve the pain over course of a year before seeking medical attention. He survived with no ill effects.](http://9gag.com/gag/aO8x9dy)
+ - 😝 [How to be kind, smart and f**king dumb in less than 30 seconds...](http://9gag.com/gag/aVvbKLn)
+ - 👉 [New year new me](http://9gag.com/gag/an7z280)<!-- MEMES:END -->
 
 ---
 

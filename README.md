@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Meta&#39;s fact-checking overhaul is set to deepen a growing schism between how platforms do content moderation in the US and in stricter regions like Europe &lpar;Cristiano Lima-Strong/Washington Post&rpar;](http://www.techmeme.com/250108/p24#a250108p24)
- - [The weirdest tech at CES 2025](https://www.theverge.com/2025/1/8/24338251/ces-2025-weirdest-tech-gadgets-robots)
- - [EU races to conclude investigation into X’s content moderation efforts](https://www.theverge.com/2025/1/8/24338985/x-content-moderation-eu-probe-dsa-rules)
- - [Google Home hubs can now work locally thanks to Matter](https://www.theverge.com/2025/1/8/24338969/google-home-hubs-local-control-matter)
- - [Sources: Movement Labs, which is building a layer-2 Ethereum blockchain, is set to raise a $100M Series B at a $3B valuation, after raising $38M in April 2024 &lpar;Leo Schwartz/Fortune&rpar;](http://www.techmeme.com/250108/p23#a250108p23)<!-- TECH:END -->
+ - [TSMC&#39;s Arizona plant starts making a second Apple chip](https://appleinsider.com/articles/25/01/08/tsmcs-arizona-plant-starts-making-a-second-apple-chip?utm_medium=rss)
+ - [This 10-Piece Calphalon Stainless Steel Cookware Set Is a Delicious 50% Off Right Now](https://www.cnet.com/deals/this-10-piece-calphalon-stainless-steel-cookware-set-is-a-delicious-50-off-right-now/#ftag=CAD590a51e)
+ - [Don&#39;t Sleep on APYs up to 4.65%. Today&#39;s CD Rates, Jan. 8, 2025](https://www.cnet.com/personal-finance/banking/dont-sleep-on-apys-up-to-4-65-todays-cd-rates-jan-8-2025/#ftag=CAD590a51e)
+ - [Amazon Prime Members Can Get This Excellent Anker USB-C Car Charger at an All-Time Low](https://www.cnet.com/deals/amazon-prime-members-can-get-this-excellent-anker-usb-c-car-charger-at-an-all-time-low/#ftag=CAD590a51e)
+ - [There&#39;s Still Time to Earn Savings on APYs Over 4%. Today&#39;s Savings Rates for Jan. 8, 2025](https://www.cnet.com/personal-finance/banking/theres-still-time-to-earn-savings-apys-over-4-todays-savings-rates-for-jan-8-2025/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

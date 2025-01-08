@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Best cartoons of my adulthood](http://9gag.com/gag/aqyex1L)
- - 😝 [9/10](http://9gag.com/gag/avyQEnn)
- - 💣 [Have you seen any condemnation?](http://9gag.com/gag/aRBEvdy)
- - 😝 [Closest to the halfway line wins.](http://9gag.com/gag/aqyexmj)
- - 👉 [Freedom of speach, yeah](http://9gag.com/gag/aAy02wo)<!-- MEMES:END -->
+ - 😝 [Once upon a time](http://9gag.com/gag/apR9xbB)
+ - 😝 [Man with headaches used nails to try to relieve the pain over course of a year before seeking medical attention. He survived with no ill effects.](http://9gag.com/gag/aO8x9dy)
+ - 💣 [Alison Lohman behind the scenes of \u201cDrag Me to Hell\u201d &lpar;2009&rpar;.](http://9gag.com/gag/aQzEQZq)
+ - 😝 [How to be kind, smart and f**king dumb in less than 30 seconds...](http://9gag.com/gag/aVvbKLn)
+ - 👉 [Indonesian version of UFC is little bit different](http://9gag.com/gag/aZZDEOQ)<!-- MEMES:END -->
 
 ---
 

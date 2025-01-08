@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [For the boys](http://9gag.com/gag/ae9QO1p)
- - 😝 [Best cartoons of my adulthood](http://9gag.com/gag/aqyex1L)
- - 💣 [What happened to women&#39;s rights?](http://9gag.com/gag/ae9QVyp)
- - 😝 [She laughs in crow too.](http://9gag.com/gag/a34Z0br)
- - 👉 [Love the anti Muslim Elon arc lately](http://9gag.com/gag/azx2K3B)<!-- MEMES:END -->
+ - 😝 [In my days you maybe got a guy in a crappy costume, not a fully choreographed bout. Neat.](http://9gag.com/gag/aPAgeKV)
+ - 😝 [A lesson has been learned](http://9gag.com/gag/a4PoNM1)
+ - 💣 [Alison Lohman behind the scenes of \u201cDrag Me to Hell\u201d &lpar;2009&rpar;.](http://9gag.com/gag/aQzEQZq)
+ - 😝 [A billion?](http://9gag.com/gag/aD2Y8DK)
+ - 👉 [When you realize](http://9gag.com/gag/a87q0rp)<!-- MEMES:END -->
 
 ---
 

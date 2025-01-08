@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [AI Social Media Users Are Not Always a Totally Dumb Idea](https://www.wired.com/story/ai-social-media-users-are-not-always-a-totally-dumb-idea/)
- - [Microsoft open sources the 14B-parameter AI model Phi-4 and its weights, available on Hugging Face under a MIT License, after releasing it in December 2024 &lpar;Carl Franzen/VentureBeat&rpar;](http://www.techmeme.com/250108/p32#a250108p32)
- - [&#39;Sniper Elite 4&#39; creeps onto Mac, iPhone, and iPad](https://appleinsider.com/articles/25/01/08/sniper-elite-4-creeps-onto-mac-iphone-and-ipad?utm_medium=rss)
- - [Apple TV+ hits &#39;Slow Horses&#39; and &#39;Shrinking&#39; nominated for acting awards](https://appleinsider.com/articles/25/01/08/apple-tv-hits-slow-horses-and-shrinking-nominated-for-acting-awards?utm_medium=rss)
- - [The Sleek, White OnePlus 13 Is Great for Gamers, but Its Battery Disappoints](https://www.cnet.com/pictures/hands-on-with-the-sleek-white-oneplus-13/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [&#39;Solo Leveling&#39; Season 2 Release Schedule: When Does Episode 2 Drop?](https://www.cnet.com/tech/services-and-software/solo-leveling-season-2-release-schedule-when-does-episode-2-drop/#ftag=CAD590a51e)
+ - [I Took Lemme Sleep for 3 Weeks. Here’s How This Popular Supplement Impacted My Sleep](https://www.cnet.com/health/sleep/i-tested-the-viral-lemme-sleep-gummies/#ftag=CAD590a51e)
+ - [CES 2025: 20 New Products and Ideas We&#39;re Obsessed With](https://www.cnet.com/pictures/ces-2025-20-new-products-and-ideas-were-obsessed-with/#ftag=CAD590a51e)
+ - [Robot Vacuum With Legs, Rollable Laptop and More Innovative New Products From CES 2025](https://www.cnet.com/tech/robot-vacuum-with-legs-rollable-laptop-and-more-innovative-new-products-from-ces-2025/#ftag=CAD590a51e)
+ - [Best Apple Watch Series 10 Deals: Save $70 Instantly, More With Trade-In](https://www.cnet.com/deals/best-apple-watch-series-10-deals/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

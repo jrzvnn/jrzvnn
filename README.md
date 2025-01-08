@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [OnePlus 13 review: excellent battery life, six years of security updates, solid build quality with IP69 rating, but most AI tools require internet connectivity &lpar;Nicholas Sutrich/Android Central&rpar;](http://www.techmeme.com/250107/p40#a250107p40)
- - [Meta is leaving its users to wade through hate and disinformation](https://www.theverge.com/2025/1/7/24338127/meta-end-fact-checking-misinformation-zuckerberg)
- - [Meta Follows Elon Musk’s Lead, Moves Staffers to Billionaire-Friendly Texas](https://www.wired.com/story/meta-elon-musks-lead-trust-safety-billionaire-friendly-texas/)
- - [All the Top CPU and GPU News From CES 2025](https://www.wired.com/story/intel-amd-qualcomm-nvidia-new-cpus-and-gpus-ces-2025/)
- - [LG’s StanbyME sequel adds a carrying strap to the portable TV](https://www.theverge.com/2025/1/7/24338520/lg-stanbyme-2-portable-tv-carrying-strap-ces-2025)<!-- TECH:END -->
+ - [Samsung reports preliminary Q4 operating profit of ~$4.5B, missing analysts&#39; average projection of ~$6.2B, and revenue of ~$51.7B, also missing estimates &lpar;Bloomberg&rpar;](http://www.techmeme.com/250107/p43#a250107p43)
+ - [Trump says Meta has &quot;come a long way&quot; after the company announced it will end its fact-checking program, and that Meta&#39;s &quot;presentation was excellent&quot; &lpar;Fox News&rpar;](http://www.techmeme.com/250107/p42#a250107p42)
+ - [Afeela EV: Sony and Honda Finally Set a Price and Start Taking Orders](https://www.cnet.com/roadshow/news/afeela-ev-sony-and-honda-finally-set-a-price-and-start-taking-orders/#ftag=CAD590a51e)
+ - [BMW Goes Big for Panoramic iDrive Preview video](https://www.cnet.com/videos/bmw-goes-big-for-panoramic-idrive-preview/#ftag=CAD590a51e)
+ - [Making Robots Look and Feel More Human video](https://www.cnet.com/videos/making-robots-look-and-feel-more-human/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

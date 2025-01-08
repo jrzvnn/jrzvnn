@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [NHTSA: software fixes accounted for 15% of US automotive recalls in 2024, up from 6% in 2019, as traditional carmakers struggle with managing software updates &lpar;Brooke Masters/Financial Times&rpar;](http://www.techmeme.com/250108/p12#a250108p12)
  - [Inside Naver&#39;s 1784, a 36-level office tower in Seoul, which has ~4,500 employees working with 120 robots and serves as a testbed for various AI technologies &lpar;Saritha Rai/Bloomberg&rpar;](http://www.techmeme.com/250108/p11#a250108p11)
  - [Don’t Count Out Human Writers in the Age of AI](https://www.wired.com/story/dont-count-out-human-writers-in-the-age-of-ai/)
  - [Sources: Bluesky is finalizing a new round at a ~$700M valuation led by Bain Capital Ventures; it raised a $15M Series A in October 2024 and an $8M seed in 2023 &lpar;Business Insider&rpar;](http://www.techmeme.com/250108/p10#a250108p10)
- - [Asus unveils the Zenbook A14, with a new base-model eight-core Snapdragon X processor, available mid-January starting at $1,100; a $900 variant debuts in March &lpar;Antonio G. Di Benedetto/The Verge&rpar;](http://www.techmeme.com/250108/p9#a250108p9)
- - [Jensen Huang says Nvidia&#39;s AI chips are improving faster than Moore&#39;s Law, claiming that today&#39;s Nvidia AI chips are 1,000x better than those made 10 years ago &lpar;Maxwell Zeff/TechCrunch&rpar;](http://www.techmeme.com/250108/p8#a250108p8)<!-- TECH:END -->
+ - [Asus unveils the Zenbook A14, with a new base-model eight-core Snapdragon X processor, available mid-January starting at $1,100; a $900 variant debuts in March &lpar;Antonio G. Di Benedetto/The Verge&rpar;](http://www.techmeme.com/250108/p9#a250108p9)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

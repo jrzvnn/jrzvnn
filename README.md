@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [You can get a $50 credit when you preorder the next Samsung Galaxy devices](https://www.theverge.com/2025/1/8/24339000/samsung-unpacked-2025-galaxy-s25-plus-ultra-pre-order-credit-deal)
+ - [JPMorgan files two lawsuits over its investment in fintech Viva Wallet; source: JPM claims &amp;euro;916M, alleging Viva deprived JPM the value of its 2022 investment &lpar;Sotiris Nikas/Bloomberg&rpar;](http://www.techmeme.com/250108/p28#a250108p28)
+ - [Mythic Quest is working through its AI woes in new season 4 trailer](https://www.theverge.com/2025/1/8/24339070/mythic-quest-season-4-trailer)
  - [Meta tests eBay listings in Facebook Marketplace](https://www.theverge.com/2025/1/8/24339056/meta-ebay-listings-facebook-marketplace-eu)
- - [Niklas Zennstr&amp;ouml;m says European startups can thrive by developing apps for US-based AI platforms and believes pessimism about European startups is exaggerated &lpar;Tim Bradshaw/Financial Times&rpar;](http://www.techmeme.com/250108/p27#a250108p27)
- - [AT&amp;T will credit you for a day’s service after some fiber or wireless outages](https://www.theverge.com/2025/1/8/24339036/att-fiber-wireless-outage-guarantee-rewards-card-credits)
- - [Sources: TSMC&#39;s Arizona plant is now producing Systems-in-Package for the Apple Watch, almost certainly the S9, in addition to the A16 processor for iPhones &lpar;Tim Culpan/Culpium,&rpar;](http://www.techmeme.com/250108/p26#a250108p26)
- - [Google says Nest hubs, Chromecasts, Google TV devices on Android 14, and more can now control Matter devices locally, and opens its Home APIs to all developers &lpar;Jennifer Pattison Tuohy/The Verge&rpar;](http://www.techmeme.com/250108/p25#a250108p25)<!-- TECH:END -->
+ - [Niklas Zennstr&amp;ouml;m says European startups can thrive by developing apps for US-based AI platforms and believes pessimism about European startups is exaggerated &lpar;Tim Bradshaw/Financial Times&rpar;](http://www.techmeme.com/250108/p27#a250108p27)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

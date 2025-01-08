@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Mosseri says Meta is adding recommendations of political content on Instagram and Threads; Threads&#39; control setting for political content will get three options &lpar;Richard Lawler/The Verge&rpar;](http://www.techmeme.com/250108/p36#a250108p36)
+ - [AGDQ’s best moments happen when you least expect them](https://www.theverge.com/2025/1/8/24339206/agdq-2025-batman-forever-the-arcade-game)
  - [The best Android phones for everyone](https://www.theverge.com/23674658/best-android-phone)
  - [Do Kwon&#39;s criminal fraud trial in the US is scheduled for January 2026; prosecutors expect challenges accessing encrypted devices and translating communications &lpar;Cheyenne Ligon/CoinDesk&rpar;](http://www.techmeme.com/250108/p35#a250108p35)
- - [Blowout deal: M2 Mac mini with 16GB RAM plunges to $499](https://appleinsider.com/articles/25/01/08/blowout-deal-m2-mac-mini-with-16gb-ram-plunges-to-499?utm_medium=rss)
- - [CES 2025 Proves It&#39;s Still Deeply Weird with These Bonkers Gadgets](https://www.cnet.com/pictures/weirdest-gadgets-of-ces-2025-so-far/#ftag=CAD590a51e)
- - [Is this the Nintendo Switch 2?](https://www.theverge.com/2025/1/8/24339396/nintendo-switch-2-genki-ces-2025)<!-- TECH:END -->
+ - [Blowout deal: M2 Mac mini with 16GB RAM plunges to $499](https://appleinsider.com/articles/25/01/08/blowout-deal-m2-mac-mini-with-16gb-ram-plunges-to-499?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

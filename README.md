@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [AMD invests $20M in drug-discovery company Absci, which will move toward greater use of AMD&#39;s GPUs; Absci has 470+ AI chips, most of which are from Nvidia &lpar;Belle Lin/Wall Street Journal&rpar;](http://www.techmeme.com/250108/p22#a250108p22)
  - [MacPaw goes after mobile device management with CleanMy Mac Business](https://appleinsider.com/articles/25/01/07/macpaw-goes-after-mobile-device-management-with-cleanmy-mac-business?utm_medium=rss)
  - [Apple employees fired over charity donation matching fraud](https://appleinsider.com/articles/25/01/08/apple-employees-fired-over-charity-donation-matching-fraud?utm_medium=rss)
  - [Samsung is rolling out a smartphone subscription next month](https://www.theverge.com/2025/1/8/24338974/samsung-galaxy-subscription-smartphones-ballie)
- - [Meta will launch a test in Germany, France and the US to publish eBay listings on Facebook Marketplace, after it was fined &amp;euro;798M by EU for abusing dominance &lpar;Samuel Stolton/Bloomberg&rpar;](http://www.techmeme.com/250108/p21#a250108p21)
- - [Best Noise-Canceling Headphones &lpar;2025&rpar;: Over-Ears, Wireless Earbuds, Workout Pairs](https://www.wired.com/gallery/best-noise-canceling-headphones/)<!-- TECH:END -->
+ - [Meta will launch a test in Germany, France and the US to publish eBay listings on Facebook Marketplace, after it was fined &amp;euro;798M by EU for abusing dominance &lpar;Samuel Stolton/Bloomberg&rpar;](http://www.techmeme.com/250108/p21#a250108p21)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

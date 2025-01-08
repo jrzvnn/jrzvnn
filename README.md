@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Forbidden here for a reason](http://9gag.com/gag/a7oqe4L)
+ - 😝 [A building being demolished from the bodttom-up.](http://9gag.com/gag/an7z2j5)
  - 😝 [Sometimes I just wonder if the orange man is just trolling.](http://9gag.com/gag/aZZDEj6)
- - 💣 [When you realize](http://9gag.com/gag/a87q0rp)
- - 😝 [Reminder](http://9gag.com/gag/a6Zqn59)
- - 👉 [In 2016, a guy hijacked an Egyptian airline with explosives packed to him. A British man on board asked for a picture with the hijacker as it was happening](http://9gag.com/gag/axyov8Y)<!-- MEMES:END -->
+ - 💣 [Cap?](http://9gag.com/gag/amoAMQX)
+ - 😝 [In 2016, a guy hijacked an Egyptian airline with explosives packed to him. A British man on board asked for a picture with the hijacker as it was happening](http://9gag.com/gag/axyov8Y)
+ - 👉 [How to be kind, smart and f**king dumb in less than 30 seconds...](http://9gag.com/gag/aVvbKLn)<!-- MEMES:END -->
 
 ---
 

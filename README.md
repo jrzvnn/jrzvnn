@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Fisherman struck by lightning twice](http://9gag.com/gag/a6Zq5r2)
- - 😝 [A building being demolished from the bodttom-up.](http://9gag.com/gag/an7z2j5)
- - 💣 [Reminder](http://9gag.com/gag/a6Zqn59)
- - 😝 [John Lennon, 12 months apart. An interesting fact is that John Lennon and Yoko Ono met in 1966 in an art gallery in London.](http://9gag.com/gag/a2vK8bO)
- - 👉 [Top 10 anime betrayals](http://9gag.com/gag/aE0qWMn)<!-- MEMES:END -->
+ - 😝 [New year new me](http://9gag.com/gag/an7z280)
+ - 😝 [How to be kind, smart and f**king dumb in less than 30 seconds...](http://9gag.com/gag/aVvbKLn)
+ - 💣 [A simple man](http://9gag.com/gag/aPAgQXR)
+ - 😝 [\ud83c\udf1a\ud83d\udc4c\ud83c\udfff\u2728](http://9gag.com/gag/apR9698)
+ - 👉 [Alison Lohman behind the scenes of \u201cDrag Me to Hell\u201d &lpar;2009&rpar;.](http://9gag.com/gag/aQzEQZq)<!-- MEMES:END -->
 
 ---
 

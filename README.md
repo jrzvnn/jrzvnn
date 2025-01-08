@@ -158,10 +158,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- TECH:START -->
  - [I found the first Matter smart fridge](https://www.theverge.com/2025/1/8/24338948/bosch-first-matter-smart-fridge-price-release-date-specs)
+ - [Yes, You Can Get Up to $4,000 Now With a Tax Refund Advance -- but It&#39;s Risky](https://www.cnet.com/personal-finance/taxes/yes-you-can-get-up-to-4000-now-with-a-tax-refund-advance-but-its-risky/#ftag=CAD590a51e)
  - [Magnitt: VC funding in the Middle East fell 29% YoY to $1.5B in 2024, with Saudi Arabia accounting for $750M, down 44% YoY, while the UAE saw $613M, down 8% YoY &lpar;Fahad Abuljadayel/Bloomberg&rpar;](http://www.techmeme.com/250108/p17#a250108p17)
  - [11 More of the Most Fun Things We&#39;ve Seen at CES](https://www.wired.com/gallery/ces-2025-photo-gallery-day-3/)
- - [Indonesia says Apple can&#39;t sell its iPhone 16 in the country yet, despite a deal to build a local production facility, as it hasn&#39;t met domestic content rules &lpar;Bernadette Christina/Reuters&rpar;](http://www.techmeme.com/250108/p16#a250108p16)
- - [T-Mobile is once again being sued over its 2021 data breach](https://www.theverge.com/2025/1/8/24338947/t-mobile-2021-data-breach-washington-ag-lawsuit)<!-- TECH:END -->
+ - [Refi Rates Increase for Homeowners: Mortgage Refinance Rates, Jan. 8, 2025](https://www.cnet.com/personal-finance/refi-rates-increase-for-homeowners-mortgage-refinance-rates-jan-8-2025/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

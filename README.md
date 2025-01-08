@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [AMD invests $20M in drug-discovery company Absci, which will move toward greater use of AMD&#39;s GPUs; Absci has 470+ AI chips, most of which are from Nvidia &lpar;Belle Lin/Wall Street Journal&rpar;](http://www.techmeme.com/250108/p22#a250108p22)
- - [MacPaw goes after mobile device management with CleanMy Mac Business](https://appleinsider.com/articles/25/01/07/macpaw-goes-after-mobile-device-management-with-cleanmy-mac-business?utm_medium=rss)
- - [Apple employees fired over charity donation matching fraud](https://appleinsider.com/articles/25/01/08/apple-employees-fired-over-charity-donation-matching-fraud?utm_medium=rss)
- - [Samsung is rolling out a smartphone subscription next month](https://www.theverge.com/2025/1/8/24338974/samsung-galaxy-subscription-smartphones-ballie)
- - [Meta will launch a test in Germany, France and the US to publish eBay listings on Facebook Marketplace, after it was fined &amp;euro;798M by EU for abusing dominance &lpar;Samuel Stolton/Bloomberg&rpar;](http://www.techmeme.com/250108/p21#a250108p21)<!-- TECH:END -->
+ - [Meta&#39;s fact-checking overhaul is set to deepen a growing schism between how platforms do content moderation in the US and in stricter regions like Europe &lpar;Cristiano Lima-Strong/Washington Post&rpar;](http://www.techmeme.com/250108/p24#a250108p24)
+ - [The weirdest tech at CES 2025](https://www.theverge.com/2025/1/8/24338251/ces-2025-weirdest-tech-gadgets-robots)
+ - [EU races to conclude investigation into X’s content moderation efforts](https://www.theverge.com/2025/1/8/24338985/x-content-moderation-eu-probe-dsa-rules)
+ - [Google Home hubs can now work locally thanks to Matter](https://www.theverge.com/2025/1/8/24338969/google-home-hubs-local-control-matter)
+ - [Sources: Movement Labs, which is building a layer-2 Ethereum blockchain, is set to raise a $100M Series B at a $3B valuation, after raising $38M in April 2024 &lpar;Leo Schwartz/Fortune&rpar;](http://www.techmeme.com/250108/p23#a250108p23)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

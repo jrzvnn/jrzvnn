@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Magnitt: VC funding in the Middle East fell 29% YoY to $1.5B in 2024, with Saudi Arabia accounting for $750M, down 44% YoY, while the UAE saw $613M, down 8% YoY &lpar;Fahad Abuljadayel/Bloomberg&rpar;](http://www.techmeme.com/250108/p17#a250108p17)
+ - [11 More of the Most Fun Things We&#39;ve Seen at CES](https://www.wired.com/gallery/ces-2025-photo-gallery-day-3/)
  - [Indonesia says Apple can&#39;t sell its iPhone 16 in the country yet, despite a deal to build a local production facility, as it hasn&#39;t met domestic content rules &lpar;Bernadette Christina/Reuters&rpar;](http://www.techmeme.com/250108/p16#a250108p16)
  - [T-Mobile is once again being sued over its 2021 data breach](https://www.theverge.com/2025/1/8/24338947/t-mobile-2021-data-breach-washington-ag-lawsuit)
- - [Akamai plans to end its CDN services in China on June 30, 2026, saying customers can move to an Akamai CDN outside China or use local providers like Tencent &lpar;Simon Sharwood/The Register&rpar;](http://www.techmeme.com/250108/p15#a250108p15)
- - [Dublin-based payments startup NomuPay, formed in 2023 from some of Wirecard&#39;s regional payment licenses, raised a $37M Series B at a $200M valuation &lpar;Ingrid Lunden/TechCrunch&rpar;](http://www.techmeme.com/250108/p14#a250108p14)
- - [Nvidia’s Jensen Huang hints at ‘plans’ for its own desktop CPU](https://www.theverge.com/2025/1/8/24338939/nvidia-jensen-huang-hints-arm-desktop-cpu)<!-- TECH:END -->
+ - [Akamai plans to end its CDN services in China on June 30, 2026, saying customers can move to an Akamai CDN outside China or use local providers like Tencent &lpar;Simon Sharwood/The Register&rpar;](http://www.techmeme.com/250108/p15#a250108p15)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

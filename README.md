@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Fisherman struck by lightning twice](http://9gag.com/gag/a6Zq5r2)
+ - 😝 [Indonesian version of UFC is little bit different](http://9gag.com/gag/aZZDEOQ)
  - 😝 [Too much mom\u2019s spaghetti.](http://9gag.com/gag/amoAmg6)
- - 💣 [Reminder](http://9gag.com/gag/a6Zqn59)
- - 😝 [Once upon a time](http://9gag.com/gag/apR9xbB)
- - 👉 [How to be kind, smart and f**king dumb in less than 30 seconds...](http://9gag.com/gag/aVvbKLn)<!-- MEMES:END -->
+ - 💣 [Once upon a time](http://9gag.com/gag/apR9xbB)
+ - 😝 [Aaaaaaaand He\u00b4s gone](http://9gag.com/gag/axyoRyn)
+ - 👉 [Fisherman struck by lightning twice](http://9gag.com/gag/a6Zq5r2)<!-- MEMES:END -->
 
 ---
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Fisherman struck by lightning twice](http://9gag.com/gag/a6Zq5r2)
- - 😝 [Screaming almost helped](http://9gag.com/gag/aLn1zoP)
- - 💣 [How to be kind, smart and f**king dumb in less than 30 seconds...](http://9gag.com/gag/aVvbKLn)
- - 😝 [Alison Lohman behind the scenes of \u201cDrag Me to Hell\u201d &lpar;2009&rpar;.](http://9gag.com/gag/aQzEQZq)
- - 👉 [Sometimes I just wonder if the orange man is just trolling.](http://9gag.com/gag/aZZDEj6)<!-- MEMES:END -->
+ - 😝 [A building being demolished from the bodttom-up.](http://9gag.com/gag/an7z2j5)
+ - 😝 [Now thats a gender equality](http://9gag.com/gag/a87q0nO)
+ - 💣 [Fisherman struck by lightning twice](http://9gag.com/gag/a6Zq5r2)
+ - 😝 [How to be kind, smart and f**king dumb in less than 30 seconds...](http://9gag.com/gag/aVvbKLn)
+ - 👉 [Amazeballs](http://9gag.com/gag/apR9DZW)<!-- MEMES:END -->
 
 ---
 

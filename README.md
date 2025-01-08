@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Niklas Zennstr&amp;ouml;m says European startups can thrive by developing apps for US-based AI platforms and believes pessimism about European startups is exaggerated &lpar;Tim Bradshaw/Financial Times&rpar;](http://www.techmeme.com/250108/p27#a250108p27)
+ - [AT&amp;T will credit you for a day’s service after some fiber or wireless outages](https://www.theverge.com/2025/1/8/24339036/att-fiber-wireless-outage-guarantee-rewards-card-credits)
  - [Sources: TSMC&#39;s Arizona plant is now producing Systems-in-Package for the Apple Watch, almost certainly the S9, in addition to the A16 processor for iPhones &lpar;Tim Culpan/Culpium,&rpar;](http://www.techmeme.com/250108/p26#a250108p26)
  - [Google says Nest hubs, Chromecasts, Google TV devices on Android 14, and more can now control Matter devices locally, and opens its Home APIs to all developers &lpar;Jennifer Pattison Tuohy/The Verge&rpar;](http://www.techmeme.com/250108/p25#a250108p25)
- - [TSMC&#39;s Arizona plant starts making a second Apple chip](https://appleinsider.com/articles/25/01/08/tsmcs-arizona-plant-starts-making-a-second-apple-chip?utm_medium=rss)
- - [This 10-Piece Calphalon Stainless Steel Cookware Set Is a Delicious 50% Off Right Now](https://www.cnet.com/deals/this-10-piece-calphalon-stainless-steel-cookware-set-is-a-delicious-50-off-right-now/#ftag=CAD590a51e)
- - [Don&#39;t Sleep on APYs up to 4.65%. Today&#39;s CD Rates, Jan. 8, 2025](https://www.cnet.com/personal-finance/banking/dont-sleep-on-apys-up-to-4-65-todays-cd-rates-jan-8-2025/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [TSMC&#39;s Arizona plant starts making a second Apple chip](https://appleinsider.com/articles/25/01/08/tsmcs-arizona-plant-starts-making-a-second-apple-chip?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

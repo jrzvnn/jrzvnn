@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The best stuff we’ve seen at CES so far](https://www.theverge.com/2025/1/6/24337606/ces-2025-smart-home-tv-cameras-power-bank-robot-smart-glasses)
  - [Meta revamping its content moderation systems with Community Notes is good, but Zuckerberg pretending it&#39;s about free speech is bad, and the timing is stupid &lpar;Mike Masnick/Techdirt&rpar;](http://www.techmeme.com/250108/p33#a250108p33)
- - [Nintendo Switch 2 Mockup Revealed by Accessory Maker](https://www.cnet.com/tech/gaming/nintendo-switch-2-mockup-revealed-by-accessory-maker/#ftag=CAD590a51e)
- - [AT&amp;T&#39;s New Guarantee Promises to Compensate Users if There Are Outages](https://www.cnet.com/tech/mobile/at-ts-new-guarantee-promises-to-compensate-users-if-there-are-outages/#ftag=CAD590a51e)
  - [Scammers are going after &#39;Baldur&#39;s Gate 3&#39; gamers in the App Store](https://appleinsider.com/articles/25/01/08/scammers-are-going-after-baldurs-gate-3-gamers-in-the-app-store?utm_medium=rss)
- - [Build A Wall-Size TV With Awall&#39;s Modular MicroLED Displays](https://www.cnet.com/tech/home-entertainment/build-a-wall-size-tv-with-awalls-modular-microled-displays/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Here’s how small Nvidia’s $3,000 Digits supercomputer looks in person](https://www.theverge.com/2025/1/8/24339195/nvidia-digits-ai-supercomputer-in-person-photos-small)
+ - [The fallout of Meta’s content moderation overhaul](https://www.theverge.com/24339131/meta-content-moderation-fact-check-zuckerberg-texas)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

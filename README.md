@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Apple appears to be working on an all-new Invites app for meetings and events](https://appleinsider.com/articles/25/01/08/apple-appears-to-be-working-on-an-all-new-invites-app-for-meetings-and-events?utm_medium=rss)
  - [Google rolls out Daily Listen, which uses AI to generate a 5-minute personalized audio overview of stories and topics that a user follows, on its mobile app &lpar;Abner Li/9to5Google&rpar;](http://www.techmeme.com/250108/p37#a250108p37)
  - [California’s Wildfires Show No Signs of Slowing Down](https://www.wired.com/story/california-wildfires-2025-santa-ana-winds-pacific-palisades-hurst-eaton-los-angeles/)
  - [The best smart locks you can buy right now](https://www.theverge.com/23393163/best-smart-door-lock)
- - [Before Las Vegas, Intel Analysts Warned That Bomb Makers Were Turning to AI](https://www.wired.com/story/las-vegas-bombing-cybertruck-trump-intel-dhs-ai/)
- - [Tonal upgrades its smart weightlifting machine with heavier weights and a better camera](https://www.theverge.com/2025/1/8/24339367/tonal-2-smart-home-trainer-fitness-tech)<!-- TECH:END -->
+ - [Before Las Vegas, Intel Analysts Warned That Bomb Makers Were Turning to AI](https://www.wired.com/story/las-vegas-bombing-cybertruck-trump-intel-dhs-ai/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Meta&#39;s fact-checking partners PolitiFact and FactCheck.org say they had no role in deciding what the company did with the content that was fact-checked &lpar;Stuart A. Thompson/New York Times&rpar;](http://www.techmeme.com/250107/p46#a250107p46)
+ - [Microsoft is combining ‘the best of Xbox and Windows together’ for handhelds](https://www.theverge.com/2025/1/7/24338778/microsoft-xbox-handheld-pc-gaming)
+ - [Ten current and former Meta employees share frustrations over Meta&#39;s surrender to the right on speech issues; one called the changes &quot;a precursor to genocide&quot; &lpar;Casey Newton/Platformer&rpar;](http://www.techmeme.com/250107/p45#a250107p45)
  - [Sam Altman’s sister files sexual abuse lawsuit against him — his family says it’s ‘utterly untrue’](https://www.theverge.com/2025/1/7/24338736/sam-altman-sexual-abuse-lawsuit-ann-sister)
- - [Sam Altman, in a statement with his family, denies the sexual abuse allegations made by his sister in a lawsuit and says she faces &quot;mental health challenges&quot; &lpar;Hayden Field/CNBC&rpar;](http://www.techmeme.com/250107/p44#a250107p44)
- - [Delta’s giving its in-flight screens a major 4K HDR upgrade](https://www.theverge.com/2025/1/7/24338411/delta-airplane-screen-4k-hdr-qled-uber-ces)
- - [Samsung reports preliminary Q4 operating profit of ~$4.5B, missing analysts&#39; average projection of ~$6.2B, and revenue of ~$51.7B, also missing estimates &lpar;Bloomberg&rpar;](http://www.techmeme.com/250107/p43#a250107p43)
- - [Donald Trump says Meta has &quot;come a long way&quot; after the company announced it will end its fact-checking program, and that Meta&#39;s &quot;presentation was excellent&quot; &lpar;Fox News&rpar;](http://www.techmeme.com/250107/p42#a250107p42)<!-- TECH:END -->
+ - [Sam Altman, in a statement with his family, denies the sexual abuse allegations made by his sister in a lawsuit and says she faces &quot;mental health challenges&quot; &lpar;Hayden Field/CNBC&rpar;](http://www.techmeme.com/250107/p44#a250107p44)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

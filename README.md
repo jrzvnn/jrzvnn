@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Minors](http://9gag.com/gag/avyQ1qM)
- - 😝 [Why does this happen?](http://9gag.com/gag/a5QXB1G)
- - 💣 [Reminder](http://9gag.com/gag/a6Zqn59)
- - 😝 [In 2011, a 29-year-old Australian bartender found an ATM glitch that allowed him to withdraw way beyond his balance. In a bender that lasted four-and-half months, he managed to spend around $1.6 million of the bank\u2019s money.](http://9gag.com/gag/aqyeXBP)
- - 👉 [She needs to be punished appropriately](http://9gag.com/gag/a5QX6LE)<!-- MEMES:END -->
+ - 😝 [In the 1980s, a man with severe OCD shot himself in the head in an attempt to commit suicide. Instead of killing him, the bullet destroyed the part of his brain responsible for his OCD, and he went on to become a straight-A college student five years later.](http://9gag.com/gag/a7oq0je)
+ - 😝 [Now thats a gender equality](http://9gag.com/gag/a87q0nO)
+ - 💣 [How to be kind, smart and f**king dumb in less than 30 seconds...](http://9gag.com/gag/aVvbKLn)
+ - 😝 [New year new me](http://9gag.com/gag/an7z280)
+ - 👉 [Alison Lohman behind the scenes of \u201cDrag Me to Hell\u201d &lpar;2009&rpar;.](http://9gag.com/gag/aQzEQZq)<!-- MEMES:END -->
 
 ---
 

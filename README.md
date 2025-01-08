@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [John Lennon, 12 months apart. An interesting fact is that John Lennon and Yoko Ono met in 1966 in an art gallery in London.](http://9gag.com/gag/a2vK8bO)
- - 😝 [In 2016, a guy hijacked an Egyptian airline with explosives packed to him. A British man on board asked for a picture with the hijacker as it was happening](http://9gag.com/gag/axyov8Y)
- - 💣 [Cap?](http://9gag.com/gag/amoAMQX)
- - 😝 [How to be kind, smart and f**king dumb in less than 30 seconds...](http://9gag.com/gag/aVvbKLn)
- - 👉 [Reminder](http://9gag.com/gag/a6Zqn59)<!-- MEMES:END -->
+ - 😝 [Forbidden here for a reason](http://9gag.com/gag/a7oqe4L)
+ - 😝 [Sometimes I just wonder if the orange man is just trolling.](http://9gag.com/gag/aZZDEj6)
+ - 💣 [When you realize](http://9gag.com/gag/a87q0rp)
+ - 😝 [Reminder](http://9gag.com/gag/a6Zqn59)
+ - 👉 [In 2016, a guy hijacked an Egyptian airline with explosives packed to him. A British man on board asked for a picture with the hijacker as it was happening](http://9gag.com/gag/axyov8Y)<!-- MEMES:END -->
 
 ---
 

@@ -166,10 +166,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Indonesian version of UFC is little bit different](http://9gag.com/gag/aZZDEOQ)
- - 😝 [Too much mom\u2019s spaghetti.](http://9gag.com/gag/amoAmg6)
- - 💣 [Once upon a time](http://9gag.com/gag/apR9xbB)
- - 😝 [Aaaaaaaand He\u00b4s gone](http://9gag.com/gag/axyoRyn)
+ - 😝 [His first $100,000 in stock investments turned out pretty well!](http://9gag.com/gag/a0e411X)
+ - 😝 [Isn&#39;t that the plot of Yellowstone?](http://9gag.com/gag/aGyEBR6)
+ - 💣 [Reminder](http://9gag.com/gag/a6Zqn59)
+ - 😝 [How to be kind, smart and f**king dumb in less than 30 seconds...](http://9gag.com/gag/aVvbKLn)
  - 👉 [Fisherman struck by lightning twice](http://9gag.com/gag/a6Zq5r2)<!-- MEMES:END -->
 
 ---

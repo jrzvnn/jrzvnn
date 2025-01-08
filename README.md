@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [In a first, an EU court fines the EC &amp;euro;400 for breaching its own data protection law by transferring a user&#39;s data to the US via a Sign in with Facebook option &lpar;Reuters&rpar;](http://www.techmeme.com/250108/p20#a250108p20)
- - [Major quantum computing stocks, up 300%+ in the past year, fell on January 7 after Jensen Huang said &quot;very useful&quot; quantum computers are likely decades away &lpar;Jeran Wittenstein/Bloomberg&rpar;](http://www.techmeme.com/250108/p19#a250108p19)
- - [Whatnot, which lets users sell comics and other items through live videos, raised a $265M Series E at a $4.97B valuation, and says its annual GMV passed $3B &lpar;Lauren Forristal/TechCrunch&rpar;](http://www.techmeme.com/250108/p18#a250108p18)
- - [iPad 11, iPad Air, iPhone SE 4 expected in April, despite January launch rumors](https://appleinsider.com/articles/25/01/07/ipad-11-ipad-air-iphone-se-4-expected-in-april-despite-january-launch-rumors?utm_medium=rss)
- - [Indonesia says Apple&#39;s $1 billion investment isn&#39;t enough to lift iPhone 16 ban](https://appleinsider.com/articles/25/01/08/indonesia-says-apples-1-billion-investment-isnt-enough-to-lift-iphone-16-ban?utm_medium=rss)<!-- TECH:END -->
+ - [Apple employees fired over charity donation matching fraud](https://appleinsider.com/articles/25/01/08/apple-employees-fired-over-charity-donation-matching-fraud?utm_medium=rss)
+ - [Samsung is rolling out a smartphone subscription next month](https://www.theverge.com/2025/1/8/24338974/samsung-galaxy-subscription-smartphones-ballie)
+ - [Meta will launch a test in Germany, France and the US to publish eBay listings on Facebook Marketplace, after it was fined &amp;euro;798M by EU for abusing dominance &lpar;Samuel Stolton/Bloomberg&rpar;](http://www.techmeme.com/250108/p21#a250108p21)
+ - [Best Noise-Canceling Headphones &lpar;2025&rpar;: Over-Ears, Wireless Earbuds, Workout Pairs](https://www.wired.com/gallery/best-noise-canceling-headphones/)
+ - [In a first, an EU court fines the EC &amp;euro;400 for breaching its own data protection law by transferring a user&#39;s data to the US via a Sign in with Facebook option &lpar;Reuters&rpar;](http://www.techmeme.com/250108/p20#a250108p20)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

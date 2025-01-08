@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Threads and Instagram are for politics now, says Adam Mosseri](https://www.theverge.com/2025/1/8/24339385/instagram-threads-politics-moderation-adam-mosseri)
  - [Bluetti has two new flagship energy storage kits for the home and beyond](https://www.theverge.com/2025/1/8/24334029/bluetti-apex-portable-energypro-home-backup-specs)
  - [Your Next AI Wearable Will Listen to Everything All the Time](https://www.wired.com/story/bee-ai-omi-always-listening-ai-wearables/)
  - [Satechi SM3 Slim Mechanical Backlit Bluetooth Keyboard arrives with a full layout](https://appleinsider.com/articles/25/01/08/satechi-sm3-slim-mechanical-backlit-bluetooth-keyboard-arrives-with-a-full-layout?utm_medium=rss)
- - [Apple signs lease for even more office space in Seattle](https://appleinsider.com/articles/25/01/08/apple-signs-lease-for-even-more-office-space-in-seattle?utm_medium=rss)
- - [3 Ways You Can Still Lower Your Taxable Bill for 2024](https://www.cnet.com/personal-finance/taxes/3-ways-you-can-still-lower-your-taxable-bill-for-2024/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Apple signs lease for even more office space in Seattle](https://appleinsider.com/articles/25/01/08/apple-signs-lease-for-even-more-office-space-in-seattle?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

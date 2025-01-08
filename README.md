@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Swedish friends, is that true?](http://9gag.com/gag/ae9Qmqj)
- - 😝 [Instert What the hell happened here meme ..here](http://9gag.com/gag/aAy02oL)
- - 💣 [Fisherman struck by lightning twice](http://9gag.com/gag/a6Zq5r2)
- - 😝 [Ride](http://9gag.com/gag/aqye69p)
- - 👉 [Sometimes I just wonder if the orange man is just trolling.](http://9gag.com/gag/aZZDEj6)<!-- MEMES:END -->
+ - 😝 [The perfect flip](http://9gag.com/gag/aBydGvZ)
+ - 😝 [Cap?](http://9gag.com/gag/amoAMQX)
+ - 💣 [Boomer game.](http://9gag.com/gag/awyZdXR)
+ - 😝 [Men are simple creatures](http://9gag.com/gag/axyobrb)
+ - 👉 [Why do we feel](http://9gag.com/gag/aBydGrN)<!-- MEMES:END -->
 
 ---
 

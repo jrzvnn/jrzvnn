@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [In the 1980s, a man with severe OCD shot himself in the head in an attempt to commit suicide. Instead of killing him, the bullet destroyed the part of his brain responsible for his OCD, and he went on to become a straight-A college student five years later.](http://9gag.com/gag/a7oq0je)
- - 😝 [Now thats a gender equality](http://9gag.com/gag/a87q0nO)
- - 💣 [How to be kind, smart and f**king dumb in less than 30 seconds...](http://9gag.com/gag/aVvbKLn)
- - 😝 [New year new me](http://9gag.com/gag/an7z280)
- - 👉 [Alison Lohman behind the scenes of \u201cDrag Me to Hell\u201d &lpar;2009&rpar;.](http://9gag.com/gag/aQzEQZq)<!-- MEMES:END -->
+ - 😝 [What happened to women&#39;s rights?](http://9gag.com/gag/ae9QVyp)
+ - 😝 [She laughs in crow too.](http://9gag.com/gag/a34Z0br)
+ - 💣 [Love the anti Muslim Elon arc lately](http://9gag.com/gag/azx2K3B)
+ - 😝 [Best cartoons of my adulthood](http://9gag.com/gag/aqyex1L)
+ - 👉 [9/10](http://9gag.com/gag/avyQEnn)<!-- MEMES:END -->
 
 ---
 

@@ -167,8 +167,8 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [The perfect flip](http://9gag.com/gag/aBydGvZ)
- - 😝 [Cap?](http://9gag.com/gag/amoAMQX)
- - 💣 [Boomer game.](http://9gag.com/gag/awyZdXR)
+ - 😝 [Boomer game.](http://9gag.com/gag/awyZdXR)
+ - 💣 [Cap?](http://9gag.com/gag/amoAMQX)
  - 😝 [Men are simple creatures](http://9gag.com/gag/axyobrb)
  - 👉 [Why do we feel](http://9gag.com/gag/aBydGrN)<!-- MEMES:END -->
 

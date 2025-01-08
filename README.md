@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Some users can&#39;t access Apple Cash due to ongoing issue causing an outage](https://appleinsider.com/articles/25/01/08/some-users-cant-access-apple-cash-due-to-ongoing-issue-causing-an-outage?utm_medium=rss)
  - [The OnePlus 13 is already on sale with a free storage upgrade and a smartwatch](https://www.theverge.com/2025/1/8/24338635/oneplus-13-bose-soundlink-flex-bluetooth-speaker-deal-sale)
  - [Mastodon CEO Eugen Rochko says Meta&#39;s moderation changes are &quot;deeply troubling&quot;, and Mastodon will take action on Threads accounts violating Mastodon&#39;s policies &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/250108/p34#a250108p34)
  - [Social networking alternatives for the Meta- and Musk-averse](https://www.theverge.com/23429095/twitter-social-network-alternatives-mastodon-reddit-tumblr-cohost)
- - [Honda&#39;s 0 Series EV Prototypes Glow Up at CES 2025](https://www.cnet.com/roadshow/pictures/hondas-0-series-ev-prototypes-ces-2025/#ftag=CAD590a51e)
- - [Honda&#39;s Gorgeous 0 Series EVs Begin Production Next Year](https://www.cnet.com/roadshow/news/hondas-gorgeous-0-series-evs-begin-production-next-year/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Honda&#39;s 0 Series EV Prototypes Glow Up at CES 2025](https://www.cnet.com/roadshow/pictures/hondas-0-series-ev-prototypes-ces-2025/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [I found the first Matter smart fridge](https://www.theverge.com/2025/1/8/24338948/bosch-first-matter-smart-fridge-price-release-date-specs)
- - [Yes, You Can Get Up to $4,000 Now With a Tax Refund Advance -- but It&#39;s Risky](https://www.cnet.com/personal-finance/taxes/yes-you-can-get-up-to-4000-now-with-a-tax-refund-advance-but-its-risky/#ftag=CAD590a51e)
- - [Magnitt: VC funding in the Middle East fell 29% YoY to $1.5B in 2024, with Saudi Arabia accounting for $750M, down 44% YoY, while the UAE saw $613M, down 8% YoY &lpar;Fahad Abuljadayel/Bloomberg&rpar;](http://www.techmeme.com/250108/p17#a250108p17)
- - [11 More of the Most Fun Things We&#39;ve Seen at CES](https://www.wired.com/gallery/ces-2025-photo-gallery-day-3/)
- - [Refi Rates Increase for Homeowners: Mortgage Refinance Rates, Jan. 8, 2025](https://www.cnet.com/personal-finance/refi-rates-increase-for-homeowners-mortgage-refinance-rates-jan-8-2025/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Whatnot, which lets users sell comics and other items through live videos, raised a $265M Series E at a $4.97B valuation, and says its annual GMV passed $3B &lpar;Lauren Forristal/TechCrunch&rpar;](http://www.techmeme.com/250108/p18#a250108p18)
+ - [iPad 11, iPad Air, iPhone SE 4 expected in April, despite January launch rumors](https://appleinsider.com/articles/25/01/07/ipad-11-ipad-air-iphone-se-4-expected-in-april-despite-january-launch-rumors?utm_medium=rss)
+ - [Indonesia says Apple&#39;s $1 billion investment isn&#39;t enough to lift iPhone 16 ban](https://appleinsider.com/articles/25/01/08/indonesia-says-apples-1-billion-investment-isnt-enough-to-lift-iphone-16-ban?utm_medium=rss)
+ - [No Fact-Checking and More Hate Speech: Meta Goes MAGA](https://www.wired.com/plaintext-meta-zuckerberg-maga-trump/)
+ - [I found the first Matter smart fridge](https://www.theverge.com/2025/1/8/24338948/bosch-first-matter-smart-fridge-price-release-date-specs)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

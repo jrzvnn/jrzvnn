@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The OnePlus 13 is already on sale with a free storage upgrade and a smartwatch](https://www.theverge.com/2025/1/8/24338635/oneplus-13-bose-soundlink-flex-bluetooth-speaker-deal-sale)
+ - [Mastodon CEO Eugen Rochko says Meta&#39;s moderation changes are &quot;deeply troubling&quot;, and Mastodon will take action on Threads accounts violating Mastodon&#39;s policies &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/250108/p34#a250108p34)
+ - [Social networking alternatives for the Meta- and Musk-averse](https://www.theverge.com/23429095/twitter-social-network-alternatives-mastodon-reddit-tumblr-cohost)
  - [Threads and Instagram are for politics now, says Adam Mosseri](https://www.theverge.com/2025/1/8/24339385/instagram-threads-politics-moderation-adam-mosseri)
- - [Bluetti has two new flagship energy storage kits for the home and beyond](https://www.theverge.com/2025/1/8/24334029/bluetti-apex-portable-energypro-home-backup-specs)
- - [Your Next AI Wearable Will Listen to Everything All the Time](https://www.wired.com/story/bee-ai-omi-always-listening-ai-wearables/)
- - [Satechi SM3 Slim Mechanical Backlit Bluetooth Keyboard arrives with a full layout](https://appleinsider.com/articles/25/01/08/satechi-sm3-slim-mechanical-backlit-bluetooth-keyboard-arrives-with-a-full-layout?utm_medium=rss)
- - [Apple signs lease for even more office space in Seattle](https://appleinsider.com/articles/25/01/08/apple-signs-lease-for-even-more-office-space-in-seattle?utm_medium=rss)<!-- TECH:END -->
+ - [Bluetti has two new flagship energy storage kits for the home and beyond](https://www.theverge.com/2025/1/8/24334029/bluetti-apex-portable-energypro-home-backup-specs)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

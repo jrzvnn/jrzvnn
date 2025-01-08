@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [A building being demolished from the bodttom-up.](http://9gag.com/gag/an7z2j5)
- - 😝 [Wholesome and rare behavior but lady was reaching for pepper spray](http://9gag.com/gag/a1mPNbR)
- - 💣 [Alison Lohman behind the scenes of \u201cDrag Me to Hell\u201d &lpar;2009&rpar;.](http://9gag.com/gag/aQzEQZq)
+ - 😝 [Man with headaches used nails to try to relieve the pain over course of a year before seeking medical attention. He survived with no ill effects.](http://9gag.com/gag/aO8x9dy)
+ - 😝 [When you realize](http://9gag.com/gag/a87q0rp)
+ - 💣 [Wholesome and rare behavior but lady was reaching for pepper spray](http://9gag.com/gag/a1mPNbR)
  - 😝 [Reminder](http://9gag.com/gag/a6Zqn59)
- - 👉 [When your child comes with .fonts pre-installed](http://9gag.com/gag/ayN23XX)<!-- MEMES:END -->
+ - 👉 [In 2016, a guy hijacked an Egyptian airline with explosives packed to him. A British man on board asked for a picture with the hijacker as it was happening](http://9gag.com/gag/axyov8Y)<!-- MEMES:END -->
 
 ---
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Cap?](http://9gag.com/gag/amoAMQX)
- - 😝 [Boomer game.](http://9gag.com/gag/awyZdXR)
- - 💣 [The perfect flip](http://9gag.com/gag/aBydGvZ)
- - 😝 [Are we still doing this?](http://9gag.com/gag/aD2YVv7)
- - 👉 [Men are simple creatures](http://9gag.com/gag/axyobrb)<!-- MEMES:END -->
+ - 😝 [No really, where are they?](http://9gag.com/gag/an7zxWB)
+ - 😝 [Killer&#39;s family curse at victim&#39;s family after he got sentenced for the crime](http://9gag.com/gag/ae9QxLQ)
+ - 💣 [Guy in his million-dollar LA mansion would rather film the wildfire than flee](http://9gag.com/gag/a87q2De)
+ - 😝 [Reminder](http://9gag.com/gag/a6Zqn59)
+ - 👉 [Welcome to the new era of gaming](http://9gag.com/gag/aMVEzYX)<!-- MEMES:END -->
 
 ---
 

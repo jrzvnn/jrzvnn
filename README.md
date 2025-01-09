@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [This COP is legend](http://9gag.com/gag/ae9QR05)
- - 😝 [She&#39;s a trooper. Didn&#39;t even take a knee. Get that for me, would you, deary?](http://9gag.com/gag/aO8xp3v)
- - 💣 [Lady liberty won&#39;t betray you](http://9gag.com/gag/aNDw4X3)
+ - 😝 [Theresa Virtue and Scott Moir. Scott: `C - can&#39;t tell` ; marries someone else.](http://9gag.com/gag/a5QXqpo)
  - 😝 [Hi Georgie](http://9gag.com/gag/a1mPE3G)
- - 👉 [Grapes.](http://9gag.com/gag/aVvbL6v)<!-- MEMES:END -->
+ - 💣 [Typical UK nowadays , some far right woman stops typical uk citizen from bringing home a girl.](http://9gag.com/gag/abAvRyB)
+ - 😝 [Testing your mortality with totally sick wheelies.](http://9gag.com/gag/awyZY38)
+ - 👉 [Instert What the hell happened here meme ..here](http://9gag.com/gag/aAy02oL)<!-- MEMES:END -->
 
 ---
 

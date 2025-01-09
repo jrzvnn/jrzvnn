@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Every restaurant should start doing this.](http://9gag.com/gag/azx2Z4Z)
- - 😝 [Sometimes I just wonder if the orange man is just trolling.](http://9gag.com/gag/aZZDEj6)
- - 💣 [This COP is legend](http://9gag.com/gag/ae9QR05)
- - 😝 [Theresa Virtue and Scott Moir. Scott: `C - can&#39;t tell` ; marries someone else.](http://9gag.com/gag/a5QXqpo)
- - 👉 [She&#39;s a trooper. Didn&#39;t even take a knee. Get that for me, would you, deary?](http://9gag.com/gag/aO8xp3v)<!-- MEMES:END -->
+ - 😝 [How many drinks have you had?](http://9gag.com/gag/aPAgr4g)
+ - 😝 [There are Three kinds of people](http://9gag.com/gag/a87qVWZ)
+ - 💣 [Hi Georgie](http://9gag.com/gag/a1mPE3G)
+ - 😝 [The Malibu waterfront, one of the most expensive properties in the United States, has largely disappeared.](http://9gag.com/gag/awyZeBr)
+ - 👉 [Typical UK nowadays , some far right woman stops typical uk citizen from bringing home a girl.](http://9gag.com/gag/abAvRyB)<!-- MEMES:END -->
 
 ---
 

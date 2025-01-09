@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Theresa Virtue and Scott Moir. Scott: `C - can&#39;t tell` ; marries someone else.](http://9gag.com/gag/a5QXqpo)
  - 😝 [Hi Georgie](http://9gag.com/gag/a1mPE3G)
- - 💣 [Typical UK nowadays , some far right woman stops typical uk citizen from bringing home a girl.](http://9gag.com/gag/abAvRyB)
- - 😝 [Testing your mortality with totally sick wheelies.](http://9gag.com/gag/awyZY38)
- - 👉 [Instert What the hell happened here meme ..here](http://9gag.com/gag/aAy02oL)<!-- MEMES:END -->
+ - 😝 [The Malibu waterfront, one of the most expensive properties in the United States, has largely disappeared.](http://9gag.com/gag/awyZeBr)
+ - 💣 [Thought it might be appreciated here.](http://9gag.com/gag/awyZeMB)
+ - 😝 [Its nearly friday u boozers](http://9gag.com/gag/aD2YQY9)
+ - 👉 [Typical UK nowadays , some far right woman stops typical uk citizen from bringing home a girl.](http://9gag.com/gag/abAvRyB)<!-- MEMES:END -->
 
 ---
 

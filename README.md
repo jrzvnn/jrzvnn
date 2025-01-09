@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Nvidia came close to matching my prediction 2 years ago](http://9gag.com/gag/a87qDw6)
- - 😝 [Instert What the hell happened here meme ..here](http://9gag.com/gag/aAy02oL)
- - 💣 [Every restaurant should start doing this.](http://9gag.com/gag/azx2Z4Z)
- - 😝 [Wow how is that possible.](http://9gag.com/gag/awyZ4oy)
- - 👉 [Theresa Virtue and Scott Moir. Scott: `C - can&#39;t tell` ; marries someone else.](http://9gag.com/gag/a5QXqpo)<!-- MEMES:END -->
+ - 😝 [Unexpected turn of events](http://9gag.com/gag/a5QXjMV)
+ - 😝 [Cap?](http://9gag.com/gag/amoAMQX)
+ - 💣 [The perfect flip](http://9gag.com/gag/aBydGvZ)
+ - 😝 [Are we still doing this?](http://9gag.com/gag/aD2YVv7)
+ - 👉 [Men are simple creatures](http://9gag.com/gag/axyobrb)<!-- MEMES:END -->
 
 ---
 

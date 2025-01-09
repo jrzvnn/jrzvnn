@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Amazon is selling the tech behind its $50 billion ad business to other retailers](https://www.theverge.com/2025/1/9/24339933/amazon-retail-media-advertising)
- - [Best Samsung Galaxy Z Fold 6 Deals: Knock $1,000 Off This Excellent Foldable Phone](https://www.cnet.com/deals/best-samsung-galaxy-z-fold-6-deals/#ftag=CAD590a51e)
- - [The best chargers at CES 2025](https://www.theverge.com/2025/1/9/24339370/ces-2025-best-chargers-power-bank)
- - [These Paper Batteries -- Yes, Paper -- Are Best of CES Winners. They&#39;re Coming For Your Tech](https://www.cnet.com/tech/these-paper-batteries-yes-paper-are-best-of-ces-winners-theyre-coming-for-your-tech/#ftag=CAD590a51e)
- - [Elon Musk&#39;s Quest for Domination Has Gone Global](https://www.wired.com/story/elon-musks-quest-for-domination-has-gone-global/)<!-- TECH:END -->
+ - [Ubisoft says it is appointing advisers to review and pursue strategic options after an October 2024 report said its majority backers were considering a buyout &lpar;Ryan Browne/CNBC&rpar;](http://www.techmeme.com/250109/p25#a250109p25)
+ - [Demystifying the Department of Government Efficiency](https://www.wired.com/story/demystifying-doge-elon-musk-vivek-ramaswamy/)
+ - [GOP Senator Markwayne Mullin says Mark Zuckerberg met with Trump the day before announcing that Meta would replace fact-checking with Community Notes &lpar;Colby Hall/Mediaite&rpar;](http://www.techmeme.com/250109/p24#a250109p24)
+ - [The Switch 2 leaks keep coming](https://www.theverge.com/2025/1/9/24339979/nintendo-switch-2-leaks-renders-onleaks)
+ - [Amazon is selling the tech behind its $50 billion ad business to other retailers](https://www.theverge.com/2025/1/9/24339933/amazon-retail-media-advertising)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The Fanciful, Mechanical, Monumental Spectacle of CES 2025](https://www.wired.com/story/ces-2025-photo-gallery-day-4/)
  - [Sources: Eric Schmidt is working on an AI startup called Hooglee, which describes its mission as &quot;democratizing video creation with AI&quot; &lpar;Sarah Emerson/Forbes&rpar;](http://www.techmeme.com/250109/p11#a250109p11)
  - [xAI is testing a standalone iOS app for its chatbot Grok in several countries like the US, Australia, and India; Grok was available only to X users until now &lpar;Ivan Mehta/TechCrunch&rpar;](http://www.techmeme.com/250109/p10#a250109p10)
  - [Up close with the Nvidia GeForce RTX 5090 FE, an incredibly compact flagship video card](https://www.theverge.com/24339760/nvidia-geforce-rtx-5090-founders-edition-photos)
- - [The Internet’s Future Is Looking Bleaker By the Day](https://www.wired.com/story/the-internets-future-is-looking-bleaker-by-the-day/)
- - [Taiwan&#39;s National Security Bureau says daily average cyberattacks on government departments doubled in 2024 vs. 2023 to 2.4M, mostly from Chinese cyber forces &lpar;Yimou Lee/Reuters&rpar;](http://www.techmeme.com/250109/p9#a250109p9)<!-- TECH:END -->
+ - [The Internet’s Future Is Looking Bleaker By the Day](https://www.wired.com/story/the-internets-future-is-looking-bleaker-by-the-day/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

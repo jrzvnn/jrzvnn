@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Google launches a ‘neutral’ Chromium development fund](https://www.theverge.com/2025/1/9/24340196/google-neutral-chromium-development-fund)
+ - [These Newly Identified Cells Could Change the Face of Plastic Surgery](https://www.wired.com/story/these-newly-identified-cells-could-change-the-face-of-plastic-surgery/)
  - [Meta Secretly Trained Its AI on a Notorious Piracy Database, Newly Unredacted Court Docs Reveal](https://www.wired.com/story/new-documents-unredacted-meta-copyright-ai-lawsuit/)
  - [The Honda Zero EVs look even more compelling up close](https://www.theverge.com/2025/1/9/24340049/honda-zero-saloon-suv-prototype-spec-ces-photos)
- - [Sources: many Meta employees are furious about its moderation changes that allow &quot;allegations of mental illness&quot; when based on &quot;gender or sexual orientation&quot; &lpar;Jason Koebler/404 Media&rpar;](http://www.techmeme.com/250109/p30#a250109p30)
- - [Elon Musk and Far-Right German Leader Agree ‘Hitler Was a Communist’](https://www.wired.com/story/elon-musk-far-right-german-leader-weidel-hitler-communist/)
- - [Here are the best Kindle deals right now](https://www.theverge.com/21539047/best-amazon-kindle-deals)<!-- TECH:END -->
+ - [Sources: many Meta employees are furious about its moderation changes that allow &quot;allegations of mental illness&quot; when based on &quot;gender or sexual orientation&quot; &lpar;Jason Koebler/404 Media&rpar;](http://www.techmeme.com/250109/p30#a250109p30)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

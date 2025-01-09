@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Here are the best Kindle deals right now](https://www.theverge.com/21539047/best-amazon-kindle-deals)
  - [NYC-based Captions, an AI-powered video editing app, introduces a free tier with basic video editing tools, while keeping AI features in the $10/month Pro tier &lpar;Ivan Mehta/TechCrunch&rpar;](http://www.techmeme.com/250109/p29#a250109p29)
  - [X launches Grok’s iPhone app in the US](https://www.theverge.com/2025/1/9/24340129/grok-iphone-ios-app-us-launch)
  - [You can finally buy a Thunderbolt 5 SSD](https://www.theverge.com/2025/1/9/24339973/thunderbolt-5-seagate-lacie-rugged-ssd-pro5-sabrent-owc)
- - [Candy Crush, Tinder, MyFitnessPal: See the Thousands of Apps Hijacked to Spy on Your Location](https://www.wired.com/story/gravy-location-data-app-leak-rtb/)
- - [Rumble Among 15 Targets of Texas Attorney General’s Child Privacy Probe](https://www.wired.com/story/texas-social-media-investigation-children-privacy/)<!-- TECH:END -->
+ - [Candy Crush, Tinder, MyFitnessPal: See the Thousands of Apps Hijacked to Spy on Your Location](https://www.wired.com/story/gravy-location-data-app-leak-rtb/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

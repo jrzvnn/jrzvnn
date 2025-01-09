@@ -158,10 +158,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- TECH:START -->
  - [Amazon is selling the tech behind its $50 billion ad business to other retailers](https://www.theverge.com/2025/1/9/24339933/amazon-retail-media-advertising)
+ - [Best Samsung Galaxy Z Fold 6 Deals: Knock $1,000 Off This Excellent Foldable Phone](https://www.cnet.com/deals/best-samsung-galaxy-z-fold-6-deals/#ftag=CAD590a51e)
  - [The best chargers at CES 2025](https://www.theverge.com/2025/1/9/24339370/ces-2025-best-chargers-power-bank)
- - [Elon Musk&#39;s Quest for Domination Has Gone Global](https://www.wired.com/story/elon-musks-quest-for-domination-has-gone-global/)
- - [Nintendo’s next Lego console will be a Game Boy](https://www.theverge.com/2025/1/9/24339971/nintendo-game-boy-lego-release-date-october-2025)
- - [Ubisoft delays Assassin’s Creed Shadows again](https://www.theverge.com/2025/1/9/24339958/ubisoft-delays-assassins-creed-shadows-release-date-sale)<!-- TECH:END -->
+ - [These Paper Batteries -- Yes, Paper -- Are Best of CES Winners. They&#39;re Coming For Your Tech](https://www.cnet.com/tech/these-paper-batteries-yes-paper-are-best-of-ces-winners-theyre-coming-for-your-tech/#ftag=CAD590a51e)
+ - [Elon Musk&#39;s Quest for Domination Has Gone Global](https://www.wired.com/story/elon-musks-quest-for-domination-has-gone-global/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

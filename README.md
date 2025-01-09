@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [His first $100,000 in stock investments turned out pretty well!](http://9gag.com/gag/a0e411X)
- - 😝 [Not same but same same](http://9gag.com/gag/axyoOqp)
- - 💣 [Testing your mortality with totally sick wheelies.](http://9gag.com/gag/awyZY38)
- - 😝 [Wow how is that possible.](http://9gag.com/gag/awyZ4oy)
- - 👉 [No really, where are they?](http://9gag.com/gag/an7zxWB)<!-- MEMES:END -->
+ - 😝 [No really, where are they?](http://9gag.com/gag/an7zxWB)
+ - 😝 [Reminder](http://9gag.com/gag/a6Zqn59)
+ - 💣 [What are you doing step police bro](http://9gag.com/gag/arymBDB)
+ - 😝 [Time for cocktails](http://9gag.com/gag/aYQVMPN)
+ - 👉 [Theresa Virtue and Scott Moir. Scott: `C - can&#39;t tell` ; marries someone else.](http://9gag.com/gag/a5QXqpo)<!-- MEMES:END -->
 
 ---
 

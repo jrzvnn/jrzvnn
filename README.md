@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Lady liberty won&#39;t betray you](http://9gag.com/gag/aNDw4X3)
+ - 😝 [Testing your mortality with totally sick wheelies.](http://9gag.com/gag/awyZY38)
  - 😝 [Wow how is that possible.](http://9gag.com/gag/awyZ4oy)
- - 💣 [Hi Georgie](http://9gag.com/gag/a1mPE3G)
- - 😝 [First one](http://9gag.com/gag/aVvbV38)
- - 👉 [President of Mexico just released this map](http://9gag.com/gag/aZZDzez)<!-- MEMES:END -->
+ - 💣 [Grapes.](http://9gag.com/gag/aVvbL6v)
+ - 😝 [Top 10 anime betrayals](http://9gag.com/gag/aE0qWMn)
+ - 👉 [Hi Georgie](http://9gag.com/gag/a1mPE3G)<!-- MEMES:END -->
 
 ---
 

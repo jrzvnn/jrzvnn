@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [HowDisappointing](http://9gag.com/gag/aE0qWgO)
- - 😝 [When you realize](http://9gag.com/gag/a87q0rp)
- - 💣 [Not same but same same](http://9gag.com/gag/axyoOqp)
- - 😝 [What are you doing step police bro](http://9gag.com/gag/arymBDB)
- - 👉 [Guy in his million-dollar LA mansion would rather film the wildfire than flee](http://9gag.com/gag/a87q2De)<!-- MEMES:END -->
+ - 😝 [Nvidia came close to matching my prediction 2 years ago](http://9gag.com/gag/a87qDw6)
+ - 😝 [Contemplating](http://9gag.com/gag/avyQRKd)
+ - 💣 [Guy in his million-dollar LA mansion would rather film the wildfire than flee](http://9gag.com/gag/a87q2De)
+ - 😝 [Not same but same same](http://9gag.com/gag/axyoOqp)
+ - 👉 [Welcome to the new era of gaming](http://9gag.com/gag/aMVEzYX)<!-- MEMES:END -->
 
 ---
 

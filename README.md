@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The 32 Best Movies on Hulu This Week &lpar;January 2024&rpar;](https://www.wired.com/story/best-movies-hulu-right-now/)
+ - [Roku users can watch &#39;Severance&#39; season 1 for free](https://appleinsider.com/articles/25/01/09/roku-users-can-watch-severance-season-1-for-free?utm_medium=rss)
  - [We tried to hold Acer’s giant new Nitro Blaze 11 handheld](https://www.theverge.com/2025/1/9/24339992/acer-nitro-blaze-11-gaming-handheld-steam-deck-size-comparison)
  - [How the US TikTok Ban Would Actually Work](https://www.wired.com/story/how-the-us-tiktok-ban-would-actually-work/)
- - [You can get the newest 8BitDo Ultimate or 8BitDo Pro 2 wired Xbox controllers for $30](https://www.theverge.com/2025/1/9/24339995/8bitdo-ultimate-pro-2-wired-xbox-series-x-s-controller-deal-sale)
- - [Lowest price ever: M3 MacBook Air with 10-core GPU plummets to $999](https://appleinsider.com/articles/25/01/09/lowest-price-ever-m3-macbook-air-with-10-core-gpu-plummets-to-999?utm_medium=rss)
- - [DirectTV and EchoStar aren’t happy about Disney and Fubo’s settlement](https://www.theverge.com/2025/1/9/24340072/directtive-echostar-fubo-hulu-disney-anticompetition-settlement)<!-- TECH:END -->
+ - [You can get the newest 8BitDo Ultimate or 8BitDo Pro 2 wired Xbox controllers for $30](https://www.theverge.com/2025/1/9/24339995/8bitdo-ultimate-pro-2-wired-xbox-series-x-s-controller-deal-sale)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

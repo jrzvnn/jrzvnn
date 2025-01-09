@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Contemplating](http://9gag.com/gag/avyQRKd)
- - 😝 [Nvidia came close to matching my prediction 2 years ago](http://9gag.com/gag/a87qDw6)
- - 💣 [Too much mom\u2019s spaghetti.](http://9gag.com/gag/amoAmg6)
- - 😝 [Welcome to the new era of gaming](http://9gag.com/gag/aMVEzYX)
- - 👉 [Wow how is that possible.](http://9gag.com/gag/awyZ4oy)<!-- MEMES:END -->
+ - 😝 [Too much mom\u2019s spaghetti.](http://9gag.com/gag/amoAmg6)
+ - 😝 [Grapes.](http://9gag.com/gag/aVvbL6v)
+ - 💣 [Instert What the hell happened here meme ..here](http://9gag.com/gag/aAy02oL)
+ - 😝 [Every restaurant should start doing this.](http://9gag.com/gag/azx2Z4Z)
+ - 👉 [Theresa Virtue and Scott Moir. Scott: `C - can&#39;t tell` ; marries someone else.](http://9gag.com/gag/a5QXqpo)<!-- MEMES:END -->
 
 ---
 

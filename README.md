@@ -158,10 +158,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- TECH:START -->
  - [December court filing: Activision revealed that Call of Duty: Black Ops III cost $450M+ to make, Modern Warfare cost $640M+, and Black Ops Cold War cost $700M+ &lpar;Stephen Totilo/Game File&rpar;](http://www.techmeme.com/250109/p22#a250109p22)
- - [Frank McCourt&#39;s Project Liberty says it made a formal bid to ByteDance to buy TikTok&#39;s US assets and keep the app alive without its current algorithm &lpar;Jaiveer Singh Shekhawat/Reuters&rpar;](http://www.techmeme.com/250109/p21#a250109p21)
- - [Israeli cybersecurity startup Wiz names veteran exec Fazal Merchant as president and CFO to prepare for a US IPO; sources: Wiz has annual revenues of ~$500M &lpar;Steven Scheer/Reuters&rpar;](http://www.techmeme.com/250109/p20#a250109p20)
- - [MAGA Is Blaming DEI for the California Wildfires](https://www.wired.com/story/maga-blaming-dei-california-wildfires-conspiracy/)
- - [6 Eye-Friendly Vitamins and Supplements That Will Safeguard Your Vision](https://www.cnet.com/health/personal-care/6-eye-friendly-vitamins-and-supplements-that-will-safeguard-your-vision/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Eye-Popping Home Tech Gadgets We&#39;re Loving From CES 2025 So Far](https://www.cnet.com/pictures/eye-popping-home-tech-gadgets-were-loving-from-ces-2025-so-far/#ftag=CAD590a51e)
+ - [The Top 6 Alarm Clocks of 2025](https://www.cnet.com/health/sleep/best-alarm-clock/#ftag=CAD590a51e)
+ - [Best Portable Jump-Starter Deals: Save Big on Small Jumpers for Your Car](https://www.cnet.com/roadshow/news/best-portable-jump-starter-deals/#ftag=CAD590a51e)
+ - [These Are the Official 2025 Best of CES Winners, Awarded by CNET Group](https://www.cnet.com/tech/these-are-the-official-2025-best-of-ces-winners-awarded-by-cnet-group/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Real Apple Pay](http://9gag.com/gag/aPAg8gQ)
  - 😝 [Swedish friends, is that true?](http://9gag.com/gag/ae9Qmqj)
- - 💣 [Soccer/Football player surprises herself with the goal she scores.](http://9gag.com/gag/amoA6dj)
  - 😝 [Every restaurant should start doing this.](http://9gag.com/gag/azx2Z4Z)
- - 👉 [Wow how is that possible.](http://9gag.com/gag/awyZ4oy)<!-- MEMES:END -->
+ - 💣 [Guy in his million-dollar LA mansion would rather film the wildfire than flee](http://9gag.com/gag/a87q2De)
+ - 😝 [This game is truly AM AM AM!](http://9gag.com/gag/arymxwX)
+ - 👉 [Top 10 anime betrayals](http://9gag.com/gag/aE0qWMn)<!-- MEMES:END -->
 
 ---
 

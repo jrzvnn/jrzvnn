@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Swedish friends, is that true?](http://9gag.com/gag/ae9Qmqj)
- - 😝 [Every restaurant should start doing this.](http://9gag.com/gag/azx2Z4Z)
- - 💣 [Guy in his million-dollar LA mansion would rather film the wildfire than flee](http://9gag.com/gag/a87q2De)
- - 😝 [This game is truly AM AM AM!](http://9gag.com/gag/arymxwX)
- - 👉 [Top 10 anime betrayals](http://9gag.com/gag/aE0qWMn)<!-- MEMES:END -->
+ - 😝 [The perfect flip](http://9gag.com/gag/aBydGvZ)
+ - 😝 [Cap?](http://9gag.com/gag/amoAMQX)
+ - 💣 [Boomer game.](http://9gag.com/gag/awyZdXR)
+ - 😝 [Men are simple creatures](http://9gag.com/gag/axyobrb)
+ - 👉 [Are we still doing this?](http://9gag.com/gag/aD2YVv7)<!-- MEMES:END -->
 
 ---
 

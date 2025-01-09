@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [No really, where are they?](http://9gag.com/gag/an7zxWB)
- - 😝 [Killer&#39;s family curse at victim&#39;s family after he got sentenced for the crime](http://9gag.com/gag/ae9QxLQ)
- - 💣 [Guy in his million-dollar LA mansion would rather film the wildfire than flee](http://9gag.com/gag/a87q2De)
- - 😝 [Reminder](http://9gag.com/gag/a6Zqn59)
- - 👉 [Welcome to the new era of gaming](http://9gag.com/gag/aMVEzYX)<!-- MEMES:END -->
+ - 😝 [Guy in his million-dollar LA mansion would rather film the wildfire than flee](http://9gag.com/gag/a87q2De)
+ - 😝 [Swedish friends, is that true?](http://9gag.com/gag/ae9Qmqj)
+ - 💣 [Top 10 anime betrayals](http://9gag.com/gag/aE0qWMn)
+ - 😝 [Too much mom\u2019s spaghetti.](http://9gag.com/gag/amoAmg6)
+ - 👉 [Driver tries to leave scene of accident](http://9gag.com/gag/aRBEzNy)<!-- MEMES:END -->
 
 ---
 

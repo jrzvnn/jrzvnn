@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [Real Apple Pay](http://9gag.com/gag/aPAg8gQ)
  - 😝 [Swedish friends, is that true?](http://9gag.com/gag/ae9Qmqj)
- - 😝 [Man with headaches used nails to try to relieve the pain over course of a year before seeking medical attention. He survived with no ill effects.](http://9gag.com/gag/aO8x9dy)
- - 💣 [Guy in his million-dollar LA mansion would rather film the wildfire than flee](http://9gag.com/gag/a87q2De)
- - 😝 [What are you doing step police bro](http://9gag.com/gag/arymBDB)
- - 👉 [Grapes.](http://9gag.com/gag/aVvbL6v)<!-- MEMES:END -->
+ - 💣 [Soccer/Football player surprises herself with the goal she scores.](http://9gag.com/gag/amoA6dj)
+ - 😝 [Every restaurant should start doing this.](http://9gag.com/gag/azx2Z4Z)
+ - 👉 [Wow how is that possible.](http://9gag.com/gag/awyZ4oy)<!-- MEMES:END -->
 
 ---
 

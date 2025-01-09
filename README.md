@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Meta Secretly Trained Its AI on a Notorious Piracy Database, Newly Unredacted Court Docs Reveal](https://www.wired.com/story/new-documents-unredacted-meta-copyright-ai-lawsuit/)
  - [The Honda Zero EVs look even more compelling up close](https://www.theverge.com/2025/1/9/24340049/honda-zero-saloon-suv-prototype-spec-ces-photos)
  - [Sources: many Meta employees are furious about its moderation changes that allow &quot;allegations of mental illness&quot; when based on &quot;gender or sexual orientation&quot; &lpar;Jason Koebler/404 Media&rpar;](http://www.techmeme.com/250109/p30#a250109p30)
  - [Elon Musk and Far-Right German Leader Agree ‘Hitler Was a Communist’](https://www.wired.com/story/elon-musk-far-right-german-leader-weidel-hitler-communist/)
- - [Here are the best Kindle deals right now](https://www.theverge.com/21539047/best-amazon-kindle-deals)
- - [NYC-based Captions, an AI-powered video editing app, introduces a free tier with basic video editing tools, while keeping AI features in the $10/month Pro tier &lpar;Ivan Mehta/TechCrunch&rpar;](http://www.techmeme.com/250109/p29#a250109p29)<!-- TECH:END -->
+ - [Here are the best Kindle deals right now](https://www.theverge.com/21539047/best-amazon-kindle-deals)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

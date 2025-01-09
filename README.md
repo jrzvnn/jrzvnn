@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Nintendo’s next Lego console will be a Game Boy](https://www.theverge.com/2025/1/9/24339971/nintendo-game-boy-lego-release-date-october-2025)
+ - [Ubisoft delays Assassin’s Creed Shadows again](https://www.theverge.com/2025/1/9/24339958/ubisoft-delays-assassins-creed-shadows-release-date-sale)
  - [The Devastating Los Angeles Fires in Pictures](https://www.wired.com/gallery/the-devastating-los-angeles-fires-in-pictures/)
  - [What it will take for TikTok to survive in the US](https://www.theverge.com/2025/1/9/24339875/tiktok-ban-supreme-court-china-trump)
- - [A US judge rules that Google must face a class action claiming Google collected users&#39; personal data from their phones after switching off Web &amp; App Activity &lpar;Jonathan Stempel/Reuters&rpar;](http://www.techmeme.com/250109/p23#a250109p23)
- - [How Microsoft can turn Windows PCs into an Xbox](https://www.theverge.com/2025/1/9/24339889/microsoft-xbox-handheld-windows-operating-system-changes-notepad)
- - [You’ll finally be able to buy the Super Retro Champ that plays SNES and Genesis carts](https://www.theverge.com/2025/1/9/24334903/my-arcade-super-retrochamp-handheld-gaming-retro-sega-nintendo-cartridges)<!-- TECH:END -->
+ - [A US judge rules that Google must face a class action claiming Google collected users&#39; personal data from their phones after switching off Web &amp; App Activity &lpar;Jonathan Stempel/Reuters&rpar;](http://www.techmeme.com/250109/p23#a250109p23)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

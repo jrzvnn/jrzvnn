@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Typical UK nowadays , some far right woman stops typical uk citizen from bringing home a girl.](http://9gag.com/gag/abAvRyB)
+ - 😝 [Wow how is that possible.](http://9gag.com/gag/awyZ4oy)
  - 😝 [Grapes.](http://9gag.com/gag/aVvbL6v)
- - 💣 [The Malibu waterfront, one of the most expensive properties in the United States, has largely disappeared.](http://9gag.com/gag/awyZeBr)
- - 😝 [The state of LA &lpar;more images in comments&rpar;](http://9gag.com/gag/aGyE7O5)
- - 👉 [She&#39;s a trooper. Didn&#39;t even take a knee. Get that for me, would you, deary?](http://9gag.com/gag/aO8xp3v)<!-- MEMES:END -->
+ - 💣 [Typical UK nowadays , some far right woman stops typical uk citizen from bringing home a girl.](http://9gag.com/gag/abAvRyB)
+ - 😝 [She&#39;s a trooper. Didn&#39;t even take a knee. Get that for me, would you, deary?](http://9gag.com/gag/aO8xp3v)
+ - 👉 [The Malibu waterfront, one of the most expensive properties in the United States, has largely disappeared.](http://9gag.com/gag/awyZeBr)<!-- MEMES:END -->
 
 ---
 

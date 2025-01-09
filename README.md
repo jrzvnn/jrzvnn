@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Wow how is that possible.](http://9gag.com/gag/awyZ4oy)
  - 😝 [Hi Georgie](http://9gag.com/gag/a1mPE3G)
- - 💣 [Testing your mortality with totally sick wheelies.](http://9gag.com/gag/awyZY38)
- - 😝 [Grapes.](http://9gag.com/gag/aVvbL6v)
- - 👉 [Women](http://9gag.com/gag/aGyEGWn)<!-- MEMES:END -->
+ - 😝 [How many drinks have you had?](http://9gag.com/gag/aPAgr4g)
+ - 💣 [Thought it might be appreciated here.](http://9gag.com/gag/awyZeMB)
+ - 😝 [So?](http://9gag.com/gag/a6ZqjgL)
+ - 👉 [He\u2019s so close yet so far](http://9gag.com/gag/aVvbZOy)<!-- MEMES:END -->
 
 ---
 

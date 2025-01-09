@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Istanbul-based gaming startup Grand Games, maker of Magic Sort and Car Match, raised a $30M Series A led by Balderton, after securing a $3M seed in 2024 &lpar;Ingrid Lunden/TechCrunch&rpar;](http://www.techmeme.com/250109/p8#a250109p8)
  - [Apple TV+ hits &#39;Slow Horses&#39; and &#39;Shrinking&#39; nominated for acting awards](https://appleinsider.com/articles/25/01/08/apple-tv-hits-slow-horses-and-shrinking-nominated-for-acting-awards?utm_medium=rss)
  - [Google can turn your Discover feed into an AI-generated podcast](https://www.theverge.com/2025/1/9/24339765/google-labs-daily-listen-ai-generated-podcast-overviews)
  - [New CFO and iPhone holiday sales: What to expect from Apple&#39;s Q1 2025 earnings](https://appleinsider.com/articles/25/01/09/new-cfo-and-iphone-holiday-sales-what-to-expect-from-apples-q1-2025-earnings?utm_medium=rss)
- - [A new English-language Polish film about Vladimir Putin, in which AI is used to superimpose his real face onto an actor, sparks a debate about use of AI &lpar;Alicja Ptak/Notes From Poland&rpar;](http://www.techmeme.com/250109/p7#a250109p7)
- - [Homeowners Face Higher Refi Rates: Current Refinance Rates on Jan. 9, 2025](https://www.cnet.com/personal-finance/mortgages/homeowners-face-higher-refi-rates-current-refinance-rates-on-jan-9-2025/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [A new English-language Polish film about Vladimir Putin, in which AI is used to superimpose his real face onto an actor, sparks a debate about use of AI &lpar;Alicja Ptak/Notes From Poland&rpar;](http://www.techmeme.com/250109/p7#a250109p7)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

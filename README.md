@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [The perfect flip](http://9gag.com/gag/aBydGvZ)
- - 😝 [Cap?](http://9gag.com/gag/amoAMQX)
- - 💣 [Boomer game.](http://9gag.com/gag/awyZdXR)
- - 😝 [Men are simple creatures](http://9gag.com/gag/axyobrb)
- - 👉 [Are we still doing this?](http://9gag.com/gag/aD2YVv7)<!-- MEMES:END -->
+ - 😝 [HowDisappointing](http://9gag.com/gag/aE0qWgO)
+ - 😝 [When you realize](http://9gag.com/gag/a87q0rp)
+ - 💣 [Not same but same same](http://9gag.com/gag/axyoOqp)
+ - 😝 [What are you doing step police bro](http://9gag.com/gag/arymBDB)
+ - 👉 [Guy in his million-dollar LA mansion would rather film the wildfire than flee](http://9gag.com/gag/a87q2De)<!-- MEMES:END -->
 
 ---
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Hi Georgie](http://9gag.com/gag/a1mPE3G)
- - 😝 [The Malibu waterfront, one of the most expensive properties in the United States, has largely disappeared.](http://9gag.com/gag/awyZeBr)
- - 💣 [Thought it might be appreciated here.](http://9gag.com/gag/awyZeMB)
- - 😝 [Its nearly friday u boozers](http://9gag.com/gag/aD2YQY9)
- - 👉 [Typical UK nowadays , some far right woman stops typical uk citizen from bringing home a girl.](http://9gag.com/gag/abAvRyB)<!-- MEMES:END -->
+ - 😝 [Time for cocktails](http://9gag.com/gag/aYQVMPN)
+ - 😝 [Typical UK nowadays , some far right woman stops typical uk citizen from bringing home a girl.](http://9gag.com/gag/abAvRyB)
+ - 💣 [This COP is legend](http://9gag.com/gag/ae9QR05)
+ - 😝 [Let the intrusive thoughts win](http://9gag.com/gag/aQzE227)
+ - 👉 [Testing your mortality with totally sick wheelies.](http://9gag.com/gag/awyZY38)<!-- MEMES:END -->
 
 ---
 

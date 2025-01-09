@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [How wartime GPS jamming has negatively impacted agriculture in Israel; in 2021, ~70% of Israeli farmers used GPS-guided equipment and precision-farming tech &lpar;Marissa Newman/Bloomberg&rpar;](http://www.techmeme.com/250109/p6#a250109p6)
  - [Sephora Promo Codes and Deals: 50% Off](https://www.wired.com/story/sephora-promo-code/)
- - [Source: Flipkart hires Kabeer Biswas, co-founder of Dunzo, the Indian delivery startup that raised $500M+, to lead its quick commerce business, Flipkart Minutes &lpar;Manish Singh/TechCrunch&rpar;](http://www.techmeme.com/250109/p5#a250109p5)
+ - [Source: Flipkart hires Kabeer Biswas, co-founder of Dunzo, an Indian delivery startup that raised $500M+, to lead its quick commerce business, Flipkart Minutes &lpar;Manish Singh/TechCrunch&rpar;](http://www.techmeme.com/250109/p5#a250109p5)
  - [H&amp;R Block Coupons and Deals: 15% Off Tax Prep in 2025](https://www.wired.com/story/hr-block-coupon/)
- - [YL Ventures: Israeli cybersecurity firms raised $4B in 2024, up over 100% YoY, across 89 rounds, including 50 seed or early-stage rounds that raised $400M &lpar;Steven Scheer/Reuters&rpar;](http://www.techmeme.com/250109/p4#a250109p4)
- - [Adidas Promo Codes &amp; Deals: 20% Off](https://www.wired.com/story/adidas-promo-code/)<!-- TECH:END -->
+ - [YL Ventures: Israeli cybersecurity firms raised $4B in 2024, up over 100% YoY, across 89 rounds, including 50 seed or early-stage rounds that raised $400M &lpar;Steven Scheer/Reuters&rpar;](http://www.techmeme.com/250109/p4#a250109p4)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

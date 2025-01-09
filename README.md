@@ -167,10 +167,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [Lady liberty won&#39;t betray you](http://9gag.com/gag/aNDw4X3)
- - 😝 [No really, where are they?](http://9gag.com/gag/an7zxWB)
- - 💣 [Instert What the hell happened here meme ..here](http://9gag.com/gag/aAy02oL)
- - 😝 [President of Mexico just released this map](http://9gag.com/gag/aZZDzez)
- - 👉 [Wow how is that possible.](http://9gag.com/gag/awyZ4oy)<!-- MEMES:END -->
+ - 😝 [Wow how is that possible.](http://9gag.com/gag/awyZ4oy)
+ - 💣 [Hi Georgie](http://9gag.com/gag/a1mPE3G)
+ - 😝 [First one](http://9gag.com/gag/aVvbV38)
+ - 👉 [President of Mexico just released this map](http://9gag.com/gag/aZZDzez)<!-- MEMES:END -->
 
 ---
 

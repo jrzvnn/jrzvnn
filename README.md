@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Here are the best Apple Watch deals right now](https://www.theverge.com/21289209/best-apple-watch-deals)
- - [This robovac has an arm — and legs, too](https://www.theverge.com/2025/1/8/24338956/dreame-robot-vacuum-legs-arm-tools)
- - [Privacy nightmare FaceApp causes Apple &amp; Google to be fined in Brazil](https://appleinsider.com/articles/25/01/09/privacy-nightmare-faceapp-causes-apple-google-to-be-fined-in-brazil?utm_medium=rss)
- - [Japan says Chinese hacking group MirrorFace is linked to 200+ cyberattacks from 2019 to 2024 targeting the country&#39;s national security and advanced tech data &lpar;Mari Yamaguchi/Associated Press&rpar;](http://www.techmeme.com/250108/p39#a250108p39)
- - [Today&#39;s NYT Strands Hints, Answers and Help for Jan. 9, #312](https://www.cnet.com/tech/gaming/todays-nyt-strands-hints-answers-and-help-for-jan-9-312/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Sources: SoftBank and its majority-owned Arm are weighing acquiring Oracle-backed Ampere, which designs ARM-based server CPUs; Ampere is exploring its options &lpar;Bloomberg&rpar;](http://www.techmeme.com/250108/p41#a250108p41)
+ - [Microsoft is reverting to an older DALL-E 3 model version for Bing Image Creator, after the latest version, codenamed PR16, got many complaints on X and Reddit &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/250108/p40#a250108p40)
+ - [Some users couldn&#39;t access Apple Cash due to Wednesday outage](https://appleinsider.com/articles/25/01/08/some-users-cant-access-apple-cash-due-to-ongoing-issue-causing-an-outage?utm_medium=rss)
+ - [Apple says Siri isn’t sending your conversations to advertisers — even if it accidentally records them](https://www.theverge.com/2025/1/8/24337477/apple-responds-rumors-siri-advertising-privacy-lawsuit)
+ - [Apple reaffirms privacy as a tentpole feature in Siri after lawsuit settlement](https://appleinsider.com/articles/25/01/09/apple-reaffirms-privacy-as-a-tentpole-feature-in-siri-after-lawsuit-settlement?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

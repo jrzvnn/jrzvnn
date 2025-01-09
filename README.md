@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Guy in his million-dollar LA mansion would rather film the wildfire than flee](http://9gag.com/gag/a87q2De)
- - 😝 [Swedish friends, is that true?](http://9gag.com/gag/ae9Qmqj)
- - 💣 [Top 10 anime betrayals](http://9gag.com/gag/aE0qWMn)
+ - 😝 [No really, where are they?](http://9gag.com/gag/an7zxWB)
  - 😝 [Too much mom\u2019s spaghetti.](http://9gag.com/gag/amoAmg6)
- - 👉 [Driver tries to leave scene of accident](http://9gag.com/gag/aRBEzNy)<!-- MEMES:END -->
+ - 💣 [Welcome to the new era of gaming](http://9gag.com/gag/aMVEzYX)
+ - 😝 [Nvidia came close to matching my prediction 2 years ago](http://9gag.com/gag/a87qDw6)
+ - 👉 [Every restaurant should start doing this.](http://9gag.com/gag/azx2Z4Z)<!-- MEMES:END -->
 
 ---
 

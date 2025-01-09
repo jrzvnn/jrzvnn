@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Unexpected turn of events](http://9gag.com/gag/a5QXjMV)
- - 😝 [Cap?](http://9gag.com/gag/amoAMQX)
- - 💣 [The perfect flip](http://9gag.com/gag/aBydGvZ)
- - 😝 [Are we still doing this?](http://9gag.com/gag/aD2YVv7)
- - 👉 [Men are simple creatures](http://9gag.com/gag/axyobrb)<!-- MEMES:END -->
+ - 😝 [Group of women shopping at \u2018The Orange Outlets\u2019 in California](http://9gag.com/gag/ayN2YXM)
+ - 😝 [Grapes.](http://9gag.com/gag/aVvbL6v)
+ - 💣 [Ask 9gag](http://9gag.com/gag/aRBEo82)
+ - 😝 [Not same but same same](http://9gag.com/gag/axyoOqp)
+ - 👉 [Welcome to the new era of gaming](http://9gag.com/gag/aMVEzYX)<!-- MEMES:END -->
 
 ---
 

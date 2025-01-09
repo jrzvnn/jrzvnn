@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Real Apple Pay](http://9gag.com/gag/aPAg8gQ)
- - 😝 [Grapes.](http://9gag.com/gag/aVvbL6v)
- - 💣 [Theresa Virtue and Scott Moir. Scott: `C - can&#39;t tell` ; marries someone else.](http://9gag.com/gag/a5QXqpo)
- - 😝 [Welcome to the new era of gaming](http://9gag.com/gag/aMVEzYX)
- - 👉 [No really, where are they?](http://9gag.com/gag/an7zxWB)<!-- MEMES:END -->
+ - 😝 [Testing your mortality with totally sick wheelies.](http://9gag.com/gag/awyZY38)
+ - 😝 [Theresa Virtue and Scott Moir. Scott: `C - can&#39;t tell` ; marries someone else.](http://9gag.com/gag/a5QXqpo)
+ - 💣 [First one](http://9gag.com/gag/aVvbV38)
+ - 😝 [Top 10 anime betrayals](http://9gag.com/gag/aE0qWMn)
+ - 👉 [Nvidia came close to matching my prediction 2 years ago](http://9gag.com/gag/a87qDw6)<!-- MEMES:END -->
 
 ---
 

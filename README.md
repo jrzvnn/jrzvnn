@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The Fanciful, Mechanical, Monumental Spectacle of CES 2025](https://www.wired.com/story/ces-2025-photo-gallery-day-4/)
- - [Sources: Eric Schmidt is working on an AI startup called Hooglee, which describes its mission as &quot;democratizing video creation with AI&quot; &lpar;Sarah Emerson/Forbes&rpar;](http://www.techmeme.com/250109/p11#a250109p11)
- - [xAI is testing a standalone iOS app for its chatbot Grok in several countries like the US, Australia, and India; Grok was available only to X users until now &lpar;Ivan Mehta/TechCrunch&rpar;](http://www.techmeme.com/250109/p10#a250109p10)
- - [Up close with the Nvidia GeForce RTX 5090 FE, an incredibly compact flagship video card](https://www.theverge.com/24339760/nvidia-geforce-rtx-5090-founders-edition-photos)
- - [The Internet’s Future Is Looking Bleaker By the Day](https://www.wired.com/story/the-internets-future-is-looking-bleaker-by-the-day/)<!-- TECH:END -->
+ - [Apple fights patent lawsuit over iPhone 15 camera tech](https://appleinsider.com/articles/25/01/09/apple-fights-patent-lawsuit-over-iphone-15-camera-tech?utm_medium=rss)
+ - [Disney says it has an estimated 157M global MAUs for ad-supported content across its streaming platforms, including 112M users in the US &lpar;Lillian Rizzo/CNBC&rpar;](http://www.techmeme.com/250109/p13#a250109p13)
+ - [LA residents find a lifeline in this free wildfire-tracking app](https://www.theverge.com/2025/1/9/24339799/watch-duty-wildfire-tracking-app-la-wildfires)
+ - [Ivanti warns that a zero-day in its widely-used Connect Secure VPN service has been exploited to compromise the networks of its corporate customers &lpar;Carly Page/TechCrunch&rpar;](http://www.techmeme.com/250109/p12#a250109p12)
+ - [The Fanciful, Mechanical, Monumental Spectacle of CES 2025](https://www.wired.com/story/ces-2025-photo-gallery-day-4/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

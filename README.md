@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [You can finally buy a Thunderbolt 5 SSD](https://www.theverge.com/2025/1/9/24339973/thunderbolt-5-seagate-lacie-rugged-ssd-pro5-sabrent-owc)
+ - [Candy Crush, Tinder, MyFitnessPal: See the Thousands of Apps Hijacked to Spy on Your Location](https://www.wired.com/story/gravy-location-data-app-leak-rtb/)
+ - [Rumble Among 15 Targets of Texas Attorney General’s Child Privacy Probe](https://www.wired.com/story/texas-social-media-investigation-children-privacy/)
  - [The best instant cameras you can buy right now](https://www.theverge.com/23133103/best-instant-cameras-fujifilm-polaroid-kodak)
- - [Hippocratic AI, which is building an LLM for health care, raised a $141M Series B, valuing the company at $1.64B, and launches a health care AI agent app store &lpar;Heather Landi/Fierce Healthcare&rpar;](http://www.techmeme.com/250109/p28#a250109p28)
- - [We Love These Ground-Breaking EV Solutions at CES 2025](https://www.cnet.com/roadshow/news/we-love-these-ground-breaking-ev-solutions-at-ces-2025/#ftag=CAD590a51e)
- - [This $175K Robot Is Almost Human. We Interviewed It at CES 2025](https://www.cnet.com/tech/services-and-software/this-175k-robot-is-almost-human-we-interviewed-it-at-ces-2025/#ftag=CAD590a51e)
- - [Best Verizon Deals: Free iPhone 16, Galaxy S24 or Pixel 9 With New Line and Trade-In](https://www.cnet.com/deals/best-verizon-deals/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Hippocratic AI, which is building an LLM for health care, raised a $141M Series B, valuing the company at $1.64B, and launches a health care AI agent app store &lpar;Heather Landi/Fierce Healthcare&rpar;](http://www.techmeme.com/250109/p28#a250109p28)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

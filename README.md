@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [December court filing: Activision revealed that Call of Duty: Black Ops III cost $450M+ to make, Modern Warfare cost $640M+, and Black Ops Cold War cost $700M+ &lpar;Stephen Totilo/Game File&rpar;](http://www.techmeme.com/250109/p22#a250109p22)
- - [Eye-Popping Home Tech Gadgets We&#39;re Loving From CES 2025 So Far](https://www.cnet.com/pictures/eye-popping-home-tech-gadgets-were-loving-from-ces-2025-so-far/#ftag=CAD590a51e)
- - [The Top 6 Alarm Clocks of 2025](https://www.cnet.com/health/sleep/best-alarm-clock/#ftag=CAD590a51e)
- - [Best Portable Jump-Starter Deals: Save Big on Small Jumpers for Your Car](https://www.cnet.com/roadshow/news/best-portable-jump-starter-deals/#ftag=CAD590a51e)
- - [These Are the Official 2025 Best of CES Winners, Awarded by CNET Group](https://www.cnet.com/tech/these-are-the-official-2025-best-of-ces-winners-awarded-by-cnet-group/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [The Devastating Los Angeles Fires in Pictures](https://www.wired.com/gallery/the-devastating-los-angeles-fires-in-pictures/)
+ - [What it will take for TikTok to survive in the US](https://www.theverge.com/2025/1/9/24339875/tiktok-ban-supreme-court-china-trump)
+ - [A US judge rules that Google must face a class action claiming Google collected users&#39; personal data from their phones after switching off Web &amp; App Activity &lpar;Jonathan Stempel/Reuters&rpar;](http://www.techmeme.com/250109/p23#a250109p23)
+ - [How Microsoft can turn Windows PCs into an Xbox](https://www.theverge.com/2025/1/9/24339889/microsoft-xbox-handheld-windows-operating-system-changes-notepad)
+ - [You’ll finally be able to buy the Super Retro Champ that plays SNES and Genesis carts](https://www.theverge.com/2025/1/9/24334903/my-arcade-super-retrochamp-handheld-gaming-retro-sega-nintendo-cartridges)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

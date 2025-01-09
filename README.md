@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Women](http://9gag.com/gag/aGyEGWn)
+ - 😝 [Every restaurant should start doing this.](http://9gag.com/gag/azx2Z4Z)
+ - 😝 [Sometimes I just wonder if the orange man is just trolling.](http://9gag.com/gag/aZZDEj6)
+ - 💣 [This COP is legend](http://9gag.com/gag/ae9QR05)
  - 😝 [Theresa Virtue and Scott Moir. Scott: `C - can&#39;t tell` ; marries someone else.](http://9gag.com/gag/a5QXqpo)
- - 💣 [Testing your mortality with totally sick wheelies.](http://9gag.com/gag/awyZY38)
- - 😝 [Typical UK nowadays , some far right woman stops typical uk citizen from bringing home a girl.](http://9gag.com/gag/abAvRyB)
- - 👉 [This COP is legend](http://9gag.com/gag/ae9QR05)<!-- MEMES:END -->
+ - 👉 [She&#39;s a trooper. Didn&#39;t even take a knee. Get that for me, would you, deary?](http://9gag.com/gag/aO8xp3v)<!-- MEMES:END -->
 
 ---
 

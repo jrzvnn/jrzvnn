@@ -159,9 +159,9 @@ R                        1 repo              ░░░░░░░░░░░�
 <!-- TECH:START -->
  - [The best instant cameras you can buy right now](https://www.theverge.com/23133103/best-instant-cameras-fujifilm-polaroid-kodak)
  - [Hippocratic AI, which is building an LLM for health care, raised a $141M Series B, valuing the company at $1.64B, and launches a health care AI agent app store &lpar;Heather Landi/Fierce Healthcare&rpar;](http://www.techmeme.com/250109/p28#a250109p28)
- - [The 32 Best Movies on Hulu This Week &lpar;January 2024&rpar;](https://www.wired.com/story/best-movies-hulu-right-now/)
- - [Roku users can watch &#39;Severance&#39; season 1 for free](https://appleinsider.com/articles/25/01/09/roku-users-can-watch-severance-season-1-for-free?utm_medium=rss)
- - [We tried to hold Acer’s giant new Nitro Blaze 11 handheld](https://www.theverge.com/2025/1/9/24339992/acer-nitro-blaze-11-gaming-handheld-steam-deck-size-comparison)<!-- TECH:END -->
+ - [We Love These Ground-Breaking EV Solutions at CES 2025](https://www.cnet.com/roadshow/news/we-love-these-ground-breaking-ev-solutions-at-ces-2025/#ftag=CAD590a51e)
+ - [This $175K Robot Is Almost Human. We Interviewed It at CES 2025](https://www.cnet.com/tech/services-and-software/this-175k-robot-is-almost-human-we-interviewed-it-at-ces-2025/#ftag=CAD590a51e)
+ - [Best Verizon Deals: Free iPhone 16, Galaxy S24 or Pixel 9 With New Line and Trade-In](https://www.cnet.com/deals/best-verizon-deals/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

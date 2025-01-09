@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Swedish friends, is that true?](http://9gag.com/gag/ae9Qmqj)
  - 😝 [Real Apple Pay](http://9gag.com/gag/aPAg8gQ)
- - 💣 [Nvidia came close to matching my prediction 2 years ago](http://9gag.com/gag/a87qDw6)
- - 😝 [Instert What the hell happened here meme ..here](http://9gag.com/gag/aAy02oL)
- - 👉 [Welcome to the new era of gaming](http://9gag.com/gag/aMVEzYX)<!-- MEMES:END -->
+ - 😝 [Grapes.](http://9gag.com/gag/aVvbL6v)
+ - 💣 [Theresa Virtue and Scott Moir. Scott: `C - can&#39;t tell` ; marries someone else.](http://9gag.com/gag/a5QXqpo)
+ - 😝 [Welcome to the new era of gaming](http://9gag.com/gag/aMVEzYX)
+ - 👉 [No really, where are they?](http://9gag.com/gag/an7zxWB)<!-- MEMES:END -->
 
 ---
 

@@ -159,9 +159,9 @@ R                        1 repo              ░░░░░░░░░░░�
 <!-- TECH:START -->
  - [Taiwan&#39;s National Security Bureau says daily average cyberattacks on government departments doubled in 2024 vs. 2023 to 2.4M, mostly from Chinese cyber forces &lpar;Yimou Lee/Reuters&rpar;](http://www.techmeme.com/250109/p9#a250109p9)
  - [The 31 Best Gadgets From CES 2025 You Can Buy Right Now](https://www.wired.com/story/the-gadgets-from-ces-2025-you-can-buy-right-now/)
- - [Best Nonstick Pan for 2025](https://www.cnet.com/news/best-nonstick-pan/#ftag=CAD590a51e)
- - [Nobull Buy More, Save More Sale Offers Up to 30% Extra Off Clearance Items](https://www.cnet.com/deals/nobull-buy-more-save-more-sale-offers-up-to-30-extra-off-clearance-items/#ftag=CAD590a51e)
- - [Homeowners Face Higher Refi Rates: Current Refinance Rates for Jan. 9, 2025](https://www.cnet.com/personal-finance/homeowners-face-higher-refi-rates-current-refinance-rates-for-jan-9-2025/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [The School Shootings Were Fake. The Terror Was Real](https://www.wired.com/school-swatting-torswats-brad-dennis/)
+ - [Istanbul-based gaming startup Grand Games, maker of Magic Sort and Car Match, raised a $30M Series A led by Balderton, after securing a $3M seed in 2024 &lpar;Ingrid Lunden/TechCrunch&rpar;](http://www.techmeme.com/250109/p8#a250109p8)
+ - [Score Up to 4.65% APY While You Still Can. Today&#39;s CD Rates, Jan. 9, 2025](https://www.cnet.com/personal-finance/banking/score-up-to-apy-while-you-still-can-todays-cd-rates-jan-9-2025/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

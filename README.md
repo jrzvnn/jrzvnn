@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [In the 1980s, a man with severe OCD shot himself in the head in an attempt to commit suicide. Instead of killing him, the bullet destroyed the part of his brain responsible for his OCD, and he went on to become a straight-A college student five years later.](http://9gag.com/gag/a7oq0je)
- - 😝 [Driver tries to leave scene of accident](http://9gag.com/gag/aRBEzNy)
+ - 😝 [Welcome to the new era of gaming](http://9gag.com/gag/aMVEzYX)
+ - 😝 [Swedish friends, is that true?](http://9gag.com/gag/ae9Qmqj)
  - 💣 [Too much mom\u2019s spaghetti.](http://9gag.com/gag/amoAmg6)
- - 😝 [Every restaurant should start doing this.](http://9gag.com/gag/azx2Z4Z)
- - 👉 [Real Apple Pay](http://9gag.com/gag/aPAg8gQ)<!-- MEMES:END -->
+ - 😝 [Driver tries to leave scene of accident](http://9gag.com/gag/aRBEzNy)
+ - 👉 [Instert What the hell happened here meme ..here](http://9gag.com/gag/aAy02oL)<!-- MEMES:END -->
 
 ---
 

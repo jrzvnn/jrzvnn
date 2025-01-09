@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Israeli cybersecurity startup Wiz names veteran exec Fazal Merchant as president and CFO to prepare for a US IPO; sources: Wiz has annual revenues of ~$500M &lpar;Steven Scheer/Reuters&rpar;](http://www.techmeme.com/250109/p20#a250109p20)
+ - [MAGA Is Blaming DEI for the California Wildfires](https://www.wired.com/story/maga-blaming-dei-california-wildfires-conspiracy/)
  - [6 Eye-Friendly Vitamins and Supplements That Will Safeguard Your Vision](https://www.cnet.com/health/personal-care/6-eye-friendly-vitamins-and-supplements-that-will-safeguard-your-vision/#ftag=CAD590a51e)
  - [Innovaccer, which aggregates medical data and plans to introduce multiple AI co-pilots and agents for the healthcare industry, raised a $275M Series F &lpar;Marina Temkin/TechCrunch&rpar;](http://www.techmeme.com/250109/p19#a250109p19)
- - [Netflix’s Sakamoto Days turns a hitman into a small business owner in new trailer](https://www.theverge.com/2025/1/9/24339843/netflix-sakamoto-days-trailer-premiere-date)
- - [Amazon Is Offering a Limited-Time 20% Discount on This Belkin Qi2 Magnetic Battery Pack](https://www.cnet.com/deals/amazon-is-offering-a-limited-time-20-discount-this-belkin-qi2-magnetic-battery-pack/#ftag=CAD590a51e)
- - [Score Up to 4.65% APY While You Still Can. Today&#39;s CD Rates, Jan. 9, 2025](https://www.cnet.com/personal-finance/banking/score-up-to-apy-while-you-still-can-todays-cd-rates-jan-9-2025/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Netflix’s Sakamoto Days turns a hitman into a small business owner in new trailer](https://www.theverge.com/2025/1/9/24339843/netflix-sakamoto-days-trailer-premiere-date)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

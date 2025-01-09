@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [You can get the newest 8BitDo Ultimate or 8BitDo Pro 2 wired Xbox controllers for $30](https://www.theverge.com/2025/1/9/24339995/8bitdo-ultimate-pro-2-wired-xbox-series-x-s-controller-deal-sale)
+ - [Lowest price ever: M3 MacBook Air with 10-core GPU plummets to $999](https://appleinsider.com/articles/25/01/09/lowest-price-ever-m3-macbook-air-with-10-core-gpu-plummets-to-999?utm_medium=rss)
+ - [DirectTV and EchoStar aren’t happy about Disney and Fubo’s settlement](https://www.theverge.com/2025/1/9/24340072/directtive-echostar-fubo-hulu-disney-anticompetition-settlement)
  - [Sources: Musk is probing how he and his right-wing allies can go beyond aggressive X posts to destabilize the UK Labour government and remove Keir Starmer as PM &lpar;Financial Times&rpar;](http://www.techmeme.com/250109/p27#a250109p27)
- - [Elon Musk and Donald Trump spread disinformation as wildfires rage in the LA area](https://www.theverge.com/2025/1/9/24339980/la-fires-pacific-palisades-disinformation-trump-musk)
- - [How to delete your Facebook account](https://www.theverge.com/22231495/delete-facebook-page-account-how-to)
- - [AirPods 4 offered for free as Back to School promo in four countries](https://appleinsider.com/articles/25/01/09/airpods-4-offered-for-free-as-back-to-school-promo-in-four-countries?utm_medium=rss)
- - [The Los Angeles Fires Will Put California’s New Insurance Rules to the Test](https://www.wired.com/story/the-los-angeles-fires-will-put-californias-new-insurance-rules-to-the-test/)<!-- TECH:END -->
+ - [Elon Musk and Donald Trump spread disinformation as wildfires rage in the LA area](https://www.theverge.com/2025/1/9/24339980/la-fires-pacific-palisades-disinformation-trump-musk)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [X launches Grok’s iPhone app in the US](https://www.theverge.com/2025/1/9/24340129/grok-iphone-ios-app-us-launch)
  - [You can finally buy a Thunderbolt 5 SSD](https://www.theverge.com/2025/1/9/24339973/thunderbolt-5-seagate-lacie-rugged-ssd-pro5-sabrent-owc)
  - [Candy Crush, Tinder, MyFitnessPal: See the Thousands of Apps Hijacked to Spy on Your Location](https://www.wired.com/story/gravy-location-data-app-leak-rtb/)
  - [Rumble Among 15 Targets of Texas Attorney General’s Child Privacy Probe](https://www.wired.com/story/texas-social-media-investigation-children-privacy/)
- - [The best instant cameras you can buy right now](https://www.theverge.com/23133103/best-instant-cameras-fujifilm-polaroid-kodak)
- - [Hippocratic AI, which is building an LLM for health care, raised a $141M Series B, valuing the company at $1.64B, and launches a health care AI agent app store &lpar;Heather Landi/Fierce Healthcare&rpar;](http://www.techmeme.com/250109/p28#a250109p28)<!-- TECH:END -->
+ - [The best instant cameras you can buy right now](https://www.theverge.com/23133103/best-instant-cameras-fujifilm-polaroid-kodak)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

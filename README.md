@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Dublin-based Xocean, which provides ocean data to the energy and hydrography industries using uncrewed surface vessels, raised &amp;euro;115M &lpar;Paul Sawers/TechCrunch&rpar;](http://www.techmeme.com/250109/p15#a250109p15)
  - [Best Organic Mattress &amp; Bedding of 2025: Nontoxic, Natural Sleep](https://www.wired.com/story/best-organic-mattresses/)
  - [Apple says it has never used Siri data to build marketing profiles and never sold it for advertising or other purposes, after paying $95M to settle a lawsuit &lpar;Richard Lawler/The Verge&rpar;](http://www.techmeme.com/250109/p14#a250109p14)
  - [Meta is highlighting a splintering global approach to online speech](https://www.theverge.com/2025/1/9/24339230/meta-content-moderation-fact-check-europe-digital-services-act)
- - [Apple fights patent lawsuit over iPhone 15 camera tech](https://appleinsider.com/articles/25/01/09/apple-fights-patent-lawsuit-over-iphone-15-camera-tech?utm_medium=rss)
- - [Disney says it has an estimated 157M global MAUs for ad-supported content across its streaming platforms, including 112M users in the US &lpar;Lillian Rizzo/CNBC&rpar;](http://www.techmeme.com/250109/p13#a250109p13)<!-- TECH:END -->
+ - [Apple fights patent lawsuit over iPhone 15 camera tech](https://appleinsider.com/articles/25/01/09/apple-fights-patent-lawsuit-over-iphone-15-camera-tech?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

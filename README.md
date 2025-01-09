@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Too much mom\u2019s spaghetti.](http://9gag.com/gag/amoAmg6)
- - 😝 [Grapes.](http://9gag.com/gag/aVvbL6v)
- - 💣 [Instert What the hell happened here meme ..here](http://9gag.com/gag/aAy02oL)
- - 😝 [Every restaurant should start doing this.](http://9gag.com/gag/azx2Z4Z)
- - 👉 [Theresa Virtue and Scott Moir. Scott: `C - can&#39;t tell` ; marries someone else.](http://9gag.com/gag/a5QXqpo)<!-- MEMES:END -->
+ - 😝 [Cap?](http://9gag.com/gag/amoAMQX)
+ - 😝 [Boomer game.](http://9gag.com/gag/awyZdXR)
+ - 💣 [The perfect flip](http://9gag.com/gag/aBydGvZ)
+ - 😝 [Are we still doing this?](http://9gag.com/gag/aD2YVv7)
+ - 👉 [Men are simple creatures](http://9gag.com/gag/axyobrb)<!-- MEMES:END -->
 
 ---
 

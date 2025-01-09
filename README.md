@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Sephora Promo Codes and Deals: 50% Off](https://www.wired.com/story/sephora-promo-code/)
+ - [Source: Flipkart hires Kabeer Biswas, co-founder of Dunzo, the Indian delivery startup that raised $500M+, to lead its quick commerce business, Flipkart Minutes &lpar;Manish Singh/TechCrunch&rpar;](http://www.techmeme.com/250109/p5#a250109p5)
+ - [H&amp;R Block Coupons and Deals: 15% Off Tax Prep in 2025](https://www.wired.com/story/hr-block-coupon/)
  - [YL Ventures: Israeli cybersecurity firms raised $4B in 2024, up over 100% YoY, across 89 rounds, including 50 seed or early-stage rounds that raised $400M &lpar;Steven Scheer/Reuters&rpar;](http://www.techmeme.com/250109/p4#a250109p4)
- - [Adidas Promo Codes &amp; Deals: 20% Off](https://www.wired.com/story/adidas-promo-code/)
- - [Blackstone invests $300M in DDN, which helps organizations store and analyze large amounts of data more efficiently for AI and HPC, at a $5B valuation &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/250109/p3#a250109p3)
- - [Court filing: the US government got final approval in the Northern District of California to liquidate 69,370 BTC, worth $6.5B, seized in its Silk Road probe &lpar;Vince Dioquino/Decrypt&rpar;](http://www.techmeme.com/250109/p2#a250109p2)
- - [Today&#39;s NYT Mini Crossword Answers for Thursday, Jan. 9](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-thursday-jan-9/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Adidas Promo Codes &amp; Deals: 20% Off](https://www.wired.com/story/adidas-promo-code/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

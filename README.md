@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Google and Microsoft donate $1 million apiece to Trump’s inauguration](https://www.theverge.com/2025/1/9/24340039/google-microsoft-trump-inauguration-donation)
+ - [The Last of Us Part 2 on PC requires a PSN account, too](https://www.theverge.com/2025/1/9/24340000/the-last-of-us-part-2-pc-playstation-network)
  - [CES 2025 debut: Bluetti transforms portable power and home backup with new product series](https://appleinsider.com/articles/25/01/09/ces-2025-debut-bluetti-transforms-portable-power-and-home-backup-with-new-product-series?utm_medium=rss)
  - [Elon Musk calls on California and Delaware AGs to force OpenAI to auction off a large stake in its business; source: OpenAI had no plans for such an auction &lpar;George Hammond/Financial Times&rpar;](http://www.techmeme.com/250109/p26#a250109p26)
- - [Spy pics appear to show Tesla’s refreshed Model Y in testing](https://www.theverge.com/2025/1/9/24339923/tesla-model-y-juniper-leak-refresh-redesign)
- - [Ubisoft says it is appointing advisers to review and pursue strategic options after an October 2024 report said its majority backers were considering a buyout &lpar;Ryan Browne/CNBC&rpar;](http://www.techmeme.com/250109/p25#a250109p25)
- - [Demystifying the Department of Government Efficiency](https://www.wired.com/story/demystifying-doge-elon-musk-vivek-ramaswamy/)<!-- TECH:END -->
+ - [Los Angeles Fires: Donations, Relief Efforts and How to Help Fire Victims](https://www.cnet.com/how-to/los-angeles-fires-donations-relief-efforts-and-how-to-help-fire-victims/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

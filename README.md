@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Nvidia came close to matching my prediction 2 years ago](http://9gag.com/gag/a87qDw6)
- - 😝 [First one](http://9gag.com/gag/aVvbV38)
- - 💣 [Welcome to the new era of gaming](http://9gag.com/gag/aMVEzYX)
+ - 😝 [Swedish friends, is that true?](http://9gag.com/gag/ae9Qmqj)
  - 😝 [Real Apple Pay](http://9gag.com/gag/aPAg8gQ)
- - 👉 [Top 10 anime betrayals](http://9gag.com/gag/aE0qWMn)<!-- MEMES:END -->
+ - 💣 [Nvidia came close to matching my prediction 2 years ago](http://9gag.com/gag/a87qDw6)
+ - 😝 [Instert What the hell happened here meme ..here](http://9gag.com/gag/aAy02oL)
+ - 👉 [Welcome to the new era of gaming](http://9gag.com/gag/aMVEzYX)<!-- MEMES:END -->
 
 ---
 

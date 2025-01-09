@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The Switch 2 is almost here — but PC handhelds are giving it big competition](https://www.theverge.com/2025/1/9/24339466/nintendo-switch-2-pc-gaming-handhelds-steamos)
+ - [Freewrite’s latest keyboard has a mechanical word-counter to track your writing](https://www.theverge.com/2025/1/9/24339811/astrohaus-freewrite-wordrunner-mechanical-keyboard)
+ - [Amazon launches Amazon Retail Ad Service to let companies show ads in search results, product pages, and other areas of their site, initially in the US &lpar;Annie Palmer/CNBC&rpar;](http://www.techmeme.com/250109/p16#a250109p16)
  - [VLC player demos real-time AI subtitling for videos](https://www.theverge.com/2025/1/9/24339817/vlc-player-automatic-ai-subtitling-translation)
- - [Microsoft’s Xbox Developer Direct returns on January 23rd with a ‘brand new game’](https://www.theverge.com/2025/1/9/24338314/microsoft-xbox-event-developer-direct-date-2025)
- - [Mercedes-Benz EV owners can start using Tesla Superchargers in February](https://www.theverge.com/2025/1/9/24339052/mercedes-benz-tesla-supercharger-ev-adapter-price)
- - [Perplexity partners with Tripadvisor to source hotel info from real people](https://www.theverge.com/2025/1/9/24339020/perplexity-tripadvisor-integration-hotels)
- - [Dublin-based Xocean, which provides ocean data to the energy and hydrography industries using uncrewed surface vessels, raised &amp;euro;115M &lpar;Paul Sawers/TechCrunch&rpar;](http://www.techmeme.com/250109/p15#a250109p15)<!-- TECH:END -->
+ - [Microsoft’s Xbox Developer Direct returns on January 23rd with a ‘brand new game’](https://www.theverge.com/2025/1/9/24338314/microsoft-xbox-event-developer-direct-date-2025)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

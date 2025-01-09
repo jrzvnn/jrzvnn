@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [A new English-language Polish film about Vladimir Putin, in which AI is used to superimpose his real face onto an actor, sparks a debate about use of AI &lpar;Alicja Ptak/Notes From Poland&rpar;](http://www.techmeme.com/250109/p7#a250109p7)
+ - [Homeowners Face Higher Refi Rates: Current Refinance Rates on Jan. 9, 2025](https://www.cnet.com/personal-finance/mortgages/homeowners-face-higher-refi-rates-current-refinance-rates-on-jan-9-2025/#ftag=CAD590a51e)
  - [Say Goodbye to Melatonin and Hello to Magnesium. Here Are the Best Types of Magnesium for Sleep](https://www.cnet.com/health/sleep/best-magnesium-for-sleep/#ftag=CAD590a51e)
  - [How wartime GPS jamming has negatively impacted agriculture in Israel; in 2021, ~70% of Israeli farmers used GPS-guided equipment and precision-farming tech &lpar;Marissa Newman/Bloomberg&rpar;](http://www.techmeme.com/250109/p6#a250109p6)
- - [Sephora Promo Codes and Deals: 50% Off](https://www.wired.com/story/sephora-promo-code/)
- - [Source: Flipkart hires Kabeer Biswas, co-founder of Dunzo, an Indian delivery startup that raised $500M+, to lead its quick commerce business, Flipkart Minutes &lpar;Manish Singh/TechCrunch&rpar;](http://www.techmeme.com/250109/p5#a250109p5)
- - [H&amp;R Block Coupons and Deals: 15% Off Tax Prep in 2025](https://www.wired.com/story/hr-block-coupon/)<!-- TECH:END -->
+ - [Sephora Promo Codes and Deals: 50% Off](https://www.wired.com/story/sephora-promo-code/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [First one](http://9gag.com/gag/aVvbV38)
+ - 😝 [Wow how is that possible.](http://9gag.com/gag/awyZ4oy)
+ - 😝 [Grapes.](http://9gag.com/gag/aVvbL6v)
+ - 💣 [Typical UK nowadays , some far right woman stops typical uk citizen from bringing home a girl.](http://9gag.com/gag/abAvRyB)
  - 😝 [Man with headaches used nails to try to relieve the pain over course of a year before seeking medical attention. He survived with no ill effects.](http://9gag.com/gag/aO8x9dy)
- - 💣 [Lady liberty won&#39;t betray you](http://9gag.com/gag/aNDw4X3)
- - 😝 [This COP is legend](http://9gag.com/gag/ae9QR05)
- - 👉 [Top 10 anime betrayals](http://9gag.com/gag/aE0qWMn)<!-- MEMES:END -->
+ - 👉 [Instert What the hell happened here meme ..here](http://9gag.com/gag/aAy02oL)<!-- MEMES:END -->
 
 ---
 

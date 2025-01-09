@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Microsoft is reverting its Bing AI image generator because of quality complaints](https://www.theverge.com/2025/1/8/24339450/microsoft-reverting-bing-image-creator-quality-complaints-dall-e-3-pr16-pr13)
- - [Microsoft teases ‘major’ Surface business announcement for January 30th](https://www.theverge.com/2025/1/8/24339517/microsoft-surface-business-news-intel-lunar-lake-laptops-rumor)
- - [Infinite Reality, which is building an engine for creating immersive web content, says it has raised $3B from an unnamed private investor at a $12.25B valuation &lpar;Ben Lang/Road to VR&rpar;](http://www.techmeme.com/250108/p38#a250108p38)
- - [CES 2025: Robots and AI Want to Be Everywhere You Are](https://www.cnet.com/pictures/ces-2025-robots-and-ai-want-to-be-everywhere-you-are/#ftag=CAD590a51e)
- - [Most Innovative New Products From CES 2025: Rollable Laptop, Solar Car, More](https://www.cnet.com/tech/most-innovative-new-products-from-ces-2025-rollable-laptop-solar-car-more/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Here are the best Apple Watch deals right now](https://www.theverge.com/21289209/best-apple-watch-deals)
+ - [This robovac has an arm — and legs, too](https://www.theverge.com/2025/1/8/24338956/dreame-robot-vacuum-legs-arm-tools)
+ - [Privacy nightmare FaceApp causes Apple &amp; Google to be fined in Brazil](https://appleinsider.com/articles/25/01/09/privacy-nightmare-faceapp-causes-apple-google-to-be-fined-in-brazil?utm_medium=rss)
+ - [Japan says Chinese hacking group MirrorFace is linked to 200+ cyberattacks from 2019 to 2024 targeting the country&#39;s national security and advanced tech data &lpar;Mari Yamaguchi/Associated Press&rpar;](http://www.techmeme.com/250108/p39#a250108p39)
+ - [Today&#39;s NYT Strands Hints, Answers and Help for Jan. 9, #312](https://www.cnet.com/tech/gaming/todays-nyt-strands-hints-answers-and-help-for-jan-9-312/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

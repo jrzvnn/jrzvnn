@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Guy in his million-dollar LA mansion would rather film the wildfire than flee](http://9gag.com/gag/a87q2De)
- - 😝 [Indonesian version of UFC is little bit different](http://9gag.com/gag/aZZDEOQ)
- - 💣 [What are you doing step police bro](http://9gag.com/gag/arymBDB)
- - 😝 [Wow how is that possible.](http://9gag.com/gag/awyZ4oy)
- - 👉 [When you realize](http://9gag.com/gag/a87q0rp)<!-- MEMES:END -->
+ - 😝 [In the 1980s, a man with severe OCD shot himself in the head in an attempt to commit suicide. Instead of killing him, the bullet destroyed the part of his brain responsible for his OCD, and he went on to become a straight-A college student five years later.](http://9gag.com/gag/a7oq0je)
+ - 😝 [Driver tries to leave scene of accident](http://9gag.com/gag/aRBEzNy)
+ - 💣 [Too much mom\u2019s spaghetti.](http://9gag.com/gag/amoAmg6)
+ - 😝 [Every restaurant should start doing this.](http://9gag.com/gag/azx2Z4Z)
+ - 👉 [Real Apple Pay](http://9gag.com/gag/aPAg8gQ)<!-- MEMES:END -->
 
 ---
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Hi Georgie](http://9gag.com/gag/a1mPE3G)
- - 😝 [How many drinks have you had?](http://9gag.com/gag/aPAgr4g)
- - 💣 [Thought it might be appreciated here.](http://9gag.com/gag/awyZeMB)
- - 😝 [So?](http://9gag.com/gag/a6ZqjgL)
- - 👉 [He\u2019s so close yet so far](http://9gag.com/gag/aVvbZOy)<!-- MEMES:END -->
+ - 😝 [First one](http://9gag.com/gag/aVvbV38)
+ - 😝 [Man with headaches used nails to try to relieve the pain over course of a year before seeking medical attention. He survived with no ill effects.](http://9gag.com/gag/aO8x9dy)
+ - 💣 [Lady liberty won&#39;t betray you](http://9gag.com/gag/aNDw4X3)
+ - 😝 [This COP is legend](http://9gag.com/gag/ae9QR05)
+ - 👉 [Top 10 anime betrayals](http://9gag.com/gag/aE0qWMn)<!-- MEMES:END -->
 
 ---
 

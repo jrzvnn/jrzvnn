@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [How many drinks have you had?](http://9gag.com/gag/aPAgr4g)
- - 😝 [There are Three kinds of people](http://9gag.com/gag/a87qVWZ)
- - 💣 [Hi Georgie](http://9gag.com/gag/a1mPE3G)
- - 😝 [The Malibu waterfront, one of the most expensive properties in the United States, has largely disappeared.](http://9gag.com/gag/awyZeBr)
- - 👉 [Typical UK nowadays , some far right woman stops typical uk citizen from bringing home a girl.](http://9gag.com/gag/abAvRyB)<!-- MEMES:END -->
+ - 😝 [Women](http://9gag.com/gag/aGyEGWn)
+ - 😝 [Testing your mortality with totally sick wheelies.](http://9gag.com/gag/awyZY38)
+ - 💣 [Typical UK nowadays , some far right woman stops typical uk citizen from bringing home a girl.](http://9gag.com/gag/abAvRyB)
+ - 😝 [Wow how is that possible.](http://9gag.com/gag/awyZ4oy)
+ - 👉 [She&#39;s a trooper. Didn&#39;t even take a knee. Get that for me, would you, deary?](http://9gag.com/gag/aO8xp3v)<!-- MEMES:END -->
 
 ---
 

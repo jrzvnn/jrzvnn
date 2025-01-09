@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Google donates $1M to Trump&#39;s inauguration, says the donation, a YouTube livestream, and a home page link to the event are in line with previous inaugurations &lpar;Ashley Capoot/CNBC&rpar;](http://www.techmeme.com/250109/p18#a250109p18)
+ - [Apple Silicon&#39;s success helped AMD make Ryzen AI Max chips](https://appleinsider.com/articles/25/01/09/apple-silicons-success-helped-amd-make-ryzen-ai-max-chips?utm_medium=rss)
+ - [Analysis: Elon Musk&#39;s UK obsession is driven by a few X accounts; an ex-Twitter exec says Musk may be the first tech leader to be radicalized by his own product &lpar;Financial Times&rpar;](http://www.techmeme.com/250109/p17#a250109p17)
  - [The Switch 2 is almost here — but PC handhelds are giving it big competition](https://www.theverge.com/2025/1/9/24339466/nintendo-switch-2-pc-gaming-handhelds-steamos)
- - [Freewrite’s latest keyboard has a mechanical word-counter to track your writing](https://www.theverge.com/2025/1/9/24339811/astrohaus-freewrite-wordrunner-mechanical-keyboard)
- - [Amazon launches Amazon Retail Ad Service to let companies show ads in search results, product pages, and other areas of their site, initially in the US &lpar;Annie Palmer/CNBC&rpar;](http://www.techmeme.com/250109/p16#a250109p16)
- - [VLC player demos real-time AI subtitling for videos](https://www.theverge.com/2025/1/9/24339817/vlc-player-automatic-ai-subtitling-translation)
- - [Microsoft’s Xbox Developer Direct returns on January 23rd with a ‘brand new game’](https://www.theverge.com/2025/1/9/24338314/microsoft-xbox-event-developer-direct-date-2025)<!-- TECH:END -->
+ - [Freewrite’s latest keyboard has a mechanical word-counter to track your writing](https://www.theverge.com/2025/1/9/24339811/astrohaus-freewrite-wordrunner-mechanical-keyboard)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

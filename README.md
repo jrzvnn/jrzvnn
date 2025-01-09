@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The touchless smart locks are here](https://www.theverge.com/2025/1/9/24338451/ces-2025-ultra-wideband-uwb-touchless-keyless-smart-locks-apple)
- - [Google donates $1M to Trump&#39;s inauguration, saying the donation, a YouTube livestream, and a homepage link to the event are in line with previous inaugurations &lpar;Ashley Capoot/CNBC&rpar;](http://www.techmeme.com/250109/p18#a250109p18)
- - [Apple Silicon&#39;s success helped AMD make Ryzen AI Max chips](https://appleinsider.com/articles/25/01/09/apple-silicons-success-helped-amd-make-ryzen-ai-max-chips?utm_medium=rss)
- - [Analysis: Elon Musk&#39;s UK obsession is driven by a few X accounts; an ex-Twitter exec says Musk may be the first tech leader to be radicalized by his own product &lpar;Financial Times&rpar;](http://www.techmeme.com/250109/p17#a250109p17)
- - [The Switch 2 is almost here — but PC handhelds are giving it big competition](https://www.theverge.com/2025/1/9/24339466/nintendo-switch-2-pc-gaming-handhelds-steamos)<!-- TECH:END -->
+ - [6 Eye-Friendly Vitamins and Supplements That Will Safeguard Your Vision](https://www.cnet.com/health/personal-care/6-eye-friendly-vitamins-and-supplements-that-will-safeguard-your-vision/#ftag=CAD590a51e)
+ - [Innovaccer, which aggregates medical data and plans to introduce multiple AI co-pilots and agents for the healthcare industry, raised a $275M Series F &lpar;Marina Temkin/TechCrunch&rpar;](http://www.techmeme.com/250109/p19#a250109p19)
+ - [Netflix’s Sakamoto Days turns a hitman into a small business owner in new trailer](https://www.theverge.com/2025/1/9/24339843/netflix-sakamoto-days-trailer-premiere-date)
+ - [Amazon Is Offering a Limited-Time 20% Discount on This Belkin Qi2 Magnetic Battery Pack](https://www.cnet.com/deals/amazon-is-offering-a-limited-time-20-discount-this-belkin-qi2-magnetic-battery-pack/#ftag=CAD590a51e)
+ - [Score Up to 4.65% APY While You Still Can. Today&#39;s CD Rates, Jan. 9, 2025](https://www.cnet.com/personal-finance/banking/score-up-to-apy-while-you-still-can-todays-cd-rates-jan-9-2025/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

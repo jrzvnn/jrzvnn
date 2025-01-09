@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [This COP is legend](http://9gag.com/gag/ae9QR05)
+ - 😝 [She&#39;s a trooper. Didn&#39;t even take a knee. Get that for me, would you, deary?](http://9gag.com/gag/aO8xp3v)
+ - 💣 [Lady liberty won&#39;t betray you](http://9gag.com/gag/aNDw4X3)
  - 😝 [Hi Georgie](http://9gag.com/gag/a1mPE3G)
- - 😝 [Wow how is that possible.](http://9gag.com/gag/awyZ4oy)
- - 💣 [Grapes.](http://9gag.com/gag/aVvbL6v)
- - 😝 [Instert What the hell happened here meme ..here](http://9gag.com/gag/aAy02oL)
- - 👉 [Testing your mortality with totally sick wheelies.](http://9gag.com/gag/awyZY38)<!-- MEMES:END -->
+ - 👉 [Grapes.](http://9gag.com/gag/aVvbL6v)<!-- MEMES:END -->
 
 ---
 

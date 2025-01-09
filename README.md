@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Taiwan&#39;s National Security Bureau says daily average cyberattacks on government departments doubled in 2024 vs. 2023 to 2.4M, mostly from Chinese cyber forces &lpar;Yimou Lee/Reuters&rpar;](http://www.techmeme.com/250109/p9#a250109p9)
+ - [The 31 Best Gadgets From CES 2025 You Can Buy Right Now](https://www.wired.com/story/the-gadgets-from-ces-2025-you-can-buy-right-now/)
  - [The School Shootings Were Fake. The Terror Was Real](https://www.wired.com/school-swatting-torswats-brad-dennis/)
  - [Istanbul-based gaming startup Grand Games, maker of Magic Sort and Car Match, raised a $30M Series A led by Balderton, after securing a $3M seed in 2024 &lpar;Ingrid Lunden/TechCrunch&rpar;](http://www.techmeme.com/250109/p8#a250109p8)
- - [Score Up to 4.65% APY While You Still Can. Today&#39;s CD Rates, Jan. 9, 2025](https://www.cnet.com/personal-finance/banking/score-up-to-apy-while-you-still-can-todays-cd-rates-jan-9-2025/#ftag=CAD590a51e)
- - [Apple TV+ hits &#39;Slow Horses&#39; and &#39;Shrinking&#39; nominated for acting awards](https://appleinsider.com/articles/25/01/08/apple-tv-hits-slow-horses-and-shrinking-nominated-for-acting-awards?utm_medium=rss)
- - [Google can turn your Discover feed into an AI-generated podcast](https://www.theverge.com/2025/1/9/24339765/google-labs-daily-listen-ai-generated-podcast-overviews)<!-- TECH:END -->
+ - [Score Up to 4.65% APY While You Still Can. Today&#39;s CD Rates, Jan. 9, 2025](https://www.cnet.com/personal-finance/banking/score-up-to-apy-while-you-still-can-todays-cd-rates-jan-9-2025/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

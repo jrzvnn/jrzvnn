@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Welcome to the new era of gaming](http://9gag.com/gag/aMVEzYX)
- - 😝 [Swedish friends, is that true?](http://9gag.com/gag/ae9Qmqj)
+ - 😝 [Contemplating](http://9gag.com/gag/avyQRKd)
+ - 😝 [Nvidia came close to matching my prediction 2 years ago](http://9gag.com/gag/a87qDw6)
  - 💣 [Too much mom\u2019s spaghetti.](http://9gag.com/gag/amoAmg6)
- - 😝 [Driver tries to leave scene of accident](http://9gag.com/gag/aRBEzNy)
- - 👉 [Instert What the hell happened here meme ..here](http://9gag.com/gag/aAy02oL)<!-- MEMES:END -->
+ - 😝 [Welcome to the new era of gaming](http://9gag.com/gag/aMVEzYX)
+ - 👉 [Wow how is that possible.](http://9gag.com/gag/awyZ4oy)<!-- MEMES:END -->
 
 ---
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Nvidia came close to matching my prediction 2 years ago](http://9gag.com/gag/a87qDw6)
- - 😝 [Contemplating](http://9gag.com/gag/avyQRKd)
- - 💣 [Guy in his million-dollar LA mansion would rather film the wildfire than flee](http://9gag.com/gag/a87q2De)
- - 😝 [Not same but same same](http://9gag.com/gag/axyoOqp)
- - 👉 [Welcome to the new era of gaming](http://9gag.com/gag/aMVEzYX)<!-- MEMES:END -->
+ - 😝 [2025 is gonna be my year. 7th of January:](http://9gag.com/gag/ae9QxbB)
+ - 😝 [Wow how is that possible.](http://9gag.com/gag/awyZ4oy)
+ - 💣 [Swedish friends, is that true?](http://9gag.com/gag/ae9Qmqj)
+ - 😝 [Guy in his million-dollar LA mansion would rather film the wildfire than flee](http://9gag.com/gag/a87q2De)
+ - 👉 [Driver tries to leave scene of accident](http://9gag.com/gag/aRBEzNy)<!-- MEMES:END -->
 
 ---
 

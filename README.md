@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Apple donating to LA wildfire recovery &amp; allowing affected Apple Card holders to delay payments](https://appleinsider.com/articles/25/01/09/apple-donating-to-la-wildfire-recovery-allowing-affected-apple-card-holders-to-delay-payments?utm_medium=rss)
  - [Internal data: Spotify had about 55M US subscribers as of Q3 2024, of which only around 607,000 were on the cheaper &quot;basic&quot; plan that doesn&#39;t include audiobooks &lpar;Ashley Carman/Bloomberg&rpar;](http://www.techmeme.com/250109/p31#a250109p31)
  - [Microlino’s ‘anti-pickup truck’ is designed for Americans](https://www.theverge.com/2025/1/9/24339896/microlino-spider-golf-cart-replacement-usa-fuck-yeah)
  - [Google launches a ‘neutral’ Chromium development fund](https://www.theverge.com/2025/1/9/24340196/google-neutral-chromium-development-fund)
- - [These Newly Identified Cells Could Change the Face of Plastic Surgery](https://www.wired.com/story/these-newly-identified-cells-could-change-the-face-of-plastic-surgery/)
- - [Meta Secretly Trained Its AI on a Notorious Piracy Database, Newly Unredacted Court Docs Reveal](https://www.wired.com/story/new-documents-unredacted-meta-copyright-ai-lawsuit/)<!-- TECH:END -->
+ - [These Newly Identified Cells Could Change the Face of Plastic Surgery](https://www.wired.com/story/these-newly-identified-cells-could-change-the-face-of-plastic-surgery/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

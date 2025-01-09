@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [Lady liberty won&#39;t betray you](http://9gag.com/gag/aNDw4X3)
  - 😝 [No really, where are they?](http://9gag.com/gag/an7zxWB)
- - 😝 [Reminder](http://9gag.com/gag/a6Zqn59)
- - 💣 [What are you doing step police bro](http://9gag.com/gag/arymBDB)
- - 😝 [Time for cocktails](http://9gag.com/gag/aYQVMPN)
- - 👉 [Theresa Virtue and Scott Moir. Scott: `C - can&#39;t tell` ; marries someone else.](http://9gag.com/gag/a5QXqpo)<!-- MEMES:END -->
+ - 💣 [Instert What the hell happened here meme ..here](http://9gag.com/gag/aAy02oL)
+ - 😝 [President of Mexico just released this map](http://9gag.com/gag/aZZDzez)
+ - 👉 [Wow how is that possible.](http://9gag.com/gag/awyZ4oy)<!-- MEMES:END -->
 
 ---
 

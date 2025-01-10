@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [First one](http://9gag.com/gag/aVvbV38)
- - 😝 [Back to the kitchen....](http://9gag.com/gag/ae9QRNj)
- - 💣 [Subtle but significant distinction](http://9gag.com/gag/ayN2vzy)
- - 😝 [The Malibu waterfront, one of the most expensive properties in the United States, has largely disappeared.](http://9gag.com/gag/awyZeBr)
- - 👉 [Im fat](http://9gag.com/gag/awyZd7x)<!-- MEMES:END -->
+ - 😝 [President of Mexico just released this map](http://9gag.com/gag/aZZDzez)
+ - 😝 [If you are reading this: sorry Peter, we paid her](http://9gag.com/gag/a87qwO1)
+ - 💣 [Grapes.](http://9gag.com/gag/aVvbL6v)
+ - 😝 [What part of the car that melted? The fire was so brutal!](http://9gag.com/gag/abAvEDB)
+ - 👉 [The Malibu waterfront, one of the most expensive properties in the United States, has largely disappeared.](http://9gag.com/gag/awyZeBr)<!-- MEMES:END -->
 
 ---
 

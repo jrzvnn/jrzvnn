@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [X says it is rolling out labels for parody or satire accounts to differentiate them from others and boost transparency; accounts have to apply for the labels &lpar;Ivan Mehta/TechCrunch&rpar;](http://www.techmeme.com/250110/p3#a250110p3)
+ - [Automattic plans to cut its WordPress contributions to 45 hours per week &quot;due to the lawsuits from WP Engine&quot;, focusing mostly on security and critical updates &lpar;Automattic&rpar;](http://www.techmeme.com/250110/p2#a250110p2)
+ - [Today&#39;s NYT Mini Crossword Answers for Friday, Jan. 10](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-friday-jan-10/#ftag=CAD590a51e)
  - [A hack of location data firm Gravy reveals Candy Crush, Tinder, and thousands of other apps are being used to steal user location data; apps may not even know &lpar;Joseph Cox/Wired&rpar;](http://www.techmeme.com/250110/p1#a250110p1)
- - [Today&#39;s NYT Strands Hints, Answers and Help for Jan. 10, #313](https://www.cnet.com/tech/gaming/todays-nyt-strands-hints-answers-and-help-for-jan-10-313/#ftag=CAD590a51e)
- - [Today&#39;s NYT Connections: Sports Edition Hints and Answers for Jan. 10, #109](https://www.cnet.com/tech/gaming/todays-nyt-connections-sports-edition-hints-and-answers-for-jan-10-109/#ftag=CAD590a51e)
- - [How to switch modes in macOS Sequoia&#39;s Calculator app](https://appleinsider.com/inside/macos/tips/how-to-switch-modes-in-macos-sequoias-calculator-app?utm_medium=rss)
- - [How Watch Duty Keeps Up With the California Wildfires](https://www.wired.com/story/watch-duty-california-wildfires-ceo-founder-interview/)<!-- TECH:END -->
+ - [Today&#39;s NYT Strands Hints, Answers and Help for Jan. 10, #313](https://www.cnet.com/tech/gaming/todays-nyt-strands-hints-answers-and-help-for-jan-10-313/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

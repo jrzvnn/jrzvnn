@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [President of Mexico just released this map](http://9gag.com/gag/aZZDzez)
- - 😝 [If you are reading this: sorry Peter, we paid her](http://9gag.com/gag/a87qwO1)
- - 💣 [Grapes.](http://9gag.com/gag/aVvbL6v)
+ - 😝 [Grapes.](http://9gag.com/gag/aVvbL6v)
+ - 😝 [Nice job ladies&lpar;?&rpar;!](http://9gag.com/gag/aVvbVOd)
+ - 💣 [President of Mexico just released this map](http://9gag.com/gag/aZZDzez)
  - 😝 [What part of the car that melted? The fire was so brutal!](http://9gag.com/gag/abAvEDB)
- - 👉 [The Malibu waterfront, one of the most expensive properties in the United States, has largely disappeared.](http://9gag.com/gag/awyZeBr)<!-- MEMES:END -->
+ - 👉 [Testing your mortality with totally sick wheelies.](http://9gag.com/gag/awyZY38)<!-- MEMES:END -->
 
 ---
 

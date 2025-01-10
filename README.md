@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Accurate Stormtroopers!](http://9gag.com/gag/aQzEVLw)
- - 😝 [Wifey !!!!](http://9gag.com/gag/agmoK8v)
- - 💣 [Why no imperial time units?](http://9gag.com/gag/a5QXx8L)
- - 😝 [This COP is legend](http://9gag.com/gag/ae9QR05)
- - 👉 [Simply genius](http://9gag.com/gag/aD2YPnN)<!-- MEMES:END -->
+ - 😝 [This old school clothes wringer.](http://9gag.com/gag/a2vKxKE)
+ - 😝 [Theresa Virtue and Scott Moir. Scott: `C - can&#39;t tell` ; marries someone else.](http://9gag.com/gag/a5QXqpo)
+ - 💣 [The state of LA &lpar;more images in comments&rpar;](http://9gag.com/gag/aGyE7O5)
+ - 😝 [Duolingo can be good sometimes](http://9gag.com/gag/aMVEyzG)
+ - 👉 [Thieves in Italy steal an ATM with a excavator. It can&#39;t be that much money in a single ATM to go this far?](http://9gag.com/gag/a7oqnye)<!-- MEMES:END -->
 
 ---
 

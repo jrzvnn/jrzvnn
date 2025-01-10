@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Apple opposes a shareholder measure calling for an end to DEI efforts, saying the proposal was an inappropriate attempt to restrict Apple&#39;s business operations &lpar;Mark Gurman/Bloomberg&rpar;](http://www.techmeme.com/250110/p30#a250110p30)
+ - [The best Xbox controller to buy right now](https://www.theverge.com/23025443/best-xbox-controllers-one-series-x-s)
  - [Zuckerberg says Meta&#39;s fact-checking was &quot;something out of 1984&quot; and criticized the media for hounding Facebook to clamp down on misinfo after the 2016 election &lpar;Angrej Singh/Axios&rpar;](http://www.techmeme.com/250110/p29#a250110p29)
  - [Sources: OpenAI, Google, and other companies are collectively paying hundreds of content creators for access to their unpublished videos to train AI models &lpar;Aisha Counts/Bloomberg&rpar;](http://www.techmeme.com/250110/p28#a250110p28)
- - [Zuckerberg slams Apple, saying it hasn&#39;t &quot;really invented anything great in a while&quot;, he&#39;s &quot;optimistic&quot; that Apple will &quot;get beat by someone&quot; soon, and more &lpar;Chance Miller/9to5Mac&rpar;](http://www.techmeme.com/250110/p27#a250110p27)
- - [On Joe Rogan&#39;s podcast, Zuckerberg said the Biden administration pushed Meta &quot;super hard&quot; to take down vaccine content, called EU fines a tariff on the US, more &lpar;Jordan Novet/CNBC&rpar;](http://www.techmeme.com/250110/p26#a250110p26)
- - [The &#39;Wow&#39; Moment That Blew Me Away at CES 2025: Big Tech Should Pay Attention](https://www.cnet.com/tech/the-wow-moment-that-blew-me-away-at-ces-2025-big-tech-should-pay-attention/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Zuckerberg slams Apple, saying it hasn&#39;t &quot;really invented anything great in a while&quot;, he&#39;s &quot;optimistic&quot; that Apple will &quot;get beat by someone&quot; soon, and more &lpar;Chance Miller/9to5Mac&rpar;](http://www.techmeme.com/250110/p27#a250110p27)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

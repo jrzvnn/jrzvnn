@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple donating to LA wildfire recovery &amp; allowing affected Apple Card holders to delay payments](https://appleinsider.com/articles/25/01/09/apple-donating-to-la-wildfire-recovery-allowing-affected-apple-card-holders-to-delay-payments?utm_medium=rss)
- - [Internal data: Spotify had about 55M US subscribers as of Q3 2024, of which only around 607,000 were on the cheaper &quot;basic&quot; plan that doesn&#39;t include audiobooks &lpar;Ashley Carman/Bloomberg&rpar;](http://www.techmeme.com/250109/p31#a250109p31)
- - [Microlino’s ‘anti-pickup truck’ is designed for Americans](https://www.theverge.com/2025/1/9/24339896/microlino-spider-golf-cart-replacement-usa-fuck-yeah)
- - [Google launches a ‘neutral’ Chromium development fund](https://www.theverge.com/2025/1/9/24340196/google-neutral-chromium-development-fund)
- - [These Newly Identified Cells Could Change the Face of Plastic Surgery](https://www.wired.com/story/these-newly-identified-cells-could-change-the-face-of-plastic-surgery/)<!-- TECH:END -->
+ - [The Tide Could Finally Be Turning Against the LA Fires](https://www.wired.com/story/the-tide-could-finally-be-turning-against-the-la-fires/)
+ - [Court docs: Mark Zuckerberg gave the Meta team training Llama AI models approval to use data from LibGen, which offers access to pirated, copyrighted material &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/250109/p32#a250109p32)
+ - [This wildfire evacuation alert accidentally went out to everyone in LA](https://www.theverge.com/2025/1/9/24340289/los-angeles-wildfire-wireless-emergency-alert-mistake)
+ - [Marvel Rivals Season 1: Start Time, New Content and Everything We Know](https://www.cnet.com/tech/gaming/marvel-rivals-season-1-start-time-new-content-and-everything-we-know/#ftag=CAD590a51e)
+ - [Apple’s weird iPhone alarm problems are still happening](https://www.theverge.com/2025/1/9/24340238/apple-iphone-alarm-broken-timing-failed)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Satisfying](http://9gag.com/gag/aqyeD2P)
- - 😝 [`Overly attached girlfriend` 2024.](http://9gag.com/gag/agmoKMx)
- - 💣 [Simon had the best f**king time of his life](http://9gag.com/gag/aZZDvD3)
- - 😝 [Theresa Virtue and Scott Moir. Scott: `C - can&#39;t tell` ; marries someone else.](http://9gag.com/gag/a5QXqpo)
- - 👉 [The state of LA &lpar;more images in comments&rpar;](http://9gag.com/gag/aGyE7O5)<!-- MEMES:END -->
+ - 😝 [I made a garden for my mom to help the bees about 4 years ago. I still go to her house on my lunch break from work, this bee seems to either remember me or knows I&#39;m it&#39;s friend. I know it won&#39;t get upvotes but I&#39;m proud](http://9gag.com/gag/azx2Y1j)
+ - 😝 [Simon had the best f**king time of his life](http://9gag.com/gag/aZZDvD3)
+ - 💣 [She&#39;s a trooper. Didn&#39;t even take a knee. Get that for me, would you, deary?](http://9gag.com/gag/aO8xp3v)
+ - 😝 [Since times are bad in LA, i think it is our duty, as peasants, to get all together and sing `Imagine` in support of all celebrities&#39;](http://9gag.com/gag/a9yqDOj)
+ - 👉 [90&#39;s Oldschool Hiphop meets Latino](http://9gag.com/gag/a4PoxA6)<!-- MEMES:END -->
 
 ---
 

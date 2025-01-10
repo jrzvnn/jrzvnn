@@ -157,7 +157,7 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The Linux Foundation launches an initiative to fund the development of projects in the Chromium ecosystem, with support from Google, Meta, Microsoft, and Opera &lpar;Kevin Purdy/Ars Technica&rpar;](http://www.techmeme.com/250109/p33#a250109p33)
+ - [The Linux Foundation launches an initiative to fund developing Chromium projects in a &quot;neutral space&quot;, with support from Google, Meta, Microsoft, and Opera &lpar;Kevin Purdy/Ars Technica&rpar;](http://www.techmeme.com/250109/p33#a250109p33)
  - [Today&#39;s NYT Connections Hints, Answers and Help for Jan. 10, #579](https://www.cnet.com/tech/gaming/todays-nyt-connections-hints-answers-and-help-for-jan-10-579/#ftag=CAD590a51e)
  - [I&#39;m a Student Loan Expert. Borrowers Should Do These 6 Things Before the White House Transition](https://www.cnet.com/personal-finance/loans/im-a-student-loan-expert-borrowers-should-do-these-6-things-before-the-white-house-transition/#ftag=CAD590a51e)
  - [The Tide Could Finally Be Turning Against the LA Fires](https://www.wired.com/story/the-tide-could-finally-be-turning-against-the-la-fires/)

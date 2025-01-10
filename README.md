@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Tesla’s redesigned Model Y is here — but not in the US or Europe](https://www.theverge.com/2025/1/10/24340502/tesla-model-y-2025-ev-redesign-specs-price-availability)
- - [30-Year Fixed Refinance Ticks Higher: Today&#39;s Refinance Rates for Jan. 10, 2025](https://www.cnet.com/personal-finance/30-year-fixed-refinance-ticks-higher-todays-refinance-rates-for-jan-10-2025/#ftag=CAD590a51e)
- - [A look at LexisNexis Risk Solutions, RELX&#39;s largest division, which accounts for ~35% of RELX&#39;s revenue and holds 9B device records and 3B digital identities &lpar;John Gapper/Financial Times&rpar;](http://www.techmeme.com/250110/p7#a250110p7)
- - [Mortgage Rates Increase for Prospective Buyers: Today&#39;s Mortgage Rates on Jan. 10, 2025](https://www.cnet.com/personal-finance/mortgage-rates-increase-for-prospective-buyers-todays-mortgage-rates-on-jan-10-2025/#ftag=CAD590a51e)
- - [Apple Intelligence Is Now Eating More iPhone Storage. Here&#39;s How to Turn It Off](https://www.cnet.com/tech/services-and-software/apple-intelligence-is-now-eating-more-iphone-storage-heres-how-to-turn-it-off/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [A look at Meta&#39;s convoluted or contradictory guidelines for those working on its user content, allowing derogatory remarks about races, nationalities, and more &lpar;Sam Biddle/The Intercept&rpar;](http://www.techmeme.com/250110/p8#a250110p8)
+ - [The smart glasses era is here — I got a first look](https://www.theverge.com/2025/1/10/24340208/ces-2025-smart-glasses-rokid-halliday-xreal-vuzix-nuance-audio)
+ - [How Wildfire Smoke Affects Your Health—And How to Protect Yourself](https://www.wired.com/story/how-wildfire-smoke-affects-your-health-and-how-to-protect-yourself/)
+ - [Can Your Car Be Your Friend?](https://www.wired.com/story/can-your-car-be-your-friend/)
+ - [Panasonic came back for TV glory at CES 2025](https://www.theverge.com/2025/1/10/24339135/panasonic-z95b-oled-tv-hands-on-ces-2025)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

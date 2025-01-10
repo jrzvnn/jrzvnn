@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Overhaul, which uses AI to anticipate freight shipping delays to fight cargo theft for customers like Microsoft, raised $55M, bringing total funding to ~$150M &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/250110/p19#a250110p19)
+ - [Meta disbands diversity team and says DEI has become ‘charged’](https://www.theverge.com/2025/1/10/24340846/meta-disbands-diversity-dei-team-charged)
  - [Thinner, smarter, more connected: What to expect from the Apple TV](https://appleinsider.com/articles/25/01/10/thinner-smarter-more-connected-what-to-expect-from-the-apple-tv?utm_medium=rss)
  - [Apple teases opening of new downtown Miami store](https://appleinsider.com/articles/25/01/10/apple-teases-opening-of-new-downtown-miami-store?utm_medium=rss)
- - [Automattic cuts WordPress contribution hours, blames WP Engine](https://www.theverge.com/2025/1/10/24340717/automattic-wordpress-contribution-hours-cut-wp-engine)
- - [How Elon Musk’s xAI is quietly taking over X](https://www.theverge.com/2025/1/10/24339249/elon-musk-xai-x-twitter)
- - [SCOTUS signals it is likely to uphold the TikTok divest-or-ban law, as a majority of justices suggested they see national security overriding free speech issues &lpar;Greg Stohr/Bloomberg&rpar;](http://www.techmeme.com/250110/p18#a250110p18)<!-- TECH:END -->
+ - [Automattic cuts WordPress contribution hours, blames WP Engine](https://www.theverge.com/2025/1/10/24340717/automattic-wordpress-contribution-hours-cut-wp-engine)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -167,10 +167,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [No words but clearly understood](http://9gag.com/gag/ae9Qd4B)
- - 😝 [What part of the car that melted? The fire was so brutal!](http://9gag.com/gag/abAvEDB)
- - 💣 [She&#39;s a trooper. Didn&#39;t even take a knee. Get that for me, would you, deary?](http://9gag.com/gag/aO8xp3v)
- - 😝 [Wow how is that possible.](http://9gag.com/gag/awyZ4oy)
- - 👉 [Wifey !!!!](http://9gag.com/gag/agmoK8v)<!-- MEMES:END -->
+ - 😝 [Not my job](http://9gag.com/gag/aAy0ZrZ)
+ - 💣 [Wow how is that possible.](http://9gag.com/gag/awyZ4oy)
+ - 😝 [I got something for this](http://9gag.com/gag/aD2YQWN)
+ - 👉 [Thieves in Italy steal an ATM with a excavator. It can&#39;t be that much money in a single ATM to go this far?](http://9gag.com/gag/a7oqnye)<!-- MEMES:END -->
 
 ---
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Zuckerberg slams Apple, saying it hasn&#39;t &quot;really invented anything great in a while&quot;, he&#39;s &quot;optimistic&quot; that Apple will &quot;get beat by someone&quot; soon, and more &lpar;Chance Miller/9to5Mac&rpar;](http://www.techmeme.com/250110/p27#a250110p27)
+ - [On Joe Rogan&#39;s podcast, Zuckerberg said the Biden administration pushed Meta &quot;super hard&quot; to take down vaccine content, called EU fines a tariff on the US, more &lpar;Jordan Novet/CNBC&rpar;](http://www.techmeme.com/250110/p26#a250110p26)
  - [Memo: Amazon halts some of its DEI programs, saying it is &quot;winding down outdated programs and materials&quot; as part of a broader review of hundreds of initiatives &lpar;Annie Palmer/CNBC&rpar;](http://www.techmeme.com/250110/p25#a250110p25)
  - [Twenty years of the Mac mini, the little Mac that could](https://appleinsider.com/articles/25/01/10/twenty-years-of-the-mac-mini-the-little-mac-that-could?utm_medium=rss)
- - [The Evolving &lpar;and Inexact&rpar; Science of Fleeing a Wildfire](https://www.wired.com/story/the-growing-and-inexact-science-of-fleeing-a-wildfire/)
- - [Synchrony Pay Later coming soon to Apple Pay](https://appleinsider.com/articles/25/01/10/synchrony-pay-later-is-now-available-via-apple-pay?utm_medium=rss)
- - [Apple&#39;s Chinese New Year &#39;Shot on iPhone&#39; film is a 90&#39;s mixtape feverdream](https://appleinsider.com/articles/25/01/10/apples-chinese-new-year-shot-on-iphone-film-is-a-90s-mixtape-feverdream?utm_medium=rss)<!-- TECH:END -->
+ - [The Evolving &lpar;and Inexact&rpar; Science of Fleeing a Wildfire](https://www.wired.com/story/the-growing-and-inexact-science-of-fleeing-a-wildfire/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

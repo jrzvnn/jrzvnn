@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [She&#39;s a trooper. Didn&#39;t even take a knee. Get that for me, would you, deary?](http://9gag.com/gag/aO8xp3v)
- - 😝 [The Malibu waterfront, one of the most expensive properties in the United States, has largely disappeared.](http://9gag.com/gag/awyZeBr)
- - 💣 [`Overly attached girlfriend` 2024.](http://9gag.com/gag/agmoKMx)
- - 😝 [Nice job ladies&lpar;?&rpar;!](http://9gag.com/gag/aVvbVOd)
- - 👉 [Typical UK nowadays , some far right woman stops typical uk citizen from bringing home a girl.](http://9gag.com/gag/abAvRyB)<!-- MEMES:END -->
+ - 😝 [Cap? Any update on LA fires if these two are still around?](http://9gag.com/gag/aO8xGD2)
+ - 😝 [Blackrock be like: JACKPOT!](http://9gag.com/gag/a7oqAYL)
+ - 💣 [Cops is like aight keep moving](http://9gag.com/gag/aYQVmYw)
+ - 😝 [Wow how is that possible.](http://9gag.com/gag/awyZ4oy)
+ - 👉 [The state of LA &lpar;more images in comments&rpar;](http://9gag.com/gag/aGyE7O5)<!-- MEMES:END -->
 
 ---
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Cap? Any update on LA fires if these two are still around?](http://9gag.com/gag/aO8xGD2)
- - 😝 [Instert What the hell happened here meme ..here](http://9gag.com/gag/aAy02oL)
- - 💣 [Wow how is that possible.](http://9gag.com/gag/awyZ4oy)
+ - 😝 [Satisfying](http://9gag.com/gag/aqyeD2P)
  - 😝 [`Overly attached girlfriend` 2024.](http://9gag.com/gag/agmoKMx)
- - 👉 [Cops is like aight keep moving](http://9gag.com/gag/aYQVmYw)<!-- MEMES:END -->
+ - 💣 [Simon had the best f**king time of his life](http://9gag.com/gag/aZZDvD3)
+ - 😝 [Theresa Virtue and Scott Moir. Scott: `C - can&#39;t tell` ; marries someone else.](http://9gag.com/gag/a5QXqpo)
+ - 👉 [The state of LA &lpar;more images in comments&rpar;](http://9gag.com/gag/aGyE7O5)<!-- MEMES:END -->
 
 ---
 

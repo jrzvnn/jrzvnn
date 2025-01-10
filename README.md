@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [President of Mexico just released this map](http://9gag.com/gag/aZZDzez)
- - 😝 [Grapes.](http://9gag.com/gag/aVvbL6v)
- - 💣 [Satisfying](http://9gag.com/gag/aqyeD2P)
- - 😝 [`Overly attached girlfriend` 2024.](http://9gag.com/gag/agmoKMx)
- - 👉 [First one](http://9gag.com/gag/aVvbV38)<!-- MEMES:END -->
+ - 😝 [Who did it better?](http://9gag.com/gag/adBPb2Z)
+ - 😝 [Testing your mortality with totally sick wheelies.](http://9gag.com/gag/awyZY38)
+ - 💣 [She&#39;s a trooper. Didn&#39;t even take a knee. Get that for me, would you, deary?](http://9gag.com/gag/aO8xp3v)
+ - 😝 [Normal?](http://9gag.com/gag/an7zEv0)
+ - 👉 [Grapes.](http://9gag.com/gag/aVvbL6v)<!-- MEMES:END -->
 
 ---
 

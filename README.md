@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Secret Phone Surveillance Tech Was Likely Deployed at 2024 DNC](https://www.wired.com/story/2024-dnc-cell-site-simulator-phone-surveillance/)
- - [Live blog: The US Supreme Court hears oral arguments in TikTok&#39;s appeal against the divest-or-ban law &lpar;Wired&rpar;](http://www.techmeme.com/250110/p14#a250110p14)
- - [Sources: Venu&#39;s cancellation came after the companies decided it was better to avoid the risk of an extended lawsuit that could jeopardize bundling in general &lpar;CNBC&rpar;](http://www.techmeme.com/250110/p13#a250110p13)
- - [LA fires affect Apple TV+ with production delays, event cancellations](https://appleinsider.com/articles/25/01/10/la-fires-affect-apple-tv-with-production-delays-event-cancellations?utm_medium=rss)
- - [PowerSchool data breach leaks info of students and staff at schools across the US](https://www.theverge.com/2025/1/10/24340556/powerschool-sis-data-breach-leak-student-data-us-canada-schools)<!-- TECH:END -->
+ - [CES, Siri, and Apple&#39;s peculiar overseas problems, on the AppleInsider Podcast](https://appleinsider.com/articles/25/01/10/ces-siri-and-apples-peculiar-overseas-problems-on-the-appleinsider-podcast?utm_medium=rss)
+ - [How AT&amp;T, Verizon, and T-Mobile are responding to the LA wildfires](https://www.theverge.com/2025/1/10/24340543/la-wildfires-verizon-tmobile-att)
+ - [El Capitan, the world&#39;s most powerful supercomputer, built by HPE and AMD as part of a $600M US DOE contract, is officially dedicated to handle classified tasks &lpar;Axios&rpar;](http://www.techmeme.com/250110/p15#a250110p15)
+ - [Yeedi Cube robot vacuum and mop drops to an all-time low of $300](https://www.theverge.com/2025/1/10/24340549/yeedi-cube-robot-mopping-vacuum-amazon-fire-tv-soundbar-plus-deal-sale)
+ - [Best Earplugs to Prevent Hearing Loss for 2025](https://www.cnet.com/health/medical/best-earplugs-to-prevent-hearing-loss/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

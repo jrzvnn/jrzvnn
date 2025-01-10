@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Grapes.](http://9gag.com/gag/aVvbL6v)
- - 😝 [`Overly attached girlfriend` 2024.](http://9gag.com/gag/agmoKMx)
- - 💣 [Testing your mortality with totally sick wheelies.](http://9gag.com/gag/awyZY38)
+ - 😝 [Ask 9gag](http://9gag.com/gag/aRBEo82)
  - 😝 [The state of LA &lpar;more images in comments&rpar;](http://9gag.com/gag/aGyE7O5)
- - 👉 [Big brain time](http://9gag.com/gag/avyQmQn)<!-- MEMES:END -->
+ - 💣 [Instert What the hell happened here meme ..here](http://9gag.com/gag/aAy02oL)
+ - 😝 [In Simon we trust](http://9gag.com/gag/a2vKD3Y)
+ - 👉 [`Overly attached girlfriend` 2024.](http://9gag.com/gag/agmoKMx)<!-- MEMES:END -->
 
 ---
 

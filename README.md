@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Secret Phone Surveillance Tech Was Likely Deployed at 2024 DNC](https://www.wired.com/story/2024-dnc-cell-site-simulator-phone-surveillance/)
  - [Live blog: The US Supreme Court hears oral arguments in TikTok&#39;s appeal against the divest-or-ban law &lpar;Wired&rpar;](http://www.techmeme.com/250110/p14#a250110p14)
  - [Sources: Venu&#39;s cancellation came after the companies decided it was better to avoid the risk of an extended lawsuit that could jeopardize bundling in general &lpar;CNBC&rpar;](http://www.techmeme.com/250110/p13#a250110p13)
  - [LA fires affect Apple TV+ with production delays, event cancellations](https://appleinsider.com/articles/25/01/10/la-fires-affect-apple-tv-with-production-delays-event-cancellations?utm_medium=rss)
- - [PowerSchool data breach leaks info of students and staff at schools across the US](https://www.theverge.com/2025/1/10/24340556/powerschool-sis-data-breach-leak-student-data-us-canada-schools)
- - [Sources: Chinese hackers breached CFIUS, the US government office that reviews foreign investments for national security risks &lpar;Sean Lyngaas/CNN&rpar;](http://www.techmeme.com/250110/p12#a250110p12)<!-- TECH:END -->
+ - [PowerSchool data breach leaks info of students and staff at schools across the US](https://www.theverge.com/2025/1/10/24340556/powerschool-sis-data-breach-leak-student-data-us-canada-schools)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

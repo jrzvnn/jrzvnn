@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [The Red Roar](http://9gag.com/gag/aoyKDXm)
- - 😝 [Nice job ladies&lpar;?&rpar;!](http://9gag.com/gag/aVvbVOd)
- - 💣 [If you are reading this: sorry Peter, we paid her](http://9gag.com/gag/a87qwO1)
- - 😝 [Cap? Any update on LA fires if these two are still around?](http://9gag.com/gag/aO8xGD2)
- - 👉 [Do not use a pistol for home defense. Use a shotgun.](http://9gag.com/gag/aPAgdGP)<!-- MEMES:END -->
+ - 😝 [Japan town in Vietnam. Reliever of all stress!](http://9gag.com/gag/aLn1brM)
+ - 😝 [Subtle but significant distinction](http://9gag.com/gag/ayN2vzy)
+ - 💣 [He simply makes the best advertising!](http://9gag.com/gag/an7zVx0)
+ - 😝 [If only](http://9gag.com/gag/aXPnd6V)
+ - 👉 [Why yes, I&#39;m a fan of classic Italian cinema](http://9gag.com/gag/ajPVdDx)<!-- MEMES:END -->
 
 ---
 

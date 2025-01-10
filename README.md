@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [TSMC reports December revenue up 57.8% YoY to $8.4B, pushing the 2024 revenue to ~$88.02B, up 34% YoY, driven by AI chips demand from Nvidia and Broadcom &lpar;Nikkei Asia&rpar;](http://www.techmeme.com/250110/p4#a250110p4)
  - [X says it is rolling out labels for parody or satire accounts to differentiate them from others and boost transparency; accounts have to apply for the labels &lpar;Ivan Mehta/TechCrunch&rpar;](http://www.techmeme.com/250110/p3#a250110p3)
+ - [T-Mobile and SpaceX Turn On Satellite Texting for Los Angeles Fires](https://www.cnet.com/tech/mobile/t-mobile-and-spacex-turn-on-satellite-texting-for-los-angeles-fires/#ftag=CAD590a51e)
  - [Automattic plans to cut its WordPress contributions to 45 hours per week &quot;due to the lawsuits from WP Engine&quot;, focusing mostly on security and critical updates &lpar;Automattic&rpar;](http://www.techmeme.com/250110/p2#a250110p2)
- - [Today&#39;s NYT Mini Crossword Answers for Friday, Jan. 10](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-friday-jan-10/#ftag=CAD590a51e)
- - [A hack of location data firm Gravy reveals Candy Crush, Tinder, and thousands of other apps are being used to steal user location data; apps may not even know &lpar;Joseph Cox/Wired&rpar;](http://www.techmeme.com/250110/p1#a250110p1)
- - [Today&#39;s NYT Strands Hints, Answers and Help for Jan. 10, #313](https://www.cnet.com/tech/gaming/todays-nyt-strands-hints-answers-and-help-for-jan-10-313/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Today&#39;s NYT Mini Crossword Answers for Friday, Jan. 10](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-friday-jan-10/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

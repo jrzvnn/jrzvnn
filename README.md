@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [No words but clearly understood](http://9gag.com/gag/ae9Qd4B)
- - 😝 [Not my job](http://9gag.com/gag/aAy0ZrZ)
- - 💣 [Wow how is that possible.](http://9gag.com/gag/awyZ4oy)
- - 😝 [I got something for this](http://9gag.com/gag/aD2YQWN)
- - 👉 [Thieves in Italy steal an ATM with a excavator. It can&#39;t be that much money in a single ATM to go this far?](http://9gag.com/gag/a7oqnye)<!-- MEMES:END -->
+ - 😝 [What part of the car that melted? The fire was so brutal!](http://9gag.com/gag/abAvEDB)
+ - 😝 [He simply makes the best advertising!](http://9gag.com/gag/an7zVx0)
+ - 💣 [Who is going to pay for the damages!](http://9gag.com/gag/avyQDyd)
+ - 😝 [Maddest car chase I\u2019ve seen. Dude in the car literally trying to kill him.](http://9gag.com/gag/aYQVdOV)
+ - 👉 [This old school clothes wringer.](http://9gag.com/gag/a2vKxKE)<!-- MEMES:END -->
 
 ---
 

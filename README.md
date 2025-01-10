@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Wifey !!!!](http://9gag.com/gag/agmoK8v)
- - 😝 [Now wat](http://9gag.com/gag/aByd4pO)
- - 💣 [No words but clearly understood](http://9gag.com/gag/ae9Qd4B)
- - 😝 [This old school clothes wringer.](http://9gag.com/gag/a2vKxKE)
- - 👉 [If you are reading this: sorry Peter, we paid her](http://9gag.com/gag/a87qwO1)<!-- MEMES:END -->
+ - 😝 [The Red Roar](http://9gag.com/gag/aoyKDXm)
+ - 😝 [Nice job ladies&lpar;?&rpar;!](http://9gag.com/gag/aVvbVOd)
+ - 💣 [If you are reading this: sorry Peter, we paid her](http://9gag.com/gag/a87qwO1)
+ - 😝 [Cap? Any update on LA fires if these two are still around?](http://9gag.com/gag/aO8xGD2)
+ - 👉 [Do not use a pistol for home defense. Use a shotgun.](http://9gag.com/gag/aPAgdGP)<!-- MEMES:END -->
 
 ---
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Thieves in Italy steal an ATM with a excavator. It can&#39;t be that much money in a single ATM to go this far?](http://9gag.com/gag/a7oqnye)
+ - 😝 [Wifey !!!!](http://9gag.com/gag/agmoK8v)
+ - 😝 [Now wat](http://9gag.com/gag/aByd4pO)
+ - 💣 [No words but clearly understood](http://9gag.com/gag/ae9Qd4B)
  - 😝 [This old school clothes wringer.](http://9gag.com/gag/a2vKxKE)
- - 💣 [Why yes, I&#39;m a fan of classic Italian cinema](http://9gag.com/gag/ajPVdDx)
- - 😝 [Maddest car chase I\u2019ve seen. Dude in the car literally trying to kill him.](http://9gag.com/gag/aYQVdOV)
- - 👉 [The Malibu waterfront, one of the most expensive properties in the United States, has largely disappeared.](http://9gag.com/gag/awyZeBr)<!-- MEMES:END -->
+ - 👉 [If you are reading this: sorry Peter, we paid her](http://9gag.com/gag/a87qwO1)<!-- MEMES:END -->
 
 ---
 

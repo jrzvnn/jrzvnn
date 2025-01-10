@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The CFPB proposes new rules to give consumers the same rights when using virtual currencies used in Roblox and some other video games as when they use USD &lpar;Makena Kelly/Wired&rpar;](http://www.techmeme.com/250110/p11#a250110p11)
+ - [The Vergecast at CES 2025: the biggest stories and best gadgets](https://www.theverge.com/2025/1/10/24340568/ces-2025-vergecast-gadgets-tvs-ai)
  - [9 Best Mobile Game Controllers &lpar;2025&rpar;: iPhone or Android](https://www.wired.com/gallery/best-mobile-game-controllers-for-iphone-android/)
  - [The Government Wants to Protect Robux From Hackers](https://www.wired.com/story/the-government-wants-to-protect-robux-from-hackers-cfpb/)
- - [Disney, Fox, and WBD say they have collectively agreed to discontinue their Venu Sports streaming venture, and will focus on existing products &lpar;Alex Weprin/The Hollywood Reporter&rpar;](http://www.techmeme.com/250110/p10#a250110p10)
- - [Twenty years of the Mac mini, the little Mac that could](https://appleinsider.com/articles/25/01/10/twenty-years-of-the-mac-mini-the-little-mac-that-could?utm_medium=rss)
- - [Drone takes out Super Scooper fighting Los Angeles wildfires](https://www.theverge.com/2025/1/10/24340524/drone-collision-grounds-super-scooper-aircraft-la-wildfires)<!-- TECH:END -->
+ - [Disney, Fox, and WBD say they have collectively agreed to discontinue their Venu Sports streaming venture, and will focus on existing products &lpar;Alex Weprin/The Hollywood Reporter&rpar;](http://www.techmeme.com/250110/p10#a250110p10)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

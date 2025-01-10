@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Typical UK nowadays , some far right woman stops typical uk citizen from bringing home a girl.](http://9gag.com/gag/abAvRyB)
- - 😝 [Subtle but significant distinction](http://9gag.com/gag/ayN2vzy)
- - 💣 [He simply makes the best advertising!](http://9gag.com/gag/an7zVx0)
- - 😝 [Thieves in Italy steal an ATM with a excavator. It can&#39;t be that much money in a single ATM to go this far?](http://9gag.com/gag/a7oqnye)
- - 👉 [First one](http://9gag.com/gag/aVvbV38)<!-- MEMES:END -->
+ - 😝 [Cap? Any update on LA fires if these two are still around?](http://9gag.com/gag/aO8xGD2)
+ - 😝 [First one](http://9gag.com/gag/aVvbV38)
+ - 💣 [Not my job](http://9gag.com/gag/aAy0ZrZ)
+ - 😝 [Cops is like aight keep moving](http://9gag.com/gag/aYQVmYw)
+ - 👉 [He simply makes the best advertising!](http://9gag.com/gag/an7zVx0)<!-- MEMES:END -->
 
 ---
 

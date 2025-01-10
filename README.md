@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Slim iPhone 17 could be even thinner than expected](https://appleinsider.com/articles/25/01/10/slim-iphone-17-could-be-even-thinner-than-expected?utm_medium=rss)
+ - [Even Trump Can’t Stop America’s Green Transition, Says Biden’s Top Climate Adviser](https://www.wired.com/story/even-trump-cant-stop-americas-green-transition-says-bidens-top-climate-advisor/)
  - [Tesla recalls 200,000 vehicles with faulty on-board computers](https://www.theverge.com/2025/1/10/24340689/tesla-rearview-camera-recall-self-driving-computer-short-circuit)
  - [This versatile MagSafe smartphone light can also charge your phone in a pinch](https://www.theverge.com/2025/1/10/24340649/godox-ma52-rgb-magnetic-smartphone-led-light-selfie)
- - [The US DOJ indicts three Russian citizens for allegedly operating Bender.io and Sinbad.io crypto mixing services used by North Korea and ransomware gangs &lpar;Lorenzo Franceschi-Bicchierai/TechCrunch&rpar;](http://www.techmeme.com/250110/p16#a250110p16)
- - [Joe Biden’s national climate adviser sees AI as a ‘massive opportunity’](https://www.theverge.com/2025/1/10/24339455/national-climate-adviser-ali-zaidi-interview-biden-trump-energy-transition)
- - [Advertisers are hijacking apps to beat Apple and developers&#39; privacy efforts](https://appleinsider.com/articles/25/01/10/advertisers-are-hijacking-apps-to-beat-apple-and-developers-privacy-efforts?utm_medium=rss)<!-- TECH:END -->
+ - [The US DOJ indicts three Russian citizens for allegedly operating Bender.io and Sinbad.io crypto mixing services used by North Korea and ransomware gangs &lpar;Lorenzo Franceschi-Bicchierai/TechCrunch&rpar;](http://www.techmeme.com/250110/p16#a250110p16)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

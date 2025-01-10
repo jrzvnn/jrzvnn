@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Twenty years of the Mac mini, the little Mac that could](https://appleinsider.com/articles/25/01/10/twenty-years-of-the-mac-mini-the-little-mac-that-could?utm_medium=rss)
  - [Drone takes out Super Scooper fighting Los Angeles wildfires](https://www.theverge.com/2025/1/10/24340524/drone-collision-grounds-super-scooper-aircraft-la-wildfires)
  - [Venu Sports shuts down before it ever launches](https://www.theverge.com/2025/1/10/24340552/venu-sports-streaming-service-shuts-down-espn-fox-warner-bros-discovery)
- - [TikTok SCOTUS Live Blog: The Court Hears Arguments Over Law That Would Ban the App](https://www.wired.com/live/tiktok-scotus-live-coverage/)
- - [The coolest laptops of CES 2025](https://www.theverge.com/2025/1/10/24340121/ces-2025-laptops-best-lenovo-asus-msi-razer-alienware)
- - [WhatsApp really hopes you want to talk with AI bots](https://www.theverge.com/2025/1/10/24340539/whatsapp-beta-ai-chatbot-tab)<!-- TECH:END -->
+ - [TikTok SCOTUS Live Blog: The Court Hears Arguments Over Potential Ban](https://www.wired.com/live/tiktok-scotus-live-coverage/)
+ - [The coolest laptops of CES 2025](https://www.theverge.com/2025/1/10/24340121/ces-2025-laptops-best-lenovo-asus-msi-razer-alienware)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

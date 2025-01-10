@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [The state of LA &lpar;more images in comments&rpar;](http://9gag.com/gag/aGyE7O5)
- - 😝 [Theresa Virtue and Scott Moir. Scott: `C - can&#39;t tell` ; marries someone else.](http://9gag.com/gag/a5QXqpo)
- - 💣 [Nice job ladies&lpar;?&rpar;!](http://9gag.com/gag/aVvbVOd)
- - 😝 [Ask 9gag](http://9gag.com/gag/aRBEo82)
- - 👉 [Simon had the best f**king time of his life](http://9gag.com/gag/aZZDvD3)<!-- MEMES:END -->
+ - 😝 [This COP is legend](http://9gag.com/gag/ae9QR05)
+ - 😝 [Testing your mortality with totally sick wheelies.](http://9gag.com/gag/awyZY38)
+ - 💣 [Simon had the best f**king time of his life](http://9gag.com/gag/aZZDvD3)
+ - 😝 [First one](http://9gag.com/gag/aVvbV38)
+ - 👉 [Nice job ladies&lpar;?&rpar;!](http://9gag.com/gag/aVvbVOd)<!-- MEMES:END -->
 
 ---
 

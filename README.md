@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [WTF UK](http://9gag.com/gag/a5QXDZy)
- - 😝 [Big brain time](http://9gag.com/gag/avyQmQn)
- - 💣 [Simon had the best f**king time of his life](http://9gag.com/gag/aZZDvD3)
- - 😝 [I made a garden for my mom to help the bees about 4 years ago. I still go to her house on my lunch break from work, this bee seems to either remember me or knows I&#39;m it&#39;s friend. I know it won&#39;t get upvotes but I&#39;m proud](http://9gag.com/gag/azx2Y1j)
- - 👉 [Why yes, I&#39;m a fan of classic Italian cinema](http://9gag.com/gag/ajPVdDx)<!-- MEMES:END -->
+ - 😝 [Typical UK nowadays , some far right woman stops typical uk citizen from bringing home a girl.](http://9gag.com/gag/abAvRyB)
+ - 😝 [Subtle but significant distinction](http://9gag.com/gag/ayN2vzy)
+ - 💣 [He simply makes the best advertising!](http://9gag.com/gag/an7zVx0)
+ - 😝 [Thieves in Italy steal an ATM with a excavator. It can&#39;t be that much money in a single ATM to go this far?](http://9gag.com/gag/a7oqnye)
+ - 👉 [First one](http://9gag.com/gag/aVvbV38)<!-- MEMES:END -->
 
 ---
 

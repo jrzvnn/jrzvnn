@@ -167,8 +167,8 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [Typical UK nowadays , some far right woman stops typical uk citizen from bringing home a girl.](http://9gag.com/gag/abAvRyB)
- - 😝 [Big brain time](http://9gag.com/gag/avyQmQn)
- - 💣 [The moment he draws the ass... oh my God, dat ass.](http://9gag.com/gag/aAy0v82)
+ - 😝 [The moment he draws the ass... oh my God, dat ass.](http://9gag.com/gag/aAy0v82)
+ - 💣 [Big brain time](http://9gag.com/gag/avyQmQn)
  - 😝 [WTF UK](http://9gag.com/gag/a5QXDZy)
  - 👉 [Simon had the best f**king time of his life](http://9gag.com/gag/aZZDvD3)<!-- MEMES:END -->
 

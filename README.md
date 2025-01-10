@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [This COP is legend](http://9gag.com/gag/ae9QR05)
- - 😝 [Testing your mortality with totally sick wheelies.](http://9gag.com/gag/awyZY38)
- - 💣 [Simon had the best f**king time of his life](http://9gag.com/gag/aZZDvD3)
  - 😝 [First one](http://9gag.com/gag/aVvbV38)
- - 👉 [Nice job ladies&lpar;?&rpar;!](http://9gag.com/gag/aVvbVOd)<!-- MEMES:END -->
+ - 😝 [Back to the kitchen....](http://9gag.com/gag/ae9QRNj)
+ - 💣 [Subtle but significant distinction](http://9gag.com/gag/ayN2vzy)
+ - 😝 [The Malibu waterfront, one of the most expensive properties in the United States, has largely disappeared.](http://9gag.com/gag/awyZeBr)
+ - 👉 [Im fat](http://9gag.com/gag/awyZd7x)<!-- MEMES:END -->
 
 ---
 

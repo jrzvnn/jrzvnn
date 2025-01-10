@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Verizon Promo Codes and Deals | Up to $830 Off](https://www.wired.com/story/verizon-promo-code/)
  - [India is promoting RuPay, its homegrown card network, to challenge Visa and Mastercard, leveraging UPI, which now handles 13B+ real-time transactions monthly &lpar;Manish Singh/TechCrunch&rpar;](http://www.techmeme.com/250110/p5#a250110p5)
  - [TSMC reports December revenue up 57.8% YoY to $8.4B, pushing the 2024 revenue to ~$88.02B, up 34% YoY, driven by AI chips demand from Nvidia and Broadcom &lpar;Nikkei Asia&rpar;](http://www.techmeme.com/250110/p4#a250110p4)
  - [X says it is rolling out labels for parody or satire accounts to differentiate them from others and boost transparency; accounts have to apply for the labels &lpar;Ivan Mehta/TechCrunch&rpar;](http://www.techmeme.com/250110/p3#a250110p3)
- - [T-Mobile and SpaceX Turn On Satellite Texting for Los Angeles Fires](https://www.cnet.com/tech/mobile/t-mobile-and-spacex-turn-on-satellite-texting-for-los-angeles-fires/#ftag=CAD590a51e)
- - [Automattic plans to cut its WordPress contributions to 45 hours per week &quot;due to the lawsuits from WP Engine&quot;, focusing mostly on security and critical updates &lpar;Automattic&rpar;](http://www.techmeme.com/250110/p2#a250110p2)<!-- TECH:END -->
+ - [T-Mobile and SpaceX Turn On Satellite Texting for Los Angeles Fires](https://www.cnet.com/tech/mobile/t-mobile-and-spacex-turn-on-satellite-texting-for-los-angeles-fires/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

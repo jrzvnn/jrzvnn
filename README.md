@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Tesla’s redesigned Model Y is here — but not in the US or Europe](https://www.theverge.com/2025/1/10/24340502/tesla-model-y-2025-ev-redesign-specs-price-availability)
+ - [30-Year Fixed Refinance Ticks Higher: Today&#39;s Refinance Rates for Jan. 10, 2025](https://www.cnet.com/personal-finance/30-year-fixed-refinance-ticks-higher-todays-refinance-rates-for-jan-10-2025/#ftag=CAD590a51e)
  - [A look at LexisNexis Risk Solutions, RELX&#39;s largest division, which accounts for ~35% of RELX&#39;s revenue and holds 9B device records and 3B digital identities &lpar;John Gapper/Financial Times&rpar;](http://www.techmeme.com/250110/p7#a250110p7)
- - [Redmi is first to bring the Snapdragon 7s Gen 3 to Europe](https://www.theverge.com/2025/1/10/24340493/redmi-note-14-qualcomm-snapdragon-7s-gen-3)
- - [Global Warming Is Wreaking Havoc on the Planet’s Water Cycle](https://www.wired.com/story/global-warming-planet-water-cycle/)
- - [Twenty years of the Mac mini, the little Mac that could](https://appleinsider.com/articles/25/01/10/twenty-years-of-the-mac-mini-the-little-mac-that-could?utm_medium=rss)
- - [Don&#39;t Miss Your Chance to Earn up to 4.65% APY. Today&#39;s CD Rates, Jan. 10, 2025](https://www.cnet.com/personal-finance/banking/dont-miss-your-chance-to-score-up-to-4-65-apy-todays-cd-rates-jan-10-2025/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Mortgage Rates Increase for Prospective Buyers: Today&#39;s Mortgage Rates on Jan. 10, 2025](https://www.cnet.com/personal-finance/mortgage-rates-increase-for-prospective-buyers-todays-mortgage-rates-on-jan-10-2025/#ftag=CAD590a51e)
+ - [Apple Intelligence Is Now Eating More iPhone Storage. Here&#39;s How to Turn It Off](https://www.cnet.com/tech/services-and-software/apple-intelligence-is-now-eating-more-iphone-storage-heres-how-to-turn-it-off/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

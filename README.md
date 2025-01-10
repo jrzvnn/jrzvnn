@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Japan town in Vietnam. Reliever of all stress!](http://9gag.com/gag/aLn1brM)
- - 😝 [The Red Roar](http://9gag.com/gag/aoyKDXm)
- - 💣 [`Overly attached girlfriend` 2024.](http://9gag.com/gag/agmoKMx)
- - 😝 [Why yes, I&#39;m a fan of classic Italian cinema](http://9gag.com/gag/ajPVdDx)
- - 👉 [This old school clothes wringer.](http://9gag.com/gag/a2vKxKE)<!-- MEMES:END -->
+ - 😝 [Accurate Stormtroopers!](http://9gag.com/gag/aQzEVLw)
+ - 😝 [Wifey !!!!](http://9gag.com/gag/agmoK8v)
+ - 💣 [Why no imperial time units?](http://9gag.com/gag/a5QXx8L)
+ - 😝 [This COP is legend](http://9gag.com/gag/ae9QR05)
+ - 👉 [Simply genius](http://9gag.com/gag/aD2YPnN)<!-- MEMES:END -->
 
 ---
 

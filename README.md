@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Hi Georgie](http://9gag.com/gag/a1mPE3G)
- - 😝 [The Malibu waterfront, one of the most expensive properties in the United States, has largely disappeared.](http://9gag.com/gag/awyZeBr)
- - 💣 [The moment he draws the ass... oh my God, dat ass.](http://9gag.com/gag/aAy0v82)
- - 😝 [WTF UK](http://9gag.com/gag/a5QXDZy)
- - 👉 [Typical UK nowadays , some far right woman stops typical uk citizen from bringing home a girl.](http://9gag.com/gag/abAvRyB)<!-- MEMES:END -->
+ - 😝 [Grapes.](http://9gag.com/gag/aVvbL6v)
+ - 😝 [`Overly attached girlfriend` 2024.](http://9gag.com/gag/agmoKMx)
+ - 💣 [Testing your mortality with totally sick wheelies.](http://9gag.com/gag/awyZY38)
+ - 😝 [The state of LA &lpar;more images in comments&rpar;](http://9gag.com/gag/aGyE7O5)
+ - 👉 [Big brain time](http://9gag.com/gag/avyQmQn)<!-- MEMES:END -->
 
 ---
 

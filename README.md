@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Satisfying](http://9gag.com/gag/aqyeD2P)
- - 😝 [Testing your mortality with totally sick wheelies.](http://9gag.com/gag/awyZY38)
- - 💣 [What part of the car that melted? The fire was so brutal!](http://9gag.com/gag/abAvEDB)
- - 😝 [Thieves in Italy steal an ATM with a excavator. It can&#39;t be that much money in a single ATM to go this far?](http://9gag.com/gag/a7oqnye)
- - 👉 [\u201cHey you wanna see some shit, hold my beer\u201d](http://9gag.com/gag/aqyeWOj)<!-- MEMES:END -->
+ - 😝 [Subtle but significant distinction](http://9gag.com/gag/ayN2vzy)
+ - 😝 [What part of the car that melted? The fire was so brutal!](http://9gag.com/gag/abAvEDB)
+ - 💣 [\u201cHey you wanna see some shit, hold my beer\u201d](http://9gag.com/gag/aqyeWOj)
+ - 😝 [Blackrock be like: JACKPOT!](http://9gag.com/gag/a7oqAYL)
+ - 👉 [Why yes, I&#39;m a fan of classic Italian cinema](http://9gag.com/gag/ajPVdDx)<!-- MEMES:END -->
 
 ---
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Today&#39;s NYT Strands Hints, Answers and Help for Jan. 10, #313](https://www.cnet.com/tech/gaming/todays-nyt-strands-hints-answers-and-help-for-jan-10-313/#ftag=CAD590a51e)
- - [Today&#39;s NYT Connections: Sports Edition Hints and Answers for Jan. 10, #109](https://www.cnet.com/tech/gaming/todays-nyt-connections-sports-edition-hints-and-answers-for-jan-10-109/#ftag=CAD590a51e)
  - [How to switch modes in macOS Sequoia&#39;s Calculator app](https://appleinsider.com/inside/macos/tips/how-to-switch-modes-in-macos-sequoias-calculator-app?utm_medium=rss)
  - [‘All Hands on Deck’: How Watch Duty Keeps Up With the California Wildfires](https://www.wired.com/story/watch-duty-california-wildfires-ceo-founder-interview/)
- - [Meta&#39;s new policies for contractors and staff moderating Facebook and Instagram allow dehumanizing speech, like &quot;a trans person isn&#39;t a he or she, it&#39;s an it&quot; &lpar;Casey Newton/Platformer&rpar;](http://www.techmeme.com/250109/p34#a250109p34)<!-- TECH:END -->
+ - [Meta&#39;s new policies for contractors and staff moderating Facebook and Instagram allow dehumanizing speech, like &quot;a trans person isn&#39;t a he or she, it&#39;s an it&quot; &lpar;Casey Newton/Platformer&rpar;](http://www.techmeme.com/250109/p34#a250109p34)
+ - [The Linux Foundation launches an initiative to fund developing Chromium projects in a &quot;neutral space&quot;, with support from Google, Meta, Microsoft, and Opera &lpar;Kevin Purdy/Ars Technica&rpar;](http://www.techmeme.com/250109/p33#a250109p33)
+ - [Today&#39;s NYT Connections Hints, Answers and Help for Jan. 10, #579](https://www.cnet.com/tech/gaming/todays-nyt-connections-hints-answers-and-help-for-jan-10-579/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

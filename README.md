@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [More than half a dozen celebrity video game streamers returned to Twitch in 2024, after their multi-million dollar contracts with YouTube and Kick expired &lpar;Cecilia D&#39;Anastasio/Bloomberg&rpar;](http://www.techmeme.com/250110/p6#a250110p6)
+ - [30-Year Fixed Refinance Ticks Higher: Today&#39;s Refinance Rates, Jan. 10, 2025](https://www.cnet.com/personal-finance/mortgages/30-year-fixed-refinance-ticks-higher-todays-refinance-rates-jan-10-2025/#ftag=CAD590a51e)
+ - [2025 Mortgage Rate Forecast: Here&#39;s Why You Shouldn&#39;t Bet on Lower Rates This Year](https://www.cnet.com/personal-finance/2025-mortgage-rate-forecast-heres-why-you-shouldnt-bet-on-lower-rates-this-year/#ftag=CAD590a51e)
  - [Verizon Promo Codes and Deals | Up to $830 Off](https://www.wired.com/story/verizon-promo-code/)
- - [India is promoting RuPay, its homegrown card network, to challenge Visa and Mastercard, leveraging UPI, which now handles 13B+ real-time transactions monthly &lpar;Manish Singh/TechCrunch&rpar;](http://www.techmeme.com/250110/p5#a250110p5)
- - [TSMC reports December revenue up 57.8% YoY to $8.4B, pushing the 2024 revenue to ~$88.02B, up 34% YoY, driven by AI chips demand from Nvidia and Broadcom &lpar;Nikkei Asia&rpar;](http://www.techmeme.com/250110/p4#a250110p4)
- - [X says it is rolling out labels for parody or satire accounts to differentiate them from others and boost transparency; accounts have to apply for the labels &lpar;Ivan Mehta/TechCrunch&rpar;](http://www.techmeme.com/250110/p3#a250110p3)
- - [T-Mobile and SpaceX Turn On Satellite Texting for Los Angeles Fires](https://www.cnet.com/tech/mobile/t-mobile-and-spacex-turn-on-satellite-texting-for-los-angeles-fires/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [India is promoting RuPay, its homegrown card network, to challenge Visa and Mastercard, leveraging UPI, which now handles 13B+ real-time transactions monthly &lpar;Manish Singh/TechCrunch&rpar;](http://www.techmeme.com/250110/p5#a250110p5)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

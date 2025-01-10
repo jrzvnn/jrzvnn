@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [This old school clothes wringer.](http://9gag.com/gag/a2vKxKE)
+ - 😝 [Subtle but significant distinction](http://9gag.com/gag/ayN2vzy)
+ - 😝 [`Overly attached girlfriend` 2024.](http://9gag.com/gag/agmoKMx)
+ - 💣 [Why yes, I&#39;m a fan of classic Italian cinema](http://9gag.com/gag/ajPVdDx)
  - 😝 [Theresa Virtue and Scott Moir. Scott: `C - can&#39;t tell` ; marries someone else.](http://9gag.com/gag/a5QXqpo)
- - 💣 [The state of LA &lpar;more images in comments&rpar;](http://9gag.com/gag/aGyE7O5)
- - 😝 [Duolingo can be good sometimes](http://9gag.com/gag/aMVEyzG)
- - 👉 [Thieves in Italy steal an ATM with a excavator. It can&#39;t be that much money in a single ATM to go this far?](http://9gag.com/gag/a7oqnye)<!-- MEMES:END -->
+ - 👉 [This old school clothes wringer.](http://9gag.com/gag/a2vKxKE)<!-- MEMES:END -->
 
 ---
 

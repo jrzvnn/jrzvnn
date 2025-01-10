@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple opposes a shareholder measure calling for an end to DEI efforts, saying the proposal was an inappropriate attempt to restrict Apple&#39;s business operations &lpar;Mark Gurman/Bloomberg&rpar;](http://www.techmeme.com/250110/p30#a250110p30)
- - [The best Xbox controller to buy right now](https://www.theverge.com/23025443/best-xbox-controllers-one-series-x-s)
- - [Zuckerberg says Meta&#39;s fact-checking was &quot;something out of 1984&quot; and criticized the media for hounding Facebook to clamp down on misinfo after the 2016 election &lpar;Angrej Singh/Axios&rpar;](http://www.techmeme.com/250110/p29#a250110p29)
- - [Sources: OpenAI, Google, and other companies are collectively paying hundreds of content creators for access to their unpublished videos to train AI models &lpar;Aisha Counts/Bloomberg&rpar;](http://www.techmeme.com/250110/p28#a250110p28)
- - [Zuckerberg slams Apple, saying it hasn&#39;t &quot;really invented anything great in a while&quot;, he&#39;s &quot;optimistic&quot; that Apple will &quot;get beat by someone&quot; soon, and more &lpar;Chance Miller/9to5Mac&rpar;](http://www.techmeme.com/250110/p27#a250110p27)<!-- TECH:END -->
+ - [Apple&#39;s 2025 annual shareholder meeting will take place on February 25](https://appleinsider.com/articles/25/01/10/apples-2025-annual-shareholder-meeting-will-take-place-on-february-25?utm_medium=rss)
+ - [OpenAI CEO Sam Altman, Uber CEO Dara Khosrowshahi, and, a source says, Meta CEO Mark Zuckerberg are planning to attend Trump&#39;s inauguration events this month &lpar;Bloomberg&rpar;](http://www.techmeme.com/250110/p31#a250110p31)
+ - [Amazon is ‘winding down’ some of its DEI programs](https://www.theverge.com/2025/1/10/24341016/amazon-winding-down-dei-programs)
+ - [LaCie leverages Thunderbolt 5 with Rugged SSD Pro5 for creative pros at CES 2025](https://appleinsider.com/articles/25/01/07/lacie-leverages-thunderbolt-5-with-rugged-ssd-pro5-for-creative-pros-at-ces-2025?utm_medium=rss)
+ - [Meta CEO mocks Apple for &#39;sitting on&#39; iPhone 20 years later despite doing the same with Facebook](https://appleinsider.com/articles/25/01/10/meta-ceo-mocks-apple-for-sitting-on-iphone-20-years-later-despite-doing-the-same-with-facebook?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

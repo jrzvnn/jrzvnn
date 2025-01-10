@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [TikTok SCOTUS Live Blog: The Court Hears Arguments Over Law That Would Ban the App](https://www.wired.com/live/tiktok-scotus-live-coverage/)
+ - [The coolest laptops of CES 2025](https://www.theverge.com/2025/1/10/24340121/ces-2025-laptops-best-lenovo-asus-msi-razer-alienware)
  - [WhatsApp really hopes you want to talk with AI bots](https://www.theverge.com/2025/1/10/24340539/whatsapp-beta-ai-chatbot-tab)
  - [Rear iPhone 17 Pro cameras could all have the same 48MP resolution](https://appleinsider.com/articles/25/01/10/rear-iphone-17-pro-cameras-could-all-have-the-same-48mp-resolution?utm_medium=rss)
- - [In a weird X Spaces conversation, Elon Musk and Alice Weidel, the leader of the German far-right party AfD, pushed disinformation about Hitler, migrants, more &lpar;Politico&rpar;](http://www.techmeme.com/250110/p9#a250110p9)
- - [The Verge Awards at CES 2025](https://www.theverge.com/2025/1/10/24340153/ces-2025-best-new-tech-tv-car-wearable)
- - [A look at Meta&#39;s convoluted or contradictory guidelines for those working on its user content, allowing derogatory remarks about races, nationalities, and more &lpar;Sam Biddle/The Intercept&rpar;](http://www.techmeme.com/250110/p8#a250110p8)<!-- TECH:END -->
+ - [In a weird X Spaces conversation, Elon Musk and Alice Weidel, the leader of the German far-right party AfD, pushed disinformation about Hitler, migrants, more &lpar;Politico&rpar;](http://www.techmeme.com/250110/p9#a250110p9)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

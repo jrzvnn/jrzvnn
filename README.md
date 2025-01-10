@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [What part of the car that melted? The fire was so brutal!](http://9gag.com/gag/abAvEDB)
- - 😝 [He simply makes the best advertising!](http://9gag.com/gag/an7zVx0)
- - 💣 [Who is going to pay for the damages!](http://9gag.com/gag/avyQDyd)
  - 😝 [Maddest car chase I\u2019ve seen. Dude in the car literally trying to kill him.](http://9gag.com/gag/aYQVdOV)
- - 👉 [This old school clothes wringer.](http://9gag.com/gag/a2vKxKE)<!-- MEMES:END -->
+ - 😝 [\u200e\u200e\u200e\u200e\u200e\u200e\u200e\u200e\u200e\u200e\u200e\u200e\u200e\u200e\u200e\u200e\u200e\u200e\u200e\u200e\u200e\u200e\u200e\u200e\u200e\u200e\u200e\u200e\u200e\u200e\u200e\u200e\u200e\u200e\u200e\u200e\u200e\u200e\u200e\u200e\u200e\u200e\u200e\u200e\u200e\u200e\u200e\u200e\u200e\u200e\u200e\u200e\u200e\u200e\u200e\u200e](http://9gag.com/gag/aGyEbVZ)
+ - 💣 [Who is going to pay for the damages!](http://9gag.com/gag/avyQDyd)
+ - 😝 [This old school clothes wringer.](http://9gag.com/gag/a2vKxKE)
+ - 👉 [Cap? Any update on LA fires if these two are still around?](http://9gag.com/gag/aO8xGD2)<!-- MEMES:END -->
 
 ---
 

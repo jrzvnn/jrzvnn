@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Unexpected turn of events](http://9gag.com/gag/a5QXjMV)
+ - 😝 [Blackrock be like: JACKPOT!](http://9gag.com/gag/a7oqAYL)
+ - 😝 [This had me wheezing](http://9gag.com/gag/aD2YONx)
+ - 💣 [Thieves in Italy steal an ATM with a excavator. It can&#39;t be that much money in a single ATM to go this far?](http://9gag.com/gag/a7oqnye)
  - 😝 [If you are reading this: sorry Peter, we paid her](http://9gag.com/gag/a87qwO1)
- - 💣 [What part of the car that melted? The fire was so brutal!](http://9gag.com/gag/abAvEDB)
- - 😝 [Thieves in Italy steal an ATM with a excavator. It can&#39;t be that much money in a single ATM to go this far?](http://9gag.com/gag/a7oqnye)
- - 👉 [Lady liberty won&#39;t betray you](http://9gag.com/gag/aNDw4X3)<!-- MEMES:END -->
+ - 👉 [\u201cHey you wanna see some shit, hold my beer\u201d](http://9gag.com/gag/aqyeWOj)<!-- MEMES:END -->
 
 ---
 

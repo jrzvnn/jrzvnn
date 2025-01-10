@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Zuckerberg says Meta&#39;s fact-checking was &quot;something out of 1984&quot; and criticized the media for hounding Facebook to clamp down on misinfo after the 2016 election &lpar;Angrej Singh/Axios&rpar;](http://www.techmeme.com/250110/p29#a250110p29)
+ - [Sources: OpenAI, Google, and other companies are collectively paying hundreds of content creators for access to their unpublished videos to train AI models &lpar;Aisha Counts/Bloomberg&rpar;](http://www.techmeme.com/250110/p28#a250110p28)
  - [Zuckerberg slams Apple, saying it hasn&#39;t &quot;really invented anything great in a while&quot;, he&#39;s &quot;optimistic&quot; that Apple will &quot;get beat by someone&quot; soon, and more &lpar;Chance Miller/9to5Mac&rpar;](http://www.techmeme.com/250110/p27#a250110p27)
  - [On Joe Rogan&#39;s podcast, Zuckerberg said the Biden administration pushed Meta &quot;super hard&quot; to take down vaccine content, called EU fines a tariff on the US, more &lpar;Jordan Novet/CNBC&rpar;](http://www.techmeme.com/250110/p26#a250110p26)
- - [The &#39;Wow&#39; Moment That Blew Me Away at CES 2025: Big Tech Should Pay Attention](https://www.cnet.com/tech/the-wow-moment-that-blew-me-away-at-ces-2025-big-tech-should-pay-attention/#ftag=CAD590a51e)
- - [Memo: Amazon halts some of its DEI programs, saying it is &quot;winding down outdated programs and materials&quot; as part of a broader review of hundreds of initiatives &lpar;Annie Palmer/CNBC&rpar;](http://www.techmeme.com/250110/p25#a250110p25)
- - [Twenty years of the Mac mini, the little Mac that could](https://appleinsider.com/articles/25/01/10/twenty-years-of-the-mac-mini-the-little-mac-that-could?utm_medium=rss)<!-- TECH:END -->
+ - [The &#39;Wow&#39; Moment That Blew Me Away at CES 2025: Big Tech Should Pay Attention](https://www.cnet.com/tech/the-wow-moment-that-blew-me-away-at-ces-2025-big-tech-should-pay-attention/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

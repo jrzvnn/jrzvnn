@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Amazon plans to end Prime Try Before You Buy on January 31; the Stitch Fix competitor let Prime users try on clothes and only pay for items they wanted to keep &lpar;Annie Palmer/CNBC&rpar;](http://www.techmeme.com/250110/p23#a250110p23)
+ - [Synchrony Pay Later is now available via Apple Pay](https://appleinsider.com/articles/25/01/10/synchrony-pay-later-is-now-available-via-apple-pay?utm_medium=rss)
  - [TikTok still seems headed for a ban after its Supreme Court arguments](https://www.theverge.com/2025/1/10/24340859/supreme-court-tiktok-divest-ban-oral-arguments)
  - [Amazon has quietly changed or removed pages on its corporate website that declared its commitment to DEI and other issues &lpar;The Information&rpar;](http://www.techmeme.com/250110/p22#a250110p22)
- - [Amazon’s latest Blu-ray promo nets you three movies for just $33](https://www.theverge.com/2025/1/10/24340810/amazon-4k-blu-ray-sale-dune-oppenheimer-mario-barbie-deal)
- - [Sources: Rumble, Quora, and WeChat are among 15 companies from which Texas has demanded answers about their collection and use of data of under-18-year-olds &lpar;Paresh Dave/Wired&rpar;](http://www.techmeme.com/250110/p21#a250110p21)
- - [X&#39;s Grok AI Chatbot Comes to iOS as a Standalone App](https://www.cnet.com/tech/services-and-software/xs-grok-ai-chatbot-comes-to-ios-as-a-standalone-app/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Amazon’s latest Blu-ray promo nets you three movies for just $33](https://www.theverge.com/2025/1/10/24340810/amazon-4k-blu-ray-sale-dune-oppenheimer-mario-barbie-deal)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

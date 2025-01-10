@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The TikTok Ban Is More Likely Than Ever](https://www.wired.com/story/tiktok-ban-supreme-court-hearing/)
+ - [Apple&#39;s Chinese New Year &#39;Shot on iPhone&#39; film is a 90&#39;s mixtape feverdream](https://appleinsider.com/articles/25/01/10/apples-chinese-new-year-shot-on-iphone-film-is-a-90s-mixtape-feverdream?utm_medium=rss)
+ - [Sources: HPE won a $1B deal in late 2024 to provide servers optimized for AI work for X; Dell and Super Micro also bid on the deal &lpar;Brody Ford/Bloomberg&rpar;](http://www.techmeme.com/250110/p24#a250110p24)
  - [Amazon plans to end Prime Try Before You Buy on January 31; the Stitch Fix competitor let Prime users try on clothes and only pay for items they wanted to keep &lpar;Annie Palmer/CNBC&rpar;](http://www.techmeme.com/250110/p23#a250110p23)
- - [Synchrony Pay Later is now available via Apple Pay](https://appleinsider.com/articles/25/01/10/synchrony-pay-later-is-now-available-via-apple-pay?utm_medium=rss)
- - [TikTok still seems headed for a ban after its Supreme Court arguments](https://www.theverge.com/2025/1/10/24340859/supreme-court-tiktok-divest-ban-oral-arguments)
- - [Amazon has quietly changed or removed pages on its corporate website that declared its commitment to DEI and other issues &lpar;The Information&rpar;](http://www.techmeme.com/250110/p22#a250110p22)
- - [Amazon’s latest Blu-ray promo nets you three movies for just $33](https://www.theverge.com/2025/1/10/24340810/amazon-4k-blu-ray-sale-dune-oppenheimer-mario-barbie-deal)<!-- TECH:END -->
+ - [Synchrony Pay Later is now available via Apple Pay](https://appleinsider.com/articles/25/01/10/synchrony-pay-later-is-now-available-via-apple-pay?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

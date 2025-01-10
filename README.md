@@ -167,10 +167,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [Japan town in Vietnam. Reliever of all stress!](http://9gag.com/gag/aLn1brM)
- - 😝 [Subtle but significant distinction](http://9gag.com/gag/ayN2vzy)
- - 💣 [He simply makes the best advertising!](http://9gag.com/gag/an7zVx0)
- - 😝 [If only](http://9gag.com/gag/aXPnd6V)
- - 👉 [Why yes, I&#39;m a fan of classic Italian cinema](http://9gag.com/gag/ajPVdDx)<!-- MEMES:END -->
+ - 😝 [The Red Roar](http://9gag.com/gag/aoyKDXm)
+ - 💣 [`Overly attached girlfriend` 2024.](http://9gag.com/gag/agmoKMx)
+ - 😝 [Why yes, I&#39;m a fan of classic Italian cinema](http://9gag.com/gag/ajPVdDx)
+ - 👉 [This old school clothes wringer.](http://9gag.com/gag/a2vKxKE)<!-- MEMES:END -->
 
 ---
 

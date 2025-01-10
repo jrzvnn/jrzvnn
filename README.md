@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Subtle but significant distinction](http://9gag.com/gag/ayN2vzy)
- - 😝 [`Overly attached girlfriend` 2024.](http://9gag.com/gag/agmoKMx)
- - 💣 [Why yes, I&#39;m a fan of classic Italian cinema](http://9gag.com/gag/ajPVdDx)
- - 😝 [Theresa Virtue and Scott Moir. Scott: `C - can&#39;t tell` ; marries someone else.](http://9gag.com/gag/a5QXqpo)
- - 👉 [This old school clothes wringer.](http://9gag.com/gag/a2vKxKE)<!-- MEMES:END -->
+ - 😝 [Why yes, I&#39;m a fan of classic Italian cinema](http://9gag.com/gag/ajPVdDx)
+ - 😝 [Accurate Stormtroopers!](http://9gag.com/gag/aQzEVLw)
+ - 💣 [Bro shut her up real fast](http://9gag.com/gag/azx2BqB)
+ - 😝 [Wifey !!!!](http://9gag.com/gag/agmoK8v)
+ - 👉 [Why no imperial time units?](http://9gag.com/gag/a5QXx8L)<!-- MEMES:END -->
 
 ---
 

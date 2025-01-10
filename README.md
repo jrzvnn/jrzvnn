@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [What part of the car that melted? The fire was so brutal!](http://9gag.com/gag/abAvEDB)
- - 😝 [First one](http://9gag.com/gag/aVvbV38)
- - 💣 [Normal?](http://9gag.com/gag/an7zEv0)
+ - 😝 [Satisfying](http://9gag.com/gag/aqyeD2P)
+ - 😝 [Testing your mortality with totally sick wheelies.](http://9gag.com/gag/awyZY38)
+ - 💣 [What part of the car that melted? The fire was so brutal!](http://9gag.com/gag/abAvEDB)
  - 😝 [Thieves in Italy steal an ATM with a excavator. It can&#39;t be that much money in a single ATM to go this far?](http://9gag.com/gag/a7oqnye)
- - 👉 [Testing your mortality with totally sick wheelies.](http://9gag.com/gag/awyZY38)<!-- MEMES:END -->
+ - 👉 [\u201cHey you wanna see some shit, hold my beer\u201d](http://9gag.com/gag/aqyeWOj)<!-- MEMES:END -->
 
 ---
 

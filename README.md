@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Subtle but significant distinction](http://9gag.com/gag/ayN2vzy)
- - 😝 [What part of the car that melted? The fire was so brutal!](http://9gag.com/gag/abAvEDB)
- - 💣 [\u201cHey you wanna see some shit, hold my beer\u201d](http://9gag.com/gag/aqyeWOj)
- - 😝 [Blackrock be like: JACKPOT!](http://9gag.com/gag/a7oqAYL)
- - 👉 [Why yes, I&#39;m a fan of classic Italian cinema](http://9gag.com/gag/ajPVdDx)<!-- MEMES:END -->
+ - 😝 [Unexpected turn of events](http://9gag.com/gag/a5QXjMV)
+ - 😝 [If you are reading this: sorry Peter, we paid her](http://9gag.com/gag/a87qwO1)
+ - 💣 [What part of the car that melted? The fire was so brutal!](http://9gag.com/gag/abAvEDB)
+ - 😝 [Thieves in Italy steal an ATM with a excavator. It can&#39;t be that much money in a single ATM to go this far?](http://9gag.com/gag/a7oqnye)
+ - 👉 [Lady liberty won&#39;t betray you](http://9gag.com/gag/aNDw4X3)<!-- MEMES:END -->
 
 ---
 

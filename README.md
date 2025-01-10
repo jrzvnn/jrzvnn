@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [TikTok’s last stand: Supreme Court hears arguments over potential ban](https://www.theverge.com/24340585/tiktok-ban-supreme-court-oral-arguments)
- - [The CFPB proposes a new rule to give consumers the same protection rights when they use virtual currencies in some video games like Roblox as when they use USD &lpar;Makena Kelly/Wired&rpar;](http://www.techmeme.com/250110/p11#a250110p11)
- - [The Vergecast at CES 2025: the biggest stories and best gadgets](https://www.theverge.com/2025/1/10/24340568/ces-2025-vergecast-gadgets-tvs-ai)
- - [9 Best Mobile Game Controllers &lpar;2025&rpar;: iPhone or Android](https://www.wired.com/gallery/best-mobile-game-controllers-for-iphone-android/)
- - [The Government Wants to Protect Robux From Hackers](https://www.wired.com/story/the-government-wants-to-protect-robux-from-hackers-cfpb/)<!-- TECH:END -->
+ - [Live blog: The US Supreme Court hears oral arguments in TikTok&#39;s appeal against the divest-or-ban law &lpar;Wired&rpar;](http://www.techmeme.com/250110/p14#a250110p14)
+ - [Sources: Venu&#39;s cancellation came after the companies decided it was better to avoid the risk of an extended lawsuit that could jeopardize bundling in general &lpar;CNBC&rpar;](http://www.techmeme.com/250110/p13#a250110p13)
+ - [LA fires affect Apple TV+ with production delays, event cancellations](https://appleinsider.com/articles/25/01/10/la-fires-affect-apple-tv-with-production-delays-event-cancellations?utm_medium=rss)
+ - [PowerSchool data breach leaks info of students and staff at schools across the US](https://www.theverge.com/2025/1/10/24340556/powerschool-sis-data-breach-leak-student-data-us-canada-schools)
+ - [Sources: Chinese hackers breached CFIUS, the US government office that reviews foreign investments for national security risks &lpar;Sean Lyngaas/CNN&rpar;](http://www.techmeme.com/250110/p12#a250110p12)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

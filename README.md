@@ -159,9 +159,9 @@ R                        1 repo              ░░░░░░░░░░░�
 <!-- TECH:START -->
  - [Zuckerberg slams Apple, saying it hasn&#39;t &quot;really invented anything great in a while&quot;, he&#39;s &quot;optimistic&quot; that Apple will &quot;get beat by someone&quot; soon, and more &lpar;Chance Miller/9to5Mac&rpar;](http://www.techmeme.com/250110/p27#a250110p27)
  - [On Joe Rogan&#39;s podcast, Zuckerberg said the Biden administration pushed Meta &quot;super hard&quot; to take down vaccine content, called EU fines a tariff on the US, more &lpar;Jordan Novet/CNBC&rpar;](http://www.techmeme.com/250110/p26#a250110p26)
+ - [The &#39;Wow&#39; Moment That Blew Me Away at CES 2025: Big Tech Should Pay Attention](https://www.cnet.com/tech/the-wow-moment-that-blew-me-away-at-ces-2025-big-tech-should-pay-attention/#ftag=CAD590a51e)
  - [Memo: Amazon halts some of its DEI programs, saying it is &quot;winding down outdated programs and materials&quot; as part of a broader review of hundreds of initiatives &lpar;Annie Palmer/CNBC&rpar;](http://www.techmeme.com/250110/p25#a250110p25)
- - [Twenty years of the Mac mini, the little Mac that could](https://appleinsider.com/articles/25/01/10/twenty-years-of-the-mac-mini-the-little-mac-that-could?utm_medium=rss)
- - [The Evolving &lpar;and Inexact&rpar; Science of Fleeing a Wildfire](https://www.wired.com/story/the-growing-and-inexact-science-of-fleeing-a-wildfire/)<!-- TECH:END -->
+ - [Twenty years of the Mac mini, the little Mac that could](https://appleinsider.com/articles/25/01/10/twenty-years-of-the-mac-mini-the-little-mac-that-could?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

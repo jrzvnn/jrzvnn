@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [How Elon Musk’s xAI is quietly taking over X](https://www.theverge.com/2025/1/10/24339249/elon-musk-xai-x-twitter)
+ - [SCOTUS signals it is likely to uphold the TikTok divest-or-ban law, as a majority of justices suggested they see national security overriding free speech issues &lpar;Greg Stohr/Bloomberg&rpar;](http://www.techmeme.com/250110/p18#a250110p18)
  - [Fortnite Festival is turning into Rock Band with local multiplayer](https://www.theverge.com/2025/1/10/24340770/fortnite-festival-local-multiplayer)
  - [Memo: Meta terminates major DEI programs, including for hiring, training, and procurement, citing a changed &quot;legal and policy landscape&quot; around DEI in the US &lpar;Axios&rpar;](http://www.techmeme.com/250110/p17#a250110p17)
- - [Slim iPhone 17 could be even thinner than expected](https://appleinsider.com/articles/25/01/10/slim-iphone-17-could-be-even-thinner-than-expected?utm_medium=rss)
- - [Even Trump Can’t Stop America’s Green Transition, Says Biden’s Top Climate Adviser](https://www.wired.com/story/even-trump-cant-stop-americas-green-transition-says-bidens-top-climate-advisor/)
- - [Best VPN Deals: Keep Yourself Safe Online for as Little as $2 a Month](https://www.cnet.com/deals/best-vpn-deals/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Slim iPhone 17 could be even thinner than expected](https://appleinsider.com/articles/25/01/10/slim-iphone-17-could-be-even-thinner-than-expected?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

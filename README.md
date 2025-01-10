@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The TikTok Ban Is More Likely Than Ever](https://www.wired.com/story/tiktok-ban-supreme-court-hearing/)
+ - [Synchrony Pay Later coming soon to Apple Pay](https://appleinsider.com/articles/25/01/10/synchrony-pay-later-is-now-available-via-apple-pay?utm_medium=rss)
  - [Apple&#39;s Chinese New Year &#39;Shot on iPhone&#39; film is a 90&#39;s mixtape feverdream](https://appleinsider.com/articles/25/01/10/apples-chinese-new-year-shot-on-iphone-film-is-a-90s-mixtape-feverdream?utm_medium=rss)
+ - [The TikTok Ban Is More Likely Than Ever](https://www.wired.com/story/tiktok-ban-supreme-court-hearing/)
  - [Sources: HPE won a $1B deal in late 2024 to provide servers optimized for AI work for X; Dell and Super Micro also bid on the deal &lpar;Brody Ford/Bloomberg&rpar;](http://www.techmeme.com/250110/p24#a250110p24)
- - [Amazon plans to end Prime Try Before You Buy on January 31; the Stitch Fix competitor let Prime users try on clothes and only pay for items they wanted to keep &lpar;Annie Palmer/CNBC&rpar;](http://www.techmeme.com/250110/p23#a250110p23)
- - [Synchrony Pay Later is now available via Apple Pay](https://appleinsider.com/articles/25/01/10/synchrony-pay-later-is-now-available-via-apple-pay?utm_medium=rss)<!-- TECH:END -->
+ - [Amazon plans to end Prime Try Before You Buy on January 31; the Stitch Fix competitor let Prime users try on clothes and only pay for items they wanted to keep &lpar;Annie Palmer/CNBC&rpar;](http://www.techmeme.com/250110/p23#a250110p23)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

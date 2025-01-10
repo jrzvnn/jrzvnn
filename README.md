@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The CFPB proposes new rules to give consumers the same rights when using virtual currencies used in Roblox and some other video games as when they use USD &lpar;Makena Kelly/Wired&rpar;](http://www.techmeme.com/250110/p11#a250110p11)
- - [This Limited-Time Roomba Robot Vac and Mop Deal Matches Its Lowest-Ever Price](https://www.cnet.com/deals/this-limited-time-roomba-robot-vac-and-mop-deal-matches-its-lowest-ever-price/#ftag=CAD590a51e)
+ - [TikTok’s last stand: Supreme Court hears arguments over potential ban](https://www.theverge.com/24340585/tiktok-ban-supreme-court-oral-arguments)
+ - [The CFPB proposes a new rule to give consumers the same protection rights when they use virtual currencies in some video games like Roblox as when they use USD &lpar;Makena Kelly/Wired&rpar;](http://www.techmeme.com/250110/p11#a250110p11)
  - [The Vergecast at CES 2025: the biggest stories and best gadgets](https://www.theverge.com/2025/1/10/24340568/ces-2025-vergecast-gadgets-tvs-ai)
- - [Refinance Rates Rocket Higher. Today&#39;s Refi Rates, Jan. 10, 2025](https://www.cnet.com/personal-finance/30-year-fixed-refinance-ticks-higher-todays-refinance-rates-for-jan-10-2025/#ftag=CAD590a51e)
- - [Enjoy a Brew Without the Hassle or High Price Tag With This Instant Coffee Maker for Just $55](https://www.cnet.com/deals/enjoy-a-brew-without-the-hassle-or-high-price-tag-with-this-instant-coffee-maker-for-just-55/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [9 Best Mobile Game Controllers &lpar;2025&rpar;: iPhone or Android](https://www.wired.com/gallery/best-mobile-game-controllers-for-iphone-android/)
+ - [The Government Wants to Protect Robux From Hackers](https://www.wired.com/story/the-government-wants-to-protect-robux-from-hackers-cfpb/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

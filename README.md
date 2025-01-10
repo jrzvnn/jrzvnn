@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The Verge Awards at CES 2025](https://www.theverge.com/2025/1/10/24340153/ces-2025-best-new-tech-tv-car-wearable)
  - [A look at Meta&#39;s convoluted or contradictory guidelines for those working on its user content, allowing derogatory remarks about races, nationalities, and more &lpar;Sam Biddle/The Intercept&rpar;](http://www.techmeme.com/250110/p8#a250110p8)
  - [The smart glasses era is here — I got a first look](https://www.theverge.com/2025/1/10/24340208/ces-2025-smart-glasses-rokid-halliday-xreal-vuzix-nuance-audio)
  - [How Wildfire Smoke Affects Your Health—And How to Protect Yourself](https://www.wired.com/story/how-wildfire-smoke-affects-your-health-and-how-to-protect-yourself/)
- - [Can Your Car Be Your Friend?](https://www.wired.com/story/can-your-car-be-your-friend/)
- - [Panasonic came back for TV glory at CES 2025](https://www.theverge.com/2025/1/10/24339135/panasonic-z95b-oled-tv-hands-on-ces-2025)<!-- TECH:END -->
+ - [What&#39;s This Smiley? Your Guide to Deciphering Every Emoji](https://www.cnet.com/tech/services-and-software/whats-this-smiley-your-guide-to-deciphering-every-emoji/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

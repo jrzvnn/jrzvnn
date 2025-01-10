@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The US DOJ indicts three Russian citizens for allegedly operating Bender.io and Sinbad.io crypto mixing services used by North Korea and ransomware gangs &lpar;Lorenzo Franceschi-Bicchierai/TechCrunch&rpar;](http://www.techmeme.com/250110/p16#a250110p16)
+ - [Joe Biden’s national climate adviser sees AI as a ‘massive opportunity’](https://www.theverge.com/2025/1/10/24339455/national-climate-adviser-ali-zaidi-interview-biden-trump-energy-transition)
  - [Advertisers are hijacking apps to beat Apple and developers&#39; privacy efforts](https://appleinsider.com/articles/25/01/10/advertisers-are-hijacking-apps-to-beat-apple-and-developers-privacy-efforts?utm_medium=rss)
  - [Amazon&#39;s $179 AirPods Pro 2 deal offers best price in 2025](https://appleinsider.com/articles/25/01/10/amazons-179-airpods-pro-2-deal-offers-best-price-in-2025?utm_medium=rss)
- - [Save Up to 70% Off These Official Apple Watch Bands Before It&#39;s Too Late](https://www.cnet.com/deals/save-up-to-70-off-these-official-apple-watch-bands-before-its-too-late/#ftag=CAD590a51e)
- - [CES, Siri, and Apple&#39;s peculiar overseas problems, on the AppleInsider Podcast](https://appleinsider.com/articles/25/01/10/ces-siri-and-apples-peculiar-overseas-problems-on-the-appleinsider-podcast?utm_medium=rss)
- - [How AT&amp;T, Verizon, and T-Mobile are responding to the LA wildfires](https://www.theverge.com/2025/1/10/24340543/la-wildfires-verizon-tmobile-att)<!-- TECH:END -->
+ - [CES, Siri, and Apple&#39;s peculiar overseas problems, on the AppleInsider Podcast](https://appleinsider.com/articles/25/01/10/ces-siri-and-apples-peculiar-overseas-problems-on-the-appleinsider-podcast?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

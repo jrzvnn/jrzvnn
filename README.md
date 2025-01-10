@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [If you are reading this: sorry Peter, we paid her](http://9gag.com/gag/a87qwO1)
- - 😝 [She&#39;s a trooper. Didn&#39;t even take a knee. Get that for me, would you, deary?](http://9gag.com/gag/aO8xp3v)
- - 💣 [The state of LA &lpar;more images in comments&rpar;](http://9gag.com/gag/aGyE7O5)
+ - 😝 [The state of LA &lpar;more images in comments&rpar;](http://9gag.com/gag/aGyE7O5)
  - 😝 [Theresa Virtue and Scott Moir. Scott: `C - can&#39;t tell` ; marries someone else.](http://9gag.com/gag/a5QXqpo)
- - 👉 [Grapes.](http://9gag.com/gag/aVvbL6v)<!-- MEMES:END -->
+ - 💣 [Nice job ladies&lpar;?&rpar;!](http://9gag.com/gag/aVvbVOd)
+ - 😝 [Ask 9gag](http://9gag.com/gag/aRBEo82)
+ - 👉 [Simon had the best f**king time of his life](http://9gag.com/gag/aZZDvD3)<!-- MEMES:END -->
 
 ---
 

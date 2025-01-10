@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [X&#39;s Grok AI Chatbot Comes to iOS as a Standalone App](https://www.cnet.com/tech/services-and-software/xs-grok-ai-chatbot-comes-to-ios-as-a-standalone-app/#ftag=CAD590a51e)
  - [Sources detail Zuckerberg&#39;s sprint to remake Meta after meeting with Trump at Thanksgiving; he no longer wants to keep his views of how Meta should be run quiet &lpar;New York Times&rpar;](http://www.techmeme.com/250110/p20#a250110p20)
  - [The TikTok Ban Would Be Social Media’s First Extinction-Level Event](https://www.wired.com/story/the-tiktok-ban-would-be-social-medias-first-extinction-level-event/)
- - [Apple appears to be working on an all-new Invites app for meetings and events](https://appleinsider.com/articles/25/01/08/apple-appears-to-be-working-on-an-all-new-invites-app-for-meetings-and-events?utm_medium=rss)
- - [Overhaul, which uses AI to anticipate freight shipping delays to fight cargo theft for customers like Microsoft, raised $55M, bringing total funding to ~$150M &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/250110/p19#a250110p19)
- - [Meta disbands diversity team and says DEI has become ‘charged’](https://www.theverge.com/2025/1/10/24340846/meta-disbands-diversity-dei-team-charged)<!-- TECH:END -->
+ - [Climate Change in 2024 Hit a Warming Mark Scientists Hoped We Would Avoid](https://www.cnet.com/science/climate/climate-change-in-2024-hit-a-warming-mark-scientists-hoped-we-would-avoid/#ftag=CAD590a51e)
+ - [Swing For a Hole-in-One With the PGA Tour on Apple Arcade in February](https://www.cnet.com/tech/gaming/swing-for-a-hole-in-one-with-the-pga-tour-on-apple-arcade-in-february/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

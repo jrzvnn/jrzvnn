@@ -167,10 +167,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [Cap? Any update on LA fires if these two are still around?](http://9gag.com/gag/aO8xGD2)
- - 😝 [First one](http://9gag.com/gag/aVvbV38)
- - 💣 [Not my job](http://9gag.com/gag/aAy0ZrZ)
- - 😝 [Cops is like aight keep moving](http://9gag.com/gag/aYQVmYw)
- - 👉 [He simply makes the best advertising!](http://9gag.com/gag/an7zVx0)<!-- MEMES:END -->
+ - 😝 [Instert What the hell happened here meme ..here](http://9gag.com/gag/aAy02oL)
+ - 💣 [Wow how is that possible.](http://9gag.com/gag/awyZ4oy)
+ - 😝 [`Overly attached girlfriend` 2024.](http://9gag.com/gag/agmoKMx)
+ - 👉 [Cops is like aight keep moving](http://9gag.com/gag/aYQVmYw)<!-- MEMES:END -->
 
 ---
 

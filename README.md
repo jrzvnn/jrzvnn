@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Typical UK nowadays , some far right woman stops typical uk citizen from bringing home a girl.](http://9gag.com/gag/abAvRyB)
- - 😝 [The moment he draws the ass... oh my God, dat ass.](http://9gag.com/gag/aAy0v82)
- - 💣 [Big brain time](http://9gag.com/gag/avyQmQn)
- - 😝 [WTF UK](http://9gag.com/gag/a5QXDZy)
- - 👉 [Simon had the best f**king time of his life](http://9gag.com/gag/aZZDvD3)<!-- MEMES:END -->
+ - 😝 [Testing your mortality with totally sick wheelies.](http://9gag.com/gag/awyZY38)
+ - 😝 [Satisfying](http://9gag.com/gag/aqyeD2P)
+ - 💣 [First one](http://9gag.com/gag/aVvbV38)
+ - 😝 [Thieves in Italy steal an ATM with a excavator. It can&#39;t be that much money in a single ATM to go this far?](http://9gag.com/gag/a7oqnye)
+ - 👉 [Typical UK nowadays , some far right woman stops typical uk citizen from bringing home a girl.](http://9gag.com/gag/abAvRyB)<!-- MEMES:END -->
 
 ---
 

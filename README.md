@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Apple appears to be working on an all-new Invites app for meetings and events](https://appleinsider.com/articles/25/01/08/apple-appears-to-be-working-on-an-all-new-invites-app-for-meetings-and-events?utm_medium=rss)
  - [Overhaul, which uses AI to anticipate freight shipping delays to fight cargo theft for customers like Microsoft, raised $55M, bringing total funding to ~$150M &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/250110/p19#a250110p19)
  - [Meta disbands diversity team and says DEI has become ‘charged’](https://www.theverge.com/2025/1/10/24340846/meta-disbands-diversity-dei-team-charged)
  - [Thinner, smarter, more connected: What to expect from the Apple TV](https://appleinsider.com/articles/25/01/10/thinner-smarter-more-connected-what-to-expect-from-the-apple-tv?utm_medium=rss)
- - [Apple teases opening of new downtown Miami store](https://appleinsider.com/articles/25/01/10/apple-teases-opening-of-new-downtown-miami-store?utm_medium=rss)
- - [Automattic cuts WordPress contribution hours, blames WP Engine](https://www.theverge.com/2025/1/10/24340717/automattic-wordpress-contribution-hours-cut-wp-engine)<!-- TECH:END -->
+ - [TikTok&#39;s US Supreme Court Trial: Here&#39;s What Was Said Today](https://www.cnet.com/news/social-media/tiktoks-us-supreme-court-trial-heres-what-was-said-today/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

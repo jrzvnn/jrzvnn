@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [TikTok still seems headed for a ban after its Supreme Court arguments](https://www.theverge.com/2025/1/10/24340859/supreme-court-tiktok-divest-ban-oral-arguments)
+ - [Amazon has quietly changed or removed pages on its corporate website that declared its commitment to DEI and other issues &lpar;The Information&rpar;](http://www.techmeme.com/250110/p22#a250110p22)
+ - [Amazon’s latest Blu-ray promo nets you three movies for just $33](https://www.theverge.com/2025/1/10/24340810/amazon-4k-blu-ray-sale-dune-oppenheimer-mario-barbie-deal)
  - [Sources: Rumble, Quora, and WeChat are among 15 companies from which Texas has demanded answers about their collection and use of data of under-18-year-olds &lpar;Paresh Dave/Wired&rpar;](http://www.techmeme.com/250110/p21#a250110p21)
- - [Sources detail Zuckerberg&#39;s sprint to remake Meta after meeting with Trump at Thanksgiving; he no longer wants to keep his views of how Meta should be run quiet &lpar;New York Times&rpar;](http://www.techmeme.com/250110/p20#a250110p20)
- - [The TikTok Ban Would Be Social Media’s First Extinction-Level Event](https://www.wired.com/story/the-tiktok-ban-would-be-social-medias-first-extinction-level-event/)
- - [Apple appears to be working on an all-new Invites app for meetings and events](https://appleinsider.com/articles/25/01/08/apple-appears-to-be-working-on-an-all-new-invites-app-for-meetings-and-events?utm_medium=rss)
- - [Overhaul, which uses AI to anticipate freight shipping delays to fight cargo theft for customers like Microsoft, raised $55M, bringing total funding to ~$150M &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/250110/p19#a250110p19)<!-- TECH:END -->
+ - [X&#39;s Grok AI Chatbot Comes to iOS as a Standalone App](https://www.cnet.com/tech/services-and-software/xs-grok-ai-chatbot-comes-to-ios-as-a-standalone-app/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

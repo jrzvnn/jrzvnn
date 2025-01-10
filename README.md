@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [‘All Hands on Deck’: How Watch Duty Keeps Up With the California Wildfires](https://www.wired.com/story/watch-duty-california-wildfires-ceo-founder-interview/)
+ - [Meta&#39;s new policies for contractors and staff moderating Facebook and Instagram allow dehumanizing speech, like &quot;a trans person isn&#39;t a he or she, it&#39;s an it&quot; &lpar;Casey Newton/Platformer&rpar;](http://www.techmeme.com/250109/p34#a250109p34)
  - [The Linux Foundation launches an initiative to fund developing Chromium projects in a &quot;neutral space&quot;, with support from Google, Meta, Microsoft, and Opera &lpar;Kevin Purdy/Ars Technica&rpar;](http://www.techmeme.com/250109/p33#a250109p33)
  - [Today&#39;s NYT Connections Hints, Answers and Help for Jan. 10, #579](https://www.cnet.com/tech/gaming/todays-nyt-connections-hints-answers-and-help-for-jan-10-579/#ftag=CAD590a51e)
- - [I&#39;m a Student Loan Expert. Borrowers Should Do These 6 Things Before the White House Transition](https://www.cnet.com/personal-finance/loans/im-a-student-loan-expert-borrowers-should-do-these-6-things-before-the-white-house-transition/#ftag=CAD590a51e)
- - [The Tide Could Finally Be Turning Against the LA Fires](https://www.wired.com/story/the-tide-could-finally-be-turning-against-the-la-fires/)
- - [Court docs: Mark Zuckerberg gave the Meta team training Llama AI models approval to use data from LibGen, which offers access to pirated, copyrighted material &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/250109/p32#a250109p32)<!-- TECH:END -->
+ - [I&#39;m a Student Loan Expert. Borrowers Should Do These 6 Things Before the White House Transition](https://www.cnet.com/personal-finance/loans/im-a-student-loan-expert-borrowers-should-do-these-6-things-before-the-white-house-transition/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

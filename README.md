@@ -161,7 +161,7 @@ R                        1 repo              ░░░░░░░░░░░�
  - [The Vergecast at CES 2025: the biggest stories and best gadgets](https://www.theverge.com/2025/1/10/24340568/ces-2025-vergecast-gadgets-tvs-ai)
  - [9 Best Mobile Game Controllers &lpar;2025&rpar;: iPhone or Android](https://www.wired.com/gallery/best-mobile-game-controllers-for-iphone-android/)
  - [The Government Wants to Protect Robux From Hackers](https://www.wired.com/story/the-government-wants-to-protect-robux-from-hackers-cfpb/)
- - [Disney, Fox, and WBD say they have collectively agreed to discontinue their Venu Sports streaming venture, and will focus on existing products &lpar;Alex Weprin/The Hollywood Reporter&rpar;](http://www.techmeme.com/250110/p10#a250110p10)<!-- TECH:END -->
+ - [Disney, Fox, and WBD say they have agreed to discontinue their Venu Sports streaming joint venture and will focus on existing products and distribution channels &lpar;Alex Weprin/The Hollywood Reporter&rpar;](http://www.techmeme.com/250110/p10#a250110p10)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

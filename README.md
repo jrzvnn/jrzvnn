@@ -158,7 +158,7 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- TECH:START -->
  - [Matt Mullenweg deactivates the accounts of several WordPress.org members, some of whom have been leading a push to create a new fork of the open-source project &lpar;Paul Sawers/TechCrunch&rpar;](http://www.techmeme.com/250111/p10#a250111p10)
- - [Anker’s display-equipped USB charger from CES is already on sale](https://www.theverge.com/2025/1/11/24339256/anker-charger-140-watt-amazon-smart-air-quality-monitor-deal-sale)
+ - [Anker’s display-equipped wall charger from CES is already on sale](https://www.theverge.com/2025/1/11/24339256/anker-charger-140-watt-amazon-smart-air-quality-monitor-deal-sale)
  - [We Saw the Future of Tech at CES: 6 Biggest Trends That Will Shape 2025](https://www.cnet.com/tech/we-saw-the-future-of-tech-at-ces-6-biggest-trends-that-will-shape-2025/#ftag=CAD590a51e)
  - [A Glowing Metal Ring Crashed to Earth. No One Knows Where It Came From](https://www.wired.com/story/a-glowing-metal-ring-crashed-to-earth-no-one-knows-where-it-came-from/)
  - [Mark Zuckerberg lamented the rise of &quot;culturally neutered&quot; companies that have sought to distance themselves from &quot;masculine energy&quot; &lpar;Riley Griffin/Bloomberg&rpar;](http://www.techmeme.com/250111/p9#a250111p9)<!-- TECH:END -->

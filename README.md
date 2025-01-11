@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [You can&#39;t make this shit up.](http://9gag.com/gag/aAy0m4R)
- - 😝 [Not my job](http://9gag.com/gag/aAy0ZrZ)
- - 💣 [Satisfying](http://9gag.com/gag/aqyeD2P)
- - 😝 [The state of LA &lpar;more images in comments&rpar;](http://9gag.com/gag/aGyE7O5)
- - 👉 [I got something for this](http://9gag.com/gag/aD2YQWN)<!-- MEMES:END -->
+ - 😝 [Who is going to pay for the damages!](http://9gag.com/gag/avyQDyd)
+ - 😝 [Cops is like aight keep moving](http://9gag.com/gag/aYQVmYw)
+ - 💣 [Woman thought people arrived in cars and scooters to help people with evacuation](http://9gag.com/gag/a1mPxpY)
+ - 😝 [Lily Rader: Interview Van, Pleasure Wagon!`](http://9gag.com/gag/an7zW7o)
+ - 👉 [Subtle but significant distinction](http://9gag.com/gag/ayN2vzy)<!-- MEMES:END -->
 
 ---
 

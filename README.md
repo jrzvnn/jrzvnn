@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Too cute!](http://9gag.com/gag/aQzEV4W)
- - 😝 [Dog protects man from attacker](http://9gag.com/gag/a2vKG6Z)
- - 💣 [Man explains the importance of placing planks on roof tiles](http://9gag.com/gag/avyQ9D5)
- - 😝 [You can&#39;t make this shit up.](http://9gag.com/gag/aAy0m4R)
- - 👉 [We almost had it](http://9gag.com/gag/agmojZg)<!-- MEMES:END -->
+ - 😝 [Why no imperial time units?](http://9gag.com/gag/a5QXx8L)
+ - 😝 [Wifey !!!!](http://9gag.com/gag/agmoK8v)
+ - 💣 [Bro shut her up real fast](http://9gag.com/gag/azx2BqB)
+ - 😝 [Simply genius](http://9gag.com/gag/aD2YPnN)
+ - 👉 [With some jam on the side](http://9gag.com/gag/arymrPK)<!-- MEMES:END -->
 
 ---
 

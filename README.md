@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [`Firefighter` victim blames future victims of house fires](http://9gag.com/gag/aVvbByd)
  - 😝 [You are all just one mommy away from happiness.](http://9gag.com/gag/aMVEW4P)
- - 💣 [Have you seen Shaq holds 600ml water bottle?](http://9gag.com/gag/azx2vbx)
- - 😝 [The Red Roar](http://9gag.com/gag/aoyKDXm)
- - 👉 [No words but clearly understood](http://9gag.com/gag/ae9Qd4B)<!-- MEMES:END -->
+ - 😝 [Have you seen Shaq holds 600ml water bottle?](http://9gag.com/gag/azx2vbx)
+ - 💣 [No words but clearly understood](http://9gag.com/gag/ae9Qd4B)
+ - 😝 [`Firefighter` victim blames future victims of house fires](http://9gag.com/gag/aVvbByd)
+ - 👉 [Motivation is always the key.](http://9gag.com/gag/amoAO9X)<!-- MEMES:END -->
 
 ---
 

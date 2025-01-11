@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Subtle but significant distinction](http://9gag.com/gag/ayN2vzy)
+ - 😝 [The state of LA &lpar;more images in comments&rpar;](http://9gag.com/gag/aGyE7O5)
+ - 😝 [Why yes, I&#39;m a fan of classic Italian cinema](http://9gag.com/gag/ajPVdDx)
+ - 💣 [Lily Rader: Interview Van, Pleasure Wagon!`](http://9gag.com/gag/an7zW7o)
  - 😝 [He simply makes the best advertising!](http://9gag.com/gag/an7zVx0)
- - 💣 [`Overly attached girlfriend` 2024.](http://9gag.com/gag/agmoKMx)
- - 😝 [President of Mexico just released this map](http://9gag.com/gag/aZZDzez)
- - 👉 [Cap? Any update on LA fires if these two are still around?](http://9gag.com/gag/aO8xGD2)<!-- MEMES:END -->
+ - 👉 [I do want that Porsche 911 but idk man.](http://9gag.com/gag/amoARMy)<!-- MEMES:END -->
 
 ---
 

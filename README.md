@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Lily Rader: Interview Van, Pleasure Wagon!`](http://9gag.com/gag/an7zW7o)
- - 😝 [Maddest car chase I\u2019ve seen. Dude in the car literally trying to kill him.](http://9gag.com/gag/aYQVdOV)
- - 💣 [You can&#39;t make this shit up.](http://9gag.com/gag/aAy0m4R)
- - 😝 [Amazon TV now unmutes itself during Prime Video commercial breaks](http://9gag.com/gag/aGyEbqw)
- - 👉 [Cap? Any update on LA fires if these two are still around?](http://9gag.com/gag/aO8xGD2)<!-- MEMES:END -->
+ - 😝 [He invited himself](http://9gag.com/gag/apR98Rn)
+ - 😝 [You can&#39;t make this shit up.](http://9gag.com/gag/aAy0m4R)
+ - 💣 [This old school clothes wringer.](http://9gag.com/gag/a2vKxKE)
+ - 😝 [It\u2019s beyond parody](http://9gag.com/gag/a7oqAXm)
+ - 👉 [Amazon TV now unmutes itself during Prime Video commercial breaks](http://9gag.com/gag/aGyEbqw)<!-- MEMES:END -->
 
 ---
 

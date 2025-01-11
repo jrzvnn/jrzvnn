@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [`Overly attached girlfriend` 2024.](http://9gag.com/gag/agmoKMx)
- - 😝 [\u200e\u200e\u200e\u200e\u200e\u200e\u200e\u200e\u200e\u200e\u200e\u200e\u200e\u200e\u200e\u200e\u200e\u200e\u200e\u200e\u200e\u200e\u200e\u200e\u200e\u200e\u200e\u200e\u200e\u200e\u200e\u200e\u200e\u200e\u200e\u200e\u200e\u200e\u200e\u200e\u200e\u200e\u200e\u200e\u200e\u200e\u200e\u200e\u200e\u200e\u200e\u200e\u200e\u200e\u200e\u200e](http://9gag.com/gag/aGyEbVZ)
- - 💣 [Amazon TV now unmutes itself during Prime Video commercial breaks](http://9gag.com/gag/aGyEbqw)
- - 😝 [Nightmare is loading...](http://9gag.com/gag/azx2onZ)
- - 👉 [Andrew dodged a bullet](http://9gag.com/gag/ayN2zGV)<!-- MEMES:END -->
+ - 😝 [Lily Rader: Interview Van, Pleasure Wagon!`](http://9gag.com/gag/an7zW7o)
+ - 😝 [If only](http://9gag.com/gag/aXPnd6V)
+ - 💣 [Why yes, I&#39;m a fan of classic Italian cinema](http://9gag.com/gag/ajPVdDx)
+ - 😝 [Maddest car chase I\u2019ve seen. Dude in the car literally trying to kill him.](http://9gag.com/gag/aYQVdOV)
+ - 👉 [`Overly attached girlfriend` 2024.](http://9gag.com/gag/agmoKMx)<!-- MEMES:END -->
 
 ---
 

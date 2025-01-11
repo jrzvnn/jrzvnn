@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Shure MV6 Review: A Clean Looking Gaming Mic](https://www.wired.com/review/shure-mv6/)
+ - [Why Honda is merging with Nissan: factories, SUVs, and China](https://www.theverge.com/2025/1/11/24339888/honda-nissan-merge-china-ev-hybrid-suv-factory-ces)
  - [A scammer details how voice phishing groups are abusing Apple&#39;s support line to generate &quot;account confirmation&quot; message prompts from Apple to their customers &lpar;Brian Krebs/Krebs on Security&rpar;](http://www.techmeme.com/250111/p7#a250111p7)
  - [Watch FA Cup Soccer: Livestream Chelsea vs. Morecambe From Anywhere](https://www.cnet.com/tech/services-and-software/watch-fa-cup-soccer-livestream-chelsea-vs-morecambe-from-anywhere/#ftag=CAD590a51e)
- - [I Witnessed the Future of Smart Glasses at CES. And It&#39;s All About Gestures](https://www.cnet.com/tech/mobile/i-witnessed-the-future-of-smart-glasses-at-ces-and-its-all-about-gestures/#ftag=CAD590a51e)
- - [Apple Needs to Launch a Foldable iPhone Flip. Here&#39;s Why.](https://www.cnet.com/tech/mobile/apple-needs-to-launch-a-foldable-iphone-flip-heres-why/#ftag=CAD590a51e)
- - [NFL Wild Card Weekend: How to Watch Steelers vs. Ravens Tonight](https://www.cnet.com/tech/services-and-software/nfl-wild-card-weekend-how-to-watch-steelers-vs-ravens/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [I Witnessed the Future of Smart Glasses at CES. And It&#39;s All About Gestures](https://www.cnet.com/tech/mobile/i-witnessed-the-future-of-smart-glasses-at-ces-and-its-all-about-gestures/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

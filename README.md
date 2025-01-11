@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Order vs Chaos.](http://9gag.com/gag/aRBE9nj)
- - 😝 [Dog Loyalty](http://9gag.com/gag/agmoZYx)
- - 💣 [Japan town in Vietnam. Reliever of all stress!](http://9gag.com/gag/aLn1brM)
- - 😝 [&#39;La Brigade Chim\u00e9rique&#39; a new animated series coming from France produced by Louis Leterrier and Antoine Chareydon. Plot: The Chimera Brigade is set in an interwar Paris, in a world where Marie Curie&#39;s discovery of radium leads to the emergence of the first superheroes.](http://9gag.com/gag/a5QX9Mo)
- - 👉 [Can relate](http://9gag.com/gag/aPAgV6R)<!-- MEMES:END -->
+ - 😝 [Modern Tarzan](http://9gag.com/gag/a4Pox3d)
+ - 😝 [What the.... Nature!!](http://9gag.com/gag/awyZ8wR)
+ - 💣 [\u200e\u200e\u200e\u200e\u200e\u200e\u200e\u200e\u200e\u200e\u200e\u200e\u200e\u200e\u200e\u200e\u200e\u200e\u200e\u200e\u200e\u200e\u200e\u200e\u200e\u200e\u200e\u200e\u200e\u200e\u200e\u200e\u200e\u200e\u200e\u200e\u200e\u200e\u200e\u200e\u200e\u200e\u200e\u200e\u200e\u200e\u200e\u200e\u200e\u200e\u200e\u200e\u200e\u200e\u200e\u200e](http://9gag.com/gag/aGyEbVZ)
+ - 😝 [This brother&#39;s reaction to seeing his sister](http://9gag.com/gag/aYQVmrm)
+ - 👉 [Concrete and stones.That\u2019s the miracle.](http://9gag.com/gag/avyQB0E)<!-- MEMES:END -->
 
 ---
 

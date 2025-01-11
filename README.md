@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Bravo to this Women](http://9gag.com/gag/a2vKjQw)
- - 😝 [Order vs Chaos.](http://9gag.com/gag/aRBE9nj)
- - 💣 [Dog Loyalty](http://9gag.com/gag/agmoZYx)
- - 😝 [Japan town in Vietnam. Reliever of all stress!](http://9gag.com/gag/aLn1brM)
- - 👉 [Can relate](http://9gag.com/gag/aPAgV6R)<!-- MEMES:END -->
+ - 😝 [Duolingo can be good sometimes](http://9gag.com/gag/aMVEyzG)
+ - 😝 [Cap? Any update on LA fires if these two are still around?](http://9gag.com/gag/aO8xGD2)
+ - 💣 [Not my job](http://9gag.com/gag/aAy0ZrZ)
+ - 😝 [Cops is like aight keep moving](http://9gag.com/gag/aYQVmYw)
+ - 👉 [When the pilot you hired turns out to be a legend](http://9gag.com/gag/awyZP64)<!-- MEMES:END -->
 
 ---
 

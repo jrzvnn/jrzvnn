@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Maddest car chase I\u2019ve seen. Dude in the car literally trying to kill him.](http://9gag.com/gag/aYQVdOV)
- - 😝 [Who is going to pay for the damages!](http://9gag.com/gag/avyQDyd)
- - 💣 [Cops is like aight keep moving](http://9gag.com/gag/aYQVmYw)
- - 😝 [Andrew dodged a bullet](http://9gag.com/gag/ayN2zGV)
- - 👉 [`Firefighter` victim blames future victims of house fires](http://9gag.com/gag/aVvbByd)<!-- MEMES:END -->
+ - 😝 [The reason](http://9gag.com/gag/abAvKb8)
+ - 😝 [Simply genius](http://9gag.com/gag/aD2YPnN)
+ - 💣 [Title](http://9gag.com/gag/a34Zpr1)
+ - 😝 [90&#39;s Oldschool Hiphop meets Latino](http://9gag.com/gag/a4PoxA6)
+ - 👉 [Bravo to this Women](http://9gag.com/gag/a2vKjQw)<!-- MEMES:END -->
 
 ---
 

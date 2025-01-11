@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [If only](http://9gag.com/gag/aXPnd6V)
- - 😝 [Cops is like aight keep moving](http://9gag.com/gag/aYQVmYw)
- - 💣 [Not my job](http://9gag.com/gag/aAy0ZrZ)
- - 😝 [Duolingo can be good sometimes](http://9gag.com/gag/aMVEyzG)
- - 👉 [You can&#39;t make this shit up.](http://9gag.com/gag/aAy0m4R)<!-- MEMES:END -->
+ - 😝 [This old school clothes wringer.](http://9gag.com/gag/a2vKxKE)
+ - 😝 [Blackrock be like: JACKPOT!](http://9gag.com/gag/a7oqAYL)
+ - 💣 [If only](http://9gag.com/gag/aXPnd6V)
+ - 😝 [Andrew dodged a bullet](http://9gag.com/gag/ayN2zGV)
+ - 👉 [Motivation is always the key.](http://9gag.com/gag/amoAO9X)<!-- MEMES:END -->
 
 ---
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [The state of LA &lpar;more images in comments&rpar;](http://9gag.com/gag/aGyE7O5)
- - 😝 [Why yes, I&#39;m a fan of classic Italian cinema](http://9gag.com/gag/ajPVdDx)
- - 💣 [Lily Rader: Interview Van, Pleasure Wagon!`](http://9gag.com/gag/an7zW7o)
- - 😝 [He simply makes the best advertising!](http://9gag.com/gag/an7zVx0)
- - 👉 [I do want that Porsche 911 but idk man.](http://9gag.com/gag/amoARMy)<!-- MEMES:END -->
+ - 😝 [Satisfying](http://9gag.com/gag/aqyeD2P)
+ - 😝 [Fun sized](http://9gag.com/gag/ajPVyx8)
+ - 💣 [Amazon TV now unmutes itself during Prime Video commercial breaks](http://9gag.com/gag/aGyEbqw)
+ - 😝 [You can&#39;t make this shit up.](http://9gag.com/gag/aAy0m4R)
+ - 👉 [President of Mexico just released this map](http://9gag.com/gag/aZZDzez)<!-- MEMES:END -->
 
 ---
 

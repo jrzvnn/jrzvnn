@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Movie 43 is the most underrated comedy of all time](http://9gag.com/gag/azx2ogN)
- - 😝 [He simply makes the best advertising!](http://9gag.com/gag/an7zVx0)
- - 💣 [The Red Roar](http://9gag.com/gag/aoyKDXm)
- - 😝 [`Firefighter` victim blames future victims of house fires](http://9gag.com/gag/aVvbByd)
- - 👉 [It\u2019s beyond parody](http://9gag.com/gag/a7oqAXm)<!-- MEMES:END -->
+ - 😝 [Satisfying](http://9gag.com/gag/aqyeD2P)
+ - 😝 [The Red Roar](http://9gag.com/gag/aoyKDXm)
+ - 💣 [WTF](http://9gag.com/gag/azx2QDN)
+ - 😝 [If only](http://9gag.com/gag/aXPnd6V)
+ - 👉 [This old school clothes wringer.](http://9gag.com/gag/a2vKxKE)<!-- MEMES:END -->
 
 ---
 

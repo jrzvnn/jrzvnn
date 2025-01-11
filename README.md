@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Accurate Stormtroopers!](http://9gag.com/gag/aQzEVLw)
- - 😝 [Bro shut her up real fast](http://9gag.com/gag/azx2BqB)
- - 💣 [Why no imperial time units?](http://9gag.com/gag/a5QXx8L)
- - 😝 [With some jam on the side](http://9gag.com/gag/arymrPK)
- - 👉 [This COP is legend](http://9gag.com/gag/ae9QR05)<!-- MEMES:END -->
+ - 😝 [Irl](http://9gag.com/gag/aW4GDeK)
+ - 😝 [Blackrock be like: JACKPOT!](http://9gag.com/gag/a7oqAYL)
+ - 💣 [This had me wheezing](http://9gag.com/gag/aD2YONx)
+ - 😝 [Thieves in Italy steal an ATM with a excavator. It can&#39;t be that much money in a single ATM to go this far?](http://9gag.com/gag/a7oqnye)
+ - 👉 [Satisfying](http://9gag.com/gag/aqyeD2P)<!-- MEMES:END -->
 
 ---
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The 25 Best Shows on Amazon Prime Right Now &lpar;January 2025&rpar;](https://www.wired.com/story/best-shows-amazon-prime/)
  - [Best Internet Providers in Bangor, Maine](https://www.cnet.com/home/internet/best-internet-providers-in-bangor-me/#ftag=CAD590a51e)
  - [Los Angeles Will Remain at High Risk of Fire Into Next Week](https://www.wired.com/story/los-angeles-will-remain-at-high-risk-of-fire-into-next-week/)
  - [CES 2025: See the 35 Coolest Tech Products We Can&#39;t Shake](https://www.cnet.com/pictures/ces-2025-see-the-35-coolest-tech-products-we-cant-shake/#ftag=CAD590a51e)
- - [Our 8 Favorite Indoor Air Quality Monitors We’ve Tried &lpar;2025&rpar;](https://www.wired.com/gallery/best-indoor-air-quality-monitors/)
- - [My First Ride in a Solar-Powered EV That Ditches the Plug](https://www.cnet.com/roadshow/news/my-first-ride-in-a-solar-powered-ev-that-ditches-the-plug/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Our 8 Favorite Indoor Air Quality Monitors We’ve Tried &lpar;2025&rpar;](https://www.wired.com/gallery/best-indoor-air-quality-monitors/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

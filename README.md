@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [The Red Roar](http://9gag.com/gag/aoyKDXm)
  - 😝 [Maddest car chase I\u2019ve seen. Dude in the car literally trying to kill him.](http://9gag.com/gag/aYQVdOV)
- - 😝 [Modern Tarzan](http://9gag.com/gag/a4Pox3d)
- - 💣 [KCD 2 reviews are out](http://9gag.com/gag/abAvK5B)
- - 😝 [Why are you working from home today??](http://9gag.com/gag/amoAOdy)
- - 👉 [Duolingo can be good sometimes](http://9gag.com/gag/aMVEyzG)<!-- MEMES:END -->
+ - 💣 [Modern Tarzan](http://9gag.com/gag/a4Pox3d)
+ - 😝 [KCD 2 reviews are out](http://9gag.com/gag/abAvK5B)
+ - 👉 [Why are you working from home today??](http://9gag.com/gag/amoAOdy)<!-- MEMES:END -->
 
 ---
 

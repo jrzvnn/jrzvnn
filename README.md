@@ -166,9 +166,9 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Cap? Any update on LA fires if these two are still around?](http://9gag.com/gag/aO8xGD2)
- - 😝 [Who remembers this guy](http://9gag.com/gag/abAvRN9)
- - 💣 [Andrew dodged a bullet](http://9gag.com/gag/ayN2zGV)
+ - 😝 [KCD 2 reviews are out](http://9gag.com/gag/abAvK5B)
+ - 😝 [He simply makes the best advertising!](http://9gag.com/gag/an7zVx0)
+ - 💣 [If only](http://9gag.com/gag/aXPnd6V)
  - 😝 [You can&#39;t make this shit up.](http://9gag.com/gag/aAy0m4R)
  - 👉 [Motivation is always the key.](http://9gag.com/gag/amoAO9X)<!-- MEMES:END -->
 

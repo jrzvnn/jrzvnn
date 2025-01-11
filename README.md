@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [The Red Roar](http://9gag.com/gag/aoyKDXm)
- - 😝 [Maddest car chase I\u2019ve seen. Dude in the car literally trying to kill him.](http://9gag.com/gag/aYQVdOV)
- - 💣 [Modern Tarzan](http://9gag.com/gag/a4Pox3d)
- - 😝 [KCD 2 reviews are out](http://9gag.com/gag/abAvK5B)
- - 👉 [Why are you working from home today??](http://9gag.com/gag/amoAOdy)<!-- MEMES:END -->
+ - 😝 [Can relate](http://9gag.com/gag/aPAgV6R)
+ - 😝 [Chair stop motion](http://9gag.com/gag/ae9QPwv)
+ - 💣 [Motivation is always the key.](http://9gag.com/gag/amoAO9X)
+ - 😝 [Bro be like `With every cell of my body`](http://9gag.com/gag/aLn1O85)
+ - 👉 [Everybody all together now\u2026 \u201coh no, anyway\u201d](http://9gag.com/gag/aRBE8bB)<!-- MEMES:END -->
 
 ---
 

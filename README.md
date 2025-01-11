@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Lily Rader: Interview Van, Pleasure Wagon!`](http://9gag.com/gag/an7zW7o)
- - 😝 [If only](http://9gag.com/gag/aXPnd6V)
- - 💣 [Why yes, I&#39;m a fan of classic Italian cinema](http://9gag.com/gag/ajPVdDx)
- - 😝 [Maddest car chase I\u2019ve seen. Dude in the car literally trying to kill him.](http://9gag.com/gag/aYQVdOV)
- - 👉 [`Overly attached girlfriend` 2024.](http://9gag.com/gag/agmoKMx)<!-- MEMES:END -->
+ - 😝 [Cap? Any update on LA fires if these two are still around?](http://9gag.com/gag/aO8xGD2)
+ - 😝 [Who remembers this guy](http://9gag.com/gag/abAvRN9)
+ - 💣 [Andrew dodged a bullet](http://9gag.com/gag/ayN2zGV)
+ - 😝 [You can&#39;t make this shit up.](http://9gag.com/gag/aAy0m4R)
+ - 👉 [Motivation is always the key.](http://9gag.com/gag/amoAO9X)<!-- MEMES:END -->
 
 ---
 

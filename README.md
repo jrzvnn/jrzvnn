@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [You are all just one mommy away from happiness.](http://9gag.com/gag/aMVEW4P)
- - 😝 [Have you seen Shaq holds 600ml water bottle?](http://9gag.com/gag/azx2vbx)
- - 💣 [No words but clearly understood](http://9gag.com/gag/ae9Qd4B)
- - 😝 [`Firefighter` victim blames future victims of house fires](http://9gag.com/gag/aVvbByd)
- - 👉 [Motivation is always the key.](http://9gag.com/gag/amoAO9X)<!-- MEMES:END -->
+ - 😝 [Yeah\u2026\ud83e\udd14](http://9gag.com/gag/a0e4wDn)
+ - 😝 [Motivation is always the key.](http://9gag.com/gag/amoAO9X)
+ - 💣 [Duolingo can be good sometimes](http://9gag.com/gag/aMVEyzG)
+ - 😝 [Andrew dodged a bullet](http://9gag.com/gag/ayN2zGV)
+ - 👉 [Brand new floor DESTROYED by painters\u2026](http://9gag.com/gag/a4Pom2d)<!-- MEMES:END -->
 
 ---
 

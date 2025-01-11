@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Commerce Secretary Gina Raimondo says TSMC has begun producing advanced 4nm chips &quot;on par in yield and quality with Taiwan&quot; for US customers in Phoenix, Arizona &lpar;David Shepardson/Reuters&rpar;](http://www.techmeme.com/250111/p1#a250111p1)
  - [Sources: Foxconn stops sending Chinese employees to iPhone factories in India and recalls already stationed staff, while China stalls equipment shipments &lpar;Rest of World&rpar;](http://www.techmeme.com/250110/p37#a250110p37)
  - [Today&#39;s NYT Connections: Sports Edition Hints and Answers for Jan. 11, #110](https://www.cnet.com/tech/gaming/todays-nyt-connections-sports-edition-hints-and-answers-for-jan-11-110/#ftag=CAD590a51e)
  - [Today&#39;s NYT Strands Hints, Answers and Help for Jan. 11, #314](https://www.cnet.com/tech/gaming/todays-nyt-strands-hints-answers-and-help-for-jan-11-314/#ftag=CAD590a51e)
- - [A look at the burgeoning underground market connecting job seekers to anonymous employees willing to make a referral at Microsoft, Nvidia, Spotify, and others &lpar;Jo Constantz/Bloomberg&rpar;](http://www.techmeme.com/250110/p36#a250110p36)
- - [Intel still dreams of modular PCs — it brought a tablet laptop gaming handheld to CES](https://www.theverge.com/2025/1/10/24341121/intel-quanta-modular-computer-ces-2025)<!-- TECH:END -->
+ - [A look at the burgeoning underground market connecting job seekers to anonymous employees willing to make a referral at Microsoft, Nvidia, Spotify, and others &lpar;Jo Constantz/Bloomberg&rpar;](http://www.techmeme.com/250110/p36#a250110p36)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

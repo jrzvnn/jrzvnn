@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [Maddest car chase I\u2019ve seen. Dude in the car literally trying to kill him.](http://9gag.com/gag/aYQVdOV)
  - 😝 [Modern Tarzan](http://9gag.com/gag/a4Pox3d)
- - 😝 [Andrew dodged a bullet](http://9gag.com/gag/ayN2zGV)
- - 💣 [No words but clearly understood](http://9gag.com/gag/ae9Qd4B)
- - 😝 [Concrete and stones.That\u2019s the miracle.](http://9gag.com/gag/avyQB0E)
- - 👉 [Amazon TV now unmutes itself during Prime Video commercial breaks](http://9gag.com/gag/aGyEbqw)<!-- MEMES:END -->
+ - 💣 [KCD 2 reviews are out](http://9gag.com/gag/abAvK5B)
+ - 😝 [Why are you working from home today??](http://9gag.com/gag/amoAOdy)
+ - 👉 [Duolingo can be good sometimes](http://9gag.com/gag/aMVEyzG)<!-- MEMES:END -->
 
 ---
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Huge recent fundraising deals for Databricks, SpaceX, and OpenAI may delay their IPOs; Forge Global says the seven largest US private firms are worth $695B &lpar;George Hammond/Financial Times&rpar;](http://www.techmeme.com/250111/p5#a250111p5)
  - [Sources: 1H 2025 iPhone shipments to decline ~6%, annual shipments to remain flat at around 220M to 225M units; ultra-thin iPhone&#39;s thinnest part will be ~5.5mm &lpar;Ming-Chi Kuo&rpar;](http://www.techmeme.com/250111/p4#a250111p4)
  - [OpenAI&#39;s crawlers took down e-commerce site Triplegangers by relentlessly trying to scrape the entire site, whose robots.txt file was not properly configured &lpar;Julie Bort/TechCrunch&rpar;](http://www.techmeme.com/250111/p3#a250111p3)
  - [This 8TB 16-inch MacBook Pro is on sale for $2,119 today only](https://appleinsider.com/articles/25/01/11/this-8tb-16-inch-macbook-pro-is-on-sale-for-2119-today-only?utm_medium=rss)
- - [Today&#39;s NYT Mini Crossword Answers for Saturday, Jan. 11](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-saturday-jan-11/#ftag=CAD590a51e)
- - [Sources: TSMC cuts ties with Singapore-based PowerAIR due to a potential breach of US export controls, after a TSMC chip was found in a Huawei AI processor &lpar;Che Pan/South China Morning Post&rpar;](http://www.techmeme.com/250111/p2#a250111p2)<!-- TECH:END -->
+ - [Today&#39;s NYT Mini Crossword Answers for Saturday, Jan. 11](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-saturday-jan-11/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

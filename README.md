@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Order vs Chaos.](http://9gag.com/gag/aRBE9nj)
- - 😝 [Japan town in Vietnam. Reliever of all stress!](http://9gag.com/gag/aLn1brM)
- - 💣 [&#39;La Brigade Chim\u00e9rique&#39; a new animated series coming from France produced by Louis Leterrier and Antoine Chareydon. Plot: The Chimera Brigade is set in an interwar Paris, in a world where Marie Curie&#39;s discovery of radium leads to the emergence of the first superheroes.](http://9gag.com/gag/a5QX9Mo)
- - 😝 [Confusion of the highest orda](http://9gag.com/gag/aXPnmn6)
- - 👉 [Can relate](http://9gag.com/gag/aPAgV6R)<!-- MEMES:END -->
+ - 😝 [Cops is like aight keep moving](http://9gag.com/gag/aYQVmYw)
+ - 😝 [Maddest car chase I\u2019ve seen. Dude in the car literally trying to kill him.](http://9gag.com/gag/aYQVdOV)
+ - 💣 [Andrew dodged a bullet](http://9gag.com/gag/ayN2zGV)
+ - 😝 [Cap? Any update on LA fires if these two are still around?](http://9gag.com/gag/aO8xGD2)
+ - 👉 [This brother&#39;s reaction to seeing his sister](http://9gag.com/gag/aYQVmrm)<!-- MEMES:END -->
 
 ---
 

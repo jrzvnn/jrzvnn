@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [The reason](http://9gag.com/gag/abAvKb8)
- - 😝 [Simply genius](http://9gag.com/gag/aD2YPnN)
- - 💣 [Title](http://9gag.com/gag/a34Zpr1)
- - 😝 [90&#39;s Oldschool Hiphop meets Latino](http://9gag.com/gag/a4PoxA6)
- - 👉 [Bravo to this Women](http://9gag.com/gag/a2vKjQw)<!-- MEMES:END -->
+ - 😝 [Andrew dodged a bullet](http://9gag.com/gag/ayN2zGV)
+ - 😝 [Woman thought people arrived in cars and scooters to help people with evacuation](http://9gag.com/gag/a1mPxpY)
+ - 💣 [Amazon TV now unmutes itself during Prime Video commercial breaks](http://9gag.com/gag/aGyEbqw)
+ - 😝 [Cap? Any update on LA fires if these two are still around?](http://9gag.com/gag/aO8xGD2)
+ - 👉 [Why yes, I&#39;m a fan of classic Italian cinema](http://9gag.com/gag/ajPVdDx)<!-- MEMES:END -->
 
 ---
 

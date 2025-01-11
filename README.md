@@ -161,7 +161,7 @@ R                        1 repo              ░░░░░░░░░░░�
  - [Mark Zuckerberg lamented the rise of &quot;culturally neutered&quot; companies that have sought to distance themselves from &quot;masculine energy&quot; &lpar;Riley Griffin/Bloomberg&rpar;](http://www.techmeme.com/250111/p9#a250111p9)
  - [Everything we know &lpar;and think we know&rpar; about the Nintendo Switch 2](https://www.theverge.com/2025/1/11/24341043/nintendo-switch-2-rumors-details-leaks)
  - [New renders show the Samsung Galaxy S25 lineup ahead of Unpacked](https://www.theverge.com/2025/1/11/24341376/samsung-galaxy-s25-plus-ultra-renders-leaked)
- - [A look at Zuckerberg&#39;s lies on Joe Rogan&#39;s podcast, as he tried to get listeners riled up about agencies like CFPB and give GOP a new tech target in Apple &lpar;Elizabeth Lopatto/The Verge&rpar;](http://www.techmeme.com/250111/p8#a250111p8)<!-- TECH:END -->
+ - [In Joe Rogan&#39;s softball interview, Zuckerberg pointed to Apple and agencies like CFPB as new targets for the GOP, without mentioning GOP&#39;s pressure on Meta &lpar;Elizabeth Lopatto/The Verge&rpar;](http://www.techmeme.com/250111/p8#a250111p8)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

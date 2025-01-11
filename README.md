@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [This old school clothes wringer.](http://9gag.com/gag/a2vKxKE)
- - 😝 [Blackrock be like: JACKPOT!](http://9gag.com/gag/a7oqAYL)
- - 💣 [If only](http://9gag.com/gag/aXPnd6V)
- - 😝 [Andrew dodged a bullet](http://9gag.com/gag/ayN2zGV)
- - 👉 [Motivation is always the key.](http://9gag.com/gag/amoAO9X)<!-- MEMES:END -->
+ - 😝 [Order vs Chaos.](http://9gag.com/gag/aRBE9nj)
+ - 😝 [Japan town in Vietnam. Reliever of all stress!](http://9gag.com/gag/aLn1brM)
+ - 💣 [&#39;La Brigade Chim\u00e9rique&#39; a new animated series coming from France produced by Louis Leterrier and Antoine Chareydon. Plot: The Chimera Brigade is set in an interwar Paris, in a world where Marie Curie&#39;s discovery of radium leads to the emergence of the first superheroes.](http://9gag.com/gag/a5QX9Mo)
+ - 😝 [Confusion of the highest orda](http://9gag.com/gag/aXPnmn6)
+ - 👉 [Can relate](http://9gag.com/gag/aPAgV6R)<!-- MEMES:END -->
 
 ---
 

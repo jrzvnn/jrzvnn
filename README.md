@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [The reason](http://9gag.com/gag/abAvKb8)
- - 😝 [Simply genius](http://9gag.com/gag/aD2YPnN)
- - 💣 [Title](http://9gag.com/gag/a34Zpr1)
- - 😝 [This COP is legend](http://9gag.com/gag/ae9QR05)
- - 👉 [Bravo to this Women](http://9gag.com/gag/a2vKjQw)<!-- MEMES:END -->
+ - 😝 [He simply makes the best advertising!](http://9gag.com/gag/an7zVx0)
+ - 😝 [\u200e\u200e\u200e\u200e\u200e\u200e\u200e\u200e\u200e\u200e\u200e\u200e\u200e\u200e\u200e\u200e\u200e\u200e\u200e\u200e\u200e\u200e\u200e\u200e\u200e\u200e\u200e\u200e\u200e\u200e\u200e\u200e\u200e\u200e\u200e\u200e\u200e\u200e\u200e\u200e\u200e\u200e\u200e\u200e\u200e\u200e\u200e\u200e\u200e\u200e\u200e\u200e\u200e\u200e\u200e\u200e](http://9gag.com/gag/aGyEbVZ)
+ - 💣 [Subtle but significant distinction](http://9gag.com/gag/ayN2vzy)
+ - 😝 [Cap? Any update on LA fires if these two are still around?](http://9gag.com/gag/aO8xGD2)
+ - 👉 [You can&#39;t make this shit up.](http://9gag.com/gag/aAy0m4R)<!-- MEMES:END -->
 
 ---
 

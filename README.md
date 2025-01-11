@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Cops is like aight keep moving](http://9gag.com/gag/aYQVmYw)
- - 😝 [Maddest car chase I\u2019ve seen. Dude in the car literally trying to kill him.](http://9gag.com/gag/aYQVdOV)
- - 💣 [Andrew dodged a bullet](http://9gag.com/gag/ayN2zGV)
- - 😝 [Cap? Any update on LA fires if these two are still around?](http://9gag.com/gag/aO8xGD2)
- - 👉 [This brother&#39;s reaction to seeing his sister](http://9gag.com/gag/aYQVmrm)<!-- MEMES:END -->
+ - 😝 [`Firefighter` victim blames future victims of house fires](http://9gag.com/gag/aVvbByd)
+ - 😝 [You are all just one mommy away from happiness.](http://9gag.com/gag/aMVEW4P)
+ - 💣 [Have you seen Shaq holds 600ml water bottle?](http://9gag.com/gag/azx2vbx)
+ - 😝 [The Red Roar](http://9gag.com/gag/aoyKDXm)
+ - 👉 [No words but clearly understood](http://9gag.com/gag/ae9Qd4B)<!-- MEMES:END -->
 
 ---
 

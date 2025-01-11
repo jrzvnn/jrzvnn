@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [`Overly attached girlfriend` 2024.](http://9gag.com/gag/agmoKMx)
  - 😝 [Satisfying](http://9gag.com/gag/aqyeD2P)
- - 💣 [Subtle but significant distinction](http://9gag.com/gag/ayN2vzy)
  - 😝 [Dog protects man from attacker](http://9gag.com/gag/a2vKG6Z)
- - 👉 [Honeybee counter attack against giant wasp](http://9gag.com/gag/aO8xjz6)<!-- MEMES:END -->
+ - 💣 [Why yes, I&#39;m a fan of classic Italian cinema](http://9gag.com/gag/ajPVdDx)
+ - 😝 [Simon had the best f**king time of his life](http://9gag.com/gag/aZZDvD3)
+ - 👉 [Subtle but significant distinction](http://9gag.com/gag/ayN2vzy)<!-- MEMES:END -->
 
 ---
 

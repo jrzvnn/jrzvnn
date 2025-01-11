@@ -158,10 +158,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- TECH:START -->
  - [A look at Watch Duty, a free app that has become a crucial lifeline for LA during the wildfires by showing active fires, evacuation zones, and other vital info &lpar;Abigail Bassett/The Verge&rpar;](http://www.techmeme.com/250111/p14#a250111p14)
+ - [Best Internet Providers in Spring Hill, Florida](https://www.cnet.com/home/internet/best-internet-providers-in-spring-hill-fl/#ftag=CAD590a51e)
+ - [Next-Gen Tech Galore: Everything That Grabbed Our Eyes at CES 2025](https://www.cnet.com/tech/next-gen-tech-galore-everything-that-grabbed-our-eyes-at-ces-2025/#ftag=CAD590a51e)
  - [UK&#39;s tech secretary says its Online Safety Act is &quot;not up for negotiation,&quot; after Zuckerberg vowed to work with Trump to pressure countries &quot;censoring&quot; content &lpar;Michael Savage/The Guardian&rpar;](http://www.techmeme.com/250111/p13#a250111p13)
- - [Today&#39;s NYT Connections Hints, Answers and Help for Jan. 12, #581](https://www.cnet.com/tech/gaming/todays-nyt-connections-hints-answers-and-help-for-jan-12-581/#ftag=CAD590a51e)
- - [Today&#39;s Wordle Hints, Answer and Help for Jan. 12, #1303](https://www.cnet.com/tech/gaming/todays-wordle-hints-answer-and-help-for-jan-12-1303/#ftag=CAD590a51e)
- - [How Watch Duty’s wildfire tracking app became a crucial lifeline for LA](https://www.theverge.com/2025/1/11/24340913/watch-duty-wildfire-tracking-app-los-angeles-nonprofit)<!-- TECH:END -->
+ - [Today&#39;s NYT Connections Hints, Answers and Help for Jan. 12, #581](https://www.cnet.com/tech/gaming/todays-nyt-connections-hints-answers-and-help-for-jan-12-581/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

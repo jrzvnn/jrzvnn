@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Irl](http://9gag.com/gag/aW4GDeK)
- - 😝 [Blackrock be like: JACKPOT!](http://9gag.com/gag/a7oqAYL)
- - 💣 [This had me wheezing](http://9gag.com/gag/aD2YONx)
- - 😝 [Thieves in Italy steal an ATM with a excavator. It can&#39;t be that much money in a single ATM to go this far?](http://9gag.com/gag/a7oqnye)
- - 👉 [Satisfying](http://9gag.com/gag/aqyeD2P)<!-- MEMES:END -->
+ - 😝 [Movie 43 is the most underrated comedy of all time](http://9gag.com/gag/azx2ogN)
+ - 😝 [He simply makes the best advertising!](http://9gag.com/gag/an7zVx0)
+ - 💣 [The Red Roar](http://9gag.com/gag/aoyKDXm)
+ - 😝 [`Firefighter` victim blames future victims of house fires](http://9gag.com/gag/aVvbByd)
+ - 👉 [It\u2019s beyond parody](http://9gag.com/gag/a7oqAXm)<!-- MEMES:END -->
 
 ---
 

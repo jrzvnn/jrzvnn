@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Zuckerberg urged Trump to stop the EU from fining US tech companies, which he says were forced by EU to pay $30B+ for legal violations over the past two decades &lpar;Aitor Hern&amp;aacute;ndez-Morales/Politico&rpar;](http://www.techmeme.com/250111/p11#a250111p11)
  - [Latin American Fact-Checkers Brace for Meta&#39;s Next Moves](https://www.wired.com/story/hispanic-fact-checkers-react-meta-disinformation/)
  - [Amazon Prime will shut down its clothing try-on program](https://www.theverge.com/2025/1/11/24341422/amazon-prime-wardrobe-try-before-you-buy-shutting-down)
  - [Matt Mullenweg deactivates the accounts of several WordPress.org members, some of whom have been leading a push to create a new fork of the open-source project &lpar;Paul Sawers/TechCrunch&rpar;](http://www.techmeme.com/250111/p10#a250111p10)
- - [Anker’s display-equipped wall charger from CES is already on sale](https://www.theverge.com/2025/1/11/24339256/anker-charger-140-watt-amazon-smart-air-quality-monitor-deal-sale)
- - [The 5 Best Mattress Toppers of 2025](https://www.cnet.com/health/sleep/best-mattress-toppers/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Anker’s display-equipped wall charger from CES is already on sale](https://www.theverge.com/2025/1/11/24339256/anker-charger-140-watt-amazon-smart-air-quality-monitor-deal-sale)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

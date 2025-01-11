@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [OpenAI&#39;s crawlers took down e-commerce site Triplegangers by relentlessly trying to scrape the entire site, whose robots.txt file was not properly configured &lpar;Julie Bort/TechCrunch&rpar;](http://www.techmeme.com/250111/p3#a250111p3)
  - [This 8TB 16-inch MacBook Pro is on sale for $2,119 today only](https://appleinsider.com/articles/25/01/11/this-8tb-16-inch-macbook-pro-is-on-sale-for-2119-today-only?utm_medium=rss)
  - [Sources: TSMC cuts ties with Singapore-based PowerAIR due to a potential breach of US export controls, after a TSMC chip was found in a Huawei AI processor &lpar;Che Pan/South China Morning Post&rpar;](http://www.techmeme.com/250111/p2#a250111p2)
  - [Commerce Secretary Gina Raimondo says TSMC has begun producing advanced 4nm chips &quot;on par in yield and quality with Taiwan&quot; for US customers in Phoenix, Arizona &lpar;David Shepardson/Reuters&rpar;](http://www.techmeme.com/250111/p1#a250111p1)
- - [Sources: Foxconn stops sending Chinese employees to iPhone factories in India and recalls already stationed staff, while China stalls equipment shipments &lpar;Rest of World&rpar;](http://www.techmeme.com/250110/p37#a250110p37)
- - [Today&#39;s NYT Connections: Sports Edition Hints and Answers for Jan. 11, #110](https://www.cnet.com/tech/gaming/todays-nyt-connections-sports-edition-hints-and-answers-for-jan-11-110/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Sources: Foxconn stops sending Chinese employees to iPhone factories in India and recalls already stationed staff, while China stalls equipment shipments &lpar;Rest of World&rpar;](http://www.techmeme.com/250110/p37#a250110p37)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

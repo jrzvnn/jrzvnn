@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [These Maps Show Just How Dry Southern California Is Right Now](https://www.wired.com/story/these-maps-show-just-how-dry-southern-california-is-right-now/)
+ - [Coming back to CES after a decade-long break was a trip](https://www.theverge.com/2025/1/11/24340285/ces-2025-robots-ai-sphere)
  - [IRS 2025 Tax Bracket Changes Could Be a Win for Your Paycheck](https://www.cnet.com/personal-finance/taxes/irs-2025-tax-bracket-changes-could-be-a-win-for-your-paycheck/#ftag=CAD590a51e)
  - [NFL Wild Card Weekend: How to Watch Vikings vs. Rams, ManningCast on Monday Night](https://www.cnet.com/tech/services-and-software/nfl-wild-card-weekend-how-to-watch-vikings-vs-rams-on-monday-night/#ftag=CAD590a51e)
- - [The 25 Best Shows on Amazon Prime Right Now &lpar;January 2025&rpar;](https://www.wired.com/story/best-shows-amazon-prime/)
- - [Best Internet Providers in Bangor, Maine](https://www.cnet.com/home/internet/best-internet-providers-in-bangor-me/#ftag=CAD590a51e)
- - [Los Angeles Will Remain at High Risk of Fire Into Next Week](https://www.wired.com/story/los-angeles-will-remain-at-high-risk-of-fire-into-next-week/)<!-- TECH:END -->
+ - [The 25 Best Shows on Amazon Prime Right Now &lpar;January 2025&rpar;](https://www.wired.com/story/best-shows-amazon-prime/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

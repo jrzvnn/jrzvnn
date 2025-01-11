@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Who is going to pay for the damages!](http://9gag.com/gag/avyQDyd)
- - 😝 [Cops is like aight keep moving](http://9gag.com/gag/aYQVmYw)
- - 💣 [Woman thought people arrived in cars and scooters to help people with evacuation](http://9gag.com/gag/a1mPxpY)
- - 😝 [Lily Rader: Interview Van, Pleasure Wagon!`](http://9gag.com/gag/an7zW7o)
- - 👉 [Subtle but significant distinction](http://9gag.com/gag/ayN2vzy)<!-- MEMES:END -->
+ - 😝 [The reason](http://9gag.com/gag/abAvKb8)
+ - 😝 [Simply genius](http://9gag.com/gag/aD2YPnN)
+ - 💣 [Title](http://9gag.com/gag/a34Zpr1)
+ - 😝 [This COP is legend](http://9gag.com/gag/ae9QR05)
+ - 👉 [Bravo to this Women](http://9gag.com/gag/a2vKjQw)<!-- MEMES:END -->
 
 ---
 

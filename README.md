@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Modern Tarzan](http://9gag.com/gag/a4Pox3d)
- - 😝 [What the.... Nature!!](http://9gag.com/gag/awyZ8wR)
- - 💣 [\u200e\u200e\u200e\u200e\u200e\u200e\u200e\u200e\u200e\u200e\u200e\u200e\u200e\u200e\u200e\u200e\u200e\u200e\u200e\u200e\u200e\u200e\u200e\u200e\u200e\u200e\u200e\u200e\u200e\u200e\u200e\u200e\u200e\u200e\u200e\u200e\u200e\u200e\u200e\u200e\u200e\u200e\u200e\u200e\u200e\u200e\u200e\u200e\u200e\u200e\u200e\u200e\u200e\u200e\u200e\u200e](http://9gag.com/gag/aGyEbVZ)
- - 😝 [This brother&#39;s reaction to seeing his sister](http://9gag.com/gag/aYQVmrm)
- - 👉 [Concrete and stones.That\u2019s the miracle.](http://9gag.com/gag/avyQB0E)<!-- MEMES:END -->
+ - 😝 [If only](http://9gag.com/gag/aXPnd6V)
+ - 😝 [Cops is like aight keep moving](http://9gag.com/gag/aYQVmYw)
+ - 💣 [Not my job](http://9gag.com/gag/aAy0ZrZ)
+ - 😝 [Duolingo can be good sometimes](http://9gag.com/gag/aMVEyzG)
+ - 👉 [You can&#39;t make this shit up.](http://9gag.com/gag/aAy0m4R)<!-- MEMES:END -->
 
 ---
 

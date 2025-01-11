@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Satisfying](http://9gag.com/gag/aqyeD2P)
- - 😝 [The Red Roar](http://9gag.com/gag/aoyKDXm)
- - 💣 [WTF](http://9gag.com/gag/azx2QDN)
- - 😝 [If only](http://9gag.com/gag/aXPnd6V)
- - 👉 [This old school clothes wringer.](http://9gag.com/gag/a2vKxKE)<!-- MEMES:END -->
+ - 😝 [Too cute!](http://9gag.com/gag/aQzEV4W)
+ - 😝 [Dog protects man from attacker](http://9gag.com/gag/a2vKG6Z)
+ - 💣 [Man explains the importance of placing planks on roof tiles](http://9gag.com/gag/avyQ9D5)
+ - 😝 [You can&#39;t make this shit up.](http://9gag.com/gag/aAy0m4R)
+ - 👉 [We almost had it](http://9gag.com/gag/agmojZg)<!-- MEMES:END -->
 
 ---
 

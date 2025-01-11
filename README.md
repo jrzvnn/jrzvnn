@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Just when i think that ubisoft can&#39;t screw things up even more, they find a way prove me wrong.](http://9gag.com/gag/aRBENN5)
- - 😝 [Who is going to pay for the damages!](http://9gag.com/gag/avyQDyd)
- - 💣 [Fun sized](http://9gag.com/gag/ajPVyx8)
- - 😝 [Why yes, I&#39;m a fan of classic Italian cinema](http://9gag.com/gag/ajPVdDx)
- - 👉 [`Firefighter` victim blames future victims of house fires](http://9gag.com/gag/aVvbByd)<!-- MEMES:END -->
+ - 😝 [Accurate Stormtroopers!](http://9gag.com/gag/aQzEVLw)
+ - 😝 [Bro shut her up real fast](http://9gag.com/gag/azx2BqB)
+ - 💣 [Why no imperial time units?](http://9gag.com/gag/a5QXx8L)
+ - 😝 [With some jam on the side](http://9gag.com/gag/arymrPK)
+ - 👉 [This COP is legend](http://9gag.com/gag/ae9QR05)<!-- MEMES:END -->
 
 ---
 

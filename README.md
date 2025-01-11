@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Best Internet Providers in Bangor, Maine](https://www.cnet.com/home/internet/best-internet-providers-in-bangor-me/#ftag=CAD590a51e)
+ - [Los Angeles Will Remain at High Risk of Fire Into Next Week](https://www.wired.com/story/los-angeles-will-remain-at-high-risk-of-fire-into-next-week/)
+ - [CES 2025: See the 35 Coolest Tech Products We Can&#39;t Shake](https://www.cnet.com/pictures/ces-2025-see-the-35-coolest-tech-products-we-cant-shake/#ftag=CAD590a51e)
  - [Our 8 Favorite Indoor Air Quality Monitors We’ve Tried &lpar;2025&rpar;](https://www.wired.com/gallery/best-indoor-air-quality-monitors/)
- - [Bengaluru traffic police booked 17K+ cases against delivery personnel in a single week of November 2024, as Swiggy and others rolled out rapid delivery services &lpar;The News Minute&rpar;](http://www.techmeme.com/250111/p6#a250111p6)
- - [Best Whitening Toothpaste of 2025, According to Dentists](https://www.cnet.com/health/personal-care/best-whitening-toothpaste/#ftag=CAD590a51e)
- - [The Brightest Comet of 2025 Is Coming. Here’s How You Can See It Shine](https://www.wired.com/story/brightest-comet-2025-atlas-c-2024g3/)
- - [Huge recent fundraising deals for Databricks, SpaceX, and OpenAI may delay their IPOs; Forge Global says the seven largest US private firms are worth $695B &lpar;George Hammond/Financial Times&rpar;](http://www.techmeme.com/250111/p5#a250111p5)<!-- TECH:END -->
+ - [My First Ride in a Solar-Powered EV That Ditches the Plug](https://www.cnet.com/roadshow/news/my-first-ride-in-a-solar-powered-ev-that-ditches-the-plug/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

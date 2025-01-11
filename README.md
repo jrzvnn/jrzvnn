@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [New renders show the Samsung Galaxy S25 lineup ahead of Unpacked](https://www.theverge.com/2025/1/11/24341376/samsung-galaxy-s25-plus-ultra-renders-leaked)
+ - [A look at Zuckerberg&#39;s lies on Joe Rogan&#39;s podcast, as he tried to get listeners riled up about agencies like CFPB and give GOP a new tech target in Apple &lpar;Elizabeth Lopatto/The Verge&rpar;](http://www.techmeme.com/250111/p8#a250111p8)
  - [New Glenn: how to watch Blue Origin’s next big rocket launch](https://www.theverge.com/2025/1/11/24339813/blue-origin-new-glenn-rocket-launch-how-to-watch-time-date)
  - [Shure MV6 Review: A Clean Looking Gaming Mic](https://www.wired.com/review/shure-mv6/)
- - [CES 2025: Inside the $100K Mini Smart House Revolution](https://www.cnet.com/home/smart-home/ces-2025-inside-the-100k-mini-smart-house-revolution/#ftag=CAD590a51e)
- - [These States Just Lowered Income Taxes: Find Out If Yours Is One of Them](https://www.cnet.com/personal-finance/these-states-just-lowered-income-taxes-find-out-if-yours-is-one-of-them/#ftag=CAD590a51e)
- - [New Student Loan Forgiveness &#39;Buyback&#39; Program Could Help You Get Debt Relief Sooner](https://www.cnet.com/personal-finance/loans/new-student-loan-forgiveness-buyback-program-could-help-you-get-debt-relief-sooner/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [CES 2025: Inside the $100K Mini Smart House Revolution](https://www.cnet.com/home/smart-home/ces-2025-inside-the-100k-mini-smart-house-revolution/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

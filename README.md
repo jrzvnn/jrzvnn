@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [KCD 2 reviews are out](http://9gag.com/gag/abAvK5B)
- - 😝 [He simply makes the best advertising!](http://9gag.com/gag/an7zVx0)
- - 💣 [If only](http://9gag.com/gag/aXPnd6V)
- - 😝 [You can&#39;t make this shit up.](http://9gag.com/gag/aAy0m4R)
- - 👉 [Motivation is always the key.](http://9gag.com/gag/amoAO9X)<!-- MEMES:END -->
+ - 😝 [Bravo to this Women](http://9gag.com/gag/a2vKjQw)
+ - 😝 [Order vs Chaos.](http://9gag.com/gag/aRBE9nj)
+ - 💣 [Dog Loyalty](http://9gag.com/gag/agmoZYx)
+ - 😝 [Japan town in Vietnam. Reliever of all stress!](http://9gag.com/gag/aLn1brM)
+ - 👉 [Can relate](http://9gag.com/gag/aPAgV6R)<!-- MEMES:END -->
 
 ---
 

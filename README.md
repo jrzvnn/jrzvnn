@@ -159,9 +159,9 @@ R                        1 repo              ░░░░░░░░░░░�
 <!-- TECH:START -->
  - [Zuckerberg urged Trump to stop the EU from fining US tech companies, which he says were forced by EU to pay $30B+ for legal violations over the past two decades &lpar;Aitor Hern&amp;aacute;ndez-Morales/Politico&rpar;](http://www.techmeme.com/250111/p11#a250111p11)
  - [Latin American Fact-Checkers Brace for Meta&#39;s Next Moves](https://www.wired.com/story/hispanic-fact-checkers-react-meta-disinformation/)
- - [Capital One Cardholders Will Likely Move to Discover&#39;s Payment Network -- but Not Right Away](https://www.cnet.com/personal-finance/credit-cards/capital-one-cardholders-will-likely-move-to-discovers-payment-network-but-not-right-away/#ftag=CAD590a51e)
  - [Amazon Prime will shut down its clothing try-on program](https://www.theverge.com/2025/1/11/24341422/amazon-prime-wardrobe-try-before-you-buy-shutting-down)
- - [Best Internet Providers in Alaska](https://www.cnet.com/home/internet/best-internet-providers-in-alaska/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Matt Mullenweg deactivates the accounts of several WordPress.org members, some of whom have been leading a push to create a new fork of the open-source project &lpar;Paul Sawers/TechCrunch&rpar;](http://www.techmeme.com/250111/p10#a250111p10)
+ - [Anker’s display-equipped wall charger from CES is already on sale](https://www.theverge.com/2025/1/11/24339256/anker-charger-140-watt-amazon-smart-air-quality-monitor-deal-sale)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

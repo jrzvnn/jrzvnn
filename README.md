@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [`Overly attached girlfriend` 2024.](http://9gag.com/gag/agmoKMx)
- - 😝 [Satisfying](http://9gag.com/gag/aqyeD2P)
- - 💣 [Blackrock be like: JACKPOT!](http://9gag.com/gag/a7oqAYL)
- - 😝 [Thieves in Italy steal an ATM with a excavator. It can&#39;t be that much money in a single ATM to go this far?](http://9gag.com/gag/a7oqnye)
- - 👉 [Simon had the best f**king time of his life](http://9gag.com/gag/aZZDvD3)<!-- MEMES:END -->
+ - 😝 [Just when i think that ubisoft can&#39;t screw things up even more, they find a way prove me wrong.](http://9gag.com/gag/aRBENN5)
+ - 😝 [Who is going to pay for the damages!](http://9gag.com/gag/avyQDyd)
+ - 💣 [Fun sized](http://9gag.com/gag/ajPVyx8)
+ - 😝 [Why yes, I&#39;m a fan of classic Italian cinema](http://9gag.com/gag/ajPVdDx)
+ - 👉 [`Firefighter` victim blames future victims of house fires](http://9gag.com/gag/aVvbByd)<!-- MEMES:END -->
 
 ---
 

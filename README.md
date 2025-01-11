@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Why no imperial time units?](http://9gag.com/gag/a5QXx8L)
- - 😝 [Wifey !!!!](http://9gag.com/gag/agmoK8v)
- - 💣 [Bro shut her up real fast](http://9gag.com/gag/azx2BqB)
- - 😝 [Simply genius](http://9gag.com/gag/aD2YPnN)
- - 👉 [With some jam on the side](http://9gag.com/gag/arymrPK)<!-- MEMES:END -->
+ - 😝 [Subtle but significant distinction](http://9gag.com/gag/ayN2vzy)
+ - 😝 [He simply makes the best advertising!](http://9gag.com/gag/an7zVx0)
+ - 💣 [`Overly attached girlfriend` 2024.](http://9gag.com/gag/agmoKMx)
+ - 😝 [President of Mexico just released this map](http://9gag.com/gag/aZZDzez)
+ - 👉 [Cap? Any update on LA fires if these two are still around?](http://9gag.com/gag/aO8xGD2)<!-- MEMES:END -->
 
 ---
 

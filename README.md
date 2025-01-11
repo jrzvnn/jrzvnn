@@ -159,9 +159,9 @@ R                        1 repo              ░░░░░░░░░░░�
 <!-- TECH:START -->
  - [New Glenn: how to watch Blue Origin’s next big rocket launch](https://www.theverge.com/2025/1/11/24339813/blue-origin-new-glenn-rocket-launch-how-to-watch-time-date)
  - [Shure MV6 Review: A Clean Looking Gaming Mic](https://www.wired.com/review/shure-mv6/)
- - [Why Honda is merging with Nissan: factories, SUVs, and China](https://www.theverge.com/2025/1/11/24339888/honda-nissan-merge-china-ev-hybrid-suv-factory-ces)
- - [A scammer details how voice phishing groups are abusing Apple&#39;s support line to generate &quot;account confirmation&quot; message prompts from Apple to their customers &lpar;Brian Krebs/Krebs on Security&rpar;](http://www.techmeme.com/250111/p7#a250111p7)
- - [Watch FA Cup Soccer: Livestream Chelsea vs. Morecambe From Anywhere](https://www.cnet.com/tech/services-and-software/watch-fa-cup-soccer-livestream-chelsea-vs-morecambe-from-anywhere/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [CES 2025: Inside the $100K Mini Smart House Revolution](https://www.cnet.com/home/smart-home/ces-2025-inside-the-100k-mini-smart-house-revolution/#ftag=CAD590a51e)
+ - [These States Just Lowered Income Taxes: Find Out If Yours Is One of Them](https://www.cnet.com/personal-finance/these-states-just-lowered-income-taxes-find-out-if-yours-is-one-of-them/#ftag=CAD590a51e)
+ - [New Student Loan Forgiveness &#39;Buyback&#39; Program Could Help You Get Debt Relief Sooner](https://www.cnet.com/personal-finance/loans/new-student-loan-forgiveness-buyback-program-could-help-you-get-debt-relief-sooner/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

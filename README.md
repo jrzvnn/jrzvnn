@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Woman thought people arrived in cars and scooters to help people with evacuation](http://9gag.com/gag/a1mPxpY)
- - 😝 [Cops is like aight keep moving](http://9gag.com/gag/aYQVmYw)
- - 💣 [This old school clothes wringer.](http://9gag.com/gag/a2vKxKE)
- - 😝 [You can&#39;t make this shit up.](http://9gag.com/gag/aAy0m4R)
- - 👉 [Cap? Any update on LA fires if these two are still around?](http://9gag.com/gag/aO8xGD2)<!-- MEMES:END -->
+ - 😝 [Maddest car chase I\u2019ve seen. Dude in the car literally trying to kill him.](http://9gag.com/gag/aYQVdOV)
+ - 😝 [Who is going to pay for the damages!](http://9gag.com/gag/avyQDyd)
+ - 💣 [Cops is like aight keep moving](http://9gag.com/gag/aYQVmYw)
+ - 😝 [Andrew dodged a bullet](http://9gag.com/gag/ayN2zGV)
+ - 👉 [`Firefighter` victim blames future victims of house fires](http://9gag.com/gag/aVvbByd)<!-- MEMES:END -->
 
 ---
 

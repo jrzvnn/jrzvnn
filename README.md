@@ -168,9 +168,9 @@ R                        1 repo              ░░░░░░░░░░░�
 <!-- MEMES:START -->
  - 😝 [The reason](http://9gag.com/gag/abAvKb8)
  - 😝 [Simply genius](http://9gag.com/gag/aD2YPnN)
- - 💣 [Having children does have it’s perks.](https://www.reddit.com/r/funny/comments/1hyu7y2/having_children_does_have_its_perks/)
- - 😝 [Title](http://9gag.com/gag/a34Zpr1)
- - 👉 [90&#39;s Oldschool Hiphop meets Latino](http://9gag.com/gag/a4PoxA6)<!-- MEMES:END -->
+ - 💣 [Title](http://9gag.com/gag/a34Zpr1)
+ - 😝 [90&#39;s Oldschool Hiphop meets Latino](http://9gag.com/gag/a4PoxA6)
+ - 👉 [Bravo to this Women](http://9gag.com/gag/a2vKjQw)<!-- MEMES:END -->
 
 ---
 

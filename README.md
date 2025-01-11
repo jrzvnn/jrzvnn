@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [UK&#39;s tech secretary says its Online Safety Act is &quot;not up for negotiation,&quot; after Zuckerberg vowed to work with Trump to pressure countries &quot;censoring&quot; content &lpar;Michael Savage/The Guardian&rpar;](http://www.techmeme.com/250111/p13#a250111p13)
  - [How Watch Duty’s wildfire tracking app became a crucial lifeline for LA](https://www.theverge.com/2025/1/11/24340913/watch-duty-wildfire-tracking-app-los-angeles-nonprofit)
  - [An interview with Arkady Volozh, CEO of Nebius, formerly Yandex NV, on selling Yandex&#39;s Russian business in 2024, competing with US AI startups, and more &lpar;Mark Bergen/Bloomberg&rpar;](http://www.techmeme.com/250111/p12#a250111p12)
  - [Best Sports Drinks of 2025](https://www.cnet.com/health/fitness/best-sports-drinks/#ftag=CAD590a51e)
- - [Best Tower Fan for 2025](https://www.cnet.com/home/kitchen-and-household/best-tower-fan/#ftag=CAD590a51e)
- - [Zuckerberg urged Trump to stop the EU from fining US tech companies, which he says were forced by EU to pay $30B+ for legal violations over the past two decades &lpar;Aitor Hern&amp;aacute;ndez-Morales/Politico&rpar;](http://www.techmeme.com/250111/p11#a250111p11)<!-- TECH:END -->
+ - [Best Tower Fan for 2025](https://www.cnet.com/home/kitchen-and-household/best-tower-fan/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

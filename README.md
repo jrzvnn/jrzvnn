@@ -158,10 +158,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- TECH:START -->
  - [UK&#39;s tech secretary says its Online Safety Act is &quot;not up for negotiation,&quot; after Zuckerberg vowed to work with Trump to pressure countries &quot;censoring&quot; content &lpar;Michael Savage/The Guardian&rpar;](http://www.techmeme.com/250111/p13#a250111p13)
+ - [Today&#39;s NYT Connections Hints, Answers and Help for Jan. 12, #581](https://www.cnet.com/tech/gaming/todays-nyt-connections-hints-answers-and-help-for-jan-12-581/#ftag=CAD590a51e)
+ - [Today&#39;s Wordle Hints, Answer and Help for Jan. 12, #1303](https://www.cnet.com/tech/gaming/todays-wordle-hints-answer-and-help-for-jan-12-1303/#ftag=CAD590a51e)
  - [How Watch Duty’s wildfire tracking app became a crucial lifeline for LA](https://www.theverge.com/2025/1/11/24340913/watch-duty-wildfire-tracking-app-los-angeles-nonprofit)
- - [An interview with Arkady Volozh, CEO of Nebius, formerly Yandex NV, on selling Yandex&#39;s Russian business in 2024, competing with US AI startups, and more &lpar;Mark Bergen/Bloomberg&rpar;](http://www.techmeme.com/250111/p12#a250111p12)
- - [9 Great Horror Movies to Watch on Prime Video This Weekend](https://www.cnet.com/tech/services-and-software/best-horror-movies-on-prime-video-january-2025/#ftag=CAD590a51e)
- - [Best Sports Drinks of 2025](https://www.cnet.com/health/fitness/best-sports-drinks/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [An interview with Arkady Volozh, CEO of Nebius, formerly Yandex NV, on selling Yandex&#39;s Russian business in 2024, competing with US AI startups, and more &lpar;Mark Bergen/Bloomberg&rpar;](http://www.techmeme.com/250111/p12#a250111p12)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

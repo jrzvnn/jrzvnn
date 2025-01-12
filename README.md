@@ -167,10 +167,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [Lily Rader: Interview Van, Pleasure Wagon!`](http://9gag.com/gag/an7zW7o)
- - 😝 [The President of Botswana reacting on the world&#39;s second-largest diamond ever found, a rough 2,492-carat stone.](http://9gag.com/gag/aqyeBAP)
+ - 😝 [Love at first sight](http://9gag.com/gag/amoAOA9)
  - 💣 [Motivation is always the key.](http://9gag.com/gag/amoAO9X)
- - 😝 [Gender reveal, wait no...](http://9gag.com/gag/aMVE0yR)
- - 👉 [Concrete and stones.That\u2019s the miracle.](http://9gag.com/gag/avyQB0E)<!-- MEMES:END -->
+ - 😝 [The President of Botswana reacting on the world&#39;s second-largest diamond ever found, a rough 2,492-carat stone.](http://9gag.com/gag/aqyeBAP)
+ - 👉 [No thanks, wamen](http://9gag.com/gag/aD2Y97K)<!-- MEMES:END -->
 
 ---
 

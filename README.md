@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Robot vacuums just keep growing](https://www.theverge.com/2025/1/12/24340818/robot-vacuum-innovations-roborock-dreame-ecovacs-ces2025)
  - [Updated iPhone SE, iPads, and Magic Keyboards expected for spring 2025](https://appleinsider.com/articles/25/01/12/updated-iphone-se-ipads-and-magic-keyboards-expected-for-spring-2025?utm_medium=rss)
  - [Apple Watch Ultra to gain satellite connectivity, while AirTags will get greater range](https://appleinsider.com/articles/25/01/12/apple-watch-ultra-gains-satellite-connectivity-while-airtags-get-greater-range?utm_medium=rss)
  - [A look at Apple&#39;s plans for 2025, a year likely to be seen as a stepping stone toward more revolutionary products, rather than one of remarkable innovation &lpar;Mark Gurman/Bloomberg&rpar;](http://www.techmeme.com/250112/p8#a250112p8)
- - [The iPhone Air could be coming later this year](https://www.theverge.com/2025/1/12/24341960/apple-iphone-17-air-slim-foldable-wi-fi-cell-modem)
- - [How to turn off Apple Intelligence on your iPhone](https://www.theverge.com/24340563/apple-intelligence-ios-iphone-disable-how-to)<!-- TECH:END -->
+ - [The iPhone Air could be coming later this year](https://www.theverge.com/2025/1/12/24341960/apple-iphone-17-air-slim-foldable-wi-fi-cell-modem)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [The Thank-You Blinkers In The End](http://9gag.com/gag/a1mPxPv)
- - 😝 [Andrew dodged a bullet](http://9gag.com/gag/ayN2zGV)
- - 💣 [Concrete and stones.That\u2019s the miracle.](http://9gag.com/gag/avyQB0E)
- - 😝 [No words but clearly understood](http://9gag.com/gag/ae9Qd4B)
- - 👉 [Brand new floor DESTROYED by painters\u2026](http://9gag.com/gag/a4Pom2d)<!-- MEMES:END -->
+ - 😝 [Why are you working from home today??](http://9gag.com/gag/amoAOdy)
+ - 😝 [Modern Tarzan](http://9gag.com/gag/a4Pox3d)
+ - 💣 [The Thank-You Blinkers In The End](http://9gag.com/gag/a1mPxPv)
+ - 😝 [You can&#39;t make this shit up.](http://9gag.com/gag/aAy0m4R)
+ - 👉 [Have you seen Shaq holds 600ml water bottle?](http://9gag.com/gag/azx2vbx)<!-- MEMES:END -->
 
 ---
 

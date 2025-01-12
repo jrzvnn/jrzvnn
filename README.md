@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Nightmare is loading...](http://9gag.com/gag/azx2onZ)
- - 😝 [Have you seen Shaq holds 600ml water bottle?](http://9gag.com/gag/azx2vbx)
- - 💣 [Motivation is always the key.](http://9gag.com/gag/amoAO9X)
+ - 😝 [The cost of this medication.](http://9gag.com/gag/aKGEXQO)
  - 😝 [Look at us](http://9gag.com/gag/ae9QqBB)
- - 👉 [Andrew dodged a bullet](http://9gag.com/gag/ayN2zGV)<!-- MEMES:END -->
+ - 💣 [Motivation is always the key.](http://9gag.com/gag/amoAO9X)
+ - 😝 [Lily Rader: Interview Van, Pleasure Wagon!`](http://9gag.com/gag/an7zW7o)
+ - 👉 [Have you seen Shaq holds 600ml water bottle?](http://9gag.com/gag/azx2vbx)<!-- MEMES:END -->
 
 ---
 

@@ -158,10 +158,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- TECH:START -->
  - [The Best Automated Espresso, Latte, and Cappuccino Makers &lpar;2025&rpar;](https://www.wired.com/story/best-latte-and-cappuccino-machines/)
+ - [NFL Wild Card Weekend: How to Watch Broncos vs. Bills Today](https://www.cnet.com/tech/services-and-software/nfl-wild-card-weekend-how-to-watch-broncos-vs-bills/#ftag=CAD590a51e)
+ - [Mortgage Predictions for January 2025: Is the Worst Yet to Come?](https://www.cnet.com/personal-finance/mortgage-predictions-for-january-2025-is-the-worst-yet-to-come/#ftag=CAD590a51e)
  - [As researchers talk about the arrival of supersmart AI, far fewer voices are trying to envision and articulate what a world awash in AI might actually look like &lpar;Ethan Mollick/One Useful Thing&rpar;](http://www.techmeme.com/250112/p6#a250112p6)
- - [How aligning with Trump&#39;s new administration lets Meta and X pivot from futile cooperation with the EU and other jurisdictions to confrontation and coercion &lpar;David Allen Green/Financial Times&rpar;](http://www.techmeme.com/250112/p5#a250112p5)
- - [New Superconductive Materials Have Just Been Discovered](https://www.wired.com/story/new-superconductive-materials-have-just-been-discovered/)
- - [A survey finds that global banks could cut as many as 200K jobs in the next three to five years as AI encroaches on tasks currently carried out by human workers &lpar;William Shaw/Bloomberg&rpar;](http://www.techmeme.com/250112/p4#a250112p4)<!-- TECH:END -->
+ - [Homes in Short Supply: How Inventory Will Shape the 2025 Housing Market?](https://www.cnet.com/personal-finance/homes-in-short-supply-how-inventory-will-shape-the-2025-housing-market/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

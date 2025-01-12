@@ -166,10 +166,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Narrow escape](http://9gag.com/gag/a7oqBqm)
+ - 😝 [Trap Door Spider](http://9gag.com/gag/aVvb5QP)
  - 😝 [Look at us](http://9gag.com/gag/ae9QqBB)
- - 💣 [Gender reveal, wait no...](http://9gag.com/gag/aMVE0yR)
- - 😝 [Why are you working from home today??](http://9gag.com/gag/amoAOdy)
+ - 💣 [Why are you working from home today??](http://9gag.com/gag/amoAOdy)
+ - 😝 [The gourd child](http://9gag.com/gag/arymEEV)
  - 👉 [No thanks, wamen](http://9gag.com/gag/aD2Y97K)<!-- MEMES:END -->
 
 ---

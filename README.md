@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [I wonder if God trolls us](http://9gag.com/gag/a7oqmwL)
+ - 😝 [Fetus Yeetus 3000](http://9gag.com/gag/aQzEKW8)
+ - 💣 [Someone handed me this card at the bar.](http://9gag.com/gag/aBydMv1)
  - 😝 [The cost of this medication.](http://9gag.com/gag/aKGEXQO)
- - 😝 [Motivation is always the key.](http://9gag.com/gag/amoAO9X)
- - 💣 [Lily Rader: Interview Van, Pleasure Wagon!`](http://9gag.com/gag/an7zW7o)
- - 😝 [This has been going on for far longer than I&#39;ve been working here, but every time new devs join the team &lpar;like me&rpar;, management explains why this is `necessary`. I imagine this `logic` applies to gaming industry as well](http://9gag.com/gag/aKGEyG6)
- - 👉 [Why are you working from home today??](http://9gag.com/gag/amoAOdy)<!-- MEMES:END -->
+ - 👉 [Lily Rader: Interview Van, Pleasure Wagon!`](http://9gag.com/gag/an7zW7o)<!-- MEMES:END -->
 
 ---
 

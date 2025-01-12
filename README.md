@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [The cost of this medication.](http://9gag.com/gag/aKGEXQO)
- - 😝 [Sexual lifetime activity of a 9GAG&#39;er be like...](http://9gag.com/gag/avyQB7d)
- - 💣 [Why are you working from home today??](http://9gag.com/gag/amoAOdy)
- - 😝 [Concrete and stones.That\u2019s the miracle.](http://9gag.com/gag/avyQB0E)
- - 👉 [Narrow escape](http://9gag.com/gag/a7oqBqm)<!-- MEMES:END -->
+ - 😝 [Nightmare is loading...](http://9gag.com/gag/azx2onZ)
+ - 😝 [Have you seen Shaq holds 600ml water bottle?](http://9gag.com/gag/azx2vbx)
+ - 💣 [Motivation is always the key.](http://9gag.com/gag/amoAO9X)
+ - 😝 [Look at us](http://9gag.com/gag/ae9QqBB)
+ - 👉 [Andrew dodged a bullet](http://9gag.com/gag/ayN2zGV)<!-- MEMES:END -->
 
 ---
 

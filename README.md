@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [The Thank-You Blinkers In The End](http://9gag.com/gag/a1mPxPv)
+ - 😝 [It&#39;s not like you had a choice](http://9gag.com/gag/a34Zepv)
+ - 😝 [Ben Affleck watching his house burning and thinking about the new meme he&#39;s about to become.](http://9gag.com/gag/a5QXApN)
+ - 💣 [Why are you working from home today??](http://9gag.com/gag/amoAOdy)
  - 😝 [Modern Tarzan](http://9gag.com/gag/a4Pox3d)
- - 💣 [Ben Affleck watching his house burning and thinking about the new meme he&#39;s about to become.](http://9gag.com/gag/a5QXApN)
- - 😝 [You can&#39;t make this shit up.](http://9gag.com/gag/aAy0m4R)
- - 👉 [No words but clearly understood](http://9gag.com/gag/ae9Qd4B)<!-- MEMES:END -->
+ - 👉 [Brand new floor DESTROYED by painters\u2026](http://9gag.com/gag/a4Pom2d)<!-- MEMES:END -->
 
 ---
 

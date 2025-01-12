@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The Best Automated Espresso, Latte, and Cappuccino Makers &lpar;2025&rpar;](https://www.wired.com/story/best-latte-and-cappuccino-machines/)
- - [NFL Wild Card Weekend: How to Watch Broncos vs. Bills Today](https://www.cnet.com/tech/services-and-software/nfl-wild-card-weekend-how-to-watch-broncos-vs-bills/#ftag=CAD590a51e)
- - [Mortgage Predictions for January 2025: Is the Worst Yet to Come?](https://www.cnet.com/personal-finance/mortgage-predictions-for-january-2025-is-the-worst-yet-to-come/#ftag=CAD590a51e)
- - [As researchers talk about the arrival of supersmart AI, far fewer voices are trying to envision and articulate what a world awash in AI might actually look like &lpar;Ethan Mollick/One Useful Thing&rpar;](http://www.techmeme.com/250112/p6#a250112p6)
- - [Homes in Short Supply: How Inventory Will Shape the 2025 Housing Market?](https://www.cnet.com/personal-finance/homes-in-short-supply-how-inventory-will-shape-the-2025-housing-market/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Looking for a Specific Recent Call? Try This iOS 18 Hack](https://www.cnet.com/tech/services-and-software/looking-for-a-specific-recent-call-try-this-ios-18-hack/#ftag=CAD590a51e)
+ - [NFL Wild Card Weekend: How to Watch Packers vs. Eagles Today](https://www.cnet.com/tech/services-and-software/nfl-wild-card-weekend-how-to-watch-packers-vs-eagles/#ftag=CAD590a51e)
+ - [Your Guide to Apple Intelligence Summaries in iOS 18](https://www.cnet.com/tech/services-and-software/your-guide-to-apple-intelligence-summaries-in-ios-18/#ftag=CAD590a51e)
+ - [Best Fiber Internet Providers for January 2025](https://www.cnet.com/home/internet/best-fiber-internet-providers/#ftag=CAD590a51e)
+ - [Best Melatonin Supplements of 2025](https://www.cnet.com/health/nutrition/best-melatonin-supplements/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

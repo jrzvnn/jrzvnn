@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [UK trial over Apple&#39;s App Store fees seeks $1.83B fine](https://appleinsider.com/articles/25/01/12/uk-trial-over-apples-app-store-fees-seeks-183b-fine?utm_medium=rss)
- - [Thinner, smarter, more connected: What to expect from a 2025 Apple TV](https://appleinsider.com/articles/25/01/10/thinner-smarter-more-connected-what-to-expect-from-the-apple-tv?utm_medium=rss)
- - [Apple Camera due in 2026 -- but Home Hub may get delayed](https://appleinsider.com/articles/25/01/12/apples-home-hub-may-be-delayed-apple-camera-due-in-2026?utm_medium=rss)
- - [Meta CEO mocks Apple for &#39;sitting on&#39; iPhone 20 years later despite doing the same with Facebook](https://appleinsider.com/articles/25/01/10/meta-ceo-mocks-apple-for-sitting-on-iphone-20-years-later-despite-doing-the-same-with-facebook?utm_medium=rss)
- - [Apple Watch Ultra to gain satellite connectivity, while AirTags will get greater range](https://appleinsider.com/articles/25/01/12/apple-watch-ultra-gains-satellite-connectivity-while-airtags-get-greater-range?utm_medium=rss)<!-- TECH:END -->
+ - [Every Eye-Catching Piece of Next-Gen Tech Unveiled at CES 2025](https://www.cnet.com/tech/every-eye-catching-piece-of-next-gen-tech-unveiled-at-ces-2025/#ftag=CAD590a51e)
+ - [Best Workout Apps for 2025](https://www.cnet.com/health/fitness/best-workout-apps/#ftag=CAD590a51e)
+ - [Best Internet Providers in Billings, Montana](https://www.cnet.com/home/internet/best-internet-providers-in-billings-mt/#ftag=CAD590a51e)
+ - [Best Power Bank for iPhones in 2025](https://www.cnet.com/tech/mobile/best-power-bank-for-iphone/#ftag=CAD590a51e)
+ - [UK trial over Apple&#39;s App Store fees seeks $1.83B fine](https://appleinsider.com/articles/25/01/12/uk-trial-over-apples-app-store-fees-seeks-183b-fine?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

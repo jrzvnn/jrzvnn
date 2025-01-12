@@ -159,9 +159,9 @@ R                        1 repo              ░░░░░░░░░░░�
 <!-- TECH:START -->
  - [Malaysia&#39;s economy minister Rafizi Ramli says the country anticipates a surge in investment from Chinese tech companies as Beijing braces for more US tariffs &lpar;Owen Walker/Financial Times&rpar;](http://www.techmeme.com/250112/p1#a250112p1)
  - [Sources: Mark Zuckerberg faces less friction in making broad policy changes after Meta&#39;s layoffs in 2022 and 2023, which hit much of its civic integrity teams &lpar;Jonathan Vanian/CNBC&rpar;](http://www.techmeme.com/250111/p17#a250111p17)
- - [Tim Sweeney says Big Tech leaders, who used to pretend to be Democrats, are now pretending to be Republicans to skirt antitrust laws and &quot;crush competitors&quot; &lpar;Tyler Wilde/PC Gamer&rpar;](http://www.techmeme.com/250111/p16#a250111p16)
- - [As Amazon Prime Video wraps up its third season streaming NFL games, a look at its use of AI and &quot;Prime Vision with Next Gen Stats&quot; during broadcasts &lpar;Joe Reedy/Associated Press&rpar;](http://www.techmeme.com/250111/p15#a250111p15)
- - [Best Queen Mattress for 2025: Expert Tested and Approved](https://www.cnet.com/health/sleep/best-queen-mattress/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Today&#39;s NYT Connections: Sports Edition Hints and Answers for Jan. 12, #111](https://www.cnet.com/tech/gaming/todays-nyt-connections-sports-edition-hints-and-answers-for-jan-12-111/#ftag=CAD590a51e)
+ - [Today&#39;s NYT Strands Hints, Answers and Help for Jan. 12, #315](https://www.cnet.com/tech/gaming/todays-nyt-strands-hints-answers-and-help-for-jan-12-315/#ftag=CAD590a51e)
+ - [Today&#39;s NYT Mini Crossword Answers for Sunday, Jan. 12](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-sunday-jan-12/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

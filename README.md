@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [The cost of this medication.](http://9gag.com/gag/aKGEXQO)
- - 😝 [Modern Tarzan](http://9gag.com/gag/a4Pox3d)
- - 💣 [Why are you working from home today??](http://9gag.com/gag/amoAOdy)
- - 😝 [Have you seen Shaq holds 600ml water bottle?](http://9gag.com/gag/azx2vbx)
- - 👉 [Maddest car chase I\u2019ve seen. Dude in the car literally trying to kill him.](http://9gag.com/gag/aYQVdOV)<!-- MEMES:END -->
+ - 😝 [Andrew dodged a bullet](http://9gag.com/gag/ayN2zGV)
+ - 😝 [The Thank-You Blinkers In The End](http://9gag.com/gag/a1mPxPv)
+ - 💣 [Have you seen Shaq holds 600ml water bottle?](http://9gag.com/gag/azx2vbx)
+ - 😝 [Why are you working from home today??](http://9gag.com/gag/amoAOdy)
+ - 👉 [You can&#39;t make this shit up.](http://9gag.com/gag/aAy0m4R)<!-- MEMES:END -->
 
 ---
 

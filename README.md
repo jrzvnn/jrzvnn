@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The rumored slim iPhone 17 could use the ‘Air’ monicker](https://www.theverge.com/2025/1/12/24341960/apple-iphone-17-air-slim-foldable-wi-fi-cell-modem)
+ - [A look at Apple&#39;s plans for 2025, a year likely to be seen as a stepping stone toward more revolutionary products, rather than one of remarkable innovation &lpar;Mark Gurman/Bloomberg&rpar;](http://www.techmeme.com/250112/p8#a250112p8)
+ - [The iPhone Air could be coming later this year](https://www.theverge.com/2025/1/12/24341960/apple-iphone-17-air-slim-foldable-wi-fi-cell-modem)
  - [How to turn off Apple Intelligence on your iPhone](https://www.theverge.com/24340563/apple-intelligence-ios-iphone-disable-how-to)
  - [Apple Watch Ultra gains satellite connectivity, while AirTags get greater range](https://appleinsider.com/articles/25/01/12/apple-watch-ultra-gains-satellite-connectivity-while-airtags-get-greater-range?utm_medium=rss)
- - [Apple&#39;s Home Hub may be delayed, Apple Camera due in 2026](https://appleinsider.com/articles/25/01/12/apples-home-hub-may-be-delayed-apple-camera-due-in-2026?utm_medium=rss)
- - [M4 Mac Studio, M5 MacBook Pro form part of Apple&#39;s 2025 Mac launches](https://appleinsider.com/articles/25/01/12/m4-mac-studio-m5-macbook-pro-form-part-of-apples-2025-mac-launches?utm_medium=rss)<!-- TECH:END -->
+ - [Apple&#39;s Home Hub may be delayed, Apple Camera due in 2026](https://appleinsider.com/articles/25/01/12/apples-home-hub-may-be-delayed-apple-camera-due-in-2026?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

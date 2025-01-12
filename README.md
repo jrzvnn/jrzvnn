@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Nightmare is loading...](http://9gag.com/gag/azx2onZ)
- - 😝 [This has been going on for far longer than I&#39;ve been working here, but every time new devs join the team &lpar;like me&rpar;, management explains why this is `necessary`. I imagine this `logic` applies to gaming industry as well](http://9gag.com/gag/aKGEyG6)
- - 💣 [Brand new floor DESTROYED by painters\u2026](http://9gag.com/gag/a4Pom2d)
+ - 😝 [Nice catch on national television](http://9gag.com/gag/awyZDwR)
  - 😝 [Trap Door Spider](http://9gag.com/gag/aVvb5QP)
- - 👉 [Nice catch on national television](http://9gag.com/gag/awyZDwR)<!-- MEMES:END -->
+ - 💣 [Bowling pin gets picked up by machine just before it was about to drop](http://9gag.com/gag/aXPnzXd)
+ - 😝 [Nightmare is loading...](http://9gag.com/gag/azx2onZ)
+ - 👉 [Brand new floor DESTROYED by painters\u2026](http://9gag.com/gag/a4Pom2d)<!-- MEMES:END -->
 
 ---
 

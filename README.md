@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Narrow escape](http://9gag.com/gag/a7oqBqm)
  - 😝 [The President of Botswana reacting on the world&#39;s second-largest diamond ever found, a rough 2,492-carat stone.](http://9gag.com/gag/aqyeBAP)
+ - 😝 [Gender reveal, wait no...](http://9gag.com/gag/aMVE0yR)
  - 💣 [Concrete and stones.That\u2019s the miracle.](http://9gag.com/gag/avyQB0E)
- - 😝 [Nightmare is loading...](http://9gag.com/gag/azx2onZ)
- - 👉 [Motivation is always the key.](http://9gag.com/gag/amoAO9X)<!-- MEMES:END -->
+ - 😝 [Motivation is always the key.](http://9gag.com/gag/amoAO9X)
+ - 👉 [No thanks, wamen](http://9gag.com/gag/aD2Y97K)<!-- MEMES:END -->
 
 ---
 

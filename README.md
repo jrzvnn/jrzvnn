@@ -160,8 +160,8 @@ R                        1 repo              ░░░░░░░░░░░�
  - [Some advertisers raise brand safety concerns over Meta&#39;s content moderation changes, fearing a surge in harmful content and misinformation on its platforms &lpar;Financial Times&rpar;](http://www.techmeme.com/250112/p7#a250112p7)
  - [Panasonic Z95A OLED TV Review: Searing Brightness and Colors](https://www.wired.com/review/panasonic-z95a-oled-tv/)
  - [The best actually real stuff at CES 2025](https://www.theverge.com/2025/1/12/24340864/ces-2025-tvs-nvidia-ai-gaming-installer)
- - [Looking for a Specific Recent Call? Try This iOS 18 Hack](https://www.cnet.com/tech/services-and-software/looking-for-a-specific-recent-call-try-this-ios-18-hack/#ftag=CAD590a51e)
- - [NFL Wild Card Weekend: How to Watch Packers vs. Eagles Today](https://www.cnet.com/tech/services-and-software/nfl-wild-card-weekend-how-to-watch-packers-vs-eagles/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Best Space Heaters in 2025](https://www.cnet.com/home/kitchen-and-household/best-space-heater/#ftag=CAD590a51e)
+ - [Looking for a Specific Recent Call? Try This iOS 18 Hack](https://www.cnet.com/tech/services-and-software/looking-for-a-specific-recent-call-try-this-ios-18-hack/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [UK trial over Apple&#39;s App Store fees seeks $1.83B fine](https://appleinsider.com/articles/25/01/12/uk-trial-over-apples-app-store-fees-seeks-183b-fine?utm_medium=rss)
  - [Thinner, smarter, more connected: What to expect from a 2025 Apple TV](https://appleinsider.com/articles/25/01/10/thinner-smarter-more-connected-what-to-expect-from-the-apple-tv?utm_medium=rss)
  - [Apple Camera due in 2026 -- but Home Hub may get delayed](https://appleinsider.com/articles/25/01/12/apples-home-hub-may-be-delayed-apple-camera-due-in-2026?utm_medium=rss)
  - [Meta CEO mocks Apple for &#39;sitting on&#39; iPhone 20 years later despite doing the same with Facebook](https://appleinsider.com/articles/25/01/10/meta-ceo-mocks-apple-for-sitting-on-iphone-20-years-later-despite-doing-the-same-with-facebook?utm_medium=rss)
- - [Apple Watch Ultra to gain satellite connectivity, while AirTags will get greater range](https://appleinsider.com/articles/25/01/12/apple-watch-ultra-gains-satellite-connectivity-while-airtags-get-greater-range?utm_medium=rss)
- - [A case study of the amount and kinds of ads in 12 shows on the ad-supported tiers of Netflix, Peacock, Disney+, Max, Paramount+, and Hulu &lpar;Jon Keegan/Sherwood News&rpar;](http://www.techmeme.com/250112/p9#a250112p9)<!-- TECH:END -->
+ - [Apple Watch Ultra to gain satellite connectivity, while AirTags will get greater range](https://appleinsider.com/articles/25/01/12/apple-watch-ultra-gains-satellite-connectivity-while-airtags-get-greater-range?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

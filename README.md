@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [M4 Mac Studio, M5 MacBook Pro form part of Apple&#39;s 2025 Mac launches](https://appleinsider.com/articles/25/01/12/m4-mac-studio-m5-macbook-pro-form-part-of-apples-2025-mac-launches?utm_medium=rss)
  - [Apple Watch Ultra gains satellite connectivity, while AirTags get greater range](https://appleinsider.com/articles/25/01/12/apple-watch-ultra-gains-satellite-connectivity-while-airtags-get-greater-range?utm_medium=rss)
  - [L’Oréal’s new skincare gadget told me I should try retinol](https://www.theverge.com/2025/1/12/24340488/loreal-cell-bioprint-hands-on-ces-2025-beauty-tech)
  - [Some advertisers raise brand safety concerns over Meta&#39;s content moderation changes, fearing a surge in harmful content and misinformation on its platforms &lpar;Financial Times&rpar;](http://www.techmeme.com/250112/p7#a250112p7)
- - [Panasonic Z95A OLED TV Review: Searing Brightness and Colors](https://www.wired.com/review/panasonic-z95a-oled-tv/)
- - [The best actually real stuff at CES 2025](https://www.theverge.com/2025/1/12/24340864/ces-2025-tvs-nvidia-ai-gaming-installer)<!-- TECH:END -->
+ - [Panasonic Z95A OLED TV Review: Searing Brightness and Colors](https://www.wired.com/review/panasonic-z95a-oled-tv/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [A survey finds that global banks could cut as many as 200K jobs in the next three to five years as AI encroaches on tasks currently carried out by human workers &lpar;William Shaw/Bloomberg&rpar;](http://www.techmeme.com/250112/p4#a250112p4)
  - [A UK trial in the &amp;pound;1.5B class action suit against Apple is set to begin on Monday over allegations that the company levies &quot;excessive and unfair&quot; App Store fees &lpar;Financial Times&rpar;](http://www.techmeme.com/250112/p3#a250112p3)
  - [US export controls may have slowed China&#39;s AI progress but they also spurred DeepSeek to innovate and release DeepSeek-V3, a top LLM, without the latest chips &lpar;Tyler Cowen/Bloomberg&rpar;](http://www.techmeme.com/250112/p2#a250112p2)
  - [Malaysia&#39;s economy minister Rafizi Ramli says the country anticipates a surge in investment from Chinese tech companies as Beijing braces for more US tariffs &lpar;Owen Walker/Financial Times&rpar;](http://www.techmeme.com/250112/p1#a250112p1)
- - [Sources: Mark Zuckerberg faces less friction in making broad policy changes after Meta&#39;s layoffs in 2022 and 2023, which hit much of its civic integrity teams &lpar;Jonathan Vanian/CNBC&rpar;](http://www.techmeme.com/250111/p17#a250111p17)
- - [Today&#39;s NYT Connections: Sports Edition Hints and Answers for Jan. 12, #111](https://www.cnet.com/tech/gaming/todays-nyt-connections-sports-edition-hints-and-answers-for-jan-12-111/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Sources: Mark Zuckerberg faces less friction in making broad policy changes after Meta&#39;s layoffs in 2022 and 2023, which hit much of its civic integrity teams &lpar;Jonathan Vanian/CNBC&rpar;](http://www.techmeme.com/250111/p17#a250111p17)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

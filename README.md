@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [No thanks, wamen](http://9gag.com/gag/aD2Y97K)
- - 😝 [Ginger people = black](http://9gag.com/gag/azx2zgZ)
- - 💣 [Carry on BRITISH, EUROPEANS, CANADIANS, AUSTRALIANS keen on DENIAL](http://9gag.com/gag/aZZDXwn)
- - 😝 [May, 4th be with you.](http://9gag.com/gag/a0e4g2Q)
- - 👉 [My Prayers Have Been Answered](http://9gag.com/gag/aO8xEvv)<!-- MEMES:END -->
+ - 😝 [Why are you working from home today??](http://9gag.com/gag/amoAOdy)
+ - 😝 [Viruses spread faster than you think.](http://9gag.com/gag/aAy0qnp)
+ - 💣 [The President of Botswana reacting on the world&#39;s second-largest diamond ever found, a rough 2,492-carat stone.](http://9gag.com/gag/aqyeBAP)
+ - 😝 [The cost of this medication.](http://9gag.com/gag/aKGEXQO)
+ - 👉 [Brand new floor DESTROYED by painters\u2026](http://9gag.com/gag/a4Pom2d)<!-- MEMES:END -->
 
 ---
 

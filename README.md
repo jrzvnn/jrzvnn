@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Some advertisers raise brand safety concerns over Meta&#39;s content moderation changes, fearing a surge in harmful content and misinformation on its platforms &lpar;Financial Times&rpar;](http://www.techmeme.com/250112/p7#a250112p7)
+ - [Panasonic Z95A OLED TV Review: Searing Brightness and Colors](https://www.wired.com/review/panasonic-z95a-oled-tv/)
+ - [The best actually real stuff at CES 2025](https://www.theverge.com/2025/1/12/24340864/ces-2025-tvs-nvidia-ai-gaming-installer)
  - [Looking for a Specific Recent Call? Try This iOS 18 Hack](https://www.cnet.com/tech/services-and-software/looking-for-a-specific-recent-call-try-this-ios-18-hack/#ftag=CAD590a51e)
- - [NFL Wild Card Weekend: How to Watch Packers vs. Eagles Today](https://www.cnet.com/tech/services-and-software/nfl-wild-card-weekend-how-to-watch-packers-vs-eagles/#ftag=CAD590a51e)
- - [Your Guide to Apple Intelligence Summaries in iOS 18](https://www.cnet.com/tech/services-and-software/your-guide-to-apple-intelligence-summaries-in-ios-18/#ftag=CAD590a51e)
- - [Best Fiber Internet Providers for January 2025](https://www.cnet.com/home/internet/best-fiber-internet-providers/#ftag=CAD590a51e)
- - [Best Melatonin Supplements of 2025](https://www.cnet.com/health/nutrition/best-melatonin-supplements/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [NFL Wild Card Weekend: How to Watch Packers vs. Eagles Today](https://www.cnet.com/tech/services-and-software/nfl-wild-card-weekend-how-to-watch-packers-vs-eagles/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

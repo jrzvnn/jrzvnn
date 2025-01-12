@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Got to give it to her, that was impressive for a donut munchin lass](http://9gag.com/gag/ajPVGo8)
- - 😝 [Why are you working from home today??](http://9gag.com/gag/amoAOdy)
- - 💣 [This has been going on for far longer than I&#39;ve been working here, but every time new devs join the team &lpar;like me&rpar;, management explains why this is `necessary`. I imagine this `logic` applies to gaming industry as well](http://9gag.com/gag/aKGEyG6)
- - 😝 [Nice Racket](http://9gag.com/gag/aBydvN1)
- - 👉 [Mohammed from Pakistan works as a medical assistant in a British hospital and tried to abuse 10 year old British girls. Mohammed now cries and asks for mercy.](http://9gag.com/gag/a6Zq3bL)<!-- MEMES:END -->
+ - 😝 [The President of Botswana reacting on the world&#39;s second-largest diamond ever found, a rough 2,492-carat stone.](http://9gag.com/gag/aqyeBAP)
+ - 😝 [Nightmare is loading...](http://9gag.com/gag/azx2onZ)
+ - 💣 [If only](http://9gag.com/gag/aXPnd6V)
+ - 😝 [The cost of this medication.](http://9gag.com/gag/aKGEXQO)
+ - 👉 [I wonder if God trolls us](http://9gag.com/gag/a7oqmwL)<!-- MEMES:END -->
 
 ---
 

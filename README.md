@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [The President of Botswana reacting on the world&#39;s second-largest diamond ever found, a rough 2,492-carat stone.](http://9gag.com/gag/aqyeBAP)
- - 😝 [Nightmare is loading...](http://9gag.com/gag/azx2onZ)
- - 💣 [If only](http://9gag.com/gag/aXPnd6V)
  - 😝 [The cost of this medication.](http://9gag.com/gag/aKGEXQO)
- - 👉 [I wonder if God trolls us](http://9gag.com/gag/a7oqmwL)<!-- MEMES:END -->
+ - 😝 [Narrow escape](http://9gag.com/gag/a7oqBqm)
+ - 💣 [Gender reveal, wait no...](http://9gag.com/gag/aMVE0yR)
+ - 😝 [That zebra bit the damn croc \ud83e\udd2f](http://9gag.com/gag/aO8xOmN)
+ - 👉 [Lily Rader: Interview Van, Pleasure Wagon!`](http://9gag.com/gag/an7zW7o)<!-- MEMES:END -->
 
 ---
 

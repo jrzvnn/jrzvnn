@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [The President of Botswana reacting on the world&#39;s second-largest diamond ever found, a rough 2,492-carat stone.](http://9gag.com/gag/aqyeBAP)
- - 😝 [Gender reveal, wait no...](http://9gag.com/gag/aMVE0yR)
- - 💣 [Concrete and stones.That\u2019s the miracle.](http://9gag.com/gag/avyQB0E)
+ - 😝 [Lily Rader: Interview Van, Pleasure Wagon!`](http://9gag.com/gag/an7zW7o)
  - 😝 [Motivation is always the key.](http://9gag.com/gag/amoAO9X)
- - 👉 [No thanks, wamen](http://9gag.com/gag/aD2Y97K)<!-- MEMES:END -->
+ - 💣 [The President of Botswana reacting on the world&#39;s second-largest diamond ever found, a rough 2,492-carat stone.](http://9gag.com/gag/aqyeBAP)
+ - 😝 [The gourd child](http://9gag.com/gag/arymEEV)
+ - 👉 [Have you seen Shaq holds 600ml water bottle?](http://9gag.com/gag/azx2vbx)<!-- MEMES:END -->
 
 ---
 

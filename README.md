@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [The cost of this medication.](http://9gag.com/gag/aKGEXQO)
- - 😝 [Narrow escape](http://9gag.com/gag/a7oqBqm)
- - 💣 [Gender reveal, wait no...](http://9gag.com/gag/aMVE0yR)
  - 😝 [That zebra bit the damn croc \ud83e\udd2f](http://9gag.com/gag/aO8xOmN)
- - 👉 [Lily Rader: Interview Van, Pleasure Wagon!`](http://9gag.com/gag/an7zW7o)<!-- MEMES:END -->
+ - 😝 [The President of Botswana reacting on the world&#39;s second-largest diamond ever found, a rough 2,492-carat stone.](http://9gag.com/gag/aqyeBAP)
+ - 💣 [Brand new floor DESTROYED by painters\u2026](http://9gag.com/gag/a4Pom2d)
+ - 😝 [Concrete and stones.That\u2019s the miracle.](http://9gag.com/gag/avyQB0E)
+ - 👉 [Motivation is always the key.](http://9gag.com/gag/amoAO9X)<!-- MEMES:END -->
 
 ---
 

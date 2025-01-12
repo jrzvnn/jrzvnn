@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [As researchers talk about the arrival of supersmart AI, far fewer voices are trying to envision and articulate what a world awash in AI might actually look like &lpar;Ethan Mollick/One Useful Thing&rpar;](http://www.techmeme.com/250112/p6#a250112p6)
  - [How aligning with Trump&#39;s new administration lets Meta and X pivot from futile cooperation with the EU and other jurisdictions to confrontation and coercion &lpar;David Allen Green/Financial Times&rpar;](http://www.techmeme.com/250112/p5#a250112p5)
  - [New Superconductive Materials Have Just Been Discovered](https://www.wired.com/story/new-superconductive-materials-have-just-been-discovered/)
  - [A survey finds that global banks could cut as many as 200K jobs in the next three to five years as AI encroaches on tasks currently carried out by human workers &lpar;William Shaw/Bloomberg&rpar;](http://www.techmeme.com/250112/p4#a250112p4)
- - [A UK trial in the &amp;pound;1.5B class action suit against Apple is set to begin on Monday over allegations that the company levies &quot;excessive and unfair&quot; App Store fees &lpar;Financial Times&rpar;](http://www.techmeme.com/250112/p3#a250112p3)
- - [US export controls may have slowed China&#39;s AI progress but they also spurred DeepSeek to innovate and release DeepSeek-V3, a top LLM, without the latest chips &lpar;Tyler Cowen/Bloomberg&rpar;](http://www.techmeme.com/250112/p2#a250112p2)<!-- TECH:END -->
+ - [A UK trial in the &amp;pound;1.5B class action suit against Apple is set to begin on Monday over allegations that the company levies &quot;excessive and unfair&quot; App Store fees &lpar;Financial Times&rpar;](http://www.techmeme.com/250112/p3#a250112p3)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

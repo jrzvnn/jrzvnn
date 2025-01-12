@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Andrew dodged a bullet](http://9gag.com/gag/ayN2zGV)
- - 😝 [The Thank-You Blinkers In The End](http://9gag.com/gag/a1mPxPv)
- - 💣 [Have you seen Shaq holds 600ml water bottle?](http://9gag.com/gag/azx2vbx)
- - 😝 [Why are you working from home today??](http://9gag.com/gag/amoAOdy)
- - 👉 [You can&#39;t make this shit up.](http://9gag.com/gag/aAy0m4R)<!-- MEMES:END -->
+ - 😝 [Peak male performance](http://9gag.com/gag/aE0qbv9)
+ - 😝 [Chair stop motion](http://9gag.com/gag/ae9QPwv)
+ - 💣 [Motivation is always the key.](http://9gag.com/gag/amoAO9X)
+ - 😝 [I wasn&#39;t gonna drink this weekend but...](http://9gag.com/gag/aE0qbMG)
+ - 👉 [Everybody all together now\u2026 \u201coh no, anyway\u201d](http://9gag.com/gag/aRBE8bB)<!-- MEMES:END -->
 
 ---
 

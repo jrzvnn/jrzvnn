@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [The Red Roar](http://9gag.com/gag/aoyKDXm)
- - 😝 [Maddest car chase I\u2019ve seen. Dude in the car literally trying to kill him.](http://9gag.com/gag/aYQVdOV)
- - 💣 [Modern Tarzan](http://9gag.com/gag/a4Pox3d)
- - 😝 [KCD 2 reviews are out](http://9gag.com/gag/abAvK5B)
- - 👉 [Why are you working from home today??](http://9gag.com/gag/amoAOdy)<!-- MEMES:END -->
+ - 😝 [You can&#39;t make this shit up.](http://9gag.com/gag/aAy0m4R)
+ - 😝 [Have you seen Shaq holds 600ml water bottle?](http://9gag.com/gag/azx2vbx)
+ - 💣 [Motivation is always the key.](http://9gag.com/gag/amoAO9X)
+ - 😝 [Brand new floor DESTROYED by painters\u2026](http://9gag.com/gag/a4Pom2d)
+ - 👉 [Concrete and stones.That\u2019s the miracle.](http://9gag.com/gag/avyQB0E)<!-- MEMES:END -->
 
 ---
 

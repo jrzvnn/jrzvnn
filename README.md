@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Peak male performance](http://9gag.com/gag/aE0qbv9)
- - 😝 [Chair stop motion](http://9gag.com/gag/ae9QPwv)
- - 💣 [Motivation is always the key.](http://9gag.com/gag/amoAO9X)
- - 😝 [I wasn&#39;t gonna drink this weekend but...](http://9gag.com/gag/aE0qbMG)
- - 👉 [Everybody all together now\u2026 \u201coh no, anyway\u201d](http://9gag.com/gag/aRBE8bB)<!-- MEMES:END -->
+ - 😝 [Have you seen Shaq holds 600ml water bottle?](http://9gag.com/gag/azx2vbx)
+ - 😝 [Modern Tarzan](http://9gag.com/gag/a4Pox3d)
+ - 💣 [Why are you working from home today??](http://9gag.com/gag/amoAOdy)
+ - 😝 [Look at us](http://9gag.com/gag/ae9QqBB)
+ - 👉 [Concrete and stones.That\u2019s the miracle.](http://9gag.com/gag/avyQB0E)<!-- MEMES:END -->
 
 ---
 

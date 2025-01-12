@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Why are you working from home today??](http://9gag.com/gag/amoAOdy)
- - 😝 [Viruses spread faster than you think.](http://9gag.com/gag/aAy0qnp)
- - 💣 [The President of Botswana reacting on the world&#39;s second-largest diamond ever found, a rough 2,492-carat stone.](http://9gag.com/gag/aqyeBAP)
- - 😝 [The cost of this medication.](http://9gag.com/gag/aKGEXQO)
- - 👉 [Brand new floor DESTROYED by painters\u2026](http://9gag.com/gag/a4Pom2d)<!-- MEMES:END -->
+ - 😝 [Nightmare is loading...](http://9gag.com/gag/azx2onZ)
+ - 😝 [This has been going on for far longer than I&#39;ve been working here, but every time new devs join the team &lpar;like me&rpar;, management explains why this is `necessary`. I imagine this `logic` applies to gaming industry as well](http://9gag.com/gag/aKGEyG6)
+ - 💣 [Brand new floor DESTROYED by painters\u2026](http://9gag.com/gag/a4Pom2d)
+ - 😝 [Trap Door Spider](http://9gag.com/gag/aVvb5QP)
+ - 👉 [Nice catch on national television](http://9gag.com/gag/awyZDwR)<!-- MEMES:END -->
 
 ---
 

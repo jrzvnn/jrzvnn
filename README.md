@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Concrete and stones.That\u2019s the miracle.](http://9gag.com/gag/avyQB0E)
- - 😝 [Happiness at work](http://9gag.com/gag/amoAOrv)
- - 💣 [Nightmare is loading...](http://9gag.com/gag/azx2onZ)
  - 😝 [Narrow escape](http://9gag.com/gag/a7oqBqm)
- - 👉 [Why are you working from home today??](http://9gag.com/gag/amoAOdy)<!-- MEMES:END -->
+ - 😝 [Look at us](http://9gag.com/gag/ae9QqBB)
+ - 💣 [Gender reveal, wait no...](http://9gag.com/gag/aMVE0yR)
+ - 😝 [Why are you working from home today??](http://9gag.com/gag/amoAOdy)
+ - 👉 [No thanks, wamen](http://9gag.com/gag/aD2Y97K)<!-- MEMES:END -->
 
 ---
 

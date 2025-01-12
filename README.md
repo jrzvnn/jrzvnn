@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [&#39;The Traitors&#39; Release Schedule: When Episode 4 Premieres on Peacock](https://www.cnet.com/tech/services-and-software/the-traitors-release-schedule-when-episode-4-premieres-on-peacock/#ftag=CAD590a51e)
+ - [Best Apple iPhone SE Cases for 2025](https://www.cnet.com/tech/mobile/best-apple-iphone-se-case/#ftag=CAD590a51e)
  - [Bloomberg EIC John Micklethwait predicts AI&#39;s impact on journalism: jobs will change, not vanish, reporting and breaking news will remain valuable, and more &lpar;John Micklethwait/Bloomberg&rpar;](http://www.techmeme.com/250112/p10#a250112p10)
  - [What does Mark Zuckerberg want from Donald Trump?](https://www.theverge.com/2025/1/12/24342138/mark-zuckerberg-meta-want-donald-trump)
- - [Every Eye-Catching Piece of Next-Gen Tech Unveiled at CES 2025](https://www.cnet.com/tech/every-eye-catching-piece-of-next-gen-tech-unveiled-at-ces-2025/#ftag=CAD590a51e)
- - [Best Workout Apps for 2025](https://www.cnet.com/health/fitness/best-workout-apps/#ftag=CAD590a51e)
- - [Best Internet Providers in Billings, Montana](https://www.cnet.com/home/internet/best-internet-providers-in-billings-mt/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Every Eye-Catching Piece of Next-Gen Tech Unveiled at CES 2025](https://www.cnet.com/tech/every-eye-catching-piece-of-next-gen-tech-unveiled-at-ces-2025/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

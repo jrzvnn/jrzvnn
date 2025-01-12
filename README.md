@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [No thanks, wamen](http://9gag.com/gag/aD2Y97K)
- - 😝 [Ginger people = black](http://9gag.com/gag/azx2zgZ)
- - 💣 [Carry on BRITISH, EUROPEANS, CANADIANS, AUSTRALIANS keen on DENIAL](http://9gag.com/gag/aZZDXwn)
- - 😝 [May, 4th be with you.](http://9gag.com/gag/a0e4g2Q)
- - 👉 [My Prayers Have Been Answered](http://9gag.com/gag/aO8xEvv)<!-- MEMES:END -->
+ - 😝 [Ice Ice Baby](http://9gag.com/gag/aoyKo8m)
+ - 😝 [Trap Door Spider](http://9gag.com/gag/aVvb5QP)
+ - 💣 [Why are you working from home today??](http://9gag.com/gag/amoAOdy)
+ - 😝 [The cost of this medication.](http://9gag.com/gag/aKGEXQO)
+ - 👉 [Bowling pin gets picked up by machine just before it was about to drop](http://9gag.com/gag/aXPnzXd)<!-- MEMES:END -->
 
 ---
 

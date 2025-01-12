@@ -167,10 +167,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [Trap Door Spider](http://9gag.com/gag/aVvb5QP)
- - 😝 [Look at us](http://9gag.com/gag/ae9QqBB)
+ - 😝 [Narrow escape](http://9gag.com/gag/a7oqBqm)
  - 💣 [Why are you working from home today??](http://9gag.com/gag/amoAOdy)
- - 😝 [The gourd child](http://9gag.com/gag/arymEEV)
- - 👉 [No thanks, wamen](http://9gag.com/gag/aD2Y97K)<!-- MEMES:END -->
+ - 😝 [Have you seen Shaq holds 600ml water bottle?](http://9gag.com/gag/azx2vbx)
+ - 👉 [In italy, this is mobbing and illegal](http://9gag.com/gag/a7oqm6r)<!-- MEMES:END -->
 
 ---
 

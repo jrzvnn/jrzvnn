@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Have you seen Shaq holds 600ml water bottle?](http://9gag.com/gag/azx2vbx)
- - 😝 [Modern Tarzan](http://9gag.com/gag/a4Pox3d)
+ - 😝 [Concrete and stones.That\u2019s the miracle.](http://9gag.com/gag/avyQB0E)
+ - 😝 [That zebra bit the damn croc \ud83e\udd2f](http://9gag.com/gag/aO8xOmN)
  - 💣 [Why are you working from home today??](http://9gag.com/gag/amoAOdy)
  - 😝 [Look at us](http://9gag.com/gag/ae9QqBB)
- - 👉 [Concrete and stones.That\u2019s the miracle.](http://9gag.com/gag/avyQB0E)<!-- MEMES:END -->
+ - 👉 [You can&#39;t make this shit up.](http://9gag.com/gag/aAy0m4R)<!-- MEMES:END -->
 
 ---
 

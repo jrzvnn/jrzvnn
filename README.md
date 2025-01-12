@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Trap Door Spider](http://9gag.com/gag/aVvb5QP)
- - 😝 [Narrow escape](http://9gag.com/gag/a7oqBqm)
- - 💣 [Why are you working from home today??](http://9gag.com/gag/amoAOdy)
- - 😝 [Have you seen Shaq holds 600ml water bottle?](http://9gag.com/gag/azx2vbx)
- - 👉 [In italy, this is mobbing and illegal](http://9gag.com/gag/a7oqm6r)<!-- MEMES:END -->
+ - 😝 [Bowling pin gets picked up by machine just before it was about to drop](http://9gag.com/gag/aXPnzXd)
+ - 😝 [This has been going on for far longer than I&#39;ve been working here, but every time new devs join the team &lpar;like me&rpar;, management explains why this is `necessary`. I imagine this `logic` applies to gaming industry as well](http://9gag.com/gag/aKGEyG6)
+ - 💣 [Finally got an inside view of North Korea](http://9gag.com/gag/apR972b)
+ - 😝 [Brand new floor DESTROYED by painters\u2026](http://9gag.com/gag/a4Pom2d)
+ - 👉 [Have you seen Shaq holds 600ml water bottle?](http://9gag.com/gag/azx2vbx)<!-- MEMES:END -->
 
 ---
 

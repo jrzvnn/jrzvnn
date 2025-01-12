@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [You Have NASA to Thank for Wireless Headphones and Vaccuum Cleaners](https://www.wired.com/gallery/nasa-spinoff-space-research-technology/)
- - [Best MagSafe Accessories for iPhone in 2025](https://www.cnet.com/tech/mobile/best-magsafe-and-magnetic-iphone-accessories/#ftag=CAD590a51e)
  - [Meta&#39;s changes to its content policies will appease vocal political critics only for the short term, and they signal a retreat from responsibility to users &lpar;Ren&amp;eacute;e DiResta&rpar;](http://www.techmeme.com/250112/p11#a250112p11)
- - [6 Groundbreaking Tech Trends from CES 2025 That Will Change Everything](https://www.cnet.com/tech/6-groundbreaking-tech-trends-from-ces-2025-that-will-change-everything/#ftag=CAD590a51e)
- - [&#39;The Traitors&#39; Release Schedule: When Episode 4 Premieres on Peacock](https://www.cnet.com/tech/services-and-software/the-traitors-release-schedule-when-episode-4-premieres-on-peacock/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [&#39;The Traitors&#39; Release Schedule: When Episode 4 Premieres on Peacock](https://www.cnet.com/tech/services-and-software/the-traitors-release-schedule-when-episode-4-premieres-on-peacock/#ftag=CAD590a51e)
+ - [Best Apple iPhone SE Cases for 2025](https://www.cnet.com/tech/mobile/best-apple-iphone-se-case/#ftag=CAD590a51e)
+ - [Bloomberg EIC John Micklethwait predicts AI&#39;s impact on journalism: jobs will change, not vanish, reporting and breaking news will remain valuable, and more &lpar;John Micklethwait/Bloomberg&rpar;](http://www.techmeme.com/250112/p10#a250112p10)
+ - [What does Mark Zuckerberg want from Donald Trump?](https://www.theverge.com/2025/1/12/24342138/mark-zuckerberg-meta-want-donald-trump)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

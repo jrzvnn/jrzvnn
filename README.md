@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Why are you working from home today??](http://9gag.com/gag/amoAOdy)
+ - 😝 [The Thank-You Blinkers In The End](http://9gag.com/gag/a1mPxPv)
  - 😝 [Modern Tarzan](http://9gag.com/gag/a4Pox3d)
- - 💣 [The Thank-You Blinkers In The End](http://9gag.com/gag/a1mPxPv)
+ - 💣 [Ben Affleck watching his house burning and thinking about the new meme he&#39;s about to become.](http://9gag.com/gag/a5QXApN)
  - 😝 [You can&#39;t make this shit up.](http://9gag.com/gag/aAy0m4R)
- - 👉 [Have you seen Shaq holds 600ml water bottle?](http://9gag.com/gag/azx2vbx)<!-- MEMES:END -->
+ - 👉 [No words but clearly understood](http://9gag.com/gag/ae9Qd4B)<!-- MEMES:END -->
 
 ---
 

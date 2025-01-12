@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Best Portable Chargers and Power Banks to Buy for Android in 2025](https://www.cnet.com/tech/mobile/best-portable-chargers-power-banks-for-android/#ftag=CAD590a51e)
+ - [On Monday the UK will announce a five-year investment in government-owned AI computing capacity; a UK-commissioned report suggests building a ~100K GPU cluster &lpar;Financial Times&rpar;](http://www.techmeme.com/250112/p12#a250112p12)
  - [Crime blotter: London robberies, Nashville disco, &amp; AirTag help](https://appleinsider.com/articles/25/01/12/crime-blotter-london-robberies-nashville-disco-airtag-help?utm_medium=rss)
- - [Best Teeth Whitening Kits in 2025](https://www.cnet.com/health/personal-care/best-teeth-whitening-kits/#ftag=CAD590a51e)
  - [PSA: Text scammers resorting to new tactics to get you to enable phishing links](https://appleinsider.com/articles/25/01/12/psa-text-scammers-resorting-to-new-tactics-to-get-you-to-enable-phishing-links?utm_medium=rss)
- - [Best Dog Toys, According to the Experts: Our Dogs](https://www.cnet.com/home/kitchen-and-household/best-dog-toys/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Best Smart Displays of 2025](https://www.cnet.com/home/smart-home/best-smart-displays/#ftag=CAD590a51e)
+ - [Today&#39;s NYT Connections Hints, Answers and Help for Jan. 13, #582](https://www.cnet.com/tech/gaming/todays-nyt-connections-hints-answers-and-help-for-jan-13-582/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

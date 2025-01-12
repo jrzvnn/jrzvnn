@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [I wonder if God trolls us](http://9gag.com/gag/a7oqmwL)
- - 😝 [Look at us](http://9gag.com/gag/ae9QqBB)
- - 💣 [If only](http://9gag.com/gag/aXPnd6V)
  - 😝 [The cost of this medication.](http://9gag.com/gag/aKGEXQO)
- - 👉 [Concrete and stones.That\u2019s the miracle.](http://9gag.com/gag/avyQB0E)<!-- MEMES:END -->
+ - 😝 [Sexual lifetime activity of a 9GAG&#39;er be like...](http://9gag.com/gag/avyQB7d)
+ - 💣 [Why are you working from home today??](http://9gag.com/gag/amoAOdy)
+ - 😝 [Concrete and stones.That\u2019s the miracle.](http://9gag.com/gag/avyQB0E)
+ - 👉 [Narrow escape](http://9gag.com/gag/a7oqBqm)<!-- MEMES:END -->
 
 ---
 

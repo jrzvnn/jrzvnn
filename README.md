@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Best Smart Displays of 2025](https://www.cnet.com/home/smart-home/best-smart-displays/#ftag=CAD590a51e)
+ - [Today&#39;s NYT Connections Hints, Answers and Help for Jan. 13, #582](https://www.cnet.com/tech/gaming/todays-nyt-connections-hints-answers-and-help-for-jan-13-582/#ftag=CAD590a51e)
+ - [Today&#39;s Wordle Hints, Answer and Help for Jan. 13, #1304](https://www.cnet.com/tech/gaming/todays-wordle-hints-answer-and-help-for-jan-13-1304/#ftag=CAD590a51e)
  - [Best MagSafe Accessories for iPhone in 2025](https://www.cnet.com/tech/mobile/best-magsafe-and-magnetic-iphone-accessories/#ftag=CAD590a51e)
- - [Meta&#39;s changes to its content policies will appease vocal political critics only for the short term, and they signal a retreat from responsibility to users &lpar;Ren&amp;eacute;e DiResta&rpar;](http://www.techmeme.com/250112/p11#a250112p11)
- - [6 Groundbreaking Tech Trends from CES 2025 That Will Change Everything](https://www.cnet.com/tech/6-groundbreaking-tech-trends-from-ces-2025-that-will-change-everything/#ftag=CAD590a51e)
- - [&#39;The Traitors&#39; Release Schedule: When Episode 4 Premieres on Peacock](https://www.cnet.com/tech/services-and-software/the-traitors-release-schedule-when-episode-4-premieres-on-peacock/#ftag=CAD590a51e)
- - [Best Apple iPhone SE Cases for 2025](https://www.cnet.com/tech/mobile/best-apple-iphone-se-case/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Meta&#39;s changes to its content policies will appease vocal political critics only for the short term, and they signal a retreat from responsibility to users &lpar;Ren&amp;eacute;e DiResta&rpar;](http://www.techmeme.com/250112/p11#a250112p11)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

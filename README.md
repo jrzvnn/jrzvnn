@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Best Portable Chargers and Power Banks to Buy for Android in 2025](https://www.cnet.com/tech/mobile/best-portable-chargers-power-banks-for-android/#ftag=CAD590a51e)
  - [Crime blotter: London robberies, Nashville disco, &amp; AirTag help](https://appleinsider.com/articles/25/01/12/crime-blotter-london-robberies-nashville-disco-airtag-help?utm_medium=rss)
+ - [Best Teeth Whitening Kits in 2025](https://www.cnet.com/health/personal-care/best-teeth-whitening-kits/#ftag=CAD590a51e)
  - [PSA: Text scammers resorting to new tactics to get you to enable phishing links](https://appleinsider.com/articles/25/01/12/psa-text-scammers-resorting-to-new-tactics-to-get-you-to-enable-phishing-links?utm_medium=rss)
- - [Best Smart Displays of 2025](https://www.cnet.com/home/smart-home/best-smart-displays/#ftag=CAD590a51e)
- - [Today&#39;s NYT Connections Hints, Answers and Help for Jan. 13, #582](https://www.cnet.com/tech/gaming/todays-nyt-connections-hints-answers-and-help-for-jan-13-582/#ftag=CAD590a51e)
- - [Today&#39;s Wordle Hints, Answer and Help for Jan. 13, #1304](https://www.cnet.com/tech/gaming/todays-wordle-hints-answer-and-help-for-jan-13-1304/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Best Dog Toys, According to the Experts: Our Dogs](https://www.cnet.com/home/kitchen-and-household/best-dog-toys/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Mercedes-Benz’s Virtual Assistant uses Google’s conversational AI agent](https://www.theverge.com/2025/1/13/24342683/mercedes-benz-mbux-virtual-assistant-google-automotive-ai-agent)
- - [Best gear for Apple users that debuted during CES 2025](https://appleinsider.com/articles/25/01/13/best-gear-for-apple-users-that-debuted-during-ces-2025?utm_medium=rss)
- - [Best Vitamins for Energy in 2025](https://www.cnet.com/health/nutrition/best-vitamins-for-energy/#ftag=CAD590a51e)
- - [8BitDo’s drift-free mobile controller is on sale for the first time](https://www.theverge.com/2025/1/13/24342650/8bitdo-ultimate-mobile-gaming-controller-samsung-m80d-smart-monitor-deal-sale)
- - [Meghan Markle Delays Her Netflix Show Due to LA Fires](https://www.cnet.com/tech/services-and-software/meghan-markle-delays-her-netflix-show-due-to-la-fires/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Sources: Chainalysis acquires AI-agent security startup Alterya for ~$150M; Alterya is still in stealth mode but has clients including Coinbase, Square, Binance &lpar;Leena Rao/Business Insider&rpar;](http://www.techmeme.com/250113/p30#a250113p30)
+ - [Samsung is adding two new Galaxy Ring sizes](https://www.theverge.com/2025/1/13/24342776/samsung-galaxy-ring-new-sizes-14-15-available-now)
+ - [Clearwater Analytics agreed to acquire Enfusion, a SaaS provider for hedge funds and investment managers, in a cash-and-stock deal valued at $1.5B &lpar;Ryan Lawler/Axios&rpar;](http://www.techmeme.com/250113/p29#a250113p29)
+ - [Jimmy Wales, Mark Ruffalo, others debut Free Our Feeds to raise $30M by 2028 to &quot;billionaire-proof&quot; AT Protocol, by making it easier for users to leave Bluesky &lpar;Richard Nieva/Forbes&rpar;](http://www.techmeme.com/250113/p28#a250113p28)
+ - [Crypto payments platform MoonPay has acquired blockchain payment processor Helio, a source says for $175M &lpar;Eleanor Terrett/Fox Business&rpar;](http://www.techmeme.com/250113/p27#a250113p27)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

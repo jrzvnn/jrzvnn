@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [‘Goodbye to my Chinese spy’ might be the last great TikTok trend](https://www.theverge.com/2025/1/13/24343063/tiktok-ban-goodbye-chinese-spy-trend)
+ - [Texas sues Allstate and its subsidiary Arity, accusing the insurer of illegally collecting and selling data about people&#39;s driving behavior through mobile apps &lpar;Kashmir Hill/New York Times&rpar;](http://www.techmeme.com/250113/p37#a250113p37)
  - [Microsoft is creating a new &quot;CoreAI - Platform and Tools&quot; unit led by Jay Parikh, the ex-Lacework CEO and Meta engineering executive who joined in October 2024 &lpar;Todd Bishop/GeekWire&rpar;](http://www.techmeme.com/250113/p36#a250113p36)
  - [IAC board approves the spinoff of home improvement marketplace Angi; IAC has previously spun off companies like Expedia, Ticketmaster, and LendingTree &lpar;Salvador Rodriguez/CNBC&rpar;](http://www.techmeme.com/250113/p35#a250113p35)
- - [The SEC says that two Robinhood broker-dealers agreed to pay $45M in combined penalties to settle charges that they violated over 10 securities law provisions &lpar;Dan Mangan/CNBC&rpar;](http://www.techmeme.com/250113/p34#a250113p34)
- - [Meta is already working on Community Notes for Threads](https://www.theverge.com/2025/1/13/24342930/meta-threads-community-notes-leaks)
- - [IIllinois will implement digital IDs and driver&#39;s licenses for Apple Wallet in 2025](https://appleinsider.com/articles/25/01/13/iillinois-will-implement-digital-ids-and-drivers-licenses-for-apple-wallet-in-2025?utm_medium=rss)<!-- TECH:END -->
+ - [The SEC says that two Robinhood broker-dealers agreed to pay $45M in combined penalties to settle charges that they violated over 10 securities law provisions &lpar;Dan Mangan/CNBC&rpar;](http://www.techmeme.com/250113/p34#a250113p34)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

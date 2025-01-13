@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Nvidia announces partnerships with Illumina, the Mayo Clinic, and other companies as part of its push to encourage AI adoption by the health care industry &lpar;Ian King/Bloomberg&rpar;](http://www.techmeme.com/250113/p21#a250113p21)
  - [Sources: Microsoft, Meta, AWS, and Google recently cut some orders of Nvidia&#39;s Blackwell GB200 racks, as overheating and connection glitches lead to delays &lpar;The Information&rpar;](http://www.techmeme.com/250113/p20#a250113p20)
  - [Donald Trump Jr. is joining prediction-market startup Kalshi as a strategic adviser; CFTC called Kalshi &quot;an online casino&quot; in a December filing &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/250113/p19#a250113p19)
  - [T-Mobile agrees to acquire Vistar Media, which focuses on programmatic digital out of home advertising, for $600M in cash; the deal is expected to close in Q1 &lpar;Kerry Flynn/Axios&rpar;](http://www.techmeme.com/250113/p18#a250113p18)
- - [Adobe’s new AI tool can edit 10,000 images in one click](https://www.theverge.com/2025/1/13/24342622/adobe-firefly-bulk-create-api-announcement-availability)
- - [Sources share details on the amorphous DOGE, largely a collection of Signal group chats coordinating US policy or personnel recommendations and recruitment &lpar;New York Times&rpar;](http://www.techmeme.com/250113/p17#a250113p17)<!-- TECH:END -->
+ - [Best Coffee Grinders for 2025: Oxo, Baratza and Breville](https://www.cnet.com/home/kitchen-and-household/best-coffee-grinder/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

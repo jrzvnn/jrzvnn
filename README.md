@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Parallels 20.2 trials x86 VMs on Apple Silicon, bringing Linux &amp; Windows 11 support](https://appleinsider.com/articles/25/01/13/parallels-202-trials-x86-vms-on-apple-silicon-bringing-linux-windows-11-support?utm_medium=rss)
  - [Free Our Feeds wants to build a social media ecosystem ‘resistant to billionaire influence’](https://www.theverge.com/2025/1/13/24342799/free-our-feeds-social-media-ecosystem-at-protocol-bluesky)
  - [Mortgage Predictions for Week of Jan. 13-19: Everything to Know About Rates](https://www.cnet.com/personal-finance/mortgage-predictions-for-week-of-jan-13-19-everything-to-know-about-rates/#ftag=CAD590a51e)
  - [Sources: Chainalysis acquires AI-agent security startup Alterya for ~$150M; Alterya is still in stealth mode but has clients including Coinbase, Square, Binance &lpar;Leena Rao/Business Insider&rpar;](http://www.techmeme.com/250113/p30#a250113p30)
- - [8 Steps for Homeowners When Your Property Is Destroyed by a Wildfire](https://www.cnet.com/personal-finance/insurance/8-steps-for-homeowners-when-your-property-is-destroyed-by-a-wildfire/#ftag=CAD590a51e)
- - [Best Internet Providers in Fort Myers, Florida](https://www.cnet.com/home/internet/best-internet-providers-in-fort-myers-fl/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [8 Steps for Homeowners When Your Property Is Destroyed by a Wildfire](https://www.cnet.com/personal-finance/insurance/8-steps-for-homeowners-when-your-property-is-destroyed-by-a-wildfire/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

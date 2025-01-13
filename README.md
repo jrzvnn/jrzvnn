@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [Love at first sight](http://9gag.com/gag/amoAOA9)
+ - 😝 [The gourd child](http://9gag.com/gag/arymEEV)
+ - 💣 [The cost of this medication.](http://9gag.com/gag/aKGEXQO)
  - 😝 [Nice catch on national television](http://9gag.com/gag/awyZDwR)
- - 😝 [This has been going on for far longer than I&#39;ve been working here, but every time new devs join the team &lpar;like me&rpar;, management explains why this is `necessary`. I imagine this `logic` applies to gaming industry as well](http://9gag.com/gag/aKGEyG6)
- - 💣 [Brand new floor DESTROYED by painters\u2026](http://9gag.com/gag/a4Pom2d)
- - 😝 [The President of Botswana reacting on the world&#39;s second-largest diamond ever found, a rough 2,492-carat stone.](http://9gag.com/gag/aqyeBAP)
- - 👉 [The cost of this medication.](http://9gag.com/gag/aKGEXQO)<!-- MEMES:END -->
+ - 👉 [Why are you working from home today??](http://9gag.com/gag/amoAOdy)<!-- MEMES:END -->
 
 ---
 

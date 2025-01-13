@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [A report on CES 2025: tech giants were mostly absent, Nvidia&#39;s keynote was a big event, AI experimentation, supply chains adapting to geopolitics, and more &lpar;Steven Sinofsky/Hardcore Software&rpar;](http://www.techmeme.com/250113/p4#a250113p4)
  - [Best Weightlifting Shoes for 2025](https://www.cnet.com/health/fitness/best-weightlifting-shoes/#ftag=CAD590a51e)
  - [Today only: 14-inch MacBook Pro &lpar;M3 Pro, 36GB RAM, 1TB&rpar; plunges to $1,999](https://appleinsider.com/articles/25/01/13/today-only-14-inch-macbook-pro-m3-pro-36gb-ram-1tb-plunges-to-1999?utm_medium=rss)
  - [Sources: Indian investment app Groww plans to file for an IPO within 10-12 months, seeking a $6B-$8B valuation; Groww was last valued at $3B in October 2021 &lpar;Manish Singh/TechCrunch&rpar;](http://www.techmeme.com/250113/p3#a250113p3)
- - [Starlink has disrupted Kenya&#39;s existing ISP industry since its launch in July 2023, forcing legacy providers to lower prices and increase internet speeds &lpar;Rest of World&rpar;](http://www.techmeme.com/250113/p2#a250113p2)
- - [New Glenn: Blue Origin’s big rocket launch is... scrubbed](https://www.theverge.com/2025/1/11/24339813/blue-origin-new-glenn-rocket-launch-how-to-watch-time-date)<!-- TECH:END -->
+ - [Starlink has disrupted Kenya&#39;s existing ISP industry since its launch in July 2023, forcing legacy providers to lower prices and increase internet speeds &lpar;Rest of World&rpar;](http://www.techmeme.com/250113/p2#a250113p2)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Memo: Microsoft reorgs its cloud and AI teams to form a new &quot;Core AI&quot; unit led by Jay Parikh, the ex-Lacework CEO and Meta engineering exec that joined in 2024 &lpar;Aaron Holmes/The Information&rpar;](http://www.techmeme.com/250113/p25#a250113p25)
  - [A major data broker hack may have leaked precise location info for millions](https://www.theverge.com/2025/1/13/24342694/gravy-analytics-location-data-broker-breach-hack-disclosed)
  - [A look at Troodi, a mental health chatbot built by AI startup Elomia Health for Troomi&#39;s child-focused phones, with thousands of teen users across the US &lpar;Julie Jargon/Wall Street Journal&rpar;](http://www.techmeme.com/250113/p24#a250113p24)
  - [New hack breaks open Apple&#39;s USB-C security](https://appleinsider.com/articles/25/01/13/usb-c-vulnerability-could-result-in-new-iphone-jailbreak-techniques?utm_medium=rss)
- - [Apple&#39;s iPad mini 7 drops to $399, the lowest price on record](https://appleinsider.com/articles/25/01/13/apples-ipad-mini-7-drops-to-399-the-lowest-price-on-record?utm_medium=rss)
- - [Supercharge Your Savings Goals With APYs Over 4%. Today&#39;s Savings Rates for Jan. 13, 2025](https://www.cnet.com/personal-finance/banking/supercharge-your-savings-goals-with-apys-over-4-todays-savings-rates-for-jan-13-2025/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Apple&#39;s iPad mini 7 drops to $399, the lowest price on record](https://appleinsider.com/articles/25/01/13/apples-ipad-mini-7-drops-to-399-the-lowest-price-on-record?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

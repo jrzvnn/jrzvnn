@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Memo: Microsoft reorgs its cloud and AI teams to form a new &quot;Core AI&quot; unit led by Jay Parikh, the ex-Lacework CEO and Meta engineering exec that joined in 2024 &lpar;Aaron Holmes/The Information&rpar;](http://www.techmeme.com/250113/p25#a250113p25)
- - [A major data broker hack may have leaked precise location info for millions](https://www.theverge.com/2025/1/13/24342694/gravy-analytics-location-data-broker-breach-hack-disclosed)
- - [A look at Troodi, a mental health chatbot built by AI startup Elomia Health for Troomi&#39;s child-focused phones, with thousands of teen users across the US &lpar;Julie Jargon/Wall Street Journal&rpar;](http://www.techmeme.com/250113/p24#a250113p24)
- - [New hack breaks open Apple&#39;s USB-C security](https://appleinsider.com/articles/25/01/13/usb-c-vulnerability-could-result-in-new-iphone-jailbreak-techniques?utm_medium=rss)
- - [Apple&#39;s iPad mini 7 drops to $399, the lowest price on record](https://appleinsider.com/articles/25/01/13/apples-ipad-mini-7-drops-to-399-the-lowest-price-on-record?utm_medium=rss)<!-- TECH:END -->
+ - [8BitDo’s drift-free mobile controller is on sale for the first time](https://www.theverge.com/2025/1/13/24342650/8bitdo-ultimate-mobile-gaming-controller-samsung-m80d-smart-monitor-deal-sale)
+ - [Raspberry AI, which uses AI to turn fashion designer sketches into realistic images and has ~70 clients including Under Armour, raised an a16z-led $24M Series A &lpar;Marina Temkin/TechCrunch&rpar;](http://www.techmeme.com/250113/p26#a250113p26)
+ - [Sonos CEO leaves company over botched iOS app [u]](https://appleinsider.com/articles/25/01/13/sonos-ceo-leaves-company-over-botched-ios-app?utm_medium=rss)
+ - [Microsoft creates new AI engineering group led by former Meta executive](https://www.theverge.com/2025/1/13/24342793/microsoft-ai-engineering-group-coreai-jay-parikh)
+ - [Memo: Microsoft reorgs its cloud and AI teams to form a new &quot;Core AI&quot; unit led by Jay Parikh, the ex-Lacework CEO and Meta engineering exec that joined in 2024 &lpar;Aaron Holmes/The Information&rpar;](http://www.techmeme.com/250113/p25#a250113p25)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

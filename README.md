@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Narrow escape](http://9gag.com/gag/a7oqBqm)
+ - 😝 [Ice Ice Baby](http://9gag.com/gag/aoyKo8m)
  - 😝 [It&#39;s all fake](http://9gag.com/gag/ayN2AGV)
- - 💣 [Nightmare is loading...](http://9gag.com/gag/azx2onZ)
- - 😝 [Love at first sight](http://9gag.com/gag/amoAOA9)
- - 👉 [That zebra bit the damn croc \ud83e\udd2f](http://9gag.com/gag/aO8xOmN)<!-- MEMES:END -->
+ - 💣 [Concrete and stones.That\u2019s the miracle.](http://9gag.com/gag/avyQB0E)
+ - 😝 [The cost of this medication.](http://9gag.com/gag/aKGEXQO)
+ - 👉 [Why are you working from home today??](http://9gag.com/gag/amoAOdy)<!-- MEMES:END -->
 
 ---
 

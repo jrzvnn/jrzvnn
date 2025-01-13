@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Finally got an inside view of North Korea](http://9gag.com/gag/apR972b)
+ - 😝 [This was fast...](http://9gag.com/gag/avyQw5b)
+ - 😝 [Husband being husband](http://9gag.com/gag/aRBEpzG)
+ - 💣 [Someone handed me this card at the bar.](http://9gag.com/gag/aBydMv1)
  - 😝 [Nice catch on national television](http://9gag.com/gag/awyZDwR)
- - 💣 [Husband being husband](http://9gag.com/gag/aRBEpzG)
- - 😝 [What a beautiful memory](http://9gag.com/gag/aQzE537)
- - 👉 [When everyday is a bad hair day](http://9gag.com/gag/aYQV0NN)<!-- MEMES:END -->
+ - 👉 [What a beautiful memory](http://9gag.com/gag/aQzE537)<!-- MEMES:END -->
 
 ---
 

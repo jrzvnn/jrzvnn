@@ -166,10 +166,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Ice Ice Baby](http://9gag.com/gag/aoyKo8m)
- - 😝 [It&#39;s all fake](http://9gag.com/gag/ayN2AGV)
- - 💣 [Concrete and stones.That\u2019s the miracle.](http://9gag.com/gag/avyQB0E)
- - 😝 [The cost of this medication.](http://9gag.com/gag/aKGEXQO)
+ - 😝 [Concrete and stones.That\u2019s the miracle.](http://9gag.com/gag/avyQB0E)
+ - 😝 [What a best Australian handmade boomerang can do.](http://9gag.com/gag/aBydbpQ)
+ - 💣 [Nice catch on national television](http://9gag.com/gag/awyZDwR)
+ - 😝 [Love at first sight](http://9gag.com/gag/amoAOA9)
  - 👉 [Why are you working from home today??](http://9gag.com/gag/amoAOdy)<!-- MEMES:END -->
 
 ---

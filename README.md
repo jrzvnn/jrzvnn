@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [An investigation finds 15 police departments across 12 US states have arrested suspects identified through facial recognition without having any other evidence &lpar;Washington Post&rpar;](http://www.techmeme.com/250113/p32#a250113p32)
  - [Nintendo’s Alarmo will be available for everyone starting in March](https://www.theverge.com/2025/1/13/24342984/nintendo-alarmo-wide-release-date)
  - [This Throbbing High-Tech Sound Bath Cleansed Me of Stress After CES 2025](https://www.cnet.com/health/mental/this-throbbing-high-tech-sound-bath-cleansed-me-of-stress-after-ces-2025/#ftag=CAD590a51e)
  - [Judge Ends One Man&#39;s 11-Year Quest to Recover $765 Million in Bitcoin by Digging Up a Landfill](https://www.wired.com/story/bitcoin-landfill-excavation-james-howells-judge-ruling/)
- - [Ahead of a likely TikTok ban in the US, users are fleeing to Chinese apps Xiaohongshu and ByteDance-owned Lemon8, currently the top two apps in the US App Store &lpar;Zeyi Yang/Wired&rpar;](http://www.techmeme.com/250113/p31#a250113p31)
- - [New Parallels update trials x86 Linux &amp; Windows VMs on Apple Silicon](https://appleinsider.com/articles/25/01/13/parallels-202-trials-x86-vms-on-apple-silicon-bringing-linux-windows-11-support?utm_medium=rss)<!-- TECH:END -->
+ - [Ahead of a likely US TikTok ban, users flee to Chinese apps Xiaohongshu, aka RedNote, and ByteDance&#39;s Lemon8, currently the top two apps in the US App Store &lpar;Zeyi Yang/Wired&rpar;](http://www.techmeme.com/250113/p31#a250113p31)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

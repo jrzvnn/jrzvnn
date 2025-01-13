@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Narrow escape](http://9gag.com/gag/a7oqBqm)
- - 😝 [The cost of this medication.](http://9gag.com/gag/aKGEXQO)
- - 💣 [I wonder if God trolls us](http://9gag.com/gag/a7oqmwL)
- - 😝 [A Fantastic Fit](http://9gag.com/gag/aYQV6Kx)
- - 👉 [Someone handed me this card at the bar.](http://9gag.com/gag/aBydMv1)<!-- MEMES:END -->
+ - 😝 [Someone handed me this card at the bar.](http://9gag.com/gag/aBydMv1)
+ - 😝 [Happiness at work](http://9gag.com/gag/amoAOrv)
+ - 💣 [It&#39;s all fake](http://9gag.com/gag/ayN2AGV)
+ - 😝 [I wonder if God trolls us](http://9gag.com/gag/a7oqmwL)
+ - 👉 [Narrow escape](http://9gag.com/gag/a7oqBqm)<!-- MEMES:END -->
 
 ---
 

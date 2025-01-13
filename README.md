@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Sources: Indian investment app Groww plans to file for an IPO within 10-12 months, seeking a $6B-$8B valuation; Groww was last valued at $3B in October 2021 &lpar;Manish Singh/TechCrunch&rpar;](http://www.techmeme.com/250113/p3#a250113p3)
+ - [Starlink has disrupted Kenya&#39;s existing ISP industry since its launch in July 2023, forcing legacy providers to lower prices and increase internet speeds &lpar;Rest of World&rpar;](http://www.techmeme.com/250113/p2#a250113p2)
+ - [New Glenn: Blue Origin’s next big rocket launch is here](https://www.theverge.com/2025/1/11/24339813/blue-origin-new-glenn-rocket-launch-how-to-watch-time-date)
  - [Global smartphone shipments grew 4% YoY in 2024 after a decade-low in 2023; top two brands, Samsung and Apple, were mostly flat, while Xiaomi grew 12% YoY &lpar;Counterpoint Research&rpar;](http://www.techmeme.com/250113/p1#a250113p1)
- - [Samsung&#39;s popular 32-inch M8 monitor is on sale for $399.99](https://appleinsider.com/articles/25/01/13/samsungs-popular-32-inch-m8-monitor-is-on-sale-for-39999?utm_medium=rss)
- - [The UK PM debuts plans to increase its public sector compute by over 20x to spark a &quot;national renewal&quot;, saying the UK doesn&#39;t need to walk a US or EU path on AI &lpar;Keir Starmer/Financial Times&rpar;](http://www.techmeme.com/250112/p14#a250112p14)
- - [Today&#39;s NYT Mini Crossword Answers for Monday, Jan. 13](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-monday-jan-13/#ftag=CAD590a51e)
- - [Today&#39;s NYT Strands Hints, Answers and Help for Jan. 13, #316](https://www.cnet.com/tech/gaming/todays-nyt-strands-hints-answers-and-help-for-jan-13-316/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Samsung&#39;s popular 32-inch M8 monitor is on sale for $399.99](https://appleinsider.com/articles/25/01/13/samsungs-popular-32-inch-m8-monitor-is-on-sale-for-39999?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

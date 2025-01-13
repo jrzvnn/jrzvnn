@@ -166,7 +166,7 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Husband being husband](http://9gag.com/gag/aRBEpzG)
+ - 😝 [When everyday is a bad hair day](http://9gag.com/gag/aYQV0NN)
  - 😝 [Damn](http://9gag.com/gag/a2vKXVE)
  - 💣 [Finally got an inside view of North Korea](http://9gag.com/gag/apR972b)
  - 😝 [What a beautiful memory](http://9gag.com/gag/aQzE537)

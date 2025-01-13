@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [T-Mobile agrees to acquire Vistar Media, which focuses on programmatic digital out of home advertising, for $600M in cash; the deal is expected to close in Q1 &lpar;Kerry Flynn/Axios&rpar;](http://www.techmeme.com/250113/p18#a250113p18)
+ - [Adobe’s new AI tool can edit 10,000 images in one click](https://www.theverge.com/2025/1/13/24342622/adobe-firefly-bulk-create-api-announcement-availability)
  - [Sources share details on the amorphous DOGE, largely a collection of Signal group chats coordinating US policy or personnel recommendations and recruitment &lpar;New York Times&rpar;](http://www.techmeme.com/250113/p17#a250113p17)
  - [Sonos CEO leaves company over botched iOS app](https://appleinsider.com/articles/25/01/13/sonos-ceo-leaves-company-over-botched-ios-app?utm_medium=rss)
- - [Sources: the EU sent questionnaires to app developers in December focusing on concerns Apple&#39;s Core Technology Fee of &amp;euro;0.50 per app install could drive up costs &lpar;Samuel Stolton/Bloomberg&rpar;](http://www.techmeme.com/250113/p16#a250113p16)
- - [Mastodon CEO Eugen Rochko plans to transfer Mastodon&#39;s ownership to a new non-profit, saying it &quot;should not be owned or controlled by a single individual&quot; &lpar;Dominic Preston/The Verge&rpar;](http://www.techmeme.com/250113/p15#a250113p15)
- - [USB-C vulnerability could result in new iPhone jailbreak techniques](https://appleinsider.com/articles/25/01/13/usb-c-vulnerability-could-result-in-new-iphone-jailbreak-techniques?utm_medium=rss)<!-- TECH:END -->
+ - [Sources: the EU sent questionnaires to app developers in December focusing on concerns Apple&#39;s Core Technology Fee of &amp;euro;0.50 per app install could drive up costs &lpar;Samuel Stolton/Bloomberg&rpar;](http://www.techmeme.com/250113/p16#a250113p16)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [The gourd child](http://9gag.com/gag/arymEEV)
- - 😝 [Nice catch on national television](http://9gag.com/gag/awyZDwR)
+ - 😝 [Concrete and stones.That\u2019s the miracle.](http://9gag.com/gag/avyQB0E)
+ - 😝 [Narrow escape](http://9gag.com/gag/a7oqBqm)
  - 💣 [This has been going on for far longer than I&#39;ve been working here, but every time new devs join the team &lpar;like me&rpar;, management explains why this is `necessary`. I imagine this `logic` applies to gaming industry as well](http://9gag.com/gag/aKGEyG6)
- - 😝 [Love at first sight](http://9gag.com/gag/amoAOA9)
- - 👉 [It&#39;s all fake](http://9gag.com/gag/ayN2AGV)<!-- MEMES:END -->
+ - 😝 [Motivation is always the key.](http://9gag.com/gag/amoAO9X)
+ - 👉 [The cost of this medication.](http://9gag.com/gag/aKGEXQO)<!-- MEMES:END -->
 
 ---
 

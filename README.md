@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Narrow escape](http://9gag.com/gag/a7oqBqm)
+ - 😝 [The cost of this medication.](http://9gag.com/gag/aKGEXQO)
+ - 😝 [Bowling pin gets picked up by machine just before it was about to drop](http://9gag.com/gag/aXPnzXd)
+ - 💣 [Gender reveal, wait no...](http://9gag.com/gag/aMVE0yR)
  - 😝 [10 years later... I think she was flirting with me!](http://9gag.com/gag/a7oqxq2)
- - 💣 [Love at first sight](http://9gag.com/gag/amoAOA9)
- - 😝 [Someone handed me this card at the bar.](http://9gag.com/gag/aBydMv1)
- - 👉 [Gender reveal, wait no...](http://9gag.com/gag/aMVE0yR)<!-- MEMES:END -->
+ - 👉 [That zebra bit the damn croc \ud83e\udd2f](http://9gag.com/gag/aO8xOmN)<!-- MEMES:END -->
 
 ---
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [The cost of this medication.](http://9gag.com/gag/aKGEXQO)
- - 😝 [That bags feeling it.](http://9gag.com/gag/an7zwbL)
- - 💣 [Husband being husband](http://9gag.com/gag/aRBEpzG)
- - 😝 [Narrow escape](http://9gag.com/gag/a7oqBqm)
- - 👉 [That zebra bit the damn croc \ud83e\udd2f](http://9gag.com/gag/aO8xOmN)<!-- MEMES:END -->
+ - 😝 [It&#39;s a me! Luigi!](http://9gag.com/gag/aBydeAQ)
+ - 😝 [The gourd child](http://9gag.com/gag/arymEEV)
+ - 💣 [Super Nona!](http://9gag.com/gag/aPAg2OR)
+ - 😝 [The UK has been conquered anyway....](http://9gag.com/gag/ajPV4p1)
+ - 👉 [Trap Door Spider](http://9gag.com/gag/aVvb5QP)<!-- MEMES:END -->
 
 ---
 

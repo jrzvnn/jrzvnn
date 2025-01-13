@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [That zebra bit the damn croc \ud83e\udd2f](http://9gag.com/gag/aO8xOmN)
  - 😝 [10 years later... I think she was flirting with me!](http://9gag.com/gag/a7oqxq2)
- - 😝 [My Prayers Have Been Answered](http://9gag.com/gag/aO8xEvv)
- - 💣 [The UK has been conquered anyway....](http://9gag.com/gag/ajPV4p1)
- - 😝 [Interesting use of free software](http://9gag.com/gag/a2vKpW1)
- - 👉 [The gourd child](http://9gag.com/gag/arymEEV)<!-- MEMES:END -->
+ - 💣 [Chinese Police Use a Scissor Leg Takedown to Subdue Target in Anti Terror Drill](http://9gag.com/gag/a9yqGd6)
+ - 😝 [In italy, this is mobbing and illegal](http://9gag.com/gag/a7oqm6r)
+ - 👉 [When everyday is a bad hair day](http://9gag.com/gag/aYQV0NN)<!-- MEMES:END -->
 
 ---
 

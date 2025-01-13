@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Even the dog dont know what happened](http://9gag.com/gag/arymw50)
- - 😝 [Unexpected](http://9gag.com/gag/avyQV1M)
- - 💣 [That zebra bit the damn croc \ud83e\udd2f](http://9gag.com/gag/aO8xOmN)
- - 😝 [Chinese Police Use a Scissor Leg Takedown to Subdue Target in Anti Terror Drill](http://9gag.com/gag/a9yqGd6)
- - 👉 [Gender reveal, wait no...](http://9gag.com/gag/aMVE0yR)<!-- MEMES:END -->
+ - 😝 [10 years later... I think she was flirting with me!](http://9gag.com/gag/a7oqxq2)
+ - 😝 [My Prayers Have Been Answered](http://9gag.com/gag/aO8xEvv)
+ - 💣 [The UK has been conquered anyway....](http://9gag.com/gag/ajPV4p1)
+ - 😝 [Interesting use of free software](http://9gag.com/gag/a2vKpW1)
+ - 👉 [The gourd child](http://9gag.com/gag/arymEEV)<!-- MEMES:END -->
 
 ---
 

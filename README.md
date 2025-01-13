@@ -166,10 +166,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [That zebra bit the damn croc \ud83e\udd2f](http://9gag.com/gag/aO8xOmN)
- - 😝 [10 years later... I think she was flirting with me!](http://9gag.com/gag/a7oqxq2)
- - 💣 [Chinese Police Use a Scissor Leg Takedown to Subdue Target in Anti Terror Drill](http://9gag.com/gag/a9yqGd6)
+ - 😝 [Chinese Police Use a Scissor Leg Takedown to Subdue Target in Anti Terror Drill](http://9gag.com/gag/a9yqGd6)
  - 😝 [In italy, this is mobbing and illegal](http://9gag.com/gag/a7oqm6r)
+ - 💣 [10 years later... I think she was flirting with me!](http://9gag.com/gag/a7oqxq2)
+ - 😝 [Husband being husband](http://9gag.com/gag/aRBEpzG)
  - 👉 [When everyday is a bad hair day](http://9gag.com/gag/aYQV0NN)<!-- MEMES:END -->
 
 ---

@@ -158,10 +158,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- TECH:START -->
  - [Free Our Feeds wants to build a social media ecosystem ‘resistant to billionaire influence’](https://www.theverge.com/2025/1/13/24342799/free-our-feeds-social-media-ecosystem-at-protocol-bluesky)
+ - [Mortgage Predictions for Week of Jan. 13-19: Everything to Know About Rates](https://www.cnet.com/personal-finance/mortgage-predictions-for-week-of-jan-13-19-everything-to-know-about-rates/#ftag=CAD590a51e)
  - [Sources: Chainalysis acquires AI-agent security startup Alterya for ~$150M; Alterya is still in stealth mode but has clients including Coinbase, Square, Binance &lpar;Leena Rao/Business Insider&rpar;](http://www.techmeme.com/250113/p30#a250113p30)
- - [Samsung is adding two new Galaxy Ring sizes](https://www.theverge.com/2025/1/13/24342776/samsung-galaxy-ring-new-sizes-14-15-available-now)
- - [Clearwater Analytics agreed to acquire Enfusion, a SaaS provider for hedge funds and investment managers, in a cash-and-stock deal valued at $1.5B &lpar;Ryan Lawler/Axios&rpar;](http://www.techmeme.com/250113/p29#a250113p29)
- - [Jimmy Wales, Mark Ruffalo, others debut Free Our Feeds to raise $30M by 2028 to &quot;billionaire-proof&quot; AT Protocol, by making it easier for users to leave Bluesky &lpar;Richard Nieva/Forbes&rpar;](http://www.techmeme.com/250113/p28#a250113p28)<!-- TECH:END -->
+ - [8 Steps for Homeowners When Your Property Is Destroyed by a Wildfire](https://www.cnet.com/personal-finance/insurance/8-steps-for-homeowners-when-your-property-is-destroyed-by-a-wildfire/#ftag=CAD590a51e)
+ - [Best Internet Providers in Fort Myers, Florida](https://www.cnet.com/home/internet/best-internet-providers-in-fort-myers-fl/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

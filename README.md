@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [She drugs me to keep me a vegetable](http://9gag.com/gag/aE0qKy9)
- - 😝 [The gourd child](http://9gag.com/gag/arymEEV)
- - 💣 [Narrow escape](http://9gag.com/gag/a7oqBqm)
- - 😝 [I wonder if God trolls us](http://9gag.com/gag/a7oqmwL)
- - 👉 [Gender reveal, wait no...](http://9gag.com/gag/aMVE0yR)<!-- MEMES:END -->
+ - 😝 [Narrow escape](http://9gag.com/gag/a7oqBqm)
+ - 😝 [The cost of this medication.](http://9gag.com/gag/aKGEXQO)
+ - 💣 [I wonder if God trolls us](http://9gag.com/gag/a7oqmwL)
+ - 😝 [A Fantastic Fit](http://9gag.com/gag/aYQV6Kx)
+ - 👉 [Someone handed me this card at the bar.](http://9gag.com/gag/aBydMv1)<!-- MEMES:END -->
 
 ---
 

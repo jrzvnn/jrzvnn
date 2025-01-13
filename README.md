@@ -170,7 +170,7 @@ R                        1 repo              ░░░░░░░░░░░�
  - 😝 [Damn](http://9gag.com/gag/a2vKXVE)
  - 💣 [Finally got an inside view of North Korea](http://9gag.com/gag/apR972b)
  - 😝 [What a beautiful memory](http://9gag.com/gag/aQzE537)
- - 👉 [Nice catch on national television](http://9gag.com/gag/awyZDwR)<!-- MEMES:END -->
+ - 👉 [Trying too hard](http://9gag.com/gag/a34ZXZv)<!-- MEMES:END -->
 
 ---
 

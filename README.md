@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [What a beautiful memory](http://9gag.com/gag/aQzE537)
+ - 😝 [Husband being husband](http://9gag.com/gag/aRBEpzG)
  - 😝 [Damn](http://9gag.com/gag/a2vKXVE)
  - 💣 [Finally got an inside view of North Korea](http://9gag.com/gag/apR972b)
- - 😝 [A French woman sent 800k\u20ac to a scammer impersonating Brad Pitt](http://9gag.com/gag/aZZDO46)
- - 👉 [Trying too hard](http://9gag.com/gag/a34ZXZv)<!-- MEMES:END -->
+ - 😝 [What a beautiful memory](http://9gag.com/gag/aQzE537)
+ - 👉 [Nice catch on national television](http://9gag.com/gag/awyZDwR)<!-- MEMES:END -->
 
 ---
 

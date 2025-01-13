@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The Clock Is Ticking on APYs Up to 4.65%. Today&#39;s CD Rates, Jan. 13, 2025](https://www.cnet.com/personal-finance/banking/the-clock-is-ticking-on-apys-up-to-4-65-todays-cd-rates-jan-13-2025/#ftag=CAD590a51e)
- - [Inside the Black Box of Predictive Travel Surveillance](https://www.wired.com/story/inside-the-black-box-of-predictive-travel-surveillance/)
- - [Supercharge Your Savings Goals With APYs Over 4%. Today&#39;s Savings Rates for Jan. 13, 2025](https://www.cnet.com/personal-finance/banking/supercharge-your-savings-goals-with-apys-over-4-todays-savings-rates-for-jan-13-2025/#ftag=CAD590a51e)
- - [A report on CES 2025: tech giants were mostly absent, Nvidia&#39;s keynote was a big event, AI experimentation, supply chains adapting to geopolitics, and more &lpar;Steven Sinofsky/Hardcore Software&rpar;](http://www.techmeme.com/250113/p4#a250113p4)
- - [Best Weightlifting Shoes for 2025](https://www.cnet.com/health/fitness/best-weightlifting-shoes/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Mapping Elon Musk’s Global Empire](https://www.wired.com/story/mapping-elon-musk-global-empire/)
+ - [The Money Money Money Issue](https://www.wired.com/money-issue/)
+ - [The King of Ozempic Is Scared as Hell](https://www.wired.com/story/novo-nordisk-king-of-ozempic-scared-as-hell/)
+ - [Rich Men Rule the World](https://www.wired.com/story/editor-letter-rich-men-rule-the-world/)
+ - [19 Fancy Gadgets That Won’t Leave You Broke](https://www.wired.com/gallery/cheap-thrills-affordable-fancy-gadgets/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

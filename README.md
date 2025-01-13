@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Trying too hard](http://9gag.com/gag/a34ZXZv)
- - 😝 [Not in LA... i say NOT in LA](http://9gag.com/gag/aGyE5nZ)
- - 💣 [What a beautiful memory](http://9gag.com/gag/aQzE537)
- - 😝 [Finally got an inside view of North Korea](http://9gag.com/gag/apR972b)
- - 👉 [Narrow escape](http://9gag.com/gag/a7oqBqm)<!-- MEMES:END -->
+ - 😝 [Even the dog dont know what happened](http://9gag.com/gag/arymw50)
+ - 😝 [Never had real value](http://9gag.com/gag/aVvb5Rv)
+ - 💣 [Unexpected](http://9gag.com/gag/avyQV1M)
+ - 😝 [Now, that\u2019s a grudge!](http://9gag.com/gag/a9yqgAZ)
+ - 👉 [Someone handed me this card at the bar.](http://9gag.com/gag/aBydMv1)<!-- MEMES:END -->
 
 ---
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [It&#39;s a me! Luigi!](http://9gag.com/gag/aBydeAQ)
- - 😝 [The gourd child](http://9gag.com/gag/arymEEV)
- - 💣 [Super Nona!](http://9gag.com/gag/aPAg2OR)
- - 😝 [The UK has been conquered anyway....](http://9gag.com/gag/ajPV4p1)
- - 👉 [Trap Door Spider](http://9gag.com/gag/aVvb5QP)<!-- MEMES:END -->
+ - 😝 [I&#39;m sitting here rocking in my chair to give this guy the momentum he needs](http://9gag.com/gag/amoAym9)
+ - 😝 [Even the dog dont know what happened](http://9gag.com/gag/arymw50)
+ - 💣 [10 years later... I think she was flirting with me!](http://9gag.com/gag/a7oqxq2)
+ - 😝 [Finally got an inside view of North Korea](http://9gag.com/gag/apR972b)
+ - 👉 [That zebra bit the damn croc \ud83e\udd2f](http://9gag.com/gag/aO8xOmN)<!-- MEMES:END -->
 
 ---
 

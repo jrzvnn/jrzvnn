@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [This has been going on for far longer than I&#39;ve been working here, but every time new devs join the team &lpar;like me&rpar;, management explains why this is `necessary`. I imagine this `logic` applies to gaming industry as well](http://9gag.com/gag/aKGEyG6)
+ - 😝 [That zebra bit the damn croc \ud83e\udd2f](http://9gag.com/gag/aO8xOmN)
  - 😝 [The gourd child](http://9gag.com/gag/arymEEV)
- - 💣 [It&#39;s all fake](http://9gag.com/gag/ayN2AGV)
- - 😝 [10 years later... I think she was flirting with me!](http://9gag.com/gag/a7oqxq2)
- - 👉 [Nightmare is loading...](http://9gag.com/gag/azx2onZ)<!-- MEMES:END -->
+ - 💣 [Narrow escape](http://9gag.com/gag/a7oqBqm)
+ - 😝 [Viruses spread faster than you think.](http://9gag.com/gag/aAy0qnp)
+ - 👉 [Nice catch on national television](http://9gag.com/gag/awyZDwR)<!-- MEMES:END -->
 
 ---
 

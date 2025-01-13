@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The Biden admin says chip orders with collective computation power up to ~1,700 advanced GPUs need no license and don&#39;t count against country specific chip caps &lpar;Karen Freifeld/Reuters&rpar;](http://www.techmeme.com/250113/p7#a250113p7)
+ - [Vitamin E: Benefits, Drawbacks, Supplements and How to Get It in Your Diet](https://www.cnet.com/health/nutrition/vitamin-e-benefits-drawbacks-supplements-how-get-in-diet/#ftag=CAD590a51e)
  - [The UK plans to create geographic &quot;AI Growth Zones&quot; to fast-track AI infrastructure planning, says private tech firms have committed &amp;pound;14B for its AI plan &lpar;TechCrunch&rpar;](http://www.techmeme.com/250113/p6#a250113p6)
  - [The Biden admin unveils new chip export rules, giving 18 key allies full AI chips access while requiring licenses from most other countries, including China &lpar;Financial Times&rpar;](http://www.techmeme.com/250113/p5#a250113p5)
- - [New US Rule Aims to Block China&#39;s Access to AI Chips and Models by Restricting the World](https://www.wired.com/story/new-us-rule-aims-to-block-chinas-access-to-ai-chips-and-models-by-restricting-the-world/)
- - [Mapping Elon Musk’s Global Empire](https://www.wired.com/story/mapping-elon-musk-global-empire/)
- - [The Money Money Money Issue](https://www.wired.com/money-issue/)<!-- TECH:END -->
+ - [New US Rule Aims to Block China&#39;s Access to AI Chips and Models by Restricting the World](https://www.wired.com/story/new-us-rule-aims-to-block-chinas-access-to-ai-chips-and-models-by-restricting-the-world/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

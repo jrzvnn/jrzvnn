@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The Clock Is Ticking on APYs Up to 4.65%. Today&#39;s CD Rates, Jan. 13, 2025](https://www.cnet.com/personal-finance/banking/the-clock-is-ticking-on-apys-up-to-4-65-todays-cd-rates-jan-13-2025/#ftag=CAD590a51e)
  - [Inside the Black Box of Predictive Travel Surveillance](https://www.wired.com/story/inside-the-black-box-of-predictive-travel-surveillance/)
+ - [Supercharge Your Savings Goals With APYs Over 4%. Today&#39;s Savings Rates for Jan. 13, 2025](https://www.cnet.com/personal-finance/banking/supercharge-your-savings-goals-with-apys-over-4-todays-savings-rates-for-jan-13-2025/#ftag=CAD590a51e)
  - [A report on CES 2025: tech giants were mostly absent, Nvidia&#39;s keynote was a big event, AI experimentation, supply chains adapting to geopolitics, and more &lpar;Steven Sinofsky/Hardcore Software&rpar;](http://www.techmeme.com/250113/p4#a250113p4)
- - [Best Weightlifting Shoes for 2025](https://www.cnet.com/health/fitness/best-weightlifting-shoes/#ftag=CAD590a51e)
- - [Today only: 14-inch MacBook Pro &lpar;M3 Pro, 36GB RAM, 1TB&rpar; plunges to $1,999](https://appleinsider.com/articles/25/01/13/today-only-14-inch-macbook-pro-m3-pro-36gb-ram-1tb-plunges-to-1999?utm_medium=rss)
- - [Sources: Indian investment app Groww plans to file for an IPO within 10-12 months, seeking a $6B-$8B valuation; Groww was last valued at $3B in October 2021 &lpar;Manish Singh/TechCrunch&rpar;](http://www.techmeme.com/250113/p3#a250113p3)<!-- TECH:END -->
+ - [Best Weightlifting Shoes for 2025](https://www.cnet.com/health/fitness/best-weightlifting-shoes/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

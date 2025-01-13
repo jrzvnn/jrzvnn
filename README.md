@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [12 Best Cat Water Fountains, WIRED Tested and Reviewed &lpar;2025&rpar;](https://www.wired.com/gallery/the-best-cat-water-fountains/)
- - [Qventus, which builds AI-based tools to automate health care work, raised a $105M Series D, including $85M in equity and $20M in optional debt &lpar;Ingrid Lunden/TechCrunch&rpar;](http://www.techmeme.com/250113/p10#a250113p10)
- - [LA’s Fires Have Created Another Problem—Unsafe Drinking Water](https://www.wired.com/story/wildfires-have-given-los-angeles-a-contaminated-water-problem/)
- - [Apple fights back against shareholders who want to end DEI hiring](https://appleinsider.com/articles/25/01/13/apple-fights-back-against-shareholders-who-want-to-end-dei-hiring?utm_medium=rss)
- - [Nvidia criticizes the Biden administration&#39;s new chip export rules, saying the regulation would jeopardize current US leadership in AI &lpar;Reuters&rpar;](http://www.techmeme.com/250113/p9#a250113p9)<!-- TECH:END -->
+ - [Overland AI, which is developing off-road self-driving systems for military purposes, raised a $32M Series A led by 8VC &lpar;Colin Demarest/Axios&rpar;](http://www.techmeme.com/250113/p12#a250113p12)
+ - [DDR4 vs. DDR5 RAM: What&#39;s the Difference?](https://www.wired.com/story/ddr4-vs-ddr5-explainer/)
+ - [Sonos’ interim CEO hits all the right notes in first letter to employees](https://www.theverge.com/2025/1/13/24342354/sonos-interim-ceo-tom-conrad-employee-letter)
+ - [The Sonos app fiasco: how a great audio brand nearly ruined its reputation](https://www.theverge.com/2025/1/13/24342282/sonos-app-redesign-controversy-full-story)
+ - [Sonos CEO Patrick Spence steps down after disastrous app launch](https://www.theverge.com/2025/1/13/24342179/sonos-ceo-patrick-spence-resignation-reason-app)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

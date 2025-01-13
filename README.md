@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Judge Ends One Man&#39;s 11-Year Quest to Recover $765 Million in Bitcoin by Digging Up a Landfill](https://www.wired.com/story/bitcoin-landfill-excavation-james-howells-judge-ruling/)
+ - [Ahead of a likely TikTok ban in the US, users are fleeing to Chinese apps Xiaohongshu and ByteDance-owned Lemon8, currently the top two apps in the US App Store &lpar;Zeyi Yang/Wired&rpar;](http://www.techmeme.com/250113/p31#a250113p31)
  - [New Parallels update trials x86 Linux &amp; Windows VMs on Apple Silicon](https://appleinsider.com/articles/25/01/13/parallels-202-trials-x86-vms-on-apple-silicon-bringing-linux-windows-11-support?utm_medium=rss)
  - [With a TikTok Ban Looming, Users Flee to Chinese App ‘Red Note’](https://www.wired.com/story/red-note-tiktok-xiaohongshu/)
- - [eBay’s new acquisition could make it easy to buy a car from anywhere](https://www.theverge.com/2025/1/13/24342858/ebay-acquires-caramel-online-car-transaction-platform)
- - [White House Forgives Student Loans for Over 150,000 More Borrowers](https://www.cnet.com/personal-finance/loans/white-house-forgives-student-loans-for-over-150000-more-borrowers/#ftag=CAD590a51e)
- - [Free Our Feeds wants to build a social media ecosystem ‘resistant to billionaire influence’](https://www.theverge.com/2025/1/13/24342799/free-our-feeds-social-media-ecosystem-at-protocol-bluesky)<!-- TECH:END -->
+ - [eBay’s new acquisition could make it easy to buy a car from anywhere](https://www.theverge.com/2025/1/13/24342858/ebay-acquires-caramel-online-car-transaction-platform)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -166,10 +166,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [I&#39;m sitting here rocking in my chair to give this guy the momentum he needs](http://9gag.com/gag/amoAym9)
- - 😝 [Even the dog dont know what happened](http://9gag.com/gag/arymw50)
- - 💣 [10 years later... I think she was flirting with me!](http://9gag.com/gag/a7oqxq2)
- - 😝 [Finally got an inside view of North Korea](http://9gag.com/gag/apR972b)
+ - 😝 [Not in LA... i say NOT in LA](http://9gag.com/gag/aGyE5nZ)
+ - 😝 [Watch out for the deer!](http://9gag.com/gag/azx2z8x)
+ - 💣 [I&#39;m sitting here rocking in my chair to give this guy the momentum he needs](http://9gag.com/gag/amoAym9)
+ - 😝 [Unexpected](http://9gag.com/gag/avyQV1M)
  - 👉 [That zebra bit the damn croc \ud83e\udd2f](http://9gag.com/gag/aO8xOmN)<!-- MEMES:END -->
 
 ---

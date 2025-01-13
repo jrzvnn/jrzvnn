@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [CES smart home roundup on the HomeKit Insider podcast](https://appleinsider.com/articles/25/01/13/ces-smart-home-roundup-on-the-homekit-insider-podcast?utm_medium=rss)
+ - [Toronto-based Float Financial, which offers expense management software and corporate credit cards, raised a $48.5M Series B led by Goldman Sachs Growth Equity &lpar;Mary Ann Azevedo/TechCrunch&rpar;](http://www.techmeme.com/250113/p22#a250113p22)
+ - [Why CEO Matt Garman is willing to bet AWS on AI](https://www.theverge.com/24338171/aws-ceo-matt-garman-ai-chips-anthropic-cloud-computing-trainium-decoder-podcast-interview)
  - [Nvidia announces partnerships with Illumina, the Mayo Clinic, and other companies as part of its push to encourage AI adoption by the health care industry &lpar;Ian King/Bloomberg&rpar;](http://www.techmeme.com/250113/p21#a250113p21)
- - [Sources: Microsoft, Meta, AWS, and Google recently cut some orders of Nvidia&#39;s Blackwell GB200 racks, as overheating and connection glitches lead to delays &lpar;The Information&rpar;](http://www.techmeme.com/250113/p20#a250113p20)
- - [Donald Trump Jr. is joining prediction-market startup Kalshi as a strategic adviser; CFTC called Kalshi &quot;an online casino&quot; in a December filing &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/250113/p19#a250113p19)
- - [T-Mobile agrees to acquire Vistar Media, which focuses on programmatic digital out of home advertising, for $600M in cash; the deal is expected to close in Q1 &lpar;Kerry Flynn/Axios&rpar;](http://www.techmeme.com/250113/p18#a250113p18)
- - [Best Coffee Grinders for 2025: Oxo, Baratza and Breville](https://www.cnet.com/home/kitchen-and-household/best-coffee-grinder/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Sources: Microsoft, Meta, AWS, and Google recently cut some orders of Nvidia&#39;s Blackwell GB200 racks, as overheating and connection glitches lead to delays &lpar;The Information&rpar;](http://www.techmeme.com/250113/p20#a250113p20)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

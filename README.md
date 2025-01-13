@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Mastodon CEO Eugen Rochko plans to transfer Mastodon&#39;s ownership to a new non-profit, saying it &quot;should not be owned or controlled by a single individual&quot; &lpar;Dominic Preston/The Verge&rpar;](http://www.techmeme.com/250113/p15#a250113p15)
+ - [USB-C vulnerability could result in new iPhone jailbreak techniques](https://appleinsider.com/articles/25/01/13/usb-c-vulnerability-could-result-in-new-iphone-jailbreak-techniques?utm_medium=rss)
+ - [My T-Mobile Home Internet Experience: The Good, the Bad and the Unexpected](https://www.cnet.com/home/internet/my-t-mobile-home-internet-experience-good-bad-and-unexpected/#ftag=CAD590a51e)
  - [Under new Biden rules, countries with caps on compute power are restricted to 50,000 advanced GPUs, which could grow to 100K in deals with the US government &lpar;Associated Press&rpar;](http://www.techmeme.com/250113/p14#a250113p14)
- - [Mastodon’s CEO and creator is handing control to a new nonprofit organization](https://www.theverge.com/2025/1/13/24342603/mastodon-non-profit-ownership-ceo-eugen-rochko)
- - [Nvidia flatters Trump in scathing response to Biden’s new AI chip restrictions](https://www.theverge.com/2025/1/13/24342595/nvidia-flatter-trump-biden-administration-ai-chip-restrictions)
- - [Sonos CEO Patrick Spence is leaving following a botched app revamp that upset customers and stymied growth; board member Tom Conrad is named interim CEO &lpar;Mark Gurman/Bloomberg&rpar;](http://www.techmeme.com/250113/p13#a250113p13)
- - [Overland AI, which is developing off-road self-driving systems for military purposes, raised a $32M Series A led by 8VC &lpar;Colin Demarest/Axios&rpar;](http://www.techmeme.com/250113/p12#a250113p12)<!-- TECH:END -->
+ - [Mastodon’s CEO and creator is handing control to a new nonprofit organization](https://www.theverge.com/2025/1/13/24342603/mastodon-non-profit-ownership-ceo-eugen-rochko)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

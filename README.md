@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [It&#39;s a me! Luigi!](http://9gag.com/gag/aBydeAQ)
- - 😝 [The UK has been conquered anyway....](http://9gag.com/gag/ajPV4p1)
- - 💣 [Trap Door Spider](http://9gag.com/gag/aVvb5QP)
- - 😝 [Their signature move is a game changer](http://9gag.com/gag/aD2Ye4G)
- - 👉 [The speed of light comes at a big cost.](http://9gag.com/gag/aRBEpLj)<!-- MEMES:END -->
+ - 😝 [Even the dog dont know what happened](http://9gag.com/gag/arymw50)
+ - 😝 [What a beautiful memory](http://9gag.com/gag/aQzE537)
+ - 💣 [Never had real value](http://9gag.com/gag/aVvb5Rv)
+ - 😝 [Someone handed me this card at the bar.](http://9gag.com/gag/aBydMv1)
+ - 👉 [When everyday is a bad hair day](http://9gag.com/gag/aYQV0NN)<!-- MEMES:END -->
 
 ---
 

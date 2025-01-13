@@ -167,10 +167,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [It&#39;s all fake](http://9gag.com/gag/ayN2AGV)
- - 😝 [Gender reveal, wait no...](http://9gag.com/gag/aMVE0yR)
- - 💣 [The cost of this medication.](http://9gag.com/gag/aKGEXQO)
+ - 😝 [Nice catch on national television](http://9gag.com/gag/awyZDwR)
+ - 💣 [Love at first sight](http://9gag.com/gag/amoAOA9)
  - 😝 [IfYourJobGivesYou](http://9gag.com/gag/a6ZqRqR)
- - 👉 [That zebra bit the damn croc \ud83e\udd2f](http://9gag.com/gag/aO8xOmN)<!-- MEMES:END -->
+ - 👉 [This has been going on for far longer than I&#39;ve been working here, but every time new devs join the team &lpar;like me&rpar;, management explains why this is `necessary`. I imagine this `logic` applies to gaming industry as well](http://9gag.com/gag/aKGEyG6)<!-- MEMES:END -->
 
 ---
 

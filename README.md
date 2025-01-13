@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [New hack breaks open Apple&#39;s USB-C security](https://appleinsider.com/articles/25/01/13/usb-c-vulnerability-could-result-in-new-iphone-jailbreak-techniques?utm_medium=rss)
+ - [Apple&#39;s iPad mini 7 drops to $399, the lowest price on record](https://appleinsider.com/articles/25/01/13/apples-ipad-mini-7-drops-to-399-the-lowest-price-on-record?utm_medium=rss)
+ - [Supercharge Your Savings Goals With APYs Over 4%. Today&#39;s Savings Rates for Jan. 13, 2025](https://www.cnet.com/personal-finance/banking/supercharge-your-savings-goals-with-apys-over-4-todays-savings-rates-for-jan-13-2025/#ftag=CAD590a51e)
  - [SCOTUS declines to hear a bid by Meta to avoid a class action by advertisers that accused the company of overcharging by inflating ad reach &lpar;Jonathan Stempel/Reuters&rpar;](http://www.techmeme.com/250113/p23#a250113p23)
- - [CES smart home roundup on the HomeKit Insider podcast](https://appleinsider.com/articles/25/01/13/ces-smart-home-roundup-on-the-homekit-insider-podcast?utm_medium=rss)
- - [Toronto-based Float Financial, which offers expense management software and corporate credit cards, raised a $48.5M Series B led by Goldman Sachs Growth Equity &lpar;Mary Ann Azevedo/TechCrunch&rpar;](http://www.techmeme.com/250113/p22#a250113p22)
- - [Why CEO Matt Garman is willing to bet AWS on AI](https://www.theverge.com/24338171/aws-ceo-matt-garman-ai-chips-anthropic-cloud-computing-trainium-decoder-podcast-interview)
- - [Nvidia announces partnerships with Illumina, the Mayo Clinic, and other companies as part of its push to encourage AI adoption by the health care industry &lpar;Ian King/Bloomberg&rpar;](http://www.techmeme.com/250113/p21#a250113p21)<!-- TECH:END -->
+ - [All the Best Home Tech Gadgets We Saw at CES 2025: Robot Maids, Fog Gardens and More](https://www.cnet.com/pictures/all-the-best-home-tech-gadgets-launched-at-ces-2025-robot-maids-fog-gardens-and-more/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

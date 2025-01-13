@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Concrete and stones.That\u2019s the miracle.](http://9gag.com/gag/avyQB0E)
- - 😝 [Narrow escape](http://9gag.com/gag/a7oqBqm)
- - 💣 [This has been going on for far longer than I&#39;ve been working here, but every time new devs join the team &lpar;like me&rpar;, management explains why this is `necessary`. I imagine this `logic` applies to gaming industry as well](http://9gag.com/gag/aKGEyG6)
- - 😝 [Motivation is always the key.](http://9gag.com/gag/amoAO9X)
- - 👉 [The cost of this medication.](http://9gag.com/gag/aKGEXQO)<!-- MEMES:END -->
+ - 😝 [Carry on BRITISH, EUROPEANS, CANADIANS, AUSTRALIANS keen on DENIAL](http://9gag.com/gag/aZZDXwn)
+ - 😝 [Ginger people = black](http://9gag.com/gag/azx2zgZ)
+ - 💣 [Who remember this?](http://9gag.com/gag/aO8xE5N)
+ - 😝 [The speed of light comes at a big cost.](http://9gag.com/gag/aRBEpLj)
+ - 👉 [My Prayers Have Been Answered](http://9gag.com/gag/aO8xEvv)<!-- MEMES:END -->
 
 ---
 

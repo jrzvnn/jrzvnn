@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [That zebra bit the damn croc \ud83e\udd2f](http://9gag.com/gag/aO8xOmN)
- - 😝 [Nice catch on national television](http://9gag.com/gag/awyZDwR)
- - 💣 [Narrow escape](http://9gag.com/gag/a7oqBqm)
+ - 😝 [It&#39;s all fake](http://9gag.com/gag/ayN2AGV)
  - 😝 [Gender reveal, wait no...](http://9gag.com/gag/aMVE0yR)
- - 👉 [No thanks, wamen](http://9gag.com/gag/aD2Y97K)<!-- MEMES:END -->
+ - 💣 [The cost of this medication.](http://9gag.com/gag/aKGEXQO)
+ - 😝 [IfYourJobGivesYou](http://9gag.com/gag/a6ZqRqR)
+ - 👉 [That zebra bit the damn croc \ud83e\udd2f](http://9gag.com/gag/aO8xOmN)<!-- MEMES:END -->
 
 ---
 

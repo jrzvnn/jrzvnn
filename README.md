@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [In italy, this is mobbing and illegal](http://9gag.com/gag/a7oqm6r)
+ - 😝 [She drugs me to keep me a vegetable](http://9gag.com/gag/aE0qKy9)
+ - 😝 [The gourd child](http://9gag.com/gag/arymEEV)
+ - 💣 [Narrow escape](http://9gag.com/gag/a7oqBqm)
  - 😝 [I wonder if God trolls us](http://9gag.com/gag/a7oqmwL)
- - 💣 [It&#39;s all fake](http://9gag.com/gag/ayN2AGV)
- - 😝 [Nice catch on national television](http://9gag.com/gag/awyZDwR)
- - 👉 [The President of Botswana reacting on the world&#39;s second-largest diamond ever found, a rough 2,492-carat stone.](http://9gag.com/gag/aqyeBAP)<!-- MEMES:END -->
+ - 👉 [Gender reveal, wait no...](http://9gag.com/gag/aMVE0yR)<!-- MEMES:END -->
 
 ---
 

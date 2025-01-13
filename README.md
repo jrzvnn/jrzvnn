@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [SCOTUS declines to hear a bid by Meta to avoid a class action by advertisers that accused the company of overcharging by inflating ad reach &lpar;Jonathan Stempel/Reuters&rpar;](http://www.techmeme.com/250113/p23#a250113p23)
  - [CES smart home roundup on the HomeKit Insider podcast](https://appleinsider.com/articles/25/01/13/ces-smart-home-roundup-on-the-homekit-insider-podcast?utm_medium=rss)
  - [Toronto-based Float Financial, which offers expense management software and corporate credit cards, raised a $48.5M Series B led by Goldman Sachs Growth Equity &lpar;Mary Ann Azevedo/TechCrunch&rpar;](http://www.techmeme.com/250113/p22#a250113p22)
  - [Why CEO Matt Garman is willing to bet AWS on AI](https://www.theverge.com/24338171/aws-ceo-matt-garman-ai-chips-anthropic-cloud-computing-trainium-decoder-podcast-interview)
- - [Nvidia announces partnerships with Illumina, the Mayo Clinic, and other companies as part of its push to encourage AI adoption by the health care industry &lpar;Ian King/Bloomberg&rpar;](http://www.techmeme.com/250113/p21#a250113p21)
- - [Sources: Microsoft, Meta, AWS, and Google recently cut some orders of Nvidia&#39;s Blackwell GB200 racks, as overheating and connection glitches lead to delays &lpar;The Information&rpar;](http://www.techmeme.com/250113/p20#a250113p20)<!-- TECH:END -->
+ - [Nvidia announces partnerships with Illumina, the Mayo Clinic, and other companies as part of its push to encourage AI adoption by the health care industry &lpar;Ian King/Bloomberg&rpar;](http://www.techmeme.com/250113/p21#a250113p21)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

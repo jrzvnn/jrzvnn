@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [What a beautiful memory](http://9gag.com/gag/aQzE537)
- - 😝 [Someone handed me this card at the bar.](http://9gag.com/gag/aBydMv1)
- - 💣 [Even the dog dont know what happened](http://9gag.com/gag/arymw50)
- - 😝 [Finally got an inside view of North Korea](http://9gag.com/gag/apR972b)
- - 👉 [When everyday is a bad hair day](http://9gag.com/gag/aYQV0NN)<!-- MEMES:END -->
+ - 😝 [The UK has been conquered anyway....](http://9gag.com/gag/ajPV4p1)
+ - 😝 [Trap Door Spider](http://9gag.com/gag/aVvb5QP)
+ - 💣 [Their signature move is a game changer](http://9gag.com/gag/aD2Ye4G)
+ - 😝 [The speed of light comes at a big cost.](http://9gag.com/gag/aRBEpLj)
+ - 👉 [Zuck the cuck](http://9gag.com/gag/aQzEjGe)<!-- MEMES:END -->
 
 ---
 

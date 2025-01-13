@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Unexpected](http://9gag.com/gag/avyQV1M)
- - 😝 [10 years later... I think she was flirting with me!](http://9gag.com/gag/a7oqxq2)
- - 💣 [Insert funny title](http://9gag.com/gag/a5QX3Ko)
- - 😝 [Nice catch on national television](http://9gag.com/gag/awyZDwR)
- - 👉 [Husband being husband](http://9gag.com/gag/aRBEpzG)<!-- MEMES:END -->
+ - 😝 [The cost of this medication.](http://9gag.com/gag/aKGEXQO)
+ - 😝 [That bags feeling it.](http://9gag.com/gag/an7zwbL)
+ - 💣 [Husband being husband](http://9gag.com/gag/aRBEpzG)
+ - 😝 [Narrow escape](http://9gag.com/gag/a7oqBqm)
+ - 👉 [That zebra bit the damn croc \ud83e\udd2f](http://9gag.com/gag/aO8xOmN)<!-- MEMES:END -->
 
 ---
 

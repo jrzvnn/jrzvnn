@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [This was fast...](http://9gag.com/gag/avyQw5b)
- - 😝 [Husband being husband](http://9gag.com/gag/aRBEpzG)
- - 💣 [Someone handed me this card at the bar.](http://9gag.com/gag/aBydMv1)
- - 😝 [Nice catch on national television](http://9gag.com/gag/awyZDwR)
- - 👉 [What a beautiful memory](http://9gag.com/gag/aQzE537)<!-- MEMES:END -->
+ - 😝 [Trap Door Spider](http://9gag.com/gag/aVvb5QP)
+ - 😝 [Their signature move is a game changer](http://9gag.com/gag/aD2Ye4G)
+ - 💣 [The speed of light comes at a big cost.](http://9gag.com/gag/aRBEpLj)
+ - 😝 [Zuck the cuck](http://9gag.com/gag/aQzEjGe)
+ - 👉 [Wrath of the Chinese Trump...](http://9gag.com/gag/a87qNwQ)<!-- MEMES:END -->
 
 ---
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Microsoft is creating a new &quot;CoreAI - Platform and Tools&quot; unit led by Jay Parikh, the ex-Lacework CEO and Meta engineering executive who joined in October 2024 &lpar;Todd Bishop/GeekWire&rpar;](http://www.techmeme.com/250113/p36#a250113p36)
  - [IAC board approves the spinoff of home improvement marketplace Angi; IAC has previously spun off companies like Expedia, Ticketmaster, and LendingTree &lpar;Salvador Rodriguez/CNBC&rpar;](http://www.techmeme.com/250113/p35#a250113p35)
  - [The SEC says that two Robinhood broker-dealers agreed to pay $45M in combined penalties to settle charges that they violated over 10 securities law provisions &lpar;Dan Mangan/CNBC&rpar;](http://www.techmeme.com/250113/p34#a250113p34)
  - [Meta is already working on Community Notes for Threads](https://www.theverge.com/2025/1/13/24342930/meta-threads-community-notes-leaks)
- - [IIllinois will implement digital IDs and driver&#39;s licenses for Apple Wallet in 2025](https://appleinsider.com/articles/25/01/13/iillinois-will-implement-digital-ids-and-drivers-licenses-for-apple-wallet-in-2025?utm_medium=rss)
- - [AGDQ 2025 earns $2.5 million for charity with its best event yet](https://www.theverge.com/2025/1/13/24342952/best-runs-of-agdq-2025-speedrunning-charity-twitch)<!-- TECH:END -->
+ - [IIllinois will implement digital IDs and driver&#39;s licenses for Apple Wallet in 2025](https://appleinsider.com/articles/25/01/13/iillinois-will-implement-digital-ids-and-drivers-licenses-for-apple-wallet-in-2025?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

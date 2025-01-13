@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Overland AI, which is developing off-road self-driving systems for military purposes, raised a $32M Series A led by 8VC &lpar;Colin Demarest/Axios&rpar;](http://www.techmeme.com/250113/p12#a250113p12)
- - [DDR4 vs. DDR5 RAM: What&#39;s the Difference?](https://www.wired.com/story/ddr4-vs-ddr5-explainer/)
- - [Sonos’ interim CEO hits all the right notes in first letter to employees](https://www.theverge.com/2025/1/13/24342354/sonos-interim-ceo-tom-conrad-employee-letter)
- - [The Sonos app fiasco: how a great audio brand nearly ruined its reputation](https://www.theverge.com/2025/1/13/24342282/sonos-app-redesign-controversy-full-story)
- - [Sonos CEO Patrick Spence steps down after disastrous app launch](https://www.theverge.com/2025/1/13/24342179/sonos-ceo-patrick-spence-resignation-reason-app)<!-- TECH:END -->
+ - [Under new Biden rules, countries with caps on compute power are restricted to 50,000 advanced GPUs, which could grow to 100K in deals with the US government &lpar;Associated Press&rpar;](http://www.techmeme.com/250113/p14#a250113p14)
+ - [Mastodon’s CEO and creator is handing control to a new nonprofit organization](https://www.theverge.com/2025/1/13/24342603/mastodon-non-profit-ownership-ceo-eugen-rochko)
+ - [Nvidia flatters Trump in scathing response to Biden’s new AI chip restrictions](https://www.theverge.com/2025/1/13/24342595/nvidia-flatter-trump-biden-administration-ai-chip-restrictions)
+ - [Sonos CEO Patrick Spence is leaving following a botched app revamp that upset customers and stymied growth; board member Tom Conrad is named interim CEO &lpar;Mark Gurman/Bloomberg&rpar;](http://www.techmeme.com/250113/p13#a250113p13)
+ - [Overland AI, which is developing off-road self-driving systems for military purposes, raised a $32M Series A led by 8VC &lpar;Colin Demarest/Axios&rpar;](http://www.techmeme.com/250113/p12#a250113p12)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

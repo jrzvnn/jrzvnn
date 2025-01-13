@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Carry on BRITISH, EUROPEANS, CANADIANS, AUSTRALIANS keen on DENIAL](http://9gag.com/gag/aZZDXwn)
- - 😝 [Ginger people = black](http://9gag.com/gag/azx2zgZ)
- - 💣 [Who remember this?](http://9gag.com/gag/aO8xE5N)
- - 😝 [The speed of light comes at a big cost.](http://9gag.com/gag/aRBEpLj)
- - 👉 [My Prayers Have Been Answered](http://9gag.com/gag/aO8xEvv)<!-- MEMES:END -->
+ - 😝 [That zebra bit the damn croc \ud83e\udd2f](http://9gag.com/gag/aO8xOmN)
+ - 😝 [Nice catch on national television](http://9gag.com/gag/awyZDwR)
+ - 💣 [Narrow escape](http://9gag.com/gag/a7oqBqm)
+ - 😝 [Gender reveal, wait no...](http://9gag.com/gag/aMVE0yR)
+ - 👉 [No thanks, wamen](http://9gag.com/gag/aD2Y97K)<!-- MEMES:END -->
 
 ---
 

@@ -160,8 +160,8 @@ R                        1 repo              ░░░░░░░░░░░�
  - [Meta is already working on Community Notes for Threads](https://www.theverge.com/2025/1/13/24342930/meta-threads-community-notes-leaks)
  - [IIllinois will implement digital IDs and driver&#39;s licenses for Apple Wallet in 2025](https://appleinsider.com/articles/25/01/13/iillinois-will-implement-digital-ids-and-drivers-licenses-for-apple-wallet-in-2025?utm_medium=rss)
  - [AGDQ 2025 earns $2.5 million for charity with its best event yet](https://www.theverge.com/2025/1/13/24342952/best-runs-of-agdq-2025-speedrunning-charity-twitch)
- - [A US court rules the SEC must &quot;explain itself&quot; on why, when pressed by Coinbase, it failed to clarify its rules or offer clear new rules for crypto securities &lpar;Jesse Hamilton/CoinDesk&rpar;](http://www.techmeme.com/250113/p33#a250113p33)
- - [Chinese social media app RedNote tops App Store chart ahead of TikTok ban](https://www.theverge.com/2025/1/13/24342986/rednote-xiaohongshu-chinese-social-media-app-tiktok-ban)<!-- TECH:END -->
+ - [Can&#39;t Afford to Fly to Rome? Build the Trevi Fountain at Home](https://www.cnet.com/deals/cant-afford-to-fly-to-rome-build-the-trevi-fountain-at-home/#ftag=CAD590a51e)
+ - [A US court rules the SEC must &quot;explain itself&quot; on why, when pressed by Coinbase, it failed to clarify its rules or offer clear new rules for crypto securities &lpar;Jesse Hamilton/CoinDesk&rpar;](http://www.techmeme.com/250113/p33#a250113p33)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

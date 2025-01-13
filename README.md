@@ -166,10 +166,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Even the dog dont know what happened](http://9gag.com/gag/arymw50)
  - 😝 [What a beautiful memory](http://9gag.com/gag/aQzE537)
- - 💣 [Never had real value](http://9gag.com/gag/aVvb5Rv)
  - 😝 [Someone handed me this card at the bar.](http://9gag.com/gag/aBydMv1)
+ - 💣 [Even the dog dont know what happened](http://9gag.com/gag/arymw50)
+ - 😝 [Finally got an inside view of North Korea](http://9gag.com/gag/apR972b)
  - 👉 [When everyday is a bad hair day](http://9gag.com/gag/aYQV0NN)<!-- MEMES:END -->
 
 ---

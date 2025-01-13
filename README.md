@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [It&#39;s all fake](http://9gag.com/gag/ayN2AGV)
- - 😝 [Nice catch on national television](http://9gag.com/gag/awyZDwR)
- - 💣 [Love at first sight](http://9gag.com/gag/amoAOA9)
- - 😝 [IfYourJobGivesYou](http://9gag.com/gag/a6ZqRqR)
- - 👉 [This has been going on for far longer than I&#39;ve been working here, but every time new devs join the team &lpar;like me&rpar;, management explains why this is `necessary`. I imagine this `logic` applies to gaming industry as well](http://9gag.com/gag/aKGEyG6)<!-- MEMES:END -->
+ - 😝 [May, 4th be with you.](http://9gag.com/gag/a0e4g2Q)
+ - 😝 [Ginger people = black](http://9gag.com/gag/azx2zgZ)
+ - 💣 [Who remember this?](http://9gag.com/gag/aO8xE5N)
+ - 😝 [My Prayers Have Been Answered](http://9gag.com/gag/aO8xEvv)
+ - 👉 [The speed of light comes at a big cost.](http://9gag.com/gag/aRBEpLj)<!-- MEMES:END -->
 
 ---
 

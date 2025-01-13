@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The Biden admin says chip orders with collective computation power up to ~1,700 advanced GPUs need no license and don&#39;t count against country specific chip caps &lpar;Karen Freifeld/Reuters&rpar;](http://www.techmeme.com/250113/p7#a250113p7)
- - [Vitamin E: Benefits, Drawbacks, Supplements and How to Get It in Your Diet](https://www.cnet.com/health/nutrition/vitamin-e-benefits-drawbacks-supplements-how-get-in-diet/#ftag=CAD590a51e)
- - [The UK plans to create geographic &quot;AI Growth Zones&quot; to fast-track AI infrastructure planning, says private tech firms have committed &amp;pound;14B for its AI plan &lpar;TechCrunch&rpar;](http://www.techmeme.com/250113/p6#a250113p6)
- - [The Biden admin unveils new chip export rules, giving 18 key allies full AI chips access while requiring licenses from most other countries, including China &lpar;Financial Times&rpar;](http://www.techmeme.com/250113/p5#a250113p5)
- - [New US Rule Aims to Block China&#39;s Access to AI Chips and Models by Restricting the World](https://www.wired.com/story/new-us-rule-aims-to-block-chinas-access-to-ai-chips-and-models-by-restricting-the-world/)<!-- TECH:END -->
+ - [12 Best Cat Water Fountains, WIRED Tested and Reviewed &lpar;2025&rpar;](https://www.wired.com/gallery/the-best-cat-water-fountains/)
+ - [Qventus, which builds AI-based tools to automate health care work, raised a $105M Series D, including $85M in equity and $20M in optional debt &lpar;Ingrid Lunden/TechCrunch&rpar;](http://www.techmeme.com/250113/p10#a250113p10)
+ - [LA’s Fires Have Created Another Problem—Unsafe Drinking Water](https://www.wired.com/story/wildfires-have-given-los-angeles-a-contaminated-water-problem/)
+ - [Apple fights back against shareholders who want to end DEI hiring](https://appleinsider.com/articles/25/01/13/apple-fights-back-against-shareholders-who-want-to-end-dei-hiring?utm_medium=rss)
+ - [Nvidia criticizes the Biden administration&#39;s new chip export rules, saying the regulation would jeopardize current US leadership in AI &lpar;Reuters&rpar;](http://www.techmeme.com/250113/p9#a250113p9)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Love at first sight](http://9gag.com/gag/amoAOA9)
+ - 😝 [This has been going on for far longer than I&#39;ve been working here, but every time new devs join the team &lpar;like me&rpar;, management explains why this is `necessary`. I imagine this `logic` applies to gaming industry as well](http://9gag.com/gag/aKGEyG6)
  - 😝 [The gourd child](http://9gag.com/gag/arymEEV)
- - 💣 [The cost of this medication.](http://9gag.com/gag/aKGEXQO)
- - 😝 [Nice catch on national television](http://9gag.com/gag/awyZDwR)
- - 👉 [Why are you working from home today??](http://9gag.com/gag/amoAOdy)<!-- MEMES:END -->
+ - 💣 [It&#39;s all fake](http://9gag.com/gag/ayN2AGV)
+ - 😝 [10 years later... I think she was flirting with me!](http://9gag.com/gag/a7oqxq2)
+ - 👉 [Nightmare is loading...](http://9gag.com/gag/azx2onZ)<!-- MEMES:END -->
 
 ---
 

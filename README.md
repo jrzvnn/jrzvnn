@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [The UK has been conquered anyway....](http://9gag.com/gag/ajPV4p1)
- - 😝 [Trap Door Spider](http://9gag.com/gag/aVvb5QP)
- - 💣 [Their signature move is a game changer](http://9gag.com/gag/aD2Ye4G)
- - 😝 [The speed of light comes at a big cost.](http://9gag.com/gag/aRBEpLj)
- - 👉 [Zuck the cuck](http://9gag.com/gag/aQzEjGe)<!-- MEMES:END -->
+ - 😝 [Finally got an inside view of North Korea](http://9gag.com/gag/apR972b)
+ - 😝 [Nice catch on national television](http://9gag.com/gag/awyZDwR)
+ - 💣 [Husband being husband](http://9gag.com/gag/aRBEpzG)
+ - 😝 [What a beautiful memory](http://9gag.com/gag/aQzE537)
+ - 👉 [When everyday is a bad hair day](http://9gag.com/gag/aYQV0NN)<!-- MEMES:END -->
 
 ---
 

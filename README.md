@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [This was fast...](http://9gag.com/gag/avyQw5b)
- - 😝 [Damn](http://9gag.com/gag/a2vKXVE)
+ - 😝 [Husband being husband](http://9gag.com/gag/aRBEpzG)
+ - 😝 [Philly man got arrested by his twin brother](http://9gag.com/gag/a5QX0zN)
  - 💣 [Trying too hard](http://9gag.com/gag/a34ZXZv)
- - 😝 [When everyday is a bad hair day](http://9gag.com/gag/aYQV0NN)
- - 👉 [Husband being husband](http://9gag.com/gag/aRBEpzG)<!-- MEMES:END -->
+ - 😝 [Damn](http://9gag.com/gag/a2vKXVE)
+ - 👉 [Now, that\u2019s a grudge!](http://9gag.com/gag/a9yqgAZ)<!-- MEMES:END -->
 
 ---
 

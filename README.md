@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [‘Goodbye to my Chinese spy’ might be the last great TikTok trend](https://www.theverge.com/2025/1/13/24343063/tiktok-ban-goodbye-chinese-spy-trend)
- - [Texas sues Allstate and its subsidiary Arity, accusing the insurer of illegally collecting and selling data about people&#39;s driving behavior through mobile apps &lpar;Kashmir Hill/New York Times&rpar;](http://www.techmeme.com/250113/p37#a250113p37)
- - [Microsoft is creating a new &quot;CoreAI - Platform and Tools&quot; unit led by Jay Parikh, the ex-Lacework CEO and Meta engineering executive who joined in October 2024 &lpar;Todd Bishop/GeekWire&rpar;](http://www.techmeme.com/250113/p36#a250113p36)
- - [IAC board approves the spinoff of home improvement marketplace Angi; IAC has previously spun off companies like Expedia, Ticketmaster, and LendingTree &lpar;Salvador Rodriguez/CNBC&rpar;](http://www.techmeme.com/250113/p35#a250113p35)
- - [The SEC says that two Robinhood broker-dealers agreed to pay $45M in combined penalties to settle charges that they violated over 10 securities law provisions &lpar;Dan Mangan/CNBC&rpar;](http://www.techmeme.com/250113/p34#a250113p34)<!-- TECH:END -->
+ - [TikTok denies a report that China is looking at potentially facilitating a sale of the app to Elon Musk, calling it &quot;pure fiction&quot; &lpar;Todd Spangler/Variety&rpar;](http://www.techmeme.com/250113/p41#a250113p41)
+ - [Docs: Arm was working on a strategy in 2019 to hike prices to boost annual smartphone revenue by ~$1B over 10 years, and has discussed designing its own chips &lpar;Reuters&rpar;](http://www.techmeme.com/250113/p40#a250113p40)
+ - [Sources: Chinese officials are evaluating an option involving Elon Musk acquiring TikTok US; X would take control of TikTok US and run the businesses together &lpar;Bloomberg&rpar;](http://www.techmeme.com/250113/p39#a250113p39)
+ - [Apple’s latest iPad Mini is down to its lowest price to date](https://www.theverge.com/2025/1/13/24343001/apple-ipad-mini-7th-generation-tablet-amazon-best-buy-deal-sale)
+ - [Sources: Zuckerberg met with Trump on Friday, in part to mediate a 2021 lawsuit Trump brought against Meta over his account suspension after the Jan. 6 riot &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/250113/p38#a250113p38)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

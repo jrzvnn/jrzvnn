@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The TikTok ban, and what comes next](https://www.theverge.com/2025/1/14/24343419/tiktok-ban-kickstarter-magic-links-vergecast)
- - [Klarna strikes a partnership with Stripe to make its BNPL service available to merchants using Stripe&#39;s payment tools in 26 countries, ahead of its US IPO &lpar;Ryan Browne/CNBC&rpar;](http://www.techmeme.com/250114/p13#a250114p13)
- - [Imagining a Future Where Chicagoans Get Around in Free Driverless Cars](https://www.wired.com/story/book-excerpt-death-of-the-author-nnedi-okorafor/)
- - [DJI Flip official: the unique bicycle spoke folding drone starts at $439](https://www.theverge.com/24343321/dji-flip-drone-price-release-date)
- - [India&#39;s IT outsourcing industry, which gets more than half of its revenue from the US, expects Trump&#39;s deregulation to spur growth by boosting tech spending &lpar;Financial Times&rpar;](http://www.techmeme.com/250114/p12#a250114p12)<!-- TECH:END -->
+ - [Israel-based Orchid Security, which uses LLMs to identify clients&#39; security requirements, comes out of stealth with a $36M seed led by Team 8 and Intel Capital &lpar;Sam Sabin/Axios&rpar;](http://www.techmeme.com/250114/p14#a250114p14)
+ - [5 Best VPN Services &lpar;2024&rpar;: For Routers, PC, iPhone, Android, and More](https://www.wired.com/story/best-vpn/)
+ - [Motorola’s new phone is tougher than most flagships for a fraction of the price](https://www.theverge.com/2025/1/14/24343417/motorola-moto-g-power-2025-ip69)
+ - [Donkey Kong Country Returns is a little easier on the Switch — but still hard as hell](https://www.theverge.com/24343009/donkey-kong-country-returns-hd-review-nintendo-switch)
+ - [Meta Quest 3S review: probably the one we’ve been waiting for](https://www.theverge.com/24340948/meta-quest-3s-vr-headset-review)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

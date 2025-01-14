@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [FBI hacked thousands of computers to make malware uninstall itself](https://www.theverge.com/2025/1/14/24343495/fbi-computer-hack-uninstall-plugx-malware)
  - [Meta plans to cut about 5% of its lowest performers with the intent of backfilling their roles this year, according to an internal memo sent to employees &lpar;Riley Griffin/Bloomberg&rpar;](http://www.techmeme.com/250114/p17#a250114p17)
  - [Joe Biden signs executive order to speed AI data center construction](https://www.theverge.com/2025/1/14/24328120/data-center-executive-order-biden-energy)
  - [WhatsApp is making it easier to react to messages](https://www.theverge.com/2025/1/14/24343515/whatsapp-quick-message-reactions-emojis-chats)
- - [Apple&#39;s global manufacturing expansion matters for your next iPhone purchase](https://appleinsider.com/articles/25/01/14/apples-global-manufacturing-expansion-matters-for-your-next-iphone-purchase?utm_medium=rss)
- - [YouTube star Ms. Rachel is coming to Netflix](https://www.theverge.com/2025/1/14/24343476/netflix-youtube-ms-rachel-early-child-educational-show-premiere)<!-- TECH:END -->
+ - [Apple&#39;s global manufacturing expansion matters for your next iPhone purchase](https://appleinsider.com/articles/25/01/14/apples-global-manufacturing-expansion-matters-for-your-next-iphone-purchase?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

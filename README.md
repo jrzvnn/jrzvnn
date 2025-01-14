@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [TikTok could get a 270 day extension to make a deal](https://www.theverge.com/2025/1/14/24343459/tiktok-ban-extension-sen-markey-270-day-proposal)
+ - [Power line may have sparked LA wildfire, lawsuit alleges](https://www.theverge.com/2025/1/14/24343440/fire-eaton-lawsuit-los-angeles-power-utility)
+ - [The TON Foundation names board member Manuel Stotz as president, as its blockchain with close ties to Telegram plans to expand in the US &lpar;Ryan Weeks/Bloomberg&rpar;](http://www.techmeme.com/250114/p15#a250114p15)
  - [DirecTV launches MySports streaming bundle with live NFL, NBA, and MLB games](https://www.theverge.com/2025/1/14/24343423/directv-mysports-live-sports-streaming-launch-espn-fox)
- - [Das Keyboard 5QS Mark II Review: A Keyboard Lost in Time](https://www.wired.com/review/das-keyboard-5qs-mark-ii/)
- - [Nintendo adds Wind Waker soundtrack to its music app](https://www.theverge.com/2025/1/14/24343428/legend-of-zelda-wind-waker-soundtrack-nintendo-music-app)
- - [Israel-based Orchid Security, which uses LLMs to identify clients&#39; security requirements, emerges from stealth with a $36M seed led by Team 8 and Intel Capital &lpar;Sam Sabin/Axios&rpar;](http://www.techmeme.com/250114/p14#a250114p14)
- - [5 Best VPN Services &lpar;2024&rpar;: For Routers, PC, iPhone, Android, and More](https://www.wired.com/story/best-vpn/)<!-- TECH:END -->
+ - [Das Keyboard 5QS Mark II Review: A Keyboard Lost in Time](https://www.wired.com/review/das-keyboard-5qs-mark-ii/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

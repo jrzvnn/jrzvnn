@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Trying too hard](http://9gag.com/gag/a34ZXZv)
- - 😝 [Aged like Guatemala rum](http://9gag.com/gag/aKGERd1)
- - 💣 [Never had real value](http://9gag.com/gag/aVvb5Rv)
+ - 😝 [GTA games detail differences](http://9gag.com/gag/a34Zmy5)
+ - 😝 [I can relate](http://9gag.com/gag/abAvwWX)
+ - 💣 [That bags feeling it.](http://9gag.com/gag/an7zwbL)
  - 😝 [Guy opens his safe after his house burns down in wildfire..](http://9gag.com/gag/amoA37o)
- - 👉 [When everyday is a bad hair day](http://9gag.com/gag/aYQV0NN)<!-- MEMES:END -->
+ - 👉 [Not in LA... i say NOT in LA](http://9gag.com/gag/aGyE5nZ)<!-- MEMES:END -->
 
 ---
 

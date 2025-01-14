@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [GPS Is Vulnerable to Attack. Magnetic Navigation Can Help](https://www.wired.com/story/google-startup-wants-to-revolutionize-satellite-navigation/)
  - [Paris-based Bioptimus, which is developing a foundational AI model for biology, raised $41M led by Cathay Innovation, bringing its total raised to $76M &lpar;Paul Sawers/TechCrunch&rpar;](http://www.techmeme.com/250114/p9#a250114p9)
  - [Belgium-based Vertical Compute, a memory chip firm spun out of European VC firm Imec.xpand, raised a &amp;euro;20M seed led by Imec.xpand &lpar;Dean Takahashi/VentureBeat&rpar;](http://www.techmeme.com/250114/p8#a250114p8)
  - [A Spymaster Sheikh Controls a $1.5 Trillion Fortune. He Wants to Use It to Dominate AI](https://www.wired.com/story/uae-intelligence-chief-ai-money/)
- - [The Biden admin finalizes a rule banning the import or sale of connected vehicles with hardware or software that have a &quot;sufficient nexus&quot; to China or Russia &lpar;Bloomberg&rpar;](http://www.techmeme.com/250114/p7#a250114p7)
- - [Samsung announces more flexible trade-in program, no purchase required](https://www.theverge.com/2025/1/14/24343368/samsung-galaxy-trade-in-year-round)<!-- TECH:END -->
+ - [The Biden admin finalizes a rule banning the import or sale of connected vehicles with hardware or software that have a &quot;sufficient nexus&quot; to China or Russia &lpar;Bloomberg&rpar;](http://www.techmeme.com/250114/p7#a250114p7)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

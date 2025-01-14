@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Meta plans to cut about 5% of its lowest performers with the intent of backfilling their roles this year, according to an internal memo sent to employees &lpar;Riley Griffin/Bloomberg&rpar;](http://www.techmeme.com/250114/p17#a250114p17)
+ - [Joe Biden signs executive order to speed AI data center construction](https://www.theverge.com/2025/1/14/24328120/data-center-executive-order-biden-energy)
+ - [WhatsApp is making it easier to react to messages](https://www.theverge.com/2025/1/14/24343515/whatsapp-quick-message-reactions-emojis-chats)
  - [Apple&#39;s global manufacturing expansion matters for your next iPhone purchase](https://appleinsider.com/articles/25/01/14/apples-global-manufacturing-expansion-matters-for-your-next-iphone-purchase?utm_medium=rss)
- - [YouTube star Ms. Rachel is coming to Netflix](https://www.theverge.com/2025/1/14/24343476/netflix-youtube-ms-rachel-early-child-educational-show-premiere)
- - [CarPlay 2.0 may let users add widgets just like on an iPhone](https://appleinsider.com/articles/25/01/14/carplay-20-may-let-users-add-widgets-just-like-on-an-iphone?utm_medium=rss)
- - [TSMC&#39;s Arizona chip plant nears Apple approval, but will never rival Taiwan](https://appleinsider.com/articles/25/01/14/tsmcs-arizona-chip-plant-nears-apple-approval-but-will-never-rival-taiwan?utm_medium=rss)
- - [Dremel put a stud sensor and laser level into its new multipurpose drill](https://www.theverge.com/2025/1/14/24343446/dremel-blueprint-multi-drill-tool-diy)<!-- TECH:END -->
+ - [YouTube star Ms. Rachel is coming to Netflix](https://www.theverge.com/2025/1/14/24343476/netflix-youtube-ms-rachel-early-child-educational-show-premiere)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

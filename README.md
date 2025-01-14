@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [VistaPrint Coupon: Exclusive $20 Off $100+](https://www.wired.com/story/vistaprint-coupon-code/)
+ - [AirDoctor Coupon Code: 25% Off Air Purifiers](https://www.wired.com/story/airdoctor-coupon-code/)
  - [KitchenAid Promo Codes and Coupons: 30% Off](https://www.wired.com/story/exclusive-kitchenaid-promo-code/)
  - [Amazon&#39;s AGI lead Rohit Prasad says Alexa will relaunch as an AI agent as Amazon works to address challenges in the system&#39;s AI overhaul &lpar;Financial Times&rpar;](http://www.techmeme.com/250114/p4#a250114p4)
- - [Blue Apron Coupons and Deals: $150 Off New Subscriptions](https://www.wired.com/story/blue-apron-coupon/)
- - [Sygnum, a Switzerland and Singapore-based digital asset bank and crypto trading platform, raised $58M led by Fulgur Ventures at a $1B valuation &lpar;Niket Nishant/Reuters&rpar;](http://www.techmeme.com/250114/p3#a250114p3)
- - [Sony launches Soneium Ethereum L2 platform for creators, after a four-month test that drew 14M+ users; Blockscout: Soneium testnet processed ~47M transactions &lpar;Vince Dioquino/Decrypt&rpar;](http://www.techmeme.com/250114/p2#a250114p2)<!-- TECH:END -->
+ - [Blue Apron Coupons and Deals: $150 Off New Subscriptions](https://www.wired.com/story/blue-apron-coupon/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

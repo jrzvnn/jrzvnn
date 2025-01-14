@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Trying too hard](http://9gag.com/gag/a34ZXZv)
  - 😝 [When everyday is a bad hair day](http://9gag.com/gag/aYQV0NN)
- - 💣 [Husband being husband](http://9gag.com/gag/aRBEpzG)
- - 😝 [Never had real value](http://9gag.com/gag/aVvb5Rv)
- - 👉 [This is how an ex-wife comes to pick up her kids from the father\u2019s house.](http://9gag.com/gag/a9yqGZK)<!-- MEMES:END -->
+ - 😝 [This was fast...](http://9gag.com/gag/avyQw5b)
+ - 💣 [Trying too hard](http://9gag.com/gag/a34ZXZv)
+ - 😝 [Husband being husband](http://9gag.com/gag/aRBEpzG)
+ - 👉 [When ur homie keeps going to Thailand for food and culture...](http://9gag.com/gag/aVvbyR8)<!-- MEMES:END -->
 
 ---
 

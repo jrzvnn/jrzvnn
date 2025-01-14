@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [GTA games detail differences](http://9gag.com/gag/a34Zmy5)
- - 😝 [I can relate](http://9gag.com/gag/abAvwWX)
- - 💣 [That bags feeling it.](http://9gag.com/gag/an7zwbL)
- - 😝 [Guy opens his safe after his house burns down in wildfire..](http://9gag.com/gag/amoA37o)
- - 👉 [Not in LA... i say NOT in LA](http://9gag.com/gag/aGyE5nZ)<!-- MEMES:END -->
+ - 😝 [In 2022 South Korean president said Samsung CEO can&#39;t be arrested for bribery charges because he&#39;s `too important`](http://9gag.com/gag/aBydpLN)
+ - 😝 [She&#39;s a keeper](http://9gag.com/gag/ajPVpRp)
+ - 💣 [Guy opens his safe after his house burns down in wildfire..](http://9gag.com/gag/amoA37o)
+ - 😝 [That&#39;s actually quite smart.](http://9gag.com/gag/axyoL0K)
+ - 👉 [Bro felt pleasure](http://9gag.com/gag/aBydBWN)<!-- MEMES:END -->
 
 ---
 

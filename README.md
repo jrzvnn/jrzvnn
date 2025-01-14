@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [Depends who has the sword](http://9gag.com/gag/amoA4ZX)
  - 😝 [Damn](http://9gag.com/gag/a2vKXVE)
- - 😝 [Smooth as a sand paper](http://9gag.com/gag/aMVEo2x)
  - 💣 [GTA games detail differences](http://9gag.com/gag/a34Zmy5)
- - 😝 [This is how an ex-wife comes to pick up her kids from the father\u2019s house.](http://9gag.com/gag/a9yqGZK)
- - 👉 [Insane card trick.](http://9gag.com/gag/abAv9BL)<!-- MEMES:END -->
+ - 😝 [Now, that\u2019s a grudge!](http://9gag.com/gag/a9yqgAZ)
+ - 👉 [This is how an ex-wife comes to pick up her kids from the father\u2019s house.](http://9gag.com/gag/a9yqGZK)<!-- MEMES:END -->
 
 ---
 

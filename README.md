@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Far-Right Extremists Are LARPing as Emergency Workers in Los Angeles](https://www.wired.com/story/far-right-extremists-are-larping-as-emergency-workers-in-los-angeles/)
- - [Wyze cameras will use AI to describe what they see](https://www.theverge.com/2025/1/14/24343388/wyze-security-cameras-ai-descriptive-alerts-cam-unlimited-pro)
- - [OpenAI has appointed BlackRock exec Adebayo Ogunlesi to its board; last year, BlackRock acquired Ogunlesi&#39;s company Global Infrastructure Partners for ~$12B &lpar;Rachel Metz/Bloomberg&rpar;](http://www.techmeme.com/250114/p21#a250114p21)
- - [Best Internet Providers in Brazil, Indiana](https://www.cnet.com/home/internet/best-internet-providers-in-brazil-in/#ftag=CAD590a51e)
- - [Jump on January savings: 14-inch MacBook Pro &lpar;M4, 24GB RAM, 1TB&rpar; falls to $1,799](https://appleinsider.com/articles/25/01/14/jump-on-january-savings-14-inch-macbook-pro-m4-24gb-ram-1tb-falls-to-1799?utm_medium=rss)<!-- TECH:END -->
+ - [OpenAI launches Tasks, rolling out in beta to ChatGPT Plus, Team, and Pro subscribers, to let users schedule reminders, with up to ten active at any given time &lpar;Kylie Robison/The Verge&rpar;](http://www.techmeme.com/250114/p23#a250114p23)
+ - [Parallels rolls out an &quot;early technology preview&quot; of Parallels Desktop for Macs with Apple Silicon that has &quot;really slow&quot; support for x86 OSes, like Windows 11 &lpar;Andrew Cunningham/Ars Technica&rpar;](http://www.techmeme.com/250114/p22#a250114p22)
+ - [Apple joins AI hardware standards consortium to improve server performance](https://appleinsider.com/articles/25/01/14/apple-joins-ai-hardware-standards-consortium-to-improve-server-performance?utm_medium=rss)
+ - [ChatGPT can now handle reminders and to-dos](https://www.theverge.com/2025/1/14/24343528/openai-chatgpt-repeating-tasks-agent-ai)
+ - [Far-Right Extremists Are LARPing as Emergency Workers in Los Angeles](https://www.wired.com/story/far-right-extremists-are-larping-as-emergency-workers-in-los-angeles/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

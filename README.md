@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Depends who has the sword](http://9gag.com/gag/amoA4ZX)
  - 😝 [Damn](http://9gag.com/gag/a2vKXVE)
- - 💣 [GTA games detail differences](http://9gag.com/gag/a34Zmy5)
- - 😝 [Now, that\u2019s a grudge!](http://9gag.com/gag/a9yqgAZ)
- - 👉 [This is how an ex-wife comes to pick up her kids from the father\u2019s house.](http://9gag.com/gag/a9yqGZK)<!-- MEMES:END -->
+ - 😝 [Id watch that movie](http://9gag.com/gag/a0e43od)
+ - 💣 [Depends who has the sword](http://9gag.com/gag/amoA4ZX)
+ - 😝 [GTA games detail differences](http://9gag.com/gag/a34Zmy5)
+ - 👉 [A French woman sent 800k\u20ac to a scammer impersonating Brad Pitt](http://9gag.com/gag/aZZDO46)<!-- MEMES:END -->
 
 ---
 

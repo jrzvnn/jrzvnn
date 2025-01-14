@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Sygnum, a Switzerland and Singapore-based digital asset bank and crypto trading platform, raised $58M led by Fulgur Ventures at a $1B valuation &lpar;Niket Nishant/Reuters&rpar;](http://www.techmeme.com/250114/p3#a250114p3)
  - [Sony launches Soneium Ethereum L2 platform for creators, after a four-month test that drew 14M+ users; Blockscout: Soneium testnet processed ~47M transactions &lpar;Vince Dioquino/Decrypt&rpar;](http://www.techmeme.com/250114/p2#a250114p2)
  - [Sources: the EU is reassessing its DMA probes into US tech giants like Apple, Meta, and Google, launched since March 2024, as US groups urge Trump to intervene &lpar;Financial Times&rpar;](http://www.techmeme.com/250114/p1#a250114p1)
  - [Today&#39;s NYT Mini Crossword Answers for Tuesday, Jan. 14](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-tuesday-jan-14/#ftag=CAD590a51e)
- - [Sources: China tightens scrutiny of Apple and other US tech firms&#39; exports under its dual-use export controls, slowing production expansion in SE Asia and India &lpar;Lauly Li/Nikkei Asia&rpar;](http://www.techmeme.com/250113/p46#a250113p46)
- - [Sources: Apple is finalizing verification of its first cutting-edge chips from TSMC&#39;s Arizona plant, with the initial batch expected as early as this quarter &lpar;Cheng Ting-Fang/Nikkei Asia&rpar;](http://www.techmeme.com/250113/p45#a250113p45)<!-- TECH:END -->
+ - [Sources: China tightens scrutiny of Apple and other US tech firms&#39; exports under its dual-use export controls, slowing production expansion in SE Asia and India &lpar;Lauly Li/Nikkei Asia&rpar;](http://www.techmeme.com/250113/p46#a250113p46)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

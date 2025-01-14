@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Insert funny title](http://9gag.com/gag/a5QX3Ko)
- - 😝 [When everyday is a bad hair day](http://9gag.com/gag/aYQV0NN)
- - 💣 [Trying too hard](http://9gag.com/gag/a34ZXZv)
- - 😝 [Now, that\u2019s a grudge!](http://9gag.com/gag/a9yqgAZ)
- - 👉 [Husband being husband](http://9gag.com/gag/aRBEpzG)<!-- MEMES:END -->
+ - 😝 [This was fast...](http://9gag.com/gag/avyQw5b)
+ - 😝 [Depends who has the sword](http://9gag.com/gag/amoA4ZX)
+ - 💣 [When everyday is a bad hair day](http://9gag.com/gag/aYQV0NN)
+ - 😝 [Husband being husband](http://9gag.com/gag/aRBEpzG)
+ - 👉 [A French woman sent 800k\u20ac to a scammer impersonating Brad Pitt](http://9gag.com/gag/aZZDO46)<!-- MEMES:END -->
 
 ---
 

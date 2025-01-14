@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Adobe is now testing collaborative live editing in Photoshop](https://appleinsider.com/articles/25/01/14/adobe-is-now-testing-collaborative-live-editing-in-photoshop?utm_medium=rss)
- - [US finalizes rule to effectively ban Chinese vehicles, which could include Polestar](https://www.theverge.com/2025/1/14/24343497/biden-china-vehicle-software-ban-polestar-waymo)
- - [Biden signs an EO that directs the DOD and DOE to lease land to companies building gigawatt-scale AI data centers and clean power facilities, and more &lpar;Justine Calma/The Verge&rpar;](http://www.techmeme.com/250114/p19#a250114p19)
- - [Zuckerberg says Meta will lay off more ‘low-performers’](https://www.theverge.com/2025/1/14/24343562/meta-lay-offs-low-performers-zuckerberg-memo)
- - [OnePlus 13 and OnePlus 13R Review: Fast and Smooth](https://www.wired.com/review/roneplus-13-and-oneplus-13r/)<!-- TECH:END -->
+ - [OpenAI has appointed BlackRock exec Adebayo Ogunlesi to its board; last year, BlackRock acquired Ogunlesi&#39;s company Global Infrastructure Partners for ~$12B &lpar;Rachel Metz/Bloomberg&rpar;](http://www.techmeme.com/250114/p21#a250114p21)
+ - [Jump on January savings: 14-inch MacBook Pro &lpar;M4, 24GB RAM, 1TB&rpar; falls to $1,799](https://appleinsider.com/articles/25/01/14/jump-on-january-savings-14-inch-macbook-pro-m4-24gb-ram-1tb-falls-to-1799?utm_medium=rss)
+ - [Draft of an EO called &quot;Strengthening and Promoting Innovation in the Nation&#39;s Cybersecurity&quot; that Biden may issue this week lists 52 actions agencies must take &lpar;Cynthia Brumfield/CSO&rpar;](http://www.techmeme.com/250114/p20#a250114p20)
+ - [Luigi was everywhere at AGDQ 2025](https://www.theverge.com/2025/1/14/24343504/luigi-agdq-2025-luigi-mangione-unitedhealthcare)
+ - [Adobe is now testing collaborative live editing in Photoshop](https://appleinsider.com/articles/25/01/14/adobe-is-now-testing-collaborative-live-editing-in-photoshop?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

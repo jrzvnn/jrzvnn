@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [When ur homie keeps going to Thailand for food and culture...](http://9gag.com/gag/aVvbyR8)
  - 😝 [This was fast...](http://9gag.com/gag/avyQw5b)
- - 😝 [Depends who has the sword](http://9gag.com/gag/amoA4ZX)
- - 💣 [When everyday is a bad hair day](http://9gag.com/gag/aYQV0NN)
- - 😝 [Husband being husband](http://9gag.com/gag/aRBEpzG)
- - 👉 [A French woman sent 800k\u20ac to a scammer impersonating Brad Pitt](http://9gag.com/gag/aZZDO46)<!-- MEMES:END -->
+ - 💣 [A French woman sent 800k\u20ac to a scammer impersonating Brad Pitt](http://9gag.com/gag/aZZDO46)
+ - 😝 [When everyday is a bad hair day](http://9gag.com/gag/aYQV0NN)
+ - 👉 [Guy opens his safe after his house burns down in wildfire..](http://9gag.com/gag/amoA37o)<!-- MEMES:END -->
 
 ---
 

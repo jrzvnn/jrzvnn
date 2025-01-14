@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [How Cleo AI and Bright, AI chatbots offering personalized financial advice, often function as a way to sell high-interest loans and cash advances to young users &lpar;Reece Rogers/Wired&rpar;](http://www.techmeme.com/250114/p5#a250114p5)
- - [The ‘Largest Illicit Online Marketplace’ Ever Is Growing at an Alarming Rate, Report Says](https://www.wired.com/story/the-largest-illicit-online-marketplace-ever-is-growing-at-an-alarming-rate/)
- - [Best Internet Providers in Biloxi, Mississippi](https://www.cnet.com/home/internet/best-internet-providers-in-biloxi-ms/#ftag=CAD590a51e)
- - [VistaPrint Coupon: Exclusive $20 Off $100+](https://www.wired.com/story/vistaprint-coupon-code/)
- - [AirDoctor Coupon Code: 25% Off Air Purifiers](https://www.wired.com/story/airdoctor-coupon-code/)<!-- TECH:END -->
+ - [The Biden admin finalizes a rule banning the import or sale of connected vehicles with hardware or software that have a &quot;sufficient nexus&quot; to China or Russia &lpar;Bloomberg&rpar;](http://www.techmeme.com/250114/p7#a250114p7)
+ - [Samsung announces more flexible trade-in program, no purchase required](https://www.theverge.com/2025/1/14/24343368/samsung-galaxy-trade-in-year-round)
+ - [The UK CMA opens a probe to assess Google&#39;s position in search and search ads business and how it impacts consumers, advertisers, publishers, and its rivals &lpar;Ryan Browne/CNBC&rpar;](http://www.techmeme.com/250114/p6#a250114p6)
+ - [Soon You&#39;ll Be Able to Edit Photoshop Projects at the Same Time as Others](https://www.cnet.com/tech/services-and-software/soon-youll-be-able-to-edit-photoshop-projects-at-the-same-time-as-others/#ftag=CAD590a51e)
+ - [Lock In Up to 4.65% APY While You Still Can. Today&#39;s CD Rates, Jan. 14, 2025](https://www.cnet.com/personal-finance/banking/lock-in-up-to-4-65-apy-while-you-still-can-todays-cd-rates-jan-14-2025/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

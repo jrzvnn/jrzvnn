@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Go sports!!!](http://9gag.com/gag/an7z650)
- - 😝 [Husband being husband](http://9gag.com/gag/aRBEpzG)
+ - 😝 [Insert funny title](http://9gag.com/gag/a5QX3Ko)
+ - 😝 [When everyday is a bad hair day](http://9gag.com/gag/aYQV0NN)
  - 💣 [Trying too hard](http://9gag.com/gag/a34ZXZv)
  - 😝 [Now, that\u2019s a grudge!](http://9gag.com/gag/a9yqgAZ)
- - 👉 [When everyday is a bad hair day](http://9gag.com/gag/aYQV0NN)<!-- MEMES:END -->
+ - 👉 [Husband being husband](http://9gag.com/gag/aRBEpzG)<!-- MEMES:END -->
 
 ---
 

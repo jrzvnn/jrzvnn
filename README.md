@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [TikTok could get a 270 day extension to make a deal](https://www.theverge.com/2025/1/14/24343459/tiktok-ban-extension-sen-markey-270-day-proposal)
- - [Power line may have sparked LA wildfire, lawsuit alleges](https://www.theverge.com/2025/1/14/24343440/fire-eaton-lawsuit-los-angeles-power-utility)
- - [The TON Foundation names board member Manuel Stotz as president, as its blockchain with close ties to Telegram plans to expand in the US &lpar;Ryan Weeks/Bloomberg&rpar;](http://www.techmeme.com/250114/p15#a250114p15)
- - [DirecTV launches MySports streaming bundle with live NFL, NBA, and MLB games](https://www.theverge.com/2025/1/14/24343423/directv-mysports-live-sports-streaming-launch-espn-fox)
- - [Das Keyboard 5QS Mark II Review: A Keyboard Lost in Time](https://www.wired.com/review/das-keyboard-5qs-mark-ii/)<!-- TECH:END -->
+ - [Dremel put a stud sensor and laser level into its new multipurpose drill](https://www.theverge.com/2025/1/14/24343446/dremel-blueprint-multi-drill-tool-diy)
+ - [Sources and business records detail how Barcelona has emerged as an unlikely hub for spyware companies, raising concerns from digital rights groups &lpar;Lorenzo Franceschi-Bicchierai/TechCrunch&rpar;](http://www.techmeme.com/250114/p16#a250114p16)
+ - [The 6 Best Massagers for Sore Muscles and Stress Relief &lpar;2025&rpar;](https://www.wired.com/gallery/best-theragun-alternatives/)
+ - [TikTok&#39;s ban saga is a mess, with only days before the hammer falls](https://appleinsider.com/articles/25/01/14/tiktoks-ban-saga-is-a-mess-with-only-days-before-the-hammer-falls?utm_medium=rss)
+ - [TikTok could get a 270 day extension to make a deal](https://www.theverge.com/2025/1/14/24343459/tiktok-ban-extension-sen-markey-270-day-proposal)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Zuck the cuck](http://9gag.com/gag/aQzEjGe)
- - 😝 [The speed of light comes at a big cost.](http://9gag.com/gag/aRBEpLj)
- - 💣 [The prob is I got no GF.](http://9gag.com/gag/arymQ77)
- - 😝 [Two wrench trick](http://9gag.com/gag/axyoqBD)
- - 👉 [Wrath of the Chinese Trump...](http://9gag.com/gag/a87qNwQ)<!-- MEMES:END -->
+ - 😝 [Guy opens his safe after his house burns down in wildfire..](http://9gag.com/gag/amoA37o)
+ - 😝 [Philly man got arrested by his twin brother](http://9gag.com/gag/a5QX0zN)
+ - 💣 [Husband being husband](http://9gag.com/gag/aRBEpzG)
+ - 😝 [Trying too hard](http://9gag.com/gag/a34ZXZv)
+ - 👉 [Now, that\u2019s a grudge!](http://9gag.com/gag/a9yqgAZ)<!-- MEMES:END -->
 
 ---
 

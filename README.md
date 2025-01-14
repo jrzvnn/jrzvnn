@@ -157,7 +157,7 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [TikTok tells employees it’s planning ‘the way forward’ ahead of Supreme Court ruling](https://www.theverge.com/2025/1/14/24343933/tiktok-employee-memo-supreme-court-us-ban)
+ - [TikTok tells employees it’s ‘planning for various scenarios’ ahead of possible US ban](https://www.theverge.com/2025/1/14/24343933/tiktok-employee-memo-supreme-court-us-ban)
  - [Apple releases third developer beta of watchOS 11.3 for testing](https://appleinsider.com/articles/25/01/14/apple-releases-third-developer-beta-of-watchos-113-for-testing?utm_medium=rss)
  - [The best smartwatches for Android](https://www.theverge.com/23449363/best-android-smartwatches-wear-os)
  - [Inside Meta’s race to beat OpenAI: “We need to learn how to build frontier and win this race”](https://www.theverge.com/2025/1/14/24343692/meta-lawsuit-copyright-lawsuit-llama-libgen)

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [In 2022 South Korean president said Samsung CEO can&#39;t be arrested for bribery charges because he&#39;s `too important`](http://9gag.com/gag/aBydpLN)
- - 😝 [Guy opens his safe after his house burns down in wildfire..](http://9gag.com/gag/amoA37o)
- - 💣 [That&#39;s actually quite smart.](http://9gag.com/gag/axyoL0K)
- - 😝 [Bro felt pleasure](http://9gag.com/gag/aBydBWN)
- - 👉 [Cant believe humans saw this then created spotify](http://9gag.com/gag/aXPn6jz)<!-- MEMES:END -->
+ - 😝 [Philly man got arrested by his twin brother](http://9gag.com/gag/a5QX0zN)
+ - 😝 [Depends who has the sword](http://9gag.com/gag/amoA4ZX)
+ - 💣 [Hilarious](http://9gag.com/gag/aGyEmb0)
+ - 😝 [What a beautiful memory](http://9gag.com/gag/aQzE537)
+ - 👉 [I wonder why they can&#39;t get a date](http://9gag.com/gag/a6ZqP2e)<!-- MEMES:END -->
 
 ---
 

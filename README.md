@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Parallels is testing x86 emulation on Apple silicon Macs](https://www.theverge.com/2025/1/14/24343774/parallels-windows-10-11-x86-apple-silicon-mac-support-preview)
  - [Sonos’ chief product officer is leaving the company](https://www.theverge.com/2025/1/14/24343873/sonos-product-officer-maxime-bouvat-merlin-leaving)
  - [Decentralized Instagram alternative Pixelfed debuts iOS and Android apps; its Android app is the top Social app on Google Play in some markets, including the US &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/250114/p27#a250114p27)
  - [Netflix’s new animated Witcher spinoff movie sets sail this February](https://www.theverge.com/2025/1/14/24343771/netflix-witcher-sirens-of-the-deep-trailer-date)
- - [North Korea linked to crypto heists of over $650 million in 2024 alone](https://www.theverge.com/2025/1/14/24343762/north-korea-crypto-stolen-wazirx-lazarus-group)
- - [These Are the Best 3D Printers in 2025 &lpar;I’m Obsessed With the Top Two&rpar;](https://www.cnet.com/tech/computing/best-3d-printer/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [North Korea linked to crypto heists of over $650 million in 2024 alone](https://www.theverge.com/2025/1/14/24343762/north-korea-crypto-stolen-wazirx-lazarus-group)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Paris-based Bioptimus, which is developing a foundational AI model for biology, raised $41M led by Cathay Innovation, bringing its total raised to $76M &lpar;Paul Sawers/TechCrunch&rpar;](http://www.techmeme.com/250114/p9#a250114p9)
+ - [Belgium-based Vertical Compute, a memory chip firm spun out of European VC firm Imec.xpand, raised a &amp;euro;20M seed led by Imec.xpand &lpar;Dean Takahashi/VentureBeat&rpar;](http://www.techmeme.com/250114/p8#a250114p8)
+ - [A Spymaster Sheikh Controls a $1.5 Trillion Fortune. He Wants to Use It to Dominate AI](https://www.wired.com/story/uae-intelligence-chief-ai-money/)
  - [The Biden admin finalizes a rule banning the import or sale of connected vehicles with hardware or software that have a &quot;sufficient nexus&quot; to China or Russia &lpar;Bloomberg&rpar;](http://www.techmeme.com/250114/p7#a250114p7)
- - [Samsung announces more flexible trade-in program, no purchase required](https://www.theverge.com/2025/1/14/24343368/samsung-galaxy-trade-in-year-round)
- - [The UK CMA opens a probe to assess Google&#39;s position in search and search ads business and how it impacts consumers, advertisers, publishers, and its rivals &lpar;Ryan Browne/CNBC&rpar;](http://www.techmeme.com/250114/p6#a250114p6)
- - [Soon You&#39;ll Be Able to Edit Photoshop Projects at the Same Time as Others](https://www.cnet.com/tech/services-and-software/soon-youll-be-able-to-edit-photoshop-projects-at-the-same-time-as-others/#ftag=CAD590a51e)
- - [Lock In Up to 4.65% APY While You Still Can. Today&#39;s CD Rates, Jan. 14, 2025](https://www.cnet.com/personal-finance/banking/lock-in-up-to-4-65-apy-while-you-still-can-todays-cd-rates-jan-14-2025/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Samsung announces more flexible trade-in program, no purchase required](https://www.theverge.com/2025/1/14/24343368/samsung-galaxy-trade-in-year-round)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

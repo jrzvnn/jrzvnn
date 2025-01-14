@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [How to Pay Your Taxes Online](https://www.wired.com/story/how-to-pay-taxes-online/)
  - [A profile of Hussain Sajwani, who, alongside Donald Trump at Mar-a-Lago, pledged a $20B investment in US data centers, and why some are skeptical of the plan &lpar;Bloomberg&rpar;](http://www.techmeme.com/250114/p10#a250114p10)
  - [GPS Is Vulnerable to Attack. Magnetic Navigation Can Help](https://www.wired.com/story/google-startup-wants-to-revolutionize-satellite-navigation/)
  - [Paris-based Bioptimus, which is developing a foundational AI model for biology, raised $41M led by Cathay Innovation, bringing its total raised to $76M &lpar;Paul Sawers/TechCrunch&rpar;](http://www.techmeme.com/250114/p9#a250114p9)
- - [Best Blenders in 2025 – Tested by CNET Experts](https://www.cnet.com/home/kitchen-and-household/best-blender/#ftag=CAD590a51e)
- - [Best Filtered Water Bottles of 2025](https://www.cnet.com/health/best-filtered-water-bottle/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Best Blenders in 2025 – Tested by CNET Experts](https://www.cnet.com/home/kitchen-and-household/best-blender/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

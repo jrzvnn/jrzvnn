@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Adobe is now testing collaborative live editing in Photoshop](https://appleinsider.com/articles/25/01/14/adobe-is-now-testing-collaborative-live-editing-in-photoshop?utm_medium=rss)
+ - [US finalizes rule to effectively ban Chinese vehicles, which could include Polestar](https://www.theverge.com/2025/1/14/24343497/biden-china-vehicle-software-ban-polestar-waymo)
+ - [Biden signs an EO that directs the DOD and DOE to lease land to companies building gigawatt-scale AI data centers and clean power facilities, and more &lpar;Justine Calma/The Verge&rpar;](http://www.techmeme.com/250114/p19#a250114p19)
  - [Zuckerberg says Meta will lay off more ‘low-performers’](https://www.theverge.com/2025/1/14/24343562/meta-lay-offs-low-performers-zuckerberg-memo)
- - [OnePlus 13 and OnePlus 13R Review: Fast and Smooth](https://www.wired.com/review/roneplus-13-and-oneplus-13r/)
- - [Meta Quest 3S with 256GB of storage is $50 off right now](https://www.theverge.com/2025/1/14/24342856/meta-quest-3s-vr-headset-amazon-fire-tablet-7-deal-sale)
- - [You Have NASA to Thank for Wireless Headphones and Vacuum Cleaners](https://www.wired.com/gallery/nasa-spinoff-space-research-technology/)
- - [The US, Japan, and South Korea issue a joint statement saying North Korean-backed hackers stole $659M+ in crypto heists in 2024 and were behind the $235M WazirX &lpar;Manish Singh/TechCrunch&rpar;](http://www.techmeme.com/250114/p18#a250114p18)<!-- TECH:END -->
+ - [OnePlus 13 and OnePlus 13R Review: Fast and Smooth](https://www.wired.com/review/roneplus-13-and-oneplus-13r/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

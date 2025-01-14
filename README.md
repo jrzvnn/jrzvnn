@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Honey: all the news about PayPal’s alleged scam coupon app](https://www.theverge.com/24343913/paypal-honey-megalag-coupon-scam-affiliate-fees)
  - [TikTok tells employees it’s ‘planning for various scenarios’ ahead of possible US ban](https://www.theverge.com/2025/1/14/24343933/tiktok-employee-memo-supreme-court-us-ban)
  - [Apple releases third developer beta of watchOS 11.3 for testing](https://appleinsider.com/articles/25/01/14/apple-releases-third-developer-beta-of-watchos-113-for-testing?utm_medium=rss)
  - [The best smartwatches for Android](https://www.theverge.com/23449363/best-android-smartwatches-wear-os)
- - [Inside Meta’s race to beat OpenAI: “We need to learn how to build frontier and win this race”](https://www.theverge.com/2025/1/14/24343692/meta-lawsuit-copyright-lawsuit-llama-libgen)
- - [Email: Sonos CPO Maxime Bouvat-Merlin is leaving; some employees say he shares a significant amount of blame for the brand damage after the botched app revamp &lpar;Chris Welch/The Verge&rpar;](http://www.techmeme.com/250114/p29#a250114p29)<!-- TECH:END -->
+ - [Inside Meta’s race to beat OpenAI: “We need to learn how to build frontier and win this race”](https://www.theverge.com/2025/1/14/24343692/meta-lawsuit-copyright-lawsuit-llama-libgen)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

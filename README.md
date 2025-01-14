@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Filing: the SEC sues Elon Musk, claiming he failed to timely disclose a major purchase of Twitter shares ahead of his takeover of the social media platform &lpar;Nicola M White/Bloomberg&rpar;](http://www.techmeme.com/250114/p31#a250114p31)
  - [Huione Guarantee, a Telegram marketplace that facilitates &quot;pig butchering&quot; and other scams, recently launched several crypto products, including a stablecoin &lpar;Elliptic&rpar;](http://www.techmeme.com/250114/p30#a250114p30)
  - [RedNote: what it’s like using the Chinese app TikTokers are flocking to](https://www.theverge.com/2025/1/14/24343834/rednote-xiaohongshu-chinese-app-tiktok-ban)
  - [Honey: all the news about PayPal’s alleged scam coupon app](https://www.theverge.com/24343913/paypal-honey-megalag-coupon-scam-affiliate-fees)
- - [TikTok tells employees it’s ‘planning for various scenarios’ ahead of possible US ban](https://www.theverge.com/2025/1/14/24343933/tiktok-employee-memo-supreme-court-us-ban)
- - [Apple releases third developer beta of watchOS 11.3 for testing](https://appleinsider.com/articles/25/01/14/apple-releases-third-developer-beta-of-watchos-113-for-testing?utm_medium=rss)<!-- TECH:END -->
+ - [TikTok is ‘planning for various scenarios’ ahead of possible US ban](https://www.theverge.com/2025/1/14/24343933/tiktok-employee-memo-supreme-court-us-ban)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

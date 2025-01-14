@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [A look at European tech firms Idemia, SITA, Travizory, and WCC, that offer AI tools to help governments surveil cross-border travelers and predict threats &lpar;Caitlin Chandler/Wired&rpar;](http://www.techmeme.com/250113/p43#a250113p43)
+ - [Abxylute S9 controller review: Stretch to fit iPad mini without breaking the bank](https://appleinsider.com/articles/25/01/14/abxylute-s9-controller-review-stretch-to-fit-ipad-mini-without-breaking-the-bank?utm_medium=rss)
+ - [Sources: Databricks secures $5B+ in its largest debt raise to date, from lenders including Blackstone and Apollo, after raising $10B in equity in December 2024 &lpar;Bloomberg&rpar;](http://www.techmeme.com/250113/p42#a250113p42)
  - [TikTok denies a report that China is looking at potentially facilitating a sale of the app to Elon Musk, calling it &quot;pure fiction&quot; &lpar;Todd Spangler/Variety&rpar;](http://www.techmeme.com/250113/p41#a250113p41)
- - [Docs: Arm was working on a strategy in 2019 to hike prices to boost annual smartphone revenue by ~$1B over 10 years, and has discussed designing its own chips &lpar;Reuters&rpar;](http://www.techmeme.com/250113/p40#a250113p40)
- - [Sources: Chinese officials are evaluating an option involving Elon Musk acquiring TikTok US; X would take control of TikTok US and run the businesses together &lpar;Bloomberg&rpar;](http://www.techmeme.com/250113/p39#a250113p39)
- - [Apple’s latest iPad Mini is down to its lowest price to date](https://www.theverge.com/2025/1/13/24343001/apple-ipad-mini-7th-generation-tablet-amazon-best-buy-deal-sale)
- - [Sources: Zuckerberg met with Trump on Friday, in part to mediate a 2021 lawsuit Trump brought against Meta over his account suspension after the Jan. 6 riot &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/250113/p38#a250113p38)<!-- TECH:END -->
+ - [Best Language Learning Apps for 2025](https://www.cnet.com/tech/services-and-software/best-language-learning-apps/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

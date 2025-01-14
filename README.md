@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [TikTok tells employees it’s planning ‘the way forward’ ahead of Supreme Court ruling](https://www.theverge.com/2025/1/14/24343933/tiktok-employee-memo-supreme-court-us-ban)
+ - [Apple releases third developer beta of watchOS 11.3 for testing](https://appleinsider.com/articles/25/01/14/apple-releases-third-developer-beta-of-watchos-113-for-testing?utm_medium=rss)
  - [The best smartwatches for Android](https://www.theverge.com/23449363/best-android-smartwatches-wear-os)
  - [Inside Meta’s race to beat OpenAI: “We need to learn how to build frontier and win this race”](https://www.theverge.com/2025/1/14/24343692/meta-lawsuit-copyright-lawsuit-llama-libgen)
- - [Email: Sonos CPO Maxime Bouvat-Merlin is leaving; some employees say he shares a significant amount of blame for the brand damage after the botched app revamp &lpar;Chris Welch/The Verge&rpar;](http://www.techmeme.com/250114/p29#a250114p29)
- - [Intel Capital plans to split off from its parent into a standalone fund with a new name in H2 2025; Intel Capital has invested $20B+ into over 1,800 companies &lpar;Dan Primack/Axios&rpar;](http://www.techmeme.com/250114/p28#a250114p28)
- - [Parallels is testing x86 emulation on Apple silicon Macs](https://www.theverge.com/2025/1/14/24343774/parallels-windows-10-11-x86-apple-silicon-mac-support-preview)<!-- TECH:END -->
+ - [Email: Sonos CPO Maxime Bouvat-Merlin is leaving; some employees say he shares a significant amount of blame for the brand damage after the botched app revamp &lpar;Chris Welch/The Verge&rpar;](http://www.techmeme.com/250114/p29#a250114p29)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

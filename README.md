@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [And that&#39;s how you do it, the GTA style](http://9gag.com/gag/apR9O7n)
- - 😝 [That&#39;s actually quite smart.](http://9gag.com/gag/axyoL0K)
- - 💣 [Bro felt pleasure](http://9gag.com/gag/aBydBWN)
+ - 😝 [My friends tape](http://9gag.com/gag/aXPn6N2)
  - 😝 [Guy opens his safe after his house burns down in wildfire..](http://9gag.com/gag/amoA37o)
- - 👉 [Cant believe humans saw this then created spotify](http://9gag.com/gag/aXPn6jz)<!-- MEMES:END -->
+ - 💣 [Trying too hard](http://9gag.com/gag/a34ZXZv)
+ - 😝 [Smooth as a sand paper](http://9gag.com/gag/aMVEo2x)
+ - 👉 [Now, that\u2019s a grudge!](http://9gag.com/gag/a9yqgAZ)<!-- MEMES:END -->
 
 ---
 

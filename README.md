@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Damn](http://9gag.com/gag/a2vKXVE)
  - 😝 [Id watch that movie](http://9gag.com/gag/a0e43od)
- - 💣 [Depends who has the sword](http://9gag.com/gag/amoA4ZX)
- - 😝 [GTA games detail differences](http://9gag.com/gag/a34Zmy5)
- - 👉 [A French woman sent 800k\u20ac to a scammer impersonating Brad Pitt](http://9gag.com/gag/aZZDO46)<!-- MEMES:END -->
+ - 😝 [A French woman sent 800k\u20ac to a scammer impersonating Brad Pitt](http://9gag.com/gag/aZZDO46)
+ - 💣 [GTA games detail differences](http://9gag.com/gag/a34Zmy5)
+ - 😝 [Daydreams of shopping with the wife](http://9gag.com/gag/aE0qLno)
+ - 👉 [Insane card trick.](http://9gag.com/gag/abAv9BL)<!-- MEMES:END -->
 
 ---
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [How Cleo AI and Bright, AI chatbots offering personalized financial advice, often function as a way to sell high-interest loans and cash advances to young users &lpar;Reece Rogers/Wired&rpar;](http://www.techmeme.com/250114/p5#a250114p5)
  - [The ‘Largest Illicit Online Marketplace’ Ever Is Growing at an Alarming Rate, Report Says](https://www.wired.com/story/the-largest-illicit-online-marketplace-ever-is-growing-at-an-alarming-rate/)
  - [VistaPrint Coupon: Exclusive $20 Off $100+](https://www.wired.com/story/vistaprint-coupon-code/)
  - [AirDoctor Coupon Code: 25% Off Air Purifiers](https://www.wired.com/story/airdoctor-coupon-code/)
- - [KitchenAid Promo Codes and Coupons: 30% Off](https://www.wired.com/story/exclusive-kitchenaid-promo-code/)
- - [Amazon&#39;s AGI lead Rohit Prasad says Alexa will relaunch as an AI agent as Amazon works to address challenges in the system&#39;s AI overhaul &lpar;Financial Times&rpar;](http://www.techmeme.com/250114/p4#a250114p4)<!-- TECH:END -->
+ - [KitchenAid Promo Codes and Coupons: 30% Off](https://www.wired.com/story/exclusive-kitchenaid-promo-code/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Meta Quest 3S with 256GB of storage is $50 off right now](https://www.theverge.com/2025/1/14/24342856/meta-quest-3s-vr-headset-amazon-fire-tablet-7-deal-sale)
+ - [You Have NASA to Thank for Wireless Headphones and Vacuum Cleaners](https://www.wired.com/gallery/nasa-spinoff-space-research-technology/)
+ - [The US, Japan, and South Korea issue a joint statement saying North Korean-backed hackers stole $659M+ in crypto heists in 2024 and were behind the $235M WazirX &lpar;Manish Singh/TechCrunch&rpar;](http://www.techmeme.com/250114/p18#a250114p18)
  - [FBI hacked thousands of computers to make malware uninstall itself](https://www.theverge.com/2025/1/14/24343495/fbi-computer-hack-uninstall-plugx-malware)
- - [Meta plans to cut about 5% of its lowest performers with the intent of backfilling their roles this year, according to an internal memo sent to employees &lpar;Riley Griffin/Bloomberg&rpar;](http://www.techmeme.com/250114/p17#a250114p17)
- - [Joe Biden signs executive order to speed AI data center construction](https://www.theverge.com/2025/1/14/24328120/data-center-executive-order-biden-energy)
- - [WhatsApp is making it easier to react to messages](https://www.theverge.com/2025/1/14/24343515/whatsapp-quick-message-reactions-emojis-chats)
- - [Apple&#39;s global manufacturing expansion matters for your next iPhone purchase](https://appleinsider.com/articles/25/01/14/apples-global-manufacturing-expansion-matters-for-your-next-iphone-purchase?utm_medium=rss)<!-- TECH:END -->
+ - [Best Open Earbuds for 2025](https://www.cnet.com/tech/mobile/best-open-wireless-earbuds/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

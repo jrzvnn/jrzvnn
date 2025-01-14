@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Depends who has the sword](http://9gag.com/gag/amoA4ZX)
- - 😝 [It&#39;s a me! Luigi!](http://9gag.com/gag/aBydeAQ)
- - 💣 [This was fast...](http://9gag.com/gag/avyQw5b)
- - 😝 [Mom, how will I know if she is the right one?](http://9gag.com/gag/ayN2GBp)
- - 👉 [Husband being husband](http://9gag.com/gag/aRBEpzG)<!-- MEMES:END -->
+ - 😝 [Zuck the cuck](http://9gag.com/gag/aQzEjGe)
+ - 😝 [The speed of light comes at a big cost.](http://9gag.com/gag/aRBEpLj)
+ - 💣 [The prob is I got no GF.](http://9gag.com/gag/arymQ77)
+ - 😝 [Two wrench trick](http://9gag.com/gag/axyoqBD)
+ - 👉 [Wrath of the Chinese Trump...](http://9gag.com/gag/a87qNwQ)<!-- MEMES:END -->
 
 ---
 

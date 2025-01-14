@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [That bags feeling it.](http://9gag.com/gag/an7zwbL)
- - 😝 [Guy opens his safe after his house burns down in wildfire..](http://9gag.com/gag/amoA37o)
- - 💣 [A French woman sent 800k\u20ac to a scammer impersonating Brad Pitt](http://9gag.com/gag/aZZDO46)
+ - 😝 [Goals lol](http://9gag.com/gag/aMVE5gG)
+ - 😝 [Depends who has the sword](http://9gag.com/gag/amoA4ZX)
+ - 💣 [Guy opens his safe after his house burns down in wildfire..](http://9gag.com/gag/amoA37o)
  - 😝 [Trying too hard](http://9gag.com/gag/a34ZXZv)
- - 👉 [Depends who has the sword](http://9gag.com/gag/amoA4ZX)<!-- MEMES:END -->
+ - 👉 [Aged like Guatemala rum](http://9gag.com/gag/aKGERd1)<!-- MEMES:END -->
 
 ---
 

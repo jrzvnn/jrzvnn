@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The 33 Best Shows on Apple TV+ Right Now &lpar;January 2025&rpar;](https://www.wired.com/story/best-apple-tv-plus-shows/)
  - [Premier League Soccer: Livestream West Ham vs. Fulham From Anywhere](https://www.cnet.com/tech/services-and-software/premier-league-soccer-livestream-west-ham-vs-fulham-from-anywhere/#ftag=CAD590a51e)
  - [Premier League Soccer: Livestream Nottingham Forest vs. Liverpool From Anywhere](https://www.cnet.com/tech/services-and-software/premier-league-soccer-livestream-nottingham-forest-vs-liverpool-from-anywhere/#ftag=CAD590a51e)
  - [Premier League Soccer: Livestream Chelsea vs. Bournemouth From Anywhere](https://www.cnet.com/tech/services-and-software/premier-league-soccer-livestream-chelsea-vs-bournemouth-from-anywhere/#ftag=CAD590a51e)
- - [Premier League Soccer: Livestream Brentford vs. Man City From Anywhere](https://www.cnet.com/tech/services-and-software/premier-league-soccer-livestream-brentford-vs-man-city-from-anywhere/#ftag=CAD590a51e)
- - [Instagram alternative Pixelfed now has apps](https://www.theverge.com/2025/1/14/24343614/instagram-alternative-pixelfed-app-launch-ios-android)<!-- TECH:END -->
+ - [Premier League Soccer: Livestream Brentford vs. Man City From Anywhere](https://www.cnet.com/tech/services-and-software/premier-league-soccer-livestream-brentford-vs-man-city-from-anywhere/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

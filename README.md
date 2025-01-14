@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Zuckerberg says Meta will lay off more ‘low-performers’](https://www.theverge.com/2025/1/14/24343562/meta-lay-offs-low-performers-zuckerberg-memo)
+ - [OnePlus 13 and OnePlus 13R Review: Fast and Smooth](https://www.wired.com/review/roneplus-13-and-oneplus-13r/)
  - [Meta Quest 3S with 256GB of storage is $50 off right now](https://www.theverge.com/2025/1/14/24342856/meta-quest-3s-vr-headset-amazon-fire-tablet-7-deal-sale)
  - [You Have NASA to Thank for Wireless Headphones and Vacuum Cleaners](https://www.wired.com/gallery/nasa-spinoff-space-research-technology/)
- - [The US, Japan, and South Korea issue a joint statement saying North Korean-backed hackers stole $659M+ in crypto heists in 2024 and were behind the $235M WazirX &lpar;Manish Singh/TechCrunch&rpar;](http://www.techmeme.com/250114/p18#a250114p18)
- - [FBI hacked thousands of computers to make malware uninstall itself](https://www.theverge.com/2025/1/14/24343495/fbi-computer-hack-uninstall-plugx-malware)
- - [Best Open Earbuds for 2025](https://www.cnet.com/tech/mobile/best-open-wireless-earbuds/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [The US, Japan, and South Korea issue a joint statement saying North Korean-backed hackers stole $659M+ in crypto heists in 2024 and were behind the $235M WazirX &lpar;Manish Singh/TechCrunch&rpar;](http://www.techmeme.com/250114/p18#a250114p18)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

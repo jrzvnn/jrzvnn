@@ -167,10 +167,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [My friends tape](http://9gag.com/gag/aXPn6N2)
- - 😝 [Guy opens his safe after his house burns down in wildfire..](http://9gag.com/gag/amoA37o)
- - 💣 [Trying too hard](http://9gag.com/gag/a34ZXZv)
- - 😝 [Smooth as a sand paper](http://9gag.com/gag/aMVEo2x)
- - 👉 [Now, that\u2019s a grudge!](http://9gag.com/gag/a9yqgAZ)<!-- MEMES:END -->
+ - 😝 [I wonder why they can&#39;t get a date](http://9gag.com/gag/a6ZqP2e)
+ - 💣 [GTA games detail differences](http://9gag.com/gag/a34Zmy5)
+ - 😝 [Trying too hard](http://9gag.com/gag/a34ZXZv)
+ - 👉 [A French woman sent 800k\u20ac to a scammer impersonating Brad Pitt](http://9gag.com/gag/aZZDO46)<!-- MEMES:END -->
 
 ---
 

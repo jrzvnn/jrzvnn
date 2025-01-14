@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Philly man got arrested by his twin brother](http://9gag.com/gag/a5QX0zN)
- - 😝 [Depends who has the sword](http://9gag.com/gag/amoA4ZX)
- - 💣 [Hilarious](http://9gag.com/gag/aGyEmb0)
- - 😝 [What a beautiful memory](http://9gag.com/gag/aQzE537)
- - 👉 [I wonder why they can&#39;t get a date](http://9gag.com/gag/a6ZqP2e)<!-- MEMES:END -->
+ - 😝 [Got injured during sensation](http://9gag.com/gag/aD2YeVZ)
+ - 😝 [Not in LA... i say NOT in LA](http://9gag.com/gag/aGyE5nZ)
+ - 💣 [This is how an ex-wife comes to pick up her kids from the father\u2019s house.](http://9gag.com/gag/a9yqGZK)
+ - 😝 [Hilarious](http://9gag.com/gag/aGyEmb0)
+ - 👉 [Now, that\u2019s a grudge!](http://9gag.com/gag/a9yqgAZ)<!-- MEMES:END -->
 
 ---
 

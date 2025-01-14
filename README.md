@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Sources: Apple is finalizing verification of its first cutting-edge chips from TSMC&#39;s Arizona plant, with the initial batch expected as early as this quarter &lpar;Cheng Ting-Fang/Nikkei Asia&rpar;](http://www.techmeme.com/250113/p45#a250113p45)
+ - [How to stop the macOS firewall leaking system network data after a software update](https://appleinsider.com/inside/macos-sequoia/tips/how-to-stop-the-macos-firewall-leaking-system-network-data-after-a-software-update?utm_medium=rss)
  - [Best Multivitamins for 2025](https://www.cnet.com/health/nutrition/best-multivitamins/#ftag=CAD590a51e)
  - [Bellevue, WA-based Truveta, which aggregates medical data from 30 partner institutions, raised $320M from Regeneron, Illumina, and others at a $1B+ valuation &lpar;Taylor Soper/GeekWire&rpar;](http://www.techmeme.com/250113/p44#a250113p44)
- - [A look at European tech firms Idemia, SITA, Travizory, and WCC, that offer AI tools to help governments surveil cross-border travelers and predict threats &lpar;Caitlin Chandler/Wired&rpar;](http://www.techmeme.com/250113/p43#a250113p43)
- - [Abxylute S9 controller review: Stretch to fit iPad mini without breaking the bank](https://appleinsider.com/articles/25/01/14/abxylute-s9-controller-review-stretch-to-fit-ipad-mini-without-breaking-the-bank?utm_medium=rss)
- - [Sources: Databricks secures $5B+ in its largest debt raise to date, from lenders including Blackstone and Apollo, after raising $10B in equity in December 2024 &lpar;Bloomberg&rpar;](http://www.techmeme.com/250113/p42#a250113p42)<!-- TECH:END -->
+ - [A look at European tech firms Idemia, SITA, Travizory, and WCC, that offer AI tools to help governments surveil cross-border travelers and predict threats &lpar;Caitlin Chandler/Wired&rpar;](http://www.techmeme.com/250113/p43#a250113p43)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

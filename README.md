@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Guy opens his safe after his house burns down in wildfire..](http://9gag.com/gag/amoA37o)
- - 😝 [Philly man got arrested by his twin brother](http://9gag.com/gag/a5QX0zN)
- - 💣 [Husband being husband](http://9gag.com/gag/aRBEpzG)
- - 😝 [Trying too hard](http://9gag.com/gag/a34ZXZv)
- - 👉 [Now, that\u2019s a grudge!](http://9gag.com/gag/a9yqgAZ)<!-- MEMES:END -->
+ - 😝 [Go sports!!!](http://9gag.com/gag/an7z650)
+ - 😝 [Husband being husband](http://9gag.com/gag/aRBEpzG)
+ - 💣 [Trying too hard](http://9gag.com/gag/a34ZXZv)
+ - 😝 [Now, that\u2019s a grudge!](http://9gag.com/gag/a9yqgAZ)
+ - 👉 [When everyday is a bad hair day](http://9gag.com/gag/aYQV0NN)<!-- MEMES:END -->
 
 ---
 

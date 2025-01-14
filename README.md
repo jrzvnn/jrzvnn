@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The TikTok ban, and what comes next](https://www.theverge.com/2025/1/14/24343419/tiktok-ban-kickstarter-magic-links-vergecast)
  - [Klarna strikes a partnership with Stripe to make its BNPL service available to merchants using Stripe&#39;s payment tools in 26 countries, ahead of its US IPO &lpar;Ryan Browne/CNBC&rpar;](http://www.techmeme.com/250114/p13#a250114p13)
  - [Imagining a Future Where Chicagoans Get Around in Free Driverless Cars](https://www.wired.com/story/book-excerpt-death-of-the-author-nnedi-okorafor/)
  - [DJI Flip official: the unique bicycle spoke folding drone starts at $439](https://www.theverge.com/24343321/dji-flip-drone-price-release-date)
- - [India&#39;s IT outsourcing industry, which gets more than half of its revenue from the US, expects Trump&#39;s deregulation to spur growth by boosting tech spending &lpar;Financial Times&rpar;](http://www.techmeme.com/250114/p12#a250114p12)
- - [EU may be reassessing billion-dollar Big Tech fines as it waits for Trump](https://appleinsider.com/articles/25/01/14/eu-may-be-reassessing-billion-dollar-big-tech-fines-as-it-waits-for-trump?utm_medium=rss)<!-- TECH:END -->
+ - [India&#39;s IT outsourcing industry, which gets more than half of its revenue from the US, expects Trump&#39;s deregulation to spur growth by boosting tech spending &lpar;Financial Times&rpar;](http://www.techmeme.com/250114/p12#a250114p12)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

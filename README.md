@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Husband being husband](http://9gag.com/gag/aRBEpzG)
- - 😝 [Philly man got arrested by his twin brother](http://9gag.com/gag/a5QX0zN)
- - 💣 [Trying too hard](http://9gag.com/gag/a34ZXZv)
- - 😝 [Damn](http://9gag.com/gag/a2vKXVE)
- - 👉 [Now, that\u2019s a grudge!](http://9gag.com/gag/a9yqgAZ)<!-- MEMES:END -->
+ - 😝 [Depends who has the sword](http://9gag.com/gag/amoA4ZX)
+ - 😝 [When ur homie keeps going to Thailand for food and culture...](http://9gag.com/gag/aVvbyR8)
+ - 💣 [Philly man got arrested by his twin brother](http://9gag.com/gag/a5QX0zN)
+ - 😝 [When everyday is a bad hair day](http://9gag.com/gag/aYQV0NN)
+ - 👉 [Husband being husband](http://9gag.com/gag/aRBEpzG)<!-- MEMES:END -->
 
 ---
 

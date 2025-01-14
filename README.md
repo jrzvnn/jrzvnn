@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Philly man got arrested by his twin brother](http://9gag.com/gag/a5QX0zN)
- - 😝 [He&#39;s just enjoying the moment](http://9gag.com/gag/a0e4gQz)
- - 💣 [This was fast...](http://9gag.com/gag/avyQw5b)
- - 😝 [My friends tape](http://9gag.com/gag/aXPn6N2)
- - 👉 [Muscle memory kicked in](http://9gag.com/gag/aAy0Ayo)<!-- MEMES:END -->
+ - 😝 [Roughly 22,000 to 23,000 years ago, a likely young woman made two dangerous trips across the expanse of Lake Otero, an ancient lake from the Ice Age, with at least one of these trips involving her carrying a small child.](http://9gag.com/gag/aLn15Dv)
+ - 😝 [When ur homie keeps going to Thailand for food and culture...](http://9gag.com/gag/aVvbyR8)
+ - 💣 [My friends tape](http://9gag.com/gag/aXPn6N2)
+ - 😝 [Trying too hard](http://9gag.com/gag/a34ZXZv)
+ - 👉 [A French woman sent 800k\u20ac to a scammer impersonating Brad Pitt](http://9gag.com/gag/aZZDO46)<!-- MEMES:END -->
 
 ---
 

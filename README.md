@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [TikTok Ban Wild Card: Elon Musk as a Potential Buyer, Report Says](https://www.cnet.com/tech/services-and-software/tiktok-ban-wild-card-elon-musk-as-a-potential-buyer-report-says/#ftag=CAD590a51e)
  - [TSMC&#39;s Arizona chip plant nears Apple approval, but will never rival Taiwan](https://appleinsider.com/articles/25/01/14/tsmcs-arizona-chip-plant-nears-apple-approval-but-will-never-rival-taiwan?utm_medium=rss)
  - [Dremel put a stud sensor and laser level into its new multipurpose drill](https://www.theverge.com/2025/1/14/24343446/dremel-blueprint-multi-drill-tool-diy)
  - [Sources and business records detail how Barcelona has emerged as an unlikely hub for spyware companies, raising concerns from digital rights groups &lpar;Lorenzo Franceschi-Bicchierai/TechCrunch&rpar;](http://www.techmeme.com/250114/p16#a250114p16)
- - [The 6 Best Massagers for Sore Muscles and Stress Relief &lpar;2025&rpar;](https://www.wired.com/gallery/best-theragun-alternatives/)<!-- TECH:END -->
+ - [The 6 Best Massagers for Sore Muscles and Stress Relief &lpar;2025&rpar;](https://www.wired.com/gallery/best-theragun-alternatives/)
+ - [TikTok&#39;s ban saga is a mess, with only days before the hammer falls](https://appleinsider.com/articles/25/01/14/tiktoks-ban-saga-is-a-mess-with-only-days-before-the-hammer-falls?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

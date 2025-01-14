@@ -166,10 +166,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [When ur homie keeps going to Thailand for food and culture...](http://9gag.com/gag/aVvbyR8)
- - 😝 [This was fast...](http://9gag.com/gag/avyQw5b)
- - 💣 [A French woman sent 800k\u20ac to a scammer impersonating Brad Pitt](http://9gag.com/gag/aZZDO46)
- - 😝 [When everyday is a bad hair day](http://9gag.com/gag/aYQV0NN)
+ - 😝 [The speed of light comes at a big cost.](http://9gag.com/gag/aRBEpLj)
+ - 😝 [The prob is I got no GF.](http://9gag.com/gag/arymQ77)
+ - 💣 [I can&#39;t stop watching it](http://9gag.com/gag/aMVEodP)
+ - 😝 [Two wrench trick](http://9gag.com/gag/axyoqBD)
  - 👉 [Guy opens his safe after his house burns down in wildfire..](http://9gag.com/gag/amoA37o)<!-- MEMES:END -->
 
 ---

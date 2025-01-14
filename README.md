@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Now, that\u2019s a grudge!](http://9gag.com/gag/a9yqgAZ)
- - 😝 [When everyday is a bad hair day](http://9gag.com/gag/aYQV0NN)
- - 💣 [Bruce got pied](http://9gag.com/gag/aNDw6AA)
- - 😝 [Trying too hard](http://9gag.com/gag/a34ZXZv)
- - 👉 [Aged like Guatemala rum](http://9gag.com/gag/aKGERd1)<!-- MEMES:END -->
+ - 😝 [Hilarious](http://9gag.com/gag/aGyEmb0)
+ - 😝 [GTA games detail differences](http://9gag.com/gag/a34Zmy5)
+ - 💣 [Aged like Guatemala rum](http://9gag.com/gag/aKGERd1)
+ - 😝 [Bruce got pied](http://9gag.com/gag/aNDw6AA)
+ - 👉 [Trying too hard](http://9gag.com/gag/a34ZXZv)<!-- MEMES:END -->
 
 ---
 

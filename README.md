@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [This was fast...](http://9gag.com/gag/avyQw5b)
- - 😝 [Philly man got arrested by his twin brother](http://9gag.com/gag/a5QX0zN)
- - 💣 [Husband being husband](http://9gag.com/gag/aRBEpzG)
- - 😝 [When everyday is a bad hair day](http://9gag.com/gag/aYQV0NN)
- - 👉 [Trying too hard](http://9gag.com/gag/a34ZXZv)<!-- MEMES:END -->
+ - 😝 [Depends who has the sword](http://9gag.com/gag/amoA4ZX)
+ - 😝 [It&#39;s a me! Luigi!](http://9gag.com/gag/aBydeAQ)
+ - 💣 [This was fast...](http://9gag.com/gag/avyQw5b)
+ - 😝 [Mom, how will I know if she is the right one?](http://9gag.com/gag/ayN2GBp)
+ - 👉 [Husband being husband](http://9gag.com/gag/aRBEpzG)<!-- MEMES:END -->
 
 ---
 

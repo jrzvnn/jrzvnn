@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The US says the FBI hacked ~4.2K devices in the US to delete PlugX, malware used by China-backed hackers since 2014, after obtaining warrants in August 2024 &lpar;Carly Page/TechCrunch&rpar;](http://www.techmeme.com/250114/p24#a250114p24)
+ - [Apple Watch Series 10 three-month review: Iterative isn&#39;t a bad word](https://appleinsider.com/articles/25/01/14/apple-watch-series-10-three-month-review-iterative-isnt-a-bad-word?utm_medium=rss)
+ - [Comics distributor Diamond is filing for bankruptcy](https://www.theverge.com/2025/1/14/24343544/diamond-comics-bankruptcy)
  - [OpenAI launches Tasks, rolling out in beta to ChatGPT Plus, Team, and Pro subscribers, to let users schedule reminders, with up to ten active at any given time &lpar;Kylie Robison/The Verge&rpar;](http://www.techmeme.com/250114/p23#a250114p23)
- - [Parallels rolls out an &quot;early technology preview&quot; of Parallels Desktop for Macs with Apple Silicon that has &quot;really slow&quot; support for x86 OSes, like Windows 11 &lpar;Andrew Cunningham/Ars Technica&rpar;](http://www.techmeme.com/250114/p22#a250114p22)
- - [Apple joins AI hardware standards consortium to improve server performance](https://appleinsider.com/articles/25/01/14/apple-joins-ai-hardware-standards-consortium-to-improve-server-performance?utm_medium=rss)
- - [ChatGPT can now handle reminders and to-dos](https://www.theverge.com/2025/1/14/24343528/openai-chatgpt-repeating-tasks-agent-ai)
- - [Far-Right Extremists Are LARPing as Emergency Workers in Los Angeles](https://www.wired.com/story/far-right-extremists-are-larping-as-emergency-workers-in-los-angeles/)<!-- TECH:END -->
+ - [Parallels rolls out an &quot;early technology preview&quot; of Parallels Desktop for Macs with Apple Silicon that has &quot;really slow&quot; support for x86 OSes, like Windows 11 &lpar;Andrew Cunningham/Ars Technica&rpar;](http://www.techmeme.com/250114/p22#a250114p22)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

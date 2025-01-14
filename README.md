@@ -161,7 +161,7 @@ R                        1 repo              ░░░░░░░░░░░�
  - [Sonos’ chief product officer is leaving the company](https://www.theverge.com/2025/1/14/24343873/sonos-product-officer-maxime-bouvat-merlin-leaving)
  - [Decentralized Instagram alternative Pixelfed debuts iOS and Android apps; its Android app is the top Social app on Google Play in some markets, including the US &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/250114/p27#a250114p27)
  - [Netflix’s new animated Witcher spinoff movie sets sail this February](https://www.theverge.com/2025/1/14/24343771/netflix-witcher-sirens-of-the-deep-trailer-date)
- - [North Korea linked to crypto heists of over $650 million in 2024 alone](https://www.theverge.com/2025/1/14/24343762/north-korea-crypto-stolen-wazirx-lazarus-group)<!-- TECH:END -->
+ - [Best Live TV Streaming Services in 2025](https://www.cnet.com/tech/services-and-software/best-live-tv-streaming-service-for-cord-cutters/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

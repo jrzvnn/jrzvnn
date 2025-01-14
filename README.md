@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [EU may be reassessing billion-dollar Big Tech fines as it waits for Trump](https://appleinsider.com/articles/25/01/14/eu-may-be-reassessing-billion-dollar-big-tech-fines-as-it-waits-for-trump?utm_medium=rss)
+ - [18 Best Coffee Subscriptions to Keep You Wired &lpar;2025&rpar;](https://www.wired.com/gallery/best-coffee-subscriptions/)
+ - [DirecTV launches MySports, a sports streamer featuring games from NFL and other major leagues, and access to 40 channels, in 24 US metro areas for $70/month &lpar;Hannah Miller/Bloomberg&rpar;](http://www.techmeme.com/250114/p11#a250114p11)
  - [How to Pay Your Taxes Online](https://www.wired.com/story/how-to-pay-taxes-online/)
- - [A profile of Hussain Sajwani, who, alongside Donald Trump at Mar-a-Lago, pledged a $20B investment in US data centers, and why some are skeptical of the plan &lpar;Bloomberg&rpar;](http://www.techmeme.com/250114/p10#a250114p10)
- - [GPS Is Vulnerable to Attack. Magnetic Navigation Can Help](https://www.wired.com/story/google-startup-wants-to-revolutionize-satellite-navigation/)
- - [Paris-based Bioptimus, which is developing a foundational AI model for biology, raised $41M led by Cathay Innovation, bringing its total raised to $76M &lpar;Paul Sawers/TechCrunch&rpar;](http://www.techmeme.com/250114/p9#a250114p9)
- - [Best Blenders in 2025 – Tested by CNET Experts](https://www.cnet.com/home/kitchen-and-household/best-blender/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [A profile of Hussain Sajwani, who, alongside Donald Trump at Mar-a-Lago, pledged a $20B investment in US data centers, and why some are skeptical of the plan &lpar;Bloomberg&rpar;](http://www.techmeme.com/250114/p10#a250114p10)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

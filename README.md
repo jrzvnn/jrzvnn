@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Depends who has the sword](http://9gag.com/gag/amoA4ZX)
- - 😝 [When ur homie keeps going to Thailand for food and culture...](http://9gag.com/gag/aVvbyR8)
- - 💣 [Philly man got arrested by his twin brother](http://9gag.com/gag/a5QX0zN)
- - 😝 [When everyday is a bad hair day](http://9gag.com/gag/aYQV0NN)
- - 👉 [Husband being husband](http://9gag.com/gag/aRBEpzG)<!-- MEMES:END -->
+ - 😝 [Zuck the cuck](http://9gag.com/gag/aQzEjGe)
+ - 😝 [Mom, how will I know if she is the right one?](http://9gag.com/gag/ayN2GBp)
+ - 💣 [The speed of light comes at a big cost.](http://9gag.com/gag/aRBEpLj)
+ - 😝 [Two wrench trick](http://9gag.com/gag/axyoqBD)
+ - 👉 [The prob is I got no GF.](http://9gag.com/gag/arymQ77)<!-- MEMES:END -->
 
 ---
 

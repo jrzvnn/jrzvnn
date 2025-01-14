@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Never had real value](http://9gag.com/gag/aVvb5Rv)
- - 😝 [Hilarious](http://9gag.com/gag/aGyEmb0)
- - 💣 [This is how an ex-wife comes to pick up her kids from the father\u2019s house.](http://9gag.com/gag/a9yqGZK)
- - 😝 [GTA games detail differences](http://9gag.com/gag/a34Zmy5)
- - 👉 [Trying too hard](http://9gag.com/gag/a34ZXZv)<!-- MEMES:END -->
+ - 😝 [Daydreams of shopping with the wife](http://9gag.com/gag/aE0qLno)
+ - 😝 [I wonder why they can&#39;t get a date](http://9gag.com/gag/a6ZqP2e)
+ - 💣 [Prisoners claim that the short notice given to death row inmates before they are led to the gallows is illegal since it does not give condemned men and women enough time to object.](http://9gag.com/gag/agmoDXw)
+ - 😝 [Trying too hard](http://9gag.com/gag/a34ZXZv)
+ - 👉 [GTA games detail differences](http://9gag.com/gag/a34Zmy5)<!-- MEMES:END -->
 
 ---
 

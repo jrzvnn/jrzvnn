@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [She&#39;s a keeper](http://9gag.com/gag/ajPVpRp)
- - 😝 [Hilarious](http://9gag.com/gag/aGyEmb0)
- - 💣 [She seems fun to hangout with.](http://9gag.com/gag/axyo5RL)
- - 😝 [When leftist meet reality.](http://9gag.com/gag/a4PoDRZ)
- - 👉 [Yeah they totally deserve it](http://9gag.com/gag/abAv9A9)<!-- MEMES:END -->
+ - 😝 [Damn](http://9gag.com/gag/a2vKXVE)
+ - 😝 [Smooth as a sand paper](http://9gag.com/gag/aMVEo2x)
+ - 💣 [GTA games detail differences](http://9gag.com/gag/a34Zmy5)
+ - 😝 [This is how an ex-wife comes to pick up her kids from the father\u2019s house.](http://9gag.com/gag/a9yqGZK)
+ - 👉 [Insane card trick.](http://9gag.com/gag/abAv9BL)<!-- MEMES:END -->
 
 ---
 

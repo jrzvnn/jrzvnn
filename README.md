@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [When everyday is a bad hair day](http://9gag.com/gag/aYQV0NN)
- - 😝 [Damn](http://9gag.com/gag/a2vKXVE)
- - 💣 [Finally got an inside view of North Korea](http://9gag.com/gag/apR972b)
- - 😝 [What a beautiful memory](http://9gag.com/gag/aQzE537)
- - 👉 [Trying too hard](http://9gag.com/gag/a34ZXZv)<!-- MEMES:END -->
+ - 😝 [Their signature move is a game changer](http://9gag.com/gag/aD2Ye4G)
+ - 😝 [Zuck the cuck](http://9gag.com/gag/aQzEjGe)
+ - 💣 [The speed of light comes at a big cost.](http://9gag.com/gag/aRBEpLj)
+ - 😝 [Wrath of the Chinese Trump...](http://9gag.com/gag/a87qNwQ)
+ - 👉 [Two wrench trick](http://9gag.com/gag/axyoqBD)<!-- MEMES:END -->
 
 ---
 

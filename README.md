@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Email: Sonos CPO Maxime Bouvat-Merlin is leaving; some employees say he shares a significant amount of blame for the brand damage after the botched app revamp &lpar;Chris Welch/The Verge&rpar;](http://www.techmeme.com/250114/p29#a250114p29)
+ - [Intel Capital plans to split off from its parent into a standalone fund with a new name in H2 2025; Intel Capital has invested $20B+ into over 1,800 companies &lpar;Dan Primack/Axios&rpar;](http://www.techmeme.com/250114/p28#a250114p28)
  - [Parallels is testing x86 emulation on Apple silicon Macs](https://www.theverge.com/2025/1/14/24343774/parallels-windows-10-11-x86-apple-silicon-mac-support-preview)
  - [Sonos’ chief product officer is leaving the company](https://www.theverge.com/2025/1/14/24343873/sonos-product-officer-maxime-bouvat-merlin-leaving)
- - [Decentralized Instagram alternative Pixelfed debuts iOS and Android apps; its Android app is the top Social app on Google Play in some markets, including the US &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/250114/p27#a250114p27)
- - [Netflix’s new animated Witcher spinoff movie sets sail this February](https://www.theverge.com/2025/1/14/24343771/netflix-witcher-sirens-of-the-deep-trailer-date)
- - [Best Live TV Streaming Services in 2025](https://www.cnet.com/tech/services-and-software/best-live-tv-streaming-service-for-cord-cutters/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Decentralized Instagram alternative Pixelfed debuts iOS and Android apps; its Android app is the top Social app on Google Play in some markets, including the US &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/250114/p27#a250114p27)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

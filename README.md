@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [When everyday is a bad hair day](http://9gag.com/gag/aYQV0NN)
  - 😝 [This was fast...](http://9gag.com/gag/avyQw5b)
+ - 😝 [Damn](http://9gag.com/gag/a2vKXVE)
  - 💣 [Trying too hard](http://9gag.com/gag/a34ZXZv)
- - 😝 [Husband being husband](http://9gag.com/gag/aRBEpzG)
- - 👉 [When ur homie keeps going to Thailand for food and culture...](http://9gag.com/gag/aVvbyR8)<!-- MEMES:END -->
+ - 😝 [When everyday is a bad hair day](http://9gag.com/gag/aYQV0NN)
+ - 👉 [Husband being husband](http://9gag.com/gag/aRBEpzG)<!-- MEMES:END -->
 
 ---
 

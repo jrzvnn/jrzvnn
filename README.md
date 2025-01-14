@@ -167,10 +167,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [Trying too hard](http://9gag.com/gag/a34ZXZv)
- - 😝 [Not in LA... i say NOT in LA](http://9gag.com/gag/aGyE5nZ)
- - 💣 [Never had real value](http://9gag.com/gag/aVvb5Rv)
- - 😝 [This is how an ex-wife comes to pick up her kids from the father\u2019s house.](http://9gag.com/gag/a9yqGZK)
- - 👉 [Husband being husband](http://9gag.com/gag/aRBEpzG)<!-- MEMES:END -->
+ - 😝 [When everyday is a bad hair day](http://9gag.com/gag/aYQV0NN)
+ - 💣 [Husband being husband](http://9gag.com/gag/aRBEpzG)
+ - 😝 [Never had real value](http://9gag.com/gag/aVvb5Rv)
+ - 👉 [This is how an ex-wife comes to pick up her kids from the father\u2019s house.](http://9gag.com/gag/a9yqGZK)<!-- MEMES:END -->
 
 ---
 

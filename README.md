@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Instagram alternative Pixelfed now has apps](https://www.theverge.com/2025/1/14/24343614/instagram-alternative-pixelfed-app-launch-ios-android)
+ - [Apple seeds third developer beta of tvOS 18.3](https://appleinsider.com/articles/25/01/14/apple-seeds-the-third-developer-beta-of-tvos-183?utm_medium=rss)
  - [The US says the FBI hacked ~4.2K devices in the US to delete PlugX, malware used by China-backed hackers since 2014, after obtaining warrants in August 2024 &lpar;Carly Page/TechCrunch&rpar;](http://www.techmeme.com/250114/p24#a250114p24)
  - [Best Internet Providers in Charlotte, North Carolina](https://www.cnet.com/home/internet/best-internet-providers-in-charlotte-nc/#ftag=CAD590a51e)
- - [Apple Watch Series 10 three-month review: Iterative isn&#39;t a bad word](https://appleinsider.com/articles/25/01/14/apple-watch-series-10-three-month-review-iterative-isnt-a-bad-word?utm_medium=rss)
- - [Comics distributor Diamond is filing for bankruptcy](https://www.theverge.com/2025/1/14/24343544/diamond-comics-bankruptcy)
- - [Best Internet Providers in Augusta, Georgia](https://www.cnet.com/home/internet/best-internet-providers-in-augusta-ga/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Apple Watch Series 10 three-month review: Iterative isn&#39;t a bad word](https://appleinsider.com/articles/25/01/14/apple-watch-series-10-three-month-review-iterative-isnt-a-bad-word?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

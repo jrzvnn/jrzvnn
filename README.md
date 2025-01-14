@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [My friends tape](http://9gag.com/gag/aXPn6N2)
- - 😝 [I wonder why they can&#39;t get a date](http://9gag.com/gag/a6ZqP2e)
- - 💣 [GTA games detail differences](http://9gag.com/gag/a34Zmy5)
- - 😝 [Trying too hard](http://9gag.com/gag/a34ZXZv)
- - 👉 [A French woman sent 800k\u20ac to a scammer impersonating Brad Pitt](http://9gag.com/gag/aZZDO46)<!-- MEMES:END -->
+ - 😝 [Aged like Guatemala rum](http://9gag.com/gag/aKGERd1)
+ - 😝 [Prisoners claim that the short notice given to death row inmates before they are led to the gallows is illegal since it does not give condemned men and women enough time to object.](http://9gag.com/gag/agmoDXw)
+ - 💣 [My friends tape](http://9gag.com/gag/aXPn6N2)
+ - 😝 [GTA games detail differences](http://9gag.com/gag/a34Zmy5)
+ - 👉 [Never had real value](http://9gag.com/gag/aVvb5Rv)<!-- MEMES:END -->
 
 ---
 

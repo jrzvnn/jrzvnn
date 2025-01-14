@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [The speed of light comes at a big cost.](http://9gag.com/gag/aRBEpLj)
- - 😝 [The prob is I got no GF.](http://9gag.com/gag/arymQ77)
- - 💣 [I can&#39;t stop watching it](http://9gag.com/gag/aMVEodP)
- - 😝 [Two wrench trick](http://9gag.com/gag/axyoqBD)
- - 👉 [Guy opens his safe after his house burns down in wildfire..](http://9gag.com/gag/amoA37o)<!-- MEMES:END -->
+ - 😝 [That bags feeling it.](http://9gag.com/gag/an7zwbL)
+ - 😝 [Guy opens his safe after his house burns down in wildfire..](http://9gag.com/gag/amoA37o)
+ - 💣 [A French woman sent 800k\u20ac to a scammer impersonating Brad Pitt](http://9gag.com/gag/aZZDO46)
+ - 😝 [Trying too hard](http://9gag.com/gag/a34ZXZv)
+ - 👉 [Depends who has the sword](http://9gag.com/gag/amoA4ZX)<!-- MEMES:END -->
 
 ---
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Trying too hard](http://9gag.com/gag/a34ZXZv)
- - 😝 [When everyday is a bad hair day](http://9gag.com/gag/aYQV0NN)
- - 💣 [Philly man got arrested by his twin brother](http://9gag.com/gag/a5QX0zN)
- - 😝 [This was fast...](http://9gag.com/gag/avyQw5b)
- - 👉 [Now, that\u2019s a grudge!](http://9gag.com/gag/a9yqgAZ)<!-- MEMES:END -->
+ - 😝 [Philly man got arrested by his twin brother](http://9gag.com/gag/a5QX0zN)
+ - 😝 [He&#39;s just enjoying the moment](http://9gag.com/gag/a0e4gQz)
+ - 💣 [This was fast...](http://9gag.com/gag/avyQw5b)
+ - 😝 [My friends tape](http://9gag.com/gag/aXPn6N2)
+ - 👉 [Muscle memory kicked in](http://9gag.com/gag/aAy0Ayo)<!-- MEMES:END -->
 
 ---
 

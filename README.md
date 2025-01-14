@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Far-Right Extremists Are LARPing as Emergency Workers in Los Angeles](https://www.wired.com/story/far-right-extremists-are-larping-as-emergency-workers-in-los-angeles/)
+ - [Wyze cameras will use AI to describe what they see](https://www.theverge.com/2025/1/14/24343388/wyze-security-cameras-ai-descriptive-alerts-cam-unlimited-pro)
  - [OpenAI has appointed BlackRock exec Adebayo Ogunlesi to its board; last year, BlackRock acquired Ogunlesi&#39;s company Global Infrastructure Partners for ~$12B &lpar;Rachel Metz/Bloomberg&rpar;](http://www.techmeme.com/250114/p21#a250114p21)
- - [Jump on January savings: 14-inch MacBook Pro &lpar;M4, 24GB RAM, 1TB&rpar; falls to $1,799](https://appleinsider.com/articles/25/01/14/jump-on-january-savings-14-inch-macbook-pro-m4-24gb-ram-1tb-falls-to-1799?utm_medium=rss)
- - [Draft of an EO called &quot;Strengthening and Promoting Innovation in the Nation&#39;s Cybersecurity&quot; that Biden may issue this week lists 52 actions agencies must take &lpar;Cynthia Brumfield/CSO&rpar;](http://www.techmeme.com/250114/p20#a250114p20)
- - [Luigi was everywhere at AGDQ 2025](https://www.theverge.com/2025/1/14/24343504/luigi-agdq-2025-luigi-mangione-unitedhealthcare)
- - [Adobe is now testing collaborative live editing in Photoshop](https://appleinsider.com/articles/25/01/14/adobe-is-now-testing-collaborative-live-editing-in-photoshop?utm_medium=rss)<!-- TECH:END -->
+ - [Best Internet Providers in Brazil, Indiana](https://www.cnet.com/home/internet/best-internet-providers-in-brazil-in/#ftag=CAD590a51e)
+ - [Jump on January savings: 14-inch MacBook Pro &lpar;M4, 24GB RAM, 1TB&rpar; falls to $1,799](https://appleinsider.com/articles/25/01/14/jump-on-january-savings-14-inch-macbook-pro-m4-24gb-ram-1tb-falls-to-1799?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

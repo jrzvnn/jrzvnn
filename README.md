@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Hilarious](http://9gag.com/gag/aGyEmb0)
- - 😝 [She&#39;s a keeper](http://9gag.com/gag/ajPVpRp)
- - 💣 [She seems fun to hangout with.](http://9gag.com/gag/axyo5RL)
- - 😝 [When leftist meet reality.](http://9gag.com/gag/a4PoDRZ)
- - 👉 [Yeah they totally deserve it](http://9gag.com/gag/abAv9A9)<!-- MEMES:END -->
+ - 😝 [Damn](http://9gag.com/gag/a2vKXVE)
+ - 😝 [Hey definitely understood the assignment.](http://9gag.com/gag/aXPn5o6)
+ - 💣 [Worst neighbour.](http://9gag.com/gag/aVvbAjP)
+ - 😝 [Op sucks not only d! &lpar;Ks but also at life!!!](http://9gag.com/gag/aVvbNYn)
+ - 👉 [A French woman sent 800k\u20ac to a scammer impersonating Brad Pitt](http://9gag.com/gag/aZZDO46)<!-- MEMES:END -->
 
 ---
 

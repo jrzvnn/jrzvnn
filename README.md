@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Hilarious](http://9gag.com/gag/aGyEmb0)
- - 😝 [GTA games detail differences](http://9gag.com/gag/a34Zmy5)
+ - 😝 [Goals lol](http://9gag.com/gag/aMVE5gG)
+ - 😝 [Damn](http://9gag.com/gag/a2vKXVE)
  - 💣 [Aged like Guatemala rum](http://9gag.com/gag/aKGERd1)
- - 😝 [Bruce got pied](http://9gag.com/gag/aNDw6AA)
- - 👉 [Trying too hard](http://9gag.com/gag/a34ZXZv)<!-- MEMES:END -->
+ - 😝 [GTA games detail differences](http://9gag.com/gag/a34Zmy5)
+ - 👉 [This is how an ex-wife comes to pick up her kids from the father\u2019s house.](http://9gag.com/gag/a9yqGZK)<!-- MEMES:END -->
 
 ---
 

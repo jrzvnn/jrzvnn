@@ -159,9 +159,9 @@ R                        1 repo              ░░░░░░░░░░░�
 <!-- TECH:START -->
  - [How Cleo AI and Bright, AI chatbots offering personalized financial advice, often function as a way to sell high-interest loans and cash advances to young users &lpar;Reece Rogers/Wired&rpar;](http://www.techmeme.com/250114/p5#a250114p5)
  - [The ‘Largest Illicit Online Marketplace’ Ever Is Growing at an Alarming Rate, Report Says](https://www.wired.com/story/the-largest-illicit-online-marketplace-ever-is-growing-at-an-alarming-rate/)
+ - [Best Internet Providers in Biloxi, Mississippi](https://www.cnet.com/home/internet/best-internet-providers-in-biloxi-ms/#ftag=CAD590a51e)
  - [VistaPrint Coupon: Exclusive $20 Off $100+](https://www.wired.com/story/vistaprint-coupon-code/)
- - [AirDoctor Coupon Code: 25% Off Air Purifiers](https://www.wired.com/story/airdoctor-coupon-code/)
- - [KitchenAid Promo Codes and Coupons: 30% Off](https://www.wired.com/story/exclusive-kitchenaid-promo-code/)<!-- TECH:END -->
+ - [AirDoctor Coupon Code: 25% Off Air Purifiers](https://www.wired.com/story/airdoctor-coupon-code/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

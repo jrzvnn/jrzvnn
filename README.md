@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Sources: China tightens scrutiny of Apple and other US tech firms&#39; exports under its dual-use export controls, slowing production expansion in SE Asia and India &lpar;Lauly Li/Nikkei Asia&rpar;](http://www.techmeme.com/250113/p46#a250113p46)
  - [Sources: Apple is finalizing verification of its first cutting-edge chips from TSMC&#39;s Arizona plant, with the initial batch expected as early as this quarter &lpar;Cheng Ting-Fang/Nikkei Asia&rpar;](http://www.techmeme.com/250113/p45#a250113p45)
  - [How to stop the macOS firewall leaking system network data after a software update](https://appleinsider.com/inside/macos-sequoia/tips/how-to-stop-the-macos-firewall-leaking-system-network-data-after-a-software-update?utm_medium=rss)
  - [Best Multivitamins for 2025](https://www.cnet.com/health/nutrition/best-multivitamins/#ftag=CAD590a51e)
- - [Bellevue, WA-based Truveta, which aggregates medical data from 30 partner institutions, raised $320M from Regeneron, Illumina, and others at a $1B+ valuation &lpar;Taylor Soper/GeekWire&rpar;](http://www.techmeme.com/250113/p44#a250113p44)
- - [A look at European tech firms Idemia, SITA, Travizory, and WCC, that offer AI tools to help governments surveil cross-border travelers and predict threats &lpar;Caitlin Chandler/Wired&rpar;](http://www.techmeme.com/250113/p43#a250113p43)<!-- TECH:END -->
+ - [Bellevue, WA-based Truveta, which aggregates medical data from 30 partner institutions, raised $320M from Regeneron, Illumina, and others at a $1B+ valuation &lpar;Taylor Soper/GeekWire&rpar;](http://www.techmeme.com/250113/p44#a250113p44)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

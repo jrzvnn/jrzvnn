@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [What a huge\u2026huge\u2026accomplishment](http://9gag.com/gag/adBPEgZ)
- - 😝 [Bruce got pied](http://9gag.com/gag/aNDw6AA)
- - 💣 [`Let me finish you small strange man` \ud83d\ude05](http://9gag.com/gag/a2vKedp)
+ - 😝 [Today I lost my certification](http://9gag.com/gag/a0e4mMB)
  - 😝 [Nice](http://9gag.com/gag/an7zAXb)
- - 👉 [Reminder of this gem. She had window installed and said she didn\u2019t like it and wanted her money back. He paid her back and took care of window.](http://9gag.com/gag/a0e4mOB)<!-- MEMES:END -->
+ - 💣 [When she finally invites you over...](http://9gag.com/gag/a4Poe5m)
+ - 😝 [And the Darwin Award goes to:](http://9gag.com/gag/aPAgOXB)
+ - 👉 [GTA games detail differences](http://9gag.com/gag/a34Zmy5)<!-- MEMES:END -->
 
 ---
 

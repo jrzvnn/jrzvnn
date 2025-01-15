@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [New Asus Thunderbolt 5 dock provides external SSD storage &amp; 2.5 gig networking](https://appleinsider.com/articles/25/01/15/new-asus-thunderbolt-5-dock-provides-external-ssd-storage-25-gig-networking?utm_medium=rss)
+ - [The FTC sues John Deere, alleging it illegally drove up repair costs by making its software repair tool available only to its authorized dealers &lpar;Reuters&rpar;](http://www.techmeme.com/250115/p32#a250115p32)
  - [The Google Home app will soon support the Nest Protect](https://www.theverge.com/2025/1/15/24344315/google-home-app-nest-protect-support)
  - [Why ‘Beating China’ In AI Brings Its Own Risks](https://www.wired.com/story/why-beating-china-in-ai-brings-its-own-risks/)
- - [Adam Scott on using Severance’s weird, retrofuturistic computers](https://www.theverge.com/2025/1/15/24340723/severance-season-2-computers-adam-scott-interview)
- - [Nikita Bier, creator of apps like tbh and anonymous compliments app Gas, launches Explode, a freemium app to send disappearing texts and photos via iMessage &lpar;Ivan Mehta/TechCrunch&rpar;](http://www.techmeme.com/250115/p31#a250115p31)
- - [Tim Cook talks wine, chocolate, and how Apple Watch saved his father](https://appleinsider.com/articles/25/01/15/tim-cook-talks-wine-chocolate-and-how-apple-watch-saved-his-father?utm_medium=rss)<!-- TECH:END -->
+ - [Adam Scott on using Severance’s weird, retrofuturistic computers](https://www.theverge.com/2025/1/15/24340723/severance-season-2-computers-adam-scott-interview)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

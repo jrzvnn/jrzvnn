@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Those Tanlines](http://9gag.com/gag/aXPnDL2)
- - 😝 [Bruce got pied](http://9gag.com/gag/aNDw6AA)
- - 💣 [Worst neighbour.](http://9gag.com/gag/aVvbAjP)
- - 😝 [Op sucks not only d! &lpar;Ks but also at life!!!](http://9gag.com/gag/aVvbNYn)
- - 👉 [The water truck has put out the fire while the firefighters arrived](http://9gag.com/gag/apR9OLD)<!-- MEMES:END -->
+ - 😝 [Ok now give us Predator vs Terminator](http://9gag.com/gag/aO8xwM2)
+ - 😝 [Installing a motherboard on your gpu](http://9gag.com/gag/adBPD7Q)
+ - 💣 [Hilarious](http://9gag.com/gag/aGyEmb0)
+ - 😝 [Like mother, like daughter, huh?](http://9gag.com/gag/apR94NB)
+ - 👉 [Aged like Guatemala rum](http://9gag.com/gag/aKGERd1)<!-- MEMES:END -->
 
 ---
 

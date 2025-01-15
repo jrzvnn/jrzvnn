@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Mom, how will I know if she is the right one?](http://9gag.com/gag/ayN2GBp)
  - 😝 [I should buy a sign..](http://9gag.com/gag/axyoXmM)
+ - 😝 [Focus!](http://9gag.com/gag/a34Zow7)
  - 💣 [Shocking](http://9gag.com/gag/aqye3PP)
  - 😝 [Appreciation!](http://9gag.com/gag/aW4GV73)
- - 👉 [Dudes, i might have found most believable hidden door design.](http://9gag.com/gag/awyZqGB)<!-- MEMES:END -->
+ - 👉 [Almost double of her weight, and that is not a lady boy](http://9gag.com/gag/awyZqAx)<!-- MEMES:END -->
 
 ---
 

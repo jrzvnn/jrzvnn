@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Bruce got pied](http://9gag.com/gag/aNDw6AA)
- - 😝 [Aged like Guatemala rum](http://9gag.com/gag/aKGERd1)
- - 💣 [Like mother, like daughter, huh?](http://9gag.com/gag/apR94NB)
- - 😝 [Yes, better close it](http://9gag.com/gag/aKGEr9N)
- - 👉 [Ok now give us Predator vs Terminator](http://9gag.com/gag/aO8xwM2)<!-- MEMES:END -->
+ - 😝 [These men are not special forces; they are members of the CJNG, one of Mexico&#39;s most powerful and dangerous cartels](http://9gag.com/gag/ajPVenx)
+ - 😝 [A French woman sent 800k\u20ac to a scammer impersonating Brad Pitt](http://9gag.com/gag/aZZDO46)
+ - 💣 [`Let me finish you small strange man` \ud83d\ude05](http://9gag.com/gag/a2vKedp)
+ - 😝 [How Hot Wheels cars have been losing details over the years.](http://9gag.com/gag/avyQKAd)
+ - 👉 [Like mother, like daughter, huh?](http://9gag.com/gag/apR94NB)<!-- MEMES:END -->
 
 ---
 

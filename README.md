@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Obsbot’s Tiny SE is a $99 pan and tilt webcam that tracks your movements](https://www.theverge.com/2025/1/15/24344635/obsbot-tiny-se-webcam-pan-tilt-zoom-1080p)
  - [Not Many Meta Employees Will Have to Move to Texas After All](https://www.wired.com/story/not-many-meta-employees-move-to-texas-content-moderation/)
  - [Donald Trump is considering issuing an executive order once in office that would suspend enforcement of the TikTok sale-or-ban law for 60 to 90 days &lpar;Washington Post&rpar;](http://www.techmeme.com/250115/p37#a250115p37)
- - [Apple CEO Tim Cook attending Trump inauguration after $1 million donation](https://appleinsider.com/articles/25/01/15/apple-ceo-tim-cook-attending-trump-inauguration-after-1-million-donation?utm_medium=rss)
- - [Aligned Data Centers, which specializes in AI-related infrastructure, raised over $12B, including $5B+ of new primary equity and $7B+ of new debt commitments &lpar;Rishi Kant/Reuters&rpar;](http://www.techmeme.com/250115/p36#a250115p36)
- - [Super Bowl LIX will stream for free on Tubi](https://www.theverge.com/2025/1/15/24344628/super-bowl-lix-tubi-stream-free-fox)<!-- TECH:END -->
+ - [Best Noise-Canceling Earbuds for 2025](https://www.cnet.com/tech/mobile/best-noise-canceling-wireless-earbuds/#ftag=CAD590a51e)
+ - [New Black Ops 6 Zombies Map, The Tomb, Launches in Season 2](https://www.cnet.com/tech/gaming/new-black-ops-6-zombies-map-the-tomb-launches-in-season-2/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

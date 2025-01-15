@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Physicist Galen Winsor eats uranium on live television in 1985 to show that it\u2019s \u201charmless\u201d.](http://9gag.com/gag/aByd7ZA)
- - 😝 [Op sucks not only d! &lpar;Ks but also at life!!!](http://9gag.com/gag/aVvbNYn)
- - 💣 [Daydreams of shopping with the wife](http://9gag.com/gag/aE0qLno)
+ - 😝 [`Let me finish you small strange man` \ud83d\ude05](http://9gag.com/gag/a2vKedp)
+ - 😝 [Take a guess](http://9gag.com/gag/aLn1Yog)
+ - 💣 [What a clearance](http://9gag.com/gag/a5QX80g)
  - 😝 [Control of a professional foosball player](http://9gag.com/gag/avyQ3EO)
- - 👉 [`Let me finish you small strange man` \ud83d\ude05](http://9gag.com/gag/a2vKedp)<!-- MEMES:END -->
+ - 👉 [Nice](http://9gag.com/gag/an7zAXb)<!-- MEMES:END -->
 
 ---
 

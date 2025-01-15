@@ -158,10 +158,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- TECH:START -->
  - [Obsbot’s Tiny SE is a $99 pan and tilt webcam that tracks your movements](https://www.theverge.com/2025/1/15/24344635/obsbot-tiny-se-webcam-pan-tilt-zoom-1080p)
+ - [FDA Bans Use of Red Dye No. 3 in US Food and Drink](https://www.cnet.com/science/fda-bans-use-of-red-dye-no-3-in-us-food-and-drink/#ftag=CAD590a51e)
  - [Not Many Meta Employees Will Have to Move to Texas After All](https://www.wired.com/story/not-many-meta-employees-move-to-texas-content-moderation/)
- - [Donald Trump is considering issuing an executive order once in office that would suspend enforcement of the TikTok sale-or-ban law for 60 to 90 days &lpar;Washington Post&rpar;](http://www.techmeme.com/250115/p37#a250115p37)
- - [Best Noise-Canceling Earbuds for 2025](https://www.cnet.com/tech/mobile/best-noise-canceling-wireless-earbuds/#ftag=CAD590a51e)
- - [New Black Ops 6 Zombies Map, The Tomb, Launches in Season 2](https://www.cnet.com/tech/gaming/new-black-ops-6-zombies-map-the-tomb-launches-in-season-2/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Best iPhone 16 and iPhone 16 Pro Cases for 2025](https://www.cnet.com/tech/mobile/best-iphone-16-and-iphone-16-pro-cases/#ftag=CAD590a51e)
+ - [Donald Trump is considering issuing an executive order once in office that would suspend enforcement of the TikTok sale-or-ban law for 60 to 90 days &lpar;Washington Post&rpar;](http://www.techmeme.com/250115/p37#a250115p37)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

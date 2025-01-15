@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The VisionTrack Composite Index, which tracks the performance of 130 crypto-focused hedge funds, rose 40% in 2024, compared to Bitcoin&#39;s 120% surge that year &lpar;Bloomberg&rpar;](http://www.techmeme.com/250115/p18#a250115p18)
+ - [5 Common Diet Mistakes Experts Are Tired of People Making](https://www.cnet.com/health/nutrition/common-diet-mistakes-experts-tired-people-making/#ftag=CAD590a51e)
  - [The Netherlands tightens export control rules, requiring ASML and ASM International to seek licenses from the Dutch government for some chipmaking tools &lpar;Cagan Koc/Bloomberg&rpar;](http://www.techmeme.com/250115/p17#a250115p17)
  - [Brazilian nonprofit Legal Games Institute estimates betting apps draw over $23B in wagers annually, nearly 10 times the Mafia-run animal lottery in the country &lpar;New York Times&rpar;](http://www.techmeme.com/250115/p16#a250115p16)
- - [The Madcap Rise of Memecoin Factory Pump.Fun](https://www.wired.com/story/madcap-rise-of-memecoin-factory-pumpfun/)
- - [5 Budgeting Apps to Help You Save Money](https://www.wired.com/story/finance-budget-investment-apps/)
- - [An excerpt from a book on Animal Crossing: New Horizons details how Nintendo localized the game for Western players; the game has 46M+ in all-time Switch sales &lpar;Kelsey Lewin/Polygon&rpar;](http://www.techmeme.com/250115/p15#a250115p15)<!-- TECH:END -->
+ - [The Madcap Rise of Memecoin Factory Pump.Fun](https://www.wired.com/story/madcap-rise-of-memecoin-factory-pumpfun/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

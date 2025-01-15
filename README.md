@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Aged like Guatemala rum](http://9gag.com/gag/aKGERd1)
- - 😝 [My friends tape](http://9gag.com/gag/aXPn6N2)
- - 💣 [`Please compensate our employees for hard work so we can NOT pay them more`](http://9gag.com/gag/azx2NEj)
- - 😝 [Yes, better close it](http://9gag.com/gag/aKGEr9N)
- - 👉 [Mom, buy me a railroad! Dad made you a railroad.](http://9gag.com/gag/aZZDe0W)<!-- MEMES:END -->
+ - 😝 [Bruce got pied](http://9gag.com/gag/aNDw6AA)
+ - 😝 [They say empty can make the most noise.](http://9gag.com/gag/a7oqQ5m)
+ - 💣 [Like mother, like daughter, huh?](http://9gag.com/gag/apR94NB)
+ - 😝 [Ok now give us Predator vs Terminator](http://9gag.com/gag/aO8xwM2)
+ - 👉 [Smooth as a sand paper](http://9gag.com/gag/aMVEo2x)<!-- MEMES:END -->
 
 ---
 

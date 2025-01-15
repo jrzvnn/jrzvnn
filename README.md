@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [She seems fun to hangout with.](http://9gag.com/gag/axyo5RL)
- - 😝 [Yeah they totally deserve it](http://9gag.com/gag/abAv9A9)
- - 💣 [Hey definitely understood the assignment.](http://9gag.com/gag/aXPn5o6)
- - 😝 [I should buy a sign..](http://9gag.com/gag/axyoXmM)
- - 👉 [Hilarious](http://9gag.com/gag/aGyEmb0)<!-- MEMES:END -->
+ - 😝 [I\u2019m afraid we\u2019re gonna need more proof](http://9gag.com/gag/a7oqQLe)
+ - 😝 [Aged like Guatemala rum](http://9gag.com/gag/aKGERd1)
+ - 💣 [Depends who has the sword](http://9gag.com/gag/amoA4ZX)
+ - 😝 [Like mother, like daughter, huh?](http://9gag.com/gag/apR94NB)
+ - 👉 [How Hot Wheels cars have been losing details over the years.](http://9gag.com/gag/avyQKAd)<!-- MEMES:END -->
 
 ---
 

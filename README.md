@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Worst neighbour.](http://9gag.com/gag/aVvbAjP)
- - 😝 [Yes, better close it](http://9gag.com/gag/aKGEr9N)
- - 💣 [GTA games detail differences](http://9gag.com/gag/a34Zmy5)
- - 😝 [My friends tape](http://9gag.com/gag/aXPn6N2)
- - 👉 [Good old days](http://9gag.com/gag/aZZDOjX)<!-- MEMES:END -->
+ - 😝 [Those Tanlines](http://9gag.com/gag/aXPnDL2)
+ - 😝 [Bruce got pied](http://9gag.com/gag/aNDw6AA)
+ - 💣 [Worst neighbour.](http://9gag.com/gag/aVvbAjP)
+ - 😝 [Op sucks not only d! &lpar;Ks but also at life!!!](http://9gag.com/gag/aVvbNYn)
+ - 👉 [The water truck has put out the fire while the firefighters arrived](http://9gag.com/gag/apR9OLD)<!-- MEMES:END -->
 
 ---
 

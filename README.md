@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Today I lost my certification](http://9gag.com/gag/a0e4mMB)
- - 😝 [Nice](http://9gag.com/gag/an7zAXb)
- - 💣 [When she finally invites you over...](http://9gag.com/gag/a4Poe5m)
- - 😝 [And the Darwin Award goes to:](http://9gag.com/gag/aPAgOXB)
- - 👉 [GTA games detail differences](http://9gag.com/gag/a34Zmy5)<!-- MEMES:END -->
+ - 😝 [Shocking](http://9gag.com/gag/aqye3PP)
+ - 😝 [That looks very cool](http://9gag.com/gag/aO8x6QD)
+ - 💣 [Almost double of her weight, and that is not a lady boy](http://9gag.com/gag/awyZqAx)
+ - 😝 [Focus!](http://9gag.com/gag/a34Zow7)
+ - 👉 [Appreciation!](http://9gag.com/gag/aW4GV73)<!-- MEMES:END -->
 
 ---
 

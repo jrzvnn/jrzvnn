@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The FTC Suing John Deere Is a Tipping Point for Right-to-Repair](https://www.wired.com/story/ftc-sues-john-deere-over-repairability/)
- - [USDOT sues Southwest Airlines over ‘chronically delayed’ flights](https://www.theverge.com/2025/1/15/24344741/usdot-southwest-airlines-lawsuit-chronically-delayed-flights-frontier)
- - [Obsbot’s Tiny SE is a $99 pan and tilt webcam that tracks your movements](https://www.theverge.com/2025/1/15/24344635/obsbot-tiny-se-webcam-pan-tilt-zoom-1080p)
- - [FDA Bans Use of Red Dye No. 3 in US Food and Drink](https://www.cnet.com/science/fda-bans-use-of-red-dye-no-3-in-us-food-and-drink/#ftag=CAD590a51e)
- - [Not Many Meta Employees Will Have to Move to Texas After All](https://www.wired.com/story/not-many-meta-employees-move-to-texas-content-moderation/)<!-- TECH:END -->
+ - [Razer Is Sending Out Checks for Its Falsely Labeled N95 Zephyr Masks](https://www.cnet.com/tech/razer-is-sending-out-checks-for-its-falsely-labeled-n95-zephyr-masks/#ftag=CAD590a51e)
+ - [Here&#39;s How to See Six or Seven Planets in a Dazzling Planet Parade](https://www.cnet.com/science/how-to-see-january-21-planet-parade-of-six-seven-planets-mark-your-calendars-skygazing/#ftag=CAD590a51e)
+ - [The Supreme Court could decide the fate of Pornhub — and the rest of the internet](https://www.theverge.com/2025/1/15/24344584/supreme-court-fsc-paxton-oral-arguments-pornhub-age-verification)
+ - [Best Internet Providers in Bradenton, Florida](https://www.cnet.com/home/internet/best-internet-providers-in-bradenton-fl/#ftag=CAD590a51e)
+ - [Buckle-Free Dual BOA Ski Boots Are Here and They Have an Ingenious Design](https://www.cnet.com/health/fitness/buckle-free-dual-boa-ski-boots-are-here-and-they-have-an-ingenious-design/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

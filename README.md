@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Apple Card&#39;s future in question as Goldman Sachs CEO eyes early exit](https://appleinsider.com/articles/25/01/15/apple-cards-future-in-question-as-goldman-sachs-ceo-eyes-early-exit?utm_medium=rss)
+ - [DappRadar: NFT trading volumes in 2024 fell 19% YoY to $13.7B and sales counts fell 18% YoY to just under 50M, making 2024 the worst performing year since 2020 &lpar;Jesse Coghlan/Cointelegraph&rpar;](http://www.techmeme.com/250115/p35#a250115p35)
+ - [Blue Origin is gearing up for a high-stakes launch with its New Glenn rocket](https://www.theverge.com/24344458/blue-origin-new-glenn-rocket-launch-date-time-bezos)
  - [The best smart home tech at CES 2025](https://appleinsider.com/articles/25/01/15/the-best-smart-home-tech-at-ces-2025?utm_medium=rss)
- - [Sonos continues to clean house with departure of chief commercial officer](https://www.theverge.com/2025/1/15/24344430/sonos-cco-deirdre-findlay-leaving)
- - [Microsoft Is Ending Support for Windows 10 Office Apps in October](https://www.wired.com/story/microsoft-is-ending-support-for-office-apps-in-windows-10/)
- - [Apple hardware lost to LA fires needs to be replaced by homeowner&#39;s insurance, not AppleCare](https://appleinsider.com/articles/25/01/15/apple-hardware-lost-to-la-fires-need-to-be-replaced-by-homeowners-insurance-not-applecare?utm_medium=rss)
- - [DoubleVerify says there is a jump in AI click farms, including a network of 200+ websites called Synthetic Echo, designed to siphon ad revenue from real outlets &lpar;Kate Knibbs/Wired&rpar;](http://www.techmeme.com/250115/p34#a250115p34)<!-- TECH:END -->
+ - [Sonos continues to clean house with departure of chief commercial officer](https://www.theverge.com/2025/1/15/24344430/sonos-cco-deirdre-findlay-leaving)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

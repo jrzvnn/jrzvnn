@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [I should buy a sign..](http://9gag.com/gag/axyoXmM)
- - 😝 [Focus!](http://9gag.com/gag/a34Zow7)
- - 💣 [Shocking](http://9gag.com/gag/aqye3PP)
- - 😝 [Appreciation!](http://9gag.com/gag/aW4GV73)
- - 👉 [Almost double of her weight, and that is not a lady boy](http://9gag.com/gag/awyZqAx)<!-- MEMES:END -->
+ - 😝 [Physicist Galen Winsor eats uranium on live television in 1985 to show that it\u2019s \u201charmless\u201d.](http://9gag.com/gag/aByd7ZA)
+ - 😝 [Op sucks not only d! &lpar;Ks but also at life!!!](http://9gag.com/gag/aVvbNYn)
+ - 💣 [Daydreams of shopping with the wife](http://9gag.com/gag/aE0qLno)
+ - 😝 [Control of a professional foosball player](http://9gag.com/gag/avyQ3EO)
+ - 👉 [`Let me finish you small strange man` \ud83d\ude05](http://9gag.com/gag/a2vKedp)<!-- MEMES:END -->
 
 ---
 

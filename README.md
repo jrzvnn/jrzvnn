@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Google says it has partnered with the AP to deliver a feed of real-time information to enhance the usefulness of results displayed in the Gemini app &lpar;Jaffer Zaidi/The Keyword&rpar;](http://www.techmeme.com/250115/p33#a250115p33)
  - [New Asus Thunderbolt 5 dock provides external SSD storage &amp; 2.5 gig networking](https://appleinsider.com/articles/25/01/15/new-asus-thunderbolt-5-dock-provides-external-ssd-storage-25-gig-networking?utm_medium=rss)
  - [The FTC sues John Deere, alleging it illegally drove up repair costs by making its software repair tool available only to its authorized dealers &lpar;Reuters&rpar;](http://www.techmeme.com/250115/p32#a250115p32)
  - [The Google Home app will soon support the Nest Protect](https://www.theverge.com/2025/1/15/24344315/google-home-app-nest-protect-support)
- - [Why ‘Beating China’ In AI Brings Its Own Risks](https://www.wired.com/story/why-beating-china-in-ai-brings-its-own-risks/)
- - [Adam Scott on using Severance’s weird, retrofuturistic computers](https://www.theverge.com/2025/1/15/24340723/severance-season-2-computers-adam-scott-interview)<!-- TECH:END -->
+ - [Why ‘Beating China’ In AI Brings Its Own Risks](https://www.wired.com/story/why-beating-china-in-ai-brings-its-own-risks/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The FTC Suing John Deere Is a Possible Tipping Point for More Repairable Hardware](https://www.wired.com/story/ftc-sues-john-deere-over-repairability/)
+ - [The FTC Suing John Deere Is a Tipping Point for Right-to-Repair](https://www.wired.com/story/ftc-sues-john-deere-over-repairability/)
  - [USDOT sues Southwest Airlines over ‘chronically delayed’ flights](https://www.theverge.com/2025/1/15/24344741/usdot-southwest-airlines-lawsuit-chronically-delayed-flights-frontier)
  - [Obsbot’s Tiny SE is a $99 pan and tilt webcam that tracks your movements](https://www.theverge.com/2025/1/15/24344635/obsbot-tiny-se-webcam-pan-tilt-zoom-1080p)
- - [Not Many Meta Employees Will Have to Move to Texas After All](https://www.wired.com/story/not-many-meta-employees-move-to-texas-content-moderation/)
- - [Donald Trump is considering issuing an executive order once in office that would suspend enforcement of the TikTok sale-or-ban law for 60 to 90 days &lpar;Washington Post&rpar;](http://www.techmeme.com/250115/p37#a250115p37)<!-- TECH:END -->
+ - [FDA Bans Use of Red Dye No. 3 in US Food and Drink](https://www.cnet.com/science/fda-bans-use-of-red-dye-no-3-in-us-food-and-drink/#ftag=CAD590a51e)
+ - [Not Many Meta Employees Will Have to Move to Texas After All](https://www.wired.com/story/not-many-meta-employees-move-to-texas-content-moderation/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

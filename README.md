@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Can Elon Musk really save TikTok?](https://www.theverge.com/2025/1/14/24343507/elon-musk-tiktok-ban-china-trump)
  - [In federal court, lawyers for Microsoft and OpenAI defended the scraping of news stories to train LLMs and urged the dismissal of news outlets&#39; copyright claims &lpar;Josh Russell/Courthouse News Service&rpar;](http://www.techmeme.com/250114/p32#a250114p32)
  - [Save $250 to $300 on these M4 Pro MacBook Pros with exclusive deals](https://appleinsider.com/articles/25/01/14/save-250-to-300-on-these-m4-pro-macbook-pros-with-exclusive-deals?utm_medium=rss)
  - [Filing: the SEC sues Elon Musk, claiming he failed to timely disclose a major purchase of Twitter shares ahead of his takeover of the social media platform &lpar;Nicola M White/Bloomberg&rpar;](http://www.techmeme.com/250114/p31#a250114p31)
- - [Huione Guarantee, a Telegram marketplace that facilitates &quot;pig butchering&quot; and other scams, recently launched several crypto products, including a stablecoin &lpar;Elliptic&rpar;](http://www.techmeme.com/250114/p30#a250114p30)
- - [RedNote: what it’s like using the Chinese app TikTokers are flocking to](https://www.theverge.com/2025/1/14/24343834/rednote-xiaohongshu-chinese-app-tiktok-ban)<!-- TECH:END -->
+ - [Huione Guarantee, a Telegram marketplace that facilitates &quot;pig butchering&quot; and other scams, recently launched several crypto products, including a stablecoin &lpar;Elliptic&rpar;](http://www.techmeme.com/250114/p30#a250114p30)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

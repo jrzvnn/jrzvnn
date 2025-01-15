@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The Philippines&#39; decision to supercharge its online gambling sector has been disastrous, opening the door to crimes, including money laundering, in the country &lpar;Bloomberg&rpar;](http://www.techmeme.com/250115/p21#a250115p21)
- - [AI Agents Are Here. How Much Should We Let Them Do?](https://www.wired.com/story/the-prompt-ai-agents-how-much-should-we-let-them-do/)
- - [OpenAI will fund the expansion of Axios to Pittsburgh, Kansas City, Boulder, and Huntsville, as part of a broader content-sharing and technology deal &lpar;Sara Fischer/Axios&rpar;](http://www.techmeme.com/250115/p20#a250115p20)
- - [6 Foods You Should Be Buying in Bulk, According to an Expert](https://www.cnet.com/news/6-foods-you-should-be-buying-in-bulk-according-to-an-expert/#ftag=CAD590a51e)
- - [Play the Original Diablo, UFC 5 and More on Xbox Game Pass Now](https://www.cnet.com/tech/gaming/play-the-original-diablo-ufc-5-and-more-on-xbox-game-pass-now/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Honor’s Magic 7 Pro looks flagship through and through](https://www.theverge.com/2025/1/15/24344248/honor-magic-7-pro-launch-europe-snapdragon-8-elite-ip69)
+ - [Authorities in Singapore, which has a dire shortage of nurses, see the potential in AI tools to assist in preventive illness care, especially for the elderly &lpar;Reeta Raman/Rest of World&rpar;](http://www.techmeme.com/250115/p22#a250115p22)
+ - [The Crazy Nokia Designs That Never Saw the Light of Day](https://www.wired.com/gallery/nokia-design-archive-photo-gallery-of-wacky-phone-designs/)
+ - [Two private landers head to the moon to aid future NASA astronauts](https://www.theverge.com/2025/1/15/24344240/spacex-blue-ghost-resilience-moon-landers-nasa-artemis-mission)
+ - [The Philippines&#39; decision to supercharge its online gambling sector has been disastrous, opening the door to crimes, including money laundering, in the country &lpar;Bloomberg&rpar;](http://www.techmeme.com/250115/p21#a250115p21)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

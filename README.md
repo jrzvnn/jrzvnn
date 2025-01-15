@@ -167,9 +167,9 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [Worst neighbour.](http://9gag.com/gag/aVvbAjP)
- - 😝 [The water truck has put out the fire while the firefighters arrived](http://9gag.com/gag/apR9OLD)
- - 💣 [Like mother, like daughter, huh?](http://9gag.com/gag/apR94NB)
- - 😝 [Go sports!!!](http://9gag.com/gag/an7z650)
+ - 😝 [Yes, better close it](http://9gag.com/gag/aKGEr9N)
+ - 💣 [GTA games detail differences](http://9gag.com/gag/a34Zmy5)
+ - 😝 [My friends tape](http://9gag.com/gag/aXPn6N2)
  - 👉 [Good old days](http://9gag.com/gag/aZZDOjX)<!-- MEMES:END -->
 
 ---

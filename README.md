@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [She seems fun to hangout with.](http://9gag.com/gag/axyo5RL)
- - 😝 [Hey definitely understood the assignment.](http://9gag.com/gag/aXPn5o6)
- - 💣 [Yeah they totally deserve it](http://9gag.com/gag/abAv9A9)
- - 😝 [Looks like zapdos](http://9gag.com/gag/axyoXYM)
- - 👉 [Hilarious](http://9gag.com/gag/aGyEmb0)<!-- MEMES:END -->
+ - 😝 [Op sucks not only d! &lpar;Ks but also at life!!!](http://9gag.com/gag/aVvbNYn)
+ - 😝 [Daydreams of shopping with the wife](http://9gag.com/gag/aE0qLno)
+ - 💣 [How did you end up with a buzz worm in your car?](http://9gag.com/gag/aAy0zKR)
+ - 😝 [Now, that\u2019s a grudge!](http://9gag.com/gag/a9yqgAZ)
+ - 👉 [Throwing hands in traffic..](http://9gag.com/gag/a1mP3LP)<!-- MEMES:END -->
 
 ---
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [`Let me finish you small strange man` \ud83d\ude05](http://9gag.com/gag/a2vKedp)
+ - 😝 [Today I lost my certification](http://9gag.com/gag/a0e4mMB)
+ - 😝 [And the Darwin Award goes to:](http://9gag.com/gag/aPAgOXB)
+ - 💣 [When she finally invites you over...](http://9gag.com/gag/a4Poe5m)
  - 😝 [In Istanbul,a dog brought her puppy,whose heart had stopped due to the cold,to the veterinarian](http://9gag.com/gag/aqyev3j)
- - 💣 [I will never forget when people thought they were gonna raid Area 51 lol](http://9gag.com/gag/ayN2gRp)
- - 😝 [GTA games detail differences](http://9gag.com/gag/a34Zmy5)
- - 👉 [Self Awareness](http://9gag.com/gag/arymjeK)<!-- MEMES:END -->
+ - 👉 [I will never forget when people thought they were gonna raid Area 51 lol](http://9gag.com/gag/ayN2gRp)<!-- MEMES:END -->
 
 ---
 

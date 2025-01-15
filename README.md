@@ -157,7 +157,7 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple hardware lost to LA fires need to be replaced by homeowner&#39;s insurance, not AppleCare](https://appleinsider.com/articles/25/01/15/apple-hardware-lost-to-la-fires-need-to-be-replaced-by-homeowners-insurance-not-applecare?utm_medium=rss)
+ - [Apple hardware lost to LA fires needs to be replaced by homeowner&#39;s insurance, not AppleCare](https://appleinsider.com/articles/25/01/15/apple-hardware-lost-to-la-fires-need-to-be-replaced-by-homeowners-insurance-not-applecare?utm_medium=rss)
  - [DoubleVerify says there is a jump in AI click farms, including a network of 200+ websites called Synthetic Echo, designed to siphon ad revenue from real outlets &lpar;Kate Knibbs/Wired&rpar;](http://www.techmeme.com/250115/p34#a250115p34)
  - [Trump’s transportation pick says he’ll let Tesla investigations proceed](https://www.theverge.com/2025/1/15/24344462/sean-duffy-usdot-nhtsa-tesla-investigation-confirmation)
  - [uBreakiFix will be able to repair your Xbox Series X and S](https://www.theverge.com/2025/1/15/24344420/ubreakifix-repair-xbox-series-x-s)

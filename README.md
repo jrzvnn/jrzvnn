@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The US unveils new rules to curb flow of advanced chips produced by TSMC and others to China and sanctions 16 Chinese companies building China&#39;s chip industry &lpar;Mackenzie Hawkins/Bloomberg&rpar;](http://www.techmeme.com/250115/p29#a250115p29)
+ - [Social media platforms are not built for this](https://www.theverge.com/2025/1/15/24340185/los-angeles-california-wildfires-tiktok-instagram-twitter-content)
  - [FTC sues John Deere for ‘unfairly’ raising repair costs on farm equipment](https://www.theverge.com/2025/1/15/24344325/john-deere-repair-right-ftc-lawsuit-tractor)
  - [A 28-year-old woman describes her &quot;relationship&quot; with ChatGPT, or Leo as the chatbot named itself, which became her therapist, erotic partner, and advisor &lpar;Kashmir Hill/New York Times&rpar;](http://www.techmeme.com/250115/p28#a250115p28)
- - [Daredevil: Born Again sends Matt Murdock back to Hell’s Kitchen in new trailer](https://www.theverge.com/2025/1/15/24344268/daredevil-born-again-trailer-date-disney-plus)
- - [Microsoft says it will no longer support Office apps, known as Microsoft 365 apps, on Windows 10 after October 14, 2025 &lpar;Tom Warren/The Verge&rpar;](http://www.techmeme.com/250115/p27#a250115p27)
- - [Rocket Money Review 2025: CNET&#39;s Pick for Best Budgeting App](https://www.cnet.com/personal-finance/banking/rocket-money/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Daredevil: Born Again sends Matt Murdock back to Hell’s Kitchen in new trailer](https://www.theverge.com/2025/1/15/24344268/daredevil-born-again-trailer-date-disney-plus)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

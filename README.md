@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Court filing: Meta says it may have to &quot;roll back or pause&quot; some features in India after a CCI directive banned WhatsApp data sharing with Meta for ad purposes &lpar;Reuters&rpar;](http://www.techmeme.com/250115/p13#a250115p13)
+ - [Drake withdraws petition accusing UMG and Spotify of inflating Kendrick Lamar&#39;s &quot;Not Like Us&quot; with bots and payola; the diss track accused Drake of pedophilia &lpar;Steven J. Horowitz/Variety&rpar;](http://www.techmeme.com/250115/p12#a250115p12)
+ - [Microsoft’s former Surface design chief joins Amazon](https://www.theverge.com/2025/1/15/24344205/microsoft-ralf-groene-amazon-devices-services-design-chief)
  - [Berlin-based Nelly, whose SaaS lets medical practices digitally onboard new patients, accept payments, and more, raised a &amp;euro;50M Series B led by Cathay Innovation &lpar;Romain Dillet/TechCrunch&rpar;](http://www.techmeme.com/250115/p11#a250115p11)
- - [Walmart Promo Codes and Coupons: $10 Off](https://www.wired.com/story/top-walmart-promo-codes/)
- - [Chewy Promo Codes: $20 Off](https://www.wired.com/story/chewy-promo-code/)
- - [Synthesia, a London-based B2B startup building products around highly realistic AI avatar technology, raised a $180M Series D led by NEA at a $2.1B valuation &lpar;Ingrid Lunden/TechCrunch&rpar;](http://www.techmeme.com/250115/p10#a250115p10)
- - [An in-depth look at the state of video gaming in 2025, including why gaming soared from 2011-2021 then stalled, China&#39;s global rise, and mobile gaming growth &lpar;Matthew Ball/MatthewBall.co&rpar;](http://www.techmeme.com/250115/p9#a250115p9)<!-- TECH:END -->
+ - [Walmart Promo Codes and Coupons: $10 Off](https://www.wired.com/story/top-walmart-promo-codes/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

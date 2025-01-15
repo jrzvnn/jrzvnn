@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [macOS flaw that allowed attackers to bypass core system protections is now fixed](https://appleinsider.com/articles/25/01/15/macos-flaw-that-allowed-attackers-to-bypass-core-system-protections-is-now-fixed?utm_medium=rss)
+ - [The Australian Open’s animated livestreams make players look like Wii Sports characters](https://www.theverge.com/2025/1/15/24344285/australian-open-livestreaming-wii-sports-style-tennis-matches)
  - [How gamers are turning gaming PCs into fashion statements: iBuypower customers spend an average of ~$2.4K on custom-built gaming PCs and $1.6K on prebuilt ones &lpar;Cecilia D&#39;Anastasio/Bloomberg&rpar;](http://www.techmeme.com/250115/p26#a250115p26)
- - [The Best Time Management Apps: iOS, Android, and Desktop](https://www.wired.com/story/best-time-management-apps/)
- - [Honda says the Acura RSX will be the first original EV with the Asimo operating system](https://www.theverge.com/2025/1/15/24344311/honda-acura-rsx-announce-ev-asimo)
- - [TikTok reportedly plans ‘immediate’ Sunday shutdown in the US if it’s banned](https://www.theverge.com/2025/1/15/24344299/tiktok-shutdown-us-ban-supreme-court)
- - [LinkedIn launches free AI tools built on top of its own AI tech and data: a Jobs Match tool for job seekers and a recruitment AI agent for small businesses &lpar;Ingrid Lunden/TechCrunch&rpar;](http://www.techmeme.com/250115/p25#a250115p25)<!-- TECH:END -->
+ - [Hinge&#39;s New AI Tool Wants to Help You Avoid Making a Bad Dating Profile](https://www.cnet.com/tech/services-and-software/hinges-new-ai-tool-wants-to-help-you-avoid-making-a-bad-dating-profile/#ftag=CAD590a51e)
+ - [The Best Time Management Apps: iOS, Android, and Desktop](https://www.wired.com/story/best-time-management-apps/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

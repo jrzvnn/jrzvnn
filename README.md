@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [DoubleVerify says there is a jump in AI click farms, including a network of 200+ websites called Synthetic Echo, designed to siphon ad revenue from real outlets &lpar;Kate Knibbs/Wired&rpar;](http://www.techmeme.com/250115/p34#a250115p34)
+ - [Trump’s transportation pick says he’ll let Tesla investigations proceed](https://www.theverge.com/2025/1/15/24344462/sean-duffy-usdot-nhtsa-tesla-investigation-confirmation)
+ - [uBreakiFix will be able to repair your Xbox Series X and S](https://www.theverge.com/2025/1/15/24344420/ubreakifix-repair-xbox-series-x-s)
  - [Los Angles Needs to Fireproof Communities, Not Just Houses](https://www.wired.com/story/how-to-build-a-fire-resistant-neighborhood/)
- - [Sonos continues to clean house with departure of chief commercial officer](https://www.theverge.com/2025/1/15/24344430/sonos-cco-deirdre-findlay-leaving)
- - [‘My Chinese Spy’ Memes Show Americans Aren’t Sold on the TikTok Ban](https://www.wired.com/story/tiktok-ban-my-chinese-spy-meme/)
- - [Coupon savings hit Apple&#39;s M4 Pro Mac mini with 24GB RAM, 2TB SSD](https://appleinsider.com/articles/25/01/15/coupon-savings-hit-apples-m4-pro-mac-mini-with-24gb-ram-2tb-ssd?utm_medium=rss)
- - [Google says it has partnered with the AP to deliver a feed of real-time information to enhance the usefulness of results displayed in the Gemini app &lpar;Jaffer Zaidi/The Keyword&rpar;](http://www.techmeme.com/250115/p33#a250115p33)<!-- TECH:END -->
+ - [Sonos continues to clean house with departure of chief commercial officer](https://www.theverge.com/2025/1/15/24344430/sonos-cco-deirdre-findlay-leaving)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

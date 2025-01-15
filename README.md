@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Op sucks not only d! &lpar;Ks but also at life!!!](http://9gag.com/gag/aVvbNYn)
- - 😝 [When she finally invites you over...](http://9gag.com/gag/a4Poe5m)
- - 💣 [Self Awareness](http://9gag.com/gag/arymjeK)
- - 😝 [GTA games detail differences](http://9gag.com/gag/a34Zmy5)
- - 👉 [Take a guess](http://9gag.com/gag/aLn1Yog)<!-- MEMES:END -->
+ - 😝 [Shocking](http://9gag.com/gag/aqye3PP)
+ - 😝 [Focus!](http://9gag.com/gag/a34Zow7)
+ - 💣 [Almost double of her weight, and that is not a lady boy](http://9gag.com/gag/awyZqAx)
+ - 😝 [That looks very cool](http://9gag.com/gag/aO8x6QD)
+ - 👉 [Appreciation!](http://9gag.com/gag/aW4GV73)<!-- MEMES:END -->
 
 ---
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Microsoft relaunches its free Copilot for businesses as Microsoft 365 Copilot Chat, offering pay-as-you-go AI agents and using GPT-4o to answer queries &lpar;Tom Warren/The Verge&rpar;](http://www.techmeme.com/250115/p23#a250115p23)
- - [How to bulk save your TikTok videos](https://www.theverge.com/24343890/tiktok-bulk-save-how-to)
- - [Lenovo ThinkPad X1 Carbon &lpar;Gen 13, Aura Edition&rpar; Review: Ultra Light](https://www.wired.com/review/lenovo-thinkpad-x1-carbon-gen-13-aura-edition/)
- - [Microsoft relaunches Copilot for business with free AI chat and pay-as-you-go agents](https://www.theverge.com/2025/1/15/24344214/microsoft-365-copilot-chat-agents-pricing-availability)
- - [Google is making AI in Gmail and Docs free — but raising the price of Workspace](https://www.theverge.com/2025/1/15/24343794/google-workspace-ai-features-free)<!-- TECH:END -->
+ - [Honda says the Acura RSX will be the first original EV with the Asimo operating system](https://www.theverge.com/2025/1/15/24344311/honda-acura-rsx-announce-ev-asimo)
+ - [TikTok reportedly plans ‘immediate’ Sunday shutdown in the US if it’s banned](https://www.theverge.com/2025/1/15/24344299/tiktok-shutdown-us-ban-supreme-court)
+ - [LinkedIn launches free AI tools: a Jobs Match tool for job seekers and a recruitment AI agent for small businesses, both built on its own AI tech and data &lpar;Ingrid Lunden/TechCrunch&rpar;](http://www.techmeme.com/250115/p25#a250115p25)
+ - [Google makes all of its Gemini features for Workspace apps free, after previously charging $20+ per user per month, but raises the price of all Workspace plans &lpar;Abner Li/9to5Google&rpar;](http://www.techmeme.com/250115/p24#a250115p24)
+ - [The best smart home tech at CES 2025](https://appleinsider.com/articles/25/01/15/the-best-smart-home-tech-at-ces-2025?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

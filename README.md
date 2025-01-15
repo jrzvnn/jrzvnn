@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Mom, buy me a railroad! Dad made you a railroad.](http://9gag.com/gag/aZZDe0W)
- - 😝 [How Yugi always wins](http://9gag.com/gag/aVvbnQO)
- - 💣 [Installing a motherboard on your gpu](http://9gag.com/gag/adBPD7Q)
- - 😝 [GTA games detail differences](http://9gag.com/gag/a34Zmy5)
- - 👉 [Daydreams of shopping with the wife](http://9gag.com/gag/aE0qLno)<!-- MEMES:END -->
+ - 😝 [Bruce got pied](http://9gag.com/gag/aNDw6AA)
+ - 😝 [Aged like Guatemala rum](http://9gag.com/gag/aKGERd1)
+ - 💣 [Like mother, like daughter, huh?](http://9gag.com/gag/apR94NB)
+ - 😝 [Yes, better close it](http://9gag.com/gag/aKGEr9N)
+ - 👉 [Ok now give us Predator vs Terminator](http://9gag.com/gag/aO8xwM2)<!-- MEMES:END -->
 
 ---
 

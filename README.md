@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [How to record audio and create transcripts in Notes in iOS 18](https://appleinsider.com/inside/ios-18/tips/how-to-record-audio-and-create-transcripts-in-notes-in-ios-18?utm_medium=rss)
+ - [Experts say Donald Trump and others pushing for stronger US cyber offense must clarify if escalation is a proper response to recent Chinese cyber breaches &lpar;CyberScoop&rpar;](http://www.techmeme.com/250114/p39#a250114p39)
+ - [Copyright trial over Apple TV+ show &#39;Servant&#39; could lead to $81 million fine](https://appleinsider.com/articles/25/01/15/copyright-trial-over-apple-tv-show-servant-could-lead-to-81-million-fine?utm_medium=rss)
  - [Red Hat acquires Neural Magic, which has built tools to boost generative AI inference workloads and raised $50M from a16z and others, for an undisclosed sum &lpar;Steven Vaughan-Nichols/ZDNET&rpar;](http://www.techmeme.com/250114/p38#a250114p38)
- - [The SEC Is Suing Elon Musk. It’s All in the Timing](https://www.wired.com/story/sec-suing-elon-musk-gensler-trump-timing/)
- - [Elmsford, NY-based quantum computing startup SEEQC raised a $30M Series A extension co-led by Booz Allen and NordicNinja, following a $22.4M Series A in 2020 &lpar;Anna Heim/TechCrunch&rpar;](http://www.techmeme.com/250114/p37#a250114p37)
- - [Apple and Amazon fight off a UK lawsuit filed on behalf of ~36M consumers alleging they colluded to bar most resellers of Apple and Beats products on Amazon &lpar;Reuters&rpar;](http://www.techmeme.com/250114/p36#a250114p36)
- - [Report: UK startups raised &amp;euro;16.4B in 2024, Germany raised &amp;euro;9.4B, France raised &amp;euro;7.1B; investment in French AI startups grew from &amp;euro;1B in 2023 to &amp;euro;1.9B in 2024 &lpar;Sifted&rpar;](http://www.techmeme.com/250114/p35#a250114p35)<!-- TECH:END -->
+ - [The SEC Is Suing Elon Musk. It’s All in the Timing](https://www.wired.com/story/sec-suing-elon-musk-gensler-trump-timing/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

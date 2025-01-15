@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Microsoft says it will no longer support Office apps, known as Microsoft 365 apps, on Windows 10 after October 14, 2025 &lpar;Tom Warren/The Verge&rpar;](http://www.techmeme.com/250115/p27#a250115p27)
  - [macOS flaw that allowed attackers to bypass core system protections is now fixed](https://appleinsider.com/articles/25/01/15/macos-flaw-that-allowed-attackers-to-bypass-core-system-protections-is-now-fixed?utm_medium=rss)
  - [The Australian Open’s animated livestreams make players look like Wii Sports characters](https://www.theverge.com/2025/1/15/24344285/australian-open-livestreaming-wii-sports-style-tennis-matches)
  - [How gamers are turning gaming PCs into fashion statements: iBuypower customers spend an average of ~$2.4K on custom-built gaming PCs and $1.6K on prebuilt ones &lpar;Cecilia D&#39;Anastasio/Bloomberg&rpar;](http://www.techmeme.com/250115/p26#a250115p26)
- - [Hinge&#39;s New AI Tool Wants to Help You Avoid Making a Bad Dating Profile](https://www.cnet.com/tech/services-and-software/hinges-new-ai-tool-wants-to-help-you-avoid-making-a-bad-dating-profile/#ftag=CAD590a51e)
- - [The Best Time Management Apps: iOS, Android, and Desktop](https://www.wired.com/story/best-time-management-apps/)<!-- TECH:END -->
+ - [Hinge&#39;s New AI Tool Wants to Help You Avoid Making a Bad Dating Profile](https://www.cnet.com/tech/services-and-software/hinges-new-ai-tool-wants-to-help-you-avoid-making-a-bad-dating-profile/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

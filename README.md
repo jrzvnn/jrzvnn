@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [They&#39;re super addictive](http://9gag.com/gag/a6ZqAx9)
- - 😝 [Dude having a good day at work.](http://9gag.com/gag/apR9W2p)
- - 💣 [UK is doomed.](http://9gag.com/gag/avyQNWE)
- - 😝 [Hilarious](http://9gag.com/gag/aGyEmb0)
- - 👉 [Few words from professor McGonagall](http://9gag.com/gag/ae9QoxW)<!-- MEMES:END -->
+ - 😝 [Aged like Guatemala rum](http://9gag.com/gag/aKGERd1)
+ - 😝 [My friends tape](http://9gag.com/gag/aXPn6N2)
+ - 💣 [`Please compensate our employees for hard work so we can NOT pay them more`](http://9gag.com/gag/azx2NEj)
+ - 😝 [Yes, better close it](http://9gag.com/gag/aKGEr9N)
+ - 👉 [Mom, buy me a railroad! Dad made you a railroad.](http://9gag.com/gag/aZZDe0W)<!-- MEMES:END -->
 
 ---
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Kimi Raikkonen shows us the meaning of Sisu by driving full speed into a thick cloud of smoke.](http://9gag.com/gag/aKGEQ7j)
- - 😝 [I will never forget when people thought they were gonna raid Area 51 lol](http://9gag.com/gag/ayN2gRp)
- - 💣 [How Yugi always wins](http://9gag.com/gag/aVvbnQO)
- - 😝 [Daydreams of shopping with the wife](http://9gag.com/gag/aE0qLno)
- - 👉 [Nice](http://9gag.com/gag/an7zAXb)<!-- MEMES:END -->
+ - 😝 [Take a guess](http://9gag.com/gag/aLn1Yog)
+ - 😝 [Nice](http://9gag.com/gag/an7zAXb)
+ - 💣 [100% of 9gagers](http://9gag.com/gag/an7zLR0)
+ - 😝 [How Yugi always wins](http://9gag.com/gag/aVvbnQO)
+ - 👉 [I will never forget when people thought they were gonna raid Area 51 lol](http://9gag.com/gag/ayN2gRp)<!-- MEMES:END -->
 
 ---
 

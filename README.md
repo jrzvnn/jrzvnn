@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The Google Home app will soon support the Nest Protect](https://www.theverge.com/2025/1/15/24344315/google-home-app-nest-protect-support)
+ - [Why ‘Beating China’ In AI Brings Its Own Risks](https://www.wired.com/story/why-beating-china-in-ai-brings-its-own-risks/)
+ - [Adam Scott on using Severance’s weird, retrofuturistic computers](https://www.theverge.com/2025/1/15/24340723/severance-season-2-computers-adam-scott-interview)
  - [Nikita Bier, creator of apps like tbh and anonymous compliments app Gas, launches Explode, a freemium app to send disappearing texts and photos via iMessage &lpar;Ivan Mehta/TechCrunch&rpar;](http://www.techmeme.com/250115/p31#a250115p31)
- - [Tim Cook talks wine, chocolate, and how Apple Watch saved his father](https://appleinsider.com/articles/25/01/15/tim-cook-talks-wine-chocolate-and-how-apple-watch-saved-his-father?utm_medium=rss)
- - [Sling TV adds unlimited recording to its DVR — but it still costs extra](https://www.theverge.com/2025/1/15/24344337/sling-tv-unlimited-dvr-announced-pricing)
- - [Drake sues his label, UMG, saying ‘Not Like Us’ is defamatory](https://www.theverge.com/2025/1/15/24344381/drake-umg-lawsuit-kendrick-lamar-not-like-us)
- - [M4 Mac mini may have a USB-C connectivity problem](https://appleinsider.com/articles/25/01/15/m4-mac-mini-may-have-a-usb-c-connectivity-problem?utm_medium=rss)<!-- TECH:END -->
+ - [Tim Cook talks wine, chocolate, and how Apple Watch saved his father](https://appleinsider.com/articles/25/01/15/tim-cook-talks-wine-chocolate-and-how-apple-watch-saved-his-father?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

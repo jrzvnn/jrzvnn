@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Worst neighbour.](http://9gag.com/gag/aVvbAjP)
+ - 😝 [How Hot Wheels cars have been losing details over the years.](http://9gag.com/gag/avyQKAd)
+ - 😝 [`Please compensate our employees for hard work so we can NOT pay them more`](http://9gag.com/gag/azx2NEj)
+ - 💣 [Mom, buy me a railroad! Dad made you a railroad.](http://9gag.com/gag/aZZDe0W)
  - 😝 [Those Tanlines](http://9gag.com/gag/aXPnDL2)
- - 💣 [Philly man got arrested by his twin brother](http://9gag.com/gag/a5QX0zN)
- - 😝 [Installing a motherboard on your gpu](http://9gag.com/gag/adBPD7Q)
- - 👉 [Ok now give us Predator vs Terminator](http://9gag.com/gag/aO8xwM2)<!-- MEMES:END -->
+ - 👉 [Like mother, like daughter, huh?](http://9gag.com/gag/apR94NB)<!-- MEMES:END -->
 
 ---
 

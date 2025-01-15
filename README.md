@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Walmart Promo Codes and Coupons: $10 Off](https://www.wired.com/story/top-walmart-promo-codes/)
+ - [Chewy Promo Codes: $20 Off](https://www.wired.com/story/chewy-promo-code/)
  - [Synthesia, a London-based B2B startup building products around highly realistic AI avatar technology, raised a $180M Series D led by NEA at a $2.1B valuation &lpar;Ingrid Lunden/TechCrunch&rpar;](http://www.techmeme.com/250115/p10#a250115p10)
  - [An in-depth look at the state of video gaming in 2025, including why gaming soared from 2011-2021 then stalled, China&#39;s global rise, and mobile gaming growth &lpar;Matthew Ball/MatthewBall.co&rpar;](http://www.techmeme.com/250115/p9#a250115p9)
- - [Best Internet Providers in Berkeley, California](https://www.cnet.com/home/internet/best-internet-providers-in-berkeley-ca/#ftag=CAD590a51e)
- - [LemFi, a financial and payment services platform designed for immigrants that claims to have over 1M active users, raised a $53M Series B led by Highland Europe &lpar;Tage Kene-Okafor/TechCrunch&rpar;](http://www.techmeme.com/250115/p8#a250115p8)
- - [PUBG developer Krafton, whose Seoul-listed shares are up more than 70% since early 2024, plans to invest over $136M in 2025 in more than a dozen game studios &lpar;Yoolim Lee/Bloomberg&rpar;](http://www.techmeme.com/250115/p7#a250115p7)<!-- TECH:END -->
+ - [Best Internet Providers in Berkeley, California](https://www.cnet.com/home/internet/best-internet-providers-in-berkeley-ca/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

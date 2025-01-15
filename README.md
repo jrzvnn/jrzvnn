@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Like mother, like daughter, huh?](http://9gag.com/gag/apR94NB)
- - 😝 [Depends who has the sword](http://9gag.com/gag/amoA4ZX)
- - 💣 [Bruce got pied](http://9gag.com/gag/aNDw6AA)
- - 😝 [Those Tanlines](http://9gag.com/gag/aXPnDL2)
- - 👉 [How Yugi always wins](http://9gag.com/gag/aVvbnQO)<!-- MEMES:END -->
+ - 😝 [Kimi Raikkonen shows us the meaning of Sisu by driving full speed into a thick cloud of smoke.](http://9gag.com/gag/aKGEQ7j)
+ - 😝 [I will never forget when people thought they were gonna raid Area 51 lol](http://9gag.com/gag/ayN2gRp)
+ - 💣 [How Yugi always wins](http://9gag.com/gag/aVvbnQO)
+ - 😝 [Daydreams of shopping with the wife](http://9gag.com/gag/aE0qLno)
+ - 👉 [Nice](http://9gag.com/gag/an7zAXb)<!-- MEMES:END -->
 
 ---
 

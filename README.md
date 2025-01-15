@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Drake withdraws accusation that UMG and Spotify illegally boosted Kendrick Lamar’s diss track](https://www.theverge.com/2025/1/15/24344210/drake-withdraws-kendrick-umg-spotify-not-like-us-legal-action)
  - [A profile of Tahnoun bin Zayed al Nahyan, the chess-obsessed intelligence chief who oversees UAE&#39;s $1.5T sovereign wealth and wants to make UAE an AI superpower &lpar;Bradley Hope/Wired&rpar;](http://www.techmeme.com/250115/p14#a250115p14)
  - [Microsoft stops using Bing to trick people into thinking they’re on Google](https://www.theverge.com/2025/1/15/24344207/microsoft-bing-search-results-google-design-change-reversed)
  - [Apple and Samsung are neck-and-neck in global smartphone sales with Xiaomi gaining](https://www.theverge.com/2025/1/15/24344208/apple-samsung-xiaomi-2024-smartphone-sales-shipments-idc-canalys-counterpoint)
- - [Court filing: Meta says it may have to &quot;roll back or pause&quot; some features in India after a CCI directive banned WhatsApp data sharing with Meta for ad purposes &lpar;Reuters&rpar;](http://www.techmeme.com/250115/p13#a250115p13)
- - [Drake withdraws petition accusing UMG and Spotify of inflating Kendrick Lamar&#39;s &quot;Not Like Us&quot; with bots and payola; the diss track accused Drake of pedophilia &lpar;Steven J. Horowitz/Variety&rpar;](http://www.techmeme.com/250115/p12#a250115p12)<!-- TECH:END -->
+ - [Court filing: Meta says it may have to &quot;roll back or pause&quot; some features in India after a CCI directive banned WhatsApp data sharing with Meta for ad purposes &lpar;Reuters&rpar;](http://www.techmeme.com/250115/p13#a250115p13)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

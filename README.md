@@ -160,8 +160,8 @@ R                        1 repo              ░░░░░░░░░░░�
  - [The 7 Best Linen Sheets for Cool and Comfy Sleeping &lpar;2025&rpar;](https://www.wired.com/gallery/best-linen-sheets/)
  - [Honor’s Magic 7 Pro looks flagship through and through](https://www.theverge.com/2025/1/15/24344248/honor-magic-7-pro-launch-europe-snapdragon-8-elite-ip69)
  - [Authorities in Singapore, which has a dire shortage of nurses, see the potential in AI tools to assist in preventive illness care, especially for the elderly &lpar;Reeta Raman/Rest of World&rpar;](http://www.techmeme.com/250115/p22#a250115p22)
- - [I Need Apple to Do These Things to the iPhone 17&#39;s Camera](https://www.cnet.com/tech/mobile/i-need-apple-to-do-this-to-the-iphone-17-camera/#ftag=CAD590a51e)
- - [14 Unmissable Movies to Stream on Netflix Right Now](https://www.cnet.com/tech/services-and-software/best-movies-on-netflix/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [The Crazy Nokia Designs That Never Saw the Light of Day](https://www.wired.com/gallery/nokia-design-archive-photo-gallery-of-wacky-phone-designs/)
+ - [Two private landers head to the moon to aid future NASA astronauts](https://www.theverge.com/2025/1/15/24344240/spacex-blue-ghost-resilience-moon-landers-nasa-artemis-mission)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

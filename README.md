@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Philly man got arrested by his twin brother](http://9gag.com/gag/a5QX0zN)
- - 😝 [`Please compensate our employees for hard work so we can NOT pay them more`](http://9gag.com/gag/azx2NEj)
- - 💣 [Smooth as a sand paper](http://9gag.com/gag/aMVEo2x)
- - 😝 [Nice](http://9gag.com/gag/an7zAXb)
- - 👉 [How Yugi always wins](http://9gag.com/gag/aVvbnQO)<!-- MEMES:END -->
+ - 😝 [Those Tanlines](http://9gag.com/gag/aXPnDL2)
+ - 😝 [Smooth as a sand paper](http://9gag.com/gag/aMVEo2x)
+ - 💣 [Self Awareness](http://9gag.com/gag/arymjeK)
+ - 😝 [I will never forget when people thought they were gonna raid Area 51 lol](http://9gag.com/gag/ayN2gRp)
+ - 👉 [Diver helping a shark removing a hook](http://9gag.com/gag/a87qPbY)<!-- MEMES:END -->
 
 ---
 

@@ -159,9 +159,9 @@ R                        1 repo              ░░░░░░░░░░░�
 <!-- TECH:START -->
  - [The CFTC puts trading of sports derivatives, including Super Bowl, on Crypto.com under review; the firm says it rejected the CFTC&#39;s request to halt such trading &lpar;Lydia Beyoud/Bloomberg&rpar;](http://www.techmeme.com/250115/p2#a250115p2)
  - [Court docs: internal messages suggest Meta used data from piracy site LibGen to train AI Llama models and worked to conceal it while racing rivals like OpenAI &lpar;The Verge&rpar;](http://www.techmeme.com/250115/p1#a250115p1)
+ - [Today&#39;s NYT Mini Crossword Answers for Wednesday, Jan. 15](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-wednesday-jan-15/#ftag=CAD590a51e)
  - [Sources: TikTok plans to block access to its app for US users on Jan. 19 unless SCOTUS stops the ban; one source says a pop-up message will give users more info &lpar;The Information&rpar;](http://www.techmeme.com/250114/p40#a250114p40)
- - [How to record audio and create transcripts in Notes in iOS 18](https://appleinsider.com/inside/ios-18/tips/how-to-record-audio-and-create-transcripts-in-notes-in-ios-18?utm_medium=rss)
- - [Experts say Donald Trump and others pushing for stronger US cyber offense must clarify if escalation is a proper response to recent Chinese cyber breaches &lpar;CyberScoop&rpar;](http://www.techmeme.com/250114/p39#a250114p39)<!-- TECH:END -->
+ - [How to record audio and create transcripts in Notes in iOS 18](https://appleinsider.com/inside/ios-18/tips/how-to-record-audio-and-create-transcripts-in-notes-in-ios-18?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Daydreams of shopping with the wife](http://9gag.com/gag/aE0qLno)
- - 😝 [Those Tanlines](http://9gag.com/gag/aXPnDL2)
- - 💣 [Bruce got pied](http://9gag.com/gag/aNDw6AA)
  - 😝 [Mom, buy me a railroad! Dad made you a railroad.](http://9gag.com/gag/aZZDe0W)
- - 👉 [When ur homie keeps going to Thailand for food and culture...](http://9gag.com/gag/aVvbyR8)<!-- MEMES:END -->
+ - 😝 [How Yugi always wins](http://9gag.com/gag/aVvbnQO)
+ - 💣 [Installing a motherboard on your gpu](http://9gag.com/gag/adBPD7Q)
+ - 😝 [GTA games detail differences](http://9gag.com/gag/a34Zmy5)
+ - 👉 [Daydreams of shopping with the wife](http://9gag.com/gag/aE0qLno)<!-- MEMES:END -->
 
 ---
 

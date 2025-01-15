@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The CFTC puts trading of sports derivatives, including Super Bowl, on Crypto.com under review; the firm says it rejected the CFTC&#39;s request to halt such trading &lpar;Lydia Beyoud/Bloomberg&rpar;](http://www.techmeme.com/250115/p2#a250115p2)
  - [Court docs: internal messages suggest Meta used data from piracy site LibGen to train AI Llama models and worked to conceal it while racing rivals like OpenAI &lpar;The Verge&rpar;](http://www.techmeme.com/250115/p1#a250115p1)
  - [Sources: TikTok plans to block access to its app for US users on Jan. 19 unless SCOTUS stops the ban; one source says a pop-up message will give users more info &lpar;The Information&rpar;](http://www.techmeme.com/250114/p40#a250114p40)
  - [How to record audio and create transcripts in Notes in iOS 18](https://appleinsider.com/inside/ios-18/tips/how-to-record-audio-and-create-transcripts-in-notes-in-ios-18?utm_medium=rss)
- - [Experts say Donald Trump and others pushing for stronger US cyber offense must clarify if escalation is a proper response to recent Chinese cyber breaches &lpar;CyberScoop&rpar;](http://www.techmeme.com/250114/p39#a250114p39)
- - [Copyright trial over Apple TV+ show &#39;Servant&#39; could lead to $81 million fine](https://appleinsider.com/articles/25/01/15/copyright-trial-over-apple-tv-show-servant-could-lead-to-81-million-fine?utm_medium=rss)<!-- TECH:END -->
+ - [Experts say Donald Trump and others pushing for stronger US cyber offense must clarify if escalation is a proper response to recent Chinese cyber breaches &lpar;CyberScoop&rpar;](http://www.techmeme.com/250114/p39#a250114p39)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

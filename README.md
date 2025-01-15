@@ -161,7 +161,7 @@ R                        1 repo              ░░░░░░░░░░░�
  - [How to record audio and create transcripts in Notes in iOS 18](https://appleinsider.com/inside/ios-18/tips/how-to-record-audio-and-create-transcripts-in-notes-in-ios-18?utm_medium=rss)
  - [Experts say Donald Trump and others pushing for stronger US cyber offense must clarify if escalation is a proper response to recent Chinese cyber breaches &lpar;CyberScoop&rpar;](http://www.techmeme.com/250114/p39#a250114p39)
  - [Copyright trial over Apple TV+ show &#39;Servant&#39; could lead to $81 million fine](https://appleinsider.com/articles/25/01/15/copyright-trial-over-apple-tv-show-servant-could-lead-to-81-million-fine?utm_medium=rss)
- - [Red Hat acquires Neural Magic, which has built tools to boost generative AI inference workloads and raised $50M from a16z and others, for an undisclosed sum &lpar;Steven Vaughan-Nichols/ZDNET&rpar;](http://www.techmeme.com/250114/p38#a250114p38)<!-- TECH:END -->
+ - [Today&#39;s NYT Strands Hints, Answers and Help for Jan. 15, #318](https://www.cnet.com/tech/gaming/todays-nyt-strands-hints-answers-and-help-for-jan-15-318/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Id watch that movie](http://9gag.com/gag/a0e43od)
- - 😝 [A French woman sent 800k\u20ac to a scammer impersonating Brad Pitt](http://9gag.com/gag/aZZDO46)
- - 💣 [GTA games detail differences](http://9gag.com/gag/a34Zmy5)
- - 😝 [Daydreams of shopping with the wife](http://9gag.com/gag/aE0qLno)
- - 👉 [Insane card trick.](http://9gag.com/gag/abAv9BL)<!-- MEMES:END -->
+ - 😝 [These men are not special forces; they are members of the CJNG, one of Mexico&#39;s most powerful and dangerous cartels](http://9gag.com/gag/ajPVenx)
+ - 😝 [Diver helping a shark removing a hook](http://9gag.com/gag/a87qPbY)
+ - 💣 [Bruce got pied](http://9gag.com/gag/aNDw6AA)
+ - 😝 [Yes, better close it](http://9gag.com/gag/aKGEr9N)
+ - 👉 [Hilarious](http://9gag.com/gag/aGyEmb0)<!-- MEMES:END -->
 
 ---
 

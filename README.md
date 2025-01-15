@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Shocking](http://9gag.com/gag/aqye3PP)
- - 😝 [That looks very cool](http://9gag.com/gag/aO8x6QD)
- - 💣 [Almost double of her weight, and that is not a lady boy](http://9gag.com/gag/awyZqAx)
- - 😝 [Focus!](http://9gag.com/gag/a34Zow7)
- - 👉 [Appreciation!](http://9gag.com/gag/aW4GV73)<!-- MEMES:END -->
+ - 😝 [`Let me finish you small strange man` \ud83d\ude05](http://9gag.com/gag/a2vKedp)
+ - 😝 [In Istanbul,a dog brought her puppy,whose heart had stopped due to the cold,to the veterinarian](http://9gag.com/gag/aqyev3j)
+ - 💣 [I will never forget when people thought they were gonna raid Area 51 lol](http://9gag.com/gag/ayN2gRp)
+ - 😝 [GTA games detail differences](http://9gag.com/gag/a34Zmy5)
+ - 👉 [Self Awareness](http://9gag.com/gag/arymjeK)<!-- MEMES:END -->
 
 ---
 

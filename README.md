@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Report: UK startups raised &amp;euro;16.4B in 2024, Germany raised &amp;euro;9.4B, France raised &amp;euro;7.1B; investment in French AI startups grew from &amp;euro;1B in 2023 to &amp;euro;1.9B in 2024 &lpar;Sifted&rpar;](http://www.techmeme.com/250114/p35#a250114p35)
  - [Sources and docs: Meta has dismantled its system that identified viral hoaxes and limited their reach, and told content-ranking teams to stop penalizing misinfo &lpar;Casey Newton/Platformer&rpar;](http://www.techmeme.com/250114/p34#a250114p34)
  - [Vego Kitchen Composter review: keep food scraps out of the trash](https://appleinsider.com/articles/25/01/15/vego-kitchen-composter-review-keep-food-scraps-out-of-the-trash?utm_medium=rss)
  - [DJI removes its geofence around US &quot;No-Fly Zones&quot;, replacing it with a warning, saying the update &quot;aligns&quot; with FAA rules and follows similar changes in the EU &lpar;Sean Hollister/The Verge&rpar;](http://www.techmeme.com/250114/p33#a250114p33)
- - [Elon Musk is being sued by the feds over the way he bought Twitter](https://www.theverge.com/2025/1/14/24343978/elon-musk-sued-sec-twitter-acquisition)
- - [DJI will no longer stop drones from flying over airports, wildfires, and the White House](https://www.theverge.com/2025/1/14/24343928/dji-no-more-geofencing-no-fly-zone)<!-- TECH:END -->
+ - [Elon Musk is being sued by the feds over the way he bought Twitter](https://www.theverge.com/2025/1/14/24343978/elon-musk-sued-sec-twitter-acquisition)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

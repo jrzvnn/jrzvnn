@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The best smart home tech at CES 2025](https://appleinsider.com/articles/25/01/15/the-best-smart-home-tech-at-ces-2025?utm_medium=rss)
  - [Sonos continues to clean house with departure of chief commercial officer](https://www.theverge.com/2025/1/15/24344430/sonos-cco-deirdre-findlay-leaving)
  - [Microsoft Is Ending Support for Windows 10 Office Apps in October](https://www.wired.com/story/microsoft-is-ending-support-for-office-apps-in-windows-10/)
  - [Apple hardware lost to LA fires needs to be replaced by homeowner&#39;s insurance, not AppleCare](https://appleinsider.com/articles/25/01/15/apple-hardware-lost-to-la-fires-need-to-be-replaced-by-homeowners-insurance-not-applecare?utm_medium=rss)
- - [DoubleVerify says there is a jump in AI click farms, including a network of 200+ websites called Synthetic Echo, designed to siphon ad revenue from real outlets &lpar;Kate Knibbs/Wired&rpar;](http://www.techmeme.com/250115/p34#a250115p34)
- - [Trump’s transportation pick says he’ll let Tesla investigations proceed](https://www.theverge.com/2025/1/15/24344462/sean-duffy-usdot-nhtsa-tesla-investigation-confirmation)<!-- TECH:END -->
+ - [DoubleVerify says there is a jump in AI click farms, including a network of 200+ websites called Synthetic Echo, designed to siphon ad revenue from real outlets &lpar;Kate Knibbs/Wired&rpar;](http://www.techmeme.com/250115/p34#a250115p34)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

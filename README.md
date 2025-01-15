@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Bruce got pied](http://9gag.com/gag/aNDw6AA)
- - 😝 [Control of a professional foosball player](http://9gag.com/gag/avyQ3EO)
- - 💣 [Op sucks not only d! &lpar;Ks but also at life!!!](http://9gag.com/gag/aVvbNYn)
- - 😝 [Kimi Raikkonen shows us the meaning of Sisu by driving full speed into a thick cloud of smoke.](http://9gag.com/gag/aKGEQ7j)
- - 👉 [`Let me finish you small strange man` \ud83d\ude05](http://9gag.com/gag/a2vKedp)<!-- MEMES:END -->
+ - 😝 [Mom, how will I know if she is the right one?](http://9gag.com/gag/ayN2GBp)
+ - 😝 [I should buy a sign..](http://9gag.com/gag/axyoXmM)
+ - 💣 [Shocking](http://9gag.com/gag/aqye3PP)
+ - 😝 [Appreciation!](http://9gag.com/gag/aW4GV73)
+ - 👉 [Dudes, i might have found most believable hidden door design.](http://9gag.com/gag/awyZqGB)<!-- MEMES:END -->
 
 ---
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [Like mother, like daughter, huh?](http://9gag.com/gag/apR94NB)
+ - 😝 [Depends who has the sword](http://9gag.com/gag/amoA4ZX)
+ - 💣 [Bruce got pied](http://9gag.com/gag/aNDw6AA)
  - 😝 [Those Tanlines](http://9gag.com/gag/aXPnDL2)
- - 😝 [Smooth as a sand paper](http://9gag.com/gag/aMVEo2x)
- - 💣 [Self Awareness](http://9gag.com/gag/arymjeK)
- - 😝 [I will never forget when people thought they were gonna raid Area 51 lol](http://9gag.com/gag/ayN2gRp)
- - 👉 [Diver helping a shark removing a hook](http://9gag.com/gag/a87qPbY)<!-- MEMES:END -->
+ - 👉 [How Yugi always wins](http://9gag.com/gag/aVvbnQO)<!-- MEMES:END -->
 
 ---
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Apple CEO Tim Cook attending Trump inauguration after $1 million donation](https://appleinsider.com/articles/25/01/15/apple-ceo-tim-cook-attending-trump-inauguration-after-1-million-donation?utm_medium=rss)
+ - [Aligned Data Centers, which specializes in AI-related infrastructure, raised over $12B, including $5B+ of new primary equity and $7B+ of new debt commitments &lpar;Rishi Kant/Reuters&rpar;](http://www.techmeme.com/250115/p36#a250115p36)
+ - [Super Bowl LIX will stream for free on Tubi](https://www.theverge.com/2025/1/15/24344628/super-bowl-lix-tubi-stream-free-fox)
  - [The best deals on MacBooks right now](https://www.theverge.com/22399419/apple-macbook-air-pro-mac-mini-imac-deals)
- - [Leaked Samsung Galaxy S25 Slim images show off its super-thin design](https://www.theverge.com/2025/1/15/24344652/samsung-s25-slim-super-thin-design-leaked-renders)
- - [Worst &amp; weirdest at CES 2025 -- Robotic owls, phone toasters, &amp; unnecessary AI](https://appleinsider.com/articles/25/01/15/worst-weirdest-at-ces-2025----robotic-owls-phone-toasters-unnecessary-ai?utm_medium=rss)
- - [DJI claims its decision to let drones fly in dangerous areas is not political](https://www.theverge.com/2025/1/15/24344579/dji-claims-geofencing-no-fly-zone-not-political-china)
- - [Cars with Android Automotive are about to get a lot more apps](https://www.theverge.com/2025/1/15/24344560/google-android-automotive-play-store-apps-car-ready-program)<!-- TECH:END -->
+ - [Leaked Samsung Galaxy S25 Slim images show off its super-thin design](https://www.theverge.com/2025/1/15/24344652/samsung-s25-slim-super-thin-design-leaked-renders)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

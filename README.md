@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Bruce got pied](http://9gag.com/gag/aNDw6AA)
- - 😝 [They say empty can make the most noise.](http://9gag.com/gag/a7oqQ5m)
- - 💣 [Like mother, like daughter, huh?](http://9gag.com/gag/apR94NB)
- - 😝 [Ok now give us Predator vs Terminator](http://9gag.com/gag/aO8xwM2)
- - 👉 [Smooth as a sand paper](http://9gag.com/gag/aMVEo2x)<!-- MEMES:END -->
+ - 😝 [Go sports!!!](http://9gag.com/gag/an7z650)
+ - 😝 [My friends tape](http://9gag.com/gag/aXPn6N2)
+ - 💣 [Yes, better close it](http://9gag.com/gag/aKGEr9N)
+ - 😝 [When she finally invites you over...](http://9gag.com/gag/a4Poe5m)
+ - 👉 [Like mother, like daughter, huh?](http://9gag.com/gag/apR94NB)<!-- MEMES:END -->
 
 ---
 

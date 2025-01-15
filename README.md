@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [I wonder why they can&#39;t get a date](http://9gag.com/gag/a6ZqP2e)
- - 😝 [When ur homie keeps going to Thailand for food and culture...](http://9gag.com/gag/aVvbyR8)
+ - 😝 [Daydreams of shopping with the wife](http://9gag.com/gag/aE0qLno)
+ - 😝 [Those Tanlines](http://9gag.com/gag/aXPnDL2)
  - 💣 [Bruce got pied](http://9gag.com/gag/aNDw6AA)
- - 😝 [Worst neighbour.](http://9gag.com/gag/aVvbAjP)
- - 👉 [Aged like Guatemala rum](http://9gag.com/gag/aKGERd1)<!-- MEMES:END -->
+ - 😝 [Mom, buy me a railroad! Dad made you a railroad.](http://9gag.com/gag/aZZDe0W)
+ - 👉 [When ur homie keeps going to Thailand for food and culture...](http://9gag.com/gag/aVvbyR8)<!-- MEMES:END -->
 
 ---
 

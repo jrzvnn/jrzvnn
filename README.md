@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [`Let me finish you small strange man` \ud83d\ude05](http://9gag.com/gag/a2vKedp)
- - 😝 [Take a guess](http://9gag.com/gag/aLn1Yog)
- - 💣 [What a clearance](http://9gag.com/gag/a5QX80g)
- - 😝 [Control of a professional foosball player](http://9gag.com/gag/avyQ3EO)
- - 👉 [Nice](http://9gag.com/gag/an7zAXb)<!-- MEMES:END -->
+ - 😝 [Op sucks not only d! &lpar;Ks but also at life!!!](http://9gag.com/gag/aVvbNYn)
+ - 😝 [When she finally invites you over...](http://9gag.com/gag/a4Poe5m)
+ - 💣 [Self Awareness](http://9gag.com/gag/arymjeK)
+ - 😝 [GTA games detail differences](http://9gag.com/gag/a34Zmy5)
+ - 👉 [Take a guess](http://9gag.com/gag/aLn1Yog)<!-- MEMES:END -->
 
 ---
 

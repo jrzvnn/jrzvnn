@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [How Hot Wheels cars have been losing details over the years.](http://9gag.com/gag/avyQKAd)
- - 😝 [`Please compensate our employees for hard work so we can NOT pay them more`](http://9gag.com/gag/azx2NEj)
- - 💣 [Mom, buy me a railroad! Dad made you a railroad.](http://9gag.com/gag/aZZDe0W)
- - 😝 [Those Tanlines](http://9gag.com/gag/aXPnDL2)
- - 👉 [Like mother, like daughter, huh?](http://9gag.com/gag/apR94NB)<!-- MEMES:END -->
+ - 😝 [They&#39;re super addictive](http://9gag.com/gag/a6ZqAx9)
+ - 😝 [Dude having a good day at work.](http://9gag.com/gag/apR9W2p)
+ - 💣 [UK is doomed.](http://9gag.com/gag/avyQNWE)
+ - 😝 [Hilarious](http://9gag.com/gag/aGyEmb0)
+ - 👉 [Few words from professor McGonagall](http://9gag.com/gag/ae9QoxW)<!-- MEMES:END -->
 
 ---
 

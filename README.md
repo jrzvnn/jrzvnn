@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [An in-depth look at the state of video gaming in 2025, including why gaming soared from 2011-2021 then stalled, China&#39;s global rise, and mobile gaming growth &lpar;Matthew Ball/MatthewBall.co&rpar;](http://www.techmeme.com/250115/p9#a250115p9)
  - [LemFi, a financial and payment services platform designed for immigrants that claims to have over 1M active users, raised a $53M Series B led by Highland Europe &lpar;Tage Kene-Okafor/TechCrunch&rpar;](http://www.techmeme.com/250115/p8#a250115p8)
  - [PUBG developer Krafton, whose Seoul-listed shares are up more than 70% since early 2024, plans to invest over $136M in 2025 in more than a dozen game studios &lpar;Yoolim Lee/Bloomberg&rpar;](http://www.techmeme.com/250115/p7#a250115p7)
  - [Analysis: the ten leading chip companies cut their fiscal 2024 capex by a combined $9.5B from initial plans due to a weakening demand for smartphones and EVs &lpar;Nikkei Asia&rpar;](http://www.techmeme.com/250115/p6#a250115p6)
- - [Tether plans to relocate its corporate entity and subsidiaries to El Salvador after obtaining a digital asset service provider license in the country &lpar;Emily Nicolle/Bloomberg&rpar;](http://www.techmeme.com/250115/p5#a250115p5)
- - [AI will face different rules in Northern Ireland and Britain as the EU&#39;s AI Act takes effect next month, potentially causing friction in the UK&#39;s tech sector &lpar;Financial Times&rpar;](http://www.techmeme.com/250115/p4#a250115p4)<!-- TECH:END -->
+ - [Tether plans to relocate its corporate entity and subsidiaries to El Salvador after obtaining a digital asset service provider license in the country &lpar;Emily Nicolle/Bloomberg&rpar;](http://www.techmeme.com/250115/p5#a250115p5)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

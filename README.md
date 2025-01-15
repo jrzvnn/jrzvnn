@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Brazilian nonprofit Legal Games Institute estimates betting apps draw over $23B in wagers annually, nearly 10 times the Mafia-run animal lottery in the country &lpar;New York Times&rpar;](http://www.techmeme.com/250115/p16#a250115p16)
+ - [The Madcap Rise of Memecoin Factory Pump.Fun](https://www.wired.com/story/madcap-rise-of-memecoin-factory-pumpfun/)
+ - [5 Budgeting Apps to Help You Save Money](https://www.wired.com/story/finance-budget-investment-apps/)
  - [An excerpt from a book on Animal Crossing details how Nintendo localized the game, which has over 46M in all-time Switch sales, for Western players &lpar;Kelsey Lewin/Polygon&rpar;](http://www.techmeme.com/250115/p15#a250115p15)
- - [Microsoft won’t support Office apps on Windows 10 after October 14th](https://www.theverge.com/2025/1/15/24344209/microsoft-365-office-apps-windows-10-end-of-support)
- - [Drake withdraws accusation that UMG and Spotify illegally boosted Kendrick Lamar’s diss track](https://www.theverge.com/2025/1/15/24344210/drake-withdraws-kendrick-umg-spotify-not-like-us-legal-action)
- - [A profile of Tahnoun bin Zayed al Nahyan, the chess-obsessed intelligence chief who oversees UAE&#39;s $1.5T sovereign wealth and wants to make UAE an AI superpower &lpar;Bradley Hope/Wired&rpar;](http://www.techmeme.com/250115/p14#a250115p14)
- - [Microsoft stops using Bing to trick people into thinking they’re on Google](https://www.theverge.com/2025/1/15/24344207/microsoft-bing-search-results-google-design-change-reversed)<!-- TECH:END -->
+ - [Microsoft won’t support Office apps on Windows 10 after October 14th](https://www.theverge.com/2025/1/15/24344209/microsoft-365-office-apps-windows-10-end-of-support)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

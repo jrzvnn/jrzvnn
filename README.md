@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The 7 Best Linen Sheets for Cool and Comfy Sleeping &lpar;2025&rpar;](https://www.wired.com/gallery/best-linen-sheets/)
- - [Honor’s Magic 7 Pro looks flagship through and through](https://www.theverge.com/2025/1/15/24344248/honor-magic-7-pro-launch-europe-snapdragon-8-elite-ip69)
- - [Authorities in Singapore, which has a dire shortage of nurses, see the potential in AI tools to assist in preventive illness care, especially for the elderly &lpar;Reeta Raman/Rest of World&rpar;](http://www.techmeme.com/250115/p22#a250115p22)
- - [The Crazy Nokia Designs That Never Saw the Light of Day](https://www.wired.com/gallery/nokia-design-archive-photo-gallery-of-wacky-phone-designs/)
- - [Two private landers head to the moon to aid future NASA astronauts](https://www.theverge.com/2025/1/15/24344240/spacex-blue-ghost-resilience-moon-landers-nasa-artemis-mission)<!-- TECH:END -->
+ - [Microsoft relaunches its free Copilot for businesses as Microsoft 365 Copilot Chat, offering pay-as-you-go AI agents and using GPT-4o to answer queries &lpar;Tom Warren/The Verge&rpar;](http://www.techmeme.com/250115/p23#a250115p23)
+ - [How to bulk save your TikTok videos](https://www.theverge.com/24343890/tiktok-bulk-save-how-to)
+ - [Lenovo ThinkPad X1 Carbon &lpar;Gen 13, Aura Edition&rpar; Review: Ultra Light](https://www.wired.com/review/lenovo-thinkpad-x1-carbon-gen-13-aura-edition/)
+ - [Microsoft relaunches Copilot for business with free AI chat and pay-as-you-go agents](https://www.theverge.com/2025/1/15/24344214/microsoft-365-copilot-chat-agents-pricing-availability)
+ - [Google is making AI in Gmail and Docs free — but raising the price of Workspace](https://www.theverge.com/2025/1/15/24343794/google-workspace-ai-features-free)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

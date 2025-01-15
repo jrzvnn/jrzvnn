@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Tether plans to relocate its corporate entity and subsidiaries to El Salvador after obtaining a digital asset service provider license in the country &lpar;Emily Nicolle/Bloomberg&rpar;](http://www.techmeme.com/250115/p5#a250115p5)
  - [AI will face different rules in Northern Ireland and Britain as the EU&#39;s AI Act takes effect next month, potentially causing friction in the UK&#39;s tech sector &lpar;Financial Times&rpar;](http://www.techmeme.com/250115/p4#a250115p4)
  - [Industry insiders say China&#39;s share of the global DRAM chip market could double YoY to 10% in 2025, driven by CXMT, up from virtually zero just five years ago &lpar;Nikkei Asia&rpar;](http://www.techmeme.com/250115/p3#a250115p3)
  - [The CFTC puts trading of Super Bowl and other sports derivatives on Crypto.com under review; the firm says it rejected the CFTC&#39;s request to halt such trading &lpar;Lydia Beyoud/Bloomberg&rpar;](http://www.techmeme.com/250115/p2#a250115p2)
- - [Court docs: internal messages suggest Meta used data from piracy site LibGen to train AI Llama models and worked to conceal it, as Meta raced to beat rivals &lpar;The Verge&rpar;](http://www.techmeme.com/250115/p1#a250115p1)
- - [Today&#39;s NYT Mini Crossword Answers for Wednesday, Jan. 15](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-wednesday-jan-15/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Court docs: internal messages suggest Meta used data from piracy site LibGen to train AI Llama models and worked to conceal it, as Meta raced to beat rivals &lpar;The Verge&rpar;](http://www.techmeme.com/250115/p1#a250115p1)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

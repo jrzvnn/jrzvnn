@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Take a guess](http://9gag.com/gag/aLn1Yog)
- - 😝 [Nice](http://9gag.com/gag/an7zAXb)
- - 💣 [100% of 9gagers](http://9gag.com/gag/an7zLR0)
- - 😝 [How Yugi always wins](http://9gag.com/gag/aVvbnQO)
- - 👉 [I will never forget when people thought they were gonna raid Area 51 lol](http://9gag.com/gag/ayN2gRp)<!-- MEMES:END -->
+ - 😝 [D E I KILLS.](http://9gag.com/gag/a2vKndE)
+ - 😝 [An Indonesian teenager survived 49 days adrift at sea after his wooden fish trap slipped its morings. He survived on fish and seawater he squeezed from his clothing before being rescued by a passing cargo ship.](http://9gag.com/gag/aPAgK1q)
+ - 💣 [Bruce got pied](http://9gag.com/gag/aNDw6AA)
+ - 😝 [Prisoners claim that the short notice given to death row inmates before they are led to the gallows is illegal since it does not give condemned men and women enough time to object.](http://9gag.com/gag/agmoDXw)
+ - 👉 [Take two and call me in the morning...](http://9gag.com/gag/ayN2g4r)<!-- MEMES:END -->
 
 ---
 

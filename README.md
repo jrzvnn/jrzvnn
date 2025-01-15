@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Self Awareness](http://9gag.com/gag/arymjeK)
- - 😝 [Insane card trick.](http://9gag.com/gag/abAv9BL)
- - 💣 [9gaggers typical luck.](http://9gag.com/gag/aqyeoLM)
- - 😝 [Now, that\u2019s a grudge!](http://9gag.com/gag/a9yqgAZ)
- - 👉 [Yes, better close it](http://9gag.com/gag/aKGEr9N)<!-- MEMES:END -->
+ - 😝 [In 2013 a farmer from Colorado mowed his own firebreak to stop a fire in his field](http://9gag.com/gag/a7oqQ7L)
+ - 😝 [Daydreams of shopping with the wife](http://9gag.com/gag/aE0qLno)
+ - 💣 [Yes, better close it](http://9gag.com/gag/aKGEr9N)
+ - 😝 [Ok now give us Predator vs Terminator](http://9gag.com/gag/aO8xwM2)
+ - 👉 [Bruce got pied](http://9gag.com/gag/aNDw6AA)<!-- MEMES:END -->
 
 ---
 

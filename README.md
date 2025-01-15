@@ -166,10 +166,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Ok now give us Predator vs Terminator](http://9gag.com/gag/aO8xwM2)
- - 😝 [Installing a motherboard on your gpu](http://9gag.com/gag/adBPD7Q)
- - 💣 [Hilarious](http://9gag.com/gag/aGyEmb0)
- - 😝 [Like mother, like daughter, huh?](http://9gag.com/gag/apR94NB)
+ - 😝 [I wonder why they can&#39;t get a date](http://9gag.com/gag/a6ZqP2e)
+ - 😝 [When ur homie keeps going to Thailand for food and culture...](http://9gag.com/gag/aVvbyR8)
+ - 💣 [Bruce got pied](http://9gag.com/gag/aNDw6AA)
+ - 😝 [Worst neighbour.](http://9gag.com/gag/aVvbAjP)
  - 👉 [Aged like Guatemala rum](http://9gag.com/gag/aKGERd1)<!-- MEMES:END -->
 
 ---

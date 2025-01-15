@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Nikita Bier, creator of apps like tbh and anonymous compliments app Gas, launches Explode, a freemium app to send disappearing texts and photos via iMessage &lpar;Ivan Mehta/TechCrunch&rpar;](http://www.techmeme.com/250115/p31#a250115p31)
+ - [Tim Cook talks wine, chocolate, and how Apple Watch saved his father](https://appleinsider.com/articles/25/01/15/tim-cook-talks-wine-chocolate-and-how-apple-watch-saved-his-father?utm_medium=rss)
  - [Sling TV adds unlimited recording to its DVR — but it still costs extra](https://www.theverge.com/2025/1/15/24344337/sling-tv-unlimited-dvr-announced-pricing)
  - [Drake sues his label, UMG, saying ‘Not Like Us’ is defamatory](https://www.theverge.com/2025/1/15/24344381/drake-umg-lawsuit-kendrick-lamar-not-like-us)
- - [M4 Mac mini may have a USB-C connectivity problem](https://appleinsider.com/articles/25/01/15/m4-mac-mini-may-have-a-usb-c-connectivity-problem?utm_medium=rss)
- - [Maki, which provides companies a conversational AI agent for job interviews and candidate filtering, raised a $28.6M Series A led by Blossom Capital &lpar;Mike Butcher/TechCrunch&rpar;](http://www.techmeme.com/250115/p30#a250115p30)
- - [The US unveils new rules to curb flow of advanced chips produced by TSMC and others to China and sanctions 16 Chinese companies building China&#39;s chip industry &lpar;Mackenzie Hawkins/Bloomberg&rpar;](http://www.techmeme.com/250115/p29#a250115p29)<!-- TECH:END -->
+ - [M4 Mac mini may have a USB-C connectivity problem](https://appleinsider.com/articles/25/01/15/m4-mac-mini-may-have-a-usb-c-connectivity-problem?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

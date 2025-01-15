@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Self Awareness](http://9gag.com/gag/arymjeK)
+ - 😝 [Worst neighbour.](http://9gag.com/gag/aVvbAjP)
  - 😝 [Those Tanlines](http://9gag.com/gag/aXPnDL2)
- - 💣 [Installing a motherboard on your gpu](http://9gag.com/gag/adBPD7Q)
- - 😝 [Like mother, like daughter, huh?](http://9gag.com/gag/apR94NB)
- - 👉 [Viral flu](http://9gag.com/gag/ajPVe9R)<!-- MEMES:END -->
+ - 💣 [Philly man got arrested by his twin brother](http://9gag.com/gag/a5QX0zN)
+ - 😝 [Installing a motherboard on your gpu](http://9gag.com/gag/adBPD7Q)
+ - 👉 [Ok now give us Predator vs Terminator](http://9gag.com/gag/aO8xwM2)<!-- MEMES:END -->
 
 ---
 

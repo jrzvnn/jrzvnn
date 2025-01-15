@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Really easy to understand](http://9gag.com/gag/a0e4Awz)
- - 😝 [Those Tanlines](http://9gag.com/gag/aXPnDL2)
- - 💣 [Diver helping a shark removing a hook](http://9gag.com/gag/a87qPbY)
- - 😝 [I should buy a sign..](http://9gag.com/gag/axyoXmM)
- - 👉 [Mom, how will I know if she is the right one?](http://9gag.com/gag/ayN2GBp)<!-- MEMES:END -->
+ - 😝 [An Indonesian teenager survived 49 days adrift at sea after his wooden fish trap slipped its morings. He survived on fish and seawater he squeezed from his clothing before being rescued by a passing cargo ship.](http://9gag.com/gag/aPAgK1q)
+ - 😝 [100% of 9gagers](http://9gag.com/gag/an7zLR0)
+ - 💣 [Prisoners claim that the short notice given to death row inmates before they are led to the gallows is illegal since it does not give condemned men and women enough time to object.](http://9gag.com/gag/agmoDXw)
+ - 😝 [Smooth as a sand paper](http://9gag.com/gag/aMVEo2x)
+ - 👉 [Op sucks not only d! &lpar;Ks but also at life!!!](http://9gag.com/gag/aVvbNYn)<!-- MEMES:END -->
 
 ---
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The Philippines&#39; decision to supercharge its online gambling sector has been disastrous, opening the door to crimes, including money laundering, in the country &lpar;Bloomberg&rpar;](http://www.techmeme.com/250115/p21#a250115p21)
+ - [AI Agents Are Here. How Much Should We Let Them Do?](https://www.wired.com/story/the-prompt-ai-agents-how-much-should-we-let-them-do/)
  - [OpenAI will fund the expansion of Axios to Pittsburgh, Kansas City, Boulder, and Huntsville, as part of a broader content-sharing and technology deal &lpar;Sara Fischer/Axios&rpar;](http://www.techmeme.com/250115/p20#a250115p20)
- - [That Sports News Story You Clicked on Could Be AI Slop](https://www.wired.com/story/ai-slop-sports-news-sites/)
- - [Quantum Brilliance, which makes quantum computing hardware using synthetic diamond qubits that work at room temperature in any setting, raised a $20M Series A &lpar;Mike Wheatley/SiliconANGLE&rpar;](http://www.techmeme.com/250115/p19#a250115p19)
- - [Apple and Amazon get $600 million UK price fixing lawsuit dismissed](https://appleinsider.com/articles/25/01/15/apple-and-amazon-get-600-million-uk-lawsuit-dismissed?utm_medium=rss)
- - [The VisionTrack Composite Index, which tracks the performance of 130 crypto-focused hedge funds, rose 40% in 2024, compared to Bitcoin&#39;s 120% surge that year &lpar;Bloomberg&rpar;](http://www.techmeme.com/250115/p18#a250115p18)<!-- TECH:END -->
+ - [6 Foods You Should Be Buying in Bulk, According to an Expert](https://www.cnet.com/news/6-foods-you-should-be-buying-in-bulk-according-to-an-expert/#ftag=CAD590a51e)
+ - [Play the Original Diablo, UFC 5 and More on Xbox Game Pass Now](https://www.cnet.com/tech/gaming/play-the-original-diablo-ufc-5-and-more-on-xbox-game-pass-now/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

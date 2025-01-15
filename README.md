@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Op sucks not only d! &lpar;Ks but also at life!!!](http://9gag.com/gag/aVvbNYn)
- - 😝 [Dude, its Salma Hayek](http://9gag.com/gag/aBydpKP)
- - 💣 [Bruce got pied](http://9gag.com/gag/aNDw6AA)
- - 😝 [I\u2019m afraid we\u2019re gonna need more proof](http://9gag.com/gag/a7oqQLe)
- - 👉 [D E I KILLS.](http://9gag.com/gag/a2vKndE)<!-- MEMES:END -->
+ - 😝 [Bruce got pied](http://9gag.com/gag/aNDw6AA)
+ - 😝 [Control of a professional foosball player](http://9gag.com/gag/avyQ3EO)
+ - 💣 [Op sucks not only d! &lpar;Ks but also at life!!!](http://9gag.com/gag/aVvbNYn)
+ - 😝 [Kimi Raikkonen shows us the meaning of Sisu by driving full speed into a thick cloud of smoke.](http://9gag.com/gag/aKGEQ7j)
+ - 👉 [`Let me finish you small strange man` \ud83d\ude05](http://9gag.com/gag/a2vKedp)<!-- MEMES:END -->
 
 ---
 

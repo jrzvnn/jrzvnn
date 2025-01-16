@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [You’ll be able to try out the Switch 2 starting in April](https://www.theverge.com/2025/1/16/24345091/nintendo-switch-2-hands-on-event-schedule)
  - [8 Best Leggings &lpar;2025&rpar;, Tested and Reviewed](https://www.wired.com/gallery/the-best-leggings/)
  - [How to bulk download and save your TikTok videos](https://www.theverge.com/24343890/tiktok-bulk-save-how-to)
  - [Nintendo teases a new Mario Kart for the Switch 2](https://www.theverge.com/2025/1/16/24337198/switch-2-mario-kart-nintendo)
- - [Nintendo teases the Switch 2, featuring a new kickstand design and backward compatibility for physical and digital games, with more details on April 2, 2025 &lpar;Jay Peters/The Verge&rpar;](http://www.techmeme.com/250116/p26#a250116p26)
- - [Nintendo announces Switch 2 Direct for April](https://www.theverge.com/2025/1/16/24236766/nintendo-switch-2-games-direct-date-time)<!-- TECH:END -->
+ - [Nintendo teases the Switch 2, featuring a new kickstand design and backward compatibility for physical and digital games, with more details on April 2, 2025 &lpar;Jay Peters/The Verge&rpar;](http://www.techmeme.com/250116/p26#a250116p26)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

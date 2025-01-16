@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Those Tanlines](http://9gag.com/gag/aXPnDL2)
- - 😝 [Cyberpunk 2065](http://9gag.com/gag/a87qr6p)
- - 💣 [Bruce got pied](http://9gag.com/gag/aNDw6AA)
- - 😝 [Robber in Pakistan gets beat down](http://9gag.com/gag/aXPn8R6)
- - 👉 [Cosplay](http://9gag.com/gag/aPAAw7P)<!-- MEMES:END -->
+ - 😝 [Bad man . . .](http://9gag.com/gag/ae99jG5)
+ - 😝 [Removing barnacles from Benson the turtles \ud83d\udc22 shell.](http://9gag.com/gag/azxx7yZ)
+ - 💣 [The Ultimate Drag Race](http://9gag.com/gag/aoyKBVA)
+ - 😝 [Cosplay](http://9gag.com/gag/aPAAw7P)
+ - 👉 [Focus!](http://9gag.com/gag/a34Zow7)<!-- MEMES:END -->
 
 ---
 

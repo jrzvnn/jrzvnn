@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Gohan... my man](http://9gag.com/gag/aMVE3GP)
- - 😝 [Robber in Pakistan gets beat down](http://9gag.com/gag/aXPn8R6)
- - 💣 [Reminder of this gem. She had window installed and said she didn\u2019t like it and wanted her money back. He paid her back and took care of window.](http://9gag.com/gag/a0e4mOB)
- - 😝 [What a clearance](http://9gag.com/gag/a5QX80g)
- - 👉 [Relationship turn over](http://9gag.com/gag/aGyEW2G)<!-- MEMES:END -->
+ - 😝 [Today I lost my certification](http://9gag.com/gag/a0e4mMB)
+ - 😝 [Focus!](http://9gag.com/gag/a34Zow7)
+ - 💣 [Bruce got pied](http://9gag.com/gag/aNDw6AA)
+ - 😝 [And the Darwin Award goes to:](http://9gag.com/gag/aPAgOXB)
+ - 👉 [What a clearance](http://9gag.com/gag/a5QX80g)<!-- MEMES:END -->
 
 ---
 

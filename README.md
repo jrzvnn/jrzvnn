@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [TSMC reports Q4 sales up 38.8% YoY to ~$26.38B, net income up 57% YoY to ~$11.4B, both above estimates; stock jumped 80%+ in 2024, its biggest gain since 1999 &lpar;Jane Lanhee Lee/Bloomberg&rpar;](http://www.techmeme.com/250116/p4#a250116p4)
  - [Jio Platforms partners with Polygon Labs to integrate Web3 and blockchain services into Jio&#39;s apps and services; Jio Platforms has over 450M users in India &lpar;Omkar Godbole/CoinDesk&rpar;](http://www.techmeme.com/250116/p3#a250116p3)
  - [An official says the Biden administration is &quot;exploring options&quot; to implement the law without causing TikTok to go dark for US users on January 19 &lpar;NBC News&rpar;](http://www.techmeme.com/250116/p2#a250116p2)
  - [Sources: Satya Nadella and Brad Smith had lunch with Trump, Vance, and Musk at Mar-a-Lago on January 15; Microsoft says its two execs had a &quot;Productive meeting&quot; &lpar;Semafor&rpar;](http://www.techmeme.com/250116/p1#a250116p1)
- - [Today&#39;s NYT Mini Crossword Answers for Thursday, Jan. 16](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-thursday-jan-16/#ftag=CAD590a51e)
- - [Germany-based Neura Robotics, which is building cognitive, humanoid robots for logistics and other sectors, raised a &amp;euro;120M Series B led by Lingotto Investment &lpar;Yazhou Sun/Bloomberg&rpar;](http://www.techmeme.com/250115/p45#a250115p45)<!-- TECH:END -->
+ - [Today&#39;s NYT Mini Crossword Answers for Thursday, Jan. 16](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-thursday-jan-16/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

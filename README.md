@@ -166,10 +166,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Take two and call me in the morning...](http://9gag.com/gag/ayN2g4r)
+ - 😝 [This connector on Switch 2 will be key failure point](http://9gag.com/gag/aYQQbjO)
  - 😝 [Robber in Pakistan gets beat down](http://9gag.com/gag/aXPn8R6)
- - 💣 [Bad man . . .](http://9gag.com/gag/ae99jG5)
- - 😝 [For anyone asking, what happened to America?](http://9gag.com/gag/a877d6V)
+ - 💣 [Cosplay](http://9gag.com/gag/aPAAw7P)
+ - 😝 [`Please compensate our employees for hard work so we can NOT pay them more`](http://9gag.com/gag/azx2NEj)
  - 👉 [Respect this man](http://9gag.com/gag/a6ZZmqL)<!-- MEMES:END -->
 
 ---

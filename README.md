@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The Switch 2’s bigger screen is just what I wanted](https://www.theverge.com/2025/1/16/24345191/nintendo-switch-2-bigger-screen)
+ - [Netradyne, which provides AI-enabled dashcams to fleet owners like Amazon, raised a $90M Series D led by Point72 at a pre-money valuation of $1.25B &lpar;Rebecca Bellan/TechCrunch&rpar;](http://www.techmeme.com/250116/p38#a250116p38)
+ - [Meet the brothers who built NYC’s favorite congestion pricing tracking tool](https://www.theverge.com/2025/1/16/24344732/nyc-congestion-pricing-tracker-data-google-maps)
  - [Sources: crypto executives have offered input to David Sacks on a possible Trump EO that covers several areas of crypto policy, including a Bitcoin stockpile &lpar;David Yaffe-Bellany/New York Times&rpar;](http://www.techmeme.com/250116/p37#a250116p37)
- - [New iPhone SE 4 dummy models hint at design &amp; color updates](https://appleinsider.com/articles/25/01/16/new-iphone-se-4-dummy-models-hint-at-design-color-updates?utm_medium=rss)
- - [Check Out These Extraordinary New Images of Mercury](https://www.wired.com/gallery/images-of-mercury-bepicolombo-mission/)
- - [A look at the legal dispute between Walgreens and Cooler Screens, which installed 10,000 smart doors that track shoppers and show ads at Walgreens&#39; US stores &lpar;Austin Carr/Bloomberg&rpar;](http://www.techmeme.com/250116/p36#a250116p36)
- - [Tech’s shift to Trump: all the companies and execs kissing the ring](https://www.theverge.com/2025/1/16/24345174/tech-leaders-companies-support-donald-trump-presidency)<!-- TECH:END -->
+ - [New iPhone SE 4 dummy models hint at design &amp; color updates](https://appleinsider.com/articles/25/01/16/new-iphone-se-4-dummy-models-hint-at-design-color-updates?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The Switch 2 is almost here — but PC handhelds are giving it big competition](https://www.theverge.com/2025/1/9/24339466/nintendo-switch-2-pc-gaming-handhelds-steamos)
  - [The Roborock Q5 Max Plus drops to an all-time low of $280](https://www.theverge.com/2025/1/16/24345168/roborock-q5-max-plus-robot-vacuum-amazon-deal-sale)
  - [The Switch 2’s bigger screen is just what I wanted](https://www.theverge.com/2025/1/16/24345191/nintendo-switch-2-bigger-screen)
  - [Netradyne, which provides AI-enabled dashcams to fleet owners like Amazon, raised a $90M Series D led by Point72 at a pre-money valuation of $1.25B &lpar;Rebecca Bellan/TechCrunch&rpar;](http://www.techmeme.com/250116/p38#a250116p38)
- - [Meet the brothers who built NYC’s favorite congestion pricing tracking tool](https://www.theverge.com/2025/1/16/24344732/nyc-congestion-pricing-tracker-data-google-maps)
- - [Sources: crypto executives have offered input to David Sacks on a possible Trump EO that covers several areas of crypto policy, including a Bitcoin stockpile &lpar;David Yaffe-Bellany/New York Times&rpar;](http://www.techmeme.com/250116/p37#a250116p37)<!-- TECH:END -->
+ - [Meet the brothers who built NYC’s favorite congestion pricing tracking tool](https://www.theverge.com/2025/1/16/24344732/nyc-congestion-pricing-tracker-data-google-maps)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

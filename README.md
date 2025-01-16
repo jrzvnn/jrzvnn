@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Sources: crypto executives have offered input to David Sacks on a possible Trump EO that covers several areas of crypto policy, including a Bitcoin stockpile &lpar;David Yaffe-Bellany/New York Times&rpar;](http://www.techmeme.com/250116/p37#a250116p37)
  - [New iPhone SE 4 dummy models hint at design &amp; color updates](https://appleinsider.com/articles/25/01/16/new-iphone-se-4-dummy-models-hint-at-design-color-updates?utm_medium=rss)
  - [Check Out These Extraordinary New Images of Mercury](https://www.wired.com/gallery/images-of-mercury-bepicolombo-mission/)
  - [A look at the legal dispute between Walgreens and Cooler Screens, which installed 10,000 smart doors that track shoppers and show ads at Walgreens&#39; US stores &lpar;Austin Carr/Bloomberg&rpar;](http://www.techmeme.com/250116/p36#a250116p36)
- - [Tech’s shift to Trump: all the companies and execs kissing the ring](https://www.theverge.com/2025/1/16/24345174/tech-leaders-companies-support-donald-trump-presidency)
- - [Here are the most likely TikTok alternatives, should it get banned](https://appleinsider.com/articles/25/01/16/here-are-the-most-likely-tiktok-alternatives-should-it-get-banned?utm_medium=rss)<!-- TECH:END -->
+ - [Tech’s shift to Trump: all the companies and execs kissing the ring](https://www.theverge.com/2025/1/16/24345174/tech-leaders-companies-support-donald-trump-presidency)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

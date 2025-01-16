@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Choose your fighter](http://9gag.com/gag/aQzzP0K)
- - 😝 [Life finds a way](http://9gag.com/gag/amooX4V)
- - 💣 [The king&#39;s speech](http://9gag.com/gag/azxxg0m)
- - 😝 [This is the moment when Rocky is loaded onto the DPS helicopter. Rocky is a U.S. Marshal K9 who was shot after sniffing out a suspect in a dumpster. He is expected to survive. And he is celebrated as a hero.](http://9gag.com/gag/a9yyd0K)
- - 👉 [Cosplay](http://9gag.com/gag/aPAAw7P)<!-- MEMES:END -->
+ - 😝 [Our LED man](http://9gag.com/gag/a1mmAvw)
+ - 😝 [Woman wins $250K on a scratch-off ticket at a gas station](http://9gag.com/gag/ae99jzB)
+ - 💣 [Spider-Man!!](http://9gag.com/gag/a877dep)
+ - 😝 [Robber in Pakistan gets beat down](http://9gag.com/gag/aXPn8R6)
+ - 👉 [Respect this man](http://9gag.com/gag/a6ZZmqL)<!-- MEMES:END -->
 
 ---
 

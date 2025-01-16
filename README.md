@@ -158,10 +158,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- TECH:START -->
  - [Source: Meta CTO Andrew Bosworth told staff that some of Meta&#39;s changes were &quot;pretty ham-fisted, borderline unintentional&quot; and Meta is planning some corrections &lpar;Kalley Huang/The Information&rpar;](http://www.techmeme.com/250116/p47#a250116p47)
- - [Third-party iPad smart connector accessories working again with latest iPadOS 18.3 beta](https://appleinsider.com/articles/25/01/16/third-party-ipad-smart-connector-accessories-working-again-with-latest-ipados-183-beta?utm_medium=rss)
- - [Sources: Zuckerberg told Stephen Miller that he would do nothing to obstruct Trump&#39;s agenda and blamed Sheryl Sandberg for an inclusivity initiative at Facebook &lpar;New York Times&rpar;](http://www.techmeme.com/250116/p46#a250116p46)
- - [Want to Play the Switch 2 Before It Comes Out? Here&#39;s How](https://www.cnet.com/tech/gaming/want-to-play-the-switch-2-before-it-comes-out-heres-how/#ftag=CAD590a51e)
- - [PocketSmith Review 2025: Best Budgeting App for Long-Range Forecasting](https://www.cnet.com/personal-finance/banking/pocketsmith/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Today&#39;s NYT Connections Hints, Answers and Help for Jan. 17, #586](https://www.cnet.com/tech/gaming/todays-nyt-connections-hints-answers-and-help-for-jan-17-586/#ftag=CAD590a51e)
+ - [Today&#39;s Wordle Hints, Answer and Help for Jan. 17, #1308](https://www.cnet.com/tech/gaming/todays-wordle-hints-answer-and-help-for-jan-17-1308/#ftag=CAD590a51e)
+ - [Best Internet Providers in Naples, Florida](https://www.cnet.com/home/internet/best-internet-providers-in-naples-fl/#ftag=CAD590a51e)
+ - [UFC 311 Islam Makhachev vs. Arman Tsarukyan 2: Watch Livestream, Start Time, Full Card](https://www.cnet.com/tech/services-and-software/ufc-311-islam-makhachev-vs-arman-tsarukyan-2-watch-livestream-start-time-full-card/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

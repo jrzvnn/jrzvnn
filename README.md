@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Four current Meta employees, citing internal discussions, say the actual number of full-time staff who will have to relocate from California to Texas is limited &lpar;Paresh Dave/Wired&rpar;](http://www.techmeme.com/250116/p17#a250116p17)
- - [Google agreed to buy 100K tons of CO2 removal credits from Indian startup Varaha for an undisclosed sum, marking its first deal with a carbon project in India &lpar;Jagmeet Singh/TechCrunch&rpar;](http://www.techmeme.com/250116/p16#a250116p16)
- - [Insight Partners raised $12.5B for its 13th flagship fund, down from its initial target of $20B, making it one of the biggest tech-focused funds &lpar;Kate Clark/Bloomberg&rpar;](http://www.techmeme.com/250116/p15#a250116p15)
- - [Biden&#39;s Cyber Ambassador Urges Trump Not to Cede Ground to Russia and China in Global Tech Fight](https://www.wired.com/story/nathaniel-fick-us-cyber-ambassador-exit-interview/)
- - [Joe Biden plans to issue a cybersecurity EO to improve the way the government monitors its networks, buys software, uses AI, and punishes foreign hackers &lpar;Eric Geller/Wired&rpar;](http://www.techmeme.com/250116/p13#a250116p13)<!-- TECH:END -->
+ - [Apple Card servicing may get taken over by Barclays, Synchrony](https://appleinsider.com/articles/25/01/16/apple-card-servicing-may-get-taken-over-by-barclays-synchrony?utm_medium=rss)
+ - [Brokerage firm IG Group acquires UK trading app Freetrade for &amp;pound;160M; Freetrade raised ~&amp;pound;30m via crowdfunding and was valued at &amp;pound;650m in 2021 during the pandemic &lpar;John Reynolds/Tech.eu&rpar;](http://www.techmeme.com/250116/p21#a250116p21)
+ - [UK&#39;s Ofcom imposes robust age checks on porn sites, which could include photo ID matching, facial age estimation technology, and credit card checks &lpar;Daniel Thomas/Financial Times&rpar;](http://www.techmeme.com/250116/p20#a250116p20)
+ - [Anduril plans to build a $1B factory in Columbus, Ohio called Arsenal-1 to eventually produce tens of thousands of autonomous systems and weapons each year &lpar;New York Times&rpar;](http://www.techmeme.com/250116/p19#a250116p19)
+ - [China plans to probe whether the US gives its chipmakers an unfair advantage through grants or undercuts Chinese products illegally, escalating the chip war &lpar;Bloomberg&rpar;](http://www.techmeme.com/250116/p18#a250116p18)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

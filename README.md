@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: the biggest shareholders of viral app Xiaohongshu, or RedNote, are in talks to sell part of their holdings at a valuation of at least $20B &lpar;Bloomberg&rpar;](http://www.techmeme.com/250116/p24#a250116p24)
- - [NOYB files complaints against AliExpress, Shein, TikTok, Xiaomi, Temu, and WeChat over claims they are unlawfully sending EU user data to China &lpar;Reuters&rpar;](http://www.techmeme.com/250116/p23#a250116p23)
- - [Apple Card may get taken over by Barclays, Synchrony](https://appleinsider.com/articles/25/01/16/apple-card-servicing-may-get-taken-over-by-barclays-synchrony?utm_medium=rss)
- - [The 13 Best Meal Kit Delivery Services &lpar;2025&rpar; Tested and Reviewed](https://www.wired.com/gallery/best-meal-kit-services/)
- - [Docker flagged as malware in macOS in file signing snafu](https://appleinsider.com/articles/25/01/16/docker-flagged-as-malware-in-macos-in-file-signing-snafu?utm_medium=rss)<!-- TECH:END -->
+ - [Nintendo teases the Switch 2, featuring a new kickstand design and backward compatibility for physical and digital games, with more details on April 2, 2025 &lpar;Jay Peters/The Verge&rpar;](http://www.techmeme.com/250116/p26#a250116p26)
+ - [Nintendo announces Switch 2 Direct for April](https://www.theverge.com/2025/1/16/24236766/nintendo-switch-2-games-direct-date-time)
+ - [Nintendo Switch 2 announcement: all the news on the next console](https://www.theverge.com/24284512/nintendo-switch-2-direct-news-trailers-games-features)
+ - [The Nintendo Switch 2 supports original Switch cartridges](https://www.theverge.com/2025/1/16/24343666/nintendo-switch-2-cartridge-backwards-compatibility)
+ - [E-commerce marketing startup Rokt agrees a secondary share sale at a $3.5B valuation ahead of a 2026 IPO, and acquires customer data startup mParticle for $300M &lpar;Maggie Eastland/Bloomberg&rpar;](http://www.techmeme.com/250116/p25#a250116p25)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

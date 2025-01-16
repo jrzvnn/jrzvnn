@@ -167,10 +167,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [What a huge\u2026huge\u2026accomplishment](http://9gag.com/gag/adBPEgZ)
- - 😝 [Being a self-mechanic](http://9gag.com/gag/aGyEWrz)
- - 💣 [Work Problems](http://9gag.com/gag/a4PoDxd)
- - 😝 [Physicist Galen Winsor eats uranium on live television in 1985 to show that it\u2019s \u201charmless\u201d.](http://9gag.com/gag/aByd7ZA)
- - 👉 [Focus!](http://9gag.com/gag/a34Zow7)<!-- MEMES:END -->
+ - 😝 [Take two and call me in the morning...](http://9gag.com/gag/ayN2g4r)
+ - 💣 [Focus!](http://9gag.com/gag/a34Zow7)
+ - 😝 [Reminder of this gem. She had window installed and said she didn\u2019t like it and wanted her money back. He paid her back and took care of window.](http://9gag.com/gag/a0e4mOB)
+ - 👉 [What a clearance](http://9gag.com/gag/a5QX80g)<!-- MEMES:END -->
 
 ---
 

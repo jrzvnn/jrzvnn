@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Best Internet Providers in Palm Coast, Florida](https://www.cnet.com/home/internet/best-internet-providers-in-palm-coast-fl/#ftag=CAD590a51e)
  - [A New Jam-Packed Biden Executive Order Tackles Cybersecurity, AI, and More](https://www.wired.com/story/biden-executive-order-cybersecurity-ai-and-more/)
+ - [The Clock Is Ticking on High APYs. Today&#39;s CD Rates, Jan. 16, 2025](https://www.cnet.com/personal-finance/banking/the-clock-is-ticking-on-high-apys-todays-cd-rates-jan-16-2025/#ftag=CAD590a51e)
  - [Canalys: China smartphone shipments rose 4% YoY to 285M units in 2024, with Vivo up 11% to a 17% market share, Huawei up 37% to 16%, and Apple down 17% to 15% &lpar;William Langley/Financial Times&rpar;](http://www.techmeme.com/250116/p10#a250116p10)
- - [Source: over 700K new users joined Xiaohongshu, or RedNote, in just two days; Sensor Tower: the app&#39;s US downloads were up more than 200% YoY this week &lpar;Reuters&rpar;](http://www.techmeme.com/250116/p9#a250116p9)
- - [In a deposition for the Kadrey v. Meta copyright case, Mark Zuckerberg seemingly cited YouTube to justify Meta&#39;s use of copyrighted data for AI training &lpar;TechCrunch&rpar;](http://www.techmeme.com/250116/p8#a250116p8)
- - [India has deployed AI and other tech at the Maha Kumbh Mela in Prayagraj to ensure the safety of ~450M pilgrims and trace missing people during the festival &lpar;Bloomberg&rpar;](http://www.techmeme.com/250116/p7#a250116p7)<!-- TECH:END -->
+ - [Today&#39;s NYT Connections Hints, Answers and Help for Jan. 16, #585](https://www.cnet.com/tech/gaming/todays-nyt-connections-hints-answers-and-help-for-jan-16-585/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

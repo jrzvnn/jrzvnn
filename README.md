@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Doc: FBI leaders have warned that they believe the hackers who broke into AT&amp;T&#39;s system last year stole months of their agents&#39; call and text logs &lpar;Bloomberg&rpar;](http://www.techmeme.com/250116/p44#a250116p44)
  - [Tech trade groups NetChoice and TechNet sue CFPB for its efforts to regulate digital payment apps like Apple Pay, Google Wallet, and Venmo more like banks &lpar;Gaby Del Valle/The Verge&rpar;](http://www.techmeme.com/250116/p43#a250116p43)
  - [Apple pulls notification summaries for news &amp; entertainment categories in latest betas](https://appleinsider.com/articles/25/01/16/apple-pulls-notification-summaries-for-news-entertainment-categories-in-latest-betas?utm_medium=rss)
  - [Will RedNote get banned in the US?](https://www.theverge.com/2025/1/16/24345175/rednote-tiktok-alternative-divest-ban-law-trump)
- - [CFPB announces a $175M settlement with Block, including $120M in refunds to consumers, saying Cash App allowed rampant fraud while misleading its customers &lpar;Leo Schwartz/Fortune&rpar;](http://www.techmeme.com/250116/p42#a250116p42)
- - [CFPB sued for trying to regulate digital payment apps more like banks](https://www.theverge.com/2025/1/16/24345310/cfpb-digital-payment-apps-rule-lawsuit-technet-netchoice)<!-- TECH:END -->
+ - [CFPB announces a $175M settlement with Block, including $120M in refunds to consumers, saying Cash App allowed rampant fraud while misleading its customers &lpar;Leo Schwartz/Fortune&rpar;](http://www.techmeme.com/250116/p42#a250116p42)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

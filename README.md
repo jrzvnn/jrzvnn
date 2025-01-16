@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Source: Meta CTO Andrew Bosworth told staff that some of Meta&#39;s changes were &quot;pretty ham-fisted, borderline unintentional&quot; and Meta is planning some corrections &lpar;Kalley Huang/The Information&rpar;](http://www.techmeme.com/250116/p47#a250116p47)
  - [Third-party iPad smart connector accessories working again with latest iPadOS 18.3 beta](https://appleinsider.com/articles/25/01/16/third-party-ipad-smart-connector-accessories-working-again-with-latest-ipados-183-beta?utm_medium=rss)
  - [Sources: Zuckerberg told Stephen Miller that he would do nothing to obstruct Trump&#39;s agenda and blamed Sheryl Sandberg for an inclusivity initiative at Facebook &lpar;New York Times&rpar;](http://www.techmeme.com/250116/p46#a250116p46)
  - [Want to Play the Switch 2 Before It Comes Out? Here&#39;s How](https://www.cnet.com/tech/gaming/want-to-play-the-switch-2-before-it-comes-out-heres-how/#ftag=CAD590a51e)
- - [PocketSmith Review 2025: Best Budgeting App for Long-Range Forecasting](https://www.cnet.com/personal-finance/banking/pocketsmith/#ftag=CAD590a51e)
- - [CashApp Fined $175 Million for Not Stopping Fraud. Find Out if You&#39;re Eligible for a Payment](https://www.cnet.com/personal-finance/cashapp-fined-175-million-for-not-stopping-fraud-find-out-if-youre-eligible-for-a-payment/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [PocketSmith Review 2025: Best Budgeting App for Long-Range Forecasting](https://www.cnet.com/personal-finance/banking/pocketsmith/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

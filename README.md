@@ -161,7 +161,7 @@ R                        1 repo              ░░░░░░░░░░░�
  - [Google agreed to buy 100K tons of CO2 removal credits from Indian startup Varaha for an undisclosed sum, marking its first deal with a carbon project in India &lpar;Jagmeet Singh/TechCrunch&rpar;](http://www.techmeme.com/250116/p16#a250116p16)
  - [Insight Partners raised $12.5B for its 13th flagship fund, down from its initial target of $20B, making it one of the biggest tech-focused funds &lpar;Kate Clark/Bloomberg&rpar;](http://www.techmeme.com/250116/p15#a250116p15)
  - [Biden&#39;s Cyber Ambassador Urges Trump Not to Cede Ground to Russia and China in Global Tech Fight](https://www.wired.com/story/nathaniel-fick-us-cyber-ambassador-exit-interview/)
- - [Joe Biden issues a cybersecurity executive order to improve the way the government monitors its networks, buys software, uses AI, and punishes foreign hackers &lpar;Eric Geller/Wired&rpar;](http://www.techmeme.com/250116/p13#a250116p13)<!-- TECH:END -->
+ - [Joe Biden plans to issue a cybersecurity EO to improve the way the government monitors its networks, buys software, uses AI, and punishes foreign hackers &lpar;Eric Geller/Wired&rpar;](http://www.techmeme.com/250116/p13#a250116p13)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

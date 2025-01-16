@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [In Istanbul,a dog brought her puppy,whose heart had stopped due to the cold,to the veterinarian](http://9gag.com/gag/aqyev3j)
- - 😝 [Almost double of her weight, and that is not a lady boy](http://9gag.com/gag/awyZqAx)
- - 💣 [Great news! The US House Passes Bill Banning Trans Women From Competing In Women\u2019s School Sports!](http://9gag.com/gag/aRBExQ5)
- - 😝 [Reminder of this gem. She had window installed and said she didn\u2019t like it and wanted her money back. He paid her back and took care of window.](http://9gag.com/gag/a0e4mOB)
- - 👉 [Dear Tech Companies,](http://9gag.com/gag/aPAgOGV)<!-- MEMES:END -->
+ - 😝 [Humans: *wonder how mouse, bear, and other animals fall into obvious traps Also humans:](http://9gag.com/gag/aoyKb02)
+ - 😝 [When she finally invites you over...](http://9gag.com/gag/a4Poe5m)
+ - 💣 [Gohan... my man](http://9gag.com/gag/aMVE3GP)
+ - 😝 [Wet water is wet](http://9gag.com/gag/aGyyKEZ)
+ - 👉 [And the Darwin Award goes to:](http://9gag.com/gag/aPAgOXB)<!-- MEMES:END -->
 
 ---
 

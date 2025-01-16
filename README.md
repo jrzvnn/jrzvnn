@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Razer Is Sending Out Checks for Its Falsely Labeled N95 Zephyr Masks](https://www.cnet.com/tech/razer-is-sending-out-checks-for-its-falsely-labeled-n95-zephyr-masks/#ftag=CAD590a51e)
- - [Here&#39;s How to See Six or Seven Planets in a Dazzling Planet Parade](https://www.cnet.com/science/how-to-see-january-21-planet-parade-of-six-seven-planets-mark-your-calendars-skygazing/#ftag=CAD590a51e)
- - [The Supreme Court could decide the fate of Pornhub — and the rest of the internet](https://www.theverge.com/2025/1/15/24344584/supreme-court-fsc-paxton-oral-arguments-pornhub-age-verification)
- - [Best Internet Providers in Bradenton, Florida](https://www.cnet.com/home/internet/best-internet-providers-in-bradenton-fl/#ftag=CAD590a51e)
- - [Buckle-Free Dual BOA Ski Boots Are Here and They Have an Ingenious Design](https://www.cnet.com/health/fitness/buckle-free-dual-boa-ski-boots-are-here-and-they-have-an-ingenious-design/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [BitMEX is fined an additional $100M for US Bank Secrecy Act violations between 2015 and 2020; it pleaded guilty in July 2024 and previously agreed to pay $110M &lpar;Daniel Kuhn/The Block&rpar;](http://www.techmeme.com/250115/p39#a250115p39)
+ - [As TikTok Ban Nears, Peeved Users Flock to Other Chinese Social Media Apps](https://www.cnet.com/tech/services-and-software/as-tiktok-ban-nears-peeved-users-flock-to-other-chinese-social-media-apps/#ftag=CAD590a51e)
+ - [Samsung&#39;s Galaxy S25 Unpacked Event: How to Watch and What to Expect](https://www.cnet.com/tech/mobile/samsungs-galaxy-s25-unpacked-event-how-to-watch-and-what-to-expect/#ftag=CAD590a51e)
+ - [The original Kindle Scribe is more than $100 off in refurbished condition](https://www.theverge.com/2025/1/15/24343505/kindle-scribe-ebook-reader-beats-powerbeats-pro-deal-sale)
+ - [After Days Using the 2025 Asus ROG Flow Z13, I Think It&#39;s Still Pretty Nichey](https://www.cnet.com/tech/computing/after-days-using-the-2025-asus-rog-flow-z13-i-think-its-still-pretty-nichey/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

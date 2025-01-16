@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [India has deployed AI and other tech at the Maha Kumbh Mela in Prayagraj to ensure the safety of ~450M pilgrims and trace missing people during the festival &lpar;Bloomberg&rpar;](http://www.techmeme.com/250116/p7#a250116p7)
  - [Amazon acquires Indian BNPL startup Axio for an undisclosed sum; Axio raised $232M in equity and debt, claims 10M+ customers, and a loan book exceeding $260M &lpar;Manish Singh/TechCrunch&rpar;](http://www.techmeme.com/250116/p6#a250116p6)
  - [Blue Origin successfully launches its SpaceX rival](https://www.theverge.com/2025/1/16/24342567/blue-origin-launch-sucessful)
  - [Sources: TikTok CEO Shou Chew plans to attend Trump&#39;s inauguration after being invited to sit on the dais, joining Mark Zuckerberg and Elon Musk at the event &lpar;New York Times&rpar;](http://www.techmeme.com/250116/p5#a250116p5)
- - [TSMC reports Q4 sales up 38.8% YoY to ~$26.38B, net income up 57% YoY to ~$11.4B, both above estimates; stock jumped 80%+ in 2024, its biggest gain since 1999 &lpar;Jane Lanhee Lee/Bloomberg&rpar;](http://www.techmeme.com/250116/p4#a250116p4)
- - [Jio Platforms partners with Polygon Labs to integrate Web3 and blockchain services into Jio&#39;s apps and services; Jio Platforms has over 450M users in India &lpar;Omkar Godbole/CoinDesk&rpar;](http://www.techmeme.com/250116/p3#a250116p3)<!-- TECH:END -->
+ - [TSMC reports Q4 sales up 38.8% YoY to ~$26.38B, net income up 57% YoY to ~$11.4B, both above estimates; stock jumped 80%+ in 2024, its biggest gain since 1999 &lpar;Jane Lanhee Lee/Bloomberg&rpar;](http://www.techmeme.com/250116/p4#a250116p4)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

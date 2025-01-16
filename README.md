@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Sony’s black PlayStation 5 accessories are now available for preorder](https://www.theverge.com/24345367/sony-black-dualsense-edge-pulse-explore-elite-playstation-portal-preorder-buy-release-date)
+ - [An Entire Book Was Written in DNA—and You Can Buy It for $60](https://www.wired.com/story/entire-book-written-in-dna-buy-it-60-dollars/)
  - [Third iOS 18.3, iPadOS 18.3, macOS 15.3 developer betas finally arrive](https://appleinsider.com/articles/25/01/16/third-ios-183-ipados-183-macos-153-developer-betas-finally-arrive?utm_medium=rss)
  - [GM banned from selling your driving data for five years](https://www.theverge.com/2025/1/16/24345470/gm-banned-selling-driving-data-insurance-ftc)
- - [Biden punts the TikTok ban to Trump](https://www.theverge.com/2025/1/16/24345461/biden-punts-tiktok-ban-trump)
- - [The Nintendo Switch 2 Is Playing It Safe. That’s the Smart Choice](https://www.wired.com/story/nintendo-switch-2-is-playing-it-safe-thats-the-smart-choice/)
- - [SpaceX is about to attempt its seventh Starship rocket launch](https://www.theverge.com/24345430/spacex-starship-rocket-launch-time-watch-live)<!-- TECH:END -->
+ - [Biden punts the TikTok ban to Trump](https://www.theverge.com/2025/1/16/24345461/biden-punts-tiktok-ban-trump)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

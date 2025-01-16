@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Yes, better close it](http://9gag.com/gag/aKGEr9N)
- - 😝 [Liberals in a nutshell.... We only do virtue signalling... Others have to do the sacrifice...](http://9gag.com/gag/aMVEg4V)
- - 💣 [Nice](http://9gag.com/gag/an7zAXb)
- - 😝 [It is what it is](http://9gag.com/gag/an77ejb)
- - 👉 [When she finally invites you over...](http://9gag.com/gag/a4Poe5m)<!-- MEMES:END -->
+ - 😝 [`Please compensate our employees for hard work so we can NOT pay them more`](http://9gag.com/gag/azx2NEj)
+ - 😝 [How Yugi always wins](http://9gag.com/gag/aVvbnQO)
+ - 💣 [Today I lost my certification](http://9gag.com/gag/a0e4mMB)
+ - 😝 [Physicist Galen Winsor eats uranium on live television in 1985 to show that it\u2019s \u201charmless\u201d.](http://9gag.com/gag/aByd7ZA)
+ - 👉 [How to repair a tire puncture](http://9gag.com/gag/aYQV2mq)<!-- MEMES:END -->
 
 ---
 

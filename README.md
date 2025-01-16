@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple Card servicing may get taken over by Barclays, Synchrony](https://appleinsider.com/articles/25/01/16/apple-card-servicing-may-get-taken-over-by-barclays-synchrony?utm_medium=rss)
- - [Brokerage firm IG Group acquires UK trading app Freetrade for &amp;pound;160M; Freetrade raised ~&amp;pound;30m via crowdfunding and was valued at &amp;pound;650m in 2021 during the pandemic &lpar;John Reynolds/Tech.eu&rpar;](http://www.techmeme.com/250116/p21#a250116p21)
- - [UK&#39;s Ofcom imposes robust age checks on porn sites, which could include photo ID matching, facial age estimation technology, and credit card checks &lpar;Daniel Thomas/Financial Times&rpar;](http://www.techmeme.com/250116/p20#a250116p20)
- - [Anduril plans to build a $1B factory in Columbus, Ohio called Arsenal-1 to eventually produce tens of thousands of autonomous systems and weapons each year &lpar;New York Times&rpar;](http://www.techmeme.com/250116/p19#a250116p19)
- - [China plans to probe whether the US gives its chipmakers an unfair advantage through grants or undercuts Chinese products illegally, escalating the chip war &lpar;Bloomberg&rpar;](http://www.techmeme.com/250116/p18#a250116p18)<!-- TECH:END -->
+ - [Sources: the biggest shareholders of viral app Xiaohongshu, or RedNote, are in talks to sell part of their holdings at a valuation of at least $20B &lpar;Bloomberg&rpar;](http://www.techmeme.com/250116/p24#a250116p24)
+ - [NOYB files complaints against AliExpress, Shein, TikTok, Xiaomi, Temu, and WeChat over claims they are unlawfully sending EU user data to China &lpar;Reuters&rpar;](http://www.techmeme.com/250116/p23#a250116p23)
+ - [Apple Card may get taken over by Barclays, Synchrony](https://appleinsider.com/articles/25/01/16/apple-card-servicing-may-get-taken-over-by-barclays-synchrony?utm_medium=rss)
+ - [The 13 Best Meal Kit Delivery Services &lpar;2025&rpar; Tested and Reviewed](https://www.wired.com/gallery/best-meal-kit-services/)
+ - [Docker flagged as malware in macOS in file signing snafu](https://appleinsider.com/articles/25/01/16/docker-flagged-as-malware-in-macos-in-file-signing-snafu?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

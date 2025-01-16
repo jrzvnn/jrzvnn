@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Trump&#39;s team promises to keep TikTok from being banned](https://appleinsider.com/articles/25/01/16/trumps-team-promises-to-keep-tiktok-from-being-banned?utm_medium=rss)
+ - [Apple is pausing notification summaries for news in the latest iOS 18.3 beta](https://www.theverge.com/2025/1/16/24345331/apple-notification-summaries-pause-news-ios-18-3-beta)
+ - [Apple disables notification summaries for News &amp; Entertainment apps in iOS 18.3 beta and makes other changes to summaries, including using italicized text &lpar;Chance Miller/9to5Mac&rpar;](http://www.techmeme.com/250116/p45#a250116p45)
  - [Here are the best Apple Watch deals right now](https://www.theverge.com/21289209/best-apple-watch-deals)
- - [Doc: FBI leaders have warned that they believe the hackers who broke into AT&amp;T&#39;s system last year stole months of their agents&#39; call and text logs &lpar;Bloomberg&rpar;](http://www.techmeme.com/250116/p44#a250116p44)
- - [Tech trade groups NetChoice and TechNet sue CFPB for its efforts to regulate digital payment apps like Apple Pay, Google Wallet, and Venmo more like banks &lpar;Gaby Del Valle/The Verge&rpar;](http://www.techmeme.com/250116/p43#a250116p43)
- - [Apple pulls notification summaries for news &amp; entertainment categories in latest betas](https://appleinsider.com/articles/25/01/16/apple-pulls-notification-summaries-for-news-entertainment-categories-in-latest-betas?utm_medium=rss)
- - [Will RedNote get banned in the US?](https://www.theverge.com/2025/1/16/24345175/rednote-tiktok-alternative-divest-ban-law-trump)<!-- TECH:END -->
+ - [Every Tesla Cybertruck Recall Since the Vehicle Was Released](https://www.cnet.com/roadshow/news/every-tesla-cybertruck-recall-thats-happened-so-far/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

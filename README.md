@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Today&#39;s NYT Mini Crossword Answers for Thursday, Jan. 16](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-thursday-jan-16/#ftag=CAD590a51e)
  - [Germany-based Neura Robotics, which is building cognitive, humanoid robots for logistics and other sectors, raised a &amp;euro;120M Series B led by Lingotto Investment &lpar;Yazhou Sun/Bloomberg&rpar;](http://www.techmeme.com/250115/p45#a250115p45)
  - [How to turn off Apple Intelligence Report in macOS](https://appleinsider.com/inside/apple-intelligence/tips/how-to-turn-off-apple-intelligence-report-in-macos?utm_medium=rss)
- - [Chinese AI company MiniMax, which has raised ~$850M, debuts three LLMs, including a 456B-parameter model that it claims performs better than Gemini 2.0 Flash &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/250115/p44#a250115p44)
- - [The US Commerce Department adds 25 China-based companies, including Alibaba-backed LLM developer Zhipu AI and chip designer Sophgo, to its restricted trade list &lpar;Karen Freifeld/Reuters&rpar;](http://www.techmeme.com/250115/p43#a250115p43)
- - [During oral arguments, SCOTUS seemed open to a Texas law requiring age checks to view online porn, but could send the case back to a lower court &lpar;Lindsay Whitehurst/Associated Press&rpar;](http://www.techmeme.com/250115/p42#a250115p42)<!-- TECH:END -->
+ - [Today&#39;s NYT Connections: Sports Edition Hints and Answers for Jan. 16, #115](https://www.cnet.com/tech/gaming/todays-nyt-connections-sports-edition-hints-and-answers-for-jan-16-115/#ftag=CAD590a51e)
+ - [Today&#39;s NYT Strands Hints, Answers and Help for Jan. 16, #319](https://www.cnet.com/tech/gaming/todays-nyt-strands-hints-answers-and-help-for-jan-16-319/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

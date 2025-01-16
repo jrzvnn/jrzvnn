@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Coinbase adds bitcoin-backed loans in the US through Morpho, a lending platform on its Base network; borrowers will post collateral and not rely on credit score &lpar;Danny Nelson/CoinDesk&rpar;](http://www.techmeme.com/250116/p31#a250116p31)
  - [AT&amp;T stops 5G Internet Air service in New York, as a new law mandates monthly broadband rates of $15 for 25Mbps or $20 for 200Mbps for low-income residents &lpar;Eli Blumenthal/CNET&rpar;](http://www.techmeme.com/250116/p30#a250116p30)
  - [Nvidia announces new Nvidia Inference Microservices aimed at helping enterprises develop AI agents to address issues of trust, security, and safety &lpar;Kyt Dotson/SiliconANGLE&rpar;](http://www.techmeme.com/250116/p29#a250116p29)
  - [An interview with Replit CEO Amjad Masad, who says the company&#39;s revenue grew 5x over the past six months after releasing a new AI coding tool called Agent &lpar;Reed Albergotti/Semafor&rpar;](http://www.techmeme.com/250116/p28#a250116p28)
- - [Lovense Osci 3 Review: A Vibrator That Warms Up](https://www.wired.com/review/lovense-osci-3/)
- - [What Spotify took from us by giving us everything](https://www.theverge.com/2025/1/16/24344429/spotify-streaming-book-mood-machine)<!-- TECH:END -->
+ - [Lovense Osci 3 Review: A Vibrator That Warms Up](https://www.wired.com/review/lovense-osci-3/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

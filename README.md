@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Cosplay](http://9gag.com/gag/aPAAw7P)
- - 😝 [Costly mistake](http://9gag.com/gag/awyy0Nx)
- - 💣 [Nice](http://9gag.com/gag/an7zAXb)
- - 😝 [`Please compensate our employees for hard work so we can NOT pay them more`](http://9gag.com/gag/azx2NEj)
- - 👉 [Robber in Pakistan gets beat down](http://9gag.com/gag/aXPn8R6)<!-- MEMES:END -->
+ - 😝 [Wet water is wet](http://9gag.com/gag/aGyyKEZ)
+ - 😝 [Respect this man](http://9gag.com/gag/a6ZZmqL)
+ - 💣 [Cosplay](http://9gag.com/gag/aPAAw7P)
+ - 😝 [For anyone asking, what happened to America?](http://9gag.com/gag/a877d6V)
+ - 👉 [What a clearance](http://9gag.com/gag/a5QX80g)<!-- MEMES:END -->
 
 ---
 

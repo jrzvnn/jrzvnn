@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Bad man . . .](http://9gag.com/gag/ae99jG5)
- - 😝 [Wet water is wet](http://9gag.com/gag/aGyyKEZ)
- - 💣 [Laser etching over a name](http://9gag.com/gag/aAy0WwZ)
- - 😝 [For anyone asking, what happened to America?](http://9gag.com/gag/a877d6V)
- - 👉 [Respect this man](http://9gag.com/gag/a6ZZmqL)<!-- MEMES:END -->
+ - 😝 [Costly mistake](http://9gag.com/gag/awyy0Nx)
+ - 😝 [I will never forget when people thought they were gonna raid Area 51 lol](http://9gag.com/gag/ayN2gRp)
+ - 💣 [Wet water is wet](http://9gag.com/gag/aGyyKEZ)
+ - 😝 [Swimming date is the best date; change my mind](http://9gag.com/gag/ajPPQxR)
+ - 👉 [Testing Boomerangs with 1-6 Wings](http://9gag.com/gag/a9yyjD0)<!-- MEMES:END -->
 
 ---
 

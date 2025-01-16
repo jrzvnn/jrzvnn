@@ -170,7 +170,7 @@ R                        1 repo              ░░░░░░░░░░░�
  - 😝 [Almost double of her weight, and that is not a lady boy](http://9gag.com/gag/awyZqAx)
  - 💣 [Great news! The US House Passes Bill Banning Trans Women From Competing In Women\u2019s School Sports!](http://9gag.com/gag/aRBExQ5)
  - 😝 [Reminder of this gem. She had window installed and said she didn\u2019t like it and wanted her money back. He paid her back and took care of window.](http://9gag.com/gag/a0e4mOB)
- - 👉 [Focus!](http://9gag.com/gag/a34Zow7)<!-- MEMES:END -->
+ - 👉 [Dear Tech Companies,](http://9gag.com/gag/aPAgOGV)<!-- MEMES:END -->
 
 ---
 

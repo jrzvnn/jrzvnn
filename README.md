@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Dudes, i might have found most believable hidden door design.](http://9gag.com/gag/awyZqGB)
- - 😝 [Bad man . . .](http://9gag.com/gag/ae99jG5)
- - 💣 [It is what it is](http://9gag.com/gag/an77ejb)
+ - 😝 [Removing barnacles from Benson the turtles \ud83d\udc22 shell.](http://9gag.com/gag/azxx7yZ)
  - 😝 [Choose your fighter](http://9gag.com/gag/aQzzP0K)
- - 👉 [The king&#39;s speech](http://9gag.com/gag/azxxg0m)<!-- MEMES:END -->
+ - 💣 [Respect this man](http://9gag.com/gag/a6ZZmqL)
+ - 😝 [Testing Boomerangs with 1-6 Wings](http://9gag.com/gag/a9yyjD0)
+ - 👉 [Why do Americans build with wood?](http://9gag.com/gag/a7ooL9A)<!-- MEMES:END -->
 
 ---
 

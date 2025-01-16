@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [And the Darwin Award goes to:](http://9gag.com/gag/aPAgOXB)
- - 😝 [Bruce got pied](http://9gag.com/gag/aNDw6AA)
- - 💣 [A Paris theatre is facing bankruptcy after inviting 250 illegal immigrants to a free screening. After the performance, they barricaded themselves in and have been living in the building for five weeks.](http://9gag.com/gag/a34ZoMN)
- - 😝 [Today I lost my certification](http://9gag.com/gag/a0e4mMB)
- - 👉 [Physicist Galen Winsor eats uranium on live television in 1985 to show that it\u2019s \u201charmless\u201d.](http://9gag.com/gag/aByd7ZA)<!-- MEMES:END -->
+ - 😝 [In Istanbul,a dog brought her puppy,whose heart had stopped due to the cold,to the veterinarian](http://9gag.com/gag/aqyev3j)
+ - 😝 [Great news! The US House Passes Bill Banning Trans Women From Competing In Women\u2019s School Sports!](http://9gag.com/gag/aRBExQ5)
+ - 💣 [Reminder of this gem. She had window installed and said she didn\u2019t like it and wanted her money back. He paid her back and took care of window.](http://9gag.com/gag/a0e4mOB)
+ - 😝 [Dear Tech Companies,](http://9gag.com/gag/aPAgOGV)
+ - 👉 [Focus!](http://9gag.com/gag/a34Zow7)<!-- MEMES:END -->
 
 ---
 

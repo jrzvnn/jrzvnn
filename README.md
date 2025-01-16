@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Time is running out in the Until Dawn movie’s new trailer](https://www.theverge.com/2025/1/16/24345133/sony-until-dawn-movie-trailer)
  - [Nubia Redmagic 10 Pro Review: Value for Gamers](https://www.wired.com/review/nubia-redmagic-10-pro/)
  - [Letter: Google told EU it will not add fact checks to search results and YouTube videos or use them in ranking or removing content, despite new EU requirements &lpar;Sara Fischer/Axios&rpar;](http://www.techmeme.com/250116/p33#a250116p33)
  - [Polestar announces Polestar 7 SUV amid flagging sales and regulatory hurdles](https://www.theverge.com/2025/1/16/24345084/polestar-7-compact-suv-q3-2024-earnings-ev-sales)
- - [US school districts hit by PowerSchool&#39;s December breach say hackers accessed &quot;all&quot; historical student and teacher data; PowerSchool has 50M+ US student records &lpar;Carly Page/TechCrunch&rpar;](http://www.techmeme.com/250116/p32#a250116p32)
- - [Game Porting Toolkit 2 exits beta to help developers move to macOS](https://appleinsider.com/articles/25/01/16/game-porting-toolkit-2-exits-beta-to-help-developers-move-to-macos?utm_medium=rss)<!-- TECH:END -->
+ - [US school districts hit by PowerSchool&#39;s December breach say hackers accessed &quot;all&quot; historical student and teacher data; PowerSchool has 50M+ US student records &lpar;Carly Page/TechCrunch&rpar;](http://www.techmeme.com/250116/p32#a250116p32)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [In Istanbul,a dog brought her puppy,whose heart had stopped due to the cold,to the veterinarian](http://9gag.com/gag/aqyev3j)
- - 😝 [Great news! The US House Passes Bill Banning Trans Women From Competing In Women\u2019s School Sports!](http://9gag.com/gag/aRBExQ5)
- - 💣 [Reminder of this gem. She had window installed and said she didn\u2019t like it and wanted her money back. He paid her back and took care of window.](http://9gag.com/gag/a0e4mOB)
- - 😝 [Dear Tech Companies,](http://9gag.com/gag/aPAgOGV)
- - 👉 [Focus!](http://9gag.com/gag/a34Zow7)<!-- MEMES:END -->
+ - 😝 [100% of 9gagers](http://9gag.com/gag/an7zLR0)
+ - 😝 [For anyone asking, what happened to America?](http://9gag.com/gag/a877d6V)
+ - 💣 [Nice](http://9gag.com/gag/an7zAXb)
+ - 😝 [What a clearance](http://9gag.com/gag/a5QX80g)
+ - 👉 [It is what it is](http://9gag.com/gag/an77ejb)<!-- MEMES:END -->
 
 ---
 

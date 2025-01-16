@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Letter: Google told EU it will not add fact checks to search results and YouTube videos or use them in ranking or removing content, despite new EU requirements &lpar;Sara Fischer/Axios&rpar;](http://www.techmeme.com/250116/p33#a250116p33)
+ - [Polestar announces Polestar 7 SUV amid flagging sales and regulatory hurdles](https://www.theverge.com/2025/1/16/24345084/polestar-7-compact-suv-q3-2024-earnings-ev-sales)
  - [US school districts hit by PowerSchool&#39;s December breach say hackers accessed &quot;all&quot; historical student and teacher data; PowerSchool has 50M+ US student records &lpar;Carly Page/TechCrunch&rpar;](http://www.techmeme.com/250116/p32#a250116p32)
  - [Game Porting Toolkit 2 exits beta to help developers move to macOS](https://appleinsider.com/articles/25/01/16/game-porting-toolkit-2-exits-beta-to-help-developers-move-to-macos?utm_medium=rss)
- - [Coinbase adds bitcoin-backed loans in the US through Morpho, a lending platform on its Base network; borrowers will post collateral and not rely on credit score &lpar;Danny Nelson/CoinDesk&rpar;](http://www.techmeme.com/250116/p31#a250116p31)
- - [AT&amp;T stops 5G Internet Air service in New York, as a new law mandates monthly broadband rates of $15 for 25Mbps or $20 for 200Mbps for low-income residents &lpar;Eli Blumenthal/CNET&rpar;](http://www.techmeme.com/250116/p30#a250116p30)
- - [Nvidia announces new Nvidia Inference Microservices aimed at helping enterprises develop AI agents to address issues of trust, security, and safety &lpar;Kyt Dotson/SiliconANGLE&rpar;](http://www.techmeme.com/250116/p29#a250116p29)<!-- TECH:END -->
+ - [Coinbase adds bitcoin-backed loans in the US through Morpho, a lending platform on its Base network; borrowers will post collateral and not rely on credit score &lpar;Danny Nelson/CoinDesk&rpar;](http://www.techmeme.com/250116/p31#a250116p31)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

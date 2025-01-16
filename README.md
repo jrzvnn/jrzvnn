@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Best Internet Providers in Palm Coast, Florida](https://www.cnet.com/home/internet/best-internet-providers-in-palm-coast-fl/#ftag=CAD590a51e)
- - [A New Jam-Packed Biden Executive Order Tackles Cybersecurity, AI, and More](https://www.wired.com/story/biden-executive-order-cybersecurity-ai-and-more/)
- - [The Clock Is Ticking on High APYs. Today&#39;s CD Rates, Jan. 16, 2025](https://www.cnet.com/personal-finance/banking/the-clock-is-ticking-on-high-apys-todays-cd-rates-jan-16-2025/#ftag=CAD590a51e)
- - [Canalys: China smartphone shipments rose 4% YoY to 285M units in 2024, with Vivo up 11% to a 17% market share, Huawei up 37% to 16%, and Apple down 17% to 15% &lpar;William Langley/Financial Times&rpar;](http://www.techmeme.com/250116/p10#a250116p10)
- - [Today&#39;s NYT Connections Hints, Answers and Help for Jan. 16, #585](https://www.cnet.com/tech/gaming/todays-nyt-connections-hints-answers-and-help-for-jan-16-585/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [TSMC says it will raise 2025 capital spending to $38B-$40B, an over 30% increase after three years of stagnation &lpar;Kathrin Hille/Financial Times&rpar;](http://www.techmeme.com/250116/p11#a250116p11)
+ - [GitHub’s Deepfake Porn Crackdown Still Isn’t Working](https://www.wired.com/story/githubs-deepfake-porn-crackdown-still-isnt-working/)
+ - [Masayoshi Son Bet Billions on the iPhone—3 Years Before It Existed](https://www.wired.com/story/softbank-masayoshi-son-bet-billions-iphone-steve-jobs/)
+ - [The Money Money Money Issue](https://www.wired.com/money-issue/)
+ - [How Much Are Donald Trump’s Truth Social Shares Worth?](https://www.wired.com/story/donald-trump-truth-social-stock-tracker/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

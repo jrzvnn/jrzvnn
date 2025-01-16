@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [When she finally invites you over...](http://9gag.com/gag/a4Poe5m)
- - 😝 [Respect this man](http://9gag.com/gag/a6ZZmqL)
- - 💣 [A classic blunder](http://9gag.com/gag/aE00vL9)
- - 😝 [Removing barnacles from Benson the turtles \ud83d\udc22 shell.](http://9gag.com/gag/azxx7yZ)
- - 👉 [I downloaded the wrong Spiderman](http://9gag.com/gag/aLnnRBA)<!-- MEMES:END -->
+ - 😝 [I downloaded the wrong Spiderman](http://9gag.com/gag/aLnnRBA)
+ - 😝 [Today I lost my certification](http://9gag.com/gag/a0e4mMB)
+ - 💣 [Swimming date is the best date; change my mind](http://9gag.com/gag/ajPPQxR)
+ - 😝 [Choose your fighter](http://9gag.com/gag/aQzzP0K)
+ - 👉 [I will never forget when people thought they were gonna raid Area 51 lol](http://9gag.com/gag/ayN2gRp)<!-- MEMES:END -->
 
 ---
 

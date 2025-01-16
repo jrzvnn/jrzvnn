@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [I downloaded the wrong Spiderman](http://9gag.com/gag/aLnnRBA)
- - 😝 [Today I lost my certification](http://9gag.com/gag/a0e4mMB)
- - 💣 [Swimming date is the best date; change my mind](http://9gag.com/gag/ajPPQxR)
  - 😝 [Choose your fighter](http://9gag.com/gag/aQzzP0K)
- - 👉 [I will never forget when people thought they were gonna raid Area 51 lol](http://9gag.com/gag/ayN2gRp)<!-- MEMES:END -->
+ - 😝 [Life finds a way](http://9gag.com/gag/amooX4V)
+ - 💣 [The king&#39;s speech](http://9gag.com/gag/azxxg0m)
+ - 😝 [This is the moment when Rocky is loaded onto the DPS helicopter. Rocky is a U.S. Marshal K9 who was shot after sniffing out a suspect in a dumpster. He is expected to survive. And he is celebrated as a hero.](http://9gag.com/gag/a9yyd0K)
+ - 👉 [Cosplay](http://9gag.com/gag/aPAAw7P)<!-- MEMES:END -->
 
 ---
 

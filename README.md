@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Four current Meta employees, citing internal discussions, say the actual number of full-time staff who will have to relocate from California to Texas is limited &lpar;Paresh Dave/Wired&rpar;](http://www.techmeme.com/250116/p17#a250116p17)
  - [Google agreed to buy 100K tons of CO2 removal credits from Indian startup Varaha for an undisclosed sum, marking its first deal with a carbon project in India &lpar;Jagmeet Singh/TechCrunch&rpar;](http://www.techmeme.com/250116/p16#a250116p16)
  - [Insight Partners raised $12.5B for its 13th flagship fund, down from its initial target of $20B, making it one of the biggest tech-focused funds &lpar;Kate Clark/Bloomberg&rpar;](http://www.techmeme.com/250116/p15#a250116p15)
  - [Biden&#39;s Cyber Ambassador Urges Trump Not to Cede Ground to Russia and China in Global Tech Fight](https://www.wired.com/story/nathaniel-fick-us-cyber-ambassador-exit-interview/)
- - [Joe Biden issues a cybersecurity executive order to improve the way the government monitors its networks, buys software, uses AI, and punishes foreign hackers &lpar;Eric Geller/Wired&rpar;](http://www.techmeme.com/250116/p13#a250116p13)
- - [Official report: Chinese hackers who breached the US Treasury accessed 400+ computers and stole over 3K files; classified data and email systems were safe &lpar;Bloomberg&rpar;](http://www.techmeme.com/250116/p14#a250116p14)<!-- TECH:END -->
+ - [Joe Biden issues a cybersecurity executive order to improve the way the government monitors its networks, buys software, uses AI, and punishes foreign hackers &lpar;Eric Geller/Wired&rpar;](http://www.techmeme.com/250116/p13#a250116p13)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

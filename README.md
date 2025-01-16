@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [FDA bans use of Red Dye No. 3 in foods](https://www.theverge.com/2025/1/16/24345185/fda-red-dye-no-3-food-ban-cancer-risk)
+ - [Save $420 on Apple&#39;s M4 Max 16-inch MacBook Pro with a 40-core GPU](https://appleinsider.com/articles/25/01/16/save-420-on-apples-m4-max-16-inch-macbook-pro-with-a-40-core-gpu?utm_medium=rss)
  - [AMC’s free Stubs membership tier is getting a little sweeter](https://www.theverge.com/2025/1/16/24343509/amc-stubs-premiere-go)
  - [The Switch 2 is almost here — but PC handhelds are giving it big competition](https://www.theverge.com/2025/1/9/24339466/nintendo-switch-2-pc-gaming-handhelds-steamos)
- - [Copa Del Rey Soccer Livestream: How to Watch Real Madrid vs. Celta Vigo From Anywhere](https://www.cnet.com/tech/services-and-software/copa-del-rey-soccer-livestream-how-to-watch-real-madrid-vs-celta-vigo-from-anywhere/#ftag=CAD590a51e)
- - [Best Budget Earbuds for 2025: Cheap Wireless Picks](https://www.cnet.com/tech/mobile/best-cheap-wireless-earbuds/#ftag=CAD590a51e)
- - [Best Wireless Headphones for 2025](https://www.cnet.com/tech/mobile/best-wireless-headphones/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Copa Del Rey Soccer Livestream: How to Watch Real Madrid vs. Celta Vigo From Anywhere](https://www.cnet.com/tech/services-and-software/copa-del-rey-soccer-livestream-how-to-watch-real-madrid-vs-celta-vigo-from-anywhere/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

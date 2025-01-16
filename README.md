@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [What a huge\u2026huge\u2026accomplishment](http://9gag.com/gag/adBPEgZ)
- - 😝 [Take two and call me in the morning...](http://9gag.com/gag/ayN2g4r)
- - 💣 [Focus!](http://9gag.com/gag/a34Zow7)
- - 😝 [Reminder of this gem. She had window installed and said she didn\u2019t like it and wanted her money back. He paid her back and took care of window.](http://9gag.com/gag/a0e4mOB)
- - 👉 [What a clearance](http://9gag.com/gag/a5QX80g)<!-- MEMES:END -->
+ - 😝 [It&#39;s Super Dog](http://9gag.com/gag/aQzEYLW)
+ - 😝 [Almost double of her weight, and that is not a lady boy](http://9gag.com/gag/awyZqAx)
+ - 💣 [Great news! The US House Passes Bill Banning Trans Women From Competing In Women\u2019s School Sports!](http://9gag.com/gag/aRBExQ5)
+ - 😝 [Focus!](http://9gag.com/gag/a34Zow7)
+ - 👉 [Reminder of this gem. She had window installed and said she didn\u2019t like it and wanted her money back. He paid her back and took care of window.](http://9gag.com/gag/a0e4mOB)<!-- MEMES:END -->
 
 ---
 

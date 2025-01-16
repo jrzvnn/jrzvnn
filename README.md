@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Liquid smoke](http://9gag.com/gag/aQzEw2q)
- - 😝 [Today I lost my certification](http://9gag.com/gag/a0e4mMB)
- - 💣 [Self Awareness](http://9gag.com/gag/arymjeK)
- - 😝 [What a clearance](http://9gag.com/gag/a5QX80g)
- - 👉 [And the Darwin Award goes to:](http://9gag.com/gag/aPAgOXB)<!-- MEMES:END -->
+ - 😝 [In Istanbul,a dog brought her puppy,whose heart had stopped due to the cold,to the veterinarian](http://9gag.com/gag/aqyev3j)
+ - 😝 [Dear Tech Companies,](http://9gag.com/gag/aPAgOGV)
+ - 💣 [Reminder of this gem. She had window installed and said she didn\u2019t like it and wanted her money back. He paid her back and took care of window.](http://9gag.com/gag/a0e4mOB)
+ - 😝 [Focus!](http://9gag.com/gag/a34Zow7)
+ - 👉 [Bad man . . .](http://9gag.com/gag/ae99jG5)<!-- MEMES:END -->
 
 ---
 

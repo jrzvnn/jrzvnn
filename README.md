@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Costly mistake](http://9gag.com/gag/awyy0Nx)
- - 😝 [I will never forget when people thought they were gonna raid Area 51 lol](http://9gag.com/gag/ayN2gRp)
- - 💣 [Wet water is wet](http://9gag.com/gag/aGyyKEZ)
- - 😝 [Swimming date is the best date; change my mind](http://9gag.com/gag/ajPPQxR)
- - 👉 [Testing Boomerangs with 1-6 Wings](http://9gag.com/gag/a9yyjD0)<!-- MEMES:END -->
+ - 😝 [Dudes, i might have found most believable hidden door design.](http://9gag.com/gag/awyZqGB)
+ - 😝 [Bad man . . .](http://9gag.com/gag/ae99jG5)
+ - 💣 [It is what it is](http://9gag.com/gag/an77ejb)
+ - 😝 [Choose your fighter](http://9gag.com/gag/aQzzP0K)
+ - 👉 [The king&#39;s speech](http://9gag.com/gag/azxxg0m)<!-- MEMES:END -->
 
 ---
 

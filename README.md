@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [FDA bans use of Red Dye No. 3 in foods](https://www.theverge.com/2025/1/16/24345185/fda-red-dye-no-3-food-ban-cancer-risk)
- - [Save $420 on Apple&#39;s M4 Max 16-inch MacBook Pro with a 40-core GPU](https://appleinsider.com/articles/25/01/16/save-420-on-apples-m4-max-16-inch-macbook-pro-with-a-40-core-gpu?utm_medium=rss)
- - [AMC’s free Stubs membership tier is getting a little sweeter](https://www.theverge.com/2025/1/16/24343509/amc-stubs-premiere-go)
- - [The Switch 2 is almost here — but PC handhelds are giving it big competition](https://www.theverge.com/2025/1/9/24339466/nintendo-switch-2-pc-gaming-handhelds-steamos)
- - [Copa Del Rey Soccer Livestream: How to Watch Real Madrid vs. Celta Vigo From Anywhere](https://www.cnet.com/tech/services-and-software/copa-del-rey-soccer-livestream-how-to-watch-real-madrid-vs-celta-vigo-from-anywhere/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [As Americans flock to RedNote, privacy advocates warn about surveillance](https://www.theverge.com/2025/1/16/24345245/rednote-xiaohongshu-tiktok-ban-privacy)
+ - [Third iOS 18.3, iPadOS 18.3, macOS 15.3 developer betas finally arrive](https://appleinsider.com/articles/25/01/16/third-ios-183-ipados-183-macos-153-developer-betas-finally-arrive?utm_medium=rss)
+ - [Zhou Chaonan, the chairwoman of data center operator Range Intelligent, has become China&#39;s third richest woman after her company&#39;s stock rose 105% in 2024 &lpar;Bloomberg&rpar;](http://www.techmeme.com/250116/p39#a250116p39)
+ - [Microsoft bundles Office AI features into Microsoft 365 and raises prices](https://www.theverge.com/2025/1/16/24345051/microsoft-365-personal-family-copilot-office-ai-price-rises)
+ - [All our unanswered questions about the Nintendo Switch 2](https://www.theverge.com/2025/1/16/24344718/nintendo-switch-2-specs-date-price-launch-games-mario-kart)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

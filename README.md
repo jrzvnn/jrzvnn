@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [TSMC says it will raise 2025 capital spending to $38B-$40B, an over 30% increase after three years of stagnation &lpar;Kathrin Hille/Financial Times&rpar;](http://www.techmeme.com/250116/p11#a250116p11)
- - [GitHub’s Deepfake Porn Crackdown Still Isn’t Working](https://www.wired.com/story/githubs-deepfake-porn-crackdown-still-isnt-working/)
- - [Masayoshi Son Bet Billions on the iPhone—3 Years Before It Existed](https://www.wired.com/story/softbank-masayoshi-son-bet-billions-iphone-steve-jobs/)
- - [The Money Money Money Issue](https://www.wired.com/money-issue/)
- - [How Much Are Donald Trump’s Truth Social Shares Worth?](https://www.wired.com/story/donald-trump-truth-social-stock-tracker/)<!-- TECH:END -->
+ - [Joe Biden issues a cybersecurity executive order to improve the way the government monitors its networks, buys software, uses AI, and punishes foreign hackers &lpar;Eric Geller/Wired&rpar;](http://www.techmeme.com/250116/p13#a250116p13)
+ - [Official report: Chinese hackers who breached the US Treasury accessed 400+ computers and stole over 3K files; classified data and email systems were safe &lpar;Bloomberg&rpar;](http://www.techmeme.com/250116/p14#a250116p14)
+ - [Biden warns nation about the rise of American tech oligarchs](https://www.theverge.com/2025/1/16/24345045/biden-warns-against-oligarchs-tech-industrial-complex)
+ - [Mistral announces a content deal with the Agence France-Presse to improve answer accuracy in Le Chat, marking the French AI startup&#39;s first such partnership &lpar;Romain Dillet/TechCrunch&rpar;](http://www.techmeme.com/250116/p12#a250116p12)
+ - [TSMC says it will raise 2025 capital spending to $38B-$40B, an over 30% increase after three years of stagnation &lpar;Kathrin Hille/Financial Times&rpar;](http://www.techmeme.com/250116/p11#a250116p11)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

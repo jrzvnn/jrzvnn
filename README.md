@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Bad man . . .](http://9gag.com/gag/ae99jG5)
- - 😝 [Removing barnacles from Benson the turtles \ud83d\udc22 shell.](http://9gag.com/gag/azxx7yZ)
- - 💣 [The Ultimate Drag Race](http://9gag.com/gag/aoyKBVA)
  - 😝 [Cosplay](http://9gag.com/gag/aPAAw7P)
- - 👉 [Focus!](http://9gag.com/gag/a34Zow7)<!-- MEMES:END -->
+ - 😝 [Costly mistake](http://9gag.com/gag/awyy0Nx)
+ - 💣 [Nice](http://9gag.com/gag/an7zAXb)
+ - 😝 [`Please compensate our employees for hard work so we can NOT pay them more`](http://9gag.com/gag/azx2NEj)
+ - 👉 [Robber in Pakistan gets beat down](http://9gag.com/gag/aXPn8R6)<!-- MEMES:END -->
 
 ---
 

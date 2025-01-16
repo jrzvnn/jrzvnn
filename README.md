@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [As Americans flock to RedNote, privacy advocates warn about surveillance](https://www.theverge.com/2025/1/16/24345245/rednote-xiaohongshu-tiktok-ban-privacy)
- - [Third iOS 18.3, iPadOS 18.3, macOS 15.3 developer betas finally arrive](https://appleinsider.com/articles/25/01/16/third-ios-183-ipados-183-macos-153-developer-betas-finally-arrive?utm_medium=rss)
- - [Zhou Chaonan, the chairwoman of data center operator Range Intelligent, has become China&#39;s third richest woman after her company&#39;s stock rose 105% in 2024 &lpar;Bloomberg&rpar;](http://www.techmeme.com/250116/p39#a250116p39)
- - [Microsoft bundles Office AI features into Microsoft 365 and raises prices](https://www.theverge.com/2025/1/16/24345051/microsoft-365-personal-family-copilot-office-ai-price-rises)
- - [All our unanswered questions about the Nintendo Switch 2](https://www.theverge.com/2025/1/16/24344718/nintendo-switch-2-specs-date-price-launch-games-mario-kart)<!-- TECH:END -->
+ - [Best Internet Providers in San Benito, Texas](https://www.cnet.com/home/internet/best-internet-providers-in-san-benito-tx/#ftag=CAD590a51e)
+ - [Headaches? Feeling Lethargic or Bloated? A Lymphatic Drainage Massage Could Help](https://www.cnet.com/health/medical/lymphatic-drainage-massage-benefits-risks-how-do-at-home/#ftag=CAD590a51e)
+ - [Tesla says the Cybertruck is ‘best-selling,’ so why is it offering discounts?](https://www.theverge.com/2025/1/16/24345230/tesla-cybertruck-discount-price-demand-sales-elon-musk)
+ - [What&#39;s Free on the Epic Games Store This Week?](https://www.cnet.com/tech/gaming/list-of-free-games-on-the-epic-games-store-this-week/#ftag=CAD590a51e)
+ - [As Americans flock to RedNote, privacy advocates warn about surveillance](https://www.theverge.com/2025/1/16/24345245/rednote-xiaohongshu-tiktok-ban-privacy)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

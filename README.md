@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [New iPhone SE 4 dummy models hint at design &amp; color updates](https://appleinsider.com/articles/25/01/16/new-iphone-se-4-dummy-models-hint-at-design-color-updates?utm_medium=rss)
  - [Check Out These Extraordinary New Images of Mercury](https://www.wired.com/gallery/images-of-mercury-bepicolombo-mission/)
  - [A look at the legal dispute between Walgreens and Cooler Screens, which installed 10,000 smart doors that track shoppers and show ads at Walgreens&#39; US stores &lpar;Austin Carr/Bloomberg&rpar;](http://www.techmeme.com/250116/p36#a250116p36)
  - [Tech’s shift to Trump: all the companies and execs kissing the ring](https://www.theverge.com/2025/1/16/24345174/tech-leaders-companies-support-donald-trump-presidency)
- - [Here are the most likely TikTok alternatives, should it get banned](https://appleinsider.com/articles/25/01/16/here-are-the-most-likely-tiktok-alternatives-should-it-get-banned?utm_medium=rss)
- - [Sources: RedNote staff is scrambling to hide US users&#39; posts from Chinese users after China raised concerns about politically sensitive English-language posts &lpar;The Information&rpar;](http://www.techmeme.com/250116/p35#a250116p35)<!-- TECH:END -->
+ - [Here are the most likely TikTok alternatives, should it get banned](https://appleinsider.com/articles/25/01/16/here-are-the-most-likely-tiktok-alternatives-should-it-get-banned?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [You’ll be able to try out the Switch 2 starting in April](https://www.theverge.com/2025/1/16/24345091/nintendo-switch-2-hands-on-event-schedule)
- - [8 Best Leggings &lpar;2025&rpar;, Tested and Reviewed](https://www.wired.com/gallery/the-best-leggings/)
- - [How to bulk download and save your TikTok videos](https://www.theverge.com/24343890/tiktok-bulk-save-how-to)
- - [Nintendo teases a new Mario Kart for the Switch 2](https://www.theverge.com/2025/1/16/24337198/switch-2-mario-kart-nintendo)
- - [Nintendo teases the Switch 2, featuring a new kickstand design and backward compatibility for physical and digital games, with more details on April 2, 2025 &lpar;Jay Peters/The Verge&rpar;](http://www.techmeme.com/250116/p26#a250116p26)<!-- TECH:END -->
+ - [Everything we know about the Switch 2’s Joy-Con controllers](https://www.theverge.com/2025/1/16/24343722/switch-2-joy-cons-details-magnets-drift-nintendo)
+ - [Sources: retail trading platform eToro has confidentially filed for a US IPO, seeking a $5B valuation; it was valued at $3.5B in 2023 &lpar;Ivan Levingston/Financial Times&rpar;](http://www.techmeme.com/250116/p27#a250116p27)
+ - [Nintendo Officially Announces Switch 2](https://www.wired.com/story/switch-2-announcement-nintendo/)
+ - [Here’s the Nintendo Switch 2](https://www.theverge.com/2025/1/16/23872810/nintendo-switch-2-next-generation-console-features-trailer)
+ - [You’ll be able to try out the Switch 2 starting in April](https://www.theverge.com/2025/1/16/24345091/nintendo-switch-2-hands-on-event-schedule)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

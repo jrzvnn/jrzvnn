@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The best Garmin watches for training and everyday life](https://www.theverge.com/23691498/best-garmin-smartwatch-fitness-tracker-wearables)
+ - [Trading is coming to Pokémon TCG Pocket later this month &lpar;with some caveats&rpar;](https://www.theverge.com/2025/1/16/24345484/pokemon-tcg-pocket-trading-january-launch)
  - [The FTC bans GM from selling driver behavior and geolocation data to consumer reporting agencies for five years, after finding GM didn&#39;t properly inform drivers &lpar;Kashmir Hill/New York Times&rpar;](http://www.techmeme.com/250116/p49#a250116p49)
  - [Sony’s black PlayStation 5 accessories are now available for preorder](https://www.theverge.com/24345367/sony-black-dualsense-edge-pulse-explore-elite-playstation-portal-preorder-buy-release-date)
- - [An Entire Book Was Written in DNA—and You Can Buy It for $60](https://www.wired.com/story/entire-book-written-in-dna-buy-it-60-dollars/)
- - [Third iOS 18.3, iPadOS 18.3, macOS 15.3 developer betas finally arrive](https://appleinsider.com/articles/25/01/16/third-ios-183-ipados-183-macos-153-developer-betas-finally-arrive?utm_medium=rss)
- - [When to Watch the &#39;Outlander&#39; Season 7 Finale](https://www.cnet.com/tech/services-and-software/when-to-watch-outlander-season-7-finale/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [An Entire Book Was Written in DNA—and You Can Buy It for $60](https://www.wired.com/story/entire-book-written-in-dna-buy-it-60-dollars/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

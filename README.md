@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Trump plans to nominate Olivia Trusty, policy director for a US Senate committee, as the third Republican member of the FCC&#39;s five-person commission &lpar;Matthew Keys/The Desk&rpar;](http://www.techmeme.com/250116/p48#a250116p48)
+ - [Here are the best iPad deals right now](https://www.theverge.com/21280354/best-ipad-deals-apple)
  - [Source: Meta CTO Andrew Bosworth told staff that some of Meta&#39;s changes were &quot;pretty ham-fisted, borderline unintentional&quot; and Meta is planning some corrections &lpar;Kalley Huang/The Information&rpar;](http://www.techmeme.com/250116/p47#a250116p47)
  - [Today&#39;s NYT Connections Hints, Answers and Help for Jan. 17, #586](https://www.cnet.com/tech/gaming/todays-nyt-connections-hints-answers-and-help-for-jan-17-586/#ftag=CAD590a51e)
- - [Today&#39;s Wordle Hints, Answer and Help for Jan. 17, #1308](https://www.cnet.com/tech/gaming/todays-wordle-hints-answer-and-help-for-jan-17-1308/#ftag=CAD590a51e)
- - [Best Internet Providers in Naples, Florida](https://www.cnet.com/home/internet/best-internet-providers-in-naples-fl/#ftag=CAD590a51e)
- - [UFC 311 Islam Makhachev vs. Arman Tsarukyan 2: Watch Livestream, Start Time, Full Card](https://www.cnet.com/tech/services-and-software/ufc-311-islam-makhachev-vs-arman-tsarukyan-2-watch-livestream-start-time-full-card/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Today&#39;s Wordle Hints, Answer and Help for Jan. 17, #1308](https://www.cnet.com/tech/gaming/todays-wordle-hints-answer-and-help-for-jan-17-1308/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

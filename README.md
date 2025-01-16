@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Humans: *wonder how mouse, bear, and other animals fall into obvious traps Also humans:](http://9gag.com/gag/aoyKb02)
+ - 😝 [Costly mistake](http://9gag.com/gag/awyy0Nx)
  - 😝 [When she finally invites you over...](http://9gag.com/gag/a4Poe5m)
- - 💣 [Gohan... my man](http://9gag.com/gag/aMVE3GP)
- - 😝 [Wet water is wet](http://9gag.com/gag/aGyyKEZ)
- - 👉 [And the Darwin Award goes to:](http://9gag.com/gag/aPAgOXB)<!-- MEMES:END -->
+ - 💣 [For anyone asking, what happened to America?](http://9gag.com/gag/a877d6V)
+ - 😝 [Bruce got pied](http://9gag.com/gag/aNDw6AA)
+ - 👉 [Reminder of this gem. She had window installed and said she didn\u2019t like it and wanted her money back. He paid her back and took care of window.](http://9gag.com/gag/a0e4mOB)<!-- MEMES:END -->
 
 ---
 

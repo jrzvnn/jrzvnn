@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Take two and call me in the morning...](http://9gag.com/gag/ayN2g4r)
+ - 😝 [Costly mistake](http://9gag.com/gag/awyy0Nx)
  - 😝 [Bad man . . .](http://9gag.com/gag/ae99jG5)
- - 💣 [Take a guess](http://9gag.com/gag/aLn1Yog)
- - 😝 [Cosplay](http://9gag.com/gag/aPAAw7P)
- - 👉 [Wet water is wet](http://9gag.com/gag/aGyyKEZ)<!-- MEMES:END -->
+ - 💣 [Take two and call me in the morning...](http://9gag.com/gag/ayN2g4r)
+ - 😝 [Reminder of this gem. She had window installed and said she didn\u2019t like it and wanted her money back. He paid her back and took care of window.](http://9gag.com/gag/a0e4mOB)
+ - 👉 [What a clearance](http://9gag.com/gag/a5QX80g)<!-- MEMES:END -->
 
 ---
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Sources: RedNote staff is scrambling to hide US users&#39; posts from Chinese users after China raised concerns about politically sensitive English-language posts &lpar;The Information&rpar;](http://www.techmeme.com/250116/p35#a250116p35)
+ - [The Switch 2 is boring — and that’s exactly what Nintendo needs](https://www.theverge.com/24344511/nintendo-switch-2-features-specs-handheld-dock-upgrade-comparison)
  - [Casio’s new Comfy calculator shifts its solar panel up for aesthetics](https://www.theverge.com/2025/1/16/24345129/casio-japan-calculator-comfy-jt-200-design-solar-power-panel)
  - [Earnest Analytics: ~60% of paid Gemini users kept their subscriptions six months after signing up, better than Perplexity but lagging behind ChatGPT and Claude &lpar;Miles Kruppa/Wall Street Journal&rpar;](http://www.techmeme.com/250116/p34#a250116p34)
- - [Time is running out in the Until Dawn movie’s new trailer](https://www.theverge.com/2025/1/16/24345133/sony-until-dawn-movie-trailer)
- - [Nubia Redmagic 10 Pro Review: Value for Gamers](https://www.wired.com/review/nubia-redmagic-10-pro/)
- - [Letter: Google told EU it will not add fact checks to search results and YouTube videos or use them in ranking or removing content, despite new EU requirements &lpar;Sara Fischer/Axios&rpar;](http://www.techmeme.com/250116/p33#a250116p33)<!-- TECH:END -->
+ - [Time is running out in the Until Dawn movie’s new trailer](https://www.theverge.com/2025/1/16/24345133/sony-until-dawn-movie-trailer)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

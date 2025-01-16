@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Today I lost my certification](http://9gag.com/gag/a0e4mMB)
- - 😝 [Focus!](http://9gag.com/gag/a34Zow7)
- - 💣 [Bruce got pied](http://9gag.com/gag/aNDw6AA)
  - 😝 [And the Darwin Award goes to:](http://9gag.com/gag/aPAgOXB)
- - 👉 [What a clearance](http://9gag.com/gag/a5QX80g)<!-- MEMES:END -->
+ - 😝 [I will never forget when people thought they were gonna raid Area 51 lol](http://9gag.com/gag/ayN2gRp)
+ - 💣 [Relationship turn over](http://9gag.com/gag/aGyEW2G)
+ - 😝 [That prank was a fail](http://9gag.com/gag/aD2YEXO)
+ - 👉 [Daydreams of shopping with the wife](http://9gag.com/gag/aE0qLno)<!-- MEMES:END -->
 
 ---
 

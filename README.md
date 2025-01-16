@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [100% of 9gagers](http://9gag.com/gag/an7zLR0)
- - 😝 [For anyone asking, what happened to America?](http://9gag.com/gag/a877d6V)
- - 💣 [Nice](http://9gag.com/gag/an7zAXb)
+ - 😝 [Liquid smoke](http://9gag.com/gag/aQzEw2q)
+ - 😝 [Today I lost my certification](http://9gag.com/gag/a0e4mMB)
+ - 💣 [Self Awareness](http://9gag.com/gag/arymjeK)
  - 😝 [What a clearance](http://9gag.com/gag/a5QX80g)
- - 👉 [It is what it is](http://9gag.com/gag/an77ejb)<!-- MEMES:END -->
+ - 👉 [And the Darwin Award goes to:](http://9gag.com/gag/aPAgOXB)<!-- MEMES:END -->
 
 ---
 

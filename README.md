@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Today I lost my certification](http://9gag.com/gag/a0e4mMB)
- - 😝 [And the Darwin Award goes to:](http://9gag.com/gag/aPAgOXB)
- - 💣 [When she finally invites you over...](http://9gag.com/gag/a4Poe5m)
- - 😝 [In Istanbul,a dog brought her puppy,whose heart had stopped due to the cold,to the veterinarian](http://9gag.com/gag/aqyev3j)
- - 👉 [I will never forget when people thought they were gonna raid Area 51 lol](http://9gag.com/gag/ayN2gRp)<!-- MEMES:END -->
+ - 😝 [Yes, better close it](http://9gag.com/gag/aKGEr9N)
+ - 😝 [Liberals in a nutshell.... We only do virtue signalling... Others have to do the sacrifice...](http://9gag.com/gag/aMVEg4V)
+ - 💣 [Nice](http://9gag.com/gag/an7zAXb)
+ - 😝 [It is what it is](http://9gag.com/gag/an77ejb)
+ - 👉 [When she finally invites you over...](http://9gag.com/gag/a4Poe5m)<!-- MEMES:END -->
 
 ---
 

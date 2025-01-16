@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [AMC’s free Stubs membership tier is getting a little sweeter](https://www.theverge.com/2025/1/16/24343509/amc-stubs-premiere-go)
  - [The Switch 2 is almost here — but PC handhelds are giving it big competition](https://www.theverge.com/2025/1/9/24339466/nintendo-switch-2-pc-gaming-handhelds-steamos)
- - [The Roborock Q5 Max Plus drops to an all-time low of $280](https://www.theverge.com/2025/1/16/24345168/roborock-q5-max-plus-robot-vacuum-amazon-deal-sale)
- - [The Switch 2’s bigger screen is just what I wanted](https://www.theverge.com/2025/1/16/24345191/nintendo-switch-2-bigger-screen)
- - [Netradyne, which provides AI-enabled dashcams to fleet owners like Amazon, raised a $90M Series D led by Point72 at a pre-money valuation of $1.25B &lpar;Rebecca Bellan/TechCrunch&rpar;](http://www.techmeme.com/250116/p38#a250116p38)
- - [Meet the brothers who built NYC’s favorite congestion pricing tracking tool](https://www.theverge.com/2025/1/16/24344732/nyc-congestion-pricing-tracker-data-google-maps)<!-- TECH:END -->
+ - [Copa Del Rey Soccer Livestream: How to Watch Real Madrid vs. Celta Vigo From Anywhere](https://www.cnet.com/tech/services-and-software/copa-del-rey-soccer-livestream-how-to-watch-real-madrid-vs-celta-vigo-from-anywhere/#ftag=CAD590a51e)
+ - [Best Budget Earbuds for 2025: Cheap Wireless Picks](https://www.cnet.com/tech/mobile/best-cheap-wireless-earbuds/#ftag=CAD590a51e)
+ - [Best Wireless Headphones for 2025](https://www.cnet.com/tech/mobile/best-wireless-headphones/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

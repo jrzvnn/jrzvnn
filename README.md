@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [In Milan, fed up of pickpockets, some young Italians go armed with spray paint to identify them.](http://9gag.com/gag/agmmyyw)
- - 😝 [Never threw away a T-shirt.](http://9gag.com/gag/ae99KeW)
- - 💣 [The king&#39;s speech](http://9gag.com/gag/azxxg0m)
- - 😝 [Enough to make a grown man cry](http://9gag.com/gag/aRBExZA)
- - 👉 [Bad man . . .](http://9gag.com/gag/ae99jG5)<!-- MEMES:END -->
+ - 😝 [Take two and call me in the morning...](http://9gag.com/gag/ayN2g4r)
+ - 😝 [Bad man . . .](http://9gag.com/gag/ae99jG5)
+ - 💣 [Take a guess](http://9gag.com/gag/aLn1Yog)
+ - 😝 [Cosplay](http://9gag.com/gag/aPAAw7P)
+ - 👉 [Wet water is wet](http://9gag.com/gag/aGyyKEZ)<!-- MEMES:END -->
 
 ---
 

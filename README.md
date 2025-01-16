@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [This connector on Switch 2 will be key failure point](http://9gag.com/gag/aYQQbjO)
- - 😝 [Robber in Pakistan gets beat down](http://9gag.com/gag/aXPn8R6)
- - 💣 [Cosplay](http://9gag.com/gag/aPAAw7P)
- - 😝 [`Please compensate our employees for hard work so we can NOT pay them more`](http://9gag.com/gag/azx2NEj)
- - 👉 [Respect this man](http://9gag.com/gag/a6ZZmqL)<!-- MEMES:END -->
+ - 😝 [Wet water is wet](http://9gag.com/gag/aGyyKEZ)
+ - 😝 [4K a year wouldn&#39;t do shit for any tuition in America](http://9gag.com/gag/aPAgOwB)
+ - 💣 [Respect this man](http://9gag.com/gag/a6ZZmqL)
+ - 😝 [Very painful](http://9gag.com/gag/aQzz6Vw)
+ - 👉 [Cosplay](http://9gag.com/gag/aPAAw7P)<!-- MEMES:END -->
 
 ---
 

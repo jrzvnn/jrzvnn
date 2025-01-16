@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [When she finally invites you over...](http://9gag.com/gag/a4Poe5m)
+ - 😝 [Respect this man](http://9gag.com/gag/a6ZZmqL)
+ - 💣 [A classic blunder](http://9gag.com/gag/aE00vL9)
  - 😝 [Removing barnacles from Benson the turtles \ud83d\udc22 shell.](http://9gag.com/gag/azxx7yZ)
- - 😝 [Choose your fighter](http://9gag.com/gag/aQzzP0K)
- - 💣 [Respect this man](http://9gag.com/gag/a6ZZmqL)
- - 😝 [Testing Boomerangs with 1-6 Wings](http://9gag.com/gag/a9yyjD0)
- - 👉 [Why do Americans build with wood?](http://9gag.com/gag/a7ooL9A)<!-- MEMES:END -->
+ - 👉 [I downloaded the wrong Spiderman](http://9gag.com/gag/aLnnRBA)<!-- MEMES:END -->
 
 ---
 

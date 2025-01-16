@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [CFPB sued for trying to regulate digital payment apps more like banks](https://www.theverge.com/2025/1/16/24345310/cfpb-digital-payment-apps-rule-lawsuit-technet-netchoice)
+ - [Microsoft bundles its AI-powered Office features into Microsoft 365 Personal and Home subscriptions for an extra $3 per month &lpar;Tom Warren/The Verge&rpar;](http://www.techmeme.com/250116/p41#a250116p41)
+ - [David Lynch has died](https://www.theverge.com/2025/1/16/24345312/david-lynch-death-director-twin-peaks)
  - [FTC finalizes changes to COPPA, including requiring opt-in consent for targeted ads and prohibiting companies from retaining kids&#39; data indefinitely &lpar;Tonya Riley/Bloomberg Law&rpar;](http://www.techmeme.com/250116/p40#a250116p40)
- - [Best Internet Providers in San Benito, Texas](https://www.cnet.com/home/internet/best-internet-providers-in-san-benito-tx/#ftag=CAD590a51e)
- - [Headaches? Feeling Lethargic or Bloated? A Lymphatic Drainage Massage Could Help](https://www.cnet.com/health/medical/lymphatic-drainage-massage-benefits-risks-how-do-at-home/#ftag=CAD590a51e)
- - [Tesla says the Cybertruck is ‘best-selling,’ so why is it offering discounts?](https://www.theverge.com/2025/1/16/24345230/tesla-cybertruck-discount-price-demand-sales-elon-musk)
- - [What&#39;s Free on the Epic Games Store This Week?](https://www.cnet.com/tech/gaming/list-of-free-games-on-the-epic-games-store-this-week/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Tesla says the Cybertruck is ‘best-selling,’ so why is it offering discounts?](https://www.theverge.com/2025/1/16/24345230/tesla-cybertruck-discount-price-demand-sales-elon-musk)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

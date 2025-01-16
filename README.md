@@ -166,10 +166,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Woman saves her dog from drowning in frozen pool](http://9gag.com/gag/a6ZqAY2)
- - 😝 [Very painful](http://9gag.com/gag/aQzz6Vw)
- - 💣 [Respect this man](http://9gag.com/gag/a6ZZmqL)
- - 😝 [Removing barnacles from Benson the turtles \ud83d\udc22 shell.](http://9gag.com/gag/azxx7yZ)
+ - 😝 [Those Tanlines](http://9gag.com/gag/aXPnDL2)
+ - 😝 [Cyberpunk 2065](http://9gag.com/gag/a87qr6p)
+ - 💣 [Bruce got pied](http://9gag.com/gag/aNDw6AA)
+ - 😝 [Robber in Pakistan gets beat down](http://9gag.com/gag/aXPn8R6)
  - 👉 [Cosplay](http://9gag.com/gag/aPAAw7P)<!-- MEMES:END -->
 
 ---

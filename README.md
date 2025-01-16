@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Casio’s new Comfy calculator shifts its solar panel up for aesthetics](https://www.theverge.com/2025/1/16/24345129/casio-japan-calculator-comfy-jt-200-design-solar-power-panel)
+ - [Earnest Analytics: ~60% of paid Gemini users kept their subscriptions six months after signing up, better than Perplexity but lagging behind ChatGPT and Claude &lpar;Miles Kruppa/Wall Street Journal&rpar;](http://www.techmeme.com/250116/p34#a250116p34)
  - [Time is running out in the Until Dawn movie’s new trailer](https://www.theverge.com/2025/1/16/24345133/sony-until-dawn-movie-trailer)
  - [Nubia Redmagic 10 Pro Review: Value for Gamers](https://www.wired.com/review/nubia-redmagic-10-pro/)
- - [Letter: Google told EU it will not add fact checks to search results and YouTube videos or use them in ranking or removing content, despite new EU requirements &lpar;Sara Fischer/Axios&rpar;](http://www.techmeme.com/250116/p33#a250116p33)
- - [Polestar announces Polestar 7 SUV amid flagging sales and regulatory hurdles](https://www.theverge.com/2025/1/16/24345084/polestar-7-compact-suv-q3-2024-earnings-ev-sales)
- - [US school districts hit by PowerSchool&#39;s December breach say hackers accessed &quot;all&quot; historical student and teacher data; PowerSchool has 50M+ US student records &lpar;Carly Page/TechCrunch&rpar;](http://www.techmeme.com/250116/p32#a250116p32)<!-- TECH:END -->
+ - [Letter: Google told EU it will not add fact checks to search results and YouTube videos or use them in ranking or removing content, despite new EU requirements &lpar;Sara Fischer/Axios&rpar;](http://www.techmeme.com/250116/p33#a250116p33)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

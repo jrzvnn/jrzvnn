@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [GM banned from selling your driving data for five years](https://www.theverge.com/2025/1/16/24345470/gm-banned-selling-driving-data-insurance-ftc)
  - [Biden punts the TikTok ban to Trump](https://www.theverge.com/2025/1/16/24345461/biden-punts-tiktok-ban-trump)
  - [The Nintendo Switch 2 Is Playing It Safe. That&#39;s the Smart Choice](https://www.wired.com/story/nintendo-switch-2-is-playing-it-safe-thats-the-smart-choice/)
  - [SpaceX is about to attempt its seventh Starship rocket launch](https://www.theverge.com/24345430/spacex-starship-rocket-launch-time-watch-live)
- - [Trump plans to nominate Olivia Trusty, policy director for a US Senate committee, as the third Republican member of the FCC&#39;s five-person commission &lpar;Matthew Keys/The Desk&rpar;](http://www.techmeme.com/250116/p48#a250116p48)
- - [Here are the best iPad deals right now](https://www.theverge.com/21280354/best-ipad-deals-apple)<!-- TECH:END -->
+ - [Trump plans to nominate Olivia Trusty, policy director for a US Senate committee, as the third Republican member of the FCC&#39;s five-person commission &lpar;Matthew Keys/The Desk&rpar;](http://www.techmeme.com/250116/p48#a250116p48)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

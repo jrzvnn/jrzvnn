@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Silent Hill - Nurses](http://9gag.com/gag/an7zA6o)
- - 😝 [Bruce got pied](http://9gag.com/gag/aNDw6AA)
- - 💣 [Self Awareness](http://9gag.com/gag/arymjeK)
  - 😝 [Woman saves her dog from drowning in frozen pool](http://9gag.com/gag/a6ZqAY2)
- - 👉 [Respect this man](http://9gag.com/gag/a6ZZmqL)<!-- MEMES:END -->
+ - 😝 [Very painful](http://9gag.com/gag/aQzz6Vw)
+ - 💣 [Respect this man](http://9gag.com/gag/a6ZZmqL)
+ - 😝 [Removing barnacles from Benson the turtles \ud83d\udc22 shell.](http://9gag.com/gag/azxx7yZ)
+ - 👉 [Cosplay](http://9gag.com/gag/aPAAw7P)<!-- MEMES:END -->
 
 ---
 

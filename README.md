@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Biden punts the TikTok ban to Trump](https://www.theverge.com/2025/1/16/24345461/biden-punts-tiktok-ban-trump)
+ - [The Nintendo Switch 2 Is Playing It Safe. That&#39;s the Smart Choice](https://www.wired.com/story/nintendo-switch-2-is-playing-it-safe-thats-the-smart-choice/)
+ - [SpaceX is about to attempt its seventh Starship rocket launch](https://www.theverge.com/24345430/spacex-starship-rocket-launch-time-watch-live)
  - [Trump plans to nominate Olivia Trusty, policy director for a US Senate committee, as the third Republican member of the FCC&#39;s five-person commission &lpar;Matthew Keys/The Desk&rpar;](http://www.techmeme.com/250116/p48#a250116p48)
- - [Here are the best iPad deals right now](https://www.theverge.com/21280354/best-ipad-deals-apple)
- - [Source: Meta CTO Andrew Bosworth told staff that some of Meta&#39;s changes were &quot;pretty ham-fisted, borderline unintentional&quot; and Meta is planning some corrections &lpar;Kalley Huang/The Information&rpar;](http://www.techmeme.com/250116/p47#a250116p47)
- - [Today&#39;s NYT Connections Hints, Answers and Help for Jan. 17, #586](https://www.cnet.com/tech/gaming/todays-nyt-connections-hints-answers-and-help-for-jan-17-586/#ftag=CAD590a51e)
- - [Today&#39;s Wordle Hints, Answer and Help for Jan. 17, #1308](https://www.cnet.com/tech/gaming/todays-wordle-hints-answer-and-help-for-jan-17-1308/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Here are the best iPad deals right now](https://www.theverge.com/21280354/best-ipad-deals-apple)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

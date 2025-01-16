@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Gohan... my man](http://9gag.com/gag/aMVE3GP)
- - 😝 [How to repair a tire puncture](http://9gag.com/gag/aYQV2mq)
- - 💣 [`Please compensate our employees for hard work so we can NOT pay them more`](http://9gag.com/gag/azx2NEj)
- - 😝 [Self Awareness](http://9gag.com/gag/arymjeK)
- - 👉 [Woman saves her dog from drowning in frozen pool](http://9gag.com/gag/a6ZqAY2)<!-- MEMES:END -->
+ - 😝 [What a huge\u2026huge\u2026accomplishment](http://9gag.com/gag/adBPEgZ)
+ - 😝 [Being a self-mechanic](http://9gag.com/gag/aGyEWrz)
+ - 💣 [Work Problems](http://9gag.com/gag/a4PoDxd)
+ - 😝 [Physicist Galen Winsor eats uranium on live television in 1985 to show that it\u2019s \u201charmless\u201d.](http://9gag.com/gag/aByd7ZA)
+ - 👉 [Focus!](http://9gag.com/gag/a34Zow7)<!-- MEMES:END -->
 
 ---
 

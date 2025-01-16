@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The 24 Best Movies on Apple TV+ Right Now &lpar;January 2025&rpar;](https://www.wired.com/story/best-apple-tv-plus-movies/)
- - [Trump&#39;s team promises to keep TikTok from being banned](https://appleinsider.com/articles/25/01/16/trumps-team-promises-to-keep-tiktok-from-being-banned?utm_medium=rss)
- - [Apple is pausing notification summaries for news in the latest iOS 18.3 beta](https://www.theverge.com/2025/1/16/24345331/apple-notification-summaries-pause-news-ios-18-3-beta)
- - [Apple disables notification summaries for News &amp; Entertainment apps in iOS 18.3 beta and makes other changes to summaries, including using italicized text &lpar;Chance Miller/9to5Mac&rpar;](http://www.techmeme.com/250116/p45#a250116p45)
- - [Here are the best Apple Watch deals right now](https://www.theverge.com/21289209/best-apple-watch-deals)<!-- TECH:END -->
+ - [Third-party iPad smart connector accessories working again with latest iPadOS 18.3 beta](https://appleinsider.com/articles/25/01/16/third-party-ipad-smart-connector-accessories-working-again-with-latest-ipados-183-beta?utm_medium=rss)
+ - [Sources: in a November meeting with Stephen Miller, Zuckerberg blamed Sheryl Sandberg for Meta&#39;s culture, previewed its reset, and said more changes were coming &lpar;New York Times&rpar;](http://www.techmeme.com/250116/p46#a250116p46)
+ - [Want to Play the Switch 2 Before It Comes Out? Here&#39;s How](https://www.cnet.com/tech/gaming/want-to-play-the-switch-2-before-it-comes-out-heres-how/#ftag=CAD590a51e)
+ - [PocketSmith Review 2025: Best Budgeting App for Long-Range Forecasting](https://www.cnet.com/personal-finance/banking/pocketsmith/#ftag=CAD590a51e)
+ - [CashApp Fined $175 Million for Not Stopping Fraud. Find Out if You&#39;re Eligible for a Payment](https://www.cnet.com/personal-finance/cashapp-fined-175-million-for-not-stopping-fraud-find-out-if-youre-eligible-for-a-payment/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

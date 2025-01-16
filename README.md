@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [A young boy lost his dad in a crowd in Argentina. Strangers came together to help, chanting the father&#39;s name. Then the band joined in with a song, `Eduardo, come and find Juan Cruz`](http://9gag.com/gag/ayNN7Y8)
  - 😝 [Bad man . . .](http://9gag.com/gag/ae99jG5)
- - 💣 [Dudes, i might have found most believable hidden door design.](http://9gag.com/gag/awyZqGB)
- - 😝 [It is what it is](http://9gag.com/gag/an77ejb)
- - 👉 [Choose your fighter](http://9gag.com/gag/aQzzP0K)<!-- MEMES:END -->
+ - 😝 [Wet water is wet](http://9gag.com/gag/aGyyKEZ)
+ - 💣 [Laser etching over a name](http://9gag.com/gag/aAy0WwZ)
+ - 😝 [For anyone asking, what happened to America?](http://9gag.com/gag/a877d6V)
+ - 👉 [Respect this man](http://9gag.com/gag/a6ZZmqL)<!-- MEMES:END -->
 
 ---
 

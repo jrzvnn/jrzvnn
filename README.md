@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The US Commerce Department adds 25 China-based companies, including Alibaba-backed LLM developer Zhipu AI and chip designer Sophgo, to its restricted trade list &lpar;Karen Freifeld/Reuters&rpar;](http://www.techmeme.com/250115/p43#a250115p43)
+ - [During oral arguments, SCOTUS seemed open to a Texas law requiring age checks to view online porn, but could send the case back to a lower court &lpar;Lindsay Whitehurst/Associated Press&rpar;](http://www.techmeme.com/250115/p42#a250115p42)
  - [AI researcher Fran&amp;ccedil;ois Chollet and Zapier co-founder Mike Knoop launch Ndea, an AI research and science lab focused on &quot;developing and operationalizing AGI&quot; &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/250115/p41#a250115p41)
  - [LG Display announces its brightest, most striking OLED TV panel yet](https://www.theverge.com/2025/1/15/24344798/lg-display-oled-tv-panel-fourth-generation-features)
- - [GoChess Lite review: a surprisingly effective way to get better at chess](https://appleinsider.com/articles/25/01/16/gochess-lite-review-a-surprisingly-effective-way-to-get-better-at-chess?utm_medium=rss)
- - [Sources: Nothing seeks to raise at least $100M in its Series C; it crossed $1B in lifetime sales, sold 7M devices to date, and doubled revenue to $500M+ in 2024 &lpar;Bloomberg&rpar;](http://www.techmeme.com/250115/p40#a250115p40)
- - [Is Lemon8 a Good Replacement for TikTok? Here&#39;s What You Need to Know](https://www.cnet.com/tech/services-and-software/is-lemon8-a-good-replacement-for-tiktok-heres-what-you-need-to-know/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [GoChess Lite review: a surprisingly effective way to get better at chess](https://appleinsider.com/articles/25/01/16/gochess-lite-review-a-surprisingly-effective-way-to-get-better-at-chess?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

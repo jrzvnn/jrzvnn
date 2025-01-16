@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [AT&amp;T stops 5G Internet Air service in New York, as a new law mandates monthly broadband rates of $15 for 25Mbps or $20 for 200Mbps for low-income residents &lpar;Eli Blumenthal/CNET&rpar;](http://www.techmeme.com/250116/p30#a250116p30)
+ - [Nvidia announces new Nvidia Inference Microservices aimed at helping enterprises develop AI agents to address issues of trust, security, and safety &lpar;Kyt Dotson/SiliconANGLE&rpar;](http://www.techmeme.com/250116/p29#a250116p29)
  - [An interview with Replit CEO Amjad Masad, who says the company&#39;s revenue grew 5x over the past six months after releasing a new AI coding tool called Agent &lpar;Reed Albergotti/Semafor&rpar;](http://www.techmeme.com/250116/p28#a250116p28)
  - [Lovense Osci 3 Review: A Vibrator That Warms Up](https://www.wired.com/review/lovense-osci-3/)
- - [What Spotify took from us by giving us everything](https://www.theverge.com/2025/1/16/24344429/spotify-streaming-book-mood-machine)
- - [Leica’s $5,300 SL3-S is its latest hybrid camera for stills and video](https://www.theverge.com/2025/1/16/24343500/leica-sl3s-full-frame-mirrorless-hybrid-camera-price-specs)
- - [Everything we know about the Switch 2’s Joy-Con controllers](https://www.theverge.com/2025/1/16/24343722/switch-2-joy-cons-details-magnets-drift-nintendo)<!-- TECH:END -->
+ - [What Spotify took from us by giving us everything](https://www.theverge.com/2025/1/16/24344429/spotify-streaming-book-mood-machine)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

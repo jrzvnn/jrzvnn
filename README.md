@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Wet water is wet](http://9gag.com/gag/aGyyKEZ)
- - 😝 [Respect this man](http://9gag.com/gag/a6ZZmqL)
- - 💣 [Cosplay](http://9gag.com/gag/aPAAw7P)
- - 😝 [For anyone asking, what happened to America?](http://9gag.com/gag/a877d6V)
- - 👉 [What a clearance](http://9gag.com/gag/a5QX80g)<!-- MEMES:END -->
+ - 😝 [In Milan, fed up of pickpockets, some young Italians go armed with spray paint to identify them.](http://9gag.com/gag/agmmyyw)
+ - 😝 [Never threw away a T-shirt.](http://9gag.com/gag/ae99KeW)
+ - 💣 [The king&#39;s speech](http://9gag.com/gag/azxxg0m)
+ - 😝 [Enough to make a grown man cry](http://9gag.com/gag/aRBExZA)
+ - 👉 [Bad man . . .](http://9gag.com/gag/ae99jG5)<!-- MEMES:END -->
 
 ---
 

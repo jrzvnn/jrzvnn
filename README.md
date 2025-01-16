@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Costly mistake](http://9gag.com/gag/awyy0Nx)
- - 😝 [When she finally invites you over...](http://9gag.com/gag/a4Poe5m)
- - 💣 [For anyone asking, what happened to America?](http://9gag.com/gag/a877d6V)
+ - 😝 [And the Darwin Award goes to:](http://9gag.com/gag/aPAgOXB)
  - 😝 [Bruce got pied](http://9gag.com/gag/aNDw6AA)
- - 👉 [Reminder of this gem. She had window installed and said she didn\u2019t like it and wanted her money back. He paid her back and took care of window.](http://9gag.com/gag/a0e4mOB)<!-- MEMES:END -->
+ - 💣 [A Paris theatre is facing bankruptcy after inviting 250 illegal immigrants to a free screening. After the performance, they barricaded themselves in and have been living in the building for five weeks.](http://9gag.com/gag/a34ZoMN)
+ - 😝 [Today I lost my certification](http://9gag.com/gag/a0e4mMB)
+ - 👉 [Physicist Galen Winsor eats uranium on live television in 1985 to show that it\u2019s \u201charmless\u201d.](http://9gag.com/gag/aByd7ZA)<!-- MEMES:END -->
 
 ---
 

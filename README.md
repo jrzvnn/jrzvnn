@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Appreciation!](http://9gag.com/gag/aW4GV73)
- - 😝 [Almost double of her weight, and that is not a lady boy](http://9gag.com/gag/awyZqAx)
- - 💣 [Great news! The US House Passes Bill Banning Trans Women From Competing In Women\u2019s School Sports!](http://9gag.com/gag/aRBExQ5)
- - 😝 [Focus!](http://9gag.com/gag/a34Zow7)
- - 👉 [Reminder of this gem. She had window installed and said she didn\u2019t like it and wanted her money back. He paid her back and took care of window.](http://9gag.com/gag/a0e4mOB)<!-- MEMES:END -->
+ - 😝 [Gohan... my man](http://9gag.com/gag/aMVE3GP)
+ - 😝 [How to repair a tire puncture](http://9gag.com/gag/aYQV2mq)
+ - 💣 [`Please compensate our employees for hard work so we can NOT pay them more`](http://9gag.com/gag/azx2NEj)
+ - 😝 [Self Awareness](http://9gag.com/gag/arymjeK)
+ - 👉 [Woman saves her dog from drowning in frozen pool](http://9gag.com/gag/a6ZqAY2)<!-- MEMES:END -->
 
 ---
 

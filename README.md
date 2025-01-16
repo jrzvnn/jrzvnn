@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [BitMEX is fined an additional $100M for US Bank Secrecy Act violations between 2015 and 2020; it pleaded guilty in July 2024 and previously agreed to pay $110M &lpar;Daniel Kuhn/The Block&rpar;](http://www.techmeme.com/250115/p39#a250115p39)
- - [As TikTok Ban Nears, Peeved Users Flock to Other Chinese Social Media Apps](https://www.cnet.com/tech/services-and-software/as-tiktok-ban-nears-peeved-users-flock-to-other-chinese-social-media-apps/#ftag=CAD590a51e)
- - [Samsung&#39;s Galaxy S25 Unpacked Event: How to Watch and What to Expect](https://www.cnet.com/tech/mobile/samsungs-galaxy-s25-unpacked-event-how-to-watch-and-what-to-expect/#ftag=CAD590a51e)
- - [The original Kindle Scribe is more than $100 off in refurbished condition](https://www.theverge.com/2025/1/15/24343505/kindle-scribe-ebook-reader-beats-powerbeats-pro-deal-sale)
- - [After Days Using the 2025 Asus ROG Flow Z13, I Think It&#39;s Still Pretty Nichey](https://www.cnet.com/tech/computing/after-days-using-the-2025-asus-rog-flow-z13-i-think-its-still-pretty-nichey/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [AI researcher Fran&amp;ccedil;ois Chollet and Zapier co-founder Mike Knoop launch Ndea, an AI research and science lab focused on &quot;developing and operationalizing AGI&quot; &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/250115/p41#a250115p41)
+ - [LG Display announces its brightest, most striking OLED TV panel yet](https://www.theverge.com/2025/1/15/24344798/lg-display-oled-tv-panel-fourth-generation-features)
+ - [GoChess Lite review: a surprisingly effective way to get better at chess](https://appleinsider.com/articles/25/01/16/gochess-lite-review-a-surprisingly-effective-way-to-get-better-at-chess?utm_medium=rss)
+ - [Sources: Nothing seeks to raise at least $100M in its Series C; it crossed $1B in lifetime sales, sold 7M devices to date, and doubled revenue to $500M+ in 2024 &lpar;Bloomberg&rpar;](http://www.techmeme.com/250115/p40#a250115p40)
+ - [Is Lemon8 a Good Replacement for TikTok? Here&#39;s What You Need to Know](https://www.cnet.com/tech/services-and-software/is-lemon8-a-good-replacement-for-tiktok-heres-what-you-need-to-know/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

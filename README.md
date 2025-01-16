@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The 24 Best Movies on Apple TV+ Right Now &lpar;January 2025&rpar;](https://www.wired.com/story/best-apple-tv-plus-movies/)
  - [Trump&#39;s team promises to keep TikTok from being banned](https://appleinsider.com/articles/25/01/16/trumps-team-promises-to-keep-tiktok-from-being-banned?utm_medium=rss)
  - [Apple is pausing notification summaries for news in the latest iOS 18.3 beta](https://www.theverge.com/2025/1/16/24345331/apple-notification-summaries-pause-news-ios-18-3-beta)
  - [Apple disables notification summaries for News &amp; Entertainment apps in iOS 18.3 beta and makes other changes to summaries, including using italicized text &lpar;Chance Miller/9to5Mac&rpar;](http://www.techmeme.com/250116/p45#a250116p45)
- - [Here are the best Apple Watch deals right now](https://www.theverge.com/21289209/best-apple-watch-deals)
- - [Every Tesla Cybertruck Recall Since the Vehicle Was Released](https://www.cnet.com/roadshow/news/every-tesla-cybertruck-recall-thats-happened-so-far/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Here are the best Apple Watch deals right now](https://www.theverge.com/21289209/best-apple-watch-deals)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [And the Darwin Award goes to:](http://9gag.com/gag/aPAgOXB)
- - 😝 [I will never forget when people thought they were gonna raid Area 51 lol](http://9gag.com/gag/ayN2gRp)
- - 💣 [Relationship turn over](http://9gag.com/gag/aGyEW2G)
- - 😝 [That prank was a fail](http://9gag.com/gag/aD2YEXO)
- - 👉 [Daydreams of shopping with the wife](http://9gag.com/gag/aE0qLno)<!-- MEMES:END -->
+ - 😝 [In Istanbul,a dog brought her puppy,whose heart had stopped due to the cold,to the veterinarian](http://9gag.com/gag/aqyev3j)
+ - 😝 [Almost double of her weight, and that is not a lady boy](http://9gag.com/gag/awyZqAx)
+ - 💣 [Great news! The US House Passes Bill Banning Trans Women From Competing In Women\u2019s School Sports!](http://9gag.com/gag/aRBExQ5)
+ - 😝 [Reminder of this gem. She had window installed and said she didn\u2019t like it and wanted her money back. He paid her back and took care of window.](http://9gag.com/gag/a0e4mOB)
+ - 👉 [Focus!](http://9gag.com/gag/a34Zow7)<!-- MEMES:END -->
 
 ---
 

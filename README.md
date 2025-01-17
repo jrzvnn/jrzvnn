@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Sources: Chinese hackers breached US Treasury Secretary Janet Yellen&#39;s computer and accessed fewer than 50 unclassified files; two deputies were also hacked &lpar;Bloomberg&rpar;](http://www.techmeme.com/250117/p11#a250117p11)
+ - [Cash App fined $255 million in back-to-back settlements](https://www.theverge.com/2025/1/17/24345797/cash-app-fraud-settlements-cfpb-consumer-protections)
  - [Lenovo acquires enterprise storage startup Infinidat and plans to turn it into its Israel development center; Infinidat raised $350M from TPG and others &lpar;Assaf Gilead/Globes Online&rpar;](http://www.techmeme.com/250117/p10#a250117p10)
  - [iPhone 17 rumored to get much more powerful cooling system](https://appleinsider.com/articles/25/01/17/iphone-17-rumored-to-get-much-more-powerful-cooling-system?utm_medium=rss)
- - [Bumble founder Whitney Wolfe Herd will return to the company as CEO in mid-March, replacing current CEO Lidiane Jones, who is departing for &quot;personal reasons&quot; &lpar;Dana Wollman/Bloomberg&rpar;](http://www.techmeme.com/250117/p9#a250117p9)
- - [Can You Get Rich Using a Raspberry Pi to Mine Cryptocurrency?](https://www.wired.com/story/can-you-get-rich-using-a-raspberry-pi-to-mine-crypto/)
- - [Maybe giant gaming handhelds are where it’s at](https://www.theverge.com/2025/1/17/24344308/asus-rog-flow-acer-nitro-blaze-steam-deck-giant-pc-handheld-experiment)<!-- TECH:END -->
+ - [Bumble founder Whitney Wolfe Herd will return to the company as CEO in mid-March, replacing current CEO Lidiane Jones, who is departing for &quot;personal reasons&quot; &lpar;Dana Wollman/Bloomberg&rpar;](http://www.techmeme.com/250117/p9#a250117p9)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

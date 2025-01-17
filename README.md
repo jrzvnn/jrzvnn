@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Math is important](http://9gag.com/gag/aAyyY42)
- - 😝 [Woman wins $250K on a scratch-off ticket at a gas station](http://9gag.com/gag/ae99jzB)
- - 💣 [Guess she won\u2019t be in season 3](http://9gag.com/gag/aXPn8K6)
+ - 😝 [Guess she won\u2019t be in season 3](http://9gag.com/gag/aXPn8K6)
+ - 😝 [Reminder of this gem. She had window installed and said she didn\u2019t like it and wanted her money back. He paid her back and took care of window.](http://9gag.com/gag/a0e4mOB)
+ - 💣 [Woman wins $250K on a scratch-off ticket at a gas station](http://9gag.com/gag/ae99jzB)
  - 😝 [Here you go! Pay with peace of mind!! \ud83d\udecd\ufe0f\ud83c\udf0d](http://9gag.com/gag/a1mmZG8)
- - 👉 [And you f**kers keep saying AI has no practical, real world use](http://9gag.com/gag/aD2YBq9)<!-- MEMES:END -->
+ - 👉 [Kid\u2019s got a golden opportunity here](http://9gag.com/gag/agmmrwn)<!-- MEMES:END -->
 
 ---
 

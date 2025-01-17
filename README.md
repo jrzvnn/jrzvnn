@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Our LED man](http://9gag.com/gag/a1mmAvw)
- - 😝 [Woman wins $250K on a scratch-off ticket at a gas station](http://9gag.com/gag/ae99jzB)
- - 💣 [Spider-Man!!](http://9gag.com/gag/a877dep)
- - 😝 [Robber in Pakistan gets beat down](http://9gag.com/gag/aXPn8R6)
- - 👉 [Respect this man](http://9gag.com/gag/a6ZZmqL)<!-- MEMES:END -->
+ - 😝 [Respect this man](http://9gag.com/gag/a6ZZmqL)
+ - 😝 [When she finally invites you over...](http://9gag.com/gag/a4Poe5m)
+ - 💣 [Our LED man](http://9gag.com/gag/a1mmAvw)
+ - 😝 [Could happen to anyone.](http://9gag.com/gag/a5QQd9V)
+ - 👉 [Very painful](http://9gag.com/gag/aQzz6Vw)<!-- MEMES:END -->
 
 ---
 

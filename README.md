@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Respect this man](http://9gag.com/gag/a6ZZmqL)
- - 😝 [Air quality in India when leaving indoors. According to the universal table, the normal value is 25 or less. Tolerable - up to 50. Worthy - up to 100. Shitty 300. Hell - more than 300](http://9gag.com/gag/adBBNzN)
- - 💣 [Stop overvaluing women they all wear makeup](http://9gag.com/gag/awyybmQ)
+ - 😝 [A classic blunder](http://9gag.com/gag/aE00vL9)
+ - 😝 [Cyberpunk 2065](http://9gag.com/gag/a87qr6p)
+ - 💣 [Wet water is wet](http://9gag.com/gag/aGyyKEZ)
  - 😝 [Here you go! Pay with peace of mind!! \ud83d\udecd\ufe0f\ud83c\udf0d](http://9gag.com/gag/a1mmZG8)
- - 👉 [Guess she won\u2019t be in season 3](http://9gag.com/gag/aXPn8K6)<!-- MEMES:END -->
+ - 👉 [Left or right?](http://9gag.com/gag/avyyZed)<!-- MEMES:END -->
 
 ---
 

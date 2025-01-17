@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Perplexity acquires Read.cv, a social media platform for professionals; Read.cv will shut down and users will be able to export their data until May 16 &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/250117/p27#a250117p27)
  - [Waymo Finds a Way Around US Restrictions Targeting Chinese Cars](https://www.wired.com/story/waymo-finds-a-way-around-us-restrictions-on-chinese-evs/)
  - [How to unblock websites on your iPhone with Surfshark VPN](https://appleinsider.com/articles/25/01/17/how-to-unblock-websites-on-your-iphone-with-surfshark-vpn?utm_medium=rss)
  - [AT&amp;T pulls its 5G internet service in NY over new affordable internet law](https://www.theverge.com/2025/1/17/24346159/att-new-york-affordable-broadband-act-5g)
- - [Bumble founder Whitney Wolfe Herd returns as CEO amid a dating app decline](https://www.theverge.com/2025/1/17/24346171/bumble-whitney-wolfe-herd-ceo-dating-apps)
- - [Asus ProArt Display 5K review: 27-inch Retina for a bargain](https://appleinsider.com/articles/25/01/17/asus-proart-display-5k-review-27-inch-retina-for-a-bargain?utm_medium=rss)<!-- TECH:END -->
+ - [Bumble founder Whitney Wolfe Herd returns as CEO amid a dating app decline](https://www.theverge.com/2025/1/17/24346171/bumble-whitney-wolfe-herd-ceo-dating-apps)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

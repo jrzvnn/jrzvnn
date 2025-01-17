@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Senna - Behind The Scenes](http://9gag.com/gag/aryye20)
- - 😝 [Removing barnacles from Benson the turtles \ud83d\udc22 shell.](http://9gag.com/gag/azxx7yZ)
- - 💣 [The pettiest shrinkflation I&#39;ve ever seen](http://9gag.com/gag/aE00wVO)
+ - 😝 [Peak male performance](http://9gag.com/gag/aRBBQdq)
+ - 😝 [A true Hero](http://9gag.com/gag/aoyyZYx)
+ - 💣 [In Milan, fed up of pickpockets, some young Italians go armed with spray paint to identify them.](http://9gag.com/gag/agmmyyw)
  - 😝 [Here you go! Pay with peace of mind!! \ud83d\udecd\ufe0f\ud83c\udf0d](http://9gag.com/gag/a1mmZG8)
- - 👉 [He definitely knows](http://9gag.com/gag/aW44BN4)<!-- MEMES:END -->
+ - 👉 [Cancelled advertising cause it tells the truth](http://9gag.com/gag/aPAAyNg)<!-- MEMES:END -->
 
 ---
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Here’s how to play the Switch 2 early](https://www.theverge.com/2025/1/17/24345944/nintendo-switch-2-preview-event-how-to-register)
  - [The US sanctions a China-based cybersecurity company involved in the Salt Typhoon hacks and a Shanghai-based hacker involved in the recent US Treasury breach &lpar;Caitlin Webber/Reuters&rpar;](http://www.techmeme.com/250117/p16#a250117p16)
  - [Sources: Shield AI, maker of software for autonomous aircraft and drones, is raising ~$200M from Palantir and others at a $5B valuation, up from $2.8B in 2024 &lpar;Tabby Kinder/Financial Times&rpar;](http://www.techmeme.com/250117/p15#a250117p15)
  - [Microsoft triples down on AI](https://www.theverge.com/2025/1/17/24345865/microsoft-ai-announcements-2025-notepad)
- - [It’s perfectly fine to ignore your smartwatch this January](https://www.theverge.com/2025/1/17/24345802/smartwatch-wearables-fitness-tech-new-years-resolutions)
- - [Prime members can save $50 on the Amazon Kindle Colorsoft in its first sale](https://www.theverge.com/2025/1/17/24345783/amazon-kindle-colorsoft-color-ebook-reader-deal-sale)<!-- TECH:END -->
+ - [It’s perfectly fine to ignore your smartwatch this January](https://www.theverge.com/2025/1/17/24345802/smartwatch-wearables-fitness-tech-new-years-resolutions)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

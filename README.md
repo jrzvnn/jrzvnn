@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Instagram will show your friends what Reels you’ve liked](https://www.theverge.com/2025/1/17/24345840/instagram-reels-friends-liked-tab)
+ - [The Ring Battery Doorbell Pro, one of our favorite video doorbells, is cheaper than ever](https://www.theverge.com/2025/1/17/24345172/ring-battery-doorbell-pro-apple-watch-series-9-deal-sale)
  - [AirPods Max with USB-C plunge to record low $449.99 at Amazon](https://appleinsider.com/articles/25/01/17/airpods-max-with-usb-c-plunge-to-record-low-44999-at-amazon?utm_medium=rss)
  - [Apple to stream FireAid concert, prompts users to donate to relief efforts](https://appleinsider.com/articles/25/01/17/apple-to-stream-fireaid-concert-prompts-users-to-donate-to-relief-efforts?utm_medium=rss)
- - [TikTok Can Be Banned, US Supreme Court Rules](https://www.wired.com/story/tiktok-ban-supreme-court/)
- - [Apple expands its India retail presence with Apple Store app](https://appleinsider.com/articles/25/01/17/apple-expands-its-india-retail-presence-with-apple-store-app?utm_medium=rss)
- - [Supreme Court upholds TikTok ban law](https://www.theverge.com/2025/1/17/24340235/supreme-court-tiktok-divest-ban-first-amendment)<!-- TECH:END -->
+ - [TikTok Can Be Banned, US Supreme Court Rules](https://www.wired.com/story/tiktok-ban-supreme-court/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

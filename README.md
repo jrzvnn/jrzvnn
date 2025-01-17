@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: Chinese hackers breached US Treasury Secretary Janet Yellen&#39;s computer and accessed fewer than 50 unclassified files; two deputies were also hacked &lpar;Bloomberg&rpar;](http://www.techmeme.com/250117/p11#a250117p11)
- - [Cash App fined $255 million in back-to-back settlements](https://www.theverge.com/2025/1/17/24345797/cash-app-fraud-settlements-cfpb-consumer-protections)
- - [Lenovo acquires enterprise storage startup Infinidat and plans to turn it into its Israel development center; Infinidat raised $350M from TPG and others &lpar;Assaf Gilead/Globes Online&rpar;](http://www.techmeme.com/250117/p10#a250117p10)
- - [iPhone 17 rumored to get much more powerful cooling system](https://appleinsider.com/articles/25/01/17/iphone-17-rumored-to-get-much-more-powerful-cooling-system?utm_medium=rss)
- - [Bumble founder Whitney Wolfe Herd will return to the company as CEO in mid-March, replacing current CEO Lidiane Jones, who is departing for &quot;personal reasons&quot; &lpar;Dana Wollman/Bloomberg&rpar;](http://www.techmeme.com/250117/p9#a250117p9)<!-- TECH:END -->
+ - [Apple expands its India retail presence with Apple Store app](https://appleinsider.com/articles/25/01/17/apple-expands-its-india-retail-presence-with-apple-store-app?utm_medium=rss)
+ - [Supreme Court upholds TikTok ban law](https://www.theverge.com/2025/1/17/24340235/supreme-court-tiktok-divest-ban-first-amendment)
+ - [SCOTUS upholds the TikTok divest-or-ban law, says free speech rights must yield to concerns that Chinese control of the app creates a national-security risk &lpar;Greg Stohr/Bloomberg&rpar;](http://www.techmeme.com/250117/p12#a250117p12)
+ - [Mark Zuckerberg Turns His Back on the Media](https://www.wired.com/story/plaintext-mark-zuckerberg-turns-his-back-on-the-media/)
+ - [Sources: Chinese hackers breached US Treasury Secretary Janet Yellen&#39;s computer and accessed fewer than 50 unclassified files; two deputies were also hacked &lpar;Bloomberg&rpar;](http://www.techmeme.com/250117/p11#a250117p11)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

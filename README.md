@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Kid\u2019s got a golden opportunity here](http://9gag.com/gag/agmmrwn)
+ - 😝 [&#39;&#39;Who give a f**k how long a scene is!&#39;&#39; David Lynch](http://9gag.com/gag/aqyyN5R)
  - 😝 [Testing Boomerangs with 1-6 Wings](http://9gag.com/gag/a9yyjD0)
- - 💣 [VERY SNEAKY..](http://9gag.com/gag/ae99NB5)
+ - 💣 [Could happen to anyone.](http://9gag.com/gag/a5QQd9V)
  - 😝 [Here you go! Pay with peace of mind!! \ud83d\udecd\ufe0f\ud83c\udf0d](http://9gag.com/gag/a1mmZG8)
- - 👉 [&#39;&#39;Who give a f**k how long a scene is!&#39;&#39; David Lynch](http://9gag.com/gag/aqyyN5R)<!-- MEMES:END -->
+ - 👉 [It could be worse, MF](http://9gag.com/gag/an77Ko0)<!-- MEMES:END -->
 
 ---
 

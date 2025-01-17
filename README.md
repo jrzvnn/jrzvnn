@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Guess she won\u2019t be in season 3](http://9gag.com/gag/aXPn8K6)
- - 😝 [Reminder of this gem. She had window installed and said she didn\u2019t like it and wanted her money back. He paid her back and took care of window.](http://9gag.com/gag/a0e4mOB)
- - 💣 [Woman wins $250K on a scratch-off ticket at a gas station](http://9gag.com/gag/ae99jzB)
+ - 😝 [This is the moment when Rocky is loaded onto the DPS helicopter. Rocky is a U.S. Marshal K9 who was shot after sniffing out a suspect in a dumpster. He is expected to survive. And he is celebrated as a hero.](http://9gag.com/gag/a9yyd0K)
+ - 😝 [Peak male performance](http://9gag.com/gag/aRBBQdq)
+ - 💣 [Liberal Woman moment](http://9gag.com/gag/aByyK2z)
  - 😝 [Here you go! Pay with peace of mind!! \ud83d\udecd\ufe0f\ud83c\udf0d](http://9gag.com/gag/a1mmZG8)
- - 👉 [Kid\u2019s got a golden opportunity here](http://9gag.com/gag/agmmrwn)<!-- MEMES:END -->
+ - 👉 [A true Hero](http://9gag.com/gag/aoyyZYx)<!-- MEMES:END -->
 
 ---
 

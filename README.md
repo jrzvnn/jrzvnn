@@ -160,8 +160,8 @@ R                        1 repo              ░░░░░░░░░░░�
  - [The FCC’s Jessica Rosenworcel Isn’t Leaving Without a Fight](https://www.wired.com/story/the-fccs-jessica-rosenworcel-isnt-leaving-without-a-fight/)
  - [After SCOTUS upheld the TikTok law, TikTok CEO Shou Zi Chew appeals to Trump in a TikTok video to find a solution that keeps the app available in the US &lpar;Lauren Feiner/The Verge&rpar;](http://www.techmeme.com/250117/p19#a250117p19)
  - [TikTok CEO flatters Trump ahead of US ban deadline](https://www.theverge.com/2025/1/17/24346044/tiktok-ceo-shou-zi-chew-trump-ban-supreme-court)
- - [The best smart home tech at CES 2025](https://appleinsider.com/articles/25/01/15/the-best-smart-home-tech-at-ces-2025?utm_medium=rss)
- - [A look at efforts by Meta, YouTube, Snapchat, X, and Substack to attract TikTok&#39;s creators and users; Substack is offering a $25K &quot;TikTok Liberation Prize&quot; &lpar;The Hollywood Reporter&rpar;](http://www.techmeme.com/250117/p18#a250117p18)<!-- TECH:END -->
+ - [The 4 Best Air Mattresses We&#39;ve Tested](https://www.cnet.com/health/sleep/best-air-mattress/#ftag=CAD590a51e)
+ - [The best smart home tech at CES 2025](https://appleinsider.com/articles/25/01/15/the-best-smart-home-tech-at-ces-2025?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

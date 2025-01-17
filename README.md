@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Peak male performance](http://9gag.com/gag/aRBBQdq)
- - 😝 [Dirty hands clean money, awesome](http://9gag.com/gag/aW440RK)
- - 💣 [Cancelled advertising cause it tells the truth](http://9gag.com/gag/aPAAyNg)
+ - 😝 [Could happen to anyone.](http://9gag.com/gag/a5QQd9V)
+ - 😝 [Testing Boomerangs with 1-6 Wings](http://9gag.com/gag/a9yyjD0)
+ - 💣 [Guess she won\u2019t be in season 3](http://9gag.com/gag/aXPn8K6)
  - 😝 [Here you go! Pay with peace of mind!! \ud83d\udecd\ufe0f\ud83c\udf0d](http://9gag.com/gag/a1mmZG8)
- - 👉 [A true Hero](http://9gag.com/gag/aoyyZYx)<!-- MEMES:END -->
+ - 👉 [Removing barnacles from Benson the turtles \ud83d\udc22 shell.](http://9gag.com/gag/azxx7yZ)<!-- MEMES:END -->
 
 ---
 

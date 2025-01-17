@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Man tries to intentionally crash Uber driver&#39;s car on the highway](http://9gag.com/gag/aryyeoK)
  - 😝 [Costly mistake](http://9gag.com/gag/awyy0Nx)
- - 💣 [Spider-Man!!](http://9gag.com/gag/a877dep)
- - 😝 [Robber in Pakistan gets beat down](http://9gag.com/gag/aXPn8R6)
- - 👉 [This connector on Switch 2 will be key failure point](http://9gag.com/gag/aYQQbjO)<!-- MEMES:END -->
+ - 😝 [That\u2019s what happens\u2026\u2026..](http://9gag.com/gag/a877djQ)
+ - 💣 [Guy freezes his hair and it stands tall.](http://9gag.com/gag/agmm0Kr)
+ - 😝 [Titles\ud83d\uddffvs titles \ud83d\ude2e\ud83d\udca8](http://9gag.com/gag/aAy0W8E)
+ - 👉 [No title](http://9gag.com/gag/ae99jKq)<!-- MEMES:END -->
 
 ---
 

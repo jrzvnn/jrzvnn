@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Instabase, which lets companies process unstructured data from different document types, raised a $100M Series D led by Qatar&#39;s sovereign wealth fund &lpar;Paul Sawers/TechCrunch&rpar;](http://www.techmeme.com/250117/p13#a250117p13)
  - [Instagram will show your friends what Reels you’ve liked](https://www.theverge.com/2025/1/17/24345840/instagram-reels-friends-liked-tab)
  - [The Ring Battery Doorbell Pro, one of our favorite video doorbells, is cheaper than ever](https://www.theverge.com/2025/1/17/24345172/ring-battery-doorbell-pro-apple-watch-series-9-deal-sale)
  - [AirPods Max with USB-C plunge to record low $449.99 at Amazon](https://appleinsider.com/articles/25/01/17/airpods-max-with-usb-c-plunge-to-record-low-44999-at-amazon?utm_medium=rss)
- - [Apple to stream FireAid concert, prompts users to donate to relief efforts](https://appleinsider.com/articles/25/01/17/apple-to-stream-fireaid-concert-prompts-users-to-donate-to-relief-efforts?utm_medium=rss)
- - [TikTok Can Be Banned, US Supreme Court Rules](https://www.wired.com/story/tiktok-ban-supreme-court/)<!-- TECH:END -->
+ - [9 Simple Yoga Poses for Better Sleep](https://www.cnet.com/health/sleep/9-simple-yoga-poses-for-better-sleep/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

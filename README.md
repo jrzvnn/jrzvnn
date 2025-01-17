@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Stop overvaluing women they all wear makeup](http://9gag.com/gag/awyybmQ)
- - 😝 [I downloaded the wrong Spiderman](http://9gag.com/gag/aLnnRBA)
- - 💣 [Air quality in India when leaving indoors. According to the universal table, the normal value is 25 or less. Tolerable - up to 50. Worthy - up to 100. Shitty 300. Hell - more than 300](http://9gag.com/gag/adBBNzN)
+ - 😝 [Cancelled advertising cause it tells the truth](http://9gag.com/gag/aPAAyNg)
+ - 😝 [In Milan, fed up of pickpockets, some young Italians go armed with spray paint to identify them.](http://9gag.com/gag/agmmyyw)
+ - 💣 [A true Hero](http://9gag.com/gag/aoyyZYx)
  - 😝 [Here you go! Pay with peace of mind!! \ud83d\udecd\ufe0f\ud83c\udf0d](http://9gag.com/gag/a1mmZG8)
- - 👉 [&#39;&#39;Who give a f**k how long a scene is!&#39;&#39; David Lynch](http://9gag.com/gag/aqyyN5R)<!-- MEMES:END -->
+ - 👉 [Life finds a way](http://9gag.com/gag/amooX4V)<!-- MEMES:END -->
 
 ---
 

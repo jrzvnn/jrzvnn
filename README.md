@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [7 Best Dry Shampoos, Editor Tested and Reviewed &lpar;2025&rpar;](https://www.wired.com/gallery/the-best-dry-shampoos/)
+ - [In a first, Samsung will pay 50%-100% of executive bonuses in stock starting January 2026, linking compensation to share performance amid chipmaking struggles &lpar;Yoolim Lee/Bloomberg&rpar;](http://www.techmeme.com/250117/p5#a250117p5)
  - [Sources: Instagram and YouTube gear up to welcome TikTok users; two Meta employees say execs discussed resource allocation on January 15 to handle TikTok users &lpar;New York Times&rpar;](http://www.techmeme.com/250117/p4#a250117p4)
  - [How to Download Your TikTok Videos](https://www.wired.com/story/how-to-download-your-tiktok-videos/)
- - [Best Internet Providers in Cheyenne, Wyoming](https://www.cnet.com/home/internet/best-internet-providers-in-cheyenne-wy/#ftag=CAD590a51e)
- - [Build Up Your Savings Faster With APYs Over 4%. Today&#39;s Savings Rates for Jan. 17, 2025](https://www.cnet.com/personal-finance/banking/build-up-your-savings-faster-with-apys-over-4-todays-savings-rates-for-jan-17-2025/#ftag=CAD590a51e)
- - [Now&#39;s the Time to Lock In a High APY. Today&#39;s CD Rates, Jan. 17, 2025](https://www.cnet.com/personal-finance/banking/nows-the-time-to-lock-in-a-high-apy-todays-cd-rates-jan-17-2025/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Best Internet Providers in Cheyenne, Wyoming](https://www.cnet.com/home/internet/best-internet-providers-in-cheyenne-wy/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

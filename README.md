@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Suprise](http://9gag.com/gag/a7oovMx)
- - 😝 [Our LED man](http://9gag.com/gag/a1mmAvw)
- - 💣 [Robber in Pakistan gets beat down](http://9gag.com/gag/aXPn8R6)
- - 😝 [Removing barnacles from Benson the turtles \ud83d\udc22 shell.](http://9gag.com/gag/azxx7yZ)
- - 👉 [This connector on Switch 2 will be key failure point](http://9gag.com/gag/aYQQbjO)<!-- MEMES:END -->
+ - 😝 [Spider-Man!!](http://9gag.com/gag/a877dep)
+ - 😝 [This should be an Olympic sport](http://9gag.com/gag/a7oq4gr)
+ - 💣 [No title](http://9gag.com/gag/ae99jKq)
+ - 😝 [Costly mistake](http://9gag.com/gag/awyy0Nx)
+ - 👉 [Robber in Pakistan gets beat down](http://9gag.com/gag/aXPn8R6)<!-- MEMES:END -->
 
 ---
 

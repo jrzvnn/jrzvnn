@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Removing barnacles from Benson the turtles \ud83d\udc22 shell.](http://9gag.com/gag/azxx7yZ)
- - 😝 [Europe.](http://9gag.com/gag/aPAA4GB)
- - 💣 [Stop overvaluing women they all wear makeup](http://9gag.com/gag/awyybmQ)
+ - 😝 [Kid\u2019s got a golden opportunity here](http://9gag.com/gag/agmmrwn)
+ - 😝 [Testing Boomerangs with 1-6 Wings](http://9gag.com/gag/a9yyjD0)
+ - 💣 [VERY SNEAKY..](http://9gag.com/gag/ae99NB5)
  - 😝 [Here you go! Pay with peace of mind!! \ud83d\udecd\ufe0f\ud83c\udf0d](http://9gag.com/gag/a1mmZG8)
- - 👉 [Kid\u2019s got a golden opportunity here](http://9gag.com/gag/agmmrwn)<!-- MEMES:END -->
+ - 👉 [&#39;&#39;Who give a f**k how long a scene is!&#39;&#39; David Lynch](http://9gag.com/gag/aqyyN5R)<!-- MEMES:END -->
 
 ---
 

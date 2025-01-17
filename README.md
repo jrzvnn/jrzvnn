@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The FTC says Genshin Impact maker Cognosphere will pay $20M to settle claims that it deceived players about the cost of winning prizes and mishandled kids&#39; data &lpar;Bloomberg&rpar;](http://www.techmeme.com/250117/p24#a250117p24)
  - [During her confirmation hearing for secretary of Homeland Security, Kristi Noem says efforts to address foreign disinfo campaigns were outside the remit of CISA &lpar;Jonathan Greig/The Record&rpar;](http://www.techmeme.com/250117/p23#a250117p23)
  - [Nintendo omits original Donkey Kong Country Returns team from the remaster’s credits](https://www.theverge.com/2025/1/17/24346145/nintendo-donkey-kong-country-returns-hd-team-credits)
  - [The FTC releases a report saying Microsoft&#39;s $13B investment in OpenAI raises concerns that the company could extend its cloud computing dominance into AI &lpar;Bloomberg&rpar;](http://www.techmeme.com/250117/p22#a250117p22)
- - [Automakers sue to block Biden’s ‘flawed’ automatic emergency braking rule](https://www.theverge.com/2025/1/17/24346136/automatic-emergency-braking-lawsuit-auto-industry-repeal)
- - [Castlevania: Nocturne’s second season is another soft-spoken knockout](https://www.theverge.com/24345341/castlevania-noctune-season-2-review-netflix)<!-- TECH:END -->
+ - [Automakers sue to block Biden’s ‘flawed’ automatic emergency braking rule](https://www.theverge.com/2025/1/17/24346136/automatic-emergency-braking-lawsuit-auto-industry-repeal)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

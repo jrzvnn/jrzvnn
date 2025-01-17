@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [A pike jumped out of the water, probably chasing prey, got stuck between the branches of a tree, and died. Then a bird built a nest right inside its decaying mouth and is now raising its chicks there.](http://9gag.com/gag/aGyEPz5)
- - 😝 [What a great honor](http://9gag.com/gag/aXPP0vg)
- - 💣 [Testing Boomerangs with 1-6 Wings](http://9gag.com/gag/a9yyjD0)
- - 😝 [*visible confusion*](http://9gag.com/gag/azxxLEZ)
- - 👉 [Swimming date is the best date; change my mind](http://9gag.com/gag/ajPPQxR)<!-- MEMES:END -->
+ - 😝 [Choose your fighter](http://9gag.com/gag/aQzzP0K)
+ - 😝 [Swimming date is the best date; change my mind](http://9gag.com/gag/ajPPQxR)
+ - 💣 [Kid\u2019s got a golden opportunity here](http://9gag.com/gag/agmmrwn)
+ - 😝 [Removing barnacles from Benson the turtles \ud83d\udc22 shell.](http://9gag.com/gag/azxx7yZ)
+ - 👉 [Robber in Pakistan gets beat down](http://9gag.com/gag/aXPn8R6)<!-- MEMES:END -->
 
 ---
 

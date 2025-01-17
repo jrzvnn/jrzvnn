@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Kid\u2019s got a golden opportunity here](http://9gag.com/gag/agmmrwn)
- - 😝 [Spider-Man!!](http://9gag.com/gag/a877dep)
- - 💣 [Wet water is wet](http://9gag.com/gag/aGyyKEZ)
- - 😝 [Costly mistake](http://9gag.com/gag/awyy0Nx)
- - 👉 [Testing Boomerangs with 1-6 Wings](http://9gag.com/gag/a9yyjD0)<!-- MEMES:END -->
+ - 😝 [It is what it is](http://9gag.com/gag/an77ejb)
+ - 😝 [Cosplay](http://9gag.com/gag/aPAAw7P)
+ - 💣 [Peak male performance](http://9gag.com/gag/aRBBQdq)
+ - 😝 [Whamen](http://9gag.com/gag/aoyyE8X)
+ - 👉 [Liberal Woman moment](http://9gag.com/gag/aByyK2z)<!-- MEMES:END -->
 
 ---
 

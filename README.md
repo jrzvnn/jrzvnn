@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [No title](http://9gag.com/gag/ae99jKq)
- - 😝 [Kid\u2019s got a golden opportunity here](http://9gag.com/gag/agmmrwn)
- - 💣 [Testing Boomerangs with 1-6 Wings](http://9gag.com/gag/a9yyjD0)
+ - 😝 [Costly mistake](http://9gag.com/gag/awyy0Nx)
+ - 😝 [We don&#39;t NEED it but he&#39;s one of Us](http://9gag.com/gag/a344d15)
+ - 💣 [He definitely knows](http://9gag.com/gag/aW44BN4)
  - 😝 [Here you go! Pay with peace of mind!! \ud83d\udecd\ufe0f\ud83c\udf0d](http://9gag.com/gag/a1mmZG8)
- - 👉 [We don&#39;t NEED it but he&#39;s one of Us](http://9gag.com/gag/a344d15)<!-- MEMES:END -->
+ - 👉 [Could happen to anyone.](http://9gag.com/gag/a5QQd9V)<!-- MEMES:END -->
 
 ---
 

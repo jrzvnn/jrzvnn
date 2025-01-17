@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [A classic blunder](http://9gag.com/gag/aE00vL9)
- - 😝 [Cyberpunk 2065](http://9gag.com/gag/a87qr6p)
- - 💣 [Wet water is wet](http://9gag.com/gag/aGyyKEZ)
+ - 😝 [Dirty hands clean money, awesome](http://9gag.com/gag/aW440RK)
+ - 😝 [Could happen to anyone.](http://9gag.com/gag/a5QQd9V)
+ - 💣 [I downloaded the wrong Spiderman](http://9gag.com/gag/aLnnRBA)
  - 😝 [Here you go! Pay with peace of mind!! \ud83d\udecd\ufe0f\ud83c\udf0d](http://9gag.com/gag/a1mmZG8)
- - 👉 [Left or right?](http://9gag.com/gag/avyyZed)<!-- MEMES:END -->
+ - 👉 [Digimon The Movie &lpar;2000&rpar;](http://9gag.com/gag/aLn1qMM)<!-- MEMES:END -->
 
 ---
 

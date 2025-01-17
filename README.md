@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Researchers fear TikTok is softening Taiwanese youth&#39;s stance on China with pro-China content; a report says 22% of Taiwan&#39;s population uses TikTok or Douyin &lpar;Kathrin Hille/Financial Times&rpar;](http://www.techmeme.com/250117/p2#a250117p2)
  - [A survey of US teens aged 13-17 found 26% used ChatGPT for schoolwork in 2024, up from 13% in 2023, while 79% had heard of it, up from 67% in 2023 &lpar;Pew Research Center&rpar;](http://www.techmeme.com/250117/p1#a250117p1)
  - [Best Internet Providers in Wake Forest, North Carolina](https://www.cnet.com/home/internet/best-internet-providers-in-wake-forest-nc/#ftag=CAD590a51e)
  - [Best Internet Providers in Fort Wayne, Indiana](https://www.cnet.com/home/internet/best-internet-providers-in-fort-wayne-in/#ftag=CAD590a51e)
- - [Today&#39;s NYT Mini Crossword Answers for Friday, Jan. 17](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-friday-jan-17/#ftag=CAD590a51e)
- - [Job listings show Xiaohongshu is rushing to hire English-speaking moderators to help manage the unexpected influx of English videos and posts on the platform &lpar;Zeyi Yang/Wired&rpar;](http://www.techmeme.com/250116/p58#a250116p58)<!-- TECH:END -->
+ - [Today&#39;s NYT Mini Crossword Answers for Friday, Jan. 17](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-friday-jan-17/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

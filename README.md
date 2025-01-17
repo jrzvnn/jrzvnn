@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [How to use ChatGPT in Apple Notes for macOS](https://appleinsider.com/inside/macos-sequoia/tips/how-to-use-chatgpt-in-apple-notes-for-macos?utm_medium=rss)
- - [EU expands its X probe, asking for internal docs about X&#39;s recommendation algorithm, following complaints from German politicians about boosting the far right &lpar;Financial Times&rpar;](http://www.techmeme.com/250117/p7#a250117p7)
- - [2025 iPad and iPad Air -- what to expect, and when to expect it](https://appleinsider.com/articles/25/01/17/2025-ipad-and-ipad-air----what-to-expect-and-when-to-expect-it?utm_medium=rss)
- - [Display supplier for long-rumored HomePod with screen may have been selected](https://appleinsider.com/articles/25/01/17/display-supplier-for-long-rumored-homepod-with-screen-may-have-been-selected?utm_medium=rss)
- - [11 Best Planners: Weekly and Daily Notebooks &amp; Accessories &lpar;2025&rpar;](https://www.wired.com/story/best-paper-planners/)<!-- TECH:END -->
+ - [Tim Cook vs Meta, &#39;Servant&#39; vs a lawsuit, and Home Hub may be delayed, on the AppleInsider Podcast](https://appleinsider.com/articles/25/01/17/tim-cook-vs-meta-servant-vs-a-lawsuit-and-home-hub-may-be-delayed-on-the-appleinsider-podcast?utm_medium=rss)
+ - [Apple Watch saves man after upside down car crash into pool](https://appleinsider.com/articles/25/01/17/apple-watch-saves-man-after-upside-down-car-crash-into-pool?utm_medium=rss)
+ - [The Real Cognitive Neuroscience Behind ‘Severance’](https://www.wired.com/story/severance-apple-tv-plus-cognitive-neuroscience/)
+ - [6 TikTok creators on where they’ll go if the app is banned](https://www.theverge.com/2025/1/17/24342982/tiktok-ban-creators-instagram-reels-youtube-twitch)
+ - [How to use ChatGPT in Apple Notes for macOS](https://appleinsider.com/inside/macos-sequoia/tips/how-to-use-chatgpt-in-apple-notes-for-macos?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

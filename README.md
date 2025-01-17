@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Nintendo omits original Donkey Kong Country Returns team from the remaster’s credits](https://www.theverge.com/2025/1/17/24346145/nintendo-donkey-kong-country-returns-hd-team-credits)
+ - [The FTC releases a report saying Microsoft&#39;s $13B investment in OpenAI raises concerns that the company could extend its cloud computing dominance into AI &lpar;Bloomberg&rpar;](http://www.techmeme.com/250117/p22#a250117p22)
  - [Automakers sue to block Biden’s ‘flawed’ automatic emergency braking rule](https://www.theverge.com/2025/1/17/24346136/automatic-emergency-braking-lawsuit-auto-industry-repeal)
  - [Castlevania: Nocturne’s second season is another soft-spoken knockout](https://www.theverge.com/24345341/castlevania-noctune-season-2-review-netflix)
- - [Honor Magic 7 Pro Review: Refined Flagship](https://www.wired.com/review/honor-magic-7-pro/)
- - [An interview with Marc Andreessen on his evolution from a &quot;normie Democrat&quot; to a Trump supporter, and what he and others expect from the new administration &lpar;Ross Douthat/New York Times&rpar;](http://www.techmeme.com/250117/p21#a250117p21)
- - [SpaceX’s fiery Starship explosion put on a fantastic show but delayed and diverted flights](https://www.theverge.com/2025/1/17/24345957/spacex-starship-rocket-launch-explosion-flight-delay)<!-- TECH:END -->
+ - [Honor Magic 7 Pro Review: Refined Flagship](https://www.wired.com/review/honor-magic-7-pro/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

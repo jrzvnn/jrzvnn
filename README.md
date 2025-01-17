@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Google has begun requiring users to turn on JavaScript to use Google Search, says to &quot;better protect&quot; Search against malicious activity, such as bots and spam &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/250117/p17#a250117p17)
+ - [Nvidia CEO will be one of the few tech bigwigs to skip Trump’s inauguration](https://www.theverge.com/2025/1/17/24345987/nvidia-jensen-huang-skips-trumps-inauguration)
+ - [Samsung’s priciest Care Plus plan now includes unlimited $0 screen repairs](https://www.theverge.com/2025/1/17/24344533/samsung-care-plus-cracked-glass-repairs-same-day)
  - [Here’s how to play the Switch 2 early](https://www.theverge.com/2025/1/17/24345944/nintendo-switch-2-preview-event-how-to-register)
- - [The US sanctions a China-based cybersecurity company involved in the Salt Typhoon hacks and a Shanghai-based hacker involved in the recent US Treasury breach &lpar;Caitlin Webber/Reuters&rpar;](http://www.techmeme.com/250117/p16#a250117p16)
- - [Sources: Shield AI, maker of software for autonomous aircraft and drones, is raising ~$200M from Palantir and others at a $5B valuation, up from $2.8B in 2024 &lpar;Tabby Kinder/Financial Times&rpar;](http://www.techmeme.com/250117/p15#a250117p15)
- - [Microsoft triples down on AI](https://www.theverge.com/2025/1/17/24345865/microsoft-ai-announcements-2025-notepad)
- - [It’s perfectly fine to ignore your smartwatch this January](https://www.theverge.com/2025/1/17/24345802/smartwatch-wearables-fitness-tech-new-years-resolutions)<!-- TECH:END -->
+ - [The US sanctions a China-based cybersecurity company involved in the Salt Typhoon hacks and a Shanghai-based hacker involved in the recent US Treasury breach &lpar;Caitlin Webber/Reuters&rpar;](http://www.techmeme.com/250117/p16#a250117p16)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

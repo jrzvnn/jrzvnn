@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Left or right?](http://9gag.com/gag/avyyZed)
  - 😝 [Dirty hands clean money, awesome](http://9gag.com/gag/aW440RK)
- - 💣 [Stop overvaluing women they all wear makeup](http://9gag.com/gag/awyybmQ)
+ - 😝 [ImDroppingOut](http://9gag.com/gag/aE00wBx)
+ - 💣 [Kid\u2019s got a golden opportunity here](http://9gag.com/gag/agmmrwn)
  - 😝 [Here you go! Pay with peace of mind!! \ud83d\udecd\ufe0f\ud83c\udf0d](http://9gag.com/gag/a1mmZG8)
- - 👉 [The pettiest shrinkflation I&#39;ve ever seen](http://9gag.com/gag/aE00wVO)<!-- MEMES:END -->
+ - 👉 [Respect this man](http://9gag.com/gag/a6ZZmqL)<!-- MEMES:END -->
 
 ---
 

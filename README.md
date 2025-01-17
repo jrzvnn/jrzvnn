@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Source: Meta will break up its civil rights team, which helped develop a system to address racial and other disparities in how Meta distributed ads on its apps &lpar;Kalley Huang/The Information&rpar;](http://www.techmeme.com/250117/p28#a250117p28)
  - [Perplexity acquires Read.cv, a social media platform for professionals; Read.cv will shut down and users will be able to export their data until May 16 &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/250117/p27#a250117p27)
  - [Waymo Finds a Way Around US Restrictions Targeting Chinese Cars](https://www.wired.com/story/waymo-finds-a-way-around-us-restrictions-on-chinese-evs/)
  - [How to unblock websites on your iPhone with Surfshark VPN](https://appleinsider.com/articles/25/01/17/how-to-unblock-websites-on-your-iphone-with-surfshark-vpn?utm_medium=rss)
- - [AT&amp;T pulls its 5G internet service in NY over new affordable internet law](https://www.theverge.com/2025/1/17/24346159/att-new-york-affordable-broadband-act-5g)
- - [Bumble founder Whitney Wolfe Herd returns as CEO amid a dating app decline](https://www.theverge.com/2025/1/17/24346171/bumble-whitney-wolfe-herd-ceo-dating-apps)<!-- TECH:END -->
+ - [AT&amp;T pulls its 5G internet service in NY over new affordable internet law](https://www.theverge.com/2025/1/17/24346159/att-new-york-affordable-broadband-act-5g)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

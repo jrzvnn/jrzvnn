@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The best smart home tech at CES 2025](https://appleinsider.com/articles/25/01/15/the-best-smart-home-tech-at-ces-2025?utm_medium=rss)
+ - [A giant battery power plant is on fire in California](https://www.theverge.com/2025/1/17/24345859/battery-plant-fire-california-moss-landing-vistra)
+ - [Lawmakers press Meta, Apple, Google, and others on massive Trump donations](https://www.theverge.com/2025/1/17/24345244/elizabeth-warren-senator-press-big-tech-trump-donations)
  - [Some of the Switch’s 2 first accessories are all about Mario Kart](https://www.theverge.com/2025/1/17/24345803/nacon-nintendo-switch-2-mario-kart-steering-wheel-joy-con-grip)
- - [Instabase, which lets companies process unstructured data from different document types, raised a $100M Series D led by Qatar&#39;s sovereign wealth fund &lpar;Paul Sawers/TechCrunch&rpar;](http://www.techmeme.com/250117/p13#a250117p13)
- - [Instagram will show your friends what Reels you’ve liked](https://www.theverge.com/2025/1/17/24345840/instagram-reels-friends-liked-tab)
- - [The Ring Battery Doorbell Pro, one of our favorite video doorbells, is cheaper than ever](https://www.theverge.com/2025/1/17/24345172/ring-battery-doorbell-pro-apple-watch-series-9-deal-sale)
- - [AirPods Max with USB-C plunge to record low $449.99 at Amazon](https://appleinsider.com/articles/25/01/17/airpods-max-with-usb-c-plunge-to-record-low-44999-at-amazon?utm_medium=rss)<!-- TECH:END -->
+ - [Instabase, which lets companies process unstructured data from different document types, raised a $100M Series D led by Qatar&#39;s sovereign wealth fund &lpar;Paul Sawers/TechCrunch&rpar;](http://www.techmeme.com/250117/p13#a250117p13)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

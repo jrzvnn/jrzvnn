@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Spider-Man!!](http://9gag.com/gag/a877dep)
- - 😝 [This should be an Olympic sport](http://9gag.com/gag/a7oq4gr)
- - 💣 [No title](http://9gag.com/gag/ae99jKq)
- - 😝 [Costly mistake](http://9gag.com/gag/awyy0Nx)
- - 👉 [Robber in Pakistan gets beat down](http://9gag.com/gag/aXPn8R6)<!-- MEMES:END -->
+ - 😝 [Very painful](http://9gag.com/gag/aQzz6Vw)
+ - 😝 [No title](http://9gag.com/gag/ae99jKq)
+ - 💣 [Suprise](http://9gag.com/gag/a7oovMx)
+ - 😝 [Robber in Pakistan gets beat down](http://9gag.com/gag/aXPn8R6)
+ - 👉 [This should be an Olympic sport](http://9gag.com/gag/a7oq4gr)<!-- MEMES:END -->
 
 ---
 

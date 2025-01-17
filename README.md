@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Cancelled advertising cause it tells the truth](http://9gag.com/gag/aPAAyNg)
- - 😝 [In Milan, fed up of pickpockets, some young Italians go armed with spray paint to identify them.](http://9gag.com/gag/agmmyyw)
- - 💣 [A true Hero](http://9gag.com/gag/aoyyZYx)
+ - 😝 [Left or right?](http://9gag.com/gag/avyyZed)
+ - 😝 [Math is important](http://9gag.com/gag/aAyyY42)
+ - 💣 [I downloaded the wrong Spiderman](http://9gag.com/gag/aLnnRBA)
  - 😝 [Here you go! Pay with peace of mind!! \ud83d\udecd\ufe0f\ud83c\udf0d](http://9gag.com/gag/a1mmZG8)
- - 👉 [Life finds a way](http://9gag.com/gag/amooX4V)<!-- MEMES:END -->
+ - 👉 [This is how a high trust society changes to a low trust one!](http://9gag.com/gag/aO88mor)<!-- MEMES:END -->
 
 ---
 

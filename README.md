@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Dirty hands clean money, awesome](http://9gag.com/gag/aW440RK)
- - 😝 [ImDroppingOut](http://9gag.com/gag/aE00wBx)
- - 💣 [Kid\u2019s got a golden opportunity here](http://9gag.com/gag/agmmrwn)
+ - 😝 [Stop overvaluing women they all wear makeup](http://9gag.com/gag/awyybmQ)
+ - 😝 [I downloaded the wrong Spiderman](http://9gag.com/gag/aLnnRBA)
+ - 💣 [Air quality in India when leaving indoors. According to the universal table, the normal value is 25 or less. Tolerable - up to 50. Worthy - up to 100. Shitty 300. Hell - more than 300](http://9gag.com/gag/adBBNzN)
  - 😝 [Here you go! Pay with peace of mind!! \ud83d\udecd\ufe0f\ud83c\udf0d](http://9gag.com/gag/a1mmZG8)
- - 👉 [Respect this man](http://9gag.com/gag/a6ZZmqL)<!-- MEMES:END -->
+ - 👉 [&#39;&#39;Who give a f**k how long a scene is!&#39;&#39; David Lynch](http://9gag.com/gag/aqyyN5R)<!-- MEMES:END -->
 
 ---
 

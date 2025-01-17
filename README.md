@@ -166,10 +166,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Costly mistake](http://9gag.com/gag/awyy0Nx)
- - 😝 [That\u2019s what happens\u2026\u2026..](http://9gag.com/gag/a877djQ)
- - 💣 [Guy freezes his hair and it stands tall.](http://9gag.com/gag/agmm0Kr)
- - 😝 [Titles\ud83d\uddffvs titles \ud83d\ude2e\ud83d\udca8](http://9gag.com/gag/aAy0W8E)
+ - 😝 [Woman wins $250K on a scratch-off ticket at a gas station](http://9gag.com/gag/ae99jzB)
+ - 😝 [Cosplay](http://9gag.com/gag/aPAAw7P)
+ - 💣 [Costly mistake](http://9gag.com/gag/awyy0Nx)
+ - 😝 [A classic blunder](http://9gag.com/gag/aE00vL9)
  - 👉 [No title](http://9gag.com/gag/ae99jKq)<!-- MEMES:END -->
 
 ---

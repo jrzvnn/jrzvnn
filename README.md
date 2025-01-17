@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Sources: Meta&#39;s Community Notes won&#39;t apply to paid ads, but will be enabled for organic content, which includes brands&#39; and influencers&#39; unpromoted posts &lpar;Patrick Coffee/Wall Street Journal&rpar;](http://www.techmeme.com/250116/p54#a250116p54)
+ - [The US FTC refers a complaint against Snap to the DOJ, alleging Snapchat&#39;s My AI chatbot poses &quot;risks and harms to young users&quot;; SNAP closed down 5% &lpar;Jonathan Vanian/CNBC&rpar;](http://www.techmeme.com/250116/p53#a250116p53)
+ - [Xiaohongshu Scrambles to Hire English-Speaking Content Moderators](https://www.wired.com/story/xiaohongshu-english-moderators-red-note/)
  - [Sonnet Echo 13 Thunderbolt 5 Dock first with integrated PCIe 4.0 NVMe SSD Storage](https://appleinsider.com/articles/25/01/17/sonnet-echo-13-thunderbolt-5-dock-first-with-integrated-pcie-40-nvme-ssd-storage?utm_medium=rss)
- - [A US official says the Biden administration won&#39;t force TikTok to go dark in the country on January 19 and will leave it up to Trump to implement the law &lpar;ABC News&rpar;](http://www.techmeme.com/250116/p52#a250116p52)
- - [SpaceX catches Starship booster for a second time but loses the spacecraft](https://www.theverge.com/24345430/spacex-starship-rocket-launch-time-watch-live)
- - [Pirate Yakuza in Hawaii Preview: Black Flag-Style Combat on the High Seas](https://www.cnet.com/tech/gaming/pirate-yakuza-in-hawaii-preview-black-flag-style-combat-on-the-high-seas/#ftag=CAD590a51e)
- - [Today&#39;s NYT Strands Hints, Answers and Help for Jan. 17, #320](https://www.cnet.com/tech/gaming/todays-nyt-strands-hints-answers-and-help-for-jan-17-320/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [A US official says the Biden administration won&#39;t force TikTok to go dark in the country on January 19 and will leave it up to Trump to implement the law &lpar;ABC News&rpar;](http://www.techmeme.com/250116/p52#a250116p52)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

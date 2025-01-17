@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Could happen to anyone.](http://9gag.com/gag/a5QQd9V)
- - 😝 [Testing Boomerangs with 1-6 Wings](http://9gag.com/gag/a9yyjD0)
- - 💣 [Guess she won\u2019t be in season 3](http://9gag.com/gag/aXPn8K6)
+ - 😝 [No title](http://9gag.com/gag/ae99jKq)
+ - 😝 [Kid\u2019s got a golden opportunity here](http://9gag.com/gag/agmmrwn)
+ - 💣 [Testing Boomerangs with 1-6 Wings](http://9gag.com/gag/a9yyjD0)
  - 😝 [Here you go! Pay with peace of mind!! \ud83d\udecd\ufe0f\ud83c\udf0d](http://9gag.com/gag/a1mmZG8)
- - 👉 [Removing barnacles from Benson the turtles \ud83d\udc22 shell.](http://9gag.com/gag/azxx7yZ)<!-- MEMES:END -->
+ - 👉 [We don&#39;t NEED it but he&#39;s one of Us](http://9gag.com/gag/a344d15)<!-- MEMES:END -->
 
 ---
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Woman wins $250K on a scratch-off ticket at a gas station](http://9gag.com/gag/ae99jzB)
- - 😝 [Cosplay](http://9gag.com/gag/aPAAw7P)
- - 💣 [Costly mistake](http://9gag.com/gag/awyy0Nx)
+ - 😝 [Spider-Man!!](http://9gag.com/gag/a877dep)
  - 😝 [A classic blunder](http://9gag.com/gag/aE00vL9)
- - 👉 [No title](http://9gag.com/gag/ae99jKq)<!-- MEMES:END -->
+ - 💣 [Cosplay](http://9gag.com/gag/aPAAw7P)
+ - 😝 [Guess she won\u2019t be in season 3](http://9gag.com/gag/aXPn8K6)
+ - 👉 [And you f**kers keep saying AI has no practical, real world use](http://9gag.com/gag/aD2YBq9)<!-- MEMES:END -->
 
 ---
 

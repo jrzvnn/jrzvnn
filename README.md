@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [It is what it is](http://9gag.com/gag/an77ejb)
- - 😝 [Cosplay](http://9gag.com/gag/aPAAw7P)
- - 💣 [Peak male performance](http://9gag.com/gag/aRBBQdq)
- - 😝 [Whamen](http://9gag.com/gag/aoyyE8X)
- - 👉 [Liberal Woman moment](http://9gag.com/gag/aByyK2z)<!-- MEMES:END -->
+ - 😝 [This should be an Olympic sport](http://9gag.com/gag/a7oq4gr)
+ - 😝 [Costly mistake](http://9gag.com/gag/awyy0Nx)
+ - 💣 [Removing barnacles from Benson the turtles \ud83d\udc22 shell.](http://9gag.com/gag/azxx7yZ)
+ - 😝 [This connector on Switch 2 will be key failure point](http://9gag.com/gag/aYQQbjO)
+ - 👉 [Wet water is wet](http://9gag.com/gag/aGyyKEZ)<!-- MEMES:END -->
 
 ---
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: Mira Murati&#39;s AI startup has poached about 10 researchers and engineers, including former OpenAI Head of Special Projects Jonathan Lachman, from rivals &lpar;Zo&amp;euml; Schiffer/Wired&rpar;](http://www.techmeme.com/250116/p51#a250116p51)
- - [Sources: Trump plans an EO to elevate crypto to a national imperative or priority and create a crypto advisory council to advocate for industry priorities &lpar;Bloomberg&rpar;](http://www.techmeme.com/250116/p50#a250116p50)
- - [Hackers Likely Stole FBI Call Logs From AT&amp;T That Could Compromise Informants](https://www.wired.com/story/hackers-likely-stole-fbi-call-logs-from-att-that-could-compromise-informants/)
- - [tvOS 18.2.1 now available with bug fixes](https://appleinsider.com/articles/25/01/17/tvos-1821-now-available-with-bug-fixes?utm_medium=rss)
- - [Mira Murati’s AI Startup Makes First Hires, Including Former OpenAI Executive](https://www.wired.com/story/mira-murati-startup-hire-staff/)<!-- TECH:END -->
+ - [Sonnet Echo 13 Thunderbolt 5 Dock first with integrated PCIe 4.0 NVMe SSD Storage](https://appleinsider.com/articles/25/01/17/sonnet-echo-13-thunderbolt-5-dock-first-with-integrated-pcie-40-nvme-ssd-storage?utm_medium=rss)
+ - [A US official says the Biden administration won&#39;t force TikTok to go dark in the country on January 19 and will leave it up to Trump to implement the law &lpar;ABC News&rpar;](http://www.techmeme.com/250116/p52#a250116p52)
+ - [SpaceX catches Starship booster for a second time but loses the spacecraft](https://www.theverge.com/24345430/spacex-starship-rocket-launch-time-watch-live)
+ - [Pirate Yakuza in Hawaii Preview: Black Flag-Style Combat on the High Seas](https://www.cnet.com/tech/gaming/pirate-yakuza-in-hawaii-preview-black-flag-style-combat-on-the-high-seas/#ftag=CAD590a51e)
+ - [Today&#39;s NYT Strands Hints, Answers and Help for Jan. 17, #320](https://www.cnet.com/tech/gaming/todays-nyt-strands-hints-answers-and-help-for-jan-17-320/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

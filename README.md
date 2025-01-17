@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Dirty hands clean money, awesome](http://9gag.com/gag/aW440RK)
- - 😝 [Could happen to anyone.](http://9gag.com/gag/a5QQd9V)
- - 💣 [I downloaded the wrong Spiderman](http://9gag.com/gag/aLnnRBA)
+ - 😝 [Math is important](http://9gag.com/gag/aAyyY42)
+ - 😝 [Woman wins $250K on a scratch-off ticket at a gas station](http://9gag.com/gag/ae99jzB)
+ - 💣 [Guess she won\u2019t be in season 3](http://9gag.com/gag/aXPn8K6)
  - 😝 [Here you go! Pay with peace of mind!! \ud83d\udecd\ufe0f\ud83c\udf0d](http://9gag.com/gag/a1mmZG8)
- - 👉 [Digimon The Movie &lpar;2000&rpar;](http://9gag.com/gag/aLn1qMM)<!-- MEMES:END -->
+ - 👉 [And you f**kers keep saying AI has no practical, real world use](http://9gag.com/gag/aD2YBq9)<!-- MEMES:END -->
 
 ---
 

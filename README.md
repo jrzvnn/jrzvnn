@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Instagram adds a new tab in the Reels feed that will show videos that a user&#39;s friends have liked or added commentary to &lpar;Mia Sato/The Verge&rpar;](http://www.techmeme.com/250117/p30#a250117p30)
  - [A group of 18 former European heads of state call on the EC to break up Google&#39;s advertising tech business, claiming it erodes Europe&#39;s media landscape &lpar;Edith Hancock/Wall Street Journal&rpar;](http://www.techmeme.com/250117/p29#a250117p29)
  - [Is the &#39;Enron Egg&#39; At-Home Nuclear Reactor More Than A Funny Fake?](https://www.cnet.com/news/is-the-enron-egg-at-home-nuclear-reactor-more-than-a-funny-fake/#ftag=CAD590a51e)
  - [Source: Meta plans to break up its civil rights team, which helped develop tech to address racial and other disparities in how Meta distributed ads on its apps &lpar;Kalley Huang/The Information&rpar;](http://www.techmeme.com/250117/p28#a250117p28)
- - [Perplexity acquires Read.cv, a social media platform for professionals; Read.cv will shut down and let users export their profiles, posts, and more until May 16 &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/250117/p27#a250117p27)
- - [Waymo Finds a Way Around US Restrictions Targeting Chinese Cars](https://www.wired.com/story/waymo-finds-a-way-around-us-restrictions-on-chinese-evs/)<!-- TECH:END -->
+ - [Perplexity acquires Read.cv, a social media platform for professionals; Read.cv will shut down and let users export their profiles, posts, and more until May 16 &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/250117/p27#a250117p27)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

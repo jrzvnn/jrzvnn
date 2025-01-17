@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Choose your fighter](http://9gag.com/gag/aQzzP0K)
- - 😝 [Swimming date is the best date; change my mind](http://9gag.com/gag/ajPPQxR)
- - 💣 [Kid\u2019s got a golden opportunity here](http://9gag.com/gag/agmmrwn)
- - 😝 [Removing barnacles from Benson the turtles \ud83d\udc22 shell.](http://9gag.com/gag/azxx7yZ)
- - 👉 [Robber in Pakistan gets beat down](http://9gag.com/gag/aXPn8R6)<!-- MEMES:END -->
+ - 😝 [Man tries to intentionally crash Uber driver&#39;s car on the highway](http://9gag.com/gag/aryyeoK)
+ - 😝 [Costly mistake](http://9gag.com/gag/awyy0Nx)
+ - 💣 [Spider-Man!!](http://9gag.com/gag/a877dep)
+ - 😝 [Robber in Pakistan gets beat down](http://9gag.com/gag/aXPn8R6)
+ - 👉 [This connector on Switch 2 will be key failure point](http://9gag.com/gag/aYQQbjO)<!-- MEMES:END -->
 
 ---
 

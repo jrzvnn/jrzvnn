@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [This should be an Olympic sport](http://9gag.com/gag/a7oq4gr)
- - 😝 [Costly mistake](http://9gag.com/gag/awyy0Nx)
- - 💣 [Removing barnacles from Benson the turtles \ud83d\udc22 shell.](http://9gag.com/gag/azxx7yZ)
- - 😝 [This connector on Switch 2 will be key failure point](http://9gag.com/gag/aYQQbjO)
- - 👉 [Wet water is wet](http://9gag.com/gag/aGyyKEZ)<!-- MEMES:END -->
+ - 😝 [A pike jumped out of the water, probably chasing prey, got stuck between the branches of a tree, and died. Then a bird built a nest right inside its decaying mouth and is now raising its chicks there.](http://9gag.com/gag/aGyEPz5)
+ - 😝 [What a great honor](http://9gag.com/gag/aXPP0vg)
+ - 💣 [Testing Boomerangs with 1-6 Wings](http://9gag.com/gag/a9yyjD0)
+ - 😝 [*visible confusion*](http://9gag.com/gag/azxxLEZ)
+ - 👉 [Swimming date is the best date; change my mind](http://9gag.com/gag/ajPPQxR)<!-- MEMES:END -->
 
 ---
 

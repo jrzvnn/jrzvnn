@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [TikTok CEO flatters Trump ahead of US ban deadline](https://www.theverge.com/2025/1/17/24346044/tiktok-ceo-shou-zi-chew-trump-ban-supreme-court)
  - [The best smart home tech at CES 2025](https://appleinsider.com/articles/25/01/15/the-best-smart-home-tech-at-ces-2025?utm_medium=rss)
  - [A look at efforts by Meta, YouTube, Snapchat, X, and Substack to attract TikTok&#39;s creators and users; Substack is offering a $25K &quot;TikTok Liberation Prize&quot; &lpar;The Hollywood Reporter&rpar;](http://www.techmeme.com/250117/p18#a250117p18)
  - [Google has begun requiring users to turn on JavaScript to use Google Search, says to &quot;better protect&quot; Search against malicious activity, such as bots and spam &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/250117/p17#a250117p17)
- - [Nvidia CEO will be one of the few tech bigwigs to skip Trump’s inauguration](https://www.theverge.com/2025/1/17/24345987/nvidia-jensen-huang-skips-trumps-inauguration)
- - [Samsung’s priciest Care Plus plan now includes unlimited $0 screen repairs](https://www.theverge.com/2025/1/17/24344533/samsung-care-plus-cracked-glass-repairs-same-day)<!-- TECH:END -->
+ - [Nvidia CEO will be one of the few tech bigwigs to skip Trump’s inauguration](https://www.theverge.com/2025/1/17/24345987/nvidia-jensen-huang-skips-trumps-inauguration)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

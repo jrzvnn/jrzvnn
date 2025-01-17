@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Costly mistake](http://9gag.com/gag/awyy0Nx)
- - 😝 [We don&#39;t NEED it but he&#39;s one of Us](http://9gag.com/gag/a344d15)
- - 💣 [He definitely knows](http://9gag.com/gag/aW44BN4)
+ - 😝 [Could happen to anyone.](http://9gag.com/gag/a5QQd9V)
+ - 😝 [Left or right?](http://9gag.com/gag/avyyZed)
+ - 💣 [ImDroppingOut](http://9gag.com/gag/aE00wBx)
  - 😝 [Here you go! Pay with peace of mind!! \ud83d\udecd\ufe0f\ud83c\udf0d](http://9gag.com/gag/a1mmZG8)
- - 👉 [Could happen to anyone.](http://9gag.com/gag/a5QQd9V)<!-- MEMES:END -->
+ - 👉 [I downloaded the wrong Spiderman](http://9gag.com/gag/aLnnRBA)<!-- MEMES:END -->
 
 ---
 

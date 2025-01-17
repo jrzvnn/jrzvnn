@@ -167,10 +167,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [Suprise](http://9gag.com/gag/a7oovMx)
- - 😝 [Testing Boomerangs with 1-6 Wings](http://9gag.com/gag/a9yyjD0)
- - 💣 [A classic blunder](http://9gag.com/gag/aE00vL9)
- - 😝 [Robber in Pakistan gets beat down](http://9gag.com/gag/aXPn8R6)
- - 👉 [Removing barnacles from Benson the turtles \ud83d\udc22 shell.](http://9gag.com/gag/azxx7yZ)<!-- MEMES:END -->
+ - 😝 [Our LED man](http://9gag.com/gag/a1mmAvw)
+ - 💣 [Robber in Pakistan gets beat down](http://9gag.com/gag/aXPn8R6)
+ - 😝 [Removing barnacles from Benson the turtles \ud83d\udc22 shell.](http://9gag.com/gag/azxx7yZ)
+ - 👉 [This connector on Switch 2 will be key failure point](http://9gag.com/gag/aYQQbjO)<!-- MEMES:END -->
 
 ---
 

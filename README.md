@@ -160,8 +160,8 @@ R                        1 repo              ░░░░░░░░░░░�
  - [Google has begun requiring users to turn on JavaScript to use Google Search, says to &quot;better protect&quot; Search against malicious activity, such as bots and spam &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/250117/p17#a250117p17)
  - [Nvidia CEO will be one of the few tech bigwigs to skip Trump’s inauguration](https://www.theverge.com/2025/1/17/24345987/nvidia-jensen-huang-skips-trumps-inauguration)
  - [Samsung’s priciest Care Plus plan now includes unlimited $0 screen repairs](https://www.theverge.com/2025/1/17/24344533/samsung-care-plus-cracked-glass-repairs-same-day)
- - [Here’s how to play the Switch 2 early](https://www.theverge.com/2025/1/17/24345944/nintendo-switch-2-preview-event-how-to-register)
- - [The US sanctions a China-based cybersecurity company involved in the Salt Typhoon hacks and a Shanghai-based hacker involved in the recent US Treasury breach &lpar;Caitlin Webber/Reuters&rpar;](http://www.techmeme.com/250117/p16#a250117p16)<!-- TECH:END -->
+ - [TikTok Ban Upheld by Supreme Court, Not Swayed by First Amendment Claims](https://www.cnet.com/tech/services-and-software/tiktok-ban-upheld-by-supreme-court-not-swayed-by-first-amendment-claims/#ftag=CAD590a51e)
+ - [Here’s how to play the Switch 2 early](https://www.theverge.com/2025/1/17/24345944/nintendo-switch-2-preview-event-how-to-register)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The best Garmin watches for training and everyday life](https://www.theverge.com/23691498/best-garmin-smartwatch-fitness-tracker-wearables)
- - [Trading is coming to Pokémon TCG Pocket later this month &lpar;with some caveats&rpar;](https://www.theverge.com/2025/1/16/24345484/pokemon-tcg-pocket-trading-january-launch)
- - [The FTC bans GM from selling driver behavior and geolocation data to consumer reporting agencies for five years, after finding GM didn&#39;t properly inform drivers &lpar;Kashmir Hill/New York Times&rpar;](http://www.techmeme.com/250116/p49#a250116p49)
- - [Sony’s black PlayStation 5 accessories are now available for preorder](https://www.theverge.com/24345367/sony-black-dualsense-edge-pulse-explore-elite-playstation-portal-preorder-buy-release-date)
- - [An Entire Book Was Written in DNA—and You Can Buy It for $60](https://www.wired.com/story/entire-book-written-in-dna-buy-it-60-dollars/)<!-- TECH:END -->
+ - [Sources: Mira Murati&#39;s AI startup has poached about 10 researchers and engineers, including former OpenAI Head of Special Projects Jonathan Lachman, from rivals &lpar;Zo&amp;euml; Schiffer/Wired&rpar;](http://www.techmeme.com/250116/p51#a250116p51)
+ - [Sources: Trump plans an EO to elevate crypto to a national imperative or priority and create a crypto advisory council to advocate for industry priorities &lpar;Bloomberg&rpar;](http://www.techmeme.com/250116/p50#a250116p50)
+ - [Hackers Likely Stole FBI Call Logs From AT&amp;T That Could Compromise Informants](https://www.wired.com/story/hackers-likely-stole-fbi-call-logs-from-att-that-could-compromise-informants/)
+ - [tvOS 18.2.1 now available with bug fixes](https://appleinsider.com/articles/25/01/17/tvos-1821-now-available-with-bug-fixes?utm_medium=rss)
+ - [Mira Murati’s AI Startup Makes First Hires, Including Former OpenAI Executive](https://www.wired.com/story/mira-murati-startup-hire-staff/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

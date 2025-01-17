@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [A look at Pump.Fun, a service for launching memecoins that has generated $350M+ in revenue via a 1% trading fee in the 12 months since its launch in Jan. 2024 &lpar;Joel Khalili/Wired&rpar;](http://www.techmeme.com/250117/p3#a250117p3)
  - [Wayfair Coupon and Promo Codes: 15% Off](https://www.wired.com/story/wayfair-coupon/)
  - [Researchers fear TikTok is softening Taiwanese youth&#39;s stance on China with pro-China content; a report says 22% of Taiwan&#39;s population uses TikTok or Douyin &lpar;Kathrin Hille/Financial Times&rpar;](http://www.techmeme.com/250117/p2#a250117p2)
  - [Best Internet Providers in Arlington, Virginia](https://www.cnet.com/home/internet/best-internet-providers-in-arlington-va/#ftag=CAD590a51e)
- - [A survey of US teens aged 13-17 found 26% used ChatGPT for schoolwork in 2024, up from 13% in 2023, while 79% had heard of it, up from 67% in 2023 &lpar;Pew Research Center&rpar;](http://www.techmeme.com/250117/p1#a250117p1)
- - [Best Internet Providers in Wake Forest, North Carolina](https://www.cnet.com/home/internet/best-internet-providers-in-wake-forest-nc/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [A survey of US teens aged 13-17 found 26% used ChatGPT for schoolwork in 2024, up from 13% in 2023, while 79% had heard of it, up from 67% in 2023 &lpar;Pew Research Center&rpar;](http://www.techmeme.com/250117/p1#a250117p1)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

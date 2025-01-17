@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Peak male performance](http://9gag.com/gag/aRBBQdq)
- - 😝 [A true Hero](http://9gag.com/gag/aoyyZYx)
- - 💣 [In Milan, fed up of pickpockets, some young Italians go armed with spray paint to identify them.](http://9gag.com/gag/agmmyyw)
+ - 😝 [I downloaded the wrong Spiderman](http://9gag.com/gag/aLnnRBA)
+ - 😝 [A classic blunder](http://9gag.com/gag/aE00vL9)
+ - 💣 [This connector on Switch 2 will be key failure point](http://9gag.com/gag/aYQQbjO)
  - 😝 [Here you go! Pay with peace of mind!! \ud83d\udecd\ufe0f\ud83c\udf0d](http://9gag.com/gag/a1mmZG8)
- - 👉 [Cancelled advertising cause it tells the truth](http://9gag.com/gag/aPAAyNg)<!-- MEMES:END -->
+ - 👉 [Swimming date is the best date; change my mind](http://9gag.com/gag/ajPPQxR)<!-- MEMES:END -->
 
 ---
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Best Internet Providers in Fort Wayne, Indiana](https://www.cnet.com/home/internet/best-internet-providers-in-fort-wayne-in/#ftag=CAD590a51e)
+ - [Today&#39;s NYT Mini Crossword Answers for Friday, Jan. 17](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-friday-jan-17/#ftag=CAD590a51e)
  - [Job listings show Xiaohongshu is rushing to hire English-speaking moderators to help manage the unexpected influx of English videos and posts on the platform &lpar;Zeyi Yang/Wired&rpar;](http://www.techmeme.com/250116/p58#a250116p58)
  - [Best Shave Club for 2025](https://www.cnet.com/health/personal-care/best-shave-club/#ftag=CAD590a51e)
- - [How to use ChatGPT in Apple Notes for macOS](https://appleinsider.com/inside/macos-sequoia/tips/how-to-use-chatgpt-in-apple-notes-for-macos?utm_medium=rss)
- - [Apple launches its dedicated Apple Store app in India, allowing customers to purchase products, receive personalized shopping recommendations, and more &lpar;Manish Singh/TechCrunch&rpar;](http://www.techmeme.com/250116/p57#a250116p57)
- - [Today&#39;s NYT Connections: Sports Edition Hints and Answers for Jan. 17, #116](https://www.cnet.com/tech/gaming/todays-nyt-connections-sports-edition-hints-and-answers-for-jan-17-116/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [How to use ChatGPT in Apple Notes for macOS](https://appleinsider.com/inside/macos-sequoia/tips/how-to-use-chatgpt-in-apple-notes-for-macos?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

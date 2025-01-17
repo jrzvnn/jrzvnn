@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Job listings show Xiaohongshu is rushing to hire English-speaking moderators to help manage the unexpected influx of English videos and posts on the platform &lpar;Zeyi Yang/Wired&rpar;](http://www.techmeme.com/250116/p58#a250116p58)
  - [How to use ChatGPT in Apple Notes for macOS](https://appleinsider.com/inside/macos-sequoia/tips/how-to-use-chatgpt-in-apple-notes-for-macos?utm_medium=rss)
  - [Apple launches its dedicated Apple Store app in India, allowing customers to purchase products, receive personalized shopping recommendations, and more &lpar;Manish Singh/TechCrunch&rpar;](http://www.techmeme.com/250116/p57#a250116p57)
  - [Robotics company Symbotic agrees to take control of Walmart&#39;s automation business for $200M in cash and up to $350M in &quot;additional contingent consideration&quot; &lpar;Brian Heater/TechCrunch&rpar;](http://www.techmeme.com/250116/p56#a250116p56)
- - [Sony cancels an unannounced live service God of War game](https://www.theverge.com/2025/1/16/24345575/sony-god-of-war-bluepoint-games-bend-games-canceled)
- - [Crypto wallet Phantom raised a $150M Series C co-led by Sequoia Capital and Paradigm at a $3B valuation, more than double its $1.2B valuation in January 2022 &lpar;Bloomberg&rpar;](http://www.techmeme.com/250116/p55#a250116p55)<!-- TECH:END -->
+ - [Sony cancels an unannounced live service God of War game](https://www.theverge.com/2025/1/16/24345575/sony-god-of-war-bluepoint-games-bend-games-canceled)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

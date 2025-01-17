@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [The Ultimate Drag Race](http://9gag.com/gag/aoyKBVA)
- - 😝 [A Paris theatre is facing bankruptcy after inviting 250 illegal immigrants to a free screening. After the performance, they barricaded themselves in and have been living in the building for five weeks.](http://9gag.com/gag/a34ZoMN)
- - 💣 [Woman wins $250K on a scratch-off ticket at a gas station](http://9gag.com/gag/ae99jzB)
- - 😝 [A classic blunder](http://9gag.com/gag/aE00vL9)
- - 👉 [Costly mistake](http://9gag.com/gag/awyy0Nx)<!-- MEMES:END -->
+ - 😝 [Air quality in India when leaving indoors. According to the universal table, the normal value is 25 or less. Tolerable - up to 50. Worthy - up to 100. Shitty 300. Hell - more than 300](http://9gag.com/gag/adBBNzN)
+ - 😝 [I downloaded the wrong Spiderman](http://9gag.com/gag/aLnnRBA)
+ - 💣 [And the Darwin Award goes to:](http://9gag.com/gag/aPAgOXB)
+ - 😝 [This connector on Switch 2 will be key failure point](http://9gag.com/gag/aYQQbjO)
+ - 👉 [No title](http://9gag.com/gag/ae99jKq)<!-- MEMES:END -->
 
 ---
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Left or right?](http://9gag.com/gag/avyyZed)
- - 😝 [Math is important](http://9gag.com/gag/aAyyY42)
- - 💣 [I downloaded the wrong Spiderman](http://9gag.com/gag/aLnnRBA)
+ - 😝 [Removing barnacles from Benson the turtles \ud83d\udc22 shell.](http://9gag.com/gag/azxx7yZ)
+ - 😝 [Europe.](http://9gag.com/gag/aPAA4GB)
+ - 💣 [Stop overvaluing women they all wear makeup](http://9gag.com/gag/awyybmQ)
  - 😝 [Here you go! Pay with peace of mind!! \ud83d\udecd\ufe0f\ud83c\udf0d](http://9gag.com/gag/a1mmZG8)
- - 👉 [This is how a high trust society changes to a low trust one!](http://9gag.com/gag/aO88mor)<!-- MEMES:END -->
+ - 👉 [Kid\u2019s got a golden opportunity here](http://9gag.com/gag/agmmrwn)<!-- MEMES:END -->
 
 ---
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [See 6 Planets Align on January 21](https://www.wired.com/story/see-6-planets-align-on-january-21-planetary-alignment-mars-venus-uranus-neptune-saturn-jupiter/)
- - [Polestar Has a Bold Plan—Get Better at Selling Cars](https://www.wired.com/story/polestars-plan-to-save-itself-from-ruin/)
- - [Google rejects EU fact checking commitments for Search and YouTube](https://www.theverge.com/2025/1/17/24345747/google-eu-dsa-fact-checks-disinformation-code-search-youtube)
- - [7 Best Dry Shampoos, Editor Tested and Reviewed &lpar;2025&rpar;](https://www.wired.com/gallery/the-best-dry-shampoos/)
- - [In a first, Samsung will pay 50%-100% of executive bonuses in stock starting January 2026, linking compensation to share performance amid chipmaking struggles &lpar;Yoolim Lee/Bloomberg&rpar;](http://www.techmeme.com/250117/p5#a250117p5)<!-- TECH:END -->
+ - [How to use ChatGPT in Apple Notes for macOS](https://appleinsider.com/inside/macos-sequoia/tips/how-to-use-chatgpt-in-apple-notes-for-macos?utm_medium=rss)
+ - [EU expands its X probe, asking for internal docs about X&#39;s recommendation algorithm, following complaints from German politicians about boosting the far right &lpar;Financial Times&rpar;](http://www.techmeme.com/250117/p7#a250117p7)
+ - [2025 iPad and iPad Air -- what to expect, and when to expect it](https://appleinsider.com/articles/25/01/17/2025-ipad-and-ipad-air----what-to-expect-and-when-to-expect-it?utm_medium=rss)
+ - [Display supplier for long-rumored HomePod with screen may have been selected](https://appleinsider.com/articles/25/01/17/display-supplier-for-long-rumored-homepod-with-screen-may-have-been-selected?utm_medium=rss)
+ - [11 Best Planners: Weekly and Daily Notebooks &amp; Accessories &lpar;2025&rpar;](https://www.wired.com/story/best-paper-planners/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

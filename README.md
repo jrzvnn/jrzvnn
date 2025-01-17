@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [WiiM Amp Pro Review: Name a Better Network Amp, We&#39;ll Wait](https://www.wired.com/review/wiim-amp-pro/)
  - [Tim Cook vs Meta, &#39;Servant&#39; vs a lawsuit, and Home Hub may be delayed, on the AppleInsider Podcast](https://appleinsider.com/articles/25/01/17/tim-cook-vs-meta-servant-vs-a-lawsuit-and-home-hub-may-be-delayed-on-the-appleinsider-podcast?utm_medium=rss)
  - [Apple Watch saves man after upside down car crash into pool](https://appleinsider.com/articles/25/01/17/apple-watch-saves-man-after-upside-down-car-crash-into-pool?utm_medium=rss)
  - [The Real Cognitive Neuroscience Behind ‘Severance’](https://www.wired.com/story/severance-apple-tv-plus-cognitive-neuroscience/)
- - [6 TikTok creators on where they’ll go if the app is banned](https://www.theverge.com/2025/1/17/24342982/tiktok-ban-creators-instagram-reels-youtube-twitch)
- - [How to use ChatGPT in Apple Notes for macOS](https://appleinsider.com/inside/macos-sequoia/tips/how-to-use-chatgpt-in-apple-notes-for-macos?utm_medium=rss)<!-- TECH:END -->
+ - [6 TikTok creators on where they’ll go if the app is banned](https://www.theverge.com/2025/1/17/24342982/tiktok-ban-creators-instagram-reels-youtube-twitch)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

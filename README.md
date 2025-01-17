@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Spider-Man!!](http://9gag.com/gag/a877dep)
  - 😝 [A classic blunder](http://9gag.com/gag/aE00vL9)
- - 💣 [Cosplay](http://9gag.com/gag/aPAAw7P)
- - 😝 [Guess she won\u2019t be in season 3](http://9gag.com/gag/aXPn8K6)
- - 👉 [And you f**kers keep saying AI has no practical, real world use](http://9gag.com/gag/aD2YBq9)<!-- MEMES:END -->
+ - 😝 [Kid\u2019s got a golden opportunity here](http://9gag.com/gag/agmmrwn)
+ - 💣 [And you f**kers keep saying AI has no practical, real world use](http://9gag.com/gag/aD2YBq9)
+ - 😝 [A Paris theatre is facing bankruptcy after inviting 250 illegal immigrants to a free screening. After the performance, they barricaded themselves in and have been living in the building for five weeks.](http://9gag.com/gag/a34ZoMN)
+ - 👉 [This connector on Switch 2 will be key failure point](http://9gag.com/gag/aYQQbjO)<!-- MEMES:END -->
 
 ---
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [It’s perfectly fine to ignore your smartwatch this January](https://www.theverge.com/2025/1/17/24345802/smartwatch-wearables-fitness-tech-new-years-resolutions)
+ - [Prime members can save $50 on the Amazon Kindle Colorsoft in its first sale](https://www.theverge.com/2025/1/17/24345783/amazon-kindle-colorsoft-color-ebook-reader-deal-sale)
  - [US senators question big tech, including Apple, on the reason behind inauguration donations](https://appleinsider.com/articles/25/01/17/us-senators-question-big-tech-including-apple-on-the-reason-behind-inauguration-donations?utm_medium=rss)
  - [Trump says he will &quot;be making the decision&quot; about TikTok and confirms he had a conversation with Chinese President Xi Jinping about the app &lpar;CNN&rpar;](http://www.techmeme.com/250117/p14#a250117p14)
- - [The best smart home tech at CES 2025](https://appleinsider.com/articles/25/01/15/the-best-smart-home-tech-at-ces-2025?utm_medium=rss)
- - [A giant battery power plant is on fire in California](https://www.theverge.com/2025/1/17/24345859/battery-plant-fire-california-moss-landing-vistra)
- - [Downloads, Trump and VPNs: Everything to Know Before the TikTok Ban](https://www.cnet.com/tech/services-and-software/downloads-trump-and-vpns-everything-to-know-before-the-tiktok-ban/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [The best smart home tech at CES 2025](https://appleinsider.com/articles/25/01/15/the-best-smart-home-tech-at-ces-2025?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Automakers sue to block Biden’s ‘flawed’ automatic emergency braking rule](https://www.theverge.com/2025/1/17/24346136/automatic-emergency-braking-lawsuit-auto-industry-repeal)
+ - [Castlevania: Nocturne’s second season is another soft-spoken knockout](https://www.theverge.com/24345341/castlevania-noctune-season-2-review-netflix)
+ - [Honor Magic 7 Pro Review: Refined Flagship](https://www.wired.com/review/honor-magic-7-pro/)
  - [An interview with Marc Andreessen on his evolution from a &quot;normie Democrat&quot; to a Trump supporter, and what he and others expect from the new administration &lpar;Ross Douthat/New York Times&rpar;](http://www.techmeme.com/250117/p21#a250117p21)
- - [SpaceX’s fiery Starship explosion put on a fantastic show but delayed and diverted flights](https://www.theverge.com/2025/1/17/24345957/spacex-starship-rocket-launch-explosion-flight-delay)
- - [The Supreme Court ruled on TikTok — and nobody knows what comes next](https://www.theverge.com/2025/1/17/24345960/titkok-what-happens-next-supreme-court-decision-ban-biden-trump)
- - [Some congressional leaders who championed the TikTok law now want to delay the ban from going into effect, showing how much politics has shifted on the issue &lpar;NBC News&rpar;](http://www.techmeme.com/250117/p20#a250117p20)
- - [OK Go creates manual music video visual effects with 64 iPhones](https://appleinsider.com/articles/25/01/17/ok-go-creates-manual-music-video-visual-effects-with-64-iphones?utm_medium=rss)<!-- TECH:END -->
+ - [SpaceX’s fiery Starship explosion put on a fantastic show but delayed and diverted flights](https://www.theverge.com/2025/1/17/24345957/spacex-starship-rocket-launch-explosion-flight-delay)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Trump says he will &quot;be making the decision&quot; about TikTok and confirms he had a conversation with Chinese President Xi Jinping about the app &lpar;CNN&rpar;](http://www.techmeme.com/250117/p14#a250117p14)
  - [The best smart home tech at CES 2025](https://appleinsider.com/articles/25/01/15/the-best-smart-home-tech-at-ces-2025?utm_medium=rss)
  - [A giant battery power plant is on fire in California](https://www.theverge.com/2025/1/17/24345859/battery-plant-fire-california-moss-landing-vistra)
  - [Lawmakers press Meta, Apple, Google, and others on massive Trump donations](https://www.theverge.com/2025/1/17/24345244/elizabeth-warren-senator-press-big-tech-trump-donations)
- - [Some of the Switch’s 2 first accessories are all about Mario Kart](https://www.theverge.com/2025/1/17/24345803/nacon-nintendo-switch-2-mario-kart-steering-wheel-joy-con-grip)
- - [Instabase, which lets companies process unstructured data from different document types, raised a $100M Series D led by Qatar&#39;s sovereign wealth fund &lpar;Paul Sawers/TechCrunch&rpar;](http://www.techmeme.com/250117/p13#a250117p13)<!-- TECH:END -->
+ - [Some of the Switch’s 2 first accessories are all about Mario Kart](https://www.theverge.com/2025/1/17/24345803/nacon-nintendo-switch-2-mario-kart-steering-wheel-joy-con-grip)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

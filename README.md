@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Robotics company Symbotic agrees to take control of Walmart&#39;s automation business for $200M in cash and up to $350M in &quot;additional contingent consideration&quot; &lpar;Brian Heater/TechCrunch&rpar;](http://www.techmeme.com/250116/p56#a250116p56)
  - [Sony cancels an unannounced live service God of War game](https://www.theverge.com/2025/1/16/24345575/sony-god-of-war-bluepoint-games-bend-games-canceled)
  - [Crypto wallet Phantom raised a $150M Series C co-led by Sequoia Capital and Paradigm at a $3B valuation, more than double its $1.2B valuation in January 2022 &lpar;Bloomberg&rpar;](http://www.techmeme.com/250116/p55#a250116p55)
  - [Sources: Meta&#39;s Community Notes won&#39;t apply to paid ads, but will be enabled for organic content, which includes brands&#39; and influencers&#39; unpromoted posts &lpar;Patrick Coffee/Wall Street Journal&rpar;](http://www.techmeme.com/250116/p54#a250116p54)
- - [The US FTC refers a complaint against Snap to the DOJ, alleging Snapchat&#39;s My AI chatbot poses &quot;risks and harms to young users&quot;; SNAP closed down 5% &lpar;Jonathan Vanian/CNBC&rpar;](http://www.techmeme.com/250116/p53#a250116p53)
- - [Xiaohongshu Scrambles to Hire English-Speaking Content Moderators](https://www.wired.com/story/xiaohongshu-english-moderators-red-note/)<!-- TECH:END -->
+ - [The US FTC refers a complaint against Snap to the DOJ, alleging Snapchat&#39;s My AI chatbot poses &quot;risks and harms to young users&quot;; SNAP closed down 5% &lpar;Jonathan Vanian/CNBC&rpar;](http://www.techmeme.com/250116/p53#a250116p53)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

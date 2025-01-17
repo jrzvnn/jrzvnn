@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Respect this man](http://9gag.com/gag/a6ZZmqL)
- - 😝 [When she finally invites you over...](http://9gag.com/gag/a4Poe5m)
- - 💣 [Our LED man](http://9gag.com/gag/a1mmAvw)
- - 😝 [Could happen to anyone.](http://9gag.com/gag/a5QQd9V)
- - 👉 [Very painful](http://9gag.com/gag/aQzz6Vw)<!-- MEMES:END -->
+ - 😝 [Suprise](http://9gag.com/gag/a7oovMx)
+ - 😝 [Testing Boomerangs with 1-6 Wings](http://9gag.com/gag/a9yyjD0)
+ - 💣 [A classic blunder](http://9gag.com/gag/aE00vL9)
+ - 😝 [Robber in Pakistan gets beat down](http://9gag.com/gag/aXPn8R6)
+ - 👉 [Removing barnacles from Benson the turtles \ud83d\udc22 shell.](http://9gag.com/gag/azxx7yZ)<!-- MEMES:END -->
 
 ---
 

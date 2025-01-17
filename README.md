@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [See 6 Planets Align on January 21](https://www.wired.com/story/see-6-planets-align-on-january-21-planetary-alignment-mars-venus-uranus-neptune-saturn-jupiter/)
+ - [Polestar Has a Bold Plan—Get Better at Selling Cars](https://www.wired.com/story/polestars-plan-to-save-itself-from-ruin/)
  - [Google rejects EU fact checking commitments for Search and YouTube](https://www.theverge.com/2025/1/17/24345747/google-eu-dsa-fact-checks-disinformation-code-search-youtube)
  - [7 Best Dry Shampoos, Editor Tested and Reviewed &lpar;2025&rpar;](https://www.wired.com/gallery/the-best-dry-shampoos/)
- - [In a first, Samsung will pay 50%-100% of executive bonuses in stock starting January 2026, linking compensation to share performance amid chipmaking struggles &lpar;Yoolim Lee/Bloomberg&rpar;](http://www.techmeme.com/250117/p5#a250117p5)
- - [This AI Feature on Duolingo Could Give Your Language Lessons a Boost](https://www.cnet.com/tech/services-and-software/this-ai-feature-on-duolingo-could-give-your-language-lessons-a-boost/#ftag=CAD590a51e)
- - [Sources: Instagram and YouTube gear up to welcome TikTok users; two Meta employees say execs discussed resource allocation on January 15 to handle TikTok users &lpar;New York Times&rpar;](http://www.techmeme.com/250117/p4#a250117p4)<!-- TECH:END -->
+ - [In a first, Samsung will pay 50%-100% of executive bonuses in stock starting January 2026, linking compensation to share performance amid chipmaking struggles &lpar;Yoolim Lee/Bloomberg&rpar;](http://www.techmeme.com/250117/p5#a250117p5)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

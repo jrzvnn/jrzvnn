@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Waymo Finds a Way Around US Restrictions Targeting Chinese Cars](https://www.wired.com/story/waymo-finds-a-way-around-us-restrictions-on-chinese-evs/)
+ - [How to unblock websites on your iPhone with Surfshark VPN](https://appleinsider.com/articles/25/01/17/how-to-unblock-websites-on-your-iphone-with-surfshark-vpn?utm_medium=rss)
  - [AT&amp;T pulls its 5G internet service in NY over new affordable internet law](https://www.theverge.com/2025/1/17/24346159/att-new-york-affordable-broadband-act-5g)
  - [Bumble founder Whitney Wolfe Herd returns as CEO amid a dating app decline](https://www.theverge.com/2025/1/17/24346171/bumble-whitney-wolfe-herd-ceo-dating-apps)
- - [Asus ProArt Display 5K review: 27-inch Retina for a bargain](https://appleinsider.com/articles/25/01/17/asus-proart-display-5k-review-27-inch-retina-for-a-bargain?utm_medium=rss)
- - [Digital Currency Group agrees to settle and pay $38M to the US SEC over allegations that it misled investors via crypto lender Genesis Global &lpar;Sarah Wynn/The Block&rpar;](http://www.techmeme.com/250117/p26#a250117p26)
- - [Bluesky 2024 moderation report: Bluesky gained 23M+ users, its moderation team grew to ~100, and its moderation service received 6.48M reports, up 17x from 2023 &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/250117/p25#a250117p25)<!-- TECH:END -->
+ - [Asus ProArt Display 5K review: 27-inch Retina for a bargain](https://appleinsider.com/articles/25/01/17/asus-proart-display-5k-review-27-inch-retina-for-a-bargain?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

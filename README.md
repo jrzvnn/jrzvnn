@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Bumble founder Whitney Wolfe Herd will return to the company as CEO in mid-March, replacing current CEO Lidiane Jones, who is departing for &quot;personal reasons&quot; &lpar;Dana Wollman/Bloomberg&rpar;](http://www.techmeme.com/250117/p9#a250117p9)
+ - [Can You Get Rich Using a Raspberry Pi to Mine Cryptocurrency?](https://www.wired.com/story/can-you-get-rich-using-a-raspberry-pi-to-mine-crypto/)
+ - [Maybe giant gaming handhelds are where it’s at](https://www.theverge.com/2025/1/17/24344308/asus-rog-flow-acer-nitro-blaze-steam-deck-giant-pc-handheld-experiment)
  - [Nintendo’s Switch 2 is here — sort of](https://www.theverge.com/2025/1/17/24345788/nintendo-switch-2-tiktok-ban-supreme-court-sonos-vergecast)
- - [PitchBook: investors put $74.6B into US startups in Q4 2024, up from an average of $42B in the prior nine quarters, with $32B invested across just five deals &lpar;Marina Temkin/TechCrunch&rpar;](http://www.techmeme.com/250117/p8#a250117p8)
- - [WiiM Amp Pro Review: Name a Better Network Amp, We&#39;ll Wait](https://www.wired.com/review/wiim-amp-pro/)
- - [Tim Cook vs Meta, &#39;Servant&#39; vs a lawsuit, and Home Hub may be delayed, on the AppleInsider Podcast](https://appleinsider.com/articles/25/01/17/tim-cook-vs-meta-servant-vs-a-lawsuit-and-home-hub-may-be-delayed-on-the-appleinsider-podcast?utm_medium=rss)
- - [Apple Watch saves man after upside down car crash into pool](https://appleinsider.com/articles/25/01/17/apple-watch-saves-man-after-upside-down-car-crash-into-pool?utm_medium=rss)<!-- TECH:END -->
+ - [PitchBook: investors put $74.6B into US startups in Q4 2024, up from an average of $42B in the prior nine quarters, with $32B invested across just five deals &lpar;Marina Temkin/TechCrunch&rpar;](http://www.techmeme.com/250117/p8#a250117p8)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

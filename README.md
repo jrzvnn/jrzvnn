@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Want to Smell Like Donuts? Beauty Brands Think You Do](https://www.wired.com/story/beauty-brands-dessert-skincare/)
- - [Character.AI is testing games on its desktop and mobile web apps to boost engagement, available to paid subscribers and a limited set of users on its free plan &lpar;Ivan Mehta/TechCrunch&rpar;](http://www.techmeme.com/250118/p5#a250118p5)
- - [LG M4 TV Review: A Beautiful Wireless OLED](https://www.wired.com/review/lg-m4-oled/)
- - [Ligue 1 Soccer: Livestream Lens vs. PSG From Anywhere](https://www.cnet.com/tech/services-and-software/ligue-1-soccer-livestream-lens-vs-psg-from-anywhere/#ftag=CAD590a51e)
- - [NFL Playoffs: How to Watch Texans vs. Chiefs Today](https://www.cnet.com/tech/services-and-software/nfl-playoffs-how-to-watch-texans-vs-chiefs-today/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Best Kindle to Buy in 2025, Tested and Reviewed](https://www.wired.com/gallery/best-kindle/)
+ - [Severance’s creators explain the art of a great cliffhanger](https://www.theverge.com/2025/1/18/24346023/severance-season-2-cliffhanger-interview-ben-stiller-adam-scott)
+ - [You can still save on Pixel devices as a part of Google’s New Year promo](https://www.theverge.com/2025/1/18/24345445/google-pixel-watch-3-tablet-fitbit-charge-6-new-year-deal-sale)
+ - [Premier League Soccer: Livestream Arsenal vs. Aston Villa From Anywhere](https://www.cnet.com/tech/services-and-software/premier-league-soccer-livestream-arsenal-vs-aston-villa-from-anywhere/#ftag=CAD590a51e)
+ - [Best VPN for iPhone 2025](https://www.cnet.com/tech/services-and-software/best-iphone-vpn/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

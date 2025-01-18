@@ -167,10 +167,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [Homeless Trans Freak Forcefed Elderly Woman Enough Fentanyl To Kill 200 People Before Stuffing Her In A Freezer After She Let Him Stay At Her Place](http://9gag.com/gag/an77BXo)
- - 😝 [Mouthfuls](http://9gag.com/gag/aMVVQrP)
- - 💣 [Grandpa dismissed warnings of a tiger, almost gets pepsi&#39;d](http://9gag.com/gag/aLnnQWx)
+ - 😝 [No panties needed](http://9gag.com/gag/aZZZW89)
+ - 💣 [Air quality in India when leaving indoors. According to the universal table, the normal value is 25 or less. Tolerable - up to 50. Worthy - up to 100. Shitty 300. Hell - more than 300](http://9gag.com/gag/adBBNzN)
  - 😝 [Here you go! Pay with peace of mind!! \ud83d\udecd\ufe0f\ud83c\udf0d](http://9gag.com/gag/a1mmZG8)
- - 👉 [According to the biker it&#39;s the gates fault](http://9gag.com/gag/aVvvPzO)<!-- MEMES:END -->
+ - 👉 [Women rather give all their money to an AI instead of dating you](http://9gag.com/gag/axyy2gK)<!-- MEMES:END -->
 
 ---
 

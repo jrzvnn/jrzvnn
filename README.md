@@ -166,10 +166,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Shoplifter claimed he couldn&#39;t breath after being arrested](http://9gag.com/gag/ajPP6ww)
- - 😝 [This connector on Switch 2 will be key failure point](http://9gag.com/gag/aYQQbjO)
- - 💣 [Air quality in India when leaving indoors. According to the universal table, the normal value is 25 or less. Tolerable - up to 50. Worthy - up to 100. Shitty 300. Hell - more than 300](http://9gag.com/gag/adBBNzN)
- - 😝 [*visible confusion*](http://9gag.com/gag/azxxLEZ)
+ - 😝 [Stop overvaluing women they all wear makeup](http://9gag.com/gag/awyybmQ)
+ - 😝 [No panties needed](http://9gag.com/gag/aZZZW89)
+ - 💣 [Step 1: Confuse your opponents](http://9gag.com/gag/a2vvqmE)
+ - 😝 [Air quality in India when leaving indoors. According to the universal table, the normal value is 25 or less. Tolerable - up to 50. Worthy - up to 100. Shitty 300. Hell - more than 300](http://9gag.com/gag/adBBNzN)
  - 👉 [Make my day!](http://9gag.com/gag/aoyyZB3)<!-- MEMES:END -->
 
 ---

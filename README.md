@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [A true Hero](http://9gag.com/gag/aoyyZYx)
- - 😝 [Life finds a way](http://9gag.com/gag/amooX4V)
- - 💣 [Perspective is everything](http://9gag.com/gag/abAAbbB)
+ - 😝 [According to the biker it&#39;s the gates fault](http://9gag.com/gag/aVvvPzO)
+ - 😝 [In solidarity to the people of Los Angeles, Mexican Cartel burned down a Mexican Casino.](http://9gag.com/gag/aoyyZDw)
+ - 💣 [*visible confusion*](http://9gag.com/gag/azxxLEZ)
  - 😝 [Here you go! Pay with peace of mind!! \ud83d\udecd\ufe0f\ud83c\udf0d](http://9gag.com/gag/a1mmZG8)
- - 👉 [Our LED man](http://9gag.com/gag/a1mmAvw)<!-- MEMES:END -->
+ - 👉 [Mouthfuls](http://9gag.com/gag/aMVVQrP)<!-- MEMES:END -->
 
 ---
 

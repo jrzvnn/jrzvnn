@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Homeless Trans Freak Forcefed Elderly Woman Enough Fentanyl To Kill 200 People Before Stuffing Her In A Freezer After She Let Him Stay At Her Place](http://9gag.com/gag/an77BXo)
- - 😝 [No panties needed](http://9gag.com/gag/aZZZW89)
- - 💣 [Air quality in India when leaving indoors. According to the universal table, the normal value is 25 or less. Tolerable - up to 50. Worthy - up to 100. Shitty 300. Hell - more than 300](http://9gag.com/gag/adBBNzN)
+ - 😝 [Step 1: Confuse your opponents](http://9gag.com/gag/a2vvqmE)
+ - 😝 [Air quality in India when leaving indoors. According to the universal table, the normal value is 25 or less. Tolerable - up to 50. Worthy - up to 100. Shitty 300. Hell - more than 300](http://9gag.com/gag/adBBNzN)
+ - 💣 [Stop overvaluing women they all wear makeup](http://9gag.com/gag/awyybmQ)
  - 😝 [Here you go! Pay with peace of mind!! \ud83d\udecd\ufe0f\ud83c\udf0d](http://9gag.com/gag/a1mmZG8)
- - 👉 [Women rather give all their money to an AI instead of dating you](http://9gag.com/gag/axyy2gK)<!-- MEMES:END -->
+ - 👉 [The pettiest shrinkflation I&#39;ve ever seen](http://9gag.com/gag/aE00wVO)<!-- MEMES:END -->
 
 ---
 

@@ -167,10 +167,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [Winning in life](http://9gag.com/gag/a877MRQ)
- - 😝 [She gotta be embarrassed](http://9gag.com/gag/aYQQwd0)
+ - 😝 [Could happen to anyone.](http://9gag.com/gag/a5QQd9V)
  - 💣 [Air quality in India when leaving indoors. According to the universal table, the normal value is 25 or less. Tolerable - up to 50. Worthy - up to 100. Shitty 300. Hell - more than 300](http://9gag.com/gag/adBBNzN)
- - 😝 [Somebody tell this dude to man up, he\u2019s acting like a melodramatic woman](http://9gag.com/gag/axyyjgY)
- - 👉 [Bro had enough](http://9gag.com/gag/a5QQK6O)<!-- MEMES:END -->
+ - 😝 [How about coming naked from the shower?](http://9gag.com/gag/ae99Gzj)
+ - 👉 [Helping](http://9gag.com/gag/aGyyDg5)<!-- MEMES:END -->
 
 ---
 

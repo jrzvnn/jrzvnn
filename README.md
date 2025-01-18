@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Filing: ChatGPT&#39;s head of product, Nick Turley, will testify as a witness for the US DOJ in its antitrust case against Google, as a court decides penalties &lpar;Charles Rollet/TechCrunch&rpar;](http://www.techmeme.com/250117/p33#a250117p33)
- - [Instagram profile grids are going to feature rectangles instead of squares](https://www.theverge.com/2025/1/17/24346304/instagram-profile-grids-rectangles-squares)
- - [Coinbase CEO Brian Armstrong endorses a US bitcoin strategic reserve in a blog post on &quot;economic freedom&quot; that calls on world leaders to embrace crypto &lpar;Brady Dale/Axios&rpar;](http://www.techmeme.com/250117/p32#a250117p32)
- - [Amazon suspends drone deliveries in Texas and Arizona to fix the drones&#39; software after two of its latest models crashed in rainy weather at a testing facility &lpar;Matt Day/Bloomberg&rpar;](http://www.techmeme.com/250117/p31#a250117p31)
- - [Instagram adds a new tab in the Reels feed that will show videos that a user&#39;s friends have liked or added commentary to &lpar;Mia Sato/The Verge&rpar;](http://www.techmeme.com/250117/p30#a250117p30)<!-- TECH:END -->
+ - [TikTok says it will go dark in the US on Sunday unless the Biden admin provides a &quot;definitive statement&quot; to critical service providers assuring non-enforcement &lpar;Salvador Rodriguez/CNBC&rpar;](http://www.techmeme.com/250117/p35#a250117p35)
+ - [TikTok says it will go offline on Sunday if Biden doesn’t intervene](https://www.theverge.com/2025/1/17/24346272/tiktok-offline-threat-biden-trump-us-ban)
+ - [CBS considers caving on Trump censorship lawsuit to save Paramount merger](https://www.theverge.com/2025/1/17/24346279/cbs-paramount-trump-merger-lawsuit)
+ - [Zuckerberg says there&#39;s a &quot;bogus narrative saying I blamed Sheryl for a bunch of stuff&quot; and he was just addressing the origin of &quot;bring your whole self to work&quot; &lpar;Karissa Bell/Engadget&rpar;](http://www.techmeme.com/250117/p34#a250117p34)
+ - [How TikTok backed itself into a corner](https://www.theverge.com/2025/1/17/24346335/tiktok-bytedance-us-ban-project-texas)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

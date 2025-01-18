@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Would](http://9gag.com/gag/amoo9P4)
  - 😝 [Winning in life](http://9gag.com/gag/a877MRQ)
- - 💣 [How about coming naked from the shower?](http://9gag.com/gag/ae99Gzj)
- - 😝 [Helping](http://9gag.com/gag/aGyyDg5)
- - 👉 [Air quality in India when leaving indoors. According to the universal table, the normal value is 25 or less. Tolerable - up to 50. Worthy - up to 100. Shitty 300. Hell - more than 300](http://9gag.com/gag/adBBNzN)<!-- MEMES:END -->
+ - 😝 [She gotta be embarrassed](http://9gag.com/gag/aYQQwd0)
+ - 💣 [Canada Montreal police are urging people not to post pictures of porch pirates on social media.](http://9gag.com/gag/ayNNd3r)
+ - 😝 [How about coming naked from the shower?](http://9gag.com/gag/ae99Gzj)
+ - 👉 [Bro had enough](http://9gag.com/gag/a5QQK6O)<!-- MEMES:END -->
 
 ---
 

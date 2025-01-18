@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Step 1: Confuse your opponents](http://9gag.com/gag/a2vvqmE)
+ - 😝 [&#39;&#39;Who give a f**k how long a scene is!&#39;&#39; David Lynch](http://9gag.com/gag/aqyyN5R)
  - 😝 [Air quality in India when leaving indoors. According to the universal table, the normal value is 25 or less. Tolerable - up to 50. Worthy - up to 100. Shitty 300. Hell - more than 300](http://9gag.com/gag/adBBNzN)
- - 💣 [Stop overvaluing women they all wear makeup](http://9gag.com/gag/awyybmQ)
+ - 💣 [Title please](http://9gag.com/gag/a5QQdYL)
  - 😝 [Here you go! Pay with peace of mind!! \ud83d\udecd\ufe0f\ud83c\udf0d](http://9gag.com/gag/a1mmZG8)
- - 👉 [The pettiest shrinkflation I&#39;ve ever seen](http://9gag.com/gag/aE00wVO)<!-- MEMES:END -->
+ - 👉 [Step 1: Confuse your opponents](http://9gag.com/gag/a2vvqmE)<!-- MEMES:END -->
 
 ---
 

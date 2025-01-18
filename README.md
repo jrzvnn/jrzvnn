@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [The pettiest shrinkflation I&#39;ve ever seen](http://9gag.com/gag/aE00wVO)
- - 😝 [Canada Montreal police are urging people not to post pictures of porch pirates on social media.](http://9gag.com/gag/ayNNd3r)
- - 💣 [Bro had enough](http://9gag.com/gag/a5QQK6O)
- - 😝 [Math is important](http://9gag.com/gag/aAyyY42)
- - 👉 [Would](http://9gag.com/gag/amoo9P4)<!-- MEMES:END -->
+ - 😝 [This is how a high trust society changes to a low trust one!](http://9gag.com/gag/aO88mor)
+ - 😝 [Young businessman](http://9gag.com/gag/ayNNdwV)
+ - 💣 [Telemarketer should be top](http://9gag.com/gag/avyyPjd)
+ - 😝 [90s kids will understand...](http://9gag.com/gag/avyyPWW)
+ - 👉 [The invisible gymnast](http://9gag.com/gag/ayNNd1M)<!-- MEMES:END -->
 
 ---
 

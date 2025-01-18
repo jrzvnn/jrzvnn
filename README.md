@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Helping](http://9gag.com/gag/aGyyDg5)
- - 😝 [Instagram model gets too close to a baby bear and wins a prize.](http://9gag.com/gag/aoyyjNe)
- - 💣 [The pettiest shrinkflation I&#39;ve ever seen](http://9gag.com/gag/aE00wVO)
+ - 😝 [The pettiest shrinkflation I&#39;ve ever seen](http://9gag.com/gag/aE00wVO)
  - 😝 [Math is important](http://9gag.com/gag/aAyyY42)
- - 👉 [How about coming naked from the shower?](http://9gag.com/gag/ae99Gzj)<!-- MEMES:END -->
+ - 💣 [Canada Montreal police are urging people not to post pictures of porch pirates on social media.](http://9gag.com/gag/ayNNd3r)
+ - 😝 [How about coming naked from the shower?](http://9gag.com/gag/ae99Gzj)
+ - 👉 [Would](http://9gag.com/gag/amoo9P4)<!-- MEMES:END -->
 
 ---
 

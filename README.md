@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Cute and silly self defense](http://9gag.com/gag/ajPPrOG)
- - 😝 [What do you think Antonio? \ud83d\udc14 !!](http://9gag.com/gag/aNDDez3)
- - 💣 [Grandpa dismissed warnings of a tiger, almost gets pepsi&#39;d](http://9gag.com/gag/aLnnQWx)
+ - 😝 [Life finds a way](http://9gag.com/gag/amooX4V)
+ - 😝 [Perspective is everything](http://9gag.com/gag/abAAbbB)
+ - 💣 [Oh No, Anyway](http://9gag.com/gag/aVvvW68)
  - 😝 [Here you go! Pay with peace of mind!! \ud83d\udecd\ufe0f\ud83c\udf0d](http://9gag.com/gag/a1mmZG8)
- - 👉 [Whoops!](http://9gag.com/gag/azxxgYB)<!-- MEMES:END -->
+ - 👉 [Make my day!](http://9gag.com/gag/aoyyZB3)<!-- MEMES:END -->
 
 ---
 

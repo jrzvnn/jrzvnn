@@ -166,9 +166,9 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Robbie Fowler infamous goal celebration that got him a 4 game ban and 40k fine in 1999.](http://9gag.com/gag/a7oo75q)
- - 😝 [Somebody tell this dude to man up, he\u2019s acting like a melodramatic woman](http://9gag.com/gag/axyyjgY)
- - 💣 [Winning in life](http://9gag.com/gag/a877MRQ)
+ - 😝 [Europe.](http://9gag.com/gag/aPAA4GB)
+ - 😝 [Canada Montreal police are urging people not to post pictures of porch pirates on social media.](http://9gag.com/gag/ayNNd3r)
+ - 💣 [Somebody tell this dude to man up, he\u2019s acting like a melodramatic woman](http://9gag.com/gag/axyyjgY)
  - 😝 [Bro had enough](http://9gag.com/gag/a5QQK6O)
  - 👉 [Make my day!](http://9gag.com/gag/aoyyZB3)<!-- MEMES:END -->
 

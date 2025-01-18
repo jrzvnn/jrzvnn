@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Instagram Reels can be 3 minutes long now](https://www.theverge.com/2025/1/18/24346567/instagram-announces-reels-3-minute-video-posts)
  - [A profile of smart ring maker Oura, which was founded in 2013 in Oulu, Finland and has grown to a $5.2B company by focusing on overall health than fitness alone &lpar;Christopher Mims/Wall Street Journal&rpar;](http://www.techmeme.com/250118/p6#a250118p6)
  - [Donald Trump appears to have launched a meme coin](https://www.theverge.com/2025/1/18/24346505/donald-trump-launched-meme-coin-crypto-national-priority)
- - [Best Kindle to Buy in 2025, Tested and Reviewed](https://www.wired.com/gallery/best-kindle/)
- - [Severance’s creators explain the art of a great cliffhanger](https://www.theverge.com/2025/1/18/24346023/severance-season-2-cliffhanger-interview-ben-stiller-adam-scott)
- - [You can still save on Pixel devices as a part of Google’s New Year promo](https://www.theverge.com/2025/1/18/24345445/google-pixel-watch-3-tablet-fitbit-charge-6-new-year-deal-sale)<!-- TECH:END -->
+ - [10 of the Best Peacock Shows to Stream Right Now](https://www.cnet.com/tech/services-and-software/10-of-the-best-peacock-shows-to-stream-right-now/#ftag=CAD590a51e)
+ - [Best Kindle to Buy in 2025, Tested and Reviewed](https://www.wired.com/gallery/best-kindle/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

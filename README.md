@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Instagram model gets too close to a baby bear and wins a prize.](http://9gag.com/gag/aoyyjNe)
- - 😝 [Core memory formed](http://9gag.com/gag/a4PPYoZ)
- - 💣 [Math is important](http://9gag.com/gag/aAyyY42)
- - 😝 [How about coming naked from the shower?](http://9gag.com/gag/ae99Gzj)
- - 👉 [Would](http://9gag.com/gag/amoo9P4)<!-- MEMES:END -->
+ - 😝 [Tik\u2026\u2026..Tok\u2026\u2026.](http://9gag.com/gag/aW4468x)
+ - 😝 [Telemarketer should be top](http://9gag.com/gag/avyyPjd)
+ - 💣 [Please don&#39;t stop sharing this every week. It&#39;s my only joy. You left me no option but to upload it myself...](http://9gag.com/gag/aNDDKrw)
+ - 😝 [This is how a high trust society changes to a low trust one!](http://9gag.com/gag/aO88mor)
+ - 👉 [The invisible gymnast](http://9gag.com/gag/ayNNd1M)<!-- MEMES:END -->
 
 ---
 

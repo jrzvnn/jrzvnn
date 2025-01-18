@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [A whistleblower complaint claims Amazon paid $380M for licensing robot maker Covariant&#39;s tech and hiring its staff, and the deal merits antitrust scrutiny &lpar;Joseph Menn/Washington Post&rpar;](http://www.techmeme.com/250118/p15#a250118p15)
  - [Amazon drops 15-inch MacBook Air 512GB to $1,249 in flash sale](https://appleinsider.com/articles/25/01/18/amazon-drops-15-inch-macbook-air-512gb-to-1249-in-flash-sale?utm_medium=rss)
  - [Source: Perplexity AI made a TikTok US bid to ByteDance, proposing a merger that brings video to Perplexity, with ByteDance investors retaining their stakes &lpar;Hayden Field/CNBC&rpar;](http://www.techmeme.com/250118/p14#a250118p14)
  - [The Biden White House says TikTok’s threat to go dark is a ‘stunt’](https://www.theverge.com/2025/1/18/24346677/white-house-tiktok-go-dark-threat-stunt-trump-90-day-extension)
- - [Best Internet Providers in Val Verde Park, Texas](https://www.cnet.com/home/internet/best-internet-providers-in-val-verde-park-tx/#ftag=CAD590a51e)
- - [A profile of Charlwin Mao, founder of Xiaohongshu, or Little Red Book, who claims the name references the color of his university Stanford and ex-employer Bain &lpar;Financial Times&rpar;](http://www.techmeme.com/250118/p13#a250118p13)<!-- TECH:END -->
+ - [Best Internet Providers in Val Verde Park, Texas](https://www.cnet.com/home/internet/best-internet-providers-in-val-verde-park-tx/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

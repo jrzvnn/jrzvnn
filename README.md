@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Woman wins $250K on a scratch-off ticket at a gas station](http://9gag.com/gag/ae99jzB)
- - 😝 [Could happen to anyone.](http://9gag.com/gag/a5QQd9V)
- - 💣 [&#39;&#39;Who give a f**k how long a scene is!&#39;&#39; David Lynch](http://9gag.com/gag/aqyyN5R)
+ - 😝 [Left or right?](http://9gag.com/gag/avyyZed)
+ - 😝 [I downloaded the wrong Spiderman](http://9gag.com/gag/aLnnRBA)
+ - 💣 [Stop overvaluing women they all wear makeup](http://9gag.com/gag/awyybmQ)
  - 😝 [Here you go! Pay with peace of mind!! \ud83d\udecd\ufe0f\ud83c\udf0d](http://9gag.com/gag/a1mmZG8)
- - 👉 [Europe.](http://9gag.com/gag/aPAA4GB)<!-- MEMES:END -->
+ - 👉 [&#39;&#39;Who give a f**k how long a scene is!&#39;&#39; David Lynch](http://9gag.com/gag/aqyyN5R)<!-- MEMES:END -->
 
 ---
 

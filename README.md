@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [TikTok Confirms It Will Likely &quot;Go DarK&quot; On Sunday](https://www.cnet.com/tech/services-and-software/tiktok-takes-its-case-to-the-supreme-court-what-to-know/#ftag=CAD590a51e)
  - [Leading crypto firms have given at least $10M to the Trump inaugural fund; Ripple, a major target of SEC enforcement action, donated $5M in digital tokens &lpar;Jasper Goodman/Politico&rpar;](http://www.techmeme.com/250117/p37#a250117p37)
  - [OpenAI worked with Retro Biosciences to develop GPT-4b micro, an AI model that it says can engineer proteins capable of turning regular cells into stem cells &lpar;Antonio Regalado/MIT Technology Review&rpar;](http://www.techmeme.com/250117/p36#a250117p36)
  - [TikTok says it will go dark in the US on Sunday unless the Biden admin provides a &quot;definitive statement&quot; to critical service providers assuring non-enforcement &lpar;Salvador Rodriguez/CNBC&rpar;](http://www.techmeme.com/250117/p35#a250117p35)
- - [TikTok says it will go offline on Sunday if Biden doesn’t intervene](https://www.theverge.com/2025/1/17/24346272/tiktok-offline-threat-biden-trump-us-ban)
- - [CBS considers caving on Trump censorship lawsuit to save Paramount merger](https://www.theverge.com/2025/1/17/24346279/cbs-paramount-trump-merger-lawsuit)<!-- TECH:END -->
+ - [TikTok says it will go offline on Sunday if Biden doesn’t intervene](https://www.theverge.com/2025/1/17/24346272/tiktok-offline-threat-biden-trump-us-ban)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

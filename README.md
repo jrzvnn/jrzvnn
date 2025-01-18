@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Congressional leaders seem flummoxed by the growing popularity of RedNote and Lemon8, an unintended consequence of the TikTok ban &lpar;Politico&rpar;](http://www.techmeme.com/250118/p12#a250118p12)
  - [EV startup Canoo has filed for bankruptcy](https://www.theverge.com/2025/1/18/24346599/canoo-ev-chapter-7-bankruptcy-filing-announced)
  - [Trump says he will &quot;most likely&quot; give TikTok a 90-day reprieve after he takes office on Monday &quot;because it&#39;s appropriate&quot; &lpar;NBC News&rpar;](http://www.techmeme.com/250118/p11#a250118p11)
  - [The White House says TikTok&#39;s threat to shut down is a &quot;stunt&quot; as there is &quot;no reason for TikTok or other companies to take actions&quot; before Trump takes office &lpar;Ana Faguy/BBC&rpar;](http://www.techmeme.com/250118/p10#a250118p10)
- - [Vitalik Buterin outlines &quot;large changes&quot; to Ethereum Foundation leadership structure, after fellow Ethereum co-founder Joseph Lubin called for new EF leadership &lpar;Zack Abrams/The Block&rpar;](http://www.techmeme.com/250118/p9#a250118p9)
- - [La Liga Soccer Livestream: How to Watch Getafe vs. Barcelona From Anywhere](https://www.cnet.com/tech/services-and-software/la-liga-soccer-livestream-how-to-watch-getafe-vs-barcelona-from-anywhere/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Vitalik Buterin outlines &quot;large changes&quot; to Ethereum Foundation leadership structure, after fellow Ethereum co-founder Joseph Lubin called for new EF leadership &lpar;Zack Abrams/The Block&rpar;](http://www.techmeme.com/250118/p9#a250118p9)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

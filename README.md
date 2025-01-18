@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Life finds a way](http://9gag.com/gag/amooX4V)
- - 😝 [Perspective is everything](http://9gag.com/gag/abAAbbB)
- - 💣 [Oh No, Anyway](http://9gag.com/gag/aVvvW68)
+ - 😝 [Homeless Trans Freak Forcefed Elderly Woman Enough Fentanyl To Kill 200 People Before Stuffing Her In A Freezer After She Let Him Stay At Her Place](http://9gag.com/gag/an77BXo)
+ - 😝 [Truck-kun strikes again](http://9gag.com/gag/amooL5y)
+ - 💣 [Mouthfuls](http://9gag.com/gag/aMVVQrP)
  - 😝 [Here you go! Pay with peace of mind!! \ud83d\udecd\ufe0f\ud83c\udf0d](http://9gag.com/gag/a1mmZG8)
- - 👉 [Make my day!](http://9gag.com/gag/aoyyZB3)<!-- MEMES:END -->
+ - 👉 [This guy left home, mosque, sidewalk and choose to pray on busy road. He does not need asylum, he needs mental asylum.](http://9gag.com/gag/aD22oGO)<!-- MEMES:END -->
 
 ---
 

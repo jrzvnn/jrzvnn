@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Will TikTok &#39;Go Dark&#39; on Sunday? Its Fate Remains Unclear](https://www.cnet.com/tech/services-and-software/tiktok-takes-its-case-to-the-supreme-court-what-to-know/#ftag=CAD590a51e)
  - [Microsoft opens testing for Windows AI search](https://www.theverge.com/2025/1/18/24346770/microsoft-testing-windows-ai-search-copilot-plus-pcs)
  - [As the TikTok eulogies pour in from some creators, very few Americans seem concerned that one of the nation&#39;s most popular social media apps will disappear &lpar;Kevin Roose/New York Times&rpar;](http://www.techmeme.com/250118/p16#a250118p16)
  - [Newly-appointed Apple CFO denies 75% App Store profit claim in UK trial](https://appleinsider.com/articles/25/01/18/newly-appointed-apple-cfo-denies-75-app-store-profit-claim-in-uk-trial?utm_medium=rss)
- - [A whistleblower complaint claims Amazon paid $380M for licensing robot maker Covariant&#39;s tech and hiring its staff, and the deal merits antitrust scrutiny &lpar;Joseph Menn/Washington Post&rpar;](http://www.techmeme.com/250118/p15#a250118p15)
- - [Amazon drops 15-inch MacBook Air 512GB to $1,249 in flash sale](https://appleinsider.com/articles/25/01/18/amazon-drops-15-inch-macbook-air-512gb-to-1249-in-flash-sale?utm_medium=rss)<!-- TECH:END -->
+ - [Today&#39;s NYT Connections Hints, Answers and Help for Jan. 19, #588](https://www.cnet.com/tech/gaming/todays-nyt-connections-hints-answers-and-help-for-jan-19-588/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

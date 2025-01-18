@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [Would](http://9gag.com/gag/amoo9P4)
  - 😝 [Winning in life](http://9gag.com/gag/a877MRQ)
- - 😝 [Could happen to anyone.](http://9gag.com/gag/a5QQd9V)
- - 💣 [Air quality in India when leaving indoors. According to the universal table, the normal value is 25 or less. Tolerable - up to 50. Worthy - up to 100. Shitty 300. Hell - more than 300](http://9gag.com/gag/adBBNzN)
- - 😝 [How about coming naked from the shower?](http://9gag.com/gag/ae99Gzj)
- - 👉 [Helping](http://9gag.com/gag/aGyyDg5)<!-- MEMES:END -->
+ - 💣 [How about coming naked from the shower?](http://9gag.com/gag/ae99Gzj)
+ - 😝 [Helping](http://9gag.com/gag/aGyyDg5)
+ - 👉 [Air quality in India when leaving indoors. According to the universal table, the normal value is 25 or less. Tolerable - up to 50. Worthy - up to 100. Shitty 300. Hell - more than 300](http://9gag.com/gag/adBBNzN)<!-- MEMES:END -->
 
 ---
 

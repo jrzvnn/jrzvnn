@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Ah yes, those eggs!](http://9gag.com/gag/aYQQpvv)
- - 😝 [Long Live Mama Lobsters!](http://9gag.com/gag/aXPP09z)
- - 💣 [&#39;&#39;Who give a f**k how long a scene is!&#39;&#39; David Lynch](http://9gag.com/gag/aqyyN5R)
+ - 😝 [Homeless Trans Freak Forcefed Elderly Woman Enough Fentanyl To Kill 200 People Before Stuffing Her In A Freezer After She Let Him Stay At Her Place](http://9gag.com/gag/an77BXo)
+ - 😝 [Mouthfuls](http://9gag.com/gag/aMVVQrP)
+ - 💣 [Grandpa dismissed warnings of a tiger, almost gets pepsi&#39;d](http://9gag.com/gag/aLnnQWx)
  - 😝 [Here you go! Pay with peace of mind!! \ud83d\udecd\ufe0f\ud83c\udf0d](http://9gag.com/gag/a1mmZG8)
- - 👉 [Mouthfuls](http://9gag.com/gag/aMVVQrP)<!-- MEMES:END -->
+ - 👉 [According to the biker it&#39;s the gates fault](http://9gag.com/gag/aVvvPzO)<!-- MEMES:END -->
 
 ---
 

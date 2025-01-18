@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The 45 Best Movies on Netflix Right Now &lpar;January 2025&rpar;](https://www.wired.com/story/netflix-best-movies-this-week/)
- - [Influencers Are Hawking Wellness Products in Response to the LA Fires](https://www.wired.com/story/influencers-are-hawking-wellness-products-in-response-to-the-la-fires/)
- - [The 48 Best Shows on Netflix Right Now &lpar;January 2025&rpar;](https://www.wired.com/story/netflix-best-shows-this-week/)
- - [Bundesliga Soccer Livestream: How to Watch Bayern Munich vs. Wolfsburg From Anywhere](https://www.cnet.com/tech/services-and-software/bundesliga-soccer-livestream-how-to-watch-bayern-munich-vs-wolfsburg-from-anywhere/#ftag=CAD590a51e)
- - [Want to Avoid AI Scams? Try These Tips From Our Experts](https://www.wired.com/story/avoid-scams-ai-unlocked-live/)<!-- TECH:END -->
+ - [9 Tips and Tricks to Get More out of Your Amazon Kindle](https://www.wired.com/story/9-tips-and-tricks-to-get-more-out-of-your-amazon-kindle/)
+ - [Will Nintendo Get Out of Its Own Way to Make the Switch 2 a Steam Deck Competitor?](https://www.cnet.com/tech/gaming/will-nintendo-get-out-of-its-own-way-to-make-the-switch-2-a-steam-deck-competitor/#ftag=CAD590a51e)
+ - [Premier League Soccer: Livestream West Ham vs. Crystal Palace From Anywhere](https://www.cnet.com/tech/services-and-software/premier-league-soccer-livestream-west-ham-vs-crystal-palace-from-anywhere/#ftag=CAD590a51e)
+ - [Premier League Soccer: Livestream Brentford vs. Liverpool From Anywhere](https://www.cnet.com/tech/services-and-software/premier-league-soccer-livestream-brentford-vs-liverpool-from-anywhere/#ftag=CAD590a51e)
+ - [Give Your iPhone Messages More Security in 4 Easy Steps](https://www.cnet.com/tech/services-and-software/give-your-iphone-messages-more-security-in-4-easy-steps/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

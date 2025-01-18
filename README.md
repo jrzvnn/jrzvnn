@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Stop overvaluing women they all wear makeup](http://9gag.com/gag/awyybmQ)
- - 😝 [No panties needed](http://9gag.com/gag/aZZZW89)
- - 💣 [Step 1: Confuse your opponents](http://9gag.com/gag/a2vvqmE)
- - 😝 [Air quality in India when leaving indoors. According to the universal table, the normal value is 25 or less. Tolerable - up to 50. Worthy - up to 100. Shitty 300. Hell - more than 300](http://9gag.com/gag/adBBNzN)
- - 👉 [Make my day!](http://9gag.com/gag/aoyyZB3)<!-- MEMES:END -->
+ - 😝 [Little parting gift](http://9gag.com/gag/aMVVr8M)
+ - 😝 [Mouthfuls](http://9gag.com/gag/aMVVQrP)
+ - 💣 [Canada Montreal police are urging people not to post pictures of porch pirates on social media.](http://9gag.com/gag/ayNNd3r)
+ - 😝 [Young businessman](http://9gag.com/gag/ayNNdwV)
+ - 👉 [The old times were better](http://9gag.com/gag/aGyyxr5)<!-- MEMES:END -->
 
 ---
 

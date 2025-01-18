@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [A true Hero](http://9gag.com/gag/aoyyZYx)
- - 😝 [Life finds a way](http://9gag.com/gag/amooX4V)
- - 💣 [Perspective is everything](http://9gag.com/gag/abAAbbB)
+ - 😝 [No panties needed](http://9gag.com/gag/aZZZW89)
+ - 😝 [Make my day!](http://9gag.com/gag/aoyyZB3)
+ - 💣 [It could be worse, MF](http://9gag.com/gag/an77Ko0)
  - 😝 [Here you go! Pay with peace of mind!! \ud83d\udecd\ufe0f\ud83c\udf0d](http://9gag.com/gag/a1mmZG8)
- - 👉 [Oh No, Anyway](http://9gag.com/gag/aVvvW68)<!-- MEMES:END -->
+ - 👉 [Mouthfuls](http://9gag.com/gag/aMVVQrP)<!-- MEMES:END -->
 
 ---
 

@@ -166,10 +166,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Little parting gift](http://9gag.com/gag/aMVVr8M)
- - 😝 [What do you think Antonio? \ud83d\udc14 !!](http://9gag.com/gag/aNDDez3)
+ - 😝 [Instagram model gets too close to a baby bear and wins a prize.](http://9gag.com/gag/aoyyjNe)
+ - 😝 [Core memory formed](http://9gag.com/gag/a4PPYoZ)
  - 💣 [Math is important](http://9gag.com/gag/aAyyY42)
- - 😝 [Air quality in India when leaving indoors. According to the universal table, the normal value is 25 or less. Tolerable - up to 50. Worthy - up to 100. Shitty 300. Hell - more than 300](http://9gag.com/gag/adBBNzN)
+ - 😝 [How about coming naked from the shower?](http://9gag.com/gag/ae99Gzj)
  - 👉 [Would](http://9gag.com/gag/amoo9P4)<!-- MEMES:END -->
 
 ---

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [No panties needed](http://9gag.com/gag/aZZZW89)
- - 😝 [Make my day!](http://9gag.com/gag/aoyyZB3)
- - 💣 [It could be worse, MF](http://9gag.com/gag/an77Ko0)
+ - 😝 [Woman wins $250K on a scratch-off ticket at a gas station](http://9gag.com/gag/ae99jzB)
+ - 😝 [&#39;&#39;Who give a f**k how long a scene is!&#39;&#39; David Lynch](http://9gag.com/gag/aqyyN5R)
+ - 💣 [Make my day!](http://9gag.com/gag/aoyyZB3)
  - 😝 [Here you go! Pay with peace of mind!! \ud83d\udecd\ufe0f\ud83c\udf0d](http://9gag.com/gag/a1mmZG8)
- - 👉 [Mouthfuls](http://9gag.com/gag/aMVVQrP)<!-- MEMES:END -->
+ - 👉 [Could happen to anyone.](http://9gag.com/gag/a5QQd9V)<!-- MEMES:END -->
 
 ---
 

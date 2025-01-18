@@ -166,9 +166,9 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Winning in life](http://9gag.com/gag/a877MRQ)
- - 😝 [She gotta be embarrassed](http://9gag.com/gag/aYQQwd0)
- - 💣 [Canada Montreal police are urging people not to post pictures of porch pirates on social media.](http://9gag.com/gag/ayNNd3r)
+ - 😝 [He&#39;s back](http://9gag.com/gag/aoyy01w)
+ - 😝 [Somebody tell this dude to man up, he\u2019s acting like a melodramatic woman](http://9gag.com/gag/axyyjgY)
+ - 💣 [Make my day!](http://9gag.com/gag/aoyyZB3)
  - 😝 [How about coming naked from the shower?](http://9gag.com/gag/ae99Gzj)
  - 👉 [Bro had enough](http://9gag.com/gag/a5QQK6O)<!-- MEMES:END -->
 

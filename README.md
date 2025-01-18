@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Premier League Soccer: Livestream Newcastle vs. Bournemouth From Anywhere](https://www.cnet.com/tech/services-and-software/premier-league-soccer-livestream-newcastle-vs-bournemouth-from-anywhere/#ftag=CAD590a51e)
+ - [Best Internet Providers in Maury, Tennessee](https://www.cnet.com/home/internet/best-internet-providers-in-maury-tn/#ftag=CAD590a51e)
+ - [Best Internet Providers in Pueblo, Colorado](https://www.cnet.com/home/internet/best-internet-providers-in-pueblo-co/#ftag=CAD590a51e)
  - [Adam Mosseri says Instagram profile grids will display content as rectangles instead of squares as part of a change rolling out &quot;over the weekend&quot; &lpar;Jay Peters/The Verge&rpar;](http://www.techmeme.com/250118/p3#a250118p3)
- - [Sephora Promo Codes: 4X Points on Skincare](https://www.wired.com/story/sephora-promo-code/)
- - [Best Pizza Ovens for 2025](https://www.cnet.com/home/kitchen-and-household/best-pizza-oven/#ftag=CAD590a51e)
- - [Best Running Shoes for Women in 2025](https://www.cnet.com/health/fitness/best-womens-running-shoes/#ftag=CAD590a51e)
- - [Donald Trump is promoting a Solana memecoin called TRUMP from his social media accounts, with 200M $TRUMP available now and growing to 1B &quot;over three years&quot; &lpar;Andrew Hayward/Decrypt&rpar;](http://www.techmeme.com/250118/p2#a250118p2)<!-- TECH:END -->
+ - [Sephora Promo Codes: 4X Points on Skincare](https://www.wired.com/story/sephora-promo-code/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

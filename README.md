@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [At least four UK teenagers have been arrested in connection with 764, a &quot;Satanist&quot; terror network targeting children online for sexual blackmail and violence &lpar;BBC&rpar;](http://www.techmeme.com/250118/p4#a250118p4)
  - [Premier League Soccer: Livestream Newcastle vs. Bournemouth From Anywhere](https://www.cnet.com/tech/services-and-software/premier-league-soccer-livestream-newcastle-vs-bournemouth-from-anywhere/#ftag=CAD590a51e)
  - [Best Internet Providers in Maury, Tennessee](https://www.cnet.com/home/internet/best-internet-providers-in-maury-tn/#ftag=CAD590a51e)
  - [Best Internet Providers in Pueblo, Colorado](https://www.cnet.com/home/internet/best-internet-providers-in-pueblo-co/#ftag=CAD590a51e)
- - [Adam Mosseri says Instagram profile grids will display content as rectangles instead of squares as part of a change rolling out &quot;over the weekend&quot; &lpar;Jay Peters/The Verge&rpar;](http://www.techmeme.com/250118/p3#a250118p3)
- - [Sephora Promo Codes: 4X Points on Skincare](https://www.wired.com/story/sephora-promo-code/)<!-- TECH:END -->
+ - [Adam Mosseri says Instagram profile grids will display content as rectangles instead of squares as part of a change rolling out &quot;over the weekend&quot; &lpar;Jay Peters/The Verge&rpar;](http://www.techmeme.com/250118/p3#a250118p3)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [&#39;&#39;Who give a f**k how long a scene is!&#39;&#39; David Lynch](http://9gag.com/gag/aqyyN5R)
- - 😝 [Air quality in India when leaving indoors. According to the universal table, the normal value is 25 or less. Tolerable - up to 50. Worthy - up to 100. Shitty 300. Hell - more than 300](http://9gag.com/gag/adBBNzN)
- - 💣 [Title please](http://9gag.com/gag/a5QQdYL)
+ - 😝 [Cute and silly self defense](http://9gag.com/gag/ajPPrOG)
+ - 😝 [What do you think Antonio? \ud83d\udc14 !!](http://9gag.com/gag/aNDDez3)
+ - 💣 [Grandpa dismissed warnings of a tiger, almost gets pepsi&#39;d](http://9gag.com/gag/aLnnQWx)
  - 😝 [Here you go! Pay with peace of mind!! \ud83d\udecd\ufe0f\ud83c\udf0d](http://9gag.com/gag/a1mmZG8)
- - 👉 [Step 1: Confuse your opponents](http://9gag.com/gag/a2vvqmE)<!-- MEMES:END -->
+ - 👉 [Whoops!](http://9gag.com/gag/azxxgYB)<!-- MEMES:END -->
 
 ---
 

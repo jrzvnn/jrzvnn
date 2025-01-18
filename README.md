@@ -166,9 +166,9 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [According to the biker it&#39;s the gates fault](http://9gag.com/gag/aVvvPzO)
- - 😝 [In solidarity to the people of Los Angeles, Mexican Cartel burned down a Mexican Casino.](http://9gag.com/gag/aoyyZDw)
- - 💣 [*visible confusion*](http://9gag.com/gag/azxxLEZ)
+ - 😝 [Ah yes, those eggs!](http://9gag.com/gag/aYQQpvv)
+ - 😝 [Long Live Mama Lobsters!](http://9gag.com/gag/aXPP09z)
+ - 💣 [&#39;&#39;Who give a f**k how long a scene is!&#39;&#39; David Lynch](http://9gag.com/gag/aqyyN5R)
  - 😝 [Here you go! Pay with peace of mind!! \ud83d\udecd\ufe0f\ud83c\udf0d](http://9gag.com/gag/a1mmZG8)
  - 👉 [Mouthfuls](http://9gag.com/gag/aMVVQrP)<!-- MEMES:END -->
 

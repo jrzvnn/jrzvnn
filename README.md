@@ -167,9 +167,9 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [The pettiest shrinkflation I&#39;ve ever seen](http://9gag.com/gag/aE00wVO)
+ - 😝 [Canada Montreal police are urging people not to post pictures of porch pirates on social media.](http://9gag.com/gag/ayNNd3r)
+ - 💣 [Bro had enough](http://9gag.com/gag/a5QQK6O)
  - 😝 [Math is important](http://9gag.com/gag/aAyyY42)
- - 💣 [Canada Montreal police are urging people not to post pictures of porch pirates on social media.](http://9gag.com/gag/ayNNd3r)
- - 😝 [How about coming naked from the shower?](http://9gag.com/gag/ae99Gzj)
  - 👉 [Would](http://9gag.com/gag/amoo9P4)<!-- MEMES:END -->
 
 ---

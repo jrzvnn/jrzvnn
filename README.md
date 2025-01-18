@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Vitalik Buterin outlines &quot;large changes&quot; to Ethereum Foundation leadership structure, after fellow Ethereum co-founder Joseph Lubin called for new EF leadership &lpar;Zack Abrams/The Block&rpar;](http://www.techmeme.com/250118/p9#a250118p9)
  - [Instagram now lets users upload Reels that are up to 3 minutes long, doubling the 90-second limit, as TikTok is set to go dark on Sunday &lpar;Wes Davis/The Verge&rpar;](http://www.techmeme.com/250118/p8#a250118p8)
  - [CoinGecko: $TRUMP rose more than 600% overnight and was trading just over $32 as of 11AM ET, giving it a fully diluted market capitalization of $32B+ &lpar;Axios&rpar;](http://www.techmeme.com/250118/p7#a250118p7)
  - [Instagram Reels can be 3 minutes long now](https://www.theverge.com/2025/1/18/24346567/instagram-announces-reels-3-minute-video-posts)
- - [A profile of smart ring maker Oura, which was founded in 2013 in Oulu, Finland and has grown to a $5.2B company by focusing on overall health than fitness alone &lpar;Christopher Mims/Wall Street Journal&rpar;](http://www.techmeme.com/250118/p6#a250118p6)
- - [Donald Trump appears to have launched a meme coin](https://www.theverge.com/2025/1/18/24346505/donald-trump-launched-meme-coin-crypto-national-priority)<!-- TECH:END -->
+ - [A profile of smart ring maker Oura, which was founded in 2013 in Oulu, Finland and has grown to a $5.2B company by focusing on overall health than fitness alone &lpar;Christopher Mims/Wall Street Journal&rpar;](http://www.techmeme.com/250118/p6#a250118p6)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

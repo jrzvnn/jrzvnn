@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Step 1: Confuse your opponents](http://9gag.com/gag/a2vvqmE)
- - 😝 [It could be worse, MF](http://9gag.com/gag/an77Ko0)
- - 💣 [Core memory formed](http://9gag.com/gag/a4PPYoZ)
+ - 😝 [Core memory formed](http://9gag.com/gag/a4PPYoZ)
  - 😝 [Mouthfuls](http://9gag.com/gag/aMVVQrP)
- - 👉 [Math is important](http://9gag.com/gag/aAyyY42)<!-- MEMES:END -->
+ - 💣 [Step 1: Confuse your opponents](http://9gag.com/gag/a2vvqmE)
+ - 😝 [Woman wins $250K on a scratch-off ticket at a gas station](http://9gag.com/gag/ae99jzB)
+ - 👉 [The pettiest shrinkflation I&#39;ve ever seen](http://9gag.com/gag/aE00wVO)<!-- MEMES:END -->
 
 ---
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [*visible confusion*](http://9gag.com/gag/azxxLEZ)
- - 😝 [The pettiest shrinkflation I&#39;ve ever seen](http://9gag.com/gag/aE00wVO)
- - 💣 [Make my day!](http://9gag.com/gag/aoyyZB3)
+ - 😝 [Life finds a way](http://9gag.com/gag/amooX4V)
+ - 😝 [Perspective is everything](http://9gag.com/gag/abAAbbB)
+ - 💣 [Oh No, Anyway](http://9gag.com/gag/aVvvW68)
  - 😝 [Here you go! Pay with peace of mind!! \ud83d\udecd\ufe0f\ud83c\udf0d](http://9gag.com/gag/a1mmZG8)
- - 👉 [Mouthfuls](http://9gag.com/gag/aMVVQrP)<!-- MEMES:END -->
+ - 👉 [I&#39;m actually Enjoying going to the gym, but at first I was very afraid because of my looks but people are very kindly and they&#39;re helping me with my workout routine, don&#39;t be afraid of going to the gym, you won&#39;t regret.](http://9gag.com/gag/a7oob8b)<!-- MEMES:END -->
 
 ---
 

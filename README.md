@@ -158,10 +158,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- TECH:START -->
  - [LG M4 TV Review: A Beautiful Wireless OLED](https://www.wired.com/review/lg-m4-oled/)
+ - [Ligue 1 Soccer: Livestream Lens vs. PSG From Anywhere](https://www.cnet.com/tech/services-and-software/ligue-1-soccer-livestream-lens-vs-psg-from-anywhere/#ftag=CAD590a51e)
+ - [NFL Playoffs: How to Watch Texans vs. Chiefs Today](https://www.cnet.com/tech/services-and-software/nfl-playoffs-how-to-watch-texans-vs-chiefs-today/#ftag=CAD590a51e)
  - [Why Dumping Seawater on Blazes Isn’t the Answer to California’s Wildfire Problem](https://www.wired.com/story/firefighting-planes-are-dumping-ocean-water-on-the-los-angeles-fires-why-using-saltwater-is-typically-a-last-resort/)
- - [The mad dash to protect environmental data from Donald Trump](https://www.theverge.com/2025/1/18/24346025/data-donald-trump-climate-environment-epa)
- - [Antonblast is an out-of-control platformer with its heart in the ’90s](https://www.theverge.com/2025/1/18/24344598/antonblast-review)
- - [9 Tips and Tricks to Get More out of Your Amazon Kindle](https://www.wired.com/story/9-tips-and-tricks-to-get-more-out-of-your-amazon-kindle/)<!-- TECH:END -->
+ - [Is 5G Home Internet the Answer to Your Broadband Needs?](https://www.cnet.com/home/internet/what-is-5g-home-internet/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Best Pizza Ovens for 2025](https://www.cnet.com/home/kitchen-and-household/best-pizza-oven/#ftag=CAD590a51e)
  - [Best Running Shoes for Women in 2025](https://www.cnet.com/health/fitness/best-womens-running-shoes/#ftag=CAD590a51e)
  - [Donald Trump is promoting a Solana memecoin called TRUMP from his social media accounts, with 200M $TRUMP available now and growing to 1B &quot;over three years&quot; &lpar;Andrew Hayward/Decrypt&rpar;](http://www.techmeme.com/250118/p2#a250118p2)
  - [Filing: Nasdaq-listed Qorvo reveals activist investor Starboard&#39;s 7.7% stake, amid stiff competition and slowing orders for the company&#39;s smartphone chips &lpar;Zaheer Kachwala/Reuters&rpar;](http://www.techmeme.com/250118/p1#a250118p1)
- - [Today&#39;s NYT Mini Crossword Answers for Saturday, Jan. 18](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-saturday-jan-18/#ftag=CAD590a51e)
- - [Today&#39;s NYT Strands Hints, Answers and Help for Jan. 18, #321](https://www.cnet.com/tech/gaming/todays-nyt-strands-hints-answers-and-help-for-jan-18-321/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Today&#39;s NYT Mini Crossword Answers for Saturday, Jan. 18](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-saturday-jan-18/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

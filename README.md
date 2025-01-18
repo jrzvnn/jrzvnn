@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Want to Smell Like Donuts? Beauty Brands Think You Do](https://www.wired.com/story/beauty-brands-dessert-skincare/)
+ - [Character.AI is testing games on its desktop and mobile web apps to boost engagement, available to paid subscribers and a limited set of users on its free plan &lpar;Ivan Mehta/TechCrunch&rpar;](http://www.techmeme.com/250118/p5#a250118p5)
  - [LG M4 TV Review: A Beautiful Wireless OLED](https://www.wired.com/review/lg-m4-oled/)
  - [Ligue 1 Soccer: Livestream Lens vs. PSG From Anywhere](https://www.cnet.com/tech/services-and-software/ligue-1-soccer-livestream-lens-vs-psg-from-anywhere/#ftag=CAD590a51e)
- - [NFL Playoffs: How to Watch Texans vs. Chiefs Today](https://www.cnet.com/tech/services-and-software/nfl-playoffs-how-to-watch-texans-vs-chiefs-today/#ftag=CAD590a51e)
- - [Why Dumping Seawater on Blazes Isn’t the Answer to California’s Wildfire Problem](https://www.wired.com/story/firefighting-planes-are-dumping-ocean-water-on-the-los-angeles-fires-why-using-saltwater-is-typically-a-last-resort/)
- - [Is 5G Home Internet the Answer to Your Broadband Needs?](https://www.cnet.com/home/internet/what-is-5g-home-internet/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [NFL Playoffs: How to Watch Texans vs. Chiefs Today](https://www.cnet.com/tech/services-and-software/nfl-playoffs-how-to-watch-texans-vs-chiefs-today/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

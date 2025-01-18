@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The Top 6 Alarm Clocks of 2025](https://www.cnet.com/health/sleep/best-alarm-clock/#ftag=CAD590a51e)
  - [A close look at some privacy implications of AI interfacing with messaging apps and other E2EE systems, Apple&#39;s approach to &quot;Private Cloud Compute&quot;, and more &lpar;Matthew Green/A Few Thoughts on Cryptographic Engineering&rpar;](http://www.techmeme.com/250118/p17#a250118p17)
  - [Will TikTok &#39;Go Dark&#39; on Sunday? Its Fate Remains Unclear](https://www.cnet.com/tech/services-and-software/tiktok-takes-its-case-to-the-supreme-court-what-to-know/#ftag=CAD590a51e)
  - [Microsoft opens testing for Windows AI search](https://www.theverge.com/2025/1/18/24346770/microsoft-testing-windows-ai-search-copilot-plus-pcs)
- - [Best Electric Lawn Mower of 2025](https://www.cnet.com/news/best-electric-lawn-mower/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [As the TikTok eulogies pour in from some creators, very few Americans seem concerned that one of the nation&#39;s most popular social media apps will disappear &lpar;Kevin Roose/New York Times&rpar;](http://www.techmeme.com/250118/p16#a250118p16)
+ - [Newly-appointed Apple CFO denies 75% App Store profit claim in UK trial](https://appleinsider.com/articles/25/01/18/newly-appointed-apple-cfo-denies-75-app-store-profit-claim-in-uk-trial?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

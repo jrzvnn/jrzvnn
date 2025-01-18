@@ -166,10 +166,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [He&#39;s back](http://9gag.com/gag/aoyy01w)
- - 😝 [Somebody tell this dude to man up, he\u2019s acting like a melodramatic woman](http://9gag.com/gag/axyyjgY)
+ - 😝 [She gotta be embarrassed](http://9gag.com/gag/aYQQwd0)
+ - 😝 [It could be worse, MF](http://9gag.com/gag/an77Ko0)
  - 💣 [Make my day!](http://9gag.com/gag/aoyyZB3)
- - 😝 [How about coming naked from the shower?](http://9gag.com/gag/ae99Gzj)
+ - 😝 [Winning in life](http://9gag.com/gag/a877MRQ)
  - 👉 [Bro had enough](http://9gag.com/gag/a5QQK6O)<!-- MEMES:END -->
 
 ---

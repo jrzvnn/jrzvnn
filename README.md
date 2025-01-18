@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Donald Trump is promoting a Solana memecoin called TRUMP from his social media accounts, with 200M $TRUMP available now and growing to 1B &quot;over three years&quot; &lpar;Andrew Hayward/Decrypt&rpar;](http://www.techmeme.com/250118/p2#a250118p2)
  - [Filing: Nasdaq-listed Qorvo reveals activist investor Starboard&#39;s 7.7% stake, amid stiff competition and slowing orders for the company&#39;s smartphone chips &lpar;Zaheer Kachwala/Reuters&rpar;](http://www.techmeme.com/250118/p1#a250118p1)
- - [TikTok Confirms It Will Likely &quot;Go DarK&quot; On Sunday](https://www.cnet.com/tech/services-and-software/tiktok-takes-its-case-to-the-supreme-court-what-to-know/#ftag=CAD590a51e)
- - [Leading crypto firms have given at least $10M to the Trump inaugural fund; Ripple, a major target of SEC enforcement action, donated $5M in digital tokens &lpar;Jasper Goodman/Politico&rpar;](http://www.techmeme.com/250117/p37#a250117p37)
- - [OpenAI worked with Retro Biosciences to develop GPT-4b micro, an AI model that it says can engineer proteins capable of turning regular cells into stem cells &lpar;Antonio Regalado/MIT Technology Review&rpar;](http://www.techmeme.com/250117/p36#a250117p36)
- - [TikTok says it will go dark in the US on Sunday unless the Biden admin provides a &quot;definitive statement&quot; to critical service providers assuring non-enforcement &lpar;Salvador Rodriguez/CNBC&rpar;](http://www.techmeme.com/250117/p35#a250117p35)<!-- TECH:END -->
+ - [Today&#39;s NYT Mini Crossword Answers for Saturday, Jan. 18](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-saturday-jan-18/#ftag=CAD590a51e)
+ - [Today&#39;s NYT Strands Hints, Answers and Help for Jan. 18, #321](https://www.cnet.com/tech/gaming/todays-nyt-strands-hints-answers-and-help-for-jan-18-321/#ftag=CAD590a51e)
+ - [TikTok Confirms It Will Likely &quot;Go DarK&quot; On Sunday](https://www.cnet.com/tech/services-and-software/tiktok-takes-its-case-to-the-supreme-court-what-to-know/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Core memory formed](http://9gag.com/gag/a4PPYoZ)
+ - 😝 [Indeed](http://9gag.com/gag/ae99p9v)
  - 😝 [Mouthfuls](http://9gag.com/gag/aMVVQrP)
- - 💣 [Step 1: Confuse your opponents](http://9gag.com/gag/a2vvqmE)
- - 😝 [Woman wins $250K on a scratch-off ticket at a gas station](http://9gag.com/gag/ae99jzB)
- - 👉 [The pettiest shrinkflation I&#39;ve ever seen](http://9gag.com/gag/aE00wVO)<!-- MEMES:END -->
+ - 💣 [The pettiest shrinkflation I&#39;ve ever seen](http://9gag.com/gag/aE00wVO)
+ - 😝 [*visible confusion*](http://9gag.com/gag/azxxLEZ)
+ - 👉 [Woman wins $250K on a scratch-off ticket at a gas station](http://9gag.com/gag/ae99jzB)<!-- MEMES:END -->
 
 ---
 

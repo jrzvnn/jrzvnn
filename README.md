@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [This is how a high trust society changes to a low trust one!](http://9gag.com/gag/aO88mor)
- - 😝 [Young businessman](http://9gag.com/gag/ayNNdwV)
- - 💣 [Telemarketer should be top](http://9gag.com/gag/avyyPjd)
- - 😝 [90s kids will understand...](http://9gag.com/gag/avyyPWW)
- - 👉 [The invisible gymnast](http://9gag.com/gag/ayNNd1M)<!-- MEMES:END -->
+ - 😝 [Canada Montreal police are urging people not to post pictures of porch pirates on social media.](http://9gag.com/gag/ayNNd3r)
+ - 😝 [Air quality in India when leaving indoors. According to the universal table, the normal value is 25 or less. Tolerable - up to 50. Worthy - up to 100. Shitty 300. Hell - more than 300](http://9gag.com/gag/adBBNzN)
+ - 💣 [Somebody tell this dude to man up, he\u2019s acting like a melodramatic woman](http://9gag.com/gag/axyyjgY)
+ - 😝 [Would](http://9gag.com/gag/amoo9P4)
+ - 👉 [Guess what happen next](http://9gag.com/gag/awyyVKB)<!-- MEMES:END -->
 
 ---
 

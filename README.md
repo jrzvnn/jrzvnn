@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Why Dumping Seawater on Blazes Isn’t the Answer to California’s Wildfire Problem](https://www.wired.com/story/firefighting-planes-are-dumping-ocean-water-on-the-los-angeles-fires-why-using-saltwater-is-typically-a-last-resort/)
+ - [The mad dash to protect environmental data from Donald Trump](https://www.theverge.com/2025/1/18/24346025/data-donald-trump-climate-environment-epa)
+ - [Antonblast is an out-of-control platformer with its heart in the ’90s](https://www.theverge.com/2025/1/18/24344598/antonblast-review)
  - [9 Tips and Tricks to Get More out of Your Amazon Kindle](https://www.wired.com/story/9-tips-and-tricks-to-get-more-out-of-your-amazon-kindle/)
- - [Will Nintendo Get Out of Its Own Way to Make the Switch 2 a Steam Deck Competitor?](https://www.cnet.com/tech/gaming/will-nintendo-get-out-of-its-own-way-to-make-the-switch-2-a-steam-deck-competitor/#ftag=CAD590a51e)
- - [Premier League Soccer: Livestream West Ham vs. Crystal Palace From Anywhere](https://www.cnet.com/tech/services-and-software/premier-league-soccer-livestream-west-ham-vs-crystal-palace-from-anywhere/#ftag=CAD590a51e)
- - [Premier League Soccer: Livestream Brentford vs. Liverpool From Anywhere](https://www.cnet.com/tech/services-and-software/premier-league-soccer-livestream-brentford-vs-liverpool-from-anywhere/#ftag=CAD590a51e)
- - [Give Your iPhone Messages More Security in 4 Easy Steps](https://www.cnet.com/tech/services-and-software/give-your-iphone-messages-more-security-in-4-easy-steps/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [The 45 Best Movies on Netflix Right Now &lpar;January 2025&rpar;](https://www.wired.com/story/netflix-best-movies-this-week/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Perspective is everything](http://9gag.com/gag/abAAbbB)
- - 😝 [Oh No, Anyway](http://9gag.com/gag/aVvvW68)
- - 💣 [I&#39;m actually Enjoying going to the gym, but at first I was very afraid because of my looks but people are very kindly and they&#39;re helping me with my workout routine, don&#39;t be afraid of going to the gym, you won&#39;t regret.](http://9gag.com/gag/a7oob8b)
- - 😝 [Core memory formed](http://9gag.com/gag/a4PPYoZ)
- - 👉 [Make my day!](http://9gag.com/gag/aoyyZB3)<!-- MEMES:END -->
+ - 😝 [Step 1: Confuse your opponents](http://9gag.com/gag/a2vvqmE)
+ - 😝 [It could be worse, MF](http://9gag.com/gag/an77Ko0)
+ - 💣 [Core memory formed](http://9gag.com/gag/a4PPYoZ)
+ - 😝 [Mouthfuls](http://9gag.com/gag/aMVVQrP)
+ - 👉 [Math is important](http://9gag.com/gag/aAyyY42)<!-- MEMES:END -->
 
 ---
 

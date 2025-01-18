@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Tik\u2026\u2026..Tok\u2026\u2026.](http://9gag.com/gag/aW4468x)
- - 😝 [Telemarketer should be top](http://9gag.com/gag/avyyPjd)
- - 💣 [Please don&#39;t stop sharing this every week. It&#39;s my only joy. You left me no option but to upload it myself...](http://9gag.com/gag/aNDDKrw)
- - 😝 [This is how a high trust society changes to a low trust one!](http://9gag.com/gag/aO88mor)
- - 👉 [The invisible gymnast](http://9gag.com/gag/ayNNd1M)<!-- MEMES:END -->
+ - 😝 [Guess what happen next](http://9gag.com/gag/awyyVKB)
+ - 😝 [Math is important](http://9gag.com/gag/aAyyY42)
+ - 💣 [It could be worse, MF](http://9gag.com/gag/an77Ko0)
+ - 😝 [Canada Montreal police are urging people not to post pictures of porch pirates on social media.](http://9gag.com/gag/ayNNd3r)
+ - 👉 [How about coming naked from the shower?](http://9gag.com/gag/ae99Gzj)<!-- MEMES:END -->
 
 ---
 

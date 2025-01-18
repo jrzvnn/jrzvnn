@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Trump says he will &quot;most likely&quot; give TikTok a 90-day reprieve after he takes office on Monday &quot;because it&#39;s appropriate&quot; &lpar;NBC News&rpar;](http://www.techmeme.com/250118/p11#a250118p11)
+ - [The White House says TikTok&#39;s threat to shut down is a &quot;stunt&quot; as there is &quot;no reason for TikTok or other companies to take actions&quot; before Trump takes office &lpar;Ana Faguy/BBC&rpar;](http://www.techmeme.com/250118/p10#a250118p10)
  - [Vitalik Buterin outlines &quot;large changes&quot; to Ethereum Foundation leadership structure, after fellow Ethereum co-founder Joseph Lubin called for new EF leadership &lpar;Zack Abrams/The Block&rpar;](http://www.techmeme.com/250118/p9#a250118p9)
- - [Instagram now lets users upload Reels that are up to 3 minutes long, doubling the 90-second limit, as TikTok is set to go dark on Sunday &lpar;Wes Davis/The Verge&rpar;](http://www.techmeme.com/250118/p8#a250118p8)
- - [CoinGecko: $TRUMP rose more than 600% overnight and was trading just over $32 as of 11AM ET, giving it a fully diluted market capitalization of $32B+ &lpar;Axios&rpar;](http://www.techmeme.com/250118/p7#a250118p7)
- - [Instagram Reels can be 3 minutes long now](https://www.theverge.com/2025/1/18/24346567/instagram-announces-reels-3-minute-video-posts)
- - [How to Tell if Wine Is Corked and What to Do When It Is](https://www.cnet.com/news/how-to-tell-if-a-wine-is-corked-and-what-to-do-about-it/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [La Liga Soccer Livestream: How to Watch Getafe vs. Barcelona From Anywhere](https://www.cnet.com/tech/services-and-software/la-liga-soccer-livestream-how-to-watch-getafe-vs-barcelona-from-anywhere/#ftag=CAD590a51e)
+ - [Biometric Credit Cards Are More Secure, but Do You Need One?](https://www.cnet.com/personal-finance/credit-cards/biometric-credit-cards-are-more-secure-but-do-you-need-one/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

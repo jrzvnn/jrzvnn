@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Want to Avoid AI Scams? Try These Tips From Our Experts](https://www.wired.com/story/avoid-scams-ai-unlocked-live/)
- - [US Names One of the Hackers Allegedly Behind Massive Salt Typhoon Breaches](https://www.wired.com/story/us-names-one-of-the-hackers-allegedly-behind-massive-salt-typhoon-breaches/)
- - [6 Best Sunrise Alarm Clocks &lpar;2025&rpar;, Tested and Reviewed](https://www.wired.com/gallery/best-sunrise-alarm-clocks/)
- - [At least four UK teenagers have been arrested in connection with 764, a &quot;Satanist&quot; terror network targeting children online for sexual blackmail and violence &lpar;BBC&rpar;](http://www.techmeme.com/250118/p4#a250118p4)
- - [Today&#39;s Wordle Hints, Answer and Help for Jan. 18, #1309](https://www.cnet.com/tech/gaming/todays-wordle-hints-answer-and-help-for-jan-18-1309/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [The 45 Best Movies on Netflix Right Now &lpar;January 2025&rpar;](https://www.wired.com/story/netflix-best-movies-this-week/)
+ - [Influencers Are Hawking Wellness Products in Response to the LA Fires](https://www.wired.com/story/influencers-are-hawking-wellness-products-in-response-to-the-la-fires/)
+ - [The 48 Best Shows on Netflix Right Now &lpar;January 2025&rpar;](https://www.wired.com/story/netflix-best-shows-this-week/)
+ - [Bundesliga Soccer Livestream: How to Watch Bayern Munich vs. Wolfsburg From Anywhere](https://www.cnet.com/tech/services-and-software/bundesliga-soccer-livestream-how-to-watch-bayern-munich-vs-wolfsburg-from-anywhere/#ftag=CAD590a51e)
+ - [Want to Avoid AI Scams? Try These Tips From Our Experts](https://www.wired.com/story/avoid-scams-ai-unlocked-live/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

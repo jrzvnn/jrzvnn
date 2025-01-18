@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Bundesliga Soccer Livestream: How to Watch Bayern Munich vs. Wolfsburg From Anywhere](https://www.cnet.com/tech/services-and-software/bundesliga-soccer-livestream-how-to-watch-bayern-munich-vs-wolfsburg-from-anywhere/#ftag=CAD590a51e)
  - [Want to Avoid AI Scams? Try These Tips From Our Experts](https://www.wired.com/story/avoid-scams-ai-unlocked-live/)
  - [US Names One of the Hackers Allegedly Behind Massive Salt Typhoon Breaches](https://www.wired.com/story/us-names-one-of-the-hackers-allegedly-behind-massive-salt-typhoon-breaches/)
- - [It&#39;s Never Too Late for Your New Year&#39;s Resolution: 5 Expert Tips for Reaching Your Goals](https://www.cnet.com/health/never-too-late-new-years-resolution-tips-reaching-your-goals/#ftag=CAD590a51e)
- - [Best Internet Providers in Corsicana, Texas](https://www.cnet.com/home/internet/best-internet-providers-in-corsicana-tx/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [6 Best Sunrise Alarm Clocks &lpar;2025&rpar;, Tested and Reviewed](https://www.wired.com/gallery/best-sunrise-alarm-clocks/)
+ - [At least four UK teenagers have been arrested in connection with 764, a &quot;Satanist&quot; terror network targeting children online for sexual blackmail and violence &lpar;BBC&rpar;](http://www.techmeme.com/250118/p4#a250118p4)
+ - [Today&#39;s Wordle Hints, Answer and Help for Jan. 18, #1309](https://www.cnet.com/tech/gaming/todays-wordle-hints-answer-and-help-for-jan-18-1309/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

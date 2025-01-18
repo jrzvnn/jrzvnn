@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Leading crypto firms have given at least $10M to the Trump inaugural fund; Ripple, a major target of SEC enforcement action, donated $5M in digital tokens &lpar;Jasper Goodman/Politico&rpar;](http://www.techmeme.com/250117/p37#a250117p37)
  - [OpenAI worked with Retro Biosciences to develop GPT-4b micro, an AI model that it says can engineer proteins capable of turning regular cells into stem cells &lpar;Antonio Regalado/MIT Technology Review&rpar;](http://www.techmeme.com/250117/p36#a250117p36)
  - [TikTok says it will go dark in the US on Sunday unless the Biden admin provides a &quot;definitive statement&quot; to critical service providers assuring non-enforcement &lpar;Salvador Rodriguez/CNBC&rpar;](http://www.techmeme.com/250117/p35#a250117p35)
  - [TikTok says it will go offline on Sunday if Biden doesn’t intervene](https://www.theverge.com/2025/1/17/24346272/tiktok-offline-threat-biden-trump-us-ban)
- - [CBS considers caving on Trump censorship lawsuit to save Paramount merger](https://www.theverge.com/2025/1/17/24346279/cbs-paramount-trump-merger-lawsuit)
- - [Zuckerberg says there&#39;s a &quot;bogus narrative saying I blamed Sheryl for a bunch of stuff&quot; and he was just addressing the origin of &quot;bring your whole self to work&quot; &lpar;Karissa Bell/Engadget&rpar;](http://www.techmeme.com/250117/p34#a250117p34)<!-- TECH:END -->
+ - [CBS considers caving on Trump censorship lawsuit to save Paramount merger](https://www.theverge.com/2025/1/17/24346279/cbs-paramount-trump-merger-lawsuit)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

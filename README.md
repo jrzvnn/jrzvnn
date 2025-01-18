@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The Biden White House says TikTok’s threat to go dark is a ‘stunt’](https://www.theverge.com/2025/1/18/24346677/white-house-tiktok-go-dark-threat-stunt-trump-90-day-extension)
+ - [Best Internet Providers in Val Verde Park, Texas](https://www.cnet.com/home/internet/best-internet-providers-in-val-verde-park-tx/#ftag=CAD590a51e)
  - [A profile of Charlwin Mao, founder of Xiaohongshu, or Little Red Book, who claims the name references the color of his university Stanford and ex-employer Bain &lpar;Financial Times&rpar;](http://www.techmeme.com/250118/p13#a250118p13)
- - [Congressional leaders seem flummoxed by the growing popularity of RedNote and Lemon8, an unintended consequence of the TikTok ban &lpar;Politico&rpar;](http://www.techmeme.com/250118/p12#a250118p12)
- - [EV startup Canoo has filed for bankruptcy](https://www.theverge.com/2025/1/18/24346599/canoo-ev-chapter-7-bankruptcy-filing-announced)
- - [Trump says he will &quot;most likely&quot; give TikTok a 90-day reprieve after he takes office on Monday &quot;because it&#39;s appropriate&quot; &lpar;NBC News&rpar;](http://www.techmeme.com/250118/p11#a250118p11)
- - [The White House says TikTok&#39;s threat to shut down is a &quot;stunt&quot; as there is &quot;no reason for TikTok or other companies to take actions&quot; before Trump takes office &lpar;Ana Faguy/BBC&rpar;](http://www.techmeme.com/250118/p10#a250118p10)<!-- TECH:END -->
+ - [Congressional leaders seem flummoxed by the growing popularity of Xiaohongshu and Lemon8, an unintended consequence of the TikTok ban &lpar;Politico&rpar;](http://www.techmeme.com/250118/p12#a250118p12)
+ - [EV startup Canoo has filed for bankruptcy](https://www.theverge.com/2025/1/18/24346599/canoo-ev-chapter-7-bankruptcy-filing-announced)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

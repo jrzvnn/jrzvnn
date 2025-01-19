@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [AI is... improving.](http://9gag.com/gag/aryyKmX)
- - 😝 [Somebody tell this dude to man up, he\u2019s acting like a melodramatic woman](http://9gag.com/gag/axyyjgY)
- - 💣 [She knows](http://9gag.com/gag/avyyPzd)
- - 😝 [Young businessman](http://9gag.com/gag/ayNNdwV)
- - 👉 [Bro had enough](http://9gag.com/gag/a5QQK6O)<!-- MEMES:END -->
+ - 😝 [The Double Rainbow guy was a prolific YouTuber who scheduled 15 years of uploads in advanced before he died His channel is still active now 4 years after his death.](http://9gag.com/gag/aXPP97P)
+ - 😝 [Step 1: Confuse your opponents](http://9gag.com/gag/a2vvqmE)
+ - 💣 [Somebody tell this dude to man up, he\u2019s acting like a melodramatic woman](http://9gag.com/gag/axyyjgY)
+ - 😝 [She gotta be embarrassed](http://9gag.com/gag/aYQQwd0)
+ - 👉 [She knows](http://9gag.com/gag/avyyPzd)<!-- MEMES:END -->
 
 ---
 

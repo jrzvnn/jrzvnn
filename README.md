@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [This man paid 10,000 bitcoins for two pizzas in 2010](http://9gag.com/gag/aByy1BN)
- - 😝 [Helping](http://9gag.com/gag/aGyyDg5)
- - 💣 [Mouthfuls](http://9gag.com/gag/aMVVQrP)
- - 😝 [Young businessman](http://9gag.com/gag/ayNNdwV)
- - 👉 [OnlyFans creator Gizem Ba\u011fda\u00e7i\u00e7ek was arrested for violating Turkish obscenity laws, following the OnlyFans ban in Turkey](http://9gag.com/gag/aMVV9LR)<!-- MEMES:END -->
+ - 😝 [The old times were better](http://9gag.com/gag/aGyyxr5)
+ - 😝 [The pinnacle of ai technology](http://9gag.com/gag/aVvveqO)
+ - 💣 [Dog moves security camera so he can eat food on the table](http://9gag.com/gag/aD22jjZ)
+ - 😝 [Japan should have won the world war](http://9gag.com/gag/aZZZBb9)
+ - 👉 [Haha or no haha](http://9gag.com/gag/aKGG2Y6)<!-- MEMES:END -->
 
 ---
 

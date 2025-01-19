@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Sources: a breakthrough in AI super-agents for complex human tasks may be announced soon; Sam Altman set up a closed-door briefing for US officials on Jan. 30 &lpar;Axios&rpar;](http://www.techmeme.com/250119/p10#a250119p10)
  - [Apple is unlikely to acquire Sonos, but Amazon, Spotify, Roku, Samsung and others might consider the idea, with Amazon being the most natural fit &lpar;Mark Gurman/Bloomberg&rpar;](http://www.techmeme.com/250119/p9#a250119p9)
  - [The TikTok shutdown is locking out non-US users, too](https://www.theverge.com/2025/1/19/24347155/tiktok-ban-app-unavailable-outside-us-region-vpn)
  - [Trump says he’ll delay TikTok ban, but the platform must be sold](https://www.theverge.com/2025/1/19/24347202/trump-tiktok-ban-delay-us-acquisition)
- - [If you want to buy the 2022 iPhone SE, do it now](https://appleinsider.com/articles/25/01/19/if-you-want-to-buy-the-2022-iphone-se-do-it-now?utm_medium=rss)
- - [Donald Trump says he will sign an EO on Monday to delay enforcing the TikTok ban and argues for a TikTok JV with 50% US ownership &lpar;Avery Lotz/Axios&rpar;](http://www.techmeme.com/250119/p8#a250119p8)<!-- TECH:END -->
+ - [If you want to buy the 2022 iPhone SE, do it now](https://appleinsider.com/articles/25/01/19/if-you-want-to-buy-the-2022-iphone-se-do-it-now?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

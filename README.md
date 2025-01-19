@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [She knows](http://9gag.com/gag/avyyPzd)
  - 😝 [OnlyFans creator Gizem Ba\u011fda\u00e7i\u00e7ek was arrested for violating Turkish obscenity laws, following the OnlyFans ban in Turkey](http://9gag.com/gag/aMVV9LR)
- - 😝 [How about coming naked from the shower?](http://9gag.com/gag/ae99Gzj)
- - 💣 [Only for $1200/month what a catch](http://9gag.com/gag/aYQQK5O)
+ - 💣 [Determined Mother](http://9gag.com/gag/aGyyeBn)
  - 😝 [This man paid 10,000 bitcoins for two pizzas in 2010](http://9gag.com/gag/aByy1BN)
- - 👉 [This kid just took down one of the worlds strongest men](http://9gag.com/gag/avyyn5Z)<!-- MEMES:END -->
+ - 👉 [Only for $1200/month what a catch](http://9gag.com/gag/aYQQK5O)<!-- MEMES:END -->
 
 ---
 

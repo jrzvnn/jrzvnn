@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Trump touts his plan to save TikTok during his victory rally](https://www.theverge.com/2025/1/19/24347463/trump-plan-to-save-tiktok-from-ban)
  - [US and European officials: evidence suggests recent damage to Baltic Sea subsea internet cables was likely caused by maritime accidents, not Russian sabotage &lpar;Washington Post&rpar;](http://www.techmeme.com/250119/p16#a250119p16)
  - [Melania Trump launches her own Solana coin, MELANIA, offered by MKT World, a company associated with Melania Trump; TRUMP fell ~36% on the news &lpar;Axios&rpar;](http://www.techmeme.com/250119/p15#a250119p15)
  - [How to watch the 2025 presidential inauguration on Apple devices](https://appleinsider.com/articles/25/01/19/how-to-watch-the-2025-us-presidential-inauguration-online?utm_medium=rss)
- - [Best Stand-Up Paddleboards for 2025](https://www.cnet.com/health/fitness/best-stand-up-paddle-boards/#ftag=CAD590a51e)
- - [&#39;Ted Lasso&#39; star drops strong hint of filming for fourth season](https://appleinsider.com/articles/25/01/19/ted-lasso-star-drops-strong-hint-of-filming-for-fourth-season?utm_medium=rss)<!-- TECH:END -->
+ - [Best Stand-Up Paddleboards for 2025](https://www.cnet.com/health/fitness/best-stand-up-paddle-boards/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

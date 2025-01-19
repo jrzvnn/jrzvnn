@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Just don&#39;t climb in a tiny cave hole and you&#39;ll be good.](http://9gag.com/gag/aW44Mbd)
+ - 😝 [Professional chess players are in shock.](http://9gag.com/gag/aE00zxp)
+ - 😝 [Kids: How&#39;d Grandma die? Me: A kettle fell on her head](http://9gag.com/gag/apRRrBD)
+ - 💣 [Just don&#39;t climb in a tiny cave hole and you&#39;ll be good.](http://9gag.com/gag/aW44Mbd)
  - 😝 [She gotta be embarrassed](http://9gag.com/gag/aYQQwd0)
- - 💣 [Thai](http://9gag.com/gag/aRBBeEq)
- - 😝 [They got me in the first half](http://9gag.com/gag/aRBBe72)
- - 👉 [Helping](http://9gag.com/gag/aGyyDg5)<!-- MEMES:END -->
+ - 👉 [Let\u2019s not jump to conclusions. Aaaaaannnnnddddd. They are :](http://9gag.com/gag/azxxrgK)<!-- MEMES:END -->
 
 ---
 

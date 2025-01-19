@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [5 Posture Corrector Picks for Support &lpar;2025&rpar;, Tested and Reviewed](https://www.wired.com/gallery/posture-correctors/)
  - [Apple CFO Kevan Parekh tells a London court it is impossible to accurately determine the App Store&#39;s standalone profitability and disputes claims of 75% margins &lpar;Financial Times&rpar;](http://www.techmeme.com/250119/p6#a250119p6)
  - [Best Internet Providers in Yuma, Arizona](https://www.cnet.com/home/internet/best-internet-providers-in-yuma-az/#ftag=CAD590a51e)
  - [Come Tuesday, You Can See Six or Seven Planets in a Dazzling Planet Parade](https://www.cnet.com/science/how-to-see-january-21-tuesday-planet-parade-of-six-seven-planets-mark-your-calendars-skygazing/#ftag=CAD590a51e)
- - [22 Best Wireless Chargers 2025: Wire-Free Charging for Devices](https://www.wired.com/gallery/best-wireless-chargers/)
- - [Here&#39;s How to Get Cost-Effective Eye Exams, Glasses and Contacts All Without Vision Insurance](https://www.cnet.com/health/personal-care/affordable-eye-exams-glasses-contacts-without-insurance/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [22 Best Wireless Chargers 2025: Wire-Free Charging for Devices](https://www.wired.com/gallery/best-wireless-chargers/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

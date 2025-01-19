@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [ByteDance&#39;s TikTok and CapCut suspend service in the US, telling users &quot;Trump has indicated that he will work with us on a solution to reinstate TikTok&quot; &lpar;NBC News&rpar;](http://www.techmeme.com/250118/p19#a250118p19)
  - [TikTok ban: all the news on the app’s shutdown in the US](https://www.theverge.com/23651507/tiktok-ban-us-news)
  - [TikTok has shut itself down in the US ahead of January 19 deadline.](https://appleinsider.com/articles/25/01/19/tiktok-has-shut-itself-down-in-the-us-ahead-of-january-19-deadline?utm_medium=rss)
  - [TikTok is down in the US](https://www.theverge.com/2025/1/18/24346961/tiktok-shut-down-banned-in-the-us)
- - [How to bulk download and save your TikTok videos](https://www.theverge.com/24343890/tiktok-bulk-save-how-to)
- - [TikTok will be ‘temporarily unavailable’ in the US starting tonight](https://www.theverge.com/2025/1/18/24346883/tiktok-shutdown-offline-us-ban)<!-- TECH:END -->
+ - [How to bulk download and save your TikTok videos](https://www.theverge.com/24343890/tiktok-bulk-save-how-to)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

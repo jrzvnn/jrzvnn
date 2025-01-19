@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Professional chess players are in shock.](http://9gag.com/gag/aE00zxp)
- - 😝 [Kids: How&#39;d Grandma die? Me: A kettle fell on her head](http://9gag.com/gag/apRRrBD)
- - 💣 [Just don&#39;t climb in a tiny cave hole and you&#39;ll be good.](http://9gag.com/gag/aW44Mbd)
- - 😝 [She gotta be embarrassed](http://9gag.com/gag/aYQQwd0)
- - 👉 [Let\u2019s not jump to conclusions. Aaaaaannnnnddddd. They are :](http://9gag.com/gag/azxxrgK)<!-- MEMES:END -->
+ - 😝 [90s kids will understand...](http://9gag.com/gag/avyyPWW)
+ - 😝 [They got me in the first half](http://9gag.com/gag/aRBBe72)
+ - 💣 [The invisible gymnast](http://9gag.com/gag/ayNNd1M)
+ - 😝 [The way he moves his lips is ridiculous](http://9gag.com/gag/ayNN82V)
+ - 👉 [Japan should have won the world war](http://9gag.com/gag/aZZZBb9)<!-- MEMES:END -->
 
 ---
 

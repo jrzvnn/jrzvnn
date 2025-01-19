@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [TikTok is coming back online in the US](https://www.theverge.com/2025/1/19/24347280/tiktok-ban-shutdown-ends)
  - [Sources: a breakthrough in AI super-agents for complex human tasks may be announced soon; Sam Altman set up a closed-door briefing for US officials on Jan. 30 &lpar;Axios&rpar;](http://www.techmeme.com/250119/p10#a250119p10)
  - [Apple is unlikely to acquire Sonos, but Amazon, Spotify, Roku, Samsung and others might consider the idea, with Amazon being the most natural fit &lpar;Mark Gurman/Bloomberg&rpar;](http://www.techmeme.com/250119/p9#a250119p9)
  - [TikTok Goes Dark In The US. Its Fate Remains Unclear](https://www.cnet.com/tech/services-and-software/tiktok-takes-its-case-to-the-supreme-court-what-to-know/#ftag=CAD590a51e)
- - [The TikTok shutdown is locking out non-US users, too](https://www.theverge.com/2025/1/19/24347155/tiktok-ban-app-unavailable-outside-us-region-vpn)
- - [Trump says he’ll delay TikTok ban, but the platform must be sold](https://www.theverge.com/2025/1/19/24347202/trump-tiktok-ban-delay-us-acquisition)<!-- TECH:END -->
+ - [The TikTok shutdown is locking out non-US users, too](https://www.theverge.com/2025/1/19/24347155/tiktok-ban-app-unavailable-outside-us-region-vpn)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

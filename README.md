@@ -159,9 +159,9 @@ R                        1 repo              ░░░░░░░░░░░�
 <!-- TECH:START -->
  - [Meta unveils Edits, a video editing app coming next month on iOS and soon on Android, after CapCut is removed from app stores as part of the divest-or-ban law &lpar;Ivan Mehta/TechCrunch&rpar;](http://www.techmeme.com/250119/p13#a250119p13)
  - [Instagram announces a blatant CapCut clone](https://www.theverge.com/2025/1/19/24347358/instagram-edits-capcut-video-app-tiktok-ban)
- - [Best Noise-Canceling Earbuds for 2025](https://www.cnet.com/tech/mobile/best-noise-canceling-wireless-earbuds/#ftag=CAD590a51e)
  - [TikTok isn’t back in the App Store yet](https://www.theverge.com/2025/1/19/24347340/tiktok-ban-app-store-google-play)
- - [How to watch the 2025 US presidential inauguration online](https://appleinsider.com/articles/25/01/19/how-to-watch-the-2025-us-presidential-inauguration-online?utm_medium=rss)<!-- TECH:END -->
+ - [How to watch the 2025 US presidential inauguration online](https://appleinsider.com/articles/25/01/19/how-to-watch-the-2025-us-presidential-inauguration-online?utm_medium=rss)
+ - [Blockchain security firm Scam Sniffer reports scams luring crypto investors into malicious Telegram groups jumped 2,000% between November 2024 and January 2025 &lpar;Danny Park/The Block&rpar;](http://www.techmeme.com/250119/p12#a250119p12)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

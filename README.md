@@ -166,10 +166,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Me too](http://9gag.com/gag/aRBBKpM)
+ - 😝 [Airport security is going to be pissed lol](http://9gag.com/gag/a7ooDKA)
  - 😝 [Winning in life](http://9gag.com/gag/a877MRQ)
- - 💣 [Me exaggerating how stressful my job is when in reality](http://9gag.com/gag/aPAAByg)
- - 😝 [Far superior.](http://9gag.com/gag/aD22jew)
+ - 💣 [Far superior.](http://9gag.com/gag/aD22jew)
+ - 😝 [Me exaggerating how stressful my job is when in reality](http://9gag.com/gag/aPAAByg)
  - 👉 [Think this should be the whole world.](http://9gag.com/gag/aD22GEG)<!-- MEMES:END -->
 
 ---

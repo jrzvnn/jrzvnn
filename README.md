@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [Airport security is going to be pissed lol](http://9gag.com/gag/a7ooDKA)
  - 😝 [The Double Rainbow guy was a prolific YouTuber who scheduled 15 years of uploads in advanced before he died His channel is still active now 4 years after his death.](http://9gag.com/gag/aXPP97P)
- - 😝 [This man paid 10,000 bitcoins for two pizzas in 2010](http://9gag.com/gag/aByy1BN)
- - 💣 [Guess what happen next](http://9gag.com/gag/awyyVKB)
- - 😝 [Only for $1200/month what a catch](http://9gag.com/gag/aYQQK5O)
- - 👉 [Theres a photo online of a dude who killed a hippo with one](http://9gag.com/gag/aD22z0w)<!-- MEMES:END -->
+ - 💣 [Impressive and frightener](http://9gag.com/gag/azxx81m)
+ - 😝 [Tips on meeting women](http://9gag.com/gag/aMVV8Q6)
+ - 👉 [What happens when you put a sparkler through an egg...](http://9gag.com/gag/a7oorqb)<!-- MEMES:END -->
 
 ---
 

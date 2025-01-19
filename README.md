@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Blockchain security firm Scam Sniffer reports scams luring crypto investors into malicious Telegram groups jumped 2,000% between November 2024 and January 2025 &lpar;Danny Park/The Block&rpar;](http://www.techmeme.com/250119/p12#a250119p12)
+ - [How to bulk download and save your TikTok videos](https://www.theverge.com/24343890/tiktok-bulk-save-how-to)
+ - [TikTok service restored in the US after promises that ban won&#39;t be enforced](https://appleinsider.com/articles/25/01/19/tiktok-service-restored-in-the-us-after-promises-that-ban-wont-be-enforced?utm_medium=rss)
  - [TikTok Is Already Back Online](https://www.wired.com/story/tiktok-is-back/)
- - [How to watch the 2025 US presidential inauguration online](https://appleinsider.com/articles/25/01/19/how-to-watch-the-2025-us-presidential-inauguration-online?utm_medium=rss)
- - [TikTok says it&#39;s restoring its service in the US after reaching an &quot;agreement with our service providers&quot; and thanks Trump &quot;for providing the necessary clarity&quot; &lpar;Wes Davis/The Verge&rpar;](http://www.techmeme.com/250119/p11#a250119p11)
- - [TikTok is coming back online in the US](https://www.theverge.com/2025/1/19/24347280/tiktok-ban-shutdown-ends)
- - [Best Internet Providers in West Des Moines, Iowa](https://www.cnet.com/home/internet/best-internet-providers-in-west-des-moines-ia/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [How to watch the 2025 US presidential inauguration online](https://appleinsider.com/articles/25/01/19/how-to-watch-the-2025-us-presidential-inauguration-online?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

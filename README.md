@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Coinbase and Binance plan to list the TRUMP token, with Binance opening trading on Jan. 19; CoinGecko: $TRUMP is trading on Bitget, Kraken, and other exchanges &lpar;Sam Reynolds/CoinDesk&rpar;](http://www.techmeme.com/250119/p2#a250119p2)
  - [Card game Marvel Snap, published by ByteDance-owned Nuverse, cuts off access for US gamers, as the TikTok divest-or-ban law impacts other ByteDance-linked apps &lpar;Richard Lawler/The Verge&rpar;](http://www.techmeme.com/250119/p1#a250119p1)
- - [It&#39;s Not Just TikTok: These Other ByteDance Apps Are Gone Too](https://www.wired.com/story/bytedance-tiktok-ban-lemon8-capcut-gauthai-app-stores/)
+ - [It’s Not Just TikTok: These Other ByteDance Apps Are Gone Too](https://www.wired.com/story/bytedance-tiktok-ban-lemon8-capcut-gauthai-app-stores/)
  - [How to Get Around the US TikTok Ban](https://www.wired.com/story/how-to-get-around-the-us-tiktok-ban/)
- - [Marvel Snap is banned, just like TikTok](https://www.theverge.com/2025/1/19/24347034/marvel-snap-banned-tiktok-bytedance)
- - [TikTok Is Unavailable in the US—and Gone From the App Stores](https://www.wired.com/story/tiktok-ban-officially-in-effect/)<!-- TECH:END -->
+ - [Marvel Snap is banned, just like TikTok](https://www.theverge.com/2025/1/19/24347034/marvel-snap-banned-tiktok-bytedance)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

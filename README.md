@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Collate, which is developing tech to automate paperwork for life science companies, emerges from stealth with a $30M seed led by Redpoint at a $100M+ valuation &lpar;Forbes&rpar;](http://www.techmeme.com/250119/p5#a250119p5)
  - [Hisense’s RGB LED Could Be the Future for Cheap Screens](https://www.wired.com/story/what-is-rgb-led-tv/)
  - [New year, new Switch, new Severance](https://www.theverge.com/2025/1/19/24346079/nintendo-switch-2-severance-apple-chatgpt-tasks-installer)
  - [The tech to build the holodeck](https://www.theverge.com/2025/1/19/24345491/gaussian-splats-3d-scanning-scaniverse-niantic)
- - [Our Place Always Pan 2.0 Review: My Favorite Piece of Cookware](https://www.wired.com/review/our-place-always-pan-2/)
- - [There’s a New Way to Count Prime Numbers](https://www.wired.com/story/mathematicians-uncover-a-new-way-to-count-prime-numbers/)<!-- TECH:END -->
+ - [Our Place Always Pan 2.0 Review: My Favorite Piece of Cookware](https://www.wired.com/review/our-place-always-pan-2/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

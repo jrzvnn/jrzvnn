@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Thai](http://9gag.com/gag/aRBBeEq)
  - 😝 [Mouthfuls](http://9gag.com/gag/aMVVQrP)
- - 💣 [Europe.](http://9gag.com/gag/aPAA4GB)
- - 😝 [Helping](http://9gag.com/gag/aGyyDg5)
- - 👉 [Would](http://9gag.com/gag/amoo9P4)<!-- MEMES:END -->
+ - 😝 [Europe.](http://9gag.com/gag/aPAA4GB)
+ - 💣 [Step 1: Confuse your opponents](http://9gag.com/gag/a2vvqmE)
+ - 😝 [Canada Montreal police are urging people not to post pictures of porch pirates on social media.](http://9gag.com/gag/ayNNd3r)
+ - 👉 [We will watch your career with great interest.](http://9gag.com/gag/aLnnPwz)<!-- MEMES:END -->
 
 ---
 

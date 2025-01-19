@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [TikTok’s service providers still risk billions in penalties for bringing it back online](https://www.theverge.com/2025/1/19/24347325/tiktok-service-providers-penalties-apple-google-orcale-trump)
  - [TikTok has shut itself down in the US ahead of January 19 deadline.](https://appleinsider.com/articles/25/01/19/tiktok-has-shut-itself-down-in-the-us-ahead-of-january-19-deadline?utm_medium=rss)
  - [TikTok ban: all the news on the app’s shutdown and return in the US](https://www.theverge.com/23651507/tiktok-ban-us-news)
  - [Meta unveils Edits, a video editing app coming next month on iOS and soon on Android, after CapCut is removed from app stores as part of the divest-or-ban law &lpar;Ivan Mehta/TechCrunch&rpar;](http://www.techmeme.com/250119/p13#a250119p13)
- - [Instagram announces a blatant CapCut clone](https://www.theverge.com/2025/1/19/24347358/instagram-edits-capcut-video-app-tiktok-ban)
- - [Best Noise-Canceling Earbuds for 2025](https://www.cnet.com/tech/mobile/best-noise-canceling-wireless-earbuds/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Instagram announces a blatant CapCut clone](https://www.theverge.com/2025/1/19/24347358/instagram-edits-capcut-video-app-tiktok-ban)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

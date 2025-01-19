@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [She knows](http://9gag.com/gag/avyyPzd)
- - 😝 [Just don&#39;t climb in a tiny cave hole and you&#39;ll be good.](http://9gag.com/gag/aW44Mbd)
- - 💣 [Young businessman](http://9gag.com/gag/ayNNdwV)
- - 😝 [She gotta be embarrassed](http://9gag.com/gag/aYQQwd0)
- - 👉 [Somebody tell this dude to man up, he\u2019s acting like a melodramatic woman](http://9gag.com/gag/axyyjgY)<!-- MEMES:END -->
+ - 😝 [The old times were better](http://9gag.com/gag/aGyyxr5)
+ - 😝 [Haha or no haha](http://9gag.com/gag/aKGG2Y6)
+ - 💣 [The pinnacle of ai technology](http://9gag.com/gag/aVvveqO)
+ - 😝 [Dog moves security camera so he can eat food on the table](http://9gag.com/gag/aD22jjZ)
+ - 👉 [Japan should have won the world war](http://9gag.com/gag/aZZZBb9)<!-- MEMES:END -->
 
 ---
 

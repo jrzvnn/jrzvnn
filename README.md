@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Me every morning to my cup of coffee](http://9gag.com/gag/a1mmdY6)
- - 😝 [Guess what happen next](http://9gag.com/gag/awyyVKB)
- - 💣 [She gotta be embarrassed](http://9gag.com/gag/aYQQwd0)
- - 😝 [The last Polio victim on Earth who survived with an Iron-Lung passed.](http://9gag.com/gag/ae99G4p)
- - 👉 [She knows](http://9gag.com/gag/avyyPzd)<!-- MEMES:END -->
+ - 😝 [Me too](http://9gag.com/gag/aRBBKpM)
+ - 😝 [Winning in life](http://9gag.com/gag/a877MRQ)
+ - 💣 [Me exaggerating how stressful my job is when in reality](http://9gag.com/gag/aPAAByg)
+ - 😝 [Far superior.](http://9gag.com/gag/aD22jew)
+ - 👉 [Think this should be the whole world.](http://9gag.com/gag/aD22GEG)<!-- MEMES:END -->
 
 ---
 

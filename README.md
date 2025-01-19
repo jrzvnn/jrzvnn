@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [TikTok is Banned in the US: Here Are 8 Replacement Apps](https://www.cnet.com/tech/services-and-software/tiktok-is-banned-in-the-us-here-are-8-replacement-apps/#ftag=CAD590a51e)
- - [Apple says it’s following the law by removing TikTok from the App Store](https://www.theverge.com/2025/1/19/24347077/tiktok-ban-apple-app-store-bytedance)
- - [The messy TikTok saga in the US over the past five years has shown that lawmakers are as spineless and skittish as everyone suspects them to be &lpar;Nitish Pahwa/Slate&rpar;](http://www.techmeme.com/250119/p3#a250119p3)
- - [Best Internet Providers in Waco, Texas](https://www.cnet.com/home/internet/best-internet-providers-in-waco-tx/#ftag=CAD590a51e)
- - [Coinbase and Binance plan to list the TRUMP token, with Binance opening trading on Jan. 19; CoinGecko: $TRUMP is trading on Bitget, Kraken, and other exchanges &lpar;Sam Reynolds/CoinDesk&rpar;](http://www.techmeme.com/250119/p2#a250119p2)<!-- TECH:END -->
+ - [Best Internet Providers in Detroit, Michigan](https://www.cnet.com/home/internet/best-internet-providers-in-detroit-mi/#ftag=CAD590a51e)
+ - [Mortgage Predictions: What the Jan. 20 Presidential Inauguration Could Mean for Rates](https://www.cnet.com/personal-finance/mortgage-predictions-what-the-jan-20-presidential-inauguration-could-mean-for-rates/#ftag=CAD590a51e)
+ - [Late-Night Bathroom Breaks Ruining Your Sleep? Causes and Remedies](https://www.cnet.com/health/sleep/late-night-bathroom-breaks-ruining-your-sleep-causes-and-remedies/#ftag=CAD590a51e)
+ - [Best Internet Providers in San Marcos, Texas](https://www.cnet.com/home/internet/best-internet-providers-in-san-marcos-tx/#ftag=CAD590a51e)
+ - [TikTok is Banned in the US: Here Are 8 Replacement Apps](https://www.cnet.com/tech/services-and-software/tiktok-is-banned-in-the-us-here-are-8-replacement-apps/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

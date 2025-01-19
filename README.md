@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [We will watch your career with great interest.](http://9gag.com/gag/aLnnPwz)
- - 😝 [Somebody tell this dude to man up, he\u2019s acting like a melodramatic woman](http://9gag.com/gag/axyyjgY)
- - 💣 [She dont want to continue anymore](http://9gag.com/gag/aVvvXMd)
- - 😝 [Helping](http://9gag.com/gag/aGyyDg5)
- - 👉 [Thai](http://9gag.com/gag/aRBBeEq)<!-- MEMES:END -->
+ - 😝 [OnlyFans creator Gizem Ba\u011fda\u00e7i\u00e7ek was arrested for violating Turkish obscenity laws, following the OnlyFans ban in Turkey](http://9gag.com/gag/aMVV9LR)
+ - 😝 [Let\u2019s not jump to conclusions. Aaaaaannnnnddddd. They are :](http://9gag.com/gag/azxxrgK)
+ - 💣 [Mouthfuls](http://9gag.com/gag/aMVVQrP)
+ - 😝 [Step 1: Confuse your opponents](http://9gag.com/gag/a2vvqmE)
+ - 👉 [Bro had enough](http://9gag.com/gag/a5QQK6O)<!-- MEMES:END -->
 
 ---
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [&#39;Think Before You Post&#39; TV Commercial](http://9gag.com/gag/an7716o)
- - 😝 [Bro had enough](http://9gag.com/gag/a5QQK6O)
- - 💣 [We will watch your career with great interest.](http://9gag.com/gag/aLnnPwz)
- - 😝 [Guess what happen next](http://9gag.com/gag/awyyVKB)
- - 👉 [Young businessman](http://9gag.com/gag/ayNNdwV)<!-- MEMES:END -->
+ - 😝 [She gotta be embarrassed](http://9gag.com/gag/aYQQwd0)
+ - 😝 [Somebody tell this dude to man up, he\u2019s acting like a melodramatic woman](http://9gag.com/gag/axyyjgY)
+ - 💣 [Step 1: Confuse your opponents](http://9gag.com/gag/a2vvqmE)
+ - 😝 [Helping](http://9gag.com/gag/aGyyDg5)
+ - 👉 [We will watch your career with great interest.](http://9gag.com/gag/aLnnPwz)<!-- MEMES:END -->
 
 ---
 

@@ -159,9 +159,9 @@ R                        1 repo              ░░░░░░░░░░░�
 <!-- TECH:START -->
  - [Apple says it’s following the law by removing TikTok from the App Store](https://www.theverge.com/2025/1/19/24347077/tiktok-ban-apple-app-store-bytedance)
  - [The messy TikTok saga in the US over the past five years has shown that lawmakers are as spineless and skittish as everyone suspects them to be &lpar;Nitish Pahwa/Slate&rpar;](http://www.techmeme.com/250119/p3#a250119p3)
+ - [Best Internet Providers in Waco, Texas](https://www.cnet.com/home/internet/best-internet-providers-in-waco-tx/#ftag=CAD590a51e)
  - [Coinbase and Binance plan to list the TRUMP token, with Binance opening trading on Jan. 19; CoinGecko: $TRUMP is trading on Bitget, Kraken, and other exchanges &lpar;Sam Reynolds/CoinDesk&rpar;](http://www.techmeme.com/250119/p2#a250119p2)
- - [Card game Marvel Snap, published by ByteDance-owned Nuverse, cuts off access for US gamers, as the TikTok divest-or-ban law impacts other ByteDance-linked apps &lpar;Richard Lawler/The Verge&rpar;](http://www.techmeme.com/250119/p1#a250119p1)
- - [Best Rowing Machines of 2025 for a Full-Body Workout Without Water](https://www.cnet.com/health/fitness/best-rowing-machine/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Card game Marvel Snap, published by ByteDance-owned Nuverse, cuts off access for US gamers, as the TikTok divest-or-ban law impacts other ByteDance-linked apps &lpar;Richard Lawler/The Verge&rpar;](http://www.techmeme.com/250119/p1#a250119p1)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

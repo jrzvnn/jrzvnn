@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Me exaggerating how stressful my job is when in reality](http://9gag.com/gag/aPAAByg)
- - 😝 [This is Luc Andr\u00e9 Diouf. He entered Spain illegally. One day he beat up an elderly man after an argument, causing head trauma and a perforated eardrum. Today he is a member of the spanish parliament thanks to Pedro S\u00e1nchez &lpar;71,897\u20ac a year&rpar;](http://9gag.com/gag/agmmNX6)
- - 💣 [It&#39;s your captain speaking, don&#39;t forget to add some material.](http://9gag.com/gag/aqyyL3Y)
- - 😝 [This man paid 10,000 bitcoins for two pizzas in 2010](http://9gag.com/gag/aByy1BN)
- - 👉 [How about coming naked from the shower?](http://9gag.com/gag/ae99Gzj)<!-- MEMES:END -->
+ - 😝 [The last Polio victim on Earth who survived with an Iron-Lung passed.](http://9gag.com/gag/ae99G4p)
+ - 😝 [Helping](http://9gag.com/gag/aGyyDg5)
+ - 💣 [AI is... improving.](http://9gag.com/gag/aryyKmX)
+ - 😝 [Step 1: Confuse your opponents](http://9gag.com/gag/a2vvqmE)
+ - 👉 [Impressive and frightener](http://9gag.com/gag/azxx81m)<!-- MEMES:END -->
 
 ---
 

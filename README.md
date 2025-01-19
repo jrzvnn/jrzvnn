@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [90s kids will understand...](http://9gag.com/gag/avyyPWW)
- - 😝 [They got me in the first half](http://9gag.com/gag/aRBBe72)
- - 💣 [The way he moves his lips is ridiculous](http://9gag.com/gag/ayNN82V)
- - 😝 [The invisible gymnast](http://9gag.com/gag/ayNNd1M)
- - 👉 [The old times were better](http://9gag.com/gag/aGyyxr5)<!-- MEMES:END -->
+ - 😝 [I thought you liked me?](http://9gag.com/gag/a4PPZ7p)
+ - 😝 [Would](http://9gag.com/gag/amoo9P4)
+ - 💣 [Speed it up](http://9gag.com/gag/apRRvp9)
+ - 😝 [Women Logic](http://9gag.com/gag/a7oobDL)
+ - 👉 [Somebody tell this dude to man up, he\u2019s acting like a melodramatic woman](http://9gag.com/gag/axyyjgY)<!-- MEMES:END -->
 
 ---
 

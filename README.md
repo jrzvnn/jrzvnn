@@ -158,10 +158,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- TECH:START -->
  - [TikTok Is Unavailable in the US—and Gone From the App Stores](https://www.wired.com/story/tiktok-ban-officially-in-effect/)
+ - [Best Internet Providers in Des Moines, Iowa](https://www.cnet.com/home/internet/best-internet-providers-in-des-moines-ia/#ftag=CAD590a51e)
  - [TikTok is not available for download in the App Store and Play Store in the US, as the app halts service in the country to comply with the divest-or-ban law &lpar;Jonathan Vanian/CNBC&rpar;](http://www.techmeme.com/250118/p20#a250118p20)
- - [ByteDance&#39;s TikTok and CapCut suspend service in the US, telling users &quot;Trump has indicated that he will work with us on a solution to reinstate TikTok&quot; &lpar;NBC News&rpar;](http://www.techmeme.com/250118/p19#a250118p19)
- - [TikTok ban: all the news on the app’s shutdown in the US](https://www.theverge.com/23651507/tiktok-ban-us-news)
- - [TikTok has shut itself down in the US ahead of January 19 deadline.](https://appleinsider.com/articles/25/01/19/tiktok-has-shut-itself-down-in-the-us-ahead-of-january-19-deadline?utm_medium=rss)<!-- TECH:END -->
+ - [TikTok Goes Dark In The US. Its Fate Remains Unclear](https://www.cnet.com/tech/services-and-software/tiktok-takes-its-case-to-the-supreme-court-what-to-know/#ftag=CAD590a51e)
+ - [ByteDance&#39;s TikTok and CapCut suspend service in the US, telling users &quot;Trump has indicated that he will work with us on a solution to reinstate TikTok&quot; &lpar;NBC News&rpar;](http://www.techmeme.com/250118/p19#a250118p19)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

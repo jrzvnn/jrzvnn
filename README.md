@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Moms are awesome](http://9gag.com/gag/aPAAMRR)
+ - 😝 [Helping](http://9gag.com/gag/aGyyDg5)
  - 😝 [This kid just took down one of the worlds strongest men](http://9gag.com/gag/avyyn5Z)
- - 💣 [Impressive and frightener](http://9gag.com/gag/azxx81m)
- - 😝 [OnlyFans creator Gizem Ba\u011fda\u00e7i\u00e7ek was arrested for violating Turkish obscenity laws, following the OnlyFans ban in Turkey](http://9gag.com/gag/aMVV9LR)
- - 👉 [Determined Mother](http://9gag.com/gag/aGyyeBn)<!-- MEMES:END -->
+ - 💣 [Asking a woman if her husband is happy](http://9gag.com/gag/avyyr2d)
+ - 😝 [Canada Montreal police are urging people not to post pictures of porch pirates on social media.](http://9gag.com/gag/ayNNd3r)
+ - 👉 [There are no stupid questions](http://9gag.com/gag/aNDDAr3)<!-- MEMES:END -->
 
 ---
 

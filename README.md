@@ -168,9 +168,9 @@ R                        1 repo              ░░░░░░░░░░░�
 <!-- MEMES:START -->
  - 😝 [90s kids will understand...](http://9gag.com/gag/avyyPWW)
  - 😝 [They got me in the first half](http://9gag.com/gag/aRBBe72)
- - 💣 [The invisible gymnast](http://9gag.com/gag/ayNNd1M)
- - 😝 [The way he moves his lips is ridiculous](http://9gag.com/gag/ayNN82V)
- - 👉 [Japan should have won the world war](http://9gag.com/gag/aZZZBb9)<!-- MEMES:END -->
+ - 💣 [The way he moves his lips is ridiculous](http://9gag.com/gag/ayNN82V)
+ - 😝 [The invisible gymnast](http://9gag.com/gag/ayNNd1M)
+ - 👉 [The old times were better](http://9gag.com/gag/aGyyxr5)<!-- MEMES:END -->
 
 ---
 

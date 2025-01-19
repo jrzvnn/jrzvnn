@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Me every morning to my cup of coffee](http://9gag.com/gag/a1mmdY6)
- - 😝 [Somebody tell this dude to man up, he\u2019s acting like a melodramatic woman](http://9gag.com/gag/axyyjgY)
- - 💣 [Impressive and frightener](http://9gag.com/gag/azxx81m)
- - 😝 [Guess what happen next](http://9gag.com/gag/awyyVKB)
- - 👉 [OnlyFans creator Gizem Ba\u011fda\u00e7i\u00e7ek was arrested for violating Turkish obscenity laws, following the OnlyFans ban in Turkey](http://9gag.com/gag/aMVV9LR)<!-- MEMES:END -->
+ - 😝 [POS woman pushes old man](http://9gag.com/gag/aLnnMxV)
+ - 😝 [This man paid 10,000 bitcoins for two pizzas in 2010](http://9gag.com/gag/aByy1BN)
+ - 💣 [Moms are awesome](http://9gag.com/gag/aPAAMRR)
+ - 😝 [Toture](http://9gag.com/gag/aZZZmxn)
+ - 👉 [Somebody tell this dude to man up, he\u2019s acting like a melodramatic woman](http://9gag.com/gag/axyyjgY)<!-- MEMES:END -->
 
 ---
 

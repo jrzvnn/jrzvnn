@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [The last Polio victim on Earth who survived with an Iron-Lung passed.](http://9gag.com/gag/ae99G4p)
- - 😝 [Helping](http://9gag.com/gag/aGyyDg5)
- - 💣 [AI is... improving.](http://9gag.com/gag/aryyKmX)
- - 😝 [Step 1: Confuse your opponents](http://9gag.com/gag/a2vvqmE)
- - 👉 [Impressive and frightener](http://9gag.com/gag/azxx81m)<!-- MEMES:END -->
+ - 😝 [Haha or no haha](http://9gag.com/gag/aKGG2Y6)
+ - 😝 [Where would one find one?](http://9gag.com/gag/ayNNDor)
+ - 💣 [Me exaggerating how stressful my job is when in reality](http://9gag.com/gag/aPAAByg)
+ - 😝 [It&#39;s not islamophobia or racism. It&#39;s just an observation that reveals a certain pattern.](http://9gag.com/gag/awyyVgQ)
+ - 👉 [Me too](http://9gag.com/gag/aRBBKpM)<!-- MEMES:END -->
 
 ---
 

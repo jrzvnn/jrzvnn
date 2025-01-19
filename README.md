@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [She gotta be embarrassed](http://9gag.com/gag/aYQQwd0)
+ - 😝 [Bro had enough](http://9gag.com/gag/a5QQK6O)
+ - 💣 [Canada Montreal police are urging people not to post pictures of porch pirates on social media.](http://9gag.com/gag/ayNNd3r)
  - 😝 [Somebody tell this dude to man up, he\u2019s acting like a melodramatic woman](http://9gag.com/gag/axyyjgY)
- - 😝 [Let\u2019s not jump to conclusions. Aaaaaannnnnddddd. They are :](http://9gag.com/gag/azxxrgK)
- - 💣 [Grandpa dismissed warnings of a tiger, almost gets pepsi&#39;d](http://9gag.com/gag/aLnnQWx)
- - 😝 [Make my day!](http://9gag.com/gag/aoyyZB3)
- - 👉 [Bro had enough](http://9gag.com/gag/a5QQK6O)<!-- MEMES:END -->
+ - 👉 [Young businessman](http://9gag.com/gag/ayNNdwV)<!-- MEMES:END -->
 
 ---
 

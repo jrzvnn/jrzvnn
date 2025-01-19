@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Helping](http://9gag.com/gag/aGyyDg5)
- - 😝 [This kid just took down one of the worlds strongest men](http://9gag.com/gag/avyyn5Z)
- - 💣 [Asking a woman if her husband is happy](http://9gag.com/gag/avyyr2d)
- - 😝 [Canada Montreal police are urging people not to post pictures of porch pirates on social media.](http://9gag.com/gag/ayNNd3r)
- - 👉 [There are no stupid questions](http://9gag.com/gag/aNDDAr3)<!-- MEMES:END -->
+ - 😝 [The Double Rainbow guy was a prolific YouTuber who scheduled 15 years of uploads in advanced before he died His channel is still active now 4 years after his death.](http://9gag.com/gag/aXPP97P)
+ - 😝 [This man paid 10,000 bitcoins for two pizzas in 2010](http://9gag.com/gag/aByy1BN)
+ - 💣 [Guess what happen next](http://9gag.com/gag/awyyVKB)
+ - 😝 [Only for $1200/month what a catch](http://9gag.com/gag/aYQQK5O)
+ - 👉 [Theres a photo online of a dude who killed a hippo with one](http://9gag.com/gag/aD22z0w)<!-- MEMES:END -->
 
 ---
 

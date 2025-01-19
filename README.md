@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [TikTok Is Already Back Online](https://www.wired.com/story/tiktok-is-back/)
  - [How to watch the 2025 US presidential inauguration online](https://appleinsider.com/articles/25/01/19/how-to-watch-the-2025-us-presidential-inauguration-online?utm_medium=rss)
  - [TikTok says it&#39;s restoring its service in the US after reaching an &quot;agreement with our service providers&quot; and thanks Trump &quot;for providing the necessary clarity&quot; &lpar;Wes Davis/The Verge&rpar;](http://www.techmeme.com/250119/p11#a250119p11)
  - [TikTok is coming back online in the US](https://www.theverge.com/2025/1/19/24347280/tiktok-ban-shutdown-ends)
- - [Sources: a breakthrough in AI super-agents for complex human tasks may be announced soon; Sam Altman set up a closed-door briefing for US officials on Jan. 30 &lpar;Axios&rpar;](http://www.techmeme.com/250119/p10#a250119p10)
- - [Apple is unlikely to acquire Sonos, but Amazon, Spotify, Roku, Samsung and others might consider the idea, with Amazon being the most natural fit &lpar;Mark Gurman/Bloomberg&rpar;](http://www.techmeme.com/250119/p9#a250119p9)<!-- TECH:END -->
+ - [Best Internet Providers in West Des Moines, Iowa](https://www.cnet.com/home/internet/best-internet-providers-in-west-des-moines-ia/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Premier League Soccer: Livestream Ipswich vs. Man City From Anywhere](https://www.cnet.com/tech/services-and-software/premier-league-soccer-livestream-ipswich-vs-man-city-from-anywhere/#ftag=CAD590a51e)
- - [Best Air Purifiers of 2025](https://www.cnet.com/home/kitchen-and-household/best-air-purifier/#ftag=CAD590a51e)
+ - [Trump’s second inauguration: live updates and how to watch](https://www.theverge.com/2025/1/19/24345988/donald-trump-inauguration-news-live-coverage)
  - [Collate, which is developing tech to automate paperwork for life science companies, emerges from stealth with a $30M seed led by Redpoint at a $100M+ valuation &lpar;Forbes&rpar;](http://www.techmeme.com/250119/p5#a250119p5)
  - [Hisense’s RGB LED Could Be the Future for Cheap Screens](https://www.wired.com/story/what-is-rgb-led-tv/)
- - [Galaxy S25 Is Almost Here: What to Expect at Samsung Unpacked and How to Watch](https://www.cnet.com/tech/mobile/galaxy-s25-is-almost-here-what-to-expect-at-samsung-unpacked-and-how-to-watch/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [New year, new Switch, new Severance](https://www.theverge.com/2025/1/19/24346079/nintendo-switch-2-severance-apple-chatgpt-tasks-installer)
+ - [The tech to build the holodeck](https://www.theverge.com/2025/1/19/24345491/gaussian-splats-3d-scanning-scaniverse-niantic)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

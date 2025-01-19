@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [TikTok isn’t back in the App Store yet](https://www.theverge.com/2025/1/19/24347340/tiktok-ban-app-store-google-play)
+ - [How to watch the 2025 US presidential inauguration online](https://appleinsider.com/articles/25/01/19/how-to-watch-the-2025-us-presidential-inauguration-online?utm_medium=rss)
  - [Blockchain security firm Scam Sniffer reports scams luring crypto investors into malicious Telegram groups jumped 2,000% between November 2024 and January 2025 &lpar;Danny Park/The Block&rpar;](http://www.techmeme.com/250119/p12#a250119p12)
  - [How to bulk download and save your TikTok videos](https://www.theverge.com/24343890/tiktok-bulk-save-how-to)
- - [TikTok service restored in the US after promises that ban won&#39;t be enforced](https://appleinsider.com/articles/25/01/19/tiktok-service-restored-in-the-us-after-promises-that-ban-wont-be-enforced?utm_medium=rss)
- - [Best Coffee Makers for 2025](https://www.cnet.com/home/kitchen-and-household/best-coffee-maker/#ftag=CAD590a51e)
- - [TikTok Returns After Trump Promises to Postpone Ban](https://www.cnet.com/tech/services-and-software/tiktok-takes-its-case-to-the-supreme-court-what-to-know/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [TikTok service restored in the US after promises that ban won&#39;t be enforced](https://appleinsider.com/articles/25/01/19/tiktok-service-restored-in-the-us-after-promises-that-ban-wont-be-enforced?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

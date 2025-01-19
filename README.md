@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [How to bulk download and save your TikTok videos](https://www.theverge.com/24343890/tiktok-bulk-save-how-to)
  - [TikTok ban: all the news on the app’s shutdown in the US](https://www.theverge.com/23651507/tiktok-ban-us-news)
  - [TikTok will be ‘temporarily unavailable’ in the US starting tonight](https://www.theverge.com/2025/1/18/24346883/tiktok-shutdown-offline-us-ban)
  - [TikTok bans in countries around the world have played out quite differently; Instagram Reels largely replaced TikTok in India, following TikTok&#39;s ban in 2020 &lpar;Will Oremus/Washington Post&rpar;](http://www.techmeme.com/250118/p18#a250118p18)
- - [Best Headsets for Working From Home in 2025](https://www.cnet.com/tech/mobile/best-headphones-for-work-at-home/#ftag=CAD590a51e)
- - [Genshin Impact’s developer to pay $20 million fine to settle FTC charges](https://www.theverge.com/2025/1/18/24346862/genshin-impact-developer-20-million-fine-ftc-data-lootboxes)<!-- TECH:END -->
+ - [Best Headsets for Working From Home in 2025](https://www.cnet.com/tech/mobile/best-headphones-for-work-at-home/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

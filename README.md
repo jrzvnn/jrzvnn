@@ -158,10 +158,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- TECH:START -->
  - [How to watch the 2025 presidential inauguration on Apple devices](https://appleinsider.com/articles/25/01/19/how-to-watch-the-2025-us-presidential-inauguration-online?utm_medium=rss)
+ - [Best Stand-Up Paddleboards for 2025](https://www.cnet.com/health/fitness/best-stand-up-paddle-boards/#ftag=CAD590a51e)
  - [&#39;Ted Lasso&#39; star drops strong hint of filming for fourth season](https://appleinsider.com/articles/25/01/19/ted-lasso-star-drops-strong-hint-of-filming-for-fourth-season?utm_medium=rss)
  - [NFL Divisional Weekend: How to Watch Ravens vs. Bills Today on CBS and Paramount Plus](https://www.cnet.com/tech/services-and-software/nfl-divisional-weekend-how-to-watch-ravens-vs-bills-today-on-cbs-and-paramount-plus/#ftag=CAD590a51e)
- - [TikTok&#39;s service providers are risking billions in fines for keeping the app online, as Trump&#39;s assurances that it&#39;s safe to support TikTok are legally flimsy &lpar;Lauren Feiner/The Verge&rpar;](http://www.techmeme.com/250119/p14#a250119p14)
- - [TikTok is back, but where are Marvel Snap, CapCut, and Lemon8?](https://www.theverge.com/2025/1/19/24347399/tiktok-ban-marvel-snap-capcut-lemon8-bytedance)<!-- TECH:END -->
+ - [TikTok&#39;s service providers are risking billions in fines for keeping the app online, as Trump&#39;s assurances that it&#39;s safe to support TikTok are legally flimsy &lpar;Lauren Feiner/The Verge&rpar;](http://www.techmeme.com/250119/p14#a250119p14)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

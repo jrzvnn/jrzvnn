@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Apple CFO Kevan Parekh tells a London court it is impossible to accurately determine the App Store&#39;s standalone profitability and disputes claims of 75% margins &lpar;Financial Times&rpar;](http://www.techmeme.com/250119/p6#a250119p6)
  - [22 Best Wireless Chargers 2025: Wire-Free Charging for Devices](https://www.wired.com/gallery/best-wireless-chargers/)
  - [Trump’s second inauguration: live updates and how to watch](https://www.theverge.com/2025/1/19/24345988/donald-trump-inauguration-news-live-coverage)
  - [Premier League Soccer: Livestream Ipswich vs. Man City From Anywhere](https://www.cnet.com/tech/services-and-software/premier-league-soccer-livestream-ipswich-vs-man-city-from-anywhere/#ftag=CAD590a51e)
- - [Best Air Purifiers of 2025](https://www.cnet.com/home/kitchen-and-household/best-air-purifier/#ftag=CAD590a51e)
- - [Collate, which is developing tech to automate paperwork for life science companies, emerges from stealth with a $30M seed led by Redpoint at a $100M+ valuation &lpar;Forbes&rpar;](http://www.techmeme.com/250119/p5#a250119p5)<!-- TECH:END -->
+ - [Best Air Purifiers of 2025](https://www.cnet.com/home/kitchen-and-household/best-air-purifier/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

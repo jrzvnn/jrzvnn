@@ -157,10 +157,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [TikTok bans in countries around the world have played out quite differently; Instagram Reels largely replaced TikTok in India, following TikTok&#39;s ban in 2020 &lpar;Will Oremus/Washington Post&rpar;](http://www.techmeme.com/250118/p18#a250118p18)
+ - [TikTok says it’s going offline in the US](https://www.theverge.com/2025/1/18/24346883/tiktok-shutdown-offline-us-ban)
+ - [Best Headsets for Working From Home in 2025](https://www.cnet.com/tech/mobile/best-headphones-for-work-at-home/#ftag=CAD590a51e)
  - [Genshin Impact’s developer to pay $20 million fine to settle FTC charges](https://www.theverge.com/2025/1/18/24346862/genshin-impact-developer-20-million-fine-ftc-data-lootboxes)
  - [The Top 6 Alarm Clocks of 2025](https://www.cnet.com/health/sleep/best-alarm-clock/#ftag=CAD590a51e)
- - [A close look at some privacy implications of AI interfacing with messaging apps and other E2EE systems, Apple&#39;s approach to &quot;Private Cloud Compute&quot;, and more &lpar;Matthew Green/A Few Thoughts on Cryptographic Engineering&rpar;](http://www.techmeme.com/250118/p17#a250118p17)
  - [Will TikTok &#39;Go Dark&#39; on Sunday? Its Fate Remains Unclear](https://www.cnet.com/tech/services-and-software/tiktok-takes-its-case-to-the-supreme-court-what-to-know/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour

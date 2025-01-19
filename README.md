@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [US officials have struck binding deals for 85% of the CHIPS Act funding; sources: Gina Raimondo said her successor, Howard Lutnick, is committed to the program &lpar;Mackenzie Hawkins/Bloomberg&rpar;](http://www.techmeme.com/250119/p4#a250119p4)
  - [Best Internet Providers in Detroit, Michigan](https://www.cnet.com/home/internet/best-internet-providers-in-detroit-mi/#ftag=CAD590a51e)
  - [Mortgage Predictions: What the Jan. 20 Presidential Inauguration Could Mean for Rates](https://www.cnet.com/personal-finance/mortgage-predictions-what-the-jan-20-presidential-inauguration-could-mean-for-rates/#ftag=CAD590a51e)
  - [Late-Night Bathroom Breaks Ruining Your Sleep? Causes and Remedies](https://www.cnet.com/health/sleep/late-night-bathroom-breaks-ruining-your-sleep-causes-and-remedies/#ftag=CAD590a51e)
- - [Best Internet Providers in San Marcos, Texas](https://www.cnet.com/home/internet/best-internet-providers-in-san-marcos-tx/#ftag=CAD590a51e)
- - [TikTok is Banned in the US: Here Are 8 Replacement Apps](https://www.cnet.com/tech/services-and-software/tiktok-is-banned-in-the-us-here-are-8-replacement-apps/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Best Internet Providers in San Marcos, Texas](https://www.cnet.com/home/internet/best-internet-providers-in-san-marcos-tx/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

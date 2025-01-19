@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [The Double Rainbow guy was a prolific YouTuber who scheduled 15 years of uploads in advanced before he died His channel is still active now 4 years after his death.](http://9gag.com/gag/aXPP97P)
- - 😝 [Step 1: Confuse your opponents](http://9gag.com/gag/a2vvqmE)
- - 💣 [Somebody tell this dude to man up, he\u2019s acting like a melodramatic woman](http://9gag.com/gag/axyyjgY)
- - 😝 [She gotta be embarrassed](http://9gag.com/gag/aYQQwd0)
- - 👉 [She knows](http://9gag.com/gag/avyyPzd)<!-- MEMES:END -->
+ - 😝 [Me exaggerating how stressful my job is when in reality](http://9gag.com/gag/aPAAByg)
+ - 😝 [This is Luc Andr\u00e9 Diouf. He entered Spain illegally. One day he beat up an elderly man after an argument, causing head trauma and a perforated eardrum. Today he is a member of the spanish parliament thanks to Pedro S\u00e1nchez &lpar;71,897\u20ac a year&rpar;](http://9gag.com/gag/agmmNX6)
+ - 💣 [It&#39;s your captain speaking, don&#39;t forget to add some material.](http://9gag.com/gag/aqyyL3Y)
+ - 😝 [This man paid 10,000 bitcoins for two pizzas in 2010](http://9gag.com/gag/aByy1BN)
+ - 👉 [How about coming naked from the shower?](http://9gag.com/gag/ae99Gzj)<!-- MEMES:END -->
 
 ---
 

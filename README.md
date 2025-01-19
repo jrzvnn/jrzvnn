@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Only for $1200/month what a catch](http://9gag.com/gag/aYQQK5O)
+ - 😝 [She knows](http://9gag.com/gag/avyyPzd)
  - 😝 [Just don&#39;t climb in a tiny cave hole and you&#39;ll be good.](http://9gag.com/gag/aW44Mbd)
  - 💣 [Young businessman](http://9gag.com/gag/ayNNdwV)
- - 😝 [Guess what happen next](http://9gag.com/gag/awyyVKB)
- - 👉 [Somebody tell this dude to man up, he\u2019s acting like a melodramatic woman](http://9gag.com/gag/axyyjgY)<!-- MEMES:END -->
+ - 😝 [Somebody tell this dude to man up, he\u2019s acting like a melodramatic woman](http://9gag.com/gag/axyyjgY)
+ - 👉 [OnlyFans creator Gizem Ba\u011fda\u00e7i\u00e7ek was arrested for violating Turkish obscenity laws, following the OnlyFans ban in Turkey](http://9gag.com/gag/aMVV9LR)<!-- MEMES:END -->
 
 ---
 

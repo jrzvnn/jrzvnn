@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Let\u2019s not jump to conclusions. Aaaaaannnnnddddd. They are :](http://9gag.com/gag/azxxrgK)
- - 😝 [Robbie Fowler infamous goal celebration that got him a 4 game ban and 40k fine in 1999.](http://9gag.com/gag/a7oo75q)
- - 💣 [They got me in the first half](http://9gag.com/gag/aRBBe72)
- - 😝 [Shoplifter claimed he couldn&#39;t breath after being arrested](http://9gag.com/gag/ajPP6ww)
- - 👉 [The way he moves his lips is ridiculous](http://9gag.com/gag/ayNN82V)<!-- MEMES:END -->
+ - 😝 [Just don&#39;t climb in a tiny cave hole and you&#39;ll be good.](http://9gag.com/gag/aW44Mbd)
+ - 😝 [She gotta be embarrassed](http://9gag.com/gag/aYQQwd0)
+ - 💣 [Thai](http://9gag.com/gag/aRBBeEq)
+ - 😝 [They got me in the first half](http://9gag.com/gag/aRBBe72)
+ - 👉 [Helping](http://9gag.com/gag/aGyyDg5)<!-- MEMES:END -->
 
 ---
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Haha or no haha](http://9gag.com/gag/aKGG2Y6)
- - 😝 [Where would one find one?](http://9gag.com/gag/ayNNDor)
- - 💣 [Me exaggerating how stressful my job is when in reality](http://9gag.com/gag/aPAAByg)
- - 😝 [It&#39;s not islamophobia or racism. It&#39;s just an observation that reveals a certain pattern.](http://9gag.com/gag/awyyVgQ)
- - 👉 [Me too](http://9gag.com/gag/aRBBKpM)<!-- MEMES:END -->
+ - 😝 [Would](http://9gag.com/gag/amoo9P4)
+ - 😝 [She knows](http://9gag.com/gag/avyyPzd)
+ - 💣 [Toture](http://9gag.com/gag/aZZZmxn)
+ - 😝 [OnlyFans creator Gizem Ba\u011fda\u00e7i\u00e7ek was arrested for violating Turkish obscenity laws, following the OnlyFans ban in Turkey](http://9gag.com/gag/aMVV9LR)
+ - 👉 [How about coming naked from the shower?](http://9gag.com/gag/ae99Gzj)<!-- MEMES:END -->
 
 ---
 

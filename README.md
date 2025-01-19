@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [It could be worse, MF](http://9gag.com/gag/an77Ko0)
- - 😝 [Somebody tell this dude to man up, he\u2019s acting like a melodramatic woman](http://9gag.com/gag/axyyjgY)
- - 💣 [Canada Montreal police are urging people not to post pictures of porch pirates on social media.](http://9gag.com/gag/ayNNd3r)
+ - 😝 [Thai](http://9gag.com/gag/aRBBeEq)
+ - 😝 [Mouthfuls](http://9gag.com/gag/aMVVQrP)
+ - 💣 [Europe.](http://9gag.com/gag/aPAA4GB)
  - 😝 [Helping](http://9gag.com/gag/aGyyDg5)
- - 👉 [Thai](http://9gag.com/gag/aRBBeEq)<!-- MEMES:END -->
+ - 👉 [Would](http://9gag.com/gag/amoo9P4)<!-- MEMES:END -->
 
 ---
 

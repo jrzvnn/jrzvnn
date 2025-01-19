@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Airport security is going to be pissed lol](http://9gag.com/gag/a7ooDKA)
- - 😝 [Winning in life](http://9gag.com/gag/a877MRQ)
- - 💣 [Far superior.](http://9gag.com/gag/aD22jew)
- - 😝 [Me exaggerating how stressful my job is when in reality](http://9gag.com/gag/aPAAByg)
- - 👉 [Think this should be the whole world.](http://9gag.com/gag/aD22GEG)<!-- MEMES:END -->
+ - 😝 [OnlyFans creator Gizem Ba\u011fda\u00e7i\u00e7ek was arrested for violating Turkish obscenity laws, following the OnlyFans ban in Turkey](http://9gag.com/gag/aMVV9LR)
+ - 😝 [How about coming naked from the shower?](http://9gag.com/gag/ae99Gzj)
+ - 💣 [Only for $1200/month what a catch](http://9gag.com/gag/aYQQK5O)
+ - 😝 [This man paid 10,000 bitcoins for two pizzas in 2010](http://9gag.com/gag/aByy1BN)
+ - 👉 [This kid just took down one of the worlds strongest men](http://9gag.com/gag/avyyn5Z)<!-- MEMES:END -->
 
 ---
 

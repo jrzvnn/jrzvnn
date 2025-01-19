@@ -167,10 +167,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [&#39;Think Before You Post&#39; TV Commercial](http://9gag.com/gag/an7716o)
- - 😝 [Little parting gift](http://9gag.com/gag/aMVVr8M)
- - 💣 [&#39;&#39;Who give a f**k how long a scene is!&#39;&#39; David Lynch](http://9gag.com/gag/aqyyN5R)
- - 😝 [I think I&#39;ve downloaded the wrong X-Files](http://9gag.com/gag/aMVVwRR)
- - 👉 [Helping](http://9gag.com/gag/aGyyDg5)<!-- MEMES:END -->
+ - 😝 [We will watch your career with great interest.](http://9gag.com/gag/aLnnPwz)
+ - 💣 [Would](http://9gag.com/gag/amoo9P4)
+ - 😝 [It could be worse, MF](http://9gag.com/gag/an77Ko0)
+ - 👉 [Mouthfuls](http://9gag.com/gag/aMVVQrP)<!-- MEMES:END -->
 
 ---
 

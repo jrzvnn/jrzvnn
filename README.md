@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Little parting gift](http://9gag.com/gag/aMVVr8M)
- - 😝 [Thai](http://9gag.com/gag/aRBBeEq)
- - 💣 [Reminding of this cinema gem.](http://9gag.com/gag/aW44WyK)
+ - 😝 [It could be worse, MF](http://9gag.com/gag/an77Ko0)
+ - 😝 [Somebody tell this dude to man up, he\u2019s acting like a melodramatic woman](http://9gag.com/gag/axyyjgY)
+ - 💣 [Canada Montreal police are urging people not to post pictures of porch pirates on social media.](http://9gag.com/gag/ayNNd3r)
  - 😝 [Helping](http://9gag.com/gag/aGyyDg5)
- - 👉 [Bro had enough](http://9gag.com/gag/a5QQK6O)<!-- MEMES:END -->
+ - 👉 [Thai](http://9gag.com/gag/aRBBeEq)<!-- MEMES:END -->
 
 ---
 

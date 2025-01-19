@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [- We, the youth, are the real Britain](http://9gag.com/gag/awyynzB)
- - 😝 [General Kenobi!](http://9gag.com/gag/a877ymY)
- - 💣 [Me too](http://9gag.com/gag/aRBBKpM)
- - 😝 [Me exaggerating how stressful my job is when in reality](http://9gag.com/gag/aPAAByg)
- - 👉 [Winning in life](http://9gag.com/gag/a877MRQ)<!-- MEMES:END -->
+ - 😝 [What happens when you put a sparkler through an egg...](http://9gag.com/gag/a7oorqb)
+ - 😝 [Young businessman](http://9gag.com/gag/ayNNdwV)
+ - 💣 [Impressive and frightener](http://9gag.com/gag/azxx81m)
+ - 😝 [She gotta be embarrassed](http://9gag.com/gag/aYQQwd0)
+ - 👉 [Helping](http://9gag.com/gag/aGyyDg5)<!-- MEMES:END -->
 
 ---
 

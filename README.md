@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Would](http://9gag.com/gag/amoo9P4)
- - 😝 [She knows](http://9gag.com/gag/avyyPzd)
- - 💣 [Toture](http://9gag.com/gag/aZZZmxn)
- - 😝 [OnlyFans creator Gizem Ba\u011fda\u00e7i\u00e7ek was arrested for violating Turkish obscenity laws, following the OnlyFans ban in Turkey](http://9gag.com/gag/aMVV9LR)
- - 👉 [How about coming naked from the shower?](http://9gag.com/gag/ae99Gzj)<!-- MEMES:END -->
+ - 😝 [Me every morning to my cup of coffee](http://9gag.com/gag/a1mmdY6)
+ - 😝 [Somebody tell this dude to man up, he\u2019s acting like a melodramatic woman](http://9gag.com/gag/axyyjgY)
+ - 💣 [Impressive and frightener](http://9gag.com/gag/azxx81m)
+ - 😝 [Guess what happen next](http://9gag.com/gag/awyyVKB)
+ - 👉 [OnlyFans creator Gizem Ba\u011fda\u00e7i\u00e7ek was arrested for violating Turkish obscenity laws, following the OnlyFans ban in Turkey](http://9gag.com/gag/aMVV9LR)<!-- MEMES:END -->
 
 ---
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [POS woman pushes old man](http://9gag.com/gag/aLnnMxV)
- - 😝 [This man paid 10,000 bitcoins for two pizzas in 2010](http://9gag.com/gag/aByy1BN)
- - 💣 [Moms are awesome](http://9gag.com/gag/aPAAMRR)
- - 😝 [Toture](http://9gag.com/gag/aZZZmxn)
- - 👉 [Somebody tell this dude to man up, he\u2019s acting like a melodramatic woman](http://9gag.com/gag/axyyjgY)<!-- MEMES:END -->
+ - 😝 [- We, the youth, are the real Britain](http://9gag.com/gag/awyynzB)
+ - 😝 [General Kenobi!](http://9gag.com/gag/a877ymY)
+ - 💣 [Me too](http://9gag.com/gag/aRBBKpM)
+ - 😝 [Me exaggerating how stressful my job is when in reality](http://9gag.com/gag/aPAAByg)
+ - 👉 [Winning in life](http://9gag.com/gag/a877MRQ)<!-- MEMES:END -->
 
 ---
 

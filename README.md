@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [How to Get Around the US TikTok Ban](https://www.wired.com/story/how-to-get-around-the-us-tiktok-ban/)
  - [Marvel Snap is banned, just like TikTok](https://www.theverge.com/2025/1/19/24347034/marvel-snap-banned-tiktok-bytedance)
  - [TikTok Is Unavailable in the US—and Gone From the App Stores](https://www.wired.com/story/tiktok-ban-officially-in-effect/)
  - [Best Internet Providers in Des Moines, Iowa](https://www.cnet.com/home/internet/best-internet-providers-in-des-moines-ia/#ftag=CAD590a51e)
- - [TikTok is not available for download in the App Store and Play Store in the US, as the app halts service in the country to comply with the divest-or-ban law &lpar;Jonathan Vanian/CNBC&rpar;](http://www.techmeme.com/250118/p20#a250118p20)
- - [TikTok Goes Dark In The US. Its Fate Remains Unclear](https://www.cnet.com/tech/services-and-software/tiktok-takes-its-case-to-the-supreme-court-what-to-know/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [TikTok is not available for download in the App Store and Play Store in the US, as the app halts service in the country to comply with the divest-or-ban law &lpar;Jonathan Vanian/CNBC&rpar;](http://www.techmeme.com/250118/p20#a250118p20)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

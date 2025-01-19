@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [What happens when you put a sparkler through an egg...](http://9gag.com/gag/a7oorqb)
- - 😝 [Young businessman](http://9gag.com/gag/ayNNdwV)
- - 💣 [Impressive and frightener](http://9gag.com/gag/azxx81m)
- - 😝 [She gotta be embarrassed](http://9gag.com/gag/aYQQwd0)
- - 👉 [Helping](http://9gag.com/gag/aGyyDg5)<!-- MEMES:END -->
+ - 😝 [Me every morning to my cup of coffee](http://9gag.com/gag/a1mmdY6)
+ - 😝 [Guess what happen next](http://9gag.com/gag/awyyVKB)
+ - 💣 [She gotta be embarrassed](http://9gag.com/gag/aYQQwd0)
+ - 😝 [The last Polio victim on Earth who survived with an Iron-Lung passed.](http://9gag.com/gag/ae99G4p)
+ - 👉 [She knows](http://9gag.com/gag/avyyPzd)<!-- MEMES:END -->
 
 ---
 

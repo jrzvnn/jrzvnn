@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [In a rare move, Apple publishes a statement and a document listing all ByteDance apps inaccessible in the US alongside TikTok, including Lemon8 and Lark &lpar;Ivan Mehta/TechCrunch&rpar;](http://www.techmeme.com/250119/p7#a250119p7)
- - [5 Posture Corrector Picks for Support &lpar;2025&rpar;, Tested and Reviewed](https://www.wired.com/gallery/posture-correctors/)
- - [Apple CFO Kevan Parekh tells a London court it is impossible to accurately determine the App Store&#39;s standalone profitability and disputes claims of 75% margins &lpar;Financial Times&rpar;](http://www.techmeme.com/250119/p6#a250119p6)
- - [Best Internet Providers in Yuma, Arizona](https://www.cnet.com/home/internet/best-internet-providers-in-yuma-az/#ftag=CAD590a51e)
- - [Come Tuesday, You Can See Six or Seven Planets in a Dazzling Planet Parade](https://www.cnet.com/science/how-to-see-january-21-tuesday-planet-parade-of-six-seven-planets-mark-your-calendars-skygazing/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Trump says he’ll delay TikTok ban, but the platform must be sold](https://www.theverge.com/2025/1/19/24347202/trump-tiktok-ban-delay-us-acquisition)
+ - [If you want to buy the 2022 iPhone SE, do it now](https://appleinsider.com/articles/25/01/19/if-you-want-to-buy-the-2022-iphone-se-do-it-now?utm_medium=rss)
+ - [Donald Trump says he will sign an EO on Monday to delay enforcing the TikTok ban and argues for a TikTok JV with 50% US ownership &lpar;Avery Lotz/Axios&rpar;](http://www.techmeme.com/250119/p8#a250119p8)
+ - [Best Coolers of 2025](https://www.cnet.com/home/yard-and-outdoors/best-coolers/#ftag=CAD590a51e)
+ - [In a rare move, Apple publishes a statement and a document listing all ByteDance apps inaccessible in the US alongside TikTok, including Lemon8 and Lark &lpar;Ivan Mehta/TechCrunch&rpar;](http://www.techmeme.com/250119/p7#a250119p7)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

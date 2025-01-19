@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [I thought you liked me?](http://9gag.com/gag/a4PPZ7p)
- - 😝 [Would](http://9gag.com/gag/amoo9P4)
- - 💣 [Speed it up](http://9gag.com/gag/apRRvp9)
- - 😝 [Women Logic](http://9gag.com/gag/a7oobDL)
- - 👉 [Somebody tell this dude to man up, he\u2019s acting like a melodramatic woman](http://9gag.com/gag/axyyjgY)<!-- MEMES:END -->
+ - 😝 [Little parting gift](http://9gag.com/gag/aMVVr8M)
+ - 😝 [Thai](http://9gag.com/gag/aRBBeEq)
+ - 💣 [Reminding of this cinema gem.](http://9gag.com/gag/aW44WyK)
+ - 😝 [Helping](http://9gag.com/gag/aGyyDg5)
+ - 👉 [Bro had enough](http://9gag.com/gag/a5QQK6O)<!-- MEMES:END -->
 
 ---
 

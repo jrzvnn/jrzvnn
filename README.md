@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [She gotta be embarrassed](http://9gag.com/gag/aYQQwd0)
+ - 😝 [Just don&#39;t climb in a tiny cave hole and you&#39;ll be good.](http://9gag.com/gag/aW44Mbd)
  - 😝 [Somebody tell this dude to man up, he\u2019s acting like a melodramatic woman](http://9gag.com/gag/axyyjgY)
- - 💣 [Step 1: Confuse your opponents](http://9gag.com/gag/a2vvqmE)
- - 😝 [Helping](http://9gag.com/gag/aGyyDg5)
- - 👉 [We will watch your career with great interest.](http://9gag.com/gag/aLnnPwz)<!-- MEMES:END -->
+ - 💣 [Helping](http://9gag.com/gag/aGyyDg5)
+ - 😝 [Young businessman](http://9gag.com/gag/ayNNdwV)
+ - 👉 [Guess what happen next](http://9gag.com/gag/awyyVKB)<!-- MEMES:END -->
 
 ---
 

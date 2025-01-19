@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Mouthfuls](http://9gag.com/gag/aMVVQrP)
- - 😝 [Europe.](http://9gag.com/gag/aPAA4GB)
- - 💣 [Step 1: Confuse your opponents](http://9gag.com/gag/a2vvqmE)
- - 😝 [Canada Montreal police are urging people not to post pictures of porch pirates on social media.](http://9gag.com/gag/ayNNd3r)
- - 👉 [We will watch your career with great interest.](http://9gag.com/gag/aLnnPwz)<!-- MEMES:END -->
+ - 😝 [&#39;Think Before You Post&#39; TV Commercial](http://9gag.com/gag/an7716o)
+ - 😝 [Little parting gift](http://9gag.com/gag/aMVVr8M)
+ - 💣 [&#39;&#39;Who give a f**k how long a scene is!&#39;&#39; David Lynch](http://9gag.com/gag/aqyyN5R)
+ - 😝 [I think I&#39;ve downloaded the wrong X-Files](http://9gag.com/gag/aMVVwRR)
+ - 👉 [Helping](http://9gag.com/gag/aGyyDg5)<!-- MEMES:END -->
 
 ---
 

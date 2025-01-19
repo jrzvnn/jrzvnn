@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [The old times were better](http://9gag.com/gag/aGyyxr5)
- - 😝 [The pinnacle of ai technology](http://9gag.com/gag/aVvveqO)
- - 💣 [Dog moves security camera so he can eat food on the table](http://9gag.com/gag/aD22jjZ)
- - 😝 [Japan should have won the world war](http://9gag.com/gag/aZZZBb9)
- - 👉 [Haha or no haha](http://9gag.com/gag/aKGG2Y6)<!-- MEMES:END -->
+ - 😝 [AI is... improving.](http://9gag.com/gag/aryyKmX)
+ - 😝 [Somebody tell this dude to man up, he\u2019s acting like a melodramatic woman](http://9gag.com/gag/axyyjgY)
+ - 💣 [She knows](http://9gag.com/gag/avyyPzd)
+ - 😝 [Young businessman](http://9gag.com/gag/ayNNdwV)
+ - 👉 [Bro had enough](http://9gag.com/gag/a5QQK6O)<!-- MEMES:END -->
 
 ---
 

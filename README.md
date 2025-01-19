@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [TikTok&#39;s service providers are risking billions in fines for keeping the app online, as Trump&#39;s assurances that it&#39;s safe to support TikTok are legally flimsy &lpar;Lauren Feiner/The Verge&rpar;](http://www.techmeme.com/250119/p14#a250119p14)
  - [TikTok is back, but where are Marvel Snap, CapCut, and Lemon8?](https://www.theverge.com/2025/1/19/24347399/tiktok-ban-marvel-snap-capcut-lemon8-bytedance)
  - [TikTok ban: all the news on the app’s shutdown and return in the US](https://www.theverge.com/23651507/tiktok-ban-us-news)
  - [TikTok’s service providers still risk billions in penalties for bringing it back online](https://www.theverge.com/2025/1/19/24347325/tiktok-service-providers-penalties-apple-google-orcale-trump)
- - [TikTok has shut itself down in the US ahead of January 19 deadline.](https://appleinsider.com/articles/25/01/19/tiktok-has-shut-itself-down-in-the-us-ahead-of-january-19-deadline?utm_medium=rss)
- - [&#39;The Traitors&#39; Release Schedule: When Episode 5 Premieres on Peacock](https://www.cnet.com/tech/services-and-software/the-traitors-release-schedule-when-episode-5-premieres-on-peacock/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [TikTok has shut itself down in the US ahead of January 19 deadline.](https://appleinsider.com/articles/25/01/19/tiktok-has-shut-itself-down-in-the-us-ahead-of-january-19-deadline?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

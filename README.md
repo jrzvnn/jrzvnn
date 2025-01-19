@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Marvel Snap is banned, just like TikTok](https://www.theverge.com/2025/1/19/24347034/marvel-snap-banned-tiktok-bytedance)
  - [TikTok Is Unavailable in the US—and Gone From the App Stores](https://www.wired.com/story/tiktok-ban-officially-in-effect/)
  - [Best Internet Providers in Des Moines, Iowa](https://www.cnet.com/home/internet/best-internet-providers-in-des-moines-ia/#ftag=CAD590a51e)
  - [TikTok is not available for download in the App Store and Play Store in the US, as the app halts service in the country to comply with the divest-or-ban law &lpar;Jonathan Vanian/CNBC&rpar;](http://www.techmeme.com/250118/p20#a250118p20)
- - [TikTok Goes Dark In The US. Its Fate Remains Unclear](https://www.cnet.com/tech/services-and-software/tiktok-takes-its-case-to-the-supreme-court-what-to-know/#ftag=CAD590a51e)
- - [ByteDance&#39;s TikTok and CapCut suspend service in the US, telling users &quot;Trump has indicated that he will work with us on a solution to reinstate TikTok&quot; &lpar;NBC News&rpar;](http://www.techmeme.com/250118/p19#a250118p19)<!-- TECH:END -->
+ - [TikTok Goes Dark In The US. Its Fate Remains Unclear](https://www.cnet.com/tech/services-and-software/tiktok-takes-its-case-to-the-supreme-court-what-to-know/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Hisense’s RGB LED Could Be the Future for Cheap Screens](https://www.wired.com/story/what-is-rgb-led-tv/)
+ - [New year, new Switch, new Severance](https://www.theverge.com/2025/1/19/24346079/nintendo-switch-2-severance-apple-chatgpt-tasks-installer)
+ - [The tech to build the holodeck](https://www.theverge.com/2025/1/19/24345491/gaussian-splats-3d-scanning-scaniverse-niantic)
  - [Our Place Always Pan 2.0 Review: My Favorite Piece of Cookware](https://www.wired.com/review/our-place-always-pan-2/)
- - [There’s a New Way to Count Prime Numbers](https://www.wired.com/story/mathematicians-uncover-a-new-way-to-count-prime-numbers/)
- - [Best VPN for Android for 2025](https://www.cnet.com/tech/services-and-software/best-android-vpn/#ftag=CAD590a51e)
- - [Premier League Soccer: Livestream Nottingham Forest vs. Southampton From Anywhere](https://www.cnet.com/tech/services-and-software/premier-league-soccer-livestream-nottingham-forest-vs-southampton-from-anywhere/#ftag=CAD590a51e)
- - [Premier League Soccer: Livestream Man United vs. Brighton From Anywhere](https://www.cnet.com/tech/services-and-software/premier-league-soccer-livestream-man-united-vs-brighton-from-anywhere/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [There’s a New Way to Count Prime Numbers](https://www.wired.com/story/mathematicians-uncover-a-new-way-to-count-prime-numbers/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

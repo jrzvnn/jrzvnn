@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Best Electric Toothbrushes of 2025](https://www.cnet.com/health/personal-care/best-electric-toothbrush/#ftag=CAD590a51e)
  - [US officials have struck binding deals for 85% of the CHIPS Act funding; sources: Gina Raimondo said her successor, Howard Lutnick, is committed to the program &lpar;Mackenzie Hawkins/Bloomberg&rpar;](http://www.techmeme.com/250119/p4#a250119p4)
- - [ChatGPT Glossary: 49 AI Terms Everyone Should Know](https://www.cnet.com/tech/services-and-software/chatgpt-glossary-49-ai-terms-everyone-should-know/#ftag=CAD590a51e)
- - [2025 Tax Bracket Increases Could Be a Win for Your Paycheck. Here&#39;s Why](https://www.cnet.com/personal-finance/taxes/2025-tax-bracket-increases-could-be-a-win-for-your-paycheck-heres-why/#ftag=CAD590a51e)
- - [Best Internet Providers in Detroit, Michigan](https://www.cnet.com/home/internet/best-internet-providers-in-detroit-mi/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Best Internet Providers in Detroit, Michigan](https://www.cnet.com/home/internet/best-internet-providers-in-detroit-mi/#ftag=CAD590a51e)
+ - [Mortgage Predictions: What the Jan. 20 Presidential Inauguration Could Mean for Rates](https://www.cnet.com/personal-finance/mortgage-predictions-what-the-jan-20-presidential-inauguration-could-mean-for-rates/#ftag=CAD590a51e)
+ - [Late-Night Bathroom Breaks Ruining Your Sleep? Causes and Remedies](https://www.cnet.com/health/sleep/late-night-bathroom-breaks-ruining-your-sleep-causes-and-remedies/#ftag=CAD590a51e)
+ - [Best Internet Providers in San Marcos, Texas](https://www.cnet.com/home/internet/best-internet-providers-in-san-marcos-tx/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [X, Facebook, Instagram, and YouTube sign EU pledge to tackle hate speech](https://www.theverge.com/2025/1/20/24347876/x-facebook-instagram-youtube-eu-hate-speech-dsa-code)
+ - [Donald Trump is officially president again](https://www.theverge.com/2025/1/20/24347837/donald-trump-second-inauguration-tech-regulation)
  - [Today is the last day to pick up a MacBook Air for $749](https://appleinsider.com/articles/25/01/20/today-is-the-last-day-to-pick-up-a-macbook-air-for-749?utm_medium=rss)
  - [Canon&#39;s new app turns your iPhones &amp; iPads into a multicam streaming setup](https://appleinsider.com/articles/25/01/20/canons-new-app-turns-your-iphones-ipads-into-a-multicam-streaming-setup?utm_medium=rss)
- - [Apple TV rumors, more CES releases, &amp; Apple&#39;s 2025 smart home plans on HomeKit Insider](https://appleinsider.com/articles/25/01/20/apple-tv-rumors-more-ces-releases-apples-2025-smart-home-plans-on-homekit-insider?utm_medium=rss)
- - [RedNote Recruited US Influencers to Promote App Amid TikTok Ban Uncertainty](https://www.wired.com/story/rednote-is-asking-american-influencers-to-promote-its-app/)
- - [Answering All of Your Frequently Asked Questions About Sleep](https://www.cnet.com/health/sleep/sleep-faq/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Apple TV rumors, more CES releases, &amp; Apple&#39;s 2025 smart home plans on HomeKit Insider](https://appleinsider.com/articles/25/01/20/apple-tv-rumors-more-ces-releases-apples-2025-smart-home-plans-on-homekit-insider?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

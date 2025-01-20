@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Master Chief Road Rage](http://9gag.com/gag/aryygnd)
- - 😝 [Tips on meeting women](http://9gag.com/gag/aMVV8Q6)
+ - 😝 [Impressive and frightener](http://9gag.com/gag/azxx81m)
+ - 😝 [Can\u2019t say black anymore](http://9gag.com/gag/avyyOWd)
  - 💣 [How train-crossings are managed in Bangladesh](http://9gag.com/gag/a4PP73d)
- - 😝 [Theres a photo online of a dude who killed a hippo with one](http://9gag.com/gag/aD22z0w)
- - 👉 [LOL](http://9gag.com/gag/aqyyLGY)<!-- MEMES:END -->
+ - 😝 [This man paid 10,000 bitcoins for two pizzas in 2010](http://9gag.com/gag/aByy1BN)
+ - 👉 [Theres a photo online of a dude who killed a hippo with one](http://9gag.com/gag/aD22z0w)<!-- MEMES:END -->
 
 ---
 

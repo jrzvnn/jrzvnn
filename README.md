@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [A street in Paris after weeks of garbage collector strikes](http://9gag.com/gag/aoyypEx)
- - 😝 [There are no stupid questions](http://9gag.com/gag/aNDDAr3)
- - 💣 [Moms are awesome](http://9gag.com/gag/aPAAMRR)
  - 😝 [OnlyFans creator Gizem Ba\u011fda\u00e7i\u00e7ek was arrested for violating Turkish obscenity laws, following the OnlyFans ban in Turkey](http://9gag.com/gag/aMVV9LR)
- - 👉 [What happens when you put a sparkler through an egg...](http://9gag.com/gag/a7oorqb)<!-- MEMES:END -->
+ - 😝 [Moms are awesome](http://9gag.com/gag/aPAAMRR)
+ - 💣 [Can\u2019t say black anymore](http://9gag.com/gag/avyyOWd)
+ - 😝 [There are no stupid questions](http://9gag.com/gag/aNDDAr3)
+ - 👉 [Theres a photo online of a dude who killed a hippo with one](http://9gag.com/gag/aD22z0w)<!-- MEMES:END -->
 
 ---
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Me too](http://9gag.com/gag/aRBBKpM)
- - 😝 [Winning in life](http://9gag.com/gag/a877MRQ)
- - 💣 [Shaggy knew it all along](http://9gag.com/gag/aRBBm15)
- - 😝 [In your face....It will get deleted in less than an hour probably](http://9gag.com/gag/apRRQNp)
- - 👉 [Me exaggerating how stressful my job is when in reality](http://9gag.com/gag/aPAAByg)<!-- MEMES:END -->
+ - 😝 [This kid just took down one of the worlds strongest men](http://9gag.com/gag/avyyn5Z)
+ - 😝 [Theres a photo online of a dude who killed a hippo with one](http://9gag.com/gag/aD22z0w)
+ - 💣 [&#39;Think Before You Post&#39; TV Commercial](http://9gag.com/gag/an7716o)
+ - 😝 [LOL](http://9gag.com/gag/aqyyLGY)
+ - 👉 [It&#39;s your captain speaking, don&#39;t forget to add some material.](http://9gag.com/gag/aqyyL3Y)<!-- MEMES:END -->
 
 ---
 

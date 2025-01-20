@@ -167,7 +167,7 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [Think this should be the whole world.](http://9gag.com/gag/aD22GEG)
- - 😝 [Definition of Abrupt Chaos](http://9gag.com/gag/aD22WY9)
+ - 😝 [Me too](http://9gag.com/gag/aRBBKpM)
  - 💣 [Shaggy knew it all along](http://9gag.com/gag/aRBBm15)
  - 😝 [Me exaggerating how stressful my job is when in reality](http://9gag.com/gag/aPAAByg)
  - 👉 [In your face....It will get deleted in less than an hour probably](http://9gag.com/gag/apRRQNp)<!-- MEMES:END -->

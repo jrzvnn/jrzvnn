@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [A look at the CIA&#39;s AI use, including a chatbot that lets analysts talk to virtual versions of foreign presidents and prime ministers to predict their behaviors &lpar;Julian E. Barnes/New York Times&rpar;](http://www.techmeme.com/250120/p7#a250120p7)
  - [A 2024 study of 205 randomly chosen Community Notes on X about COVID-19 vaccines found that 97% of the notes were accurate and ~50% cited high-quality sources &lpar;Adam Kucharski/Bloomberg&rpar;](http://www.techmeme.com/250120/p6#a250120p6)
  - [A look at UK hedge fund Man Group&#39;s ArcticDB, an open-source tool used internally and by customers like Bloomberg to analyze daily stock trading data and more &lpar;Isabelle Bousquette/Wall Street Journal&rpar;](http://www.techmeme.com/250120/p5#a250120p5)
  - [Analysis: Chinese AI researchers produced ~46K collaborative papers with their US counterparts over the past decade, followed by ~19K with researchers in the UK &lpar;Khadija Alam/Rest of World&rpar;](http://www.techmeme.com/250120/p4#a250120p4)
- - [Obsessing Over Your Protein? Why &#39;Goals&#39; Might Not Be Necessary, Experts Say](https://www.cnet.com/health/nutrition/obsessing-over-protein-why-goals-not-necessary-experts-say/#ftag=CAD590a51e)
- - [A profile of Spotify&#39;s Head of Editorial Sulinna Ong, whose team curates thousands of playlists and discovers new artists to complement Spotify&#39;s algorithms &lpar;Anne Steele/Wall Street Journal&rpar;](http://www.techmeme.com/250120/p3#a250120p3)<!-- TECH:END -->
+ - [Obsessing Over Your Protein? Why &#39;Goals&#39; Might Not Be Necessary, Experts Say](https://www.cnet.com/health/nutrition/obsessing-over-protein-why-goals-not-necessary-experts-say/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

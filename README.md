@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Apple plans MacBook Air display upgrade, but OLED still far away](https://appleinsider.com/articles/25/01/20/apple-plans-macbook-air-display-upgrade-but-oled-still-far-away?utm_medium=rss)
+ - [The European Commission says Facebook, X, YouTube, and others agreed to an updated code of conduct, first set up in May 2016, over hate speech under the DSA &lpar;Foo Yun Chee/Reuters&rpar;](http://www.techmeme.com/250120/p16#a250120p16)
  - [How to Use Parental Controls in Your Google, Apple, and Microsoft Accounts](https://www.wired.com/story/how-to-use-parental-controls-in-your-google-apple-and-microsoft-accounts/)
  - [How to Use Apple’s Genmoji to Create New Kinds of Emojis](https://www.wired.com/story/how-to-create-genmoji-iphone-ios-18-ipados-18/)
- - [A first look at Nvidia’s flagship RTX 5090 compared to the RTX 4090](https://www.theverge.com/2025/1/20/24347693/nvidia-rtx-5090-vs-rtx-4090-design-fans-hardware)
- - [China suggests it is willing to work with Trump to keep TikTok operating in the US, after previously saying it would block any forced TikTok sale &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/250120/p15#a250120p15)
- - [Apple Mail on the Mac will get Apple Intelligence sorting with macOS 15.4](https://appleinsider.com/articles/25/01/20/apple-mail-on-the-mac-will-get-apple-intelligence-sorting-with-macos-154?utm_medium=rss)<!-- TECH:END -->
+ - [A first look at Nvidia’s flagship RTX 5090 compared to the RTX 4090](https://www.theverge.com/2025/1/20/24347693/nvidia-rtx-5090-vs-rtx-4090-design-fans-hardware)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

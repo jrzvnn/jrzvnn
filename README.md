@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Meta says it will continue to use its fact checkers outside of the US &quot;for now&quot;, and plans to see how its Community Notes system works in the US before deciding &lpar;Jillian Deutsch/Bloomberg&rpar;](http://www.techmeme.com/250120/p17#a250120p17)
- - [Apple plans MacBook Air display upgrade, but OLED still far away](https://appleinsider.com/articles/25/01/20/apple-plans-macbook-air-display-upgrade-but-oled-still-far-away?utm_medium=rss)
- - [The European Commission says Facebook, X, YouTube, and others agreed to an updated code of conduct, first set up in May 2016, over hate speech under the DSA &lpar;Foo Yun Chee/Reuters&rpar;](http://www.techmeme.com/250120/p16#a250120p16)
- - [How to Use Parental Controls in Your Google, Apple, and Microsoft Accounts](https://www.wired.com/story/how-to-use-parental-controls-in-your-google-apple-and-microsoft-accounts/)
- - [How to Use Apple’s Genmoji to Create New Kinds of Emojis](https://www.wired.com/story/how-to-create-genmoji-iphone-ios-18-ipados-18/)<!-- TECH:END -->
+ - [AirTags prevent so much car crime that Colorado police are giving them away](https://appleinsider.com/articles/25/01/20/airtags-prevent-so-much-car-crime-that-colorado-police-are-giving-them-away?utm_medium=rss)
+ - [Canon’s new app lets you live stream from multiple cameras, just not Canon’s](https://www.theverge.com/2025/1/20/24347729/canon-app-live-switcher-mobile-streaming-ios-ipados-iphone-ipad)
+ - [Best Running Underwear to Beat Burn on Your Bits &lpar;2025&rpar;](https://www.wired.com/gallery/best-running-underwear/)
+ - [MAGA Influencers Take Their Victory Lap, With Big Tech Picking Up the Tab](https://www.wired.com/story/maga-influencers-inauguration-victory-lap/)
+ - [Meta says it will continue to use its fact checkers outside of the US &quot;for now&quot;, and plans to see how its Community Notes system works in the US before deciding &lpar;Jillian Deutsch/Bloomberg&rpar;](http://www.techmeme.com/250120/p17#a250120p17)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

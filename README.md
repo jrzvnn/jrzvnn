@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [US drone makers are wary of working with Taiwanese companies, fearing China&#39;s retaliation and being caught in a crossfire if US-China tensions rise under Trump &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/250120/p14#a250120p14)
+ - [How to Use Parental Controls in Your Google, Apple, and Microsoft Accounts](https://www.wired.com/story/how-to-use-parental-controls-in-your-google-apple-and-microsoft-accounts/)
+ - [How to Use Apple’s Genmoji to Create New Kinds of Emojis](https://www.wired.com/story/how-to-create-genmoji-iphone-ios-18-ipados-18/)
  - [Welcome to the era of gangster tech regulation](https://www.theverge.com/2025/1/20/24346317/trump-gangster-tech-regulation-corruption-grift)
- - [US Commerce Department official Alan Estevez says export rules have &quot;definitely impeded&quot; China&#39;s AI chips, and defends the recent three-tier chip access rules &lpar;Demetri Sevastopulo/Financial Times&rpar;](http://www.techmeme.com/250120/p13#a250120p13)
- - [X rolls out a dedicated video tab in the US, letting users scroll through short videos, accessible via the app&#39;s bottom bar &lpar;Ivan Mehta/TechCrunch&rpar;](http://www.techmeme.com/250120/p12#a250120p12)
- - [Best Cooking Equipment for Meal Kits &lpar;2025&rpar;, Tested and Reviewed](https://www.wired.com/gallery/meal-kit-essential-gear/)
- - [Bitcoin passes $108K ahead of President-elect Donald Trump&#39;s inauguration, after hitting $100K in December 2024 before dropping to around $90K &lpar;Alan Suderman/Associated Press&rpar;](http://www.techmeme.com/250120/p11#a250120p11)<!-- TECH:END -->
+ - [US Commerce Department official Alan Estevez says export rules have &quot;definitely impeded&quot; China&#39;s AI chips, and defends the recent three-tier chip access rules &lpar;Demetri Sevastopulo/Financial Times&rpar;](http://www.techmeme.com/250120/p13#a250120p13)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

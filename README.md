@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Trump declared a ‘national energy emergency’](https://www.theverge.com/2025/1/20/24347870/trump-executive-order-fossil-fuels-environment)
  - [Metropolis, an AI-powered parking service, acquires Oosto, formerly known as AnyVision, for just $125M in stock, well under the $380M it raised over the years &lpar;Ingrid Lunden/TechCrunch&rpar;](http://www.techmeme.com/250120/p20#a250120p20)
  - [Chinese AI lab DeepSeek debuts DeepSeek-R1, an MIT-licensed model that does well with math, code, and reasoning tasks, alongside other open and distilled models &lpar;Simon Willison/Simon Willison&#39;s Weblog&rpar;](http://www.techmeme.com/250120/p19#a250120p19)
  - [X, Facebook, Instagram, and YouTube sign EU pledge to tackle hate speech](https://www.theverge.com/2025/1/20/24347876/x-facebook-instagram-youtube-eu-hate-speech-dsa-code)
- - [Donald Trump is officially president again](https://www.theverge.com/2025/1/20/24347837/donald-trump-second-inauguration-tech-regulation)
- - [Today is the last day to pick up a MacBook Air for $749](https://appleinsider.com/articles/25/01/20/today-is-the-last-day-to-pick-up-a-macbook-air-for-749?utm_medium=rss)<!-- TECH:END -->
+ - [Donald Trump is officially president again](https://www.theverge.com/2025/1/20/24347837/donald-trump-second-inauguration-tech-regulation)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

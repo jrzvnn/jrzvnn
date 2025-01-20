@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [A street in Paris after weeks of garbage collector strikes](http://9gag.com/gag/aoyypEx)
- - 😝 [Doggo is confused why the bikeman stopped](http://9gag.com/gag/a0eej6O)
- - 💣 [Theres a photo online of a dude who killed a hippo with one](http://9gag.com/gag/aD22z0w)
- - 😝 [Moms are awesome](http://9gag.com/gag/aPAAMRR)
- - 👉 [I thought you liked me?](http://9gag.com/gag/a4PPZ7p)<!-- MEMES:END -->
+ - 😝 [Me too](http://9gag.com/gag/aRBBKpM)
+ - 😝 [Winning in life](http://9gag.com/gag/a877MRQ)
+ - 💣 [Shaggy knew it all along](http://9gag.com/gag/aRBBm15)
+ - 😝 [In your face....It will get deleted in less than an hour probably](http://9gag.com/gag/apRRQNp)
+ - 👉 [Me exaggerating how stressful my job is when in reality](http://9gag.com/gag/aPAAByg)<!-- MEMES:END -->
 
 ---
 

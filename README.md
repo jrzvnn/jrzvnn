@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [OnlyFans creator Gizem Ba\u011fda\u00e7i\u00e7ek was arrested for violating Turkish obscenity laws, following the OnlyFans ban in Turkey](http://9gag.com/gag/aMVV9LR)
- - 😝 [This man paid 10,000 bitcoins for two pizzas in 2010](http://9gag.com/gag/aByy1BN)
+ - 😝 [Toture](http://9gag.com/gag/aZZZmxn)
+ - 😝 [Theres a photo online of a dude who killed a hippo with one](http://9gag.com/gag/aD22z0w)
  - 💣 [Yeah.. brofist army](http://9gag.com/gag/aoyyNQ2)
  - 😝 [There are no stupid questions](http://9gag.com/gag/aNDDAr3)
- - 👉 [Theres a photo online of a dude who killed a hippo with one](http://9gag.com/gag/aD22z0w)<!-- MEMES:END -->
+ - 👉 [Azra Ay Vandan, a Turkish OnlyFans model, was arrested in Istanbul after announcing plans to sleep with 100 men in 24 hours and live-stream it with her husband.](http://9gag.com/gag/aLnnDWA)<!-- MEMES:END -->
 
 ---
 

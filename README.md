@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [This man paid 10,000 bitcoins for two pizzas in 2010](http://9gag.com/gag/aByy1BN)
- - 😝 [There are no stupid questions](http://9gag.com/gag/aNDDAr3)
- - 💣 [Yeah.. brofist army](http://9gag.com/gag/aoyyNQ2)
- - 😝 [OnlyFans creator Gizem Ba\u011fda\u00e7i\u00e7ek was arrested for violating Turkish obscenity laws, following the OnlyFans ban in Turkey](http://9gag.com/gag/aMVV9LR)
- - 👉 [Literally came back to die](http://9gag.com/gag/aLnnjZg)<!-- MEMES:END -->
+ - 😝 [In your face....It will get deleted in less than an hour probably](http://9gag.com/gag/apRRQNp)
+ - 😝 [Me exaggerating how stressful my job is when in reality](http://9gag.com/gag/aPAAByg)
+ - 💣 [Nice dog](http://9gag.com/gag/aGyyjL7)
+ - 😝 [Ron rules](http://9gag.com/gag/aD22xXx)
+ - 👉 [Guy is too caught up](http://9gag.com/gag/avyyGDd)<!-- MEMES:END -->
 
 ---
 

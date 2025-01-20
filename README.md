@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Literally came back to die](http://9gag.com/gag/aLnnjZg)
- - 😝 [Best bar advertisement](http://9gag.com/gag/aNDDY14)
- - 💣 [User was arrested for that post](http://9gag.com/gag/a6ZZoXN)
- - 😝 [Flowers that don&#39;t die](http://9gag.com/gag/apRR5NE)
- - 👉 [A thousand words communicated with just a smile](http://9gag.com/gag/aPAAYVV)<!-- MEMES:END -->
+ - 😝 [This man paid 10,000 bitcoins for two pizzas in 2010](http://9gag.com/gag/aByy1BN)
+ - 😝 [Bad luck](http://9gag.com/gag/axyy061)
+ - 💣 [Tips on meeting women](http://9gag.com/gag/aMVV8Q6)
+ - 😝 [Impressive and frightener](http://9gag.com/gag/azxx81m)
+ - 👉 [Toture](http://9gag.com/gag/aZZZmxn)<!-- MEMES:END -->
 
 ---
 

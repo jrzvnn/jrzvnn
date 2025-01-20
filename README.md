@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Bad luck](http://9gag.com/gag/axyy061)
+ - 😝 [Share your apples with us](http://9gag.com/gag/a6ZZOG2)
  - 😝 [How high voltage leaks are detected inside big power grids](http://9gag.com/gag/aLnnjmW)
- - 💣 [But it was romantic](http://9gag.com/gag/a5QQo7O)
- - 😝 [Fuk around and find out](http://9gag.com/gag/azxx1jK)
- - 👉 [Azra Ay Vandan, a Turkish OnlyFans model, was arrested in Istanbul after announcing plans to sleep with 100 men in 24 hours and live-stream it with her husband.](http://9gag.com/gag/aLnnDWA)<!-- MEMES:END -->
+ - 💣 [Impressive and frightener](http://9gag.com/gag/azxx81m)
+ - 😝 [Azra Ay Vandan, a Turkish OnlyFans model, was arrested in Istanbul after announcing plans to sleep with 100 men in 24 hours and live-stream it with her husband.](http://9gag.com/gag/aLnnDWA)
+ - 👉 [Bad luck?](http://9gag.com/gag/abAAMxE)<!-- MEMES:END -->
 
 ---
 

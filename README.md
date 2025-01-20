@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [RedNote Recruited US Influencers to Promote App Amid TikTok Ban Uncertainty](https://www.wired.com/story/rednote-is-asking-american-influencers-to-promote-its-app/)
  - [iPad Air update rumored to get M3 upgrade, not M4](https://appleinsider.com/articles/25/01/20/ipad-air-update-rumored-to-get-m3-upgrade-not-m4?utm_medium=rss)
  - [AirTags prevent so much car crime that Colorado police are giving them away](https://appleinsider.com/articles/25/01/20/airtags-prevent-so-much-car-crime-that-colorado-police-are-giving-them-away?utm_medium=rss)
  - [Trump claims Tim Cook has committed Apple to massive US investment](https://appleinsider.com/articles/25/01/20/trump-claims-tim-cook-has-committed-apple-to-massive-us-investment?utm_medium=rss)
- - [Democratic Republic of Congo lawyers say Belgium has started a criminal probe into allegations that Apple has knowingly sourced &quot;blood minerals&quot; from the DRC &lpar;Financial Times&rpar;](http://www.techmeme.com/250120/p18#a250120p18)
- - [Canon’s new app lets you live stream from multiple cameras, just not Canon’s](https://www.theverge.com/2025/1/20/24347729/canon-app-live-switcher-mobile-streaming-ios-ipados-iphone-ipad)<!-- TECH:END -->
+ - [Democratic Republic of Congo lawyers say Belgium has started a criminal probe into allegations that Apple has knowingly sourced &quot;blood minerals&quot; from the DRC &lpar;Financial Times&rpar;](http://www.techmeme.com/250120/p18#a250120p18)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

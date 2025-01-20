@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Today is the last day to pick up a MacBook Air for $749](https://appleinsider.com/articles/25/01/20/today-is-the-last-day-to-pick-up-a-macbook-air-for-749?utm_medium=rss)
  - [Canon&#39;s new app turns your iPhones &amp; iPads into a multicam streaming setup](https://appleinsider.com/articles/25/01/20/canons-new-app-turns-your-iphones-ipads-into-a-multicam-streaming-setup?utm_medium=rss)
  - [Apple TV rumors, more CES releases, &amp; Apple&#39;s 2025 smart home plans on HomeKit Insider](https://appleinsider.com/articles/25/01/20/apple-tv-rumors-more-ces-releases-apples-2025-smart-home-plans-on-homekit-insider?utm_medium=rss)
  - [RedNote Recruited US Influencers to Promote App Amid TikTok Ban Uncertainty](https://www.wired.com/story/rednote-is-asking-american-influencers-to-promote-its-app/)
- - [iPad Air update rumored to get M3 upgrade, not M4](https://appleinsider.com/articles/25/01/20/ipad-air-update-rumored-to-get-m3-upgrade-not-m4?utm_medium=rss)
- - [AirTags prevent so much car crime that Colorado police are giving them away](https://appleinsider.com/articles/25/01/20/airtags-prevent-so-much-car-crime-that-colorado-police-are-giving-them-away?utm_medium=rss)<!-- TECH:END -->
+ - [iPad Air update rumored to get M3 upgrade, not M4](https://appleinsider.com/articles/25/01/20/ipad-air-update-rumored-to-get-m3-upgrade-not-m4?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

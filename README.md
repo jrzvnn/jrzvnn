@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [I learned it the hard way](http://9gag.com/gag/aYQQ4mN)
  - 😝 [Literally came back to die](http://9gag.com/gag/aLnnjZg)
- - 💣 [A thousand words communicated with just a smile](http://9gag.com/gag/aPAAYVV)
  - 😝 [Best bar advertisement](http://9gag.com/gag/aNDDY14)
- - 👉 [User was arrested for that post](http://9gag.com/gag/a6ZZoXN)<!-- MEMES:END -->
+ - 💣 [User was arrested for that post](http://9gag.com/gag/a6ZZoXN)
+ - 😝 [Flowers that don&#39;t die](http://9gag.com/gag/apRR5NE)
+ - 👉 [A thousand words communicated with just a smile](http://9gag.com/gag/aPAAYVV)<!-- MEMES:END -->
 
 ---
 

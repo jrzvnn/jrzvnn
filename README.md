@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [How to upgrade the SSD in your M4 Mac mini](https://appleinsider.com/inside/mac-mini/tips/how-to-upgrade-the-ssd-in-your-m4-mac-mini?utm_medium=rss)
  - [Dynasty Warriors: Origins is a refreshing take on the legendary series](https://www.theverge.com/2025/1/20/24346199/dynasty-warriors-origins-review-koei-tecmo)
  - [Best Internet Providers in Coon Rapids, Minnesota](https://www.cnet.com/home/internet/best-internet-providers-in-coon-rapids-mn/#ftag=CAD590a51e)
  - [Best Internet Providers in Horseheads, New York](https://www.cnet.com/home/internet/best-internet-providers-in-horseheads-ny/#ftag=CAD590a51e)
- - [The Trump Memecoin&#39;s &#39;Money-Grab&#39; Economics](https://www.wired.com/story/the-trump-memecoins-money-grab-economics/)
- - [The White House Website Is Basically a Marvel Movie Trailer Now](https://www.wired.com/story/white-house-website-marvel-movie-trailer-helicopters-bald-eagle/)<!-- TECH:END -->
+ - [The Trump Memecoin&#39;s &#39;Money-Grab&#39; Economics](https://www.wired.com/story/the-trump-memecoins-money-grab-economics/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

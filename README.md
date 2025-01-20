@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Share your apples with us](http://9gag.com/gag/a6ZZOG2)
- - 😝 [How high voltage leaks are detected inside big power grids](http://9gag.com/gag/aLnnjmW)
- - 💣 [Impressive and frightener](http://9gag.com/gag/azxx81m)
- - 😝 [Azra Ay Vandan, a Turkish OnlyFans model, was arrested in Istanbul after announcing plans to sleep with 100 men in 24 hours and live-stream it with her husband.](http://9gag.com/gag/aLnnDWA)
- - 👉 [Bad luck?](http://9gag.com/gag/abAAMxE)<!-- MEMES:END -->
+ - 😝 [A thousand words communicated with just a smile](http://9gag.com/gag/aPAAYVV)
+ - 😝 [Trumpkovsky, Overture of 2025](http://9gag.com/gag/an7751V)
+ - 💣 [Something is sus](http://9gag.com/gag/an779ez)
+ - 😝 [Who is protecting them ?](http://9gag.com/gag/a5QQRVO)
+ - 👉 [News of the day: Trump will sleep with Kamala Harris&#39; husband today](http://9gag.com/gag/aW44YR4)<!-- MEMES:END -->
 
 ---
 

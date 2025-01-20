@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [A thousand words communicated with just a smile](http://9gag.com/gag/aPAAYVV)
- - 😝 [Trumpkovsky, Overture of 2025](http://9gag.com/gag/an7751V)
- - 💣 [Something is sus](http://9gag.com/gag/an779ez)
- - 😝 [Who is protecting them ?](http://9gag.com/gag/a5QQRVO)
- - 👉 [News of the day: Trump will sleep with Kamala Harris&#39; husband today](http://9gag.com/gag/aW44YR4)<!-- MEMES:END -->
+ - 😝 [Share your apples with us](http://9gag.com/gag/a6ZZOG2)
+ - 😝 [There are no stupid questions](http://9gag.com/gag/aNDDAr3)
+ - 💣 [Theres a photo online of a dude who killed a hippo with one](http://9gag.com/gag/aD22z0w)
+ - 😝 [Bad luck](http://9gag.com/gag/axyy061)
+ - 👉 [Bad luck?](http://9gag.com/gag/abAAMxE)<!-- MEMES:END -->
 
 ---
 

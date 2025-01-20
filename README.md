@@ -160,8 +160,8 @@ R                        1 repo              ░░░░░░░░░░░�
  - [An interview with Broadcom&#39;s Hock Tan on backlash from VMware customers, positioning VMware as a &quot;sovereign&quot; alternative to Big Tech&#39;s cloud services, and more &lpar;Tim Bradshaw/Financial Times&rpar;](http://www.techmeme.com/250120/p8#a250120p8)
  - [Oppo’s next foldable is about as thin as USB-C allows](https://www.theverge.com/2025/1/20/24347690/oppo-find-n5-oneplus-open-2-thinnest-usb-c-ipx9)
  - [A look at the CIA&#39;s AI use, including a chatbot that lets analysts talk to virtual versions of foreign presidents and prime ministers to predict their behaviors &lpar;Julian E. Barnes/New York Times&rpar;](http://www.techmeme.com/250120/p7#a250120p7)
- - [A 2024 study of 205 randomly chosen Community Notes on X about COVID-19 vaccines found that 97% of the notes were accurate and ~50% cited high-quality sources &lpar;Adam Kucharski/Bloomberg&rpar;](http://www.techmeme.com/250120/p6#a250120p6)
- - [A look at UK hedge fund Man Group&#39;s ArcticDB, an open-source tool used internally and by customers like Bloomberg to analyze daily stock trading data and more &lpar;Isabelle Bousquette/Wall Street Journal&rpar;](http://www.techmeme.com/250120/p5#a250120p5)<!-- TECH:END -->
+ - [Best Bug Sprays for 2025](https://www.cnet.com/health/personal-care/best-bug-sprays/#ftag=CAD590a51e)
+ - [A 2024 study of 205 randomly chosen Community Notes on X about COVID-19 vaccines found that 97% of the notes were accurate and ~50% cited high-quality sources &lpar;Adam Kucharski/Bloomberg&rpar;](http://www.techmeme.com/250120/p6#a250120p6)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

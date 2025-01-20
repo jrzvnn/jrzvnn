@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [The most important topic of all time](http://9gag.com/gag/a5QQoDq)
+ - 😝 [Azra Ay Vandan, a Turkish OnlyFans model, was arrested in Istanbul after announcing plans to sleep with 100 men in 24 hours and live-stream it with her husband.](http://9gag.com/gag/aLnnDWA)
  - 😝 [Yeah.. brofist army](http://9gag.com/gag/aoyyNQ2)
- - 💣 [Guy is too caught up](http://9gag.com/gag/avyyGDd)
- - 😝 [Can\u2019t say black anymore](http://9gag.com/gag/avyyOWd)
- - 👉 [How high voltage leaks are detected inside big power grids](http://9gag.com/gag/aLnnjmW)<!-- MEMES:END -->
+ - 💣 [Can\u2019t say black anymore](http://9gag.com/gag/avyyOWd)
+ - 😝 [How high voltage leaks are detected inside big power grids](http://9gag.com/gag/aLnnjmW)
+ - 👉 [But it was romantic](http://9gag.com/gag/a5QQo7O)<!-- MEMES:END -->
 
 ---
 

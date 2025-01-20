@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [A profile of Sulinna Ong, Spotify&#39;s head of editorial, whose team curates thousands of playlists and discovers new artists to complement Spotify&#39;s algorithms &lpar;Anne Steele/Wall Street Journal&rpar;](http://www.techmeme.com/250120/p3#a250120p3)
- - [Bluesky launches a custom feed for TikTok-style vertical videos in its mobile app, saying &quot;We had to get in on the video action too&quot; &lpar;Ivan Mehta/TechCrunch&rpar;](http://www.techmeme.com/250120/p2#a250120p2)
- - [Despite tanking, Trump&#39;s memecoin, with a $55B+ market cap, is the 21st most valuable cryptocurrency per CoinGecko; some in crypto call it a &quot;horrible look&quot; &lpar;Politico&rpar;](http://www.techmeme.com/250120/p1#a250120p1)
- - [Today&#39;s NYT Mini Crossword Answers for Monday, Jan. 20](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-monday-jan-20/#ftag=CAD590a51e)
- - [Today&#39;s NYT Connections: Sports Edition Hints and Answers for Jan. 20, #119](https://www.cnet.com/tech/gaming/todays-nyt-connections-sports-edition-hints-and-answers-for-jan-20-119/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Analysis: Chinese AI researchers produced ~46K collaborative papers with their US counterparts over the past decade, followed by ~19K with researchers in the UK &lpar;Khadija Alam/Rest of World&rpar;](http://www.techmeme.com/250120/p4#a250120p4)
+ - [Obsessing Over Your Protein? Why &#39;Goals&#39; Might Not Be Necessary, Experts Say](https://www.cnet.com/health/nutrition/obsessing-over-protein-why-goals-not-necessary-experts-say/#ftag=CAD590a51e)
+ - [A profile of Spotify&#39;s Head of Editorial Sulinna Ong, whose team curates thousands of playlists and discovers new artists to complement Spotify&#39;s algorithms &lpar;Anne Steele/Wall Street Journal&rpar;](http://www.techmeme.com/250120/p3#a250120p3)
+ - [Bluesky launches a custom feed for TikTok-style vertical videos in its mobile app, saying &quot;we had to get in on the video action too&quot; &lpar;Ivan Mehta/TechCrunch&rpar;](http://www.techmeme.com/250120/p2#a250120p2)
+ - [CoinGecko: despite tanking, Trump&#39;s memecoin, with a $55B+ market cap, is the 21st most valuable cryptocurrency; some in crypto call the coin a &quot;horrible look&quot; &lpar;Politico&rpar;](http://www.techmeme.com/250120/p1#a250120p1)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

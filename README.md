@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Winning in life](http://9gag.com/gag/a877MRQ)
- - 😝 [Me too](http://9gag.com/gag/aRBBKpM)
- - 💣 [Shaggy knew it all along](http://9gag.com/gag/aRBBm15)
- - 😝 [Me exaggerating how stressful my job is when in reality](http://9gag.com/gag/aPAAByg)
- - 👉 [In your face....It will get deleted in less than an hour probably](http://9gag.com/gag/apRRQNp)<!-- MEMES:END -->
+ - 😝 [OnlyFans creator Gizem Ba\u011fda\u00e7i\u00e7ek was arrested for violating Turkish obscenity laws, following the OnlyFans ban in Turkey](http://9gag.com/gag/aMVV9LR)
+ - 😝 [A Bangkok surprise.](http://9gag.com/gag/aW446bq)
+ - 💣 [Doggo is confused why the bikeman stopped](http://9gag.com/gag/a0eej6O)
+ - 😝 [Guy is too caught up](http://9gag.com/gag/avyyGDd)
+ - 👉 [Moms are awesome](http://9gag.com/gag/aPAAMRR)<!-- MEMES:END -->
 
 ---
 

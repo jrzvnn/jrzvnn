@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Impressive and frightener](http://9gag.com/gag/azxx81m)
- - 😝 [Thai](http://9gag.com/gag/aRBBeEq)
- - 💣 [Guess what happen next](http://9gag.com/gag/awyyVKB)
  - 😝 [Run](http://9gag.com/gag/aD22xDG)
- - 👉 [This man paid 10,000 bitcoins for two pizzas in 2010](http://9gag.com/gag/aByy1BN)<!-- MEMES:END -->
+ - 😝 [This kid just took down one of the worlds strongest men](http://9gag.com/gag/avyyn5Z)
+ - 💣 [This man paid 10,000 bitcoins for two pizzas in 2010](http://9gag.com/gag/aByy1BN)
+ - 😝 [LOL](http://9gag.com/gag/aqyyLGY)
+ - 👉 [Guess what happen next](http://9gag.com/gag/awyyVKB)<!-- MEMES:END -->
 
 ---
 

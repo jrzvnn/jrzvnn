@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [In your face....It will get deleted in less than an hour probably](http://9gag.com/gag/apRRQNp)
- - 😝 [Me exaggerating how stressful my job is when in reality](http://9gag.com/gag/aPAAByg)
- - 💣 [Nice dog](http://9gag.com/gag/aGyyjL7)
- - 😝 [Ron rules](http://9gag.com/gag/aD22xXx)
- - 👉 [Guy is too caught up](http://9gag.com/gag/avyyGDd)<!-- MEMES:END -->
+ - 😝 [A Rabid Fox behaving like a Zombie. The Rabies Virus is named Rabies Lyssavirus &lpar;RABV&rpar;. It is a member of the Lyssavirus genus in the Rhabdoviridae family. One of the Scariest Virus on the Planet.](http://9gag.com/gag/aAyyxGd)
+ - 😝 [Toture](http://9gag.com/gag/aZZZmxn)
+ - 💣 [Theres a photo online of a dude who killed a hippo with one](http://9gag.com/gag/aD22z0w)
+ - 😝 [Bad luck](http://9gag.com/gag/axyy061)
+ - 👉 [There are no stupid questions](http://9gag.com/gag/aNDDAr3)<!-- MEMES:END -->
 
 ---
 

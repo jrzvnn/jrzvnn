@@ -161,7 +161,7 @@ R                        1 repo              ░░░░░░░░░░░�
  - [The Trump Memecoin&#39;s &#39;Money-Grab&#39; Economics](https://www.wired.com/story/the-trump-memecoins-money-grab-economics/)
  - [The White House Website Is Basically a Marvel Movie Trailer Now](https://www.wired.com/story/white-house-website-marvel-movie-trailer-helicopters-bald-eagle/)
  - [The Donald Trump 2.0 Grift Is Already On](https://www.wired.com/story/donald-trump-grift/)
- - [Fujifilm’s new stabilized binoculars deliver even more zoom](https://www.theverge.com/2025/1/20/24347913/fujifilm-techno-stabi-binoculars-birdwatching-magnification-zoom)<!-- TECH:END -->
+ - [The Galaxy S25 Countdown Begins: What to Expect During the Samsung Unpacked Event and How to Watch](https://www.cnet.com/tech/mobile/the-galaxy-s25-countdown-begins-what-to-expect-during-the-samsung-unpacked-event-and-how-to-watch/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

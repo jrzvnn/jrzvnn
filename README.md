@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Night scavengers](http://9gag.com/gag/adBBKZN)
+ - 😝 [How high voltage leaks are detected inside big power grids](http://9gag.com/gag/aLnnjmW)
  - 😝 [Literally came back to die](http://9gag.com/gag/aLnnjZg)
- - 💣 [I learned it the hard way](http://9gag.com/gag/aYQQ4mN)
- - 😝 [User was arrested for that post](http://9gag.com/gag/a6ZZoXN)
- - 👉 [Best bar advertisement](http://9gag.com/gag/aNDDY14)<!-- MEMES:END -->
+ - 💣 [Bad luck](http://9gag.com/gag/axyy061)
+ - 😝 [Can\u2019t say black anymore](http://9gag.com/gag/avyyOWd)
+ - 👉 [But it was romantic](http://9gag.com/gag/a5QQo7O)<!-- MEMES:END -->
 
 ---
 

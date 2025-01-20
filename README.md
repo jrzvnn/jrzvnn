@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Share your apples with us](http://9gag.com/gag/a6ZZOG2)
- - 😝 [Something is sus](http://9gag.com/gag/an779ez)
- - 💣 [Bad luck?](http://9gag.com/gag/abAAMxE)
- - 😝 [Jeff Bezos Struggles With His Skin](http://9gag.com/gag/a2vvRDw)
- - 👉 [But it was romantic](http://9gag.com/gag/a5QQo7O)<!-- MEMES:END -->
+ - 😝 [Bad luck?](http://9gag.com/gag/abAAMxE)
+ - 😝 [A thousand words communicated with just a smile](http://9gag.com/gag/aPAAYVV)
+ - 💣 [Share your apples with us](http://9gag.com/gag/a6ZZOG2)
+ - 😝 [Bad luck](http://9gag.com/gag/axyy061)
+ - 👉 [Cheating with AI in school](http://9gag.com/gag/an77jv0)<!-- MEMES:END -->
 
 ---
 

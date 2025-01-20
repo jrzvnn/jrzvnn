@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Me too](http://9gag.com/gag/aRBBKpM)
- - 😝 [Winning in life](http://9gag.com/gag/a877MRQ)
- - 💣 [Shaggy knew it all along](http://9gag.com/gag/aRBBm15)
- - 😝 [Me exaggerating how stressful my job is when in reality](http://9gag.com/gag/aPAAByg)
- - 👉 [In your face....It will get deleted in less than an hour probably](http://9gag.com/gag/apRRQNp)<!-- MEMES:END -->
+ - 😝 [Toture](http://9gag.com/gag/aZZZmxn)
+ - 😝 [Guy is too caught up](http://9gag.com/gag/avyyGDd)
+ - 💣 [Me every morning to my cup of coffee](http://9gag.com/gag/a1mmdY6)
+ - 😝 [When you feel depressed, imagine being the guy who just set up 100,000 chairs on the National Mall and they announce they\u2019re moving the inauguration indoors](http://9gag.com/gag/aMVVGyW)
+ - 👉 [Impressive and frightener](http://9gag.com/gag/azxx81m)<!-- MEMES:END -->
 
 ---
 

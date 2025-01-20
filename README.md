@@ -161,7 +161,7 @@ R                        1 repo              ░░░░░░░░░░░�
  - [Canon&#39;s new app turns your iPhones &amp; iPads into a multicam streaming setup](https://appleinsider.com/articles/25/01/20/canons-new-app-turns-your-iphones-ipads-into-a-multicam-streaming-setup?utm_medium=rss)
  - [Apple TV rumors, more CES releases, &amp; Apple&#39;s 2025 smart home plans on HomeKit Insider](https://appleinsider.com/articles/25/01/20/apple-tv-rumors-more-ces-releases-apples-2025-smart-home-plans-on-homekit-insider?utm_medium=rss)
  - [RedNote Recruited US Influencers to Promote App Amid TikTok Ban Uncertainty](https://www.wired.com/story/rednote-is-asking-american-influencers-to-promote-its-app/)
- - [iPad Air update rumored to get M3 upgrade, not M4](https://appleinsider.com/articles/25/01/20/ipad-air-update-rumored-to-get-m3-upgrade-not-m4?utm_medium=rss)<!-- TECH:END -->
+ - [Answering All of Your Frequently Asked Questions About Sleep](https://www.cnet.com/health/sleep/sleep-faq/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

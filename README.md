@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Source: DOGE co-lead Vivek Ramaswamy is set to step away from the task force and plans a campaign for Ohio governor; sources: Musk associates undercut Ramaswamy &lpar;CBS News&rpar;](http://www.techmeme.com/250120/p10#a250120p10)
+ - [Trump claims Tim Cook has committed Apple to massive US investment](https://appleinsider.com/articles/25/01/20/trump-claims-tim-cook-has-committed-apple-to-massive-us-investment?utm_medium=rss)
  - [An interview with Jeff Atwood, co-founder of Stack Overflow, which was acquired by Prosus for $1.8B in 2021, on his plans to donate half his net worth and more &lpar;Megan Sauer/CNBC&rpar;](http://www.techmeme.com/250120/p9#a250120p9)
  - [An interview with Broadcom&#39;s Hock Tan on backlash from VMware customers, positioning VMware as a &quot;sovereign&quot; alternative to Big Tech&#39;s cloud services, and more &lpar;Tim Bradshaw/Financial Times&rpar;](http://www.techmeme.com/250120/p8#a250120p8)
- - [Oppo’s next foldable is about as thin as USB-C allows](https://www.theverge.com/2025/1/20/24347690/oppo-find-n5-oneplus-open-2-thinnest-usb-c-ipx9)
- - [A look at the CIA&#39;s AI use, including a chatbot that lets analysts talk to virtual versions of foreign presidents and prime ministers to predict their behaviors &lpar;Julian E. Barnes/New York Times&rpar;](http://www.techmeme.com/250120/p7#a250120p7)
- - [Best Bug Sprays for 2025](https://www.cnet.com/health/personal-care/best-bug-sprays/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Oppo’s next foldable is about as thin as USB-C allows](https://www.theverge.com/2025/1/20/24347690/oppo-find-n5-oneplus-open-2-thinnest-usb-c-ipx9)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

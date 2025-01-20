@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Share your apples with us](http://9gag.com/gag/a6ZZOG2)
+ - 😝 [Theres a photo online of a dude who killed a hippo with one](http://9gag.com/gag/aD22z0w)
  - 😝 [There are no stupid questions](http://9gag.com/gag/aNDDAr3)
- - 💣 [Theres a photo online of a dude who killed a hippo with one](http://9gag.com/gag/aD22z0w)
- - 😝 [Bad luck](http://9gag.com/gag/axyy061)
- - 👉 [Bad luck?](http://9gag.com/gag/abAAMxE)<!-- MEMES:END -->
+ - 💣 [A thousand words communicated with just a smile](http://9gag.com/gag/aPAAYVV)
+ - 😝 [Azra Ay Vandan, a Turkish OnlyFans model, was arrested in Istanbul after announcing plans to sleep with 100 men in 24 hours and live-stream it with her husband.](http://9gag.com/gag/aLnnDWA)
+ - 👉 [How high voltage leaks are detected inside big power grids](http://9gag.com/gag/aLnnjmW)<!-- MEMES:END -->
 
 ---
 

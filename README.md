@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Toture](http://9gag.com/gag/aZZZmxn)
- - 😝 [When you feel depressed, imagine being the guy who just set up 100,000 chairs on the National Mall and they announce they\u2019re moving the inauguration indoors](http://9gag.com/gag/aMVVGyW)
- - 💣 [Impressive and frightener](http://9gag.com/gag/azxx81m)
- - 😝 [Airport security is going to be pissed lol](http://9gag.com/gag/a7ooDKA)
- - 👉 [What happens when you put a sparkler through an egg...](http://9gag.com/gag/a7oorqb)<!-- MEMES:END -->
+ - 😝 [Think this should be the whole world.](http://9gag.com/gag/aD22GEG)
+ - 😝 [Definition of Abrupt Chaos](http://9gag.com/gag/aD22WY9)
+ - 💣 [Shaggy knew it all along](http://9gag.com/gag/aRBBm15)
+ - 😝 [Me exaggerating how stressful my job is when in reality](http://9gag.com/gag/aPAAByg)
+ - 👉 [In your face....It will get deleted in less than an hour probably](http://9gag.com/gag/apRRQNp)<!-- MEMES:END -->
 
 ---
 

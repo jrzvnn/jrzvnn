@@ -158,7 +158,7 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- TECH:START -->
  - [Bluesky launches a custom feed for TikTok-style vertical videos in its mobile app, saying &quot;We had to get in on the video action too&quot; &lpar;Ivan Mehta/TechCrunch&rpar;](http://www.techmeme.com/250120/p2#a250120p2)
- - [Despite tanking, Trump&#39;s memecoin, with a $60B+ market cap, is the 19th most valuable cryptocurrency per CoinGecko; some in crypto call it a &quot;horrible look&quot; &lpar;Politico&rpar;](http://www.techmeme.com/250120/p1#a250120p1)
+ - [Despite tanking, Trump&#39;s memecoin, with a $55B+ market cap, is the 21st most valuable cryptocurrency per CoinGecko; some in crypto call it a &quot;horrible look&quot; &lpar;Politico&rpar;](http://www.techmeme.com/250120/p1#a250120p1)
  - [Today&#39;s NYT Mini Crossword Answers for Monday, Jan. 20](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-monday-jan-20/#ftag=CAD590a51e)
  - [Today&#39;s NYT Connections: Sports Edition Hints and Answers for Jan. 20, #119](https://www.cnet.com/tech/gaming/todays-nyt-connections-sports-edition-hints-and-answers-for-jan-20-119/#ftag=CAD590a51e)
  - [Today&#39;s NYT Strands Hints, Answers and Help for Jan. 20, #323](https://www.cnet.com/tech/gaming/todays-nyt-strands-hints-answers-and-help-for-jan-20-323/#ftag=CAD590a51e)<!-- TECH:END -->

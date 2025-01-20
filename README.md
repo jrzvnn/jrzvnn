@@ -166,10 +166,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Airport security is going to be pissed lol](http://9gag.com/gag/a7ooDKA)
- - 😝 [The Double Rainbow guy was a prolific YouTuber who scheduled 15 years of uploads in advanced before he died His channel is still active now 4 years after his death.](http://9gag.com/gag/aXPP97P)
+ - 😝 [Toture](http://9gag.com/gag/aZZZmxn)
+ - 😝 [When you feel depressed, imagine being the guy who just set up 100,000 chairs on the National Mall and they announce they\u2019re moving the inauguration indoors](http://9gag.com/gag/aMVVGyW)
  - 💣 [Impressive and frightener](http://9gag.com/gag/azxx81m)
- - 😝 [Tips on meeting women](http://9gag.com/gag/aMVV8Q6)
+ - 😝 [Airport security is going to be pissed lol](http://9gag.com/gag/a7ooDKA)
  - 👉 [What happens when you put a sparkler through an egg...](http://9gag.com/gag/a7oorqb)<!-- MEMES:END -->
 
 ---

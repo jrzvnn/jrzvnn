@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Run](http://9gag.com/gag/aD22xDG)
- - 😝 [This kid just took down one of the worlds strongest men](http://9gag.com/gag/avyyn5Z)
- - 💣 [This man paid 10,000 bitcoins for two pizzas in 2010](http://9gag.com/gag/aByy1BN)
- - 😝 [LOL](http://9gag.com/gag/aqyyLGY)
- - 👉 [Guess what happen next](http://9gag.com/gag/awyyVKB)<!-- MEMES:END -->
+ - 😝 [Master Chief Road Rage](http://9gag.com/gag/aryygnd)
+ - 😝 [Tips on meeting women](http://9gag.com/gag/aMVV8Q6)
+ - 💣 [How train-crossings are managed in Bangladesh](http://9gag.com/gag/a4PP73d)
+ - 😝 [Theres a photo online of a dude who killed a hippo with one](http://9gag.com/gag/aD22z0w)
+ - 👉 [LOL](http://9gag.com/gag/aqyyLGY)<!-- MEMES:END -->
 
 ---
 

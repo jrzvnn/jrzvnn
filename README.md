@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The Trump Memecoin&#39;s &#39;Money-Grab&#39; Economics](https://www.wired.com/story/the-trump-memecoins-money-grab-economics/)
+ - [The White House Website Is Basically a Marvel Movie Trailer Now](https://www.wired.com/story/white-house-website-marvel-movie-trailer-helicopters-bald-eagle/)
  - [The Donald Trump 2.0 Grift Is Already On](https://www.wired.com/story/donald-trump-grift/)
- - [Fujifilm’s new stabilized binoculars deliver even more zoom](https://www.theverge.com/2025/1/20/24347913/fujifilm-techno-stabi-binoculars-birdwatching-magnification-zoom)
- - [Apple&#39;s iPhone SE 4 rumored to abandon notch in favor of Dynamic Island](https://appleinsider.com/articles/25/01/20/apples-iphone-se-4-rumored-to-abandon-notch-in-favor-of-dynamic-island?utm_medium=rss)
- - [Tim Cook joins big tech leaders for Trump&#39;s inauguration](https://appleinsider.com/articles/25/01/20/tim-cook-joins-big-tech-leaders-for-trumps-inauguration?utm_medium=rss)
- - [Best Internet Providers in Watertown, New York](https://www.cnet.com/home/internet/best-internet-providers-in-watertown-ny/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [The Galaxy S25 Countdown Begins: What to Expect During the Samsung Unpacked Event and How to Watch](https://www.cnet.com/tech/mobile/the-galaxy-s25-countdown-begins-what-to-expect-during-the-samsung-unpacked-event-and-how-to-watch/#ftag=CAD590a51e)
+ - [Fujifilm’s new stabilized binoculars deliver even more zoom](https://www.theverge.com/2025/1/20/24347913/fujifilm-techno-stabi-binoculars-birdwatching-magnification-zoom)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -161,7 +161,7 @@ R                        1 repo              ░░░░░░░░░░░�
  - [Neo-Nazis Love the Nazi-Like Salutes Elon Musk Made at Trump&#39;s Inauguration](https://www.wired.com/story/neo-nazis-love-elon-musk-nazi-like-salutes-trumps-inauguration/)
  - [During a speech following Donald Trump&#39;s inauguration, Elon Musk appeared to deliver two Roman salutes, associated with Nazism, to the crowd &lpar;Hafiz Rashid/New Republic&rpar;](http://www.techmeme.com/250120/p23#a250120p23)
  - [Stuttgart-based robotics startup Sereact, which develops Vision Language Action Models and whose customers include BMW and Daimler Truck, raised a $26M Series A &lpar;PYMNTS.com&rpar;](http://www.techmeme.com/250120/p22#a250120p22)
- - [Apple CEO Tim Cook offers innovation and jobs to President Trump&#39;s America](https://appleinsider.com/articles/25/01/20/apple-ceo-tim-cook-offers-innovation-and-jobs-to-president-trumps-america?utm_medium=rss)<!-- TECH:END -->
+ - [The 8 Best Herbal Teas to Reduce Stress and Promote Sleep](https://www.cnet.com/health/mental/best-teas-for-sleep/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

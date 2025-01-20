@@ -158,10 +158,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- TECH:START -->
  - [Dynasty Warriors: Origins is a refreshing take on the legendary series](https://www.theverge.com/2025/1/20/24346199/dynasty-warriors-origins-review-koei-tecmo)
+ - [Best Internet Providers in Coon Rapids, Minnesota](https://www.cnet.com/home/internet/best-internet-providers-in-coon-rapids-mn/#ftag=CAD590a51e)
+ - [Best Internet Providers in Horseheads, New York](https://www.cnet.com/home/internet/best-internet-providers-in-horseheads-ny/#ftag=CAD590a51e)
  - [The Trump Memecoin&#39;s &#39;Money-Grab&#39; Economics](https://www.wired.com/story/the-trump-memecoins-money-grab-economics/)
- - [The White House Website Is Basically a Marvel Movie Trailer Now](https://www.wired.com/story/white-house-website-marvel-movie-trailer-helicopters-bald-eagle/)
- - [The Donald Trump 2.0 Grift Is Already On](https://www.wired.com/story/donald-trump-grift/)
- - [The Galaxy S25 Countdown Begins: What to Expect During the Samsung Unpacked Event and How to Watch](https://www.cnet.com/tech/mobile/the-galaxy-s25-countdown-begins-what-to-expect-during-the-samsung-unpacked-event-and-how-to-watch/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [The White House Website Is Basically a Marvel Movie Trailer Now](https://www.wired.com/story/white-house-website-marvel-movie-trailer-helicopters-bald-eagle/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

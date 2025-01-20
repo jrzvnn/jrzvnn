@@ -158,10 +158,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- TECH:START -->
  - [Despite tanking, Trump&#39;s memecoin, with a $51B+ market cap, is the 21st most valuable cryptocurrency per CoinGecko; some in crypto call it a &quot;horrible look&quot; &lpar;Politico&rpar;](http://www.techmeme.com/250120/p1#a250120p1)
- - [Google Play and Apple&#39;s App Store still aren&#39;t offering TikTok in the US; Sen. Cotton warns of &quot;ruinous liability&quot;, as Trump says there&#39;s &quot;no liability&quot; &lpar;Emma Roth/The Verge&rpar;](http://www.techmeme.com/250119/p19#a250119p19)
- - [Q&amp;A with Curtis Yarvin, a computer engineer and blogger whose ideas are increasingly popular with tech elites, on why democracy is bad, dictators, and more &lpar;David Marchese/New York Times&rpar;](http://www.techmeme.com/250119/p18#a250119p18)
- - [Our Expert Picks for Best Mattresses for Heavy People in 2025](https://www.cnet.com/health/sleep/best-mattress-for-heavy-people/#ftag=CAD590a51e)
- - [Meta&#39;s Edits is an alternative to CapCut, as Apple forgets about Clips](https://appleinsider.com/articles/25/01/20/metas-edits-is-an-alternative-to-capcut-as-apple-forgets-about-clips?utm_medium=rss)<!-- TECH:END -->
+ - [Today&#39;s NYT Mini Crossword Answers for Monday, Jan. 20](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-monday-jan-20/#ftag=CAD590a51e)
+ - [Today&#39;s NYT Connections: Sports Edition Hints and Answers for Jan. 20, #119](https://www.cnet.com/tech/gaming/todays-nyt-connections-sports-edition-hints-and-answers-for-jan-20-119/#ftag=CAD590a51e)
+ - [Today&#39;s NYT Strands Hints, Answers and Help for Jan. 20, #323](https://www.cnet.com/tech/gaming/todays-nyt-strands-hints-answers-and-help-for-jan-20-323/#ftag=CAD590a51e)
+ - [Google Play and Apple&#39;s App Store still aren&#39;t offering TikTok in the US; Sen. Cotton warns of &quot;ruinous liability&quot;, as Trump says there&#39;s &quot;no liability&quot; &lpar;Emma Roth/The Verge&rpar;](http://www.techmeme.com/250119/p19#a250119p19)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

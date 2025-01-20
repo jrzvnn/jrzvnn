@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Ron rules](http://9gag.com/gag/aD22xXx)
- - 😝 [It&#39;s your captain speaking, don&#39;t forget to add some material.](http://9gag.com/gag/aqyyL3Y)
- - 💣 [But it was romantic](http://9gag.com/gag/a5QQo7O)
- - 😝 [OnlyFans creator Gizem Ba\u011fda\u00e7i\u00e7ek was arrested for violating Turkish obscenity laws, following the OnlyFans ban in Turkey](http://9gag.com/gag/aMVV9LR)
- - 👉 [The most important topic of all time](http://9gag.com/gag/a5QQoDq)<!-- MEMES:END -->
+ - 😝 [How high voltage leaks are detected inside big power grids](http://9gag.com/gag/aLnnjmW)
+ - 😝 [Can\u2019t say black anymore](http://9gag.com/gag/avyyOWd)
+ - 💣 [LOL](http://9gag.com/gag/aqyyLGY)
+ - 😝 [But it was romantic](http://9gag.com/gag/a5QQo7O)
+ - 👉 [OnlyFans creator Gizem Ba\u011fda\u00e7i\u00e7ek was arrested for violating Turkish obscenity laws, following the OnlyFans ban in Turkey](http://9gag.com/gag/aMVV9LR)<!-- MEMES:END -->
 
 ---
 

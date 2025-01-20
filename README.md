@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Source: DOGE co-lead Vivek Ramaswamy is set to step away from the task force and plans a campaign for Ohio governor; sources: Musk associates undercut Ramaswamy &lpar;CBS News&rpar;](http://www.techmeme.com/250120/p10#a250120p10)
- - [Trump claims Tim Cook has committed Apple to massive US investment](https://appleinsider.com/articles/25/01/20/trump-claims-tim-cook-has-committed-apple-to-massive-us-investment?utm_medium=rss)
- - [An interview with Jeff Atwood, co-founder of Stack Overflow, which was acquired by Prosus for $1.8B in 2021, on his plans to donate half his net worth and more &lpar;Megan Sauer/CNBC&rpar;](http://www.techmeme.com/250120/p9#a250120p9)
- - [An interview with Broadcom&#39;s Hock Tan on backlash from VMware customers, positioning VMware as a &quot;sovereign&quot; alternative to Big Tech&#39;s cloud services, and more &lpar;Tim Bradshaw/Financial Times&rpar;](http://www.techmeme.com/250120/p8#a250120p8)
- - [Oppo’s next foldable is about as thin as USB-C allows](https://www.theverge.com/2025/1/20/24347690/oppo-find-n5-oneplus-open-2-thinnest-usb-c-ipx9)<!-- TECH:END -->
+ - [X rolls out a dedicated video tab in the US, letting users scroll through short videos, accessible via the app&#39;s bottom bar &lpar;Ivan Mehta/TechCrunch&rpar;](http://www.techmeme.com/250120/p12#a250120p12)
+ - [Best Cooking Equipment for Meal Kits &lpar;2025&rpar;, Tested and Reviewed](https://www.wired.com/gallery/meal-kit-essential-gear/)
+ - [Bitcoin passes $108K ahead of President-elect Donald Trump&#39;s inauguration, after hitting $100K in December 2024 before dropping to around $90K &lpar;Alan Suderman/Associated Press&rpar;](http://www.techmeme.com/250120/p11#a250120p11)
+ - [All the rumors about the iPhone Air](https://www.theverge.com/2025/1/20/24344710/apple-iphone-17-air-rumors-specs-display-size-price)
+ - [Bluesky and X launch new video feeds amid TikTok uncertainties](https://www.theverge.com/2025/1/20/24347692/bluesky-x-new-video-features-feeds-tiktok-uncertainties)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

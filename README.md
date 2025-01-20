@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Neo-Nazis Love the Nazi-Like Salutes Elon Musk Made at Trump&#39;s Inauguration](https://www.wired.com/story/neo-nazis-love-elon-musk-nazi-like-salutes-trumps-inauguration/)
+ - [During a speech following Donald Trump&#39;s inauguration, Elon Musk appeared to deliver two Roman salutes, associated with Nazism, to the crowd &lpar;Hafiz Rashid/New Republic&rpar;](http://www.techmeme.com/250120/p23#a250120p23)
  - [Stuttgart-based robotics startup Sereact, which develops Vision Language Action Models and whose customers include BMW and Daimler Truck, raised a $26M Series A &lpar;PYMNTS.com&rpar;](http://www.techmeme.com/250120/p22#a250120p22)
  - [Apple CEO Tim Cook offers innovation and jobs to President Trump&#39;s America](https://appleinsider.com/articles/25/01/20/apple-ceo-tim-cook-offers-innovation-and-jobs-to-president-trumps-america?utm_medium=rss)
- - [How to upgrade the SSD in your M4 Mac mini](https://appleinsider.com/inside/mac-mini/tips/how-to-upgrade-the-ssd-in-your-m4-mac-mini?utm_medium=rss)
- - [Today&#39;s NYT Connections Hints, Answers and Help for Jan. 21, #590](https://www.cnet.com/tech/gaming/todays-nyt-connections-hints-answers-and-help-for-jan-21-590/#ftag=CAD590a51e)
- - [Today&#39;s Wordle Hints, Answer and Help for Jan. 21, #1312](https://www.cnet.com/tech/gaming/todays-wordle-hints-answer-and-help-for-jan-21-1312/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [How to upgrade the SSD in your M4 Mac mini](https://appleinsider.com/inside/mac-mini/tips/how-to-upgrade-the-ssd-in-your-m4-mac-mini?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

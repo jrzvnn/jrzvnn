@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Stuttgart-based robotics startup Sereact, which develops Vision Language Action Models and whose customers include BMW and Daimler Truck, raised a $26M Series A &lpar;PYMNTS.com&rpar;](http://www.techmeme.com/250120/p22#a250120p22)
  - [Apple CEO Tim Cook offers innovation and jobs to President Trump&#39;s America](https://appleinsider.com/articles/25/01/20/apple-ceo-tim-cook-offers-innovation-and-jobs-to-president-trumps-america?utm_medium=rss)
  - [How to upgrade the SSD in your M4 Mac mini](https://appleinsider.com/inside/mac-mini/tips/how-to-upgrade-the-ssd-in-your-m4-mac-mini?utm_medium=rss)
  - [Today&#39;s NYT Connections Hints, Answers and Help for Jan. 21, #590](https://www.cnet.com/tech/gaming/todays-nyt-connections-hints-answers-and-help-for-jan-21-590/#ftag=CAD590a51e)
- - [Today&#39;s Wordle Hints, Answer and Help for Jan. 21, #1312](https://www.cnet.com/tech/gaming/todays-wordle-hints-answer-and-help-for-jan-21-1312/#ftag=CAD590a51e)
- - [Best Internet Providers in Flagstaff, Arizona](https://www.cnet.com/home/internet/best-internet-providers-in-flagstaff-az/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Today&#39;s Wordle Hints, Answer and Help for Jan. 21, #1312](https://www.cnet.com/tech/gaming/todays-wordle-hints-answer-and-help-for-jan-21-1312/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

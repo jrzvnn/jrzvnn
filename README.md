@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Toture](http://9gag.com/gag/aZZZmxn)
- - 😝 [Guy is too caught up](http://9gag.com/gag/avyyGDd)
- - 💣 [Me every morning to my cup of coffee](http://9gag.com/gag/a1mmdY6)
- - 😝 [When you feel depressed, imagine being the guy who just set up 100,000 chairs on the National Mall and they announce they\u2019re moving the inauguration indoors](http://9gag.com/gag/aMVVGyW)
- - 👉 [Impressive and frightener](http://9gag.com/gag/azxx81m)<!-- MEMES:END -->
+ - 😝 [A street in Paris after weeks of garbage collector strikes](http://9gag.com/gag/aoyypEx)
+ - 😝 [Doggo is confused why the bikeman stopped](http://9gag.com/gag/a0eej6O)
+ - 💣 [Theres a photo online of a dude who killed a hippo with one](http://9gag.com/gag/aD22z0w)
+ - 😝 [Moms are awesome](http://9gag.com/gag/aPAAMRR)
+ - 👉 [I thought you liked me?](http://9gag.com/gag/a4PPZ7p)<!-- MEMES:END -->
 
 ---
 

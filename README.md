@@ -157,7 +157,7 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Meta says it will continue to use its fact checkers outside of the US &quot;for now&quot;, and plans to see how its community notes work in the US before making changes &lpar;Jillian Deutsch/Bloomberg&rpar;](http://www.techmeme.com/250120/p17#a250120p17)
+ - [Meta says it will continue to use its fact checkers outside of the US &quot;for now&quot;, and plans to see how its Community Notes system works in the US before deciding &lpar;Jillian Deutsch/Bloomberg&rpar;](http://www.techmeme.com/250120/p17#a250120p17)
  - [Apple plans MacBook Air display upgrade, but OLED still far away](https://appleinsider.com/articles/25/01/20/apple-plans-macbook-air-display-upgrade-but-oled-still-far-away?utm_medium=rss)
  - [The European Commission says Facebook, X, YouTube, and others agreed to an updated code of conduct, first set up in May 2016, over hate speech under the DSA &lpar;Foo Yun Chee/Reuters&rpar;](http://www.techmeme.com/250120/p16#a250120p16)
  - [How to Use Parental Controls in Your Google, Apple, and Microsoft Accounts](https://www.wired.com/story/how-to-use-parental-controls-in-your-google-apple-and-microsoft-accounts/)

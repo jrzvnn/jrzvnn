@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [The most important topic of all time](http://9gag.com/gag/a5QQoDq)
- - 😝 [Can\u2019t say black anymore](http://9gag.com/gag/avyyOWd)
- - 💣 [Hmmmm](http://9gag.com/gag/azxx9gz)
- - 😝 [Bad luck](http://9gag.com/gag/axyy061)
- - 👉 [Just don&#39;t climb in a tiny cave hole and you&#39;ll be good.](http://9gag.com/gag/aW44Mbd)<!-- MEMES:END -->
+ - 😝 [Night scavengers](http://9gag.com/gag/adBBKZN)
+ - 😝 [Literally came back to die](http://9gag.com/gag/aLnnjZg)
+ - 💣 [I learned it the hard way](http://9gag.com/gag/aYQQ4mN)
+ - 😝 [User was arrested for that post](http://9gag.com/gag/a6ZZoXN)
+ - 👉 [Best bar advertisement](http://9gag.com/gag/aNDDY14)<!-- MEMES:END -->
 
 ---
 

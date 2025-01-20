@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [This man paid 10,000 bitcoins for two pizzas in 2010](http://9gag.com/gag/aByy1BN)
  - 😝 [Bad luck](http://9gag.com/gag/axyy061)
- - 💣 [Tips on meeting women](http://9gag.com/gag/aMVV8Q6)
- - 😝 [Impressive and frightener](http://9gag.com/gag/azxx81m)
- - 👉 [Toture](http://9gag.com/gag/aZZZmxn)<!-- MEMES:END -->
+ - 😝 [Fuk around and find out](http://9gag.com/gag/azxx1jK)
+ - 💣 [Something is sus](http://9gag.com/gag/an779ez)
+ - 😝 [Bad luck?](http://9gag.com/gag/abAAMxE)
+ - 👉 [Share your apples with us](http://9gag.com/gag/a6ZZOG2)<!-- MEMES:END -->
 
 ---
 

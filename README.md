@@ -159,9 +159,9 @@ R                        1 repo              ░░░░░░░░░░░�
 <!-- TECH:START -->
  - [Google Play and Apple&#39;s App Store still aren&#39;t offering TikTok in the US; Sen. Cotton warns of &quot;ruinous liability&quot;, as Trump says there&#39;s &quot;no liability&quot; &lpar;Emma Roth/The Verge&rpar;](http://www.techmeme.com/250119/p19#a250119p19)
  - [Q&amp;A with Curtis Yarvin, a computer engineer and blogger whose ideas are increasingly popular with tech elites, on why democracy is bad, dictators, and more &lpar;David Marchese/New York Times&rpar;](http://www.techmeme.com/250119/p18#a250119p18)
+ - [Our Expert Picks for Best Mattresses for Heavy People in 2025](https://www.cnet.com/health/sleep/best-mattress-for-heavy-people/#ftag=CAD590a51e)
  - [Meta&#39;s Edits is an alternative to CapCut, as Apple forgets about Clips](https://appleinsider.com/articles/25/01/20/metas-edits-is-an-alternative-to-capcut-as-apple-forgets-about-clips?utm_medium=rss)
- - [Researchers say the recent surge in SMS phishing spam, warning US recipients about unpaid tolls, coincides with new features in a popular Chinese phishing kit &lpar;Brian Krebs/Krebs on Security&rpar;](http://www.techmeme.com/250119/p17#a250119p17)
- - [La Liga Soccer Livestream: How to Watch Real Madrid vs. Las Palmas From Anywhere](https://www.cnet.com/tech/services-and-software/la-liga-soccer-livestream-how-to-watch-real-madrid-vs-las-palmas-from-anywhere/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Researchers say the recent surge in SMS phishing spam, warning US recipients about unpaid tolls, coincides with new features in a popular Chinese phishing kit &lpar;Brian Krebs/Krebs on Security&rpar;](http://www.techmeme.com/250119/p17#a250119p17)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

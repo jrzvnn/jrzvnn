@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [Can\u2019t say black anymore](http://9gag.com/gag/avyyOWd)
  - 😝 [Share your apples with us](http://9gag.com/gag/a6ZZOG2)
- - 😝 [`I want the money!`](http://9gag.com/gag/a7ooZxb)
- - 💣 [Can\u2019t say black anymore](http://9gag.com/gag/avyyOWd)
+ - 💣 [True love](http://9gag.com/gag/azxx1Kx)
  - 😝 [Eat Meat](http://9gag.com/gag/aLnngEz)
- - 👉 [True love](http://9gag.com/gag/azxx1Kx)<!-- MEMES:END -->
+ - 👉 [A Rabid Fox behaving like a Zombie. The Rabies Virus is named Rabies Lyssavirus &lpar;RABV&rpar;. It is a member of the Lyssavirus genus in the Rhabdoviridae family. One of the Scariest Virus on the Planet.](http://9gag.com/gag/aAyyxGd)<!-- MEMES:END -->
 
 ---
 

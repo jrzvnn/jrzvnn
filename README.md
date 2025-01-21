@@ -166,10 +166,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Bad luck?](http://9gag.com/gag/abAAMxE)
  - 😝 [Two types of autism](http://9gag.com/gag/aNDD0x4)
- - 💣 [Elon at the trump rally... he is a bit too excited.](http://9gag.com/gag/awyyopr)
- - 😝 [Investing Mon4](http://9gag.com/gag/aAyygvd)
+ - 😝 [Something is sus](http://9gag.com/gag/an779ez)
+ - 💣 [How high voltage leaks are detected inside big power grids](http://9gag.com/gag/aLnnjmW)
+ - 😝 [Elon at the trump rally... he is a bit too excited.](http://9gag.com/gag/awyyopr)
  - 👉 [Congratulations. What sport by the way?](http://9gag.com/gag/an77Q15)<!-- MEMES:END -->
 
 ---

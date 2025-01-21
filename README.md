@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Fuk around and find out](http://9gag.com/gag/azxx1jK)
- - 😝 [Two types of autism](http://9gag.com/gag/aNDD0x4)
- - 💣 [Cheating with AI in school](http://9gag.com/gag/an77jv0)
- - 😝 [Impressive and frightener](http://9gag.com/gag/azxx81m)
- - 👉 [Jeff Bezos Struggles With His Skin](http://9gag.com/gag/a2vvRDw)<!-- MEMES:END -->
+ - 😝 [Share your apples with us](http://9gag.com/gag/a6ZZOG2)
+ - 😝 [`I want the money!`](http://9gag.com/gag/a7ooZxb)
+ - 💣 [Can\u2019t say black anymore](http://9gag.com/gag/avyyOWd)
+ - 😝 [Eat Meat](http://9gag.com/gag/aLnngEz)
+ - 👉 [True love](http://9gag.com/gag/azxx1Kx)<!-- MEMES:END -->
 
 ---
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [How Trump&#39;s memecoin, of which he reportedly holds $50B+ at January 19 prices, could be used to buy favors without any direct, observable transfer occurring &lpar;Noah Smith/Noahpinion&rpar;](http://www.techmeme.com/250121/p5#a250121p5)
+ - [Gold Sneakers and Too-Tight Suits: The Menswear Guy Weighs In on Inauguration Weekend](https://www.wired.com/story/menswear-guy-maga-tight-suits-gold-sneakers/)
  - [Apple&#39;s biggest innovation of the last 25 years isn&#39;t the iPhone](https://appleinsider.com/articles/25/01/21/apples-biggest-innovation-of-the-last-25-years-isnt-the-iphone?utm_medium=rss)
- - [Chinese smartphone sales fell 3.2% YoY in Q4 2024, the only 2024 quarter with a YoY drop; Apple fell 18.2% while Huawei rose 15.5% for an 18.1% market share &lpar;Counterpoint Research&rpar;](http://www.techmeme.com/250121/p4#a250121p4)
- - [Sources: Elon Musk is set to get a West Wing office, putting him close to Trump, after Musk had for many days been asking about his level of access &lpar;New York Times&rpar;](http://www.techmeme.com/250121/p3#a250121p3)
- - [Best Home Exercise Equipment for 2025](https://www.cnet.com/health/fitness/best-home-exercise-equipment/#ftag=CAD590a51e)
- - [Brendan Carr becomes FCC chair, and plans to focus on tech and media regulation, combating China, spectrum licenses, infrastructure, the space economy, and more &lpar;Lauren Feiner/The Verge&rpar;](http://www.techmeme.com/250121/p2#a250121p2)<!-- TECH:END -->
+ - [Best Electric Kettles of 2025](https://www.cnet.com/home/kitchen-and-household/best-electric-kettle/#ftag=CAD590a51e)
+ - [Chinese smartphone sales fell 3.2% YoY in Q4 2024, the only 2024 quarter with a YoY drop; Apple fell 18.2% while Huawei rose 15.5% for an 18.1% market share &lpar;Counterpoint Research&rpar;](http://www.techmeme.com/250121/p4#a250121p4)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

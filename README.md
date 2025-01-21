@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Broadcast TV Is Dying. Trump Is Threatening It Anyway](https://www.wired.com/story/broadcast-tv-is-dying-trump-threatening-it-anyway/)
  - [Volvo announces pricing for delayed EX30 compact SUV](https://www.theverge.com/2025/1/21/24348733/volvo-ex30-compact-suv-price-us)
  - [The SEC launches a &quot;Crypto 2.0&quot; task force led by SEC Commissioner Hester Peirce, to create a &quot;comprehensive and clear regulatory framework for crypto assets&quot; &lpar;Jeff Cox/CNBC&rpar;](http://www.techmeme.com/250121/p15#a250121p15)
- - [Apple seeds release candidates of iOS 18.3, macOS 15.3](https://appleinsider.com/articles/25/01/21/apple-seeds-release-candidates-of-ios-183-macos-153?utm_medium=rss)
- - [Parrot Analytics estimates Severance season 1 earned $200M+, with ~50% coming in the year following the finale; Ted Lasso generated $609.4M from Q3&#39;20 to Q3&#39;24 &lpar;Max Goldbart/Deadline&rpar;](http://www.techmeme.com/250121/p14#a250121p14)
- - [&#39;Severance&#39; may have made $200 million, but Apple doesn&#39;t have to care](https://appleinsider.com/articles/25/01/21/severance-may-have-made-200-million-but-apple-doesnt-have-to-care?utm_medium=rss)<!-- TECH:END -->
+ - [The Galaxy S25 Reveal Is Almost Here: What to Expect at Samsung Unpacked and How to Watch](https://www.cnet.com/tech/mobile/the-galaxy-s25-reveal-is-almost-here-what-to-expect-at-samsung-unpacked-and-how-to-watch/#ftag=CAD590a51e)
+ - [Apple seeds release candidates of iOS 18.3, macOS 15.3](https://appleinsider.com/articles/25/01/21/apple-seeds-release-candidates-of-ios-183-macos-153?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

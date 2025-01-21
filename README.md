@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Can\u2019t say black anymore](http://9gag.com/gag/avyyOWd)
- - 😝 [How high voltage leaks are detected inside big power grids](http://9gag.com/gag/aLnnjmW)
- - 💣 [Cheating with AI in school](http://9gag.com/gag/an77jv0)
- - 😝 [Something is sus](http://9gag.com/gag/an779ez)
- - 👉 [Bad luck](http://9gag.com/gag/axyy061)<!-- MEMES:END -->
+ - 😝 [Love Story lol](http://9gag.com/gag/aqyyKQP)
+ - 😝 [NSFW](http://9gag.com/gag/aByyg5Q)
+ - 💣 [Who is protecting them ?](http://9gag.com/gag/a5QQRVO)
+ - 😝 [We&#39;re waiting](http://9gag.com/gag/avyyovZ)
+ - 👉 [True love](http://9gag.com/gag/azxx1Kx)<!-- MEMES:END -->
 
 ---
 

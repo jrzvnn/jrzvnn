@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple&#39;s iPad Pro will see only minor 2025 update, says supply chain](https://appleinsider.com/articles/25/01/21/apples-ipad-pro-will-see-only-minor-2025-update-says-supply-chain?utm_medium=rss)
- - [Infinity Nikki’s new season brings the game’s biggest update yet](https://www.theverge.com/2025/1/21/24348535/infinity-nikki-firework-season-update-trailer-january-date)
- - [Circle, which issues the USDC stablecoin, acquired Hashnote; rwa.xyz data: Hashnote&#39;s USYC token last year become the largest tokenized US Treasury product &lpar;Krisztian Sandor/CoinDesk&rpar;](http://www.techmeme.com/250121/p10#a250121p10)
- - [Today’s the last day to get $50 in credit when you preorder Samsung’s new Galaxy devices](https://www.theverge.com/2025/1/21/24343975/samsung-galaxy-s25-jbl-clip-5-deal-sale)
- - [6 Best Cheap Mattress for 2025 – Save on Your Next Bed](https://www.cnet.com/health/sleep/best-cheap-mattress/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [IMDb’s CEO, who founded the site 35 years ago, is stepping down](https://www.theverge.com/2025/1/21/24348616/imdb-founder-col-needham-ceo-nikki-santoro)
+ - [CapCut is back online in the US](https://www.theverge.com/2025/1/21/24348629/capcut-back-online-us-tiktok-bytedance)
+ - [A federal website on reproductive rights has vanished](https://www.theverge.com/2025/1/21/24348586/reproductive-right-federal-website-trump)
+ - [Meta will soon let users link WhatsApp accounts with Instagram and Facebook, allowing cross posts of WhatsApp Statuses as Stories on Instagram and Facebook &lpar;Aisha Malik/TechCrunch&rpar;](http://www.techmeme.com/250121/p11#a250121p11)
+ - [Apple&#39;s iPad Pro will see only minor 2025 update, says supply chain](https://appleinsider.com/articles/25/01/21/apples-ipad-pro-will-see-only-minor-2025-update-says-supply-chain?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

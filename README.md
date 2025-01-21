@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Best Internet Providers in Ithaca, New York](https://www.cnet.com/home/internet/best-internet-providers-in-ithaca-ny/#ftag=CAD590a51e)
+ - [Best Sim Racing Cockpit for 2025](https://www.cnet.com/roadshow/news/best-sim-racing-cockpit/#ftag=CAD590a51e)
  - [Today&#39;s NYT Strands Hints, Answers and Help for Jan. 21, #324](https://www.cnet.com/tech/gaming/todays-nyt-strands-hints-answers-and-help-for-jan-21-324/#ftag=CAD590a51e)
  - [TurboTax Coupons and Deals: 10% Off Tax Services](https://www.wired.com/story/turbotax-coupon/)
- - [VistaPrint Coupon: Get Up to $50 Off](https://www.wired.com/story/vistaprint-coupon-code/)
- - [How to get the Apple TV Snoopy screensaver on your Mac](https://appleinsider.com/inside/macos-sequoia/tips/how-to-get-the-apple-tv-snoopy-screensaver-on-your-mac?utm_medium=rss)
- - [Today&#39;s NYT Mini Crossword Answers for Tuesday, Jan. 21](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-tuesday-jan-21/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [VistaPrint Coupon: Get Up to $50 Off](https://www.wired.com/story/vistaprint-coupon-code/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

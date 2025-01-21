@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Trump revokes a 2023 executive order signed by Biden that sought to reduce the risks that AI poses to consumers, workers, and national security &lpar;David Shepardson/Reuters&rpar;](http://www.techmeme.com/250120/p26#a250120p26)
+ - [During a speech following Donald Trump&#39;s inauguration, Elon Musk delivered what many saw as two &quot;Nazi salutes&quot; &lpar;Matt Novak/Gizmodo&rpar;](http://www.techmeme.com/250120/p25#a250120p25)
  - [Donald Trump pulls US out of Paris climate agreement](https://www.theverge.com/2025/1/20/24345964/donald-trump-paris-climate-agreement-exit)
  - [Brendan Carr is officially in charge of the FCC](https://www.theverge.com/2025/1/20/24348210/brendan-carr-federal-communications-commission-chair-trump)
- - [Vivek Ramaswamy steps down from DOGE](https://www.theverge.com/2025/1/20/24348186/vivek-ramaswamy-doge-steps-down-elon-musk)
- - [Jan. 17 filing: the US NHTSA said it &quot;upgraded&quot; its April 2024 probe into Ford&#39;s BlueCruise, a driver assistance system that was active during two fatal crashes &lpar;Kirsten Korosec/TechCrunch&rpar;](http://www.techmeme.com/250120/p24#a250120p24)
- - [Neo-Nazis Love the Nazi-Like Salutes Elon Musk Made at Trump&#39;s Inauguration](https://www.wired.com/story/neo-nazis-love-elon-musk-nazi-like-salutes-trumps-inauguration/)<!-- TECH:END -->
+ - [Vivek Ramaswamy steps down from DOGE](https://www.theverge.com/2025/1/20/24348186/vivek-ramaswamy-doge-steps-down-elon-musk)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

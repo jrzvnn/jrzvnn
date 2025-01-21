@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [A24’s Opus blurs the line between fandom and faith in first trailer](https://www.theverge.com/2025/1/21/24348527/a24-opus-trailer-release-date)
- - [The UK debuts digital driving licenses and veteran ID cards, launching in 2025 via the GOV.UK Wallet, and AI tools, nicknamed &quot;Humphrey&quot;, to help civil servants &lpar;Anna Gross/Financial Times&rpar;](http://www.techmeme.com/250121/p9#a250121p9)
- - [How the future of sports streaming died](https://www.theverge.com/2025/1/21/24348517/venu-sports-espn-future-book-reading-digital-vergecast)
- - [What to expect at Samsung’s Galaxy S25 event](https://www.theverge.com/2025/1/21/24348497/samsung-galaxy-s25-plus-ultra-unpacked-expected-announcements-ai-vr)
- - [Grindr debuts two of six features set for 2025, including an opt-in AI chat summary, and says 10K US users are testing its AI-based &quot;Wingman&quot;, ahead of schedule &lpar;Natalie Lung/Bloomberg&rpar;](http://www.techmeme.com/250121/p8#a250121p8)<!-- TECH:END -->
+ - [TikTok isn’t back in the App Store yet](https://www.theverge.com/2025/1/19/24347340/tiktok-ban-app-store-google-play)
+ - [Fujifilm’s new hybrid instant camera features its widest lens yet](https://www.theverge.com/2025/1/21/24348502/fujifilm-instax-wide-evo-hybrid-instant-camera-photography-printer)
+ - [Donald Trump rescinds Biden-era executive order on AI safety](https://www.theverge.com/2025/1/21/24348504/donald-trump-ai-safety-executive-order-rescind)
+ - [Instagram is reportedly trying to attract TikTok creators with large bonuses](https://www.theverge.com/2025/1/21/24348510/instagram-tiktok-creators-bonuses)
+ - [A24’s Opus blurs the line between fandom and faith in first trailer](https://www.theverge.com/2025/1/21/24348527/a24-opus-trailer-release-date)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

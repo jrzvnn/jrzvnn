@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The UK government is launching a digital ID mobile app](https://www.theverge.com/2025/1/21/24348641/uk-government-digital-id-app-ios-android-launch)
  - [The 12 Best Cooling Pillows of 2025](https://www.cnet.com/health/sleep/best-cooling-pillows/#ftag=CAD590a51e)
  - [IMDb’s CEO, who founded the site 35 years ago, is stepping down](https://www.theverge.com/2025/1/21/24348616/imdb-founder-col-needham-ceo-nikki-santoro)
  - [CapCut is back online in the US](https://www.theverge.com/2025/1/21/24348629/capcut-back-online-us-tiktok-bytedance)
- - [7 Anti-Snoring Products for a Peaceful Slumber](https://www.cnet.com/health/sleep/anti-snoring-devices/#ftag=CAD590a51e)
- - [A federal website on reproductive rights has vanished](https://www.theverge.com/2025/1/21/24348586/reproductive-right-federal-website-trump)<!-- TECH:END -->
+ - [7 Anti-Snoring Products for a Peaceful Slumber](https://www.cnet.com/health/sleep/anti-snoring-devices/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

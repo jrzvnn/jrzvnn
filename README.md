@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Meta says it will offer eligible TikTok creators free verification, content deals, and up to $5,000 in bonuses to post Reels &lpar;Aisha Malik/TechCrunch&rpar;](http://www.techmeme.com/250121/p17#a250121p17)
  - [DeepSeek&#39;s new MIT-licensed AI models can be accessed via DeepSeek&#39;s API at a fraction of the cost of comparable OpenAI models but there are censorship concerns &lpar;Radhika Rajkumar/ZDNET&rpar;](http://www.techmeme.com/250121/p16#a250121p16)
  - [How to mirror your iPhone screen on macOS](https://www.theverge.com/24348505/macos-ios-iphone-mirror-continuity-how-to)
  - [Balatro has sold over 1 million copies since December](https://www.theverge.com/2025/1/21/24348727/balatro-5-million-copies-the-game-awards)
- - [Microsoft will automatically keep you signed in to your account starting in February](https://www.theverge.com/2025/1/21/24348578/microsoft-account-sign-in-changes-february)
- - [Korg’s first record players are designed for DJs, audiophiles, and archivists](https://www.theverge.com/2025/1/21/24348638/korg-handytraxx-play-tube-1bit-record-player-turntable-vinyl)<!-- TECH:END -->
+ - [Microsoft will automatically keep you signed in to your account starting in February](https://www.theverge.com/2025/1/21/24348578/microsoft-account-sign-in-changes-february)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

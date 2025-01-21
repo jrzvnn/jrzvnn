@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Two types of autism](http://9gag.com/gag/aNDD0x4)
+ - 😝 [New fear unlocked](http://9gag.com/gag/a7oowx2)
  - 😝 [Elon at the trump rally... he is a bit too excited.](http://9gag.com/gag/awyyopr)
- - 💣 [How high voltage leaks are detected inside big power grids](http://9gag.com/gag/aLnnjmW)
- - 😝 [Jeff Bezos Struggles With His Skin](http://9gag.com/gag/a2vvRDw)
- - 👉 [Yikes\u2026lol](http://9gag.com/gag/a877oL3)<!-- MEMES:END -->
+ - 💣 [Something is sus](http://9gag.com/gag/an779ez)
+ - 😝 [Bad luck?](http://9gag.com/gag/abAAMxE)
+ - 👉 [Two types of autism](http://9gag.com/gag/aNDD0x4)<!-- MEMES:END -->
 
 ---
 

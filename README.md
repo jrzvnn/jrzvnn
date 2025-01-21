@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [How Invasive Plants Are Fueling California’s Wildfire Crisis](https://www.wired.com/story/how-invasive-plants-are-fueling-californias-wildfire-crisis/)
+ - [Best Sheets for Every Bed &amp; Budget, Tested &amp; Reviewed &lpar;2025&rpar;](https://www.wired.com/story/best-bedsheets/)
+ - [Trump hesitates over instituting China tariffs that would hurt Apple](https://appleinsider.com/articles/25/01/21/trump-hesitates-over-instituting-china-tariffs-that-would-hurt-apple?utm_medium=rss)
  - [How Trump&#39;s memecoin, of which he reportedly holds $50B+ at January 19 prices, could be used to buy favors without any direct, observable transfer occurring &lpar;Noah Smith/Noahpinion&rpar;](http://www.techmeme.com/250121/p5#a250121p5)
- - [Gold Sneakers and Too-Tight Suits: The Menswear Guy Weighs In on Inauguration Weekend](https://www.wired.com/story/menswear-guy-maga-tight-suits-gold-sneakers/)
- - [Apple&#39;s biggest innovation of the last 25 years isn&#39;t the iPhone](https://appleinsider.com/articles/25/01/21/apples-biggest-innovation-of-the-last-25-years-isnt-the-iphone?utm_medium=rss)
- - [Best Electric Kettles of 2025](https://www.cnet.com/home/kitchen-and-household/best-electric-kettle/#ftag=CAD590a51e)
- - [Chinese smartphone sales fell 3.2% YoY in Q4 2024, the only 2024 quarter with a YoY drop; Apple fell 18.2% while Huawei rose 15.5% for an 18.1% market share &lpar;Counterpoint Research&rpar;](http://www.techmeme.com/250121/p4#a250121p4)<!-- TECH:END -->
+ - [Gold Sneakers and Too-Tight Suits: The Menswear Guy Weighs In on Inauguration Weekend](https://www.wired.com/story/menswear-guy-maga-tight-suits-gold-sneakers/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -159,7 +159,7 @@ R                        1 repo              ░░░░░░░░░░░�
 <!-- TECH:START -->
  - [Trump Signs Executive Order Saving TikTok for 75 Days](https://www.wired.com/story/trump-executive-order-tiktok-ban/)
  - [Trump signs executive order to reverse Biden’s electric vehicle policies](https://www.theverge.com/2025/1/20/24347980/trump-ev-order-carbon-emission-rule)
- - [Trump signs an EO that pauses the TikTok ban for 75 days to give ByteDance more time to reach a deal and provides a liability shield to TikTok&#39;s providers &lpar;Bobby Allyn/NPR&rpar;](http://www.techmeme.com/250120/p29#a250120p29)
+ - [Trump signs an EO that pauses the TikTok ban for 75 days to give ByteDance more time to reach a deal and provides a &quot;liability shield&quot; to TikTok&#39;s providers &lpar;Bobby Allyn/NPR&rpar;](http://www.techmeme.com/250120/p29#a250120p29)
  - [Proud Boys Leaders to Walk Free After Trump Releases All January 6 Rioters](https://www.wired.com/story/trump-pardons-proud-boys-enrique-tarrio-january-6/)
  - [Trump signs order refusing to enforce TikTok ban for 75 days](https://www.theverge.com/2025/1/20/24348213/trump-tiktok-ban-executive-order-sale-delay-china)<!-- TECH:END -->
 

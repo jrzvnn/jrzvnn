@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [*Beats Greyhound and Amtrak combined!](http://9gag.com/gag/avyyzrZ)
- - 😝 [Jeff Bezos Struggles With His Skin](http://9gag.com/gag/a2vvRDw)
- - 💣 [But it was romantic](http://9gag.com/gag/a5QQo7O)
- - 😝 [Congratulations. What sport by the way?](http://9gag.com/gag/an77Q15)
- - 👉 [How high voltage leaks are detected inside big power grids](http://9gag.com/gag/aLnnjmW)<!-- MEMES:END -->
+ - 😝 [Can\u2019t say black anymore](http://9gag.com/gag/avyyOWd)
+ - 😝 [How high voltage leaks are detected inside big power grids](http://9gag.com/gag/aLnnjmW)
+ - 💣 [Cheating with AI in school](http://9gag.com/gag/an77jv0)
+ - 😝 [Something is sus](http://9gag.com/gag/an779ez)
+ - 👉 [Bad luck](http://9gag.com/gag/axyy061)<!-- MEMES:END -->
 
 ---
 

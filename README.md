@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Love Story lol](http://9gag.com/gag/aqyyKQP)
- - 😝 [NSFW](http://9gag.com/gag/aByyg5Q)
- - 💣 [Who is protecting them ?](http://9gag.com/gag/a5QQRVO)
- - 😝 [Hell yeah](http://9gag.com/gag/a877GDO)
- - 👉 [We&#39;re waiting](http://9gag.com/gag/avyyovZ)<!-- MEMES:END -->
+ - 😝 [*Beats Greyhound and Amtrak combined!](http://9gag.com/gag/avyyzrZ)
+ - 😝 [Jeff Bezos Struggles With His Skin](http://9gag.com/gag/a2vvRDw)
+ - 💣 [But it was romantic](http://9gag.com/gag/a5QQo7O)
+ - 😝 [Congratulations. What sport by the way?](http://9gag.com/gag/an77Q15)
+ - 👉 [How high voltage leaks are detected inside big power grids](http://9gag.com/gag/aLnnjmW)<!-- MEMES:END -->
 
 ---
 

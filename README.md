@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [All the Top New Features in MacOS Sequoia](https://www.wired.com/story/apple-macos-sequoia-features/)
+ - [Samsung needs to give us a reason to care about new phones every year](https://www.theverge.com/2025/1/21/24346017/samsung-galaxy-unpacked-s25)
  - [17 Best Apple Watch Accessories &lpar;2025&rpar;: Bands, Chargers, Cases, and Screen Protectors](https://www.wired.com/gallery/best-apple-watch-accessories/)
  - [MicroStrategy bought 11,000 bitcoin for ~$1.1B, an average of $101,191, between January 13 and 20, taking its holding to 461,000, worth $48B+, or 2%+ of supply &lpar;James Hunt/The Block&rpar;](http://www.techmeme.com/250121/p6#a250121p6)
- - [4 Things Apple Maps Does Better Than Google Maps](https://www.wired.com/story/things-apple-maps-does-better-than-google-maps/)
- - [How Invasive Plants Are Fueling California’s Wildfire Crisis](https://www.wired.com/story/how-invasive-plants-are-fueling-californias-wildfire-crisis/)
- - [Best Sheets for Every Bed &amp; Budget, Tested &amp; Reviewed &lpar;2025&rpar;](https://www.wired.com/story/best-bedsheets/)<!-- TECH:END -->
+ - [4 Things Apple Maps Does Better Than Google Maps](https://www.wired.com/story/things-apple-maps-does-better-than-google-maps/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -167,10 +167,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [Fuk around and find out](http://9gag.com/gag/azxx1jK)
- - 😝 [Jeff Bezos Struggles With His Skin](http://9gag.com/gag/a2vvRDw)
- - 💣 [A thousand words communicated with just a smile](http://9gag.com/gag/aPAAYVV)
- - 😝 [Cheating with AI in school](http://9gag.com/gag/an77jv0)
- - 👉 [But it was romantic](http://9gag.com/gag/a5QQo7O)<!-- MEMES:END -->
+ - 😝 [Two types of autism](http://9gag.com/gag/aNDD0x4)
+ - 💣 [Cheating with AI in school](http://9gag.com/gag/an77jv0)
+ - 😝 [Impressive and frightener](http://9gag.com/gag/azxx81m)
+ - 👉 [Jeff Bezos Struggles With His Skin](http://9gag.com/gag/a2vvRDw)<!-- MEMES:END -->
 
 ---
 

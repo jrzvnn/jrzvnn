@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [NSFW](http://9gag.com/gag/aByyg5Q)
- - 😝 [Who is protecting them ?](http://9gag.com/gag/a5QQRVO)
- - 💣 [We&#39;re waiting](http://9gag.com/gag/avyyovZ)
- - 😝 [True love](http://9gag.com/gag/azxx1Kx)
- - 👉 [Hell yeah](http://9gag.com/gag/a877GDO)<!-- MEMES:END -->
+ - 😝 [As of today, it will henceforth be the official policy of the United States government that there are only two genders, male and female](http://9gag.com/gag/aQzz1Ke)
+ - 😝 [Bad luck](http://9gag.com/gag/axyy061)
+ - 💣 [Bad luck?](http://9gag.com/gag/abAAMxE)
+ - 😝 [Elon at the trump rally... he is a bit too excited.](http://9gag.com/gag/awyyopr)
+ - 👉 [Something is sus](http://9gag.com/gag/an779ez)<!-- MEMES:END -->
 
 ---
 

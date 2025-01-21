@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The 12 Best Cooling Pillows of 2025](https://www.cnet.com/health/sleep/best-cooling-pillows/#ftag=CAD590a51e)
  - [IMDb’s CEO, who founded the site 35 years ago, is stepping down](https://www.theverge.com/2025/1/21/24348616/imdb-founder-col-needham-ceo-nikki-santoro)
  - [CapCut is back online in the US](https://www.theverge.com/2025/1/21/24348629/capcut-back-online-us-tiktok-bytedance)
- - [A federal website on reproductive rights has vanished](https://www.theverge.com/2025/1/21/24348586/reproductive-right-federal-website-trump)
- - [Meta will soon let users link WhatsApp accounts with Instagram and Facebook, allowing cross posts of WhatsApp Statuses as Stories on Instagram and Facebook &lpar;Aisha Malik/TechCrunch&rpar;](http://www.techmeme.com/250121/p11#a250121p11)
- - [Apple&#39;s iPad Pro will see only minor 2025 update, says supply chain](https://appleinsider.com/articles/25/01/21/apples-ipad-pro-will-see-only-minor-2025-update-says-supply-chain?utm_medium=rss)<!-- TECH:END -->
+ - [7 Anti-Snoring Products for a Peaceful Slumber](https://www.cnet.com/health/sleep/anti-snoring-devices/#ftag=CAD590a51e)
+ - [A federal website on reproductive rights has vanished](https://www.theverge.com/2025/1/21/24348586/reproductive-right-federal-website-trump)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

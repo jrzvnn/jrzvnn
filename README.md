@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The UK government is launching a digital ID mobile app](https://www.theverge.com/2025/1/21/24348641/uk-government-digital-id-app-ios-android-launch)
- - [The 12 Best Cooling Pillows of 2025](https://www.cnet.com/health/sleep/best-cooling-pillows/#ftag=CAD590a51e)
- - [IMDb’s CEO, who founded the site 35 years ago, is stepping down](https://www.theverge.com/2025/1/21/24348616/imdb-founder-col-needham-ceo-nikki-santoro)
- - [CapCut is back online in the US](https://www.theverge.com/2025/1/21/24348629/capcut-back-online-us-tiktok-bytedance)
- - [7 Anti-Snoring Products for a Peaceful Slumber](https://www.cnet.com/health/sleep/anti-snoring-devices/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [ByteDance-owned video editing app CapCut is now working in the US, but is still not in app stores, after Trump signed an EO attempting to pause the TikTok ban &lpar;Lauren Feiner/The Verge&rpar;](http://www.techmeme.com/250121/p13#a250121p13)
+ - [Dodgy iPhone 17 Slim camera bar rumor just refuses to die](https://appleinsider.com/articles/25/01/21/dodgy-iphone-17-slim-camera-bar-rumor-just-refuses-to-die?utm_medium=rss)
+ - [WhatsApp will let you share your status on Instagram and Facebook](https://www.theverge.com/2025/1/21/24348626/whatsapp-meta-accounts-center-login-status-sharing-instagram-facebook-story)
+ - [Game Developers Are Getting Fed Up With Their Boss&#39; AI Initiatives](https://www.wired.com/story/video-game-industry-artificial-intelligence-developers/)
+ - [Omdia: by the end of 2024, TikTok generated ~$8B in ad revenue in the US and $63.3B globally, and surpassed 1.9B MAUs globally, including 145M MAUs in the US &lpar;Marta Balaga/Variety&rpar;](http://www.techmeme.com/250121/p12#a250121p12)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [But it was romantic](http://9gag.com/gag/a5QQo7O)
- - 😝 [Azra Ay Vandan, a Turkish OnlyFans model, was arrested in Istanbul after announcing plans to sleep with 100 men in 24 hours and live-stream it with her husband.](http://9gag.com/gag/aLnnDWA)
- - 💣 [A thousand words communicated with just a smile](http://9gag.com/gag/aPAAYVV)
- - 😝 [A Rabid Fox behaving like a Zombie. The Rabies Virus is named Rabies Lyssavirus &lpar;RABV&rpar;. It is a member of the Lyssavirus genus in the Rhabdoviridae family. One of the Scariest Virus on the Planet.](http://9gag.com/gag/aAyyxGd)
- - 👉 [Eat Meat](http://9gag.com/gag/aLnngEz)<!-- MEMES:END -->
+ - 😝 [Should learn anger management from this guy](http://9gag.com/gag/ajPP5Qg)
+ - 😝 [A thousand words communicated with just a smile](http://9gag.com/gag/aPAAYVV)
+ - 💣 [Jeff Bezos Struggles With His Skin](http://9gag.com/gag/a2vvRDw)
+ - 😝 [Share your apples with us](http://9gag.com/gag/a6ZZOG2)
+ - 👉 [How high voltage leaks are detected inside big power grids](http://9gag.com/gag/aLnnjmW)<!-- MEMES:END -->
 
 ---
 

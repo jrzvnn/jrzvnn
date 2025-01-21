@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [TurboTax Coupons and Deals: 10% Off Tax Services](https://www.wired.com/story/turbotax-coupon/)
+ - [VistaPrint Coupon: Get Up to $50 Off](https://www.wired.com/story/vistaprint-coupon-code/)
  - [How to get the Apple TV Snoopy screensaver on your Mac](https://appleinsider.com/inside/macos-sequoia/tips/how-to-get-the-apple-tv-snoopy-screensaver-on-your-mac?utm_medium=rss)
  - [Today&#39;s NYT Mini Crossword Answers for Tuesday, Jan. 21](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-tuesday-jan-21/#ftag=CAD590a51e)
- - [TikTok ban: all the news on the app’s shutdown and return in the US](https://www.theverge.com/23651507/tiktok-ban-us-news)
- - [Today&#39;s NYT Connections: Sports Edition Hints and Answers for Jan. 21, #120](https://www.cnet.com/tech/gaming/todays-nyt-connections-sports-edition-hints-and-answers-for-jan-21-120/#ftag=CAD590a51e)
- - [Card game Marvel Snap, published by ByteDance-owned Nuverse, is back online in the US and plans to &quot;partner with a new publisher&quot; to prevent future bans &lpar;Jay Peters/The Verge&rpar;](http://www.techmeme.com/250120/p32#a250120p32)<!-- TECH:END -->
+ - [TikTok ban: all the news on the app’s shutdown and return in the US](https://www.theverge.com/23651507/tiktok-ban-us-news)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

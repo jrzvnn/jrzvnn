@@ -160,8 +160,8 @@ R                        1 repo              ░░░░░░░░░░░�
  - [A24’s Opus blurs the line between fandom and faith in first trailer](https://www.theverge.com/2025/1/21/24348527/a24-opus-trailer-release-date)
  - [The UK debuts digital driving licenses and veteran ID cards, launching in 2025 via the GOV.UK Wallet, and AI tools, nicknamed &quot;Humphrey&quot;, to help civil servants &lpar;Anna Gross/Financial Times&rpar;](http://www.techmeme.com/250121/p9#a250121p9)
  - [How the future of sports streaming died](https://www.theverge.com/2025/1/21/24348517/venu-sports-espn-future-book-reading-digital-vergecast)
- - [&#39;Blink Twice&#39; Streaming Now: Where to Watch the Top-Rated Thriller](https://www.cnet.com/tech/services-and-software/blink-twice-streaming-now-where-to-watch-the-top-rated-thriller/#ftag=CAD590a51e)
- - [What to expect at Samsung’s Galaxy S25 event](https://www.theverge.com/2025/1/21/24348497/samsung-galaxy-s25-plus-ultra-unpacked-expected-announcements-ai-vr)<!-- TECH:END -->
+ - [What to expect at Samsung’s Galaxy S25 event](https://www.theverge.com/2025/1/21/24348497/samsung-galaxy-s25-plus-ultra-unpacked-expected-announcements-ai-vr)
+ - [Grindr debuts two of six features set for 2025, including an opt-in AI chat summary, and says 10K US users are testing its AI-based &quot;Wingman&quot;, ahead of schedule &lpar;Natalie Lung/Bloomberg&rpar;](http://www.techmeme.com/250121/p8#a250121p8)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

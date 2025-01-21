@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Trump signs an EO renaming the US Digital Service to the US DOGE Service, directing agency heads to form &quot;DOGE Teams&quot; of at least four members within 30 days &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/250120/p30#a250120p30)
  - [Trump Signs Executive Order Saving TikTok for 75 Days](https://www.wired.com/story/trump-executive-order-tiktok-ban/)
  - [Trump signs executive order to reverse Biden’s electric vehicle policies](https://www.theverge.com/2025/1/20/24347980/trump-ev-order-carbon-emission-rule)
  - [Trump signs an EO that pauses the TikTok ban for 75 days to give ByteDance more time to reach a deal and provides a &quot;liability shield&quot; to TikTok&#39;s providers &lpar;Bobby Allyn/NPR&rpar;](http://www.techmeme.com/250120/p29#a250120p29)
- - [Proud Boys Leaders to Walk Free After Trump Releases All January 6 Rioters](https://www.wired.com/story/trump-pardons-proud-boys-enrique-tarrio-january-6/)
- - [Trump signs order refusing to enforce TikTok ban for 75 days](https://www.theverge.com/2025/1/20/24348213/trump-tiktok-ban-executive-order-sale-delay-china)<!-- TECH:END -->
+ - [Proud Boys Leaders to Walk Free After Trump Releases All January 6 Rioters](https://www.wired.com/story/trump-pardons-proud-boys-enrique-tarrio-january-6/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

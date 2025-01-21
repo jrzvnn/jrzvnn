@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [Something is sus](http://9gag.com/gag/an779ez)
+ - 😝 [Literally came back to die](http://9gag.com/gag/aLnnjZg)
+ - 💣 [*Beats Greyhound and Amtrak combined!](http://9gag.com/gag/avyyzrZ)
  - 😝 [Cheating with AI in school](http://9gag.com/gag/an77jv0)
- - 😝 [How high voltage leaks are detected inside big power grids](http://9gag.com/gag/aLnnjmW)
- - 💣 [Share your apples with us](http://9gag.com/gag/a6ZZOG2)
- - 😝 [Bad luck?](http://9gag.com/gag/abAAMxE)
- - 👉 [Literally came back to die](http://9gag.com/gag/aLnnjZg)<!-- MEMES:END -->
+ - 👉 [Can\u2019t say black anymore](http://9gag.com/gag/avyyOWd)<!-- MEMES:END -->
 
 ---
 

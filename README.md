@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [How to get the Apple TV Snoopy screensaver on your Mac](https://appleinsider.com/inside/macos-sequoia/tips/how-to-get-the-apple-tv-snoopy-screensaver-on-your-mac?utm_medium=rss)
+ - [Today&#39;s NYT Mini Crossword Answers for Tuesday, Jan. 21](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-tuesday-jan-21/#ftag=CAD590a51e)
  - [TikTok ban: all the news on the app’s shutdown and return in the US](https://www.theverge.com/23651507/tiktok-ban-us-news)
- - [Card game Marvel Snap, published by ByteDance-owned Nuverse, is back online in the US and plans to &quot;partner with a new publisher&quot; to prevent future bans &lpar;Jay Peters/The Verge&rpar;](http://www.techmeme.com/250120/p32#a250120p32)
- - [Huawei plans to challenge Nvidia in China&#39;s AI chip market by positioning its latest Ascend AI processors as the hardware of choice for &quot;inference&quot; tasks &lpar;Eleanor Olcott/Financial Times&rpar;](http://www.techmeme.com/250120/p31#a250120p31)
- - [Marvel Snap is back in the US](https://www.theverge.com/2025/1/20/24348353/marvel-snap-tiktok-ban-back-online)
- - [Trump signs an EO renaming the US Digital Service to the US DOGE Service, directing agency heads to form &quot;DOGE Teams&quot; of at least four members within 30 days &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/250120/p30#a250120p30)<!-- TECH:END -->
+ - [Today&#39;s NYT Connections: Sports Edition Hints and Answers for Jan. 21, #120](https://www.cnet.com/tech/gaming/todays-nyt-connections-sports-edition-hints-and-answers-for-jan-21-120/#ftag=CAD590a51e)
+ - [Card game Marvel Snap, published by ByteDance-owned Nuverse, is back online in the US and plans to &quot;partner with a new publisher&quot; to prevent future bans &lpar;Jay Peters/The Verge&rpar;](http://www.techmeme.com/250120/p32#a250120p32)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Netflix reports Q4 revenue of $10.2B, up 16% YoY, an operating income of $2.3B, and 301.6M global subs, adding 18.9M subs, more than doubling Wall St. estimates &lpar;Lucas Shaw/Bloomberg&rpar;](http://www.techmeme.com/250121/p21#a250121p21)
+ - [Netflix is raising prices again, as the standard plan goes up to $17.99](https://www.theverge.com/2025/1/21/24348682/netflix-price-increase-earnings-q4-2024)
+ - [Perplexity debuts Sonar, an API service to let devs build AI search tools into their apps, with a base tier costing $5/1K searches and a pricier Sonar Pro tier &lpar;Maxwell Zeff/TechCrunch&rpar;](http://www.techmeme.com/250121/p20#a250121p20)
  - [The Switch 2 has a new trigger for disconnecting Joy-Con controllers](https://www.theverge.com/2025/1/21/24348868/nintendo-switch-2-new-trigger-disconnecting-joy-con-controllers)
- - [Apple Intelligence is enabled by default in iOS 18.3](https://www.theverge.com/2025/1/21/24348850/apple-intelligence-ai-default-setting-ios-18-3)
- - [Sources: Meta aims to debut glasses with a built-in display and new Oakley-branded smart glasses for athletes in 2025; it has resumed work on watches, earbuds &lpar;Mark Gurman/Bloomberg&rpar;](http://www.techmeme.com/250121/p19#a250121p19)
- - [Apple&#39;s biggest innovation of the last 25 years isn&#39;t the iPhone](https://appleinsider.com/articles/25/01/21/apples-biggest-innovation-of-the-last-25-years-isnt-the-iphone?utm_medium=rss)
- - [Best DNA Test for 2025](https://www.cnet.com/health/medical/best-dna-test/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Apple Intelligence is enabled by default in iOS 18.3](https://www.theverge.com/2025/1/21/24348850/apple-intelligence-ai-default-setting-ios-18-3)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

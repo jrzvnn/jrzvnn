@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Literally came back to die](http://9gag.com/gag/aLnnjZg)
- - 😝 [Squirrel used water gun](http://9gag.com/gag/abAAMBE)
- - 💣 [Something is sus](http://9gag.com/gag/an779ez)
- - 😝 [Cheating with AI in school](http://9gag.com/gag/an77jv0)
- - 👉 [Bad luck?](http://9gag.com/gag/abAAMxE)<!-- MEMES:END -->
+ - 😝 [New fear unlocked](http://9gag.com/gag/a7oowx2)
+ - 😝 [How high voltage leaks are detected inside big power grids](http://9gag.com/gag/aLnnjmW)
+ - 💣 [*Beats Greyhound and Amtrak combined!](http://9gag.com/gag/avyyzrZ)
+ - 😝 [Can\u2019t say black anymore](http://9gag.com/gag/avyyOWd)
+ - 👉 [Two types of autism](http://9gag.com/gag/aNDD0x4)<!-- MEMES:END -->
 
 ---
 

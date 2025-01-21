@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The UK debuts digital driving licenses and veteran ID cards, launching in 2025 via the GOV.UK Wallet, and AI tools, nicknamed &quot;Humphrey&quot;, to help civil servants &lpar;Anna Gross/Financial Times&rpar;](http://www.techmeme.com/250121/p9#a250121p9)
+ - [How the future of sports streaming died](https://www.theverge.com/2025/1/21/24348517/venu-sports-espn-future-book-reading-digital-vergecast)
  - [What to expect at Samsung’s Galaxy S25 event](https://www.theverge.com/2025/1/21/24348497/samsung-galaxy-s25-plus-ultra-unpacked-expected-announcements-ai-vr)
  - [Grindr unveils new features, including an opt-in AI chat summary, plans to launch six features in 2025, and says 10K users are testing its AI-powered &quot;Wingman&quot; &lpar;Natalie Lung/Bloomberg&rpar;](http://www.techmeme.com/250121/p8#a250121p8)
- - [Trump’s Day One Executive Orders Will Worsen Climate Crisis](https://www.wired.com/story/trumps-day-one-executive-orders-are-an-environmental-catastrophe/)
- - [IMDb says founder Col Needham will step down as CEO and become executive chair, and appoints COO Nikki Santoro as CEO; Needham launched IMDb in 1990 &lpar;Todd Spangler/Variety&rpar;](http://www.techmeme.com/250121/p7#a250121p7)
- - [All the Top New Features in MacOS Sequoia](https://www.wired.com/story/apple-macos-sequoia-features/)<!-- TECH:END -->
+ - [Trump’s Day One Executive Orders Will Worsen Climate Crisis](https://www.wired.com/story/trumps-day-one-executive-orders-are-an-environmental-catastrophe/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

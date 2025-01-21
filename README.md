@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [This video demonstrates how grapes in Afghanistan can be preserved for a period of up to six months using a traditional method called Kangina](http://9gag.com/gag/a7oow1b)
- - 😝 [Can\u2019t say black anymore](http://9gag.com/gag/avyyOWd)
- - 💣 [Jeff Bezos Struggles With His Skin](http://9gag.com/gag/a2vvRDw)
+ - 😝 [Share your apples with us](http://9gag.com/gag/a6ZZOG2)
+ - 😝 [Yikes\u2026lol](http://9gag.com/gag/a877oL3)
+ - 💣 [A Rabid Fox behaving like a Zombie. The Rabies Virus is named Rabies Lyssavirus &lpar;RABV&rpar;. It is a member of the Lyssavirus genus in the Rhabdoviridae family. One of the Scariest Virus on the Planet.](http://9gag.com/gag/aAyyxGd)
  - 😝 [*Beats Greyhound and Amtrak combined!](http://9gag.com/gag/avyyzrZ)
- - 👉 [Share your apples with us](http://9gag.com/gag/a6ZZOG2)<!-- MEMES:END -->
+ - 👉 [Two types of autism](http://9gag.com/gag/aNDD0x4)<!-- MEMES:END -->
 
 ---
 

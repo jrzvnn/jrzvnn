@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [True love](http://9gag.com/gag/azxx1Kx)
- - 😝 [Share your apples with us](http://9gag.com/gag/a6ZZOG2)
- - 💣 [Bad luck](http://9gag.com/gag/axyy061)
+ - 😝 [Cheating with AI in school](http://9gag.com/gag/an77jv0)
  - 😝 [How high voltage leaks are detected inside big power grids](http://9gag.com/gag/aLnnjmW)
- - 👉 [Two types of autism](http://9gag.com/gag/aNDD0x4)<!-- MEMES:END -->
+ - 💣 [Share your apples with us](http://9gag.com/gag/a6ZZOG2)
+ - 😝 [Bad luck?](http://9gag.com/gag/abAAMxE)
+ - 👉 [Literally came back to die](http://9gag.com/gag/aLnnjZg)<!-- MEMES:END -->
 
 ---
 

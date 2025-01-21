@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Deserved](http://9gag.com/gag/aZZZrmW)
- - 😝 [Meirl](http://9gag.com/gag/aGyyp55)
- - 💣 [The accent.](http://9gag.com/gag/aoyyggX)
- - 😝 [Yess !!! You talking to me](http://9gag.com/gag/avyyA8O)
- - 👉 [Genders 2025](http://9gag.com/gag/avyyAOO)<!-- MEMES:END -->
+ - 😝 [Something is sus](http://9gag.com/gag/an779ez)
+ - 😝 [How high voltage leaks are detected inside big power grids](http://9gag.com/gag/aLnnjmW)
+ - 💣 [Poor guy was just trying to do his job](http://9gag.com/gag/aoyyN3m)
+ - 😝 [Is that the future?](http://9gag.com/gag/adBBVD2)
+ - 👉 [Bad luck?](http://9gag.com/gag/abAAMxE)<!-- MEMES:END -->
 
 ---
 

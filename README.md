@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Sources: Elon Musk is set to get a West Wing office, putting him close to Trump, after Musk had for many days been asking about his level of access &lpar;New York Times&rpar;](http://www.techmeme.com/250121/p3#a250121p3)
+ - [Best Home Exercise Equipment for 2025](https://www.cnet.com/health/fitness/best-home-exercise-equipment/#ftag=CAD590a51e)
  - [Brendan Carr becomes FCC chair, and plans to focus on tech and media regulation, combating China, spectrum licenses, infrastructure, the space economy, and more &lpar;Lauren Feiner/The Verge&rpar;](http://www.techmeme.com/250121/p2#a250121p2)
  - [Legal experts and lawmakers: Trump&#39;s EO halting the TikTok ban may not protect companies that host or distribute the app, as Trump cannot overturn Congress&#39; law &lpar;Washington Post&rpar;](http://www.techmeme.com/250121/p1#a250121p1)
- - [Disney Lorcana Just Announced Its First Original Character And I Am Stoked](https://www.cnet.com/culture/entertainment/disney-lorcana-just-announced-its-first-original-character-and-i-am-stoked/#ftag=CAD590a51e)
- - [These Are the Best 3D Printers in 2025 &lpar;I’m Obsessed With the Top Two&rpar;](https://www.cnet.com/tech/computing/best-3d-printer/#ftag=CAD590a51e)
- - [Best Internet Providers in Ithaca, New York](https://www.cnet.com/home/internet/best-internet-providers-in-ithaca-ny/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Reach Your Savings Goal Faster With APYs Over 4%. Today&#39;s Savings Rates for Jan. 21, 2025](https://www.cnet.com/personal-finance/banking/reach-your-savings-goal-faster-with-apys-over-4-todays-savings-rates-for-jan-21-2025/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

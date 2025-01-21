@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Hell yeah](http://9gag.com/gag/a877GDO)
- - 😝 [Elon at the trump rally... he is a bit too excited.](http://9gag.com/gag/awyyopr)
- - 💣 [This is the only time in history that it should be legal to play that sound out loud lmao](http://9gag.com/gag/aVvvYn2)
- - 😝 [Love Story lol](http://9gag.com/gag/aqyyKQP)
- - 👉 [NSFW](http://9gag.com/gag/aByyg5Q)<!-- MEMES:END -->
+ - 😝 [*Beats Greyhound and Amtrak combined!](http://9gag.com/gag/avyyzrZ)
+ - 😝 [Bad luck](http://9gag.com/gag/axyy061)
+ - 💣 [Bad luck?](http://9gag.com/gag/abAAMxE)
+ - 😝 [A Rabid Fox behaving like a Zombie. The Rabies Virus is named Rabies Lyssavirus &lpar;RABV&rpar;. It is a member of the Lyssavirus genus in the Rhabdoviridae family. One of the Scariest Virus on the Planet.](http://9gag.com/gag/aAyyxGd)
+ - 👉 [Yikes\u2026lol](http://9gag.com/gag/a877oL3)<!-- MEMES:END -->
 
 ---
 

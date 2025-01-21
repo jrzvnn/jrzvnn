@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [How to mirror your iPhone screen on macOS](https://www.theverge.com/24348505/macos-ios-iphone-mirror-continuity-how-to)
  - [Balatro has sold over 1 million copies since December](https://www.theverge.com/2025/1/21/24348727/balatro-5-million-copies-the-game-awards)
  - [Microsoft will automatically keep you signed in to your account starting in February](https://www.theverge.com/2025/1/21/24348578/microsoft-account-sign-in-changes-february)
  - [Korg’s first record players are designed for DJs, audiophiles, and archivists](https://www.theverge.com/2025/1/21/24348638/korg-handytraxx-play-tube-1bit-record-player-turntable-vinyl)
- - [Broadcast TV Is Dying. Trump Is Threatening It Anyway](https://www.wired.com/story/broadcast-tv-is-dying-trump-threatening-it-anyway/)
- - [Volvo announces pricing for delayed EX30 compact SUV](https://www.theverge.com/2025/1/21/24348733/volvo-ex30-compact-suv-price-us)<!-- TECH:END -->
+ - [Broadcast TV Is Dying. Trump Is Threatening It Anyway](https://www.wired.com/story/broadcast-tv-is-dying-trump-threatening-it-anyway/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [But it was romantic](http://9gag.com/gag/a5QQo7O)
- - 😝 [Two types of autism](http://9gag.com/gag/aNDD0x4)
- - 💣 [Poor guy was just trying to do his job](http://9gag.com/gag/aoyyN3m)
- - 😝 [New fear unlocked](http://9gag.com/gag/a7oowx2)
- - 👉 [As of today, it will henceforth be the official policy of the United States government that there are only two genders, male and female](http://9gag.com/gag/aQzz1Ke)<!-- MEMES:END -->
+ - 😝 [We&#39;re waiting](http://9gag.com/gag/avyyovZ)
+ - 😝 [A power of sandal](http://9gag.com/gag/axyyMZb)
+ - 💣 [True love](http://9gag.com/gag/azxx1Kx)
+ - 😝 [Hell yeah](http://9gag.com/gag/a877GDO)
+ - 👉 [Congratulations. What sport by the way?](http://9gag.com/gag/an77Q15)<!-- MEMES:END -->
 
 ---
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [As of today, it will henceforth be the official policy of the United States government that there are only two genders, male and female](http://9gag.com/gag/aQzz1Ke)
- - 😝 [Bad luck](http://9gag.com/gag/axyy061)
- - 💣 [Bad luck?](http://9gag.com/gag/abAAMxE)
- - 😝 [Elon at the trump rally... he is a bit too excited.](http://9gag.com/gag/awyyopr)
- - 👉 [Something is sus](http://9gag.com/gag/an779ez)<!-- MEMES:END -->
+ - 😝 [But it was romantic](http://9gag.com/gag/a5QQo7O)
+ - 😝 [Two types of autism](http://9gag.com/gag/aNDD0x4)
+ - 💣 [Poor guy was just trying to do his job](http://9gag.com/gag/aoyyN3m)
+ - 😝 [New fear unlocked](http://9gag.com/gag/a7oowx2)
+ - 👉 [As of today, it will henceforth be the official policy of the United States government that there are only two genders, male and female](http://9gag.com/gag/aQzz1Ke)<!-- MEMES:END -->
 
 ---
 

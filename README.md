@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Trump says he’s open to Musk or Ellison buying TikTok](https://www.theverge.com/2025/1/21/24349011/trump-elon-musk-larry-ellison-oracle-tiktok-ban)
+ - [Tonight You Can Marvel at Six Planets in a Spectacular Planet Parade](https://www.cnet.com/science/how-to-see-january-21-planet-parade-six-planets-in-alignment/#ftag=CAD590a51e)
  - [Trump says he would be open to Elon Musk or Larry Ellison purchasing TikTok US as part of a joint venture that would give the US government 50% ownership &lpar;Bloomberg&rpar;](http://www.techmeme.com/250121/p29#a250121p29)
  - [Microsoft says it has a new deal with OpenAI that gives Microsoft &quot;right of first refusal&quot;, meaning it&#39;s no longer OpenAI&#39;s exclusive cloud provider &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/250121/p28#a250121p28)
- - [Microsoft is letting OpenAI get its own AI compute now](https://www.theverge.com/2025/1/21/24349006/microsoft-openai-compute-partnership)
- - [MrBeast joins an investor group led by Employer.com founder Jesse Tinsley in an all-cash bid to acquire TikTok US operations; several groups have shown interest &lpar;Alexandra S. Levine/Bloomberg&rpar;](http://www.techmeme.com/250121/p27#a250121p27)
- - [Apple Maps still calls it the Gulf of Mexico, and politicians are upset](https://appleinsider.com/articles/25/01/21/apple-maps-still-calls-it-the-gulf-of-mexico-and-politicians-are-upset?utm_medium=rss)<!-- TECH:END -->
+ - [Trump Says He Won&#39;t Enforce TikTok Ban Until Spring](https://www.cnet.com/tech/services-and-software/tiktok-takes-its-case-to-the-supreme-court-what-to-know/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

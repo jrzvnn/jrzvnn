@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [*Beats Greyhound and Amtrak combined!](http://9gag.com/gag/avyyzrZ)
- - 😝 [Bad luck](http://9gag.com/gag/axyy061)
- - 💣 [Bad luck?](http://9gag.com/gag/abAAMxE)
- - 😝 [A Rabid Fox behaving like a Zombie. The Rabies Virus is named Rabies Lyssavirus &lpar;RABV&rpar;. It is a member of the Lyssavirus genus in the Rhabdoviridae family. One of the Scariest Virus on the Planet.](http://9gag.com/gag/aAyyxGd)
- - 👉 [Yikes\u2026lol](http://9gag.com/gag/a877oL3)<!-- MEMES:END -->
+ - 😝 [Literally came back to die](http://9gag.com/gag/aLnnjZg)
+ - 😝 [Squirrel used water gun](http://9gag.com/gag/abAAMBE)
+ - 💣 [Something is sus](http://9gag.com/gag/an779ez)
+ - 😝 [Cheating with AI in school](http://9gag.com/gag/an77jv0)
+ - 👉 [Bad luck?](http://9gag.com/gag/abAAMxE)<!-- MEMES:END -->
 
 ---
 

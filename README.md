@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [As of today, it will henceforth be the official policy of the United States government that there are only two genders, male and female](http://9gag.com/gag/aQzz1Ke)
+ - 😝 [A Rabid Fox behaving like a Zombie. The Rabies Virus is named Rabies Lyssavirus &lpar;RABV&rpar;. It is a member of the Lyssavirus genus in the Rhabdoviridae family. One of the Scariest Virus on the Planet.](http://9gag.com/gag/aAyyxGd)
  - 😝 [Two types of autism](http://9gag.com/gag/aNDD0x4)
- - 💣 [New fear unlocked](http://9gag.com/gag/a7oowx2)
- - 😝 [Can\u2019t say black anymore](http://9gag.com/gag/avyyOWd)
- - 👉 [Bad luck?](http://9gag.com/gag/abAAMxE)<!-- MEMES:END -->
+ - 💣 [Bad luck](http://9gag.com/gag/axyy061)
+ - 😝 [New fear unlocked](http://9gag.com/gag/a7oowx2)
+ - 👉 [Hmmmm](http://9gag.com/gag/azxx9gz)<!-- MEMES:END -->
 
 ---
 

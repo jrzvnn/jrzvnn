@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Microsoft’s Steam-like browser overlay is now available on Windows 11](https://www.theverge.com/2025/1/21/24348858/microsoft-edge-game-assist-game-bar-browser)
  - [ACLU and 18 states sue Trump over his attempt to repeal birthright citizenship](https://www.theverge.com/2025/1/21/24348789/trump-birthright-citizenship-repeal-executive-order-h1b-lawsuit)
  - [Apple says installing macOS Sequoia 15.3, iOS 18.3, or iPadOS 18.3 will turn on Apple Intelligence automatically on compatible devices; users can opt out later &lpar;Juli Clover/MacRumors&rpar;](http://www.techmeme.com/250121/p18#a250121p18)
  - [The 31 Best Movies on Max &lpar;aka HBO Max&rpar; Right Now &lpar;January 2025&rpar;](https://www.wired.com/story/best-movies-hbo-max-right-now/)
- - [Meta says it will offer eligible TikTok creators free verification, content deals, and up to $5,000 in bonuses to post Reels &lpar;Aisha Malik/TechCrunch&rpar;](http://www.techmeme.com/250121/p17#a250121p17)
- - [DeepSeek&#39;s new MIT-licensed AI models can be accessed via DeepSeek&#39;s API at a fraction of the cost of comparable OpenAI models but there are censorship concerns &lpar;Radhika Rajkumar/ZDNET&rpar;](http://www.techmeme.com/250121/p16#a250121p16)<!-- TECH:END -->
+ - [Meta says it will offer eligible TikTok creators free verification, content deals, and up to $5,000 in bonuses to post Reels &lpar;Aisha Malik/TechCrunch&rpar;](http://www.techmeme.com/250121/p17#a250121p17)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

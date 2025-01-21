@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [OpenAI, SoftBank, and Oracle announce The Stargate Project, a JV to invest in US AI infrastructure, committing $100B now and up to $500B in the next four years &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/250121/p26#a250121p26)
  - [Nielsen: Netflix captured 8.5% of all US streaming viewership in December 2024, its highest share since July 2023, in part due to NFL games; YouTube had 11.1% &lpar;Drew Lerner/Awful Announcing&rpar;](http://www.techmeme.com/250121/p25#a250121p25)
  - [Crypto.com launches its institutional exchange service for US customers; it had closed the service in June 2023 due to &quot;limited demand&quot; &lpar;MK Manoylov/The Block&rpar;](http://www.techmeme.com/250121/p24#a250121p24)
  - [Sonic 4 comes to theaters in March 2027](https://www.theverge.com/2025/1/21/24348904/sonic-4-march-2027-paramount-movie-release-date)
- - [Tencent unveils Hunyuan3D 2.0, an AI system that turns single images or text prompts into 3D models in seconds, and open sources it on HuggingFace and GitHub &lpar;Michael Nu&amp;ntilde;ez/VentureBeat&rpar;](http://www.techmeme.com/250121/p23#a250121p23)
- - [iOS 18.3 RC introduces new Visual Intelligence features &amp; notification summaries changes](https://appleinsider.com/articles/25/01/21/ios-183-rc-introduces-new-visual-intelligence-features-notification-summaries-changes?utm_medium=rss)<!-- TECH:END -->
+ - [Tencent unveils Hunyuan3D 2.0, an AI system that turns single images or text prompts into 3D models in seconds, and open sources it on HuggingFace and GitHub &lpar;Michael Nu&amp;ntilde;ez/VentureBeat&rpar;](http://www.techmeme.com/250121/p23#a250121p23)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

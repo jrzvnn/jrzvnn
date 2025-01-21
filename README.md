@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Share your apples with us](http://9gag.com/gag/a6ZZOG2)
- - 😝 [Two types of autism](http://9gag.com/gag/aNDD0x4)
- - 💣 [Something is sus](http://9gag.com/gag/an779ez)
- - 😝 [Nice brake check bro](http://9gag.com/gag/aAyyG2L)
- - 👉 [Bad luck?](http://9gag.com/gag/abAAMxE)<!-- MEMES:END -->
+ - 😝 [Poor guy was just trying to do his job](http://9gag.com/gag/aoyyN3m)
+ - 😝 [People on twitter these days man](http://9gag.com/gag/a7oowoq)
+ - 💣 [Share your apples with us](http://9gag.com/gag/a6ZZOG2)
+ - 😝 [Something is sus](http://9gag.com/gag/an779ez)
+ - 👉 [Wild genetics...](http://9gag.com/gag/axyy97W)<!-- MEMES:END -->
 
 ---
 

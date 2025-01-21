@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The Switch 2 has a new trigger for disconnecting Joy-Con controllers](https://www.theverge.com/2025/1/21/24348868/nintendo-switch-2-new-trigger-disconnecting-joy-con-controllers)
  - [Apple Intelligence is enabled by default in iOS 18.3](https://www.theverge.com/2025/1/21/24348850/apple-intelligence-ai-default-setting-ios-18-3)
  - [Sources: Meta aims to debut glasses with a built-in display and new Oakley-branded smart glasses for athletes in 2025; it has resumed work on watches, earbuds &lpar;Mark Gurman/Bloomberg&rpar;](http://www.techmeme.com/250121/p19#a250121p19)
  - [Apple&#39;s biggest innovation of the last 25 years isn&#39;t the iPhone](https://appleinsider.com/articles/25/01/21/apples-biggest-innovation-of-the-last-25-years-isnt-the-iphone?utm_medium=rss)
- - [Microsoft’s Steam-like browser overlay is now available on Windows 11](https://www.theverge.com/2025/1/21/24348858/microsoft-edge-game-assist-game-bar-browser)
- - [ACLU and 18 states sue Trump over his attempt to repeal birthright citizenship](https://www.theverge.com/2025/1/21/24348789/trump-birthright-citizenship-repeal-executive-order-h1b-lawsuit)<!-- TECH:END -->
+ - [Best DNA Test for 2025](https://www.cnet.com/health/medical/best-dna-test/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

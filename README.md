@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Survey of 3,000+ game devs: 11% were laid off in the past year, 58% back unionization, 30% say generative AI is having a negative impact on the industry, more &lpar;Dean Takahashi/VentureBeat&rpar;](http://www.techmeme.com/250121/p30#a250121p30)
+ - [Marvel Snap is back online in the US after outage caused by the TikTok ban](https://appleinsider.com/articles/25/01/21/marvel-snap-is-back-online-in-the-us-after-outage-caused-by-the-tiktok-ban?utm_medium=rss)
  - [Trump says he’s open to Musk or Ellison buying TikTok](https://www.theverge.com/2025/1/21/24349011/trump-elon-musk-larry-ellison-oracle-tiktok-ban)
  - [Tonight You Can Marvel at Six Planets in a Spectacular Planet Parade](https://www.cnet.com/science/how-to-see-january-21-planet-parade-six-planets-in-alignment/#ftag=CAD590a51e)
- - [Trump says he would be open to Elon Musk or Larry Ellison purchasing TikTok US as part of a joint venture that would give the US government 50% ownership &lpar;Bloomberg&rpar;](http://www.techmeme.com/250121/p29#a250121p29)
- - [Microsoft says it has a new deal with OpenAI that gives Microsoft &quot;right of first refusal&quot;, meaning it&#39;s no longer OpenAI&#39;s exclusive cloud provider &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/250121/p28#a250121p28)
- - [Trump Says He Won&#39;t Enforce TikTok Ban Until Spring](https://www.cnet.com/tech/services-and-software/tiktok-takes-its-case-to-the-supreme-court-what-to-know/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Trump says he would be open to Elon Musk or Larry Ellison purchasing TikTok US as part of a joint venture that would give the US government 50% ownership &lpar;Bloomberg&rpar;](http://www.techmeme.com/250121/p29#a250121p29)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

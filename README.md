@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Two types of autism](http://9gag.com/gag/aNDD0x4)
- - 😝 [Something is sus](http://9gag.com/gag/an779ez)
- - 💣 [How high voltage leaks are detected inside big power grids](http://9gag.com/gag/aLnnjmW)
- - 😝 [Elon at the trump rally... he is a bit too excited.](http://9gag.com/gag/awyyopr)
- - 👉 [Congratulations. What sport by the way?](http://9gag.com/gag/an77Q15)<!-- MEMES:END -->
+ - 😝 [Is that the future?](http://9gag.com/gag/adBBVD2)
+ - 😝 [Congratulations. What sport by the way?](http://9gag.com/gag/an77Q15)
+ - 💣 [A thousand words communicated with just a smile](http://9gag.com/gag/aPAAYVV)
+ - 😝 [It feels like this guy has outlasted 3 US presidents](http://9gag.com/gag/aKGG7mQ)
+ - 👉 [New fear unlocked](http://9gag.com/gag/a7oowx2)<!-- MEMES:END -->
 
 ---
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Something is sus](http://9gag.com/gag/an779ez)
- - 😝 [Literally came back to die](http://9gag.com/gag/aLnnjZg)
- - 💣 [*Beats Greyhound and Amtrak combined!](http://9gag.com/gag/avyyzrZ)
- - 😝 [Cheating with AI in school](http://9gag.com/gag/an77jv0)
- - 👉 [Can\u2019t say black anymore](http://9gag.com/gag/avyyOWd)<!-- MEMES:END -->
+ - 😝 [Hell yeah](http://9gag.com/gag/a877GDO)
+ - 😝 [Elon at the trump rally... he is a bit too excited.](http://9gag.com/gag/awyyopr)
+ - 💣 [This is the only time in history that it should be legal to play that sound out loud lmao](http://9gag.com/gag/aVvvYn2)
+ - 😝 [Love Story lol](http://9gag.com/gag/aqyyKQP)
+ - 👉 [NSFW](http://9gag.com/gag/aByyg5Q)<!-- MEMES:END -->
 
 ---
 

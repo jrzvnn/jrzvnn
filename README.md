@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Best Amazon deals on Apple: $23 AirTag, up to $250 off MacBooks, $300 off iPad Pro](https://appleinsider.com/articles/25/01/21/best-amazon-deals-on-apple-23-airtag-up-to-250-off-macbooks-300-off-ipad-pro?utm_medium=rss)
  - [OpenAI and Softbank are starting a $500 billion AI data center company](https://www.theverge.com/2025/1/21/24348816/openai-softbank-ai-data-center-stargate-project)
  - [How Meta Tried To Lure TikTok Users To Instagram](https://www.wired.com/story/how-meta-tried-to-lure-tiktok-users-to-instagram/)
  - [Meta’s next smart glasses may be with Oakley](https://www.theverge.com/2025/1/21/24348949/metas-next-smart-glasses-may-be-with-oakley)
- - [OpenAI, SoftBank, and Oracle announce The Stargate Project, a JV to invest in US AI infrastructure, committing $100B now and up to $500B in the next four years &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/250121/p26#a250121p26)
- - [Today&#39;s NYT Connections Hints, Answers and Help for Jan. 22, #591](https://www.cnet.com/tech/gaming/todays-nyt-connections-hints-answers-and-help-for-jan-22-591/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [OpenAI, SoftBank, and Oracle announce The Stargate Project, a JV to invest in US AI infrastructure, committing $100B now and up to $500B in the next four years &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/250121/p26#a250121p26)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

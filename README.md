@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Trump hesitates over instituting China tariffs that would hurt Apple](https://appleinsider.com/articles/25/01/21/trump-hesitates-over-instituting-china-tariffs-that-would-hurt-apple?utm_medium=rss)
  - [TikTok isn’t back in the App Store yet](https://www.theverge.com/2025/1/19/24347340/tiktok-ban-app-store-google-play)
  - [Fujifilm’s new hybrid instant camera features its widest lens yet](https://www.theverge.com/2025/1/21/24348502/fujifilm-instax-wide-evo-hybrid-instant-camera-photography-printer)
  - [Donald Trump rescinds Biden-era executive order on AI safety](https://www.theverge.com/2025/1/21/24348504/donald-trump-ai-safety-executive-order-rescind)
- - [Instagram is reportedly trying to attract TikTok creators with large bonuses](https://www.theverge.com/2025/1/21/24348510/instagram-tiktok-creators-bonuses)
- - [A24’s Opus blurs the line between fandom and faith in first trailer](https://www.theverge.com/2025/1/21/24348527/a24-opus-trailer-release-date)<!-- TECH:END -->
+ - [Instagram is reportedly trying to attract TikTok creators with large bonuses](https://www.theverge.com/2025/1/21/24348510/instagram-tiktok-creators-bonuses)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

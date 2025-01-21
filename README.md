@@ -166,10 +166,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [As of today, it will henceforth be the official policy of the United States government that there are only two genders, male and female](http://9gag.com/gag/aQzz1Ke)
  - 😝 [Two types of autism](http://9gag.com/gag/aNDD0x4)
- - 😝 [Something is sus](http://9gag.com/gag/an779ez)
  - 💣 [New fear unlocked](http://9gag.com/gag/a7oowx2)
- - 😝 [A thousand words communicated with just a smile](http://9gag.com/gag/aPAAYVV)
+ - 😝 [Can\u2019t say black anymore](http://9gag.com/gag/avyyOWd)
  - 👉 [Bad luck?](http://9gag.com/gag/abAAMxE)<!-- MEMES:END -->
 
 ---

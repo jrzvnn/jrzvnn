@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Apple won&#39;t return TikTok to the App Store until it&#39;s sold to a U.S. buyer](https://appleinsider.com/articles/25/01/21/apple-wont-return-tiktok-to-the-app-store-until-its-sold-to-a-us-buyer?utm_medium=rss)
  - [ByteDance-owned video editing app CapCut is now working in the US, but is still not in app stores, after Trump signed an EO attempting to pause the TikTok ban &lpar;Lauren Feiner/The Verge&rpar;](http://www.techmeme.com/250121/p13#a250121p13)
  - [Dodgy iPhone 17 Slim camera bar rumor just refuses to die](https://appleinsider.com/articles/25/01/21/dodgy-iphone-17-slim-camera-bar-rumor-just-refuses-to-die?utm_medium=rss)
  - [WhatsApp will let you share your status on Instagram and Facebook](https://www.theverge.com/2025/1/21/24348626/whatsapp-meta-accounts-center-login-status-sharing-instagram-facebook-story)
- - [Game Developers Are Getting Fed Up With Their Bosses’ AI Initiatives](https://www.wired.com/story/video-game-industry-artificial-intelligence-developers/)
- - [Omdia: by the end of 2024, TikTok generated ~$8B in ad revenue in the US and $63.3B globally, and surpassed 1.9B MAUs globally, including 145M MAUs in the US &lpar;Marta Balaga/Variety&rpar;](http://www.techmeme.com/250121/p12#a250121p12)<!-- TECH:END -->
+ - [Game Developers Are Getting Fed Up With Their Bosses’ AI Initiatives](https://www.wired.com/story/video-game-industry-artificial-intelligence-developers/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

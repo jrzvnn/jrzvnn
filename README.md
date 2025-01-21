@@ -166,10 +166,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Something is sus](http://9gag.com/gag/an779ez)
- - 😝 [How high voltage leaks are detected inside big power grids](http://9gag.com/gag/aLnnjmW)
- - 💣 [Poor guy was just trying to do his job](http://9gag.com/gag/aoyyN3m)
- - 😝 [Is that the future?](http://9gag.com/gag/adBBVD2)
+ - 😝 [Share your apples with us](http://9gag.com/gag/a6ZZOG2)
+ - 😝 [Two types of autism](http://9gag.com/gag/aNDD0x4)
+ - 💣 [Something is sus](http://9gag.com/gag/an779ez)
+ - 😝 [Nice brake check bro](http://9gag.com/gag/aAyyG2L)
  - 👉 [Bad luck?](http://9gag.com/gag/abAAMxE)<!-- MEMES:END -->
 
 ---

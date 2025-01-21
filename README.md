@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Yikes\u2026lol](http://9gag.com/gag/a877oL3)
- - 😝 [A Rabid Fox behaving like a Zombie. The Rabies Virus is named Rabies Lyssavirus &lpar;RABV&rpar;. It is a member of the Lyssavirus genus in the Rhabdoviridae family. One of the Scariest Virus on the Planet.](http://9gag.com/gag/aAyyxGd)
- - 💣 [Can\u2019t say black anymore](http://9gag.com/gag/avyyOWd)
- - 😝 [*Beats Greyhound and Amtrak combined!](http://9gag.com/gag/avyyzrZ)
- - 👉 [Impressive and frightener](http://9gag.com/gag/azxx81m)<!-- MEMES:END -->
+ - 😝 [Do you hate when people have loud phone conversations?\u2026](http://9gag.com/gag/aPAARzK)
+ - 😝 [Who wore it better?](http://9gag.com/gag/awyyo51)
+ - 💣 [NSFW](http://9gag.com/gag/aByyg5Q)
+ - 😝 [Love Story lol](http://9gag.com/gag/aqyyKQP)
+ - 👉 [This is the only time in history that it should be legal to play that sound out loud lmao](http://9gag.com/gag/aVvvYn2)<!-- MEMES:END -->
 
 ---
 

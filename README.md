@@ -166,10 +166,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Bad luck?](http://9gag.com/gag/abAAMxE)
+ - 😝 [Yikes\u2026lol](http://9gag.com/gag/a877oL3)
  - 😝 [Two types of autism](http://9gag.com/gag/aNDD0x4)
- - 💣 [Yikes\u2026lol](http://9gag.com/gag/a877oL3)
- - 😝 [Elon at the trump rally... he is a bit too excited.](http://9gag.com/gag/awyyopr)
+ - 💣 [Elon at the trump rally... he is a bit too excited.](http://9gag.com/gag/awyyopr)
+ - 😝 [Congratulations. What sport by the way?](http://9gag.com/gag/an77Q15)
  - 👉 [New fear unlocked](http://9gag.com/gag/a7oowx2)<!-- MEMES:END -->
 
 ---

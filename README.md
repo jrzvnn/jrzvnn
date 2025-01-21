@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Chinese smartphone sales fell 3.2% YoY in Q4 2024, the only 2024 quarter with a YoY drop; Apple fell 18.2% while Huawei rose 15.5% for an 18.1% market share &lpar;Counterpoint Research&rpar;](http://www.techmeme.com/250121/p4#a250121p4)
  - [Sources: Elon Musk is set to get a West Wing office, putting him close to Trump, after Musk had for many days been asking about his level of access &lpar;New York Times&rpar;](http://www.techmeme.com/250121/p3#a250121p3)
  - [Best Home Exercise Equipment for 2025](https://www.cnet.com/health/fitness/best-home-exercise-equipment/#ftag=CAD590a51e)
  - [Brendan Carr becomes FCC chair, and plans to focus on tech and media regulation, combating China, spectrum licenses, infrastructure, the space economy, and more &lpar;Lauren Feiner/The Verge&rpar;](http://www.techmeme.com/250121/p2#a250121p2)
- - [Legal experts and lawmakers: Trump&#39;s EO halting the TikTok ban may not protect companies that host or distribute the app, as Trump cannot overturn Congress&#39; law &lpar;Washington Post&rpar;](http://www.techmeme.com/250121/p1#a250121p1)
- - [Reach Your Savings Goal Faster With APYs Over 4%. Today&#39;s Savings Rates for Jan. 21, 2025](https://www.cnet.com/personal-finance/banking/reach-your-savings-goal-faster-with-apys-over-4-todays-savings-rates-for-jan-21-2025/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Legal experts and lawmakers: Trump&#39;s EO halting the TikTok ban may not protect companies that host or distribute the app, as Trump cannot overturn Congress&#39; law &lpar;Washington Post&rpar;](http://www.techmeme.com/250121/p1#a250121p1)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

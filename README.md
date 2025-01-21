@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [We&#39;re waiting](http://9gag.com/gag/avyyovZ)
- - 😝 [A power of sandal](http://9gag.com/gag/axyyMZb)
- - 💣 [True love](http://9gag.com/gag/azxx1Kx)
- - 😝 [Hell yeah](http://9gag.com/gag/a877GDO)
- - 👉 [Congratulations. What sport by the way?](http://9gag.com/gag/an77Q15)<!-- MEMES:END -->
+ - 😝 [Two types of autism](http://9gag.com/gag/aNDD0x4)
+ - 😝 [Something is sus](http://9gag.com/gag/an779ez)
+ - 💣 [New fear unlocked](http://9gag.com/gag/a7oowx2)
+ - 😝 [A thousand words communicated with just a smile](http://9gag.com/gag/aPAAYVV)
+ - 👉 [Bad luck?](http://9gag.com/gag/abAAMxE)<!-- MEMES:END -->
 
 ---
 

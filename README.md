@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [A thousand words communicated with just a smile](http://9gag.com/gag/aPAAYVV)
- - 😝 [A Rabid Fox behaving like a Zombie. The Rabies Virus is named Rabies Lyssavirus &lpar;RABV&rpar;. It is a member of the Lyssavirus genus in the Rhabdoviridae family. One of the Scariest Virus on the Planet.](http://9gag.com/gag/aAyyxGd)
- - 💣 [Bad luck](http://9gag.com/gag/axyy061)
- - 😝 [How high voltage leaks are detected inside big power grids](http://9gag.com/gag/aLnnjmW)
- - 👉 [Jeff Bezos Struggles With His Skin](http://9gag.com/gag/a2vvRDw)<!-- MEMES:END -->
+ - 😝 [Something is sus](http://9gag.com/gag/an779ez)
+ - 😝 [Yikes\u2026lol](http://9gag.com/gag/a877oL3)
+ - 💣 [Two types of autism](http://9gag.com/gag/aNDD0x4)
+ - 😝 [Elon at the trump rally... he is a bit too excited.](http://9gag.com/gag/awyyopr)
+ - 👉 [Congratulations. What sport by the way?](http://9gag.com/gag/an77Q15)<!-- MEMES:END -->
 
 ---
 

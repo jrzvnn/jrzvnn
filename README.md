@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [17 Best Apple Watch Accessories &lpar;2025&rpar;: Bands, Chargers, Cases, and Screen Protectors](https://www.wired.com/gallery/best-apple-watch-accessories/)
+ - [MicroStrategy bought 11,000 bitcoin for ~$1.1B, an average of $101,191, between January 13 and 20, taking its holding to 461,000, worth $48B+, or 2%+ of supply &lpar;James Hunt/The Block&rpar;](http://www.techmeme.com/250121/p6#a250121p6)
  - [4 Things Apple Maps Does Better Than Google Maps](https://www.wired.com/story/things-apple-maps-does-better-than-google-maps/)
  - [How Invasive Plants Are Fueling California’s Wildfire Crisis](https://www.wired.com/story/how-invasive-plants-are-fueling-californias-wildfire-crisis/)
- - [Best Sheets for Every Bed &amp; Budget, Tested &amp; Reviewed &lpar;2025&rpar;](https://www.wired.com/story/best-bedsheets/)
- - [Trump hesitates over instituting China tariffs that would hurt Apple](https://appleinsider.com/articles/25/01/21/trump-hesitates-over-instituting-china-tariffs-that-would-hurt-apple?utm_medium=rss)
- - [Best Internet Providers in Yonkers, New York](https://www.cnet.com/home/internet/best-internet-providers-in-yonkers-ny/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Best Sheets for Every Bed &amp; Budget, Tested &amp; Reviewed &lpar;2025&rpar;](https://www.wired.com/story/best-bedsheets/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

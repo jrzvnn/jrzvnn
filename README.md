@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Is that the future?](http://9gag.com/gag/adBBVD2)
- - 😝 [Congratulations. What sport by the way?](http://9gag.com/gag/an77Q15)
- - 💣 [A thousand words communicated with just a smile](http://9gag.com/gag/aPAAYVV)
- - 😝 [It feels like this guy has outlasted 3 US presidents](http://9gag.com/gag/aKGG7mQ)
- - 👉 [New fear unlocked](http://9gag.com/gag/a7oowx2)<!-- MEMES:END -->
+ - 😝 [Deserved](http://9gag.com/gag/aZZZrmW)
+ - 😝 [Meirl](http://9gag.com/gag/aGyyp55)
+ - 💣 [The accent.](http://9gag.com/gag/aoyyggX)
+ - 😝 [Yess !!! You talking to me](http://9gag.com/gag/avyyA8O)
+ - 👉 [Genders 2025](http://9gag.com/gag/avyyAOO)<!-- MEMES:END -->
 
 ---
 

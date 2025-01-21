@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Apple Intelligence is enabled by default in iOS 18.3](https://www.theverge.com/2025/1/21/24348850/apple-intelligence-ai-default-setting-ios-18-3)
+ - [Sources: Meta aims to debut glasses with a built-in display and new Oakley-branded smart glasses for athletes in 2025; it has resumed work on watches, earbuds &lpar;Mark Gurman/Bloomberg&rpar;](http://www.techmeme.com/250121/p19#a250121p19)
+ - [Apple&#39;s biggest innovation of the last 25 years isn&#39;t the iPhone](https://appleinsider.com/articles/25/01/21/apples-biggest-innovation-of-the-last-25-years-isnt-the-iphone?utm_medium=rss)
  - [Microsoft’s Steam-like browser overlay is now available on Windows 11](https://www.theverge.com/2025/1/21/24348858/microsoft-edge-game-assist-game-bar-browser)
- - [ACLU and 18 states sue Trump over his attempt to repeal birthright citizenship](https://www.theverge.com/2025/1/21/24348789/trump-birthright-citizenship-repeal-executive-order-h1b-lawsuit)
- - [Apple says installing macOS Sequoia 15.3, iOS 18.3, or iPadOS 18.3 will turn on Apple Intelligence automatically on compatible devices; users can opt out later &lpar;Juli Clover/MacRumors&rpar;](http://www.techmeme.com/250121/p18#a250121p18)
- - [The 31 Best Movies on Max &lpar;aka HBO Max&rpar; Right Now &lpar;January 2025&rpar;](https://www.wired.com/story/best-movies-hbo-max-right-now/)
- - [Meta says it will offer eligible TikTok creators free verification, content deals, and up to $5,000 in bonuses to post Reels &lpar;Aisha Malik/TechCrunch&rpar;](http://www.techmeme.com/250121/p17#a250121p17)<!-- TECH:END -->
+ - [ACLU and 18 states sue Trump over his attempt to repeal birthright citizenship](https://www.theverge.com/2025/1/21/24348789/trump-birthright-citizenship-repeal-executive-order-h1b-lawsuit)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

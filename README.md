@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Should learn anger management from this guy](http://9gag.com/gag/ajPP5Qg)
- - 😝 [A thousand words communicated with just a smile](http://9gag.com/gag/aPAAYVV)
- - 💣 [Jeff Bezos Struggles With His Skin](http://9gag.com/gag/a2vvRDw)
  - 😝 [Share your apples with us](http://9gag.com/gag/a6ZZOG2)
- - 👉 [How high voltage leaks are detected inside big power grids](http://9gag.com/gag/aLnnjmW)<!-- MEMES:END -->
+ - 😝 [Two types of autism](http://9gag.com/gag/aNDD0x4)
+ - 💣 [Theres a photo online of a dude who killed a hippo with one](http://9gag.com/gag/aD22z0w)
+ - 😝 [A thousand words communicated with just a smile](http://9gag.com/gag/aPAAYVV)
+ - 👉 [Jeff Bezos Struggles With His Skin](http://9gag.com/gag/a2vvRDw)<!-- MEMES:END -->
 
 ---
 

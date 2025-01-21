@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Microsoft will automatically keep you signed into your account starting in February](https://www.theverge.com/2025/1/21/24348578/microsoft-account-sign-in-changes-february)
+ - [Balatro has sold over 1 million copies since December](https://www.theverge.com/2025/1/21/24348727/balatro-5-million-copies-the-game-awards)
+ - [Microsoft will automatically keep you signed in to your account starting in February](https://www.theverge.com/2025/1/21/24348578/microsoft-account-sign-in-changes-february)
  - [Korg’s first record players are designed for DJs, audiophiles, and archivists](https://www.theverge.com/2025/1/21/24348638/korg-handytraxx-play-tube-1bit-record-player-turntable-vinyl)
  - [Broadcast TV Is Dying. Trump Is Threatening It Anyway](https://www.wired.com/story/broadcast-tv-is-dying-trump-threatening-it-anyway/)
- - [Volvo announces pricing for delayed EX30 compact SUV](https://www.theverge.com/2025/1/21/24348733/volvo-ex30-compact-suv-price-us)
- - [The SEC launches a &quot;Crypto 2.0&quot; task force led by SEC Commissioner Hester Peirce, to create a &quot;comprehensive and clear regulatory framework for crypto assets&quot; &lpar;Jeff Cox/CNBC&rpar;](http://www.techmeme.com/250121/p15#a250121p15)<!-- TECH:END -->
+ - [Volvo announces pricing for delayed EX30 compact SUV](https://www.theverge.com/2025/1/21/24348733/volvo-ex30-compact-suv-price-us)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

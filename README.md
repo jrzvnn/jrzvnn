@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Nielsen: Netflix captured 8.5% of all US streaming viewership in December 2024, its highest share since July 2023, in part due to NFL games; YouTube had 11.1% &lpar;Drew Lerner/Awful Announcing&rpar;](http://www.techmeme.com/250121/p25#a250121p25)
+ - [Crypto.com launches its institutional exchange service for US customers; it had closed the service in June 2023 due to &quot;limited demand&quot; &lpar;MK Manoylov/The Block&rpar;](http://www.techmeme.com/250121/p24#a250121p24)
+ - [Sonic 4 comes to theaters in March 2027](https://www.theverge.com/2025/1/21/24348904/sonic-4-march-2027-paramount-movie-release-date)
  - [Tencent unveils Hunyuan3D 2.0, an AI system that turns single images or text prompts into 3D models in seconds, and open sources it on HuggingFace and GitHub &lpar;Michael Nu&amp;ntilde;ez/VentureBeat&rpar;](http://www.techmeme.com/250121/p23#a250121p23)
- - [iOS 18.3 RC introduces new Visual Intelligence features &amp; notification summaries changes](https://appleinsider.com/articles/25/01/21/ios-183-rc-introduces-new-visual-intelligence-features-notification-summaries-changes?utm_medium=rss)
- - [Netflix raises prices in the US, Canada, Portugal, and Argentina; the standard US plan rises from $15.49 to $17.99, standard with ads jumps a dollar to $7.99 &lpar;Nicole Sperling/New York Times&rpar;](http://www.techmeme.com/250121/p22#a250121p22)
- - [Netflix reports Q4 revenue up 16% YoY to $10.2B and 301.6M global subs, adding 18.9M subs, more than doubling Wall Street estimates; NFLX jumps 13%+ after hours &lpar;Lucas Shaw/Bloomberg&rpar;](http://www.techmeme.com/250121/p21#a250121p21)
- - [Netflix is raising prices again, as the standard plan goes up to $17.99](https://www.theverge.com/2025/1/21/24348682/netflix-price-increase-earnings-q4-2024)<!-- TECH:END -->
+ - [iOS 18.3 RC introduces new Visual Intelligence features &amp; notification summaries changes](https://appleinsider.com/articles/25/01/21/ios-183-rc-introduces-new-visual-intelligence-features-notification-summaries-changes?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

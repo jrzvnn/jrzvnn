@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Apple&#39;s iPad Pro will see only minor 2025 update, says supply chain](https://appleinsider.com/articles/25/01/21/apples-ipad-pro-will-see-only-minor-2025-update-says-supply-chain?utm_medium=rss)
+ - [Infinity Nikki’s new season brings the game’s biggest update yet](https://www.theverge.com/2025/1/21/24348535/infinity-nikki-firework-season-update-trailer-january-date)
  - [Circle, which issues the USDC stablecoin, acquired Hashnote; rwa.xyz data: Hashnote&#39;s USYC token last year become the largest tokenized US Treasury product &lpar;Krisztian Sandor/CoinDesk&rpar;](http://www.techmeme.com/250121/p10#a250121p10)
  - [Today’s the last day to get $50 in credit when you preorder Samsung’s new Galaxy devices](https://www.theverge.com/2025/1/21/24343975/samsung-galaxy-s25-jbl-clip-5-deal-sale)
- - [Apple&#39;s iPhone locked in a tie for second place in China with Xiaomi](https://appleinsider.com/articles/25/01/21/apples-iphone-locked-in-a-tie-for-second-place-in-china-with-xiaomi?utm_medium=rss)
- - [Trump hesitates over instituting China tariffs that would hurt Apple](https://appleinsider.com/articles/25/01/21/trump-hesitates-over-instituting-china-tariffs-that-would-hurt-apple?utm_medium=rss)
- - [TikTok isn’t back in the App Store yet](https://www.theverge.com/2025/1/19/24347340/tiktok-ban-app-store-google-play)<!-- TECH:END -->
+ - [6 Best Cheap Mattress for 2025 – Save on Your Next Bed](https://www.cnet.com/health/sleep/best-cheap-mattress/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

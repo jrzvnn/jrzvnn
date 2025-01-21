@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Apple Maps still calls it the Gulf of Mexico, and politicians are upset](https://appleinsider.com/articles/25/01/21/apple-maps-still-calls-it-the-gulf-of-mexico-and-politicians-are-upset?utm_medium=rss)
+ - [Netflix is getting another price hike to kick off 2025](https://appleinsider.com/articles/25/01/21/netflix-is-getting-another-price-hike-to-kick-off-2025?utm_medium=rss)
  - [Best Amazon deals on Apple: $23 AirTag, up to $250 off MacBooks, $300 off iPad Pro](https://appleinsider.com/articles/25/01/21/best-amazon-deals-on-apple-23-airtag-up-to-250-off-macbooks-300-off-ipad-pro?utm_medium=rss)
  - [OpenAI and Softbank are starting a $500 billion AI data center company](https://www.theverge.com/2025/1/21/24348816/openai-softbank-ai-data-center-stargate-project)
- - [How Meta Tried To Lure TikTok Users To Instagram](https://www.wired.com/story/how-meta-tried-to-lure-tiktok-users-to-instagram/)
- - [Meta’s next smart glasses may be with Oakley](https://www.theverge.com/2025/1/21/24348949/metas-next-smart-glasses-may-be-with-oakley)
- - [OpenAI, SoftBank, and Oracle announce The Stargate Project, a JV to invest in US AI infrastructure, committing $100B now and up to $500B in the next four years &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/250121/p26#a250121p26)<!-- TECH:END -->
+ - [How Meta Tried To Lure TikTok Users to Instagram](https://www.wired.com/story/how-meta-tried-to-lure-tiktok-users-to-instagram/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

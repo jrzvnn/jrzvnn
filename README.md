@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Poor guy was just trying to do his job](http://9gag.com/gag/aoyyN3m)
- - 😝 [People on twitter these days man](http://9gag.com/gag/a7oowoq)
- - 💣 [Share your apples with us](http://9gag.com/gag/a6ZZOG2)
- - 😝 [Something is sus](http://9gag.com/gag/an779ez)
- - 👉 [Wild genetics...](http://9gag.com/gag/axyy97W)<!-- MEMES:END -->
+ - 😝 [Deserved](http://9gag.com/gag/aZZZrmW)
+ - 😝 [Yess !!! You talking to me](http://9gag.com/gag/avyyA8O)
+ - 💣 [The accent.](http://9gag.com/gag/aoyyggX)
+ - 😝 [`My Local Pub Is Older Than Your Country`](http://9gag.com/gag/avyy5mb)
+ - 👉 [LED guy really is something else](http://9gag.com/gag/aO88Q5N)<!-- MEMES:END -->
 
 ---
 

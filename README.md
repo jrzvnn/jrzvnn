@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [UK CMA Chair Marcus Bokkerink plans to leave the antitrust agency, after pressure from UK ministers; the CMA appoints ex-Amazon exec Doug Gurr as interim chair &lpar;Financial Times&rpar;](http://www.techmeme.com/250122/p11#a250122p11)
  - [In 2024, Cloudflare&#39;s autonomous DDoS defense systems blocked 21.3M DDoS attacks, up 53% YoY, and 420 DDoS attacks in Q4 2024 exceeded 1 Tbps, up 1,885% QoQ &lpar;The Cloudflare Blog&rpar;](http://www.techmeme.com/250122/p10#a250122p10)
  - [Eager to attract investments, politicians in Brazil, India, and other non-Western nations with nascent AI regulations have warmly welcomed major AI companies &lpar;Rest of World&rpar;](http://www.techmeme.com/250122/p9#a250122p9)
  - [Best Clothing Subscription Boxes for 2025](https://www.cnet.com/tech/services-and-software/best-clothing-subscription-boxes/#ftag=CAD590a51e)
- - [Best Air Fryer Toaster Ovens for 2025](https://www.cnet.com/home/kitchen-and-household/best-countertop-oven-and-air-fryer/#ftag=CAD590a51e)
- - [Days before TikTok briefly went dark, Instagram and Facebook made design tweaks, released new features, and ran ads promoting its apps as TikTok alternatives &lpar;Louise Matsakis/Wired&rpar;](http://www.techmeme.com/250122/p8#a250122p8)<!-- TECH:END -->
+ - [Best Air Fryer Toaster Ovens for 2025](https://www.cnet.com/home/kitchen-and-household/best-countertop-oven-and-air-fryer/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

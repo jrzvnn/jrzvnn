@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Great Polish show, I&#39;ll watch again 9/10](http://9gag.com/gag/apRRgnE)
- - 😝 [Yess !!! You talking to me](http://9gag.com/gag/avyyA8O)
- - 💣 [The accent.](http://9gag.com/gag/aoyyggX)
- - 😝 [`My Local Pub Is Older Than Your Country`](http://9gag.com/gag/avyy5mb)
- - 👉 [Genders 2025](http://9gag.com/gag/avyyAOO)<!-- MEMES:END -->
+ - 😝 [Eat Meat](http://9gag.com/gag/aLnngEz)
+ - 😝 [Something is sus](http://9gag.com/gag/an779ez)
+ - 💣 [This video demonstrates how grapes in Afghanistan can be preserved for a period of up to six months using a traditional method called Kangina](http://9gag.com/gag/a7oow1b)
+ - 😝 [Wild genetics...](http://9gag.com/gag/axyy97W)
+ - 👉 [*Beats Greyhound and Amtrak combined!](http://9gag.com/gag/avyyzrZ)<!-- MEMES:END -->
 
 ---
 

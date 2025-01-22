@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Eat Meat](http://9gag.com/gag/aLnngEz)
- - 😝 [Something is sus](http://9gag.com/gag/an779ez)
- - 💣 [This video demonstrates how grapes in Afghanistan can be preserved for a period of up to six months using a traditional method called Kangina](http://9gag.com/gag/a7oow1b)
- - 😝 [Wild genetics...](http://9gag.com/gag/axyy97W)
- - 👉 [*Beats Greyhound and Amtrak combined!](http://9gag.com/gag/avyyzrZ)<!-- MEMES:END -->
+ - 😝 [Two types of autism](http://9gag.com/gag/aNDD0x4)
+ - 😝 [Jeff Bezos Struggles With His Skin](http://9gag.com/gag/a2vvRDw)
+ - 💣 [Eat Meat](http://9gag.com/gag/aLnngEz)
+ - 😝 [Share your apples with us](http://9gag.com/gag/a6ZZOG2)
+ - 👉 [People on twitter these days man](http://9gag.com/gag/a7oowoq)<!-- MEMES:END -->
 
 ---
 

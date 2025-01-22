@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Samsung&#39;s mobile chief TM Roh says Samsung and Google are working on AR glasses, but doesn&#39;t provide further details or a launch timeframe &lpar;Mark Gurman/Bloomberg&rpar;](http://www.techmeme.com/250122/p34#a250122p34)
+ - [Google says Galaxy S25 supports the Gemini Nano AI model and Samsung&#39;s TalkBack accessibility app is the first non-Google app to use the model &lpar;Mishaal Rahman/Android Police&rpar;](http://www.techmeme.com/250122/p33#a250122p33)
+ - [Google reportedly worked directly with Israel’s military on AI tools](https://www.theverge.com/2025/1/22/24349582/google-israel-defense-forces-idf-contract-gaza)
  - [Trump’s war on electric cars has only just begun](https://www.theverge.com/2025/1/22/24349650/trump-ev-tax-credit-tariff-congress)
- - [Samsung updates its Wallet app with &quot;Instant Installment&quot;, its take on BNPL, and &quot;Tap to Transfer&quot;, similar to Apple&#39;s Tap to Cash, both coming later in 2025 &lpar;Cherlynn Low/Engadget&rpar;](http://www.techmeme.com/250122/p32#a250122p32)
- - [Save $350 on Apple&#39;s M4 Max MacBook Pro 16-inch in latest price war](https://appleinsider.com/articles/25/01/22/save-350-on-apples-m4-max-macbook-pro-16-inch-in-latest-price-war?utm_medium=rss)
- - [Google details improvements to Android&#39;s Circle to Search, including automatically recognizing phone numbers, addresses, and URLs, expanded AI Overviews, more &lpar;Mishaal Rahman/Android Faithful&rpar;](http://www.techmeme.com/250122/p31#a250122p31)
- - [Samsung and Google are developing AR glasses together](https://www.theverge.com/2025/1/22/24347908/samsung-google-ar-glasses-android-xr-unpacked-january-2025)<!-- TECH:END -->
+ - [Samsung updates its Wallet app with &quot;Instant Installment&quot;, its take on BNPL, and &quot;Tap to Transfer&quot;, similar to Apple&#39;s Tap to Cash, both coming later in 2025 &lpar;Cherlynn Low/Engadget&rpar;](http://www.techmeme.com/250122/p32#a250122p32)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

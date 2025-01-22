@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Deserved](http://9gag.com/gag/aZZZrmW)
- - 😝 [Yess !!! You talking to me](http://9gag.com/gag/avyyA8O)
- - 💣 [The accent.](http://9gag.com/gag/aoyyggX)
- - 😝 [`My Local Pub Is Older Than Your Country`](http://9gag.com/gag/avyy5mb)
- - 👉 [LED guy really is something else](http://9gag.com/gag/aO88Q5N)<!-- MEMES:END -->
+ - 😝 [Share your apples with us](http://9gag.com/gag/a6ZZOG2)
+ - 😝 [How high voltage leaks are detected inside big power grids](http://9gag.com/gag/aLnnjmW)
+ - 💣 [Eat Meat](http://9gag.com/gag/aLnngEz)
+ - 😝 [Harvesting durian](http://9gag.com/gag/aD224QO)
+ - 👉 [*Beats Greyhound and Amtrak combined!](http://9gag.com/gag/avyyzrZ)<!-- MEMES:END -->
 
 ---
 

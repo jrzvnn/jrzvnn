@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [How to Send Cash](https://www.wired.com/story/how-to-send-cash/)
+ - [Here’s the tech that could turn millions of Zigbee light bulbs into motion sensors with a single update](https://www.theverge.com/2025/1/22/24348688/zigbee-ambient-sensing-philips-hue-ivani-sensify)
  - [M4 Mac mini review three months later: the perfect headless Mac](https://appleinsider.com/articles/25/01/22/m4-mac-mini-review-three-months-later-the-perfect-headless-mac?utm_medium=rss)
- - [Google unveils classroom and accessibility ChromeOS features, including rolling out a tool to let users control a device with their head and facial expressions &lpar;Antonio G. Di Benedetto/The Verge&rpar;](http://www.techmeme.com/250122/p15#a250122p15)
- - [Memo: ByteDance asks Chinese staff in Singapore to pay tax to China or risk losing their ability to cash out on stock options, as China steps up tax enforcement &lpar;Financial Times&rpar;](http://www.techmeme.com/250122/p14#a250122p14)
- - [Google will let you control your Chromebook with your face](https://www.theverge.com/2025/1/22/24348966/google-chromeos-face-control-chromebooks-classroom-features-laptops)
- - [Indonesia&#39;s long iPhone 16 ban may end soon](https://appleinsider.com/articles/25/01/22/indonesias-long-iphone-16-ban-may-end-soon?utm_medium=rss)<!-- TECH:END -->
+ - [Best Moving Companies of 2025](https://www.cnet.com/home/services/best-moving-companies/#ftag=CAD590a51e)
+ - [13 Foods That Will Give Your Kidney Health a Boost](https://www.cnet.com/health/nutrition/foods-give-kidney-health-boost/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

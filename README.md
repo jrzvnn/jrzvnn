@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Microsoft to buy 3.5M carbon credits, estimated to be worth about $200M, from Re.green over 25 years to restore parts of Brazil&#39;s Amazon and Atlantic forests &lpar;Kenza Bryan/Financial Times&rpar;](http://www.techmeme.com/250122/p4#a250122p4)
+ - [TurboTax Coupons and Deals: Extra 20% Off](https://www.wired.com/story/turbotax-coupon/)
  - [The Trump administration removed all advisory committee members within the DHS, including those in CISA and CSRB, which was investigating Salt Typhoon &lpar;Becky Bracken/Dark Reading&rpar;](http://www.techmeme.com/250122/p3#a250122p3)
- - [Sources: Google is investing over $1B more in Anthropic, which is also nearing a further $2B funding round from Lightspeed and other VCs at a ~$60B valuation &lpar;Financial Times&rpar;](http://www.techmeme.com/250122/p2#a250122p2)
- - [DealStreetAsia: Southeast Asian startups raised $4.56B in 2024, down 42% YoY and falling to a fifth of a 2021 peak, as the number of deals fell 10% YoY to 633 &lpar;Tsubasa Suruga/Nikkei Asia&rpar;](http://www.techmeme.com/250122/p1#a250122p1)
- - [An internal probe into SoftBank-backed eFishery, one of Indonesia&#39;s most prominent startups, finds the agritech company allegedly faked most of its 2024 sales &lpar;Bloomberg&rpar;](http://www.techmeme.com/250121/p39#a250121p39)
- - [How to use Clean Up in iOS 18 Photos to remove distractions](https://appleinsider.com/inside/ios-18/tips/how-to-use-clean-up-in-ios-181-photos-to-remove-distractions?utm_medium=rss)<!-- TECH:END -->
+ - [Best Smart Scale for 2025](https://www.cnet.com/health/fitness/best-smart-scale/#ftag=CAD590a51e)
+ - [Sources: Google is investing over $1B more in Anthropic, which is also nearing a further $2B funding round from Lightspeed and other VCs at a ~$60B valuation &lpar;Financial Times&rpar;](http://www.techmeme.com/250122/p2#a250122p2)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

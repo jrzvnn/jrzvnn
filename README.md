@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Eager to attract investments, politicians in Brazil, India, and other non-Western nations with nascent AI regulations have warmly welcomed major AI companies &lpar;Rest of World&rpar;](http://www.techmeme.com/250122/p9#a250122p9)
  - [Days before TikTok briefly went dark, Instagram and Facebook made design tweaks, released new features, and ran ads promoting its apps as TikTok alternatives &lpar;Louise Matsakis/Wired&rpar;](http://www.techmeme.com/250122/p8#a250122p8)
  - [Quant trading firm XTX, managing $250B+ in daily trades, plans to invest &amp;euro;1B+ on five data centers in Finland to support its growing use of machine learning &lpar;Bloomberg&rpar;](http://www.techmeme.com/250122/p7#a250122p7)
  - [Best Internet Providers in Poughkeepsie, New York](https://www.cnet.com/home/internet/best-internet-providers-in-poughkeepsie-ny/#ftag=CAD590a51e)
- - [Some crypto executives fear investor backlash over $TRUMP and $MELANIA memecoins; CoinMarketCap reports most $TRUMP trading is concentrated on Asian exchanges &lpar;Financial Times&rpar;](http://www.techmeme.com/250122/p6#a250122p6)
- - [Truecaller rolls out real-time caller ID to its ~750K iOS subscribers, who account for 40% of its revenue; Truecaller has 2.6M+ paying subscribers in total &lpar;TechCrunch&rpar;](http://www.techmeme.com/250122/p5#a250122p5)<!-- TECH:END -->
+ - [Some crypto executives fear investor backlash over $TRUMP and $MELANIA memecoins; CoinMarketCap reports most $TRUMP trading is concentrated on Asian exchanges &lpar;Financial Times&rpar;](http://www.techmeme.com/250122/p6#a250122p6)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

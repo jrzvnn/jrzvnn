@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Tumblr’s experimental GIF feed finally launches after 10 years](https://www.theverge.com/2025/1/22/24349904/tumblr-tv-gif-video-tab)
+ - [Today&#39;s NYT Connections Hints, Answers and Help for Jan. 23, #592](https://www.cnet.com/tech/gaming/todays-nyt-connections-hints-answers-and-help-for-jan-23-592/#ftag=CAD590a51e)
  - [Celeste developers cancel follow-up game Earthblade](https://www.theverge.com/2025/1/22/24349916/celeste-developers-cancel-earthblade-extremely-ok-games)
- - [Apple will still have to deal with a class-action lawsuit alleging pay disparity](https://appleinsider.com/articles/25/01/22/apple-will-still-have-to-deal-with-a-class-action-lawsuit-alleging-pay-disparity?utm_medium=rss)
- - [Elon Musk Plays DOGE Ball—and Hits America’s Geek Squad](https://www.wired.com/story/plaintext-trump-musk-us-digital-service-doge/)
- - [eBay Sellers Are Hawking Used Phones With TikTok Preinstalled for Thousands of Dollars](https://www.wired.com/story/ebay-sellers-are-hawking-used-phones-with-tiktok-pre-installed-for-thousands-of-dollars/)
- - [An analysis of two years of episodes by nine prominent podcasters shows how they became mainstream sources for young men and rallied support for Trump&#39;s agenda &lpar;Bloomberg&rpar;](http://www.techmeme.com/250122/p45#a250122p45)<!-- TECH:END -->
+ - [Best Home Security Systems for Renters in 2025](https://www.cnet.com/home/security/best-home-security-systems-for-renters/#ftag=CAD590a51e)
+ - [Apple will still have to deal with a class-action lawsuit alleging pay disparity](https://appleinsider.com/articles/25/01/22/apple-will-still-have-to-deal-with-a-class-action-lawsuit-alleging-pay-disparity?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

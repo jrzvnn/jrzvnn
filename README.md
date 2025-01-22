@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Sorry guys](http://9gag.com/gag/axyy7NL)
- - 😝 [Confusion](http://9gag.com/gag/aKGGEvW)
- - 💣 [This video demonstrates how grapes in Afghanistan can be preserved for a period of up to six months using a traditional method called Kangina](http://9gag.com/gag/a7oow1b)
+ - 😝 [Share your apples with us](http://9gag.com/gag/a6ZZOG2)
  - 😝 [Nice jacket!](http://9gag.com/gag/aO88xv3)
- - 👉 [Congratulations. What sport by the way?](http://9gag.com/gag/an77Q15)<!-- MEMES:END -->
+ - 💣 [New fear unlocked](http://9gag.com/gag/a7oowx2)
+ - 😝 [Love Story lol](http://9gag.com/gag/aqyyKQP)
+ - 👉 [*Beats Greyhound and Amtrak combined!](http://9gag.com/gag/avyyzrZ)<!-- MEMES:END -->
 
 ---
 

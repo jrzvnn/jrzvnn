@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [An analysis of two years of episodes by nine prominent podcasters shows how they became mainstream sources for young men and rallied support for Trump&#39;s agenda &lpar;Bloomberg&rpar;](http://www.techmeme.com/250122/p45#a250122p45)
+ - [Best Heated Blankets of 2025](https://www.cnet.com/health/sleep/best-heated-blankets/#ftag=CAD590a51e)
  - [Nvidia’s triple-fan GPU cooler was one step along the way to a slimmer RTX 5090](https://www.theverge.com/2025/1/22/24349781/nvidia-quad-slot-titan-ada-4090-gpu-cooler-prototype-real)
- - [Canon set a new record with its 410-megapixel 35mm camera sensor](https://www.theverge.com/2025/1/22/24349792/canon-cmos-sensor-410-megapixels-35-millimeter-full-frame-photography)
- - [Google’s Gemini is already winning the next-gen assistant wars](https://www.theverge.com/2025/1/22/24349416/google-gemini-virtual-assistant-samsung-siri-alexa)
- - [Here’s how the new Galaxy S25 stacks up to the S25 Plus and S25 Ultra](https://www.theverge.com/24345428/samsung-galaxy-s25-plus-ultra-specs-comparison-price)
- - [Best Melatonin Supplements of 2025](https://www.cnet.com/health/nutrition/best-melatonin-supplements/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Best Samsung Galaxy S24, S24 Plus and S24 Ultra Cases for 2025](https://www.cnet.com/tech/mobile/best-samsung-galaxy-s24-s24-plus-and-s24-ultra-cases/#ftag=CAD590a51e)
+ - [Canon set a new record with its 410-megapixel 35mm camera sensor](https://www.theverge.com/2025/1/22/24349792/canon-cmos-sensor-410-megapixels-35-millimeter-full-frame-photography)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

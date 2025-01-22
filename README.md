@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [For side money!](http://9gag.com/gag/a2vv7PO)
- - 😝 [Confusion](http://9gag.com/gag/aKGGEvW)
- - 💣 [LED guy really is something else](http://9gag.com/gag/aO88Q5N)
- - 😝 [Cucky brits](http://9gag.com/gag/aGyyp1Z)
- - 👉 [So many stupid people buy a dog based on its looks.](http://9gag.com/gag/a8777L1)<!-- MEMES:END -->
+ - 😝 [As Salmon](http://9gag.com/gag/a344Z63)
+ - 😝 [*Beats Greyhound and Amtrak combined!](http://9gag.com/gag/avyyzrZ)
+ - 💣 [NSFW](http://9gag.com/gag/aByyg5Q)
+ - 😝 [I guess](http://9gag.com/gag/a2vvKBe)
+ - 👉 [Illegaluigi. From the archives circa 2014](http://9gag.com/gag/aO88xe6)<!-- MEMES:END -->
 
 ---
 

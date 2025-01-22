@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [This is the Samsung Galaxy S25 Edge slimmed-down smartphone](https://www.theverge.com/2025/1/22/24349658/samsung-galaxy-s25-edge-photos-unpacked)
+ - [Source: Trump had a lengthy conversation with Sam Altman last week about the potential of AI and the need to develop the tech in the US &lpar;Kate Rooney/CNBC&rpar;](http://www.techmeme.com/250122/p40#a250122p40)
+ - [11 Best Android Phones of 2025, Tested and Reviewed](https://www.wired.com/gallery/best-android-phones/)
+ - [This is the Samsung Galaxy S25 Edge](https://www.theverge.com/2025/1/22/24349658/samsung-galaxy-s25-edge-photos-unpacked)
  - [Samsung&#39;s Galaxy S25 lineup will be the first handsets to support the Content Credentials standard, which identifies AI-generated images &lpar;Brian Heater/TechCrunch&rpar;](http://www.techmeme.com/250122/p39#a250122p39)
- - [Xbox beta tests support for massive amounts of external storage](https://www.theverge.com/2025/1/22/24349689/xbox-series-x-s-16tb-external-drive-storage-limit)
- - [London-based Lindus Health, which has built a software platform for running clinical trials, raised a $55M Series B led by Balderton Capital &lpar;Paul Sawers/TechCrunch&rpar;](http://www.techmeme.com/250122/p38#a250122p38)
- - [Samsung teases the Galaxy S25 Edge; an exec says it aims to sell the ultra-thin phone in the US and other markets by the middle of 2025, priced under $1,300 &lpar;Mark Gurman/Bloomberg&rpar;](http://www.techmeme.com/250122/p37#a250122p37)<!-- TECH:END -->
+ - [Xbox beta tests support for massive amounts of external storage](https://www.theverge.com/2025/1/22/24349689/xbox-series-x-s-16tb-external-drive-storage-limit)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

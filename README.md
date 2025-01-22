@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Two types of autism](http://9gag.com/gag/aNDD0x4)
- - 😝 [Jeff Bezos Struggles With His Skin](http://9gag.com/gag/a2vvRDw)
- - 💣 [Eat Meat](http://9gag.com/gag/aLnngEz)
+ - 😝 [Harvesting durian](http://9gag.com/gag/aD224QO)
  - 😝 [Share your apples with us](http://9gag.com/gag/a6ZZOG2)
- - 👉 [People on twitter these days man](http://9gag.com/gag/a7oowoq)<!-- MEMES:END -->
+ - 💣 [People on twitter these days man](http://9gag.com/gag/a7oowoq)
+ - 😝 [Hmmmm](http://9gag.com/gag/azxx9gz)
+ - 👉 [It\u2019s never been easier to be successful. Your competition is so weak they can\u2019t even focus for 2 minutes.](http://9gag.com/gag/aO8873R)<!-- MEMES:END -->
 
 ---
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Samsung claims its new Galaxy S25 Ultra glass can survive head-high drops on concrete](https://www.theverge.com/2025/1/22/24349700/samsung-s25-ultra-corning-gorilla-armor-2-ceramic)
+ - [The Galaxy S25 Edge is Samsung’s rumored ‘slim’ phone](https://www.theverge.com/2025/1/22/24349652/samsung-galaxy-s25-edge-teased)
+ - [The US Has Bird Flu Vaccines. Here’s Why You Can’t Get One](https://www.wired.com/story/the-us-has-bird-flu-vaccines-heres-why-you-cant-get-one/)
  - [A lot of people signed up for Netflix to watch Jake Paul fight Mike Tyson](https://www.theverge.com/2025/1/22/24349654/netflix-live-events-nfl-mike-tyson-jake-paul-subscribers)
- - [Leaker&#39;s iOS 18.3 reveals suggest M4 iPad Air &amp; iPhone SE 4 are close to launch](https://appleinsider.com/articles/25/01/22/leakers-ios-183-reveals-suggest-m4-ipad-air-iphone-se-4-are-close-to-launch?utm_medium=rss)
- - [Samsung banks on a hybrid AI strategy, using Google features backed by Gemini and internally developed AI features for One UI 7, to spur smartphone demand &lpar;Bloomberg&rpar;](http://www.techmeme.com/250122/p35#a250122p35)
- - [Samsung&#39;s mobile chief TM Roh says Samsung and Google are working on AR glasses, but doesn&#39;t provide further details or a launch timeframe &lpar;Mark Gurman/Bloomberg&rpar;](http://www.techmeme.com/250122/p34#a250122p34)
- - [Google says Galaxy S25 supports the Gemini Nano AI model and Samsung&#39;s TalkBack accessibility app is the first non-Google app to use the model &lpar;Mishaal Rahman/Android Police&rpar;](http://www.techmeme.com/250122/p33#a250122p33)<!-- TECH:END -->
+ - [Leaker&#39;s iOS 18.3 reveals suggest M4 iPad Air &amp; iPhone SE 4 are close to launch](https://appleinsider.com/articles/25/01/22/leakers-ios-183-reveals-suggest-m4-ipad-air-iphone-se-4-are-close-to-launch?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

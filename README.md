@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Nice brake check bro](http://9gag.com/gag/aAyyG2L)
+ - 😝 [I guess](http://9gag.com/gag/a2vvKBe)
  - 😝 [Harvesting durian](http://9gag.com/gag/aD224QO)
- - 💣 [I guess](http://9gag.com/gag/a2vvKBe)
- - 😝 [Just in case if you wonder how POV videos are made](http://9gag.com/gag/azxx5mq)
- - 👉 [Can\u2019t not love this guy. GOAT William Dafoe](http://9gag.com/gag/a877ALO)<!-- MEMES:END -->
+ - 💣 [Congratulations. What sport by the way?](http://9gag.com/gag/an77Q15)
+ - 😝 [Looking for this Cinderella](http://9gag.com/gag/a0eeooZ)
+ - 👉 [Is that the future?](http://9gag.com/gag/adBBVD2)<!-- MEMES:END -->
 
 ---
 

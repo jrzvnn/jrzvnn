@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Nice brake check bro](http://9gag.com/gag/aAyyG2L)
- - 😝 [Wild genetics...](http://9gag.com/gag/axyy97W)
+ - 😝 [It\u2019s never been easier to be successful. Your competition is so weak they can\u2019t even focus for 2 minutes.](http://9gag.com/gag/aO8873R)
+ - 😝 [Sorry guys](http://9gag.com/gag/axyy7NL)
  - 💣 [Congratulations. What sport by the way?](http://9gag.com/gag/an77Q15)
- - 😝 [*Beats Greyhound and Amtrak combined!](http://9gag.com/gag/avyyzrZ)
- - 👉 [Hell yeah](http://9gag.com/gag/ayNN22Y)<!-- MEMES:END -->
+ - 😝 [Is that the future?](http://9gag.com/gag/adBBVD2)
+ - 👉 [Confusion](http://9gag.com/gag/aKGGEvW)<!-- MEMES:END -->
 
 ---
 

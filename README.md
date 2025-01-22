@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [History fact](http://9gag.com/gag/ajPPg0G)
+ - 😝 [Would you try one of these?](http://9gag.com/gag/aGyyd2Z)
+ - 💣 [Love Story lol](http://9gag.com/gag/aqyyKQP)
  - 😝 [Nice brake check bro](http://9gag.com/gag/aAyyG2L)
- - 😝 [Congratulations. What sport by the way?](http://9gag.com/gag/an77Q15)
- - 💣 [Is that the future?](http://9gag.com/gag/adBBVD2)
- - 😝 [Share your apples with us](http://9gag.com/gag/a6ZZOG2)
- - 👉 [Eat Meat](http://9gag.com/gag/aLnngEz)<!-- MEMES:END -->
+ - 👉 [Congratulations. What sport by the way?](http://9gag.com/gag/an77Q15)<!-- MEMES:END -->
 
 ---
 

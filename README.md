@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Samsung teases the Galaxy S25 Edge; an exec says it aims to sell the ultra-thin phone in the US and other markets by the middle of 2025, priced under $1,300 &lpar;Mark Gurman/Bloomberg&rpar;](http://www.techmeme.com/250122/p37#a250122p37)
  - [New survey reports one in 10 game developers have lost their jobs in 2024](https://www.theverge.com/2025/1/22/24349728/gdc-state-of-the-industry-survey-2025-results)
  - [Dozen of subreddits are banning links to X](https://www.theverge.com/2025/1/22/24349467/reddit-subreddit-x-twitter-link-bans-elon-musk-nazi-salute)
  - [Here’s what Samsung’s first Android XR headset looks like in person](https://www.theverge.com/2025/1/22/24349736/samsung-project-moohan-photos-android-xr-headset)
- - [Where to preorder the Samsung Galaxy S25, S25 Plus, and S25 Ultra](https://www.theverge.com/24346252/samsung-galaxy-s25-plus-ultra-how-to-buy-preorder-price-release-date)
- - [Sources: Trump administration dismissed the members of CSRB, which investigates major cybersecurity incidents, likely disrupting the Salt Typhoon hacks probe &lpar;David DiMolfetta/Defense One&rpar;](http://www.techmeme.com/250122/p36#a250122p36)<!-- TECH:END -->
+ - [Where to preorder the Samsung Galaxy S25, S25 Plus, and S25 Ultra](https://www.theverge.com/24346252/samsung-galaxy-s25-plus-ultra-how-to-buy-preorder-price-release-date)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

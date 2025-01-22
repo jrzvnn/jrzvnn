@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Yess !!! You talking to me](http://9gag.com/gag/avyyA8O)
- - 😝 [`My Local Pub Is Older Than Your Country`](http://9gag.com/gag/avyy5mb)
- - 💣 [Great Polish show, I&#39;ll watch again 9/10](http://9gag.com/gag/apRRgnE)
- - 😝 [The accent.](http://9gag.com/gag/aoyyggX)
- - 👉 [Genders 2025](http://9gag.com/gag/avyyAOO)<!-- MEMES:END -->
+ - 😝 [Share your apples with us](http://9gag.com/gag/a6ZZOG2)
+ - 😝 [Is that the future?](http://9gag.com/gag/adBBVD2)
+ - 💣 [New fear unlocked](http://9gag.com/gag/a7oowx2)
+ - 😝 [A thousand words communicated with just a smile](http://9gag.com/gag/aPAAYVV)
+ - 👉 [Be smart, dudes](http://9gag.com/gag/ajPPmGw)<!-- MEMES:END -->
 
 ---
 

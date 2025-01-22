@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [M4 Mac mini review three months later: the perfect headless Mac](https://appleinsider.com/articles/25/01/22/m4-mac-mini-review-three-months-later-the-perfect-headless-mac?utm_medium=rss)
+ - [Google unveils classroom and accessibility ChromeOS features, including rolling out a tool to let users control a device with their head and facial expressions &lpar;Antonio G. Di Benedetto/The Verge&rpar;](http://www.techmeme.com/250122/p15#a250122p15)
  - [Memo: ByteDance asks Chinese staff in Singapore to pay tax to China or risk losing their ability to cash out on stock options, as China steps up tax enforcement &lpar;Financial Times&rpar;](http://www.techmeme.com/250122/p14#a250122p14)
  - [Google will let you control your Chromebook with your face](https://www.theverge.com/2025/1/22/24348966/google-chromeos-face-control-chromebooks-classroom-features-laptops)
- - [Indonesia&#39;s long iPhone 16 ban may end soon](https://appleinsider.com/articles/25/01/22/indonesias-long-iphone-16-ban-may-end-soon?utm_medium=rss)
- - [Best Showerhead Filters of 2025](https://www.cnet.com/health/personal-care/best-shower-filter/#ftag=CAD590a51e)
- - [Crypto exchange Deribit reports total trading volume, including options, futures, and more, rose 95% YoY to $1.19T in 2024; options volume rose 99% YoY to $743B &lpar;Omkar Godbole/CoinDesk&rpar;](http://www.techmeme.com/250122/p13#a250122p13)<!-- TECH:END -->
+ - [Indonesia&#39;s long iPhone 16 ban may end soon](https://appleinsider.com/articles/25/01/22/indonesias-long-iphone-16-ban-may-end-soon?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

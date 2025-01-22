@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [This tennis player made a move mid-game that was unlikely to happen](http://9gag.com/gag/apRR9Rb)
+ - 😝 [I guess](http://9gag.com/gag/a2vvKBe)
+ - 😝 [*Beats Greyhound and Amtrak combined!](http://9gag.com/gag/avyyzrZ)
+ - 💣 [Confusion](http://9gag.com/gag/aKGGEvW)
  - 😝 [Harvesting durian](http://9gag.com/gag/aD224QO)
- - 💣 [This video demonstrates how grapes in Afghanistan can be preserved for a period of up to six months using a traditional method called Kangina](http://9gag.com/gag/a7oow1b)
- - 😝 [Illegaluigi. From the archives circa 2014](http://9gag.com/gag/aO88xe6)
- - 👉 [Remember why Trump got re-elected](http://9gag.com/gag/a7ooq9r)<!-- MEMES:END -->
+ - 👉 [Wild genetics...](http://9gag.com/gag/axyy97W)<!-- MEMES:END -->
 
 ---
 

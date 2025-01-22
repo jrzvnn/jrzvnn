@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Sources: a deep philosophical rift over how DOGE should operate helped spur Vivek Ramaswamy&#39;s exit, with Donald Trump&#39;s Jan. 20 EO embodying Elon Musk&#39;s vision &lpar;Washington Post&rpar;](http://www.techmeme.com/250121/p36#a250121p36)
  - [Sources: ByteDance plans to spend ~$5.5B to acquire AI chips in China in 2025, double the amount spent in 2024, with ~60% going to Chinese suppliers like Huawei &lpar;Financial Times&rpar;](http://www.techmeme.com/250121/p35#a250121p35)
- - [7 of the Best Soft Mattresses of 2025](https://www.cnet.com/health/sleep/best-soft-mattress/#ftag=CAD590a51e)
- - [Render, which offers developers cloud services for building, deploying, and running apps and websites, raised an $80M Series C led by Georgian &lpar;Mike Wheatley/SiliconANGLE&rpar;](http://www.techmeme.com/250121/p34#a250121p34)
- - [Here’s what Bambu will — and won’t — promise after its controversial 3D printer update](https://www.theverge.com/2025/1/21/24349031/bambu-3d-printer-update-authentication-filament-subscription-lock-answers)
- - [The Galaxy S25 Is Almost Here. These Are the Biggest Changes I Want to See](https://www.cnet.com/tech/mobile/the-galaxy-s25-is-almost-here-these-are-the-biggest-changes-i-want-to-see/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Best Protein Powders in 2025](https://www.cnet.com/health/fitness/best-protein-powders/#ftag=CAD590a51e)
+ - [Netflix Introduces Extra Member Offering That Includes Ads](https://www.cnet.com/tech/services-and-software/netflix-introduces-extra-member-offering-that-includes-ads/#ftag=CAD590a51e)
+ - [7 of the Best Soft Mattresses of 2025](https://www.cnet.com/health/sleep/best-soft-mattress/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

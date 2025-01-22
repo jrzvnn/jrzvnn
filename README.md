@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Galaxy Unpacked 2025: live updates from Samsung’s event](https://www.theverge.com/2025/1/22/24348685/samsung-galaxy-unpacked-2025-event-announcements-products)
+ - [Antenna estimates Netflix drove 650K+ new US subscribers in the days surrounding the NFL games, and the Paul-Tyson fight drove 1.43M US subscription sign-ups &lpar;New York Times&rpar;](http://www.techmeme.com/250122/p24#a250122p24)
+ - [Singapore&#39;s Likee Is an Unlikely Winner of the TikTok Ban](https://www.wired.com/story/likee-tiktok-apps-rednote/)
  - [NFL teams can’t use Bluesky](https://www.theverge.com/2025/1/22/24349499/nfl-patriots-bluesky-accounts-not-allowed-x-meta-threads)
- - [Here are the best Kindle deals right now](https://www.theverge.com/21539047/best-amazon-kindle-deals)
- - [This New AI Search Engine Has a Gimmick: Humans Answering Questions](https://www.wired.com/story/this-new-ai-search-engine-has-a-gimmick-humans-answering-questions/)
- - [This Company Wants to Build a Space Station That Has Artificial Gravity](https://www.wired.com/story/this-company-wants-to-build-a-space-station-that-has-artificial-gravity/)
- - [Insomniac Games founder and CEO Ted Price plans to step down from the Sony-owned studio after 30+ years; a trio of Insomniac veterans will serve as co-heads &lpar;Jennifer Maas/Variety&rpar;](http://www.techmeme.com/250122/p23#a250122p23)<!-- TECH:END -->
+ - [Here are the best Kindle deals right now](https://www.theverge.com/21539047/best-amazon-kindle-deals)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

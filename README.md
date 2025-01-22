@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Share your apples with us](http://9gag.com/gag/a6ZZOG2)
- - 😝 [Wild genetics...](http://9gag.com/gag/axyy97W)
- - 💣 [New fear unlocked](http://9gag.com/gag/a7oowx2)
- - 😝 [Hell yeah](http://9gag.com/gag/ayNN22Y)
- - 👉 [Confusion](http://9gag.com/gag/aKGGEvW)<!-- MEMES:END -->
+ - 😝 [Sorry guys](http://9gag.com/gag/axyy7NL)
+ - 😝 [Confusion](http://9gag.com/gag/aKGGEvW)
+ - 💣 [This video demonstrates how grapes in Afghanistan can be preserved for a period of up to six months using a traditional method called Kangina](http://9gag.com/gag/a7oow1b)
+ - 😝 [Nice jacket!](http://9gag.com/gag/aO88xv3)
+ - 👉 [Congratulations. What sport by the way?](http://9gag.com/gag/an77Q15)<!-- MEMES:END -->
 
 ---
 

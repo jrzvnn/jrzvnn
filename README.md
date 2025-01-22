@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Nice jacket!](http://9gag.com/gag/aO88xv3)
- - 😝 [This tennis player made a move mid-game that was unlikely to happen](http://9gag.com/gag/apRR9Rb)
- - 💣 [Nice brake check bro](http://9gag.com/gag/aAyyG2L)
- - 😝 [Harvesting durian](http://9gag.com/gag/aD224QO)
- - 👉 [I guess](http://9gag.com/gag/a2vvKBe)<!-- MEMES:END -->
+ - 😝 [Nice brake check bro](http://9gag.com/gag/aAyyG2L)
+ - 😝 [Brave online](http://9gag.com/gag/a6ZZZRN)
+ - 💣 [Remember why Trump got re-elected](http://9gag.com/gag/a7ooq9r)
+ - 😝 [Illegaluigi. From the archives circa 2014](http://9gag.com/gag/aO88xe6)
+ - 👉 [Harvesting durian](http://9gag.com/gag/aD224QO)<!-- MEMES:END -->
 
 ---
 

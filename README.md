@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Confusion](http://9gag.com/gag/aKGGEvW)
- - 😝 [Congratulations. What sport by the way?](http://9gag.com/gag/an77Q15)
- - 💣 [Harvesting durian](http://9gag.com/gag/aD224QO)
- - 😝 [*Beats Greyhound and Amtrak combined!](http://9gag.com/gag/avyyzrZ)
- - 👉 [Illegaluigi. From the archives circa 2014](http://9gag.com/gag/aO88xe6)<!-- MEMES:END -->
+ - 😝 [That horrific,](http://9gag.com/gag/aGyyy0w)
+ - 😝 [This video demonstrates how grapes in Afghanistan can be preserved for a period of up to six months using a traditional method called Kangina](http://9gag.com/gag/a7oow1b)
+ - 💣 [Wild genetics...](http://9gag.com/gag/axyy97W)
+ - 😝 [Star Wars scene recreated in a week by talented VFX Artist Erik Rasmusse.](http://9gag.com/gag/aMVVY4G)
+ - 👉 [Congratulations. What sport by the way?](http://9gag.com/gag/an77Q15)<!-- MEMES:END -->
 
 ---
 

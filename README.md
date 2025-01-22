@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [I guess](http://9gag.com/gag/a2vvKBe)
- - 😝 [Confusion](http://9gag.com/gag/aKGGEvW)
- - 💣 [For side money!](http://9gag.com/gag/a2vv7PO)
- - 😝 [LED guy really is something else](http://9gag.com/gag/aO88Q5N)
- - 👉 [Cucky brits](http://9gag.com/gag/aGyyp1Z)<!-- MEMES:END -->
+ - 😝 [That&#39;s my President!](http://9gag.com/gag/aLnn0r5)
+ - 😝 [*Beats Greyhound and Amtrak combined!](http://9gag.com/gag/avyyzrZ)
+ - 💣 [I guess](http://9gag.com/gag/a2vvKBe)
+ - 😝 [Remember why Trump got re-elected](http://9gag.com/gag/a7ooq9r)
+ - 👉 [Is that the future?](http://9gag.com/gag/adBBVD2)<!-- MEMES:END -->
 
 ---
 

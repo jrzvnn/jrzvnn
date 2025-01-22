@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [That horrific,](http://9gag.com/gag/aGyyy0w)
- - 😝 [This video demonstrates how grapes in Afghanistan can be preserved for a period of up to six months using a traditional method called Kangina](http://9gag.com/gag/a7oow1b)
- - 💣 [Wild genetics...](http://9gag.com/gag/axyy97W)
- - 😝 [Star Wars scene recreated in a week by talented VFX Artist Erik Rasmusse.](http://9gag.com/gag/aMVVY4G)
- - 👉 [Congratulations. What sport by the way?](http://9gag.com/gag/an77Q15)<!-- MEMES:END -->
+ - 😝 [If Gordon Ramsay can be a human being amidst all the anger, so can you.](http://9gag.com/gag/aLnn0zV)
+ - 😝 [Harvesting durian](http://9gag.com/gag/aD224QO)
+ - 💣 [I guess](http://9gag.com/gag/a2vvKBe)
+ - 😝 [Illegaluigi. From the archives circa 2014](http://9gag.com/gag/aO88xe6)
+ - 👉 [Remember why Trump got re-elected](http://9gag.com/gag/a7ooq9r)<!-- MEMES:END -->
 
 ---
 

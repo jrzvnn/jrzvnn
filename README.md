@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [New UK ID app yet again fumbles tech that Apple has already perfected](https://appleinsider.com/articles/25/01/22/new-uk-id-app-yet-again-fumbles-tech-that-apple-has-already-perfected?utm_medium=rss)
- - [Data analytics startup Databricks closed its $10B Series J, announced in December 2024 and including investment from Meta, and raised $5.25B in debt &lpar;Paul Sawers/TechCrunch&rpar;](http://www.techmeme.com/250122/p17#a250122p17)
- - [Trump’s first 100 days: all the news impacting the tech industry](https://www.theverge.com/24348851/donald-trump-presidency-tech-science-news)
- - [A Capitol Rioter’s Son Is Terrified About His Father’s Release](https://www.wired.com/story/capitol-riot-jan-6-pardon-family-threats-reffitt/)
- - [Annapurna taps Netflix exec for its beleaguered gaming label](https://www.theverge.com/2025/1/22/24349338/annapurna-netflix-exec-leanne-loombe-beleaguered-gaming-label)<!-- TECH:END -->
+ - [Plex starts testing its big redesign on Apple TV](https://www.theverge.com/2025/1/22/24349408/plex-new-app-design-apple-tv-preview)
+ - [Apple Miami Worldcenter is a nature and accessibility paradise](https://appleinsider.com/articles/25/01/22/apple-miami-worldcenter-is-a-nature-and-accessibility-paradise?utm_medium=rss)
+ - [Silo’s season 2 finale was excellent, but the show is running out of time](https://www.theverge.com/24349341/silo-season-2-finale-review)
+ - [Sega is the next game company asking you to make an account](https://www.theverge.com/2025/1/22/24349351/sega-account-game-bonuses-news-promotions-events)
+ - [New UK ID app yet again fumbles tech that Apple has already perfected](https://appleinsider.com/articles/25/01/22/new-uk-id-app-yet-again-fumbles-tech-that-apple-has-already-perfected?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

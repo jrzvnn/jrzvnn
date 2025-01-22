@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [Nice brake check bro](http://9gag.com/gag/aAyyG2L)
+ - 😝 [Congratulations. What sport by the way?](http://9gag.com/gag/an77Q15)
+ - 💣 [Is that the future?](http://9gag.com/gag/adBBVD2)
  - 😝 [Share your apples with us](http://9gag.com/gag/a6ZZOG2)
- - 😝 [Nice jacket!](http://9gag.com/gag/aO88xv3)
- - 💣 [New fear unlocked](http://9gag.com/gag/a7oowx2)
- - 😝 [Love Story lol](http://9gag.com/gag/aqyyKQP)
- - 👉 [*Beats Greyhound and Amtrak combined!](http://9gag.com/gag/avyyzrZ)<!-- MEMES:END -->
+ - 👉 [Eat Meat](http://9gag.com/gag/aLnngEz)<!-- MEMES:END -->
 
 ---
 

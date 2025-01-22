@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [DealStreetAsia: Southeast Asian startups raised $4.56B in 2024, down 42% YoY and falling to a fifth of a 2021 peak, as the number of deals fell 10% YoY to 633 &lpar;Tsubasa Suruga/Nikkei Asia&rpar;](http://www.techmeme.com/250122/p1#a250122p1)
  - [An internal probe into SoftBank-backed eFishery, one of Indonesia&#39;s most prominent startups, finds the agritech company allegedly faked most of its 2024 sales &lpar;Bloomberg&rpar;](http://www.techmeme.com/250121/p39#a250121p39)
  - [How to use Clean Up in iOS 18 Photos to remove distractions](https://appleinsider.com/inside/ios-18/tips/how-to-use-clean-up-in-ios-181-photos-to-remove-distractions?utm_medium=rss)
  - [Documents: Google gave Israel access to its latest AI tools from the early weeks of the Israel-Hamas war, directly assisting the Defense Ministry and the IDF &lpar;Gerrit De Vynck/Washington Post&rpar;](http://www.techmeme.com/250121/p38#a250121p38)
- - [Today&#39;s NYT Connections: Sports Edition Hints and Answers for Jan. 22, #121](https://www.cnet.com/tech/gaming/todays-nyt-connections-sports-edition-hints-and-answers-for-jan-22-121/#ftag=CAD590a51e)
- - [Filing: OpenAI spent $1.76M on lobbying in 2024, up from 2023&#39;s $260K, with focus on the AI Advancement and Reliability Act and the Future of AI Innovation Act &lpar;James O&#39;Donnell/MIT Technology Review&rpar;](http://www.techmeme.com/250121/p37#a250121p37)<!-- TECH:END -->
+ - [Today&#39;s NYT Connections: Sports Edition Hints and Answers for Jan. 22, #121](https://www.cnet.com/tech/gaming/todays-nyt-connections-sports-edition-hints-and-answers-for-jan-22-121/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The best doorbell cameras](https://www.theverge.com/22954554/best-video-doorbell-camera)
+ - [Filing: OpenAI told an Indian court that it can&#39;t delete old training data from local news agency ANI due to legal obligations in the US &lpar;Reuters&rpar;](http://www.techmeme.com/250122/p41#a250122p41)
  - [Source: Trump had a lengthy conversation with Sam Altman last week about the potential of AI and the need to develop the tech in the US &lpar;Kate Rooney/CNBC&rpar;](http://www.techmeme.com/250122/p40#a250122p40)
  - [11 Best Android Phones of 2025, Tested and Reviewed](https://www.wired.com/gallery/best-android-phones/)
- - [This is the Samsung Galaxy S25 Edge](https://www.theverge.com/2025/1/22/24349658/samsung-galaxy-s25-edge-photos-unpacked)
- - [Samsung&#39;s Galaxy S25 lineup will be the first handsets to support the Content Credentials standard, which identifies AI-generated images &lpar;Brian Heater/TechCrunch&rpar;](http://www.techmeme.com/250122/p39#a250122p39)
- - [Xbox beta tests support for massive amounts of external storage](https://www.theverge.com/2025/1/22/24349689/xbox-series-x-s-16tb-external-drive-storage-limit)<!-- TECH:END -->
+ - [This is the Samsung Galaxy S25 Edge](https://www.theverge.com/2025/1/22/24349658/samsung-galaxy-s25-edge-photos-unpacked)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Harvesting durian](http://9gag.com/gag/aD224QO)
- - 😝 [New fear unlocked](http://9gag.com/gag/a7oowx2)
- - 💣 [Hmmmm](http://9gag.com/gag/azxx9gz)
- - 😝 [Two types of autism](http://9gag.com/gag/aNDD0x4)
- - 👉 [Wild genetics...](http://9gag.com/gag/axyy97W)<!-- MEMES:END -->
+ - 😝 [Yess !!! You talking to me](http://9gag.com/gag/avyyA8O)
+ - 😝 [`My Local Pub Is Older Than Your Country`](http://9gag.com/gag/avyy5mb)
+ - 💣 [Great Polish show, I&#39;ll watch again 9/10](http://9gag.com/gag/apRRgnE)
+ - 😝 [The accent.](http://9gag.com/gag/aoyyggX)
+ - 👉 [Genders 2025](http://9gag.com/gag/avyyAOO)<!-- MEMES:END -->
 
 ---
 

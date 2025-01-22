@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Sources: OpenAI is working on an advanced AI coding assistant that can replicate a Level 6 engineer and relies in part on the company&#39;s o1 reasoning model &lpar;The Information&rpar;](http://www.techmeme.com/250122/p44#a250122p44)
+ - [iPad 11, iPhone SE 4, &amp; iPad Air leak doesn&#39;t line up with previous rumors](https://appleinsider.com/articles/25/01/22/ipad-11-iphone-se-4-ipad-air-leak-doesnt-line-up-with-previous-rumors?utm_medium=rss)
  - [EA expects net bookings of $7B to $7.15B for the FY ending March 31, below guidance of $7.5B to $7.8B, citing underperforming games; stock falls 5%+ after hours &lpar;Kif Leswing/CNBC&rpar;](http://www.techmeme.com/250122/p43#a250122p43)
  - [Apple TV rumors, more CES releases, &amp; Apple&#39;s 2025 smart home plans on HomeKit Insider](https://appleinsider.com/articles/25/01/20/apple-tv-rumors-more-ces-releases-apples-2025-smart-home-plans-on-homekit-insider?utm_medium=rss)
- - [The PowerSchool hacker claims that they stole personal data of 62.4M students and 9.5M teachers; in a private customer FAQ, PowerSchool said it paid a ransom &lpar;Lawrence Abrams/BleepingComputer&rpar;](http://www.techmeme.com/250122/p42#a250122p42)
- - [The best doorbell cameras](https://www.theverge.com/22954554/best-video-doorbell-camera)
- - [Filing: OpenAI told an Indian court that it can&#39;t delete old training data from local news agency ANI due to legal obligations in the US &lpar;Reuters&rpar;](http://www.techmeme.com/250122/p41#a250122p41)<!-- TECH:END -->
+ - [The PowerSchool hacker claims that they stole personal data of 62.4M students and 9.5M teachers; in a private customer FAQ, PowerSchool said it paid a ransom &lpar;Lawrence Abrams/BleepingComputer&rpar;](http://www.techmeme.com/250122/p42#a250122p42)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Something is sus](http://9gag.com/gag/an779ez)
- - 😝 [New fear unlocked](http://9gag.com/gag/a7oowx2)
- - 💣 [Genders 2025](http://9gag.com/gag/avyyAOO)
- - 😝 [People on twitter these days man](http://9gag.com/gag/a7oowoq)
- - 👉 [It\u2019s never been easier to be successful. Your competition is so weak they can\u2019t even focus for 2 minutes.](http://9gag.com/gag/aO8873R)<!-- MEMES:END -->
+ - 😝 [Before it&#39;s destruction in 1992 here is the Buddha statue in Afghanistan](http://9gag.com/gag/aO88YyR)
+ - 😝 [Sorry guys](http://9gag.com/gag/axyy7NL)
+ - 💣 [WomEn supporting womAn](http://9gag.com/gag/aYQQY5O)
+ - 😝 [Jeff Bezos Struggles With His Skin](http://9gag.com/gag/a2vvRDw)
+ - 👉 [Harvesting durian](http://9gag.com/gag/aD224QO)<!-- MEMES:END -->
 
 ---
 

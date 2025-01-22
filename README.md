@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Google Fiber is coming to Las Vegas](https://www.theverge.com/2025/1/22/24349463/google-fiber-las-vegas-rollout)
+ - [Insomniac Games boss Ted Price is retiring](https://www.theverge.com/2025/1/22/24349524/ted-price-retiring-insomniac-games)
+ - [Music AI, the AI startup behind Moises music creation service, raised a $40M Series A led by monashees and Connect Ventures, a partnership between CAA and NEA &lpar;Daniel Tencer/Music Business Worldwide&rpar;](http://www.techmeme.com/250122/p22#a250122p22)
  - [A look at The Stargate Project: unanswered questions, PR wins, SoftBank only has ~$30B cash, many projects are old news, and Elon Musk trolled the announcement &lpar;M.G. Siegler/Spyglass&rpar;](http://www.techmeme.com/250122/p21#a250122p21)
- - [Elon Musk, White House advisor, says OpenAI deal announced at White House is a sham](https://www.theverge.com/2025/1/22/24349449/elon-musk-stargate-project-money-allegation)
- - [Samsung launches a kid-friendly mode for the Galaxy Watch 7, letting children call and text trusted contacts, and parents track kids via GPS &lpar;Victoria Song/The Verge&rpar;](http://www.techmeme.com/250122/p20#a250122p20)
- - [YouTube adds experimental features for Premium users, including higher audio bitrate of up to 256kbps for music videos and faster playback on mobile &lpar;Ivan Mehta/TechCrunch&rpar;](http://www.techmeme.com/250122/p19#a250122p19)
- - [The 65-inch LG C3 is matching its lowest price](https://www.theverge.com/2025/1/22/24348648/lg-c3-4k-tv-insta360-x4-action-camera-bundle-dale-sale)<!-- TECH:END -->
+ - [Elon Musk, White House advisor, says OpenAI deal announced at White House is a sham](https://www.theverge.com/2025/1/22/24349449/elon-musk-stargate-project-money-allegation)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Cyber criminals are opening an old bag of tricks to attack Mac users](https://appleinsider.com/articles/25/01/22/cyber-criminals-are-opening-an-old-bag-of-tricks-to-attack-mac-users?utm_medium=rss)
  - [Plex starts testing its big redesign on Apple TV](https://www.theverge.com/2025/1/22/24349408/plex-new-app-design-apple-tv-preview)
  - [Apple Miami Worldcenter is a nature and accessibility paradise](https://appleinsider.com/articles/25/01/22/apple-miami-worldcenter-is-a-nature-and-accessibility-paradise?utm_medium=rss)
  - [Silo’s season 2 finale was excellent, but the show is running out of time](https://www.theverge.com/24349341/silo-season-2-finale-review)
- - [Sega is the next game company asking you to make an account](https://www.theverge.com/2025/1/22/24349351/sega-account-game-bonuses-news-promotions-events)
- - [New UK ID app yet again fumbles tech that Apple has already perfected](https://appleinsider.com/articles/25/01/22/new-uk-id-app-yet-again-fumbles-tech-that-apple-has-already-perfected?utm_medium=rss)<!-- TECH:END -->
+ - [Sega is the next game company asking you to make an account](https://www.theverge.com/2025/1/22/24349351/sega-account-game-bonuses-news-promotions-events)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

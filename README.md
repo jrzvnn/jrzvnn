@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [It\u2019s never been easier to be successful. Your competition is so weak they can\u2019t even focus for 2 minutes.](http://9gag.com/gag/aO8873R)
- - 😝 [Harvesting durian](http://9gag.com/gag/aD224QO)
- - 💣 [Would you try one of these?](http://9gag.com/gag/aGyyd2Z)
- - 😝 [That horrific,](http://9gag.com/gag/aGyyy0w)
- - 👉 [Illegaluigi. From the archives circa 2014](http://9gag.com/gag/aO88xe6)<!-- MEMES:END -->
+ - 😝 [In 2019, Amanda Eller went missing for 17 days in Maui&#39;s forests after a short hike went wrong. Without a phone, food, or water, she got lost after straying from the trail. Despite having virtually no supplies she managed to live off berries and stream water until she was found.](http://9gag.com/gag/aZZZrL0)
+ - 😝 [Hey Homie! It&#39;s Tony.](http://9gag.com/gag/a877qV6)
+ - 💣 [Philly Mayor demonstrated how she got her job completely based on merits and not at all dei](http://9gag.com/gag/aW44G1d)
+ - 😝 [How?](http://9gag.com/gag/a3441Y8)
+ - 👉 [Harvesting durian](http://9gag.com/gag/aD224QO)<!-- MEMES:END -->
 
 ---
 

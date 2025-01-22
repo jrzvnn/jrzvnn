@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google&#39;s Gemini will be the default on-device assistant for the new Galaxy S25 series, and gets the ability to work across multiple apps in a single prompt &lpar;Dominic Preston/The Verge&rpar;](http://www.techmeme.com/250122/p29#a250122p29)
- - [Samsung announces the $800 Galaxy S25 with a 6.2&quot; screen and the $1K 6.7&quot; Galaxy S25 Plus, with 12GB of RAM, Snapdragon 8 Elite, &quot;Qi2 Ready&quot;, and more &lpar;Dominic Preston/The Verge&rpar;](http://www.techmeme.com/250122/p28#a250122p28)
- - [A livestream of Samsung Galaxy Unpacked January 2025 &lpar;Samsung on YouTube&rpar;](http://www.techmeme.com/250122/p27#a250122p27)
- - [Samsung Galaxy S25 Series: Specs, Release Date, Price, Features](https://www.wired.com/story/samsung-galaxy-s25-galaxy-s25-plus-galaxy-s25-ultra/)
- - [Samsung is bringing ambient sensing to SmartThings](https://www.theverge.com/2025/1/22/24349488/samsung-smartthings-ambient-sensing-home-ai)<!-- TECH:END -->
+ - [Trump’s war on electric cars has only just begun](https://www.theverge.com/2025/1/22/24349650/trump-ev-tax-credit-tariff-congress)
+ - [Samsung updates its Wallet app with &quot;Instant Installment&quot;, its take on BNPL, and &quot;Tap to Transfer&quot;, similar to Apple&#39;s Tap to Cash, both coming later in 2025 &lpar;Cherlynn Low/Engadget&rpar;](http://www.techmeme.com/250122/p32#a250122p32)
+ - [Save $350 on Apple&#39;s M4 Max MacBook Pro 16-inch in latest price war](https://appleinsider.com/articles/25/01/22/save-350-on-apples-m4-max-macbook-pro-16-inch-in-latest-price-war?utm_medium=rss)
+ - [Google details improvements to Android&#39;s Circle to Search, including automatically recognizing phone numbers, addresses, and URLs, expanded AI Overviews, more &lpar;Mishaal Rahman/Android Faithful&rpar;](http://www.techmeme.com/250122/p31#a250122p31)
+ - [Samsung and Google are developing AR glasses together](https://www.theverge.com/2025/1/22/24347908/samsung-google-ar-glasses-android-xr-unpacked-january-2025)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

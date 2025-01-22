@@ -158,10 +158,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- TECH:START -->
  - [Trump’s first 100 days: all the news impacting the tech industry](https://www.theverge.com/24348851/donald-trump-presidency-tech-science-news)
+ - [A Capitol Rioter’s Son Is Terrified About His Father’s Release](https://www.wired.com/story/capitol-riot-jan-6-pardon-family-threats-reffitt/)
  - [Annapurna taps Netflix exec for its beleaguered gaming label](https://www.theverge.com/2025/1/22/24349338/annapurna-netflix-exec-leanne-loombe-beleaguered-gaming-label)
  - [Abbott Lingo Continuous Glucose Monitor Review: Easy and Clear](https://www.wired.com/review/abbott-lingo-continuous-blood-glucose-monitor/)
- - [Adobe Premiere Pro now lets you find video clips by describing them](https://www.theverge.com/2025/1/22/24349299/adobe-premiere-pro-after-effects-media-intelligence-search)
- - [Best Vitamins for Healthy Hair, Skin and Nails in 2025](https://www.cnet.com/health/nutrition/best-vitamins-for-hair-skin-and-nails/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Adobe Premiere Pro now lets you find video clips by describing them](https://www.theverge.com/2025/1/22/24349299/adobe-premiere-pro-after-effects-media-intelligence-search)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

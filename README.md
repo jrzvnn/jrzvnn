@@ -166,8 +166,8 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Congratulations. What sport by the way?](http://9gag.com/gag/an77Q15)
- - 😝 [I guess](http://9gag.com/gag/a2vvKBe)
+ - 😝 [Police whamen](http://9gag.com/gag/aMVVdMP)
+ - 😝 [Good](http://9gag.com/gag/aqyyRnY)
  - 💣 [Looking for this Cinderella](http://9gag.com/gag/a0eeooZ)
  - 😝 [Can\u2019t not love this guy. GOAT William Dafoe](http://9gag.com/gag/a877ALO)
  - 👉 [Brave online](http://9gag.com/gag/a6ZZZRN)<!-- MEMES:END -->

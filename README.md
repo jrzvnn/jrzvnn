@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [People on twitter these days man](http://9gag.com/gag/a7oowoq)
+ - 😝 [Is that the future?](http://9gag.com/gag/adBBVD2)
+ - 💣 [This tennis player made a move mid-game that was unlikely to happen](http://9gag.com/gag/apRR9Rb)
  - 😝 [I guess](http://9gag.com/gag/a2vvKBe)
- - 😝 [*Beats Greyhound and Amtrak combined!](http://9gag.com/gag/avyyzrZ)
- - 💣 [Confusion](http://9gag.com/gag/aKGGEvW)
- - 😝 [Harvesting durian](http://9gag.com/gag/aD224QO)
- - 👉 [Wild genetics...](http://9gag.com/gag/axyy97W)<!-- MEMES:END -->
+ - 👉 [New fear unlocked](http://9gag.com/gag/a7oowx2)<!-- MEMES:END -->
 
 ---
 

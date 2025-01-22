@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Before it&#39;s destruction in 1992 here is the Buddha statue in Afghanistan](http://9gag.com/gag/aO88YyR)
- - 😝 [Sorry guys](http://9gag.com/gag/axyy7NL)
- - 💣 [WomEn supporting womAn](http://9gag.com/gag/aYQQY5O)
- - 😝 [Jeff Bezos Struggles With His Skin](http://9gag.com/gag/a2vvRDw)
- - 👉 [Harvesting durian](http://9gag.com/gag/aD224QO)<!-- MEMES:END -->
+ - 😝 [Great Polish show, I&#39;ll watch again 9/10](http://9gag.com/gag/apRRgnE)
+ - 😝 [Yess !!! You talking to me](http://9gag.com/gag/avyyA8O)
+ - 💣 [The accent.](http://9gag.com/gag/aoyyggX)
+ - 😝 [`My Local Pub Is Older Than Your Country`](http://9gag.com/gag/avyy5mb)
+ - 👉 [Genders 2025](http://9gag.com/gag/avyyAOO)<!-- MEMES:END -->
 
 ---
 

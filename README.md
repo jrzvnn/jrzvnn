@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [If Gordon Ramsay can be a human being amidst all the anger, so can you.](http://9gag.com/gag/aLnn0zV)
+ - 😝 [It\u2019s never been easier to be successful. Your competition is so weak they can\u2019t even focus for 2 minutes.](http://9gag.com/gag/aO8873R)
  - 😝 [Harvesting durian](http://9gag.com/gag/aD224QO)
- - 💣 [I guess](http://9gag.com/gag/a2vvKBe)
- - 😝 [Illegaluigi. From the archives circa 2014](http://9gag.com/gag/aO88xe6)
- - 👉 [Remember why Trump got re-elected](http://9gag.com/gag/a7ooq9r)<!-- MEMES:END -->
+ - 💣 [Would you try one of these?](http://9gag.com/gag/aGyyd2Z)
+ - 😝 [That horrific,](http://9gag.com/gag/aGyyy0w)
+ - 👉 [Illegaluigi. From the archives circa 2014](http://9gag.com/gag/aO88xe6)<!-- MEMES:END -->
 
 ---
 

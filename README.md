@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Nice brake check bro](http://9gag.com/gag/aAyyG2L)
+ - 😝 [Looking for this Cinderella](http://9gag.com/gag/a0eeooZ)
+ - 😝 [I guess](http://9gag.com/gag/a2vvKBe)
+ - 💣 [Good](http://9gag.com/gag/aqyyRnY)
  - 😝 [Brave online](http://9gag.com/gag/a6ZZZRN)
- - 💣 [Remember why Trump got re-elected](http://9gag.com/gag/a7ooq9r)
- - 😝 [Illegaluigi. From the archives circa 2014](http://9gag.com/gag/aO88xe6)
- - 👉 [Harvesting durian](http://9gag.com/gag/aD224QO)<!-- MEMES:END -->
+ - 👉 [Is that the future?](http://9gag.com/gag/adBBVD2)<!-- MEMES:END -->
 
 ---
 

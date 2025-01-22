@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Trump’s first 100 days: all the news impacting the tech industry](https://www.theverge.com/24348851/donald-trump-presidency-tech-science-news)
+ - [Annapurna taps Netflix exec for its beleaguered gaming label](https://www.theverge.com/2025/1/22/24349338/annapurna-netflix-exec-leanne-loombe-beleaguered-gaming-label)
  - [Abbott Lingo Continuous Glucose Monitor Review: Easy and Clear](https://www.wired.com/review/abbott-lingo-continuous-blood-glucose-monitor/)
  - [Adobe Premiere Pro now lets you find video clips by describing them](https://www.theverge.com/2025/1/22/24349299/adobe-premiere-pro-after-effects-media-intelligence-search)
- - [Best Vitamins for Healthy Hair, Skin and Nails in 2025](https://www.cnet.com/health/nutrition/best-vitamins-for-hair-skin-and-nails/#ftag=CAD590a51e)
- - [London-based Vertice, which offers an AI-powered SaaS spend platform, raised a $50M Series C led by Lakestar, taking its total funding to ~$100M &lpar;Ingrid Lunden/TechCrunch&rpar;](http://www.techmeme.com/250122/p16#a250122p16)
- - [Disney Plus: 20 TV Shows You Should Definitely Watch Right Now](https://www.cnet.com/tech/services-and-software/best-disney-plus-tv-shows-2024/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Best Vitamins for Healthy Hair, Skin and Nails in 2025](https://www.cnet.com/health/nutrition/best-vitamins-for-hair-skin-and-nails/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

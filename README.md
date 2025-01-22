@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Abbott Lingo Continuous Glucose Monitor Review: Easy and Clear](https://www.wired.com/review/abbott-lingo-continuous-blood-glucose-monitor/)
+ - [Adobe Premiere Pro now lets you find video clips by describing them](https://www.theverge.com/2025/1/22/24349299/adobe-premiere-pro-after-effects-media-intelligence-search)
+ - [Best Vitamins for Healthy Hair, Skin and Nails in 2025](https://www.cnet.com/health/nutrition/best-vitamins-for-hair-skin-and-nails/#ftag=CAD590a51e)
  - [London-based Vertice, which offers an AI-powered SaaS spend platform, raised a $50M Series C led by Lakestar, taking its total funding to ~$100M &lpar;Ingrid Lunden/TechCrunch&rpar;](http://www.techmeme.com/250122/p16#a250122p16)
- - [How to Send Cash](https://www.wired.com/story/how-to-send-cash/)
- - [Here’s the tech that could turn millions of Zigbee light bulbs into motion sensors with a single update](https://www.theverge.com/2025/1/22/24348688/zigbee-ambient-sensing-philips-hue-ivani-sensify)
- - [M4 Mac mini review three months later: the perfect headless Mac](https://appleinsider.com/articles/25/01/22/m4-mac-mini-review-three-months-later-the-perfect-headless-mac?utm_medium=rss)
- - [Best Moving Companies of 2025](https://www.cnet.com/home/services/best-moving-companies/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Disney Plus: 20 TV Shows You Should Definitely Watch Right Now](https://www.cnet.com/tech/services-and-software/best-disney-plus-tv-shows-2024/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

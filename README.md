@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Trump Frees Silk Road Creator Ross Ulbricht After 11 Years in Prison](https://www.wired.com/story/trump-frees-silk-road-creator-ross-ulbricht-after-11-years-in-prison/)
- - [StackBlitz, which offers an AI tool to create websites using text prompts, says it&#39;s finalizing raising $83.5M at a $700M valuation, following a $22M Series A &lpar;Bloomberg&rpar;](http://www.techmeme.com/250121/p33#a250121p33)
- - [Trump grants a pardon to Ross Ulbricht, the creator of Silk Road and a cryptocurrency cult hero, serving a life sentence on money laundering and drug charges &lpar;New York Times&rpar;](http://www.techmeme.com/250121/p32#a250121p32)
- - [Trump’s Plan to Leave the WHO Is a Health Disaster](https://www.wired.com/story/trump-plan-to-leave-the-who-health-disaster/)
- - [Highnote, which offers businesses a card-issuing software, raised a $90M Series B led by Adams Street Partners, a source says at a $750M+ valuation &lpar;Stephen Pastis/Forbes&rpar;](http://www.techmeme.com/250121/p31#a250121p31)<!-- TECH:END -->
+ - [Sources: ByteDance plans to spend ~$5.5B to acquire AI chips in China in 2025, double the amount spent in 2024, with ~60% going to Chinese suppliers like Huawei &lpar;Financial Times&rpar;](http://www.techmeme.com/250121/p35#a250121p35)
+ - [7 of the Best Soft Mattresses of 2025](https://www.cnet.com/health/sleep/best-soft-mattress/#ftag=CAD590a51e)
+ - [Render, which offers developers cloud services for building, deploying, and running apps and websites, raised an $80M Series C led by Georgian &lpar;Mike Wheatley/SiliconANGLE&rpar;](http://www.techmeme.com/250121/p34#a250121p34)
+ - [Here’s what Bambu will — and won’t — promise after its controversial 3D printer update](https://www.theverge.com/2025/1/21/24349031/bambu-3d-printer-update-authentication-filament-subscription-lock-answers)
+ - [The Galaxy S25 Is Almost Here. These Are the Biggest Changes I Want to See](https://www.cnet.com/tech/mobile/the-galaxy-s25-is-almost-here-these-are-the-biggest-changes-i-want-to-see/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [It\u2019s never been easier to be successful. Your competition is so weak they can\u2019t even focus for 2 minutes.](http://9gag.com/gag/aO8873R)
- - 😝 [Sorry guys](http://9gag.com/gag/axyy7NL)
- - 💣 [Congratulations. What sport by the way?](http://9gag.com/gag/an77Q15)
- - 😝 [Is that the future?](http://9gag.com/gag/adBBVD2)
- - 👉 [Confusion](http://9gag.com/gag/aKGGEvW)<!-- MEMES:END -->
+ - 😝 [Confusion](http://9gag.com/gag/aKGGEvW)
+ - 😝 [Congratulations. What sport by the way?](http://9gag.com/gag/an77Q15)
+ - 💣 [Harvesting durian](http://9gag.com/gag/aD224QO)
+ - 😝 [*Beats Greyhound and Amtrak combined!](http://9gag.com/gag/avyyzrZ)
+ - 👉 [Illegaluigi. From the archives circa 2014](http://9gag.com/gag/aO88xe6)<!-- MEMES:END -->
 
 ---
 

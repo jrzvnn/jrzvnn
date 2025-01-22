@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [After Musk said &quot;they don&#39;t actually have the money&quot; about Stargate, Altman says &quot;what is great for the country isn&#39;t always what&#39;s optimal for your companies&quot; &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/250122/p25#a250122p25)
- - [Mexico Provides Economic Support to Migrants After the Trump Administration Closes the CBP One App](https://www.wired.com/story/mexico-provides-economic-support-cbp-one-app/)
- - [iPhone 16 sales surge as Pro models lose their edge](https://appleinsider.com/articles/25/01/22/iphone-16-sales-surge-as-pro-models-lose-their-edge?utm_medium=rss)
- - [Galaxy Unpacked 2025: live updates from Samsung’s event](https://www.theverge.com/2025/1/22/24348685/samsung-galaxy-unpacked-2025-event-announcements-products)
- - [Antenna estimates Netflix drove 650K+ new US subscribers in the days surrounding the NFL games, and the Paul-Tyson fight drove 1.43M US subscription sign-ups &lpar;New York Times&rpar;](http://www.techmeme.com/250122/p24#a250122p24)<!-- TECH:END -->
+ - [Google&#39;s Gemini will be the default on-device assistant for the new Galaxy S25 series, and gets the ability to work across multiple apps in a single prompt &lpar;Dominic Preston/The Verge&rpar;](http://www.techmeme.com/250122/p29#a250122p29)
+ - [Samsung announces the $800 Galaxy S25 with a 6.2&quot; screen and the $1K 6.7&quot; Galaxy S25 Plus, with 12GB of RAM, Snapdragon 8 Elite, &quot;Qi2 Ready&quot;, and more &lpar;Dominic Preston/The Verge&rpar;](http://www.techmeme.com/250122/p28#a250122p28)
+ - [A livestream of Samsung Galaxy Unpacked January 2025 &lpar;Samsung on YouTube&rpar;](http://www.techmeme.com/250122/p27#a250122p27)
+ - [Samsung Galaxy S25 Series: Specs, Release Date, Price, Features](https://www.wired.com/story/samsung-galaxy-s25-galaxy-s25-plus-galaxy-s25-ultra/)
+ - [Samsung is bringing ambient sensing to SmartThings](https://www.theverge.com/2025/1/22/24349488/samsung-smartthings-ambient-sensing-home-ai)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

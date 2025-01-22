@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Crypto executives fear investor backlash over $TRUMP and $MELANIA memecoins; CoinMarketCap reports most $TRUMP trading is concentrated on Asian exchanges &lpar;Financial Times&rpar;](http://www.techmeme.com/250122/p6#a250122p6)
+ - [Quant trading firm XTX, managing $250B+ in daily trades, plans to invest &amp;euro;1B+ on five data centers in Finland to support its growing use of machine learning &lpar;Bloomberg&rpar;](http://www.techmeme.com/250122/p7#a250122p7)
+ - [Some crypto executives fear investor backlash over $TRUMP and $MELANIA memecoins; CoinMarketCap reports most $TRUMP trading is concentrated on Asian exchanges &lpar;Financial Times&rpar;](http://www.techmeme.com/250122/p6#a250122p6)
  - [Truecaller rolls out real-time caller ID to its ~750K iOS subscribers, who account for 40% of its revenue; Truecaller has 2.6M+ paying subscribers in total &lpar;TechCrunch&rpar;](http://www.techmeme.com/250122/p5#a250122p5)
  - [Microsoft to buy 3.5M carbon credits, estimated to be worth about $200M, from Re.green over 25 years to restore parts of Brazil&#39;s Amazon and Atlantic forests &lpar;Kenza Bryan/Financial Times&rpar;](http://www.techmeme.com/250122/p4#a250122p4)
- - [TurboTax Coupons and Deals: Extra 20% Off](https://www.wired.com/story/turbotax-coupon/)
- - [The Trump administration removed all advisory committee members within the DHS, including those in CISA and CSRB, which was investigating Salt Typhoon &lpar;Becky Bracken/Dark Reading&rpar;](http://www.techmeme.com/250122/p3#a250122p3)<!-- TECH:END -->
+ - [TurboTax Coupons and Deals: Extra 20% Off](https://www.wired.com/story/turbotax-coupon/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

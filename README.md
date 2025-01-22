@@ -167,10 +167,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [Harvesting durian](http://9gag.com/gag/aD224QO)
- - 😝 [Share your apples with us](http://9gag.com/gag/a6ZZOG2)
- - 💣 [People on twitter these days man](http://9gag.com/gag/a7oowoq)
- - 😝 [Hmmmm](http://9gag.com/gag/azxx9gz)
- - 👉 [It\u2019s never been easier to be successful. Your competition is so weak they can\u2019t even focus for 2 minutes.](http://9gag.com/gag/aO8873R)<!-- MEMES:END -->
+ - 😝 [New fear unlocked](http://9gag.com/gag/a7oowx2)
+ - 💣 [Hmmmm](http://9gag.com/gag/azxx9gz)
+ - 😝 [Two types of autism](http://9gag.com/gag/aNDD0x4)
+ - 👉 [Wild genetics...](http://9gag.com/gag/axyy97W)<!-- MEMES:END -->
 
 ---
 

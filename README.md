@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [This New AI Search Engine Has a Gimmick: Humans Answering Questions](https://www.wired.com/story/this-new-ai-search-engine-has-a-gimmick-humans-answering-questions/)
+ - [This Company Wants to Build a Space Station That Has Artificial Gravity](https://www.wired.com/story/this-company-wants-to-build-a-space-station-that-has-artificial-gravity/)
+ - [Insomniac Games founder and CEO Ted Price plans to step down from the Sony-owned studio after 30+ years; a trio of Insomniac veterans will serve as co-heads &lpar;Jennifer Maas/Variety&rpar;](http://www.techmeme.com/250122/p23#a250122p23)
  - [Google Fiber is coming to Las Vegas](https://www.theverge.com/2025/1/22/24349463/google-fiber-las-vegas-rollout)
- - [Insomniac Games boss Ted Price is retiring](https://www.theverge.com/2025/1/22/24349524/ted-price-retiring-insomniac-games)
- - [Music AI, the AI startup behind Moises music creation service, raised a $40M Series A led by monashees and Connect Ventures, a partnership between CAA and NEA &lpar;Daniel Tencer/Music Business Worldwide&rpar;](http://www.techmeme.com/250122/p22#a250122p22)
- - [A look at The Stargate Project: unanswered questions, PR wins, SoftBank only has ~$30B cash, many projects are old news, and Elon Musk trolled the announcement &lpar;M.G. Siegler/Spyglass&rpar;](http://www.techmeme.com/250122/p21#a250122p21)
- - [Elon Musk, White House advisor, says OpenAI deal announced at White House is a sham](https://www.theverge.com/2025/1/22/24349449/elon-musk-stargate-project-money-allegation)<!-- TECH:END -->
+ - [Insomniac Games boss Ted Price is retiring](https://www.theverge.com/2025/1/22/24349524/ted-price-retiring-insomniac-games)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

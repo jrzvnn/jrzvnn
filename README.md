@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [History fact](http://9gag.com/gag/ajPPg0G)
- - 😝 [Would you try one of these?](http://9gag.com/gag/aGyyd2Z)
- - 💣 [Love Story lol](http://9gag.com/gag/aqyyKQP)
- - 😝 [Nice brake check bro](http://9gag.com/gag/aAyyG2L)
- - 👉 [Congratulations. What sport by the way?](http://9gag.com/gag/an77Q15)<!-- MEMES:END -->
+ - 😝 [Harvesting durian](http://9gag.com/gag/aD224QO)
+ - 😝 [Love Story lol](http://9gag.com/gag/aqyyKQP)
+ - 💣 [Nice brake check bro](http://9gag.com/gag/aAyyG2L)
+ - 😝 [NSFW](http://9gag.com/gag/aByyg5Q)
+ - 👉 [Nice jacket!](http://9gag.com/gag/aO88xv3)<!-- MEMES:END -->
 
 ---
 

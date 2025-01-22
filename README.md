@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Great Polish show, I&#39;ll watch again 9/10](http://9gag.com/gag/apRRgnE)
- - 😝 [Confusion](http://9gag.com/gag/aKGGEvW)
- - 💣 [Putting it in the middle gives ghosts the opportunity to surprise you on both sides.](http://9gag.com/gag/apRR9GE)
- - 😝 [Genders 2025](http://9gag.com/gag/avyyAOO)
- - 👉 [Hey Homie! It&#39;s Tony.](http://9gag.com/gag/a877qV6)<!-- MEMES:END -->
+ - 😝 [Remember why Trump got re-elected](http://9gag.com/gag/a7ooq9r)
+ - 😝 [Nice brake check bro](http://9gag.com/gag/aAyyG2L)
+ - 💣 [Congratulations. What sport by the way?](http://9gag.com/gag/an77Q15)
+ - 😝 [New fear unlocked](http://9gag.com/gag/a7oowx2)
+ - 👉 [Nice jacket!](http://9gag.com/gag/aO88xv3)<!-- MEMES:END -->
 
 ---
 

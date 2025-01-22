@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [iPhone 16 sales surge as Pro models lose their edge](https://appleinsider.com/articles/25/01/22/iphone-16-sales-surge-as-pro-models-lose-their-edge?utm_medium=rss)
  - [Galaxy Unpacked 2025: live updates from Samsung’s event](https://www.theverge.com/2025/1/22/24348685/samsung-galaxy-unpacked-2025-event-announcements-products)
  - [Antenna estimates Netflix drove 650K+ new US subscribers in the days surrounding the NFL games, and the Paul-Tyson fight drove 1.43M US subscription sign-ups &lpar;New York Times&rpar;](http://www.techmeme.com/250122/p24#a250122p24)
  - [Singapore&#39;s Likee Is an Unlikely Winner of the TikTok Ban](https://www.wired.com/story/likee-tiktok-apps-rednote/)
- - [NFL teams can’t use Bluesky](https://www.theverge.com/2025/1/22/24349499/nfl-patriots-bluesky-accounts-not-allowed-x-meta-threads)
- - [Here are the best Kindle deals right now](https://www.theverge.com/21539047/best-amazon-kindle-deals)<!-- TECH:END -->
+ - [NFL teams can’t use Bluesky](https://www.theverge.com/2025/1/22/24349499/nfl-patriots-bluesky-accounts-not-allowed-x-meta-threads)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

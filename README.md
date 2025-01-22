@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Survey of 3,000+ game devs: 11% were laid off in the past year, 58% back unionization, 30% say generative AI is having a negative impact on the industry, more &lpar;Dean Takahashi/VentureBeat&rpar;](http://www.techmeme.com/250121/p30#a250121p30)
- - [Marvel Snap is back online in the US after outage caused by the TikTok ban](https://appleinsider.com/articles/25/01/21/marvel-snap-is-back-online-in-the-us-after-outage-caused-by-the-tiktok-ban?utm_medium=rss)
- - [Trump says he’s open to Musk or Ellison buying TikTok](https://www.theverge.com/2025/1/21/24349011/trump-elon-musk-larry-ellison-oracle-tiktok-ban)
- - [Tonight You Can Marvel at Six Planets in a Spectacular Planet Parade](https://www.cnet.com/science/how-to-see-january-21-planet-parade-six-planets-in-alignment/#ftag=CAD590a51e)
- - [Trump says he would be open to Elon Musk or Larry Ellison purchasing TikTok US as part of a joint venture that would give the US government 50% ownership &lpar;Bloomberg&rpar;](http://www.techmeme.com/250121/p29#a250121p29)<!-- TECH:END -->
+ - [Trump Frees Silk Road Creator Ross Ulbricht After 11 Years in Prison](https://www.wired.com/story/trump-frees-silk-road-creator-ross-ulbricht-after-11-years-in-prison/)
+ - [StackBlitz, which offers an AI tool to create websites using text prompts, says it&#39;s finalizing raising $83.5M at a $700M valuation, following a $22M Series A &lpar;Bloomberg&rpar;](http://www.techmeme.com/250121/p33#a250121p33)
+ - [Trump grants a pardon to Ross Ulbricht, the creator of Silk Road and a cryptocurrency cult hero, serving a life sentence on money laundering and drug charges &lpar;New York Times&rpar;](http://www.techmeme.com/250121/p32#a250121p32)
+ - [Trump’s Plan to Leave the WHO Is a Health Disaster](https://www.wired.com/story/trump-plan-to-leave-the-who-health-disaster/)
+ - [Highnote, which offers businesses a card-issuing software, raised a $90M Series B led by Adams Street Partners, a source says at a $750M+ valuation &lpar;Stephen Pastis/Forbes&rpar;](http://www.techmeme.com/250121/p31#a250121p31)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

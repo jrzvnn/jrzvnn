@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Celeste developers cancel follow-up game Earthblade](https://www.theverge.com/2025/1/22/24349916/celeste-developers-cancel-earthblade-extremely-ok-games)
+ - [Apple will still have to deal with a class-action lawsuit alleging pay disparity](https://appleinsider.com/articles/25/01/22/apple-will-still-have-to-deal-with-a-class-action-lawsuit-alleging-pay-disparity?utm_medium=rss)
  - [Elon Musk Plays DOGE Ball—and Hits America’s Geek Squad](https://www.wired.com/story/plaintext-trump-musk-us-digital-service-doge/)
- - [eBay Sellers Are Hawking Used Phones With TikTok Pre-Installed for Thousands of Dollars](https://www.wired.com/story/ebay-sellers-are-hawking-used-phones-with-tiktok-pre-installed-for-thousands-of-dollars/)
- - [An analysis of two years of episodes by nine prominent podcasters shows how they became mainstream sources for young men and rallied support for Trump&#39;s agenda &lpar;Bloomberg&rpar;](http://www.techmeme.com/250122/p45#a250122p45)
- - [Nvidia’s triple-fan GPU cooler was one step along the way to a slimmer RTX 5090](https://www.theverge.com/2025/1/22/24349781/nvidia-quad-slot-titan-ada-4090-gpu-cooler-prototype-real)
- - [Canon set a new record with its 410-megapixel 35mm camera sensor](https://www.theverge.com/2025/1/22/24349792/canon-cmos-sensor-410-megapixels-35-millimeter-full-frame-photography)<!-- TECH:END -->
+ - [eBay Sellers Are Hawking Used Phones With TikTok Preinstalled for Thousands of Dollars](https://www.wired.com/story/ebay-sellers-are-hawking-used-phones-with-tiktok-pre-installed-for-thousands-of-dollars/)
+ - [An analysis of two years of episodes by nine prominent podcasters shows how they became mainstream sources for young men and rallied support for Trump&#39;s agenda &lpar;Bloomberg&rpar;](http://www.techmeme.com/250122/p45#a250122p45)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

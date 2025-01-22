@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Remember why Trump got re-elected](http://9gag.com/gag/a7ooq9r)
  - 😝 [Nice brake check bro](http://9gag.com/gag/aAyyG2L)
+ - 😝 [Wild genetics...](http://9gag.com/gag/axyy97W)
  - 💣 [Congratulations. What sport by the way?](http://9gag.com/gag/an77Q15)
- - 😝 [New fear unlocked](http://9gag.com/gag/a7oowx2)
- - 👉 [Nice jacket!](http://9gag.com/gag/aO88xv3)<!-- MEMES:END -->
+ - 😝 [*Beats Greyhound and Amtrak combined!](http://9gag.com/gag/avyyzrZ)
+ - 👉 [Hell yeah](http://9gag.com/gag/ayNN22Y)<!-- MEMES:END -->
 
 ---
 

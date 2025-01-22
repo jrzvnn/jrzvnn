@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Canon set a new record with its 410-megapixel 35mm camera sensor](https://www.theverge.com/2025/1/22/24349792/canon-cmos-sensor-410-megapixels-35-millimeter-full-frame-photography)
+ - [Google’s Gemini is already winning the next-gen assistant wars](https://www.theverge.com/2025/1/22/24349416/google-gemini-virtual-assistant-samsung-siri-alexa)
  - [Here’s how the new Galaxy S25 stacks up to the S25 Plus and S25 Ultra](https://www.theverge.com/24345428/samsung-galaxy-s25-plus-ultra-specs-comparison-price)
  - [Sources: OpenAI is working on an advanced AI coding assistant that can replicate a Level 6 engineer and relies in part on the company&#39;s o1 reasoning model &lpar;The Information&rpar;](http://www.techmeme.com/250122/p44#a250122p44)
- - [iPad 11, iPhone SE 4, &amp; iPad Air leak doesn&#39;t line up with previous rumors](https://appleinsider.com/articles/25/01/22/ipad-11-iphone-se-4-ipad-air-leak-doesnt-line-up-with-previous-rumors?utm_medium=rss)
- - [EA expects net bookings of $7B to $7.15B for the FY ending March 31, below guidance of $7.5B to $7.8B, citing underperforming games; stock falls 5%+ after hours &lpar;Kif Leswing/CNBC&rpar;](http://www.techmeme.com/250122/p43#a250122p43)
- - [Apple TV rumors, more CES releases, &amp; Apple&#39;s 2025 smart home plans on HomeKit Insider](https://appleinsider.com/articles/25/01/20/apple-tv-rumors-more-ces-releases-apples-2025-smart-home-plans-on-homekit-insider?utm_medium=rss)<!-- TECH:END -->
+ - [iPad 11, iPhone SE 4, &amp; iPad Air leak doesn&#39;t line up with previous rumors](https://appleinsider.com/articles/25/01/22/ipad-11-iphone-se-4-ipad-air-leak-doesnt-line-up-with-previous-rumors?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

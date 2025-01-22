@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Samsung claims its new Galaxy S25 Ultra glass can survive head-high drops on concrete](https://www.theverge.com/2025/1/22/24349700/samsung-s25-ultra-corning-gorilla-armor-2-ceramic)
- - [The Galaxy S25 Edge is Samsung’s rumored ‘slim’ phone](https://www.theverge.com/2025/1/22/24349652/samsung-galaxy-s25-edge-teased)
- - [The US Has Bird Flu Vaccines. Here’s Why You Can’t Get One](https://www.wired.com/story/the-us-has-bird-flu-vaccines-heres-why-you-cant-get-one/)
- - [A lot of people signed up for Netflix to watch Jake Paul fight Mike Tyson](https://www.theverge.com/2025/1/22/24349654/netflix-live-events-nfl-mike-tyson-jake-paul-subscribers)
- - [Leaker&#39;s iOS 18.3 reveals suggest M4 iPad Air &amp; iPhone SE 4 are close to launch](https://appleinsider.com/articles/25/01/22/leakers-ios-183-reveals-suggest-m4-ipad-air-iphone-se-4-are-close-to-launch?utm_medium=rss)<!-- TECH:END -->
+ - [New survey reports one in 10 game developers have lost their jobs in 2024](https://www.theverge.com/2025/1/22/24349728/gdc-state-of-the-industry-survey-2025-results)
+ - [Dozen of subreddits are banning links to X](https://www.theverge.com/2025/1/22/24349467/reddit-subreddit-x-twitter-link-bans-elon-musk-nazi-salute)
+ - [Here’s what Samsung’s first Android XR headset looks like in person](https://www.theverge.com/2025/1/22/24349736/samsung-project-moohan-photos-android-xr-headset)
+ - [Where to preorder the Samsung Galaxy S25, S25 Plus, and S25 Ultra](https://www.theverge.com/24346252/samsung-galaxy-s25-plus-ultra-how-to-buy-preorder-price-release-date)
+ - [Sources: Trump administration dismissed the members of CSRB, which investigates major cybersecurity incidents, likely disrupting the Salt Typhoon hacks probe &lpar;David DiMolfetta/Defense One&rpar;](http://www.techmeme.com/250122/p36#a250122p36)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

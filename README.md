@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Memo: ByteDance asks Chinese staff in Singapore to pay tax to China or risk losing their ability to cash out on stock options, as China steps up tax enforcement &lpar;Financial Times&rpar;](http://www.techmeme.com/250122/p14#a250122p14)
  - [Google will let you control your Chromebook with your face](https://www.theverge.com/2025/1/22/24348966/google-chromeos-face-control-chromebooks-classroom-features-laptops)
  - [Indonesia&#39;s long iPhone 16 ban may end soon](https://appleinsider.com/articles/25/01/22/indonesias-long-iphone-16-ban-may-end-soon?utm_medium=rss)
  - [Crypto exchange Deribit reports total trading volume, including options, futures, and more, rose 95% YoY to $1.19T in 2024; options volume rose 99% YoY to $743B &lpar;Omkar Godbole/CoinDesk&rpar;](http://www.techmeme.com/250122/p13#a250122p13)
- - [A Texas District Court rules against Tornado Cash sanctions, ordering a previous decision to be reversed; the US sanctioned Tornado Cash in August 2022 &lpar;Danny Park/The Block&rpar;](http://www.techmeme.com/250122/p12#a250122p12)
- - [UK CMA Chair Marcus Bokkerink plans to leave the antitrust agency, after pressure from UK ministers; the CMA appoints ex-Amazon exec Doug Gurr as interim chair &lpar;Financial Times&rpar;](http://www.techmeme.com/250122/p11#a250122p11)<!-- TECH:END -->
+ - [A Texas District Court rules against Tornado Cash sanctions, ordering a previous decision to be reversed; the US sanctioned Tornado Cash in August 2022 &lpar;Danny Park/The Block&rpar;](http://www.techmeme.com/250122/p12#a250122p12)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

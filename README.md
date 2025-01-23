@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Best Dog Food Delivery Services for 2025](https://www.cnet.com/home/kitchen-and-household/best-dog-food-delivery/#ftag=CAD590a51e)
+ - [Scale AI faces a lawsuit by six people who worked on its Outlier platform, claiming they were forced to write disturbing prompts about violence and abuse &lpar;Charles Rollet/TechCrunch&rpar;](http://www.techmeme.com/250122/p46#a250122p46)
  - [Tumblr’s experimental GIF feed finally launches after 10 years](https://www.theverge.com/2025/1/22/24349904/tumblr-tv-gif-video-tab)
- - [Today&#39;s NYT Connections Hints, Answers and Help for Jan. 23, #592](https://www.cnet.com/tech/gaming/todays-nyt-connections-hints-answers-and-help-for-jan-23-592/#ftag=CAD590a51e)
- - [Celeste developers cancel follow-up game Earthblade](https://www.theverge.com/2025/1/22/24349916/celeste-developers-cancel-earthblade-extremely-ok-games)
- - [Best Home Security Systems for Renters in 2025](https://www.cnet.com/home/security/best-home-security-systems-for-renters/#ftag=CAD590a51e)
- - [Apple will still have to deal with a class-action lawsuit alleging pay disparity](https://appleinsider.com/articles/25/01/22/apple-will-still-have-to-deal-with-a-class-action-lawsuit-alleging-pay-disparity?utm_medium=rss)<!-- TECH:END -->
+ - [Today&#39;s NYT Strands Hints, Answers and Help for Jan. 23, #326](https://www.cnet.com/tech/gaming/todays-nyt-strands-hints-answers-and-help-for-jan-23-326/#ftag=CAD590a51e)
+ - [Today&#39;s NYT Connections Hints, Answers and Help for Jan. 23, #592](https://www.cnet.com/tech/gaming/todays-nyt-connections-hints-answers-and-help-for-jan-23-592/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

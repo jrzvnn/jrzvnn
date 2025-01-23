@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [LED guy really is something else](http://9gag.com/gag/aO88Q5N)
- - 😝 [Cucky brits](http://9gag.com/gag/aGyyp1Z)
- - 💣 [How could this happen](http://9gag.com/gag/a4PP1x6)
- - 😝 [Some cuteness for the boiz](http://9gag.com/gag/adBBvMQ)
- - 👉 [Brave online](http://9gag.com/gag/a6ZZZRN)<!-- MEMES:END -->
+ - 😝 [5 year old who fatally shot baby brother was on cocaine while dead toddler had marijuana insystem](http://9gag.com/gag/aPAA75B)
+ - 😝 [India wet dream](http://9gag.com/gag/a4PPPpA)
+ - 💣 [In 2019, Amanda Eller went missing for 17 days in Maui&#39;s forests after a short hike went wrong. Without a phone, food, or water, she got lost after straying from the trail. Despite having virtually no supplies she managed to live off berries and stream water until she was found.](http://9gag.com/gag/aZZZrL0)
+ - 😝 [This mechanism is used to prevent trees from reaching electrical wiring and avoid forest fires](http://9gag.com/gag/aryymyB)
+ - 👉 [This tennis player made a move mid-game that was unlikely to happen](http://9gag.com/gag/apRR9Rb)<!-- MEMES:END -->
 
 ---
 

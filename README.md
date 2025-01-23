@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [Ain&#39;t Nobody Got Time For That](http://9gag.com/gag/aQzzv2e)
  - 😝 [That horrific,](http://9gag.com/gag/aGyyy0w)
- - 😝 [Empowerment](http://9gag.com/gag/aPAAZ2R)
- - 💣 [Several species of animals have already entered their respective `Stone Age`](http://9gag.com/gag/amoo1V9)
- - 😝 [Brave online](http://9gag.com/gag/a6ZZZRN)
- - 👉 [In 2019, Amanda Eller went missing for 17 days in Maui&#39;s forests after a short hike went wrong. Without a phone, food, or water, she got lost after straying from the trail. Despite having virtually no supplies she managed to live off berries and stream water until she was found.](http://9gag.com/gag/aZZZrL0)<!-- MEMES:END -->
+ - 💣 [Good](http://9gag.com/gag/aqyyRnY)
+ - 😝 [Abu Dhabi Police Five Star Wanted Level](http://9gag.com/gag/azxxxNm)
+ - 👉 [Ignorant People , Pointless Race But Satisfactory Ending](http://9gag.com/gag/agmm1ww)<!-- MEMES:END -->
 
 ---
 

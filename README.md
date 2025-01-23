@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: Trump&#39;s aides and Elon Musk became annoyed with Vivek Ramaswamy&#39;s outspokenness and some were angered by his H-1B comments, leading to his DOGE ouster &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/250123/p18#a250123p18)
- - [India tries telling Apple to pre-install government iPhone apps](https://appleinsider.com/articles/25/01/23/india-tries-telling-apple-to-pre-install-government-iphone-apps?utm_medium=rss)
- - [In a Fox News interview, Donald Trump downplays TikTok&#39;s national security risk, saying China makes smartphones, PCs, and more and &quot;isn&#39;t that a bigger threat?&quot; &lpar;Justin Sink/Bloomberg&rpar;](http://www.techmeme.com/250123/p17#a250123p17)
- - [‘Neo-Nazi Madness’: Meta’s Top AI Lawyer on Why He Fired the Company](https://www.wired.com/story/lawmaker-meta-copyright-cases/)
- - [A profile of Chinese AI lab DeepSeek, which says its new open-source DeepSeek-V3 model rivals US models while using fewer AI chips to train, costing just $6M &lpar;New York Times&rpar;](http://www.techmeme.com/250123/p16#a250123p16)<!-- TECH:END -->
+ - [Q&amp;A with Stanford professor and IP lawyer Mark Lemley on deciding to quit representing Meta in AI copyright case Kadrey v. Meta, Trump, DEI, Elon Musk, and more &lpar;Kate Knibbs/Wired&rpar;](http://www.techmeme.com/250123/p21#a250123p21)
+ - [France says David Balland, co-founder of French crypto wallet startup Ledger, was kidnapped on January 21 and freed on January 22 after a police operation &lpar;Benoit Berthelot/Bloomberg&rpar;](http://www.techmeme.com/250123/p20#a250123p20)
+ - [An interview with ex-CISA Director Jen Easterly, appointed in 2021, on leaving the agency, Trump, China&#39;s Salt Typhoon, Russia, unfinished business, and more &lpar;Lily Hay Newman/Wired&rpar;](http://www.techmeme.com/250123/p19#a250123p19)
+ - [Subaru Security Flaws Exposed Its System for Tracking Millions of Cars](https://www.wired.com/story/subaru-location-tracking-vulnerabilities/)
+ - [The Who&#39;s Who of MAGA Influencers You Should Know About by Now](https://www.wired.com/story/maga-influencers-content-creators/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

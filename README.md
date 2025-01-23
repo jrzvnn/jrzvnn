@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [This mechanism is used to prevent trees from reaching electrical wiring and avoid forest fires](http://9gag.com/gag/aryymyB)
- - 😝 [In 2019, Amanda Eller went missing for 17 days in Maui&#39;s forests after a short hike went wrong. Without a phone, food, or water, she got lost after straying from the trail. Despite having virtually no supplies she managed to live off berries and stream water until she was found.](http://9gag.com/gag/aZZZrL0)
- - 💣 [Can\u2019t not love this guy. GOAT William Dafoe](http://9gag.com/gag/a877ALO)
- - 😝 [Good](http://9gag.com/gag/aqyyRnY)
- - 👉 [Time to find a new job](http://9gag.com/gag/aD226Qx)<!-- MEMES:END -->
+ - 😝 [Looking for this Cinderella](http://9gag.com/gag/a0eeooZ)
+ - 😝 [I guess](http://9gag.com/gag/a2vvKBe)
+ - 💣 [Nice brake check bro](http://9gag.com/gag/aAyyG2L)
+ - 😝 [That horrific,](http://9gag.com/gag/aGyyy0w)
+ - 👉 [Empowerment](http://9gag.com/gag/aPAAZ2R)<!-- MEMES:END -->
 
 ---
 

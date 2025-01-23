@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Ninja Gaiden 4 is coming to Xbox](https://www.theverge.com/2025/1/23/24350352/ninja-gaiden-4-xbox)
- - [Microsoft rumored to launch a smaller Surface Pro and Surface Laptop soon](https://www.theverge.com/2025/1/23/24350373/microsoft-surface-pro-laptop-snapdragon-x-rumor)
- - [OpenAI releases a &quot;research preview&quot; of its Operator AI agent that can automate web-based tasks, launching in the US to subscribers of the $200/month Pro tier &lpar;Jay Peters/The Verge&rpar;](http://www.techmeme.com/250123/p37#a250123p37)
- - [At Davos, Trump blasts EU for targeting Apple, Google, and Meta, describing regulatory cases as &quot;a form of taxation&quot;, and references Apple&#39;s &amp;euro;13B Irish tax bill &lpar;Bloomberg&rpar;](http://www.techmeme.com/250123/p36#a250123p36)
- - [OpenAI’s new Operator AI agent can do things on the web for you](https://www.theverge.com/2025/1/23/24350395/openai-chatgpt-operator-agent-control-computer)<!-- TECH:END -->
+ - [Hands-on with Operator: limited in what it can browse, can perform repetitive workflows, and can do lengthy tasks on its own with minimal prompting &lpar;Every&rpar;](http://www.techmeme.com/250123/p40#a250123p40)
+ - [OpenAI partners with DoorDash, Instacart, Priceline, StubHub, and Uber to ensure that Operator respects these businesses&#39; terms of service agreements &lpar;Maxwell Zeff/TechCrunch&rpar;](http://www.techmeme.com/250123/p39#a250123p39)
+ - [OpenAI’s Operator Lets ChatGPT Use the Web for You](https://www.wired.com/story/openai-sets-chatgpt-loose-on-the-web/)
+ - [OpenAI says Operator is powered by Computer-Using Agent, or CUA, which combines GPT-4o&#39;s vision capabilities with &quot;reasoning&quot; abilities of more advanced models &lpar;Will Douglas Heaven/MIT Technology Review&rpar;](http://www.techmeme.com/250123/p38#a250123p38)
+ - [Ninja Gaiden 4 is coming to Xbox, PC, and PS5](https://www.theverge.com/2025/1/23/24350352/ninja-gaiden-4-xbox)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

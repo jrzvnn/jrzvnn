@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [And not just the men\u2026](http://9gag.com/gag/aE00M0G)
- - 😝 [Eru\u2019s back up plan](http://9gag.com/gag/a344Z11)
- - 💣 [Remember why Trump got re-elected](http://9gag.com/gag/a7ooq9r)
- - 😝 [Brave online](http://9gag.com/gag/a6ZZZRN)
- - 👉 [Ain&#39;t Nobody Got Time For That](http://9gag.com/gag/aQzzv2e)<!-- MEMES:END -->
+ - 😝 [Just in case if you wonder how POV videos are made](http://9gag.com/gag/azxx5mq)
+ - 😝 [Bye bye DEI&lpar;A&rpar;](http://9gag.com/gag/aXPPPpv)
+ - 💣 [Several species of animals have already entered their respective `Stone Age`](http://9gag.com/gag/amoo1V9)
+ - 😝 [India wet dream](http://9gag.com/gag/a4PPPpA)
+ - 👉 [That horrific,](http://9gag.com/gag/aGyyy0w)<!-- MEMES:END -->
 
 ---
 

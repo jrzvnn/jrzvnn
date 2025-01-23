@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Illegaluigi. From the archives circa 2014](http://9gag.com/gag/aO88xe6)
- - 😝 [That horrific,](http://9gag.com/gag/aGyyy0w)
- - 💣 [He tried hard to make his girlfriend happy and got it](http://9gag.com/gag/aGyyyw5)
- - 😝 [Hackers getting out of hand](http://9gag.com/gag/aqyyjA7)
- - 👉 [Good](http://9gag.com/gag/aqyyRnY)<!-- MEMES:END -->
+ - 😝 [Check Please](http://9gag.com/gag/aGyyzWG)
+ - 😝 [Eru\u2019s back up plan](http://9gag.com/gag/a344Z11)
+ - 💣 [Confusion](http://9gag.com/gag/aKGGEvW)
+ - 😝 [Abu Dhabi Police Five Star Wanted Level](http://9gag.com/gag/azxxxNm)
+ - 👉 [Just in case if you wonder how POV videos are made](http://9gag.com/gag/azxx5mq)<!-- MEMES:END -->
 
 ---
 

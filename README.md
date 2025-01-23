@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [SK Hynix&#39;s Q4 operating profit grew over 20x YoY to ~$5.6B, beating Samsung&#39;s for first time, with HBM chips accounting for 40% of its total DRAM chip revenue &lpar;Song Jung-a/Financial Times&rpar;](http://www.techmeme.com/250123/p5#a250123p5)
+ - [Design Within Reach Promo Codes: 50% Off](https://www.wired.com/story/design-within-reach-promo-code/)
  - [Saudi digital security firm Elm Company agrees to acquire business services firm Thiqah from Saudi Arabia&#39;s PIF, which is also Elm&#39;s majority owner, for $906M &lpar;Reuters&rpar;](http://www.techmeme.com/250123/p4#a250123p4)
  - [An interview with Pinterest CEO Bill Ready on why his company is backing US state laws to restrict cellphone use in classrooms &lpar;Naomi Nix/Washington Post&rpar;](http://www.techmeme.com/250123/p3#a250123p3)
- - [ByteDance launches Doubao-1.5-pro, an upgraded AI model, claiming it outperforms OpenAI&#39;s o1 in AIME benchmarks, joining DeepSeek in China&#39;s AI reasoning push &lpar;Reuters&rpar;](http://www.techmeme.com/250123/p2#a250123p2)
- - [Sensor Tower: consumer spending in 2024 on AI apps like ChatGPT, Gemini, and ByteDance&#39;s Doubao grew more than 200% YoY to nearly $1.1B &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/250123/p1#a250123p1)
- - [The Royal Shakespeare Company is turning Macbeth into a neo-noir game](https://www.theverge.com/2025/1/23/24349938/royal-shakespeare-company-macbeth-game-lili)<!-- TECH:END -->
+ - [ByteDance launches Doubao-1.5-pro, an upgraded AI model, claiming it outperforms OpenAI&#39;s o1 in AIME benchmarks, joining DeepSeek in China&#39;s AI reasoning push &lpar;Reuters&rpar;](http://www.techmeme.com/250123/p2#a250123p2)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

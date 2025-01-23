@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Brave online](http://9gag.com/gag/a6ZZZRN)
- - 😝 [In 2019, Amanda Eller went missing for 17 days in Maui&#39;s forests after a short hike went wrong. Without a phone, food, or water, she got lost after straying from the trail. Despite having virtually no supplies she managed to live off berries and stream water until she was found.](http://9gag.com/gag/aZZZrL0)
- - 💣 [This tennis player made a move mid-game that was unlikely to happen](http://9gag.com/gag/apRR9Rb)
- - 😝 [Good](http://9gag.com/gag/aqyyRnY)
- - 👉 [Illegaluigi. From the archives circa 2014](http://9gag.com/gag/aO88xe6)<!-- MEMES:END -->
+ - 😝 [How could this happen](http://9gag.com/gag/a4PP1x6)
+ - 😝 [Cucky brits](http://9gag.com/gag/aGyyp1Z)
+ - 💣 [Brave online](http://9gag.com/gag/a6ZZZRN)
+ - 😝 [How do you make an idiot say `how`?](http://9gag.com/gag/agmmowr)
+ - 👉 [Some cuteness for the boiz](http://9gag.com/gag/adBBvMQ)<!-- MEMES:END -->
 
 ---
 

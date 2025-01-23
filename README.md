@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [This tennis player made a move mid-game that was unlikely to happen](http://9gag.com/gag/apRR9Rb)
+ - 😝 [LED guy really is something else](http://9gag.com/gag/aO88Q5N)
+ - 😝 [How could this happen](http://9gag.com/gag/a4PP1x6)
+ - 💣 [Cucky brits](http://9gag.com/gag/aGyyp1Z)
  - 😝 [Brave online](http://9gag.com/gag/a6ZZZRN)
- - 💣 [India wet dream](http://9gag.com/gag/a4PPPpA)
- - 😝 [Remember why Trump got re-elected](http://9gag.com/gag/a7ooq9r)
- - 👉 [Abu Dhabi Police Five Star Wanted Level](http://9gag.com/gag/azxxxNm)<!-- MEMES:END -->
+ - 👉 [How do you make an idiot say `how`?](http://9gag.com/gag/agmmowr)<!-- MEMES:END -->
 
 ---
 

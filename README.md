@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Ain&#39;t Nobody Got Time For That](http://9gag.com/gag/aQzzv2e)
+ - 😝 [Looking for this Cinderella](http://9gag.com/gag/a0eeooZ)
+ - 😝 [Ash well that happened](http://9gag.com/gag/aByyZo1)
+ - 💣 [Brave online](http://9gag.com/gag/a6ZZZRN)
  - 😝 [That horrific,](http://9gag.com/gag/aGyyy0w)
- - 💣 [Good](http://9gag.com/gag/aqyyRnY)
- - 😝 [Abu Dhabi Police Five Star Wanted Level](http://9gag.com/gag/azxxxNm)
- - 👉 [Ignorant People , Pointless Race But Satisfactory Ending](http://9gag.com/gag/agmm1ww)<!-- MEMES:END -->
+ - 👉 [Remember why Trump got re-elected](http://9gag.com/gag/a7ooq9r)<!-- MEMES:END -->
 
 ---
 

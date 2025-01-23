@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [Abu Dhabi Police Five Star Wanted Level](http://9gag.com/gag/azxxxNm)
  - 😝 [Looking for this Cinderella](http://9gag.com/gag/a0eeooZ)
- - 😝 [I guess](http://9gag.com/gag/a2vvKBe)
- - 💣 [Remember why Trump got re-elected](http://9gag.com/gag/a7ooq9r)
- - 😝 [That horrific,](http://9gag.com/gag/aGyyy0w)
- - 👉 [Friend tried to play it off like she wasn&#39;t watching that bounce.](http://9gag.com/gag/axyy3j1)<!-- MEMES:END -->
+ - 💣 [That horrific,](http://9gag.com/gag/aGyyy0w)
+ - 😝 [Good](http://9gag.com/gag/aqyyRnY)
+ - 👉 [History fact](http://9gag.com/gag/ajPPg0G)<!-- MEMES:END -->
 
 ---
 

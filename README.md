@@ -161,7 +161,7 @@ R                        1 repo              ░░░░░░░░░░░�
  - [Why Walmart still won&#39;t accept Apple Pay](https://appleinsider.com/articles/25/01/23/why-walmart-still-wont-accept-apple-pay?utm_medium=rss)
  - [Bill Gates’ nuclear energy startup inks new data center deal](https://www.theverge.com/2025/1/23/24350335/bill-gates-terrapower-data-center-sabey-nuclear-energy-ai)
  - [New beta firmware available for AirPods Pro 2 and AirPods 4](https://appleinsider.com/articles/25/01/23/new-beta-firmware-available-for-airpods-pro-2-and-airpods-4?utm_medium=rss)
- - [Substack launches a $20M Creator Accelerator Fund to lure US creators who have $2K+ per month in recurring revenue away from other subscription-based platforms &lpar;Lauren Forristal/TechCrunch&rpar;](http://www.techmeme.com/250123/p43#a250123p43)<!-- TECH:END -->
+ - [Everything Announced at Xbox Developer Direct Showcase](https://www.cnet.com/tech/gaming/everything-announced-at-xbox-developer-direct-showcase-live-2025/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

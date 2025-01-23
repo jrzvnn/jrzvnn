@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [In 2019, Amanda Eller went missing for 17 days in Maui&#39;s forests after a short hike went wrong. Without a phone, food, or water, she got lost after straying from the trail. Despite having virtually no supplies she managed to live off berries and stream water until she was found.](http://9gag.com/gag/aZZZrL0)
- - 😝 [Good](http://9gag.com/gag/aqyyRnY)
- - 💣 [Nice brake check bro](http://9gag.com/gag/aAyyG2L)
- - 😝 [Brave online](http://9gag.com/gag/a6ZZZRN)
- - 👉 [That horrific,](http://9gag.com/gag/aGyyy0w)<!-- MEMES:END -->
+ - 😝 [Just in case if you wonder how POV videos are made](http://9gag.com/gag/azxx5mq)
+ - 😝 [I guess](http://9gag.com/gag/a2vvKBe)
+ - 💣 [Several species of animals have already entered their respective `Stone Age`](http://9gag.com/gag/amoo1V9)
+ - 😝 [Illegaluigi. From the archives circa 2014](http://9gag.com/gag/aO88xe6)
+ - 👉 [History fact](http://9gag.com/gag/ajPPg0G)<!-- MEMES:END -->
 
 ---
 

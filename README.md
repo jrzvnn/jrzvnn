@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Nvidia GeForce RTX 5090 review: fastest Blender benchmark score ever, DLSS4 frame generation works well, and good cooling but very expensive and power hungry &lpar;Devindra Hardawar/Engadget&rpar;](http://www.techmeme.com/250123/p30#a250123p30)
  - [Dasung’s new portable E Ink monitor has a 60Hz refresh rate](https://www.theverge.com/2025/1/23/24350334/dasung-paperlike-103-display-monitor-screen-e-ink-60hz)
+ - [The Proud Boys Are Plotting a Comeback. And They Want Revenge](https://www.wired.com/story/proud-boys-comeback-revenge/)
  - [Hugging Face releases SmolVLM-256M and SmolVLM-500M, claiming they can analyze images, short videos, and text on &quot;constrained devices&quot; with under ~1GB of RAM &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/250123/p29#a250123p29)
- - [CNN is building a new streaming service nearly three years after killing its last one](https://www.theverge.com/2025/1/23/24350287/cnn-new-streaming-service-killing-last-one)
- - [Pakistan&#39;s parliament passes a controversial bill giving the government sweeping controls on social media, including prison terms for spreading &quot;disinformation&quot; &lpar;Munir Ahmed/Associated Press&rpar;](http://www.techmeme.com/250123/p28#a250123p28)
- - [Matter will be better in 2025 — say the people who make it](https://www.theverge.com/24349390/matter-csa-thread-group-wifi-alliance-interview-2025)<!-- TECH:END -->
+ - [CNN is building a new streaming service nearly three years after killing its last one](https://www.theverge.com/2025/1/23/24350287/cnn-new-streaming-service-killing-last-one)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

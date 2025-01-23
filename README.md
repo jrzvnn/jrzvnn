@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Epic Games shifts EU app store strategy after missing target by 71 million users](https://appleinsider.com/articles/25/01/23/epic-games-shifts-eu-app-store-strategy-after-missing-target-by-71-million-users?utm_medium=rss)
+ - [Here are the best AirPods deals you can get right now](https://www.theverge.com/21302051/best-apple-airpods-deals)
  - [Trump signs an EO to create a cryptocurrency working group, which is expected to advise on digital asset policy, help establish a bitcoin reserve, and more &lpar;Reuters&rpar;](http://www.techmeme.com/250123/p44#a250123p44)
  - [Why Walmart still won&#39;t accept Apple Pay](https://appleinsider.com/articles/25/01/23/why-walmart-still-wont-accept-apple-pay?utm_medium=rss)
- - [Bill Gates’ nuclear energy startup inks new data center deal](https://www.theverge.com/2025/1/23/24350335/bill-gates-terrapower-data-center-sabey-nuclear-energy-ai)
- - [New beta firmware available for AirPods Pro 2 and AirPods 4](https://appleinsider.com/articles/25/01/23/new-beta-firmware-available-for-airpods-pro-2-and-airpods-4?utm_medium=rss)
- - [Everything Announced at Xbox Developer Direct Showcase](https://www.cnet.com/tech/gaming/everything-announced-at-xbox-developer-direct-showcase-live-2025/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Bill Gates’ nuclear energy startup inks new data center deal](https://www.theverge.com/2025/1/23/24350335/bill-gates-terrapower-data-center-sabey-nuclear-energy-ai)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

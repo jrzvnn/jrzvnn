@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Changpeng Zhao announces that Binance&#39;s VC arm Binance Labs, which oversees about $10B of crypto-related assets, will become a family office called YZi Labs &lpar;Bloomberg&rpar;](http://www.techmeme.com/250123/p25#a250123p25)
  - [ByteDance board member Bill Ford says ByteDance is exploring alternatives to selling TikTok US, including a change of control to comply with US legislation &lpar;Bloomberg&rpar;](http://www.techmeme.com/250123/p24#a250123p24)
  - [Pokemon TCG Pocket’s next expansion launches on January 30th](https://www.theverge.com/2025/1/23/24350223/pokemon-tcg-pocket-time-space-smackdown-release-date)
  - [I fit the world’s most powerful graphics card in my aging miniature SFF PC](https://www.theverge.com/2025/1/23/24349976/nvidia-rtx-5090-fe-small-form-factor-sff-hands-on)
- - [Nvidia’s GeForce RTX 5090 Review: A Video Card With AI](https://www.wired.com/review/nvidia-rtx-5090-fe-review/)
- - [Nvidia GeForce RTX 5090 review: a new king of 4K is here](https://www.theverge.com/2025/1/23/24349619/nvidia-rtx-5090-review-test-benchmark)<!-- TECH:END -->
+ - [Nvidia’s GeForce RTX 5090 Review: A Video Card With AI](https://www.wired.com/review/nvidia-rtx-5090-fe-review/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Psychology Can Be Harnessed to Combat Violent Extremism](https://www.wired.com/story/global-violent-extremism-psychology-social-media/)
  - [Some TikTok users say the app has changed, expressing trepidation and paranoia over its complimentary mentions of Trump in its goodbye and welcome back messages &lpar;Washington Post&rpar;](http://www.techmeme.com/250123/p11#a250123p11)
+ - [Best Internet Providers in Illinois](https://www.cnet.com/home/internet/best-internet-providers-in-illinois/#ftag=CAD590a51e)
  - [How Ross Ulbricht&#39;s allies, including crypto investors, libertarian politicians, and his mother, Lyn Ulbricht, persuaded Trump to pardon the Silk Road founder &lpar;New York Times&rpar;](http://www.techmeme.com/250123/p10#a250123p10)
- - [A GDC survey of 3K+ developers finds 80% are currently making PC games, up from 66% in 2024, versus 38% for the PlayStation 5 and 34% for the Xbox Series X/S &lpar;Andy Chalk/PC Gamer&rpar;](http://www.techmeme.com/250123/p9#a250123p9)
- - [State of Mobile 2025: in 2024, app downloads on iOS and Google Play dropped ~1% YoY to 136B, while revenue from IAP, paid apps, and games rose 13% YoY to $150B &lpar;Jonathan Briskman/Sensor Tower&rpar;](http://www.techmeme.com/250123/p8#a250123p8)
- - [An Indian tribunal suspends restrictions preventing WhatsApp from sharing user data with Meta for ads, temporarily lifting a five-year ban imposed by the CCI &lpar;Manish Singh/TechCrunch&rpar;](http://www.techmeme.com/250123/p7#a250123p7)<!-- TECH:END -->
+ - [A GDC survey of 3K+ developers finds 80% are currently making PC games, up from 66% in 2024, versus 38% for the PlayStation 5 and 34% for the Xbox Series X/S &lpar;Andy Chalk/PC Gamer&rpar;](http://www.techmeme.com/250123/p9#a250123p9)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

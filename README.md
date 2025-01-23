@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Sources: Daniel Guarnera, a DOJ lawyer who helped file US antitrust lawsuits against Google and Apple, has been picked to lead the FTC&#39;s Bureau of Competition &lpar;Bloomberg&rpar;](http://www.techmeme.com/250123/p50#a250123p50)
  - [Threads now lets you schedule posts](https://www.theverge.com/2025/1/23/24350639/threads-schedule-posts-launch-markup)
  - [Trump shrugs off Musk&#39;s criticism of Stargate, saying Musk &quot;hates one of the people in the deal&quot; and his comments are not an indictment of the deal&#39;s viability &lpar;Donald Judd/CNN&rpar;](http://www.techmeme.com/250123/p49#a250123p49)
  - [Heat pumps in EVs are making a big difference in cold-weather driving](https://www.theverge.com/2025/1/23/24350602/electric-vehicle-heat-pump-better-range-tesla-etron-mustang-mach-e)
- - [Google’s Gemini AI smart home controls are rolling out to everyone](https://www.theverge.com/2025/1/23/24350541/google-gemini-ai-smart-home-controls-launch)
- - [Gamers are already using Nvidia’s DLSS 4 tech in Cyberpunk 2077](https://www.theverge.com/2025/1/23/24350558/nvidia-dlss-4-frame-generation-cyberpunk-2077-transformer-graphics-update-patch)<!-- TECH:END -->
+ - [Google’s Gemini AI smart home controls are rolling out to everyone](https://www.theverge.com/2025/1/23/24350541/google-gemini-ai-smart-home-controls-launch)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

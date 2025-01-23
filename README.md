@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Remember why Trump got re-elected](http://9gag.com/gag/a7ooq9r)
- - 😝 [Looking for this Cinderella](http://9gag.com/gag/a0eeooZ)
- - 💣 [Testing the durability of the Toyota Hilux.](http://9gag.com/gag/a344E4v)
- - 😝 [That horrific,](http://9gag.com/gag/aGyyy0w)
- - 👉 [The surge](http://9gag.com/gag/aGyyppw)<!-- MEMES:END -->
+ - 😝 [How?](http://9gag.com/gag/a3441Y8)
+ - 😝 [This tennis player made a move mid-game that was unlikely to happen](http://9gag.com/gag/apRR9Rb)
+ - 💣 [That horrific,](http://9gag.com/gag/aGyyy0w)
+ - 😝 [History fact](http://9gag.com/gag/ajPPg0G)
+ - 👉 [Looking for this Cinderella](http://9gag.com/gag/a0eeooZ)<!-- MEMES:END -->
 
 ---
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Massage Competition](http://9gag.com/gag/aD226DO)
- - 😝 [Abu Dhabi Police Five Star Wanted Level](http://9gag.com/gag/azxxxNm)
+ - 😝 [Remember why Trump got re-elected](http://9gag.com/gag/a7ooq9r)
+ - 😝 [Illegaluigi. From the archives circa 2014](http://9gag.com/gag/aO88xe6)
  - 💣 [Just in case if you wonder how POV videos are made](http://9gag.com/gag/azxx5mq)
- - 😝 [That&#39;s the way to do it!](http://9gag.com/gag/azxxP5x)
- - 👉 [Ignorant People , Pointless Race But Satisfactory Ending](http://9gag.com/gag/agmm1ww)<!-- MEMES:END -->
+ - 😝 [Ignorant People , Pointless Race But Satisfactory Ending](http://9gag.com/gag/agmm1ww)
+ - 👉 [A teacher showing his paper aeroplane](http://9gag.com/gag/a877mpd)<!-- MEMES:END -->
 
 ---
 

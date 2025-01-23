@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Abu Dhabi Police Five Star Wanted Level](http://9gag.com/gag/azxxxNm)
- - 😝 [Looking for this Cinderella](http://9gag.com/gag/a0eeooZ)
- - 💣 [That horrific,](http://9gag.com/gag/aGyyy0w)
+ - 😝 [This mechanism is used to prevent trees from reaching electrical wiring and avoid forest fires](http://9gag.com/gag/aryymyB)
+ - 😝 [In 2019, Amanda Eller went missing for 17 days in Maui&#39;s forests after a short hike went wrong. Without a phone, food, or water, she got lost after straying from the trail. Despite having virtually no supplies she managed to live off berries and stream water until she was found.](http://9gag.com/gag/aZZZrL0)
+ - 💣 [Can\u2019t not love this guy. GOAT William Dafoe](http://9gag.com/gag/a877ALO)
  - 😝 [Good](http://9gag.com/gag/aqyyRnY)
- - 👉 [History fact](http://9gag.com/gag/ajPPg0G)<!-- MEMES:END -->
+ - 👉 [Time to find a new job](http://9gag.com/gag/aD226Qx)<!-- MEMES:END -->
 
 ---
 

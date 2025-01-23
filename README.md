@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [ChatGPT suffered a major outage on Thursday morning and OpenAI&#39;s API also experienced downtime; OpenAI says both issues are fixed &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/250123/p27#a250123p27)
  - [Baya Systems, which says its multi-die systems overcome traditional semiconductors&#39; bottlenecks, raised a $36M Series B led by Maverick Silicon &lpar;Dean Takahashi/VentureBeat&rpar;](http://www.techmeme.com/250123/p26#a250123p26)
  - [How Meta’s MAGA heel turn is a play for global power](https://www.theverge.com/24349734/meta-trump-free-speech-big-tech-power-geopolitics-zuckerberg-elon-musk-decoder-podcast-interview)
  - [Comcast launches a $70 sports streaming bundle with NFL, NBA, and MLB games](https://www.theverge.com/2025/1/23/24350208/comcast-live-sports-streaming-bundle-nfl-nba-mlb)
- - [The Global Far Right Is Celebrating Trump’s New World Order](https://www.wired.com/story/global-far-right-celebrating-trump/)
- - [How to watch today’s Xbox Developer Direct](https://www.theverge.com/2025/1/23/24350261/xbox-developer-direct-2025-how-to-watch-twitch-youtube)<!-- TECH:END -->
+ - [The Global Far Right Is Celebrating Trump’s New World Order](https://www.wired.com/story/global-far-right-celebrating-trump/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

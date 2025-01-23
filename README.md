@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Illegaluigi. From the archives circa 2014](http://9gag.com/gag/aO88xe6)
- - 😝 [Ignorant People , Pointless Race But Satisfactory Ending](http://9gag.com/gag/agmm1ww)
- - 💣 [That horrific,](http://9gag.com/gag/aGyyy0w)
- - 😝 [Abu Dhabi Police Five Star Wanted Level](http://9gag.com/gag/azxxxNm)
- - 👉 [Nice brake check bro](http://9gag.com/gag/aAyyG2L)<!-- MEMES:END -->
+ - 😝 [Good](http://9gag.com/gag/aqyyRnY)
+ - 😝 [That&#39;s the way to do it!](http://9gag.com/gag/azxxP5x)
+ - 💣 [Illegaluigi. From the archives circa 2014](http://9gag.com/gag/aO88xe6)
+ - 😝 [A teacher showing his paper aeroplane](http://9gag.com/gag/a877mpd)
+ - 👉 [Ignorant People , Pointless Race But Satisfactory Ending](http://9gag.com/gag/agmm1ww)<!-- MEMES:END -->
 
 ---
 

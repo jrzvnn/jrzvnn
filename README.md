@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Anthropic debuts Citations, a new API feature letting developers &quot;ground&quot; answers in source documents, available for Claude 3.5 Sonnet and Claude 3.5 Haiku &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/250123/p47#a250123p47)
  - [Twilio says its adjusted operating margin will reach 21%- 22% in 2027, exceeding est. and up from 16.1% in the most recent quarter; TWLO jumps 11%+ after hours &lpar;Jordan Novet/CNBC&rpar;](http://www.techmeme.com/250123/p46#a250123p46)
  - [Trump signs an EO to create a crypto working group led by David Sacks to consider a national digital asset stockpile &quot;potentially derived&quot; from seized crypto &lpar;MacKenzie Sigalos/CNBC&rpar;](http://www.techmeme.com/250123/p45#a250123p45)
  - [The Creators of &#39;Palworld&#39; Are Back—This Time With a Horror Game](https://www.wired.com/story/palworld-pocketpair-new-venture-surgent-studios/)
- - [Best Internet Providers in Spokane, Washington](https://www.cnet.com/home/internet/best-internet-providers-in-spokane-wa/#ftag=CAD590a51e)
- - [Epic Games shifts EU app store strategy after missing target by 71 million users](https://appleinsider.com/articles/25/01/23/epic-games-shifts-eu-app-store-strategy-after-missing-target-by-71-million-users?utm_medium=rss)<!-- TECH:END -->
+ - [Best Internet Providers in Spokane, Washington](https://www.cnet.com/home/internet/best-internet-providers-in-spokane-wa/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

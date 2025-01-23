@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Nvidia GeForce RTX 5090 review: fastest Blender benchmark score ever, DLSS4 frame generation works well, and good cooling but very expensive and power hungry &lpar;Devindra Hardawar/Engadget&rpar;](http://www.techmeme.com/250123/p30#a250123p30)
- - [Dasung’s new portable E Ink monitor has a 60Hz refresh rate](https://www.theverge.com/2025/1/23/24350334/dasung-paperlike-103-display-monitor-screen-e-ink-60hz)
- - [The Proud Boys Are Plotting a Comeback. And They Want Revenge](https://www.wired.com/story/proud-boys-comeback-revenge/)
- - [Hugging Face releases SmolVLM-256M and SmolVLM-500M, claiming they can analyze images, short videos, and text on &quot;constrained devices&quot; with under ~1GB of RAM &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/250123/p29#a250123p29)
- - [CNN is building a new streaming service nearly three years after killing its last one](https://www.theverge.com/2025/1/23/24350287/cnn-new-streaming-service-killing-last-one)<!-- TECH:END -->
+ - [Google’s mobile search results are dropping the ‘breadcrumbs’ from URLs](https://www.theverge.com/2025/1/23/24350305/google-mobile-search-result-url-breadcrumb-seo)
+ - [Amazon discounts TurboTax for Mac to as low as $36.99](https://appleinsider.com/articles/25/01/23/amazon-discounts-turbotax-for-mac-to-as-low-as-3699?utm_medium=rss)
+ - [Google is giving IT more control over your Chrome extensions](https://www.theverge.com/2025/1/23/24350178/google-chrome-extensions-admin-enterprise-controls)
+ - [Ramp launches Ramp Treasury, letting businesses store cash in a business account and earn 2.5% or in a money market fund for potentially higher yields &lpar;Mary Ann Azevedo/TechCrunch&rpar;](http://www.techmeme.com/250123/p31#a250123p31)
+ - [Nvidia GeForce RTX 5090 review: fastest Blender benchmark score ever, DLSS4 frame generation works well, and good cooling but very expensive and power hungry &lpar;Devindra Hardawar/Engadget&rpar;](http://www.techmeme.com/250123/p30#a250123p30)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

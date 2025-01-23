@@ -167,10 +167,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [Brave online](http://9gag.com/gag/a6ZZZRN)
- - 😝 [History fact](http://9gag.com/gag/ajPPg0G)
- - 💣 [Abu Dhabi Police Five Star Wanted Level](http://9gag.com/gag/azxxxNm)
- - 😝 [Just in case if you wonder how POV videos are made](http://9gag.com/gag/azxx5mq)
- - 👉 [That horrific,](http://9gag.com/gag/aGyyy0w)<!-- MEMES:END -->
+ - 😝 [How do you make an idiot say `how`?](http://9gag.com/gag/agmmowr)
+ - 💣 [That seems so satisfying](http://9gag.com/gag/aryy3YK)
+ - 😝 [Some cuteness for the boiz](http://9gag.com/gag/adBBvMQ)
+ - 👉 [Looking for this Cinderella](http://9gag.com/gag/a0eeooZ)<!-- MEMES:END -->
 
 ---
 

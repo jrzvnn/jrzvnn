@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Just in case if you wonder how POV videos are made](http://9gag.com/gag/azxx5mq)
- - 😝 [Bye bye DEI&lpar;A&rpar;](http://9gag.com/gag/aXPPPpv)
+ - 😝 [That horrific,](http://9gag.com/gag/aGyyy0w)
+ - 😝 [Empowerment](http://9gag.com/gag/aPAAZ2R)
  - 💣 [Several species of animals have already entered their respective `Stone Age`](http://9gag.com/gag/amoo1V9)
- - 😝 [India wet dream](http://9gag.com/gag/a4PPPpA)
- - 👉 [That horrific,](http://9gag.com/gag/aGyyy0w)<!-- MEMES:END -->
+ - 😝 [Brave online](http://9gag.com/gag/a6ZZZRN)
+ - 👉 [In 2019, Amanda Eller went missing for 17 days in Maui&#39;s forests after a short hike went wrong. Without a phone, food, or water, she got lost after straying from the trail. Despite having virtually no supplies she managed to live off berries and stream water until she was found.](http://9gag.com/gag/aZZZrL0)<!-- MEMES:END -->
 
 ---
 

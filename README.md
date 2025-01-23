@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Heat pumps in EVs are making a big difference in cold-weather driving](https://www.theverge.com/2025/1/23/24350602/electric-vehicle-heat-pump-better-range-tesla-etron-mustang-mach-e)
  - [Google’s Gemini AI smart home controls are rolling out to everyone](https://www.theverge.com/2025/1/23/24350541/google-gemini-ai-smart-home-controls-launch)
  - [Gamers are already using Nvidia’s DLSS 4 tech in Cyberpunk 2077](https://www.theverge.com/2025/1/23/24350558/nvidia-dlss-4-frame-generation-cyberpunk-2077-transformer-graphics-update-patch)
  - [Trump signs an EO to develop AI systems &quot;free from ideological bias or engineered social agendas&quot;, revoking Biden policies that &quot;act as barriers&quot; to innovation &lpar;Associated Press&rpar;](http://www.techmeme.com/250123/p48#a250123p48)
- - [The Trump Cryptonaissance Is Here](https://www.wired.com/story/trump-crypto-executive-order/)
- - [Anthropic debuts Citations, a new API feature letting developers &quot;ground&quot; answers in source documents, available for Claude 3.5 Sonnet and Claude 3.5 Haiku &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/250123/p47#a250123p47)<!-- TECH:END -->
+ - [Apple and Google Face Mobile Ecosystem Competition Probe in the UK](https://www.cnet.com/tech/mobile/apple-and-google-face-mobile-ecosystem-competition-probe-in-the-uk/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

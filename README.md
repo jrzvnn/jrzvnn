@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [ByteDance board member Bill Ford says ByteDance is exploring alternatives to selling TikTok US, including a change of control to comply with US legislation &lpar;Bloomberg&rpar;](http://www.techmeme.com/250123/p24#a250123p24)
  - [Pokemon TCG Pocket’s next expansion launches on January 30th](https://www.theverge.com/2025/1/23/24350223/pokemon-tcg-pocket-time-space-smackdown-release-date)
  - [I fit the world’s most powerful graphics card in my aging miniature SFF PC](https://www.theverge.com/2025/1/23/24349976/nvidia-rtx-5090-fe-small-form-factor-sff-hands-on)
  - [Nvidia’s GeForce RTX 5090 Review: A Video Card With AI](https://www.wired.com/review/nvidia-rtx-5090-fe-review/)
- - [Nvidia GeForce RTX 5090 review: a new king of 4K is here](https://www.theverge.com/2025/1/23/24349619/nvidia-rtx-5090-review-test-benchmark)
- - [UK&#39;s competition regulator assessing if Apple has too much overall power in mobile](https://appleinsider.com/articles/25/01/23/uks-competition-regulator-assessing-if-apple-has-too-much-overall-power-in-mobile?utm_medium=rss)<!-- TECH:END -->
+ - [Nvidia GeForce RTX 5090 review: a new king of 4K is here](https://www.theverge.com/2025/1/23/24349619/nvidia-rtx-5090-review-test-benchmark)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

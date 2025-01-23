@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Samsung S25 deals deliver up to $1,050 off for iPhone users willing to switch](https://appleinsider.com/articles/25/01/23/samsung-s25-deals-deliver-up-to-1050-off-for-iphone-users-willing-to-switch?utm_medium=rss)
+ - [SK Hynix reports Q4 revenue up 75% YoY to a record ~$13.7B, a ~$5.6B net profit, and a ~$5.6B operating profit, in line with estimates, as HBM chip demand soars &lpar;Yoolim Lee/Bloomberg&rpar;](http://www.techmeme.com/250122/p49#a250122p49)
  - [A US district judge rules that the FBI&#39;s warrantless &quot;backdoor&quot; searches of FISA&#39;s Section 702 databases violate the Fourth Amendment &lpar;Patrick G. Eddington/Cato Institute&rpar;](http://www.techmeme.com/250122/p48#a250122p48)
  - [Sources: Sam Altman told some colleagues that OpenAI and SoftBank will each commit $19B to Stargate, and OpenAI would effectively hold a 40% interest in the JV &lpar;The Information&rpar;](http://www.techmeme.com/250122/p47#a250122p47)
- - [I Won&#39;t Use AI Health Features, For My Own Wellbeing. Here&#39;s Why](https://www.cnet.com/tech/services-and-software/i-wont-use-ai-health-features-for-my-own-wellbeing-heres-why/#ftag=CAD590a51e)
- - [Best Teeth Whitening Kits in 2025](https://www.cnet.com/health/personal-care/best-teeth-whitening-kits/#ftag=CAD590a51e)
- - [Best Protein Shakes for an Effortless Boost in 2025](https://www.cnet.com/health/fitness/best-protein-shakes/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [I Won&#39;t Use AI Health Features, For My Own Wellbeing. Here&#39;s Why](https://www.cnet.com/tech/services-and-software/i-wont-use-ai-health-features-for-my-own-wellbeing-heres-why/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

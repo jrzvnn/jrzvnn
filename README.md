@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [How to watch today’s Xbox Developer Direct](https://www.theverge.com/2025/1/23/24350261/xbox-developer-direct-2025-how-to-watch-twitch-youtube)
- - [Changpeng Zhao announces that Binance&#39;s VC arm Binance Labs, which oversees about $10B of crypto-related assets, will become a family office called YZi Labs &lpar;Bloomberg&rpar;](http://www.techmeme.com/250123/p25#a250123p25)
- - [ByteDance board member Bill Ford says ByteDance is exploring alternatives to selling TikTok US, including a change of control to comply with US legislation &lpar;Bloomberg&rpar;](http://www.techmeme.com/250123/p24#a250123p24)
- - [Pokemon TCG Pocket’s next expansion launches on January 30th](https://www.theverge.com/2025/1/23/24350223/pokemon-tcg-pocket-time-space-smackdown-release-date)
- - [I fit the world’s most powerful graphics card in my aging miniature SFF PC](https://www.theverge.com/2025/1/23/24349976/nvidia-rtx-5090-fe-small-form-factor-sff-hands-on)<!-- TECH:END -->
+ - [Baya Systems, which says its multi-die systems overcome traditional semiconductors&#39; bottlenecks, raised a $36M Series B led by Maverick Silicon &lpar;Dean Takahashi/VentureBeat&rpar;](http://www.techmeme.com/250123/p26#a250123p26)
+ - [How Meta’s MAGA heel turn is a play for global power](https://www.theverge.com/24349734/meta-trump-free-speech-big-tech-power-geopolitics-zuckerberg-elon-musk-decoder-podcast-interview)
+ - [Comcast launches a $70 sports streaming bundle with NFL, NBA, and MLB games](https://www.theverge.com/2025/1/23/24350208/comcast-live-sports-streaming-bundle-nfl-nba-mlb)
+ - [The Global Far Right Is Celebrating Trump’s New World Order](https://www.wired.com/story/global-far-right-celebrating-trump/)
+ - [How to watch today’s Xbox Developer Direct](https://www.theverge.com/2025/1/23/24350261/xbox-developer-direct-2025-how-to-watch-twitch-youtube)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

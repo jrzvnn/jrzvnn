@@ -166,9 +166,9 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [That seems so satisfying](http://9gag.com/gag/aryy3YK)
  - 😝 [Brave online](http://9gag.com/gag/a6ZZZRN)
- - 😝 [How do you make an idiot say `how`?](http://9gag.com/gag/agmmowr)
- - 💣 [That seems so satisfying](http://9gag.com/gag/aryy3YK)
+ - 💣 [How do you make an idiot say `how`?](http://9gag.com/gag/agmmowr)
  - 😝 [Some cuteness for the boiz](http://9gag.com/gag/adBBvMQ)
  - 👉 [Looking for this Cinderella](http://9gag.com/gag/a0eeooZ)<!-- MEMES:END -->
 

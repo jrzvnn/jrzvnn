@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Oscars snub Apple TV+ movies, and Apple no longer cares](https://appleinsider.com/articles/25/01/23/oscars-snub-apple-tv-movies-and-apple-no-longer-cares?utm_medium=rss)
- - [Samsung Galaxy Ring drops to a new record low of $280](https://www.theverge.com/2025/1/23/24350232/samsung-galaxy-ring-smart-wearable-deal-sale)
- - [If your iPhone alarms aren&#39;t going off, you&#39;re not alone](https://appleinsider.com/articles/25/01/23/if-your-iphone-alarms-arent-going-off-youre-not-alone?utm_medium=rss)
- - [ChatGPT suffered a major outage on Thursday morning and OpenAI&#39;s API also experienced downtime; OpenAI says both issues are fixed &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/250123/p27#a250123p27)
- - [Baya Systems, which says its multi-die systems overcome traditional semiconductors&#39; bottlenecks, raised a $36M Series B led by Maverick Silicon &lpar;Dean Takahashi/VentureBeat&rpar;](http://www.techmeme.com/250123/p26#a250123p26)<!-- TECH:END -->
+ - [Dasung’s new portable E Ink monitor has a 60Hz refresh rate](https://www.theverge.com/2025/1/23/24350334/dasung-paperlike-103-display-monitor-screen-e-ink-60hz)
+ - [Hugging Face releases SmolVLM-256M and SmolVLM-500M, claiming they can analyze images, short videos, and text on &quot;constrained devices&quot; with under ~1GB of RAM &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/250123/p29#a250123p29)
+ - [CNN is building a new streaming service nearly three years after killing its last one](https://www.theverge.com/2025/1/23/24350287/cnn-new-streaming-service-killing-last-one)
+ - [Pakistan&#39;s parliament passes a controversial bill giving the government sweeping controls on social media, including prison terms for spreading &quot;disinformation&quot; &lpar;Munir Ahmed/Associated Press&rpar;](http://www.techmeme.com/250123/p28#a250123p28)
+ - [Matter will be better in 2025 — say the people who make it](https://www.theverge.com/24349390/matter-csa-thread-group-wifi-alliance-interview-2025)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

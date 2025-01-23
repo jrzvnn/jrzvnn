@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Looking for this Cinderella](http://9gag.com/gag/a0eeooZ)
- - 😝 [Ash well that happened](http://9gag.com/gag/aByyZo1)
- - 💣 [Brave online](http://9gag.com/gag/a6ZZZRN)
- - 😝 [That horrific,](http://9gag.com/gag/aGyyy0w)
- - 👉 [Remember why Trump got re-elected](http://9gag.com/gag/a7ooq9r)<!-- MEMES:END -->
+ - 😝 [Illegaluigi. From the archives circa 2014](http://9gag.com/gag/aO88xe6)
+ - 😝 [Ignorant People , Pointless Race But Satisfactory Ending](http://9gag.com/gag/agmm1ww)
+ - 💣 [That horrific,](http://9gag.com/gag/aGyyy0w)
+ - 😝 [Abu Dhabi Police Five Star Wanted Level](http://9gag.com/gag/azxxxNm)
+ - 👉 [Nice brake check bro](http://9gag.com/gag/aAyyG2L)<!-- MEMES:END -->
 
 ---
 

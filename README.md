@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [That horrific,](http://9gag.com/gag/aGyyy0w)
- - 😝 [Good](http://9gag.com/gag/aqyyRnY)
- - 💣 [Ignorant People , Pointless Race But Satisfactory Ending](http://9gag.com/gag/agmm1ww)
- - 😝 [Forgotten inventions #52](http://9gag.com/gag/ajPPLxw)
- - 👉 [A teacher showing his paper aeroplane](http://9gag.com/gag/a877mpd)<!-- MEMES:END -->
+ - 😝 [Brave online](http://9gag.com/gag/a6ZZZRN)
+ - 😝 [Massage Competition](http://9gag.com/gag/aD226DO)
+ - 💣 [That horrific,](http://9gag.com/gag/aGyyy0w)
+ - 😝 [Ignorant People , Pointless Race But Satisfactory Ending](http://9gag.com/gag/agmm1ww)
+ - 👉 [Just in case if you wonder how POV videos are made](http://9gag.com/gag/azxx5mq)<!-- MEMES:END -->
 
 ---
 

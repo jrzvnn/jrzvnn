@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Perplexity launches Perplexity Assistant in its Android app, which can take &quot;multi-app actions&quot; like hailing a ride, initially free for users in 15 languages &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/250123/p35#a250123p35)
  - [What matters most for AAPL shares next week](https://appleinsider.com/articles/25/01/23/what-matters-most-for-aapl-shares-next-week?utm_medium=rss)
  - [Google changes how visible URLs show up on mobile search results globally, dropping the &quot;breadcrumbs&quot; that show the hierarchy of a webpage&#39;s URL &lpar;Umar Shakir/The Verge&rpar;](http://www.techmeme.com/250123/p34#a250123p34)
  - [Sources: ByteDance has earmarked over $20.6B in capital expenditure for 2025, with about half of the amount on AI-related infrastructure outside China &lpar;Reuters&rpar;](http://www.techmeme.com/250123/p33#a250123p33)
- - [Pocketpair follows Palworld’s success with new indie publishing label](https://www.theverge.com/2025/1/23/24350273/pocketpair-palworld-indie-publishing-label-surgent-studios)
- - [Brave Search rolls out Rerank to let users boost or downgrade domains from their search results through thumbs up or thumbs down buttons &lpar;Bill Toulas/BleepingComputer&rpar;](http://www.techmeme.com/250123/p32#a250123p32)<!-- TECH:END -->
+ - [Pocketpair follows Palworld’s success with new indie publishing label](https://www.theverge.com/2025/1/23/24350273/pocketpair-palworld-indie-publishing-label-surgent-studios)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

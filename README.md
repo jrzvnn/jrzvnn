@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [ByteDance launches Doubao-1.5-pro, an upgraded AI model, claiming it outperforms OpenAI&#39;s o1 in AIME benchmarks, joining DeepSeek in China&#39;s AI reasoning push &lpar;Reuters&rpar;](http://www.techmeme.com/250123/p2#a250123p2)
+ - [Sensor Tower: consumer spending in 2024 on AI apps like ChatGPT, Gemini, and ByteDance&#39;s Doubao grew more than 200% YoY to nearly $1.1B &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/250123/p1#a250123p1)
  - [The Royal Shakespeare Company is turning Macbeth into a neo-noir game](https://www.theverge.com/2025/1/23/24349938/royal-shakespeare-company-macbeth-game-lili)
  - [How to share Safari tabs across different devices with iCloud Tabs](https://appleinsider.com/inside/safari/tips/how-to-share-safari-tabs-across-different-devices-with-icloud-tabs?utm_medium=rss)
- - [Sources: Microsoft and OpenAI were arguing over Microsoft&#39;s ability to fulfill OpenAI&#39;s computing needs, in the months leading up to the Stargate announcement &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/250122/p53#a250122p53)
- - [Microsoft was mentioned only as a technology partner in Stargate but the company is poised to benefit from the venture by offloading AI computing costs &lpar;Dina Bass/Bloomberg&rpar;](http://www.techmeme.com/250122/p52#a250122p52)
- - [Google signs an agreement to acquire a part of the HTC VIVE engineering team in Taiwan for $250M in cash, aiming to &quot;accelerate&quot; Android XR development &lpar;Abner Li/9to5Google&rpar;](http://www.techmeme.com/250122/p51#a250122p51)<!-- TECH:END -->
+ - [Sources: Microsoft and OpenAI were arguing over Microsoft&#39;s ability to fulfill OpenAI&#39;s computing needs, in the months leading up to the Stargate announcement &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/250122/p53#a250122p53)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Vitalik Buterin and the Ethereum Foundation back Etherealize, a NYC-based startup to market Ethereum to financial firms, as ether lags behind bitcoin&#39;s gains &lpar;Muyao Shen/Bloomberg&rpar;](http://www.techmeme.com/250123/p15#a250123p15)
  - [The UK CMA opens an investigation into Apple&#39;s App Store and Google&#39;s Play Store to &quot;explore the impact on people who use mobile devices&quot; and on businesses &lpar;Ryan Browne/CNBC&rpar;](http://www.techmeme.com/250123/p14#a250123p14)
  - [China and Southeast Asian nations pledge to deal with cybercrime centers, extending efforts that China&#39;s Global Times says has led to the arrest of 70K+ people &lpar;Bloomberg&rpar;](http://www.techmeme.com/250123/p13#a250123p13)
  - [Sources: India&#39;s technology ministry asked Apple, Google, and other smartphone makers to provide Indians direct access to the state-backed GOV.in app store &lpar;Sankalp Phartiyal/Bloomberg&rpar;](http://www.techmeme.com/250123/p12#a250123p12)
- - [Psychology Can Be Harnessed to Combat Violent Extremism](https://www.wired.com/story/global-violent-extremism-psychology-social-media/)
- - [Some TikTok users say the app has changed, expressing trepidation and paranoia over its complimentary mentions of Trump in its goodbye and welcome back messages &lpar;Washington Post&rpar;](http://www.techmeme.com/250123/p11#a250123p11)<!-- TECH:END -->
+ - [Psychology Can Be Harnessed to Combat Violent Extremism](https://www.wired.com/story/global-violent-extremism-psychology-social-media/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

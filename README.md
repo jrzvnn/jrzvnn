@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [The surge](http://9gag.com/gag/aGyyppw)
  - 😝 [This tennis player made a move mid-game that was unlikely to happen](http://9gag.com/gag/apRR9Rb)
- - 💣 [Philly Mayor demonstrated how she got her job completely based on merits and not at all dei](http://9gag.com/gag/aW44G1d)
- - 😝 [Hackers getting out of hand](http://9gag.com/gag/aqyyjA7)
- - 👉 [Good](http://9gag.com/gag/aqyyRnY)<!-- MEMES:END -->
+ - 😝 [Brave online](http://9gag.com/gag/a6ZZZRN)
+ - 💣 [India wet dream](http://9gag.com/gag/a4PPPpA)
+ - 😝 [Remember why Trump got re-elected](http://9gag.com/gag/a7ooq9r)
+ - 👉 [Abu Dhabi Police Five Star Wanted Level](http://9gag.com/gag/azxxxNm)<!-- MEMES:END -->
 
 ---
 

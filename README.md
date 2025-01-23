@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Health-focused Apple Watch has bands made of harmful &#39;forever chemicals&#39;](https://appleinsider.com/articles/25/01/23/health-focused-apple-watch-has-bands-made-of-harmful-forever-chemicals?utm_medium=rss)
  - [CAIS and Scale AI release &quot;Humanity&#39;s Last Exam&quot;, a new evaluation that they claim is the hardest-ever AI test, consisting of ~3,000 multiple-choice questions &lpar;Kevin Roose/New York Times&rpar;](http://www.techmeme.com/250123/p22#a250123p22)
- - [Apple Watch Series 10 vs Apple Watch Ultra 2 -- Which is best after three months?](https://appleinsider.com/inside/apple-watch-series-10/vs/apple-watch-series-10-vs-apple-watch-ultra-2----which-is-best-after-three-months?utm_medium=rss)
- - [Q&amp;A with Stanford professor and IP lawyer Mark Lemley on deciding to quit representing Meta in AI copyright case Kadrey v. Meta, Trump, DEI, Elon Musk, and more &lpar;Kate Knibbs/Wired&rpar;](http://www.techmeme.com/250123/p21#a250123p21)
- - [France says David Balland, co-founder of French crypto wallet startup Ledger, was kidnapped on January 21 and freed on January 22 after a police operation &lpar;Benoit Berthelot/Bloomberg&rpar;](http://www.techmeme.com/250123/p20#a250123p20)
- - [An interview with ex-CISA Director Jen Easterly, appointed in 2021, on leaving the agency, Trump, China&#39;s Salt Typhoon, Russia, unfinished business, and more &lpar;Lily Hay Newman/Wired&rpar;](http://www.techmeme.com/250123/p19#a250123p19)<!-- TECH:END -->
+ - [Why Mark Zuckerberg Is Ditching Human Fact-Checkers](https://www.wired.com/story/uncanny-valley-podcast-10-meta-ends-fact-checking/)
+ - [The Cadillac Lyriq-V is quicker than the CT5-V Blackwing](https://www.theverge.com/2025/1/23/24349756/cadillac-lyriq-v-acceleration-specs-price)
+ - [Star Trek: Section 31 is firing on all cylinders](https://www.theverge.com/2025/1/23/24340743/star-trek-section-31-review-paramount-plus)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

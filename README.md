@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [In a Fox News interview, Donald Trump downplays TikTok&#39;s national security risk, saying China makes smartphones, PCs, and more and &quot;isn&#39;t that a bigger threat?&quot; &lpar;Justin Sink/Bloomberg&rpar;](http://www.techmeme.com/250123/p17#a250123p17)
  - [A profile of Chinese AI lab DeepSeek, which says its new open-source DeepSeek-V3 model rivals US models while using fewer AI chips to train, costing just $6M &lpar;New York Times&rpar;](http://www.techmeme.com/250123/p16#a250123p16)
  - [Under Trump, US Cyberdefense Loses Its Head](https://www.wired.com/story/big-interview-jen-easterly-cisa-cybersecurity/)
  - [Vitalik Buterin and the Ethereum Foundation back Etherealize, a NYC-based startup to market Ethereum to financial firms, as ether lags behind bitcoin&#39;s gains &lpar;Muyao Shen/Bloomberg&rpar;](http://www.techmeme.com/250123/p15#a250123p15)
- - [The UK CMA opens investigations into Apple&#39;s and Google&#39;s mobile ecosystems, including OSes, app stores, and browsers, to see the impact on users and businesses &lpar;Ryan Browne/CNBC&rpar;](http://www.techmeme.com/250123/p14#a250123p14)
- - [Don&#39;t Let High APYs Pass You By. Today&#39;s CD Rates, Jan. 23, 2025](https://www.cnet.com/personal-finance/banking/dont-let-high-apys-pass-you-by-todays-cd-rates-jan-23-2025/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [The UK CMA opens investigations into Apple&#39;s and Google&#39;s mobile ecosystems, including OSes, app stores, and browsers, to see the impact on users and businesses &lpar;Ryan Browne/CNBC&rpar;](http://www.techmeme.com/250123/p14#a250123p14)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Sources: Trump&#39;s aides and Elon Musk became annoyed with Vivek Ramaswamy&#39;s outspokenness and some were angered by his H-1B comments, leading to his DOGE ouster &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/250123/p18#a250123p18)
  - [India tries telling Apple to pre-install government iPhone apps](https://appleinsider.com/articles/25/01/23/india-tries-telling-apple-to-pre-install-government-iphone-apps?utm_medium=rss)
  - [In a Fox News interview, Donald Trump downplays TikTok&#39;s national security risk, saying China makes smartphones, PCs, and more and &quot;isn&#39;t that a bigger threat?&quot; &lpar;Justin Sink/Bloomberg&rpar;](http://www.techmeme.com/250123/p17#a250123p17)
  - [‘Neo-Nazi Madness’: Meta’s Top AI Lawyer on Why He Fired the Company](https://www.wired.com/story/lawmaker-meta-copyright-cases/)
- - [A profile of Chinese AI lab DeepSeek, which says its new open-source DeepSeek-V3 model rivals US models while using fewer AI chips to train, costing just $6M &lpar;New York Times&rpar;](http://www.techmeme.com/250123/p16#a250123p16)
- - [Under Trump, US Cyberdefense Loses Its Head](https://www.wired.com/story/big-interview-jen-easterly-cisa-cybersecurity/)<!-- TECH:END -->
+ - [A profile of Chinese AI lab DeepSeek, which says its new open-source DeepSeek-V3 model rivals US models while using fewer AI chips to train, costing just $6M &lpar;New York Times&rpar;](http://www.techmeme.com/250123/p16#a250123p16)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

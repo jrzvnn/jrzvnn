@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Perplexity now has a mobile assistant on Android](https://www.theverge.com/2025/1/23/24350488/perplexity-ai-mobile-assistant-android)
+ - [Substack is spending $20 million to court TikTokers](https://www.theverge.com/2025/1/23/24350434/substack-creator-accelerator-fund-tiktok-ban)
+ - [Everything we saw at Xbox’s Developer Direct 2025](https://www.theverge.com/2025/1/23/24350382/xbox-developer-direct-january-2025-doom-ninja-gaiden-trailers)
  - [Fitbit fined $12 million for Ionic smartwatches that burned 78 people](https://www.theverge.com/2025/1/23/24350413/fitbit-fine-ionic-smartwatch-burns)
- - [Google’s Identity Check for Android keeps phone thieves out of your digital accounts](https://www.theverge.com/2025/1/23/24350457/google-android-identity-check-pixel-phone-thieves-digital-accounts)
- - [Google rolls out the first public beta of Android 16 for Pixel devices, introducing Live Updates, a limited version of Apple&#39;s Live Activities, and more &lpar;Dominic Preston/The Verge&rpar;](http://www.techmeme.com/250123/p42#a250123p42)
- - [Android 16’s first public beta adds Google’s more limited take on live lockscreen notifications](https://www.theverge.com/2025/1/23/24350182/android-16-first-public-beta-google-live-updates)
- - [Doom: The Dark Ages looks metal as hell and launches in May](https://www.theverge.com/2025/1/23/24349379/doom-the-dark-ages-release-date-trailer-xbox-pc-ps5)<!-- TECH:END -->
+ - [Google’s Identity Check for Android keeps phone thieves out of your digital accounts](https://www.theverge.com/2025/1/23/24350457/google-android-identity-check-pixel-phone-thieves-digital-accounts)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

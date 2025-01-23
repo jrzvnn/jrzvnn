@@ -161,7 +161,7 @@ R                        1 repo              ░░░░░░░░░░░�
  - [SK Hynix reports Q4 revenue up 75% YoY to a record ~$13.7B, a ~$5.6B net profit, and a ~$5.6B operating profit, in line with estimates, as HBM chip demand soars &lpar;Yoolim Lee/Bloomberg&rpar;](http://www.techmeme.com/250122/p49#a250122p49)
  - [A US district judge rules that the FBI&#39;s warrantless &quot;backdoor&quot; searches of FISA&#39;s Section 702 databases violate the Fourth Amendment &lpar;Patrick G. Eddington/Cato Institute&rpar;](http://www.techmeme.com/250122/p48#a250122p48)
  - [Sources: Sam Altman told some colleagues that OpenAI and SoftBank will each commit $19B to Stargate, and OpenAI would effectively hold a 40% interest in the JV &lpar;The Information&rpar;](http://www.techmeme.com/250122/p47#a250122p47)
- - [I Won&#39;t Use AI Health Features, For My Own Wellbeing. Here&#39;s Why](https://www.cnet.com/tech/services-and-software/i-wont-use-ai-health-features-for-my-own-wellbeing-heres-why/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [I Won&#39;t Use AI Health Features, for My Own Well-Being. Here&#39;s Why](https://www.cnet.com/tech/services-and-software/i-wont-use-ai-health-features-for-my-own-wellbeing-heres-why/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

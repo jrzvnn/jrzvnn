@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Remember why Trump got re-elected](http://9gag.com/gag/a7ooq9r)
- - 😝 [Brave online](http://9gag.com/gag/a6ZZZRN)
- - 💣 [Is that the future?](http://9gag.com/gag/adBBVD2)
- - 😝 [The surge](http://9gag.com/gag/aGyyppw)
- - 👉 [I guess](http://9gag.com/gag/a2vvKBe)<!-- MEMES:END -->
+ - 😝 [In 2019, Amanda Eller went missing for 17 days in Maui&#39;s forests after a short hike went wrong. Without a phone, food, or water, she got lost after straying from the trail. Despite having virtually no supplies she managed to live off berries and stream water until she was found.](http://9gag.com/gag/aZZZrL0)
+ - 😝 [President Trump does his dance with a sword to \u201cYMCA\u201d \ud83d\udd7a](http://9gag.com/gag/aD22d09)
+ - 💣 [I guess](http://9gag.com/gag/a2vvKBe)
+ - 😝 [That horrific,](http://9gag.com/gag/aGyyy0w)
+ - 👉 [Just in case if you wonder how POV videos are made](http://9gag.com/gag/azxx5mq)<!-- MEMES:END -->
 
 ---
 

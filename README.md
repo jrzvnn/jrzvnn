@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Fitbit fined $12 million for Ionic smartwatches that burned 78 people](https://www.theverge.com/2025/1/23/24350413/fitbit-fine-ionic-smartwatch-burns)
+ - [Google’s Identity Check for Android keeps phone thieves out of your digital accounts](https://www.theverge.com/2025/1/23/24350457/google-android-identity-check-pixel-phone-thieves-digital-accounts)
+ - [Google rolls out the first public beta of Android 16 for Pixel devices, introducing Live Updates, a limited version of Apple&#39;s Live Activities, and more &lpar;Dominic Preston/The Verge&rpar;](http://www.techmeme.com/250123/p42#a250123p42)
  - [Android 16’s first public beta adds Google’s more limited take on live lockscreen notifications](https://www.theverge.com/2025/1/23/24350182/android-16-first-public-beta-google-live-updates)
- - [Doom: The Dark Ages looks metal as hell and launches in May](https://www.theverge.com/2025/1/23/24349379/doom-the-dark-ages-release-date-trailer-xbox-pc-ps5)
- - [Epic launches a free games program on mobile and promises to pay the Apple Core Technology Fee for participants in the program on iOS for one year &lpar;Lauren Feiner/The Verge&rpar;](http://www.techmeme.com/250123/p41#a250123p41)
- - [iPhone 16 vs Samsung Galaxy S25 - Entry-level options compared](https://appleinsider.com/inside/iphone-16/vs/iphone-16-vs-samsung-galaxy-s25---entry-level-options-compared?utm_medium=rss)
- - [Hands-on with Operator: limited in what it can browse, can perform repetitive workflows, and can do lengthy tasks on its own with minimal prompting &lpar;Every&rpar;](http://www.techmeme.com/250123/p40#a250123p40)<!-- TECH:END -->
+ - [Doom: The Dark Ages looks metal as hell and launches in May](https://www.theverge.com/2025/1/23/24349379/doom-the-dark-ages-release-date-trailer-xbox-pc-ps5)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

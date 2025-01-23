@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [He tried hard to make his girlfriend happy and got it](http://9gag.com/gag/aGyyyw5)
+ - 😝 [Illegaluigi. From the archives circa 2014](http://9gag.com/gag/aO88xe6)
  - 😝 [That horrific,](http://9gag.com/gag/aGyyy0w)
- - 💣 [Looking for this Cinderella](http://9gag.com/gag/a0eeooZ)
- - 😝 [Good](http://9gag.com/gag/aqyyRnY)
- - 👉 [I guess](http://9gag.com/gag/a2vvKBe)<!-- MEMES:END -->
+ - 💣 [He tried hard to make his girlfriend happy and got it](http://9gag.com/gag/aGyyyw5)
+ - 😝 [Hackers getting out of hand](http://9gag.com/gag/aqyyjA7)
+ - 👉 [Good](http://9gag.com/gag/aqyyRnY)<!-- MEMES:END -->
 
 ---
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [This is how our grandparents think how you get a job these days](http://9gag.com/gag/aqyy8n7)
- - 😝 [Don&#39;t live in ignorance just because it&#39;s easy](http://9gag.com/gag/avyyegd)
- - 💣 [This will face numerous legal challenges, but it&#39;s a good start](http://9gag.com/gag/aKGG1ZW)
- - 😝 [There are about to be a lot of open spots at Harvard and Columbia!](http://9gag.com/gag/awyymeQ)
- - 👉 [In a nutshell](http://9gag.com/gag/aqyy87v)<!-- MEMES:END -->
+ - 😝 [Just in case if you wonder how POV videos are made](http://9gag.com/gag/azxx5mq)
+ - 😝 [A teacher showing his paper aeroplane](http://9gag.com/gag/a877mpd)
+ - 💣 [Why did they do this on live tv?](http://9gag.com/gag/aByyZP2)
+ - 😝 [Good](http://9gag.com/gag/aqyyRnY)
+ - 👉 [Remember why Trump got re-elected](http://9gag.com/gag/a7ooq9r)<!-- MEMES:END -->
 
 ---
 

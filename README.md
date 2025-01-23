@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [UK&#39;s competition regulator assessing if Apple has too much overall power in mobile](https://appleinsider.com/articles/25/01/23/uks-competition-regulator-assessing-if-apple-has-too-much-overall-power-in-mobile?utm_medium=rss)
- - [Researchers detail Subaru&#39;s now-fixed web vulnerabilities that let them track millions of Subarus via its Starlink features in the US, Canada, and Japan &lpar;Andy Greenberg/Wired&rpar;](http://www.techmeme.com/250123/p23#a250123p23)
- - [Health-focused Apple Watch has bands made of harmful &#39;forever chemicals&#39;](https://appleinsider.com/articles/25/01/23/health-focused-apple-watch-has-bands-made-of-harmful-forever-chemicals?utm_medium=rss)
- - [CAIS and Scale AI release &quot;Humanity&#39;s Last Exam&quot;, a new evaluation that they claim is the hardest-ever AI test, consisting of ~3,000 multiple-choice questions &lpar;Kevin Roose/New York Times&rpar;](http://www.techmeme.com/250123/p22#a250123p22)
- - [Why Mark Zuckerberg Is Ditching Human Fact-Checkers](https://www.wired.com/story/uncanny-valley-podcast-10-meta-ends-fact-checking/)<!-- TECH:END -->
+ - [Pokemon TCG Pocket’s next expansion launches on January 30th](https://www.theverge.com/2025/1/23/24350223/pokemon-tcg-pocket-time-space-smackdown-release-date)
+ - [I fit the world’s most powerful graphics card in my aging miniature SFF PC](https://www.theverge.com/2025/1/23/24349976/nvidia-rtx-5090-fe-small-form-factor-sff-hands-on)
+ - [Nvidia’s GeForce RTX 5090 Review: A Video Card With AI](https://www.wired.com/review/nvidia-rtx-5090-fe-review/)
+ - [Nvidia GeForce RTX 5090 review: a new king of 4K is here](https://www.theverge.com/2025/1/23/24349619/nvidia-rtx-5090-review-test-benchmark)
+ - [UK&#39;s competition regulator assessing if Apple has too much overall power in mobile](https://appleinsider.com/articles/25/01/23/uks-competition-regulator-assessing-if-apple-has-too-much-overall-power-in-mobile?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

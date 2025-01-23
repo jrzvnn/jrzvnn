@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [A profile of Chinese AI lab DeepSeek, which says its new open-source DeepSeek-V3 model rivals US models while using fewer AI chips to train, costing just $6M &lpar;New York Times&rpar;](http://www.techmeme.com/250123/p16#a250123p16)
+ - [Under Trump, US Cyberdefense Loses Its Head](https://www.wired.com/story/big-interview-jen-easterly-cisa-cybersecurity/)
  - [Vitalik Buterin and the Ethereum Foundation back Etherealize, a NYC-based startup to market Ethereum to financial firms, as ether lags behind bitcoin&#39;s gains &lpar;Muyao Shen/Bloomberg&rpar;](http://www.techmeme.com/250123/p15#a250123p15)
- - [The UK CMA opens an investigation into Apple&#39;s App Store and Google&#39;s Play Store to &quot;explore the impact on people who use mobile devices&quot; and on businesses &lpar;Ryan Browne/CNBC&rpar;](http://www.techmeme.com/250123/p14#a250123p14)
- - [China and Southeast Asian nations pledge to deal with cybercrime centers, extending efforts that China&#39;s Global Times says has led to the arrest of 70K+ people &lpar;Bloomberg&rpar;](http://www.techmeme.com/250123/p13#a250123p13)
- - [Sources: India&#39;s technology ministry asked Apple, Google, and other smartphone makers to provide Indians direct access to the state-backed GOV.in app store &lpar;Sankalp Phartiyal/Bloomberg&rpar;](http://www.techmeme.com/250123/p12#a250123p12)
- - [Psychology Can Be Harnessed to Combat Violent Extremism](https://www.wired.com/story/global-violent-extremism-psychology-social-media/)<!-- TECH:END -->
+ - [The UK CMA opens investigations into Apple&#39;s and Google&#39;s mobile ecosystems, including OSes, app stores, and browsers, to see the impact on users and businesses &lpar;Ryan Browne/CNBC&rpar;](http://www.techmeme.com/250123/p14#a250123p14)
+ - [China and Southeast Asian nations pledge to deal with cybercrime centers, extending efforts that China&#39;s Global Times says has led to the arrest of 70K+ people &lpar;Bloomberg&rpar;](http://www.techmeme.com/250123/p13#a250123p13)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

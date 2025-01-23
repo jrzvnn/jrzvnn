@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [How?](http://9gag.com/gag/a3441Y8)
- - 😝 [This tennis player made a move mid-game that was unlikely to happen](http://9gag.com/gag/apRR9Rb)
- - 💣 [That horrific,](http://9gag.com/gag/aGyyy0w)
- - 😝 [History fact](http://9gag.com/gag/ajPPg0G)
- - 👉 [Looking for this Cinderella](http://9gag.com/gag/a0eeooZ)<!-- MEMES:END -->
+ - 😝 [He tried hard to make his girlfriend happy and got it](http://9gag.com/gag/aGyyyw5)
+ - 😝 [That horrific,](http://9gag.com/gag/aGyyy0w)
+ - 💣 [Looking for this Cinderella](http://9gag.com/gag/a0eeooZ)
+ - 😝 [Good](http://9gag.com/gag/aqyyRnY)
+ - 👉 [I guess](http://9gag.com/gag/a2vvKBe)<!-- MEMES:END -->
 
 ---
 

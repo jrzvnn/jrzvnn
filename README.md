@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Google changes how visible URLs show up on mobile search results globally, dropping the &quot;breadcrumbs&quot; that show the hierarchy of a webpage&#39;s URL &lpar;Umar Shakir/The Verge&rpar;](http://www.techmeme.com/250123/p34#a250123p34)
  - [Sources: ByteDance has earmarked over $20.6B in capital expenditure for 2025, with about half of the amount on AI-related infrastructure outside China &lpar;Reuters&rpar;](http://www.techmeme.com/250123/p33#a250123p33)
  - [Pocketpair follows Palworld’s success with new indie publishing label](https://www.theverge.com/2025/1/23/24350273/pocketpair-palworld-indie-publishing-label-surgent-studios)
  - [Brave Search rolls out Rerank to let users boost or downgrade domains from their search results through thumbs up or thumbs down buttons &lpar;Bill Toulas/BleepingComputer&rpar;](http://www.techmeme.com/250123/p32#a250123p32)
- - [The Sonos Arc is matching its best price to date just in time for the Super Bowl](https://www.theverge.com/2025/1/23/24350296/sonos-arc-soundbar-anker-nano-75w-retractable-car-charger-deal-sale)
- - [Google’s mobile search results are dropping the ‘breadcrumbs’ from URLs](https://www.theverge.com/2025/1/23/24350305/google-mobile-search-result-url-breadcrumb-seo)<!-- TECH:END -->
+ - [The Sonos Arc is matching its best price to date just in time for the Super Bowl](https://www.theverge.com/2025/1/23/24350296/sonos-arc-soundbar-anker-nano-75w-retractable-car-charger-deal-sale)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

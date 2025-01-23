@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Neko Health, a startup co-founded by Daniel Ek that offers AI-based full-body scans, has raised $260M led by Lightspeed, sources say at a $1.7B valuation &lpar;Tim Bradshaw/Financial Times&rpar;](http://www.techmeme.com/250123/p6#a250123p6)
+ - [State of Mobile 2025: in 2024, app downloads on iOS and Google Play dropped ~1% YoY to 136B, while revenue from IAP, paid apps, and games rose 13% YoY to $150B &lpar;Jonathan Briskman/Sensor Tower&rpar;](http://www.techmeme.com/250123/p8#a250123p8)
+ - [An Indian tribunal suspends restrictions preventing WhatsApp from sharing user data with Meta for ads, temporarily lifting a five-year ban imposed by the CCI &lpar;Manish Singh/TechCrunch&rpar;](http://www.techmeme.com/250123/p7#a250123p7)
+ - [Neko Health, a startup co-founded by Daniel Ek that offers AI-based full-body scans, raised a $260M Series B led by Lightspeed, sources say at a $1.7B valuation &lpar;Tim Bradshaw/Financial Times&rpar;](http://www.techmeme.com/250123/p6#a250123p6)
  - [Therabody Promo Codes and Deals: 10% Off](https://www.wired.com/story/therabody-promo-code/)
- - [SK Hynix&#39;s Q4 operating profit grew over 20x YoY to ~$5.6B, beating Samsung&#39;s for first time, with HBM chips accounting for 40% of its total DRAM chip revenue &lpar;Song Jung-a/Financial Times&rpar;](http://www.techmeme.com/250123/p5#a250123p5)
- - [Design Within Reach Promo Codes: 50% Off](https://www.wired.com/story/design-within-reach-promo-code/)
- - [Saudi digital security firm Elm Company agrees to acquire business services firm Thiqah from Saudi Arabia&#39;s PIF, which is also Elm&#39;s majority owner, for $906M &lpar;Reuters&rpar;](http://www.techmeme.com/250123/p4#a250123p4)<!-- TECH:END -->
+ - [SK Hynix&#39;s Q4 operating profit grew over 20x YoY to ~$5.6B, beating Samsung&#39;s for first time, with HBM chips accounting for 40% of its total DRAM chip revenue &lpar;Song Jung-a/Financial Times&rpar;](http://www.techmeme.com/250123/p5#a250123p5)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

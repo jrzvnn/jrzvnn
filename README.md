@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Threads now lets you schedule posts](https://www.theverge.com/2025/1/23/24350639/threads-schedule-posts-launch-markup)
+ - [Trump shrugs off Musk&#39;s criticism of Stargate, saying Musk &quot;hates one of the people in the deal&quot; and his comments are not an indictment of the deal&#39;s viability &lpar;Donald Judd/CNN&rpar;](http://www.techmeme.com/250123/p49#a250123p49)
  - [Heat pumps in EVs are making a big difference in cold-weather driving](https://www.theverge.com/2025/1/23/24350602/electric-vehicle-heat-pump-better-range-tesla-etron-mustang-mach-e)
  - [Google’s Gemini AI smart home controls are rolling out to everyone](https://www.theverge.com/2025/1/23/24350541/google-gemini-ai-smart-home-controls-launch)
- - [Gamers are already using Nvidia’s DLSS 4 tech in Cyberpunk 2077](https://www.theverge.com/2025/1/23/24350558/nvidia-dlss-4-frame-generation-cyberpunk-2077-transformer-graphics-update-patch)
- - [Trump signs an EO to develop AI systems &quot;free from ideological bias or engineered social agendas&quot;, revoking Biden policies that &quot;act as barriers&quot; to innovation &lpar;Associated Press&rpar;](http://www.techmeme.com/250123/p48#a250123p48)
- - [Apple and Google Face Mobile Ecosystem Competition Probe in the UK](https://www.cnet.com/tech/mobile/apple-and-google-face-mobile-ecosystem-competition-probe-in-the-uk/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Gamers are already using Nvidia’s DLSS 4 tech in Cyberpunk 2077](https://www.theverge.com/2025/1/23/24350558/nvidia-dlss-4-frame-generation-cyberpunk-2077-transformer-graphics-update-patch)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

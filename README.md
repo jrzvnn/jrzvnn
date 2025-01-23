@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Cucky brits](http://9gag.com/gag/aGyyp1Z)
- - 😝 [Brave online](http://9gag.com/gag/a6ZZZRN)
- - 💣 [How do you make an idiot say `how`?](http://9gag.com/gag/agmmowr)
- - 😝 [Some cuteness for the boiz](http://9gag.com/gag/adBBvMQ)
- - 👉 [Looking for this Cinderella](http://9gag.com/gag/a0eeooZ)<!-- MEMES:END -->
+ - 😝 [Good](http://9gag.com/gag/aqyyRnY)
+ - 😝 [Abu Dhabi Police Five Star Wanted Level](http://9gag.com/gag/azxxxNm)
+ - 💣 [That horrific,](http://9gag.com/gag/aGyyy0w)
+ - 😝 [Ain&#39;t Nobody Got Time For That](http://9gag.com/gag/aQzzv2e)
+ - 👉 [Just in case if you wonder how POV videos are made](http://9gag.com/gag/azxx5mq)<!-- MEMES:END -->
 
 ---
 

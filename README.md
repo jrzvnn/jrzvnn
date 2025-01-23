@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Good](http://9gag.com/gag/aqyyRnY)
- - 😝 [That&#39;s the way to do it!](http://9gag.com/gag/azxxP5x)
- - 💣 [Illegaluigi. From the archives circa 2014](http://9gag.com/gag/aO88xe6)
- - 😝 [A teacher showing his paper aeroplane](http://9gag.com/gag/a877mpd)
- - 👉 [Ignorant People , Pointless Race But Satisfactory Ending](http://9gag.com/gag/agmm1ww)<!-- MEMES:END -->
+ - 😝 [This is how our grandparents think how you get a job these days](http://9gag.com/gag/aqyy8n7)
+ - 😝 [Don&#39;t live in ignorance just because it&#39;s easy](http://9gag.com/gag/avyyegd)
+ - 💣 [This will face numerous legal challenges, but it&#39;s a good start](http://9gag.com/gag/aKGG1ZW)
+ - 😝 [There are about to be a lot of open spots at Harvard and Columbia!](http://9gag.com/gag/awyymeQ)
+ - 👉 [In a nutshell](http://9gag.com/gag/aqyy87v)<!-- MEMES:END -->
 
 ---
 

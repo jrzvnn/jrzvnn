@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Good](http://9gag.com/gag/aqyyRnY)
- - 😝 [Abu Dhabi Police Five Star Wanted Level](http://9gag.com/gag/azxxxNm)
- - 💣 [That horrific,](http://9gag.com/gag/aGyyy0w)
- - 😝 [Ain&#39;t Nobody Got Time For That](http://9gag.com/gag/aQzzv2e)
- - 👉 [Just in case if you wonder how POV videos are made](http://9gag.com/gag/azxx5mq)<!-- MEMES:END -->
+ - 😝 [Brave online](http://9gag.com/gag/a6ZZZRN)
+ - 😝 [History fact](http://9gag.com/gag/ajPPg0G)
+ - 💣 [Abu Dhabi Police Five Star Wanted Level](http://9gag.com/gag/azxxxNm)
+ - 😝 [Just in case if you wonder how POV videos are made](http://9gag.com/gag/azxx5mq)
+ - 👉 [That horrific,](http://9gag.com/gag/aGyyy0w)<!-- MEMES:END -->
 
 ---
 

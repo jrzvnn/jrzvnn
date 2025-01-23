@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Can\u2019t not love this guy. GOAT William Dafoe](http://9gag.com/gag/a877ALO)
- - 😝 [Philly Mayor demonstrated how she got her job completely based on merits and not at all dei](http://9gag.com/gag/aW44G1d)
- - 💣 [Brave online](http://9gag.com/gag/a6ZZZRN)
- - 😝 [That horrific,](http://9gag.com/gag/aGyyy0w)
- - 👉 [Abu Dhabi Police Five Star Wanted Level](http://9gag.com/gag/azxxxNm)<!-- MEMES:END -->
+ - 😝 [LED guy really is something else](http://9gag.com/gag/aO88Q5N)
+ - 😝 [Cucky brits](http://9gag.com/gag/aGyyp1Z)
+ - 💣 [How could this happen](http://9gag.com/gag/a4PP1x6)
+ - 😝 [Some cuteness for the boiz](http://9gag.com/gag/adBBvMQ)
+ - 👉 [Brave online](http://9gag.com/gag/a6ZZZRN)<!-- MEMES:END -->
 
 ---
 

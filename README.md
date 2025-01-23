@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The Royal Shakespeare Company is turning Macbeth into a neo-noir game](https://www.theverge.com/2025/1/23/24349938/royal-shakespeare-company-macbeth-game-lili)
  - [How to share Safari tabs across different devices with iCloud Tabs](https://appleinsider.com/inside/safari/tips/how-to-share-safari-tabs-across-different-devices-with-icloud-tabs?utm_medium=rss)
  - [Sources: Microsoft and OpenAI were arguing over Microsoft&#39;s ability to fulfill OpenAI&#39;s computing needs, in the months leading up to the Stargate announcement &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/250122/p53#a250122p53)
  - [Microsoft was mentioned only as a technology partner in Stargate but the company is poised to benefit from the venture by offloading AI computing costs &lpar;Dina Bass/Bloomberg&rpar;](http://www.techmeme.com/250122/p52#a250122p52)
- - [Google signs an agreement to acquire a part of the HTC VIVE engineering team in Taiwan for $250M in cash, aiming to &quot;accelerate&quot; Android XR development &lpar;Abner Li/9to5Google&rpar;](http://www.techmeme.com/250122/p51#a250122p51)
- - [Moderators for 50+ subreddits announce bans of X links in new posts and comments, with several citing Elon Musk&#39;s recent gesture that many saw as a Nazi salute &lpar;Kat Tenbarge/NBC News&rpar;](http://www.techmeme.com/250122/p50#a250122p50)<!-- TECH:END -->
+ - [Google signs an agreement to acquire a part of the HTC VIVE engineering team in Taiwan for $250M in cash, aiming to &quot;accelerate&quot; Android XR development &lpar;Abner Li/9to5Google&rpar;](http://www.techmeme.com/250122/p51#a250122p51)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

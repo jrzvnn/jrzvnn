@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [A GDC survey of 3K+ developers finds 80% are currently making PC games, up from 66% in 2024, versus 38% for the PlayStation 5 and 34% for the Xbox Series X/S &lpar;Andy Chalk/PC Gamer&rpar;](http://www.techmeme.com/250123/p9#a250123p9)
  - [State of Mobile 2025: in 2024, app downloads on iOS and Google Play dropped ~1% YoY to 136B, while revenue from IAP, paid apps, and games rose 13% YoY to $150B &lpar;Jonathan Briskman/Sensor Tower&rpar;](http://www.techmeme.com/250123/p8#a250123p8)
  - [An Indian tribunal suspends restrictions preventing WhatsApp from sharing user data with Meta for ads, temporarily lifting a five-year ban imposed by the CCI &lpar;Manish Singh/TechCrunch&rpar;](http://www.techmeme.com/250123/p7#a250123p7)
  - [Neko Health, a startup co-founded by Daniel Ek that offers AI-based full-body scans, raised a $260M Series B led by Lightspeed, sources say at a $1.7B valuation &lpar;Tim Bradshaw/Financial Times&rpar;](http://www.techmeme.com/250123/p6#a250123p6)
- - [Therabody Promo Codes and Deals: 10% Off](https://www.wired.com/story/therabody-promo-code/)
- - [SK Hynix&#39;s Q4 operating profit grew over 20x YoY to ~$5.6B, beating Samsung&#39;s for first time, with HBM chips accounting for 40% of its total DRAM chip revenue &lpar;Song Jung-a/Financial Times&rpar;](http://www.techmeme.com/250123/p5#a250123p5)<!-- TECH:END -->
+ - [Therabody Promo Codes and Deals: 10% Off](https://www.wired.com/story/therabody-promo-code/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

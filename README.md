@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Doom: The Dark Ages looks metal as hell and launches in May](https://www.theverge.com/2025/1/23/24349379/doom-the-dark-ages-release-date-trailer-xbox-pc-ps5)
  - [Epic launches a free games program on mobile and promises to pay the Apple Core Technology Fee for participants in the program on iOS for one year &lpar;Lauren Feiner/The Verge&rpar;](http://www.techmeme.com/250123/p41#a250123p41)
  - [iPhone 16 vs Samsung Galaxy S25 - Entry-level options compared](https://appleinsider.com/inside/iphone-16/vs/iphone-16-vs-samsung-galaxy-s25---entry-level-options-compared?utm_medium=rss)
  - [Hands-on with Operator: limited in what it can browse, can perform repetitive workflows, and can do lengthy tasks on its own with minimal prompting &lpar;Every&rpar;](http://www.techmeme.com/250123/p40#a250123p40)
- - [OpenAI partners with DoorDash, Instacart, Priceline, StubHub, and Uber to ensure that Operator respects these businesses&#39; terms of service agreements &lpar;Maxwell Zeff/TechCrunch&rpar;](http://www.techmeme.com/250123/p39#a250123p39)
- - [OpenAI’s Operator Lets ChatGPT Use the Web for You](https://www.wired.com/story/openai-sets-chatgpt-loose-on-the-web/)<!-- TECH:END -->
+ - [OpenAI partners with DoorDash, Instacart, Priceline, StubHub, and Uber to ensure that Operator respects these businesses&#39; terms of service agreements &lpar;Maxwell Zeff/TechCrunch&rpar;](http://www.techmeme.com/250123/p39#a250123p39)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

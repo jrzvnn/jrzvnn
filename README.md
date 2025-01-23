@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [There are about to be a lot of open spots at Harvard and Columbia!](http://9gag.com/gag/awyymeQ)
- - 😝 [In a nutshell](http://9gag.com/gag/aqyy87v)
- - 💣 [This will face numerous legal challenges, but it&#39;s a good start](http://9gag.com/gag/aKGG1ZW)
- - 😝 [Don&#39;t live in ignorance just because it&#39;s easy](http://9gag.com/gag/avyyegd)
- - 👉 [Brilliant Speech](http://9gag.com/gag/aVvvo1K)<!-- MEMES:END -->
+ - 😝 [That horrific,](http://9gag.com/gag/aGyyy0w)
+ - 😝 [Good](http://9gag.com/gag/aqyyRnY)
+ - 💣 [Ignorant People , Pointless Race But Satisfactory Ending](http://9gag.com/gag/agmm1ww)
+ - 😝 [Forgotten inventions #52](http://9gag.com/gag/ajPPLxw)
+ - 👉 [A teacher showing his paper aeroplane](http://9gag.com/gag/a877mpd)<!-- MEMES:END -->
 
 ---
 

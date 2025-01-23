@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Just in case if you wonder how POV videos are made](http://9gag.com/gag/azxx5mq)
- - 😝 [A teacher showing his paper aeroplane](http://9gag.com/gag/a877mpd)
- - 💣 [Why did they do this on live tv?](http://9gag.com/gag/aByyZP2)
- - 😝 [Good](http://9gag.com/gag/aqyyRnY)
- - 👉 [Remember why Trump got re-elected](http://9gag.com/gag/a7ooq9r)<!-- MEMES:END -->
+ - 😝 [Massage Competition](http://9gag.com/gag/aD226DO)
+ - 😝 [Sorry sir...](http://9gag.com/gag/aD222WG)
+ - 💣 [Good](http://9gag.com/gag/aqyyRnY)
+ - 😝 [Ash well that happened](http://9gag.com/gag/aByyZo1)
+ - 👉 [Ignorant People , Pointless Race But Satisfactory Ending](http://9gag.com/gag/agmm1ww)<!-- MEMES:END -->
 
 ---
 

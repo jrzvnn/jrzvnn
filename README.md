@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [China and Southeast Asian nations pledge to deal with cybercrime centers, extending efforts that China&#39;s Global Times says has led to the arrest of 70K+ people &lpar;Bloomberg&rpar;](http://www.techmeme.com/250123/p13#a250123p13)
  - [Sources: India&#39;s technology ministry asked Apple, Google, and other smartphone makers to provide Indians direct access to the state-backed GOV.in app store &lpar;Sankalp Phartiyal/Bloomberg&rpar;](http://www.techmeme.com/250123/p12#a250123p12)
  - [Psychology Can Be Harnessed to Combat Violent Extremism](https://www.wired.com/story/global-violent-extremism-psychology-social-media/)
  - [Some TikTok users say the app has changed, expressing trepidation and paranoia over its complimentary mentions of Trump in its goodbye and welcome back messages &lpar;Washington Post&rpar;](http://www.techmeme.com/250123/p11#a250123p11)
- - [Best Internet Providers in Illinois](https://www.cnet.com/home/internet/best-internet-providers-in-illinois/#ftag=CAD590a51e)
- - [How Ross Ulbricht&#39;s allies, including crypto investors, libertarian politicians, and his mother Lyn Ulbricht, persuaded Trump to pardon the Silk Road founder &lpar;New York Times&rpar;](http://www.techmeme.com/250123/p10#a250123p10)<!-- TECH:END -->
+ - [Best Internet Providers in Illinois](https://www.cnet.com/home/internet/best-internet-providers-in-illinois/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

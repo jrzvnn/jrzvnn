@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Perplexity launches Perplexity Assistant in its Android app, which can take &quot;multi-app actions&quot; like hailing a ride, initially free for users in 15 languages &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/250123/p35#a250123p35)
- - [What matters most for AAPL shares next week](https://appleinsider.com/articles/25/01/23/what-matters-most-for-aapl-shares-next-week?utm_medium=rss)
- - [Google changes how visible URLs show up on mobile search results globally, dropping the &quot;breadcrumbs&quot; that show the hierarchy of a webpage&#39;s URL &lpar;Umar Shakir/The Verge&rpar;](http://www.techmeme.com/250123/p34#a250123p34)
- - [Sources: ByteDance has earmarked over $20.6B in capital expenditure for 2025, with about half of the amount on AI-related infrastructure outside China &lpar;Reuters&rpar;](http://www.techmeme.com/250123/p33#a250123p33)
- - [Pocketpair follows Palworld’s success with new indie publishing label](https://www.theverge.com/2025/1/23/24350273/pocketpair-palworld-indie-publishing-label-surgent-studios)<!-- TECH:END -->
+ - [Ninja Gaiden 4 is coming to Xbox](https://www.theverge.com/2025/1/23/24350352/ninja-gaiden-4-xbox)
+ - [Microsoft rumored to launch a smaller Surface Pro and Surface Laptop soon](https://www.theverge.com/2025/1/23/24350373/microsoft-surface-pro-laptop-snapdragon-x-rumor)
+ - [OpenAI releases a &quot;research preview&quot; of its Operator AI agent that can automate web-based tasks, launching in the US to subscribers of the $200/month Pro tier &lpar;Jay Peters/The Verge&rpar;](http://www.techmeme.com/250123/p37#a250123p37)
+ - [At Davos, Trump blasts EU for targeting Apple, Google, and Meta, describing regulatory cases as &quot;a form of taxation&quot;, and references Apple&#39;s &amp;euro;13B Irish tax bill &lpar;Bloomberg&rpar;](http://www.techmeme.com/250123/p36#a250123p36)
+ - [OpenAI’s new Operator AI agent can do things on the web for you](https://www.theverge.com/2025/1/23/24350395/openai-chatgpt-operator-agent-control-computer)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

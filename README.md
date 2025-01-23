@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Substack launches a $20M Creator Accelerator Fund to lure US creators who have $2K+ per month in recurring revenue away from other subscription-based platforms &lpar;Lauren Forristal/TechCrunch&rpar;](http://www.techmeme.com/250123/p43#a250123p43)
+ - [The 46 Best Shows on Max &lpar;aka HBO Max&rpar; Right Now &lpar;January 2025&rpar;](https://www.wired.com/story/hbo-max-best-shows-to-stream-right-now/)
  - [Perplexity now has a mobile assistant on Android](https://www.theverge.com/2025/1/23/24350488/perplexity-ai-mobile-assistant-android)
  - [Substack is spending $20 million to court TikTokers](https://www.theverge.com/2025/1/23/24350434/substack-creator-accelerator-fund-tiktok-ban)
- - [Everything we saw at Xbox’s Developer Direct 2025](https://www.theverge.com/2025/1/23/24350382/xbox-developer-direct-january-2025-doom-ninja-gaiden-trailers)
- - [Fitbit fined $12 million for Ionic smartwatches that burned 78 people](https://www.theverge.com/2025/1/23/24350413/fitbit-fine-ionic-smartwatch-burns)
- - [Google’s Identity Check for Android keeps phone thieves out of your digital accounts](https://www.theverge.com/2025/1/23/24350457/google-android-identity-check-pixel-phone-thieves-digital-accounts)<!-- TECH:END -->
+ - [Everything we saw at Xbox’s Developer Direct 2025](https://www.theverge.com/2025/1/23/24350382/xbox-developer-direct-january-2025-doom-ninja-gaiden-trailers)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Microsoft was mentioned only as a technology partner in Stargate but the company is poised to benefit from the venture by offloading AI computing costs &lpar;Dina Bass/Bloomberg&rpar;](http://www.techmeme.com/250122/p52#a250122p52)
  - [Google signs an agreement to acquire a part of the HTC VIVE engineering team in Taiwan for $250M in cash, aiming to &quot;accelerate&quot; Android XR development &lpar;Abner Li/9to5Google&rpar;](http://www.techmeme.com/250122/p51#a250122p51)
  - [Moderators for 50+ subreddits announce bans of X links in new posts and comments, with several citing Elon Musk&#39;s recent gesture that many saw as a Nazi salute &lpar;Kat Tenbarge/NBC News&rpar;](http://www.techmeme.com/250122/p50#a250122p50)
  - [Samsung S25 deals deliver up to $1,050 off for iPhone users willing to switch](https://appleinsider.com/articles/25/01/23/samsung-s25-deals-deliver-up-to-1050-off-for-iphone-users-willing-to-switch?utm_medium=rss)
- - [SK Hynix reports Q4 revenue up 75% YoY to a record ~$13.7B, a ~$5.6B net profit, and a ~$5.6B operating profit, in line with estimates, as HBM chip demand soars &lpar;Yoolim Lee/Bloomberg&rpar;](http://www.techmeme.com/250122/p49#a250122p49)
- - [A US district judge rules that the FBI&#39;s warrantless &quot;backdoor&quot; searches of FISA&#39;s Section 702 databases violate the Fourth Amendment &lpar;Patrick G. Eddington/Cato Institute&rpar;](http://www.techmeme.com/250122/p48#a250122p48)<!-- TECH:END -->
+ - [SK Hynix reports Q4 revenue up 75% YoY to a record ~$13.7B, a ~$5.6B net profit, and a ~$5.6B operating profit, in line with estimates, as HBM chip demand soars &lpar;Yoolim Lee/Bloomberg&rpar;](http://www.techmeme.com/250122/p49#a250122p49)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

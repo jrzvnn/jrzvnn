@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Massage Competition](http://9gag.com/gag/aD226DO)
- - 😝 [Sorry sir...](http://9gag.com/gag/aD222WG)
- - 💣 [Good](http://9gag.com/gag/aqyyRnY)
- - 😝 [Ash well that happened](http://9gag.com/gag/aByyZo1)
- - 👉 [Ignorant People , Pointless Race But Satisfactory Ending](http://9gag.com/gag/agmm1ww)<!-- MEMES:END -->
+ - 😝 [There are about to be a lot of open spots at Harvard and Columbia!](http://9gag.com/gag/awyymeQ)
+ - 😝 [In a nutshell](http://9gag.com/gag/aqyy87v)
+ - 💣 [This will face numerous legal challenges, but it&#39;s a good start](http://9gag.com/gag/aKGG1ZW)
+ - 😝 [Don&#39;t live in ignorance just because it&#39;s easy](http://9gag.com/gag/avyyegd)
+ - 👉 [Brilliant Speech](http://9gag.com/gag/aVvvo1K)<!-- MEMES:END -->
 
 ---
 

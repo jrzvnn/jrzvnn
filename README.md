@@ -167,9 +167,9 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [Can\u2019t not love this guy. GOAT William Dafoe](http://9gag.com/gag/a877ALO)
- - 😝 [The surge](http://9gag.com/gag/aGyyppw)
+ - 😝 [Philly Mayor demonstrated how she got her job completely based on merits and not at all dei](http://9gag.com/gag/aW44G1d)
  - 💣 [Brave online](http://9gag.com/gag/a6ZZZRN)
- - 😝 [India wet dream](http://9gag.com/gag/a4PPPpA)
+ - 😝 [That horrific,](http://9gag.com/gag/aGyyy0w)
  - 👉 [Abu Dhabi Police Five Star Wanted Level](http://9gag.com/gag/azxxxNm)<!-- MEMES:END -->
 
 ---

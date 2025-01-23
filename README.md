@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Trump signs an EO to create a cryptocurrency working group to consider a national digital asset stockpile &quot;potentially derived&quot; from seized cryptocurrencies &lpar;MacKenzie Sigalos/CNBC&rpar;](http://www.techmeme.com/250123/p45#a250123p45)
+ - [Twilio says its adjusted operating margin will reach 21%- 22% in 2027, exceeding est. and up from 16.1% in the most recent quarter; TWLO jumps 11%+ after hours &lpar;Jordan Novet/CNBC&rpar;](http://www.techmeme.com/250123/p46#a250123p46)
+ - [Trump signs an EO to create a crypto working group led by David Sacks to consider a national digital asset stockpile &quot;potentially derived&quot; from seized crypto &lpar;MacKenzie Sigalos/CNBC&rpar;](http://www.techmeme.com/250123/p45#a250123p45)
  - [The Creators of &#39;Palworld&#39; Are Back—This Time With a Horror Game](https://www.wired.com/story/palworld-pocketpair-new-venture-surgent-studios/)
  - [Best Internet Providers in Spokane, Washington](https://www.cnet.com/home/internet/best-internet-providers-in-spokane-wa/#ftag=CAD590a51e)
- - [Epic Games shifts EU app store strategy after missing target by 71 million users](https://appleinsider.com/articles/25/01/23/epic-games-shifts-eu-app-store-strategy-after-missing-target-by-71-million-users?utm_medium=rss)
- - [Here are the best AirPods deals you can get right now](https://www.theverge.com/21302051/best-apple-airpods-deals)<!-- TECH:END -->
+ - [Epic Games shifts EU app store strategy after missing target by 71 million users](https://appleinsider.com/articles/25/01/23/epic-games-shifts-eu-app-store-strategy-after-missing-target-by-71-million-users?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

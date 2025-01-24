@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Happy end](http://9gag.com/gag/aMVVPOR)
- - 😝 [Not gonna suck itself](http://9gag.com/gag/aGyyBPn)
- - 💣 [Burn](http://9gag.com/gag/aD22ZX9)
- - 😝 [Being a parent in 21st century](http://9gag.com/gag/aGyyMyX)
- - 👉 [Trump and Homan delivers. Illigales getting deported by the hour.](http://9gag.com/gag/aXPPVxg)<!-- MEMES:END -->
+ - 😝 [No one is saving you, just put on a smile and say I\u2019m alright](http://9gag.com/gag/aD22Z7B)
+ - 😝 [Ignorant People , Pointless Race But Satisfactory Ending](http://9gag.com/gag/agmm1ww)
+ - 💣 [When your racist pot reach top section on 9gag](http://9gag.com/gag/avyyeWE)
+ - 😝 [Don&#39;t interrupt a man when he&#39;s enjoying his Krispy Kreme](http://9gag.com/gag/ajPPOvG)
+ - 👉 [It really is](http://9gag.com/gag/a9yy6DL)<!-- MEMES:END -->
 
 ---
 

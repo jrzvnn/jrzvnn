@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The $900 Ayaneo 3 is the most exciting PC handheld the company’s made yet](https://www.theverge.com/2025/1/24/24351191/ayaneo-3-price-release-date-indiegogo-specs-handheld)
+ - [Sources: ElevenLabs closed a $250M Series C led by ICONIQ Growth at a valuation of between $3B to $3.3B; it was initially looking for funding at a $4B valuation &lpar;TechCrunch&rpar;](http://www.techmeme.com/250124/p23#a250124p23)
+ - [Here are the best robot vacuum deals right now](https://www.theverge.com/24350561/best-robot-vacuum-mop-irobot-roomba-eufy-roborock-deals-sale)
  - [This Man Eats So Much Butter, Cheese, and Beef that Cholesterol Oozes from His Skin](https://www.wired.com/story/florida-man-eats-diet-of-butter-cheese-beef-cholesterol-oozes-from-his-body/)
- - [Apple Watch bands are still safe to wear says Apple, despite class action claims](https://appleinsider.com/articles/25/01/24/apple-says-its-still-safe-to-wear-your-apple-watch-bands-despite-class-action-lawsuit?utm_medium=rss)
- - [iOS 18 adoption steady as users explore AI &amp; customization](https://appleinsider.com/articles/25/01/24/ios-18-adoption-steady-as-users-explore-ai-customization?utm_medium=rss)
- - [An interview with Google DeepMind CEO Demis Hassabis on why he doesn&#39;t believe we will have AGI in 2025, putting Google&#39;s assistants in smart glasses, and more &lpar;Alex Kantrowitz/Big Technology&rpar;](http://www.techmeme.com/250124/p22#a250124p22)
- - [Next Black Ops 6 Zombies Map, The Tomb, Gets New Trailer](https://www.cnet.com/tech/gaming/next-black-ops-6-zombies-map-the-tomb-gets-new-trailer/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Apple Watch bands are still safe to wear says Apple, despite class action claims](https://appleinsider.com/articles/25/01/24/apple-says-its-still-safe-to-wear-your-apple-watch-bands-despite-class-action-lawsuit?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

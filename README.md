@@ -159,9 +159,9 @@ R                        1 repo              ░░░░░░░░░░░�
 <!-- TECH:START -->
  - [AirPods 4 - four-month review: The best Apple earbuds for most people](https://appleinsider.com/articles/25/01/24/airpods-4---four-month-review-the-best-apple-earbuds-for-most-people?utm_medium=rss)
  - [Flip, which lets shoppers share video reviews and earn cash based on engagement, launches a creator fund that grants up to $100M of equity over 5+ years &lpar;Lauren Forristal/TechCrunch&rpar;](http://www.techmeme.com/250124/p26#a250124p26)
- - [Elon Musk email to X staff: ‘we’re barely breaking even’](https://www.theverge.com/2025/1/24/24351317/elon-musk-x-twitter-bank-debt-stagnant-growth)
- - [TikTok still isn’t in the App Store](https://www.theverge.com/2025/1/24/24351281/tiktok-ios-app-store-android-google-play)
- - [The TikTok ban forced a dilemma on US tech companies: risk alienating a mercurial president or risk breaking federal law and face up to billions in penalties &lpar;New York Times&rpar;](http://www.techmeme.com/250124/p25#a250124p25)<!-- TECH:END -->
+ - [9 Foods That Contain the Now-Banned Red Dye No. 3](https://www.cnet.com/health/9-foods-that-contain-the-now-banned-red-dye-no-3/#ftag=CAD590a51e)
+ - [Best Budgeting Apps to Get Control of Your Money in 2025](https://www.cnet.com/personal-finance/banking/best-budgeting-apps-to-get-control-of-your-money-in-2025/#ftag=CAD590a51e)
+ - [Best Internet Providers in Lafayette, Louisiana](https://www.cnet.com/home/internet/best-internet-providers-in-lafayette-la/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

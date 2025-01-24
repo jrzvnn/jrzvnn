@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [It really is](http://9gag.com/gag/a9yy6DL)
- - 😝 [...](http://9gag.com/gag/aQzzQZz)
- - 💣 [No one is saving you, just put on a smile and say I\u2019m alright](http://9gag.com/gag/aD22Z7B)
- - 😝 [Good](http://9gag.com/gag/aqyyRnY)
- - 👉 [1600$ graphic cards to play games with the latest unreal engine environment and this is what they give us.](http://9gag.com/gag/aNDDQW6)<!-- MEMES:END -->
+ - 😝 [Happy end](http://9gag.com/gag/aMVVPOR)
+ - 😝 [Not gonna suck itself](http://9gag.com/gag/aGyyBPn)
+ - 💣 [Burn](http://9gag.com/gag/aD22ZX9)
+ - 😝 [Being a parent in 21st century](http://9gag.com/gag/aGyyMyX)
+ - 👉 [Trump and Homan delivers. Illigales getting deported by the hour.](http://9gag.com/gag/aXPPVxg)<!-- MEMES:END -->
 
 ---
 

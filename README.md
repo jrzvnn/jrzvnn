@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Villagers with the same names as his wife and kids](http://9gag.com/gag/a2vvDyD)
- - 😝 [Do you need suppo........ Never mind](http://9gag.com/gag/a6ZZBDe)
- - 💣 [Be Like Poland](http://9gag.com/gag/aGyy8j0)
- - 😝 [A pack of fake asylum seekers who were intimidating neighbours in Spain ran away when they were confronted. People have had enough.](http://9gag.com/gag/aXPP7gv)
- - 👉 [Bro cooked](http://9gag.com/gag/aByyExZ)<!-- MEMES:END -->
+ - 😝 [Paria Fuel Trading Company Limited](http://9gag.com/gag/aVvvZqO)
+ - 😝 [Eminem, his mom and younger brother, 1990s](http://9gag.com/gag/ae991yW)
+ - 💣 [Ross Chastain\u2019s wall ride of NASCAR is one of the greatest moments in sports.](http://9gag.com/gag/aNDDV8K)
+ - 😝 [The Latina women of today are hopeless.](http://9gag.com/gag/aW44o8q)
+ - 👉 [Skier Stumbles Upon Snowboarder Buried Alive And Saves Him from Certain Death](http://9gag.com/gag/a877DNZ)<!-- MEMES:END -->
 
 ---
 

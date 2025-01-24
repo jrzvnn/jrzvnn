@@ -158,10 +158,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- TECH:START -->
  - [PE firm Everstone acquires Delhi-based Wingify, whose flagship product Visual Website Optimizer helps business improve their online conversion rates, for $200M &lpar;Manish Singh/TechCrunch&rpar;](http://www.techmeme.com/250123/p56#a250123p56)
- - [Today&#39;s NYT Mini Crossword Answers for Friday, Jan. 24](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-friday-jan-24/#ftag=CAD590a51e)
- - [Today&#39;s NYT Connections: Sports Edition Hints and Answers for Jan. 24, #123](https://www.cnet.com/tech/gaming/todays-nyt-connections-sports-edition-hints-and-answers-for-jan-24-123/#ftag=CAD590a51e)
  - [DeepSeek&#39;s latest AI model R1 sticks to Chinese government restrictions on sensitive topics like Tiananmen Square, Taiwan, and the treatment of Uyghurs in China &lpar;Jon Keegan/Sherwood News&rpar;](http://www.techmeme.com/250123/p55#a250123p55)
- - [Tesla brings its redesigned Model Y to the US, but keeps selling the old one too](https://www.theverge.com/2025/1/23/24350768/tesla-model-y-2025-redesign-us-north-america-europe-march)<!-- TECH:END -->
+ - [Tesla brings its redesigned Model Y to the US, but keeps selling the old one too](https://www.theverge.com/2025/1/23/24350768/tesla-model-y-2025-redesign-us-north-america-europe-march)
+ - [Sources: Mukesh Ambani&#39;s Reliance is buying Nvidia&#39;s AI chips and plans to build a 3-gigawatt data center in Jamnagar, India, set to be the largest in the world &lpar;Saritha Rai/Bloomberg&rpar;](http://www.techmeme.com/250123/p54#a250123p54)
+ - [The US DOJ charges the former CEO of AI chatbot startup GameOn and his wife for allegedly defrauding investors of more than $60M between 2018 and 2024 &lpar;Jonathan Stempel/Reuters&rpar;](http://www.techmeme.com/250123/p53#a250123p53)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

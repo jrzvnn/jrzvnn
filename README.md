@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [It really is](http://9gag.com/gag/a9yy6DL)
- - 😝 [How to open clogged sinkhole Chinese way](http://9gag.com/gag/azxx56z)
- - 💣 [Ross Chastain\u2019s wall ride of NASCAR is one of the greatest moments in sports.](http://9gag.com/gag/aNDDV8K)
- - 😝 [Massage Competition](http://9gag.com/gag/aD226DO)
- - 👉 [No one is saving you, just put on a smile and say I\u2019m alright](http://9gag.com/gag/aD22Z7B)<!-- MEMES:END -->
+ - 😝 [1600$ graphic cards to play games with the latest unreal engine environment and this is what they give us.](http://9gag.com/gag/aNDDQW6)
+ - 😝 [Equal opportunity](http://9gag.com/gag/apRRDYW)
+ - 💣 [When your racist pot reach top section on 9gag](http://9gag.com/gag/avyyeWE)
+ - 😝 [Welcome to Marketing](http://9gag.com/gag/aVvvZjn)
+ - 👉 [So, you think you are old, but are you this old?](http://9gag.com/gag/aD22ZqO)<!-- MEMES:END -->
 
 ---
 

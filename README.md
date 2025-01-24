@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [You had no idea, and now it&#39;s too late as entropy continues and death draws closer](http://9gag.com/gag/aKGGvm3)
+ - 😝 [1600$ graphic cards to play games with the latest unreal engine environment and this is what they give us.](http://9gag.com/gag/aNDDQW6)
+ - 💣 [Welcome to Marketing](http://9gag.com/gag/aVvvZjn)
  - 😝 [She said yes, right?](http://9gag.com/gag/apRR35M)
- - 😝 [Paria Fuel Trading Company Limited](http://9gag.com/gag/aVvvZqO)
- - 💣 [No one is saving you, just put on a smile and say I\u2019m alright](http://9gag.com/gag/aD22Z7B)
- - 😝 [When your racist pot reach top section on 9gag](http://9gag.com/gag/avyyeWE)
- - 👉 [Equal opportunity](http://9gag.com/gag/apRRDYW)<!-- MEMES:END -->
+ - 👉 [When your racist pot reach top section on 9gag](http://9gag.com/gag/avyyeWE)<!-- MEMES:END -->
 
 ---
 

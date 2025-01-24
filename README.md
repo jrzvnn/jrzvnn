@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Windows 11 is getting colorful new battery icons that are easier to understand at a glance](https://www.theverge.com/2025/1/24/24351295/microsoft-windows-11-preview-insiders-battery-icon-percentage-color)
  - [The $900 Ayaneo 3 is the most exciting PC handheld the company’s yet made](https://www.theverge.com/2025/1/24/24351191/ayaneo-3-price-release-date-indiegogo-specs-handheld)
  - [Sources: ElevenLabs closed a $250M Series C led by ICONIQ Growth at a valuation of between $3B to $3.3B; it was initially looking for funding at a $4B valuation &lpar;TechCrunch&rpar;](http://www.techmeme.com/250124/p23#a250124p23)
  - [Here are the best robot vacuum deals right now](https://www.theverge.com/24350561/best-robot-vacuum-mop-irobot-roomba-eufy-roborock-deals-sale)
- - [This Man Eats So Much Butter, Cheese, and Beef that Cholesterol Oozes from His Skin](https://www.wired.com/story/florida-man-eats-diet-of-butter-cheese-beef-cholesterol-oozes-from-his-body/)
- - [Apple Watch bands are still safe to wear says Apple, despite class action claims](https://appleinsider.com/articles/25/01/24/apple-says-its-still-safe-to-wear-your-apple-watch-bands-despite-class-action-lawsuit?utm_medium=rss)<!-- TECH:END -->
+ - [This Man Eats So Much Butter, Cheese, and Beef That Cholesterol Oozes From His Skin](https://www.wired.com/story/florida-man-eats-diet-of-butter-cheese-beef-cholesterol-oozes-from-his-body/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

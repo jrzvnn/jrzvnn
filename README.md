@@ -168,8 +168,8 @@ R                        1 repo              ░░░░░░░░░░░�
 <!-- MEMES:START -->
  - 😝 [Woman spends weeks in jail, loses her job, and misses her kids&#39; birthdays, after police mistook SpaghettiO sauce on a spoon in her car for meth](http://9gag.com/gag/agmmQ5W)
  - 😝 [Ignorant People , Pointless Race But Satisfactory Ending](http://9gag.com/gag/agmm1ww)
- - 💣 [A teacher showing his paper aeroplane](http://9gag.com/gag/a877mpd)
- - 😝 [Happy end](http://9gag.com/gag/aMVVPOR)
+ - 💣 [1600$ graphic cards to play games with the latest unreal engine environment and this is what they give us.](http://9gag.com/gag/aNDDQW6)
+ - 😝 [A teacher showing his paper aeroplane](http://9gag.com/gag/a877mpd)
  - 👉 [White privilege experiment](http://9gag.com/gag/adBBB6Q)<!-- MEMES:END -->
 
 ---

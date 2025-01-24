@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [White privilege experiment](http://9gag.com/gag/adBBB6Q)
- - 😝 [Abrupt Water \ud83c\udf0a](http://9gag.com/gag/a9yyy2W)
- - 💣 [Happy end](http://9gag.com/gag/aMVVPOR)
- - 😝 [Equal opportunity](http://9gag.com/gag/apRRDYW)
- - 👉 [He tried hard to make his girlfriend happy and got it](http://9gag.com/gag/aGyyyw5)<!-- MEMES:END -->
+ - 😝 [Meirl](http://9gag.com/gag/aXPPPEv)
+ - 😝 [Woman spends weeks in jail, loses her job, and misses her kids&#39; birthdays, after police mistook SpaghettiO sauce on a spoon in her car for meth](http://9gag.com/gag/agmmQ5W)
+ - 💣 [White privilege experiment](http://9gag.com/gag/adBBB6Q)
+ - 😝 [Several species of animals have already entered their respective `Stone Age`](http://9gag.com/gag/amoo1V9)
+ - 👉 [Why did they do this on live tv?](http://9gag.com/gag/aByyZP2)<!-- MEMES:END -->
 
 ---
 

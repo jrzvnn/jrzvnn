@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Retro Biosciences, the Sam Altman-backed startup that wants to use AI to develop therapies for extending human lifespan by a decade, is raising a $1B Series A &lpar;Financial Times&rpar;](http://www.techmeme.com/250124/p18#a250124p18)
  - [Zuckerberg says Meta is building an AI engineer that will &quot;start contributing increasing amounts of code to our R&amp;D efforts&quot; and is planning a 2GW+ data center &lpar;Meghan Bobrowsky/Wall Street Journal&rpar;](http://www.techmeme.com/250124/p17#a250124p17)
  - [Mark Zuckerberg wants you to know he has a big AI data center, too](https://www.theverge.com/2025/1/24/24351061/mark-zuckerberg-meta-ai-data-center-investment)
  - [Sources: Trump&#39;s team members don&#39;t buy Zuckerberg&#39;s right-wing conversion as entirely genuine; one senior official says he has a &quot;lot more ass-kissing&quot; to do &lpar;Rolling Stone&rpar;](http://www.techmeme.com/250124/p16#a250124p16)
- - [Meta’s censoring of abortion information is nothing new](https://www.theverge.com/2025/1/24/24350967/metas-instagram-facebook-abortion-access-information-blocking-banning)
- - [Meta begins a &quot;limited, early test&quot; of ads in Threads in the US and Japan, with the goal of making the ads &quot;as interesting as organic content&quot; &lpar;Ivan Mehta/TechCrunch&rpar;](http://www.techmeme.com/250124/p15#a250124p15)<!-- TECH:END -->
+ - [Meta’s censoring of abortion information is nothing new](https://www.theverge.com/2025/1/24/24350967/metas-instagram-facebook-abortion-access-information-blocking-banning)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

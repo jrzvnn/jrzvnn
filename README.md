@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Woman spends weeks in jail, loses her job, and misses her kids&#39; birthdays, after police mistook SpaghettiO sauce on a spoon in her car for meth](http://9gag.com/gag/agmmQ5W)
- - 😝 [A teacher showing his paper aeroplane](http://9gag.com/gag/a877mpd)
- - 💣 [Good](http://9gag.com/gag/aqyyRnY)
- - 😝 [Forgotten inventions #52](http://9gag.com/gag/ajPPLxw)
- - 👉 [And not just the men\u2026](http://9gag.com/gag/aE00M0G)<!-- MEMES:END -->
+ - 😝 [Equal opportunity](http://9gag.com/gag/apRRDYW)
+ - 😝 [Illegaluigi. From the archives circa 2014](http://9gag.com/gag/aO88xe6)
+ - 💣 [1600$ graphic cards to play games with the latest unreal engine environment and this is what they give us.](http://9gag.com/gag/aNDDQW6)
+ - 😝 [That was intense](http://9gag.com/gag/aRBBL0q)
+ - 👉 [He tried hard to make his girlfriend happy and got it](http://9gag.com/gag/aGyyyw5)<!-- MEMES:END -->
 
 ---
 

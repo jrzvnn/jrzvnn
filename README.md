@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Equal opportunity](http://9gag.com/gag/apRRDYW)
- - 😝 [Illegaluigi. From the archives circa 2014](http://9gag.com/gag/aO88xe6)
- - 💣 [1600$ graphic cards to play games with the latest unreal engine environment and this is what they give us.](http://9gag.com/gag/aNDDQW6)
- - 😝 [That was intense](http://9gag.com/gag/aRBBL0q)
- - 👉 [He tried hard to make his girlfriend happy and got it](http://9gag.com/gag/aGyyyw5)<!-- MEMES:END -->
+ - 😝 [This will face numerous legal challenges, but it&#39;s a good start](http://9gag.com/gag/aKGG1ZW)
+ - 😝 [Don&#39;t live in ignorance just because it&#39;s easy](http://9gag.com/gag/avyyegd)
+ - 💣 [President Trump signs the Executive Order to declassify the JFK, RFK, and MLK Jr. files!](http://9gag.com/gag/a1mm0Bv)
+ - 😝 [How you can stay tolerant in these times ?](http://9gag.com/gag/aoyyVww)
+ - 👉 [Brilliant Speech](http://9gag.com/gag/aVvvo1K)<!-- MEMES:END -->
 
 ---
 

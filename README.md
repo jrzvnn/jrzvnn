@@ -166,10 +166,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [This will face numerous legal challenges, but it&#39;s a good start](http://9gag.com/gag/aKGG1ZW)
- - 😝 [Don&#39;t live in ignorance just because it&#39;s easy](http://9gag.com/gag/avyyegd)
- - 💣 [President Trump signs the Executive Order to declassify the JFK, RFK, and MLK Jr. files!](http://9gag.com/gag/a1mm0Bv)
+ - 😝 [President Trump signs the Executive Order to declassify the JFK, RFK, and MLK Jr. files!](http://9gag.com/gag/a1mm0Bv)
  - 😝 [How you can stay tolerant in these times ?](http://9gag.com/gag/aoyyVww)
+ - 💣 [This will face numerous legal challenges, but it&#39;s a good start](http://9gag.com/gag/aKGG1ZW)
+ - 😝 [Don&#39;t live in ignorance just because it&#39;s easy](http://9gag.com/gag/avyyegd)
  - 👉 [Brilliant Speech](http://9gag.com/gag/aVvvo1K)<!-- MEMES:END -->
 
 ---

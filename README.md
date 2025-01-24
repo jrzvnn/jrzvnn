@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Sources: Stargate lacks a fully developed plan, hasn&#39;t secured funding yet, will get no government support, and will exclusively serve OpenAI once operational &lpar;Financial Times&rpar;](http://www.techmeme.com/250123/p52#a250123p52)
+ - [Netflix’s cloud plans include co-op and party games](https://www.theverge.com/2025/1/23/24350690/netflix-cloud-gaming-plans-co-op-party-games)
  - [New App Store API gives developers more control over massive in-app purchase catalogs](https://appleinsider.com/articles/25/01/24/new-app-store-api-gives-developers-more-control-over-massive-in-app-purchase-catalogs?utm_medium=rss)
- - [Best Headsets for Working From Home in 2025](https://www.cnet.com/tech/mobile/best-headphones-for-work-at-home/#ftag=CAD590a51e)
- - [HSBC shuts Zing after launching the payments app in Jan. 2024 to compete with Revolut and Wise, marking the latest failed fintech venture by a traditional bank &lpar;Akila Quinio/Financial Times&rpar;](http://www.techmeme.com/250123/p51#a250123p51)
- - [Sources: Daniel Guarnera, a DOJ lawyer who helped file US antitrust lawsuits against Google and Apple, has been picked to lead the FTC&#39;s Bureau of Competition &lpar;Bloomberg&rpar;](http://www.techmeme.com/250123/p50#a250123p50)
- - [Threads now lets you schedule posts](https://www.theverge.com/2025/1/23/24350639/threads-schedule-posts-launch-markup)<!-- TECH:END -->
+ - [Want to Pay Rent or Mortgage on a Credit Card? Here&#39;s How](https://www.cnet.com/personal-finance/credit-cards/want-to-pay-rent-or-mortgage-on-a-credit-card-heres-how/#ftag=CAD590a51e)
+ - [Best Running Shoes for Women in 2025](https://www.cnet.com/health/fitness/best-womens-running-shoes/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

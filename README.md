@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Elon Musk email to X staff: ‘we’re barely breaking even’](https://www.theverge.com/2025/1/24/24351317/elon-musk-x-twitter-bank-debt-stagnant-growth)
  - [TikTok still isn’t in the App Store](https://www.theverge.com/2025/1/24/24351281/tiktok-ios-app-store-android-google-play)
  - [The TikTok ban forced a dilemma on US tech companies: risk alienating a mercurial president or risk breaking federal law and face up to billions in penalties &lpar;New York Times&rpar;](http://www.techmeme.com/250124/p25#a250124p25)
  - [AirPods 4 - four-month review: The best Apple earbuds for most people](https://appleinsider.com/articles/25/01/24/airpods-4---four-month-review-the-best-apple-earbuds-for-most-people?utm_medium=rss)
- - [In email to X staff, Musk says &quot;user growth is stagnant, revenue is unimpressive, and we&#39;re barely breaking even&quot;; sources: banks plan to sell their debt in X &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/250124/p24#a250124p24)
- - [Windows 11 is getting colorful new battery icons that are easier to understand at a glance](https://www.theverge.com/2025/1/24/24351295/microsoft-windows-11-preview-insiders-battery-icon-percentage-color)<!-- TECH:END -->
+ - [Today&#39;s NYT Strands Hints, Answers and Help for Jan. 25, #328](https://www.cnet.com/tech/gaming/todays-nyt-strands-hints-answers-and-help-for-jan-25-328/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

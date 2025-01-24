@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Dynamic Island expected to stay the same on iPhone 17](https://appleinsider.com/articles/25/01/24/dynamic-island-expected-to-stay-the-same-on-iphone-17?utm_medium=rss)
+ - [Apple Intelligence &amp; Siri team getting a boost from fixer Kim Vorrath](https://appleinsider.com/articles/25/01/24/apple-intelligence-siri-team-getting-a-boost-from-fixer-kim-vorrath?utm_medium=rss)
  - [Apptopia: Meta&#39;s engagement is steady despite some calls for a Meta boycott over fact-checking and DEI changes; TikTok ban may have overshadowed user concerns &lpar;Pranav Dixit/Business Insider&rpar;](http://www.techmeme.com/250124/p20#a250124p20)
  - [ShopMy, which lets brands run influencer marketing efforts, raised a $77.5M Series B led by Bessemer and Bain, sources say at a $410M valuation vs. $80M in 2024 &lpar;Katie Deighton/Wall Street Journal&rpar;](http://www.techmeme.com/250124/p19#a250124p19)
- - [Retro Biosciences, the Sam Altman-backed startup that wants to use AI to develop therapies for extending human lifespan by a decade, is raising a $1B Series A &lpar;Financial Times&rpar;](http://www.techmeme.com/250124/p18#a250124p18)
- - [Zuckerberg says Meta is building an AI engineer that will &quot;start contributing increasing amounts of code to our R&amp;D efforts&quot; and is planning a 2GW+ data center &lpar;Meghan Bobrowsky/Wall Street Journal&rpar;](http://www.techmeme.com/250124/p17#a250124p17)
- - [Mark Zuckerberg wants you to know he has a big AI data center, too](https://www.theverge.com/2025/1/24/24351061/mark-zuckerberg-meta-ai-data-center-investment)<!-- TECH:END -->
+ - [Retro Biosciences, the Sam Altman-backed startup that wants to use AI to develop therapies for extending human lifespan by a decade, is raising a $1B Series A &lpar;Financial Times&rpar;](http://www.techmeme.com/250124/p18#a250124p18)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

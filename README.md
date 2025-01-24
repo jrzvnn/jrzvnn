@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Live translations on Meta’s smart glasses work well — until they don’t](https://www.theverge.com/2025/1/24/24351013/ray-ban-meta-smart-glasses-translation-wearables)
+ - [Apple Watch bands are still safe to wear says Apple, despite class action claims](https://appleinsider.com/articles/25/01/24/apple-says-its-still-safe-to-wear-your-apple-watch-bands-despite-class-action-lawsuit?utm_medium=rss)
+ - [The Supreme Court’s TikTok ruling is an ominous turn for online speech](https://www.theverge.com/2025/1/24/24346165/tiktok-supreme-court-first-amendment-tech-regulation)
  - [X refuses to remove a video of the stabbing of a Sydney bishop watched by Axel Rudakubana minutes before murdering three kids in UK&#39;s Southport last summer &lpar;Financial Times&rpar;](http://www.techmeme.com/250124/p12#a250124p12)
- - [iPhone 16 vs Samsung Galaxy S25 - Entry-level options compared](https://appleinsider.com/inside/iphone-16/vs/iphone-16-vs-samsung-galaxy-s25---entry-level-options-compared?utm_medium=rss)
- - [Hironobu Sakaguchi wants his next &lpar;and maybe last&rpar; game to be ‘a successor to Final Fantasy VI’](https://www.theverge.com/2025/1/24/24350575/hironobu-sakaguchi-interview-fantasian-neo-dimension)
- - [Chris Ware explains how to draw strangers on the bus without getting arrested](https://www.theverge.com/2025/1/24/24349754/chris-ware-cartoonist-art-drawing-acme-datebook-interview)
- - [Sony Japan ends production of recordable Blu-rays with ‘no successor’ planned](https://www.theverge.com/2025/1/24/24350993/sony-recordable-blu-ray-end-production-no-successor)<!-- TECH:END -->
+ - [iPhone 16 vs Samsung Galaxy S25 - Entry-level options compared](https://appleinsider.com/inside/iphone-16/vs/iphone-16-vs-samsung-galaxy-s25---entry-level-options-compared?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

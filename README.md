@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Texas Instruments reports Q4 revenue down 1.7% YoY to $4.01B, net income down 12% YoY to $1.2B, and projects Q1, 2025 sales between $3.74B and $4.06B &lpar;Ian King/Bloomberg&rpar;](http://www.techmeme.com/250124/p1#a250124p1)
  - [PE firm Everstone acquires Delhi-based Wingify, whose flagship product Visual Website Optimizer helps business improve their online conversion rates, for $200M &lpar;Manish Singh/TechCrunch&rpar;](http://www.techmeme.com/250123/p56#a250123p56)
  - [Today&#39;s NYT Mini Crossword Answers for Friday, Jan. 24](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-friday-jan-24/#ftag=CAD590a51e)
  - [Today&#39;s NYT Connections: Sports Edition Hints and Answers for Jan. 24, #123](https://www.cnet.com/tech/gaming/todays-nyt-connections-sports-edition-hints-and-answers-for-jan-24-123/#ftag=CAD590a51e)
- - [DeepSeek&#39;s latest AI model R1 sticks to Chinese government restrictions on sensitive topics like Tiananmen Square, Taiwan, and the treatment of Uyghurs in China &lpar;Jon Keegan/Sherwood News&rpar;](http://www.techmeme.com/250123/p55#a250123p55)
- - [Tesla brings its redesigned Model Y to the US, but keeps selling the old one too](https://www.theverge.com/2025/1/23/24350768/tesla-model-y-2025-redesign-us-north-america-europe-march)<!-- TECH:END -->
+ - [DeepSeek&#39;s latest AI model R1 sticks to Chinese government restrictions on sensitive topics like Tiananmen Square, Taiwan, and the treatment of Uyghurs in China &lpar;Jon Keegan/Sherwood News&rpar;](http://www.techmeme.com/250123/p55#a250123p55)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

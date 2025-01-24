@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [AirPods 4 - four-month review: The best Apple earbuds for most people](https://appleinsider.com/articles/25/01/24/airpods-4---four-month-review-the-best-apple-earbuds-for-most-people?utm_medium=rss)
  - [In email to X staff, Musk says &quot;user growth is stagnant, revenue is unimpressive, and we&#39;re barely breaking even&quot;; sources: banks plan to sell their debt in X &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/250124/p24#a250124p24)
  - [Windows 11 is getting colorful new battery icons that are easier to understand at a glance](https://www.theverge.com/2025/1/24/24351295/microsoft-windows-11-preview-insiders-battery-icon-percentage-color)
  - [The $900 Ayaneo 3 is the most exciting PC handheld the company’s yet made](https://www.theverge.com/2025/1/24/24351191/ayaneo-3-price-release-date-indiegogo-specs-handheld)
- - [Sources: ElevenLabs closed a $250M Series C led by ICONIQ Growth at a valuation of between $3B to $3.3B; it was initially looking for funding at a $4B valuation &lpar;TechCrunch&rpar;](http://www.techmeme.com/250124/p23#a250124p23)
- - [Here are the best robot vacuum deals right now](https://www.theverge.com/24350561/best-robot-vacuum-mop-irobot-roomba-eufy-roborock-deals-sale)<!-- TECH:END -->
+ - [Sources: ElevenLabs closed a $250M Series C led by ICONIQ Growth at a valuation of between $3B to $3.3B; it was initially looking for funding at a $4B valuation &lpar;TechCrunch&rpar;](http://www.techmeme.com/250124/p23#a250124p23)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

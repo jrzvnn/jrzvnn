@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [How to open clogged sinkhole Chinese way](http://9gag.com/gag/azxx56z)
- - 😝 [Michael J Fox](http://9gag.com/gag/aE00MeG)
- - 💣 [In a video that has gone viral, a British Airways crew member gives a behind-the-scenes tour of a plane arriving in London from Pakistan](http://9gag.com/gag/apRRxKD)
- - 😝 [A man tries to reorder groceries from a 2022 purchase to compare the cost in 2024.](http://9gag.com/gag/aMVVnMP)
- - 👉 [When your racist pot reach top section on 9gag](http://9gag.com/gag/avyyeWE)<!-- MEMES:END -->
+ - 😝 [Eminem, his mom and younger brother, 1990s](http://9gag.com/gag/ae991yW)
+ - 😝 [Skier Stumbles Upon Snowboarder Buried Alive And Saves Him from Certain Death](http://9gag.com/gag/a877DNZ)
+ - 💣 [Equal opportunity](http://9gag.com/gag/apRRDYW)
+ - 😝 [It really is](http://9gag.com/gag/a9yy6DL)
+ - 👉 [A man tries to reorder groceries from a 2022 purchase to compare the cost in 2024.](http://9gag.com/gag/aMVVnMP)<!-- MEMES:END -->
 
 ---
 

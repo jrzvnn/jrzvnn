@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [How to open clogged sinkhole Chinese way](http://9gag.com/gag/azxx56z)
- - 😝 [That&#39;s the way to do it!](http://9gag.com/gag/azxxP5x)
- - 💣 [Just in case if you wonder how POV videos are made](http://9gag.com/gag/azxx5mq)
- - 😝 [When your racist pot reach top section on 9gag](http://9gag.com/gag/avyyeWE)
- - 👉 [Ash well that happened](http://9gag.com/gag/aByyZo1)<!-- MEMES:END -->
+ - 😝 [Brilliant Speech](http://9gag.com/gag/aVvvo1K)
+ - 😝 [President Trump signs the Executive Order to declassify the JFK, RFK, and MLK Jr. files!](http://9gag.com/gag/a1mm0Bv)
+ - 💣 [Not gonna suck itself](http://9gag.com/gag/aGyyBPn)
+ - 😝 [Happy end](http://9gag.com/gag/aMVVPOR)
+ - 👉 [Whamen](http://9gag.com/gag/aAyyKOZ)<!-- MEMES:END -->
 
 ---
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Horrible people](http://9gag.com/gag/a7oo9qr)
- - 😝 [...](http://9gag.com/gag/aQzzQZz)
- - 💣 [No one is saving you, just put on a smile and say I\u2019m alright](http://9gag.com/gag/aD22Z7B)
- - 😝 [She said yes, right?](http://9gag.com/gag/apRR35M)
- - 👉 [A man tries to reorder groceries from a 2022 purchase to compare the cost in 2024.](http://9gag.com/gag/aMVVnMP)<!-- MEMES:END -->
+ - 😝 [It really is](http://9gag.com/gag/a9yy6DL)
+ - 😝 [How to open clogged sinkhole Chinese way](http://9gag.com/gag/azxx56z)
+ - 💣 [Ross Chastain\u2019s wall ride of NASCAR is one of the greatest moments in sports.](http://9gag.com/gag/aNDDV8K)
+ - 😝 [Massage Competition](http://9gag.com/gag/aD226DO)
+ - 👉 [No one is saving you, just put on a smile and say I\u2019m alright](http://9gag.com/gag/aD22Z7B)<!-- MEMES:END -->
 
 ---
 

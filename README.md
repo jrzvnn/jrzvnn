@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Amazon&#39;s $279 iPad 10th Gen deal is back](https://appleinsider.com/articles/25/01/24/amazons-279-ipad-10th-gen-deal-is-back?utm_medium=rss)
+ - [The US SEC revokes SAB 121, an unpopular accounting rule that forced banks to treat bitcoin and other tokens as a liability on their balance sheets &lpar;MacKenzie Sigalos/CNBC&rpar;](http://www.techmeme.com/250124/p11#a250124p11)
  - [Tim Cook quits Apple for Lumon Industries in &#39;Severance&#39; promo](https://appleinsider.com/articles/25/01/24/tim-cook-quits-apple-for-lumon-industries-in-severance-promo?utm_medium=rss)
  - [Sources: a16z is pulling back from its much-touted expansion into UK crypto investing, seeking to refocus on the US crypto industry following Trump&#39;s election &lpar;Financial Times&rpar;](http://www.techmeme.com/250124/p10#a250124p10)
- - [DOGE Will Allow Elon Musk to Surveil the US Government From the Inside](https://www.wired.com/story/doge-elon-musk/)
- - [How to explore legacy VR and 3D content using Apple Vision Pro](https://appleinsider.com/articles/25/01/24/how-to-explore-legacy-vr-and-3d-content-using-apple-vision-pro?utm_medium=rss)
- - [&#39;We Have Seen a Lot More Hate’: Trans People Are Already Terrified](https://www.wired.com/story/trump-executive-order-transgender-kids/)<!-- TECH:END -->
+ - [DOGE Will Allow Elon Musk to Surveil the US Government From the Inside](https://www.wired.com/story/doge-elon-musk/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

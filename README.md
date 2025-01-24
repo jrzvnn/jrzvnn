@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Ain&#39;t Nobody Got Time For That](http://9gag.com/gag/aQzzv2e)
- - 😝 [India wet dream](http://9gag.com/gag/a4PPPpA)
- - 💣 [1600$ graphic cards to play games with the latest unreal engine environment and this is what they give us.](http://9gag.com/gag/aNDDQW6)
- - 😝 [That&#39;s the way to do it!](http://9gag.com/gag/azxxP5x)
- - 👉 [Equal opportunity](http://9gag.com/gag/apRRDYW)<!-- MEMES:END -->
+ - 😝 [Why did they do this on live tv?](http://9gag.com/gag/aByyZP2)
+ - 😝 [1600$ graphic cards to play games with the latest unreal engine environment and this is what they give us.](http://9gag.com/gag/aNDDQW6)
+ - 💣 [That&#39;s the way to do it!](http://9gag.com/gag/azxxP5x)
+ - 😝 [When your racist pot reach top section on 9gag](http://9gag.com/gag/avyyeWE)
+ - 👉 [Massage Competition](http://9gag.com/gag/aD226DO)<!-- MEMES:END -->
 
 ---
 

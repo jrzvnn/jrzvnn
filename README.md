@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Brilliant Speech](http://9gag.com/gag/aVvvo1K)
- - 😝 [President Trump signs the Executive Order to declassify the JFK, RFK, and MLK Jr. files!](http://9gag.com/gag/a1mm0Bv)
- - 💣 [Happy end](http://9gag.com/gag/aMVVPOR)
- - 😝 [Not gonna suck itself](http://9gag.com/gag/aGyyBPn)
- - 👉 [Trump and Homan delivers. Illigales getting deported by the hour.](http://9gag.com/gag/aXPPVxg)<!-- MEMES:END -->
+ - 😝 [Happy end](http://9gag.com/gag/aMVVPOR)
+ - 😝 [Equal opportunity](http://9gag.com/gag/apRRDYW)
+ - 💣 [She said yes, right?](http://9gag.com/gag/apRR35M)
+ - 😝 [Ignorant People , Pointless Race But Satisfactory Ending](http://9gag.com/gag/agmm1ww)
+ - 👉 [When your racist pot reach top section on 9gag](http://9gag.com/gag/avyyeWE)<!-- MEMES:END -->
 
 ---
 

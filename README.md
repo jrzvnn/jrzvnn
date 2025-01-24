@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [How China&#39;s progress across a range of overlapping industries like smartphones, AI, robotics, and drones creates a mutually reinforcing feedback loop &lpar;Kyle Chan/High Capacity&rpar;](http://www.techmeme.com/250124/p4#a250124p4)
  - [Although Trump downplayed Elon Musk&#39;s Stargate criticism, assuring reporters &quot;they&#39;re putting up the money&quot;, key White House sources say they&#39;re furious at Musk &lpar;Politico&rpar;](http://www.techmeme.com/250124/p3#a250124p3)
  - [Sources: OpenAI faces challenges in transitioning to for-profit status, including valuing Microsoft&#39;s stake; its charitable arm could be worth $30B &lpar;Financial Times&rpar;](http://www.techmeme.com/250124/p2#a250124p2)
  - [Texas Instruments reports Q4 revenue down 1.7% YoY to $4.01B, net income down 12% YoY to $1.2B, and projects Q1, 2025 sales between $3.74B and $4.06B &lpar;Ian King/Bloomberg&rpar;](http://www.techmeme.com/250124/p1#a250124p1)
- - [Best Internet Providers in Springfield, Missouri](https://www.cnet.com/home/internet/best-internet-providers-in-springfield-mo/#ftag=CAD590a51e)
- - [PE firm Everstone acquires Delhi-based Wingify, whose flagship product Visual Website Optimizer helps businesses improve online conversion rates, for $200M &lpar;Manish Singh/TechCrunch&rpar;](http://www.techmeme.com/250123/p56#a250123p56)<!-- TECH:END -->
+ - [Best Internet Providers in Springfield, Missouri](https://www.cnet.com/home/internet/best-internet-providers-in-springfield-mo/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

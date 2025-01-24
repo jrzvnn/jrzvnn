@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sony Japan ends production of recordable Blu-rays with ‘no successor’ planned](https://www.theverge.com/2025/1/24/24350993/sony-recordable-blu-ray-end-production-no-successor)
- - [Amazon&#39;s $279 iPad 10th Gen deal is back](https://appleinsider.com/articles/25/01/24/amazons-279-ipad-10th-gen-deal-is-back?utm_medium=rss)
- - [The US SEC revokes SAB 121, a controversial accounting rule that forced banks to treat bitcoin and other tokens as a liability on their balance sheets &lpar;MacKenzie Sigalos/CNBC&rpar;](http://www.techmeme.com/250124/p11#a250124p11)
- - [Tim Cook quits Apple for Lumon Industries in &#39;Severance&#39; promo](https://appleinsider.com/articles/25/01/24/tim-cook-quits-apple-for-lumon-industries-in-severance-promo?utm_medium=rss)
- - [Sources: a16z is pulling back from its much-touted expansion into UK crypto investing, seeking to refocus on the US crypto industry following Trump&#39;s election &lpar;Financial Times&rpar;](http://www.techmeme.com/250124/p10#a250124p10)<!-- TECH:END -->
+ - [X refuses to remove a video of the stabbing of a Sydney bishop watched by Axel Rudakubana minutes before murdering three kids in UK&#39;s Southport last summer &lpar;Financial Times&rpar;](http://www.techmeme.com/250124/p12#a250124p12)
+ - [iPhone 16 vs Samsung Galaxy S25 - Entry-level options compared](https://appleinsider.com/inside/iphone-16/vs/iphone-16-vs-samsung-galaxy-s25---entry-level-options-compared?utm_medium=rss)
+ - [Hironobu Sakaguchi wants his next &lpar;and maybe last&rpar; game to be ‘a successor to Final Fantasy VI’](https://www.theverge.com/2025/1/24/24350575/hironobu-sakaguchi-interview-fantasian-neo-dimension)
+ - [Chris Ware explains how to draw strangers on the bus without getting arrested](https://www.theverge.com/2025/1/24/24349754/chris-ware-cartoonist-art-drawing-acme-datebook-interview)
+ - [Sony Japan ends production of recordable Blu-rays with ‘no successor’ planned](https://www.theverge.com/2025/1/24/24350993/sony-recordable-blu-ray-end-production-no-successor)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

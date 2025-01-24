@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [You can do that?](http://9gag.com/gag/axyyvAW)
- - 😝 [Michael J Fox](http://9gag.com/gag/aE00MeG)
- - 💣 [She said yes, right?](http://9gag.com/gag/apRR35M)
- - 😝 [When your racist pot reach top section on 9gag](http://9gag.com/gag/avyyeWE)
- - 👉 [Skier Stumbles Upon Snowboarder Buried Alive And Saves Him from Certain Death](http://9gag.com/gag/a877DNZ)<!-- MEMES:END -->
+ - 😝 [Trump and Homan delivers. Illigales getting deported by the hour.](http://9gag.com/gag/aXPPVxg)
+ - 😝 [A pack of fake asylum seekers who were intimidating neighbours in Spain ran away when they were confronted. People have had enough.](http://9gag.com/gag/aXPP7gv)
+ - 💣 [Being a parent in 21st century](http://9gag.com/gag/aGyyMyX)
+ - 😝 [Help](http://9gag.com/gag/aVvvm6P)
+ - 👉 [Welcome to Marketing](http://9gag.com/gag/aVvvZjn)<!-- MEMES:END -->
 
 ---
 

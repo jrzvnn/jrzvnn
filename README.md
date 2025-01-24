@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Flip, which lets shoppers share video reviews and earn cash based on engagement, launches a creator fund that grants up to $100M of equity over 5+ years &lpar;Lauren Forristal/TechCrunch&rpar;](http://www.techmeme.com/250124/p26#a250124p26)
  - [Elon Musk email to X staff: ‘we’re barely breaking even’](https://www.theverge.com/2025/1/24/24351317/elon-musk-x-twitter-bank-debt-stagnant-growth)
  - [TikTok still isn’t in the App Store](https://www.theverge.com/2025/1/24/24351281/tiktok-ios-app-store-android-google-play)
  - [The TikTok ban forced a dilemma on US tech companies: risk alienating a mercurial president or risk breaking federal law and face up to billions in penalties &lpar;New York Times&rpar;](http://www.techmeme.com/250124/p25#a250124p25)
- - [AirPods 4 - four-month review: The best Apple earbuds for most people](https://appleinsider.com/articles/25/01/24/airpods-4---four-month-review-the-best-apple-earbuds-for-most-people?utm_medium=rss)
- - [Today&#39;s NYT Strands Hints, Answers and Help for Jan. 25, #328](https://www.cnet.com/tech/gaming/todays-nyt-strands-hints-answers-and-help-for-jan-25-328/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [AirPods 4 - four-month review: The best Apple earbuds for most people](https://appleinsider.com/articles/25/01/24/airpods-4---four-month-review-the-best-apple-earbuds-for-most-people?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

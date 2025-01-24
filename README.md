@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [She said yes, right?](http://9gag.com/gag/apRR35M)
- - 😝 [Just in case if you wonder how POV videos are made](http://9gag.com/gag/azxx5mq)
- - 💣 [Massage Competition](http://9gag.com/gag/aD226DO)
+ - 😝 [How to open clogged sinkhole Chinese way](http://9gag.com/gag/azxx56z)
  - 😝 [It really is](http://9gag.com/gag/a9yy6DL)
- - 👉 [Ash well that happened](http://9gag.com/gag/aByyZo1)<!-- MEMES:END -->
+ - 💣 [Happy end](http://9gag.com/gag/aMVVPOR)
+ - 😝 [1600$ graphic cards to play games with the latest unreal engine environment and this is what they give us.](http://9gag.com/gag/aNDDQW6)
+ - 👉 [Ignorant People , Pointless Race But Satisfactory Ending](http://9gag.com/gag/agmm1ww)<!-- MEMES:END -->
 
 ---
 

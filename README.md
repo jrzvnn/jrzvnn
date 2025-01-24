@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [You had no idea, and now it&#39;s too late as entropy continues and death draws closer](http://9gag.com/gag/aKGGvm3)
- - 😝 [1600$ graphic cards to play games with the latest unreal engine environment and this is what they give us.](http://9gag.com/gag/aNDDQW6)
- - 💣 [Welcome to Marketing](http://9gag.com/gag/aVvvZjn)
- - 😝 [She said yes, right?](http://9gag.com/gag/apRR35M)
- - 👉 [When your racist pot reach top section on 9gag](http://9gag.com/gag/avyyeWE)<!-- MEMES:END -->
+ - 😝 [You can do that?](http://9gag.com/gag/axyyvAW)
+ - 😝 [Michael J Fox](http://9gag.com/gag/aE00MeG)
+ - 💣 [She said yes, right?](http://9gag.com/gag/apRR35M)
+ - 😝 [When your racist pot reach top section on 9gag](http://9gag.com/gag/avyyeWE)
+ - 👉 [Skier Stumbles Upon Snowboarder Buried Alive And Saves Him from Certain Death](http://9gag.com/gag/a877DNZ)<!-- MEMES:END -->
 
 ---
 

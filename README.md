@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Why did they do this on live tv?](http://9gag.com/gag/aByyZP2)
  - 😝 [1600$ graphic cards to play games with the latest unreal engine environment and this is what they give us.](http://9gag.com/gag/aNDDQW6)
- - 💣 [That&#39;s the way to do it!](http://9gag.com/gag/azxxP5x)
- - 😝 [When your racist pot reach top section on 9gag](http://9gag.com/gag/avyyeWE)
- - 👉 [Massage Competition](http://9gag.com/gag/aD226DO)<!-- MEMES:END -->
+ - 😝 [Woman spends weeks in jail, loses her job, and misses her kids&#39; birthdays, after police mistook SpaghettiO sauce on a spoon in her car for meth](http://9gag.com/gag/agmmQ5W)
+ - 💣 [Ash well that happened](http://9gag.com/gag/aByyZo1)
+ - 😝 [Sorry sir...](http://9gag.com/gag/aD222WG)
+ - 👉 [Good](http://9gag.com/gag/aqyyRnY)<!-- MEMES:END -->
 
 ---
 

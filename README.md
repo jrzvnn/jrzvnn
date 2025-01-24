@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Meirl](http://9gag.com/gag/aXPPPEv)
- - 😝 [Woman spends weeks in jail, loses her job, and misses her kids&#39; birthdays, after police mistook SpaghettiO sauce on a spoon in her car for meth](http://9gag.com/gag/agmmQ5W)
- - 💣 [White privilege experiment](http://9gag.com/gag/adBBB6Q)
- - 😝 [Several species of animals have already entered their respective `Stone Age`](http://9gag.com/gag/amoo1V9)
- - 👉 [Why did they do this on live tv?](http://9gag.com/gag/aByyZP2)<!-- MEMES:END -->
+ - 😝 [Happy end](http://9gag.com/gag/aMVVPOR)
+ - 😝 [President Trump signs the Executive Order to declassify the JFK, RFK, and MLK Jr. files!](http://9gag.com/gag/a1mm0Bv)
+ - 💣 [This will face numerous legal challenges, but it&#39;s a good start](http://9gag.com/gag/aKGG1ZW)
+ - 😝 [Don&#39;t live in ignorance just because it&#39;s easy](http://9gag.com/gag/avyyegd)
+ - 👉 [Brilliant Speech](http://9gag.com/gag/aVvvo1K)<!-- MEMES:END -->
 
 ---
 

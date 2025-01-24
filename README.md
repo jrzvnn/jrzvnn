@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Mark Zuckerberg says Meta is planning to invest $60B-$65B in capex in 2025, will end the year with 1.3M+ GPUs, and plans to grow its AI teams significantly &lpar;Jaspreet Singh/Reuters&rpar;](http://www.techmeme.com/250124/p9#a250124p9)
  - [Samsung’s thin, big, boring AI phones](https://www.theverge.com/2025/1/24/24350976/samsung-galaxy-s25-boring-tiktok-ban-openai-vergecast)
  - [Mac mini upgrade, TikTok reversal, and the iPhone 17 Slim cameras, on the AppleInsider Podcast](https://appleinsider.com/articles/25/01/24/mac-mini-upgrade-tiktok-reversal-and-the-iphone-17-slim-cameras-on-the-appleinsider-podcast?utm_medium=rss)
- - [On January 31, the EC will question Meta, X, Snap, Google, TikTok, and LinkedIn on their plans to counter disinformation ahead of elections in Germany &lpar;Gian Volpicelli/Bloomberg&rpar;](http://www.techmeme.com/250124/p8#a250124p8)
- - [Microsoft is closing its British flagship store in London](https://www.theverge.com/2025/1/24/24350954/microsoft-store-london-uk-experience-center-closing)
- - [Netflix Fantasy TV Shows: 17 Originals You Should Check Out Right Now](https://www.cnet.com/tech/services-and-software/best-fantasy-tv-shows-on-netflix-2024/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [The EC says it will question Meta, X, Snap, Google, TikTok, and LinkedIn on January 31 about their plans to counter disinformation ahead of elections in Germany &lpar;Gian Volpicelli/Bloomberg&rpar;](http://www.techmeme.com/250124/p8#a250124p8)
+ - [Microsoft is closing its British flagship store in London](https://www.theverge.com/2025/1/24/24350954/microsoft-store-london-uk-experience-center-closing)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

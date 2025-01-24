@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [PE firm Everstone acquires Delhi-based Wingify, whose flagship product Visual Website Optimizer helps business improve their online conversion rates, for $200M &lpar;Manish Singh/TechCrunch&rpar;](http://www.techmeme.com/250123/p56#a250123p56)
  - [DeepSeek&#39;s latest AI model R1 sticks to Chinese government restrictions on sensitive topics like Tiananmen Square, Taiwan, and the treatment of Uyghurs in China &lpar;Jon Keegan/Sherwood News&rpar;](http://www.techmeme.com/250123/p55#a250123p55)
  - [Tesla brings its redesigned Model Y to the US, but keeps selling the old one too](https://www.theverge.com/2025/1/23/24350768/tesla-model-y-2025-redesign-us-north-america-europe-march)
  - [Sources: Mukesh Ambani&#39;s Reliance is buying Nvidia&#39;s AI chips and plans to build a 3-gigawatt data center in Jamnagar, India, set to be the largest in the world &lpar;Saritha Rai/Bloomberg&rpar;](http://www.techmeme.com/250123/p54#a250123p54)
- - [The US DOJ charges the former CEO of AI chatbot startup GameOn and his wife for allegedly defrauding investors of more than $60M between 2018 and 2024 &lpar;Jonathan Stempel/Reuters&rpar;](http://www.techmeme.com/250123/p53#a250123p53)
- - [Sources: Stargate lacks a fully developed plan, hasn&#39;t secured funding yet, will get no government support, and will exclusively serve OpenAI once operational &lpar;Financial Times&rpar;](http://www.techmeme.com/250123/p52#a250123p52)<!-- TECH:END -->
+ - [The US DOJ charges the former CEO of AI chatbot startup GameOn and his wife for allegedly defrauding investors of more than $60M between 2018 and 2024 &lpar;Jonathan Stempel/Reuters&rpar;](http://www.techmeme.com/250123/p53#a250123p53)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [How to explore legacy VR and 3D content using Apple Vision Pro](https://appleinsider.com/articles/25/01/24/how-to-explore-legacy-vr-and-3d-content-using-apple-vision-pro?utm_medium=rss)
  - [&#39;We Have Seen a Lot More Hate’: Trans People Are Already Terrified](https://www.wired.com/story/trump-executive-order-transgender-kids/)
  - [Mark Zuckerberg says Meta is planning to invest $60B to $65B in capex in 2025, will end the year with 1.3M+ GPUs, and plans to grow its AI teams &quot;significantly&quot; &lpar;Jaspreet Singh/Reuters&rpar;](http://www.techmeme.com/250124/p9#a250124p9)
- - [Samsung’s thin, big, boring AI phones](https://www.theverge.com/2025/1/24/24350976/samsung-galaxy-s25-boring-tiktok-ban-openai-vergecast)
- - [Mac mini upgrade, TikTok reversal, and the iPhone 17 Slim cameras, on the AppleInsider Podcast](https://appleinsider.com/articles/25/01/24/mac-mini-upgrade-tiktok-reversal-and-the-iphone-17-slim-cameras-on-the-appleinsider-podcast?utm_medium=rss)
- - [The EC says it will question Meta, X, Snap, Google, TikTok, and LinkedIn on January 31 about their plans to counter disinformation ahead of elections in Germany &lpar;Gian Volpicelli/Bloomberg&rpar;](http://www.techmeme.com/250124/p8#a250124p8)<!-- TECH:END -->
+ - [Best Internet Providers in Plano, Texas](https://www.cnet.com/home/internet/best-internet-providers-in-plano-tx/#ftag=CAD590a51e)
+ - [&#39;The Wild Robot&#39; Is Now Streaming. Here&#39;s How to Watch From Anywhere](https://www.cnet.com/tech/services-and-software/the-wild-robot-is-now-streaming-heres-how-to-watch-from-anywhere/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The Ram 1500 Rev’s 500-mile battery option is reportedly canceled](https://www.theverge.com/2025/1/24/24351113/ram-1500-rev-500-mile-battery-canceled)
+ - [Sources: Apple moved Kim Vorrath, a company veteran known for fixing troubled products, to its AI group to help improve Siri and Apple Intelligence &lpar;Mark Gurman/Bloomberg&rpar;](http://www.techmeme.com/250124/p14#a250124p14)
+ - [2025 looks like a great year for Xbox](https://www.theverge.com/2025/1/24/24351055/xbox-game-pass-releases-2025-notepad)
  - [The FBI warns that North Korean IT workers are abusing their access to steal source code and extort US companies that have been tricked into hiring them &lpar;Sergiu Gatlan/BleepingComputer&rpar;](http://www.techmeme.com/250124/p13#a250124p13)
- - [Live translations on Meta’s smart glasses work well — until they don’t](https://www.theverge.com/2025/1/24/24351013/ray-ban-meta-smart-glasses-translation-wearables)
- - [Apple Watch bands are still safe to wear says Apple, despite class action claims](https://appleinsider.com/articles/25/01/24/apple-says-its-still-safe-to-wear-your-apple-watch-bands-despite-class-action-lawsuit?utm_medium=rss)
- - [The Supreme Court’s TikTok ruling is an ominous turn for online speech](https://www.theverge.com/2025/1/24/24346165/tiktok-supreme-court-first-amendment-tech-regulation)
- - [X refuses to remove a video of the stabbing of a Sydney bishop watched by Axel Rudakubana minutes before murdering three kids in UK&#39;s Southport last summer &lpar;Financial Times&rpar;](http://www.techmeme.com/250124/p12#a250124p12)<!-- TECH:END -->
+ - [Live translations on Meta’s smart glasses work well — until they don’t](https://www.theverge.com/2025/1/24/24351013/ray-ban-meta-smart-glasses-translation-wearables)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

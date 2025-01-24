@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Sources: Mukesh Ambani&#39;s Reliance is buying Nvidia&#39;s AI chips and plans to build a 3-gigawatt data center in Jamnagar, India, set to be the largest in the world &lpar;Saritha Rai/Bloomberg&rpar;](http://www.techmeme.com/250123/p54#a250123p54)
  - [The US DOJ charges the former CEO of AI chatbot startup GameOn and his wife for allegedly defrauding investors of more than $60M between 2018 and 2024 &lpar;Jonathan Stempel/Reuters&rpar;](http://www.techmeme.com/250123/p53#a250123p53)
  - [Sources: Stargate lacks a fully developed plan, hasn&#39;t secured funding yet, will get no government support, and will exclusively serve OpenAI once operational &lpar;Financial Times&rpar;](http://www.techmeme.com/250123/p52#a250123p52)
  - [Netflix’s cloud plans include co-op and party games](https://www.theverge.com/2025/1/23/24350690/netflix-cloud-gaming-plans-co-op-party-games)
- - [New App Store API gives developers more control over massive in-app purchase catalogs](https://appleinsider.com/articles/25/01/24/new-app-store-api-gives-developers-more-control-over-massive-in-app-purchase-catalogs?utm_medium=rss)
- - [Want to Pay Rent or Mortgage on a Credit Card? Here&#39;s How](https://www.cnet.com/personal-finance/credit-cards/want-to-pay-rent-or-mortgage-on-a-credit-card-heres-how/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [New App Store API gives developers more control over massive in-app purchase catalogs](https://appleinsider.com/articles/25/01/24/new-app-store-api-gives-developers-more-control-over-massive-in-app-purchase-catalogs?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

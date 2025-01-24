@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Several species of animals have already entered their respective `Stone Age`](http://9gag.com/gag/amoo1V9)
- - 😝 [Like which people](http://9gag.com/gag/aE000no)
- - 💣 [No one is saving you, just put on a smile and say I\u2019m alright](http://9gag.com/gag/aD22Z7B)
- - 😝 [She said yes, right?](http://9gag.com/gag/apRR35M)
- - 👉 [Equal opportunity](http://9gag.com/gag/apRRDYW)<!-- MEMES:END -->
+ - 😝 [Forgotten inventions #52](http://9gag.com/gag/ajPPLxw)
+ - 😝 [Good](http://9gag.com/gag/aqyyRnY)
+ - 💣 [1600$ graphic cards to play games with the latest unreal engine environment and this is what they give us.](http://9gag.com/gag/aNDDQW6)
+ - 😝 [Happy end](http://9gag.com/gag/aMVVPOR)
+ - 👉 [No one is saving you, just put on a smile and say I\u2019m alright](http://9gag.com/gag/aD22Z7B)<!-- MEMES:END -->
 
 ---
 

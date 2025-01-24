@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The Ram 1500 Rev’s 500-mile battery option is reportedly canceled](https://www.theverge.com/2025/1/24/24351113/ram-1500-rev-500-mile-battery-canceled)
- - [Sources: Apple moved Kim Vorrath, a company veteran known for fixing troubled products, to its AI group to help improve Siri and Apple Intelligence &lpar;Mark Gurman/Bloomberg&rpar;](http://www.techmeme.com/250124/p14#a250124p14)
- - [2025 looks like a great year for Xbox](https://www.theverge.com/2025/1/24/24351055/xbox-game-pass-releases-2025-notepad)
- - [The FBI warns that North Korean IT workers are abusing their access to steal source code and extort US companies that have been tricked into hiring them &lpar;Sergiu Gatlan/BleepingComputer&rpar;](http://www.techmeme.com/250124/p13#a250124p13)
- - [Live translations on Meta’s smart glasses work well — until they don’t](https://www.theverge.com/2025/1/24/24351013/ray-ban-meta-smart-glasses-translation-wearables)<!-- TECH:END -->
+ - [Sources: Trump&#39;s team members don&#39;t buy Zuckerberg&#39;s right-wing conversion as entirely genuine; one senior official says he has a &quot;lot more ass-kissing&quot; to do &lpar;Rolling Stone&rpar;](http://www.techmeme.com/250124/p16#a250124p16)
+ - [Meta’s censoring of abortion information is nothing new](https://www.theverge.com/2025/1/24/24350967/metas-instagram-facebook-abortion-access-information-blocking-banning)
+ - [Meta begins a &quot;limited, early test&quot; of ads in Threads in the US and Japan, with the goal of making the ads &quot;as interesting as organic content&quot; &lpar;Ivan Mehta/TechCrunch&rpar;](http://www.techmeme.com/250124/p15#a250124p15)
+ - [Threads is offically getting ads](https://www.theverge.com/2025/1/24/24351141/meta-threads-ads-test)
+ - [The Ram 1500 Rev’s 500-mile battery option is reportedly canceled](https://www.theverge.com/2025/1/24/24351113/ram-1500-rev-500-mile-battery-canceled)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

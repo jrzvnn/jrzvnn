@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [1600$ graphic cards to play games with the latest unreal engine environment and this is what they give us.](http://9gag.com/gag/aNDDQW6)
- - 😝 [Equal opportunity](http://9gag.com/gag/apRRDYW)
- - 💣 [When your racist pot reach top section on 9gag](http://9gag.com/gag/avyyeWE)
- - 😝 [Welcome to Marketing](http://9gag.com/gag/aVvvZjn)
- - 👉 [So, you think you are old, but are you this old?](http://9gag.com/gag/aD22ZqO)<!-- MEMES:END -->
+ - 😝 [*throws holy granade*](http://9gag.com/gag/azxxKqK)
+ - 😝 [It really is](http://9gag.com/gag/a9yy6DL)
+ - 💣 [So, you think you are old, but are you this old?](http://9gag.com/gag/aD22ZqO)
+ - 😝 [Massage Competition](http://9gag.com/gag/aD226DO)
+ - 👉 [How to open clogged sinkhole Chinese way](http://9gag.com/gag/azxx56z)<!-- MEMES:END -->
 
 ---
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [This Man Eats So Much Butter, Cheese, and Beef that Cholesterol Oozes from His Skin](https://www.wired.com/story/florida-man-eats-diet-of-butter-cheese-beef-cholesterol-oozes-from-his-body/)
+ - [Apple Watch bands are still safe to wear says Apple, despite class action claims](https://appleinsider.com/articles/25/01/24/apple-says-its-still-safe-to-wear-your-apple-watch-bands-despite-class-action-lawsuit?utm_medium=rss)
  - [iOS 18 adoption steady as users explore AI &amp; customization](https://appleinsider.com/articles/25/01/24/ios-18-adoption-steady-as-users-explore-ai-customization?utm_medium=rss)
  - [An interview with Google DeepMind CEO Demis Hassabis on why he doesn&#39;t believe we will have AGI in 2025, putting Google&#39;s assistants in smart glasses, and more &lpar;Alex Kantrowitz/Big Technology&rpar;](http://www.techmeme.com/250124/p22#a250124p22)
- - [Rivian will add hands-free driver assist to vehicles this year, ‘eyes-off’ next year](https://www.theverge.com/2025/1/24/24351228/rivian-hands-free-eyes-off-adas-driver-assist-2026)
- - [Similarweb: RedNote&#39;s DAUs in the US fell by 54% on January 20 when the TikTok ban was put on hold, after reaching a high of 32.5M DAUs on the day of the ban &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/250124/p21#a250124p21)
- - [Best Multivitamins for 2025](https://www.cnet.com/health/nutrition/best-multivitamins/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Next Black Ops 6 Zombies Map, The Tomb, Gets New Trailer](https://www.cnet.com/tech/gaming/next-black-ops-6-zombies-map-the-tomb-gets-new-trailer/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

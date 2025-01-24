@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [No one is saving you, just put on a smile and say I\u2019m alright](http://9gag.com/gag/aD22Z7B)
- - 😝 [Ignorant People , Pointless Race But Satisfactory Ending](http://9gag.com/gag/agmm1ww)
- - 💣 [When your racist pot reach top section on 9gag](http://9gag.com/gag/avyyeWE)
- - 😝 [Don&#39;t interrupt a man when he&#39;s enjoying his Krispy Kreme](http://9gag.com/gag/ajPPOvG)
- - 👉 [It really is](http://9gag.com/gag/a9yy6DL)<!-- MEMES:END -->
+ - 😝 [She said yes, right?](http://9gag.com/gag/apRR35M)
+ - 😝 [Paria Fuel Trading Company Limited](http://9gag.com/gag/aVvvZqO)
+ - 💣 [No one is saving you, just put on a smile and say I\u2019m alright](http://9gag.com/gag/aD22Z7B)
+ - 😝 [When your racist pot reach top section on 9gag](http://9gag.com/gag/avyyeWE)
+ - 👉 [Equal opportunity](http://9gag.com/gag/apRRDYW)<!-- MEMES:END -->
 
 ---
 

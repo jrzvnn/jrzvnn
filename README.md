@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Villagers with the same names as his wife and kids](http://9gag.com/gag/a2vvDyD)
- - 😝 [Do you need suppo........ Never mind](http://9gag.com/gag/a6ZZBDe)
- - 💣 [Be Like Poland](http://9gag.com/gag/aGyy8j0)
+ - 😝 [So, you think you are old, but are you this old?](http://9gag.com/gag/aD22ZqO)
+ - 😝 [Eminem, his mom and younger brother, 1990s](http://9gag.com/gag/ae991yW)
+ - 💣 [Two dudes in 2003, unaware they were making a legendary song](http://9gag.com/gag/an772Lb)
  - 😝 [Welcome to Marketing](http://9gag.com/gag/aVvvZjn)
- - 👉 [Bro cooked](http://9gag.com/gag/aByyExZ)<!-- MEMES:END -->
+ - 👉 [Equal opportunity](http://9gag.com/gag/apRRDYW)<!-- MEMES:END -->
 
 ---
 

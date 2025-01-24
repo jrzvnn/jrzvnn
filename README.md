@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Similarweb: RedNote&#39;s DAUs in the US fell by 54% on January 20 when the TikTok ban was put on hold, after reaching a high of 32.5M DAUs on the day of the ban &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/250124/p21#a250124p21)
+ - [Best Multivitamins for 2025](https://www.cnet.com/health/nutrition/best-multivitamins/#ftag=CAD590a51e)
  - [Dynamic Island expected to stay the same on iPhone 17](https://appleinsider.com/articles/25/01/24/dynamic-island-expected-to-stay-the-same-on-iphone-17?utm_medium=rss)
  - [Apple Intelligence &amp; Siri team getting a boost from fixer Kim Vorrath](https://appleinsider.com/articles/25/01/24/apple-intelligence-siri-team-getting-a-boost-from-fixer-kim-vorrath?utm_medium=rss)
- - [Apptopia: Meta&#39;s engagement is steady despite some calls for a Meta boycott over fact-checking and DEI changes; TikTok ban may have overshadowed user concerns &lpar;Pranav Dixit/Business Insider&rpar;](http://www.techmeme.com/250124/p20#a250124p20)
- - [ShopMy, which lets brands run influencer marketing efforts, raised a $77.5M Series B led by Bessemer and Bain, sources say at a $410M valuation vs. $80M in 2024 &lpar;Katie Deighton/Wall Street Journal&rpar;](http://www.techmeme.com/250124/p19#a250124p19)
- - [Retro Biosciences, the Sam Altman-backed startup that wants to use AI to develop therapies for extending human lifespan by a decade, is raising a $1B Series A &lpar;Financial Times&rpar;](http://www.techmeme.com/250124/p18#a250124p18)<!-- TECH:END -->
+ - [Best Speakerphone in 2025 for Working From Home](https://www.cnet.com/tech/mobile/best-speakerphone/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

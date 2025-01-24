@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [President Trump signs the Executive Order to declassify the JFK, RFK, and MLK Jr. files!](http://9gag.com/gag/a1mm0Bv)
- - 😝 [How you can stay tolerant in these times ?](http://9gag.com/gag/aoyyVww)
- - 💣 [This will face numerous legal challenges, but it&#39;s a good start](http://9gag.com/gag/aKGG1ZW)
- - 😝 [Don&#39;t live in ignorance just because it&#39;s easy](http://9gag.com/gag/avyyegd)
- - 👉 [Brilliant Speech](http://9gag.com/gag/aVvvo1K)<!-- MEMES:END -->
+ - 😝 [White privilege experiment](http://9gag.com/gag/adBBB6Q)
+ - 😝 [Abrupt Water \ud83c\udf0a](http://9gag.com/gag/a9yyy2W)
+ - 💣 [Happy end](http://9gag.com/gag/aMVVPOR)
+ - 😝 [Equal opportunity](http://9gag.com/gag/apRRDYW)
+ - 👉 [He tried hard to make his girlfriend happy and got it](http://9gag.com/gag/aGyyyw5)<!-- MEMES:END -->
 
 ---
 

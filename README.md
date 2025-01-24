@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Starkey Edge AI RIC RT Review: Best Prescription Hearing Aids](https://www.wired.com/review/starkey-edge-ai-ric-rt-hearing-aids/)
+ - [Dating Apps Promise to Remain a Rare Haven Following Trump’s Executive Order](https://www.wired.com/story/dating-apps-promise-to-be-a-haven-following-trumps-executive-order/)
  - [Much delayed next generation CarPlay is still coming, says Apple](https://appleinsider.com/articles/25/01/24/much-delayed-next-generation-carplay-is-still-coming-says-apple?utm_medium=rss)
  - [Instagram and Facebook removed posts from two abortion pill providers; Instagram also suspended accounts; Meta confirmed and restored some of the accounts &lpar;New York Times&rpar;](http://www.techmeme.com/250124/p6#a250124p6)
- - [Trump Wants a War With Cartels—and May Just Get One](https://www.wired.com/story/trump-executive-order-mexico-drug-cartels-terrorist-organizations/)
- - [Tesla plans a software update for ~1.2M cars in China, around half its fleet in the country, to address power steering and rear-view camera issues &lpar;Bloomberg&rpar;](http://www.techmeme.com/250124/p5#a250124p5)
- - [Galaxy S25 Ultra vs. S25 and S25 Plus: I Compared All the Major Specs and Features](https://www.cnet.com/tech/mobile/galaxy-s25-ultra-vs-s25-and-s25-plus-i-compared-all-the-major-specs-and-features/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Best Internet Providers in Nampa, Idaho](https://www.cnet.com/home/internet/best-internet-providers-in-nampa-id/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

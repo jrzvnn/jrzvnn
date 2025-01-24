@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [A teacher showing his paper aeroplane](http://9gag.com/gag/a877mpd)
- - 😝 [He tried hard to make his girlfriend happy and got it](http://9gag.com/gag/aGyyyw5)
+ - 😝 [That&#39;s the way to do it!](http://9gag.com/gag/azxxP5x)
+ - 😝 [Like which people](http://9gag.com/gag/aE000no)
  - 💣 [Just in case if you wonder how POV videos are made](http://9gag.com/gag/azxx5mq)
- - 😝 [Forgotten inventions #52](http://9gag.com/gag/ajPPLxw)
- - 👉 [That&#39;s the way to do it!](http://9gag.com/gag/azxxP5x)<!-- MEMES:END -->
+ - 😝 [When your racist pot reach top section on 9gag](http://9gag.com/gag/avyyeWE)
+ - 👉 [Massage Competition](http://9gag.com/gag/aD226DO)<!-- MEMES:END -->
 
 ---
 

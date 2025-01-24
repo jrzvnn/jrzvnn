@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [Forgotten inventions #52](http://9gag.com/gag/ajPPLxw)
+ - 😝 [Happy end](http://9gag.com/gag/aMVVPOR)
+ - 💣 [Ash well that happened](http://9gag.com/gag/aByyZo1)
  - 😝 [How to open clogged sinkhole Chinese way](http://9gag.com/gag/azxx56z)
- - 😝 [It really is](http://9gag.com/gag/a9yy6DL)
- - 💣 [Happy end](http://9gag.com/gag/aMVVPOR)
- - 😝 [1600$ graphic cards to play games with the latest unreal engine environment and this is what they give us.](http://9gag.com/gag/aNDDQW6)
- - 👉 [Ignorant People , Pointless Race But Satisfactory Ending](http://9gag.com/gag/agmm1ww)<!-- MEMES:END -->
+ - 👉 [Massage Competition](http://9gag.com/gag/aD226DO)<!-- MEMES:END -->
 
 ---
 

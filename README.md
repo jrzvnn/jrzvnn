@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Much delayed next generation CarPlay is still coming, says Apple](https://appleinsider.com/articles/25/01/24/much-delayed-next-generation-carplay-is-still-coming-says-apple?utm_medium=rss)
  - [Instagram and Facebook removed posts from two abortion pill providers; Instagram also suspended accounts; Meta confirmed and restored some of the accounts &lpar;New York Times&rpar;](http://www.techmeme.com/250124/p6#a250124p6)
  - [Trump Wants a War With Cartels—and May Just Get One](https://www.wired.com/story/trump-executive-order-mexico-drug-cartels-terrorist-organizations/)
  - [Tesla plans a software update for ~1.2M cars in China, around half its fleet in the country, to address power steering and rear-view camera issues &lpar;Bloomberg&rpar;](http://www.techmeme.com/250124/p5#a250124p5)
- - [Galaxy S25 Ultra vs. S25 and S25 Plus: I Compared All the Major Specs and Features](https://www.cnet.com/tech/mobile/galaxy-s25-ultra-vs-s25-and-s25-plus-i-compared-all-the-major-specs-and-features/#ftag=CAD590a51e)
- - [Take Advantage of High APYs While You Can](https://www.cnet.com/personal-finance/banking/take-advantage-of-high-apys-while-you-can/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Galaxy S25 Ultra vs. S25 and S25 Plus: I Compared All the Major Specs and Features](https://www.cnet.com/tech/mobile/galaxy-s25-ultra-vs-s25-and-s25-plus-i-compared-all-the-major-specs-and-features/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

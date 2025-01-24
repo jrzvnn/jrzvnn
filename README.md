@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Brilliant Speech](http://9gag.com/gag/aVvvo1K)
- - 😝 [President Trump signs the Executive Order to declassify the JFK, RFK, and MLK Jr. files!](http://9gag.com/gag/a1mm0Bv)
- - 💣 [Not gonna suck itself](http://9gag.com/gag/aGyyBPn)
- - 😝 [Happy end](http://9gag.com/gag/aMVVPOR)
- - 👉 [Whamen](http://9gag.com/gag/aAyyKOZ)<!-- MEMES:END -->
+ - 😝 [Ain&#39;t Nobody Got Time For That](http://9gag.com/gag/aQzzv2e)
+ - 😝 [India wet dream](http://9gag.com/gag/a4PPPpA)
+ - 💣 [1600$ graphic cards to play games with the latest unreal engine environment and this is what they give us.](http://9gag.com/gag/aNDDQW6)
+ - 😝 [That&#39;s the way to do it!](http://9gag.com/gag/azxxP5x)
+ - 👉 [Equal opportunity](http://9gag.com/gag/apRRDYW)<!-- MEMES:END -->
 
 ---
 

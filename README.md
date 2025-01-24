@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [An interview with Google DeepMind CEO Demis Hassabis on why he doesn&#39;t believe we will have AGI in 2025, putting Google&#39;s assistants in smart glasses, and more &lpar;Alex Kantrowitz/Big Technology&rpar;](http://www.techmeme.com/250124/p22#a250124p22)
  - [Rivian will add hands-free driver assist to vehicles this year, ‘eyes-off’ next year](https://www.theverge.com/2025/1/24/24351228/rivian-hands-free-eyes-off-adas-driver-assist-2026)
  - [Similarweb: RedNote&#39;s DAUs in the US fell by 54% on January 20 when the TikTok ban was put on hold, after reaching a high of 32.5M DAUs on the day of the ban &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/250124/p21#a250124p21)
  - [Best Multivitamins for 2025](https://www.cnet.com/health/nutrition/best-multivitamins/#ftag=CAD590a51e)
- - [Dynamic Island expected to stay the same on iPhone 17](https://appleinsider.com/articles/25/01/24/dynamic-island-expected-to-stay-the-same-on-iphone-17?utm_medium=rss)
- - [Apple Intelligence &amp; Siri team getting a boost from fixer Kim Vorrath](https://appleinsider.com/articles/25/01/24/apple-intelligence-siri-team-getting-a-boost-from-fixer-kim-vorrath?utm_medium=rss)<!-- TECH:END -->
+ - [Dynamic Island expected to stay the same on iPhone 17](https://appleinsider.com/articles/25/01/24/dynamic-island-expected-to-stay-the-same-on-iphone-17?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

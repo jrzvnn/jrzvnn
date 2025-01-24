@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Sources: a16z is pulling back from its much-touted expansion into UK crypto investing, seeking to refocus on the US crypto industry following Trump&#39;s election &lpar;Financial Times&rpar;](http://www.techmeme.com/250124/p10#a250124p10)
+ - [DOGE Will Allow Elon Musk to Surveil the US Government From the Inside](https://www.wired.com/story/doge-elon-musk/)
  - [How to explore legacy VR and 3D content using Apple Vision Pro](https://appleinsider.com/articles/25/01/24/how-to-explore-legacy-vr-and-3d-content-using-apple-vision-pro?utm_medium=rss)
  - [&#39;We Have Seen a Lot More Hate’: Trans People Are Already Terrified](https://www.wired.com/story/trump-executive-order-transgender-kids/)
- - [Mark Zuckerberg says Meta is planning to invest $60B to $65B in capex in 2025, will end the year with 1.3M+ GPUs, and plans to grow its AI teams &quot;significantly&quot; &lpar;Jaspreet Singh/Reuters&rpar;](http://www.techmeme.com/250124/p9#a250124p9)
- - [Best Internet Providers in Plano, Texas](https://www.cnet.com/home/internet/best-internet-providers-in-plano-tx/#ftag=CAD590a51e)
- - [&#39;The Wild Robot&#39; Is Now Streaming. Here&#39;s How to Watch From Anywhere](https://www.cnet.com/tech/services-and-software/the-wild-robot-is-now-streaming-heres-how-to-watch-from-anywhere/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Mark Zuckerberg says Meta is planning to invest $60B to $65B in capex in 2025, will end the year with 1.3M+ GPUs, and plans to grow its AI teams &quot;significantly&quot; &lpar;Jaspreet Singh/Reuters&rpar;](http://www.techmeme.com/250124/p9#a250124p9)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

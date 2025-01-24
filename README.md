@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Microsoft is closing its British flagship store in London](https://www.theverge.com/2025/1/24/24350954/microsoft-store-london-uk-experience-center-closing)
+ - [5 Physics Equations Everyone Should Know](https://www.wired.com/story/5-physics-equations-everyone-should-know/)
  - [The CMA says Google has agreed to curb UK businesses using fake reviews to boost ratings and must report to the CMA on its efforts for the next three years &lpar;Jess Weatherbed/The Verge&rpar;](http://www.techmeme.com/250124/p7#a250124p7)
  - [Science Has Spun Spider-Man&#39;s Web-Slinging Into Reality](https://www.wired.com/story/science-has-spun-spideys-web-slinging-into-reality/)
- - [Google agrees to crack down on fake reviews for UK businesses](https://www.theverge.com/2025/1/24/24350932/google-cma-cracks-down-fake-reviews-uk-businesses)
- - [Starkey Edge AI RIC RT Review: Best Prescription Hearing Aids](https://www.wired.com/review/starkey-edge-ai-ric-rt-hearing-aids/)
- - [Dating Apps Promise to Remain a Rare Haven Following Trump’s Executive Order](https://www.wired.com/story/dating-apps-promise-to-be-a-haven-following-trumps-executive-order/)<!-- TECH:END -->
+ - [Google agrees to crack down on fake reviews for UK businesses](https://www.theverge.com/2025/1/24/24350932/google-cma-cracks-down-fake-reviews-uk-businesses)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

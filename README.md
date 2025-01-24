@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Apple finally admits next-gen CarPlay isn’t coming in 2024](https://www.theverge.com/2025/1/24/24350909/apple-next-gen-carplay-missed-2024-launch-deadline)
  - [Sony’s next flagship noise-canceling headphones might be close to launch](https://www.theverge.com/2025/1/24/24350907/sony-wh-1000xm6-noise-canceling-headphones-fcc-filing-detachable-earpads)
  - [Best Vitamins for Hair Growth in 2025](https://www.cnet.com/health/nutrition/best-vitamins-for-hair-growth/#ftag=CAD590a51e)
  - [How China&#39;s progress across a range of overlapping industries like smartphones, AI, robotics, and drones creates a mutually reinforcing feedback loop &lpar;Kyle Chan/High Capacity&rpar;](http://www.techmeme.com/250124/p4#a250124p4)
- - [Although Trump downplayed Elon Musk&#39;s Stargate criticism, assuring reporters &quot;they&#39;re putting up the money&quot;, key White House sources say they&#39;re furious at Musk &lpar;Politico&rpar;](http://www.techmeme.com/250124/p3#a250124p3)
- - [Sources: OpenAI faces challenges in transitioning to for-profit status, including valuing Microsoft&#39;s stake; its charitable arm could be worth $30B &lpar;Financial Times&rpar;](http://www.techmeme.com/250124/p2#a250124p2)<!-- TECH:END -->
+ - [Although Trump downplayed Elon Musk&#39;s Stargate criticism, assuring reporters &quot;they&#39;re putting up the money&quot;, key White House sources say they&#39;re furious at Musk &lpar;Politico&rpar;](http://www.techmeme.com/250124/p3#a250124p3)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

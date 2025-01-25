@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Taste of the beginning of the work week](http://9gag.com/gag/aYQQqpw)
- - 😝 [Happened to all of us](http://9gag.com/gag/aNDD4pb)
- - 💣 [*throws holy granade*](http://9gag.com/gag/azxxKqK)
- - 😝 [The Latina women of today are hopeless.](http://9gag.com/gag/aW44o8q)
- - 👉 [Sumimasen WTF?](http://9gag.com/gag/aE00oKx)<!-- MEMES:END -->
+ - 😝 [For the boyz](http://9gag.com/gag/aGyyADX)
+ - 😝 [Bro cooked](http://9gag.com/gag/aByyExZ)
+ - 💣 [Welcome to Marketing](http://9gag.com/gag/aVvvZjn)
+ - 😝 [Be Like Poland](http://9gag.com/gag/aGyy8j0)
+ - 👉 [Trump administration bans Pride and BLM flags and implements &#39;one flag policy&#39; on US facilities](http://9gag.com/gag/an772jV)<!-- MEMES:END -->
 
 ---
 

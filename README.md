@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Source: Lightspeed has invested a total of $2.2B in AI deals, excluding the $2B Anthropic funding round it&#39;s leading and is close to raising a $7B fund &lpar;Kate Clark/Bloomberg&rpar;](http://www.techmeme.com/250124/p32#a250124p32)
  - [Yann LeCun says DeepSeek &quot;profited from open research and open source&quot; like Meta&#39;s Llama and is proof that open source models are surpassing proprietary ones &lpar;Carl Franzen/VentureBeat&rpar;](http://www.techmeme.com/250124/p31#a250124p31)
+ - [Stranded NASA Astronaut on the ISS Takes a Spacewalk, With Another Planned](https://www.cnet.com/science/stranded-nasa-astronaut-on-the-iss-takes-a-spacewalk-with-another-planned/#ftag=CAD590a51e)
  - [The AI spending frenzy is just getting started](https://www.theverge.com/2025/1/24/24351418/project-stargate-openai-spending-meta-microsoft)
- - [Filing: Character AI says 1A protects it from liability in a lawsuit that claims a teen committed suicide after becoming emotionally attached to a chatbot &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/250124/p30#a250124p30)
- - [Apple makes a change to its AI team and plans Siri upgrades](https://www.theverge.com/2025/1/24/24351391/apple-change-ai-team-siri-upgrades-kim-vorrath)
- - [UnitedHealth says the ransomware attack on its Change Healthcare unit in February 2024 affected ~190M people, nearly double its previous estimate of 100M &lpar;Zack Whittaker/TechCrunch&rpar;](http://www.techmeme.com/250124/p29#a250124p29)<!-- TECH:END -->
+ - [Best Internet Providers in Metairie, Louisiana](https://www.cnet.com/home/internet/best-internet-providers-in-metairie-la/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

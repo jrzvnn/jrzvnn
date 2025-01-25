@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Eminem, his mom and younger brother, 1990s](http://9gag.com/gag/ae991yW)
- - 😝 [Welcome to Marketing](http://9gag.com/gag/aVvvZjn)
- - 💣 [Do you need suppo........ Never mind](http://9gag.com/gag/a6ZZBDe)
- - 😝 [Dude shows off his invisibility shield.](http://9gag.com/gag/ae99V6q)
- - 👉 [Taste of the beginning of the work week](http://9gag.com/gag/aYQQqpw)<!-- MEMES:END -->
+ - 😝 [Taste of the beginning of the work week](http://9gag.com/gag/aYQQqpw)
+ - 😝 [Happened to all of us](http://9gag.com/gag/aNDD4pb)
+ - 💣 [*throws holy granade*](http://9gag.com/gag/azxxKqK)
+ - 😝 [The Latina women of today are hopeless.](http://9gag.com/gag/aW44o8q)
+ - 👉 [Sumimasen WTF?](http://9gag.com/gag/aE00oKx)<!-- MEMES:END -->
 
 ---
 

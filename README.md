@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [US Privacy Snags a Win as Judge Limits Warrantless FBI Searches](https://www.wired.com/story/section-702-fbi-searches-unconstitutional/)
  - [Taylor Swift Triggered a Tsunami of Sports Bets. Then She Stopped Turning Up](https://www.wired.com/story/taylor-swift-triggered-a-tsunami-of-sports-bets-then-she-stopped-turning-up/)
+ - [Microcurrent Devices: Effectiveness, Tips for Use and Are They Worth the Money? We Asked Skin Experts](https://www.cnet.com/health/personal-care/microcurrent-devices-effectiveness-tips-use-worth-money-we-asked-skin-experts/#ftag=CAD590a51e)
  - [How Chinese AI Startup DeepSeek Made a Model that Rivals OpenAI](https://www.wired.com/story/deepseek-china-model-ai/)
- - [The IRS Starts New Tax Rule for Venmo, PayPal and CashApp. What You Need to Know](https://www.cnet.com/personal-finance/taxes/the-irs-is-finally-starting-new-tax-rule-for-venmo-paypal-and-cashapp-what-you-need-to-know/#ftag=CAD590a51e)
- - [Elon Musk&#39;s first moves suggest DOGE will be closer to an IT project than the sweeping operation to slash $2T+ from the federal budget that he once predicted &lpar;New York Times&rpar;](http://www.techmeme.com/250125/p4#a250125p4)
- - [The Top 6 Alarm Clocks of 2025](https://www.cnet.com/health/sleep/best-alarm-clock/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Your Take-Home Pay May Get a Boost, Thanks to 2025 Tax Bracket Changes. Here&#39;s Why](https://www.cnet.com/personal-finance/taxes/your-take-home-pay-may-get-a-boost-thanks-to-2025-tax-bracket-changes-heres-why/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

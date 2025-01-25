@@ -167,10 +167,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [I have very little appetite and when I do, it ends halfway through my meal. Usually with discomfort.](http://9gag.com/gag/aKGGeg6)
- - 😝 [The Westworld we got](http://9gag.com/gag/an7729L)
- - 💣 [Last Hug](http://9gag.com/gag/aRBBvoy)
- - 😝 [*throws holy granade*](http://9gag.com/gag/azxxKqK)
- - 👉 [Miss you, Granny!](http://9gag.com/gag/a0ee0bL)<!-- MEMES:END -->
+ - 😝 [Last Hug](http://9gag.com/gag/aRBBvoy)
+ - 💣 [The Westworld we got](http://9gag.com/gag/an7729L)
+ - 😝 [In a video that has gone viral, a British Airways crew member gives a behind-the-scenes tour of a plane arriving in London from Pakistan](http://9gag.com/gag/apRRxKD)
+ - 👉 [Don&#39;t interrupt a man when he&#39;s enjoying his Krispy Kreme](http://9gag.com/gag/ajPPOvG)<!-- MEMES:END -->
 
 ---
 

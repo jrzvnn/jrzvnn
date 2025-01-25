@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [In a video that has gone viral, a British Airways crew member gives a behind-the-scenes tour of a plane arriving in London from Pakistan](http://9gag.com/gag/apRRxKD)
- - 😝 [The Westworld we got](http://9gag.com/gag/an7729L)
- - 💣 [Yasuke removed from Assassin&#39;s Creed Shadows&#39;s pre-order banner. Cant change the shit you created ubisoft.. tsktsk may you rest in pieces. Go woke, go broke.](http://9gag.com/gag/aByyX9N)
- - 😝 [A man tries to reorder groceries from a 2022 purchase to compare the cost in 2024.](http://9gag.com/gag/aMVVnMP)
- - 👉 [Balls of diamond](http://9gag.com/gag/a7oo9vw)<!-- MEMES:END -->
+ - 😝 [Welcome to Marketing](http://9gag.com/gag/aVvvZjn)
+ - 😝 [Council of men approved](http://9gag.com/gag/a4PPARy)
+ - 💣 [For the boyz](http://9gag.com/gag/aGyyADX)
+ - 😝 [Trump administration bans Pride and BLM flags and implements &#39;one flag policy&#39; on US facilities](http://9gag.com/gag/an772jV)
+ - 👉 [RIP you magnificent bastard.](http://9gag.com/gag/azxxZ1b)<!-- MEMES:END -->
 
 ---
 

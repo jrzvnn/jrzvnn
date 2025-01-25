@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Panel Precision: Crafting a Flawless LED Canvas](http://9gag.com/gag/aE00ApO)
- - 😝 [In a video that has gone viral, a British Airways crew member gives a behind-the-scenes tour of a plane arriving in London from Pakistan](http://9gag.com/gag/apRRxKD)
- - 💣 [...](http://9gag.com/gag/aQzzQZz)
- - 😝 [That&#39;s the way to do it!](http://9gag.com/gag/azxxP5x)
- - 👉 [Not cool black bird, not cool](http://9gag.com/gag/a9yy8BW)<!-- MEMES:END -->
+ - 😝 [Sumimasen WTF?](http://9gag.com/gag/aE00oKx)
+ - 😝 [Biggest lie of television !!](http://9gag.com/gag/axyyvRL)
+ - 💣 [Do you need suppo........ Never mind](http://9gag.com/gag/a6ZZBDe)
+ - 😝 [*throws holy granade*](http://9gag.com/gag/azxxKqK)
+ - 👉 [So, you think you are old, but are you this old?](http://9gag.com/gag/aD22ZqO)<!-- MEMES:END -->
 
 ---
 

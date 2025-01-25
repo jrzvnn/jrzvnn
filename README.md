@@ -159,7 +159,7 @@ R                        1 repo              ░░░░░░░░░░░�
 <!-- TECH:START -->
  - [OpenAI updates ChatGPT&#39;s Canvas feature with o1 model support and HTML and React code rendering, making it a direct competitor to Claude&#39;s Artifacts &lpar;Simon Willison/Simon Willison&#39;s Weblog&rpar;](http://www.techmeme.com/250124/p33#a250124p33)
  - [Meta Suspended Abortion Pill Providers&#39; Accounts, Removed Posts](https://www.cnet.com/tech/services-and-software/meta-suspended-abortion-pill-providers-accounts-removed-posts/#ftag=CAD590a51e)
- - [Source: Lightspeed has invested a total of $2.2B in AI deals, excluding the $2B Anthropic funding round it&#39;s leading and is close to raising a $7B fund &lpar;Kate Clark/Bloomberg&rpar;](http://www.techmeme.com/250124/p32#a250124p32)
+ - [Source: Lightspeed has invested a total of $2.2B in AI deals, excluding the $2B Anthropic funding round it is leading, and is close to raising a $7B fund &lpar;Kate Clark/Bloomberg&rpar;](http://www.techmeme.com/250124/p32#a250124p32)
  - [GoFundMe Is Helping LA Wildfire Victims Rebuild, but Is It Enough?](https://www.cnet.com/personal-finance/gofundme-is-helping-la-wildfire-victims-rebuild-but-is-it-enough/#ftag=CAD590a51e)
  - [Today&#39;s NYT Connections: Sports Edition Hints and Answers for Jan. 25, #124](https://www.cnet.com/tech/gaming/todays-nyt-connections-sports-edition-hints-and-answers-for-jan-25-124/#ftag=CAD590a51e)<!-- TECH:END -->
 

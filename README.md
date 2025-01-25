@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [DeepSeek, which started as a deep-learning research branch of Chinese quant hedge fund High-Flyer, is now giving US AI giants a run for their money &lpar;Zeyi Yang/Wired&rpar;](http://www.techmeme.com/250125/p11#a250125p11)
  - [After pouring tens of millions into Trump&#39;s campaign, the crypto industry has been paid back handsomely during his first week back, with EOs, rule changes, more &lpar;MacKenzie Sigalos/CNBC&rpar;](http://www.techmeme.com/250125/p10#a250125p10)
  - [All the news about Nvidia’s RTX 50-series GPUs](https://www.theverge.com/2025/1/25/24351798/nvidia-rtx-5090-5080-5070-gpu-news-rumors)
  - [Best Internet Providers in Macon, Georgia](https://www.cnet.com/home/internet/best-internet-providers-in-macon-ga/#ftag=CAD590a51e)
- - [Best Whitening Toothpaste of 2025, According to Dentists](https://www.cnet.com/health/personal-care/best-whitening-toothpaste/#ftag=CAD590a51e)
- - [More French-language programming coming to Apple TV+ in EU countries](https://appleinsider.com/articles/25/01/25/more-french-language-programming-coming-to-apple-tv-in-eu-countries?utm_medium=rss)<!-- TECH:END -->
+ - [Best Whitening Toothpaste of 2025, According to Dentists](https://www.cnet.com/health/personal-care/best-whitening-toothpaste/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

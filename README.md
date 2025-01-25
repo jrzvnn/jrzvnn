@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [O_o](http://9gag.com/gag/aQzz2bw)
- - 😝 [Just like sex assigned at birth, there are only two types of immigrants: Legal and everyone else](http://9gag.com/gag/aQzzORz)
- - 💣 [Best friends](http://9gag.com/gag/apRRYGW)
- - 😝 [Hmmmmm](http://9gag.com/gag/aLnnXzM)
- - 👉 [Peg Board Workout](http://9gag.com/gag/ae9974p)<!-- MEMES:END -->
+ - 😝 [This is why you don&#39;t stay at the same spot after being spotted](http://9gag.com/gag/ae992Kq)
+ - 😝 [Last Hug](http://9gag.com/gag/aRBBvoy)
+ - 💣 [My bill doesn\u2019t seem to have gone down. What about yours?](http://9gag.com/gag/aVvv2xM)
+ - 😝 [Why ..?](http://9gag.com/gag/avyyvKn)
+ - 👉 [So, you think you are old, but are you this old?](http://9gag.com/gag/aD22ZqO)<!-- MEMES:END -->
 
 ---
 

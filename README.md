@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Sumimasen WTF?](http://9gag.com/gag/aE00oKx)
- - 😝 [Biggest lie of television !!](http://9gag.com/gag/axyyvRL)
+ - 😝 [LEAVE... THE F... KIDS... ALONE!!!!](http://9gag.com/gag/a1mm2w2)
+ - 😝 [Happened to all of us](http://9gag.com/gag/aNDD4pb)
  - 💣 [Do you need suppo........ Never mind](http://9gag.com/gag/a6ZZBDe)
- - 😝 [*throws holy granade*](http://9gag.com/gag/azxxKqK)
- - 👉 [So, you think you are old, but are you this old?](http://9gag.com/gag/aD22ZqO)<!-- MEMES:END -->
+ - 😝 [Don&#39;t interrupt a man when he&#39;s enjoying his Krispy Kreme](http://9gag.com/gag/ajPPOvG)
+ - 👉 [Taste of the beginning of the work week](http://9gag.com/gag/aYQQqpw)<!-- MEMES:END -->
 
 ---
 

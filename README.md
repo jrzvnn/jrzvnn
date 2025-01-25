@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Wow!](http://9gag.com/gag/a1mm5K8)
- - 😝 [Inbreeding](http://9gag.com/gag/a1mmV18)
+ - 😝 [My bill doesn\u2019t seem to have gone down. What about yours?](http://9gag.com/gag/aVvv2xM)
+ - 😝 [A short and witty title](http://9gag.com/gag/aGyyGnz)
  - 💣 [Last Hug](http://9gag.com/gag/aRBBvoy)
- - 😝 [Hmmmmm](http://9gag.com/gag/aLnnXzM)
- - 👉 [My bill doesn\u2019t seem to have gone down. What about yours?](http://9gag.com/gag/aVvv2xM)<!-- MEMES:END -->
+ - 😝 [Taste of the beginning of the work week](http://9gag.com/gag/aYQQqpw)
+ - 👉 [Skier Stumbles Upon Snowboarder Buried Alive And Saves Him from Certain Death](http://9gag.com/gag/a877DNZ)<!-- MEMES:END -->
 
 ---
 

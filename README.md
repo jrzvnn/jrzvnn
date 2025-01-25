@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The best ebook reader to buy right now](https://www.theverge.com/23769068/best-ebook-readers)
  - [George R.R. Martin Coauthored a Scientific Paper](https://www.wired.com/story/george-rr-martin-coauthored-a-scientific-paper-physics/)
  - [Lok Digital is a surreal puzzle game full of made-up words](https://www.theverge.com/2025/1/25/24351112/lok-digital-review-word-game-iphone-android-steam)
  - [19 Best Galentine&#39;s Day Gifts to Show Your Gal Pals Some Love in 2025](https://www.cnet.com/news/galentines-day-gifts/#ftag=CAD590a51e)
- - [AI-Powered Search in Premiere Pro and More: Everything Adobe Announced at Sundance](https://www.cnet.com/tech/services-and-software/adobe-previews-ai-powered-search-and-caption-translation-for-premiere-pro-at-sundance/#ftag=CAD590a51e)
- - [Protect Your Phone With Android’s Theft Detection Features](https://www.wired.com/story/how-to-use-android-theft-detection-features/)<!-- TECH:END -->
+ - [AI-Powered Search in Premiere Pro and More: Everything Adobe Announced at Sundance](https://www.cnet.com/tech/services-and-software/adobe-previews-ai-powered-search-and-caption-translation-for-premiere-pro-at-sundance/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

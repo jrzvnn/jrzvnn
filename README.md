@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [RIP you magnificent bastard.](http://9gag.com/gag/azxxZ1b)
  - 😝 [They will now feel like real ladies](http://9gag.com/gag/aByyGYQ)
- - 💣 [Ahhh\u2026 the failguard\u2026](http://9gag.com/gag/awyy44y)
- - 😝 [This \u201dma\u2019am\u201d is a liar.](http://9gag.com/gag/a6ZZp6N)
- - 👉 [Never underestimate the importance of being present for your little ones.](http://9gag.com/gag/a9yyO6L)<!-- MEMES:END -->
+ - 😝 [Wow!](http://9gag.com/gag/a1mm5K8)
+ - 💣 [I have very little appetite and when I do, it ends halfway through my meal. Usually with discomfort.](http://9gag.com/gag/aKGGeg6)
+ - 😝 [Does anyone know what spider does this?](http://9gag.com/gag/a3448v8)
+ - 👉 [Inbreeding](http://9gag.com/gag/a1mmV18)<!-- MEMES:END -->
 
 ---
 

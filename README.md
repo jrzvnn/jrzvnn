@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The 22 Best Movies on Amazon Prime Right Now &lpar;January 2024&rpar;](https://www.wired.com/story/best-amazon-prime-movies/)
- - [The 40 Best Movies on Netflix Right Now &lpar;February 2025&rpar;](https://www.wired.com/story/netflix-best-movies-this-week/)
- - [The Cause of the LA Fires Might Never Be Known—but AI Is Hunting for Clues](https://www.wired.com/story/what-sparks-a-wildfire-the-answer-often-remains-a-mystery/)
- - [The 25 Best Shows on Amazon Prime Right Now &lpar;February 2025&rpar;](https://www.wired.com/story/best-shows-amazon-prime/)
- - [The 40 Best Shows on Netflix Right Now &lpar;February 2025&rpar;](https://www.wired.com/story/netflix-best-shows-this-week/)<!-- TECH:END -->
+ - [Best Internet Providers in Spartanburg, South Carolina](https://www.cnet.com/home/internet/best-internet-providers-in-spartanburg-sc/#ftag=CAD590a51e)
+ - [Best Valentine&#39;s Day Kitchen Gifts for a Home Cook](https://www.cnet.com/news/best-valentines-day-kitchen-gifts-for-a-home-cook/#ftag=CAD590a51e)
+ - [I Don&#39;t Need Samsung&#39;s New AI to Tell Me How to Become a Better Photographer](https://www.cnet.com/tech/services-and-software/samsung-please-spare-me-geminis-photography-tips/#ftag=CAD590a51e)
+ - [Nikon Z6 III Review: A Hybrid Camera for the Masses](https://www.wired.com/review/nikon-z6-iii/)
+ - [Premier League Soccer: Livestream Wolves vs. Arsenal From Anywhere](https://www.cnet.com/tech/services-and-software/premier-league-soccer-livestream-wolves-vs-arsenal-from-anywhere/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

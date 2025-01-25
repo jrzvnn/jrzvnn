@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Protect Your Phone With Android’s Theft Detection Features](https://www.wired.com/story/how-to-use-android-theft-detection-features/)
  - [The Less People Know About AI, the More They Like It](https://www.wired.com/story/the-less-people-know-about-ai-the-more-they-like-it/)
  - [Razer Laptop Cooling Pad review: are you a fan?](https://www.theverge.com/24350342/razer-laptop-cooling-pad-review-hyperboost-synapse-rgb)
  - [Best Internet Providers in Spartanburg, South Carolina](https://www.cnet.com/home/internet/best-internet-providers-in-spartanburg-sc/#ftag=CAD590a51e)
- - [Best Valentine&#39;s Day Kitchen Gifts for a Home Cook](https://www.cnet.com/news/best-valentines-day-kitchen-gifts-for-a-home-cook/#ftag=CAD590a51e)
- - [I Don&#39;t Need Samsung&#39;s New AI to Tell Me How to Become a Better Photographer](https://www.cnet.com/tech/services-and-software/samsung-please-spare-me-geminis-photography-tips/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Best Valentine&#39;s Day Kitchen Gifts for a Home Cook](https://www.cnet.com/news/best-valentines-day-kitchen-gifts-for-a-home-cook/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

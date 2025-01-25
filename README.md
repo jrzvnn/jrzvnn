@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [*throws holy granade*](http://9gag.com/gag/azxxKqK)
- - 😝 [Paria Fuel Trading Company Limited](http://9gag.com/gag/aVvvZqO)
- - 💣 [Ahhh\u2026 the failguard\u2026](http://9gag.com/gag/awyy44y)
  - 😝 [Last Hug](http://9gag.com/gag/aRBBvoy)
- - 👉 [Does anyone know what spider does this?](http://9gag.com/gag/a3448v8)<!-- MEMES:END -->
+ - 😝 [My bill doesn\u2019t seem to have gone down. What about yours?](http://9gag.com/gag/aVvv2xM)
+ - 💣 [LEAVE... THE F... KIDS... ALONE!!!!](http://9gag.com/gag/a1mm2w2)
+ - 😝 [Balls of diamond](http://9gag.com/gag/a7oo9vw)
+ - 👉 [Hmmmmm](http://9gag.com/gag/aLnnXzM)<!-- MEMES:END -->
 
 ---
 

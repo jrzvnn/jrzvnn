@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [That&#39;s the way to do it!](http://9gag.com/gag/azxxP5x)
+ - 😝 [Panel Precision: Crafting a Flawless LED Canvas](http://9gag.com/gag/aE00ApO)
  - 😝 [In a video that has gone viral, a British Airways crew member gives a behind-the-scenes tour of a plane arriving in London from Pakistan](http://9gag.com/gag/apRRxKD)
- - 💣 [When an Of tries cooking](http://9gag.com/gag/aoyyLgg)
- - 😝 [Dirt Bike Detox: A High-Pressure Cleanse](http://9gag.com/gag/aZZZ880)
- - 👉 [Ross Chastain\u2019s wall ride of NASCAR is one of the greatest moments in sports.](http://9gag.com/gag/aNDDV8K)<!-- MEMES:END -->
+ - 💣 [...](http://9gag.com/gag/aQzzQZz)
+ - 😝 [That&#39;s the way to do it!](http://9gag.com/gag/azxxP5x)
+ - 👉 [Not cool black bird, not cool](http://9gag.com/gag/a9yy8BW)<!-- MEMES:END -->
 
 ---
 

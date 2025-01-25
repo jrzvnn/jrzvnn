@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Balls of diamond](http://9gag.com/gag/a7oo9vw)
+ - 😝 [Inbreeding](http://9gag.com/gag/a1mmV18)
  - 😝 [Last Hug](http://9gag.com/gag/aRBBvoy)
- - 💣 [Skier Stumbles Upon Snowboarder Buried Alive And Saves Him from Certain Death](http://9gag.com/gag/a877DNZ)
+ - 💣 [Balls of diamond](http://9gag.com/gag/a7oo9vw)
  - 😝 [My bill doesn\u2019t seem to have gone down. What about yours?](http://9gag.com/gag/aVvv2xM)
- - 👉 [Two dudes in 2003, unaware they were making a legendary song](http://9gag.com/gag/an772Lb)<!-- MEMES:END -->
+ - 👉 [Why ..?](http://9gag.com/gag/avyyvKn)<!-- MEMES:END -->
 
 ---
 

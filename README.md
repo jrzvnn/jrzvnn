@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Trump administration bans Pride and BLM flags and implements &#39;one flag policy&#39; on US facilities](http://9gag.com/gag/an772jV)
  - 😝 [For the boyz](http://9gag.com/gag/aGyyADX)
- - 💣 [Robber: `Ey, what do you deliver?` Delivery guy: `Violence.`](http://9gag.com/gag/awyy49Q)
- - 😝 [O_o](http://9gag.com/gag/aQzz2bw)
- - 👉 [RIP you magnificent bastard.](http://9gag.com/gag/azxxZ1b)<!-- MEMES:END -->
+ - 😝 [This \u201dma\u2019am\u201d is a liar.](http://9gag.com/gag/a6ZZp6N)
+ - 💣 [Paria Fuel Trading Company Limited](http://9gag.com/gag/aVvvZqO)
+ - 😝 [RIP you magnificent bastard.](http://9gag.com/gag/azxxZ1b)
+ - 👉 [O_o](http://9gag.com/gag/aQzz2bw)<!-- MEMES:END -->
 
 ---
 

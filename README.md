@@ -161,7 +161,7 @@ R                        1 repo              ░░░░░░░░░░░�
  - [Uber denies setting fares based on phone models in India, after a government body alleged Uber and Ola use differential pricing for Android and iOS users &lpar;Reuters&rpar;](http://www.techmeme.com/250125/p1#a250125p1)
  - [Trump&#39;s EO to protect the dollar bars any further work on a CBDC and aligns the government&#39;s interests with those of stablecoin issuers like Tether and Circle &lpar;Bloomberg&rpar;](http://www.techmeme.com/250124/p36#a250124p36)
  - [Industry insiders say DeepSeek&#39;s focus on research makes it a dangerous competitor as it&#39;s willing to share breakthroughs rather than protect them for profits &lpar;Financial Times&rpar;](http://www.techmeme.com/250124/p35#a250124p35)
- - [Chinese self-driving company WeRide aims to make more inroads overseas in 2025; WeRide operates in nine countries and secured new deals in Switzerland and Japan &lpar;Jiahui Huang/Wall Street Journal&rpar;](http://www.techmeme.com/250124/p34#a250124p34)<!-- TECH:END -->
+ - [Best Pillow for Every Sleeper in 2025](https://www.cnet.com/health/sleep/best-pillow/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

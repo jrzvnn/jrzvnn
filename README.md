@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Yann LeCun says DeepSeek &quot;profited from open research and open source&quot; like Meta&#39;s Llama and is proof that open source models are surpassing proprietary ones &lpar;Carl Franzen/VentureBeat&rpar;](http://www.techmeme.com/250124/p31#a250124p31)
+ - [The AI spending frenzy is just getting started](https://www.theverge.com/2025/1/24/24351418/project-stargate-openai-spending-meta-microsoft)
+ - [Filing: Character AI says 1A protects it from liability in a lawsuit that claims a teen committed suicide after becoming emotionally attached to a chatbot &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/250124/p30#a250124p30)
  - [Apple makes a change to its AI team and plans Siri upgrades](https://www.theverge.com/2025/1/24/24351391/apple-change-ai-team-siri-upgrades-kim-vorrath)
- - [UnitedHealth says the ransomware attack on its Change Healthcare unit in February 2024 affected ~190M people, nearly double its previous estimate of 100M &lpar;Zack Whittaker/TechCrunch&rpar;](http://www.techmeme.com/250124/p29#a250124p29)
- - [Sources: Rad AI, which creates AI-powered tools for radiologists, raised a $60M Series C at a $525M valuation; Rad AI raised a $50M Series B in March 2024 &lpar;Business Insider&rpar;](http://www.techmeme.com/250124/p28#a250124p28)
- - [Audi’s lifted Q6 E-tron Off-Road concept is ready for winter driving](https://www.theverge.com/2025/1/24/24351357/audi-q6-e-tron-off-road-concept-quattro-lifted-prototype)
- - [White House crypto czar David Sacks says NFTs and memecoins are neither securities nor commodities, but collectibles that people buy to &quot;commemorate something&quot; &lpar;Catherine McGrath/Fortune&rpar;](http://www.techmeme.com/250124/p27#a250124p27)<!-- TECH:END -->
+ - [UnitedHealth says the ransomware attack on its Change Healthcare unit in February 2024 affected ~190M people, nearly double its previous estimate of 100M &lpar;Zack Whittaker/TechCrunch&rpar;](http://www.techmeme.com/250124/p29#a250124p29)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Hands-on with the Ray-Ban Meta smart glasses live translation feature: adept at translating a basic conversation, but struggles with slang and faster speech &lpar;Victoria Song/The Verge&rpar;](http://www.techmeme.com/250125/p6#a250125p6)
+ - [Marvel Snap is coming back to app stores soon, says developer](https://www.theverge.com/2025/1/25/24351641/marvel-snap-google-play-apple-app-store-tiktok-ban-new-publisher)
+ - [Casio’s retro-looking step tracker is on sale for less than 40 bucks today](https://www.theverge.com/2025/1/25/24351329/casio-ws-b1000-watch-samsung-galaxy-s25-ultra-preorder-deal-sale)
  - [The best ebook reader to buy right now](https://www.theverge.com/23769068/best-ebook-readers)
- - [George R.R. Martin Coauthored a Scientific Paper](https://www.wired.com/story/george-rr-martin-coauthored-a-scientific-paper-physics/)
- - [Lok Digital is a surreal puzzle game full of made-up words](https://www.theverge.com/2025/1/25/24351112/lok-digital-review-word-game-iphone-android-steam)
- - [19 Best Galentine&#39;s Day Gifts to Show Your Gal Pals Some Love in 2025](https://www.cnet.com/news/galentines-day-gifts/#ftag=CAD590a51e)
- - [AI-Powered Search in Premiere Pro and More: Everything Adobe Announced at Sundance](https://www.cnet.com/tech/services-and-software/adobe-previews-ai-powered-search-and-caption-translation-for-premiere-pro-at-sundance/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [George R.R. Martin Coauthored a Scientific Paper](https://www.wired.com/story/george-rr-martin-coauthored-a-scientific-paper-physics/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Sources outline negotiations between the Biden administration and TikTok ahead of the ban, as company insiders refute claims that a blackout helped their case &lpar;Drew Harwell/Washington Post&rpar;](http://www.techmeme.com/250125/p2#a250125p2)
  - [Amazon slashes Apple&#39;s M4 Pro MacBook Pro to $1,749 with coupon](https://appleinsider.com/articles/25/01/25/amazon-slashes-apples-m4-pro-macbook-pro-to-1749-with-coupon?utm_medium=rss)
  - [Uber denies setting fares based on phone models in India, after a government body alleged Uber and Ola use differential pricing for Android and iOS users &lpar;Reuters&rpar;](http://www.techmeme.com/250125/p1#a250125p1)
  - [Trump&#39;s EO to protect the dollar bars any further work on a CBDC and aligns the government&#39;s interests with those of stablecoin issuers like Tether and Circle &lpar;Bloomberg&rpar;](http://www.techmeme.com/250124/p36#a250124p36)
- - [Industry insiders say DeepSeek&#39;s focus on research makes it a dangerous competitor as it&#39;s willing to share breakthroughs rather than protect them for profits &lpar;Financial Times&rpar;](http://www.techmeme.com/250124/p35#a250124p35)
- - [Best Pillow for Every Sleeper in 2025](https://www.cnet.com/health/sleep/best-pillow/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Industry insiders say DeepSeek&#39;s focus on research makes it a dangerous competitor as it&#39;s willing to share breakthroughs rather than protect them for profits &lpar;Financial Times&rpar;](http://www.techmeme.com/250124/p35#a250124p35)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

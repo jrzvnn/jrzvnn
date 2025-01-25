@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Happened to all of us](http://9gag.com/gag/aNDD4pb)
- - 😝 [Don&#39;t interrupt a man when he&#39;s enjoying his Krispy Kreme](http://9gag.com/gag/ajPPOvG)
- - 💣 [*throws holy granade*](http://9gag.com/gag/azxxKqK)
- - 😝 [Does anyone know what spider does this?](http://9gag.com/gag/a3448v8)
- - 👉 [I have very little appetite and when I do, it ends halfway through my meal. Usually with discomfort.](http://9gag.com/gag/aKGGeg6)<!-- MEMES:END -->
+ - 😝 [In a video that has gone viral, a British Airways crew member gives a behind-the-scenes tour of a plane arriving in London from Pakistan](http://9gag.com/gag/apRRxKD)
+ - 😝 [Biggest lie of television !!](http://9gag.com/gag/axyyvRL)
+ - 💣 [Equal opportunity](http://9gag.com/gag/apRRDYW)
+ - 😝 [When an Of tries cooking](http://9gag.com/gag/aoyyLgg)
+ - 👉 [So, you think you are old, but are you this old?](http://9gag.com/gag/aD22ZqO)<!-- MEMES:END -->
 
 ---
 

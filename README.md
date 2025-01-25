@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The Top 6 Alarm Clocks of 2025](https://www.cnet.com/health/sleep/best-alarm-clock/#ftag=CAD590a51e)
  - [An investigation reveals how the Israeli military&#39;s reliance on Microsoft&#39;s cloud and AI systems surged during the most intensive phase of the Israel-Hamas war &lpar;The Guardian&rpar;](http://www.techmeme.com/250125/p3#a250125p3)
  - [Sources outline negotiations between the Biden administration and TikTok ahead of the ban, as company insiders refute claims that a blackout helped their case &lpar;Drew Harwell/Washington Post&rpar;](http://www.techmeme.com/250125/p2#a250125p2)
- - [Amazon slashes Apple&#39;s M4 Pro MacBook Pro to $1,749 with coupon](https://appleinsider.com/articles/25/01/25/amazon-slashes-apples-m4-pro-macbook-pro-to-1749-with-coupon?utm_medium=rss)
- - [Uber denies setting fares based on phone models in India, after a government body alleged Uber and Ola use differential pricing for Android and iOS users &lpar;Reuters&rpar;](http://www.techmeme.com/250125/p1#a250125p1)
- - [Trump&#39;s EO to protect the dollar bars any further work on a CBDC and aligns the government&#39;s interests with those of stablecoin issuers like Tether and Circle &lpar;Bloomberg&rpar;](http://www.techmeme.com/250124/p36#a250124p36)<!-- TECH:END -->
+ - [Best Winter Workout Gear: Must-Have Jackets, Leggings, Sunglasses and More](https://www.cnet.com/health/fitness/best-winter-workout-gear/#ftag=CAD590a51e)
+ - [Today&#39;s NYT Mini Crossword Answers for Saturday, Jan. 25](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-saturday-jan-25/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

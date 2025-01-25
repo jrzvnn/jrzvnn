@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Last Hug](http://9gag.com/gag/aRBBvoy)
- - 😝 [My bill doesn\u2019t seem to have gone down. What about yours?](http://9gag.com/gag/aVvv2xM)
- - 💣 [LEAVE... THE F... KIDS... ALONE!!!!](http://9gag.com/gag/a1mm2w2)
- - 😝 [Balls of diamond](http://9gag.com/gag/a7oo9vw)
- - 👉 [Hmmmmm](http://9gag.com/gag/aLnnXzM)<!-- MEMES:END -->
+ - 😝 [Paria Fuel Trading Company Limited](http://9gag.com/gag/aVvvZqO)
+ - 😝 [RIP you magnificent bastard.](http://9gag.com/gag/azxxZ1b)
+ - 💣 [They will now feel like real ladies](http://9gag.com/gag/aByyGYQ)
+ - 😝 [Ahhh\u2026 the failguard\u2026](http://9gag.com/gag/awyy44y)
+ - 👉 [This \u201dma\u2019am\u201d is a liar.](http://9gag.com/gag/a6ZZp6N)<!-- MEMES:END -->
 
 ---
 

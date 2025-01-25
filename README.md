@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [When an Of tries cooking](http://9gag.com/gag/aoyyLgg)
- - 😝 [Do you need suppo........ Never mind](http://9gag.com/gag/a6ZZBDe)
- - 💣 [Balls of diamond](http://9gag.com/gag/a7oo9vw)
- - 😝 [Hmmmmm](http://9gag.com/gag/aLnnXzM)
- - 👉 [*throws holy granade*](http://9gag.com/gag/azxxKqK)<!-- MEMES:END -->
+ - 😝 [Don&#39;t interrupt a man when he&#39;s enjoying his Krispy Kreme](http://9gag.com/gag/ajPPOvG)
+ - 😝 [That&#39;s the way to do it!](http://9gag.com/gag/azxxP5x)
+ - 💣 [*throws holy granade*](http://9gag.com/gag/azxxKqK)
+ - 😝 [I have very little appetite and when I do, it ends halfway through my meal. Usually with discomfort.](http://9gag.com/gag/aKGGeg6)
+ - 👉 [Taste of the beginning of the work week](http://9gag.com/gag/aYQQqpw)<!-- MEMES:END -->
 
 ---
 

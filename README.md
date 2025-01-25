@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [They will now feel like real ladies](http://9gag.com/gag/aByyGYQ)
  - 😝 [Wow!](http://9gag.com/gag/a1mm5K8)
- - 💣 [I have very little appetite and when I do, it ends halfway through my meal. Usually with discomfort.](http://9gag.com/gag/aKGGeg6)
- - 😝 [Does anyone know what spider does this?](http://9gag.com/gag/a3448v8)
- - 👉 [Inbreeding](http://9gag.com/gag/a1mmV18)<!-- MEMES:END -->
+ - 😝 [Inbreeding](http://9gag.com/gag/a1mmV18)
+ - 💣 [Last Hug](http://9gag.com/gag/aRBBvoy)
+ - 😝 [Hmmmmm](http://9gag.com/gag/aLnnXzM)
+ - 👉 [My bill doesn\u2019t seem to have gone down. What about yours?](http://9gag.com/gag/aVvv2xM)<!-- MEMES:END -->
 
 ---
 

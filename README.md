@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Does anyone know what spider does this?](http://9gag.com/gag/a3448v8)
- - 😝 [Sumimasen WTF?](http://9gag.com/gag/aE00oKx)
- - 💣 [Taste of the beginning of the work week](http://9gag.com/gag/aYQQqpw)
- - 😝 [Ross Chastain\u2019s wall ride of NASCAR is one of the greatest moments in sports.](http://9gag.com/gag/aNDDV8K)
- - 👉 [When an Of tries cooking](http://9gag.com/gag/aoyyLgg)<!-- MEMES:END -->
+ - 😝 [That&#39;s the way to do it!](http://9gag.com/gag/azxxP5x)
+ - 😝 [In a video that has gone viral, a British Airways crew member gives a behind-the-scenes tour of a plane arriving in London from Pakistan](http://9gag.com/gag/apRRxKD)
+ - 💣 [When an Of tries cooking](http://9gag.com/gag/aoyyLgg)
+ - 😝 [Dirt Bike Detox: A High-Pressure Cleanse](http://9gag.com/gag/aZZZ880)
+ - 👉 [Ross Chastain\u2019s wall ride of NASCAR is one of the greatest moments in sports.](http://9gag.com/gag/aNDDV8K)<!-- MEMES:END -->
 
 ---
 

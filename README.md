@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Equal opportunity](http://9gag.com/gag/apRRDYW)
- - 😝 [Last Hug](http://9gag.com/gag/aRBBvoy)
- - 💣 [Ross Chastain\u2019s wall ride of NASCAR is one of the greatest moments in sports.](http://9gag.com/gag/aNDDV8K)
- - 😝 [Taste of the beginning of the work week](http://9gag.com/gag/aYQQqpw)
- - 👉 [The Westworld we got](http://9gag.com/gag/an7729L)<!-- MEMES:END -->
+ - 😝 [*throws holy granade*](http://9gag.com/gag/azxxKqK)
+ - 😝 [The Westworld we got](http://9gag.com/gag/an7729L)
+ - 💣 [Legendary!](http://9gag.com/gag/aRBBZ9y)
+ - 😝 [What The Hell is This](http://9gag.com/gag/aO88196)
+ - 👉 [Balls of diamond](http://9gag.com/gag/a7oo9vw)<!-- MEMES:END -->
 
 ---
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [You had no idea, and now it&#39;s too late as entropy continues and death draws closer](http://9gag.com/gag/aKGGvm3)
- - 😝 [Just this](http://9gag.com/gag/aW44b4A)
- - 💣 [In a video that has gone viral, a British Airways crew member gives a behind-the-scenes tour of a plane arriving in London from Pakistan](http://9gag.com/gag/apRRxKD)
- - 😝 [Skier Stumbles Upon Snowboarder Buried Alive And Saves Him from Certain Death](http://9gag.com/gag/a877DNZ)
- - 👉 [Taste of the beginning of the work week](http://9gag.com/gag/aYQQqpw)<!-- MEMES:END -->
+ - 😝 [Taste of the beginning of the work week](http://9gag.com/gag/aYQQqpw)
+ - 😝 [Do you need suppo........ Never mind](http://9gag.com/gag/a6ZZBDe)
+ - 💣 [Skier Stumbles Upon Snowboarder Buried Alive And Saves Him from Certain Death](http://9gag.com/gag/a877DNZ)
+ - 😝 [I shouldn&#39;t tell you, but yes, she does.](http://9gag.com/gag/an77DNB)
+ - 👉 [Just this](http://9gag.com/gag/aW44b4A)<!-- MEMES:END -->
 
 ---
 

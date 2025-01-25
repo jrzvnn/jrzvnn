@@ -159,9 +159,9 @@ R                        1 repo              ░░░░░░░░░░░�
 <!-- TECH:START -->
  - [After pouring tens of millions into Trump&#39;s campaign, the crypto industry has been paid back handsomely during his first week back, with EOs, rule changes, more &lpar;MacKenzie Sigalos/CNBC&rpar;](http://www.techmeme.com/250125/p10#a250125p10)
  - [All the news about Nvidia’s RTX 50-series GPUs](https://www.theverge.com/2025/1/25/24351798/nvidia-rtx-5090-5080-5070-gpu-news-rumors)
- - [More French-language programming coming to Apple TV+ in EU countries](https://appleinsider.com/articles/25/01/25/more-french-language-programming-coming-to-apple-tv-in-eu-countries?utm_medium=rss)
- - [Rather than weakening China&#39;s AI capabilities, US sanctions appear to be driving startups like DeepSeek to innovate by prioritizing efficiency and collaboration &lpar;Caiwei Chen/MIT Technology Review&rpar;](http://www.techmeme.com/250125/p9#a250125p9)
- - [My First 48 Hours With the Galaxy S25 Ultra Have Been Reality Bending](https://www.cnet.com/tech/mobile/my-first-48-hours-with-the-galaxy-s25-ultra-have-been-reality-bending/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Best Internet Providers in Macon, Georgia](https://www.cnet.com/home/internet/best-internet-providers-in-macon-ga/#ftag=CAD590a51e)
+ - [Best Whitening Toothpaste of 2025, According to Dentists](https://www.cnet.com/health/personal-care/best-whitening-toothpaste/#ftag=CAD590a51e)
+ - [More French-language programming coming to Apple TV+ in EU countries](https://appleinsider.com/articles/25/01/25/more-french-language-programming-coming-to-apple-tv-in-eu-countries?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

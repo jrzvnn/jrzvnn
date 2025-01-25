@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [After pouring tens of millions into Trump&#39;s campaign, the crypto industry has been paid back handsomely during his first week back, with EOs, rule changes, more &lpar;MacKenzie Sigalos/CNBC&rpar;](http://www.techmeme.com/250125/p10#a250125p10)
  - [All the news about Nvidia’s RTX 50-series GPUs](https://www.theverge.com/2025/1/25/24351798/nvidia-rtx-5090-5080-5070-gpu-news-rumors)
  - [More French-language programming coming to Apple TV+ in EU countries](https://appleinsider.com/articles/25/01/25/more-french-language-programming-coming-to-apple-tv-in-eu-countries?utm_medium=rss)
  - [Rather than weakening China&#39;s AI capabilities, US sanctions appear to be driving startups like DeepSeek to innovate by prioritizing efficiency and collaboration &lpar;Caiwei Chen/MIT Technology Review&rpar;](http://www.techmeme.com/250125/p9#a250125p9)
- - [My First 48 Hours With the Galaxy S25 Ultra Have Been Reality Bending](https://www.cnet.com/tech/mobile/my-first-48-hours-with-the-galaxy-s25-ultra-have-been-reality-bending/#ftag=CAD590a51e)
- - [Some crypto executives worry Trump&#39;s memecoin undercut the industry&#39;s credibility at the very moment crypto is seeking a prominent place in mainstream finance &lpar;New York Times&rpar;](http://www.techmeme.com/250125/p8#a250125p8)<!-- TECH:END -->
+ - [My First 48 Hours With the Galaxy S25 Ultra Have Been Reality Bending](https://www.cnet.com/tech/mobile/my-first-48-hours-with-the-galaxy-s25-ultra-have-been-reality-bending/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

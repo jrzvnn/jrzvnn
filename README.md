@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [DeepSeek, which started as a deep-learning research branch of Chinese quant hedge fund High-Flyer, is now giving US AI giants a run for their money &lpar;Zeyi Yang/Wired&rpar;](http://www.techmeme.com/250125/p11#a250125p11)
- - [After pouring tens of millions into Trump&#39;s campaign, the crypto industry has been paid back handsomely during his first week back, with EOs, rule changes, more &lpar;MacKenzie Sigalos/CNBC&rpar;](http://www.techmeme.com/250125/p10#a250125p10)
- - [All the news about Nvidia’s RTX 50-series GPUs](https://www.theverge.com/2025/1/25/24351798/nvidia-rtx-5090-5080-5070-gpu-news-rumors)
- - [Best Internet Providers in Macon, Georgia](https://www.cnet.com/home/internet/best-internet-providers-in-macon-ga/#ftag=CAD590a51e)
- - [Best Whitening Toothpaste of 2025, According to Dentists](https://www.cnet.com/health/personal-care/best-whitening-toothpaste/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Fubo’s cheapest streaming plan is now $85 per month](https://www.theverge.com/2025/1/25/24351922/fubo-tv-essential-pro-elite-plan-price-increase)
+ - [Today&#39;s NYT Strands Hints, Answers and Help for Jan. 26, #329](https://www.cnet.com/tech/gaming/todays-nyt-strands-hints-answers-and-help-for-jan-26-329/#ftag=CAD590a51e)
+ - [Today&#39;s NYT Connections Hints, Answers and Help for Jan. 26, #595](https://www.cnet.com/tech/gaming/todays-nyt-connections-hints-answers-and-help-for-jan-26-595/#ftag=CAD590a51e)
+ - [Today&#39;s Wordle Hints, Answer and Help for Jan. 26, #1317](https://www.cnet.com/tech/gaming/todays-wordle-hints-answer-and-help-for-jan-26-1317/#ftag=CAD590a51e)
+ - [Best Language Learning Apps for 2025](https://www.cnet.com/tech/services-and-software/best-language-learning-apps/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

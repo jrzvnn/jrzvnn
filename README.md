@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Yasuke removed from Assassin&#39;s Creed Shadows&#39;s pre-order banner. Cant change the shit you created ubisoft.. tsktsk may you rest in pieces. Go woke, go broke.](http://9gag.com/gag/aByyX9N)
  - 😝 [*throws holy granade*](http://9gag.com/gag/azxxKqK)
- - 💣 [...](http://9gag.com/gag/aQzzQZz)
- - 😝 [Last Hug](http://9gag.com/gag/aRBBvoy)
- - 👉 [Don&#39;t interrupt a man when he&#39;s enjoying his Krispy Kreme](http://9gag.com/gag/ajPPOvG)<!-- MEMES:END -->
+ - 😝 [Balls of diamond](http://9gag.com/gag/a7oo9vw)
+ - 💣 [Taste of the beginning of the work week](http://9gag.com/gag/aYQQqpw)
+ - 😝 [Does anyone know what spider does this?](http://9gag.com/gag/a3448v8)
+ - 👉 [LEAVE... THE F... KIDS... ALONE!!!!](http://9gag.com/gag/a1mm2w2)<!-- MEMES:END -->
 
 ---
 

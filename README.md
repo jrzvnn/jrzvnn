@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Yes, you can ___ ___!](http://9gag.com/gag/abAA2zb)
- - 😝 [Thought this belongs here. Always nice to see fellas laughing together about a meme](http://9gag.com/gag/a9yyvV0)
- - 💣 [Last Hug](http://9gag.com/gag/aRBBvoy)
  - 😝 [Yasuke removed from Assassin&#39;s Creed Shadows&#39;s pre-order banner. Cant change the shit you created ubisoft.. tsktsk may you rest in pieces. Go woke, go broke.](http://9gag.com/gag/aByyX9N)
- - 👉 [Taste of the beginning of the work week](http://9gag.com/gag/aYQQqpw)<!-- MEMES:END -->
+ - 😝 [*throws holy granade*](http://9gag.com/gag/azxxKqK)
+ - 💣 [...](http://9gag.com/gag/aQzzQZz)
+ - 😝 [Last Hug](http://9gag.com/gag/aRBBvoy)
+ - 👉 [Don&#39;t interrupt a man when he&#39;s enjoying his Krispy Kreme](http://9gag.com/gag/ajPPOvG)<!-- MEMES:END -->
 
 ---
 

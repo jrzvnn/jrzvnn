@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Taste of the beginning of the work week](http://9gag.com/gag/aYQQqpw)
- - 😝 [Do you need suppo........ Never mind](http://9gag.com/gag/a6ZZBDe)
- - 💣 [Skier Stumbles Upon Snowboarder Buried Alive And Saves Him from Certain Death](http://9gag.com/gag/a877DNZ)
- - 😝 [I shouldn&#39;t tell you, but yes, she does.](http://9gag.com/gag/an77DNB)
- - 👉 [Just this](http://9gag.com/gag/aW44b4A)<!-- MEMES:END -->
+ - 😝 [Does anyone know what spider does this?](http://9gag.com/gag/a3448v8)
+ - 😝 [Equal opportunity](http://9gag.com/gag/apRRDYW)
+ - 💣 [Telling the true true truth](http://9gag.com/gag/aAyy289)
+ - 😝 [LEAVE... THE F... KIDS... ALONE!!!!](http://9gag.com/gag/a1mm2w2)
+ - 👉 [Taste of the beginning of the work week](http://9gag.com/gag/aYQQqpw)<!-- MEMES:END -->
 
 ---
 

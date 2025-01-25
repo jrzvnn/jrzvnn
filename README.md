@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Eminem, his mom and younger brother, 1990s](http://9gag.com/gag/ae991yW)
- - 😝 [Paria Fuel Trading Company Limited](http://9gag.com/gag/aVvvZqO)
- - 💣 [In a video that has gone viral, a British Airways crew member gives a behind-the-scenes tour of a plane arriving in London from Pakistan](http://9gag.com/gag/apRRxKD)
+ - 😝 [*throws holy granade*](http://9gag.com/gag/azxxKqK)
+ - 😝 [In a video that has gone viral, a British Airways crew member gives a behind-the-scenes tour of a plane arriving in London from Pakistan](http://9gag.com/gag/apRRxKD)
+ - 💣 [So, you think you are old, but are you this old?](http://9gag.com/gag/aD22ZqO)
  - 😝 [Biggest lie of television !!](http://9gag.com/gag/axyyvRL)
- - 👉 [The Latina women of today are hopeless.](http://9gag.com/gag/aW44o8q)<!-- MEMES:END -->
+ - 👉 [Ross Chastain\u2019s wall ride of NASCAR is one of the greatest moments in sports.](http://9gag.com/gag/aNDDV8K)<!-- MEMES:END -->
 
 ---
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Supporters and skeptics of the TikTok ban in Congress say Trump&#39;s US ownership proposal bewilders them, claiming it doesn&#39;t comply with the divest-or-ban law &lpar;Politico&rpar;](http://www.techmeme.com/250125/p5#a250125p5)
- - [US Privacy Snags a Win as Judge Limits Warrantless FBI Searches](https://www.wired.com/story/section-702-fbi-searches-unconstitutional/)
- - [Taylor Swift Triggered a Tsunami of Sports Bets. Then She Stopped Turning Up](https://www.wired.com/story/taylor-swift-triggered-a-tsunami-of-sports-bets-then-she-stopped-turning-up/)
- - [Microcurrent Devices: Effectiveness, Tips for Use and Are They Worth the Money? We Asked Skin Experts](https://www.cnet.com/health/personal-care/microcurrent-devices-effectiveness-tips-use-worth-money-we-asked-skin-experts/#ftag=CAD590a51e)
- - [How Chinese AI Startup DeepSeek Made a Model that Rivals OpenAI](https://www.wired.com/story/deepseek-china-model-ai/)<!-- TECH:END -->
+ - [The 22 Best Movies on Amazon Prime Right Now &lpar;January 2024&rpar;](https://www.wired.com/story/best-amazon-prime-movies/)
+ - [The 40 Best Movies on Netflix Right Now &lpar;February 2025&rpar;](https://www.wired.com/story/netflix-best-movies-this-week/)
+ - [The Cause of the LA Fires Might Never Be Known—but AI Is Hunting for Clues](https://www.wired.com/story/what-sparks-a-wildfire-the-answer-often-remains-a-mystery/)
+ - [The 25 Best Shows on Amazon Prime Right Now &lpar;February 2025&rpar;](https://www.wired.com/story/best-shows-amazon-prime/)
+ - [The 40 Best Shows on Netflix Right Now &lpar;February 2025&rpar;](https://www.wired.com/story/netflix-best-shows-this-week/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

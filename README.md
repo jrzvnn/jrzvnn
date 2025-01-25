@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [This is why you don&#39;t stay at the same spot after being spotted](http://9gag.com/gag/ae992Kq)
- - 😝 [Last Hug](http://9gag.com/gag/aRBBvoy)
- - 💣 [My bill doesn\u2019t seem to have gone down. What about yours?](http://9gag.com/gag/aVvv2xM)
- - 😝 [Why ..?](http://9gag.com/gag/avyyvKn)
- - 👉 [So, you think you are old, but are you this old?](http://9gag.com/gag/aD22ZqO)<!-- MEMES:END -->
+ - 😝 [Making a big save, and his teammates let him know](http://9gag.com/gag/axyybBD)
+ - 😝 [My bill doesn\u2019t seem to have gone down. What about yours?](http://9gag.com/gag/aVvv2xM)
+ - 💣 [So, you think you are old, but are you this old?](http://9gag.com/gag/aD22ZqO)
+ - 😝 [Balls of diamond](http://9gag.com/gag/a7oo9vw)
+ - 👉 [Inbreeding](http://9gag.com/gag/a1mmV18)<!-- MEMES:END -->
 
 ---
 

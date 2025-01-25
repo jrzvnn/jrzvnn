@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Industry insiders say DeepSeek&#39;s focus on research makes it a dangerous competitor as it&#39;s willing to share breakthroughs rather than protect them for profits &lpar;Financial Times&rpar;](http://www.techmeme.com/250124/p35#a250124p35)
  - [Chinese self-driving company WeRide aims to make more inroads overseas in 2025; WeRide operates in nine countries and secured new deals in Switzerland and Japan &lpar;Jiahui Huang/Wall Street Journal&rpar;](http://www.techmeme.com/250124/p34#a250124p34)
  - [OpenAI updates ChatGPT&#39;s Canvas feature with o1 model support and HTML and React code rendering, making it a direct competitor to Claude&#39;s Artifacts &lpar;Simon Willison/Simon Willison&#39;s Weblog&rpar;](http://www.techmeme.com/250124/p33#a250124p33)
  - [Meta Suspended Abortion Pill Providers&#39; Accounts, Removed Posts](https://www.cnet.com/tech/services-and-software/meta-suspended-abortion-pill-providers-accounts-removed-posts/#ftag=CAD590a51e)
- - [Source: Lightspeed has invested a total of $2.2B in AI deals, excluding the $2B Anthropic funding round it is leading, and is close to raising a $7B fund &lpar;Kate Clark/Bloomberg&rpar;](http://www.techmeme.com/250124/p32#a250124p32)
- - [GoFundMe Is Helping LA Wildfire Victims Rebuild, but Is It Enough?](https://www.cnet.com/personal-finance/gofundme-is-helping-la-wildfire-victims-rebuild-but-is-it-enough/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Source: Lightspeed has invested a total of $2.2B in AI deals, excluding the $2B Anthropic funding round it is leading, and is close to raising a $7B fund &lpar;Kate Clark/Bloomberg&rpar;](http://www.techmeme.com/250124/p32#a250124p32)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

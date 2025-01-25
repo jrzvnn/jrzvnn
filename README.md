@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Siri with Apple Intelligence is a massive regression from the old Siri, which recognized its limitations and provided a list of search links to answer a query &lpar;John Gruber/Daring Fireball&rpar;](http://www.techmeme.com/250125/p12#a250125p12)
+ - [Oracle and Microsoft are reportedly in talks to take over TikTok](https://www.theverge.com/2025/1/25/24351973/oracle-microsoft-tiktok-takeover-deal)
  - [Fubo’s cheapest streaming plan is now $85 per month](https://www.theverge.com/2025/1/25/24351922/fubo-tv-essential-pro-elite-plan-price-increase)
- - [Today&#39;s NYT Strands Hints, Answers and Help for Jan. 26, #329](https://www.cnet.com/tech/gaming/todays-nyt-strands-hints-answers-and-help-for-jan-26-329/#ftag=CAD590a51e)
- - [Today&#39;s NYT Connections Hints, Answers and Help for Jan. 26, #595](https://www.cnet.com/tech/gaming/todays-nyt-connections-hints-answers-and-help-for-jan-26-595/#ftag=CAD590a51e)
- - [Today&#39;s Wordle Hints, Answer and Help for Jan. 26, #1317](https://www.cnet.com/tech/gaming/todays-wordle-hints-answer-and-help-for-jan-26-1317/#ftag=CAD590a51e)
- - [Best Language Learning Apps for 2025](https://www.cnet.com/tech/services-and-software/best-language-learning-apps/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Best Indoor Security Cameras for 2025: Our Top Pick Has AI Smarts](https://www.cnet.com/home/security/best-indoor-home-security-cameras/#ftag=CAD590a51e)
+ - [Today&#39;s NYT Strands Hints, Answers and Help for Jan. 26, #329](https://www.cnet.com/tech/gaming/todays-nyt-strands-hints-answers-and-help-for-jan-26-329/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

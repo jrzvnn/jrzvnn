@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [OpenAI updates ChatGPT&#39;s Canvas feature with o1 model support and HTML and React code rendering, making it a direct competitor to Claude&#39;s Artifacts &lpar;Simon Willison/Simon Willison&#39;s Weblog&rpar;](http://www.techmeme.com/250124/p33#a250124p33)
+ - [Meta Suspended Abortion Pill Providers&#39; Accounts, Removed Posts](https://www.cnet.com/tech/services-and-software/meta-suspended-abortion-pill-providers-accounts-removed-posts/#ftag=CAD590a51e)
  - [Source: Lightspeed has invested a total of $2.2B in AI deals, excluding the $2B Anthropic funding round it&#39;s leading and is close to raising a $7B fund &lpar;Kate Clark/Bloomberg&rpar;](http://www.techmeme.com/250124/p32#a250124p32)
- - [Yann LeCun says DeepSeek &quot;profited from open research and open source&quot; like Meta&#39;s Llama and is proof that open source models are surpassing proprietary ones &lpar;Carl Franzen/VentureBeat&rpar;](http://www.techmeme.com/250124/p31#a250124p31)
- - [Stranded NASA Astronaut on the ISS Takes a Spacewalk, With Another Planned](https://www.cnet.com/science/stranded-nasa-astronaut-on-the-iss-takes-a-spacewalk-with-another-planned/#ftag=CAD590a51e)
- - [The AI spending frenzy is just getting started](https://www.theverge.com/2025/1/24/24351418/project-stargate-openai-spending-meta-microsoft)
- - [Best Internet Providers in Metairie, Louisiana](https://www.cnet.com/home/internet/best-internet-providers-in-metairie-la/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [GoFundMe Is Helping LA Wildfire Victims Rebuild, but Is It Enough?](https://www.cnet.com/personal-finance/gofundme-is-helping-la-wildfire-victims-rebuild-but-is-it-enough/#ftag=CAD590a51e)
+ - [Today&#39;s NYT Connections: Sports Edition Hints and Answers for Jan. 25, #124](https://www.cnet.com/tech/gaming/todays-nyt-connections-sports-edition-hints-and-answers-for-jan-25-124/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

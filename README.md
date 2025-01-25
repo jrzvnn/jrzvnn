@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [LEAVE... THE F... KIDS... ALONE!!!!](http://9gag.com/gag/a1mm2w2)
  - 😝 [Happened to all of us](http://9gag.com/gag/aNDD4pb)
- - 💣 [Do you need suppo........ Never mind](http://9gag.com/gag/a6ZZBDe)
  - 😝 [Don&#39;t interrupt a man when he&#39;s enjoying his Krispy Kreme](http://9gag.com/gag/ajPPOvG)
- - 👉 [Taste of the beginning of the work week](http://9gag.com/gag/aYQQqpw)<!-- MEMES:END -->
+ - 💣 [*throws holy granade*](http://9gag.com/gag/azxxKqK)
+ - 😝 [Does anyone know what spider does this?](http://9gag.com/gag/a3448v8)
+ - 👉 [I have very little appetite and when I do, it ends halfway through my meal. Usually with discomfort.](http://9gag.com/gag/aKGGeg6)<!-- MEMES:END -->
 
 ---
 

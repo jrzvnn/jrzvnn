@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [All the news about Nvidia’s RTX 50-series GPUs](https://www.theverge.com/2025/1/25/24351798/nvidia-rtx-5090-5080-5070-gpu-news-rumors)
+ - [More French-language programming coming to Apple TV+ in EU countries](https://appleinsider.com/articles/25/01/25/more-french-language-programming-coming-to-apple-tv-in-eu-countries?utm_medium=rss)
  - [Rather than weakening China&#39;s AI capabilities, US sanctions appear to be driving startups like DeepSeek to innovate by prioritizing efficiency and collaboration &lpar;Caiwei Chen/MIT Technology Review&rpar;](http://www.techmeme.com/250125/p9#a250125p9)
  - [My First 48 Hours With the Galaxy S25 Ultra Have Been Reality Bending](https://www.cnet.com/tech/mobile/my-first-48-hours-with-the-galaxy-s25-ultra-have-been-reality-bending/#ftag=CAD590a51e)
- - [Some crypto executives worry Trump&#39;s memecoin undercut the industry&#39;s credibility at the very moment crypto is seeking a prominent place in mainstream finance &lpar;New York Times&rpar;](http://www.techmeme.com/250125/p8#a250125p8)
- - [Feeling Drained, Strained and Stressed? It Might Stem From Cortisol Imbalance](https://www.cnet.com/health/cortisol-imbalance-symptoms/#ftag=CAD590a51e)
- - [Best Internet Providers in Rock Hill, South Carolina](https://www.cnet.com/home/internet/best-internet-providers-in-rock-hill-sc/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Some crypto executives worry Trump&#39;s memecoin undercut the industry&#39;s credibility at the very moment crypto is seeking a prominent place in mainstream finance &lpar;New York Times&rpar;](http://www.techmeme.com/250125/p8#a250125p8)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

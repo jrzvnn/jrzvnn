@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [*throws holy granade*](http://9gag.com/gag/azxxKqK)
+ - 😝 [I have very little appetite and when I do, it ends halfway through my meal. Usually with discomfort.](http://9gag.com/gag/aKGGeg6)
  - 😝 [The Westworld we got](http://9gag.com/gag/an7729L)
- - 💣 [Legendary!](http://9gag.com/gag/aRBBZ9y)
- - 😝 [What The Hell is This](http://9gag.com/gag/aO88196)
- - 👉 [Balls of diamond](http://9gag.com/gag/a7oo9vw)<!-- MEMES:END -->
+ - 💣 [Last Hug](http://9gag.com/gag/aRBBvoy)
+ - 😝 [*throws holy granade*](http://9gag.com/gag/azxxKqK)
+ - 👉 [Miss you, Granny!](http://9gag.com/gag/a0ee0bL)<!-- MEMES:END -->
 
 ---
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [For the boyz](http://9gag.com/gag/aGyyADX)
- - 😝 [This \u201dma\u2019am\u201d is a liar.](http://9gag.com/gag/a6ZZp6N)
- - 💣 [Paria Fuel Trading Company Limited](http://9gag.com/gag/aVvvZqO)
- - 😝 [RIP you magnificent bastard.](http://9gag.com/gag/azxxZ1b)
- - 👉 [O_o](http://9gag.com/gag/aQzz2bw)<!-- MEMES:END -->
+ - 😝 [No one is saving you, just put on a smile and say I\u2019m alright](http://9gag.com/gag/aD22Z7B)
+ - 😝 [1600$ graphic cards to play games with the latest unreal engine environment and this is what they give us.](http://9gag.com/gag/aNDDQW6)
+ - 💣 [Yasuke removed from Assassin&#39;s Creed Shadows&#39;s pre-order banner. Cant change the shit you created ubisoft.. tsktsk may you rest in pieces. Go woke, go broke.](http://9gag.com/gag/aByyX9N)
+ - 😝 [Hmmmmm](http://9gag.com/gag/aLnnXzM)
+ - 👉 [Does anyone know what spider does this?](http://9gag.com/gag/a3448v8)<!-- MEMES:END -->
 
 ---
 

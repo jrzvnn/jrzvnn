@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Sources: people affiliated with DOGE have met with representatives of various public blockchains as they explore using a blockchain to track federal spending &lpar;Bloomberg&rpar;](http://www.techmeme.com/250125/p7#a250125p7)
  - [Apple&#39;s 2025 iPhone 17 Slim may be the first big redesign in years](https://appleinsider.com/articles/25/01/25/apples-2025-iphone-17-slim-may-be-the-first-big-redesign-in-years?utm_medium=rss)
- - [The best indie games we’re playing right now](https://www.theverge.com/24339574/indie-games-recommendations-pc-switch-steam-deck-best-new-hidden-gems)
- - [Boss BE10ACP Receiver review: Add CarPlay to your vehicle at a low entry-price](https://appleinsider.com/articles/21/12/28/boss-be10acp-receiver-review-add-carplay-to-your-vehicle-at-a-low-entry-price?utm_medium=rss)
- - [Hands-on with the live translation feature of Ray-Ban Meta smart glasses: adept at translating a basic conversation, but struggles with slang and faster speech &lpar;Victoria Song/The Verge&rpar;](http://www.techmeme.com/250125/p6#a250125p6)
- - [Marvel Snap is coming back to app stores soon, says developer](https://www.theverge.com/2025/1/25/24351641/marvel-snap-google-play-apple-app-store-tiktok-ban-new-publisher)<!-- TECH:END -->
+ - [Premier League Soccer: Livestream Man City vs. Chelsea From Anywhere](https://www.cnet.com/tech/services-and-software/premier-league-soccer-livestream-man-city-vs-chelsea-from-anywhere/#ftag=CAD590a51e)
+ - [Max: The 27 Absolute Best TV Shows to Watch](https://www.cnet.com/tech/services-and-software/best-tv-series-on-max-january-2025/#ftag=CAD590a51e)
+ - [Are Vibration Plates Worth the Hype? The Viral Fitness Trend Explained](https://www.cnet.com/health/fitness/vibration-plates/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

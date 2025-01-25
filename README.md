@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [I have very little appetite and when I do, it ends halfway through my meal. Usually with discomfort.](http://9gag.com/gag/aKGGeg6)
- - 😝 [Last Hug](http://9gag.com/gag/aRBBvoy)
- - 💣 [The Westworld we got](http://9gag.com/gag/an7729L)
  - 😝 [In a video that has gone viral, a British Airways crew member gives a behind-the-scenes tour of a plane arriving in London from Pakistan](http://9gag.com/gag/apRRxKD)
- - 👉 [Don&#39;t interrupt a man when he&#39;s enjoying his Krispy Kreme](http://9gag.com/gag/ajPPOvG)<!-- MEMES:END -->
+ - 😝 [The Westworld we got](http://9gag.com/gag/an7729L)
+ - 💣 [Yasuke removed from Assassin&#39;s Creed Shadows&#39;s pre-order banner. Cant change the shit you created ubisoft.. tsktsk may you rest in pieces. Go woke, go broke.](http://9gag.com/gag/aByyX9N)
+ - 😝 [A man tries to reorder groceries from a 2022 purchase to compare the cost in 2024.](http://9gag.com/gag/aMVVnMP)
+ - 👉 [Balls of diamond](http://9gag.com/gag/a7oo9vw)<!-- MEMES:END -->
 
 ---
 

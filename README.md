@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [My bill doesn\u2019t seem to have gone down. What about yours?](http://9gag.com/gag/aVvv2xM)
- - 😝 [A short and witty title](http://9gag.com/gag/aGyyGnz)
- - 💣 [Last Hug](http://9gag.com/gag/aRBBvoy)
- - 😝 [Taste of the beginning of the work week](http://9gag.com/gag/aYQQqpw)
- - 👉 [Skier Stumbles Upon Snowboarder Buried Alive And Saves Him from Certain Death](http://9gag.com/gag/a877DNZ)<!-- MEMES:END -->
+ - 😝 [O_o](http://9gag.com/gag/aQzz2bw)
+ - 😝 [Just like sex assigned at birth, there are only two types of immigrants: Legal and everyone else](http://9gag.com/gag/aQzzORz)
+ - 💣 [Best friends](http://9gag.com/gag/apRRYGW)
+ - 😝 [Hmmmmm](http://9gag.com/gag/aLnnXzM)
+ - 👉 [Peg Board Workout](http://9gag.com/gag/ae9974p)<!-- MEMES:END -->
 
 ---
 

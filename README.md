@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Hands-on with the Ray-Ban Meta smart glasses live translation feature: adept at translating a basic conversation, but struggles with slang and faster speech &lpar;Victoria Song/The Verge&rpar;](http://www.techmeme.com/250125/p6#a250125p6)
+ - [The best indie games we’re playing right now](https://www.theverge.com/24339574/indie-games-recommendations-pc-switch-steam-deck-best-new-hidden-gems)
+ - [Boss BE10ACP Receiver review: Add CarPlay to your vehicle at a low entry-price](https://appleinsider.com/articles/21/12/28/boss-be10acp-receiver-review-add-carplay-to-your-vehicle-at-a-low-entry-price?utm_medium=rss)
+ - [Hands-on with the live translation feature of Ray-Ban Meta smart glasses: adept at translating a basic conversation, but struggles with slang and faster speech &lpar;Victoria Song/The Verge&rpar;](http://www.techmeme.com/250125/p6#a250125p6)
  - [Marvel Snap is coming back to app stores soon, says developer](https://www.theverge.com/2025/1/25/24351641/marvel-snap-google-play-apple-app-store-tiktok-ban-new-publisher)
- - [Casio’s retro-looking step tracker is on sale for less than 40 bucks today](https://www.theverge.com/2025/1/25/24351329/casio-ws-b1000-watch-samsung-galaxy-s25-ultra-preorder-deal-sale)
- - [The best ebook reader to buy right now](https://www.theverge.com/23769068/best-ebook-readers)
- - [George R.R. Martin Coauthored a Scientific Paper](https://www.wired.com/story/george-rr-martin-coauthored-a-scientific-paper-physics/)<!-- TECH:END -->
+ - [Casio’s retro-looking step tracker is on sale for less than 40 bucks today](https://www.theverge.com/2025/1/25/24351329/casio-ws-b1000-watch-samsung-galaxy-s25-ultra-preorder-deal-sale)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

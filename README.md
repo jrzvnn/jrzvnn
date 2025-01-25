@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Brazil](http://9gag.com/gag/aZZZjzV)
- - 😝 [Do you need suppo........ Never mind](http://9gag.com/gag/a6ZZBDe)
- - 💣 [A man tries to reorder groceries from a 2022 purchase to compare the cost in 2024.](http://9gag.com/gag/aMVVnMP)
- - 😝 [The Latina women of today are hopeless.](http://9gag.com/gag/aW44o8q)
- - 👉 [Ignorant People , Pointless Race But Satisfactory Ending](http://9gag.com/gag/agmm1ww)<!-- MEMES:END -->
+ - 😝 [Eminem, his mom and younger brother, 1990s](http://9gag.com/gag/ae991yW)
+ - 😝 [Welcome to Marketing](http://9gag.com/gag/aVvvZjn)
+ - 💣 [Do you need suppo........ Never mind](http://9gag.com/gag/a6ZZBDe)
+ - 😝 [Dude shows off his invisibility shield.](http://9gag.com/gag/ae99V6q)
+ - 👉 [Taste of the beginning of the work week](http://9gag.com/gag/aYQQqpw)<!-- MEMES:END -->
 
 ---
 

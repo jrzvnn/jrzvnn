@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Telling the true true truth](http://9gag.com/gag/aAyy289)
- - 😝 [LEAVE... THE F... KIDS... ALONE!!!!](http://9gag.com/gag/a1mm2w2)
- - 💣 [A man tries to reorder groceries from a 2022 purchase to compare the cost in 2024.](http://9gag.com/gag/aMVVnMP)
- - 😝 [That&#39;s the way to do it!](http://9gag.com/gag/azxxP5x)
- - 👉 [Taste of the beginning of the work week](http://9gag.com/gag/aYQQqpw)<!-- MEMES:END -->
+ - 😝 [When an Of tries cooking](http://9gag.com/gag/aoyyLgg)
+ - 😝 [Do you need suppo........ Never mind](http://9gag.com/gag/a6ZZBDe)
+ - 💣 [Balls of diamond](http://9gag.com/gag/a7oo9vw)
+ - 😝 [Hmmmmm](http://9gag.com/gag/aLnnXzM)
+ - 👉 [*throws holy granade*](http://9gag.com/gag/azxxKqK)<!-- MEMES:END -->
 
 ---
 

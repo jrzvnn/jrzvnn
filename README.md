@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [19 Best Galentine&#39;s Day Gifts to Show Your Gal Pals Some Love in 2025](https://www.cnet.com/news/galentines-day-gifts/#ftag=CAD590a51e)
- - [AI-Powered Search in Premiere Pro and More: Everything Adobe Announced at Sundance](https://www.cnet.com/tech/services-and-software/adobe-previews-ai-powered-search-and-caption-translation-for-premiere-pro-at-sundance/#ftag=CAD590a51e)
  - [Protect Your Phone With Android’s Theft Detection Features](https://www.wired.com/story/how-to-use-android-theft-detection-features/)
- - [Prime Video: 10 Sci-Fi Movies You Should Absolutely Check Out](https://www.cnet.com/tech/services-and-software/best-sci-fi-movies-on-prime-video-2024/#ftag=CAD590a51e)
- - [The Less People Know About AI, the More They Like It](https://www.wired.com/story/the-less-people-know-about-ai-the-more-they-like-it/)<!-- TECH:END -->
+ - [The Less People Know About AI, the More They Like It](https://www.wired.com/story/the-less-people-know-about-ai-the-more-they-like-it/)
+ - [Razer Laptop Cooling Pad review: are you a fan?](https://www.theverge.com/24350342/razer-laptop-cooling-pad-review-hyperboost-synapse-rgb)
+ - [Best Internet Providers in Spartanburg, South Carolina](https://www.cnet.com/home/internet/best-internet-providers-in-spartanburg-sc/#ftag=CAD590a51e)
+ - [Best Valentine&#39;s Day Kitchen Gifts for a Home Cook](https://www.cnet.com/news/best-valentines-day-kitchen-gifts-for-a-home-cook/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

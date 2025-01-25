@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [In a video that has gone viral, a British Airways crew member gives a behind-the-scenes tour of a plane arriving in London from Pakistan](http://9gag.com/gag/apRRxKD)
- - 😝 [Biggest lie of television !!](http://9gag.com/gag/axyyvRL)
- - 💣 [Equal opportunity](http://9gag.com/gag/apRRDYW)
- - 😝 [When an Of tries cooking](http://9gag.com/gag/aoyyLgg)
- - 👉 [So, you think you are old, but are you this old?](http://9gag.com/gag/aD22ZqO)<!-- MEMES:END -->
+ - 😝 [You had no idea, and now it&#39;s too late as entropy continues and death draws closer](http://9gag.com/gag/aKGGvm3)
+ - 😝 [Just this](http://9gag.com/gag/aW44b4A)
+ - 💣 [In a video that has gone viral, a British Airways crew member gives a behind-the-scenes tour of a plane arriving in London from Pakistan](http://9gag.com/gag/apRRxKD)
+ - 😝 [Skier Stumbles Upon Snowboarder Buried Alive And Saves Him from Certain Death](http://9gag.com/gag/a877DNZ)
+ - 👉 [Taste of the beginning of the work week](http://9gag.com/gag/aYQQqpw)<!-- MEMES:END -->
 
 ---
 

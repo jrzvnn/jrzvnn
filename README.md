@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [Why ..?](http://9gag.com/gag/avyyvKn)
+ - 😝 [Balls of diamond](http://9gag.com/gag/a7oo9vw)
+ - 💣 [My bill doesn\u2019t seem to have gone down. What about yours?](http://9gag.com/gag/aVvv2xM)
  - 😝 [Inbreeding](http://9gag.com/gag/a1mmV18)
- - 😝 [Last Hug](http://9gag.com/gag/aRBBvoy)
- - 💣 [Balls of diamond](http://9gag.com/gag/a7oo9vw)
- - 😝 [My bill doesn\u2019t seem to have gone down. What about yours?](http://9gag.com/gag/aVvv2xM)
- - 👉 [Why ..?](http://9gag.com/gag/avyyvKn)<!-- MEMES:END -->
+ - 👉 [Dude shows off his invisibility shield.](http://9gag.com/gag/ae99V6q)<!-- MEMES:END -->
 
 ---
 

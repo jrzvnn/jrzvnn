@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [*throws holy granade*](http://9gag.com/gag/azxxKqK)
- - 😝 [In a video that has gone viral, a British Airways crew member gives a behind-the-scenes tour of a plane arriving in London from Pakistan](http://9gag.com/gag/apRRxKD)
- - 💣 [So, you think you are old, but are you this old?](http://9gag.com/gag/aD22ZqO)
- - 😝 [Biggest lie of television !!](http://9gag.com/gag/axyyvRL)
- - 👉 [Ross Chastain\u2019s wall ride of NASCAR is one of the greatest moments in sports.](http://9gag.com/gag/aNDDV8K)<!-- MEMES:END -->
+ - 😝 [Brazil](http://9gag.com/gag/aZZZjzV)
+ - 😝 [Do you need suppo........ Never mind](http://9gag.com/gag/a6ZZBDe)
+ - 💣 [A man tries to reorder groceries from a 2022 purchase to compare the cost in 2024.](http://9gag.com/gag/aMVVnMP)
+ - 😝 [The Latina women of today are hopeless.](http://9gag.com/gag/aW44o8q)
+ - 👉 [Ignorant People , Pointless Race But Satisfactory Ending](http://9gag.com/gag/agmm1ww)<!-- MEMES:END -->
 
 ---
 

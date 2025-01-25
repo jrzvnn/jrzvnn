@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Feeling Drained, Strained and Stressed? It Might Stem From Cortisol Imbalance](https://www.cnet.com/health/cortisol-imbalance-symptoms/#ftag=CAD590a51e)
+ - [Best Internet Providers in Rock Hill, South Carolina](https://www.cnet.com/home/internet/best-internet-providers-in-rock-hill-sc/#ftag=CAD590a51e)
  - [Sources: people affiliated with DOGE have met with representatives of various public blockchains as they explore using a blockchain to track federal spending &lpar;Bloomberg&rpar;](http://www.techmeme.com/250125/p7#a250125p7)
  - [Apple&#39;s 2025 iPhone 17 Slim may be the first big redesign in years](https://appleinsider.com/articles/25/01/25/apples-2025-iphone-17-slim-may-be-the-first-big-redesign-in-years?utm_medium=rss)
- - [Premier League Soccer: Livestream Man City vs. Chelsea From Anywhere](https://www.cnet.com/tech/services-and-software/premier-league-soccer-livestream-man-city-vs-chelsea-from-anywhere/#ftag=CAD590a51e)
- - [Max: The 27 Absolute Best TV Shows to Watch](https://www.cnet.com/tech/services-and-software/best-tv-series-on-max-january-2025/#ftag=CAD590a51e)
- - [Are Vibration Plates Worth the Hype? The Viral Fitness Trend Explained](https://www.cnet.com/health/fitness/vibration-plates/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Premier League Soccer: Livestream Man City vs. Chelsea From Anywhere](https://www.cnet.com/tech/services-and-software/premier-league-soccer-livestream-man-city-vs-chelsea-from-anywhere/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

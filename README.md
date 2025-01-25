@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [When you love what you do, you will not have to work a day in your life](http://9gag.com/gag/a2vvbRp)
  - 😝 [Telling the true true truth](http://9gag.com/gag/aAyy289)
- - 💣 [LEAVE... THE F... KIDS... ALONE!!!!](http://9gag.com/gag/a1mm2w2)
- - 😝 [A man tries to reorder groceries from a 2022 purchase to compare the cost in 2024.](http://9gag.com/gag/aMVVnMP)
- - 👉 [That&#39;s the way to do it!](http://9gag.com/gag/azxxP5x)<!-- MEMES:END -->
+ - 😝 [LEAVE... THE F... KIDS... ALONE!!!!](http://9gag.com/gag/a1mm2w2)
+ - 💣 [A man tries to reorder groceries from a 2022 purchase to compare the cost in 2024.](http://9gag.com/gag/aMVVnMP)
+ - 😝 [That&#39;s the way to do it!](http://9gag.com/gag/azxxP5x)
+ - 👉 [Taste of the beginning of the work week](http://9gag.com/gag/aYQQqpw)<!-- MEMES:END -->
 
 ---
 

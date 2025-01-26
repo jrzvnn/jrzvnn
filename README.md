@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Hmmmmm](http://9gag.com/gag/aLnnXzM)
- - 😝 [Best friends](http://9gag.com/gag/apRRYGW)
- - 💣 [I&#39;ve got one unbroken bone tho](http://9gag.com/gag/aryy276)
- - 😝 [Peg Board Workout](http://9gag.com/gag/ae9974p)
- - 👉 [Robber: `Ey, what do you deliver?` Delivery guy: `Violence.`](http://9gag.com/gag/awyy49Q)<!-- MEMES:END -->
+ - 😝 [Go Neil](http://9gag.com/gag/a9yyX00)
+ - 😝 [So, you think you are old, but are you this old?](http://9gag.com/gag/aD22ZqO)
+ - 💣 [IRONY MAN](http://9gag.com/gag/avyyvD5)
+ - 😝 [Yasuke removed from Assassin&#39;s Creed Shadows&#39;s pre-order banner. Cant change the shit you created ubisoft.. tsktsk may you rest in pieces. Go woke, go broke.](http://9gag.com/gag/aByyX9N)
+ - 👉 [Balls of diamond](http://9gag.com/gag/a7oo9vw)<!-- MEMES:END -->
 
 ---
 

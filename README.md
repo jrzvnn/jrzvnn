@@ -167,8 +167,8 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [200 iq move](http://9gag.com/gag/aByyvQD)
- - 😝 [When your kid wakes up in the middle of the night](http://9gag.com/gag/aLnndyP)
- - 💣 [This is why you don&#39;t stay at the same spot after being spotted](http://9gag.com/gag/ae992Kq)
+ - 😝 [Man carries out maintenance work in own garage](http://9gag.com/gag/aMVVy9X)
+ - 💣 [Success of immigration - migros](http://9gag.com/gag/aoyy84n)
  - 😝 [That&#39;s a lot of H.](http://9gag.com/gag/aD22MMN)
  - 👉 [These Guatemalan Police officers are completely out of it. All in a day&#39;s work.](http://9gag.com/gag/axyy4zb)<!-- MEMES:END -->
 

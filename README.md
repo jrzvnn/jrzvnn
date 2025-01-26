@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [LEFT OR RIGHT?](http://9gag.com/gag/aW4422Z)
- - 😝 [What The Hell is This](http://9gag.com/gag/aO88196)
- - 💣 [Last Hug](http://9gag.com/gag/aRBBvoy)
- - 😝 [Ahhh\u2026 the failguard\u2026](http://9gag.com/gag/awyy44y)
- - 👉 [IRONY MAN](http://9gag.com/gag/avyyvD5)<!-- MEMES:END -->
+ - 😝 [Happened to all of us](http://9gag.com/gag/aNDD4pb)
+ - 😝 [My bill doesn\u2019t seem to have gone down. What about yours?](http://9gag.com/gag/aVvv2xM)
+ - 💣 [Very success much wow](http://9gag.com/gag/aKGG8yb)
+ - 😝 [Is it even possible to fall backwards while sprinting forwards?](http://9gag.com/gag/axyymVK)
+ - 👉 [Success of immigration - migros](http://9gag.com/gag/aoyy84n)<!-- MEMES:END -->
 
 ---
 

@@ -166,10 +166,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [He finished her\ud83d\udc80](http://9gag.com/gag/a9yyBZL)
- - 😝 [What The Hell is This](http://9gag.com/gag/aO88196)
- - 💣 [Be like Chris, go hard](http://9gag.com/gag/amooMA6)
- - 😝 [Oh look, some random grandpa in the street](http://9gag.com/gag/avyym8b)
+ - 😝 [This is why you don&#39;t stay at the same spot after being spotted](http://9gag.com/gag/ae992Kq)
+ - 😝 [Just this](http://9gag.com/gag/aW44b4A)
+ - 💣 [Oh look, some random grandpa in the street](http://9gag.com/gag/avyym8b)
+ - 😝 [Golden moment \ud83e\udd47\ud83e\udd47](http://9gag.com/gag/azxxZ2Z)
  - 👉 [These Guatemalan Police officers are completely out of it. All in a day&#39;s work.](http://9gag.com/gag/axyy4zb)<!-- MEMES:END -->
 
 ---

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [LEAVE... THE F... KIDS... ALONE!!!!](http://9gag.com/gag/a1mm2w2)
- - 😝 [Norwegian winter olympian getting question in japanese](http://9gag.com/gag/aW44Dr3)
- - 💣 [Last Hug](http://9gag.com/gag/aRBBvoy)
- - 😝 [My bill doesn\u2019t seem to have gone down. What about yours?](http://9gag.com/gag/aVvv2xM)
- - 👉 [This is why you don&#39;t stay at the same spot after being spotted](http://9gag.com/gag/ae992Kq)<!-- MEMES:END -->
+ - 😝 [Ahhh\u2026 the failguard\u2026](http://9gag.com/gag/awyy44y)
+ - 😝 [So relaxing](http://9gag.com/gag/amooR26)
+ - 💣 [Just Stop Oil nutjob is bewildered he is being arrested. FAFO.](http://9gag.com/gag/a7ooN6e)
+ - 😝 [Is it even possible to fall backwards while sprinting forwards?](http://9gag.com/gag/axyymVK)
+ - 👉 [Success of immigration - migros](http://9gag.com/gag/aoyy84n)<!-- MEMES:END -->
 
 ---
 

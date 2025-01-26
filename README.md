@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Retro Remake opens preorders for its PS One FPGA clone](https://www.theverge.com/2025/1/26/24352254/superstation-one-preorder-retro-remake-ps1-fpga)
  - [Best Mattress in a Box for 2025](https://www.cnet.com/health/sleep/best-mattress-in-a-box/#ftag=CAD590a51e)
  - [Best Protein Powders in 2025](https://www.cnet.com/health/fitness/best-protein-powders/#ftag=CAD590a51e)
  - [Development of Apple&#39;s smart glasses continues despite massive hurdles](https://appleinsider.com/articles/25/01/26/development-of-apples-smart-glasses-continues-despite-massive-hurdles?utm_medium=rss)
- - [Apple will be on the hunt for two new board members soon](https://appleinsider.com/articles/25/01/26/apple-will-be-on-the-hunt-for-two-new-board-members-soon?utm_medium=rss)
- - [Chinese esports companies, including Tencent and Huya, face growth challenges in China, the world&#39;s biggest esports market; the industry earned ~$3.8B in 2024 &lpar;Wataru Suzuki/Nikkei Asia&rpar;](http://www.techmeme.com/250126/p7#a250126p7)<!-- TECH:END -->
+ - [Apple will be on the hunt for two new board members soon](https://appleinsider.com/articles/25/01/26/apple-will-be-on-the-hunt-for-two-new-board-members-soon?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

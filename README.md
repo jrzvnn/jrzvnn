@@ -167,8 +167,8 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [Hmmmmm](http://9gag.com/gag/aLnnXzM)
- - 😝 [I&#39;ve got one unbroken bone tho](http://9gag.com/gag/aryy276)
- - 💣 [Best friends](http://9gag.com/gag/apRRYGW)
+ - 😝 [Best friends](http://9gag.com/gag/apRRYGW)
+ - 💣 [I&#39;ve got one unbroken bone tho](http://9gag.com/gag/aryy276)
  - 😝 [Robber: `Ey, what do you deliver?` Delivery guy: `Violence.`](http://9gag.com/gag/awyy49Q)
  - 👉 [Peg Board Workout](http://9gag.com/gag/ae9974p)<!-- MEMES:END -->
 

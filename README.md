@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Dafuk?](http://9gag.com/gag/aE00Z2e)
  - 😝 [Oh look, some random grandpa in the street](http://9gag.com/gag/avyym8b)
- - 💣 [That&#39;s a lot of H.](http://9gag.com/gag/aD22MMN)
- - 😝 [Golden moment \ud83e\udd47\ud83e\udd47](http://9gag.com/gag/azxxZ2Z)
- - 👉 [My bill doesn\u2019t seem to have gone down. What about yours?](http://9gag.com/gag/aVvv2xM)<!-- MEMES:END -->
+ - 😝 [Shopkeeper wanted him to have the full experience](http://9gag.com/gag/a877zoO)
+ - 💣 [Ahh, finally](http://9gag.com/gag/a0eex4d)
+ - 😝 [Cool wife who loves you and supports your passion. And second dopest basement ever](http://9gag.com/gag/aW44Ren)
+ - 👉 [Woman tried to ruin moment of silence for the victims of Novi Sad incident,but fate had other plans...](http://9gag.com/gag/a877nWZ)<!-- MEMES:END -->
 
 ---
 

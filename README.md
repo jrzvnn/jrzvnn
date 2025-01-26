@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [Happened to all of us](http://9gag.com/gag/aNDD4pb)
  - 😝 [Go Neil](http://9gag.com/gag/a9yyX00)
- - 😝 [So, you think you are old, but are you this old?](http://9gag.com/gag/aD22ZqO)
- - 💣 [IRONY MAN](http://9gag.com/gag/avyyvD5)
- - 😝 [Yasuke removed from Assassin&#39;s Creed Shadows&#39;s pre-order banner. Cant change the shit you created ubisoft.. tsktsk may you rest in pieces. Go woke, go broke.](http://9gag.com/gag/aByyX9N)
- - 👉 [Balls of diamond](http://9gag.com/gag/a7oo9vw)<!-- MEMES:END -->
+ - 💣 [Why ..?](http://9gag.com/gag/avyyvKn)
+ - 😝 [My bill doesn\u2019t seem to have gone down. What about yours?](http://9gag.com/gag/aVvv2xM)
+ - 👉 [Inbreeding](http://9gag.com/gag/a1mmV18)<!-- MEMES:END -->
 
 ---
 

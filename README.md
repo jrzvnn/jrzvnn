@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Happened to all of us](http://9gag.com/gag/aNDD4pb)
- - 😝 [Go Neil](http://9gag.com/gag/a9yyX00)
- - 💣 [Why ..?](http://9gag.com/gag/avyyvKn)
- - 😝 [My bill doesn\u2019t seem to have gone down. What about yours?](http://9gag.com/gag/aVvv2xM)
- - 👉 [Inbreeding](http://9gag.com/gag/a1mmV18)<!-- MEMES:END -->
+ - 😝 [Hmmmmm](http://9gag.com/gag/aLnnXzM)
+ - 😝 [Best friends](http://9gag.com/gag/apRRYGW)
+ - 💣 [Peg Board Workout](http://9gag.com/gag/ae9974p)
+ - 😝 [I&#39;ve got one unbroken bone tho](http://9gag.com/gag/aryy276)
+ - 👉 [Robber: `Ey, what do you deliver?` Delivery guy: `Violence.`](http://9gag.com/gag/awyy49Q)<!-- MEMES:END -->
 
 ---
 

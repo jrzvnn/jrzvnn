@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Why Apple won&#39;t buy TikTok, even to attract younger users](https://appleinsider.com/articles/25/01/26/why-apple-wont-buy-tiktok-even-to-attract-younger-users?utm_medium=rss)
+ - [This New Designer Kitchen Tool Is Just a Stick. So Why Are We Obsessed With It?](https://www.wired.com/story/this-new-designer-kitchen-tool-is-just-a-stick-so-why-are-we-obsessed-with-it/)
+ - [Netflix won the streaming wars, and we’re all about to pay for it](https://www.theverge.com/2025/1/26/24351302/netflix-price-increase-streaming-wars)
  - [How to Use Stolen Device Protection on Apple’s iPhone](https://www.wired.com/story/how-to-use-stolen-device-protection-on-apple-iphone/)
- - [Lenovo IdeaPad Slim 5i 16 Gen 9 Review: Decent Deal but Dim Display Disappoints](https://www.cnet.com/tech/computing/lenovo-ideapad-slim-5i-16-gen-9-review-decent-deal-but-dim-display-disappoints/#ftag=CAD590a51e)
- - [Netflix: 18 Sci-Fi TV Shows You Should Click Play on Right Now](https://www.cnet.com/tech/services-and-software/best-sci-fi-tv-shows-on-netflix-2024/#ftag=CAD590a51e)
- - [Looking for a CapCut Alternative? Instagram Wants to Help](https://www.cnet.com/news/social-media/instagrams-newest-tactic-to-entice-tiktokkers-is-a-video-editing-app/#ftag=CAD590a51e)
- - [Your Weekly Streaming Watch List: Check Out &#39;The Recruit,&#39; &#39;You&#39;re Cordially Invited&#39; and More](https://www.cnet.com/tech/services-and-software/your-weekly-streaming-watch-list-check-out-the-recruit-youre-cordially-invited-and-more/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Crime blotter: 12 charged in London Apple Store thefts](https://appleinsider.com/articles/25/01/26/crime-blotter-12-charged-in-london-apple-store-thefts?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

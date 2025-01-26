@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Just Stop Oil nutjob is bewildered he is being arrested. FAFO.](http://9gag.com/gag/a7ooN6e)
- - 😝 [Hmmmmm](http://9gag.com/gag/aLnnXzM)
- - 💣 [Why ..?](http://9gag.com/gag/avyyvKn)
  - 😝 [Balls of diamond](http://9gag.com/gag/a7oo9vw)
- - 👉 [Yasuke removed from Assassin&#39;s Creed Shadows&#39;s pre-order banner. Cant change the shit you created ubisoft.. tsktsk may you rest in pieces. Go woke, go broke.](http://9gag.com/gag/aByyX9N)<!-- MEMES:END -->
+ - 😝 [What The Hell is This](http://9gag.com/gag/aO88196)
+ - 💣 [Norwegian winter olympian getting question in japanese](http://9gag.com/gag/aW44Dr3)
+ - 😝 [Success of immigration - migros](http://9gag.com/gag/aoyy84n)
+ - 👉 [Hmmmmm](http://9gag.com/gag/aLnnXzM)<!-- MEMES:END -->
 
 ---
 

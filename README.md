@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Inbreeding](http://9gag.com/gag/a1mmV18)
- - 😝 [Just Stop Oil nutjob is bewildered he is being arrested. FAFO.](http://9gag.com/gag/a7ooN6e)
- - 💣 [Balls of diamond](http://9gag.com/gag/a7oo9vw)
- - 😝 [Man tries to steal the meal-delivery robot from restaurant](http://9gag.com/gag/aRBB2Nq)
- - 👉 [My bill doesn\u2019t seem to have gone down. What about yours?](http://9gag.com/gag/aVvv2xM)<!-- MEMES:END -->
+ - 😝 [Robber: `Ey, what do you deliver?` Delivery guy: `Violence.`](http://9gag.com/gag/awyy49Q)
+ - 😝 [Success of immigration - migros](http://9gag.com/gag/aoyy84n)
+ - 💣 [LEFT OR RIGHT?](http://9gag.com/gag/aW4422Z)
+ - 😝 [Why ..?](http://9gag.com/gag/avyyvKn)
+ - 👉 [Man tries to steal the meal-delivery robot from restaurant](http://9gag.com/gag/aRBB2Nq)<!-- MEMES:END -->
 
 ---
 

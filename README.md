@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The Lush Bath Bot Is a Vegan, Recyclable Floating Speaker That&#39;s Out to Make a Point](https://www.wired.com/story/the-lush-bath-bot-is-a-vegan-recyclable-floating-speaker-thats-out-to-make-a-point/)
+ - [NFC Championship: How to Watch Commanders vs. Eagles Today](https://www.cnet.com/tech/services-and-software/nfc-championship-how-to-watch-commanders-vs-eagles-today/#ftag=CAD590a51e)
  - [Mortgage Predictions for Week of Jan. 27- Feb. 2, 2025](https://www.cnet.com/personal-finance/mortgage-predictions-for-week-of-jan-27-feb-2-2025/#ftag=CAD590a51e)
  - [Today&#39;s NYT Mini Crossword Answers for Sunday, Jan. 26](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-sunday-jan-26/#ftag=CAD590a51e)
- - [Sources: US State Dept.&#39;s freeze on foreign aid applies to a bureau that uses cyber diplomacy to fight threats and pursues international norms for emerging tech &lpar;Martin Matishak/The Record&rpar;](http://www.techmeme.com/250126/p5#a250126p5)
- - [Scientists Recreate the Conditions That Sparked Complex Life](https://www.wired.com/story/scientists-recreate-the-conditions-that-sparked-complex-life/)
- - [CEO Brian Armstrong says Coinbase needs to rethink its listing process for new tokens to keep up with &quot;~1m tokens a week being created now, and growing&quot; &lpar;Brian Armstrong/@brian_armstrong&rpar;](http://www.techmeme.com/250126/p4#a250126p4)<!-- TECH:END -->
+ - [Sources: US State Dept.&#39;s freeze on foreign aid applies to a bureau that uses cyber diplomacy to fight threats and pursues international norms for emerging tech &lpar;Martin Matishak/The Record&rpar;](http://www.techmeme.com/250126/p5#a250126p5)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

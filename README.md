@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Chad Bianco, sheriff of Riverside County, California is finally speaking the truth. Kudos standing up against politicians](http://9gag.com/gag/a7oonDA)
- - 😝 [Just a rollercoaster of emotions](http://9gag.com/gag/aGyyO3X)
- - 💣 [Here we go again](http://9gag.com/gag/aByyOPO)
- - 😝 [Never underestimate the importance of being present for your little ones.](http://9gag.com/gag/a9yyO6L)
- - 👉 [The shadiest town on earth](http://9gag.com/gag/a4PPwmp)<!-- MEMES:END -->
+ - 😝 [Is it even possible to fall backwards while sprinting forwards?](http://9gag.com/gag/axyymVK)
+ - 😝 [This is why you don&#39;t stay at the same spot after being spotted](http://9gag.com/gag/ae992Kq)
+ - 💣 [IRONY MAN](http://9gag.com/gag/avyyvD5)
+ - 😝 [LEAVE... THE F... KIDS... ALONE!!!!](http://9gag.com/gag/a1mm2w2)
+ - 👉 [I don&#39;t know if they were worldwide famous but in Europe they were everywhere](http://9gag.com/gag/aVvvBjP)<!-- MEMES:END -->
 
 ---
 

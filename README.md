@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Betting data from Illinois, New Jersey, and Colorado shows how parlays are driving revenue growth for FanDuel, DraftKings, and other US sports betting companies &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/250126/p11#a250126p11)
  - [Pick up Apple&#39;s M4 MacBook Pro for $1,399 at Amazon with coupon](https://appleinsider.com/articles/25/01/26/pick-up-apples-m4-macbook-pro-for-1399-at-amazon-with-coupon?utm_medium=rss)
- - [Best Coffee Makers for 2025](https://www.cnet.com/home/kitchen-and-household/best-coffee-maker/#ftag=CAD590a51e)
- - [The 3 Best Espresso Machines of 2025](https://www.cnet.com/home/kitchen-and-household/best-espresso-machine/#ftag=CAD590a51e)
- - [15 Essential Questions You Need to Ask Before Installing Solar Panels](https://www.cnet.com/home/energy-and-utilities/15-essential-questions-you-need-to-ask-before-installing-solar-panels/#ftag=CAD590a51e)
- - [A bear case for Nvidia: competition from hardware startups, inference-heavy &quot;reasoning&quot; models, DeepSeek&#39;s training and inference efficiency breakthroughs, more &lpar;Jeffrey Emanuel/YouTubeTranscript ...&rpar;](http://www.techmeme.com/250126/p10#a250126p10)<!-- TECH:END -->
+ - [Today&#39;s NYT Strands Hints, Answers and Help for Jan. 27, #330](https://www.cnet.com/tech/gaming/todays-nyt-strands-hints-answers-and-help-for-jan-27-330/#ftag=CAD590a51e)
+ - [Today&#39;s NYT Connections Hints, Answers and Help for Jan. 27, #596](https://www.cnet.com/tech/gaming/todays-nyt-connections-hints-answers-and-help-for-jan-27-596/#ftag=CAD590a51e)
+ - [Today&#39;s Wordle Hints, Answer and Help for Jan. 27, #1318](https://www.cnet.com/tech/gaming/todays-wordle-hints-answer-and-help-for-jan-27-1318/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

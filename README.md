@@ -166,10 +166,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Ahhh\u2026 the failguard\u2026](http://9gag.com/gag/awyy44y)
- - 😝 [So relaxing](http://9gag.com/gag/amooR26)
- - 💣 [Just Stop Oil nutjob is bewildered he is being arrested. FAFO.](http://9gag.com/gag/a7ooN6e)
- - 😝 [Is it even possible to fall backwards while sprinting forwards?](http://9gag.com/gag/axyymVK)
+ - 😝 [I have very little appetite and when I do, it ends halfway through my meal. Usually with discomfort.](http://9gag.com/gag/aKGGeg6)
+ - 😝 [Last Hug](http://9gag.com/gag/aRBBvoy)
+ - 💣 [Is it even possible to fall backwards while sprinting forwards?](http://9gag.com/gag/axyymVK)
+ - 😝 [I don&#39;t know if they were worldwide famous but in Europe they were everywhere](http://9gag.com/gag/aVvvBjP)
  - 👉 [Success of immigration - migros](http://9gag.com/gag/aoyy84n)<!-- MEMES:END -->
 
 ---

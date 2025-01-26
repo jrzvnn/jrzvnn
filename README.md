@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Today&#39;s NYT Mini Crossword Answers for Sunday, Jan. 26](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-sunday-jan-26/#ftag=CAD590a51e)
  - [Sources: US State Dept.&#39;s freeze on foreign aid applies to a bureau that uses cyber diplomacy to fight threats and pursues international norms for emerging tech &lpar;Martin Matishak/The Record&rpar;](http://www.techmeme.com/250126/p5#a250126p5)
  - [Scientists Recreate the Conditions That Sparked Complex Life](https://www.wired.com/story/scientists-recreate-the-conditions-that-sparked-complex-life/)
  - [CEO Brian Armstrong says Coinbase needs to rethink its listing process for new tokens to keep up with &quot;~1m tokens a week being created now, and growing&quot; &lpar;Brian Armstrong/@brian_armstrong&rpar;](http://www.techmeme.com/250126/p4#a250126p4)
- - [Sources: DeepSeek&#39;s Liang Wenfeng told Chinese Premier Li Qiang in a Jan. 20 meeting that US export controls on advanced chips to China were still a bottleneck &lpar;Raffaele Huang/Wall Street Journal&rpar;](http://www.techmeme.com/250126/p3#a250126p3)
- - [A look at Google&#39;s plans to shape public perception and policies on AI, including building out educational programs, ahead of a global wave of AI regulation &lpar;Kenrick Cai/Reuters&rpar;](http://www.techmeme.com/250126/p2#a250126p2)<!-- TECH:END -->
+ - [Sources: DeepSeek&#39;s Liang Wenfeng told Chinese Premier Li Qiang in a Jan. 20 meeting that US export controls on advanced chips to China were still a bottleneck &lpar;Raffaele Huang/Wall Street Journal&rpar;](http://www.techmeme.com/250126/p3#a250126p3)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Robber: `Ey, what do you deliver?` Delivery guy: `Violence.`](http://9gag.com/gag/awyy49Q)
- - 😝 [Success of immigration - migros](http://9gag.com/gag/aoyy84n)
- - 💣 [LEFT OR RIGHT?](http://9gag.com/gag/aW4422Z)
- - 😝 [Why ..?](http://9gag.com/gag/avyyvKn)
- - 👉 [Man tries to steal the meal-delivery robot from restaurant](http://9gag.com/gag/aRBB2Nq)<!-- MEMES:END -->
+ - 😝 [IRONY MAN](http://9gag.com/gag/avyyvD5)
+ - 😝 [Pakistan mall](http://9gag.com/gag/aAyyOOp)
+ - 💣 [Why ..?](http://9gag.com/gag/avyyvKn)
+ - 😝 [Is it even possible to fall backwards while sprinting forwards?](http://9gag.com/gag/axyymVK)
+ - 👉 [What The Hell is This](http://9gag.com/gag/aO88196)<!-- MEMES:END -->
 
 ---
 

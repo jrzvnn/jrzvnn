@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Golden moment \ud83e\udd47\ud83e\udd47](http://9gag.com/gag/azxxZ2Z)
- - 😝 [Dafuk?](http://9gag.com/gag/aE00Z2e)
- - 💣 [Success of immigration - migros](http://9gag.com/gag/aoyy84n)
- - 😝 [Y&#39;all remember when some kid cracked an egg on an Australian politician&#39;s head?](http://9gag.com/gag/a5QQDBy)
- - 👉 [Oh look, some random grandpa in the street](http://9gag.com/gag/avyym8b)<!-- MEMES:END -->
+ - 😝 [200 iq move](http://9gag.com/gag/aByyvQD)
+ - 😝 [When your kid wakes up in the middle of the night](http://9gag.com/gag/aLnndyP)
+ - 💣 [This is why you don&#39;t stay at the same spot after being spotted](http://9gag.com/gag/ae992Kq)
+ - 😝 [That&#39;s a lot of H.](http://9gag.com/gag/aD22MMN)
+ - 👉 [These Guatemalan Police officers are completely out of it. All in a day&#39;s work.](http://9gag.com/gag/axyy4zb)<!-- MEMES:END -->
 
 ---
 

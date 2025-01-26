@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Success of immigration - migros](http://9gag.com/gag/aoyy84n)
- - 😝 [I don&#39;t know if they were worldwide famous but in Europe they were everywhere](http://9gag.com/gag/aVvvBjP)
- - 💣 [Be like Chris, go hard](http://9gag.com/gag/amooMA6)
- - 😝 [What The Hell is This](http://9gag.com/gag/aO88196)
- - 👉 [I shouldn&#39;t tell you, but yes, she does.](http://9gag.com/gag/an77DNB)<!-- MEMES:END -->
+ - 😝 [Man carries out maintenance work in own garage](http://9gag.com/gag/aMVVy9X)
+ - 😝 [These Guatemalan Police officers are completely out of it. All in a day&#39;s work.](http://9gag.com/gag/axyy4zb)
+ - 💣 [Golden moment \ud83e\udd47\ud83e\udd47](http://9gag.com/gag/azxxZ2Z)
+ - 😝 [Why ..?](http://9gag.com/gag/avyyvKn)
+ - 👉 [Brake EEE](http://9gag.com/gag/a877KeO)<!-- MEMES:END -->
 
 ---
 

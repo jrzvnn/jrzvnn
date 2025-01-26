@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Sources: the Trump admin is in talks for Oracle and a group of US investors to take over TikTok&#39;s global operations, with ByteDance retaining a minority stake &lpar;Bobby Allyn/NPR&rpar;](http://www.techmeme.com/250125/p13#a250125p13)
+ - [Best Noise-Canceling Headphones for 2025](https://www.cnet.com/tech/mobile/best-noise-canceling-headphones/#ftag=CAD590a51e)
  - [Siri with Apple Intelligence is a massive regression from the old Siri, which recognized its limitations and provided a list of search links to answer a query &lpar;John Gruber/Daring Fireball&rpar;](http://www.techmeme.com/250125/p12#a250125p12)
  - [Oracle and Microsoft are reportedly in talks to take over TikTok](https://www.theverge.com/2025/1/25/24351973/oracle-microsoft-tiktok-takeover-deal)
- - [Fubo’s cheapest streaming plan is now $85 per month](https://www.theverge.com/2025/1/25/24351922/fubo-tv-essential-pro-elite-plan-price-increase)
- - [Best Indoor Security Cameras for 2025: Our Top Pick Has AI Smarts](https://www.cnet.com/home/security/best-indoor-home-security-cameras/#ftag=CAD590a51e)
- - [Today&#39;s NYT Strands Hints, Answers and Help for Jan. 26, #329](https://www.cnet.com/tech/gaming/todays-nyt-strands-hints-answers-and-help-for-jan-26-329/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [The Absolute Best Horror Movies on Hulu](https://www.cnet.com/tech/services-and-software/the-absolute-best-horror-films-hulu-january-2025/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

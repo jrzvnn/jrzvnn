@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Major Chinese social media apps have mastered the &quot;shoppertainment&quot; experience, blending social media with shopping, that Western competitors struggle to match &lpar;Rest of World&rpar;](http://www.techmeme.com/250126/p6#a250126p6)
- - [What handheld PCs should do to fight the Nintendo Switch 2](https://www.theverge.com/24351383/handheld-pcs-challenge-switch-2-editorial)
- - [iOS 18.2: Bring the Volume Bar Back to Your Lock Screen in 4 Easy Steps](https://www.cnet.com/tech/services-and-software/ios-18-2-bring-the-volume-bar-back-to-your-lock-screen-in-4-easy-steps/#ftag=CAD590a51e)
- - [AFC Championship: How to Watch Bills vs. Chiefs Today](https://www.cnet.com/tech/services-and-software/nfl-wild-card-weekend-how-to-watch-broncos-vs-bills-today/#ftag=CAD590a51e)
- - [Before iOS 18.3, You Should Download iOS 18.2.1 for Important Bug Fixes](https://www.cnet.com/tech/services-and-software/before-ios-18-3-you-should-download-ios-18-2-1-for-important-bug-fixes/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Crime blotter: 12 charged in London Apple Store thefts](https://appleinsider.com/articles/25/01/26/crime-blotter-12-charged-in-london-apple-store-thefts?utm_medium=rss)
+ - [‘Reflecting New York’ Holds a Mirror Up to NYC](https://www.wired.com/story/reflecting-new-york-holds-a-mirror-up-to-manhattan/)
+ - [The 2025 Android upgrade cycle has begun](https://www.theverge.com/2025/1/26/24351363/samsung-s25-nvidia-5090-perplexity-openai-installer)
+ - [Live AI on Meta’s smart glasses is a solution looking for a problem](https://www.theverge.com/2025/1/26/24351264/live-ai-ray-ban-meta-smart-glasses-wearables)
+ - [Best Gas Grills of 2025](https://www.cnet.com/home/yard-and-outdoors/best-gas-grill/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Why ..?](http://9gag.com/gag/avyyvKn)
+ - 😝 [IRONY MAN](http://9gag.com/gag/avyyvD5)
+ - 😝 [In a video that has gone viral, a British Airways crew member gives a behind-the-scenes tour of a plane arriving in London from Pakistan](http://9gag.com/gag/apRRxKD)
+ - 💣 [What The Hell is This](http://9gag.com/gag/aO88196)
  - 😝 [Hmmmmm](http://9gag.com/gag/aLnnXzM)
- - 💣 [A man tries to reorder groceries from a 2022 purchase to compare the cost in 2024.](http://9gag.com/gag/aMVVnMP)
- - 😝 [Success of immigration - migros](http://9gag.com/gag/aoyy84n)
- - 👉 [Balls of diamond](http://9gag.com/gag/a7oo9vw)<!-- MEMES:END -->
+ - 👉 [Why ..?](http://9gag.com/gag/avyyvKn)<!-- MEMES:END -->
 
 ---
 

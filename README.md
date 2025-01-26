@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [Warriors assemble](http://9gag.com/gag/a6ZZG6A)
  - 😝 [I have very little appetite and when I do, it ends halfway through my meal. Usually with discomfort.](http://9gag.com/gag/aKGGeg6)
- - 😝 [Last Hug](http://9gag.com/gag/aRBBvoy)
- - 💣 [Is it even possible to fall backwards while sprinting forwards?](http://9gag.com/gag/axyymVK)
- - 😝 [I don&#39;t know if they were worldwide famous but in Europe they were everywhere](http://9gag.com/gag/aVvvBjP)
- - 👉 [Success of immigration - migros](http://9gag.com/gag/aoyy84n)<!-- MEMES:END -->
+ - 💣 [Just Stop Oil nutjob is bewildered he is being arrested. FAFO.](http://9gag.com/gag/a7ooN6e)
+ - 😝 [Oh look, some random grandpa in the street](http://9gag.com/gag/avyym8b)
+ - 👉 [I don&#39;t know if they were worldwide famous but in Europe they were everywhere](http://9gag.com/gag/aVvvBjP)<!-- MEMES:END -->
 
 ---
 

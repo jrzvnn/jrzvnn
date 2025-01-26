@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Despite assurances, advertisers worry Meta&#39;s tools may not prevent ads from appearing near offensive content as the new content moderation approach takes effect &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/250126/p1#a250126p1)
  - [Sources: the Trump admin is in talks for Oracle and a group of US investors to take over TikTok&#39;s global operations, with ByteDance retaining a minority stake &lpar;Bobby Allyn/NPR&rpar;](http://www.techmeme.com/250125/p13#a250125p13)
  - [Best Treadmills of 2025, as Tested by a Runner With Over 15 Years of Experience](https://www.cnet.com/health/fitness/best-treadmill/#ftag=CAD590a51e)
  - [Best Printer for 2025](https://www.cnet.com/tech/computing/best-printer/#ftag=CAD590a51e)
- - [Best Noise-Canceling Headphones for 2025](https://www.cnet.com/tech/mobile/best-noise-canceling-headphones/#ftag=CAD590a51e)
- - [Siri with Apple Intelligence is a massive regression from the old Siri, which recognized its limitations and provided a list of search links to answer a query &lpar;John Gruber/Daring Fireball&rpar;](http://www.techmeme.com/250125/p12#a250125p12)<!-- TECH:END -->
+ - [Best Noise-Canceling Headphones for 2025](https://www.cnet.com/tech/mobile/best-noise-canceling-headphones/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

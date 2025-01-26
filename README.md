@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Brake EEE](http://9gag.com/gag/a877KeO)
- - 😝 [Norwegian winter olympian getting question in japanese](http://9gag.com/gag/aW44Dr3)
- - 💣 [Man carries out maintenance work in own garage](http://9gag.com/gag/aMVVy9X)
- - 😝 [Y&#39;all remember when some kid cracked an egg on an Australian politician&#39;s head?](http://9gag.com/gag/a5QQDBy)
- - 👉 [Golden moment \ud83e\udd47\ud83e\udd47](http://9gag.com/gag/azxxZ2Z)<!-- MEMES:END -->
+ - 😝 [He finished her\ud83d\udc80](http://9gag.com/gag/a9yyBZL)
+ - 😝 [What The Hell is This](http://9gag.com/gag/aO88196)
+ - 💣 [Be like Chris, go hard](http://9gag.com/gag/amooMA6)
+ - 😝 [Oh look, some random grandpa in the street](http://9gag.com/gag/avyym8b)
+ - 👉 [These Guatemalan Police officers are completely out of it. All in a day&#39;s work.](http://9gag.com/gag/axyy4zb)<!-- MEMES:END -->
 
 ---
 

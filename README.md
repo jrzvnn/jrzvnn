@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [Why ..?](http://9gag.com/gag/avyyvKn)
  - 😝 [Hmmmmm](http://9gag.com/gag/aLnnXzM)
- - 😝 [Best friends](http://9gag.com/gag/apRRYGW)
- - 💣 [Peg Board Workout](http://9gag.com/gag/ae9974p)
- - 😝 [I&#39;ve got one unbroken bone tho](http://9gag.com/gag/aryy276)
- - 👉 [Robber: `Ey, what do you deliver?` Delivery guy: `Violence.`](http://9gag.com/gag/awyy49Q)<!-- MEMES:END -->
+ - 💣 [A man tries to reorder groceries from a 2022 purchase to compare the cost in 2024.](http://9gag.com/gag/aMVVnMP)
+ - 😝 [Success of immigration - migros](http://9gag.com/gag/aoyy84n)
+ - 👉 [Balls of diamond](http://9gag.com/gag/a7oo9vw)<!-- MEMES:END -->
 
 ---
 

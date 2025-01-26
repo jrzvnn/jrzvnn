@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [CEO Brian Armstrong says Coinbase needs to rethink its listing process for new tokens to keep up with &quot;~1m tokens a week being created now, and growing&quot; &lpar;Brian Armstrong/@brian_armstrong&rpar;](http://www.techmeme.com/250126/p4#a250126p4)
  - [Sources: DeepSeek&#39;s Liang Wenfeng told Chinese Premier Li Qiang in a Jan. 20 meeting that US export controls on advanced chips to China were still a bottleneck &lpar;Raffaele Huang/Wall Street Journal&rpar;](http://www.techmeme.com/250126/p3#a250126p3)
  - [A look at Google&#39;s plans to shape public perception and policies on AI, including building out educational programs, ahead of a global wave of AI regulation &lpar;Kenrick Cai/Reuters&rpar;](http://www.techmeme.com/250126/p2#a250126p2)
  - [Despite assurances, advertisers worry Meta&#39;s tools may not prevent ads from appearing near offensive content as the new content moderation approach takes effect &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/250126/p1#a250126p1)
- - [Today&#39;s NYT Connections: Sports Edition Hints and Answers for Jan. 26, #125](https://www.cnet.com/tech/gaming/todays-nyt-connections-sports-edition-hints-and-answers-for-jan-26-125/#ftag=CAD590a51e)
- - [Sources: the Trump admin is in talks for Oracle and a group of US investors to take over TikTok&#39;s global operations, with ByteDance retaining a minority stake &lpar;Bobby Allyn/NPR&rpar;](http://www.techmeme.com/250125/p13#a250125p13)<!-- TECH:END -->
+ - [Today&#39;s NYT Connections: Sports Edition Hints and Answers for Jan. 26, #125](https://www.cnet.com/tech/gaming/todays-nyt-connections-sports-edition-hints-and-answers-for-jan-26-125/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

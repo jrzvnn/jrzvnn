@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Success of immigration - migros](http://9gag.com/gag/aoyy84n)
- - 😝 [Ahhh\u2026 the failguard\u2026](http://9gag.com/gag/awyy44y)
- - 💣 [Is it even possible to fall backwards while sprinting forwards?](http://9gag.com/gag/axyymVK)
- - 😝 [I have very little appetite and when I do, it ends halfway through my meal. Usually with discomfort.](http://9gag.com/gag/aKGGeg6)
- - 👉 [My bill doesn\u2019t seem to have gone down. What about yours?](http://9gag.com/gag/aVvv2xM)<!-- MEMES:END -->
+ - 😝 [Just Stop Oil nutjob is bewildered he is being arrested. FAFO.](http://9gag.com/gag/a7ooN6e)
+ - 😝 [IRONY MAN](http://9gag.com/gag/avyyvD5)
+ - 💣 [LEAVE... THE F... KIDS... ALONE!!!!](http://9gag.com/gag/a1mm2w2)
+ - 😝 [These Guatemalan Police officers are completely out of it. All in a day&#39;s work.](http://9gag.com/gag/axyy4zb)
+ - 👉 [This is why you don&#39;t stay at the same spot after being spotted](http://9gag.com/gag/ae992Kq)<!-- MEMES:END -->
 
 ---
 

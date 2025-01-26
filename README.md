@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Warriors assemble](http://9gag.com/gag/a6ZZG6A)
- - 😝 [I have very little appetite and when I do, it ends halfway through my meal. Usually with discomfort.](http://9gag.com/gag/aKGGeg6)
- - 💣 [Just Stop Oil nutjob is bewildered he is being arrested. FAFO.](http://9gag.com/gag/a7ooN6e)
- - 😝 [Oh look, some random grandpa in the street](http://9gag.com/gag/avyym8b)
- - 👉 [I don&#39;t know if they were worldwide famous but in Europe they were everywhere](http://9gag.com/gag/aVvvBjP)<!-- MEMES:END -->
+ - 😝 [Chad Bianco, sheriff of Riverside County, California is finally speaking the truth. Kudos standing up against politicians](http://9gag.com/gag/a7oonDA)
+ - 😝 [Just a rollercoaster of emotions](http://9gag.com/gag/aGyyO3X)
+ - 💣 [Here we go again](http://9gag.com/gag/aByyOPO)
+ - 😝 [Never underestimate the importance of being present for your little ones.](http://9gag.com/gag/a9yyO6L)
+ - 👉 [The shadiest town on earth](http://9gag.com/gag/a4PPwmp)<!-- MEMES:END -->
 
 ---
 

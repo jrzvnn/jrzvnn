@@ -158,10 +158,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- TECH:START -->
  - [Sources: the Trump admin is in talks for Oracle and a group of US investors to take over TikTok&#39;s global operations, with ByteDance retaining a minority stake &lpar;Bobby Allyn/NPR&rpar;](http://www.techmeme.com/250125/p13#a250125p13)
+ - [Best Treadmills of 2025, as Tested by a Runner With Over 15 Years of Experience](https://www.cnet.com/health/fitness/best-treadmill/#ftag=CAD590a51e)
+ - [Best Printer for 2025](https://www.cnet.com/tech/computing/best-printer/#ftag=CAD590a51e)
  - [Best Noise-Canceling Headphones for 2025](https://www.cnet.com/tech/mobile/best-noise-canceling-headphones/#ftag=CAD590a51e)
- - [Siri with Apple Intelligence is a massive regression from the old Siri, which recognized its limitations and provided a list of search links to answer a query &lpar;John Gruber/Daring Fireball&rpar;](http://www.techmeme.com/250125/p12#a250125p12)
- - [Oracle and Microsoft are reportedly in talks to take over TikTok](https://www.theverge.com/2025/1/25/24351973/oracle-microsoft-tiktok-takeover-deal)
- - [The Absolute Best Horror Movies on Hulu](https://www.cnet.com/tech/services-and-software/the-absolute-best-horror-films-hulu-january-2025/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Siri with Apple Intelligence is a massive regression from the old Siri, which recognized its limitations and provided a list of search links to answer a query &lpar;John Gruber/Daring Fireball&rpar;](http://www.techmeme.com/250125/p12#a250125p12)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Best Coffee Makers for 2025](https://www.cnet.com/home/kitchen-and-household/best-coffee-maker/#ftag=CAD590a51e)
+ - [The 3 Best Espresso Machines of 2025](https://www.cnet.com/home/kitchen-and-household/best-espresso-machine/#ftag=CAD590a51e)
  - [15 Essential Questions You Need to Ask Before Installing Solar Panels](https://www.cnet.com/home/energy-and-utilities/15-essential-questions-you-need-to-ask-before-installing-solar-panels/#ftag=CAD590a51e)
  - [A bear case for Nvidia: competition from hardware startups, inference-heavy &quot;reasoning&quot; models, DeepSeek&#39;s training and inference efficiency breakthroughs, more &lpar;Jeffrey Emanuel/YouTubeTranscript ...&rpar;](http://www.techmeme.com/250126/p10#a250126p10)
- - [Homeowners Insurance: What to Do If You&#39;re Denied Coverage](https://www.cnet.com/personal-finance/insurance/homeowners-insurance-what-to-do-if-youre-denied-coverage/#ftag=CAD590a51e)
- - [A look at the growing prevalence of LLM-written posts that have been backdated and attributed to human authors on Physics Forums, which was founded in 2001 &lpar;Hall of Impossible Dreams&rpar;](http://www.techmeme.com/250126/p9#a250126p9)
- - [Best Internet Providers in New Hampshire](https://www.cnet.com/home/internet/best-internet-providers-in-new-hampshire/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Homeowners Insurance: What to Do If You&#39;re Denied Coverage](https://www.cnet.com/personal-finance/insurance/homeowners-insurance-what-to-do-if-youre-denied-coverage/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

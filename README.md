@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Just Stop Oil nutjob is bewildered he is being arrested. FAFO.](http://9gag.com/gag/a7ooN6e)
- - 😝 [Last Hug](http://9gag.com/gag/aRBBvoy)
- - 💣 [Norwegian winter olympian getting question in japanese](http://9gag.com/gag/aW44Dr3)
- - 😝 [My bill doesn\u2019t seem to have gone down. What about yours?](http://9gag.com/gag/aVvv2xM)
- - 👉 [I have very little appetite and when I do, it ends halfway through my meal. Usually with discomfort.](http://9gag.com/gag/aKGGeg6)<!-- MEMES:END -->
+ - 😝 [Robber: `Ey, what do you deliver?` Delivery guy: `Violence.`](http://9gag.com/gag/awyy49Q)
+ - 😝 [I&#39;ve got one unbroken bone tho](http://9gag.com/gag/aryy276)
+ - 💣 [Just let it happen](http://9gag.com/gag/aoyy8Kw)
+ - 😝 [Just a rollercoaster of emotions](http://9gag.com/gag/aGyyO3X)
+ - 👉 [Chad Bianco, sheriff of Riverside County, California is finally speaking the truth. Kudos standing up against politicians](http://9gag.com/gag/a7oonDA)<!-- MEMES:END -->
 
 ---
 

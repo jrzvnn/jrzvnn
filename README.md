@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [This is why you don&#39;t stay at the same spot after being spotted](http://9gag.com/gag/ae992Kq)
- - 😝 [Why are orange cat this much creative....](http://9gag.com/gag/aoyyx1g)
- - 💣 [Just Stop Oil nutjob is bewildered he is being arrested. FAFO.](http://9gag.com/gag/a7ooN6e)
- - 😝 [Yasuke removed from Assassin&#39;s Creed Shadows&#39;s pre-order banner. Cant change the shit you created ubisoft.. tsktsk may you rest in pieces. Go woke, go broke.](http://9gag.com/gag/aByyX9N)
- - 👉 [Success of immigration - migros](http://9gag.com/gag/aoyy84n)<!-- MEMES:END -->
+ - 😝 [Hmmmmm](http://9gag.com/gag/aLnnXzM)
+ - 😝 [Best friends](http://9gag.com/gag/apRRYGW)
+ - 💣 [I&#39;ve got one unbroken bone tho](http://9gag.com/gag/aryy276)
+ - 😝 [Peg Board Workout](http://9gag.com/gag/ae9974p)
+ - 👉 [Robber: `Ey, what do you deliver?` Delivery guy: `Violence.`](http://9gag.com/gag/awyy49Q)<!-- MEMES:END -->
 
 ---
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Is it even possible to fall backwards while sprinting forwards?](http://9gag.com/gag/axyymVK)
  - 😝 [Success of immigration - migros](http://9gag.com/gag/aoyy84n)
- - 💣 [These Guatemalan Police officers are completely out of it. All in a day&#39;s work.](http://9gag.com/gag/axyy4zb)
- - 😝 [Norwegian winter olympian getting question in japanese](http://9gag.com/gag/aW44Dr3)
- - 👉 [I don&#39;t know if they were worldwide famous but in Europe they were everywhere](http://9gag.com/gag/aVvvBjP)<!-- MEMES:END -->
+ - 😝 [I don&#39;t know if they were worldwide famous but in Europe they were everywhere](http://9gag.com/gag/aVvvBjP)
+ - 💣 [Be like Chris, go hard](http://9gag.com/gag/amooMA6)
+ - 😝 [What The Hell is This](http://9gag.com/gag/aO88196)
+ - 👉 [I shouldn&#39;t tell you, but yes, she does.](http://9gag.com/gag/an77DNB)<!-- MEMES:END -->
 
 ---
 

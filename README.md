@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [A look at the growing prevalence of LLM-written posts that have been backdated and attributed to human authors on Physics Forums, which was founded in 2001 &lpar;Hall of Impossible Dreams&rpar;](http://www.techmeme.com/250126/p9#a250126p9)
+ - [AirPods with cameras still a priority for Apple&#39;s computer vision goals](https://appleinsider.com/articles/25/01/26/airpods-with-cameras-still-a-priority-for-apples-computer-vision-goals?utm_medium=rss)
  - [Apple reportedly on track for late 2025 home hub launch](https://appleinsider.com/articles/25/01/26/apple-reportedly-on-track-for-late-2025-home-hub-launch?utm_medium=rss)
  - [Trump denies talks with Oracle about a TikTok deal, says &quot;I have spoken to many people about TikTok&quot; and expects a decision in the next 30 days &lpar;Reuters&rpar;](http://www.techmeme.com/250126/p8#a250126p8)
- - [Retro Remake opens preorders for its PS One FPGA clone](https://www.theverge.com/2025/1/26/24352254/superstation-one-preorder-retro-remake-ps1-fpga)
- - [Best Mattress in a Box for 2025](https://www.cnet.com/health/sleep/best-mattress-in-a-box/#ftag=CAD590a51e)
- - [Best Protein Powders in 2025](https://www.cnet.com/health/fitness/best-protein-powders/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [&#39;The Bachelor&#39;: How to Watch Season 29 of the Reality Dating Show](https://www.cnet.com/tech/services-and-software/the-bachelor-how-to-watch-season-29-of-the-reality-dating-show/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

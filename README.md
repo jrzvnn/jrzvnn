@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [This is why you don&#39;t stay at the same spot after being spotted](http://9gag.com/gag/ae992Kq)
- - 😝 [Just this](http://9gag.com/gag/aW44b4A)
- - 💣 [Oh look, some random grandpa in the street](http://9gag.com/gag/avyym8b)
  - 😝 [Golden moment \ud83e\udd47\ud83e\udd47](http://9gag.com/gag/azxxZ2Z)
- - 👉 [These Guatemalan Police officers are completely out of it. All in a day&#39;s work.](http://9gag.com/gag/axyy4zb)<!-- MEMES:END -->
+ - 😝 [Dafuk?](http://9gag.com/gag/aE00Z2e)
+ - 💣 [Success of immigration - migros](http://9gag.com/gag/aoyy84n)
+ - 😝 [Y&#39;all remember when some kid cracked an egg on an Australian politician&#39;s head?](http://9gag.com/gag/a5QQDBy)
+ - 👉 [Oh look, some random grandpa in the street](http://9gag.com/gag/avyym8b)<!-- MEMES:END -->
 
 ---
 

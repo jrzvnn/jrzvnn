@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Balls of diamond](http://9gag.com/gag/a7oo9vw)
- - 😝 [What The Hell is This](http://9gag.com/gag/aO88196)
- - 💣 [Norwegian winter olympian getting question in japanese](http://9gag.com/gag/aW44Dr3)
- - 😝 [Success of immigration - migros](http://9gag.com/gag/aoyy84n)
- - 👉 [Hmmmmm](http://9gag.com/gag/aLnnXzM)<!-- MEMES:END -->
+ - 😝 [Last Hug](http://9gag.com/gag/aRBBvoy)
+ - 😝 [Norwegian winter olympian getting question in japanese](http://9gag.com/gag/aW44Dr3)
+ - 💣 [IRONY MAN](http://9gag.com/gag/avyyvD5)
+ - 😝 [Hmmmmm](http://9gag.com/gag/aLnnXzM)
+ - 👉 [Success of immigration - migros](http://9gag.com/gag/aoyy84n)<!-- MEMES:END -->
 
 ---
 

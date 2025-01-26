@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [This is why you don&#39;t stay at the same spot after being spotted](http://9gag.com/gag/ae992Kq)
- - 😝 [I shouldn&#39;t tell you, but yes, she does.](http://9gag.com/gag/an77DNB)
- - 💣 [Pakistan mall](http://9gag.com/gag/aAyyOOp)
- - 😝 [Is it even possible to fall backwards while sprinting forwards?](http://9gag.com/gag/axyymVK)
- - 👉 [When your kid wakes up in the middle of the night](http://9gag.com/gag/aLnndyP)<!-- MEMES:END -->
+ - 😝 [Hmmmmm](http://9gag.com/gag/aLnnXzM)
+ - 😝 [I&#39;ve got one unbroken bone tho](http://9gag.com/gag/aryy276)
+ - 💣 [Best friends](http://9gag.com/gag/apRRYGW)
+ - 😝 [Robber: `Ey, what do you deliver?` Delivery guy: `Violence.`](http://9gag.com/gag/awyy49Q)
+ - 👉 [Peg Board Workout](http://9gag.com/gag/ae9974p)<!-- MEMES:END -->
 
 ---
 

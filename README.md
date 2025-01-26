@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [200 iq move](http://9gag.com/gag/aByyvQD)
- - 😝 [Man carries out maintenance work in own garage](http://9gag.com/gag/aMVVy9X)
- - 💣 [Success of immigration - migros](http://9gag.com/gag/aoyy84n)
- - 😝 [That&#39;s a lot of H.](http://9gag.com/gag/aD22MMN)
- - 👉 [These Guatemalan Police officers are completely out of it. All in a day&#39;s work.](http://9gag.com/gag/axyy4zb)<!-- MEMES:END -->
+ - 😝 [Title](http://9gag.com/gag/a4PPw2Z)
+ - 😝 [Oh look, some random grandpa in the street](http://9gag.com/gag/avyym8b)
+ - 💣 [Shopkeeper wanted him to have the full experience](http://9gag.com/gag/a877zoO)
+ - 😝 [Cool wife who loves you and supports your passion. And second dopest basement ever](http://9gag.com/gag/aW44Ren)
+ - 👉 [Woman tried to ruin moment of silence for the victims of Novi Sad incident,but fate had other plans...](http://9gag.com/gag/a877nWZ)<!-- MEMES:END -->
 
 ---
 

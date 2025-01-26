@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Norwegian winter olympian getting question in japanese](http://9gag.com/gag/aW44Dr3)
- - 😝 [Brake EEE](http://9gag.com/gag/a877KeO)
- - 💣 [Balls of diamond](http://9gag.com/gag/a7oo9vw)
  - 😝 [Just Stop Oil nutjob is bewildered he is being arrested. FAFO.](http://9gag.com/gag/a7ooN6e)
- - 👉 [In a video that has gone viral, a British Airways crew member gives a behind-the-scenes tour of a plane arriving in London from Pakistan](http://9gag.com/gag/apRRxKD)<!-- MEMES:END -->
+ - 😝 [Hmmmmm](http://9gag.com/gag/aLnnXzM)
+ - 💣 [Why ..?](http://9gag.com/gag/avyyvKn)
+ - 😝 [Balls of diamond](http://9gag.com/gag/a7oo9vw)
+ - 👉 [Yasuke removed from Assassin&#39;s Creed Shadows&#39;s pre-order banner. Cant change the shit you created ubisoft.. tsktsk may you rest in pieces. Go woke, go broke.](http://9gag.com/gag/aByyX9N)<!-- MEMES:END -->
 
 ---
 

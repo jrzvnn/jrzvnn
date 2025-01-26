@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [Just Stop Oil nutjob is bewildered he is being arrested. FAFO.](http://9gag.com/gag/a7ooN6e)
  - 😝 [Last Hug](http://9gag.com/gag/aRBBvoy)
- - 😝 [Norwegian winter olympian getting question in japanese](http://9gag.com/gag/aW44Dr3)
- - 💣 [IRONY MAN](http://9gag.com/gag/avyyvD5)
- - 😝 [Hmmmmm](http://9gag.com/gag/aLnnXzM)
- - 👉 [Success of immigration - migros](http://9gag.com/gag/aoyy84n)<!-- MEMES:END -->
+ - 💣 [Norwegian winter olympian getting question in japanese](http://9gag.com/gag/aW44Dr3)
+ - 😝 [My bill doesn\u2019t seem to have gone down. What about yours?](http://9gag.com/gag/aVvv2xM)
+ - 👉 [I have very little appetite and when I do, it ends halfway through my meal. Usually with discomfort.](http://9gag.com/gag/aKGGeg6)<!-- MEMES:END -->
 
 ---
 

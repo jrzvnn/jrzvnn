@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Apple reportedly on track for late 2025 home hub launch](https://appleinsider.com/articles/25/01/26/apple-reportedly-on-track-for-late-2025-home-hub-launch?utm_medium=rss)
  - [Trump denies talks with Oracle about a TikTok deal, says &quot;I have spoken to many people about TikTok&quot; and expects a decision in the next 30 days &lpar;Reuters&rpar;](http://www.techmeme.com/250126/p8#a250126p8)
  - [Retro Remake opens preorders for its PS One FPGA clone](https://www.theverge.com/2025/1/26/24352254/superstation-one-preorder-retro-remake-ps1-fpga)
  - [Best Mattress in a Box for 2025](https://www.cnet.com/health/sleep/best-mattress-in-a-box/#ftag=CAD590a51e)
- - [Best Protein Powders in 2025](https://www.cnet.com/health/fitness/best-protein-powders/#ftag=CAD590a51e)
- - [Development of Apple&#39;s smart glasses continues despite massive hurdles](https://appleinsider.com/articles/25/01/26/development-of-apples-smart-glasses-continues-despite-massive-hurdles?utm_medium=rss)<!-- TECH:END -->
+ - [Best Protein Powders in 2025](https://www.cnet.com/health/fitness/best-protein-powders/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

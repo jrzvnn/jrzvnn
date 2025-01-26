@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Robber: `Ey, what do you deliver?` Delivery guy: `Violence.`](http://9gag.com/gag/awyy49Q)
- - 😝 [I&#39;ve got one unbroken bone tho](http://9gag.com/gag/aryy276)
- - 💣 [Just let it happen](http://9gag.com/gag/aoyy8Kw)
- - 😝 [Just a rollercoaster of emotions](http://9gag.com/gag/aGyyO3X)
- - 👉 [Chad Bianco, sheriff of Riverside County, California is finally speaking the truth. Kudos standing up against politicians](http://9gag.com/gag/a7oonDA)<!-- MEMES:END -->
+ - 😝 [LEFT OR RIGHT?](http://9gag.com/gag/aW4422Z)
+ - 😝 [What The Hell is This](http://9gag.com/gag/aO88196)
+ - 💣 [Last Hug](http://9gag.com/gag/aRBBvoy)
+ - 😝 [Ahhh\u2026 the failguard\u2026](http://9gag.com/gag/awyy44y)
+ - 👉 [IRONY MAN](http://9gag.com/gag/avyyvD5)<!-- MEMES:END -->
 
 ---
 

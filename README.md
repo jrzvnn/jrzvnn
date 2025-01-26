@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Pakistan mall](http://9gag.com/gag/aAyyOOp)
- - 😝 [Very success much wow](http://9gag.com/gag/aKGG8yb)
- - 💣 [How much are u gay? yes!](http://9gag.com/gag/an77DA0)
- - 😝 [Last Hug](http://9gag.com/gag/aRBBvoy)
- - 👉 [IRONY MAN](http://9gag.com/gag/avyyvD5)<!-- MEMES:END -->
+ - 😝 [LEAVE... THE F... KIDS... ALONE!!!!](http://9gag.com/gag/a1mm2w2)
+ - 😝 [Norwegian winter olympian getting question in japanese](http://9gag.com/gag/aW44Dr3)
+ - 💣 [Last Hug](http://9gag.com/gag/aRBBvoy)
+ - 😝 [My bill doesn\u2019t seem to have gone down. What about yours?](http://9gag.com/gag/aVvv2xM)
+ - 👉 [This is why you don&#39;t stay at the same spot after being spotted](http://9gag.com/gag/ae992Kq)<!-- MEMES:END -->
 
 ---
 

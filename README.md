@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Apple will be on the hunt for two new board members soon](https://appleinsider.com/articles/25/01/26/apple-will-be-on-the-hunt-for-two-new-board-members-soon?utm_medium=rss)
  - [Chinese esports companies, including Tencent and Huya, face growth challenges in China, the world&#39;s biggest esports market; the industry earned ~$3.8B in 2024 &lpar;Wataru Suzuki/Nikkei Asia&rpar;](http://www.techmeme.com/250126/p7#a250126p7)
  - [Why Apple won&#39;t buy TikTok, even to attract younger users](https://appleinsider.com/articles/25/01/26/why-apple-wont-buy-tiktok-even-to-attract-younger-users?utm_medium=rss)
  - [This New Designer Kitchen Tool Is Just a Stick. So Why Are We Obsessed With It?](https://www.wired.com/story/this-new-designer-kitchen-tool-is-just-a-stick-so-why-are-we-obsessed-with-it/)
- - [Netflix won the streaming wars, and we’re all about to pay for it](https://www.theverge.com/2025/1/26/24351302/netflix-price-increase-streaming-wars)
- - [How to Use Stolen Device Protection on Apple’s iPhone](https://www.wired.com/story/how-to-use-stolen-device-protection-on-apple-iphone/)<!-- TECH:END -->
+ - [Yes, Food Recalls Rose in 2024. Here&#39;s What Comes Next](https://www.cnet.com/news/yes-food-recalls-rose-in-2024-heres-what-comes-next/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

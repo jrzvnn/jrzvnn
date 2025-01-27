@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [We are idiots](http://9gag.com/gag/aByyvwz)
- - 😝 [Dude almost kills a kid by speeding down a mountain.](http://9gag.com/gag/a7ooAEq)
- - 💣 [Man carries out maintenance work in own garage](http://9gag.com/gag/aMVVy9X)
+ - 😝 [Colombian President Petro sending his presidential plane to pick up the illegals from the U.S. 45 minutes after Trump imposed tariffs, sanctions on Colombia](http://9gag.com/gag/a2vvxxE)
+ - 😝 [200 iq move](http://9gag.com/gag/aByyvQD)
+ - 💣 [Cool wife who loves you and supports your passion. And second dopest basement ever](http://9gag.com/gag/aW44Ren)
  - 😝 [Lade Summoners War jetzt herunter und hol dir Gyomei Himejima kostenlos!](http://9gag.com/gag/aBydObO)
- - 👉 [These Guatemalan Police officers are completely out of it. All in a day&#39;s work.](http://9gag.com/gag/axyy4zb)<!-- MEMES:END -->
+ - 👉 [Shopkeeper wanted him to have the full experience](http://9gag.com/gag/a877zoO)<!-- MEMES:END -->
 
 ---
 

@@ -167,10 +167,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [Classic Bond.](http://9gag.com/gag/a0eexDL)
- - 😝 [Go Neil](http://9gag.com/gag/a9yyX00)
- - 💣 [My man](http://9gag.com/gag/aW442X4)
- - 😝 [Name a more dynamic duo! I\u2019ll wait!](http://9gag.com/gag/abAAR5E)
- - 👉 [That&#39;s a lot of H.](http://9gag.com/gag/aD22MMN)<!-- MEMES:END -->
+ - 😝 [People Offering Prayers At River Yamuna, India, Which Is Frothing From Industrial Waste](http://9gag.com/gag/aRBByKA)
+ - 💣 [Wait, coke instead of sugar was an option!](http://9gag.com/gag/a0eeOEB)
+ - 😝 [A lovely night in thailand part 1](http://9gag.com/gag/aGyyoEn)
+ - 👉 [My man](http://9gag.com/gag/aW442X4)<!-- MEMES:END -->
 
 ---
 

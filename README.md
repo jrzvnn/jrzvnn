@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Name a more dynamic duo! I\u2019ll wait!](http://9gag.com/gag/abAAR5E)
- - 😝 [Make education legal again](http://9gag.com/gag/a877XwY)
- - 💣 [Never do free sample in China.](http://9gag.com/gag/ajPPM1G)
+ - 😝 [Never do free sample in China.](http://9gag.com/gag/ajPPM1G)
+ - 😝 [Slow down ubi, your savior ac shadow is not even out yet](http://9gag.com/gag/a2vv9MZ)
+ - 💣 [We are idiots](http://9gag.com/gag/aByyvwz)
  - 😝 [Lade Summoners War jetzt herunter und hol dir Gyomei Himejima kostenlos!](http://9gag.com/gag/aBydObO)
- - 👉 [Utopia, the Experiment](http://9gag.com/gag/ajPPG80)<!-- MEMES:END -->
+ - 👉 [200 iq move](http://9gag.com/gag/aByyvQD)<!-- MEMES:END -->
 
 ---
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [These Guatemalan Police officers are completely out of it. All in a day&#39;s work.](http://9gag.com/gag/axyy4zb)
- - 😝 [Wait, coke instead of sugar was an option!](http://9gag.com/gag/a0eeOEB)
- - 💣 [Dafuk?](http://9gag.com/gag/aE00Z2e)
- - 😝 [Classic Bond.](http://9gag.com/gag/a0eexDL)
- - 👉 [Be quite](http://9gag.com/gag/aLnnd5A)<!-- MEMES:END -->
+ - 😝 [Dude almost kills a kid by speeding down a mountain.](http://9gag.com/gag/a7ooAEq)
+ - 😝 [Mmmm Bobbehhh](http://9gag.com/gag/aByyXjP)
+ - 💣 [These Guatemalan Police officers are completely out of it. All in a day&#39;s work.](http://9gag.com/gag/axyy4zb)
+ - 😝 [Dafuk?](http://9gag.com/gag/aE00Z2e)
+ - 👉 [People Offering Prayers At River Yamuna, India, Which Is Frothing From Industrial Waste](http://9gag.com/gag/aRBByKA)<!-- MEMES:END -->
 
 ---
 

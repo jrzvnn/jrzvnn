@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [KuCoin pleads guilty to having an unlicensed money transmitting business, agreeing to ~$300M in fines and forfeitures, in a case brought by US federal attorneys &lpar;Bloomberg&rpar;](http://www.techmeme.com/250127/p23#a250127p23)
+ - [Sony reduces OLED burn-in fears with a three-year warranty on InZone monitors](https://www.theverge.com/2025/1/27/24353227/sony-m10s-inzone-oled-burn-in-warranty)
  - [A new Chinese AI app tops the App Store, but its meteoric rise could be short-lived](https://appleinsider.com/articles/25/01/27/a-new-chinese-ai-app-tops-the-app-store-but-its-meteoric-rise-could-be-short-lived?utm_medium=rss)
  - [Now Apple tells us how to update AirPods](https://www.theverge.com/2025/1/27/24353246/apple-airpods-pro-max-headphones-update-firmware-how-to)
- - [Best Bluetooth Speaker for 2025](https://www.cnet.com/tech/home-entertainment/best-bluetooth-speaker/#ftag=CAD590a51e)
- - [Best Gaming Laptop for 2025](https://www.cnet.com/tech/computing/best-gaming-laptop/#ftag=CAD590a51e)
- - [Nvidia&#39;s stock drops 16.86%, closing at $118.58, dropping nearly $600B in market cap, more than twice as much as any US company has ever dropped in a single day &lpar;Samantha Subin/CNBC&rpar;](http://www.techmeme.com/250127/p22#a250127p22)<!-- TECH:END -->
+ - [Best Bluetooth Speaker for 2025](https://www.cnet.com/tech/home-entertainment/best-bluetooth-speaker/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

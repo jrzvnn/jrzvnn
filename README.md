@@ -168,9 +168,9 @@ R                        1 repo              ░░░░░░░░░░░�
 <!-- MEMES:START -->
  - 😝 [The `fair` media](http://9gag.com/gag/a5QQDWO)
  - 😝 [Skynet is closer than you think](http://9gag.com/gag/a344pwv)
- - 💣 [UBI IS NOW DLETING ANY VIDEO AGAINST AC SHADOWS COZ ITS `HATE SPEECH`](http://9gag.com/gag/apRRzB5)
+ - 💣 [Show a little patience.](http://9gag.com/gag/aLnnNex)
  - 😝 [Lade Summoners War jetzt herunter und hol dir Gyomei Himejima kostenlos!](http://9gag.com/gag/aBydObO)
- - 👉 [Show a little patience.](http://9gag.com/gag/aLnnNex)<!-- MEMES:END -->
+ - 👉 [Prop Hunt](http://9gag.com/gag/aKGGNA3)<!-- MEMES:END -->
 
 ---
 

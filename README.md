@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [DeepSeek debuts a family of multimodal, MIT-licensed open-source models including Janus-Pro-7B, which it claims beats OpenAI&#39;s DALL-E 3 in GenEval and DPG-Bench &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/250127/p16#a250127p16)
- - [Meta AI will use its ‘memory’ to provide better recommendations](https://www.theverge.com/2025/1/27/24352992/meta-ai-memory-personalization)
- - [Blowout deal: M3 Pro MacBook Pro 14-inch with 36GB RAM plunges to $1,649](https://appleinsider.com/articles/25/01/27/blowout-deal-m3-pro-macbook-pro-14-inch-with-36gb-ram-plunges-to-1649?utm_medium=rss)
- - [Apple’s Sports app now tells you where you can watch nationally broadcast games](https://www.theverge.com/2025/1/27/24353035/apple-sports-app-ios-iphone-broadcast-information-where-to-watch)
- - [You can grab a refurbished 2021 Kindle Paperwhite starting at $90](https://www.theverge.com/2025/1/27/24352997/kindle-paperwhite-2021-amazon-e-reader-deal-sale)<!-- TECH:END -->
+ - [Apple rolls out watchOS 11.3, primarily focusing on bug fixes](https://appleinsider.com/articles/25/01/27/apple-rolls-out-watchos-113-primarily-focusing-on-bug-fixes?utm_medium=rss)
+ - [visionOS 2.3 has bug fixes, and not a lot more](https://appleinsider.com/articles/25/01/27/visionos-23-has-bug-fixes-and-not-a-lot-more?utm_medium=rss)
+ - [Apple pushes tvOS 18.3 public, focusing on stability and bug fixes](https://appleinsider.com/articles/25/01/27/apple-pushes-tvos-183-public-focusing-on-stability-and-bug-fixes?utm_medium=rss)
+ - [Meta says Meta AI will now use account info from across Meta&#39;s apps to give personalized suggestions; users can also ask Meta AI to &quot;remember&quot; specific things &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/250127/p17#a250127p17)
+ - [Image Playground improvements and notification changes arrive with macOS Sequoia 15.3](https://appleinsider.com/articles/25/01/27/image-playground-improvements-and-notification-changes-arrive-with-macos-sequoia-153?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [My man](http://9gag.com/gag/aW442X4)
- - 😝 [What happens when the South African government does farm redistribution](http://9gag.com/gag/a6ZZ3XR)
- - 💣 [200 iq move](http://9gag.com/gag/aByyvQD)
+ - 😝 [How much are u gay? yes!](http://9gag.com/gag/an77DA0)
+ - 😝 [We are idiots](http://9gag.com/gag/aByyvwz)
+ - 💣 [People Offering Prayers At River Yamuna, India, Which Is Frothing From Industrial Waste](http://9gag.com/gag/aRBByKA)
  - 😝 [Lade Summoners War jetzt herunter und hol dir Gyomei Himejima kostenlos!](http://9gag.com/gag/aBydObO)
- - 👉 [A lovely night in thailand part 1](http://9gag.com/gag/aGyyoEn)<!-- MEMES:END -->
+ - 👉 [Dafuk?](http://9gag.com/gag/aE00Z2e)<!-- MEMES:END -->
 
 ---
 

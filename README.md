@@ -158,10 +158,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- TECH:START -->
  - [How to Turn Off Apple Intelligence on an iPhone, iPad, and Mac](https://www.wired.com/story/how-to-turn-off-apple-intelligence/)
- - [Best Internet Providers in Philadelphia, Pennsylvania](https://www.cnet.com/home/internet/best-internet-providers-in-philadelphia-pa/#ftag=CAD590a51e)
- - [Best Internet Providers in Palm Springs, California](https://www.cnet.com/home/internet/best-internet-providers-in-palm-springs-ca/#ftag=CAD590a51e)
- - [Best WordPress Hosting of 2025](https://www.cnet.com/tech/services-and-software/best-wordpress-hosting/#ftag=CAD590a51e)
- - [&#39;Severance&#39; title sequence has more drama and plot clues than most shows](https://appleinsider.com/articles/25/01/27/severance-title-sequence-has-more-drama-and-plot-clues-than-most-shows?utm_medium=rss)<!-- TECH:END -->
+ - [&#39;Severance&#39; title sequence has more drama and plot clues than most shows](https://appleinsider.com/articles/25/01/27/severance-title-sequence-has-more-drama-and-plot-clues-than-most-shows?utm_medium=rss)
+ - [iOS 18.3 is out with tweaks to AI notification summaries](https://www.theverge.com/2025/1/27/24353079/ios-18-3-launch-notification-summaries-apple-intelligence-default)
+ - [Best iPhone in 2025: Here&#39;s Which Apple Phone You Should You Buy](https://www.cnet.com/tech/mobile/best-iphone/#ftag=CAD590a51e)
+ - [Apple releases iOS 18.3, iPadOS 18.3, and macOS 15.3, enabling Apple Intelligence by default on supported devices but disabling AI summaries for news apps &lpar;Kif Leswing/CNBC&rpar;](http://www.techmeme.com/250127/p19#a250127p19)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

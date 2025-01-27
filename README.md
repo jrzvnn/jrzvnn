@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [An in-depth look at DeepSeek: DeepSeekMoE and DeepSeekMLA, cheap V3 training, the US chip ban, &quot;distillation&quot; from other models, Nvidia impact, AGI, and more &lpar;Ben Thompson/Stratechery&rpar;](http://www.techmeme.com/250127/p12#a250127p12)
  - [Cancer research startup Manas AI, founded by Reid Hoffman and researcher Siddhartha Mukherjee, raised $24.6M to focus on breast and prostate cancer and lymphoma &lpar;Berber Jin/Wall Street Journal&rpar;](http://www.techmeme.com/250127/p11#a250127p11)
  - [Apple Watch crucial to rescue of skiers who fell 1,000 feet down a mountain](https://appleinsider.com/articles/25/01/27/apple-watch-crucial-to-rescue-of-skiers-who-fell-1000-feet-down-a-mountain?utm_medium=rss)
  - [13 Best Electric Kettles &lpar;2025&rpar;, Tested and Reviewed](https://www.wired.com/gallery/best-electric-kettles/)
- - [China’s DeepSeek AI is hitting Nvidia where it hurts](https://www.theverge.com/2025/1/27/24352801/deepseek-ai-chatbot-chatgpt-ios-app-store)
- - [M. Night Shyamalan beats $81 million plagiarism accusation over &#39;Servant&#39;](https://appleinsider.com/articles/25/01/27/m-night-shyamalan-beats-81-million-plagiarism-accusation-over-servant?utm_medium=rss)<!-- TECH:END -->
+ - [China’s DeepSeek AI is hitting Nvidia where it hurts](https://www.theverge.com/2025/1/27/24352801/deepseek-ai-chatbot-chatgpt-ios-app-store)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

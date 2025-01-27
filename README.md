@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Ahh, finally](http://9gag.com/gag/a0eex4d)
- - 😝 [Title](http://9gag.com/gag/a4PPw2Z)
- - 💣 [This is more difficult than it looks](http://9gag.com/gag/aGyyo8K)
- - 😝 [Shopkeeper wanted him to have the full experience](http://9gag.com/gag/a877zoO)
- - 👉 [Cool wife who loves you and supports your passion. And second dopest basement ever](http://9gag.com/gag/aW44Ren)<!-- MEMES:END -->
+ - 😝 [Classic Bond.](http://9gag.com/gag/a0eexDL)
+ - 😝 [Go Neil](http://9gag.com/gag/a9yyX00)
+ - 💣 [My man](http://9gag.com/gag/aW442X4)
+ - 😝 [Name a more dynamic duo! I\u2019ll wait!](http://9gag.com/gag/abAAR5E)
+ - 👉 [That&#39;s a lot of H.](http://9gag.com/gag/aD22MMN)<!-- MEMES:END -->
 
 ---
 

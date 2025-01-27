@@ -167,10 +167,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [Never do free sample in China.](http://9gag.com/gag/ajPPM1G)
- - 😝 [Slow down ubi, your savior ac shadow is not even out yet](http://9gag.com/gag/a2vv9MZ)
- - 💣 [We are idiots](http://9gag.com/gag/aByyvwz)
+ - 😝 [It&#39;s hammer time!](http://9gag.com/gag/aAyyNRp)
+ - 💣 [After a 16-year-old boy was murdered, his friends brought his coffin to the spot where he always played football and helped him score one final goal.](http://9gag.com/gag/a1mmwD8)
  - 😝 [Lade Summoners War jetzt herunter und hol dir Gyomei Himejima kostenlos!](http://9gag.com/gag/aBydObO)
- - 👉 [200 iq move](http://9gag.com/gag/aByyvQD)<!-- MEMES:END -->
+ - 👉 [We are idiots](http://9gag.com/gag/aByyvwz)<!-- MEMES:END -->
 
 ---
 

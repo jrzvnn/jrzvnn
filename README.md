@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [He finished her\ud83d\udc80](http://9gag.com/gag/a9yyBZL)
- - 😝 [Officer Saves Dog From Burning Vehicle](http://9gag.com/gag/a1mmEAG)
+ - 😝 [These Guatemalan Police officers are completely out of it. All in a day&#39;s work.](http://9gag.com/gag/axyy4zb)
+ - 😝 [Wait, coke instead of sugar was an option!](http://9gag.com/gag/a0eeOEB)
  - 💣 [Dafuk?](http://9gag.com/gag/aE00Z2e)
- - 😝 [Dude almost kills a kid by speeding down a mountain.](http://9gag.com/gag/a7ooAEq)
- - 👉 [IRONY MAN](http://9gag.com/gag/avyyvD5)<!-- MEMES:END -->
+ - 😝 [Classic Bond.](http://9gag.com/gag/a0eexDL)
+ - 👉 [Be quite](http://9gag.com/gag/aLnnd5A)<!-- MEMES:END -->
 
 ---
 

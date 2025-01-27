@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Colombian President Petro sending his presidential plane to pick up the illegals from the U.S. 45 minutes after Trump imposed tariffs, sanctions on Colombia](http://9gag.com/gag/a2vvxxE)
- - 😝 [200 iq move](http://9gag.com/gag/aByyvQD)
- - 💣 [Cool wife who loves you and supports your passion. And second dopest basement ever](http://9gag.com/gag/aW44Ren)
+ - 😝 [My man](http://9gag.com/gag/aW442X4)
+ - 😝 [What happens when the South African government does farm redistribution](http://9gag.com/gag/a6ZZ3XR)
+ - 💣 [200 iq move](http://9gag.com/gag/aByyvQD)
  - 😝 [Lade Summoners War jetzt herunter und hol dir Gyomei Himejima kostenlos!](http://9gag.com/gag/aBydObO)
- - 👉 [Shopkeeper wanted him to have the full experience](http://9gag.com/gag/a877zoO)<!-- MEMES:END -->
+ - 👉 [A lovely night in thailand part 1](http://9gag.com/gag/aGyyoEn)<!-- MEMES:END -->
 
 ---
 

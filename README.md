@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Dude almost kills a kid by speeding down a mountain.](http://9gag.com/gag/a7ooAEq)
- - 😝 [Mmmm Bobbehhh](http://9gag.com/gag/aByyXjP)
- - 💣 [These Guatemalan Police officers are completely out of it. All in a day&#39;s work.](http://9gag.com/gag/axyy4zb)
- - 😝 [Dafuk?](http://9gag.com/gag/aE00Z2e)
- - 👉 [People Offering Prayers At River Yamuna, India, Which Is Frothing From Industrial Waste](http://9gag.com/gag/aRBByKA)<!-- MEMES:END -->
+ - 😝 [A lovely night in thailand part 1](http://9gag.com/gag/aGyyoEn)
+ - 😝 [EA&#39;s downfall brings so much happiness](http://9gag.com/gag/an77D0z)
+ - 💣 [Go Neil](http://9gag.com/gag/a9yyX00)
+ - 😝 [Warriors assemble](http://9gag.com/gag/a6ZZG6A)
+ - 👉 [These Guatemalan Police officers are completely out of it. All in a day&#39;s work.](http://9gag.com/gag/axyy4zb)<!-- MEMES:END -->
 
 ---
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [A look at the surveillance tech that could power Trump&#39;s immigration crackdown; a review of 15K+ contracts shows ICE and USCIS spent $7.8B on tech since 2020 &lpar;New York Times&rpar;](http://www.techmeme.com/250127/p8#a250127p8)
  - [US tech stocks fell sharply pre-market over DeepSeek concerns, with NVDA down 8%+ and META and MSFT down 3%; ASML fell 9%+; Japanese chip companies also dropped &lpar;Financial Times&rpar;](http://www.techmeme.com/250127/p7#a250127p7)
  - [DeepSeek&#39;s iOS app is now #1 on the App Store&#39;s Top Free Apps chart in the US, ahead of ChatGPT, stirring doubts in Silicon Valley about the US&#39; AI lead &lpar;Bloomberg&rpar;](http://www.techmeme.com/250127/p5#a250127p5)
  - [iPhone SE 4 appears in new photos and video, notch and all](https://www.theverge.com/2025/1/27/24352767/iphone-se-4-leak-photos-videos-dummy-notch-dynamic-island-camera)
- - [A profile of French health insurer Alan&#39;s CEO Jean Charles Samuelian-Werve, a Mistral board member who claims credit for securing most of Mistral&#39;s backers &lpar;Bloomberg&rpar;](http://www.techmeme.com/250127/p4#a250127p4)
- - [Best Teeth Whitening Strips of 2025](https://www.cnet.com/health/personal-care/best-teeth-whitening-strips/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [A profile of French health insurer Alan&#39;s CEO Jean Charles Samuelian-Werve, a Mistral board member who claims credit for securing most of Mistral&#39;s backers &lpar;Bloomberg&rpar;](http://www.techmeme.com/250127/p4#a250127p4)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [A look at China&#39;s booming crypto market, with Chinese traders using VPNs, overseas shell companies, and peer-to-peer networks to circumvent China&#39;s crackdown &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/250127/p3#a250127p3)
  - [Court filing: Indian digital news firms, including NDTV, Network18, and Hindustan Times, join a copyright lawsuit against OpenAI, first filed by ANI in 2024 &lpar;Reuters&rpar;](http://www.techmeme.com/250127/p2#a250127p2)
  - [DeepSeek&#39;s use of commodity, disconnected hardware and open-source design is enough of a shot at AI hyper scaling that it could be &quot;the way things will go&quot; &lpar;Steven Sinofsky/@stevesi&rpar;](http://www.techmeme.com/250127/p1#a250127p1)
  - [Best Tower Fan for 2025](https://www.cnet.com/home/kitchen-and-household/best-tower-fan/#ftag=CAD590a51e)
- - [Best Sports Drinks of 2025](https://www.cnet.com/health/fitness/best-sports-drinks/#ftag=CAD590a51e)
- - [Some Japanese stocks drop amid DeepSeek anxiety; Advantest, an Nvidia supplier of testing equipment, drops 7%+; datacenter cable company Fujikura drops 9%+ &lpar;Bloomberg&rpar;](http://www.techmeme.com/250126/p16#a250126p16)<!-- TECH:END -->
+ - [Best Sports Drinks of 2025](https://www.cnet.com/health/fitness/best-sports-drinks/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

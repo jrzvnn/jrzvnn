@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Never do free sample in China.](http://9gag.com/gag/ajPPM1G)
- - 😝 [It&#39;s hammer time!](http://9gag.com/gag/aAyyNRp)
- - 💣 [After a 16-year-old boy was murdered, his friends brought his coffin to the spot where he always played football and helped him score one final goal.](http://9gag.com/gag/a1mmwD8)
+ - 😝 [Prop Hunt](http://9gag.com/gag/aKGGNA3)
+ - 😝 [Show a little patience.](http://9gag.com/gag/aLnnNex)
+ - 💣 [....and became a snow bunny](http://9gag.com/gag/aD22r67)
  - 😝 [Lade Summoners War jetzt herunter und hol dir Gyomei Himejima kostenlos!](http://9gag.com/gag/aBydObO)
- - 👉 [We are idiots](http://9gag.com/gag/aByyvwz)<!-- MEMES:END -->
+ - 👉 [UBI IS NOW DLETING ANY VIDEO AGAINST AC SHADOWS COZ ITS `HATE SPEECH`](http://9gag.com/gag/apRRzB5)<!-- MEMES:END -->
 
 ---
 

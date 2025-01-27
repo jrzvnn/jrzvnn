@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [My man](http://9gag.com/gag/aW442X4)
- - 😝 [That&#39;s a lot of H.](http://9gag.com/gag/aD22MMN)
- - 💣 [Dafuk?](http://9gag.com/gag/aE00Z2e)
- - 😝 [Golden moment \ud83e\udd47\ud83e\udd47](http://9gag.com/gag/azxxZ2Z)
- - 👉 [IRONY MAN](http://9gag.com/gag/avyyvD5)<!-- MEMES:END -->
+ - 😝 [People Offering Prayers At River Yamuna, India, Which Is Frothing From Industrial Waste](http://9gag.com/gag/aRBByKA)
+ - 😝 [Dafuk?](http://9gag.com/gag/aE00Z2e)
+ - 💣 [That&#39;s a lot of H.](http://9gag.com/gag/aD22MMN)
+ - 😝 [200 iq move](http://9gag.com/gag/aByyvQD)
+ - 👉 [A lovely night in thailand part 1](http://9gag.com/gag/aGyyoEn)<!-- MEMES:END -->
 
 ---
 

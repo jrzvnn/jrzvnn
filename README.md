@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [My man](http://9gag.com/gag/aW442X4)
- - 😝 [People Offering Prayers At River Yamuna, India, Which Is Frothing From Industrial Waste](http://9gag.com/gag/aRBByKA)
- - 💣 [Don&#39;t know how rich people end up committing crimes!!](http://9gag.com/gag/abAAQOE)
- - 😝 [Man carries out maintenance work in own garage](http://9gag.com/gag/aMVVy9X)
- - 👉 [These Guatemalan Police officers are completely out of it. All in a day&#39;s work.](http://9gag.com/gag/axyy4zb)<!-- MEMES:END -->
+ - 😝 [These Guatemalan Police officers are completely out of it. All in a day&#39;s work.](http://9gag.com/gag/axyy4zb)
+ - 😝 [Dafuk?](http://9gag.com/gag/aE00Z2e)
+ - 💣 [We are idiots](http://9gag.com/gag/aByyvwz)
+ - 😝 [200 iq move](http://9gag.com/gag/aByyvQD)
+ - 👉 [People Offering Prayers At River Yamuna, India, Which Is Frothing From Industrial Waste](http://9gag.com/gag/aRBByKA)<!-- MEMES:END -->
 
 ---
 

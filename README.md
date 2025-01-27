@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Cancer research startup Manas AI, founded by Reid Hoffman and researcher Siddhartha Mukherjee, raised $24.6M to focus on breast and prostate cancer and lymphoma &lpar;Berber Jin/Wall Street Journal&rpar;](http://www.techmeme.com/250127/p11#a250127p11)
+ - [Apple Watch crucial to rescue of skiers who fell 1,000 feet down a mountain](https://appleinsider.com/articles/25/01/27/apple-watch-crucial-to-rescue-of-skiers-who-fell-1000-feet-down-a-mountain?utm_medium=rss)
+ - [13 Best Electric Kettles &lpar;2025&rpar;, Tested and Reviewed](https://www.wired.com/gallery/best-electric-kettles/)
  - [China’s DeepSeek AI is hitting Nvidia where it hurts](https://www.theverge.com/2025/1/27/24352801/deepseek-ai-chatbot-chatgpt-ios-app-store)
- - [M. Night Shyamalan beats $81 million plagiarism accusation over &#39;Servant&#39;](https://appleinsider.com/articles/25/01/27/m-night-shyamalan-beats-81-million-plagiarism-accusation-over-servant?utm_medium=rss)
- - [iPhone 16 Pro Max vs. Galaxy S24 Ultra Camera Comparison: Which Takes Better Photos?](https://www.cnet.com/tech/mobile/iphone-16-pro-max-vs-galaxy-s24-ultra-camera-comparison-which-takes-better-photos/#ftag=CAD590a51e)
- - [Looking back at 15 years of the iPad, Apple&#39;s revolutionary tablet](https://appleinsider.com/articles/20/04/03/looking-back-at-10-years-of-the-ipad-apples-revolutionary-tablet?utm_medium=rss)
- - [Best Internet Providers in Lawrenceville, Georgia](https://www.cnet.com/home/internet/best-internet-providers-in-lawrenceville-ga/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [M. Night Shyamalan beats $81 million plagiarism accusation over &#39;Servant&#39;](https://appleinsider.com/articles/25/01/27/m-night-shyamalan-beats-81-million-plagiarism-accusation-over-servant?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

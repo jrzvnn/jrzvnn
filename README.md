@@ -158,10 +158,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- TECH:START -->
  - [Some Japanese stocks drop amid DeepSeek anxiety; Advantest, an Nvidia supplier of testing equipment, drops 7%+; datacenter cable company Fujikura drops 9%+ &lpar;Bloomberg&rpar;](http://www.techmeme.com/250126/p16#a250126p16)
- - [Best Internet Providers in Pasadena, California](https://www.cnet.com/home/internet/best-internet-providers-in-pasadena-ca/#ftag=CAD590a51e)
- - [Best Power Bank for iPhones in 2025](https://www.cnet.com/tech/mobile/best-power-bank-for-iphone/#ftag=CAD590a51e)
- - [Best Internet Providers in Missoula, Montana](https://www.cnet.com/home/internet/best-internet-providers-in-missoula-mt/#ftag=CAD590a51e)
- - [Pixel 9 Pro Fold vs. Galaxy Z Fold 6 Camera Showdown: It&#39;s Complicated](https://www.cnet.com/tech/mobile/pixel-9-pro-fold-vs-galaxy-z-fold-6-camera-showdown-its-complicated/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Best Vitamins for Energy in 2025](https://www.cnet.com/health/nutrition/best-vitamins-for-energy/#ftag=CAD590a51e)
+ - [Best Cheap Vacuums for 2025](https://www.cnet.com/home/kitchen-and-household/best-cheap-vacuums/#ftag=CAD590a51e)
+ - [Best Home Security Cameras for Apple HomeKit and Siri in 2025](https://www.cnet.com/home/security/best-home-security-cameras-for-apple-homekit-and-siri/#ftag=CAD590a51e)
+ - [Today&#39;s NYT Mini Crossword Answers for Monday, Jan. 27](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-monday-jan-27/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

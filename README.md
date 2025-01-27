@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Alibaba&#39;s Qwen team releases Qwen2.5-VL, a new series of AI models that can control PCs and phones, as well as perform a number of text and image analysis tasks &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/250127/p24#a250127p24)
+ - [How an Indie Studio Got 400-Plus Games Into a $10 Bundle to Help LA Fire Victims](https://www.wired.com/story/game-bundle-los-angeles-wildfire-efforts/)
  - [TGL 2025: How to Watch and Stream Tomorrow&#39;s Golf League From Anywhere](https://www.cnet.com/tech/services-and-software/tgl-2025-how-to-watch-and-stream-tomorrows-golf-league-from-anywhere/#ftag=CAD590a51e)
  - [Best Laptop for College Students: Top Laptops for School in 2025](https://www.cnet.com/tech/computing/best-laptop-for-college/#ftag=CAD590a51e)
- - [&#39;Marvel Snap&#39; can once again be downloaded from the US App Store](https://appleinsider.com/articles/25/01/27/marvel-snap-can-once-again-be-downloaded-from-the-us-app-store?utm_medium=rss)
- - [Best Mattress Toppers for 2025, Tested by Our Sleep Experts](https://www.cnet.com/health/sleep/best-mattress-toppers/#ftag=CAD590a51e)
- - [DeepSeek’s Popular AI App Is Explicitly Sending US Data to China](https://www.wired.com/story/deepseek-ai-china-privacy-data/)<!-- TECH:END -->
+ - [&#39;Marvel Snap&#39; can once again be downloaded from the US App Store](https://appleinsider.com/articles/25/01/27/marvel-snap-can-once-again-be-downloaded-from-the-us-app-store?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

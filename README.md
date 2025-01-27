@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [A lovely night in thailand part 1](http://9gag.com/gag/aGyyoEn)
- - 😝 [EA&#39;s downfall brings so much happiness](http://9gag.com/gag/an77D0z)
- - 💣 [Go Neil](http://9gag.com/gag/a9yyX00)
- - 😝 [Warriors assemble](http://9gag.com/gag/a6ZZG6A)
- - 👉 [These Guatemalan Police officers are completely out of it. All in a day&#39;s work.](http://9gag.com/gag/axyy4zb)<!-- MEMES:END -->
+ - 😝 [My man](http://9gag.com/gag/aW442X4)
+ - 😝 [That&#39;s a lot of H.](http://9gag.com/gag/aD22MMN)
+ - 💣 [Dafuk?](http://9gag.com/gag/aE00Z2e)
+ - 😝 [Golden moment \ud83e\udd47\ud83e\udd47](http://9gag.com/gag/azxxZ2Z)
+ - 👉 [IRONY MAN](http://9gag.com/gag/avyyvD5)<!-- MEMES:END -->
 
 ---
 

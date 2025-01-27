@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [A lovely night in thailand part 1](http://9gag.com/gag/aGyyoEn)
- - 😝 [People Offering Prayers At River Yamuna, India, Which Is Frothing From Industrial Waste](http://9gag.com/gag/aRBByKA)
- - 💣 [Mmmm Bobbehhh](http://9gag.com/gag/aByyXjP)
- - 😝 [Classic Bond.](http://9gag.com/gag/a0eexDL)
- - 👉 [Wait, coke instead of sugar was an option!](http://9gag.com/gag/a0eeOEB)<!-- MEMES:END -->
+ - 😝 [He finished her\ud83d\udc80](http://9gag.com/gag/a9yyBZL)
+ - 😝 [Officer Saves Dog From Burning Vehicle](http://9gag.com/gag/a1mmEAG)
+ - 💣 [Dafuk?](http://9gag.com/gag/aE00Z2e)
+ - 😝 [Dude almost kills a kid by speeding down a mountain.](http://9gag.com/gag/a7ooAEq)
+ - 👉 [IRONY MAN](http://9gag.com/gag/avyyvD5)<!-- MEMES:END -->
 
 ---
 

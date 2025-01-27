@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Source: Perplexity AI revises its TikTok US merger proposal, which now allows for the US government to own up to 50% of the new company upon a future IPO &lpar;Hayden Field/CNBC&rpar;](http://www.techmeme.com/250126/p15#a250126p15)
+ - [Brazil&#39;s data protection authority ruled that Tools for Humanity, cofounded by Sam Altman, must stop offering compensation for iris scans in the country &lpar;Reuters&rpar;](http://www.techmeme.com/250126/p14#a250126p14)
+ - [Best Chemical Drain Cleaners for 2025](https://www.cnet.com/news/best-chemical-drain-cleaners/#ftag=CAD590a51e)
  - [DeepSeek&#39;s iOS app is now #1 on the &quot;Top Free Apps&quot; chart in Apple&#39;s App Store in the US, just ahead of ChatGPT &lpar;Anthony Ha/TechCrunch&rpar;](http://www.techmeme.com/250126/p13#a250126p13)
- - [Sources: Meta set up four war rooms to analyze DeepSeek&#39;s tech, two focusing on how High-Flyer reduced training costs, one on what data High-Flyer may have used &lpar;The Information&rpar;](http://www.techmeme.com/250126/p12#a250126p12)
- - [Always Smell Your Coffee: An Expert Explains the Biggest Brewing Mistakes](https://www.cnet.com/news/always-smell-your-coffee-an-expert-explains-the-biggest-brewing-mistakes/#ftag=CAD590a51e)
- - [Best Snack Box Subscriptions for 2025](https://www.cnet.com/news/best-snack-subscription-boxes/#ftag=CAD590a51e)
- - [Betting data from Illinois, New Jersey, and Colorado shows how parlays are driving revenue growth for FanDuel, DraftKings, and other US sports betting companies &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/250126/p11#a250126p11)<!-- TECH:END -->
+ - [Best Reusable Water Bottles in 2025](https://www.cnet.com/health/best-water-bottle/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

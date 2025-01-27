@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Scammers Are Creating Fake News Videos to Blackmail Victims](https://www.wired.com/story/scammers-are-creating-fake-news-videos-to-blackmail-victims/)
  - [At Davos, AI leaders clashed over safety concerns and the $100B Stargate project; Demis Hassabis and Anthropic co-founder Dario Amodei reiterated stark warnings &lpar;Stephen Morris/Financial Times&rpar;](http://www.techmeme.com/250127/p10#a250127p10)
  - [Here It Is, the Worst Slack Bug](https://www.wired.com/story/slack-bug-share-dm-history/)
  - [How DeepSeek outpaced OpenAI at 3% of the cost: open-source approach, pure reinforcement learning, not supervised fine-tuning, and building on DeepSeek-R1-Zero &lpar;Matt Marshall/VentureBeat&rpar;](http://www.techmeme.com/250127/p9#a250127p9)
- - [Claimed iPhone SE 4 dummy units show notch instead of Dynamic Island](https://appleinsider.com/articles/25/01/27/claimed-iphone-se-4-dummy-units-show-notch-instead-of-dynamic-island?utm_medium=rss)
- - [A look at the surveillance tech that could power Trump&#39;s immigration crackdown; a review of 15K+ contracts shows ICE and USCIS spent $7.8B on tech since 2020 &lpar;New York Times&rpar;](http://www.techmeme.com/250127/p8#a250127p8)<!-- TECH:END -->
+ - [Claimed iPhone SE 4 dummy units show notch instead of Dynamic Island](https://appleinsider.com/articles/25/01/27/claimed-iphone-se-4-dummy-units-show-notch-instead-of-dynamic-island?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

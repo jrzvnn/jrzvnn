@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [New Spotify and UMG deal could create pricier ‘superfan’ subscription](https://www.theverge.com/2025/1/27/24352993/spotify-universal-music-publishing-direct-agreement-deal-superfan-new-subscriptions)
  - [DeepSeek says it&#39;s temporarily limiting new user registrations &quot;due to large-scale malicious attacks&quot; on its services &lpar;Hayden Field/CNBC&rpar;](http://www.techmeme.com/250127/p15#a250127p15)
  - [Apple brings TV broadcast info and more soccer coverage to Apple Sports](https://appleinsider.com/articles/25/01/27/apple-brings-tv-broadcast-info-and-more-soccer-coverage-to-apple-sports?utm_medium=rss)
  - [Genesis turned the GV60 into a snowmobile because it can](https://www.theverge.com/2025/1/27/24352959/genesis-gv60-miv-rescue-snowmobile-concept)
- - [You can get an Apple Watch Series 10 for its lowest price yet](https://www.theverge.com/2025/1/27/24352841/apple-watch-series-10-donkey-kong-returns-hd-switch-game-deal-sale)
- - [8 Best Deals on Valentine’s Day Gifts &lpar;2025&rpar;](https://www.wired.com/story/valentines-day-deals-2025/)<!-- TECH:END -->
+ - [You can get an Apple Watch Series 10 for its lowest price yet](https://www.theverge.com/2025/1/27/24352841/apple-watch-series-10-donkey-kong-returns-hd-switch-game-deal-sale)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

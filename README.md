@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Apple&#39;s iPad mini 7 is back on sale for $399 in month-end price war](https://appleinsider.com/articles/25/01/27/apples-ipad-mini-7-is-back-on-sale-for-399-in-month-end-price-war?utm_medium=rss)
+ - [Apple&#39;s Black Unity Apple Watch band uses a color-changing loop effect](https://appleinsider.com/articles/25/01/27/apples-black-unity-apple-watch-band-uses-a-color-changing-loop-effect?utm_medium=rss)
  - [Slack’s Monday morning notification mess](https://www.theverge.com/2025/1/27/24352892/slack-outage-notifications-messages-threads)
  - [How Ciena keeps the internet online, with CEO Gary Smith](https://www.theverge.com/24351247/ciena-fiber-optic-internet-subsea-cables-wdm-ai-hyperscale-data-decoder-podcast-interview)
- - [25 years of Apple&#39;s innovation in selling technology](https://appleinsider.com/articles/25/01/27/25-years-of-apples-innovation-in-selling-technology?utm_medium=rss)
- - [Apple&#39;s Black Unity Apple Watch band uses a color-changing loop effect](https://appleinsider.com/articles/25/01/27/apples-black-unity-apple-watch-band-uses-a-color-changing-loop-effect?utm_medium=rss)
- - [Should you upgrade to Matter, security system discussion, &amp; Tonie Box review on HomeKit Insider](https://appleinsider.com/articles/25/01/27/should-you-upgrade-to-matter-security-system-discussion-tonie-box-review-on-homekit-insider?utm_medium=rss)<!-- TECH:END -->
+ - [25 years of Apple&#39;s innovation in selling technology](https://appleinsider.com/articles/25/01/27/25-years-of-apples-innovation-in-selling-technology?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Nvidia calls DeepSeek&#39;s work &quot;an excellent AI advancement&quot;, reiterating &quot;inference requires significant numbers of NVIDIA GPUs and high-performance networking&quot; &lpar;Kif Leswing/CNBC&rpar;](http://www.techmeme.com/250127/p21#a250127p21)
+ - [Don&#39;t wait to update: iOS 18.3 addresses an actively exploited vulnerability](https://appleinsider.com/articles/25/01/27/dont-wait-to-update-ios-183-addresses-an-actively-exploited-vulnerability?utm_medium=rss)
  - [iPadOS 18.3 is here with bug fixes and Apple Intelligence changes](https://appleinsider.com/articles/25/01/27/ipados-183-is-here-with-bug-fixes-and-apple-intelligence-changes?utm_medium=rss)
  - [Google open sources PebbleOS, paving the way for more smartwatch hardware; Pebble founder Eric Migicovsky aims to develop a new smartwatch &lpar;Brian Heater/TechCrunch&rpar;](http://www.techmeme.com/250127/p20#a250127p20)
- - [Best 43-Inch TV for 2025](https://www.cnet.com/tech/home-entertainment/best-43-inch-tv/#ftag=CAD590a51e)
- - [DeepSeek: all the news about the startup that’s shaking up AI stocks](https://www.theverge.com/24353060/deepseek-ai-china-nvidia-openai)
- - [Save Up to $440 on Tech, Kitchen Gadgets and More During Best Buy’s 48-Hour Flash Sale](https://www.cnet.com/deals/save-up-to-440-on-tech-kitchen-gadgets-and-more-during-best-buys-48-hour-flash-sale/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Best 43-Inch TV for 2025](https://www.cnet.com/tech/home-entertainment/best-43-inch-tv/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

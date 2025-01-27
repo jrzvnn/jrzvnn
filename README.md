@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Blowout deal: M3 Pro MacBook Pro 14-inch with 36GB RAM plunges to $1,649](https://appleinsider.com/articles/25/01/27/blowout-deal-m3-pro-macbook-pro-14-inch-with-36gb-ram-plunges-to-1649?utm_medium=rss)
  - [Apple’s Sports app now tells you where you can watch nationally broadcast games](https://www.theverge.com/2025/1/27/24353035/apple-sports-app-ios-iphone-broadcast-information-where-to-watch)
  - [You can grab a refurbished 2021 Kindle Paperwhite starting at $90](https://www.theverge.com/2025/1/27/24352997/kindle-paperwhite-2021-amazon-e-reader-deal-sale)
  - [PBS channels are streaming free inside Amazon’s Prime Video app](https://www.theverge.com/2025/1/27/24352980/amazon-prime-pbs-fast-channels)
- - [DeepSeek’s top-ranked AI app is restricting sign-ups due to ‘malicious attacks’](https://www.theverge.com/2025/1/27/24353023/deepseek-ai-app-restricting-sign-ups-malicious-attacks)
- - [Chinese AI App DeepSeek Soars in Popularity, Startling Rivals](https://www.wired.com/story/deepseek-app-popular-viral/)<!-- TECH:END -->
+ - [DeepSeek’s top-ranked AI app is restricting sign-ups due to ‘malicious attacks’](https://www.theverge.com/2025/1/27/24353023/deepseek-ai-app-restricting-sign-ups-malicious-attacks)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

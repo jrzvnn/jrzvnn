@@ -159,9 +159,9 @@ R                        1 repo              ░░░░░░░░░░░�
 <!-- TECH:START -->
  - [Court filing: Indian digital news firms, including NDTV, Network18, and Hindustan Times, join a copyright lawsuit against OpenAI, first filed by ANI in 2024 &lpar;Reuters&rpar;](http://www.techmeme.com/250127/p2#a250127p2)
  - [DeepSeek&#39;s use of commodity, disconnected hardware and open-source design is enough of a shot at AI hyper scaling that it could be &quot;the way things will go&quot; &lpar;Steven Sinofsky/@stevesi&rpar;](http://www.techmeme.com/250127/p1#a250127p1)
+ - [Best Tower Fan for 2025](https://www.cnet.com/home/kitchen-and-household/best-tower-fan/#ftag=CAD590a51e)
  - [Best Sports Drinks of 2025](https://www.cnet.com/health/fitness/best-sports-drinks/#ftag=CAD590a51e)
- - [Some Japanese stocks drop amid DeepSeek anxiety; Advantest, an Nvidia supplier of testing equipment, drops 7%+; datacenter cable company Fujikura drops 9%+ &lpar;Bloomberg&rpar;](http://www.techmeme.com/250126/p16#a250126p16)
- - [Best Vitamins for Energy in 2025](https://www.cnet.com/health/nutrition/best-vitamins-for-energy/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Some Japanese stocks drop amid DeepSeek anxiety; Advantest, an Nvidia supplier of testing equipment, drops 7%+; datacenter cable company Fujikura drops 9%+ &lpar;Bloomberg&rpar;](http://www.techmeme.com/250126/p16#a250126p16)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [After a 16-year-old boy was murdered, his friends brought his coffin to the spot where he always played football and helped him score one final goal.](http://9gag.com/gag/a1mmwD8)
- - 😝 [I&#39;ve got one unbroken bone tho](http://9gag.com/gag/aryy276)
- - 💣 [That&#39;s a lot of H.](http://9gag.com/gag/aD22MMN)
+ - 😝 [The `fair` media](http://9gag.com/gag/a5QQDWO)
+ - 😝 [Skynet is closer than you think](http://9gag.com/gag/a344pwv)
+ - 💣 [UBI IS NOW DLETING ANY VIDEO AGAINST AC SHADOWS COZ ITS `HATE SPEECH`](http://9gag.com/gag/apRRzB5)
  - 😝 [Lade Summoners War jetzt herunter und hol dir Gyomei Himejima kostenlos!](http://9gag.com/gag/aBydObO)
- - 👉 [He finished her\ud83d\udc80](http://9gag.com/gag/a9yyBZL)<!-- MEMES:END -->
+ - 👉 [Show a little patience.](http://9gag.com/gag/aLnnNex)<!-- MEMES:END -->
 
 ---
 

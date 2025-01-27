@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [M. Night Shyamalan beats $81 million plagiarism accusation over &#39;Servant&#39;](https://appleinsider.com/articles/25/01/27/m-night-shyamalan-beats-81-million-plagiarism-accusation-over-servant?utm_medium=rss)
+ - [Looking back at 15 years of the iPad, Apple&#39;s revolutionary tablet](https://appleinsider.com/articles/20/04/03/looking-back-at-10-years-of-the-ipad-apples-revolutionary-tablet?utm_medium=rss)
+ - [Emergency Braking Will Save Lives. Automakers Want to Charge Extra for It](https://www.wired.com/story/emergency-braking-will-save-lives-automakers-want-to-charge-extra-for-it/)
  - [Scammers Are Creating Fake News Videos to Blackmail Victims](https://www.wired.com/story/scammers-are-creating-fake-news-videos-to-blackmail-victims/)
- - [At Davos, AI leaders clashed over safety concerns and the $100B Stargate project; Demis Hassabis and Anthropic co-founder Dario Amodei reiterated stark warnings &lpar;Stephen Morris/Financial Times&rpar;](http://www.techmeme.com/250127/p10#a250127p10)
- - [Here It Is, the Worst Slack Bug](https://www.wired.com/story/slack-bug-share-dm-history/)
- - [How DeepSeek outpaced OpenAI at 3% of the cost: open-source approach, pure reinforcement learning, not supervised fine-tuning, and building on DeepSeek-R1-Zero &lpar;Matt Marshall/VentureBeat&rpar;](http://www.techmeme.com/250127/p9#a250127p9)
- - [Claimed iPhone SE 4 dummy units show notch instead of Dynamic Island](https://appleinsider.com/articles/25/01/27/claimed-iphone-se-4-dummy-units-show-notch-instead-of-dynamic-island?utm_medium=rss)<!-- TECH:END -->
+ - [At Davos, AI leaders clashed over safety concerns and the $100B Stargate project; Demis Hassabis and Anthropic co-founder Dario Amodei reiterated stark warnings &lpar;Stephen Morris/Financial Times&rpar;](http://www.techmeme.com/250127/p10#a250127p10)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [DeepSeek: all the news about the startup that’s shaking up AI stocks](https://www.theverge.com/24353060/deepseek-ai-china-nvidia-openai)
  - [The Pebble smartwatch is making a comeback](https://www.theverge.com/2025/1/27/24352968/pebble-smartwatch-open-source-google-comeback)
  - [How to Turn Off Apple Intelligence on an iPhone, iPad, or Mac](https://www.wired.com/story/how-to-turn-off-apple-intelligence/)
- - [&#39;Severance&#39; title sequence has more drama and plot clues than most shows](https://appleinsider.com/articles/25/01/27/severance-title-sequence-has-more-drama-and-plot-clues-than-most-shows?utm_medium=rss)
- - [iOS 18.3 is out with tweaks to AI notification summaries](https://www.theverge.com/2025/1/27/24353079/ios-18-3-launch-notification-summaries-apple-intelligence-default)
- - [Best iPhone in 2025: Here&#39;s Which Apple Phone You Should You Buy](https://www.cnet.com/tech/mobile/best-iphone/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Best Internet Providers in Philadelphia, Pennsylvania](https://www.cnet.com/home/internet/best-internet-providers-in-philadelphia-pa/#ftag=CAD590a51e)
+ - [Best Internet Providers in Palm Springs, California](https://www.cnet.com/home/internet/best-internet-providers-in-palm-springs-ca/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

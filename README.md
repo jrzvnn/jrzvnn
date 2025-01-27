@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Apple’s Sports app now tells you where you can watch nationally broadcast games](https://www.theverge.com/2025/1/27/24353035/apple-sports-app-ios-iphone-broadcast-information-where-to-watch)
+ - [You can grab a refurbished 2021 Kindle Paperwhite starting at $90](https://www.theverge.com/2025/1/27/24352997/kindle-paperwhite-2021-amazon-e-reader-deal-sale)
  - [PBS channels are streaming free inside Amazon’s Prime Video app](https://www.theverge.com/2025/1/27/24352980/amazon-prime-pbs-fast-channels)
  - [DeepSeek’s top-ranked AI app is restricting sign-ups due to ‘malicious attacks’](https://www.theverge.com/2025/1/27/24353023/deepseek-ai-app-restricting-sign-ups-malicious-attacks)
- - [Chinese AI App DeepSeek Soars in Popularity, Startling Rivals](https://www.wired.com/story/deepseek-app-popular-viral/)
- - [New Spotify and UMG deal could create pricier ‘superfan’ subscription](https://www.theverge.com/2025/1/27/24352993/spotify-universal-music-publishing-direct-agreement-deal-superfan-new-subscriptions)
- - [Fubo Increases Plan Prices and RSN Fee in the US](https://www.cnet.com/tech/services-and-software/fubo-increases-plan-prices-and-rsn-fee-in-the-us/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Chinese AI App DeepSeek Soars in Popularity, Startling Rivals](https://www.wired.com/story/deepseek-app-popular-viral/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

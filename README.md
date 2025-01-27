@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Nvidia&#39;s stock drops 16.86%, closing at $118.58, dropping nearly $600B in market cap, more than twice as much as any US company has ever dropped in a single day &lpar;Samantha Subin/CNBC&rpar;](http://www.techmeme.com/250127/p22#a250127p22)
  - [Nvidia calls DeepSeek&#39;s work &quot;an excellent AI advancement&quot;, reiterating &quot;inference requires significant numbers of NVIDIA GPUs and high-performance networking&quot; &lpar;Kif Leswing/CNBC&rpar;](http://www.techmeme.com/250127/p21#a250127p21)
  - [Don&#39;t wait to update: iOS 18.3 addresses an actively exploited vulnerability](https://appleinsider.com/articles/25/01/27/dont-wait-to-update-ios-183-addresses-an-actively-exploited-vulnerability?utm_medium=rss)
  - [iPadOS 18.3 is here with bug fixes and Apple Intelligence changes](https://appleinsider.com/articles/25/01/27/ipados-183-is-here-with-bug-fixes-and-apple-intelligence-changes?utm_medium=rss)
- - [Google open sources PebbleOS, paving the way for more smartwatch hardware; Pebble founder Eric Migicovsky aims to develop a new smartwatch &lpar;Brian Heater/TechCrunch&rpar;](http://www.techmeme.com/250127/p20#a250127p20)
- - [Best 43-Inch TV for 2025](https://www.cnet.com/tech/home-entertainment/best-43-inch-tv/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Google open sources PebbleOS, paving the way for more smartwatch hardware; Pebble founder Eric Migicovsky aims to develop a new smartwatch &lpar;Brian Heater/TechCrunch&rpar;](http://www.techmeme.com/250127/p20#a250127p20)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

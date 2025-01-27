@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [My man](http://9gag.com/gag/aW442X4)
- - 😝 [We are idiots](http://9gag.com/gag/aByyvwz)
- - 💣 [200 iq move](http://9gag.com/gag/aByyvQD)
+ - 😝 [Dafuk?](http://9gag.com/gag/aE00Z2e)
+ - 😝 [200 iq move](http://9gag.com/gag/aByyvQD)
+ - 💣 [After a 16-year-old boy was murdered, his friends brought his coffin to the spot where he always played football and helped him score one final goal.](http://9gag.com/gag/a1mmwD8)
  - 😝 [Lade Summoners War jetzt herunter und hol dir Gyomei Himejima kostenlos!](http://9gag.com/gag/aBydObO)
- - 👉 [After a 16-year-old boy was murdered, his friends brought his coffin to the spot where he always played football and helped him score one final goal.](http://9gag.com/gag/a1mmwD8)<!-- MEMES:END -->
+ - 👉 [We are idiots](http://9gag.com/gag/aByyvwz)<!-- MEMES:END -->
 
 ---
 

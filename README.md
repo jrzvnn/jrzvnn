@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Apple releases iOS 18.3, iPadOS 18.3, and macOS 15.3, enabling Apple Intelligence by default on supported devices but disabling AI summaries for news apps &lpar;Kif Leswing/CNBC&rpar;](http://www.techmeme.com/250127/p19#a250127p19)
+ - [Sources: some banks led by Morgan Stanley are in talks to sell up to $3B of senior secured debt tied to Twitter&#39;s buyout, boosted by a claim to a ~$6B xAI stake &lpar;Bloomberg&rpar;](http://www.techmeme.com/250127/p18#a250127p18)
  - [Apple rolls out watchOS 11.3, primarily focusing on bug fixes](https://appleinsider.com/articles/25/01/27/apple-rolls-out-watchos-113-primarily-focusing-on-bug-fixes?utm_medium=rss)
  - [visionOS 2.3 has bug fixes, and not a lot more](https://appleinsider.com/articles/25/01/27/visionos-23-has-bug-fixes-and-not-a-lot-more?utm_medium=rss)
- - [Apple pushes tvOS 18.3 public, focusing on stability and bug fixes](https://appleinsider.com/articles/25/01/27/apple-pushes-tvos-183-public-focusing-on-stability-and-bug-fixes?utm_medium=rss)
- - [Meta says Meta AI will now use account info from across Meta&#39;s apps to give personalized suggestions; users can also ask Meta AI to &quot;remember&quot; specific things &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/250127/p17#a250127p17)
- - [Image Playground improvements and notification changes arrive with macOS Sequoia 15.3](https://appleinsider.com/articles/25/01/27/image-playground-improvements-and-notification-changes-arrive-with-macos-sequoia-153?utm_medium=rss)<!-- TECH:END -->
+ - [Apple pushes tvOS 18.3 public, focusing on stability and bug fixes](https://appleinsider.com/articles/25/01/27/apple-pushes-tvos-183-public-focusing-on-stability-and-bug-fixes?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

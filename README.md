@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [DeepSeek could be an extinction-level event for venture capital firms that went all-in on foundational model companies; investors say they are not panicking &lpar;Dan Primack/Axios&rpar;](http://www.techmeme.com/250127/p14#a250127p14)
  - [DeepSeek shows the complete lack of lock-in that any of these chatbots have, and such a powerful model coming from China may cement &quot;AGI&quot; as a national project &lpar;Bloomberg&rpar;](http://www.techmeme.com/250127/p13#a250127p13)
+ - [Try These 9 Easy Yoga Poses Tonight for Better Sleep](https://www.cnet.com/health/sleep/9-best-yoga-poses-for-sleep/#ftag=CAD590a51e)
  - [Apple&#39;s iPad mini 7 is back on sale for $399 in month-end price war](https://appleinsider.com/articles/25/01/27/apples-ipad-mini-7-is-back-on-sale-for-399-in-month-end-price-war?utm_medium=rss)
- - [Apple&#39;s Black Unity Apple Watch band uses a color-changing loop effect](https://appleinsider.com/articles/25/01/27/apples-black-unity-apple-watch-band-uses-a-color-changing-loop-effect?utm_medium=rss)
- - [Slack’s Monday morning notification mess](https://www.theverge.com/2025/1/27/24352892/slack-outage-notifications-messages-threads)
- - [How Ciena keeps the internet online, with CEO Gary Smith](https://www.theverge.com/24351247/ciena-fiber-optic-internet-subsea-cables-wdm-ai-hyperscale-data-decoder-podcast-interview)<!-- TECH:END -->
+ - [Apple&#39;s Black Unity Apple Watch band uses a color-changing loop effect](https://appleinsider.com/articles/25/01/27/apples-black-unity-apple-watch-band-uses-a-color-changing-loop-effect?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [How much are u gay? yes!](http://9gag.com/gag/an77DA0)
+ - 😝 [Man carries out maintenance work in own garage](http://9gag.com/gag/aMVVy9X)
  - 😝 [We are idiots](http://9gag.com/gag/aByyvwz)
  - 💣 [People Offering Prayers At River Yamuna, India, Which Is Frothing From Industrial Waste](http://9gag.com/gag/aRBByKA)
  - 😝 [Lade Summoners War jetzt herunter und hol dir Gyomei Himejima kostenlos!](http://9gag.com/gag/aBydObO)
- - 👉 [Dafuk?](http://9gag.com/gag/aE00Z2e)<!-- MEMES:END -->
+ - 👉 [Y&#39;all remember when some kid cracked an egg on an Australian politician&#39;s head?](http://9gag.com/gag/a5QQDBy)<!-- MEMES:END -->
 
 ---
 

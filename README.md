@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Apple restores Marvel Snap, published by ByteDance&#39;s Nuverse, to the US App Store, and removes the app from its document listing banned ByteDance apps &lpar;Marko Zivkovic/AppleInsider&rpar;](http://www.techmeme.com/250127/p26#a250127p26)
  - [FBI’s warrantless ‘backdoor’ searches ruled unconstitutional](https://www.theverge.com/2025/1/27/24353289/fbi-warrantless-backdoor-searches-unconstitutional-ruling)
+ - [Best Internet Providers in San Antonio, Texas](https://www.cnet.com/home/internet/best-internet-providers-in-san-antonio-tx/#ftag=CAD590a51e)
  - [DeepSeek&#39;s privacy policy shows broad data collection practices and says user data, along with all the conversations and prompts, is stored on servers in China &lpar;Wired&rpar;](http://www.techmeme.com/250127/p25#a250127p25)
- - [Alibaba&#39;s Qwen team releases Qwen2.5-VL, a new series of AI models that can control PCs and phones, as well as perform a number of text and image analysis tasks &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/250127/p24#a250127p24)
- - [How an Indie Studio Got 400-Plus Games Into a $10 Bundle to Help LA Fire Victims](https://www.wired.com/story/game-bundle-los-angeles-wildfire-efforts/)
- - [TGL 2025: How to Watch and Stream Tomorrow&#39;s Golf League From Anywhere](https://www.cnet.com/tech/services-and-software/tgl-2025-how-to-watch-and-stream-tomorrows-golf-league-from-anywhere/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Alibaba&#39;s Qwen team releases Qwen2.5-VL, a new series of AI models that can control PCs and phones, as well as perform a number of text and image analysis tasks &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/250127/p24#a250127p24)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

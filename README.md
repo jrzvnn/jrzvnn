@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [DeepSeek&#39;s use of commodity, disconnected hardware and open-source design is enough of a shot at AI hyper scaling that it could be &quot;the way things will go&quot; &lpar;Steven Sinofsky/@stevesi&rpar;](http://www.techmeme.com/250127/p1#a250127p1)
+ - [Best Sports Drinks of 2025](https://www.cnet.com/health/fitness/best-sports-drinks/#ftag=CAD590a51e)
  - [Some Japanese stocks drop amid DeepSeek anxiety; Advantest, an Nvidia supplier of testing equipment, drops 7%+; datacenter cable company Fujikura drops 9%+ &lpar;Bloomberg&rpar;](http://www.techmeme.com/250126/p16#a250126p16)
  - [Best Vitamins for Energy in 2025](https://www.cnet.com/health/nutrition/best-vitamins-for-energy/#ftag=CAD590a51e)
- - [Best Cheap Vacuums for 2025](https://www.cnet.com/home/kitchen-and-household/best-cheap-vacuums/#ftag=CAD590a51e)
- - [Best Home Security Cameras for Apple HomeKit and Siri in 2025](https://www.cnet.com/home/security/best-home-security-cameras-for-apple-homekit-and-siri/#ftag=CAD590a51e)
- - [Today&#39;s NYT Mini Crossword Answers for Monday, Jan. 27](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-monday-jan-27/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Best Cheap Vacuums for 2025](https://www.cnet.com/home/kitchen-and-household/best-cheap-vacuums/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

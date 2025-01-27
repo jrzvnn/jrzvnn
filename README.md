@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [iOS 18.3 is out with tweaks to AI notification summaries](https://www.theverge.com/2025/1/27/24353079/ios-18-3-launch-notification-summaries-apple-intelligence-default)
  - [&#39;Severance&#39; title sequence has more drama and plot clues than most shows](https://appleinsider.com/articles/25/01/27/severance-title-sequence-has-more-drama-and-plot-clues-than-most-shows?utm_medium=rss)
+ - [iOS 18.3 is out with tweaks to AI notification summaries](https://www.theverge.com/2025/1/27/24353079/ios-18-3-launch-notification-summaries-apple-intelligence-default)
+ - [Best iPhone in 2025: Here&#39;s Which Apple Phone You Should You Buy](https://www.cnet.com/tech/mobile/best-iphone/#ftag=CAD590a51e)
  - [Apple releases iOS 18.3, iPadOS 18.3, and macOS 15.3, enabling Apple Intelligence by default on supported devices but disabling AI summaries for news apps &lpar;Kif Leswing/CNBC&rpar;](http://www.techmeme.com/250127/p19#a250127p19)
- - [Sources: some banks led by Morgan Stanley are in talks to sell up to $3B of senior secured debt tied to Twitter&#39;s buyout, boosted by a claim to a ~$6B xAI stake &lpar;Bloomberg&rpar;](http://www.techmeme.com/250127/p18#a250127p18)
- - [Apple rolls out watchOS 11.3, primarily focusing on bug fixes](https://appleinsider.com/articles/25/01/27/apple-rolls-out-watchos-113-primarily-focusing-on-bug-fixes?utm_medium=rss)<!-- TECH:END -->
+ - [Sources: some banks led by Morgan Stanley are in talks to sell up to $3B of senior secured debt tied to Twitter&#39;s buyout, boosted by a claim to a ~$6B xAI stake &lpar;Bloomberg&rpar;](http://www.techmeme.com/250127/p18#a250127p18)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

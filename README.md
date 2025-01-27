@@ -166,9 +166,9 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [We are idiots](http://9gag.com/gag/aByyvwz)
  - 😝 [200 iq move](http://9gag.com/gag/aByyvQD)
- - 💣 [A whole new generation of masks](http://9gag.com/gag/aRBBNG2)
+ - 😝 [A whole new generation of masks](http://9gag.com/gag/aRBBNG2)
+ - 💣 [We are idiots](http://9gag.com/gag/aByyvwz)
  - 😝 [Lade Summoners War jetzt herunter und hol dir Gyomei Himejima kostenlos!](http://9gag.com/gag/aBydObO)
  - 👉 [Never do free sample in China.](http://9gag.com/gag/ajPPM1G)<!-- MEMES:END -->
 

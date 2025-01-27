@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [The `fair` media](http://9gag.com/gag/a5QQDWO)
- - 😝 [Skynet is closer than you think](http://9gag.com/gag/a344pwv)
- - 💣 [Show a little patience.](http://9gag.com/gag/aLnnNex)
+ - 😝 [Never do free sample in China.](http://9gag.com/gag/ajPPM1G)
+ - 😝 [These Guatemalan Police officers are completely out of it. All in a day&#39;s work.](http://9gag.com/gag/axyy4zb)
+ - 💣 [Dude almost kills a kid by speeding down a mountain.](http://9gag.com/gag/a7ooAEq)
  - 😝 [Lade Summoners War jetzt herunter und hol dir Gyomei Himejima kostenlos!](http://9gag.com/gag/aBydObO)
- - 👉 [Prop Hunt](http://9gag.com/gag/aKGGNA3)<!-- MEMES:END -->
+ - 👉 [After a 16-year-old boy was murdered, his friends brought his coffin to the spot where he always played football and helped him score one final goal.](http://9gag.com/gag/a1mmwD8)<!-- MEMES:END -->
 
 ---
 

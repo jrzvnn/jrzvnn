@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [DeepSeek&#39;s iOS app is now #1 on the App Store&#39;s Top Free Apps chart in the US, ahead of ChatGPT, stirring doubts in Silicon Valley about the US&#39; AI lead &lpar;Bloomberg&rpar;](http://www.techmeme.com/250127/p5#a250127p5)
  - [iPhone SE 4 appears in new photos and video, notch and all](https://www.theverge.com/2025/1/27/24352767/iphone-se-4-leak-photos-videos-dummy-notch-dynamic-island-camera)
  - [A profile of French health insurer Alan&#39;s CEO Jean Charles Samuelian-Werve, a Mistral board member who claims credit for securing most of Mistral&#39;s backers &lpar;Bloomberg&rpar;](http://www.techmeme.com/250127/p4#a250127p4)
  - [Best Teeth Whitening Strips of 2025](https://www.cnet.com/health/personal-care/best-teeth-whitening-strips/#ftag=CAD590a51e)
- - [A look at China&#39;s booming crypto market, with Chinese traders using VPNs, overseas shell companies, and peer-to-peer networks to circumvent China&#39;s crackdown &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/250127/p3#a250127p3)
- - [Court filing: Indian digital news firms, including NDTV, Network18, and Hindustan Times, join a copyright lawsuit against OpenAI, first filed by ANI in 2024 &lpar;Reuters&rpar;](http://www.techmeme.com/250127/p2#a250127p2)<!-- TECH:END -->
+ - [A look at China&#39;s booming crypto market, with Chinese traders using VPNs, overseas shell companies, and peer-to-peer networks to circumvent China&#39;s crackdown &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/250127/p3#a250127p3)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

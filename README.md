@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Classic Bond.](http://9gag.com/gag/a0eexDL)
- - 😝 [People Offering Prayers At River Yamuna, India, Which Is Frothing From Industrial Waste](http://9gag.com/gag/aRBByKA)
- - 💣 [Wait, coke instead of sugar was an option!](http://9gag.com/gag/a0eeOEB)
  - 😝 [A lovely night in thailand part 1](http://9gag.com/gag/aGyyoEn)
- - 👉 [My man](http://9gag.com/gag/aW442X4)<!-- MEMES:END -->
+ - 😝 [People Offering Prayers At River Yamuna, India, Which Is Frothing From Industrial Waste](http://9gag.com/gag/aRBByKA)
+ - 💣 [Mmmm Bobbehhh](http://9gag.com/gag/aByyXjP)
+ - 😝 [Classic Bond.](http://9gag.com/gag/a0eexDL)
+ - 👉 [Wait, coke instead of sugar was an option!](http://9gag.com/gag/a0eeOEB)<!-- MEMES:END -->
 
 ---
 

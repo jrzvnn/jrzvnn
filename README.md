@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Prop Hunt](http://9gag.com/gag/aKGGNA3)
- - 😝 [Show a little patience.](http://9gag.com/gag/aLnnNex)
- - 💣 [....and became a snow bunny](http://9gag.com/gag/aD22r67)
+ - 😝 [People Offering Prayers At River Yamuna, India, Which Is Frothing From Industrial Waste](http://9gag.com/gag/aRBByKA)
+ - 😝 [She Luigi Mangionied a Pdo.](http://9gag.com/gag/ae99y1B)
+ - 💣 [A whole new generation of masks](http://9gag.com/gag/aRBBNG2)
  - 😝 [Lade Summoners War jetzt herunter und hol dir Gyomei Himejima kostenlos!](http://9gag.com/gag/aBydObO)
- - 👉 [UBI IS NOW DLETING ANY VIDEO AGAINST AC SHADOWS COZ ITS `HATE SPEECH`](http://9gag.com/gag/apRRzB5)<!-- MEMES:END -->
+ - 👉 [We are idiots](http://9gag.com/gag/aByyvwz)<!-- MEMES:END -->
 
 ---
 

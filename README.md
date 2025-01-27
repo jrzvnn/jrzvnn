@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [How DeepSeek outpaced OpenAI at 3% of the cost: open-source approach, pure reinforcement learning, not supervised fine-tuning, and building on DeepSeek-R1-Zero &lpar;Matt Marshall/VentureBeat&rpar;](http://www.techmeme.com/250127/p9#a250127p9)
+ - [Claimed iPhone SE 4 dummy units show notch instead of Dynamic Island](https://appleinsider.com/articles/25/01/27/claimed-iphone-se-4-dummy-units-show-notch-instead-of-dynamic-island?utm_medium=rss)
  - [A look at the surveillance tech that could power Trump&#39;s immigration crackdown; a review of 15K+ contracts shows ICE and USCIS spent $7.8B on tech since 2020 &lpar;New York Times&rpar;](http://www.techmeme.com/250127/p8#a250127p8)
- - [US tech stocks fell sharply pre-market over DeepSeek concerns, with NVDA down 8%+ and META and MSFT down 3%; ASML fell 9%+; Japanese chip companies also dropped &lpar;Financial Times&rpar;](http://www.techmeme.com/250127/p7#a250127p7)
- - [DeepSeek&#39;s iOS app is now #1 on the App Store&#39;s Top Free Apps chart in the US, ahead of ChatGPT, stirring doubts in Silicon Valley about the US&#39; AI lead &lpar;Bloomberg&rpar;](http://www.techmeme.com/250127/p5#a250127p5)
- - [iPhone SE 4 appears in new photos and video, notch and all](https://www.theverge.com/2025/1/27/24352767/iphone-se-4-leak-photos-videos-dummy-notch-dynamic-island-camera)
- - [A profile of French health insurer Alan&#39;s CEO Jean Charles Samuelian-Werve, a Mistral board member who claims credit for securing most of Mistral&#39;s backers &lpar;Bloomberg&rpar;](http://www.techmeme.com/250127/p4#a250127p4)<!-- TECH:END -->
+ - [Want Your Tax Refund Sooner? File Electronically. Here&#39;s How](https://www.cnet.com/personal-finance/taxes/want-your-tax-refund-back-sooner-file-electronically-heres-how/#ftag=CAD590a51e)
+ - [US tech stocks fell sharply pre-market over DeepSeek concerns, with NVDA down 8%+ and META and MSFT down 3%; ASML fell 9%+; Japanese chip companies also dropped &lpar;Financial Times&rpar;](http://www.techmeme.com/250127/p7#a250127p7)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

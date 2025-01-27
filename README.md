@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [TGL 2025: How to Watch and Stream Tomorrow&#39;s Golf League From Anywhere](https://www.cnet.com/tech/services-and-software/tgl-2025-how-to-watch-and-stream-tomorrows-golf-league-from-anywhere/#ftag=CAD590a51e)
+ - [Best Laptop for College Students: Top Laptops for School in 2025](https://www.cnet.com/tech/computing/best-laptop-for-college/#ftag=CAD590a51e)
  - [&#39;Marvel Snap&#39; can once again be downloaded from the US App Store](https://appleinsider.com/articles/25/01/27/marvel-snap-can-once-again-be-downloaded-from-the-us-app-store?utm_medium=rss)
- - [DeepSeek’s Popular AI App Is Explicitly Sending US Data to China](https://www.wired.com/story/deepseek-ai-china-privacy-data/)
- - [KuCoin pleads guilty to having an unlicensed money transmitting business, agreeing to ~$300M in fines and forfeitures, in a case brought by US federal attorneys &lpar;Bloomberg&rpar;](http://www.techmeme.com/250127/p23#a250127p23)
- - [Sony reduces OLED burn-in fears with a three-year warranty on InZone monitors](https://www.theverge.com/2025/1/27/24353227/sony-m10s-inzone-oled-burn-in-warranty)
- - [A new Chinese AI app tops the App Store, but its meteoric rise could be short-lived](https://appleinsider.com/articles/25/01/27/a-new-chinese-ai-app-tops-the-app-store-but-its-meteoric-rise-could-be-short-lived?utm_medium=rss)<!-- TECH:END -->
+ - [Best Mattress Toppers for 2025, Tested by Our Sleep Experts](https://www.cnet.com/health/sleep/best-mattress-toppers/#ftag=CAD590a51e)
+ - [DeepSeek’s Popular AI App Is Explicitly Sending US Data to China](https://www.wired.com/story/deepseek-ai-china-privacy-data/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

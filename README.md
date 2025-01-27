@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [25 years of Apple&#39;s innovation in selling technology](https://appleinsider.com/articles/25/01/27/25-years-of-apples-innovation-in-selling-technology?utm_medium=rss)
+ - [Apple&#39;s Black Unity Apple Watch band uses a color-changing loop effect](https://appleinsider.com/articles/25/01/27/apples-black-unity-apple-watch-band-uses-a-color-changing-loop-effect?utm_medium=rss)
  - [Should you upgrade to Matter, security system discussion, &amp; Tonie Box review on HomeKit Insider](https://appleinsider.com/articles/25/01/27/should-you-upgrade-to-matter-security-system-discussion-tonie-box-review-on-homekit-insider?utm_medium=rss)
  - [An in-depth look at DeepSeek: DeepSeekMoE and DeepSeekMLA, cheap V3 training, the US chip ban, &quot;distillation&quot; from other models, Nvidia impact, AGI, and more &lpar;Ben Thompson/Stratechery&rpar;](http://www.techmeme.com/250127/p12#a250127p12)
- - [Cancer research startup Manas AI, founded by Reid Hoffman and researcher Siddhartha Mukherjee, raised $24.6M to focus on breast and prostate cancer and lymphoma &lpar;Berber Jin/Wall Street Journal&rpar;](http://www.techmeme.com/250127/p11#a250127p11)
- - [10 Things Your Poop Could Be Telling You About Your Health](https://www.cnet.com/health/nutrition/is-your-poop-normal-10-things-it-can-reveal-about-your-health/#ftag=CAD590a51e)
- - [Apple Watch crucial to rescue of skiers who fell 1,000 feet down a mountain](https://appleinsider.com/articles/25/01/27/apple-watch-crucial-to-rescue-of-skiers-who-fell-1000-feet-down-a-mountain?utm_medium=rss)<!-- TECH:END -->
+ - [Cancer research startup Manas AI, founded by Reid Hoffman and researcher Siddhartha Mukherjee, raised $24.6M to focus on breast and prostate cancer and lymphoma &lpar;Berber Jin/Wall Street Journal&rpar;](http://www.techmeme.com/250127/p11#a250127p11)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

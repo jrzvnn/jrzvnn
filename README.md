@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Listen to her](http://9gag.com/gag/awyyv4Q)
- - 😝 [We are idiots](http://9gag.com/gag/aByyvwz)
- - 💣 [He finished her\ud83d\udc80](http://9gag.com/gag/a9yyBZL)
+ - 😝 [Show a little patience.](http://9gag.com/gag/aLnnNex)
+ - 😝 [What happens when the South African government does farm redistribution](http://9gag.com/gag/a6ZZ3XR)
+ - 💣 [Know the feeling](http://9gag.com/gag/aNDDqe3)
  - 😝 [Lade Summoners War jetzt herunter und hol dir Gyomei Himejima kostenlos!](http://9gag.com/gag/aBydObO)
- - 👉 [Me at 14](http://9gag.com/gag/abAAQ8B)<!-- MEMES:END -->
+ - 👉 [That was quick](http://9gag.com/gag/a344eL1)<!-- MEMES:END -->
 
 ---
 

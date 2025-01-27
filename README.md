@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Never do free sample in China.](http://9gag.com/gag/ajPPM1G)
- - 😝 [These Guatemalan Police officers are completely out of it. All in a day&#39;s work.](http://9gag.com/gag/axyy4zb)
- - 💣 [Dude almost kills a kid by speeding down a mountain.](http://9gag.com/gag/a7ooAEq)
+ - 😝 [Name a more dynamic duo! I\u2019ll wait!](http://9gag.com/gag/abAAR5E)
+ - 😝 [Make education legal again](http://9gag.com/gag/a877XwY)
+ - 💣 [Never do free sample in China.](http://9gag.com/gag/ajPPM1G)
  - 😝 [Lade Summoners War jetzt herunter und hol dir Gyomei Himejima kostenlos!](http://9gag.com/gag/aBydObO)
- - 👉 [After a 16-year-old boy was murdered, his friends brought his coffin to the spot where he always played football and helped him score one final goal.](http://9gag.com/gag/a1mmwD8)<!-- MEMES:END -->
+ - 👉 [Utopia, the Experiment](http://9gag.com/gag/ajPPG80)<!-- MEMES:END -->
 
 ---
 

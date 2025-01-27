@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [He finished her\ud83d\udc80](http://9gag.com/gag/a9yyBZL)
- - 😝 [That&#39;s a lot of H.](http://9gag.com/gag/aD22MMN)
- - 💣 [Dude almost kills a kid by speeding down a mountain.](http://9gag.com/gag/a7ooAEq)
+ - 😝 [What happens when the South African government does farm redistribution](http://9gag.com/gag/a6ZZ3XR)
+ - 😝 [Show a little patience.](http://9gag.com/gag/aLnnNex)
+ - 💣 [The `fair` media](http://9gag.com/gag/a5QQDWO)
  - 😝 [Lade Summoners War jetzt herunter und hol dir Gyomei Himejima kostenlos!](http://9gag.com/gag/aBydObO)
- - 👉 [After a 16-year-old boy was murdered, his friends brought his coffin to the spot where he always played football and helped him score one final goal.](http://9gag.com/gag/a1mmwD8)<!-- MEMES:END -->
+ - 👉 [Skynet is closer than you think](http://9gag.com/gag/a344pwv)<!-- MEMES:END -->
 
 ---
 

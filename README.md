@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [These Guatemalan Police officers are completely out of it. All in a day&#39;s work.](http://9gag.com/gag/axyy4zb)
- - 😝 [Dafuk?](http://9gag.com/gag/aE00Z2e)
- - 💣 [We are idiots](http://9gag.com/gag/aByyvwz)
- - 😝 [200 iq move](http://9gag.com/gag/aByyvQD)
- - 👉 [People Offering Prayers At River Yamuna, India, Which Is Frothing From Industrial Waste](http://9gag.com/gag/aRBByKA)<!-- MEMES:END -->
+ - 😝 [People Offering Prayers At River Yamuna, India, Which Is Frothing From Industrial Waste](http://9gag.com/gag/aRBByKA)
+ - 😝 [IRONY MAN](http://9gag.com/gag/avyyvD5)
+ - 💣 [Dude almost kills a kid by speeding down a mountain.](http://9gag.com/gag/a7ooAEq)
+ - 😝 [Lade Summoners War jetzt herunter und hol dir Gyomei Himejima kostenlos!](http://9gag.com/gag/aBydObO)
+ - 👉 [Y&#39;all remember when some kid cracked an egg on an Australian politician&#39;s head?](http://9gag.com/gag/a5QQDBy)<!-- MEMES:END -->
 
 ---
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [After a 16-year-old boy was murdered, his friends brought his coffin to the spot where he always played football and helped him score one final goal.](http://9gag.com/gag/a1mmwD8)
- - 😝 [He finished her\ud83d\udc80](http://9gag.com/gag/a9yyBZL)
- - 💣 [We are idiots](http://9gag.com/gag/aByyvwz)
+ - 😝 [200 iq move](http://9gag.com/gag/aByyvQD)
+ - 😝 [I don&#39;t know if they were worldwide famous but in Europe they were everywhere](http://9gag.com/gag/aVvvBjP)
+ - 💣 [Tik tok](http://9gag.com/gag/aO88j4N)
  - 😝 [Lade Summoners War jetzt herunter und hol dir Gyomei Himejima kostenlos!](http://9gag.com/gag/aBydObO)
- - 👉 [People Offering Prayers At River Yamuna, India, Which Is Frothing From Industrial Waste](http://9gag.com/gag/aRBByKA)<!-- MEMES:END -->
+ - 👉 [That&#39;s a bold strategy](http://9gag.com/gag/abAAENO)<!-- MEMES:END -->
 
 ---
 

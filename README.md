@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [PBS channels are streaming free inside Amazon’s Prime Video app](https://www.theverge.com/2025/1/27/24352980/amazon-prime-pbs-fast-channels)
+ - [DeepSeek’s top-ranked AI app is restricting sign-ups due to ‘malicious attacks’](https://www.theverge.com/2025/1/27/24353023/deepseek-ai-app-restricting-sign-ups-malicious-attacks)
+ - [Chinese AI App DeepSeek Soars in Popularity, Startling Rivals](https://www.wired.com/story/deepseek-app-popular-viral/)
  - [New Spotify and UMG deal could create pricier ‘superfan’ subscription](https://www.theverge.com/2025/1/27/24352993/spotify-universal-music-publishing-direct-agreement-deal-superfan-new-subscriptions)
- - [DeepSeek says it&#39;s temporarily limiting new user registrations &quot;due to large-scale malicious attacks&quot; on its services &lpar;Hayden Field/CNBC&rpar;](http://www.techmeme.com/250127/p15#a250127p15)
- - [Apple brings TV broadcast info and more soccer coverage to Apple Sports](https://appleinsider.com/articles/25/01/27/apple-brings-tv-broadcast-info-and-more-soccer-coverage-to-apple-sports?utm_medium=rss)
- - [Genesis turned the GV60 into a snowmobile because it can](https://www.theverge.com/2025/1/27/24352959/genesis-gv60-miv-rescue-snowmobile-concept)
- - [You can get an Apple Watch Series 10 for its lowest price yet](https://www.theverge.com/2025/1/27/24352841/apple-watch-series-10-donkey-kong-returns-hd-switch-game-deal-sale)<!-- TECH:END -->
+ - [Fubo Increases Plan Prices and RSN Fee in the US](https://www.cnet.com/tech/services-and-software/fubo-increases-plan-prices-and-rsn-fee-in-the-us/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

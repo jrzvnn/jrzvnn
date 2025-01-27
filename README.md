@@ -167,8 +167,8 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [What happens when the South African government does farm redistribution](http://9gag.com/gag/a6ZZ3XR)
- - 😝 [Show a little patience.](http://9gag.com/gag/aLnnNex)
- - 💣 [The `fair` media](http://9gag.com/gag/a5QQDWO)
+ - 😝 [The `fair` media](http://9gag.com/gag/a5QQDWO)
+ - 💣 [Show a little patience.](http://9gag.com/gag/aLnnNex)
  - 😝 [Lade Summoners War jetzt herunter und hol dir Gyomei Himejima kostenlos!](http://9gag.com/gag/aBydObO)
  - 👉 [Skynet is closer than you think](http://9gag.com/gag/a344pwv)<!-- MEMES:END -->
 

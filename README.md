@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [China’s DeepSeek AI is hitting Nvidia where it hurts](https://www.theverge.com/2025/1/27/24352801/deepseek-ai-chatbot-chatgpt-ios-app-store)
  - [M. Night Shyamalan beats $81 million plagiarism accusation over &#39;Servant&#39;](https://appleinsider.com/articles/25/01/27/m-night-shyamalan-beats-81-million-plagiarism-accusation-over-servant?utm_medium=rss)
+ - [iPhone 16 Pro Max vs. Galaxy S24 Ultra Camera Comparison: Which Takes Better Photos?](https://www.cnet.com/tech/mobile/iphone-16-pro-max-vs-galaxy-s24-ultra-camera-comparison-which-takes-better-photos/#ftag=CAD590a51e)
  - [Looking back at 15 years of the iPad, Apple&#39;s revolutionary tablet](https://appleinsider.com/articles/20/04/03/looking-back-at-10-years-of-the-ipad-apples-revolutionary-tablet?utm_medium=rss)
- - [Emergency Braking Will Save Lives. Automakers Want to Charge Extra for It](https://www.wired.com/story/emergency-braking-will-save-lives-automakers-want-to-charge-extra-for-it/)
- - [Scammers Are Creating Fake News Videos to Blackmail Victims](https://www.wired.com/story/scammers-are-creating-fake-news-videos-to-blackmail-victims/)
- - [At Davos, AI leaders clashed over safety concerns and the $100B Stargate project; Demis Hassabis and Anthropic co-founder Dario Amodei reiterated stark warnings &lpar;Stephen Morris/Financial Times&rpar;](http://www.techmeme.com/250127/p10#a250127p10)<!-- TECH:END -->
+ - [Best Internet Providers in Lawrenceville, Georgia](https://www.cnet.com/home/internet/best-internet-providers-in-lawrenceville-ga/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

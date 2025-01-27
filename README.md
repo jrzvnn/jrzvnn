@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [iPadOS 18.3 is here with bug fixes and Apple Intelligence changes](https://appleinsider.com/articles/25/01/27/ipados-183-is-here-with-bug-fixes-and-apple-intelligence-changes?utm_medium=rss)
+ - [Google open sources PebbleOS, paving the way for more smartwatch hardware; Pebble founder Eric Migicovsky aims to develop a new smartwatch &lpar;Brian Heater/TechCrunch&rpar;](http://www.techmeme.com/250127/p20#a250127p20)
+ - [Best 43-Inch TV for 2025](https://www.cnet.com/tech/home-entertainment/best-43-inch-tv/#ftag=CAD590a51e)
  - [DeepSeek: all the news about the startup that’s shaking up AI stocks](https://www.theverge.com/24353060/deepseek-ai-china-nvidia-openai)
- - [The Pebble smartwatch is making a comeback](https://www.theverge.com/2025/1/27/24352968/pebble-smartwatch-open-source-google-comeback)
- - [How to Turn Off Apple Intelligence on an iPhone, iPad, or Mac](https://www.wired.com/story/how-to-turn-off-apple-intelligence/)
- - [Best Internet Providers in Philadelphia, Pennsylvania](https://www.cnet.com/home/internet/best-internet-providers-in-philadelphia-pa/#ftag=CAD590a51e)
- - [Best Internet Providers in Palm Springs, California](https://www.cnet.com/home/internet/best-internet-providers-in-palm-springs-ca/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Save Up to $440 on Tech, Kitchen Gadgets and More During Best Buy’s 48-Hour Flash Sale](https://www.cnet.com/deals/save-up-to-440-on-tech-kitchen-gadgets-and-more-during-best-buys-48-hour-flash-sale/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

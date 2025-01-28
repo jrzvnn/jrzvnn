@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [EU appeals hearing: Google accuses the EC of making &quot;grave errors&quot; in its Android investigation that led to a record &amp;euro;4.3B fine; EU lawyers defended the case &lpar;Samuel Stolton/Bloomberg&rpar;](http://www.techmeme.com/250128/p5#a250128p5)
+ - [Best Squat Racks of 2025](https://www.cnet.com/health/fitness/best-squat-racks/#ftag=CAD590a51e)
  - [SAP reports Q4 cloud revenue up 27% YoY to &amp;euro;4.71B, above &amp;euro;4.68B est., driven by AI demand, names a suite of new executives, and plans to simplify its strategy &lpar;Christina Kyriasoglou/Bloomberg&rpar;](http://www.techmeme.com/250128/p4#a250128p4)
- - [Best Weightlifting Shoes for 2025](https://www.cnet.com/health/fitness/best-weightlifting-shoes/#ftag=CAD590a51e)
- - [Three case studies using GPT-4o, OpenAI o1, and Claude 3.5 Sonnet for historical research show that the models are now good enough for PhD-level analysis &lpar;Benjamin Breen/Res Obscura&rpar;](http://www.techmeme.com/250128/p3#a250128p3)
- - [Best Internet Providers in North Carolina](https://www.cnet.com/home/internet/best-internet-providers-in-north-carolina/#ftag=CAD590a51e)
- - [50% Off Home Chef Promo Code and Coupons](https://www.wired.com/story/home-chef-promo-code/)<!-- TECH:END -->
+ - [Lock In a High APY Ahead of This Week&#39;s Fed Meeting. Today&#39;s CD Rates, Jan. 28, 2025](https://www.cnet.com/personal-finance/banking/lock-in-a-high-apy-ahead-of-this-weeks-fed-meeting-todays-cd-rates-jan-28-2025/#ftag=CAD590a51e)
+ - [Today&#39;s NYT Connections: Sports Edition Hints and Answers for Jan. 28, #127](https://www.cnet.com/tech/gaming/todays-nyt-connections-sports-edition-hints-and-answers-for-jan-28-127/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

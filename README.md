@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Judge tells Apple it&#39;s too late to intervene over Google monopoly case](https://appleinsider.com/articles/25/01/28/judge-tells-apple-its-too-late-to-intervene-over-google-monopoly-case?utm_medium=rss)
  - [DeepSeek challenges the &quot;bigger is better&quot; narrative underpinning the AI arms race in recent years and suggests we may see more investment into smaller startups &lpar;Kevin Roose/New York Times&rpar;](http://www.techmeme.com/250128/p8#a250128p8)
+ - [My Warning to Apple on the iPhone Flip: Don&#39;t Screw This Up](https://www.cnet.com/tech/mobile/my-warning-to-apple-on-the-iphone-flip-dont-screw-this-up/#ftag=CAD590a51e)
  - [Bookshop.org Now Sells Ebooks](https://www.wired.com/story/bookshop-now-sells-ebooks/)
- - [DeepSeek says it used Nvidia H800 chips, available in China until October 2023, to train R1, suggesting future models could be hampered by US export controls &lpar;Bloomberg&rpar;](http://www.techmeme.com/250128/p7#a250128p7)
- - [DeepSeek’s New AI Model Sparks Shock, Awe, and Questions From US Competitors](https://www.wired.com/story/deepseek-executives-reaction-silicon-valley/)
- - [Bridgewater founder Ray Dalio says investor exuberance over AI has fuelled a &quot;bubble&quot; in US stocks that resembles the build-up to the dotcom bust in 1998-1999 &lpar;Financial Times&rpar;](http://www.techmeme.com/250128/p6#a250128p6)<!-- TECH:END -->
+ - [6 Natural Sugar Alternatives That Are Better Than the Processed Stuff](https://www.cnet.com/health/nutrition/natural-sugar-alternatives-better-processed-sugar/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -166,9 +166,9 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [What are the odds](http://9gag.com/gag/a0eeDRz)
- - 😝 [Matthew\u2019s wife had decisions to make](http://9gag.com/gag/agmmjV6)
- - 💣 [He finished her\ud83d\udc80](http://9gag.com/gag/a9yyBZL)
+ - 😝 [Canada](http://9gag.com/gag/a0eezDz)
+ - 😝 [Never do free sample in China.](http://9gag.com/gag/ajPPM1G)
+ - 💣 [After a 16-year-old boy was murdered, his friends brought his coffin to the spot where he always played football and helped him score one final goal.](http://9gag.com/gag/a1mmwD8)
  - 😝 [Lade Summoners War jetzt herunter und hol dir Gyomei Himejima kostenlos!](http://9gag.com/gag/aBydObO)
  - 👉 [A lovely night in thailand part 1](http://9gag.com/gag/aGyyoEn)<!-- MEMES:END -->
 

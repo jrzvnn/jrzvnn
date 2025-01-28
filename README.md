@@ -160,8 +160,8 @@ R                        1 repo              ░░░░░░░░░░░�
  - [AI enterprise service management startup Atomicwork raised a $25M Series A led by Khosla Ventures and Z47, a source says at a $150M valuation &lpar;Kritika Lamba/Reuters&rpar;](http://www.techmeme.com/250128/p12#a250128p12)
  - [The Top New Features in Apple’s iOS 18 and iPadOS 18](https://www.wired.com/story/apple-iphone-ios-18-ipados-18-new-features/)
  - [TechInsights: ChangXin Memory Technologies&#39; DDR5 RAM required advanced manufacturing techniques that haven&#39;t previously been seen on the Chinese market &lpar;Debby Wu/Bloomberg&rpar;](http://www.techmeme.com/250128/p11#a250128p11)
- - [&#39;Severance&#39; Season 2: 5 Mind-Bending Questions We Need Answered ASAP](https://www.cnet.com/tech/services-and-software/severance-season-2-5-mind-bending-questions-we-need-answered-asap/#ftag=CAD590a51e)
- - [The Electric Vehicle Fight Turns to California](https://www.wired.com/story/the-electric-vehicle-fight-turns-to-california/)<!-- TECH:END -->
+ - [The Electric Vehicle Fight Turns to California](https://www.wired.com/story/the-electric-vehicle-fight-turns-to-california/)
+ - [SemiAnalysis: DeepSeek has spent &quot;well over $500M on GPUs over the history of the company&quot;; TechInsights says it doesn&#39;t see DeepSeek as &quot;a big hit to Nvidia&quot; &lpar;Financial Times&rpar;](http://www.techmeme.com/250128/p10#a250128p10)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

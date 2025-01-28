@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [It worked!](http://9gag.com/gag/aXPPGZP)
- - 😝 [Only every 400 years\u2026.](http://9gag.com/gag/a6ZZeGN)
- - 💣 [Listen to her](http://9gag.com/gag/awyyv4Q)
- - 😝 [Y&#39;all remember when some kid cracked an egg on an Australian politician&#39;s head?](http://9gag.com/gag/a5QQDBy)
- - 👉 [Small gap](http://9gag.com/gag/amooKZy)<!-- MEMES:END -->
+ - 😝 [Small gap](http://9gag.com/gag/amooKZy)
+ - 😝 [You can just trick it.](http://9gag.com/gag/aKGGXjN)
+ - 💣 [She Luigi Mangionied a Pdo.](http://9gag.com/gag/ae99y1B)
+ - 😝 [Wut](http://9gag.com/gag/apRRz1W)
+ - 👉 [Bet they are butt hurt about that](http://9gag.com/gag/ajPPMM0)<!-- MEMES:END -->
 
 ---
 

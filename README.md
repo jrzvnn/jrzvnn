@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [It&#39;s all Good](http://9gag.com/gag/aLnnN75)
- - 😝 [People Offering Prayers At River Yamuna, India, Which Is Frothing From Industrial Waste](http://9gag.com/gag/aRBByKA)
- - 💣 [Is it possible to learn this power?](http://9gag.com/gag/aW44N33)
- - 😝 [Small gap](http://9gag.com/gag/amooKZy)
- - 👉 [It&#39;s hammer time!](http://9gag.com/gag/aAyyNRp)<!-- MEMES:END -->
+ - 😝 [It worked!](http://9gag.com/gag/aXPPGZP)
+ - 😝 [Only every 400 years\u2026.](http://9gag.com/gag/a6ZZeGN)
+ - 💣 [Listen to her](http://9gag.com/gag/awyyv4Q)
+ - 😝 [Y&#39;all remember when some kid cracked an egg on an Australian politician&#39;s head?](http://9gag.com/gag/a5QQDBy)
+ - 👉 [Small gap](http://9gag.com/gag/amooKZy)<!-- MEMES:END -->
 
 ---
 

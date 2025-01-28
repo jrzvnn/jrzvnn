@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [People Offering Prayers At River Yamuna, India, Which Is Frothing From Industrial Waste](http://9gag.com/gag/aRBByKA)
- - 😝 [Is it possible to learn this power?](http://9gag.com/gag/aW44N33)
- - 💣 [Nice work](http://9gag.com/gag/a9yyNL6)
+ - 😝 [What doesn&#39;t kill you makes you wish it did](http://9gag.com/gag/adBBREM)
+ - 😝 [It worked!](http://9gag.com/gag/aXPPGZP)
+ - 💣 [Dude almost kills a kid by speeding down a mountain.](http://9gag.com/gag/a7ooAEq)
  - 😝 [Lade Summoners War jetzt herunter und hol dir Gyomei Himejima kostenlos!](http://9gag.com/gag/aBydObO)
- - 👉 [Still a hard choice even for lixen](http://9gag.com/gag/a9yy4Ko)<!-- MEMES:END -->
+ - 👉 [Is it possible to learn this power?](http://9gag.com/gag/aW44N33)<!-- MEMES:END -->
 
 ---
 

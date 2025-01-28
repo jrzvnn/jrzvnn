@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The 52 Best Shows on Disney+ Right Now &lpar;February 2025&rpar;](https://www.wired.com/story/best-shows-disney-plus/)
+ - [DeepSeek Turned the AI World on Its Head, but Don&#39;t Fall For The Hype Just Yet](https://www.cnet.com/tech/services-and-software/deepseek-turned-the-ai-world-on-its-head-but-dont-fall-for-the-hype-just-yet/#ftag=CAD590a51e)
+ - [What Happens to Student Loans and Financial Aid During Trump&#39;s Federal Funding Freeze?](https://www.cnet.com/personal-finance/loans/what-happens-to-student-loans-and-financial-aid-during-trumps-federal-funding-freeze/#ftag=CAD590a51e)
  - [Trump and the DOJ have been flouting a bipartisan law to shut down TikTok since his inauguration, and Republicans and Democrats seem to be doing little about it &lpar;Ankush Khardori/Politico&rpar;](http://www.techmeme.com/250128/p27#a250128p27)
- - [What This Week&#39;s Fed Decision Means for Mortgage Rates](https://www.cnet.com/personal-finance/what-this-weeks-fed-decision-means-for-mortgage-rates/#ftag=CAD590a51e)
- - [Chinese state media and social media viewed DeepSeek&#39;s success as a shot in the arm for a discouraged tech industry and a public suffering a stagnating economy &lpar;Li Yuan/New York Times&rpar;](http://www.techmeme.com/250128/p26#a250128p26)
- - [Last Chance to Save Hundreds on Tech, Small Appliances and More During Best Buy’s 48-Hour Flash Sale](https://www.cnet.com/deals/last-chance-to-save-hundreds-on-tech-small-appliances-and-more-during-best-buys-48-hour-flash-sale/#ftag=CAD590a51e)
- - [Call of Duty Black Ops 6 and Warzone Season 2 Is Live Now](https://www.cnet.com/tech/gaming/call-of-duty-black-ops-6-and-warzone-season-2-live-now/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Don&#39;t Let &#39;Bad&#39; Credit Hold You Back. Try One of These Cards to Rebuild Your Credit Score](https://www.cnet.com/personal-finance/credit-cards/best-credit-cards-to-rebuild-your-credit-score/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

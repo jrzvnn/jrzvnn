@@ -166,9 +166,9 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [It worked!](http://9gag.com/gag/aXPPGZP)
- - 😝 [People Offering Prayers At River Yamuna, India, Which Is Frothing From Industrial Waste](http://9gag.com/gag/aRBByKA)
- - 💣 [It&#39;s hammer time!](http://9gag.com/gag/aAyyNRp)
+ - 😝 [Robotnik Dance Scene](http://9gag.com/gag/a7ooPqe)
+ - 😝 [He finished her\ud83d\udc80](http://9gag.com/gag/a9yyBZL)
+ - 💣 [Matthew\u2019s wife had decisions to make](http://9gag.com/gag/agmmjV6)
  - 😝 [Lade Summoners War jetzt herunter und hol dir Gyomei Himejima kostenlos!](http://9gag.com/gag/aBydObO)
  - 👉 [Female Asian tourist stopped to buy food in New York before this happened](http://9gag.com/gag/apRRjmW)<!-- MEMES:END -->
 

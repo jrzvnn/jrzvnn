@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Doc: Google&#39;s maps unit reclassified the US as a &quot;sensitive country&quot;, reserved for states with strict governments or border disputes, after Trump&#39;s map changes &lpar;Jennifer Elias/CNBC&rpar;](http://www.techmeme.com/250128/p33#a250128p33)
  - [These M4 Mac mini deals slash prices to as low as $529](https://appleinsider.com/articles/25/01/28/these-m4-mac-mini-deals-slash-prices-to-as-low-as-529?utm_medium=rss)
  - [Elon Musk Lackeys Have Taken Over the Office of Personnel Management](https://www.wired.com/story/elon-musk-lackeys-office-personnel-management-opm-neuralink-x-boring-stalin/)
  - [Trump’s ‘Gulf of America’ Order Has Mapmakers Completely Lost](https://www.wired.com/story/trump-gulf-of-america-order-maps/)
- - [Dubious leak claims Clock notifications getting a partial redesign](https://appleinsider.com/articles/25/01/28/dubious-leak-claims-clock-notifications-getting-a-partial-redesign?utm_medium=rss)
- - [OpenAI told some shareholders revenue from its $200/month ChatGPT Pro plan surpassed that of ChatGPT Enterprise, which was generating $25M/month as of September &lpar;The Information&rpar;](http://www.techmeme.com/250128/p32#a250128p32)<!-- TECH:END -->
+ - [Dubious leak claims Clock notifications getting a partial redesign](https://appleinsider.com/articles/25/01/28/dubious-leak-claims-clock-notifications-getting-a-partial-redesign?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Hands-on with Samsung&#39;s Project Moohan headset: resembles Apple Vision Pro, Gemini integration shines, runs Android XR with mobile and tablet apps, and more &lpar;Marques Brownlee/Marques Brownlee on YouTube&rpar;](http://www.techmeme.com/250128/p1#a250128p1)
- - [Today&#39;s NYT Mini Crossword Answers for Tuesday, Jan. 28](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-tuesday-jan-28/#ftag=CAD590a51e)
- - [DeepSeek&#39;s breakthroughs are a big win for app developers with more value accruing back into the app layer as the cost of intelligence continues to drop rapidly &lpar;Aaron Levie/@levie&rpar;](http://www.techmeme.com/250127/p33#a250127p33)
- - [How to record podcasts using FaceTime on iPad &amp; iPhone](https://appleinsider.com/inside/ipados/tips/how-to-record-podcasts-using-facetime-on-ipad-iphone?utm_medium=rss)
- - [Sam Altman says DeepSeek&#39;s R1 is an &quot;impressive model, particularly around what they&#39;re able to deliver for the price&quot; and OpenAI &quot;will pull up some releases&quot; &lpar;Vlad Savov/Bloomberg&rpar;](http://www.techmeme.com/250127/p32#a250127p32)<!-- TECH:END -->
+ - [Business travel startup TravelPerk raised a $200M Series E at a $2.7B valuation and buys expense management startup Yokoy, a source says for a &quot;nine-figure&quot; sum &lpar;Paul Sawers/TechCrunch&rpar;](http://www.techmeme.com/250128/p2#a250128p2)
+ - [Wayfair Coupon and Promo Codes: 15% Off](https://www.wired.com/story/wayfair-coupon/)
+ - [H&amp;R Block Coupons and Deals: 15% Off Tax Prep in 2025](https://www.wired.com/story/hr-block-coupon/)
+ - [Canon Promo Codes and Coupons: Up to $500 Off](https://www.wired.com/story/canon-promo-code/)
+ - [Nectar Coupon Code: Extra 40% Off](https://www.wired.com/story/nectar-coupon-code/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

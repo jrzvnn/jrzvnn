@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [50% Off Home Chef Promo Code and Coupons](https://www.wired.com/story/home-chef-promo-code/)
  - [Business travel startup TravelPerk raised a $200M Series E at a $2.7B valuation and buys expense management startup Yokoy, a source says for a &quot;nine-figure&quot; sum &lpar;Paul Sawers/TechCrunch&rpar;](http://www.techmeme.com/250128/p2#a250128p2)
  - [Wayfair Coupon and Promo Codes: 15% Off](https://www.wired.com/story/wayfair-coupon/)
  - [H&amp;R Block Coupons and Deals: 15% Off Tax Prep in 2025](https://www.wired.com/story/hr-block-coupon/)
- - [Canon Promo Codes and Coupons: Up to $500 Off](https://www.wired.com/story/canon-promo-code/)
- - [Nectar Coupon Code: Extra 40% Off](https://www.wired.com/story/nectar-coupon-code/)<!-- TECH:END -->
+ - [Canon Promo Codes and Coupons: Up to $500 Off](https://www.wired.com/story/canon-promo-code/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

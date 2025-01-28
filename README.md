@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [TechInsights: ChangXin Memory Technologies&#39; DDR5 RAM required advanced manufacturing techniques that haven&#39;t previously been seen on the Chinese market &lpar;Debby Wu/Bloomberg&rpar;](http://www.techmeme.com/250128/p11#a250128p11)
+ - [The Electric Vehicle Fight Turns to California](https://www.wired.com/story/the-electric-vehicle-fight-turns-to-california/)
+ - [SemiAnalysis: DeepSeek has spent &quot;well over $500M on GPUs over the history of the company&quot;; TechInsights says it doesn&#39;t see DeepSeek as &quot;a big hit to Nvidia&quot; &lpar;Financial Times&rpar;](http://www.techmeme.com/250128/p10#a250128p10)
  - [Ninja Crispi Review: An Ingenious Portable Air Fryer](https://www.wired.com/review/ninja-crispi-portable-glass-air-fryer/)
- - [DeepSeek highlights some of China&#39;s key advantages: a deep pool of skilled software engineers, a vast domestic market, and government support via subsidies &lpar;Bloomberg&rpar;](http://www.techmeme.com/250128/p9#a250128p9)
- - [Judge tells Apple it&#39;s too late to intervene over Google monopoly case](https://appleinsider.com/articles/25/01/28/judge-tells-apple-its-too-late-to-intervene-over-google-monopoly-case?utm_medium=rss)
- - [DeepSeek challenges the &quot;bigger is better&quot; narrative underpinning the AI arms race in recent years and suggests we may see more investment into smaller startups &lpar;Kevin Roose/New York Times&rpar;](http://www.techmeme.com/250128/p8#a250128p8)
- - [My Warning to Apple on the iPhone Flip: Don&#39;t Screw This Up](https://www.cnet.com/tech/mobile/my-warning-to-apple-on-the-iphone-flip-dont-screw-this-up/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [DeepSeek highlights some of China&#39;s key advantages: a deep pool of skilled software engineers, a vast domestic market, and government support via subsidies &lpar;Bloomberg&rpar;](http://www.techmeme.com/250128/p9#a250128p9)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

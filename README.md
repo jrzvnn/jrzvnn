@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [200 iq move](http://9gag.com/gag/aByyvQD)
- - 😝 [A whole new generation of masks](http://9gag.com/gag/aRBBNG2)
- - 💣 [We are idiots](http://9gag.com/gag/aByyvwz)
+ - 😝 [Slow down ubi, your savior ac shadow is not even out yet](http://9gag.com/gag/a2vv9MZ)
+ - 😝 [Dude almost kills a kid by speeding down a mountain.](http://9gag.com/gag/a7ooAEq)
+ - 💣 [It&#39;s hammer time!](http://9gag.com/gag/aAyyNRp)
  - 😝 [Lade Summoners War jetzt herunter und hol dir Gyomei Himejima kostenlos!](http://9gag.com/gag/aBydObO)
- - 👉 [Never do free sample in China.](http://9gag.com/gag/ajPPM1G)<!-- MEMES:END -->
+ - 👉 [A whole new generation of masks](http://9gag.com/gag/aRBBNG2)<!-- MEMES:END -->
 
 ---
 

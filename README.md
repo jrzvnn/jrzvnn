@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [These M4 Mac mini deals slash prices to as low as $529](https://appleinsider.com/articles/25/01/28/these-m4-mac-mini-deals-slash-prices-to-as-low-as-529?utm_medium=rss)
  - [Elon Musk Lackeys Have Taken Over the Office of Personnel Management](https://www.wired.com/story/elon-musk-lackeys-office-personnel-management-opm-neuralink-x-boring-stalin/)
  - [Trump&#39;s &#39;Gulf of America&#39; Order Has Mapmakers Completely Lost](https://www.wired.com/story/trump-gulf-of-america-order-maps/)
  - [Dubious leak claims Clock notifications getting a partial redesign](https://appleinsider.com/articles/25/01/28/dubious-leak-claims-clock-notifications-getting-a-partial-redesign?utm_medium=rss)
- - [OpenAI told some shareholders revenue from its $200/month ChatGPT Pro plan surpassed that of ChatGPT Enterprise, which was generating $25M/month as of September &lpar;The Information&rpar;](http://www.techmeme.com/250128/p32#a250128p32)
- - [Researchers detail two Apple silicon side-channel attacks that could leak secrets: SLAP, affecting M2, A15, and newer chips, and FLOP, affecting M3, M4, and A17 &lpar;Dan Goodin/Ars Technica&rpar;](http://www.techmeme.com/250128/p31#a250128p31)<!-- TECH:END -->
+ - [OpenAI told some shareholders revenue from its $200/month ChatGPT Pro plan surpassed that of ChatGPT Enterprise, which was generating $25M/month as of September &lpar;The Information&rpar;](http://www.techmeme.com/250128/p32#a250128p32)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

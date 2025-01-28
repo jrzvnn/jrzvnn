@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Amazon drops Apple&#39;s M4 iPad Pro 13-inch to $1,099 &lpar;$200 off&rpar;](https://appleinsider.com/articles/25/01/28/amazon-drops-apples-m4-ipad-pro-13-inch-to-1099-200-off?utm_medium=rss)
+ - [Articulated hinge structures for foldable iPhone detailed in new research](https://appleinsider.com/articles/20/12/03/articulated-hinge-structures-for-foldable-iphone-detailed-in-new-research?utm_medium=rss)
  - [Spotify says it paid out a record $10B to the music industry in 2024, up from a then-record $9B in 2023, taking its total to nearly $60B since its 2006 founding &lpar;Jem Aswad/Variety&rpar;](http://www.techmeme.com/250128/p18#a250128p18)
  - [The &quot;DeepSeek moment&quot; is like in 2004 when Google detailed using distributed algorithms to build a supercomputer, and unlike Sputnik, when Russia shared little &lpar;@yishan&rpar;](http://www.techmeme.com/250128/p17#a250128p17)
- - [Paris-based Alice&amp;Bob, a cat qubit quantum architecture pioneer, raised a &amp;euro;100M Series B for a &quot;fault tolerant&quot; quantum computer, after a &amp;euro;27M Series A in 2022 &lpar;Ingrid Lunden/TechCrunch&rpar;](http://www.techmeme.com/250128/p16#a250128p16)
- - [All the Top New Features in MacOS Sequoia](https://www.wired.com/story/apple-macos-sequoia-features/)
- - [OpenAI launches ChatGPT Gov, built for US government use, and says 90K+ government employees have generated 18M+ prompts within ChatGPT since the start of 2024 &lpar;Hayden Field/CNBC&rpar;](http://www.techmeme.com/250128/p15#a250128p15)<!-- TECH:END -->
+ - [Paris-based Alice&amp;Bob, a cat qubit quantum architecture pioneer, raised a &amp;euro;100M Series B for a &quot;fault tolerant&quot; quantum computer, after a &amp;euro;27M Series A in 2022 &lpar;Ingrid Lunden/TechCrunch&rpar;](http://www.techmeme.com/250128/p16#a250128p16)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

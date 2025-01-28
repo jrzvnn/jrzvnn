@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Hugging Face launches Inference Providers, which makes it easier for developers to run AI models on 3rd-party clouds; launch partners include SambaNova and Fal &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/250128/p19#a250128p19)
+ - [Part of Karl Lagerfeld&#39;s impressive iPod collection has hit the auction block](https://appleinsider.com/articles/25/01/28/part-of-karl-lagerfelds-impressive-ipod-collection-has-hit-the-auction-block?utm_medium=rss)
  - [Amazon drops Apple&#39;s M4 iPad Pro 13-inch to $1,099 &lpar;$200 off&rpar;](https://appleinsider.com/articles/25/01/28/amazon-drops-apples-m4-ipad-pro-13-inch-to-1099-200-off?utm_medium=rss)
  - [Articulated hinge structures for foldable iPhone detailed in new research](https://appleinsider.com/articles/20/12/03/articulated-hinge-structures-for-foldable-iphone-detailed-in-new-research?utm_medium=rss)
- - [Spotify says it paid out a record $10B to the music industry in 2024, up from a then-record $9B in 2023, taking its total to nearly $60B since its 2006 founding &lpar;Jem Aswad/Variety&rpar;](http://www.techmeme.com/250128/p18#a250128p18)
- - [Lock In a High APY Ahead of This Week&#39;s Fed Meeting. Today&#39;s CD Rates, Jan. 28, 2025](https://www.cnet.com/personal-finance/banking/lock-in-a-high-apy-ahead-of-this-weeks-fed-meeting-todays-cd-rates-jan-28-2025/#ftag=CAD590a51e)
- - [The &quot;DeepSeek moment&quot; is like in 2004 when Google detailed using distributed algorithms to build a supercomputer, and unlike Sputnik, when Russia shared little &lpar;@yishan&rpar;](http://www.techmeme.com/250128/p17#a250128p17)<!-- TECH:END -->
+ - [Spotify says it paid out a record $10B to the music industry in 2024, up from a then-record $9B in 2023, taking its total to nearly $60B since its 2006 founding &lpar;Jem Aswad/Variety&rpar;](http://www.techmeme.com/250128/p18#a250128p18)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

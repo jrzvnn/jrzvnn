@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Best Open Earbuds for 2025](https://www.cnet.com/tech/mobile/best-open-wireless-earbuds/#ftag=CAD590a51e)
  - [Dell Has a Gorgeous 32-Inch 4K Gaming Monitor for $400 Off](https://www.wired.com/story/alienware-aw3225qf-deal-january-2025/)
  - [The EU says upcoming sanctions on Russia aim to crack down on traders who send gaming consoles to Russia that are then often used by the army to control drones &lpar;Financial Times&rpar;](http://www.techmeme.com/250128/p22#a250128p22)
  - [New Geekbench update adds RISC-V and improves ARM Extension Support](https://appleinsider.com/articles/25/01/28/new-geekbench-update-adds-risc-v-and-improves-arm-extension-support?utm_medium=rss)
- - [Fusion reactor startup Helion, which has a deal to supply Microsoft with electricity by 2028, raised a $425M Series F, valuing the company at $5.245B &lpar;Tim De Chant/TechCrunch&rpar;](http://www.techmeme.com/250128/p21#a250128p21)
- - [X announces X Money Account, a digital wallet and peer-to-peer payments service with Visa as its launch partner, debuting &quot;later this year&quot; &lpar;Hugh Son/CNBC&rpar;](http://www.techmeme.com/250128/p20#a250128p20)<!-- TECH:END -->
+ - [Mortgage Predictions Weekly: What Fewer Fed Cuts Mean for Homebuyers](https://www.cnet.com/personal-finance/mortgage-predictions-weekly-what-fewer-fed-cuts-mean-for-homebuyers/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

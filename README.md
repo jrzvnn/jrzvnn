@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [What doesn&#39;t kill you makes you wish it did](http://9gag.com/gag/adBBREM)
- - 😝 [It worked!](http://9gag.com/gag/aXPPGZP)
- - 💣 [Dude almost kills a kid by speeding down a mountain.](http://9gag.com/gag/a7ooAEq)
+ - 😝 [I also want a girl like this](http://9gag.com/gag/amoonqV)
+ - 😝 [Nice work](http://9gag.com/gag/a9yyNL6)
+ - 💣 [A lovely night in thailand part 1](http://9gag.com/gag/aGyyoEn)
  - 😝 [Lade Summoners War jetzt herunter und hol dir Gyomei Himejima kostenlos!](http://9gag.com/gag/aBydObO)
- - 👉 [Is it possible to learn this power?](http://9gag.com/gag/aW44N33)<!-- MEMES:END -->
+ - 👉 [Female Asian tourist stopped to buy food in New York before this happened](http://9gag.com/gag/apRRjmW)<!-- MEMES:END -->
 
 ---
 

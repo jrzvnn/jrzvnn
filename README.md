@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Prop Hunt](http://9gag.com/gag/aKGGNA3)
- - 😝 [Just to show how fast men can become friends](http://9gag.com/gag/aryy9b7)
- - 💣 [Show a little patience.](http://9gag.com/gag/aLnnNex)
+ - 😝 [People Offering Prayers At River Yamuna, India, Which Is Frothing From Industrial Waste](http://9gag.com/gag/aRBByKA)
+ - 😝 [Is it possible to learn this power?](http://9gag.com/gag/aW44N33)
+ - 💣 [Nice work](http://9gag.com/gag/a9yyNL6)
  - 😝 [Lade Summoners War jetzt herunter und hol dir Gyomei Himejima kostenlos!](http://9gag.com/gag/aBydObO)
- - 👉 [I am not old, you are old](http://9gag.com/gag/azxxoVp)<!-- MEMES:END -->
+ - 👉 [Still a hard choice even for lixen](http://9gag.com/gag/a9yy4Ko)<!-- MEMES:END -->
 
 ---
 

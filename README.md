@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Best Open Earbuds for 2025](https://www.cnet.com/tech/mobile/best-open-wireless-earbuds/#ftag=CAD590a51e)
- - [Dell Has a Gorgeous 32-Inch 4K Gaming Monitor for $400 Off](https://www.wired.com/story/alienware-aw3225qf-deal-january-2025/)
- - [The EU says upcoming sanctions on Russia aim to crack down on traders who send gaming consoles to Russia that are then often used by the army to control drones &lpar;Financial Times&rpar;](http://www.techmeme.com/250128/p22#a250128p22)
- - [New Geekbench update adds RISC-V and improves ARM Extension Support](https://appleinsider.com/articles/25/01/28/new-geekbench-update-adds-risc-v-and-improves-arm-extension-support?utm_medium=rss)
- - [Mortgage Predictions Weekly: What Fewer Fed Cuts Mean for Homebuyers](https://www.cnet.com/personal-finance/mortgage-predictions-weekly-what-fewer-fed-cuts-mean-for-homebuyers/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Judge hints Apple may face more antitrust controls in Germany](https://appleinsider.com/articles/25/01/28/judge-hints-apple-may-face-more-antitrust-controls-in-germany?utm_medium=rss)
+ - [Nearly two months after GM said it would stop funding Cruise robotaxi development, GM says it expects to save up to $1B annually thanks to the move &lpar;Rebecca Bellan/TechCrunch&rpar;](http://www.techmeme.com/250128/p25#a250128p25)
+ - [Garmin smartwatch users report their devices are bricking after starting any activity that uses GPS; Garmin says it is looking into the issue &lpar;Victoria Song/The Verge&rpar;](http://www.techmeme.com/250128/p24#a250128p24)
+ - [Valencia-based Quibim, which is developing foundational AI models for medical imaging, raised a $50M Series A co-led by Asabys and Buenavista &lpar;Paul Sawers/TechCrunch&rpar;](http://www.techmeme.com/250128/p23#a250128p23)
+ - [Dell Has a Gorgeous 32-Inch 4K Gaming Monitor for $400 Off](https://www.wired.com/story/alienware-aw3225qf-deal-january-2025/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

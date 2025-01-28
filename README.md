@@ -158,10 +158,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- TECH:START -->
  - [Hands-on with Samsung&#39;s Project Moohan headset: resembles Apple Vision Pro, Gemini integration shines, runs Android XR with mobile and tablet apps, and more &lpar;Marques Brownlee/Marques Brownlee on YouTube&rpar;](http://www.techmeme.com/250128/p1#a250128p1)
+ - [Today&#39;s NYT Mini Crossword Answers for Tuesday, Jan. 28](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-tuesday-jan-28/#ftag=CAD590a51e)
  - [DeepSeek&#39;s breakthroughs are a big win for app developers with more value accruing back into the app layer as the cost of intelligence continues to drop rapidly &lpar;Aaron Levie/@levie&rpar;](http://www.techmeme.com/250127/p33#a250127p33)
  - [How to record podcasts using FaceTime on iPad &amp; iPhone](https://appleinsider.com/inside/ipados/tips/how-to-record-podcasts-using-facetime-on-ipad-iphone?utm_medium=rss)
- - [Sam Altman says DeepSeek&#39;s R1 is an &quot;impressive model, particularly around what they&#39;re able to deliver for the price&quot; and OpenAI &quot;will pull up some releases&quot; &lpar;Vlad Savov/Bloomberg&rpar;](http://www.techmeme.com/250127/p32#a250127p32)
- - [Even with DeepSeek&#39;s breakthroughs, US tech companies still benefit from their large investments to train more advanced models and meet the resulting demand &lpar;Casey Newton/Platformer&rpar;](http://www.techmeme.com/250127/p31#a250127p31)<!-- TECH:END -->
+ - [Sam Altman says DeepSeek&#39;s R1 is an &quot;impressive model, particularly around what they&#39;re able to deliver for the price&quot; and OpenAI &quot;will pull up some releases&quot; &lpar;Vlad Savov/Bloomberg&rpar;](http://www.techmeme.com/250127/p32#a250127p32)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

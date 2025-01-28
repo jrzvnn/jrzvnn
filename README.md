@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Nope](http://9gag.com/gag/agmm6ng)
- - 😝 [Make education legal again](http://9gag.com/gag/a877XwY)
- - 💣 [Is it possible to learn this power?](http://9gag.com/gag/aW44N33)
+ - 😝 [Prop Hunt](http://9gag.com/gag/aKGGNA3)
+ - 😝 [Just to show how fast men can become friends](http://9gag.com/gag/aryy9b7)
+ - 💣 [Show a little patience.](http://9gag.com/gag/aLnnNex)
  - 😝 [Lade Summoners War jetzt herunter und hol dir Gyomei Himejima kostenlos!](http://9gag.com/gag/aBydObO)
- - 👉 [Listen to her](http://9gag.com/gag/awyyv4Q)<!-- MEMES:END -->
+ - 👉 [I am not old, you are old](http://9gag.com/gag/azxxoVp)<!-- MEMES:END -->
 
 ---
 

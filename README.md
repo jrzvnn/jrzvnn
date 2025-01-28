@@ -157,7 +157,7 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The UK CMA provisionally finds that competition in the cloud services market isn&#39;t working for consumers; AWS and Azure each control 40% of the UK market &lpar;Eleanor Thornber/Bloomberg&rpar;](http://www.techmeme.com/250128/p13#a250128p13)
+ - [The UK CMA provisionally finds that competition in the cloud services market isn&#39;t working for consumers; AWS and Azure each control 40% of the UK market &lpar;Bloomberg&rpar;](http://www.techmeme.com/250128/p13#a250128p13)
  - [Everything You Need to Know About HDR for TV](https://www.wired.com/2016/01/what-is-hdr-tv/)
  - [AI enterprise service management startup Atomicwork raised a $25M Series A led by Khosla Ventures and Z47, a source says at a $150M valuation &lpar;Kritika Lamba/Reuters&rpar;](http://www.techmeme.com/250128/p12#a250128p12)
  - [The Top New Features in Apple’s iOS 18 and iPadOS 18](https://www.wired.com/story/apple-iphone-ios-18-ipados-18-new-features/)

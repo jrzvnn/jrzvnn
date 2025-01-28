@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [How to fix weak Wi-Fi on a M4 Mac mini when connected to a drive or dock](https://appleinsider.com/inside/mac-mini/tips/how-to-fix-weak-wi-fi-on-a-m4-mac-mini-when-connected-to-a-drive-or-dock?utm_medium=rss)
  - [An ex-OpenAI safety researcher says he&#39;s &quot;terrified&quot; by AI development&#39;s pace and that labs racing to AGI can cut corners on alignment, pushing all to speed up &lpar;Dan Milmo/The Guardian&rpar;](http://www.techmeme.com/250128/p29#a250128p29)
  - [Best HP Laptop for 2025](https://www.cnet.com/tech/computing/best-hp-laptops/#ftag=CAD590a51e)
  - [Best Sounding Wireless Earbuds in 2025](https://www.cnet.com/tech/mobile/best-sounding-wireless-earbuds/#ftag=CAD590a51e)
- - [Best Wireless Car Chargers for 2025](https://www.cnet.com/tech/mobile/best-wireless-car-charger-and-mount/#ftag=CAD590a51e)
- - [Hugging Face researchers unveil Open-R1, a project to &quot;systematically reconstruct DeepSeek-R1&#39;s data and training pipeline&quot; for the open-source community &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/250128/p28#a250128p28)<!-- TECH:END -->
+ - [Best Wireless Car Chargers for 2025](https://www.cnet.com/tech/mobile/best-wireless-car-charger-and-mount/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

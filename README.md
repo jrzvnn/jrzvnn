@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [New Geekbench update adds RISC-V and improves ARM Extension Support](https://appleinsider.com/articles/25/01/28/new-geekbench-update-adds-risc-v-and-improves-arm-extension-support?utm_medium=rss)
  - [Fusion reactor startup Helion, which has a deal to supply Microsoft with electricity by 2028, raised a $425M Series F, valuing the company at $5.245B &lpar;Tim De Chant/TechCrunch&rpar;](http://www.techmeme.com/250128/p21#a250128p21)
  - [X announces X Money Account, a digital wallet and peer-to-peer payments service with Visa as its launch partner, debuting &quot;later this year&quot; &lpar;Hugh Son/CNBC&rpar;](http://www.techmeme.com/250128/p20#a250128p20)
  - [Hugging Face launches Inference Providers, which makes it easier for developers to run AI models on 3rd-party clouds; launch partners include SambaNova and Fal &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/250128/p19#a250128p19)
- - [Part of Karl Lagerfeld&#39;s impressive iPod collection has hit the auction block](https://appleinsider.com/articles/25/01/28/part-of-karl-lagerfelds-impressive-ipod-collection-has-hit-the-auction-block?utm_medium=rss)
- - [Best Shave Club for 2025](https://www.cnet.com/health/personal-care/best-shave-club/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Part of Karl Lagerfeld&#39;s impressive iPod collection has hit the auction block](https://appleinsider.com/articles/25/01/28/part-of-karl-lagerfelds-impressive-ipod-collection-has-hit-the-auction-block?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

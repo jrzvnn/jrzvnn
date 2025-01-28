@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [A new CVS iPhone app aims to make shopping at the pharmacy less frustrating](https://appleinsider.com/articles/25/01/28/a-new-cvs-iphone-app-aims-to-make-shopping-at-the-pharmacy-less-frustrating?utm_medium=rss)
  - [The 52 Best Shows on Disney+ Right Now &lpar;February 2025&rpar;](https://www.wired.com/story/best-shows-disney-plus/)
  - [DeepSeek Turned the AI World on Its Head, but Don&#39;t Fall For The Hype Just Yet](https://www.cnet.com/tech/services-and-software/deepseek-turned-the-ai-world-on-its-head-but-dont-fall-for-the-hype-just-yet/#ftag=CAD590a51e)
  - [What Happens to Student Loans and Financial Aid During Trump&#39;s Federal Funding Freeze?](https://www.cnet.com/personal-finance/loans/what-happens-to-student-loans-and-financial-aid-during-trumps-federal-funding-freeze/#ftag=CAD590a51e)
- - [Trump and the DOJ have been flouting a bipartisan law to shut down TikTok since his inauguration, and Republicans and Democrats seem to be doing little about it &lpar;Ankush Khardori/Politico&rpar;](http://www.techmeme.com/250128/p27#a250128p27)
- - [Don&#39;t Let &#39;Bad&#39; Credit Hold You Back. Try One of These Cards to Rebuild Your Credit Score](https://www.cnet.com/personal-finance/credit-cards/best-credit-cards-to-rebuild-your-credit-score/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Trump and the DOJ have been flouting a bipartisan law to shut down TikTok since his inauguration, and Republicans and Democrats seem to be doing little about it &lpar;Ankush Khardori/Politico&rpar;](http://www.techmeme.com/250128/p27#a250128p27)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

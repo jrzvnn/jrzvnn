@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [What This Week&#39;s Fed Decision Means for Mortgage Rates](https://www.cnet.com/personal-finance/what-this-weeks-fed-decision-means-for-mortgage-rates/#ftag=CAD590a51e)
  - [Chinese state media and social media viewed DeepSeek&#39;s success as a shot in the arm for a discouraged tech industry and a public suffering a stagnating economy &lpar;Li Yuan/New York Times&rpar;](http://www.techmeme.com/250128/p26#a250128p26)
- - [Last Chance to Save Hundreds on Tech, Small Appliances and More During Best Buy’s 48-Hour Flash Sale](https://www.cnet.com/deals/last-chance-to-save-hundreds-on-tech-small-appliances-and-more-during-best-buys-48-hour-flash-sale/#ftag=CAD590a51e)
- - [Call of Duty Black Ops 6 and Warzone Season 2 Is Live Now](https://www.cnet.com/tech/gaming/call-of-duty-black-ops-6-and-warzone-season-2-live-now/#ftag=CAD590a51e)
- - [Google Will Update Gulf of Mexico to &#39;Gulf of America&#39; in Maps](https://www.cnet.com/tech/google-will-update-gulf-of-mexico-to-gulf-of-america-in-maps/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Judge hints Apple may face more antitrust controls in Germany](https://appleinsider.com/articles/25/01/28/judge-hints-apple-may-face-more-antitrust-controls-in-germany?utm_medium=rss)
+ - [Nearly two months after GM said it would stop funding Cruise robotaxi development, GM says it expects to save up to $1B annually thanks to the move &lpar;Rebecca Bellan/TechCrunch&rpar;](http://www.techmeme.com/250128/p25#a250128p25)
+ - [Garmin smartwatch users report their devices are bricking after starting any activity that uses GPS; Garmin says it is looking into the issue &lpar;Victoria Song/The Verge&rpar;](http://www.techmeme.com/250128/p24#a250128p24)
+ - [Valencia-based Quibim, which is developing foundational AI models for medical imaging, raised a $50M Series A co-led by Asabys and Buenavista &lpar;Paul Sawers/TechCrunch&rpar;](http://www.techmeme.com/250128/p23#a250128p23)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

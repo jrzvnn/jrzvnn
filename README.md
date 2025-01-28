@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google says it will change Gulf of Mexico to Gulf of America on Maps after &quot;official government sources&quot; are updated, after Trump signed an EO changing the name &lpar;Jennifer Elias/CNBC&rpar;](http://www.techmeme.com/250127/p28#a250127p28)
- - [Trump vows to impose tariffs on foreign semiconductors in the &quot;near future&quot;, calls DeepSeek&#39;s AI progress &quot;a positive&quot; and &quot;a wake-up call&quot; for US industries &lpar;Bloomberg&rpar;](http://www.techmeme.com/250127/p27#a250127p27)
- - [Apple restores Marvel Snap, published by ByteDance&#39;s Nuverse, to the US App Store, and removes the card game from its document listing banned ByteDance apps &lpar;Marko Zivkovic/AppleInsider&rpar;](http://www.techmeme.com/250127/p26#a250127p26)
- - [FBI’s warrantless ‘backdoor’ searches ruled unconstitutional](https://www.theverge.com/2025/1/27/24353289/fbi-warrantless-backdoor-searches-unconstitutional-ruling)
- - [Best Internet Providers in San Antonio, Texas](https://www.cnet.com/home/internet/best-internet-providers-in-san-antonio-tx/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Hands-on with DeepSeek&#39;s chatbot: free access to powerful R1 model, but suffers from rampant hallucinations and lacks some ChatGPT tools like the memory feature &lpar;Reece Rogers/Wired&rpar;](http://www.techmeme.com/250127/p29#a250127p29)
+ - [Trump says he’ll put tariffs on imported chips ‘in the near future’](https://www.theverge.com/2025/1/27/24353388/trump-tariffs-chips-act-ai-deepseek)
+ - [DeepSeek vs. ChatGPT: Hands On With DeepSeek’s R1 Chatbot](https://www.wired.com/story/deepseek-chatbot-hands-on-vs-chatgpt/)
+ - [Best 75-Inch TV in 2025](https://www.cnet.com/tech/home-entertainment/best-75-inch-tv/#ftag=CAD590a51e)
+ - [Best Smart Displays of 2025](https://www.cnet.com/home/smart-home/best-smart-displays/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

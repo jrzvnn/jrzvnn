@@ -159,7 +159,7 @@ R                        1 repo              ░░░░░░░░░░░�
 <!-- TECH:START -->
  - [Spotify says it paid out $10B to the music industry in 2024, up from a record $9B in 2023, taking its total to $60B paid out since its 2006 founding &lpar;Jem Aswad/Variety&rpar;](http://www.techmeme.com/250128/p18#a250128p18)
  - [The &quot;DeepSeek moment&quot; is like in 2004 when Google detailed using distributed algorithms to build a supercomputer, and unlike Sputnik, when Russia shared little &lpar;@yishan&rpar;](http://www.techmeme.com/250128/p17#a250128p17)
- - [Paris-based Alice&amp;Bob, a pioneer in cat qubit quantum architecture, raised a &amp;euro;100M Series B to build a &quot;fault tolerant&quot; quantum computer, after a &amp;euro;27M A in 2022 &lpar;Ingrid Lunden/TechCrunch&rpar;](http://www.techmeme.com/250128/p16#a250128p16)
+ - [Paris-based Alice&amp;Bob, a cat qubit quantum architecture pioneer, raised a &amp;euro;100M Series B for a &quot;fault tolerant&quot; quantum computer, after a &amp;euro;27M Series A in 2022 &lpar;Ingrid Lunden/TechCrunch&rpar;](http://www.techmeme.com/250128/p16#a250128p16)
  - [All the Top New Features in MacOS Sequoia](https://www.wired.com/story/apple-macos-sequoia-features/)
  - [OpenAI launches ChatGPT Gov, built specifically for US government use, and says 90K+ government employees have generated 18M+ prompts since the start of 2024 &lpar;Hayden Field/CNBC&rpar;](http://www.techmeme.com/250128/p15#a250128p15)<!-- TECH:END -->
 

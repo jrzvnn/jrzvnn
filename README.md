@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Small gap](http://9gag.com/gag/amooKZy)
- - 😝 [You can just trick it.](http://9gag.com/gag/aKGGXjN)
- - 💣 [She Luigi Mangionied a Pdo.](http://9gag.com/gag/ae99y1B)
- - 😝 [Wut](http://9gag.com/gag/apRRz1W)
- - 👉 [Bet they are butt hurt about that](http://9gag.com/gag/ajPPMM0)<!-- MEMES:END -->
+ - 😝 [Only every 400 years\u2026.](http://9gag.com/gag/a6ZZeGN)
+ - 😝 [Trump, in less than 3 minutes, negotiates LA mayor from 18 months to tomorrow morning on when residents can return to their properties.](http://9gag.com/gag/aPAAzLQ)
+ - 💣 [It worked!](http://9gag.com/gag/aXPPGZP)
+ - 😝 [She Luigi Mangionied a Pdo.](http://9gag.com/gag/ae99y1B)
+ - 👉 [Wut](http://9gag.com/gag/apRRz1W)<!-- MEMES:END -->
 
 ---
 

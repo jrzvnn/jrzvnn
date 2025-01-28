@@ -158,10 +158,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- TECH:START -->
  - [An ex-OpenAI safety researcher says he&#39;s &quot;terrified&quot; by AI development&#39;s pace and that labs racing to AGI can cut corners on alignment, pushing all to speed up &lpar;Dan Milmo/The Guardian&rpar;](http://www.techmeme.com/250128/p29#a250128p29)
- - [Hugging Face researchers unveil Open-R1, a project to &quot;systematically reconstruct DeepSeek-R1&#39;s data and training pipeline&quot; for the open-source community &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/250128/p28#a250128p28)
- - [Two Apple Silicon chip flaws could expose your private data to thieves](https://appleinsider.com/articles/25/01/28/two-apple-silicon-chip-flaws-could-make-your-private-data-vulnerable-to-theft?utm_medium=rss)
- - [A new CVS iPhone app aims to make shopping at the pharmacy less frustrating](https://appleinsider.com/articles/25/01/28/a-new-cvs-iphone-app-aims-to-make-shopping-at-the-pharmacy-less-frustrating?utm_medium=rss)
- - [Google Will Update Gulf of Mexico to &#39;Gulf of America&#39; in Maps](https://www.cnet.com/tech/google-will-update-gulf-of-mexico-to-gulf-of-america-in-maps/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Best HP Laptop for 2025](https://www.cnet.com/tech/computing/best-hp-laptops/#ftag=CAD590a51e)
+ - [Best Sounding Wireless Earbuds in 2025](https://www.cnet.com/tech/mobile/best-sounding-wireless-earbuds/#ftag=CAD590a51e)
+ - [Best Wireless Car Chargers for 2025](https://www.cnet.com/tech/mobile/best-wireless-car-charger-and-mount/#ftag=CAD590a51e)
+ - [Hugging Face researchers unveil Open-R1, a project to &quot;systematically reconstruct DeepSeek-R1&#39;s data and training pipeline&quot; for the open-source community &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/250128/p28#a250128p28)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

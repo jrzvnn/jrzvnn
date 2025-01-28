@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [DeepSeek challenges the &quot;bigger is better&quot; narrative underpinning the AI arms race in recent years and suggests we may see more investment into smaller startups &lpar;Kevin Roose/New York Times&rpar;](http://www.techmeme.com/250128/p8#a250128p8)
+ - [Bookshop.org Now Sells Ebooks](https://www.wired.com/story/bookshop-now-sells-ebooks/)
  - [DeepSeek says it used Nvidia H800 chips, available in China until October 2023, to train R1, suggesting future models could be hampered by US export controls &lpar;Bloomberg&rpar;](http://www.techmeme.com/250128/p7#a250128p7)
  - [DeepSeek’s New AI Model Sparks Shock, Awe, and Questions From US Competitors](https://www.wired.com/story/deepseek-executives-reaction-silicon-valley/)
- - [Bridgewater founder Ray Dalio says investor exuberance over AI has fuelled a &quot;bubble&quot; in US stocks that resembles the build-up to the dotcom bust in 1998-1999 &lpar;Financial Times&rpar;](http://www.techmeme.com/250128/p6#a250128p6)
- - [Are You Lonely? Adopt a New Family on Facebook Today](https://www.wired.com/story/are-you-lonely-adopt-a-new-family-on-facebook-today/)
- - [EU appeals hearing: Google accuses the EC of making &quot;grave errors&quot; in its Android investigation that led to a record &amp;euro;4.3B fine; EU lawyers defended the case &lpar;Samuel Stolton/Bloomberg&rpar;](http://www.techmeme.com/250128/p5#a250128p5)<!-- TECH:END -->
+ - [Bridgewater founder Ray Dalio says investor exuberance over AI has fuelled a &quot;bubble&quot; in US stocks that resembles the build-up to the dotcom bust in 1998-1999 &lpar;Financial Times&rpar;](http://www.techmeme.com/250128/p6#a250128p6)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

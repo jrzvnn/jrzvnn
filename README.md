@@ -161,7 +161,7 @@ R                        1 repo              ░░░░░░░░░░░�
  - [Nearly two months after GM said it would stop funding Cruise robotaxi development, GM says it expects to save up to $1B annually thanks to the move &lpar;Rebecca Bellan/TechCrunch&rpar;](http://www.techmeme.com/250128/p25#a250128p25)
  - [Garmin smartwatch users report their devices are bricking after starting any activity that uses GPS; Garmin says it is looking into the issue &lpar;Victoria Song/The Verge&rpar;](http://www.techmeme.com/250128/p24#a250128p24)
  - [Valencia-based Quibim, which is developing foundational AI models for medical imaging, raised a $50M Series A co-led by Asabys and Buenavista &lpar;Paul Sawers/TechCrunch&rpar;](http://www.techmeme.com/250128/p23#a250128p23)
- - [Dell Has a Gorgeous 32-Inch 4K Gaming Monitor for $400 Off](https://www.wired.com/story/alienware-aw3225qf-deal-january-2025/)<!-- TECH:END -->
+ - [Best Open Earbuds for 2025](https://www.cnet.com/tech/mobile/best-open-wireless-earbuds/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Display supply chain analyst confirms iPhone SE 4 will have a notch](https://appleinsider.com/articles/25/01/28/display-supply-chain-analyst-confirms-iphone-se-4-will-have-a-notch?utm_medium=rss)
+ - [The US Navy has instructed its members to avoid using DeepSeek &quot;in any capacity&quot; due to &quot;potential security and ethical concerns&quot; &lpar;Hayden Field/CNBC&rpar;](http://www.techmeme.com/250128/p30#a250128p30)
  - [How to fix weak Wi-Fi on a M4 Mac mini when connected to a drive or dock](https://appleinsider.com/inside/mac-mini/tips/how-to-fix-weak-wi-fi-on-a-m4-mac-mini-when-connected-to-a-drive-or-dock?utm_medium=rss)
  - [An ex-OpenAI safety researcher says he&#39;s &quot;terrified&quot; by AI development&#39;s pace and that labs racing to AGI can cut corners on alignment, pushing all to speed up &lpar;Dan Milmo/The Guardian&rpar;](http://www.techmeme.com/250128/p29#a250128p29)
- - [Best HP Laptop for 2025](https://www.cnet.com/tech/computing/best-hp-laptops/#ftag=CAD590a51e)
- - [Best Sounding Wireless Earbuds in 2025](https://www.cnet.com/tech/mobile/best-sounding-wireless-earbuds/#ftag=CAD590a51e)
- - [Best Wireless Car Chargers for 2025](https://www.cnet.com/tech/mobile/best-wireless-car-charger-and-mount/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Best HP Laptop for 2025](https://www.cnet.com/tech/computing/best-hp-laptops/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

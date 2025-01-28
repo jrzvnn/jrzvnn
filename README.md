@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Elon Musk Lackeys Have Taken Over the Office of Personnel Management](https://www.wired.com/story/elon-musk-lackeys-office-personnel-management-opm-neuralink-x-boring-stalin/)
+ - [Trump&#39;s &#39;Gulf of America&#39; Order Has Mapmakers Completely Lost](https://www.wired.com/story/trump-gulf-of-america-order-maps/)
  - [Dubious leak claims Clock notifications getting a partial redesign](https://appleinsider.com/articles/25/01/28/dubious-leak-claims-clock-notifications-getting-a-partial-redesign?utm_medium=rss)
  - [OpenAI told some shareholders revenue from its $200/month ChatGPT Pro plan surpassed that of ChatGPT Enterprise, which was generating $25M/month as of September &lpar;The Information&rpar;](http://www.techmeme.com/250128/p32#a250128p32)
- - [Researchers detail two Apple silicon side-channel attacks that could leak secrets: SLAP, affecting M2, A15, and newer chips, and FLOP, affecting M3, M4, and A17 &lpar;Dan Goodin/Ars Technica&rpar;](http://www.techmeme.com/250128/p31#a250128p31)
- - [Display supply chain analyst confirms iPhone SE 4 will have a notch](https://appleinsider.com/articles/25/01/28/display-supply-chain-analyst-confirms-iphone-se-4-will-have-a-notch?utm_medium=rss)
- - [The US Navy has instructed its members to avoid using DeepSeek &quot;in any capacity&quot; due to &quot;potential security and ethical concerns&quot; &lpar;Hayden Field/CNBC&rpar;](http://www.techmeme.com/250128/p30#a250128p30)<!-- TECH:END -->
+ - [Researchers detail two Apple silicon side-channel attacks that could leak secrets: SLAP, affecting M2, A15, and newer chips, and FLOP, affecting M3, M4, and A17 &lpar;Dan Goodin/Ars Technica&rpar;](http://www.techmeme.com/250128/p31#a250128p31)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

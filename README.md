@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Show a little patience.](http://9gag.com/gag/aLnnNex)
- - 😝 [Long time user here, never posted. But yesterday i lost my best friend to cancer after 10 years together. Im on my way to have him cremated, just wanted some of you guys to see how beautiful he was. F**king hurts, i just hope he&#39;s chasing sticks somewhere.](http://9gag.com/gag/a9yyN8D)
- - 💣 [Friendly reminder](http://9gag.com/gag/a0eezdz)
- - 😝 [Your average relatable billionaire sharing expert opinion](http://9gag.com/gag/aO88noy)
- - 👉 [Finally caught the lying shit on camera](http://9gag.com/gag/aMVV0jG)<!-- MEMES:END -->
+ - 😝 [It&#39;s all Good](http://9gag.com/gag/aLnnN75)
+ - 😝 [People Offering Prayers At River Yamuna, India, Which Is Frothing From Industrial Waste](http://9gag.com/gag/aRBByKA)
+ - 💣 [Is it possible to learn this power?](http://9gag.com/gag/aW44N33)
+ - 😝 [Small gap](http://9gag.com/gag/amooKZy)
+ - 👉 [It&#39;s hammer time!](http://9gag.com/gag/aAyyNRp)<!-- MEMES:END -->
 
 ---
 

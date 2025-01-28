@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [SAP reports Q4 cloud revenue up 27% YoY to &amp;euro;4.71B, above &amp;euro;4.68B est., driven by AI demand, names a suite of new executives, and plans to simplify its strategy &lpar;Christina Kyriasoglou/Bloomberg&rpar;](http://www.techmeme.com/250128/p4#a250128p4)
  - [Best Weightlifting Shoes for 2025](https://www.cnet.com/health/fitness/best-weightlifting-shoes/#ftag=CAD590a51e)
  - [Three case studies using GPT-4o, OpenAI o1, and Claude 3.5 Sonnet for historical research show that the models are now good enough for PhD-level analysis &lpar;Benjamin Breen/Res Obscura&rpar;](http://www.techmeme.com/250128/p3#a250128p3)
  - [Best Internet Providers in North Carolina](https://www.cnet.com/home/internet/best-internet-providers-in-north-carolina/#ftag=CAD590a51e)
- - [50% Off Home Chef Promo Code and Coupons](https://www.wired.com/story/home-chef-promo-code/)
- - [Business travel startup TravelPerk raised a $200M Series E at a $2.7B valuation and buys expense management startup Yokoy, a source says for a &quot;nine-figure&quot; sum &lpar;Paul Sawers/TechCrunch&rpar;](http://www.techmeme.com/250128/p2#a250128p2)<!-- TECH:END -->
+ - [50% Off Home Chef Promo Code and Coupons](https://www.wired.com/story/home-chef-promo-code/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

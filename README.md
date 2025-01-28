@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Robotnik Dance Scene](http://9gag.com/gag/a7ooPqe)
- - 😝 [He finished her\ud83d\udc80](http://9gag.com/gag/a9yyBZL)
- - 💣 [Matthew\u2019s wife had decisions to make](http://9gag.com/gag/agmmjV6)
+ - 😝 [What are the odds](http://9gag.com/gag/a0eeDRz)
+ - 😝 [Dude almost kills a kid by speeding down a mountain.](http://9gag.com/gag/a7ooAEq)
+ - 💣 [A lovely night in thailand part 1](http://9gag.com/gag/aGyyoEn)
  - 😝 [Lade Summoners War jetzt herunter und hol dir Gyomei Himejima kostenlos!](http://9gag.com/gag/aBydObO)
- - 👉 [Female Asian tourist stopped to buy food in New York before this happened](http://9gag.com/gag/apRRjmW)<!-- MEMES:END -->
+ - 👉 [We are idiots](http://9gag.com/gag/aByyvwz)<!-- MEMES:END -->
 
 ---
 

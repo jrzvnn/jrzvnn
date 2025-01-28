@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [EU appeals hearing: Google accuses the EC of making &quot;grave errors&quot; in its Android investigation that led to a record &amp;euro;4.3B fine; EU lawyers defended the case &lpar;Samuel Stolton/Bloomberg&rpar;](http://www.techmeme.com/250128/p5#a250128p5)
- - [Best Squat Racks of 2025](https://www.cnet.com/health/fitness/best-squat-racks/#ftag=CAD590a51e)
- - [SAP reports Q4 cloud revenue up 27% YoY to &amp;euro;4.71B, above &amp;euro;4.68B est., driven by AI demand, names a suite of new executives, and plans to simplify its strategy &lpar;Christina Kyriasoglou/Bloomberg&rpar;](http://www.techmeme.com/250128/p4#a250128p4)
- - [Lock In a High APY Ahead of This Week&#39;s Fed Meeting. Today&#39;s CD Rates, Jan. 28, 2025](https://www.cnet.com/personal-finance/banking/lock-in-a-high-apy-ahead-of-this-weeks-fed-meeting-todays-cd-rates-jan-28-2025/#ftag=CAD590a51e)
- - [Today&#39;s NYT Connections: Sports Edition Hints and Answers for Jan. 28, #127](https://www.cnet.com/tech/gaming/todays-nyt-connections-sports-edition-hints-and-answers-for-jan-28-127/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [DeepSeek says it used Nvidia H800 chips, available in China until October 2023, to train R1, suggesting future models could be hampered by US export controls &lpar;Bloomberg&rpar;](http://www.techmeme.com/250128/p7#a250128p7)
+ - [DeepSeek’s New AI Model Sparks Shock, Awe, and Questions From US Competitors](https://www.wired.com/story/deepseek-executives-reaction-silicon-valley/)
+ - [Bridgewater founder Ray Dalio says investor exuberance over AI has fuelled a &quot;bubble&quot; in US stocks that resembles the build-up to the dotcom bust in 1998-1999 &lpar;Financial Times&rpar;](http://www.techmeme.com/250128/p6#a250128p6)
+ - [Are You Lonely? Adopt a New Family on Facebook Today](https://www.wired.com/story/are-you-lonely-adopt-a-new-family-on-facebook-today/)
+ - [EU appeals hearing: Google accuses the EC of making &quot;grave errors&quot; in its Android investigation that led to a record &amp;euro;4.3B fine; EU lawyers defended the case &lpar;Samuel Stolton/Bloomberg&rpar;](http://www.techmeme.com/250128/p5#a250128p5)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

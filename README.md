@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Slow down ubi, your savior ac shadow is not even out yet](http://9gag.com/gag/a2vv9MZ)
- - 😝 [Dude almost kills a kid by speeding down a mountain.](http://9gag.com/gag/a7ooAEq)
- - 💣 [It&#39;s hammer time!](http://9gag.com/gag/aAyyNRp)
+ - 😝 [Show a little patience.](http://9gag.com/gag/aLnnNex)
+ - 😝 [....and became a snow bunny](http://9gag.com/gag/aD22r67)
+ - 💣 [Your average relatable billionaire sharing expert opinion](http://9gag.com/gag/aO88noy)
  - 😝 [Lade Summoners War jetzt herunter und hol dir Gyomei Himejima kostenlos!](http://9gag.com/gag/aBydObO)
- - 👉 [A whole new generation of masks](http://9gag.com/gag/aRBBNG2)<!-- MEMES:END -->
+ - 👉 [I am not old, you are old](http://9gag.com/gag/azxxoVp)<!-- MEMES:END -->
 
 ---
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [OpenAI launches ChatGPT Gov, built specifically for US government use, and says 90K+ government employees have generated 18M+ prompts since the start of 2024 &lpar;Hayden Field/CNBC&rpar;](http://www.techmeme.com/250128/p15#a250128p15)
+ - [Trump&#39;s chip tariff threat takes aim at Apple&#39;s TSMC partnership](https://appleinsider.com/articles/25/01/28/trumps-chip-tariff-threat-takes-aim-at-apples-tsmc-partnership?utm_medium=rss)
+ - [DJI Flip Review: A Fabulous Follow Me Folding Drone](https://www.wired.com/review/dji-flip/)
  - [How to fix weak Wi-Fi on a M4 Mac mini when connected to a drive or dock](https://appleinsider.com/inside/mac-mini/tips/how-to-fix-weak-wi-fi-on-a-m4-mac-mini-when-connected-to-a-drive-or-dock?utm_medium=rss)
- - [A profile of DeepSeek creator Liang Wenfeng, a math geek who founded hedge fund High-Flyer in 2015 and had to apologize to investors about returns in 2021 &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/250128/p14#a250128p14)
- - [The UK CMA provisionally finds that competition in the cloud services market isn&#39;t working for consumers; AWS and Azure each control 40% of the UK market &lpar;Bloomberg&rpar;](http://www.techmeme.com/250128/p13#a250128p13)
- - [Everything You Need to Know About HDR for TV](https://www.wired.com/2016/01/what-is-hdr-tv/)
- - [AI enterprise service management startup Atomicwork raised a $25M Series A led by Khosla Ventures and Z47, a source says at a $150M valuation &lpar;Kritika Lamba/Reuters&rpar;](http://www.techmeme.com/250128/p12#a250128p12)<!-- TECH:END -->
+ - [A profile of DeepSeek creator Liang Wenfeng, a math geek who founded hedge fund High-Flyer in 2015 and had to apologize to investors about returns in 2021 &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/250128/p14#a250128p14)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

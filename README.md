@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [What are the odds](http://9gag.com/gag/a0eeDRz)
- - 😝 [Dude almost kills a kid by speeding down a mountain.](http://9gag.com/gag/a7ooAEq)
- - 💣 [A lovely night in thailand part 1](http://9gag.com/gag/aGyyoEn)
+ - 😝 [Wut](http://9gag.com/gag/apRRz1W)
+ - 😝 [Matthew\u2019s wife had decisions to make](http://9gag.com/gag/agmmjV6)
+ - 💣 [She Luigi Mangionied a Pdo.](http://9gag.com/gag/ae99y1B)
  - 😝 [Lade Summoners War jetzt herunter und hol dir Gyomei Himejima kostenlos!](http://9gag.com/gag/aBydObO)
- - 👉 [We are idiots](http://9gag.com/gag/aByyvwz)<!-- MEMES:END -->
+ - 👉 [What are the odds](http://9gag.com/gag/a0eeDRz)<!-- MEMES:END -->
 
 ---
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Only every 400 years\u2026.](http://9gag.com/gag/a6ZZeGN)
- - 😝 [Trump, in less than 3 minutes, negotiates LA mayor from 18 months to tomorrow morning on when residents can return to their properties.](http://9gag.com/gag/aPAAzLQ)
- - 💣 [It worked!](http://9gag.com/gag/aXPPGZP)
+ - 😝 [Paternoster Elevator &lpar;or continuous elevator&rpar; does not have doors and never stops](http://9gag.com/gag/apRRjEb)
  - 😝 [She Luigi Mangionied a Pdo.](http://9gag.com/gag/ae99y1B)
- - 👉 [Wut](http://9gag.com/gag/apRRz1W)<!-- MEMES:END -->
+ - 💣 [Trump, in less than 3 minutes, negotiates LA mayor from 18 months to tomorrow morning on when residents can return to their properties.](http://9gag.com/gag/aPAAzLQ)
+ - 😝 [It worked!](http://9gag.com/gag/aXPPGZP)
+ - 👉 [It&#39;s hammer time!](http://9gag.com/gag/aAyyNRp)<!-- MEMES:END -->
 
 ---
 

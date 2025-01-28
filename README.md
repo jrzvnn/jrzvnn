@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Trump and the DOJ have been flouting a bipartisan law to shut down TikTok since his inauguration, and Republicans and Democrats seem to be doing little about it &lpar;Ankush Khardori/Politico&rpar;](http://www.techmeme.com/250128/p27#a250128p27)
  - [What This Week&#39;s Fed Decision Means for Mortgage Rates](https://www.cnet.com/personal-finance/what-this-weeks-fed-decision-means-for-mortgage-rates/#ftag=CAD590a51e)
  - [Chinese state media and social media viewed DeepSeek&#39;s success as a shot in the arm for a discouraged tech industry and a public suffering a stagnating economy &lpar;Li Yuan/New York Times&rpar;](http://www.techmeme.com/250128/p26#a250128p26)
  - [Last Chance to Save Hundreds on Tech, Small Appliances and More During Best Buy’s 48-Hour Flash Sale](https://www.cnet.com/deals/last-chance-to-save-hundreds-on-tech-small-appliances-and-more-during-best-buys-48-hour-flash-sale/#ftag=CAD590a51e)
- - [Call of Duty Black Ops 6 and Warzone Season 2 Is Live Now](https://www.cnet.com/tech/gaming/call-of-duty-black-ops-6-and-warzone-season-2-live-now/#ftag=CAD590a51e)
- - [Google Will Update Gulf of Mexico to &#39;Gulf of America&#39; in Maps](https://www.cnet.com/tech/google-will-update-gulf-of-mexico-to-gulf-of-america-in-maps/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Call of Duty Black Ops 6 and Warzone Season 2 Is Live Now](https://www.cnet.com/tech/gaming/call-of-duty-black-ops-6-and-warzone-season-2-live-now/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The &quot;DeepSeek moment&quot; is like in 2004 when Google detailed using distributed algorithms to build a supercomputer, and unlike Sputnik, when Russia shared little &lpar;@yishan&rpar;](http://www.techmeme.com/250128/p17#a250128p17)
  - [Paris-based Alice&amp;Bob, a pioneer in cat qubit quantum architecture, raised a &amp;euro;100M Series B to build a &quot;fault tolerant&quot; quantum computer, after a &amp;euro;27M A in 2022 &lpar;Ingrid Lunden/TechCrunch&rpar;](http://www.techmeme.com/250128/p16#a250128p16)
  - [All the Top New Features in MacOS Sequoia](https://www.wired.com/story/apple-macos-sequoia-features/)
  - [OpenAI launches ChatGPT Gov, built specifically for US government use, and says 90K+ government employees have generated 18M+ prompts since the start of 2024 &lpar;Hayden Field/CNBC&rpar;](http://www.techmeme.com/250128/p15#a250128p15)
- - [Trump&#39;s chip tariff threat takes aim at Apple&#39;s TSMC partnership](https://appleinsider.com/articles/25/01/28/trumps-chip-tariff-threat-takes-aim-at-apples-tsmc-partnership?utm_medium=rss)
- - [DJI Flip Review: A Fabulous Follow Me Folding Drone](https://www.wired.com/review/dji-flip/)<!-- TECH:END -->
+ - [Trump&#39;s chip tariff threat takes aim at Apple&#39;s TSMC partnership](https://appleinsider.com/articles/25/01/28/trumps-chip-tariff-threat-takes-aim-at-apples-tsmc-partnership?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

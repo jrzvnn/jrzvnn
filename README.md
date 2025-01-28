@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Wut](http://9gag.com/gag/apRRz1W)
- - 😝 [Matthew\u2019s wife had decisions to make](http://9gag.com/gag/agmmjV6)
- - 💣 [She Luigi Mangionied a Pdo.](http://9gag.com/gag/ae99y1B)
+ - 😝 [Make education legal again](http://9gag.com/gag/a877XwY)
+ - 😝 [Listen to her](http://9gag.com/gag/awyyv4Q)
+ - 💣 [Y&#39;all remember when some kid cracked an egg on an Australian politician&#39;s head?](http://9gag.com/gag/a5QQDBy)
  - 😝 [Lade Summoners War jetzt herunter und hol dir Gyomei Himejima kostenlos!](http://9gag.com/gag/aBydObO)
- - 👉 [What are the odds](http://9gag.com/gag/a0eeDRz)<!-- MEMES:END -->
+ - 👉 [People Offering Prayers At River Yamuna, India, Which Is Frothing From Industrial Waste](http://9gag.com/gag/aRBByKA)<!-- MEMES:END -->
 
 ---
 

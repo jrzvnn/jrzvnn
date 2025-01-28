@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Show a little patience.](http://9gag.com/gag/aLnnNex)
- - 😝 [....and became a snow bunny](http://9gag.com/gag/aD22r67)
- - 💣 [Your average relatable billionaire sharing expert opinion](http://9gag.com/gag/aO88noy)
+ - 😝 [Nope](http://9gag.com/gag/agmm6ng)
+ - 😝 [Make education legal again](http://9gag.com/gag/a877XwY)
+ - 💣 [Is it possible to learn this power?](http://9gag.com/gag/aW44N33)
  - 😝 [Lade Summoners War jetzt herunter und hol dir Gyomei Himejima kostenlos!](http://9gag.com/gag/aBydObO)
- - 👉 [I am not old, you are old](http://9gag.com/gag/azxxoVp)<!-- MEMES:END -->
+ - 👉 [Listen to her](http://9gag.com/gag/awyyv4Q)<!-- MEMES:END -->
 
 ---
 

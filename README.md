@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [How to record podcasts using FaceTime on iPad &amp; iPhone](https://appleinsider.com/inside/ipados/tips/how-to-record-podcasts-using-facetime-on-ipad-iphone?utm_medium=rss)
+ - [Sam Altman says DeepSeek&#39;s R1 is an &quot;impressive model, particularly around what they&#39;re able to deliver for the price&quot; and OpenAI &quot;will pull up some releases&quot; &lpar;Vlad Savov/Bloomberg&rpar;](http://www.techmeme.com/250127/p32#a250127p32)
  - [Even with DeepSeek&#39;s breakthroughs, US tech companies still benefit from their large investments to train more advanced models and meet the resulting demand &lpar;Casey Newton/Platformer&rpar;](http://www.techmeme.com/250127/p31#a250127p31)
  - [When asked if Microsoft is in discussions to purchase TikTok, Donald Trump told reporters &quot;I would say yes&quot; &lpar;Bloomberg&rpar;](http://www.techmeme.com/250127/p30#a250127p30)
- - [Google Maps in the US will change to Gulf of America and Mount McKinley](https://www.theverge.com/2025/1/27/24353450/google-maps-rename-gulf-of-mexico-america-mt-mckinley)
- - [Hands-on with DeepSeek&#39;s chatbot: R1 model is free and powerful, but suffers from rampant hallucinations and lacks some ChatGPT tools like the memory feature &lpar;Reece Rogers/Wired&rpar;](http://www.techmeme.com/250127/p29#a250127p29)
- - [Trump says he’ll put tariffs on imported chips ‘in the near future’](https://www.theverge.com/2025/1/27/24353388/trump-tariffs-chips-act-ai-deepseek)<!-- TECH:END -->
+ - [Google Maps in the US will change to Gulf of America and Mount McKinley](https://www.theverge.com/2025/1/27/24353450/google-maps-rename-gulf-of-mexico-america-mt-mckinley)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

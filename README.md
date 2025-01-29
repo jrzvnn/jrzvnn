@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [DeepSeek&#39;s app is unavailable on Apple&#39;s App Store and Google&#39;s Play Store in Italy, after its data protection regulator says it questioned DeepSeek &lpar;Stefano Bernabei/Reuters&rpar;](http://www.techmeme.com/250129/p21#a250129p21)
  - [Nvidia GeForce RTX 5080 review: slim, lightweight, reasonable power draw, and DLSS 4, but mild generational performance uplift and spotty availability at launch &lpar;Ben Wilson/Windows Central&rpar;](http://www.techmeme.com/250129/p20#a250129p20)
  - [12 Best USB Microphones &lpar;2025&rpar;: USB-C, USB-A, Wireless, and Mic Accessories](https://www.wired.com/gallery/best-usb-microphones/)
  - [Sources detail Elon Musk&#39;s time in government, bringing his friends and employees, as he races to cut staff; Musk&#39;s plane has not left DC since the inauguration &lpar;New York Times&rpar;](http://www.techmeme.com/250129/p19#a250129p19)
- - [Super Bowl 2025: Date, Time, How to Watch Chiefs vs. Eagles for Free from Anywhere](https://www.cnet.com/tech/services-and-software/super-bowl-2025-date-time-how-to-watch-chiefs-vs-eagles-for-free-from-anywhere/#ftag=CAD590a51e)
- - [I Tried AI as a Stylist. It Was Surprisingly Fashionable](https://www.cnet.com/tech/services-and-software/i-tried-ai-as-a-stylist-it-was-surprisingly-fashionable/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Super Bowl 2025: Date, Time, How to Watch Chiefs vs. Eagles for Free from Anywhere](https://www.cnet.com/tech/services-and-software/super-bowl-2025-date-time-how-to-watch-chiefs-vs-eagles-for-free-from-anywhere/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

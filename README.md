@@ -160,8 +160,8 @@ R                        1 repo              ░░░░░░░░░░░�
  - [iOS 18.3 brings support for Starlink through T-Mobile, but it&#39;s still in beta](https://appleinsider.com/articles/25/01/29/ios-183-brings-support-for-starlink-through-t-mobile-but-its-still-in-beta?utm_medium=rss)
  - [In an internal memo, Andrew Bosworth says Meta&#39;s Reality Labs beat nearly all its sales and user targets for 2024, growing sales &quot;&gt;40% YoY overall&quot; &lpar;Jyoti Mann/Business Insider&rpar;](http://www.techmeme.com/250128/p41#a250128p41)
  - [Sources: Apple has been working with SpaceX and T-Mobile to add Starlink support in iOS 18.3; T-Mobile is testing with some users, only for texting initially &lpar;Mark Gurman/Bloomberg&rpar;](http://www.techmeme.com/250128/p40#a250128p40)
- - [Sony names CFO Hiroki Totoki as CEO, succeeding Kenichiro Yoshida, and PlayStation co-CEO Hideaki Nishino as CEO of Sony Interactive Entertainment, from April 1 &lpar;Cynthia Littleton/Variety&rpar;](http://www.techmeme.com/250128/p39#a250128p39)
- - [Elon Musk Is Running the Twitter Playbook on the Federal Government](https://www.wired.com/story/elon-musk-twitter-playbook-federal-government/)<!-- TECH:END -->
+ - [Trump&#39;s Funding Freeze Halted. What Financial Aid and Student Loan Recipients Should Know](https://www.cnet.com/personal-finance/loans/trumps-funding-freeze-halted-what-financial-aid-and-student-loan-recipients-should-know/#ftag=CAD590a51e)
+ - [Sony names CFO Hiroki Totoki as CEO, succeeding Kenichiro Yoshida, and PlayStation co-CEO Hideaki Nishino as CEO of Sony Interactive Entertainment, from April 1 &lpar;Cynthia Littleton/Variety&rpar;](http://www.techmeme.com/250128/p39#a250128p39)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

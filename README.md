@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Waymo plans to test in 10 new US cities in 2025, starting with Las Vegas and San Diego, as it aims for robotaxi operations in Austin, Atlanta, and Miami soon &lpar;Andrew J. Hawkins/The Verge&rpar;](http://www.techmeme.com/250129/p31#a250129p31)
+ - [Trump’s Plan for Elon Musk to Bring the ‘Stranded’ Astronauts Home ASAP Is a Headache for NASA](https://www.wired.com/story/trumps-plan-for-elon-musk-to-bring-the-stranded-astronauts-home-asap-is-a-headache-for-nasa/)
  - [Full seasons of Netflix shows can be downloaded to iPhone with a single tap](https://appleinsider.com/articles/25/01/29/full-seasons-of-netflix-shows-can-be-downloaded-to-iphone-with-a-single-tap?utm_medium=rss)
  - [Sources: the Trump administration is exploring additional curbs on the sale of chips to China to cover Nvidia&#39;s scaled-down H20, designed for the Chinese market &lpar;Bloomberg&rpar;](http://www.techmeme.com/250129/p30#a250129p30)
- - [Apple&#39;s most profitable iPhone upgrade is quietly losing steam](https://appleinsider.com/articles/25/01/29/apples-most-profitable-iphone-upgrade-is-quietly-losing-steam?utm_medium=rss)
- - [DeepSeek makes US export controls to China even more important, and DeepSeek-V3 is not a unique breakthrough but an expected point on a cost reduction curve &lpar;Dario Amodei&rpar;](http://www.techmeme.com/250129/p29#a250129p29)
- - [Before and After Photos: I Tested a Silk Pillowcase to Fix My Angry Bedhead](https://www.cnet.com/health/sleep/before-after-photos-tried-silk-pillowcase-fix-bedhead/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Apple&#39;s most profitable iPhone upgrade is quietly losing steam](https://appleinsider.com/articles/25/01/29/apples-most-profitable-iphone-upgrade-is-quietly-losing-steam?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

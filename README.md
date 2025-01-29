@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [ASML CEO Christophe Fouquet says cheaper AI &quot;could mean more applications&quot; and &quot;more demand over time&quot;, and &quot;cost and energy&quot; are the big issues to address &lpar;Ryan Browne/CNBC&rpar;](http://www.techmeme.com/250129/p16#a250129p16)
+ - [Appfigures: ChatGPT&#39;s app has grossed $529M since its May 2023 release, around 4x the second-highest earner, as AI app spending grew ~4x YoY to $1.4B in 2024 &lpar;Vlad Savov/Bloomberg&rpar;](http://www.techmeme.com/250129/p15#a250129p15)
+ - [This Blood Vessel Was Grown in a Lab With Real Human Cells](https://www.wired.com/story/this-blood-vessel-was-grown-in-a-lab-with-real-human-cells/)
  - [The UK National Audit Office says the government was operating at least 228 &quot;legacy&quot; computer systems as of March 2024, increasing the risk of a disruptive hack &lpar;Ryan Gallagher/Bloomberg&rpar;](http://www.techmeme.com/250129/p14#a250129p14)
- - [DeepSeek&#39;s app tops the US Play Store; Appfigures says the DeepSeek app has 1.9M+ downloads on the App Store and 1.2M+ on the Play Store since mid-January 2025 &lpar;Ivan Mehta/TechCrunch&rpar;](http://www.techmeme.com/250129/p13#a250129p13)
- - [A look at Huawei&#39;s HarmonyOS Next, a China-only OS decoupled from Android that is still missing many third-party apps, despite supporting some key ones in China &lpar;Bloomberg&rpar;](http://www.techmeme.com/250129/p12#a250129p12)
- - [A look at MrDeepFakes, a site with obscure ownership that hosts non-consensual deepfake porn, has close to 650K members, and gets millions of visits per month &lpar;bellingcat&rpar;](http://www.techmeme.com/250129/p11#a250129p11)
- - [Paris-based online corporate event booking marketplace Naboo raised a &amp;euro;20M Series A led by Notion Capital, and says its 2024 booking volumes grew 4x YoY to &amp;euro;60M &lpar;Romain Dillet/TechCrunch&rpar;](http://www.techmeme.com/250129/p10#a250129p10)<!-- TECH:END -->
+ - [Maximize Your Money With APYs Up to 4.65%. Today&#39;s CD Rates, Jan. 29, 2025](https://www.cnet.com/personal-finance/banking/maximize-your-money-with-apys-up-to-4-65-todays-cd-rates-jan-29-2025/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

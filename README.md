@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Vandatrack: retail traders bought a net $562M of Nvidia&#39;s stock on January 27, a record, and $360M on January 28, after DeepSeek&#39;s AI model sent NVDA crashing &lpar;Financial Times&rpar;](http://www.techmeme.com/250129/p25#a250129p25)
  - [Huawei adds DeepSeek&#39;s R1 to its ModelArts Studio platform, saying the free model is &quot;Ascend-adapted&quot;, referencing its data center GPUs, but offers few details &lpar;Matthew Connatser/Tom&#39;s Hardware&rpar;](http://www.techmeme.com/250129/p24#a250129p24)
  - [iOS 18.3 brings support for Starlink through T-Mobile, but it&#39;s still in beta](https://appleinsider.com/articles/25/01/29/ios-183-brings-support-for-starlink-through-t-mobile-but-its-still-in-beta?utm_medium=rss)
  - [Ampere: users spent $465M on Microsoft games in December, making it the biggest publisher, ahead of EA&#39;s $366M; Call of Duty HQ had 38M MAUs in November 2024 &lpar;Christopher Dring/Video Games Chronicle&rpar;](http://www.techmeme.com/250129/p23#a250129p23)
- - [How to install macOS games from Steam or the App Store on an external drive](https://appleinsider.com/inside/macos-sequoia/tips/how-to-install-macos-games-from-steam-or-the-app-store-on-an-external-drive?utm_medium=rss)
- - [Comcast starts rolling out its &quot;pioneering new, ultra-low lag connectivity experience&quot; to select US cities, using the L4S standard to significantly cut latency &lpar;Jay Peters/The Verge&rpar;](http://www.techmeme.com/250129/p22#a250129p22)<!-- TECH:END -->
+ - [How to install macOS games from Steam or the App Store on an external drive](https://appleinsider.com/inside/macos-sequoia/tips/how-to-install-macos-games-from-steam-or-the-app-store-on-an-external-drive?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

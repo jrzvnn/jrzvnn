@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [A US federal judge denied a motion by Apple to intervene as a defendant in the remedy trial of the DOJ vs. Google case, saying Apple&#39;s motion was untimely &lpar;Ryan Knappenberger/Courthouse News ...&rpar;](http://www.techmeme.com/250129/p4#a250129p4)
+ - [KitchenAid Promo Codes and Coupons: $200 Off](https://www.wired.com/story/exclusive-kitchenaid-promo-code/)
  - [Crypto risk modeling firm Gauntlet estimates the $TRUMP memecoin has generated at least $11.4M in fees for entities linked to President Trump since its launch &lpar;Muyao Shen/Bloomberg&rpar;](http://www.techmeme.com/250129/p3#a250129p3)
  - [OpenAI says it had seen some evidence that DeepSeek used &quot;distillation&quot; to train its open-source competitor by using outputs from OpenAI&#39;s proprietary models &lpar;Financial Times&rpar;](http://www.techmeme.com/250129/p2#a250129p2)
- - [Google says &quot;Sensitive is simply used in our internal systems for countries that see different official names in Maps&quot;, after adding the US to that list &lpar;@newsfromgoogle&rpar;](http://www.techmeme.com/250129/p1#a250129p1)
- - [DeepSeek-R1 refuses to answer ~85% of 1,360 prompts on sensitive topics in China, but the restrictions can be bypassed via simple jailbreaking &lpar;promptfoo&rpar;](http://www.techmeme.com/250128/p43#a250128p43)
- - [Today&#39;s NYT Mini Crossword Answers for Wednesday, Jan. 29](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-wednesday-jan-29/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Google says &quot;Sensitive is simply used in our internal systems for countries that see different official names in Maps&quot;, after adding the US to that list &lpar;@newsfromgoogle&rpar;](http://www.techmeme.com/250129/p1#a250129p1)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

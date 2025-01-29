@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Employer.com founder Jesse Tinsley says his US investor group vying to buy TikTok has secured $20B+ and recruited the CEOs of Roblox and Anchorage as investors &lpar;Alexandra S. Levine/Bloomberg&rpar;](http://www.techmeme.com/250129/p41#a250129p41)
  - [Meta&#39;s Reality Labs posts Q4 revenue up 1% YoY to $1.1B, vs. $1.1B est., and a $4.97B operating loss, vs. $5.4B est.; Reality Labs has lost $60B+ since 2020 &lpar;Jonathan Vanian/CNBC&rpar;](http://www.techmeme.com/250129/p40#a250129p40)
  - [Microsoft adds DeepSeek&#39;s R1 to Azure AI Foundry and GitHub, and plans to make a distilled, smaller version of R1 available to run locally on Copilot+ PCs soon &lpar;Tom Warren/The Verge&rpar;](http://www.techmeme.com/250129/p39#a250129p39)
  - [Meta reports Q4 revenue up 21% YoY to $48.4B, net income up 49% YoY to $20.8B, and family daily active people up 5% YoY to 3.35B on average for December 2024 &lpar;Meta&rpar;](http://www.techmeme.com/250129/p38#a250129p38)
- - [Sources: Meta agrees to pay ~$25M to settle a 2021 lawsuit that Trump brought against Meta and its CEO after it suspended his accounts following the Jan. 6 riot &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/250129/p37#a250129p37)
- - [Exposed DeepSeek Database Revealed Chat Prompts and Internal Data](https://www.wired.com/story/exposed-deepseek-database-revealed-chat-prompts-and-internal-data/)<!-- TECH:END -->
+ - [Sources: Meta agrees to pay ~$25M to settle a 2021 lawsuit that Trump brought against Meta and its CEO after it suspended his accounts following the Jan. 6 riot &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/250129/p37#a250129p37)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

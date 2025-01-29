@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Apple&#39;s most profitable iPhone upgrade is quietly losing steam](https://appleinsider.com/articles/25/01/29/apples-most-profitable-iphone-upgrade-is-quietly-losing-steam?utm_medium=rss)
  - [DeepSeek makes US export controls to China even more important, and DeepSeek-V3 is not a unique breakthrough but an expected point on a cost reduction curve &lpar;Dario Amodei&rpar;](http://www.techmeme.com/250129/p29#a250129p29)
- - [Federal Spending Freeze Threatens Ecosystems and Public Safety](https://www.wired.com/story/federal-spending-freeze-could-have-widespread-impact-on-environment-emergency-management/)
- - [Apple amps up its MLS Season Pass offerings for historic 30th season](https://appleinsider.com/articles/25/01/29/apple-amps-up-its-mls-season-pass-offerings-for-historic-30th-season?utm_medium=rss)
- - [How employees at Meta, Google, and more have quietly protested tech&#39;s rightward shift, as Mark Zuckerberg and others embrace Trump and muffle internal dissent &lpar;New York Times&rpar;](http://www.techmeme.com/250129/p28#a250129p28)
- - [The 5 Best Multivitamins for Men in 2025](https://www.cnet.com/health/nutrition/best-multivitamins-for-men/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Before and After Photos: I Tested a Silk Pillowcase to Fix My Angry Bedhead](https://www.cnet.com/health/sleep/before-after-photos-tried-silk-pillowcase-fix-bedhead/#ftag=CAD590a51e)
+ - [NordVPN Launches NordWhisper Protocol Designed to Bypass VPN Blocks](https://www.cnet.com/tech/services-and-software/nordvpn-launches-nordwhisper-protocol-designed-to-bypass-vpn-blocks/#ftag=CAD590a51e)
+ - [Federal Spending Freeze Threatens Ecosystems and Public Safety](https://www.wired.com/story/federal-spending-freeze-could-have-widespread-impact-on-environment-emergency-management/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

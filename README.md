@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Microsoft reports Q2 Intelligent Cloud revenue up 19% YoY to $25.5B, vs. $25.8B est., with Azure and other cloud services revenue up 31%, down from 33% in Q1 &lpar;Jordan Novet/CNBC&rpar;](http://www.techmeme.com/250129/p35#a250129p35)
  - [Microsoft reports Q2 revenue up 12% YoY to $69.6B, Microsoft 365 Commercial products and cloud services up 15%, LinkedIn up 9%, and net income up 10% to $24.1B &lpar;Microsoft&rpar;](http://www.techmeme.com/250129/p34#a250129p34)
- - [Trump Media unveils fintech brand Truth.Fi with an investment of up to $250M, which may be allocated to options including bitcoin and other cryptocurrencies &lpar;Zaheer Kachwala/Reuters&rpar;](http://www.techmeme.com/250129/p33#a250129p33)
+ - [Trump Media unveils fintech brand Truth.Fi with an investment of up to $250M, which can be allocated to various investments, like BTC and other cryptocurrencies &lpar;Zaheer Kachwala/Reuters&rpar;](http://www.techmeme.com/250129/p33#a250129p33)
  - [Best Speakerphone in 2025 for Working From Home](https://www.cnet.com/tech/mobile/best-speakerphone/#ftag=CAD590a51e)
- - [Maryland-based Tenable, which specializes in security exposure management, agrees to acquire Israel-based Vulcan Cyber in a $150M deal set to close in Q1 2025 &lpar;Meir Orbach/CTech&rpar;](http://www.techmeme.com/250129/p32#a250129p32)
- - [Elon Musk Tells Friends He’s Sleeping at the DOGE Offices in DC](https://www.wired.com/story/elon-musk-sleeping-doge-office/)<!-- TECH:END -->
+ - [Maryland-based Tenable, which specializes in security exposure management, agrees to acquire Israel-based Vulcan Cyber in a $150M deal set to close in Q1 2025 &lpar;Meir Orbach/CTech&rpar;](http://www.techmeme.com/250129/p32#a250129p32)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

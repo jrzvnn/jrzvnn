@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Huawei adds DeepSeek&#39;s R1 to its ModelArts Studio platform, saying the free model is &quot;Ascend-adapted&quot;, referencing its data center GPUs, but offers few details &lpar;Matthew Connatser/Tom&#39;s Hardware&rpar;](http://www.techmeme.com/250129/p24#a250129p24)
  - [iOS 18.3 brings support for Starlink through T-Mobile, but it&#39;s still in beta](https://appleinsider.com/articles/25/01/29/ios-183-brings-support-for-starlink-through-t-mobile-but-its-still-in-beta?utm_medium=rss)
  - [Ampere: users spent $465M on Microsoft games in December, making it the biggest publisher, ahead of EA&#39;s $366M; Call of Duty HQ had 38M MAUs in November 2024 &lpar;Christopher Dring/Video Games Chronicle&rpar;](http://www.techmeme.com/250129/p23#a250129p23)
  - [How to install macOS games from Steam or the App Store on an external drive](https://appleinsider.com/inside/macos-sequoia/tips/how-to-install-macos-games-from-steam-or-the-app-store-on-an-external-drive?utm_medium=rss)
- - [Comcast starts rolling out its &quot;pioneering new, ultra-low lag connectivity experience&quot; to select US cities, using the L4S standard to significantly cut latency &lpar;Jay Peters/The Verge&rpar;](http://www.techmeme.com/250129/p22#a250129p22)
- - [DeepSeek&#39;s app is unavailable on Apple&#39;s App Store and Google&#39;s Play Store in Italy, after its data protection regulator says it questioned DeepSeek &lpar;Stefano Bernabei/Reuters&rpar;](http://www.techmeme.com/250129/p21#a250129p21)<!-- TECH:END -->
+ - [Comcast starts rolling out its &quot;pioneering new, ultra-low lag connectivity experience&quot; to select US cities, using the L4S standard to significantly cut latency &lpar;Jay Peters/The Verge&rpar;](http://www.techmeme.com/250129/p22#a250129p22)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

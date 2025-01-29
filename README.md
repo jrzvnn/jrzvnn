@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: Trump signs settlement papers calling for Meta to pay ~$25M to settle a 2021 lawsuit he brought after Meta suspended his accounts after the Jan. 6 riot &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/250129/p37#a250129p37)
+ - [Meta Reports Fourth Quarter and Full Year 2024 Results &lpar;Meta&rpar;](http://www.techmeme.com/250129/p38#a250129p38)
+ - [Sources: Trump signs an agreement calling for Meta to pay ~$25M to settle a 2021 lawsuit he brought after Meta suspended his accounts after the January 6 riot &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/250129/p37#a250129p37)
  - [Exposed DeepSeek Database Revealed Chat Prompts and Internal Data](https://www.wired.com/story/exposed-deepseek-database-revealed-chat-prompts-and-internal-data/)
  - [IBM reports Q4 revenue up 1% YoY to $17.6B, vs. $17.5B est., bookings for AI consulting and software crossed $5B, up from $3B in Q3; IBM jumps 8%+ after hours &lpar;Brody Ford/Bloomberg&rpar;](http://www.techmeme.com/250129/p36#a250129p36)
- - [Microsoft reports Q2 Intelligent Cloud revenue up 19% YoY to $25.5B, vs. $25.8B est., with Azure and other cloud services revenue up 31%, down from 33% in Q1 &lpar;Jordan Novet/CNBC&rpar;](http://www.techmeme.com/250129/p35#a250129p35)
- - [Microsoft reports Q2 revenue up 12% YoY to $69.6B, Microsoft 365 Commercial products and cloud services up 15%, LinkedIn up 9%, and net income up 10% to $24.1B &lpar;Microsoft&rpar;](http://www.techmeme.com/250129/p34#a250129p34)<!-- TECH:END -->
+ - [Microsoft reports Q2 Intelligent Cloud revenue up 19% YoY to $25.5B, vs. $25.8B est., with Azure and other cloud services revenue up 31%, down from 33% in Q1 &lpar;Jordan Novet/CNBC&rpar;](http://www.techmeme.com/250129/p35#a250129p35)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

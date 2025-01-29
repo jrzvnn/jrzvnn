@@ -160,8 +160,8 @@ R                        1 repo              ░░░░░░░░░░░�
  - [Waymo plans to test in 10 new US cities in 2025, starting with Las Vegas and San Diego, as it aims for robotaxi operations in Austin, Atlanta, and Miami soon &lpar;Andrew J. Hawkins/The Verge&rpar;](http://www.techmeme.com/250129/p31#a250129p31)
  - [Trump’s Plan for Elon Musk to Bring the ‘Stranded’ Astronauts Home ASAP Is a Headache for NASA](https://www.wired.com/story/trumps-plan-for-elon-musk-to-bring-the-stranded-astronauts-home-asap-is-a-headache-for-nasa/)
  - [Full seasons of Netflix shows can be downloaded to iPhone with a single tap](https://appleinsider.com/articles/25/01/29/full-seasons-of-netflix-shows-can-be-downloaded-to-iphone-with-a-single-tap?utm_medium=rss)
- - [Sources: the Trump administration is exploring additional curbs on the sale of chips to China to cover Nvidia&#39;s scaled-down H20, designed for the Chinese market &lpar;Bloomberg&rpar;](http://www.techmeme.com/250129/p30#a250129p30)
- - [Apple&#39;s most profitable iPhone upgrade is quietly losing steam](https://appleinsider.com/articles/25/01/29/apples-most-profitable-iphone-upgrade-is-quietly-losing-steam?utm_medium=rss)<!-- TECH:END -->
+ - [Best Internet Providers in Sebring, Florida](https://www.cnet.com/home/internet/best-internet-providers-in-sebring-fl/#ftag=CAD590a51e)
+ - [Sources: the Trump administration is exploring additional curbs on the sale of chips to China to cover Nvidia&#39;s scaled-down H20, designed for the Chinese market &lpar;Bloomberg&rpar;](http://www.techmeme.com/250129/p30#a250129p30)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

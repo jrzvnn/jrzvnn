@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Mark Zuckerberg says Threads has 320M MAUs, up from 275M in November 2024, and is adding more than 1M daily signups &lpar;Lauren Forristal/TechCrunch&rpar;](http://www.techmeme.com/250129/p43#a250129p43)
  - [Microsoft Q2: Windows OEM and Devices revenue up 4% YoY, gaming revenue down 7%, Xbox hardware revenue down 29%, and Xbox content and services revenue up 2% &lpar;Jay Peters/The Verge&rpar;](http://www.techmeme.com/250129/p42#a250129p42)
+ - [Best Internet Providers in St. George, Utah](https://www.cnet.com/home/internet/best-internet-providers-in-st-george-ut/#ftag=CAD590a51e)
  - [Employer.com founder Jesse Tinsley says his US investor group vying to buy TikTok has secured $20B+ and recruited the CEOs of Roblox and Anchorage as investors &lpar;Alexandra S. Levine/Bloomberg&rpar;](http://www.techmeme.com/250129/p41#a250129p41)
- - [Meta&#39;s Reality Labs posts Q4 revenue up 1% YoY to $1.1B, vs. $1.1B est., and a $4.97B operating loss, vs. $5.4B est.; Reality Labs has lost $60B+ since 2020 &lpar;Jonathan Vanian/CNBC&rpar;](http://www.techmeme.com/250129/p40#a250129p40)
- - [Microsoft adds DeepSeek&#39;s R1 to Azure AI Foundry and GitHub, and plans to make a distilled, smaller version of R1 available to run locally on Copilot+ PCs soon &lpar;Tom Warren/The Verge&rpar;](http://www.techmeme.com/250129/p39#a250129p39)
- - [Meta reports Q4 revenue up 21% YoY to $48.4B, net income up 49% YoY to $20.8B, and family daily active people up 5% YoY to 3.35B on average for December 2024 &lpar;Meta&rpar;](http://www.techmeme.com/250129/p38#a250129p38)<!-- TECH:END -->
+ - [MLS Season Pass 2025 Is Here, and You Have Lots of Options to Sign Up](https://www.cnet.com/tech/services-and-software/mls-season-pass-2025-is-here-and-you-have-lots-of-options-to-sign-up/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

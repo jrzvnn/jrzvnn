@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Ampere: users spent $465M on Microsoft games in December, making it the biggest publisher, ahead of EA&#39;s $366M; Call of Duty HQ had 38M MAUs in November 2024 &lpar;Christopher Dring/Video Games Chronicle&rpar;](http://www.techmeme.com/250129/p23#a250129p23)
+ - [How to install macOS games from Steam or the App Store on an external drive](https://appleinsider.com/inside/macos-sequoia/tips/how-to-install-macos-games-from-steam-or-the-app-store-on-an-external-drive?utm_medium=rss)
+ - [Comcast starts rolling out its &quot;pioneering new, ultra-low lag connectivity experience&quot; to select US cities, using the L4S standard to significantly cut latency &lpar;Jay Peters/The Verge&rpar;](http://www.techmeme.com/250129/p22#a250129p22)
  - [DeepSeek&#39;s app is unavailable on Apple&#39;s App Store and Google&#39;s Play Store in Italy, after its data protection regulator says it questioned DeepSeek &lpar;Stefano Bernabei/Reuters&rpar;](http://www.techmeme.com/250129/p21#a250129p21)
- - [Nvidia GeForce RTX 5080 review: slim, lightweight, reasonable power draw, and DLSS 4, but mild generational performance uplift and spotty availability at launch &lpar;Ben Wilson/Windows Central&rpar;](http://www.techmeme.com/250129/p20#a250129p20)
- - [12 Best USB Microphones &lpar;2025&rpar;: USB-C, USB-A, Wireless, and Mic Accessories](https://www.wired.com/gallery/best-usb-microphones/)
- - [Sources detail Elon Musk&#39;s time in government, bringing his friends and employees, as he races to cut staff; Musk&#39;s plane has not left DC since the inauguration &lpar;New York Times&rpar;](http://www.techmeme.com/250129/p19#a250129p19)
- - [Super Bowl 2025: Date, Time, How to Watch Chiefs vs. Eagles for Free from Anywhere](https://www.cnet.com/tech/services-and-software/super-bowl-2025-date-time-how-to-watch-chiefs-vs-eagles-for-free-from-anywhere/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Nvidia GeForce RTX 5080 review: slim, lightweight, reasonable power draw, and DLSS 4, but mild generational performance uplift and spotty availability at launch &lpar;Ben Wilson/Windows Central&rpar;](http://www.techmeme.com/250129/p20#a250129p20)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

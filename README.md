@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Alibaba releases Qwen 2.5-Max, an AI model which the company claims &quot;outperforms ... almost across the board GPT-4o, DeepSeek-V3 and Llama-3.1-405B&quot; &lpar;Eduardo Baptista/Reuters&rpar;](http://www.techmeme.com/250129/p6#a250129p6)
  - [ASML reports Q4 net profit of &amp;euro;2.69B on &amp;euro;9.26B net sales, net bookings up 169% QoQ to &amp;euro;7.09B, and expects 2025 net sales of &amp;euro;30B to &amp;euro;35B, up from &amp;euro;28.3B in 2024 &lpar;Ryan Browne/CNBC&rpar;](http://www.techmeme.com/250129/p5#a250129p5)
  - [A US federal judge denied a motion by Apple to intervene as a defendant in the remedy trial of the DOJ vs. Google case, saying Apple&#39;s motion was untimely &lpar;Ryan Knappenberger/Courthouse News ...&rpar;](http://www.techmeme.com/250129/p4#a250129p4)
  - [KitchenAid Promo Codes and Coupons: $200 Off](https://www.wired.com/story/exclusive-kitchenaid-promo-code/)
- - [Crypto risk modeling firm Gauntlet estimates the $TRUMP memecoin has generated at least $11.4M in fees for entities linked to President Trump since its launch &lpar;Muyao Shen/Bloomberg&rpar;](http://www.techmeme.com/250129/p3#a250129p3)
- - [OpenAI says it had seen some evidence that DeepSeek used &quot;distillation&quot; to train its open-source competitor by using outputs from OpenAI&#39;s proprietary models &lpar;Financial Times&rpar;](http://www.techmeme.com/250129/p2#a250129p2)<!-- TECH:END -->
+ - [Crypto risk modeling firm Gauntlet estimates the $TRUMP memecoin has generated at least $11.4M in fees for entities linked to President Trump since its launch &lpar;Muyao Shen/Bloomberg&rpar;](http://www.techmeme.com/250129/p3#a250129p3)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

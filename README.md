@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Maryland-based Tenable, which specializes in security exposure management, agrees to acquire Israel-based Vulcan Cyber in a $150M deal set to close in Q1 2025 &lpar;Meir Orbach/CTech&rpar;](http://www.techmeme.com/250129/p32#a250129p32)
  - [Elon Musk Tells Friends He’s Sleeping at the DOGE Offices in DC](https://www.wired.com/story/elon-musk-sleeping-doge-office/)
  - [Apple&#39;s AI ethics doubted by scaremongering shareholder proposal](https://appleinsider.com/articles/25/01/29/apples-ai-ethics-doubted-by-scaremongering-shareholder-proposal?utm_medium=rss)
  - [The Fed Didn&#39;t Budge on Interest Rates. Here&#39;s Why That&#39;s a Big Deal](https://www.cnet.com/personal-finance/banking/the-fed-didnt-budge-on-interest-rates-heres-why-thats-a-big-deal/#ftag=CAD590a51e)
- - [The Fed Paused Rates. Here&#39;s What That Means for CD and Savings Account APYs](https://www.cnet.com/personal-finance/banking/the-fed-paused-rates-heres-what-that-means-for-cd-and-savings-account-apys/#ftag=CAD590a51e)
- - [Apple Vision Pro review one year later: time to exit the preview](https://appleinsider.com/articles/25/01/29/apple-vision-pro-review-one-year-later-time-to-exit-the-preview?utm_medium=rss)<!-- TECH:END -->
+ - [The Fed Paused Rates. Here&#39;s What That Means for CD and Savings Account APYs](https://www.cnet.com/personal-finance/banking/the-fed-paused-rates-heres-what-that-means-for-cd-and-savings-account-apys/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

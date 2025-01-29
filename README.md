@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [DeepSeek&#39;s app tops the US Play Store; Appfigures says the DeepSeek app has 1.9M+ downloads on the App Store and 1.2M+ on the Play Store since mid-January 2025 &lpar;Ivan Mehta/TechCrunch&rpar;](http://www.techmeme.com/250129/p13#a250129p13)
  - [A look at Huawei&#39;s HarmonyOS Next, a China-only OS decoupled from Android that is still missing many third-party apps, despite supporting some key ones in China &lpar;Bloomberg&rpar;](http://www.techmeme.com/250129/p12#a250129p12)
  - [A look at MrDeepFakes, a site with obscure ownership that hosts non-consensual deepfake porn, has close to 650K members, and gets millions of visits per month &lpar;bellingcat&rpar;](http://www.techmeme.com/250129/p11#a250129p11)
  - [Paris-based online corporate event booking marketplace Naboo raised a &amp;euro;20M Series A led by Notion Capital, and says its 2024 booking volumes grew 4x YoY to &amp;euro;60M &lpar;Romain Dillet/TechCrunch&rpar;](http://www.techmeme.com/250129/p10#a250129p10)
- - [Samsung and LG unveil new OLED tech, including stretchable and transparent screens, to counter Chinese rivals, which held a 33% market share in 2024, per DSCC &lpar;Nami Matsuura/Nikkei Asia&rpar;](http://www.techmeme.com/250129/p9#a250129p9)
- - [Carta data shows that 966 US-based startups shut down in 2024, compared to 769 in 2023, with enterprise SaaS startups accounting for 32% of the closures &lpar;Mary Ann Azevedo/TechCrunch&rpar;](http://www.techmeme.com/250129/p8#a250129p8)<!-- TECH:END -->
+ - [Samsung and LG unveil new OLED tech, including stretchable and transparent screens, to counter Chinese rivals, which held a 33% market share in 2024, per DSCC &lpar;Nami Matsuura/Nikkei Asia&rpar;](http://www.techmeme.com/250129/p9#a250129p9)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

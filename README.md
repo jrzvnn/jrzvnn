@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Apple Maps shows users the Gulf of Mexico when searching for &#39;Gulf of America&#39;](https://appleinsider.com/articles/25/01/29/apple-maps-shows-users-the-gulf-of-mexico-when-searching-for-gulf-of-america?utm_medium=rss)
  - [Mark Zuckerberg says Threads has 320M MAUs, up from 275M in November 2024, and is adding more than 1M daily signups &lpar;Lauren Forristal/TechCrunch&rpar;](http://www.techmeme.com/250129/p43#a250129p43)
  - [Microsoft Q2: Windows OEM and Devices revenue up 4% YoY, gaming revenue down 7%, Xbox hardware revenue down 29%, and Xbox content and services revenue up 2% &lpar;Jay Peters/The Verge&rpar;](http://www.techmeme.com/250129/p42#a250129p42)
  - [Best Internet Providers in St. George, Utah](https://www.cnet.com/home/internet/best-internet-providers-in-st-george-ut/#ftag=CAD590a51e)
- - [Employer.com founder Jesse Tinsley says his US investor group vying to buy TikTok has secured $20B+ and recruited the CEOs of Roblox and Anchorage as investors &lpar;Alexandra S. Levine/Bloomberg&rpar;](http://www.techmeme.com/250129/p41#a250129p41)
- - [MLS Season Pass 2025 Is Here, and You Have Lots of Options to Sign Up](https://www.cnet.com/tech/services-and-software/mls-season-pass-2025-is-here-and-you-have-lots-of-options-to-sign-up/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Employer.com founder Jesse Tinsley says his US investor group vying to buy TikTok has secured $20B+ and recruited the CEOs of Roblox and Anchorage as investors &lpar;Alexandra S. Levine/Bloomberg&rpar;](http://www.techmeme.com/250129/p41#a250129p41)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

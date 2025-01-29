@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Pebble’s Founder Wants to Relaunch the E-Paper Smartwatch](https://www.wired.com/story/pebble-founder-wants-to-relaunch-the-e-paper-smartwatch/)
  - [The Trial at the Tip of the Terrorgram Iceberg](https://www.wired.com/story/brandon-russell-baltimore-trial/)
  - [Meta executives say DeepSeek&#39;s breakthrough shows that upstarts now have a chance to innovate and compete with AI giants and vindicates the open-source strategy &lpar;New York Times&rpar;](http://www.techmeme.com/250129/p18#a250129p18)
  - [9 Best Juicers &lpar;2025&rpar;: Centrifugal, Slow, Masticating](https://www.wired.com/gallery/best-juicer/)
- - [US officials and Google researchers: China, Iran, and 18+ others are using AI, including Gemini, to bolster their cyberattacks against US and global targets &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/250129/p17#a250129p17)
- - [ASML CEO Christophe Fouquet says cheaper AI &quot;could mean more applications&quot; and &quot;more demand over time&quot;, and &quot;cost and energy&quot; are the big issues to address &lpar;Ryan Browne/CNBC&rpar;](http://www.techmeme.com/250129/p16#a250129p16)<!-- TECH:END -->
+ - [US officials and Google researchers: China, Iran, and 18+ others are using AI, including Gemini, to bolster their cyberattacks against US and global targets &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/250129/p17#a250129p17)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

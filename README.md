@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Trump’s Plan for Elon Musk to Bring the ‘Stranded’ Astronauts Home ASAP Is a Headache for NASA](https://www.wired.com/)
+ - [Elon Musk Tells Friends He’s Sleeping at the DOGE Offices in DC](https://www.wired.com/story/elon-musk-sleeping-doge-office/)
+ - [Apple&#39;s AI ethics doubted by scaremongering shareholder proposal](https://appleinsider.com/articles/25/01/29/apples-ai-ethics-doubted-by-scaremongering-shareholder-proposal?utm_medium=rss)
  - [Apple Vision Pro review one year later: time to exit the preview](https://appleinsider.com/articles/25/01/29/apple-vision-pro-review-one-year-later-time-to-exit-the-preview?utm_medium=rss)
  - [Waymo plans to test in 10 new US cities in 2025, starting with Las Vegas and San Diego, as it aims for robotaxi operations in Austin, Atlanta, and Miami soon &lpar;Andrew J. Hawkins/The Verge&rpar;](http://www.techmeme.com/250129/p31#a250129p31)
- - [Full seasons of Netflix shows can be downloaded to iPhone with a single tap](https://appleinsider.com/articles/25/01/29/full-seasons-of-netflix-shows-can-be-downloaded-to-iphone-with-a-single-tap?utm_medium=rss)
- - [Best Internet Providers in Sebring, Florida](https://www.cnet.com/home/internet/best-internet-providers-in-sebring-fl/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Full seasons of Netflix shows can be downloaded to iPhone with a single tap](https://appleinsider.com/articles/25/01/29/full-seasons-of-netflix-shows-can-be-downloaded-to-iphone-with-a-single-tap?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

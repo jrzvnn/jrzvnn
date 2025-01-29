@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [12 Best USB Microphones &lpar;2025&rpar;: USB-C, USB-A, Wireless, and Mic Accessories](https://www.wired.com/gallery/best-usb-microphones/)
+ - [Sources detail Elon Musk&#39;s time in government so far, accompanied by friends and staff, as he races to cut staff; Musk&#39;s plane has not left DC since January 20 &lpar;New York Times&rpar;](http://www.techmeme.com/250129/p19#a250129p19)
  - [3 Best Smart Glasses of 2025, Tested and Reviewed](https://www.wired.com/gallery/best-smart-glasses/)
  - [There are $5 AirPods Max clones, and they are about as bad as you think](https://appleinsider.com/articles/25/01/29/there-are-5-airpods-max-clones-and-they-are-about-as-bad-as-you-think?utm_medium=rss)
- - [Pebble’s Founder Wants to Relaunch the E-Paper Smartwatch](https://www.wired.com/story/pebble-founder-wants-to-relaunch-the-e-paper-smartwatch/)
- - [Best Electric Lawn Mower of 2025](https://www.cnet.com/news/best-electric-lawn-mower/#ftag=CAD590a51e)
- - [Best Noise-Canceling Earbuds for 2025](https://www.cnet.com/tech/mobile/best-noise-canceling-wireless-earbuds/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Pebble’s Founder Wants to Relaunch the E-Paper Smartwatch](https://www.wired.com/story/pebble-founder-wants-to-relaunch-the-e-paper-smartwatch/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -157,7 +157,7 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Meta Reports Fourth Quarter and Full Year 2024 Results &lpar;Meta&rpar;](http://www.techmeme.com/250129/p38#a250129p38)
+ - [Meta reports Q4 revenue up 21% YoY to $48.4B, net income up 49% YoY to $20.8B, and family daily active people up 5% YoY to 3.35B on average for December 2024 &lpar;Meta&rpar;](http://www.techmeme.com/250129/p38#a250129p38)
  - [Sources: Trump signs an agreement calling for Meta to pay ~$25M to settle a 2021 lawsuit he brought after Meta suspended his accounts after the January 6 riot &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/250129/p37#a250129p37)
  - [Exposed DeepSeek Database Revealed Chat Prompts and Internal Data](https://www.wired.com/story/exposed-deepseek-database-revealed-chat-prompts-and-internal-data/)
  - [IBM reports Q4 revenue up 1% YoY to $17.6B, vs. $17.5B est., bookings for AI consulting and software crossed $5B, up from $3B in Q3; IBM jumps 8%+ after hours &lpar;Brody Ford/Bloomberg&rpar;](http://www.techmeme.com/250129/p36#a250129p36)

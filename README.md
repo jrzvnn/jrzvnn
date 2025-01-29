@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Sources: Arm China picks Chen Feng, an ex-executive at China-based chipmaker Rockchip Electronics, as its CEO; Liu Renchen and Eric Chen will resign as co-CEOs &lpar;Bloomberg&rpar;](http://www.techmeme.com/250128/p35#a250128p35)
+ - [Sources: the highest ranks of the US Office of Personnel Management now include former employees of Elon Musk&#39;s companies, including xAI and the Boring Company &lpar;Vittoria Elliott/Wired&rpar;](http://www.techmeme.com/250128/p34#a250128p34)
  - [Doc: Google&#39;s maps unit reclassified the US as a &quot;sensitive country&quot;, reserved for states with strict governments or border disputes, after Trump&#39;s map changes &lpar;Jennifer Elias/CNBC&rpar;](http://www.techmeme.com/250128/p33#a250128p33)
  - [These M4 Mac mini deals slash prices to as low as $529](https://appleinsider.com/articles/25/01/28/these-m4-mac-mini-deals-slash-prices-to-as-low-as-529?utm_medium=rss)
- - [Elon Musk Lackeys Have Taken Over the Office of Personnel Management](https://www.wired.com/story/elon-musk-lackeys-office-personnel-management-opm-neuralink-x-boring-stalin/)
- - [Trump’s ‘Gulf of America’ Order Has Mapmakers Completely Lost](https://www.wired.com/story/trump-gulf-of-america-order-maps/)
- - [Dubious leak claims Clock notifications getting a partial redesign](https://appleinsider.com/articles/25/01/28/dubious-leak-claims-clock-notifications-getting-a-partial-redesign?utm_medium=rss)<!-- TECH:END -->
+ - [Best Earbuds and Headphones for Working Out in 2025](https://www.cnet.com/tech/mobile/best-workout-headphones/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

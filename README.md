@@ -159,9 +159,9 @@ R                        1 repo              ░░░░░░░░░░░�
 <!-- TECH:START -->
  - [9 Best Juicers &lpar;2025&rpar;: Centrifugal, Slow, Masticating](https://www.wired.com/gallery/best-juicer/)
  - [US officials and Google researchers: China, Iran, and 18+ others are using AI, including Gemini, to bolster their cyberattacks against US and global targets &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/250129/p17#a250129p17)
+ - [Best Internet Providers in Seattle, Washington](https://www.cnet.com/home/internet/best-internet-providers-in-seattle-wa/#ftag=CAD590a51e)
  - [ASML CEO Christophe Fouquet says cheaper AI &quot;could mean more applications&quot; and &quot;more demand over time&quot;, and &quot;cost and energy&quot; are the big issues to address &lpar;Ryan Browne/CNBC&rpar;](http://www.techmeme.com/250129/p16#a250129p16)
- - [Appfigures: ChatGPT&#39;s app has grossed $529M since its May 2023 release, around 4x the second-highest earner, as AI app spending grew ~4x YoY to $1.4B in 2024 &lpar;Vlad Savov/Bloomberg&rpar;](http://www.techmeme.com/250129/p15#a250129p15)
- - [This Blood Vessel Was Grown in a Lab With Real Human Cells](https://www.wired.com/story/this-blood-vessel-was-grown-in-a-lab-with-real-human-cells/)<!-- TECH:END -->
+ - [Appfigures: ChatGPT&#39;s app has grossed $529M since its May 2023 release, around 4x the second-highest earner, as AI app spending grew ~4x YoY to $1.4B in 2024 &lpar;Vlad Savov/Bloomberg&rpar;](http://www.techmeme.com/250129/p15#a250129p15)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

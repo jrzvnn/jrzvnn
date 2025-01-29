@@ -159,9 +159,9 @@ R                        1 repo              ░░░░░░░░░░░�
 <!-- TECH:START -->
  - [Elon Musk Tells Friends He’s Sleeping at the DOGE Offices in DC](https://www.wired.com/story/elon-musk-sleeping-doge-office/)
  - [Apple&#39;s AI ethics doubted by scaremongering shareholder proposal](https://appleinsider.com/articles/25/01/29/apples-ai-ethics-doubted-by-scaremongering-shareholder-proposal?utm_medium=rss)
- - [Apple Vision Pro review one year later: time to exit the preview](https://appleinsider.com/articles/25/01/29/apple-vision-pro-review-one-year-later-time-to-exit-the-preview?utm_medium=rss)
- - [Waymo plans to test in 10 new US cities in 2025, starting with Las Vegas and San Diego, as it aims for robotaxi operations in Austin, Atlanta, and Miami soon &lpar;Andrew J. Hawkins/The Verge&rpar;](http://www.techmeme.com/250129/p31#a250129p31)
- - [Full seasons of Netflix shows can be downloaded to iPhone with a single tap](https://appleinsider.com/articles/25/01/29/full-seasons-of-netflix-shows-can-be-downloaded-to-iphone-with-a-single-tap?utm_medium=rss)<!-- TECH:END -->
+ - [The Fed Didn&#39;t Budge on Interest Rates. Here&#39;s Why That&#39;s a Big Deal](https://www.cnet.com/personal-finance/banking/the-fed-didnt-budge-on-interest-rates-heres-why-thats-a-big-deal/#ftag=CAD590a51e)
+ - [The Fed Paused Rates. Here&#39;s What That Means for CD and Savings Account APYs](https://www.cnet.com/personal-finance/banking/the-fed-paused-rates-heres-what-that-means-for-cd-and-savings-account-apys/#ftag=CAD590a51e)
+ - [Apple Vision Pro review one year later: time to exit the preview](https://appleinsider.com/articles/25/01/29/apple-vision-pro-review-one-year-later-time-to-exit-the-preview?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

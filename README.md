@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [3 Best Smart Glasses of 2025, Tested and Reviewed](https://www.wired.com/gallery/best-smart-glasses/)
+ - [There are $5 AirPods Max clones, and they are about as bad as you think](https://appleinsider.com/articles/25/01/29/there-are-5-airpods-max-clones-and-they-are-about-as-bad-as-you-think?utm_medium=rss)
  - [Pebble’s Founder Wants to Relaunch the E-Paper Smartwatch](https://www.wired.com/story/pebble-founder-wants-to-relaunch-the-e-paper-smartwatch/)
- - [The Trial at the Tip of the Terrorgram Iceberg](https://www.wired.com/story/brandon-russell-baltimore-trial/)
- - [Meta executives say DeepSeek&#39;s breakthrough shows that upstarts now have a chance to innovate and compete with AI giants and vindicates the open-source strategy &lpar;New York Times&rpar;](http://www.techmeme.com/250129/p18#a250129p18)
- - [9 Best Juicers &lpar;2025&rpar;: Centrifugal, Slow, Masticating](https://www.wired.com/gallery/best-juicer/)
- - [US officials and Google researchers: China, Iran, and 18+ others are using AI, including Gemini, to bolster their cyberattacks against US and global targets &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/250129/p17#a250129p17)<!-- TECH:END -->
+ - [Best Electric Lawn Mower of 2025](https://www.cnet.com/news/best-electric-lawn-mower/#ftag=CAD590a51e)
+ - [Best Noise-Canceling Earbuds for 2025](https://www.cnet.com/tech/mobile/best-noise-canceling-wireless-earbuds/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

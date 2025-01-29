@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: Arm China picks Chen Feng, an ex-executive at China-based chipmaker Rockchip Electronics, as its CEO; Liu Renchen and Eric Chen will resign as co-CEOs &lpar;Bloomberg&rpar;](http://www.techmeme.com/250128/p35#a250128p35)
- - [Sources: the highest ranks of the US Office of Personnel Management now include former employees of Elon Musk&#39;s companies, including xAI and the Boring Company &lpar;Vittoria Elliott/Wired&rpar;](http://www.techmeme.com/250128/p34#a250128p34)
- - [Doc: Google&#39;s maps unit reclassified the US as a &quot;sensitive country&quot;, reserved for states with strict governments or border disputes, after Trump&#39;s map changes &lpar;Jennifer Elias/CNBC&rpar;](http://www.techmeme.com/250128/p33#a250128p33)
- - [These M4 Mac mini deals slash prices to as low as $529](https://appleinsider.com/articles/25/01/28/these-m4-mac-mini-deals-slash-prices-to-as-low-as-529?utm_medium=rss)
- - [Best Earbuds and Headphones for Working Out in 2025](https://www.cnet.com/tech/mobile/best-workout-headphones/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [MGM Resorts agrees to pay $45M to settle 14 class action lawsuits related to a data breach in 2019 and a ransomware attack the company experienced in 2023 &lpar;Jonathan Greig/The Record&rpar;](http://www.techmeme.com/250128/p38#a250128p38)
+ - [Didn&#39;t Get Invited to the Nintendo Switch 2 Experience? Join the Waitlist Here](https://www.cnet.com/tech/gaming/want-to-play-the-switch-2-before-it-comes-out-heres-how/#ftag=CAD590a51e)
+ - [David Sacks says there&#39;s &quot;substantial evidence&quot; that DeepSeek &quot;distilled knowledge out of OpenAI models and I don&#39;t think OpenAI is very happy about this&quot; &lpar;Jackie Davalos/Bloomberg&rpar;](http://www.techmeme.com/250128/p37#a250128p37)
+ - [Block introduces an on-device, open-source AI agent called Goose, which allows developers to choose their preferred LLM to automate engineering tasks &lpar;Radhika Rajkumar/ZDNET&rpar;](http://www.techmeme.com/250128/p36#a250128p36)
+ - [These Are the Best Smart Devices for Amazon Alexa in 2025](https://www.cnet.com/home/smart-home/best-alexa-devices/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

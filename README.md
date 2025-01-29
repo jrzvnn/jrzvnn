@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [How employees at Meta, Google, and more have quietly protested tech&#39;s rightward shift, as Mark Zuckerberg and others embrace Trump and muffle internal dissent &lpar;New York Times&rpar;](http://www.techmeme.com/250129/p28#a250129p28)
  - [Review: Mammut Crag IN Jacket](https://www.wired.com/review/mammut-crag-in-jacket/)
  - [Netflix now lets iPhone and iPad app users download an entire TV show season with one tap, a much-requested feature that launched on Android in 2021 &lpar;Alex Weprin/The Hollywood Reporter&rpar;](http://www.techmeme.com/250129/p27#a250129p27)
  - [B&amp;H joins price war with $1,399 M4 MacBook Pro deal &amp; it&#39;s in stock](https://appleinsider.com/articles/25/01/29/bh-joins-price-war-with-1399-m4-macbook-pro-deal-its-in-stock?utm_medium=rss)
- - [The US Copyright Office says using AI tools to assist in creative processes doesn&#39;t compromise copyright protections as long as the content has human authorship &lpar;Gene Maddaus/Variety&rpar;](http://www.techmeme.com/250129/p26#a250129p26)
- - [Vandatrack: retail traders bought a net $562M of Nvidia&#39;s stock on January 27, a record, and $360M on January 28, after DeepSeek&#39;s AI model sent NVDA crashing &lpar;Financial Times&rpar;](http://www.techmeme.com/250129/p25#a250129p25)<!-- TECH:END -->
+ - [The US Copyright Office says using AI tools to assist in creative processes doesn&#39;t compromise copyright protections as long as the content has human authorship &lpar;Gene Maddaus/Variety&rpar;](http://www.techmeme.com/250129/p26#a250129p26)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Sources: Apple has been working with SpaceX and T-Mobile to add Starlink support in iOS 18.3; T-Mobile is testing with some users, only for texting initially &lpar;Mark Gurman/Bloomberg&rpar;](http://www.techmeme.com/250128/p40#a250128p40)
+ - [Sony names CFO Hiroki Totoki as CEO, succeeding Kenichiro Yoshida, and PlayStation co-CEO Hideaki Nishino as CEO of Sony Interactive Entertainment, from April 1 &lpar;Cynthia Littleton/Variety&rpar;](http://www.techmeme.com/250128/p39#a250128p39)
+ - [Elon Musk Is Running the Twitter Playbook on the Federal Government](https://www.wired.com/story/elon-musk-twitter-playbook-federal-government/)
  - [MGM Resorts agrees to pay $45M to settle 14 class action lawsuits related to a data breach in 2019 and a ransomware attack the company experienced in 2023 &lpar;Jonathan Greig/The Record&rpar;](http://www.techmeme.com/250128/p38#a250128p38)
- - [Didn&#39;t Get Invited to the Nintendo Switch 2 Experience? Join the Waitlist Here](https://www.cnet.com/tech/gaming/want-to-play-the-switch-2-before-it-comes-out-heres-how/#ftag=CAD590a51e)
- - [David Sacks says there&#39;s &quot;substantial evidence&quot; that DeepSeek &quot;distilled knowledge out of OpenAI models and I don&#39;t think OpenAI is very happy about this&quot; &lpar;Jackie Davalos/Bloomberg&rpar;](http://www.techmeme.com/250128/p37#a250128p37)
- - [Block introduces an on-device, open-source AI agent called Goose, which allows developers to choose their preferred LLM to automate engineering tasks &lpar;Radhika Rajkumar/ZDNET&rpar;](http://www.techmeme.com/250128/p36#a250128p36)
- - [These Are the Best Smart Devices for Amazon Alexa in 2025](https://www.cnet.com/home/smart-home/best-alexa-devices/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Didn&#39;t Get Invited to the Nintendo Switch 2 Experience? Join the Waitlist Here](https://www.cnet.com/tech/gaming/want-to-play-the-switch-2-before-it-comes-out-heres-how/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

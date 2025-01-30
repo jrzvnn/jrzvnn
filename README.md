@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The lack of Apple Intelligence in some regions is impacting iPhone sales](https://appleinsider.com/articles/25/01/30/the-lack-of-apple-intelligence-in-some-regions-is-impacting-sales?utm_medium=rss)
+ - [Apple has more than 2.35 billion active devices, up 550 million since 2022](https://appleinsider.com/articles/25/01/30/apple-has-more-than-235-billion-active-devices-up-550-million-since-2022?utm_medium=rss)
+ - [Apple reports Q1 revenue from Services, which includes App Store, Apple TV+, and Apple Music, up 14% YoY to $26.34B, an all-time high, vs. $26.09B est. &lpar;Stephen Nellis/Reuters&rpar;](http://www.techmeme.com/250130/p44#a250130p44)
  - [Services buoy slumping iPhone sales in record-breaking holiday quarter earnings](https://appleinsider.com/articles/25/01/30/services-buoy-slumping-iphone-sales-in-record-breaking-holiday-quarter-earnings?utm_medium=rss)
- - [Apple may be considering a restart of advertising on X](https://appleinsider.com/articles/25/01/30/apple-may-be-considering-a-restart-of-advertising-on-x?utm_medium=rss)
- - [Apple reports a record $124.3B revenue in Q1, up 4% YoY, net income up 7.1% to $36.3B, China net sales down 11% to $18.5B, largest drop in China since Q1 2024 &lpar;CNBC&rpar;](http://www.techmeme.com/250130/p43#a250130p43)
- - [Apple Q1: iPhone down 1% YoY to $69.14B, vs. $71.03B est., Mac up 15% to $8.99B, iPad up 15% to $8.09B, and Wearables, Home, and Accessories down 2% to $11.75B &lpar;Apple Inc.&rpar;](http://www.techmeme.com/250130/p42#a250130p42)
- - [Leaked all-hands recording: Mark Zuckerberg told staff to &quot;buckle up&quot; for an &quot;intense&quot; year, said a changing policy landscape necessitated DEI changes, and more &lpar;Business Insider&rpar;](http://www.techmeme.com/250130/p41#a250130p41)<!-- TECH:END -->
+ - [Apple may be considering a restart of advertising on X](https://appleinsider.com/articles/25/01/30/apple-may-be-considering-a-restart-of-advertising-on-x?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

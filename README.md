@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Google Search adds Ask for me, which uses AI to call businesses to inquire about availability and pricing, starting with nail salons and auto shops in the US &lpar;Abner Li/9to5Google&rpar;](http://www.techmeme.com/250130/p36#a250130p36)
  - [Sources: OpenAI is in early talks to raise up to $40B at a $340B valuation; the startup was last valued at $157B in October, when it raised $6.6B &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/250130/p35#a250130p35)
  - [PitchBook: a spike in stock-market volatility due to DeepSeek may further complicate hopes for a rebound in venture-backed IPOs in 2025 &lpar;Bloomberg&rpar;](http://www.techmeme.com/250130/p34#a250130p34)
  - [Apple Hearing Study confirms Super Bowl fans get really loud](https://appleinsider.com/articles/25/01/30/apple-hearing-study-confirms-super-bowl-fans-get-really-loud?utm_medium=rss)
- - [Apple Maps shows users the Gulf of Mexico when searching for &#39;Gulf of America&#39;](https://appleinsider.com/articles/25/01/29/apple-maps-shows-users-the-gulf-of-mexico-when-searching-for-gulf-of-america?utm_medium=rss)
- - [Elon Musk is using the same tactics he used during his Twitter takeover at DOGE, including offering exits to federal employees and testing engineering prowess &lpar;New York Times&rpar;](http://www.techmeme.com/250130/p33#a250130p33)<!-- TECH:END -->
+ - [Apple Maps shows users the Gulf of Mexico when searching for &#39;Gulf of America&#39;](https://appleinsider.com/articles/25/01/29/apple-maps-shows-users-the-gulf-of-mexico-when-searching-for-gulf-of-america?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

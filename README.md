@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Tim Cook says there are now more than 2.35B active Apple devices worldwide, a new record, up from 2.2B devices the company reported in February 2024 &lpar;Juli Clover/MacRumors&rpar;](http://www.techmeme.com/250130/p45#a250130p45)
  - [The lack of Apple Intelligence in some regions is impacting iPhone sales](https://appleinsider.com/articles/25/01/30/the-lack-of-apple-intelligence-in-some-regions-is-impacting-sales?utm_medium=rss)
  - [Apple has more than 2.35 billion active devices, up 550 million since 2022](https://appleinsider.com/articles/25/01/30/apple-has-more-than-235-billion-active-devices-up-550-million-since-2022?utm_medium=rss)
  - [Apple reports Q1 revenue from Services, which includes App Store, Apple TV+, and Apple Music, up 14% YoY to $26.34B, an all-time high, vs. $26.09B est. &lpar;Stephen Nellis/Reuters&rpar;](http://www.techmeme.com/250130/p44#a250130p44)
- - [Services buoy slumping iPhone sales in record-breaking holiday quarter earnings](https://appleinsider.com/articles/25/01/30/services-buoy-slumping-iphone-sales-in-record-breaking-holiday-quarter-earnings?utm_medium=rss)
- - [Apple may be considering a restart of advertising on X](https://appleinsider.com/articles/25/01/30/apple-may-be-considering-a-restart-of-advertising-on-x?utm_medium=rss)<!-- TECH:END -->
+ - [Services prop up slumping iPhone sales in record-breaking holiday quarter earnings](https://appleinsider.com/articles/25/01/30/services-buoy-slumping-iphone-sales-in-record-breaking-holiday-quarter-earnings?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

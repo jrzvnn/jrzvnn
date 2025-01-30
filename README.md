@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Services buoy slumping iPhone sales in record-breaking holiday quarter earnings](https://appleinsider.com/articles/25/01/30/services-buoy-slumping-iphone-sales-in-record-breaking-holiday-quarter-earnings?utm_medium=rss)
+ - [Apple reports Q1 revenue up 4% YoY to $124.3B, net income up 7.1% to $36.3B, China net sales down 11% to $18.5B, the largest drop in China sales since Q1 2024 &lpar;CNBC&rpar;](http://www.techmeme.com/250130/p43#a250130p43)
  - [Apple reports first quarter results &lpar;Apple Inc.&rpar;](http://www.techmeme.com/250130/p42#a250130p42)
  - [Leaked all-hands recording: Mark Zuckerberg told staff to &quot;buckle up&quot; for an &quot;intense&quot; year, said a changing policy landscape necessitated DEI changes, and more &lpar;Business Insider&rpar;](http://www.techmeme.com/250130/p41#a250130p41)
- - [Intel reports Q4 revenue down 7% YoY to $14.26B, vs. $13.81B est., Data Center and AI down 3% YoY to $3.39B, and forecasts Q1 revenue below estimates &lpar;Jordan Novet/CNBC&rpar;](http://www.techmeme.com/250130/p40#a250130p40)
- - [Irreducible, which provides zero-knowledge proof generation services powered by FPGA chips, raised a $24M Series A co-led by Paradigm and Bain Capital Crypto &lpar;Yogita Khatri/The Block&rpar;](http://www.techmeme.com/250130/p39#a250130p39)
- - [Meta Is Dismantling DEI Programs but Tells Investors It Still Wants ‘Cognitive Diversity’](https://www.wired.com/story/meta-2024-earnings-dei-trump/)<!-- TECH:END -->
+ - [Intel reports Q4 revenue down 7% YoY to $14.26B, vs. $13.81B est., Data Center and AI down 3% YoY to $3.39B, and forecasts Q1 revenue below estimates &lpar;Jordan Novet/CNBC&rpar;](http://www.techmeme.com/250130/p40#a250130p40)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

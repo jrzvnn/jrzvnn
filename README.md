@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Apple Hearing Study confirms Super Bowl fans get really loud](https://appleinsider.com/articles/25/01/30/apple-hearing-study-confirms-super-bowl-fans-get-really-loud?utm_medium=rss)
+ - [Apple Maps shows users the Gulf of Mexico when searching for &#39;Gulf of America&#39;](https://appleinsider.com/articles/25/01/29/apple-maps-shows-users-the-gulf-of-mexico-when-searching-for-gulf-of-america?utm_medium=rss)
  - [Elon Musk is using the same tactics he used during his Twitter takeover at DOGE, including offering exits to federal employees and testing engineering prowess &lpar;New York Times&rpar;](http://www.techmeme.com/250130/p33#a250130p33)
  - [The World According to Marc Andreessen](https://www.wired.com/story/uncanny-valley-podcast-11-marc-andreessen/)
- - [Google announces a &quot;voluntary exit program&quot; for employees working in the Platforms &amp; Devices group in the US, which includes Android, Chrome, Pixel, and more &lpar;Abner Li/9to5Google&rpar;](http://www.techmeme.com/250130/p32#a250130p32)
- - [Super Bowl 2025: How to Watch the Halftime Show With Megastar Kendrick Lamar](https://www.cnet.com/tech/services-and-software/super-bowl-2025-how-to-watch-the-halftime-show-with-megastar-kendrick-lamar/#ftag=CAD590a51e)
- - [Sources: Satya Nadella and Microsoft execs moved quickly to get engineers to test and deploy R1 on Azure and GitHub in 10 days, an unusually fast turnaround &lpar;Tom Warren/The Verge&rpar;](http://www.techmeme.com/250130/p31#a250130p31)<!-- TECH:END -->
+ - [Google announces a &quot;voluntary exit program&quot; for employees working in the Platforms &amp; Devices group in the US, which includes Android, Chrome, Pixel, and more &lpar;Abner Li/9to5Google&rpar;](http://www.techmeme.com/250130/p32#a250130p32)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

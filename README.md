@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [How Epic is transforming Fortnite into a content platform, paying $350M to creators in 2024; 36.5% of the total playtime was spent in games made by creators &lpar;Julia Alexander/Posting Nexus&rpar;](http://www.techmeme.com/250130/p6#a250130p6)
  - [A look at FathomVerse, a mobile game that helps scientists identify deep sea creatures by using players&#39; contributions to train AI for underwater robots &lpar;Todd Woody/Bloomberg&rpar;](http://www.techmeme.com/250130/p5#a250130p5)
  - [12 Best Vibrators of 2025, Tested and Reviewed](https://www.wired.com/gallery/best-vibrators/)
  - [STMicro reports Q4 revenue down 22.4% YoY to $3.32B, net income down 68.3% YoY to $341M, and projects Q1 revenue down 27.6% YoY to $2.51B, below $2.72B est. &lpar;Reuters&rpar;](http://www.techmeme.com/250130/p4#a250130p4)
- - [The Best Clitoral Suction Toys &lpar;2025&rpar;, Tested and Reviewed](https://www.wired.com/gallery/best-clitoral-suction-toys/)
- - [Mistral AI, seen as Europe&#39;s great hope for AI, is losing ground to US rivals and being overshadowed by DeepSeek; sources say its ARR is in the tens of millions &lpar;Financial Times&rpar;](http://www.techmeme.com/250130/p3#a250130p3)<!-- TECH:END -->
+ - [The Best Clitoral Suction Toys &lpar;2025&rpar;, Tested and Reviewed](https://www.wired.com/gallery/best-clitoral-suction-toys/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

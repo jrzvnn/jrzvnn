@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Mistral launches Small 3, a latency-optimized 24B-parameter model that it says is competitive with larger models such as Llama 3.3 70B or Qwen 32B &lpar;Mistral AI&rpar;](http://www.techmeme.com/250130/p15#a250130p15)
+ - [Microsoft unveils Intel-powered Surface Pro 11 and Surface Laptop 7 for businesses, both Copilot+ PCs starting at $1500, or $500 more than Qualcomm variants &lpar;Tom Warren/The Verge&rpar;](http://www.techmeme.com/250130/p14#a250130p14)
+ - [Apple enjoys 18th year at the top of Fortune&#39;s most admired companies list](https://appleinsider.com/articles/25/01/30/apple-enjoys-18th-year-at-the-top-of-fortunes-most-admired-companies-list?utm_medium=rss)
  - [Bleach Enthusiast, Antisemitic Conspiracist Among Stars of Anti-Vaxxer Event To Be Held at Trump Hotel](https://www.wired.com/story/antivaxers-covid-deniers-trump-national-doral-miami-resort/)
- - [Washington DC Plane Crash: Everything We Know So Far](https://www.wired.com/story/washington-dc-plane-crash-everything-we-know-so-far-black-hawk-faa-potomac-american-airlines-psa/)
- - [Samsung Galaxy S25 Ultra review: excellent screen, performance, and battery life, slimmer bezels, and new 50MP UW sensor, but no S Pen Air actions and pricey &lpar;Sam Rutherford/Engadget&rpar;](http://www.techmeme.com/250130/p13#a250130p13)
- - [The Best Audiophile Gear &lpar;2025&rpar;: Headphones, Speakers, Amps, DACs](https://www.wired.com/story/audiophile-gear-guide/)
- - [&#39;Squid Game&#39; Season 3 Release Date Is June 27](https://www.cnet.com/tech/services-and-software/squid-game-season-3-release-date-is-june-27/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Washington DC Plane Crash: Everything We Know So Far](https://www.wired.com/story/washington-dc-plane-crash-everything-we-know-so-far-black-hawk-faa-potomac-american-airlines-psa/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

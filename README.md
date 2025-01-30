@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Sources: Satya Nadella and Microsoft execs moved quickly to get engineers to test and deploy R1 on Azure and GitHub in 10 days, an unusually fast turnaround &lpar;Tom Warren/The Verge&rpar;](http://www.techmeme.com/250130/p31#a250130p31)
  - [DataBank, which provides high-performance compute-ready data centers for enterprise clients, raised $250M from PE firm TJC and $600M in a secondary share offer &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/250130/p30#a250130p30)
  - [Sources: bankers trying to offload ~$3B in X debt claim X had $1.2B in adjusted EBITDA in 2024, roughly flat from before Elon Musk&#39;s buyout, a sign of recovery &lpar;Bloomberg&rpar;](http://www.techmeme.com/250130/p29#a250130p29)
  - [AI audio startup ElevenLabs raised a $180M Series C co-led by a16z and ICONIQ Growth at a $3.3B post-money valuation, taking its total funding to $281M &lpar;TechCrunch&rpar;](http://www.techmeme.com/250130/p28#a250130p28)
- - [The US DOJ sues to block HPE&#39;s $14B acquisition of Juniper Networks, arguing the deal would harm competition in the enterprise wireless equipment &lpar;Bloomberg&rpar;](http://www.techmeme.com/250130/p27#a250130p27)
- - [Mexican President Claudia Sheinbaum writes to Google arguing that Maps should not accept Trump&#39;s decision to rename the Gulf of Mexico as the Gulf of America &lpar;Stephen Eisenhammer/Reuters&rpar;](http://www.techmeme.com/250130/p26#a250130p26)<!-- TECH:END -->
+ - [The US DOJ sues to block HPE&#39;s $14B acquisition of Juniper Networks, arguing the deal would harm competition in the enterprise wireless equipment &lpar;Bloomberg&rpar;](http://www.techmeme.com/250130/p27#a250130p27)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

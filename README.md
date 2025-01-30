@@ -160,8 +160,8 @@ R                        1 repo              ░░░░░░░░░░░�
  - [Elon Musk is using the same tactics he used during his Twitter takeover at DOGE, including offering exits to federal employees and testing engineering prowess &lpar;New York Times&rpar;](http://www.techmeme.com/250130/p33#a250130p33)
  - [The World According to Marc Andreessen](https://www.wired.com/story/uncanny-valley-podcast-11-marc-andreessen/)
  - [Google announces a &quot;voluntary exit program&quot; for employees working in the Platforms &amp; Devices group in the US, which includes Android, Chrome, Pixel, and more &lpar;Abner Li/9to5Google&rpar;](http://www.techmeme.com/250130/p32#a250130p32)
- - [Sources: Satya Nadella and Microsoft execs moved quickly to get engineers to test and deploy R1 on Azure and GitHub in 10 days, an unusually fast turnaround &lpar;Tom Warren/The Verge&rpar;](http://www.techmeme.com/250130/p31#a250130p31)
- - [DataBank, which provides high-performance compute-ready data centers for enterprise clients, raised $250M from PE firm TJC and $600M in a secondary share offer &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/250130/p30#a250130p30)<!-- TECH:END -->
+ - [Super Bowl 2025: How to Watch the Halftime Show With Megastar Kendrick Lamar](https://www.cnet.com/tech/services-and-software/super-bowl-2025-how-to-watch-the-halftime-show-with-megastar-kendrick-lamar/#ftag=CAD590a51e)
+ - [Sources: Satya Nadella and Microsoft execs moved quickly to get engineers to test and deploy R1 on Azure and GitHub in 10 days, an unusually fast turnaround &lpar;Tom Warren/The Verge&rpar;](http://www.techmeme.com/250130/p31#a250130p31)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

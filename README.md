@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Threads adds a dedicated media tab globally for photos and video, days after X and Bluesky added video tabs, and will let users tag people in photos &lpar;Aisha Malik/TechCrunch&rpar;](http://www.techmeme.com/250130/p24#a250130p24)
  - [Cybersecurity firms Netskope and Armis say &quot;hundreds&quot; of companies and government agencies globally are moving to block DeepSeek due to data leak concerns &lpar;Bloomberg&rpar;](http://www.techmeme.com/250130/p23#a250130p23)
  - [Fairshake, the crypto super PAC bankrolled by Coinbase, a16z, and others, says it has $116M in cash on hand aimed at the 2026 midterm election cycle &lpar;MacKenzie Sigalos/CNBC&rpar;](http://www.techmeme.com/250130/p22#a250130p22)
  - [Motif, which is building cloud-native 3D computer-aided architecture design tools with AI features, raised $46M in seed and Series A funding &lpar;Marina Temkin/TechCrunch&rpar;](http://www.techmeme.com/250130/p21#a250130p21)
- - [Mark Zuckerberg says he wants to make Facebook &quot;way more culturally influential than it is today&quot; and he is focused on returning to &quot;OG Facebook&quot; in 2025 &lpar;Ryan Christoffel/9to5Mac&rpar;](http://www.techmeme.com/250130/p20#a250130p20)
- - [Microsoft&#39;s stock fell 5%+ after saying it expects revenues for the current quarter to range between $67.7B and $68.7B, compared to $69.78B est. &lpar;Samantha Subin/CNBC&rpar;](http://www.techmeme.com/250130/p18#a250130p18)<!-- TECH:END -->
+ - [Mark Zuckerberg says he wants to make Facebook &quot;way more culturally influential than it is today&quot; and he is focused on returning to &quot;OG Facebook&quot; in 2025 &lpar;Ryan Christoffel/9to5Mac&rpar;](http://www.techmeme.com/250130/p20#a250130p20)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

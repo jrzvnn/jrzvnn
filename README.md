@@ -159,7 +159,7 @@ R                        1 repo              ░░░░░░░░░░░�
 <!-- TECH:START -->
  - [Services buoy slumping iPhone sales in record-breaking holiday quarter earnings](https://appleinsider.com/articles/25/01/30/services-buoy-slumping-iphone-sales-in-record-breaking-holiday-quarter-earnings?utm_medium=rss)
  - [Apple may be considering a restart of advertising on X](https://appleinsider.com/articles/25/01/30/apple-may-be-considering-a-restart-of-advertising-on-x?utm_medium=rss)
- - [Apple reports Q1 revenue up 4% YoY to $124.3B, net income up 7.1% to $36.3B, China net sales down 11% to $18.5B, the largest drop in China sales since Q1 2024 &lpar;CNBC&rpar;](http://www.techmeme.com/250130/p43#a250130p43)
+ - [Apple reports a record $124.3B revenue in Q1, up 4% YoY, net income up 7.1% to $36.3B, China net sales down 11% to $18.5B, largest drop in China since Q1 2024 &lpar;CNBC&rpar;](http://www.techmeme.com/250130/p43#a250130p43)
  - [Apple Q1: iPhone down 1% YoY to $69.14B, vs. $71.03B est., Mac up 15% to $8.99B, iPad up 15% to $8.09B, and Wearables, Home, and Accessories down 2% to $11.75B &lpar;Apple Inc.&rpar;](http://www.techmeme.com/250130/p42#a250130p42)
  - [Leaked all-hands recording: Mark Zuckerberg told staff to &quot;buckle up&quot; for an &quot;intense&quot; year, said a changing policy landscape necessitated DEI changes, and more &lpar;Business Insider&rpar;](http://www.techmeme.com/250130/p41#a250130p41)<!-- TECH:END -->
 

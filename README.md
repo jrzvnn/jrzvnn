@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Mistral AI, seen as Europe&#39;s great hope for AI, is losing ground to US rivals and being overshadowed by DeepSeek; sources say its ARR is in the tens of millions &lpar;Financial Times&rpar;](http://www.techmeme.com/250130/p3#a250130p3)
  - [Google announces new Gemini features for Google Sheets, letting Workspace users ask Gemini to generate static charts, analyze data, and more &lpar;Google Workspace Updates&rpar;](http://www.techmeme.com/250130/p2#a250130p2)
  - [During his confirmation hearing for Secretary of Commerce, Howard Lutnick called the CHIPS Act an &quot;excellent down payment&quot; but pledged to review binding awards &lpar;Mackenzie Hawkins/Bloomberg&rpar;](http://www.techmeme.com/250130/p1#a250130p1)
  - [Dell Coupon and Promo Codes: 10% Off](https://www.wired.com/story/dell-coupon-code/)
- - [CNET Survey: Winter Energy Bills Are Straining 62% of US Adults&#39; Finances](https://www.cnet.com/personal-finance/cnet-winter-energy-prices-survey-2025/#ftag=CAD590a51e)
- - [Apple Maps shows users the Gulf of Mexico when searching for &#39;Gulf of America&#39;](https://appleinsider.com/articles/25/01/29/apple-maps-shows-users-the-gulf-of-mexico-when-searching-for-gulf-of-america?utm_medium=rss)<!-- TECH:END -->
+ - [CNET Survey: Winter Energy Bills Are Straining 62% of US Adults&#39; Finances](https://www.cnet.com/personal-finance/cnet-winter-energy-prices-survey-2025/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

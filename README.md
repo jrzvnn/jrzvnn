@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [During his confirmation hearing for Commerce Secretary, Howard Lutnick called the CHIPS Act an &quot;excellent down payment&quot; but pledged to review binding awards &lpar;Mackenzie Hawkins/Bloomberg&rpar;](http://www.techmeme.com/250130/p1#a250130p1)
  - [Dell Coupon and Promo Codes: 10% Off](https://www.wired.com/story/dell-coupon-code/)
  - [CNET Survey: Winter Energy Bills Are Straining 62% of US Adults&#39; Finances](https://www.cnet.com/personal-finance/cnet-winter-energy-prices-survey-2025/#ftag=CAD590a51e)
  - [Apple Maps shows users the Gulf of Mexico when searching for &#39;Gulf of America&#39;](https://appleinsider.com/articles/25/01/29/apple-maps-shows-users-the-gulf-of-mexico-when-searching-for-gulf-of-america?utm_medium=rss)
- - [How to enable Apple Intelligence when booting from an external drive](https://appleinsider.com/inside/apple-intelligence/tips/how-to-enable-apple-intelligence-when-booting-from-an-external-drive?utm_medium=rss)
- - [Satya Nadella says Microsoft&#39;s AI business has surpassed an annual revenue run rate of $13B, up 175% YoY, as the company faces new scrutiny over AI spending &lpar;Todd Bishop/GeekWire&rpar;](http://www.techmeme.com/250129/p50#a250129p50)<!-- TECH:END -->
+ - [How to enable Apple Intelligence when booting from an external drive](https://appleinsider.com/inside/apple-intelligence/tips/how-to-enable-apple-intelligence-when-booting-from-an-external-drive?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

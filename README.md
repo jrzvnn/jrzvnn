@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [OpenAI says the US National Laboratories will use its o1 models for research; it will work with Microsoft to deploy a model on Los Alamos&#39; Venado supercomputer &lpar;Hayden Field/CNBC&rpar;](http://www.techmeme.com/250130/p16#a250130p16)
  - [DeepSeek&#39;s AI success is overshadowed by a serious security breach](https://appleinsider.com/articles/25/01/30/deepseeks-ai-success-is-overshadowed-by-a-serious-security-breach?utm_medium=rss)
  - [Mistral launches Small 3, a latency-optimized 24B-parameter model that it says is competitive with larger models such as Llama 3.3 70B or Qwen 32B &lpar;Mistral AI&rpar;](http://www.techmeme.com/250130/p15#a250130p15)
  - [Microsoft unveils Intel-powered Surface Pro 11 and Surface Laptop 7 for businesses, both Copilot+ PCs starting at $1500, or $500 more than Qualcomm variants &lpar;Tom Warren/The Verge&rpar;](http://www.techmeme.com/250130/p14#a250130p14)
- - [Apple enjoys 18th year at the top of Fortune&#39;s most admired companies list](https://appleinsider.com/articles/25/01/30/apple-enjoys-18th-year-at-the-top-of-fortunes-most-admired-companies-list?utm_medium=rss)
- - [Bleach Enthusiast, Antisemitic Conspiracist Among Stars of Anti-Vaxxer Event To Be Held at Trump Hotel](https://www.wired.com/story/antivaxers-covid-deniers-trump-national-doral-miami-resort/)<!-- TECH:END -->
+ - [Apple enjoys 18th year at the top of Fortune&#39;s most admired companies list](https://appleinsider.com/articles/25/01/30/apple-enjoys-18th-year-at-the-top-of-fortunes-most-admired-companies-list?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

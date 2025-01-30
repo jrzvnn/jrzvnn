@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [10 Best Delivery Chocolate Boxes to Send and Receive &lpar;2025&rpar;](https://www.wired.com/gallery/best-delivery-chocolate-boxes/)
  - [The Argonne National Laboratory says its Aurora supercomputer is now fully operational and available to researchers, offering over 1 FP64 exaFLOPS performance &lpar;Anton Shilov/Tom&#39;s Hardware&rpar;](http://www.techmeme.com/250130/p11#a250130p11)
  - [How TSMC beat Intel to be Apple&#39;s main chip foundry](https://appleinsider.com/articles/25/01/30/how-tsmc-beat-intel-to-be-apples-main-chip-foundry?utm_medium=rss)
  - [Your Pizza Guy Is Now AI](https://www.wired.com/story/palona-ai-chatbot-salesperson/)
- - [French startup Formance, which offers an open source, programmable financial ledger and other services, raised a $21M Series A co-led by PayPal and Portage &lpar;Romain Dillet/TechCrunch&rpar;](http://www.techmeme.com/250130/p10#a250130p10)
- - [Vodafone makes &quot;the world&#39;s first&quot; satellite video call using a standard smartphone via SpaceMobile satellites; the service is set to launch in Europe in 2025 &lpar;Dominic Preston/The Verge&rpar;](http://www.techmeme.com/250130/p9#a250130p9)<!-- TECH:END -->
+ - [French startup Formance, which offers an open source, programmable financial ledger and other services, raised a $21M Series A co-led by PayPal and Portage &lpar;Romain Dillet/TechCrunch&rpar;](http://www.techmeme.com/250130/p10#a250130p10)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

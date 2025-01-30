@@ -158,10 +158,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- TECH:START -->
  - [Sources: Amazon is ramping up ad spending on X, as companies re-evaluate their stances in a changing political climate; source: Apple considers a return to X &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/250130/p37#a250130p37)
- - [The 65 Best Movies on Disney+ Right Now &lpar;February 2025&rpar;](https://www.wired.com/story/best-movies-disney-plus/)
- - [Google Search adds Ask for me, which uses AI to call businesses to inquire about availability and pricing, starting with nail salons and auto shops in the US &lpar;Abner Li/9to5Google&rpar;](http://www.techmeme.com/250130/p36#a250130p36)
- - [Sources: OpenAI is in early talks to raise up to $40B at a $340B valuation; the startup was last valued at $157B in October, when it raised $6.6B &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/250130/p35#a250130p35)
- - [PitchBook: a spike in stock-market volatility due to DeepSeek may further complicate hopes for a rebound in venture-backed IPOs in 2025 &lpar;Bloomberg&rpar;](http://www.techmeme.com/250130/p34#a250130p34)<!-- TECH:END -->
+ - [Apple Reaches $20M Settlement in Watch Battery Lawsuit: Here&#39;s Who Qualifies](https://www.cnet.com/tech/apple-reaches-20m-settlement-in-watch-battery-lawsuit-heres-who-qualifies/#ftag=CAD590a51e)
+ - [Best Treadmills of 2025, as Tested by a Runner With Over 15 Years of Experience](https://www.cnet.com/health/fitness/best-treadmill/#ftag=CAD590a51e)
+ - [Formerly Xbox-and-PC Exclusive Forza Horizon 5 Is Heading to PS5 This Spring](https://www.cnet.com/tech/gaming/formerly-xbox-and-pc-exclusive-forza-horizon-5-is-heading-to-ps5-this-spring/#ftag=CAD590a51e)
+ - [The 65 Best Movies on Disney+ Right Now &lpar;February 2025&rpar;](https://www.wired.com/story/best-movies-disney-plus/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Leaked all-hands recording: Mark Zuckerberg told staff to &quot;buckle up&quot; for an &quot;intense&quot; year, said a changing policy landscape necessitated DEI changes, and more &lpar;Business Insider&rpar;](http://www.techmeme.com/250130/p41#a250130p41)
+ - [Intel reports Q4 revenue down 7% YoY to $14.26B, vs. $13.81B est., Data Center and AI down 3% YoY to $3.39B, and forecasts Q1 revenue below estimates &lpar;Jordan Novet/CNBC&rpar;](http://www.techmeme.com/250130/p40#a250130p40)
  - [Irreducible, which provides zero-knowledge proof generation services powered by FPGA chips, raised a $24M Series A co-led by Paradigm and Bain Capital Crypto &lpar;Yogita Khatri/The Block&rpar;](http://www.techmeme.com/250130/p39#a250130p39)
  - [Meta Is Dismantling DEI Programs, but Tells Investors It Still Wants ‘Cognitive Diversity’](https://www.wired.com/story/meta-2024-earnings-dei-trump/)
- - [How Hudhayfa Nazoordeen, aka HudZah, a 20-year-old math student and an &quot;AI native&quot; in San Francisco, is building a nuclear fusor under Claude&#39;s tutelage &lpar;Ashlee Vance/Core Memory&rpar;](http://www.techmeme.com/250130/p38#a250130p38)
- - [Sources: Amazon is ramping up ad spending on X, as companies re-evaluate their stances in a changing political climate; source: Apple considers a return to X &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/250130/p37#a250130p37)
- - [Apple Reaches $20M Settlement in Watch Battery Lawsuit: Here&#39;s Who Qualifies](https://www.cnet.com/tech/apple-reaches-20m-settlement-in-watch-battery-lawsuit-heres-who-qualifies/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [How Hudhayfa Nazoordeen, aka HudZah, a 20-year-old math student and an &quot;AI native&quot; in San Francisco, is building a nuclear fusor under Claude&#39;s tutelage &lpar;Ashlee Vance/Core Memory&rpar;](http://www.techmeme.com/250130/p38#a250130p38)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

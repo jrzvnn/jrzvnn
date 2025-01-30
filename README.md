@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Microsoft stock fell 5%+ after saying it expects revenues for the current quarter to range between $67.7B and $68.7B, compared to the estimated $69.78B &lpar;Samantha Subin/CNBC&rpar;](http://www.techmeme.com/250130/p18#a250130p18)
- - [Sam Altman briefed US policymakers on the need to invest heavily in physical infrastructure with Stargate to support AI development, citing the rise of DeepSeek &lpar;Mackenzie Hawkins/Bloomberg&rpar;](http://www.techmeme.com/250130/p19#a250130p19)
- - [Apple&#39;s MacBook Air drops to as low as $799 with 16GB RAM](https://appleinsider.com/articles/25/01/30/apples-macbook-air-drops-to-as-low-as-799-with-16gb-ram?utm_medium=rss)
- - [Microsoft makes OpenAI&#39;s o1 model, branded as &quot;Think Deeper&quot;, free for all Copilot users, after launching it in October as a paid Copilot Pro feature &lpar;Tom Warren/The Verge&rpar;](http://www.techmeme.com/250130/p17#a250130p17)
- - [OpenAI says the US National Laboratories will use its o1 models for research; it will work with Microsoft to deploy a model on Los Alamos&#39; Venado supercomputer &lpar;Hayden Field/CNBC&rpar;](http://www.techmeme.com/250130/p16#a250130p16)<!-- TECH:END -->
+ - [Fairshake, the crypto super PAC bankrolled by Coinbase, a16z, and others, says it has $116M in cash on hand aimed at the 2026 midterm election cycle &lpar;MacKenzie Sigalos/CNBC&rpar;](http://www.techmeme.com/250130/p22#a250130p22)
+ - [Motif, which is building cloud-native 3D computer-aided architecture design tools with AI features, raised $46M in seed and Series A funding &lpar;Marina Temkin/TechCrunch&rpar;](http://www.techmeme.com/250130/p21#a250130p21)
+ - [Mark Zuckerberg says he wants to make Facebook &quot;way more culturally influential than it is today&quot; and he is focused on returning to &quot;OG Facebook&quot; in 2025 &lpar;Ryan Christoffel/9to5Mac&rpar;](http://www.techmeme.com/250130/p20#a250130p20)
+ - [Microsoft&#39;s stock fell 5%+ after saying it expects revenues for the current quarter to range between $67.7B and $68.7B, compared to $69.78B est. &lpar;Samantha Subin/CNBC&rpar;](http://www.techmeme.com/250130/p18#a250130p18)
+ - [Sam Altman briefed US policymakers on the need to invest heavily in physical infrastructure with Stargate to support AI development, citing the rise of DeepSeek &lpar;Mackenzie Hawkins/Bloomberg&rpar;](http://www.techmeme.com/250130/p19#a250130p19)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

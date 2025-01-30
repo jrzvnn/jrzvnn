@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Samsung Galaxy S25 Ultra review: excellent screen, performance, and battery life, slimmer bezels, and new 50MP UW sensor, but no S Pen Air actions and pricey &lpar;Sam Rutherford/Engadget&rpar;](http://www.techmeme.com/250130/p13#a250130p13)
  - [The Best Audiophile Gear &lpar;2025&rpar;: Headphones, Speakers, Amps, DACs](https://www.wired.com/story/audiophile-gear-guide/)
  - [Europol and German law enforcement arrest two suspects and seize 17 servers to take down Cracked and Nulled, two of the largest hacking forums with 10M+ users &lpar;Sergiu Gatlan/BleepingComputer&rpar;](http://www.techmeme.com/250130/p12#a250130p12)
  - [10 Best Delivery Chocolate Boxes to Send and Receive &lpar;2025&rpar;](https://www.wired.com/gallery/best-delivery-chocolate-boxes/)
- - [The Argonne National Laboratory says its Aurora supercomputer is now fully operational and available to researchers, offering over 1 FP64 exaFLOPS performance &lpar;Anton Shilov/Tom&#39;s Hardware&rpar;](http://www.techmeme.com/250130/p11#a250130p11)
- - [How TSMC beat Intel to be Apple&#39;s main chip foundry](https://appleinsider.com/articles/25/01/30/how-tsmc-beat-intel-to-be-apples-main-chip-foundry?utm_medium=rss)<!-- TECH:END -->
+ - [The Argonne National Laboratory says its Aurora supercomputer is now fully operational and available to researchers, offering over 1 FP64 exaFLOPS performance &lpar;Anton Shilov/Tom&#39;s Hardware&rpar;](http://www.techmeme.com/250130/p11#a250130p11)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

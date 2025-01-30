@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Threads adds a dedicated media tab globally for photos and video, days after X and Bluesky added video tabs, and will let users tag people in photos &lpar;Aisha Malik/TechCrunch&rpar;](http://www.techmeme.com/250130/p24#a250130p24)
- - [Cybersecurity firms Netskope and Armis say &quot;hundreds&quot; of companies and government agencies globally are moving to block DeepSeek due to data leak concerns &lpar;Bloomberg&rpar;](http://www.techmeme.com/250130/p23#a250130p23)
- - [Fairshake, the crypto super PAC bankrolled by Coinbase, a16z, and others, says it has $116M in cash on hand aimed at the 2026 midterm election cycle &lpar;MacKenzie Sigalos/CNBC&rpar;](http://www.techmeme.com/250130/p22#a250130p22)
- - [Motif, which is building cloud-native 3D computer-aided architecture design tools with AI features, raised $46M in seed and Series A funding &lpar;Marina Temkin/TechCrunch&rpar;](http://www.techmeme.com/250130/p21#a250130p21)
- - [Mark Zuckerberg says he wants to make Facebook &quot;way more culturally influential than it is today&quot; and he is focused on returning to &quot;OG Facebook&quot; in 2025 &lpar;Ryan Christoffel/9to5Mac&rpar;](http://www.techmeme.com/250130/p20#a250130p20)<!-- TECH:END -->
+ - [AI audio startup ElevenLabs raised a $180M Series C co-led by a16z and ICONIQ Growth at a $3.3B post-money valuation, taking its total funding to $281M &lpar;TechCrunch&rpar;](http://www.techmeme.com/250130/p28#a250130p28)
+ - [The US DOJ sues to block HPE&#39;s $14B acquisition of Juniper Networks, arguing the deal would harm competition in the enterprise wireless equipment &lpar;Leah Nylen/Bloomberg&rpar;](http://www.techmeme.com/250130/p27#a250130p27)
+ - [Mexican President Claudia Sheinbaum writes to Google arguing that Maps should not accept Trump&#39;s decision to rename the Gulf of Mexico as the Gulf of America &lpar;Stephen Eisenhammer/Reuters&rpar;](http://www.techmeme.com/250130/p26#a250130p26)
+ - [Documents: in the Biden administration&#39;s final days, the FTC sent info demands to Uber and Lyft, as it probes whether they coordinated to limit NYC driver pay &lpar;Bloomberg&rpar;](http://www.techmeme.com/250130/p25#a250130p25)
+ - [Threads adds a dedicated media tab globally for photos and video, days after X and Bluesky added video tabs, and will let users tag people in photos &lpar;Aisha Malik/TechCrunch&rpar;](http://www.techmeme.com/250130/p24#a250130p24)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

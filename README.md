@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Best Heat Protectant Sprays for Wet and Dry Hair &lpar;2025&rpar;](https://www.wired.com/gallery/the-best-heat-protectants-for-hair/)
  - [An interview with Bill Gates on his memoir, &quot;Source Code: My Beginnings&quot;, social media, crypto, AI, billionaires, tax, Trump, his parents, Microsoft, and more &lpar;David Streitfeld/New York Times&rpar;](http://www.techmeme.com/250130/p8#a250130p8)
  - [Court filing: Elon Musk, seeking to dismiss Don Lemon&#39;s lawsuit, blames an &quot;invasive and charged interview&quot; for canceling Lemon&#39;s $1.5M partnership with X &lpar;Kurt Wagner/Bloomberg&rpar;](http://www.techmeme.com/250130/p7#a250130p7)
  - [Best Internet Providers in Tucson, Arizona](https://www.cnet.com/home/internet/best-internet-providers-in-tucson-az/#ftag=CAD590a51e)
- - [How Epic is transforming Fortnite into a content platform, paying $350M to creators in 2024; 36.5% of the total playtime was spent in games made by creators &lpar;Julia Alexander/Posting Nexus&rpar;](http://www.techmeme.com/250130/p6#a250130p6)
- - [The Fed&#39;s Rate Pause Is Good News for Savers. Today&#39;s CD Rates, Jan. 30, 2025](https://www.cnet.com/personal-finance/banking/the-feds-rate-pause-is-good-news-for-savers-todays-cd-rates-jan-30-2025/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [How Epic is transforming Fortnite into a content platform, paying $350M to creators in 2024; 36.5% of the total playtime was spent in games made by creators &lpar;Julia Alexander/Posting Nexus&rpar;](http://www.techmeme.com/250130/p6#a250130p6)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

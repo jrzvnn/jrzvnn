@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Bleach Enthusiast, Antisemitic Conspiracist Among Stars of Anti-Vaxxer Event To Be Held at Trump Hotel](https://www.wired.com/story/antivaxers-covid-deniers-trump-national-doral-miami-resort/)
  - [Washington, DC Plane Crash: Everything We Know So Far](https://www.wired.com/story/washington-dc-plane-crash-everything-we-know-so-far-black-hawk-faa-potomac-american-airlines-psa/)
  - [Samsung Galaxy S25 Ultra review: excellent screen, performance, and battery life, slimmer bezels, and new 50MP UW sensor, but no S Pen Air actions and pricey &lpar;Sam Rutherford/Engadget&rpar;](http://www.techmeme.com/250130/p13#a250130p13)
  - [The Best Audiophile Gear &lpar;2025&rpar;: Headphones, Speakers, Amps, DACs](https://www.wired.com/story/audiophile-gear-guide/)
- - [Europol and German law enforcement arrest two suspects and seize 17 servers to take down Cracked and Nulled, two of the largest hacking forums with 10M+ users &lpar;Sergiu Gatlan/BleepingComputer&rpar;](http://www.techmeme.com/250130/p12#a250130p12)
- - [10 Best Delivery Chocolate Boxes to Send and Receive &lpar;2025&rpar;](https://www.wired.com/gallery/best-delivery-chocolate-boxes/)<!-- TECH:END -->
+ - [&#39;Squid Game&#39; Season 3 Release Date Is June 27](https://www.cnet.com/tech/services-and-software/squid-game-season-3-release-date-is-june-27/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

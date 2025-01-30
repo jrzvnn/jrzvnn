@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Apple Services revenue reached an all-time high of $26.34B in Q1, up 14% YoY, beating estimates and helping lift the company&#39;s gross margin to a record 46.9% &lpar;CNBC&rpar;](http://www.techmeme.com/250130/p47#a250130p47)
+ - [What&#39;s Next in the DC Jet Crash Investigation](https://www.wired.com/story/whats-next-in-the-dc-jet-crash-investigation/)
  - [Leaked all-hands: Mark Zuckerberg said Meta sold more than 1M Ray-Ban smart glasses in 2024, revealing sales figures for the first time &lpar;The Verge&rpar;](http://www.techmeme.com/250130/p46#a250130p46)
  - [Services buoy slumping iPhone sales in record-breaking holiday quarter earnings](https://appleinsider.com/articles/25/01/30/services-buoy-slumping-iphone-sales-in-record-breaking-holiday-quarter-earnings?utm_medium=rss)
- - [Tim Cook says there are now more than 2.35B active Apple devices worldwide, a new record, up from 2.2B devices the company reported in February 2024 &lpar;Juli Clover/MacRumors&rpar;](http://www.techmeme.com/250130/p45#a250130p45)
- - [The lack of Apple Intelligence in some regions is impacting iPhone sales](https://appleinsider.com/articles/25/01/30/the-lack-of-apple-intelligence-in-some-regions-is-impacting-sales?utm_medium=rss)
- - [Apple has more than 2.35 billion active devices, up 550 million since 2022](https://appleinsider.com/articles/25/01/30/apple-has-more-than-235-billion-active-devices-up-550-million-since-2022?utm_medium=rss)<!-- TECH:END -->
+ - [Tim Cook says there are now more than 2.35B active Apple devices worldwide, a new record, up from 2.2B devices the company reported in February 2024 &lpar;Juli Clover/MacRumors&rpar;](http://www.techmeme.com/250130/p45#a250130p45)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [An interview with Bill Gates on his memoir, &quot;Source Code: My Beginnings&quot;, social media, crypto, AI, billionaires, tax, Trump, his parents, Microsoft, and more &lpar;David Streitfeld/New York Times&rpar;](http://www.techmeme.com/250130/p8#a250130p8)
  - [Court filing: Elon Musk, seeking to dismiss Don Lemon&#39;s lawsuit, blames an &quot;invasive and charged interview&quot; for canceling Lemon&#39;s $1.5M partnership with X &lpar;Kurt Wagner/Bloomberg&rpar;](http://www.techmeme.com/250130/p7#a250130p7)
+ - [Best Internet Providers in Tucson, Arizona](https://www.cnet.com/home/internet/best-internet-providers-in-tucson-az/#ftag=CAD590a51e)
  - [How Epic is transforming Fortnite into a content platform, paying $350M to creators in 2024; 36.5% of the total playtime was spent in games made by creators &lpar;Julia Alexander/Posting Nexus&rpar;](http://www.techmeme.com/250130/p6#a250130p6)
- - [A look at FathomVerse, a mobile game that helps scientists identify deep sea creatures by using players&#39; contributions to train AI for underwater robots &lpar;Todd Woody/Bloomberg&rpar;](http://www.techmeme.com/250130/p5#a250130p5)
- - [12 Best Vibrators of 2025, Tested and Reviewed](https://www.wired.com/gallery/best-vibrators/)
- - [STMicro reports Q4 revenue down 22.4% YoY to $3.32B, net income down 68.3% YoY to $341M, and projects Q1 revenue down 27.6% YoY to $2.51B, below $2.72B est. &lpar;Reuters&rpar;](http://www.techmeme.com/250130/p4#a250130p4)<!-- TECH:END -->
+ - [The Fed&#39;s Rate Pause Is Good News for Savers. Today&#39;s CD Rates, Jan. 30, 2025](https://www.cnet.com/personal-finance/banking/the-feds-rate-pause-is-good-news-for-savers-todays-cd-rates-jan-30-2025/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

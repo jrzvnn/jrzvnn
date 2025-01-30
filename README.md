@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Wiz: DeepSeek left one of its critical databases exposed, leaking more than 1M records including system logs, user prompt submissions, and users&#39; API keys &lpar;Wired&rpar;](http://www.techmeme.com/250129/p45#a250129p45)
+ - [Trump’s Plan for Elon Musk to Bring the ‘Stranded’ Astronauts Home ASAP Is a Headache for NASA](https://www.wired.com/story/trumps-plan-for-elon-musk-to-bring-the-stranded-astronauts-home-asap-is-a-headache-for-nasa/)
+ - [Mark Zuckerberg says spending heavily on AI infrastructure is a &quot;strategic advantage&quot; and vows Meta will invest &quot;hundreds of billions&quot; in AI over the long term &lpar;Charles Rollet/TechCrunch&rpar;](http://www.techmeme.com/250129/p44#a250129p44)
  - [Apple Maps shows users the Gulf of Mexico when searching for &#39;Gulf of America&#39;](https://appleinsider.com/articles/25/01/29/apple-maps-shows-users-the-gulf-of-mexico-when-searching-for-gulf-of-america?utm_medium=rss)
- - [Mark Zuckerberg says Threads has 320M MAUs, up from 275M in November 2024, and is adding more than 1M daily signups &lpar;Lauren Forristal/TechCrunch&rpar;](http://www.techmeme.com/250129/p43#a250129p43)
- - [Microsoft Q2: Windows OEM and Devices revenue up 4% YoY, gaming revenue down 7%, Xbox hardware revenue down 29%, and Xbox content and services revenue up 2% &lpar;Jay Peters/The Verge&rpar;](http://www.techmeme.com/250129/p42#a250129p42)
- - [Best Internet Providers in St. George, Utah](https://www.cnet.com/home/internet/best-internet-providers-in-st-george-ut/#ftag=CAD590a51e)
- - [Employer.com founder Jesse Tinsley says his US investor group vying to buy TikTok has secured $20B+ and recruited the CEOs of Roblox and Anchorage as investors &lpar;Alexandra S. Levine/Bloomberg&rpar;](http://www.techmeme.com/250129/p41#a250129p41)<!-- TECH:END -->
+ - [Best Internet Providers in Valdosta, Georgia](https://www.cnet.com/home/internet/best-internet-providers-in-valdosta-ga/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

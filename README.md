@@ -161,7 +161,7 @@ R                        1 repo              ░░░░░░░░░░░�
  - [The lack of Apple Intelligence in some regions is impacting iPhone sales](https://appleinsider.com/articles/25/01/30/the-lack-of-apple-intelligence-in-some-regions-is-impacting-sales?utm_medium=rss)
  - [Apple has more than 2.35 billion active devices, up 550 million since 2022](https://appleinsider.com/articles/25/01/30/apple-has-more-than-235-billion-active-devices-up-550-million-since-2022?utm_medium=rss)
  - [Apple reports Q1 revenue from Services, which includes App Store, Apple TV+, and Apple Music, up 14% YoY to $26.34B, an all-time high, vs. $26.09B est. &lpar;Stephen Nellis/Reuters&rpar;](http://www.techmeme.com/250130/p44#a250130p44)
- - [Services prop up slumping iPhone sales in record-breaking holiday quarter earnings](https://appleinsider.com/articles/25/01/30/services-buoy-slumping-iphone-sales-in-record-breaking-holiday-quarter-earnings?utm_medium=rss)<!-- TECH:END -->
+ - [Spider-Man 2 PS5 Skin Now Available on Marvel Rivals](https://www.cnet.com/tech/gaming/spider-man-2-ps5-skin-now-available-on-marvel-rivals/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Irreducible, which provides zero-knowledge proof generation services powered by FPGA chips, raised a $24M Series A co-led by Paradigm and Bain Capital Crypto &lpar;Yogita Khatri/The Block&rpar;](http://www.techmeme.com/250130/p39#a250130p39)
+ - [Meta Is Dismantling DEI Programs, but Tells Investors It Still Wants ‘Cognitive Diversity’](https://www.wired.com/story/meta-2024-earnings-dei-trump/)
  - [How Hudhayfa Nazoordeen, aka HudZah, a 20-year-old math student and an &quot;AI native&quot; in San Francisco, is building a nuclear fusor under Claude&#39;s tutelage &lpar;Ashlee Vance/Core Memory&rpar;](http://www.techmeme.com/250130/p38#a250130p38)
  - [Sources: Amazon is ramping up ad spending on X, as companies re-evaluate their stances in a changing political climate; source: Apple considers a return to X &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/250130/p37#a250130p37)
- - [Apple Reaches $20M Settlement in Watch Battery Lawsuit: Here&#39;s Who Qualifies](https://www.cnet.com/tech/apple-reaches-20m-settlement-in-watch-battery-lawsuit-heres-who-qualifies/#ftag=CAD590a51e)
- - [Best Treadmills of 2025, as Tested by a Runner With Over 15 Years of Experience](https://www.cnet.com/health/fitness/best-treadmill/#ftag=CAD590a51e)
- - [Formerly Xbox-and-PC Exclusive Forza Horizon 5 Is Heading to PS5 This Spring](https://www.cnet.com/tech/gaming/formerly-xbox-and-pc-exclusive-forza-horizon-5-is-heading-to-ps5-this-spring/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Apple Reaches $20M Settlement in Watch Battery Lawsuit: Here&#39;s Who Qualifies](https://www.cnet.com/tech/apple-reaches-20m-settlement-in-watch-battery-lawsuit-heres-who-qualifies/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

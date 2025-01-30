@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [NewsGuard: with news-related prompts, DeepSeek&#39;s chatbot repeated false claims 30% of the time and provided non-answers 53% of the time, giving an 83% fail rate &lpar;NewsGuard&#39;s Reality Check&rpar;](http://www.techmeme.com/250129/p49#a250129p49)
  - [This Window Heat Pump I Saw at CES Is Super Easy to Install](https://www.cnet.com/home/energy-and-utilities/this-window-heat-pump-i-saw-at-ces-is-super-easy-to-install/#ftag=CAD590a51e)
  - [Sources: SoftBank is in talks to invest $15B-$25B in OpenAI on top of its $15B+ commitment to Stargate; the deal would make it OpenAI&#39;s biggest financial backer &lpar;Financial Times&rpar;](http://www.techmeme.com/250129/p48#a250129p48)
  - [Microsoft says Q2 capital expenditures hit $22.6B, vs. $20.95B estimated, and forecasts Q3 Azure growth between 31% and 32%, vs. 33% expected &lpar;Reuters&rpar;](http://www.techmeme.com/250129/p47#a250129p47)
- - [Put in Extra Effort to Wash These 12 Pesticide-Prone Fruits and Vegetables](https://www.cnet.com/news/put-in-extra-effort-to-wash-these-12-pesticide-prone-fruits-and-vegetables/#ftag=CAD590a51e)
- - [Microsoft reports Q2 LinkedIn revenue up 9% YoY, and Satya Nadella says that LinkedIn passed a record $2B in Premium subscriptions revenue in the last 12 months &lpar;Ingrid Lunden/TechCrunch&rpar;](http://www.techmeme.com/250129/p46#a250129p46)<!-- TECH:END -->
+ - [Put in Extra Effort to Wash These 12 Pesticide-Prone Fruits and Vegetables](https://www.cnet.com/news/put-in-extra-effort-to-wash-these-12-pesticide-prone-fruits-and-vegetables/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

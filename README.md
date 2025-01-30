@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [French startup Formance, which offers an open source, programmable financial ledger and other services, raised a $21M Series A co-led by PayPal and Portage &lpar;Romain Dillet/TechCrunch&rpar;](http://www.techmeme.com/250130/p10#a250130p10)
  - [Vodafone makes &quot;the world&#39;s first&quot; satellite video call using a standard smartphone via SpaceMobile satellites; the service is set to launch in Europe in 2025 &lpar;Dominic Preston/The Verge&rpar;](http://www.techmeme.com/250130/p9#a250130p9)
+ - [China Has Taught AI Startups a Lesson Automakers Learned Years Ago](https://www.wired.com/story/china-taught-ai-startups-a-lesson-automakers-learned-years-ago/)
  - [Supernote A5 X2 Manta Digital Notebook Review &lpar;2024&rpar;: Best in Penmanship](https://www.wired.com/review/supernote-a5-x2-manta/)
- - [The Twitch Streamer Using Face Recognition to Make Video Games More Accessible](https://www.wired.com/story/using-face-recognition-to-make-games-more-accessible/)
- - [The &#39;Contentification&#39; of Trump Policy](https://www.wired.com/story/trump-content-creation-dnc-election/)
- - [Best Internet Providers in Texas](https://www.cnet.com/home/internet/best-internet-providers-in-texas/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [The Twitch Streamer Using Face Recognition to Make Video Games More Accessible](https://www.wired.com/story/using-face-recognition-to-make-games-more-accessible/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

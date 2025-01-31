@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Sources: OpenAI plans to release o3-mini today with o1-level reasoning and 4o-level speed, as the company&#39;s staff is galvanized by DeepSeek&#39;s success &lpar;Zo&amp;euml; Schiffer/Wired&rpar;](http://www.techmeme.com/250131/p20#a250131p20)
  - [Apple settles years-old Apple Watch battery suit for $20 million](https://appleinsider.com/articles/25/01/31/apple-settles-years-old-apple-watch-battery-suit-for-20-million?utm_medium=rss)
  - [LinkedIn says short-form video is its fastest-growing content category, and total video viewership grew 36% YoY between October 30, 2024 and January 29, 2025 &lpar;Alexander Lee/Digiday&rpar;](http://www.techmeme.com/250131/p19#a250131p19)
  - [After strong earnings, Morgan Stanley inches up AAPL target to $275](https://appleinsider.com/articles/25/01/31/after-strong-earnings-morgan-stanley-inches-up-aapl-target-to-275?utm_medium=rss)
- - [DeepSeek Has Gotten OpenAI Fired Up](https://www.wired.com/story/openai-deepseek-stargate-sam-altman/)
- - [Apple agrees to a $20M settlement to resolve claims that some Watch batteries swelled over time, potentially damaging other key components, such as the display &lpar;Samantha Kelly/CNET&rpar;](http://www.techmeme.com/250131/p18#a250131p18)<!-- TECH:END -->
+ - [DeepSeek Has Gotten OpenAI Fired Up](https://www.wired.com/story/openai-deepseek-stargate-sam-altman/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

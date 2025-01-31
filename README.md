@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Kraken says its revenue hit $1.5B in 2024, up from $671M in 2023, and it finished the year with 2.6M funded accounts, with $42.8B in assets held on the platform &lpar;Bloomberg&rpar;](http://www.techmeme.com/250131/p16#a250131p16)
+ - [Atlassian reports Q2 revenue of $1.29B vs. $1.24B est. and expects 26.5% cloud growth, 21.5% data center growth for the fiscal year; TEAM jumps 20%+ pre-market &lpar;Samantha Subin/CNBC&rpar;](http://www.techmeme.com/250131/p15#a250131p15)
  - [5 Best Sock Subscription Services &lpar;2025&rpar;, Tested and Reviewed](https://www.wired.com/gallery/best-socks-subscription-services-for-people-who-hate-shopping/)
  - [Indian smartphone market&#39;s revenue rose 9% YoY in 2024, with shipments up 1% YoY to 153M units; Nothing was the fastest-growing brand, up 577% YoY &lpar;Counterpoint Research&rpar;](http://www.techmeme.com/250131/p14#a250131p14)
- - [Sources: STMicroelectronics is considering reducing its workforce by about 6%, or up to 3,000 jobs, through early retirements and attrition, amid a chip slump &lpar;Bloomberg&rpar;](http://www.techmeme.com/250131/p13#a250131p13)
- - [How Richard Mille Takes Quartz Watches to a Surprising Level](https://www.wired.com/story/how-richard-mille-takes-quartz-watches-to-a-surprising-level/)
- - [Cloudflare Radar: TikTok has nearly bounced back to its original traffic levels after usage fell 85% when the app temporarily shut down on January 19 &lpar;Zach Vallese/CNBC&rpar;](http://www.techmeme.com/250131/p12#a250131p12)<!-- TECH:END -->
+ - [Sources: STMicroelectronics is considering reducing its workforce by about 6%, or up to 3,000 jobs, through early retirements and attrition, amid a chip slump &lpar;Bloomberg&rpar;](http://www.techmeme.com/250131/p13#a250131p13)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

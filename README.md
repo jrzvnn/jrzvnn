@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Apple reported to have killed the project to create Mac-connected AR glasses](https://appleinsider.com/articles/25/01/31/apple-reported-to-have-killed-the-project-to-create-mac-connected-ar-glasses?utm_medium=rss)
+ - [Best Mesh Routers for Whole-Home Wi-Fi](https://www.cnet.com/home/internet/best-mesh-wifi-routers/#ftag=CAD590a51e)
  - [Researchers: DeepSeek&#39;s R1 failed to detect or block any of the 50 malicious prompts that were tested; Adversa: R1 is vulnerable to many jailbreaking tactics &lpar;Wired&rpar;](http://www.techmeme.com/250131/p32#a250131p32)
- - [Sources: Apple canceled a project to build AR glasses that would pair with the Mac; the company is still working on successors to the Vision Pro &lpar;Mark Gurman/Bloomberg&rpar;](http://www.techmeme.com/250131/p31#a250131p31)
- - [Here’s How DeepSeek Censorship Actually Works—and How to Get Around It](https://www.wired.com/story/deepseek-censorship/)
- - [OpenAI’s o3-Mini Is a Leaner AI Model That Keeps Pace With DeepSeek](https://www.wired.com/story/openai-o3-mini-release/)
- - [O3-mini will be available to all ChatGPT users, the first time free users of the chatbot will be able to try out OpenAI&#39;s reasoning models &lpar;Tom Warren/The Verge&rpar;](http://www.techmeme.com/250131/p30#a250131p30)<!-- TECH:END -->
+ - [Best Chemical Drain Cleaners for 2025](https://www.cnet.com/news/best-chemical-drain-cleaners/#ftag=CAD590a51e)
+ - [Best BBQ Sauces for 2025](https://www.cnet.com/news/best-bbq-sauces/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

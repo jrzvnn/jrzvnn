@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [5 Things the Nintendo Switch 2 Needs to Succeed](https://www.wired.com/story/5-things-the-nintendo-switch-2-needs-to-succeed/)
  - [Bill Gates Traumatized His Parents—and Other Stories of a Wild, Wonky Youth](https://www.wired.com/story/big-interview-bill-gates-book-autobiography-source-code/)
  - [Adobe Chief Strategy Officer Scott Belsky leaves the company to join A24 film studio as a partner; he co-founded Behance, which Adobe acquired for $150M in 2012 &lpar;Todd Spangler/Variety&rpar;](http://www.techmeme.com/250131/p8#a250131p8)
  - [Best Internet Providers in Kansas](https://www.cnet.com/home/internet/best-internet-providers-in-kansas/#ftag=CAD590a51e)
- - [Today&#39;s NYT Connections: Sports Edition Hints and Answers for Jan. 31, #130](https://www.cnet.com/tech/gaming/todays-nyt-connections-sports-edition-hints-and-answers-for-jan-31-130/#ftag=CAD590a51e)
- - [Today&#39;s NYT Strands Hints, Answers and Help for Jan. 31, #334](https://www.cnet.com/tech/gaming/todays-nyt-strands-hints-answers-and-help-for-jan-31-334/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Today&#39;s NYT Connections: Sports Edition Hints and Answers for Jan. 31, #130](https://www.cnet.com/tech/gaming/todays-nyt-connections-sports-edition-hints-and-answers-for-jan-31-130/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Best Internet Providers in Washington, DC](https://www.cnet.com/home/internet/best-internet-providers-in-washington-dc/#ftag=CAD590a51e)
  - [A profile of incoming White House OSTP director Michael Kratsios, who lacks a STEM degree and led the American AI Initiative during President Trump&#39;s first term &lpar;William J. Broad/New York Times&rpar;](http://www.techmeme.com/250131/p6#a250131p6)
  - [Nvidia updates its PC app and rolls out the new GPU drivers, bringing Multi Frame Generation to RTX 50 Series GPUs and DLSS transformer models to all RTX GPUs &lpar;VideoCardz.com&rpar;](http://www.techmeme.com/250131/p5#a250131p5)
  - [Investor letter: Elliott Management warns the White House&#39;s embrace of crypto is helping fuel a speculative mania that &quot;could wreak havoc&quot; when prices collapse &lpar;Costas Mourselas/Financial Times&rpar;](http://www.techmeme.com/250131/p4#a250131p4)
- - [SoftBank, which sources say is in talks to invest $15B-$25B in OpenAI and $18B in Stargate, could borrow against its $140B+ Arm stake to fund the investments &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/250131/p3#a250131p3)
- - [Visible Promo Codes and Deals: Save On Phones and Plans](https://www.wired.com/story/visible-promo-code/)<!-- TECH:END -->
+ - [SoftBank, which sources say is in talks to invest $15B-$25B in OpenAI and $18B in Stargate, could borrow against its $140B+ Arm stake to fund the investments &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/250131/p3#a250131p3)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

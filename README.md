@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Adobe Chief Strategy Officer Scott Belsky leaves the company to join A24 film studio as a partner; he co-founded Behance, which Adobe acquired for $150M in 2012 &lpar;Todd Spangler/Variety&rpar;](http://www.techmeme.com/250131/p8#a250131p8)
  - [Experts say the Kremlin&#39;s throttling of YouTube is driving Russians to state-controlled platforms; Google data shows Russian traffic to YouTube is down ~66% YoY &lpar;Paul Sonne/New York Times&rpar;](http://www.techmeme.com/250131/p7#a250131p7)
  - [Best Internet Providers in Winston-Salem, North Carolina](https://www.cnet.com/home/internet/best-internet-providers-in-winston-salem-nc/#ftag=CAD590a51e)
  - [Best Internet Providers in Washington, DC](https://www.cnet.com/home/internet/best-internet-providers-in-washington-dc/#ftag=CAD590a51e)
- - [A profile of incoming White House OSTP director Michael Kratsios, who lacks a STEM degree and led the American AI Initiative during President Trump&#39;s first term &lpar;William J. Broad/New York Times&rpar;](http://www.techmeme.com/250131/p6#a250131p6)
- - [Nvidia updates its PC app and rolls out the new GPU drivers, bringing Multi Frame Generation to RTX 50 Series GPUs and DLSS transformer models to all RTX GPUs &lpar;VideoCardz.com&rpar;](http://www.techmeme.com/250131/p5#a250131p5)<!-- TECH:END -->
+ - [A profile of incoming White House OSTP director Michael Kratsios, who lacks a STEM degree and led the American AI Initiative during President Trump&#39;s first term &lpar;William J. Broad/New York Times&rpar;](http://www.techmeme.com/250131/p6#a250131p6)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

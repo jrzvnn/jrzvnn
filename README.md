@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The Best Ski Goggles, Editor Tested and Reviewed &lpar;2025&rpar;](https://www.wired.com/gallery/best-ski-goggles/)
+ - [Finout, which makes cloud cost management software, raised a $40M Series C, following a $26M Series B in March, bringing its total raised to $85M &lpar;Frederic Lardinois/TechCrunch&rpar;](http://www.techmeme.com/250131/p17#a250131p17)
+ - [CalDigit&#39;s new Element 5 hub brings more Thunderbolt 5 ports to the Mac](https://appleinsider.com/articles/25/01/31/caldigits-new-element-5-hub-brings-more-thunderbolt-5-ports-to-the-mac?utm_medium=rss)
  - [Kraken says its revenue hit $1.5B in 2024, up from $671M in 2023, and it finished the year with 2.6M funded accounts, with $42.8B in assets held on the platform &lpar;Bloomberg&rpar;](http://www.techmeme.com/250131/p16#a250131p16)
- - [Atlassian reports Q2 revenue of $1.29B vs. $1.24B est. and expects 26.5% cloud growth, 21.5% data center growth for the fiscal year; TEAM jumps 20%+ pre-market &lpar;Samantha Subin/CNBC&rpar;](http://www.techmeme.com/250131/p15#a250131p15)
- - [5 Best Sock Subscription Services &lpar;2025&rpar;, Tested and Reviewed](https://www.wired.com/gallery/best-socks-subscription-services-for-people-who-hate-shopping/)
- - [Indian smartphone market&#39;s revenue rose 9% YoY in 2024, with shipments up 1% YoY to 153M units; Nothing was the fastest-growing brand, up 577% YoY &lpar;Counterpoint Research&rpar;](http://www.techmeme.com/250131/p14#a250131p14)
- - [Sources: STMicroelectronics is considering reducing its workforce by about 6%, or up to 3,000 jobs, through early retirements and attrition, amid a chip slump &lpar;Bloomberg&rpar;](http://www.techmeme.com/250131/p13#a250131p13)<!-- TECH:END -->
+ - [Atlassian reports Q2 revenue of $1.29B vs. $1.24B est. and expects 26.5% cloud growth, 21.5% data center growth for the fiscal year; TEAM jumps 20%+ pre-market &lpar;Samantha Subin/CNBC&rpar;](http://www.techmeme.com/250131/p15#a250131p15)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

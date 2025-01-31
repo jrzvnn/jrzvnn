@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Kash Patel Says He Never Promoted QAnon. Here Are All The Times He Did](https://www.wired.com/story/kash-patel-qanon/)
+ - [Microsoft creates the Advanced Planning Unit within its Microsoft AI division to help the company understand the societal, health, and work implications of AI &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/250131/p27#a250131p27)
  - [You too can revolt against your bosses with this new &#39;Severance&#39; book](https://appleinsider.com/articles/25/01/31/you-too-can-revolt-against-your-bosses-with-this-new-severance-book?utm_medium=rss)
- - [Apple hits back at judge with demand for Google search dominance trial delay](https://appleinsider.com/articles/25/01/31/apple-hits-back-at-judge-with-demand-for-google-search-dominance-trial-delay?utm_medium=rss)
- - [WhatsApp says it disrupted a campaign in which 90 journalists and other members of civil society were targeted using spyware from Israel-based Paragon &lpar;Stephanie Kirchgaessner/The Guardian&rpar;](http://www.techmeme.com/250131/p26#a250131p26)
- - [RFK Jr.’s Senate Testimony Is Haunted by His Track Record](https://www.wired.com/story/rfk-jr-senate-testimony-is-haunted-by-his-track-record-robert-f-kennedy/)
- - [New Study Shows Black Holes Prepare and Eat Their Own Dinner](https://www.cnet.com/science/new-study-shows-black-holes-prepare-and-eat-their-own-dinner/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [DeepSeek’s Safety Guardrails Failed Every Test Researchers Threw at Its AI Chatbot](https://www.wired.com/story/deepseeks-ai-jailbreak-prompt-injection-attacks/)
+ - [Best Internet Providers in Waukesha, Wisconsin](https://www.cnet.com/home/internet/best-internet-providers-in-waukesha-wi/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

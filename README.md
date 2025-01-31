@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple Q1: revenue up 4% YoY to $52.6B in the Americas, up 11% to $33.9B in Europe, up 16% to $9B in Japan, and up 1% to $10.3B in the rest of Asia-Pacific &lpar;Alkesh Sharma/The National&rpar;](http://www.techmeme.com/250130/p48#a250130p48)
- - [Government Tech Workers Forced to Defend Projects to Random Elon Musk Bros](https://www.wired.com/story/elon-musk-government-tech-workers-gsa-tts/)
- - [Apple Services revenue reached an all-time high of $26.34B in Q1, up 14% YoY, beating estimates and helping lift the company&#39;s gross margin to a record 46.9% &lpar;CNBC&rpar;](http://www.techmeme.com/250130/p47#a250130p47)
- - [What&#39;s Next in the DC Jet Crash Investigation](https://www.wired.com/story/whats-next-in-the-dc-jet-crash-investigation/)
- - [X Reveals New Partnership With Visa for Digital Payments. What We Know](https://www.cnet.com/personal-finance/x-reveals-new-partnership-with-visa-for-digital-payments-what-we-know/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Amazon sues Washington state to limit the release of public records to The Washington Post about Jeff Bezos&#39; Amazon Project Kuiper satellite facility in Seattle &lpar;Todd Bishop/GeekWire&rpar;](http://www.techmeme.com/250130/p50#a250130p50)
+ - [There’s Now a Barbie-Themed G-Shock Watch, and We Want In](https://www.wired.com/story/theres-now-a-barbie-themed-g-shock-watch-and-we-want-in/)
+ - [Samsung reports Q4 revenue up 12% YoY to ~$52.2B, vs. ~$51.9B est., operating profit up 132% YoY to ~$4.5B, vs. ~$4.7B est., and FY 2024 revenue of ~$207B &lpar;Dylan Butts/CNBC&rpar;](http://www.techmeme.com/250130/p49#a250130p49)
+ - [Tesla to Launch Self-Driving Car Service in Texas in June, Elon Musk Says](https://www.cnet.com/roadshow/news/tesla-to-launch-self-driving-car-service-in-texas-in-june-elon-musk-says/#ftag=CAD590a51e)
+ - [Apple Q1: revenue up 4% YoY to $52.6B in the Americas, up 11% to $33.9B in Europe, up 16% to $9B in Japan, and up 1% to $10.3B in the rest of Asia-Pacific &lpar;Alkesh Sharma/The National&rpar;](http://www.techmeme.com/250130/p48#a250130p48)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

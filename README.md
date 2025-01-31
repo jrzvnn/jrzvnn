@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Texas Gov. Greg Abbott issues a ban on the use of Chinese-backed apps DeepSeek, Lemon8, Moomoo, RedNote, Tiger Brokers, and Webull on government-issued devices &lpar;Austin American-Statesman&rpar;](http://www.techmeme.com/250131/p34#a250131p34)
  - [CCData: the supply of stablecoins on Solana jumped by 112% in January to a record high of $11.1B, as the launch of the TRUMP memecoin caused a wave of inflows &lpar;Jamie Crawley/CoinDesk&rpar;](http://www.techmeme.com/250131/p33#a250131p33)
- - [Apple reported to have killed the project to create Mac-connected AR glasses](https://appleinsider.com/articles/25/01/31/apple-reported-to-have-killed-the-project-to-create-mac-connected-ar-glasses?utm_medium=rss)
- - [Best Mesh Routers for Whole-Home Wi-Fi](https://www.cnet.com/home/internet/best-mesh-wifi-routers/#ftag=CAD590a51e)
- - [Researchers: DeepSeek&#39;s R1 failed to detect or block any of the 50 malicious prompts that were tested; Adversa: R1 is vulnerable to many jailbreaking tactics &lpar;Wired&rpar;](http://www.techmeme.com/250131/p32#a250131p32)
- - [Best Chemical Drain Cleaners for 2025](https://www.cnet.com/news/best-chemical-drain-cleaners/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Today&#39;s NYT Strands Hints, Answers and Help for Feb. 1, #335](https://www.cnet.com/tech/gaming/todays-nyt-strands-hints-answers-and-help-for-feb-1-335/#ftag=CAD590a51e)
+ - [Today&#39;s NYT Connections: Sports Edition Hints and Answers for Feb. 1. #131](https://www.cnet.com/tech/gaming/todays-nyt-connections-sports-edition-hints-and-answers-for-feb-1-131/#ftag=CAD590a51e)
+ - [Today&#39;s NYT Connections Hints, Answers and Help for Feb. 1, #601](https://www.cnet.com/tech/gaming/todays-nyt-connections-hints-answers-and-help-for-feb-1-601/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

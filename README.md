@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Apple Q1: revenue up 4% YoY to $52.6B in the Americas, up 11% to $33.9B in Europe, up 16% to $9B in Japan, and up 1% to $10.3B in the rest of Asia-Pacific &lpar;Alkesh Sharma/The National&rpar;](http://www.techmeme.com/250130/p48#a250130p48)
+ - [Government Tech Workers Forced to Defend Projects to Random Elon Musk Bros](https://www.wired.com/story/elon-musk-government-tech-workers-gsa-tts/)
  - [Apple Services revenue reached an all-time high of $26.34B in Q1, up 14% YoY, beating estimates and helping lift the company&#39;s gross margin to a record 46.9% &lpar;CNBC&rpar;](http://www.techmeme.com/250130/p47#a250130p47)
  - [What&#39;s Next in the DC Jet Crash Investigation](https://www.wired.com/story/whats-next-in-the-dc-jet-crash-investigation/)
- - [X Reveals New Partnership With Visa for Digital Payments. What We Know](https://www.cnet.com/personal-finance/x-reveals-new-partnership-with-visa-for-digital-payments-what-we-know/#ftag=CAD590a51e)
- - [Leaked all-hands: Mark Zuckerberg said Meta sold more than 1M Ray-Ban smart glasses in 2024, revealing sales figures for the first time &lpar;The Verge&rpar;](http://www.techmeme.com/250130/p46#a250130p46)
- - [Services buoy slumping iPhone sales in record-breaking holiday quarter earnings](https://appleinsider.com/articles/25/01/30/services-buoy-slumping-iphone-sales-in-record-breaking-holiday-quarter-earnings?utm_medium=rss)<!-- TECH:END -->
+ - [X Reveals New Partnership With Visa for Digital Payments. What We Know](https://www.cnet.com/personal-finance/x-reveals-new-partnership-with-visa-for-digital-payments-what-we-know/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

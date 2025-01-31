@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Orico 20Plus MagPro iPhone SSD review: Good hardware, iOS Files app is still terrible](https://appleinsider.com/articles/25/01/31/orico-20plus-magpro-iphone-ssd-review-good-hardware-ios-files-app-is-still-terrible?utm_medium=rss)
  - [Kash Patel Says He Never Promoted QAnon. Here Are All The Times He Did](https://www.wired.com/story/kash-patel-qanon/)
  - [Microsoft creates the Advanced Planning Unit within its Microsoft AI division to help the company understand the societal, health, and work implications of AI &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/250131/p27#a250131p27)
  - [You too can revolt against your bosses with this new &#39;Severance&#39; book](https://appleinsider.com/articles/25/01/31/you-too-can-revolt-against-your-bosses-with-this-new-severance-book?utm_medium=rss)
- - [DeepSeek’s Safety Guardrails Failed Every Test Researchers Threw at Its AI Chatbot](https://www.wired.com/story/deepseeks-ai-jailbreak-prompt-injection-attacks/)
- - [Best Internet Providers in Waukesha, Wisconsin](https://www.cnet.com/home/internet/best-internet-providers-in-waukesha-wi/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [DeepSeek’s Safety Guardrails Failed Every Test Researchers Threw at Its AI Chatbot](https://www.wired.com/story/deepseeks-ai-jailbreak-prompt-injection-attacks/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

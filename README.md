@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Cloudflare Radar: TikTok has nearly bounced back to its original traffic levels after usage fell 85% when the app temporarily shut down on January 19 &lpar;Zach Vallese/CNBC&rpar;](http://www.techmeme.com/250131/p12#a250131p12)
+ - [Celebrating and questioning the Apple Vision Pro after one year, on the AppleInsider Podcast](https://appleinsider.com/articles/25/01/31/celebrating-and-questioning-the-apple-vision-pro-after-one-year-on-the-appleinsider-podcast?utm_medium=rss)
  - [Israel-based Anchor, a platform for automated invoice management and collection, raised a $20M Series A, and plans to expand in the US and double its workforce &lpar;Meir Orbach/CTech&rpar;](http://www.techmeme.com/250131/p11#a250131p11)
  - [6 Best Dash Appliances &lpar;2025&rpar;, Tested and Reviewed](https://www.wired.com/gallery/best-dash-appliances/)
- - [Apple rumored to have a foldable display supplier selected soon](https://appleinsider.com/articles/25/01/31/apple-rumored-to-have-a-foldable-display-supplier-selected-soon?utm_medium=rss)
- - [5 Best Natural Deodorants, Tested and Reviewed &lpar;2025&rpar;](https://www.wired.com/gallery/best-natural-deodorants/)
- - [Kalshi plans to let users buy into its prediction markets directly from brokerages, says it now has 908 active contracts, up from 691 on Election Day &lpar;Michael J. de la Merced/New York Times&rpar;](http://www.techmeme.com/250131/p10#a250131p10)<!-- TECH:END -->
+ - [Apple rumored to have a foldable display supplier selected soon](https://appleinsider.com/articles/25/01/31/apple-rumored-to-have-a-foldable-display-supplier-selected-soon?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

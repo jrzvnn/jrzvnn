@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [SoftBank, which sources say is in talks to invest $15B-$25B in OpenAI and $18B in Stargate, could borrow against its $140B+ Arm stake to fund the investments &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/250131/p3#a250131p3)
  - [Visible Promo Codes and Deals: Save On Phones and Plans](https://www.wired.com/story/visible-promo-code/)
  - [Tel Aviv-based Oligo Security, which offers cybersecurity tools for enterprises to monitor their applications, raised a $50M Series B led by Greenfield Partners &lpar;Maria Deutscher/SiliconANGLE&rpar;](http://www.techmeme.com/250131/p2#a250131p2)
  - [Sources: US officials are investigating whether DeepSeek bought advanced Nvidia chips from third parties in Singapore, circumventing US restrictions on AI chips &lpar;Bloomberg&rpar;](http://www.techmeme.com/250131/p1#a250131p1)
- - [The Allen Institute for AI releases Tulu 3 405B, an open source model that it claims outperforms DeepSeek V3 and OpenAI&#39;s GPT-4o on certain benchmarks &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/250130/p57#a250130p57)
- - [300 doctors attended a summit on Apple Vision Pro&#39;s applications in surgery](https://appleinsider.com/articles/25/01/31/300-doctors-attended-a-summit-on-apple-vision-pros-applications-in-surgery?utm_medium=rss)<!-- TECH:END -->
+ - [The Allen Institute for AI releases Tulu 3 405B, an open source model that it claims outperforms DeepSeek V3 and OpenAI&#39;s GPT-4o on certain benchmarks &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/250130/p57#a250130p57)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

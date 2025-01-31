@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Sources: Meta is discussing moving its incorporation from Delaware to Texas or another state, following similar moves by Elon Musk &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/250131/p29#a250131p29)
+ - [How Visual Intelligence gets more powerful on iPhone 16 in iOS 18.3](https://appleinsider.com/articles/25/01/31/hands-on-visual-intelligence-gets-more-powerful-as-an-underrated-iphone-16-feature?utm_medium=rss)
+ - [OpenAI launches o3-mini, its latest reasoning model that it says is largely on par with o1 and o1-mini in capability, but runs faster and costs less &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/250131/p28#a250131p28)
  - [Orico 20Plus MagPro iPhone SSD review: Good hardware, iOS Files app is still terrible](https://appleinsider.com/articles/25/01/31/orico-20plus-magpro-iphone-ssd-review-good-hardware-ios-files-app-is-still-terrible?utm_medium=rss)
- - [Kash Patel Says He Never Promoted QAnon. Here Are All The Times He Did](https://www.wired.com/story/kash-patel-qanon/)
- - [Microsoft creates the Advanced Planning Unit within its Microsoft AI division to help the company understand the societal, health, and work implications of AI &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/250131/p27#a250131p27)
- - [You too can revolt against your bosses with this new &#39;Severance&#39; book](https://appleinsider.com/articles/25/01/31/you-too-can-revolt-against-your-bosses-with-this-new-severance-book?utm_medium=rss)
- - [DeepSeek’s Safety Guardrails Failed Every Test Researchers Threw at Its AI Chatbot](https://www.wired.com/story/deepseeks-ai-jailbreak-prompt-injection-attacks/)<!-- TECH:END -->
+ - [Kash Patel Says He Never Promoted QAnon. Here Are All The Times He Did](https://www.wired.com/story/kash-patel-qanon/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [You too can revolt against your bosses with this new &#39;Severance&#39; book](https://appleinsider.com/articles/25/01/31/you-too-can-revolt-against-your-bosses-with-this-new-severance-book?utm_medium=rss)
  - [Apple hits back at judge with demand for Google search dominance trial delay](https://appleinsider.com/articles/25/01/31/apple-hits-back-at-judge-with-demand-for-google-search-dominance-trial-delay?utm_medium=rss)
  - [WhatsApp says it disrupted a campaign in which 90 journalists and other members of civil society were targeted using spyware from Israel-based Paragon &lpar;Stephanie Kirchgaessner/The Guardian&rpar;](http://www.techmeme.com/250131/p26#a250131p26)
  - [RFK Jr.’s Senate Testimony Is Haunted by His Track Record](https://www.wired.com/story/rfk-jr-senate-testimony-is-haunted-by-his-track-record-robert-f-kennedy/)
- - [B&amp;H is blowing out M3 MacBook Pros at up to $1,200 off](https://appleinsider.com/articles/25/01/31/bhs-is-blowing-out-m3-macbook-pros-at-up-to-1200-off?utm_medium=rss)
- - [Apple files an emergency motion to halt the remedy trial of the DOJ vs. Google case while it appeals a court&#39;s denial of its request to intervene as a defendant &lpar;Lauren Feiner/The Verge&rpar;](http://www.techmeme.com/250131/p25#a250131p25)<!-- TECH:END -->
+ - [New Study Shows Black Holes Prepare and Eat Their Own Dinner](https://www.cnet.com/science/new-study-shows-black-holes-prepare-and-eat-their-own-dinner/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

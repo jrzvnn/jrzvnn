@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Grayscale launches a dogecoin-focused fund, says it has &quot;transitioned from a memecoin&quot; to a tool for &quot;global financial inclusion and a viable means of payment&quot; &lpar;Arasu Kannagi Basil/Reuters&rpar;](http://www.techmeme.com/250131/p24#a250131p24)
+ - [Long-range tracking, and more: What to expect from the rumored 2025 AirTag update](https://appleinsider.com/articles/25/01/31/long-range-tracking-and-more-what-to-expect-from-the-rumored-2025-airtag-update?utm_medium=rss)
+ - [Israel-based Seraphic Security, whose product allows customers to securely access SaaS and private web applications, raised a $29M Series A led by GreatPoint &lpar;Ryan Naraine/SecurityWeek&rpar;](http://www.techmeme.com/250131/p23#a250131p23)
  - [Tether had $13B in 2024 net profits, including ~$7B from its US Treasuries and repo holdings, and $5B from unrealized appreciation of gold and bitcoin holdings &lpar;Krisztian Sandor/CoinDesk&rpar;](http://www.techmeme.com/250131/p22#a250131p22)
- - [Source: Anton Levy is stepping down as General Atlantic&#39;s co-president and chairman of global technology; Levy led investments in Alibaba, Facebook, and more &lpar;Dan Primack/Axios&rpar;](http://www.techmeme.com/250131/p21#a250131p21)
- - [Sources: OpenAI plans to release o3-mini today with o1-level reasoning and 4o-level speed, as the company&#39;s staff is galvanized by DeepSeek&#39;s success &lpar;Zo&amp;euml; Schiffer/Wired&rpar;](http://www.techmeme.com/250131/p20#a250131p20)
- - [Apple settles years-old Apple Watch battery suit for $20 million](https://appleinsider.com/articles/25/01/31/apple-settles-years-old-apple-watch-battery-suit-for-20-million?utm_medium=rss)
- - [LinkedIn says short-form video is its fastest-growing content category, and total video viewership grew 36% YoY between October 30, 2024 and January 29, 2025 &lpar;Alexander Lee/Digiday&rpar;](http://www.techmeme.com/250131/p19#a250131p19)<!-- TECH:END -->
+ - [Source: Anton Levy is stepping down as General Atlantic&#39;s co-president and chairman of global technology; Levy led investments in Alibaba, Facebook, and more &lpar;Dan Primack/Axios&rpar;](http://www.techmeme.com/250131/p21#a250131p21)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

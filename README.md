@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Nvidia updates its PC app and rolls out the new GPU drivers, bringing Multi Frame Generation to RTX 50 Series GPUs and DLSS transformer models to all RTX GPUs &lpar;VideoCardz.com&rpar;](http://www.techmeme.com/250131/p5#a250131p5)
  - [Investor letter: Elliott Management warns the White House&#39;s embrace of crypto is helping fuel a speculative mania that could cause &quot;havoc&quot; when prices collapse &lpar;Costas Mourselas/Financial Times&rpar;](http://www.techmeme.com/250131/p4#a250131p4)
  - [SoftBank, which sources say is in talks to invest $15B-$25B in OpenAI and $18B in Stargate, could borrow against its $140B+ Arm stake to fund the investments &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/250131/p3#a250131p3)
  - [Visible Promo Codes and Deals: Save On Phones and Plans](https://www.wired.com/story/visible-promo-code/)
- - [Tel Aviv-based Oligo Security, which offers cybersecurity tools for enterprises to monitor their applications, raised a $50M Series B led by Greenfield Partners &lpar;Maria Deutscher/SiliconANGLE&rpar;](http://www.techmeme.com/250131/p2#a250131p2)
- - [Sources: US officials are investigating whether DeepSeek bought advanced Nvidia chips from third parties in Singapore, circumventing US restrictions on AI chips &lpar;Bloomberg&rpar;](http://www.techmeme.com/250131/p1#a250131p1)<!-- TECH:END -->
+ - [Today&#39;s NYT Mini Crossword Answers for Friday, Jan. 31](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-friday-jan-31/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

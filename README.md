@@ -158,10 +158,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- TECH:START -->
  - [5 Things the Nintendo Switch 2 Needs to Succeed](https://www.wired.com/story/5-things-the-nintendo-switch-2-needs-to-succeed/)
+ - [Play Sniper Elite: Resistance Now and More Soon on Xbox Game Pass](https://www.cnet.com/tech/gaming/play-sniper-elite-resistance-now-and-more-soon-on-xbox-game-pass/#ftag=CAD590a51e)
+ - [How to Play Sudoku on Your iPhone Every Day With iOS 18.2](https://www.cnet.com/tech/services-and-software/how-to-play-sudoku-on-your-iphone-every-day-with-ios-18-2/#ftag=CAD590a51e)
  - [Bill Gates Traumatized His Parents—and Other Stories of a Wild, Wonky Youth](https://www.wired.com/story/big-interview-bill-gates-book-autobiography-source-code/)
- - [Adobe Chief Strategy Officer Scott Belsky leaves the company to join A24 film studio as a partner; he co-founded Behance, which Adobe acquired for $150M in 2012 &lpar;Todd Spangler/Variety&rpar;](http://www.techmeme.com/250131/p8#a250131p8)
- - [Best Internet Providers in Kansas](https://www.cnet.com/home/internet/best-internet-providers-in-kansas/#ftag=CAD590a51e)
- - [Today&#39;s NYT Connections: Sports Edition Hints and Answers for Jan. 31, #130](https://www.cnet.com/tech/gaming/todays-nyt-connections-sports-edition-hints-and-answers-for-jan-31-130/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [How the Fed&#39;s Pause on Rate Cuts Could Affect Mortgage Rates](https://www.cnet.com/personal-finance/how-the-feds-pause-on-rate-cuts-could-affect-mortgage-rates/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

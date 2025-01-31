@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [300 doctors attended a summit on Apple Vision Pro&#39;s applications in surgery](https://appleinsider.com/articles/25/01/31/300-doctors-attended-a-summit-on-apple-vision-pros-applications-in-surgery?utm_medium=rss)
  - [Sources: Samsung&#39;s 8-layer HBM3E was cleared by Nvidia in December for use in Nvidia&#39;s less powerful AI processors tailored for the Chinese market &lpar;Bloomberg&rpar;](http://www.techmeme.com/250130/p56#a250130p56)
  - [Interim co-CEO David Zinsner says Intel has already received $2.2B in federal grants through the CHIPS Act, of the $7.86B awarded to build chips in the US &lpar;Rebecca Szkutak/TechCrunch&rpar;](http://www.techmeme.com/250130/p55#a250130p55)
  - [In a leaked recording of an all-hands meeting, Mark Zuckerberg said Meta was slow to respond to TikTok&#39;s rise because &quot;we didn&#39;t think TikTok was social&quot; &lpar;Business Insider&rpar;](http://www.techmeme.com/250130/p54#a250130p54)
- - [Intel says it no longer plans to sell its next-gen Falcon Shores AI accelerator chip, which was set to launch in late 2025, to focus on its Jaguar Shores chip &lpar;CRN&rpar;](http://www.techmeme.com/250130/p53#a250130p53)
- - [Tether plans to bring USDT to the Bitcoin base layer again and to the Layer 2 protocol Lightning Network, following USDT expansions to Celo and other networks &lpar;MK Manoylov/The Block&rpar;](http://www.techmeme.com/250130/p52#a250130p52)<!-- TECH:END -->
+ - [Intel says it no longer plans to sell its next-gen Falcon Shores AI accelerator chip, which was set to launch in late 2025, to focus on its Jaguar Shores chip &lpar;CRN&rpar;](http://www.techmeme.com/250130/p53#a250130p53)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

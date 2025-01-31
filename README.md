@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [How Richard Mille Takes Quartz Watches to a Surprising Level](https://www.wired.com/story/how-richard-mille-takes-quartz-watches-to-a-surprising-level/)
  - [Cloudflare Radar: TikTok has nearly bounced back to its original traffic levels after usage fell 85% when the app temporarily shut down on January 19 &lpar;Zach Vallese/CNBC&rpar;](http://www.techmeme.com/250131/p12#a250131p12)
  - [Celebrating and questioning the Apple Vision Pro after one year, on the AppleInsider Podcast](https://appleinsider.com/articles/25/01/31/celebrating-and-questioning-the-apple-vision-pro-after-one-year-on-the-appleinsider-podcast?utm_medium=rss)
  - [Israel-based Anchor, a platform for automated invoice management and collection, raised a $20M Series A, and plans to expand in the US and double its workforce &lpar;Meir Orbach/CTech&rpar;](http://www.techmeme.com/250131/p11#a250131p11)
- - [6 Best Dash Appliances &lpar;2025&rpar;, Tested and Reviewed](https://www.wired.com/gallery/best-dash-appliances/)
- - [Apple rumored to have a foldable display supplier selected soon](https://appleinsider.com/articles/25/01/31/apple-rumored-to-have-a-foldable-display-supplier-selected-soon?utm_medium=rss)<!-- TECH:END -->
+ - [6 Best Dash Appliances &lpar;2025&rpar;, Tested and Reviewed](https://www.wired.com/gallery/best-dash-appliances/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

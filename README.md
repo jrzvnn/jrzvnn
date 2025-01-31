@@ -158,7 +158,7 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- TECH:START -->
  - [Nvidia updates its PC app and rolls out the new GPU drivers, bringing Multi Frame Generation to RTX 50 Series GPUs and DLSS transformer models to all RTX GPUs &lpar;VideoCardz.com&rpar;](http://www.techmeme.com/250131/p5#a250131p5)
- - [Investor letter: Elliott Management warns the White House&#39;s embrace of crypto is helping fuel a speculative mania that could cause &quot;havoc&quot; when prices collapse &lpar;Costas Mourselas/Financial Times&rpar;](http://www.techmeme.com/250131/p4#a250131p4)
+ - [Investor letter: Elliott Management warns the White House&#39;s embrace of crypto is helping fuel a speculative mania that &quot;could wreak havoc&quot; when prices collapse &lpar;Costas Mourselas/Financial Times&rpar;](http://www.techmeme.com/250131/p4#a250131p4)
  - [SoftBank, which sources say is in talks to invest $15B-$25B in OpenAI and $18B in Stargate, could borrow against its $140B+ Arm stake to fund the investments &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/250131/p3#a250131p3)
  - [Visible Promo Codes and Deals: Save On Phones and Plans](https://www.wired.com/story/visible-promo-code/)
  - [Today&#39;s NYT Mini Crossword Answers for Friday, Jan. 31](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-friday-jan-31/#ftag=CAD590a51e)<!-- TECH:END -->

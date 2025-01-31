@@ -158,10 +158,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- TECH:START -->
  - [Sources: Apple canceled a project to build AR glasses that would pair with the Mac; the company is still working on successors to the Vision Pro &lpar;Mark Gurman/Bloomberg&rpar;](http://www.techmeme.com/250131/p31#a250131p31)
+ - [Here’s How DeepSeek Censorship Actually Works—and How to Get Around It](https://www.wired.com/story/deepseek-censorship/)
  - [OpenAI&#39;s o3-Mini Is a Leaner AI Model that Keeps Pace with DeepSeek](https://www.wired.com/story/openai-o3-mini-release/)
  - [O3-mini will be available to all ChatGPT users, the first time free users of the chatbot will be able to try out OpenAI&#39;s reasoning models &lpar;Tom Warren/The Verge&rpar;](http://www.techmeme.com/250131/p30#a250131p30)
- - [Best Standing Desks of 2025](https://www.cnet.com/news/best-standing-desk/#ftag=CAD590a51e)
- - [Sources: Meta is discussing moving its incorporation from Delaware to Texas or another state, following similar moves by Elon Musk &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/250131/p29#a250131p29)<!-- TECH:END -->
+ - [Best Standing Desks of 2025](https://www.cnet.com/news/best-standing-desk/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

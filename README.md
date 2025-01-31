@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Elon Musk&#39;s Friends Have Infiltrated the General Services Administration](https://www.wired.com/story/elon-musk-lackeys-general-services-administration/)
  - [Docs: Amazon will spend $16B to build two Mississippi data center campuses, up from $10B it announced a year ago, underscoring rising AI infrastructure costs &lpar;Bloomberg&rpar;](http://www.techmeme.com/250131/p35#a250131p35)
  - [After DeepSeek R1&#39;s Release, ChatGPT Offers Free Trials for o3-mini](https://www.cnet.com/tech/services-and-software/after-deepseek-r1s-release-chatgpt-offers-free-trials-for-o3-mini/#ftag=CAD590a51e)
  - [Premier League Soccer: Livestream Nottingham Forest vs. Brighton From Anywhere](https://www.cnet.com/tech/services-and-software/premier-league-soccer-livestream-nottingham-forest-vs-brighton-from-anywhere/#ftag=CAD590a51e)
- - [Texas Gov. Greg Abbott issues a ban on the use of Chinese-backed apps DeepSeek, Lemon8, Moomoo, RedNote, Tiger Brokers, and Webull on government-issued devices &lpar;Austin American-Statesman&rpar;](http://www.techmeme.com/250131/p34#a250131p34)
- - [CCData: the supply of stablecoins on Solana jumped by 112% in January to a record high of $11.1B, as the launch of the TRUMP memecoin caused a wave of inflows &lpar;Jamie Crawley/CoinDesk&rpar;](http://www.techmeme.com/250131/p33#a250131p33)<!-- TECH:END -->
+ - [Texas Gov. Greg Abbott issues a ban on the use of Chinese-backed apps DeepSeek, Lemon8, Moomoo, RedNote, Tiger Brokers, and Webull on government-issued devices &lpar;Austin American-Statesman&rpar;](http://www.techmeme.com/250131/p34#a250131p34)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

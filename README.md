@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Moon or Mars? The US Might Face a Tough Choice for Future Missions](https://www.wired.com/story/the-us-could-get-to-mars-quicker-if-it-deprioritizes-going-to-the-moon/)
  - [A Side Sleeper Tests and Reviews Popular Body Pillows &lpar;2025&rpar;](https://www.wired.com/gallery/best-body-pillows-for-side-sleepers/)
  - [The Best Sex Toys &lpar;2025&rpar;, Tested and Reviewed](https://www.wired.com/gallery/best-sex-toys-and-tech/)
  - [A look at the online scam industry in Southeast Asia and how Indians became its targets; 2,358 Indians were rescued from scam compounds between 2022 and 2024 &lpar;Ayush Tiwari/Scroll.in&rpar;](http://www.techmeme.com/250201/p6#a250201p6)
- - [Foreign Hackers Are Using Google’s Gemini in Attacks on the US](https://www.wired.com/story/hackers-google-gemini-us-cyberattacks/)
- - [One-Two AI Punch: DeepSeek&#39;s Image Generator Follows Its Earthshaking Model Release](https://www.cnet.com/tech/services-and-software/one-two-ai-punch-deepseeks-image-generator-follows-its-earthshaking-model-release/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Foreign Hackers Are Using Google’s Gemini in Attacks on the US](https://www.wired.com/story/hackers-google-gemini-us-cyberattacks/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -158,10 +158,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- TECH:START -->
  - [The US NTSB says it will not email news outlets and reporters with updates about the two recent plane crashes, and will instead post updates on its X account &lpar;Matthew Keys/The Desk&rpar;](http://www.techmeme.com/250201/p12#a250201p12)
+ - [Prime Video: The 33 Absolute Best TV Shows to Watch](https://www.cnet.com/tech/services-and-software/best-tv-series-on-prime-video-february-2025/#ftag=CAD590a51e)
  - [India removes import duties on some components for making smartphones, in a boost for local production efforts and benefiting companies like Apple and Xiaomi &lpar;Shivangi Acharya/Reuters&rpar;](http://www.techmeme.com/250201/p11#a250201p11)
- - [Best External Hard Drives and SSDs for 2025](https://www.cnet.com/tech/computing/best-external-hard-drive-ssd/#ftag=CAD590a51e)
- - [Healthy Aging Is as Easy as Getting Plenty of These 6 Essential Vitamins and Minerals](https://www.cnet.com/health/nutrition/vitamins-minerals-need-age-gracefully-experts/#ftag=CAD590a51e)
- - [The EU proposes customs reforms that make ecommerce platforms such as Temu, Shein, and Amazon Marketplace liable for dangerous or illegal products they sell &lpar;Andy Bounds/Financial Times&rpar;](http://www.techmeme.com/250201/p10#a250201p10)<!-- TECH:END -->
+ - [Best Apple AirTag Accessories of 2025](https://www.cnet.com/tech/mobile/best-apple-airtag-accessories/#ftag=CAD590a51e)
+ - [Best External Hard Drives and SSDs for 2025](https://www.cnet.com/tech/computing/best-external-hard-drive-ssd/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

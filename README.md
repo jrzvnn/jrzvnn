@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [US Government Websites Are Disappearing in Real Time](https://www.wired.com/story/us-government-websites-are-disappearing-in-real-time/)
  - [Google says APT groups from 20+ countries are using Gemini primarily for productivity gains rather than to develop or conduct novel AI-enabled cyberattacks &lpar;Bill Toulas/BleepingComputer&rpar;](http://www.techmeme.com/250201/p14#a250201p14)
  - [Today&#39;s NYT Connections: Sports Edition Hints and Answers for Feb. 2, #132](https://www.cnet.com/tech/gaming/todays-nyt-connections-sports-edition-hints-and-answers-for-feb-2-132/#ftag=CAD590a51e)
  - [Today&#39;s NYT Strands Hints, Answers and Help for Feb. 2, #336](https://www.cnet.com/tech/gaming/todays-nyt-strands-hints-answers-and-help-for-feb-2-336/#ftag=CAD590a51e)
- - [Today&#39;s NYT Connections Hints, Answers and Help for Feb. 2, #602](https://www.cnet.com/tech/gaming/todays-nyt-connections-hints-answers-and-help-for-feb-2-602/#ftag=CAD590a51e)
- - [Today&#39;s Wordle Hints, Answer and Help for Feb. 2, #1324](https://www.cnet.com/tech/gaming/todays-wordle-hints-answer-and-help-for-feb-2-1324/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Today&#39;s NYT Connections Hints, Answers and Help for Feb. 2, #602](https://www.cnet.com/tech/gaming/todays-nyt-connections-hints-answers-and-help-for-feb-2-602/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

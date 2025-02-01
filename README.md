@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Nothing Reveals When Its Next Budget Phone Drops](https://www.wired.com/story/nothing-reveals-when-its-next-budget-phone-drops/)
+ - [Is 2025 the Year of Crypto?](https://www.cnet.com/personal-finance/crypto/is-2025-the-year-of-crypto/#ftag=CAD590a51e)
  - [RFK Jr.’s Organic Crusade Has Sparked a Weird Political Realignment](https://www.wired.com/story/rfk-jrs-organic-crusade-has-sparked-a-weird-political-realignment/)
  - [DeepSeek is supercharging the debate over how much US companies should share about their AI breakthroughs, many of which have been detailed in scientific papers &lpar;Christopher Mims/Wall Street Journal&rpar;](http://www.techmeme.com/250201/p5#a250201p5)
- - [Best Places to Buy Contact Lenses Online for 2025](https://www.cnet.com/health/personal-care/best-place-to-buy-contacts-online/#ftag=CAD590a51e)
- - [Today&#39;s NYT Mini Crossword Answers for Saturday, Feb. 1](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-saturday-feb-1/#ftag=CAD590a51e)
- - [30% off Samsung Promo Codes - February 2025](https://www.wired.com/story/samsung-promo-codes/)<!-- TECH:END -->
+ - [Best Places to Buy Contact Lenses Online for 2025](https://www.cnet.com/health/personal-care/best-place-to-buy-contacts-online/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

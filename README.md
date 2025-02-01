@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Foreign Hackers Are Using Google’s Gemini in Attacks on the US](https://www.wired.com/story/hackers-google-gemini-us-cyberattacks/)
  - [Nothing Reveals When Its Next Budget Phone Drops](https://www.wired.com/story/nothing-reveals-when-its-next-budget-phone-drops/)
  - [Is 2025 the Year of Crypto?](https://www.cnet.com/personal-finance/crypto/is-2025-the-year-of-crypto/#ftag=CAD590a51e)
  - [RFK Jr.’s Organic Crusade Has Sparked a Weird Political Realignment](https://www.wired.com/story/rfk-jrs-organic-crusade-has-sparked-a-weird-political-realignment/)
- - [DeepSeek is supercharging the debate over how much US companies should share about their AI breakthroughs, many of which have been detailed in scientific papers &lpar;Christopher Mims/Wall Street Journal&rpar;](http://www.techmeme.com/250201/p5#a250201p5)
- - [Best Places to Buy Contact Lenses Online for 2025](https://www.cnet.com/health/personal-care/best-place-to-buy-contacts-online/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [DeepSeek is supercharging the debate over how much US companies should share about their AI breakthroughs, many of which have been detailed in scientific papers &lpar;Christopher Mims/Wall Street Journal&rpar;](http://www.techmeme.com/250201/p5#a250201p5)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

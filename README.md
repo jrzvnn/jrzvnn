@@ -158,10 +158,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- TECH:START -->
  - [India announces a new $1.15B Fund of Funds for startups with an &quot;expanded scope&quot; compared to previous initiatives, and extends tax benefits for startups &lpar;Manish Singh/TechCrunch&rpar;](http://www.techmeme.com/250201/p9#a250201p9)
- - [Best Teeth Whitening Strips of 2025](https://www.cnet.com/health/personal-care/best-teeth-whitening-strips/#ftag=CAD590a51e)
- - [Can Adults Really Increase Their Height? What to Know About Height Supplements](https://www.cnet.com/health/personal-care/do-height-supplements-work-can-adults-increase-their-height/#ftag=CAD590a51e)
  - [Donald Trump fires Consumer Financial Protection Bureau Director Rohit Chopra, one of the more important regulators and holdovers from the Biden administration &lpar;Josh Boak/Associated Press&rpar;](http://www.techmeme.com/250201/p8#a250201p8)
- - [Yamaha TAG3 C Acoustic Guitar Review: Old Looks, New Tricks](https://www.wired.com/review/yamaha-tag3-c-review/)<!-- TECH:END -->
+ - [Yamaha TAG3 C Acoustic Guitar Review: Old Looks, New Tricks](https://www.wired.com/review/yamaha-tag3-c-review/)
+ - [America&#39;s No. 1 Silent Killer: What It Is and When to Get Screened](https://www.cnet.com/health/medical/america-silent-killer-when-get-screened/#ftag=CAD590a51e)
+ - [Best Protein Shakes for an Effortless Boost in 2025](https://www.cnet.com/health/fitness/best-protein-shakes/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

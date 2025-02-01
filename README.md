@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Best External Hard Drives and SSDs for 2025](https://www.cnet.com/tech/computing/best-external-hard-drive-ssd/#ftag=CAD590a51e)
+ - [Healthy Aging Is as Easy as Getting Plenty of These 6 Essential Vitamins and Minerals](https://www.cnet.com/health/nutrition/vitamins-minerals-need-age-gracefully-experts/#ftag=CAD590a51e)
  - [The EU proposes customs reforms that make ecommerce platforms such as Temu, Shein, and Amazon Marketplace liable for dangerous or illegal products they sell &lpar;Andy Bounds/Financial Times&rpar;](http://www.techmeme.com/250201/p10#a250201p10)
- - [La Liga Soccer Livestream: How to Watch Espanyol vs. Real Madrid From Anywhere](https://www.cnet.com/tech/services-and-software/la-liga-soccer-livestream-how-to-watch-espanyol-vs-real-madrid-from-anywhere/#ftag=CAD590a51e)
  - [The Grammys 2025: How to Watch the Music Awards Show Without Cable](https://www.cnet.com/tech/services-and-software/the-grammys-2025-how-to-watch-the-music-awards-show-without-cable/#ftag=CAD590a51e)
- - [India announces a $1.15B Fund of Funds for startups, with an &quot;expanded scope&quot; compared to past initiatives, and extends tax benefits for startups by five years &lpar;Manish Singh/TechCrunch&rpar;](http://www.techmeme.com/250201/p9#a250201p9)
- - [Best Teeth Whitening Strips of 2025](https://www.cnet.com/health/personal-care/best-teeth-whitening-strips/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [La Liga Soccer Livestream: How to Watch Espanyol vs. Real Madrid From Anywhere](https://www.cnet.com/tech/services-and-software/la-liga-soccer-livestream-how-to-watch-espanyol-vs-real-madrid-from-anywhere/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

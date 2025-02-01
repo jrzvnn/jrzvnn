@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [La Liga Soccer Livestream: How to Watch Espanyol vs. Real Madrid From Anywhere](https://www.cnet.com/tech/services-and-software/la-liga-soccer-livestream-how-to-watch-espanyol-vs-real-madrid-from-anywhere/#ftag=CAD590a51e)
+ - [The Grammys 2025: How to Watch the Music Awards Show Without Cable](https://www.cnet.com/tech/services-and-software/the-grammys-2025-how-to-watch-the-music-awards-show-without-cable/#ftag=CAD590a51e)
  - [India announces a new $1.15B Fund of Funds for startups with an &quot;expanded scope&quot; compared to previous initiatives, and extends tax benefits for startups &lpar;Manish Singh/TechCrunch&rpar;](http://www.techmeme.com/250201/p9#a250201p9)
  - [Best Teeth Whitening Strips of 2025](https://www.cnet.com/health/personal-care/best-teeth-whitening-strips/#ftag=CAD590a51e)
- - [Can Adults Really Increase Their Height? What to Know About Height Supplements](https://www.cnet.com/health/personal-care/do-height-supplements-work-can-adults-increase-their-height/#ftag=CAD590a51e)
- - [Donald Trump fires Consumer Financial Protection Bureau Director Rohit Chopra, one of the more important regulators and holdovers from the Biden administration &lpar;Josh Boak/Associated Press&rpar;](http://www.techmeme.com/250201/p8#a250201p8)
- - [Yamaha TAG3 C Acoustic Guitar Review: Old Looks, New Tricks](https://www.wired.com/review/yamaha-tag3-c-review/)<!-- TECH:END -->
+ - [Can Adults Really Increase Their Height? What to Know About Height Supplements](https://www.cnet.com/health/personal-care/do-height-supplements-work-can-adults-increase-their-height/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

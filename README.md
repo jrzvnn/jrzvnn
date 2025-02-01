@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Trump fires Rohit Chopra, the director of the Consumer Financial Protection Bureau, who was one of the few remaining holdovers from the Biden administration &lpar;Josh Boak/Associated Press&rpar;](http://www.techmeme.com/250201/p8#a250201p8)
+ - [Donald Trump fires Consumer Financial Protection Bureau Director Rohit Chopra, one of the more important regulators and holdovers from the Biden administration &lpar;Josh Boak/Associated Press&rpar;](http://www.techmeme.com/250201/p8#a250201p8)
  - [Yamaha TAG3 C Acoustic Guitar Review: Old Looks, New Tricks](https://www.wired.com/review/yamaha-tag3-c-review/)
- - [America&#39;s No. 1 Silent Killer: What It Is and When to Get Screened](https://www.cnet.com/health/medical/america-silent-killer-when-get-screened/#ftag=CAD590a51e)
- - [Best Protein Shakes for an Effortless Boost in 2025](https://www.cnet.com/health/fitness/best-protein-shakes/#ftag=CAD590a51e)
- - [2025 Oscars: How to Stream the Nominees](https://www.cnet.com/tech/services-and-software/2025-oscars-how-to-stream-the-nominees/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Amazfit Active 2 Review: Affordable, Attractive Fitness Tracker](https://www.wired.com/review/amazfit-active-2/)
+ - [In a Reddit AMA, Sam Altman admitted that DeepSeek has lessened OpenAI&#39;s lead and said OpenAI has been &quot;on the wrong side of history&quot; in terms of open sourcing &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/250201/p7#a250201p7)
+ - [14 Best Office Chairs of 2025— I&#39;ve Tested 55+ to Pick Them](https://www.wired.com/gallery/best-office-chairs/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

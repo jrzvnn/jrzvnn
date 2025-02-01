@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [India announces a new $1.15B Fund of Funds for startups with an &quot;expanded scope&quot; compared to previous initiatives, and extends tax benefits for startups &lpar;Manish Singh/TechCrunch&rpar;](http://www.techmeme.com/250201/p9#a250201p9)
+ - [Best Teeth Whitening Strips of 2025](https://www.cnet.com/health/personal-care/best-teeth-whitening-strips/#ftag=CAD590a51e)
+ - [Can Adults Really Increase Their Height? What to Know About Height Supplements](https://www.cnet.com/health/personal-care/do-height-supplements-work-can-adults-increase-their-height/#ftag=CAD590a51e)
  - [Donald Trump fires Consumer Financial Protection Bureau Director Rohit Chopra, one of the more important regulators and holdovers from the Biden administration &lpar;Josh Boak/Associated Press&rpar;](http://www.techmeme.com/250201/p8#a250201p8)
- - [Yamaha TAG3 C Acoustic Guitar Review: Old Looks, New Tricks](https://www.wired.com/review/yamaha-tag3-c-review/)
- - [Amazfit Active 2 Review: Affordable, Attractive Fitness Tracker](https://www.wired.com/review/amazfit-active-2/)
- - [In a Reddit AMA, Sam Altman admitted that DeepSeek has lessened OpenAI&#39;s lead and said OpenAI has been &quot;on the wrong side of history&quot; in terms of open sourcing &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/250201/p7#a250201p7)
- - [14 Best Office Chairs of 2025— I&#39;ve Tested 55+ to Pick Them](https://www.wired.com/gallery/best-office-chairs/)<!-- TECH:END -->
+ - [Yamaha TAG3 C Acoustic Guitar Review: Old Looks, New Tricks](https://www.wired.com/review/yamaha-tag3-c-review/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

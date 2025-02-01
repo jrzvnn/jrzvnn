@@ -161,7 +161,7 @@ R                        1 repo              ░░░░░░░░░░░�
  - [In a Reddit AMA, Sam Altman admitted that DeepSeek has lessened OpenAI&#39;s lead and said OpenAI has been &quot;on the wrong side of history&quot; concerning open sourcing &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/250201/p7#a250201p7)
  - [14 Best Office Chairs of 2025— I&#39;ve Tested 55+ to Pick Them](https://www.wired.com/gallery/best-office-chairs/)
  - [Hohem iSteady M7 Gimbal Review](https://www.wired.com/review/review-hohem-isteady-m7-mobile-gimbal/)
- - [Adaptive Skiing: Where to Go Around the US](https://www.wired.com/story/adaptive-skiing-where-to-go/)<!-- TECH:END -->
+ - [Ireland vs. England: How to Watch 2025 Six Nations Rugby Live From Anywhere](https://www.cnet.com/tech/services-and-software/ireland-vs-england-how-to-watch-2025-six-nations-rugby-live-from-anywhere/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Moon or Mars? The US Might Face a Tough Choice for Future Missions](https://www.wired.com/story/the-us-could-get-to-mars-quicker-if-it-deprioritizes-going-to-the-moon/)
- - [A Side Sleeper Tests and Reviews Popular Body Pillows &lpar;2025&rpar;](https://www.wired.com/gallery/best-body-pillows-for-side-sleepers/)
- - [The Best Sex Toys &lpar;2025&rpar;, Tested and Reviewed](https://www.wired.com/gallery/best-sex-toys-and-tech/)
- - [Premier League Soccer: Livestream Everton vs. Leicester From Anywhere](https://www.cnet.com/tech/services-and-software/premier-league-soccer-livestream-everton-vs-leicester-from-anywhere/#ftag=CAD590a51e)
- - [Premier League Soccer: Livestream Ipswich vs. Southampton From Anywhere](https://www.cnet.com/tech/services-and-software/premier-league-soccer-livestream-ipswich-vs-southampton-from-anywhere/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Adaptive Skiing: Where to Go Around the US](https://www.wired.com/story/adaptive-skiing-where-to-go/)
+ - [Feast Your Eyes on What the Galaxy S25 and S25 Plus Cameras Can Do](https://www.cnet.com/tech/mobile/feast-your-eyes-on-what-the-galaxy-s25-and-s25-plus-cameras-can-do/#ftag=CAD590a51e)
+ - [Marvel Rivals Leaks: Cyclops, Gambit, Rogue and More Might Be Coming Soon](https://www.cnet.com/tech/gaming/marvel-rivals-leaks-cyclops-gambit-rogue-and-more-might-be-coming-soon/#ftag=CAD590a51e)
+ - [Sizing Up Your Next TV: Here&#39;s Where Big Screens Are Taking Us](https://www.cnet.com/tech/home-entertainment/features/sizing-up-your-next-tv-heres-where-big-screens-are-taking-us/#ftag=CAD590a51e)
+ - [Disneyland and Disney World: Here&#39;s What&#39;s Coming in 2025 and Beyond](https://www.cnet.com/tech/services-and-software/disneyland-and-disney-world-heres-whats-coming-in-2025-and-beyond/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

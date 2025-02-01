@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [30% off Samsung Promo Codes - February 2025](https://www.wired.com/story/samsung-promo-codes/)
  - [Instagram and Facebook, which blocked news links in Canada, are hosting hundreds of scam ads pretending to be from news outlets ahead of Canadian elections &lpar;Thomas Seal/Bloomberg&rpar;](http://www.techmeme.com/250201/p4#a250201p4)
  - [AirDoctor Coupon Code: Up to 25% Off Air Purifiers](https://www.wired.com/story/airdoctor-coupon-code/)
  - [B&amp;H Photo Promo Codes and Deals for February 2025](https://www.wired.com/story/bh-photo-coupon/)
- - [Design Within Reach Promo Code: 20% Off](https://www.wired.com/story/design-within-reach-promo-code/)
- - [MLCommons and Hugging Face release Unsupervised People&#39;s Speech, a dataset for AI research containing more than 1M hours of audio spanning at least 89 languages &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/250201/p3#a250201p3)<!-- TECH:END -->
+ - [Design Within Reach Promo Code: 20% Off](https://www.wired.com/story/design-within-reach-promo-code/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

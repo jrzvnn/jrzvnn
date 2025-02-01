@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Amazfit Active 2 Review: Affordable, Attractive Fitness Tracker](https://www.wired.com/review/amazfit-active-2/)
- - [In a Reddit AMA, Sam Altman admitted that DeepSeek has lessened OpenAI&#39;s lead and said OpenAI has been &quot;on the wrong side of history&quot; concerning open sourcing &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/250201/p7#a250201p7)
- - [14 Best Office Chairs of 2025— I&#39;ve Tested 55+ to Pick Them](https://www.wired.com/gallery/best-office-chairs/)
- - [Hohem iSteady M7 Gimbal Review](https://www.wired.com/review/review-hohem-isteady-m7-mobile-gimbal/)
- - [Ireland vs. England: How to Watch 2025 Six Nations Rugby Live From Anywhere](https://www.cnet.com/tech/services-and-software/ireland-vs-england-how-to-watch-2025-six-nations-rugby-live-from-anywhere/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Yamaha TAG3 C Acoustic Guitar Review: Old Looks, New Tricks](https://www.wired.com/review/yamaha-tag3-c-review/)
+ - [America&#39;s No. 1 Silent Killer: What It Is and When to Get Screened](https://www.cnet.com/health/medical/america-silent-killer-when-get-screened/#ftag=CAD590a51e)
+ - [Best Protein Shakes for an Effortless Boost in 2025](https://www.cnet.com/health/fitness/best-protein-shakes/#ftag=CAD590a51e)
+ - [2025 Oscars: How to Stream the Nominees](https://www.cnet.com/tech/services-and-software/2025-oscars-how-to-stream-the-nominees/#ftag=CAD590a51e)
+ - [Amazfit Active 2 Review: Affordable, Attractive Fitness Tracker](https://www.wired.com/review/amazfit-active-2/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

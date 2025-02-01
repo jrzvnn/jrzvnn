@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Amazfit Active 2 Review: Affordable, Attractive Fitness Tracker](https://www.wired.com/review/amazfit-active-2/)
+ - [In a Reddit AMA, Sam Altman admitted that DeepSeek has lessened OpenAI&#39;s lead and said OpenAI has been &quot;on the wrong side of history&quot; concerning open sourcing &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/250201/p7#a250201p7)
  - [14 Best Office Chairs of 2025— I&#39;ve Tested 55+ to Pick Them](https://www.wired.com/gallery/best-office-chairs/)
  - [Hohem iSteady M7 Gimbal Review](https://www.wired.com/review/review-hohem-isteady-m7-mobile-gimbal/)
- - [Adaptive Skiing: Where to Go Around the US](https://www.wired.com/story/adaptive-skiing-where-to-go/)
- - [Feast Your Eyes on What the Galaxy S25 and S25 Plus Cameras Can Do](https://www.cnet.com/tech/mobile/feast-your-eyes-on-what-the-galaxy-s25-and-s25-plus-cameras-can-do/#ftag=CAD590a51e)
- - [Marvel Rivals Leaks: Cyclops, Gambit, Rogue and More Might Be Coming Soon](https://www.cnet.com/tech/gaming/marvel-rivals-leaks-cyclops-gambit-rogue-and-more-might-be-coming-soon/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Adaptive Skiing: Where to Go Around the US](https://www.wired.com/story/adaptive-skiing-where-to-go/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

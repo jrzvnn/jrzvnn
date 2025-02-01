@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Japan plans to expand export controls on advanced chips, lithography equipment, and cryocoolers for quantum computers, with new rules taking effect by late May &lpar;Mayumi Negishi/Bloomberg&rpar;](http://www.techmeme.com/250201/p13#a250201p13)
- - [The US NTSB says it will not email news outlets and reporters with updates about the two recent plane crashes, and will instead post updates on its X account &lpar;Matthew Keys/The Desk&rpar;](http://www.techmeme.com/250201/p12#a250201p12)
- - [Prime Video: The 33 Absolute Best TV Shows to Watch](https://www.cnet.com/tech/services-and-software/best-tv-series-on-prime-video-february-2025/#ftag=CAD590a51e)
- - [India removes import duties on some components for making smartphones, in a boost for local production efforts and benefiting companies like Apple and Xiaomi &lpar;Shivangi Acharya/Reuters&rpar;](http://www.techmeme.com/250201/p11#a250201p11)
- - [Best Apple AirTag Accessories of 2025](https://www.cnet.com/tech/mobile/best-apple-airtag-accessories/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Google says APT groups from 20+ countries are using Gemini primarily for productivity gains rather than to develop or conduct novel AI-enabled cyberattacks &lpar;Bill Toulas/BleepingComputer&rpar;](http://www.techmeme.com/250201/p14#a250201p14)
+ - [Today&#39;s NYT Connections: Sports Edition Hints and Answers for Feb. 2, #132](https://www.cnet.com/tech/gaming/todays-nyt-connections-sports-edition-hints-and-answers-for-feb-2-132/#ftag=CAD590a51e)
+ - [Today&#39;s NYT Strands Hints, Answers and Help for Feb. 2, #336](https://www.cnet.com/tech/gaming/todays-nyt-strands-hints-answers-and-help-for-feb-2-336/#ftag=CAD590a51e)
+ - [Today&#39;s NYT Connections Hints, Answers and Help for Feb. 2, #602](https://www.cnet.com/tech/gaming/todays-nyt-connections-hints-answers-and-help-for-feb-2-602/#ftag=CAD590a51e)
+ - [Today&#39;s Wordle Hints, Answer and Help for Feb. 2, #1324](https://www.cnet.com/tech/gaming/todays-wordle-hints-answer-and-help-for-feb-2-1324/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

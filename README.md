@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [MLCommons and Hugging Face release Unsupervised People&#39;s Speech, a dataset for AI research containing more than 1M hours of audio spanning at least 89 languages &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/250201/p3#a250201p3)
  - [Appfigures: DeepSeek has topped the list of the most downloaded mobile apps across 140 markets, with India accounting for 15.6% of all downloads since launch &lpar;Vlad Savov/Bloomberg&rpar;](http://www.techmeme.com/250201/p2#a250201p2)
  - [California DMV: a total of 4.5M autonomous vehicle test miles were logged in 2024, down 50% YoY, with driverless testing falling 83% YoY to just 552,895 miles &lpar;Kirsten Korosec/TechCrunch&rpar;](http://www.techmeme.com/250201/p1#a250201p1)
  - [Web3 domain infrastructure firm D3 Global raised a $25M Series A led by Paradigm, and plans to launch a decentralized network called Doma Protocol &lpar;MK Manoylov/The Block&rpar;](http://www.techmeme.com/250131/p40#a250131p40)
- - [Coinbase acquires Spindl, the on-chain advertising platform founded by Antonio Garcia-Martinez, an ex-Facebook staffer and the author of the book Chaos Monkeys &lpar;Daniel Kuhn/The Block&rpar;](http://www.techmeme.com/250131/p39#a250131p39)
- - [When asked in an AMA if OpenAI would release model weights and research, Sam Altman said &quot;we are discussing&quot; and &quot;it&#39;s also not our current highest priority&quot; &lpar;Deepa Seetharaman/Wall Street Journal&rpar;](http://www.techmeme.com/250131/p38#a250131p38)<!-- TECH:END -->
+ - [Coinbase acquires Spindl, the on-chain advertising platform founded by Antonio Garcia-Martinez, an ex-Facebook staffer and the author of the book Chaos Monkeys &lpar;Daniel Kuhn/The Block&rpar;](http://www.techmeme.com/250131/p39#a250131p39)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

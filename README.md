@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Today&#39;s NYT Mini Crossword Answers for Saturday, Feb. 1](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-saturday-feb-1/#ftag=CAD590a51e)
  - [30% off Samsung Promo Codes - February 2025](https://www.wired.com/story/samsung-promo-codes/)
  - [Instagram and Facebook, which blocked news links in Canada, are hosting hundreds of scam ads pretending to be from news outlets ahead of Canadian elections &lpar;Thomas Seal/Bloomberg&rpar;](http://www.techmeme.com/250201/p4#a250201p4)
  - [AirDoctor Coupon Code: Up to 25% Off Air Purifiers](https://www.wired.com/story/airdoctor-coupon-code/)
- - [B&amp;H Photo Promo Codes and Deals for February 2025](https://www.wired.com/story/bh-photo-coupon/)
- - [Design Within Reach Promo Code: 20% Off](https://www.wired.com/story/design-within-reach-promo-code/)<!-- TECH:END -->
+ - [B&amp;H Photo Promo Codes and Deals for February 2025](https://www.wired.com/story/bh-photo-coupon/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

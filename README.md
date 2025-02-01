@@ -160,8 +160,8 @@ R                        1 repo              ░░░░░░░░░░░�
  - [Moon or Mars? The US Might Face a Tough Choice for Future Missions](https://www.wired.com/story/the-us-could-get-to-mars-quicker-if-it-deprioritizes-going-to-the-moon/)
  - [A Side Sleeper Tests and Reviews Popular Body Pillows &lpar;2025&rpar;](https://www.wired.com/gallery/best-body-pillows-for-side-sleepers/)
  - [The Best Sex Toys &lpar;2025&rpar;, Tested and Reviewed](https://www.wired.com/gallery/best-sex-toys-and-tech/)
- - [A look at the online scam industry in Southeast Asia and how Indians became its targets; 2,358 Indians were rescued from scam compounds between 2022 and 2024 &lpar;Ayush Tiwari/Scroll.in&rpar;](http://www.techmeme.com/250201/p6#a250201p6)
- - [Foreign Hackers Are Using Google’s Gemini in Attacks on the US](https://www.wired.com/story/hackers-google-gemini-us-cyberattacks/)<!-- TECH:END -->
+ - [Premier League Soccer: Livestream Everton vs. Leicester From Anywhere](https://www.cnet.com/tech/services-and-software/premier-league-soccer-livestream-everton-vs-leicester-from-anywhere/#ftag=CAD590a51e)
+ - [Premier League Soccer: Livestream Ipswich vs. Southampton From Anywhere](https://www.cnet.com/tech/services-and-software/premier-league-soccer-livestream-ipswich-vs-southampton-from-anywhere/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Japan plans to expand export controls on advanced chips, lithography equipment, and cryocoolers for quantum computers, with new rules taking effect by late May &lpar;Mayumi Negishi/Bloomberg&rpar;](http://www.techmeme.com/250201/p13#a250201p13)
  - [The US NTSB says it will not email news outlets and reporters with updates about the two recent plane crashes, and will instead post updates on its X account &lpar;Matthew Keys/The Desk&rpar;](http://www.techmeme.com/250201/p12#a250201p12)
  - [Prime Video: The 33 Absolute Best TV Shows to Watch](https://www.cnet.com/tech/services-and-software/best-tv-series-on-prime-video-february-2025/#ftag=CAD590a51e)
  - [India removes import duties on some components for making smartphones, in a boost for local production efforts and benefiting companies like Apple and Xiaomi &lpar;Shivangi Acharya/Reuters&rpar;](http://www.techmeme.com/250201/p11#a250201p11)
- - [Best Apple AirTag Accessories of 2025](https://www.cnet.com/tech/mobile/best-apple-airtag-accessories/#ftag=CAD590a51e)
- - [Best External Hard Drives and SSDs for 2025](https://www.cnet.com/tech/computing/best-external-hard-drive-ssd/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Best Apple AirTag Accessories of 2025](https://www.cnet.com/tech/mobile/best-apple-airtag-accessories/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

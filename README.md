@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [India removes import duties on some components for making smartphones, in a boost for local production efforts and benefiting companies like Apple and Xiaomi &lpar;Shivangi Acharya/Reuters&rpar;](http://www.techmeme.com/250201/p11#a250201p11)
  - [Best External Hard Drives and SSDs for 2025](https://www.cnet.com/tech/computing/best-external-hard-drive-ssd/#ftag=CAD590a51e)
  - [Healthy Aging Is as Easy as Getting Plenty of These 6 Essential Vitamins and Minerals](https://www.cnet.com/health/nutrition/vitamins-minerals-need-age-gracefully-experts/#ftag=CAD590a51e)
  - [The EU proposes customs reforms that make ecommerce platforms such as Temu, Shein, and Amazon Marketplace liable for dangerous or illegal products they sell &lpar;Andy Bounds/Financial Times&rpar;](http://www.techmeme.com/250201/p10#a250201p10)
- - [The Grammys 2025: How to Watch the Music Awards Show Without Cable](https://www.cnet.com/tech/services-and-software/the-grammys-2025-how-to-watch-the-music-awards-show-without-cable/#ftag=CAD590a51e)
- - [La Liga Soccer Livestream: How to Watch Espanyol vs. Real Madrid From Anywhere](https://www.cnet.com/tech/services-and-software/la-liga-soccer-livestream-how-to-watch-espanyol-vs-real-madrid-from-anywhere/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [The Grammys 2025: How to Watch the Music Awards Show Without Cable](https://www.cnet.com/tech/services-and-software/the-grammys-2025-how-to-watch-the-music-awards-show-without-cable/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

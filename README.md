@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The Best Sex Toys &lpar;2025&rpar;, Tested and Reviewed](https://www.wired.com/gallery/best-sex-toys-and-tech/)
  - [A look at the online scam industry in Southeast Asia and how Indians became its targets; 2,358 Indians were rescued from scam compounds between 2022 and 2024 &lpar;Ayush Tiwari/Scroll.in&rpar;](http://www.techmeme.com/250201/p6#a250201p6)
  - [Foreign Hackers Are Using Google’s Gemini in Attacks on the US](https://www.wired.com/story/hackers-google-gemini-us-cyberattacks/)
- - [Nothing Reveals When Its Next Budget Phone Drops](https://www.wired.com/story/nothing-reveals-when-its-next-budget-phone-drops/)
- - [Is 2025 the Year of Crypto?](https://www.cnet.com/personal-finance/crypto/is-2025-the-year-of-crypto/#ftag=CAD590a51e)
- - [RFK Jr.’s Organic Crusade Has Sparked a Weird Political Realignment](https://www.wired.com/story/rfk-jrs-organic-crusade-has-sparked-a-weird-political-realignment/)<!-- TECH:END -->
+ - [One-Two AI Punch: DeepSeek&#39;s Image Generator Follows Its Earthshaking Model Release](https://www.cnet.com/tech/services-and-software/one-two-ai-punch-deepseeks-image-generator-follows-its-earthshaking-model-release/#ftag=CAD590a51e)
+ - [Nothing Reveals When Its Next Budget Phone Drops](https://www.wired.com/story/nothing-reveals-when-its-next-budget-phone-drops/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

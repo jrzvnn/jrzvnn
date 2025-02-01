@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Elon Musk&#39;s Friends Have Infiltrated the General Services Administration](https://www.wired.com/story/elon-musk-lackeys-general-services-administration/)
- - [Docs: Amazon will spend $16B to build two Mississippi data center campuses, up from $10B it announced a year ago, underscoring rising AI infrastructure costs &lpar;Bloomberg&rpar;](http://www.techmeme.com/250131/p35#a250131p35)
- - [After DeepSeek R1&#39;s Release, ChatGPT Offers Free Trials for o3-mini](https://www.cnet.com/tech/services-and-software/after-deepseek-r1s-release-chatgpt-offers-free-trials-for-o3-mini/#ftag=CAD590a51e)
- - [Premier League Soccer: Livestream Nottingham Forest vs. Brighton From Anywhere](https://www.cnet.com/tech/services-and-software/premier-league-soccer-livestream-nottingham-forest-vs-brighton-from-anywhere/#ftag=CAD590a51e)
- - [Texas Gov. Greg Abbott issues a ban on the use of Chinese-backed apps DeepSeek, Lemon8, Moomoo, RedNote, Tiger Brokers, and Webull on government-issued devices &lpar;Austin American-Statesman&rpar;](http://www.techmeme.com/250131/p34#a250131p34)<!-- TECH:END -->
+ - [OpenAI told some shareholders ChatGPT had 15.5M paid subscribers in 2024, up from 5.8M in 2023, and usage of OpenAI&#39;s API increased seven times &lpar;The Information&rpar;](http://www.techmeme.com/250131/p37#a250131p37)
+ - [The Federal Funding Freeze Will Cause Lasting Damage to Medical Research](https://www.wired.com/story/life-saving-research-risks-being-destroyed-by-the-federal-funding-freeze/)
+ - [OpenAI&#39;s o3-mini costs $1.10 per 1M input tokens and $4.40 per 1M output tokens, cheaper than GPT-4o, which costs $2.50 and $10, and o1, which costs $15 and $60 &lpar;Simon Willison&#39;s Weblog&rpar;](http://www.techmeme.com/250131/p36#a250131p36)
+ - [Elon Musk’s Friends Have Infiltrated the General Services Administration](https://www.wired.com/story/elon-musk-lackeys-general-services-administration/)
+ - [Docs: Amazon will spend $16B to build two Mississippi data center campuses, up from $10B it announced a year ago, underscoring rising AI infrastructure costs &lpar;Bloomberg&rpar;](http://www.techmeme.com/250131/p35#a250131p35)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

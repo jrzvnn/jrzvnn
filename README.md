@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [14 Best Office Chairs of 2025— I&#39;ve Tested 55+ to Pick Them](https://www.wired.com/gallery/best-office-chairs/)
+ - [Hohem iSteady M7 Gimbal Review](https://www.wired.com/review/review-hohem-isteady-m7-mobile-gimbal/)
  - [Adaptive Skiing: Where to Go Around the US](https://www.wired.com/story/adaptive-skiing-where-to-go/)
- - [Moon or Mars? The US Might Face a Tough Choice for Future Missions](https://www.wired.com/story/the-us-could-get-to-mars-quicker-if-it-deprioritizes-going-to-the-moon/)
- - [A Side Sleeper Tests and Reviews Popular Body Pillows &lpar;2025&rpar;](https://www.wired.com/gallery/best-body-pillows-for-side-sleepers/)
- - [The Best Sex Toys &lpar;2025&rpar;, Tested and Reviewed](https://www.wired.com/gallery/best-sex-toys-and-tech/)
- - [Premier League Soccer: Livestream Everton vs. Leicester From Anywhere](https://www.cnet.com/tech/services-and-software/premier-league-soccer-livestream-everton-vs-leicester-from-anywhere/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Feast Your Eyes on What the Galaxy S25 and S25 Plus Cameras Can Do](https://www.cnet.com/tech/mobile/feast-your-eyes-on-what-the-galaxy-s25-and-s25-plus-cameras-can-do/#ftag=CAD590a51e)
+ - [Marvel Rivals Leaks: Cyclops, Gambit, Rogue and More Might Be Coming Soon](https://www.cnet.com/tech/gaming/marvel-rivals-leaks-cyclops-gambit-rogue-and-more-might-be-coming-soon/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

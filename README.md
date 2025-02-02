@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Know Your Rights: 3 Rules for When Police Can Take Your Home Security Videos](https://www.cnet.com/home/security/rules-for-when-police-can-seize-your-home-security-videos/#ftag=CAD590a51e)
  - [Reliance Retail launches the Shein app in India, with control over operations and data and Shein acting as a technology partner, years after the app&#39;s ban &lpar;Manish Singh/TechCrunch&rpar;](http://www.techmeme.com/250202/p5#a250202p5)
  - [69 &#39;Buy It for Life&#39; Products: Cast-Iron, Tools, Speakers, Chairs, and More](https://www.wired.com/story/buy-it-for-life/)
  - [How to Get Streaming Services Like Hulu for Free With Food Delivery Memberships](https://www.cnet.com/deals/how-to-get-max-hulu-and-more-for-free-with-food-delivery-memberships/#ftag=CAD590a51e)
- - [You Can Look Forward to Lower Income Taxes if You Live in One of These States](https://www.cnet.com/personal-finance/you-can-look-forward-to-lower-income-taxes-if-you-live-in-one-of-these-states/#ftag=CAD590a51e)
- - [A look at Future You, an AI-based research tool that lets users interact with a virtual older self and is currently being used by 60,000 people from 190 nations &lpar;Heidi Mitchell/Wall Street Journal&rpar;](http://www.techmeme.com/250202/p4#a250202p4)<!-- TECH:END -->
+ - [You Can Look Forward to Lower Income Taxes if You Live in One of These States](https://www.cnet.com/personal-finance/you-can-look-forward-to-lower-income-taxes-if-you-live-in-one-of-these-states/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

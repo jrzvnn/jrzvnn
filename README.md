@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [A look at Future You, an AI-based research tool that lets users interact with a virtual older self and is currently being used by 60,000 people from 190 nations &lpar;Heidi Mitchell/Wall Street Journal&rpar;](http://www.techmeme.com/250202/p4#a250202p4)
  - [Apple prepares to launch Confetti calendar invite system at employees for testing](https://appleinsider.com/articles/25/02/02/apple-prepares-to-launch-confetti-calendar-invite-system-at-employees-for-testing?utm_medium=rss)
  - [Qi2 Wireless Charging: Everything You Need to Know &lpar;2025&rpar;](https://www.wired.com/story/what-is-qi2-wireless-charging/)
  - [Premier League Soccer: Livestream Arsenal vs. Man City From Anywhere](https://www.cnet.com/tech/services-and-software/premier-league-soccer-livestream-arsenal-vs-man-city-from-anywhere/#ftag=CAD590a51e)
- - [14 Best Tablets &lpar;2025&rpar;, Tested and Reviewed](https://www.wired.com/gallery/the-best-tablets/)
- - [Unitree&#39;s G1 Humanoid Robots Shown Running in New Video](https://www.cnet.com/tech/computing/unitrees-g1-humanoid-robots-shown-running-in-new-video/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [14 Best Tablets &lpar;2025&rpar;, Tested and Reviewed](https://www.wired.com/gallery/the-best-tablets/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

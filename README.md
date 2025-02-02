@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [A US man pleads guilty to a cyberstalking campaign against a professor, including by creating chatbots on Crushon.ai and JanitorAI using her personal info &lpar;Katie McQue/The Guardian&rpar;](http://www.techmeme.com/250202/p3#a250202p3)
+ - [Is VR Bad for Your Eyes? Here&#39;s What Eye Doctors Say](https://www.cnet.com/health/medical/is-vr-bad-for-your-eyes-heres-what-eye-doctors-say/#ftag=CAD590a51e)
  - [Watch Out for These 6 Sneaky Habits That Might Be Hurting Your Vision](https://www.cnet.com/health/personal-care/watch-out-for-these-6-sneaky-habits-that-might-be-hurting-your-vision/#ftag=CAD590a51e)
  - [Today&#39;s NYT Mini Crossword Answers for Sunday, Feb. 2](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-sunday-feb-2/#ftag=CAD590a51e)
- - [In its current form, OpenAI&#39;s Operator is more of an intriguing demo than a product useful for most people, but it points to a future of powerful AI agents &lpar;Kevin Roose/New York Times&rpar;](http://www.techmeme.com/250202/p2#a250202p2)
- - [Donald Trump&#39;s EO imposing levies on China says the &quot;de minimis&quot; exemption for items under $800 no longer applies, which could affect Alibaba, Shein, and others &lpar;Bloomberg&rpar;](http://www.techmeme.com/250202/p1#a250202p1)
- - [The UK announces four new laws that make it illegal to possess, create, or distribute AI tools designed to produce CSAM, becoming the first country to do so &lpar;Sima Kotecha/BBC&rpar;](http://www.techmeme.com/250201/p17#a250201p17)<!-- TECH:END -->
+ - [In its current form, OpenAI&#39;s Operator is more of an intriguing demo than a product useful for most people, but it points to a future of powerful AI agents &lpar;Kevin Roose/New York Times&rpar;](http://www.techmeme.com/250202/p2#a250202p2)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Premier League Soccer: Livestream Arsenal vs. Man City From Anywhere](https://www.cnet.com/tech/services-and-software/premier-league-soccer-livestream-arsenal-vs-man-city-from-anywhere/#ftag=CAD590a51e)
  - [14 Best Tablets &lpar;2025&rpar;, Tested and Reviewed](https://www.wired.com/gallery/the-best-tablets/)
- - [Unitree&#39;s G1 Humanoid Robots Shown Running in New Video](https://www.cnet.com/tech/computing/unitrees-g1-humanoid-robots-shown-running-in-new-video/#ftag=CAD590a51e)
- - [Acer Swift 16 AI Review: The Perfect Midrange Entertainment Laptop but for 1 Flaw](https://www.cnet.com/tech/computing/acer-swift-16-ai-review-the-perfect-midrange-entertainment-laptop-but-for-one-flaw/#ftag=CAD590a51e)
- - [Your Weekly Streaming Watch List: Check Out &#39;Kinda Pregnant,&#39; &#39;Invincible&#39; and More](https://www.cnet.com/tech/services-and-software/your-weekly-streaming-watch-list-check-out-kinda-pregnant-invincible-season-three-and-more/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Why Computer Scientists Need Magic 8 Ball-Like Oracles](https://www.wired.com/story/why-computer-scientists-need-magic-8-ball-like-oracles/)
+ - [7 Best Hair Masks, Tested and Reviewed &lpar;2025&rpar;](https://www.wired.com/gallery/best-hair-masks/)
+ - [The Top 6 Alarm Clocks of 2025](https://www.cnet.com/health/sleep/best-alarm-clock/#ftag=CAD590a51e)
+ - [If You Have an iPhone You Need to Download iOS 18.3 Now](https://www.cnet.com/tech/services-and-software/it-you-have-an-iphone-you-need-to-download-ios-18-3-now/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

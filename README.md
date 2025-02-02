@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [14 Best Tablets &lpar;2025&rpar;, Tested and Reviewed](https://www.wired.com/gallery/the-best-tablets/)
  - [Why Computer Scientists Need Magic 8 Ball-Like Oracles](https://www.wired.com/story/why-computer-scientists-need-magic-8-ball-like-oracles/)
  - [7 Best Hair Masks, Tested and Reviewed &lpar;2025&rpar;](https://www.wired.com/gallery/best-hair-masks/)
  - [The Top 6 Alarm Clocks of 2025](https://www.cnet.com/health/sleep/best-alarm-clock/#ftag=CAD590a51e)
- - [If You Have an iPhone You Need to Download iOS 18.3 Now](https://www.cnet.com/tech/services-and-software/it-you-have-an-iphone-you-need-to-download-ios-18-3-now/#ftag=CAD590a51e)
- - [The 5 Best OLED TVs &lpar;2025&rpar;](https://www.wired.com/gallery/best-oleds/)<!-- TECH:END -->
+ - [If You Have an iPhone You Need to Download iOS 18.3 Now](https://www.cnet.com/tech/services-and-software/it-you-have-an-iphone-you-need-to-download-ios-18-3-now/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

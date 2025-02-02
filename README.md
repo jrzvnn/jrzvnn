@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [7 Best Hair Masks, Tested and Reviewed &lpar;2025&rpar;](https://www.wired.com/gallery/best-hair-masks/)
+ - [The Top 6 Alarm Clocks of 2025](https://www.cnet.com/health/sleep/best-alarm-clock/#ftag=CAD590a51e)
+ - [If You Have an iPhone You Need to Download iOS 18.3 Now](https://www.cnet.com/tech/services-and-software/it-you-have-an-iphone-you-need-to-download-ios-18-3-now/#ftag=CAD590a51e)
  - [The 5 Best OLED TVs &lpar;2025&rpar;](https://www.wired.com/gallery/best-oleds/)
- - [A US man pleads guilty to a cyberstalking campaign against a professor, including by creating chatbots on Crushon.ai and JanitorAI using her personal info &lpar;Katie McQue/The Guardian&rpar;](http://www.techmeme.com/250202/p3#a250202p3)
- - [Premier League Soccer: Livestream Man United vs. Crystal Palace From Anywhere](https://www.cnet.com/tech/services-and-software/premier-league-soccer-livestream-man-united-vs-crystal-palace-from-anywhere/#ftag=CAD590a51e)
- - [Premier League Soccer: Livestream Brentford vs. Tottenham From Anywhere](https://www.cnet.com/tech/services-and-software/premier-league-soccer-livestream-brentford-vs-tottenham-from-anywhere/#ftag=CAD590a51e)
- - [Is VR Bad for Your Eyes? Here&#39;s What Eye Doctors Say](https://www.cnet.com/health/medical/is-vr-bad-for-your-eyes-heres-what-eye-doctors-say/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [A US man pleads guilty to a cyberstalking campaign against a professor, including by creating chatbots on Crushon.ai and JanitorAI using her personal info &lpar;Katie McQue/The Guardian&rpar;](http://www.techmeme.com/250202/p3#a250202p3)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

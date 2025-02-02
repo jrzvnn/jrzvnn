@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Hugging Face&#39;s Thomas Wolf and other experts say startups like DeepSeek and the rise of AI agents may erode the value of LLMs from OpenAI and Big Tech companies &lpar;Ryan Browne/CNBC&rpar;](http://www.techmeme.com/250201/p15#a250201p15)
+ - [DOGE Staff Had Questions About the &#39;Resign&#39; Email. Their New HR Chief Dodged Them](https://www.wired.com/story/doge-hr-elon-musk-resignation-fork-road-leaked-staff-meeting/)
  - [US Government Websites Are Disappearing in Real Time](https://www.wired.com/story/us-government-websites-are-disappearing-in-real-time/)
  - [Google says APT groups from 20+ countries are using Gemini primarily for productivity gains rather than to develop or conduct novel AI-enabled cyberattacks &lpar;Bill Toulas/BleepingComputer&rpar;](http://www.techmeme.com/250201/p14#a250201p14)
- - [Today&#39;s NYT Connections: Sports Edition Hints and Answers for Feb. 2, #132](https://www.cnet.com/tech/gaming/todays-nyt-connections-sports-edition-hints-and-answers-for-feb-2-132/#ftag=CAD590a51e)
- - [Today&#39;s NYT Strands Hints, Answers and Help for Feb. 2, #336](https://www.cnet.com/tech/gaming/todays-nyt-strands-hints-answers-and-help-for-feb-2-336/#ftag=CAD590a51e)
- - [Today&#39;s NYT Connections Hints, Answers and Help for Feb. 2, #602](https://www.cnet.com/tech/gaming/todays-nyt-connections-hints-answers-and-help-for-feb-2-602/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Today&#39;s NYT Connections: Sports Edition Hints and Answers for Feb. 2, #132](https://www.cnet.com/tech/gaming/todays-nyt-connections-sports-edition-hints-and-answers-for-feb-2-132/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

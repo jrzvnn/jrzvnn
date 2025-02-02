@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [69 &#39;Buy It for Life&#39; Products: Cast-Iron, Tools, Speakers, Chairs, and More](https://www.wired.com/story/buy-it-for-life/)
  - [A look at Future You, an AI-based research tool that lets users interact with a virtual older self and is currently being used by 60,000 people from 190 nations &lpar;Heidi Mitchell/Wall Street Journal&rpar;](http://www.techmeme.com/250202/p4#a250202p4)
  - [Apple prepares to launch Confetti calendar invite system at employees for testing](https://appleinsider.com/articles/25/02/02/apple-prepares-to-launch-confetti-calendar-invite-system-at-employees-for-testing?utm_medium=rss)
- - [Qi2 Wireless Charging: Everything You Need to Know &lpar;2025&rpar;](https://www.wired.com/story/what-is-qi2-wireless-charging/)
- - [Premier League Soccer: Livestream Arsenal vs. Man City From Anywhere](https://www.cnet.com/tech/services-and-software/premier-league-soccer-livestream-arsenal-vs-man-city-from-anywhere/#ftag=CAD590a51e)
- - [14 Best Tablets &lpar;2025&rpar;, Tested and Reviewed](https://www.wired.com/gallery/the-best-tablets/)<!-- TECH:END -->
+ - [It&#39;s So Easy to Install This Window Heat Pump I Saw at CES](https://www.cnet.com/home/energy-and-utilities/its-so-easy-to-install-this-window-heat-pump-i-saw-at-ces/#ftag=CAD590a51e)
+ - [Qi2 Wireless Charging: Everything You Need to Know &lpar;2025&rpar;](https://www.wired.com/story/what-is-qi2-wireless-charging/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

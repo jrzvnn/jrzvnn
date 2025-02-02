@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [In its current form, OpenAI&#39;s Operator is more of an intriguing demo than a product useful for most people, but it points to a future of powerful AI agents &lpar;Kevin Roose/New York Times&rpar;](http://www.techmeme.com/250202/p2#a250202p2)
  - [Donald Trump&#39;s EO imposing levies on China says the &quot;de minimis&quot; exemption for items under $800 no longer applies, which could affect Alibaba, Shein, and others &lpar;Bloomberg&rpar;](http://www.techmeme.com/250202/p1#a250202p1)
  - [The UK announces four new laws that make it illegal to possess, create, or distribute AI tools designed to produce CSAM, becoming the first country to do so &lpar;Sima Kotecha/BBC&rpar;](http://www.techmeme.com/250201/p17#a250201p17)
  - [How Israeli startups like Xtend are helping the country&#39;s war effort, with ~50% of anti-drone tech used since the October 7 attacks coming from startups &lpar;Emily Rose/Reuters&rpar;](http://www.techmeme.com/250201/p16#a250201p16)
- - [Best Stores for Buying Digital Music You Can Keep Forever](https://www.cnet.com/tech/home-entertainment/best-sites-to-buy-mp3-and-digital-music-you-own-forever/#ftag=CAD590a51e)
- - [Hugging Face&#39;s Thomas Wolf and other experts say startups like DeepSeek and the rise of AI agents may erode the value of LLMs from OpenAI and Big Tech companies &lpar;Ryan Browne/CNBC&rpar;](http://www.techmeme.com/250201/p15#a250201p15)<!-- TECH:END -->
+ - [Best Stores for Buying Digital Music You Can Keep Forever](https://www.cnet.com/tech/home-entertainment/best-sites-to-buy-mp3-and-digital-music-you-own-forever/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

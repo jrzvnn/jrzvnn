@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Amazon discounts Apple Studio Display to $1,299 to pair with new Mac deals](https://appleinsider.com/articles/25/02/02/amazon-discounts-apple-studio-display-to-1299-to-pair-with-new-mac-deals?utm_medium=rss)
  - [Six engineers, all apparently between 19 and 24 years and linked to Elon Musk and Peter Thiel, are helping Musk gain control of federal infrastructure with DOGE &lpar;Vittoria Elliott/Wired&rpar;](http://www.techmeme.com/250202/p8#a250202p8)
  - [The Young, Inexperienced Engineers Aiding Elon Musk&#39;s Government Takeover](https://www.wired.com/story/elon-musk-government-young-engineers/)
  - [Some parents say they are eschewing 529 college savings plans and other traditional investments to invest in cryptocurrency to build wealth for their children &lpar;Bloomberg&rpar;](http://www.techmeme.com/250202/p7#a250202p7)
- - [Apple to drop prepaid multi-year AppleCare+, but keep subscription option](https://appleinsider.com/articles/25/02/02/apple-to-drop-prepaid-multi-year-applecare-but-keep-subscription-option?utm_medium=rss)
- - [10 of the Best Peacock Shows to Watch Right Now](https://www.cnet.com/tech/services-and-software/10-of-the-best-peacock-shows-to-watch-right-now/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Apple to drop prepaid multi-year AppleCare+, but keep subscription option](https://appleinsider.com/articles/25/02/02/apple-to-drop-prepaid-multi-year-applecare-but-keep-subscription-option?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

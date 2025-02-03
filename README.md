@@ -159,9 +159,9 @@ R                        1 repo              ░░░░░░░░░░░�
 <!-- TECH:START -->
  - [Apple celebrates Kendrick Lamar&#39;s &#39;Road to Halftime&#39; with bonus content, special offers, and more](https://appleinsider.com/articles/25/02/03/apple-celebrates-kendrick-lamars-road-to-halftime-with-bonus-content-special-offers-and-more?utm_medium=rss)
  - [iPhone 15 leads 2024 sales &amp; boosts global smartphone revenue](https://appleinsider.com/articles/25/02/03/iphone-15-leads-2024-sales-boosts-global-smartphone-revenue?utm_medium=rss)
- - [Elektron Digitone II Review: Worthy Successor to a Classic](https://www.wired.com/review/elektron-digitone-ii/)
- - [MicroStrategy says it didn&#39;t buy any bitcoin in the prior week, ending 12 consecutive weekly purchases worth $20B+ starting in October 2024, and holds ~$44.7B &lpar;Monique Mulima/Bloomberg&rpar;](http://www.techmeme.com/250203/p14#a250203p14)
- - [Apple fixes bug that stopped utilities making bootable backups](https://appleinsider.com/articles/25/02/03/apple-fixes-bug-that-stopped-utilities-making-bootable-backups?utm_medium=rss)<!-- TECH:END -->
+ - [Act Now to Lock in Up to 4.65% APY. Today&#39;s CD Rates, Feb. 3, 2025](https://www.cnet.com/personal-finance/banking/act-now-to-lock-in-up-to-4-65-apy-todays-cd-rates-feb-3-2025/#ftag=CAD590a51e)
+ - [Savings Rates Over 4% APY Could Stick Around a While Longer, but Not Forever. Today&#39;s Best Savings Rates for Feb. 3, 2025](https://www.cnet.com/personal-finance/banking/savings-rates-over-4-apy-could-stick-around-a-while-longer-but-not-forever-todays-best-savings-rates-for-feb-3-2025/#ftag=CAD590a51e)
+ - [Elektron Digitone II Review: Worthy Successor to a Classic](https://www.wired.com/review/elektron-digitone-ii/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

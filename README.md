@@ -160,8 +160,8 @@ R                        1 repo              ░░░░░░░░░░░�
  - [Chainalysis and others estimate $Trump had generated $86M to $100M in trading fees by January 30; its market cap, which hit $14.5B on January 19, is down 66% &lpar;Reuters&rpar;](http://www.techmeme.com/250203/p11#a250203p11)
  - [9 Best Digital Notebooks, Tablets, and Smart Pens &lpar;2025&rpar;](https://www.wired.com/gallery/best-smart-notebooks-and-smart-pens/)
  - [Reencle Prime Review: A Sustainable Solution for Making Compost](https://www.wired.com/review/reencle-prime/)
- - [Sources: the EU Commission and four member nations plan a probe into Shein over illegal products, opening the fast fashion marketplace up to potential fines &lpar;Bloomberg&rpar;](http://www.techmeme.com/250203/p10#a250203p10)
- - [25 years of Apple&#39;s innovation with iPod](https://appleinsider.com/articles/25/02/03/25-years-of-apples-innovation-with-ipod?utm_medium=rss)<!-- TECH:END -->
+ - [What Is Cellular Internet and Is It Enough for Your Home Broadband Needs?](https://www.cnet.com/home/internet/cellular-home-internet-overview/#ftag=CAD590a51e)
+ - [Sources: the EU Commission and four member nations plan a probe into Shein over illegal products, opening the fast fashion marketplace up to potential fines &lpar;Bloomberg&rpar;](http://www.techmeme.com/250203/p10#a250203p10)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

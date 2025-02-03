@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Elektron Digitone II Review: Worthy Successor to a Classic](https://www.wired.com/review/elektron-digitone-ii/)
  - [MicroStrategy says it didn&#39;t buy any bitcoin in the prior week, ending a run of 12 consecutive weekly purchases worth $20B+ starting in October 2024 &lpar;Monique Mulima/Bloomberg&rpar;](http://www.techmeme.com/250203/p14#a250203p14)
  - [Apple fixes bug that stopped utilities making bootable backups](https://appleinsider.com/articles/25/02/03/apple-fixes-bug-that-stopped-utilities-making-bootable-backups?utm_medium=rss)
  - [The Beatles&#39; Now and Then, created using AI and an original 1970s lo-fi demo, won Best Rock Performance at the Grammys; McCartney and Starr completed it in 2021 &lpar;Jess Weatherbed/The Verge&rpar;](http://www.techmeme.com/250203/p13#a250203p13)
- - [French startup Riot, which educates staff about cybersecurity risks, raised a $30M Series B, a source says at a $170M valuation, and had $10M in 2024 revenue &lpar;Romain Dillet/TechCrunch&rpar;](http://www.techmeme.com/250203/p12#a250203p12)
- - [The Best Hearing Aids of 2025, Tested and Reviewed](https://www.wired.com/gallery/best-hearing-aids/)<!-- TECH:END -->
+ - [French startup Riot, which educates staff about cybersecurity risks, raised a $30M Series B, a source says at a $170M valuation, and had $10M in 2024 revenue &lpar;Romain Dillet/TechCrunch&rpar;](http://www.techmeme.com/250203/p12#a250203p12)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

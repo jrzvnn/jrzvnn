@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Chainalysis and others estimate $Trump had generated $86M to $100M in trading fees by January 30; its market cap, which hit $14.5B on January 19, is down 66% &lpar;Reuters&rpar;](http://www.techmeme.com/250203/p11#a250203p11)
- - [9 Best Digital Notebooks, Tablets, and Smart Pens &lpar;2025&rpar;](https://www.wired.com/gallery/best-smart-notebooks-and-smart-pens/)
- - [Reencle Prime Review: A Sustainable Solution for Making Compost](https://www.wired.com/review/reencle-prime/)
- - [What Is Cellular Internet and Is It Enough for Your Home Broadband Needs?](https://www.cnet.com/home/internet/cellular-home-internet-overview/#ftag=CAD590a51e)
- - [Sources: the EU Commission and four member nations plan a probe into Shein over illegal products, opening the fast fashion marketplace up to potential fines &lpar;Bloomberg&rpar;](http://www.techmeme.com/250203/p10#a250203p10)<!-- TECH:END -->
+ - [Apple fixes bug that stopped utilities making bootable backups](https://appleinsider.com/articles/25/02/03/apple-fixes-bug-that-stopped-utilities-making-bootable-backups?utm_medium=rss)
+ - [The Beatles&#39; Now and Then, created using AI and an original 1970s lo-fi demo, won Best Rock Performance at the Grammys; McCartney and Starr completed it in 2021 &lpar;Jess Weatherbed/The Verge&rpar;](http://www.techmeme.com/250203/p13#a250203p13)
+ - [French startup Riot, which educates staff about cybersecurity risks, raised a $30M Series B, a source says at a $170M valuation, and had $10M in 2024 revenue &lpar;Romain Dillet/TechCrunch&rpar;](http://www.techmeme.com/250203/p12#a250203p12)
+ - [The Best Hearing Aids of 2025, Tested and Reviewed](https://www.wired.com/gallery/best-hearing-aids/)
+ - [Chainalysis and others estimate $Trump had generated $86M to $100M in trading fees by January 30; its market cap, which hit $14.5B on January 19, is down 66% &lpar;Reuters&rpar;](http://www.techmeme.com/250203/p11#a250203p11)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

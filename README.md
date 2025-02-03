@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Mental health and extremism experts say Australia exempting YouTube from its under-16 social media ban exposes children to addictive and harmful content &lpar;Byron Kaye/Reuters&rpar;](http://www.techmeme.com/250203/p8#a250203p8)
  - [Analysis: Meta has invested $80B+ in AR and VR since 2014 when it bought Oculus, and is on track to top $100B in 2025; a source says it sold 1M Ray-Bans in 2024 &lpar;Financial Times&rpar;](http://www.techmeme.com/250203/p7#a250203p7)
  - [These Robots Are Recovering Dumped Explosives From the Baltic Sea](https://www.wired.com/story/these-robots-are-recovering-dumped-explosives-from-the-baltic-sea/)
- - [An analysis of FEC filings shows Elon Musk spent $288M+ to elect Trump and other Republicans, the 2024 election&#39;s biggest donor; Musk&#39;s America PAC raised $263M &lpar;Washington Post&rpar;](http://www.techmeme.com/250203/p6#a250203p6)
- - [The Seoul High Court upholds a decision clearing Samsung Electronics Executive Chairman Jay Y. Lee of fraud and stock-rigging, a major victory for Samsung &lpar;Bloomberg&rpar;](http://www.techmeme.com/250203/p5#a250203p5)
- - [Act Now to Lock in Up to 4.65% APY. Today&#39;s CD Rates, Feb. 3, 2025](https://www.cnet.com/personal-finance/banking/act-now-to-lock-in-up-to-4-65-apy-todays-cd-rates-feb-3-2025/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Best Coolers of 2025](https://www.cnet.com/home/yard-and-outdoors/best-coolers/#ftag=CAD590a51e)
+ - [An analysis of FEC filings shows Elon Musk spent $288M+ to elect Trump and other Republicans, the 2024 election&#39;s biggest donor; Musk&#39;s America PAC raised $263M &lpar;Washington Post&rpar;](http://www.techmeme.com/250203/p6#a250203p6)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

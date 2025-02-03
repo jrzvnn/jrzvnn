@@ -158,10 +158,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- TECH:START -->
  - [OpenAI unveils Deep Research, an AI agent for creating in-depth reports, available to subscribers of the $200 ChatGPT Pro tier and limited to 100 queries/month &lpar;Anthony Ha/TechCrunch&rpar;](http://www.techmeme.com/250202/p10#a250202p10)
+ - [Best DIY Home Security Systems of 2025](https://www.cnet.com/home/security/best-diy-home-security-systems/#ftag=CAD590a51e)
  - [La Liga Soccer Livestream: How to Watch Barcelona vs. Alavés From Anywhere](https://www.cnet.com/tech/services-and-software/la-liga-soccer-livestream-how-to-watch-barcelona-vs-alaves-from-anywhere/#ftag=CAD590a51e)
  - [Apple moves to open-source, unify Swift component across platforms](https://appleinsider.com/articles/25/02/02/apple-moves-to-open-source-unify-swift-component-across-platforms?utm_medium=rss)
- - [Google&#39;s X spins out Heritable Agriculture, which aims to use AI to improve crop yield, as the incubator aggressively spins off companies under CEO Astro Teller &lpar;Brian Heater/TechCrunch&rpar;](http://www.techmeme.com/250202/p9#a250202p9)
- - [Today&#39;s NYT Connections Hints, Answers and Help for Feb. 3, #603](https://www.cnet.com/tech/gaming/todays-nyt-connections-hints-answers-and-help-for-feb-3-603/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Google&#39;s X spins out Heritable Agriculture, which aims to use AI to improve crop yield, as the incubator aggressively spins off companies under CEO Astro Teller &lpar;Brian Heater/TechCrunch&rpar;](http://www.techmeme.com/250202/p9#a250202p9)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

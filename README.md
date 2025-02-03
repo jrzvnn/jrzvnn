@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [AI adoption has outpaced that of PCs and the internet, but evidence of its boost to productivity is thin on the ground; study: 40% of US adults have used AI &lpar;Bloomberg&rpar;](http://www.techmeme.com/250203/p2#a250203p2)
  - [Amazon slashes AirPods 4 to just $99, Apple Watch SE 2 drops to $169 in latest sale](https://appleinsider.com/articles/25/02/03/amazon-slashes-airpods-4-to-just-99-apple-watch-se-2-drops-to-169-in-latest-sale?utm_medium=rss)
  - [SoftBank commits $3B annually for itself and subsidiaries to use OpenAI&#39;s tech, and launches SB OpenAI Japan to market OpenAI&#39;s enterprise tech in Japan &lpar;Hayden Field/CNBC&rpar;](http://www.techmeme.com/250203/p1#a250203p1)
  - [Punxsutawney Phil Predicts More Winter, but Just How Accurate Is He?](https://www.cnet.com/science/groundhog-day-punxsutawney-phil-saw-his-shadow-how-accurate-is-he/#ftag=CAD590a51e)
- - [India expands Aadhaar, now linked to the biometrics of over 1.4B people, to let businesses across several sectors use it to authenticate customers &lpar;Jagmeet Singh/TechCrunch&rpar;](http://www.techmeme.com/250202/p11#a250202p11)
- - [Today&#39;s NYT Mini Crossword Answers for Monday, Feb. 3](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-monday-feb-3/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [India expands Aadhaar, now linked to the biometrics of over 1.4B people, to let businesses across several sectors use it to authenticate customers &lpar;Jagmeet Singh/TechCrunch&rpar;](http://www.techmeme.com/250202/p11#a250202p11)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -160,8 +160,8 @@ R                        1 repo              ░░░░░░░░░░░�
  - [How to get your 2025 Apple Music Replay playlist](https://appleinsider.com/inside/apple-music/tips/how-to-get-your-2023-apple-music-replay-playlist?utm_medium=rss)
  - [Treasury Sec. Scott Bessent ordered the CFPB to stop all rulemaking, communications, litigation, and other activities; on X, Musk has called to &quot;Delete CFPB&quot; &lpar;Evan Weinberger/Bloomberg Law&rpar;](http://www.techmeme.com/250203/p21#a250203p21)
  - [An OPM staffer believes a server Musk&#39;s associates installed, with access to federal staff info like SSNs, has not undergone a Privacy Impact Assessment &lpar;Musk Watch&rpar;](http://www.techmeme.com/250203/p20#a250203p20)
- - [Adam Candeub, a Big Tech critic and architect of Trump&#39;s first term effort to revoke Section 230 protections for social media, will be the FCC&#39;s general counsel &lpar;Ben Smith/Semafor&rpar;](http://www.techmeme.com/250203/p19#a250203p19)
- - [Apple just rolled out iOS 18.3 -- for just the iPhone 11 family](https://appleinsider.com/articles/25/02/03/apple-just-rolled-out-ios-183----for-just-the-iphone-11-family?utm_medium=rss)<!-- TECH:END -->
+ - [Best Power Bank for iPhones in 2025](https://www.cnet.com/tech/mobile/best-power-bank-for-iphone/#ftag=CAD590a51e)
+ - [NYT Connections: Sports Edition Puzzle Comes Out of Beta on Super Bowl Sunday](https://www.cnet.com/tech/gaming/nyt-connections-sports-edition-puzzle-comes-out-of-beta-on-super-bowl-sunday/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

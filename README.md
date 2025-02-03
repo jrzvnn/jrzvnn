@@ -158,10 +158,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- TECH:START -->
  - [Stablecoins are becoming a core part of financial infrastructure in emerging markets, expanding beyond cross-border payments into consumer finance and more &lpar;Tage Kene-Okafor/TechCrunch&rpar;](http://www.techmeme.com/250203/p3#a250203p3)
- - [AI adoption has outpaced that of PCs and the internet, but evidence of its boost to productivity is thin on the ground; study: 40% of US adults have used AI &lpar;Bloomberg&rpar;](http://www.techmeme.com/250203/p2#a250203p2)
+ - [8 Foods That Will Help You Build Muscle and Optimize Your Gains](https://www.cnet.com/health/nutrition/foods-that-will-help-you-build-muscle-and-optimize-your-gains/#ftag=CAD590a51e)
+ - [AI adoption has outpaced PCs and the internet, but evidence of its boost to productivity is thin on the ground; a study shows 40% of US adults have used AI &lpar;Bloomberg&rpar;](http://www.techmeme.com/250203/p2#a250203p2)
  - [Upgrade Your Bedtime Routine With the 10-3-2-1-0 Sleep Hack. It Might Be The Cure to Your Sleepless Nights](https://www.cnet.com/health/sleep/upgrade-your-bedtime-routine-with-the-10-3-2-1-0-sleep-hack/#ftag=CAD590a51e)
- - [Stearns &amp; Foster Lux Estate Mattress Review 2025: Experts Test Handcrafted Comfort, Available Online or In-Store](https://www.cnet.com/health/sleep/stearns-foster-lux-estate-mattress-review/#ftag=CAD590a51e)
- - [Amazon slashes AirPods 4 to just $99, Apple Watch SE 2 drops to $169 in latest sale](https://appleinsider.com/articles/25/02/03/amazon-slashes-airpods-4-to-just-99-apple-watch-se-2-drops-to-169-in-latest-sale?utm_medium=rss)<!-- TECH:END -->
+ - [Stearns &amp; Foster Lux Estate Mattress Review 2025: Experts Test Handcrafted Comfort, Available Online or In-Store](https://www.cnet.com/health/sleep/stearns-foster-lux-estate-mattress-review/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

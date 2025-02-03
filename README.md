@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [India expands Aadhaar, now linked to the biometrics of over 1.4B people, to let businesses across several sectors use it to authenticate customers &lpar;Jagmeet Singh/TechCrunch&rpar;](http://www.techmeme.com/250202/p11#a250202p11)
  - [Theragun Alternatives: Best Budget Massage Guns for 2025](https://www.cnet.com/health/fitness/best-budget-massage-guns/#ftag=CAD590a51e)
  - [OpenAI unveils Deep Research, an AI agent for creating in-depth reports, available to subscribers of the $200 ChatGPT Pro tier and limited to 100 queries/month &lpar;Anthony Ha/TechCrunch&rpar;](http://www.techmeme.com/250202/p10#a250202p10)
  - [Best DIY Home Security Systems of 2025](https://www.cnet.com/home/security/best-diy-home-security-systems/#ftag=CAD590a51e)
- - [La Liga Soccer Livestream: How to Watch Barcelona vs. Alavés From Anywhere](https://www.cnet.com/tech/services-and-software/la-liga-soccer-livestream-how-to-watch-barcelona-vs-alaves-from-anywhere/#ftag=CAD590a51e)
- - [Apple moves to open-source, unify Swift component across platforms](https://appleinsider.com/articles/25/02/02/apple-moves-to-open-source-unify-swift-component-across-platforms?utm_medium=rss)<!-- TECH:END -->
+ - [La Liga Soccer Livestream: How to Watch Barcelona vs. Alavés From Anywhere](https://www.cnet.com/tech/services-and-software/la-liga-soccer-livestream-how-to-watch-barcelona-vs-alaves-from-anywhere/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

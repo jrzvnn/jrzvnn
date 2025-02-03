@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [A profile of Klarna CEO Sebastian Siemiatkowski, whose overblown statements about AI replacing humans point to a future that tech companies are working toward &lpar;Noam Scheiber/New York Times&rpar;](http://www.techmeme.com/250203/p4#a250203p4)
- - [Stablecoins are becoming a core part of financial infrastructure in emerging markets, expanding beyond cross-border payments into consumer finance and more &lpar;Tage Kene-Okafor/TechCrunch&rpar;](http://www.techmeme.com/250203/p3#a250203p3)
- - [8 Foods That Will Help You Build Muscle and Optimize Your Gains](https://www.cnet.com/health/nutrition/foods-that-will-help-you-build-muscle-and-optimize-your-gains/#ftag=CAD590a51e)
- - [AI adoption has outpaced PCs and the internet, but evidence of its boost to productivity is thin on the ground; a study shows 40% of US adults have used AI &lpar;Bloomberg&rpar;](http://www.techmeme.com/250203/p2#a250203p2)
- - [Upgrade Your Bedtime Routine With the 10-3-2-1-0 Sleep Hack. It Might Be The Cure to Your Sleepless Nights](https://www.cnet.com/health/sleep/upgrade-your-bedtime-routine-with-the-10-3-2-1-0-sleep-hack/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [The Seoul High Court upholds a decision clearing Samsung Electronics Executive Chairman Jay Y. Lee of fraud and stock-rigging, a major victory for Samsung &lpar;Bloomberg&rpar;](http://www.techmeme.com/250203/p5#a250203p5)
+ - [Act Now to Lock in Up to 4.65% APY. Today&#39;s CD Rates, Feb. 3, 2025](https://www.cnet.com/personal-finance/banking/act-now-to-lock-in-up-to-4-65-apy-todays-cd-rates-feb-3-2025/#ftag=CAD590a51e)
+ - [Savings Rates Over 4% APY Could Stick Around a While Longer, but Not Forever. Today&#39;s Best Savings Rates for Feb. 3, 2025](https://www.cnet.com/personal-finance/banking/savings-rates-over-4-apy-could-stick-around-a-while-longer-but-not-forever-todays-best-savings-rates-for-feb-3-2025/#ftag=CAD590a51e)
+ - [Best Exercise Bikes for 2025](https://www.cnet.com/health/fitness/best-exercise-bike/#ftag=CAD590a51e)
+ - [Best Noise-Canceling Headphones for 2025](https://www.cnet.com/tech/mobile/best-noise-canceling-headphones/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

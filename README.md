@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [These Robots Are Recovering Dumped Explosives From the Baltic Sea](https://www.wired.com/story/these-robots-are-recovering-dumped-explosives-from-the-baltic-sea/)
+ - [An analysis of FEC filings shows Elon Musk spent $288M+ to elect Trump and other Republicans, the 2024 election&#39;s biggest donor; Musk&#39;s America PAC raised $263M &lpar;Washington Post&rpar;](http://www.techmeme.com/250203/p6#a250203p6)
  - [The Seoul High Court upholds a decision clearing Samsung Electronics Executive Chairman Jay Y. Lee of fraud and stock-rigging, a major victory for Samsung &lpar;Bloomberg&rpar;](http://www.techmeme.com/250203/p5#a250203p5)
  - [Best Noise-Canceling Headphones for 2025](https://www.cnet.com/tech/mobile/best-noise-canceling-headphones/#ftag=CAD590a51e)
- - [A profile of Klarna CEO Sebastian Siemiatkowski, whose overblown statements about AI replacing humans point to a future that tech companies are working toward &lpar;Noam Scheiber/New York Times&rpar;](http://www.techmeme.com/250203/p4#a250203p4)
- - [Here&#39;s Why You Should Get a Lymphatic Drainage Massage](https://www.cnet.com/health/medical/lymphatic-massage-benefits/#ftag=CAD590a51e)
- - [Stablecoins are becoming a core part of financial infrastructure in emerging markets, expanding beyond cross-border payments into consumer finance and more &lpar;Tage Kene-Okafor/TechCrunch&rpar;](http://www.techmeme.com/250203/p3#a250203p3)<!-- TECH:END -->
+ - [A profile of Klarna CEO Sebastian Siemiatkowski, whose overblown statements about AI replacing humans point to a future that tech companies are working toward &lpar;Noam Scheiber/New York Times&rpar;](http://www.techmeme.com/250203/p4#a250203p4)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

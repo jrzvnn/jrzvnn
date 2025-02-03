@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Apple just rolled out iOS 18.3 -- for just the iPhone 11 family](https://appleinsider.com/articles/25/02/03/apple-just-rolled-out-ios-183----for-just-the-iphone-11-family?utm_medium=rss)
  - [Apple has officially launched the 2025 Swift Student Challenge](https://appleinsider.com/articles/25/02/03/apple-has-officially-launched-the-2025-swift-student-challenge?utm_medium=rss)
  - [Trump signs an executive action to form a sovereign wealth fund; Commerce secretary nominee Howard Lutnick says it may be used to facilitate a sale of TikTok US &lpar;Bloomberg&rpar;](http://www.techmeme.com/250203/p18#a250203p18)
  - [Pronouns Are Being Forcibly Removed From Government Email Signatures](https://www.wired.com/story/pronouns-removed-government-email-signatures/)
- - [The ‘Pokémon TCG Pocket’ Trading System Is So Bad Players Are Revolting](https://www.wired.com/story/pokemon-tcg-pocket-trading-system-player-frustration/)
- - [Judge swiftly tells Apple it can&#39;t delay the Google trial](https://appleinsider.com/articles/25/02/03/judge-swiftly-tells-apple-it-cant-delay-the-google-trial?utm_medium=rss)<!-- TECH:END -->
+ - [The ‘Pokémon TCG Pocket’ Trading System Is So Bad Players Are Revolting](https://www.wired.com/story/pokemon-tcg-pocket-trading-system-player-frustration/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

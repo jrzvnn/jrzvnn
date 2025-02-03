@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Trump signs an executive action to form a sovereign wealth fund; Commerce secretary nominee Howard Lutnick says it may be used to facilitate a sale of TikTok US &lpar;Bloomberg&rpar;](http://www.techmeme.com/250203/p18#a250203p18)
  - [Pronouns Are Being Forcibly Removed From Government Email Signatures](https://www.wired.com/story/pronouns-removed-government-email-signatures/)
  - [The ‘Pokémon TCG Pocket’ Trading System Is So Bad Players Are Revolting](https://www.wired.com/story/pokemon-tcg-pocket-trading-system-player-frustration/)
  - [Judge swiftly tells Apple it can&#39;t delay the Google trial](https://appleinsider.com/articles/25/02/03/judge-swiftly-tells-apple-it-cant-delay-the-google-trial?utm_medium=rss)
- - [B&amp;H is blowing out M3 MacBook Pros at up to $1,200 off](https://appleinsider.com/articles/25/01/31/bhs-is-blowing-out-m3-macbook-pros-at-up-to-1200-off?utm_medium=rss)
- - [In the wake of US tariffs on Canadian goods, the premiere of Ontario Doug Ford says he&#39;s &quot;ripping up&quot; the province&#39;s $100M Starlink contract &lpar;Rochelle Raveendran/CBC News&rpar;](http://www.techmeme.com/250203/p17#a250203p17)<!-- TECH:END -->
+ - [B&amp;H is blowing out M3 MacBook Pros at up to $1,200 off](https://appleinsider.com/articles/25/01/31/bhs-is-blowing-out-m3-macbook-pros-at-up-to-1200-off?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

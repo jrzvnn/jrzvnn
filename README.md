@@ -159,9 +159,9 @@ R                        1 repo              ░░░░░░░░░░░�
 <!-- TECH:START -->
  - [Counterpoint: iPhone 15 led global smartphone sales in 2024, followed by iPhone 15 Pro Max, iPhone 15 Pro, Galaxy A15 5G; global smartphone revenue grew 5% YoY &lpar;Andrew Orr/AppleInsider&rpar;](http://www.techmeme.com/250203/p23#a250203p23)
  - [Palantir reports Q4 revenue of $828M, up 36% YoY, vs. $776M est., US commercial revenue up 64% YoY; PLTR, which soared 340% in 2024, jumps ~15% after hours &lpar;Samantha Subin/CNBC&rpar;](http://www.techmeme.com/250203/p22#a250203p22)
- - [How to get your 2025 Apple Music Replay playlist](https://appleinsider.com/inside/apple-music/tips/how-to-get-your-2023-apple-music-replay-playlist?utm_medium=rss)
- - [Treasury Sec. Scott Bessent ordered the CFPB to stop all rulemaking, communications, litigation, and other activities; on X, Musk has called to &quot;Delete CFPB&quot; &lpar;Evan Weinberger/Bloomberg Law&rpar;](http://www.techmeme.com/250203/p21#a250203p21)
- - [An OPM staffer believes a server Musk&#39;s associates installed, with access to federal staff info like SSNs, has not undergone a Privacy Impact Assessment &lpar;Musk Watch&rpar;](http://www.techmeme.com/250203/p20#a250203p20)<!-- TECH:END -->
+ - [Apple&#39;s MagSafe Charging Explained: Magnetic Accessories Are Expanding](https://www.cnet.com/tech/mobile/apples-magsafe-charging-explained-magnetic-accessories-are-expanding/#ftag=CAD590a51e)
+ - [These Apple Watch Owners Can Claim Part of a $20 Million Settlement](https://www.cnet.com/tech/mobile/these-apple-watch-owners-can-claim-part-of-a-20-million-settlement/#ftag=CAD590a51e)
+ - [How to get your 2025 Apple Music Replay playlist](https://appleinsider.com/inside/apple-music/tips/how-to-get-your-2023-apple-music-replay-playlist?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

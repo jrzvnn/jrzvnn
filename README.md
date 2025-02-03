@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [In the wake of US tariffs on Canadian goods, the premiere of Ontario Doug Ford says he&#39;s &quot;ripping up&quot; the province&#39;s $100M Starlink contract &lpar;Rochelle Raveendran/CBC News&rpar;](http://www.techmeme.com/250203/p17#a250203p17)
- - [The first ever native iPhone porn app, Hot Tub, arrives in the EU via the approved alternative app store AltStore PAL, which was made possible by the DMA &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/250203/p16#a250203p16)
- - [Today&#39;s top 24-inch iMac deals deliver prices as low as $599](https://appleinsider.com/articles/25/02/03/todays-top-24-inch-imac-deals-deliver-prices-as-low-as-599?utm_medium=rss)
- - [OpenAI&#39;s Deep Research hands-on: very good at nuanced, complex research, and the first narrow agent to do sophisticated and likely economically valuable work &lpar;Ethan Mollick/One Useful Thing&rpar;](http://www.techmeme.com/250203/p15#a250203p15)
- - [Best Valentine&#39;s Gifts for Your Sleepy Loved Ones](https://www.cnet.com/health/sleep/best-valentines-gifts-for-those-who-love-sleep/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Pronouns Are Being Forcibly Removed From Government Email Signatures](https://www.wired.com/story/pronouns-removed-government-email-signatures/)
+ - [The ‘Pokémon TCG Pocket’ Trading System Is So Bad Players Are Revolting](https://www.wired.com/story/pokemon-tcg-pocket-trading-system-player-frustration/)
+ - [Judge swiftly tells Apple it can&#39;t delay the Google trial](https://appleinsider.com/articles/25/02/03/judge-swiftly-tells-apple-it-cant-delay-the-google-trial?utm_medium=rss)
+ - [B&amp;H is blowing out M3 MacBook Pros at up to $1,200 off](https://appleinsider.com/articles/25/01/31/bhs-is-blowing-out-m3-macbook-pros-at-up-to-1200-off?utm_medium=rss)
+ - [In the wake of US tariffs on Canadian goods, the premiere of Ontario Doug Ford says he&#39;s &quot;ripping up&quot; the province&#39;s $100M Starlink contract &lpar;Rochelle Raveendran/CBC News&rpar;](http://www.techmeme.com/250203/p17#a250203p17)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

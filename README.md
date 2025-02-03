@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [An OPM staffer believes a server Musk&#39;s associates installed, with access to federal staff info like SSNs, has not undergone a Privacy Impact Assessment &lpar;Musk Watch&rpar;](http://www.techmeme.com/250203/p20#a250203p20)
  - [Adam Candeub, a Big Tech critic and architect of Trump&#39;s first term effort to revoke Section 230 protections for social media, will be the FCC&#39;s general counsel &lpar;Ben Smith/Semafor&rpar;](http://www.techmeme.com/250203/p19#a250203p19)
  - [Apple just rolled out iOS 18.3 -- for just the iPhone 11 family](https://appleinsider.com/articles/25/02/03/apple-just-rolled-out-ios-183----for-just-the-iphone-11-family?utm_medium=rss)
  - [Self-Help Book From Apple TV Plus Show &#39;Severance&#39; Is Now Free for Download](https://www.cnet.com/culture/entertainment/self-help-book-from-apple-tv-plus-show-severance-is-now-free-for-download/#ftag=CAD590a51e)
- - [Apple has officially launched the 2025 Swift Student Challenge](https://appleinsider.com/articles/25/02/03/apple-has-officially-launched-the-2025-swift-student-challenge?utm_medium=rss)
- - [Trump signs an executive action to form a sovereign wealth fund; Commerce secretary nominee Howard Lutnick says it may be used to facilitate a sale of TikTok US &lpar;Bloomberg&rpar;](http://www.techmeme.com/250203/p18#a250203p18)<!-- TECH:END -->
+ - [Apple has officially launched the 2025 Swift Student Challenge](https://appleinsider.com/articles/25/02/03/apple-has-officially-launched-the-2025-swift-student-challenge?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

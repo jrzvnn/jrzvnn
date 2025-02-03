@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The first ever native iPhone porn app, Hot Tub, arrives in the EU via the approved alternative app store AltStore PAL, which was made possible by the DMA &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/250203/p16#a250203p16)
  - [Today&#39;s top 24-inch iMac deals deliver prices as low as $599](https://appleinsider.com/articles/25/02/03/todays-top-24-inch-imac-deals-deliver-prices-as-low-as-599?utm_medium=rss)
  - [OpenAI&#39;s Deep Research hands-on: very good at nuanced, complex research, and the first narrow agent to do sophisticated and likely economically valuable work &lpar;Ethan Mollick/One Useful Thing&rpar;](http://www.techmeme.com/250203/p15#a250203p15)
  - [AirTag 2 rumors, Matter ice maker, &amp; Logitech&#39;s presence sensor on HomeKit Insider](https://appleinsider.com/articles/25/02/03/airtag-2-rumors-matter-ice-maker-logitechs-presence-sensor-on-homekit-insider?utm_medium=rss)
- - [Apple celebrates Kendrick Lamar&#39;s &#39;Road to Halftime&#39; with bonus content, special offers, and more](https://appleinsider.com/articles/25/02/03/apple-celebrates-kendrick-lamars-road-to-halftime-with-bonus-content-special-offers-and-more?utm_medium=rss)
- - [iPhone 15 leads 2024 sales &amp; boosts global smartphone revenue](https://appleinsider.com/articles/25/02/03/iphone-15-leads-2024-sales-boosts-global-smartphone-revenue?utm_medium=rss)<!-- TECH:END -->
+ - [Apple celebrates Kendrick Lamar&#39;s &#39;Road to Halftime&#39; with bonus content, special offers, and more](https://appleinsider.com/articles/25/02/03/apple-celebrates-kendrick-lamars-road-to-halftime-with-bonus-content-special-offers-and-more?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

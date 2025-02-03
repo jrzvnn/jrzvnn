@@ -158,10 +158,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- TECH:START -->
  - [A US district court judge denies Apple&#39;s emergency motion to halt the remedy trial of the DOJ v. Google case, saying it hasn&#39;t demonstrated satisfactory reasons &lpar;Umar Shakir/The Verge&rpar;](http://www.techmeme.com/250203/p25#a250203p25)
- - [Meta describes what kinds of AI systems it may deem too risky to release, including ones that could aid in cyberattacks, and how such systems will be flagged &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/250203/p24#a250203p24)
- - [Counterpoint: iPhone 15 led global smartphone sales in 2024, followed by iPhone 15 Pro Max, iPhone 15 Pro, Galaxy A15 5G; global smartphone revenue grew 5% YoY &lpar;Andrew Orr/AppleInsider&rpar;](http://www.techmeme.com/250203/p23#a250203p23)
- - [Palantir reports Q4 revenue of $828M, up 36% YoY, vs. $776M est., US commercial revenue up 64% YoY; PLTR, which soared 340% in 2024, jumps ~15% after hours &lpar;Samantha Subin/CNBC&rpar;](http://www.techmeme.com/250203/p22#a250203p22)
- - [Apple&#39;s MagSafe Charging Explained: Magnetic Accessories Are Expanding](https://www.cnet.com/tech/mobile/apples-magsafe-charging-explained-magnetic-accessories-are-expanding/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Where to Find Prescription Discounts on Heart Medication and More](https://www.cnet.com/health/medical/where-find-prescription-discounts-heart-medication-more/#ftag=CAD590a51e)
+ - [NYT Connections: Sports Edition Puzzle Comes Out of Beta on Super Bowl Sunday](https://www.cnet.com/tech/gaming/nyt-connections-sports-edition-puzzle-comes-out-of-beta-on-super-bowl-sunday/#ftag=CAD590a51e)
+ - [Super Bowl 2025: How to Watch Chiefs vs. Eagles, Kendrick Lamar Halftime Show Without Cable](https://www.cnet.com/tech/services-and-software/super-bowl-2025-how-to-watch-chiefs-vs-eagles-kendrick-lamar-halftime-show-without-cable/#ftag=CAD590a51e)
+ - [Thousands of Webpages Were Deleted Per Trump&#39;s Orders: Here&#39;s How to View Them](https://www.cnet.com/tech/services-and-software/thousands-of-webpages-were-deleted-per-trumps-orders-heres-how-to-view-them/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

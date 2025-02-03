@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Today&#39;s top 24-inch iMac deals deliver prices as low as $599](https://appleinsider.com/articles/25/02/03/todays-top-24-inch-imac-deals-deliver-prices-as-low-as-599?utm_medium=rss)
+ - [OpenAI&#39;s Deep Research hands-on: very good at nuanced, complex research, and the first narrow agent to do sophisticated and likely economically valuable work &lpar;Ethan Mollick/One Useful Thing&rpar;](http://www.techmeme.com/250203/p15#a250203p15)
+ - [AirTag 2 rumors, Matter ice maker, &amp; Logitech&#39;s presence sensor on HomeKit Insider](https://appleinsider.com/articles/25/02/03/airtag-2-rumors-matter-ice-maker-logitechs-presence-sensor-on-homekit-insider?utm_medium=rss)
  - [Apple celebrates Kendrick Lamar&#39;s &#39;Road to Halftime&#39; with bonus content, special offers, and more](https://appleinsider.com/articles/25/02/03/apple-celebrates-kendrick-lamars-road-to-halftime-with-bonus-content-special-offers-and-more?utm_medium=rss)
- - [iPhone 15 leads 2024 sales &amp; boosts global smartphone revenue](https://appleinsider.com/articles/25/02/03/iphone-15-leads-2024-sales-boosts-global-smartphone-revenue?utm_medium=rss)
- - [Act Now to Lock in Up to 4.65% APY. Today&#39;s CD Rates, Feb. 3, 2025](https://www.cnet.com/personal-finance/banking/act-now-to-lock-in-up-to-4-65-apy-todays-cd-rates-feb-3-2025/#ftag=CAD590a51e)
- - [Savings Rates Over 4% APY Could Stick Around a While Longer, but Not Forever. Today&#39;s Best Savings Rates for Feb. 3, 2025](https://www.cnet.com/personal-finance/banking/savings-rates-over-4-apy-could-stick-around-a-while-longer-but-not-forever-todays-best-savings-rates-for-feb-3-2025/#ftag=CAD590a51e)
- - [Elektron Digitone II Review: Worthy Successor to a Classic](https://www.wired.com/review/elektron-digitone-ii/)<!-- TECH:END -->
+ - [iPhone 15 leads 2024 sales &amp; boosts global smartphone revenue](https://appleinsider.com/articles/25/02/03/iphone-15-leads-2024-sales-boosts-global-smartphone-revenue?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

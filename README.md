@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Last call: pick up Apple&#39;s M4 Pro Mac mini for $1,279](https://appleinsider.com/articles/25/02/03/last-call-pick-up-apples-m4-pro-mac-mini-for-1279?utm_medium=rss)
  - [Anthropic details Constitutional Classifiers, a system that aims to guard AI models against jailbreaks, monitoring both inputs and outputs for harmful content &lpar;Cristina Criddle/Financial Times&rpar;](http://www.techmeme.com/250203/p26#a250203p26)
+ - [Today&#39;s NYT Connections: Sports Edition Hints and Answers for Feb. 4. #134](https://www.cnet.com/tech/gaming/todays-nyt-connections-sports-edition-hints-and-answers-for-feb-4-134/#ftag=CAD590a51e)
  - [A US district court judge denies Apple&#39;s emergency motion to halt the remedy trial of the DOJ v. Google case, saying it hasn&#39;t demonstrated satisfactory reasons &lpar;Umar Shakir/The Verge&rpar;](http://www.techmeme.com/250203/p25#a250203p25)
- - [Where to Find Prescription Discounts on Heart Medication and More](https://www.cnet.com/health/medical/where-find-prescription-discounts-heart-medication-more/#ftag=CAD590a51e)
- - [NYT Connections: Sports Edition Puzzle Comes Out of Beta on Super Bowl Sunday](https://www.cnet.com/tech/gaming/nyt-connections-sports-edition-puzzle-comes-out-of-beta-on-super-bowl-sunday/#ftag=CAD590a51e)
- - [Super Bowl 2025: How to Watch Chiefs vs. Eagles, Kendrick Lamar Halftime Show Without Cable](https://www.cnet.com/tech/services-and-software/super-bowl-2025-how-to-watch-chiefs-vs-eagles-kendrick-lamar-halftime-show-without-cable/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Today&#39;s NYT Strands Hints, Answers and Help for Feb. 4, #338](https://www.cnet.com/tech/gaming/todays-nyt-strands-hints-answers-and-help-for-feb-4-338/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

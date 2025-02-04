@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Chris Anderson Is Giving TED Away to Whoever Has the Best Idea for Its Future](https://www.wired.com/story/chris-anderson-steps-down-ted/)
+ - [Toronto-based programmatic ad startup StackAdapt raised $235M led by Teachers&#39; Venture Growth, after raising $300M from Summit Partners in 2022 &lpar;Ingrid Lunden/TechCrunch&rpar;](http://www.techmeme.com/250204/p12#a250204p12)
  - [Sources: China is looking at launching a formal probe into Intel; a source says whether it was officially launched could be affected by US-China relations &lpar;Financial Times&rpar;](http://www.techmeme.com/250204/p11#a250204p11)
- - [Best Tested Walking Pads &lpar;2025&rpar;: Sperax, WalkingPad, Egofit](https://www.wired.com/story/best-walking-pads/)
- - [Xbox Wireless Headset Review &lpar;2024&rpar;: Pair and Play](https://www.wired.com/review/xbox-wireless-headset-2024/)
- - [The 5 Best Heating Pads in 2025](https://www.cnet.com/health/the-best-heating-pads-according-the-cnet-staff-that-use-them/#ftag=CAD590a51e)
- - [Literally Everything You Need to Know About Fluoride in Our Drinking Water](https://www.cnet.com/health/medical/literally-everything-need-know-about-fluoride-in-drinking-water/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Best Sim Racing Cockpit for 2025](https://www.cnet.com/roadshow/news/best-sim-racing-cockpit/#ftag=CAD590a51e)
+ - [Are You Pooping Enough to Be Considered Healthy?](https://www.cnet.com/health/medical/are-you-pooping-enough-to-be-considered-healthy/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

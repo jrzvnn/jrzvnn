@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [HR software startup Deel completes a sale of $300M secondary shares, bringing General Catalyst on as an investor, and says its ARR grew 70% YoY to $800M in 2024 &lpar;Mary Ann Azevedo/TechCrunch&rpar;](http://www.techmeme.com/250204/p18#a250204p18)
+ - [Ofcom drops an investigation into whether OnlyFans-owner Fenix International is letting under-18s access adult content, but keeps another part of the probe open &lpar;Daniel Thomas/Financial Times&rpar;](http://www.techmeme.com/250204/p17#a250204p17)
+ - [China Is Investigating Google Over Trump&#39;s Tariffs](https://www.wired.com/story/google-china-antitrust-trump-tariffs/)
  - [ByteDance researchers demo OmniHuman-1, an AI system that is &quot;easily heads and shoulders above previous deepfake techniques&quot;, if ByteDance&#39;s clips are accurate &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/250204/p16#a250204p16)
- - [Grab AirPods Pro 2 for $169 today, best price of 2025](https://appleinsider.com/articles/25/02/04/grab-airpods-pro-2-for-169-today-best-price-of-2025?utm_medium=rss)
- - [New Apple Invites app is now live on the App Store](https://appleinsider.com/articles/25/02/04/rumored-apple-invites-app-is-now-live-on-the-app-store?utm_medium=rss)
- - [Best Tennis Balls of 2025](https://www.cnet.com/health/fitness/best-tennis-balls/#ftag=CAD590a51e)
- - [Federal Workers Sue to Disconnect DOGE Server](https://www.wired.com/story/federal-workers-sue-over-doge-server/)<!-- TECH:END -->
+ - [Grab AirPods Pro 2 for $169 today, best price of 2025](https://appleinsider.com/articles/25/02/04/grab-airpods-pro-2-for-169-today-best-price-of-2025?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

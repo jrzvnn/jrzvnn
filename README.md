@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The EC releases its guidelines on prohibited AI practices under the EU&#39;s AI Act, such as using AI to track employees&#39; emotions or manipulate website users &lpar;Foo Yun Chee/Reuters&rpar;](http://www.techmeme.com/250204/p36#a250204p36)
  - [EA reports Q3 net bookings down 6% YoY to $2.22B vs. $2.32B est., net revenue down 3%, forecasts Q4 bookings below est., and announces a $1B share buyback plan &lpar;Zaheer Kachwala/Reuters&rpar;](http://www.techmeme.com/250204/p35#a250204p35)
  - [Match Group reports Q4 revenue down 1% YoY to $860M, forecasts Q1 revenue below est., names Zillow co-founder Spencer Rascoff as CEO; MTCH drops 7%+ after hours &lpar;Natalie Lung/Bloomberg&rpar;](http://www.techmeme.com/250204/p34#a250204p34)
  - [Robotics startup Figure is exiting its Feb. 2024 OpenAI deal, which aimed to develop AI models for robots, to focus on in-house AI after a &quot;major breakthrough&quot; &lpar;Brian Heater/TechCrunch&rpar;](http://www.techmeme.com/250204/p33#a250204p33)
- - [Sources: Meta is merging the teams behind Facebook and Messenger into one unit and shuffling its generative AI group, as it prepares for layoffs next week &lpar;The Information&rpar;](http://www.techmeme.com/250204/p32#a250204p32)
- - [Alphabet expects to invest about $75B in capex in 2025, vs. $59.73B est.; GOOG drops 7%+ after hours after its Q4 revenue missed estimates &lpar;Samantha Subin/CNBC&rpar;](http://www.techmeme.com/250204/p31#a250204p31)<!-- TECH:END -->
+ - [Sources: Meta is merging the teams behind Facebook and Messenger into one unit and shuffling its generative AI group, as it prepares for layoffs next week &lpar;The Information&rpar;](http://www.techmeme.com/250204/p32#a250204p32)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

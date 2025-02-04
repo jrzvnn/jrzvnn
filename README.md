@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Spotify reports Q4 revenue up 16% YoY to &amp;euro;4.2B, MAUs up 12% YoY to 675M, subscribers up 11% YoY to 263M, and &amp;euro;1.14B in 2024 net income, vs. a &amp;euro;532M loss in 2023 &lpar;Anne Steele/Wall Street Journal&rpar;](http://www.techmeme.com/250204/p6#a250204p6)
  - [Inside the Bust That Took Down Pavel Durov—and Upended Telegram](https://www.wired.com/story/pavel-durov-arrest-telegram-content-moderation/)
  - [Elon Musk&#39;s goal seems to amount to a coup over the US administrative state; Musk said he &quot;deleted&quot; the Direct File tax department, but that may not be true &lpar;Elizabeth Lopatto/The Verge&rpar;](http://www.techmeme.com/250204/p5#a250204p5)
  - [Ola founder Bhavish Aggarwal invests $230M in his Indian AI startup Krutrim, and plans to raise $1.15B from outside investors by 2026, to build local AI &lpar;Manish Singh/TechCrunch&rpar;](http://www.techmeme.com/250204/p4#a250204p4)
- - [Maximize Your Earnings With APYs Up to 4.65%. Today&#39;s CD Rates, Feb. 4, 2025](https://www.cnet.com/personal-finance/banking/maximize-your-earnings-with-apys-up-to-4-65-todays-cd-rates-feb-4-2025/#ftag=CAD590a51e)
- - [Sources: Marko Elez, a 25-year-old Elon Musk-linked engineer, has admin privileges over Treasury Department code that controls Social Security payments and more &lpar;Wired&rpar;](http://www.techmeme.com/250204/p3#a250204p3)<!-- TECH:END -->
+ - [Maximize Your Earnings With APYs Up to 4.65%. Today&#39;s CD Rates, Feb. 4, 2025](https://www.cnet.com/personal-finance/banking/maximize-your-earnings-with-apys-up-to-4-65-todays-cd-rates-feb-4-2025/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

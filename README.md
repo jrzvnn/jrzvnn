@@ -159,9 +159,9 @@ R                        1 repo              ░░░░░░░░░░░�
 <!-- TECH:START -->
  - [Hatch Restore 3 Review: A Worthy Upgrade](https://www.wired.com/review/hatch-restore-3/)
  - [An interview with The Sims designer Will Wright on the dollhouse game turning 25, the game&#39;s mechanics, infusing it with chaos, ants, The Sims Online, and more &lpar;Zachary Small/New York Times&rpar;](http://www.techmeme.com/250204/p7#a250204p7)
- - [Best Leaf Blowers in 2025](https://www.cnet.com/news/best-leaf-blowers/#ftag=CAD590a51e)
  - [Spotify reports Q4 revenue up 16% YoY to &amp;euro;4.2B, MAUs up 12% YoY to 675M, subscribers up 11% YoY to 263M, and &amp;euro;1.14B in 2024 net income, vs. a &amp;euro;532M loss in 2023 &lpar;Anne Steele/Wall Street Journal&rpar;](http://www.techmeme.com/250204/p6#a250204p6)
- - [Plan the Perfect Heist All February Long in Payday 3 With PlayStation Plus](https://www.cnet.com/tech/gaming/plan-the-perfect-heist-all-february-long-in-payday-3-with-playstation-plus/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Inside the Bust That Took Down Pavel Durov—and Upended Telegram](https://www.wired.com/story/pavel-durov-arrest-telegram-content-moderation/)
+ - [Elon Musk&#39;s goal seems to amount to a coup over the US administrative state; Musk said he &quot;deleted&quot; the Direct File tax department, but that may not be true &lpar;Elizabeth Lopatto/The Verge&rpar;](http://www.techmeme.com/250204/p5#a250204p5)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

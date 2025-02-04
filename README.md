@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Last call: pick up Apple&#39;s M4 Pro Mac mini for $1,279](https://appleinsider.com/articles/25/02/03/last-call-pick-up-apples-m4-pro-mac-mini-for-1279?utm_medium=rss)
- - [Anthropic details Constitutional Classifiers, a system that aims to guard AI models against jailbreaks, monitoring both inputs and outputs for harmful content &lpar;Cristina Criddle/Financial Times&rpar;](http://www.techmeme.com/250203/p26#a250203p26)
- - [Today&#39;s NYT Connections: Sports Edition Hints and Answers for Feb. 4. #134](https://www.cnet.com/tech/gaming/todays-nyt-connections-sports-edition-hints-and-answers-for-feb-4-134/#ftag=CAD590a51e)
- - [A US district court judge denies Apple&#39;s emergency motion to halt the remedy trial of the DOJ v. Google case, saying it hasn&#39;t demonstrated satisfactory reasons &lpar;Umar Shakir/The Verge&rpar;](http://www.techmeme.com/250203/p25#a250203p25)
- - [Today&#39;s NYT Strands Hints, Answers and Help for Feb. 4, #338](https://www.cnet.com/tech/gaming/todays-nyt-strands-hints-answers-and-help-for-feb-4-338/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Source: Salesforce is cutting 1,000+ roles and will allow displaced workers to apply for other jobs internally; Salesforce had ~73,000 workers as of Jan. 2024 &lpar;Brody Ford/Bloomberg&rpar;](http://www.techmeme.com/250203/p29#a250203p29)
+ - [Sources: Thomas Shedd, GSA&#39;s new Technology Transformation Services director and a Musk ally, told GSA workers the agency will pursue an &quot;AI-first strategy&quot; &lpar;Makena Kelly/Wired&rpar;](http://www.techmeme.com/250203/p28#a250203p28)
+ - [A US appeals court panel appeared skeptical of Google&#39;s bid to overturn a 2023 jury verdict that declared the Play Store an illegal monopoly in the Epic case &lpar;Bloomberg&rpar;](http://www.techmeme.com/250203/p27#a250203p27)
+ - [Elon Musk Ally Tells Staff &#39;AI-First&#39; Is the Future of Key Government Agency](https://www.wired.com/story/elon-musk-lieutenant-gsa-ai-agency/)
+ - [Last call: pick up Apple&#39;s M4 Pro Mac mini for $1,279](https://appleinsider.com/articles/25/02/03/last-call-pick-up-apples-m4-pro-mac-mini-for-1279?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

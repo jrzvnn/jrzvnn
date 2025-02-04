@@ -160,8 +160,8 @@ R                        1 repo              ░░░░░░░░░░░�
  - [The Iconfactory launches Tapestry on the App Store, bringing Bluesky, Mastodon, RSS, and more into a single timeline, with a $1.99/month tier to remove ads &lpar;Ryan Christoffel/9to5Mac&rpar;](http://www.techmeme.com/250204/p14#a250204p14)
  - [Trump&#39;s Plan to Make European Cars More Expensive Has a Fatal Flaw](https://www.wired.com/story/trumps-plan-to-make-european-cars-more-expensive-has-a-fatal-flaw/)
  - [10 Best Gifts for Women Who Are Over This Planet &lpar;2025&rpar;](https://www.wired.com/gallery/gifts-for-women-who-are-over-this-planet/)
- - [Apple wants you to be able to point your iPhone at anything to control it](https://appleinsider.com/articles/25/02/04/apple-wants-you-to-be-able-to-point-your-iphone-at-anything-to-control-it?utm_medium=rss)
- - [Opera launches Opera Air, a free browser focused on mindfulness and mental well-being, including break reminders and ambient soundscapes, for Windows and macOS &lpar;Dominic Preston/The Verge&rpar;](http://www.techmeme.com/250204/p13#a250204p13)<!-- TECH:END -->
+ - [The 5 Best Sunrise Alarm Clocks and How to Choose One](https://www.cnet.com/health/sleep/best-sunrise-alarm-clock/#ftag=CAD590a51e)
+ - [Apple wants you to be able to point your iPhone at anything to control it](https://appleinsider.com/articles/25/02/04/apple-wants-you-to-be-able-to-point-your-iphone-at-anything-to-control-it?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

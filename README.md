@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [AltStore brings first porn app to iPhones in the EU, Apple doesn&#39;t &#39;approve&#39;](https://appleinsider.com/articles/25/02/04/altstore-brings-first-porn-app-to-iphones-in-the-eu-apple-doesnt-approve?utm_medium=rss)
  - [Sources: the Trump admin plans to nominate Arielle Roth, a critic of Biden&#39;s $42.5B broadband infrastructure plan, to lead the NTIA, which oversees the project &lpar;Kelcee Griffis/Bloomberg&rpar;](http://www.techmeme.com/250203/p32#a250203p32)
  - [Elon Musk&#39;s DOGE Is Still Blocking HIV/AIDS Relief Exempted From Foreign Aid Cuts](https://www.wired.com/story/usaid-researchers-email-access/)
  - [Ampere Analysis: the US streaming market will reach $17B in advertising revenue in 2025; 24% of US-based Netflix subscribers are on the Standard with Ads tier &lpar;Adrian Pennington/StreamTV Insider&rpar;](http://www.techmeme.com/250203/p31#a250203p31)
- - [Today&#39;s NYT Connections Hints, Answers and Help for Feb. 4, #604](https://www.cnet.com/tech/gaming/todays-nyt-connections-hints-answers-and-help-for-feb-4-604/#ftag=CAD590a51e)
- - [Microsoft to Drop Free VPN Feature From 365 Subscription This Month](https://www.cnet.com/tech/microsoft-to-drop-free-vpn-feature-from-365-subscription-this-month/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Today&#39;s NYT Connections Hints, Answers and Help for Feb. 4, #604](https://www.cnet.com/tech/gaming/todays-nyt-connections-hints-answers-and-help-for-feb-4-604/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

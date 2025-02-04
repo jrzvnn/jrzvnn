@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Best MagSafe Accessories for iPhone in 2025](https://www.cnet.com/tech/mobile/best-magsafe-and-magnetic-iphone-accessories/#ftag=CAD590a51e)
  - [KitchenAid Promo Codes and Coupons: 10% Off](https://www.wired.com/story/exclusive-kitchenaid-promo-code/)
  - [Peacock Promo Codes and Coupons](https://www.wired.com/story/peacock-promo-code/)
  - [A 25-Year-Old With Elon Musk Ties Has Direct Access to the Federal Payment System](https://www.wired.com/story/elon-musk-associate-bfs-federal-payment-system/)
- - [Nectar Coupon Code: Up to 50% Off](https://www.wired.com/story/nectar-coupon-code/)
- - [China&#39;s State Administration for Market Regulation says it will probe Google for antitrust violations, moments after Trump announced tariffs on Chinese goods &lpar;Josh Xiao/Bloomberg&rpar;](http://www.techmeme.com/250204/p1#a250204p1)<!-- TECH:END -->
+ - [Nectar Coupon Code: Up to 50% Off](https://www.wired.com/story/nectar-coupon-code/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

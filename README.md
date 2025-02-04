@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Nintendo reports Q3 revenue down ~33% YoY to ~$2.8B, net profit down ~33% YoY to ~$831M, both below est, 4.8M Switch sales, and cuts Switch and profit forecasts &lpar;Bloomberg&rpar;](http://www.techmeme.com/250204/p2#a250204p2)
  - [Meet the Hired Guns Who Make Sure School Cyberattacks Stay Hidden](https://www.wired.com/story/meet-the-hired-guns-who-make-sure-school-cyberattacks-stay-hidden/)
- - [Best MagSafe Accessories for iPhone in 2025](https://www.cnet.com/tech/mobile/best-magsafe-and-magnetic-iphone-accessories/#ftag=CAD590a51e)
- - [KitchenAid Promo Codes and Coupons: 10% Off](https://www.wired.com/story/exclusive-kitchenaid-promo-code/)
- - [Peacock Promo Codes and Coupons](https://www.wired.com/story/peacock-promo-code/)
- - [A 25-Year-Old With Elon Musk Ties Has Direct Access to the Federal Payment System](https://www.wired.com/story/elon-musk-associate-bfs-federal-payment-system/)<!-- TECH:END -->
+ - [Best Food Delivery Services of 2025](https://www.cnet.com/tech/services-and-software/best-food-delivery-service/#ftag=CAD590a51e)
+ - [Best Garden Hoses for 2025](https://www.cnet.com/news/best-garden-hoses/#ftag=CAD590a51e)
+ - [Best Showerhead Filters of 2025](https://www.cnet.com/health/personal-care/best-shower-filter/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [EA reports Q3 net bookings down 6% YoY to $2.22B vs. $2.32B est., net revenue down 3%, forecasts Q4 bookings below est., and announces a $1B share buyback plan &lpar;Zaheer Kachwala/Reuters&rpar;](http://www.techmeme.com/250204/p35#a250204p35)
+ - [Match Group reports Q4 revenue down 1% YoY to $860M, forecasts Q1 revenue below est., names Zillow co-founder Spencer Rascoff as CEO; MTCH drops 7%+ after hours &lpar;Natalie Lung/Bloomberg&rpar;](http://www.techmeme.com/250204/p34#a250204p34)
+ - [Robotics startup Figure is exiting its Feb. 2024 OpenAI deal, which aimed to develop AI models for robots, to focus on in-house AI after a &quot;major breakthrough&quot; &lpar;Brian Heater/TechCrunch&rpar;](http://www.techmeme.com/250204/p33#a250204p33)
  - [Sources: Meta is merging the teams behind Facebook and Messenger into one unit and shuffling its generative AI group, as it prepares for layoffs next week &lpar;The Information&rpar;](http://www.techmeme.com/250204/p32#a250204p32)
- - [Alphabet expects to invest about $75B in capex in 2025, vs. $59.73B est.; GOOG drops 7%+ after hours after its Q4 revenue missed estimates &lpar;Samantha Subin/CNBC&rpar;](http://www.techmeme.com/250204/p31#a250204p31)
- - [AMD reports Q4 revenue up 24% YoY to $7.66B, Data Center revenue up 69% to $3.86B, vs. $4.09B est., and forecasts Q1 sales of $6.8B to $7.4B, vs. $7.04B est. &lpar;Ian King/Bloomberg&rpar;](http://www.techmeme.com/250204/p30#a250204p30)
- - [Best Electric Kettles of 2025](https://www.cnet.com/home/kitchen-and-household/best-electric-kettle/#ftag=CAD590a51e)
- - [Apple Watch Owners, You May Be Able to Claim Part of a $20 Million Settlement](https://www.cnet.com/tech/mobile/apple-watch-owners-can-claim-part-of-a-20-million-settlement-how-to-file/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Alphabet expects to invest about $75B in capex in 2025, vs. $59.73B est.; GOOG drops 7%+ after hours after its Q4 revenue missed estimates &lpar;Samantha Subin/CNBC&rpar;](http://www.techmeme.com/250204/p31#a250204p31)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

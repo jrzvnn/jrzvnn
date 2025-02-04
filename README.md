@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Peacock Promo Codes and Coupons](https://www.wired.com/story/peacock-promo-code/)
+ - [A 25-Year-Old With Elon Musk Ties Has Direct Access to the Federal Payment System](https://www.wired.com/story/elon-musk-associate-bfs-federal-payment-system/)
+ - [Nectar Coupon Code: Up to 50% Off](https://www.wired.com/story/nectar-coupon-code/)
  - [China&#39;s State Administration for Market Regulation says it will probe Google for antitrust violations, moments after Trump announced tariffs on Chinese goods &lpar;Josh Xiao/Bloomberg&rpar;](http://www.techmeme.com/250204/p1#a250204p1)
- - [Today&#39;s NYT Mini Crossword Answers for Tuesday, Feb. 4](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-tuesday-feb-4/#ftag=CAD590a51e)
- - [How to create reminders in Calendar in iOS 18](https://appleinsider.com/inside/ios-18/tips/how-to-create-reminders-in-calendar-in-ios-18?utm_medium=rss)
- - [Salt Lake City-based Jump, which offers AI tools for financial advisors and other financial services providers, raised a $20M Series A led by Battery Ventures &lpar;FinSMEs&rpar;](http://www.techmeme.com/250203/p33#a250203p33)
- - [AltStore brings first porn app to iPhones in the EU, Apple doesn&#39;t &#39;approve&#39;](https://appleinsider.com/articles/25/02/04/altstore-brings-first-porn-app-to-iphones-in-the-eu-apple-doesnt-approve?utm_medium=rss)<!-- TECH:END -->
+ - [Today&#39;s NYT Mini Crossword Answers for Tuesday, Feb. 4](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-tuesday-feb-4/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

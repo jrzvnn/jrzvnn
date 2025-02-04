@@ -161,7 +161,7 @@ R                        1 repo              ░░░░░░░░░░░�
  - [New macOS malware disguises itself as Chrome &amp; Zoom installers](https://appleinsider.com/articles/25/02/04/new-macos-malware-disguises-itself-as-chrome-zoom-installers?utm_medium=rss)
  - [Sources: the US SEC is moving to scale back a special unit of 50+ lawyers and staff members that had been dedicated to bringing crypto enforcement actions &lpar;New York Times&rpar;](http://www.techmeme.com/250204/p37#a250204p37)
  - [The EC releases its guidelines on prohibited AI practices under the EU&#39;s AI Act, such as using AI to track employees&#39; emotions or manipulate website users &lpar;Foo Yun Chee/Reuters&rpar;](http://www.techmeme.com/250204/p36#a250204p36)
- - [EA reports Q3 net bookings down 6% YoY to $2.22B vs. $2.32B est., net revenue down 3%, forecasts Q4 bookings below est., and announces a $1B share buyback plan &lpar;Zaheer Kachwala/Reuters&rpar;](http://www.techmeme.com/250204/p35#a250204p35)<!-- TECH:END -->
+ - [Best Whitening Toothpaste of 2025, According to Dentists](https://www.cnet.com/health/personal-care/best-whitening-toothpaste/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

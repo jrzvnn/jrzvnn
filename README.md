@@ -160,7 +160,7 @@ R                        1 repo              ░░░░░░░░░░░�
  - [Trump&#39;s Plan to Make European Cars More Expensive Has a Fatal Flaw](https://www.wired.com/story/trumps-plan-to-make-european-cars-more-expensive-has-a-fatal-flaw/)
  - [10 Best Gifts for Women Who Are Over This Planet &lpar;2025&rpar;](https://www.wired.com/gallery/gifts-for-women-who-are-over-this-planet/)
  - [Apple wants you to be able to point your iPhone at anything to control it](https://appleinsider.com/articles/25/02/04/apple-wants-you-to-be-able-to-point-your-iphone-at-anything-to-control-it?utm_medium=rss)
- - [Opera launches Opera Air, a free browser focusing on mindfulness and mental well-being, including break reminders and ambient soundscapes, for Windows and macOS &lpar;Dominic Preston/The Verge&rpar;](http://www.techmeme.com/250204/p13#a250204p13)
+ - [Opera launches Opera Air, a free browser focused on mindfulness and mental well-being, including break reminders and ambient soundscapes, for Windows and macOS &lpar;Dominic Preston/The Verge&rpar;](http://www.techmeme.com/250204/p13#a250204p13)
  - [Cybercriminals are using AI to target macOS in 2025](https://appleinsider.com/articles/25/02/04/cybercriminals-are-using-ai-to-target-macos-in-2025?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour

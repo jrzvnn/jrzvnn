@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Ola founder Bhavish Aggarwal invests $230M in his Indian AI startup Krutrim, and plans to raise $1.15B from outside investors by 2026, to build local AI &lpar;Manish Singh/TechCrunch&rpar;](http://www.techmeme.com/250204/p4#a250204p4)
  - [Sources: Marko Elez, a 25-year-old Elon Musk-linked engineer, has admin privileges over Treasury Department code that controls Social Security payments and more &lpar;Wired&rpar;](http://www.techmeme.com/250204/p3#a250204p3)
  - [Lovehoney Fifty Shades of Grey Greedy Girl Rabbit Vibrator Review: Basic Vibes](https://www.wired.com/review/lovehoney-fifty-shades-of-grey-greedy-girl-rabbit-vibrator/)
  - [Nintendo reports Q3 revenue down ~33% YoY to ~$2.8B, net profit down ~33% YoY to ~$831M, both below est, 4.8M Switch sales, and cuts Switch and profit forecasts &lpar;Bloomberg&rpar;](http://www.techmeme.com/250204/p2#a250204p2)
- - [Meet the Hired Guns Who Make Sure School Cyberattacks Stay Hidden](https://www.wired.com/story/meet-the-hired-guns-who-make-sure-school-cyberattacks-stay-hidden/)
- - [Best Food Delivery Services of 2025](https://www.cnet.com/tech/services-and-software/best-food-delivery-service/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Meet the Hired Guns Who Make Sure School Cyberattacks Stay Hidden](https://www.wired.com/story/meet-the-hired-guns-who-make-sure-school-cyberattacks-stay-hidden/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

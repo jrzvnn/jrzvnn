@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The Best Early Presidents’ Day Mattress Deals &lpar;and Bedding Too!&rpar;](https://www.wired.com/story/presidents-day-mattress-deals-2025/)
+ - [Best Filtered Water Bottles of 2025](https://www.cnet.com/health/best-filtered-water-bottle/#ftag=CAD590a51e)
+ - [No, Elon Musk Didn&#39;t End the Free Direct File Tax Filing Program](https://www.cnet.com/personal-finance/taxes/no-elon-musk-didnt-end-the-free-direct-file-tax-filing-program/#ftag=CAD590a51e)
  - [The 44 Best Shows on Hulu Right Now &lpar;February 2025&rpar;](https://www.wired.com/story/best-tv-shows-hulu-this-week/)
- - [Will You Owe Taxes With the New IRS Rule for Venmo, PayPal and Cash App Payments?](https://www.cnet.com/personal-finance/taxes/will-you-owe-taxes-because-of-the-new-irs-rule-for-venmo-paypal-and-cash-app-payments/#ftag=CAD590a51e)
- - [Best Headsets for Working From Home in 2025](https://www.cnet.com/tech/mobile/best-headphones-for-work-at-home/#ftag=CAD590a51e)
- - [Mark Zuckerberg says users on Threads can now make their custom feeds public and follow custom feeds made by others &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/250204/p24#a250204p24)
- - [Super Bowl 2025: Watch All the AI-Related Ads Coming to the Big Game](https://www.cnet.com/tech/services-and-software/super-bowl-2025-watch-all-the-ai-related-ads-coming-to-the-big-game/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Best Running Shoes for Women in 2025](https://www.cnet.com/health/fitness/best-womens-running-shoes/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

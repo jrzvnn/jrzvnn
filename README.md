@@ -160,8 +160,8 @@ R                        1 repo              ░░░░░░░░░░░�
  - [Lovehoney Fifty Shades of Grey Greedy Girl Rabbit Vibrator Review: Basic Vibes](https://www.wired.com/review/lovehoney-fifty-shades-of-grey-greedy-girl-rabbit-vibrator/)
  - [Nintendo reports Q3 revenue down ~33% YoY to ~$2.8B, net profit down ~33% YoY to ~$831M, both below est, 4.8M Switch sales, and cuts Switch and profit forecasts &lpar;Bloomberg&rpar;](http://www.techmeme.com/250204/p2#a250204p2)
  - [Meet the Hired Guns Who Make Sure School Cyberattacks Stay Hidden](https://www.wired.com/story/meet-the-hired-guns-who-make-sure-school-cyberattacks-stay-hidden/)
- - [Best Food Delivery Services of 2025](https://www.cnet.com/tech/services-and-software/best-food-delivery-service/#ftag=CAD590a51e)
- - [Best Garden Hoses for 2025](https://www.cnet.com/news/best-garden-hoses/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Best Budget Noise-Canceling Headphones Under $100 for 2025](https://www.cnet.com/tech/mobile/best-budget-noise-canceling-headphones-under-100/#ftag=CAD590a51e)
+ - [Best Food Delivery Services of 2025](https://www.cnet.com/tech/services-and-software/best-food-delivery-service/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

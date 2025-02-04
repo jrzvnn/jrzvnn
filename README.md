@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [ByteDance researchers demo OmniHuman-1, an AI system that is &quot;easily heads and shoulders above previous deepfake techniques&quot;, if ByteDance&#39;s clips are accurate &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/250204/p16#a250204p16)
  - [Grab AirPods Pro 2 for $169 today, best price of 2025](https://appleinsider.com/articles/25/02/04/grab-airpods-pro-2-for-169-today-best-price-of-2025?utm_medium=rss)
  - [New Apple Invites app is now live on the App Store](https://appleinsider.com/articles/25/02/04/rumored-apple-invites-app-is-now-live-on-the-app-store?utm_medium=rss)
- - [Federal Workers Sue to Disconnect DOGE Server](https://www.wired.com/story/federal-workers-sue-over-doge-server/)
- - [Apple debuts Invites, an app to help plan events like birthdays, graduations, and more, with Image Playground and Writing Tools tie-ins, for iCloud+ subscribers &lpar;Juli Clover/MacRumors&rpar;](http://www.techmeme.com/250204/p15#a250204p15)
- - [The Iconfactory launches Tapestry on the App Store, bringing Bluesky, Mastodon, RSS, and more into a single timeline, with a $1.99/month tier to remove ads &lpar;Ryan Christoffel/9to5Mac&rpar;](http://www.techmeme.com/250204/p14#a250204p14)<!-- TECH:END -->
+ - [Best Tennis Balls of 2025](https://www.cnet.com/health/fitness/best-tennis-balls/#ftag=CAD590a51e)
+ - [Federal Workers Sue to Disconnect DOGE Server](https://www.wired.com/story/federal-workers-sue-over-doge-server/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

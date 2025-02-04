@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Trump&#39;s Plan to Make European Cars More Expensive Has a Fatal Flaw](https://www.wired.com/story/trumps-plan-to-make-european-cars-more-expensive-has-a-fatal-flaw/)
+ - [10 Best Gifts for Women Who Are Over This Planet &lpar;2025&rpar;](https://www.wired.com/gallery/gifts-for-women-who-are-over-this-planet/)
  - [Apple wants you to be able to point your iPhone at anything to control it](https://appleinsider.com/articles/25/02/04/apple-wants-you-to-be-able-to-point-your-iphone-at-anything-to-control-it?utm_medium=rss)
  - [Opera launches Opera Air, a free browser focusing on mindfulness and mental well-being, including break reminders and ambient soundscapes, for Windows and macOS &lpar;Dominic Preston/The Verge&rpar;](http://www.techmeme.com/250204/p13#a250204p13)
- - [Cybercriminals are using AI to target macOS in 2025](https://appleinsider.com/articles/25/02/04/cybercriminals-are-using-ai-to-target-macos-in-2025?utm_medium=rss)
- - [Chris Anderson Is Giving TED Away to Whoever Has the Best Idea for Its Future](https://www.wired.com/story/chris-anderson-steps-down-ted/)
- - [Toronto-based programmatic ad startup StackAdapt raised $235M led by Teachers&#39; Venture Growth, after raising $300M from Summit Partners in 2022 &lpar;Ingrid Lunden/TechCrunch&rpar;](http://www.techmeme.com/250204/p12#a250204p12)<!-- TECH:END -->
+ - [Cybercriminals are using AI to target macOS in 2025](https://appleinsider.com/articles/25/02/04/cybercriminals-are-using-ai-to-target-macos-in-2025?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

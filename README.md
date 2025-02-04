@@ -158,10 +158,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- TECH:START -->
  - [The 44 Best Shows on Hulu Right Now &lpar;February 2025&rpar;](https://www.wired.com/story/best-tv-shows-hulu-this-week/)
+ - [Will You Owe Taxes With the New IRS Rule for Venmo, PayPal and Cash App Payments?](https://www.cnet.com/personal-finance/taxes/will-you-owe-taxes-because-of-the-new-irs-rule-for-venmo-paypal-and-cash-app-payments/#ftag=CAD590a51e)
+ - [Best Headsets for Working From Home in 2025](https://www.cnet.com/tech/mobile/best-headphones-for-work-at-home/#ftag=CAD590a51e)
  - [Mark Zuckerberg says users on Threads can now make their custom feeds public and follow custom feeds made by others &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/250204/p24#a250204p24)
- - [Elon Musk accused an X user of &quot;a crime&quot; who named federal staff in a post that X then removed--showing what actual government social media censorship looks like &lpar;Mike Masnick/Techdirt&rpar;](http://www.techmeme.com/250204/p23#a250204p23)
- - [AppleCare+ moves to subscription-only model](https://appleinsider.com/articles/25/02/04/applecare-moves-to-subscription-only-model?utm_medium=rss)
- - [How the new Apple Invites app works, and when you want to use it](https://appleinsider.com/inside/ios-18/tips/how-the-new-apple-invites-app-works-and-when-you-want-to-use-it?utm_medium=rss)<!-- TECH:END -->
+ - [Super Bowl 2025: Watch All the AI-Related Ads Coming to the Big Game](https://www.cnet.com/tech/services-and-software/super-bowl-2025-watch-all-the-ai-related-ads-coming-to-the-big-game/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

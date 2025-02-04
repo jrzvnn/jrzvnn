@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Xbox Wireless Headset Review &lpar;2024&rpar;: Pair and Play](https://www.wired.com/review/xbox-wireless-headset-2024/)
+ - [The 5 Best Heating Pads in 2025](https://www.cnet.com/health/the-best-heating-pads-according-the-cnet-staff-that-use-them/#ftag=CAD590a51e)
+ - [Literally Everything You Need to Know About Fluoride in Our Drinking Water](https://www.cnet.com/health/medical/literally-everything-need-know-about-fluoride-in-drinking-water/#ftag=CAD590a51e)
  - [PayPal reports Q4 revenue up 4% YoY to $8.4B, adjusted net income down 1.9% YoY to $1.21B, above est., payment volume up 7% to $437.8B, and plans a $15B buyback &lpar;Paige Smith/Bloomberg&rpar;](http://www.techmeme.com/250204/p10#a250204p10)
- - [Self-driving truck startup Waabi partners with Volvo to develop and deploy autonomous trucks, starting with pilots in Texas and a launch in late 2025 or 2026 &lpar;Rebecca Bellan/TechCrunch&rpar;](http://www.techmeme.com/250204/p9#a250204p9)
- - [An investigation into 300+ cyberattacks against US K-12 schools since 2020 shows how schools can withhold crucial details from affected students and parents &lpar;Mark Keierleber/Wired&rpar;](http://www.techmeme.com/250204/p8#a250204p8)
- - [Hatch Restore 3 Review: A Worthy Upgrade](https://www.wired.com/review/hatch-restore-3/)
- - [An interview with The Sims designer Will Wright on the dollhouse game turning 25, the game&#39;s mechanics, infusing it with chaos, ants, The Sims Online, and more &lpar;Zachary Small/New York Times&rpar;](http://www.techmeme.com/250204/p7#a250204p7)<!-- TECH:END -->
+ - [Best Smoke Detectors for 2025](https://www.cnet.com/home/security/best-smoke-detector/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

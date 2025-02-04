@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The 44 Best Shows on Hulu Right Now &lpar;February 2025&rpar;](https://www.wired.com/story/best-tv-shows-hulu-this-week/)
  - [Mark Zuckerberg says users on Threads can now make their custom feeds public and follow custom feeds made by others &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/250204/p24#a250204p24)
  - [Elon Musk accused an X user of &quot;a crime&quot; who named federal staff in a post that X then removed--showing what actual government social media censorship looks like &lpar;Mike Masnick/Techdirt&rpar;](http://www.techmeme.com/250204/p23#a250204p23)
  - [AppleCare+ moves to subscription-only model](https://appleinsider.com/articles/25/02/04/applecare-moves-to-subscription-only-model?utm_medium=rss)
- - [How the new Apple Invites app works, and when you want to use it](https://appleinsider.com/inside/ios-18/tips/how-the-new-apple-invites-app-works-and-when-you-want-to-use-it?utm_medium=rss)
- - [Apple raises the monthly AppleCare+ price for iPhone users by $0.50 in the US and will only offer one-time AppleCare+ purchase options in its online store &lpar;Juli Clover/MacRumors&rpar;](http://www.techmeme.com/250204/p22#a250204p22)<!-- TECH:END -->
+ - [How the new Apple Invites app works, and when you want to use it](https://appleinsider.com/inside/ios-18/tips/how-the-new-apple-invites-app-works-and-when-you-want-to-use-it?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

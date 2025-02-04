@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [KitchenAid Promo Codes and Coupons: 10% Off](https://www.wired.com/story/exclusive-kitchenaid-promo-code/)
  - [Peacock Promo Codes and Coupons](https://www.wired.com/story/peacock-promo-code/)
  - [A 25-Year-Old With Elon Musk Ties Has Direct Access to the Federal Payment System](https://www.wired.com/story/elon-musk-associate-bfs-federal-payment-system/)
  - [Nectar Coupon Code: Up to 50% Off](https://www.wired.com/story/nectar-coupon-code/)
- - [China&#39;s State Administration for Market Regulation says it will probe Google for antitrust violations, moments after Trump announced tariffs on Chinese goods &lpar;Josh Xiao/Bloomberg&rpar;](http://www.techmeme.com/250204/p1#a250204p1)
- - [Today&#39;s NYT Mini Crossword Answers for Tuesday, Feb. 4](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-tuesday-feb-4/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [China&#39;s State Administration for Market Regulation says it will probe Google for antitrust violations, moments after Trump announced tariffs on Chinese goods &lpar;Josh Xiao/Bloomberg&rpar;](http://www.techmeme.com/250204/p1#a250204p1)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

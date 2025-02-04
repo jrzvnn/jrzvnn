@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Google Lifts a Ban on Using Its AI for Weapons and Surveillance](https://www.wired.com/story/google-responsible-ai-principles/)
  - [Google drops language from its AI Principles that said it would not pursue applications &quot;likely to cause overall harm&quot;, including weapons and surveillance &lpar;Washington Post&rpar;](http://www.techmeme.com/250204/p26#a250204p26)
  - [A US judge says Elon Musk&#39;s claims of harm from OpenAI are a &quot;stretch&quot;, but she wouldn&#39;t stop the case from moving to trial as soon as next year &lpar;Associated Press&rpar;](http://www.techmeme.com/250204/p25#a250204p25)
  - [The Best Early Presidents’ Day Mattress Deals &lpar;and Bedding Too!&rpar;](https://www.wired.com/story/presidents-day-mattress-deals-2025/)
- - [Best Filtered Water Bottles of 2025](https://www.cnet.com/health/best-filtered-water-bottle/#ftag=CAD590a51e)
- - [No, Elon Musk Didn&#39;t End the Free Direct File Tax Filing Program](https://www.cnet.com/personal-finance/taxes/no-elon-musk-didnt-end-the-free-direct-file-tax-filing-program/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Best Filtered Water Bottles of 2025](https://www.cnet.com/health/best-filtered-water-bottle/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

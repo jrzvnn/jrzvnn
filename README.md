@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Sources: Meta is merging the teams behind Facebook and Messenger into one unit and shuffling its generative AI group, as it prepares for layoffs next week &lpar;The Information&rpar;](http://www.techmeme.com/250204/p32#a250204p32)
  - [Alphabet expects to invest about $75B in capex in 2025, vs. $59.73B est.; GOOG drops 7%+ after hours after its Q4 revenue missed estimates &lpar;Samantha Subin/CNBC&rpar;](http://www.techmeme.com/250204/p31#a250204p31)
  - [AMD reports Q4 revenue up 24% YoY to $7.66B, Data Center revenue up 69% to $3.86B, vs. $4.09B est., and forecasts Q1 sales of $6.8B to $7.4B, vs. $7.04B est. &lpar;Ian King/Bloomberg&rpar;](http://www.techmeme.com/250204/p30#a250204p30)
  - [Best Electric Kettles of 2025](https://www.cnet.com/home/kitchen-and-household/best-electric-kettle/#ftag=CAD590a51e)
- - [Apple Watch Owners, You May Be Able to Claim Part of a $20 Million Settlement](https://www.cnet.com/tech/mobile/apple-watch-owners-can-claim-part-of-a-20-million-settlement-how-to-file/#ftag=CAD590a51e)
- - [Alphabet reports YouTube Q4 ad revenue up 14% YoY to $10.47B, vs. $10.23B est., says Google Cloud and YouTube ended 2024 with a $110B annual revenue run rate &lpar;Todd Spangler/Variety&rpar;](http://www.techmeme.com/250204/p29#a250204p29)<!-- TECH:END -->
+ - [Apple Watch Owners, You May Be Able to Claim Part of a $20 Million Settlement](https://www.cnet.com/tech/mobile/apple-watch-owners-can-claim-part-of-a-20-million-settlement-how-to-file/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

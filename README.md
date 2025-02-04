@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Opera launches Opera Air, a free browser focusing on mindfulness and mental well-being, including break reminders and ambient soundscapes, for Windows and macOS &lpar;Dominic Preston/The Verge&rpar;](http://www.techmeme.com/250204/p13#a250204p13)
+ - [Cybercriminals are using AI to target macOS in 2025](https://appleinsider.com/articles/25/02/04/cybercriminals-are-using-ai-to-target-macos-in-2025?utm_medium=rss)
  - [Chris Anderson Is Giving TED Away to Whoever Has the Best Idea for Its Future](https://www.wired.com/story/chris-anderson-steps-down-ted/)
  - [Toronto-based programmatic ad startup StackAdapt raised $235M led by Teachers&#39; Venture Growth, after raising $300M from Summit Partners in 2022 &lpar;Ingrid Lunden/TechCrunch&rpar;](http://www.techmeme.com/250204/p12#a250204p12)
- - [Sources: China is looking at launching a formal probe into Intel; a source says whether it was officially launched could be affected by US-China relations &lpar;Financial Times&rpar;](http://www.techmeme.com/250204/p11#a250204p11)
- - [Best Sim Racing Cockpit for 2025](https://www.cnet.com/roadshow/news/best-sim-racing-cockpit/#ftag=CAD590a51e)
- - [Are You Pooping Enough to Be Considered Healthy?](https://www.cnet.com/health/medical/are-you-pooping-enough-to-be-considered-healthy/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Sources: China is looking at launching a formal probe into Intel; a source says whether such a probe is officially launched could depend on US-China relations &lpar;Financial Times&rpar;](http://www.techmeme.com/250204/p11#a250204p11)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

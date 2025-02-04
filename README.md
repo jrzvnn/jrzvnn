@@ -161,7 +161,7 @@ R                        1 repo              ░░░░░░░░░░░�
  - [AppleCare+ moves to subscription-only model](https://appleinsider.com/articles/25/02/04/applecare-moves-to-subscription-only-model?utm_medium=rss)
  - [How the new Apple Invites app works, and when you want to use it](https://appleinsider.com/inside/ios-18/tips/how-the-new-apple-invites-app-works-and-when-you-want-to-use-it?utm_medium=rss)
  - [Apple raises the monthly AppleCare+ price for iPhone users by $0.50 in the US and will only offer one-time AppleCare+ purchase options in its online store &lpar;Juli Clover/MacRumors&rpar;](http://www.techmeme.com/250204/p22#a250204p22)
- - [Best Over-the-Counter Hearing Aids to Try in 2025](https://www.cnet.com/health/medical/best-over-the-counter-hearing-aids/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Adobe adds &quot;contract intelligence capabilities&quot; to Acrobat&#39;s $4.99 per month AI Assistant, letting the PDF manager summarize complicated contract language &lpar;Jess Weatherbed/The Verge&rpar;](http://www.techmeme.com/250204/p21#a250204p21)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

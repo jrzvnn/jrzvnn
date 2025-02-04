@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [PayPal reports Q4 revenue up 4% YoY to $8.4B, adjusted net income down 1.9% YoY to $1.21B, above est., payment volume up 7% to $437.8B, and plans a $15B buyback &lpar;Paige Smith/Bloomberg&rpar;](http://www.techmeme.com/250204/p10#a250204p10)
+ - [Self-driving truck startup Waabi partners with Volvo to develop and deploy autonomous trucks, starting with pilots in Texas and a launch in late 2025 or 2026 &lpar;Rebecca Bellan/TechCrunch&rpar;](http://www.techmeme.com/250204/p9#a250204p9)
  - [An investigation into 300+ cyberattacks against US K-12 schools since 2020 shows how schools can withhold crucial details from affected students and parents &lpar;Mark Keierleber/Wired&rpar;](http://www.techmeme.com/250204/p8#a250204p8)
  - [Hatch Restore 3 Review: A Worthy Upgrade](https://www.wired.com/review/hatch-restore-3/)
- - [An interview with The Sims designer Will Wright on the dollhouse game turning 25, the game&#39;s mechanics, infusing it with chaos, ants, The Sims Online, and more &lpar;Zachary Small/New York Times&rpar;](http://www.techmeme.com/250204/p7#a250204p7)
- - [Best Leaf Blowers in 2025](https://www.cnet.com/news/best-leaf-blowers/#ftag=CAD590a51e)
- - [Spotify reports Q4 revenue up 16% YoY to &amp;euro;4.2B, MAUs up 12% YoY to 675M, subscribers up 11% YoY to 263M, and &amp;euro;1.14B in 2024 net income, vs. a &amp;euro;532M loss in 2023 &lpar;Anne Steele/Wall Street Journal&rpar;](http://www.techmeme.com/250204/p6#a250204p6)<!-- TECH:END -->
+ - [An interview with The Sims designer Will Wright on the dollhouse game turning 25, the game&#39;s mechanics, infusing it with chaos, ants, The Sims Online, and more &lpar;Zachary Small/New York Times&rpar;](http://www.techmeme.com/250204/p7#a250204p7)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

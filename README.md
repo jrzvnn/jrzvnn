@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Elon Musk accused an X user of &quot;a crime&quot; who named federal staff in a post that X then removed--showing what actual government social media censorship looks like &lpar;Mike Masnick/Techdirt&rpar;](http://www.techmeme.com/250204/p23#a250204p23)
+ - [AppleCare+ moves to subscription-only model](https://appleinsider.com/articles/25/02/04/applecare-moves-to-subscription-only-model?utm_medium=rss)
  - [How the new Apple Invites app works, and when you want to use it](https://appleinsider.com/inside/ios-18/tips/how-the-new-apple-invites-app-works-and-when-you-want-to-use-it?utm_medium=rss)
  - [Apple raises the monthly AppleCare+ price for iPhone users by $0.50 in the US and will only offer one-time AppleCare+ purchase options in its online store &lpar;Juli Clover/MacRumors&rpar;](http://www.techmeme.com/250204/p22#a250204p22)
- - [Adobe adds &quot;contract intelligence capabilities&quot; to Acrobat&#39;s $4.99 per month AI Assistant, letting the PDF manager summarize complicated contract language &lpar;Jess Weatherbed/The Verge&rpar;](http://www.techmeme.com/250204/p21#a250204p21)
- - [Nomad Universal Apple Watch cable review: This $100 cable simplifies your charging setup](https://appleinsider.com/articles/25/02/04/nomad-universal-apple-watch-cable-review-this-100-cable-simplifies-your-charging-setup?utm_medium=rss)
- - [Memo: Cruise is laying off 50% of its staff, after GM cut funding to robotaxi operations and shifts its focus to tech like hands-free driver assistance &lpar;Rebecca Bellan/TechCrunch&rpar;](http://www.techmeme.com/250204/p19#a250204p19)<!-- TECH:END -->
+ - [Adobe adds &quot;contract intelligence capabilities&quot; to Acrobat&#39;s $4.99 per month AI Assistant, letting the PDF manager summarize complicated contract language &lpar;Jess Weatherbed/The Verge&rpar;](http://www.techmeme.com/250204/p21#a250204p21)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

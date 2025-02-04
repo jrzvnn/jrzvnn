@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [AMD reports Q4 revenue up 24% YoY to $7.66B, Data Center revenue up 69% to $3.86B, vs. $4.09B est., and forecasts Q1 sales of $6.8B to $7.4B, vs. $7.04B est. &lpar;Ian King/Bloomberg&rpar;](http://www.techmeme.com/250204/p30#a250204p30)
+ - [Best Electric Kettles of 2025](https://www.cnet.com/home/kitchen-and-household/best-electric-kettle/#ftag=CAD590a51e)
+ - [Apple Watch Owners, You May Be Able to Claim Part of a $20 Million Settlement](https://www.cnet.com/tech/mobile/apple-watch-owners-can-claim-part-of-a-20-million-settlement-how-to-file/#ftag=CAD590a51e)
  - [Alphabet reports YouTube Q4 ad revenue up 14% YoY to $10.47B, vs. $10.23B est., says Google Cloud and YouTube ended 2024 with a $110B annual revenue run rate &lpar;Todd Spangler/Variety&rpar;](http://www.techmeme.com/250204/p29#a250204p29)
- - [Snap reports Q4 revenue up 14% YoY to $1.56B, vs. $1.33B est., global DAUs up 9%, issues light Q1 guidance, names Ajit Mohan as CBO; SNAP jumps 10%+ after hours &lpar;Jonathan Vanian/CNBC&rpar;](http://www.techmeme.com/250204/p28#a250204p28)
- - [Alphabet Q4: revenue up 12% YoY to $96.47B, net income up 28% to $26.54B, Google Cloud revenue up 30% to $12B, and Google Services revenue up 10% to $84.1B &lpar;Alphabet Inc&rpar;](http://www.techmeme.com/250204/p27#a250204p27)
- - [Google Lifts a Ban on Using Its AI for Weapons and Surveillance](https://www.wired.com/story/google-responsible-ai-principles/)
- - [Google drops language from its AI Principles that said it would not pursue applications &quot;likely to cause overall harm&quot;, including weapons and surveillance &lpar;Washington Post&rpar;](http://www.techmeme.com/250204/p26#a250204p26)<!-- TECH:END -->
+ - [Best Minimalist Wallet for 2025: I Tested Dozens of Different Shapes and Sizes -- Here Are the Very Best](https://www.cnet.com/tech/best-minimalist-wallet/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

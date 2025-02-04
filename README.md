@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Sources: the head of the US AI Safety Institute, Elizabeth Kelly, is set to leave by the end of the week; Kelly was appointed to the position in February 2024 &lpar;Bloomberg&rpar;](http://www.techmeme.com/250204/p39#a250204p39)
  - [Austin-based SailPoint, which sells identity management tools, and parent Thoma Bravo aim to raise up to $1B in SailPoint&#39;s US IPO, targeting a $11.5B valuation &lpar;Arasu Kannagi Basil/Reuters&rpar;](http://www.techmeme.com/250204/p38#a250204p38)
  - [New macOS malware disguises itself as Chrome &amp; Zoom installers](https://appleinsider.com/articles/25/02/04/new-macos-malware-disguises-itself-as-chrome-zoom-installers?utm_medium=rss)
  - [Sources: the US SEC is moving to scale back a special unit of 50+ lawyers and staff members that had been dedicated to bringing crypto enforcement actions &lpar;New York Times&rpar;](http://www.techmeme.com/250204/p37#a250204p37)
- - [The EC releases its guidelines on prohibited AI practices under the EU&#39;s AI Act, such as using AI to track employees&#39; emotions or manipulate website users &lpar;Foo Yun Chee/Reuters&rpar;](http://www.techmeme.com/250204/p36#a250204p36)
- - [Best Whitening Toothpaste of 2025, According to Dentists](https://www.cnet.com/health/personal-care/best-whitening-toothpaste/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [The EC releases its guidelines on prohibited AI practices under the EU&#39;s AI Act, such as using AI to track employees&#39; emotions or manipulate website users &lpar;Foo Yun Chee/Reuters&rpar;](http://www.techmeme.com/250204/p36#a250204p36)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

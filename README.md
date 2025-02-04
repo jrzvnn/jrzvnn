@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Best Tested Walking Pads &lpar;2025&rpar;: Sperax, WalkingPad, Egofit](https://www.wired.com/story/best-walking-pads/)
  - [Xbox Wireless Headset Review &lpar;2024&rpar;: Pair and Play](https://www.wired.com/review/xbox-wireless-headset-2024/)
  - [The 5 Best Heating Pads in 2025](https://www.cnet.com/health/the-best-heating-pads-according-the-cnet-staff-that-use-them/#ftag=CAD590a51e)
  - [Literally Everything You Need to Know About Fluoride in Our Drinking Water](https://www.cnet.com/health/medical/literally-everything-need-know-about-fluoride-in-drinking-water/#ftag=CAD590a51e)
- - [PayPal reports Q4 revenue up 4% YoY to $8.4B, adjusted net income down 1.9% YoY to $1.21B, above est., payment volume up 7% to $437.8B, and plans a $15B buyback &lpar;Paige Smith/Bloomberg&rpar;](http://www.techmeme.com/250204/p10#a250204p10)
- - [Best Smoke Detectors for 2025](https://www.cnet.com/home/security/best-smoke-detector/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [PayPal reports Q4 revenue up 4% YoY to $8.4B, adjusted net income down 1.9% YoY to $1.21B, above est., payment volume up 7% to $437.8B, and plans a $15B buyback &lpar;Paige Smith/Bloomberg&rpar;](http://www.techmeme.com/250204/p10#a250204p10)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

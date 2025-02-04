@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Alphabet reports YouTube Q4 ad revenue up 14% YoY to $10.47B, vs. $10.23B est., says Google Cloud and YouTube ended 2024 with a $110B annual revenue run rate &lpar;Todd Spangler/Variety&rpar;](http://www.techmeme.com/250204/p29#a250204p29)
+ - [Snap reports Q4 revenue up 14% YoY to $1.56B, vs. $1.33B est., global DAUs up 9%, issues light Q1 guidance, names Ajit Mohan as CBO; SNAP jumps 10%+ after hours &lpar;Jonathan Vanian/CNBC&rpar;](http://www.techmeme.com/250204/p28#a250204p28)
  - [Alphabet Q4: revenue up 12% YoY to $96.47B, net income up 28% to $26.54B, Google Cloud revenue up 30% to $12B, and Google Services revenue up 10% to $84.1B &lpar;Alphabet Inc&rpar;](http://www.techmeme.com/250204/p27#a250204p27)
  - [Google Lifts a Ban on Using Its AI for Weapons and Surveillance](https://www.wired.com/story/google-responsible-ai-principles/)
- - [Google drops language from its AI Principles that said it would not pursue applications &quot;likely to cause overall harm&quot;, including weapons and surveillance &lpar;Washington Post&rpar;](http://www.techmeme.com/250204/p26#a250204p26)
- - [A US judge says Elon Musk&#39;s claims of harm from OpenAI are a &quot;stretch&quot;, but she wouldn&#39;t stop the case from moving to trial as soon as next year &lpar;Associated Press&rpar;](http://www.techmeme.com/250204/p25#a250204p25)
- - [The Best Early Presidents’ Day Mattress Deals &lpar;and Bedding Too!&rpar;](https://www.wired.com/story/presidents-day-mattress-deals-2025/)<!-- TECH:END -->
+ - [Google drops language from its AI Principles that said it would not pursue applications &quot;likely to cause overall harm&quot;, including weapons and surveillance &lpar;Washington Post&rpar;](http://www.techmeme.com/250204/p26#a250204p26)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

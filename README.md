@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [New Apple Invites app is now live on the App Store](https://appleinsider.com/articles/25/02/04/rumored-apple-invites-app-is-now-live-on-the-app-store?utm_medium=rss)
+ - [Federal Workers Sue to Disconnect DOGE Server](https://www.wired.com/story/federal-workers-sue-over-doge-server/)
  - [Apple debuts Invites, an app to help plan events like birthdays, graduations, and more, with Image Playground and Writing Tools tie-ins, for iCloud+ subscribers &lpar;Juli Clover/MacRumors&rpar;](http://www.techmeme.com/250204/p15#a250204p15)
  - [The Iconfactory launches Tapestry on the App Store, bringing Bluesky, Mastodon, RSS, and more into a single timeline, with a $1.99/month tier to remove ads &lpar;Ryan Christoffel/9to5Mac&rpar;](http://www.techmeme.com/250204/p14#a250204p14)
- - [Trump&#39;s Plan to Make European Cars More Expensive Has a Fatal Flaw](https://www.wired.com/story/trumps-plan-to-make-european-cars-more-expensive-has-a-fatal-flaw/)
- - [10 Best Gifts for Women Who Are Over This Planet &lpar;2025&rpar;](https://www.wired.com/gallery/gifts-for-women-who-are-over-this-planet/)
- - [The 5 Best Sunrise Alarm Clocks and How to Choose One](https://www.cnet.com/health/sleep/best-sunrise-alarm-clock/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Trump&#39;s Plan to Make European Cars More Expensive Has a Fatal Flaw](https://www.wired.com/story/trumps-plan-to-make-european-cars-more-expensive-has-a-fatal-flaw/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Sources: banks sold $5.5B in debt borrowed by X at $0.97 on the dollar, following strong investor demand; they had planned to sell ~$3B at ~$0.95 on the dollar &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/250205/p30#a250205p30)
  - [AppleCare+ moves to subscription-only model](https://appleinsider.com/articles/25/02/04/applecare-moves-to-subscription-only-model?utm_medium=rss)
+ - [Elon Musk&#39;s Takeover Is Causing Rifts in Donald Trump&#39;s Inner Circle](https://www.wired.com/story/trump-aides-concern-musk-takeover/)
  - [MicroStrategy announces a new name, Strategy, a new logo with a stylized &quot;B&quot;, signifying its bitcoin strategy, and orange as the brand&#39;s primary color &lpar;Jason Shubnell/The Block&rpar;](http://www.techmeme.com/250205/p29#a250205p29)
- - [Apple&#39;s M4 Pro MacBook Pro falls to $1,749 in online price war](https://appleinsider.com/articles/25/02/05/apples-m4-pro-macbook-pro-falls-to-1749-in-online-price-war?utm_medium=rss)
- - [Workday is cutting about 1,750 workers, or 8.5% of its workforce, as it plans to hire in areas such as AI and take on more people overseas; WDAY jumps 5%+ &lpar;Brody Ford/Bloomberg&rpar;](http://www.techmeme.com/250205/p28#a250205p28)
- - [‘Dengue Boy’ Is the Weird, Fleshy Novel You Need Right Now](https://www.wired.com/story/this-weird-fleshy-novel-is-exactly-what-you-need-right-now-dengue-boy-michael-nieva/)<!-- TECH:END -->
+ - [6 Important Blood Tests for Comprehensive Health](https://www.cnet.com/health/medical/6-important-blood-tests/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

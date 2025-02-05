@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Apple Invites has Sherlocked party organizing app Partiful](https://appleinsider.com/articles/25/02/05/apple-invites-has-sherlocked-party-organizing-app-partiful?utm_medium=rss)
+ - [How to Responsibly Dispose of Your Electronics &lpar;2025&rpar;](https://www.wired.com/story/how-to-responsibly-dispose-electronics/)
  - [Therabody PowerDot 2.0 Duo Review: Can’t Connect to the App](https://www.wired.com/review/therabody-powerdot-20-duo/)
  - [The USPS resumes accepting China and Hong Kong mail after suspending it due to Trump&#39;s EO, disrupting e-commerce, and is working on &quot;the new China tariffs&quot; &lpar;Annie Palmer/CNBC&rpar;](http://www.techmeme.com/250205/p23#a250205p23)
- - [Lufthansa now embraces AirTags, since it couldn&#39;t ban them](https://appleinsider.com/articles/25/02/05/lufthansa-now-embraces-airtags-since-it-couldnt-ban-them?utm_medium=rss)
- - [Apple Silicon M5 chips are probably in mass production now](https://appleinsider.com/articles/25/02/05/apple-silicon-m5-chips-are-probably-in-mass-production-now?utm_medium=rss)
- - [Despite Catastrophic Hacks, Ransomware Payments Dropped Dramatically Last Year](https://www.wired.com/story/2024-ransomware-payments-fall-chainalysis/)<!-- TECH:END -->
+ - [Lufthansa now embraces AirTags, since it couldn&#39;t ban them](https://appleinsider.com/articles/25/02/05/lufthansa-now-embraces-airtags-since-it-couldnt-ban-them?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google releases Gemini 2.0 Flash via its API, an experimental Gemini 2.0 Pro version via its apps, Gemini 2.0 Flash Thinking, and 2.0 Flash-Lite in AI Studio &lpar;Jess Weatherbed/The Verge&rpar;](http://www.techmeme.com/250205/p27#a250205p27)
- - [The 15 Best DS Games You Should Try to Find](https://www.cnet.com/tech/gaming/the-15-best-ds-games-you-should-try-to-find/#ftag=CAD590a51e)
- - [Best Microphones for Zoom, According to the CNET Staff Who Use Them](https://www.cnet.com/tech/best-microphone-for-zoom-according-to-the-cnet-staff-who-use-them/#ftag=CAD590a51e)
- - [62% of US Adults Are Stretching Their Budgets to Pay Winter Energy Bills, CNET Survey Finds](https://www.cnet.com/personal-finance/cnet-winter-energy-prices-survey-2025/#ftag=CAD590a51e)
- - [Mortgage Rate Predictions for Week of Feb. 3-9, 2025](https://www.cnet.com/personal-finance/mortgage-rate-predictions-for-week-of-feb-3-9-2025/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [25 years of Apple&#39;s innovation with iPod](https://appleinsider.com/articles/25/02/03/25-years-of-apples-innovation-with-ipod?utm_medium=rss)
+ - [The Far Right Has a New Hero: Elon Musk](https://www.wired.com/story/far-right-new-leader-elon-musk/)
+ - [Apple now offers parts and self-repair manuals for M4 Mac lineup](https://appleinsider.com/articles/25/02/05/apple-now-offers-parts-and-self-repair-manuals-for-m4-mac-lineup?utm_medium=rss)
+ - [LinkedIn Is Testing an AI Tool That Could Transform How People Search for Jobs](https://www.wired.com/story/linkedin-job-search-artificial-intelligence/)
+ - [Google releases Gemini 2.0 Flash via its API, an experimental Gemini 2.0 Pro version via its apps, Gemini 2.0 Flash Thinking, and 2.0 Flash-Lite in AI Studio &lpar;Jess Weatherbed/The Verge&rpar;](http://www.techmeme.com/250205/p27#a250205p27)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

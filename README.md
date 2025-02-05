@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [In 2024, ransomware attackers received ~$813.55M in payments from victims, down 35% on 2023&#39;s record $1.25B, as more victims refused to pay &lpar;Chainalysis&rpar;](http://www.techmeme.com/250205/p26#a250205p26)
  - [Oura Ring 4 review: comfortable, better data collection, and gorgeous, clean app, but requires a paid subscription to use basic features and colors cost more &lpar;Daniel Cooper/Engadget&rpar;](http://www.techmeme.com/250205/p25#a250205p25)
  - [B&amp;H is blowing out M3 MacBook Pros at up to $1,200 off](https://appleinsider.com/articles/25/01/31/bhs-is-blowing-out-m3-macbook-pros-at-up-to-1200-off?utm_medium=rss)
  - [The 8 Best Fans for Every Use, Editor Tested &amp; Reviewed &lpar;2025&rpar;](https://www.wired.com/gallery/best-fans/)
- - [Crypto wallets at risk as malware sneaks into the App Store](https://appleinsider.com/articles/25/02/05/crypto-wallets-at-risk-as-malware-sneaks-into-the-app-store?utm_medium=rss)
- - [Everything you need to know about Surfshark One VPN bundle for Apple devices](https://appleinsider.com/articles/25/02/05/everything-you-need-to-know-about-surfshark-one-vpn-bundle-for-apple-devices?utm_medium=rss)<!-- TECH:END -->
+ - [Crypto wallets at risk as malware sneaks into the App Store](https://appleinsider.com/articles/25/02/05/crypto-wallets-at-risk-as-malware-sneaks-into-the-app-store?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

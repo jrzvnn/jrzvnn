@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Sources: DOGE staff were ordered to stop using Slack while it transitions from the OMB to the Executive Office of the President, which is not subject to FOIA &lpar;404 Media&rpar;](http://www.techmeme.com/250205/p37#a250205p37)
  - [Best Places to Buy Contact Lenses Online for 2025](https://www.cnet.com/health/personal-care/best-place-to-buy-contacts-online/#ftag=CAD590a51e)
  - [Sonos is laying off about 200 employees, or 12% of its staff, as it reorganizes to make its product teams &quot;flatter, smaller, and more focused&quot; &lpar;Mark Gurman/Bloomberg&rpar;](http://www.techmeme.com/250205/p36#a250205p36)
  - [Best 55-Inch TVs for Super Bowl LIX](https://www.cnet.com/tech/home-entertainment/best-55-inch-tv/#ftag=CAD590a51e)
- - [Best Smart TV for Super Bowl LIX: Samsung, LG, Roku and More](https://www.cnet.com/tech/home-entertainment/best-smart-tv/#ftag=CAD590a51e)
- - [Puppy Bowl 2025: Start Time, How to Stream the Cute Canine Competition](https://www.cnet.com/tech/services-and-software/puppy-bowl-2025-start-time-how-to-stream-the-cute-canine-competition/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Best Smart TV for Super Bowl LIX: Samsung, LG, Roku and More](https://www.cnet.com/tech/home-entertainment/best-smart-tv/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

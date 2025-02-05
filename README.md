@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [China threatens App Store probe in retaliation for trade tensions](https://appleinsider.com/articles/25/02/05/china-threatens-app-store-probe-in-retaliation-for-trade-tensions?utm_medium=rss)
  - [Our 15 Favorite Valentine’s Day Gifts and Date Ideas &lpar;2025&rpar;](https://www.wired.com/gallery/best-valentines-day-gifts/)
+ - [Uber Opens Up Its Waymo Robotaxi Interest List in Austin](https://www.cnet.com/roadshow/news/uber-opens-up-its-waymo-robotaxi-interest-list-in-austin/#ftag=CAD590a51e)
  - [The EU unveils e-commerce shipping rules that would add more customs checks and fees, potentially impacting Chinese platforms like AliExpress, Shein, and Temu &lpar;Mathieu Pollet/Politico&rpar;](http://www.techmeme.com/250205/p20#a250205p20)
- - [Microsoft says Microsoft Build 2025 will run from May 19 to May 22 in Seattle, where AI, Copilot, and Surface updates are expected to be announced &lpar;Tom Warren/The Verge&rpar;](http://www.techmeme.com/250205/p19#a250205p19)
- - [How to Watch the 2025 Super Bowl and Halftime Show for Free](https://www.wired.com/story/how-to-watch-super-bowl-2025-free-halftime-show/)
- - [Brookhaven, a top title on Roblox with 120M+ monthly players, was sold by its anonymous creator Wolfpaq to game developer Voldex for an undisclosed sum &lpar;Jennifer Maas/Variety&rpar;](http://www.techmeme.com/250205/p18#a250205p18)<!-- TECH:END -->
+ - [Microsoft says Microsoft Build 2025 will run from May 19 to May 22 in Seattle, where AI, Copilot, and Surface updates are expected to be announced &lpar;Tom Warren/The Verge&rpar;](http://www.techmeme.com/250205/p19#a250205p19)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Sources say the focus of the AI Action Summit in Paris on February 10 and February 11 will be on seeking a global consensus on AI principles, not new regulation &lpar;Reuters&rpar;](http://www.techmeme.com/250205/p5#a250205p5)
+ - [How India kept its satellite internet market closed to Starlink, Amazon, and more, despite poor rural connectivity; a regulator is set to publish rules in 2025 &lpar;Bloomberg&rpar;](http://www.techmeme.com/250205/p4#a250205p4)
  - [NordVPN Coupon and Discount Codes: 74% Off](https://www.wired.com/story/nordvpn-coupon/)
  - [Netflix hopes its expansion into live programming boosts its nascent ad business; Bernstein estimates its two NFL games generated up to $180M in US advertising &lpar;Christopher Grimes/Financial Times&rpar;](http://www.techmeme.com/250205/p3#a250205p3)
- - [The USPS halts all inbound parcels from China and Hong Kong, after President Trump ended the &quot;de minimis&quot; exemption, sending the e-commerce industry into chaos &lpar;Zeyi Yang/Wired&rpar;](http://www.techmeme.com/250205/p2#a250205p2)
- - [Sources: BlackRock plans to hire ~1,200 people to build its AI teams in India and will inherit ~1,500 staff in Bengaluru through its proposed Preqin acquisition &lpar;Preeti Singh/Bloomberg&rpar;](http://www.techmeme.com/250205/p1#a250205p1)
- - [Lina Khan says that DeepSeek&#39;s breakthroughs highlight how US Big Tech&#39;s monopolistic practices may actually be hampering the US&#39; technological leadership &lpar;Lina M. Khan/New York Times&rpar;](http://www.techmeme.com/250204/p50#a250204p50)<!-- TECH:END -->
+ - [The USPS halts all inbound parcels from China and Hong Kong, after President Trump ended the &quot;de minimis&quot; exemption, sending the e-commerce industry into chaos &lpar;Zeyi Yang/Wired&rpar;](http://www.techmeme.com/250205/p2#a250205p2)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

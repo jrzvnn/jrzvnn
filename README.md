@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [China threatens App Store probe in retaliation for trade tensions](https://appleinsider.com/articles/25/02/05/china-threatens-app-store-probe-in-retaliation-for-trade-tensions?utm_medium=rss)
- - [Our 15 Favorite Valentine’s Day Gifts and Date Ideas &lpar;2025&rpar;](https://www.wired.com/gallery/best-valentines-day-gifts/)
- - [Uber Opens Up Its Waymo Robotaxi Interest List in Austin](https://www.cnet.com/roadshow/news/uber-opens-up-its-waymo-robotaxi-interest-list-in-austin/#ftag=CAD590a51e)
- - [The EU unveils e-commerce shipping rules that would add more customs checks and fees, potentially impacting Chinese platforms like AliExpress, Shein, and Temu &lpar;Mathieu Pollet/Politico&rpar;](http://www.techmeme.com/250205/p20#a250205p20)
- - [Microsoft says Microsoft Build 2025 will run from May 19 to May 22 in Seattle, where AI, Copilot, and Surface updates are expected to be announced &lpar;Tom Warren/The Verge&rpar;](http://www.techmeme.com/250205/p19#a250205p19)<!-- TECH:END -->
+ - [Uber opens a waitlist to request a driverless Waymo vehicle in Austin ahead of a planned 2025 launch; rides will be limited to 37 square miles &lpar;Natalie Lung/Bloomberg&rpar;](http://www.techmeme.com/250205/p22#a250205p22)
+ - [Uber reports Q4 revenue up 20% YoY to $12B, Gross Bookings up 18% YoY to a record $44.2B, operating profit up 18% YoY to $770M, and trips up 18% YoY to 3.1B &lpar;Rafe Uddin/Financial Times&rpar;](http://www.techmeme.com/250205/p21#a250205p21)
+ - [The Best Super Bowl TV Deals](https://www.wired.com/story/the-best-super-bowl-tv-deals-2025/)
+ - [Early Detection Tools Help but They Can’t Stop Every Wildfire](https://www.wired.com/story/early-detection-cant-stop-every-wildfire/)
+ - [China threatens App Store probe in retaliation for trade tensions](https://appleinsider.com/articles/25/02/05/china-threatens-app-store-probe-in-retaliation-for-trade-tensions?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

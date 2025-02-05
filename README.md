@@ -158,10 +158,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- TECH:START -->
  - [Google releases Gemini 2.0 Flash via its API, an experimental Gemini 2.0 Pro version via its apps, Gemini 2.0 Flash Thinking, and 2.0 Flash-Lite in AI Studio &lpar;Jess Weatherbed/The Verge&rpar;](http://www.techmeme.com/250205/p27#a250205p27)
- - [In 2024, ransomware attackers received ~$813.55M in payments from victims, down 35% on 2023&#39;s record $1.25B, as more victims refused to pay &lpar;Chainalysis&rpar;](http://www.techmeme.com/250205/p26#a250205p26)
- - [Best iPhone 16 and iPhone 16 Pro Cases for 2025](https://www.cnet.com/tech/mobile/best-iphone-16-and-iphone-16-pro-cases/#ftag=CAD590a51e)
- - [Oura Ring 4 review: comfortable, better data collection, and gorgeous, clean app, but requires a paid subscription to use basic features and colors cost more &lpar;Daniel Cooper/Engadget&rpar;](http://www.techmeme.com/250205/p25#a250205p25)
- - [B&amp;H is blowing out M3 MacBook Pros at up to $1,200 off](https://appleinsider.com/articles/25/01/31/bhs-is-blowing-out-m3-macbook-pros-at-up-to-1200-off?utm_medium=rss)<!-- TECH:END -->
+ - [The 15 Best DS Games You Should Try to Find](https://www.cnet.com/tech/gaming/the-15-best-ds-games-you-should-try-to-find/#ftag=CAD590a51e)
+ - [Best Microphones for Zoom, According to the CNET Staff Who Use Them](https://www.cnet.com/tech/best-microphone-for-zoom-according-to-the-cnet-staff-who-use-them/#ftag=CAD590a51e)
+ - [62% of US Adults Are Stretching Their Budgets to Pay Winter Energy Bills, CNET Survey Finds](https://www.cnet.com/personal-finance/cnet-winter-energy-prices-survey-2025/#ftag=CAD590a51e)
+ - [Mortgage Rate Predictions for Week of Feb. 3-9, 2025](https://www.cnet.com/personal-finance/mortgage-rate-predictions-for-week-of-feb-3-9-2025/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

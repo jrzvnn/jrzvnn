@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The US OPM plans to make each government agency&#39;s chief information officer a political appointee who can be fired at will, helping Trump exert more control &lpar;Kevin Collier/NBC News&rpar;](http://www.techmeme.com/250205/p14#a250205p14)
  - [Robinhood withdraws its plans to offer betting contracts on the Super Bowl, in partnership with online prediction market Kalshi, after pushback from the CFTC &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/250205/p13#a250205p13)
  - [Sources: China&#39;s State Administration for Market Regulation is examining Apple&#39;s policies, including App Store fees, ahead of a potential probe; AAPL drops 3% &lpar;Pei Li/Bloomberg&rpar;](http://www.techmeme.com/250205/p12#a250205p12)
  - [Chinese chip firms blacklisted by the US are turning to universities, state-backed labs, and &quot;pilot production lines&quot; to keep their development efforts on track &lpar;Nikkei Asia&rpar;](http://www.techmeme.com/250205/p11#a250205p11)
- - [An interview with Twitch CEO Dan Clancy on competition with YouTube and Kick, exclusivity contracts, content moderation, Twitch&#39;s expansion plans, and more &lpar;Henry Chandonnet/Fast Company&rpar;](http://www.techmeme.com/250205/p10#a250205p10)
- - [Best iPhone 13, iPhone 13 Pro and iPhone 13 Pro Max Cases of 2025](https://www.cnet.com/tech/mobile/best-iphone-13-cases/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [An interview with Twitch CEO Dan Clancy on competition with YouTube and Kick, exclusivity contracts, content moderation, Twitch&#39;s expansion plans, and more &lpar;Henry Chandonnet/Fast Company&rpar;](http://www.techmeme.com/250205/p10#a250205p10)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

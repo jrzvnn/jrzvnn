@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [A look at Telegram CEO Pavel Durov&#39;s arrest in Paris and its aftermath; a source says more than half of Telegram&#39;s $1B revenue in 2024 came from its ad platform &lpar;Darren Loucaides/Wired&rpar;](http://www.techmeme.com/250205/p9#a250205p9)
- - [Thailand cuts power, internet, and fuel supplies to parts of Myanmar suspected of housing online scam centers, ahead of PM Paetongtarn Shinawatra&#39;s China visit &lpar;Patpicha Tanakasempipat/Bloomberg&rpar;](http://www.techmeme.com/250205/p8#a250205p8)
- - [Worldpay: cash will make up 14% of transactions in Asia by 2027, down from 49% in 2019, driven by the adoption of QR codes and other smartphone-based payments &lpar;Nikkei Asia&rpar;](http://www.techmeme.com/250205/p7#a250205p7)
- - [LatticeFlow AI, which measures the regulatory compliance of AI models, says DeepSeek&#39;s R1 ranks the lowest in cybersecurity among leading AI models &lpar;Parmy Olson/Bloomberg&rpar;](http://www.techmeme.com/250205/p6#a250205p6)
- - [Sources say the focus of the AI Action Summit in Paris on February 10 and February 11 will be on seeking a global consensus on AI principles, not new regulation &lpar;Reuters&rpar;](http://www.techmeme.com/250205/p5#a250205p5)<!-- TECH:END -->
+ - [Chinese chip firms blacklisted by the US are turning to universities, state-backed labs, and &quot;pilot production lines&quot; to keep their development efforts on track &lpar;Nikkei Asia&rpar;](http://www.techmeme.com/250205/p11#a250205p11)
+ - [An interview with Twitch CEO Dan Clancy on competition with YouTube and Kick, exclusivity contracts, content moderation, Twitch&#39;s expansion plans, and more &lpar;Henry Chandonnet/Fast Company&rpar;](http://www.techmeme.com/250205/p10#a250205p10)
+ - [Best iPhone 13, iPhone 13 Pro and iPhone 13 Pro Max Cases of 2025](https://www.cnet.com/tech/mobile/best-iphone-13-cases/#ftag=CAD590a51e)
+ - [Best Microwave for 2025](https://www.cnet.com/home/kitchen-and-household/best-microwaves/#ftag=CAD590a51e)
+ - [A look at Telegram CEO Pavel Durov&#39;s arrest in Paris and its aftermath; a source says more than half of Telegram&#39;s $1B revenue in 2024 came from its ad platform &lpar;Darren Loucaides/Wired&rpar;](http://www.techmeme.com/250205/p9#a250205p9)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

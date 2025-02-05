@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Sources: BlackRock plans to hire ~1,200 people to build its AI teams in India and will inherit ~1,500 staff in Bengaluru through its proposed Preqin acquisition &lpar;Preeti Singh/Bloomberg&rpar;](http://www.techmeme.com/250205/p1#a250205p1)
  - [Lina Khan says that DeepSeek&#39;s breakthroughs highlight how US Big Tech&#39;s monopolistic practices may actually be hampering the US&#39; technological leadership &lpar;Lina M. Khan/New York Times&rpar;](http://www.techmeme.com/250204/p50#a250204p50)
  - [How to install and use the beta VirtualBox for Apple Silicon Macs](https://appleinsider.com/inside/macos/tips/how-to-install-and-use-the-beta-virtualbox-for-apple-silicon-macs?utm_medium=rss)
- - [Sources: OpenAI has spent months talking about potential commercial deals for Sora with film studios, who are worried about how their data may be used and more &lpar;Bloomberg&rpar;](http://www.techmeme.com/250204/p49#a250204p49)
- - [USPS Halts All Packages From China, Sending the Ecommerce Industry Into Chaos](https://www.wired.com/story/tariffs-trump-ecommerce-amazon-temu/)
- - [Former Google engineer Linwei Ding faces new charges of economic espionage by the US DOJ for allegedly stealing trade secrets to boost China&#39;s AI industry &lpar;Malathi Nayak/Bloomberg&rpar;](http://www.techmeme.com/250204/p48#a250204p48)<!-- TECH:END -->
+ - [Today&#39;s NYT Mini Crossword Answers for Wednesday, Feb. 5](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-wednesday-feb-5/#ftag=CAD590a51e)
+ - [Best DNA Test for 2025](https://www.cnet.com/health/medical/best-dna-test/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

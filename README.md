@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Alphabet expects 2025 capex of ~$75B, vs. ~$58B est., and reports Google Cloud Q4 revenue up 30% YoY to $11.96B, vs. $12.16B est.; GOOG drops 7%+ after hours &lpar;Reuters&rpar;](http://www.techmeme.com/250204/p43#a250204p43)
+ - [Bitcoin Ordinals project Taproot Wizards raised $30M to expand work on OP_CAT, a scripting capability for Bitcoin to enable automated, customizable transactions &lpar;Daniel Kuhn/The Block&rpar;](http://www.techmeme.com/250204/p42#a250204p42)
+ - [OpenAI unveils a visual rebrand, featuring a new bespoke typeface called OpenAI Sans, a refined logo, and a new color palette &lpar;Jonathan Bell/Wallpaper*&rpar;](http://www.techmeme.com/250204/p41#a250204p41)
  - [Andreessen Horowitz hires ex-Marine Daniel Penny, who was recently acquitted in a controversial NYC subway chokehold case, to work on its American Dynamism team &lpar;Olivia Reingold/The Free Press&rpar;](http://www.techmeme.com/250204/p40#a250204p40)
- - [&#39;Doom&#39; can even be played on Apple&#39;s Lightning to HDMI adapter](https://appleinsider.com/articles/25/02/04/doom-can-even-be-played-on-apples-lightning-to-hdmi-adapter?utm_medium=rss)
- - [Sources: the head of the US AI Safety Institute, Elizabeth Kelly, is set to leave by the end of the week; Kelly was appointed to the position in February 2024 &lpar;Bloomberg&rpar;](http://www.techmeme.com/250204/p39#a250204p39)
- - [Austin-based SailPoint, which sells identity management tools, and parent Thoma Bravo aim to raise up to $1B in SailPoint&#39;s US IPO, targeting a $11.5B valuation &lpar;Arasu Kannagi Basil/Reuters&rpar;](http://www.techmeme.com/250204/p38#a250204p38)
- - [New macOS malware disguises itself as Chrome &amp; Zoom installers](https://appleinsider.com/articles/25/02/04/new-macos-malware-disguises-itself-as-chrome-zoom-installers?utm_medium=rss)<!-- TECH:END -->
+ - [&#39;Doom&#39; can even be played on Apple&#39;s Lightning to HDMI adapter](https://appleinsider.com/articles/25/02/04/doom-can-even-be-played-on-apples-lightning-to-hdmi-adapter?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

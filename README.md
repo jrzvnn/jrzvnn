@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Sonos is laying off about 200 employees, or 12% of its staff, as it reorganizes to make its product teams &quot;flatter, smaller, and more focused&quot; &lpar;Mark Gurman/Bloomberg&rpar;](http://www.techmeme.com/250205/p36#a250205p36)
  - [Email: Google is eliminating its goal of hiring more employees from historically underrepresented groups and reviewing some DEI programs &lpar;Miles Kruppa/Wall Street Journal&rpar;](http://www.techmeme.com/250205/p35#a250205p35)
  - [Arm reports Q3 revenue up 19% YoY to $983M, vs. $946.7M est., royalty revenue up 23% YoY to $580M, and licensing and other revenue up 14% YoY to $403M &lpar;Max A. Cherney/Reuters&rpar;](http://www.techmeme.com/250205/p34#a250205p34)
  - [Qualcomm reports Q1 revenue up 17% YoY to $11.67B, vs. $10.93B est., handsets revenue up 13% to $7.57B, net income up 15% to $3.18B, issues a strong Q2 guidance &lpar;Kif Leswing/CNBC&rpar;](http://www.techmeme.com/250205/p33#a250205p33)
- - [&#39;Ted Lasso&#39; season 4 to focus on the formation of AFC Richmond&#39;s women&#39;s team](https://appleinsider.com/articles/25/02/05/ted-lasso-season-4-to-focus-on-the-formation-of-afc-richmonds-womens-team?utm_medium=rss)
- - [Sources: SoftBank is in advanced talks to acquire Ampere in a deal that could value the Oracle-backed chip designer at about $6.5B, including debt &lpar;Bloomberg&rpar;](http://www.techmeme.com/250205/p32#a250205p32)<!-- TECH:END -->
+ - [&#39;Ted Lasso&#39; season 4 to focus on the formation of AFC Richmond&#39;s women&#39;s team](https://appleinsider.com/articles/25/02/05/ted-lasso-season-4-to-focus-on-the-formation-of-afc-richmonds-womens-team?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -159,9 +159,9 @@ R                        1 repo              ░░░░░░░░░░░�
 <!-- TECH:START -->
  - [Amazon announces an event on February 26 in New York where, according to sources, the company will preview its long-delayed Alexa generative AI revamp &lpar;Greg Bensinger/Reuters&rpar;](http://www.techmeme.com/250205/p31#a250205p31)
  - [How to watch Super Bowl LIX from your iPhone, iPad, or Mac](https://appleinsider.com/inside/iphone/tips/how-to-watch-super-bowl-lix-from-your-iphone-ipad-or-mac?utm_medium=rss)
+ - [Heart Disease Awareness: When and Why You Should Get Screened Now](https://www.cnet.com/health/medical/heart-disease-awareness-when-why-screened-now/#ftag=CAD590a51e)
  - [This DOGE Engineer Has Access to the National Oceanic and Atmospheric Administration](https://www.wired.com/story/doge-engineer-noaa-data-google-musk-climate-project-2025/)
- - [Sources: banks sold $5.5B in debt borrowed by X at $0.97 on the dollar, following strong investor demand; they had planned to sell ~$3B at ~$0.95 on the dollar &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/250205/p30#a250205p30)
- - [AppleCare+ moves to subscription-only model](https://appleinsider.com/articles/25/02/04/applecare-moves-to-subscription-only-model?utm_medium=rss)<!-- TECH:END -->
+ - [Sources: banks sold $5.5B in debt borrowed by X at $0.97 on the dollar, following strong investor demand; they had planned to sell ~$3B at ~$0.95 on the dollar &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/250205/p30#a250205p30)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

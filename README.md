@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [How to install and use the beta VirtualBox for Apple Silicon Macs](https://appleinsider.com/inside/macos/tips/how-to-install-and-use-the-beta-virtualbox-for-apple-silicon-macs?utm_medium=rss)
  - [Sources: OpenAI has spent months talking about potential commercial deals for Sora with film studios, who are worried about how their data may be used and more &lpar;Bloomberg&rpar;](http://www.techmeme.com/250204/p49#a250204p49)
  - [USPS Halts All Packages From China, Sending the Ecommerce Industry Into Chaos](https://www.wired.com/story/tariffs-trump-ecommerce-amazon-temu/)
  - [Former Google engineer Linwei Ding faces new charges of economic espionage by the US DOJ for allegedly stealing trade secrets to boost China&#39;s AI industry &lpar;Malathi Nayak/Bloomberg&rpar;](http://www.techmeme.com/250204/p48#a250204p48)
- - [Bengaluru-based payments startup Cashfree raised a $53M Series C led by Krafton, bringing its total funding to nearly $100M, a source says at a $700M valuation &lpar;Manish Singh/TechCrunch&rpar;](http://www.techmeme.com/250204/p47#a250204p47)
- - [State Department Puts ‘All Direct Hire’ USAID Personnel on Administrative Leave](https://www.wired.com/story/chaos-usaid-staffers-sent-home/)<!-- TECH:END -->
+ - [These Are the Best Smart Devices for Amazon Alexa in 2025](https://www.cnet.com/home/smart-home/best-alexa-devices/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [LatticeFlow AI, which measures the regulatory compliance of AI models, says DeepSeek&#39;s R1 ranks the lowest in cybersecurity among leading AI models &lpar;Parmy Olson/Bloomberg&rpar;](http://www.techmeme.com/250205/p6#a250205p6)
  - [Sources say the focus of the AI Action Summit in Paris on February 10 and February 11 will be on seeking a global consensus on AI principles, not new regulation &lpar;Reuters&rpar;](http://www.techmeme.com/250205/p5#a250205p5)
  - [How India kept its satellite internet market closed to Starlink, Amazon, and more, despite poor rural connectivity; a regulator is set to publish rules in 2025 &lpar;Bloomberg&rpar;](http://www.techmeme.com/250205/p4#a250205p4)
  - [NordVPN Coupon and Discount Codes: 74% Off](https://www.wired.com/story/nordvpn-coupon/)
- - [Netflix hopes its expansion into live programming boosts its nascent ad business; Bernstein estimates its two NFL games generated up to $180M in US advertising &lpar;Christopher Grimes/Financial Times&rpar;](http://www.techmeme.com/250205/p3#a250205p3)
- - [The USPS halts all inbound parcels from China and Hong Kong, after President Trump ended the &quot;de minimis&quot; exemption, sending the e-commerce industry into chaos &lpar;Zeyi Yang/Wired&rpar;](http://www.techmeme.com/250205/p2#a250205p2)<!-- TECH:END -->
+ - [Best Smart Displays of 2025](https://www.cnet.com/home/smart-home/best-smart-displays/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

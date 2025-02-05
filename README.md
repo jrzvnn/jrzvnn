@@ -158,10 +158,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- TECH:START -->
  - [Analysis: European AI startups raised $8B in 2024, with 70% going to seed to Series B rounds, led by startups in the UK, France, and Germany &lpar;Romain Dillet/TechCrunch&rpar;](http://www.techmeme.com/250205/p17#a250205p17)
- - [Don&#39;t Wait to Lock In an APY Up to 4.65%. Today&#39;s CD Rates, Feb. 5, 2025](https://www.cnet.com/personal-finance/banking/dont-wait-to-lock-in-an-apy-up-to-4-65-todays-cd-rates-feb-5-2025/#ftag=CAD590a51e)
  - [LG CNS, an IT services affiliate of LG, made a weak debut in South Korea, falling ~10% to ~$38.44, cutting its market cap to $3.72B from $4.13B during the day &lpar;Kwanwoo Jun/Wall Street Journal&rpar;](http://www.techmeme.com/250205/p16#a250205p16)
  - [In 2024, global semiconductor revenue rose 18.1% YoY to ~$626B, led by Samsung, which regained top spot, Intel, and Nvidia, and is set to reach $705B in 2025 &lpar;Gartner&rpar;](http://www.techmeme.com/250205/p15#a250205p15)
- - [Today&#39;s NYT Strands Hints, Answers and Help for Feb. 5, #339](https://www.cnet.com/tech/gaming/todays-nyt-strands-hints-answers-and-help-for-feb-5-339/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [The US OPM plans to make each government agency&#39;s chief information officer a political appointee who can be fired at will, helping Trump exert more control &lpar;Kevin Collier/NBC News&rpar;](http://www.techmeme.com/250205/p14#a250205p14)
+ - [Robinhood withdraws its plans to offer betting contracts on the Super Bowl, in partnership with online prediction market Kalshi, after pushback from the CFTC &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/250205/p13#a250205p13)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

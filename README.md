@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Apple&#39;s M4 Pro MacBook Pro falls to $1,749 in online price war](https://appleinsider.com/articles/25/02/05/apples-m4-pro-macbook-pro-falls-to-1749-in-online-price-war?utm_medium=rss)
+ - [Workday is cutting about 1,750 workers, or 8.5% of its workforce, as it plans to hire in areas such as AI and take on more people overseas; WDAY jumps 5%+ &lpar;Brody Ford/Bloomberg&rpar;](http://www.techmeme.com/250205/p28#a250205p28)
+ - [‘Dengue Boy’ Is the Weird, Fleshy Novel You Need Right Now](https://www.wired.com/story/this-weird-fleshy-novel-is-exactly-what-you-need-right-now-dengue-boy-michael-nieva/)
  - [The Collapse of USAID Is Already Fueling Human Trafficking and Slavery at Scammer Compounds](https://www.wired.com/story/usaid-collapse-is-helping-criminal-scammers-enslave-people/)
- - [25 years of Apple&#39;s innovation with iPod](https://appleinsider.com/articles/25/02/03/25-years-of-apples-innovation-with-ipod?utm_medium=rss)
- - [All You Need to Know About Mushroom Coffee -- the New Morning Alternative](https://www.cnet.com/health/nutrition/mushroom-coffee-everything-to-know-before-swapping-out-your-morning-cup-of-joe/#ftag=CAD590a51e)
- - [The Far Right Has a New Hero: Elon Musk](https://www.wired.com/story/far-right-new-leader-elon-musk/)
- - [Apple now offers parts and self-repair manuals for M4 Mac lineup](https://appleinsider.com/articles/25/02/05/apple-now-offers-parts-and-self-repair-manuals-for-m4-mac-lineup?utm_medium=rss)<!-- TECH:END -->
+ - [25 years of Apple&#39;s innovation with iPod](https://appleinsider.com/articles/25/02/03/25-years-of-apples-innovation-with-ipod?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

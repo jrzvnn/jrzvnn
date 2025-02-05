@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Lina Khan says that DeepSeek&#39;s breakthroughs highlight how US Big Tech&#39;s monopolistic practices may actually be hampering the US&#39; technological leadership &lpar;Lina M. Khan/New York Times&rpar;](http://www.techmeme.com/250204/p50#a250204p50)
  - [How to install and use the beta VirtualBox for Apple Silicon Macs](https://appleinsider.com/inside/macos/tips/how-to-install-and-use-the-beta-virtualbox-for-apple-silicon-macs?utm_medium=rss)
  - [Sources: OpenAI has spent months talking about potential commercial deals for Sora with film studios, who are worried about how their data may be used and more &lpar;Bloomberg&rpar;](http://www.techmeme.com/250204/p49#a250204p49)
  - [USPS Halts All Packages From China, Sending the Ecommerce Industry Into Chaos](https://www.wired.com/story/tariffs-trump-ecommerce-amazon-temu/)
- - [Former Google engineer Linwei Ding faces new charges of economic espionage by the US DOJ for allegedly stealing trade secrets to boost China&#39;s AI industry &lpar;Malathi Nayak/Bloomberg&rpar;](http://www.techmeme.com/250204/p48#a250204p48)
- - [These Are the Best Smart Devices for Amazon Alexa in 2025](https://www.cnet.com/home/smart-home/best-alexa-devices/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Former Google engineer Linwei Ding faces new charges of economic espionage by the US DOJ for allegedly stealing trade secrets to boost China&#39;s AI industry &lpar;Malathi Nayak/Bloomberg&rpar;](http://www.techmeme.com/250204/p48#a250204p48)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [How to watch Super Bowl LIX from your iPhone, iPad, or Mac](https://appleinsider.com/inside/iphone/tips/how-to-watch-super-bowl-lix-from-your-iphone-ipad-or-mac?utm_medium=rss)
+ - [This DOGE Engineer Has Access to the National Oceanic and Atmospheric Administration](https://www.wired.com/story/doge-engineer-noaa-data-google-musk-climate-project-2025/)
  - [Sources: banks sold $5.5B in debt borrowed by X at $0.97 on the dollar, following strong investor demand; they had planned to sell ~$3B at ~$0.95 on the dollar &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/250205/p30#a250205p30)
  - [AppleCare+ moves to subscription-only model](https://appleinsider.com/articles/25/02/04/applecare-moves-to-subscription-only-model?utm_medium=rss)
- - [Elon Musk&#39;s Takeover Is Causing Rifts in Donald Trump&#39;s Inner Circle](https://www.wired.com/story/trump-aides-concern-musk-takeover/)
- - [MicroStrategy announces a new name, Strategy, a new logo with a stylized &quot;B&quot;, signifying its bitcoin strategy, and orange as the brand&#39;s primary color &lpar;Jason Shubnell/The Block&rpar;](http://www.techmeme.com/250205/p29#a250205p29)
- - [6 Important Blood Tests for Comprehensive Health](https://www.cnet.com/health/medical/6-important-blood-tests/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Elon Musk&#39;s Takeover Is Causing Rifts in Donald Trump&#39;s Inner Circle](https://www.wired.com/story/trump-aides-concern-musk-takeover/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

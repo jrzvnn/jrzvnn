@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The USPS says it will resume accepting mail from China and Hong Kong, hours after suspending service, and is working with the CBP on &quot;the new China tariffs&quot; &lpar;Annie Palmer/CNBC&rpar;](http://www.techmeme.com/250205/p23#a250205p23)
+ - [The USPS resumes accepting China and Hong Kong mail after suspending it due to Trump&#39;s EO, disrupting e-commerce, and is working on &quot;the new China tariffs&quot; &lpar;Annie Palmer/CNBC&rpar;](http://www.techmeme.com/250205/p23#a250205p23)
  - [Lufthansa now embraces AirTags, since it couldn&#39;t ban them](https://appleinsider.com/articles/25/02/05/lufthansa-now-embraces-airtags-since-it-couldnt-ban-them?utm_medium=rss)
  - [Apple Silicon M5 chips are probably in mass production now](https://appleinsider.com/articles/25/02/05/apple-silicon-m5-chips-are-probably-in-mass-production-now?utm_medium=rss)
  - [Despite Catastrophic Hacks, Ransomware Payments Dropped Dramatically Last Year](https://www.wired.com/story/2024-ransomware-payments-fall-chainalysis/)
- - [The Best Greens Powders, Tested and Reviewed &lpar;2025&rpar;](https://www.wired.com/gallery/best-greens-powders/)<!-- TECH:END -->
+ - [What&#39;s the Deal With Li-Fi? Could It Be the Future for Internet Connection?](https://www.cnet.com/home/internet/what-is-li-fi/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

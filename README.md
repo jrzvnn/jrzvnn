@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Our 15 Favorite Valentine’s Day Gifts and Date Ideas &lpar;2025&rpar;](https://www.wired.com/gallery/best-valentines-day-gifts/)
  - [The EU unveils e-commerce shipping rules that would add more customs checks and fees, potentially impacting Chinese platforms like AliExpress, Shein, and Temu &lpar;Mathieu Pollet/Politico&rpar;](http://www.techmeme.com/250205/p20#a250205p20)
  - [Microsoft says Microsoft Build 2025 will run from May 19 to May 22 in Seattle, where AI, Copilot, and Surface updates are expected to be announced &lpar;Tom Warren/The Verge&rpar;](http://www.techmeme.com/250205/p19#a250205p19)
  - [How to Watch the 2025 Super Bowl and Halftime Show for Free](https://www.wired.com/story/how-to-watch-super-bowl-2025-free-halftime-show/)
- - [Brookhaven, a top title on Roblox with 120M+ monthly players, was sold by its anonymous creator Wolfpaq to game developer Voldex for an undisclosed sum &lpar;Jennifer Maas/Variety&rpar;](http://www.techmeme.com/250205/p18#a250205p18)
- - [Analysis: European AI startups raised $8B in 2024, with 70% going to seed to Series B rounds, led by startups in the UK, France, and Germany &lpar;Romain Dillet/TechCrunch&rpar;](http://www.techmeme.com/250205/p17#a250205p17)<!-- TECH:END -->
+ - [Brookhaven, a top title on Roblox with 120M+ monthly players, was sold by its anonymous creator Wolfpaq to game developer Voldex for an undisclosed sum &lpar;Jennifer Maas/Variety&rpar;](http://www.techmeme.com/250205/p18#a250205p18)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

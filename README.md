@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Alphabet expects 2025 capex of ~$75B, vs. ~$58B est., and reports Google Cloud Q4 revenue up 30% YoY to $11.96B, vs. $12.16B est.; GOOG drops 7%+ after hours &lpar;Reuters&rpar;](http://www.techmeme.com/250204/p43#a250204p43)
- - [Bitcoin Ordinals project Taproot Wizards raised $30M to expand work on OP_CAT, a scripting capability for Bitcoin to enable automated, customizable transactions &lpar;Daniel Kuhn/The Block&rpar;](http://www.techmeme.com/250204/p42#a250204p42)
- - [OpenAI unveils a visual rebrand, featuring a new bespoke typeface called OpenAI Sans, a refined logo, and a new color palette &lpar;Jonathan Bell/Wallpaper*&rpar;](http://www.techmeme.com/250204/p41#a250204p41)
- - [Andreessen Horowitz hires ex-Marine Daniel Penny, who was recently acquitted in a controversial NYC subway chokehold case, to work on its American Dynamism team &lpar;Olivia Reingold/The Free Press&rpar;](http://www.techmeme.com/250204/p40#a250204p40)
- - [&#39;Doom&#39; can even be played on Apple&#39;s Lightning to HDMI adapter](https://appleinsider.com/articles/25/02/04/doom-can-even-be-played-on-apples-lightning-to-hdmi-adapter?utm_medium=rss)<!-- TECH:END -->
+ - [Chaos Consumes USAID as State Department Moves to Send Overseas Staffers Home](https://www.wired.com/story/chaos-usaid-staffers-sent-home/)
+ - [Sources: Sonos will release an Android-based streaming box in the coming months, priced between $200 and $400, that combines content from Netflix, Max, and more &lpar;Chris Welch/The Verge&rpar;](http://www.techmeme.com/250204/p45#a250204p45)
+ - [Ampere predicts streamers will outspend commercial broadcasters on content for the first time in 2025, and overall content spend will rise 0.4% YoY to $248B &lpar;Max Goldbart/Deadline&rpar;](http://www.techmeme.com/250204/p44#a250204p44)
+ - [Trump&#39;s Tariffs Could Increase iPhone and Macbook Prices. But Experts Say Not to Panic Buy](https://www.cnet.com/personal-finance/banking/trumps-tariffs-could-increase-iphone-and-macbook-prices-but-experts-say-not-to-panic-buy/#ftag=CAD590a51e)
+ - [Alphabet expects 2025 capex of ~$75B, vs. ~$58B est., and reports Google Cloud Q4 revenue up 30% YoY to $11.96B, vs. $12.16B est.; GOOG drops 7%+ after hours &lpar;Reuters&rpar;](http://www.techmeme.com/250204/p43#a250204p43)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

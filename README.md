@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Chaos Consumes USAID as State Department Moves to Send Overseas Staffers Home](https://www.wired.com/story/chaos-usaid-staffers-sent-home/)
+ - [Bengaluru-based payments startup Cashfree raised a $53M Series C led by Krafton, bringing its total funding to nearly $100M, a source says at a $700M valuation &lpar;Manish Singh/TechCrunch&rpar;](http://www.techmeme.com/250204/p47#a250204p47)
+ - [State Department Puts ‘All Direct Hire’ USAID Personnel on Administrative Leave](https://www.wired.com/story/chaos-usaid-staffers-sent-home/)
+ - [Microsoft AI CEO Mustafa Suleyman poaches three Google DeepMind former colleagues, including two who built NotebookLM&#39;s Audio Overviews and worked on Astra &lpar;Melissa Heikkil&amp;auml;/Financial Times&rpar;](http://www.techmeme.com/250204/p46#a250204p46)
  - [Sources: Sonos will release an Android-based streaming box in the coming months, priced between $200 and $400, that combines content from Netflix, Max, and more &lpar;Chris Welch/The Verge&rpar;](http://www.techmeme.com/250204/p45#a250204p45)
- - [Ampere predicts streamers will outspend commercial broadcasters on content for the first time in 2025, and overall content spend will rise 0.4% YoY to $248B &lpar;Max Goldbart/Deadline&rpar;](http://www.techmeme.com/250204/p44#a250204p44)
- - [Trump&#39;s Tariffs Could Increase iPhone and Macbook Prices. But Experts Say Not to Panic Buy](https://www.cnet.com/personal-finance/banking/trumps-tariffs-could-increase-iphone-and-macbook-prices-but-experts-say-not-to-panic-buy/#ftag=CAD590a51e)
- - [Alphabet expects 2025 capex of ~$75B, vs. ~$58B est., and reports Google Cloud Q4 revenue up 30% YoY to $11.96B, vs. $12.16B est.; GOOG drops 7%+ after hours &lpar;Reuters&rpar;](http://www.techmeme.com/250204/p43#a250204p43)<!-- TECH:END -->
+ - [Ampere predicts streamers will outspend commercial broadcasters on content for the first time in 2025, and overall content spend will rise 0.4% YoY to $248B &lpar;Max Goldbart/Deadline&rpar;](http://www.techmeme.com/250204/p44#a250204p44)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

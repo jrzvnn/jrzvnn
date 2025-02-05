@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: DOGE staff were ordered to stop using Slack while it transitions from the OMB to the Executive Office of the President, which is not subject to FOIA &lpar;404 Media&rpar;](http://www.techmeme.com/250205/p37#a250205p37)
- - [Best Places to Buy Contact Lenses Online for 2025](https://www.cnet.com/health/personal-care/best-place-to-buy-contacts-online/#ftag=CAD590a51e)
- - [Sonos is laying off about 200 employees, or 12% of its staff, as it reorganizes to make its product teams &quot;flatter, smaller, and more focused&quot; &lpar;Mark Gurman/Bloomberg&rpar;](http://www.techmeme.com/250205/p36#a250205p36)
- - [Best 55-Inch TVs for Super Bowl LIX](https://www.cnet.com/tech/home-entertainment/best-55-inch-tv/#ftag=CAD590a51e)
- - [Best Smart TV for Super Bowl LIX: Samsung, LG, Roku and More](https://www.cnet.com/tech/home-entertainment/best-smart-tv/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Reddit banned r/WhitePeopleTwitter for 72 hours due to &quot;a prevalence of violent content&quot;, after Elon Musk said the subreddit had &quot;broken the law&quot; on February 3 &lpar;Karissa Bell/Engadget&rpar;](http://www.techmeme.com/250205/p38#a250205p38)
+ - [US Shoppers Face Fees of Up to $50 or More to Get Packages From China](https://www.wired.com/story/tariffs-china-prices-fees-shein-temu/)
+ - [Where to Find Prescription Discounts on Heart Medication and More](https://www.cnet.com/health/medical/where-find-prescription-discounts-heart-medication-more/#ftag=CAD590a51e)
+ - [Best Showerhead Filters of 2025](https://www.cnet.com/health/personal-care/best-shower-filter/#ftag=CAD590a51e)
+ - [Sources: DOGE staff were ordered to stop using Slack while it transitions from the OMB to the Executive Office of the President, which is not subject to FOIA &lpar;404 Media&rpar;](http://www.techmeme.com/250205/p37#a250205p37)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

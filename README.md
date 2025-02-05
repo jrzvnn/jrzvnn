@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Everything you need to know about Surfshark One VPN bundle for Apple devices](https://appleinsider.com/articles/25/02/05/everything-you-need-to-know-about-surfshark-one-vpn-bundle-for-apple-devices?utm_medium=rss)
+ - [AWS aims to use &quot;automated reasoning&quot;, which uses mathematical logic to encode knowledge in AI systems in a structured way, to prevent AI models&#39; hallucinations &lpar;Belle Lin/Wall Street Journal&rpar;](http://www.techmeme.com/250205/p24#a250205p24)
  - [Apple Invites has Sherlocked party organizing app Partiful](https://appleinsider.com/articles/25/02/05/apple-invites-has-sherlocked-party-organizing-app-partiful?utm_medium=rss)
  - [How to Responsibly Dispose of Your Electronics &lpar;2025&rpar;](https://www.wired.com/story/how-to-responsibly-dispose-electronics/)
- - [Therabody PowerDot 2.0 Duo Review: Can’t Connect to the App](https://www.wired.com/review/therabody-powerdot-20-duo/)
- - [The USPS resumes accepting China and Hong Kong mail after suspending it due to Trump&#39;s EO, disrupting e-commerce, and is working on &quot;the new China tariffs&quot; &lpar;Annie Palmer/CNBC&rpar;](http://www.techmeme.com/250205/p23#a250205p23)
- - [Lufthansa now embraces AirTags, since it couldn&#39;t ban them](https://appleinsider.com/articles/25/02/05/lufthansa-now-embraces-airtags-since-it-couldnt-ban-them?utm_medium=rss)<!-- TECH:END -->
+ - [Therabody PowerDot 2.0 Duo Review: Can’t Connect to the App](https://www.wired.com/review/therabody-powerdot-20-duo/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

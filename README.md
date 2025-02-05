@@ -159,9 +159,9 @@ R                        1 repo              ░░░░░░░░░░░�
 <!-- TECH:START -->
  - [The Collapse of USAID Is Fueling Human Trafficking and Slavery at Scammer Compounds](https://www.wired.com/story/usaid-collapse-is-helping-criminal-scammers-enslave-people/)
  - [25 years of Apple&#39;s innovation with iPod](https://appleinsider.com/articles/25/02/03/25-years-of-apples-innovation-with-ipod?utm_medium=rss)
+ - [All You Need to Know About Mushroom Coffee -- the New Morning Alternative](https://www.cnet.com/health/nutrition/mushroom-coffee-everything-to-know-before-swapping-out-your-morning-cup-of-joe/#ftag=CAD590a51e)
  - [The Far Right Has a New Hero: Elon Musk](https://www.wired.com/story/far-right-new-leader-elon-musk/)
- - [Apple now offers parts and self-repair manuals for M4 Mac lineup](https://appleinsider.com/articles/25/02/05/apple-now-offers-parts-and-self-repair-manuals-for-m4-mac-lineup?utm_medium=rss)
- - [LinkedIn Is Testing an AI Tool That Could Transform How People Search for Jobs](https://www.wired.com/story/linkedin-job-search-artificial-intelligence/)<!-- TECH:END -->
+ - [Apple now offers parts and self-repair manuals for M4 Mac lineup](https://appleinsider.com/articles/25/02/05/apple-now-offers-parts-and-self-repair-manuals-for-m4-mac-lineup?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Sources: China&#39;s State Administration for Market Regulation is examining Apple&#39;s policies, including App Store fees, ahead of a potential probe; AAPL drops 3% &lpar;Pei Li/Bloomberg&rpar;](http://www.techmeme.com/250205/p12#a250205p12)
  - [Chinese chip firms blacklisted by the US are turning to universities, state-backed labs, and &quot;pilot production lines&quot; to keep their development efforts on track &lpar;Nikkei Asia&rpar;](http://www.techmeme.com/250205/p11#a250205p11)
  - [An interview with Twitch CEO Dan Clancy on competition with YouTube and Kick, exclusivity contracts, content moderation, Twitch&#39;s expansion plans, and more &lpar;Henry Chandonnet/Fast Company&rpar;](http://www.techmeme.com/250205/p10#a250205p10)
  - [Best iPhone 13, iPhone 13 Pro and iPhone 13 Pro Max Cases of 2025](https://www.cnet.com/tech/mobile/best-iphone-13-cases/#ftag=CAD590a51e)
- - [Best Microwave for 2025](https://www.cnet.com/home/kitchen-and-household/best-microwaves/#ftag=CAD590a51e)
- - [A look at Telegram CEO Pavel Durov&#39;s arrest in Paris and its aftermath; a source says more than half of Telegram&#39;s $1B revenue in 2024 came from its ad platform &lpar;Darren Loucaides/Wired&rpar;](http://www.techmeme.com/250205/p9#a250205p9)<!-- TECH:END -->
+ - [Best Microwave for 2025](https://www.cnet.com/home/kitchen-and-household/best-microwaves/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

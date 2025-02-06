@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [NOAA Employees Told to Pause Work With ‘Foreign Nationals’](https://www.wired.com/story/noaa-employees-foreign-nationals/)
+ - [Qualcomm CEO Cristiano Amon says Arm has withdrawn its breach claims against the company and now Arm has no plans to end its license agreement with Qualcomm &lpar;Stephen Nellis/Reuters&rpar;](http://www.techmeme.com/250205/p39#a250205p39)
  - [Reddit banned r/WhitePeopleTwitter for 72 hours due to &quot;a prevalence of violent content&quot;, after Elon Musk said the subreddit had &quot;broken the law&quot; on February 3 &lpar;Karissa Bell/Engadget&rpar;](http://www.techmeme.com/250205/p38#a250205p38)
  - [US Shoppers Face Fees of Up to $50 or More to Get Packages From China](https://www.wired.com/story/tariffs-china-prices-fees-shein-temu/)
- - [Where to Find Prescription Discounts on Heart Medication and More](https://www.cnet.com/health/medical/where-find-prescription-discounts-heart-medication-more/#ftag=CAD590a51e)
- - [Best Showerhead Filters of 2025](https://www.cnet.com/health/personal-care/best-shower-filter/#ftag=CAD590a51e)
- - [Sources: DOGE staff were ordered to stop using Slack while it transitions from the OMB to the Executive Office of the President, which is not subject to FOIA &lpar;404 Media&rpar;](http://www.techmeme.com/250205/p37#a250205p37)<!-- TECH:END -->
+ - [Where to Find Prescription Discounts on Heart Medication and More](https://www.cnet.com/health/medical/where-find-prescription-discounts-heart-medication-more/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

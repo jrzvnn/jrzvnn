@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [DeepSeek says it suspended letting customers top up their API credits due to server capacity shortages after being overwhelmed with demand since January 2024 &lpar;Foster Wong/Bloomberg&rpar;](http://www.techmeme.com/250206/p14#a250206p14)
+ - [SEC filing: Sequoia&#39;s evergreen fund has grown to $19.6B, up from $13.6B in early 2023, a signal that the firm continues to grow despite a VC funding slowdown &lpar;Kate Clark/Bloomberg&rpar;](http://www.techmeme.com/250206/p13#a250206p13)
+ - [Best Indoor TV Antenna &lpar;2025&rpar;: Mohu, Clearstream, One For All](https://www.wired.com/gallery/best-tv-antennas/)
  - [OpenAI opens ChatGPT search to users who are not logged in, after launching it to paying subscribers in October 2024 and logged-in users in December 2024 &lpar;Emma Roth/The Verge&rpar;](http://www.techmeme.com/250206/p12#a250206p12)
- - [8 Best Air Fryers for Crispy Wings and Fries &lpar;2025&rpar;](https://www.wired.com/gallery/best-air-fryer/)
- - [Sources: Andy Jassy&#39;s campaign to flatten Amazon&#39;s middle management raises fears among staff of lean years and fewer promotions, as old career paths dry up &lpar;Bloomberg&rpar;](http://www.techmeme.com/250206/p11#a250206p11)
- - [Amazon has shrunk its Amazon Go store portfolio by ~50% since early 2023 to 16 stores in four US states, as its efforts to compete in physical retail falter &lpar;Kate King/Wall Street Journal&rpar;](http://www.techmeme.com/250206/p10#a250206p10)
- - [In Q4 2024, AMD&#39;s data center business outsold Intel for the first time, with $3.86B in revenue, up 69% YoY, to Intel&#39;s $3.4B, but analysts expected more sales &lpar;Anton Shilov/Tom&#39;s Hardware&rpar;](http://www.techmeme.com/250206/p9#a250206p9)<!-- TECH:END -->
+ - [8 Best Air Fryers for Crispy Wings and Fries &lpar;2025&rpar;](https://www.wired.com/gallery/best-air-fryer/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

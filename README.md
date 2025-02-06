@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [NOAA Employees Told to Pause Work With ‘Foreign Nationals’](https://www.wired.com/story/noaa-employees-foreign-nationals/)
- - [Qualcomm CEO Cristiano Amon says Arm has withdrawn its breach claims against the company and now Arm has no plans to end its license agreement with Qualcomm &lpar;Stephen Nellis/Reuters&rpar;](http://www.techmeme.com/250205/p39#a250205p39)
- - [Reddit banned r/WhitePeopleTwitter for 72 hours due to &quot;a prevalence of violent content&quot;, after Elon Musk said the subreddit had &quot;broken the law&quot; on February 3 &lpar;Karissa Bell/Engadget&rpar;](http://www.techmeme.com/250205/p38#a250205p38)
- - [US Shoppers Face Fees of Up to $50 or More to Get Packages From China](https://www.wired.com/story/tariffs-china-prices-fees-shein-temu/)
- - [Where to Find Prescription Discounts on Heart Medication and More](https://www.cnet.com/health/medical/where-find-prescription-discounts-heart-medication-more/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Semgrep, which offers an autonomous code security platform for developers, raised a $100M Series D led by Menlo Ventures, bringing its total funding to $204M &lpar;Chris Metinko/Crunchbase News&rpar;](http://www.techmeme.com/250205/p42#a250205p42)
+ - [WH crypto czar David Sacks says stablecoin legislation could be done in the next six months, after lawmakers introduced a bill to create a regulatory framework &lpar;MacKenzie Sigalos/CNBC&rpar;](http://www.techmeme.com/250205/p41#a250205p41)
+ - [Kaspersky researchers found apps in Google&#39;s Play Store and Apple&#39;s App Store that use OCR to steal crypto wallet recovery phrases from images on users&#39; devices &lpar;Bill Toulas/BleepingComputer&rpar;](http://www.techmeme.com/250205/p40#a250205p40)
+ - [Google Has Officially Launched Gemini 2.0 for Everyone](https://www.cnet.com/tech/services-and-software/google-has-officially-launched-gemini-2-0-for-everyone/#ftag=CAD590a51e)
+ - [NOAA Employees Told to Pause Work With ‘Foreign Nationals’](https://www.wired.com/story/noaa-employees-foreign-nationals/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

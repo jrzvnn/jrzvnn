@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Worldwide tablet shipments grew 9.2% YoY in 2024 to 147.6M units, after three consecutive years of decline; Xiaomi grew 51.4% and Apple grew 13.8% &lpar;Canalys&rpar;](http://www.techmeme.com/250206/p19#a250206p19)
  - [Best Tested Ski Clothes &lpar;2025&rpar;: Shells, Jackets, Wool Socks](https://www.wired.com/gallery/best-ski-clothes/)
- - [TrueFoundry, which helps enterprises deploy AI systems at scale, raised $19M led by Intel Capital, taking its total funding to $21M, and claims 30 customers &lpar;Jagmeet Singh/TechCrunch&rpar;](http://www.techmeme.com/250206/p18#a250206p18)
- - [Samsung Galaxy S25, S25+, and S25 Ultra Review: AI Snoozefest](https://www.wired.com/review/samsung-galaxy-s25-s25-plus-and-s25-ultra/)
- - [More Than Mezcal: A Dive Into Oaxaca’s High-End Cocktail Scene](https://www.wired.com/story/oaxaca-cocktails/)
- - [Roblox reports Q4 revenue up 32% YoY to $988.2M, bookings up 21% YoY to $1.36B, vs. $1.37B est., and DAUs up 19% YoY to 85.3M, vs. 88.4M est.; RBLX falls 15%+ &lpar;Cecilia D&#39;Anastasio/Bloomberg&rpar;](http://www.techmeme.com/250206/p17#a250206p17)<!-- TECH:END -->
+ - [Is It Norovirus, a &#39;Stomach Bug&#39; or Something Else?](https://www.cnet.com/health/medical/norovirus-stomach-bug-or-something-else/#ftag=CAD590a51e)
+ - [TrueFoundry, which helps enterprises deploy AI systems at scale, raised $19M led by Intel Capital, taking its total funding to $21M+, and claims 30 customers &lpar;Jagmeet Singh/TechCrunch&rpar;](http://www.techmeme.com/250206/p18#a250206p18)
+ - [Give Your Savings Extra Padding With APYs Over 4%. Today&#39;s Best Savings Rates for Feb. 6, 2025](https://www.cnet.com/personal-finance/banking/give-your-savings-extra-padding-with-apys-over-4-todays-best-savings-rates-for-feb-6-2025/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

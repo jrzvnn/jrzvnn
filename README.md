@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Apple Silicon &amp; Intel Macs can play classic games with the help of Mac Source Ports](https://appleinsider.com/articles/25/02/06/apple-silicon-intel-macs-can-play-classic-games-with-the-help-of-mac-source-ports?utm_medium=rss)
+ - [The 5 Best Bread Makers, Tested &amp; Reviewed &lpar;2025&rpar;](https://www.wired.com/gallery/best-bread-makers/)
+ - [Trump&#39;s de minimis cancellation is likely to hit Shein harder than online dollar-store Temu, which has shifted to an Amazon-like bulk overseas shipment strategy &lpar;Casey Hall/Reuters&rpar;](http://www.techmeme.com/250206/p16#a250206p16)
  - [Spanish police arrest a hacker for allegedly conducting 40 cyberattacks on critical public and private organizations, seizing 50 crypto accounts, PCs, and more &lpar;Bill Toulas/BleepingComputer&rpar;](http://www.techmeme.com/250206/p15#a250206p15)
- - [DeepSeek says it suspended letting customers top up their API credits due to server capacity shortages after being overwhelmed with demand since January 2024 &lpar;Foster Wong/Bloomberg&rpar;](http://www.techmeme.com/250206/p14#a250206p14)
- - [SEC filing: Sequoia&#39;s evergreen fund has grown to $19.6B, up from $13.6B in early 2023, a signal that the firm continues to grow despite a VC funding slowdown &lpar;Kate Clark/Bloomberg&rpar;](http://www.techmeme.com/250206/p13#a250206p13)
- - [Best Indoor TV Antenna &lpar;2025&rpar;: Mohu, Clearstream, One For All](https://www.wired.com/gallery/best-tv-antennas/)
- - [Samsung Galaxy S25 Edge: What We Know About the New Slimmer Phone](https://www.cnet.com/tech/mobile/samsung-galaxy-s25-edge-what-we-know-about-the-new-slimmer-phone/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [DeepSeek says it suspended letting customers top up their API credits due to server capacity shortages after being overwhelmed with demand since January 2024 &lpar;Foster Wong/Bloomberg&rpar;](http://www.techmeme.com/250206/p14#a250206p14)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Best Teeth Whitening Strips of 2025](https://www.cnet.com/health/personal-care/best-teeth-whitening-strips/#ftag=CAD590a51e)
  - [DOGE staffer Marko Elez resigns after being linked to racist posts on X; he was embedded in the US Treasury and previously worked at SpaceX, Starlink, and X &lpar;Katherine Long/Wall Street Journal&rpar;](http://www.techmeme.com/250206/p40#a250206p40)
+ - [10 Unique Valentine&#39;s Day Gifts from 1-800-Flowers for Everyone You Love](https://www.cnet.com/culture/valentines-day-gifts-from-1-800-flowers-for-everyone-you-love/#ftag=CAD590a51e)
  - [Take-Two reports Q3 net bookings up 3% YoY to $1.37B, vs. $1.39B est., and reiterates GTA VI is set to launch in the fall of 2025; TTWO jumps 6%+ after hours &lpar;Zaheer Kachwala/Reuters&rpar;](http://www.techmeme.com/250206/p39#a250206p39)
- - [Sources: Winklevoss&#39; crypto exchange Gemini is considering an IPO as soon as this year; crypto exchange operator Bullish is also considering an IPO in 2025 &lpar;Bloomberg&rpar;](http://www.techmeme.com/250206/p38#a250206p38)
- - [Sources: OpenAI co-founder John Schulman is joining former OpenAI CTO Mira Murati&#39;s stealth startup; he left Anthropic after joining the startup in August 2024 &lpar;Sharon Goldman/Fortune&rpar;](http://www.techmeme.com/250206/p37#a250206p37)
- - [Best Hybrid Mattress for 2025: Tested by Our Sleep Experts](https://www.cnet.com/health/sleep/best-hybrid-mattress/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Black Ops 6 Double XP Weekend and Multiplayer Free Trial Is Live Now](https://www.cnet.com/tech/gaming/call-of-duty-black-ops-6-double-xp-weekend-and-multiplayer-free-trial-live-now-february-6-2025/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

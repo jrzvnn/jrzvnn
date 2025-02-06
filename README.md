@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Samsung Galaxy S25, S25+, and S25 Ultra Review: AI Snoozefest](https://www.wired.com/review/samsung-galaxy-s25-s25-plus-and-s25-ultra/)
+ - [More Than Mezcal: A Dive Into Oaxaca’s High-End Cocktail Scene](https://www.wired.com/story/oaxaca-cocktails/)
  - [Roblox reports Q4 revenue up 32% to $988.2M, bookings up 21% YoY to $1.36B, below est., DAUs up 19% YoY to 85.3M, below 88.4M est.; RBLX falls 20%+ pre-market &lpar;Cecilia D&#39;Anastasio/Bloomberg&rpar;](http://www.techmeme.com/250206/p17#a250206p17)
- - [Apple Silicon &amp; Intel Macs can play classic games with the help of Mac Source Ports](https://appleinsider.com/articles/25/02/06/apple-silicon-intel-macs-can-play-classic-games-with-the-help-of-mac-source-ports?utm_medium=rss)
- - [The 5 Best Bread Makers, Tested &amp; Reviewed &lpar;2025&rpar;](https://www.wired.com/gallery/best-bread-makers/)
- - [Trump&#39;s de minimis cancellation is likely to hit Shein harder than online dollar-store Temu, which has shifted to an Amazon-like bulk overseas shipment strategy &lpar;Casey Hall/Reuters&rpar;](http://www.techmeme.com/250206/p16#a250206p16)
- - [Spanish police arrest a hacker for allegedly conducting 40 cyberattacks on critical public and private organizations, seizing 50 crypto accounts, PCs, and more &lpar;Bill Toulas/BleepingComputer&rpar;](http://www.techmeme.com/250206/p15#a250206p15)<!-- TECH:END -->
+ - [Google Launches Gemini 2.0 for Everyone. Here Are the Highlights](https://www.cnet.com/tech/services-and-software/google-launches-gemini-2-0-for-everyone-here-are-the-highlights/#ftag=CAD590a51e)
+ - [Apple Silicon &amp; Intel Macs can play classic games with the help of Mac Source Ports](https://appleinsider.com/articles/25/02/06/apple-silicon-intel-macs-can-play-classic-games-with-the-help-of-mac-source-ports?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

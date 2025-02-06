@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The Untold Winners of the Trump Memecoin Frenzy](https://www.wired.com/story/trump-memecoin-solana-crypto-platforms-profit/)
  - [Mistral releases iOS and Android apps and unveils several updates to its AI assistant Le Chat, including a $14.99 per month Pro tier &lpar;Romain Dillet/TechCrunch&rpar;](http://www.techmeme.com/250206/p23#a250206p23)
  - [Apple Vision Pro game controller doesn&#39;t look like it will break new ground](https://appleinsider.com/articles/25/02/06/apple-vision-pro-game-controller-doesnt-look-like-it-will-break-new-ground?utm_medium=rss)
  - [Apple getting serious about MacBook Pro with integrated graphics tablet and iPhone charger](https://appleinsider.com/articles/22/06/21/apple-getting-serious-about-macbook-pro-with-integrated-graphics-tablet-and-iphone-charger?utm_medium=rss)
- - [Payments software company Lightspeed says it plans to continue operating as a publicly traded company and will buy back up to $400M of stock; LSPD falls 15%+ &lpar;Stephanie Hughes/Bloomberg&rpar;](http://www.techmeme.com/250206/p22#a250206p22)
- - [Best Dog Toys, According to the Experts: Our Dogs](https://www.cnet.com/home/kitchen-and-household/best-dog-toys/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Payments software company Lightspeed says it plans to continue operating as a publicly traded company and will buy back up to $400M of stock; LSPD falls 15%+ &lpar;Stephanie Hughes/Bloomberg&rpar;](http://www.techmeme.com/250206/p22#a250206p22)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

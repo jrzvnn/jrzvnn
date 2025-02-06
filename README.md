@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Sources: DOGE is processing sensitive data from across the Education Department with AI tools in Microsoft&#39;s Azure to look for potential spending cuts &lpar;Washington Post&rpar;](http://www.techmeme.com/250206/p27#a250206p27)
  - [Sources: some staffers at CISA were given deferred resignation offers and just hours to decide whether to accept them, extending broader cybersecurity fears &lpar;Jenna McLaughlin/NPR&rpar;](http://www.techmeme.com/250206/p26#a250206p26)
  - [Google Photos starts adding its SynthID watermarks to photos that have been edited using Magic Editor, but says some changes may be too small to detect &lpar;Jess Weatherbed/The Verge&rpar;](http://www.techmeme.com/250206/p25#a250206p25)
  - [GitHub announces updates for Copilot, including Vision for Copilot to generate interfaces, code, and alt text from a screenshot, photo, or a diagram &lpar;Paul Sawers/TechCrunch&rpar;](http://www.techmeme.com/250206/p24#a250206p24)
- - [The Untold Winners of the Trump Memecoin Frenzy](https://www.wired.com/story/trump-memecoin-solana-crypto-platforms-profit/)
- - [Mistral releases iOS and Android apps and unveils several updates to its AI assistant Le Chat, including a $14.99 per month Pro tier &lpar;Romain Dillet/TechCrunch&rpar;](http://www.techmeme.com/250206/p23#a250206p23)<!-- TECH:END -->
+ - [The Untold Winners of the Trump Memecoin Frenzy](https://www.wired.com/story/trump-memecoin-solana-crypto-platforms-profit/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

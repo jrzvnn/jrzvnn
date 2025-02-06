@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Donald Trump&#39;s NIH Pick Just Launched a Controversial Scientific Journal](https://www.wired.com/story/trump-nih-pick-launched-controversial-scientific-journal/)
  - [Crypto wallets at risk as malware sneaks into the App Store](https://appleinsider.com/articles/25/02/05/crypto-wallets-at-risk-as-malware-sneaks-into-the-app-store?utm_medium=rss)
  - [Dubious leak purportedly details the exact specifications of Apple&#39;s foldable iPhone](https://appleinsider.com/articles/25/02/06/dubious-leak-purportedly-details-the-exact-specifications-of-apples-foldable-iphone?utm_medium=rss)
  - [Affirm reports Q2 revenue up 47% YoY to $866M, vs. $807M est., GMV up 35% YoY to $10.1B, and active consumers up 23% YoY to 21M; AFRM jumps 10%+ after hours &lpar;MacKenzie Sigalos/CNBC&rpar;](http://www.techmeme.com/250206/p41#a250206p41)
- - [Best Teeth Whitening Strips of 2025](https://www.cnet.com/health/personal-care/best-teeth-whitening-strips/#ftag=CAD590a51e)
- - [DOGE staffer Marko Elez resigns after being linked to racist posts on X; he was embedded in the US Treasury and previously worked at SpaceX, Starlink, and X &lpar;Katherine Long/Wall Street Journal&rpar;](http://www.techmeme.com/250206/p40#a250206p40)<!-- TECH:END -->
+ - [Switch 2 Patents Seemingly Confirm Mouse Functionality Rumors](https://www.cnet.com/tech/gaming/switch-2-patents-seemingly-confirm-mouse-functionality-rumors/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Amazon has shrunk its Amazon Go store portfolio by ~50% since early 2023 to 16 stores in four US states, as its efforts to compete in physical retail falter &lpar;Kate King/Wall Street Journal&rpar;](http://www.techmeme.com/250206/p10#a250206p10)
  - [In Q4 2024, AMD&#39;s data center business outsold Intel for the first time, with $3.86B in revenue, up 69% YoY, to Intel&#39;s $3.4B, but analysts expected more sales &lpar;Anton Shilov/Tom&#39;s Hardware&rpar;](http://www.techmeme.com/250206/p9#a250206p9)
- - [Tariff Uncertainty Taxes the Auto Industry](https://www.wired.com/story/tariff-uncertainty-taxes-the-auto-industry/)
- - [A profile of Joseph Firmage, who founded USWeb, which went public with a $2.5B market cap in 1997, and is now being sued by &quot;antigravity-machine&quot; investors &lpar;Brent Crane/Bloomberg&rpar;](http://www.techmeme.com/250206/p8#a250206p8)
- - [11 Vitamin D-Rich Foods for a Stronger Immune System](https://www.cnet.com/health/nutrition/11-vitamin-d-rich-foods-for-a-stronger-immune-system/#ftag=CAD590a51e)
- - [XOi, whose software lets field technicians get info about the machines they need to fix, raised $230M from KKR and buys its rival Specifx for an undisclosed sum &lpar;Ingrid Lunden/TechCrunch&rpar;](http://www.techmeme.com/250206/p7#a250206p7)<!-- TECH:END -->
+ - [Don&#39;t Let High APYs Pass You By. Today&#39;s CD Rates, Feb. 6, 2025](https://www.cnet.com/personal-finance/banking/dont-let-high-apys-pass-you-by-todays-cd-rates-feb-6-2025/#ftag=CAD590a51e)
+ - [Today&#39;s NYT Connections: Sports Edition Hints and Answers for Feb. 6 #136](https://www.cnet.com/tech/gaming/todays-nyt-connections-sports-edition-hints-and-answers-for-feb-6-136/#ftag=CAD590a51e)
+ - [Today&#39;s NYT Strands Hints, Answers and Help for Feb. 6, #340](https://www.cnet.com/tech/gaming/todays-nyt-strands-hints-answers-and-help-for-feb-6-340/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

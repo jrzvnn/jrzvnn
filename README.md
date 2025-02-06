@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Ted Carstensen, the head of US Digital Service, which has been renamed DOGE, says he is resigning instead of taking a buyout offer for federal staff &lpar;Alex Heath/The Verge&rpar;](http://www.techmeme.com/250206/p30#a250206p30)
+ - [B&amp;H&#39;s fresh Mac Studio price drop discounts desktop to $1,749](https://appleinsider.com/articles/25/02/06/bhs-fresh-mac-studio-price-drop-discounts-desktop-to-1749?utm_medium=rss)
  - [Sources: online payments company Paysafe is exploring a sale after receiving takeover interest; it went public in 2020 in a SPAC deal valued at $9B &lpar;Bloomberg&rpar;](http://www.techmeme.com/250206/p29#a250206p29)
  - [TikTok Stole Our Hearts, but Can It Last?](https://www.wired.com/story/uncanny-valley-podcast-12-tiktok-stole-our-hearts/)
- - [How using a VPN can help you see location restricted content](https://appleinsider.com/inside/mac/tips/how-using-a-vpn-can-help-you-see-location-restricted-content?utm_medium=rss)
- - [US lawmakers introduce a bipartisan bill that would ban DeepSeek&#39;s app from government-owned devices, amid concerns that the app allows China to see user data &lpar;Natalie Andrews/Wall Street Journal&rpar;](http://www.techmeme.com/250206/p28#a250206p28)
- - [Sources: DOGE is processing sensitive data from across the Education Department with AI tools in Microsoft&#39;s Azure to look for potential spending cuts &lpar;Washington Post&rpar;](http://www.techmeme.com/250206/p27#a250206p27)<!-- TECH:END -->
+ - [How using a VPN can help you see location restricted content](https://appleinsider.com/inside/mac/tips/how-using-a-vpn-can-help-you-see-location-restricted-content?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

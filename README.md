@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Dublin-based Protex AI, whose AI-powered platform plugs into CCTV devices to spot risks and enhance workplace safety, raised a $36M Series B led by Hedosophia &lpar;Suhasini Srinivasaragavan/Silicon ...&rpar;](http://www.techmeme.com/250206/p1#a250206p1)
- - [Today&#39;s NYT Mini Crossword Answers for Thursday, Feb. 6](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-thursday-feb-6/#ftag=CAD590a51e)
- - [How to use or disable iOS Apple Mail&#39;s new categories feature](https://appleinsider.com/inside/ios/tips/how-to-use-or-disable-ios-apple-mails-new-categories-feature?utm_medium=rss)
- - [John Schulman, who co-founded OpenAI and has been credited as one of ChatGPT&#39;s leading architects, leaves Anthropic, after joining the startup in August 2024 &lpar;Jon Victor/The Information&rpar;](http://www.techmeme.com/250205/p44#a250205p44)
- - [Sources: OpenAI is expected to air its first TV ad during Super Bowl LIX; MediaRadar says AI companies spent $332M on ads in 2024, over double their 2023 spend &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/250205/p43#a250205p43)<!-- TECH:END -->
+ - [Documents: EU prosecutors are probing how Atos&#39; Moscow office helped build the EU&#39;s border system, which will establish the EU&#39;s largest personal info database &lpar;Laura Dubois/Financial Times&rpar;](http://www.techmeme.com/250206/p3#a250206p3)
+ - [10% Off Canon Promo Code and Coupons](https://www.wired.com/story/canon-promo-code/)
+ - [The Senate Commerce Committee approves the Kids Off Social Media Act to ban under-13s from social media, clearing the way for consideration by the Senate &lpar;Politico&rpar;](http://www.techmeme.com/250206/p2#a250206p2)
+ - [Squarespace Promo Code: 10% Off | February 2025](https://www.wired.com/story/squarespace-promo-code/)
+ - [Dublin-based Protex AI, whose AI-powered platform plugs into CCTV devices to spot risks and enhance workplace safety, raised a $36M Series B led by Hedosophia &lpar;Suhasini Srinivasaragavan/Silicon ...&rpar;](http://www.techmeme.com/250206/p1#a250206p1)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

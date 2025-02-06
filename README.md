@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [John Schulman, who previously co-founded OpenAI and was one of the leading architects of ChatGPT, leaves Anthropic, after joining the company in August 2024 &lpar;Jon Victor/The Information&rpar;](http://www.techmeme.com/250205/p44#a250205p44)
- - [Sources: OpenAI is expected to air its first TV ad during Sunday&#39;s Super Bowl; MediaRadar: AI companies spent $332M on ads in 2024, over double their 2023 spend &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/250205/p43#a250205p43)
+ - [How to use or disable iOS Apple Mail&#39;s new categories feature](https://appleinsider.com/inside/ios/tips/how-to-use-or-disable-ios-apple-mails-new-categories-feature?utm_medium=rss)
+ - [John Schulman, who co-founded OpenAI and has been credited as one of ChatGPT&#39;s leading architects, leaves Anthropic, after joining the startup in August 2024 &lpar;Jon Victor/The Information&rpar;](http://www.techmeme.com/250205/p44#a250205p44)
+ - [Sources: OpenAI is expected to air its first TV ad during Super Bowl LIX; MediaRadar says AI companies spent $332M on ads in 2024, over double their 2023 spend &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/250205/p43#a250205p43)
  - [Semgrep, which offers an autonomous code security platform for developers, raised a $100M Series D led by Menlo Ventures, bringing its total funding to $204M &lpar;Chris Metinko/Crunchbase News&rpar;](http://www.techmeme.com/250205/p42#a250205p42)
- - [WH crypto czar David Sacks says stablecoin legislation could be done in the next six months, after lawmakers introduced a bill to create a regulatory framework &lpar;MacKenzie Sigalos/CNBC&rpar;](http://www.techmeme.com/250205/p41#a250205p41)
- - [Kaspersky researchers found apps in Google&#39;s Play Store and Apple&#39;s App Store that use OCR to steal crypto wallet recovery phrases from images on users&#39; devices &lpar;Bill Toulas/BleepingComputer&rpar;](http://www.techmeme.com/250205/p40#a250205p40)<!-- TECH:END -->
+ - [WH crypto czar David Sacks says stablecoin legislation could be done in the next six months, after lawmakers introduced a bill to create a regulatory framework &lpar;MacKenzie Sigalos/CNBC&rpar;](http://www.techmeme.com/250205/p41#a250205p41)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

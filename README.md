@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Best Tested Ski Clothes &lpar;2025&rpar;: Shells, Jackets, Wool Socks](https://www.wired.com/gallery/best-ski-clothes/)
  - [TrueFoundry, which helps enterprises deploy AI systems at scale, raised $19M led by Intel Capital, taking its total funding to $21M, and claims 30 customers &lpar;Jagmeet Singh/TechCrunch&rpar;](http://www.techmeme.com/250206/p18#a250206p18)
  - [Samsung Galaxy S25, S25+, and S25 Ultra Review: AI Snoozefest](https://www.wired.com/review/samsung-galaxy-s25-s25-plus-and-s25-ultra/)
  - [More Than Mezcal: A Dive Into Oaxaca’s High-End Cocktail Scene](https://www.wired.com/story/oaxaca-cocktails/)
- - [Roblox reports Q4 revenue up 32% to $988.2M, bookings up 21% YoY to $1.36B, below est., DAUs up 19% YoY to 85.3M, below 88.4M est.; RBLX falls 20%+ pre-market &lpar;Cecilia D&#39;Anastasio/Bloomberg&rpar;](http://www.techmeme.com/250206/p17#a250206p17)
- - [Google Launches Gemini 2.0 for Everyone. Here Are the Highlights](https://www.cnet.com/tech/services-and-software/google-launches-gemini-2-0-for-everyone-here-are-the-highlights/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Roblox reports Q4 revenue up 32% to $988.2M, bookings up 21% YoY to $1.36B, below est., DAUs up 19% YoY to 85.3M, below 88.4M est.; RBLX falls 20%+ pre-market &lpar;Cecilia D&#39;Anastasio/Bloomberg&rpar;](http://www.techmeme.com/250206/p17#a250206p17)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

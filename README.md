@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [In Q4 2024, AMD&#39;s data center business outsold Intel for the first time, with $3.86B in revenue, up 69% YoY, to Intel&#39;s $3.4B, but analysts expected more sales &lpar;Anton Shilov/Tom&#39;s Hardware&rpar;](http://www.techmeme.com/250206/p9#a250206p9)
  - [Tariff Uncertainty Taxes the Auto Industry](https://www.wired.com/story/tariff-uncertainty-taxes-the-auto-industry/)
  - [A profile of Joseph Firmage, who founded USWeb, which went public with a $2.5B market cap in 1997, and is now being sued by &quot;antigravity-machine&quot; investors &lpar;Brent Crane/Bloomberg&rpar;](http://www.techmeme.com/250206/p8#a250206p8)
  - [11 Vitamin D-Rich Foods for a Stronger Immune System](https://www.cnet.com/health/nutrition/11-vitamin-d-rich-foods-for-a-stronger-immune-system/#ftag=CAD590a51e)
- - [XOi, whose software lets field technicians get info about the machines they need to fix, raised $230M from KKR and buys its rival Specifx for an undisclosed sum &lpar;Ingrid Lunden/TechCrunch&rpar;](http://www.techmeme.com/250206/p7#a250206p7)
- - [Interviews with nearly two dozen VR studios on shipping games on Quest, Meta&#39;s increased focus on Horizon Worlds, concerns over declining game sales, and more &lpar;Henry Stockdale/UploadVR&rpar;](http://www.techmeme.com/250206/p6#a250206p6)<!-- TECH:END -->
+ - [XOi, whose software lets field technicians get info about the machines they need to fix, raised $230M from KKR and buys its rival Specifx for an undisclosed sum &lpar;Ingrid Lunden/TechCrunch&rpar;](http://www.techmeme.com/250206/p7#a250206p7)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

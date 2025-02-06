@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Apple is now at the center of an escalating geopolitical fight between the US and China due to tariffs and a backlash from growing anti-US rhetoric in China &lpar;Mark Gurman/Bloomberg&rpar;](http://www.techmeme.com/250206/p20#a250206p20)
  - [Worldwide tablet shipments grew 9.2% YoY in 2024 to 147.6M units, after three consecutive years of decline; Xiaomi grew 51.4% and Apple grew 13.8% &lpar;Canalys&rpar;](http://www.techmeme.com/250206/p19#a250206p19)
  - [Best Tested Ski Clothes &lpar;2025&rpar;: Shells, Jackets, Wool Socks](https://www.wired.com/gallery/best-ski-clothes/)
  - [Is It Norovirus, a &#39;Stomach Bug&#39; or Something Else?](https://www.cnet.com/health/medical/norovirus-stomach-bug-or-something-else/#ftag=CAD590a51e)
- - [TrueFoundry, which helps enterprises deploy AI systems at scale, raised $19M led by Intel Capital, taking its total funding to $21M+, and claims 30 customers &lpar;Jagmeet Singh/TechCrunch&rpar;](http://www.techmeme.com/250206/p18#a250206p18)
- - [Give Your Savings Extra Padding With APYs Over 4%. Today&#39;s Best Savings Rates for Feb. 6, 2025](https://www.cnet.com/personal-finance/banking/give-your-savings-extra-padding-with-apys-over-4-todays-best-savings-rates-for-feb-6-2025/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [TrueFoundry, which helps enterprises deploy AI systems at scale, raised $19M led by Intel Capital, taking its total funding to $21M+, and claims 30 customers &lpar;Jagmeet Singh/TechCrunch&rpar;](http://www.techmeme.com/250206/p18#a250206p18)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [China&#39;s mini-drama industry grew 35% YoY to ~$6.91B in 2024, surpassing the country&#39;s box office and forcing iQiyi and Tencent to embrace short-form dramas &lpar;Sohee Kim/Bloomberg&rpar;](http://www.techmeme.com/250206/p5#a250206p5)
  - [AI researchers at Stanford and the University of Washington claim they trained an AI reasoning model, called s1, for under $50 in cloud compute credits &lpar;Maxwell Zeff/TechCrunch&rpar;](http://www.techmeme.com/250206/p4#a250206p4)
+ - [Asus Zenfone 12 Ultra Is the Rare High-End Phone That Still Has a Headphone Jack](https://www.cnet.com/tech/mobile/asus-zenfone-12-ultra-is-the-rare-high-end-phone-still-including-a-headphone-jack/#ftag=CAD590a51e)
  - [Groupon Promo Codes: 25% Off February 2025](https://www.wired.com/story/groupon-promo-code/)
- - [Documents: EU prosecutors are probing how Atos&#39; Moscow office helped build the EU&#39;s border system, which will establish the EU&#39;s largest personal info database &lpar;Laura Dubois/Financial Times&rpar;](http://www.techmeme.com/250206/p3#a250206p3)
- - [10% Off Canon Promo Code and Coupons](https://www.wired.com/story/canon-promo-code/)
- - [The Senate Commerce Committee approves the Kids Off Social Media Act to ban under-13s from social media, clearing the way for consideration by the Senate &lpar;Politico&rpar;](http://www.techmeme.com/250206/p2#a250206p2)<!-- TECH:END -->
+ - [Top 10 Mattresses for Side Sleepers of 2025, Expert-Tested and Approved](https://www.cnet.com/health/sleep/best-mattress-for-side-sleepers/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

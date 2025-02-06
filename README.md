@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Crypto wallets at risk as malware sneaks into the App Store](https://appleinsider.com/articles/25/02/05/crypto-wallets-at-risk-as-malware-sneaks-into-the-app-store?utm_medium=rss)
+ - [Dubious leak purportedly details the exact specifications of Apple&#39;s foldable iPhone](https://appleinsider.com/articles/25/02/06/dubious-leak-purportedly-details-the-exact-specifications-of-apples-foldable-iphone?utm_medium=rss)
+ - [Affirm reports Q2 revenue up 47% YoY to $866M, vs. $807M est., GMV up 35% YoY to $10.1B, and active consumers up 23% YoY to 21M; AFRM jumps 10%+ after hours &lpar;MacKenzie Sigalos/CNBC&rpar;](http://www.techmeme.com/250206/p41#a250206p41)
  - [Best Teeth Whitening Strips of 2025](https://www.cnet.com/health/personal-care/best-teeth-whitening-strips/#ftag=CAD590a51e)
- - [DOGE staffer Marko Elez resigns after being linked to racist posts on X; he was embedded in the US Treasury and previously worked at SpaceX, Starlink, and X &lpar;Katherine Long/Wall Street Journal&rpar;](http://www.techmeme.com/250206/p40#a250206p40)
- - [10 Unique Valentine&#39;s Day Gifts from 1-800-Flowers for Everyone You Love](https://www.cnet.com/culture/valentines-day-gifts-from-1-800-flowers-for-everyone-you-love/#ftag=CAD590a51e)
- - [Take-Two reports Q3 net bookings up 3% YoY to $1.37B, vs. $1.39B est., and reiterates GTA VI is set to launch in the fall of 2025; TTWO jumps 6%+ after hours &lpar;Zaheer Kachwala/Reuters&rpar;](http://www.techmeme.com/250206/p39#a250206p39)
- - [Black Ops 6 Double XP Weekend and Multiplayer Free Trial Is Live Now](https://www.cnet.com/tech/gaming/call-of-duty-black-ops-6-double-xp-weekend-and-multiplayer-free-trial-live-now-february-6-2025/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [DOGE staffer Marko Elez resigns after being linked to racist posts on X; he was embedded in the US Treasury and previously worked at SpaceX, Starlink, and X &lpar;Katherine Long/Wall Street Journal&rpar;](http://www.techmeme.com/250206/p40#a250206p40)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

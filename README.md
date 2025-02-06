@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple is now at the center of an escalating geopolitical fight between the US and China due to tariffs and a backlash from growing anti-US rhetoric in China &lpar;Mark Gurman/Bloomberg&rpar;](http://www.techmeme.com/250206/p20#a250206p20)
- - [Worldwide tablet shipments grew 9.2% YoY in 2024 to 147.6M units, after three consecutive years of decline; Xiaomi grew 73.1% YoY and Huawei grew 29.3% YoY &lpar;Canalys&rpar;](http://www.techmeme.com/250206/p19#a250206p19)
- - [Best Tested Ski Clothes &lpar;2025&rpar;: Shells, Jackets, Wool Socks](https://www.wired.com/gallery/best-ski-clothes/)
- - [Is It Norovirus, a &#39;Stomach Bug&#39; or Something Else?](https://www.cnet.com/health/medical/norovirus-stomach-bug-or-something-else/#ftag=CAD590a51e)
- - [TrueFoundry, which helps enterprises deploy AI systems at scale, raised $19M led by Intel Capital, taking its total funding to $21M+, and claims 30 customers &lpar;Jagmeet Singh/TechCrunch&rpar;](http://www.techmeme.com/250206/p18#a250206p18)<!-- TECH:END -->
+ - [Payments software company Lightspeed says it plans to continue operating as a publicly traded company and will buy back up to $400M of stock; LSPD falls 15%+ &lpar;Stephanie Hughes/Bloomberg&rpar;](http://www.techmeme.com/250206/p22#a250206p22)
+ - [Munich-based Avelios, which is developing a healthcare system covering EHR, billing, clinical records, and more, raised a &amp;euro;30M Series A led by Sequoia &lpar;Ingrid Lunden/TechCrunch&rpar;](http://www.techmeme.com/250206/p21#a250206p21)
+ - [Leica Lux Grip is a $330 MagSafe iPhone camera grip](https://appleinsider.com/articles/25/02/06/leica-lux-grip-is-a-330-magsafe-iphone-camera-grip?utm_medium=rss)
+ - [Apple is at the center of an escalating US-China geopolitical fight spanning tariffs, regulatory probes, and a backlash due to growing anti-US rhetoric in China &lpar;Mark Gurman/Bloomberg&rpar;](http://www.techmeme.com/250206/p20#a250206p20)
+ - [Worldwide tablet shipments grew 9.2% YoY in 2024 to 147.6M units, after three consecutive years of decline; Xiaomi grew 73.1% YoY and Huawei grew 29.3% YoY &lpar;Canalys&rpar;](http://www.techmeme.com/250206/p19#a250206p19)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

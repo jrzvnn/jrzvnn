@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Sources: Andy Jassy&#39;s campaign to flatten Amazon&#39;s middle management raises fears among staff of lean years and fewer promotions, as old career paths dry up &lpar;Bloomberg&rpar;](http://www.techmeme.com/250206/p11#a250206p11)
  - [Amazon has shrunk its Amazon Go store portfolio by ~50% since early 2023 to 16 stores in four US states, as its efforts to compete in physical retail falter &lpar;Kate King/Wall Street Journal&rpar;](http://www.techmeme.com/250206/p10#a250206p10)
  - [In Q4 2024, AMD&#39;s data center business outsold Intel for the first time, with $3.86B in revenue, up 69% YoY, to Intel&#39;s $3.4B, but analysts expected more sales &lpar;Anton Shilov/Tom&#39;s Hardware&rpar;](http://www.techmeme.com/250206/p9#a250206p9)
  - [Don&#39;t Let High APYs Pass You By. Today&#39;s CD Rates, Feb. 6, 2025](https://www.cnet.com/personal-finance/banking/dont-let-high-apys-pass-you-by-todays-cd-rates-feb-6-2025/#ftag=CAD590a51e)
- - [Today&#39;s NYT Connections: Sports Edition Hints and Answers for Feb. 6 #136](https://www.cnet.com/tech/gaming/todays-nyt-connections-sports-edition-hints-and-answers-for-feb-6-136/#ftag=CAD590a51e)
- - [Today&#39;s NYT Strands Hints, Answers and Help for Feb. 6, #340](https://www.cnet.com/tech/gaming/todays-nyt-strands-hints-answers-and-help-for-feb-6-340/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Today&#39;s NYT Connections: Sports Edition Hints and Answers for Feb. 6 #136](https://www.cnet.com/tech/gaming/todays-nyt-connections-sports-edition-hints-and-answers-for-feb-6-136/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

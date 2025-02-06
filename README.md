@@ -161,7 +161,7 @@ R                        1 repo              ░░░░░░░░░░░�
  - [Take-Two reports Q3 net bookings up 3% YoY to $1.37B, vs. $1.39B est., and reiterates GTA VI is set to launch in the fall of 2025; TTWO jumps 6%+ after hours &lpar;Zaheer Kachwala/Reuters&rpar;](http://www.techmeme.com/250206/p39#a250206p39)
  - [Sources: Winklevoss&#39; crypto exchange Gemini is considering an IPO as soon as this year; crypto exchange operator Bullish is also considering an IPO in 2025 &lpar;Bloomberg&rpar;](http://www.techmeme.com/250206/p38#a250206p38)
  - [Sources: OpenAI co-founder John Schulman is joining former OpenAI CTO Mira Murati&#39;s stealth startup; he left Anthropic after joining the startup in August 2024 &lpar;Sharon Goldman/Fortune&rpar;](http://www.techmeme.com/250206/p37#a250206p37)
- - [Amazon reports Q4 AWS revenue up 19% YoY to $28.8B, in line with est., and AWS operating income of $10.6B, up from $7.2B in Q4 2023 &lpar;Annie Palmer/CNBC&rpar;](http://www.techmeme.com/250206/p36#a250206p36)<!-- TECH:END -->
+ - [Best Hybrid Mattress for 2025: Tested by Our Sleep Experts](https://www.cnet.com/health/sleep/best-hybrid-mattress/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [CoinMarketCap: $MELANIA fell ~90% since January 20, while $TRUMP fell ~75% from its all-time high; most wallets that bought $TRUMP made no more than $13 &lpar;Bloomberg&rpar;](http://www.techmeme.com/250206/p32#a250206p32)
  - [The 33 Best Movies on Hulu This Week &lpar;February 2025&rpar;](https://www.wired.com/story/best-movies-hulu-right-now/)
  - [Apple is working on a &#39;lifelike&#39; robot lamp, and it&#39;s just as cute as you&#39;d expect](https://appleinsider.com/articles/25/02/06/apple-is-working-on-a-lifelike-robot-lamp-and-its-just-as-cute-as-youd-expect?utm_medium=rss)
  - [Email: Google is testing a Search &quot;AI Mode&quot; powered by Gemini 2.0 that lets users ask &quot;open-ended / exploratory questions&quot; and get AI Overview-style responses &lpar;Abner Li/9to5Google&rpar;](http://www.techmeme.com/250206/p31#a250206p31)
- - [Our Expert Picks for Best Mattresses for Heavy People in 2025](https://www.cnet.com/health/sleep/best-mattress-for-heavy-people/#ftag=CAD590a51e)
- - [Best Meat Delivery Services for 2025](https://www.cnet.com/health/nutrition/best-meat-delivery-services/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Our Expert Picks for Best Mattresses for Heavy People in 2025](https://www.cnet.com/health/sleep/best-mattress-for-heavy-people/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

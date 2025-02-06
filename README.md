@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Spanish police arrest a hacker for allegedly conducting 40 cyberattacks on critical public and private organizations, seizing 50 crypto accounts, PCs, and more &lpar;Bill Toulas/BleepingComputer&rpar;](http://www.techmeme.com/250206/p15#a250206p15)
  - [DeepSeek says it suspended letting customers top up their API credits due to server capacity shortages after being overwhelmed with demand since January 2024 &lpar;Foster Wong/Bloomberg&rpar;](http://www.techmeme.com/250206/p14#a250206p14)
  - [SEC filing: Sequoia&#39;s evergreen fund has grown to $19.6B, up from $13.6B in early 2023, a signal that the firm continues to grow despite a VC funding slowdown &lpar;Kate Clark/Bloomberg&rpar;](http://www.techmeme.com/250206/p13#a250206p13)
  - [Best Indoor TV Antenna &lpar;2025&rpar;: Mohu, Clearstream, One For All](https://www.wired.com/gallery/best-tv-antennas/)
- - [OpenAI opens ChatGPT search to users who are not logged in, after launching it to paying subscribers in October 2024 and logged-in users in December 2024 &lpar;Emma Roth/The Verge&rpar;](http://www.techmeme.com/250206/p12#a250206p12)
- - [8 Best Air Fryers for Crispy Wings and Fries &lpar;2025&rpar;](https://www.wired.com/gallery/best-air-fryer/)<!-- TECH:END -->
+ - [Samsung Galaxy S25 Edge: What We Know About the New Slimmer Phone](https://www.cnet.com/tech/mobile/samsung-galaxy-s25-edge-what-we-know-about-the-new-slimmer-phone/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

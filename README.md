@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Sources: Winklevoss&#39; crypto exchange Gemini is considering an IPO as soon as this year; crypto exchange operator Bullish is also considering an IPO in 2025 &lpar;Bloomberg&rpar;](http://www.techmeme.com/250206/p38#a250206p38)
  - [Sources: OpenAI co-founder John Schulman is joining former OpenAI CTO Mira Murati&#39;s stealth startup; he left Anthropic after joining the startup in August 2024 &lpar;Sharon Goldman/Fortune&rpar;](http://www.techmeme.com/250206/p37#a250206p37)
  - [Amazon reports Q4 AWS revenue up 19% YoY to $28.8B, in line with est., and AWS operating income of $10.6B, up from $7.2B in Q4 2023 &lpar;Annie Palmer/CNBC&rpar;](http://www.techmeme.com/250206/p36#a250206p36)
  - [Pinterest reports Q4 revenue up 18% YoY to $1.15B, vs. $1.14B est., MAUs up 11% YoY to 553M, and forecasts Q1 revenue will top est.; PINS up 14% after hours &lpar;Julaiza Alvarez/Bloomberg&rpar;](http://www.techmeme.com/250206/p35#a250206p35)
- - [Amazon reports Q4 ad revenue up 18% YoY to $17.29B, vs. $17.4B est., and subscription services revenue up 10% YoY to $11.51B &lpar;Todd Spangler/Variety&rpar;](http://www.techmeme.com/250206/p34#a250206p34)
- - [USAID Workforce Slashed From 10,000 to Under 300 as Elon Musk’s DOGE Decimates Agency](https://www.wired.com/story/doge-guts-usaid-workforce/)<!-- TECH:END -->
+ - [Amazon reports Q4 ad revenue up 18% YoY to $17.29B, vs. $17.4B est., and subscription services revenue up 10% YoY to $11.51B &lpar;Todd Spangler/Variety&rpar;](http://www.techmeme.com/250206/p34#a250206p34)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

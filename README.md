@@ -160,8 +160,8 @@ R                        1 repo              ░░░░░░░░░░░�
  - [Apple Invites, Doom on a cable, and M5 is coming, on the AppleInsider Podcast](https://appleinsider.com/articles/25/02/07/apple-invites-doom-on-a-cable-and-m5-is-coming-on-the-appleinsider-podcast?utm_medium=rss)
  - [Sources: SoftBank is set to invest $40B in OpenAI at a $260B pre-money valuation; OpenAI was last valued at $157B by private investors in October 2024 &lpar;Hayden Field/CNBC&rpar;](http://www.techmeme.com/250207/p14#a250207p14)
  - [8 Best Streaming Devices for TVs &lpar;2025&rpar;, Tested and Reviewed](https://www.wired.com/gallery/best-4k-streaming-devices/)
- - [Apple breaks the Mac App Store for macOS Sierra users](https://appleinsider.com/articles/25/02/07/apple-breaks-the-mac-app-store-for-macos-sierra-users?utm_medium=rss)
- - [WBD lost $300M on gaming in 2024; current and former staffers blame a lack of a strong, cohesive vision during former games chief David Haddad&#39;s tenure &lpar;Jason Schreier/Bloomberg&rpar;](http://www.techmeme.com/250207/p13#a250207p13)<!-- TECH:END -->
+ - [These Video Editing Apps Could Be Worthy CapCut Replacements](https://www.cnet.com/tech/services-and-software/these-video-editing-apps-could-be-worthy-capcut-replacements/#ftag=CAD590a51e)
+ - [People Are Using Beef Tallow for Their Skin. Here&#39;s What Dermatologists Have to Say](https://www.cnet.com/health/personal-care/people-are-using-beef-tallow-for-their-skin-heres-what-dermatologists-have-to-say/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Uber stock jumps 7%+ after Bill Ackman disclosed that his hedge fund Pershing Square Capital Management owns 30.3M shares in the company &lpar;Dana Wollman/Bloomberg&rpar;](http://www.techmeme.com/250207/p20#a250207p20)
  - [Apple settles a lawsuit against an ex-employee who leaked details about the Journal app and more to journalists; the employee issues an apology on X &lpar;Ryan Christoffel/9to5Mac&rpar;](http://www.techmeme.com/250207/p19#a250207p19)
  - [DOGE Is Now Inside the Consumer Financial Protection Bureau](https://www.wired.com/story/doge-access-consumer-financial-protection-bureau-data/)
  - [Sources: the UK used Snoopers&#39; Charter to send a &quot;technical capability notice&quot; to Apple; notice recipients aren&#39;t allowed to warn users of weakened security &lpar;Financial Times&rpar;](http://www.techmeme.com/250207/p18#a250207p18)
- - [Save $100 on Apple&#39;s iPad Air 6 at Amazon this weekend](https://appleinsider.com/articles/25/02/07/save-100-on-apples-ipad-air-6-at-amazon-this-weekend?utm_medium=rss)
- - [Sources: Ilya Sutskever&#39;s Safe Superintelligence is in talks to raise funding at a valuation of $20B+, up from a $5B valuation from its September funding round &lpar;Reuters&rpar;](http://www.techmeme.com/250207/p17#a250207p17)<!-- TECH:END -->
+ - [Save $100 on Apple&#39;s iPad Air 6 at Amazon this weekend](https://appleinsider.com/articles/25/02/07/save-100-on-apples-ipad-air-6-at-amazon-this-weekend?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

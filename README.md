@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The 6 Best Handheld Vacuums, Tested and Reviewed &lpar;2025&rpar;](https://www.wired.com/gallery/best-handheld-vacuum/)
  - [Google has edited Gemini&#39;s response in a Super Bowl commercial after it was found to contain false information about Gouda cheese &lpar;Emma Roth/The Verge&rpar;](http://www.techmeme.com/250207/p11#a250207p11)
  - [UK secretly orders Apple to let it spy on iPhone users worldwide](https://appleinsider.com/articles/25/02/07/uk-secretly-orders-apple-to-let-it-spy-on-iphone-users-worldwide?utm_medium=rss)
  - [The US Government Is Not a Startup](https://www.wired.com/story/the-us-government-is-not-a-startup/)
- - [HIG Capital plans to buy Toronto-based IT solution provider Converge Technology for $908M and merge it with Mainline Information; the deal closes in Q2, 2025 &lpar;Charles Capel/Bloomberg&rpar;](http://www.techmeme.com/250207/p10#a250207p10)
- - [The Best Samsung Phones of 2025, Tested and Reviewed](https://www.wired.com/gallery/best-samsung-phones/)<!-- TECH:END -->
+ - [HIG Capital plans to buy Toronto-based IT solution provider Converge Technology for $908M and merge it with Mainline Information; the deal closes in Q2, 2025 &lpar;Charles Capel/Bloomberg&rpar;](http://www.techmeme.com/250207/p10#a250207p10)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

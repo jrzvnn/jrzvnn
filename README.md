@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Trump&#39;s FBI Pick Kash Patel Took Up to $5M in Stock from Chinese Ecommerce Giant Shein](https://www.wired.com/story/kash-patel-elite-depot-shein/)
  - [Edward Coristine, a 19-year-old member of DOGE, was fired from an internship at cybersecurity firm Path Network for allegedly sharing info with a competitor &lpar;Bloomberg&rpar;](http://www.techmeme.com/250207/p27#a250207p27)
  - [Sources: Stripe competitor Rapyd is in talks to raise $300M from investors at a $3.5B valuation, a dramatic decline from its valuation of around $9B in 2021 &lpar;Bloomberg&rpar;](http://www.techmeme.com/250207/p26#a250207p26)
  - [Elon Musk says he will rehire a DOGE staffer who resigned following the exposure of his posts advocating for racism and eugenics, after Trump endorsed the idea &lpar;CNBC&rpar;](http://www.techmeme.com/250207/p25#a250207p25)
- - [iOS 18.4 Beta 1 is imminent, set to bring improvements to Siri](https://appleinsider.com/articles/25/02/07/ios-184-beta-1-is-imminent-set-to-bring-improvements-to-siri?utm_medium=rss)
- - [A US Treasury Threat Intelligence Analysis Designates DOGE Staff as ‘Insider Threat’](https://www.wired.com/story/treasury-bfs-doge-insider-threat/)<!-- TECH:END -->
+ - [iOS 18.4 Beta 1 is imminent, set to bring improvements to Siri](https://appleinsider.com/articles/25/02/07/ios-184-beta-1-is-imminent-set-to-bring-improvements-to-siri?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

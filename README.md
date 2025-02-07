@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [iOS 18.4 Beta 1 is imminent, set to bring improvements to Siri](https://appleinsider.com/articles/25/02/07/ios-184-beta-1-is-imminent-set-to-bring-improvements-to-siri?utm_medium=rss)
  - [A US Treasury Threat Intelligence Analysis Designates DOGE Staff as ‘Insider Threat’](https://www.wired.com/story/treasury-bfs-doge-insider-threat/)
  - [DeepMind says its AlphaGeometry2 model solved 84% of International Math Olympiad&#39;s geometry problems from the last 25 years, surpassing average gold medalists &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/250207/p24#a250207p24)
  - [Ligue 1 Soccer: Livestream PSG vs. Monaco From Anywhere](https://www.cnet.com/tech/services-and-software/ligue-1-soccer-livestream-psg-vs-monaco-from-anywhere/#ftag=CAD590a51e)
- - [Bundesliga Soccer Livestream: How to Watch Bayern Munich vs. Werder Bremen From Anywhere](https://www.cnet.com/tech/services-and-software/bundesliga-soccer-livestream-how-to-watch-bayern-munich-vs-werder-bremen-from-anywhere/#ftag=CAD590a51e)
- - [Best AV Receiver of 2025](https://www.cnet.com/tech/home-entertainment/best-av-receiver/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Bundesliga Soccer Livestream: How to Watch Bayern Munich vs. Werder Bremen From Anywhere](https://www.cnet.com/tech/services-and-software/bundesliga-soccer-livestream-how-to-watch-bayern-munich-vs-werder-bremen-from-anywhere/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

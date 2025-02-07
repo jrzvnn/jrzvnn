@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [iPhone SE 4 could be revealed by Valentine&#39;s Day](https://appleinsider.com/articles/25/02/06/iphone-se-4-could-be-revealed-by-valentines-day?utm_medium=rss)
- - [Sources: Apple plans to unveil its long-awaited overhaul of the iPhone SE as early as next week, opting to reveal it on its website instead of at a launch event &lpar;Mark Gurman/Bloomberg&rpar;](http://www.techmeme.com/250206/p42#a250206p42)
- - [Donald Trump&#39;s NIH Pick Just Launched a Controversial Scientific Journal](https://www.wired.com/story/trump-nih-pick-launched-controversial-scientific-journal/)
- - [Crypto wallets at risk as malware sneaks into the App Store](https://appleinsider.com/articles/25/02/05/crypto-wallets-at-risk-as-malware-sneaks-into-the-app-store?utm_medium=rss)
- - [Dubious leak purportedly details the exact specifications of Apple&#39;s foldable iPhone](https://appleinsider.com/articles/25/02/06/dubious-leak-purportedly-details-the-exact-specifications-of-apples-foldable-iphone?utm_medium=rss)<!-- TECH:END -->
+ - [Dubious leak details the exact specifications of Apple&#39;s foldable iPhone](https://appleinsider.com/articles/25/02/06/dubious-leak-purportedly-details-the-exact-specifications-of-apples-foldable-iphone?utm_medium=rss)
+ - [Amazon expects to boost its capex to $100B in 2025, largely driven by AI and up from 2024&#39;s ~$83B, on what Andy Jassy calls a &quot;once-in-a-lifetime&quot; opportunity &lpar;Annie Palmer/CNBC&rpar;](http://www.techmeme.com/250206/p43#a250206p43)
+ - [You Need to Update Your Netgear Router Immediately](https://www.cnet.com/home/internet/you-need-to-update-your-netgear-router-immediately/#ftag=CAD590a51e)
+ - [Take-Two Says GTA 6 Is Still Coming This Fall Amid Concerns](https://www.cnet.com/tech/gaming/take-two-says-gta-6-is-still-coming-this-fall-amid-concerns/#ftag=CAD590a51e)
+ - [Apple details App Store tax changes in multiple markets, including Japan](https://appleinsider.com/articles/25/02/07/apple-details-app-store-tax-changes-in-multiple-markets-including-japan?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Sources: the UK used Snoopers&#39; Charter to send a &quot;technical capability notice&quot; to Apple; notice recipients aren&#39;t allowed to warn users of weakened security &lpar;Financial Times&rpar;](http://www.techmeme.com/250207/p18#a250207p18)
  - [Save $100 on Apple&#39;s iPad Air 6 at Amazon this weekend](https://appleinsider.com/articles/25/02/07/save-100-on-apples-ipad-air-6-at-amazon-this-weekend?utm_medium=rss)
  - [Sources: Ilya Sutskever&#39;s Safe Superintelligence is in talks to raise funding at a valuation of $20B+, up from a $5B valuation from its September funding round &lpar;Reuters&rpar;](http://www.techmeme.com/250207/p17#a250207p17)
  - [GameSir Cyclone 2 controller review: My new go-to Mac and iPad gaming companion](https://appleinsider.com/articles/25/02/07/gamesir-cyclone-2-controller-review-my-new-go-to-mac-and-ipad-gaming-companion?utm_medium=rss)
- - [Paris prosecutors open a probe into X over alleged algorithmic distortions, after an MP&#39;s complaint that X was using biased algorithms &lpar;Dominique Vidalon/Reuters&rpar;](http://www.techmeme.com/250207/p16#a250207p16)
- - [You Can Watch All These Super Bowl 2025 Ads Right Now Before the Game](https://www.cnet.com/tech/services-and-software/you-can-watch-all-these-super-bowl-2025-ads-right-now-before-the-game/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Paris cyber prosecutors open a probe into X over alleged algorithmic distortions, after an MP sent a complaint on January 12 that X was using biased algorithms &lpar;Dominique Vidalon/Reuters&rpar;](http://www.techmeme.com/250207/p16#a250207p16)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

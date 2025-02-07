@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Sonos&#39; scrapped MagSafe speaker would have had trouble finding a target market](https://appleinsider.com/articles/25/02/07/sonos-scrapped-magsafe-speaker-would-have-had-trouble-finding-a-target-market?utm_medium=rss)
+ - [Microsoft, Alphabet, Amazon, and Meta reported combined capex of $246B in 2024, up 63% YoY from $151B, with 2025 forecasts exceeding $320B &lpar;Financial Times&rpar;](http://www.techmeme.com/250207/p15#a250207p15)
+ - [PreSonus Quantum HD Review: A Seamless Recording Tool](https://www.wired.com/review/presonus-quantum-hd/)
  - [Apple Invites, Doom on a cable, and M5 is coming, on the AppleInsider Podcast](https://appleinsider.com/articles/25/02/07/apple-invites-doom-on-a-cable-and-m5-is-coming-on-the-appleinsider-podcast?utm_medium=rss)
- - [Sources: SoftBank is set to invest $40B in OpenAI at a $260B pre-money valuation; OpenAI was last valued at $157B by private investors in October 2024 &lpar;Hayden Field/CNBC&rpar;](http://www.techmeme.com/250207/p14#a250207p14)
- - [8 Best Streaming Devices for TVs &lpar;2025&rpar;, Tested and Reviewed](https://www.wired.com/gallery/best-4k-streaming-devices/)
- - [These Video Editing Apps Could Be Worthy CapCut Replacements](https://www.cnet.com/tech/services-and-software/these-video-editing-apps-could-be-worthy-capcut-replacements/#ftag=CAD590a51e)
- - [People Are Using Beef Tallow for Their Skin. Here&#39;s What Dermatologists Have to Say](https://www.cnet.com/health/personal-care/people-are-using-beef-tallow-for-their-skin-heres-what-dermatologists-have-to-say/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Sources: SoftBank is set to invest $40B in OpenAI at a $260B pre-money valuation; OpenAI was last valued at $157B by private investors in October 2024 &lpar;Hayden Field/CNBC&rpar;](http://www.techmeme.com/250207/p14#a250207p14)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

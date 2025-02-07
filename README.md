@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Apple settles a lawsuit against an ex-employee who leaked details about the Journal app and more to journalists; the employee issues an apology on X &lpar;Ryan Christoffel/9to5Mac&rpar;](http://www.techmeme.com/250207/p19#a250207p19)
+ - [DOGE Is Now Inside the Consumer Financial Protection Bureau](https://www.wired.com/story/doge-access-consumer-financial-protection-bureau-data/)
  - [Sources: the UK used Snoopers&#39; Charter to send a &quot;technical capability notice&quot; to Apple; notice recipients aren&#39;t allowed to warn users of weakened security &lpar;Financial Times&rpar;](http://www.techmeme.com/250207/p18#a250207p18)
  - [Save $100 on Apple&#39;s iPad Air 6 at Amazon this weekend](https://appleinsider.com/articles/25/02/07/save-100-on-apples-ipad-air-6-at-amazon-this-weekend?utm_medium=rss)
- - [Sources: Ilya Sutskever&#39;s Safe Superintelligence is in talks to raise funding at a valuation of $20B+, up from a $5B valuation from its September funding round &lpar;Reuters&rpar;](http://www.techmeme.com/250207/p17#a250207p17)
- - [GameSir Cyclone 2 controller review: My new go-to Mac and iPad gaming companion](https://appleinsider.com/articles/25/02/07/gamesir-cyclone-2-controller-review-my-new-go-to-mac-and-ipad-gaming-companion?utm_medium=rss)
- - [Paris cyber prosecutors open a probe into X over alleged algorithmic distortions, after an MP sent a complaint on January 12 that X was using biased algorithms &lpar;Dominique Vidalon/Reuters&rpar;](http://www.techmeme.com/250207/p16#a250207p16)<!-- TECH:END -->
+ - [Sources: Ilya Sutskever&#39;s Safe Superintelligence is in talks to raise funding at a valuation of $20B+, up from a $5B valuation from its September funding round &lpar;Reuters&rpar;](http://www.techmeme.com/250207/p17#a250207p17)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

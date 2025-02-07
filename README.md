@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [DOGE Builds ‘Firewall’ Between Musk’s Team and Legacy USDS Workers](https://www.wired.com/story/musk-doge-firewall-usds-workers/)
+ - [Trump issues an EO pausing the removal of the de minimis exemption on goods from China until systems are in place to &quot;process and collect tariff revenue&quot; &lpar;Jay Peters/The Verge&rpar;](http://www.techmeme.com/250207/p22#a250207p22)
  - [Ex-Apple engineer admits &#39;expensive mistake&#39; after leak lawsuit is dismissed](https://appleinsider.com/articles/25/02/07/ex-apple-engineer-admits-expensive-mistake-after-leak-lawsuit-is-dismissed?utm_medium=rss)
- - [Dubious leak details the exact specifications of Apple&#39;s foldable iPhone](https://appleinsider.com/articles/25/02/06/dubious-leak-purportedly-details-the-exact-specifications-of-apples-foldable-iphone?utm_medium=rss)
- - [Photopea Is a Free Photoshop Alternative That Runs in the Browser](https://www.wired.com/story/photopea-free-photoshop-alternative-that-runs-in-browser/)
- - [A German court rules that X must provide researchers access to data for tracking misinformation and disinformation ahead of Germany&#39;s national election &lpar;Thomas Escritt/Reuters&rpar;](http://www.techmeme.com/250207/p21#a250207p21)
- - [Uber&#39;s stock jumps 7%+ after Bill Ackman disclosed that his hedge fund Pershing Square Capital Management owns 30.3M shares; Pershing started buying in January &lpar;Bloomberg&rpar;](http://www.techmeme.com/250207/p20#a250207p20)<!-- TECH:END -->
+ - [Max: The 27 Absolute Best TV Shows to Watch](https://www.cnet.com/tech/services-and-software/best-tv-series-on-max-february-2025/#ftag=CAD590a51e)
+ - [Dubious leak details the exact specifications of Apple&#39;s foldable iPhone](https://appleinsider.com/articles/25/02/06/dubious-leak-purportedly-details-the-exact-specifications-of-apples-foldable-iphone?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

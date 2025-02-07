@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The Best Samsung Phones of 2025, Tested and Reviewed](https://www.wired.com/gallery/best-samsung-phones/)
  - [Meta and UNESCO launch Language Technology Partner Program to collect speech recordings and transcriptions to aid the development of future openly available AI &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/250207/p9#a250207p9)
+ - [Tubi Is Streaming Super Bowl 2025 for Free, With More Surprises Planned](https://www.cnet.com/tech/services-and-software/tubi-is-streaming-super-bowl-2025-for-free-with-more-surprises-planned/#ftag=CAD590a51e)
  - [13 Best Weighted Blankets, Robes, and Eye Masks &lpar;2025&rpar;](https://www.wired.com/gallery/best-weighted-blankets/)
- - [Swiggy&#39;s stock fell to $4.29 on February 6, below its $4.45 IPO price, after hitting $7.04 in December, as quarterly results showed Instamart lost marketshare &lpar;Manish Singh/TechCrunch&rpar;](http://www.techmeme.com/250207/p8#a250207p8)
- - [Sources: in a secret order last month, UK security officials demanded Apple create a backdoor to access all cloud content any Apple user worldwide has uploaded &lpar;Joseph Menn/Washington Post&rpar;](http://www.techmeme.com/250207/p7#a250207p7)
- - [Cloudflare reports Q4 revenue up 27% YoY to $459.9M, fiscal 2024 revenue up 29% YoY to $1.67B, and number of customers spending $1M+/year up 47% YoY to 173 &lpar;Cloudflare&rpar;](http://www.techmeme.com/250207/p6#a250207p6)<!-- TECH:END -->
+ - [Map Your Hikes, Running Routes and More With This iOS Feature on iPhone](https://www.cnet.com/tech/services-and-software/map-your-hikes-running-routes-and-more-with-this-ios-feature-on-iphone/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

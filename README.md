@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [WBD lost $300M on gaming in 2024; current and former staffers blame a lack of a strong, cohesive vision during former games chief David Haddad&#39;s tenure &lpar;Jason Schreier/Bloomberg&rpar;](http://www.techmeme.com/250207/p13#a250207p13)
+ - [Best Flower Delivery Services, Tested and Reviewed &lpar;2025&rpar;](https://www.wired.com/gallery/best-flower-delivery-service/)
  - [14 Best Deals on Valentine’s Day Gifts &lpar;2025&rpar;](https://www.wired.com/story/valentines-day-deals-2025/)
  - [Microsoft warns that attackers are injecting malware into ViewState, which manages state in ASP.NET web forms, using static machine keys found online &lpar;Sergiu Gatlan/BleepingComputer&rpar;](http://www.techmeme.com/250207/p12#a250207p12)
- - [DeepSeek&#39;s iOS app sends unencrypted data to Chinese servers](https://appleinsider.com/articles/25/02/07/deepseeks-ios-app-sends-unencrypted-data-to-chinese-servers?utm_medium=rss)
- - [The 6 Best Handheld Vacuums, Tested and Reviewed &lpar;2025&rpar;](https://www.wired.com/gallery/best-handheld-vacuum/)
- - [Google has edited Gemini&#39;s response in a Super Bowl commercial after it was found to contain false information about Gouda cheese &lpar;Emma Roth/The Verge&rpar;](http://www.techmeme.com/250207/p11#a250207p11)<!-- TECH:END -->
+ - [DeepSeek&#39;s iOS app sends unencrypted data to Chinese servers](https://appleinsider.com/articles/25/02/07/deepseeks-ios-app-sends-unencrypted-data-to-chinese-servers?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

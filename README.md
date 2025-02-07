@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Kadrey v. Meta: unsealed emails show Meta allegedly torrented 81.7TB+ of data across multiple shadow libraries through the site Anna&#39;s Archive for AI training &lpar;Ashley Belanger/Ars Technica&rpar;](http://www.techmeme.com/250207/p1#a250207p1)
  - [Cerebras says it worked with Mistral to help its Le Chat app respond to user questions with 1,000 words per second, making it the world&#39;s fastest AI assistant &lpar;Stephen Nellis/Reuters&rpar;](http://www.techmeme.com/250206/p48#a250206p48)
  - [Sources: DOGE is pushing rapidly to develop GSAi, a custom generative AI chatbot for the US GSA to boost productivity, analyze procurement data, and more &lpar;Wired&rpar;](http://www.techmeme.com/250206/p47#a250206p47)
  - [How to create your own Memories movies in Photos on iOS or iPadOS 18](https://appleinsider.com/inside/ios/tips/how-to-create-your-own-memories-movies-in-photos-on-ios-or-ipados-18?utm_medium=rss)
- - [In a meeting with GOP lawmakers, Donald Trump proposed taxing carried interest as ordinary income, a policy that could sharply increase the tax bill for VCs &lpar;Marina Temkin/TechCrunch&rpar;](http://www.techmeme.com/250206/p46#a250206p46)
- - [France and the UAE agree to build an up to 1GW data center in France, representing &amp;euro;30B to &amp;euro;50B in investments in French and Emirati AI, chips, talent, and more &lpar;Daphn&amp;eacute; Leprince-Ringuet/Sifted&rpar;](http://www.techmeme.com/250206/p45#a250206p45)<!-- TECH:END -->
+ - [In a meeting with GOP lawmakers, Donald Trump proposed taxing carried interest as ordinary income, a policy that could sharply increase the tax bill for VCs &lpar;Marina Temkin/TechCrunch&rpar;](http://www.techmeme.com/250206/p46#a250206p46)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

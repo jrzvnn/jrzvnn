@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [14 Best Deals on Valentine’s Day Gifts &lpar;2025&rpar;](https://www.wired.com/story/valentines-day-deals-2025/)
+ - [Microsoft warns that attackers are injecting malware into ViewState, which manages state in ASP.NET web forms, using static machine keys found online &lpar;Sergiu Gatlan/BleepingComputer&rpar;](http://www.techmeme.com/250207/p12#a250207p12)
+ - [DeepSeek&#39;s iOS app sends unencrypted data to Chinese servers](https://appleinsider.com/articles/25/02/07/deepseeks-ios-app-sends-unencrypted-data-to-chinese-servers?utm_medium=rss)
  - [The 6 Best Handheld Vacuums, Tested and Reviewed &lpar;2025&rpar;](https://www.wired.com/gallery/best-handheld-vacuum/)
- - [Google has edited Gemini&#39;s response in a Super Bowl commercial after it was found to contain false information about Gouda cheese &lpar;Emma Roth/The Verge&rpar;](http://www.techmeme.com/250207/p11#a250207p11)
- - [UK secretly orders Apple to let it spy on iPhone users worldwide](https://appleinsider.com/articles/25/02/07/uk-secretly-orders-apple-to-let-it-spy-on-iphone-users-worldwide?utm_medium=rss)
- - [The US Government Is Not a Startup](https://www.wired.com/story/the-us-government-is-not-a-startup/)
- - [HIG Capital plans to buy Toronto-based IT solution provider Converge Technology for $908M and merge it with Mainline Information; the deal closes in Q2, 2025 &lpar;Charles Capel/Bloomberg&rpar;](http://www.techmeme.com/250207/p10#a250207p10)<!-- TECH:END -->
+ - [Google has edited Gemini&#39;s response in a Super Bowl commercial after it was found to contain false information about Gouda cheese &lpar;Emma Roth/The Verge&rpar;](http://www.techmeme.com/250207/p11#a250207p11)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

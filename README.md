@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [A US Treasury Threat Intelligence Analysis Designates DOGE Staff as ‘Insider Threat’](https://www.wired.com/story/treasury-bfs-doge-insider-threat/)
  - [DeepMind says its AlphaGeometry2 model solved 84% of International Math Olympiad&#39;s geometry problems from the last 25 years, surpassing average gold medalists &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/250207/p24#a250207p24)
  - [Hugging Face researchers release &quot;Open Deep Research&quot; an open-source AI agent created in 24 hours, aiming to match OpenAI&#39;s Deep Research performance &lpar;Benj Edwards/Ars Technica&rpar;](http://www.techmeme.com/250207/p23#a250207p23)
  - [Here&#39;s How To See Six Planets in a Spectacular Planet Parade This Weekend](https://www.cnet.com/science/how-to-see-planet-parade-six-planets-in-the-sky-this-weekend/#ftag=CAD590a51e)
- - [Thinking of Buying the Galaxy S25? How It Compares to Older Samsung Phones](https://www.cnet.com/tech/mobile/thinking-of-buying-the-galaxy-s25-how-it-compares-to-older-samsung-phones/#ftag=CAD590a51e)
- - [Foldable iPhones, iPads, &amp; Macs: Everything you need to know about Apple&#39;s future](https://appleinsider.com/articles/25/02/07/foldable-iphones-ipads-macs-everything-you-need-to-know-about-apples-future?utm_medium=rss)<!-- TECH:END -->
+ - [Thinking of Buying the Galaxy S25? How It Compares to Older Samsung Phones](https://www.cnet.com/tech/mobile/thinking-of-buying-the-galaxy-s25-how-it-compares-to-older-samsung-phones/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

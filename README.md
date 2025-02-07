@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Trump has proposed taxing carried interest as ordinary income in a meeting with Republican lawmakers, a policy that could sharply increase the tax bill for VCs &lpar;Marina Temkin/TechCrunch&rpar;](http://www.techmeme.com/250206/p46#a250206p46)
+ - [Sources: DOGE is pushing rapidly to develop GSAi, a custom generative AI chatbot for the US GSA to boost productivity, analyze procurement data, and more &lpar;Wired&rpar;](http://www.techmeme.com/250206/p47#a250206p47)
+ - [How to create your own Memories movies in Photos on iOS or iPadOS 18](https://appleinsider.com/inside/ios/tips/how-to-create-your-own-memories-movies-in-photos-on-ios-or-ipados-18?utm_medium=rss)
+ - [In a meeting with GOP lawmakers, Donald Trump proposed taxing carried interest as ordinary income, a policy that could sharply increase the tax bill for VCs &lpar;Marina Temkin/TechCrunch&rpar;](http://www.techmeme.com/250206/p46#a250206p46)
  - [France and the UAE agree to build an up to 1GW data center in France, representing &amp;euro;30B to &amp;euro;50B in investments in French and Emirati AI, chips, talent, and more &lpar;Daphn&amp;eacute; Leprince-Ringuet/Sifted&rpar;](http://www.techmeme.com/250206/p45#a250206p45)
- - [Elon Musk’s DOGE Is Working on a Custom Chatbot Called GSAi](https://www.wired.com/story/doge-chatbot-ai-first-agenda/)
- - [Kelly Stonelake, a former Meta director who was at the company from 2009 to 2024, sues Meta, alleging sexual harassment, sex discrimination, and retaliation &lpar;TechCrunch&rpar;](http://www.techmeme.com/250206/p44#a250206p44)
- - [iPhone SE 4 could be revealed by Valentine&#39;s Day](https://appleinsider.com/articles/25/02/06/iphone-se-4-could-be-revealed-by-valentines-day?utm_medium=rss)<!-- TECH:END -->
+ - [Elon Musk’s DOGE Is Working on a Custom Chatbot Called GSAi](https://www.wired.com/story/doge-chatbot-ai-first-agenda/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

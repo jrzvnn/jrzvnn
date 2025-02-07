@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Filing: Kash Patel, Trump&#39;s nominee to head FBI, was allotted Shein shares of $1M to $5M in exchange for consulting services; he has no plans to divest them &lpar;Louise Matsakis/Wired&rpar;](http://www.techmeme.com/250207/p29#a250207p29)
+ - [SolarWinds says it will go private in a $4.4B deal with buyout firm Turn/River Capital; SWI jumps 20%+ after falling 35% in the past 12 months &lpar;Reuters&rpar;](http://www.techmeme.com/250207/p28#a250207p28)
  - [Trump&#39;s FBI Pick Kash Patel Took Up to $5M in Stock from Chinese Ecommerce Giant Shein](https://www.wired.com/story/kash-patel-elite-depot-shein/)
  - [Edward Coristine, a 19-year-old member of DOGE, was fired from an internship at cybersecurity firm Path Network for allegedly sharing info with a competitor &lpar;Bloomberg&rpar;](http://www.techmeme.com/250207/p27#a250207p27)
- - [Sources: Stripe competitor Rapyd is in talks to raise $300M from investors at a $3.5B valuation, a dramatic decline from its valuation of around $9B in 2021 &lpar;Bloomberg&rpar;](http://www.techmeme.com/250207/p26#a250207p26)
- - [Elon Musk says he will rehire a DOGE staffer who resigned following the exposure of his posts advocating for racism and eugenics, after Trump endorsed the idea &lpar;CNBC&rpar;](http://www.techmeme.com/250207/p25#a250207p25)
- - [iOS 18.4 Beta 1 is imminent, set to bring improvements to Siri](https://appleinsider.com/articles/25/02/07/ios-184-beta-1-is-imminent-set-to-bring-improvements-to-siri?utm_medium=rss)<!-- TECH:END -->
+ - [Today&#39;s NYT Connections Hints, Answers and Help for Feb. 8, #608](https://www.cnet.com/tech/gaming/todays-nyt-connections-hints-answers-and-help-for-feb-8-608/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

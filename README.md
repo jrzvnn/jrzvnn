@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The Best Samsung Galaxy S25 Cases and Accessories &lpar;2025&rpar;, Tested and Reviewed](https://www.wired.com/gallery/best-samsung-galaxy-s25-cases-and-accessories/)
  - [iPhone SE 4 -- All the rumors about Apple&#39;s next budget-friendly device](https://appleinsider.com/articles/25/02/07/iphone-se-4----all-the-rumors-about-apples-next-budget-friendly-device?utm_medium=rss)
  - [Sources: Anduril is in talks to raise up to $2.5B, led by Founders Fund with a $1B commitment, at a $28B valuation; Anduril&#39;s revenue in 2024 doubled to ~$1B &lpar;CNBC&rpar;](http://www.techmeme.com/250207/p30#a250207p30)
  - [The Labor Market Is Suffering, but Today&#39;s Jobs Data Looks Just Peachy](https://www.cnet.com/personal-finance/the-labor-market-is-suffering-but-todays-jobs-data-looks-just-peachy/#ftag=CAD590a51e)
- - [ACLU Warns DOGE’s ‘Unchecked’ Access Could Violate Federal Law](https://www.wired.com/story/aclu-doge-congress-musk-data/)
- - [Filing: Kash Patel, Trump&#39;s nominee to head FBI, was allotted Shein shares of $1M to $5M in exchange for consulting services; he has no plans to divest them &lpar;Louise Matsakis/Wired&rpar;](http://www.techmeme.com/250207/p29#a250207p29)<!-- TECH:END -->
+ - [ACLU Warns DOGE’s ‘Unchecked’ Access Could Violate Federal Law](https://www.wired.com/story/aclu-doge-congress-musk-data/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

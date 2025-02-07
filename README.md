@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [13 Best Weighted Blankets, Robes, and Eye Masks &lpar;2025&rpar;](https://www.wired.com/gallery/best-weighted-blankets/)
+ - [Swiggy&#39;s stock fell to $4.29 on February 6, below its $4.45 IPO price, after hitting $7.04 in December, as quarterly results showed Instamart lost marketshare &lpar;Manish Singh/TechCrunch&rpar;](http://www.techmeme.com/250207/p8#a250207p8)
  - [Sources: in a secret order last month, UK security officials demanded Apple create a backdoor to access all cloud content any Apple user worldwide has uploaded &lpar;Joseph Menn/Washington Post&rpar;](http://www.techmeme.com/250207/p7#a250207p7)
  - [Cloudflare reports Q4 revenue up 27% YoY to $459.9M, fiscal 2024 revenue up 29% YoY to $1.67B, and number of customers spending $1M+/year up 47% YoY to 173 &lpar;Cloudflare&rpar;](http://www.techmeme.com/250207/p6#a250207p6)
- - [Analysis: 736 memecoins were deposited in $TRUMP wallet over the past three weeks using a Solana function that allows dumping coins into wallets without consent &lpar;Financial Times&rpar;](http://www.techmeme.com/250207/p5#a250207p5)
- - [YouGov: 87% of Britons would back a law requiring developers to show their AI tools are safe before release and 60% support banning &quot;smarter-than-human&quot; models &lpar;Billy Perrigo/Time&rpar;](http://www.techmeme.com/250207/p4#a250207p4)
- - [Customer service software startup Sprinklr cuts 500 jobs, ~15% of its workforce, citing weak business performance; C-level staff remain unaffected &lpar;Jagmeet Singh/TechCrunch&rpar;](http://www.techmeme.com/250207/p3#a250207p3)<!-- TECH:END -->
+ - [Analysis: 736 memecoins were deposited in $TRUMP wallet over the past three weeks using a Solana function that allows dumping coins into wallets without consent &lpar;Financial Times&rpar;](http://www.techmeme.com/250207/p5#a250207p5)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

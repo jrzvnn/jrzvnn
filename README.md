@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Sources: Stripe competitor Rapyd is in talks to raise $300M from investors at a $3.5B valuation, a dramatic decline from its valuation of around $9B in 2021 &lpar;Bloomberg&rpar;](http://www.techmeme.com/250207/p26#a250207p26)
  - [Elon Musk says he will rehire a DOGE staffer who resigned following the exposure of his posts advocating for racism and eugenics, after Trump endorsed the idea &lpar;CNBC&rpar;](http://www.techmeme.com/250207/p25#a250207p25)
  - [iOS 18.4 Beta 1 is imminent, set to bring improvements to Siri](https://appleinsider.com/articles/25/02/07/ios-184-beta-1-is-imminent-set-to-bring-improvements-to-siri?utm_medium=rss)
  - [A US Treasury Threat Intelligence Analysis Designates DOGE Staff as ‘Insider Threat’](https://www.wired.com/story/treasury-bfs-doge-insider-threat/)
- - [DeepMind says its AlphaGeometry2 model solved 84% of International Math Olympiad&#39;s geometry problems from the last 25 years, surpassing average gold medalists &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/250207/p24#a250207p24)
- - [Ligue 1 Soccer: Livestream PSG vs. Monaco From Anywhere](https://www.cnet.com/tech/services-and-software/ligue-1-soccer-livestream-psg-vs-monaco-from-anywhere/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [DeepMind says its AlphaGeometry2 model solved 84% of International Math Olympiad&#39;s geometry problems from the last 25 years, surpassing average gold medalists &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/250207/p24#a250207p24)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

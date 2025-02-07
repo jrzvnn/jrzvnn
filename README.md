@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [YouGov: 87% of Britons would back a law requiring developers to show their AI tools are safe before release and 60% support banning &quot;smarter-than-human&quot; models &lpar;Billy Perrigo/Time&rpar;](http://www.techmeme.com/250207/p4#a250207p4)
  - [Customer service software startup Sprinklr cuts 500 jobs, ~15% of its workforce, citing weak business performance; C-level staff remain unaffected &lpar;Jagmeet Singh/TechCrunch&rpar;](http://www.techmeme.com/250207/p3#a250207p3)
+ - [Today&#39;s NYT Mini Crossword Answers for Friday, Feb. 7](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-friday-feb-7/#ftag=CAD590a51e)
  - [OpenAI updates o3-mini&#39;s chain of thought to make it easier for users &quot;to understand how the model thinks&quot;, available to both free and paid ChatGPT users &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/250207/p2#a250207p2)
- - [Kadrey v. Meta: unsealed emails show Meta allegedly torrented 81.7TB+ of data across multiple shadow libraries through the site Anna&#39;s Archive for AI training &lpar;Ashley Belanger/Ars Technica&rpar;](http://www.techmeme.com/250207/p1#a250207p1)
- - [Cerebras says it worked with Mistral to help its Le Chat app respond to user questions with 1,000 words per second, making it the world&#39;s fastest AI assistant &lpar;Stephen Nellis/Reuters&rpar;](http://www.techmeme.com/250206/p48#a250206p48)
- - [Sources: DOGE is pushing rapidly to develop GSAi, a custom generative AI chatbot for the US GSA to boost productivity, analyze procurement data, and more &lpar;Wired&rpar;](http://www.techmeme.com/250206/p47#a250206p47)<!-- TECH:END -->
+ - [Kadrey v. Meta: unsealed emails show Meta allegedly torrented 81.7TB+ of data across multiple shadow libraries through the site Anna&#39;s Archive for AI training &lpar;Ashley Belanger/Ars Technica&rpar;](http://www.techmeme.com/250207/p1#a250207p1)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

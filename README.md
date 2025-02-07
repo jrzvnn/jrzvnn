@@ -159,9 +159,9 @@ R                        1 repo              ░░░░░░░░░░░�
 <!-- TECH:START -->
  - [GameSir Cyclone 2 controller review: My new go-to Mac and iPad gaming companion](https://appleinsider.com/articles/25/02/07/gamesir-cyclone-2-controller-review-my-new-go-to-mac-and-ipad-gaming-companion?utm_medium=rss)
  - [Paris prosecutors open a probe into X over alleged algorithmic distortions, after an MP&#39;s complaint that X was using biased algorithms &lpar;Dominique Vidalon/Reuters&rpar;](http://www.techmeme.com/250207/p16#a250207p16)
- - [Sonos&#39; scrapped MagSafe speaker would have had trouble finding a target market](https://appleinsider.com/articles/25/02/07/sonos-scrapped-magsafe-speaker-would-have-had-trouble-finding-a-target-market?utm_medium=rss)
- - [Microsoft, Alphabet, Amazon, and Meta reported combined capex of $246B in 2024, up 63% YoY from $151B, with 2025 forecasts exceeding $320B &lpar;Financial Times&rpar;](http://www.techmeme.com/250207/p15#a250207p15)
- - [PreSonus Quantum HD Review: A Seamless Recording Tool](https://www.wired.com/review/presonus-quantum-hd/)<!-- TECH:END -->
+ - [You Can Watch All These Super Bowl 2025 Ads Right Now Before the Game](https://www.cnet.com/tech/services-and-software/you-can-watch-all-these-super-bowl-2025-ads-right-now-before-the-game/#ftag=CAD590a51e)
+ - [The 5 Best Sunrise Alarm Clocks and How to Choose One](https://www.cnet.com/health/sleep/best-sunrise-alarm-clock/#ftag=CAD590a51e)
+ - [Sonos&#39; scrapped MagSafe speaker would have had trouble finding a target market](https://appleinsider.com/articles/25/02/07/sonos-scrapped-magsafe-speaker-would-have-had-trouble-finding-a-target-market?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

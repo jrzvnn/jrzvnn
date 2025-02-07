@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Save $100 on Apple&#39;s iPad Air 6 at Amazon this weekend](https://appleinsider.com/articles/25/02/07/save-100-on-apples-ipad-air-6-at-amazon-this-weekend?utm_medium=rss)
+ - [Sources: Ilya Sutskever&#39;s Safe Superintelligence is in talks to raise funding at a valuation of $20B+, up from a $5B valuation from its September funding round &lpar;Reuters&rpar;](http://www.techmeme.com/250207/p17#a250207p17)
  - [GameSir Cyclone 2 controller review: My new go-to Mac and iPad gaming companion](https://appleinsider.com/articles/25/02/07/gamesir-cyclone-2-controller-review-my-new-go-to-mac-and-ipad-gaming-companion?utm_medium=rss)
  - [Paris prosecutors open a probe into X over alleged algorithmic distortions, after an MP&#39;s complaint that X was using biased algorithms &lpar;Dominique Vidalon/Reuters&rpar;](http://www.techmeme.com/250207/p16#a250207p16)
- - [You Can Watch All These Super Bowl 2025 Ads Right Now Before the Game](https://www.cnet.com/tech/services-and-software/you-can-watch-all-these-super-bowl-2025-ads-right-now-before-the-game/#ftag=CAD590a51e)
- - [The 5 Best Sunrise Alarm Clocks and How to Choose One](https://www.cnet.com/health/sleep/best-sunrise-alarm-clock/#ftag=CAD590a51e)
- - [Sonos&#39; scrapped MagSafe speaker would have had trouble finding a target market](https://appleinsider.com/articles/25/02/07/sonos-scrapped-magsafe-speaker-would-have-had-trouble-finding-a-target-market?utm_medium=rss)<!-- TECH:END -->
+ - [You Can Watch All These Super Bowl 2025 Ads Right Now Before the Game](https://www.cnet.com/tech/services-and-software/you-can-watch-all-these-super-bowl-2025-ads-right-now-before-the-game/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -157,9 +157,9 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [ACLU Warns DOGE&#39;s &#39;Unchecked&#39; Access Could Violate Federal Law](https://www.wired.com/story/aclu-doge-congress-musk-data/)
+ - [ACLU Warns DOGE’s ‘Unchecked’ Access Could Violate Federal Law](https://www.wired.com/story/aclu-doge-congress-musk-data/)
  - [Filing: Kash Patel, Trump&#39;s nominee to head FBI, was allotted Shein shares of $1M to $5M in exchange for consulting services; he has no plans to divest them &lpar;Louise Matsakis/Wired&rpar;](http://www.techmeme.com/250207/p29#a250207p29)
- - [SolarWinds says it will go private in a $4.4B deal with buyout firm Turn/River Capital &lpar;Reuters&rpar;](http://www.techmeme.com/250207/p28#a250207p28)
+ - [SolarWinds says it will go private in a $4.4B deal with buyout firm Turn/River Capital; SWI closes up 21.8% &lpar;Reuters&rpar;](http://www.techmeme.com/250207/p28#a250207p28)
  - [Trump&#39;s FBI Pick Kash Patel Took Up to $5M in Stock from Chinese Ecommerce Giant Shein](https://www.wired.com/story/kash-patel-elite-depot-shein/)
  - [Edward Coristine, a 19-year-old member of DOGE, was fired from an internship at cybersecurity firm Path Network for allegedly sharing info with a competitor &lpar;Bloomberg&rpar;](http://www.techmeme.com/250207/p27#a250207p27)<!-- TECH:END -->
 

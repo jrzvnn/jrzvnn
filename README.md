@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Customer service software startup Sprinklr cuts 500 jobs, ~15% of its workforce, citing weak business performance; C-level staff remains unaffected &lpar;Jagmeet Singh/TechCrunch&rpar;](http://www.techmeme.com/250207/p3#a250207p3)
  - [OpenAI updates o3-mini&#39;s chain of thought to make it easier for users &quot;to understand how the model thinks&quot;, available to both free and paid ChatGPT users &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/250207/p2#a250207p2)
  - [Kadrey v. Meta: unsealed emails show Meta allegedly torrented 81.7TB+ of data across multiple shadow libraries through the site Anna&#39;s Archive for AI training &lpar;Ashley Belanger/Ars Technica&rpar;](http://www.techmeme.com/250207/p1#a250207p1)
  - [Cerebras says it worked with Mistral to help its Le Chat app respond to user questions with 1,000 words per second, making it the world&#39;s fastest AI assistant &lpar;Stephen Nellis/Reuters&rpar;](http://www.techmeme.com/250206/p48#a250206p48)
- - [Sources: DOGE is pushing rapidly to develop GSAi, a custom generative AI chatbot for the US GSA to boost productivity, analyze procurement data, and more &lpar;Wired&rpar;](http://www.techmeme.com/250206/p47#a250206p47)
- - [How to create your own Memories movies in Photos on iOS or iPadOS 18](https://appleinsider.com/inside/ios/tips/how-to-create-your-own-memories-movies-in-photos-on-ios-or-ipados-18?utm_medium=rss)<!-- TECH:END -->
+ - [Sources: DOGE is pushing rapidly to develop GSAi, a custom generative AI chatbot for the US GSA to boost productivity, analyze procurement data, and more &lpar;Wired&rpar;](http://www.techmeme.com/250206/p47#a250206p47)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

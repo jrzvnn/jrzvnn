@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [PitchBook: almost 66% of VC funding in Europe came from abroad in 2024; no European company with &amp;euro;100B+ in market cap has been built from scratch in 30 years &lpar;Bloomberg&rpar;](http://www.techmeme.com/250208/p17#a250208p17)
  - [Apple execs spotted in New Orleans ahead of Super Bowl](https://appleinsider.com/articles/25/02/08/apple-execs-spotted-in-new-orleans-ahead-of-super-bowl?utm_medium=rss)
  - [Some users are wearing the Apple Watch on their ankles to get around problems, like skin conditions; some believe health metrics are more accurate on the ankle &lpar;Scott Cacciola/New York Times&rpar;](http://www.techmeme.com/250208/p16#a250208p16)
- - [Best Noise-Canceling Headphones for 2025](https://www.cnet.com/tech/mobile/best-noise-canceling-headphones/#ftag=CAD590a51e)
- - [Tass: Rostelecom says an unspecified external impact has damaged a Russian underwater cable in the Baltic Sea, but there was no impact on subscribers &lpar;Bloomberg&rpar;](http://www.techmeme.com/250208/p15#a250208p15)
- - [You Can Get Hulu and Max for Free With Food Delivery Memberships. Here&#39;s How.](https://www.cnet.com/deals/you-can-get-hulu-and-max-for-free-with-food-delivery-memberships-heres-how/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Are Cheap Meal Kit Services Any Good? I Tested a Bunch to Find Out](https://www.cnet.com/health/nutrition/cheapest-meal-delivery-service/#ftag=CAD590a51e)
+ - [Today&#39;s NYT Connections: Sports Edition Hints and Answers for Feb. 9 #139](https://www.cnet.com/tech/gaming/todays-nyt-connections-sports-edition-hints-and-answers-for-feb-9-139/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

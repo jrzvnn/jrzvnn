@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Three fundamental principles for the future of AI policymaking: have a clear view of reality, be pragmatic instead of ideological, and empower the AI ecosystem &lpar;Fei-Fei Li/Financial Times&rpar;](http://www.techmeme.com/250208/p4#a250208p4)
  - [Sources: TSMC is informing Chinese customers using its 16nm or better tech that it cannot ship orders unless they use a US &quot;white list&quot; chip packaging supplier &lpar;Cheng Ting-Fang/Nikkei Asia&rpar;](http://www.techmeme.com/250208/p3#a250208p3)
  - [CoinMarketCap: Circle&#39;s USDC market cap reached a new high of $56.2B on February 9, after dropping to $24.5B in 2023 in the months following FTX&#39;s collapse &lpar;Monique Mulima/Bloomberg&rpar;](http://www.techmeme.com/250208/p2#a250208p2)
  - [PlayStation Network has been experiencing a multi-hour outage, affecting account management, gaming and social, and PlayStation Video, Store, and Direct website &lpar;Jay Peters/The Verge&rpar;](http://www.techmeme.com/250208/p1#a250208p1)
- - [Nikkei: Japan&#39;s financial regulator asks Apple and Google to remove apps from Bybit, MEXC Global, LBank Exchange, KuCoin, and Bitget; Apple has removed the apps &lpar;James Hunt/The Block&rpar;](http://www.techmeme.com/250207/p38#a250207p38)
- - [Today&#39;s NYT Mini Crossword Answers for Saturday, Feb. 8](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-saturday-feb-8/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Nikkei: Japan&#39;s financial regulator asks Apple and Google to remove apps from Bybit, MEXC Global, LBank Exchange, KuCoin, and Bitget; Apple has removed the apps &lpar;James Hunt/The Block&rpar;](http://www.techmeme.com/250207/p38#a250207p38)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

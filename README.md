@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [How Sam Altman outflanked Elon Musk to win over Donald Trump, including by telling Trump in a phone call that AGI will be achieved during his second term &lpar;New York Times&rpar;](http://www.techmeme.com/250208/p10#a250208p10)
  - [8 Best Water Leak Detectors &lpar;2025&rpar;, Tested and Reviewed](https://www.wired.com/gallery/best-water-leak-detectors/)
  - [iPhone SE 4 could be revealed by Valentine&#39;s Day](https://appleinsider.com/articles/25/02/06/iphone-se-4-could-be-revealed-by-valentines-day?utm_medium=rss)
  - [Tests show DeepSeek&#39;s chatbot often hallucinates URLs in citations and admits that sharing news articles&#39; content could violate copyright and paywall policies &lpar;Andrew Deck/Nieman Lab&rpar;](http://www.techmeme.com/250208/p9#a250208p9)
- - [Eufy E20 3-in-1 Robot Vacuum Review: Compact Convenience](https://www.wired.com/review/eufy-e20-3-in-1-robot-vacuum/)
- - [Hilleberg Akto Review: The Best Solo Tent](https://www.wired.com/review/hilleberg-akto-4-season-tent/)<!-- TECH:END -->
+ - [Eufy E20 3-in-1 Robot Vacuum Review: Compact Convenience](https://www.wired.com/review/eufy-e20-3-in-1-robot-vacuum/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Nikkei: Japan&#39;s financial regulator asks Apple and Google to remove apps from Bybit, MEXC Global, LBank Exchange, KuCoin, and Bitget; Apple has removed the apps &lpar;James Hunt/The Block&rpar;](http://www.techmeme.com/250207/p38#a250207p38)
  - [An Adalytics report shows how ad systems run by Google, Amazon, Microsoft and others inadvertently placed ads on a website that hosts CSAM &lpar;Thomas Germain/BBC&rpar;](http://www.techmeme.com/250207/p37#a250207p37)
  - [Chat logs reveal DOGE member Edward Coristine&#39;s ties to cybercrime community The Com, and a Telegram handle linked to him sought a DDoS-for-hire service in 2022 &lpar;Brian Krebs/Krebs on Security&rpar;](http://www.techmeme.com/250207/p36#a250207p36)
  - [Docs: Palantir has won $2.7B+ in US contracts since 2009, including $1.3B+ in Pentagon contracts, and spent $5.8M in lobbying in 2024, up from ~$1M in 2015 &lpar;Financial Times&rpar;](http://www.techmeme.com/250207/p35#a250207p35)
- - [Sources: Island, which makes secure browsers for businesses, is raising money at a $4.5B valuation in a round led by Coatue; it was valued at $3B in April 2024 &lpar;Bloomberg&rpar;](http://www.techmeme.com/250207/p34#a250207p34)
- - [Sources: Klarna is targeting an IPO in the US in April with a valuation of up to $15B and is preparing to unveil its listing plans as soon as next month &lpar;Financial Times&rpar;](http://www.techmeme.com/250207/p33#a250207p33)<!-- TECH:END -->
+ - [Sources: Island, which makes secure browsers for businesses, is raising money at a $4.5B valuation in a round led by Coatue; it was valued at $3B in April 2024 &lpar;Bloomberg&rpar;](http://www.techmeme.com/250207/p34#a250207p34)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

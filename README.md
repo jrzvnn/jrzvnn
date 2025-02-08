@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Tass: Rostelecom says an unspecified external impact has damaged a Russian underwater cable in the Baltic Sea, but there was no impact on subscribers &lpar;Bloomberg&rpar;](http://www.techmeme.com/250208/p15#a250208p15)
  - [Leaked draft: the statement set to be signed at the Paris AI Action Summit barely mentions AI risks and fails to follow up on commitments from previous Summits &lpar;Shakeel Hashim/Transformer&rpar;](http://www.techmeme.com/250208/p14#a250208p14)
  - [Best Cases for Your iPhone 14 and iPhone 14 Pro in 2025](https://www.cnet.com/tech/mobile/best-iphone-14-cases/#ftag=CAD590a51e)
  - [How to use Starlink with iPhone &amp; how to disable it if you don&#39;t want it](https://appleinsider.com/inside/iphone-16/tips/how-to-use-starlink-with-iphone-how-to-disable-it-if-you-dont-want-it?utm_medium=rss)
- - [DeepSeek R1 is more susceptible to jailbreaking than ChatGPT, Gemini, and Claude; it can instruct on a bioweapon attack, write a pro-Hitler manifesto, and more &lpar;Sam Schechner/Wall Street Journal&rpar;](http://www.techmeme.com/250208/p13#a250208p13)
- - [Best Reusable Water Bottles in 2025](https://www.cnet.com/health/best-water-bottle/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [DeepSeek R1 is more susceptible to jailbreaking than ChatGPT, Gemini, and Claude; it can instruct on a bioweapon attack, write a pro-Hitler manifesto, and more &lpar;Sam Schechner/Wall Street Journal&rpar;](http://www.techmeme.com/250208/p13#a250208p13)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

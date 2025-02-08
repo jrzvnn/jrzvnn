@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [CoinMarketCap: Circle&#39;s USDC market cap reached a new high of $56.2B on February 9, after dropping to $24.5B in 2023 in the months following FTX&#39;s collapse &lpar;Monique Mulima/Bloomberg&rpar;](http://www.techmeme.com/250208/p2#a250208p2)
  - [PlayStation Network has been experiencing a multi-hour outage, affecting account management, gaming and social, and PlayStation Video, Store, and Direct website &lpar;Jay Peters/The Verge&rpar;](http://www.techmeme.com/250208/p1#a250208p1)
  - [Nikkei: Japan&#39;s financial regulator asks Apple and Google to remove apps from Bybit, MEXC Global, LBank Exchange, KuCoin, and Bitget; Apple has removed the apps &lpar;James Hunt/The Block&rpar;](http://www.techmeme.com/250207/p38#a250207p38)
  - [An Adalytics report shows how ad systems run by Google, Amazon, Microsoft and others inadvertently placed ads on a website that hosts CSAM &lpar;Thomas Germain/BBC&rpar;](http://www.techmeme.com/250207/p37#a250207p37)
- - [Chat logs reveal DOGE member Edward Coristine&#39;s ties to cybercrime community The Com, and a Telegram handle linked to him sought a DDoS-for-hire service in 2022 &lpar;Brian Krebs/Krebs on Security&rpar;](http://www.techmeme.com/250207/p36#a250207p36)
- - [Docs: Palantir has won $2.7B+ in US contracts since 2009, including $1.3B+ in Pentagon contracts, and spent $5.8M in lobbying in 2024, up from ~$1M in 2015 &lpar;Financial Times&rpar;](http://www.techmeme.com/250207/p35#a250207p35)<!-- TECH:END -->
+ - [Chat logs reveal DOGE member Edward Coristine&#39;s ties to cybercrime community The Com, and a Telegram handle linked to him sought a DDoS-for-hire service in 2022 &lpar;Brian Krebs/Krebs on Security&rpar;](http://www.techmeme.com/250207/p36#a250207p36)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

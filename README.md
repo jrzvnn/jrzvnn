@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [How Morocco Became the Meteorite Hunting Capital of the World](https://www.wired.com/story/morocco-meteorites-saharan-gold-rush/)
  - [Investors worry about EU satellite operators Eutelsat and SES amid soaring debt and rise of Starlink, which now has 6,000+ satellites and serves ~130 countries &lpar;Euan Healy/Financial Times&rpar;](http://www.techmeme.com/250208/p7#a250208p7)
  - [Court filing: President Trump ends legal fight over his Twitter ban after the January 6, 2021 riot; the filing doesn&#39;t specify how the case was resolved &lpar;Zoe Tillman/Bloomberg&rpar;](http://www.techmeme.com/250208/p6#a250208p6)
  - [MediaTek reports sales up 22.4% YoY to ~$16.2B in 2024 and net profit up 38.2% YoY to ~$3.24B, posting its first sales and profit growth in two fiscal years &lpar;Hideaki Ryugen/Nikkei Asia&rpar;](http://www.techmeme.com/250208/p5#a250208p5)
- - [Three fundamental principles for the future of AI policymaking: have a clear view of reality, be pragmatic instead of ideological, and empower the AI ecosystem &lpar;Fei-Fei Li/Financial Times&rpar;](http://www.techmeme.com/250208/p4#a250208p4)
- - [Sources: TSMC is informing Chinese customers using its 16nm or better tech that it cannot ship orders unless they use a US &quot;white list&quot; chip packaging supplier &lpar;Cheng Ting-Fang/Nikkei Asia&rpar;](http://www.techmeme.com/250208/p3#a250208p3)<!-- TECH:END -->
+ - [Three fundamental principles for the future of AI policymaking: have a clear view of reality, be pragmatic instead of ideological, and empower the AI ecosystem &lpar;Fei-Fei Li/Financial Times&rpar;](http://www.techmeme.com/250208/p4#a250208p4)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

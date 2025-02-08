@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Docs: Palantir has won $2.7B+ in US contracts since 2009, including $1.3B+ in Pentagon contracts, and spent $5.8M in lobbying in 2024, up from ~$1M in 2015 &lpar;Financial Times&rpar;](http://www.techmeme.com/250207/p35#a250207p35)
  - [Sources: Island, which makes secure browsers for businesses, is raising money at a $4.5B valuation in a round led by Coatue; it was valued at $3B in April 2024 &lpar;Bloomberg&rpar;](http://www.techmeme.com/250207/p34#a250207p34)
  - [Sources: Klarna is targeting an IPO in the US in April with a valuation of up to $15B and is preparing to unveil its listing plans as soon as next month &lpar;Financial Times&rpar;](http://www.techmeme.com/250207/p33#a250207p33)
  - [Sources: Anthropic&#39;s funding round is oversubscribed and expected to raise $2B+, with Lightspeed set to invest ~$1B; Menlo, MGX, and others are in talks to join &lpar;Bloomberg&rpar;](http://www.techmeme.com/250207/p32#a250207p32)
- - [Sources: Trump has tasked JD Vance and National Security Adviser Michael Waltz with overseeing a potential sale of TikTok &lpar;Punchbowl News&rpar;](http://www.techmeme.com/250207/p31#a250207p31)
- - [The Best Samsung Galaxy S25 Cases and Accessories &lpar;2025&rpar;, Tested and Reviewed](https://www.wired.com/gallery/best-samsung-galaxy-s25-cases-and-accessories/)<!-- TECH:END -->
+ - [Sources: Trump has tasked JD Vance and National Security Adviser Michael Waltz with overseeing a potential sale of TikTok &lpar;Punchbowl News&rpar;](http://www.techmeme.com/250207/p31#a250207p31)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

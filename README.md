@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [TikTok advises its US Android users to sideload the app through APKs made available for download on its official website &lpar;Mariella Moon/Engadget&rpar;](http://www.techmeme.com/250208/p11#a250208p11)
+ - [No, Elon Musk Didn&#39;t End the Free Direct File Tax Filing Program, for Now](https://www.cnet.com/personal-finance/taxes/no-elon-musk-didnt-end-the-free-direct-file-tax-filing-program-for-now/#ftag=CAD590a51e)
+ - [Watch FA Cup Soccer: Livestream Birmingham vs. Newcastle From Anywhere](https://www.cnet.com/tech/services-and-software/watch-fa-cup-soccer-livestream-birmingham-vs-newcastle-from-anywhere/#ftag=CAD590a51e)
  - [How Sam Altman outflanked Elon Musk to win over Donald Trump, including by telling Trump in a phone call that AGI will be achieved during his second term &lpar;New York Times&rpar;](http://www.techmeme.com/250208/p10#a250208p10)
- - [Best Internet Providers in Austin, Texas](https://www.cnet.com/home/internet/best-internet-providers-in-austin-tx/#ftag=CAD590a51e)
- - [England vs. France: How to Watch 2025 Six Nations Rugby Live From Anywhere](https://www.cnet.com/tech/services-and-software/england-vs-france-how-to-watch-2025-six-nations-rugby-live-from-anywhere/#ftag=CAD590a51e)
- - [iPhone SE 4 Rumors: Apple&#39;s New SE Could Drop Soon With an iPhone 14-Like Design](https://www.cnet.com/tech/mobile/iphone-se-4-rumors-apples-new-se-could-drop-soon-with-an-iphone-14-like-design/#ftag=CAD590a51e)
- - [Black Holes Prepare and Eat Their Own Dinner, New Study Shows](https://www.cnet.com/science/new-study-shows-black-holes-prepare-and-eat-their-own-dinner/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Best Internet Providers in Austin, Texas](https://www.cnet.com/home/internet/best-internet-providers-in-austin-tx/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Court filing: President Trump ends legal fight over his Twitter ban after the January 6, 2021 riot; the filing doesn&#39;t specify how the case was resolved &lpar;Zoe Tillman/Bloomberg&rpar;](http://www.techmeme.com/250208/p6#a250208p6)
  - [MediaTek reports sales up 22.4% YoY to ~$16.2B in 2024 and net profit up 38.2% YoY to ~$3.24B, posting its first sales and profit growth in two fiscal years &lpar;Hideaki Ryugen/Nikkei Asia&rpar;](http://www.techmeme.com/250208/p5#a250208p5)
  - [Three fundamental principles for the future of AI policymaking: have a clear view of reality, be pragmatic instead of ideological, and empower the AI ecosystem &lpar;Fei-Fei Li/Financial Times&rpar;](http://www.techmeme.com/250208/p4#a250208p4)
  - [Sources: TSMC is informing Chinese customers using its 16nm or better tech that it cannot ship orders unless they use a US &quot;white list&quot; chip packaging supplier &lpar;Cheng Ting-Fang/Nikkei Asia&rpar;](http://www.techmeme.com/250208/p3#a250208p3)
- - [CoinMarketCap: Circle&#39;s USDC market cap reached a new high of $56.2B on February 9, after dropping to $24.5B in 2023 in the months following FTX&#39;s collapse &lpar;Monique Mulima/Bloomberg&rpar;](http://www.techmeme.com/250208/p2#a250208p2)
- - [PlayStation Network has been experiencing a multi-hour outage, affecting account management, gaming and social, and PlayStation Video, Store, and Direct website &lpar;Jay Peters/The Verge&rpar;](http://www.techmeme.com/250208/p1#a250208p1)<!-- TECH:END -->
+ - [CoinMarketCap: Circle&#39;s USDC market cap reached a new high of $56.2B on February 9, after dropping to $24.5B in 2023 in the months following FTX&#39;s collapse &lpar;Monique Mulima/Bloomberg&rpar;](http://www.techmeme.com/250208/p2#a250208p2)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

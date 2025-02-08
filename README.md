@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Apple’s Invites App Requires an iCloud+ Subscription to Host an Event](https://www.wired.com/story/apples-new-invites-app-requires-an-icloud-subscription-to-host-an-event/)
  - [Temu and Shein Raised Prices, Removed Products as Trump’s China Tariffs Went Into Effect](https://www.wired.com/story/tariffs-shein-temu-ecommercce/)
  - [How to Watch Super Bowl 2025: Livestream Options, Channel for Eagles vs. Chiefs](https://www.cnet.com/tech/services-and-software/how-to-watch-super-bowl-2025-livestream-options-channel-for-eagles-vs-chiefs/#ftag=CAD590a51e)
  - [How Morocco Became the Meteorite Hunting Capital of the World](https://www.wired.com/story/morocco-meteorites-saharan-gold-rush/)
- - [Investors worry about EU satellite operators Eutelsat and SES amid soaring debt and rise of Starlink, which now has 6,000+ satellites and serves ~130 countries &lpar;Euan Healy/Financial Times&rpar;](http://www.techmeme.com/250208/p7#a250208p7)
- - [Court filing: President Trump ends legal fight over his Twitter ban after the January 6, 2021 riot; the filing doesn&#39;t specify how the case was resolved &lpar;Zoe Tillman/Bloomberg&rpar;](http://www.techmeme.com/250208/p6#a250208p6)<!-- TECH:END -->
+ - [Investors worry about EU satellite operators Eutelsat and SES amid soaring debt and rise of Starlink, which now has 6,000+ satellites and serves ~130 countries &lpar;Euan Healy/Financial Times&rpar;](http://www.techmeme.com/250208/p7#a250208p7)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

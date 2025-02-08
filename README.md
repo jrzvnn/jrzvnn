@@ -160,8 +160,8 @@ R                        1 repo              ░░░░░░░░░░░�
  - [Tests show DeepSeek&#39;s chatbot often hallucinates URLs in citations and admits that sharing news articles&#39; content could violate copyright and paywall policies &lpar;Andrew Deck/Nieman Lab&rpar;](http://www.techmeme.com/250208/p9#a250208p9)
  - [Eufy E20 3-in-1 Robot Vacuum Review: Compact Convenience](https://www.wired.com/review/eufy-e20-3-in-1-robot-vacuum/)
  - [Hilleberg Akto Review: The Best Solo Tent](https://www.wired.com/review/hilleberg-akto-4-season-tent/)
- - [Fancii Abigail Review: The Best Travel Makeup Mirror](https://www.wired.com/review/fancii-abigail/)
- - [Google Gemini 2.0 AI Is Out Now. Here Are the Highlights](https://www.cnet.com/tech/services-and-software/google-gemini-2-0-ai-is-out-now-here-are-the-highlights/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Here&#39;s How Much You Can Earn by Depositing $5,000 Into a CD Now](https://www.cnet.com/personal-finance/banking/heres-how-much-you-can-earn-by-depositing-5000-into-a-cd-now/#ftag=CAD590a51e)
+ - [Fancii Abigail Review: The Best Travel Makeup Mirror](https://www.wired.com/review/fancii-abigail/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

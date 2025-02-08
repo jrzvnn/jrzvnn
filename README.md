@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Fancii Abigail Review: The Best Travel Makeup Mirror](https://www.wired.com/review/fancii-abigail/)
  - [Why People Act So Weirdly at Airports](https://www.wired.com/story/the-weird-psychology-of-airports/)
  - [Best Reading Glasses for 2025](https://www.cnet.com/health/personal-care/best-reading-glasses/#ftag=CAD590a51e)
  - [&#39;Severance&#39; Self-Help Book Is Now Free for Download](https://www.cnet.com/tech/services-and-software/severance-self-help-book-is-now-free-for-download/#ftag=CAD590a51e)
- - [6 Natural Sugar Alternatives You Can Indulge In for Super Bowl Festivities](https://www.cnet.com/health/nutrition/natural-sugar-alternatives-indulge-super-bowl/#ftag=CAD590a51e)
- - [Earn Rewards for Paying Rent or Mortgage on a Credit Card? Yes, Please](https://www.cnet.com/personal-finance/credit-cards/earn-rewards-for-paying-rent-or-mortgage-on-a-credit-card-yes-please/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [6 Natural Sugar Alternatives You Can Indulge In for Super Bowl Festivities](https://www.cnet.com/health/nutrition/natural-sugar-alternatives-indulge-super-bowl/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

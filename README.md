@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Sources: Anthropic&#39;s funding round is oversubscribed and expected to raise $2B+, with Lightspeed set to invest ~$1B; Menlo, MGX, and others are in talks to join &lpar;Bloomberg&rpar;](http://www.techmeme.com/250207/p32#a250207p32)
+ - [Sources: Trump has tasked JD Vance and National Security Adviser Michael Waltz with overseeing a potential sale of TikTok &lpar;Punchbowl News&rpar;](http://www.techmeme.com/250207/p31#a250207p31)
  - [The Best Samsung Galaxy S25 Cases and Accessories &lpar;2025&rpar;, Tested and Reviewed](https://www.wired.com/gallery/best-samsung-galaxy-s25-cases-and-accessories/)
  - [iPhone SE 4 -- All the rumors about Apple&#39;s next budget-friendly device](https://appleinsider.com/articles/25/02/07/iphone-se-4----all-the-rumors-about-apples-next-budget-friendly-device?utm_medium=rss)
- - [Sources: Anduril is in talks to raise up to $2.5B, led by Founders Fund with a $1B commitment, at a $28B valuation; Anduril&#39;s revenue in 2024 doubled to ~$1B &lpar;CNBC&rpar;](http://www.techmeme.com/250207/p30#a250207p30)
- - [The Labor Market Is Suffering, but Today&#39;s Jobs Data Looks Just Peachy](https://www.cnet.com/personal-finance/the-labor-market-is-suffering-but-todays-jobs-data-looks-just-peachy/#ftag=CAD590a51e)
- - [ACLU Warns DOGE’s ‘Unchecked’ Access Could Violate Federal Law](https://www.wired.com/story/aclu-doge-congress-musk-data/)<!-- TECH:END -->
+ - [Sources: Anduril is in talks to raise up to $2.5B, led by Founders Fund with a $1B commitment, at a $28B valuation; Anduril&#39;s revenue in 2024 doubled to ~$1B &lpar;CNBC&rpar;](http://www.techmeme.com/250207/p30#a250207p30)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

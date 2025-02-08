@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [8 Best Water Leak Detectors &lpar;2025&rpar;, Tested and Reviewed](https://www.wired.com/gallery/best-water-leak-detectors/)
+ - [iPhone SE 4 could be revealed by Valentine&#39;s Day](https://appleinsider.com/articles/25/02/06/iphone-se-4-could-be-revealed-by-valentines-day?utm_medium=rss)
  - [Tests show DeepSeek&#39;s chatbot often hallucinates URLs in citations and admits that sharing news articles&#39; content could violate copyright and paywall policies &lpar;Andrew Deck/Nieman Lab&rpar;](http://www.techmeme.com/250208/p9#a250208p9)
  - [Eufy E20 3-in-1 Robot Vacuum Review: Compact Convenience](https://www.wired.com/review/eufy-e20-3-in-1-robot-vacuum/)
- - [Hilleberg Akto Review: The Best Solo Tent](https://www.wired.com/review/hilleberg-akto-4-season-tent/)
- - [Here&#39;s How Much You Can Earn by Depositing $5,000 Into a CD Now](https://www.cnet.com/personal-finance/banking/heres-how-much-you-can-earn-by-depositing-5000-into-a-cd-now/#ftag=CAD590a51e)
- - [Fancii Abigail Review: The Best Travel Makeup Mirror](https://www.wired.com/review/fancii-abigail/)<!-- TECH:END -->
+ - [Hilleberg Akto Review: The Best Solo Tent](https://www.wired.com/review/hilleberg-akto-4-season-tent/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

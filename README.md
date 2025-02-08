@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Hilleberg Akto Review: The Best Solo Tent](https://www.wired.com/review/hilleberg-akto-4-season-tent/)
  - [Fancii Abigail Review: The Best Travel Makeup Mirror](https://www.wired.com/review/fancii-abigail/)
- - [Why People Act So Weirdly at Airports](https://www.wired.com/story/the-weird-psychology-of-airports/)
- - [Best Reading Glasses for 2025](https://www.cnet.com/health/personal-care/best-reading-glasses/#ftag=CAD590a51e)
- - [&#39;Severance&#39; Self-Help Book Is Now Free for Download](https://www.cnet.com/tech/services-and-software/severance-self-help-book-is-now-free-for-download/#ftag=CAD590a51e)
- - [6 Natural Sugar Alternatives You Can Indulge In for Super Bowl Festivities](https://www.cnet.com/health/nutrition/natural-sugar-alternatives-indulge-super-bowl/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Google Gemini 2.0 AI Is Out Now. Here Are the Highlights](https://www.cnet.com/tech/services-and-software/google-gemini-2-0-ai-is-out-now-here-are-the-highlights/#ftag=CAD590a51e)
+ - [Watch FA Cup Soccer: Livestream Everton vs. Bournemouth From Anywhere](https://www.cnet.com/tech/services-and-software/watch-fa-cup-soccer-livestream-everton-vs-bournemouth-from-anywhere/#ftag=CAD590a51e)
+ - [Galaxy S25 and S25 Plus Review: AI That&#39;s Enjoyable Without Being Overwhelming](https://www.cnet.com/tech/mobile/galaxy-s25-and-s25-plus-review-ai-thats-enjoyable-without-being-overwhelming/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

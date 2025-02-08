@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Best Reading Glasses for 2025](https://www.cnet.com/health/personal-care/best-reading-glasses/#ftag=CAD590a51e)
- - [&#39;Severance&#39; Self-Help Book Is Now Free for Download](https://www.cnet.com/tech/services-and-software/severance-self-help-book-is-now-free-for-download/#ftag=CAD590a51e)
- - [6 Natural Sugar Alternatives You Can Indulge In for Super Bowl Festivities](https://www.cnet.com/health/nutrition/natural-sugar-alternatives-indulge-super-bowl/#ftag=CAD590a51e)
- - [Earn Rewards for Paying Rent or Mortgage on a Credit Card? Yes, Please](https://www.cnet.com/personal-finance/credit-cards/earn-rewards-for-paying-rent-or-mortgage-on-a-credit-card-yes-please/#ftag=CAD590a51e)
- - [I Tested the Turboant M10 Pro Electric Scooter and It&#39;s Ideal for First-Time Buyers](https://www.cnet.com/roadshow/news/i-tested-the-turboant-m10-pro-electric-scooter-and-its-ideal-for-first-time-buyers/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Gutting USAID Will Have a Monumental Effect on Combating Climate Change](https://www.wired.com/story/gutting-usaid-will-have-a-monumental-effect-on-combating-climate-change/)
+ - [The 42 Best Movies on Netflix Right Now &lpar;February 2025&rpar;](https://www.wired.com/story/netflix-best-movies-this-week/)
+ - [The 43 Best Shows on Netflix Right Now &lpar;February 2025&rpar;](https://www.wired.com/story/netflix-best-shows-this-week/)
+ - [A look at the daunting task for Google and others of mapping roads and maintaining accurate maps in India, amid growing reports of misdirections in the country &lpar;Ananya Bhattacharya/Rest of World&rpar;](http://www.techmeme.com/250208/p8#a250208p8)
+ - [Watch FA Cup Soccer: Livestream Leyton Orient vs. Man City From Anywhere](https://www.cnet.com/tech/services-and-software/watch-fa-cup-soccer-livestream-leyton-orient-vs-man-city-from-anywhere/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

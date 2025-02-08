@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [How to use Starlink with iPhone &amp; how to disable it if you don&#39;t want it](https://appleinsider.com/inside/iphone-16/tips/how-to-use-starlink-with-iphone-how-to-disable-it-if-you-dont-want-it?utm_medium=rss)
  - [DeepSeek R1 is more susceptible to jailbreaking than ChatGPT, Gemini, and Claude; it can instruct on a bioweapon attack, write a pro-Hitler manifesto, and more &lpar;Sam Schechner/Wall Street Journal&rpar;](http://www.techmeme.com/250208/p13#a250208p13)
- - [In January, Elon Musk said he had &quot;not put in a bid for TikTok&quot; and wasn&#39;t &quot;chomping at the bit to acquire&quot; it, amid reports of China evaluating the possibility &lpar;Shelly Banjo/Bloomberg&rpar;](http://www.techmeme.com/250208/p12#a250208p12)
+ - [At a conference in January, Elon Musk said he hadn&#39;t bid for TikTok and was not &quot;chomping at the bit to acquire&quot; it, amid reports of China evaluating the option &lpar;Shelly Banjo/Bloomberg&rpar;](http://www.techmeme.com/250208/p12#a250208p12)
  - [UFC 312: Du Plessis vs. Strickland 2: Watch Livestream, Start Time, Full Card](https://www.cnet.com/tech/services-and-software/ufc-312-du-plessis-vs-strickland-2-watch-livestream-start-time-full-card/#ftag=CAD590a51e)
- - [Watch FA Cup Soccer: Livestream Brighton vs. Chelsea From Anywhere](https://www.cnet.com/tech/services-and-software/watch-fa-cup-soccer-livestream-brighton-vs-chelsea-from-anywhere/#ftag=CAD590a51e)
- - [La Liga Soccer Livestream: How to Watch Real Madrid vs. Atlético Madrid From Anywhere](https://www.cnet.com/tech/services-and-software/la-liga-soccer-livestream-how-to-watch-real-madrid-vs-atletico-madrid-from-anywhere/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Watch FA Cup Soccer: Livestream Brighton vs. Chelsea From Anywhere](https://www.cnet.com/tech/services-and-software/watch-fa-cup-soccer-livestream-brighton-vs-chelsea-from-anywhere/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

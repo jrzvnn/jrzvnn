@@ -158,10 +158,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- TECH:START -->
  - [At a conference last month in Germany, Elon Musk said he has &quot;not put in a bid for TikTok&quot; and is not &quot;chomping at the bit to acquire&quot; the app &lpar;Shelly Banjo/Bloomberg&rpar;](http://www.techmeme.com/250208/p12#a250208p12)
- - [TikTok advises its US Android users to sideload the app through APKs made available for download on its official website &lpar;Mariella Moon/Engadget&rpar;](http://www.techmeme.com/250208/p11#a250208p11)
- - [No, Elon Musk Didn&#39;t End the Free Direct File Tax Filing Program, for Now](https://www.cnet.com/personal-finance/taxes/no-elon-musk-didnt-end-the-free-direct-file-tax-filing-program-for-now/#ftag=CAD590a51e)
- - [Watch FA Cup Soccer: Livestream Birmingham vs. Newcastle From Anywhere](https://www.cnet.com/tech/services-and-software/watch-fa-cup-soccer-livestream-birmingham-vs-newcastle-from-anywhere/#ftag=CAD590a51e)
- - [How Sam Altman outflanked Elon Musk to win over Donald Trump, including by telling Trump in a phone call that the tech industry will achieve AGI during his term &lpar;New York Times&rpar;](http://www.techmeme.com/250208/p10#a250208p10)<!-- TECH:END -->
+ - [UFC 312: Du Plessis vs. Strickland 2: Watch Livestream, Start Time, Full Card](https://www.cnet.com/tech/services-and-software/ufc-312-du-plessis-vs-strickland-2-watch-livestream-start-time-full-card/#ftag=CAD590a51e)
+ - [Watch FA Cup Soccer: Livestream Brighton vs. Chelsea From Anywhere](https://www.cnet.com/tech/services-and-software/watch-fa-cup-soccer-livestream-brighton-vs-chelsea-from-anywhere/#ftag=CAD590a51e)
+ - [La Liga Soccer Livestream: How to Watch Real Madrid vs. Atlético Madrid From Anywhere](https://www.cnet.com/tech/services-and-software/la-liga-soccer-livestream-how-to-watch-real-madrid-vs-atletico-madrid-from-anywhere/#ftag=CAD590a51e)
+ - [TikTok advises its US Android users to sideload the app through APKs made available for download on its official website &lpar;Mariella Moon/Engadget&rpar;](http://www.techmeme.com/250208/p11#a250208p11)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

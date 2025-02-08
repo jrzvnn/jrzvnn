@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [A look at the daunting task for Google and others of mapping roads and maintaining accurate maps in India, amid growing reports of misdirections in the country &lpar;Ananya Bhattacharya/Rest of World&rpar;](http://www.techmeme.com/250208/p8#a250208p8)
+ - [Watch FA Cup Soccer: Livestream Leyton Orient vs. Man City From Anywhere](https://www.cnet.com/tech/services-and-software/watch-fa-cup-soccer-livestream-leyton-orient-vs-man-city-from-anywhere/#ftag=CAD590a51e)
+ - [Student Loan Payments Could Skyrocket for SAVE Borrowers. Here&#39;s How Much Yours Could Rise](https://www.cnet.com/personal-finance/loans/student-loan-payments-could-skyrocket-for-save-borrowers-heres-how-much-yours-could-rise/#ftag=CAD590a51e)
  - [This Forgotten Nintendo Switch Game Can Level Up Your Workouts](https://www.wired.com/story/this-forgotten-nintendo-switch-game-can-level-up-your-workouts/)
- - [UK Secret Order Demands That Apple Give Access to Users’ Encrypted Data](https://www.wired.com/story/uk-secret-order-apple-users-encrypted-data/)
- - [Apple’s Invites App Requires an iCloud+ Subscription to Host an Event](https://www.wired.com/story/apples-new-invites-app-requires-an-icloud-subscription-to-host-an-event/)
- - [Temu and Shein Raised Prices, Removed Products as Trump’s China Tariffs Went Into Effect](https://www.wired.com/story/tariffs-shein-temu-ecommercce/)
- - [How to Watch Super Bowl 2025: Livestream Options, Channel for Eagles vs. Chiefs](https://www.cnet.com/tech/services-and-software/how-to-watch-super-bowl-2025-livestream-options-channel-for-eagles-vs-chiefs/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [UK Secret Order Demands That Apple Give Access to Users’ Encrypted Data](https://www.wired.com/story/uk-secret-order-apple-users-encrypted-data/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

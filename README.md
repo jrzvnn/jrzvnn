@@ -158,10 +158,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- TECH:START -->
  - [How Sam Altman outflanked Elon Musk to win over Donald Trump, including by telling Trump in a phone call that AGI will be achieved during his second term &lpar;New York Times&rpar;](http://www.techmeme.com/250208/p10#a250208p10)
- - [8 Best Water Leak Detectors &lpar;2025&rpar;, Tested and Reviewed](https://www.wired.com/gallery/best-water-leak-detectors/)
- - [iPhone SE 4 could be revealed by Valentine&#39;s Day](https://appleinsider.com/articles/25/02/06/iphone-se-4-could-be-revealed-by-valentines-day?utm_medium=rss)
- - [Tests show DeepSeek&#39;s chatbot often hallucinates URLs in citations and admits that sharing news articles&#39; content could violate copyright and paywall policies &lpar;Andrew Deck/Nieman Lab&rpar;](http://www.techmeme.com/250208/p9#a250208p9)
- - [Eufy E20 3-in-1 Robot Vacuum Review: Compact Convenience](https://www.wired.com/review/eufy-e20-3-in-1-robot-vacuum/)<!-- TECH:END -->
+ - [Best Internet Providers in Austin, Texas](https://www.cnet.com/home/internet/best-internet-providers-in-austin-tx/#ftag=CAD590a51e)
+ - [England vs. France: How to Watch 2025 Six Nations Rugby Live From Anywhere](https://www.cnet.com/tech/services-and-software/england-vs-france-how-to-watch-2025-six-nations-rugby-live-from-anywhere/#ftag=CAD590a51e)
+ - [iPhone SE 4 Rumors: Apple&#39;s New SE Could Drop Soon With an iPhone 14-Like Design](https://www.cnet.com/tech/mobile/iphone-se-4-rumors-apples-new-se-could-drop-soon-with-an-iphone-14-like-design/#ftag=CAD590a51e)
+ - [Black Holes Prepare and Eat Their Own Dinner, New Study Shows](https://www.cnet.com/science/new-study-shows-black-holes-prepare-and-eat-their-own-dinner/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

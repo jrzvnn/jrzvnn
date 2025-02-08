@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Apple execs spotted in New Orleans ahead of Super Bowl](https://appleinsider.com/articles/25/02/08/apple-execs-spotted-in-new-orleans-ahead-of-super-bowl?utm_medium=rss)
  - [Some users are wearing the Apple Watch on their ankles to get around problems, like skin conditions; some believe health metrics are more accurate on the ankle &lpar;Scott Cacciola/New York Times&rpar;](http://www.techmeme.com/250208/p16#a250208p16)
  - [Best Noise-Canceling Headphones for 2025](https://www.cnet.com/tech/mobile/best-noise-canceling-headphones/#ftag=CAD590a51e)
  - [Tass: Rostelecom says an unspecified external impact has damaged a Russian underwater cable in the Baltic Sea, but there was no impact on subscribers &lpar;Bloomberg&rpar;](http://www.techmeme.com/250208/p15#a250208p15)
- - [You Can Get Hulu and Max for Free With Food Delivery Memberships. Here&#39;s How.](https://www.cnet.com/deals/you-can-get-hulu-and-max-for-free-with-food-delivery-memberships-heres-how/#ftag=CAD590a51e)
- - [ChatGPT Search No Longer Requires an OpenAI Login](https://www.cnet.com/tech/services-and-software/chatgpt-search-no-longer-requires-an-openai-login/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [You Can Get Hulu and Max for Free With Food Delivery Memberships. Here&#39;s How.](https://www.cnet.com/deals/you-can-get-hulu-and-max-for-free-with-food-delivery-memberships-heres-how/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

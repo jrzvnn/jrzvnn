@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Tubi Is Showing the Super Bowl for Free Today. Here&#39;s How to Watch](https://www.cnet.com/tech/services-and-software/tubi-is-showing-the-super-bowl-for-free-today-heres-how-to-watch/#ftag=CAD590a51e)
  - [Edison: despite Spotify&#39;s video push, only two of the top 10 US podcasts post videos on Spotify; 37 of the top 50 podcasts regularly post videos on YouTube &lpar;Ashley Carman/Bloomberg&rpar;](http://www.techmeme.com/250209/p10#a250209p10)
+ - [How to Watch Super Bowl 2025: Free Livestream Options, Channel for Eagles vs. Chiefs](https://www.cnet.com/tech/services-and-software/how-to-watch-super-bowl-2025-free-livestream-options-channel-for-eagles-vs-chiefs/#ftag=CAD590a51e)
  - [When Is Puppy Bowl 2025? How to Watch the Super Cute Showdown](https://www.cnet.com/tech/services-and-software/when-is-puppy-bowl-2025-how-to-watch-the-super-cute-showdown/#ftag=CAD590a51e)
- - [La Liga Soccer Livestream: How to Watch Sevilla vs. Barcelona From Anywhere](https://www.cnet.com/tech/services-and-software/la-liga-soccer-livestream-how-to-watch-sevilla-vs-barcelona-from-anywhere/#ftag=CAD590a51e)
- - [Alexa Is Set for Major AI Upgrade From Amazon. Here&#39;s What to Know](https://www.cnet.com/home/smart-home/alexa-is-set-for-major-ai-upgrade-from-amazon-heres-what-to-know/#ftag=CAD590a51e)
- - [Best Standing Desks of 2025](https://www.cnet.com/news/best-standing-desk/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [La Liga Soccer Livestream: How to Watch Sevilla vs. Barcelona From Anywhere](https://www.cnet.com/tech/services-and-software/la-liga-soccer-livestream-how-to-watch-sevilla-vs-barcelona-from-anywhere/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

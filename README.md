@@ -158,10 +158,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- TECH:START -->
  - [A look at WikiTok, a site that lets users vertically swipe through an endless stream of random Wikipedia article stubs without algorithmically tracking the user &lpar;Benj Edwards/Ars Technica&rpar;](http://www.techmeme.com/250209/p8#a250209p8)
+ - [Watch FA Cup Soccer: Livestream Aston Villa vs. Tottenham From Anywhere](https://www.cnet.com/tech/services-and-software/watch-fa-cup-soccer-livestream-aston-villa-vs-tottenham-from-anywhere/#ftag=CAD590a51e)
  - [Best Robot Vacuum &lpar;2025&rpar;, Tested and Reviewed](https://www.wired.com/gallery/best-robot-vacuums/)
  - [KEF Q Series Concerto Meta Review: Sweet Sound All Around](https://www.wired.com/review/kef-q-concerto-meta/)
- - [I&#39;m a Beauty Writer, and These Are My 8 Favorite Products &lpar;2025&rpar;](https://www.wired.com/gallery/best-beauty-products/)
- - [Crime blotter: Car theft suspects caught thanks to AirPods](https://appleinsider.com/articles/25/02/09/crime-blotter-car-theft-suspects-caught-thanks-to-airpods?utm_medium=rss)<!-- TECH:END -->
+ - [Best Internet Providers in Cape Coral, Florida](https://www.cnet.com/home/internet/best-internet-providers-in-cape-coral-fl/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

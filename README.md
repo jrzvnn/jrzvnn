@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [iPhone SE 4 -- All the rumors about Apple&#39;s next budget-friendly device](https://appleinsider.com/articles/25/02/07/iphone-se-4----all-the-rumors-about-apples-next-budget-friendly-device?utm_medium=rss)
- - [Chainalysis: just under 700K wallets recorded gains on $TRUMP, 810K+ have lost money, and $6.6B has been secured in cashed-out profits, mostly by early buyers &lpar;New York Times&rpar;](http://www.techmeme.com/250209/p11#a250209p11)
- - [iPhone 17 - Eight upgrade-worthy features rumored for fall 2025](https://appleinsider.com/articles/25/02/09/iphone-17---eight-upgrade-worthy-features-rumored-for-fall-2025?utm_medium=rss)
- - [Tubi Is Showing the Super Bowl for Free Today. Here&#39;s How to Watch](https://www.cnet.com/tech/services-and-software/tubi-is-showing-the-super-bowl-for-free-today-heres-how-to-watch/#ftag=CAD590a51e)
- - [Edison: despite Spotify&#39;s video push, only two of the top 10 US podcasts post videos on Spotify; 37 of the top 50 podcasts regularly post videos on YouTube &lpar;Ashley Carman/Bloomberg&rpar;](http://www.techmeme.com/250209/p10#a250209p10)<!-- TECH:END -->
+ - [Today&#39;s NYT Strands Hints, Answers and Help for Feb. 10, #344](https://www.cnet.com/tech/gaming/todays-nyt-strands-hints-answers-and-help-for-feb-10-344/#ftag=CAD590a51e)
+ - [Today&#39;s NYT Connections: Sports Edition Hints and Answers for Feb. 10, #140](https://www.cnet.com/tech/gaming/todays-nyt-connections-sports-edition-hints-and-answers-for-feb-10-140/#ftag=CAD590a51e)
+ - [Today&#39;s NYT Connections Hints, Answers and Help for Feb. 10, #610](https://www.cnet.com/tech/gaming/todays-nyt-connections-hints-answers-and-help-for-feb-10-610/#ftag=CAD590a51e)
+ - [Today&#39;s Wordle Hints, Answer and Help for Feb. 10, #1332](https://www.cnet.com/tech/gaming/todays-wordle-hints-answer-and-help-for-feb-10-1332/#ftag=CAD590a51e)
+ - [iPhone SE 4 -- All the rumors about Apple&#39;s next budget-friendly device](https://appleinsider.com/articles/25/02/07/iphone-se-4----all-the-rumors-about-apples-next-budget-friendly-device?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

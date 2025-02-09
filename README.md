@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [KEF Q Series Concerto Meta Review: Sweet Sound All Around](https://www.wired.com/review/kef-q-concerto-meta/)
  - [I&#39;m a Beauty Writer, and These Are My 8 Favorite Products &lpar;2025&rpar;](https://www.wired.com/gallery/best-beauty-products/)
  - [Crime blotter: Car theft suspects caught thanks to AirPods](https://appleinsider.com/articles/25/02/09/crime-blotter-car-theft-suspects-caught-thanks-to-airpods?utm_medium=rss)
  - [An analysis of US DOL data: the IT sector unemployment rate rose from 3.9% in December to 5.7% in January, with the number of unemployed rising from 98K to 152K &lpar;Belle Lin/Wall Street Journal&rpar;](http://www.techmeme.com/250209/p7#a250209p7)
- - [Apple&#39;s original and delayed HomePod finally shipped seven years ago](https://appleinsider.com/articles/25/02/09/apples-original-and-delayed-homepod-finally-shipped-seven-years-ago?utm_medium=rss)
- - [Scotland vs. Ireland: How to Watch 2025 Six Nations Rugby Live From Anywhere](https://www.cnet.com/tech/services-and-software/scotland-vs-ireland-how-to-watch-2025-six-nations-rugby-live-from-anywhere/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Apple&#39;s original and delayed HomePod finally shipped seven years ago](https://appleinsider.com/articles/25/02/09/apples-original-and-delayed-homepod-finally-shipped-seven-years-ago?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

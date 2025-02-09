@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The Recruitment Effort That Helped Build Elon Musk’s DOGE Army](https://www.wired.com/story/elon-musk-doge-recruiting-palantir/)
+ - [Meta shares work on a system that uses a magnetic scanner and a deep neural network to analyze brain signals and identify which keys people pressed while typing &lpar;Antonio Regalado/MIT Technology Review&rpar;](http://www.techmeme.com/250208/p18#a250208p18)
+ - [Best Speakerphone in 2025 for Working From Home](https://www.cnet.com/tech/mobile/best-speakerphone/#ftag=CAD590a51e)
  - [PitchBook: almost 66% of VC funding in Europe came from abroad in 2024; no European company with &amp;euro;100B+ in market cap has been built from scratch in 30 years &lpar;Bloomberg&rpar;](http://www.techmeme.com/250208/p17#a250208p17)
- - [Apple execs spotted in New Orleans ahead of Super Bowl](https://appleinsider.com/articles/25/02/08/apple-execs-spotted-in-new-orleans-ahead-of-super-bowl?utm_medium=rss)
- - [Best Printer for 2025](https://www.cnet.com/tech/computing/best-printer/#ftag=CAD590a51e)
- - [Some users are wearing the Apple Watch on their ankles to get around problems, like skin conditions; some believe health metrics are more accurate on the ankle &lpar;Scott Cacciola/New York Times&rpar;](http://www.techmeme.com/250208/p16#a250208p16)
- - [Are Cheap Meal Kit Services Any Good? I Tested a Bunch to Find Out](https://www.cnet.com/health/nutrition/cheapest-meal-delivery-service/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Apple execs spotted in New Orleans ahead of Super Bowl](https://appleinsider.com/articles/25/02/08/apple-execs-spotted-in-new-orleans-ahead-of-super-bowl?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

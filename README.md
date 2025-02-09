@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [I&#39;m a Beauty Writer, and These Are My 8 Favorite Products &lpar;2025&rpar;](https://www.wired.com/gallery/best-beauty-products/)
  - [Crime blotter: Car theft suspects caught thanks to AirPods](https://appleinsider.com/articles/25/02/09/crime-blotter-car-theft-suspects-caught-thanks-to-airpods?utm_medium=rss)
  - [An analysis of US DOL data: the IT sector unemployment rate rose from 3.9% in December to 5.7% in January, with the number of unemployed rising from 98K to 152K &lpar;Belle Lin/Wall Street Journal&rpar;](http://www.techmeme.com/250209/p7#a250209p7)
  - [Apple&#39;s original and delayed HomePod finally shipped seven years ago](https://appleinsider.com/articles/25/02/09/apples-original-and-delayed-homepod-finally-shipped-seven-years-ago?utm_medium=rss)
- - [Fiat Grande Panda 2025 Review: Prices, Specs, Availability](https://www.wired.com/review/review-fiat-grande-panda-2025/)
- - [10 Best Mattresses for Back Pain, Tested and Reviewed &lpar;2025&rpar;](https://www.wired.com/gallery/best-mattresses-for-back-pain/)<!-- TECH:END -->
+ - [Fiat Grande Panda 2025 Review: Prices, Specs, Availability](https://www.wired.com/review/review-fiat-grande-panda-2025/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

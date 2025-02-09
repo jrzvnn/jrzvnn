@@ -158,10 +158,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- TECH:START -->
  - [Save $300 on these M4 Pro MacBook Pros with 48GB RAM](https://appleinsider.com/articles/25/02/09/save-300-on-these-m4-pro-macbook-pros-with-48gb-ram?utm_medium=rss)
- - [Today&#39;s NYT Strands Hints, Answers and Help for Feb. 10, #344](https://www.cnet.com/tech/gaming/todays-nyt-strands-hints-answers-and-help-for-feb-10-344/#ftag=CAD590a51e)
- - [Today&#39;s NYT Connections: Sports Edition Hints and Answers for Feb. 10, #140](https://www.cnet.com/tech/gaming/todays-nyt-connections-sports-edition-hints-and-answers-for-feb-10-140/#ftag=CAD590a51e)
- - [Today&#39;s NYT Connections Hints, Answers and Help for Feb. 10, #610](https://www.cnet.com/tech/gaming/todays-nyt-connections-hints-answers-and-help-for-feb-10-610/#ftag=CAD590a51e)
- - [Today&#39;s Wordle Hints, Answer and Help for Feb. 10, #1332](https://www.cnet.com/tech/gaming/todays-wordle-hints-answer-and-help-for-feb-10-1332/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Best Gas Grills of 2025](https://www.cnet.com/home/yard-and-outdoors/best-gas-grill/#ftag=CAD590a51e)
+ - [Best Cheaper Rivals to Apple AirPods Max for 2025: Sony, Bose, AirPods Pro 2 and More](https://www.cnet.com/tech/mobile/best-apple-airpods-max-alternatives/#ftag=CAD590a51e)
+ - [Best Beer Clubs for 2025](https://www.cnet.com/news/best-beer-subscription-boxes/#ftag=CAD590a51e)
+ - [Today&#39;s NYT Strands Hints, Answers and Help for Feb. 10, #344](https://www.cnet.com/tech/gaming/todays-nyt-strands-hints-answers-and-help-for-feb-10-344/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

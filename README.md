@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [6 Best Cheap Mattresses for 2025: Save on Your Next Bed](https://www.cnet.com/health/sleep/best-cheap-mattress/#ftag=CAD590a51e)
  - [Crypto.com and Kalshi launched sports wagers around the Super Bowl in 50 US states, shocking the sports betting industry and infuriating state regulators &lpar;Bloomberg&rpar;](http://www.techmeme.com/250209/p5#a250209p5)
  - [Source: TikTok CEO Shou Chew proposed to senior White House officials a US-based joint venture between US investors and TikTok that would oversee data security &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/250209/p4#a250209p4)
  - [Data from crypto security company Coinkite shows 78 listed companies globally are following MicroStrategy&#39;s example in buying bitcoin to hold in place of cash &lpar;Nikou Asgari/Financial Times&rpar;](http://www.techmeme.com/250209/p3#a250209p3)
- - [Christie&#39;s plans to hold its first AI art auction beginning February 20; critics say the sale elevates AI tools trained on artists&#39; works without their consent &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/250209/p2#a250209p2)<!-- TECH:END -->
+ - [Christie&#39;s plans to hold its first AI art auction beginning February 20; critics say the sale elevates AI tools trained on artists&#39; works without their consent &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/250209/p2#a250209p2)
+ - [Take-Two estimates that 94M+ current generation consoles, excluding Nintendo Switch, were sold as of November 2024, implying sales of ~28.5M for Xbox Series X/S &lpar;Adam Starkey/Metro.co.uk&rpar;](http://www.techmeme.com/250209/p1#a250209p1)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

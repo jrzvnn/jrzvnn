@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Today&#39;s NYT Mini Crossword Answers for Sunday, Feb. 9](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-sunday-feb-9/#ftag=CAD590a51e)
  - [DeepSeek recruiting recent graduates from China&#39;s top universities reflects a growing trend among the country&#39;s top AI talent to pursue opportunities at home &lpar;Viola Zhou/Rest of World&rpar;](http://www.techmeme.com/250208/p19#a250208p19)
  - [Apple execs spotted in New Orleans ahead of Super Bowl](https://appleinsider.com/articles/25/02/08/apple-execs-spotted-in-new-orleans-ahead-of-super-bowl?utm_medium=rss)
  - [The Recruitment Effort That Helped Build Elon Musk’s DOGE Army](https://www.wired.com/story/elon-musk-doge-recruiting-palantir/)
- - [Meta shares work on a system that uses a magnetic scanner and a deep neural network to analyze brain signals and identify which keys people pressed while typing &lpar;Antonio Regalado/MIT Technology Review&rpar;](http://www.techmeme.com/250208/p18#a250208p18)
- - [Best Speakerphone in 2025 for Working From Home](https://www.cnet.com/tech/mobile/best-speakerphone/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Meta shares work on a system that uses a magnetic scanner and a deep neural network to analyze brain signals and identify which keys people pressed while typing &lpar;Antonio Regalado/MIT Technology Review&rpar;](http://www.techmeme.com/250208/p18#a250208p18)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

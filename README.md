@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [10 Best Mattresses for Back Pain, Tested and Reviewed &lpar;2025&rpar;](https://www.wired.com/gallery/best-mattresses-for-back-pain/)
+ - [What Is Down Fill Power &lpar;2025&rpar;: Fill Weight, Synthetics](https://www.wired.com/story/what-is-down-fill-power/)
  - [Life on Earth Depends on Networks of Ocean Bacteria](https://www.wired.com/story/life-on-earth-depends-on-networks-of-ocean-bacteria/)
  - [Everything You Need to Know About the Privacy-Focused Messaging App Signal](https://www.cnet.com/tech/services-and-software/everything-you-need-to-know-about-the-privacy-focused-messaging-app-signal/#ftag=CAD590a51e)
- - [Does Rocket Money Really Help You Save on Subscription Costs?](https://www.cnet.com/personal-finance/banking/can-rocket-money-save-you-as-much-on-subscriptions-as-it-claims/#ftag=CAD590a51e)
- - [How to Watch the 2025 Super Bowl and Halftime Show for Free](https://www.wired.com/story/how-to-watch-super-bowl-2025-free-halftime-show/)
- - [Experts Reveal What Your Bowel Movements Mean for Your Health](https://www.cnet.com/health/medical/experts-reveal-what-bowel-movements-mean-health/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Does Rocket Money Really Help You Save on Subscription Costs?](https://www.cnet.com/personal-finance/banking/can-rocket-money-save-you-as-much-on-subscriptions-as-it-claims/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

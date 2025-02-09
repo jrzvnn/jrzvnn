@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [How to Watch the 2025 Super Bowl and Halftime Show for Free](https://www.wired.com/story/how-to-watch-super-bowl-2025-free-halftime-show/)
+ - [Experts Reveal What Your Bowel Movements Mean for Your Health](https://www.cnet.com/health/medical/experts-reveal-what-bowel-movements-mean-health/#ftag=CAD590a51e)
  - [Indian Electronics and Semiconductor Association: the semiconductor market in India is projected to grow to $103.4B at a CAGR of 13% through 2030 &lpar;The Economic Times&rpar;](http://www.techmeme.com/250209/p6#a250209p6)
- - [6 Best Cheap Mattresses for 2025: Save on Your Next Bed](https://www.cnet.com/health/sleep/best-cheap-mattress/#ftag=CAD590a51e)
- - [Crypto.com and Kalshi launched sports wagers around the Super Bowl in 50 US states, shocking the sports betting industry and infuriating state regulators &lpar;Bloomberg&rpar;](http://www.techmeme.com/250209/p5#a250209p5)
- - [Source: TikTok CEO Shou Chew proposed to senior White House officials a US-based joint venture between US investors and TikTok that would oversee data security &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/250209/p4#a250209p4)
- - [Data from crypto security company Coinkite shows 78 listed companies globally are following MicroStrategy&#39;s example in buying bitcoin to hold in place of cash &lpar;Nikou Asgari/Financial Times&rpar;](http://www.techmeme.com/250209/p3#a250209p3)<!-- TECH:END -->
+ - [Tax Extension? Here&#39;s Why You Might Not Make the April Deadline](https://www.cnet.com/personal-finance/taxes/tax-extension-heres-why-you-might-not-make-the-april-deadline/#ftag=CAD590a51e)
+ - [6 Best Cheap Mattresses for 2025: Save on Your Next Bed](https://www.cnet.com/health/sleep/best-cheap-mattress/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

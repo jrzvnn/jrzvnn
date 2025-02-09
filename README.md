@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [6 Natural Sweet Treats Perfect for Super Bowl Sunday](https://www.cnet.com/health/nutrition/natural-sugar-alternatives-indulge-super-bowl/#ftag=CAD590a51e)
  - [A look at WikiTok, a site that lets users vertically swipe through an endless stream of random Wikipedia article stubs without algorithmically tracking the user &lpar;Benj Edwards/Ars Technica&rpar;](http://www.techmeme.com/250209/p8#a250209p8)
  - [Watch FA Cup Soccer: Livestream Aston Villa vs. Tottenham From Anywhere](https://www.cnet.com/tech/services-and-software/watch-fa-cup-soccer-livestream-aston-villa-vs-tottenham-from-anywhere/#ftag=CAD590a51e)
  - [Best Robot Vacuum &lpar;2025&rpar;, Tested and Reviewed](https://www.wired.com/gallery/best-robot-vacuums/)
- - [KEF Q Series Concerto Meta Review: Sweet Sound All Around](https://www.wired.com/review/kef-q-concerto-meta/)
- - [Best Internet Providers in Cape Coral, Florida](https://www.cnet.com/home/internet/best-internet-providers-in-cape-coral-fl/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [KEF Q Series Concerto Meta Review: Sweet Sound All Around](https://www.wired.com/review/kef-q-concerto-meta/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Macron announces that companies have agreed to invest &amp;euro;109B in AI projects in France in the coming years, saying it&#39;s France&#39;s equivalent to Stargate for the US &lpar;Financial Times&rpar;](http://www.techmeme.com/250209/p12#a250209p12)
  - [Save $300 on these M4 Pro MacBook Pros with 48GB RAM](https://appleinsider.com/articles/25/02/09/save-300-on-these-m4-pro-macbook-pros-with-48gb-ram?utm_medium=rss)
  - [Best Gas Grills of 2025](https://www.cnet.com/home/yard-and-outdoors/best-gas-grill/#ftag=CAD590a51e)
  - [Best Cheaper Rivals to Apple AirPods Max for 2025: Sony, Bose, AirPods Pro 2 and More](https://www.cnet.com/tech/mobile/best-apple-airpods-max-alternatives/#ftag=CAD590a51e)
- - [Best Beer Clubs for 2025](https://www.cnet.com/news/best-beer-subscription-boxes/#ftag=CAD590a51e)
- - [Today&#39;s NYT Strands Hints, Answers and Help for Feb. 10, #344](https://www.cnet.com/tech/gaming/todays-nyt-strands-hints-answers-and-help-for-feb-10-344/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Best Beer Clubs for 2025](https://www.cnet.com/news/best-beer-subscription-boxes/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

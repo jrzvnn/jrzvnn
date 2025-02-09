@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [When Is Puppy Bowl 2025? How to Watch the Super Cute Showdown](https://www.cnet.com/tech/services-and-software/when-is-puppy-bowl-2025-how-to-watch-the-super-cute-showdown/#ftag=CAD590a51e)
- - [La Liga Soccer Livestream: How to Watch Sevilla vs. Barcelona From Anywhere](https://www.cnet.com/tech/services-and-software/la-liga-soccer-livestream-how-to-watch-sevilla-vs-barcelona-from-anywhere/#ftag=CAD590a51e)
- - [Alexa Is Set for Major AI Upgrade From Amazon. Here&#39;s What to Know](https://www.cnet.com/home/smart-home/alexa-is-set-for-major-ai-upgrade-from-amazon-heres-what-to-know/#ftag=CAD590a51e)
  - [Best Standing Desks of 2025](https://www.cnet.com/news/best-standing-desk/#ftag=CAD590a51e)
- - [How DeepSeek&#39;s R1 accelerated the rollout of chatbots showing their &quot;thinking&quot; process; an expert says seeing a chatbot&#39;s inner monologue can trigger empathy &lpar;Nitasha Tiku/Washington Post&rpar;](http://www.techmeme.com/250209/p9#a250209p9)<!-- TECH:END -->
+ - [How DeepSeek&#39;s R1 accelerated the rollout of chatbots showing their &quot;thinking&quot; process; an expert says seeing a chatbot&#39;s inner monologue can trigger empathy &lpar;Nitasha Tiku/Washington Post&rpar;](http://www.techmeme.com/250209/p9#a250209p9)
+ - [Apple accelerates hiring for its home robotics projects](https://appleinsider.com/articles/25/02/09/apple-accelerates-hiring-for-its-home-robotics-projects?utm_medium=rss)
+ - [6 Natural Sweet Treats Perfect for Super Bowl Sunday](https://www.cnet.com/health/nutrition/natural-sugar-alternatives-indulge-super-bowl/#ftag=CAD590a51e)
+ - [A look at WikiTok, a site that lets users vertically swipe through an endless stream of random Wikipedia article stubs without algorithmically tracking the user &lpar;Benj Edwards/Ars Technica&rpar;](http://www.techmeme.com/250209/p8#a250209p8)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

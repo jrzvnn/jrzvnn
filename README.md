@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Save $300 on these M4 Pro MacBook Pros with 48GB RAM](https://appleinsider.com/articles/25/02/09/save-300-on-these-m4-pro-macbook-pros-with-48gb-ram?utm_medium=rss)
  - [Today&#39;s NYT Strands Hints, Answers and Help for Feb. 10, #344](https://www.cnet.com/tech/gaming/todays-nyt-strands-hints-answers-and-help-for-feb-10-344/#ftag=CAD590a51e)
  - [Today&#39;s NYT Connections: Sports Edition Hints and Answers for Feb. 10, #140](https://www.cnet.com/tech/gaming/todays-nyt-connections-sports-edition-hints-and-answers-for-feb-10-140/#ftag=CAD590a51e)
  - [Today&#39;s NYT Connections Hints, Answers and Help for Feb. 10, #610](https://www.cnet.com/tech/gaming/todays-nyt-connections-hints-answers-and-help-for-feb-10-610/#ftag=CAD590a51e)
- - [Today&#39;s Wordle Hints, Answer and Help for Feb. 10, #1332](https://www.cnet.com/tech/gaming/todays-wordle-hints-answer-and-help-for-feb-10-1332/#ftag=CAD590a51e)
- - [iPhone SE 4 -- All the rumors about Apple&#39;s next budget-friendly device](https://appleinsider.com/articles/25/02/07/iphone-se-4----all-the-rumors-about-apples-next-budget-friendly-device?utm_medium=rss)<!-- TECH:END -->
+ - [Today&#39;s Wordle Hints, Answer and Help for Feb. 10, #1332](https://www.cnet.com/tech/gaming/todays-wordle-hints-answer-and-help-for-feb-10-1332/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

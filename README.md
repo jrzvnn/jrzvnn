@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Data from crypto security company Coinkite shows 78 listed companies globally are following MicroStrategy&#39;s example in buying bitcoin to hold in place of cash &lpar;Nikou Asgari/Financial Times&rpar;](http://www.techmeme.com/250209/p3#a250209p3)
  - [Christie&#39;s plans to hold its first AI art auction beginning February 20; critics say the sale elevates AI tools trained on artists&#39; works without their consent &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/250209/p2#a250209p2)
  - [Take-Two estimates that 94M+ current generation consoles, excluding Nintendo Switch, were sold as of November 2024, implying sales of ~28.5M for Xbox Series X/S &lpar;Adam Starkey/Metro.co.uk&rpar;](http://www.techmeme.com/250209/p1#a250209p1)
  - [Today&#39;s NYT Mini Crossword Answers for Sunday, Feb. 9](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-sunday-feb-9/#ftag=CAD590a51e)
- - [DeepSeek recruiting recent graduates from China&#39;s top universities reflects a growing trend among the country&#39;s top AI talent to pursue opportunities at home &lpar;Viola Zhou/Rest of World&rpar;](http://www.techmeme.com/250208/p19#a250208p19)
- - [Apple execs spotted in New Orleans ahead of Super Bowl](https://appleinsider.com/articles/25/02/08/apple-execs-spotted-in-new-orleans-ahead-of-super-bowl?utm_medium=rss)<!-- TECH:END -->
+ - [DeepSeek recruiting recent graduates from China&#39;s top universities reflects a growing trend among the country&#39;s top AI talent to pursue opportunities at home &lpar;Viola Zhou/Rest of World&rpar;](http://www.techmeme.com/250208/p19#a250208p19)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

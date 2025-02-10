@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Steam creates an ad documentation page highlighting its ban on forcing players to watch ads, saying &quot;developers should not utilize paid ads as a business model&quot; &lpar;Liam Dawe/GamingOnLinux&rpar;](http://www.techmeme.com/250210/p17#a250210p17)
  - [Google DeepMind CEO Demis Hassabis says DeepSeek&#39;s $6M training cost claim is &quot;exaggerated and a little bit misleading&quot; and a &quot;fraction of the total cost&quot; &lpar;Bloomberg&rpar;](http://www.techmeme.com/250210/p16#a250210p16)
  - [8 Best Touchscreen Gloves &lpar;2025&rpar;, Tested and Reviewed](https://www.wired.com/gallery/best-touchscreen-gloves/)
  - [Discord announces Ignore, letting users hide any new messages, DMs, server notifications, profiles, and activity from selected users without alerting them &lpar;Anna Washenko/Engadget&rpar;](http://www.techmeme.com/250210/p15#a250210p15)
- - [NASA Is Hosting a Twitch Stream From Space This Week: How to Watch](https://www.cnet.com/science/nasa-is-hosting-a-twitch-stream-from-space-this-week-how-to-watch/#ftag=CAD590a51e)
- - [Google, OpenAI, Roblox, and Discord raised $27M+ to provide free, open-source tools for improving child safety online, called Robust Open Online Safety Tools &lpar;Cecilia D&#39;Anastasio/Bloomberg&rpar;](http://www.techmeme.com/250210/p14#a250210p14)<!-- TECH:END -->
+ - [NASA Is Hosting a Twitch Stream From Space This Week: How to Watch](https://www.cnet.com/science/nasa-is-hosting-a-twitch-stream-from-space-this-week-how-to-watch/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

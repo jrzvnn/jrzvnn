@@ -158,10 +158,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- TECH:START -->
  - [Google brings NotebookLM Plus, its note-taking AI assistant with higher usage limits, to individuals on Google One AI Premium, and debuts a 50% student discount &lpar;Jagmeet Singh/TechCrunch&rpar;](http://www.techmeme.com/250210/p25#a250210p25)
+ - [Today&#39;s Wordle Hints, Answer and Help for Feb. 11, #1333](https://www.cnet.com/tech/gaming/todays-wordle-hints-answer-and-help-for-feb-11-1333/#ftag=CAD590a51e)
  - [Paris AI summit takeaways: Europe has regulation regrets, AI doomsayers have lost ground, and policymakers can&#39;t seem to grasp how soon powerful AI could arrive &lpar;Kevin Roose/New York Times&rpar;](http://www.techmeme.com/250210/p24#a250210p24)
- - [A group of investors led by Elon Musk makes an unsolicited $97.4B offer to buy the nonprofit that controls OpenAI, complicating Sam Altman&#39;s plans for OpenAI &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/250210/p23#a250210p23)
- - [If You Have an iPhone, You Should Download iOS 18.3.1 Right Now](https://www.cnet.com/tech/services-and-software/if-you-have-an-iphone-you-should-download-ios-18-3-1-right-now/#ftag=CAD590a51e)
- - [14 Best Sexy Gifts for Lovers &lpar;2025&rpar;](https://www.wired.com/gallery/best-sexy-gifts/)<!-- TECH:END -->
+ - [Best Baby Monitors for 2025](https://www.cnet.com/health/parenting/best-baby-monitor/#ftag=CAD590a51e)
+ - [A group of investors led by Elon Musk makes an unsolicited $97.4B offer to buy the nonprofit that controls OpenAI, complicating Sam Altman&#39;s plans for OpenAI &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/250210/p23#a250210p23)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

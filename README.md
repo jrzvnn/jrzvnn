@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Google DeepMind CEO Demis Hassabis says DeepSeek&#39;s $6M training cost claim is &quot;exaggerated and a little bit misleading&quot; and a &quot;fraction of the total cost&quot; &lpar;Bloomberg&rpar;](http://www.techmeme.com/250210/p16#a250210p16)
+ - [8 Best Touchscreen Gloves &lpar;2025&rpar;, Tested and Reviewed](https://www.wired.com/gallery/best-touchscreen-gloves/)
  - [Discord announces Ignore, letting users hide any new messages, DMs, server notifications, profiles, and activity from selected users without alerting them &lpar;Anna Washenko/Engadget&rpar;](http://www.techmeme.com/250210/p15#a250210p15)
- - [Google, OpenAI, Roblox, and Discord raised $27M+ to provide free, open-source tools for improving child safety online, called Robust Open Online Safety Tools &lpar;Cecilia D&#39;Anastasio/Bloomberg&rpar;](http://www.techmeme.com/250210/p14#a250210p14)
- - [Sources: OpenAI is finalizing its first in-house chip design in the next few months, to cut its Nvidia reliance, and plans to send it for fabrication at TSMC &lpar;Reuters&rpar;](http://www.techmeme.com/250210/p13#a250210p13)
- - [Inside Binance compliance boss and ex-IRS agent Tigran Gambaryan&#39;s imprisonment in Nigeria, relayed via texts from a secret phone, over money laundering charges &lpar;Andy Greenberg/Wired&rpar;](http://www.techmeme.com/250210/p12#a250210p12)
- - [Best Puffer Jackets &lpar;2025&rpar;: Patagonia, Arc&#39;teryx, REI](https://www.wired.com/gallery/the-best-puffer-jackets/)<!-- TECH:END -->
+ - [NASA Is Hosting a Twitch Stream From Space This Week: How to Watch](https://www.cnet.com/science/nasa-is-hosting-a-twitch-stream-from-space-this-week-how-to-watch/#ftag=CAD590a51e)
+ - [Google, OpenAI, Roblox, and Discord raised $27M+ to provide free, open-source tools for improving child safety online, called Robust Open Online Safety Tools &lpar;Cecilia D&#39;Anastasio/Bloomberg&rpar;](http://www.techmeme.com/250210/p14#a250210p14)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

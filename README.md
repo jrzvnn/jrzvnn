@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [NIH Funding Cuts Appear to Draw on Heritage Foundation Report That Blasts ‘DEI Staff’](https://www.wired.com/story/nih-indirect-funding-cuts-heritage-foundation/)
  - [Nineteen US states have bills to invest public money in crypto, many focus on retirement funds; MI, WI already have crypto in public employees&#39; retirement funds &lpar;Jesse Hamilton/CoinDesk&rpar;](http://www.techmeme.com/250210/p27#a250210p27)
  - [After crawling for two days, stroke victim used Siri to make a call that saved his life](https://appleinsider.com/articles/25/02/10/after-crawling-for-two-days-stroke-victim-uses-siri-to-make-a-call-that-saved-his-life?utm_medium=rss)
  - [iPhone SE 4 -- All the rumors about Apple&#39;s next budget-friendly device](https://appleinsider.com/articles/25/02/07/iphone-se-4----all-the-rumors-about-apples-next-budget-friendly-device?utm_medium=rss)
- - [Deciding Between an Induction or Electric Stove? What to Know First](https://www.cnet.com/news/deciding-between-an-induction-or-electric-stove-what-to-know-first/#ftag=CAD590a51e)
- - [Best Cheap Laptop for 2025](https://www.cnet.com/tech/computing/best-budget-laptop/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Deciding Between an Induction or Electric Stove? What to Know First](https://www.cnet.com/news/deciding-between-an-induction-or-electric-stove-what-to-know-first/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

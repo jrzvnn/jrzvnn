@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Polymarket Analytics: users put $1.1B in volume on the outcome of the Super Bowl despite regulatory hurdles; one trader made a $550K profit from Eagles bets &lpar;Sam Reynolds/CoinDesk&rpar;](http://www.techmeme.com/250210/p11#a250210p11)
  - [An interview with Arm CEO Rene Haas on DeepSeek, why it isn&#39;t AI&#39;s &quot;Sputnik moment&quot; but is &quot;a big deal&quot;, how DeepSeek will &quot;get shut down&quot; by the US, and more &lpar;Matthew Garrahan/Financial Times&rpar;](http://www.techmeme.com/250210/p10#a250210p10)
  - [The 14 Best Pillows We Found After Months of Nighttime Testing &lpar;2025&rpar;](https://www.wired.com/gallery/best-pillows/)
  - [Sources: China is building a list of US tech firms to target in a trade war, including Broadcom and Synopsys, whose $35B acquisition needs Beijing&#39;s approval &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/250210/p9#a250210p9)
- - [16 Best Toiletry Bags, Tested and Reviewed &lpar;2025&rpar;](https://www.wired.com/gallery/best-toiletry-bags/)
- - [Taiwanese government data: exports to Mexico surged 479% YoY to $2.7B in January 2025, led by GPU shipments, as Foxconn, Wistron, and more build fabs in Mexico &lpar;Bloomberg&rpar;](http://www.techmeme.com/250210/p8#a250210p8)<!-- TECH:END -->
+ - [16 Best Toiletry Bags, Tested and Reviewed &lpar;2025&rpar;](https://www.wired.com/gallery/best-toiletry-bags/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

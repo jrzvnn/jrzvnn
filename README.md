@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Rumored Sonos streamer, Amazon event preview, &amp; Matter&#39;s attempt to fix Wi-Fi](https://appleinsider.com/articles/25/02/10/rumored-sonos-streamer-amazon-event-preview-matters-attempt-to-fix-wi-fi?utm_medium=rss)
- - [Best Workout Apps for 2025](https://www.cnet.com/health/fitness/best-workout-apps/#ftag=CAD590a51e)
- - [Deals: MacBook Air falls to $799, AirPods Max USB-C on sale for $479, iPads from $279](https://appleinsider.com/articles/25/02/10/deals-macbook-air-falls-to-799-airpods-max-usb-c-on-sale-for-479-ipads-from-279?utm_medium=rss)
- - [Is Multi-Gigabit Internet Worth the Price and the High-Speed Hype?](https://www.cnet.com/home/internet/multigigabit-internet-worth-the-cost-or-just-high-speed-hype/#ftag=CAD590a51e)
- - [NordVPN Review 2025: NordVPN Review: Fast, Private and Excellent for Streaming](https://www.cnet.com/tech/services-and-software/nordvpn-review/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Sony Gives PS Plus Members Extra Five Days Following PlayStation Network Outage](https://www.cnet.com/tech/gaming/sony-gives-ps-plus-members-extra-five-days-following-playstation-network-outage/#ftag=CAD590a51e)
+ - [Mortgage Rate Predictions for Week of Feb. 10-16, 2025](https://www.cnet.com/personal-finance/mortgage-rate-predictions-for-week-of-feb-10-16-2025/#ftag=CAD590a51e)
+ - [The Labor Market Is Getting Battered, but You Wouldn&#39;t Know Looking at the Data](https://www.cnet.com/personal-finance/the-labor-market-is-getting-battered-but-you-wouldnt-know-looking-at-the-data/#ftag=CAD590a51e)
+ - [58 Best Wellness Valentine&#39;s Day Gifts for the Health Gurus Who Have It All](https://www.cnet.com/health/58-best-wellness-valentines-day-gifts-for-the-health-gurus-who-have-it-all/#ftag=CAD590a51e)
+ - [ExpressVPN Review 2025: A Top-Notch VPN That Keeps Getting Better, But Prepare to Pay Even More](https://www.cnet.com/tech/services-and-software/expressvpn-review/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

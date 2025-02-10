@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [A group of investors led by Elon Musk makes an unsolicited $97.4B offer to buy the nonprofit that controls OpenAI, complicating Sam Altman&#39;s plans for OpenAI &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/250210/p23#a250210p23)
+ - [If You Have an iPhone, You Should Download iOS 18.3.1 Right Now](https://www.cnet.com/tech/services-and-software/if-you-have-an-iphone-you-should-download-ios-18-3-1-right-now/#ftag=CAD590a51e)
  - [14 Best Sexy Gifts for Lovers &lpar;2025&rpar;](https://www.wired.com/gallery/best-sexy-gifts/)
- - [Black Ops 6 Double XP Weekend Extended](https://www.cnet.com/tech/gaming/call-of-duty-black-ops-6-double-xp-weekend-and-multiplayer-free-trial-live-now-february-6-2025/#ftag=CAD590a51e)
- - [Apple rolls out security update for iOS 18.3.1, iPadOS 18.3.1, macOS Sequoia 15.3.1](https://appleinsider.com/articles/25/02/10/apple-seeds-minor-update-for-ios-1831-ipados-1831-macos-sequoia-1531?utm_medium=rss)
- - [Prime Video: The 33 Absolute Best TV Shows to Watch](https://www.cnet.com/tech/services-and-software/best-tv-shows-on-prime-video-february-2025/#ftag=CAD590a51e)
- - [NXP Semiconductors announces a $307M deal to acquire Kinara, which makes NPUs and related software for edge AI applications &lpar;Dan O&#39;Shea/Fierce Electronics&rpar;](http://www.techmeme.com/250210/p22#a250210p22)<!-- TECH:END -->
+ - [The Absolute Best K-Dramas to Stream on Netflix Right Now](https://www.cnet.com/tech/services-and-software/best-k-dramas-on-netflix-now/#ftag=CAD590a51e)
+ - [Black Ops 6 Double XP Weekend Extended](https://www.cnet.com/tech/gaming/call-of-duty-black-ops-6-double-xp-weekend-and-multiplayer-free-trial-live-now-february-6-2025/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [TSMC says losses from January&#39;s earthquake would be ~$161.5M, dragging its Q1 revenue guidance to $25B to $25.8B, up 35.9% YoY but at the lower end of its range &lpar;Cheng Ting-Fang/Nikkei Asia&rpar;](http://www.techmeme.com/250210/p4#a250210p4)
- - [The Rise of the Drone Boats](https://www.wired.com/story/the-rise-of-the-drone-boats/)
- - [A look at Delivery Hero, profitable since late 2023, as it focuses on the Middle East and Asia while cutting costs and shedding units across 70+ countries &lpar;Yazhou Sun/Bloomberg&rpar;](http://www.techmeme.com/250210/p3#a250210p3)
- - [A look at the race to bring satellite-connected smartphones to a wider market, as estimates suggest that ~350M people lack access to mobile broadband coverage &lpar;Financial Times&rpar;](http://www.techmeme.com/250210/p2#a250210p2)
- - [A study found that phishing tests and other training programs designed to educate employees about online dangers reduced phishing success rates by just 2% &lpar;Robert McMillan/Wall Street Journal&rpar;](http://www.techmeme.com/250210/p1#a250210p1)<!-- TECH:END -->
+ - [France plans to pledge one gigawatt of nuclear power to AI training, including 250 megawatts by the end of 2026, in a bid to expand Europe&#39;s AI capabilities &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/250210/p5#a250210p5)
+ - [The Love and Sex Edition](https://www.wired.com/love-bytes/)
+ - [The Untold Story of a Crypto Crimefighter’s Descent Into Nigerian Prison](https://www.wired.com/story/untold-story-crypto-crimefighters-descent-nigerian-prison-binance/)
+ - [Your New Favorite Sex Toy Might Be a Drugstore ‘Egg’](https://www.wired.com/story/japan-tenga-sex-toys-drug-store-egg/)
+ - [In Relationships, Am I the Asshole?](https://www.wired.com/story/reddit-am-i-the-asshole-relationship-advice/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

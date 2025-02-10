@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Lyft says it will launch a fleet of robotaxis, using self-driving tech from Intel&#39;s Mobileye, in Dallas &quot;as soon as 2026&quot; &lpar;Andrew J. Hawkins/The Verge&rpar;](http://www.techmeme.com/250210/p20#a250210p20)
  - [A memo at Meta states privacy teams will have less authority to delay products and previous privacy decisions will be reviewed, as some are overly &quot;risk-averse&quot; &lpar;Kalley Huang/The Information&rpar;](http://www.techmeme.com/250210/p19#a250210p19)
  - [Apple Sports app adds Nascar support just in time for Daytona 500](https://appleinsider.com/articles/25/02/10/apple-sports-app-adds-nascar-support-just-in-time-for-daytona-500?utm_medium=rss)
  - [Sony Gives PS Plus Members Extra Five Days Following PlayStation Network Outage](https://www.cnet.com/tech/gaming/sony-gives-ps-plus-members-extra-five-days-following-playstation-network-outage/#ftag=CAD590a51e)
- - [Mortgage Rate Predictions for Week of Feb. 10-16, 2025](https://www.cnet.com/personal-finance/mortgage-rate-predictions-for-week-of-feb-10-16-2025/#ftag=CAD590a51e)
- - [The Labor Market Is Getting Battered, but You Wouldn&#39;t Know Looking at the Data](https://www.cnet.com/personal-finance/the-labor-market-is-getting-battered-but-you-wouldnt-know-looking-at-the-data/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Mortgage Rate Predictions for Week of Feb. 10-16, 2025](https://www.cnet.com/personal-finance/mortgage-rate-predictions-for-week-of-feb-10-16-2025/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

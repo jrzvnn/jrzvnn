@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Best Workout Apps for 2025](https://www.cnet.com/health/fitness/best-workout-apps/#ftag=CAD590a51e)
  - [Deals: MacBook Air falls to $799, AirPods Max USB-C on sale for $479, iPads from $279](https://appleinsider.com/articles/25/02/10/deals-macbook-air-falls-to-799-airpods-max-usb-c-on-sale-for-479-ipads-from-279?utm_medium=rss)
- - [Is Multi-Gigabit Internet Worth the Price and the High-Speed Hype?](https://www.cnet.com/home/internet/multigigabit-internet-worth-the-cost-or-just-high-speed-hype/#ftag=CAD590a51e)
- - [NordVPN Review 2025: NordVPN Review: Fast, Private and Excellent for Streaming](https://www.cnet.com/tech/services-and-software/nordvpn-review/#ftag=CAD590a51e)
- - [Anthropic launches the Anthropic Economic Index to track AI&#39;s impact by analyzing anonymized Claude usage data, showing 57% of AI use leans toward augmentation &lpar;Scott Rosenberg/Axios&rpar;](http://www.techmeme.com/250210/p18#a250210p18)<!-- TECH:END -->
+ - [Anthropic launches the Anthropic Economic Index to track AI&#39;s impact by analyzing anonymized Claude usage data, showing 57% of AI use leans toward augmentation &lpar;Scott Rosenberg/Axios&rpar;](http://www.techmeme.com/250210/p18#a250210p18)
+ - [You can wear an Apple Watch on your ankle, but it&#39;s not the best idea for everybody](https://appleinsider.com/articles/25/02/10/you-can-wear-an-apple-watch-on-your-ankle-but-its-not-the-best-idea-for-everybody?utm_medium=rss)
+ - [Steam creates an ad documentation page highlighting its ban on forcing players to watch ads, saying &quot;developers should not utilize paid ads as a business model&quot; &lpar;Liam Dawe/GamingOnLinux&rpar;](http://www.techmeme.com/250210/p17#a250210p17)
+ - [Google DeepMind CEO Demis Hassabis says DeepSeek&#39;s $6M training cost claim is &quot;exaggerated and a little bit misleading&quot; and a &quot;fraction of the total cost&quot; &lpar;Bloomberg&rpar;](http://www.techmeme.com/250210/p16#a250210p16)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [14 Best Sexy Gifts for Lovers &lpar;2025&rpar;](https://www.wired.com/gallery/best-sexy-gifts/)
  - [Apple rolls out security update for iOS 18.3.1, iPadOS 18.3.1, macOS Sequoia 15.3.1](https://appleinsider.com/articles/25/02/10/apple-seeds-minor-update-for-ios-1831-ipados-1831-macos-sequoia-1531?utm_medium=rss)
  - [NXP Semiconductors announces a $307M deal to acquire Kinara, which makes NPUs and related software for edge AI applications &lpar;Dan O&#39;Shea/Fierce Electronics&rpar;](http://www.techmeme.com/250210/p22#a250210p22)
  - [Watch FA Cup Soccer: Livestream Doncaster vs. Crystal Palace From Anywhere](https://www.cnet.com/tech/services-and-software/watch-fa-cup-soccer-livestream-doncaster-vs-crystal-palace-from-anywhere/#ftag=CAD590a51e)
- - [35 Best Last-Minute Valentine&#39;s Day Gifts in 2025: Physical and Digital Options for Everyone](https://www.cnet.com/news/best-last-minute-valentines-day-gifts/#ftag=CAD590a51e)
- - [US Funding Cuts Are Helping Criminals Get Away With Child Abuse and Human Trafficking](https://www.wired.com/story/doge-usaid-state-department-child-exploitation/)<!-- TECH:END -->
+ - [35 Best Last-Minute Valentine&#39;s Day Gifts in 2025: Physical and Digital Options for Everyone](https://www.cnet.com/news/best-last-minute-valentines-day-gifts/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

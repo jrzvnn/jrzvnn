@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [T-Mobile&#39;s satellite texting feature, currently in beta and powered by Starlink, will cost customers $15/month starting in July for users on most plans &lpar;Kelcee Griffis/Bloomberg&rpar;](http://www.techmeme.com/250209/p15#a250209p15)
+ - [A look at the debate over how much authors get paid for licensing books to AI companies; Microsoft offered HarperCollins $5K/title, of which authors get 50% &lpar;Alice Robb/Bloomberg&rpar;](http://www.techmeme.com/250209/p14#a250209p14)
  - [T-Mobile Opens Its Starlink Beta, Including to People With AT&amp;T and Verizon](https://www.cnet.com/tech/mobile/t-mobile-opens-up-its-starlink-beta-including-to-people-with-att-and-verizon/#ftag=CAD590a51e)
  - [Official Super Bowl 2025 Ads Hitting Your TV Screen Today](https://www.cnet.com/tech/services-and-software/official-super-bowl-2025-ads-hitting-your-tv-screen-today/#ftag=CAD590a51e)
- - [Observations on AI and how it may change society, the likely uneven impact of AGI, which could mess up the balance of power between capital and labor, and more &lpar;Sam Altman&rpar;](http://www.techmeme.com/250209/p13#a250209p13)
- - [Macron announces that companies have agreed to invest &amp;euro;109B in AI projects in France in the coming years, saying it&#39;s France&#39;s equivalent to Stargate for the US &lpar;Financial Times&rpar;](http://www.techmeme.com/250209/p12#a250209p12)
- - [Best Small Phone to Buy in 2025](https://www.cnet.com/tech/mobile/best-small-phone/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Observations on AI and how it may change society, the likely uneven impact of AGI, which could mess up the balance of power between capital and labor, and more &lpar;Sam Altman&rpar;](http://www.techmeme.com/250209/p13#a250209p13)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

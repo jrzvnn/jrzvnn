@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [T-Mobile Opens Its Starlink Beta, Including to People With AT&amp;T and Verizon](https://www.cnet.com/tech/mobile/t-mobile-opens-up-its-starlink-beta-including-to-people-with-att-and-verizon/#ftag=CAD590a51e)
+ - [Official Super Bowl 2025 Ads Hitting Your TV Screen Today](https://www.cnet.com/tech/services-and-software/official-super-bowl-2025-ads-hitting-your-tv-screen-today/#ftag=CAD590a51e)
  - [Observations on AI and how it may change society, the likely uneven impact of AGI, which could mess up the balance of power between capital and labor, and more &lpar;Sam Altman&rpar;](http://www.techmeme.com/250209/p13#a250209p13)
  - [Macron announces that companies have agreed to invest &amp;euro;109B in AI projects in France in the coming years, saying it&#39;s France&#39;s equivalent to Stargate for the US &lpar;Financial Times&rpar;](http://www.techmeme.com/250209/p12#a250209p12)
- - [Save $300 on these M4 Pro MacBook Pros with 48GB RAM](https://appleinsider.com/articles/25/02/09/save-300-on-these-m4-pro-macbook-pros-with-48gb-ram?utm_medium=rss)
- - [Best Gas Grills of 2025](https://www.cnet.com/home/yard-and-outdoors/best-gas-grill/#ftag=CAD590a51e)
- - [Best Cheaper Rivals to Apple AirPods Max for 2025: Sony, Bose, AirPods Pro 2 and More](https://www.cnet.com/tech/mobile/best-apple-airpods-max-alternatives/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Best Small Phone to Buy in 2025](https://www.cnet.com/tech/mobile/best-small-phone/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

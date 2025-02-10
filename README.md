@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [An Alabama man pleads guilty in connection with the Jan. 2024 SIM-swap hack of the SEC&#39;s X account, then used to falsely claim the SEC had approved bitcoin ETFs &lpar;Dan Mangan/CNBC&rpar;](http://www.techmeme.com/250210/p26#a250210p26)
  - [Google brings NotebookLM Plus, its note-taking AI assistant with higher usage limits, to individuals on Google One AI Premium, and debuts a 50% student discount &lpar;Jagmeet Singh/TechCrunch&rpar;](http://www.techmeme.com/250210/p25#a250210p25)
  - [Today&#39;s Wordle Hints, Answer and Help for Feb. 11, #1333](https://www.cnet.com/tech/gaming/todays-wordle-hints-answer-and-help-for-feb-11-1333/#ftag=CAD590a51e)
  - [Paris AI summit takeaways: Europe has regulation regrets, AI doomsayers have lost ground, and policymakers can&#39;t seem to grasp how soon powerful AI could arrive &lpar;Kevin Roose/New York Times&rpar;](http://www.techmeme.com/250210/p24#a250210p24)
- - [Best Baby Monitors for 2025](https://www.cnet.com/health/parenting/best-baby-monitor/#ftag=CAD590a51e)
- - [A group of investors led by Elon Musk makes an unsolicited $97.4B offer to buy the nonprofit that controls OpenAI, complicating Sam Altman&#39;s plans for OpenAI &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/250210/p23#a250210p23)<!-- TECH:END -->
+ - [Best Baby Monitors for 2025](https://www.cnet.com/health/parenting/best-baby-monitor/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

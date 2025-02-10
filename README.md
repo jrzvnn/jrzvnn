@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Discord announces Ignore, letting users hide any new messages, DMs, server notifications, profiles, and activity from selected users without alerting them &lpar;Anna Washenko/Engadget&rpar;](http://www.techmeme.com/250210/p15#a250210p15)
  - [Google, OpenAI, Roblox, and Discord raised $27M+ to provide free, open-source tools for improving child safety online, called Robust Open Online Safety Tools &lpar;Cecilia D&#39;Anastasio/Bloomberg&rpar;](http://www.techmeme.com/250210/p14#a250210p14)
  - [Sources: OpenAI is finalizing its first in-house chip design in the next few months, to cut its Nvidia reliance, and plans to send it for fabrication at TSMC &lpar;Reuters&rpar;](http://www.techmeme.com/250210/p13#a250210p13)
  - [Inside Binance compliance boss and ex-IRS agent Tigran Gambaryan&#39;s imprisonment in Nigeria, relayed via texts from a secret phone, over money laundering charges &lpar;Andy Greenberg/Wired&rpar;](http://www.techmeme.com/250210/p12#a250210p12)
- - [Best Puffer Jackets &lpar;2025&rpar;: Patagonia, Arc&#39;teryx, REI](https://www.wired.com/gallery/the-best-puffer-jackets/)
- - [Polymarket Analytics: users put $1.1B in volume on the outcome of the Super Bowl despite regulatory hurdles; one trader made a $550K profit from Eagles bets &lpar;Sam Reynolds/CoinDesk&rpar;](http://www.techmeme.com/250210/p11#a250210p11)<!-- TECH:END -->
+ - [Best Puffer Jackets &lpar;2025&rpar;: Patagonia, Arc&#39;teryx, REI](https://www.wired.com/gallery/the-best-puffer-jackets/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

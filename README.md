@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Nokia names Justin Hotard, who currently leads Intel&#39;s Data Center and AI operations, as its CEO starting April 1, as it focuses on data centers to drive growth &lpar;Dominic Chopping/Wall Street Journal&rpar;](http://www.techmeme.com/250210/p7#a250210p7)
  - [After the Los Angeles fires, over 1M people donated $250M+ via GoFundMe, or $20M more than the service collected for all natural disasters worldwide in 2024 &lpar;New York Times&rpar;](http://www.techmeme.com/250210/p6#a250210p6)
  - [France plans to pledge one gigawatt of nuclear power to AI training, including 250 megawatts by the end of 2026, in a bid to expand Europe&#39;s AI capabilities &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/250210/p5#a250210p5)
  - [The Love and Sex Edition](https://www.wired.com/love-bytes/)
- - [The Untold Story of a Crypto Crimefighter’s Descent Into Nigerian Prison](https://www.wired.com/story/untold-story-crypto-crimefighters-descent-nigerian-prison-binance/)
- - [Your New Favorite Sex Toy Might Be a Drugstore ‘Egg’](https://www.wired.com/story/japan-tenga-sex-toys-drug-store-egg/)<!-- TECH:END -->
+ - [The Untold Story of a Crypto Crimefighter’s Descent Into Nigerian Prison](https://www.wired.com/story/untold-story-crypto-crimefighters-descent-nigerian-prison-binance/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

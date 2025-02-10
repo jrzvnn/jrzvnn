@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Sources: OpenAI is finalizing its first in-house chip design in the next few months, to cut its Nvidia reliance, and plans to send it for fabrication at TSMC &lpar;Reuters&rpar;](http://www.techmeme.com/250210/p13#a250210p13)
+ - [Inside Binance compliance boss and ex-IRS agent Tigran Gambaryan&#39;s imprisonment in Nigeria, relayed via texts from a secret phone, over money laundering charges &lpar;Andy Greenberg/Wired&rpar;](http://www.techmeme.com/250210/p12#a250210p12)
+ - [Best Puffer Jackets &lpar;2025&rpar;: Patagonia, Arc&#39;teryx, REI](https://www.wired.com/gallery/the-best-puffer-jackets/)
  - [Polymarket Analytics: users put $1.1B in volume on the outcome of the Super Bowl despite regulatory hurdles; one trader made a $550K profit from Eagles bets &lpar;Sam Reynolds/CoinDesk&rpar;](http://www.techmeme.com/250210/p11#a250210p11)
- - [An interview with Arm CEO Rene Haas on DeepSeek, why it isn&#39;t AI&#39;s &quot;Sputnik moment&quot; but is &quot;a big deal&quot;, how DeepSeek will &quot;get shut down&quot; by the US, and more &lpar;Matthew Garrahan/Financial Times&rpar;](http://www.techmeme.com/250210/p10#a250210p10)
- - [The 14 Best Pillows We Found After Months of Nighttime Testing &lpar;2025&rpar;](https://www.wired.com/gallery/best-pillows/)
- - [Sources: China is building a list of US tech firms to target in a trade war, including Broadcom and Synopsys, whose $35B acquisition needs Beijing&#39;s approval &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/250210/p9#a250210p9)
- - [16 Best Toiletry Bags, Tested and Reviewed &lpar;2025&rpar;](https://www.wired.com/gallery/best-toiletry-bags/)<!-- TECH:END -->
+ - [An interview with Arm CEO Rene Haas on DeepSeek, why it isn&#39;t AI&#39;s &quot;Sputnik moment&quot; but is &quot;a big deal&quot;, how DeepSeek will &quot;get shut down&quot; by the US, and more &lpar;Matthew Garrahan/Financial Times&rpar;](http://www.techmeme.com/250210/p10#a250210p10)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

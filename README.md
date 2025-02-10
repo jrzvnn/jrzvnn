@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [A look at the race to bring satellite-connected smartphones to a wider market, as estimates suggest that ~350M people lack access to mobile broadband coverage &lpar;Financial Times&rpar;](http://www.techmeme.com/250210/p2#a250210p2)
  - [A study found that phishing tests and other training programs designed to educate employees about online dangers reduced phishing success rates by just 2% &lpar;Robert McMillan/Wall Street Journal&rpar;](http://www.techmeme.com/250210/p1#a250210p1)
  - [Today&#39;s NYT Mini Crossword Answers for Monday, Feb. 10](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-monday-feb-10/#ftag=CAD590a51e)
  - [Sources: Shein asked some top apparel suppliers in China to set up new production lines in Vietnam, with incentives like higher procurement prices of up to 30% &lpar;Bloomberg&rpar;](http://www.techmeme.com/250209/p17#a250209p17)
- - [TrendForce: China&#39;s share of global mature node manufacturing capacity in 2024 was 34%, vs. Taiwan&#39;s 43%; China&#39;s share is forecasted to exceed Taiwan&#39;s by 2027 &lpar;Wen-Yee Lee/Reuters&rpar;](http://www.techmeme.com/250209/p16#a250209p16)
- - [Official Super Bowl 2025 Ads Hitting Your TV Screen Today](https://www.cnet.com/tech/services-and-software/official-super-bowl-2025-ads-hitting-your-tv-screen-today/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [TrendForce: China&#39;s share of global mature node manufacturing capacity in 2024 was 34%, below Taiwan&#39;s 43%, but China is forecasted to exceed Taiwan by 2027 &lpar;Wen-Yee Lee/Reuters&rpar;](http://www.techmeme.com/250209/p16#a250209p16)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

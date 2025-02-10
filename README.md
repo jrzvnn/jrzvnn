@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [After crawling for two days, stroke victim used Siri to make a call that saved his life](https://appleinsider.com/articles/25/02/10/after-crawling-for-two-days-stroke-victim-uses-siri-to-make-a-call-that-saved-his-life?utm_medium=rss)
  - [iPhone SE 4 -- All the rumors about Apple&#39;s next budget-friendly device](https://appleinsider.com/articles/25/02/07/iphone-se-4----all-the-rumors-about-apples-next-budget-friendly-device?utm_medium=rss)
  - [An Alabama man pleads guilty in connection with the Jan. 2024 SIM-swap hack of the SEC&#39;s X account, then used to falsely claim the SEC had approved bitcoin ETFs &lpar;Dan Mangan/CNBC&rpar;](http://www.techmeme.com/250210/p26#a250210p26)
  - [Google brings NotebookLM Plus, its note-taking AI assistant with higher usage limits, to individuals on Google One AI Premium, and debuts a 50% student discount &lpar;Jagmeet Singh/TechCrunch&rpar;](http://www.techmeme.com/250210/p25#a250210p25)
- - [Today&#39;s Wordle Hints, Answer and Help for Feb. 11, #1333](https://www.cnet.com/tech/gaming/todays-wordle-hints-answer-and-help-for-feb-11-1333/#ftag=CAD590a51e)
- - [Paris AI summit takeaways: Europe has regulation regrets, AI doomsayers have lost ground, and policymakers can&#39;t seem to grasp how soon powerful AI could arrive &lpar;Kevin Roose/New York Times&rpar;](http://www.techmeme.com/250210/p24#a250210p24)<!-- TECH:END -->
+ - [Today&#39;s Wordle Hints, Answer and Help for Feb. 11, #1333](https://www.cnet.com/tech/gaming/todays-wordle-hints-answer-and-help-for-feb-11-1333/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

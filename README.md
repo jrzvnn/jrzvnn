@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Anthropic launches the Anthropic Economic Index to track AI&#39;s impact by analyzing anonymized Claude usage data, showing 57% of AI use leans toward augmentation &lpar;Scott Rosenberg/Axios&rpar;](http://www.techmeme.com/250210/p18#a250210p18)
  - [You can wear an Apple Watch on your ankle, but it&#39;s not the best idea for everybody](https://appleinsider.com/articles/25/02/10/you-can-wear-an-apple-watch-on-your-ankle-but-its-not-the-best-idea-for-everybody?utm_medium=rss)
  - [Steam creates an ad documentation page highlighting its ban on forcing players to watch ads, saying &quot;developers should not utilize paid ads as a business model&quot; &lpar;Liam Dawe/GamingOnLinux&rpar;](http://www.techmeme.com/250210/p17#a250210p17)
  - [Google DeepMind CEO Demis Hassabis says DeepSeek&#39;s $6M training cost claim is &quot;exaggerated and a little bit misleading&quot; and a &quot;fraction of the total cost&quot; &lpar;Bloomberg&rpar;](http://www.techmeme.com/250210/p16#a250210p16)
- - [8 Best Touchscreen Gloves &lpar;2025&rpar;, Tested and Reviewed](https://www.wired.com/gallery/best-touchscreen-gloves/)
- - [Discord announces Ignore, letting users hide any new messages, DMs, server notifications, profiles, and activity from selected users without alerting them &lpar;Anna Washenko/Engadget&rpar;](http://www.techmeme.com/250210/p15#a250210p15)<!-- TECH:END -->
+ - [8 Best Touchscreen Gloves &lpar;2025&rpar;, Tested and Reviewed](https://www.wired.com/gallery/best-touchscreen-gloves/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

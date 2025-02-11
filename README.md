@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Source: Apple and Alibaba submitted their co-developed AI features for approval by China&#39;s cyberspace regulator; Apple considered but rejected Deepseek&#39;s models &lpar;The Information&rpar;](http://www.techmeme.com/250211/p39#a250211p39)
  - [The CFPB Work Freeze Is Putting Big Tech Regulations ‘On Ice’](https://www.wired.com/story/cfpb-trump-freeze-tech-investigations/)
  - [Apple Maps renames Gulf of Mexico to Gulf of America after official database update](https://appleinsider.com/articles/25/02/11/apple-maps-renames-gulf-of-mexico-to-gulf-of-america-after-official-database-update?utm_medium=rss)
  - [Federal Workers Launch New Lawsuit to Fight DOGE’s Data Access](https://www.wired.com/story/government-employees-lawsuit-privacy-doge/)
- - [Here&#39;s How All Online Maps Are Handling the ‘Gulf of Mexico’ Name Change](https://www.wired.com/story/online-maps-gulf-of-mexico-name-change/)
- - [Lyft reports Q4 revenue up 27% YoY to $1.55B, vs. $1.56B est., Q1 gross bookings forecast below est., announces a $500M buyback plan; LYFT drops 9%+ after hours &lpar;Bill Peters/MarketWatch&rpar;](http://www.techmeme.com/250211/p38#a250211p38)<!-- TECH:END -->
+ - [Here&#39;s How All Online Maps Are Handling the ‘Gulf of Mexico’ Name Change](https://www.wired.com/story/online-maps-gulf-of-mexico-name-change/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

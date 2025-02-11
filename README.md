@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Best Alkaline Batteries for 2025](https://www.cnet.com/news/best-alkaline-batteries/#ftag=CAD590a51e)
  - [It’s Spring on Mars—and That Means Violently Explosive Geysers and Avalanches](https://www.wired.com/story/mars-violent-spring-nasa/)
+ - [Best Electric Lawn Mower of 2025](https://www.cnet.com/news/best-electric-lawn-mower/#ftag=CAD590a51e)
  - [Best Places to Buy Contact Lenses Online for 2025](https://www.cnet.com/health/personal-care/best-place-to-buy-contacts-online/#ftag=CAD590a51e)
- - [In a January paper, three computer scientists presented a faster hash table, one of the oldest data structures, disproving a 40-year-old data science conjecture &lpar;Steve Nadis/Quanta Magazine&rpar;](http://www.techmeme.com/250211/p1#a250211p1)
- - [The End of SAVE: Expect This Student Loan Plan to Disappear in 2025](https://www.cnet.com/personal-finance/loans/the-end-of-save-expect-this-student-loan-plan-to-disappear-in-2025/#ftag=CAD590a51e)
- - [Huawei&#39;s Watch D2 sees a sales bump in China after users discovered it can be registered as a medical device, letting them purchase the D2 via medical insurance &lpar;Karoline Kan/Bloomberg&rpar;](http://www.techmeme.com/250210/p33#a250210p33)<!-- TECH:END -->
+ - [In a January paper, three computer scientists presented a faster hash table, one of the oldest data structures, disproving a 40-year-old data science conjecture &lpar;Steve Nadis/Quanta Magazine&rpar;](http://www.techmeme.com/250211/p1#a250211p1)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

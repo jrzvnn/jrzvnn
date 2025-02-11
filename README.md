@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Dbrand&#39;s Aperture cover for Apple Vision Pro certainly makes a statement](https://appleinsider.com/articles/25/02/11/dbrands-aperture-cover-for-apple-vision-pro-certainly-makes-a-statement?utm_medium=rss)
+ - [The bid for OpenAI&#39;s nonprofit is top-tier M&amp;A trolling by Musk, as it complicates OpenAI&#39;s fundraising by likely altering the cost of equity for new investors &lpar;Matt Levine/Bloomberg&rpar;](http://www.techmeme.com/250211/p31#a250211p31)
  - [Filing: Binance and the US SEC have jointly asked a judge to stay the regulator&#39;s lawsuit against the crypto exchange for 60 days, citing Trump admin changes &lpar;Reuters&rpar;](http://www.techmeme.com/250211/p30#a250211p30)
  - [Apple makes first change to Pixelmator Pro with a new splash screen](https://appleinsider.com/articles/25/02/11/apple-makes-first-change-to-pixelmator-pro-with-a-new-splash-screen?utm_medium=rss)
- - [Apple Arcade Is Getting the Rhythm Game Piano Tiles 2 and More Soon](https://www.cnet.com/tech/gaming/apple-arcade-is-getting-the-rhythm-game-piano-tiles-2-and-more-soon/#ftag=CAD590a51e)
- - [Watch Out for These Devious Banking Scams](https://www.cnet.com/personal-finance/banking/devious-banking-scams-to-watch-out-for/#ftag=CAD590a51e)
- - [Champions League Soccer: Livestream Sporting CP vs. Dortmund From Anywhere](https://www.cnet.com/tech/services-and-software/champions-league-soccer-livestream-sporting-cp-vs-dortmund-from-anywhere/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Apple Arcade Is Getting the Rhythm Game Piano Tiles 2 and More Soon](https://www.cnet.com/tech/gaming/apple-arcade-is-getting-the-rhythm-game-piano-tiles-2-and-more-soon/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

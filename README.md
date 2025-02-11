@@ -160,8 +160,8 @@ R                        1 repo              ░░░░░░░░░░░�
  - [Internal message: Shopify&#39;s general council said Ye&#39;s store was banned because the swastika shirt listed for sale &quot;brought with it the real risk of fraud&quot; &lpar;The Logic&rpar;](http://www.techmeme.com/250211/p40#a250211p40)
  - [Source: Apple and Alibaba submitted their co-developed AI features for approval by China&#39;s cyberspace regulator; Apple considered but rejected Deepseek&#39;s models &lpar;The Information&rpar;](http://www.techmeme.com/250211/p39#a250211p39)
  - [The CFPB Work Freeze Is Putting Big Tech Regulations ‘On Ice’](https://www.wired.com/story/cfpb-trump-freeze-tech-investigations/)
- - [Apple Maps renames Gulf of Mexico to Gulf of America after official database update](https://appleinsider.com/articles/25/02/11/apple-maps-renames-gulf-of-mexico-to-gulf-of-america-after-official-database-update?utm_medium=rss)
- - [Federal Workers Launch New Lawsuit to Fight DOGE’s Data Access](https://www.wired.com/story/government-employees-lawsuit-privacy-doge/)<!-- TECH:END -->
+ - [Apple Is Joining Google Using Gulf of America in Its Maps Program](https://www.cnet.com/tech/services-and-software/apple-is-joining-google-using-gulf-of-america-in-its-maps-program/#ftag=CAD590a51e)
+ - [Best Online Hearing Tests of 2025](https://www.cnet.com/health/medical/best-online-hearing-tests/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

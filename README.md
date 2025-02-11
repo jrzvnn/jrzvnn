@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Dublin-based Tines, which uses AI to automate tasks in cybersecurity and other business operations, raised $125M at a $1.13B valuation, up from $600M in 2024 &lpar;Lizette Chapman/Bloomberg&rpar;](http://www.techmeme.com/250211/p15#a250211p15)
+ - [25 years of Apple&#39;s innovation with the iTunes Music Store](https://appleinsider.com/articles/25/02/11/25-years-of-apples-innovation-with-the-itunes-music-store?utm_medium=rss)
+ - [11 Best Android Phones of 2025, Tested and Reviewed](https://www.wired.com/gallery/best-android-phones/)
  - [Chinese EV maker BYD unveils a &quot;God&#39;s Eye&quot; self-driving system and aims to install it on its entire lineup, including its ~$9,600 Seagull hatchback &lpar;Gloria Li/Financial Times&rpar;](http://www.techmeme.com/250211/p14#a250211p14)
- - [The 5 Best Travel Pillows &lpar;2025&rpar;, Tested and Reviewed](https://www.wired.com/gallery/best-travel-pillows/)
- - [The US and the UK did not join France, China, India, and other countries in signing an international AI agreement in Paris, without explaining their reasons &lpar;Liv McMahon/BBC&rpar;](http://www.techmeme.com/250211/p13#a250211p13)
- - [Shopify reports Q4 revenue up 31% YoY to $2.8B, above $2.73B est., GMV up 26% YoY to $94.5B, a $465M operating loss, and 2024 revenue up 26% YoY to $8.9B &lpar;Spencer Soper/Bloomberg&rpar;](http://www.techmeme.com/250211/p12#a250211p12)
- - [Elon Musk&#39;s $97.4B OpenAI offer could force OpenAI&#39;s board to reassess how it is valuing the nonprofit, complicating Sam Altman&#39;s plans even if he rejects it &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/250211/p11#a250211p11)<!-- TECH:END -->
+ - [The 5 Best Travel Pillows &lpar;2025&rpar;, Tested and Reviewed](https://www.wired.com/gallery/best-travel-pillows/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

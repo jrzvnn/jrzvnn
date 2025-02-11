@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [How to use Siri to get answers from ChatGPT](https://appleinsider.com/articles/25/02/11/how-to-use-siri-to-get-answers-from-chatgpt?utm_medium=rss)
  - [Apple&#39;s M4 Mac mini with 24GB RAM, 512GB SSD dips to $929](https://appleinsider.com/articles/25/02/11/apples-m4-mac-mini-with-24gb-ram-512gb-ssd-dips-to-929?utm_medium=rss)
  - [Today&#39;s NYT Mini Crossword Answers for Tuesday, Feb. 11](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-tuesday-feb-11/#ftag=CAD590a51e)
  - [Cybereason CEO sues investors Steven Mnuchin and SoftBank Vision Fund, accusing them of putting Cybereason at risk of bankruptcy by blocking fund raising plans &lpar;Bloomberg&rpar;](http://www.techmeme.com/250210/p32#a250210p32)
- - [Source: Shopify tells support staff to give &quot;no comment&quot; if merchant clients asked about Kanye West using its tech to sell a T-shirt with a Nazi swastika &lpar;The Logic&rpar;](http://www.techmeme.com/250210/p31#a250210p31)
- - [In response to the $97.4B OpenAI bid, Sam Altman says on X &quot;no thank you but we will buy twitter for $9.74 billion if you want&quot;; Elon Musk replies &quot;swindler&quot; &lpar;The Hill&rpar;](http://www.techmeme.com/250210/p30#a250210p30)<!-- TECH:END -->
+ - [Source: Shopify tells support staff to give &quot;no comment&quot; if merchant clients asked about Kanye West using its tech to sell a T-shirt with a Nazi swastika &lpar;The Logic&rpar;](http://www.techmeme.com/250210/p31#a250210p31)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

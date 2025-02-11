@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Lyft reports Q4 revenue up 27% YoY to $1.55B, vs. $1.56B est., Q1 gross bookings forecast below est., announces a $500M buyback plan; LYFT drops 9%+ after hours &lpar;Bill Peters/MarketWatch&rpar;](http://www.techmeme.com/250211/p38#a250211p38)
- - [DoorDash reports Q4 revenue up 25% YoY to $2.87B, vs. $2.84B est., total orders up 19% YoY to 685M, and plans to buy back shares worth up to $5B in FY 2025 &lpar;Ananya Mariam Rajesh/Reuters&rpar;](http://www.techmeme.com/250211/p37#a250211p37)
- - [Google schedules I/O 2025 for May 20 and 21, with a main keynote on May 20 at 10am PT; announcements on Gemini, Android 16, and more are expected &lpar;Abner Li/9to5Google&rpar;](http://www.techmeme.com/250211/p36#a250211p36)
- - [Chat With an Astronaut on the ISS Wednesday: How to Tune In](https://www.cnet.com/science/nasa-is-hosting-a-twitch-stream-from-space-wednesday-how-to-watch/#ftag=CAD590a51e)
- - [Apple is renaming the Gulf of Mexico to Gulf of America on its Maps app, following Google, first for users in the US and soon for all users globally &lpar;Mark Gurman/Bloomberg&rpar;](http://www.techmeme.com/250211/p35#a250211p35)<!-- TECH:END -->
+ - [The CFPB Work Freeze Is Putting Big Tech Regulations ‘On Ice’](https://www.wired.com/story/cfpb-trump-freeze-tech-investigations/)
+ - [Apple Maps renames Gulf of Mexico to Gulf of America after official database update](https://appleinsider.com/articles/25/02/11/apple-maps-renames-gulf-of-mexico-to-gulf-of-america-after-official-database-update?utm_medium=rss)
+ - [Federal Workers Launch New Lawsuit to Fight DOGE’s Data Access](https://www.wired.com/story/government-employees-lawsuit-privacy-doge/)
+ - [Here&#39;s How All Online Maps Are Handling the ‘Gulf of Mexico’ Name Change](https://www.wired.com/story/online-maps-gulf-of-mexico-name-change/)
+ - [Lyft reports Q4 revenue up 27% YoY to $1.55B, vs. $1.56B est., Q1 gross bookings forecast below est., announces a $500M buyback plan; LYFT drops 9%+ after hours &lpar;Bill Peters/MarketWatch&rpar;](http://www.techmeme.com/250211/p38#a250211p38)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [It’s Spring on Mars—and That Means Violently Explosive Geysers and Avalanches](https://www.wired.com/story/mars-violent-spring-nasa/)
  - [Best Places to Buy Contact Lenses Online for 2025](https://www.cnet.com/health/personal-care/best-place-to-buy-contacts-online/#ftag=CAD590a51e)
  - [In a January paper, three computer scientists presented a faster hash table, one of the oldest data structures, disproving a 40-year-old data science conjecture &lpar;Steve Nadis/Quanta Magazine&rpar;](http://www.techmeme.com/250211/p1#a250211p1)
  - [The End of SAVE: Expect This Student Loan Plan to Disappear in 2025](https://www.cnet.com/personal-finance/loans/the-end-of-save-expect-this-student-loan-plan-to-disappear-in-2025/#ftag=CAD590a51e)
- - [Huawei&#39;s Watch D2 sees a sales bump in China after users discovered it can be registered as a medical device, allowing it to be purchased via medical insurance &lpar;Karoline Kan/Bloomberg&rpar;](http://www.techmeme.com/250210/p33#a250210p33)
- - [How to use Siri to get answers from ChatGPT](https://appleinsider.com/articles/25/02/11/how-to-use-siri-to-get-answers-from-chatgpt?utm_medium=rss)<!-- TECH:END -->
+ - [Huawei&#39;s Watch D2 sees a sales bump in China after users discovered it can be registered as a medical device, letting them purchase the D2 via medical insurance &lpar;Karoline Kan/Bloomberg&rpar;](http://www.techmeme.com/250210/p33#a250210p33)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

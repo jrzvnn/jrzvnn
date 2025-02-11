@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Supercell CEO Ilkka Paananen criticizes rivals for seeking to buy successful new titles rather than creating them, saying the industry has stagnated since 2021 &lpar;Richard Milne/Financial Times&rpar;](http://www.techmeme.com/250211/p8#a250211p8)
- - [Tencent&#39;s Supercell reports 2024 revenue up 77% YoY to almost $3B from its six titles and EBITDA up ~77% to $900M+; Squad Busters made $100M+ in revenue &lpar;Cecilia D&#39;Anastasio/Bloomberg&rpar;](http://www.techmeme.com/250211/p7#a250211p7)
- - [OLED MacBook Air pushed back to 2029, but MacBook Pro on schedule for 2026](https://appleinsider.com/articles/25/02/11/oled-macbook-air-pushed-back-to-2029-but-macbook-pro-on-schedule-for-2026?utm_medium=rss)
- - [How TSMC and Taiwan are rushing to avoid Trump&#39;s tariffs, as TSMC&#39;s board meets in Arizona for the first time; Trump has said TSMC &quot;stole&quot; the US&#39; chip business &lpar;Kathrin Hille/Financial Times&rpar;](http://www.techmeme.com/250211/p6#a250211p6)
- - [A profile of Tom Krause, the CEO of Cloud Software Group, which runs government software security company Citrix, as he works with DOGE to cut federal staff &lpar;Bloomberg&rpar;](http://www.techmeme.com/250211/p5#a250211p5)<!-- TECH:END -->
+ - [The US and the UK did not join France, China, India, and other countries in singing an international AI agreement in Paris, without explaining their reasons &lpar;Liv McMahon/BBC&rpar;](http://www.techmeme.com/250211/p13#a250211p13)
+ - [Shopify reports Q4 revenue up 31% YoY to $2.8B, above $2.73B est., GMV up 26% YoY to $94.5B, a $465M operating loss, and 2024 revenue up 26% YoY to $8.9B &lpar;Spencer Soper/Bloomberg&rpar;](http://www.techmeme.com/250211/p12#a250211p12)
+ - [Elon Musk&#39;s $97.4B OpenAI offer could force OpenAI&#39;s board to reassess how it is valuing the nonprofit, complicating Sam Altman&#39;s plans even if he rejects it &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/250211/p11#a250211p11)
+ - [Documents: Spotify co-founders Daniel Ek and Martin Lorentzon sold 2.5M+ shares in 2024, netting ~$1B, the highest sales since 2019, and now own ~16% of Spotify &lpar;Benjamin Stupples/Bloomberg&rpar;](http://www.techmeme.com/250211/p10#a250211p10)
+ - [Google Calendar removes Pride month, Black History Month, Holocaust Remembrance Day, and other events, saying it wasn&#39;t &quot;scalable or sustainable&quot; to keep them &lpar;Jay Peters/The Verge&rpar;](http://www.techmeme.com/250211/p9#a250211p9)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

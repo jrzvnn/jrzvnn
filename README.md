@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Cybereason CEO sues investors Steven Mnuchin and SoftBank Vision Fund, accusing them of putting Cybereason at risk of bankruptcy by blocking fund raising plans &lpar;Bloomberg&rpar;](http://www.techmeme.com/250210/p32#a250210p32)
  - [Source: Shopify tells support staff to give &quot;no comment&quot; if merchant clients asked about Kanye West using its tech to sell a T-shirt with a Nazi swastika &lpar;The Logic&rpar;](http://www.techmeme.com/250210/p31#a250210p31)
  - [In response to the $97.4B OpenAI bid, Sam Altman says on X &quot;no thank you but we will buy twitter for $9.74 billion if you want&quot;; Elon Musk replies &quot;swindler&quot; &lpar;The Hill&rpar;](http://www.techmeme.com/250210/p30#a250210p30)
  - [Investors behind the $97.4B OpenAI bid include xAI, Baron Capital, Valor, Atreides, Vy Capital, Joe Lonsdale&#39;s 8VC, and an investment vehicle led by Ari Emanuel &lpar;CNBC&rpar;](http://www.techmeme.com/250210/p29#a250210p29)
- - [Apple&#39;s M4 Mac mini with 24GB RAM, 512GB SSD dips to $929](https://appleinsider.com/articles/25/02/11/apples-m4-mac-mini-with-24gb-ram-512gb-ssd-dips-to-929?utm_medium=rss)
- - [Google Maps now shows &quot;Gulf of America&quot; instead of &quot;Gulf of Mexico&quot; for users in the US; users in Mexico see &quot;Gulf of Mexico&quot;, and everyone else sees both names &lpar;Umar Shakir/The Verge&rpar;](http://www.techmeme.com/250210/p28#a250210p28)<!-- TECH:END -->
+ - [Apple&#39;s M4 Mac mini with 24GB RAM, 512GB SSD dips to $929](https://appleinsider.com/articles/25/02/11/apples-m4-mac-mini-with-24gb-ram-512gb-ssd-dips-to-929?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

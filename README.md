@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Boston-based QuEra Computing, which is developing neutral-atom quantum computing to help scale systems, raised $230M+ from Google&#39;s Quantum AI unit and others &lpar;Rishi Kant/Reuters&rpar;](http://www.techmeme.com/250211/p16#a250211p16)
+ - [Power Dressing: Silicon Valley’s Macho Makeover Is a Warning, Not a Trend](https://www.wired.com/story/power-dressing-silicon-valleys-macho-makeover-is-a-warning-not-a-trend/)
  - [Dublin-based Tines, which uses AI to automate tasks in cybersecurity and other business operations, raised $125M at a $1.13B valuation, up from $600M in 2024 &lpar;Lizette Chapman/Bloomberg&rpar;](http://www.techmeme.com/250211/p15#a250211p15)
  - [25 years of Apple&#39;s innovation with the iTunes Music Store](https://appleinsider.com/articles/25/02/11/25-years-of-apples-innovation-with-the-itunes-music-store?utm_medium=rss)
- - [11 Best Android Phones of 2025, Tested and Reviewed](https://www.wired.com/gallery/best-android-phones/)
- - [Chinese EV maker BYD unveils a &quot;God&#39;s Eye&quot; self-driving system and aims to install it on its entire lineup, including its ~$9,600 Seagull hatchback &lpar;Gloria Li/Financial Times&rpar;](http://www.techmeme.com/250211/p14#a250211p14)
- - [The 5 Best Travel Pillows &lpar;2025&rpar;, Tested and Reviewed](https://www.wired.com/gallery/best-travel-pillows/)<!-- TECH:END -->
+ - [11 Best Android Phones of 2025, Tested and Reviewed](https://www.wired.com/gallery/best-android-phones/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

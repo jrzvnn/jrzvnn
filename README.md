@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Finding a perfectly sized Apple Watch band may get easier in the future](https://appleinsider.com/articles/22/08/18/finding-a-perfectly-sized-apple-watch-band-may-get-easier-in-the-future?utm_medium=rss)
+ - [Apple Intelligence is coming to China thanks to a partnership with Alibaba](https://appleinsider.com/articles/25/02/11/apple-intelligence-is-coming-china-thanks-to-a-partnership-with-alibaba?utm_medium=rss)
  - [Powerbeats Pro 2 debut for $250 with heart rate monitoring, H2 chip, ANC, better water resistance, a more comfortable and 20% lighter design than previous gen &lpar;Eric Slivka/MacRumors&rpar;](http://www.techmeme.com/250211/p23#a250211p23)
  - [Beats Powerbeats Pro 2 Review: Beating the Best](https://www.wired.com/review/beats-powerbeats-pro-2/)
- - [Beats Powerbeats Pro 2 review: Heart Beats](https://appleinsider.com/articles/25/02/11/beats-powerbeats-pro-2-review-heart-beats?utm_medium=rss)
- - [After the UK ordered Apple to build an encryption backdoor, Congress must enact a law prohibiting US tech companies from providing such backdoors to any country &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/250211/p22#a250211p22)
- - [Apple Intelligence is coming China thanks to a partnership with Alibaba](https://appleinsider.com/articles/25/02/11/apple-intelligence-is-coming-china-thanks-to-a-partnership-with-alibaba?utm_medium=rss)<!-- TECH:END -->
+ - [Beats Powerbeats Pro 2 review: Heart Beats](https://appleinsider.com/articles/25/02/11/beats-powerbeats-pro-2-review-heart-beats?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

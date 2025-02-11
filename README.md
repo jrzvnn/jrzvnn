@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Best Places to Buy Contact Lenses Online for 2025](https://www.cnet.com/health/personal-care/best-place-to-buy-contacts-online/#ftag=CAD590a51e)
  - [In a January paper, three computer scientists presented a faster hash table, one of the oldest data structures, disproving a 40-year-old data science conjecture &lpar;Steve Nadis/Quanta Magazine&rpar;](http://www.techmeme.com/250211/p1#a250211p1)
+ - [The End of SAVE: Expect This Student Loan Plan to Disappear in 2025](https://www.cnet.com/personal-finance/loans/the-end-of-save-expect-this-student-loan-plan-to-disappear-in-2025/#ftag=CAD590a51e)
  - [Huawei&#39;s Watch D2 sees a sales bump in China after users discovered it can be registered as a medical device, allowing it to be purchased via medical insurance &lpar;Karoline Kan/Bloomberg&rpar;](http://www.techmeme.com/250210/p33#a250210p33)
- - [How to use Siri to get answers from ChatGPT](https://appleinsider.com/articles/25/02/11/how-to-use-siri-to-get-answers-from-chatgpt?utm_medium=rss)
- - [Apple&#39;s M4 Mac mini with 24GB RAM, 512GB SSD dips to $929](https://appleinsider.com/articles/25/02/11/apples-m4-mac-mini-with-24gb-ram-512gb-ssd-dips-to-929?utm_medium=rss)
- - [Today&#39;s NYT Mini Crossword Answers for Tuesday, Feb. 11](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-tuesday-feb-11/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [How to use Siri to get answers from ChatGPT](https://appleinsider.com/articles/25/02/11/how-to-use-siri-to-get-answers-from-chatgpt?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

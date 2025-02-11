@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The US and the UK did not join France, China, India, and other countries in singing an international AI agreement in Paris, without explaining their reasons &lpar;Liv McMahon/BBC&rpar;](http://www.techmeme.com/250211/p13#a250211p13)
+ - [Chinese EV maker BYD unveils a &quot;God&#39;s Eye&quot; self-driving system and aims to install it on its entire lineup, including its ~$9,600 Seagull hatchback &lpar;Gloria Li/Financial Times&rpar;](http://www.techmeme.com/250211/p14#a250211p14)
+ - [The 5 Best Travel Pillows &lpar;2025&rpar;, Tested and Reviewed](https://www.wired.com/gallery/best-travel-pillows/)
+ - [The US and the UK did not join France, China, India, and other countries in signing an international AI agreement in Paris, without explaining their reasons &lpar;Liv McMahon/BBC&rpar;](http://www.techmeme.com/250211/p13#a250211p13)
  - [Shopify reports Q4 revenue up 31% YoY to $2.8B, above $2.73B est., GMV up 26% YoY to $94.5B, a $465M operating loss, and 2024 revenue up 26% YoY to $8.9B &lpar;Spencer Soper/Bloomberg&rpar;](http://www.techmeme.com/250211/p12#a250211p12)
- - [Elon Musk&#39;s $97.4B OpenAI offer could force OpenAI&#39;s board to reassess how it is valuing the nonprofit, complicating Sam Altman&#39;s plans even if he rejects it &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/250211/p11#a250211p11)
- - [Documents: Spotify co-founders Daniel Ek and Martin Lorentzon sold 2.5M+ shares in 2024, netting ~$1B, the highest sales since 2019, and now own ~16% of Spotify &lpar;Benjamin Stupples/Bloomberg&rpar;](http://www.techmeme.com/250211/p10#a250211p10)
- - [Google Calendar removes Pride month, Black History Month, Holocaust Remembrance Day, and other events, saying it wasn&#39;t &quot;scalable or sustainable&quot; to keep them &lpar;Jay Peters/The Verge&rpar;](http://www.techmeme.com/250211/p9#a250211p9)<!-- TECH:END -->
+ - [Elon Musk&#39;s $97.4B OpenAI offer could force OpenAI&#39;s board to reassess how it is valuing the nonprofit, complicating Sam Altman&#39;s plans even if he rejects it &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/250211/p11#a250211p11)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Lyft reports Q4 revenue up 27% YoY to $1.55B, vs. $1.56B est., Q1 gross bookings forecast below est., announces a $500M buyback plan; LYFT drops 9%+ after hours &lpar;Bill Peters/MarketWatch&rpar;](http://www.techmeme.com/250211/p38#a250211p38)
  - [DoorDash reports Q4 revenue up 25% YoY to $2.87B, vs. $2.84B est., total orders up 19% YoY to 685M, and plans to buy back shares worth up to $5B in FY 2025 &lpar;Ananya Mariam Rajesh/Reuters&rpar;](http://www.techmeme.com/250211/p37#a250211p37)
  - [Google schedules I/O 2025 for May 20 and 21, with a main keynote on May 20 at 10am PT; announcements on Gemini, Android 16, and more are expected &lpar;Abner Li/9to5Google&rpar;](http://www.techmeme.com/250211/p36#a250211p36)
- - [Apple is renaming the Gulf of Mexico to Gulf of America on its Maps app, following Google, first for users in the US and soon for all users globally &lpar;Mark Gurman/Bloomberg&rpar;](http://www.techmeme.com/250211/p35#a250211p35)
- - [Thomson Reuters has won the first major AI copyright case in the US, filed in 2020 against the legal AI startup Ross Intelligence &lpar;Kate Knibbs/Wired&rpar;](http://www.techmeme.com/250211/p34#a250211p34)
- - [Dwarf 3 Smart Telescope review: a compact, iPhone-connected night sky guide](https://appleinsider.com/articles/25/02/11/dwarf-3-smart-telescope-review-a-compact-iphone-connected-night-sky-guide?utm_medium=rss)<!-- TECH:END -->
+ - [Chat With an Astronaut on the ISS Wednesday: How to Tune In](https://www.cnet.com/science/nasa-is-hosting-a-twitch-stream-from-space-wednesday-how-to-watch/#ftag=CAD590a51e)
+ - [Apple is renaming the Gulf of Mexico to Gulf of America on its Maps app, following Google, first for users in the US and soon for all users globally &lpar;Mark Gurman/Bloomberg&rpar;](http://www.techmeme.com/250211/p35#a250211p35)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

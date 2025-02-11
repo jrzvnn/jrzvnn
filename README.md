@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Supercell CEO Ilkka Paananen criticizes rivals for seeking to buy successful new titles rather than creating them, saying the industry has stagnated since 2021 &lpar;Richard Milne/Financial Times&rpar;](http://www.techmeme.com/250211/p8#a250211p8)
  - [Tencent&#39;s Supercell reports 2024 revenue up 77% YoY to almost $3B from its six titles and EBITDA up ~77% to $900M+; Squad Busters made $100M+ in revenue &lpar;Cecilia D&#39;Anastasio/Bloomberg&rpar;](http://www.techmeme.com/250211/p7#a250211p7)
  - [OLED MacBook Air pushed back to 2029, but MacBook Pro on schedule for 2026](https://appleinsider.com/articles/25/02/11/oled-macbook-air-pushed-back-to-2029-but-macbook-pro-on-schedule-for-2026?utm_medium=rss)
  - [How TSMC and Taiwan are rushing to avoid Trump&#39;s tariffs, as TSMC&#39;s board meets in Arizona for the first time; Trump has said TSMC &quot;stole&quot; the US&#39; chip business &lpar;Kathrin Hille/Financial Times&rpar;](http://www.techmeme.com/250211/p6#a250211p6)
- - [A profile of Tom Krause, the CEO of Cloud Software Group, which runs government software security company Citrix, as he works with DOGE to cut federal staff &lpar;Bloomberg&rpar;](http://www.techmeme.com/250211/p5#a250211p5)
- - [Paris AI summit: US VP JD Vance warns the EU that excessive AI regulation could strangle the tech and rejects content moderation as &quot;authoritarian censorship&quot; &lpar;Reuters&rpar;](http://www.techmeme.com/250211/p4#a250211p4)<!-- TECH:END -->
+ - [A profile of Tom Krause, the CEO of Cloud Software Group, which runs government software security company Citrix, as he works with DOGE to cut federal staff &lpar;Bloomberg&rpar;](http://www.techmeme.com/250211/p5#a250211p5)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

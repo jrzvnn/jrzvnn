@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Elon Musk’s xAI Is Exploring a Way to Make AI More Like Donald Trump](https://www.wired.com/story/xai-make-ai-more-like-trump/)
+ - [Sources: Altman told staff OpenAI&#39;s board has not gotten an official offer from Musk and other investors, and if it happens, the board plans to reject the &quot;bid&quot; &lpar;Zo&amp;euml; Schiffer/Wired&rpar;](http://www.techmeme.com/250211/p33#a250211p33)
+ - [An Advisor to Elon Musk’s xAI Has a Way to Make AI More Like Donald Trump](https://www.wired.com/story/xai-make-ai-more-like-trump/)
  - [The 33 Best Shows on Apple TV+ Right Now &lpar;February 2025&rpar;](https://www.wired.com/story/best-apple-tv-plus-shows/)
  - [Sam Altman Dismisses Elon Musk’s Bid to Buy OpenAI in Letter to Staff](https://www.wired.com/story/sam-altman-openai-reject-elon-musk-bid/)
- - [Elon Musk&#39;s six companies, which face 32+ ongoing probes, pending complaints, or enforcement actions from 11+ US agencies, score benefits from Trump shake-ups &lpar;New York Times&rpar;](http://www.techmeme.com/250211/p32#a250211p32)
- - [Dbrand&#39;s Aperture cover for Apple Vision Pro certainly makes a statement](https://appleinsider.com/articles/25/02/11/dbrands-aperture-cover-for-apple-vision-pro-certainly-makes-a-statement?utm_medium=rss)<!-- TECH:END -->
+ - [Elon Musk&#39;s six companies, which face 32+ ongoing probes, pending complaints, or enforcement actions from 11+ US agencies, score benefits from Trump shake-ups &lpar;New York Times&rpar;](http://www.techmeme.com/250211/p32#a250211p32)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

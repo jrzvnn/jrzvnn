@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Sources: Meta is in talks to acquire South Korean AI chip startup FuriosaAI, which has raised ~$115M since its 2017 founding; the deal could close this month &lpar;John Kang/Forbes&rpar;](http://www.techmeme.com/250211/p29#a250211p29)
  - [Apple&#39;s iPad mini 7 drops to $399 ahead of Valentine&#39;s Day](https://appleinsider.com/articles/25/02/11/apples-ipad-mini-7-drops-to-399-ahead-of-valentines-day?utm_medium=rss)
  - [Neal Mohan says AI auto dubbing will expand to all YouTube Partner Program creators, and YouTube will use ML to estimate users&#39; ages for age-appropriate content &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/250211/p28#a250211p28)
  - [Another Steve Jobs-signed business card hits the auction block](https://appleinsider.com/articles/25/02/11/another-steve-jobs-signed-business-card-hits-the-auction-block?utm_medium=rss)
- - [Anduril plans to assume management and eventual manufacturing of the US Army&#39;s infantry goggles from Microsoft, in an up to $20B deal that the Army must approve &lpar;Anthony Capaccio/Bloomberg&rpar;](http://www.techmeme.com/250211/p27#a250211p27)
- - [Apple Watch Series 10 owners report speaker problems](https://appleinsider.com/articles/25/02/11/apple-watch-series-10-owners-report-speaker-problems?utm_medium=rss)<!-- TECH:END -->
+ - [Anduril plans to assume management and eventual manufacturing of the US Army&#39;s infantry goggles from Microsoft, in an up to $20B deal that the Army must approve &lpar;Anthony Capaccio/Bloomberg&rpar;](http://www.techmeme.com/250211/p27#a250211p27)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

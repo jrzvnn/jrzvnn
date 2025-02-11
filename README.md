@@ -160,8 +160,8 @@ R                        1 repo              ░░░░░░░░░░░�
  - [Elon Musk&#39;s six companies, which face 32+ ongoing probes, pending complaints, or enforcement actions from 11+ US agencies, score benefits from Trump shake-ups &lpar;New York Times&rpar;](http://www.techmeme.com/250211/p32#a250211p32)
  - [Dbrand&#39;s Aperture cover for Apple Vision Pro certainly makes a statement](https://appleinsider.com/articles/25/02/11/dbrands-aperture-cover-for-apple-vision-pro-certainly-makes-a-statement?utm_medium=rss)
  - [The bid for OpenAI&#39;s nonprofit is top-tier M&amp;A trolling by Musk, as it complicates OpenAI&#39;s fundraising by likely altering the cost of equity for new investors &lpar;Matt Levine/Bloomberg&rpar;](http://www.techmeme.com/250211/p31#a250211p31)
- - [Filing: Binance and the US SEC have jointly asked a judge to stay the regulator&#39;s lawsuit against the crypto exchange for 60 days, citing Trump admin changes &lpar;Reuters&rpar;](http://www.techmeme.com/250211/p30#a250211p30)
- - [Apple makes first change to Pixelmator Pro with a new splash screen](https://appleinsider.com/articles/25/02/11/apple-makes-first-change-to-pixelmator-pro-with-a-new-splash-screen?utm_medium=rss)<!-- TECH:END -->
+ - [Best Camera Bag and Backpack for 2025](https://www.cnet.com/tech/computing/best-camera-bag-and-backpack/#ftag=CAD590a51e)
+ - [You May Soon Pay More for Apple Devices. Experts Weigh In on Trump&#39;s Tariffs](https://www.cnet.com/personal-finance/banking/you-may-soon-pay-more-for-apple-devices-experts-weigh-in-on-trumps-tariffs/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

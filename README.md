@@ -159,9 +159,9 @@ R                        1 repo              ░░░░░░░░░░░�
 <!-- TECH:START -->
  - [Filing: Binance and the US SEC have jointly asked a judge to stay the regulator&#39;s lawsuit against the crypto exchange for 60 days, citing Trump admin changes &lpar;Reuters&rpar;](http://www.techmeme.com/250211/p30#a250211p30)
  - [Apple makes first change to Pixelmator Pro with a new splash screen](https://appleinsider.com/articles/25/02/11/apple-makes-first-change-to-pixelmator-pro-with-a-new-splash-screen?utm_medium=rss)
- - [Sources: Meta is in talks to acquire South Korean AI chip startup FuriosaAI, which has raised ~$115M since its 2017 founding; the deal could close this month &lpar;John Kang/Forbes&rpar;](http://www.techmeme.com/250211/p29#a250211p29)
- - [Own an Apple Watch? You Could Get Part of a $20 Million Settlement](https://www.cnet.com/tech/mobile/own-an-apple-watch-you-could-get-part-of-a-20-million-settlement/#ftag=CAD590a51e)
- - [Apple&#39;s iPad mini 7 drops to $399 ahead of Valentine&#39;s Day](https://appleinsider.com/articles/25/02/11/apples-ipad-mini-7-drops-to-399-ahead-of-valentines-day?utm_medium=rss)<!-- TECH:END -->
+ - [Apple Arcade Is Getting the Rhythm Game Piano Tiles 2 and More Soon](https://www.cnet.com/tech/gaming/apple-arcade-is-getting-the-rhythm-game-piano-tiles-2-and-more-soon/#ftag=CAD590a51e)
+ - [Watch Out for These Devious Banking Scams](https://www.cnet.com/personal-finance/banking/devious-banking-scams-to-watch-out-for/#ftag=CAD590a51e)
+ - [Champions League Soccer: Livestream Sporting CP vs. Dortmund From Anywhere](https://www.cnet.com/tech/services-and-software/champions-league-soccer-livestream-sporting-cp-vs-dortmund-from-anywhere/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

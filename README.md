@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Beats Powerbeats Pro 2 review: Heart Beats](https://appleinsider.com/articles/25/02/11/beats-powerbeats-pro-2-review-heart-beats?utm_medium=rss)
+ - [After the UK ordered Apple to build an encryption backdoor, Congress must enact a law prohibiting US tech companies from providing such backdoors to any country &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/250211/p22#a250211p22)
+ - [Apple Intelligence is coming China thanks to a partnership with Alibaba](https://appleinsider.com/articles/25/02/11/apple-intelligence-is-coming-china-thanks-to-a-partnership-with-alibaba?utm_medium=rss)
  - [The US, the UK, and Australia sanction Russia-based bulletproof hosting provider Zservers and two Russian nationals for supplying the LockBit ransomware gang &lpar;Sergiu Gatlan/BleepingComputer&rpar;](http://www.techmeme.com/250211/p21#a250211p21)
- - [Apple is considering adding a small display to the Apple Vision Pro headband](https://appleinsider.com/articles/25/02/11/apple-is-considering-adding-a-small-display-to-the-apple-vision-pro-headband?utm_medium=rss)
- - [Sydney-based Harrison.ai, which uses AI to analyze CT scans, X-rays, and pathology slides, raised a $112M Series C, after a ~$92.3M Series B in November 2021 &lpar;Kate Park/TechCrunch&rpar;](http://www.techmeme.com/250211/p20#a250211p20)
- - [SMIC reports Q4 profit down 38% YoY to $107.6M, below $193.5 est., revenue up 32% YoY to $2.2B, above $2.18B est., and $7.33B capex in 2024, vs. $4.5B in 2021 &lpar;Reuters&rpar;](http://www.techmeme.com/250211/p19#a250211p19)
- - [Tel Aviv-based Voyantis, which uses AI to predict a customer&#39;s future propensity and lifetime value for marketers, raised $41M, taking its total funding to $60M &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/250211/p18#a250211p18)<!-- TECH:END -->
+ - [Apple is considering adding a small display to the Apple Vision Pro headband](https://appleinsider.com/articles/25/02/11/apple-is-considering-adding-a-small-display-to-the-apple-vision-pro-headband?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

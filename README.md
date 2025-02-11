@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Beats Powerbeats Pro 2 review: Heart Beats](https://appleinsider.com/articles/25/02/11/beats-powerbeats-pro-2-review-heart-beats?utm_medium=rss)
- - [Shopify says Ye&#39;s store, which began selling swastika shirts before a Super Bowl ad boosted traffic to the site, was shuttered because it violated Shopify&#39;s ToS &lpar;Patrick Smith/NBC News&rpar;](http://www.techmeme.com/250211/p24#a250211p24)
- - [Finding a perfectly sized Apple Watch band may get easier in the future](https://appleinsider.com/articles/22/08/18/finding-a-perfectly-sized-apple-watch-band-may-get-easier-in-the-future?utm_medium=rss)
- - [Apple Intelligence is coming to China thanks to a partnership with Alibaba](https://appleinsider.com/articles/25/02/11/apple-intelligence-is-coming-china-thanks-to-a-partnership-with-alibaba?utm_medium=rss)
- - [Powerbeats Pro 2 debut for $250 with heart rate monitoring, H2 chip, ANC, better water resistance, a more comfortable and 20% lighter design than previous gen &lpar;Eric Slivka/MacRumors&rpar;](http://www.techmeme.com/250211/p23#a250211p23)<!-- TECH:END -->
+ - [Saudi Arabia says its Neom megacity project is partnering with DataVolt to build a 1.5-gigawatt-scale AI data center by 2028, investing $5B into its first phase &lpar;Nora Redmond/Business Insider&rpar;](http://www.techmeme.com/250211/p26#a250211p26)
+ - [OLED MacBook Air pushed back to 2029, but MacBook Pro on schedule for 2026](https://appleinsider.com/articles/25/02/11/oled-macbook-air-pushed-back-to-2029-but-macbook-pro-on-schedule-for-2026?utm_medium=rss)
+ - [Sardine, which offers fraud-fighting AI agents for enterprises, raised a $70M Series C led by Activant Capital, valuing the company at $660M &lpar;Emily Mason/Bloomberg&rpar;](http://www.techmeme.com/250211/p25#a250211p25)
+ - [Champions League Soccer: Livestream Brest vs. PSG From Anywhere](https://www.cnet.com/tech/services-and-software/champions-league-soccer-livestream-brest-vs-psg-from-anywhere/#ftag=CAD590a51e)
+ - [Best Sports Drinks of 2025](https://www.cnet.com/health/fitness/best-sports-drinks/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

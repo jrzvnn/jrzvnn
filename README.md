@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Apple is renaming the Gulf of Mexico to Gulf of America on its Maps app, following Google, first for users in the US and soon for all users globally &lpar;Mark Gurman/Bloomberg&rpar;](http://www.techmeme.com/250211/p35#a250211p35)
  - [Thomson Reuters has won the first major AI copyright case in the US, filed in 2020 against the legal AI startup Ross Intelligence &lpar;Kate Knibbs/Wired&rpar;](http://www.techmeme.com/250211/p34#a250211p34)
  - [Dwarf 3 Smart Telescope review: a compact, iPhone-connected night sky guide](https://appleinsider.com/articles/25/02/11/dwarf-3-smart-telescope-review-a-compact-iphone-connected-night-sky-guide?utm_medium=rss)
  - [Thomson Reuters Wins First Major AI Copyright Case in the US](https://www.wired.com/story/thomson-reuters-ai-copyright-lawsuit/)
- - [Sources: Altman told staff OpenAI&#39;s board has not gotten an official offer from Musk and other investors, and if it happens, the board plans to reject the &quot;bid&quot; &lpar;Zo&amp;euml; Schiffer/Wired&rpar;](http://www.techmeme.com/250211/p33#a250211p33)
- - [Best Strategy Board Games for 2025](https://www.cnet.com/culture/entertainment/best-strategy-board-games/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Sources: Altman told staff OpenAI&#39;s board has not gotten an official offer from Musk and other investors, and if it happens, the board plans to reject the &quot;bid&quot; &lpar;Zo&amp;euml; Schiffer/Wired&rpar;](http://www.techmeme.com/250211/p33#a250211p33)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [A profile of Tom Krause, the CEO of Cloud Software Group, which runs government software security company Citrix, as he works with DOGE to cut federal staff &lpar;Bloomberg&rpar;](http://www.techmeme.com/250211/p5#a250211p5)
  - [Paris AI summit: US VP JD Vance warns the EU that excessive AI regulation could strangle the tech and rejects content moderation as &quot;authoritarian censorship&quot; &lpar;Reuters&rpar;](http://www.techmeme.com/250211/p4#a250211p4)
  - [What Comes After OnlyFans?](https://www.wired.com/story/onlyfans-artificial-intelligence-sex-work-relationships/)
  - [I Dated Multiple AI Partners at Once. It Got Real Weird](https://www.wired.com/story/dating-ai-chatbot-partners-chatgpt-replika-flipped-chat-crushon/)
- - [At the AI Action Summit in Paris, EU Commission President Ursula von der Leyen says the bloc plans to mobilize &amp;euro;200B to invest in AI to catch the US and China &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/250211/p3#a250211p3)
- - [Sam Altman says &quot;OpenAI is not for sale&quot; and &quot;OpenAI&#39;s mission is not for sale&quot;, especially to &quot;a competitor who is not able to beat us in the market&quot; &lpar;Ina Fried/Axios&rpar;](http://www.techmeme.com/250211/p2#a250211p2)<!-- TECH:END -->
+ - [At the AI Action Summit in Paris, EU Commission President Ursula von der Leyen says the bloc plans to mobilize &amp;euro;200B to invest in AI to catch the US and China &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/250211/p3#a250211p3)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

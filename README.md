@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The US, the UK, and Australia sanction Russia-based bulletproof hosting provider Zservers and two Russian nationals for supplying the LockBit ransomware gang &lpar;Sergiu Gatlan/BleepingComputer&rpar;](http://www.techmeme.com/250211/p21#a250211p21)
  - [Apple is considering adding a small display to the Apple Vision Pro headband](https://appleinsider.com/articles/25/02/11/apple-is-considering-adding-a-small-display-to-the-apple-vision-pro-headband?utm_medium=rss)
  - [Sydney-based Harrison.ai, which uses AI to analyze CT scans, X-rays, and pathology slides, raised a $112M Series C, after a ~$92.3M Series B in November 2021 &lpar;Kate Park/TechCrunch&rpar;](http://www.techmeme.com/250211/p20#a250211p20)
  - [SMIC reports Q4 profit down 38% YoY to $107.6M, below $193.5 est., revenue up 32% YoY to $2.2B, above $2.18B est., and $7.33B capex in 2024, vs. $4.5B in 2021 &lpar;Reuters&rpar;](http://www.techmeme.com/250211/p19#a250211p19)
- - [Tel Aviv-based Voyantis, which uses AI to predict a customer&#39;s future propensity and lifetime value for marketers, raised $41M, taking its total funding to $60M &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/250211/p18#a250211p18)
- - [Annual letter: YouTube CEO Neal Mohan says TV has overtaken mobile as the &quot;primary device for YouTube viewing in the US&quot;, indicating YouTube is &quot;the new TV&quot; &lpar;Alex Weprin/The Hollywood Reporter&rpar;](http://www.techmeme.com/250211/p17#a250211p17)<!-- TECH:END -->
+ - [Tel Aviv-based Voyantis, which uses AI to predict a customer&#39;s future propensity and lifetime value for marketers, raised $41M, taking its total funding to $60M &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/250211/p18#a250211p18)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

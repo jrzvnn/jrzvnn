@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Sam Altman says &quot;OpenAI is not for sale&quot; and &quot;OpenAI&#39;s mission is not for sale&quot;, especially to &quot;a competitor who is not able to beat us in the market&quot; &lpar;Ina Fried/Axios&rpar;](http://www.techmeme.com/250211/p2#a250211p2)
  - [Best Alkaline Batteries for 2025](https://www.cnet.com/news/best-alkaline-batteries/#ftag=CAD590a51e)
  - [It’s Spring on Mars—and That Means Violently Explosive Geysers and Avalanches](https://www.wired.com/story/mars-violent-spring-nasa/)
  - [Best Electric Lawn Mower of 2025](https://www.cnet.com/news/best-electric-lawn-mower/#ftag=CAD590a51e)
- - [Best Places to Buy Contact Lenses Online for 2025](https://www.cnet.com/health/personal-care/best-place-to-buy-contacts-online/#ftag=CAD590a51e)
- - [In a January paper, three computer scientists presented a faster hash table, one of the oldest data structures, disproving a 40-year-old data science conjecture &lpar;Steve Nadis/Quanta Magazine&rpar;](http://www.techmeme.com/250211/p1#a250211p1)<!-- TECH:END -->
+ - [Best Places to Buy Contact Lenses Online for 2025](https://www.cnet.com/health/personal-care/best-place-to-buy-contacts-online/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

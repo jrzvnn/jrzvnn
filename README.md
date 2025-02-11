@@ -158,10 +158,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- TECH:START -->
  - [Sources: Altman told staff OpenAI&#39;s board has not gotten an official offer from Musk and other investors, and if it happens, the board plans to reject the &quot;bid&quot; &lpar;Zo&amp;euml; Schiffer/Wired&rpar;](http://www.techmeme.com/250211/p33#a250211p33)
+ - [Best Strategy Board Games for 2025](https://www.cnet.com/culture/entertainment/best-strategy-board-games/#ftag=CAD590a51e)
+ - [Best Coolers of 2025](https://www.cnet.com/home/yard-and-outdoors/best-coolers/#ftag=CAD590a51e)
  - [An Advisor to Elon Musk’s xAI Has a Way to Make AI More Like Donald Trump](https://www.wired.com/story/xai-make-ai-more-like-trump/)
- - [The 33 Best Shows on Apple TV+ Right Now &lpar;February 2025&rpar;](https://www.wired.com/story/best-apple-tv-plus-shows/)
- - [Sam Altman Dismisses Elon Musk’s Bid to Buy OpenAI in Letter to Staff](https://www.wired.com/story/sam-altman-openai-reject-elon-musk-bid/)
- - [Elon Musk&#39;s six companies, which face 32+ ongoing probes, pending complaints, or enforcement actions from 11+ US agencies, score benefits from Trump shake-ups &lpar;New York Times&rpar;](http://www.techmeme.com/250211/p32#a250211p32)<!-- TECH:END -->
+ - [The 33 Best Shows on Apple TV+ Right Now &lpar;February 2025&rpar;](https://www.wired.com/story/best-apple-tv-plus-shows/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

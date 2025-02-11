@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Elon Musk’s xAI Is Exploring a Way to Make AI More Like Donald Trump](https://www.wired.com/story/xai-make-ai-more-like-trump/)
+ - [The 33 Best Shows on Apple TV+ Right Now &lpar;February 2025&rpar;](https://www.wired.com/story/best-apple-tv-plus-shows/)
+ - [Sam Altman Dismisses Elon Musk’s Bid to Buy OpenAI in Letter to Staff](https://www.wired.com/story/sam-altman-openai-reject-elon-musk-bid/)
  - [Elon Musk&#39;s six companies, which face 32+ ongoing probes, pending complaints, or enforcement actions from 11+ US agencies, score benefits from Trump shake-ups &lpar;New York Times&rpar;](http://www.techmeme.com/250211/p32#a250211p32)
- - [Dbrand&#39;s Aperture cover for Apple Vision Pro certainly makes a statement](https://appleinsider.com/articles/25/02/11/dbrands-aperture-cover-for-apple-vision-pro-certainly-makes-a-statement?utm_medium=rss)
- - [The bid for OpenAI&#39;s nonprofit is top-tier M&amp;A trolling by Musk, as it complicates OpenAI&#39;s fundraising by likely altering the cost of equity for new investors &lpar;Matt Levine/Bloomberg&rpar;](http://www.techmeme.com/250211/p31#a250211p31)
- - [Filing: Binance and the US SEC have jointly asked a judge to stay the regulator&#39;s lawsuit against the crypto exchange for 60 days, citing Trump admin changes &lpar;Reuters&rpar;](http://www.techmeme.com/250211/p30#a250211p30)
- - [Apple makes first change to Pixelmator Pro with a new splash screen](https://appleinsider.com/articles/25/02/11/apple-makes-first-change-to-pixelmator-pro-with-a-new-splash-screen?utm_medium=rss)<!-- TECH:END -->
+ - [Dbrand&#39;s Aperture cover for Apple Vision Pro certainly makes a statement](https://appleinsider.com/articles/25/02/11/dbrands-aperture-cover-for-apple-vision-pro-certainly-makes-a-statement?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

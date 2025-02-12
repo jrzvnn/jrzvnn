@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Apple Vision Pro, iPhone SE 4, &amp; smaller announcements in coming days](https://appleinsider.com/articles/25/02/12/apple-vision-pro-iphone-se-4-smaller-announcements-in-coming-days?utm_medium=rss)
  - [Meta creates a free, &quot;fully funded&quot; curriculum to teach middle schoolers how to recognize forms of online exploitation, in partnership with nonprofit Childhelp &lpar;Emma Roth/The Verge&rpar;](http://www.techmeme.com/250211/p46#a250211p46)
  - [A look at ACTS 17, a nonprofit devoted to introducing Christianity to technologists by inviting Peter Thiel and other tech executives to talk about their faith &lpar;Emma Goldberg/New York Times&rpar;](http://www.techmeme.com/250211/p45#a250211p45)
  - [Andesite, which combines human expertise and AI in its security operations center platform, raised an additional $23M seed, taking its total funding to $38.25M &lpar;David DiMolfetta/Nextgov/FCW&rpar;](http://www.techmeme.com/250211/p44#a250211p44)
- - [Apple now lets users migrate apps, music, books, shows, and movies between Apple accounts, but the feature isn&#39;t available to users in the EU, the UK, or India &lpar;Juli Clover/MacRumors&rpar;](http://www.techmeme.com/250211/p43#a250211p43)
- - [Apple now lets you transfer purchases from one Apple Account to another](https://appleinsider.com/articles/25/02/12/apple-now-lets-you-transfer-purchases-from-one-apple-account-to-another?utm_medium=rss)<!-- TECH:END -->
+ - [Apple now lets users migrate apps, music, books, shows, and movies between Apple accounts, but the feature isn&#39;t available to users in the EU, the UK, or India &lpar;Juli Clover/MacRumors&rpar;](http://www.techmeme.com/250211/p43#a250211p43)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

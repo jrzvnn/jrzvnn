@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [iPhone SE 4 &amp; Apple Vision Pro announcements are coming in the next week](https://appleinsider.com/articles/25/02/12/apple-vision-pro-iphone-se-4-smaller-announcements-in-coming-days?utm_medium=rss)
+ - [The Best Cast Iron Pans for Every Kitchen &lpar;2025&rpar;](https://www.wired.com/gallery/best-cast-iron-pans/)
  - [A profile of Oura CEO Tom Hale, who joined the Finnish smart ring maker in 2022, as it broadens its appeal and reaches $500M in 2024 revenue and profitability &lpar;Brent Crane/Bloomberg&rpar;](http://www.techmeme.com/250212/p16#a250212p16)
  - [Google rolls out AI image remixing tool Whisk to 100+ countries, letting users upload three images for subject, scene, and style to remix, powered by Imagen 3 &lpar;Ivan Mehta/TechCrunch&rpar;](http://www.techmeme.com/250212/p15#a250212p15)
- - [Want to Make Your Spotify Wrapped Better This Year? Start Now](https://www.wired.com/story/how-to-make-your-spotify-wrapped-better-this-year/)
- - [Indonesia wins as Apple considers manufacturing iPhones there](https://appleinsider.com/articles/25/02/12/indonesia-wins-as-apple-considers-manufacturing-iphones-there?utm_medium=rss)
- - [How to Get PFAS Out of Drinking Water—and Keep It Out](https://www.wired.com/story/how-to-get-pfas-out-of-drinking-water-and-keep-it-out/)<!-- TECH:END -->
+ - [Want to Make Your Spotify Wrapped Better This Year? Start Now](https://www.wired.com/story/how-to-make-your-spotify-wrapped-better-this-year/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

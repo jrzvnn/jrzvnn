@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [SoftBank posts a surprise Q3 net loss of ~$2.4B on ~$12.04B revenue, vs. $12.1B est., as the Vision Fund, after two profitable quarters, reports a ~$2.04B loss &lpar;Dylan Butts/CNBC&rpar;](http://www.techmeme.com/250212/p9#a250212p9)
  - [NATO Innovation Fund and Dealroom: investments in EU defense tech and related startups rose 24% in 2024 to $5.2B, outpacing AI VC growth in the past two years &lpar;Financial Times&rpar;](http://www.techmeme.com/250212/p8#a250212p8)
  - [Riyadh-based BNPL startup Tabby raised a $160M Series E led by Blue Pool Capital at a $3.3B valuation; CEO Hosam Arab expects an IPO within 18 months &lpar;Federico Maccioni/Reuters&rpar;](http://www.techmeme.com/250212/p7#a250212p7)
  - [Snap says 375K+ creators have built over 4M AR lenses for Snapchat; CTO Bobby Murphy says Indian creators are now the top source, growing 50%+ in two years &lpar;Vikas SN/Moneycontrol&rpar;](http://www.techmeme.com/250212/p6#a250212p6)
- - [Therabody Promo Codes: 10% Off | February 2025](https://www.wired.com/story/therabody-promo-code/)
- - [Dyson Promo Codes: 20% Off | February 2025](https://www.wired.com/story/dyson-cordless-vacuum-promo-code/)<!-- TECH:END -->
+ - [Therabody Promo Codes: 10% Off | February 2025](https://www.wired.com/story/therabody-promo-code/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

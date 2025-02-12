@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [13 Best Bookshelf Speakers &lpar;2025&rpar;: Active, Passive, and Hi-Fi](https://www.wired.com/gallery/best-bookshelf-speakers/)
  - [In Q4, Meta tweaked its depreciation accounting for AI infrastructure, extending it from 4-5 to 5.5 years, cutting expenses by $2.9B in 2025 and boosting profit &lpar;Jeran Wittenstein/Bloomberg&rpar;](http://www.techmeme.com/250212/p17#a250212p17)
  - [Xiaomi Poco X7 Pro Review: Midrange Marvel](https://www.wired.com/review/xiaomi-poco-x7-pro/)
  - [iPhone SE 4 &amp; Apple Vision Pro announcements are coming in the next week](https://appleinsider.com/articles/25/02/12/apple-vision-pro-iphone-se-4-smaller-announcements-in-coming-days?utm_medium=rss)
- - [The Best Cast Iron Pans for Every Kitchen &lpar;2025&rpar;](https://www.wired.com/gallery/best-cast-iron-pans/)
- - [A profile of Oura CEO Tom Hale, who joined the Finnish smart ring maker in 2022, as it broadens its appeal and reaches $500M in 2024 revenue and profitability &lpar;Brent Crane/Bloomberg&rpar;](http://www.techmeme.com/250212/p16#a250212p16)<!-- TECH:END -->
+ - [The Best Cast Iron Pans for Every Kitchen &lpar;2025&rpar;](https://www.wired.com/gallery/best-cast-iron-pans/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

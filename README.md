@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Trump picks Apple Car lawyer for highway safety role](https://appleinsider.com/articles/25/02/12/trump-picks-apple-car-lawyer-for-highway-safety-role?utm_medium=rss)
+ - [Apple&#39;s new research study is the most ambitious one yet](https://appleinsider.com/articles/25/02/12/apple-aims-to-get-technology-helping-with-all-health-issues?utm_medium=rss)
  - [Sam Altman says OpenAI plans to give 10 Deep Research requests per month to $20/month ChatGPT Plus users and two per month to free users &lpar;Carl Franzen/VentureBeat&rpar;](http://www.techmeme.com/250212/p26#a250212p26)
  - [Source: the Trump administration is releasing cybercriminal Alexander Vinnik to Russia in exchange for US retrieving the American schoolteacher Marc Fogel &lpar;Charlie Savage/New York Times&rpar;](http://www.techmeme.com/250212/p25#a250212p25)
- - [9 Best Travel Adapters &lpar;2025&rpar;, Tested and Reviewed](https://www.wired.com/gallery/best-travel-adapters/)
- - [In the past few weeks, the Trump administration replaced the CIOs of the OMB, OPM, and Department of Energy with Elon Musk- and Peter Thiel-aligned executives &lpar;Makena Kelly/Wired&rpar;](http://www.techmeme.com/250212/p24#a250212p24)
- - [Google CEO Sundar Pichai says &quot;practically useful&quot; quantum computers are five to 10 years away, and &quot;the quantum moment reminds me of where AI was in the 2010s&quot; &lpar;Marissa Newman/Bloomberg&rpar;](http://www.techmeme.com/250212/p23#a250212p23)<!-- TECH:END -->
+ - [9 Best Travel Adapters &lpar;2025&rpar;, Tested and Reviewed](https://www.wired.com/gallery/best-travel-adapters/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

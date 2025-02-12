@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Robinhood reports Q4 revenue up 115% YoY to $1.01B, vs. $940.8M est., crypto transaction revenue up 700%+ to $358M, above est.; HOOD jumps 10%+ after hours &lpar;Paige Smith/Bloomberg&rpar;](http://www.techmeme.com/250212/p38#a250212p38)
  - [Reddit reports Q4 revenue up 71% YoY to $428M, vs. $405M est., and daily active uniques up 39% YoY to 101.7M, vs. 103.1M est.; RDDT drops 13%+ after hours &lpar;Jonathan Vanian/CNBC&rpar;](http://www.techmeme.com/250212/p37#a250212p37)
  - [Revenge of the Covid Conspiracy Theorists](https://www.wired.com/story/revenge-of-the-covid-conspiracy-theorists/)
  - [The GSA Plans to Sell Hundreds of Its Federal Government Buildings](https://www.wired.com/story/gsa-sell-government-buildings/)
- - [Apple releases an Apple TV app for Android phones and tablets, limited to Apple TV+, MLS Season Pass, and MLB Friday Night Baseball; it doesn&#39;t support casting &lpar;Benjamin Mayo/9to5Mac&rpar;](http://www.techmeme.com/250212/p36#a250212p36)
- - [Sam Altman says GPT-5 will include o3, which will no longer be offered as a standalone model, GPT-4.5 will be OpenAI&#39;s last non-chain-of-thought model, and more &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/250212/p35#a250212p35)<!-- TECH:END -->
+ - [Apple releases an Apple TV app for Android phones and tablets, limited to Apple TV+, MLS Season Pass, and MLB Friday Night Baseball; it doesn&#39;t support casting &lpar;Benjamin Mayo/9to5Mac&rpar;](http://www.techmeme.com/250212/p36#a250212p36)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Analysis of credit and debit card data: Shein&#39;s US sales fell 16% to 41% for five days from February 5 and Temu fell up to 32% after Trump targets China trade &lpar;Bloomberg&rpar;](http://www.techmeme.com/250212/p12#a250212p12)
- - [Binance Moved Fast, Broke Things—and Paid the Price. Richard Teng Is Cleaning Up](https://www.wired.com/story/binance-richard-teng-cz-ceo/)
- - [Crave Vesper Mini Review: The Discreet Vibrator](https://www.wired.com/review/crave-vesper-mini/)
- - [8 Risk Factors of Colon Cancer and How to Check for Signs](https://www.cnet.com/health/medical/colon-cancer-signs-risk-factors-how-reduce-likelihood/#ftag=CAD590a51e)
- - [Researcher Johann Rehberger shows a hack to override Gemini&#39;s prompt injection defenses, letting long-term memories be permanently planted for future sessions &lpar;Dan Goodin/Ars Technica&rpar;](http://www.techmeme.com/250212/p11#a250212p11)<!-- TECH:END -->
+ - [A letter to US senator Ron Wyden shows data broker Datastream, which was selling US military location data, got the data from Lithuanian adtech company Eskimi &lpar;Wired&rpar;](http://www.techmeme.com/250212/p13#a250212p13)
+ - [The Best Presidents’ Day Mattress Deals &lpar;and Bedding Too!&rpar;](https://www.wired.com/story/presidents-day-mattress-deals-2025/)
+ - [The Heart Emoji Is Meaningless](https://www.wired.com/story/heart-emoji-lost-all-meaning/)
+ - [Your Love Life on Ozempic](https://www.wired.com/story/ozempic-glp-1s-libido-love-life/)
+ - [Analysis of credit and debit card data: Shein&#39;s US sales fell 16% to 41% for five days from February 5 and Temu fell up to 32% after Trump targets China trade &lpar;Bloomberg&rpar;](http://www.techmeme.com/250212/p12#a250212p12)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

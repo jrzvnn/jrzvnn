@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [8 Best Slippers, Tested and Loved by WIRED Staffers &lpar;2025&rpar;](https://www.wired.com/gallery/best-slippers/)
+ - [iPhone owners are replacing their devices faster than before](https://appleinsider.com/articles/25/02/12/iphone-owners-are-replacing-their-devices-faster-than-before?utm_medium=rss)
  - [Amazon slashes M4 MacBook Pro price to $1,399.99 with fresh coupon](https://appleinsider.com/articles/25/02/12/amazon-slashes-m4-macbook-pro-price-to-139999-with-fresh-coupon?utm_medium=rss)
  - [A Hacker Group Within Russia’s Notorious Sandworm Unit Is Breaching Western Networks](https://www.wired.com/story/russia-sandworm-badpilot-cyberattacks-western-countries/)
- - [Google Threat Intelligence: US adversaries, especially Russia, are increasingly turning to cybercriminals and free or public malware to advance their goals &lpar;Tim Starks/CyberScoop&rpar;](http://www.techmeme.com/250212/p30#a250212p30)
- - [Premier League Soccer: Stream Everton vs. Liverpool From Anywhere](https://www.cnet.com/tech/services-and-software/premier-league-soccer-stream-everton-vs-liverpool-from-anywhere/#ftag=CAD590a51e)
- - [Snowflake and Anthropic partner to integrate Claude 3.5 Sonnet into Snowflake&#39;s new Cortex Agents platform, embedding AI agents into corporate data environments &lpar;Michael Nu&amp;ntilde;ez/VentureBeat&rpar;](http://www.techmeme.com/250212/p29#a250212p29)<!-- TECH:END -->
+ - [Google Threat Intelligence: US adversaries, especially Russia, are increasingly turning to cybercriminals and free or public malware to advance their goals &lpar;Tim Starks/CyberScoop&rpar;](http://www.techmeme.com/250212/p30#a250212p30)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

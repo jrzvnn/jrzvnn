@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [A survey of attendees at the WSJ&#39;s CIO Network Summit: 61% are experimenting with AI agents, but 21% are not using them at all, citing reliability concerns &lpar;Belle Lin/Wall Street Journal&rpar;](http://www.techmeme.com/250212/p28#a250212p28)
+ - [Best Bird Feeders With Cameras, Tested and Reviewed &lpar;2025&rpar;](https://www.wired.com/story/best-smart-bird-feeders/)
+ - [Trump nominates Apple exec Jonathan Morrison to the NHTSA; Morrison was NHTSA chief counsel in Trump&#39;s first term and informed Tesla of inaccurate safety claims &lpar;David Shepardson/Reuters&rpar;](http://www.techmeme.com/250212/p27#a250212p27)
  - [Trump picks Apple Car lawyer for highway safety role](https://appleinsider.com/articles/25/02/12/trump-picks-apple-car-lawyer-for-highway-safety-role?utm_medium=rss)
- - [Apple&#39;s new research study is the most ambitious one yet](https://appleinsider.com/articles/25/02/12/apple-aims-to-get-technology-helping-with-all-health-issues?utm_medium=rss)
- - [Sam Altman says OpenAI plans to give 10 Deep Research requests per month to $20/month ChatGPT Plus users and two per month to free users &lpar;Carl Franzen/VentureBeat&rpar;](http://www.techmeme.com/250212/p26#a250212p26)
- - [Source: the Trump administration is releasing cybercriminal Alexander Vinnik to Russia in exchange for US retrieving the American schoolteacher Marc Fogel &lpar;Charlie Savage/New York Times&rpar;](http://www.techmeme.com/250212/p25#a250212p25)
- - [9 Best Travel Adapters &lpar;2025&rpar;, Tested and Reviewed](https://www.wired.com/gallery/best-travel-adapters/)<!-- TECH:END -->
+ - [Apple&#39;s new research study is the most ambitious one yet](https://appleinsider.com/articles/25/02/12/apple-aims-to-get-technology-helping-with-all-health-issues?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

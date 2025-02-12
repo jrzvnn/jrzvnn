@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Ola founder Bhavish Aggarwal says Krutrim has deployed DeepSeek R1 671B on Nvidia&#39;s H100 and will be offered to Indian developers starting at &amp;#8377;1/million tokens &lpar;The Economic Times&rpar;](http://www.techmeme.com/250211/p48#a250211p48)
  - [How to stop macOS Sequoia sharing your Safari and Spotlight searches with Apple](https://appleinsider.com/inside/macos-sequoia/tips/how-to-stop-macos-sequoia-sharing-your-safari-and-spotlight-searches-with-apple?utm_medium=rss)
  - [This Ad-Tech Company Is Powering Surveillance of US Military Personnel](https://www.wired.com/story/rtb-location-data-us-military/)
  - [Miami-based Moderne, which helps companies analyze their software stack and remediate technical debt, raised a $30M Series B led by Acrew Capital &lpar;Paul Sawers/TechCrunch&rpar;](http://www.techmeme.com/250211/p47#a250211p47)
- - [Dozens of CFPB Workers Fired in After-Hours Blitz](https://www.wired.com/story/dozens-of-cfpb-workers-terminated-in-after-hours-firing-blitz/)
- - [Apple Vision Pro, iPhone SE 4, &amp; smaller announcements in coming days](https://appleinsider.com/articles/25/02/12/apple-vision-pro-iphone-se-4-smaller-announcements-in-coming-days?utm_medium=rss)<!-- TECH:END -->
+ - [Dozens of CFPB Workers Fired in After-Hours Blitz](https://www.wired.com/story/dozens-of-cfpb-workers-terminated-in-after-hours-firing-blitz/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

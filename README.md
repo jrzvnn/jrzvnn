@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Sam Altman says GPT-4.5 will be OpenAI&#39;s last non-chain-of-thought model, GPT-5 will include o3, which will no longer be offered as a standalone model, and more &lpar;Sam Altman/@sama&rpar;](http://www.techmeme.com/250212/p34#a250212p34)
  - [Sources: the Trump administration is releasing cybercriminal Alexander Vinnik to Russia in exchange for the US retrieving the American schoolteacher Marc Fogel &lpar;New York Times&rpar;](http://www.techmeme.com/250212/p33#a250212p33)
  - [Beats Powerbeats Pro 2 vs AirPods Pro 2 compared: A personal audio upgrade](https://appleinsider.com/inside/airpods-pro-2/vs/beats-powerbeats-pro-2-vs-airpods-pro-2-compared-a-personal-audio-upgrade?utm_medium=rss)
  - [Microsoft details BadPilot, an &quot;initial access&quot; team within the Russian hacking group Sandworm that targeted the US, the UK, Canada, and Australia in 2024 &lpar;Andy Greenberg/Wired&rpar;](http://www.techmeme.com/250212/p32#a250212p32)
- - [Apple TV+ is coming to Android phones very soon](https://appleinsider.com/articles/25/02/12/apple-tv-is-coming-to-android-phones-very-soon?utm_medium=rss)
- - [California’s Problem Now Isn’t Fire—It’s Rain](https://www.wired.com/story/californias-problem-now-isnt-fire-its-rain-wildfires-atmospheric-rivers/)<!-- TECH:END -->
+ - [Apple TV+ is coming to Android phones very soon](https://appleinsider.com/articles/25/02/12/apple-tv-is-coming-to-android-phones-very-soon?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Former Palantir and Elon Musk Associates Are Taking Over Key Government IT Roles](https://www.wired.com/story/elon-musk-palantir-chief-information-officers-government/)
+ - [Apple aims to get technology helping with all health issues](https://appleinsider.com/articles/25/02/12/apple-aims-to-get-technology-helping-with-all-health-issues?utm_medium=rss)
+ - [Best LED Face Masks to Erase Wrinkles and Acne &lpar;2025&rpar;](https://www.wired.com/story/led-face-masks-and-red-light-therapy/)
  - [Apple partners with Brigham and Women&#39;s Hospital to launch the voluntary Apple Health Study via its Research app, open to iPhone users in the US &lpar;Caroline Igo/CNET&rpar;](http://www.techmeme.com/250212/p21#a250212p21)
- - [Adobe launches Generate Video in public beta via its re-designed Firefly web app, alongside new image generation, translation, and AI credit subscription tiers &lpar;Jess Weatherbed/The Verge&rpar;](http://www.techmeme.com/250212/p20#a250212p20)
- - [After the AI Action Summit, the EU Commission says it will withdraw the AI Liability Directive, a strategic move to show goodwill to the Trump administration &lpar;Euractiv&rpar;](http://www.techmeme.com/250212/p19#a250212p19)
- - [26 Great Gifts for Mom: Ideas for the Best Mother &lpar;2025&rpar;](https://www.wired.com/gallery/gifts-for-moms/)
- - [Indian startup Lucidity, which helps enterprises optimize their cloud storage, raised a $21M Series A led by WestBridge, after a $5.3M seed in September 2022 &lpar;Jagmeet Singh/TechCrunch&rpar;](http://www.techmeme.com/250212/p18#a250212p18)<!-- TECH:END -->
+ - [Adobe launches Generate Video in public beta via its re-designed Firefly web app, alongside new image generation, translation, and AI credit subscription tiers &lpar;Jess Weatherbed/The Verge&rpar;](http://www.techmeme.com/250212/p20#a250212p20)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

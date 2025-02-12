@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Dio Node AirPlay speaker review - too close to the HomePod mini in price, with fewer features](https://appleinsider.com/articles/25/02/12/dio-node-airplay-speaker-review---too-close-to-the-homepod-mini-in-price-with-fewer-features?utm_medium=rss)
+ - [Sources: Apple will unveil an Android app for Apple TV+ as early as Wednesday as it looks to boost subscriptions and compete with Netflix and Disney+ &lpar;Mark Gurman/Bloomberg&rpar;](http://www.techmeme.com/250212/p31#a250212p31)
+ - [Apple may be trying to jump-start lackluster Apple Vision Pro sales](https://appleinsider.com/articles/25/02/12/apple-may-be-trying-to-jump-start-lackluster-apple-vision-pro-sales?utm_medium=rss)
  - [8 Best Slippers, Tested and Loved by WIRED Staffers &lpar;2025&rpar;](https://www.wired.com/gallery/best-slippers/)
- - [iPhone owners are replacing their devices faster than before](https://appleinsider.com/articles/25/02/12/iphone-owners-are-replacing-their-devices-faster-than-before?utm_medium=rss)
- - [Amazon slashes M4 MacBook Pro price to $1,399.99 with fresh coupon](https://appleinsider.com/articles/25/02/12/amazon-slashes-m4-macbook-pro-price-to-139999-with-fresh-coupon?utm_medium=rss)
- - [A Hacker Group Within Russia’s Notorious Sandworm Unit Is Breaching Western Networks](https://www.wired.com/story/russia-sandworm-badpilot-cyberattacks-western-countries/)
- - [Google Threat Intelligence: US adversaries, especially Russia, are increasingly turning to cybercriminals and free or public malware to advance their goals &lpar;Tim Starks/CyberScoop&rpar;](http://www.techmeme.com/250212/p30#a250212p30)<!-- TECH:END -->
+ - [iPhone owners are replacing their devices faster than before](https://appleinsider.com/articles/25/02/12/iphone-owners-are-replacing-their-devices-faster-than-before?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

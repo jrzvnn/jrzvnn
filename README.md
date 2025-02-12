@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google CEO Sundar Pichai says quantum computers that are &quot;practically useful&quot; are five to 10 years away, and quantum &quot;reminds me of where AI was in the 2010s&quot; &lpar;Marissa Newman/Bloomberg&rpar;](http://www.techmeme.com/250212/p23#a250212p23)
- - [Best Running Shoes &lpar;2025&rpar;: Asics, Hoka, Nike, On Running](https://www.wired.com/gallery/best-running-shoes/)
- - [DOGE accessing Treasury systems and classified data breaks fundamental security principles and could help the US&#39; adversaries steal data and install backdoors &lpar;Foreign Policy&rpar;](http://www.techmeme.com/250212/p22#a250212p22)
- - [Former Palantir and Elon Musk Associates Are Taking Over Key Government IT Roles](https://www.wired.com/story/elon-musk-palantir-chief-information-officers-government/)
- - [Apple aims to get technology helping with all health issues](https://appleinsider.com/articles/25/02/12/apple-aims-to-get-technology-helping-with-all-health-issues?utm_medium=rss)<!-- TECH:END -->
+ - [Source: the Trump administration is releasing cybercriminal Alexander Vinnik to Russia in exchange for US retrieving the American schoolteacher Marc Fogel &lpar;Charlie Savage/New York Times&rpar;](http://www.techmeme.com/250212/p25#a250212p25)
+ - [9 Best Travel Adapters &lpar;2025&rpar;, Tested and Reviewed](https://www.wired.com/gallery/best-travel-adapters/)
+ - [In the past few weeks, the Trump administration replaced the CIOs of the OMB, OPM, and Department of Energy with Elon Musk- and Peter Thiel-aligned executives &lpar;Makena Kelly/Wired&rpar;](http://www.techmeme.com/250212/p24#a250212p24)
+ - [Google CEO Sundar Pichai says &quot;practically useful&quot; quantum computers are five to 10 years away, and &quot;the quantum moment reminds me of where AI was in the 2010s&quot; &lpar;Marissa Newman/Bloomberg&rpar;](http://www.techmeme.com/250212/p23#a250212p23)
+ - [Best Running Shoes &lpar;2025&rpar;: Asics, Hoka, Nike, On Running](https://www.wired.com/gallery/best-running-shoes/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

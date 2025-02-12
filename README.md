@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Therabody Promo Codes: 10% Off | February 2025](https://www.wired.com/story/therabody-promo-code/)
+ - [Dyson Promo Codes: 20% Off | February 2025](https://www.wired.com/story/dyson-cordless-vacuum-promo-code/)
+ - [At the AI Action Summit, Eric Schmidt urged the West to focus on open-source AI or risk losing to China while calling for AI safety collaboration with China &lpar;Melissa Heikkil&amp;auml;/Financial Times&rpar;](http://www.techmeme.com/250212/p5#a250212p5)
  - [Central African Republic, the first in Africa to adopt Bitcoin as tender, launches CAR MEME on Solana, which traded at $0.03 on Feb. 11, down ~90% since launch &lpar;Katarina Hoije/Bloomberg&rpar;](http://www.techmeme.com/250212/p4#a250212p4)
- - [Chewy Promo Codes: $20 Off | February 2025](https://www.wired.com/story/chewy-promo-code/)
- - [The Hang Seng Tech Index, tracking top 30 Hong Kong-listed tech groups, is up 25% since January 13, entering a bull market after the DeepSeek breakthrough &lpar;Arjun Neil Alim/Financial Times&rpar;](http://www.techmeme.com/250212/p3#a250212p3)
- - [TurboTax Coupons: 20% Off | February 2025](https://www.wired.com/story/turbotax-coupon/)
- - [Vitamix Promo Codes and Deals: $150 Off Select Blenders](https://www.wired.com/story/vitamix-promo-code/)<!-- TECH:END -->
+ - [Chewy Promo Codes: $20 Off | February 2025](https://www.wired.com/story/chewy-promo-code/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

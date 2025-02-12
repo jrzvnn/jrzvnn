@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Reddit reports Q4 revenue up 71% YoY to $428M, vs. $405M est., and daily active uniques up 39% YoY to 101.7M, vs. 103.1M est.; RDDT drops 13%+ after hours &lpar;Jonathan Vanian/CNBC&rpar;](http://www.techmeme.com/250212/p37#a250212p37)
+ - [Revenge of the Covid Conspiracy Theorists](https://www.wired.com/story/revenge-of-the-covid-conspiracy-theorists/)
  - [The GSA Plans to Sell Hundreds of Its Federal Government Buildings](https://www.wired.com/story/gsa-sell-government-buildings/)
  - [Apple releases an Apple TV app for Android phones and tablets, limited to Apple TV+, MLS Season Pass, and MLB Friday Night Baseball; it doesn&#39;t support casting &lpar;Benjamin Mayo/9to5Mac&rpar;](http://www.techmeme.com/250212/p36#a250212p36)
- - [Best VPN for Android for 2025](https://www.cnet.com/tech/services-and-software/best-android-vpn/#ftag=CAD590a51e)
- - [&#39;Love Is Blind&#39; Season 8: How to Watch the First Episode Drop](https://www.cnet.com/tech/services-and-software/love-is-blind-season-8-how-to-watch-the-first-episode-drop/#ftag=CAD590a51e)
- - [Android Users: Apple TV Plus Is Now Here for Your Mobile Device](https://www.cnet.com/tech/services-and-software/android-users-apple-tv-plus-is-now-here-for-your-mobile-device/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Sam Altman says GPT-5 will include o3, which will no longer be offered as a standalone model, GPT-4.5 will be OpenAI&#39;s last non-chain-of-thought model, and more &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/250212/p35#a250212p35)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

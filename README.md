@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Q&amp;A with Binance CEO Richard Teng on Changpeng Zhao remaining the exchange&#39;s biggest shareholder, evolving Binance, external oversight, finding an HQ, and more &lpar;Joel Khalili/Wired&rpar;](http://www.techmeme.com/250212/p14#a250212p14)
  - [A letter to US senator Ron Wyden shows data broker Datastream, which was selling US military location data, got the data from Lithuanian adtech company Eskimi &lpar;Wired&rpar;](http://www.techmeme.com/250212/p13#a250212p13)
  - [The Best Presidents’ Day Mattress Deals &lpar;and Bedding Too!&rpar;](https://www.wired.com/story/presidents-day-mattress-deals-2025/)
  - [The Heart Emoji Is Meaningless](https://www.wired.com/story/heart-emoji-lost-all-meaning/)
- - [Your Love Life on Ozempic](https://www.wired.com/story/ozempic-glp-1s-libido-love-life/)
- - [Analysis of credit and debit card data: Shein&#39;s US sales fell 16% to 41% for five days from February 5 and Temu fell up to 32% after Trump targets China trade &lpar;Bloomberg&rpar;](http://www.techmeme.com/250212/p12#a250212p12)<!-- TECH:END -->
+ - [Your Love Life on Ozempic](https://www.wired.com/story/ozempic-glp-1s-libido-love-life/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

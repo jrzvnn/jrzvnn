@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [After the AI Action Summit, the EU Commission says it will withdraw the AI Liability Directive, a strategic move to show goodwill to the Trump administration &lpar;Euractiv&rpar;](http://www.techmeme.com/250212/p19#a250212p19)
+ - [26 Great Gifts for Mom: Ideas for the Best Mother &lpar;2025&rpar;](https://www.wired.com/gallery/gifts-for-moms/)
  - [Indian startup Lucidity, which helps enterprises optimize their cloud storage, raised a $21M Series A led by WestBridge, after a $5.3M seed in September 2022 &lpar;Jagmeet Singh/TechCrunch&rpar;](http://www.techmeme.com/250212/p18#a250212p18)
- - [13 Best Bookshelf Speakers &lpar;2025&rpar;: Active, Passive, and Hi-Fi](https://www.wired.com/gallery/best-bookshelf-speakers/)
- - [In Q4, Meta tweaked its depreciation accounting for AI infrastructure, extending it from 4-5 to 5.5 years, cutting expenses by $2.9B in 2025 and boosting profit &lpar;Jeran Wittenstein/Bloomberg&rpar;](http://www.techmeme.com/250212/p17#a250212p17)
- - [Xiaomi Poco X7 Pro Review: Midrange Marvel](https://www.wired.com/review/xiaomi-poco-x7-pro/)
- - [iPhone SE 4 &amp; Apple Vision Pro announcements are coming in the next week](https://appleinsider.com/articles/25/02/12/apple-vision-pro-iphone-se-4-smaller-announcements-in-coming-days?utm_medium=rss)<!-- TECH:END -->
+ - [Best Internet Providers in Bloomington, Minnesota](https://www.cnet.com/home/internet/best-internet-providers-in-bloomington-mn/#ftag=CAD590a51e)
+ - [13 Best Bookshelf Speakers &lpar;2025&rpar;: Active, Passive, and Hi-Fi](https://www.wired.com/gallery/best-bookshelf-speakers/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

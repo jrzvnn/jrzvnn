@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Analysis of credit and debit card data: Shein&#39;s US sales fell 16% to 41% for five days from February 5 and Temu fell up to 32% after Trump targets China trade &lpar;Bloomberg&rpar;](http://www.techmeme.com/250212/p12#a250212p12)
+ - [Binance Moved Fast, Broke Things—and Paid the Price. Richard Teng Is Cleaning Up](https://www.wired.com/story/binance-richard-teng-cz-ceo/)
  - [Crave Vesper Mini Review: The Discreet Vibrator](https://www.wired.com/review/crave-vesper-mini/)
  - [8 Risk Factors of Colon Cancer and How to Check for Signs](https://www.cnet.com/health/medical/colon-cancer-signs-risk-factors-how-reduce-likelihood/#ftag=CAD590a51e)
- - [Researcher Johann Rehberger shows a hack to override Gemini&#39;s prompt injection defenses, letting long-term memories be permanently planted for future sessions &lpar;Dan Goodin/Ars Technica&rpar;](http://www.techmeme.com/250212/p11#a250212p11)
- - [Document: President Trump plans to nominate ex-RNC executive Sean Cairncross as national cyber director, his administration&#39;s first major cybersecurity pick &lpar;Sam Sabin/Axios&rpar;](http://www.techmeme.com/250212/p10#a250212p10)
- - [SoftBank posts a surprise Q3 net loss of ~$2.4B on ~$12.04B revenue, vs. $12.1B est., as the Vision Fund, after two profitable quarters, reports a ~$2.04B loss &lpar;Dylan Butts/CNBC&rpar;](http://www.techmeme.com/250212/p9#a250212p9)<!-- TECH:END -->
+ - [Researcher Johann Rehberger shows a hack to override Gemini&#39;s prompt injection defenses, letting long-term memories be permanently planted for future sessions &lpar;Dan Goodin/Ars Technica&rpar;](http://www.techmeme.com/250212/p11#a250212p11)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

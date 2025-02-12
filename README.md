@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [US chip startup Groq says it has secured a $1.5B commitment from Saudi Arabia to expand the delivery of its AI chips to the country over the course of this year &lpar;Stephen Nellis/Reuters&rpar;](http://www.techmeme.com/250212/p2#a250212p2)
  - [A White House document sent to Capitol Hill shows President Trump plans to nominate Brian Quintenz, a16z Crypto&#39;s head of policy, to lead the CFTC &lpar;Bloomberg&rpar;](http://www.techmeme.com/250212/p1#a250212p1)
  - [Ola founder Bhavish Aggarwal says Krutrim has deployed DeepSeek R1 671B on Nvidia&#39;s H100 and will be offered to Indian developers starting at &amp;#8377;1/million tokens &lpar;The Economic Times&rpar;](http://www.techmeme.com/250211/p48#a250211p48)
  - [How to stop macOS Sequoia sharing your Safari and Spotlight searches with Apple](https://appleinsider.com/inside/macos-sequoia/tips/how-to-stop-macos-sequoia-sharing-your-safari-and-spotlight-searches-with-apple?utm_medium=rss)
- - [This Ad-Tech Company Is Powering Surveillance of US Military Personnel](https://www.wired.com/story/rtb-location-data-us-military/)
- - [Miami-based Moderne, which helps companies analyze their software stack and remediate technical debt, raised a $30M Series B led by Acrew Capital &lpar;Paul Sawers/TechCrunch&rpar;](http://www.techmeme.com/250211/p47#a250211p47)<!-- TECH:END -->
+ - [This Ad-Tech Company Is Powering Surveillance of US Military Personnel](https://www.wired.com/story/rtb-location-data-us-military/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

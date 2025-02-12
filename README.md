@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Dio Node AirPlay speaker review - too close to the HomePod mini in price, with fewer features](https://appleinsider.com/articles/25/02/12/dio-node-airplay-speaker-review---too-close-to-the-homepod-mini-in-price-with-fewer-features?utm_medium=rss)
- - [Sources: Apple will unveil an Android app for Apple TV+ as early as Wednesday as it looks to boost subscriptions and compete with Netflix and Disney+ &lpar;Mark Gurman/Bloomberg&rpar;](http://www.techmeme.com/250212/p31#a250212p31)
- - [Apple may be trying to jump-start lackluster Apple Vision Pro sales](https://appleinsider.com/articles/25/02/12/apple-may-be-trying-to-jump-start-lackluster-apple-vision-pro-sales?utm_medium=rss)
- - [8 Best Slippers, Tested and Loved by WIRED Staffers &lpar;2025&rpar;](https://www.wired.com/gallery/best-slippers/)
- - [iPhone owners are replacing their devices faster than before](https://appleinsider.com/articles/25/02/12/iphone-owners-are-replacing-their-devices-faster-than-before?utm_medium=rss)<!-- TECH:END -->
+ - [Sources: the Trump administration is releasing cybercriminal Alexander Vinnik to Russia in exchange for the US retrieving the American schoolteacher Marc Fogel &lpar;New York Times&rpar;](http://www.techmeme.com/250212/p33#a250212p33)
+ - [Beats Powerbeats Pro 2 vs AirPods Pro 2 compared: A personal audio upgrade](https://appleinsider.com/inside/airpods-pro-2/vs/beats-powerbeats-pro-2-vs-airpods-pro-2-compared-a-personal-audio-upgrade?utm_medium=rss)
+ - [Microsoft details BadPilot, an &quot;initial access&quot; team within the Russian hacking group Sandworm that targeted the US, the UK, Canada, and Australia in 2024 &lpar;Andy Greenberg/Wired&rpar;](http://www.techmeme.com/250212/p32#a250212p32)
+ - [Apple TV+ is coming to Android phones very soon](https://appleinsider.com/articles/25/02/12/apple-tv-is-coming-to-android-phones-very-soon?utm_medium=rss)
+ - [California’s Problem Now Isn’t Fire—It’s Rain](https://www.wired.com/story/californias-problem-now-isnt-fire-its-rain-wildfires-atmospheric-rivers/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

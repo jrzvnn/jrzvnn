@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Indonesia wins as Apple considers manufacturing iPhones there](https://appleinsider.com/articles/25/02/12/indonesia-wins-as-apple-considers-manufacturing-iphones-there?utm_medium=rss)
  - [How to Get PFAS Out of Drinking Water—and Keep It Out](https://www.wired.com/story/how-to-get-pfas-out-of-drinking-water-and-keep-it-out/)
  - [Q&amp;A with Binance CEO Richard Teng on Changpeng Zhao remaining the exchange&#39;s biggest shareholder, evolving Binance, external oversight, finding an HQ, and more &lpar;Joel Khalili/Wired&rpar;](http://www.techmeme.com/250212/p14#a250212p14)
  - [A letter to US senator Ron Wyden shows data broker Datastream, which was selling US military location data, got the data from Lithuanian adtech company Eskimi &lpar;Wired&rpar;](http://www.techmeme.com/250212/p13#a250212p13)
- - [The Best Presidents’ Day Mattress Deals &lpar;and Bedding Too!&rpar;](https://www.wired.com/story/presidents-day-mattress-deals-2025/)
- - [The Heart Emoji Is Meaningless](https://www.wired.com/story/heart-emoji-lost-all-meaning/)<!-- TECH:END -->
+ - [The Best Presidents’ Day Mattress Deals &lpar;and Bedding Too!&rpar;](https://www.wired.com/story/presidents-day-mattress-deals-2025/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

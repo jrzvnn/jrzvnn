@@ -157,7 +157,7 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Cybersecurity startup Andesite raised an additional $23M seed, bringing its total funding to $38.25M, and unveils a security operations center product &lpar;David DiMolfetta/Nextgov/FCW&rpar;](http://www.techmeme.com/250211/p44#a250211p44)
+ - [Andesite, which combines human expertise and AI in its security operations center platform, raised an additional $23M seed, taking its total funding to $38.25M &lpar;David DiMolfetta/Nextgov/FCW&rpar;](http://www.techmeme.com/250211/p44#a250211p44)
  - [Apple now lets users migrate apps, music, books, shows, and movies between Apple accounts, but the feature isn&#39;t available to users in the EU, the UK, or India &lpar;Juli Clover/MacRumors&rpar;](http://www.techmeme.com/250211/p43#a250211p43)
  - [Apple now lets you transfer purchases from one Apple Account to another](https://appleinsider.com/articles/25/02/12/apple-now-lets-you-transfer-purchases-from-one-apple-account-to-another?utm_medium=rss)
  - [Super Micro forecasts FY 2026 revenue above est. and is &quot;confident&quot; it will file its delayed annual report by the Feb. 25 deadline; SMCI jumps 7%+ after hours &lpar;Samantha Subin/CNBC&rpar;](http://www.techmeme.com/250211/p42#a250211p42)

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The GSA Plans to Sell Hundreds of Its Federal Government Buildings](https://www.wired.com/story/gsa-sell-government-buildings/)
  - [Apple releases an Apple TV app for Android phones and tablets, limited to Apple TV+, MLS Season Pass, and MLB Friday Night Baseball; it doesn&#39;t support casting &lpar;Benjamin Mayo/9to5Mac&rpar;](http://www.techmeme.com/250212/p36#a250212p36)
- - [Sam Altman says GPT-5 will include o3, which will no longer be offered as a standalone model, GPT-4.5 will be OpenAI&#39;s last non-chain-of-thought model, and more &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/250212/p35#a250212p35)
- - [OPENAI ROADMAP UPDATE FOR GPT-4.5 and GPT-5: We want to do a better job of sharing our intended roadmap, and a much better job simplifying our product offerings. We want AI to &quot;just work&quot; for you; we realize how complicated our model and product offerings have gotten. We hate &lpar;Sam Altman/@sama&rpar;](http://www.techmeme.com/250212/p34#a250212p34)
- - [Best 75-Inch TV in 2025](https://www.cnet.com/tech/home-entertainment/best-75-inch-tv/#ftag=CAD590a51e)
- - [Sources: the Trump administration is releasing cybercriminal Alexander Vinnik to Russia in exchange for the US retrieving the American schoolteacher Marc Fogel &lpar;New York Times&rpar;](http://www.techmeme.com/250212/p33#a250212p33)<!-- TECH:END -->
+ - [Best VPN for Android for 2025](https://www.cnet.com/tech/services-and-software/best-android-vpn/#ftag=CAD590a51e)
+ - [&#39;Love Is Blind&#39; Season 8: How to Watch the First Episode Drop](https://www.cnet.com/tech/services-and-software/love-is-blind-season-8-how-to-watch-the-first-episode-drop/#ftag=CAD590a51e)
+ - [Android Users: Apple TV Plus Is Now Here for Your Mobile Device](https://www.cnet.com/tech/services-and-software/android-users-apple-tv-plus-is-now-here-for-your-mobile-device/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

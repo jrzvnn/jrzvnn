@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Amazon slashes M4 MacBook Pro price to $1,399.99 with fresh coupon](https://appleinsider.com/articles/25/02/12/amazon-slashes-m4-macbook-pro-price-to-139999-with-fresh-coupon?utm_medium=rss)
+ - [A Hacker Group Within Russia’s Notorious Sandworm Unit Is Breaching Western Networks](https://www.wired.com/story/russia-sandworm-badpilot-cyberattacks-western-countries/)
  - [Google Threat Intelligence: the US&#39; adversaries, especially Russia, are increasingly turning to cybercriminals and free or public malware to advance their goals &lpar;Tim Starks/CyberScoop&rpar;](http://www.techmeme.com/250212/p30#a250212p30)
  - [Snowflake and Anthropic partner to integrate Claude 3.5 Sonnet into Snowflake&#39;s new Cortex Agents platform, embedding AI agents into corporate data environments &lpar;Michael Nu&amp;ntilde;ez/VentureBeat&rpar;](http://www.techmeme.com/250212/p29#a250212p29)
- - [Apple&#39;s robotics won&#39;t hit mass production until 2028](https://appleinsider.com/articles/25/02/12/apples-robotics-wont-hit-mass-production-until-2028?utm_medium=rss)
- - [A survey of attendees at the WSJ&#39;s CIO Network Summit: 61% are experimenting with AI agents, but 21% are not using them at all, citing a lack of reliability &lpar;Belle Lin/Wall Street Journal&rpar;](http://www.techmeme.com/250212/p28#a250212p28)
- - [Best Bird Feeders With Cameras, Tested and Reviewed &lpar;2025&rpar;](https://www.wired.com/story/best-smart-bird-feeders/)<!-- TECH:END -->
+ - [Apple&#39;s robotics won&#39;t hit mass production until 2028](https://appleinsider.com/articles/25/02/12/apples-robotics-wont-hit-mass-production-until-2028?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

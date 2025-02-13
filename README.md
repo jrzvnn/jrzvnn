@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Sony reports Q3 revenue up 18% YoY to $28.6B, operating income up 1% YoY to $3.05B, and gaming revenue up 16% YoY to $10.92B, driven by strong PS5 sales &lpar;Naman Ramachandran/Variety&rpar;](http://www.techmeme.com/250213/p12#a250213p12)
+ - [DeepSeek signals India&#39;s last chance to back foundational tech via state-funded research, as its private sector remains too risk-averse to lead AI innovation &lpar;Andy Mukherjee/Bloomberg&rpar;](http://www.techmeme.com/250213/p11#a250213p11)
  - [SoftBank-backed P2P vehicle sharing service Getaround is shutting down US operations, including HyreCar, to focus on Europe, where it operates in six countries &lpar;Kirsten Korosec/TechCrunch&rpar;](http://www.techmeme.com/250213/p10#a250213p10)
  - [At the World Government Summit in Dubai, Alibaba Chairman Joe Tsai said Apple will use the Chinese tech giant&#39;s AI technology on iPhones sold in China &lpar;Vlad Savov/Bloomberg&rpar;](http://www.techmeme.com/250213/p9#a250213p9)
- - [Court filing: Elon Musk will withdraw his $97.4B bid if OpenAI&#39;s board of directors &quot;preserve the charity&#39;s mission&quot; and halt its conversion to a for-profit &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/250213/p8#a250213p8)
- - [Drata, which uses automation to help companies adhere to compliance frameworks, agrees to buy SafeBase, which automates security reviews, sources say for $250M &lpar;Eduard Kovacs/SecurityWeek&rpar;](http://www.techmeme.com/250213/p7#a250213p7)
- - [Sources: US PE firms have invested in data centers serving ByteDance as a tenant, some without knowing if ByteDance is using the sites to access Nvidia&#39;s chips &lpar;Financial Times&rpar;](http://www.techmeme.com/250213/p6#a250213p6)<!-- TECH:END -->
+ - [Court filing: Elon Musk will withdraw his $97.4B bid if OpenAI&#39;s board of directors &quot;preserve the charity&#39;s mission&quot; and halt its conversion to a for-profit &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/250213/p8#a250213p8)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

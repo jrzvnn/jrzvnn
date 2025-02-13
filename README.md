@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Apple&#39;s M4 Max 16-inch MacBook Pro with nano-texture is $250 off, in stock](https://appleinsider.com/articles/25/02/13/apples-m4-max-16-inch-macbook-pro-with-nano-texture-is-250-off-in-stock?utm_medium=rss)
+ - [Sentia Spirits Review: A Light Buzz Without the Alcohol](https://www.wired.com/review/sentia-spirits-gaba/)
  - [Tim Cook teases Feb. 19 launch of what is probably the new iPhone SE](https://appleinsider.com/articles/25/02/13/tim-cook-teases-feb-19-launch-of-what-is-probably-the-new-iphone-se?utm_medium=rss)
- - [Identity security company CyberArk acquires identity governance and administration platform Zilla Security for $165M in cash and an additional $10M &quot;earn-out&quot; &lpar;Paul Sawers/TechCrunch&rpar;](http://www.techmeme.com/250213/p29#a250213p29)
- - [Source: Anthropic has developed a hybrid AI model that combines traditional LLM capabilities with reasoning features and plans to release it in the coming weeks &lpar;Stephanie Palazzolo/The Information&rpar;](http://www.techmeme.com/250213/p28#a250213p28)
- - [Apple Titanium Milanese Loop review: A high price tag isn&#39;t hard to justify for this excellent band](https://appleinsider.com/articles/25/02/13/apple-titanium-milanese-loop-review-a-high-price-tag-isnt-hard-to-justify-for-this-excellent-band?utm_medium=rss)
- - [9 Best Apple AirPods Cases We&#39;ve Tried and Tested &lpar;2025&rpar;](https://www.wired.com/gallery/best-apple-airpods-cases/)<!-- TECH:END -->
+ - [Tim Cook teases an announcement of &quot;the newest member of the family&quot; on February 19; Mark Gurman reported Apple would update the iPhone SE &lpar;Emma Roth/The Verge&rpar;](http://www.techmeme.com/250213/p30#a250213p30)
+ - [Identity security company CyberArk acquires identity governance and administration platform Zilla Security for $165M in cash and an additional $10M &quot;earn-out&quot; &lpar;Paul Sawers/TechCrunch&rpar;](http://www.techmeme.com/250213/p29#a250213p29)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

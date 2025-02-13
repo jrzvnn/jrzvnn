@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [In 2024, crypto scams received at least $9.9B on-chain, up 40% YoY and likely a record; scams marketplace Huione Guarantee received $376M+ in crypto in 2024 &lpar;Chainalysis&rpar;](http://www.techmeme.com/250213/p36#a250213p36)
  - [These Impulse Buys Under $25 Are Totally Gift-Worthy](https://www.cnet.com/pictures/impulse-buy-gifts-under-25/#ftag=CAD590a51e)
  - [The 25 Best Movies on Apple TV+ Right Now &lpar;February 2025&rpar;](https://www.wired.com/story/best-apple-tv-plus-movies/)
  - [Best Internet Providers in Shreveport, Louisiana](https://www.cnet.com/home/internet/best-internet-providers-in-shreveport-la/#ftag=CAD590a51e)
- - [&#39;Yellowjackets&#39; Season 3 on Paramount Plus: Release Date and Time](https://www.cnet.com/tech/services-and-software/yellowjackets-season-3-on-paramount-plus-release-date-and-time/#ftag=CAD590a51e)
- - [Inside the Rise of 7,000 Starlink Satellites – and Their Inevitable Downfall](https://www.cnet.com/home/internet/features/inside-the-rise-of-7000-starlink-satellites-and-their-inevitable-downfall/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [&#39;Yellowjackets&#39; Season 3 on Paramount Plus: Release Date and Time](https://www.cnet.com/tech/services-and-software/yellowjackets-season-3-on-paramount-plus-release-date-and-time/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

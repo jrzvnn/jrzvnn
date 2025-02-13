@@ -157,9 +157,9 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Sources: Thoma Bravo-backed enterprise security software company SailPoint raised $1.38B in an upsized IPO at $23 per share, giving it a $12.8B market cap &lpar;Bailey Lipschultz/Bloomberg&rpar;](http://www.techmeme.com/250212/p48#a250212p48)
  - [How to import photos using the Image Capture app on Mac](https://appleinsider.com/inside/macos/tips/how-to-import-photos-using-the-image-capture-app-on-mac?utm_medium=rss)
  - [NYC- and Bengaluru-based SpotDraft, which offers tools to help in-house legal teams simplify contracting tasks, raised a $54M Series B led by Vertex and Trident &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/250212/p47#a250212p47)
- - [Best External Hard Drives and SSDs for 2025](https://www.cnet.com/tech/computing/best-external-hard-drive-ssd/#ftag=CAD590a51e)
  - [On its Q4 earnings call, AppLovin said it signed a $900M deal, including $500M in cash, to divest its portfolio of 10 game studios, as it shifts to pure ad tech &lpar;Neil Long/Mobilegamer.biz&rpar;](http://www.techmeme.com/250212/p46#a250212p46)
  - [ShiftCam SnapSeries roundup: a MagSafe photography ecosystem](https://appleinsider.com/articles/25/02/13/shiftcam-snapseries-roundup-a-magsafe-photography-ecosystem?utm_medium=rss)<!-- TECH:END -->
 

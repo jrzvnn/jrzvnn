@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [DOGE’s Website Is Just One Big Twitter Ad](https://www.wired.com/story/doges-website-is-just-one-big-twitter-advert/)
  - [Sources: Italian spyware maker SIO created malicious Android apps that masquerade as WhatsApp and other apps; a researcher says they were likely used in Italy &lpar;Lorenzo Franceschi-Bicchierai/TechCrunch&rpar;](http://www.techmeme.com/250213/p33#a250213p33)
  - [Plasma, which is developing a bitcoin-based network designed to handle stablecoin transactions efficiently with zero-fee USDT transfers, raised a $20M Series A &lpar;Krisztian Sandor/CoinDesk&rpar;](http://www.techmeme.com/250213/p32#a250213p32)
  - [Are Dating Apps Getting Worse?](https://www.wired.com/story/uncanny-valley-podcast-14-are-dating-apps-getting-worse/)
- - [How We’re Keeping Tabs on DOGE](https://www.wired.com/story/uncanny-valley-podcast-news-update-doge/)
- - [DOGE&#39;s Race to the Bottom](https://www.wired.com/story/doge-elon-musk-fast-cuts/)<!-- TECH:END -->
+ - [How We’re Keeping Tabs on DOGE](https://www.wired.com/story/uncanny-valley-podcast-news-update-doge/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

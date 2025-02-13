@@ -161,7 +161,7 @@ R                        1 repo              ░░░░░░░░░░░�
  - [Apple&#39;s M4 Max 16-inch MacBook Pro with nano-texture is $250 off, in stock](https://appleinsider.com/articles/25/02/13/apples-m4-max-16-inch-macbook-pro-with-nano-texture-is-250-off-in-stock?utm_medium=rss)
  - [Airbnb Q4: revenue up 12% YoY to $2.48B, Nights and Experiences Booked up 12%, Gross Booking Value up 13% to $17.6B vs. $17.2B est.; ABNB jumps 13%+ after hours &lpar;J. Edward Moreno/Sherwood News&rpar;](http://www.techmeme.com/250213/p37#a250213p37)
  - [In 2024, crypto scams received at least $9.9B on-chain, up 40% YoY and likely a record; scams marketplace Huione Guarantee received $376M+ in crypto in 2024 &lpar;Chainalysis&rpar;](http://www.techmeme.com/250213/p36#a250213p36)
- - [These Impulse Buys Under $25 Are Totally Gift-Worthy](https://www.cnet.com/pictures/impulse-buy-gifts-under-25/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Today&#39;s Wordle Hints, Answer and Help for Feb. 14, #1336](https://www.cnet.com/tech/gaming/todays-wordle-hints-answer-and-help-for-feb-14-1336/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

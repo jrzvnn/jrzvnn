@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Best Internet Providers in Cleveland, Ohio](https://www.cnet.com/home/internet/best-internet-providers-in-cleveland-oh/#ftag=CAD590a51e)
  - [Slow Ventures raised $60M+ for a fund to invest in creators who are authorities on niche areas like automotive; the fund appears to be the first of its kind &lpar;Dan Primack/Axios&rpar;](http://www.techmeme.com/250213/p35#a250213p35)
  - [Why you should use a VPN with public Wi-Fi hotspots](https://appleinsider.com/articles/25/02/13/why-you-should-use-a-vpn-with-public-wi-fi-hotspots?utm_medium=rss)
- - [A Nose-Computer Interface Could Turn Dogs Into Super Detectors](https://www.wired.com/story/nose-computer-interface-dogs-detectors-canaery/)
- - [Sources: Arm plans to launch its own chip, expected to be a CPU for servers in large data centers, this year after securing Meta as one of its first customers &lpar;Financial Times&rpar;](http://www.techmeme.com/250213/p34#a250213p34)
- - [Play Star Wars Jedi: Survivor and More Games on PlayStation Plus Soon](https://www.cnet.com/tech/gaming/play-star-wars-jedi-survivor-and-more-games-on-playstation-plus-soon/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Best Robot Vacuums of 2025: We Have a 2-Way Tie for the Best](https://www.cnet.com/home/kitchen-and-household/best-robot-vacuum/#ftag=CAD590a51e)
+ - [Best Standing Desks of 2025](https://www.cnet.com/news/best-standing-desk/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

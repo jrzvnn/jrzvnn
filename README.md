@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple resumes advertising on X for the first time since November 2023, when it halted ads due to Elon Musk&#39;s comments; @Apple is running a Safari privacy promo &lpar;Joe Rossignol/MacRumors&rpar;](http://www.techmeme.com/250213/p17#a250213p17)
- - [Dominion Energy says data center power demand in Virginia, home to Data Center Alley, almost doubled in H2 2024, rising to 40.2 gigawatts in December 2024 &lpar;Josh Saul/Bloomberg&rpar;](http://www.techmeme.com/250213/p16#a250213p16)
- - [The Incredible Shrinking Dating App](https://www.wired.com/story/dating-apps-by-the-numbers/)
- - [When Fires Rage, Millions Turn to Watch Duty. Meet the Guy Who Made It](https://www.wired.com/story/watch-duty-john-mills/)
- - [The Loneliness Epidemic Is a Security Crisis](https://www.wired.com/story/loneliness-epidemic-romance-scams-security-crisis/)<!-- TECH:END -->
+ - [AirPods Pro 3: What the rumors say about the upcoming big update](https://appleinsider.com/articles/25/02/13/airpods-pro-3-what-the-rumors-say-about-the-upcoming-big-update?utm_medium=rss)
+ - [13 Best MagSafe Wireless Chargers &lpar;2025&rpar;: Power Banks, Stands, Pads, and Travel Chargers](https://www.wired.com/gallery/best-magsafe-wireless-chargers/)
+ - [Investigation: Match Group, which runs 12+ dating apps, has known for years about abusive and violent users, but chooses to leave millions of people in the dark &lpar;The Markup&rpar;](http://www.techmeme.com/250213/p19#a250213p19)
+ - [Texas-based humanoid robot startup Apptronik raised a $350M Series A co-led by B Capital and Capital Factory and plans a series of pilot programs in 2025 &lpar;Dan Primack/Axios&rpar;](http://www.techmeme.com/250213/p18#a250213p18)
+ - [13 Best Mattresses—We Tested Them All for a Week Each &lpar;2025&rpar;](https://www.wired.com/gallery/best-mattresses/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

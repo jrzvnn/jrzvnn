@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Meta says it will let classified ad firms in Europe pay to place their listings on Facebook Marketplace, after a pilot with eBay, following the EU&#39;s &amp;euro;798M fine &lpar;Samuel Stolton/Bloomberg&rpar;](http://www.techmeme.com/250213/p22#a250213p22)
  - [17 Best Deals on Valentine’s Day Gifts &lpar;2025&rpar;](https://www.wired.com/story/valentines-day-deals-2025/)
  - [AirPods Pro 3: What the rumors say about the next big update](https://appleinsider.com/articles/25/02/13/airpods-pro-3-what-the-rumors-say-about-the-upcoming-big-update?utm_medium=rss)
  - [Germany&#39;s Bundeskartellamt charges Apple with abusing its market power via App Tracking Transparency, giving itself preferential treatment, and requires changes &lpar;Reuters&rpar;](http://www.techmeme.com/250213/p21#a250213p21)
- - [iPhone 17 Pro Max&#39;s Dynamic Island rumored to be the smallest yet](https://appleinsider.com/articles/25/02/13/iphone-17-pro-maxs-dynamic-island-rumored-to-be-the-smallest-yet?utm_medium=rss)
- - [Sen. Ron Wyden and Rep. Andy Biggs write to National Intelligence Director Tulsi Gabbard asking her to demand the UK retract its back door request to Apple &lpar;Joseph Menn/Washington Post&rpar;](http://www.techmeme.com/250213/p20#a250213p20)<!-- TECH:END -->
+ - [iPhone 17 Pro Max&#39;s Dynamic Island rumored to be the smallest yet](https://appleinsider.com/articles/25/02/13/iphone-17-pro-maxs-dynamic-island-rumored-to-be-the-smallest-yet?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

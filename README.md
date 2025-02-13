@@ -158,10 +158,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- TECH:START -->
  - [Plasma, which is developing a bitcoin-based network designed to handle stablecoin transactions efficiently with zero-fee USDT transfers, raised a $20M Series A &lpar;Krisztian Sandor/CoinDesk&rpar;](http://www.techmeme.com/250213/p32#a250213p32)
+ - [Are Dating Apps Getting Worse?](https://www.wired.com/story/uncanny-valley-podcast-14-are-dating-apps-getting-worse/)
+ - [How We’re Keeping Tabs on DOGE](https://www.wired.com/story/uncanny-valley-podcast-news-update-doge/)
  - [DOGE&#39;s Race to the Bottom](https://www.wired.com/story/doge-elon-musk-fast-cuts/)
- - [After Meta laid off 3,600 of its &quot;lowest performers&quot; on February 10, some say they had good performance reviews, and experts say the label is highly subjective &lpar;Beatrice Nolan/Fortune&rpar;](http://www.techmeme.com/250213/p31#a250213p31)
- - [Apple&#39;s M4 Max 16-inch MacBook Pro with nano-texture is $250 off, in stock](https://appleinsider.com/articles/25/02/13/apples-m4-max-16-inch-macbook-pro-with-nano-texture-is-250-off-in-stock?utm_medium=rss)
- - [Sentia Spirits Review: A Light Buzz Without the Alcohol](https://www.wired.com/review/sentia-spirits-gaba/)<!-- TECH:END -->
+ - [After Meta laid off 3,600 of its &quot;lowest performers&quot; on February 10, some say they had good performance reviews, and experts say the label is highly subjective &lpar;Beatrice Nolan/Fortune&rpar;](http://www.techmeme.com/250213/p31#a250213p31)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

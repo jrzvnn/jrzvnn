@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Sony reports PlayStation 5 sales in Q3 were 9.5M, the best quarter since its launch, and hits 75M total PS5 sales; MAUs across its platform rose 43% YoY to 129M &lpar;Andy Robinson/Video Games Chronicle&rpar;](http://www.techmeme.com/250213/p15#a250213p15)
  - [China to get finally Apple Intelligence as Alibaba deal is confirmed](https://appleinsider.com/articles/25/02/13/china-to-get-finally-apple-intelligence-as-alibaba-deal-is-confirmed?utm_medium=rss)
  - [Elon Musk and right-wing influencers redefine &quot;doxxing&quot; to include reporting on government employees; free speech advocates say they aim to intimidate the press &lpar;Ken Bensinger/New York Times&rpar;](http://www.techmeme.com/250213/p14#a250213p14)
  - [Experts say Southeast Asian students in Taiwan&#39;s work-study programs often end up as low-paid labor in the chip industry under the guise of &quot;practical training&quot; &lpar;Hsiuwen Liu/Rest of World&rpar;](http://www.techmeme.com/250213/p13#a250213p13)
- - [Which Countries and Regions Might Be Impacted by Asteroid 2024 YR4?](https://www.wired.com/story/asteroid-2024-yr4/)
- - [Best Internet Providers in Allen, Texas](https://www.cnet.com/home/internet/best-internet-providers-in-allen-tx/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Which Countries and Regions Might Be Impacted by Asteroid 2024 YR4?](https://www.wired.com/story/asteroid-2024-yr4/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

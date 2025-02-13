@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [How to import photos using the Image Capture app on Mac](https://appleinsider.com/inside/macos/tips/how-to-import-photos-using-the-image-capture-app-on-mac?utm_medium=rss)
  - [NYC- and Bengaluru-based SpotDraft, which offers tools to help in-house legal teams simplify contracting tasks, raised a $54M Series B led by Vertex and Trident &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/250212/p47#a250212p47)
+ - [Best External Hard Drives and SSDs for 2025](https://www.cnet.com/tech/computing/best-external-hard-drive-ssd/#ftag=CAD590a51e)
  - [On its Q4 earnings call, AppLovin said it signed a $900M deal, including $500M in cash, to divest its portfolio of 10 game studios, as it shifts to pure ad tech &lpar;Neil Long/Mobilegamer.biz&rpar;](http://www.techmeme.com/250212/p46#a250212p46)
- - [ShiftCam SnapSeries roundup: a MagSafe photography ecosystem](https://appleinsider.com/articles/25/02/13/shiftcam-snapseries-roundup-a-magsafe-photography-ecosystem?utm_medium=rss)
- - [Filing: OpenAI says Elon Musk&#39;s $97.4B bid contradicts his attacks in his lawsuit against OpenAI that its assets can&#39;t be &quot;transferred away&quot; for &quot;private gain&quot; &lpar;Malathi Nayak/Bloomberg&rpar;](http://www.techmeme.com/250212/p45#a250212p45)
- - [OpenAI plans to give free ChatGPT users unlimited GPT-5 access at &quot;the standard intelligence setting&quot;; Plus and Pro users will get to run GPT-5 at higher levels &lpar;Igor Bonifacic/Engadget&rpar;](http://www.techmeme.com/250212/p44#a250212p44)<!-- TECH:END -->
+ - [ShiftCam SnapSeries roundup: a MagSafe photography ecosystem](https://appleinsider.com/articles/25/02/13/shiftcam-snapseries-roundup-a-magsafe-photography-ecosystem?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

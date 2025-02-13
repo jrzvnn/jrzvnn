@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Experts say Southeast Asian students in Taiwan&#39;s work-study programs often end up as low-paid labor in the chip industry under the guise of &quot;practical training&quot; &lpar;Hsiuwen Liu/Rest of World&rpar;](http://www.techmeme.com/250213/p13#a250213p13)
+ - [Which Countries and Regions Might Be Impacted by Asteroid 2024 YR4?](https://www.wired.com/story/asteroid-2024-yr4/)
  - [Best Internet Providers in Allen, Texas](https://www.cnet.com/home/internet/best-internet-providers-in-allen-tx/#ftag=CAD590a51e)
  - [Sony reports Q3 revenue up 18% YoY to $28.6B, operating income up 1% YoY to $3.05B, and gaming revenue up 16% YoY to $10.92B, driven by strong PS5 sales &lpar;Naman Ramachandran/Variety&rpar;](http://www.techmeme.com/250213/p12#a250213p12)
- - [Want to Burn Body Fat at Home? Use These 7 Tricks to Reach Your Goals](https://www.cnet.com/health/fitness/want-to-burn-body-fat-at-home-use-these-7-tricks-to-reach-your-goals/#ftag=CAD590a51e)
- - [Today&#39;s NYT Mini Crossword Answers for Thursday, Feb. 13](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-thursday-feb-13/#ftag=CAD590a51e)
- - [DeepSeek signals India&#39;s last chance to back foundational tech via state-funded research, as its private sector remains too risk-averse to lead AI innovation &lpar;Andy Mukherjee/Bloomberg&rpar;](http://www.techmeme.com/250213/p11#a250213p11)<!-- TECH:END -->
+ - [Want to Burn Body Fat at Home? Use These 7 Tricks to Reach Your Goals](https://www.cnet.com/health/fitness/want-to-burn-body-fat-at-home-use-these-7-tricks-to-reach-your-goals/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

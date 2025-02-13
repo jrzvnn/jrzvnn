@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Source: Anthropic has developed a hybrid AI model that combines traditional LLM capabilities with reasoning features and plans to release it in the coming weeks &lpar;Stephanie Palazzolo/The Information&rpar;](http://www.techmeme.com/250213/p28#a250213p28)
+ - [Apple Titanium Milanese Loop review: A high price tag isn&#39;t hard to justify for this excellent band](https://appleinsider.com/articles/25/02/13/apple-titanium-milanese-loop-review-a-high-price-tag-isnt-hard-to-justify-for-this-excellent-band?utm_medium=rss)
  - [9 Best Apple AirPods Cases We&#39;ve Tried and Tested &lpar;2025&rpar;](https://www.wired.com/gallery/best-apple-airpods-cases/)
  - [EnCharge AI, which claims its AI accelerators use 20x less energy to run workloads compared with other chips, raised a $100M+ Series B led by Tiger Global &lpar;Ingrid Lunden/TechCrunch&rpar;](http://www.techmeme.com/250213/p27#a250213p27)
- - [YouTube updates Shorts to integrate Google DeepMind&#39;s latest video model Veo 2, letting creators generate AI video clips to add to any of their Shorts &lpar;Amanda Silberling/TechCrunch&rpar;](http://www.techmeme.com/250213/p26#a250213p26)
- - [24 Key Samsung Settings to Change on Galaxy Phones &lpar;2025&rpar;](https://www.wired.com/story/key-settings-to-change-on-samsung-galaxy-phones/)
- - [PlayStation&#39;s State of Play event showed that Microsoft might publish more PS5 games in 2025 than Sony does, even as Xbox hardware sales continue to decline &lpar;Jez Corden/Windows Central&rpar;](http://www.techmeme.com/250213/p25#a250213p25)<!-- TECH:END -->
+ - [YouTube updates Shorts to integrate Google DeepMind&#39;s latest video model Veo 2, letting creators generate AI video clips to add to any of their Shorts &lpar;Amanda Silberling/TechCrunch&rpar;](http://www.techmeme.com/250213/p26#a250213p26)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

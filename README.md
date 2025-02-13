@@ -158,10 +158,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- TECH:START -->
  - [Sony reports Q3 revenue up 18% YoY to $28.6B, operating income up 1% YoY to $3.05B, and gaming revenue up 16% YoY to $10.92B, driven by strong PS5 sales &lpar;Naman Ramachandran/Variety&rpar;](http://www.techmeme.com/250213/p12#a250213p12)
+ - [Want to Burn Body Fat at Home? Use These 7 Tricks to Reach Your Goals](https://www.cnet.com/health/fitness/want-to-burn-body-fat-at-home-use-these-7-tricks-to-reach-your-goals/#ftag=CAD590a51e)
+ - [Today&#39;s NYT Mini Crossword Answers for Thursday, Feb. 13](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-thursday-feb-13/#ftag=CAD590a51e)
  - [DeepSeek signals India&#39;s last chance to back foundational tech via state-funded research, as its private sector remains too risk-averse to lead AI innovation &lpar;Andy Mukherjee/Bloomberg&rpar;](http://www.techmeme.com/250213/p11#a250213p11)
- - [SoftBank-backed P2P vehicle sharing service Getaround is shutting down US operations, including HyreCar, to focus on Europe, where it operates in six countries &lpar;Kirsten Korosec/TechCrunch&rpar;](http://www.techmeme.com/250213/p10#a250213p10)
- - [At the World Government Summit in Dubai, Alibaba Chairman Joe Tsai said Apple will use the Chinese tech giant&#39;s AI technology on iPhones sold in China &lpar;Vlad Savov/Bloomberg&rpar;](http://www.techmeme.com/250213/p9#a250213p9)
- - [Court filing: Elon Musk will withdraw his $97.4B bid if OpenAI&#39;s board of directors &quot;preserve the charity&#39;s mission&quot; and halt its conversion to a for-profit &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/250213/p8#a250213p8)<!-- TECH:END -->
+ - [SoftBank-backed P2P vehicle sharing service Getaround is shutting down US operations, including HyreCar, to focus on Europe, where it operates in six countries &lpar;Kirsten Korosec/TechCrunch&rpar;](http://www.techmeme.com/250213/p10#a250213p10)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Roku reports Q4 revenue up 22% YoY to $1.2B, vs. $1.15B est., a net loss of $35.5M, and streaming households up 12% YoY to 89.8M; ROKU jumps 10%+ after hours &lpar;Todd Spangler/Variety&rpar;](http://www.techmeme.com/250213/p38#a250213p38)
- - [Apple&#39;s M4 Max 16-inch MacBook Pro with nano-texture is $250 off, in stock](https://appleinsider.com/articles/25/02/13/apples-m4-max-16-inch-macbook-pro-with-nano-texture-is-250-off-in-stock?utm_medium=rss)
- - [Airbnb Q4: revenue up 12% YoY to $2.48B, Nights and Experiences Booked up 12%, Gross Booking Value up 13% to $17.6B vs. $17.2B est.; ABNB jumps 13%+ after hours &lpar;J. Edward Moreno/Sherwood News&rpar;](http://www.techmeme.com/250213/p37#a250213p37)
- - [In 2024, crypto scams received at least $9.9B on-chain, up 40% YoY and likely a record; scams marketplace Huione Guarantee received $376M+ in crypto in 2024 &lpar;Chainalysis&rpar;](http://www.techmeme.com/250213/p36#a250213p36)
- - [Today&#39;s Wordle Hints, Answer and Help for Feb. 14, #1336](https://www.cnet.com/tech/gaming/todays-wordle-hints-answer-and-help-for-feb-14-1336/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [These Are 25 of the Best TV Shows on Netflix That Won&#39;t Disappoint](https://www.cnet.com/tech/services-and-software/best-tv-shows-netflix-2025/#ftag=CAD590a51e)
+ - [Are Your Iron Levels Low? 7 Symptoms of Iron Deficiency and What to Do About It](https://www.cnet.com/health/nutrition/iron-deficiency-symptoms-and-causes/#ftag=CAD590a51e)
+ - [&#39;Yellowjackets&#39; Season 3: Release Date and Time on Paramount Plus](https://www.cnet.com/tech/services-and-software/yellowjackets-season-3-release-date-and-time-on-paramount-plus/#ftag=CAD590a51e)
+ - [Today&#39;s NYT Strands Hints, Answers and Help for Feb. 14, #348](https://www.cnet.com/tech/gaming/todays-nyt-strands-hints-answers-and-help-for-feb-14-348/#ftag=CAD590a51e)
+ - [Today&#39;s NYT Connections: Sports Edition Hints and Answers for Feb. 14, #144](https://www.cnet.com/tech/gaming/todays-nyt-connections-sports-edition-hints-and-answers-for-feb-14-144/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

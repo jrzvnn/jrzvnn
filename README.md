@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The 25 Best Movies on Apple TV+ Right Now &lpar;February 2025&rpar;](https://www.wired.com/story/best-apple-tv-plus-movies/)
  - [Updated Apple Studio Display with miniLED, ProMotion expected in late 2025](https://appleinsider.com/articles/25/02/13/updated-apple-studio-display-with-miniled-promotion-expected-in-late-2025?utm_medium=rss)
+ - [Best Internet Providers in Cleveland, Ohio](https://www.cnet.com/home/internet/best-internet-providers-in-cleveland-oh/#ftag=CAD590a51e)
  - [Slow Ventures raised $60M+ for a fund to invest in creators who are authorities on niche areas like automotive; the fund appears to be the first of its kind &lpar;Dan Primack/Axios&rpar;](http://www.techmeme.com/250213/p35#a250213p35)
- - [Why you should use a VPN with public Wi-Fi hotspots](https://appleinsider.com/articles/25/02/13/why-you-should-use-a-vpn-with-public-wi-fi-hotspots?utm_medium=rss)
- - [A Nose-Computer Interface Could Turn Dogs Into Super Detectors](https://www.wired.com/story/nose-computer-interface-dogs-detectors-canaery/)
- - [Sources: Arm plans to launch its own chip, expected to be a CPU for servers in large data centers, this year after securing Meta as one of its first customers &lpar;Financial Times&rpar;](http://www.techmeme.com/250213/p34#a250213p34)<!-- TECH:END -->
+ - [Why you should use a VPN with public Wi-Fi hotspots](https://appleinsider.com/articles/25/02/13/why-you-should-use-a-vpn-with-public-wi-fi-hotspots?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [AppLovin reports Q4 revenue up 44% YoY to $1.37B, vs. $1.26B est., net income up 248%, ad revenue up 73%, and Q1 guidance above est.; APP jumps 27%+ after hours &lpar;CJ Haddad/CNBC&rpar;](http://www.techmeme.com/250212/p42#a250212p42)
- - [Apple TV app featuring Apple TV+ has arrived on Android phones &amp; tablets](https://appleinsider.com/articles/25/02/12/apple-tv-is-coming-to-android-phones-very-soon?utm_medium=rss)
- - [Best Wireless Car Chargers for 2025](https://www.cnet.com/tech/mobile/best-wireless-car-charger-and-mount/#ftag=CAD590a51e)
- - [New Research Suggests Overreliance on AI Could Hinders Critical Thinking](https://www.cnet.com/tech/services-and-software/new-research-suggests-overreliance-on-ai-could-hinders-critical-thinking/#ftag=CAD590a51e)
- - [Sources: X has agreed to pay ~$10M to settle Trump&#39;s 2021 lawsuit against Twitter and then-CEO Jack Dorsey over the ban on his accounts after the January 6 riot &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/250212/p41#a250212p41)<!-- TECH:END -->
+ - [Apple is once again advertising on X, more than a year after stopping all ads on the platform](https://appleinsider.com/articles/25/02/13/apple-is-once-again-advertising-on-x-more-than-a-year-after-stopping-all-ads-on-the-platform?utm_medium=rss)
+ - [May 12, 2024 Was the Toughest, Brain-Bustingest Connections Puzzle Ever](https://www.cnet.com/tech/gaming/may-12-2024-was-the-toughest-brain-bustingest-connections-puzzle-ever/#ftag=CAD590a51e)
+ - [Google plans to begin testing an ML-based model in the US this year to estimate whether a user is under 18 to help provide more &quot;age-appropriate experiences&quot; &lpar;Emma Roth/The Verge&rpar;](http://www.techmeme.com/250212/p43#a250212p43)
+ - [Gutting the CFPB Could Leave You More Vulnerable to Financial Fraud. Here&#39;s Why](https://www.cnet.com/personal-finance/banking/is-the-cfpb-being-eliminated-what-could-that-mean-for-you/#ftag=CAD590a51e)
+ - [DOGE Has Started Gutting a Key US Technology Agency](https://www.wired.com/story/doge-tts-fired/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

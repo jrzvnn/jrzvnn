@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [ShiftCam SnapSeries roundup: a MagSafe photography ecosystem](https://appleinsider.com/articles/25/02/13/shiftcam-snapseries-roundup-a-magsafe-photography-ecosystem?utm_medium=rss)
+ - [Filing: OpenAI says Musk&#39;s $97.4B bid contradicts his claims, made in the lawsuit against OpenAI, that its assets can&#39;t be &quot;transferred away&quot; for &quot;private gain&quot; &lpar;Malathi Nayak/Bloomberg&rpar;](http://www.techmeme.com/250212/p45#a250212p45)
+ - [OpenAI plans to offer free ChatGPT users unlimited access to GPT-5 at the &quot;standard intelligence&quot; level, with access to higher levels for Plus and Pro users &lpar;Igor Bonifacic/Engadget&rpar;](http://www.techmeme.com/250212/p44#a250212p44)
  - [Apple is once again advertising on X, more than a year after stopping all ads on the platform](https://appleinsider.com/articles/25/02/13/apple-is-once-again-advertising-on-x-more-than-a-year-after-stopping-all-ads-on-the-platform?utm_medium=rss)
- - [May 12, 2024 Was the Toughest, Brain-Bustingest Connections Puzzle Ever](https://www.cnet.com/tech/gaming/may-12-2024-was-the-toughest-brain-bustingest-connections-puzzle-ever/#ftag=CAD590a51e)
- - [Google plans to begin testing an ML-based model in the US this year to estimate whether a user is under 18 to help provide more &quot;age-appropriate experiences&quot; &lpar;Emma Roth/The Verge&rpar;](http://www.techmeme.com/250212/p43#a250212p43)
- - [Gutting the CFPB Could Leave You More Vulnerable to Financial Fraud. Here&#39;s Why](https://www.cnet.com/personal-finance/banking/is-the-cfpb-being-eliminated-what-could-that-mean-for-you/#ftag=CAD590a51e)
- - [DOGE Has Started Gutting a Key US Technology Agency](https://www.wired.com/story/doge-tts-fired/)<!-- TECH:END -->
+ - [May 12, 2024 Was the Toughest, Brain-Bustingest Connections Puzzle Ever](https://www.cnet.com/tech/gaming/may-12-2024-was-the-toughest-brain-bustingest-connections-puzzle-ever/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

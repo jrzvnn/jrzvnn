@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Sen. Ron Wyden and Rep. Andy Biggs write to National Intelligence Director Tulsi Gabbard asking her to demand the UK retract its back door request to Apple &lpar;Joseph Menn/Washington Post&rpar;](http://www.techmeme.com/250213/p20#a250213p20)
  - [AirPods Pro 3: What the rumors say about the upcoming big update](https://appleinsider.com/articles/25/02/13/airpods-pro-3-what-the-rumors-say-about-the-upcoming-big-update?utm_medium=rss)
  - [13 Best MagSafe Wireless Chargers &lpar;2025&rpar;: Power Banks, Stands, Pads, and Travel Chargers](https://www.wired.com/gallery/best-magsafe-wireless-chargers/)
  - [Investigation: Match Group, which runs 12+ dating apps, has known for years about abusive and violent users, but chooses to leave millions of people in the dark &lpar;The Markup&rpar;](http://www.techmeme.com/250213/p19#a250213p19)
- - [Texas-based humanoid robot startup Apptronik raised a $350M Series A co-led by B Capital and Capital Factory and plans a series of pilot programs in 2025 &lpar;Dan Primack/Axios&rpar;](http://www.techmeme.com/250213/p18#a250213p18)
- - [13 Best Mattresses—We Tested Them All for a Week Each &lpar;2025&rpar;](https://www.wired.com/gallery/best-mattresses/)<!-- TECH:END -->
+ - [Texas-based humanoid robot startup Apptronik raised a $350M Series A co-led by B Capital and Capital Factory and plans a series of pilot programs in 2025 &lpar;Dan Primack/Axios&rpar;](http://www.techmeme.com/250213/p18#a250213p18)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

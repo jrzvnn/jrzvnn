@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Coinbase reports Q4 revenue up 138% YoY to $2.27B, vs. $1.88B est., transaction revenue up 194% to $1.56B, vs. $1.29B est., and trading volume up 185% to $439B &lpar;Tanaya Macheel/CNBC&rpar;](http://www.techmeme.com/250213/p39#a250213p39)
  - [These Are 25 of the Best TV Shows on Netflix That Won&#39;t Disappoint](https://www.cnet.com/tech/services-and-software/best-tv-shows-netflix-2025/#ftag=CAD590a51e)
  - [Are Your Iron Levels Low? 7 Symptoms of Iron Deficiency and What to Do About It](https://www.cnet.com/health/nutrition/iron-deficiency-symptoms-and-causes/#ftag=CAD590a51e)
  - [&#39;Yellowjackets&#39; Season 3: Release Date and Time on Paramount Plus](https://www.cnet.com/tech/services-and-software/yellowjackets-season-3-release-date-and-time-on-paramount-plus/#ftag=CAD590a51e)
- - [Today&#39;s NYT Strands Hints, Answers and Help for Feb. 14, #348](https://www.cnet.com/tech/gaming/todays-nyt-strands-hints-answers-and-help-for-feb-14-348/#ftag=CAD590a51e)
- - [Today&#39;s NYT Connections: Sports Edition Hints and Answers for Feb. 14, #144](https://www.cnet.com/tech/gaming/todays-nyt-connections-sports-edition-hints-and-answers-for-feb-14-144/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Today&#39;s NYT Strands Hints, Answers and Help for Feb. 14, #348](https://www.cnet.com/tech/gaming/todays-nyt-strands-hints-answers-and-help-for-feb-14-348/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

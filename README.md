@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [NYC- and Bengaluru-based SpotDraft, which offers tools to help in-house legal teams simplify contracting tasks, raised a $54M Series B led by Vertex and Trident &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/250212/p47#a250212p47)
  - [On its earnings call, AppLovin said it has signed a $900M deal, including $500M in cash, to divest its portfolio of 10 game studios, as it shifts to pure adtech &lpar;Neil Long/Mobilegamer.biz&rpar;](http://www.techmeme.com/250212/p46#a250212p46)
  - [ShiftCam SnapSeries roundup: a MagSafe photography ecosystem](https://appleinsider.com/articles/25/02/13/shiftcam-snapseries-roundup-a-magsafe-photography-ecosystem?utm_medium=rss)
  - [Filing: OpenAI says Musk&#39;s $97.4B bid contradicts his claims, made in the lawsuit against OpenAI, that its assets can&#39;t be &quot;transferred away&quot; for &quot;private gain&quot; &lpar;Malathi Nayak/Bloomberg&rpar;](http://www.techmeme.com/250212/p45#a250212p45)
- - [OpenAI plans to offer free ChatGPT users unlimited access to GPT-5 at the &quot;standard intelligence&quot; level, with access to higher levels for Plus and Pro users &lpar;Igor Bonifacic/Engadget&rpar;](http://www.techmeme.com/250212/p44#a250212p44)
- - [PlayStation State of Play Spring Event -- Saros, Lies of P: Overture, Borderlands 4 and More](https://www.cnet.com/tech/gaming/how-to-watch-sony-playstation-state-of-play-livestream-february-2025/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [OpenAI plans to give free ChatGPT users unlimited GPT-5 access at &quot;the standard intelligence setting&quot;; Plus and Pro users will get to run GPT-5 at higher levels &lpar;Igor Bonifacic/Engadget&rpar;](http://www.techmeme.com/250212/p44#a250212p44)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

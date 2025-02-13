@@ -161,7 +161,7 @@ R                        1 repo              ░░░░░░░░░░░�
  - [Apple Titanium Milanese Loop review: A high price tag isn&#39;t hard to justify for this excellent band](https://appleinsider.com/articles/25/02/13/apple-titanium-milanese-loop-review-a-high-price-tag-isnt-hard-to-justify-for-this-excellent-band?utm_medium=rss)
  - [9 Best Apple AirPods Cases We&#39;ve Tried and Tested &lpar;2025&rpar;](https://www.wired.com/gallery/best-apple-airpods-cases/)
  - [EnCharge AI, which claims its AI accelerators use 20x less energy to run workloads compared with other chips, raised a $100M+ Series B led by Tiger Global &lpar;Ingrid Lunden/TechCrunch&rpar;](http://www.techmeme.com/250213/p27#a250213p27)
- - [YouTube updates Shorts to integrate Google DeepMind&#39;s latest video model Veo 2, letting creators generate AI video clips to add to any of their Shorts &lpar;Amanda Silberling/TechCrunch&rpar;](http://www.techmeme.com/250213/p26#a250213p26)<!-- TECH:END -->
+ - [Best Internet Providers in Huntington Beach, California](https://www.cnet.com/home/internet/best-internet-providers-in-huntington-beach-ca/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

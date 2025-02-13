@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Apple resumes advertising on X for the first time since November 2023, when it halted ads due to Elon Musk&#39;s comments; @Apple is running a Safari privacy promo &lpar;Joe Rossignol/MacRumors&rpar;](http://www.techmeme.com/250213/p17#a250213p17)
  - [Dominion Energy says data center power demand in Virginia, home to Data Center Alley, almost doubled in H2 2024, rising to 40.2 gigawatts in December 2024 &lpar;Josh Saul/Bloomberg&rpar;](http://www.techmeme.com/250213/p16#a250213p16)
  - [The Incredible Shrinking Dating App](https://www.wired.com/story/dating-apps-by-the-numbers/)
  - [When Fires Rage, Millions Turn to Watch Duty. Meet the Guy Who Made It](https://www.wired.com/story/watch-duty-john-mills/)
- - [The Loneliness Epidemic Is a Security Crisis](https://www.wired.com/story/loneliness-epidemic-romance-scams-security-crisis/)
- - [Sony reports PlayStation 5 sales in Q3 were 9.5M, the best quarter since its launch, and hits 75M total PS5 sales; MAUs across its platform rose 43% YoY to 129M &lpar;Andy Robinson/Video Games Chronicle&rpar;](http://www.techmeme.com/250213/p15#a250213p15)<!-- TECH:END -->
+ - [The Loneliness Epidemic Is a Security Crisis](https://www.wired.com/story/loneliness-epidemic-romance-scams-security-crisis/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

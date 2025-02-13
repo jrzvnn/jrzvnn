@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Airbnb Q4: revenue up 12% YoY to $2.48B, Nights and Experiences Booked up 12%, Gross Booking Value up 13% to $17.6B vs. $17.2B est.; ABNB jumps 13%+ after hours &lpar;J. Edward Moreno/Sherwood News&rpar;](http://www.techmeme.com/250213/p37#a250213p37)
  - [In 2024, crypto scams received at least $9.9B on-chain, up 40% YoY and likely a record; scams marketplace Huione Guarantee received $376M+ in crypto in 2024 &lpar;Chainalysis&rpar;](http://www.techmeme.com/250213/p36#a250213p36)
  - [These Impulse Buys Under $25 Are Totally Gift-Worthy](https://www.cnet.com/pictures/impulse-buy-gifts-under-25/#ftag=CAD590a51e)
  - [The 25 Best Movies on Apple TV+ Right Now &lpar;February 2025&rpar;](https://www.wired.com/story/best-apple-tv-plus-movies/)
- - [Best Internet Providers in Shreveport, Louisiana](https://www.cnet.com/home/internet/best-internet-providers-in-shreveport-la/#ftag=CAD590a51e)
- - [&#39;Yellowjackets&#39; Season 3 on Paramount Plus: Release Date and Time](https://www.cnet.com/tech/services-and-software/yellowjackets-season-3-on-paramount-plus-release-date-and-time/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Best Internet Providers in Shreveport, Louisiana](https://www.cnet.com/home/internet/best-internet-providers-in-shreveport-la/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

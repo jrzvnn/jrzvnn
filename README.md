@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [9 Best Apple AirPods Cases We&#39;ve Tried and Tested &lpar;2025&rpar;](https://www.wired.com/gallery/best-apple-airpods-cases/)
+ - [EnCharge AI, which claims its AI accelerators use 20x less energy to run workloads compared with other chips, raised a $100M+ Series B led by Tiger Global &lpar;Ingrid Lunden/TechCrunch&rpar;](http://www.techmeme.com/250213/p27#a250213p27)
  - [YouTube updates Shorts to integrate Google DeepMind&#39;s latest video model Veo 2, letting creators generate AI video clips to add to any of their Shorts &lpar;Amanda Silberling/TechCrunch&rpar;](http://www.techmeme.com/250213/p26#a250213p26)
  - [24 Key Samsung Settings to Change on Galaxy Phones &lpar;2025&rpar;](https://www.wired.com/story/key-settings-to-change-on-samsung-galaxy-phones/)
- - [PlayStation&#39;s State of Play event showed that Microsoft might publish more PS5 games in 2025 than Sony does, even as Xbox hardware sales continue to decline &lpar;Jez Corden/Windows Central&rpar;](http://www.techmeme.com/250213/p25#a250213p25)
- - [Best Laptop Backpacks We&#39;ve Tried and Tested &lpar;2025&rpar;](https://www.wired.com/gallery/the-best-backpacks-for-work/)
- - [UK&#39;s iPhone spying backdoor demand sparks bipartisan US lawmaker anger](https://appleinsider.com/articles/25/02/13/uks-iphone-spying-backdoor-demand-sparks-bipartisan-us-lawmaker-anger?utm_medium=rss)<!-- TECH:END -->
+ - [PlayStation&#39;s State of Play event showed that Microsoft might publish more PS5 games in 2025 than Sony does, even as Xbox hardware sales continue to decline &lpar;Jez Corden/Windows Central&rpar;](http://www.techmeme.com/250213/p25#a250213p25)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

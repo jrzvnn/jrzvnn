@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Drata, which uses automation to help companies adhere to compliance frameworks, agrees to buy SafeBase, which automates security reviews, sources say for $250M &lpar;Eduard Kovacs/SecurityWeek&rpar;](http://www.techmeme.com/250213/p7#a250213p7)
+ - [Sources: US PE firms have invested in data centers serving ByteDance as a tenant, some without knowing if ByteDance is using the sites to access Nvidia&#39;s chips &lpar;Financial Times&rpar;](http://www.techmeme.com/250213/p6#a250213p6)
  - [Candid Health, which helps simplify medical billing by automating claims processing and eliminating manual work for billing teams, raised a $52.5M Series C &lpar;Marina Temkin/TechCrunch&rpar;](http://www.techmeme.com/250213/p5#a250213p5)
  - [Thoma Bravo stands to gain $4B+ from SailPoint&#39;s IPO, which is expected to value the company at $12B+; Thoma Bravo acquired SailPoint for $6.9B in April 2022 &lpar;Financial Times&rpar;](http://www.techmeme.com/250213/p4#a250213p4)
- - [Recorded Future: Salt Typhoon breached five more telcos and ISPs worldwide, including two US telcos, and 12+ universities in Dec-Jan by exploiting Cisco routers &lpar;Andy Greenberg/Wired&rpar;](http://www.techmeme.com/250213/p3#a250213p3)
- - [Nectar Coupon Code: Up to 50% Off](https://www.wired.com/story/nectar-coupon-code/)
- - [Top KitchenAid Promo Codes and Coupons](https://www.wired.com/story/exclusive-kitchenaid-promo-code/)<!-- TECH:END -->
+ - [Recorded Future: Salt Typhoon breached five more telcos and ISPs worldwide, including two US telcos, and 12+ universities in Dec-Jan by exploiting Cisco routers &lpar;Andy Greenberg/Wired&rpar;](http://www.techmeme.com/250213/p3#a250213p3)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

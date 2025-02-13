@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Malaysia plans to roll out Google AI tools to 445,000 civil servants to help modernize public services and improve efficiency across government agencies &lpar;Norman Goh/Nikkei Asia&rpar;](http://www.techmeme.com/250213/p2#a250213p2)
  - [London- and SF-based Latent Labs, which is building AI foundation models to &quot;make biology programmable&quot;, emerges from stealth with $50M across seed and Series A &lpar;Paul Sawers/TechCrunch&rpar;](http://www.techmeme.com/250213/p1#a250213p1)
  - [China’s Salt Typhoon Spies Are Still Hacking Telecoms—Now by Exploiting Cisco Routers](https://www.wired.com/story/chinas-salt-typhoon-spies-are-still-hacking-telecoms-now-by-exploiting-cisco-routers/)
  - [Sources: Bain Capital, Advent International, and EQT AB are among the PE firms competing to acquire Trend Micro, which has a market value of about $8.54B &lpar;Milana Vinn/Reuters&rpar;](http://www.techmeme.com/250212/p50#a250212p50)
- - [Baidu says it will make its AI chatbot Ernie free starting April 1 to all users on both desktop and mobile platforms, citing improved tech and reduced costs &lpar;Reuters&rpar;](http://www.techmeme.com/250212/p49#a250212p49)
- - [Sources: Thoma Bravo-backed enterprise security software company SailPoint raised $1.38B in an upsized IPO at $23 per share, giving it a $12.8B market cap &lpar;Bailey Lipschultz/Bloomberg&rpar;](http://www.techmeme.com/250212/p48#a250212p48)<!-- TECH:END -->
+ - [Baidu says it will make its AI chatbot Ernie free starting April 1 to all users on both desktop and mobile platforms, citing improved tech and reduced costs &lpar;Reuters&rpar;](http://www.techmeme.com/250212/p49#a250212p49)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

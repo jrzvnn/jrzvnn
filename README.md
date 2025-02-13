@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Elon Musk and right-wing influencers redefine &quot;doxxing&quot; to include reporting on government employees; free speech advocates say they aim to intimidate the press &lpar;Ken Bensinger/New York Times&rpar;](http://www.techmeme.com/250213/p14#a250213p14)
  - [Experts say Southeast Asian students in Taiwan&#39;s work-study programs often end up as low-paid labor in the chip industry under the guise of &quot;practical training&quot; &lpar;Hsiuwen Liu/Rest of World&rpar;](http://www.techmeme.com/250213/p13#a250213p13)
  - [Which Countries and Regions Might Be Impacted by Asteroid 2024 YR4?](https://www.wired.com/story/asteroid-2024-yr4/)
  - [Best Internet Providers in Allen, Texas](https://www.cnet.com/home/internet/best-internet-providers-in-allen-tx/#ftag=CAD590a51e)
- - [Sony reports Q3 revenue up 18% YoY to $28.6B, operating income up 1% YoY to $3.05B, and gaming revenue up 16% YoY to $10.92B, driven by strong PS5 sales &lpar;Naman Ramachandran/Variety&rpar;](http://www.techmeme.com/250213/p12#a250213p12)
- - [Want to Burn Body Fat at Home? Use These 7 Tricks to Reach Your Goals](https://www.cnet.com/health/fitness/want-to-burn-body-fat-at-home-use-these-7-tricks-to-reach-your-goals/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Sony reports Q3 revenue up 18% YoY to $28.6B, operating income up 1% YoY to $3.05B, and gaming revenue up 16% YoY to $10.92B, driven by strong PS5 sales &lpar;Naman Ramachandran/Variety&rpar;](http://www.techmeme.com/250213/p12#a250213p12)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

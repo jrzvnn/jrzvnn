@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [DOGE’s Website Is Just One Big Twitter Ad](https://www.wired.com/story/doges-website-is-just-one-big-twitter-advert/)
+ - [A Nose-Computer Interface Could Turn Dogs Into Super Detectors](https://www.wired.com/story/nose-computer-interface-dogs-detectors-canaery/)
+ - [Sources: Arm plans to launch its own chip, expected to be a CPU for servers in large data centers, this year after securing Meta as one of its first customers &lpar;Financial Times&rpar;](http://www.techmeme.com/250213/p34#a250213p34)
+ - [DOGE’s Website Is Just One Big X Ad](https://www.wired.com/story/doge-website-is-just-one-big-x-ad/)
  - [Sources: Italian spyware maker SIO created malicious Android apps that masquerade as WhatsApp and other apps; a researcher says they were likely used in Italy &lpar;Lorenzo Franceschi-Bicchierai/TechCrunch&rpar;](http://www.techmeme.com/250213/p33#a250213p33)
- - [Plasma, which is developing a bitcoin-based network designed to handle stablecoin transactions efficiently with zero-fee USDT transfers, raised a $20M Series A &lpar;Krisztian Sandor/CoinDesk&rpar;](http://www.techmeme.com/250213/p32#a250213p32)
- - [Are Dating Apps Getting Worse?](https://www.wired.com/story/uncanny-valley-podcast-14-are-dating-apps-getting-worse/)
- - [How We’re Keeping Tabs on DOGE](https://www.wired.com/story/uncanny-valley-podcast-news-update-doge/)<!-- TECH:END -->
+ - [Plasma, which is developing a bitcoin-based network designed to handle stablecoin transactions efficiently with zero-fee USDT transfers, raised a $20M Series A &lpar;Krisztian Sandor/CoinDesk&rpar;](http://www.techmeme.com/250213/p32#a250213p32)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

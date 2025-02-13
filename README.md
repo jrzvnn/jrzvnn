@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Slow Ventures raised $60M+ for a fund to invest in creators who are authorities on niche areas like automotive; the fund appears to be the first of its kind &lpar;Dan Primack/Axios&rpar;](http://www.techmeme.com/250213/p35#a250213p35)
+ - [Why you should use a VPN with public Wi-Fi hotspots](https://appleinsider.com/articles/25/02/13/why-you-should-use-a-vpn-with-public-wi-fi-hotspots?utm_medium=rss)
  - [A Nose-Computer Interface Could Turn Dogs Into Super Detectors](https://www.wired.com/story/nose-computer-interface-dogs-detectors-canaery/)
  - [Sources: Arm plans to launch its own chip, expected to be a CPU for servers in large data centers, this year after securing Meta as one of its first customers &lpar;Financial Times&rpar;](http://www.techmeme.com/250213/p34#a250213p34)
- - [DOGE’s Website Is Just One Big X Ad](https://www.wired.com/story/doge-website-is-just-one-big-x-ad/)
- - [Sources: Italian spyware maker SIO created malicious Android apps that masquerade as WhatsApp and other apps; a researcher says they were likely used in Italy &lpar;Lorenzo Franceschi-Bicchierai/TechCrunch&rpar;](http://www.techmeme.com/250213/p33#a250213p33)
- - [Plasma, which is developing a bitcoin-based network designed to handle stablecoin transactions efficiently with zero-fee USDT transfers, raised a $20M Series A &lpar;Krisztian Sandor/CoinDesk&rpar;](http://www.techmeme.com/250213/p32#a250213p32)<!-- TECH:END -->
+ - [Play Star Wars Jedi: Survivor and More Games on PlayStation Plus Soon](https://www.cnet.com/tech/gaming/play-star-wars-jedi-survivor-and-more-games-on-playstation-plus-soon/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

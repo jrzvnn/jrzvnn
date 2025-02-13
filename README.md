@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: Apple continues to work with Baidu to develop AI search and Siri features for iPhone users in China even after onboarding new partner Alibaba &lpar;Qianer Liu/The Information&rpar;](http://www.techmeme.com/250213/p23#a250213p23)
- - [Meta says it will let classified ad firms in Europe pay to place their listings on Facebook Marketplace, after a pilot with eBay, following the EU&#39;s &amp;euro;798M fine &lpar;Samuel Stolton/Bloomberg&rpar;](http://www.techmeme.com/250213/p22#a250213p22)
- - [17 Best Deals on Valentine’s Day Gifts &lpar;2025&rpar;](https://www.wired.com/story/valentines-day-deals-2025/)
- - [AirPods Pro 3: What the rumors say about the next big update](https://appleinsider.com/articles/25/02/13/airpods-pro-3-what-the-rumors-say-about-the-upcoming-big-update?utm_medium=rss)
- - [Germany&#39;s Bundeskartellamt charges Apple with abusing its market power via App Tracking Transparency, giving itself preferential treatment, and requires changes &lpar;Reuters&rpar;](http://www.techmeme.com/250213/p21#a250213p21)<!-- TECH:END -->
+ - [China to finally get Apple Intelligence as Alibaba deal is confirmed](https://appleinsider.com/articles/25/02/13/china-to-get-finally-apple-intelligence-as-alibaba-deal-is-confirmed?utm_medium=rss)
+ - [Here’s What the FDA Label on Your Personal Care Products Means &lpar;2025&rpar;](https://www.wired.com/story/fda-label-cleared-approved/)
+ - [The Atlantic, Politico, Vox and others sue Cohere, alleging it used copyrighted works to train its LLM and shared versions of entire articles without permission &lpar;Alexandra Bruell/Wall Street Journal&rpar;](http://www.techmeme.com/250213/p24#a250213p24)
+ - [Director of the Game ‘Avowed’ Says AI Can’t Replace Human Creativity](https://www.wired.com/story/avowed-obsidian-carrie-patel-interview/)
+ - [Sources: Apple continues to work with Baidu to develop AI search and Siri features for iPhone users in China even after onboarding new partner Alibaba &lpar;Qianer Liu/The Information&rpar;](http://www.techmeme.com/250213/p23#a250213p23)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

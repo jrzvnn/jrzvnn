@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [These Impulse Buys Under $25 Are Totally Gift-Worthy](https://www.cnet.com/pictures/impulse-buy-gifts-under-25/#ftag=CAD590a51e)
  - [The 25 Best Movies on Apple TV+ Right Now &lpar;February 2025&rpar;](https://www.wired.com/story/best-apple-tv-plus-movies/)
- - [Updated Apple Studio Display with miniLED, ProMotion expected in late 2025](https://appleinsider.com/articles/25/02/13/updated-apple-studio-display-with-miniled-promotion-expected-in-late-2025?utm_medium=rss)
- - [Best Internet Providers in Cleveland, Ohio](https://www.cnet.com/home/internet/best-internet-providers-in-cleveland-oh/#ftag=CAD590a51e)
- - [Slow Ventures raised $60M+ for a fund to invest in creators who are authorities on niche areas like automotive; the fund appears to be the first of its kind &lpar;Dan Primack/Axios&rpar;](http://www.techmeme.com/250213/p35#a250213p35)
- - [Why you should use a VPN with public Wi-Fi hotspots](https://appleinsider.com/articles/25/02/13/why-you-should-use-a-vpn-with-public-wi-fi-hotspots?utm_medium=rss)<!-- TECH:END -->
+ - [Best Internet Providers in Shreveport, Louisiana](https://www.cnet.com/home/internet/best-internet-providers-in-shreveport-la/#ftag=CAD590a51e)
+ - [&#39;Yellowjackets&#39; Season 3 on Paramount Plus: Release Date and Time](https://www.cnet.com/tech/services-and-software/yellowjackets-season-3-on-paramount-plus-release-date-and-time/#ftag=CAD590a51e)
+ - [Inside the Rise of 7,000 Starlink Satellites – and Their Inevitable Downfall](https://www.cnet.com/home/internet/features/inside-the-rise-of-7000-starlink-satellites-and-their-inevitable-downfall/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

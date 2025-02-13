@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [PlayStation&#39;s State of Play event showed that Microsoft might publish more PS5 games in 2025 than Sony does, even as Xbox hardware sales continue to decline &lpar;Jez Corden/Windows Central&rpar;](http://www.techmeme.com/250213/p25#a250213p25)
  - [Best Laptop Backpacks We&#39;ve Tried and Tested &lpar;2025&rpar;](https://www.wired.com/gallery/the-best-backpacks-for-work/)
  - [UK&#39;s iPhone spying backdoor demand sparks bipartisan US lawmaker anger](https://appleinsider.com/articles/25/02/13/uks-iphone-spying-backdoor-demand-sparks-bipartisan-us-lawmaker-anger?utm_medium=rss)
  - [China to finally get Apple Intelligence as Alibaba deal is confirmed](https://appleinsider.com/articles/25/02/13/china-to-get-finally-apple-intelligence-as-alibaba-deal-is-confirmed?utm_medium=rss)
- - [Here’s What the FDA Label on Your Personal Care Products Means &lpar;2025&rpar;](https://www.wired.com/story/fda-label-cleared-approved/)
- - [The Atlantic, Politico, Vox and others sue Cohere, alleging it used copyrighted works to train its LLM and shared versions of entire articles without permission &lpar;Alexandra Bruell/Wall Street Journal&rpar;](http://www.techmeme.com/250213/p24#a250213p24)<!-- TECH:END -->
+ - [Here’s What the FDA Label on Your Personal Care Products Means &lpar;2025&rpar;](https://www.wired.com/story/fda-label-cleared-approved/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

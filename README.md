@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Sources: Bain Capital, Advent International, and EQT AB are among the PE firms competing to acquire Trend Micro, which has a market value of about $8.54B &lpar;Milana Vinn/Reuters&rpar;](http://www.techmeme.com/250212/p50#a250212p50)
  - [Baidu says it will make its AI chatbot Ernie free starting April 1 to all users on both desktop and mobile platforms, citing improved tech and reduced costs &lpar;Reuters&rpar;](http://www.techmeme.com/250212/p49#a250212p49)
  - [Sources: Thoma Bravo-backed enterprise security software company SailPoint raised $1.38B in an upsized IPO at $23 per share, giving it a $12.8B market cap &lpar;Bailey Lipschultz/Bloomberg&rpar;](http://www.techmeme.com/250212/p48#a250212p48)
  - [How to import photos using the Image Capture app on Mac](https://appleinsider.com/inside/macos/tips/how-to-import-photos-using-the-image-capture-app-on-mac?utm_medium=rss)
- - [NYC- and Bengaluru-based SpotDraft, which offers tools to help in-house legal teams simplify contracting tasks, raised a $54M Series B led by Vertex and Trident &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/250212/p47#a250212p47)
- - [Best External Hard Drives and SSDs for 2025](https://www.cnet.com/tech/computing/best-external-hard-drive-ssd/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [NYC- and Bengaluru-based SpotDraft, which offers tools to help in-house legal teams simplify contracting tasks, raised a $54M Series B led by Vertex and Trident &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/250212/p47#a250212p47)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

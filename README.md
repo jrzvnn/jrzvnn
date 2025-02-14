@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [15 Best Wireless Earbuds, Tested and Reviewed &lpar;2025&rpar;](https://www.wired.com/gallery/best-wirefree-earbuds/)
  - [The doge.gov website tracking Elon Musk&#39;s cuts to the federal government pulls from a database editable by anyone, say two sources who found the vulnerability &lpar;Jason Koebler/404 Media&rpar;](http://www.techmeme.com/250214/p6#a250214p6)
  - [Trump’s first 100 days: all the news affecting the tech industry](https://www.theverge.com/24348851/donald-trump-presidency-tech-science-news)
  - [Elon Musk&amp;#8217;s DOGE website has been defaced because anyone can edit it](https://www.theverge.com/news/612865/doge-government-website-database-security-open)
- - [From Swipe to Sweat: How Athletic Clubs Replaced Dating Apps](https://www.wired.com/story/dating-irl-athletic-clubs-gyms/)
- - [Confessions of a Gay Priest on Hookup Apps](https://www.wired.com/story/confessions-of-a-gay-priest/)<!-- TECH:END -->
+ - [From Swipe to Sweat: How Athletic Clubs Replaced Dating Apps](https://www.wired.com/story/dating-irl-athletic-clubs-gyms/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

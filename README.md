@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [Relatable](http://9gag.com/gag/aVvgrPn)
  - 😝 [Today I saw a few British people in London.](http://9gag.com/gag/a4PnyyZ)
- - 😝 [Dude really tried to become a millionaire through a pawn shop](http://9gag.com/gag/an7Oo4V)
- - 💣 [Dude decide to shovel his driveway at 4 am receives a Canadian neighborly warning](http://9gag.com/gag/aNDLbA3)
+ - 💣 [Dude really tried to become a millionaire through a pawn shop](http://9gag.com/gag/an7Oo4V)
  - 😝 [Astronaut Chris Hadfield: &#39;It&#39;s Possible To Get Stuck Floating In The Space Station If You Can&#39;t Reach A Wall&#39;](http://9gag.com/gag/agmQwEK)
- - 👉 [We all know what the top comment is going to be](http://9gag.com/gag/aGyLvwX)<!-- MEMES:END -->
+ - 👉 [It&#39;s the same thing, innit?](http://9gag.com/gag/a2vMpXp)<!-- MEMES:END -->
 
 ---
 

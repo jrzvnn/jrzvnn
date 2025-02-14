@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Relatable](http://9gag.com/gag/aVvgrPn)
- - 😝 [We all know what the top comment is going to be](http://9gag.com/gag/aGyLvwX)
- - 💣 [Stink Leveling](http://9gag.com/gag/aD27r69)
- - 😝 [Astronaut Chris Hadfield: &#39;It&#39;s Possible To Get Stuck Floating In The Space Station If You Can&#39;t Reach A Wall&#39;](http://9gag.com/gag/agmQwEK)
- - 👉 [Well that escalated quickly](http://9gag.com/gag/aQzgKP7)<!-- MEMES:END -->
+ - 😝 [What do you think of this method for catching snakes? \ud83d\udc0d](http://9gag.com/gag/a1m7812)
+ - 😝 [Well that escalated quickly](http://9gag.com/gag/aQzgKP7)
+ - 💣 [We all know what the top comment is going to be](http://9gag.com/gag/aGyLvwX)
+ - 😝 [Dude decide to shovel his driveway at 4 am receives a Canadian neighborly warning](http://9gag.com/gag/aNDLbA3)
+ - 👉 [Astronaut Chris Hadfield: &#39;It&#39;s Possible To Get Stuck Floating In The Space Station If You Can&#39;t Reach A Wall&#39;](http://9gag.com/gag/agmQwEK)<!-- MEMES:END -->
 
 ---
 

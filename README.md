@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [You trying to get choke slammed?](http://9gag.com/gag/aXPL1Wv)
- - 😝 [Relatable](http://9gag.com/gag/aVvgrPn)
- - 💣 [Finally fixed](http://9gag.com/gag/apR1XR8)
- - 😝 [Let&#39;s test if 9gag really has free speech](http://9gag.com/gag/aXPLz72)
- - 👉 [The Audacity](http://9gag.com/gag/aKG1Zeg)<!-- MEMES:END -->
+ - 😝 [O_o](http://9gag.com/gag/apR17BD)
+ - 😝 [His crazy and cynical laugh](http://9gag.com/gag/ajP7MxR)
+ - 💣 [Is it true?](http://9gag.com/gag/aGyL6Dz)
+ - 😝 [How I imagine word `stupidity` looks.](http://9gag.com/gag/azx5w7B)
+ - 👉 [Well that escalated quickly](http://9gag.com/gag/aQzgKP7)<!-- MEMES:END -->
 
 ---
 

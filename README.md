@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [OpenAI removes &quot;warning&quot; messages in ChatGPT that indicated when content might violate its terms of service, to cut down on &quot;gratuitous/unexplainable denials&quot; &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/250213/p41#a250213p41)
- - [NHL 4 Nations Face-Off: How to Watch USA vs. Finland Tonight](https://www.cnet.com/tech/services-and-software/nhl-4-nations-face-off-how-to-watch-usa-vs-finland-tonight/#ftag=CAD590a51e)
- - [Google&#39;s Gemini can now recall and &quot;reference past chats for more tailored help&quot;; the feature is rolling out in English for Advanced subscribers &lpar;Abner Li/9to5Google&rpar;](http://www.techmeme.com/250213/p40#a250213p40)
- - [Coinbase reports Q4 revenue up 138% YoY to $2.27B, vs. $1.88B est., transaction revenue up 194% to $1.56B, vs. $1.29B est., and trading volume up 185% to $439B &lpar;Tanaya Macheel/CNBC&rpar;](http://www.techmeme.com/250213/p39#a250213p39)
- - [The &#39;Enron Egg&#39; At-Home Nuclear Reactor Is a Parody Product](https://www.cnet.com/news/is-the-enron-egg-at-home-nuclear-reactor-more-than-a-funny-fake-parody-product/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [The UK renames its AI Safety Institute to AI Security Institute in a pivot to cybersecurity, and is exploring ways to use Anthropic&#39;s Claude in public services &lpar;Ingrid Lunden/TechCrunch&rpar;](http://www.techmeme.com/250213/p44#a250213p44)
+ - [Sources: Apple will restore TikTok to the US App Store on Thursday, following a letter from US Attorney General Pam Bondi &lpar;Mark Gurman/Bloomberg&rpar;](http://www.techmeme.com/250213/p43#a250213p43)
+ - [LaCie Rugged Pro5 SSD review: Incredibly fast portable storage that will hold up to the elements](https://appleinsider.com/articles/25/02/14/lacie-rugged-pro5-ssd-review-incredibly-fast-portable-storage-that-will-hold-up-to-the-elements?utm_medium=rss)
+ - [Sources: Arm is recruiting executives from its own customers in a push to sell its own chips, and is competing against Qualcomm to sell data center CPUs to Meta &lpar;Reuters&rpar;](http://www.techmeme.com/250213/p42#a250213p42)
+ - [OpenAI removes &quot;warning&quot; messages in ChatGPT that indicated when content might violate its terms of service, to cut down on &quot;gratuitous/unexplainable denials&quot; &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/250213/p41#a250213p41)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

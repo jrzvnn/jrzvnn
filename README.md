@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [She looks around and sees no Portuguese in Lisbon but only fake male Islamic asylum seekers. Our children will hate us for this](http://9gag.com/gag/aZZn4qW)
- - 😝 [Life of dairy farmer](http://9gag.com/gag/aKG15Wj)
- - 💣 [What do you prefer?](http://9gag.com/gag/axyWQ9p)
- - 😝 [Astronaut Chris Hadfield: &#39;It&#39;s Possible To Get Stuck Floating In The Space Station If You Can&#39;t Reach A Wall&#39;](http://9gag.com/gag/agmQwEK)
- - 👉 [We all know what the top comment is going to be](http://9gag.com/gag/aGyLvwX)<!-- MEMES:END -->
+ - 😝 [Stuck in the snow](http://9gag.com/gag/axyW85Y)
+ - 😝 [Well that escalated quickly](http://9gag.com/gag/aQzgKP7)
+ - 💣 [She looks around and sees no Portuguese in Lisbon but only fake male Islamic asylum seekers. Our children will hate us for this](http://9gag.com/gag/aZZn4qW)
+ - 😝 [We all know what the top comment is going to be](http://9gag.com/gag/aGyLvwX)
+ - 👉 [The different productions between a solar tracker and fixed mount panel](http://9gag.com/gag/ae94yp5)<!-- MEMES:END -->
 
 ---
 

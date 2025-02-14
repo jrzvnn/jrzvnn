@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Amazon&#39;s MacBook Pro coupon drops Space Black M4 Pro spec down to $1,749.99](https://appleinsider.com/articles/25/02/14/amazons-macbook-pro-coupon-drops-space-black-m4-pro-spec-down-to-174999?utm_medium=rss)
+ - [Apple TV app finally starts including Netflix series [u]](https://appleinsider.com/articles/25/02/14/apple-tv-app-finally-starts-including-netflix-series?utm_medium=rss)
+ - [Instagram starts testing new button that might downrank comments](https://www.theverge.com/news/613143/instagram-downrank-comments-button-test)
  - [Trump’s first 100 days: all the news affecting the tech industry](https://www.theverge.com/24348851/donald-trump-presidency-tech-science-news)
- - [Amazon’s killing a feature that let you download and backup Kindle books](https://www.theverge.com/news/612898/amazon-removing-kindle-book-download-transfer-usb)
- - [Sources: around 20 technologists at CFPB were fired on Thursday, gutting a team that specialized in understanding Big Tech&#39;s entrance into financial products &lpar;Lauren Feiner/The Verge&rpar;](http://www.techmeme.com/250214/p16#a250214p16)
- - [US tariffs: how Trump’s tax is hitting Big Tech and beyond](https://www.theverge.com/604742/trump-tariffs-canada-mexico-china-updates)
- - [Small businesses are already feeling Trump’s tariffs](https://www.theverge.com/news/613111/trump-import-tariffs-china-small-businesses)<!-- TECH:END -->
+ - [Amazon’s killing a feature that let you download and backup Kindle books](https://www.theverge.com/news/612898/amazon-removing-kindle-book-download-transfer-usb)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

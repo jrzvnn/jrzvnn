@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Google deactivates an Android feature that crowdsources device sensor data to provide earthquake warnings in Brazil after mistakenly sending notifications &lpar;Taylor Kerns/Android Police&rpar;](http://www.techmeme.com/250214/p25#a250214p25)
+ - [Mastodon will add quote posts, even though some users don&amp;#8217;t want them](https://www.theverge.com/news/613376/mastodon-quote-posts-update)
  - [Trump’s first 100 days: all the news affecting the tech industry](https://www.theverge.com/24348851/donald-trump-presidency-tech-science-news)
  - [The best indie games we’re playing right now](https://www.theverge.com/24339574/indie-games-recommendations-pc-switch-steam-deck-best-new-hidden-gems)
- - [Climate group that called for ‘free Palestine’ stripped of federal funding](https://www.theverge.com/news/613135/climate-justice-alliance-funding-biden-trump-epa)
- - [Sorry, Netflix support isn&#39;t coming to the Apple TV app](https://appleinsider.com/articles/25/02/14/sorry-netflix-support-isnt-coming-to-the-apple-tv-app?utm_medium=rss)
- - [Source: xAI is canvassing potential investors, including Sequoia Capital and a16z, for a roughly $10B funding round that would value the company at about $75B &lpar;Gillian Tan/Bloomberg&rpar;](http://www.techmeme.com/250214/p24#a250214p24)<!-- TECH:END -->
+ - [Climate group that called for ‘free Palestine’ stripped of federal funding](https://www.theverge.com/news/613135/climate-justice-alliance-funding-biden-trump-epa)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

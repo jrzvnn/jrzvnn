@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [DOGE&#39;s Tom Krause, the US Treasury&#39;s new Fiscal Assistant Secretary, is still the CEO of Cloud Software Group; critics say it may be a conflict of interest &lpar;Vittoria Elliott/Wired&rpar;](http://www.techmeme.com/250214/p20#a250214p20)
+ - [Trump’s first 100 days: all the news affecting the tech industry](https://www.theverge.com/24348851/donald-trump-presidency-tech-science-news)
+ - [Treasury inspector general will investigate DOGE payments access](https://www.theverge.com/news/613121/treasury-inspector-general-gao-doge-payments-system-investigation)
  - [The inexpensive Roomba Combo j5 is over 50 percent off for Verge readers](https://www.theverge.com/good-deals/613003/irobot-roomba-combo-j5-i5-8bitdo-pro-2-controller-deal-sale)
- - [TikTok isn’t out of the woods yet](https://www.theverge.com/command-line-newsletter/613219/tiktok-ban-ceo-all-hands)
- - [TikTok ban: all the news on the app’s shutdown and return in the US](https://www.theverge.com/23651507/tiktok-ban-us-news)
- - [In an AMA, Steve Huffman says Reddit is planning to roll out paid subreddits in 2025 and is &quot;laying the foundation&quot; to monetize commerce within subreddits &lpar;Scharon Harding/Ars Technica&rpar;](http://www.techmeme.com/250214/p19#a250214p19)
- - [EssilorLuxottica says it has sold 2M+ Ray-Ban Meta glasses since their Q4 2023 launch, and plans to raise annual production capacity to 10M by the end of 2026 &lpar;David Heaney/UploadVR&rpar;](http://www.techmeme.com/250214/p18#a250214p18)<!-- TECH:END -->
+ - [TikTok isn’t out of the woods yet](https://www.theverge.com/command-line-newsletter/613219/tiktok-ban-ceo-all-hands)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

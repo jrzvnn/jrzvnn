@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [M4 MacBook Air: What the rumors say to expect from the first new Mac of 2025](https://appleinsider.com/articles/25/02/14/m4-macbook-air-what-the-rumors-say-to-expect-from-the-first-new-mac-of-2025?utm_medium=rss)
+ - [Twelve South TimePorter review: An elegant wall mount to display your growing collection of Apple Watch bands](https://appleinsider.com/articles/25/02/14/twelve-south-timeporter-review-an-elegant-wall-mount-to-display-your-growing-collection-of-apple-watch-bands?utm_medium=rss)
  - [Elden Ring: all of the updates about FromSoftware’s open-world hit](https://www.theverge.com/2022/2/28/22955370/elden-ring-fromsoftware-open-world)
  - [Xiaomi&amp;#8217;s 15 Ultra looks a lot like a Leica in new leaks](https://www.theverge.com/news/612895/xiaomi-15-ultra-leak-specs-images-leica)
- - [Filing: Nvidia cut its Arm stake by 43.8% to 1.1M shares in Q4, valuing its remaining stake at ~$181M as of Feb. 13, and discloses a position in China&#39;s WeRide &lpar;Jaspreet Singh/Reuters&rpar;](http://www.techmeme.com/250214/p11#a250214p11)
- - [Apple Vision Pro&#39;s new NBA 3D games are just the start of something greater](https://appleinsider.com/articles/25/02/14/apple-vision-pros-new-nba-3d-games-are-just-the-start-of-something-greater?utm_medium=rss)
- - [Sweeten Your Savings With Swoon-Worthy APYs. Today&#39;s CD Rates, Feb. 14, 2025](https://www.cnet.com/personal-finance/banking/sweeten-your-savings-with-swoon-worthy-apys-todays-cd-rates-feb-14-2025/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Filing: Nvidia cut its Arm stake by 43.8% to 1.1M shares in Q4, valuing its remaining stake at ~$181M as of Feb. 13, and discloses a position in China&#39;s WeRide &lpar;Jaspreet Singh/Reuters&rpar;](http://www.techmeme.com/250214/p11#a250214p11)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

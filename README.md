@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [How crypto companies like Coinbase co-opted legitimate concerns about &quot;debanking&quot; to fight regulation, threatening to derail meaningful progress on the issue &lpar;Molly White/Citation Needed&rpar;](http://www.techmeme.com/250214/p29#a250214p29)
  - [All the smart home news, reviews, and gadgets you need to know about](https://www.theverge.com/24190824/smart-home-news-reviews-guides-gadgets)
  - [Google&amp;#8217;s Android-based earthquake detector had a false alarm](https://www.theverge.com/news/613572/google-earthquake-detection-false-alarm-sao-paulo-brasil-disabled)
  - [Go Read This: The Verge’s favorite reads from all over the web](https://www.theverge.com/24188803/best-tech-reads-articles-books)
- - [Trump’s first 100 days: all the news affecting the tech industry](https://www.theverge.com/24348851/donald-trump-presidency-tech-science-news)
- - [Trump admin pulls hundreds of videos from CFPB’s YouTube channel](https://www.theverge.com/news/613567/trump-youtube-videos-cfpb)<!-- TECH:END -->
+ - [Trump’s first 100 days: all the news affecting the tech industry](https://www.theverge.com/24348851/donald-trump-presidency-tech-science-news)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

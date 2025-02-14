@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [M4 MacBook Air: What the rumors say to expect from the first new Mac of 2025](https://appleinsider.com/articles/25/02/14/m4-macbook-air-what-the-rumors-say-to-expect-from-the-first-new-mac-of-2025?utm_medium=rss)
- - [Twelve South TimePorter review: An elegant wall mount to display your growing collection of Apple Watch bands](https://appleinsider.com/articles/25/02/14/twelve-south-timeporter-review-an-elegant-wall-mount-to-display-your-growing-collection-of-apple-watch-bands?utm_medium=rss)
- - [Elden Ring: all of the updates about FromSoftware’s open-world hit](https://www.theverge.com/2022/2/28/22955370/elden-ring-fromsoftware-open-world)
- - [Xiaomi&amp;#8217;s 15 Ultra looks a lot like a Leica in new leaks](https://www.theverge.com/news/612895/xiaomi-15-ultra-leak-specs-images-leica)
- - [Filing: Nvidia cut its Arm stake by 43.8% to 1.1M shares in Q4, valuing its remaining stake at ~$181M as of Feb. 13, and discloses a position in China&#39;s WeRide &lpar;Jaspreet Singh/Reuters&rpar;](http://www.techmeme.com/250214/p11#a250214p11)<!-- TECH:END -->
+ - [Apple&#39;s M4 Max 16-inch MacBook Pro with nano-texture is $250 off, in stock](https://appleinsider.com/articles/25/02/13/apples-m4-max-16-inch-macbook-pro-with-nano-texture-is-250-off-in-stock?utm_medium=rss)
+ - [Memo: Meta hires the former CEO of luxury goods marketplace The RealReal as VP of retail, as it seeks to boost sales of Quest, Ray-Ban Meta, and AI wearables &lpar;Bloomberg&rpar;](http://www.techmeme.com/250214/p13#a250214p13)
+ - [Sources: Meta plans major investment into AI-Powered humanoid robots, with an initial focus on household chores, and has formed a team within Reality Labs &lpar;Mark Gurman/Bloomberg&rpar;](http://www.techmeme.com/250214/p12#a250214p12)
+ - [14 Best Couches We&#39;ve Tested That You Can Buy Online &lpar;2025&rpar;](https://www.wired.com/gallery/best-couches/)
+ - [Yellowjackets continues to stretch itself thin in season 3](https://www.theverge.com/tv-reviews/612900/yellowjackets-season-3-review)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

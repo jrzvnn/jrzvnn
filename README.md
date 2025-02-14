@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Haircut in Japan looks fun](http://9gag.com/gag/amoWbo6)
- - 😝 [O_o](http://9gag.com/gag/apR17BD)
- - 💣 [Where can i buy that?](http://9gag.com/gag/aRBLGQ5)
- - 😝 [This is where we&#39;re at.](http://9gag.com/gag/axyW8Np)
- - 👉 [Yeah school girl](http://9gag.com/gag/aNDLGNA)<!-- MEMES:END -->
+ - 😝 [What do you prefer?](http://9gag.com/gag/axyWQ9p)
+ - 😝 [Imagine being this fragile](http://9gag.com/gag/aMVdN5M)
+ - 💣 [We all know what the top comment is going to be](http://9gag.com/gag/aGyLvwX)
+ - 😝 [Yeah school girl](http://9gag.com/gag/aNDLGNA)
+ - 👉 [How I imagine word `stupidity` looks.](http://9gag.com/gag/azx5w7B)<!-- MEMES:END -->
 
 ---
 

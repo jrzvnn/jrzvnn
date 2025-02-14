@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The European Commission&#39;s digital chief Henna Virkkunen says the EU is easing tech rules to boost AI investments, not due to pressure from US Big Tech or Trump &lpar;Financial Times&rpar;](http://www.techmeme.com/250214/p4#a250214p4)
  - [Sources: Shein&#39;s UK IPO may be delayed to H2 2025 after President Trump&#39;s tariff crackdown; Shein had told investors a London IPO could happen by Easter &lpar;Financial Times&rpar;](http://www.techmeme.com/250214/p3#a250214p3)
  - [Trump’s first 100 days: all the news affecting the tech industry](https://www.theverge.com/24348851/donald-trump-presidency-tech-science-news)
  - [H&amp;R Block Coupons and Deals: 25% Off Tax Prep in 2025](https://www.wired.com/story/hr-block-coupon/)
- - [London-based OneID, which provides bank-verified digital ID services, raised &amp;pound;16M led by ACF Investors, with participation from over 200 angel investors &lpar;PYMNTS.com&rpar;](http://www.techmeme.com/250214/p2#a250214p2)
- - [Eudia, which provides in-house legal teams with AI agents and other tools for common tasks, exits stealth with an up to $105M Series A led by General Catalyst &lpar;Paayal Zaveri/Bloomberg&rpar;](http://www.techmeme.com/250214/p1#a250214p1)<!-- TECH:END -->
+ - [London-based OneID, which provides bank-verified digital ID services, raised &amp;pound;16M led by ACF Investors, with participation from over 200 angel investors &lpar;PYMNTS.com&rpar;](http://www.techmeme.com/250214/p2#a250214p2)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

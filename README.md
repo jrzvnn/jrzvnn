@@ -157,8 +157,8 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [OpenAI&amp;#8217;s board &amp;#8216;unanimously rejects&amp;#8217; Elon Musk&amp;#8217;s offer to buy the company](https://www.theverge.com/news/613571/openai-rejects-elon-musk-purchase-offer)
  - [Trump’s first 100 days: all the news affecting the tech industry](https://www.theverge.com/24348851/donald-trump-presidency-tech-science-news)
+ - [OpenAI&amp;#8217;s board &amp;#8216;unanimously rejects&amp;#8217; Elon Musk&amp;#8217;s offer to buy the company](https://www.theverge.com/news/613571/openai-rejects-elon-musk-purchase-offer)
  - [Sources: Apple&#39;s overhaul of Siri faces engineering problems and software bugs; some features, planned for April, may have to be postponed until May or later &lpar;Mark Gurman/Bloomberg&rpar;](http://www.techmeme.com/250214/p28#a250214p28)
  - [Amazon’s killing a feature that let you download and backup Kindle books](https://www.theverge.com/news/612898/amazon-removing-kindle-book-download-transfer-usb)
  - [US Judge Extends Order to Block DOGE From Treasury Department Data](https://www.wired.com/story/doge-treasury-department-data-access-denied/)<!-- TECH:END -->

@@ -166,10 +166,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Almost...](http://9gag.com/gag/aD27L9w)
- - 😝 [She carries weight](http://9gag.com/gag/ae94qxv)
- - 💣 [Stink Leveling](http://9gag.com/gag/aD27r69)
+ - 😝 [Dude decide to shovel his driveway at 4 am receives a Canadian neighborly warning](http://9gag.com/gag/aNDLbA3)
  - 😝 [The different productions between a solar tracker and fixed mount panel](http://9gag.com/gag/ae94yp5)
+ - 💣 [Stink Leveling](http://9gag.com/gag/aD27r69)
+ - 😝 [Dude really tried to become a millionaire through a pawn shop](http://9gag.com/gag/an7Oo4V)
  - 👉 [We all know what the top comment is going to be](http://9gag.com/gag/aGyLvwX)<!-- MEMES:END -->
 
 ---

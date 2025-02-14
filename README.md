@@ -167,10 +167,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [Dude decide to shovel his driveway at 4 am receives a Canadian neighborly warning](http://9gag.com/gag/aNDLbA3)
- - 😝 [The different productions between a solar tracker and fixed mount panel](http://9gag.com/gag/ae94yp5)
- - 💣 [Stink Leveling](http://9gag.com/gag/aD27r69)
+ - 😝 [What do you prefer?](http://9gag.com/gag/axyWQ9p)
+ - 💣 [We all know what the top comment is going to be](http://9gag.com/gag/aGyLvwX)
  - 😝 [Dude really tried to become a millionaire through a pawn shop](http://9gag.com/gag/an7Oo4V)
- - 👉 [We all know what the top comment is going to be](http://9gag.com/gag/aGyLvwX)<!-- MEMES:END -->
+ - 👉 [Astronaut Chris Hadfield: &#39;It&#39;s Possible To Get Stuck Floating In The Space Station If You Can&#39;t Reach A Wall&#39;](http://9gag.com/gag/agmQwEK)<!-- MEMES:END -->
 
 ---
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Senate Republicans introduce bills to make EVs more expensive](https://www.theverge.com/news/613296/senate-bills-ev-tax-credit-kill-fee-highway-republican)
+ - [The EV tax credit: all the cars, rules, and updates](https://www.theverge.com/2023/4/20/23691597/ev-tax-credit-eligible-vehicles-battery-irs-china)
  - [Trump’s first 100 days: all the news affecting the tech industry](https://www.theverge.com/24348851/donald-trump-presidency-tech-science-news)
  - [Netflix says its brief Apple TV app integration was a mistake](https://www.theverge.com/news/613307/netflix-apple-tv-app-support-mistake)
- - [Sources: Dell nears a $5B deal to provide servers with Nvidia&#39;s GB200 chips for xAI&#39;s supercomputer project in Memphis &lpar;Brody Ford/Bloomberg&rpar;](http://www.techmeme.com/250214/p21#a250214p21)
- - [DOGE&#39;s Tom Krause, the US Treasury&#39;s new Fiscal Assistant Secretary, is still the CEO of Cloud Software Group; critics say it may be a conflict of interest &lpar;Vittoria Elliott/Wired&rpar;](http://www.techmeme.com/250214/p20#a250214p20)
- - [Treasury inspector general will investigate DOGE payments access](https://www.theverge.com/news/613121/treasury-inspector-general-gao-doge-payments-system-investigation)<!-- TECH:END -->
+ - [Sources: Dell nears a $5B deal to provide servers with Nvidia&#39;s GB200 chips for xAI&#39;s supercomputer project in Memphis &lpar;Brody Ford/Bloomberg&rpar;](http://www.techmeme.com/250214/p21#a250214p21)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

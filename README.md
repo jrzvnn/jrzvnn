@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [London-based OneID, which provides bank-verified digital ID services, raised &amp;pound;16M led by ACF Investors, with participation from over 200 angel investors &lpar;PYMNTS.com&rpar;](http://www.techmeme.com/250214/p2#a250214p2)
  - [Eudia, which provides in-house legal teams with AI agents and other tools for common tasks, exits stealth with an up to $105M Series A led by General Catalyst &lpar;Paayal Zaveri/Bloomberg&rpar;](http://www.techmeme.com/250214/p1#a250214p1)
  - [How to unplug from Apple Intelligence on iOS and macOS](https://appleinsider.com/inside/apple-intelligence/tips/how-to-unplug-from-apple-intelligence-on-ios-and-macos?utm_medium=rss)
  - [Baidu says it plans to make its next-generation AI model, Ernie 4.5, open-source starting June 30, marking a major shift in strategy as competition heats up &lpar;Reuters&rpar;](http://www.techmeme.com/250213/p49#a250213p49)
- - [Alibaba to manipulate Apple Intelligence output in China for censorship](https://appleinsider.com/articles/25/02/14/alibaba-to-manipulate-apple-intelligence-output-in-china-for-censorship?utm_medium=rss)
- - [Sources: banks sold ~$4.7B of X&#39;s debt on February 13, more than the $3B they originally intended to sell, leaving ~$1B of X debt on their balance sheets &lpar;New York Times&rpar;](http://www.techmeme.com/250213/p48#a250213p48)<!-- TECH:END -->
+ - [Alibaba to manipulate Apple Intelligence output in China for censorship](https://appleinsider.com/articles/25/02/14/alibaba-to-manipulate-apple-intelligence-output-in-china-for-censorship?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

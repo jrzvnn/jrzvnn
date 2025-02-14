@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [10 Years After ‘Stucky,’ “Captain America: Brave New World” Signals a Big Shift in Marvel Fandom](https://www.wired.com/story/captain-america-brave-new-world-fandom-fanfic-mcu/)
  - [Apple TV app finally starts including Netflix series](https://appleinsider.com/articles/25/02/14/apple-tv-app-finally-starts-including-netflix-series?utm_medium=rss)
  - [15 Best Wireless Earbuds, Tested and Reviewed &lpar;2025&rpar;](https://www.wired.com/gallery/best-wirefree-earbuds/)
  - [The doge.gov website tracking Elon Musk&#39;s cuts to the federal government pulls from a database editable by anyone, say two sources who found the vulnerability &lpar;Jason Koebler/404 Media&rpar;](http://www.techmeme.com/250214/p6#a250214p6)
- - [Trump’s first 100 days: all the news affecting the tech industry](https://www.theverge.com/24348851/donald-trump-presidency-tech-science-news)
- - [Elon Musk&amp;#8217;s DOGE website has been defaced because anyone can edit it](https://www.theverge.com/news/612865/doge-government-website-database-security-open)<!-- TECH:END -->
+ - [Trump’s first 100 days: all the news affecting the tech industry](https://www.theverge.com/24348851/donald-trump-presidency-tech-science-news)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

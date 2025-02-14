@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [OpenAI&amp;#8217;s board &amp;#8216;unanimously rejects&amp;#8217; Elon Musk&amp;#8217;s offer to buy the company](https://www.theverge.com/news/613571/openai-rejects-elon-musk-purchase-offer)
+ - [Trump’s first 100 days: all the news affecting the tech industry](https://www.theverge.com/24348851/donald-trump-presidency-tech-science-news)
  - [Sources: Apple&#39;s overhaul of Siri faces engineering problems and software bugs; some features, planned for April, may have to be postponed until May or later &lpar;Mark Gurman/Bloomberg&rpar;](http://www.techmeme.com/250214/p28#a250214p28)
  - [Amazon’s killing a feature that let you download and backup Kindle books](https://www.theverge.com/news/612898/amazon-removing-kindle-book-download-transfer-usb)
- - [US Judge Extends Order to Block DOGE From Treasury Department Data](https://www.wired.com/story/doge-treasury-department-data-access-denied/)
- - [OpenAI&#39;s board rejects the $97.4B bid by Elon Musk and a consortium of investors, saying they reject &quot;Musk&#39;s latest attempt to disrupt his competition&quot; &lpar;Cade Metz/New York Times&rpar;](http://www.techmeme.com/250214/p27#a250214p27)
- - [Meta announces Project Waterworth, a subsea cable project that will span over 50,000 km and connect five continents &lpar;Ingrid Lunden/TechCrunch&rpar;](http://www.techmeme.com/250214/p26#a250214p26)<!-- TECH:END -->
+ - [US Judge Extends Order to Block DOGE From Treasury Department Data](https://www.wired.com/story/doge-treasury-department-data-access-denied/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

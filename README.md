@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Amazon&#39;s MacBook Pro coupon drops Space Black M4 Pro spec down to $1,749.99](https://appleinsider.com/articles/25/02/14/amazons-macbook-pro-coupon-drops-space-black-m4-pro-spec-down-to-174999?utm_medium=rss)
- - [Apple TV app finally starts including Netflix series [u]](https://appleinsider.com/articles/25/02/14/apple-tv-app-finally-starts-including-netflix-series?utm_medium=rss)
- - [Instagram starts testing new button that might downrank comments](https://www.theverge.com/news/613143/instagram-downrank-comments-button-test)
- - [Trump’s first 100 days: all the news affecting the tech industry](https://www.theverge.com/24348851/donald-trump-presidency-tech-science-news)
- - [Amazon’s killing a feature that let you download and backup Kindle books](https://www.theverge.com/news/612898/amazon-removing-kindle-book-download-transfer-usb)<!-- TECH:END -->
+ - [TikTok ban: all the news on the app’s shutdown and return in the US](https://www.theverge.com/23651507/tiktok-ban-us-news)
+ - [iPhone SE 4 expected to sell better than previous versions](https://appleinsider.com/articles/25/02/14/iphone-se-4-expected-to-sell-better-than-previous-versions?utm_medium=rss)
+ - [Meta is working on &amp;#8216;humanoid&amp;#8217; robots, too](https://www.theverge.com/news/613102/meta-humanoid-robots-ai)
+ - [Mastodon is working on a quote posts feature, which it says is a &quot;source of concern&quot; for some and &quot;highly requested&quot; by others &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/250214/p17#a250214p17)
+ - [Roblox is still trying to convince lawmakers it’s not social media](https://www.theverge.com/policy/612577/roblox-kids-online-safety-legislation-social-media)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

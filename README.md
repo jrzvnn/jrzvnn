@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The inexpensive Roomba Combo j5 is over 50 percent off for Verge readers](https://www.theverge.com/good-deals/613003/irobot-roomba-combo-j5-i5-8bitdo-pro-2-controller-deal-sale)
+ - [TikTok isn’t out of the woods yet](https://www.theverge.com/command-line-newsletter/613219/tiktok-ban-ceo-all-hands)
  - [TikTok ban: all the news on the app’s shutdown and return in the US](https://www.theverge.com/23651507/tiktok-ban-us-news)
- - [iPhone SE 4 expected to sell better than previous versions](https://appleinsider.com/articles/25/02/14/iphone-se-4-expected-to-sell-better-than-previous-versions?utm_medium=rss)
- - [Meta is working on &amp;#8216;humanoid&amp;#8217; robots, too](https://www.theverge.com/news/613102/meta-humanoid-robots-ai)
- - [Mastodon is working on a quote posts feature, which it says is a &quot;source of concern&quot; for some and &quot;highly requested&quot; by others &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/250214/p17#a250214p17)
- - [Roblox is still trying to convince lawmakers it’s not social media](https://www.theverge.com/policy/612577/roblox-kids-online-safety-legislation-social-media)<!-- TECH:END -->
+ - [In an AMA, Steve Huffman says Reddit is planning to roll out paid subreddits in 2025 and is &quot;laying the foundation&quot; to monetize commerce within subreddits &lpar;Scharon Harding/Ars Technica&rpar;](http://www.techmeme.com/250214/p19#a250214p19)
+ - [EssilorLuxottica says it has sold 2M+ Ray-Ban Meta glasses since their Q4 2023 launch, and plans to raise annual production capacity to 10M by the end of 2026 &lpar;David Heaney/UploadVR&rpar;](http://www.techmeme.com/250214/p18#a250214p18)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

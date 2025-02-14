@@ -167,10 +167,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [Repost better than bot](http://9gag.com/gag/aGyLQvw)
- - 😝 [It should have been me, not him!](http://9gag.com/gag/adBvzDV)
+ - 😝 [Life of dairy farmer](http://9gag.com/gag/aKG15Wj)
  - 💣 [Big Ron with his 90KG bells in each hand. 200 solid ass pounds each.](http://9gag.com/gag/aE0M4mK)
- - 😝 [How I imagine word `stupidity` looks.](http://9gag.com/gag/azx5w7B)
- - 👉 [Somehow Beyonce still winning the Grammy](http://9gag.com/gag/a1m73D2)<!-- MEMES:END -->
+ - 😝 [Fastest time to limbo skate under descending poles over 50m. 9.59 seconds by Shristi Dharmendra Sharma](http://9gag.com/gag/aVvg6yv)
+ - 👉 [How I imagine word `stupidity` looks.](http://9gag.com/gag/azx5w7B)<!-- MEMES:END -->
 
 ---
 

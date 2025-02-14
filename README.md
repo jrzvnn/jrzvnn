@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Tall women](http://9gag.com/gag/a2vMgzZ)
- - 😝 [Relatable](http://9gag.com/gag/aVvgrPn)
- - 💣 [Finally fixed](http://9gag.com/gag/apR1XR8)
- - 😝 [Let&#39;s test if 9gag really has free speech](http://9gag.com/gag/aXPLz72)
- - 👉 [If you still need a reason to change browser...](http://9gag.com/gag/a0eoGxd)<!-- MEMES:END -->
+ - 😝 [Haircut in Japan looks fun](http://9gag.com/gag/amoWbo6)
+ - 😝 [O_o](http://9gag.com/gag/apR17BD)
+ - 💣 [Where can i buy that?](http://9gag.com/gag/aRBLGQ5)
+ - 😝 [This is where we&#39;re at.](http://9gag.com/gag/axyW8Np)
+ - 👉 [Yeah school girl](http://9gag.com/gag/aNDLGNA)<!-- MEMES:END -->
 
 ---
 

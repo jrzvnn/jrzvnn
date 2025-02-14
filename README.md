@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [OpenAI&#39;s board rejects the $97.4B bid by Elon Musk and a consortium of investors, saying they reject &quot;Musk&#39;s latest attempt to disrupt his competition&quot; &lpar;Cade Metz/New York Times&rpar;](http://www.techmeme.com/250214/p27#a250214p27)
  - [Meta announces Project Waterworth, a subsea cable project that will span over 50,000 km and connect five continents &lpar;Ingrid Lunden/TechCrunch&rpar;](http://www.techmeme.com/250214/p26#a250214p26)
  - [The best fitness trackers to buy right now](https://www.theverge.com/22985108/best-fitness-tracker)
  - [Trump’s first 100 days: all the news affecting the tech industry](https://www.theverge.com/24348851/donald-trump-presidency-tech-science-news)
- - [Trump administration adds anti-trans notices to restored websites](https://www.theverge.com/news/613308/trump-transgender-notice-restored-webpages-cdc-fda)
- - [Google deactivates an Android feature that crowdsources device sensor data to provide earthquake warnings in Brazil after mistakenly sending notifications &lpar;Taylor Kerns/Android Police&rpar;](http://www.techmeme.com/250214/p25#a250214p25)<!-- TECH:END -->
+ - [Trump administration adds anti-trans notices to restored websites](https://www.theverge.com/news/613308/trump-transgender-notice-restored-webpages-cdc-fda)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple&#39;s Siri renovation is probably going to take longer than expected](https://appleinsider.com/articles/25/02/14/apples-siri-renovation-is-probably-going-to-take-longer-than-expected?utm_medium=rss)
  - [Trump’s first 100 days: all the news affecting the tech industry](https://www.theverge.com/24348851/donald-trump-presidency-tech-science-news)
- - [OpenAI&amp;#8217;s board &amp;#8216;unanimously rejects&amp;#8217; Elon Musk&amp;#8217;s offer to buy the company](https://www.theverge.com/news/613571/openai-rejects-elon-musk-purchase-offer)
- - [Sources: Apple&#39;s overhaul of Siri faces engineering problems and software bugs; some features, planned for April, may have to be postponed until May or later &lpar;Mark Gurman/Bloomberg&rpar;](http://www.techmeme.com/250214/p28#a250214p28)
- - [Amazon’s killing a feature that let you download and backup Kindle books](https://www.theverge.com/news/612898/amazon-removing-kindle-book-download-transfer-usb)<!-- TECH:END -->
+ - [Trump admin pulls hundreds of videos from CFPB’s YouTube channel](https://www.theverge.com/news/613567/trump-youtube-videos-cfpb)
+ - [Go Read This: The Verge’s favorite reads from all over the web](https://www.theverge.com/24188803/best-tech-reads-articles-books)
+ - [Apple&#39;s Siri renovation is probably going to take longer than expected](https://appleinsider.com/articles/25/02/14/apples-siri-renovation-is-probably-going-to-take-longer-than-expected?utm_medium=rss)
+ - [Grab the Chance to See Six Planets in a Spectacular Planet Parade This Weekend](https://www.cnet.com/science/how-to-see-planet-parade-six-planets-in-the-sky-this-weekend/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

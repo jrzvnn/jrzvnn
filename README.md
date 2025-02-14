@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [You can get a 55-inch Hisense U7 for under $500](https://www.theverge.com/good-deals/612904/hisense-u7-google-tv-presidents-day-deal-sale)
  - [Apple&#39;s M4 Max 16-inch MacBook Pro with nano-texture is $250 off, in stock](https://appleinsider.com/articles/25/02/13/apples-m4-max-16-inch-macbook-pro-with-nano-texture-is-250-off-in-stock?utm_medium=rss)
  - [Memo: Meta hires the former CEO of luxury goods marketplace The RealReal as VP of retail, as it seeks to boost sales of Quest, Ray-Ban Meta, and AI wearables &lpar;Bloomberg&rpar;](http://www.techmeme.com/250214/p13#a250214p13)
- - [Sources: Meta plans major investment into AI-Powered humanoid robots, with an initial focus on household chores, and has formed a team within Reality Labs &lpar;Mark Gurman/Bloomberg&rpar;](http://www.techmeme.com/250214/p12#a250214p12)
- - [14 Best Couches We&#39;ve Tested That You Can Buy Online &lpar;2025&rpar;](https://www.wired.com/gallery/best-couches/)
- - [Yellowjackets continues to stretch itself thin in season 3](https://www.theverge.com/tv-reviews/612900/yellowjackets-season-3-review)<!-- TECH:END -->
+ - [Sources: Meta plans major investment into AI-powered humanoid robots, with an initial focus on household chores, and has formed a team within Reality Labs &lpar;Mark Gurman/Bloomberg&rpar;](http://www.techmeme.com/250214/p12#a250214p12)
+ - [14 Best Couches We&#39;ve Tested That You Can Buy Online &lpar;2025&rpar;](https://www.wired.com/gallery/best-couches/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

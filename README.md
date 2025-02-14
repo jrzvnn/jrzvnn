@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Dude decide to shovel his driveway at 4 am receives a Canadian neighborly warning](http://9gag.com/gag/aNDLbA3)
  - 😝 [Fastest time to limbo skate under descending poles over 50m. 9.59 seconds by Shristi Dharmendra Sharma](http://9gag.com/gag/aVvg6yv)
- - 💣 [Repost better than bot](http://9gag.com/gag/aGyLQvw)
  - 😝 [Today I saw a few British people in London.](http://9gag.com/gag/a4PnyyZ)
- - 👉 [How I imagine word `stupidity` looks.](http://9gag.com/gag/azx5w7B)<!-- MEMES:END -->
+ - 💣 [How I imagine word `stupidity` looks.](http://9gag.com/gag/azx5w7B)
+ - 😝 [Life of dairy farmer](http://9gag.com/gag/aKG15Wj)
+ - 👉 [Repost better than bot](http://9gag.com/gag/aGyLQvw)<!-- MEMES:END -->
 
 ---
 

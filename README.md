@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The best fitness trackers to buy right now](https://www.theverge.com/22985108/best-fitness-tracker)
  - [Trump’s first 100 days: all the news affecting the tech industry](https://www.theverge.com/24348851/donald-trump-presidency-tech-science-news)
  - [Trump administration adds anti-trans notices to restored websites](https://www.theverge.com/news/613308/trump-transgender-notice-restored-webpages-cdc-fda)
  - [Google deactivates an Android feature that crowdsources device sensor data to provide earthquake warnings in Brazil after mistakenly sending notifications &lpar;Taylor Kerns/Android Police&rpar;](http://www.techmeme.com/250214/p25#a250214p25)
- - [Mastodon will add quote posts, even though some users don&amp;#8217;t want them](https://www.theverge.com/news/613376/mastodon-quote-posts-update)
- - [The best indie games we’re playing right now](https://www.theverge.com/24339574/indie-games-recommendations-pc-switch-steam-deck-best-new-hidden-gems)<!-- TECH:END -->
+ - [Mastodon will add quote posts, even though some users don&amp;#8217;t want them](https://www.theverge.com/news/613376/mastodon-quote-posts-update)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

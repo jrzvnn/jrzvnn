@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [How to unplug from Apple Intelligence on iOS and macOS](https://appleinsider.com/inside/apple-intelligence/tips/how-to-unplug-from-apple-intelligence-on-ios-and-macos?utm_medium=rss)
  - [Baidu says it plans to make its next-generation AI model, Ernie 4.5, open-source starting June 30, marking a major shift in strategy as competition heats up &lpar;Reuters&rpar;](http://www.techmeme.com/250213/p49#a250213p49)
  - [Alibaba to manipulate Apple Intelligence output in China for censorship](https://appleinsider.com/articles/25/02/14/alibaba-to-manipulate-apple-intelligence-output-in-china-for-censorship?utm_medium=rss)
  - [Sources: banks sold ~$4.7B of X&#39;s debt on February 13, more than the $3B they originally intended to sell, leaving ~$1B of X debt on their balance sheets &lpar;New York Times&rpar;](http://www.techmeme.com/250213/p48#a250213p48)
- - [Trump’s first 100 days: all the news affecting the tech industry](https://www.theverge.com/24348851/donald-trump-presidency-tech-science-news)
- - [The entire story of Twitter / X under Elon Musk](https://www.theverge.com/2022/4/11/23019836/elon-musk-twitter-board-of-directors-news-updates)<!-- TECH:END -->
+ - [Trump’s first 100 days: all the news affecting the tech industry](https://www.theverge.com/24348851/donald-trump-presidency-tech-science-news)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

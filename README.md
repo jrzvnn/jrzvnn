@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Sources: Dell nears a $5B deal to provide servers with Nvidia&#39;s GB200 chips for xAI&#39;s supercomputer project in Memphis &lpar;Brody Ford/Bloomberg&rpar;](http://www.techmeme.com/250214/p21#a250214p21)
  - [DOGE&#39;s Tom Krause, the US Treasury&#39;s new Fiscal Assistant Secretary, is still the CEO of Cloud Software Group; critics say it may be a conflict of interest &lpar;Vittoria Elliott/Wired&rpar;](http://www.techmeme.com/250214/p20#a250214p20)
  - [Trump’s first 100 days: all the news affecting the tech industry](https://www.theverge.com/24348851/donald-trump-presidency-tech-science-news)
  - [Treasury inspector general will investigate DOGE payments access](https://www.theverge.com/news/613121/treasury-inspector-general-gao-doge-payments-system-investigation)
- - [The inexpensive Roomba Combo j5 is over 50 percent off for Verge readers](https://www.theverge.com/good-deals/613003/irobot-roomba-combo-j5-i5-8bitdo-pro-2-controller-deal-sale)
- - [TikTok isn’t out of the woods yet](https://www.theverge.com/command-line-newsletter/613219/tiktok-ban-ceo-all-hands)<!-- TECH:END -->
+ - [The inexpensive Roomba Combo j5 is over 50 percent off for Verge readers](https://www.theverge.com/good-deals/613003/irobot-roomba-combo-j5-i5-8bitdo-pro-2-controller-deal-sale)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

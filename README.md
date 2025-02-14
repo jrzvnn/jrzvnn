@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Best Kindle Accessories &lpar;2025&rpar;: Kindle Cases, Straps, Charms](https://www.wired.com/gallery/best-kindle-accessories/)
  - [Sources: China&#39;s President Xi will chair a symposium on February 17 to boost private sector sentiment, with Tencent CEO Pony Ma and other tech execs attending &lpar;Reuters&rpar;](http://www.techmeme.com/250214/p8#a250214p8)
  - [The Best Presidents’ Day Mattress Deals &lpar;and Bedding Too!&rpar;](https://www.wired.com/story/presidents-day-mattress-deals-2025/)
  - [Beyerdynamic Aventho 300 Review: Great Sound, Steep Price](https://www.wired.com/review/beyerdynamic-aventho-300/)
- - [Apple&#39;s robot Pixar lamp, iPhone SE 4, and Apple TV+ on Android, on the AppleInsider Podcast](https://appleinsider.com/articles/25/02/14/apples-robot-pixar-lamp-iphone-se-4-and-apple-tv-on-android-on-the-appleinsider-podcast?utm_medium=rss)
- - [Sources: Mark Zuckerberg&#39;s overtures to President Trump have unsettled employees and are part of an effort to shift antitrust scrutiny off Meta and onto Apple &lpar;Jonathan Vanian/CNBC&rpar;](http://www.techmeme.com/250214/p7#a250214p7)<!-- TECH:END -->
+ - [Apple&#39;s robot Pixar lamp, iPhone SE 4, and Apple TV+ on Android, on the AppleInsider Podcast](https://appleinsider.com/articles/25/02/14/apples-robot-pixar-lamp-iphone-se-4-and-apple-tv-on-android-on-the-appleinsider-podcast?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

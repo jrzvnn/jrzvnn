@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [If you still need a reason to change browser...](http://9gag.com/gag/a0eoGxd)
  - 😝 [The Audacity](http://9gag.com/gag/aKG1Zeg)
- - 💣 [2010 vs 2025](http://9gag.com/gag/a9yzeQj)
- - 😝 [F**k Ubisoft](http://9gag.com/gag/aryWD76)
- - 👉 [Claps](http://9gag.com/gag/awygpoQ)<!-- MEMES:END -->
+ - 😝 [2010 vs 2025](http://9gag.com/gag/a9yzeQj)
+ - 💣 [F**k Ubisoft](http://9gag.com/gag/aryWD76)
+ - 😝 [Claps](http://9gag.com/gag/awygpoQ)
+ - 👉 [Fill or kill](http://9gag.com/gag/ayNqr9b)<!-- MEMES:END -->
 
 ---
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [O_o](http://9gag.com/gag/apR17BD)
- - 😝 [His crazy and cynical laugh](http://9gag.com/gag/ajP7MxR)
- - 💣 [Is it true?](http://9gag.com/gag/aGyL6Dz)
- - 😝 [How I imagine word `stupidity` looks.](http://9gag.com/gag/azx5w7B)
- - 👉 [Well that escalated quickly](http://9gag.com/gag/aQzgKP7)<!-- MEMES:END -->
+ - 😝 [Michael Jackson only agreed to the super bowl halftime show for one reason: charity. To this day he remains the only artist to use the mega platform NFL Superbowl for this purpose. This was when he commanding the entire stadium to express solidarity with the children of the world](http://9gag.com/gag/aW4pAb4)
+ - 😝 [Guy swallowed and spitted out by a whale in Chile &lpar;slow motion video&rpar;](http://9gag.com/gag/avyWVWd)
+ - 💣 [O_o](http://9gag.com/gag/apR17BD)
+ - 😝 [What do you prefer?](http://9gag.com/gag/axyWQ9p)
+ - 👉 [How I imagine word `stupidity` looks.](http://9gag.com/gag/azx5w7B)<!-- MEMES:END -->
 
 ---
 

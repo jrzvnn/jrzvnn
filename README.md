@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Italy accuses Amazon of evading &amp;euro;1.2B in VAT payments; sources: the claim is linked to the sale of goods from China and other non-EU countries from 2019 to 2021 &lpar;Financial Times&rpar;](http://www.techmeme.com/250214/p14#a250214p14)
  - [Nosferatu is making its Peacock streaming debut next week](https://www.theverge.com/news/613067/nosferatu-peacock-streaming-release-date)
  - [Trump’s first 100 days: all the news affecting the tech industry](https://www.theverge.com/24348851/donald-trump-presidency-tech-science-news)
  - [US tariffs: how Trump’s tax is hitting Big Tech and beyond](https://www.theverge.com/604742/trump-tariffs-canada-mexico-china-updates)
- - [You can get a 55-inch Hisense U7 for under $500](https://www.theverge.com/good-deals/612904/hisense-u7-google-tv-presidents-day-deal-sale)
- - [Apple&#39;s M4 Max 16-inch MacBook Pro with nano-texture is $250 off, in stock](https://appleinsider.com/articles/25/02/13/apples-m4-max-16-inch-macbook-pro-with-nano-texture-is-250-off-in-stock?utm_medium=rss)<!-- TECH:END -->
+ - [You can get a 55-inch Hisense U7 for under $500](https://www.theverge.com/good-deals/612904/hisense-u7-google-tv-presidents-day-deal-sale)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

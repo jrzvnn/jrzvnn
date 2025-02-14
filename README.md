@@ -166,10 +166,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [I was there 3,000 years ago...](http://9gag.com/gag/a1m73qw)
  - 😝 [Fill or kill](http://9gag.com/gag/ayNqr9b)
- - 💣 [Claps](http://9gag.com/gag/awygpoQ)
- - 😝 [I&#39;m sure there was a rat among them](http://9gag.com/gag/ayNqK2W)
+ - 😝 [Claps](http://9gag.com/gag/awygpoQ)
+ - 💣 [I&#39;m sure there was a rat among them](http://9gag.com/gag/ayNqK2W)
+ - 😝 [I was there 3,000 years ago...](http://9gag.com/gag/a1m73qw)
  - 👉 [Random 3yo memes.](http://9gag.com/gag/amoW47y)<!-- MEMES:END -->
 
 ---

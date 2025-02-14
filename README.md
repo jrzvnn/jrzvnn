@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Xiaomi&amp;#8217;s 15 Ultra looks a lot like a Leica in new leaks](https://www.theverge.com/news/612895/xiaomi-15-ultra-leak-specs-images-leica)
+ - [Filing: Nvidia cut its Arm stake by 43.8% to 1.1M shares in Q4, valuing its remaining stake at ~$181M as of Feb. 13, and discloses a position in China&#39;s WeRide &lpar;Jaspreet Singh/Reuters&rpar;](http://www.techmeme.com/250214/p11#a250214p11)
+ - [Apple Vision Pro&#39;s new NBA 3D games are just the start of something greater](https://appleinsider.com/articles/25/02/14/apple-vision-pros-new-nba-3d-games-are-just-the-start-of-something-greater?utm_medium=rss)
  - [Kagi’s search engine adds a more private way to search](https://www.theverge.com/news/612910/kagi-search-engine-privacy-pass)
- - [More Tesla showroom protests planned for this weekend](https://www.theverge.com/news/612912/tesla-protest-showroom-vandalism-elon-musk-doge)
- - [The DOGE Squad Is Squandering a Once-in-a-Lifetime Opportunity](https://www.wired.com/story/plaintext-elon-musk-doge-youth-squad/)
- - [Zepp Clarity Omni, One, Pixie Review: Lackluster Hearing Aids](https://www.wired.com/story/zepp-clarity-omni-clarity-one-and-clarity-pixie-hearing-aids-review/)
- - [The best iPad to buy](https://www.theverge.com/23639378/best-ipad-apple-buy-model-price)<!-- TECH:END -->
+ - [More Tesla showroom protests planned for this weekend](https://www.theverge.com/news/612912/tesla-protest-showroom-vandalism-elon-musk-doge)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

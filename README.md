@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Finally fixed](http://9gag.com/gag/apR1XR8)
- - 😝 [If you still need a reason to change browser...](http://9gag.com/gag/a0eoGxd)
- - 💣 [The Audacity](http://9gag.com/gag/aKG1Zeg)
- - 😝 [2010 vs 2025](http://9gag.com/gag/a9yzeQj)
- - 👉 [Claps](http://9gag.com/gag/awygpoQ)<!-- MEMES:END -->
+ - 😝 [Fill or kill](http://9gag.com/gag/ayNqr9b)
+ - 😝 [That&#39;s Cleveland](http://9gag.com/gag/aPAxLgQ)
+ - 💣 [Fastest time to mentally add 100 four-digit numbers](http://9gag.com/gag/aE0MjLG)
+ - 😝 [Relatable](http://9gag.com/gag/aVvgrPn)
+ - 👉 [Astronaut Chris Hadfield: &#39;It&#39;s Possible To Get Stuck Floating In The Space Station If You Can&#39;t Reach A Wall&#39;](http://9gag.com/gag/agmQwEK)<!-- MEMES:END -->
 
 ---
 

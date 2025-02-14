@@ -167,10 +167,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [3 Jeeps destroyed in 3 seconds](http://9gag.com/gag/aZZn5rX)
- - 😝 [It&#39;s the same thing, innit?](http://9gag.com/gag/a2vMpXp)
- - 💣 [Today I saw a few British people in London.](http://9gag.com/gag/a4PnyyZ)
  - 😝 [In 2005, New Mexico resident Stephen Slevin was arrested for a suspected DUI before being placed in solitary confinement for 2 years without ever being prosecuted when prison authorities claimed they `forgot` about the man.](http://9gag.com/gag/aByZ5L1)
- - 👉 [How I imagine word `stupidity` looks.](http://9gag.com/gag/azx5w7B)<!-- MEMES:END -->
+ - 💣 [It&#39;s the same thing, innit?](http://9gag.com/gag/a2vMpXp)
+ - 😝 [How I imagine word `stupidity` looks.](http://9gag.com/gag/azx5w7B)
+ - 👉 [Astronaut Chris Hadfield: &#39;It&#39;s Possible To Get Stuck Floating In The Space Station If You Can&#39;t Reach A Wall&#39;](http://9gag.com/gag/agmQwEK)<!-- MEMES:END -->
 
 ---
 

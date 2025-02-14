@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Meta’s Ray-Bans have sold two million pairs — its maker is prepping to sell 10M each year](https://www.theverge.com/news/613292/meta-ray-ban-2-million-10-million-capacity-subscription-essilor-luxottica-earnings)
+ - [The AI Action Summit in Paris was all about investment and competition as the Trump administration made even a token acknowledgment of AI safety unacceptable &lpar;Madeline Renbarger/Newcomer&rpar;](http://www.techmeme.com/250214/p22#a250214p22)
  - [Senate Republicans introduce bills to make EVs more expensive](https://www.theverge.com/news/613296/senate-bills-ev-tax-credit-kill-fee-highway-republican)
  - [The EV tax credit: all the cars, rules, and updates](https://www.theverge.com/2023/4/20/23691597/ev-tax-credit-eligible-vehicles-battery-irs-china)
- - [Trump’s first 100 days: all the news affecting the tech industry](https://www.theverge.com/24348851/donald-trump-presidency-tech-science-news)
- - [Netflix says its brief Apple TV app integration was a mistake](https://www.theverge.com/news/613307/netflix-apple-tv-app-support-mistake)
- - [Sources: Dell nears a $5B deal to provide servers with Nvidia&#39;s GB200 chips for xAI&#39;s supercomputer project in Memphis &lpar;Brody Ford/Bloomberg&rpar;](http://www.techmeme.com/250214/p21#a250214p21)<!-- TECH:END -->
+ - [Trump’s first 100 days: all the news affecting the tech industry](https://www.theverge.com/24348851/donald-trump-presidency-tech-science-news)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

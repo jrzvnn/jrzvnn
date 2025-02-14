@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Microsoft Outlook&amp;#8217;s new minimize button makes mobile emails much easier](https://www.theverge.com/news/612853/microsoft-outlook-mobile-minimize-button-email-drafts)
- - [Open source code repository says &amp;#8216;far-right forces&amp;#8217; are behind massive spam attacks](https://www.theverge.com/news/612857/codeberg-open-source-code-far-right-forces-spam)
- - [Sources: the White House plans to renegotiate some Chips Act awards after reassessing requirements, and has signaled delays to some upcoming disbursements &lpar;Reuters&rpar;](http://www.techmeme.com/250214/p5#a250214p5)
- - [Elon Musk’s Toxicity Could Spell Disaster for Tesla](https://www.wired.com/story/elon-musks-toxicity-could-spell-disaster-for-tesla/)
- - [Federal EV Charger Freeze Sows Chaos, but Chargers Are Still Getting Built](https://www.wired.com/story/ev-charger-freeze-sows-chaos-but-chargers-are-still-getting-built/)<!-- TECH:END -->
+ - [The doge.gov website tracking Elon Musk&#39;s cuts to the federal government pulls from a database editable by anyone, say two sources who found the vulnerability &lpar;Jason Koebler/404 Media&rpar;](http://www.techmeme.com/250214/p6#a250214p6)
+ - [Trump’s first 100 days: all the news affecting the tech industry](https://www.theverge.com/24348851/donald-trump-presidency-tech-science-news)
+ - [Elon Musk&amp;#8217;s DOGE website has been defaced because anyone can edit it](https://www.theverge.com/news/612865/doge-government-website-database-security-open)
+ - [From Swipe to Sweat: How Athletic Clubs Replaced Dating Apps](https://www.wired.com/story/dating-irl-athletic-clubs-gyms/)
+ - [Confessions of a Gay Priest on Hookup Apps](https://www.wired.com/story/confessions-of-a-gay-priest/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [The Audacity](http://9gag.com/gag/aKG1Zeg)
- - 😝 [2010 vs 2025](http://9gag.com/gag/a9yzeQj)
- - 💣 [F**k Ubisoft](http://9gag.com/gag/aryWD76)
- - 😝 [Claps](http://9gag.com/gag/awygpoQ)
- - 👉 [Fill or kill](http://9gag.com/gag/ayNqr9b)<!-- MEMES:END -->
+ - 😝 [Today I saw a few British people in London.](http://9gag.com/gag/a4PnyyZ)
+ - 😝 [It&#39;s the same thing, innit?](http://9gag.com/gag/a2vMpXp)
+ - 💣 [Dude decide to shovel his driveway at 4 am receives a Canadian neighborly warning](http://9gag.com/gag/aNDLbA3)
+ - 😝 [I need a faptain here.](http://9gag.com/gag/ae9485q)
+ - 👉 [Astronaut Chris Hadfield: &#39;It&#39;s Possible To Get Stuck Floating In The Space Station If You Can&#39;t Reach A Wall&#39;](http://9gag.com/gag/agmQwEK)<!-- MEMES:END -->
 
 ---
 

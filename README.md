@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [What do you prefer?](http://9gag.com/gag/axyWQ9p)
- - 😝 [The show must go on](http://9gag.com/gag/aMVdN0X)
- - 💣 [Well that escalated quickly](http://9gag.com/gag/aQzgKP7)
+ - 😝 [Yeah school girl](http://9gag.com/gag/aNDLGNA)
  - 😝 [Imagine being this fragile](http://9gag.com/gag/aMVdN5M)
- - 👉 [We all know what the top comment is going to be](http://9gag.com/gag/aGyLvwX)<!-- MEMES:END -->
+ - 💣 [Well that escalated quickly](http://9gag.com/gag/aQzgKP7)
+ - 😝 [Is it true?](http://9gag.com/gag/aGyL6Dz)
+ - 👉 [The different productions between a solar tracker and fixed mount panel](http://9gag.com/gag/ae94yp5)<!-- MEMES:END -->
 
 ---
 

@@ -158,10 +158,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- TECH:START -->
  - [Trump’s first 100 days: all the news affecting the tech industry](https://www.theverge.com/24348851/donald-trump-presidency-tech-science-news)
+ - [Amazon’s killing a feature that let you download and backup Kindle books](https://www.theverge.com/news/612898/amazon-removing-kindle-book-download-transfer-usb)
+ - [Sources: around 20 technologists at CFPB were fired on Thursday, gutting a team that specialized in understanding Big Tech&#39;s entrance into financial products &lpar;Lauren Feiner/The Verge&rpar;](http://www.techmeme.com/250214/p16#a250214p16)
  - [US tariffs: how Trump’s tax is hitting Big Tech and beyond](https://www.theverge.com/604742/trump-tariffs-canada-mexico-china-updates)
- - [Small businesses are already feeling Trump’s tariffs](https://www.theverge.com/news/613111/trump-import-tariffs-china-small-businesses)
- - [Instagram is testing a dislike button for comments; Instagram will not show a dislike count and dislikes may eventually count toward ranking comments &lpar;Ivan Mehta/TechCrunch&rpar;](http://www.techmeme.com/250214/p15#a250214p15)
- - [Elon Musk’s Man in the Treasury Is Still Holding Down His Day Job as Software CEO](https://www.wired.com/story/musk-krause-treasury-bfs-conflict-of-interest/)<!-- TECH:END -->
+ - [Small businesses are already feeling Trump’s tariffs](https://www.theverge.com/news/613111/trump-import-tariffs-china-small-businesses)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

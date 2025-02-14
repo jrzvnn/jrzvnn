@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Trump’s first 100 days: all the news affecting the tech industry](https://www.theverge.com/24348851/donald-trump-presidency-tech-science-news)
+ - [US tariffs: how Trump’s tax is hitting Big Tech and beyond](https://www.theverge.com/604742/trump-tariffs-canada-mexico-china-updates)
+ - [Small businesses are already feeling Trump’s tariffs](https://www.theverge.com/news/613111/trump-import-tariffs-china-small-businesses)
  - [Instagram is testing a dislike button for comments; Instagram will not show a dislike count and dislikes may eventually count toward ranking comments &lpar;Ivan Mehta/TechCrunch&rpar;](http://www.techmeme.com/250214/p15#a250214p15)
- - [Elon Musk’s Man in the Treasury Is Still Holding Down His Day Job as Software CEO](https://www.wired.com/story/musk-krause-treasury-bfs-conflict-of-interest/)
- - [Italy accuses Amazon of evading &amp;euro;1.2B in VAT payments; sources: the claim is linked to the sale of goods from China and other non-EU countries from 2019 to 2021 &lpar;Financial Times&rpar;](http://www.techmeme.com/250214/p14#a250214p14)
- - [Nosferatu is making its Peacock streaming debut next week](https://www.theverge.com/news/613067/nosferatu-peacock-streaming-release-date)
- - [Trump’s first 100 days: all the news affecting the tech industry](https://www.theverge.com/24348851/donald-trump-presidency-tech-science-news)<!-- TECH:END -->
+ - [Elon Musk’s Man in the Treasury Is Still Holding Down His Day Job as Software CEO](https://www.wired.com/story/musk-krause-treasury-bfs-conflict-of-interest/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

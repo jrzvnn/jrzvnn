@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Ubisoft says its revenue for the nine months ending December 31, 2024 fell 31.4% YoY to &amp;euro;990M, with net booking down 34.8% to &amp;euro;944M, but is optimistic about Q4 &lpar;Sophie McEvoy/GamesIndustry.biz&rpar;](http://www.techmeme.com/250214/p10#a250214p10)
  - [UK recasting its AI Safety Institute as AI Security Institute, with bias concerns cut out, came after JD Vance&#39;s speech criticizing &quot;hand-wringing about safety&quot; &lpar;Tom Bristow/Politico&rpar;](http://www.techmeme.com/250214/p9#a250214p9)
  - [Elon Musk: agent of chaos](https://www.theverge.com/the-vergecast/612923/elon-musk-doge-openai-vergecast)
  - [Netflix finally decides to play nice and support the Apple TV app](https://www.theverge.com/news/612911/netflix-apple-tv-app-support-integration)
- - [Trump’s first 100 days: all the news affecting the tech industry](https://www.theverge.com/24348851/donald-trump-presidency-tech-science-news)
- - [The technology team at financial regulator CFPB has been gutted](https://www.theverge.com/policy/612933/cfpb-tech-team-gutted-trump-doge-elon-musk)<!-- TECH:END -->
+ - [Trump’s first 100 days: all the news affecting the tech industry](https://www.theverge.com/24348851/donald-trump-presidency-tech-science-news)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

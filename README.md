@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The Best Presidents’ Day Mattress Deals &lpar;and Bedding Too!&rpar;](https://www.wired.com/story/presidents-day-mattress-deals-2025/)
+ - [Beyerdynamic Aventho 300 Review: Great Sound, Steep Price](https://www.wired.com/review/beyerdynamic-aventho-300/)
+ - [Apple&#39;s robot Pixar lamp, iPhone SE 4, and Apple TV+ on Android, on the AppleInsider Podcast](https://appleinsider.com/articles/25/02/14/apples-robot-pixar-lamp-iphone-se-4-and-apple-tv-on-android-on-the-appleinsider-podcast?utm_medium=rss)
  - [Sources: Mark Zuckerberg&#39;s overtures to President Trump have unsettled employees and are part of an effort to shift antitrust scrutiny off Meta and onto Apple &lpar;Jonathan Vanian/CNBC&rpar;](http://www.techmeme.com/250214/p7#a250214p7)
- - [65 Best Podcasts &lpar;2025&rpar;: True Crime, Culture, Science, Fiction](https://www.wired.com/story/best-podcasts/)
- - [10 Years After ‘Stucky,’ “Captain America: Brave New World” Signals a Big Shift in Marvel Fandom](https://www.wired.com/story/captain-america-brave-new-world-fandom-fanfic-mcu/)
- - [Apple TV app finally starts including Netflix series](https://appleinsider.com/articles/25/02/14/apple-tv-app-finally-starts-including-netflix-series?utm_medium=rss)
- - [15 Best Wireless Earbuds, Tested and Reviewed &lpar;2025&rpar;](https://www.wired.com/gallery/best-wirefree-earbuds/)<!-- TECH:END -->
+ - [65 Best Podcasts &lpar;2025&rpar;: True Crime, Culture, Science, Fiction](https://www.wired.com/story/best-podcasts/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

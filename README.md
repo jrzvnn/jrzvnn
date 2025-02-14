@@ -166,10 +166,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Tall women](http://9gag.com/gag/a2vMgzZ)
+ - 😝 [You trying to get choke slammed?](http://9gag.com/gag/aXPL1Wv)
  - 😝 [Relatable](http://9gag.com/gag/aVvgrPn)
- - 💣 [Let&#39;s test if 9gag really has free speech](http://9gag.com/gag/aXPLz72)
- - 😝 [Finally fixed](http://9gag.com/gag/apR1XR8)
+ - 💣 [Finally fixed](http://9gag.com/gag/apR1XR8)
+ - 😝 [Let&#39;s test if 9gag really has free speech](http://9gag.com/gag/aXPLz72)
  - 👉 [The Audacity](http://9gag.com/gag/aKG1Zeg)<!-- MEMES:END -->
 
 ---

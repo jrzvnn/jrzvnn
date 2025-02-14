@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Stuck in the snow](http://9gag.com/gag/axyW85Y)
- - 😝 [Guy swallowed and spitted out by a whale in Chile &lpar;slow motion video&rpar;](http://9gag.com/gag/avyWVWd)
- - 💣 [2010 vs 2025](http://9gag.com/gag/a9yzeQj)
+ - 😝 [What do you prefer?](http://9gag.com/gag/axyWQ9p)
  - 😝 [O_o](http://9gag.com/gag/apR17BD)
- - 👉 [We all know what the top comment is going to be](http://9gag.com/gag/aGyLvwX)<!-- MEMES:END -->
+ - 💣 [Yeah school girl](http://9gag.com/gag/aNDLGNA)
+ - 😝 [2010 vs 2025](http://9gag.com/gag/a9yzeQj)
+ - 👉 [The different productions between a solar tracker and fixed mount panel](http://9gag.com/gag/ae94yp5)<!-- MEMES:END -->
 
 ---
 

@@ -158,10 +158,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- TECH:START -->
  - [Trump’s first 100 days: all the news affecting the tech industry](https://www.theverge.com/24348851/donald-trump-presidency-tech-science-news)
+ - [The best indie games we’re playing right now](https://www.theverge.com/24339574/indie-games-recommendations-pc-switch-steam-deck-best-new-hidden-gems)
  - [Climate group that called for ‘free Palestine’ stripped of federal funding](https://www.theverge.com/news/613135/climate-justice-alliance-funding-biden-trump-epa)
  - [Sorry, Netflix support isn&#39;t coming to the Apple TV app](https://appleinsider.com/articles/25/02/14/sorry-netflix-support-isnt-coming-to-the-apple-tv-app?utm_medium=rss)
- - [Source: xAI is canvassing potential investors, including Sequoia Capital and a16z, for a roughly $10B funding round that would value the company at about $75B &lpar;Gillian Tan/Bloomberg&rpar;](http://www.techmeme.com/250214/p24#a250214p24)
- - [Source: TSMC is considering taking a controlling stake in Intel&#39;s factories at the request of Trump&#39;s team; it is unclear whether Intel is open to a transaction &lpar;Bloomberg&rpar;](http://www.techmeme.com/250214/p23#a250214p23)<!-- TECH:END -->
+ - [Source: xAI is canvassing potential investors, including Sequoia Capital and a16z, for a roughly $10B funding round that would value the company at about $75B &lpar;Gillian Tan/Bloomberg&rpar;](http://www.techmeme.com/250214/p24#a250214p24)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

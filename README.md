@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Microsoft Outlook&amp;#8217;s new minimize button makes mobile emails much easier](https://www.theverge.com/news/612853/microsoft-outlook-mobile-minimize-button-email-drafts)
  - [Open source code repository says &amp;#8216;far-right forces&amp;#8217; are behind massive spam attacks](https://www.theverge.com/news/612857/codeberg-open-source-code-far-right-forces-spam)
  - [Sources: the White House plans to renegotiate some Chips Act awards after reassessing requirements, and has signaled delays to some upcoming disbursements &lpar;Reuters&rpar;](http://www.techmeme.com/250214/p5#a250214p5)
  - [Elon Musk’s Toxicity Could Spell Disaster for Tesla](https://www.wired.com/story/elon-musks-toxicity-could-spell-disaster-for-tesla/)
- - [Federal EV Charger Freeze Sows Chaos, but Chargers Are Still Getting Built](https://www.wired.com/story/ev-charger-freeze-sows-chaos-but-chargers-are-still-getting-built/)
- - [The European Commission&#39;s digital chief Henna Virkkunen says the EU is easing tech rules to boost AI investments, not due to pressure from US Big Tech or Trump &lpar;Financial Times&rpar;](http://www.techmeme.com/250214/p4#a250214p4)<!-- TECH:END -->
+ - [Federal EV Charger Freeze Sows Chaos, but Chargers Are Still Getting Built](https://www.wired.com/story/ev-charger-freeze-sows-chaos-but-chargers-are-still-getting-built/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

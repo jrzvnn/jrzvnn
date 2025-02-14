@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The 7 Best Scented Candles &lpar;2025&rpar;](https://www.wired.com/gallery/best-scented-candles/)
+ - [UK recasting its AI Safety Institute as AI Security Institute, with bias concerns cut out, came after JD Vance&#39;s speech criticizing &quot;hand-wringing about safety&quot; &lpar;Tom Bristow/Politico&rpar;](http://www.techmeme.com/250214/p9#a250214p9)
+ - [Elon Musk: agent of chaos](https://www.theverge.com/the-vergecast/612923/elon-musk-doge-openai-vergecast)
+ - [Netflix finally decides to play nice and support the Apple TV app](https://www.theverge.com/news/612911/netflix-apple-tv-app-support-integration)
  - [Trump’s first 100 days: all the news affecting the tech industry](https://www.theverge.com/24348851/donald-trump-presidency-tech-science-news)
- - [Elden Ring Nightreign&amp;#8217;s director isn&amp;#8217;t sorry about how stressful it is](https://www.theverge.com/games/612715/elden-ring-nightreign-game-director-interview)
- - [Open-source code repository says &amp;#8216;far-right forces&amp;#8217; are behind massive spam attacks](https://www.theverge.com/news/612857/codeberg-open-source-code-far-right-forces-spam)
- - [Best Kindle Accessories &lpar;2025&rpar;: Kindle Cases, Straps, Charms](https://www.wired.com/gallery/best-kindle-accessories/)<!-- TECH:END -->
+ - [The technology team at financial regulator CFPB has been gutted](https://www.theverge.com/policy/612933/cfpb-tech-team-gutted-trump-doge-elon-musk)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

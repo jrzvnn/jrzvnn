@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [After losing this hand, he quit poker and decided to devote his life to science, specifically fusion reactors](http://9gag.com/gag/aLnLEKz)
- - 😝 [Let&#39;s educate the world through memes.](http://9gag.com/gag/aGyL6OG)
- - 💣 [The different productions between a solar tracker and fixed mount panel](http://9gag.com/gag/ae94yp5)
- - 😝 [Michael Jackson only agreed to the super bowl halftime show for one reason: charity. To this day he remains the only artist to use the mega platform NFL Superbowl for this purpose. This was when he commanding the entire stadium to express solidarity with the children of the world](http://9gag.com/gag/aW4pAb4)
- - 👉 [We all know what the top comment is going to be](http://9gag.com/gag/aGyLvwX)<!-- MEMES:END -->
+ - 😝 [Tall women](http://9gag.com/gag/a2vMgzZ)
+ - 😝 [Relatable](http://9gag.com/gag/aVvgrPn)
+ - 💣 [Let&#39;s test if 9gag really has free speech](http://9gag.com/gag/aXPLz72)
+ - 😝 [Finally fixed](http://9gag.com/gag/apR1XR8)
+ - 👉 [The Audacity](http://9gag.com/gag/aKG1Zeg)<!-- MEMES:END -->
 
 ---
 

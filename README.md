@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The 7 Best Scented Candles &lpar;2025&rpar;](https://www.wired.com/gallery/best-scented-candles/)
+ - [Trump’s first 100 days: all the news affecting the tech industry](https://www.theverge.com/24348851/donald-trump-presidency-tech-science-news)
+ - [Elden Ring Nightreign&amp;#8217;s director isn&amp;#8217;t sorry about how stressful it is](https://www.theverge.com/games/612715/elden-ring-nightreign-game-director-interview)
  - [Open-source code repository says &amp;#8216;far-right forces&amp;#8217; are behind massive spam attacks](https://www.theverge.com/news/612857/codeberg-open-source-code-far-right-forces-spam)
- - [Best Kindle Accessories &lpar;2025&rpar;: Kindle Cases, Straps, Charms](https://www.wired.com/gallery/best-kindle-accessories/)
- - [Sources: China&#39;s President Xi will chair a symposium on February 17 to boost private sector sentiment, with Tencent CEO Pony Ma and other tech execs attending &lpar;Reuters&rpar;](http://www.techmeme.com/250214/p8#a250214p8)
- - [The Best Presidents’ Day Mattress Deals &lpar;and Bedding Too!&rpar;](https://www.wired.com/story/presidents-day-mattress-deals-2025/)
- - [Beyerdynamic Aventho 300 Review: Great Sound, Steep Price](https://www.wired.com/review/beyerdynamic-aventho-300/)<!-- TECH:END -->
+ - [Best Kindle Accessories &lpar;2025&rpar;: Kindle Cases, Straps, Charms](https://www.wired.com/gallery/best-kindle-accessories/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

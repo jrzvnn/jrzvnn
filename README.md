@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Paternoster Elevator &lpar;or continuous elevator&rpar; does not have doors and never stops](http://9gag.com/gag/apRRjEb)
- - 😝 [She Luigi Mangionied a Pdo.](http://9gag.com/gag/ae99y1B)
- - 💣 [Trump, in less than 3 minutes, negotiates LA mayor from 18 months to tomorrow morning on when residents can return to their properties.](http://9gag.com/gag/aPAAzLQ)
- - 😝 [It worked!](http://9gag.com/gag/aXPPGZP)
- - 👉 [It&#39;s hammer time!](http://9gag.com/gag/aAyyNRp)<!-- MEMES:END -->
+ - 😝 [Tall women](http://9gag.com/gag/a2vMgzZ)
+ - 😝 [Relatable](http://9gag.com/gag/aVvgrPn)
+ - 💣 [Finally fixed](http://9gag.com/gag/apR1XR8)
+ - 😝 [Let&#39;s test if 9gag really has free speech](http://9gag.com/gag/aXPLz72)
+ - 👉 [If you still need a reason to change browser...](http://9gag.com/gag/a0eoGxd)<!-- MEMES:END -->
 
 ---
 

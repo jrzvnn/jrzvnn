@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Best MacBook Accessories We’ve Tested and Reviewed &lpar;2025&rpar;](https://www.wired.com/story/best-macbook-accessories/)
+ - [While Waiting is a playful reminder of the joys of boredom](https://www.theverge.com/games-review/613495/while-waiting-review-switch-pc)
  - [Does Chocolate Go Bad? How to Store It, Freeze it, and Ship It](https://www.wired.com/story/how-to-store-chocolate/)
  - [For-Profit Companies Can’t Easily Replace NOAA’s Weather-Forecasting Prowess](https://www.wired.com/story/noaas-vast-public-weather-data-powers-the-local-forecasts-on-your-phone-and-tv-a-private-company-alone-couldnt-match-it/)
- - [Best Noise-Canceling Headphones &lpar;2025&rpar;: Over-Ears, Wireless Earbuds, Workout Pairs](https://www.wired.com/gallery/best-noise-canceling-headphones/)
- - [La Liga Soccer Livestream: How to Watch Osasuna vs. Real Madrid From Anywhere](https://www.cnet.com/tech/services-and-software/la-liga-soccer-livestream-how-to-watch-osasuna-vs-real-madrid-from-anywhere/#ftag=CAD590a51e)
- - [Best Internet Providers in Carson, California](https://www.cnet.com/home/internet/best-internet-providers-in-carson-ca/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Best Noise-Canceling Headphones &lpar;2025&rpar;: Over-Ears, Wireless Earbuds, Workout Pairs](https://www.wired.com/gallery/best-noise-canceling-headphones/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

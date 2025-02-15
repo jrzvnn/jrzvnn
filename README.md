@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Big Ron with his 90KG bells in each hand. 200 solid ass pounds each.](http://9gag.com/gag/aE0M4mK)
- - 😝 [...](http://9gag.com/gag/azx5W5N)
+ - 😝 [The UK voted to be conquered](http://9gag.com/gag/amoW4Y2)
+ - 😝 [German grandpa triggered crowd of leftist protesters with his flag on the balcony](http://9gag.com/gag/ajP7zZp)
  - 💣 [Today I saw a few British people in London.](http://9gag.com/gag/a4PnyyZ)
- - 😝 [Somehow Beyonce still winning the Grammy](http://9gag.com/gag/a1m73D2)
- - 👉 [Meanwhile in Germany, at protest against AfD migrant man threatened to behead reporter for questions offending Islam while white women in the background chanting &#39;Nazis out&#39;](http://9gag.com/gag/avyWMRd)<!-- MEMES:END -->
+ - 😝 [Big Ron with his 90KG bells in each hand. 200 solid ass pounds each.](http://9gag.com/gag/aE0M4mK)
+ - 👉 [Repost better than bot](http://9gag.com/gag/aGyLQvw)<!-- MEMES:END -->
 
 ---
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Random 3yo memes.](http://9gag.com/gag/amoW47y)
- - 😝 [More educational cat meme](http://9gag.com/gag/a0eoyNn)
- - 💣 [1960s refrigerator](http://9gag.com/gag/ae948nj)
- - 😝 [I was there Gandalf...](http://9gag.com/gag/a6ZDYRb)
- - 👉 [Somehow Beyonce still winning the Grammy](http://9gag.com/gag/a1m73D2)<!-- MEMES:END -->
+ - 😝 [Today I saw a few British people in London.](http://9gag.com/gag/a4PnyyZ)
+ - 😝 [...](http://9gag.com/gag/azx5W5N)
+ - 💣 [Astronaut Chris Hadfield: &#39;It&#39;s Possible To Get Stuck Floating In The Space Station If You Can&#39;t Reach A Wall&#39;](http://9gag.com/gag/agmQwEK)
+ - 😝 [Now that is some serious level of skill](http://9gag.com/gag/aRBLbjj)
+ - 👉 [Meanwhile in Germany, at protest against AfD migrant man threatened to behead reporter for questions offending Islam while white women in the background chanting &#39;Nazis out&#39;](http://9gag.com/gag/avyWMRd)<!-- MEMES:END -->
 
 ---
 

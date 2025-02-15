@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Edward Snowden to be Pardoned....](http://9gag.com/gag/ajP7wRg)
  - 😝 [After losing this hand, he quit poker and decided to devote his life to science, specifically fusion reactors](http://9gag.com/gag/aLnLEKz)
- - 💣 [That&#39;s Cleveland](http://9gag.com/gag/aPAxLgQ)
- - 😝 [Astronaut Chris Hadfield: &#39;It&#39;s Possible To Get Stuck Floating In The Space Station If You Can&#39;t Reach A Wall&#39;](http://9gag.com/gag/agmQwEK)
- - 👉 [Fastest time to limbo skate under descending poles over 50m. 9.59 seconds by Shristi Dharmendra Sharma](http://9gag.com/gag/aVvg6yv)<!-- MEMES:END -->
+ - 😝 [We all know what the top comment is going to be](http://9gag.com/gag/aGyLvwX)
+ - 💣 [Fastest time to limbo skate under descending poles over 50m. 9.59 seconds by Shristi Dharmendra Sharma](http://9gag.com/gag/aVvg6yv)
+ - 😝 [Dude decide to shovel his driveway at 4 am receives a Canadian neighborly warning](http://9gag.com/gag/aNDLbA3)
+ - 👉 [It should have been me, not him!](http://9gag.com/gag/adBvzDV)<!-- MEMES:END -->
 
 ---
 

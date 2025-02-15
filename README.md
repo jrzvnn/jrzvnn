@@ -157,7 +157,7 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The website of Donald Trump&#39;s World Liberty Financial shows the crypto project has sold 24B+ of its 25B WLFI tokens after a slow start, implying sales of $1.25B &lpar;Olga Kharif/Bloomberg&rpar;](http://www.techmeme.com/250215/p6#a250215p6)
+ - [The website of President Trump&#39;s World Liberty Financial shows the crypto project sold 24B+ of its 25B WLFI tokens after a slow start, implying sales of $1.25B &lpar;Olga Kharif/Bloomberg&rpar;](http://www.techmeme.com/250215/p6#a250215p6)
  - [Zelle&#39;s payment volume crossed $1T in 2024, the most ever for a P2P platform, user base jumped 12% YoY to 151M accounts, and the total dollars sent grew 27% YoY &lpar;Hugh Son/CNBC&rpar;](http://www.techmeme.com/250215/p5#a250215p5)
  - [Tether acquires a minority stake in the iconic Italian football club Juventus, as part of a broader push to integrate digital assets into sports franchises &lpar;Emily Nicolle/Bloomberg&rpar;](http://www.techmeme.com/250215/p4#a250215p4)
  - [Identity security startup SGNL, which lets enterprises enforce policies in real-time for privileged access to systems, raised a $30M Series A led by Brightmind &lpar;Ingrid Lunden/TechCrunch&rpar;](http://www.techmeme.com/250215/p3#a250215p3)

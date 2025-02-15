@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [I was there Gandalf...](http://9gag.com/gag/a6ZDYRb)
- - 😝 [I&#39;m sure there was a rat among them](http://9gag.com/gag/ayNqK2W)
- - 💣 [1960s refrigerator](http://9gag.com/gag/ae948nj)
- - 😝 [PROTECT THEM AT ALL COST!](http://9gag.com/gag/aD27K6K)
- - 👉 [It ain&#39;t much, but it&#39;s honest vacation...](http://9gag.com/gag/aMVdMGG)<!-- MEMES:END -->
+ - 😝 [In 2005, New Mexico resident Stephen Slevin was arrested for a suspected DUI before being placed in solitary confinement for 2 years without ever being prosecuted when prison authorities claimed they `forgot` about the man.](http://9gag.com/gag/aByZ5L1)
+ - 😝 [We all know what the top comment is going to be](http://9gag.com/gag/aGyLvwX)
+ - 💣 [Astronaut Chris Hadfield: &#39;It&#39;s Possible To Get Stuck Floating In The Space Station If You Can&#39;t Reach A Wall&#39;](http://9gag.com/gag/agmQwEK)
+ - 😝 [O_o](http://9gag.com/gag/apR17BD)
+ - 👉 [It should have been me, not him!](http://9gag.com/gag/adBvzDV)<!-- MEMES:END -->
 
 ---
 

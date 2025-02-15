@@ -167,10 +167,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [It&#39;s the same thing, innit?](http://9gag.com/gag/a2vMpXp)
- - 😝 [Today I saw a few British people in London.](http://9gag.com/gag/a4PnyyZ)
- - 💣 [Living the dream](http://9gag.com/gag/a9yzgGZ)
- - 😝 [Somehow Beyonce still winning the Grammy](http://9gag.com/gag/a1m73D2)
- - 👉 [It should have been me, not him!](http://9gag.com/gag/adBvzDV)<!-- MEMES:END -->
+ - 😝 [Re-education camp for Muslims in China](http://9gag.com/gag/a6ZDYn2)
+ - 💣 [Somehow Beyonce still winning the Grammy](http://9gag.com/gag/a1m73D2)
+ - 😝 [PROTECT THEM AT ALL COST!](http://9gag.com/gag/aD27K6K)
+ - 👉 [Repost better than bot](http://9gag.com/gag/aGyLQvw)<!-- MEMES:END -->
 
 ---
 

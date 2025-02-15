@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Re-education camp for Muslims in China](http://9gag.com/gag/a6ZDYn2)
- - 😝 [Big Ron with his 90KG bells in each hand. 200 solid ass pounds each.](http://9gag.com/gag/aE0M4mK)
- - 💣 [How I imagine word `stupidity` looks.](http://9gag.com/gag/azx5w7B)
- - 😝 [It&#39;s the same thing, innit?](http://9gag.com/gag/a2vMpXp)
- - 👉 [Repost better than bot](http://9gag.com/gag/aGyLQvw)<!-- MEMES:END -->
+ - 😝 [O_o](http://9gag.com/gag/apR17BD)
+ - 😝 [Somehow Beyonce still winning the Grammy](http://9gag.com/gag/a1m73D2)
+ - 💣 [It&#39;s the same thing, innit?](http://9gag.com/gag/a2vMpXp)
+ - 😝 [Astronaut Chris Hadfield: &#39;It&#39;s Possible To Get Stuck Floating In The Space Station If You Can&#39;t Reach A Wall&#39;](http://9gag.com/gag/agmQwEK)
+ - 👉 [Someone thought this was a good idea](http://9gag.com/gag/an7Omg5)<!-- MEMES:END -->
 
 ---
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Sources: Apple plans to refresh the Vision Pro with Apple Intelligence, a new Spatial content app, and a revamped guest mode in visionOS 2.4, as early as April &lpar;Mark Gurman/Bloomberg&rpar;](http://www.techmeme.com/250215/p17#a250215p17)
  - [Hector Martin, lead of Asahi Linux distribution for Apple Silicon, resigns, citing burnout, demanding users, and Linus Torvalds&#39;s handling of Rust integration &lpar;Thomas Claburn/The Register&rpar;](http://www.techmeme.com/250215/p16#a250215p16)
  - [All the buzz about Nintendo’s Alarmo clock](https://www.theverge.com/2024/10/9/24266353/nintendo-alarmo-sound-clock)
  - [Romance scams may rise as isolation grows and generative AI helps scammers scale; the FBI says US victims lost nearly $4.5B to such scams over the past decade &lpar;Wired&rpar;](http://www.techmeme.com/250215/p15#a250215p15)
- - [The best Presidents Day sales you can already shop](https://www.theverge.com/good-deals/609704/best-presidents-day-sales-deals-2025-apple-gaming-tech)
- - [Amazon’s revamped Alexa might launch over a month after its announcement event](https://www.theverge.com/news/613821/amazon-alexa-ai-upgrade-delayed-accuracy-issues)<!-- TECH:END -->
+ - [The best Presidents Day sales you can already shop](https://www.theverge.com/good-deals/609704/best-presidents-day-sales-deals-2025-apple-gaming-tech)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

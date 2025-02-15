@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Someone thought this was a good idea](http://9gag.com/gag/an7Omg5)
- - 😝 [Astronaut Chris Hadfield: &#39;It&#39;s Possible To Get Stuck Floating In The Space Station If You Can&#39;t Reach A Wall&#39;](http://9gag.com/gag/agmQwEK)
- - 💣 [In 2005, New Mexico resident Stephen Slevin was arrested for a suspected DUI before being placed in solitary confinement for 2 years without ever being prosecuted when prison authorities claimed they `forgot` about the man.](http://9gag.com/gag/aByZ5L1)
- - 😝 [Trump during a Press Conference](http://9gag.com/gag/abAewDb)
- - 👉 [To all the ladies on 9gag &lpar;yes I assume there are&rpar;, is there any truth to this?](http://9gag.com/gag/aryW0ny)<!-- MEMES:END -->
+ - 😝 [Random 3yo memes.](http://9gag.com/gag/amoW47y)
+ - 😝 [1960s refrigerator](http://9gag.com/gag/ae948nj)
+ - 💣 [I&#39;m sure there was a rat among them](http://9gag.com/gag/ayNqK2W)
+ - 😝 [It ain&#39;t much, but it&#39;s honest vacation...](http://9gag.com/gag/aMVdMGG)
+ - 👉 [PROTECT THEM AT ALL COST!](http://9gag.com/gag/aD27K6K)<!-- MEMES:END -->
 
 ---
 

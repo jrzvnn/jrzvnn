@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [I&#39;m sure there was a rat among them](http://9gag.com/gag/ayNqK2W)
- - 😝 [I was there Gandalf...](http://9gag.com/gag/a6ZDYRb)
- - 💣 [1960s refrigerator](http://9gag.com/gag/ae948nj)
- - 😝 [PROTECT THEM AT ALL COST!](http://9gag.com/gag/aD27K6K)
- - 👉 [I was there 3,000 years ago...](http://9gag.com/gag/a1m73qw)<!-- MEMES:END -->
+ - 😝 [Somehow Beyonce still winning the Grammy](http://9gag.com/gag/a1m73D2)
+ - 😝 [O_o](http://9gag.com/gag/apR17BD)
+ - 💣 [It&#39;s the same thing, innit?](http://9gag.com/gag/a2vMpXp)
+ - 😝 [Today I saw a few British people in London.](http://9gag.com/gag/a4PnyyZ)
+ - 👉 [Repost better than bot](http://9gag.com/gag/aGyLQvw)<!-- MEMES:END -->
 
 ---
 

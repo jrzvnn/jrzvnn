@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [Random 3yo memes.](http://9gag.com/gag/amoW47y)
  - 😝 [More educational cat meme](http://9gag.com/gag/a0eoyNn)
- - 😝 [I was there Gandalf...](http://9gag.com/gag/a6ZDYRb)
  - 💣 [1960s refrigerator](http://9gag.com/gag/ae948nj)
- - 😝 [Somehow Beyonce still winning the Grammy](http://9gag.com/gag/a1m73D2)
- - 👉 [I was there 3,000 years ago...](http://9gag.com/gag/a1m73qw)<!-- MEMES:END -->
+ - 😝 [I was there Gandalf...](http://9gag.com/gag/a6ZDYRb)
+ - 👉 [Somehow Beyonce still winning the Grammy](http://9gag.com/gag/a1m73D2)<!-- MEMES:END -->
 
 ---
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Repost better than bot](http://9gag.com/gag/aGyLQvw)
- - 😝 [Life of dairy farmer](http://9gag.com/gag/aKG15Wj)
- - 💣 [Big Ron with his 90KG bells in each hand. 200 solid ass pounds each.](http://9gag.com/gag/aE0M4mK)
+ - 😝 [No balloons was popped that day!](http://9gag.com/gag/aGyL4vZ)
+ - 😝 [How I imagine word `stupidity` looks.](http://9gag.com/gag/azx5w7B)
+ - 💣 [We all know what the top comment is going to be](http://9gag.com/gag/aGyLvwX)
  - 😝 [Fastest time to limbo skate under descending poles over 50m. 9.59 seconds by Shristi Dharmendra Sharma](http://9gag.com/gag/aVvg6yv)
- - 👉 [How I imagine word `stupidity` looks.](http://9gag.com/gag/azx5w7B)<!-- MEMES:END -->
+ - 👉 [Somehow Beyonce still winning the Grammy](http://9gag.com/gag/a1m73D2)<!-- MEMES:END -->
 
 ---
 

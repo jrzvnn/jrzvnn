@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The Official DOGE Website Launch Was a Security Mess](https://www.wired.com/story/the-official-doge-website-launch-was-a-security-mess/)
  - [Apple’s Next iPhone SE Is Around the Corner](https://www.wired.com/story/apples-next-iphone-se-is-around-the-corner/)
  - [Today&#39;s NYT Connections: Sports Edition Hints and Answers for Feb. 15, #145](https://www.cnet.com/tech/gaming/todays-nyt-connections-sports-edition-hints-and-answers-for-feb-15-145/#ftag=CAD590a51e)
  - [Today&#39;s NYT Strands Hints, Answers and Help for Feb. 15, #349](https://www.cnet.com/tech/gaming/todays-nyt-strands-hints-answers-and-help-for-feb-15-349/#ftag=CAD590a51e)
- - [Today&#39;s Wordle Hints, Answer and Help for Feb. 15, #1337](https://www.cnet.com/tech/gaming/todays-wordle-hints-answer-and-help-for-feb-15-1337/#ftag=CAD590a51e)
- - [Today&#39;s NYT Connections Hints, Answers and Help for Feb. 15, #615](https://www.cnet.com/tech/gaming/todays-nyt-connections-hints-answers-and-help-for-feb-15-615/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Today&#39;s Wordle Hints, Answer and Help for Feb. 15, #1337](https://www.cnet.com/tech/gaming/todays-wordle-hints-answer-and-help-for-feb-15-1337/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

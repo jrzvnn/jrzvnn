@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [As JD Vance chastised the EU for its AI regulation, 12+ US states are considering algorithmic discrimination bills that look strikingly similar to EU&#39;s AI Act &lpar;Dean W. Ball/Hyperdimensional&rpar;](http://www.techmeme.com/250215/p18#a250215p18)
  - [The Nintendo DS Drastic emulator is gone from Google Play](https://www.theverge.com/news/613877/nintendo-ds-drastic-emulator-unavailable-android-google-play-store)
  - [Sources: Apple plans to refresh the Vision Pro with Apple Intelligence, a new Spatial content app, and a revamped guest mode in visionOS 2.4, as early as April &lpar;Mark Gurman/Bloomberg&rpar;](http://www.techmeme.com/250215/p17#a250215p17)
  - [Hector Martin, lead of Asahi Linux distribution for Apple Silicon, resigns, citing burnout, demanding users, and Linus Torvalds&#39;s handling of Rust integration &lpar;Thomas Claburn/The Register&rpar;](http://www.techmeme.com/250215/p16#a250215p16)
- - [All the buzz about Nintendo’s Alarmo clock](https://www.theverge.com/2024/10/9/24266353/nintendo-alarmo-sound-clock)
- - [Ligue 1 Soccer: Livestream Toulouse vs. PSG From Anywhere](https://www.cnet.com/tech/services-and-software/ligue-1-soccer-livestream-toulouse-vs-psg-from-anywhere/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [All the buzz about Nintendo’s Alarmo clock](https://www.theverge.com/2024/10/9/24266353/nintendo-alarmo-sound-clock)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

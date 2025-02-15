@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Somehow Beyonce still winning the Grammy](http://9gag.com/gag/a1m73D2)
- - 😝 [Dude decide to shovel his driveway at 4 am receives a Canadian neighborly warning](http://9gag.com/gag/aNDLbA3)
- - 💣 [We all know what the top comment is going to be](http://9gag.com/gag/aGyLvwX)
  - 😝 [It&#39;s the same thing, innit?](http://9gag.com/gag/a2vMpXp)
- - 👉 [Repost better than bot](http://9gag.com/gag/aGyLQvw)<!-- MEMES:END -->
+ - 😝 [Astronaut Chris Hadfield: &#39;It&#39;s Possible To Get Stuck Floating In The Space Station If You Can&#39;t Reach A Wall&#39;](http://9gag.com/gag/agmQwEK)
+ - 💣 [Somehow Beyonce still winning the Grammy](http://9gag.com/gag/a1m73D2)
+ - 😝 [It should have been me, not him!](http://9gag.com/gag/adBvzDV)
+ - 👉 [We all know what the top comment is going to be](http://9gag.com/gag/aGyLvwX)<!-- MEMES:END -->
 
 ---
 

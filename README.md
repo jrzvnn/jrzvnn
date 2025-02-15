@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [It&#39;s the same thing, innit?](http://9gag.com/gag/a2vMpXp)
- - 😝 [PROTECT THEM AT ALL COST!](http://9gag.com/gag/aD27K6K)
- - 💣 [Astronaut Chris Hadfield: &#39;It&#39;s Possible To Get Stuck Floating In The Space Station If You Can&#39;t Reach A Wall&#39;](http://9gag.com/gag/agmQwEK)
- - 😝 [Big Ron with his 90KG bells in each hand. 200 solid ass pounds each.](http://9gag.com/gag/aE0M4mK)
- - 👉 [Repost better than bot](http://9gag.com/gag/aGyLQvw)<!-- MEMES:END -->
+ - 😝 [More educational cat meme](http://9gag.com/gag/a0eoyNn)
+ - 😝 [I was there Gandalf...](http://9gag.com/gag/a6ZDYRb)
+ - 💣 [1960s refrigerator](http://9gag.com/gag/ae948nj)
+ - 😝 [Somehow Beyonce still winning the Grammy](http://9gag.com/gag/a1m73D2)
+ - 👉 [I was there 3,000 years ago...](http://9gag.com/gag/a1m73qw)<!-- MEMES:END -->
 
 ---
 

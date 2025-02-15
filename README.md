@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Sources: DOGE is sending termination notices to USDS staff who worked as IT experts for the US government since the Obama era; USDS has been renamed as DOGE &lpar;Sophie Alexander/Bloomberg&rpar;](http://www.techmeme.com/250215/p19#a250215p19)
  - [Apple now hiring for new store planned for downtown Detroit](https://appleinsider.com/articles/25/02/15/apple-now-hiring-for-new-store-planned-for-downtown-detroit?utm_medium=rss)
  - [Best Air Purifiers for Better Health in 2025, Tested by Our Experts](https://www.cnet.com/home/kitchen-and-household/best-air-purifier/#ftag=CAD590a51e)
  - [Today&#39;s NYT Strands Hints, Answers and Help for Feb. 16, #350](https://www.cnet.com/tech/gaming/todays-nyt-strands-hints-answers-and-help-for-feb-16-350/#ftag=CAD590a51e)
- - [You&#39;re Using Your Electric Toothbrush Wrong. Common Mistakes and How to Do It Right](https://www.cnet.com/health/personal-care/youre-using-your-electric-toothbrush-wrong-common-mistakes-and-how-to-do-it-right/#ftag=CAD590a51e)
- - [Today&#39;s NYT Connections Hints, Answers and Help for Feb. 16, #616](https://www.cnet.com/tech/gaming/todays-nyt-connections-hints-answers-and-help-for-feb-16-616/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [You&#39;re Using Your Electric Toothbrush Wrong. Common Mistakes and How to Do It Right](https://www.cnet.com/health/personal-care/youre-using-your-electric-toothbrush-wrong-common-mistakes-and-how-to-do-it-right/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

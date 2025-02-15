@@ -167,10 +167,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [They hate us because they ain\u2019t us but they try to be us](http://9gag.com/gag/avyWjZE)
- - 😝 [Today I saw a few British people in London.](http://9gag.com/gag/a4PnyyZ)
- - 💣 [Somehow Beyonce still winning the Grammy](http://9gag.com/gag/a1m73D2)
- - 😝 [The UK voted to be conquered](http://9gag.com/gag/amoW4Y2)
- - 👉 [German grandpa triggered crowd of leftist protesters with his flag on the balcony](http://9gag.com/gag/ajP7zZp)<!-- MEMES:END -->
+ - 😝 [It should have been me, not him!](http://9gag.com/gag/adBvzDV)
+ - 💣 [The UK voted to be conquered](http://9gag.com/gag/amoW4Y2)
+ - 😝 [Big Ron with his 90KG bells in each hand. 200 solid ass pounds each.](http://9gag.com/gag/aE0M4mK)
+ - 👉 [Somehow Beyonce still winning the Grammy](http://9gag.com/gag/a1m73D2)<!-- MEMES:END -->
 
 ---
 

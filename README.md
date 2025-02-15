@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Metals Crucial to Clean Energy Are Getting Caught Up in the US–China Trade War](https://www.wired.com/story/2-obscure-clean-energy-metals-are-caught-in-the-crosshairs-of-the-us-china-trade-war/)
+ - [The 25 Best Shows on Amazon Prime Right Now &lpar;February 2025&rpar;](https://www.wired.com/story/best-shows-amazon-prime/)
  - [A profile of Watch Duty creator John Clarke Mills, who wants the fire-tracking app to become a one-stop shop for information during any disaster &lpar;Boone Ashworth/Wired&rpar;](http://www.techmeme.com/250215/p12#a250215p12)
- - [The Official DOGE Website Launch Was a Security Mess](https://www.wired.com/story/the-official-doge-website-launch-was-a-security-mess/)
- - [Apple’s Next iPhone SE Is Around the Corner](https://www.wired.com/story/apples-next-iphone-se-is-around-the-corner/)
- - [Today&#39;s NYT Connections: Sports Edition Hints and Answers for Feb. 15, #145](https://www.cnet.com/tech/gaming/todays-nyt-connections-sports-edition-hints-and-answers-for-feb-15-145/#ftag=CAD590a51e)
- - [Today&#39;s NYT Strands Hints, Answers and Help for Feb. 15, #349](https://www.cnet.com/tech/gaming/todays-nyt-strands-hints-answers-and-help-for-feb-15-349/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Best Internet Providers in Centennial, Colorado](https://www.cnet.com/home/internet/best-internet-providers-in-centennial-co/#ftag=CAD590a51e)
+ - [Have an iPhone? You Need to Download iOS 18.3.1 Right Now](https://www.cnet.com/tech/services-and-software/have-an-iphone-you-need-to-download-ios-18-3-1-right-now/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

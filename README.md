@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [It&#39;s the same thing, innit?](http://9gag.com/gag/a2vMpXp)
+ - 😝 [Zero survival skills](http://9gag.com/gag/aVvg5j2)
  - 😝 [Astronaut Chris Hadfield: &#39;It&#39;s Possible To Get Stuck Floating In The Space Station If You Can&#39;t Reach A Wall&#39;](http://9gag.com/gag/agmQwEK)
- - 💣 [Somehow Beyonce still winning the Grammy](http://9gag.com/gag/a1m73D2)
- - 😝 [It should have been me, not him!](http://9gag.com/gag/adBvzDV)
- - 👉 [We all know what the top comment is going to be](http://9gag.com/gag/aGyLvwX)<!-- MEMES:END -->
+ - 💣 [It should have been me, not him!](http://9gag.com/gag/adBvzDV)
+ - 😝 [Fastest time to limbo skate under descending poles over 50m. 9.59 seconds by Shristi Dharmendra Sharma](http://9gag.com/gag/aVvg6yv)
+ - 👉 [Repost better than bot](http://9gag.com/gag/aGyLQvw)<!-- MEMES:END -->
 
 ---
 

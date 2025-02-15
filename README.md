@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Random 3yo memes.](http://9gag.com/gag/amoW47y)
- - 😝 [1960s refrigerator](http://9gag.com/gag/ae948nj)
- - 💣 [I&#39;m sure there was a rat among them](http://9gag.com/gag/ayNqK2W)
- - 😝 [It ain&#39;t much, but it&#39;s honest vacation...](http://9gag.com/gag/aMVdMGG)
- - 👉 [PROTECT THEM AT ALL COST!](http://9gag.com/gag/aD27K6K)<!-- MEMES:END -->
+ - 😝 [I was there Gandalf...](http://9gag.com/gag/a6ZDYRb)
+ - 😝 [I&#39;m sure there was a rat among them](http://9gag.com/gag/ayNqK2W)
+ - 💣 [1960s refrigerator](http://9gag.com/gag/ae948nj)
+ - 😝 [PROTECT THEM AT ALL COST!](http://9gag.com/gag/aD27K6K)
+ - 👉 [It ain&#39;t much, but it&#39;s honest vacation...](http://9gag.com/gag/aMVdMGG)<!-- MEMES:END -->
 
 ---
 

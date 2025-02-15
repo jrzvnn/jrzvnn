@@ -168,9 +168,9 @@ R                        1 repo              ░░░░░░░░░░░�
 <!-- MEMES:START -->
  - 😝 [They hate us because they ain\u2019t us but they try to be us](http://9gag.com/gag/avyWjZE)
  - 😝 [It should have been me, not him!](http://9gag.com/gag/adBvzDV)
- - 💣 [The UK voted to be conquered](http://9gag.com/gag/amoW4Y2)
- - 😝 [Big Ron with his 90KG bells in each hand. 200 solid ass pounds each.](http://9gag.com/gag/aE0M4mK)
- - 👉 [Somehow Beyonce still winning the Grammy](http://9gag.com/gag/a1m73D2)<!-- MEMES:END -->
+ - 💣 [Take a moment to check your phones](http://9gag.com/gag/aLnL7Oz)
+ - 😝 [Somehow Beyonce still winning the Grammy](http://9gag.com/gag/a1m73D2)
+ - 👉 [Meanwhile in Germany, at protest against AfD migrant man threatened to behead reporter for questions offending Islam while white women in the background chanting &#39;Nazis out&#39;](http://9gag.com/gag/avyWMRd)<!-- MEMES:END -->
 
 ---
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: humanoid robot startup Figure is in talks to raise $1.5B led by Align Ventures and Parkway VC at a $39.5B valuation, up from $2.6B in February 2024 &lpar;Bloomberg&rpar;](http://www.techmeme.com/250214/p32#a250214p32)
- - [Filing: Anthropic asks a court to nix a DOJ remedy that would block Google from investing in AI startups, saying it would harm Anthropic and the competition &lpar;Leah Nylen/Bloomberg&rpar;](http://www.techmeme.com/250214/p31#a250214p31)
- - [Uber sues DoorDash, accusing it of anticompetitive practices like coercing restaurants to exclusively work with DoorDash for parts of their delivery business &lpar;Heather Haddon/Wall Street Journal&rpar;](http://www.techmeme.com/250214/p30#a250214p30)
- - [How crypto companies like Coinbase co-opted legitimate concerns about &quot;debanking&quot; to fight regulation, threatening to derail meaningful progress on the issue &lpar;Molly White/Citation Needed&rpar;](http://www.techmeme.com/250214/p29#a250214p29)
- - [All the smart home news, reviews, and gadgets you need to know about](https://www.theverge.com/24190824/smart-home-news-reviews-guides-gadgets)<!-- TECH:END -->
+ - [Perplexity releases Deep Research, offering five queries daily to free users and 500 to subscribers, available now on the web and soon on iOS, Android, and Mac &lpar;Michael Nu&amp;ntilde;ez/VentureBeat&rpar;](http://www.techmeme.com/250214/p36#a250214p36)
+ - [Sources: Intel has spoken with the Trump administration and TSMC over the past few months about a deal for TSMC to take control of Intel&#39;s foundry business &lpar;New York Times&rpar;](http://www.techmeme.com/250214/p35#a250214p35)
+ - [Kadrey v. Meta: Meta paused some AI-related book licensing efforts in April 2023 after contacting publishers and seeing &quot;slow uptake&quot; and logistical setbacks &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/250214/p34#a250214p34)
+ - [Deals: save up to $1,000 on these M3 Max 16-inch MacBook Pro laptops](https://appleinsider.com/articles/25/02/15/deals-save-up-to-1000-on-these-m3-max-16-inch-macbook-pro-laptops?utm_medium=rss)
+ - [Filing: Trump Media reports 2024 revenue down 12% YoY to $3.6M and a $400M net loss, up from $58.2M in 2023; the company has a $6.6B market cap &lpar;Jordan Novet/CNBC&rpar;](http://www.techmeme.com/250214/p33#a250214p33)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

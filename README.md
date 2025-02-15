@@ -158,7 +158,7 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- TECH:START -->
  - [All the buzz about Nintendo’s Alarmo clock](https://www.theverge.com/2024/10/9/24266353/nintendo-alarmo-sound-clock)
- - [Romance scams may rise as isolation grows and generative AI helps scammers scale; FBI says US victims lost ~$4.5B to such scams over the past decade &lpar;Wired&rpar;](http://www.techmeme.com/250215/p15#a250215p15)
+ - [Romance scams may rise as isolation grows and generative AI helps scammers scale; the FBI says US victims lost nearly $4.5B to such scams over the past decade &lpar;Wired&rpar;](http://www.techmeme.com/250215/p15#a250215p15)
  - [The best Presidents Day sales you can already shop](https://www.theverge.com/good-deals/609704/best-presidents-day-sales-deals-2025-apple-gaming-tech)
  - [Amazon’s revamped Alexa might launch over a month after its announcement event](https://www.theverge.com/news/613821/amazon-alexa-ai-upgrade-delayed-accuracy-issues)
  - [From ChatGPT to Gemini: how AI is rewriting the internet](https://www.theverge.com/23610427/chatbots-chatgpt-new-bing-google-bard-conversational-ai)<!-- TECH:END -->

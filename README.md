@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [‘TeslaTakeover’ protests are small, but numerous](https://www.theverge.com/news/613911/tesla-showroom-teslatakeover-protests-elon-musk-doge-trump)
  - [Apple now hiring for planned downtown Detroit retail store](https://appleinsider.com/articles/25/02/15/apple-now-hiring-for-new-store-planned-for-downtown-detroit?utm_medium=rss)
  - [Rumor: Apple Intelligence coming to Apple Vision Pro along with more immersive content](https://appleinsider.com/articles/25/02/15/rumor-apple-intelligence-coming-to-apple-vision-pro-along-with-more-immersive-content?utm_medium=rss)
  - [Sources: DOGE is sending termination notices to USDS staff who worked as IT experts for the US government since the Obama era; USDS has been renamed as DOGE &lpar;Sophie Alexander/Bloomberg&rpar;](http://www.techmeme.com/250215/p19#a250215p19)
- - [Best Air Purifiers for Better Health in 2025, Tested by Our Experts](https://www.cnet.com/home/kitchen-and-household/best-air-purifier/#ftag=CAD590a51e)
- - [Today&#39;s NYT Strands Hints, Answers and Help for Feb. 16, #350](https://www.cnet.com/tech/gaming/todays-nyt-strands-hints-answers-and-help-for-feb-16-350/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Best Air Purifiers for Better Health in 2025, Tested by Our Experts](https://www.cnet.com/home/kitchen-and-household/best-air-purifier/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

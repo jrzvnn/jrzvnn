@@ -161,7 +161,7 @@ R                        1 repo              ░░░░░░░░░░░�
  - [Sources: Apple plans to refresh the Vision Pro with Apple Intelligence, a new Spatial content app, and a revamped guest mode in visionOS 2.4, as early as April &lpar;Mark Gurman/Bloomberg&rpar;](http://www.techmeme.com/250215/p17#a250215p17)
  - [Hector Martin, lead of Asahi Linux distribution for Apple Silicon, resigns, citing burnout, demanding users, and Linus Torvalds&#39;s handling of Rust integration &lpar;Thomas Claburn/The Register&rpar;](http://www.techmeme.com/250215/p16#a250215p16)
  - [All the buzz about Nintendo’s Alarmo clock](https://www.theverge.com/2024/10/9/24266353/nintendo-alarmo-sound-clock)
- - [Romance scams may rise as isolation grows and generative AI helps scammers scale; the FBI says US victims lost nearly $4.5B to such scams over the past decade &lpar;Wired&rpar;](http://www.techmeme.com/250215/p15#a250215p15)<!-- TECH:END -->
+ - [Ligue 1 Soccer: Livestream Toulouse vs. PSG From Anywhere](https://www.cnet.com/tech/services-and-software/ligue-1-soccer-livestream-toulouse-vs-psg-from-anywhere/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [CB Insights: a record 1,200 VC-backed unicorns have yet to IPO or get acquired; Carta: fewer than 30% of 2021 unicorns raised funding in the past three years &lpar;Katie Roof/Bloomberg&rpar;](http://www.techmeme.com/250215/p13#a250215p13)
  - [Technics AZ100 earbuds review: audiophiles and multitaskers unite](https://www.theverge.com/headphone-review/613609/technics-az100-earbuds-review)
  - [Best MacBook Accessories We’ve Tested and Reviewed &lpar;2025&rpar;](https://www.wired.com/story/best-macbook-accessories/)
  - [While Waiting is a playful reminder of the joys of boredom](https://www.theverge.com/games-review/613495/while-waiting-review-switch-pc)
- - [Best Internet Providers in Forney, Texas](https://www.cnet.com/home/internet/best-internet-providers-in-forney-tx/#ftag=CAD590a51e)
- - [Does Chocolate Go Bad? How to Store It, Freeze it, and Ship It](https://www.wired.com/story/how-to-store-chocolate/)<!-- TECH:END -->
+ - [Best Internet Providers in Forney, Texas](https://www.cnet.com/home/internet/best-internet-providers-in-forney-tx/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

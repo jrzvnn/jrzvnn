@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Q&amp;A with Google&#39;s Jeff Dean and Noam Shazeer on Google&#39;s path to AGI, future of Moore&#39;s Law and TPUs, inference scaling, open research, and more &lpar;Dwarkesh Patel/Dwarkesh Podcast&rpar;](http://www.techmeme.com/250215/p11#a250215p11)
  - [Industry executives say US crypto miners are facing delays in receiving new equipment from Bitmain and other Chinese suppliers amid heightened customs scrutiny &lpar;David Pan/Bloomberg&rpar;](http://www.techmeme.com/250215/p10#a250215p10)
  - [Analysis: consumers spent $259.1B on Uber, Lyft, and DoorDash in 2024, up from $218.5B in 2023, with $162.8B on Uber, $80.2B on DoorDash, and $16.1B on Lyft &lpar;J. Edward Moreno/Sherwood News&rpar;](http://www.techmeme.com/250215/p9#a250215p9)
  - [Sources: SoftBank-backed eFishery, Indonesia&#39;s high-profile agritech startup, cuts over 1,000 jobs, or ~90% of its workforce, and weighs a potential liquidation &lpar;Olivia Poh/Bloomberg&rpar;](http://www.techmeme.com/250215/p8#a250215p8)
- - [Sources: Lightspeed, whose bets include Wiz, Anthropic, and Stripe, returned $8B from current and active funds in the past five years, with $3B+ coming in 2024 &lpar;Eric Newcomer/Newcomer&rpar;](http://www.techmeme.com/250215/p7#a250215p7)
- - [Today&#39;s NYT Mini Crossword Answers for Saturday, Feb. 15](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-saturday-feb-15/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Sources: Lightspeed, whose bets include Wiz, Anthropic, and Stripe, returned $8B from current and active funds in the past five years, with $3B+ coming in 2024 &lpar;Eric Newcomer/Newcomer&rpar;](http://www.techmeme.com/250215/p7#a250215p7)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [In 2005, New Mexico resident Stephen Slevin was arrested for a suspected DUI before being placed in solitary confinement for 2 years without ever being prosecuted when prison authorities claimed they `forgot` about the man.](http://9gag.com/gag/aByZ5L1)
- - 😝 [We all know what the top comment is going to be](http://9gag.com/gag/aGyLvwX)
- - 💣 [Astronaut Chris Hadfield: &#39;It&#39;s Possible To Get Stuck Floating In The Space Station If You Can&#39;t Reach A Wall&#39;](http://9gag.com/gag/agmQwEK)
- - 😝 [O_o](http://9gag.com/gag/apR17BD)
- - 👉 [It should have been me, not him!](http://9gag.com/gag/adBvzDV)<!-- MEMES:END -->
+ - 😝 [Edward Snowden to be Pardoned....](http://9gag.com/gag/ajP7wRg)
+ - 😝 [After losing this hand, he quit poker and decided to devote his life to science, specifically fusion reactors](http://9gag.com/gag/aLnLEKz)
+ - 💣 [That&#39;s Cleveland](http://9gag.com/gag/aPAxLgQ)
+ - 😝 [Astronaut Chris Hadfield: &#39;It&#39;s Possible To Get Stuck Floating In The Space Station If You Can&#39;t Reach A Wall&#39;](http://9gag.com/gag/agmQwEK)
+ - 👉 [Fastest time to limbo skate under descending poles over 50m. 9.59 seconds by Shristi Dharmendra Sharma](http://9gag.com/gag/aVvg6yv)<!-- MEMES:END -->
 
 ---
 

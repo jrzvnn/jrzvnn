@@ -166,10 +166,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Living the dream](http://9gag.com/gag/a9yzgGZ)
- - 😝 [2010 vs 2025](http://9gag.com/gag/a9yzeQj)
+ - 😝 [Re-education camp for Muslims in China](http://9gag.com/gag/a6ZDYn2)
+ - 😝 [Big Ron with his 90KG bells in each hand. 200 solid ass pounds each.](http://9gag.com/gag/aE0M4mK)
  - 💣 [How I imagine word `stupidity` looks.](http://9gag.com/gag/azx5w7B)
- - 😝 [Somehow Beyonce still winning the Grammy](http://9gag.com/gag/a1m73D2)
+ - 😝 [It&#39;s the same thing, innit?](http://9gag.com/gag/a2vMpXp)
  - 👉 [Repost better than bot](http://9gag.com/gag/aGyLQvw)<!-- MEMES:END -->
 
 ---

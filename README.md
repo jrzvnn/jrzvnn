@@ -166,7 +166,7 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Big Ron with his 90KG bells in each hand. 200 solid ass pounds each.](http://9gag.com/gag/aE0M4mK)
+ - 😝 [What are you looking for, old man?...](http://9gag.com/gag/a87AR8e)
  - 😝 [Today I saw a few British people in London.](http://9gag.com/gag/a4PnyyZ)
  - 💣 [Meanwhile in Germany, at protest against AfD migrant man threatened to behead reporter for questions offending Islam while white women in the background chanting &#39;Nazis out&#39;](http://9gag.com/gag/avyWMRd)
  - 😝 [...](http://9gag.com/gag/azx5W5N)

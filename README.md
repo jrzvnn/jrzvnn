@@ -166,9 +166,9 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [Stupid Netflix!](http://9gag.com/gag/aoyWb63)
  - 😝 [They hate us because they ain\u2019t us but they try to be us](http://9gag.com/gag/avyWjZE)
- - 😝 [It should have been me, not him!](http://9gag.com/gag/adBvzDV)
- - 💣 [Take a moment to check your phones](http://9gag.com/gag/aLnL7Oz)
+ - 💣 [Repost better than bot](http://9gag.com/gag/aGyLQvw)
  - 😝 [Somehow Beyonce still winning the Grammy](http://9gag.com/gag/a1m73D2)
  - 👉 [Meanwhile in Germany, at protest against AfD migrant man threatened to behead reporter for questions offending Islam while white women in the background chanting &#39;Nazis out&#39;](http://9gag.com/gag/avyWMRd)<!-- MEMES:END -->
 

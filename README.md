@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [It&#39;s the same thing, innit?](http://9gag.com/gag/a2vMpXp)
  - 😝 [Re-education camp for Muslims in China](http://9gag.com/gag/a6ZDYn2)
+ - 😝 [It&#39;s the same thing, innit?](http://9gag.com/gag/a2vMpXp)
  - 💣 [Somehow Beyonce still winning the Grammy](http://9gag.com/gag/a1m73D2)
  - 😝 [PROTECT THEM AT ALL COST!](http://9gag.com/gag/aD27K6K)
- - 👉 [Repost better than bot](http://9gag.com/gag/aGyLQvw)<!-- MEMES:END -->
+ - 👉 [It should have been me, not him!](http://9gag.com/gag/adBvzDV)<!-- MEMES:END -->
 
 ---
 

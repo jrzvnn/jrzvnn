@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Amazon’s revamped Alexa might launch over a month after its announcement event](https://www.theverge.com/news/613821/amazon-alexa-ai-upgrade-delayed-accuracy-issues)
  - [From ChatGPT to Gemini: how AI is rewriting the internet](https://www.theverge.com/23610427/chatbots-chatgpt-new-bing-google-bard-conversational-ai)
+ - [Best Squat Racks of 2025](https://www.cnet.com/health/fitness/best-squat-racks/#ftag=CAD590a51e)
  - [Elden Ring Nightreign is already up for preorder with a $10 gift card](https://www.theverge.com/good-deals/613145/elden-ring-nightreign-preorder-xbox-wireless-headset-deal-sale)
- - [Argentina&#39;s president Javier Milei backtracks on an X post promoting a memecoin called Libra, which rose to a $4.4B market cap before plunging by 95%+ &lpar;Oliver Knight/CoinDesk&rpar;](http://www.techmeme.com/250215/p14#a250215p14)
- - [The Vision Pro NBA app turns some games into a miniature 3D diorama](https://www.theverge.com/news/613796/nba-tabletop-ar-vision-pro-app-league-pass)
- - [Vision Pro apps: the good, the bad, and the ridiculous](https://www.theverge.com/2024/1/18/24043367/apple-vision-pro-apps-good-bad)<!-- TECH:END -->
+ - [Argentina&#39;s president Javier Milei backtracks on an X post promoting a memecoin called Libra, which rose to a $4.4B market cap before plunging by 95%+ &lpar;Oliver Knight/CoinDesk&rpar;](http://www.techmeme.com/250215/p14#a250215p14)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

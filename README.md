@@ -167,10 +167,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [Today I saw a few British people in London.](http://9gag.com/gag/a4PnyyZ)
- - 😝 [...](http://9gag.com/gag/azx5W5N)
- - 💣 [Astronaut Chris Hadfield: &#39;It&#39;s Possible To Get Stuck Floating In The Space Station If You Can&#39;t Reach A Wall&#39;](http://9gag.com/gag/agmQwEK)
  - 😝 [Now that is some serious level of skill](http://9gag.com/gag/aRBLbjj)
- - 👉 [Meanwhile in Germany, at protest against AfD migrant man threatened to behead reporter for questions offending Islam while white women in the background chanting &#39;Nazis out&#39;](http://9gag.com/gag/avyWMRd)<!-- MEMES:END -->
+ - 💣 [Astronaut Chris Hadfield: &#39;It&#39;s Possible To Get Stuck Floating In The Space Station If You Can&#39;t Reach A Wall&#39;](http://9gag.com/gag/agmQwEK)
+ - 😝 [No balloons was popped that day!](http://9gag.com/gag/aGyL4vZ)
+ - 👉 [...](http://9gag.com/gag/azx5W5N)<!-- MEMES:END -->
 
 ---
 

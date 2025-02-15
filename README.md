@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Fastest time to limbo skate under descending poles over 50m. 9.59 seconds by Shristi Dharmendra Sharma](http://9gag.com/gag/aVvg6yv)
- - 😝 [Repost better than bot](http://9gag.com/gag/aGyLQvw)
+ - 😝 [Somehow Beyonce still winning the Grammy](http://9gag.com/gag/a1m73D2)
+ - 😝 [Dude decide to shovel his driveway at 4 am receives a Canadian neighborly warning](http://9gag.com/gag/aNDLbA3)
  - 💣 [We all know what the top comment is going to be](http://9gag.com/gag/aGyLvwX)
- - 😝 [It should have been me, not him!](http://9gag.com/gag/adBvzDV)
- - 👉 [Dude decide to shovel his driveway at 4 am receives a Canadian neighborly warning](http://9gag.com/gag/aNDLbA3)<!-- MEMES:END -->
+ - 😝 [It&#39;s the same thing, innit?](http://9gag.com/gag/a2vMpXp)
+ - 👉 [Repost better than bot](http://9gag.com/gag/aGyLQvw)<!-- MEMES:END -->
 
 ---
 

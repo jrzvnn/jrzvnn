@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [A Player Has Defeated Punch-Out’s Mike Tyson in Under 2 Minutes for the First Time](https://www.wired.com/story/mike-tyson-punch-out-defeated-in-under-2-minutes-first-time/)
- - [Premier League Soccer: Stream Leicester vs. Arsenal From Anywhere](https://www.cnet.com/tech/services-and-software/premier-league-soccer-stream-leicester-vs-arsenal-from-anywhere/#ftag=CAD590a51e)
- - [Q&amp;A with Google&#39;s Jeff Dean and Noam Shazeer on Google&#39;s path to AGI, future of Moore&#39;s Law and TPUs, inference scaling, open research, and more &lpar;Dwarkesh Patel/Dwarkesh Podcast&rpar;](http://www.techmeme.com/250215/p11#a250215p11)
- - [Industry executives say US crypto miners are facing delays in receiving new equipment from Bitmain and other Chinese suppliers amid heightened customs scrutiny &lpar;David Pan/Bloomberg&rpar;](http://www.techmeme.com/250215/p10#a250215p10)
- - [Analysis: consumers spent $259.1B on Uber, Lyft, and DoorDash in 2024, up from $218.5B in 2023, with $162.8B on Uber, $80.2B on DoorDash, and $16.1B on Lyft &lpar;J. Edward Moreno/Sherwood News&rpar;](http://www.techmeme.com/250215/p9#a250215p9)<!-- TECH:END -->
+ - [Apple’s Next iPhone SE Is Around the Corner](https://www.wired.com/story/apples-next-iphone-se-is-around-the-corner/)
+ - [Today&#39;s NYT Connections: Sports Edition Hints and Answers for Feb. 15, #145](https://www.cnet.com/tech/gaming/todays-nyt-connections-sports-edition-hints-and-answers-for-feb-15-145/#ftag=CAD590a51e)
+ - [Today&#39;s NYT Strands Hints, Answers and Help for Feb. 15, #349](https://www.cnet.com/tech/gaming/todays-nyt-strands-hints-answers-and-help-for-feb-15-349/#ftag=CAD590a51e)
+ - [Today&#39;s Wordle Hints, Answer and Help for Feb. 15, #1337](https://www.cnet.com/tech/gaming/todays-wordle-hints-answer-and-help-for-feb-15-1337/#ftag=CAD590a51e)
+ - [Today&#39;s NYT Connections Hints, Answers and Help for Feb. 15, #615](https://www.cnet.com/tech/gaming/todays-nyt-connections-hints-answers-and-help-for-feb-15-615/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

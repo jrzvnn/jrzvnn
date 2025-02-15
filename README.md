@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [...](http://9gag.com/gag/azx5W5N)
- - 😝 [Dude decide to shovel his driveway at 4 am receives a Canadian neighborly warning](http://9gag.com/gag/aNDLbA3)
+ - 😝 [Big Ron with his 90KG bells in each hand. 200 solid ass pounds each.](http://9gag.com/gag/aE0M4mK)
+ - 😝 [Today I saw a few British people in London.](http://9gag.com/gag/a4PnyyZ)
  - 💣 [Meanwhile in Germany, at protest against AfD migrant man threatened to behead reporter for questions offending Islam while white women in the background chanting &#39;Nazis out&#39;](http://9gag.com/gag/avyWMRd)
- - 😝 [Now that is some serious level of skill](http://9gag.com/gag/aRBLbjj)
- - 👉 [Astronaut Chris Hadfield: &#39;It&#39;s Possible To Get Stuck Floating In The Space Station If You Can&#39;t Reach A Wall&#39;](http://9gag.com/gag/agmQwEK)<!-- MEMES:END -->
+ - 😝 [...](http://9gag.com/gag/azx5W5N)
+ - 👉 [Now that is some serious level of skill](http://9gag.com/gag/aRBLbjj)<!-- MEMES:END -->
 
 ---
 

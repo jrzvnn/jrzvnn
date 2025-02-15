@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [For-Profit Companies Can’t Easily Replace NOAA’s Weather-Forecasting Prowess](https://www.wired.com/story/noaas-vast-public-weather-data-powers-the-local-forecasts-on-your-phone-and-tv-a-private-company-alone-couldnt-match-it/)
  - [Best Noise-Canceling Headphones &lpar;2025&rpar;: Over-Ears, Wireless Earbuds, Workout Pairs](https://www.wired.com/gallery/best-noise-canceling-headphones/)
- - [Metals Crucial to Clean Energy Are Getting Caught Up in the US–China Trade War](https://www.wired.com/story/2-obscure-clean-energy-metals-are-caught-in-the-crosshairs-of-the-us-china-trade-war/)
- - [The 25 Best Shows on Amazon Prime Right Now &lpar;February 2025&rpar;](https://www.wired.com/story/best-shows-amazon-prime/)
- - [A profile of Watch Duty creator John Clarke Mills, who wants the fire-tracking app to become a one-stop shop for information during any disaster &lpar;Boone Ashworth/Wired&rpar;](http://www.techmeme.com/250215/p12#a250215p12)
- - [Best Internet Providers in Centennial, Colorado](https://www.cnet.com/home/internet/best-internet-providers-in-centennial-co/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [La Liga Soccer Livestream: How to Watch Osasuna vs. Real Madrid From Anywhere](https://www.cnet.com/tech/services-and-software/la-liga-soccer-livestream-how-to-watch-osasuna-vs-real-madrid-from-anywhere/#ftag=CAD590a51e)
+ - [Best Internet Providers in Carson, California](https://www.cnet.com/home/internet/best-internet-providers-in-carson-ca/#ftag=CAD590a51e)
+ - [Best Cooling Comforters of 2025](https://www.cnet.com/health/sleep/best-cooling-comforters/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

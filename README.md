@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Vision Pro apps: the good, the bad, and the ridiculous](https://www.theverge.com/2024/1/18/24043367/apple-vision-pro-apps-good-bad)
  - [CB Insights: a record 1,200 VC-backed unicorns have yet to IPO or get acquired; Carta: fewer than 30% of 2021 unicorns raised funding in the past three years &lpar;Katie Roof/Bloomberg&rpar;](http://www.techmeme.com/250215/p13#a250215p13)
- - [Technics AZ100 earbuds review: audiophiles and multitaskers unite](https://www.theverge.com/headphone-review/613609/technics-az100-earbuds-review)
- - [Best MacBook Accessories We’ve Tested and Reviewed &lpar;2025&rpar;](https://www.wired.com/story/best-macbook-accessories/)
- - [While Waiting is a playful reminder of the joys of boredom](https://www.theverge.com/games-review/613495/while-waiting-review-switch-pc)
- - [Best Internet Providers in Forney, Texas](https://www.cnet.com/home/internet/best-internet-providers-in-forney-tx/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Premier League Soccer: Livestream West Ham United vs. Brentford From Anywhere](https://www.cnet.com/tech/services-and-software/premier-league-soccer-livestream-west-ham-united-vs-brentford-from-anywhere/#ftag=CAD590a51e)
+ - [Bundesliga Soccer Livestream: How to Watch Bayer Leverkusen vs. Bayern Munich From Anywhere](https://www.cnet.com/tech/services-and-software/bundesliga-soccer-livestream-how-to-watch-bayer-leverkusen-vs-bayern-munich-from-anywhere/#ftag=CAD590a51e)
+ - [Technics AZ100 earbuds review: audiophiles and multitaskers unite](https://www.theverge.com/headphone-review/613609/technics-az100-earbuds-review)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

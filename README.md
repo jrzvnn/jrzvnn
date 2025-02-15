@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [It will be 75$ thank you](http://9gag.com/gag/agmQz71)
  - 😝 [O_o](http://9gag.com/gag/apR17BD)
+ - 💣 [Astronaut Chris Hadfield: &#39;It&#39;s Possible To Get Stuck Floating In The Space Station If You Can&#39;t Reach A Wall&#39;](http://9gag.com/gag/agmQwEK)
  - 😝 [Somehow Beyonce still winning the Grammy](http://9gag.com/gag/a1m73D2)
- - 💣 [It&#39;s the same thing, innit?](http://9gag.com/gag/a2vMpXp)
- - 😝 [Astronaut Chris Hadfield: &#39;It&#39;s Possible To Get Stuck Floating In The Space Station If You Can&#39;t Reach A Wall&#39;](http://9gag.com/gag/agmQwEK)
- - 👉 [Someone thought this was a good idea](http://9gag.com/gag/an7Omg5)<!-- MEMES:END -->
+ - 👉 [It&#39;s the same thing, innit?](http://9gag.com/gag/a2vMpXp)<!-- MEMES:END -->
 
 ---
 

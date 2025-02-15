@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Identity security startup SGNL, which lets enterprises enforce policies in real-time for privileged access to systems, raised a $30M Series A led by Brightmind &lpar;Ingrid Lunden/TechCrunch&rpar;](http://www.techmeme.com/250215/p3#a250215p3)
  - [DeepSeek&#39;s rise has the turned the spotlight on its hometown, Hangzhou, the capital of the Zhejiang province, which has earmarked ~$13.7B to fund tech companies &lpar;Lauren Faith Lau/Bloomberg&rpar;](http://www.techmeme.com/250215/p2#a250215p2)
  - [Fal.ai, a Turkish startup specializing in AI-generated media for enterprise use, raised a $49M Series B led by Notable Capital, taking its total funding to $72M &lpar;Lucy Adams/Tech.eu&rpar;](http://www.techmeme.com/250215/p1#a250215p1)
  - [Sources: Anthropic expects to burn $3B in 2025, down from $5.6B in 2024, and make up to $3.7B in revenue in 2025, as it seeks to catch up with OpenAI &lpar;The Information&rpar;](http://www.techmeme.com/250214/p41#a250214p41)
- - [Best Internet Providers in Boise, Idaho](https://www.cnet.com/home/internet/best-internet-providers-in-boise-id/#ftag=CAD590a51e)
- - [Harvey, which builds generative AI tools for law firms, raised a $300M Series D led by Sequoia at a $3B valuation; CEO Winston Weinberg says ARR surpassed $50M &lpar;Sharon Goldman/Fortune&rpar;](http://www.techmeme.com/250214/p40#a250214p40)<!-- TECH:END -->
+ - [Best Internet Providers in Boise, Idaho](https://www.cnet.com/home/internet/best-internet-providers-in-boise-id/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

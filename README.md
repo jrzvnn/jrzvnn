@@ -166,10 +166,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [Living the dream](http://9gag.com/gag/a9yzgGZ)
+ - 😝 [2010 vs 2025](http://9gag.com/gag/a9yzeQj)
+ - 💣 [How I imagine word `stupidity` looks.](http://9gag.com/gag/azx5w7B)
  - 😝 [Somehow Beyonce still winning the Grammy](http://9gag.com/gag/a1m73D2)
- - 😝 [O_o](http://9gag.com/gag/apR17BD)
- - 💣 [It&#39;s the same thing, innit?](http://9gag.com/gag/a2vMpXp)
- - 😝 [Today I saw a few British people in London.](http://9gag.com/gag/a4PnyyZ)
  - 👉 [Repost better than bot](http://9gag.com/gag/aGyLQvw)<!-- MEMES:END -->
 
 ---

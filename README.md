@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [No balloons was popped that day!](http://9gag.com/gag/aGyL4vZ)
- - 😝 [How I imagine word `stupidity` looks.](http://9gag.com/gag/azx5w7B)
- - 💣 [We all know what the top comment is going to be](http://9gag.com/gag/aGyLvwX)
- - 😝 [Fastest time to limbo skate under descending poles over 50m. 9.59 seconds by Shristi Dharmendra Sharma](http://9gag.com/gag/aVvg6yv)
- - 👉 [Somehow Beyonce still winning the Grammy](http://9gag.com/gag/a1m73D2)<!-- MEMES:END -->
+ - 😝 [1960s refrigerator](http://9gag.com/gag/ae948nj)
+ - 😝 [I&#39;m sure there was a rat among them](http://9gag.com/gag/ayNqK2W)
+ - 💣 [Random 3yo memes.](http://9gag.com/gag/amoW47y)
+ - 😝 [It ain&#39;t much, but it&#39;s honest vacation...](http://9gag.com/gag/aMVdMGG)
+ - 👉 [He simply makes the best advertising! Part 3](http://9gag.com/gag/aVvgrBd)<!-- MEMES:END -->
 
 ---
 

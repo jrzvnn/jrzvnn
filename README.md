@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [2010 vs 2025](http://9gag.com/gag/a9yzeQj)
+ - 😝 [I&#39;m sure there was a rat among them](http://9gag.com/gag/ayNqK2W)
+ - 😝 [I was there Gandalf...](http://9gag.com/gag/a6ZDYRb)
+ - 💣 [1960s refrigerator](http://9gag.com/gag/ae948nj)
  - 😝 [PROTECT THEM AT ALL COST!](http://9gag.com/gag/aD27K6K)
- - 💣 [Astronaut Chris Hadfield: &#39;It&#39;s Possible To Get Stuck Floating In The Space Station If You Can&#39;t Reach A Wall&#39;](http://9gag.com/gag/agmQwEK)
- - 😝 [Somehow Beyonce still winning the Grammy](http://9gag.com/gag/a1m73D2)
- - 👉 [It should have been me, not him!](http://9gag.com/gag/adBvzDV)<!-- MEMES:END -->
+ - 👉 [I was there 3,000 years ago...](http://9gag.com/gag/a1m73qw)<!-- MEMES:END -->
 
 ---
 

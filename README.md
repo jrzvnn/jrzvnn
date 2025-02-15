@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Sources detail Sam Altman and Elon Musk&#39;s disintegrating relationship and how Altman secretly worked around Musk to blindside him with the Stargate announcement &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/250214/p37#a250214p37)
  - [Perplexity releases Deep Research, offering five queries daily to free users and 500 to subscribers, available now on the web and soon on iOS, Android, and Mac &lpar;Michael Nu&amp;ntilde;ez/VentureBeat&rpar;](http://www.techmeme.com/250214/p36#a250214p36)
  - [Sources: Intel has spoken with the Trump administration and TSMC over the past few months about a deal for TSMC to take control of Intel&#39;s foundry business &lpar;New York Times&rpar;](http://www.techmeme.com/250214/p35#a250214p35)
  - [Kadrey v. Meta: Meta paused some AI-related book licensing efforts in April 2023 after contacting publishers and seeing &quot;slow uptake&quot; and logistical setbacks &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/250214/p34#a250214p34)
- - [Deals: save up to $1,000 on these M3 Max 16-inch MacBook Pro laptops](https://appleinsider.com/articles/25/02/15/deals-save-up-to-1000-on-these-m3-max-16-inch-macbook-pro-laptops?utm_medium=rss)
- - [Filing: Trump Media reports 2024 revenue down 12% YoY to $3.6M and a $400M net loss, up from $58.2M in 2023; the company has a $6.6B market cap &lpar;Jordan Novet/CNBC&rpar;](http://www.techmeme.com/250214/p33#a250214p33)<!-- TECH:END -->
+ - [Deals: save up to $1,000 on these M3 Max 16-inch MacBook Pro laptops](https://appleinsider.com/articles/25/02/15/deals-save-up-to-1000-on-these-m3-max-16-inch-macbook-pro-laptops?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

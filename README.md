@@ -159,9 +159,9 @@ R                        1 repo              ░░░░░░░░░░░�
 <!-- TECH:START -->
  - [Best MacBook Accessories We’ve Tested and Reviewed &lpar;2025&rpar;](https://www.wired.com/story/best-macbook-accessories/)
  - [While Waiting is a playful reminder of the joys of boredom](https://www.theverge.com/games-review/613495/while-waiting-review-switch-pc)
+ - [Best Internet Providers in Forney, Texas](https://www.cnet.com/home/internet/best-internet-providers-in-forney-tx/#ftag=CAD590a51e)
  - [Does Chocolate Go Bad? How to Store It, Freeze it, and Ship It](https://www.wired.com/story/how-to-store-chocolate/)
- - [For-Profit Companies Can’t Easily Replace NOAA’s Weather-Forecasting Prowess](https://www.wired.com/story/noaas-vast-public-weather-data-powers-the-local-forecasts-on-your-phone-and-tv-a-private-company-alone-couldnt-match-it/)
- - [Best Noise-Canceling Headphones &lpar;2025&rpar;: Over-Ears, Wireless Earbuds, Workout Pairs](https://www.wired.com/gallery/best-noise-canceling-headphones/)<!-- TECH:END -->
+ - [For-Profit Companies Can’t Easily Replace NOAA’s Weather-Forecasting Prowess](https://www.wired.com/story/noaas-vast-public-weather-data-powers-the-local-forecasts-on-your-phone-and-tv-a-private-company-alone-couldnt-match-it/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

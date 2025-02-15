@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Industry executives say US crypto miners are facing delays in receiving new equipment from Bitmain and other Chinese suppliers amid heightened customs scrutiny &lpar;David Pan/Bloomberg&rpar;](http://www.techmeme.com/250215/p10#a250215p10)
  - [Analysis: consumers spent $259.1B on Uber, Lyft, and DoorDash in 2024, up from $218.5B in 2023, with $162.8B on Uber, $80.2B on DoorDash, and $16.1B on Lyft &lpar;J. Edward Moreno/Sherwood News&rpar;](http://www.techmeme.com/250215/p9#a250215p9)
  - [Sources: SoftBank-backed eFishery, Indonesia&#39;s high-profile agritech startup, cuts over 1,000 jobs, or ~90% of its workforce, and weighs a potential liquidation &lpar;Olivia Poh/Bloomberg&rpar;](http://www.techmeme.com/250215/p8#a250215p8)
  - [Sources: Lightspeed, whose bets include Wiz, Anthropic, and Stripe, returned $8B from current and active funds in the past five years, with $3B+ coming in 2024 &lpar;Eric Newcomer/Newcomer&rpar;](http://www.techmeme.com/250215/p7#a250215p7)
- - [The website of President Trump&#39;s World Liberty Financial shows the crypto project sold 24B+ of its 25B WLFI tokens after a slow start, implying sales of $1.25B &lpar;Olga Kharif/Bloomberg&rpar;](http://www.techmeme.com/250215/p6#a250215p6)
- - [Zelle&#39;s payment volume crossed $1T in 2024, the most ever for a P2P platform, user base jumped 12% YoY to 151M accounts, and the total dollars sent grew 27% YoY &lpar;Hugh Son/CNBC&rpar;](http://www.techmeme.com/250215/p5#a250215p5)<!-- TECH:END -->
+ - [Today&#39;s NYT Mini Crossword Answers for Saturday, Feb. 15](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-saturday-feb-15/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

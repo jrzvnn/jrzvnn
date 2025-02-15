@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [It will be 75$ thank you](http://9gag.com/gag/agmQz71)
- - 😝 [O_o](http://9gag.com/gag/apR17BD)
- - 💣 [Astronaut Chris Hadfield: &#39;It&#39;s Possible To Get Stuck Floating In The Space Station If You Can&#39;t Reach A Wall&#39;](http://9gag.com/gag/agmQwEK)
+ - 😝 [Random 3yo memes.](http://9gag.com/gag/amoW47y)
+ - 😝 [I was there Gandalf...](http://9gag.com/gag/a6ZDYRb)
+ - 💣 [1960s refrigerator](http://9gag.com/gag/ae948nj)
  - 😝 [Somehow Beyonce still winning the Grammy](http://9gag.com/gag/a1m73D2)
- - 👉 [It&#39;s the same thing, innit?](http://9gag.com/gag/a2vMpXp)<!-- MEMES:END -->
+ - 👉 [I was there 3,000 years ago...](http://9gag.com/gag/a1m73qw)<!-- MEMES:END -->
 
 ---
 

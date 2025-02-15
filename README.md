@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Romance scams may rise as isolation grows and generative AI helps scammers scale; FBI says US victims lost ~$4.5B to such scams over the past decade &lpar;Wired&rpar;](http://www.techmeme.com/250215/p15#a250215p15)
  - [The best Presidents Day sales you can already shop](https://www.theverge.com/good-deals/609704/best-presidents-day-sales-deals-2025-apple-gaming-tech)
  - [Amazon’s revamped Alexa might launch over a month after its announcement event](https://www.theverge.com/news/613821/amazon-alexa-ai-upgrade-delayed-accuracy-issues)
  - [From ChatGPT to Gemini: how AI is rewriting the internet](https://www.theverge.com/23610427/chatbots-chatgpt-new-bing-google-bard-conversational-ai)
- - [Best Squat Racks of 2025](https://www.cnet.com/health/fitness/best-squat-racks/#ftag=CAD590a51e)
- - [Elden Ring Nightreign is already up for preorder with a $10 gift card](https://www.theverge.com/good-deals/613145/elden-ring-nightreign-preorder-xbox-wireless-headset-deal-sale)<!-- TECH:END -->
+ - [Best Squat Racks of 2025](https://www.cnet.com/health/fitness/best-squat-racks/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

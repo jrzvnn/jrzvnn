@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Memo: CISA halts election security work and reviews related activities conducted since 2017, to comply with Trump&#39;s January 20 EO on &quot;ending federal censorship&quot; &lpar;Eric Geller/Wired&rpar;](http://www.techmeme.com/250214/p39#a250214p39)
  - [Sources: Spotify hopes to launch a Music Pro tier in 2025, a $6/month add-on that will include higher-quality audio, early access to concert tickets, and more &lpar;Lucas Shaw/Bloomberg&rpar;](http://www.techmeme.com/250214/p38#a250214p38)
  - [Top US Election Security Watchdog Forced to Stop Election Security Work](https://www.wired.com/story/cisa-election-security-freeze-memo/)
  - [Sources detail Sam Altman and Elon Musk&#39;s disintegrating relationship and how Altman secretly worked around Musk to blindside him with the Stargate announcement &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/250214/p37#a250214p37)
- - [Perplexity releases Deep Research, offering five queries daily to free users and 500 to subscribers, available now on the web and soon on iOS, Android, and Mac &lpar;Michael Nu&amp;ntilde;ez/VentureBeat&rpar;](http://www.techmeme.com/250214/p36#a250214p36)
- - [Sources: Intel has spoken with the Trump administration and TSMC over the past few months about a deal for TSMC to take control of Intel&#39;s foundry business &lpar;New York Times&rpar;](http://www.techmeme.com/250214/p35#a250214p35)<!-- TECH:END -->
+ - [Perplexity releases Deep Research, offering five queries daily to free users and 500 to subscribers, available now on the web and soon on iOS, Android, and Mac &lpar;Michael Nu&amp;ntilde;ez/VentureBeat&rpar;](http://www.techmeme.com/250214/p36#a250214p36)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

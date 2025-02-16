@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [BMW’s next-gen EVs depend on an unassuming black box called ‘Heart of Joy’](https://www.theverge.com/cars/613962/bme-heart-of-joy-ecu-ev-powertrain-drive-dynamics)
  - [Amazon slashes up to 50% off Beats Studio Pro headphones, Studio Buds earbuds](https://appleinsider.com/articles/25/02/16/amazon-slashes-up-to-50-off-beats-studio-pro-headphones-studio-buds-earbuds?utm_medium=rss)
- - [A look at sim racing, Formula One world champion Max Verstappen&#39;s passion for the sport, and his efforts to bring sim drivers to physical racing &lpar;Madeline Coleman/New York Times&rpar;](http://www.techmeme.com/250216/p11#a250216p11)
- - [Trump’s first 100 days: all the news affecting the tech industry](https://www.theverge.com/24348851/donald-trump-presidency-tech-science-news)
- - [Today&#39;s NYT Connections: Sports Edition Hints and Answers for Feb. 17, #147](https://www.cnet.com/tech/gaming/todays-nyt-connections-sports-edition-hints-and-answers-for-feb-17-147/#ftag=CAD590a51e)
- - [Today&#39;s NYT Strands Hints, Answers and Help for Feb. 17, #351](https://www.cnet.com/tech/gaming/todays-nyt-strands-hints-answers-and-help-for-feb-17-351/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Best Internet Providers in Gainesville, Georgia](https://www.cnet.com/home/internet/best-internet-providers-in-gainesville-ga/#ftag=CAD590a51e)
+ - [Best Internet Providers in Durham, North Carolina](https://www.cnet.com/home/internet/best-internet-providers-in-durham-nc/#ftag=CAD590a51e)
+ - [A look at sim racing, Formula One world champion Max Verstappen&#39;s passion for the sport, and his efforts to bring sim drivers to physical racing &lpar;Madeline Coleman/New York Times&rpar;](http://www.techmeme.com/250216/p11#a250216p11)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

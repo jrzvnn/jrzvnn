@@ -166,10 +166,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Maori people who feel threatened to their culture do a haka to protest and block a LGBT pride parade in Auckland today.](http://9gag.com/gag/agmQPP6)
  - 😝 [Salt and pepper](http://9gag.com/gag/aYQG2Vm)
- - 💣 [PROTECT THEM AT ALL COST!](http://9gag.com/gag/aD27K6K)
  - 😝 [Fastest time to limbo skate under descending poles over 50m. 9.59 seconds by Shristi Dharmendra Sharma](http://9gag.com/gag/aVvg6yv)
+ - 💣 [Somehow Beyonce still winning the Grammy](http://9gag.com/gag/a1m73D2)
+ - 😝 [Maori people who feel threatened to their culture do a haka to protest and block a LGBT pride parade in Auckland today.](http://9gag.com/gag/agmQPP6)
  - 👉 [Man attempted to do the European greetings to a Priest in Canada](http://9gag.com/gag/a87ABPd)<!-- MEMES:END -->
 
 ---

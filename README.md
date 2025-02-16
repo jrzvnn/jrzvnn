@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Welcome to the UK](http://9gag.com/gag/awy3NQD)
- - 😝 [What I&#39;ve done](http://9gag.com/gag/azx56eB)
- - 💣 [Line Up Boys](http://9gag.com/gag/aQzgwbW)
- - 😝 [Title.](http://9gag.com/gag/an7OAvB)
- - 👉 [Watch the match not the cheerleading sisters](http://9gag.com/gag/aNDLyoG)<!-- MEMES:END -->
+ - 😝 [`Bond, James Bond` &lpar;007 test in 2005&rpar;](http://9gag.com/gag/aoyWb0X)
+ - 😝 [Salt and pepper](http://9gag.com/gag/aYQG2Vm)
+ - 💣 [German grandpa triggered crowd of leftist protesters with his flag on the balcony](http://9gag.com/gag/ajP7zZp)
+ - 😝 [Lets bring emo back, show some sexy pics please](http://9gag.com/gag/aE0MrnM)
+ - 👉 [Stupid Netflix!](http://9gag.com/gag/aoyWb63)<!-- MEMES:END -->
 
 ---
 

@@ -157,7 +157,7 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The death of former OpenAI employee Suchir Balaji was deemed suicide in a new autopsy report, countering suspicions by his family that had fueled speculation &lpar;Connie Loizos/TechCrunch&rpar;](http://www.techmeme.com/250216/p2#a250216p2)
+ - [The death of former OpenAI employee Suchir Balaji was ruled a suicide in a new autopsy report, countering suspicions by his family that had fueled speculation &lpar;Connie Loizos/TechCrunch&rpar;](http://www.techmeme.com/250216/p2#a250216p2)
  - [Maryland-based Uscreen, which helps creators launch apps, engage fans, monetize memberships, and more, raised $150M from PSG Equity, giving PSG a majority stake &lpar;Dan Whateley/Business Insider&rpar;](http://www.techmeme.com/250216/p1#a250216p1)
  - [Today&#39;s NYT Connections: Sports Edition Hints and Answers for Feb. 16, #146](https://www.cnet.com/tech/gaming/todays-nyt-connections-sports-edition-hints-and-answers-for-feb-16-146/#ftag=CAD590a51e)
  - [Today&#39;s NYT Mini Crossword Answers for Sunday, Feb. 16](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-sunday-feb-16/#ftag=CAD590a51e)

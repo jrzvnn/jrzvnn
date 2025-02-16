@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Stupid Netflix!](http://9gag.com/gag/aoyWb63)
- - 😝 [Re-education camp for Muslims in China](http://9gag.com/gag/a6ZDYn2)
- - 💣 [German grandpa triggered crowd of leftist protesters with his flag on the balcony](http://9gag.com/gag/ajP7zZp)
- - 😝 [PROTECT THEM AT ALL COST!](http://9gag.com/gag/aD27K6K)
- - 👉 [Fastest time to limbo skate under descending poles over 50m. 9.59 seconds by Shristi Dharmendra Sharma](http://9gag.com/gag/aVvg6yv)<!-- MEMES:END -->
+ - 😝 [Random 3yo memes.](http://9gag.com/gag/amoW47y)
+ - 😝 [More educational cat meme](http://9gag.com/gag/a0eoyNn)
+ - 💣 [Line Up Boys](http://9gag.com/gag/aQzgwbW)
+ - 😝 [1960s refrigerator](http://9gag.com/gag/ae948nj)
+ - 👉 [I was there Gandalf...](http://9gag.com/gag/a6ZDYRb)<!-- MEMES:END -->
 
 ---
 

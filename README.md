@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Salt and pepper](http://9gag.com/gag/aYQG2Vm)
- - 😝 [Fastest time to limbo skate under descending poles over 50m. 9.59 seconds by Shristi Dharmendra Sharma](http://9gag.com/gag/aVvg6yv)
- - 💣 [Stupid Netflix!](http://9gag.com/gag/aoyWb63)
- - 😝 [He apparently stabbed passersby at random, killing a 14-year-old student. Shortly afterward, a brave driver was able to stop the rampaging killer of Villach. When the police arrested him, the 23-year-old Afghan laughed as if nothing had happened.](http://9gag.com/gag/ae94v8m)
- - 👉 [German grandpa triggered crowd of leftist protesters with his flag on the balcony](http://9gag.com/gag/ajP7zZp)<!-- MEMES:END -->
+ - 😝 [1960s refrigerator](http://9gag.com/gag/ae948nj)
+ - 😝 [Epic](http://9gag.com/gag/apR1y49)
+ - 💣 [I was there Gandalf...](http://9gag.com/gag/a6ZDYRb)
+ - 😝 [One does not simply hand over a flexi rod to a guy](http://9gag.com/gag/aXPL80g)
+ - 👉 [I was there 3,000 years ago...](http://9gag.com/gag/a1m73qw)<!-- MEMES:END -->
 
 ---
 

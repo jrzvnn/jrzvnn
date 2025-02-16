@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Matha&#39;s Field](http://9gag.com/gag/adBvG2V)
- - 😝 [How](http://9gag.com/gag/agmQRnw)
- - 💣 [Kids can be both boon and bane sometimes](http://9gag.com/gag/aD27K9Z)
- - 😝 [German grandpa triggered crowd of leftist protesters with his flag on the balcony](http://9gag.com/gag/ajP7zZp)
- - 👉 [Salt and pepper](http://9gag.com/gag/aYQG2Vm)<!-- MEMES:END -->
+ - 😝 [Watch the match not the cheerleading sisters](http://9gag.com/gag/aNDLyoG)
+ - 😝 [She said she loves someone else, my business isn&#39;t going very well, my mother is sick, I&#39;m struggling with finances, have anxiety... but i have my own homemade rakia. Happy saturday night b*tches](http://9gag.com/gag/ae94oYO)
+ - 💣 [How](http://9gag.com/gag/agmQRnw)
+ - 😝 [Kids can be both boon and bane sometimes](http://9gag.com/gag/aD27K9Z)
+ - 👉 [Give your coolest upvote gifs/pics](http://9gag.com/gag/avyW3xb)<!-- MEMES:END -->
 
 ---
 

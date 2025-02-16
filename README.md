@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Salt and pepper](http://9gag.com/gag/aYQG2Vm)
- - 😝 [Now that is some serious level of skill](http://9gag.com/gag/aRBLbjj)
- - 💣 [He apparently stabbed passersby at random, killing a 14-year-old student. Shortly afterward, a brave driver was able to stop the rampaging killer of Villach. When the police arrested him, the 23-year-old Afghan laughed as if nothing had happened.](http://9gag.com/gag/ae94v8m)
- - 😝 [German grandpa triggered crowd of leftist protesters with his flag on the balcony](http://9gag.com/gag/ajP7zZp)
- - 👉 [Lets bring emo back, show some sexy pics please](http://9gag.com/gag/aE0MrnM)<!-- MEMES:END -->
+ - 😝 [Welcome to the UK](http://9gag.com/gag/awy3NQD)
+ - 😝 [What I&#39;ve done](http://9gag.com/gag/azx56eB)
+ - 💣 [Line Up Boys](http://9gag.com/gag/aQzgwbW)
+ - 😝 [Title.](http://9gag.com/gag/an7OAvB)
+ - 👉 [Watch the match not the cheerleading sisters](http://9gag.com/gag/aNDLyoG)<!-- MEMES:END -->
 
 ---
 

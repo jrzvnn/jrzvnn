@@ -167,9 +167,9 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [Man attempted to do the European greetings to a Priest in Canada](http://9gag.com/gag/a87ABPd)
- - 😝 [Maori people who feel threatened to their culture do a haka to protest and block a LGBT pride parade in Auckland today.](http://9gag.com/gag/agmQPP6)
+ - 😝 [PROTECT THEM AT ALL COST!](http://9gag.com/gag/aD27K6K)
  - 💣 [Fastest time to limbo skate under descending poles over 50m. 9.59 seconds by Shristi Dharmendra Sharma](http://9gag.com/gag/aVvg6yv)
- - 😝 [Salt and pepper](http://9gag.com/gag/aYQG2Vm)
+ - 😝 [What are you looking for, old man?...](http://9gag.com/gag/a87AR8e)
  - 👉 [Stupid Netflix!](http://9gag.com/gag/aoyWb63)<!-- MEMES:END -->
 
 ---

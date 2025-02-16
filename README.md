@@ -158,10 +158,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- TECH:START -->
  - [India&#39;s BharatNet program to provide broadband access to 650K villages by 2025 is set to fall short of its target, with only 199K having broadband as of January &lpar;Pooja Dash/IndiaSpend&rpar;](http://www.techmeme.com/250216/p4#a250216p4)
+ - [Premier League Soccer: Livestream Liverpool vs. Wolves From Anywhere](https://www.cnet.com/tech/services-and-software/premier-league-soccer-livestream-liverpool-vs-wolves-from-anywhere/#ftag=CAD590a51e)
+ - [How to Change Your iPhone&#39;s Default Apps in 3 Easy Steps](https://www.cnet.com/tech/services-and-software/how-to-change-your-iphones-default-apps-in-3-easy-steps/#ftag=CAD590a51e)
  - [The Best Presidents’ Day Mattress Deals &lpar;and Bedding Too!&rpar;](https://www.wired.com/story/presidents-day-mattress-deals-2025/)
- - [Intel&#39;s foundry business lost over $13B on $17.5B revenue in 2024, while TSMC generated $41.1B in operating profit on $90B in revenue over the same period &lpar;Dan Gallagher/Wall Street Journal&rpar;](http://www.techmeme.com/250216/p3#a250216p3)
- - [The death of former OpenAI employee Suchir Balaji was ruled a suicide in a new autopsy report, countering suspicions by his family that had fueled speculation &lpar;Connie Loizos/TechCrunch&rpar;](http://www.techmeme.com/250216/p2#a250216p2)
- - [Maryland-based Uscreen, which helps creators launch apps, engage fans, monetize memberships, and more, raised $150M from PSG Equity, giving PSG a majority stake &lpar;Dan Whateley/Business Insider&rpar;](http://www.techmeme.com/250216/p1#a250216p1)<!-- TECH:END -->
+ - [Intel&#39;s foundry business lost over $13B on $17.5B revenue in 2024, while TSMC generated $41.1B in operating profit on $90B in revenue over the same period &lpar;Dan Gallagher/Wall Street Journal&rpar;](http://www.techmeme.com/250216/p3#a250216p3)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

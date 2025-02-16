@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [I&#39;m da baby](http://9gag.com/gag/ary31nV)
- - 😝 [Too hard.](http://9gag.com/gag/aLnLqjM)
- - 💣 [Skyrim sleep experiment](http://9gag.com/gag/abA138E)
- - 😝 [When not even Jimmy Carr has a comeback, you know you nailed the roast.](http://9gag.com/gag/aoy3mRX)
- - 👉 [A Real Samurai home](http://9gag.com/gag/a345vxv)<!-- MEMES:END -->
+ - 😝 [Give your coolest upvote gifs/pics](http://9gag.com/gag/avyW3xb)
+ - 😝 [Animation depicting what addiction feels like](http://9gag.com/gag/avyWNEE)
+ - 💣 [Salt and pepper](http://9gag.com/gag/aYQG2Vm)
+ - 😝 [He apparently stabbed passersby at random, killing a 14-year-old student. Shortly afterward, a brave driver was able to stop the rampaging killer of Villach. When the police arrested him, the 23-year-old Afghan laughed as if nothing had happened.](http://9gag.com/gag/ae94v8m)
+ - 👉 [How](http://9gag.com/gag/agmQRnw)<!-- MEMES:END -->
 
 ---
 

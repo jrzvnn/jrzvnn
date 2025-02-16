@@ -166,10 +166,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [Stupid Netflix!](http://9gag.com/gag/aoyWb63)
+ - 😝 [Watch the match not the cheerleading sisters](http://9gag.com/gag/aNDLyoG)
+ - 💣 [Lets bring emo back, show some sexy pics please](http://9gag.com/gag/aE0MrnM)
  - 😝 [`Bond, James Bond` &lpar;007 test in 2005&rpar;](http://9gag.com/gag/aoyWb0X)
- - 😝 [How](http://9gag.com/gag/agmQRnw)
- - 💣 [Animation depicting what addiction feels like](http://9gag.com/gag/avyWNEE)
- - 😝 [He apparently stabbed passersby at random, killing a 14-year-old student. Shortly afterward, a brave driver was able to stop the rampaging killer of Villach. When the police arrested him, the 23-year-old Afghan laughed as if nothing had happened.](http://9gag.com/gag/ae94v8m)
  - 👉 [Make sense...](http://9gag.com/gag/aLnLyYv)<!-- MEMES:END -->
 
 ---

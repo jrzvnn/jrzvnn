@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [1960s refrigerator](http://9gag.com/gag/ae948nj)
- - 😝 [Epic](http://9gag.com/gag/apR1y49)
- - 💣 [I was there Gandalf...](http://9gag.com/gag/a6ZDYRb)
- - 😝 [One does not simply hand over a flexi rod to a guy](http://9gag.com/gag/aXPL80g)
- - 👉 [I was there 3,000 years ago...](http://9gag.com/gag/a1m73qw)<!-- MEMES:END -->
+ - 😝 [He apparently stabbed passersby at random, killing a 14-year-old student. Shortly afterward, a brave driver was able to stop the rampaging killer of Villach. When the police arrested him, the 23-year-old Afghan laughed as if nothing had happened.](http://9gag.com/gag/ae94v8m)
+ - 😝 [Maori people who feel threatened to their culture do a haka to protest and block a LGBT pride parade in Auckland today.](http://9gag.com/gag/agmQPP6)
+ - 💣 [Stupid Netflix!](http://9gag.com/gag/aoyWb63)
+ - 😝 [Imagine you are the boyfriend](http://9gag.com/gag/aO82LLr)
+ - 👉 [PROTECT THEM AT ALL COST!](http://9gag.com/gag/aD27K6K)<!-- MEMES:END -->
 
 ---
 

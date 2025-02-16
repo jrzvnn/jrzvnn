@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Maori people who feel threatened to their culture do a haka to protest and block a LGBT pride parade in Auckland today.](http://9gag.com/gag/agmQPP6)
- - 😝 [He apparently stabbed passersby at random, killing a 14-year-old student. Shortly afterward, a brave driver was able to stop the rampaging killer of Villach. When the police arrested him, the 23-year-old Afghan laughed as if nothing had happened.](http://9gag.com/gag/ae94v8m)
- - 💣 [German grandpa triggered crowd of leftist protesters with his flag on the balcony](http://9gag.com/gag/ajP7zZp)
- - 😝 [Stupid Netflix!](http://9gag.com/gag/aoyWb63)
- - 👉 [PROTECT THEM AT ALL COST!](http://9gag.com/gag/aD27K6K)<!-- MEMES:END -->
+ - 😝 [I was there 3,000 years ago...](http://9gag.com/gag/a1m73qw)
+ - 😝 [Epic](http://9gag.com/gag/apR1y49)
+ - 💣 [Watch the match not the cheerleading sisters](http://9gag.com/gag/aNDLyoG)
+ - 😝 [Somehow Beyonce still winning the Grammy](http://9gag.com/gag/a1m73D2)
+ - 👉 [In a world full of cruel things, choose to be kind...](http://9gag.com/gag/aqyRogZ)<!-- MEMES:END -->
 
 ---
 

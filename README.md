@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Maori people who feel threatened to their culture do a haka to protest and block a LGBT pride parade in Auckland today.](http://9gag.com/gag/agmQPP6)
- - 😝 [Fastest time to limbo skate under descending poles over 50m. 9.59 seconds by Shristi Dharmendra Sharma](http://9gag.com/gag/aVvg6yv)
- - 💣 [Man attempted to do the European greetings to a Priest in Canada](http://9gag.com/gag/a87ABPd)
- - 😝 [I hope she&#39;s safe, Does anyone know for which channel she&#39;s working for?](http://9gag.com/gag/aGyLmN0)
- - 👉 [PROTECT THEM AT ALL COST!](http://9gag.com/gag/aD27K6K)<!-- MEMES:END -->
+ - 😝 [More educational cat meme](http://9gag.com/gag/a0eoyNn)
+ - 😝 [I&#39;m sure there was a rat among them](http://9gag.com/gag/ayNqK2W)
+ - 💣 [1960s refrigerator](http://9gag.com/gag/ae948nj)
+ - 😝 [I was there Gandalf...](http://9gag.com/gag/a6ZDYRb)
+ - 👉 [I was there 3,000 years ago...](http://9gag.com/gag/a1m73qw)<!-- MEMES:END -->
 
 ---
 

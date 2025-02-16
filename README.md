@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [YouTube TV has a deal to keep Paramount content](https://www.theverge.com/news/613936/youtube-tv-paramount-deal-cbs-sports-nickelodeon)
  - [Spin Class Gear to Level Up Your Ride, WIRED-Tested &lpar;2025&rpar;](https://www.wired.com/story/spin-class-starter-pack/)
  - [Apple Studio Display update may arrive a year later than expected](https://appleinsider.com/articles/25/02/16/apple-studio-display-update-may-arrive-a-year-later-than-expected?utm_medium=rss)
  - [Tim Cook&#39;s tweet hints at new name for iPhone SE 4](https://appleinsider.com/articles/25/02/16/tim-cooks-tweet-hints-at-new-name-for-iphone-se-4?utm_medium=rss)
- - [Amazon&#39;s Alexa Is Getting a Major AI Upgrade. Here&#39;s What We Know](https://www.cnet.com/home/smart-home/amazons-alexa-is-getting-a-major-ai-upgrade-heres-what-we-know/#ftag=CAD590a51e)
- - [Premier League Soccer: Livestream Tottenham vs. Man United From Anywhere](https://www.cnet.com/tech/services-and-software/premier-league-soccer-livestream-tottenham-vs-man-united-from-anywhere/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Amazon&#39;s Alexa Is Getting a Major AI Upgrade. Here&#39;s What We Know](https://www.cnet.com/home/smart-home/amazons-alexa-is-getting-a-major-ai-upgrade-heres-what-we-know/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

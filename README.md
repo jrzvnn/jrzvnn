@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Give your coolest upvote gifs/pics](http://9gag.com/gag/avyW3xb)
- - 😝 [Animation depicting what addiction feels like](http://9gag.com/gag/avyWNEE)
- - 💣 [Salt and pepper](http://9gag.com/gag/aYQG2Vm)
+ - 😝 [`Bond, James Bond` &lpar;007 test in 2005&rpar;](http://9gag.com/gag/aoyWb0X)
+ - 😝 [How](http://9gag.com/gag/agmQRnw)
+ - 💣 [Animation depicting what addiction feels like](http://9gag.com/gag/avyWNEE)
  - 😝 [He apparently stabbed passersby at random, killing a 14-year-old student. Shortly afterward, a brave driver was able to stop the rampaging killer of Villach. When the police arrested him, the 23-year-old Afghan laughed as if nothing had happened.](http://9gag.com/gag/ae94v8m)
- - 👉 [How](http://9gag.com/gag/agmQRnw)<!-- MEMES:END -->
+ - 👉 [Make sense...](http://9gag.com/gag/aLnLyYv)<!-- MEMES:END -->
 
 ---
 

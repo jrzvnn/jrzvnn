@@ -166,10 +166,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Lets bring emo back, show some sexy pics please](http://9gag.com/gag/aE0MrnM)
+ - 😝 [German grandpa triggered crowd of leftist protesters with his flag on the balcony](http://9gag.com/gag/ajP7zZp)
+ - 😝 [Now that is some serious level of skill](http://9gag.com/gag/aRBLbjj)
+ - 💣 [Lets bring emo back, show some sexy pics please](http://9gag.com/gag/aE0MrnM)
  - 😝 [He apparently stabbed passersby at random, killing a 14-year-old student. Shortly afterward, a brave driver was able to stop the rampaging killer of Villach. When the police arrested him, the 23-year-old Afghan laughed as if nothing had happened.](http://9gag.com/gag/ae94v8m)
- - 💣 [Maori people who feel threatened to their culture do a haka to protest and block a LGBT pride parade in Auckland today.](http://9gag.com/gag/agmQPP6)
- - 😝 [No balloons was popped that day!](http://9gag.com/gag/aGyL4vZ)
  - 👉 [Imagine you are the boyfriend](http://9gag.com/gag/aO82LLr)<!-- MEMES:END -->
 
 ---

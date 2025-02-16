@@ -158,10 +158,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- TECH:START -->
  - [Match&#39;s head of trust and safety Yoel Roth says it is using AI in its apps like Tinder to detect men&#39;s &quot;off-color&quot; messages and &quot;drive behavioral change&quot; &lpar;Financial Times&rpar;](http://www.techmeme.com/250216/p10#a250216p10)
+ - [Forget the Processed Stuff. These 6 Natural Sugar Alternatives Taste Better](https://www.cnet.com/health/nutrition/forget-the-processed-stuff-these-6-natural-sugar-alternatives-taste-better/#ftag=CAD590a51e)
  - [Best Home Security Cameras With Floodlights in 2025](https://www.cnet.com/home/security/best-floodlight-home-security-cameras/#ftag=CAD590a51e)
  - [A look at Apple&#39;s and Meta&#39;s robotics efforts; sources: Apple is working on a 27&quot; Studio Display successor to launch by 2026 and considering Maps monetization &lpar;Mark Gurman/Bloomberg&rpar;](http://www.techmeme.com/250216/p9#a250216p9)
- - [Want Healthier Hair? Focus on These 7 Hair-Friendly Vitamins](https://www.cnet.com/health/nutrition/want-healthier-hair-focus-on-these-7-hair-friendly-vitamins/#ftag=CAD590a51e)
- - [Meta&#39;s Joel Kaplan says Meta &quot;won&#39;t shy away&quot; from taking up its case with President Trump if the EU uses its rules to unfairly target Meta&#39;s products &lpar;Gian Volpicelli/Bloomberg&rpar;](http://www.techmeme.com/250216/p8#a250216p8)<!-- TECH:END -->
+ - [Want Healthier Hair? Focus on These 7 Hair-Friendly Vitamins](https://www.cnet.com/health/nutrition/want-healthier-hair-focus-on-these-7-hair-friendly-vitamins/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

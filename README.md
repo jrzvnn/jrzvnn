@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Tencent is testing DeepSeek for search in its messaging app Weixin, while Baidu plans to fully connect its search engine to DeepSeek and its own LLM Ernie &lpar;Reuters&rpar;](http://www.techmeme.com/250216/p7#a250216p7)
  - [Zagg Pro Keys 2 for iPad Pro: A Thick Keyboard Case](https://www.wired.com/review/zagg-pro-keys-2-ipad-pro-13-inch-keyboard-case/)
  - [MacBook Pro rumored to get Apple Silicon M5 before iPad Pro](https://appleinsider.com/articles/25/02/16/macbook-pro-rumored-to-get-apple-silicon-m5-before-ipad-pro?utm_medium=rss)
  - [Indian authorities have seized nearly $190M in cryptocurrency linked to the BitConnect Ponzi scheme, one of the country&#39;s largest crypto enforcement actions &lpar;Kyle Baird/DL News&rpar;](http://www.techmeme.com/250216/p6#a250216p6)
- - [Apple Maps paid search ads under consideration in monetization push](https://appleinsider.com/articles/25/02/16/apple-maps-paid-search-ads-under-consideration-in-monetization-push?utm_medium=rss)
- - [Some Bolivians, frustrated with spotty internet from the state&#39;s China-built satellite, are smuggling in Starlink kits despite the country&#39;s ban in August 2024 &lpar;William Wroblewski/Rest of World&rpar;](http://www.techmeme.com/250216/p5#a250216p5)<!-- TECH:END -->
+ - [Apple Maps paid search ads under consideration in monetization push](https://appleinsider.com/articles/25/02/16/apple-maps-paid-search-ads-under-consideration-in-monetization-push?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

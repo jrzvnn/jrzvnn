@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Indian authorities have seized nearly $190M in cryptocurrency linked to the BitConnect Ponzi scheme, one of the country&#39;s largest crypto enforcement actions &lpar;Kyle Baird/DL News&rpar;](http://www.techmeme.com/250216/p6#a250216p6)
  - [Apple Maps paid search ads under consideration in monetization push](https://appleinsider.com/articles/25/02/16/apple-maps-paid-search-ads-under-consideration-in-monetization-push?utm_medium=rss)
  - [Some Bolivians, frustrated with spotty internet from the state&#39;s China-built satellite, are smuggling in Starlink kits despite the country&#39;s ban in August 2024 &lpar;William Wroblewski/Rest of World&rpar;](http://www.techmeme.com/250216/p5#a250216p5)
  - [Tim Cook&#39;s tweet hints at new name for iPhone SE 4](https://appleinsider.com/articles/25/02/16/tim-cooks-tweet-hints-at-new-name-for-iphone-se-4?utm_medium=rss)
- - [YouTube TV has a deal to keep Paramount content](https://www.theverge.com/news/613936/youtube-tv-paramount-deal-cbs-sports-nickelodeon)
- - [Spin Class Gear to Level Up Your Ride, WIRED-Tested &lpar;2025&rpar;](https://www.wired.com/story/spin-class-starter-pack/)<!-- TECH:END -->
+ - [YouTube TV has a deal to keep Paramount content](https://www.theverge.com/news/613936/youtube-tv-paramount-deal-cbs-sports-nickelodeon)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

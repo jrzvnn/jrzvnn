@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Had to ask for a second bill because the restaurant added a tip to the first without asking me\u2026 in the uk too.](http://9gag.com/gag/an7O6bL)
- - 😝 [How](http://9gag.com/gag/agmQRnw)
- - 💣 [`Bond, James Bond` &lpar;007 test in 2005&rpar;](http://9gag.com/gag/aoyWb0X)
- - 😝 [Make sense...](http://9gag.com/gag/aLnLyYv)
- - 👉 [Stupid Netflix!](http://9gag.com/gag/aoyWb63)<!-- MEMES:END -->
+ - 😝 [I&#39;m da baby](http://9gag.com/gag/ary31nV)
+ - 😝 [Too hard.](http://9gag.com/gag/aLnLqjM)
+ - 💣 [Skyrim sleep experiment](http://9gag.com/gag/abA138E)
+ - 😝 [When not even Jimmy Carr has a comeback, you know you nailed the roast.](http://9gag.com/gag/aoy3mRX)
+ - 👉 [A Real Samurai home](http://9gag.com/gag/a345vxv)<!-- MEMES:END -->
 
 ---
 

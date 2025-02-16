@@ -158,10 +158,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- TECH:START -->
  - [A look at Apple&#39;s and Meta&#39;s robotics efforts; sources: Apple is working on a 27&quot; Studio Display successor to launch by 2026 and considering Maps monetization &lpar;Mark Gurman/Bloomberg&rpar;](http://www.techmeme.com/250216/p9#a250216p9)
+ - [Want Healthier Hair? Focus on These 7 Hair-Friendly Vitamins](https://www.cnet.com/health/nutrition/want-healthier-hair-focus-on-these-7-hair-friendly-vitamins/#ftag=CAD590a51e)
  - [Meta&#39;s Joel Kaplan says Meta &quot;won&#39;t shy away&quot; from taking up its case with President Trump if the EU uses its rules to unfairly target Meta&#39;s products &lpar;Gian Volpicelli/Bloomberg&rpar;](http://www.techmeme.com/250216/p8#a250216p8)
  - [Boox Note Air 3 C review: A good color e-ink reading experience, for iPad prices](https://appleinsider.com/articles/25/02/16/boox-note-air-3-c-review-a-good-color-e-ink-reading-experience-for-ipad-prices?utm_medium=rss)
- - [Tencent is testing DeepSeek for search in its messaging app Weixin, while Baidu plans to fully connect its search engine to DeepSeek and its own LLM Ernie &lpar;Reuters&rpar;](http://www.techmeme.com/250216/p7#a250216p7)
- - [Zagg Pro Keys 2 for iPad Pro: A Thick Keyboard Case](https://www.wired.com/review/zagg-pro-keys-2-ipad-pro-13-inch-keyboard-case/)<!-- TECH:END -->
+ - [Tencent is testing DeepSeek for search in its messaging app Weixin, while Baidu plans to fully connect its search engine to DeepSeek and its own LLM Ernie &lpar;Reuters&rpar;](http://www.techmeme.com/250216/p7#a250216p7)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

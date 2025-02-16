@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [`Bond, James Bond` &lpar;007 test in 2005&rpar;](http://9gag.com/gag/aoyWb0X)
- - 😝 [Salt and pepper](http://9gag.com/gag/aYQG2Vm)
- - 💣 [German grandpa triggered crowd of leftist protesters with his flag on the balcony](http://9gag.com/gag/ajP7zZp)
- - 😝 [Lets bring emo back, show some sexy pics please](http://9gag.com/gag/aE0MrnM)
- - 👉 [Stupid Netflix!](http://9gag.com/gag/aoyWb63)<!-- MEMES:END -->
+ - 😝 [How](http://9gag.com/gag/agmQRnw)
+ - 😝 [Kids can be both boon and bane sometimes](http://9gag.com/gag/aD27K9Z)
+ - 💣 [Salt and pepper](http://9gag.com/gag/aYQG2Vm)
+ - 😝 [German grandpa triggered crowd of leftist protesters with his flag on the balcony](http://9gag.com/gag/ajP7zZp)
+ - 👉 [Lets bring emo back, show some sexy pics please](http://9gag.com/gag/aE0MrnM)<!-- MEMES:END -->
 
 ---
 

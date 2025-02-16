@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Asus Zenbook A14 Review: A Super Lightweight Laptop](https://www.wired.com/review/asus-zenbook-a14/)
+ - [A treasure trove of comedy history](https://www.theverge.com/installer-newsletter/613174/snl-50-peacock-apple-tv-plus-powerbeats-pro-2-installer)
+ - [Five Things We Learned From NASA&#39;s First Interactive Twitch Stream From Space](https://www.cnet.com/science/five-things-we-learned-from-nasas-first-interactive-twitch-stream-from-space/#ftag=CAD590a51e)
  - [15 Best USB-C Cables &lpar;2025&rpar;: For iPhones, Android Phones, Tablets, and Laptops](https://www.wired.com/gallery/best-usb-c-cables/)
- - [This New Algorithm for Sorting Books or Files Is Close to Perfection](https://www.wired.com/story/new-book-sorting-algorithm-almost-reaches-perfection/)
- - [India&#39;s BharatNet program to provide broadband access to 650K villages by 2025 is set to fall short of its target, with only 199K having broadband as of January &lpar;Pooja Dash/IndiaSpend&rpar;](http://www.techmeme.com/250216/p4#a250216p4)
- - [Premier League Soccer: Livestream Liverpool vs. Wolves From Anywhere](https://www.cnet.com/tech/services-and-software/premier-league-soccer-livestream-liverpool-vs-wolves-from-anywhere/#ftag=CAD590a51e)
- - [How to Change Your iPhone&#39;s Default Apps in 3 Easy Steps](https://www.cnet.com/tech/services-and-software/how-to-change-your-iphones-default-apps-in-3-easy-steps/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [&#39;The White Lotus&#39; Season 3 Premieres Tonight. Here&#39;s How to Watch](https://www.cnet.com/tech/services-and-software/the-white-lotus-season-3-premiere-how-to-watch/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

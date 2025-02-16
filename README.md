@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Salt and pepper](http://9gag.com/gag/aYQG2Vm)
- - 😝 [He apparently stabbed passersby at random, killing a 14-year-old student. Shortly afterward, a brave driver was able to stop the rampaging killer of Villach. When the police arrested him, the 23-year-old Afghan laughed as if nothing had happened.](http://9gag.com/gag/ae94v8m)
- - 💣 [Stupid Netflix!](http://9gag.com/gag/aoyWb63)
- - 😝 [German grandpa triggered crowd of leftist protesters with his flag on the balcony](http://9gag.com/gag/ajP7zZp)
- - 👉 [PROTECT THEM AT ALL COST!](http://9gag.com/gag/aD27K6K)<!-- MEMES:END -->
+ - 😝 [I was there 3,000 years ago...](http://9gag.com/gag/a1m73qw)
+ - 😝 [Epic](http://9gag.com/gag/apR1y49)
+ - 💣 [Somehow Beyonce still winning the Grammy](http://9gag.com/gag/a1m73D2)
+ - 😝 [Are we still accepting dumb Taylor Swift memes?](http://9gag.com/gag/an7OA7o)
+ - 👉 [Watch the match not the cheerleading sisters](http://9gag.com/gag/aNDLyoG)<!-- MEMES:END -->
 
 ---
 

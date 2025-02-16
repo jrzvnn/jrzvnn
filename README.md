@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Asus Zenbook A14 Review: A Super Lightweight Laptop](https://www.wired.com/review/asus-zenbook-a14/)
- - [A treasure trove of comedy history](https://www.theverge.com/installer-newsletter/613174/snl-50-peacock-apple-tv-plus-powerbeats-pro-2-installer)
- - [Five Things We Learned From NASA&#39;s First Interactive Twitch Stream From Space](https://www.cnet.com/science/five-things-we-learned-from-nasas-first-interactive-twitch-stream-from-space/#ftag=CAD590a51e)
- - [15 Best USB-C Cables &lpar;2025&rpar;: For iPhones, Android Phones, Tablets, and Laptops](https://www.wired.com/gallery/best-usb-c-cables/)
- - [&#39;The White Lotus&#39; Season 3 Premieres Tonight. Here&#39;s How to Watch](https://www.cnet.com/tech/services-and-software/the-white-lotus-season-3-premiere-how-to-watch/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Tim Cook&#39;s tweet hints at new name for iPhone SE 4](https://appleinsider.com/articles/25/02/16/tim-cooks-tweet-hints-at-new-name-for-iphone-se-4?utm_medium=rss)
+ - [Amazon&#39;s Alexa Is Getting a Major AI Upgrade. Here&#39;s What We Know](https://www.cnet.com/home/smart-home/amazons-alexa-is-getting-a-major-ai-upgrade-heres-what-we-know/#ftag=CAD590a51e)
+ - [Premier League Soccer: Livestream Tottenham vs. Man United From Anywhere](https://www.cnet.com/tech/services-and-software/premier-league-soccer-livestream-tottenham-vs-man-united-from-anywhere/#ftag=CAD590a51e)
+ - [Can You Survive 24 Hours Without the Internet? I Tried It and Here&#39;s How It Went](https://www.cnet.com/home/internet/can-you-go-without-the-internet-for-a-day/#ftag=CAD590a51e)
+ - [The 5 Best Multivitamins for Men in 2025](https://www.cnet.com/health/nutrition/best-multivitamins-for-men/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

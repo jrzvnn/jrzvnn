@@ -158,10 +158,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- TECH:START -->
  - [Analysis: Spotify, which reported its first annual profit in 2024, had just &amp;euro;1.8B in ad revenue, 26% above 2022, while subscription revenue grew 35% to &amp;euro;13.8B &lpar;Catherine Perloff/The Information&rpar;](http://www.techmeme.com/250217/p12#a250217p12)
- - [Best Internet Providers in Greenwood, Indiana](https://www.cnet.com/home/internet/best-internet-providers-in-greenwood-in/#ftag=CAD590a51e)
  - [Dream, which offers cybersecurity tools to governments and critical infrastructure firms, raised $100M led by Bain at a $1.1B valuation, up from $190M in 2023 &lpar;Gillian Tan/Bloomberg&rpar;](http://www.techmeme.com/250217/p11#a250217p11)
  - [12 Best Laptops of 2025: MacBooks, Windows, Chromebooks, Copilot+ PCs](https://www.wired.com/gallery/best-laptops/)
- - [X is blocking links to Signal](https://www.theverge.com/news/613997/x-blocks-signal-me-links-errors)<!-- TECH:END -->
+ - [X is blocking links to Signal](https://www.theverge.com/news/613997/x-blocks-signal-me-links-errors)
+ - [A ‘Teleportation’ Breakthrough for Quantum Computing Is Here](https://www.wired.com/story/quantum-computing-information-teleportation/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

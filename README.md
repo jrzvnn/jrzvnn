@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [The bells on this Hitman Easter Egg](http://9gag.com/gag/aAy6BNE)
- - 😝 [All in one](http://9gag.com/gag/aPAxOdP)
- - 💣 [Too hard.](http://9gag.com/gag/aLnLqjM)
- - 😝 [The disrespect](http://9gag.com/gag/apR3Ev9)
- - 👉 [Line Up Boys](http://9gag.com/gag/aQzgwbW)<!-- MEMES:END -->
+ - 😝 [Watch the match not the cheerleading sisters](http://9gag.com/gag/aNDLyoG)
+ - 😝 [Make sense...](http://9gag.com/gag/aLnLyYv)
+ - 💣 [`Bond, James Bond` &lpar;007 test in 2005&rpar;](http://9gag.com/gag/aoyWb0X)
+ - 😝 [Line Up Boys](http://9gag.com/gag/aQzgwbW)
+ - 👉 [Salt and pepper](http://9gag.com/gag/aYQG2Vm)<!-- MEMES:END -->
 
 ---
 

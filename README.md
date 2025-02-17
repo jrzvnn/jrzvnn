@@ -166,9 +166,9 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [She said she loves someone else, my business isn&#39;t going very well, my mother is sick, I&#39;m struggling with finances, have anxiety... but i have my own homemade rakia. Happy saturday night b*tches](http://9gag.com/gag/ae94oYO)
- - 😝 [Jay-Z paid heavily](http://9gag.com/gag/aW4pVZ6)
- - 💣 [She killedd the Cult Religionn](http://9gag.com/gag/a0eoArn)
+ - 😝 [In Denmark, when you turn 30 and are not married, your friends come and throw pepper over you. At the same time, they place a \u201cpebersvend\u201d &lpar;a symbolic figure&rpar; by your house to show others that you are unmarried. This is me, from today](http://9gag.com/gag/agm13qW)
+ - 😝 [Massage Competition](http://9gag.com/gag/aqyX9zM)
+ - 💣 [She said she loves someone else, my business isn&#39;t going very well, my mother is sick, I&#39;m struggling with finances, have anxiety... but i have my own homemade rakia. Happy saturday night b*tches](http://9gag.com/gag/ae94oYO)
  - 😝 [You broke the code!!](http://9gag.com/gag/aRB4Q12)
  - 👉 [Lets bring emo back, show some sexy pics please](http://9gag.com/gag/aE0MrnM)<!-- MEMES:END -->
 

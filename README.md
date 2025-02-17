@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [X challenges a German court order requiring it to share metrics such as likes and shares with researchers before the February 23 election, in a test of EU&#39;s DSA &lpar;Politico&rpar;](http://www.techmeme.com/250217/p13#a250217p13)
  - [BMW’s next-gen EVs depend on an unassuming black box called ‘Heart of Joy’](https://www.theverge.com/cars/613962/bme-heart-of-joy-ecu-ev-powertrain-drive-dynamics)
  - [How Apple Music stands firm amidst Spotify&#39;s Premium plan hikes](https://appleinsider.com/articles/25/02/17/how-apple-music-stands-firm-amidst-spotifys-premium-plan-hikes?utm_medium=rss)
  - [The best Presidents Day sales from Apple, Bose, Google, and more](https://www.theverge.com/good-deals/609704/best-presidents-day-sales-deals-2025-apple-gaming-tech)
- - [&#39;Sonic 3&#39; Will Zoom Onto Paramount Plus This Week](https://www.cnet.com/tech/services-and-software/sonic-3-will-zoom-onto-paramount-plus-this-week/#ftag=CAD590a51e)
- - [La Liga Soccer Livestream: How to Watch Barcelona vs. Rayo Vallecano From Anywhere](https://www.cnet.com/tech/services-and-software/la-liga-soccer-livestream-how-to-watch-barcelona-vs-rayo-vallecano-from-anywhere/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [&#39;Sonic 3&#39; Will Zoom Onto Paramount Plus This Week](https://www.cnet.com/tech/services-and-software/sonic-3-will-zoom-onto-paramount-plus-this-week/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

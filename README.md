@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [New Achievement Unlocked!](http://9gag.com/gag/agm1y0x)
- - 😝 [Even the other pigs were trying to wake him up jaja](http://9gag.com/gag/a876LwY)
- - 💣 [It\u2019s true](http://9gag.com/gag/ayN37ry)
- - 😝 [Foxtrot Uniform Charlie Kilo](http://9gag.com/gag/a4P6K0v)
- - 👉 [Muhammed Ali&#39;s opinion on race mixing.](http://9gag.com/gag/aE06vWM)<!-- MEMES:END -->
+ - 😝 [It should be just a calm ice fishing](http://9gag.com/gag/aGyL3Y0)
+ - 😝 [Cheers](http://9gag.com/gag/aRB4wpA)
+ - 💣 [Even the other pigs were trying to wake him up jaja](http://9gag.com/gag/a876LwY)
+ - 😝 [Too hard.](http://9gag.com/gag/aLnLqjM)
+ - 👉 [Idk what this is but I like it](http://9gag.com/gag/aYQG2n7)<!-- MEMES:END -->
 
 ---
 

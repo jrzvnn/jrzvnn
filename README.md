@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [A real gamer](http://9gag.com/gag/an7OAqV)
- - 😝 [He apparently stabbed passersby at random, killing a 14-year-old student. Shortly afterward, a brave driver was able to stop the rampaging killer of Villach. When the police arrested him, the 23-year-old Afghan laughed as if nothing had happened.](http://9gag.com/gag/ae94v8m)
- - 💣 [Can&#39;t disagree](http://9gag.com/gag/amoW3Q9)
  - 😝 [Salt and pepper](http://9gag.com/gag/aYQG2Vm)
- - 👉 [Watch the match not the cheerleading sisters](http://9gag.com/gag/aNDLyoG)<!-- MEMES:END -->
+ - 😝 [Give me your best Chuck Norris&#39;s facts..](http://9gag.com/gag/amoW3dV)
+ - 💣 [Lesbians have a monopoly on tom boys](http://9gag.com/gag/aXPLBMd)
+ - 😝 [Give your coolest upvote gifs/pics](http://9gag.com/gag/avyW3xb)
+ - 👉 [Can&#39;t disagree](http://9gag.com/gag/amoW3Q9)<!-- MEMES:END -->
 
 ---
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [All in one](http://9gag.com/gag/aPAxOdP)
- - 😝 [Too hard.](http://9gag.com/gag/aLnLqjM)
- - 💣 [Line Up Boys](http://9gag.com/gag/aQzgwbW)
- - 😝 [The disrespect](http://9gag.com/gag/apR3Ev9)
- - 👉 [The bells on this Hitman Easter Egg](http://9gag.com/gag/aAy6BNE)<!-- MEMES:END -->
+ - 😝 [How](http://9gag.com/gag/agmQRnw)
+ - 😝 [Make sense...](http://9gag.com/gag/aLnLyYv)
+ - 💣 [Lesbians have a monopoly on tom boys](http://9gag.com/gag/aXPLBMd)
+ - 😝 [She said she loves someone else, my business isn&#39;t going very well, my mother is sick, I&#39;m struggling with finances, have anxiety... but i have my own homemade rakia. Happy saturday night b*tches](http://9gag.com/gag/ae94oYO)
+ - 👉 [Watch the match not the cheerleading sisters](http://9gag.com/gag/aNDLyoG)<!-- MEMES:END -->
 
 ---
 

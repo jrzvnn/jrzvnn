@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [She said she loves someone else, my business isn&#39;t going very well, my mother is sick, I&#39;m struggling with finances, have anxiety... but i have my own homemade rakia. Happy saturday night b*tches](http://9gag.com/gag/ae94oYO)
+ - 😝 [Jay-Z paid heavily](http://9gag.com/gag/aW4pVZ6)
+ - 💣 [She killedd the Cult Religionn](http://9gag.com/gag/a0eoArn)
  - 😝 [You broke the code!!](http://9gag.com/gag/aRB4Q12)
- - 😝 [Celebrate our differences. It&#39;s beautiful.](http://9gag.com/gag/a345YQ5)
- - 💣 [Hello there.](http://9gag.com/gag/a2vwz6D)
- - 😝 [Every gato in a shelter deserves a home of their own! \ud83d\udc08\u2b1b](http://9gag.com/gag/aLnzKmx)
- - 👉 [Average adventure time enjoyer](http://9gag.com/gag/aKGAz2j)<!-- MEMES:END -->
+ - 👉 [Lets bring emo back, show some sexy pics please](http://9gag.com/gag/aE0MrnM)<!-- MEMES:END -->
 
 ---
 

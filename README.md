@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Especially on a Monday](http://9gag.com/gag/a1mNAqG)
- - 😝 [Pranking people in Brazil](http://9gag.com/gag/aKGAzw1)
- - 💣 [Training for setak takraw. roll spike](http://9gag.com/gag/aE06wqK)
- - 😝 [Cultured](http://9gag.com/gag/axy3N9L)
- - 👉 [He&#39;s a real one for that](http://9gag.com/gag/aW47ZbK)<!-- MEMES:END -->
+ - 😝 [Line Up Boys](http://9gag.com/gag/aQzgwbW)
+ - 😝 [Even the other pigs were trying to wake him up jaja](http://9gag.com/gag/a876LwY)
+ - 💣 [You broke the code!!](http://9gag.com/gag/aRB4Q12)
+ - 😝 [Who cares about the main quest in Kingdom Come Deliverance 2](http://9gag.com/gag/aMVBbxW)
+ - 👉 [So is it that easy?](http://9gag.com/gag/aAy6Y9o)<!-- MEMES:END -->
 
 ---
 

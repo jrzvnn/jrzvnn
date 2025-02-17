@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [She killedd the Cult Religionn](http://9gag.com/gag/a0eoArn)
- - 😝 [Line Up Boys](http://9gag.com/gag/aQzgwbW)
- - 💣 [Muhammed Ali&#39;s opinion on race mixing.](http://9gag.com/gag/aE06vWM)
- - 😝 [Even the other pigs were trying to wake him up jaja](http://9gag.com/gag/a876LwY)
- - 👉 [Salt and pepper](http://9gag.com/gag/aYQG2Vm)<!-- MEMES:END -->
+ - 😝 [In Denmark, when you turn 30 and are not married, your friends come and throw pepper over you. At the same time, they place a \u201cpebersvend\u201d &lpar;a symbolic figure&rpar; by your house to show others that you are unmarried. This is me, from today](http://9gag.com/gag/agm13qW)
+ - 😝 [When she tells you I only see you as a friend](http://9gag.com/gag/a0eX8pn)
+ - 💣 [`Bond, James Bond` &lpar;007 test in 2005&rpar;](http://9gag.com/gag/aoyWb0X)
+ - 😝 [Salt and pepper](http://9gag.com/gag/aYQG2Vm)
+ - 👉 [How](http://9gag.com/gag/agmQRnw)<!-- MEMES:END -->
 
 ---
 

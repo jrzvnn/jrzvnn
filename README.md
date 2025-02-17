@@ -170,7 +170,7 @@ R                        1 repo              ░░░░░░░░░░░�
  - 😝 [When she tells you I only see you as a friend](http://9gag.com/gag/a0eX8pn)
  - 💣 [How](http://9gag.com/gag/agmQRnw)
  - 😝 [You broke the code!!](http://9gag.com/gag/aRB4Q12)
- - 👉 [So is it that easy?](http://9gag.com/gag/aAy6Y9o)<!-- MEMES:END -->
+ - 👉 [Lets bring emo back, show some sexy pics please](http://9gag.com/gag/aE0MrnM)<!-- MEMES:END -->
 
 ---
 

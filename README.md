@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Can&#39;t disagree](http://9gag.com/gag/amoW3Q9)
  - 😝 [How](http://9gag.com/gag/agmQRnw)
- - 💣 [`Bond, James Bond` &lpar;007 test in 2005&rpar;](http://9gag.com/gag/aoyWb0X)
- - 😝 [Inner peace is the most valuable commodity.](http://9gag.com/gag/aQzg0x8)
- - 👉 [&#39;Queers for Palestine&#39; screech at black Trump supporter](http://9gag.com/gag/aXPLD9d)<!-- MEMES:END -->
+ - 😝 [&#39;Queers for Palestine&#39; screech at black Trump supporter](http://9gag.com/gag/aXPLD9d)
+ - 💣 [Can&#39;t disagree](http://9gag.com/gag/amoW3Q9)
+ - 😝 [Stupid Netflix!](http://9gag.com/gag/aoyWb63)
+ - 👉 [Give your coolest upvote gifs/pics](http://9gag.com/gag/avyW3xb)<!-- MEMES:END -->
 
 ---
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Lets bring emo back, show some sexy pics please](http://9gag.com/gag/aE0MrnM)
- - 😝 [Massage Competition](http://9gag.com/gag/aqyX9zM)
- - 💣 [Line Up Boys](http://9gag.com/gag/aQzgwbW)
- - 😝 [Muhammed Ali&#39;s opinion on race mixing.](http://9gag.com/gag/aE06vWM)
- - 👉 [When she tells you I only see you as a friend](http://9gag.com/gag/a0eX8pn)<!-- MEMES:END -->
+ - 😝 [Line Up Boys](http://9gag.com/gag/aQzgwbW)
+ - 😝 [He is not recovering from that soon](http://9gag.com/gag/adBvmZD)
+ - 💣 [Massage Competition](http://9gag.com/gag/aqyX9zM)
+ - 😝 [&#39;Queers for Palestine&#39; screech at black Trump supporter](http://9gag.com/gag/aXPLD9d)
+ - 👉 [She killedd the Cult Religionn](http://9gag.com/gag/a0eoArn)<!-- MEMES:END -->
 
 ---
 

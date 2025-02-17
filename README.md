@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Surj, the sporting arm of Saudi Arabia&#39;s PIF, plans to invest $1B in DAZN and a new joint venture with the sports streamer; source: Surj will take a &lt;5% stake &lpar;Financial Times&rpar;](http://www.techmeme.com/250217/p14#a250217p14)
  - [Trump’s first 100 days: all the news affecting the tech industry](https://www.theverge.com/24348851/donald-trump-presidency-tech-science-news)
  - [Presidents Day MacBook Air deals slash prices to as low as $749](https://appleinsider.com/articles/25/02/17/presidents-day-macbook-air-deals-slash-prices-to-as-low-as-749?utm_medium=rss)
  - [X challenges a German court order requiring it to share metrics such as likes and shares with researchers before the February 23 election, in a test of EU&#39;s DSA &lpar;Politico&rpar;](http://www.techmeme.com/250217/p13#a250217p13)
- - [BMW’s next-gen EVs depend on an unassuming black box called ‘Heart of Joy’](https://www.theverge.com/cars/613962/bme-heart-of-joy-ecu-ev-powertrain-drive-dynamics)
- - [iPhone SE 4 Rumors: Apple&#39;s New Phone Could Adopt iPhone 14&#39;s Modern Aesthetic](https://www.cnet.com/tech/mobile/iphone-se-4-rumors-apples-new-phone-could-adopt-iphone-14s-modern-aesthetic/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [BMW’s next-gen EVs depend on an unassuming black box called ‘Heart of Joy’](https://www.theverge.com/cars/613962/bme-heart-of-joy-ecu-ev-powertrain-drive-dynamics)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

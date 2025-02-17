@@ -167,10 +167,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [Interesting](http://9gag.com/gag/aE06doe)
- - 😝 [Salt and pepper](http://9gag.com/gag/aYQG2Vm)
- - 💣 [Line Up Boys](http://9gag.com/gag/aQzgwbW)
- - 😝 [Maori people who feel threatened to their culture do a haka to protest and block a LGBT pride parade in Auckland today.](http://9gag.com/gag/agmQPP6)
- - 👉 [When she tells you I only see you as a friend](http://9gag.com/gag/a0eX8pn)<!-- MEMES:END -->
+ - 😝 [She killedd the Cult Religionn](http://9gag.com/gag/a0eoArn)
+ - 💣 [`Bond, James Bond` &lpar;007 test in 2005&rpar;](http://9gag.com/gag/aoyWb0X)
+ - 😝 [&#39;Queers for Palestine&#39; screech at black Trump supporter](http://9gag.com/gag/aXPLD9d)
+ - 👉 [Lets bring emo back, show some sexy pics please](http://9gag.com/gag/aE0MrnM)<!-- MEMES:END -->
 
 ---
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [A look at the OpenEuroLLM project, a partnership among 20 EU organizations to develop open-source LLMs that support all EU languages, with a budget of &amp;euro;37.4M &lpar;Paul Sawers/TechCrunch&rpar;](http://www.techmeme.com/250217/p2#a250217p2)
  - [A look at changes in the UK&#39;s CMA after its chair was forced to resign and the agency tries to reconcile its enhanced powers with government&#39;s pro-growth focus &lpar;Financial Times&rpar;](http://www.techmeme.com/250217/p1#a250217p1)
  - [South Korea&#39;s data protection authority says DeepSeek app downloads have been suspended in the country after DeepSeek failed to follow its personal data rules &lpar;Reuters&rpar;](http://www.techmeme.com/250216/p13#a250216p13)
  - [Today&#39;s NYT Mini Crossword Answers for Monday, Feb. 17](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-monday-feb-17/#ftag=CAD590a51e)
- - [Best Teeth Whitening Kits in 2025](https://www.cnet.com/health/personal-care/best-teeth-whitening-kits/#ftag=CAD590a51e)
- - [Docs: the NYT greenlights the use of select internal and external AI tools for editorial and product staff, including from OpenAI, Amazon, Google, and Microsoft &lpar;Max Tani/Semafor&rpar;](http://www.techmeme.com/250216/p12#a250216p12)<!-- TECH:END -->
+ - [Best Teeth Whitening Kits in 2025](https://www.cnet.com/health/personal-care/best-teeth-whitening-kits/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

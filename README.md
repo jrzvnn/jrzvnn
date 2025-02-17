@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Interesting](http://9gag.com/gag/aE06doe)
+ - 😝 [Make sense...](http://9gag.com/gag/aLnLyYv)
+ - 😝 [How](http://9gag.com/gag/agmQRnw)
+ - 💣 [Give your coolest upvote gifs/pics](http://9gag.com/gag/avyW3xb)
  - 😝 [She killedd the Cult Religionn](http://9gag.com/gag/a0eoArn)
- - 💣 [`Bond, James Bond` &lpar;007 test in 2005&rpar;](http://9gag.com/gag/aoyWb0X)
- - 😝 [&#39;Queers for Palestine&#39; screech at black Trump supporter](http://9gag.com/gag/aXPLD9d)
- - 👉 [Lets bring emo back, show some sexy pics please](http://9gag.com/gag/aE0MrnM)<!-- MEMES:END -->
+ - 👉 [`Bond, James Bond` &lpar;007 test in 2005&rpar;](http://9gag.com/gag/aoyWb0X)<!-- MEMES:END -->
 
 ---
 

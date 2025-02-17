@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Cheers](http://9gag.com/gag/aRB4wpA)
- - 😝 [A real gamer](http://9gag.com/gag/an7OAqV)
- - 💣 [How](http://9gag.com/gag/agmQRnw)
+ - 😝 [Line Up Boys](http://9gag.com/gag/aQzgwbW)
+ - 😝 [When she tells you I only see you as a friend](http://9gag.com/gag/a0eX8pn)
+ - 💣 [Make sense...](http://9gag.com/gag/aLnLyYv)
  - 😝 [Massage Competition](http://9gag.com/gag/aqyX9zM)
- - 👉 [She killedd the Cult Religionn](http://9gag.com/gag/a0eoArn)<!-- MEMES:END -->
+ - 👉 [How](http://9gag.com/gag/agmQRnw)<!-- MEMES:END -->
 
 ---
 

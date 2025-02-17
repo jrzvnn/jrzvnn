@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Even the other pigs were trying to wake him up jaja](http://9gag.com/gag/a876LwY)
  - 😝 [She killedd the Cult Religionn](http://9gag.com/gag/a0eoArn)
- - 💣 [Gentleman.](http://9gag.com/gag/aZZ1qo9)
- - 😝 [Too hard.](http://9gag.com/gag/aLnLqjM)
- - 👉 [&#39;Queers for Palestine&#39; screech at black Trump supporter](http://9gag.com/gag/aXPLD9d)<!-- MEMES:END -->
+ - 😝 [Line Up Boys](http://9gag.com/gag/aQzgwbW)
+ - 💣 [Muhammed Ali&#39;s opinion on race mixing.](http://9gag.com/gag/aE06vWM)
+ - 😝 [Even the other pigs were trying to wake him up jaja](http://9gag.com/gag/a876LwY)
+ - 👉 [Salt and pepper](http://9gag.com/gag/aYQG2Vm)<!-- MEMES:END -->
 
 ---
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Premonition](http://9gag.com/gag/aryW6q0)
- - 😝 [In order to plan and perform operations easier, New York surgeons have shown an augmented reality device that helps them in their work.](http://9gag.com/gag/aryW6b7)
- - 💣 [Unpaid Internship Debate...](http://9gag.com/gag/a1m7GDP)
- - 😝 [One hell of a movie :&rpar;](http://9gag.com/gag/adBvmV2)
- - 👉 [Stupid Netflix!](http://9gag.com/gag/aoyWb63)<!-- MEMES:END -->
+ - 😝 [WhyIsThisSoTrueThough](http://9gag.com/gag/aGyLPK7)
+ - 😝 [#feelingblessed](http://9gag.com/gag/aD27ENK)
+ - 💣 [Mass effect 2 is the best in the series.](http://9gag.com/gag/aD26RwG)
+ - 😝 [That is right](http://9gag.com/gag/a1m7GG6)
+ - 👉 [Epic](http://9gag.com/gag/apR1y49)<!-- MEMES:END -->
 
 ---
 

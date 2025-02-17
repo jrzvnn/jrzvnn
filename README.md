@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Apple smart display update, Netflix in the Apple TV app, and more on HomeKit Insider](https://appleinsider.com/articles/25/02/17/apple-smart-display-update-netflix-in-the-apple-tv-app-and-more-on-homekit-insider?utm_medium=rss)
  - [Why Surfshark Alternative Number can protect you from scammers](https://appleinsider.com/articles/25/02/17/why-surfshark-alternative-number-can-protect-you-from-scammers?utm_medium=rss)
  - [iPhone 17 design will be dramatically different, says leaker](https://appleinsider.com/articles/25/02/17/iphone-17-design-will-be-dramatically-different-says-leaker?utm_medium=rss)
  - [The war on DEI is a smoke screen](https://www.theverge.com/politics/613660/war-on-dei-smoke-screen-civil-rights-racism-eugenics)
- - [Best Theraguns and Therabody Tools, Tested and Reviewed &lpar;2025&rpar;](https://www.wired.com/gallery/best-theragun-percussive-therapy-devices/)
- - [Analysis: Spotify, which reported its first annual profit in 2024, had just &amp;euro;1.8B in ad revenue, 26% above 2022, while subscription revenue grew 35% to &amp;euro;13.8B &lpar;Catherine Perloff/The Information&rpar;](http://www.techmeme.com/250217/p12#a250217p12)<!-- TECH:END -->
+ - [Best Theraguns and Therabody Tools, Tested and Reviewed &lpar;2025&rpar;](https://www.wired.com/gallery/best-theragun-percussive-therapy-devices/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

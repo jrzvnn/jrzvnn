@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [He is not recovering from that soon](http://9gag.com/gag/adBvmZD)
  - 😝 [Watch the match not the cheerleading sisters](http://9gag.com/gag/aNDLyoG)
- - 💣 [What color is Pikachu?](http://9gag.com/gag/aGyLP9X)
+ - 😝 [Spaghetti tutorial](http://9gag.com/gag/aRB4QAG)
+ - 💣 [She said she loves someone else, my business isn&#39;t going very well, my mother is sick, I&#39;m struggling with finances, have anxiety... but i have my own homemade rakia. Happy saturday night b*tches](http://9gag.com/gag/ae94oYO)
  - 😝 [How](http://9gag.com/gag/agmQRnw)
- - 👉 [He apparently stabbed passersby at random, killing a 14-year-old student. Shortly afterward, a brave driver was able to stop the rampaging killer of Villach. When the police arrested him, the 23-year-old Afghan laughed as if nothing had happened.](http://9gag.com/gag/ae94v8m)<!-- MEMES:END -->
+ - 👉 [Line Up Boys](http://9gag.com/gag/aQzgwbW)<!-- MEMES:END -->
 
 ---
 

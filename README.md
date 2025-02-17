@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Surj, the sporting arm of Saudi Arabia&#39;s PIF, plans to invest $1B in DAZN and a new joint venture with the sports streamer; source: Surj will take a &lt;5% stake &lpar;Financial Times&rpar;](http://www.techmeme.com/250217/p14#a250217p14)
  - [Trump’s first 100 days: all the news affecting the tech industry](https://www.theverge.com/24348851/donald-trump-presidency-tech-science-news)
+ - [A team from SpaceX is being brought in to overhaul FAA’s air traffic control system](https://www.theverge.com/news/614078/faa-air-traffic-control-spacex-elon-musk-layoff-staff-shortage)
+ - [Surj, the sporting arm of Saudi Arabia&#39;s PIF, plans to invest $1B in DAZN and a new joint venture with the sports streamer; source: Surj will take a &lt;5% stake &lpar;Financial Times&rpar;](http://www.techmeme.com/250217/p14#a250217p14)
  - [Presidents Day MacBook Air deals slash prices to as low as $749](https://appleinsider.com/articles/25/02/17/presidents-day-macbook-air-deals-slash-prices-to-as-low-as-749?utm_medium=rss)
- - [X challenges a German court order requiring it to share metrics such as likes and shares with researchers before the February 23 election, in a test of EU&#39;s DSA &lpar;Politico&rpar;](http://www.techmeme.com/250217/p13#a250217p13)
- - [BMW’s next-gen EVs depend on an unassuming black box called ‘Heart of Joy’](https://www.theverge.com/cars/613962/bme-heart-of-joy-ecu-ev-powertrain-drive-dynamics)<!-- TECH:END -->
+ - [X challenges a German court order requiring it to share metrics such as likes and shares with researchers before the February 23 election, in a test of EU&#39;s DSA &lpar;Politico&rpar;](http://www.techmeme.com/250217/p13#a250217p13)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

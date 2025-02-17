@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Sources: Tesla is bracing for a delay in Chinese approval for FSD, despite an earlier sign it would come in Q2; China is weighing using it in US negotiations &lpar;Financial Times&rpar;](http://www.techmeme.com/250217/p9#a250217p9)
  - [X appears to be blocking Signal&#39;s &quot;Signal.me&quot; links in DMs, posts, and profile pages, giving error messages and showing a warning page for users clicking them &lpar;Matt Binder/disruptionist&rpar;](http://www.techmeme.com/250217/p8#a250217p8)
  - [The New York Times adopts AI tools in the newsroom](https://www.theverge.com/news/613989/new-york-times-internal-ai-tools-echo)
  - [An analysis of credit and debit card data shows TikTok Shop passed Shein and Temu in US sales in January 2025, growing 153% to Shein&#39;s 26% and Temu&#39;s 28% &lpar;Bloomberg&rpar;](http://www.techmeme.com/250217/p7#a250217p7)
- - [Gourmia All-in-One Pizza Oven and Air Fryer Review: Hot Air](https://www.wired.com/review/gourmia-all-in-one-pizza-oven/)
- - [Sources: Wall Street banks led by Morgan Stanley have offloaded almost all of Elon Musk&#39;s $12.5B in loans used to buy Twitter, and now hold $1B+ in X debt &lpar;Financial Times&rpar;](http://www.techmeme.com/250217/p6#a250217p6)<!-- TECH:END -->
+ - [Gourmia All-in-One Pizza Oven and Air Fryer Review: Hot Air](https://www.wired.com/review/gourmia-all-in-one-pizza-oven/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

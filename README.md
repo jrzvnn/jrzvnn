@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Here are the best streaming service deals available right now](https://www.theverge.com/23353629/streaming-deals-netflix-hulu-disney-plus-amazon-prime-video-hbo-max-best-deal-sale)
  - [Trump’s first 100 days: all the news affecting the tech industry](https://www.theverge.com/24348851/donald-trump-presidency-tech-science-news)
- - [A team from SpaceX is being brought in to overhaul FAA’s air traffic control system](https://www.theverge.com/news/614078/faa-air-traffic-control-spacex-elon-musk-layoff-staff-shortage)
- - [Surj, the sporting arm of Saudi Arabia&#39;s PIF, plans to invest $1B in DAZN and a new joint venture with the sports streamer; source: Surj will take a &lt;5% stake &lpar;Financial Times&rpar;](http://www.techmeme.com/250217/p14#a250217p14)
- - [Presidents Day MacBook Air deals slash prices to as low as $749](https://appleinsider.com/articles/25/02/17/presidents-day-macbook-air-deals-slash-prices-to-as-low-as-749?utm_medium=rss)<!-- TECH:END -->
+ - [DOGE is trying to access the IRS’s data on millions of taxpayers](https://www.theverge.com/news/614082/doge-targets-irs-taxpayer-information)
+ - [No, 150-Year-Olds Aren&#39;t Collecting Social Security Benefits](https://www.wired.com/story/elon-musk-doge-social-security-150-year-old-benefits/)
+ - [Here are the best streaming service deals available right now](https://www.theverge.com/23353629/streaming-deals-netflix-hulu-disney-plus-amazon-prime-video-hbo-max-best-deal-sale)
+ - [A team from SpaceX is being brought in to overhaul FAA’s air traffic control system](https://www.theverge.com/news/614078/faa-air-traffic-control-spacex-elon-musk-layoff-staff-shortage)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

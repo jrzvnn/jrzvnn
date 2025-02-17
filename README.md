@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Source: Ilya Sutskever&#39;s startup Safe Superintelligence is raising $1B+ led by Greenoaks Capital Partners, which plans to invest $500M, at a valuation of $30B+ &lpar;Kate Clark/Bloomberg&rpar;](http://www.techmeme.com/250217/p16#a250217p16)
+ - [Bain Capital says it will not launch a tender offer for Fuji Soft, after KKR raised its offer earlier this month for the Japanese IT company, valued at over $4B &lpar;Reuters&rpar;](http://www.techmeme.com/250217/p15#a250217p15)
  - [Trump’s first 100 days: all the news affecting the tech industry](https://www.theverge.com/24348851/donald-trump-presidency-tech-science-news)
  - [DOGE is trying to access the IRS’s data on millions of taxpayers](https://www.theverge.com/news/614082/doge-targets-irs-taxpayer-information)
- - [No, 150-Year-Olds Aren&#39;t Collecting Social Security Benefits](https://www.wired.com/story/elon-musk-doge-social-security-150-year-old-benefits/)
- - [Here are the best streaming service deals available right now](https://www.theverge.com/23353629/streaming-deals-netflix-hulu-disney-plus-amazon-prime-video-hbo-max-best-deal-sale)
- - [A team from SpaceX is being brought in to overhaul FAA’s air traffic control system](https://www.theverge.com/news/614078/faa-air-traffic-control-spacex-elon-musk-layoff-staff-shortage)<!-- TECH:END -->
+ - [No, 150-Year-Olds Aren&#39;t Collecting Social Security Benefits](https://www.wired.com/story/elon-musk-doge-social-security-150-year-old-benefits/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

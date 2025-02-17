@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [How](http://9gag.com/gag/agmQRnw)
- - 😝 [&#39;Queers for Palestine&#39; screech at black Trump supporter](http://9gag.com/gag/aXPLD9d)
- - 💣 [Can&#39;t disagree](http://9gag.com/gag/amoW3Q9)
- - 😝 [Stupid Netflix!](http://9gag.com/gag/aoyWb63)
- - 👉 [Give your coolest upvote gifs/pics](http://9gag.com/gag/avyW3xb)<!-- MEMES:END -->
+ - 😝 [The bells on this Hitman Easter Egg](http://9gag.com/gag/aAy6BNE)
+ - 😝 [All in one](http://9gag.com/gag/aPAxOdP)
+ - 💣 [Too hard.](http://9gag.com/gag/aLnLqjM)
+ - 😝 [The disrespect](http://9gag.com/gag/apR3Ev9)
+ - 👉 [Line Up Boys](http://9gag.com/gag/aQzgwbW)<!-- MEMES:END -->
 
 ---
 

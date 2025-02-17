@@ -166,10 +166,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Give your coolest upvote gifs/pics](http://9gag.com/gag/avyW3xb)
- - 😝 [Line Up Boys](http://9gag.com/gag/aQzgwbW)
- - 💣 [Massage Competition](http://9gag.com/gag/aqyX9zM)
- - 😝 [Muhammed Ali&#39;s opinion on race mixing.](http://9gag.com/gag/aE06vWM)
+ - 😝 [Spaghetti tutorial](http://9gag.com/gag/aRB4QAG)
+ - 😝 [Massage Competition](http://9gag.com/gag/aqyX9zM)
+ - 💣 [Line Up Boys](http://9gag.com/gag/aQzgwbW)
+ - 😝 [How](http://9gag.com/gag/agmQRnw)
  - 👉 [When she tells you I only see you as a friend](http://9gag.com/gag/a0eX8pn)<!-- MEMES:END -->
 
 ---

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Interesting](http://9gag.com/gag/aE06doe)
- - 😝 [Lets bring emo back, show some sexy pics please](http://9gag.com/gag/aE0MrnM)
- - 💣 [Too hard.](http://9gag.com/gag/aLnLqjM)
- - 😝 [`Bond, James Bond` &lpar;007 test in 2005&rpar;](http://9gag.com/gag/aoyWb0X)
- - 👉 [Women logic](http://9gag.com/gag/aRBLn4G)<!-- MEMES:END -->
+ - 😝 [&#39;Queers for Palestine&#39; screech at black Trump supporter](http://9gag.com/gag/aXPLD9d)
+ - 😝 [Idk what this is but I like it](http://9gag.com/gag/aYQG2n7)
+ - 💣 [Women logic](http://9gag.com/gag/aRBLn4G)
+ - 😝 [Can&#39;t disagree](http://9gag.com/gag/amoW3Q9)
+ - 👉 [Something we said?](http://9gag.com/gag/aZZneE6)<!-- MEMES:END -->
 
 ---
 

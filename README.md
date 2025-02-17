@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Line Up Boys](http://9gag.com/gag/aQzgwbW)
  - 😝 [He is not recovering from that soon](http://9gag.com/gag/adBvmZD)
- - 💣 [Massage Competition](http://9gag.com/gag/aqyX9zM)
- - 😝 [&#39;Queers for Palestine&#39; screech at black Trump supporter](http://9gag.com/gag/aXPLD9d)
- - 👉 [She killedd the Cult Religionn](http://9gag.com/gag/a0eoArn)<!-- MEMES:END -->
+ - 😝 [Watch the match not the cheerleading sisters](http://9gag.com/gag/aNDLyoG)
+ - 💣 [What color is Pikachu?](http://9gag.com/gag/aGyLP9X)
+ - 😝 [How](http://9gag.com/gag/agmQRnw)
+ - 👉 [He apparently stabbed passersby at random, killing a 14-year-old student. Shortly afterward, a brave driver was able to stop the rampaging killer of Villach. When the police arrested him, the 23-year-old Afghan laughed as if nothing had happened.](http://9gag.com/gag/ae94v8m)<!-- MEMES:END -->
 
 ---
 

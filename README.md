@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Strong Nostalgia Vibes](http://9gag.com/gag/avy1Z15)
+ - 😝 [Line Up Boys](http://9gag.com/gag/aQzgwbW)
  - 😝 [Even the other pigs were trying to wake him up jaja](http://9gag.com/gag/a876LwY)
- - 💣 [Line Up Boys](http://9gag.com/gag/aQzgwbW)
- - 😝 [You broke the code!!](http://9gag.com/gag/aRB4Q12)
- - 👉 [Who cares about the main quest in Kingdom Come Deliverance 2](http://9gag.com/gag/aMVBbxW)<!-- MEMES:END -->
+ - 💣 [You broke the code!!](http://9gag.com/gag/aRB4Q12)
+ - 😝 [Strong Nostalgia Vibes](http://9gag.com/gag/avy1Z15)
+ - 👉 [So is it that easy?](http://9gag.com/gag/aAy6Y9o)<!-- MEMES:END -->
 
 ---
 

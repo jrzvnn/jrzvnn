@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Line Up Boys](http://9gag.com/gag/aQzgwbW)
- - 😝 [When she tells you I only see you as a friend](http://9gag.com/gag/a0eX8pn)
- - 💣 [Make sense...](http://9gag.com/gag/aLnLyYv)
+ - 😝 [Lets bring emo back, show some sexy pics please](http://9gag.com/gag/aE0MrnM)
  - 😝 [Massage Competition](http://9gag.com/gag/aqyX9zM)
- - 👉 [How](http://9gag.com/gag/agmQRnw)<!-- MEMES:END -->
+ - 💣 [Line Up Boys](http://9gag.com/gag/aQzgwbW)
+ - 😝 [Muhammed Ali&#39;s opinion on race mixing.](http://9gag.com/gag/aE06vWM)
+ - 👉 [When she tells you I only see you as a friend](http://9gag.com/gag/a0eX8pn)<!-- MEMES:END -->
 
 ---
 

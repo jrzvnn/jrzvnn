@@ -159,9 +159,9 @@ R                        1 repo              ░░░░░░░░░░░�
 <!-- TECH:START -->
  - [New junior developers are reliant on Copilot, Claude, and other AI tools, meaning foundational coding knowledge is now missing, creating problems down the road &lpar;Namanyay Goel/N&#39;s Blog&rpar;](http://www.techmeme.com/250217/p5#a250217p5)
  - [Chinese President Xi meets with Alibaba co-founder Jack Ma, Huawei founder Ren Zhengfei, and more, signaling Beijing&#39;s support for the long-marginalized sector &lpar;Bloomberg&rpar;](http://www.techmeme.com/250217/p4#a250217p4)
+ - [Take Advantage of High APYs While You Still Can. Today&#39;s CD Rates, Feb. 17, 2025](https://www.cnet.com/personal-finance/banking/take-advantage-of-high-apys-while-you-still-can-todays-cd-rates-feb-17-2025/#ftag=CAD590a51e)
  - [DeepSeek: all the news about the startup that’s shaking up AI stocks](https://www.theverge.com/24353060/deepseek-ai-china-nvidia-openai)
- - [An interview with Nadia Odunayo on building Goodreads alternative StoryGraph, remaining bootstrapped, reaching 3.8M active users, not allowing DMs, and more &lpar;David Barnett/The Guardian&rpar;](http://www.techmeme.com/250217/p3#a250217p3)
- - [Best Internet Providers in Columbus, Ohio](https://www.cnet.com/home/internet/best-internet-providers-in-columbus-oh/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [ExpressVPN Rolls Out Major Upgrade to Its Already Impressive Lightway Protocol](https://www.cnet.com/tech/services-and-software/expressvpn-rolls-out-major-upgrade-to-its-already-impressive-lightway/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

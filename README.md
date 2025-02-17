@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Trump’s first 100 days: all the news affecting the tech industry](https://www.theverge.com/24348851/donald-trump-presidency-tech-science-news)
+ - [Presidents Day MacBook Air deals slash prices to as low as $749](https://appleinsider.com/articles/25/02/17/presidents-day-macbook-air-deals-slash-prices-to-as-low-as-749?utm_medium=rss)
  - [X challenges a German court order requiring it to share metrics such as likes and shares with researchers before the February 23 election, in a test of EU&#39;s DSA &lpar;Politico&rpar;](http://www.techmeme.com/250217/p13#a250217p13)
  - [BMW’s next-gen EVs depend on an unassuming black box called ‘Heart of Joy’](https://www.theverge.com/cars/613962/bme-heart-of-joy-ecu-ev-powertrain-drive-dynamics)
- - [How Apple Music stands firm amidst Spotify&#39;s Premium plan hikes](https://appleinsider.com/articles/25/02/17/how-apple-music-stands-firm-amidst-spotifys-premium-plan-hikes?utm_medium=rss)
- - [The best Presidents Day sales from Apple, Bose, Google, and more](https://www.theverge.com/good-deals/609704/best-presidents-day-sales-deals-2025-apple-gaming-tech)
- - [&#39;Sonic 3&#39; Will Zoom Onto Paramount Plus This Week](https://www.cnet.com/tech/services-and-software/sonic-3-will-zoom-onto-paramount-plus-this-week/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [iPhone SE 4 Rumors: Apple&#39;s New Phone Could Adopt iPhone 14&#39;s Modern Aesthetic](https://www.cnet.com/tech/mobile/iphone-se-4-rumors-apples-new-phone-could-adopt-iphone-14s-modern-aesthetic/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

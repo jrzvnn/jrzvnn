@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Watch the match not the cheerleading sisters](http://9gag.com/gag/aNDLyoG)
- - 😝 [Make sense...](http://9gag.com/gag/aLnLyYv)
- - 💣 [`Bond, James Bond` &lpar;007 test in 2005&rpar;](http://9gag.com/gag/aoyWb0X)
- - 😝 [Line Up Boys](http://9gag.com/gag/aQzgwbW)
- - 👉 [Salt and pepper](http://9gag.com/gag/aYQG2Vm)<!-- MEMES:END -->
+ - 😝 [Interesting](http://9gag.com/gag/aE06doe)
+ - 😝 [Salt and pepper](http://9gag.com/gag/aYQG2Vm)
+ - 💣 [Line Up Boys](http://9gag.com/gag/aQzgwbW)
+ - 😝 [Maori people who feel threatened to their culture do a haka to protest and block a LGBT pride parade in Auckland today.](http://9gag.com/gag/agmQPP6)
+ - 👉 [When she tells you I only see you as a friend](http://9gag.com/gag/a0eX8pn)<!-- MEMES:END -->
 
 ---
 

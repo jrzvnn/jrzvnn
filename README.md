@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Best Nanny Cams for 2025](https://www.cnet.com/home/security/best-nanny-cams/#ftag=CAD590a51e)
+ - [Best Roku TV for 2025](https://www.cnet.com/tech/home-entertainment/best-roku-tv/#ftag=CAD590a51e)
+ - [Best Workout Apps for 2025](https://www.cnet.com/health/fitness/best-workout-apps/#ftag=CAD590a51e)
  - [Best Apple iPhone SE Cases for 2025](https://www.cnet.com/tech/mobile/best-apple-iphone-se-case/#ftag=CAD590a51e)
- - [BMW’s next-gen EVs depend on an unassuming black box called ‘Heart of Joy’](https://www.theverge.com/cars/613962/bme-heart-of-joy-ecu-ev-powertrain-drive-dynamics)
- - [Amazon slashes up to 50% off Beats Studio Pro headphones, Studio Buds earbuds](https://appleinsider.com/articles/25/02/16/amazon-slashes-up-to-50-off-beats-studio-pro-headphones-studio-buds-earbuds?utm_medium=rss)
- - [Best Internet Providers in Gainesville, Georgia](https://www.cnet.com/home/internet/best-internet-providers-in-gainesville-ga/#ftag=CAD590a51e)
- - [Best Internet Providers in Durham, North Carolina](https://www.cnet.com/home/internet/best-internet-providers-in-durham-nc/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [BMW’s next-gen EVs depend on an unassuming black box called ‘Heart of Joy’](https://www.theverge.com/cars/613962/bme-heart-of-joy-ecu-ev-powertrain-drive-dynamics)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

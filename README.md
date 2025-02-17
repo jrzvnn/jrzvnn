@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Dad protect daughter from unleashed dog](http://9gag.com/gag/a9yz371)
- - 😝 [When she tells you I only see you as a friend](http://9gag.com/gag/a0eX8pn)
- - 💣 [How](http://9gag.com/gag/agmQRnw)
- - 😝 [You broke the code!!](http://9gag.com/gag/aRB4Q12)
- - 👉 [Lets bring emo back, show some sexy pics please](http://9gag.com/gag/aE0MrnM)<!-- MEMES:END -->
+ - 😝 [Especially on a Monday](http://9gag.com/gag/a1mNAqG)
+ - 😝 [Pranking people in Brazil](http://9gag.com/gag/aKGAzw1)
+ - 💣 [Training for setak takraw. roll spike](http://9gag.com/gag/aE06wqK)
+ - 😝 [Cultured](http://9gag.com/gag/axy3N9L)
+ - 👉 [He&#39;s a real one for that](http://9gag.com/gag/aW47ZbK)<!-- MEMES:END -->
 
 ---
 

@@ -157,7 +157,7 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [South Korea&#39;s data protection authority says new app downloads of DeepSeek have been suspended in the country after DeepSeek failed to follow its privacy rules &lpar;Reuters&rpar;](http://www.techmeme.com/250216/p13#a250216p13)
+ - [South Korea&#39;s data protection authority says DeepSeek app downloads have been suspended in the country after DeepSeek failed to follow its personal data rules &lpar;Reuters&rpar;](http://www.techmeme.com/250216/p13#a250216p13)
  - [Docs: the NYT greenlights the use of select internal and external AI tools for editorial and product staff, including from OpenAI, Amazon, Google, and Microsoft &lpar;Max Tani/Semafor&rpar;](http://www.techmeme.com/250216/p12#a250216p12)
  - [Best Nanny Cams for 2025](https://www.cnet.com/home/security/best-nanny-cams/#ftag=CAD590a51e)
  - [Best Roku TV for 2025](https://www.cnet.com/tech/home-entertainment/best-roku-tv/#ftag=CAD590a51e)

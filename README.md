@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [These Are the Best Smart Devices for Amazon Alexa in 2025](https://www.cnet.com/home/smart-home/best-alexa-devices/#ftag=CAD590a51e)
  - [Spotify’s HiFi streaming could finally arrive this year](https://www.theverge.com/news/614091/spotify-music-pro-hifi-streaming-service-release-date-2025)
  - [Chase plans to stop users making Zelle payments deemed &quot;as originating from contact through social media&quot;; the CFPB had claimed Zelle lacked adequate safeguards &lpar;Sergiu Gatlan/BleepingComputer&rpar;](http://www.techmeme.com/250217/p17#a250217p17)
- - [Source: Ilya Sutskever&#39;s startup Safe Superintelligence is raising $1B+ led by Greenoaks Capital Partners, which plans to invest $500M, at a valuation of $30B+ &lpar;Kate Clark/Bloomberg&rpar;](http://www.techmeme.com/250217/p16#a250217p16)
- - [Bain Capital says it will not launch a tender offer for Fuji Soft, after KKR raised its offer earlier in February for the Japanese IT company, valued at $4B+ &lpar;Reuters&rpar;](http://www.techmeme.com/250217/p15#a250217p15)
- - [Trump’s first 100 days: all the news affecting the tech industry](https://www.theverge.com/24348851/donald-trump-presidency-tech-science-news)<!-- TECH:END -->
+ - [Today&#39;s NYT Connections: Sports Edition Hints and Answers for Feb. 18, #148](https://www.cnet.com/tech/gaming/todays-nyt-connections-sports-edition-hints-and-answers-for-feb-18-148/#ftag=CAD590a51e)
+ - [Today&#39;s NYT Strands Hints, Answers and Help for Feb. 18, #352](https://www.cnet.com/tech/gaming/todays-nyt-strands-hints-answers-and-help-for-feb-18-352/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

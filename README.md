@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [It should be just a calm ice fishing](http://9gag.com/gag/aGyL3Y0)
- - 😝 [Cheers](http://9gag.com/gag/aRB4wpA)
- - 💣 [Even the other pigs were trying to wake him up jaja](http://9gag.com/gag/a876LwY)
- - 😝 [Too hard.](http://9gag.com/gag/aLnLqjM)
- - 👉 [Idk what this is but I like it](http://9gag.com/gag/aYQG2n7)<!-- MEMES:END -->
+ - 😝 [Premonition](http://9gag.com/gag/aryW6q0)
+ - 😝 [In order to plan and perform operations easier, New York surgeons have shown an augmented reality device that helps them in their work.](http://9gag.com/gag/aryW6b7)
+ - 💣 [Unpaid Internship Debate...](http://9gag.com/gag/a1m7GDP)
+ - 😝 [One hell of a movie :&rpar;](http://9gag.com/gag/adBvmV2)
+ - 👉 [Stupid Netflix!](http://9gag.com/gag/aoyWb63)<!-- MEMES:END -->
 
 ---
 

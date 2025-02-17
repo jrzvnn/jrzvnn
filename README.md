@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [&#39;Queers for Palestine&#39; screech at black Trump supporter](http://9gag.com/gag/aXPLD9d)
- - 😝 [Idk what this is but I like it](http://9gag.com/gag/aYQG2n7)
- - 💣 [Women logic](http://9gag.com/gag/aRBLn4G)
- - 😝 [Can&#39;t disagree](http://9gag.com/gag/amoW3Q9)
- - 👉 [Something we said?](http://9gag.com/gag/aZZneE6)<!-- MEMES:END -->
+ - 😝 [All in one](http://9gag.com/gag/aPAxOdP)
+ - 😝 [Too hard.](http://9gag.com/gag/aLnLqjM)
+ - 💣 [Line Up Boys](http://9gag.com/gag/aQzgwbW)
+ - 😝 [The disrespect](http://9gag.com/gag/apR3Ev9)
+ - 👉 [The bells on this Hitman Easter Egg](http://9gag.com/gag/aAy6BNE)<!-- MEMES:END -->
 
 ---
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [She killedd the Cult Religionn](http://9gag.com/gag/a0eoArn)
- - 😝 [Even the other pigs were trying to wake him up jaja](http://9gag.com/gag/a876LwY)
- - 💣 [Give your coolest upvote gifs/pics](http://9gag.com/gag/avyW3xb)
+ - 😝 [In 2004, Michael O\u2019Leary, CEO of Ryanair, obtained a taxi license for his personal Mercedes-Benz S-Class. This clever decision allowed him to legally drive in Dublin\u2019s bus lanes, avoiding heavy traffic and ensuring a faster commute.](http://9gag.com/gag/aW4pKrx)
  - 😝 [Dad protect daughter from unleashed dog](http://9gag.com/gag/a9yz371)
- - 👉 [Watch the match not the cheerleading sisters](http://9gag.com/gag/aNDLyoG)<!-- MEMES:END -->
+ - 💣 [She killedd the Cult Religionn](http://9gag.com/gag/a0eoArn)
+ - 😝 [Salt and pepper](http://9gag.com/gag/aYQG2Vm)
+ - 👉 [Even the other pigs were trying to wake him up jaja](http://9gag.com/gag/a876LwY)<!-- MEMES:END -->
 
 ---
 

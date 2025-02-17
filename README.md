@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Stupid Netflix!](http://9gag.com/gag/aoyWb63)
- - 😝 [Watch the match not the cheerleading sisters](http://9gag.com/gag/aNDLyoG)
- - 💣 [Lets bring emo back, show some sexy pics please](http://9gag.com/gag/aE0MrnM)
- - 😝 [`Bond, James Bond` &lpar;007 test in 2005&rpar;](http://9gag.com/gag/aoyWb0X)
- - 👉 [Make sense...](http://9gag.com/gag/aLnLyYv)<!-- MEMES:END -->
+ - 😝 [Make sense...](http://9gag.com/gag/aLnLyYv)
+ - 😝 [Had to ask for a second bill because the restaurant added a tip to the first without asking me\u2026 in the uk too.](http://9gag.com/gag/an7O6bL)
+ - 💣 [Give your coolest upvote gifs/pics](http://9gag.com/gag/avyW3xb)
+ - 😝 [How](http://9gag.com/gag/agmQRnw)
+ - 👉 [Watch the match not the cheerleading sisters](http://9gag.com/gag/aNDLyoG)<!-- MEMES:END -->
 
 ---
 

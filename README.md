@@ -166,10 +166,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [How](http://9gag.com/gag/agmQRnw)
- - 😝 [Make sense...](http://9gag.com/gag/aLnLyYv)
- - 💣 [Lesbians have a monopoly on tom boys](http://9gag.com/gag/aXPLBMd)
- - 😝 [She said she loves someone else, my business isn&#39;t going very well, my mother is sick, I&#39;m struggling with finances, have anxiety... but i have my own homemade rakia. Happy saturday night b*tches](http://9gag.com/gag/ae94oYO)
+ - 😝 [A real gamer](http://9gag.com/gag/an7OAqV)
+ - 😝 [He apparently stabbed passersby at random, killing a 14-year-old student. Shortly afterward, a brave driver was able to stop the rampaging killer of Villach. When the police arrested him, the 23-year-old Afghan laughed as if nothing had happened.](http://9gag.com/gag/ae94v8m)
+ - 💣 [Can&#39;t disagree](http://9gag.com/gag/amoW3Q9)
+ - 😝 [Salt and pepper](http://9gag.com/gag/aYQG2Vm)
  - 👉 [Watch the match not the cheerleading sisters](http://9gag.com/gag/aNDLyoG)<!-- MEMES:END -->
 
 ---

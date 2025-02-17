@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Spaghetti tutorial](http://9gag.com/gag/aRB4QAG)
- - 😝 [Massage Competition](http://9gag.com/gag/aqyX9zM)
- - 💣 [Line Up Boys](http://9gag.com/gag/aQzgwbW)
- - 😝 [How](http://9gag.com/gag/agmQRnw)
- - 👉 [When she tells you I only see you as a friend](http://9gag.com/gag/a0eX8pn)<!-- MEMES:END -->
+ - 😝 [Watch the match not the cheerleading sisters](http://9gag.com/gag/aNDLyoG)
+ - 😝 [She killedd the Cult Religionn](http://9gag.com/gag/a0eoArn)
+ - 💣 [Massage Competition](http://9gag.com/gag/aqyX9zM)
+ - 😝 [Give your coolest upvote gifs/pics](http://9gag.com/gag/avyW3xb)
+ - 👉 [How](http://9gag.com/gag/agmQRnw)<!-- MEMES:END -->
 
 ---
 

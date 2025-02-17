@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Make sense...](http://9gag.com/gag/aLnLyYv)
- - 😝 [How](http://9gag.com/gag/agmQRnw)
- - 💣 [Give your coolest upvote gifs/pics](http://9gag.com/gag/avyW3xb)
  - 😝 [She killedd the Cult Religionn](http://9gag.com/gag/a0eoArn)
- - 👉 [`Bond, James Bond` &lpar;007 test in 2005&rpar;](http://9gag.com/gag/aoyWb0X)<!-- MEMES:END -->
+ - 😝 [Even the other pigs were trying to wake him up jaja](http://9gag.com/gag/a876LwY)
+ - 💣 [Give your coolest upvote gifs/pics](http://9gag.com/gag/avyW3xb)
+ - 😝 [Dad protect daughter from unleashed dog](http://9gag.com/gag/a9yz371)
+ - 👉 [Watch the match not the cheerleading sisters](http://9gag.com/gag/aNDLyoG)<!-- MEMES:END -->
 
 ---
 

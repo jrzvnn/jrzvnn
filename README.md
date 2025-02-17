@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Docs: the NYT greenlights the use of select internal and external AI tools for editorial and product staff, including from OpenAI, Amazon, Google, and Microsoft &lpar;Max Tani/Semafor&rpar;](http://www.techmeme.com/250216/p12#a250216p12)
  - [Best Nanny Cams for 2025](https://www.cnet.com/home/security/best-nanny-cams/#ftag=CAD590a51e)
  - [Best Roku TV for 2025](https://www.cnet.com/tech/home-entertainment/best-roku-tv/#ftag=CAD590a51e)
  - [Best Workout Apps for 2025](https://www.cnet.com/health/fitness/best-workout-apps/#ftag=CAD590a51e)
- - [Best Apple iPhone SE Cases for 2025](https://www.cnet.com/tech/mobile/best-apple-iphone-se-case/#ftag=CAD590a51e)
- - [BMW’s next-gen EVs depend on an unassuming black box called ‘Heart of Joy’](https://www.theverge.com/cars/613962/bme-heart-of-joy-ecu-ev-powertrain-drive-dynamics)<!-- TECH:END -->
+ - [Best Apple iPhone SE Cases for 2025](https://www.cnet.com/tech/mobile/best-apple-iphone-se-case/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

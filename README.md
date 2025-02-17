@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Dockcase 7-in-1 USB-C Hub with SSD Enclosure review: Best of both worlds](https://appleinsider.com/articles/25/02/17/dockcase-7-in-1-usb-c-hub-with-ssd-enclosure-review-best-of-both-worlds?utm_medium=rss)
- - [Why Trump&#39;s Metal Tariffs Won&#39;t Lead to the All-American iPhone](https://www.wired.com/story/why-trumps-metal-tariffs-wont-lead-to-the-all-american-iphone/)
- - [Mistral releases Mistral Saba, a 24B-parameter custom-trained model focused on Arabic language and culture, via its API; Saba outperforms Mistral Small 3 &lpar;Romain Dillet/TechCrunch&rpar;](http://www.techmeme.com/250217/p10#a250217p10)
- - [17 Best Air Purifiers &lpar;2025&rpar;: Coway, AirDoctor, IQAir](https://www.wired.com/gallery/best-air-purifiers/)
- - [Sources: Tesla is bracing for a delay in Chinese approval for FSD, despite an earlier sign it would come in Q2; China is weighing using it in US negotiations &lpar;Financial Times&rpar;](http://www.techmeme.com/250217/p9#a250217p9)<!-- TECH:END -->
+ - [Dream, which offers cybersecurity tools to governments and critical infrastructure firms, raised $100M led by Bain at a $1.1B valuation, up from $190M in 2023 &lpar;Gillian Tan/Bloomberg&rpar;](http://www.techmeme.com/250217/p11#a250217p11)
+ - [12 Best Laptops of 2025: MacBooks, Windows, Chromebooks, Copilot+ PCs](https://www.wired.com/gallery/best-laptops/)
+ - [X is blocking links to Signal](https://www.theverge.com/news/613997/x-blocks-signal-me-links-errors)
+ - [A ‘Teleportation’ Breakthrough for Quantum Computing Is Here](https://www.wired.com/story/quantum-computing-information-teleportation/)
+ - [Dockcase 7-in-1 USB-C Hub with SSD Enclosure review: Best of both worlds](https://appleinsider.com/articles/25/02/17/dockcase-7-in-1-usb-c-hub-with-ssd-enclosure-review-best-of-both-worlds?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

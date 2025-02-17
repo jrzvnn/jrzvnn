@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple smart display update, Netflix in the Apple TV app, and more on HomeKit Insider](https://appleinsider.com/articles/25/02/17/apple-smart-display-update-netflix-in-the-apple-tv-app-and-more-on-homekit-insider?utm_medium=rss)
- - [Why Surfshark Alternative Number can protect you from scammers](https://appleinsider.com/articles/25/02/17/why-surfshark-alternative-number-can-protect-you-from-scammers?utm_medium=rss)
- - [iPhone 17 design will be dramatically different, says leaker](https://appleinsider.com/articles/25/02/17/iphone-17-design-will-be-dramatically-different-says-leaker?utm_medium=rss)
- - [Best Internet Providers in Franklin, Tennessee](https://www.cnet.com/home/internet/best-internet-providers-in-franklin-tn/#ftag=CAD590a51e)
- - [The war on DEI is a smoke screen](https://www.theverge.com/politics/613660/war-on-dei-smoke-screen-civil-rights-racism-eugenics)<!-- TECH:END -->
+ - [How Apple Music stands firm amidst Spotify&#39;s Premium plan hikes](https://appleinsider.com/articles/25/02/17/how-apple-music-stands-firm-amidst-spotifys-premium-plan-hikes?utm_medium=rss)
+ - [The best Presidents Day sales from Apple, Bose, Google, and more](https://www.theverge.com/good-deals/609704/best-presidents-day-sales-deals-2025-apple-gaming-tech)
+ - [&#39;Sonic 3&#39; Will Zoom Onto Paramount Plus This Week](https://www.cnet.com/tech/services-and-software/sonic-3-will-zoom-onto-paramount-plus-this-week/#ftag=CAD590a51e)
+ - [La Liga Soccer Livestream: How to Watch Barcelona vs. Rayo Vallecano From Anywhere](https://www.cnet.com/tech/services-and-software/la-liga-soccer-livestream-how-to-watch-barcelona-vs-rayo-vallecano-from-anywhere/#ftag=CAD590a51e)
+ - [Our Expert Picks for Best Mattresses for Heavy People in 2025](https://www.cnet.com/health/sleep/best-mattress-for-heavy-people/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

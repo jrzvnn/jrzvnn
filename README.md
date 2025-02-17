@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Dockcase 7-in-1 USB-C Hub with SSD Enclosure review: Best of both worlds](https://appleinsider.com/articles/25/02/17/dockcase-7-in-1-usb-c-hub-with-ssd-enclosure-review-best-of-both-worlds?utm_medium=rss)
+ - [Why Trump&#39;s Metal Tariffs Won&#39;t Lead to the All-American iPhone](https://www.wired.com/story/why-trumps-metal-tariffs-wont-lead-to-the-all-american-iphone/)
+ - [Mistral releases Mistral Saba, a 24B-parameter custom-trained model focused on Arabic language and culture, via its API; Saba outperforms Mistral Small 3 &lpar;Romain Dillet/TechCrunch&rpar;](http://www.techmeme.com/250217/p10#a250217p10)
  - [17 Best Air Purifiers &lpar;2025&rpar;: Coway, AirDoctor, IQAir](https://www.wired.com/gallery/best-air-purifiers/)
- - [Sources: Tesla is bracing for a delay in Chinese approval for FSD, despite an earlier sign it would come in Q2; China is weighing using it in US negotiations &lpar;Financial Times&rpar;](http://www.techmeme.com/250217/p9#a250217p9)
- - [X appears to be blocking Signal&#39;s &quot;Signal.me&quot; links in DMs, posts, and profile pages, giving error messages and showing a warning page for users clicking them &lpar;Matt Binder/disruptionist&rpar;](http://www.techmeme.com/250217/p8#a250217p8)
- - [The New York Times adopts AI tools in the newsroom](https://www.theverge.com/news/613989/new-york-times-internal-ai-tools-echo)
- - [An analysis of credit and debit card data shows TikTok Shop passed Shein and Temu in US sales in January 2025, growing 153% to Shein&#39;s 26% and Temu&#39;s 28% &lpar;Bloomberg&rpar;](http://www.techmeme.com/250217/p7#a250217p7)<!-- TECH:END -->
+ - [Sources: Tesla is bracing for a delay in Chinese approval for FSD, despite an earlier sign it would come in Q2; China is weighing using it in US negotiations &lpar;Financial Times&rpar;](http://www.techmeme.com/250217/p9#a250217p9)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

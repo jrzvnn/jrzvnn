@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Watch the match not the cheerleading sisters](http://9gag.com/gag/aNDLyoG)
- - 😝 [Spaghetti tutorial](http://9gag.com/gag/aRB4QAG)
- - 💣 [She said she loves someone else, my business isn&#39;t going very well, my mother is sick, I&#39;m struggling with finances, have anxiety... but i have my own homemade rakia. Happy saturday night b*tches](http://9gag.com/gag/ae94oYO)
- - 😝 [How](http://9gag.com/gag/agmQRnw)
- - 👉 [Line Up Boys](http://9gag.com/gag/aQzgwbW)<!-- MEMES:END -->
+ - 😝 [You broke the code!!](http://9gag.com/gag/aRB4Q12)
+ - 😝 [Celebrate our differences. It&#39;s beautiful.](http://9gag.com/gag/a345YQ5)
+ - 💣 [Hello there.](http://9gag.com/gag/a2vwz6D)
+ - 😝 [Every gato in a shelter deserves a home of their own! \ud83d\udc08\u2b1b](http://9gag.com/gag/aLnzKmx)
+ - 👉 [Average adventure time enjoyer](http://9gag.com/gag/aKGAz2j)<!-- MEMES:END -->
 
 ---
 

@@ -160,8 +160,8 @@ R                        1 repo              ░░░░░░░░░░░�
  - [Apple smart display update, Netflix in the Apple TV app, and more on HomeKit Insider](https://appleinsider.com/articles/25/02/17/apple-smart-display-update-netflix-in-the-apple-tv-app-and-more-on-homekit-insider?utm_medium=rss)
  - [Why Surfshark Alternative Number can protect you from scammers](https://appleinsider.com/articles/25/02/17/why-surfshark-alternative-number-can-protect-you-from-scammers?utm_medium=rss)
  - [iPhone 17 design will be dramatically different, says leaker](https://appleinsider.com/articles/25/02/17/iphone-17-design-will-be-dramatically-different-says-leaker?utm_medium=rss)
- - [The war on DEI is a smoke screen](https://www.theverge.com/politics/613660/war-on-dei-smoke-screen-civil-rights-racism-eugenics)
- - [Best Theraguns and Therabody Tools, Tested and Reviewed &lpar;2025&rpar;](https://www.wired.com/gallery/best-theragun-percussive-therapy-devices/)<!-- TECH:END -->
+ - [Best Internet Providers in Franklin, Tennessee](https://www.cnet.com/home/internet/best-internet-providers-in-franklin-tn/#ftag=CAD590a51e)
+ - [The war on DEI is a smoke screen](https://www.theverge.com/politics/613660/war-on-dei-smoke-screen-civil-rights-racism-eugenics)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

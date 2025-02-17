@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [WhyIsThisSoTrueThough](http://9gag.com/gag/aGyLPK7)
- - 😝 [#feelingblessed](http://9gag.com/gag/aD27ENK)
- - 💣 [Mass effect 2 is the best in the series.](http://9gag.com/gag/aD26RwG)
- - 😝 [That is right](http://9gag.com/gag/a1m7GG6)
- - 👉 [Epic](http://9gag.com/gag/apR1y49)<!-- MEMES:END -->
+ - 😝 [Muhammed Ali&#39;s opinion on race mixing.](http://9gag.com/gag/aE06vWM)
+ - 😝 [Massage Competition](http://9gag.com/gag/aqyX9zM)
+ - 💣 [Even the other pigs were trying to wake him up jaja](http://9gag.com/gag/a876LwY)
+ - 😝 [Watch the match not the cheerleading sisters](http://9gag.com/gag/aNDLyoG)
+ - 👉 [&#39;Queers for Palestine&#39; screech at black Trump supporter](http://9gag.com/gag/aXPLD9d)<!-- MEMES:END -->
 
 ---
 

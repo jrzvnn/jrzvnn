@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [New junior developers are reliant on Copilot, Claude, and other AI tools, meaning foundational coding knowledge is now missing, creating problems down the road &lpar;Namanyay Goel/N&#39;s Blog&rpar;](http://www.techmeme.com/250217/p5#a250217p5)
  - [Chinese President Xi meets with Alibaba co-founder Jack Ma, Huawei founder Ren Zhengfei, and more, signaling Beijing&#39;s support for the long-marginalized sector &lpar;Bloomberg&rpar;](http://www.techmeme.com/250217/p4#a250217p4)
  - [DeepSeek: all the news about the startup that’s shaking up AI stocks](https://www.theverge.com/24353060/deepseek-ai-china-nvidia-openai)
  - [An interview with Nadia Odunayo on building Goodreads alternative StoryGraph, remaining bootstrapped, reaching 3.8M active users, not allowing DMs, and more &lpar;David Barnett/The Guardian&rpar;](http://www.techmeme.com/250217/p3#a250217p3)
- - [Best Internet Providers in Columbus, Ohio](https://www.cnet.com/home/internet/best-internet-providers-in-columbus-oh/#ftag=CAD590a51e)
- - [A look at the OpenEuroLLM project, a partnership among 20 EU organizations to develop open-source LLMs that support all EU languages, with a budget of &amp;euro;37.4M &lpar;Paul Sawers/TechCrunch&rpar;](http://www.techmeme.com/250217/p2#a250217p2)<!-- TECH:END -->
+ - [Best Internet Providers in Columbus, Ohio](https://www.cnet.com/home/internet/best-internet-providers-in-columbus-oh/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

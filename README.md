@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [Give your coolest upvote gifs/pics](http://9gag.com/gag/avyW3xb)
+ - 😝 [Line Up Boys](http://9gag.com/gag/aQzgwbW)
+ - 💣 [Massage Competition](http://9gag.com/gag/aqyX9zM)
  - 😝 [Muhammed Ali&#39;s opinion on race mixing.](http://9gag.com/gag/aE06vWM)
- - 😝 [Massage Competition](http://9gag.com/gag/aqyX9zM)
- - 💣 [Even the other pigs were trying to wake him up jaja](http://9gag.com/gag/a876LwY)
- - 😝 [Watch the match not the cheerleading sisters](http://9gag.com/gag/aNDLyoG)
- - 👉 [&#39;Queers for Palestine&#39; screech at black Trump supporter](http://9gag.com/gag/aXPLD9d)<!-- MEMES:END -->
+ - 👉 [When she tells you I only see you as a friend](http://9gag.com/gag/a0eX8pn)<!-- MEMES:END -->
 
 ---
 

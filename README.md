@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Watch the match not the cheerleading sisters](http://9gag.com/gag/aNDLyoG)
- - 😝 [She killedd the Cult Religionn](http://9gag.com/gag/a0eoArn)
- - 💣 [Massage Competition](http://9gag.com/gag/aqyX9zM)
- - 😝 [Give your coolest upvote gifs/pics](http://9gag.com/gag/avyW3xb)
- - 👉 [How](http://9gag.com/gag/agmQRnw)<!-- MEMES:END -->
+ - 😝 [Cheers](http://9gag.com/gag/aRB4wpA)
+ - 😝 [A real gamer](http://9gag.com/gag/an7OAqV)
+ - 💣 [How](http://9gag.com/gag/agmQRnw)
+ - 😝 [Massage Competition](http://9gag.com/gag/aqyX9zM)
+ - 👉 [She killedd the Cult Religionn](http://9gag.com/gag/a0eoArn)<!-- MEMES:END -->
 
 ---
 

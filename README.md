@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Maybe so.](http://9gag.com/gag/avyWYGE)
  - 😝 [&#39;Queers for Palestine&#39; screech at black Trump supporter](http://9gag.com/gag/aXPLD9d)
- - 💣 [Can&#39;t disagree](http://9gag.com/gag/amoW3Q9)
- - 😝 [Make sense...](http://9gag.com/gag/aLnLyYv)
- - 👉 [Give your coolest upvote gifs/pics](http://9gag.com/gag/avyW3xb)<!-- MEMES:END -->
+ - 😝 [Salt and pepper](http://9gag.com/gag/aYQG2Vm)
+ - 💣 [Give your coolest upvote gifs/pics](http://9gag.com/gag/avyW3xb)
+ - 😝 [Can&#39;t disagree](http://9gag.com/gag/amoW3Q9)
+ - 👉 [How](http://9gag.com/gag/agmQRnw)<!-- MEMES:END -->
 
 ---
 

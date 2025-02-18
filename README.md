@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [The disrespect](http://9gag.com/gag/apR3Ev9)
- - 😝 [The bells on this Hitman Easter Egg](http://9gag.com/gag/aAy6BNE)
- - 💣 [Forklift save](http://9gag.com/gag/aAy6Bz2)
- - 😝 [Man arrested for sharing his own country&#39;s flag on X. Welcome to My new England.](http://9gag.com/gag/azxdgOj)
- - 👉 [In 1978, 15 year old Mary Vincent was raped, had her arms cut off, and was thrown off a 30-foot cliff. Barely alive, she packed her stumps with mud to stop the bleeding, climbed back up, and walked three miles naked to find help.](http://9gag.com/gag/avy10KZ)<!-- MEMES:END -->
+ - 😝 [Basketball game](http://9gag.com/gag/aD263wG)
+ - 😝 [He&#39;s a real one for that](http://9gag.com/gag/aW47ZbK)
+ - 💣 [Pranking people in Brazil](http://9gag.com/gag/aKGAzw1)
+ - 😝 [Brock Lesnar shakes kid\u2019s hand who beat his son in wrestling match.](http://9gag.com/gag/a7oOKy2)
+ - 👉 [Cultured](http://9gag.com/gag/axy3N9L)<!-- MEMES:END -->
 
 ---
 

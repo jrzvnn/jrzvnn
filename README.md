@@ -160,8 +160,8 @@ R                        1 repo              ░░░░░░░░░░░�
  - [iPhone SE 4 -- All the rumors about Apple&#39;s next budget-friendly device](https://appleinsider.com/articles/25/02/07/iphone-se-4----all-the-rumors-about-apples-next-budget-friendly-device?utm_medium=rss)
  - [Elon Musk&amp;#8217;s xAI adds &amp;#8216;Big Brain&amp;#8217; reasoning to Grok-3](https://www.theverge.com/news/614218/elon-musk-xai-big-brain-reasoning-grok-3)
  - [Ratio Four Coffee Maker: Terrific Single-Serve Drip](https://www.wired.com/review/ratio-four-coffee-maker/)
- - [Cambridge, UK-based Luminance, which uses AI to draft and review legal documents, raised a $75M Series C led by Point72, after a $40M Series B in April 2024 &lpar;Yazhou Sun/Bloomberg&rpar;](http://www.techmeme.com/250218/p9#a250218p9)
- - [The 8 Best Mattress Toppers We&#39;ve Slept On &lpar;2025&rpar;](https://www.wired.com/gallery/best-mattress-toppers/)<!-- TECH:END -->
+ - [Best Running Shoes for Women in 2025](https://www.cnet.com/health/fitness/best-womens-running-shoes/#ftag=CAD590a51e)
+ - [Cambridge, UK-based Luminance, which uses AI to draft and review legal documents, raised a $75M Series C led by Point72, after a $40M Series B in April 2024 &lpar;Yazhou Sun/Bloomberg&rpar;](http://www.techmeme.com/250218/p9#a250218p9)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

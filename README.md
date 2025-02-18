@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Humane says Ai Pin&#39;s online features will stop working on February 28, when all customer data will be deleted, and it will refund some customers &lpar;Aaron Souppouris/Engadget&rpar;](http://www.techmeme.com/250218/p32#a250218p32)
+ - [72 Hours Only: Save $350 on these 20-core M4 MacBook Pros](https://appleinsider.com/articles/25/02/18/72-hours-only-save-350-on-these-20-core-m4-macbook-pros?utm_medium=rss)
  - [Google Play Books for iOS will now let users complete their e-book or audiobook purchase on the Google Play website, under Apple&#39;s &quot;reader apps&quot; exception &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/250218/p31#a250218p31)
- - [iPhone 17 Air rumored to feature titanium frame and support for 35W fast charging](https://appleinsider.com/articles/25/02/18/iphone-17-air-rumored-to-feature-titanium-frame-and-support-for-35w-fast-charging?utm_medium=rss)
- - [Trump’s first 100 days: all the news affecting the tech industry](https://www.theverge.com/24348851/donald-trump-presidency-tech-science-news)
- - [DOGE can keep accessing government data for now, judge rules](https://www.theverge.com/news/614861/doge-musk-states-temporary-restraining-order-judge-data)
- - [Humane’s AI Pin: all the news about the dead AI-powered wearable](https://www.theverge.com/2023/11/9/23954497/humane-ai-pin-wearable-news-announcements)<!-- TECH:END -->
+ - [Best iPhone 16 and iPhone 16 Pro Cases for 2025](https://www.cnet.com/tech/mobile/best-iphone-16-and-iphone-16-pro-cases/#ftag=CAD590a51e)
+ - [iPhone 17 Air rumored to feature titanium frame and support for 35W fast charging](https://appleinsider.com/articles/25/02/18/iphone-17-air-rumored-to-feature-titanium-frame-and-support-for-35w-fast-charging?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

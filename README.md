@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Forklift save](http://9gag.com/gag/aAy6Bz2)
- - 😝 [Ricky is how all comedians should be, totally unafraid of causing offence.](http://9gag.com/gag/a876LbV)
- - 💣 [Are you going to tell them or should I?](http://9gag.com/gag/awy3NqW)
- - 😝 [Rich guy thinks he can just headbutt people and gets taught a valuable lesson in life.](http://9gag.com/gag/aQzvppe)
- - 👉 [Letting your kid play on the road](http://9gag.com/gag/aE06vmG)<!-- MEMES:END -->
+ - 😝 [Brock Lesnar shakes kid\u2019s hand who beat his son in wrestling match.](http://9gag.com/gag/a7oOKy2)
+ - 😝 [Pranking people in Brazil](http://9gag.com/gag/aKGAzw1)
+ - 💣 [Cultured](http://9gag.com/gag/axy3N9L)
+ - 😝 [Training for setak takraw. roll spike](http://9gag.com/gag/aE06wqK)
+ - 👉 [In 1978, 15 year old Mary Vincent was raped, had her arms cut off, and was thrown off a 30-foot cliff. Barely alive, she packed her stumps with mud to stop the bleeding, climbed back up, and walked three miles naked to find help.](http://9gag.com/gag/avy10KZ)<!-- MEMES:END -->
 
 ---
 

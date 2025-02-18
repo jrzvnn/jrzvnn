@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Google Play Books for iOS will now let users complete their e-book or audiobook purchase on the Google Play website, under Apple&#39;s &quot;reader apps&quot; exception &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/250218/p31#a250218p31)
  - [iPhone 17 Air rumored to feature titanium frame and support for 35W fast charging](https://appleinsider.com/articles/25/02/18/iphone-17-air-rumored-to-feature-titanium-frame-and-support-for-35w-fast-charging?utm_medium=rss)
  - [Trump’s first 100 days: all the news affecting the tech industry](https://www.theverge.com/24348851/donald-trump-presidency-tech-science-news)
  - [DOGE can keep accessing government data for now, judge rules](https://www.theverge.com/news/614861/doge-musk-states-temporary-restraining-order-judge-data)
- - [Humane’s AI Pin: all the news about the dead AI-powered wearable](https://www.theverge.com/2023/11/9/23954497/humane-ai-pin-wearable-news-announcements)
- - [Protector, an iOS app that offers on-demand personal security, including armed agents, debuts in NYC and LA; adviser Nikita Bier calls it &quot;Uber with guns&quot; &lpar;Jos&amp;eacute; Adorno/BGR&rpar;](http://www.techmeme.com/250218/p30#a250218p30)<!-- TECH:END -->
+ - [Humane’s AI Pin: all the news about the dead AI-powered wearable](https://www.theverge.com/2023/11/9/23954497/humane-ai-pin-wearable-news-announcements)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Protector, an iOS app that offers on-demand personal security, including armed agents, debuts in NYC and LA; adviser Nikita Bier calls it &quot;Uber with guns&quot; &lpar;Jos&amp;eacute; Adorno/BGR&rpar;](http://www.techmeme.com/250218/p30#a250218p30)
+ - [Trump’s first 100 days: all the news affecting the tech industry](https://www.theverge.com/24348851/donald-trump-presidency-tech-science-news)
  - [HP is buying Humane and shutting down the AI Pin](https://www.theverge.com/news/614883/humane-ai-hp-acquisition-pin-shutdown)
  - [VFX company DNEG&#39;s AI unit Brahma acquires Metaphysic, a maker of AI tools for de-aging and more; Abu Dhabi&#39;s UASG and DNEG will invest another $25M into Brahma &lpar;Etan Vlessing/The Hollywood Reporter&rpar;](http://www.techmeme.com/250218/p29#a250218p29)
- - [Marvel Rivals’ US team is undergoing layoffs](https://www.theverge.com/news/614819/marvel-rivals-us-layoffs-netease)
- - [HP will acquire assets from Humane for $116M; Humane&#39;s Ai pin business will be wound down, and Humane&#39;s team, including its founders, will join HP &lpar;Brody Ford/Bloomberg&rpar;](http://www.techmeme.com/250218/p28#a250218p28)
- - [Sources: Silver Lake is in exclusive talks to acquire a majority stake in Intel&#39;s Altera unit &lpar;Bloomberg&rpar;](http://www.techmeme.com/250218/p27#a250218p27)<!-- TECH:END -->
+ - [Marvel Rivals’ US team is undergoing layoffs](https://www.theverge.com/news/614819/marvel-rivals-us-layoffs-netease)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

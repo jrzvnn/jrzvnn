@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Huawei’s trifold phone launches outside China](https://www.theverge.com/news/614241/huawei-trifold-mate-xt-ultimate-global-release)
- - [Trump’s first 100 days: all the news affecting the tech industry](https://www.theverge.com/24348851/donald-trump-presidency-tech-science-news)
- - [Huawei launches Mate XT, the industry&#39;s first tri-foldable, globally for &amp;euro;3,499, after its China launch in September 2024; the Mate XT has a 10.2-inch display &lpar;Eileen Ng/Associated Press&rpar;](http://www.techmeme.com/250218/p10#a250218p10)
- - [Questionable iPhone 17 Pro Max render in better light looks almost tolerable](https://appleinsider.com/articles/25/02/18/questionable-iphone-17-pro-max-render-in-better-light-looks-almost-tolerable?utm_medium=rss)
- - [Microsoft isn’t automatically keeping you signed into your account just yet](https://www.theverge.com/news/614238/microsoft-account-automatic-sign-in-delay)<!-- TECH:END -->
+ - [Everything we know about Apple’s Vision Pro](https://www.theverge.com/23689334/apple-mixed-reality-headset-augmented-virtual-reality-ar-vr-rumors-specs-features)
+ - [Vision Pro apps: the good, the bad, and the ridiculous](https://www.theverge.com/2024/1/18/24043367/apple-vision-pro-apps-good-bad)
+ - [New Apple Studio Display rumors: MiniLED, ProMotion, and more](https://appleinsider.com/articles/25/02/18/new-apple-studio-display-rumors-miniled-promotion-and-more?utm_medium=rss)
+ - [OnePlus unveils the $330 Watch 3, offering a rotating crown, five-day battery life, Wear OS 5, a new GPS antenna, and new health features, shipping February 25 &lpar;Victoria Song/The Verge&rpar;](http://www.techmeme.com/250218/p11#a250218p11)
+ - [Google Calendar Malware Is on the Rise. Here’s How To Stay Safe](https://www.wired.com/story/google-calendar-malware-is-on-the-rise-heres-how-to-stay-safe/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

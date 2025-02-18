@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Even the other pigs were trying to wake him up jaja](http://9gag.com/gag/a876LwY)
- - 😝 [Too hard.](http://9gag.com/gag/aLnLqjM)
- - 💣 [A real gamer](http://9gag.com/gag/an7OAqV)
- - 😝 [Rich guy thinks he can just headbutt people and gets taught a valuable lesson in life.](http://9gag.com/gag/aQzvppe)
- - 👉 [So is it that easy?](http://9gag.com/gag/aAy6Y9o)<!-- MEMES:END -->
+ - 😝 [Alive for another 74 hours](http://9gag.com/gag/aO8eyYN)
+ - 😝 [The bells on this Hitman Easter Egg](http://9gag.com/gag/aAy6BNE)
+ - 💣 [What color is Pikachu?](http://9gag.com/gag/aGyLP9X)
+ - 😝 [Forklift save](http://9gag.com/gag/aAy6Bz2)
+ - 👉 [Share something you didn&#39;t know](http://9gag.com/gag/azxd7Mp)<!-- MEMES:END -->
 
 ---
 

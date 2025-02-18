@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [All of Chipolo&amp;#8217;s Bluetooth trackers are discounted in sitewide sale](https://www.theverge.com/good-deals/614310/chipolo-one-card-spot-point-bluetooth-trackers-deal-sale)
  - [Meta says LlamaCon, its first developer conference dedicated to generative AI, will take place on April 29, and Meta Connect will be held on September 17 and 18 &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/250218/p17#a250218p17)
  - [The hunt for the next Twitter: all the news about alternative social media platforms](https://www.theverge.com/23686584/twitter-alternative-social-media-platforms-mastodon-bluesky-activitypub-protocol)
  - [Meta’s new ‘LlamaCon’ event will focus on AI](https://www.theverge.com/news/614455/meta-llamacon-connect-2025-date-announcement)
- - [The best Presidents Day deals you can still get from Apple, Bose, and more](https://www.theverge.com/good-deals/609704/best-presidents-day-sales-deals-2025-apple-gaming-tech)
- - [Insta360&amp;#8217;s new gimbal add-on brings subject tracking to any camera app](https://www.theverge.com/news/614366/insta360-flow-2-pro-ai-tracker-smartphone-gimbal-stabilization)<!-- TECH:END -->
+ - [The best Presidents Day deals you can still get](https://www.theverge.com/good-deals/609704/best-presidents-day-sales-deals-2025-apple-gaming-tech)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

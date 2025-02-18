@@ -166,9 +166,9 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [This is where gender equality ends](http://9gag.com/gag/a0eX98d)
- - 😝 [Why men live shorter lives than women?](http://9gag.com/gag/abA1y4X)
- - 💣 [So is it that easy?](http://9gag.com/gag/aAy6Y9o)
+ - 😝 [The Flame Machine](http://9gag.com/gag/avy1LnZ)
+ - 😝 [Not drinking and coming home drunk](http://9gag.com/gag/aND9rqw)
+ - 💣 [This is where gender equality ends](http://9gag.com/gag/a0eX98d)
  - 😝 [Strong Nostalgia Vibes](http://9gag.com/gag/avy1Z15)
  - 👉 [The moment the people aboard Delta Airlines get rescued](http://9gag.com/gag/aND9oOG)<!-- MEMES:END -->
 

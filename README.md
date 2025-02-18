@@ -166,10 +166,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [She tried](http://9gag.com/gag/amo10xX)
- - 😝 [Jerry Seinfeld is an absolute legend.](http://9gag.com/gag/a7oOL5A)
- - 💣 [In 1978, 15 year old Mary Vincent was raped, had her arms cut off, and was thrown off a 30-foot cliff. Barely alive, she packed her stumps with mud to stop the bleeding, climbed back up, and walked three miles naked to find help.](http://9gag.com/gag/avy10KZ)
- - 😝 [Why men live shorter lives than women?](http://9gag.com/gag/abA1y4X)
+ - 😝 [Strong Nostalgia Vibes](http://9gag.com/gag/avy1Z15)
+ - 😝 [Let my Cameron go!](http://9gag.com/gag/ae910dm)
+ - 💣 [Why men live shorter lives than women?](http://9gag.com/gag/abA1y4X)
+ - 😝 [In 1978, 15 year old Mary Vincent was raped, had her arms cut off, and was thrown off a 30-foot cliff. Barely alive, she packed her stumps with mud to stop the bleeding, climbed back up, and walked three miles naked to find help.](http://9gag.com/gag/avy10KZ)
  - 👉 [The moment the people aboard Delta Airlines get rescued](http://9gag.com/gag/aND9oOG)<!-- MEMES:END -->
 
 ---

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [So is it that easy?](http://9gag.com/gag/aAy6Y9o)
- - 😝 [Average Chinese working environment](http://9gag.com/gag/a5QVLzo)
- - 💣 [What color is Pikachu?](http://9gag.com/gag/aGyLP9X)
- - 😝 [Jerry Seinfeld is an absolute legend.](http://9gag.com/gag/a7oOL5A)
- - 👉 [Dad protect daughter from unleashed dog](http://9gag.com/gag/a9yz371)<!-- MEMES:END -->
+ - 😝 [While filming The Wizard of Oz, Judy was on a strict diet](http://9gag.com/gag/abA135B)
+ - 😝 [Dad protect daughter from unleashed dog](http://9gag.com/gag/a9yz371)
+ - 💣 [So is it that easy?](http://9gag.com/gag/aAy6Y9o)
+ - 😝 [In 1978, 15 year old Mary Vincent was raped, had her arms cut off, and was thrown off a 30-foot cliff. Barely alive, she packed her stumps with mud to stop the bleeding, climbed back up, and walked three miles naked to find help.](http://9gag.com/gag/avy10KZ)
+ - 👉 [A real gamer](http://9gag.com/gag/an7OAqV)<!-- MEMES:END -->
 
 ---
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Are you going to tell them or should I?](http://9gag.com/gag/awy3NqW)
- - 😝 [Share something you didn&#39;t know](http://9gag.com/gag/azxd7Mp)
- - 💣 [Frozen Freeza!](http://9gag.com/gag/aD26Rxx)
+ - 😝 [Thank you](http://9gag.com/gag/aqyX4DY)
  - 😝 [So is it that easy?](http://9gag.com/gag/aAy6Y9o)
- - 👉 [Man arrested for sharing his own country&#39;s flag on X. Welcome to My new England.](http://9gag.com/gag/azxdgOj)<!-- MEMES:END -->
+ - 💣 [Henry, the oldest Nile Crocodile. 124 years old, little over 5m long, father of over 10,000 crocs, captured in 1903. Still active, strong and healthy](http://9gag.com/gag/an7OA1n)
+ - 😝 [Just let it go](http://9gag.com/gag/aMVB20P)
+ - 👉 [Forklift save](http://9gag.com/gag/aAy6Bz2)<!-- MEMES:END -->
 
 ---
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Delta plane crash Toronto](http://9gag.com/gag/aND9oPw)
- - 😝 [Strong Nostalgia Vibes](http://9gag.com/gag/avy1Z15)
- - 💣 [What color is Pikachu?](http://9gag.com/gag/aGyLP9X)
- - 😝 [Average adventure time enjoyer](http://9gag.com/gag/aKGAz2j)
- - 👉 [You broke the code!!](http://9gag.com/gag/aRB4Q12)<!-- MEMES:END -->
+ - 😝 [Fun Fact: the book she&#39;s reading is by David Benioff, writer of GoT season 8, which `subverted expectations.`](http://9gag.com/gag/ayNqgVY)
+ - 😝 [Are you going to tell them or should I?](http://9gag.com/gag/awy3NqW)
+ - 💣 [Share something you didn&#39;t know](http://9gag.com/gag/azxd7Mp)
+ - 😝 [Headshot](http://9gag.com/gag/abAePoL)
+ - 👉 [Batman appears from nowhere...](http://9gag.com/gag/a34GoEm)<!-- MEMES:END -->
 
 ---
 

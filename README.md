@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Dad protect daughter from unleashed dog](http://9gag.com/gag/a9yz371)
- - 😝 [Forklift save](http://9gag.com/gag/aAy6Bz2)
- - 💣 [The bells on this Hitman Easter Egg](http://9gag.com/gag/aAy6BNE)
- - 😝 [In 2004, Michael O\u2019Leary, CEO of Ryanair, obtained a taxi license for his personal Mercedes-Benz S-Class. This clever decision allowed him to legally drive in Dublin\u2019s bus lanes, avoiding heavy traffic and ensuring a faster commute.](http://9gag.com/gag/aW4pKrx)
- - 👉 [Letting your kid play on the road](http://9gag.com/gag/aE06vmG)<!-- MEMES:END -->
+ - 😝 [Even the other pigs were trying to wake him up jaja](http://9gag.com/gag/a876LwY)
+ - 😝 [Too hard.](http://9gag.com/gag/aLnLqjM)
+ - 💣 [A real gamer](http://9gag.com/gag/an7OAqV)
+ - 😝 [Rich guy thinks he can just headbutt people and gets taught a valuable lesson in life.](http://9gag.com/gag/aQzvppe)
+ - 👉 [So is it that easy?](http://9gag.com/gag/aAy6Y9o)<!-- MEMES:END -->
 
 ---
 

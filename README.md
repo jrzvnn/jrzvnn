@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Electricity demand surges for the world’s two biggest polluters](https://www.theverge.com/news/614356/china-us-electricity-demand-ai-data-center-manufacturing-iea-report)
- - [Former OpenAI CTO Mira Murati announces Thinking Machines Lab, a new AI startup that she&#39;s leading, with Barret Zoph as CTO and John Schulman as chief scientist &lpar;Ina Fried/Axios&rpar;](http://www.techmeme.com/250218/p21#a250218p21)
- - [An investor group plans to build an AI data center in South Korea that uses up to 3 gigawatts of power, starting with a $10B investment that could grow to $35B &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/250218/p20#a250218p20)
  - [US tariffs: how Trump’s tax is hitting Big Tech and beyond](https://www.theverge.com/604742/trump-tariffs-canada-mexico-china-updates)
- - [Mira Murati is launching her OpenAI rival: Thinking Machines Lab](https://www.theverge.com/ai-artificial-intelligence/614621/mira-murati-thinking-machines-lab-openai-competitor-launch)<!-- TECH:END -->
+ - [Longer-lasting laptops: the modular hardware you can upgrade and repair yourself](https://www.theverge.com/24190757/modular-laptops-repairable-upgradable-diy)
+ - [Acer is the first to raise laptop prices because of Trump](https://www.theverge.com/news/614607/acer-ceo-laptop-price-increase-trump-tariffs-china-warns-price-gauging)
+ - [Electricity demand surges for the world’s two biggest polluters](https://www.theverge.com/news/614356/china-us-electricity-demand-ai-data-center-manufacturing-iea-report)
+ - [Former OpenAI CTO Mira Murati announces Thinking Machines Lab, a new AI startup that she&#39;s leading, with Barret Zoph as CTO and John Schulman as chief scientist &lpar;Ina Fried/Axios&rpar;](http://www.techmeme.com/250218/p21#a250218p21)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

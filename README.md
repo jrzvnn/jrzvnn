@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [So is it that easy?](http://9gag.com/gag/aAy6Y9o)
- - 😝 [It\u2019s just an act!\u2026.. right?](http://9gag.com/gag/aByZDRz)
- - 💣 [Letting your kid play on the road](http://9gag.com/gag/aE06vmG)
- - 😝 [I ain&#39;t no virtual cowboy, I&#39;m an outlaw goddammit](http://9gag.com/gag/aMVBevA)
- - 👉 [A real gamer](http://9gag.com/gag/an7OAqV)<!-- MEMES:END -->
+ - 😝 [Tucker was missing the pool so they took him and Todd to an indoor pool](http://9gag.com/gag/adB1NwQ)
+ - 😝 [He&#39;s a real one for that](http://9gag.com/gag/aW47ZbK)
+ - 💣 [Brock Lesnar shakes kid\u2019s hand who beat his son in wrestling match.](http://9gag.com/gag/a7oOKy2)
+ - 😝 [Pranking people in Brazil](http://9gag.com/gag/aKGAzw1)
+ - 👉 [Cultured](http://9gag.com/gag/axy3N9L)<!-- MEMES:END -->
 
 ---
 

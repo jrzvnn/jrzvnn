@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [Not drinking and coming home drunk](http://9gag.com/gag/aND9rqw)
+ - 😝 [Letting your kid play on the road](http://9gag.com/gag/aE06vmG)
+ - 💣 [That escalated quickly](http://9gag.com/gag/a2vwPv9)
  - 😝 [Just let it go](http://9gag.com/gag/aMVB20P)
- - 😝 [That escalated quickly](http://9gag.com/gag/a2vwPv9)
- - 💣 [Are you going to tell them or should I?](http://9gag.com/gag/awy3NqW)
- - 😝 [She tried](http://9gag.com/gag/amo10xX)
- - 👉 [Priorities.....](http://9gag.com/gag/aLnzP2P)<!-- MEMES:END -->
+ - 👉 [Must protect, must snatch](http://9gag.com/gag/a5Q6epO)<!-- MEMES:END -->
 
 ---
 

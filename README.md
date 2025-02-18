@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Ratio Four Coffee Maker: Terrific Single-Serve Drip](https://www.wired.com/review/ratio-four-coffee-maker/)
  - [Cambridge, UK-based Luminance, which uses AI to draft and review legal documents, raised a $75M Series C led by Point72, after a $40M Series B in April 2024 &lpar;Yazhou Sun/Bloomberg&rpar;](http://www.techmeme.com/250218/p9#a250218p9)
  - [The 8 Best Mattress Toppers We&#39;ve Slept On &lpar;2025&rpar;](https://www.wired.com/gallery/best-mattress-toppers/)
  - [A look at Apple&#39;s quiet pivot to India, where Foxconn now makes the iPhone 16 Pro; sources say China views Apple&#39;s growing business in India with suspicion &lpar;Financial Times&rpar;](http://www.techmeme.com/250218/p8#a250218p8)
- - [Nintendo Switch 2 announcement: all the news on the next console](https://www.theverge.com/24284512/nintendo-switch-2-direct-news-trailers-games-features)
- - [Switch 2: all the news and rumors on Nintendo’s next console](https://www.theverge.com/24051677/nintendo-switch-2-pro-rumors-news)<!-- TECH:END -->
+ - [Nintendo Switch 2 announcement: all the news on the next console](https://www.theverge.com/24284512/nintendo-switch-2-direct-news-trailers-games-features)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

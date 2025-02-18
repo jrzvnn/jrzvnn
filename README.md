@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [The Haja-no-Ontachi is housed at the Isonokami Shrine in Nara. Known as the Demon-Quelling Great Sword, it measures approximately 15 feet &lpar;465 cm&rpar; in length and weighs 165 pounds &lpar;75 kg&rpar;.](http://9gag.com/gag/aKGA4d3)
- - 😝 [Letting your kid play on the road](http://9gag.com/gag/aE06vmG)
- - 💣 [Massage Competition](http://9gag.com/gag/aqyX9zM)
- - 😝 [Just let it go](http://9gag.com/gag/aMVB20P)
- - 👉 [So is it that easy?](http://9gag.com/gag/aAy6Y9o)<!-- MEMES:END -->
+ - 😝 [Forklift save](http://9gag.com/gag/aAy6Bz2)
+ - 😝 [Ricky is how all comedians should be, totally unafraid of causing offence.](http://9gag.com/gag/a876LbV)
+ - 💣 [Are you going to tell them or should I?](http://9gag.com/gag/awy3NqW)
+ - 😝 [Rich guy thinks he can just headbutt people and gets taught a valuable lesson in life.](http://9gag.com/gag/aQzvppe)
+ - 👉 [Letting your kid play on the road](http://9gag.com/gag/aE06vmG)<!-- MEMES:END -->
 
 ---
 

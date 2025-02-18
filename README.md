@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Starting Feb. 19, Meta will store Facebook Live broadcasts for 30 days instead of storing them indefinitely and will remove videos currently older than 30 days &lpar;Aisha Malik/TechCrunch&rpar;](http://www.techmeme.com/250218/p19#a250218p19)
+ - [WhatsApp is now a Very Large platform in the EU, and will face tougher regulation](https://www.theverge.com/news/614445/whatsapp-channels-very-large-platform-vlop-digital-services-act-eu)
  - [Arkham: FTX users with claims below $50K have started to receive funds via Kraken and BitGo, expected to total $1.2B; users with $50K+ claims will be paid in Q2 &lpar;Francisco Rodrigues/CoinDesk&rpar;](http://www.techmeme.com/250218/p18#a250218p18)
  - [Magic: The Gathering’s Final Fantasy sets will tell the stories of the games](https://www.theverge.com/news/614519/magic-the-gathering-final-fantasy-commander-sets)
- - [All of Chipolo&amp;#8217;s Bluetooth trackers are discounted in sitewide sale](https://www.theverge.com/good-deals/614310/chipolo-one-card-spot-point-bluetooth-trackers-deal-sale)
- - [Meta says LlamaCon, its first developer conference dedicated to generative AI, will take place on April 29, and Meta Connect will be held on September 17 and 18 &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/250218/p17#a250218p17)
- - [The hunt for the next Twitter: all the news about alternative social media platforms](https://www.theverge.com/23686584/twitter-alternative-social-media-platforms-mastodon-bluesky-activitypub-protocol)<!-- TECH:END -->
+ - [Be Careful With the Data You Give DeepSeek... and Every Other AI](https://www.cnet.com/tech/services-and-software/be-careful-with-the-data-you-give-deepseek-and-every-other-ai/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

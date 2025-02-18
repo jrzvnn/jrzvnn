@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Cultured](http://9gag.com/gag/axy3N9L)
- - 😝 [Training for setak takraw. roll spike](http://9gag.com/gag/aE06wqK)
- - 💣 [Priorities.....](http://9gag.com/gag/aLnzP2P)
- - 😝 [In 1978, 15 year old Mary Vincent was raped, had her arms cut off, and was thrown off a 30-foot cliff. Barely alive, she packed her stumps with mud to stop the bleeding, climbed back up, and walked three miles naked to find help.](http://9gag.com/gag/avy10KZ)
- - 👉 [Posting 9gag stuff I saved from the before times #1](http://9gag.com/gag/a4P69gp)<!-- MEMES:END -->
+ - 😝 [Forklift save](http://9gag.com/gag/aAy6Bz2)
+ - 😝 [The Man, The Myth, The Mask](http://9gag.com/gag/ae913GQ)
+ - 💣 [Letting your kid play on the road](http://9gag.com/gag/aE06vmG)
+ - 😝 [Share something you didn&#39;t know](http://9gag.com/gag/azxd7Mp)
+ - 👉 [The moment the people aboard Delta Airlines get rescued](http://9gag.com/gag/aND9oOG)<!-- MEMES:END -->
 
 ---
 

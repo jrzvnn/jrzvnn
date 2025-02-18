@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Nothing’s new video pits the Phone 3A’s camera against the iPhone 16 Pro Max](https://www.theverge.com/news/614297/nothing-phone-3a-periscope-camera-comparison-iphone-16-pro-max)
  - [EU pushes forward with Apple antitrust investigation despite Trump&#39;s criticisms](https://appleinsider.com/articles/25/02/18/eu-pushes-forward-with-apple-antitrust-investigation-despite-trumps-criticisms?utm_medium=rss)
  - [Learn a new language on your iPhone or Mac with this $129 lifetime Babbel deal](https://appleinsider.com/articles/25/02/18/learn-a-new-language-on-your-iphone-or-mac-with-this-129-lifetime-babbel-deal?utm_medium=rss)
  - [Memecoin Scandal Threatens Argentine President Javier Milei](https://www.wired.com/story/memecoin-scandal-threatens-argentine-president-javier-milei/)
- - [Tel Aviv- and New York-based Blockaid, which offers crypto security tools, raised a $50M Series B led by Ribbit and says it stopped 71M attacks in 2024 &lpar;Suvashree Ghosh/Bloomberg&rpar;](http://www.techmeme.com/250218/p16#a250218p16)
- - [Acer CEO Jason Chen says the company will &quot;probably&quot; raise US laptop prices by 10% &quot;by default&quot; from March 2024 due to Trump&#39;s tariffs on Chinese imports &lpar;James Titcomb/Telegraph&rpar;](http://www.techmeme.com/250218/p15#a250218p15)<!-- TECH:END -->
+ - [Tel Aviv- and New York-based Blockaid, which offers crypto security tools, raised a $50M Series B led by Ribbit and says it stopped 71M attacks in 2024 &lpar;Suvashree Ghosh/Bloomberg&rpar;](http://www.techmeme.com/250218/p16#a250218p16)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

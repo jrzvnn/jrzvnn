@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Hmm](http://9gag.com/gag/a9y6L2j)
- - 😝 [Priorities.....](http://9gag.com/gag/aLnzP2P)
- - 💣 [More credible than flat earth theory](http://9gag.com/gag/aXPMpm2)
- - 😝 [Why men live shorter lives than women?](http://9gag.com/gag/abA1y4X)
- - 👉 [What a way to save on material](http://9gag.com/gag/aqyXNVR)<!-- MEMES:END -->
+ - 😝 [The moment the people aboard Delta Airlines get rescued](http://9gag.com/gag/aND9oOG)
+ - 😝 [Just let it go](http://9gag.com/gag/aMVB20P)
+ - 💣 [The disrespect](http://9gag.com/gag/apR3Ev9)
+ - 😝 [Gentleman.](http://9gag.com/gag/aZZ1qo9)
+ - 👉 [Priorities.....](http://9gag.com/gag/aLnzP2P)<!-- MEMES:END -->
 
 ---
 

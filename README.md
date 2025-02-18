@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [I ain&#39;t no virtual cowboy, I&#39;m an outlaw goddammit](http://9gag.com/gag/aMVBevA)
- - 😝 [Strong Nostalgia Vibes](http://9gag.com/gag/avy1Z15)
- - 💣 [Letting your kid play on the road](http://9gag.com/gag/aE06vmG)
- - 😝 [Man arrested for sharing his own country&#39;s flag on X. Welcome to My new England.](http://9gag.com/gag/azxdgOj)
- - 👉 [Are you going to tell them or should I?](http://9gag.com/gag/awy3NqW)<!-- MEMES:END -->
+ - 😝 [Are you going to tell them or should I?](http://9gag.com/gag/awy3NqW)
+ - 😝 [Share something you didn&#39;t know](http://9gag.com/gag/azxd7Mp)
+ - 💣 [Frozen Freeza!](http://9gag.com/gag/aD26Rxx)
+ - 😝 [So is it that easy?](http://9gag.com/gag/aAy6Y9o)
+ - 👉 [Man arrested for sharing his own country&#39;s flag on X. Welcome to My new England.](http://9gag.com/gag/azxdgOj)<!-- MEMES:END -->
 
 ---
 

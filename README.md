@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Line Up Boys](http://9gag.com/gag/aQzgwbW)
- - 😝 [Even the other pigs were trying to wake him up jaja](http://9gag.com/gag/a876LwY)
- - 💣 [You broke the code!!](http://9gag.com/gag/aRB4Q12)
+ - 😝 [Delta plane crash Toronto](http://9gag.com/gag/aND9oPw)
  - 😝 [Strong Nostalgia Vibes](http://9gag.com/gag/avy1Z15)
- - 👉 [So is it that easy?](http://9gag.com/gag/aAy6Y9o)<!-- MEMES:END -->
+ - 💣 [What color is Pikachu?](http://9gag.com/gag/aGyLP9X)
+ - 😝 [Average adventure time enjoyer](http://9gag.com/gag/aKGAz2j)
+ - 👉 [You broke the code!!](http://9gag.com/gag/aRB4Q12)<!-- MEMES:END -->
 
 ---
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [10 mins later: `What if you had a 29th chance](http://9gag.com/gag/abAePwX)
  - 😝 [Dad protect daughter from unleashed dog](http://9gag.com/gag/a9yz371)
- - 💣 [Average Chinese working environment](http://9gag.com/gag/a5QVLzo)
- - 😝 [This is Nigerian Air Force paratroopers .](http://9gag.com/gag/aMVB2zV)
- - 👉 [One does not simply hand over a flexi rod to a guy](http://9gag.com/gag/aXPL80g)<!-- MEMES:END -->
+ - 😝 [Forklift save](http://9gag.com/gag/aAy6Bz2)
+ - 💣 [The bells on this Hitman Easter Egg](http://9gag.com/gag/aAy6BNE)
+ - 😝 [In 2004, Michael O\u2019Leary, CEO of Ryanair, obtained a taxi license for his personal Mercedes-Benz S-Class. This clever decision allowed him to legally drive in Dublin\u2019s bus lanes, avoiding heavy traffic and ensuring a faster commute.](http://9gag.com/gag/aW4pKrx)
+ - 👉 [Letting your kid play on the road](http://9gag.com/gag/aE06vmG)<!-- MEMES:END -->
 
 ---
 

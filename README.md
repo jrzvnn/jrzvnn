@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [I ain&#39;t no virtual cowboy, I&#39;m an outlaw goddammit](http://9gag.com/gag/aMVBevA)
- - 😝 [Which way ?](http://9gag.com/gag/a6ZXrLm)
- - 💣 [Dude started congratulating his own death](http://9gag.com/gag/awy3NR4)
  - 😝 [So is it that easy?](http://9gag.com/gag/aAy6Y9o)
- - 👉 [Share something you didn&#39;t know](http://9gag.com/gag/azxd7Mp)<!-- MEMES:END -->
+ - 😝 [Average Chinese working environment](http://9gag.com/gag/a5QVLzo)
+ - 💣 [What color is Pikachu?](http://9gag.com/gag/aGyLP9X)
+ - 😝 [Jerry Seinfeld is an absolute legend.](http://9gag.com/gag/a7oOL5A)
+ - 👉 [Dad protect daughter from unleashed dog](http://9gag.com/gag/a9yz371)<!-- MEMES:END -->
 
 ---
 

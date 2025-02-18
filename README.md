@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Grok3 review: its thinking capability feels state of the art and rivals OpenAI&#39;s o1 pro models, DeepSearch offers a blend of search and reasoning, and more &lpar;Andrej Karpathy/@karpathy&rpar;](http://www.techmeme.com/250218/p3#a250218p3)
  - [xAI unveils DeepSearch, a reasoning chatbot that explains its thought process for queries and is capable of doing research, brainstorming, and data analysis &lpar;Amy Thomson/Bloomberg&rpar;](http://www.techmeme.com/250218/p2#a250218p2)
+ - [Today&#39;s NYT Mini Crossword Answers for Tuesday, Feb. 18](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-tuesday-feb-18/#ftag=CAD590a51e)
  - [xAI launches Grok3 beta and Grok3 mini, its latest AI models with reasoning capabilities, trained on &quot;10x&quot; more compute than Grok2, for X Premium+ subscribers &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/250218/p1#a250218p1)
- - [An interview with Nextdoor CEO Nirav Tolia on building the &quot;next Nextdoor&quot;, not licensing data to AI firms for now, his relationship with Bill Gurley, and more &lpar;Connie Loizos/TechCrunch&rpar;](http://www.techmeme.com/250217/p19#a250217p19)
- - [How militaries and startups like North.io use AI to analyze data and deploy autonomous underwater vehicles to safeguard deep-sea pipelines and cables &lpar;William Boston/Wall Street Journal&rpar;](http://www.techmeme.com/250217/p18#a250217p18)
- - [These Are the Best Smart Devices for Amazon Alexa in 2025](https://www.cnet.com/home/smart-home/best-alexa-devices/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [An interview with Nextdoor CEO Nirav Tolia on building the &quot;next Nextdoor&quot;, not licensing data to AI firms for now, his relationship with Bill Gurley, and more &lpar;Connie Loizos/TechCrunch&rpar;](http://www.techmeme.com/250217/p19#a250217p19)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

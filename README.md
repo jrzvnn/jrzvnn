@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Sources: Sam Altman and OpenAI&#39;s board weigh governance changes, including special voting rights for its nonprofit board, to deter hostile bids like Musk&#39;s &lpar;Financial Times&rpar;](http://www.techmeme.com/250218/p4#a250218p4)
  - [Grok3 review: its thinking capability feels state of the art and rivals OpenAI&#39;s o1 pro models, DeepSearch offers a blend of search and reasoning, and more &lpar;Andrej Karpathy/@karpathy&rpar;](http://www.techmeme.com/250218/p3#a250218p3)
  - [xAI unveils DeepSearch, a reasoning chatbot that explains its thought process for queries and is capable of doing research, brainstorming, and data analysis &lpar;Amy Thomson/Bloomberg&rpar;](http://www.techmeme.com/250218/p2#a250218p2)
  - [Today&#39;s NYT Mini Crossword Answers for Tuesday, Feb. 18](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-tuesday-feb-18/#ftag=CAD590a51e)
- - [xAI launches Grok3 beta and Grok3 mini, its latest AI models with reasoning capabilities, trained on &quot;10x&quot; more compute than Grok2, for X Premium+ subscribers &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/250218/p1#a250218p1)
- - [An interview with Nextdoor CEO Nirav Tolia on building the &quot;next Nextdoor&quot;, not licensing data to AI firms for now, his relationship with Bill Gurley, and more &lpar;Connie Loizos/TechCrunch&rpar;](http://www.techmeme.com/250217/p19#a250217p19)<!-- TECH:END -->
+ - [xAI launches Grok3 beta and Grok3 mini, its latest AI models with reasoning capabilities, trained on &quot;10x&quot; more compute than Grok2, for X Premium+ subscribers &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/250218/p1#a250218p1)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

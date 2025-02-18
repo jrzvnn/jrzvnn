@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Bumble reports Q4 revenue down 4.4% YoY to $261.6M, Bumble app paying users up 5% to 2.8M, and forecasts Q1 revenue below estimates; BMBL drops 13%+ after hours &lpar;Kritika Lamba/Reuters&rpar;](http://www.techmeme.com/250218/p26#a250218p26)
+ - [Google Play Books now links out to website &amp; avoids Apple&#39;s 30% cut](https://appleinsider.com/articles/25/02/18/google-play-books-now-links-out-to-website-avoids-apples-30-cut?utm_medium=rss)
  - [Intel shares close up 16.1% following a February 15 report that both Broadcom and TSMC are potentially weighing deals that could break the chipmaker in two &lpar;Samantha Subin/CNBC&rpar;](http://www.techmeme.com/250218/p25#a250218p25)
  - [Fiverr unveils AI tools, including the Personal AI Creation Model, which lets gig workers configure an AI model trained on their work and set prices to use it &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/250218/p24#a250218p24)
- - [Play Warhammer 40K: Rogue Trader and More Games Soon on Xbox Game Pass](https://www.cnet.com/tech/gaming/play-warhammer-40k-rogue-trader-and-more-games-soon-on-xbox-game-pass/#ftag=CAD590a51e)
- - [Facebook is about to mass delete a lot of old live streams](https://www.theverge.com/news/614664/facebook-live-video-30-day-limit-archives)
- - [Best Solar-Powered Home Security Cameras for 2025](https://www.cnet.com/home/security/best-solar-powered-home-security-camera/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Play Warhammer 40K: Rogue Trader and More Games Soon on Xbox Game Pass](https://www.cnet.com/tech/gaming/play-warhammer-40k-rogue-trader-and-more-games-soon-on-xbox-game-pass/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

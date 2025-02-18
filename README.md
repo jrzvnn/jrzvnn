@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Letting your kid play on the road](http://9gag.com/gag/aE06vmG)
- - 😝 [So is it that easy?](http://9gag.com/gag/aAy6Y9o)
- - 💣 [She tried](http://9gag.com/gag/amo10xX)
+ - 😝 [The Flame Machine](http://9gag.com/gag/avy1LnZ)
  - 😝 [In 1978, 15 year old Mary Vincent was raped, had her arms cut off, and was thrown off a 30-foot cliff. Barely alive, she packed her stumps with mud to stop the bleeding, climbed back up, and walked three miles naked to find help.](http://9gag.com/gag/avy10KZ)
- - 👉 [Average adventure time enjoyer](http://9gag.com/gag/aKGAz2j)<!-- MEMES:END -->
+ - 💣 [Man arrested for sharing his own country&#39;s flag on X. Welcome to My new England.](http://9gag.com/gag/azxdgOj)
+ - 😝 [Why men live shorter lives than women?](http://9gag.com/gag/abA1y4X)
+ - 👉 [Well that escalated quickly](http://9gag.com/gag/aLnzB4M)<!-- MEMES:END -->
 
 ---
 

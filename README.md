@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [The Flame Machine](http://9gag.com/gag/avy1LnZ)
- - 😝 [In 1978, 15 year old Mary Vincent was raped, had her arms cut off, and was thrown off a 30-foot cliff. Barely alive, she packed her stumps with mud to stop the bleeding, climbed back up, and walked three miles naked to find help.](http://9gag.com/gag/avy10KZ)
- - 💣 [Man arrested for sharing his own country&#39;s flag on X. Welcome to My new England.](http://9gag.com/gag/azxdgOj)
+ - 😝 [Dont shoot me bruh!](http://9gag.com/gag/ae910qp)
+ - 😝 [More credible than flat earth theory](http://9gag.com/gag/aXPMpm2)
+ - 💣 [You broke the code!!](http://9gag.com/gag/aRB4Q12)
  - 😝 [Why men live shorter lives than women?](http://9gag.com/gag/abA1y4X)
- - 👉 [Well that escalated quickly](http://9gag.com/gag/aLnzB4M)<!-- MEMES:END -->
+ - 👉 [For side money!](http://9gag.com/gag/an7RKqB)<!-- MEMES:END -->
 
 ---
 

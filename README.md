@@ -166,10 +166,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [While filming The Wizard of Oz, Judy was on a strict diet](http://9gag.com/gag/abA135B)
- - 😝 [Dad protect daughter from unleashed dog](http://9gag.com/gag/a9yz371)
- - 💣 [So is it that easy?](http://9gag.com/gag/aAy6Y9o)
  - 😝 [In 1978, 15 year old Mary Vincent was raped, had her arms cut off, and was thrown off a 30-foot cliff. Barely alive, she packed her stumps with mud to stop the bleeding, climbed back up, and walked three miles naked to find help.](http://9gag.com/gag/avy10KZ)
+ - 😝 [Which way ?](http://9gag.com/gag/a6ZXrLm)
+ - 💣 [Dude started congratulating his own death](http://9gag.com/gag/awy3NR4)
+ - 😝 [Are you going to tell them or should I?](http://9gag.com/gag/awy3NqW)
  - 👉 [A real gamer](http://9gag.com/gag/an7OAqV)<!-- MEMES:END -->
 
 ---

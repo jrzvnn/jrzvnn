@@ -166,10 +166,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [She tried](http://9gag.com/gag/amo10xX)
  - 😝 [Hmm](http://9gag.com/gag/a9y6L2j)
- - 💣 [New Achievement Unlocked!](http://9gag.com/gag/agm1y0x)
  - 😝 [Priorities.....](http://9gag.com/gag/aLnzP2P)
+ - 💣 [More credible than flat earth theory](http://9gag.com/gag/aXPMpm2)
+ - 😝 [Why men live shorter lives than women?](http://9gag.com/gag/abA1y4X)
  - 👉 [What a way to save on material](http://9gag.com/gag/aqyXNVR)<!-- MEMES:END -->
 
 ---

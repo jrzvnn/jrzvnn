@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Chase will start blocking Zelle payments over social media](https://www.theverge.com/news/614311/chase-zelle-block-social-media-transactions)
+ - [China fighting to stop Apple&#39;s supply chain exodus to India](https://appleinsider.com/articles/25/02/18/china-fighting-to-stop-apples-supply-chain-exodus-to-india?utm_medium=rss)
  - [Nothing’s new video pits the Phone 3A’s camera against the iPhone 16 Pro Max](https://www.theverge.com/news/614297/nothing-phone-3a-periscope-camera-comparison-iphone-16-pro-max)
- - [EU pushes forward with Apple antitrust investigation despite Trump&#39;s criticisms](https://appleinsider.com/articles/25/02/18/eu-pushes-forward-with-apple-antitrust-investigation-despite-trumps-criticisms?utm_medium=rss)
- - [Learn a new language on your iPhone or Mac with this $129 lifetime Babbel deal](https://appleinsider.com/articles/25/02/18/learn-a-new-language-on-your-iphone-or-mac-with-this-129-lifetime-babbel-deal?utm_medium=rss)
- - [Memecoin Scandal Threatens Argentine President Javier Milei](https://www.wired.com/story/memecoin-scandal-threatens-argentine-president-javier-milei/)
- - [Tel Aviv- and New York-based Blockaid, which offers crypto security tools, raised a $50M Series B led by Ribbit and says it stopped 71M attacks in 2024 &lpar;Suvashree Ghosh/Bloomberg&rpar;](http://www.techmeme.com/250218/p16#a250218p16)<!-- TECH:END -->
+ - [&#39;Sonic the Hedgehog 3&#39; Is Now Streaming. Here&#39;s How to Watch](https://www.cnet.com/tech/services-and-software/sonic-the-hedgehog-3-is-now-streaming-heres-how-to-watch/#ftag=CAD590a51e)
+ - [EU pushes forward with Apple antitrust investigation despite Trump&#39;s criticisms](https://appleinsider.com/articles/25/02/18/eu-pushes-forward-with-apple-antitrust-investigation-despite-trumps-criticisms?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

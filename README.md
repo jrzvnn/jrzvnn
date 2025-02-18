@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [From ChatGPT to Gemini: how AI is rewriting the internet](https://www.theverge.com/23610427/chatbots-chatgpt-new-bing-google-bard-conversational-ai)
- - [Not Even DOGE Employees Know Who&#39;s Legally Running DOGE](https://www.wired.com/story/doge-elon-musk-leadership-administrator/)
- - [The 46 Best Shows on Max &lpar;aka HBO Max&rpar; Right Now &lpar;February 2025&rpar;](https://www.wired.com/story/hbo-max-best-shows-to-stream-right-now/)
- - [It’s clearly time: all the news about the transparent tech renaissance](https://www.theverge.com/23774468/clear-transparent-tech-gadgets-news-announcements-products)
- - [Sources describe disputes at Google between Google Labs and Workspace before NotebookLM&#39;s launch and between Google Cloud and DeepMind over the pace of launches &lpar;Erin Woo/The Information&rpar;](http://www.techmeme.com/250218/p22#a250218p22)<!-- TECH:END -->
+ - [Rockstar’s working on bringing Roblox creators to GTA VI](https://www.theverge.com/news/614743/gta-vi-user-generated-content-roblox-fortnite)
+ - [GTA VI: all the news on Rockstar’s next entry in the Grand Theft Auto series](https://www.theverge.com/23987993/gta-6-news-trailers-rockstar-games)
+ - [Amazon scraps its TikTok-style Inspire feed](https://www.theverge.com/news/614730/amazon-inspire-tiktok-feed-discontinued)
+ - [Amazon discontinues Inspire, which was launched in December 2022 as a TikTok-style feed in its app for discovering products &lpar;Lauren Forristal/TechCrunch&rpar;](http://www.techmeme.com/250218/p23#a250218p23)
+ - [Best 3D Printing Filament in 2025](https://www.cnet.com/tech/computing/best-3d-printing-filament/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

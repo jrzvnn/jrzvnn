@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [From ChatGPT to Gemini: how AI is rewriting the internet](https://www.theverge.com/23610427/chatbots-chatgpt-new-bing-google-bard-conversational-ai)
  - [Not Even DOGE Employees Know Who&#39;s Legally Running DOGE](https://www.wired.com/story/doge-elon-musk-leadership-administrator/)
  - [The 46 Best Shows on Max &lpar;aka HBO Max&rpar; Right Now &lpar;February 2025&rpar;](https://www.wired.com/story/hbo-max-best-shows-to-stream-right-now/)
  - [It’s clearly time: all the news about the transparent tech renaissance](https://www.theverge.com/23774468/clear-transparent-tech-gadgets-news-announcements-products)
- - [Sources describe disputes at Google between Google Labs and Workspace before NotebookLM&#39;s launch and between Google Cloud and DeepMind over the pace of launches &lpar;Erin Woo/The Information&rpar;](http://www.techmeme.com/250218/p22#a250218p22)
- - [Longer-lasting laptops: the modular hardware you can upgrade and repair yourself](https://www.theverge.com/24190757/modular-laptops-repairable-upgradable-diy)<!-- TECH:END -->
+ - [Sources describe disputes at Google between Google Labs and Workspace before NotebookLM&#39;s launch and between Google Cloud and DeepMind over the pace of launches &lpar;Erin Woo/The Information&rpar;](http://www.techmeme.com/250218/p22#a250218p22)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

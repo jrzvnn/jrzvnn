@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Intel shares close up 16.1% following a February 15 report that both Broadcom and TSMC are potentially weighing deals that could break the chipmaker in two &lpar;Samantha Subin/CNBC&rpar;](http://www.techmeme.com/250218/p25#a250218p25)
  - [Fiverr unveils AI tools, including the Personal AI Creation Model, which lets gig workers configure an AI model trained on their work and set prices to use it &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/250218/p24#a250218p24)
+ - [Play Warhammer 40K: Rogue Trader and More Games Soon on Xbox Game Pass](https://www.cnet.com/tech/gaming/play-warhammer-40k-rogue-trader-and-more-games-soon-on-xbox-game-pass/#ftag=CAD590a51e)
  - [Facebook is about to mass delete a lot of old live streams](https://www.theverge.com/news/614664/facebook-live-video-30-day-limit-archives)
- - [Google Meet&amp;#8217;s AI transcripts will automatically create action items for you](https://www.theverge.com/news/614742/google-meet-gemini-ai-note-taking-action-items)
- - [From ChatGPT to Gemini: how AI is rewriting the internet](https://www.theverge.com/23610427/chatbots-chatgpt-new-bing-google-bard-conversational-ai)
- - [GTA VI: all the news on Rockstar’s next entry in the Grand Theft Auto series](https://www.theverge.com/23987993/gta-6-news-trailers-rockstar-games)<!-- TECH:END -->
+ - [Best Solar-Powered Home Security Cameras for 2025](https://www.cnet.com/home/security/best-solar-powered-home-security-camera/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

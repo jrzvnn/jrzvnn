@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The 8 Best Mattress Toppers We&#39;ve Slept On &lpar;2025&rpar;](https://www.wired.com/gallery/best-mattress-toppers/)
+ - [A look at Apple&#39;s quiet pivot to India, where Foxconn now makes the iPhone 16 Pro; sources say China views Apple&#39;s growing business in India with suspicion &lpar;Financial Times&rpar;](http://www.techmeme.com/250218/p8#a250218p8)
  - [Nintendo Switch 2 announcement: all the news on the next console](https://www.theverge.com/24284512/nintendo-switch-2-direct-news-trailers-games-features)
  - [Switch 2: all the news and rumors on Nintendo’s next console](https://www.theverge.com/24051677/nintendo-switch-2-pro-rumors-news)
- - [X raises its Premium+ subscription to $40 per month, or $395 per year, after raising it to $22 per month in December 2024, following Grok3&#39;s launch &lpar;Ivan Mehta/TechCrunch&rpar;](http://www.techmeme.com/250218/p7#a250218p7)
- - [Chokepoint 2.0: An Investigation Promises the Truth About Crypto&#39;s Biggest Conspiracy](https://www.wired.com/story/operation-chokepoint-20-crypto-debanking-conspiracy/)
- - [Baidu reports Q4 revenue down 2% YoY to ~$4.7B, above $4.6B est., and a ~$717M net income, above ~$540M est., as its search and AI businesses face competition &lpar;Bloomberg&rpar;](http://www.techmeme.com/250218/p6#a250218p6)<!-- TECH:END -->
+ - [X raises its Premium+ subscription to $40 per month, or $395 per year, after raising it to $22 per month in December 2024, following Grok3&#39;s launch &lpar;Ivan Mehta/TechCrunch&rpar;](http://www.techmeme.com/250218/p7#a250218p7)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

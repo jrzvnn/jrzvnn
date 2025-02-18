@@ -166,10 +166,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [This is where gender equality ends](http://9gag.com/gag/a0eX98d)
+ - 😝 [Why men live shorter lives than women?](http://9gag.com/gag/abA1y4X)
+ - 💣 [So is it that easy?](http://9gag.com/gag/aAy6Y9o)
  - 😝 [Strong Nostalgia Vibes](http://9gag.com/gag/avy1Z15)
- - 😝 [Let my Cameron go!](http://9gag.com/gag/ae910dm)
- - 💣 [Why men live shorter lives than women?](http://9gag.com/gag/abA1y4X)
- - 😝 [In 1978, 15 year old Mary Vincent was raped, had her arms cut off, and was thrown off a 30-foot cliff. Barely alive, she packed her stumps with mud to stop the bleeding, climbed back up, and walked three miles naked to find help.](http://9gag.com/gag/avy10KZ)
  - 👉 [The moment the people aboard Delta Airlines get rescued](http://9gag.com/gag/aND9oOG)<!-- MEMES:END -->
 
 ---

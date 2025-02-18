@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Starting Feb. 19, Meta will store Facebook Live broadcasts for 30 days instead of storing them indefinitely and will remove videos currently older than 30 days &lpar;Aisha Malik/TechCrunch&rpar;](http://www.techmeme.com/250218/p19#a250218p19)
- - [WhatsApp is now a Very Large platform in the EU, and will face tougher regulation](https://www.theverge.com/news/614445/whatsapp-channels-very-large-platform-vlop-digital-services-act-eu)
- - [Arkham: FTX users with claims below $50K have started to receive funds via Kraken and BitGo, expected to total $1.2B; users with $50K+ claims will be paid in Q2 &lpar;Francisco Rodrigues/CoinDesk&rpar;](http://www.techmeme.com/250218/p18#a250218p18)
- - [Magic: The Gathering’s Final Fantasy sets will tell the stories of the games](https://www.theverge.com/news/614519/magic-the-gathering-final-fantasy-commander-sets)
- - [Be Careful With the Data You Give DeepSeek... and Every Other AI](https://www.cnet.com/tech/services-and-software/be-careful-with-the-data-you-give-deepseek-and-every-other-ai/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [An investor group plans to build an AI data center in South Korea that uses up to 3 gigawatts of power, starting with a $10B investment that could grow to $35B &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/250218/p20#a250218p20)
+ - [US tariffs: how Trump’s tax is hitting Big Tech and beyond](https://www.theverge.com/604742/trump-tariffs-canada-mexico-china-updates)
+ - [Mira Murati is launching her OpenAI rival: Thinking Machines Lab](https://www.theverge.com/ai-artificial-intelligence/614621/mira-murati-thinking-machines-lab-openai-competitor-launch)
+ - [Mira Murati Launches Thinking Machines Lab to Make AI More Accessible](https://www.wired.com/story/mira-murati-thinking-machines-lab/)
+ - [Three months later, S.T.A.L.K.E.R. 2 is the glorious pain in the ass its makers intended](https://www.theverge.com/games-review/614336/stalker-2-heart-of-chornobyl-update-patches)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

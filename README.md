@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Learn a new language on your iPhone or Mac with this $129 lifetime Babbel deal](https://appleinsider.com/articles/25/02/18/learn-a-new-language-on-your-iphone-or-mac-with-this-129-lifetime-babbel-deal?utm_medium=rss)
+ - [Memecoin Scandal Threatens Argentina’s Milei](https://www.wired.com/story/memecoin-scandal-threatens-argentine-president-javier-milei/)
  - [Tel Aviv- and New York-based Blockaid, which offers crypto security tools, raised a $50M Series B led by Ribbit and says it stopped 71M attacks in 2024 &lpar;Suvashree Ghosh/Bloomberg&rpar;](http://www.techmeme.com/250218/p16#a250218p16)
  - [Acer CEO Jason Chen says the company will &quot;probably&quot; raise US laptop prices by 10% &quot;by default&quot; from March 2024 due to Trump&#39;s tariffs on Chinese imports &lpar;James Titcomb/Telegraph&rpar;](http://www.techmeme.com/250218/p15#a250218p15)
- - [MLS kicks off 30th season with new ways to watch &amp; exclusive perks on Apple TV](https://appleinsider.com/articles/25/02/18/mls-kicks-off-30th-season-with-new-ways-to-watch-exclusive-perks-on-apple-tv?utm_medium=rss)
- - [All iPhone 17 models could use the same Samsung OLED technology](https://appleinsider.com/articles/25/02/18/all-iphone-17-models-could-use-the-same-samsung-oled-technology?utm_medium=rss)
- - [Can Meta still make the metaverse?](https://www.theverge.com/the-vergecast/614299/meta-metaverse-ai-plans-2025)<!-- TECH:END -->
+ - [MLS kicks off 30th season with new ways to watch &amp; exclusive perks on Apple TV](https://appleinsider.com/articles/25/02/18/mls-kicks-off-30th-season-with-new-ways-to-watch-exclusive-perks-on-apple-tv?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

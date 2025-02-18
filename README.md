@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Sources describe disputes at Google between Google Labs and Workspace before NotebookLM&#39;s launch and between Google Cloud and DeepMind over the pace of launches &lpar;Erin Woo/The Information&rpar;](http://www.techmeme.com/250218/p22#a250218p22)
  - [US tariffs: how Trump’s tax is hitting Big Tech and beyond](https://www.theverge.com/604742/trump-tariffs-canada-mexico-china-updates)
  - [Longer-lasting laptops: the modular hardware you can upgrade and repair yourself](https://www.theverge.com/24190757/modular-laptops-repairable-upgradable-diy)
  - [Acer is the first to raise laptop prices because of Trump](https://www.theverge.com/news/614607/acer-ceo-laptop-price-increase-trump-tariffs-china-warns-price-gauging)
- - [Electricity demand surges for the world’s two biggest polluters](https://www.theverge.com/news/614356/china-us-electricity-demand-ai-data-center-manufacturing-iea-report)
- - [Former OpenAI CTO Mira Murati announces Thinking Machines Lab, a new AI startup that she&#39;s leading, with Barret Zoph as CTO and John Schulman as chief scientist &lpar;Ina Fried/Axios&rpar;](http://www.techmeme.com/250218/p21#a250218p21)<!-- TECH:END -->
+ - [Electricity demand surges for the world’s two biggest polluters](https://www.theverge.com/news/614356/china-us-electricity-demand-ai-data-center-manufacturing-iea-report)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

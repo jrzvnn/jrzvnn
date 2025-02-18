@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [If you love your job you won&#39;t work a day in your life](http://9gag.com/gag/aZZ1xm3)
- - 😝 [So is it that easy?](http://9gag.com/gag/aAy6Y9o)
- - 💣 [The moment the people aboard Delta Airlines get rescued](http://9gag.com/gag/aND9oOG)
- - 😝 [Why men live shorter lives than women?](http://9gag.com/gag/abA1y4X)
- - 👉 [She tried](http://9gag.com/gag/amo10xX)<!-- MEMES:END -->
+ - 😝 [Just let it go](http://9gag.com/gag/aMVB20P)
+ - 😝 [That escalated quickly](http://9gag.com/gag/a2vwPv9)
+ - 💣 [Are you going to tell them or should I?](http://9gag.com/gag/awy3NqW)
+ - 😝 [She tried](http://9gag.com/gag/amo10xX)
+ - 👉 [Priorities.....](http://9gag.com/gag/aLnzP2P)<!-- MEMES:END -->
 
 ---
 

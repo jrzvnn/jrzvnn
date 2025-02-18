@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The best Presidents Day deals you can still get from Apple, Bose, and more](https://www.theverge.com/good-deals/609704/best-presidents-day-sales-deals-2025-apple-gaming-tech)
+ - [Insta360&amp;#8217;s new gimbal add-on brings subject tracking to any camera app](https://www.theverge.com/news/614366/insta360-flow-2-pro-ai-tracker-smartphone-gimbal-stabilization)
+ - [The hunt for the next Twitter: all the news about alternative social media platforms](https://www.theverge.com/23686584/twitter-alternative-social-media-platforms-mastodon-bluesky-activitypub-protocol)
  - [Chase will start blocking Zelle payments over social media](https://www.theverge.com/news/614311/chase-zelle-block-social-media-transactions)
- - [China fighting to stop Apple&#39;s supply chain exodus to India](https://appleinsider.com/articles/25/02/18/china-fighting-to-stop-apples-supply-chain-exodus-to-india?utm_medium=rss)
- - [Nothing’s new video pits the Phone 3A’s camera against the iPhone 16 Pro Max](https://www.theverge.com/news/614297/nothing-phone-3a-periscope-camera-comparison-iphone-16-pro-max)
- - [&#39;Sonic the Hedgehog 3&#39; Is Now Streaming. Here&#39;s How to Watch](https://www.cnet.com/tech/services-and-software/sonic-the-hedgehog-3-is-now-streaming-heres-how-to-watch/#ftag=CAD590a51e)
- - [EU pushes forward with Apple antitrust investigation despite Trump&#39;s criticisms](https://appleinsider.com/articles/25/02/18/eu-pushes-forward-with-apple-antitrust-investigation-despite-trumps-criticisms?utm_medium=rss)<!-- TECH:END -->
+ - [China fighting to stop Apple&#39;s supply chain exodus to India](https://appleinsider.com/articles/25/02/18/china-fighting-to-stop-apples-supply-chain-exodus-to-india?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

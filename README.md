@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Brock Lesnar shakes kid\u2019s hand who beat his son in wrestling match.](http://9gag.com/gag/a7oOKy2)
  - 😝 [Pranking people in Brazil](http://9gag.com/gag/aKGAzw1)
- - 💣 [Cultured](http://9gag.com/gag/axy3N9L)
- - 😝 [Training for setak takraw. roll spike](http://9gag.com/gag/aE06wqK)
- - 👉 [In 1978, 15 year old Mary Vincent was raped, had her arms cut off, and was thrown off a 30-foot cliff. Barely alive, she packed her stumps with mud to stop the bleeding, climbed back up, and walked three miles naked to find help.](http://9gag.com/gag/avy10KZ)<!-- MEMES:END -->
+ - 😝 [Rich guy thinks he can just headbutt people and gets taught a valuable lesson in life.](http://9gag.com/gag/aQzvppe)
+ - 💣 [Letting your kid play on the road](http://9gag.com/gag/aE06vmG)
+ - 😝 [Best country my Ass](http://9gag.com/gag/an7OAGL)
+ - 👉 [Man arrested for sharing his own country&#39;s flag on X. Welcome to My new England.](http://9gag.com/gag/azxdgOj)<!-- MEMES:END -->
 
 ---
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [HP is buying Humane and shutting down the AI Pin](https://www.theverge.com/news/614883/humane-ai-hp-acquisition-pin-shutdown)
+ - [VFX company DNEG&#39;s AI unit Brahma acquires Metaphysic, a maker of AI tools for de-aging and more; Abu Dhabi&#39;s UASG and DNEG will invest another $25M into Brahma &lpar;Etan Vlessing/The Hollywood Reporter&rpar;](http://www.techmeme.com/250218/p29#a250218p29)
+ - [Marvel Rivals’ US team is undergoing layoffs](https://www.theverge.com/news/614819/marvel-rivals-us-layoffs-netease)
  - [HP will acquire assets from Humane for $116M; Humane&#39;s Ai pin business will be wound down, and Humane&#39;s team, including its founders, will join HP &lpar;Brody Ford/Bloomberg&rpar;](http://www.techmeme.com/250218/p28#a250218p28)
- - [Sources: Silver Lake is in exclusive talks to acquire a majority stake in Intel&#39;s Altera unit &lpar;Bloomberg&rpar;](http://www.techmeme.com/250218/p27#a250218p27)
- - [Bumble reports Q4 revenue down 4.4% YoY to $261.6M, Bumble app paying users up 5% to 2.8M, and forecasts Q1 revenue below estimates; BMBL drops 13%+ after hours &lpar;Kritika Lamba/Reuters&rpar;](http://www.techmeme.com/250218/p26#a250218p26)
- - [Elon Musk’s DOGE Is Being Sued Under the Privacy Act: What to Know](https://www.wired.com/story/privacy-act-doge-lawsuits/)
- - [Google Play Books now links out to website &amp; avoids Apple&#39;s 30% cut](https://appleinsider.com/articles/25/02/18/google-play-books-now-links-out-to-website-avoids-apples-30-cut?utm_medium=rss)<!-- TECH:END -->
+ - [Sources: Silver Lake is in exclusive talks to acquire a majority stake in Intel&#39;s Altera unit &lpar;Bloomberg&rpar;](http://www.techmeme.com/250218/p27#a250218p27)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

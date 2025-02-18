@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Fiverr unveils AI tools, including the Personal AI Creation Model, which lets gig workers configure an AI model trained on their work and set prices to use it &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/250218/p24#a250218p24)
  - [Facebook is about to mass delete a lot of old live streams](https://www.theverge.com/news/614664/facebook-live-video-30-day-limit-archives)
  - [Google Meet&amp;#8217;s AI transcripts will automatically create action items for you](https://www.theverge.com/news/614742/google-meet-gemini-ai-note-taking-action-items)
  - [From ChatGPT to Gemini: how AI is rewriting the internet](https://www.theverge.com/23610427/chatbots-chatgpt-new-bing-google-bard-conversational-ai)
- - [GTA VI: all the news on Rockstar’s next entry in the Grand Theft Auto series](https://www.theverge.com/23987993/gta-6-news-trailers-rockstar-games)
- - [Rockstar’s working on bringing Roblox creators to GTA VI](https://www.theverge.com/news/614743/gta-vi-user-generated-content-roblox-fortnite)<!-- TECH:END -->
+ - [GTA VI: all the news on Rockstar’s next entry in the Grand Theft Auto series](https://www.theverge.com/23987993/gta-6-news-trailers-rockstar-games)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

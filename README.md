@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Dude started congratulating his own death](http://9gag.com/gag/awy3NR4)
- - 😝 [Must protect, must snatch](http://9gag.com/gag/a5Q6epO)
- - 💣 [Who has two thumbs and doesn\u2019t give a crap?](http://9gag.com/gag/a5QVLDg)
- - 😝 [Headshot](http://9gag.com/gag/abAePoL)
- - 👉 [A real gamer](http://9gag.com/gag/an7OAqV)<!-- MEMES:END -->
+ - 😝 [I ain&#39;t no virtual cowboy, I&#39;m an outlaw goddammit](http://9gag.com/gag/aMVBevA)
+ - 😝 [Which way ?](http://9gag.com/gag/a6ZXrLm)
+ - 💣 [Dude started congratulating his own death](http://9gag.com/gag/awy3NR4)
+ - 😝 [So is it that easy?](http://9gag.com/gag/aAy6Y9o)
+ - 👉 [Share something you didn&#39;t know](http://9gag.com/gag/azxd7Mp)<!-- MEMES:END -->
 
 ---
 

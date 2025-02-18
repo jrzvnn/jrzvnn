@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Alive for another 74 hours](http://9gag.com/gag/aO8eyYN)
+ - 😝 [The disrespect](http://9gag.com/gag/apR3Ev9)
  - 😝 [The bells on this Hitman Easter Egg](http://9gag.com/gag/aAy6BNE)
- - 💣 [What color is Pikachu?](http://9gag.com/gag/aGyLP9X)
- - 😝 [Forklift save](http://9gag.com/gag/aAy6Bz2)
- - 👉 [Share something you didn&#39;t know](http://9gag.com/gag/azxd7Mp)<!-- MEMES:END -->
+ - 💣 [Forklift save](http://9gag.com/gag/aAy6Bz2)
+ - 😝 [Man arrested for sharing his own country&#39;s flag on X. Welcome to My new England.](http://9gag.com/gag/azxdgOj)
+ - 👉 [In 1978, 15 year old Mary Vincent was raped, had her arms cut off, and was thrown off a 30-foot cliff. Barely alive, she packed her stumps with mud to stop the bleeding, climbed back up, and walked three miles naked to find help.](http://9gag.com/gag/avy10KZ)<!-- MEMES:END -->
 
 ---
 

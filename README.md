@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [xAI launches Grok3 beta and Grok3 mini, its latest AI models with reasoning capabilities, trained on &quot;10x&quot; more compute than Grok2, for X Premium+ subscribers &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/250218/p1#a250218p1)
  - [An interview with Nextdoor CEO Nirav Tolia on building the &quot;next Nextdoor&quot;, not licensing data to AI firms for now, his relationship with Bill Gurley, and more &lpar;Connie Loizos/TechCrunch&rpar;](http://www.techmeme.com/250217/p19#a250217p19)
  - [How militaries and startups like North.io use AI to analyze data and deploy autonomous underwater vehicles to safeguard deep-sea pipelines and cables &lpar;William Boston/Wall Street Journal&rpar;](http://www.techmeme.com/250217/p18#a250217p18)
  - [These Are the Best Smart Devices for Amazon Alexa in 2025](https://www.cnet.com/home/smart-home/best-alexa-devices/#ftag=CAD590a51e)
- - [Spotify’s HiFi streaming could finally arrive this year](https://www.theverge.com/news/614091/spotify-music-pro-hifi-streaming-service-release-date-2025)
- - [Chase plans to stop users making Zelle payments deemed &quot;as originating from contact through social media&quot;; the CFPB had claimed Zelle lacked adequate safeguards &lpar;Sergiu Gatlan/BleepingComputer&rpar;](http://www.techmeme.com/250217/p17#a250217p17)<!-- TECH:END -->
+ - [Spotify’s HiFi streaming could finally arrive this year](https://www.theverge.com/news/614091/spotify-music-pro-hifi-streaming-service-release-date-2025)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

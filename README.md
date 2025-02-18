@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Trump’s first 100 days: all the news affecting the tech industry](https://www.theverge.com/24348851/donald-trump-presidency-tech-science-news)
+ - [Elon Musk doesn&amp;#8217;t work for DOGE](https://www.theverge.com/news/614253/elon-musk-not-doge-leader-presidential-advisor)
+ - [24 Best MagSafe Accessories &lpar;2025&rpar;, Tested and Reviewed](https://www.wired.com/gallery/best-magsafe-accessories/)
  - [Everything we know about Apple’s Vision Pro](https://www.theverge.com/23689334/apple-mixed-reality-headset-augmented-virtual-reality-ar-vr-rumors-specs-features)
- - [Vision Pro apps: the good, the bad, and the ridiculous](https://www.theverge.com/2024/1/18/24043367/apple-vision-pro-apps-good-bad)
- - [New Apple Studio Display rumors: MiniLED, ProMotion, and more](https://appleinsider.com/articles/25/02/18/new-apple-studio-display-rumors-miniled-promotion-and-more?utm_medium=rss)
- - [OnePlus unveils the $330 Watch 3, offering a rotating crown, five-day battery life, Wear OS 5, a new GPS antenna, and new health features, shipping February 25 &lpar;Victoria Song/The Verge&rpar;](http://www.techmeme.com/250218/p11#a250218p11)
- - [Google Calendar Malware Is on the Rise. Here’s How To Stay Safe](https://www.wired.com/story/google-calendar-malware-is-on-the-rise-heres-how-to-stay-safe/)<!-- TECH:END -->
+ - [Vision Pro apps: the good, the bad, and the ridiculous](https://www.theverge.com/2024/1/18/24043367/apple-vision-pro-apps-good-bad)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

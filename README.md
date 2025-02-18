@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Trump’s first 100 days: all the news affecting the tech industry](https://www.theverge.com/24348851/donald-trump-presidency-tech-science-news)
+ - [DOGE can keep accessing government data for now, judge rules](https://www.theverge.com/news/614861/doge-musk-states-temporary-restraining-order-judge-data)
  - [Humane’s AI Pin: all the news about the dead AI-powered wearable](https://www.theverge.com/2023/11/9/23954497/humane-ai-pin-wearable-news-announcements)
  - [Protector, an iOS app that offers on-demand personal security, including armed agents, debuts in NYC and LA; adviser Nikita Bier calls it &quot;Uber with guns&quot; &lpar;Jos&amp;eacute; Adorno/BGR&rpar;](http://www.techmeme.com/250218/p30#a250218p30)
- - [Trump’s first 100 days: all the news affecting the tech industry](https://www.theverge.com/24348851/donald-trump-presidency-tech-science-news)
- - [Best Home Ellipticals in 2025, Perfect for Cross-Training Your Way to Your Health Goals](https://www.cnet.com/health/fitness/best-elliptical/#ftag=CAD590a51e)
- - [HP is buying Humane and shutting down the AI Pin](https://www.theverge.com/news/614883/humane-ai-hp-acquisition-pin-shutdown)<!-- TECH:END -->
+ - [Best Home Ellipticals in 2025, Perfect for Cross-Training Your Way to Your Health Goals](https://www.cnet.com/health/fitness/best-elliptical/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

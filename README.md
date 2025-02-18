@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Forklift save](http://9gag.com/gag/aAy6Bz2)
- - 😝 [The Man, The Myth, The Mask](http://9gag.com/gag/ae913GQ)
+ - 😝 [The moment the people aboard Delta Airlines get rescued](http://9gag.com/gag/aND9oOG)
+ - 😝 [Rich guy thinks he can just headbutt people and gets taught a valuable lesson in life.](http://9gag.com/gag/aQzvppe)
  - 💣 [Letting your kid play on the road](http://9gag.com/gag/aE06vmG)
- - 😝 [Share something you didn&#39;t know](http://9gag.com/gag/azxd7Mp)
- - 👉 [The moment the people aboard Delta Airlines get rescued](http://9gag.com/gag/aND9oOG)<!-- MEMES:END -->
+ - 😝 [Are you going to tell them or should I?](http://9gag.com/gag/awy3NqW)
+ - 👉 [If you love your job you won&#39;t work a day in your life](http://9gag.com/gag/aZZ1xm3)<!-- MEMES:END -->
 
 ---
 

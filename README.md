@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [iPhone SE 4 -- All the rumors about Apple&#39;s next budget-friendly device](https://appleinsider.com/articles/25/02/07/iphone-se-4----all-the-rumors-about-apples-next-budget-friendly-device?utm_medium=rss)
- - [Elon Musk&amp;#8217;s xAI adds &amp;#8216;Big Brain&amp;#8217; reasoning to Grok-3](https://www.theverge.com/news/614218/elon-musk-xai-big-brain-reasoning-grok-3)
- - [Ratio Four Coffee Maker: Terrific Single-Serve Drip](https://www.wired.com/review/ratio-four-coffee-maker/)
- - [Best Running Shoes for Women in 2025](https://www.cnet.com/health/fitness/best-womens-running-shoes/#ftag=CAD590a51e)
- - [Cambridge, UK-based Luminance, which uses AI to draft and review legal documents, raised a $75M Series C led by Point72, after a $40M Series B in April 2024 &lpar;Yazhou Sun/Bloomberg&rpar;](http://www.techmeme.com/250218/p9#a250218p9)<!-- TECH:END -->
+ - [Huawei’s trifold phone launches outside China](https://www.theverge.com/news/614241/huawei-trifold-mate-xt-ultimate-global-release)
+ - [Trump’s first 100 days: all the news affecting the tech industry](https://www.theverge.com/24348851/donald-trump-presidency-tech-science-news)
+ - [Huawei launches Mate XT, the industry&#39;s first tri-foldable, globally for &amp;euro;3,499, after its China launch in September 2024; the Mate XT has a 10.2-inch display &lpar;Eileen Ng/Associated Press&rpar;](http://www.techmeme.com/250218/p10#a250218p10)
+ - [Questionable iPhone 17 Pro Max render in better light looks almost tolerable](https://appleinsider.com/articles/25/02/18/questionable-iphone-17-pro-max-render-in-better-light-looks-almost-tolerable?utm_medium=rss)
+ - [Microsoft isn’t automatically keeping you signed into your account just yet](https://www.theverge.com/news/614238/microsoft-account-automatic-sign-in-delay)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

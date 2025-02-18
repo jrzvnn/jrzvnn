@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Electricity demand surges for the world’s two biggest polluters](https://www.theverge.com/news/614356/china-us-electricity-demand-ai-data-center-manufacturing-iea-report)
+ - [Former OpenAI CTO Mira Murati announces Thinking Machines Lab, a new AI startup that she&#39;s leading, with Barret Zoph as CTO and John Schulman as chief scientist &lpar;Ina Fried/Axios&rpar;](http://www.techmeme.com/250218/p21#a250218p21)
  - [An investor group plans to build an AI data center in South Korea that uses up to 3 gigawatts of power, starting with a $10B investment that could grow to $35B &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/250218/p20#a250218p20)
  - [US tariffs: how Trump’s tax is hitting Big Tech and beyond](https://www.theverge.com/604742/trump-tariffs-canada-mexico-china-updates)
- - [Mira Murati is launching her OpenAI rival: Thinking Machines Lab](https://www.theverge.com/ai-artificial-intelligence/614621/mira-murati-thinking-machines-lab-openai-competitor-launch)
- - [Mira Murati Launches Thinking Machines Lab to Make AI More Accessible](https://www.wired.com/story/mira-murati-thinking-machines-lab/)
- - [Three months later, S.T.A.L.K.E.R. 2 is the glorious pain in the ass its makers intended](https://www.theverge.com/games-review/614336/stalker-2-heart-of-chornobyl-update-patches)<!-- TECH:END -->
+ - [Mira Murati is launching her OpenAI rival: Thinking Machines Lab](https://www.theverge.com/ai-artificial-intelligence/614621/mira-murati-thinking-machines-lab-openai-competitor-launch)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

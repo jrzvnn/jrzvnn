@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [X raises its Premium+ subscription to $40 per month, or $395 per year, after raising it to $22 per month in December 2024, following Grok3&#39;s launch &lpar;Ivan Mehta/TechCrunch&rpar;](http://www.techmeme.com/250218/p7#a250218p7)
+ - [Chokepoint 2.0: An Investigation Promises the Truth About Crypto&#39;s Biggest Conspiracy](https://www.wired.com/story/operation-chokepoint-20-crypto-debanking-conspiracy/)
  - [Baidu reports Q4 revenue down 2% YoY to ~$4.7B, above $4.6B est., and a ~$717M net income, above ~$540M est., as its search and AI businesses face competition &lpar;Bloomberg&rpar;](http://www.techmeme.com/250218/p6#a250218p6)
  - [An interview with Shuhei Yoshida, who led PlayStation Studios from 2008-2019 and left Sony on January 15, on his 31 years at PlayStation, early days, and more &lpar;Dean Takahashi/VentureBeat&rpar;](http://www.techmeme.com/250218/p5#a250218p5)
- - [Tim Cook Drops Hint on iPhone SE&#39;s Launch for Tomorrow](https://www.cnet.com/tech/mobile/tim-cook-drops-hint-on-iphone-ses-launch-for-tomorrow/#ftag=CAD590a51e)
- - [Sources: Sam Altman and OpenAI&#39;s board weigh governance changes, including special voting rights for its nonprofit board, to deter hostile bids like Musk&#39;s &lpar;Financial Times&rpar;](http://www.techmeme.com/250218/p4#a250218p4)
- - [Grok3 review: its thinking capability feels state of the art and rivals OpenAI&#39;s o1 pro models, DeepSearch offers a blend of search and reasoning, and more &lpar;Andrej Karpathy/@karpathy&rpar;](http://www.techmeme.com/250218/p3#a250218p3)<!-- TECH:END -->
+ - [Tim Cook Drops Hint on iPhone SE&#39;s Launch for Tomorrow](https://www.cnet.com/tech/mobile/tim-cook-drops-hint-on-iphone-ses-launch-for-tomorrow/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

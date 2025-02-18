@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [The Flame Machine](http://9gag.com/gag/avy1LnZ)
- - 😝 [Not drinking and coming home drunk](http://9gag.com/gag/aND9rqw)
- - 💣 [This is where gender equality ends](http://9gag.com/gag/a0eX98d)
- - 😝 [Strong Nostalgia Vibes](http://9gag.com/gag/avy1Z15)
- - 👉 [The moment the people aboard Delta Airlines get rescued](http://9gag.com/gag/aND9oOG)<!-- MEMES:END -->
+ - 😝 [Letting your kid play on the road](http://9gag.com/gag/aE06vmG)
+ - 😝 [So is it that easy?](http://9gag.com/gag/aAy6Y9o)
+ - 💣 [She tried](http://9gag.com/gag/amo10xX)
+ - 😝 [In 1978, 15 year old Mary Vincent was raped, had her arms cut off, and was thrown off a 30-foot cliff. Barely alive, she packed her stumps with mud to stop the bleeding, climbed back up, and walked three miles naked to find help.](http://9gag.com/gag/avy10KZ)
+ - 👉 [Average adventure time enjoyer](http://9gag.com/gag/aKGAz2j)<!-- MEMES:END -->
 
 ---
 

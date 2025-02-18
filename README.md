@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [xAI says Grok-3 outperforms Gemini-2 Pro, DeepSeek-V3, Claude 3.5 Sonnet, and GPT-4o in some benchmarks; Musk says xAI&#39;s mission is to &quot;understand the universe&quot; &lpar;Jowi Morales/Tom&#39;s Hardware&rpar;](http://www.techmeme.com/250218/p13#a250218p13)
+ - [Nanoleaf is permanently cutting prices for its signature LED light panels](https://www.theverge.com/news/614268/nanoleaf-smart-lighting-smarterlife-pricing-initiative)
+ - [The EU says WhatsApp now faces the DSA&#39;s VLOP rules after Meta said on February 14 that Channels had ~46.8M MAUs in the EU in H2 2024, above the 45M threshold &lpar;Gian Volpicelli/Bloomberg&rpar;](http://www.techmeme.com/250218/p12#a250218p12)
  - [The best smartwatches for Android](https://www.theverge.com/23449363/best-android-smartwatches-wear-os)
- - [Best External Hard Drive &lpar;2025&rpar;: SSD to Store Data, Video &amp; More](https://www.wired.com/story/best-portable-external-storage-drives/)
- - [Trump’s first 100 days: all the news affecting the tech industry](https://www.theverge.com/24348851/donald-trump-presidency-tech-science-news)
- - [Elon Musk doesn&amp;#8217;t work for DOGE](https://www.theverge.com/news/614253/elon-musk-not-doge-leader-presidential-advisor)
- - [24 Best MagSafe Accessories &lpar;2025&rpar;, Tested and Reviewed](https://www.wired.com/gallery/best-magsafe-accessories/)<!-- TECH:END -->
+ - [Best External Hard Drive &lpar;2025&rpar;: SSD to Store Data, Video &amp; More](https://www.wired.com/story/best-portable-external-storage-drives/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

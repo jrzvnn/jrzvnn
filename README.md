@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Fun Fact: the book she&#39;s reading is by David Benioff, writer of GoT season 8, which `subverted expectations.`](http://9gag.com/gag/ayNqgVY)
- - 😝 [Are you going to tell them or should I?](http://9gag.com/gag/awy3NqW)
- - 💣 [Share something you didn&#39;t know](http://9gag.com/gag/azxd7Mp)
+ - 😝 [Dude started congratulating his own death](http://9gag.com/gag/awy3NR4)
+ - 😝 [Must protect, must snatch](http://9gag.com/gag/a5Q6epO)
+ - 💣 [Who has two thumbs and doesn\u2019t give a crap?](http://9gag.com/gag/a5QVLDg)
  - 😝 [Headshot](http://9gag.com/gag/abAePoL)
- - 👉 [Batman appears from nowhere...](http://9gag.com/gag/a34GoEm)<!-- MEMES:END -->
+ - 👉 [A real gamer](http://9gag.com/gag/an7OAqV)<!-- MEMES:END -->
 
 ---
 

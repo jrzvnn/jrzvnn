@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [All iPhone 17 models could use the same Samsung OLED technology](https://appleinsider.com/articles/25/02/18/all-iphone-17-models-could-use-the-same-samsung-oled-technology?utm_medium=rss)
+ - [Can Meta still make the metaverse?](https://www.theverge.com/the-vergecast/614299/meta-metaverse-ai-plans-2025)
+ - [Hightouch, which makes AI marketing, sales, and customer service tools, raised an $80M Series C led by Sapphire at a $1.2B valuation, up from $615M in July 2023 &lpar;Ingrid Lunden/TechCrunch&rpar;](http://www.techmeme.com/250218/p14#a250218p14)
  - [xAI says Grok-3 outperforms Gemini-2 Pro, DeepSeek-V3, Claude 3.5 Sonnet, and GPT-4o in some benchmarks; Musk says xAI&#39;s mission is to &quot;understand the universe&quot; &lpar;Jowi Morales/Tom&#39;s Hardware&rpar;](http://www.techmeme.com/250218/p13#a250218p13)
- - [Nanoleaf is permanently cutting prices for its signature LED light panels](https://www.theverge.com/news/614268/nanoleaf-smart-lighting-smarterlife-pricing-initiative)
- - [The EU says WhatsApp now faces the DSA&#39;s VLOP rules after Meta said on February 14 that Channels had ~46.8M MAUs in the EU in H2 2024, above the 45M threshold &lpar;Gian Volpicelli/Bloomberg&rpar;](http://www.techmeme.com/250218/p12#a250218p12)
- - [The best smartwatches for Android](https://www.theverge.com/23449363/best-android-smartwatches-wear-os)
- - [Best External Hard Drive &lpar;2025&rpar;: SSD to Store Data, Video &amp; More](https://www.wired.com/story/best-portable-external-storage-drives/)<!-- TECH:END -->
+ - [Nanoleaf is permanently cutting prices for its signature LED light panels](https://www.theverge.com/news/614268/nanoleaf-smart-lighting-smarterlife-pricing-initiative)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

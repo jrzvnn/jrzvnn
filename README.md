@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [So many homeless girls in Tokyo.](http://9gag.com/gag/ary3KQd)
- - 😝 [He took it like a little B.... man.. MAN..](http://9gag.com/gag/aE06nz9)
- - 💣 [Do I need a title? I hope you will collapse to the end.](http://9gag.com/gag/a6ZX7Ne)
- - 😝 [A liquor store owner in South Africa made a group of thieves drink the alcohol they tried to steal](http://9gag.com/gag/aoy393e)
- - 👉 [Levitate and Vanish a table.](http://9gag.com/gag/aAy61L0)<!-- MEMES:END -->
+ - 😝 [Nice cosplay](http://9gag.com/gag/aW476V6)
+ - 😝 [John Travolta is 71 today! Happy birthday](http://9gag.com/gag/ae916qv)
+ - 💣 [Podophilia](http://9gag.com/gag/azxdARz)
+ - 😝 [Man builds a 3D chopping board using an extensive process](http://9gag.com/gag/aRB4eoB)
+ - 👉 [Average cave explorer&#39;s day](http://9gag.com/gag/a9y67Q0)<!-- MEMES:END -->
 
 ---
 

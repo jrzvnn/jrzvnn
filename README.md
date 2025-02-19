@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [More credible than flat earth theory](http://9gag.com/gag/aXPMpm2)
- - 😝 [Out of one thousand violent crimes in Norway, only 32 were committed by ethnic Norwegians. We could have had 968 less violent crimes if we had no immigration. This study was done by the Norwegian government itself &lpar;SSB&rpar;.](http://9gag.com/gag/a876Y1O)
- - 💣 [Why men live shorter lives than women?](http://9gag.com/gag/abA1y4X)
- - 😝 [For side money!](http://9gag.com/gag/an7RKqB)
- - 👉 [You broke the code!!](http://9gag.com/gag/aRB4Q12)<!-- MEMES:END -->
+ - 😝 [I completely understand him, but I sincerely could be that lady!](http://9gag.com/gag/ayN3n08)
+ - 😝 [Using red dye to demonstrate how Mercury cannot be absorbed by a towel](http://9gag.com/gag/avy10En)
+ - 💣 [Man arrested for sharing his own country&#39;s flag on X. Welcome to My new England.](http://9gag.com/gag/azxdgOj)
+ - 😝 [Secretary is the job that take so much PRESSURE from bosses. So please, respect Secretaries](http://9gag.com/gag/a876j73)
+ - 👉 [So is it that easy?](http://9gag.com/gag/aAy6Y9o)<!-- MEMES:END -->
 
 ---
 

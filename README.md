@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Humane says Ai Pin&#39;s online features will stop working on February 28, when all customer data will be deleted, and it will refund some customers &lpar;Aaron Souppouris/Engadget&rpar;](http://www.techmeme.com/250218/p32#a250218p32)
- - [72 Hours Only: Save $350 on these 20-core M4 MacBook Pros](https://appleinsider.com/articles/25/02/18/72-hours-only-save-350-on-these-20-core-m4-macbook-pros?utm_medium=rss)
- - [Google Play Books for iOS will now let users complete their e-book or audiobook purchase on the Google Play website, under Apple&#39;s &quot;reader apps&quot; exception &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/250218/p31#a250218p31)
- - [Best iPhone 16 and iPhone 16 Pro Cases for 2025](https://www.cnet.com/tech/mobile/best-iphone-16-and-iphone-16-pro-cases/#ftag=CAD590a51e)
- - [iPhone 17 Air rumored to feature titanium frame and support for 35W fast charging](https://appleinsider.com/articles/25/02/18/iphone-17-air-rumored-to-feature-titanium-frame-and-support-for-35w-fast-charging?utm_medium=rss)<!-- TECH:END -->
+ - [Government contractor attempts to buy &#39;Graykey&#39; iPhone hacking tool from journalists](https://appleinsider.com/articles/25/02/19/government-contractor-attempts-to-buy-graykey-iphone-hacking-tool-from-journalists?utm_medium=rss)
+ - [Asus ROG Flow Z13 review: the ~$2,300 convertible tablet&#39;s integrated GPU in its AMD Ryzen AI Max+ 395 chip offers performance comparable to a GeForce RTX 4060 &lpar;Kevin Purdy/Ars Technica&rpar;](http://www.techmeme.com/250218/p33#a250218p33)
+ - [Reddit vs. Wall Street: the latest in the GameStop saga](https://www.theverge.com/22253363/wall-street-bets-verge-stories-gamestock-reddit-discord)
+ - [Elden Ring: all of the updates about FromSoftware’s open-world hit](https://www.theverge.com/2022/2/28/22955370/elden-ring-fromsoftware-open-world)
+ - [Best Air Purifiers for Better Health in 2025, Tested by Our Experts](https://www.cnet.com/home/kitchen-and-household/best-air-purifier/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

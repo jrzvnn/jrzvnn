@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [New iPhone 16e offers Apple Intelligence at a low price point](https://appleinsider.com/articles/25/02/19/new-iphone-16e-offers-apple-intelligence-at-a-low-price-point?utm_medium=rss)
- - [Apple appears to have discontinued the iPhone 14](https://www.theverge.com/news/615322/apple-iphone-14-discontinued)
- - [Apple unveils its first-ever in-house cellular modem, the C1, to replace Qualcomm modem chips, saying it is &quot;the most power-efficient modem ever on an iPhone&quot; &lpar;Zac Hall/9to5Mac&rpar;](http://www.techmeme.com/250219/p30#a250219p30)
- - [Apple unveils the $599+ iPhone 16e, with an A18 chip, a 48MP camera, Apple Intelligence, and an Apple-designed 5G cellular modem, the C1, shipping February 28 &lpar;Chance Miller/9to5Mac&rpar;](http://www.techmeme.com/250219/p29#a250219p29)
- - [Apple launches the iPhone 16E](https://www.theverge.com/news/609204/apple-iphone-16e-price-release-date-specs-a18-notch-face-id)<!-- TECH:END -->
+ - [Apple releases new silicone cases alongside iPhone 16e](https://appleinsider.com/articles/25/02/19/apple-releases-new-silicone-cases-alongside-iphone-16e?utm_medium=rss)
+ - [Apple iPhone 16e &lpar;2025&rpar;: Specs, Price, Release Date](https://www.wired.com/story/apple-iphone-16e-news/)
+ - [Apple&#39;s C1 modem signals the end of its Qualcomm dependence](https://appleinsider.com/articles/25/02/19/apples-c1-modem-signals-the-end-of-its-qualcomm-dependence?utm_medium=rss)
+ - [Instagram updates direct messages with translation in 99 languages, scheduling and pinning tools, music-sharing features, and more, on iOS and Android first &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/250219/p35#a250219p35)
+ - [New iPhone 16e offers Apple Intelligence at a low price point](https://appleinsider.com/articles/25/02/19/new-iphone-16e-offers-apple-intelligence-at-a-low-price-point?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

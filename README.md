@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [iPhone 16e vs iPhone 16: A new Apple Intelligence-powered entry-level option](https://appleinsider.com/inside/iphone-16e/vs/iphone-16e-vs-iphone-16-a-new-apple-intelligence-powered-entry-level-option?utm_medium=rss)
+ - [Here’s when and where you can preorder the new iPhone 16E](https://www.theverge.com/good-deals/609618/iphone-16e-preorder-how-to-buy-price-release-date)
  - [iPhone 16E: all the news on Apple’s new $599 phone](https://www.theverge.com/news/615399/apple-iphone-16e-event-specs-price-release-date-se)
- - [Apple gets into AI: all the news on iOS 18, macOS Sequoia, and more](https://www.theverge.com/24246632/apple-intelligence-ios-18-ipad-os-18-macos-sequoia-iphone-16)
- - [Sources: NIST plans to cut 497 people, including 74 postdocs and most staff at its Chips for America program; the AI Safety Institute faces an uncertain future &lpar;Axios&rpar;](http://www.techmeme.com/250219/p42#a250219p42)
- - [Google Lens-powered Screen Search arrives for Chrome on iPhone](https://appleinsider.com/articles/25/02/19/google-lens-powered-screen-search-arrives-for-chrome-on-iphone?utm_medium=rss)
- - [Trump’s first 100 days: all the news affecting the tech industry](https://www.theverge.com/24348851/donald-trump-presidency-tech-science-news)<!-- TECH:END -->
+ - [Here are the best AirPods deals you can get right now](https://www.theverge.com/21302051/best-apple-airpods-deals)
+ - [This USAID Program Made Food Aid More Efficient for Decades. DOGE Gutted It Anyways](https://www.wired.com/story/usaid-famine-system-dismantled/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

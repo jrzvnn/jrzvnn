@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Bights, bights is good](http://9gag.com/gag/a7oOy5e)
- - 😝 [She tried](http://9gag.com/gag/amo10xX)
- - 💣 [Massage Competition](http://9gag.com/gag/aqyX9zM)
  - 😝 [I completely understand him, but I sincerely could be that lady!](http://9gag.com/gag/ayN3n08)
- - 👉 [Secretary is the job that take so much PRESSURE from bosses. So please, respect Secretaries](http://9gag.com/gag/a876j73)<!-- MEMES:END -->
+ - 😝 [There is a light at the end of the tunnel for us 9gagger](http://9gag.com/gag/a9y6LN0)
+ - 💣 [Bights, bights is good](http://9gag.com/gag/a7oOy5e)
+ - 😝 [Cheers to you, you bastards!](http://9gag.com/gag/a5Q6PWE)
+ - 👉 [A new level of rejection.](http://9gag.com/gag/aE061Ve)<!-- MEMES:END -->
 
 ---
 

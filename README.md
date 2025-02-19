@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [Step aside Ubisoft, there&#39;s a new masterpiece in town](http://9gag.com/gag/aO8ebmy)
  - 😝 [Nice cosplay](http://9gag.com/gag/aW476V6)
- - 😝 [Family stuff](http://9gag.com/gag/apR3qO8)
- - 💣 [Quick Mafs](http://9gag.com/gag/aRB4e0Q)
- - 😝 [Floorman working an oil rig](http://9gag.com/gag/azxdjPb)
- - 👉 [The Bluetooth device connected successfully](http://9gag.com/gag/aXPMwov)<!-- MEMES:END -->
+ - 💣 [So many homeless girls in Tokyo.](http://9gag.com/gag/ary3KQd)
+ - 😝 [Bro Just found the Cheat Code](http://9gag.com/gag/a6ZXywe)
+ - 👉 [Quick Mafs](http://9gag.com/gag/aRB4e0Q)<!-- MEMES:END -->
 
 ---
 

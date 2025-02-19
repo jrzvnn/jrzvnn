@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [How PDD&#39;s Temu, the world&#39;s biggest online dollar store, got sucked into President Trump&#39;s trade war; eMarketer expects Temu to have $30B in US sales in 2025 &lpar;Bloomberg&rpar;](http://www.techmeme.com/250219/p9#a250219p9)
  - [Internal documents, emails, and federal data suggest Indian IT giant TCS has used L-1A manager visas in ways that raise concerns about undercutting US workers &lpar;Bloomberg&rpar;](http://www.techmeme.com/250219/p8#a250219p8)
  - [Hexaware Technologies&#39; stock rose as much as 10% on its trading debut, valuing the company at ~$5.44B, after the IT services firm raised $1B in its Indian IPO &lpar;Nandan Mandayam/Reuters&rpar;](http://www.techmeme.com/250219/p7#a250219p7)
  - [In a breakthrough, University of Oxford scientists sent the first quantum algorithm wirelessly between two separate quantum processors via particle entanglement &lpar;Jorge Garay/Wired&rpar;](http://www.techmeme.com/250219/p6#a250219p6)
- - [Some US ByteDance investors argue that they don&#39;t need US TikTok for success, as China, which accounts for 80% of ByteDance&#39;s revenue, is the real driving force &lpar;Bloomberg&rpar;](http://www.techmeme.com/250219/p5#a250219p5)
- - [Sources: Meta has led the charge against the EU&#39;s AI Act this year, as Big Tech, with backing from President Trump, grows bolder in challenging EU regulations &lpar;Financial Times&rpar;](http://www.techmeme.com/250219/p4#a250219p4)<!-- TECH:END -->
+ - [Some US ByteDance investors argue that they don&#39;t need US TikTok for success, as China, which accounts for 80% of ByteDance&#39;s revenue, is the real driving force &lpar;Bloomberg&rpar;](http://www.techmeme.com/250219/p5#a250219p5)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

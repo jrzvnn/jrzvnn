@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The Humane AI Pin never had a chance](https://www.theverge.com/gadgets/615135/humane-ai-pin-shutdown-disaster)
+ - [Humane’s AI Pin: all the news about the dead AI-powered wearable](https://www.theverge.com/2023/11/9/23954497/humane-ai-pin-wearable-news-announcements)
+ - [Best Fitness Trackers of 2025 for Peak Performance](https://www.wired.com/gallery/best-fitness-tracker/)
  - [Shift4 agrees a $1.5B deal to buy Swiss tax-free shopping services provider Global Blue Group; Shift4 handles $250B in annual payments from 200K+ companies &lpar;Lauren Thomas/Wall Street Journal&rpar;](http://www.techmeme.com/250219/p18#a250219p18)
- - [French privacy startup Murena unveils the &amp;euro;539 Murena Pixel Tablet, running its open-source, forked /e/OS, after releasing a &quot;deGoogled&quot; smartphone in 2023 &lpar;Natasha Lomas/TechCrunch&rpar;](http://www.techmeme.com/250219/p17#a250219p17)
- - [Your Earbuds Are Gross. Here’s How to Clean Them Properly](https://www.wired.com/story/your-earbuds-are-gross-heres-how-to-clean-them-properly/)
- - [UK CMA submission: Apple says some of the CMA&#39;s mobile browser remedies will slow innovation and it would &quot;not be appropriate&quot; to mandate WebKit and iOS access &lpar;Muvija M/Reuters&rpar;](http://www.techmeme.com/250219/p16#a250219p16)
- - [Reverse charging rumor resurfaces for the iPhone 17 Pro](https://appleinsider.com/articles/25/02/19/reverse-charging-rumor-resurfaces-for-the-iphone-17-pro?utm_medium=rss)<!-- TECH:END -->
+ - [French privacy startup Murena unveils the &amp;euro;539 Murena Pixel Tablet, running its open-source, forked /e/OS, after releasing a &quot;deGoogled&quot; smartphone in 2023 &lpar;Natasha Lomas/TechCrunch&rpar;](http://www.techmeme.com/250219/p17#a250219p17)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

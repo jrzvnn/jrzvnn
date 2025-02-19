@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google Lens-powered Screen Search arrives for Chrome on iPhone](https://appleinsider.com/articles/25/02/19/google-lens-powered-screen-search-arrives-for-chrome-on-iphone?utm_medium=rss)
- - [Trump’s first 100 days: all the news affecting the tech industry](https://www.theverge.com/24348851/donald-trump-presidency-tech-science-news)
- - [Google is bringing Circle to Search-like visual searches to its Chrome and Google iOS apps, without the Circle to Search branding &lpar;Adamya Sharma/Android Authority&rpar;](http://www.techmeme.com/250219/p41#a250219p41)
  - [iPhone 16E: all the news on Apple’s new $599 phone](https://www.theverge.com/news/615399/apple-iphone-16e-event-specs-price-release-date-se)
- - [Apple no longer sells new iPhones with Lightning ports](https://www.theverge.com/news/615612/apple-iphone-lightning-ports-usb-c)<!-- TECH:END -->
+ - [Apple gets into AI: all the news on iOS 18, macOS Sequoia, and more](https://www.theverge.com/24246632/apple-intelligence-ios-18-ipad-os-18-macos-sequoia-iphone-16)
+ - [Sources: NIST plans to cut 497 people, including 74 postdocs and most staff at its Chips for America program; the AI Safety Institute faces an uncertain future &lpar;Axios&rpar;](http://www.techmeme.com/250219/p42#a250219p42)
+ - [Google Lens-powered Screen Search arrives for Chrome on iPhone](https://appleinsider.com/articles/25/02/19/google-lens-powered-screen-search-arrives-for-chrome-on-iphone?utm_medium=rss)
+ - [Trump’s first 100 days: all the news affecting the tech industry](https://www.theverge.com/24348851/donald-trump-presidency-tech-science-news)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

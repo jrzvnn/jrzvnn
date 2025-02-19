@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [An annoying modern fad.](http://9gag.com/gag/awy3rXy)
- - 😝 [A new level of rejection.](http://9gag.com/gag/aE061Ve)
- - 💣 [Secretary is the job that take so much PRESSURE from bosses. So please, respect Secretaries](http://9gag.com/gag/a876j73)
- - 😝 [Put down the map, i got it from here.](http://9gag.com/gag/aBy6rd2)
- - 👉 [Cheers to you, you bastards!](http://9gag.com/gag/a5Q6PWE)<!-- MEMES:END -->
+ - 😝 [I completely understand him, but I sincerely could be that lady!](http://9gag.com/gag/ayN3n08)
+ - 😝 [Cheers to you, you bastards!](http://9gag.com/gag/a5Q6PWE)
+ - 💣 [I am glad I asked her anyway](http://9gag.com/gag/aD26mYx)
+ - 😝 [How to crush garlic efficiently](http://9gag.com/gag/aD26moK)
+ - 👉 [A new level of rejection.](http://9gag.com/gag/aE061Ve)<!-- MEMES:END -->
 
 ---
 

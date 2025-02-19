@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Jean shorts](http://9gag.com/gag/ae9164j)
- - 😝 [Nice cosplay](http://9gag.com/gag/aW476V6)
- - 💣 [John Travolta is 71 today! Happy birthday](http://9gag.com/gag/ae916qv)
- - 😝 [Podophilia](http://9gag.com/gag/azxdARz)
- - 👉 [Man builds a 3D chopping board using an extensive process](http://9gag.com/gag/aRB4eoB)<!-- MEMES:END -->
+ - 😝 [Poor cleaners](http://9gag.com/gag/aGyn0Oz)
+ - 😝 [Carl Emil Pettersson. Legend!](http://9gag.com/gag/ary3Nyy)
+ - 💣 [Jungle is massive](http://9gag.com/gag/aMVB9m6)
+ - 😝 [Camouflage can\u2019t hide those](http://9gag.com/gag/aKGAPd1)
+ - 👉 [So many homeless girls in Tokyo.](http://9gag.com/gag/ary3KQd)<!-- MEMES:END -->
 
 ---
 

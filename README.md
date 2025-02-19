@@ -158,10 +158,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- TECH:START -->
  - [iPhone 16E: all the news on Apple’s new $599 phone](https://www.theverge.com/news/615399/apple-iphone-16e-event-specs-price-release-date-se)
+ - [Apple&#39;s iPhone 16e announcement takes a familiar approach](https://appleinsider.com/articles/25/02/19/apples-iphone-16e-announcement-takes-a-familiar-approach?utm_medium=rss)
+ - [Murena released a de-Googled version of the Pixel Tablet](https://www.theverge.com/news/615195/murena-pixel-tablet-android-google-privacy-security)
  - [The legacy of the iPhone SE lives on in the iPhone 16e](https://appleinsider.com/articles/25/02/19/the-legacy-of-the-iphone-se-lives-on-in-the-iphone-16e?utm_medium=rss)
- - [Apple has officially killed off the Home Button](https://appleinsider.com/articles/25/02/19/apple-has-officially-killed-off-the-home-button?utm_medium=rss)
- - [How the new iPhone 16E compares to the rest of Apple’s iPhone 16 lineup](https://www.theverge.com/news/614746/apple-iphone-16e-se-comparison)
- - [8 important things to know about the iPhone 16E](https://www.theverge.com/news/615418/apple-iphone-16e-important-details)<!-- TECH:END -->
+ - [Apple has officially killed off the Home Button](https://appleinsider.com/articles/25/02/19/apple-has-officially-killed-off-the-home-button?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

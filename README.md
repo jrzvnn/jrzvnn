@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Q&amp;A with Satya Nadella on Microsoft&#39;s AGI plan, the quantum breakthrough with Majorana 1, how Muse will change gaming, legal barriers to AI, and more &lpar;Dwarkesh Patel/Dwarkesh Podcast&rpar;](http://www.techmeme.com/250219/p46#a250219p46)
+ - [New iPhone 16e offers Apple Intelligence at a low price point](https://appleinsider.com/articles/25/02/19/new-iphone-16e-offers-apple-intelligence-at-a-low-price-point?utm_medium=rss)
+ - [Why the iPhone 16E doesnt truly fit the iPhone SE&#39;s shoes](https://appleinsider.com/articles/25/02/19/the-legacy-of-the-iphone-se-lives-on-in-the-iphone-16e?utm_medium=rss)
  - [The Last of Us season 2 finally has a premiere date](https://www.theverge.com/news/616016/the-last-of-us-season-2-date-hbo)
- - [The Last of Us: all the news about the video game franchise turned TV series](https://www.theverge.com/24036366/the-last-of-us-news-video-game-tv-series-trailers)
- - [Valve releases the Team Fortress 2 SDK with the game&#39;s source code, allowing users to build new games based on Team Fortress 2, licensed for non-commercial use &lpar;Andy Chalk/PC Gamer&rpar;](http://www.techmeme.com/250219/p45#a250219p45)
- - [These Are the SpaceX Engineers Already Working Inside the FAA](https://www.wired.com/story/faa-doge-elon-musk-space-x/)
- - [A popular Japanese distraction-free writing device is coming to the US](https://www.theverge.com/news/615854/king-jim-pomera-d250us-distraction-free-writing-tool)<!-- TECH:END -->
+ - [The Last of Us: all the news about the video game franchise turned TV series](https://www.theverge.com/24036366/the-last-of-us-news-video-game-tv-series-trailers)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

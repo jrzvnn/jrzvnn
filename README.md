@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Tesla Cybertruck: all the news about Elon Musk’s futuristic pickup truck](https://www.theverge.com/2019/11/21/20975980/tesla-cybertruck-announcement-news-pickup-truck-elon-musk-updates-highlights)
+ - [All the news about Nvidia’s RTX 50-series GPUs](https://www.theverge.com/2025/1/25/24351798/nvidia-rtx-5090-5080-5070-gpu-news-rumors)
  - [The Rabbit R1: all the latest news about this hare-raising AI gadget](https://www.theverge.com/2024/1/18/24042688/rabbit-r1-ai-gadget-handheld-news-updates-storystream)
  - [&#39;Severance&#39; tops &#39;Ted Lasso&#39; as Apple&#39;s most-watched series for good reasons](https://appleinsider.com/articles/25/02/19/severance-tops-ted-lasso-as-apples-most-watched-series-for-good-reason?utm_medium=rss)
- - [Uber ditches commissions in favor of fees for auto-rickshaw drivers in India in response to increased competition from local rivals Rapido and Namma Yatri &lpar;Jagmeet Singh/TechCrunch&rpar;](http://www.techmeme.com/250219/p47#a250219p47)
- - [New iPhone 16e offers Apple Intelligence at a low price point](https://appleinsider.com/articles/25/02/19/new-iphone-16e-offers-apple-intelligence-at-a-low-price-point?utm_medium=rss)
- - [There’s No Longer a Sub-$500 iPhone. Does It Matter?](https://www.wired.com/story/no-longer-an-iphone-under-500-does-it-matter/)<!-- TECH:END -->
+ - [Uber ditches commissions in favor of fees for auto-rickshaw drivers in India in response to increased competition from local rivals Rapido and Namma Yatri &lpar;Jagmeet Singh/TechCrunch&rpar;](http://www.techmeme.com/250219/p47#a250219p47)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

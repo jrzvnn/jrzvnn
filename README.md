@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple releases new silicone cases alongside iPhone 16e](https://appleinsider.com/articles/25/02/19/apple-releases-new-silicone-cases-alongside-iphone-16e?utm_medium=rss)
- - [Apple iPhone 16e &lpar;2025&rpar;: Specs, Price, Release Date](https://www.wired.com/story/apple-iphone-16e-news/)
- - [Apple&#39;s C1 modem signals the end of its Qualcomm dependence](https://appleinsider.com/articles/25/02/19/apples-c1-modem-signals-the-end-of-its-qualcomm-dependence?utm_medium=rss)
- - [Instagram updates direct messages with translation in 99 languages, scheduling and pinning tools, music-sharing features, and more, on iOS and Android first &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/250219/p35#a250219p35)
- - [New iPhone 16e offers Apple Intelligence at a low price point](https://appleinsider.com/articles/25/02/19/new-iphone-16e-offers-apple-intelligence-at-a-low-price-point?utm_medium=rss)<!-- TECH:END -->
+ - [NetEase says it&amp;#8217;s &amp;#8216;investing more&amp;#8217; in Marvel Rivals despite layoffs](https://www.theverge.com/news/615288/marvel-rivals-layoffs-netease-overseas-investments)
+ - [iPhone 16E: all the news on Apple’s new $599 phone](https://www.theverge.com/news/615399/apple-iphone-16e-event-specs-price-release-date-se)
+ - [Laptop Prices Increasing 10% Due to Tariffs, Acer CEO Says](https://www.cnet.com/tech/computing/laptop-prices-increasing-10-due-to-tariffs-acer-ceo-says/#ftag=CAD590a51e)
+ - [iPhone 16e is clearly targeted at iPhone 11 and iPhone 12 owners](https://appleinsider.com/articles/25/02/19/iphone-16e-is-clearly-targeted-at-iphone-11-and-iphone-12-owners?utm_medium=rss)
+ - [iPhone 16e doesn&#39;t have MagSafe](https://appleinsider.com/articles/25/02/19/iphone-16e-doesnt-have-magsafe?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

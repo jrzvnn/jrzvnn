@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [How to turn off Enhanced Visual Search for Photos on iPhone or iPad](https://appleinsider.com/inside/ios-18/tips/how-to-turn-off-enhanced-visual-search-for-photos-on-iphone-or-ipad?utm_medium=rss)
+ - [Today&#39;s NYT Mini Crossword Answers for Wednesday, Feb. 19](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-wednesday-feb-19/#ftag=CAD590a51e)
  - [President Trump said tariffs on semiconductors would start at &quot;25% or higher&quot; and that he planned to provide some time for chip makers to set up US factories &lpar;Reuters&rpar;](http://www.techmeme.com/250218/p36#a250218p36)
- - [OpenAI researchers find real-world freelance software engineering work remains challenging for frontier language models in the SWE-Lancer benchmark &lpar;Emilia David/VentureBeat&rpar;](http://www.techmeme.com/250218/p35#a250218p35)
- - [Lemokey L5 HE 8K review: Customizable magnetic switches in a gaming keyboard](https://appleinsider.com/articles/25/02/19/lemokey-l5-he-8k-review-customizable-magnetic-switches-in-a-gaming-keyboard?utm_medium=rss)
- - [Apple &amp; Google to appear at Brazilian regulator public hearing Wednesday](https://appleinsider.com/articles/25/02/19/apple-google-to-appear-at-brazilian-regulator-public-hearing-wednesday?utm_medium=rss)
- - [iPhone 17 Air rumored to feature titanium frame and support for 35W fast charging](https://appleinsider.com/articles/25/02/18/iphone-17-air-rumored-to-feature-titanium-frame-and-support-for-35w-fast-charging?utm_medium=rss)<!-- TECH:END -->
+ - [Best Internet Providers in Houston, Texas](https://www.cnet.com/home/internet/best-internet-providers-in-houston-tx/#ftag=CAD590a51e)
+ - [Musk&#39;s xAI Launches Grok 3: Here&#39;s What You Need to Know](https://www.cnet.com/tech/services-and-software/musks-xai-launches-grok-3-heres-what-you-need-to-know/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Shift4 agrees a $1.5B deal to buy Swiss tax-free shopping services provider Global Blue Group; Shift4 handles $250B in annual payments from 200K+ companies &lpar;Lauren Thomas/Wall Street Journal&rpar;](http://www.techmeme.com/250219/p18#a250219p18)
+ - [French privacy startup Murena unveils the &amp;euro;539 Murena Pixel Tablet, running its open-source, forked /e/OS, after releasing a &quot;deGoogled&quot; smartphone in 2023 &lpar;Natasha Lomas/TechCrunch&rpar;](http://www.techmeme.com/250219/p17#a250219p17)
+ - [Your Earbuds Are Gross. Here’s How to Clean Them Properly](https://www.wired.com/story/your-earbuds-are-gross-heres-how-to-clean-them-properly/)
  - [UK CMA submission: Apple says some of the CMA&#39;s mobile browser remedies will slow innovation and it would &quot;not be appropriate&quot; to mandate WebKit and iOS access &lpar;Muvija M/Reuters&rpar;](http://www.techmeme.com/250219/p16#a250219p16)
- - [Reverse charging rumor resurfaces for the iPhone 17 Pro](https://appleinsider.com/articles/25/02/19/reverse-charging-rumor-resurfaces-for-the-iphone-17-pro?utm_medium=rss)
- - [Humane&#39;s AI Pin is no more and owners are left with nothing](https://appleinsider.com/articles/25/02/19/humanes-ai-pin-is-no-more-and-owners-are-left-with-nothing?utm_medium=rss)
- - [In Q4, Coinbase changed how it reports users&#39; crypto assets, taking them off its balance sheet, highlighting the lingering issue of who owns the digital assets &lpar;Jonathan Weil/Wall Street Journal&rpar;](http://www.techmeme.com/250219/p15#a250219p15)
- - [Aarke Coffee System Review: Shiny and Chrome](https://www.wired.com/review/aarke-coffee-system/)<!-- TECH:END -->
+ - [Reverse charging rumor resurfaces for the iPhone 17 Pro](https://appleinsider.com/articles/25/02/19/reverse-charging-rumor-resurfaces-for-the-iphone-17-pro?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

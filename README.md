@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The Last of Us season 2 finally has a premiere date](https://www.theverge.com/news/616016/the-last-of-us-season-2-date-hbo)
+ - [The Last of Us: all the news about the video game franchise turned TV series](https://www.theverge.com/24036366/the-last-of-us-news-video-game-tv-series-trailers)
  - [Valve releases the Team Fortress 2 SDK with the game&#39;s source code, allowing users to build new games based on Team Fortress 2, licensed for non-commercial use &lpar;Andy Chalk/PC Gamer&rpar;](http://www.techmeme.com/250219/p45#a250219p45)
  - [These Are the SpaceX Engineers Already Working Inside the FAA](https://www.wired.com/story/faa-doge-elon-musk-space-x/)
- - [A popular Japanese distraction-free writing device is coming to the US](https://www.theverge.com/news/615854/king-jim-pomera-d250us-distraction-free-writing-tool)
- - [iPhone 16e vs iPhone 16: A new Apple Intelligence-powered entry-level option](https://appleinsider.com/inside/iphone-16e/vs/iphone-16e-vs-iphone-16-a-new-apple-intelligence-powered-entry-level-option?utm_medium=rss)
- - [All the news about Nvidia’s RTX 50-series GPUs](https://www.theverge.com/2025/1/25/24351798/nvidia-rtx-5090-5080-5070-gpu-news-rumors)<!-- TECH:END -->
+ - [A popular Japanese distraction-free writing device is coming to the US](https://www.theverge.com/news/615854/king-jim-pomera-d250us-distraction-free-writing-tool)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

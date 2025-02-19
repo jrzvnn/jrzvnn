@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [He took it like a little B.... man.. MAN..](http://9gag.com/gag/aE06nz9)
- - 😝 [A parachute failure during a paratroopers drill](http://9gag.com/gag/aVvoXyd)
- - 💣 [So many homeless girls in Tokyo.](http://9gag.com/gag/ary3KQd)
+ - 😝 [Yasuke who??](http://9gag.com/gag/aVvoQyw)
+ - 😝 [So many homeless girls in Tokyo.](http://9gag.com/gag/ary3KQd)
+ - 💣 [How to crush garlic efficiently](http://9gag.com/gag/aD26moK)
  - 😝 [Carl Emil Pettersson. Legend!](http://9gag.com/gag/ary3Nyy)
- - 👉 [Jungle is massive](http://9gag.com/gag/aMVB9m6)<!-- MEMES:END -->
+ - 👉 [A new level of rejection.](http://9gag.com/gag/aE061Ve)<!-- MEMES:END -->
 
 ---
 

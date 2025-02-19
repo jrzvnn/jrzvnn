@@ -166,10 +166,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [The Bluetooth device connected successfully](http://9gag.com/gag/aXPMwov)
  - 😝 [How to crush garlic efficiently](http://9gag.com/gag/aD26moK)
- - 😝 [Levitate and Vanish a table.](http://9gag.com/gag/aAy61L0)
  - 💣 [A liquor store owner in South Africa made a group of thieves drink the alcohol they tried to steal](http://9gag.com/gag/aoy393e)
- - 😝 [Yasuke who??](http://9gag.com/gag/aVvoQyw)
+ - 😝 [Cheers to you, you bastards!](http://9gag.com/gag/a5Q6PWE)
  - 👉 [Quick Mafs](http://9gag.com/gag/aRB4e0Q)<!-- MEMES:END -->
 
 ---

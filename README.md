@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [iPhone 16e vs iPhone 16: A new Apple Intelligence-powered entry-level option](https://appleinsider.com/inside/iphone-16e/vs/iphone-16e-vs-iphone-16-a-new-apple-intelligence-powered-entry-level-option?utm_medium=rss)
+ - [All the news about Nvidia’s RTX 50-series GPUs](https://www.theverge.com/2025/1/25/24351798/nvidia-rtx-5090-5080-5070-gpu-news-rumors)
+ - [Hope you weren’t planning to play PhysX games on Nvidia’s new 50-series GPUs](https://www.theverge.com/news/615768/nvidia-rtx-5090-5080-5070-drop-physx-support-32-bit)
  - [iPhone 16E: all the news on Apple’s new $599 phone](https://www.theverge.com/news/615399/apple-iphone-16e-event-specs-price-release-date-se)
- - [Verge staffers react to the iPhone 16E: what we love and don’t love](https://www.theverge.com/apple-event/615527/iphone-16e-features-apple-like)
- - [The BBC&amp;#8217;s library of classic sci-fi sounds is now available to sample](https://www.theverge.com/entertainment/615584/bbc-radiophonic-workshop-archive)
- - [Perplexity open sources R1 1776, a version of the DeepSeek R1 model that CEO Aravind Srinivas says has been &quot;post-trained to remove the China censorship&quot; &lpar;Jon Keegan/Sherwood News&rpar;](http://www.techmeme.com/250219/p44#a250219p44)
- - [Rivian’s new Dune edition lets you channel your inner Fremen](https://www.theverge.com/news/615556/rivian-california-dune-edition-price-specs-ev-offroad)<!-- TECH:END -->
+ - [Verge staffers react to the iPhone 16E: what we love and don’t love](https://www.theverge.com/apple-event/615527/iphone-16e-features-apple-like)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

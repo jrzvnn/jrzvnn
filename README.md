@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Out of one thousand violent crimes in Norway, only 32 were committed by ethnic Norwegians. We could have had 968 less violent crimes if we had no immigration. This study was done by the Norwegian government itself &lpar;SSB&rpar;.](http://9gag.com/gag/a876Y1O)
- - 😝 [So this is how we all slowly slip into the Matrix?](http://9gag.com/gag/aMVBQQA)
- - 💣 [Why men live shorter lives than women?](http://9gag.com/gag/abA1y4X)
- - 😝 [For side money!](http://9gag.com/gag/an7RKqB)
- - 👉 [You broke the code!!](http://9gag.com/gag/aRB4Q12)<!-- MEMES:END -->
+ - 😝 [Bights, bights is good](http://9gag.com/gag/a7oOy5e)
+ - 😝 [Secretary is the job that take so much PRESSURE from bosses. So please, respect Secretaries](http://9gag.com/gag/a876j73)
+ - 💣 [The moment the people aboard Delta Airlines get rescued](http://9gag.com/gag/aND9oOG)
+ - 😝 [Bro Just found the Cheat Code](http://9gag.com/gag/a6ZXywe)
+ - 👉 [In 1978, 15 year old Mary Vincent was raped, had her arms cut off, and was thrown off a 30-foot cliff. Barely alive, she packed her stumps with mud to stop the bleeding, climbed back up, and walked three miles naked to find help.](http://9gag.com/gag/avy10KZ)<!-- MEMES:END -->
 
 ---
 

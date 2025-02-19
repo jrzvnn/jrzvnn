@@ -167,10 +167,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [How to crush garlic efficiently](http://9gag.com/gag/aD26moK)
- - 😝 [In 1978, 15 year old Mary Vincent was raped, had her arms cut off, and was thrown off a 30-foot cliff. Barely alive, she packed her stumps with mud to stop the bleeding, climbed back up, and walked three miles naked to find help.](http://9gag.com/gag/avy10KZ)
- - 💣 [A liquor store owner in South Africa made a group of thieves drink the alcohol they tried to steal](http://9gag.com/gag/aoy393e)
  - 😝 [Step aside Ubisoft, there&#39;s a new masterpiece in town](http://9gag.com/gag/aO8ebmy)
- - 👉 [Bro Just found the Cheat Code](http://9gag.com/gag/a6ZXywe)<!-- MEMES:END -->
+ - 💣 [Bights, bights is good](http://9gag.com/gag/a7oOy5e)
+ - 😝 [Yasuke who??](http://9gag.com/gag/aVvoQyw)
+ - 👉 [Nice cosplay](http://9gag.com/gag/aW476V6)<!-- MEMES:END -->
 
 ---
 

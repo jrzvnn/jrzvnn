@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Nice cosplay](http://9gag.com/gag/aW476V6)
- - 😝 [The Bluetooth device connected successfully](http://9gag.com/gag/aXPMwov)
- - 💣 [So many homeless girls in Tokyo.](http://9gag.com/gag/ary3KQd)
- - 😝 [So is it that easy?](http://9gag.com/gag/aAy6Y9o)
- - 👉 [Bro Just found the Cheat Code](http://9gag.com/gag/a6ZXywe)<!-- MEMES:END -->
+ - 😝 [Levitate and Vanish a table.](http://9gag.com/gag/aAy61L0)
+ - 😝 [Floorman working an oil rig](http://9gag.com/gag/azxdjPb)
+ - 💣 [Nice cosplay](http://9gag.com/gag/aW476V6)
+ - 😝 [A new level of rejection.](http://9gag.com/gag/aE061Ve)
+ - 👉 [Average cave explorer&#39;s day](http://9gag.com/gag/a9y67Q0)<!-- MEMES:END -->
 
 ---
 

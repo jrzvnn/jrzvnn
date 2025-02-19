@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [A Signal Update Fends Off a Phishing Technique Used in Russian Espionage](https://www.wired.com/story/russia-signal-qr-code-phishing-attack/)
+ - [Analog Devices, one of the largest analog chip makers, increases its stock buyback program by $10B to $11.5B; sales dropped 23% in 2024 as chip demand slows &lpar;Ian King/Bloomberg&rpar;](http://www.techmeme.com/250219/p11#a250219p11)
  - [Source: in text messages, Libra co-creator Hayden Davis bragged he could &quot;control&quot; Argentine President Javier Milei due to payments to Milei&#39;s sister &lpar;Danny Nelson/CoinDesk&rpar;](http://www.techmeme.com/250219/p10#a250219p10)
  - [Trump’s first 100 days: all the news affecting the tech industry](https://www.theverge.com/24348851/donald-trump-presidency-tech-science-news)
- - [Last-Minute iPhone SE 4 Rumors: Apple&#39;s New Phone Could Be Called the iPhone 16E](https://www.cnet.com/tech/mobile/last-minute-iphone-se-4-rumors-apples-new-phone-could-be-called-the-iphone-16e/#ftag=CAD590a51e)
- - [How PDD&#39;s Temu, the world&#39;s biggest online dollar store, got sucked into President Trump&#39;s trade war; eMarketer expects Temu to have $30B in US sales in 2025 &lpar;Bloomberg&rpar;](http://www.techmeme.com/250219/p9#a250219p9)
- - [Internal documents, emails, and federal data suggest Indian IT giant TCS has used L-1A manager visas in ways that raise concerns about undercutting US workers &lpar;Bloomberg&rpar;](http://www.techmeme.com/250219/p8#a250219p8)<!-- TECH:END -->
+ - [Last-Minute iPhone SE 4 Rumors: Apple&#39;s New Phone Could Be Called the iPhone 16E](https://www.cnet.com/tech/mobile/last-minute-iphone-se-4-rumors-apples-new-phone-could-be-called-the-iphone-16e/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

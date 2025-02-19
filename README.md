@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Apple forcefully refutes UK&#39;s claims about mobile browsing](https://appleinsider.com/articles/25/02/19/apple-forcefully-refutes-uks-claims-about-mobile-browsing?utm_medium=rss)
+ - [Everything we think we know about the next iPhone SE](https://www.theverge.com/news/608210/iphone-se-rumors-release-date-price-specs-face-id-camera-notch)
  - [In 2024, sanctioned jurisdictions and entities received $15.8B in crypto, or ~39% of all illicit crypto transactions; Tornado Cash inflows jumped 108% from 2023 &lpar;Chainalysis&rpar;](http://www.techmeme.com/250219/p19#a250219p19)
- - [Best Fitness Trackers of 2025 for Peak Performance](https://www.wired.com/gallery/best-fitness-tracker/)
- - [Humane’s AI Pin: all the news about the dead AI-powered wearable](https://www.theverge.com/2023/11/9/23954497/humane-ai-pin-wearable-news-announcements)
- - [Shift4 agrees a $1.5B deal to buy Swiss tax-free shopping services provider Global Blue Group; Shift4 handles $250B in annual payments from 200K+ companies &lpar;Lauren Thomas/Wall Street Journal&rpar;](http://www.techmeme.com/250219/p18#a250219p18)
- - [French privacy startup Murena unveils the &amp;euro;539 Murena Pixel Tablet, running its open-source, forked /e/OS, after releasing a &quot;deGoogled&quot; smartphone in 2023 &lpar;Natasha Lomas/TechCrunch&rpar;](http://www.techmeme.com/250219/p17#a250219p17)<!-- TECH:END -->
+ - [The Humane AI Pin never had a chance](https://www.theverge.com/gadgets/615135/humane-ai-pin-shutdown-disaster)
+ - [Humane’s AI Pin: all the news about the dead AI-powered wearable](https://www.theverge.com/2023/11/9/23954497/humane-ai-pin-wearable-news-announcements)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

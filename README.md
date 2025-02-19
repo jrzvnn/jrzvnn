@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Humane’s AI Pin: all the news about the dead AI-powered wearable](https://www.theverge.com/2023/11/9/23954497/humane-ai-pin-wearable-news-announcements)
- - [Save Up to 50% on a Personalized Smart Bed from Sleep Number](https://www.cnet.com/health/sleep/save-up-to-50-percent-on-a-personalized-smart-bed-from-sleep-number/#ftag=CAD590a51e)
- - [Fiverr wants freelancers to create AI models](https://www.theverge.com/news/615252/fiverr-go-freelancer-ai-models)
- - [&#39;Win or Lose&#39;: How to Watch the Pixar Original Series From Anywhere](https://www.cnet.com/tech/services-and-software/win-or-lose-how-to-watch-the-pixar-original-series-from-anywhere/#ftag=CAD590a51e)
- - [Verkada, which makes smart cameras, alarms, sensors, and more for enterprises, raised a $200M Series E at a $4.5B valuation, up from $3.2B in September 2022 &lpar;Allie Garfinkle/Fortune&rpar;](http://www.techmeme.com/250219/p27#a250219p27)<!-- TECH:END -->
+ - [New iPhone 16e offers Apple Intelligence at a low price point](https://appleinsider.com/articles/25/02/19/new-iphone-16e-offers-apple-intelligence-at-a-low-price-point?utm_medium=rss)
+ - [Apple appears to have discontinued the iPhone 14](https://www.theverge.com/news/615322/apple-iphone-14-discontinued)
+ - [Apple unveils its first-ever in-house cellular modem, the C1, to replace Qualcomm modem chips, saying it is &quot;the most power-efficient modem ever on an iPhone&quot; &lpar;Zac Hall/9to5Mac&rpar;](http://www.techmeme.com/250219/p30#a250219p30)
+ - [Apple unveils the $599+ iPhone 16e, with an A18 chip, a 48MP camera, Apple Intelligence, and an Apple-designed 5G cellular modem, the C1, shipping February 28 &lpar;Chance Miller/9to5Mac&rpar;](http://www.techmeme.com/250219/p29#a250219p29)
+ - [Apple launches the iPhone 16E](https://www.theverge.com/news/609204/apple-iphone-16e-price-release-date-specs-a18-notch-face-id)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

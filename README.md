@@ -167,10 +167,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [A new level of rejection.](http://9gag.com/gag/aE061Ve)
- - 😝 [Floorman working an oil rig](http://9gag.com/gag/azxdjPb)
- - 💣 [Yasuke who??](http://9gag.com/gag/aVvoQyw)
- - 😝 [Bights, bights is good](http://9gag.com/gag/a7oOy5e)
- - 👉 [Family stuff](http://9gag.com/gag/apR3qO8)<!-- MEMES:END -->
+ - 😝 [She tried](http://9gag.com/gag/amo10xX)
+ - 💣 [Bro Just found the Cheat Code](http://9gag.com/gag/a6ZXywe)
+ - 😝 [Wonder what all the fatties who were behind her have to say](http://9gag.com/gag/azxdjGm)
+ - 👉 [The moment the people aboard Delta Airlines get rescued](http://9gag.com/gag/aND9oOG)<!-- MEMES:END -->
 
 ---
 

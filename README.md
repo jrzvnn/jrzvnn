@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Floorman working an oil rig](http://9gag.com/gag/azxdjPb)
- - 😝 [Cheers to you, you bastards!](http://9gag.com/gag/a5Q6PWE)
- - 💣 [Yasuke who??](http://9gag.com/gag/aVvoQyw)
- - 😝 [How to crush garlic efficiently](http://9gag.com/gag/aD26moK)
- - 👉 [So is it that easy?](http://9gag.com/gag/aAy6Y9o)<!-- MEMES:END -->
+ - 😝 [Step aside Ubisoft, there&#39;s a new masterpiece in town](http://9gag.com/gag/aO8ebmy)
+ - 😝 [In 1978, 15 year old Mary Vincent was raped, had her arms cut off, and was thrown off a 30-foot cliff. Barely alive, she packed her stumps with mud to stop the bleeding, climbed back up, and walked three miles naked to find help.](http://9gag.com/gag/avy10KZ)
+ - 💣 [Bro Just found the Cheat Code](http://9gag.com/gag/a6ZXywe)
+ - 😝 [Wonder what all the fatties who were behind her have to say](http://9gag.com/gag/azxdjGm)
+ - 👉 [A liquor store owner in South Africa made a group of thieves drink the alcohol they tried to steal](http://9gag.com/gag/aoy393e)<!-- MEMES:END -->
 
 ---
 

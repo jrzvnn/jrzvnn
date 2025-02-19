@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [So is it that easy?](http://9gag.com/gag/aAy6Y9o)
- - 😝 [I am glad I asked her anyway](http://9gag.com/gag/aD26mYx)
- - 💣 [In 1978, 15 year old Mary Vincent was raped, had her arms cut off, and was thrown off a 30-foot cliff. Barely alive, she packed her stumps with mud to stop the bleeding, climbed back up, and walked three miles naked to find help.](http://9gag.com/gag/avy10KZ)
- - 😝 [How to crush garlic efficiently](http://9gag.com/gag/aD26moK)
- - 👉 [Let my Cameron go!](http://9gag.com/gag/ae910dm)<!-- MEMES:END -->
+ - 😝 [More credible than flat earth theory](http://9gag.com/gag/aXPMpm2)
+ - 😝 [Out of one thousand violent crimes in Norway, only 32 were committed by ethnic Norwegians. We could have had 968 less violent crimes if we had no immigration. This study was done by the Norwegian government itself &lpar;SSB&rpar;.](http://9gag.com/gag/a876Y1O)
+ - 💣 [Why men live shorter lives than women?](http://9gag.com/gag/abA1y4X)
+ - 😝 [For side money!](http://9gag.com/gag/an7RKqB)
+ - 👉 [You broke the code!!](http://9gag.com/gag/aRB4Q12)<!-- MEMES:END -->
 
 ---
 

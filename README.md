@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [How to crush garlic efficiently](http://9gag.com/gag/aD26moK)
- - 😝 [Jungle is massive](http://9gag.com/gag/aMVB9m6)
- - 💣 [Average cave explorer&#39;s day](http://9gag.com/gag/a9y67Q0)
+ - 😝 [Nice cosplay](http://9gag.com/gag/aW476V6)
+ - 😝 [Family stuff](http://9gag.com/gag/apR3qO8)
+ - 💣 [Quick Mafs](http://9gag.com/gag/aRB4e0Q)
  - 😝 [Floorman working an oil rig](http://9gag.com/gag/azxdjPb)
- - 👉 [Bro Just found the Cheat Code](http://9gag.com/gag/a6ZXywe)<!-- MEMES:END -->
+ - 👉 [The Bluetooth device connected successfully](http://9gag.com/gag/aXPMwov)<!-- MEMES:END -->
 
 ---
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [These Are the SpaceX Engineers Already Working Inside the FAA](https://www.wired.com/story/faa-doge-elon-musk-space-x/)
+ - [A popular Japanese distraction-free writing device is coming to the US](https://www.theverge.com/news/615854/king-jim-pomera-d250us-distraction-free-writing-tool)
  - [iPhone 16e vs iPhone 16: A new Apple Intelligence-powered entry-level option](https://appleinsider.com/inside/iphone-16e/vs/iphone-16e-vs-iphone-16-a-new-apple-intelligence-powered-entry-level-option?utm_medium=rss)
  - [All the news about Nvidia’s RTX 50-series GPUs](https://www.theverge.com/2025/1/25/24351798/nvidia-rtx-5090-5080-5070-gpu-news-rumors)
- - [Hope you weren’t planning to play PhysX games on Nvidia’s new 50-series GPUs](https://www.theverge.com/news/615768/nvidia-rtx-5090-5080-5070-drop-physx-support-32-bit)
- - [iPhone 16E: all the news on Apple’s new $599 phone](https://www.theverge.com/news/615399/apple-iphone-16e-event-specs-price-release-date-se)
- - [Verge staffers react to the iPhone 16E: what we love and don’t love](https://www.theverge.com/apple-event/615527/iphone-16e-features-apple-like)<!-- TECH:END -->
+ - [Hope you weren’t planning to play PhysX games on Nvidia’s new 50-series GPUs](https://www.theverge.com/news/615768/nvidia-rtx-5090-5080-5070-drop-physx-support-32-bit)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

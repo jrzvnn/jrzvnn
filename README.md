@@ -167,10 +167,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [Floorman working an oil rig](http://9gag.com/gag/azxdjPb)
- - 😝 [Step aside Ubisoft, there&#39;s a new masterpiece in town](http://9gag.com/gag/aO8ebmy)
- - 💣 [Wonder what all the fatties who were behind her have to say](http://9gag.com/gag/azxdjGm)
- - 😝 [Average cave explorer&#39;s day](http://9gag.com/gag/a9y67Q0)
- - 👉 [A liquor store owner in South Africa made a group of thieves drink the alcohol they tried to steal](http://9gag.com/gag/aoy393e)<!-- MEMES:END -->
+ - 😝 [Wonder what all the fatties who were behind her have to say](http://9gag.com/gag/azxdjGm)
+ - 💣 [Average cave explorer&#39;s day](http://9gag.com/gag/a9y67Q0)
+ - 😝 [Levitate and Vanish a table.](http://9gag.com/gag/aAy61L0)
+ - 👉 [Yasuke who??](http://9gag.com/gag/aVvoQyw)<!-- MEMES:END -->
 
 ---
 

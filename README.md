@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [I completely understand him, but I sincerely could be that lady!](http://9gag.com/gag/ayN3n08)
- - 😝 [Cheers to you, you bastards!](http://9gag.com/gag/a5Q6PWE)
- - 💣 [I am glad I asked her anyway](http://9gag.com/gag/aD26mYx)
- - 😝 [How to crush garlic efficiently](http://9gag.com/gag/aD26moK)
- - 👉 [A new level of rejection.](http://9gag.com/gag/aE061Ve)<!-- MEMES:END -->
+ - 😝 [Out of one thousand violent crimes in Norway, only 32 were committed by ethnic Norwegians. We could have had 968 less violent crimes if we had no immigration. This study was done by the Norwegian government itself &lpar;SSB&rpar;.](http://9gag.com/gag/a876Y1O)
+ - 😝 [So this is how we all slowly slip into the Matrix?](http://9gag.com/gag/aMVBQQA)
+ - 💣 [Why men live shorter lives than women?](http://9gag.com/gag/abA1y4X)
+ - 😝 [For side money!](http://9gag.com/gag/an7RKqB)
+ - 👉 [You broke the code!!](http://9gag.com/gag/aRB4Q12)<!-- MEMES:END -->
 
 ---
 

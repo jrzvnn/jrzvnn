@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Government contractor attempts to buy &#39;Graykey&#39; iPhone hacking tool from journalists](https://appleinsider.com/articles/25/02/19/government-contractor-attempts-to-buy-graykey-iphone-hacking-tool-from-journalists?utm_medium=rss)
- - [Asus ROG Flow Z13 review: the ~$2,300 convertible tablet&#39;s integrated GPU in its AMD Ryzen AI Max+ 395 chip offers performance comparable to a GeForce RTX 4060 &lpar;Kevin Purdy/Ars Technica&rpar;](http://www.techmeme.com/250218/p33#a250218p33)
- - [Reddit vs. Wall Street: the latest in the GameStop saga](https://www.theverge.com/22253363/wall-street-bets-verge-stories-gamestock-reddit-discord)
- - [Elden Ring: all of the updates about FromSoftware’s open-world hit](https://www.theverge.com/2022/2/28/22955370/elden-ring-fromsoftware-open-world)
- - [Best Air Purifiers for Better Health in 2025, Tested by Our Experts](https://www.cnet.com/home/kitchen-and-household/best-air-purifier/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Lemokey L5 HE 8K review: Customizable magnetic switches in a gaming keyboard](https://appleinsider.com/articles/25/02/19/lemokey-l5-he-8k-review-customizable-magnetic-switches-in-a-gaming-keyboard?utm_medium=rss)
+ - [Apple &amp; Google to appear at Brazilian regulator public hearing Wednesday](https://appleinsider.com/articles/25/02/19/apple-google-to-appear-at-brazilian-regulator-public-hearing-wednesday?utm_medium=rss)
+ - [iPhone 17 Air rumored to feature titanium frame and support for 35W fast charging](https://appleinsider.com/articles/25/02/18/iphone-17-air-rumored-to-feature-titanium-frame-and-support-for-35w-fast-charging?utm_medium=rss)
+ - [All the smart home news, reviews, and gadgets you need to know about](https://www.theverge.com/24190824/smart-home-news-reviews-guides-gadgets)
+ - [US tariffs: how Trump’s tax is hitting Big Tech and beyond](https://www.theverge.com/604742/trump-tariffs-canada-mexico-china-updates)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

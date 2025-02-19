@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [Bights, bights is good](http://9gag.com/gag/a7oOy5e)
+ - 😝 [She tried](http://9gag.com/gag/amo10xX)
+ - 💣 [Massage Competition](http://9gag.com/gag/aqyX9zM)
  - 😝 [I completely understand him, but I sincerely could be that lady!](http://9gag.com/gag/ayN3n08)
- - 😝 [Using red dye to demonstrate how Mercury cannot be absorbed by a towel](http://9gag.com/gag/avy10En)
- - 💣 [Man arrested for sharing his own country&#39;s flag on X. Welcome to My new England.](http://9gag.com/gag/azxdgOj)
- - 😝 [Secretary is the job that take so much PRESSURE from bosses. So please, respect Secretaries](http://9gag.com/gag/a876j73)
- - 👉 [So is it that easy?](http://9gag.com/gag/aAy6Y9o)<!-- MEMES:END -->
+ - 👉 [Secretary is the job that take so much PRESSURE from bosses. So please, respect Secretaries](http://9gag.com/gag/a876j73)<!-- MEMES:END -->
 
 ---
 

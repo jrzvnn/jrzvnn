@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [The moment the people aboard Delta Airlines get rescued](http://9gag.com/gag/aND9oOG)
- - 😝 [Average cave explorer&#39;s day](http://9gag.com/gag/a9y67Q0)
- - 💣 [Wonder what all the fatties who were behind her have to say](http://9gag.com/gag/azxdjGm)
- - 😝 [A new level of rejection.](http://9gag.com/gag/aE061Ve)
- - 👉 [Floorman working an oil rig](http://9gag.com/gag/azxdjPb)<!-- MEMES:END -->
+ - 😝 [Why men live shorter lives than women?](http://9gag.com/gag/abA1y4X)
+ - 😝 [Andrew\u2019s Tate\u2019s delusions meet their fate.](http://9gag.com/gag/aQzvpQz)
+ - 💣 [So many homeless girls in Tokyo.](http://9gag.com/gag/ary3KQd)
+ - 😝 [Step aside Ubisoft, there&#39;s a new masterpiece in town](http://9gag.com/gag/aO8ebmy)
+ - 👉 [A new level of rejection.](http://9gag.com/gag/aE061Ve)<!-- MEMES:END -->
 
 ---
 

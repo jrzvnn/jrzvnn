@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Yasuke who??](http://9gag.com/gag/aVvoQyw)
- - 😝 [So many homeless girls in Tokyo.](http://9gag.com/gag/ary3KQd)
- - 💣 [How to crush garlic efficiently](http://9gag.com/gag/aD26moK)
- - 😝 [Carl Emil Pettersson. Legend!](http://9gag.com/gag/ary3Nyy)
- - 👉 [A new level of rejection.](http://9gag.com/gag/aE061Ve)<!-- MEMES:END -->
+ - 😝 [Jean shorts](http://9gag.com/gag/ae9164j)
+ - 😝 [Nice cosplay](http://9gag.com/gag/aW476V6)
+ - 💣 [John Travolta is 71 today! Happy birthday](http://9gag.com/gag/ae916qv)
+ - 😝 [Podophilia](http://9gag.com/gag/azxdARz)
+ - 👉 [Man builds a 3D chopping board using an extensive process](http://9gag.com/gag/aRB4eoB)<!-- MEMES:END -->
 
 ---
 

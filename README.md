@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Trump’s first 100 days: all the news affecting the tech industry](https://www.theverge.com/24348851/donald-trump-presidency-tech-science-news)
- - [Last-Minute iPhone SE 4 Rumors: Apple&#39;s New Phone Could Be Called the iPhone 16E](https://www.cnet.com/tech/mobile/last-minute-iphone-se-4-rumors-apples-new-phone-could-be-called-the-iphone-16e/#ftag=CAD590a51e)
- - [How PDD&#39;s Temu, the world&#39;s biggest online dollar store, got sucked into President Trump&#39;s trade war; eMarketer expects Temu to have $30B in US sales in 2025 &lpar;Bloomberg&rpar;](http://www.techmeme.com/250219/p9#a250219p9)
- - [Internal documents, emails, and federal data suggest Indian IT giant TCS has used L-1A manager visas in ways that raise concerns about undercutting US workers &lpar;Bloomberg&rpar;](http://www.techmeme.com/250219/p8#a250219p8)
- - [Hexaware Technologies&#39; stock rose as much as 10% on its trading debut, valuing the company at ~$5.44B, after the IT services firm raised $1B in its Indian IPO &lpar;Nandan Mandayam/Reuters&rpar;](http://www.techmeme.com/250219/p7#a250219p7)<!-- TECH:END -->
+ - [Source: in text messages, Libra co-creator Hayden Davis bragged he could &quot;control&quot; Argentine President Javier Milei due to payments to Milei&#39;s sister &lpar;Danny Nelson/CoinDesk&rpar;](http://www.techmeme.com/250219/p10#a250219p10)
+ - [High APYs Hold On -- for Now. Today&#39;s CD Rates, Feb. 19, 2025](https://www.cnet.com/personal-finance/banking/high-apys-hold-on-for-now-todays-cd-rates-feb-19-2025/#ftag=CAD590a51e)
+ - [Red Dye No. 3 Is Banned, but These 9 Foods Still Contain It](https://www.cnet.com/health/red-dye-no-3-is-banned-but-these-9-foods-still-contain-it/#ftag=CAD590a51e)
+ - [Canada vs. USA, 4 Nations Face-Off: How to Watch the Hockey Rematch](https://www.cnet.com/tech/services-and-software/canada-vs-usa-4-nations-face-off-how-to-watch-the-hockey-rematch/#ftag=CAD590a51e)
+ - [Trump’s first 100 days: all the news affecting the tech industry](https://www.theverge.com/24348851/donald-trump-presidency-tech-science-news)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

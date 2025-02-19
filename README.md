@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Boo!!](http://9gag.com/gag/aqyXm6R)
  - 😝 [Step aside Ubisoft, there&#39;s a new masterpiece in town](http://9gag.com/gag/aO8ebmy)
- - 💣 [Secretary is the job that take so much PRESSURE from bosses. So please, respect Secretaries](http://9gag.com/gag/a876j73)
- - 😝 [A liquor store owner in South Africa made a group of thieves drink the alcohol they tried to steal](http://9gag.com/gag/aoy393e)
- - 👉 [Cheers to you, you bastards!](http://9gag.com/gag/a5Q6PWE)<!-- MEMES:END -->
+ - 😝 [Bights, bights is good](http://9gag.com/gag/a7oOy5e)
+ - 💣 [So is it that easy?](http://9gag.com/gag/aAy6Y9o)
+ - 😝 [Yasuke who??](http://9gag.com/gag/aVvoQyw)
+ - 👉 [How to crush garlic efficiently](http://9gag.com/gag/aD26moK)<!-- MEMES:END -->
 
 ---
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Step aside Ubisoft, there&#39;s a new masterpiece in town](http://9gag.com/gag/aO8ebmy)
- - 😝 [Nice cosplay](http://9gag.com/gag/aW476V6)
- - 💣 [So many homeless girls in Tokyo.](http://9gag.com/gag/ary3KQd)
  - 😝 [Bro Just found the Cheat Code](http://9gag.com/gag/a6ZXywe)
- - 👉 [Quick Mafs](http://9gag.com/gag/aRB4e0Q)<!-- MEMES:END -->
+ - 😝 [Nice cosplay](http://9gag.com/gag/aW476V6)
+ - 💣 [Average cave explorer&#39;s day](http://9gag.com/gag/a9y67Q0)
+ - 😝 [The Bluetooth device connected successfully](http://9gag.com/gag/aXPMwov)
+ - 👉 [Thieves](http://9gag.com/gag/adB1jv2)<!-- MEMES:END -->
 
 ---
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Nice cosplay](http://9gag.com/gag/aW476V6)
- - 😝 [John Travolta is 71 today! Happy birthday](http://9gag.com/gag/ae916qv)
- - 💣 [Podophilia](http://9gag.com/gag/azxdARz)
- - 😝 [Man builds a 3D chopping board using an extensive process](http://9gag.com/gag/aRB4eoB)
- - 👉 [Average cave explorer&#39;s day](http://9gag.com/gag/a9y67Q0)<!-- MEMES:END -->
+ - 😝 [He took it like a little B.... man.. MAN..](http://9gag.com/gag/aE06nz9)
+ - 😝 [A parachute failure during a paratroopers drill](http://9gag.com/gag/aVvoXyd)
+ - 💣 [So many homeless girls in Tokyo.](http://9gag.com/gag/ary3KQd)
+ - 😝 [Carl Emil Pettersson. Legend!](http://9gag.com/gag/ary3Nyy)
+ - 👉 [Jungle is massive](http://9gag.com/gag/aMVB9m6)<!-- MEMES:END -->
 
 ---
 

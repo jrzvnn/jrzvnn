@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Limited Run says potentially damaging NES carts are supplier&amp;#8217;s fault](https://www.theverge.com/news/616001/limited-run-games-nes-carts-issue-supplier)
+ - [Xbox Pushes Ahead With Muse, a New Generative AI Model. Devs Say ‘Nobody Will Want This’](https://www.wired.com/story/xbox-muse-generative-ai-developers-say-nobody-will-want-this/)
+ - [Apple Launched the iPhone 16E. Here&#39;s What You Get for $599](https://www.cnet.com/tech/mobile/apple-just-launched-the-iphone-16e-heres-what-you-get-for-599/#ftag=CAD590a51e)
  - [Q&amp;A with Satya Nadella on Microsoft&#39;s AGI plan, the quantum breakthrough with Majorana 1, how Muse will change gaming, legal barriers to AI, and more &lpar;Dwarkesh Patel/Dwarkesh Podcast&rpar;](http://www.techmeme.com/250219/p46#a250219p46)
- - [New iPhone 16e offers Apple Intelligence at a low price point](https://appleinsider.com/articles/25/02/19/new-iphone-16e-offers-apple-intelligence-at-a-low-price-point?utm_medium=rss)
- - [Why the iPhone 16E doesnt truly fit the iPhone SE&#39;s shoes](https://appleinsider.com/articles/25/02/19/the-legacy-of-the-iphone-se-lives-on-in-the-iphone-16e?utm_medium=rss)
- - [The Last of Us season 2 finally has a premiere date](https://www.theverge.com/news/616016/the-last-of-us-season-2-date-hbo)
- - [The Last of Us: all the news about the video game franchise turned TV series](https://www.theverge.com/24036366/the-last-of-us-news-video-game-tv-series-trailers)<!-- TECH:END -->
+ - [New iPhone 16e offers Apple Intelligence at a low price point](https://appleinsider.com/articles/25/02/19/new-iphone-16e-offers-apple-intelligence-at-a-low-price-point?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

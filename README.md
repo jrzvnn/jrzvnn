@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [UK CMA submission: Apple says some of the CMA&#39;s mobile browser remedies will slow innovation and it would &quot;not be appropriate&quot; to mandate WebKit and iOS access &lpar;Muvija M/Reuters&rpar;](http://www.techmeme.com/250219/p16#a250219p16)
+ - [Reverse charging rumor resurfaces for the iPhone 17 Pro](https://appleinsider.com/articles/25/02/19/reverse-charging-rumor-resurfaces-for-the-iphone-17-pro?utm_medium=rss)
+ - [Humane&#39;s AI Pin is no more and owners are left with nothing](https://appleinsider.com/articles/25/02/19/humanes-ai-pin-is-no-more-and-owners-are-left-with-nothing?utm_medium=rss)
  - [In Q4, Coinbase changed how it reports users&#39; crypto assets, taking them off its balance sheet, highlighting the lingering issue of who owns the digital assets &lpar;Jonathan Weil/Wall Street Journal&rpar;](http://www.techmeme.com/250219/p15#a250219p15)
- - [Aarke Coffee System Review: Shiny and Chrome](https://www.wired.com/review/aarke-coffee-system/)
- - [This smart video lock unlocks with a wave of your hand](https://www.theverge.com/news/615019/eufy-familock-s3-max-video-smart-lock-price-release-date-features)
- - [Google agrees to pay &amp;euro;326M to settle an Italian tax case from 2015 to 2019, covering sanctions, penalties, and interest; Milan prosecutors plan to drop the case &lpar;Reuters&rpar;](http://www.techmeme.com/250219/p14#a250219p14)
- - [13 Best Hair Straighteners We Tested &lpar;2025&rpar; | WIRED](https://www.wired.com/gallery/best-hair-straighteners/)<!-- TECH:END -->
+ - [Aarke Coffee System Review: Shiny and Chrome](https://www.wired.com/review/aarke-coffee-system/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

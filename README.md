@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Cheers to you, you bastards!](http://9gag.com/gag/a5Q6PWE)
- - 😝 [Let my Cameron go!](http://9gag.com/gag/ae910dm)
- - 💣 [Step aside Ubisoft, there&#39;s a new masterpiece in town](http://9gag.com/gag/aO8ebmy)
+ - 😝 [Boo!!](http://9gag.com/gag/aqyXm6R)
+ - 😝 [Step aside Ubisoft, there&#39;s a new masterpiece in town](http://9gag.com/gag/aO8ebmy)
+ - 💣 [Secretary is the job that take so much PRESSURE from bosses. So please, respect Secretaries](http://9gag.com/gag/a876j73)
  - 😝 [A liquor store owner in South Africa made a group of thieves drink the alcohol they tried to steal](http://9gag.com/gag/aoy393e)
- - 👉 [Wow, that was... unexpected](http://9gag.com/gag/a345B23)<!-- MEMES:END -->
+ - 👉 [Cheers to you, you bastards!](http://9gag.com/gag/a5Q6PWE)<!-- MEMES:END -->
 
 ---
 

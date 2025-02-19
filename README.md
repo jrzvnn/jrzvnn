@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Floorman working an oil rig](http://9gag.com/gag/azxdjPb)
- - 😝 [Wonder what all the fatties who were behind her have to say](http://9gag.com/gag/azxdjGm)
- - 💣 [Average cave explorer&#39;s day](http://9gag.com/gag/a9y67Q0)
- - 😝 [Levitate and Vanish a table.](http://9gag.com/gag/aAy61L0)
- - 👉 [Yasuke who??](http://9gag.com/gag/aVvoQyw)<!-- MEMES:END -->
+ - 😝 [Why men live shorter lives than women?](http://9gag.com/gag/abA1y4X)
+ - 😝 [That&#39;s the most two stroky four Stroke ever](http://9gag.com/gag/ary3K97)
+ - 💣 [You broke the code!!](http://9gag.com/gag/aRB4Q12)
+ - 😝 [Rich guy thinks he can just headbutt people and gets taught a valuable lesson in life.](http://9gag.com/gag/aQzvppe)
+ - 👉 [Wow, that was... unexpected](http://9gag.com/gag/a345B23)<!-- MEMES:END -->
 
 ---
 

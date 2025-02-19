@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Rabbit shows off the AI agent it should have launched with](https://www.theverge.com/news/615990/rabbit-ai-agent-demonstration-lam-android-r1)
+ - [Mistral&#39;s Le Chat app tops 1M downloads in just 14 days, quickly reaching the App Store&#39;s top free downloads spot in France; ChatGPT had 500K in just six days &lpar;Romain Dillet/TechCrunch&rpar;](http://www.techmeme.com/250219/p49#a250219p49)
+ - [Steeper price drops hit Apple&#39;s M4 &amp; M4 Pro Mac mini](https://appleinsider.com/articles/25/02/19/steeper-price-drops-hit-apples-m4-m4-pro-mac-mini?utm_medium=rss)
+ - [The best indie games we’re playing right now](https://www.theverge.com/24339574/indie-games-recommendations-pc-switch-steam-deck-best-new-hidden-gems)
  - [From ChatGPT to Gemini: how AI is rewriting the internet](https://www.theverge.com/23610427/chatbots-chatgpt-new-bing-google-bard-conversational-ai)
- - [The Rabbit R1: all the latest news about this hare-raising AI gadget](https://www.theverge.com/2024/1/18/24042688/rabbit-r1-ai-gadget-handheld-news-updates-storystream)
- - [All the news about Nvidia’s RTX 50-series GPUs](https://www.theverge.com/2025/1/25/24351798/nvidia-rtx-5090-5080-5070-gpu-news-rumors)
- - [Nvidia is launching ‘priority access’ to help fans buy RTX 5080 and 5090 FE GPUs](https://www.theverge.com/news/616138/nvidia-verified-priority-access-to-help-fans-buy-rtx-5080-and-5090)<!-- TECH:END -->
+ - [The Rabbit R1: all the latest news about this hare-raising AI gadget](https://www.theverge.com/2024/1/18/24042688/rabbit-r1-ai-gadget-handheld-news-updates-storystream)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

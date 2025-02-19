@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Google agrees to pay &amp;euro;326M to settle an Italian tax case from 2015 to 2019, covering sanctions, penalties, and interest; Milan prosecutors plan to drop the case &lpar;Reuters&rpar;](http://www.techmeme.com/250219/p14#a250219p14)
  - [13 Best Hair Straighteners We Tested &lpar;2025&rpar; | WIRED](https://www.wired.com/gallery/best-hair-straighteners/)
  - [Apple closing Northbrook store in struggling Chicago mall](https://appleinsider.com/articles/25/02/19/apple-closing-northbrook-store-in-struggling-chicago-mall?utm_medium=rss)
  - [Signal updates its apps to add phishing protections after Google warned Russia-linked hackers are using fake QR codes to target Ukrainian soldiers &lpar;Andy Greenberg/Wired&rpar;](http://www.techmeme.com/250219/p13#a250219p13)
- - [Sources: Chinese game publisher NetEase has been directed to divest its overseas holdings, starting with hit game Marvel Rivals, which laid off its Seattle team &lpar;VentureBeat&rpar;](http://www.techmeme.com/250219/p12#a250219p12)
- - [Meta Will Build the World&#39;s Longest Undersea Cable](https://www.wired.com/story/meta-undersea-cables-internet-connectivity-india/)<!-- TECH:END -->
+ - [Sources: Chinese game publisher NetEase has been directed to divest its overseas holdings, starting with hit game Marvel Rivals, which laid off its Seattle team &lpar;VentureBeat&rpar;](http://www.techmeme.com/250219/p12#a250219p12)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Tesla Cybertruck: all the news about Elon Musk’s futuristic pickup truck](https://www.theverge.com/2019/11/21/20975980/tesla-cybertruck-announcement-news-pickup-truck-elon-musk-updates-highlights)
  - [All the news about Nvidia’s RTX 50-series GPUs](https://www.theverge.com/2025/1/25/24351798/nvidia-rtx-5090-5080-5070-gpu-news-rumors)
- - [The Rabbit R1: all the latest news about this hare-raising AI gadget](https://www.theverge.com/2024/1/18/24042688/rabbit-r1-ai-gadget-handheld-news-updates-storystream)
- - [&#39;Severance&#39; tops &#39;Ted Lasso&#39; as Apple&#39;s most-watched series for good reasons](https://appleinsider.com/articles/25/02/19/severance-tops-ted-lasso-as-apples-most-watched-series-for-good-reason?utm_medium=rss)
- - [Uber ditches commissions in favor of fees for auto-rickshaw drivers in India in response to increased competition from local rivals Rapido and Namma Yatri &lpar;Jagmeet Singh/TechCrunch&rpar;](http://www.techmeme.com/250219/p47#a250219p47)<!-- TECH:END -->
+ - [Nvidia is launching ‘priority access’ to help fans buy RTX 5080 and 5090 FE GPUs](https://www.theverge.com/news/616138/nvidia-verified-priority-access-to-help-fans-buy-rtx-5080-and-5090)
+ - [Google is removing Gemini support from the main Google app on iOS, pushing users to download the standalone Gemini app &lpar;Ben Schoon/9to5Google&rpar;](http://www.techmeme.com/250219/p48#a250219p48)
+ - [Tesla Cybertruck: all the news about Elon Musk’s futuristic pickup truck](https://www.theverge.com/2019/11/21/20975980/tesla-cybertruck-announcement-news-pickup-truck-elon-musk-updates-highlights)
+ - [Today&#39;s NYT Connections Hints, Answers and Help for Feb. 20, #620](https://www.cnet.com/tech/gaming/todays-nyt-connections-hints-answers-and-help-for-feb-20-620/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [The moment the people aboard Delta Airlines get rescued](http://9gag.com/gag/aND9oOG)
+ - 😝 [Average cave explorer&#39;s day](http://9gag.com/gag/a9y67Q0)
+ - 💣 [Wonder what all the fatties who were behind her have to say](http://9gag.com/gag/azxdjGm)
  - 😝 [A new level of rejection.](http://9gag.com/gag/aE061Ve)
- - 😝 [She tried](http://9gag.com/gag/amo10xX)
- - 💣 [Bro Just found the Cheat Code](http://9gag.com/gag/a6ZXywe)
- - 😝 [Wonder what all the fatties who were behind her have to say](http://9gag.com/gag/azxdjGm)
- - 👉 [The moment the people aboard Delta Airlines get rescued](http://9gag.com/gag/aND9oOG)<!-- MEMES:END -->
+ - 👉 [Floorman working an oil rig](http://9gag.com/gag/azxdjPb)<!-- MEMES:END -->
 
 ---
 

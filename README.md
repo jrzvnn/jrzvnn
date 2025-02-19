@@ -158,10 +158,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- TECH:START -->
  - [Trump’s first 100 days: all the news affecting the tech industry](https://www.theverge.com/24348851/donald-trump-presidency-tech-science-news)
+ - [Last-Minute iPhone SE 4 Rumors: Apple&#39;s New Phone Could Be Called the iPhone 16E](https://www.cnet.com/tech/mobile/last-minute-iphone-se-4-rumors-apples-new-phone-could-be-called-the-iphone-16e/#ftag=CAD590a51e)
  - [How PDD&#39;s Temu, the world&#39;s biggest online dollar store, got sucked into President Trump&#39;s trade war; eMarketer expects Temu to have $30B in US sales in 2025 &lpar;Bloomberg&rpar;](http://www.techmeme.com/250219/p9#a250219p9)
  - [Internal documents, emails, and federal data suggest Indian IT giant TCS has used L-1A manager visas in ways that raise concerns about undercutting US workers &lpar;Bloomberg&rpar;](http://www.techmeme.com/250219/p8#a250219p8)
- - [Hexaware Technologies&#39; stock rose as much as 10% on its trading debut, valuing the company at ~$5.44B, after the IT services firm raised $1B in its Indian IPO &lpar;Nandan Mandayam/Reuters&rpar;](http://www.techmeme.com/250219/p7#a250219p7)
- - [In a breakthrough, University of Oxford scientists sent the first quantum algorithm wirelessly between two separate quantum processors via particle entanglement &lpar;Jorge Garay/Wired&rpar;](http://www.techmeme.com/250219/p6#a250219p6)<!-- TECH:END -->
+ - [Hexaware Technologies&#39; stock rose as much as 10% on its trading debut, valuing the company at ~$5.44B, after the IT services firm raised $1B in its Indian IPO &lpar;Nandan Mandayam/Reuters&rpar;](http://www.techmeme.com/250219/p7#a250219p7)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

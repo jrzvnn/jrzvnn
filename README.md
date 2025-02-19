@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Some US ByteDance investors argue that they don&#39;t need US TikTok for success, as China, which accounts for 80% of ByteDance&#39;s revenue, is the real driving force &lpar;Bloomberg&rpar;](http://www.techmeme.com/250219/p5#a250219p5)
+ - [Sources: Meta has led the charge against the EU&#39;s AI Act this year, as Big Tech, with backing from President Trump, grows bolder in challenging EU regulations &lpar;Financial Times&rpar;](http://www.techmeme.com/250219/p4#a250219p4)
+ - [H&amp;R Block Coupons and Deals: $50 Off Tax Prep in 2025](https://www.wired.com/story/hr-block-coupon/)
  - [Sources: X is in talks to raise funds at a $44B valuation, matching the price Elon Musk paid for Twitter in 2022, as his proximity to Trump alters X&#39;s prospects &lpar;Katie Roof/Bloomberg&rpar;](http://www.techmeme.com/250219/p3#a250219p3)
- - [10% Off Dell Coupon Codes | February 2025](https://www.wired.com/story/dell-coupon-code/)
- - [Taiwan&#39;s ASE Technology, the world&#39;s largest chip packaging and testing firm, opens a new plant in Penang, Malaysia, as part of its biggest overseas expansion &lpar;Cheng Ting-Fang/Nikkei Asia&rpar;](http://www.techmeme.com/250219/p2#a250219p2)
- - [Solana has lost ~25% of its market value, or ~$20B, since February 14 after Argentine President Javier Milei faced scrutiny for promoting Solana memecoin Libra &lpar;Olga Kharif/Bloomberg&rpar;](http://www.techmeme.com/250219/p1#a250219p1)
- - [Best Moving Companies of 2025](https://www.cnet.com/home/services/best-moving-companies/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [10% Off Dell Coupon Codes | February 2025](https://www.wired.com/story/dell-coupon-code/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

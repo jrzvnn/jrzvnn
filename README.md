@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Crunchbase launches AI tools to predict where startups are heading, including funding, acquisitions, and IPOs, based on its 17 years of startup data &lpar;Belle Lin/Wall Street Journal&rpar;](http://www.techmeme.com/250219/p22#a250219p22)
- - [From ChatGPT to Gemini: how AI is rewriting the internet](https://www.theverge.com/23610427/chatbots-chatgpt-new-bing-google-bard-conversational-ai)
- - [Binance.US resumes USD deposits and withdrawals for the first time since June 2023, when the SEC sued Binance, Binance.US, and co-founder Changpeng Zhao &lpar;James Hunt/The Block&rpar;](http://www.techmeme.com/250219/p21#a250219p21)
- - [The women who made America’s microchips and the children who paid for it](https://www.theverge.com/features/611297/manufacturing-workers-semiconductor-computer-chip-birth-defect)
- - [Nvidia GeForce RTX 5070 Ti review: a cheaper RTX 4080](https://www.theverge.com/gpu-reviews/615075/nvidia-rtx-5070-ti-review-test-benchmark)<!-- TECH:END -->
+ - [TMTG and Rumble sue a Brazilian Supreme Court Justice in Florida for allegedly illegally suppressing the US social media activity of conservative Brazilians &lpar;Erik Larson/Bloomberg&rpar;](http://www.techmeme.com/250219/p25#a250219p25)
+ - [Google launches an AI co-scientist, a new Gemini 2.0-based system to help scientists create novel hypotheses and research plans, available to select testers &lpar;Melissa Heikkil&amp;auml;/Financial Times&rpar;](http://www.techmeme.com/250219/p24#a250219p24)
+ - [EV truck maker Nikola goes bust](https://www.theverge.com/news/615196/nikola-bankrupt-ev-truck-chapter-11)
+ - [Nvidia RTX 5070 Ti review: a capable GPU for 4K gaming, DLSS 4 multi-frame gen, and runs cool, but prices fluctuate wildly and $750 is expensive for mid-range &lpar;Devindra Hardawar/Engadget&rpar;](http://www.techmeme.com/250219/p23#a250219p23)
+ - [Crunchbase launches AI tools to predict where startups are heading, including funding, acquisitions, and IPOs, based on its 17 years of startup data &lpar;Belle Lin/Wall Street Journal&rpar;](http://www.techmeme.com/250219/p22#a250219p22)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -158,10 +158,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- TECH:START -->
  - [Sources: Chinese game publisher NetEase has been directed to divest its overseas holdings, starting with Marvel Rivals, which laid off its Seattle team &lpar;VentureBeat&rpar;](http://www.techmeme.com/250219/p12#a250219p12)
+ - [Meta Will Build the World&#39;s Longest Undersea Cable](https://www.wired.com/story/meta-undersea-cables-internet-connectivity-india/)
  - [A Signal Update Fends Off a Phishing Technique Used in Russian Espionage](https://www.wired.com/story/russia-signal-qr-code-phishing-attack/)
  - [Analog Devices, one of the largest analog chip makers, increases its stock buyback program by $10B to $11.5B; sales dropped 23% in 2024 as chip demand slows &lpar;Ian King/Bloomberg&rpar;](http://www.techmeme.com/250219/p11#a250219p11)
- - [Source: in text messages, Libra co-creator Hayden Davis bragged he could &quot;control&quot; Argentine President Javier Milei due to payments to Milei&#39;s sister &lpar;Danny Nelson/CoinDesk&rpar;](http://www.techmeme.com/250219/p10#a250219p10)
- - [Trump’s first 100 days: all the news affecting the tech industry](https://www.theverge.com/24348851/donald-trump-presidency-tech-science-news)<!-- TECH:END -->
+ - [Source: in text messages, Libra co-creator Hayden Davis bragged he could &quot;control&quot; Argentine President Javier Milei due to payments to Milei&#39;s sister &lpar;Danny Nelson/CoinDesk&rpar;](http://www.techmeme.com/250219/p10#a250219p10)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

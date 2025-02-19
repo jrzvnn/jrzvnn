@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Why men live shorter lives than women?](http://9gag.com/gag/abA1y4X)
- - 😝 [That&#39;s the most two stroky four Stroke ever](http://9gag.com/gag/ary3K97)
- - 💣 [You broke the code!!](http://9gag.com/gag/aRB4Q12)
- - 😝 [Rich guy thinks he can just headbutt people and gets taught a valuable lesson in life.](http://9gag.com/gag/aQzvppe)
- - 👉 [Wow, that was... unexpected](http://9gag.com/gag/a345B23)<!-- MEMES:END -->
+ - 😝 [A new level of rejection.](http://9gag.com/gag/aE061Ve)
+ - 😝 [Floorman working an oil rig](http://9gag.com/gag/azxdjPb)
+ - 💣 [Yasuke who??](http://9gag.com/gag/aVvoQyw)
+ - 😝 [Bights, bights is good](http://9gag.com/gag/a7oOy5e)
+ - 👉 [Family stuff](http://9gag.com/gag/apR3qO8)<!-- MEMES:END -->
 
 ---
 

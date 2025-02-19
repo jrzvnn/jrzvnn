@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Hexaware Technologies&#39; stock rose as much as 10% on its trading debut, valuing the company at ~$5.44B, after the IT services firm raised $1B in its Indian IPO &lpar;Nandan Mandayam/Reuters&rpar;](http://www.techmeme.com/250219/p7#a250219p7)
  - [In a breakthrough, University of Oxford scientists sent the first quantum algorithm wirelessly between two separate quantum processors via particle entanglement &lpar;Jorge Garay/Wired&rpar;](http://www.techmeme.com/250219/p6#a250219p6)
  - [Some US ByteDance investors argue that they don&#39;t need US TikTok for success, as China, which accounts for 80% of ByteDance&#39;s revenue, is the real driving force &lpar;Bloomberg&rpar;](http://www.techmeme.com/250219/p5#a250219p5)
  - [Sources: Meta has led the charge against the EU&#39;s AI Act this year, as Big Tech, with backing from President Trump, grows bolder in challenging EU regulations &lpar;Financial Times&rpar;](http://www.techmeme.com/250219/p4#a250219p4)
- - [H&amp;R Block Coupons and Deals: $50 Off Tax Prep in 2025](https://www.wired.com/story/hr-block-coupon/)
- - [Best Pillows for Back Sleepers in 2025](https://www.cnet.com/health/sleep/best-pillows-for-back-sleepers/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [H&amp;R Block Coupons and Deals: $50 Off Tax Prep in 2025](https://www.wired.com/story/hr-block-coupon/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [The Bluetooth device connected successfully](http://9gag.com/gag/aXPMwov)
- - 😝 [How to crush garlic efficiently](http://9gag.com/gag/aD26moK)
- - 💣 [A liquor store owner in South Africa made a group of thieves drink the alcohol they tried to steal](http://9gag.com/gag/aoy393e)
- - 😝 [Cheers to you, you bastards!](http://9gag.com/gag/a5Q6PWE)
- - 👉 [Quick Mafs](http://9gag.com/gag/aRB4e0Q)<!-- MEMES:END -->
+ - 😝 [Trees are free](http://9gag.com/gag/a7oOdn2)
+ - 😝 [Nice cosplay](http://9gag.com/gag/aW476V6)
+ - 💣 [John Travolta is 71 today! Happy birthday](http://9gag.com/gag/ae916qv)
+ - 😝 [Podophilia](http://9gag.com/gag/azxdARz)
+ - 👉 [Man builds a 3D chopping board using an extensive process](http://9gag.com/gag/aRB4eoB)<!-- MEMES:END -->
 
 ---
 

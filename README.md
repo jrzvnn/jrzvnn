@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Step aside Ubisoft, there&#39;s a new masterpiece in town](http://9gag.com/gag/aO8ebmy)
- - 😝 [Bights, bights is good](http://9gag.com/gag/a7oOy5e)
- - 💣 [So is it that easy?](http://9gag.com/gag/aAy6Y9o)
- - 😝 [Yasuke who??](http://9gag.com/gag/aVvoQyw)
- - 👉 [How to crush garlic efficiently](http://9gag.com/gag/aD26moK)<!-- MEMES:END -->
+ - 😝 [Floorman working an oil rig](http://9gag.com/gag/azxdjPb)
+ - 😝 [Cheers to you, you bastards!](http://9gag.com/gag/a5Q6PWE)
+ - 💣 [Yasuke who??](http://9gag.com/gag/aVvoQyw)
+ - 😝 [How to crush garlic efficiently](http://9gag.com/gag/aD26moK)
+ - 👉 [So is it that easy?](http://9gag.com/gag/aAy6Y9o)<!-- MEMES:END -->
 
 ---
 

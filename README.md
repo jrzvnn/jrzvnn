@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [A new level of rejection.](http://9gag.com/gag/aE061Ve)
- - 😝 [Bro Just found the Cheat Code](http://9gag.com/gag/a6ZXywe)
- - 💣 [Wonder what all the fatties who were behind her have to say](http://9gag.com/gag/azxdjGm)
- - 😝 [Quick Mafs](http://9gag.com/gag/aRB4e0Q)
- - 👉 [So is it that easy?](http://9gag.com/gag/aAy6Y9o)<!-- MEMES:END -->
+ - 😝 [Nice cosplay](http://9gag.com/gag/aW476V6)
+ - 😝 [The Bluetooth device connected successfully](http://9gag.com/gag/aXPMwov)
+ - 💣 [So many homeless girls in Tokyo.](http://9gag.com/gag/ary3KQd)
+ - 😝 [So is it that easy?](http://9gag.com/gag/aAy6Y9o)
+ - 👉 [Bro Just found the Cheat Code](http://9gag.com/gag/a6ZXywe)<!-- MEMES:END -->
 
 ---
 

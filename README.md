@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [New iPhone 16e offers Apple Intelligence at a low price point](https://appleinsider.com/articles/25/02/19/new-iphone-16e-offers-apple-intelligence-at-a-low-price-point?utm_medium=rss)
- - [Lambda, which offers cloud services and computers to train AI, raised a $480M Series D, sources say at a $2.5B valuation, taking its total funding to $863M &lpar;Krystal Hu/Reuters&rpar;](http://www.techmeme.com/250219/p38#a250219p38)
- - [iPhone 17 Air rumored to feature titanium frame and support for 35W fast charging](https://appleinsider.com/articles/25/02/18/iphone-17-air-rumored-to-feature-titanium-frame-and-support-for-35w-fast-charging?utm_medium=rss)
- - [iPhone SE, iPhone 14, iPhone 14 Plus are all retired with iPhone 16e launch](https://appleinsider.com/articles/25/02/19/iphone-se-iphone-14-iphone-14-plus-are-all-retired-with-iphone-16e-launch?utm_medium=rss)
- - [iPhone 16E: all the news on Apple’s new $599 phone](https://www.theverge.com/news/615399/apple-iphone-16e-event-specs-price-release-date-se)<!-- TECH:END -->
+ - [iPhone 16e lacks Ultra Wideband tracking and Thread radio](https://appleinsider.com/articles/25/02/19/iphone-16e-lacks-ultra-wideband-tracking-and-thread-radio?utm_medium=rss)
+ - [Trump’s first 100 days: all the news affecting the tech industry](https://www.theverge.com/24348851/donald-trump-presidency-tech-science-news)
+ - [iPhone 16E: all the news on Apple’s new $599 phone](https://www.theverge.com/news/615399/apple-iphone-16e-event-specs-price-release-date-se)
+ - [Apple launches the iPhone 16E](https://www.theverge.com/news/609204/apple-iphone-16e-price-release-date-specs-a18-notch-face-id)
+ - [Google Chrome is adding a Circle to Search-like feature for iPhones](https://www.theverge.com/news/615097/google-lens-gestures-ios-iphone-circle-to-search)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

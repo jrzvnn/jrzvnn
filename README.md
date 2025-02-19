@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple forcefully refutes UK&#39;s claims about mobile browsing](https://appleinsider.com/articles/25/02/19/apple-forcefully-refutes-uks-claims-about-mobile-browsing?utm_medium=rss)
- - [Everything we think we know about the next iPhone SE](https://www.theverge.com/news/608210/iphone-se-rumors-release-date-price-specs-face-id-camera-notch)
- - [In 2024, sanctioned jurisdictions and entities received $15.8B in crypto, or ~39% of all illicit crypto transactions; Tornado Cash inflows jumped 108% from 2023 &lpar;Chainalysis&rpar;](http://www.techmeme.com/250219/p19#a250219p19)
- - [The Humane AI Pin never had a chance](https://www.theverge.com/gadgets/615135/humane-ai-pin-shutdown-disaster)
- - [Humane’s AI Pin: all the news about the dead AI-powered wearable](https://www.theverge.com/2023/11/9/23954497/humane-ai-pin-wearable-news-announcements)<!-- TECH:END -->
+ - [Crunchbase launches AI tools to predict where startups are heading, including funding, acquisitions, and IPOs, based on its 17 years of startup data &lpar;Belle Lin/Wall Street Journal&rpar;](http://www.techmeme.com/250219/p22#a250219p22)
+ - [From ChatGPT to Gemini: how AI is rewriting the internet](https://www.theverge.com/23610427/chatbots-chatgpt-new-bing-google-bard-conversational-ai)
+ - [Binance.US resumes USD deposits and withdrawals for the first time since June 2023, when the SEC sued Binance, Binance.US, and co-founder Changpeng Zhao &lpar;James Hunt/The Block&rpar;](http://www.techmeme.com/250219/p21#a250219p21)
+ - [The women who made America’s microchips and the children who paid for it](https://www.theverge.com/features/611297/manufacturing-workers-semiconductor-computer-chip-birth-defect)
+ - [Nvidia GeForce RTX 5070 Ti review: a cheaper RTX 4080](https://www.theverge.com/gpu-reviews/615075/nvidia-rtx-5070-ti-review-test-benchmark)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

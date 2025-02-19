@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Your Next Pet Could Be a Glowing Rabbit](https://www.wired.com/story/your-next-pet-could-be-a-glowing-rabbit-los-angeles-project-gene-editing-crispr/)
  - [Trump’s first 100 days: all the news affecting the tech industry](https://www.theverge.com/24348851/donald-trump-presidency-tech-science-news)
+ - [Google is bringing Circle to Search-like visual searches to its Chrome and Google iOS apps, without the Circle to Search branding &lpar;Adamya Sharma/Android Authority&rpar;](http://www.techmeme.com/250219/p41#a250219p41)
  - [iPhone 16E: all the news on Apple’s new $599 phone](https://www.theverge.com/news/615399/apple-iphone-16e-event-specs-price-release-date-se)
- - [Apple Intelligence language extensions to Chinese, French &amp; more coming in April](https://appleinsider.com/articles/25/02/19/apple-intelligence-language-extensions-to-chinese-french-more-coming-in-april?utm_medium=rss)
- - [This 1.9-pound smartphone’s massive battery offers six months of standby](https://www.theverge.com/news/615369/oukitel-wp100-titan-smartphone-battery-life-projector-flashlight-kickstarter)<!-- TECH:END -->
+ - [Apple no longer sells new iPhones with Lightning ports](https://www.theverge.com/news/615612/apple-iphone-lightning-ports-usb-c)
+ - [The Rabbit R1: all the latest news about this hare-raising AI gadget](https://www.theverge.com/2024/1/18/24042688/rabbit-r1-ai-gadget-handheld-news-updates-storystream)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

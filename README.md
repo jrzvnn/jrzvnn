@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [iPhone 16E: all the news on Apple’s new $599 phone](https://www.theverge.com/news/615399/apple-iphone-16e-event-specs-price-release-date-se)
- - [Apple&#39;s iPhone 16e announcement takes a familiar approach](https://appleinsider.com/articles/25/02/19/apples-iphone-16e-announcement-takes-a-familiar-approach?utm_medium=rss)
- - [Murena released a de-Googled version of the Pixel Tablet](https://www.theverge.com/news/615195/murena-pixel-tablet-android-google-privacy-security)
- - [The legacy of the iPhone SE lives on in the iPhone 16e](https://appleinsider.com/articles/25/02/19/the-legacy-of-the-iphone-se-lives-on-in-the-iphone-16e?utm_medium=rss)
- - [Apple has officially killed off the Home Button](https://appleinsider.com/articles/25/02/19/apple-has-officially-killed-off-the-home-button?utm_medium=rss)<!-- TECH:END -->
+ - [Trump’s first 100 days: all the news affecting the tech industry](https://www.theverge.com/24348851/donald-trump-presidency-tech-science-news)
+ - [This 1.9-pound smartphone’s massive battery offers six months of standby](https://www.theverge.com/news/615369/oukitel-wp100-titan-smartphone-battery-life-projector-flashlight-kickstarter)
+ - [Nightreign is shaping up to be a fast and frantic take on Elden Ring](https://www.theverge.com/games/614995/elden-ring-nightreign-tests-verge-staff-thoughts)
+ - [AheadComputing, a startup co-founded by former Intel execs and engineers that aims to build RISC-V chip technology, raised a $21.5 seed led by Eclipse Ventures &lpar;Max A. Cherney/Reuters&rpar;](http://www.techmeme.com/250219/p40#a250219p40)
+ - [iPhone 16E: all the news on Apple’s new $599 phone](https://www.theverge.com/news/615399/apple-iphone-16e-event-specs-price-release-date-se)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Sources: Chinese game publisher NetEase has been directed to divest its overseas holdings, starting with Marvel Rivals, which laid off its Seattle team &lpar;VentureBeat&rpar;](http://www.techmeme.com/250219/p12#a250219p12)
  - [A Signal Update Fends Off a Phishing Technique Used in Russian Espionage](https://www.wired.com/story/russia-signal-qr-code-phishing-attack/)
  - [Analog Devices, one of the largest analog chip makers, increases its stock buyback program by $10B to $11.5B; sales dropped 23% in 2024 as chip demand slows &lpar;Ian King/Bloomberg&rpar;](http://www.techmeme.com/250219/p11#a250219p11)
  - [Source: in text messages, Libra co-creator Hayden Davis bragged he could &quot;control&quot; Argentine President Javier Milei due to payments to Milei&#39;s sister &lpar;Danny Nelson/CoinDesk&rpar;](http://www.techmeme.com/250219/p10#a250219p10)
- - [Trump’s first 100 days: all the news affecting the tech industry](https://www.theverge.com/24348851/donald-trump-presidency-tech-science-news)
- - [Last-Minute iPhone SE 4 Rumors: Apple&#39;s New Phone Could Be Called the iPhone 16E](https://www.cnet.com/tech/mobile/last-minute-iphone-se-4-rumors-apples-new-phone-could-be-called-the-iphone-16e/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Trump’s first 100 days: all the news affecting the tech industry](https://www.theverge.com/24348851/donald-trump-presidency-tech-science-news)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

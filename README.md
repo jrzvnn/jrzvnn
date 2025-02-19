@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [NetEase says it&amp;#8217;s &amp;#8216;investing more&amp;#8217; in Marvel Rivals despite layoffs](https://www.theverge.com/news/615288/marvel-rivals-layoffs-netease-overseas-investments)
- - [iPhone 16E: all the news on Apple’s new $599 phone](https://www.theverge.com/news/615399/apple-iphone-16e-event-specs-price-release-date-se)
- - [Laptop Prices Increasing 10% Due to Tariffs, Acer CEO Says](https://www.cnet.com/tech/computing/laptop-prices-increasing-10-due-to-tariffs-acer-ceo-says/#ftag=CAD590a51e)
- - [iPhone 16e is clearly targeted at iPhone 11 and iPhone 12 owners](https://appleinsider.com/articles/25/02/19/iphone-16e-is-clearly-targeted-at-iphone-11-and-iphone-12-owners?utm_medium=rss)
- - [iPhone 16e doesn&#39;t have MagSafe](https://appleinsider.com/articles/25/02/19/iphone-16e-doesnt-have-magsafe?utm_medium=rss)<!-- TECH:END -->
+ - [New iPhone 16e offers Apple Intelligence at a low price point](https://appleinsider.com/articles/25/02/19/new-iphone-16e-offers-apple-intelligence-at-a-low-price-point?utm_medium=rss)
+ - [Lambda, which offers cloud services and computers to train AI, raised a $480M Series D, sources say at a $2.5B valuation, taking its total funding to $863M &lpar;Krystal Hu/Reuters&rpar;](http://www.techmeme.com/250219/p38#a250219p38)
+ - [iPhone 17 Air rumored to feature titanium frame and support for 35W fast charging](https://appleinsider.com/articles/25/02/18/iphone-17-air-rumored-to-feature-titanium-frame-and-support-for-35w-fast-charging?utm_medium=rss)
+ - [iPhone SE, iPhone 14, iPhone 14 Plus are all retired with iPhone 16e launch](https://appleinsider.com/articles/25/02/19/iphone-se-iphone-14-iphone-14-plus-are-all-retired-with-iphone-16e-launch?utm_medium=rss)
+ - [iPhone 16E: all the news on Apple’s new $599 phone](https://www.theverge.com/news/615399/apple-iphone-16e-event-specs-price-release-date-se)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

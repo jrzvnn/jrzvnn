@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Why men live shorter lives than women?](http://9gag.com/gag/abA1y4X)
- - 😝 [Andrew\u2019s Tate\u2019s delusions meet their fate.](http://9gag.com/gag/aQzvpQz)
- - 💣 [So many homeless girls in Tokyo.](http://9gag.com/gag/ary3KQd)
- - 😝 [Step aside Ubisoft, there&#39;s a new masterpiece in town](http://9gag.com/gag/aO8ebmy)
- - 👉 [A new level of rejection.](http://9gag.com/gag/aE061Ve)<!-- MEMES:END -->
+ - 😝 [A new level of rejection.](http://9gag.com/gag/aE061Ve)
+ - 😝 [Bro Just found the Cheat Code](http://9gag.com/gag/a6ZXywe)
+ - 💣 [Wonder what all the fatties who were behind her have to say](http://9gag.com/gag/azxdjGm)
+ - 😝 [Quick Mafs](http://9gag.com/gag/aRB4e0Q)
+ - 👉 [So is it that easy?](http://9gag.com/gag/aAy6Y9o)<!-- MEMES:END -->
 
 ---
 

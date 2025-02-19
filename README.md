@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [iPhone 16e lacks Ultra Wideband tracking and Thread radio](https://appleinsider.com/articles/25/02/19/iphone-16e-lacks-ultra-wideband-tracking-and-thread-radio?utm_medium=rss)
- - [Trump’s first 100 days: all the news affecting the tech industry](https://www.theverge.com/24348851/donald-trump-presidency-tech-science-news)
  - [iPhone 16E: all the news on Apple’s new $599 phone](https://www.theverge.com/news/615399/apple-iphone-16e-event-specs-price-release-date-se)
- - [Apple launches the iPhone 16E](https://www.theverge.com/news/609204/apple-iphone-16e-price-release-date-specs-a18-notch-face-id)
- - [Google Chrome is adding a Circle to Search-like feature for iPhones](https://www.theverge.com/news/615097/google-lens-gestures-ios-iphone-circle-to-search)<!-- TECH:END -->
+ - [The legacy of the iPhone SE lives on in the iPhone 16e](https://appleinsider.com/articles/25/02/19/the-legacy-of-the-iphone-se-lives-on-in-the-iphone-16e?utm_medium=rss)
+ - [Apple has officially killed off the Home Button](https://appleinsider.com/articles/25/02/19/apple-has-officially-killed-off-the-home-button?utm_medium=rss)
+ - [How the new iPhone 16E compares to the rest of Apple’s iPhone 16 lineup](https://www.theverge.com/news/614746/apple-iphone-16e-se-comparison)
+ - [8 important things to know about the iPhone 16E](https://www.theverge.com/news/615418/apple-iphone-16e-important-details)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

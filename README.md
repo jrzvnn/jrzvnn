@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Best Workout Headphones We Tested and Sweated In &lpar;2025&rpar;](https://www.wired.com/gallery/best-workout-headphones/)
  - [TMTG and Rumble sue a Brazilian Supreme Court Justice in Florida for allegedly illegally suppressing the US social media activity of conservative Brazilians &lpar;Erik Larson/Bloomberg&rpar;](http://www.techmeme.com/250219/p25#a250219p25)
  - [Google launches an AI co-scientist, a new Gemini 2.0-based system to help scientists create novel hypotheses and research plans, available to select testers &lpar;Melissa Heikkil&amp;auml;/Financial Times&rpar;](http://www.techmeme.com/250219/p24#a250219p24)
  - [EV truck maker Nikola goes bust](https://www.theverge.com/news/615196/nikola-bankrupt-ev-truck-chapter-11)
- - [Nvidia RTX 5070 Ti review: a capable GPU for 4K gaming, DLSS 4 multi-frame gen, and runs cool, but prices fluctuate wildly and $750 is expensive for mid-range &lpar;Devindra Hardawar/Engadget&rpar;](http://www.techmeme.com/250219/p23#a250219p23)
- - [Crunchbase launches AI tools to predict where startups are heading, including funding, acquisitions, and IPOs, based on its 17 years of startup data &lpar;Belle Lin/Wall Street Journal&rpar;](http://www.techmeme.com/250219/p22#a250219p22)<!-- TECH:END -->
+ - [Nvidia RTX 5070 Ti review: a capable GPU for 4K gaming, DLSS 4 multi-frame gen, and runs cool, but prices fluctuate wildly and $750 is expensive for mid-range &lpar;Devindra Hardawar/Engadget&rpar;](http://www.techmeme.com/250219/p23#a250219p23)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

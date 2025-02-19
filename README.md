@@ -158,10 +158,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- TECH:START -->
  - [Humane’s AI Pin: all the news about the dead AI-powered wearable](https://www.theverge.com/2023/11/9/23954497/humane-ai-pin-wearable-news-announcements)
+ - [Save Up to 50% on a Personalized Smart Bed from Sleep Number](https://www.cnet.com/health/sleep/save-up-to-50-percent-on-a-personalized-smart-bed-from-sleep-number/#ftag=CAD590a51e)
  - [Fiverr wants freelancers to create AI models](https://www.theverge.com/news/615252/fiverr-go-freelancer-ai-models)
- - [Verkada, which makes smart cameras, alarms, sensors, and more for enterprises, raised a $200M Series E at a $4.5B valuation, up from $3.2B in September 2022 &lpar;Allie Garfinkle/Fortune&rpar;](http://www.techmeme.com/250219/p27#a250219p27)
- - [Sources: Alibaba and others approached DeepSeek about funding after its rise, but CEO Liang Wenfeng is cautious; High-Flyer is discussing a pivot from research &lpar;The Information&rpar;](http://www.techmeme.com/250219/p26#a250219p26)
- - [Best Workout Headphones We Tested and Sweated In &lpar;2025&rpar;](https://www.wired.com/gallery/best-workout-headphones/)<!-- TECH:END -->
+ - [&#39;Win or Lose&#39;: How to Watch the Pixar Original Series From Anywhere](https://www.cnet.com/tech/services-and-software/win-or-lose-how-to-watch-the-pixar-original-series-from-anywhere/#ftag=CAD590a51e)
+ - [Verkada, which makes smart cameras, alarms, sensors, and more for enterprises, raised a $200M Series E at a $4.5B valuation, up from $3.2B in September 2022 &lpar;Allie Garfinkle/Fortune&rpar;](http://www.techmeme.com/250219/p27#a250219p27)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

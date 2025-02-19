@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [The Bluetooth device connected successfully](http://9gag.com/gag/aXPMwov)
  - 😝 [How to crush garlic efficiently](http://9gag.com/gag/aD26moK)
- - 💣 [Quick Mafs](http://9gag.com/gag/aRB4e0Q)
- - 😝 [So many homeless girls in Tokyo.](http://9gag.com/gag/ary3KQd)
- - 👉 [Yasuke who??](http://9gag.com/gag/aVvoQyw)<!-- MEMES:END -->
+ - 😝 [Levitate and Vanish a table.](http://9gag.com/gag/aAy61L0)
+ - 💣 [A liquor store owner in South Africa made a group of thieves drink the alcohol they tried to steal](http://9gag.com/gag/aoy393e)
+ - 😝 [Yasuke who??](http://9gag.com/gag/aVvoQyw)
+ - 👉 [Quick Mafs](http://9gag.com/gag/aRB4e0Q)<!-- MEMES:END -->
 
 ---
 

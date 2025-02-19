@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Google Lens-powered Screen Search arrives for Chrome on iPhone](https://appleinsider.com/articles/25/02/19/google-lens-powered-screen-search-arrives-for-chrome-on-iphone?utm_medium=rss)
  - [Trump’s first 100 days: all the news affecting the tech industry](https://www.theverge.com/24348851/donald-trump-presidency-tech-science-news)
  - [Google is bringing Circle to Search-like visual searches to its Chrome and Google iOS apps, without the Circle to Search branding &lpar;Adamya Sharma/Android Authority&rpar;](http://www.techmeme.com/250219/p41#a250219p41)
  - [iPhone 16E: all the news on Apple’s new $599 phone](https://www.theverge.com/news/615399/apple-iphone-16e-event-specs-price-release-date-se)
- - [Apple no longer sells new iPhones with Lightning ports](https://www.theverge.com/news/615612/apple-iphone-lightning-ports-usb-c)
- - [The Rabbit R1: all the latest news about this hare-raising AI gadget](https://www.theverge.com/2024/1/18/24042688/rabbit-r1-ai-gadget-handheld-news-updates-storystream)<!-- TECH:END -->
+ - [Apple no longer sells new iPhones with Lightning ports](https://www.theverge.com/news/615612/apple-iphone-lightning-ports-usb-c)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

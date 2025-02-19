@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Fiverr wants freelancers to create AI models](https://www.theverge.com/news/615252/fiverr-go-freelancer-ai-models)
  - [Verkada, which makes smart cameras, alarms, sensors, and more for enterprises, raised a $200M Series E at a $4.5B valuation, up from $3.2B in September 2022 &lpar;Allie Garfinkle/Fortune&rpar;](http://www.techmeme.com/250219/p27#a250219p27)
  - [Sources: Alibaba and others approached DeepSeek about funding after its rise, but CEO Liang Wenfeng is cautious; High-Flyer is discussing a pivot from research &lpar;The Information&rpar;](http://www.techmeme.com/250219/p26#a250219p26)
  - [Best Workout Headphones We Tested and Sweated In &lpar;2025&rpar;](https://www.wired.com/gallery/best-workout-headphones/)
- - [TMTG and Rumble sue a Brazilian Supreme Court Justice in Florida for allegedly illegally suppressing the US social media activity of conservative Brazilians &lpar;Erik Larson/Bloomberg&rpar;](http://www.techmeme.com/250219/p25#a250219p25)
- - [Google launches an AI co-scientist, a new Gemini 2.0-based system to help scientists create novel hypotheses and research plans, available to select testers &lpar;Melissa Heikkil&amp;auml;/Financial Times&rpar;](http://www.techmeme.com/250219/p24#a250219p24)<!-- TECH:END -->
+ - [TMTG and Rumble sue a Brazilian Supreme Court Justice in Florida for allegedly illegally suppressing the US social media activity of conservative Brazilians &lpar;Erik Larson/Bloomberg&rpar;](http://www.techmeme.com/250219/p25#a250219p25)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -166,10 +166,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Bro Just found the Cheat Code](http://9gag.com/gag/a6ZXywe)
- - 😝 [Nice cosplay](http://9gag.com/gag/aW476V6)
- - 💣 [Average cave explorer&#39;s day](http://9gag.com/gag/a9y67Q0)
- - 😝 [The Bluetooth device connected successfully](http://9gag.com/gag/aXPMwov)
+ - 😝 [Yasuke who??](http://9gag.com/gag/aVvoQyw)
+ - 😝 [A new level of rejection.](http://9gag.com/gag/aE061Ve)
+ - 💣 [Quick Mafs](http://9gag.com/gag/aRB4e0Q)
+ - 😝 [Do I need a title? I hope you will collapse to the end.](http://9gag.com/gag/a6ZX7Ne)
  - 👉 [Thieves](http://9gag.com/gag/adB1jv2)<!-- MEMES:END -->
 
 ---

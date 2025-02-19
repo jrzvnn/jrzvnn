@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Rivian’s new Dune edition lets you channel your inner Fremen](https://www.theverge.com/news/615556/rivian-california-dune-edition-price-specs-ev-offroad)
  - [Hades II gets a big update with a final boss and more story](https://www.theverge.com/news/615857/hades-ii-2-warsong-update)
  - [All the news about Nvidia’s RTX 50-series GPUs](https://www.theverge.com/2025/1/25/24351798/nvidia-rtx-5090-5080-5070-gpu-news-rumors)
  - [Filings: US Army soldier Cameron John Wagenius pleads guilty to hacking AT&amp;T and Verizon and stealing a massive trove of phone records from them last year &lpar;Lorenzo Franceschi-Bicchierai/TechCrunch&rpar;](http://www.techmeme.com/250219/p43#a250219p43)
- - [iPhone 16e vs iPhone 16: A new Apple Intelligence-powered entry-level option](https://appleinsider.com/inside/iphone-16e/vs/iphone-16e-vs-iphone-16-a-new-apple-intelligence-powered-entry-level-option?utm_medium=rss)
- - [Here’s when and where you can preorder the new iPhone 16E](https://www.theverge.com/good-deals/609618/iphone-16e-preorder-how-to-buy-price-release-date)<!-- TECH:END -->
+ - [iPhone 16e vs iPhone 16: A new Apple Intelligence-powered entry-level option](https://appleinsider.com/inside/iphone-16e/vs/iphone-16e-vs-iphone-16-a-new-apple-intelligence-powered-entry-level-option?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

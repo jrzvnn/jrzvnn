@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Poor cleaners](http://9gag.com/gag/aGyn0Oz)
- - 😝 [Carl Emil Pettersson. Legend!](http://9gag.com/gag/ary3Nyy)
- - 💣 [Jungle is massive](http://9gag.com/gag/aMVB9m6)
+ - 😝 [Japan is truly on a different planet](http://9gag.com/gag/aPAmWYQ)
+ - 😝 [How to crush garlic efficiently](http://9gag.com/gag/aD26moK)
+ - 💣 [Quick Mafs](http://9gag.com/gag/aRB4e0Q)
  - 😝 [Camouflage can\u2019t hide those](http://9gag.com/gag/aKGAPd1)
- - 👉 [So many homeless girls in Tokyo.](http://9gag.com/gag/ary3KQd)<!-- MEMES:END -->
+ - 👉 [The Bluetooth device connected successfully](http://9gag.com/gag/aXPMwov)<!-- MEMES:END -->
 
 ---
 

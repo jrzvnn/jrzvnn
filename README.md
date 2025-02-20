@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Germans can&#39;t use Berlin subway](http://9gag.com/gag/ary35od)
+ - 😝 [Fun facts](http://9gag.com/gag/a7oOrZm)
  - 😝 [I\u2019d treasure them](http://9gag.com/gag/aXPMvPg)
  - 💣 [Filter life](http://9gag.com/gag/an7Rjen)
- - 😝 [Gender equality is going too far](http://9gag.com/gag/aqyXLpv)
- - 👉 [Floorman working an oil rig](http://9gag.com/gag/azxdjPb)<!-- MEMES:END -->
+ - 😝 [Floorman working an oil rig](http://9gag.com/gag/azxdjPb)
+ - 👉 [Gender equality is going too far](http://9gag.com/gag/aqyXLpv)<!-- MEMES:END -->
 
 ---
 

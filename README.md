@@ -167,10 +167,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [Germans can&#39;t use Berlin subway](http://9gag.com/gag/ary35od)
- - 😝 [He took it like a little B.... man.. MAN..](http://9gag.com/gag/aE06nz9)
- - 💣 [Lemme check da door](http://9gag.com/gag/a5Q6ZVr)
+ - 😝 [Lemme check da door](http://9gag.com/gag/a5Q6ZVr)
+ - 💣 [Drugs, not hugs](http://9gag.com/gag/aW4765x)
  - 😝 [Pop goes the weasel](http://9gag.com/gag/a1mNKAw)
- - 👉 [Grandpa...](http://9gag.com/gag/aD26GoZ)<!-- MEMES:END -->
+ - 👉 [FBI](http://9gag.com/gag/a9y6rqD)<!-- MEMES:END -->
 
 ---
 

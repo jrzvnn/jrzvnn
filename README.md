@@ -167,9 +167,9 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [Floorman working an oil rig](http://9gag.com/gag/azxdjPb)
- - 😝 [I\u2019d treasure them](http://9gag.com/gag/aXPMvPg)
+ - 😝 [Fun facts](http://9gag.com/gag/a7oOrZm)
  - 💣 [Gender equality is going too far](http://9gag.com/gag/aqyXLpv)
- - 😝 [Well, this is the most random thing I&#39;ve read in a while.](http://9gag.com/gag/aAy6dQ2)
+ - 😝 [Germans can&#39;t use Berlin subway](http://9gag.com/gag/ary35od)
  - 👉 [One for all you Tarantinos. I&#39;d rather see the bottom part...](http://9gag.com/gag/ae91b4W)<!-- MEMES:END -->
 
 ---

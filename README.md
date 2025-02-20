@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Together AI, which provides users access to AI computing, raised $305M co-led by General Catalyst and Saudi Arabia&#39;s Prosperity7 at a $3.3B valuation &lpar;Paayal Zaveri/Bloomberg&rpar;](http://www.techmeme.com/250220/p20#a250220p20)
- - [It’s clearly time: all the news about the transparent tech renaissance](https://www.theverge.com/23774468/clear-transparent-tech-gadgets-news-announcements-products)
- - [Sources: a US grand jury is investigating criminal misconduct at fintech Synapse, where up to $96M in user funds went missing, and has questioned an executive &lpar;Alexander Saeedy/Wall Street Journal&rpar;](http://www.techmeme.com/250220/p19#a250220p19)
- - [The European Commission approves &amp;euro;920M in German state aid to Infineon to build a new chip plant in Dresden, set to reach full capacity in 2031 &lpar;Reuters&rpar;](http://www.techmeme.com/250220/p18#a250220p18)
- - [The iPhone is done with home buttons — here’s why I’ll miss it](https://www.theverge.com/iphone/612463/iphone-16e-home-button-gone)<!-- TECH:END -->
+ - [Investigation: Google&#39;s Display &amp; Video 360 ad platform lets users target Americans&#39; sensitive personal data, despite Google&#39;s rules against such practices &lpar;Wired&rpar;](http://www.techmeme.com/250220/p21#a250220p21)
+ - [New iPhone 16e offers Apple Intelligence at a low price point](https://appleinsider.com/articles/25/02/19/new-iphone-16e-offers-apple-intelligence-at-a-low-price-point?utm_medium=rss)
+ - [How to use your first iPhone, for beginners](https://appleinsider.com/inside/iphone/tips/how-to-use-your-first-iphone-for-beginners?utm_medium=rss)
+ - [ProtoArc XKM01 CaseUp Combo Review: A Reliable Portable Workstation](https://www.wired.com/review/protoarc-xkm01-caseup-combo/)
+ - [Together AI, which provides users access to AI computing, raised $305M co-led by General Catalyst and Saudi Arabia&#39;s Prosperity7 at a $3.3B valuation &lpar;Paayal Zaveri/Bloomberg&rpar;](http://www.techmeme.com/250220/p20#a250220p20)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

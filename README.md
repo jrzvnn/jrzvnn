@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Twitch is limiting streamers to 100 hours of Highlights and Uploads](https://www.theverge.com/news/616296/twitch-storage-cap-highlights-uploads-speedrunning)
+ - [Alibaba reports Q3 revenue up 8% YoY to ~$38.6B, the fastest growth in over a year and above ~$38B est., and a ~$6.7B net income, as AI boosts its business &lpar;Bloomberg&rpar;](http://www.techmeme.com/250220/p9#a250220p9)
  - [Nansen: 86% of traders lost $251M in total on the Solana memecoin Libra that Argentine President Milei promoted, while the remaining traders profited $180M &lpar;RT Watson/The Block&rpar;](http://www.techmeme.com/250220/p8#a250220p8)
  - [Palantir&#39;s stock fell 10% on February 19 after the WaPo reported US Defense Secretary Pete Hegseth plans to cut military spending; PLTR is up 50%+ in 2025 &lpar;Lizette Chapman/Bloomberg&rpar;](http://www.techmeme.com/250220/p7#a250220p7)
- - [Tubi Is Not the Next Netflix. It’s Something Better](https://www.wired.com/story/tubi-is-not-the-next-netflix-its-something-better/)
- - [Global Witness: ahead of German elections, TikTok&#39;s and X&#39;s For You feeds showed a substantial far-right bias; 78% of TikTok&#39;s recommendations supported the AfD &lpar;Natasha Lomas/TechCrunch&rpar;](http://www.techmeme.com/250220/p6#a250220p6)
- - [Russian search and ad giant Yandex reports 2024 revenue up 37% YoY to a record ~$12.3B and expects 2025 revenue up 30%+, after splitting from Nebius Group &lpar;Reuters&rpar;](http://www.techmeme.com/250220/p5#a250220p5)<!-- TECH:END -->
+ - [Tubi Is Not the Next Netflix. It’s Something Better](https://www.wired.com/story/tubi-is-not-the-next-netflix-its-something-better/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

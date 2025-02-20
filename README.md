@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Canon’s new PowerShot V1 puts video first](https://www.theverge.com/news/616351/canon-powershot-v1-vlogging-camera-photography-video-4k)
+ - [My Posture Is Wrecked From Work. This Device Is Helping Undo the Damage](https://www.wired.com/story/work-has-given-me-tech-neck-this-godsend-device-is-undoing-the-damage/)
  - [Nvidia launches Signs, a new AI platform to teach American Sign Language and create a validated dataset for sign language learners and ASL app developers &lpar;Dean Takahashi/VentureBeat&rpar;](http://www.techmeme.com/250220/p25#a250220p25)
  - [All the smart home news, reviews, and gadgets you need to know about](https://www.theverge.com/24190824/smart-home-news-reviews-guides-gadgets)
- - [How the iPhone 16e mostly improves the Action Button](https://appleinsider.com/articles/25/02/20/how-the-iphone-16e-mostly-improves-the-action-button?utm_medium=rss)
- - [AI hiring startup Mercor, founded by 21-year-old Thiel fellow Brendan Foody, raised $100M led by Felicis at a $2B valuation, up from $250M in September 2024 &lpar;Lizette Chapman/Bloomberg&rpar;](http://www.techmeme.com/250220/p24#a250220p24)
- - [Twelve South’s Find My-compatible charger is on sale starting at just $49](https://www.theverge.com/good-deals/615756/twelve-south-plugbug-find-my-charger-samsung-galaxy-buds-fe-deal-sale)<!-- TECH:END -->
+ - [How the iPhone 16e mostly improves the Action Button](https://appleinsider.com/articles/25/02/20/how-the-iphone-16e-mostly-improves-the-action-button?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

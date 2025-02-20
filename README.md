@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Quick Mafs](http://9gag.com/gag/aRB4e0Q)
- - 😝 [Lemme check da door](http://9gag.com/gag/a5Q6ZVr)
- - 💣 [Do I need a title? I hope you will collapse to the end.](http://9gag.com/gag/a6ZX7Ne)
- - 😝 [Levitate and Vanish a table.](http://9gag.com/gag/aAy61L0)
- - 👉 [The Bluetooth device connected successfully](http://9gag.com/gag/aXPMwov)<!-- MEMES:END -->
+ - 😝 [Padme?](http://9gag.com/gag/aoy30m2)
+ - 😝 [A parachute failure during a paratroopers drill](http://9gag.com/gag/aVvoXyd)
+ - 💣 [Yasuke who??](http://9gag.com/gag/aVvoQyw)
+ - 😝 [Japan is truly on a different planet](http://9gag.com/gag/aPAmWYQ)
+ - 👉 [Levitate and Vanish a table.](http://9gag.com/gag/aAy61L0)<!-- MEMES:END -->
 
 ---
 

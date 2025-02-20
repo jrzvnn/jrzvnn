@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Fun facts](http://9gag.com/gag/a7oOrZm)
- - 😝 [One for all you Tarantinos. I&#39;d rather see the bottom part...](http://9gag.com/gag/ae91b4W)
- - 💣 [Filter life](http://9gag.com/gag/an7Rjen)
- - 😝 [Gender equality is going too far](http://9gag.com/gag/aqyXLpv)
- - 👉 [I\u2019d treasure them](http://9gag.com/gag/aXPMvPg)<!-- MEMES:END -->
+ - 😝 [Detroit was flooded and it froze over night. Cars are stuck.](http://9gag.com/gag/avy1rbE)
+ - 😝 [The ice cream service was very satisfying.](http://9gag.com/gag/a9y6Axm)
+ - 💣 [I\u2019d treasure them](http://9gag.com/gag/aXPMvPg)
+ - 😝 [Archaeologist Khaled Al-Asaad dedicated his life to the excavation and preservation of Palmyra, a UNESCO World Heritage Site. After enduring weeks of torture, he was beheaded by ISIS for refusing to reveal the location of ancient artifacts. He died a hero of heritage protection.](http://9gag.com/gag/axy308M)
+ - 👉 [Whoa](http://9gag.com/gag/aAy6xg0)<!-- MEMES:END -->
 
 ---
 

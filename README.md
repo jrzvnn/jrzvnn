@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Lemme check da door](http://9gag.com/gag/a5Q6ZVr)
- - 😝 [People in my town are smiling and winking every time the `accident` is brought up.](http://9gag.com/gag/aQzv8DW)
- - 💣 [Grandpa...](http://9gag.com/gag/aD26GoZ)
- - 😝 [Gender equality is going too far](http://9gag.com/gag/aqyXLpv)
- - 👉 [He took it like a little B.... man.. MAN..](http://9gag.com/gag/aE06nz9)<!-- MEMES:END -->
+ - 😝 [He took it like a little B.... man.. MAN..](http://9gag.com/gag/aE06nz9)
+ - 😝 [Say what you want but that chickens looking good](http://9gag.com/gag/aO8eVME)
+ - 💣 [Blame Elmo!](http://9gag.com/gag/aVvoPR8)
+ - 😝 [The Luckiest Coworker Ever ...](http://9gag.com/gag/a2vwmDY)
+ - 👉 [Gender equality is going too far](http://9gag.com/gag/aqyXLpv)<!-- MEMES:END -->
 
 ---
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Blame Elmo!](http://9gag.com/gag/aVvoPR8)
- - 😝 [So many homeless girls in Tokyo.](http://9gag.com/gag/ary3KQd)
- - 💣 [A liquor store owner in South Africa made a group of thieves drink the alcohol they tried to steal](http://9gag.com/gag/aoy393e)
  - 😝 [Detroit was flooded and it froze over night. Cars are stuck.](http://9gag.com/gag/avy1rbE)
- - 👉 [Do I need a title? I hope you will collapse to the end.](http://9gag.com/gag/a6ZX7Ne)<!-- MEMES:END -->
+ - 😝 [Lemme check da door](http://9gag.com/gag/a5Q6ZVr)
+ - 💣 [Do I need a title? I hope you will collapse to the end.](http://9gag.com/gag/a6ZX7Ne)
+ - 😝 [Gender equality is going too far](http://9gag.com/gag/aqyXLpv)
+ - 👉 [Blame Elmo!](http://9gag.com/gag/aVvoPR8)<!-- MEMES:END -->
 
 ---
 

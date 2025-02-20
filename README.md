@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Kia unveils PV5 electric van as a futuristic people-mover](https://www.theverge.com/news/616711/kia-pv5-electric-van-exterior-pics)
- - [YouTube plans a premium lite tier in the US, Australia, Germany, and Thailand, offering podcasts and how-to clips without ads; music videos will have ads &lpar;Ashley Carman/Bloomberg&rpar;](http://www.techmeme.com/250220/p33#a250220p33)
- - [Initial M4 MacBook Air benchmark reveals same GPU power as M4 iPad Pro](https://appleinsider.com/articles/25/02/20/initial-m4-macbook-air-benchmark-reveals-same-gpu-power-as-m4-ipad-pro?utm_medium=rss)
- - [USDA Layoffs Derail Projects Benefiting American Farmers](https://www.wired.com/story/usda-layoffs-throw-climate-and-crop-projects-into-chaos/)
- - [Elon Musk says he will &quot;fix&quot; Community Notes as they are &quot;increasingly being gamed by governments &amp; legacy media&quot;, after disagreeing with notes about Ukraine &lpar;Matt Novak/Gizmodo&rpar;](http://www.techmeme.com/250220/p32#a250220p32)<!-- TECH:END -->
+ - [New Mac malware &#39;FrigidStealer&#39; spreads through fake browser updates](https://appleinsider.com/articles/25/02/20/new-mac-malware-frigidstealer-spreads-through-fake-browser-updates?utm_medium=rss)
+ - [DJI’s RS 4 Mini camera stabilizer can now track moving people](https://www.theverge.com/news/616642/dji-rs-4-mini-ronin-series-gimbal-stabilizer-camera-smartphone)
+ - [Trump’s first 100 days: all the news affecting the tech industry](https://www.theverge.com/24348851/donald-trump-presidency-tech-science-news)
+ - [The entire story of Twitter / X under Elon Musk](https://www.theverge.com/2022/4/11/23019836/elon-musk-twitter-board-of-directors-news-updates)
+ - [Kia unveils PV5 electric van as a futuristic people-mover](https://www.theverge.com/news/616711/kia-pv5-electric-van-exterior-pics)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

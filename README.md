@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [All the smart home news, reviews, and gadgets you need to know about](https://www.theverge.com/24190824/smart-home-news-reviews-guides-gadgets)
+ - [Tim Cook meets with President Trump at the White House](https://appleinsider.com/articles/25/02/20/tim-cook-is-meeting-with-president-trump-at-the-white-house?utm_medium=rss)
  - [Trump’s first 100 days: all the news affecting the tech industry](https://www.theverge.com/24348851/donald-trump-presidency-tech-science-news)
  - [Here are the best Kindle deals right now](https://www.theverge.com/21539047/best-amazon-kindle-deals)
- - [Sources: the Trump administration targets officials fighting foreign interference in US elections, including those focused on cybersecurity and false content &lpar;New York Times&rpar;](http://www.techmeme.com/250220/p31#a250220p31)
- - [How to master decision making in a world of uncertainty](https://www.theverge.com/ad/596094/how-to-make-good-decisions-in-an-unpredictable-future)
- - [Apple cut too much by removing MagSafe from the iPhone 16e](https://appleinsider.com/articles/25/02/20/apple-cut-too-much-by-removing-magsafe-from-the-iphone-16e?utm_medium=rss)<!-- TECH:END -->
+ - [Sources: the Trump administration targets officials fighting foreign interference in US elections, including those focused on cybersecurity and false content &lpar;New York Times&rpar;](http://www.techmeme.com/250220/p31#a250220p31)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

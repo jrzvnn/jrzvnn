@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Meta announces a $50M creator fund for Horizon Worlds; CTO Andrew Bosworth reportedly told staff that 2025 is a make-or-break year for Meta&#39;s XR ambitions &lpar;Ben Lang/Road to VR&rpar;](http://www.techmeme.com/250220/p40#a250220p40)
+ - [Google may be close to launching YouTube Premium Lite](https://www.theverge.com/news/617009/google-youtube-premium-lite-us-launch)
  - [Carbon removal is the next big fossil fuel boom, oil company says](https://www.theverge.com/news/616662/carbon-removal-dac-oil-gas-occidental)
  - [Block reports Q4 revenue up 4.5% YoY to $6.03B vs. $6.29B est., gross profit up 14% to $2.31B, Cash App gross profit up 16% to $1.38B; XYZ drops 6%+ after hours &lpar;MacKenzie Sigalos/CNBC&rpar;](http://www.techmeme.com/250220/p39#a250220p39)
- - [iPhone 17 Air could feature a 6.7-inch display, contradicting previous rumors](https://appleinsider.com/articles/25/02/20/iphone-17-air-could-feature-a-67-inch-display-contradicting-previous-rumors?utm_medium=rss)
- - [Fitbit’s got a battery problem](https://www.theverge.com/news/616719/fitbit-versa-3-sense-overheating-battery-wearables)
- - [Substack adds the ability to post videos from its app and lets creators monetize videos, and plans to add more video tools like trimming and enhanced analytics &lpar;Aisha Malik/TechCrunch&rpar;](http://www.techmeme.com/250220/p38#a250220p38)<!-- TECH:END -->
+ - [iPhone 17 Air could feature a 6.7-inch display, contradicting previous rumors](https://appleinsider.com/articles/25/02/20/iphone-17-air-could-feature-a-67-inch-display-contradicting-previous-rumors?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

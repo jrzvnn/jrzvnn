@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Pegasus infections on iPhones more common than previously believed](https://appleinsider.com/articles/25/02/20/pegasus-infections-on-iphones-more-common-than-previously-believed?utm_medium=rss)
+ - [Trump’s first 100 days: all the news affecting the tech industry](https://www.theverge.com/24348851/donald-trump-presidency-tech-science-news)
+ - [The 3 Best Essential Oil Diffusers &lpar;and One to Avoid&rpar;](https://www.wired.com/gallery/best-essential-oil-diffusers/)
  - [Leaked details reveal potential pricing for Lego’s Nintendo Game Boy](https://www.theverge.com/news/616514/nintendo-lego-game-boy-release-date-pricing-leak)
- - [Jeep’s parent company announces ‘hands free, eyes off’ driving feature](https://www.theverge.com/news/616517/stellantis-stla-autodrive-level-3-partial-autonomous)
- - [The US SEC announces the Cyber and Emerging Technologies Unit to protect investors from bad actors in crypto and AI, replacing the Crypto Assets and Cyber Unit &lpar;Sarah Wynn/The Block&rpar;](http://www.techmeme.com/250220/p28#a250220p28)
- - [Twitch plans to implement a 100-hour storage cap for Highlights and Uploads from April 19, automatically deleting content from streamers who exceed the limit &lpar;Jess Weatherbed/The Verge&rpar;](http://www.techmeme.com/250220/p27#a250220p27)
- - [Amazon now has creative control over the James Bond franchise](https://www.theverge.com/news/616488/amazon-now-has-creative-control-over-the-james-bond-franchise)<!-- TECH:END -->
+ - [Jeep’s parent company announces ‘hands free, eyes off’ driving feature](https://www.theverge.com/news/616517/stellantis-stla-autodrive-level-3-partial-autonomous)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

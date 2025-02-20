@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Labour MP Graeme Downie, the chair of the UK&#39;s cross-party coalition on secure technology, warns that Chinese components in smart devices pose a sabotage threat &lpar;Lucy Fisher/Financial Times&rpar;](http://www.techmeme.com/250220/p2#a250220p2)
  - [Max Promo Code: 50% Off | February 2025](https://www.wired.com/story/max-promo-code/)
  - [$830 Off Verizon Promo Codes and Deals](https://www.wired.com/story/verizon-promo-code/)
  - [Adidas Promo Codes &amp; Deals: 30% Off](https://www.wired.com/story/adidas-promo-code/)
- - [TurboTax Discount Codes: 20% Off | February 2025](https://www.wired.com/story/turbotax-coupon/)
- - [Volvo’s ES90 sedan will be built with a Nvidia supercomputer](https://www.theverge.com/news/615869/volvo-es90-sedan-nvidia-drive-agx-orin)<!-- TECH:END -->
+ - [TurboTax Discount Codes: 20% Off | February 2025](https://www.wired.com/story/turbotax-coupon/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

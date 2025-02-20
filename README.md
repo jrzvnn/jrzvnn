@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Detroit was flooded and it froze over night. Cars are stuck.](http://9gag.com/gag/avy1rbE)
- - 😝 [Title](http://9gag.com/gag/azxdjxz)
- - 💣 [Camouflage can\u2019t hide those](http://9gag.com/gag/aKGAPd1)
  - 😝 [The Bluetooth device connected successfully](http://9gag.com/gag/aXPMwov)
- - 👉 [Do I need a title? I hope you will collapse to the end.](http://9gag.com/gag/a6ZX7Ne)<!-- MEMES:END -->
+ - 😝 [He took it like a little B.... man.. MAN..](http://9gag.com/gag/aE06nz9)
+ - 💣 [People in my town are smiling and winking every time the `accident` is brought up.](http://9gag.com/gag/aQzv8DW)
+ - 😝 [Do I need a title? I hope you will collapse to the end.](http://9gag.com/gag/a6ZX7Ne)
+ - 👉 [Gender equality is going too far](http://9gag.com/gag/aqyXLpv)<!-- MEMES:END -->
 
 ---
 

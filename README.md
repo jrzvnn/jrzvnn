@@ -167,10 +167,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [Fun facts](http://9gag.com/gag/a7oOrZm)
- - 😝 [I\u2019d treasure them](http://9gag.com/gag/aXPMvPg)
+ - 😝 [One for all you Tarantinos. I&#39;d rather see the bottom part...](http://9gag.com/gag/ae91b4W)
  - 💣 [Filter life](http://9gag.com/gag/an7Rjen)
- - 😝 [Floorman working an oil rig](http://9gag.com/gag/azxdjPb)
- - 👉 [Gender equality is going too far](http://9gag.com/gag/aqyXLpv)<!-- MEMES:END -->
+ - 😝 [Gender equality is going too far](http://9gag.com/gag/aqyXLpv)
+ - 👉 [I\u2019d treasure them](http://9gag.com/gag/aXPMvPg)<!-- MEMES:END -->
 
 ---
 

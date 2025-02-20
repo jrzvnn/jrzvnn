@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Damn](http://9gag.com/gag/a2vwrM1)
- - 😝 [FBI](http://9gag.com/gag/a9y6rqD)
- - 💣 [Gender equality is going too far](http://9gag.com/gag/aqyXLpv)
- - 😝 [Dummy move](http://9gag.com/gag/axy30E1)
- - 👉 [Well, this is the most random thing I&#39;ve read in a while.](http://9gag.com/gag/aAy6dQ2)<!-- MEMES:END -->
+ - 😝 [Poland](http://9gag.com/gag/ayN3L8W)
+ - 😝 [The Bluetooth device connected successfully](http://9gag.com/gag/aXPMwov)
+ - 💣 [No pain no gain](http://9gag.com/gag/adB19qQ)
+ - 😝 [The chances are never 0](http://9gag.com/gag/ary3Ob0)
+ - 👉 [Jungle is massive](http://9gag.com/gag/aMVB9m6)<!-- MEMES:END -->
 
 ---
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Here are the best Apple Watch deals right now](https://www.theverge.com/21289209/best-apple-watch-deals)
  - [Sources: GameStop CEO and activist investor Ryan Cohen has grown his personal stake in Alibaba to about 7M shares, worth roughly $1B, in recent months &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/250220/p42#a250220p42)
  - [iVerify&#39;s iOS app detected a Pegasus infection in 11 new cases in December 2024, and about half of them did not receive Threat Notifications from Apple &lpar;Mobile EDR Security&rpar;](http://www.techmeme.com/250220/p41#a250220p41)
  - [Meta announces a $50M creator fund for Horizon Worlds; CTO Andrew Bosworth reportedly told staff that 2025 is a make-or-break year for Meta&#39;s XR ambitions &lpar;Ben Lang/Road to VR&rpar;](http://www.techmeme.com/250220/p40#a250220p40)
- - [Google may be close to launching YouTube Premium Lite](https://www.theverge.com/news/617009/google-youtube-premium-lite-us-launch)
- - [Carbon removal is the next big fossil fuel boom, oil company says](https://www.theverge.com/news/616662/carbon-removal-dac-oil-gas-occidental)<!-- TECH:END -->
+ - [Google may be close to launching YouTube Premium Lite](https://www.theverge.com/news/617009/google-youtube-premium-lite-us-launch)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

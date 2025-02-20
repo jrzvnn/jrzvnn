@@ -166,7 +166,7 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Lemme check da door](http://9gag.com/gag/a5Q6ZVr)
+ - 😝 [Damn](http://9gag.com/gag/a2vwrM1)
  - 😝 [FBI](http://9gag.com/gag/a9y6rqD)
  - 💣 [Gender equality is going too far](http://9gag.com/gag/aqyXLpv)
  - 😝 [Dummy move](http://9gag.com/gag/axy30E1)

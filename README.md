@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [USDA Layoffs Derail Projects Benefiting American Farmers](https://www.wired.com/story/usda-layoffs-throw-climate-and-crop-projects-into-chaos/)
+ - [Elon Musk says he will &quot;fix&quot; Community Notes as they are &quot;increasingly being gamed by governments &amp; legacy media&quot;, after disagreeing with notes about Ukraine &lpar;Matt Novak/Gizmodo&rpar;](http://www.techmeme.com/250220/p32#a250220p32)
  - [iPhone 16E: all the news on Apple’s new $599 phone](https://www.theverge.com/news/615399/apple-iphone-16e-event-specs-price-release-date-se)
- - [The best deals on MacBooks right now](https://www.theverge.com/22399419/apple-macbook-air-pro-mac-mini-imac-deals)
- - [Among Us 3D will let you deduce from a first-person perspective](https://www.theverge.com/news/616678/among-us-3d-trailer)
- - [This smart thermostat company is considering charging users for its app](https://www.theverge.com/news/615975/tado-smart-thermostat-tests-app-fee)
- - [All the smart home news, reviews, and gadgets you need to know about](https://www.theverge.com/24190824/smart-home-news-reviews-guides-gadgets)<!-- TECH:END -->
+ - [Apple is bringing Visual Intelligence to the iPhone 15 Pro](https://www.theverge.com/news/616665/apple-iphone-15-pro-visual-intelligence)
+ - [The best deals on MacBooks right now](https://www.theverge.com/22399419/apple-macbook-air-pro-mac-mini-imac-deals)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

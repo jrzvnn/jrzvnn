@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Best Internet Providers in Lima, Ohio](https://www.cnet.com/home/internet/best-internet-providers-in-lima-oh/#ftag=CAD590a51e)
+ - [&#39;Reacher&#39; Season 3 Premiered Today. Here&#39;s How You and Your Dad Can Watch](https://www.cnet.com/tech/services-and-software/reacher-season-3-premiered-today-heres-how-you-and-your-dad-can-watch/#ftag=CAD590a51e)
  - [Best Internet Providers in Minneapolis, Minnesota](https://www.cnet.com/home/internet/best-internet-providers-in-minneapolis-mn/#ftag=CAD590a51e)
  - [Labour MP Graeme Downie, the chair of the UK&#39;s cross-party coalition on secure technology, warns that Chinese components in smart devices pose a sabotage threat &lpar;Lucy Fisher/Financial Times&rpar;](http://www.techmeme.com/250220/p2#a250220p2)
- - [Max Promo Code: 50% Off | February 2025](https://www.wired.com/story/max-promo-code/)
- - [$830 Off Verizon Promo Codes and Deals](https://www.wired.com/story/verizon-promo-code/)
- - [Adidas Promo Codes &amp; Deals: 30% Off](https://www.wired.com/story/adidas-promo-code/)<!-- TECH:END -->
+ - [Max Promo Code: 50% Off | February 2025](https://www.wired.com/story/max-promo-code/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

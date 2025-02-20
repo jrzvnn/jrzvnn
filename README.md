@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Substack adds the ability to post videos from its app and lets creators monetize videos, and plans to add more video tools like trimming and enhanced analytics &lpar;Aisha Malik/TechCrunch&rpar;](http://www.techmeme.com/250220/p38#a250220p38)
  - [Rivian reports first quarter of ‘positive gross profit’](https://www.theverge.com/news/616967/rivian-earnings-q4-2024-profit-loss-ev)
- - [Adidas plugs its website and app into Amazon&amp;#8217;s &amp;#8216;Buy with Prime&amp;#8217; program](https://www.theverge.com/news/616891/amazon-adidas-buy-with-prime-direct-to-consumer)
- - [Apple cut too much by removing MagSafe from the iPhone 16e](https://appleinsider.com/articles/25/02/20/apple-cut-too-much-by-removing-magsafe-from-the-iphone-16e?utm_medium=rss)
- - [The busiest US airline now supports Apple’s AirTag location sharing](https://www.theverge.com/news/616912/american-airlines-apple-airtag-share-item-location-lost-luggage)
- - [Meta says US users over 18 can now sign up to be a Community Notes contributor on Facebook, Instagram, and Threads; notes will have a 500-character limit &lpar;Ian Carlos Campbell/Engadget&rpar;](http://www.techmeme.com/250220/p37#a250220p37)<!-- TECH:END -->
+ - [Today&#39;s NYT Connections: Sports Edition Hints and Answers for Feb. 21, #151](https://www.cnet.com/tech/gaming/todays-nyt-connections-sports-edition-hints-and-answers-for-feb-21-151/#ftag=CAD590a51e)
+ - [Today&#39;s NYT Strands Hints, Answers and Help for Feb. 21, #355](https://www.cnet.com/tech/gaming/todays-nyt-strands-hints-answers-and-help-for-feb-21-355/#ftag=CAD590a51e)
+ - [Today&#39;s NYT Connections Hints, Answers and Help for Feb. 21, #621](https://www.cnet.com/tech/gaming/todays-nyt-connections-hints-answers-and-help-for-feb-21-621/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

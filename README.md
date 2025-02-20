@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Paris-based Spore.Bio, which has developed a pre-trained deep learning algorithm to speed up microbiology testing, raised a $23M Series A led by Singular &lpar;Romain Dillet/TechCrunch&rpar;](http://www.techmeme.com/250220/p1#a250220p1)
- - [Lenovo reports Q3 revenue up 20% YoY to $18.8B, above est., and net income up 106% YoY to $692.7M, vs. $365M est.; IDC says Lenovo&#39;s PC shipments grew 4.8% YoY &lpar;Bloomberg&rpar;](http://www.techmeme.com/250219/p57#a250219p57)
- - [Sanas, whose tech changes call center workers&#39; accents in real time using AI, raised a $65M Series B at a $500M+ valuation led by Quadrille and Teleperformance &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/250219/p56#a250219p56)
- - [Today&#39;s NYT Mini Crossword Answers for Thursday, Feb. 20](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-thursday-feb-20/#ftag=CAD590a51e)
- - [Twitch rolls out changes to its violation enforcement system, including letting minor infractions expire after 90 days and serious ones in one or two years &lpar;Lawrence Bonk/Engadget&rpar;](http://www.techmeme.com/250219/p55#a250219p55)<!-- TECH:END -->
+ - [$830 Off Verizon Promo Codes and Deals](https://www.wired.com/story/verizon-promo-code/)
+ - [Adidas Promo Codes &amp; Deals: 30% Off](https://www.wired.com/story/adidas-promo-code/)
+ - [TurboTax Discount Codes: 20% Off | February 2025](https://www.wired.com/story/turbotax-coupon/)
+ - [Volvo’s ES90 sedan will be built with a Nvidia supercomputer](https://www.theverge.com/news/615869/volvo-es90-sedan-nvidia-drive-agx-orin)
+ - [Paris-based Spore.Bio, which has developed a pre-trained deep learning algorithm to speed up microbiology testing, raised a $23M Series A led by Singular &lpar;Romain Dillet/TechCrunch&rpar;](http://www.techmeme.com/250220/p1#a250220p1)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

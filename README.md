@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Rabbit R1 maker Rabbit demos its &quot;generalist Android agent&quot;, showing it controlling apps on a tablet, building on its LAM Playground, a &quot;generalist web agent&quot; &lpar;Wes Davis/The Verge&rpar;](http://www.techmeme.com/250220/p12#a250220p12)
  - [CISA and the FBI: attackers deploying Ghost ransomware breached victims from multiple industry sectors across 70+ countries, including critical infrastructure &lpar;Sergiu Gatlan/BleepingComputer&rpar;](http://www.techmeme.com/250220/p11#a250220p11)
  - [Bank of America says tariffs could raise iPhone prices by nearly 10%](https://appleinsider.com/articles/25/02/20/bank-of-america-says-tariffs-could-raise-iphone-prices-by-nearly-10?utm_medium=rss)
  - [Chinese game giant NetEase reports Q4 net profit up 33% YoY to ~$1.2B, above ~$1.05B est., and revenue down 1.4%, a sign its gaming business is turning around &lpar;Sherry Qin/Wall Street Journal&rpar;](http://www.techmeme.com/250220/p10#a250220p10)
- - [I’m Not Convinced Ethical Generative AI Currently Exists](https://www.wired.com/story/the-prompt-ethical-generative-ai-does-not-exist/)
- - [Twitch is limiting streamers to 100 hours of Highlights and Uploads](https://www.theverge.com/news/616296/twitch-storage-cap-highlights-uploads-speedrunning)<!-- TECH:END -->
+ - [I’m Not Convinced Ethical Generative AI Currently Exists](https://www.wired.com/story/the-prompt-ethical-generative-ai-does-not-exist/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

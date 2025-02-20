@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Fun facts](http://9gag.com/gag/a7oOrZm)
- - 😝 [Padme?](http://9gag.com/gag/aoy30m2)
- - 💣 [Poor cleaners](http://9gag.com/gag/aGyn0Oz)
- - 😝 [Detroit was flooded and it froze over night. Cars are stuck.](http://9gag.com/gag/avy1rbE)
- - 👉 [A liquor store owner in South Africa made a group of thieves drink the alcohol they tried to steal](http://9gag.com/gag/aoy393e)<!-- MEMES:END -->
+ - 😝 [Lemme check da door](http://9gag.com/gag/a5Q6ZVr)
+ - 😝 [Carl Emil Pettersson. Legend!](http://9gag.com/gag/ary3Nyy)
+ - 💣 [A liquor store owner in South Africa made a group of thieves drink the alcohol they tried to steal](http://9gag.com/gag/aoy393e)
+ - 😝 [Japan is truly on a different planet](http://9gag.com/gag/aPAmWYQ)
+ - 👉 [Camouflage can\u2019t hide those](http://9gag.com/gag/aKGAPd1)<!-- MEMES:END -->
 
 ---
 

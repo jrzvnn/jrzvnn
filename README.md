@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Blame Elmo!](http://9gag.com/gag/aVvoPR8)
- - 😝 [People in my town are smiling and winking every time the `accident` is brought up.](http://9gag.com/gag/aQzv8DW)
- - 💣 [Floorman working an oil rig](http://9gag.com/gag/azxdjPb)
- - 😝 [I completely understand him, but I sincerely could be that lady!](http://9gag.com/gag/ayN3n08)
- - 👉 [FBI](http://9gag.com/gag/a9y6rqD)<!-- MEMES:END -->
+ - 😝 [Man builds a 3D chopping board using an extensive process](http://9gag.com/gag/aRB4eoB)
+ - 😝 [Average cave explorer&#39;s day](http://9gag.com/gag/a9y67Q0)
+ - 💣 [Poland](http://9gag.com/gag/ayN3L8W)
+ - 😝 [Nice design](http://9gag.com/gag/aLnzD5P)
+ - 👉 [The Bluetooth device connected successfully](http://9gag.com/gag/aXPMwov)<!-- MEMES:END -->
 
 ---
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Lemme check da door](http://9gag.com/gag/a5Q6ZVr)
- - 😝 [Carl Emil Pettersson. Legend!](http://9gag.com/gag/ary3Nyy)
- - 💣 [A liquor store owner in South Africa made a group of thieves drink the alcohol they tried to steal](http://9gag.com/gag/aoy393e)
- - 😝 [Japan is truly on a different planet](http://9gag.com/gag/aPAmWYQ)
- - 👉 [Camouflage can\u2019t hide those](http://9gag.com/gag/aKGAPd1)<!-- MEMES:END -->
+ - 😝 [Nice cosplay](http://9gag.com/gag/aW476V6)
+ - 😝 [Man builds a 3D chopping board using an extensive process](http://9gag.com/gag/aRB4eoB)
+ - 💣 [Average cave explorer&#39;s day](http://9gag.com/gag/a9y67Q0)
+ - 😝 [Poland](http://9gag.com/gag/ayN3L8W)
+ - 👉 [Detroit was flooded and it froze over night. Cars are stuck.](http://9gag.com/gag/avy1rbE)<!-- MEMES:END -->
 
 ---
 

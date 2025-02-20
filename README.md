@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [Fun facts](http://9gag.com/gag/a7oOrZm)
  - 😝 [Padme?](http://9gag.com/gag/aoy30m2)
- - 😝 [A parachute failure during a paratroopers drill](http://9gag.com/gag/aVvoXyd)
- - 💣 [Yasuke who??](http://9gag.com/gag/aVvoQyw)
- - 😝 [Japan is truly on a different planet](http://9gag.com/gag/aPAmWYQ)
- - 👉 [Levitate and Vanish a table.](http://9gag.com/gag/aAy61L0)<!-- MEMES:END -->
+ - 💣 [Poor cleaners](http://9gag.com/gag/aGyn0Oz)
+ - 😝 [Detroit was flooded and it froze over night. Cars are stuck.](http://9gag.com/gag/avy1rbE)
+ - 👉 [A liquor store owner in South Africa made a group of thieves drink the alcohol they tried to steal](http://9gag.com/gag/aoy393e)<!-- MEMES:END -->
 
 ---
 

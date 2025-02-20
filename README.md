@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Carbon removal is the next big fossil fuel boom, oil company says](https://www.theverge.com/news/616662/carbon-removal-dac-oil-gas-occidental)
+ - [Block reports Q4 revenue up 4.5% YoY to $6.03B vs. $6.29B est., gross profit up 14% to $2.31B, Cash App gross profit up 16% to $1.38B; XYZ drops 6%+ after hours &lpar;MacKenzie Sigalos/CNBC&rpar;](http://www.techmeme.com/250220/p39#a250220p39)
  - [iPhone 17 Air could feature a 6.7-inch display, contradicting previous rumors](https://appleinsider.com/articles/25/02/20/iphone-17-air-could-feature-a-67-inch-display-contradicting-previous-rumors?utm_medium=rss)
  - [Fitbit’s got a battery problem](https://www.theverge.com/news/616719/fitbit-versa-3-sense-overheating-battery-wearables)
- - [Substack adds the ability to post videos from its app and lets creators monetize videos, and plans to add more video tools like trimming and enhanced analytics &lpar;Aisha Malik/TechCrunch&rpar;](http://www.techmeme.com/250220/p38#a250220p38)
- - [Rivian reports first quarter of ‘positive gross profit’](https://www.theverge.com/news/616967/rivian-earnings-q4-2024-profit-loss-ev)
- - [Today&#39;s NYT Connections: Sports Edition Hints and Answers for Feb. 21, #151](https://www.cnet.com/tech/gaming/todays-nyt-connections-sports-edition-hints-and-answers-for-feb-21-151/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Substack adds the ability to post videos from its app and lets creators monetize videos, and plans to add more video tools like trimming and enhanced analytics &lpar;Aisha Malik/TechCrunch&rpar;](http://www.techmeme.com/250220/p38#a250220p38)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Rabbit R1 maker Rabbit demos its &quot;generalist Android agent&quot;, showing it controlling apps on a tablet, building on its LAM Playground, a &quot;generalist web agent&quot; &lpar;Wes Davis/The Verge&rpar;](http://www.techmeme.com/250220/p12#a250220p12)
- - [CISA and the FBI: attackers deploying Ghost ransomware breached victims from multiple industry sectors across 70+ countries, including critical infrastructure &lpar;Sergiu Gatlan/BleepingComputer&rpar;](http://www.techmeme.com/250220/p11#a250220p11)
- - [Bank of America says tariffs could raise iPhone prices by nearly 10%](https://appleinsider.com/articles/25/02/20/bank-of-america-says-tariffs-could-raise-iphone-prices-by-nearly-10?utm_medium=rss)
- - [Chinese game giant NetEase reports Q4 net profit up 33% YoY to ~$1.2B, above ~$1.05B est., and revenue down 1.4%, a sign its gaming business is turning around &lpar;Sherry Qin/Wall Street Journal&rpar;](http://www.techmeme.com/250220/p10#a250220p10)
- - [I’m Not Convinced Ethical Generative AI Currently Exists](https://www.wired.com/story/the-prompt-ethical-generative-ai-does-not-exist/)<!-- TECH:END -->
+ - [Tokyo-based Sakana AI details its AI CUDA Engineer, which it says can speed up AI training and inference by 10x to 100x by &quot;breeding&quot; efficient instructions &lpar;Nikkei Asia&rpar;](http://www.techmeme.com/250220/p15#a250220p15)
+ - [Google Ad-Tech Users Can Target National Security ‘Decision Makers’ and People With Chronic Diseases](https://www.wired.com/story/google-dv360-banned-audience-segments-national-security/)
+ - [Meta says Mark Zuckerberg went to the US Capitol on February 19 to lobby Senators on AI and talk about issues like US tech leadership and ending DEI programs &lpar;Emily Birnbaum/Bloomberg&rpar;](http://www.techmeme.com/250220/p14#a250220p14)
+ - [Oppo Find N5 review: the final evolution of foldables](https://www.theverge.com/reviews/615107/oppo-find-n5-review-screen-thickness-crease-battery-camera)
+ - [Sources: Google is close to deciding on locations in India for its first physical retail stores outside the US; the company currently has five stores &lpar;Aditya Kalra/Reuters&rpar;](http://www.techmeme.com/250220/p13#a250220p13)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Germans can&#39;t use Berlin subway](http://9gag.com/gag/ary35od)
  - 😝 [Lemme check da door](http://9gag.com/gag/a5Q6ZVr)
- - 💣 [Drugs, not hugs](http://9gag.com/gag/aW4765x)
- - 😝 [Pop goes the weasel](http://9gag.com/gag/a1mNKAw)
- - 👉 [FBI](http://9gag.com/gag/a9y6rqD)<!-- MEMES:END -->
+ - 😝 [FBI](http://9gag.com/gag/a9y6rqD)
+ - 💣 [Gender equality is going too far](http://9gag.com/gag/aqyXLpv)
+ - 😝 [Dummy move](http://9gag.com/gag/axy30E1)
+ - 👉 [Well, this is the most random thing I&#39;ve read in a while.](http://9gag.com/gag/aAy6dQ2)<!-- MEMES:END -->
 
 ---
 

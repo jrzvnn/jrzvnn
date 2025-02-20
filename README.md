@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Mind changed](http://9gag.com/gag/a5Q6nEo)
- - 😝 [The ice cream service was very satisfying.](http://9gag.com/gag/a9y6Axm)
- - 💣 [Archaeologist Khaled Al-Asaad dedicated his life to the excavation and preservation of Palmyra, a UNESCO World Heritage Site. After enduring weeks of torture, he was beheaded by ISIS for refusing to reveal the location of ancient artifacts. He died a hero of heritage protection.](http://9gag.com/gag/axy308M)
+ - 😝 [Germans can&#39;t use Berlin subway](http://9gag.com/gag/ary35od)
  - 😝 [I\u2019d treasure them](http://9gag.com/gag/aXPMvPg)
- - 👉 [Whoa](http://9gag.com/gag/aAy6xg0)<!-- MEMES:END -->
+ - 💣 [Filter life](http://9gag.com/gag/an7Rjen)
+ - 😝 [Gender equality is going too far](http://9gag.com/gag/aqyXLpv)
+ - 👉 [Floorman working an oil rig](http://9gag.com/gag/azxdjPb)<!-- MEMES:END -->
 
 ---
 

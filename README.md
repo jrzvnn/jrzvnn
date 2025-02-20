@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Fun facts](http://9gag.com/gag/a7oOrZm)
- - 😝 [Floorman working an oil rig](http://9gag.com/gag/azxdjPb)
- - 💣 [Gender equality is going too far](http://9gag.com/gag/aqyXLpv)
- - 😝 [Germans can&#39;t use Berlin subway](http://9gag.com/gag/ary35od)
- - 👉 [Well, this is the most random thing I&#39;ve read in a while.](http://9gag.com/gag/aAy6dQ2)<!-- MEMES:END -->
+ - 😝 [Built to last a century](http://9gag.com/gag/aND9z3b)
+ - 😝 [A classic of classics](http://9gag.com/gag/a876ybZ)
+ - 💣 [Detroit was flooded and it froze over night. Cars are stuck.](http://9gag.com/gag/avy1rbE)
+ - 😝 [Mind changed](http://9gag.com/gag/a5Q6nEo)
+ - 👉 [Archaeologist Khaled Al-Asaad dedicated his life to the excavation and preservation of Palmyra, a UNESCO World Heritage Site. After enduring weeks of torture, he was beheaded by ISIS for refusing to reveal the location of ancient artifacts. He died a hero of heritage protection.](http://9gag.com/gag/axy308M)<!-- MEMES:END -->
 
 ---
 

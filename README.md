@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [iPhone 17 Air could feature a 6.7-inch display, contradicting previous rumors](https://appleinsider.com/articles/25/02/20/iphone-17-air-could-feature-a-67-inch-display-contradicting-previous-rumors?utm_medium=rss)
+ - [Fitbit’s got a battery problem](https://www.theverge.com/news/616719/fitbit-versa-3-sense-overheating-battery-wearables)
  - [Substack adds the ability to post videos from its app and lets creators monetize videos, and plans to add more video tools like trimming and enhanced analytics &lpar;Aisha Malik/TechCrunch&rpar;](http://www.techmeme.com/250220/p38#a250220p38)
  - [Rivian reports first quarter of ‘positive gross profit’](https://www.theverge.com/news/616967/rivian-earnings-q4-2024-profit-loss-ev)
- - [Today&#39;s NYT Connections: Sports Edition Hints and Answers for Feb. 21, #151](https://www.cnet.com/tech/gaming/todays-nyt-connections-sports-edition-hints-and-answers-for-feb-21-151/#ftag=CAD590a51e)
- - [Today&#39;s NYT Strands Hints, Answers and Help for Feb. 21, #355](https://www.cnet.com/tech/gaming/todays-nyt-strands-hints-answers-and-help-for-feb-21-355/#ftag=CAD590a51e)
- - [Today&#39;s NYT Connections Hints, Answers and Help for Feb. 21, #621](https://www.cnet.com/tech/gaming/todays-nyt-connections-hints-answers-and-help-for-feb-21-621/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Today&#39;s NYT Connections: Sports Edition Hints and Answers for Feb. 21, #151](https://www.cnet.com/tech/gaming/todays-nyt-connections-sports-edition-hints-and-answers-for-feb-21-151/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

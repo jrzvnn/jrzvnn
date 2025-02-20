@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Best iPhone 16e deals: Here&#39;s where to get up to $830 off when preorders launch](https://appleinsider.com/articles/25/02/20/best-iphone-16e-deals-heres-where-to-get-up-to-830-off-when-preorders-launch?utm_medium=rss)
- - [The Watergate-Inspired Law That&#39;s Being Used to Fight DOGE](https://www.wired.com/story/uncanny-valley-podcast-doge-privacy-act/)
- - [Apple’s Murderbot series starts streaming in May](https://www.theverge.com/news/616408/murderbot-series-apple-tv-plus-date-image)
- - [Microsoft prepares for OpenAI’s GPT-5 model](https://www.theverge.com/notepad-microsoft-newsletter/616464/microsoft-prepares-for-openais-gpt-5-model)
- - [DOGE Puts $1 Spending Limit on Government Employee Credit Cards](https://www.wired.com/story/doge-government-credit-cards/)<!-- TECH:END -->
+ - [How to master decision making in a world of uncertainty](https://www.theverge.com/ad/596094/how-to-make-good-decisions-in-an-unpredictable-future)
+ - [Apple cut too much by removing MagSafe from the iPhone 16e](https://appleinsider.com/articles/25/02/20/apple-cut-too-much-by-removing-magsafe-from-the-iphone-16e?utm_medium=rss)
+ - [Amazon’s Appstore is pulling Android support](https://www.theverge.com/news/616646/amazon-appstore-ending-android-support)
+ - [iPhone 17 may not get Apple&#39;s C1 modem, but will get a new Wi-Fi chip](https://appleinsider.com/articles/25/02/20/iphone-17-may-not-get-apples-c1-modem-but-will-get-a-new-wi-fi-chip?utm_medium=rss)
+ - [The Showdown Between Elon Musk and Sam Altman](https://www.wired.com/story/uncanny-valley-podcast-15-sam-altman-elon-musk/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

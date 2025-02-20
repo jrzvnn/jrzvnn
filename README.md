@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The iPhone is done with home buttons — here’s why I’ll miss it](https://www.theverge.com/iphone/612463/iphone-16e-home-button-gone)
- - [US survey: views of Mark Zuckerberg and Elon Musk tilt negative; Democrats and Republicans view Zuckerberg unfavorably; Musk is polarizing along party lines &lpar;Pew Research Center&rpar;](http://www.techmeme.com/250220/p17#a250220p17)
- - [iPhone 16e vs iPhone SE 3: A quantum leap forward](https://appleinsider.com/inside/iphone-16e/vs/iphone-16e-vs-iphone-se-3-a-quantum-leap-forward?utm_medium=rss)
- - [Oppo launches the Find N5, the world&#39;s thinnest foldable at 8.93mm closed and 4.21mm open, with IPX6, X8, and X9 ratings, in Europe and Asia for ~$1,870 &lpar;Dominic Preston/The Verge&rpar;](http://www.techmeme.com/250220/p16#a250220p16)
- - [How to measure your Mac&#39;s network performance with iPerf3 in Terminal](https://appleinsider.com/inside/macos/tips/how-to-use-iperf3-in-terminal-to-measure-your-macs-network-performance?utm_medium=rss)<!-- TECH:END -->
+ - [Together AI, which provides users access to AI computing, raised $305M co-led by General Catalyst and Saudi Arabia&#39;s Prosperity7 at a $3.3B valuation &lpar;Paayal Zaveri/Bloomberg&rpar;](http://www.techmeme.com/250220/p20#a250220p20)
+ - [It’s clearly time: all the news about the transparent tech renaissance](https://www.theverge.com/23774468/clear-transparent-tech-gadgets-news-announcements-products)
+ - [Sources: a US grand jury is investigating criminal misconduct at fintech Synapse, where up to $96M in user funds went missing, and has questioned an executive &lpar;Alexander Saeedy/Wall Street Journal&rpar;](http://www.techmeme.com/250220/p19#a250220p19)
+ - [The European Commission approves &amp;euro;920M in German state aid to Infineon to build a new chip plant in Dresden, set to reach full capacity in 2031 &lpar;Reuters&rpar;](http://www.techmeme.com/250220/p18#a250220p18)
+ - [The iPhone is done with home buttons — here’s why I’ll miss it](https://www.theverge.com/iphone/612463/iphone-16e-home-button-gone)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

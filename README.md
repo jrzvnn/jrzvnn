@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The US SEC announces the Cyber and Emerging Technologies Unit to protect investors from bad actors in crypto and AI, replacing the Crypto Assets and Cyber Unit &lpar;Sarah Wynn/The Block&rpar;](http://www.techmeme.com/250220/p28#a250220p28)
+ - [Twitch plans to implement a 100-hour storage cap for Highlights and Uploads from April 19, automatically deleting content from streamers who exceed the limit &lpar;Jess Weatherbed/The Verge&rpar;](http://www.techmeme.com/250220/p27#a250220p27)
  - [Amazon now has creative control over the James Bond franchise](https://www.theverge.com/news/616488/amazon-now-has-creative-control-over-the-james-bond-franchise)
  - [Core design: How chip binning helps Apple offer A18 variants](https://appleinsider.com/articles/25/02/20/core-design-how-chip-binning-helps-apple-offer-a18-variants?utm_medium=rss)
- - [Spotify will begin accepting AI-narrated audiobooks recorded using ElevenLabs software; Spotify already allows AI-recorded audiobooks, with several restrictions &lpar;Jess Weatherbed/The Verge&rpar;](http://www.techmeme.com/250220/p26#a250220p26)
- - [Our favorite things: gear, gadgets, and other stuff](https://www.theverge.com/22344288/favorite-gadgets-tech-lgear-aptops-headphones-kitchen-recommendations)
- - [All the smart home news, reviews, and gadgets you need to know about](https://www.theverge.com/24190824/smart-home-news-reviews-guides-gadgets)<!-- TECH:END -->
+ - [Spotify will begin accepting AI-narrated audiobooks recorded using ElevenLabs software; Spotify already allows AI-recorded audiobooks, with several restrictions &lpar;Jess Weatherbed/The Verge&rpar;](http://www.techmeme.com/250220/p26#a250220p26)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Tim Cook is meeting with President Trump at the White House](https://appleinsider.com/articles/25/02/20/tim-cook-is-meeting-with-president-trump-at-the-white-house?utm_medium=rss)
+ - [Kuo: all iPhone 17 models will use Apple&#39;s in-house Wi-Fi chips, enhancing connectivity and cutting costs; only the slim iPhone 17 will use the C1 modem chip &lpar;Ryan Christoffel/9to5Mac&rpar;](http://www.techmeme.com/250220/p29#a250220p29)
+ - [The standard iPhone needs ProMotion more than ever](https://www.theverge.com/apple/616134/iphone-16e-promotion-120-hz-display)
  - [Pegasus infections on iPhones more common than previously believed](https://appleinsider.com/articles/25/02/20/pegasus-infections-on-iphones-more-common-than-previously-believed?utm_medium=rss)
- - [Trump’s first 100 days: all the news affecting the tech industry](https://www.theverge.com/24348851/donald-trump-presidency-tech-science-news)
- - [The 3 Best Essential Oil Diffusers &lpar;and One to Avoid&rpar;](https://www.wired.com/gallery/best-essential-oil-diffusers/)
- - [Leaked details reveal potential pricing for Lego’s Nintendo Game Boy](https://www.theverge.com/news/616514/nintendo-lego-game-boy-release-date-pricing-leak)
- - [Jeep’s parent company announces ‘hands free, eyes off’ driving feature](https://www.theverge.com/news/616517/stellantis-stla-autodrive-level-3-partial-autonomous)<!-- TECH:END -->
+ - [Trump’s first 100 days: all the news affecting the tech industry](https://www.theverge.com/24348851/donald-trump-presidency-tech-science-news)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

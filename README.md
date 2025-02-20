@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Tokyo-based Sakana AI details its AI CUDA Engineer, which it says can speed up AI training and inference by 10x to 100x by &quot;breeding&quot; efficient instructions &lpar;Nikkei Asia&rpar;](http://www.techmeme.com/250220/p15#a250220p15)
- - [Google Ad-Tech Users Can Target National Security ‘Decision Makers’ and People With Chronic Diseases](https://www.wired.com/story/google-dv360-banned-audience-segments-national-security/)
- - [Meta says Mark Zuckerberg went to the US Capitol on February 19 to lobby Senators on AI and talk about issues like US tech leadership and ending DEI programs &lpar;Emily Birnbaum/Bloomberg&rpar;](http://www.techmeme.com/250220/p14#a250220p14)
- - [Oppo Find N5 review: the final evolution of foldables](https://www.theverge.com/reviews/615107/oppo-find-n5-review-screen-thickness-crease-battery-camera)
- - [Sources: Google is close to deciding on locations in India for its first physical retail stores outside the US; the company currently has five stores &lpar;Aditya Kalra/Reuters&rpar;](http://www.techmeme.com/250220/p13#a250220p13)<!-- TECH:END -->
+ - [The iPhone is done with home buttons — here’s why I’ll miss it](https://www.theverge.com/iphone/612463/iphone-16e-home-button-gone)
+ - [US survey: views of Mark Zuckerberg and Elon Musk tilt negative; Democrats and Republicans view Zuckerberg unfavorably; Musk is polarizing along party lines &lpar;Pew Research Center&rpar;](http://www.techmeme.com/250220/p17#a250220p17)
+ - [iPhone 16e vs iPhone SE 3: A quantum leap forward](https://appleinsider.com/inside/iphone-16e/vs/iphone-16e-vs-iphone-se-3-a-quantum-leap-forward?utm_medium=rss)
+ - [Oppo launches the Find N5, the world&#39;s thinnest foldable at 8.93mm closed and 4.21mm open, with IPX6, X8, and X9 ratings, in Europe and Asia for ~$1,870 &lpar;Dominic Preston/The Verge&rpar;](http://www.techmeme.com/250220/p16#a250220p16)
+ - [How to measure your Mac&#39;s network performance with iPerf3 in Terminal](https://appleinsider.com/inside/macos/tips/how-to-use-iperf3-in-terminal-to-measure-your-macs-network-performance?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

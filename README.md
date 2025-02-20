@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Man builds a 3D chopping board using an extensive process](http://9gag.com/gag/aRB4eoB)
- - 😝 [Average cave explorer&#39;s day](http://9gag.com/gag/a9y67Q0)
- - 💣 [Poland](http://9gag.com/gag/ayN3L8W)
- - 😝 [Nice design](http://9gag.com/gag/aLnzD5P)
- - 👉 [The Bluetooth device connected successfully](http://9gag.com/gag/aXPMwov)<!-- MEMES:END -->
+ - 😝 [Filter life](http://9gag.com/gag/an7Rjen)
+ - 😝 [Angry robot almost beat audience.](http://9gag.com/gag/a6ZX7Ye)
+ - 💣 [Do I need a title? I hope you will collapse to the end.](http://9gag.com/gag/a6ZX7Ne)
+ - 😝 [Knock, knock](http://9gag.com/gag/ae91bxO)
+ - 👉 [Floorman working an oil rig](http://9gag.com/gag/azxdjPb)<!-- MEMES:END -->
 
 ---
 

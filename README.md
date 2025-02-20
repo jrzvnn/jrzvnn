@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [OpenAI COO Brad Lightcap says the company hit 400M weekly active users in February 2025, up from 300M in December 2024, and 2M paying enterprise customers &lpar;Kate Rooney/CNBC&rpar;](http://www.techmeme.com/250220/p22#a250220p22)
  - [Investigation: Google&#39;s Display &amp; Video 360 ad platform lets users target Americans&#39; sensitive personal data, despite Google&#39;s rules against such practices &lpar;Wired&rpar;](http://www.techmeme.com/250220/p21#a250220p21)
  - [New iPhone 16e offers Apple Intelligence at a low price point](https://appleinsider.com/articles/25/02/19/new-iphone-16e-offers-apple-intelligence-at-a-low-price-point?utm_medium=rss)
  - [How to use your first iPhone, for beginners](https://appleinsider.com/inside/iphone/tips/how-to-use-your-first-iphone-for-beginners?utm_medium=rss)
- - [ProtoArc XKM01 CaseUp Combo Review: A Reliable Portable Workstation](https://www.wired.com/review/protoarc-xkm01-caseup-combo/)
- - [Together AI, which provides users access to AI computing, raised $305M co-led by General Catalyst and Saudi Arabia&#39;s Prosperity7 at a $3.3B valuation &lpar;Paayal Zaveri/Bloomberg&rpar;](http://www.techmeme.com/250220/p20#a250220p20)<!-- TECH:END -->
+ - [ProtoArc XKM01 CaseUp Combo Review: A Reliable Portable Workstation](https://www.wired.com/review/protoarc-xkm01-caseup-combo/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

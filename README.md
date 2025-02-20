@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [How to use iPerf3 in Terminal to measure your Mac&#39;s network performance](https://appleinsider.com/inside/macos/tips/how-to-use-iperf3-in-terminal-to-measure-your-macs-network-performance?utm_medium=rss)
  - [Source: 19-year-old Edward Coristine and Kyle Schutt, both DOGE engineers, are now on staff at the CISA; Coristine was briefly an intern for Neuralink &lpar;Kim Zetter/Wired&rpar;](http://www.techmeme.com/250219/p53#a250219p53)
  - [Trump’s first 100 days: all the news affecting the tech industry](https://www.theverge.com/24348851/donald-trump-presidency-tech-science-news)
  - [Clearview AI co-founder and President Hoan Ton-That resigns, after stepping back as CEO in December 2024, and says he will continue serving as a board member &lpar;David Jeans/Forbes&rpar;](http://www.techmeme.com/250219/p52#a250219p52)
- - [DOGE Now Has Access to the Top US Cybersecurity Agency](https://www.wired.com/story/doge-cisa-coristine-cybersecurity/)
- - [More than a name change: iPhone 16e isn&#39;t the iPhone SE 4](https://appleinsider.com/articles/25/02/20/more-than-a-name-change-iphone-16e-isnt-the-iphone-se-4?utm_medium=rss)<!-- TECH:END -->
+ - [DOGE Now Has Access to the Top US Cybersecurity Agency](https://www.wired.com/story/doge-cisa-coristine-cybersecurity/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Adidas plugs its website and app into Amazon&amp;#8217;s &amp;#8216;Buy with Prime&amp;#8217; program](https://www.theverge.com/news/616891/amazon-adidas-buy-with-prime-direct-to-consumer)
  - [Apple cut too much by removing MagSafe from the iPhone 16e](https://appleinsider.com/articles/25/02/20/apple-cut-too-much-by-removing-magsafe-from-the-iphone-16e?utm_medium=rss)
  - [The busiest US airline now supports Apple’s AirTag location sharing](https://www.theverge.com/news/616912/american-airlines-apple-airtag-share-item-location-lost-luggage)
  - [Meta says US users over 18 can now sign up to be a Community Notes contributor on Facebook, Instagram, and Threads; notes will have a 500-character limit &lpar;Ian Carlos Campbell/Engadget&rpar;](http://www.techmeme.com/250220/p37#a250220p37)
- - [The Verge’s favorite kitchen gadgets](https://www.theverge.com/favorites/612453/favorite-cooking-food-instant-pot)
- - [iPhone 15 Pro set to get Visual Intelligence in a future iOS update](https://appleinsider.com/articles/25/02/20/iphone-15-pro-set-to-get-visual-intelligence-in-a-future-ios-update?utm_medium=rss)<!-- TECH:END -->
+ - [The Verge’s favorite kitchen gadgets](https://www.theverge.com/favorites/612453/favorite-cooking-food-instant-pot)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

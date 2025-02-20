@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Nice cosplay](http://9gag.com/gag/aW476V6)
- - 😝 [Man builds a 3D chopping board using an extensive process](http://9gag.com/gag/aRB4eoB)
- - 💣 [Average cave explorer&#39;s day](http://9gag.com/gag/a9y67Q0)
- - 😝 [Poland](http://9gag.com/gag/ayN3L8W)
- - 👉 [Detroit was flooded and it froze over night. Cars are stuck.](http://9gag.com/gag/avy1rbE)<!-- MEMES:END -->
+ - 😝 [Detroit was flooded and it froze over night. Cars are stuck.](http://9gag.com/gag/avy1rbE)
+ - 😝 [Title](http://9gag.com/gag/azxdjxz)
+ - 💣 [Camouflage can\u2019t hide those](http://9gag.com/gag/aKGAPd1)
+ - 😝 [The Bluetooth device connected successfully](http://9gag.com/gag/aXPMwov)
+ - 👉 [Do I need a title? I hope you will collapse to the end.](http://9gag.com/gag/a6ZX7Ne)<!-- MEMES:END -->
 
 ---
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Well, this is the most random thing I&#39;ve read in a while.](http://9gag.com/gag/aAy6dQ2)
- - 😝 [Detroit was flooded and it froze over night. Cars are stuck.](http://9gag.com/gag/avy1rbE)
- - 💣 [So many homeless girls in Tokyo.](http://9gag.com/gag/ary3KQd)
- - 😝 [FBI](http://9gag.com/gag/a9y6rqD)
- - 👉 [People in my town are smiling and winking every time the `accident` is brought up.](http://9gag.com/gag/aQzv8DW)<!-- MEMES:END -->
+ - 😝 [Blame Elmo!](http://9gag.com/gag/aVvoPR8)
+ - 😝 [People in my town are smiling and winking every time the `accident` is brought up.](http://9gag.com/gag/aQzv8DW)
+ - 💣 [Floorman working an oil rig](http://9gag.com/gag/azxdjPb)
+ - 😝 [I completely understand him, but I sincerely could be that lady!](http://9gag.com/gag/ayN3n08)
+ - 👉 [FBI](http://9gag.com/gag/a9y6rqD)<!-- MEMES:END -->
 
 ---
 

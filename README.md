@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [The chances are never 0](http://9gag.com/gag/ary3Ob0)
- - 😝 [Jungle is massive](http://9gag.com/gag/aMVB9m6)
- - 💣 [The Bluetooth device connected successfully](http://9gag.com/gag/aXPMwov)
- - 😝 [No pain no gain](http://9gag.com/gag/adB19qQ)
- - 👉 [The guy who achieved Heaven on Earth](http://9gag.com/gag/amo1YLy)<!-- MEMES:END -->
+ - 😝 [He took it like a little B.... man.. MAN..](http://9gag.com/gag/aE06nz9)
+ - 😝 [Damn](http://9gag.com/gag/a2vwrM1)
+ - 💣 [Well, this is the most random thing I&#39;ve read in a while.](http://9gag.com/gag/aAy6dQ2)
+ - 😝 [Germans can&#39;t use Berlin subway](http://9gag.com/gag/ary35od)
+ - 👉 [Gender equality is going too far](http://9gag.com/gag/aqyXLpv)<!-- MEMES:END -->
 
 ---
 

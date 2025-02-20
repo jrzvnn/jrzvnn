@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Canon’s new PowerShot V1 puts video first](https://www.theverge.com/news/616351/canon-powershot-v1-vlogging-camera-photography-video-4k)
- - [My Posture Is Wrecked From Work. This Device Is Helping Undo the Damage](https://www.wired.com/story/work-has-given-me-tech-neck-this-godsend-device-is-undoing-the-damage/)
- - [Nvidia launches Signs, a new AI platform to teach American Sign Language and create a validated dataset for sign language learners and ASL app developers &lpar;Dean Takahashi/VentureBeat&rpar;](http://www.techmeme.com/250220/p25#a250220p25)
- - [All the smart home news, reviews, and gadgets you need to know about](https://www.theverge.com/24190824/smart-home-news-reviews-guides-gadgets)
- - [How the iPhone 16e mostly improves the Action Button](https://appleinsider.com/articles/25/02/20/how-the-iphone-16e-mostly-improves-the-action-button?utm_medium=rss)<!-- TECH:END -->
+ - [Xbox Game Pass was supposed to be the Netflix of gaming — what happened?](https://www.theverge.com/decoder-podcast-with-nilay-patel/615263/xbox-game-pass-microsoft-cloud-gaming-future)
+ - [The Odds of a City-Killing Asteroid Hitting Earth Keep Rising](https://www.wired.com/story/the-odds-of-a-city-killer-asteroid-impact-in-2032-keep-rising-should-we-be-worried/)
+ - [iPhone 16 Pro versus Galaxy S25 Ultra: which camera is better?](https://www.theverge.com/video/615794/galaxy-s25-iphone-16-pro-camera-review)
+ - [The Dune survival game launches in May, but you can build a character now](https://www.theverge.com/news/615931/dune-awakening-release-date-benchmarks-character-creator)
+ - [Scuf’s Valor Pro is a promising start for its Hall effect Xbox controllers](https://www.theverge.com/hands-on/616019/scuf-valor-pro-hands-on-impressions-wired-xbox-controller)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

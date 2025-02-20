@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [The Bluetooth device connected successfully](http://9gag.com/gag/aXPMwov)
- - 😝 [He took it like a little B.... man.. MAN..](http://9gag.com/gag/aE06nz9)
- - 💣 [People in my town are smiling and winking every time the `accident` is brought up.](http://9gag.com/gag/aQzv8DW)
- - 😝 [Do I need a title? I hope you will collapse to the end.](http://9gag.com/gag/a6ZX7Ne)
- - 👉 [Gender equality is going too far](http://9gag.com/gag/aqyXLpv)<!-- MEMES:END -->
+ - 😝 [Lemme check da door](http://9gag.com/gag/a5Q6ZVr)
+ - 😝 [People in my town are smiling and winking every time the `accident` is brought up.](http://9gag.com/gag/aQzv8DW)
+ - 💣 [Grandpa...](http://9gag.com/gag/aD26GoZ)
+ - 😝 [Gender equality is going too far](http://9gag.com/gag/aqyXLpv)
+ - 👉 [He took it like a little B.... man.. MAN..](http://9gag.com/gag/aE06nz9)<!-- MEMES:END -->
 
 ---
 

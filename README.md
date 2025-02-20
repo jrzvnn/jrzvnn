@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [He took it like a little B.... man.. MAN..](http://9gag.com/gag/aE06nz9)
- - 😝 [Say what you want but that chickens looking good](http://9gag.com/gag/aO8eVME)
- - 💣 [Blame Elmo!](http://9gag.com/gag/aVvoPR8)
- - 😝 [The Luckiest Coworker Ever ...](http://9gag.com/gag/a2vwmDY)
- - 👉 [Gender equality is going too far](http://9gag.com/gag/aqyXLpv)<!-- MEMES:END -->
+ - 😝 [A parachute failure during a paratroopers drill](http://9gag.com/gag/aVvoXyd)
+ - 😝 [I would\u2026even with costume](http://9gag.com/gag/awy3nyB)
+ - 💣 [AMansHappinessIsaWomansDisappointment](http://9gag.com/gag/aE0618n)
+ - 😝 [Floorman working an oil rig](http://9gag.com/gag/azxdjPb)
+ - 👉 [Carl Emil Pettersson. Legend!](http://9gag.com/gag/ary3Nyy)<!-- MEMES:END -->
 
 ---
 

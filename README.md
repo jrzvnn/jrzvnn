@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Twitch rolls out changes to its violation enforcement system, including letting minor infractions expire after 90 days and serious ones in one or two years &lpar;Lawrence Bonk/Engadget&rpar;](http://www.techmeme.com/250219/p55#a250219p55)
+ - [The seven-day moving average of Ethereum transaction fees fell to $0.77 on February 15, a 70% week-over-week drop from $2.57 and the lowest since July 2020 &lpar;The Block&rpar;](http://www.techmeme.com/250219/p54#a250219p54)
  - [How to use iPerf3 in Terminal to measure your Mac&#39;s network performance](https://appleinsider.com/inside/macos/tips/how-to-use-iperf3-in-terminal-to-measure-your-macs-network-performance?utm_medium=rss)
  - [Source: 19-year-old Edward Coristine and Kyle Schutt, both DOGE engineers, are now on staff at the CISA; Coristine was briefly an intern for Neuralink &lpar;Kim Zetter/Wired&rpar;](http://www.techmeme.com/250219/p53#a250219p53)
- - [Trump’s first 100 days: all the news affecting the tech industry](https://www.theverge.com/24348851/donald-trump-presidency-tech-science-news)
- - [Clearview AI co-founder and President Hoan Ton-That resigns, after stepping back as CEO in December 2024, and says he will continue serving as a board member &lpar;David Jeans/Forbes&rpar;](http://www.techmeme.com/250219/p52#a250219p52)
- - [DOGE Now Has Access to the Top US Cybersecurity Agency](https://www.wired.com/story/doge-cisa-coristine-cybersecurity/)<!-- TECH:END -->
+ - [Trump’s first 100 days: all the news affecting the tech industry](https://www.theverge.com/24348851/donald-trump-presidency-tech-science-news)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

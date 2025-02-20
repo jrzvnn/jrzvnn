@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Poland](http://9gag.com/gag/ayN3L8W)
- - 😝 [The Bluetooth device connected successfully](http://9gag.com/gag/aXPMwov)
- - 💣 [No pain no gain](http://9gag.com/gag/adB19qQ)
- - 😝 [The chances are never 0](http://9gag.com/gag/ary3Ob0)
- - 👉 [Jungle is massive](http://9gag.com/gag/aMVB9m6)<!-- MEMES:END -->
+ - 😝 [Floorman working an oil rig](http://9gag.com/gag/azxdjPb)
+ - 😝 [I\u2019d treasure them](http://9gag.com/gag/aXPMvPg)
+ - 💣 [Gender equality is going too far](http://9gag.com/gag/aqyXLpv)
+ - 😝 [Well, this is the most random thing I&#39;ve read in a while.](http://9gag.com/gag/aAy6dQ2)
+ - 👉 [One for all you Tarantinos. I&#39;d rather see the bottom part...](http://9gag.com/gag/ae91b4W)<!-- MEMES:END -->
 
 ---
 

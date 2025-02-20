@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Well well well](http://9gag.com/gag/ae910dB)
+ - 😝 [The Bluetooth device connected successfully](http://9gag.com/gag/aXPMwov)
  - 😝 [Do I need a title? I hope you will collapse to the end.](http://9gag.com/gag/a6ZX7Ne)
- - 💣 [Quick Mafs](http://9gag.com/gag/aRB4e0Q)
+ - 💣 [People in my town are smiling and winking every time the `accident` is brought up.](http://9gag.com/gag/aQzv8DW)
  - 😝 [Lemme check da door](http://9gag.com/gag/a5Q6ZVr)
- - 👉 [Grandpa...](http://9gag.com/gag/aD26GoZ)<!-- MEMES:END -->
+ - 👉 [Blame Elmo!](http://9gag.com/gag/aVvoPR8)<!-- MEMES:END -->
 
 ---
 

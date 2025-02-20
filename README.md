@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Filter life](http://9gag.com/gag/an7Rjen)
- - 😝 [Angry robot almost beat audience.](http://9gag.com/gag/a6ZX7Ye)
- - 💣 [Do I need a title? I hope you will collapse to the end.](http://9gag.com/gag/a6ZX7Ne)
- - 😝 [Knock, knock](http://9gag.com/gag/ae91bxO)
- - 👉 [Floorman working an oil rig](http://9gag.com/gag/azxdjPb)<!-- MEMES:END -->
+ - 😝 [Lemme check da door](http://9gag.com/gag/a5Q6ZVr)
+ - 😝 [So many homeless girls in Tokyo.](http://9gag.com/gag/ary3KQd)
+ - 💣 [A liquor store owner in South Africa made a group of thieves drink the alcohol they tried to steal](http://9gag.com/gag/aoy393e)
+ - 😝 [Do I need a title? I hope you will collapse to the end.](http://9gag.com/gag/a6ZX7Ne)
+ - 👉 [He took it like a little B.... man.. MAN..](http://9gag.com/gag/aE06nz9)<!-- MEMES:END -->
 
 ---
 

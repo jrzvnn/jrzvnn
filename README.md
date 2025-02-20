@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Lemme check da door](http://9gag.com/gag/a5Q6ZVr)
- - 😝 [So many homeless girls in Tokyo.](http://9gag.com/gag/ary3KQd)
- - 💣 [A liquor store owner in South Africa made a group of thieves drink the alcohol they tried to steal](http://9gag.com/gag/aoy393e)
+ - 😝 [Well well well](http://9gag.com/gag/ae910dB)
  - 😝 [Do I need a title? I hope you will collapse to the end.](http://9gag.com/gag/a6ZX7Ne)
- - 👉 [He took it like a little B.... man.. MAN..](http://9gag.com/gag/aE06nz9)<!-- MEMES:END -->
+ - 💣 [Quick Mafs](http://9gag.com/gag/aRB4e0Q)
+ - 😝 [Lemme check da door](http://9gag.com/gag/a5Q6ZVr)
+ - 👉 [Grandpa...](http://9gag.com/gag/aD26GoZ)<!-- MEMES:END -->
 
 ---
 

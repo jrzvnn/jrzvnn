@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [All the smart home news, reviews, and gadgets you need to know about](https://www.theverge.com/24190824/smart-home-news-reviews-guides-gadgets)
+ - [How the iPhone 16e mostly improves the Action Button](https://appleinsider.com/articles/25/02/20/how-the-iphone-16e-mostly-improves-the-action-button?utm_medium=rss)
+ - [AI hiring startup Mercor, founded by 21-year-old Thiel fellow Brendan Foody, raised $100M led by Felicis at a $2B valuation, up from $250M in September 2024 &lpar;Lizette Chapman/Bloomberg&rpar;](http://www.techmeme.com/250220/p24#a250220p24)
  - [Twelve South’s Find My-compatible charger is on sale starting at just $49](https://www.theverge.com/good-deals/615756/twelve-south-plugbug-find-my-charger-samsung-galaxy-buds-fe-deal-sale)
- - [8 Best Projectors According to Our Reviewers &lpar;2025&rpar;](https://www.wired.com/gallery/best-projectors/)
- - [Kandji &amp; Backblaze team up to simplify Mac IT management &amp; data protection](https://appleinsider.com/articles/25/02/20/kandji-backblaze-team-up-to-simplify-mac-it-management-data-protection?utm_medium=rss)
- - [Amazon plans to discontinue its app store for Android and its Coins digital currency, used to purchase games and apps, on August 20, 2025 &lpar;Ivan Mehta/TechCrunch&rpar;](http://www.techmeme.com/250220/p23#a250220p23)
- - [Ring&amp;#8217;s new security camera supports 2K video out of the box](https://www.theverge.com/news/614595/amazon-ring-outdoor-cam-plus-security-2k-video)<!-- TECH:END -->
+ - [8 Best Projectors According to Our Reviewers &lpar;2025&rpar;](https://www.wired.com/gallery/best-projectors/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

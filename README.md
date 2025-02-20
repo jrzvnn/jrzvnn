@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Damn](http://9gag.com/gag/a2vwrM1)
- - 😝 [I would\u2026even with costume](http://9gag.com/gag/awy3nyB)
- - 💣 [Well, this is the most random thing I&#39;ve read in a while.](http://9gag.com/gag/aAy6dQ2)
+ - 😝 [Fun facts](http://9gag.com/gag/a7oOrZm)
+ - 😝 [Floorman working an oil rig](http://9gag.com/gag/azxdjPb)
+ - 💣 [Gender equality is going too far](http://9gag.com/gag/aqyXLpv)
  - 😝 [Germans can&#39;t use Berlin subway](http://9gag.com/gag/ary35od)
- - 👉 [Filter life](http://9gag.com/gag/an7Rjen)<!-- MEMES:END -->
+ - 👉 [Well, this is the most random thing I&#39;ve read in a while.](http://9gag.com/gag/aAy6dQ2)<!-- MEMES:END -->
 
 ---
 

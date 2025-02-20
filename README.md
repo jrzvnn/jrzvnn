@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Apple could have sold me an iPhone SE 4, but it won&#39;t sell me the iPhone 16e](https://appleinsider.com/articles/25/02/20/apple-could-have-sold-me-an-iphone-se-4-but-it-wont-sell-me-the-iphone-16e?utm_medium=rss)
+ - [Amazon surpassed Walmart in quarterly sales for the first time during the most recent quarter, with a revenue of $187.8B compared to Walmart&#39;s $180.5B &lpar;Annie Palmer/CNBC&rpar;](http://www.techmeme.com/250220/p34#a250220p34)
  - [Kia unveils PV5 electric van as a futuristic ‘people mover’](https://www.theverge.com/news/616711/kia-pv5-electric-van-exterior-pics)
  - [New Mac malware &#39;FrigidStealer&#39; spreads through fake browser updates](https://appleinsider.com/articles/25/02/20/new-mac-malware-frigidstealer-spreads-through-fake-browser-updates?utm_medium=rss)
- - [DJI’s RS 4 Mini camera stabilizer can now track moving people](https://www.theverge.com/news/616642/dji-rs-4-mini-ronin-series-gimbal-stabilizer-camera-smartphone)
- - [Trump’s first 100 days: all the news affecting the tech industry](https://www.theverge.com/24348851/donald-trump-presidency-tech-science-news)
- - [The entire story of Twitter / X under Elon Musk](https://www.theverge.com/2022/4/11/23019836/elon-musk-twitter-board-of-directors-news-updates)<!-- TECH:END -->
+ - [DJI’s RS 4 Mini camera stabilizer can now track moving people](https://www.theverge.com/news/616642/dji-rs-4-mini-ronin-series-gimbal-stabilizer-camera-smartphone)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

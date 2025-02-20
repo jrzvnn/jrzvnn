@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Xbox Game Pass was supposed to be the Netflix of gaming — what happened?](https://www.theverge.com/decoder-podcast-with-nilay-patel/615263/xbox-game-pass-microsoft-cloud-gaming-future)
- - [The Odds of a City-Killing Asteroid Hitting Earth Keep Rising](https://www.wired.com/story/the-odds-of-a-city-killer-asteroid-impact-in-2032-keep-rising-should-we-be-worried/)
- - [iPhone 16 Pro versus Galaxy S25 Ultra: which camera is better?](https://www.theverge.com/video/615794/galaxy-s25-iphone-16-pro-camera-review)
- - [The Dune survival game launches in May, but you can build a character now](https://www.theverge.com/news/615931/dune-awakening-release-date-benchmarks-character-creator)
- - [Scuf’s Valor Pro is a promising start for its Hall effect Xbox controllers](https://www.theverge.com/hands-on/616019/scuf-valor-pro-hands-on-impressions-wired-xbox-controller)<!-- TECH:END -->
+ - [Amazon now has creative control over the James Bond franchise](https://www.theverge.com/news/616488/amazon-now-has-creative-control-over-the-james-bond-franchise)
+ - [Core design: How chip binning helps Apple offer A18 variants](https://appleinsider.com/articles/25/02/20/core-design-how-chip-binning-helps-apple-offer-a18-variants?utm_medium=rss)
+ - [Spotify will begin accepting AI-narrated audiobooks recorded using ElevenLabs software; Spotify already allows AI-recorded audiobooks, with several restrictions &lpar;Jess Weatherbed/The Verge&rpar;](http://www.techmeme.com/250220/p26#a250220p26)
+ - [Our favorite things: gear, gadgets, and other stuff](https://www.theverge.com/22344288/favorite-gadgets-tech-lgear-aptops-headphones-kitchen-recommendations)
+ - [All the smart home news, reviews, and gadgets you need to know about](https://www.theverge.com/24190824/smart-home-news-reviews-guides-gadgets)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

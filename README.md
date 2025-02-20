@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Initial M4 MacBook Air benchmark reveals same GPU power as M4 iPad Pro](https://appleinsider.com/articles/25/02/20/initial-m4-macbook-air-benchmark-reveals-same-gpu-power-as-m4-ipad-pro?utm_medium=rss)
  - [USDA Layoffs Derail Projects Benefiting American Farmers](https://www.wired.com/story/usda-layoffs-throw-climate-and-crop-projects-into-chaos/)
  - [Elon Musk says he will &quot;fix&quot; Community Notes as they are &quot;increasingly being gamed by governments &amp; legacy media&quot;, after disagreeing with notes about Ukraine &lpar;Matt Novak/Gizmodo&rpar;](http://www.techmeme.com/250220/p32#a250220p32)
  - [iPhone 16E: all the news on Apple’s new $599 phone](https://www.theverge.com/news/615399/apple-iphone-16e-event-specs-price-release-date-se)
- - [Apple is bringing Visual Intelligence to the iPhone 15 Pro](https://www.theverge.com/news/616665/apple-iphone-15-pro-visual-intelligence)
- - [The best deals on MacBooks right now](https://www.theverge.com/22399419/apple-macbook-air-pro-mac-mini-imac-deals)<!-- TECH:END -->
+ - [Apple is bringing Visual Intelligence to the iPhone 15 Pro](https://www.theverge.com/news/616665/apple-iphone-15-pro-visual-intelligence)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

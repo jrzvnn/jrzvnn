@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [iPhone 16E: all the news on Apple’s new $599 phone](https://www.theverge.com/news/615399/apple-iphone-16e-event-specs-price-release-date-se)
- - [Austin-based autonomous shipbuilding company Saronic raised a $600M Series C led by Elad Gil at a $4B valuation, and unveiled plans for a next-gen shipyard &lpar;Courtney Albon/Defense News&rpar;](http://www.techmeme.com/250219/p50#a250219p50)
- - [USDS Engineering Director Resigns: ‘This Is Not the Mission I Came to Serve’](https://www.wired.com/story/doge-engineering-director-resign/)
- - [Mistral&#39;s Le Chat app tops 1M downloads in just 14 days, quickly reaching the App Store&#39;s top free downloads spot in France; ChatGPT had 500K in just six days &lpar;Romain Dillet/TechCrunch&rpar;](http://www.techmeme.com/250219/p49#a250219p49)
- - [Steeper price drops hit Apple&#39;s M4 &amp; M4 Pro Mac mini](https://appleinsider.com/articles/25/02/19/steeper-price-drops-hit-apples-m4-m4-pro-mac-mini?utm_medium=rss)<!-- TECH:END -->
+ - [DOGE Now Has Access to the Top US Cybersecurity Agency](https://www.wired.com/story/doge-cisa-coristine-cybersecurity/)
+ - [More than a name change: iPhone 16e isn&#39;t the iPhone SE 4](https://appleinsider.com/articles/25/02/20/more-than-a-name-change-iphone-16e-isnt-the-iphone-se-4?utm_medium=rss)
+ - [The Thing and the Human Torch Are Coming to Marvel Rivals on Feb. 21](https://www.cnet.com/tech/gaming/the-thing-and-human-torch-come-to-marvel-rivals-on-february-21/#ftag=CAD590a51e)
+ - [32 of the Best Gifts Under $100 for 2025](https://www.cnet.com/news/best-gifts-under-100/#ftag=CAD590a51e)
+ - [iPhone 16E: all the news on Apple’s new $599 phone](https://www.theverge.com/news/615399/apple-iphone-16e-event-specs-price-release-date-se)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

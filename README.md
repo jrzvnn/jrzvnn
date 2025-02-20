@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Lemme check da door](http://9gag.com/gag/a5Q6ZVr)
- - 😝 [Blame Elmo!](http://9gag.com/gag/aVvoPR8)
- - 💣 [The Bluetooth device connected successfully](http://9gag.com/gag/aXPMwov)
  - 😝 [Germans can&#39;t use Berlin subway](http://9gag.com/gag/ary35od)
- - 👉 [People in my town are smiling and winking every time the `accident` is brought up.](http://9gag.com/gag/aQzv8DW)<!-- MEMES:END -->
+ - 😝 [He took it like a little B.... man.. MAN..](http://9gag.com/gag/aE06nz9)
+ - 💣 [Lemme check da door](http://9gag.com/gag/a5Q6ZVr)
+ - 😝 [Pop goes the weasel](http://9gag.com/gag/a1mNKAw)
+ - 👉 [Grandpa...](http://9gag.com/gag/aD26GoZ)<!-- MEMES:END -->
 
 ---
 

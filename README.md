@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [He took it like a little B.... man.. MAN..](http://9gag.com/gag/aE06nz9)
- - 😝 [Damn](http://9gag.com/gag/a2vwrM1)
- - 💣 [Well, this is the most random thing I&#39;ve read in a while.](http://9gag.com/gag/aAy6dQ2)
- - 😝 [Germans can&#39;t use Berlin subway](http://9gag.com/gag/ary35od)
- - 👉 [Gender equality is going too far](http://9gag.com/gag/aqyXLpv)<!-- MEMES:END -->
+ - 😝 [Fun facts](http://9gag.com/gag/a7oOrZm)
+ - 😝 [I\u2019d treasure them](http://9gag.com/gag/aXPMvPg)
+ - 💣 [Gender equality is going too far](http://9gag.com/gag/aqyXLpv)
+ - 😝 [Filter life](http://9gag.com/gag/an7Rjen)
+ - 👉 [Well, this is the most random thing I&#39;ve read in a while.](http://9gag.com/gag/aAy6dQ2)<!-- MEMES:END -->
 
 ---
 

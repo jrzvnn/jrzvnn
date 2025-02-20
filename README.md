@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The 31 Best Movies on Max &lpar;aka HBO Max&rpar; Right Now &lpar;February 2025&rpar;](https://www.wired.com/story/best-movies-hbo-max-right-now/)
  - [FTC Chair Andrew Ferguson announces an inquiry into &quot;Big Tech censorship&quot;, which he says is &quot;un-American&quot; and &quot;potentially illegal&quot; &lpar;Emily Birnbaum/Bloomberg&rpar;](http://www.techmeme.com/250220/p35#a250220p35)
  - [Nickelodeon’s next Avatar animated series is finally coming together](https://www.theverge.com/news/616866/avatar-seven-havens-nickelodeon-konietzko-dimartino)
  - [Apple could have sold me an iPhone SE 4, but it won&#39;t sell me the iPhone 16e](https://appleinsider.com/articles/25/02/20/apple-could-have-sold-me-an-iphone-se-4-but-it-wont-sell-me-the-iphone-16e?utm_medium=rss)
- - [Amazon surpassed Walmart in quarterly sales for the first time during the most recent quarter, with a revenue of $187.8B compared to Walmart&#39;s $180.5B &lpar;Annie Palmer/CNBC&rpar;](http://www.techmeme.com/250220/p34#a250220p34)
- - [Kia unveils PV5 electric van as a futuristic ‘people mover’](https://www.theverge.com/news/616711/kia-pv5-electric-van-exterior-pics)<!-- TECH:END -->
+ - [Amazon surpassed Walmart in quarterly sales for the first time during the most recent quarter, with a revenue of $187.8B compared to Walmart&#39;s $180.5B &lpar;Annie Palmer/CNBC&rpar;](http://www.techmeme.com/250220/p34#a250220p34)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

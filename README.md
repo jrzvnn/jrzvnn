@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [This smart thermostat company is considering charging users for its app](https://www.theverge.com/news/615975/tado-smart-thermostat-tests-app-fee)
  - [All the smart home news, reviews, and gadgets you need to know about](https://www.theverge.com/24190824/smart-home-news-reviews-guides-gadgets)
+ - [Microsoft Says It&#39;s Made a Major Quantum Computing Breakthrough With New Chip](https://www.cnet.com/tech/computing/microsoft-says-its-made-a-major-quantum-computing-breakthrough-with-new-chip/#ftag=CAD590a51e)
  - [Tim Cook meets with President Trump at the White House](https://appleinsider.com/articles/25/02/20/tim-cook-is-meeting-with-president-trump-at-the-white-house?utm_medium=rss)
- - [Trump’s first 100 days: all the news affecting the tech industry](https://www.theverge.com/24348851/donald-trump-presidency-tech-science-news)
- - [Here are the best Kindle deals right now](https://www.theverge.com/21539047/best-amazon-kindle-deals)
- - [Sources: the Trump administration targets officials fighting foreign interference in US elections, including those focused on cybersecurity and false content &lpar;New York Times&rpar;](http://www.techmeme.com/250220/p31#a250220p31)<!-- TECH:END -->
+ - [Call of Duty Just Launched Its Thinnest Multiplayer Map in Season 2 Reloaded](https://www.cnet.com/tech/gaming/call-of-duty-just-launched-its-thinnest-multiplayer-map-in-season-2-reloaded/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The Verge’s favorite kitchen gadgets](https://www.theverge.com/favorites/612453/favorite-cooking-food-instant-pot)
+ - [iPhone 15 Pro set to get Visual Intelligence in a future iOS update](https://appleinsider.com/articles/25/02/20/iphone-15-pro-set-to-get-visual-intelligence-in-a-future-ios-update?utm_medium=rss)
  - [The National Institute of Standards and Technology Braces for Mass Firings](https://www.wired.com/story/the-national-institute-of-standards-and-technology-braces-for-mass-firings/)
  - [Netflix Plans to Spend $1 Billion Making Content in Mexico Over the Next 4 Years](https://www.wired.com/story/netflix-1-billion-dollars-mexico-production/)
- - [Amazon will end support for Chime, its alternative to Zoom, on February 20, 2026; report: Amazon is adopting Zoom as its standard app for internal meetings &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/250220/p36#a250220p36)
- - [The 31 Best Movies on Max &lpar;aka HBO Max&rpar; Right Now &lpar;February 2025&rpar;](https://www.wired.com/story/best-movies-hbo-max-right-now/)
- - [FTC Chair Andrew Ferguson announces an inquiry into &quot;Big Tech censorship&quot;, which he says is &quot;un-American&quot; and &quot;potentially illegal&quot; &lpar;Emily Birnbaum/Bloomberg&rpar;](http://www.techmeme.com/250220/p35#a250220p35)<!-- TECH:END -->
+ - [Amazon will end support for Chime, its alternative to Zoom, on February 20, 2026; report: Amazon is adopting Zoom as its standard app for internal meetings &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/250220/p36#a250220p36)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

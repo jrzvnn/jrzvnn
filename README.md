@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [GTAV&amp;#8217;s next-gen console upgrades are coming to PC](https://www.theverge.com/news/616606/gta-v-pc-next-gen-console-upgrades-online)
- - [Tim Cook is meeting with President Trump at the White House](https://appleinsider.com/articles/25/02/20/tim-cook-is-meeting-with-president-trump-at-the-white-house?utm_medium=rss)
- - [Kuo: all iPhone 17 models will use Apple&#39;s in-house Wi-Fi chips, enhancing connectivity and cutting costs; only the slim iPhone 17 will use the C1 modem chip &lpar;Ryan Christoffel/9to5Mac&rpar;](http://www.techmeme.com/250220/p29#a250220p29)
- - [The standard iPhone needs ProMotion more than ever](https://www.theverge.com/apple/616134/iphone-16e-promotion-120-hz-display)
- - [Pegasus infections on iPhones more common than previously believed](https://appleinsider.com/articles/25/02/20/pegasus-infections-on-iphones-more-common-than-previously-believed?utm_medium=rss)<!-- TECH:END -->
+ - [Best iPhone 16e deals: Here&#39;s where to get up to $830 off when preorders launch](https://appleinsider.com/articles/25/02/20/best-iphone-16e-deals-heres-where-to-get-up-to-830-off-when-preorders-launch?utm_medium=rss)
+ - [The Watergate-Inspired Law That&#39;s Being Used to Fight DOGE](https://www.wired.com/story/uncanny-valley-podcast-doge-privacy-act/)
+ - [Apple’s Murderbot series starts streaming in May](https://www.theverge.com/news/616408/murderbot-series-apple-tv-plus-date-image)
+ - [Microsoft prepares for OpenAI’s GPT-5 model](https://www.theverge.com/notepad-microsoft-newsletter/616464/microsoft-prepares-for-openais-gpt-5-model)
+ - [DOGE Puts $1 Spending Limit on Government Employee Credit Cards](https://www.wired.com/story/doge-government-credit-cards/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [iPhone 16E: all the news on Apple’s new $599 phone](https://www.theverge.com/news/615399/apple-iphone-16e-event-specs-price-release-date-se)
+ - [The best deals on MacBooks right now](https://www.theverge.com/22399419/apple-macbook-air-pro-mac-mini-imac-deals)
+ - [Among Us 3D will let you deduce from a first-person perspective](https://www.theverge.com/news/616678/among-us-3d-trailer)
  - [This smart thermostat company is considering charging users for its app](https://www.theverge.com/news/615975/tado-smart-thermostat-tests-app-fee)
- - [All the smart home news, reviews, and gadgets you need to know about](https://www.theverge.com/24190824/smart-home-news-reviews-guides-gadgets)
- - [Microsoft Says It&#39;s Made a Major Quantum Computing Breakthrough With New Chip](https://www.cnet.com/tech/computing/microsoft-says-its-made-a-major-quantum-computing-breakthrough-with-new-chip/#ftag=CAD590a51e)
- - [Tim Cook meets with President Trump at the White House](https://appleinsider.com/articles/25/02/20/tim-cook-is-meeting-with-president-trump-at-the-white-house?utm_medium=rss)
- - [Call of Duty Just Launched Its Thinnest Multiplayer Map in Season 2 Reloaded](https://www.cnet.com/tech/gaming/call-of-duty-just-launched-its-thinnest-multiplayer-map-in-season-2-reloaded/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [All the smart home news, reviews, and gadgets you need to know about](https://www.theverge.com/24190824/smart-home-news-reviews-guides-gadgets)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Max Promo Code: 50% Off | February 2025](https://www.wired.com/story/max-promo-code/)
  - [$830 Off Verizon Promo Codes and Deals](https://www.wired.com/story/verizon-promo-code/)
  - [Adidas Promo Codes &amp; Deals: 30% Off](https://www.wired.com/story/adidas-promo-code/)
  - [TurboTax Discount Codes: 20% Off | February 2025](https://www.wired.com/story/turbotax-coupon/)
- - [Volvo’s ES90 sedan will be built with a Nvidia supercomputer](https://www.theverge.com/news/615869/volvo-es90-sedan-nvidia-drive-agx-orin)
- - [Paris-based Spore.Bio, which has developed a pre-trained deep learning algorithm to speed up microbiology testing, raised a $23M Series A led by Singular &lpar;Romain Dillet/TechCrunch&rpar;](http://www.techmeme.com/250220/p1#a250220p1)<!-- TECH:END -->
+ - [Volvo’s ES90 sedan will be built with a Nvidia supercomputer](https://www.theverge.com/news/615869/volvo-es90-sedan-nvidia-drive-agx-orin)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

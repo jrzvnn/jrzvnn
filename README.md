@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Clearview AI CEO and co-founder Hoan Ton-That resigns from the facial recognition company and says he would continue serving as a board member &lpar;David Jeans/Forbes&rpar;](http://www.techmeme.com/250219/p52#a250219p52)
+ - [Trump’s first 100 days: all the news affecting the tech industry](https://www.theverge.com/24348851/donald-trump-presidency-tech-science-news)
+ - [Clearview AI co-founder and President Hoan Ton-That resigns, after stepping back as CEO in December 2024, and says he will continue serving as a board member &lpar;David Jeans/Forbes&rpar;](http://www.techmeme.com/250219/p52#a250219p52)
  - [DOGE Now Has Access to the Top US Cybersecurity Agency](https://www.wired.com/story/doge-cisa-coristine-cybersecurity/)
  - [More than a name change: iPhone 16e isn&#39;t the iPhone SE 4](https://appleinsider.com/articles/25/02/20/more-than-a-name-change-iphone-16e-isnt-the-iphone-se-4?utm_medium=rss)
- - [Sources: top X execs hinted to Interpublic and other ad firms that a lack of spending on X could lead to legal woes, due to X&#39;s lawsuit against some advertisers &lpar;Suzanne Vranica/Wall Street Journal&rpar;](http://www.techmeme.com/250219/p51#a250219p51)
- - [The Thing and the Human Torch Are Coming to Marvel Rivals on Feb. 21](https://www.cnet.com/tech/gaming/the-thing-and-human-torch-come-to-marvel-rivals-on-february-21/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Sources: top X executives hinted to Interpublic and other ad firms that not spending on X could lead to legal woes, due to X&#39;s lawsuit against some advertisers &lpar;Suzanne Vranica/Wall Street Journal&rpar;](http://www.techmeme.com/250219/p51#a250219p51)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

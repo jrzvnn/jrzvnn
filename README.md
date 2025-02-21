@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Whoa](http://9gag.com/gag/aAy6xg0)
- - 😝 [This man participated in a competition where contestants had to tell a funny story `only by actions` and without speaking. So he demonstrated this story. Btw he won...](http://9gag.com/gag/agm15Y1)
- - 💣 [Mock me if you must, but I&#39;m beyond happy right now.](http://9gag.com/gag/aGynenX)
- - 😝 [Finally, the time has come](http://9gag.com/gag/aAy6x0o)
- - 👉 [Boost your post with funny title](http://9gag.com/gag/an7RM7B)<!-- MEMES:END -->
+ - 😝 [Fun facts](http://9gag.com/gag/a7oOrZm)
+ - 😝 [House, DVM](http://9gag.com/gag/aPAmjAg)
+ - 💣 [Go get the Green guy](http://9gag.com/gag/aMVBj8V)
+ - 😝 [In Sickness and in Health](http://9gag.com/gag/aND9YPb)
+ - 👉 [One for all you Tarantinos. I&#39;d rather see the bottom part...](http://9gag.com/gag/ae91b4W)<!-- MEMES:END -->
 
 ---
 

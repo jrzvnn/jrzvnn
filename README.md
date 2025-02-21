@@ -167,10 +167,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [Lemme check da door](http://9gag.com/gag/a5Q6ZVr)
- - 😝 [Go get the Green guy](http://9gag.com/gag/aMVBj8V)
- - 💣 [House, DVM](http://9gag.com/gag/aPAmjAg)
- - 😝 [Well, this is the most random thing I&#39;ve read in a while.](http://9gag.com/gag/aAy6dQ2)
- - 👉 [Gender equality is going too far](http://9gag.com/gag/aqyXLpv)<!-- MEMES:END -->
+ - 😝 [Big gun](http://9gag.com/gag/abA1zyO)
+ - 💣 [Poor student was abused to the core](http://9gag.com/gag/a5Q6ZPo)
+ - 😝 [In Sickness and in Health](http://9gag.com/gag/aND9YPb)
+ - 👉 [Category 5 calamity](http://9gag.com/gag/an7RjB5)<!-- MEMES:END -->
 
 ---
 

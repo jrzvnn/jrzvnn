@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [`I need a picture confirming the package delivery`](http://9gag.com/gag/aPAmYwn)
- - 😝 [Latina mom, and a slipper of mass destruction](http://9gag.com/gag/aLnz9rW)
- - 💣 [Go get the Green guy](http://9gag.com/gag/aMVBj8V)
- - 😝 [Poor student was abused to the core](http://9gag.com/gag/a5Q6ZPo)
- - 👉 [Pop goes the weasel](http://9gag.com/gag/a1mNKAw)<!-- MEMES:END -->
+ - 😝 [One for all you Tarantinos. I&#39;d rather see the bottom part...](http://9gag.com/gag/ae91b4W)
+ - 😝 [Go get the Green guy](http://9gag.com/gag/aMVBj8V)
+ - 💣 [I\u2019d treasure them](http://9gag.com/gag/aXPMvPg)
+ - 😝 [In Sickness and in Health](http://9gag.com/gag/aND9YPb)
+ - 👉 [Big gun](http://9gag.com/gag/abA1zyO)<!-- MEMES:END -->
 
 ---
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The OnePlus Watch 3 has an unfixable but endearing typo](https://www.theverge.com/news/617219/oneplus-watch-3-typo-smartwatch)
+ - [Apple pulls encryption feature from UK over government spying demands](https://www.theverge.com/news/617273/apple-removes-encryption-advanced-data-protection-adp-uk-spying-backdoor)
+ - [Best Pet Insurance Companies for 2025](https://www.cnet.com/personal-finance/insurance/best-pet-insurance-companies/#ftag=CAD590a51e)
  - [Month-end monitor deals: Save up to $800 on Samsung M8, S9 5K, Apple Studio Display](https://appleinsider.com/articles/25/02/21/month-end-monitor-deals-save-up-to-800-on-samsung-m8-s9-5k-apple-studio-display?utm_medium=rss)
- - [All the smart home news, reviews, and gadgets you need to know about](https://www.theverge.com/24190824/smart-home-news-reviews-guides-gadgets)
- - [Here’s when and where you can preorder the new iPhone 16E](https://www.theverge.com/good-deals/609618/iphone-16e-preorder-how-to-buy-price-release-date)
- - [iPhone 16E: all the news on Apple’s new $599 phone](https://www.theverge.com/news/615399/apple-iphone-16e-event-specs-price-release-date-se)
- - [Apple turns off data protection in the UK rather than comply with backdoor mandate](https://appleinsider.com/articles/25/02/21/apple-turns-off-data-protection-in-the-uk-rather-than-comply-with-backdoor-mandate?utm_medium=rss)<!-- TECH:END -->
+ - [Here’s when and where you can preorder the new iPhone 16E](https://www.theverge.com/good-deals/609618/iphone-16e-preorder-how-to-buy-price-release-date)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

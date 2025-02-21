@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [Pop goes the weasel](http://9gag.com/gag/a1mNKAw)
  - 😝 [Category 5 calamity](http://9gag.com/gag/an7RjB5)
- - 😝 [Gender equality is going too far](http://9gag.com/gag/aqyXLpv)
- - 💣 [People in my town are smiling and winking every time the `accident` is brought up.](http://9gag.com/gag/aQzv8DW)
- - 😝 [A lot of people can relate](http://9gag.com/gag/aW47moA)
- - 👉 [Go get the Green guy](http://9gag.com/gag/aMVBj8V)<!-- MEMES:END -->
+ - 💣 [Damn](http://9gag.com/gag/a2vwrM1)
+ - 😝 [Poor student was abused to the core](http://9gag.com/gag/a5Q6ZPo)
+ - 👉 [Gender equality is going too far](http://9gag.com/gag/aqyXLpv)<!-- MEMES:END -->
 
 ---
 

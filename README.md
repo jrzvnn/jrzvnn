@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Detroit was flooded and it froze over night. Cars are stuck.](http://9gag.com/gag/avy1rbE)
- - 😝 [The ice cream service was very satisfying.](http://9gag.com/gag/a9y6Axm)
- - 💣 [I\u2019d treasure them](http://9gag.com/gag/aXPMvPg)
- - 😝 [Archaeologist Khaled Al-Asaad dedicated his life to the excavation and preservation of Palmyra, a UNESCO World Heritage Site. After enduring weeks of torture, he was beheaded by ISIS for refusing to reveal the location of ancient artifacts. He died a hero of heritage protection.](http://9gag.com/gag/axy308M)
- - 👉 [Whoa](http://9gag.com/gag/aAy6xg0)<!-- MEMES:END -->
+ - 😝 [That split moment of panic in his face. Dang!](http://9gag.com/gag/aQzvM3K)
+ - 😝 [Play Silly Games Win Silly Prizes](http://9gag.com/gag/a7oOrox)
+ - 💣 [People in my town are smiling and winking every time the `accident` is brought up.](http://9gag.com/gag/aQzv8DW)
+ - 😝 [Gender equality is going too far](http://9gag.com/gag/aqyXLpv)
+ - 👉 [Poor student was abused to the core](http://9gag.com/gag/a5Q6ZPo)<!-- MEMES:END -->
 
 ---
 

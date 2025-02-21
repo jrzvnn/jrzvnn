@@ -161,7 +161,7 @@ R                        1 repo              ░░░░░░░░░░░�
  - [iPhone fold display details revealed in dubious leak](https://appleinsider.com/articles/25/02/21/iphone-fold-display-details-revealed-in-dubious-leak?utm_medium=rss)
  - [OpenAI launches Operator in the UK, Japan, and most ChatGPT regions, and says it&#39;s working to expand to the EU, Switzerland, Norway, Liechtenstein, and Iceland &lpar;Ivan Mehta/TechCrunch&rpar;](http://www.techmeme.com/250221/p6#a250221p6)
  - [The Delirious, Violent, Impossible True Story of the Zizians](https://www.wired.com/story/delirious-violent-impossible-true-story-zizians/)
- - [The Lunar Economy Is Coming](https://www.wired.com/story/blue-ghost-mission-lunar-economy/)<!-- TECH:END -->
+ - [Act Now to Maximize Your Earnings. Today&#39;s CD Rates, Feb. 21, 2025](https://www.cnet.com/personal-finance/banking/act-now-to-maximize-your-earnings-todays-cd-rates-feb-21-2025/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [South of Midnight&amp;#8217;s Southern Gothic folklore world is rooted in authenticity](https://www.theverge.com/games/617373/south-of-midnight-preview-interview-ahmed-best)
+ - [How to set up crash detection on your iPhone and Apple Watch](https://www.theverge.com/how-to/617241/iphone-apple-watch-crash-detection-how-to)
  - [OpenAI says it found evidence of an AI-powered surveillance tool used by a Chinese security operation to identify anti-China posts on social media in the West &lpar;Cade Metz/New York Times&rpar;](http://www.techmeme.com/250221/p19#a250221p19)
  - [Recipes, restaurant reviews, and kitchen tips coming to Apple News+](https://appleinsider.com/articles/25/02/21/recipes-restaurant-reviews-and-kitchen-tips-coming-to-apple-news?utm_medium=rss)
- - [Amazon Prime members can save $300 on Eufy’s midrange X10 Pro Omni](https://www.theverge.com/good-deals/616748/eufy-x10-pro-omni-robot-vacuum-samsung-galaxy-watch-7-deal-sale)
- - [Apple Intelligence is coming to Apple Vision Pro in April](https://appleinsider.com/articles/25/02/21/apple-intelligence-is-coming-to-apple-vision-pro-in-april?utm_medium=rss)
- - [The Vision Pro is getting easier to share with guests, and adding a new iPhone app](https://www.theverge.com/news/614274/apple-vision-pro-guest-mode-update-visionos-18-4-spatial-gallery-app)<!-- TECH:END -->
+ - [Amazon Prime members can save $300 on Eufy’s midrange X10 Pro Omni](https://www.theverge.com/good-deals/616748/eufy-x10-pro-omni-robot-vacuum-samsung-galaxy-watch-7-deal-sale)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

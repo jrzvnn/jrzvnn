@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Category 5 calamity](http://9gag.com/gag/an7RjB5)
- - 😝 [House, DVM](http://9gag.com/gag/aPAmjAg)
- - 💣 [Well, this is the most random thing I&#39;ve read in a while.](http://9gag.com/gag/aAy6dQ2)
- - 😝 [Poor student was abused to the core](http://9gag.com/gag/a5Q6ZPo)
- - 👉 [Go get the Green guy](http://9gag.com/gag/aMVBj8V)<!-- MEMES:END -->
+ - 😝 [Lemme check da door](http://9gag.com/gag/a5Q6ZVr)
+ - 😝 [Go get the Green guy](http://9gag.com/gag/aMVBj8V)
+ - 💣 [House, DVM](http://9gag.com/gag/aPAmjAg)
+ - 😝 [Well, this is the most random thing I&#39;ve read in a while.](http://9gag.com/gag/aAy6dQ2)
+ - 👉 [Gender equality is going too far](http://9gag.com/gag/aqyXLpv)<!-- MEMES:END -->
 
 ---
 

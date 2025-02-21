@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [New in iOS 18.4 developer beta 1: Apple Intelligence changes, Apple News+ food more](https://appleinsider.com/articles/25/02/21/new-in-ios-184-developer-beta-1-apple-intelligence-changes-vision-pro-app-more?utm_medium=rss)
+ - [NetEase CEO William Ding has cut hundreds of jobs, closed game studios, and reduced international investment as he refocuses on a smaller portfolio of titles &lpar;Bloomberg&rpar;](http://www.techmeme.com/250221/p23#a250221p23)
  - [DOGE Put Him in the Treasury Department. His Company Has Federal Contracts Worth Millions](https://www.wired.com/story/krause-doge-cloud-software-treasury/)
  - [Trump’s first 100 days: all the news affecting the tech industry](https://www.theverge.com/24348851/donald-trump-presidency-tech-science-news)
- - [The GSA is shutting down its EV chargers, calling them ‘not mission critical’](https://www.theverge.com/news/617235/the-gsa-is-shutting-down-its-ev-chargers-calling-them-not-mission-critical)
- - [All the news about EV charging in the US](https://www.theverge.com/23758095/electric-vehicle-charging-news-nacs-ccs-tesla-supercharger-us-infrastructure)
- - [Sakana AI walks back claims that its new AI CUDA Engineer can speed up AI training by up to 100x, after complaints about worse-than-average training performance &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/250221/p22#a250221p22)<!-- TECH:END -->
+ - [The GSA is shutting down its EV chargers, calling them ‘not mission critical’](https://www.theverge.com/news/617235/the-gsa-is-shutting-down-its-ev-chargers-calling-them-not-mission-critical)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

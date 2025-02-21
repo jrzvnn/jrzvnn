@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [How the EU’s DMA is changing Big Tech: all of the news and updates](https://www.theverge.com/24040543/eu-dma-digital-markets-act-big-tech-antitrust)
  - [Brazilian Supreme Court Justice Alexandre de Moraes orders the immediate and full suspension of Rumble in the country due to noncompliance with court orders &lpar;Ricardo Brito/Reuters&rpar;](http://www.techmeme.com/250221/p25#a250221p25)
  - [Arkham says ZachXBT submitted proof that North Korea&#39;s Lazarus Group is behind Bybit&#39;s $1.5B hack, which is the largest single theft in crypto history &lpar;RT Watson/The Block&rpar;](http://www.techmeme.com/250221/p24#a250221p24)
  - [New in iOS 18.4 developer beta 1: Apple Intelligence changes, Apple News+ food more](https://appleinsider.com/articles/25/02/21/new-in-ios-184-developer-beta-1-apple-intelligence-changes-vision-pro-app-more?utm_medium=rss)
- - [NetEase CEO William Ding has cut hundreds of jobs, closed game studios, and reduced international investment as he refocuses on a smaller portfolio of titles &lpar;Bloomberg&rpar;](http://www.techmeme.com/250221/p23#a250221p23)
- - [DOGE Put Him in the Treasury Department. His Company Has Federal Contracts Worth Millions](https://www.wired.com/story/krause-doge-cloud-software-treasury/)<!-- TECH:END -->
+ - [NetEase CEO William Ding has cut hundreds of jobs, closed game studios, and reduced international investment as he refocuses on a smaller portfolio of titles &lpar;Bloomberg&rpar;](http://www.techmeme.com/250221/p23#a250221p23)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

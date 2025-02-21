@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Archaeologist Khaled Al-Asaad dedicated his life to the excavation and preservation of Palmyra, a UNESCO World Heritage Site. After enduring weeks of torture, he was beheaded by ISIS for refusing to reveal the location of ancient artifacts. He died a hero of heritage protection.](http://9gag.com/gag/axy308M)
- - 😝 [I\u2019d treasure them](http://9gag.com/gag/aXPMvPg)
- - 💣 [Core memory unlocked](http://9gag.com/gag/a0eXQKd)
- - 😝 [Whoa](http://9gag.com/gag/aAy6xg0)
- - 👉 [You may walk safe today bro](http://9gag.com/gag/aBy68Ax)<!-- MEMES:END -->
+ - 😝 [Category 5 calamity](http://9gag.com/gag/an7RjB5)
+ - 😝 [One for all you Tarantinos. I&#39;d rather see the bottom part...](http://9gag.com/gag/ae91b4W)
+ - 💣 [Poor student was abused to the core](http://9gag.com/gag/a5Q6ZPo)
+ - 😝 [Well, this is the most random thing I&#39;ve read in a while.](http://9gag.com/gag/aAy6dQ2)
+ - 👉 [Big gun](http://9gag.com/gag/abA1zyO)<!-- MEMES:END -->
 
 ---
 

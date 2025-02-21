@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: SoftBank VF and others marked up ByteDance&#39;s valuation to $400B+; SoftBank puts zero value on TikTok&#39;s US operations but factored in AI business Doubao &lpar;Bloomberg&rpar;](http://www.techmeme.com/250221/p17#a250221p17)
- - [Go Read This: The Verge’s favorite reads from all over the web](https://www.theverge.com/24188803/best-tech-reads-articles-books)
- - [Which iPhone 16 Model Should You Buy?](https://www.wired.com/story/which-apple-iphone-16-models-to-buy/)
- - [Anker’s 58-liter solar fridge is a noisy power-monster](https://www.theverge.com/reviews/610801/anker-58-liter-solar-refrigerator-review)
- - [OpenAI told investors that it expects revenue to more than triple in 2025, from $3.7B to over $12.5B; one-third of the revenue growth would come from SoftBank &lpar;The Information&rpar;](http://www.techmeme.com/250221/p16#a250221p16)<!-- TECH:END -->
+ - [Manchester UK Apple Store expanding to larger premises](https://appleinsider.com/articles/25/02/21/manchester-uk-apple-store-expanding-to-larger-premises?utm_medium=rss)
+ - [Apple starts a new round of developer betas, including iOS 18.4, macOS 15.4](https://appleinsider.com/articles/25/02/21/apple-starts-a-new-round-of-developer-betas-including-ios-184-macos-154?utm_medium=rss)
+ - [Apple Intelligence is coming to the Vision Pro](https://www.theverge.com/news/614286/apple-intelligence-vision-pro-visionos)
+ - [Apple will fix many Vision Pro pain points in visionOS 2.4](https://www.theverge.com/news/614274/apple-vision-pro-guest-mode-update-visionos-18-4-spatial-gallery-app)
+ - [Everything we know about Apple’s Vision Pro](https://www.theverge.com/23689334/apple-mixed-reality-headset-augmented-virtual-reality-ar-vr-rumors-specs-features)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

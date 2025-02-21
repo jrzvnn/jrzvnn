@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Preorders for the iPhone 16e are now open](https://appleinsider.com/articles/25/02/21/preorders-for-the-iphone-16e-are-now-open?utm_medium=rss)
+ - [Best Internet Providers in Massachusetts](https://www.cnet.com/home/internet/best-internet-providers-in-massachusetts/#ftag=CAD590a51e)
  - [6 Best Travel Mugs of 2025, Tested and Reviewed by WIRED Staffers](https://www.wired.com/gallery/best-travel-mugs/)
  - [Game Developers Fear Anti-Trans Measures Could Hit Their Industry Next](https://www.wired.com/story/game-developers-fear-anti-trans-measures/)
- - [Walmart recalls Swagtron scooter after its battery set an apartment on fire](https://www.theverge.com/news/617151/walmart-recalls-swagtron-electric-scooter-fire-risk)
- - [Sensor Tower: Xiaohongshu&#39;s downloads fell 91% in five days after Apple and Google relisted TikTok on their US app stores on February 13, while TikTok&#39;s doubled &lpar;Vlad Savov/Bloomberg&rpar;](http://www.techmeme.com/250221/p7#a250221p7)
- - [Apple Store goes down ahead of iPhone 16e preorders](https://appleinsider.com/articles/25/02/21/apple-store-goes-down-ahead-of-iphone-16e-preorders?utm_medium=rss)<!-- TECH:END -->
+ - [Best Foam Rollers for 2025](https://www.cnet.com/health/fitness/best-foam-roller/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

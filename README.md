@@ -169,8 +169,8 @@ R                        1 repo              ░░░░░░░░░░░�
  - 😝 [I am suddenly rich](http://9gag.com/gag/agm152g)
  - 😝 [This man participated in a competition where contestants had to tell a funny story `only by actions` and without speaking. So he demonstrated this story. Btw he won...](http://9gag.com/gag/agm15Y1)
  - 💣 [Its funny cuz its true](http://9gag.com/gag/avy1oqM)
- - 😝 [\u201cYellow\u201d.](http://9gag.com/gag/an7R990)
- - 👉 [Well said](http://9gag.com/gag/a5Q6RAo)<!-- MEMES:END -->
+ - 😝 [Well said](http://9gag.com/gag/a5Q6RAo)
+ - 👉 [\u201cYellow\u201d.](http://9gag.com/gag/an7R990)<!-- MEMES:END -->
 
 ---
 

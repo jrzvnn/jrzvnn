@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Steam Deck, ROG Ally, and more: all the news about the handheld PC gaming revolution](https://www.theverge.com/22579493/valve-steam-deck-gaming-handheld-pc)
  - [Hands on with Apple Intelligence on Apple Vision Pro](https://appleinsider.com/articles/25/02/21/hands-on-with-apple-intelligence-on-apple-vision-pro?utm_medium=rss)
  - [Trump’s first 100 days: all the news affecting the tech industry](https://www.theverge.com/24348851/donald-trump-presidency-tech-science-news)
  - [Elon Musk&amp;#8217;s first month of destroying America will cost us decades](https://www.theverge.com/elon-musk/617427/musk-trump-doge-recession-unemployment)
- - [The first iOS 18.4 developer beta is here, with support for Priority Notifications](https://www.theverge.com/news/617534/ios-18-4-developer-beta-default-navigation-news-plus-food)
- - [Apple gets into AI: all the news on iOS 18, macOS Sequoia, and more](https://www.theverge.com/24246632/apple-intelligence-ios-18-ipad-os-18-macos-sequoia-iphone-16)<!-- TECH:END -->
+ - [The first iOS 18.4 developer beta is here, with support for Priority Notifications](https://www.theverge.com/news/617534/ios-18-4-developer-beta-default-navigation-news-plus-food)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

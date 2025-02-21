@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Trump’s first 100 days: all the news affecting the tech industry](https://www.theverge.com/24348851/donald-trump-presidency-tech-science-news)
- - [DOGE’s USDS Purge Included the Guy Who Keeps Veterans’ Data Safe Online](https://www.wired.com/story/doge-usds-purge-veterans-affairs-site-cybersecurity/)
- - [Theragun Alternatives: Best Budget Massage Guns for 2025](https://www.cnet.com/health/fitness/best-budget-massage-guns/#ftag=CAD590a51e)
- - [The iPhone 16E Announcement: Here Are the Release Date, Price, Features and Specs](https://www.cnet.com/tech/mobile/the-iphone-16e-announcement-here-are-the-release-date-price-features-and-specs/#ftag=CAD590a51e)
- - [visionOS 2.4 beta brings several long-awaited features to Apple Vision Pro](https://appleinsider.com/articles/25/02/21/visionos-24-beta-brings-several-long-awaited-features-to-apple-vision-pro?utm_medium=rss)<!-- TECH:END -->
+ - [Source: the US Marshals Service is struggling to come up with a rough estimate of its bitcoin holdings, complicating plans for a US Bitcoin reserve &lpar;Tom Carreras/CoinDesk&rpar;](http://www.techmeme.com/250221/p21#a250221p21)
+ - [Federal workers launch a new site to share inside information about DOGE](https://www.theverge.com/news/617014/federal-workers-we-the-builders-website-doge)
+ - [Apple gets into AI: all the news on iOS 18, macOS Sequoia, and more](https://www.theverge.com/24246632/apple-intelligence-ios-18-ipad-os-18-macos-sequoia-iphone-16)
+ - [How the EU’s DMA is changing Big Tech: all of the news and updates](https://www.theverge.com/24040543/eu-dma-digital-markets-act-big-tech-antitrust)
+ - [Trump’s first 100 days: all the news affecting the tech industry](https://www.theverge.com/24348851/donald-trump-presidency-tech-science-news)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

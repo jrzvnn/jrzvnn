@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Damn](http://9gag.com/gag/a2vwrM1)
+ - 😝 [I\u2019d treasure them](http://9gag.com/gag/aXPMvPg)
+ - 😝 [Dummy move](http://9gag.com/gag/axy30E1)
+ - 💣 [Oh man!](http://9gag.com/gag/avy18gM)
  - 😝 [Big gun](http://9gag.com/gag/abA1zyO)
- - 💣 [Category 5 calamity](http://9gag.com/gag/an7RjB5)
- - 😝 [Pop goes the weasel](http://9gag.com/gag/a1mNKAw)
- - 👉 [Oh man!](http://9gag.com/gag/avy18gM)<!-- MEMES:END -->
+ - 👉 [Pop goes the weasel](http://9gag.com/gag/a1mNKAw)<!-- MEMES:END -->
 
 ---
 

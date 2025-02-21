@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Sources: Meta&#39;s oversight board got little notice of Zuckerberg&#39;s &quot;free speech&quot; overhaul, fueling tensions as it rushes to hold Meta accountable for the changes &lpar;Hannah Murphy/Financial Times&rpar;](http://www.techmeme.com/250221/p1#a250221p1)
  - [Trump’s first 100 days: all the news affecting the tech industry](https://www.theverge.com/24348851/donald-trump-presidency-tech-science-news)
  - [I cannot describe how strange Elon Musk&amp;#8217;s CPAC appearance was](https://www.theverge.com/elon-musk/617090/elon-musk-cpac-2025-transcript)
  - [Yoto Mini review: A tiny, powerful, &amp; endlessly fun speaker for kids](https://appleinsider.com/articles/25/02/21/yoto-mini-review-a-tiny-powerful-endlessly-fun-speaker-for-kids?utm_medium=rss)
- - [Chinese state media: Huawei founder Ren Zhengfei told Xi Jinping at a meeting that concerns about China lacking homegrown chips or operating systems had eased &lpar;Brenda Goh/Reuters&rpar;](http://www.techmeme.com/250220/p46#a250220p46)
- - [Reddit reportedly experienced some outages](https://www.theverge.com/news/617081/reddit-outage-down)<!-- TECH:END -->
+ - [Chinese state media: Huawei founder Ren Zhengfei told Xi Jinping at a meeting that concerns about China lacking homegrown chips or operating systems had eased &lpar;Brenda Goh/Reuters&rpar;](http://www.techmeme.com/250220/p46#a250220p46)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

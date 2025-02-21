@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Best Internet Providers in Naperville, Illinois](https://www.cnet.com/home/internet/best-internet-providers-in-naperville-il/#ftag=CAD590a51e)
- - [Does &#39;Captain America: Brave New World&#39; Have a Post-Credits Scene? We Break It All Down](https://www.cnet.com/tech/services-and-software/doescaptain-america-brave-new-world-have-a-post-credits-scene-we-break-it-all-down/#ftag=CAD590a51e)
- - [Android Auto bug is breaking wireless phone connectivity](https://www.theverge.com/news/617207/android-auto-bug-wireless-phone-connectivity-reboot)
- - [iPhone 16e, iPhone 17, and the end of Humane on the AppleInsider Podcast](https://appleinsider.com/articles/25/02/21/iphone-16e-iphone-17-and-the-end-of-humane-on-the-appleinsider-podcast?utm_medium=rss)
- - [Source: AI search engine startup Genspark raised a $100M Series A at a $530M valuation and currently has over 2M MAUs; it raised a $60M seed in June 2024 &lpar;Anna Tong/Reuters&rpar;](http://www.techmeme.com/250221/p10#a250221p10)<!-- TECH:END -->
+ - [There&#39;s not a big rush to buy the iPhone 16e yet](https://appleinsider.com/articles/25/02/21/nobodys-rushing-to-buy-the-iphone-16e-yet?utm_medium=rss)
+ - [Trump’s first 100 days: all the news affecting the tech industry](https://www.theverge.com/24348851/donald-trump-presidency-tech-science-news)
+ - [The GSA is shutting down its EV chargers, calling them ‘not mission critical’](https://www.theverge.com/news/617235/the-gsa-is-shutting-down-its-ev-chargers-calling-them-not-mission-critical)
+ - [All the news about EV charging in the US](https://www.theverge.com/23758095/electric-vehicle-charging-news-nacs-ccs-tesla-supercharger-us-infrastructure)
+ - [Apple says Advanced Data Protection will not be available in the UK for new users, pulling the feature rather than complying with UK&#39;s order to build a backdoor &lpar;Mark Gurman/Bloomberg&rpar;](http://www.techmeme.com/250221/p12#a250221p12)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Apple turns off data protection in the UK rather than comply with backdoor mandate](https://appleinsider.com/articles/25/02/21/apple-turns-off-data-protection-in-the-uk-rather-than-comply-with-backdoor-mandate?utm_medium=rss)
+ - [Phew! The risk of that asteroid hitting Earth in 2032 has significantly lowered](https://www.theverge.com/news/617177/nasa-asteroid-2024-yr4-european-space-agency-risk-collision-impact)
  - [There&#39;s not a big rush to buy the iPhone 16e yet](https://appleinsider.com/articles/25/02/21/nobodys-rushing-to-buy-the-iphone-16e-yet?utm_medium=rss)
  - [Trump’s first 100 days: all the news affecting the tech industry](https://www.theverge.com/24348851/donald-trump-presidency-tech-science-news)
- - [The GSA is shutting down its EV chargers, calling them ‘not mission critical’](https://www.theverge.com/news/617235/the-gsa-is-shutting-down-its-ev-chargers-calling-them-not-mission-critical)
- - [All the news about EV charging in the US](https://www.theverge.com/23758095/electric-vehicle-charging-news-nacs-ccs-tesla-supercharger-us-infrastructure)
- - [Apple says Advanced Data Protection will not be available in the UK for new users, pulling the feature rather than complying with UK&#39;s order to build a backdoor &lpar;Mark Gurman/Bloomberg&rpar;](http://www.techmeme.com/250221/p12#a250221p12)<!-- TECH:END -->
+ - [The GSA is shutting down its EV chargers, calling them ‘not mission critical’](https://www.theverge.com/news/617235/the-gsa-is-shutting-down-its-ev-chargers-calling-them-not-mission-critical)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

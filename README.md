@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Why we doubt when pretty girls talk to us](http://9gag.com/gag/aBy60LN)
- - 😝 [Oh man!](http://9gag.com/gag/avy18gM)
- - 💣 [`I need a picture confirming the package delivery`](http://9gag.com/gag/aPAmYwn)
- - 😝 [Category 5 calamity](http://9gag.com/gag/an7RjB5)
- - 👉 [Well, this is the most random thing I&#39;ve read in a while.](http://9gag.com/gag/aAy6dQ2)<!-- MEMES:END -->
+ - 😝 [Whoa](http://9gag.com/gag/aAy6xg0)
+ - 😝 [This man participated in a competition where contestants had to tell a funny story `only by actions` and without speaking. So he demonstrated this story. Btw he won...](http://9gag.com/gag/agm15Y1)
+ - 💣 [Mock me if you must, but I&#39;m beyond happy right now.](http://9gag.com/gag/aGynenX)
+ - 😝 [Finally, the time has come](http://9gag.com/gag/aAy6x0o)
+ - 👉 [Boost your post with funny title](http://9gag.com/gag/an7RM7B)<!-- MEMES:END -->
 
 ---
 

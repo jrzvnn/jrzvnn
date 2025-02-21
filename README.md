@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [A lot of people can relate](http://9gag.com/gag/aW47moA)
- - 😝 [Category 5 calamity](http://9gag.com/gag/an7RjB5)
- - 💣 [Big gun](http://9gag.com/gag/abA1zyO)
- - 😝 [Pop goes the weasel](http://9gag.com/gag/a1mNKAw)
- - 👉 [One for all you Tarantinos. I&#39;d rather see the bottom part...](http://9gag.com/gag/ae91b4W)<!-- MEMES:END -->
+ - 😝 [I am suddenly rich](http://9gag.com/gag/agm152g)
+ - 😝 [This man participated in a competition where contestants had to tell a funny story `only by actions` and without speaking. So he demonstrated this story. Btw he won...](http://9gag.com/gag/agm15Y1)
+ - 💣 [Its funny cuz its true](http://9gag.com/gag/avy1oqM)
+ - 😝 [\u201cYellow\u201d.](http://9gag.com/gag/an7R990)
+ - 👉 [Well said](http://9gag.com/gag/a5Q6RAo)<!-- MEMES:END -->
 
 ---
 

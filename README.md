@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [visionOS 2.4 beta brings several long-awaited features to Apple Vision Pro](https://appleinsider.com/articles/25/02/21/visionos-24-beta-brings-several-long-awaited-features-to-apple-vision-pro?utm_medium=rss)
- - [This New Drug Could Help End the HIV Epidemic—but US Funding Cuts Are Killing Its Rollout](https://www.wired.com/story/lenacapavir-usaid-hiv-aids-funding-cuts/)
- - [Sources: AMD is in talks with Asian companies for a $3B to $4B sale of data center manufacturing plants, which it inherited in its $4.9B ZT Systems acquisition &lpar;Bloomberg&rpar;](http://www.techmeme.com/250221/p20#a250221p20)
- - [Apple’s News app is getting a recipes section](https://www.theverge.com/news/617456/apple-news-plus-food-recipies-ios-app)
- - [South of Midnight&amp;#8217;s Southern Gothic folklore world is rooted in authenticity](https://www.theverge.com/games/617373/south-of-midnight-preview-interview-ahmed-best)<!-- TECH:END -->
+ - [Trump’s first 100 days: all the news affecting the tech industry](https://www.theverge.com/24348851/donald-trump-presidency-tech-science-news)
+ - [DOGE’s USDS Purge Included the Guy Who Keeps Veterans’ Data Safe Online](https://www.wired.com/story/doge-usds-purge-veterans-affairs-site-cybersecurity/)
+ - [Theragun Alternatives: Best Budget Massage Guns for 2025](https://www.cnet.com/health/fitness/best-budget-massage-guns/#ftag=CAD590a51e)
+ - [The iPhone 16E Announcement: Here Are the Release Date, Price, Features and Specs](https://www.cnet.com/tech/mobile/the-iphone-16e-announcement-here-are-the-release-date-price-features-and-specs/#ftag=CAD590a51e)
+ - [visionOS 2.4 beta brings several long-awaited features to Apple Vision Pro](https://appleinsider.com/articles/25/02/21/visionos-24-beta-brings-several-long-awaited-features-to-apple-vision-pro?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

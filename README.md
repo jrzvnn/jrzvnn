@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Which iPhone 16 Model Should You Buy?](https://www.wired.com/story/which-apple-iphone-16-models-to-buy/)
  - [Anker’s 58-liter solar fridge is a noisy power-monster](https://www.theverge.com/reviews/610801/anker-58-liter-solar-refrigerator-review)
  - [OpenAI told investors that it expects revenue to more than triple in 2025, from $3.7B to over $12.5B; one-third of the revenue growth would come from SoftBank &lpar;The Information&rpar;](http://www.techmeme.com/250221/p16#a250221p16)
  - [Apple turns off data protection in the UK rather than comply with backdoor mandate](https://appleinsider.com/articles/25/02/21/apple-turns-off-data-protection-in-the-uk-rather-than-comply-with-backdoor-mandate?utm_medium=rss)
- - [Sources: Fluidstack, which wants to build a &amp;euro;10B AI data center in France as part of Macron&#39;s &amp;euro;109B data center pledge, is in talks to raise a ~$200M Series A &lpar;Bloomberg&rpar;](http://www.techmeme.com/250221/p15#a250221p15)
- - [Apple ends its Qualcomm dependency with the new C1 modem chip](https://appleinsider.com/articles/25/02/21/apple-ends-its-qualcomm-dependency-with-the-new-c1-modem-chip?utm_medium=rss)<!-- TECH:END -->
+ - [Sources: Fluidstack, which wants to build a &amp;euro;10B AI data center in France as part of Macron&#39;s &amp;euro;109B data center pledge, is in talks to raise a ~$200M Series A &lpar;Bloomberg&rpar;](http://www.techmeme.com/250221/p15#a250221p15)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Here’s when and where you can preorder the new iPhone 16E](https://www.theverge.com/good-deals/609618/iphone-16e-preorder-how-to-buy-price-release-date)
+ - [iPhone 16E: all the news on Apple’s new $599 phone](https://www.theverge.com/news/615399/apple-iphone-16e-event-specs-price-release-date-se)
  - [Apple turns off data protection in the UK rather than comply with backdoor mandate](https://appleinsider.com/articles/25/02/21/apple-turns-off-data-protection-in-the-uk-rather-than-comply-with-backdoor-mandate?utm_medium=rss)
- - [Phew! The risk of that asteroid hitting Earth in 2032 has significantly lowered](https://www.theverge.com/news/617177/nasa-asteroid-2024-yr4-european-space-agency-risk-collision-impact)
- - [There&#39;s not a big rush to buy the iPhone 16e yet](https://appleinsider.com/articles/25/02/21/nobodys-rushing-to-buy-the-iphone-16e-yet?utm_medium=rss)
- - [Trump’s first 100 days: all the news affecting the tech industry](https://www.theverge.com/24348851/donald-trump-presidency-tech-science-news)
- - [The GSA is shutting down its EV chargers, calling them ‘not mission critical’](https://www.theverge.com/news/617235/the-gsa-is-shutting-down-its-ev-chargers-calling-them-not-mission-critical)<!-- TECH:END -->
+ - [The Best Meat Subscription Boxes, Tested and Reviewed &lpar;2025&rpar;](https://www.wired.com/gallery/best-meat-subscription-boxes-for-carnivores/)
+ - [Phew! The risk of that asteroid hitting Earth in 2032 has significantly lowered](https://www.theverge.com/news/617177/nasa-asteroid-2024-yr4-european-space-agency-risk-collision-impact)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

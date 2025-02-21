@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Pop goes the weasel](http://9gag.com/gag/a1mNKAw)
- - 😝 [Category 5 calamity](http://9gag.com/gag/an7RjB5)
- - 💣 [Damn](http://9gag.com/gag/a2vwrM1)
+ - 😝 [Damn](http://9gag.com/gag/a2vwrM1)
+ - 😝 [Wholesome Community](http://9gag.com/gag/aAy6dVo)
+ - 💣 [Say what you want but that chickens looking good](http://9gag.com/gag/aO8eVME)
  - 😝 [Poor student was abused to the core](http://9gag.com/gag/a5Q6ZPo)
- - 👉 [Gender equality is going too far](http://9gag.com/gag/aqyXLpv)<!-- MEMES:END -->
+ - 👉 [Go get the Green guy](http://9gag.com/gag/aMVBj8V)<!-- MEMES:END -->
 
 ---
 

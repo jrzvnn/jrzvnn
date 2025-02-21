@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [All the news about Nvidia’s RTX 50-series GPUs](https://www.theverge.com/2025/1/25/24351798/nvidia-rtx-5090-5080-5070-gpu-news-rumors)
+ - [Apple releases visionOS 2.4 developer beta, adding Apple Intelligence, a guest mode, a Spatial Gallery app, an iPhone app for remote installs, and more &lpar;David Heaney/UploadVR&rpar;](http://www.techmeme.com/250221/p18#a250221p18)
+ - [The UK’s war on encryption affects all of us](https://www.theverge.com/policy/612136/uk-icloud-investigatory-powers-act-war-on-encryption)
  - [Manchester UK Apple Store expanding to larger premises](https://appleinsider.com/articles/25/02/21/manchester-uk-apple-store-expanding-to-larger-premises?utm_medium=rss)
- - [Apple starts a new round of developer betas, including iOS 18.4, macOS 15.4](https://appleinsider.com/articles/25/02/21/apple-starts-a-new-round-of-developer-betas-including-ios-184-macos-154?utm_medium=rss)
- - [Apple Intelligence is coming to the Vision Pro](https://www.theverge.com/news/614286/apple-intelligence-vision-pro-visionos)
- - [Apple will fix many Vision Pro pain points in visionOS 2.4](https://www.theverge.com/news/614274/apple-vision-pro-guest-mode-update-visionos-18-4-spatial-gallery-app)
- - [Everything we know about Apple’s Vision Pro](https://www.theverge.com/23689334/apple-mixed-reality-headset-augmented-virtual-reality-ar-vr-rumors-specs-features)<!-- TECH:END -->
+ - [Apple starts a new round of developer betas, including iOS 18.4, macOS 15.4](https://appleinsider.com/articles/25/02/21/apple-starts-a-new-round-of-developer-betas-including-ios-184-macos-154?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

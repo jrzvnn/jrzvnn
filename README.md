@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [A look at the potential reasons why software developer job listings on Indeed hit a five-year low in January, down 35% from 2020, including the impact of AI &lpar;Gergely Orosz/The Pragmatic Engineer&rpar;](http://www.techmeme.com/250220/p44#a250220p44)
  - [Jake from State Farm ends up on the Severed Floor in silly ad crossover](https://appleinsider.com/articles/25/02/21/jake-from-state-farm-ends-up-on-the-severed-floor-in-silly-ad-crossover?utm_medium=rss)
  - [Reddit is reportedly experiencing some outages](https://www.theverge.com/news/617081/reddit-outage-down)
- - [C2 modem already in development for future iPhones](https://appleinsider.com/articles/25/02/21/c2-modem-already-in-development-for-future-iphones?utm_medium=rss)
- - [Filing: Meta approves raising executives&#39; annual bonuses to 200% of base salary, up from 75%, as most employees&#39; annual stock options are reportedly cut by ~10% &lpar;Jonathan Vanian/CNBC&rpar;](http://www.techmeme.com/250220/p43#a250220p43)
- - [Apple&#39;s C1 modem is the first step towards &#39;a platform for generations,&#39; executives say](https://appleinsider.com/articles/25/02/21/apples-c1-modem-is-the-first-step-towards-a-platform-for-generations-executives-say?utm_medium=rss)<!-- TECH:END -->
+ - [iPhone 16E vs. iPhone 16: Here Are All the Specs Compared](https://www.cnet.com/tech/mobile/iphone-16e-vs-iphone-16-here-are-all-the-specs-compared/#ftag=CAD590a51e)
+ - [C2 modem already in development for future iPhones](https://appleinsider.com/articles/25/02/21/c2-modem-already-in-development-for-future-iphones?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

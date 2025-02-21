@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [iPhone 16e, iPhone 17, and the end of Humane on the AppleInsider Podcast](https://appleinsider.com/articles/25/02/21/iphone-16e-iphone-17-and-the-end-of-humane-on-the-appleinsider-podcast?utm_medium=rss)
+ - [Source: AI search engine startup Genspark raised a $100M Series A at a $530M valuation and currently has over 2M MAUs; it raised a $60M seed in June 2024 &lpar;Anna Tong/Reuters&rpar;](http://www.techmeme.com/250221/p10#a250221p10)
  - [Did a Rock Hit Your Windshield, or Did Your Windshield Hit a Rock?](https://www.wired.com/story/did-your-windshield-hit-a-rock/)
  - [The ups and downs of the iPhone 16E](https://www.theverge.com/the-vergecast/617137/iphone-16e-humane-ai-pin-vergecast)
- - [First benchmarks for the iPhone 16e reveal performance and RAM size](https://appleinsider.com/articles/25/02/21/first-benchmarks-for-the-iphone-16e-reveal-performance-and-ram-size?utm_medium=rss)
- - [Coinbase says the US SEC agreed &quot;in principle&quot; to drop its 2023 case against the company, calling it &quot;righting a major wrong&quot;; COIN jumps 5% pre-market &lpar;Jesse Pound/CNBC&rpar;](http://www.techmeme.com/250221/p9#a250221p9)
- - [Best iPhone 16e deals: Here&#39;s where to get up to $830 off](https://appleinsider.com/articles/25/02/20/best-iphone-16e-deals-heres-where-to-get-up-to-830-off-when-preorders-launch?utm_medium=rss)<!-- TECH:END -->
+ - [First benchmarks for the iPhone 16e reveal performance and RAM size](https://appleinsider.com/articles/25/02/21/first-benchmarks-for-the-iphone-16e-reveal-performance-and-ram-size?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

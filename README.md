@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [From ChatGPT to Gemini: how AI is rewriting the internet](https://www.theverge.com/23610427/chatbots-chatgpt-new-bing-google-bard-conversational-ai)
  - [Crypto exchange Bybit says a hacker took control of one of its cold Ethereum wallets, resulting in what analysts estimate was the loss of ~$1.5B worth of tokens &lpar;Bloomberg&rpar;](http://www.techmeme.com/250221/p26#a250221p26)
  - [How the EU’s DMA is changing Big Tech: all of the news and updates](https://www.theverge.com/24040543/eu-dma-digital-markets-act-big-tech-antitrust)
  - [Brazilian Supreme Court Justice Alexandre de Moraes orders the immediate and full suspension of Rumble in the country due to noncompliance with court orders &lpar;Ricardo Brito/Reuters&rpar;](http://www.techmeme.com/250221/p25#a250221p25)
- - [Who Should Play the Next James Bond? Jeff Bezos Wants You to Chime In](https://www.cnet.com/tech/services-and-software/who-should-play-the-next-james-bond-jeff-bezos-wants-you-to-chime-in/#ftag=CAD590a51e)
- - [Arkham says ZachXBT submitted proof that North Korea&#39;s Lazarus Group is behind Bybit&#39;s $1.5B hack, which is the largest single theft in crypto history &lpar;RT Watson/The Block&rpar;](http://www.techmeme.com/250221/p24#a250221p24)<!-- TECH:END -->
+ - [Who Should Play the Next James Bond? Jeff Bezos Wants You to Chime In](https://www.cnet.com/tech/services-and-software/who-should-play-the-next-james-bond-jeff-bezos-wants-you-to-chime-in/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

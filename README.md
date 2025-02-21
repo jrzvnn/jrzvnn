@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Here are the best Apple Watch deals right now](https://www.theverge.com/21289209/best-apple-watch-deals)
- - [Sources: GameStop CEO and activist investor Ryan Cohen has grown his personal stake in Alibaba to about 7M shares, worth roughly $1B, in recent months &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/250220/p42#a250220p42)
- - [iVerify&#39;s iOS app detected a Pegasus infection in 11 new cases in December 2024, and about half of them did not receive Threat Notifications from Apple &lpar;Mobile EDR Security&rpar;](http://www.techmeme.com/250220/p41#a250220p41)
- - [Meta announces a $50M creator fund for Horizon Worlds; CTO Andrew Bosworth reportedly told staff that 2025 is a make-or-break year for Meta&#39;s XR ambitions &lpar;Ben Lang/Road to VR&rpar;](http://www.techmeme.com/250220/p40#a250220p40)
- - [Google may be close to launching YouTube Premium Lite](https://www.theverge.com/news/617009/google-youtube-premium-lite-us-launch)<!-- TECH:END -->
+ - [Jake from State Farm ends up on the Severed Floor in silly ad crossover](https://appleinsider.com/articles/25/02/21/jake-from-state-farm-ends-up-on-the-severed-floor-in-silly-ad-crossover?utm_medium=rss)
+ - [Reddit is reportedly experiencing some outages](https://www.theverge.com/news/617081/reddit-outage-down)
+ - [C2 modem already in development for future iPhones](https://appleinsider.com/articles/25/02/21/c2-modem-already-in-development-for-future-iphones?utm_medium=rss)
+ - [Filing: Meta approves raising executives&#39; annual bonuses to 200% of base salary, up from 75%, as most employees&#39; annual stock options are reportedly cut by ~10% &lpar;Jonathan Vanian/CNBC&rpar;](http://www.techmeme.com/250220/p43#a250220p43)
+ - [Apple&#39;s C1 modem is the first step towards &#39;a platform for generations,&#39; executives say](https://appleinsider.com/articles/25/02/21/apples-c1-modem-is-the-first-step-towards-a-platform-for-generations-executives-say?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

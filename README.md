@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Best Internet Providers in Naperville, Illinois](https://www.cnet.com/home/internet/best-internet-providers-in-naperville-il/#ftag=CAD590a51e)
+ - [Does &#39;Captain America: Brave New World&#39; Have a Post-Credits Scene? We Break It All Down](https://www.cnet.com/tech/services-and-software/doescaptain-america-brave-new-world-have-a-post-credits-scene-we-break-it-all-down/#ftag=CAD590a51e)
  - [Android Auto bug is breaking wireless phone connectivity](https://www.theverge.com/news/617207/android-auto-bug-wireless-phone-connectivity-reboot)
  - [iPhone 16e, iPhone 17, and the end of Humane on the AppleInsider Podcast](https://appleinsider.com/articles/25/02/21/iphone-16e-iphone-17-and-the-end-of-humane-on-the-appleinsider-podcast?utm_medium=rss)
- - [Source: AI search engine startup Genspark raised a $100M Series A at a $530M valuation and currently has over 2M MAUs; it raised a $60M seed in June 2024 &lpar;Anna Tong/Reuters&rpar;](http://www.techmeme.com/250221/p10#a250221p10)
- - [Did a Rock Hit Your Windshield, or Did Your Windshield Hit a Rock?](https://www.wired.com/story/did-your-windshield-hit-a-rock/)
- - [The ups and downs of the iPhone 16E](https://www.theverge.com/the-vergecast/617137/iphone-16e-humane-ai-pin-vergecast)<!-- TECH:END -->
+ - [Source: AI search engine startup Genspark raised a $100M Series A at a $530M valuation and currently has over 2M MAUs; it raised a $60M seed in June 2024 &lpar;Anna Tong/Reuters&rpar;](http://www.techmeme.com/250221/p10#a250221p10)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

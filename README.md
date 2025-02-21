@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [This man participated in a competition where contestants had to tell a funny story `only by actions` and without speaking. So he demonstrated this story. Btw he won...](http://9gag.com/gag/agm15Y1)
- - 😝 [Go get the Green guy](http://9gag.com/gag/aMVBj8V)
- - 💣 [Pop goes the weasel](http://9gag.com/gag/a1mNKAw)
+ - 😝 [Why we doubt when pretty girls talk to us](http://9gag.com/gag/aBy60LN)
+ - 😝 [Oh man!](http://9gag.com/gag/avy18gM)
+ - 💣 [`I need a picture confirming the package delivery`](http://9gag.com/gag/aPAmYwn)
  - 😝 [Category 5 calamity](http://9gag.com/gag/an7RjB5)
- - 👉 [Oh man!](http://9gag.com/gag/avy18gM)<!-- MEMES:END -->
+ - 👉 [Well, this is the most random thing I&#39;ve read in a while.](http://9gag.com/gag/aAy6dQ2)<!-- MEMES:END -->
 
 ---
 

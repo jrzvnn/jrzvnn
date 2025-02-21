@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Chinese state media: Huawei founder Ren Zhengfei told Xi Jinping at a meeting that concerns about China lacking homegrown chips or operating systems had eased &lpar;Brenda Goh/Reuters&rpar;](http://www.techmeme.com/250220/p46#a250220p46)
  - [Reddit reportedly experienced some outages](https://www.theverge.com/news/617081/reddit-outage-down)
  - [Microsoft researchers introduce Magma, an AI foundation model that combines visual and language processing to control software interfaces and robotic systems &lpar;Benj Edwards/Ars Technica&rpar;](http://www.techmeme.com/250220/p45#a250220p45)
  - [A look at the potential reasons why software developer job listings on Indeed hit a five-year low in January, down 35% from 2020, including the impact of AI &lpar;Gergely Orosz/The Pragmatic Engineer&rpar;](http://www.techmeme.com/250220/p44#a250220p44)
- - [Jake from State Farm ends up on the Severed Floor in silly ad crossover](https://appleinsider.com/articles/25/02/21/jake-from-state-farm-ends-up-on-the-severed-floor-in-silly-ad-crossover?utm_medium=rss)
- - [iPhone 16E vs. iPhone 16: Here Are All the Specs Compared](https://www.cnet.com/tech/mobile/iphone-16e-vs-iphone-16-here-are-all-the-specs-compared/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Jake from State Farm ends up on the Severed Floor in silly ad crossover](https://appleinsider.com/articles/25/02/21/jake-from-state-farm-ends-up-on-the-severed-floor-in-silly-ad-crossover?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

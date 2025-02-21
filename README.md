@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [That last touch was personal](http://9gag.com/gag/a4P6R2y)
- - 😝 [Category 5 calamity](http://9gag.com/gag/an7RjB5)
- - 💣 [Big gun](http://9gag.com/gag/abA1zyO)
- - 😝 [Go get the Green guy](http://9gag.com/gag/aMVBj8V)
- - 👉 [Worth trying](http://9gag.com/gag/an7R5qE)<!-- MEMES:END -->
+ - 😝 [Oh man!](http://9gag.com/gag/avy18gM)
+ - 😝 [Bro, where did you go?](http://9gag.com/gag/a1mNQER)
+ - 💣 [That last touch was personal](http://9gag.com/gag/a4P6R2y)
+ - 😝 [Pop goes the weasel](http://9gag.com/gag/a1mNKAw)
+ - 👉 [France just voted for a wealth tax of 2% for people with over 100 million \u20ac in wealth.](http://9gag.com/gag/aZZ17Rp)<!-- MEMES:END -->
 
 ---
 

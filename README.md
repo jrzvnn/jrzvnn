@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [Damn](http://9gag.com/gag/a2vwrM1)
  - 😝 [`I need a picture confirming the package delivery`](http://9gag.com/gag/aPAmYwn)
- - 😝 [Big gun](http://9gag.com/gag/abA1zyO)
- - 💣 [Go get the Green guy](http://9gag.com/gag/aMVBj8V)
- - 😝 [One for all you Tarantinos. I&#39;d rather see the bottom part...](http://9gag.com/gag/ae91b4W)
- - 👉 [Oh man!](http://9gag.com/gag/avy18gM)<!-- MEMES:END -->
+ - 💣 [Well, this is the most random thing I&#39;ve read in a while.](http://9gag.com/gag/aAy6dQ2)
+ - 😝 [Category 5 calamity](http://9gag.com/gag/an7RjB5)
+ - 👉 [Poor student was abused to the core](http://9gag.com/gag/a5Q6ZPo)<!-- MEMES:END -->
 
 ---
 

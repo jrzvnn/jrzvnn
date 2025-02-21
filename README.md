@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [All the news about Nvidia’s RTX 50-series GPUs](https://www.theverge.com/2025/1/25/24351798/nvidia-rtx-5090-5080-5070-gpu-news-rumors)
- - [Apple releases visionOS 2.4 developer beta, adding Apple Intelligence, a guest mode, a Spatial Gallery app, an iPhone app for remote installs, and more &lpar;David Heaney/UploadVR&rpar;](http://www.techmeme.com/250221/p18#a250221p18)
- - [The UK’s war on encryption affects all of us](https://www.theverge.com/policy/612136/uk-icloud-investigatory-powers-act-war-on-encryption)
- - [Manchester UK Apple Store expanding to larger premises](https://appleinsider.com/articles/25/02/21/manchester-uk-apple-store-expanding-to-larger-premises?utm_medium=rss)
- - [Apple starts a new round of developer betas, including iOS 18.4, macOS 15.4](https://appleinsider.com/articles/25/02/21/apple-starts-a-new-round-of-developer-betas-including-ios-184-macos-154?utm_medium=rss)<!-- TECH:END -->
+ - [OpenAI says it found evidence of an AI-powered surveillance tool used by a Chinese security operation to identify anti-China posts on social media in the West &lpar;Cade Metz/New York Times&rpar;](http://www.techmeme.com/250221/p19#a250221p19)
+ - [Recipes, restaurant reviews, and kitchen tips coming to Apple News+](https://appleinsider.com/articles/25/02/21/recipes-restaurant-reviews-and-kitchen-tips-coming-to-apple-news?utm_medium=rss)
+ - [Amazon Prime members can save $300 on Eufy’s midrange X10 Pro Omni](https://www.theverge.com/good-deals/616748/eufy-x10-pro-omni-robot-vacuum-samsung-galaxy-watch-7-deal-sale)
+ - [Apple Intelligence is coming to Apple Vision Pro in April](https://appleinsider.com/articles/25/02/21/apple-intelligence-is-coming-to-apple-vision-pro-in-april?utm_medium=rss)
+ - [The Vision Pro is getting easier to share with guests, and adding a new iPhone app](https://www.theverge.com/news/614274/apple-vision-pro-guest-mode-update-visionos-18-4-spatial-gallery-app)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

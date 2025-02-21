@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Category 5 calamity](http://9gag.com/gag/an7RjB5)
- - 😝 [Big gun](http://9gag.com/gag/abA1zyO)
- - 💣 [One for all you Tarantinos. I&#39;d rather see the bottom part...](http://9gag.com/gag/ae91b4W)
+ - 😝 [A lot of people can relate](http://9gag.com/gag/aW47moA)
  - 😝 [Oh man!](http://9gag.com/gag/avy18gM)
- - 👉 [In Sickness and in Health](http://9gag.com/gag/aND9YPb)<!-- MEMES:END -->
+ - 💣 [Big gun](http://9gag.com/gag/abA1zyO)
+ - 😝 [Go get the Green guy](http://9gag.com/gag/aMVBj8V)
+ - 👉 [Well, this is the most random thing I&#39;ve read in a while.](http://9gag.com/gag/aAy6dQ2)<!-- MEMES:END -->
 
 ---
 

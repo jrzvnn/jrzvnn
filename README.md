@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [DeepSeek will start open-sourcing five code repositories next week, letting anyone download, build on, or improve the code behind its well-regarded AI models &lpar;Saritha Rai/Bloomberg&rpar;](http://www.techmeme.com/250221/p8#a250221p8)
- - [There’s Nothing left to hide as leaked videos reveal the Phone 3A in full](https://www.theverge.com/news/617148/nothing-phone-3a-pro-renders-videos-leaks-design-camera-lights)
- - [Preorders for the iPhone 16e are now open](https://appleinsider.com/articles/25/02/21/preorders-for-the-iphone-16e-are-now-open?utm_medium=rss)
- - [What Are Those Weird Devices Basketball Players Are Holding?](https://www.wired.com/story/palm-cooling-devices/)
- - [Best Internet Providers in Massachusetts](https://www.cnet.com/home/internet/best-internet-providers-in-massachusetts/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [The ups and downs of the iPhone 16E](https://www.theverge.com/the-vergecast/617137/iphone-16e-humane-ai-pin-vergecast)
+ - [First benchmarks for the iPhone 16e reveal performance and RAM size](https://appleinsider.com/articles/25/02/21/first-benchmarks-for-the-iphone-16e-reveal-performance-and-ram-size?utm_medium=rss)
+ - [Coinbase says the US SEC agreed &quot;in principle&quot; to drop its 2023 case against the company, calling it &quot;righting a major wrong&quot;; COIN jumps 5% pre-market &lpar;Jesse Pound/CNBC&rpar;](http://www.techmeme.com/250221/p9#a250221p9)
+ - [Best iPhone 16e deals: Here&#39;s where to get up to $830 off](https://appleinsider.com/articles/25/02/20/best-iphone-16e-deals-heres-where-to-get-up-to-830-off-when-preorders-launch?utm_medium=rss)
+ - [The US Is Considering a TP-Link Router Ban—Should You Worry?](https://www.wired.com/story/tp-link-router-ban-investigation/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

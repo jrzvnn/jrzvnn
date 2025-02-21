@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Category 5 calamity](http://9gag.com/gag/an7RjB5)
- - 😝 [Worth trying](http://9gag.com/gag/an7R5qE)
- - 💣 [One for all you Tarantinos. I&#39;d rather see the bottom part...](http://9gag.com/gag/ae91b4W)
- - 😝 [That last touch was personal](http://9gag.com/gag/a4P6R2y)
- - 👉 [Big gun](http://9gag.com/gag/abA1zyO)<!-- MEMES:END -->
+ - 😝 [Pop goes the weasel](http://9gag.com/gag/a1mNKAw)
+ - 😝 [House, DVM](http://9gag.com/gag/aPAmjAg)
+ - 💣 [That last touch was personal](http://9gag.com/gag/a4P6R2y)
+ - 😝 [One for all you Tarantinos. I&#39;d rather see the bottom part...](http://9gag.com/gag/ae91b4W)
+ - 👉 [Go get the Green guy](http://9gag.com/gag/aMVBj8V)<!-- MEMES:END -->
 
 ---
 

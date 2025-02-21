@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Microsoft researchers introduce Magma, an AI foundation model that combines visual and language processing to control software interfaces and robotic systems &lpar;Benj Edwards/Ars Technica&rpar;](http://www.techmeme.com/250220/p45#a250220p45)
  - [A look at the potential reasons why software developer job listings on Indeed hit a five-year low in January, down 35% from 2020, including the impact of AI &lpar;Gergely Orosz/The Pragmatic Engineer&rpar;](http://www.techmeme.com/250220/p44#a250220p44)
  - [Jake from State Farm ends up on the Severed Floor in silly ad crossover](https://appleinsider.com/articles/25/02/21/jake-from-state-farm-ends-up-on-the-severed-floor-in-silly-ad-crossover?utm_medium=rss)
  - [Reddit is reportedly experiencing some outages](https://www.theverge.com/news/617081/reddit-outage-down)
- - [iPhone 16E vs. iPhone 16: Here Are All the Specs Compared](https://www.cnet.com/tech/mobile/iphone-16e-vs-iphone-16-here-are-all-the-specs-compared/#ftag=CAD590a51e)
- - [C2 modem already in development for future iPhones](https://appleinsider.com/articles/25/02/21/c2-modem-already-in-development-for-future-iphones?utm_medium=rss)<!-- TECH:END -->
+ - [iPhone 16E vs. iPhone 16: Here Are All the Specs Compared](https://www.cnet.com/tech/mobile/iphone-16e-vs-iphone-16-here-are-all-the-specs-compared/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

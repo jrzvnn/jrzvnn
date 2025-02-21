@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Big gun](http://9gag.com/gag/abA1zyO)
- - 😝 [Go get the Green guy](http://9gag.com/gag/aMVBj8V)
- - 💣 [One for all you Tarantinos. I&#39;d rather see the bottom part...](http://9gag.com/gag/ae91b4W)
- - 😝 [Category 5 calamity](http://9gag.com/gag/an7RjB5)
- - 👉 [In Sickness and in Health](http://9gag.com/gag/aND9YPb)<!-- MEMES:END -->
+ - 😝 [Pop goes the weasel](http://9gag.com/gag/a1mNKAw)
+ - 😝 [I\u2019d treasure them](http://9gag.com/gag/aXPMvPg)
+ - 💣 [Category 5 calamity](http://9gag.com/gag/an7RjB5)
+ - 😝 [Oh man!](http://9gag.com/gag/avy18gM)
+ - 👉 [Big gun](http://9gag.com/gag/abA1zyO)<!-- MEMES:END -->
 
 ---
 

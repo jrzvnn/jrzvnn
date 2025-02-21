@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [You may walk safe today bro](http://9gag.com/gag/aBy68Ax)
- - 😝 [Core memory unlocked](http://9gag.com/gag/a0eXQKd)
- - 💣 [Whoa](http://9gag.com/gag/aAy6xg0)
- - 😝 [Mock me if you must, but I&#39;m beyond happy right now.](http://9gag.com/gag/aGynenX)
- - 👉 [Finally, the time has come](http://9gag.com/gag/aAy6x0o)<!-- MEMES:END -->
+ - 😝 [This man participated in a competition where contestants had to tell a funny story `only by actions` and without speaking. So he demonstrated this story. Btw he won...](http://9gag.com/gag/agm15Y1)
+ - 😝 [Go get the Green guy](http://9gag.com/gag/aMVBj8V)
+ - 💣 [Pop goes the weasel](http://9gag.com/gag/a1mNKAw)
+ - 😝 [Category 5 calamity](http://9gag.com/gag/an7RjB5)
+ - 👉 [Oh man!](http://9gag.com/gag/avy18gM)<!-- MEMES:END -->
 
 ---
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Software engineers, academics, and others say AI coding tools will likely prompt an evolution rather than extinction, pushing developers to learn new skills &lpar;Steve Lohr/New York Times&rpar;](http://www.techmeme.com/250221/p5#a250221p5)
  - [Fortnite’s new season has heists, pickles, and Cowboy Bebop](https://www.theverge.com/news/616926/fortnite-chapter-6-season-2-lawless-trailer-battle-pass)
  - [How Breeze Liu, an advocate for digital abuse victims, got Microsoft to scrub 142 nonconsensual explicit images of her hosted on Azure after months of struggle &lpar;Wired&rpar;](http://www.techmeme.com/250221/p4#a250221p4)
  - [Japanese officials and executives warn that China&#39;s export curbs on gallium, germanium, and other chip raw materials threaten global electronics supply chains &lpar;Harry Dempsey/Financial Times&rpar;](http://www.techmeme.com/250221/p3#a250221p3)
- - [Alibaba CEO Eddie Wu calls the pursuit of AGI the company&#39;s &quot;primary objective&quot;, saying &quot;our first and foremost goal is to pursue AGI&quot; &lpar;Bloomberg&rpar;](http://www.techmeme.com/250221/p2#a250221p2)
- - [Sources: Meta&#39;s oversight board got little notice of Zuckerberg&#39;s &quot;free speech&quot; overhaul, fueling tensions as it rushes to hold Meta accountable for the changes &lpar;Hannah Murphy/Financial Times&rpar;](http://www.techmeme.com/250221/p1#a250221p1)<!-- TECH:END -->
+ - [Alibaba CEO Eddie Wu calls the pursuit of AGI the company&#39;s &quot;primary objective&quot;, saying &quot;our first and foremost goal is to pursue AGI&quot; &lpar;Bloomberg&rpar;](http://www.techmeme.com/250221/p2#a250221p2)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

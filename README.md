@@ -166,10 +166,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Go get the Green guy](http://9gag.com/gag/aMVBj8V)
- - 😝 [A lot of people can relate](http://9gag.com/gag/aW47moA)
- - 💣 [Well, this is the most random thing I&#39;ve read in a while.](http://9gag.com/gag/aAy6dQ2)
+ - 😝 [Well, this is the most random thing I&#39;ve read in a while.](http://9gag.com/gag/aAy6dQ2)
  - 😝 [Fun facts](http://9gag.com/gag/a7oOrZm)
+ - 💣 [House, DVM](http://9gag.com/gag/aPAmjAg)
+ - 😝 [Filter life](http://9gag.com/gag/an7Rjen)
  - 👉 [Poor student was abused to the core](http://9gag.com/gag/a5Q6ZPo)<!-- MEMES:END -->
 
 ---

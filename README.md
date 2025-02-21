@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sakana AI walks back claims that its new AI CUDA Engineer can speed up AI training by up to 100x, after complaints about worse-than-average training performance &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/250221/p22#a250221p22)
- - [Steam Deck, ROG Ally, and more: all the news about the handheld PC gaming revolution](https://www.theverge.com/22579493/valve-steam-deck-gaming-handheld-pc)
- - [Hands on with Apple Intelligence on Apple Vision Pro](https://appleinsider.com/articles/25/02/21/hands-on-with-apple-intelligence-on-apple-vision-pro?utm_medium=rss)
  - [Trump’s first 100 days: all the news affecting the tech industry](https://www.theverge.com/24348851/donald-trump-presidency-tech-science-news)
- - [Elon Musk&amp;#8217;s first month of destroying America will cost us decades](https://www.theverge.com/elon-musk/617427/musk-trump-doge-recession-unemployment)<!-- TECH:END -->
+ - [The GSA is shutting down its EV chargers, calling them ‘not mission critical’](https://www.theverge.com/news/617235/the-gsa-is-shutting-down-its-ev-chargers-calling-them-not-mission-critical)
+ - [All the news about EV charging in the US](https://www.theverge.com/23758095/electric-vehicle-charging-news-nacs-ccs-tesla-supercharger-us-infrastructure)
+ - [Sakana AI walks back claims that its new AI CUDA Engineer can speed up AI training by up to 100x, after complaints about worse-than-average training performance &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/250221/p22#a250221p22)
+ - [Steam Deck, ROG Ally, and more: all the news about the handheld PC gaming revolution](https://www.theverge.com/22579493/valve-steam-deck-gaming-handheld-pc)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

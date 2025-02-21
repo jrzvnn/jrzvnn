@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [iPhone fold display details revealed in dubious leak](https://appleinsider.com/articles/25/02/21/iphone-fold-display-details-revealed-in-dubious-leak?utm_medium=rss)
  - [OpenAI launches Operator in the UK, Japan, and most ChatGPT regions, and says it&#39;s working to expand to the EU, Switzerland, Norway, Liechtenstein, and Iceland &lpar;Ivan Mehta/TechCrunch&rpar;](http://www.techmeme.com/250221/p6#a250221p6)
  - [The Delirious, Violent, Impossible True Story of the Zizians](https://www.wired.com/story/delirious-violent-impossible-true-story-zizians/)
- - [Act Now to Maximize Your Earnings. Today&#39;s CD Rates, Feb. 21, 2025](https://www.cnet.com/personal-finance/banking/act-now-to-maximize-your-earnings-todays-cd-rates-feb-21-2025/#ftag=CAD590a51e)
  - [The Lunar Economy Is Coming](https://www.wired.com/story/blue-ghost-mission-lunar-economy/)
- - [The 5 Best Sunrise Alarm Clocks and How to Choose One](https://www.cnet.com/health/sleep/best-sunrise-alarm-clock/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Software engineers, academics, and others say AI coding tools will likely prompt an evolution rather than extinction, pushing developers to learn new skills &lpar;Steve Lohr/New York Times&rpar;](http://www.techmeme.com/250221/p5#a250221p5)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

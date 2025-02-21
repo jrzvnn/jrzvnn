@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Apple ends its Qualcomm dependency with the new C1 modem chip](https://appleinsider.com/articles/25/02/21/apple-ends-its-qualcomm-dependency-with-the-new-c1-modem-chip?utm_medium=rss)
+ - [Apple pulls encryption feature from UK over government spying demands](https://www.theverge.com/news/617273/apple-removes-encryption-advanced-data-protection-adp-uk-spying-backdoor)
  - [Sources: EU antitrust regulators are set to charge Google for breaching the DMA after proposed changes to its search results failed to address concerns &lpar;Foo Yun Chee/Reuters&rpar;](http://www.techmeme.com/250221/p14#a250221p14)
  - [ZachXBT: crypto exchange Bybit has experienced $1.46B worth of &quot;suspicious outflows&quot;; Bybit CEO confirms hacker took control of cold ETH wallet &lpar;Oliver Knight/CoinDesk&rpar;](http://www.techmeme.com/250221/p13#a250221p13)
- - [Apple pulls encryption feature from UK over government spying demands](https://www.theverge.com/news/617273/apple-removes-encryption-advanced-data-protection-adp-uk-spying-backdoor)
- - [16 Best Crossplay Games for Consoles and PC &lpar;2025&rpar;: Xbox, PlayStation, Switch, Mobile](https://www.wired.com/story/crossplay-games-console-pc-switch-mobile/)
- - [All the smart home news, reviews, and gadgets you need to know about](https://www.theverge.com/24190824/smart-home-news-reviews-guides-gadgets)<!-- TECH:END -->
+ - [16 Best Crossplay Games for Consoles and PC &lpar;2025&rpar;: Xbox, PlayStation, Switch, Mobile](https://www.wired.com/story/crossplay-games-console-pc-switch-mobile/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

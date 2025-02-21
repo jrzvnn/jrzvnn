@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [DeepSeek will start open-sourcing five code repositories next week, letting anyone download, build on, or improve the code behind its well-regarded AI models &lpar;Saritha Rai/Bloomberg&rpar;](http://www.techmeme.com/250221/p8#a250221p8)
+ - [There’s Nothing left to hide as leaked videos reveal the Phone 3A in full](https://www.theverge.com/news/617148/nothing-phone-3a-pro-renders-videos-leaks-design-camera-lights)
  - [Preorders for the iPhone 16e are now open](https://appleinsider.com/articles/25/02/21/preorders-for-the-iphone-16e-are-now-open?utm_medium=rss)
- - [Best Internet Providers in Massachusetts](https://www.cnet.com/home/internet/best-internet-providers-in-massachusetts/#ftag=CAD590a51e)
- - [6 Best Travel Mugs of 2025, Tested and Reviewed by WIRED Staffers](https://www.wired.com/gallery/best-travel-mugs/)
- - [Game Developers Fear Anti-Trans Measures Could Hit Their Industry Next](https://www.wired.com/story/game-developers-fear-anti-trans-measures/)
- - [Best Foam Rollers for 2025](https://www.cnet.com/health/fitness/best-foam-roller/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [What Are Those Weird Devices Basketball Players Are Holding?](https://www.wired.com/story/palm-cooling-devices/)
+ - [Best Internet Providers in Massachusetts](https://www.cnet.com/home/internet/best-internet-providers-in-massachusetts/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

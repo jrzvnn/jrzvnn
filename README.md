@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The OnePlus Watch 3 has an unfixable but endearing typo](https://www.theverge.com/news/617219/oneplus-watch-3-typo-smartwatch)
+ - [Sources: EU antitrust regulators are set to charge Google for breaching the DMA after proposed changes to its search results failed to address concerns &lpar;Foo Yun Chee/Reuters&rpar;](http://www.techmeme.com/250221/p14#a250221p14)
+ - [ZachXBT: crypto exchange Bybit has experienced $1.46B worth of &quot;suspicious outflows&quot;; Bybit CEO confirms hacker took control of cold ETH wallet &lpar;Oliver Knight/CoinDesk&rpar;](http://www.techmeme.com/250221/p13#a250221p13)
  - [Apple pulls encryption feature from UK over government spying demands](https://www.theverge.com/news/617273/apple-removes-encryption-advanced-data-protection-adp-uk-spying-backdoor)
- - [Best Pet Insurance Companies for 2025](https://www.cnet.com/personal-finance/insurance/best-pet-insurance-companies/#ftag=CAD590a51e)
- - [Month-end monitor deals: Save up to $800 on Samsung M8, S9 5K, Apple Studio Display](https://appleinsider.com/articles/25/02/21/month-end-monitor-deals-save-up-to-800-on-samsung-m8-s9-5k-apple-studio-display?utm_medium=rss)
- - [Here’s when and where you can preorder the new iPhone 16E](https://www.theverge.com/good-deals/609618/iphone-16e-preorder-how-to-buy-price-release-date)<!-- TECH:END -->
+ - [16 Best Crossplay Games for Consoles and PC &lpar;2025&rpar;: Xbox, PlayStation, Switch, Mobile](https://www.wired.com/story/crossplay-games-console-pc-switch-mobile/)
+ - [All the smart home news, reviews, and gadgets you need to know about](https://www.theverge.com/24190824/smart-home-news-reviews-guides-gadgets)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

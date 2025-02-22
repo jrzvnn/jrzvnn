@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Renaissance Capital: 12 of 40 fintech firms that went public in the US since 2020 have given positive investor returns; only Shift4 and AppLovin are profitable &lpar;Lucinda Shen/Axios&rpar;](http://www.techmeme.com/250222/p4#a250222p4)
  - [The Hang Seng Tech Index, which tracks the top 30 Hong Kong-listed tech firms, rose 6.5% on February 21, hitting its highest level since early 2022 &lpar;Bloomberg&rpar;](http://www.techmeme.com/250222/p3#a250222p3)
  - [Alibaba&#39;s Hong Kong-listed shares jumped 14.6% on February 21 after CEO Eddie Wu said it would invest &quot;aggressively&quot; in AI; Alibaba&#39;s HK stock is up 70.36% YTD &lpar;Eleanor Olcott/Financial Times&rpar;](http://www.techmeme.com/250222/p2#a250222p2)
  - [Lumotive, whose optical semiconductor tech can &quot;steer&quot; laser light and is an alternative to lidar, raised a $45M Series B co-led by Gates Frontier and MetaVC &lpar;Taylor Soper/GeekWire&rpar;](http://www.techmeme.com/250222/p1#a250222p1)
- - [The US SEC approves a yield-bearing stablecoin by Figure Markets, which Figure says is the first yield-bearing stablecoin registered as a security with the SEC &lpar;Olga Kharif/Bloomberg&rpar;](http://www.techmeme.com/250221/p34#a250221p34)
- - [Today&#39;s NYT Mini Crossword Answers for Saturday, Feb. 22](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-saturday-feb-22/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [The US SEC approves a yield-bearing stablecoin by Figure Markets, which Figure says is the first yield-bearing stablecoin registered as a security with the SEC &lpar;Olga Kharif/Bloomberg&rpar;](http://www.techmeme.com/250221/p34#a250221p34)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

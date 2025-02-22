@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Why we doubt when pretty girls talk to us](http://9gag.com/gag/aBy60LN)
- - 😝 [Brittish food is so cheap](http://9gag.com/gag/agm1A7r)
- - 💣 [Title Not needed...](http://9gag.com/gag/aD26gpZ)
- - 😝 [In Sickness and in Health](http://9gag.com/gag/aND9YPb)
- - 👉 [Male students protested by not taking exams after women were banned from university in Afghanistan.](http://9gag.com/gag/an7R9Yz)<!-- MEMES:END -->
+ - 😝 [`I need a picture confirming the package delivery`](http://9gag.com/gag/aPAmYwn)
+ - 😝 [Oh man!](http://9gag.com/gag/avy18gM)
+ - 💣 [Why we doubt when pretty girls talk to us](http://9gag.com/gag/aBy60LN)
+ - 😝 [Shower ???](http://9gag.com/gag/avy15qO)
+ - 👉 [Worth trying](http://9gag.com/gag/an7R5qE)<!-- MEMES:END -->
 
 ---
 

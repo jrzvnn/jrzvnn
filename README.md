@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [In the ruins of Chernobyl, scientists discovered a black fungus that feeds on gamma radiation.](http://9gag.com/gag/ajP1m3x)
- - 😝 [Happy weekend](http://9gag.com/gag/ae91rZj)
- - 💣 [FAFO level 10000 - Trump just stopped ALL federal aid to Maine after they refused to ban trans men from womens sports.](http://9gag.com/gag/awy3BBQ)
  - 😝 [Shower ???](http://9gag.com/gag/avy15qO)
- - 👉 [Worth trying](http://9gag.com/gag/an7R5qE)<!-- MEMES:END -->
+ - 😝 [In the ruins of Chernobyl, scientists discovered a black fungus that feeds on gamma radiation.](http://9gag.com/gag/ajP1m3x)
+ - 💣 [Hollander vs Deutcher](http://9gag.com/gag/a0eXNgn)
+ - 😝 [Happy weekend](http://9gag.com/gag/ae91rZj)
+ - 👉 [FAFO level 10000 - Trump just stopped ALL federal aid to Maine after they refused to ban trans men from womens sports.](http://9gag.com/gag/awy3BBQ)<!-- MEMES:END -->
 
 ---
 

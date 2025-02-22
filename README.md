@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [I am suddenly rich](http://9gag.com/gag/agm152g)
- - 😝 [This man participated in a competition where contestants had to tell a funny story `only by actions` and without speaking. So he demonstrated this story. Btw he won...](http://9gag.com/gag/agm15Y1)
- - 💣 [Quite the exchange between Trump and the governor of Maine, who refuses to take men out of women&#39;s sports despite her constituency supporting it](http://9gag.com/gag/ayN3eKV)
- - 😝 [Robert irwin, spitting image of his father](http://9gag.com/gag/aZZ1y5n)
- - 👉 [\u201cYellow\u201d.](http://9gag.com/gag/an7R990)<!-- MEMES:END -->
+ - 😝 [France just voted for a wealth tax of 2% for people with over 100 million \u20ac in wealth.](http://9gag.com/gag/aZZ17Rp)
+ - 😝 [Oh man!](http://9gag.com/gag/avy18gM)
+ - 💣 [Have a similar look from my place](http://9gag.com/gag/azxdXyj)
+ - 😝 [Hooters is filing for bankruptcy. It&#39;s so buffling. I can&#39;t figure out why.](http://9gag.com/gag/a1mNr52)
+ - 👉 [Worth trying](http://9gag.com/gag/an7R5qE)<!-- MEMES:END -->
 
 ---
 

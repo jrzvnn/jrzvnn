@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [What Elon Musk Got Wrong About Why Federal Retirement Is Still Managed out of a Limestone Mine](https://www.wired.com/story/limestone-mine-elon-musk-retirement/)
+ - [Premier League Soccer: Stream Everton vs. Man United From Anywhere](https://www.cnet.com/tech/services-and-software/premier-league-soccer-stream-everton-vs-man-united-from-anywhere/#ftag=CAD590a51e)
  - [Best Internet Providers in Moreno Valley, California](https://www.cnet.com/home/internet/best-internet-providers-in-moreno-valley-ca/#ftag=CAD590a51e)
  - [Some physicists are skeptical about Microsoft&#39;s claims of achieving a quantum computing breakthrough with Majorana 1, citing the lack of detailed evidence &lpar;Davide Castelvecchi/Scientific American&rpar;](http://www.techmeme.com/250222/p6#a250222p6)
- - [Best Queen Mattress for 2025: Expert-Tested and Approved](https://www.cnet.com/health/sleep/best-queen-mattress/#ftag=CAD590a51e)
- - [Latin American e-commerce giant MercadoLibre&#39;s stock reached a record high on February 21 after it reported a record $639M net income on $6.1B in revenue in Q4 &lpar;Daniel Cancel/Bloomberg&rpar;](http://www.techmeme.com/250222/p5#a250222p5)
- - [Renaissance Capital: 12 of 40 fintech firms that went public in the US since 2020 have given positive investor returns; only Shift4 and AppLovin are profitable &lpar;Lucinda Shen/Axios&rpar;](http://www.techmeme.com/250222/p4#a250222p4)<!-- TECH:END -->
+ - [Best Queen Mattress for 2025: Expert-Tested and Approved](https://www.cnet.com/health/sleep/best-queen-mattress/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

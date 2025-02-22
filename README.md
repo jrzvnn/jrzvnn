@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [France just voted for a wealth tax of 2% for people with over 100 million \u20ac in wealth.](http://9gag.com/gag/aZZ17Rp)
  - 😝 [Oh man!](http://9gag.com/gag/avy18gM)
- - 💣 [Have a similar look from my place](http://9gag.com/gag/azxdXyj)
- - 😝 [Hooters is filing for bankruptcy. It&#39;s so buffling. I can&#39;t figure out why.](http://9gag.com/gag/a1mNr52)
- - 👉 [Worth trying](http://9gag.com/gag/an7R5qE)<!-- MEMES:END -->
+ - 😝 [France just voted for a wealth tax of 2% for people with over 100 million \u20ac in wealth.](http://9gag.com/gag/aZZ17Rp)
+ - 💣 [If you can\u2019t enforce dominance over a dog. Don\u2019t have that dog](http://9gag.com/gag/azxdX8j)
+ - 😝 [When you skip the tutorial &amp; get straight into the game.](http://9gag.com/gag/apR32qn)
+ - 👉 [His last day at work](http://9gag.com/gag/aBy62Q2)<!-- MEMES:END -->
 
 ---
 

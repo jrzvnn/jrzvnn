@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The iOS 18.4 beta brings Matter robot vacuum support](https://www.theverge.com/news/618024/ios-18-4-developer-beta-matter-robot-vacuum-support-apple-home)
+ - [Apple gets into AI: all the news on iOS 18, macOS Sequoia, and more](https://www.theverge.com/24246632/apple-intelligence-ios-18-ipad-os-18-macos-sequoia-iphone-16)
+ - [Filing: Amazon estimated the fair value of its stake in Anthropic at $14B at the end of December 2024, after agreeing to invest $8B in Anthropic so far &lpar;Eugene Kim/Business Insider&rpar;](http://www.techmeme.com/250222/p13#a250222p13)
  - [iPhone 16E: All the Features You Don&#39;t Get for $599](https://www.cnet.com/tech/mobile/iphone-16e-all-the-features-you-dont-get-for-599/#ftag=CAD590a51e)
- - [Today&#39;s NYT Strands Hints, Answers and Help for Feb. 23, #357](https://www.cnet.com/tech/gaming/todays-nyt-strands-hints-answers-and-help-for-feb-23-357/#ftag=CAD590a51e)
- - [Today&#39;s NYT Connections: Sports Edition Hints and Answers for Feb. 23, #153](https://www.cnet.com/tech/gaming/todays-nyt-connections-sports-edition-hints-and-answers-for-feb-23-153/#ftag=CAD590a51e)
- - [Today&#39;s NYT Connections Hints, Answers and Help for Feb. 23, #623](https://www.cnet.com/tech/gaming/todays-nyt-connections-hints-answers-and-help-for-feb-23-623/#ftag=CAD590a51e)
- - [Today&#39;s Wordle Hints, Answer and Help for Feb. 23, #1345](https://www.cnet.com/tech/gaming/todays-wordle-hints-answer-and-help-for-feb-23-1345/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Today&#39;s NYT Strands Hints, Answers and Help for Feb. 23, #357](https://www.cnet.com/tech/gaming/todays-nyt-strands-hints-answers-and-help-for-feb-23-357/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

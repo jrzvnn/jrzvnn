@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The US SEC approves a yield-bearing stablecoin by Figure Markets, which Figure says is the first yield-bearing stablecoin registered as a security with the SEC &lpar;Olga Kharif/Bloomberg&rpar;](http://www.techmeme.com/250221/p34#a250221p34)
  - [iOS 18.4 dev beta adds Apple Intelligence-powered Priority Notifications, to show important alerts in a separate lock screen section at the top, off by default &lpar;Ryan Christoffel/9to5Mac&rpar;](http://www.techmeme.com/250221/p33#a250221p33)
  - [All the news about Nvidia’s RTX 50-series GPUs](https://www.theverge.com/2025/1/25/24351798/nvidia-rtx-5090-5080-5070-gpu-news-rumors)
  - [Nvidia confirms ‘rare’ RTX 5090 and 5070 Ti manufacturing issue](https://www.theverge.com/news/617901/nvidia-confirms-rare-rtx-5090-and-5070-ti-manufacturing-issue)
- - [New in iOS 18.4 developer beta 1: Apple Intelligence changes, Apple News+ food more](https://appleinsider.com/articles/25/02/21/new-in-ios-184-developer-beta-1-apple-intelligence-changes-vision-pro-app-more?utm_medium=rss)
- - [Reddit has recovered from another outage](https://www.theverge.com/news/617844/reddit-outage-down-agai)<!-- TECH:END -->
+ - [New in iOS 18.4 developer beta 1: Apple Intelligence changes, Apple News+ food more](https://appleinsider.com/articles/25/02/21/new-in-ios-184-developer-beta-1-apple-intelligence-changes-vision-pro-app-more?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

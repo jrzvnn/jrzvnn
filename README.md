@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Hold up...](http://9gag.com/gag/amo1BA6)
- - 😝 [Hollander vs Deutcher](http://9gag.com/gag/a0eXNgn)
- - 💣 [When you skip the tutorial &amp; get straight into the game.](http://9gag.com/gag/apR32qn)
- - 😝 [Why we doubt when pretty girls talk to us](http://9gag.com/gag/aBy60LN)
- - 👉 [France just voted for a wealth tax of 2% for people with over 100 million \u20ac in wealth.](http://9gag.com/gag/aZZ17Rp)<!-- MEMES:END -->
+ - 😝 [I am suddenly rich](http://9gag.com/gag/agm152g)
+ - 😝 [This man participated in a competition where contestants had to tell a funny story `only by actions` and without speaking. So he demonstrated this story. Btw he won...](http://9gag.com/gag/agm15Y1)
+ - 💣 [Quite the exchange between Trump and the governor of Maine, who refuses to take men out of women&#39;s sports despite her constituency supporting it](http://9gag.com/gag/ayN3eKV)
+ - 😝 [Robert irwin, spitting image of his father](http://9gag.com/gag/aZZ1y5n)
+ - 👉 [\u201cYellow\u201d.](http://9gag.com/gag/an7R990)<!-- MEMES:END -->
 
 ---
 

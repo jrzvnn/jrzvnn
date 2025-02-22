@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [iOS 18.4 dev beta adds Apple Intelligence-powered Priority Notifications, to show important alerts in a separate lock screen section at the top, off by default &lpar;Ryan Christoffel/9to5Mac&rpar;](http://www.techmeme.com/250221/p33#a250221p33)
  - [All the news about Nvidia’s RTX 50-series GPUs](https://www.theverge.com/2025/1/25/24351798/nvidia-rtx-5090-5080-5070-gpu-news-rumors)
  - [Nvidia confirms ‘rare’ RTX 5090 and 5070 Ti manufacturing issue](https://www.theverge.com/news/617901/nvidia-confirms-rare-rtx-5090-and-5070-ti-manufacturing-issue)
  - [New in iOS 18.4 developer beta 1: Apple Intelligence changes, Apple News+ food more](https://appleinsider.com/articles/25/02/21/new-in-ios-184-developer-beta-1-apple-intelligence-changes-vision-pro-app-more?utm_medium=rss)
- - [Reddit has recovered from another outage](https://www.theverge.com/news/617844/reddit-outage-down-agai)
- - [Block shares closed down 17.69% on February 21, their steepest drop since 2020, after Q4 earnings missed est. and guidance for 2025 failed to reassure investors &lpar;MacKenzie Sigalos/CNBC&rpar;](http://www.techmeme.com/250221/p32#a250221p32)<!-- TECH:END -->
+ - [Reddit has recovered from another outage](https://www.theverge.com/news/617844/reddit-outage-down-agai)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [A look at the debate about whether AI models can truly reason, as some researchers describe the current pattern of reasoning as &quot;jagged intelligence&quot; &lpar;Sigal Samuel/Vox&rpar;](http://www.techmeme.com/250222/p8#a250222p8)
  - [Layer Your Clothes to Stay Comfortable in Any Weather &lpar;2025&rpar;](https://www.wired.com/story/outdoor-layering-basics/)
  - [Lenovo Legion Go S review: feels good, plays bad](https://www.theverge.com/reviews/617613/lenovo-legion-go-s-review-feels-good-plays-bad)
  - [Best Internet Providers in Chesapeake, Virginia](https://www.cnet.com/home/internet/best-internet-providers-in-chesapeake-va/#ftag=CAD590a51e)
- - [Best Internet Providers in Rio Rancho, New Mexico](https://www.cnet.com/home/internet/best-internet-providers-in-rio-rancho-nm/#ftag=CAD590a51e)
- - [Best Mattress Toppers for 2025, Tested by Our Sleep Experts](https://www.cnet.com/health/sleep/best-mattress-toppers/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Best Internet Providers in Rio Rancho, New Mexico](https://www.cnet.com/home/internet/best-internet-providers-in-rio-rancho-nm/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

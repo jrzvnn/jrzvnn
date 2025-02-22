@@ -160,8 +160,8 @@ R                        1 repo              ░░░░░░░░░░░�
  - [Microsoft’s New Majorana 1 Processor Could Transform Quantum Computing](https://www.wired.com/story/microsoft-just-claimed-a-quantum-breakthrough-a-quantum-physicist-explains-what-it-means/)
  - [Die in the Dungeon will keep you busy until Slay the Spire 2](https://www.theverge.com/games-review/616163/die-in-the-dungeon-will-keep-you-busy-until-slay-the-spire-2)
  - [Sana Grain Mill Review: Makes Specialty Flours a Piece of Cake](https://www.wired.com/review/sana-grain-mill/)
- - [Premier League Soccer: Livestream Southampton vs. Brighton From Anywhere](https://www.cnet.com/tech/services-and-software/premier-league-soccer-stream-southampton-vs-brighton-from-anywhere/#ftag=CAD590a51e)
- - [Premier League Soccer: Stream Ipswich vs. Tottenham Live From Anywhere](https://www.cnet.com/tech/services-and-software/premier-league-soccer-stream-ipswich-vs-tottenham-live-from-anywhere/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Why Is Chocolate So Expensive Right Now?](https://www.wired.com/story/why-chocolate-is-so-expensive-right-now/)
+ - [The 44 Best Movies on Netflix Right Now &lpar;February 2025&rpar;](https://www.wired.com/story/netflix-best-movies-this-week/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

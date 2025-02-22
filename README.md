@@ -161,7 +161,7 @@ R                        1 repo              ░░░░░░░░░░░�
  - [Alibaba&#39;s Hong Kong-listed shares jumped 14.6% on February 21 after CEO Eddie Wu said it would invest &quot;aggressively&quot; in AI; Alibaba&#39;s HK stock is up 70.36% YTD &lpar;Eleanor Olcott/Financial Times&rpar;](http://www.techmeme.com/250222/p2#a250222p2)
  - [Lumotive, whose optical semiconductor tech can &quot;steer&quot; laser light and is an alternative to lidar, raised a $45M Series B co-led by Gates Frontier and MetaVC &lpar;Taylor Soper/GeekWire&rpar;](http://www.techmeme.com/250222/p1#a250222p1)
  - [The US SEC approves a yield-bearing stablecoin by Figure Markets, which Figure says is the first yield-bearing stablecoin registered as a security with the SEC &lpar;Olga Kharif/Bloomberg&rpar;](http://www.techmeme.com/250221/p34#a250221p34)
- - [iOS 18.4 dev beta adds Apple Intelligence-powered Priority Notifications, to show important alerts in a separate lock screen section at the top, off by default &lpar;Ryan Christoffel/9to5Mac&rpar;](http://www.techmeme.com/250221/p33#a250221p33)<!-- TECH:END -->
+ - [Today&#39;s NYT Mini Crossword Answers for Saturday, Feb. 22](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-saturday-feb-22/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

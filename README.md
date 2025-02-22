@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [ASUS is making a &amp;#8216;Fragrance Mouse,&amp;#8217; and it&amp;#8217;s coming to the US](https://www.theverge.com/news/617917/asus-fragrance-mouse-essential-oils-vial-wireless-dongle-bluetooth)
- - [12 Best Wi-Fi Routers of 2025, Tested and Reviewed](https://www.wired.com/gallery/best-wifi-routers/)
- - [Lost Records: Bloom &amp;#038; Rage blends its teen drama with a heavy dose of ’90s nostalgia](https://www.theverge.com/games-review/617336/lost-records-bloom-and-rage-review)
- - [Premier League Soccer: Livestream Fulham vs. Crystal Palace From Anywhere](https://www.cnet.com/tech/services-and-software/premier-league-soccer-livestream-fulham-vs-crystal-palace-from-anywhere/#ftag=CAD590a51e)
- - [A look at the debate about whether AI models can truly reason, as some researchers describe the current pattern of reasoning as &quot;jagged intelligence&quot; &lpar;Sigal Samuel/Vox&rpar;](http://www.techmeme.com/250222/p8#a250222p8)<!-- TECH:END -->
+ - [The Best Meta Quest Games You Can Play Right Now &lpar;2025&rpar;](https://www.wired.com/gallery/best-oculus-meta-quest-games/)
+ - [Even as Trump embraces crypto, attracting millions of new investors, the Bybit hack and memecoins show how crypto remains the wild West of the financial world &lpar;David Yaffe-Bellany/New York Times&rpar;](http://www.techmeme.com/250222/p9#a250222p9)
+ - [The best wireless earbuds to buy right now](https://www.theverge.com/21309820/best-wireless-earbuds)
+ - [Premier League Soccer: Livestream Aston Villa vs. Chelsea  From Anywhere](https://www.cnet.com/tech/services-and-software/premier-league-soccer-livestream-aston-villa-vs-chelsea-from-anywhere/#ftag=CAD590a51e)
+ - [ASUS is making a &amp;#8216;Fragrance Mouse,&amp;#8217; and it&amp;#8217;s coming to the US](https://www.theverge.com/news/617917/asus-fragrance-mouse-essential-oils-vial-wireless-dongle-bluetooth)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

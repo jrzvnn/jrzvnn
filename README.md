@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Trump’s first 100 days: all the news affecting the tech industry](https://www.theverge.com/24348851/donald-trump-presidency-tech-science-news)
+ - [Spotify HiFi was announced four years ago, and it’s almost here — maybe](https://www.theverge.com/spotify/617927/spotify-hifi-music-pro-coming-2025)
  - [AT&amp;#038;T will let you split your bill with people on your plan](https://www.theverge.com/news/617928/att-will-let-you-split-your-bill-with-people-on-your-plan)
  - [8 of the Best Soft Mattresses of 2025, Tested by CNET Sleep Experts](https://www.cnet.com/health/sleep/best-soft-mattress/#ftag=CAD590a51e)
- - [The Best Meta Quest Games You Can Play Right Now &lpar;2025&rpar;](https://www.wired.com/gallery/best-oculus-meta-quest-games/)
- - [Best Internet Providers in Superior, Wisconsin](https://www.cnet.com/home/internet/best-internet-providers-in-superior-wi/#ftag=CAD590a51e)
- - [Even as Trump embraces crypto, attracting millions of new investors, the Bybit hack and memecoins show how crypto remains the wild West of the financial world &lpar;David Yaffe-Bellany/New York Times&rpar;](http://www.techmeme.com/250222/p9#a250222p9)<!-- TECH:END -->
+ - [The Best Meta Quest Games You Can Play Right Now &lpar;2025&rpar;](https://www.wired.com/gallery/best-oculus-meta-quest-games/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

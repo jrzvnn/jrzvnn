@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Grok resets the AI race](https://www.theverge.com/command-line-newsletter/617780/grok-3-elon-musk-ai-race-chatgpt)
- - [From ChatGPT to Gemini: how AI is rewriting the internet](https://www.theverge.com/23610427/chatbots-chatgpt-new-bing-google-bard-conversational-ai)
- - [Crypto exchange Bybit says a hacker took control of one of its cold Ethereum wallets, resulting in what analysts estimate was the loss of ~$1.5B worth of tokens &lpar;Bloomberg&rpar;](http://www.techmeme.com/250221/p26#a250221p26)
- - [How the EU’s DMA is changing Big Tech: all of the news and updates](https://www.theverge.com/24040543/eu-dma-digital-markets-act-big-tech-antitrust)
- - [Brazilian Supreme Court Justice Alexandre de Moraes orders the immediate and full suspension of Rumble in the country due to noncompliance with court orders &lpar;Ricardo Brito/Reuters&rpar;](http://www.techmeme.com/250221/p25#a250221p25)<!-- TECH:END -->
+ - [NFT marketplace OpenSea says the US SEC has ended an investigation into the company, after OpenSea received a Wells Notice in August 2024 &lpar;Muyao Shen/Bloomberg Tax&rpar;](http://www.techmeme.com/250221/p30#a250221p30)
+ - [Sources: US negotiators pressing Ukraine for access to its minerals raised the possibility of cutting the country&#39;s access to Starlink if a deal is not reached &lpar;Reuters&rpar;](http://www.techmeme.com/250221/p29#a250221p29)
+ - [The best robot vacuums](https://www.theverge.com/22997597/best-robot-vacuum-cleaner)
+ - [Trump directs CFIUS to limit Chinese investments in key areas, and says US will consider outbound investment restrictions to China in sectors like chips and AI &lpar;Bloomberg&rpar;](http://www.techmeme.com/250221/p28#a250221p28)
+ - [Elon Musk&amp;#8217;s AI said he and Trump deserve the death penalty](https://www.theverge.com/news/617799/elon-musk-grok-ai-donald-trump-death-penalty)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

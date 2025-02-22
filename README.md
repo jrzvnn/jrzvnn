@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Happy weekend](http://9gag.com/gag/ae91rZj)
- - 😝 [France just voted for a wealth tax of 2% for people with over 100 million \u20ac in wealth.](http://9gag.com/gag/aZZ17Rp)
- - 💣 [Doesnt sound too bad](http://9gag.com/gag/an7RzNz)
- - 😝 [Shower ???](http://9gag.com/gag/avy15qO)
- - 👉 [FAFO level 10000 - Trump just stopped ALL federal aid to Maine after they refused to ban trans men from womens sports.](http://9gag.com/gag/awy3BBQ)<!-- MEMES:END -->
+ - 😝 [When some rich guy tells you he conquered the highest mountain in the world, that&#39;s what actually happened.](http://9gag.com/gag/amo1gz9)
+ - 😝 [*Avoid*](http://9gag.com/gag/azxdedN)
+ - 💣 [Shower ???](http://9gag.com/gag/avy15qO)
+ - 😝 [Is that an Irish goodbye?](http://9gag.com/gag/ary3Mdp)
+ - 👉 [Prank call show accidentally finds best man in Australia](http://9gag.com/gag/ae91QeB)<!-- MEMES:END -->
 
 ---
 

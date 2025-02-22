@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [From simp to pimp](http://9gag.com/gag/avy15Db)
- - 😝 [That last touch was personal](http://9gag.com/gag/a4P6R2y)
- - 💣 [Enough](http://9gag.com/gag/aqyXnKY)
- - 😝 [This kid has never been so stressed in her life before](http://9gag.com/gag/a6ZXOqA)
- - 👉 [Worth trying](http://9gag.com/gag/an7R5qE)<!-- MEMES:END -->
+ - 😝 [Seth: thats a great idea me!](http://9gag.com/gag/aqyXj3Y)
+ - 😝 [Best feeling ever](http://9gag.com/gag/aAy6gy9)
+ - 💣 [Decided to prank the stranger infront of him](http://9gag.com/gag/aZZ17Y3)
+ - 😝 [We&#39;re almost there, folks](http://9gag.com/gag/aQzv17d)
+ - 👉 [Jerk Steve](http://9gag.com/gag/a4P6EyA)<!-- MEMES:END -->
 
 ---
 

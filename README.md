@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [The Precision Of Steph Curry](http://9gag.com/gag/aD26xzw)
- - 😝 [Quite the exchange between Trump and the governor of Maine, who refuses to take men out of women&#39;s sports despite her constituency supporting it](http://9gag.com/gag/ayN3eKV)
- - 💣 [Dummy move](http://9gag.com/gag/axy30E1)
+ - 😝 [Kash Patel is now the head of the FBI.](http://9gag.com/gag/aD26x9w)
  - 😝 [I think I must have missed some technics](http://9gag.com/gag/aoy3e1x)
- - 👉 [Hold up...](http://9gag.com/gag/amo1BA6)<!-- MEMES:END -->
+ - 💣 [Bro, where did you go?](http://9gag.com/gag/a1mNQER)
+ - 😝 [Big gun](http://9gag.com/gag/abA1zyO)
+ - 👉 [Stepdad step up](http://9gag.com/gag/aAy6DnL)<!-- MEMES:END -->
 
 ---
 

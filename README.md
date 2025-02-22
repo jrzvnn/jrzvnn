@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Worth trying](http://9gag.com/gag/an7R5qE)
- - 😝 [Bro, where did you go?](http://9gag.com/gag/a1mNQER)
- - 💣 [His last day at work](http://9gag.com/gag/aBy62Q2)
- - 😝 [I think I must have missed some technics](http://9gag.com/gag/aoy3e1x)
- - 👉 [This kid has never been so stressed in her life before](http://9gag.com/gag/a6ZXOqA)<!-- MEMES:END -->
+ - 😝 [Best feeling ever](http://9gag.com/gag/aAy6gy9)
+ - 😝 [We&#39;re almost there, folks](http://9gag.com/gag/aQzv17d)
+ - 💣 [Decided to prank the stranger infront of him](http://9gag.com/gag/aZZ17Y3)
+ - 😝 [Jerk Steve](http://9gag.com/gag/a4P6EyA)
+ - 👉 [Is that an Irish goodbye?](http://9gag.com/gag/ary3Mdp)<!-- MEMES:END -->
 
 ---
 

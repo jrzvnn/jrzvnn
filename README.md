@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Reddit is experiencing outages again](https://www.theverge.com/news/617844/reddit-outage-down-agai)
+ - [New in iOS 18.4 developer beta 1: Apple Intelligence changes, Apple News+ food more](https://appleinsider.com/articles/25/02/21/new-in-ios-184-developer-beta-1-apple-intelligence-changes-vision-pro-app-more?utm_medium=rss)
+ - [Reddit has recovered from another outage](https://www.theverge.com/news/617844/reddit-outage-down-agai)
  - [Block shares closed down 17.69% on February 21, their steepest drop since 2020, after Q4 earnings missed est. and guidance for 2025 failed to reassure investors &lpar;MacKenzie Sigalos/CNBC&rpar;](http://www.techmeme.com/250221/p32#a250221p32)
  - [President Trump signs a memorandum to consider retaliatory measures, including tariffs, on countries that impose digital service taxes on US tech companies &lpar;Reuters&rpar;](http://www.techmeme.com/250221/p31#a250221p31)
- - [Best Tested Portable Air Conditioners for 2025](https://www.cnet.com/home/kitchen-and-household/best-portable-ac-units/#ftag=CAD590a51e)
- - [NFT marketplace OpenSea says the US SEC has ended an investigation into the company, after OpenSea received a Wells Notice in August 2024 &lpar;Muyao Shen/Bloomberg Tax&rpar;](http://www.techmeme.com/250221/p30#a250221p30)<!-- TECH:END -->
+ - [Best Tested Portable Air Conditioners for 2025](https://www.cnet.com/home/kitchen-and-household/best-portable-ac-units/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

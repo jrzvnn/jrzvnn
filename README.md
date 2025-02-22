@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [I think I must have missed some technics](http://9gag.com/gag/aoy3e1x)
  - 😝 [If you can\u2019t enforce dominance over a dog. Don\u2019t have that dog](http://9gag.com/gag/azxdX8j)
- - 😝 [That last touch was personal](http://9gag.com/gag/a4P6R2y)
- - 💣 [Shower ???](http://9gag.com/gag/avy15qO)
- - 😝 [Stepdad step up](http://9gag.com/gag/aAy6DnL)
- - 👉 [I think I must have missed some technics](http://9gag.com/gag/aoy3e1x)<!-- MEMES:END -->
+ - 💣 [Stepdad step up](http://9gag.com/gag/aAy6DnL)
+ - 😝 [Hooters is filing for bankruptcy. It&#39;s so buffling. I can&#39;t figure out why.](http://9gag.com/gag/a1mNr52)
+ - 👉 [Enough](http://9gag.com/gag/aqyXnKY)<!-- MEMES:END -->
 
 ---
 

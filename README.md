@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Its funny cuz its true](http://9gag.com/gag/avy1oqM)
- - 😝 [This man participated in a competition where contestants had to tell a funny story `only by actions` and without speaking. So he demonstrated this story. Btw he won...](http://9gag.com/gag/agm15Y1)
- - 💣 [Well said](http://9gag.com/gag/a5Q6RAo)
- - 😝 [\u201cYellow\u201d.](http://9gag.com/gag/an7R990)
- - 👉 [At last , Someone said it](http://9gag.com/gag/aAy6eK2)<!-- MEMES:END -->
+ - 😝 [The Precision Of Steph Curry](http://9gag.com/gag/aD26xzw)
+ - 😝 [Quite the exchange between Trump and the governor of Maine, who refuses to take men out of women&#39;s sports despite her constituency supporting it](http://9gag.com/gag/ayN3eKV)
+ - 💣 [Dummy move](http://9gag.com/gag/axy30E1)
+ - 😝 [I think I must have missed some technics](http://9gag.com/gag/aoy3e1x)
+ - 👉 [Hold up...](http://9gag.com/gag/amo1BA6)<!-- MEMES:END -->
 
 ---
 

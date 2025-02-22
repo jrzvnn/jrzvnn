@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [AT&amp;#038;T will let you split your bill with people on your plan](https://www.theverge.com/news/617928/att-will-let-you-split-your-bill-with-people-on-your-plan)
  - [The Best Meta Quest Games You Can Play Right Now &lpar;2025&rpar;](https://www.wired.com/gallery/best-oculus-meta-quest-games/)
  - [Even as Trump embraces crypto, attracting millions of new investors, the Bybit hack and memecoins show how crypto remains the wild West of the financial world &lpar;David Yaffe-Bellany/New York Times&rpar;](http://www.techmeme.com/250222/p9#a250222p9)
  - [The best wireless earbuds to buy right now](https://www.theverge.com/21309820/best-wireless-earbuds)
- - [Premier League Soccer: Livestream Aston Villa vs. Chelsea  From Anywhere](https://www.cnet.com/tech/services-and-software/premier-league-soccer-livestream-aston-villa-vs-chelsea-from-anywhere/#ftag=CAD590a51e)
- - [Asus is making a &amp;#8216;Fragrance Mouse,&amp;#8217; and it&amp;#8217;s coming to the US](https://www.theverge.com/news/617917/asus-fragrance-mouse-essential-oils-vial-wireless-dongle-bluetooth)<!-- TECH:END -->
+ - [Premier League Soccer: Livestream Aston Villa vs. Chelsea  From Anywhere](https://www.cnet.com/tech/services-and-software/premier-league-soccer-livestream-aston-villa-vs-chelsea-from-anywhere/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

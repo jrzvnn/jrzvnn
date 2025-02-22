@@ -168,9 +168,9 @@ R                        1 repo              ░░░░░░░░░░░�
 <!-- MEMES:START -->
  - 😝 [Oh man!](http://9gag.com/gag/avy18gM)
  - 😝 [If you can\u2019t enforce dominance over a dog. Don\u2019t have that dog](http://9gag.com/gag/azxdX8j)
- - 💣 [From simp to pimp](http://9gag.com/gag/avy15Db)
+ - 💣 [I think I must have missed some technics](http://9gag.com/gag/aoy3e1x)
  - 😝 [Hooters is filing for bankruptcy. It&#39;s so buffling. I can&#39;t figure out why.](http://9gag.com/gag/a1mNr52)
- - 👉 [Worth trying](http://9gag.com/gag/an7R5qE)<!-- MEMES:END -->
+ - 👉 [Loved those puppies](http://9gag.com/gag/a876EvY)<!-- MEMES:END -->
 
 ---
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [`I need a picture confirming the package delivery`](http://9gag.com/gag/aPAmYwn)
- - 😝 [Oh man!](http://9gag.com/gag/avy18gM)
- - 💣 [Why we doubt when pretty girls talk to us](http://9gag.com/gag/aBy60LN)
  - 😝 [Shower ???](http://9gag.com/gag/avy15qO)
- - 👉 [Worth trying](http://9gag.com/gag/an7R5qE)<!-- MEMES:END -->
+ - 😝 [Brittish food is so cheap](http://9gag.com/gag/agm1A7r)
+ - 💣 [She never claimed she was strong](http://9gag.com/gag/a0eX7WX)
+ - 😝 [From simp to pimp](http://9gag.com/gag/avy15Db)
+ - 👉 [If you can\u2019t enforce dominance over a dog. Don\u2019t have that dog](http://9gag.com/gag/azxdX8j)<!-- MEMES:END -->
 
 ---
 

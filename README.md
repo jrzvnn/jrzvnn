@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Oh man!](http://9gag.com/gag/avy18gM)
- - 😝 [France just voted for a wealth tax of 2% for people with over 100 million \u20ac in wealth.](http://9gag.com/gag/aZZ17Rp)
+ - 😝 [Hold up...](http://9gag.com/gag/amo1BA6)
+ - 😝 [Title Not needed...](http://9gag.com/gag/aD26gpZ)
  - 💣 [If you can\u2019t enforce dominance over a dog. Don\u2019t have that dog](http://9gag.com/gag/azxdX8j)
- - 😝 [When you skip the tutorial &amp; get straight into the game.](http://9gag.com/gag/apR32qn)
- - 👉 [His last day at work](http://9gag.com/gag/aBy62Q2)<!-- MEMES:END -->
+ - 😝 [His last day at work](http://9gag.com/gag/aBy62Q2)
+ - 👉 [You don&#39;t hate game journalists enough](http://9gag.com/gag/aND9zQr)<!-- MEMES:END -->
 
 ---
 

@@ -161,7 +161,7 @@ R                        1 repo              ░░░░░░░░░░░�
  - [The best smartphone you can buy for under $500](https://www.theverge.com/21420196/best-budget-smartphone-cheap)
  - [Trump’s first 100 days: all the news affecting the tech industry](https://www.theverge.com/24348851/donald-trump-presidency-tech-science-news)
  - [Spotify HiFi was announced four years ago, and it’s almost here — maybe](https://www.theverge.com/spotify/617927/spotify-hifi-music-pro-coming-2025)
- - [AT&amp;#038;T will let you split your bill with people on your plan](https://www.theverge.com/news/617928/att-will-let-you-split-your-bill-with-people-on-your-plan)<!-- TECH:END -->
+ - [&#39;Suits LA&#39;: Here&#39;s How to Watch Stephen Amell&#39;s Spin-Off Series](https://www.cnet.com/tech/services-and-software/suits-la-heres-how-to-watch-stephen-amells-spinoff-series/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

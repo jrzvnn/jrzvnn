@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [ASUS is making a &amp;#8216;Fragrance Mouse,&amp;#8217; and it&amp;#8217;s coming to the US](https://www.theverge.com/news/617917/asus-fragrance-mouse-essential-oils-vial-wireless-dongle-bluetooth)
+ - [12 Best Wi-Fi Routers of 2025, Tested and Reviewed](https://www.wired.com/gallery/best-wifi-routers/)
+ - [Lost Records: Bloom &amp;#038; Rage blends its teen drama with a heavy dose of ’90s nostalgia](https://www.theverge.com/games-review/617336/lost-records-bloom-and-rage-review)
  - [A look at the debate about whether AI models can truly reason, as some researchers describe the current pattern of reasoning as &quot;jagged intelligence&quot; &lpar;Sigal Samuel/Vox&rpar;](http://www.techmeme.com/250222/p8#a250222p8)
- - [Layer Your Clothes to Stay Comfortable in Any Weather &lpar;2025&rpar;](https://www.wired.com/story/outdoor-layering-basics/)
- - [Lenovo Legion Go S review: feels good, plays bad](https://www.theverge.com/reviews/617613/lenovo-legion-go-s-review-feels-good-plays-bad)
- - [Best Internet Providers in Chesapeake, Virginia](https://www.cnet.com/home/internet/best-internet-providers-in-chesapeake-va/#ftag=CAD590a51e)
- - [Best Internet Providers in Rio Rancho, New Mexico](https://www.cnet.com/home/internet/best-internet-providers-in-rio-rancho-nm/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Layer Your Clothes to Stay Comfortable in Any Weather &lpar;2025&rpar;](https://www.wired.com/story/outdoor-layering-basics/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

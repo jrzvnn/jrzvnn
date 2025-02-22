@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [iOS 18.4 to bring Matter support for compatible robot vacuums](https://appleinsider.com/articles/25/02/22/ios-184-to-bring-matter-support-for-compatible-robot-vacuums?utm_medium=rss)
  - [X is rolling out Grok-powered AI tools for advertisers to generate ready-to-use ad copy and imagery and provide campaign performance analysis &lpar;Kendra Barnett/Adweek&rpar;](http://www.techmeme.com/250222/p11#a250222p11)
  - [Trump’s first 100 days: all the news affecting the tech industry](https://www.theverge.com/24348851/donald-trump-presidency-tech-science-news)
  - [The long wait for a glimpse of Luigi](https://www.theverge.com/law/617946/luigi-mangione-unitedhealth-ceo-february-hearing-protest)
- - [An investigation details how Chinese cybercrime groups are turning phished payment card data into new Apple or Google wallets for online and in-store use &lpar;Brian Krebs/Krebs on Security&rpar;](http://www.techmeme.com/250222/p10#a250222p10)
- - [The best smartphone you can buy for under $500](https://www.theverge.com/21420196/best-budget-smartphone-cheap)<!-- TECH:END -->
+ - [An investigation details how Chinese cybercrime groups are turning phished payment card data into new Apple or Google wallets for online and in-store use &lpar;Brian Krebs/Krebs on Security&rpar;](http://www.techmeme.com/250222/p10#a250222p10)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

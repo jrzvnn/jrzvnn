@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [DefiLlama: Bybit experienced a &quot;bank run&quot; of over $4B after the ~$1.5B hack, leading to a ~$5.5B total outflow; CEO says &quot;about 50%&quot; of funds were withdrawn &lpar;Francisco Rodrigues/CoinDesk&rpar;](http://www.techmeme.com/250222/p12#a250222p12)
- - [iOS 18.4 to bring Matter support for compatible robot vacuums](https://appleinsider.com/articles/25/02/22/ios-184-to-bring-matter-support-for-compatible-robot-vacuums?utm_medium=rss)
- - [Best Internet Providers in Rochester, New York](https://www.cnet.com/home/internet/best-internet-providers-in-rochester-ny/#ftag=CAD590a51e)
- - [X is rolling out Grok-powered AI tools for advertisers to generate ready-to-use ad copy and imagery and provide campaign performance analysis &lpar;Kendra Barnett/Adweek&rpar;](http://www.techmeme.com/250222/p11#a250222p11)
- - [Trump’s first 100 days: all the news affecting the tech industry](https://www.theverge.com/24348851/donald-trump-presidency-tech-science-news)<!-- TECH:END -->
+ - [iPhone 16E: All the Features You Don&#39;t Get for $599](https://www.cnet.com/tech/mobile/iphone-16e-all-the-features-you-dont-get-for-599/#ftag=CAD590a51e)
+ - [Today&#39;s NYT Strands Hints, Answers and Help for Feb. 23, #357](https://www.cnet.com/tech/gaming/todays-nyt-strands-hints-answers-and-help-for-feb-23-357/#ftag=CAD590a51e)
+ - [Today&#39;s NYT Connections: Sports Edition Hints and Answers for Feb. 23, #153](https://www.cnet.com/tech/gaming/todays-nyt-connections-sports-edition-hints-and-answers-for-feb-23-153/#ftag=CAD590a51e)
+ - [Today&#39;s NYT Connections Hints, Answers and Help for Feb. 23, #623](https://www.cnet.com/tech/gaming/todays-nyt-connections-hints-answers-and-help-for-feb-23-623/#ftag=CAD590a51e)
+ - [Today&#39;s Wordle Hints, Answer and Help for Feb. 23, #1345](https://www.cnet.com/tech/gaming/todays-wordle-hints-answer-and-help-for-feb-23-1345/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

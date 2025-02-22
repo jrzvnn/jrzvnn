@@ -166,10 +166,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Kash Patel is now the head of the FBI.](http://9gag.com/gag/aD26x9w)
- - 😝 [I think I must have missed some technics](http://9gag.com/gag/aoy3e1x)
- - 💣 [Bro, where did you go?](http://9gag.com/gag/a1mNQER)
- - 😝 [Big gun](http://9gag.com/gag/abA1zyO)
+ - 😝 [Thicc thighs saves lives, The Superiority of Asian devs in the gaming/animation industry](http://9gag.com/gag/apR32KD)
+ - 😝 [Worth trying](http://9gag.com/gag/an7R5qE)
+ - 💣 [I think I must have missed some technics](http://9gag.com/gag/aoy3e1x)
+ - 😝 [If you can\u2019t enforce dominance over a dog. Don\u2019t have that dog](http://9gag.com/gag/azxdX8j)
  - 👉 [Stepdad step up](http://9gag.com/gag/aAy6DnL)<!-- MEMES:END -->
 
 ---

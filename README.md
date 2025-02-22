@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Thicc thighs saves lives, The Superiority of Asian devs in the gaming/animation industry](http://9gag.com/gag/apR32KD)
+ - 😝 [Go get the Green guy](http://9gag.com/gag/aMVBj8V)
+ - 😝 [When you skip the tutorial &amp; get straight into the game.](http://9gag.com/gag/apR32qn)
+ - 💣 [You don&#39;t hate game journalists enough](http://9gag.com/gag/aND9zQr)
  - 😝 [Worth trying](http://9gag.com/gag/an7R5qE)
- - 💣 [I think I must have missed some technics](http://9gag.com/gag/aoy3e1x)
- - 😝 [If you can\u2019t enforce dominance over a dog. Don\u2019t have that dog](http://9gag.com/gag/azxdX8j)
- - 👉 [Stepdad step up](http://9gag.com/gag/aAy6DnL)<!-- MEMES:END -->
+ - 👉 [Mexican water park](http://9gag.com/gag/adB1K0D)<!-- MEMES:END -->
 
 ---
 

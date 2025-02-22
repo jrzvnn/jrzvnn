@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Male students protested by not taking exams after women were banned from university in Afghanistan.](http://9gag.com/gag/an7R9Yz)
  - 😝 [Hold up...](http://9gag.com/gag/amo1BA6)
- - 💣 [Prawn: Catch me if you can!](http://9gag.com/gag/a1mNK1R)
+ - 😝 [Hollander vs Deutcher](http://9gag.com/gag/a0eXNgn)
+ - 💣 [When you skip the tutorial &amp; get straight into the game.](http://9gag.com/gag/apR32qn)
  - 😝 [Why we doubt when pretty girls talk to us](http://9gag.com/gag/aBy60LN)
- - 👉 [Title Not needed...](http://9gag.com/gag/aD26gpZ)<!-- MEMES:END -->
+ - 👉 [France just voted for a wealth tax of 2% for people with over 100 million \u20ac in wealth.](http://9gag.com/gag/aZZ17Rp)<!-- MEMES:END -->
 
 ---
 

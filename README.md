@@ -160,8 +160,8 @@ R                        1 repo              ░░░░░░░░░░░�
  - [ASUS is making a &amp;#8216;Fragrance Mouse,&amp;#8217; and it&amp;#8217;s coming to the US](https://www.theverge.com/news/617917/asus-fragrance-mouse-essential-oils-vial-wireless-dongle-bluetooth)
  - [12 Best Wi-Fi Routers of 2025, Tested and Reviewed](https://www.wired.com/gallery/best-wifi-routers/)
  - [Lost Records: Bloom &amp;#038; Rage blends its teen drama with a heavy dose of ’90s nostalgia](https://www.theverge.com/games-review/617336/lost-records-bloom-and-rage-review)
- - [A look at the debate about whether AI models can truly reason, as some researchers describe the current pattern of reasoning as &quot;jagged intelligence&quot; &lpar;Sigal Samuel/Vox&rpar;](http://www.techmeme.com/250222/p8#a250222p8)
- - [Layer Your Clothes to Stay Comfortable in Any Weather &lpar;2025&rpar;](https://www.wired.com/story/outdoor-layering-basics/)<!-- TECH:END -->
+ - [Premier League Soccer: Livestream Fulham vs. Crystal Palace From Anywhere](https://www.cnet.com/tech/services-and-software/premier-league-soccer-livestream-fulham-vs-crystal-palace-from-anywhere/#ftag=CAD590a51e)
+ - [A look at the debate about whether AI models can truly reason, as some researchers describe the current pattern of reasoning as &quot;jagged intelligence&quot; &lpar;Sigal Samuel/Vox&rpar;](http://www.techmeme.com/250222/p8#a250222p8)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

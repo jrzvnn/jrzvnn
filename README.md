@@ -159,9 +159,9 @@ R                        1 repo              ░░░░░░░░░░░�
 <!-- TECH:START -->
  - [DefiLlama: Bybit experienced a &quot;bank run&quot; of over $4B after the ~$1.5B hack, leading to a ~$5.5B total outflow; CEO says &quot;about 50%&quot; of funds were withdrawn &lpar;Francisco Rodrigues/CoinDesk&rpar;](http://www.techmeme.com/250222/p12#a250222p12)
  - [iOS 18.4 to bring Matter support for compatible robot vacuums](https://appleinsider.com/articles/25/02/22/ios-184-to-bring-matter-support-for-compatible-robot-vacuums?utm_medium=rss)
+ - [Best Internet Providers in Rochester, New York](https://www.cnet.com/home/internet/best-internet-providers-in-rochester-ny/#ftag=CAD590a51e)
  - [X is rolling out Grok-powered AI tools for advertisers to generate ready-to-use ad copy and imagery and provide campaign performance analysis &lpar;Kendra Barnett/Adweek&rpar;](http://www.techmeme.com/250222/p11#a250222p11)
- - [Trump’s first 100 days: all the news affecting the tech industry](https://www.theverge.com/24348851/donald-trump-presidency-tech-science-news)
- - [The long wait for a glimpse of Luigi](https://www.theverge.com/law/617946/luigi-mangione-unitedhealth-ceo-february-hearing-protest)<!-- TECH:END -->
+ - [Trump’s first 100 days: all the news affecting the tech industry](https://www.theverge.com/24348851/donald-trump-presidency-tech-science-news)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

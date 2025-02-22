@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [An investigation details how Chinese cybercrime groups are turning phished payment card data into new Apple or Google wallets for online and in-store use &lpar;Brian Krebs/Krebs on Security&rpar;](http://www.techmeme.com/250222/p10#a250222p10)
+ - [The best smartphone you can buy for under $500](https://www.theverge.com/21420196/best-budget-smartphone-cheap)
  - [Trump’s first 100 days: all the news affecting the tech industry](https://www.theverge.com/24348851/donald-trump-presidency-tech-science-news)
  - [Spotify HiFi was announced four years ago, and it’s almost here — maybe](https://www.theverge.com/spotify/617927/spotify-hifi-music-pro-coming-2025)
- - [AT&amp;#038;T will let you split your bill with people on your plan](https://www.theverge.com/news/617928/att-will-let-you-split-your-bill-with-people-on-your-plan)
- - [8 of the Best Soft Mattresses of 2025, Tested by CNET Sleep Experts](https://www.cnet.com/health/sleep/best-soft-mattress/#ftag=CAD590a51e)
- - [The Best Meta Quest Games You Can Play Right Now &lpar;2025&rpar;](https://www.wired.com/gallery/best-oculus-meta-quest-games/)<!-- TECH:END -->
+ - [AT&amp;#038;T will let you split your bill with people on your plan](https://www.theverge.com/news/617928/att-will-let-you-split-your-bill-with-people-on-your-plan)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

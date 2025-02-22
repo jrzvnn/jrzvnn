@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [NFT marketplace OpenSea says the US SEC has ended an investigation into the company, after OpenSea received a Wells Notice in August 2024 &lpar;Muyao Shen/Bloomberg Tax&rpar;](http://www.techmeme.com/250221/p30#a250221p30)
- - [Sources: US negotiators pressing Ukraine for access to its minerals raised the possibility of cutting the country&#39;s access to Starlink if a deal is not reached &lpar;Reuters&rpar;](http://www.techmeme.com/250221/p29#a250221p29)
- - [The best robot vacuums](https://www.theverge.com/22997597/best-robot-vacuum-cleaner)
- - [Trump directs CFIUS to limit Chinese investments in key areas, and says US will consider outbound investment restrictions to China in sectors like chips and AI &lpar;Bloomberg&rpar;](http://www.techmeme.com/250221/p28#a250221p28)
- - [Elon Musk&amp;#8217;s AI said he and Trump deserve the death penalty](https://www.theverge.com/news/617799/elon-musk-grok-ai-donald-trump-death-penalty)<!-- TECH:END -->
+ - [Reddit is experiencing outages again](https://www.theverge.com/news/617844/reddit-outage-down-agai)
+ - [Block shares closed down 17.69% on February 21, their steepest drop since 2020, after Q4 earnings missed est. and guidance for 2025 failed to reassure investors &lpar;MacKenzie Sigalos/CNBC&rpar;](http://www.techmeme.com/250221/p32#a250221p32)
+ - [President Trump signs a memorandum to consider retaliatory measures, including tariffs, on countries that impose digital service taxes on US tech companies &lpar;Reuters&rpar;](http://www.techmeme.com/250221/p31#a250221p31)
+ - [Best Tested Portable Air Conditioners for 2025](https://www.cnet.com/home/kitchen-and-household/best-portable-ac-units/#ftag=CAD590a51e)
+ - [NFT marketplace OpenSea says the US SEC has ended an investigation into the company, after OpenSea received a Wells Notice in August 2024 &lpar;Muyao Shen/Bloomberg Tax&rpar;](http://www.techmeme.com/250221/p30#a250221p30)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

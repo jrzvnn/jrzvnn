@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [France just voted for a wealth tax of 2% for people with over 100 million \u20ac in wealth.](http://9gag.com/gag/aZZ17Rp)
- - 😝 [When you skip the tutorial &amp; get straight into the game.](http://9gag.com/gag/apR32qn)
- - 💣 [House, DVM](http://9gag.com/gag/aPAmjAg)
- - 😝 [Stepdad step up](http://9gag.com/gag/aAy6DnL)
- - 👉 [That last touch was personal](http://9gag.com/gag/a4P6R2y)<!-- MEMES:END -->
+ - 😝 [You don&#39;t hate game journalists enough](http://9gag.com/gag/aND9zQr)
+ - 😝 [Brittish food is so cheap](http://9gag.com/gag/agm1A7r)
+ - 💣 [That last touch was personal](http://9gag.com/gag/a4P6R2y)
+ - 😝 [Dummy move](http://9gag.com/gag/axy30E1)
+ - 👉 [Thicc thighs saves lives, The Superiority of Asian devs in the gaming/animation industry](http://9gag.com/gag/apR32KD)<!-- MEMES:END -->
 
 ---
 

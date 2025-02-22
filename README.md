@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Go get the Green guy](http://9gag.com/gag/aMVBj8V)
- - 😝 [When you skip the tutorial &amp; get straight into the game.](http://9gag.com/gag/apR32qn)
- - 💣 [You don&#39;t hate game journalists enough](http://9gag.com/gag/aND9zQr)
- - 😝 [Worth trying](http://9gag.com/gag/an7R5qE)
- - 👉 [Mexican water park](http://9gag.com/gag/adB1K0D)<!-- MEMES:END -->
+ - 😝 [Its funny cuz its true](http://9gag.com/gag/avy1oqM)
+ - 😝 [I am suddenly rich](http://9gag.com/gag/agm152g)
+ - 💣 [Well said](http://9gag.com/gag/a5Q6RAo)
+ - 😝 [This man participated in a competition where contestants had to tell a funny story `only by actions` and without speaking. So he demonstrated this story. Btw he won...](http://9gag.com/gag/agm15Y1)
+ - 👉 [\u201cYellow\u201d.](http://9gag.com/gag/an7R990)<!-- MEMES:END -->
 
 ---
 

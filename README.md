@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Happy weekend](http://9gag.com/gag/ae91rZj)
- - 😝 [From simp to pimp](http://9gag.com/gag/avy15Db)
- - 💣 [Hooters is filing for bankruptcy. It&#39;s so buffling. I can&#39;t figure out why.](http://9gag.com/gag/a1mNr52)
- - 😝 [Shower ???](http://9gag.com/gag/avy15qO)
- - 👉 [I think I must have missed some technics](http://9gag.com/gag/aoy3e1x)<!-- MEMES:END -->
+ - 😝 [Decided to prank the stranger infront of him](http://9gag.com/gag/aZZ17Y3)
+ - 😝 [When some rich guy tells you he conquered the highest mountain in the world, that&#39;s what actually happened.](http://9gag.com/gag/amo1gz9)
+ - 💣 [Jerk Steve](http://9gag.com/gag/a4P6EyA)
+ - 😝 [*Avoid*](http://9gag.com/gag/azxdedN)
+ - 👉 [Is that an Irish goodbye?](http://9gag.com/gag/ary3Mdp)<!-- MEMES:END -->
 
 ---
 

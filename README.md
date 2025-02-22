@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [When some rich guy tells you he conquered the highest mountain in the world, that&#39;s what actually happened.](http://9gag.com/gag/amo1gz9)
- - 😝 [Jerk Steve](http://9gag.com/gag/a4P6EyA)
- - 💣 [Is that an Irish goodbye?](http://9gag.com/gag/ary3Mdp)
- - 😝 [*Avoid*](http://9gag.com/gag/azxdedN)
- - 👉 [Shower ???](http://9gag.com/gag/avy15qO)<!-- MEMES:END -->
+ - 😝 [FAFO level 10000 - Trump just stopped ALL federal aid to Maine after they refused to ban trans men from womens sports.](http://9gag.com/gag/awy3BBQ)
+ - 😝 [From simp to pimp](http://9gag.com/gag/avy15Db)
+ - 💣 [Hooters is filing for bankruptcy. It&#39;s so buffling. I can&#39;t figure out why.](http://9gag.com/gag/a1mNr52)
+ - 😝 [Happy weekend](http://9gag.com/gag/ae91rZj)
+ - 👉 [In the ruins of Chernobyl, scientists discovered a black fungus that feeds on gamma radiation.](http://9gag.com/gag/ajP1m3x)<!-- MEMES:END -->
 
 ---
 

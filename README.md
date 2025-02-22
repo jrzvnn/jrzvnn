@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Why Is Chocolate So Expensive Right Now?](https://www.wired.com/story/why-chocolate-is-so-expensive-right-now/)
+ - [The 44 Best Movies on Netflix Right Now &lpar;February 2025&rpar;](https://www.wired.com/story/netflix-best-movies-this-week/)
+ - [The 45 Best Shows on Netflix Right Now &lpar;February 2025&rpar;](https://www.wired.com/story/netflix-best-shows-this-week/)
  - [Many SV startups are using AI to boost productivity in research, coding, and more, reducing reliance on VC money for hiring, fueling &quot;tiny team&quot; success stories &lpar;Erin Griffith/New York Times&rpar;](http://www.techmeme.com/250222/p7#a250222p7)
- - [$1.4 Billion Stolen From ByBit in Biggest Crypto Theft Ever](https://www.wired.com/story/1-4-billion-stolen-from-bybit-in-biggest-crypto-theft-ever/)
- - [The Humane Ai Pin Will Become E-Waste Next Week](https://www.wired.com/story/humane-ai-pin-will-become-e-waste-next-week/)
- - [Best Internet Providers in Lehigh Acres, Florida](https://www.cnet.com/home/internet/best-internet-providers-in-lehigh-acres-fl/#ftag=CAD590a51e)
- - [What Elon Musk Got Wrong About Why Federal Retirement Is Still Managed out of a Limestone Mine](https://www.wired.com/story/limestone-mine-elon-musk-retirement/)<!-- TECH:END -->
+ - [$1.4 Billion Stolen From ByBit in Biggest Crypto Theft Ever](https://www.wired.com/story/1-4-billion-stolen-from-bybit-in-biggest-crypto-theft-ever/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

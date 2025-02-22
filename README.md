@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Hold up...](http://9gag.com/gag/amo1BA6)
- - 😝 [Title Not needed...](http://9gag.com/gag/aD26gpZ)
- - 💣 [If you can\u2019t enforce dominance over a dog. Don\u2019t have that dog](http://9gag.com/gag/azxdX8j)
- - 😝 [His last day at work](http://9gag.com/gag/aBy62Q2)
- - 👉 [You don&#39;t hate game journalists enough](http://9gag.com/gag/aND9zQr)<!-- MEMES:END -->
+ - 😝 [If you can\u2019t enforce dominance over a dog. Don\u2019t have that dog](http://9gag.com/gag/azxdX8j)
+ - 😝 [Oh man!](http://9gag.com/gag/avy18gM)
+ - 💣 [Hollander vs Deutcher](http://9gag.com/gag/a0eXNgn)
+ - 😝 [In Sickness and in Health](http://9gag.com/gag/aND9YPb)
+ - 👉 [Why we doubt when pretty girls talk to us](http://9gag.com/gag/aBy60LN)<!-- MEMES:END -->
 
 ---
 

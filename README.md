@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Title Not needed...](http://9gag.com/gag/aD26gpZ)
- - 😝 [In Sickness and in Health](http://9gag.com/gag/aND9YPb)
- - 💣 [Oh man!](http://9gag.com/gag/avy18gM)
- - 😝 [Hollander vs Deutcher](http://9gag.com/gag/a0eXNgn)
- - 👉 [If you can\u2019t enforce dominance over a dog. Don\u2019t have that dog](http://9gag.com/gag/azxdX8j)<!-- MEMES:END -->
+ - 😝 [Male students protested by not taking exams after women were banned from university in Afghanistan.](http://9gag.com/gag/an7R9Yz)
+ - 😝 [Hold up...](http://9gag.com/gag/amo1BA6)
+ - 💣 [Prawn: Catch me if you can!](http://9gag.com/gag/a1mNK1R)
+ - 😝 [Why we doubt when pretty girls talk to us](http://9gag.com/gag/aBy60LN)
+ - 👉 [Title Not needed...](http://9gag.com/gag/aD26gpZ)<!-- MEMES:END -->
 
 ---
 

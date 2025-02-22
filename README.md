@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Robert irwin, spitting image of his father](http://9gag.com/gag/aZZ1y5n)
- - 😝 [Quite the exchange between Trump and the governor of Maine, who refuses to take men out of women&#39;s sports despite her constituency supporting it](http://9gag.com/gag/ayN3eKV)
- - 💣 [Shower ???](http://9gag.com/gag/avy15qO)
- - 😝 [\u201cYellow\u201d.](http://9gag.com/gag/an7R990)
- - 👉 [Hell Let Loose](http://9gag.com/gag/aVvowe2)<!-- MEMES:END -->
+ - 😝 [Why we doubt when pretty girls talk to us](http://9gag.com/gag/aBy60LN)
+ - 😝 [Brittish food is so cheap](http://9gag.com/gag/agm1A7r)
+ - 💣 [Title Not needed...](http://9gag.com/gag/aD26gpZ)
+ - 😝 [In Sickness and in Health](http://9gag.com/gag/aND9YPb)
+ - 👉 [Male students protested by not taking exams after women were banned from university in Afghanistan.](http://9gag.com/gag/an7R9Yz)<!-- MEMES:END -->
 
 ---
 

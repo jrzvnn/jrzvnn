@@ -166,10 +166,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [In the ruins of Chernobyl, scientists discovered a black fungus that feeds on gamma radiation.](http://9gag.com/gag/ajP1m3x)
- - 😝 [Hooters is filing for bankruptcy. It&#39;s so buffling. I can&#39;t figure out why.](http://9gag.com/gag/a1mNr52)
- - 💣 [Happy weekend](http://9gag.com/gag/ae91rZj)
- - 😝 [Title Not needed...](http://9gag.com/gag/aD26gpZ)
+ - 😝 [Happy weekend](http://9gag.com/gag/ae91rZj)
+ - 😝 [France just voted for a wealth tax of 2% for people with over 100 million \u20ac in wealth.](http://9gag.com/gag/aZZ17Rp)
+ - 💣 [Doesnt sound too bad](http://9gag.com/gag/an7RzNz)
+ - 😝 [Shower ???](http://9gag.com/gag/avy15qO)
  - 👉 [FAFO level 10000 - Trump just stopped ALL federal aid to Maine after they refused to ban trans men from womens sports.](http://9gag.com/gag/awy3BBQ)<!-- MEMES:END -->
 
 ---

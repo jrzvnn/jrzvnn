@@ -158,10 +158,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- TECH:START -->
  - [AT&amp;#038;T will let you split your bill with people on your plan](https://www.theverge.com/news/617928/att-will-let-you-split-your-bill-with-people-on-your-plan)
+ - [8 of the Best Soft Mattresses of 2025, Tested by CNET Sleep Experts](https://www.cnet.com/health/sleep/best-soft-mattress/#ftag=CAD590a51e)
  - [The Best Meta Quest Games You Can Play Right Now &lpar;2025&rpar;](https://www.wired.com/gallery/best-oculus-meta-quest-games/)
- - [Even as Trump embraces crypto, attracting millions of new investors, the Bybit hack and memecoins show how crypto remains the wild West of the financial world &lpar;David Yaffe-Bellany/New York Times&rpar;](http://www.techmeme.com/250222/p9#a250222p9)
- - [The best wireless earbuds to buy right now](https://www.theverge.com/21309820/best-wireless-earbuds)
- - [Premier League Soccer: Livestream Aston Villa vs. Chelsea  From Anywhere](https://www.cnet.com/tech/services-and-software/premier-league-soccer-livestream-aston-villa-vs-chelsea-from-anywhere/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Best Internet Providers in Superior, Wisconsin](https://www.cnet.com/home/internet/best-internet-providers-in-superior-wi/#ftag=CAD590a51e)
+ - [Even as Trump embraces crypto, attracting millions of new investors, the Bybit hack and memecoins show how crypto remains the wild West of the financial world &lpar;David Yaffe-Bellany/New York Times&rpar;](http://www.techmeme.com/250222/p9#a250222p9)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

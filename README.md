@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Decided to prank the stranger infront of him](http://9gag.com/gag/aZZ17Y3)
- - 😝 [The lamp of the future.](http://9gag.com/gag/ajP1Vjq)
- - 💣 [*Avoid*](http://9gag.com/gag/azxdedN)
- - 😝 [Shower ???](http://9gag.com/gag/avy15qO)
- - 👉 [Say hi to Pepe.](http://9gag.com/gag/ae91gXq)<!-- MEMES:END -->
+ - 😝 [His last day at work](http://9gag.com/gag/aBy62Q2)
+ - 😝 [Very true!](http://9gag.com/gag/apR399E)
+ - 💣 [Great Britain](http://9gag.com/gag/aAy6GpR)
+ - 😝 [Title Not needed...](http://9gag.com/gag/aD26gpZ)
+ - 👉 [FAFO level 10000 - Trump just stopped ALL federal aid to Maine after they refused to ban trans men from womens sports.](http://9gag.com/gag/awy3BBQ)<!-- MEMES:END -->
 
 ---
 

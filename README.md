@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [FAFO level 10000 - Trump just stopped ALL federal aid to Maine after they refused to ban trans men from womens sports.](http://9gag.com/gag/awy3BBQ)
- - 😝 [How many could you see?](http://9gag.com/gag/aD26d4K)
- - 💣 [Strong building](http://9gag.com/gag/azxd2vK)
+ - 😝 [If an MRI malfunctions, 2,000 litres of helium is released into the environment. If the outlet is blocked or poorly maintained, this can cause all the oxygen in the room to be depleted, and the increase in pressure prevents the door from opening\u2026](http://9gag.com/gag/a7oOovb)
+ - 😝 [Loved those puppies](http://9gag.com/gag/a876EvY)
+ - 💣 [Right on the finger!](http://9gag.com/gag/adB1V9M)
  - 😝 [The guide reports that a pride of lions is in the area.](http://9gag.com/gag/aGynydz)
- - 👉 [That was unexpected](http://9gag.com/gag/awy3yKx)<!-- MEMES:END -->
+ - 👉 [How many could you see?](http://9gag.com/gag/aD26d4K)<!-- MEMES:END -->
 
 ---
 

@@ -170,7 +170,7 @@ R                        1 repo              ░░░░░░░░░░░�
  - 😝 [*Avoid*](http://9gag.com/gag/azxdedN)
  - 💣 [Shower ???](http://9gag.com/gag/avy15qO)
  - 😝 [Is that an Irish goodbye?](http://9gag.com/gag/ary3Mdp)
- - 👉 [Prank call show accidentally finds best man in Australia](http://9gag.com/gag/ae91QeB)<!-- MEMES:END -->
+ - 👉 [They don&#39;t make comedy like this anymore](http://9gag.com/gag/a345E67)<!-- MEMES:END -->
 
 ---
 

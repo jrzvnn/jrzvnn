@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [86 year old movie](http://9gag.com/gag/aLnzLDV)
  - 😝 [Fourth paycheck needed](http://9gag.com/gag/a876736)
- - 😝 [LOL](http://9gag.com/gag/aYQEQ3w)
- - 💣 [What the hell?](http://9gag.com/gag/aVvovOO)
- - 😝 [When you marry a gamer](http://9gag.com/gag/aD267Ax)
- - 👉 [Strong building](http://9gag.com/gag/azxd2vK)<!-- MEMES:END -->
+ - 💣 [In the ruins of Chernobyl, scientists discovered a black fungus that feeds on gamma radiation.](http://9gag.com/gag/ajP1m3x)
+ - 😝 [What the hell?](http://9gag.com/gag/aVvovOO)
+ - 👉 [When you marry a gamer](http://9gag.com/gag/aD267Ax)<!-- MEMES:END -->
 
 ---
 

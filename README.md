@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [All the news about Nvidia’s RTX 50-series GPUs](https://www.theverge.com/2025/1/25/24351798/nvidia-rtx-5090-5080-5070-gpu-news-rumors)
+ - [Jony Ive reveals his iMac design took just three weeks](https://appleinsider.com/articles/25/02/23/jony-ive-reveals-his-imac-design-took-just-three-weeks?utm_medium=rss)
  - [The Space Force shares a photo of Earth taken by the X-37B space plane](https://www.theverge.com/space/618088/space-force-x-37b-earth-photo-experimental-maneuvers)
  - [Best Workout Apps and Services for 2025](https://www.cnet.com/health/fitness/best-workout-apps/#ftag=CAD590a51e)
- - [Best Internet Providers in Boston, Massachusetts](https://www.cnet.com/home/internet/best-internet-providers-in-boston-ma/#ftag=CAD590a51e)
- - [Trump’s first 100 days: all the news affecting the tech industry](https://www.theverge.com/24348851/donald-trump-presidency-tech-science-news)
- - [Elon Musk claims federal employees have 48 hours to explain recent work or resign](https://www.theverge.com/news/618069/elon-musk-email-federal-workers-respond-or-resign)<!-- TECH:END -->
+ - [Best Internet Providers in Boston, Massachusetts](https://www.cnet.com/home/internet/best-internet-providers-in-boston-ma/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

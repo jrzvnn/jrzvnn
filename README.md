@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Braless in white](http://9gag.com/gag/aD26dwZ)
- - 😝 [Fourth paycheck needed](http://9gag.com/gag/a876736)
+ - 😝 [Didn&#39;t expect it](http://9gag.com/gag/ayN32DX)
+ - 😝 [Applying this privacy film](http://9gag.com/gag/apR3RWp)
  - 💣 [What the hell?](http://9gag.com/gag/aVvovOO)
- - 😝 [If an MRI malfunctions, 2,000 litres of helium is released into the environment. If the outlet is blocked or poorly maintained, this can cause all the oxygen in the room to be depleted, and the increase in pressure prevents the door from opening\u2026](http://9gag.com/gag/a7oOovb)
- - 👉 [CTRL + Z for undo](http://9gag.com/gag/aW47grn)<!-- MEMES:END -->
+ - 😝 [When you marry a gamer](http://9gag.com/gag/aD267Ax)
+ - 👉 [Fourth paycheck needed](http://9gag.com/gag/a876736)<!-- MEMES:END -->
 
 ---
 

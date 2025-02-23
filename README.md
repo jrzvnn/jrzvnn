@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [When some rich guy tells you he conquered the highest mountain in the world, that&#39;s what actually happened.](http://9gag.com/gag/amo1gz9)
- - 😝 [*Avoid*](http://9gag.com/gag/azxdedN)
- - 💣 [The lamp of the future.](http://9gag.com/gag/ajP1Vjq)
+ - 😝 [Decided to prank the stranger infront of him](http://9gag.com/gag/aZZ17Y3)
+ - 😝 [The lamp of the future.](http://9gag.com/gag/ajP1Vjq)
+ - 💣 [*Avoid*](http://9gag.com/gag/azxdedN)
  - 😝 [Shower ???](http://9gag.com/gag/avy15qO)
- - 👉 [Is that an Irish goodbye?](http://9gag.com/gag/ary3Mdp)<!-- MEMES:END -->
+ - 👉 [Say hi to Pepe.](http://9gag.com/gag/ae91gXq)<!-- MEMES:END -->
 
 ---
 

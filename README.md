@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [The guide reports that a pride of lions is in the area.](http://9gag.com/gag/aGynydz)
- - 😝 [CTRL + Z for undo](http://9gag.com/gag/aW47grn)
- - 💣 [FAFO level 10000 - Trump just stopped ALL federal aid to Maine after they refused to ban trans men from womens sports.](http://9gag.com/gag/awy3BBQ)
- - 😝 [They kiss](http://9gag.com/gag/aND9p4G)
- - 👉 [Lol](http://9gag.com/gag/azxdmDB)<!-- MEMES:END -->
+ - 😝 [I&#39;m a 40 yo married man. bought a 2000$ gaming computer so I can play my favorite games. Starting with this gem.](http://9gag.com/gag/a87614d)
+ - 😝 [Doesnt sound too bad](http://9gag.com/gag/an7RzNz)
+ - 💣 [Prank call show accidentally finds best man in Australia](http://9gag.com/gag/ae91QeB)
+ - 😝 [They don&#39;t make comedy like this anymore](http://9gag.com/gag/a345E67)
+ - 👉 [Take notes European](http://9gag.com/gag/a9y6yKK)<!-- MEMES:END -->
 
 ---
 

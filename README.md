@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Childhood memories](http://9gag.com/gag/aE06Pdn)
- - 😝 [Title\u2026](http://9gag.com/gag/awy3BOB)
- - 💣 [His last day at work](http://9gag.com/gag/aBy62Q2)
- - 😝 [Enough](http://9gag.com/gag/aqyXnKY)
- - 👉 [My job here is done.](http://9gag.com/gag/a345EWr)<!-- MEMES:END -->
+ - 😝 [Great Britain](http://9gag.com/gag/aAy6GpR)
+ - 😝 [Cardboard box hero: woman saves dog from dangerous fall](http://9gag.com/gag/aVvo0wM)
+ - 💣 [No place for the weak](http://9gag.com/gag/aPAmRMn)
+ - 😝 [His last day at work](http://9gag.com/gag/aBy62Q2)
+ - 👉 [How many could you see?](http://9gag.com/gag/aD26d4K)<!-- MEMES:END -->
 
 ---
 

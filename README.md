@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Great Britain](http://9gag.com/gag/aAy6GpR)
- - 😝 [Cardboard box hero: woman saves dog from dangerous fall](http://9gag.com/gag/aVvo0wM)
- - 💣 [No place for the weak](http://9gag.com/gag/aPAmRMn)
- - 😝 [His last day at work](http://9gag.com/gag/aBy62Q2)
- - 👉 [How many could you see?](http://9gag.com/gag/aD26d4K)<!-- MEMES:END -->
+ - 😝 [How many could you see?](http://9gag.com/gag/aD26d4K)
+ - 😝 [Like a glove](http://9gag.com/gag/aD26dLw)
+ - 💣 [Great Britain](http://9gag.com/gag/aAy6GpR)
+ - 😝 [FAFO level 10000 - Trump just stopped ALL federal aid to Maine after they refused to ban trans men from womens sports.](http://9gag.com/gag/awy3BBQ)
+ - 👉 [Didn&#39;t expect it](http://9gag.com/gag/ayN32DX)<!-- MEMES:END -->
 
 ---
 

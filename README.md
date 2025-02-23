@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Right on the finger!](http://9gag.com/gag/adB1V9M)
- - 😝 [Shower ???](http://9gag.com/gag/avy15qO)
- - 💣 [They kiss](http://9gag.com/gag/aND9p4G)
- - 😝 [F the police](http://9gag.com/gag/aW47jEZ)
- - 👉 [Lol](http://9gag.com/gag/azxdmDB)<!-- MEMES:END -->
+ - 😝 [FAFO level 10000 - Trump just stopped ALL federal aid to Maine after they refused to ban trans men from womens sports.](http://9gag.com/gag/awy3BBQ)
+ - 😝 [How many could you see?](http://9gag.com/gag/aD26d4K)
+ - 💣 [Strong building](http://9gag.com/gag/azxd2vK)
+ - 😝 [The guide reports that a pride of lions is in the area.](http://9gag.com/gag/aGynydz)
+ - 👉 [That was unexpected](http://9gag.com/gag/awy3yKx)<!-- MEMES:END -->
 
 ---
 

@@ -166,10 +166,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Great Britain](http://9gag.com/gag/aAy6GpR)
- - 😝 [Pros Hate This One Trick!](http://9gag.com/gag/aQzvo6e)
- - 💣 [No place for the weak](http://9gag.com/gag/aPAmRMn)
- - 😝 [His last day at work](http://9gag.com/gag/aBy62Q2)
+ - 😝 [Rolling cheese](http://9gag.com/gag/aLnz195)
+ - 😝 [I believe what i choose to believe](http://9gag.com/gag/aYQEorq)
+ - 💣 [Great Britain](http://9gag.com/gag/aAy6GpR)
+ - 😝 [F the police](http://9gag.com/gag/aW47jEZ)
  - 👉 [Didn&#39;t expect it](http://9gag.com/gag/ayN32DX)<!-- MEMES:END -->
 
 ---

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [They kiss](http://9gag.com/gag/aND9p4G)
- - 😝 [Loved those puppies](http://9gag.com/gag/a876EvY)
+ - 😝 [Title\u2026](http://9gag.com/gag/awy3BOB)
+ - 😝 [CTRL + Z for undo](http://9gag.com/gag/aW47grn)
  - 💣 [FAFO level 10000 - Trump just stopped ALL federal aid to Maine after they refused to ban trans men from womens sports.](http://9gag.com/gag/awy3BBQ)
- - 😝 [How many could you see?](http://9gag.com/gag/aD26d4K)
- - 👉 [Right on the finger!](http://9gag.com/gag/adB1V9M)<!-- MEMES:END -->
+ - 😝 [What pokemon is this](http://9gag.com/gag/a4P6PRw)
+ - 👉 [They kiss](http://9gag.com/gag/aND9p4G)<!-- MEMES:END -->
 
 ---
 

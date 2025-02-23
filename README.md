@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Didn&#39;t expect it](http://9gag.com/gag/ayN32DX)
- - 😝 [Hooters is filing for bankruptcy. It&#39;s so buffling. I can&#39;t figure out why.](http://9gag.com/gag/a1mNr52)
- - 💣 [Wrong one](http://9gag.com/gag/a345ER7)
- - 😝 [Strong building](http://9gag.com/gag/azxd2vK)
- - 👉 [Lol](http://9gag.com/gag/azxdmDB)<!-- MEMES:END -->
+ - 😝 [FAFO level 10000 - Trump just stopped ALL federal aid to Maine after they refused to ban trans men from womens sports.](http://9gag.com/gag/awy3BBQ)
+ - 😝 [Loved those puppies](http://9gag.com/gag/a876EvY)
+ - 💣 [Lol](http://9gag.com/gag/azxdmDB)
+ - 😝 [CTRL + Z for undo](http://9gag.com/gag/aW47grn)
+ - 👉 [Prisoners record their breakout](http://9gag.com/gag/aAy6g40)<!-- MEMES:END -->
 
 ---
 

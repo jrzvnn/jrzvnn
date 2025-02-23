@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [His last day at work](http://9gag.com/gag/aBy62Q2)
- - 😝 [FAFO level 10000 - Trump just stopped ALL federal aid to Maine after they refused to ban trans men from womens sports.](http://9gag.com/gag/awy3BBQ)
- - 💣 [CTRL + Z for undo](http://9gag.com/gag/aW47grn)
- - 😝 [What pokemon is this](http://9gag.com/gag/a4P6PRw)
- - 👉 [Hooters is filing for bankruptcy. It&#39;s so buffling. I can&#39;t figure out why.](http://9gag.com/gag/a1mNr52)<!-- MEMES:END -->
+ - 😝 [Right on the finger!](http://9gag.com/gag/adB1V9M)
+ - 😝 [Shower ???](http://9gag.com/gag/avy15qO)
+ - 💣 [They kiss](http://9gag.com/gag/aND9p4G)
+ - 😝 [F the police](http://9gag.com/gag/aW47jEZ)
+ - 👉 [Lol](http://9gag.com/gag/azxdmDB)<!-- MEMES:END -->
 
 ---
 

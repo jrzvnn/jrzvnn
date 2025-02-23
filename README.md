@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [FAFO level 10000 - Trump just stopped ALL federal aid to Maine after they refused to ban trans men from womens sports.](http://9gag.com/gag/awy3BBQ)
- - 😝 [Loved those puppies](http://9gag.com/gag/a876EvY)
+ - 😝 [Didn&#39;t expect it](http://9gag.com/gag/ayN32DX)
+ - 😝 [Title\u2026](http://9gag.com/gag/awy3BOB)
  - 💣 [Lol](http://9gag.com/gag/azxdmDB)
- - 😝 [CTRL + Z for undo](http://9gag.com/gag/aW47grn)
- - 👉 [Prisoners record their breakout](http://9gag.com/gag/aAy6g40)<!-- MEMES:END -->
+ - 😝 [Wrong one](http://9gag.com/gag/a345ER7)
+ - 👉 [CTRL + Z for undo](http://9gag.com/gag/aW47grn)<!-- MEMES:END -->
 
 ---
 

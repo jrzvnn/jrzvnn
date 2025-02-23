@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Some journalists are taking freelance jobs with AI training data companies like Scale AI, which recruit them for tasks such as fact-checking and prompt drafting &lpar;Andrew Deck/Nieman Lab&rpar;](http://www.techmeme.com/250222/p15#a250222p15)
  - [iOS 18.4 to bring Matter support for compatible robot vacuums](https://appleinsider.com/articles/25/02/22/ios-184-to-bring-matter-support-for-compatible-robot-vacuums?utm_medium=rss)
  - [Best Internet Providers in Orange, California](https://www.cnet.com/home/internet/best-internet-providers-in-orange-ca/#ftag=CAD590a51e)
  - [Best Internet Providers in Chicago, Illinois](https://www.cnet.com/home/internet/best-internet-providers-in-chicago-il/#ftag=CAD590a51e)
- - [Best Internet Providers in Tucson, Arizona](https://www.cnet.com/home/internet/best-internet-providers-in-tucson-az/#ftag=CAD590a51e)
- - [A Maldita study of nearly 1.2M Community Notes on X published globally in 2024 shows that professional fact-checkers are among the three most cited sources &lpar;Enock Nyariki/Poynter&rpar;](http://www.techmeme.com/250222/p14#a250222p14)<!-- TECH:END -->
+ - [Best Internet Providers in Tucson, Arizona](https://www.cnet.com/home/internet/best-internet-providers-in-tucson-az/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

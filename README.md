@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [BYD’s Free Self-Driving Tech Might Not Be Such a Boon After All](https://www.wired.com/story/byd-free-self-driving-tech-gods-eye/)
  - [Vizio Elevate SE 5.1.2 Soundbar Review: Cheap Thrills](https://www.wired.com/review/vizio-elevate-se-2025/)
  - [Our favorite apps for listening to music](https://www.theverge.com/installer-newsletter/617653/best-music-apps-iphone-android-installer)
  - [Crime blotter: Selfies found in iCloud helped nab gang accused of burglarizing prominent athletes](https://appleinsider.com/articles/25/02/23/crime-blotter-selfies-found-in-icloud-helped-nab-gang-accused-of-burglarizing-prominent-athletes?utm_medium=rss)
- - [iPhone 17 Pro Max leak shows redesigned camera layout](https://appleinsider.com/articles/25/02/23/iphone-17-pro-max-leak-shows-redesigned-camera-layout?utm_medium=rss)
- - [A look at India&#39;s Svamitva Scheme, which has digitally mapped out landholdings using drones in 300K+ villages as of January 2025, as concerns mount over errors &lpar;Scroll.in&rpar;](http://www.techmeme.com/250223/p4#a250223p4)<!-- TECH:END -->
+ - [iPhone 17 Pro Max leak shows redesigned camera layout](https://appleinsider.com/articles/25/02/23/iphone-17-pro-max-leak-shows-redesigned-camera-layout?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

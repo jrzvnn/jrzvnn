@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Final day: Save $350 on these 20-core M4 MacBook Pros](https://appleinsider.com/articles/25/02/18/72-hours-only-save-350-on-these-20-core-m4-macbook-pros?utm_medium=rss)
  - [Trump’s first 100 days: all the news affecting the tech industry](https://www.theverge.com/24348851/donald-trump-presidency-tech-science-news)
  - [The 20 Best Barefoot Shoes for Running or Walking &lpar;2025&rpar;](https://www.wired.com/gallery/best-barefoot-shoes/)
  - [Apple abandons the budget phone market with the iPhone 16e; sources: the M4 MacBook Air may launch in March and Apple may eventually meld the modem and main CPU &lpar;Mark Gurman/Bloomberg&rpar;](http://www.techmeme.com/250223/p6#a250223p6)
- - [MacBook Air stocks start to dwindle ahead of M4 update](https://appleinsider.com/articles/25/02/23/macbook-air-stocks-start-to-dwindle-ahead-of-m4-update?utm_medium=rss)
- - [Apple&#39;s C1 modem tech will evolve, could come to other devices](https://appleinsider.com/articles/25/02/23/apples-c1-modem-tech-will-evolve-could-come-to-other-devices?utm_medium=rss)<!-- TECH:END -->
+ - [MacBook Air stocks start to dwindle ahead of M4 update](https://appleinsider.com/articles/25/02/23/macbook-air-stocks-start-to-dwindle-ahead-of-m4-update?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

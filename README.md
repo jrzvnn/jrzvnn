@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Apple iOS/iPadOS 18.4b1, watchOS 11.4b1 renders some devices inoperable](https://appleinsider.com/articles/25/02/23/apple-iosipados-184b1-watchos-114b1-renders-some-devices-inoperable?utm_medium=rss)
  - [Sources: Shein&#39;s 2024 sales were up 19% YoY to $38B, far below the forecasts made in 2023; some investors push Shein to cut pre-IPO valuation from $66B to ~$30B &lpar;Financial Times&rpar;](http://www.techmeme.com/250223/p7#a250223p7)
  - [Rumor roundup: iPhone 17 Pro&#39;s camera resolutions and layouts](https://appleinsider.com/articles/25/02/23/rumor-roundup-iphone-17-pros-camera-resolutions-and-layouts?utm_medium=rss)
  - [Final day: Save $350 on these 20-core M4 MacBook Pros](https://appleinsider.com/articles/25/02/18/72-hours-only-save-350-on-these-20-core-m4-macbook-pros?utm_medium=rss)
- - [Trump’s first 100 days: all the news affecting the tech industry](https://www.theverge.com/24348851/donald-trump-presidency-tech-science-news)
- - [The 20 Best Barefoot Shoes for Running or Walking &lpar;2025&rpar;](https://www.wired.com/gallery/best-barefoot-shoes/)<!-- TECH:END -->
+ - [Trump’s first 100 days: all the news affecting the tech industry](https://www.theverge.com/24348851/donald-trump-presidency-tech-science-news)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Strong building](http://9gag.com/gag/azxd2vK)
- - 😝 [Lol](http://9gag.com/gag/azxdmDB)
- - 💣 [Title\u2026](http://9gag.com/gag/awy3BOB)
- - 😝 [CTRL + Z for undo](http://9gag.com/gag/aW47grn)
- - 👉 [How many could you see?](http://9gag.com/gag/aD26d4K)<!-- MEMES:END -->
+ - 😝 [Cleaning the new light fixture doesn\u2019t go as planned.](http://9gag.com/gag/a7oOWe2)
+ - 😝 [Right on the finger!](http://9gag.com/gag/adB1V9M)
+ - 💣 [Lol](http://9gag.com/gag/azxdmDB)
+ - 😝 [Title\u2026](http://9gag.com/gag/awy3BOB)
+ - 👉 [What pokemon is this](http://9gag.com/gag/a4P6PRw)<!-- MEMES:END -->
 
 ---
 

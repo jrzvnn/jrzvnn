@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Apple prepares to add Google Gemini to Apple Intelligence](https://appleinsider.com/articles/25/02/23/apple-prepares-to-add-google-gemini-to-apple-intelligence?utm_medium=rss)
  - [MacBook Air stocks start to dwindle ahead of M4 update](https://appleinsider.com/articles/25/02/23/macbook-air-stocks-start-to-dwindle-ahead-of-m4-update?utm_medium=rss)
  - [Lenovo Yoga Slim 9i &lpar;14 Inch, Gen 10&rpar; Review: Hidden Webcam](https://www.wired.com/review/lenovo-yoga-slim-9i-14-inch-gen-10/)
  - [BYD’s Free Self-Driving Tech Might Not Be Such a Boon After All](https://www.wired.com/story/byd-free-self-driving-tech-gods-eye/)
- - [Vizio Elevate SE 5.1.2 Soundbar Review: Cheap Thrills](https://www.wired.com/review/vizio-elevate-se-2025/)
- - [Our favorite apps for listening to music](https://www.theverge.com/installer-newsletter/617653/best-music-apps-iphone-android-installer)<!-- TECH:END -->
+ - [Open-Access Networks Explained: A New Way to Get Internet](https://www.cnet.com/home/internet/what-is-an-open-access-network/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

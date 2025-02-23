@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [Just a transilvanian light breakfast. What&#39;s yours?](http://9gag.com/gag/ajP1g48)
  - 😝 [When some rich guy tells you he conquered the highest mountain in the world, that&#39;s what actually happened.](http://9gag.com/gag/amo1gz9)
- - 😝 [*Avoid*](http://9gag.com/gag/azxdedN)
- - 💣 [Shower ???](http://9gag.com/gag/avy15qO)
- - 😝 [Is that an Irish goodbye?](http://9gag.com/gag/ary3Mdp)
- - 👉 [They don&#39;t make comedy like this anymore](http://9gag.com/gag/a345E67)<!-- MEMES:END -->
+ - 💣 [*Avoid*](http://9gag.com/gag/azxdedN)
+ - 😝 [Shower ???](http://9gag.com/gag/avy15qO)
+ - 👉 [Is that an Irish goodbye?](http://9gag.com/gag/ary3Mdp)<!-- MEMES:END -->
 
 ---
 

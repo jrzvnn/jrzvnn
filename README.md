@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Prime Video: 12 Sci-Fi Movies You Should Add to Your Watch List Right Now](https://www.cnet.com/tech/services-and-software/best-sci-fi-movies-on-prime-video-2025/#ftag=CAD590a51e)
+ - [A look at India&#39;s Svamitva Scheme, which has digitally mapped out landholdings using drones in 300K+ villages as of January 2025, as concerns mount over errors &lpar;Scroll.in&rpar;](http://www.techmeme.com/250223/p4#a250223p4)
+ - [The Saw-Toothed Function That Broke Calculus](https://www.wired.com/story/the-saw-toothed-function-that-broke-calculus/)
  - [Can Tech Save Small Ski Resorts From Extinction?](https://www.wired.com/story/can-tech-save-small-ski-resorts-entabeni-systems/)
  - [Best Internet Providers in Parma, Ohio](https://www.cnet.com/home/internet/best-internet-providers-in-parma-oh/#ftag=CAD590a51e)
- - [The New &#39;Avatar: The Last Airbender&#39; Sequel Sounds Like a Gift to My Inner Child](https://www.cnet.com/culture/entertainment/the-new-avatar-the-last-airbender-sequel-sounds-like-a-gift-to-my-inner-child/#ftag=CAD590a51e)
- - [Best Electric Toothbrushes of 2025](https://www.cnet.com/health/personal-care/best-electric-toothbrush/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [The New &#39;Avatar: The Last Airbender&#39; Sequel Sounds Like a Gift to My Inner Child](https://www.cnet.com/culture/entertainment/the-new-avatar-the-last-airbender-sequel-sounds-like-a-gift-to-my-inner-child/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

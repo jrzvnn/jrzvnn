@@ -167,10 +167,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [Loved those puppies](http://9gag.com/gag/a876EvY)
- - 😝 [Hooters is filing for bankruptcy. It&#39;s so buffling. I can&#39;t figure out why.](http://9gag.com/gag/a1mNr52)
- - 💣 [What the hell?](http://9gag.com/gag/aVvovOO)
- - 😝 [They kiss](http://9gag.com/gag/aND9p4G)
- - 👉 [How many could you see?](http://9gag.com/gag/aD26d4K)<!-- MEMES:END -->
+ - 😝 [The moment Hundreds of thousands of Hezbollah shat their pants as Israeli planes flew above their heads](http://9gag.com/gag/a6ZXD1e)
+ - 💣 [CTRL + Z for undo](http://9gag.com/gag/aW47grn)
+ - 😝 [LOL](http://9gag.com/gag/aYQEQ3w)
+ - 👉 [Didn&#39;t expect it](http://9gag.com/gag/ayN32DX)<!-- MEMES:END -->
 
 ---
 

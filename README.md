@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [Right on the finger!](http://9gag.com/gag/adB1V9M)
+ - 😝 [Strong building](http://9gag.com/gag/azxd2vK)
+ - 💣 [Lol](http://9gag.com/gag/azxdmDB)
  - 😝 [If an MRI malfunctions, 2,000 litres of helium is released into the environment. If the outlet is blocked or poorly maintained, this can cause all the oxygen in the room to be depleted, and the increase in pressure prevents the door from opening\u2026](http://9gag.com/gag/a7oOovb)
- - 😝 [Loved those puppies](http://9gag.com/gag/a876EvY)
- - 💣 [Right on the finger!](http://9gag.com/gag/adB1V9M)
- - 😝 [The guide reports that a pride of lions is in the area.](http://9gag.com/gag/aGynydz)
- - 👉 [How many could you see?](http://9gag.com/gag/aD26d4K)<!-- MEMES:END -->
+ - 👉 [Wrong one](http://9gag.com/gag/a345ER7)<!-- MEMES:END -->
 
 ---
 

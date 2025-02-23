@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Apple&#39;s C1 modem tech will evolve, could come to other devices](https://appleinsider.com/articles/25/02/23/apples-c1-modem-tech-will-evolve-could-come-to-other-devices?utm_medium=rss)
  - [Best Action Cameras &lpar;2025&rpar;, Tested and Reviewed](https://www.wired.com/gallery/best-action-cameras/)
  - [Hades II just keeps getting better](https://www.theverge.com/games/617730/hades-2-getting-better-early-access)
  - [Apple’s M4 MacBook Air bump may be just around the corner](https://www.theverge.com/news/618057/apple-m4-macbook-air-march-update-rumor)
- - [Some US school districts are adopting Sonny, an AI &quot;wellbeing companion,&quot; to provide mental health support to students when there aren&#39;t enough counselors &lpar;Julie Jargon/Wall Street Journal&rpar;](http://www.techmeme.com/250223/p5#a250223p5)
- - [Apple prepares to add Google Gemini to Apple Intelligence](https://appleinsider.com/articles/25/02/23/apple-prepares-to-add-google-gemini-to-apple-intelligence?utm_medium=rss)<!-- TECH:END -->
+ - [Humane AI Pins Will Stop Working by the End of the Month](https://www.cnet.com/tech/computing/humane-ai-pins-will-stop-working-by-the-end-of-the-month/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

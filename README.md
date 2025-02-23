@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Loved those puppies](http://9gag.com/gag/a876EvY)
- - 😝 [Doggie is fine in ISLAM but not Dogs](http://9gag.com/gag/aPAmAXR)
- - 💣 [Right on the finger!](http://9gag.com/gag/adB1V9M)
  - 😝 [They kiss](http://9gag.com/gag/aND9p4G)
- - 👉 [If an MRI malfunctions, 2,000 litres of helium is released into the environment. If the outlet is blocked or poorly maintained, this can cause all the oxygen in the room to be depleted, and the increase in pressure prevents the door from opening\u2026](http://9gag.com/gag/a7oOovb)<!-- MEMES:END -->
+ - 😝 [Loved those puppies](http://9gag.com/gag/a876EvY)
+ - 💣 [FAFO level 10000 - Trump just stopped ALL federal aid to Maine after they refused to ban trans men from womens sports.](http://9gag.com/gag/awy3BBQ)
+ - 😝 [How many could you see?](http://9gag.com/gag/aD26d4K)
+ - 👉 [Right on the finger!](http://9gag.com/gag/adB1V9M)<!-- MEMES:END -->
 
 ---
 

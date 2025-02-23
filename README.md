@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [How many could you see?](http://9gag.com/gag/aD26d4K)
- - 😝 [Hooters is filing for bankruptcy. It&#39;s so buffling. I can&#39;t figure out why.](http://9gag.com/gag/a1mNr52)
- - 💣 [Like a glove](http://9gag.com/gag/aD26dLw)
- - 😝 [Loved those puppies](http://9gag.com/gag/a876EvY)
- - 👉 [Great Britain](http://9gag.com/gag/aAy6GpR)<!-- MEMES:END -->
+ - 😝 [CTRL + Z for undo](http://9gag.com/gag/aW47grn)
+ - 😝 [Lol](http://9gag.com/gag/azxdmDB)
+ - 💣 [F the police](http://9gag.com/gag/aW47jEZ)
+ - 😝 [Title Not needed...](http://9gag.com/gag/aD26gpZ)
+ - 👉 [From simp to pimp](http://9gag.com/gag/avy15Db)<!-- MEMES:END -->
 
 ---
 

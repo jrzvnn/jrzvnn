@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Cleaning the new light fixture doesn\u2019t go as planned.](http://9gag.com/gag/a7oOWe2)
- - 😝 [Enough](http://9gag.com/gag/aqyXnKY)
- - 💣 [Shower ???](http://9gag.com/gag/avy15qO)
  - 😝 [Rolling cheese](http://9gag.com/gag/aLnz195)
- - 👉 [F the police](http://9gag.com/gag/aW47jEZ)<!-- MEMES:END -->
+ - 😝 [Title\u2026](http://9gag.com/gag/awy3BOB)
+ - 💣 [His last day at work](http://9gag.com/gag/aBy62Q2)
+ - 😝 [F the police](http://9gag.com/gag/aW47jEZ)
+ - 👉 [Childhood memories](http://9gag.com/gag/aE06Pdn)<!-- MEMES:END -->
 
 ---
 

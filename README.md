@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Rolling cheese](http://9gag.com/gag/aLnz195)
- - 😝 [I believe what i choose to believe](http://9gag.com/gag/aYQEorq)
- - 💣 [Great Britain](http://9gag.com/gag/aAy6GpR)
- - 😝 [F the police](http://9gag.com/gag/aW47jEZ)
- - 👉 [Didn&#39;t expect it](http://9gag.com/gag/ayN32DX)<!-- MEMES:END -->
+ - 😝 [When some rich guy tells you he conquered the highest mountain in the world, that&#39;s what actually happened.](http://9gag.com/gag/amo1gz9)
+ - 😝 [*Avoid*](http://9gag.com/gag/azxdedN)
+ - 💣 [The lamp of the future.](http://9gag.com/gag/ajP1Vjq)
+ - 😝 [Shower ???](http://9gag.com/gag/avy15qO)
+ - 👉 [Is that an Irish goodbye?](http://9gag.com/gag/ary3Mdp)<!-- MEMES:END -->
 
 ---
 

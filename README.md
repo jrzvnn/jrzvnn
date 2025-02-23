@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Great Britain](http://9gag.com/gag/aAy6GpR)
- - 😝 [FAFO level 10000 - Trump just stopped ALL federal aid to Maine after they refused to ban trans men from womens sports.](http://9gag.com/gag/awy3BBQ)
- - 💣 [Loved those puppies](http://9gag.com/gag/a876EvY)
- - 😝 [If an MRI malfunctions, 2,000 litres of helium is released into the environment. If the outlet is blocked or poorly maintained, this can cause all the oxygen in the room to be depleted, and the increase in pressure prevents the door from opening\u2026](http://9gag.com/gag/a7oOovb)
- - 👉 [What pokemon is this](http://9gag.com/gag/a4P6PRw)<!-- MEMES:END -->
+ - 😝 [Tell me your thought about it](http://9gag.com/gag/a4P619v)
+ - 😝 [Loved those puppies](http://9gag.com/gag/a876EvY)
+ - 💣 [Brittish food is so cheap](http://9gag.com/gag/agm1A7r)
+ - 😝 [What pokemon is this](http://9gag.com/gag/a4P6PRw)
+ - 👉 [Lol](http://9gag.com/gag/azxdmDB)<!-- MEMES:END -->
 
 ---
 

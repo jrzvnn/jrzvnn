@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [MacBook Air stocks start to dwindle ahead of M4 update](https://appleinsider.com/articles/25/02/23/macbook-air-stocks-start-to-dwindle-ahead-of-m4-update?utm_medium=rss)
+ - [Lenovo Yoga Slim 9i &lpar;14 Inch, Gen 10&rpar; Review: Hidden Webcam](https://www.wired.com/review/lenovo-yoga-slim-9i-14-inch-gen-10/)
  - [BYD’s Free Self-Driving Tech Might Not Be Such a Boon After All](https://www.wired.com/story/byd-free-self-driving-tech-gods-eye/)
  - [Vizio Elevate SE 5.1.2 Soundbar Review: Cheap Thrills](https://www.wired.com/review/vizio-elevate-se-2025/)
- - [Our favorite apps for listening to music](https://www.theverge.com/installer-newsletter/617653/best-music-apps-iphone-android-installer)
- - [Crime blotter: Selfies found in iCloud helped nab gang accused of burglarizing prominent athletes](https://appleinsider.com/articles/25/02/23/crime-blotter-selfies-found-in-icloud-helped-nab-gang-accused-of-burglarizing-prominent-athletes?utm_medium=rss)
- - [iPhone 17 Pro Max leak shows redesigned camera layout](https://appleinsider.com/articles/25/02/23/iphone-17-pro-max-leak-shows-redesigned-camera-layout?utm_medium=rss)<!-- TECH:END -->
+ - [Our favorite apps for listening to music](https://www.theverge.com/installer-newsletter/617653/best-music-apps-iphone-android-installer)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

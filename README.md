@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Rolling cheese](http://9gag.com/gag/aLnz195)
- - 😝 [Title\u2026](http://9gag.com/gag/awy3BOB)
- - 💣 [His last day at work](http://9gag.com/gag/aBy62Q2)
- - 😝 [F the police](http://9gag.com/gag/aW47jEZ)
- - 👉 [Childhood memories](http://9gag.com/gag/aE06Pdn)<!-- MEMES:END -->
+ - 😝 [Great Britain](http://9gag.com/gag/aAy6GpR)
+ - 😝 [Pros Hate This One Trick!](http://9gag.com/gag/aQzvo6e)
+ - 💣 [No place for the weak](http://9gag.com/gag/aPAmRMn)
+ - 😝 [His last day at work](http://9gag.com/gag/aBy62Q2)
+ - 👉 [Didn&#39;t expect it](http://9gag.com/gag/ayN32DX)<!-- MEMES:END -->
 
 ---
 

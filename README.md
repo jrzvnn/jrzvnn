@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Apple abandons the budget phone market with the iPhone 16e; sources: the M4 MacBook Air may launch in March and Apple may eventually meld the modem and main CPU &lpar;Mark Gurman/Bloomberg&rpar;](http://www.techmeme.com/250223/p6#a250223p6)
  - [MacBook Air stocks start to dwindle ahead of M4 update](https://appleinsider.com/articles/25/02/23/macbook-air-stocks-start-to-dwindle-ahead-of-m4-update?utm_medium=rss)
  - [Apple&#39;s C1 modem tech will evolve, could come to other devices](https://appleinsider.com/articles/25/02/23/apples-c1-modem-tech-will-evolve-could-come-to-other-devices?utm_medium=rss)
  - [Best Action Cameras &lpar;2025&rpar;, Tested and Reviewed](https://www.wired.com/gallery/best-action-cameras/)
- - [Hades II just keeps getting better](https://www.theverge.com/games/617730/hades-2-getting-better-early-access)
- - [Apple’s M4 MacBook Air bump may be just around the corner](https://www.theverge.com/news/618057/apple-m4-macbook-air-march-update-rumor)<!-- TECH:END -->
+ - [Hades II just keeps getting better](https://www.theverge.com/games/617730/hades-2-getting-better-early-access)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

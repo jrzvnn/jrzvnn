@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Some US school districts are adopting Sonny, an AI &quot;wellbeing companion,&quot; to provide mental health support to students when there aren&#39;t enough counselors &lpar;Julie Jargon/Wall Street Journal&rpar;](http://www.techmeme.com/250223/p5#a250223p5)
- - [Apple prepares to add Google Gemini to Apple Intelligence](https://appleinsider.com/articles/25/02/23/apple-prepares-to-add-google-gemini-to-apple-intelligence?utm_medium=rss)
- - [MacBook Air stocks start to dwindle ahead of M4 update](https://appleinsider.com/articles/25/02/23/macbook-air-stocks-start-to-dwindle-ahead-of-m4-update?utm_medium=rss)
- - [Lenovo Yoga Slim 9i &lpar;14 Inch, Gen 10&rpar; Review: Hidden Webcam](https://www.wired.com/review/lenovo-yoga-slim-9i-14-inch-gen-10/)
- - [BYD’s Free Self-Driving Tech Might Not Be Such a Boon After All](https://www.wired.com/story/byd-free-self-driving-tech-gods-eye/)<!-- TECH:END -->
+ - [Best Action Cameras &lpar;2025&rpar;, Tested and Reviewed](https://www.wired.com/gallery/best-action-cameras/)
+ - [Hades II just keeps getting better](https://www.theverge.com/games/617730/hades-2-getting-better-early-access)
+ - [Apple’s M4 MacBook Air bump may be just around the corner](https://www.theverge.com/news/618057/apple-m4-macbook-air-march-update-rumor)
+ - [Humane AI Pins Will Stop Working by the End of the Month](https://www.cnet.com/tech/computing/humane-ai-pins-will-stop-working-by-the-end-of-the-month/#ftag=CAD590a51e)
+ - [Some US school districts are adopting Sonny, an AI &quot;wellbeing companion,&quot; to provide mental health support to students when there aren&#39;t enough counselors &lpar;Julie Jargon/Wall Street Journal&rpar;](http://www.techmeme.com/250223/p5#a250223p5)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

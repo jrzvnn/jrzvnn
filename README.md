@@ -158,10 +158,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- TECH:START -->
  - [Can Tech Save Small Ski Resorts From Extinction?](https://www.wired.com/story/can-tech-save-small-ski-resorts-entabeni-systems/)
+ - [Best Internet Providers in Parma, Ohio](https://www.cnet.com/home/internet/best-internet-providers-in-parma-oh/#ftag=CAD590a51e)
+ - [The New &#39;Avatar: The Last Airbender&#39; Sequel Sounds Like a Gift to My Inner Child](https://www.cnet.com/culture/entertainment/the-new-avatar-the-last-airbender-sequel-sounds-like-a-gift-to-my-inner-child/#ftag=CAD590a51e)
  - [Best Electric Toothbrushes of 2025](https://www.cnet.com/health/personal-care/best-electric-toothbrush/#ftag=CAD590a51e)
- - [A deep look at &quot;the Zizians&quot;, a cult-like group of young tech people exiled from Silicon Valley&#39;s rationalist community and allegedly linked to a killing spree &lpar;Evan Ratliff/Wired&rpar;](http://www.techmeme.com/250223/p3#a250223p3)
- - [Trump Can&#39;t Shut Down the Department of Education, but Student Loan Borrowers Should Beware](https://www.cnet.com/personal-finance/loans/trump-cant-shut-down-the-department-of-education-but-student-loan-borrowers-should-beware/#ftag=CAD590a51e)
- - [Researchers estimate that air pollution related to data centers from Google, Microsoft, and Meta resulted in $5.4B in US public health costs from 2019 to 2023 &lpar;Financial Times&rpar;](http://www.techmeme.com/250223/p2#a250223p2)<!-- TECH:END -->
+ - [A deep look at &quot;the Zizians&quot;, a cult-like group of young tech people exiled from Silicon Valley&#39;s rationalist community and allegedly linked to a killing spree &lpar;Evan Ratliff/Wired&rpar;](http://www.techmeme.com/250223/p3#a250223p3)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [What the hell?](http://9gag.com/gag/aVvovOO)
- - 😝 [LOL](http://9gag.com/gag/aYQEQ3w)
- - 💣 [Braless in white](http://9gag.com/gag/aD26dwZ)
- - 😝 [They kiss](http://9gag.com/gag/aND9p4G)
- - 👉 [Strong building](http://9gag.com/gag/azxd2vK)<!-- MEMES:END -->
+ - 😝 [Braless in white](http://9gag.com/gag/aD26dwZ)
+ - 😝 [Fourth paycheck needed](http://9gag.com/gag/a876736)
+ - 💣 [What the hell?](http://9gag.com/gag/aVvovOO)
+ - 😝 [If an MRI malfunctions, 2,000 litres of helium is released into the environment. If the outlet is blocked or poorly maintained, this can cause all the oxygen in the room to be depleted, and the increase in pressure prevents the door from opening\u2026](http://9gag.com/gag/a7oOovb)
+ - 👉 [CTRL + Z for undo](http://9gag.com/gag/aW47grn)<!-- MEMES:END -->
 
 ---
 

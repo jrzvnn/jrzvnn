@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [How many could you see?](http://9gag.com/gag/aD26d4K)
  - 😝 [Didn&#39;t expect it](http://9gag.com/gag/ayN32DX)
- - 😝 [Applying this privacy film](http://9gag.com/gag/apR3RWp)
- - 💣 [What the hell?](http://9gag.com/gag/aVvovOO)
- - 😝 [When you marry a gamer](http://9gag.com/gag/aD267Ax)
- - 👉 [Fourth paycheck needed](http://9gag.com/gag/a876736)<!-- MEMES:END -->
+ - 💣 [Strong building](http://9gag.com/gag/azxd2vK)
+ - 😝 [LOL](http://9gag.com/gag/aYQEQ3w)
+ - 👉 [The moment Hundreds of thousands of Hezbollah shat their pants as Israeli planes flew above their heads](http://9gag.com/gag/a6ZXD1e)<!-- MEMES:END -->
 
 ---
 

@@ -167,10 +167,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [How many could you see?](http://9gag.com/gag/aD26d4K)
- - 😝 [Like a glove](http://9gag.com/gag/aD26dLw)
- - 💣 [Great Britain](http://9gag.com/gag/aAy6GpR)
- - 😝 [FAFO level 10000 - Trump just stopped ALL federal aid to Maine after they refused to ban trans men from womens sports.](http://9gag.com/gag/awy3BBQ)
- - 👉 [Didn&#39;t expect it](http://9gag.com/gag/ayN32DX)<!-- MEMES:END -->
+ - 😝 [Hooters is filing for bankruptcy. It&#39;s so buffling. I can&#39;t figure out why.](http://9gag.com/gag/a1mNr52)
+ - 💣 [Like a glove](http://9gag.com/gag/aD26dLw)
+ - 😝 [Loved those puppies](http://9gag.com/gag/a876EvY)
+ - 👉 [Great Britain](http://9gag.com/gag/aAy6GpR)<!-- MEMES:END -->
 
 ---
 

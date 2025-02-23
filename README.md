@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Grab Amazon&#39;s best Apple deals from $15 before the month ends](https://appleinsider.com/articles/25/02/23/grab-amazons-best-apple-deals-from-15-before-the-month-ends?utm_medium=rss)
  - [Apple is rumored to be opening its first store in Oxford](https://appleinsider.com/articles/25/02/23/apple-is-rumored-to-be-opening-its-first-store-in-oxford?utm_medium=rss)
  - [All the news about Nvidia’s RTX 50-series GPUs](https://www.theverge.com/2025/1/25/24351798/nvidia-rtx-5090-5080-5070-gpu-news-rumors)
  - [Jony Ive reveals his iMac design took just three weeks](https://appleinsider.com/articles/25/02/23/jony-ive-reveals-his-imac-design-took-just-three-weeks?utm_medium=rss)
- - [Have an Apple Watch? Here&#39;s How to Claim Your Share of a $20 Million Settlement](https://www.cnet.com/tech/mobile/have-an-apple-watch-heres-how-to-claim-your-share-of-a-20-million-settlement/#ftag=CAD590a51e)
- - [Today&#39;s NYT Strands Hints, Answers and Help for Feb. 24, #358](https://www.cnet.com/tech/gaming/todays-nyt-strands-hints-answers-and-help-for-feb-24-358/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Have an Apple Watch? Here&#39;s How to Claim Your Share of a $20 Million Settlement](https://www.cnet.com/tech/mobile/have-an-apple-watch-heres-how-to-claim-your-share-of-a-20-million-settlement/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

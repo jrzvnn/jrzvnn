@@ -159,9 +159,9 @@ R                        1 repo              ░░░░░░░░░░░�
 <!-- TECH:START -->
  - [Trump’s first 100 days: all the news affecting the tech industry](https://www.theverge.com/24348851/donald-trump-presidency-tech-science-news)
  - [Elon Musk claims federal employees have 48 hours to explain recent work or resign](https://www.theverge.com/news/618069/elon-musk-email-federal-workers-respond-or-resign)
- - [&#39;Wicked&#39;: When to Watch the Oscar-Nominated Movie on Peacock](https://www.cnet.com/tech/services-and-software/wicked-when-to-watch-the-oscar-nominated-movie-on-peacock/#ftag=CAD590a51e)
- - [You&#39;re Cleaning Your Coffee Maker Too Often. Here&#39;s Why That&#39;s Bad](https://www.cnet.com/news/an-expert-explains-your-biggest-brewing-mistakes-starting-with-buying-too-much-coffee/#ftag=CAD590a51e)
- - [Apple iOS/iPadOS 18.4b1, watchOS 11.4b1 renders some devices inoperable](https://appleinsider.com/articles/25/02/23/apple-iosipados-184b1-watchos-114b1-renders-some-devices-inoperable?utm_medium=rss)<!-- TECH:END -->
+ - [Apple iOS/iPadOS 18.4b1, watchOS 11.4b1 renders some devices inoperable](https://appleinsider.com/articles/25/02/23/apple-iosipados-184b1-watchos-114b1-renders-some-devices-inoperable?utm_medium=rss)
+ - [Sources: Shein&#39;s 2024 sales were up 19% YoY to $38B, far below the forecasts made in 2023; some investors push Shein to cut pre-IPO valuation from $66B to ~$30B &lpar;Financial Times&rpar;](http://www.techmeme.com/250223/p7#a250223p7)
+ - [Rumor roundup: iPhone 17 Pro&#39;s camera resolutions and layouts](https://appleinsider.com/articles/25/02/23/rumor-roundup-iphone-17-pros-camera-resolutions-and-layouts?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

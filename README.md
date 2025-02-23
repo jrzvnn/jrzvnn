@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Trump’s first 100 days: all the news affecting the tech industry](https://www.theverge.com/24348851/donald-trump-presidency-tech-science-news)
- - [Elon Musk Threatens FBI Agents and Air Traffic Controllers With Forced Resignation If They Don&#39;t Respond to an Email](https://www.wired.com/story/doge-elon-musk-forced-resignation-email-twitter/)
- - [The iOS 18.4 beta brings Matter robot vacuum support](https://www.theverge.com/news/618024/ios-18-4-developer-beta-matter-robot-vacuum-support-apple-home)
- - [Apple gets into AI: all the news on iOS 18, macOS Sequoia, and more](https://www.theverge.com/24246632/apple-intelligence-ios-18-ipad-os-18-macos-sequoia-iphone-16)
- - [Filing: Amazon estimated the fair value of its stake in Anthropic at $14B at the end of December 2024, after agreeing to invest $8B in Anthropic so far &lpar;Eugene Kim/Business Insider&rpar;](http://www.techmeme.com/250222/p13#a250222p13)<!-- TECH:END -->
+ - [iOS 18.4 to bring Matter support for compatible robot vacuums](https://appleinsider.com/articles/25/02/22/ios-184-to-bring-matter-support-for-compatible-robot-vacuums?utm_medium=rss)
+ - [Best Internet Providers in Orange, California](https://www.cnet.com/home/internet/best-internet-providers-in-orange-ca/#ftag=CAD590a51e)
+ - [Best Internet Providers in Chicago, Illinois](https://www.cnet.com/home/internet/best-internet-providers-in-chicago-il/#ftag=CAD590a51e)
+ - [Best Internet Providers in Tucson, Arizona](https://www.cnet.com/home/internet/best-internet-providers-in-tucson-az/#ftag=CAD590a51e)
+ - [A Maldita study of nearly 1.2M Community Notes on X published globally in 2024 shows that professional fact-checkers are among the three most cited sources &lpar;Enock Nyariki/Poynter&rpar;](http://www.techmeme.com/250222/p14#a250222p14)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

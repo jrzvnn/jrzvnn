@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [His last day at work](http://9gag.com/gag/aBy62Q2)
- - 😝 [Very true!](http://9gag.com/gag/apR399E)
- - 💣 [Great Britain](http://9gag.com/gag/aAy6GpR)
- - 😝 [Title Not needed...](http://9gag.com/gag/aD26gpZ)
- - 👉 [FAFO level 10000 - Trump just stopped ALL federal aid to Maine after they refused to ban trans men from womens sports.](http://9gag.com/gag/awy3BBQ)<!-- MEMES:END -->
+ - 😝 [Childhood memories](http://9gag.com/gag/aE06Pdn)
+ - 😝 [Title\u2026](http://9gag.com/gag/awy3BOB)
+ - 💣 [His last day at work](http://9gag.com/gag/aBy62Q2)
+ - 😝 [Enough](http://9gag.com/gag/aqyXnKY)
+ - 👉 [My job here is done.](http://9gag.com/gag/a345EWr)<!-- MEMES:END -->
 
 ---
 

@@ -159,9 +159,9 @@ R                        1 repo              ░░░░░░░░░░░�
 <!-- TECH:START -->
  - [The iPhone 16e gives Apple a chance to get more competitive in China, where rivals like Huawei are becoming more sophisticated with the government&#39;s help &lpar;Stu Woo/Wall Street Journal&rpar;](http://www.techmeme.com/250223/p1#a250223p1)
  - [Nvidia confirms a &quot;rare&quot; manufacturing issue affecting less than 0.5% of RTX 5090 and 5070 Ti GPUs which are missing render units, the latest hitch since launch &lpar;Sean Hollister/The Verge&rpar;](http://www.techmeme.com/250222/p16#a250222p16)
+ - [Today&#39;s NYT Mini Crossword Answers for Sunday, Feb. 23](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-sunday-feb-23/#ftag=CAD590a51e)
  - [DOGE Email Throws Federal Agencies Into Chaos and Confusion](https://www.wired.com/story/doge-elon-musk-federal-workers-chaos-confusion/)
- - [Some journalists are taking freelance jobs with AI training data companies like Scale AI, which recruit them for tasks such as fact-checking and prompt drafting &lpar;Andrew Deck/Nieman Lab&rpar;](http://www.techmeme.com/250222/p15#a250222p15)
- - [iOS 18.4 to bring Matter support for compatible robot vacuums](https://appleinsider.com/articles/25/02/22/ios-184-to-bring-matter-support-for-compatible-robot-vacuums?utm_medium=rss)<!-- TECH:END -->
+ - [Some journalists are taking freelance jobs with AI training data companies like Scale AI, which recruit them for tasks such as fact-checking and prompt drafting &lpar;Andrew Deck/Nieman Lab&rpar;](http://www.techmeme.com/250222/p15#a250222p15)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

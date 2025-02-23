@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Guy gets caught pulling his own name out of the raffle for a car.](http://9gag.com/gag/a5Q6QrV)
- - 😝 [CTRL + Z for undo](http://9gag.com/gag/aW47grn)
- - 💣 [The moment Hundreds of thousands of Hezbollah shat their pants as Israeli planes flew above their heads](http://9gag.com/gag/a6ZXD1e)
  - 😝 [Fourth paycheck needed](http://9gag.com/gag/a876736)
- - 👉 [When you marry a gamer](http://9gag.com/gag/aD267Ax)<!-- MEMES:END -->
+ - 😝 [LOL](http://9gag.com/gag/aYQEQ3w)
+ - 💣 [What the hell?](http://9gag.com/gag/aVvovOO)
+ - 😝 [When you marry a gamer](http://9gag.com/gag/aD267Ax)
+ - 👉 [Strong building](http://9gag.com/gag/azxd2vK)<!-- MEMES:END -->
 
 ---
 

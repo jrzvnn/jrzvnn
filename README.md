@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Can Tech Save Small Ski Resorts From Extinction?](https://www.wired.com/story/can-tech-save-small-ski-resorts-entabeni-systems/)
  - [Best Electric Toothbrushes of 2025](https://www.cnet.com/health/personal-care/best-electric-toothbrush/#ftag=CAD590a51e)
  - [A deep look at &quot;the Zizians&quot;, a cult-like group of young tech people exiled from Silicon Valley&#39;s rationalist community and allegedly linked to a killing spree &lpar;Evan Ratliff/Wired&rpar;](http://www.techmeme.com/250223/p3#a250223p3)
  - [Trump Can&#39;t Shut Down the Department of Education, but Student Loan Borrowers Should Beware](https://www.cnet.com/personal-finance/loans/trump-cant-shut-down-the-department-of-education-but-student-loan-borrowers-should-beware/#ftag=CAD590a51e)
- - [Researchers estimate that air pollution related to data centers from Google, Microsoft, and Meta resulted in $5.4B in US public health costs from 2019 to 2023 &lpar;Financial Times&rpar;](http://www.techmeme.com/250223/p2#a250223p2)
- - [The iPhone 16e gives Apple a chance to get more competitive in China, where rivals like Huawei are becoming more sophisticated with the government&#39;s help &lpar;Stu Woo/Wall Street Journal&rpar;](http://www.techmeme.com/250223/p1#a250223p1)<!-- TECH:END -->
+ - [Researchers estimate that air pollution related to data centers from Google, Microsoft, and Meta resulted in $5.4B in US public health costs from 2019 to 2023 &lpar;Financial Times&rpar;](http://www.techmeme.com/250223/p2#a250223p2)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

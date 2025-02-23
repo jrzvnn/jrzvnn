@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [How many could you see?](http://9gag.com/gag/aD26d4K)
- - 😝 [Didn&#39;t expect it](http://9gag.com/gag/ayN32DX)
- - 💣 [Strong building](http://9gag.com/gag/azxd2vK)
+ - 😝 [Applying this privacy film](http://9gag.com/gag/apR3RWp)
+ - 😝 [Strong building](http://9gag.com/gag/azxd2vK)
+ - 💣 [Fourth paycheck needed](http://9gag.com/gag/a876736)
  - 😝 [LOL](http://9gag.com/gag/aYQEQ3w)
- - 👉 [The moment Hundreds of thousands of Hezbollah shat their pants as Israeli planes flew above their heads](http://9gag.com/gag/a6ZXD1e)<!-- MEMES:END -->
+ - 👉 [In the ruins of Chernobyl, scientists discovered a black fungus that feeds on gamma radiation.](http://9gag.com/gag/ajP1m3x)<!-- MEMES:END -->
 
 ---
 

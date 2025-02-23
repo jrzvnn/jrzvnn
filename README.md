@@ -158,10 +158,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- TECH:START -->
  - [Trump’s first 100 days: all the news affecting the tech industry](https://www.theverge.com/24348851/donald-trump-presidency-tech-science-news)
+ - [Elon Musk Threatens FBI Agents and Air Traffic Controllers With Forced Resignation If They Don&#39;t Respond to an Email](https://www.wired.com/story/doge-elon-musk-forced-resignation-email-twitter/)
  - [The iOS 18.4 beta brings Matter robot vacuum support](https://www.theverge.com/news/618024/ios-18-4-developer-beta-matter-robot-vacuum-support-apple-home)
  - [Apple gets into AI: all the news on iOS 18, macOS Sequoia, and more](https://www.theverge.com/24246632/apple-intelligence-ios-18-ipad-os-18-macos-sequoia-iphone-16)
- - [Filing: Amazon estimated the fair value of its stake in Anthropic at $14B at the end of December 2024, after agreeing to invest $8B in Anthropic so far &lpar;Eugene Kim/Business Insider&rpar;](http://www.techmeme.com/250222/p13#a250222p13)
- - [Best Internet Providers in Denton, Texas](https://www.cnet.com/home/internet/best-internet-providers-in-denton-tx/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Filing: Amazon estimated the fair value of its stake in Anthropic at $14B at the end of December 2024, after agreeing to invest $8B in Anthropic so far &lpar;Eugene Kim/Business Insider&rpar;](http://www.techmeme.com/250222/p13#a250222p13)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

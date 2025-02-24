@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Staying at a Disney resort after hours](http://9gag.com/gag/aND99Ov)
  - 😝 [Wait why she ties her hair up? WHERE THE PLAYBOY MAGAZINE?](http://9gag.com/gag/a6ZX1Rq)
- - 💣 [Stability test](http://9gag.com/gag/aGynnvn)
- - 😝 [Fourth paycheck needed](http://9gag.com/gag/a876736)
- - 👉 [Wish I could do this](http://9gag.com/gag/agm11ov)<!-- MEMES:END -->
+ - 😝 [\u2800\u2800\u2800](http://9gag.com/gag/aQzvgd8)
+ - 💣 [Staying at a Disney resort after hours](http://9gag.com/gag/aND99Ov)
+ - 😝 [Strong building](http://9gag.com/gag/azxd2vK)
+ - 👉 [You can&#39;t always get what you want](http://9gag.com/gag/aD262jK)<!-- MEMES:END -->
 
 ---
 

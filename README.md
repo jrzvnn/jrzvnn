@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [LOL](http://9gag.com/gag/aYQEQ3w)
- - 😝 [Interactions with cops when your name is \u201cJames Bond\u201d](http://9gag.com/gag/amo11X4)
- - 💣 [Strong building](http://9gag.com/gag/azxd2vK)
- - 😝 [Stability test](http://9gag.com/gag/aGynnvn)
- - 👉 [Staying at a Disney resort after hours](http://9gag.com/gag/aND99Ov)<!-- MEMES:END -->
+ - 😝 [\u2800\u2800\u2800](http://9gag.com/gag/aQzvgd8)
+ - 😝 [Strong building](http://9gag.com/gag/azxd2vK)
+ - 💣 [Staying at a Disney resort after hours](http://9gag.com/gag/aND99Ov)
+ - 😝 [Guy gets caught pulling his own name out of the raffle for a car.](http://9gag.com/gag/a5Q6QrV)
+ - 👉 [You can&#39;t always get what you want](http://9gag.com/gag/aD262jK)<!-- MEMES:END -->
 
 ---
 

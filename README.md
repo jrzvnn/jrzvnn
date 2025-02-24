@@ -166,9 +166,9 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Men want one thing](http://9gag.com/gag/aND9Dpv)
- - 😝 [I&#39;ve never seen this before](http://9gag.com/gag/ae919yq)
- - 💣 [Its the same here in germany. DB is a joke](http://9gag.com/gag/azxdxQx)
+ - 😝 [Wish I could do this](http://9gag.com/gag/agm11ov)
+ - 😝 [Its the same here in germany. DB is a joke](http://9gag.com/gag/azxdxQx)
+ - 💣 [I&#39;ve never seen this before](http://9gag.com/gag/ae919yq)
  - 😝 [Master Splinter?](http://9gag.com/gag/aD267vO)
  - 👉 [When you have plenty of matches and free time](http://9gag.com/gag/aXPMLe9)<!-- MEMES:END -->
 

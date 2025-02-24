@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Trump’s first 100 days: all the news affecting the tech industry](https://www.theverge.com/24348851/donald-trump-presidency-tech-science-news)
+ - [The government is still threatening to ‘semi-fire’ workers who don’t answer an email from Elon Musk](https://www.theverge.com/news/618603/elon-musk-email-firing-threat-agency-response-donald-trump)
  - [Chegg sues Google, saying AI Overviews hurt its traffic and revenue, as it mulls strategic options including getting acquired; CHGG drops 20%+ after hours &lpar;CNBC&rpar;](http://www.techmeme.com/250224/p28#a250224p28)
  - [Sources: the Elon Musk-directed OPM email asking federal staff about recent work requested no links or attachments as part of a plan to feed responses into AI &lpar;NBC News&rpar;](http://www.techmeme.com/250224/p27#a250224p27)
- - [Crypto exchange OKX settles charges with the US DOJ and will pay over $500M in penalties and forfeited fees after facilitating $5B+ in suspicious transactions &lpar;Ian Allison/CoinDesk&rpar;](http://www.techmeme.com/250224/p26#a250224p26)
- - [Trump’s first 100 days: all the news affecting the tech industry](https://www.theverge.com/24348851/donald-trump-presidency-tech-science-news)
- - [Freedom of speech is &amp;#8216;on the line&amp;#8217; in a pivotal Dakota Access Pipeline trial](https://www.theverge.com/climate-change/618355/greenpeace-is-fighting-to-survive-in-court-today)<!-- TECH:END -->
+ - [Crypto exchange OKX settles charges with the US DOJ and will pay over $500M in penalties and forfeited fees after facilitating $5B+ in suspicious transactions &lpar;Ian Allison/CoinDesk&rpar;](http://www.techmeme.com/250224/p26#a250224p26)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

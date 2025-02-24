@@ -167,10 +167,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [\u2800\u2800\u2800](http://9gag.com/gag/aQzvgd8)
- - 😝 [God damn that shoulder throw was clean\ud83d\udc4f\ud83c\udffb](http://9gag.com/gag/aND9DZK)
- - 💣 [Wait why she ties her hair up? WHERE THE PLAYBOY MAGAZINE?](http://9gag.com/gag/a6ZX1Rq)
- - 😝 [Understandable](http://9gag.com/gag/adB11DZ)
- - 👉 [Chose wisely](http://9gag.com/gag/aXPMPgb)<!-- MEMES:END -->
+ - 😝 [When you&#39;re mad at him but he&#39;s actually funny](http://9gag.com/gag/aGynn3Z)
+ - 💣 [That day little Timmy found out what he would strive for in life](http://9gag.com/gag/aPAmAmP)
+ - 😝 [Staying at a Disney resort after hours](http://9gag.com/gag/aND99Ov)
+ - 👉 [You can&#39;t always get what you want](http://9gag.com/gag/aD262jK)<!-- MEMES:END -->
 
 ---
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Doggie is fine in ISLAM but not Dogs](http://9gag.com/gag/aPAmAXR)
- - 😝 [Applying this privacy film](http://9gag.com/gag/apR3RWp)
- - 💣 [Men want one thing](http://9gag.com/gag/aND9Dpv)
- - 😝 [When you have plenty of matches and free time](http://9gag.com/gag/aXPMLe9)
- - 👉 [I&#39;ve never seen this before](http://9gag.com/gag/ae919yq)<!-- MEMES:END -->
+ - 😝 [Can you go into your opponent size to play? Sure... why not?](http://9gag.com/gag/aQzvEp8)
+ - 😝 [When you marry a gamer](http://9gag.com/gag/aD267Ax)
+ - 💣 [Fourth paycheck needed](http://9gag.com/gag/a876736)
+ - 😝 [Wait why she ties her hair up? WHERE THE PLAYBOY MAGAZINE?](http://9gag.com/gag/a6ZX1Rq)
+ - 👉 [If an MRI malfunctions, 2,000 litres of helium is released into the environment. If the outlet is blocked or poorly maintained, this can cause all the oxygen in the room to be depleted, and the increase in pressure prevents the door from opening\u2026](http://9gag.com/gag/a7oOovb)<!-- MEMES:END -->
 
 ---
 

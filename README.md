@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [TD Cowen: Microsoft cancels leases for a substantial amount of US data centers, potentially due to over-investment fears; Microsoft plans to spend $80B in 2025 &lpar;Bloomberg&rpar;](http://www.techmeme.com/250224/p7#a250224p7)
  - [How the EU’s DMA is changing Big Tech: all of the news and updates](https://www.theverge.com/24040543/eu-dma-digital-markets-act-big-tech-antitrust)
  - [iPhone 17 range revealed in image backed by multiple leakers](https://appleinsider.com/articles/25/02/24/iphone-17-range-revealed-in-image-backed-by-multiple-leakers?utm_medium=rss)
  - [An analysis of the $1.46B Bybit hack, by far the largest crypto heist of all time, ahead of Poly Network&#39;s $611M in 2021, and possibly the biggest theft ever &lpar;Elliptic&rpar;](http://www.techmeme.com/250224/p6#a250224p6)
- - [Apple says it will spend $500B in the US over the next four years, hire 20,000 new US workers, and produce AI servers in Texas, after Tim Cook met with Trump &lpar;Mark Gurman/Bloomberg&rpar;](http://www.techmeme.com/250224/p5#a250224p5)
- - [AI Assistants Join the Factory Floor](https://www.wired.com/story/ai-swaps-desk-work-for-the-factory-floor/)<!-- TECH:END -->
+ - [Apple says it will spend $500B in the US over the next four years, hire 20,000 new US workers, and produce AI servers in Texas, after Tim Cook met with Trump &lpar;Mark Gurman/Bloomberg&rpar;](http://www.techmeme.com/250224/p5#a250224p5)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

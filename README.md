@@ -166,10 +166,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [When god sets graphics to low](http://9gag.com/gag/aYQEOW0)
- - 😝 [That cut to her is priceless](http://9gag.com/gag/aO8e2MD)
- - 💣 [If an MRI malfunctions, 2,000 litres of helium is released into the environment. If the outlet is blocked or poorly maintained, this can cause all the oxygen in the room to be depleted, and the increase in pressure prevents the door from opening\u2026](http://9gag.com/gag/a7oOovb)
+ - 😝 [Guy gets caught pulling his own name out of the raffle for a car.](http://9gag.com/gag/a5Q6QrV)
  - 😝 [Behold! THE POWER OF THE SUUUUN!](http://9gag.com/gag/aKGAvwb)
+ - 💣 [When god sets graphics to low](http://9gag.com/gag/aYQEOW0)
+ - 😝 [That cut to her is priceless](http://9gag.com/gag/aO8e2MD)
  - 👉 [Staying at a Disney resort after hours](http://9gag.com/gag/aND99Ov)<!-- MEMES:END -->
 
 ---

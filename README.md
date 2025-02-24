@@ -166,10 +166,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [That cut to her is priceless](http://9gag.com/gag/aO8e2MD)
- - 😝 [Understandable](http://9gag.com/gag/adB11DZ)
- - 💣 [What the hell?](http://9gag.com/gag/aVvovOO)
- - 😝 [Looks up!](http://9gag.com/gag/a5Q6Bgg)
+ - 😝 [Guy gets caught pulling his own name out of the raffle for a car.](http://9gag.com/gag/a5Q6QrV)
+ - 😝 [When god sets graphics to low](http://9gag.com/gag/aYQEOW0)
+ - 💣 [Stability test](http://9gag.com/gag/aGynnvn)
+ - 😝 [In \u201cEl Camino\u201d &lpar;2019&rpar; There are several scenes were the characters seem much larger. This is because the original show ended 6 years ago and everyone got fat off that Breaking Bad money.](http://9gag.com/gag/a345AqQ)
  - 👉 [Fourth paycheck needed](http://9gag.com/gag/a876736)<!-- MEMES:END -->
 
 ---

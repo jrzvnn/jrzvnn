@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [God damn that shoulder throw was clean\ud83d\udc4f\ud83c\udffb](http://9gag.com/gag/aND9DZK)
- - 😝 [Wait why she ties her hair up? WHERE THE PLAYBOY MAGAZINE?](http://9gag.com/gag/a6ZX1Rq)
- - 💣 [Action](http://9gag.com/gag/avy1A2d)
- - 😝 [In the ruins of Chernobyl, scientists discovered a black fungus that feeds on gamma radiation.](http://9gag.com/gag/ajP1m3x)
- - 👉 [LOL](http://9gag.com/gag/aYQEQ3w)<!-- MEMES:END -->
+ - 😝 [Applying this privacy film](http://9gag.com/gag/apR3RWp)
+ - 😝 [Men want one thing](http://9gag.com/gag/aND9Dpv)
+ - 💣 [I&#39;ve never seen this before](http://9gag.com/gag/ae919yq)
+ - 😝 [Their expressions are funny](http://9gag.com/gag/ayN334q)
+ - 👉 [Its the same here in germany. DB is a joke](http://9gag.com/gag/azxdxQx)<!-- MEMES:END -->
 
 ---
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [The guide reports that a pride of lions is in the area.](http://9gag.com/gag/aGynydz)
- - 😝 [Why are you laughing Lena?](http://9gag.com/gag/aXPMPP2)
- - 💣 [Guy gets caught pulling his own name out of the raffle for a car.](http://9gag.com/gag/a5Q6QrV)
- - 😝 [God damn that shoulder throw was clean\ud83d\udc4f\ud83c\udffb](http://9gag.com/gag/aND9DZK)
- - 👉 [That cut to her is priceless](http://9gag.com/gag/aO8e2MD)<!-- MEMES:END -->
+ - 😝 [When god sets graphics to low](http://9gag.com/gag/aYQEOW0)
+ - 😝 [That cut to her is priceless](http://9gag.com/gag/aO8e2MD)
+ - 💣 [Wish I could do this](http://9gag.com/gag/agm11ov)
+ - 😝 [\u2800\u2800\u2800](http://9gag.com/gag/aQzvgd8)
+ - 👉 [If an MRI malfunctions, 2,000 litres of helium is released into the environment. If the outlet is blocked or poorly maintained, this can cause all the oxygen in the room to be depleted, and the increase in pressure prevents the door from opening\u2026](http://9gag.com/gag/a7oOovb)<!-- MEMES:END -->
 
 ---
 

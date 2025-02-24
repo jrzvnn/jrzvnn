@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [I&#39;ve never seen this before](http://9gag.com/gag/ae919yq)
- - 😝 [When you have plenty of matches and free time](http://9gag.com/gag/aXPMLe9)
- - 💣 [\u26df Your order has been shipped.](http://9gag.com/gag/aVvovYv)
- - 😝 [Wait! What?](http://9gag.com/gag/awy3gXx)
- - 👉 [The moment Hundreds of thousands of Hezbollah shat their pants as Israeli planes flew above their heads](http://9gag.com/gag/a6ZXD1e)<!-- MEMES:END -->
+ - 😝 [\u2800\u2800\u2800](http://9gag.com/gag/aQzvgd8)
+ - 😝 [God damn that shoulder throw was clean\ud83d\udc4f\ud83c\udffb](http://9gag.com/gag/aND9DZK)
+ - 💣 [Wait why she ties her hair up? WHERE THE PLAYBOY MAGAZINE?](http://9gag.com/gag/a6ZX1Rq)
+ - 😝 [Understandable](http://9gag.com/gag/adB11DZ)
+ - 👉 [Chose wisely](http://9gag.com/gag/aXPMPgb)<!-- MEMES:END -->
 
 ---
 

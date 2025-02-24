@@ -166,10 +166,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Victim card denied](http://9gag.com/gag/aVvogqO)
- - 😝 [Like a glove](http://9gag.com/gag/aD26dLw)
- - 💣 [You can&#39;t always get what you want](http://9gag.com/gag/aD262jK)
- - 😝 [Guy gets caught pulling his own name out of the raffle for a car.](http://9gag.com/gag/a5Q6QrV)
+ - 😝 [Fourth paycheck needed](http://9gag.com/gag/a876736)
+ - 😝 [Remembering the gem](http://9gag.com/gag/a345ZV3)
+ - 💣 [Jackie](http://9gag.com/gag/aBy6yAz)
+ - 😝 [If an MRI malfunctions, 2,000 litres of helium is released into the environment. If the outlet is blocked or poorly maintained, this can cause all the oxygen in the room to be depleted, and the increase in pressure prevents the door from opening\u2026](http://9gag.com/gag/a7oOovb)
  - 👉 [They kiss](http://9gag.com/gag/aND9p4G)<!-- MEMES:END -->
 
 ---

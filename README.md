@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [MongoDB buys Voyage AI for $220M and plans to integrate Voyage&#39;s retrieval tools for higher-quality AI outputs with real-time operational data for businesses &lpar;Maggie Eastland/Bloomberg&rpar;](http://www.techmeme.com/250224/p12#a250224p12)
  - [Robinhood says it received a letter from the SEC stating the agency is dropping its investigation into Robinhood Crypto, a sign of regulatory change under Trump &lpar;Tanaya Macheel/CNBC&rpar;](http://www.techmeme.com/250224/p11#a250224p11)
  - [Apple enables Find My in South Korea for iOS 18.4 developer beta](https://appleinsider.com/articles/25/02/24/apple-enables-find-my-in-south-korea-for-ios-184-developer-beta?utm_medium=rss)
  - [Salesforce signs a $2.5B, seven-year deal with Google Cloud to let customers run its software, Agentforce AI assistants, and Data Cloud on Google Cloud &lpar;Bloomberg&rpar;](http://www.techmeme.com/250224/p10#a250224p10)
- - [Apple to build AI servers in Houston, invest $500B in U.S. economy](https://appleinsider.com/articles/25/02/24/apple-commits-over-500-billion-in-new-us-investment?utm_medium=rss)
- - [Source: Ethena, which runs the USDe stablecoin, marketed as a &quot;synthetic dollar&quot; with a 9% yield and almost $6B in circulation, raised $100M in December 2024 &lpar;Ryan Weeks/Bloomberg&rpar;](http://www.techmeme.com/250224/p9#a250224p9)<!-- TECH:END -->
+ - [Apple to build AI servers in Houston, invest $500B in U.S. economy](https://appleinsider.com/articles/25/02/24/apple-commits-over-500-billion-in-new-us-investment?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

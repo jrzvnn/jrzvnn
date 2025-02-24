@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [These are the best iPhone 16e cases that add MagSafe back](https://appleinsider.com/inside/iphone-16e/best/best-iphone-16e-cases-that-add-magsafe?utm_medium=rss)
  - [Trump’s first 100 days: all the news affecting the tech industry](https://www.theverge.com/24348851/donald-trump-presidency-tech-science-news)
- - [Microsoft quietly launched free, ad-supported desktop versions of Word, Excel, and PowerPoint for Windows, with banner and video ads and limited functionality &lpar;Arjun Sha/Beebom&rpar;](http://www.techmeme.com/250224/p23#a250224p23)
- - [What to expect from Amazon’s big Alexa event this week](https://www.theverge.com/news/618385/what-to-expect-amazon-february-alexa-event)
- - [All the smart home news, reviews, and gadgets you need to know about](https://www.theverge.com/24190824/smart-home-news-reviews-guides-gadgets)
- - [From ChatGPT to Gemini: how AI is rewriting the internet](https://www.theverge.com/23610427/chatbots-chatgpt-new-bing-google-bard-conversational-ai)<!-- TECH:END -->
+ - [Tesla Cybertruck: all the news about Elon Musk’s futuristic pickup truck](https://www.theverge.com/2019/11/21/20975980/tesla-cybertruck-announcement-news-pickup-truck-elon-musk-updates-highlights)
+ - [Sources: Anthropic is finalizing a $3.5B funding round valuing it at $61.5B, up from an $18B valuation in 2024; its annualized revenue recently hit ~$1.2B &lpar;Berber Jin/Wall Street Journal&rpar;](http://www.techmeme.com/250224/p24#a250224p24)
+ - [Microsoft quietly launched free, ad-supported desktop versions of Word, Excel, and PowerPoint for Windows, with banner and video ads and limited functionality &lpar;Arjun Sha/Beebom&rpar;](http://www.techmeme.com/250224/p23#a250224p23)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

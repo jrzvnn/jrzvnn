@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Apple says it will spend $500B in the US over the next four years, hire 20,000 new US workers, and produce AI servers in the US, after Tim Cook met with Trump &lpar;Mark Gurman/Bloomberg&rpar;](http://www.techmeme.com/250224/p5#a250224p5)
+ - [AI Assistants Join the Factory Floor](https://www.wired.com/story/ai-swaps-desk-work-for-the-factory-floor/)
  - [Some hair stylists, bridal shops, and hardware stores say AI generated &quot;inspo&quot;, taken from platforms like Pinterest, is warping customers&#39; sense of reality &lpar;Tatum Hunter/Washington Post&rpar;](http://www.techmeme.com/250224/p4#a250224p4)
- - [A Jumping Lunar Robot Is About to Explore a Pitch-Black Moon Crater for the First Time](https://www.wired.com/story/a-jumping-lunar-robot-is-about-to-explore-a-pitch-black-moon-crater-for-the-first-time-im-2-nasa-intuitive-machines-spacex-artemis/)
- - [China is increasingly pooling resources from the state and private sectors, including startups like Infinigence AI, to accelerate adoption of AI data centers &lpar;Financial Times&rpar;](http://www.techmeme.com/250224/p3#a250224p3)
- - [Today&#39;s NYT Connections: Sports Edition Hints and Answers for Feb. 24, #154](https://www.cnet.com/tech/gaming/todays-nyt-connections-sports-edition-hints-and-answers-for-feb-24-154/#ftag=CAD590a51e)
- - [Today&#39;s NYT Mini Crossword Answers for Monday, Feb. 24](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-monday-feb-24/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Don&#39;t Sleep on High APYs. Today&#39;s CD Rates, Feb. 24, 2025](https://www.cnet.com/personal-finance/banking/dont-sleep-on-high-apys-todays-cd-rates-feb-24-2025/#ftag=CAD590a51e)
+ - [Best Dog Toys, According to the Experts: Our Dogs](https://www.cnet.com/home/kitchen-and-household/best-dog-toys/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

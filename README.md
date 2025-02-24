@@ -158,10 +158,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- TECH:START -->
  - [SpaceX thinks it knows why Starship exploded on its last test flight](https://www.theverge.com/news/618529/spacex-faa-nasa-starship-super-heavy-booster-explosion-upgrades)
+ - [7 of the Best Horror Movies to Stream on Max](https://www.cnet.com/tech/services-and-software/7-of-the-best-horror-movies-to-stream-on-max/#ftag=CAD590a51e)
  - [Zoom Q4: revenue $1.18B, up 3.3% YoY, Enterprise revenue of $706.8M, up 5.9%, net income of $367.9M, up from $298.8M, revenue forecast slightly under estimates &lpar;Juby Babu/Reuters&rpar;](http://www.techmeme.com/250224/p25#a250224p25)
  - [How Dan Bongino Went From Infowars to FBI Deputy Director](https://www.wired.com/story/dan-bongino-fbi-deputy-director-infowars/)
- - [AT&amp;#038;T and Verizon connect first cellphone-to-satellite video calls](https://www.theverge.com/news/618525/att-verizon-cellphone-satellite-video-calls-ast-mobile)
- - [These are the best iPhone 16e cases that add MagSafe back](https://appleinsider.com/inside/iphone-16e/best/best-iphone-16e-cases-that-add-magsafe?utm_medium=rss)<!-- TECH:END -->
+ - [AT&amp;#038;T and Verizon connect first cellphone-to-satellite video calls](https://www.theverge.com/news/618525/att-verizon-cellphone-satellite-video-calls-ast-mobile)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

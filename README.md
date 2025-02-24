@@ -158,10 +158,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- TECH:START -->
  - [Trump’s first 100 days: all the news affecting the tech industry](https://www.theverge.com/24348851/donald-trump-presidency-tech-science-news)
+ - [How to take control of your privacy by taking the fight to the source](https://appleinsider.com/articles/25/02/24/how-to-take-control-of-your-privacy-by-taking-the-fight-to-the-source?utm_medium=rss)
  - [Conservative podcaster Dan Bongino named deputy FBI director](https://www.theverge.com/news/618233/dan-bongino-fbi-deputy-director-conservative-podcaster)
  - [10 Best Laptop Stands for Any Setup, Tested and Reviewed &lpar;2025&rpar;](https://www.wired.com/gallery/best-laptop-stands/)
- - [Meta rolls out Meta AI in Algeria, Egypt, Iraq, Jordan, Libya, Morocco, Saudi Arabia, Tunisia, the UAE, and Yemen, and adds language support for Arabic &lpar;Paul Sawers/TechCrunch&rpar;](http://www.techmeme.com/250224/p16#a250224p16)
- - [Don&#39;t Sleep on High APYs. Today&#39;s CD Rates, Feb. 24, 2025](https://www.cnet.com/personal-finance/banking/dont-sleep-on-high-apys-todays-cd-rates-feb-24-2025/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Meta rolls out Meta AI in Algeria, Egypt, Iraq, Jordan, Libya, Morocco, Saudi Arabia, Tunisia, the UAE, and Yemen, and adds language support for Arabic &lpar;Paul Sawers/TechCrunch&rpar;](http://www.techmeme.com/250224/p16#a250224p16)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

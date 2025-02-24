@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [iPhone 17 range revealed in image backed by multiple leakers](https://appleinsider.com/articles/25/02/24/iphone-17-range-revealed-in-image-backed-by-multiple-leakers?utm_medium=rss)
  - [An analysis of the $1.46B Bybit hack, by far the largest crypto heist of all time, ahead of Poly Network&#39;s $611M in 2021, and possibly the biggest theft ever &lpar;Elliptic&rpar;](http://www.techmeme.com/250224/p6#a250224p6)
  - [Apple says it will spend $500B in the US over the next four years, hire 20,000 new US workers, and produce AI servers in Texas, after Tim Cook met with Trump &lpar;Mark Gurman/Bloomberg&rpar;](http://www.techmeme.com/250224/p5#a250224p5)
  - [AI Assistants Join the Factory Floor](https://www.wired.com/story/ai-swaps-desk-work-for-the-factory-floor/)
- - [Some hair stylists, bridal shops, and hardware stores say AI generated &quot;inspo&quot;, taken from platforms like Pinterest, is warping customers&#39; sense of reality &lpar;Tatum Hunter/Washington Post&rpar;](http://www.techmeme.com/250224/p4#a250224p4)
- - [Don&#39;t Sleep on High APYs. Today&#39;s CD Rates, Feb. 24, 2025](https://www.cnet.com/personal-finance/banking/dont-sleep-on-high-apys-todays-cd-rates-feb-24-2025/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Some hair stylists, bridal shops, and hardware stores say AI generated &quot;inspo&quot;, taken from platforms like Pinterest, is warping customers&#39; sense of reality &lpar;Tatum Hunter/Washington Post&rpar;](http://www.techmeme.com/250224/p4#a250224p4)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

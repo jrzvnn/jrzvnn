@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Chose wisely](http://9gag.com/gag/aXPMPgb)
- - 😝 [That day little Timmy found out what he would strive for in life](http://9gag.com/gag/aPAmAmP)
- - 💣 [When you marry a gamer](http://9gag.com/gag/aD267Ax)
- - 😝 [Staying at a Disney resort after hours](http://9gag.com/gag/aND99Ov)
- - 👉 [Wish I could do this](http://9gag.com/gag/agm11ov)<!-- MEMES:END -->
+ - 😝 [\u2800\u2800\u2800](http://9gag.com/gag/aQzvgd8)
+ - 😝 [A bird dropped a severed human hand into a schoolyard in Ireland yesterday.](http://9gag.com/gag/aYQEQQm)
+ - 💣 [LOL](http://9gag.com/gag/aYQEQ3w)
+ - 😝 [When you marry a gamer](http://9gag.com/gag/aD267Ax)
+ - 👉 [That day little Timmy found out what he would strive for in life](http://9gag.com/gag/aPAmAmP)<!-- MEMES:END -->
 
 ---
 

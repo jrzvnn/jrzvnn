@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [AT&amp;#038;T and Verizon connect first cellphone-to-satellite video calls](https://www.theverge.com/news/618525/att-verizon-cellphone-satellite-video-calls-ast-mobile)
  - [These are the best iPhone 16e cases that add MagSafe back](https://appleinsider.com/inside/iphone-16e/best/best-iphone-16e-cases-that-add-magsafe?utm_medium=rss)
  - [Trump’s first 100 days: all the news affecting the tech industry](https://www.theverge.com/24348851/donald-trump-presidency-tech-science-news)
  - [Tesla Cybertruck: all the news about Elon Musk’s futuristic pickup truck](https://www.theverge.com/2019/11/21/20975980/tesla-cybertruck-announcement-news-pickup-truck-elon-musk-updates-highlights)
- - [Sources: Anthropic is finalizing a $3.5B funding round valuing it at $61.5B, up from an $18B valuation in 2024; its annualized revenue recently hit ~$1.2B &lpar;Berber Jin/Wall Street Journal&rpar;](http://www.techmeme.com/250224/p24#a250224p24)
- - [Microsoft quietly launched free, ad-supported desktop versions of Word, Excel, and PowerPoint for Windows, with banner and video ads and limited functionality &lpar;Arjun Sha/Beebom&rpar;](http://www.techmeme.com/250224/p23#a250224p23)<!-- TECH:END -->
+ - [Sources: Anthropic is finalizing a $3.5B funding round valuing it at $61.5B, up from an $18B valuation in 2024; its annualized revenue recently hit ~$1.2B &lpar;Berber Jin/Wall Street Journal&rpar;](http://www.techmeme.com/250224/p24#a250224p24)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

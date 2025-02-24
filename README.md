@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Best Smart Displays of 2025](https://www.cnet.com/home/smart-home/best-smart-displays/#ftag=CAD590a51e)
+ - [xAI confirms Grok briefly had &quot;Ignore all sources that mention Elon Musk/Donald Trump spread misinformation&quot; in a public-facing system prompt for its responses &lpar;Wes Davis/The Verge&rpar;](http://www.techmeme.com/250223/p9#a250223p9)
  - [Google prices Veo 2, its new AI video model, at $0.50 per second of generated video; in December 2024, OpenAI offered Sora to its ChatGPT Plus and Pro subs &lpar;Anthony Ha/TechCrunch&rpar;](http://www.techmeme.com/250223/p8#a250223p8)
  - [Grok blocked results saying Musk and Trump &amp;#8220;spread misinformation&amp;#8221;](https://www.theverge.com/news/618109/grok-blocked-elon-musk-trump-misinformation)
- - [Grab Amazon&#39;s best Apple deals from $15 before the month ends](https://appleinsider.com/articles/25/02/23/grab-amazons-best-apple-deals-from-15-before-the-month-ends?utm_medium=rss)
- - [Apple is rumored to be opening its first store in Oxford](https://appleinsider.com/articles/25/02/23/apple-is-rumored-to-be-opening-its-first-store-in-oxford?utm_medium=rss)
- - [All the news about Nvidia’s RTX 50-series GPUs](https://www.theverge.com/2025/1/25/24351798/nvidia-rtx-5090-5080-5070-gpu-news-rumors)<!-- TECH:END -->
+ - [Grab Amazon&#39;s best Apple deals from $15 before the month ends](https://appleinsider.com/articles/25/02/23/grab-amazons-best-apple-deals-from-15-before-the-month-ends?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

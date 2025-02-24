@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Alibaba pledges to invest more than $53B on AI infrastructure, including new data centers, over the next three years &lpar;Bloomberg&rpar;](http://www.techmeme.com/250223/p10#a250223p10)
+ - [Best Internet Providers in Orlando, Florida](https://www.cnet.com/home/internet/best-internet-providers-in-orlando-fl/#ftag=CAD590a51e)
  - [Best Home Security Cameras Without a Subscription for 2025](https://www.cnet.com/home/security/best-home-security-cameras-without-a-subscription/#ftag=CAD590a51e)
  - [Best Resume Writing Services for 2025](https://www.cnet.com/tech/services-and-software/best-resume-writing-services/#ftag=CAD590a51e)
- - [Best Smart Displays of 2025](https://www.cnet.com/home/smart-home/best-smart-displays/#ftag=CAD590a51e)
- - [xAI confirms Grok briefly had &quot;Ignore all sources that mention Elon Musk/Donald Trump spread misinformation&quot; as a public-facing instruction for its responses &lpar;Wes Davis/The Verge&rpar;](http://www.techmeme.com/250223/p9#a250223p9)
- - [Google prices Veo 2, its new AI video model, at $0.50 per second of generated video; in December 2024, OpenAI offered Sora to its ChatGPT Plus and Pro subs &lpar;Anthony Ha/TechCrunch&rpar;](http://www.techmeme.com/250223/p8#a250223p8)<!-- TECH:END -->
+ - [Best Smart Displays of 2025](https://www.cnet.com/home/smart-home/best-smart-displays/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

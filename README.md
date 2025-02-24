@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [86 year old movie](http://9gag.com/gag/aLnzLDV)
- - 😝 [Fourth paycheck needed](http://9gag.com/gag/a876736)
- - 💣 [In the ruins of Chernobyl, scientists discovered a black fungus that feeds on gamma radiation.](http://9gag.com/gag/ajP1m3x)
- - 😝 [What the hell?](http://9gag.com/gag/aVvovOO)
- - 👉 [When you marry a gamer](http://9gag.com/gag/aD267Ax)<!-- MEMES:END -->
+ - 😝 [Doggie is fine in ISLAM but not Dogs](http://9gag.com/gag/aPAmAXR)
+ - 😝 [Applying this privacy film](http://9gag.com/gag/apR3RWp)
+ - 💣 [Men want one thing](http://9gag.com/gag/aND9Dpv)
+ - 😝 [When you have plenty of matches and free time](http://9gag.com/gag/aXPMLe9)
+ - 👉 [I&#39;ve never seen this before](http://9gag.com/gag/ae919yq)<!-- MEMES:END -->
 
 ---
 

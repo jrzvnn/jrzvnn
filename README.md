@@ -166,10 +166,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Its the same here in germany. DB is a joke](http://9gag.com/gag/azxdxQx)
- - 😝 [I&#39;ve never seen this before](http://9gag.com/gag/ae919yq)
- - 💣 [Master Splinter?](http://9gag.com/gag/aD267vO)
- - 😝 [When you have plenty of matches and free time](http://9gag.com/gag/aXPMLe9)
+ - 😝 [Chose wisely](http://9gag.com/gag/aXPMPgb)
+ - 😝 [That day little Timmy found out what he would strive for in life](http://9gag.com/gag/aPAmAmP)
+ - 💣 [When you marry a gamer](http://9gag.com/gag/aD267Ax)
+ - 😝 [Staying at a Disney resort after hours](http://9gag.com/gag/aND99Ov)
  - 👉 [Wish I could do this](http://9gag.com/gag/agm11ov)<!-- MEMES:END -->
 
 ---

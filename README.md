@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The Anonymous YouTubers Street-Racing Through New York](https://www.wired.com/story/anonymous-youtubers-street-racing-through-new-york/)
+ - [Asus Prime GeForce RTX 5070 Ti Review: Mid-Tier Goodness](https://www.wired.com/review/asus-prime-geforce-rtx-5070-ti-revew/)
  - [Apple to build AI servers in Houston, invest $500B in U.S. economy](https://appleinsider.com/articles/25/02/24/apple-commits-over-500-billion-in-new-us-investment?utm_medium=rss)
  - [Apple&amp;#8217;s iPhone 17 lineup is looking a little Pixelated](https://www.theverge.com/news/618190/apple-iphone-17-camera-module-leaks-renders)
- - [Strategy, formerly MicroStrategy, bought 20,356 bitcoin for $1.99B between February 18 and 23, taking its holdings to 499,096, worth $47B, or 2.3% of BTC supply &lpar;James Hunt/The Block&rpar;](http://www.techmeme.com/250224/p13#a250224p13)
- - [MongoDB buys Voyage AI for $220M and plans to integrate Voyage&#39;s retrieval tools for higher-quality AI outputs with real-time operational data for businesses &lpar;Maggie Eastland/Bloomberg&rpar;](http://www.techmeme.com/250224/p12#a250224p12)
- - [Robinhood says it received a letter from the SEC stating the agency is dropping its investigation into Robinhood Crypto, a sign of regulatory change under Trump &lpar;Tanaya Macheel/CNBC&rpar;](http://www.techmeme.com/250224/p11#a250224p11)<!-- TECH:END -->
+ - [Strategy, formerly MicroStrategy, bought 20,356 bitcoin for $1.99B between February 18 and 23, taking its holdings to 499,096, worth $47B, or 2.3% of BTC supply &lpar;James Hunt/The Block&rpar;](http://www.techmeme.com/250224/p13#a250224p13)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

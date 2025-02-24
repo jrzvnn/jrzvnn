@@ -166,10 +166,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [It&#39;s a myth](http://9gag.com/gag/aND9v2A)
- - 😝 [Guy gets caught pulling his own name out of the raffle for a car.](http://9gag.com/gag/a5Q6QrV)
- - 💣 [LOL](http://9gag.com/gag/aYQEQ3w)
- - 😝 [Staying at a Disney resort after hours](http://9gag.com/gag/aND99Ov)
+ - 😝 [That cut to her is priceless](http://9gag.com/gag/aO8e2MD)
+ - 😝 [Understandable](http://9gag.com/gag/adB11DZ)
+ - 💣 [What the hell?](http://9gag.com/gag/aVvovOO)
+ - 😝 [Looks up!](http://9gag.com/gag/a5Q6Bgg)
  - 👉 [Fourth paycheck needed](http://9gag.com/gag/a876736)<!-- MEMES:END -->
 
 ---

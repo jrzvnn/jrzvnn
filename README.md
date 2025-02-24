@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [iPhone 17 designs revealed in image backed by multiple leakers](https://appleinsider.com/articles/25/02/24/iphone-17-range-revealed-in-image-backed-by-multiple-leakers?utm_medium=rss)
+ - [Apple commits over $500 billion in new US manufacturing](https://appleinsider.com/articles/25/02/24/apple-commits-over-500-billion-in-new-us-investment?utm_medium=rss)
+ - [Google says it plans to use QR codes for Gmail account authentication, ditching SMS to &quot;reduce the impact of rampant, global SMS abuse&quot; &lpar;Davey Winder/Forbes&rpar;](http://www.techmeme.com/250224/p8#a250224p8)
  - [Trump’s first 100 days: all the news affecting the tech industry](https://www.theverge.com/24348851/donald-trump-presidency-tech-science-news)
- - [Apple responds to tariff threat with a $500 billion US investment](https://www.theverge.com/news/618172/apple-500-billion-us-investment-tariffs-trump)
- - [TD Cowen: Microsoft cancels leases for a substantial amount of US data centers, potentially due to over-investment fears; Microsoft plans to spend $80B in 2025 &lpar;Bloomberg&rpar;](http://www.techmeme.com/250224/p7#a250224p7)
- - [How the EU’s DMA is changing Big Tech: all of the news and updates](https://www.theverge.com/24040543/eu-dma-digital-markets-act-big-tech-antitrust)
- - [iPhone 17 range revealed in image backed by multiple leakers](https://appleinsider.com/articles/25/02/24/iphone-17-range-revealed-in-image-backed-by-multiple-leakers?utm_medium=rss)<!-- TECH:END -->
+ - [Apple responds to tariff threat with a $500 billion US investment](https://www.theverge.com/news/618172/apple-500-billion-us-investment-tariffs-trump)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

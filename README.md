@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sigma’s BF is a minimalist full-frame camera with no memory card slot](https://www.theverge.com/news/618188/sigma-bf-full-frame-sensor-camera-minimalist-design-aluminum-haptics)
- - [How to set up crash detection on your Android phone](https://www.theverge.com/how-to/617644/crash-detection-pixel-android-how-to)
- - [IT management platform NinjaOne raised $500M led by Iconiq Growth and CapitalG at a $5B valuation, up from $1.9B after its Series C in February 2024 &lpar;Leo Schwartz/Fortune&rpar;](http://www.techmeme.com/250224/p14#a250224p14)
- - [Apple enables AirPods Pro 2 Hearing Aid feature in the UK](https://appleinsider.com/articles/25/02/24/apple-enables-airpods-pro-2-hearing-aid-feature-in-the-uk?utm_medium=rss)
- - [What’s the deal with all these airplane crashes?](https://www.theverge.com/planes/617438/plane-crash-air-safety-faa-layoffs)<!-- TECH:END -->
+ - [Five ways to send a message to your representatives](https://www.theverge.com/how-to/606200/government-senate-congress-contact-apps)
+ - [Steve Jobs Archive marks Apple co-founder&#39;s 70th birthday](https://appleinsider.com/articles/25/02/24/steve-jobs-archive-marks-apple-co-founders-70th-birthday?utm_medium=rss)
+ - [9 Best MagSafe Wallets &lpar;2025&rpar;, Tested and Reviewed](https://www.wired.com/gallery/best-magsafe-wallets/)
+ - [Vimeo CEO Philip Moyer is betting on the human touch — and AI](https://www.theverge.com/decoder-podcast-with-nilay-patel/616820/philip-moyer-interview-vimeo-ai-google-youtube-creators)
+ - [Monster Hunter Wilds thrives on spectacle](https://www.theverge.com/games-review/617587/monster-hunter-wilds-review-ps5-xbox-steam)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Trump’s first 100 days: all the news affecting the tech industry](https://www.theverge.com/24348851/donald-trump-presidency-tech-science-news)
- - [How to take control of your privacy by taking the fight to the source](https://appleinsider.com/articles/25/02/24/how-to-take-control-of-your-privacy-by-taking-the-fight-to-the-source?utm_medium=rss)
- - [Conservative podcaster Dan Bongino named deputy FBI director](https://www.theverge.com/news/618233/dan-bongino-fbi-deputy-director-conservative-podcaster)
- - [10 Best Laptop Stands for Any Setup, Tested and Reviewed &lpar;2025&rpar;](https://www.wired.com/gallery/best-laptop-stands/)
- - [Meta rolls out Meta AI in Algeria, Egypt, Iraq, Jordan, Libya, Morocco, Saudi Arabia, Tunisia, the UAE, and Yemen, and adds language support for Arabic &lpar;Paul Sawers/TechCrunch&rpar;](http://www.techmeme.com/250224/p16#a250224p16)<!-- TECH:END -->
+ - [Google is replacing Gmail’s SMS authentication with QR codes](https://www.theverge.com/news/618303/google-replacing-sms-codes-qr-gmail-security-two-factor-authentication)
+ - [Dutch company Bird, which offers tools for enterprises to reach customers over SMS, WhatsApp, and more, says it&#39;s exiting the EU, blaming onerous AI regulations &lpar;Toby Sterling/Reuters&rpar;](http://www.techmeme.com/250224/p17#a250224p17)
+ - [TVs at HUD Played an AI-Generated Video of Donald Trump Kissing Elon Musk&#39;s Feet](https://www.wired.com/story/trump-musk-hud-feet-video/)
+ - [Best YouTube Channels for Free Workouts in 2025](https://www.cnet.com/health/fitness/best-youtube-channels-for-free-workouts/#ftag=CAD590a51e)
+ - [Trump’s first 100 days: all the news affecting the tech industry](https://www.theverge.com/24348851/donald-trump-presidency-tech-science-news)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

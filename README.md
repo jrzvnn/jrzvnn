@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [7 Best Sunrise Alarm Clocks &lpar;2025&rpar;, Tested and Reviewed](https://www.wired.com/gallery/best-sunrise-alarm-clocks/)
  - [Google is replacing Gmail’s SMS authentication with QR codes](https://www.theverge.com/news/618303/google-replacing-sms-codes-qr-gmail-security-two-factor-authentication)
  - [Dutch company Bird, which offers tools for enterprises to reach customers over SMS, WhatsApp, and more, says it&#39;s exiting the EU, blaming onerous AI regulations &lpar;Toby Sterling/Reuters&rpar;](http://www.techmeme.com/250224/p17#a250224p17)
  - [TVs at HUD Played an AI-Generated Video of Donald Trump Kissing Elon Musk&#39;s Feet](https://www.wired.com/story/trump-musk-hud-feet-video/)
- - [Best YouTube Channels for Free Workouts in 2025](https://www.cnet.com/health/fitness/best-youtube-channels-for-free-workouts/#ftag=CAD590a51e)
- - [Trump’s first 100 days: all the news affecting the tech industry](https://www.theverge.com/24348851/donald-trump-presidency-tech-science-news)<!-- TECH:END -->
+ - [Best YouTube Channels for Free Workouts in 2025](https://www.cnet.com/health/fitness/best-youtube-channels-for-free-workouts/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

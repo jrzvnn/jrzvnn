@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Annapurna&amp;#8217;s 2025 lineup of indie games is full of tea and T-poses](https://www.theverge.com/news/618431/annapurna-interactive-2025-games-showcase)
+ - [Google Drive gets searchable video transcripts](https://www.theverge.com/news/618397/google-drive-searchable-video-transcripts-workspace)
+ - [Anthropic Launches the World’s First ‘Hybrid Reasoning’ AI Model](https://www.wired.com/story/anthropic-world-first-hybrid-reasoning-ai-model/)
  - [Anthropic releases Claude 3.7 Sonnet, a hybrid model that can produce fast responses or extended, step-by-step thinking, and Claude Code, an agentic coding tool &lpar;Maxwell Zeff/TechCrunch&rpar;](http://www.techmeme.com/250224/p22#a250224p22)
- - [Analysis of Apple&#39;s financials: Apple&#39;s announcement of spending $500B over four years in the US is in line with what it could be expected to spend anyway &lpar;Dan Gallagher/Wall Street Journal&rpar;](http://www.techmeme.com/250224/p21#a250224p21)
- - [Anthropic’s new ‘hybrid reasoning’ AI model is its smartest yet](https://www.theverge.com/news/618440/anthropic-claude-3-7-sonnet-ai-model-hybrid-reasoning)
- - [From ChatGPT to Gemini: how AI is rewriting the internet](https://www.theverge.com/23610427/chatbots-chatgpt-new-bing-google-bard-conversational-ai)
- - [Sensor Tower: during Grok 3&#39;s release week, Grok mobile app downloads rose over 10x week over week; Similarweb: US web app daily visits rose from ~189K to 900K+ &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/250224/p20#a250224p20)<!-- TECH:END -->
+ - [DOGE Is Inside the National Institutes of Health’s Finance System](https://www.wired.com/story/doge-is-inside-the-national-institutes-of-health-nih/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

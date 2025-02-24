@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Chose wisely](http://9gag.com/gag/aXPMPgb)
- - 😝 [LOL](http://9gag.com/gag/aYQEQ3w)
- - 💣 [Who&#39;s in the wrong?](http://9gag.com/gag/a1mNNPb)
- - 😝 [Interactions with cops when your name is \u201cJames Bond\u201d](http://9gag.com/gag/amo11X4)
- - 👉 [Wish I could do this](http://9gag.com/gag/agm11ov)<!-- MEMES:END -->
+ - 😝 [The guide reports that a pride of lions is in the area.](http://9gag.com/gag/aGynydz)
+ - 😝 [Why are you laughing Lena?](http://9gag.com/gag/aXPMPP2)
+ - 💣 [Guy gets caught pulling his own name out of the raffle for a car.](http://9gag.com/gag/a5Q6QrV)
+ - 😝 [God damn that shoulder throw was clean\ud83d\udc4f\ud83c\udffb](http://9gag.com/gag/aND9DZK)
+ - 👉 [That cut to her is priceless](http://9gag.com/gag/aO8e2MD)<!-- MEMES:END -->
 
 ---
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Master Splinter?](http://9gag.com/gag/aD267vO)
  - 😝 [I&#39;ve never seen this before](http://9gag.com/gag/ae919yq)
- - 💣 [When you have plenty of matches and free time](http://9gag.com/gag/aXPMLe9)
- - 😝 [Staying at a Disney resort after hours](http://9gag.com/gag/aND99Ov)
- - 👉 [\u26df Your order has been shipped.](http://9gag.com/gag/aVvovYv)<!-- MEMES:END -->
+ - 😝 [When you have plenty of matches and free time](http://9gag.com/gag/aXPMLe9)
+ - 💣 [\u26df Your order has been shipped.](http://9gag.com/gag/aVvovYv)
+ - 😝 [Wait! What?](http://9gag.com/gag/awy3gXx)
+ - 👉 [The moment Hundreds of thousands of Hezbollah shat their pants as Israeli planes flew above their heads](http://9gag.com/gag/a6ZXD1e)<!-- MEMES:END -->
 
 ---
 

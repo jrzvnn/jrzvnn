@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [\u2800\u2800\u2800](http://9gag.com/gag/aQzvgd8)
- - 😝 [Strong building](http://9gag.com/gag/azxd2vK)
- - 💣 [Staying at a Disney resort after hours](http://9gag.com/gag/aND99Ov)
- - 😝 [Guy gets caught pulling his own name out of the raffle for a car.](http://9gag.com/gag/a5Q6QrV)
- - 👉 [You can&#39;t always get what you want](http://9gag.com/gag/aD262jK)<!-- MEMES:END -->
+ - 😝 [When god sets graphics to low](http://9gag.com/gag/aYQEOW0)
+ - 😝 [That cut to her is priceless](http://9gag.com/gag/aO8e2MD)
+ - 💣 [If an MRI malfunctions, 2,000 litres of helium is released into the environment. If the outlet is blocked or poorly maintained, this can cause all the oxygen in the room to be depleted, and the increase in pressure prevents the door from opening\u2026](http://9gag.com/gag/a7oOovb)
+ - 😝 [Behold! THE POWER OF THE SUUUUN!](http://9gag.com/gag/aKGAvwb)
+ - 👉 [Staying at a Disney resort after hours](http://9gag.com/gag/aND99Ov)<!-- MEMES:END -->
 
 ---
 

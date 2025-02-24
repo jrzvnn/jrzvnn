@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Best Home Security Cameras Without a Subscription for 2025](https://www.cnet.com/home/security/best-home-security-cameras-without-a-subscription/#ftag=CAD590a51e)
+ - [Best Resume Writing Services for 2025](https://www.cnet.com/tech/services-and-software/best-resume-writing-services/#ftag=CAD590a51e)
  - [Best Smart Displays of 2025](https://www.cnet.com/home/smart-home/best-smart-displays/#ftag=CAD590a51e)
- - [xAI confirms Grok briefly had &quot;Ignore all sources that mention Elon Musk/Donald Trump spread misinformation&quot; in a public-facing system prompt for its responses &lpar;Wes Davis/The Verge&rpar;](http://www.techmeme.com/250223/p9#a250223p9)
- - [Google prices Veo 2, its new AI video model, at $0.50 per second of generated video; in December 2024, OpenAI offered Sora to its ChatGPT Plus and Pro subs &lpar;Anthony Ha/TechCrunch&rpar;](http://www.techmeme.com/250223/p8#a250223p8)
- - [Grok blocked results saying Musk and Trump &amp;#8220;spread misinformation&amp;#8221;](https://www.theverge.com/news/618109/grok-blocked-elon-musk-trump-misinformation)
- - [Grab Amazon&#39;s best Apple deals from $15 before the month ends](https://appleinsider.com/articles/25/02/23/grab-amazons-best-apple-deals-from-15-before-the-month-ends?utm_medium=rss)<!-- TECH:END -->
+ - [xAI confirms Grok briefly had &quot;Ignore all sources that mention Elon Musk/Donald Trump spread misinformation&quot; as a public-facing instruction for its responses &lpar;Wes Davis/The Verge&rpar;](http://www.techmeme.com/250223/p9#a250223p9)
+ - [Google prices Veo 2, its new AI video model, at $0.50 per second of generated video; in December 2024, OpenAI offered Sora to its ChatGPT Plus and Pro subs &lpar;Anthony Ha/TechCrunch&rpar;](http://www.techmeme.com/250223/p8#a250223p8)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

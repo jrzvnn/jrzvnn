@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [LOL](http://9gag.com/gag/aYQEQ3w)
  - 😝 [God damn that shoulder throw was clean\ud83d\udc4f\ud83c\udffb](http://9gag.com/gag/aND9DZK)
- - 💣 [They kiss](http://9gag.com/gag/aND9p4G)
- - 😝 [CTRL + Z for undo](http://9gag.com/gag/aW47grn)
- - 👉 [Fourth paycheck needed](http://9gag.com/gag/a876736)<!-- MEMES:END -->
+ - 😝 [Wait why she ties her hair up? WHERE THE PLAYBOY MAGAZINE?](http://9gag.com/gag/a6ZX1Rq)
+ - 💣 [Action](http://9gag.com/gag/avy1A2d)
+ - 😝 [In the ruins of Chernobyl, scientists discovered a black fungus that feeds on gamma radiation.](http://9gag.com/gag/ajP1m3x)
+ - 👉 [LOL](http://9gag.com/gag/aYQEQ3w)<!-- MEMES:END -->
 
 ---
 

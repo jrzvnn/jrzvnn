@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [CTRL + Z for undo](http://9gag.com/gag/aW47grn)
- - 😝 [When you marry a gamer](http://9gag.com/gag/aD267Ax)
- - 💣 [Wish I could do this](http://9gag.com/gag/agm11ov)
+ - 😝 [Guy gets caught pulling his own name out of the raffle for a car.](http://9gag.com/gag/a5Q6QrV)
  - 😝 [That day little Timmy found out what he would strive for in life](http://9gag.com/gag/aPAmAmP)
- - 👉 [In the ruins of Chernobyl, scientists discovered a black fungus that feeds on gamma radiation.](http://9gag.com/gag/ajP1m3x)<!-- MEMES:END -->
+ - 💣 [When you marry a gamer](http://9gag.com/gag/aD267Ax)
+ - 😝 [LOL](http://9gag.com/gag/aYQEQ3w)
+ - 👉 [Wait why she ties her hair up? WHERE THE PLAYBOY MAGAZINE?](http://9gag.com/gag/a6ZX1Rq)<!-- MEMES:END -->
 
 ---
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Meta rolls out Meta AI in Algeria, Egypt, Iraq, Jordan, Libya, Morocco, Saudi Arabia, Tunisia, the UAE, and Yemen, and adds language support for Arabic &lpar;Paul Sawers/TechCrunch&rpar;](http://www.techmeme.com/250224/p16#a250224p16)
  - [Anthony Levandowski&#39;s self-driving truck startup Pronto signs a deal with Heidelberg Materials to use its tech in 100+ dump trucks in mines over three years &lpar;Max Chafkin/Bloomberg&rpar;](http://www.techmeme.com/250224/p15#a250224p15)
- - [Apple designer Susan Kare made 32 new, Mac-inspired, physical icons](https://www.theverge.com/news/618235/apple-designer-susan-kare-32-new-icons-keycaps)
+ - [Apple designer Susan Kare made 32 new, Mac-inspired physical icons](https://www.theverge.com/news/618235/apple-designer-susan-kare-32-new-icons-keycaps)
  - [Apple could bring out second-gen AirTag by May or June](https://appleinsider.com/articles/25/02/24/apple-could-bring-out-second-gen-airtag-by-may-or-june?utm_medium=rss)
- - [Five ways to send a message to your representatives](https://www.theverge.com/how-to/606200/government-senate-congress-contact-apps)
- - [Steve Jobs Archive marks Apple co-founder&#39;s 70th birthday](https://appleinsider.com/articles/25/02/24/steve-jobs-archive-marks-apple-co-founders-70th-birthday?utm_medium=rss)<!-- TECH:END -->
+ - [Five ways to send a message to your representatives](https://www.theverge.com/how-to/606200/government-senate-congress-contact-apps)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

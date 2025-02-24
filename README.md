@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [You can&#39;t always get what you want](http://9gag.com/gag/aD262jK)
- - 😝 [\u2800\u2800\u2800](http://9gag.com/gag/aQzvgd8)
- - 💣 [Wish I could do this](http://9gag.com/gag/agm11ov)
- - 😝 [When you marry a gamer](http://9gag.com/gag/aD267Ax)
- - 👉 [Wait why she ties her hair up? WHERE THE PLAYBOY MAGAZINE?](http://9gag.com/gag/a6ZX1Rq)<!-- MEMES:END -->
+ - 😝 [Customer Service](http://9gag.com/gag/awy3yqD)
+ - 😝 [He tried](http://9gag.com/gag/axy3v0n)
+ - 💣 [Fourth paycheck needed](http://9gag.com/gag/a876736)
+ - 😝 [Who&#39;s in the wrong?](http://9gag.com/gag/a1mNNPb)
+ - 👉 [When you&#39;re mad at him but he&#39;s actually funny](http://9gag.com/gag/aGynn3Z)<!-- MEMES:END -->
 
 ---
 

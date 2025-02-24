@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [\u2800\u2800\u2800](http://9gag.com/gag/aQzvgd8)
- - 😝 [When you&#39;re mad at him but he&#39;s actually funny](http://9gag.com/gag/aGynn3Z)
- - 💣 [That day little Timmy found out what he would strive for in life](http://9gag.com/gag/aPAmAmP)
  - 😝 [Staying at a Disney resort after hours](http://9gag.com/gag/aND99Ov)
- - 👉 [You can&#39;t always get what you want](http://9gag.com/gag/aD262jK)<!-- MEMES:END -->
+ - 😝 [Strong building](http://9gag.com/gag/azxd2vK)
+ - 💣 [You can&#39;t always get what you want](http://9gag.com/gag/aD262jK)
+ - 😝 [When you&#39;re mad at him but he&#39;s actually funny](http://9gag.com/gag/aGynn3Z)
+ - 👉 [\u2800\u2800\u2800](http://9gag.com/gag/aQzvgd8)<!-- MEMES:END -->
 
 ---
 

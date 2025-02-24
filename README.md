@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Ember’s high-tech smart mug has fallen to its lowest price to date](https://www.theverge.com/good-deals/618204/ember-mug-2-wd-black-c50-xbox-expansion-card-deal-sale)
- - [Nearly 100 Measles Cases Have Been Reported in Texas](https://www.wired.com/story/measles-cases-rise-texas/)
- - [Perplexity teases a web browser &quot;for agentic search&quot; called Comet that is &quot;coming soon&quot; &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/250224/p18#a250224p18)
- - [Balatro’s PEGI 18 rating in Europe has been changed following appeal](https://www.theverge.com/news/618342/balatro-pegi-rating-appeal)
- - [7 Best Sunrise Alarm Clocks &lpar;2025&rpar;, Tested and Reviewed](https://www.wired.com/gallery/best-sunrise-alarm-clocks/)<!-- TECH:END -->
+ - [From ChatGPT to Gemini: how AI is rewriting the internet](https://www.theverge.com/23610427/chatbots-chatgpt-new-bing-google-bard-conversational-ai)
+ - [Elizabeth Holmes sentenced to 11 years in prison for her Theranos fraud](https://www.theverge.com/22684354/elizabeth-holmes-trial-wire-fraud-theranos)
+ - [All the smart home news, reviews, and gadgets you need to know about](https://www.theverge.com/24190824/smart-home-news-reviews-guides-gadgets)
+ - [Robotic vacuums in iOS 18.4, Aqara G5 Pro, &amp; Nanoleaf price cuts on HomeKit Insider](https://appleinsider.com/articles/25/02/24/robotic-vacuums-in-ios-184-aqara-g5-pro-nanoleaf-price-cuts-on-homekit-insider?utm_medium=rss)
+ - [The Trump admin has fired 130+ staff at CISA, replaced staff refusing DOGE access to networks, appointed a DOD CISO whose clearance was suspended in 2021, more &lpar;Brian Krebs/Krebs on Security&rpar;](http://www.techmeme.com/250224/p19#a250224p19)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

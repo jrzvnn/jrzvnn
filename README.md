@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [From ChatGPT to Gemini: how AI is rewriting the internet](https://www.theverge.com/23610427/chatbots-chatgpt-new-bing-google-bard-conversational-ai)
  - [2025 Is a Year Full of Meteor Showers: The Next One Arrives This Week](https://www.cnet.com/science/how-to-watch-this-weeks-meteor-shower-all-in-2025-shooting-star-guide/#ftag=CAD590a51e)
  - [Siri in iOS 18.4 is getting worse before it gets better](https://appleinsider.com/articles/25/02/24/siri-in-ios-184-is-getting-worse-before-it-gets-better?utm_medium=rss)
  - [How to Get Your Share of the FTC&#39;s $16.5 Million Avast Settlement](https://www.cnet.com/news/privacy/how-to-get-your-share-of-the-ftcs-16-5-million-avast-settlement/#ftag=CAD590a51e)
- - [Annapurna&amp;#8217;s 2025 lineup of indie games is full of tea and T-poses](https://www.theverge.com/news/618431/annapurna-interactive-2025-games-showcase)
- - [Google Drive gets searchable video transcripts](https://www.theverge.com/news/618397/google-drive-searchable-video-transcripts-workspace)<!-- TECH:END -->
+ - [Annapurna&amp;#8217;s 2025 lineup of indie games is full of tea and T-poses](https://www.theverge.com/news/618431/annapurna-interactive-2025-games-showcase)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

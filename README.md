@@ -166,10 +166,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Can you go into your opponent size to play? Sure... why not?](http://9gag.com/gag/aQzvEp8)
- - 😝 [When you marry a gamer](http://9gag.com/gag/aD267Ax)
- - 💣 [Fourth paycheck needed](http://9gag.com/gag/a876736)
- - 😝 [Wait why she ties her hair up? WHERE THE PLAYBOY MAGAZINE?](http://9gag.com/gag/a6ZX1Rq)
+ - 😝 [Infrastructure turned residential](http://9gag.com/gag/avy1AYE)
+ - 😝 [They kiss](http://9gag.com/gag/aND9p4G)
+ - 💣 [86 year old movie](http://9gag.com/gag/aLnzLDV)
+ - 😝 [In the ruins of Chernobyl, scientists discovered a black fungus that feeds on gamma radiation.](http://9gag.com/gag/ajP1m3x)
  - 👉 [If an MRI malfunctions, 2,000 litres of helium is released into the environment. If the outlet is blocked or poorly maintained, this can cause all the oxygen in the room to be depleted, and the increase in pressure prevents the door from opening\u2026](http://9gag.com/gag/a7oOovb)<!-- MEMES:END -->
 
 ---

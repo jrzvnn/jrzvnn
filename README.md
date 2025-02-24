@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Today&#39;s NYT Connections: Sports Edition Hints and Answers for Feb. 24, #154](https://www.cnet.com/tech/gaming/todays-nyt-connections-sports-edition-hints-and-answers-for-feb-24-154/#ftag=CAD590a51e)
+ - [Today&#39;s NYT Mini Crossword Answers for Monday, Feb. 24](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-monday-feb-24/#ftag=CAD590a51e)
  - [Prosus plans to buy Just Eat Takeaway for &amp;euro;20.30/share, a 22% premium over its three-month high, in an all-cash deal valuing the delivery firm at over &amp;euro;4B &lpar;Financial Times&rpar;](http://www.techmeme.com/250224/p2#a250224p2)
  - [Best Internet Providers in Queens, New York](https://www.cnet.com/home/internet/best-internet-providers-in-queens-ny/#ftag=CAD590a51e)
- - [Australian tech firm WiseTech saw shares drop 22% after most of its board, including the chair, resigned over clashes on co-founder Richard White&#39;s role &lpar;Nic Fildes/Financial Times&rpar;](http://www.techmeme.com/250224/p1#a250224p1)
- - [As the Trump administration neuters the PCLOB and reviews the EO behind the EU-US Data Privacy Framework, the EU should stop moving to US clouds &lpar;Bert Hubert&#39;s writings&rpar;](http://www.techmeme.com/250223/p11#a250223p11)
- - [Alibaba pledges to invest more than $53B on AI infrastructure, including new data centers, over the next three years &lpar;Bloomberg&rpar;](http://www.techmeme.com/250223/p10#a250223p10)<!-- TECH:END -->
+ - [Australian tech firm WiseTech saw shares drop 22% after most of its board, including the chair, resigned over clashes on co-founder Richard White&#39;s role &lpar;Nic Fildes/Financial Times&rpar;](http://www.techmeme.com/250224/p1#a250224p1)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

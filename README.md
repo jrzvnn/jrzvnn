@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [IT management platform NinjaOne raised $500M led by Iconiq Growth and CapitalG at a $5B valuation, up from $1.9B after its Series C in February 2024 &lpar;Leo Schwartz/Fortune&rpar;](http://www.techmeme.com/250224/p14#a250224p14)
+ - [Apple enables AirPods Pro 2 Hearing Aid feature in the UK](https://appleinsider.com/articles/25/02/24/apple-enables-airpods-pro-2-hearing-aid-feature-in-the-uk?utm_medium=rss)
+ - [What’s the deal with all these airplane crashes?](https://www.theverge.com/planes/617438/plane-crash-air-safety-faa-layoffs)
  - [The Anonymous YouTubers Street-Racing Through New York](https://www.wired.com/story/anonymous-youtubers-street-racing-through-new-york/)
- - [Asus Prime GeForce RTX 5070 Ti Review: Mid-Tier Goodness](https://www.wired.com/review/asus-prime-geforce-rtx-5070-ti-revew/)
- - [Apple to build AI servers in Houston, invest $500B in U.S. economy](https://appleinsider.com/articles/25/02/24/apple-commits-over-500-billion-in-new-us-investment?utm_medium=rss)
- - [Apple&amp;#8217;s iPhone 17 lineup is looking a little Pixelated](https://www.theverge.com/news/618190/apple-iphone-17-camera-module-leaks-renders)
- - [Strategy, formerly MicroStrategy, bought 20,356 bitcoin for $1.99B between February 18 and 23, taking its holdings to 499,096, worth $47B, or 2.3% of BTC supply &lpar;James Hunt/The Block&rpar;](http://www.techmeme.com/250224/p13#a250224p13)<!-- TECH:END -->
+ - [Asus Prime GeForce RTX 5070 Ti Review: Mid-Tier Goodness](https://www.wired.com/review/asus-prime-geforce-rtx-5070-ti-revew/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

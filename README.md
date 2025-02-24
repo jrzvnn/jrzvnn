@@ -167,10 +167,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [Wait why she ties her hair up? WHERE THE PLAYBOY MAGAZINE?](http://9gag.com/gag/a6ZX1Rq)
- - 😝 [\u2800\u2800\u2800](http://9gag.com/gag/aQzvgd8)
- - 💣 [Staying at a Disney resort after hours](http://9gag.com/gag/aND99Ov)
- - 😝 [Strong building](http://9gag.com/gag/azxd2vK)
- - 👉 [You can&#39;t always get what you want](http://9gag.com/gag/aD262jK)<!-- MEMES:END -->
+ - 😝 [Customer Service](http://9gag.com/gag/awy3yqD)
+ - 💣 [Guy gets caught pulling his own name out of the raffle for a car.](http://9gag.com/gag/a5Q6QrV)
+ - 😝 [Who&#39;s in the wrong?](http://9gag.com/gag/a1mNNPb)
+ - 👉 [Fourth paycheck needed](http://9gag.com/gag/a876736)<!-- MEMES:END -->
 
 ---
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Customer Service](http://9gag.com/gag/awy3yqD)
- - 😝 [He tried](http://9gag.com/gag/axy3v0n)
- - 💣 [Fourth paycheck needed](http://9gag.com/gag/a876736)
- - 😝 [Who&#39;s in the wrong?](http://9gag.com/gag/a1mNNPb)
- - 👉 [When you&#39;re mad at him but he&#39;s actually funny](http://9gag.com/gag/aGynn3Z)<!-- MEMES:END -->
+ - 😝 [You can&#39;t always get what you want](http://9gag.com/gag/aD262jK)
+ - 😝 [CTRL + Z for undo](http://9gag.com/gag/aW47grn)
+ - 💣 [God damn that shoulder throw was clean\ud83d\udc4f\ud83c\udffb](http://9gag.com/gag/aND9DZK)
+ - 😝 [LOL](http://9gag.com/gag/aYQEQ3w)
+ - 👉 [Who&#39;s in the wrong?](http://9gag.com/gag/a1mNNPb)<!-- MEMES:END -->
 
 ---
 

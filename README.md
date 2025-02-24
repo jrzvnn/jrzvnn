@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [\u2800\u2800\u2800](http://9gag.com/gag/aQzvgd8)
- - 😝 [A bird dropped a severed human hand into a schoolyard in Ireland yesterday.](http://9gag.com/gag/aYQEQQm)
- - 💣 [LOL](http://9gag.com/gag/aYQEQ3w)
- - 😝 [When you marry a gamer](http://9gag.com/gag/aD267Ax)
- - 👉 [That day little Timmy found out what he would strive for in life](http://9gag.com/gag/aPAmAmP)<!-- MEMES:END -->
+ - 😝 [Master Splinter?](http://9gag.com/gag/aD267vO)
+ - 😝 [I&#39;ve never seen this before](http://9gag.com/gag/ae919yq)
+ - 💣 [When you have plenty of matches and free time](http://9gag.com/gag/aXPMLe9)
+ - 😝 [Staying at a Disney resort after hours](http://9gag.com/gag/aND99Ov)
+ - 👉 [\u26df Your order has been shipped.](http://9gag.com/gag/aVvovYv)<!-- MEMES:END -->
 
 ---
 

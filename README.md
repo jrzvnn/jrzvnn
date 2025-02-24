@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Nearly 100 Measles Cases Have Been Reported in Texas](https://www.wired.com/story/measles-cases-rise-texas/)
  - [Perplexity teases a web browser &quot;for agentic search&quot; called Comet that is &quot;coming soon&quot; &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/250224/p18#a250224p18)
  - [Balatro’s PEGI 18 rating in Europe has been changed following appeal](https://www.theverge.com/news/618342/balatro-pegi-rating-appeal)
  - [7 Best Sunrise Alarm Clocks &lpar;2025&rpar;, Tested and Reviewed](https://www.wired.com/gallery/best-sunrise-alarm-clocks/)
- - [Google is replacing Gmail’s SMS authentication with QR codes](https://www.theverge.com/news/618303/google-replacing-sms-codes-qr-gmail-security-two-factor-authentication)
- - [Dutch company Bird, which offers tools for enterprises to reach customers over SMS, WhatsApp, and more, says it&#39;s exiting the EU, blaming onerous AI regulations &lpar;Toby Sterling/Reuters&rpar;](http://www.techmeme.com/250224/p17#a250224p17)<!-- TECH:END -->
+ - [Google is replacing Gmail’s SMS authentication with QR codes](https://www.theverge.com/news/618303/google-replacing-sms-codes-qr-gmail-security-two-factor-authentication)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Anthropic releases Claude 3.7 Sonnet, a hybrid model that can produce fast responses or extended, step-by-step thinking, and Claude Code, an agentic coding tool &lpar;Maxwell Zeff/TechCrunch&rpar;](http://www.techmeme.com/250224/p22#a250224p22)
+ - [Analysis of Apple&#39;s financials: Apple&#39;s announcement of spending $500B over four years in the US is in line with what it could be expected to spend anyway &lpar;Dan Gallagher/Wall Street Journal&rpar;](http://www.techmeme.com/250224/p21#a250224p21)
+ - [Anthropic’s new ‘hybrid reasoning’ AI model is its smartest yet](https://www.theverge.com/news/618440/anthropic-claude-3-7-sonnet-ai-model-hybrid-reasoning)
  - [From ChatGPT to Gemini: how AI is rewriting the internet](https://www.theverge.com/23610427/chatbots-chatgpt-new-bing-google-bard-conversational-ai)
- - [Elizabeth Holmes sentenced to 11 years in prison for her Theranos fraud](https://www.theverge.com/22684354/elizabeth-holmes-trial-wire-fraud-theranos)
- - [All the smart home news, reviews, and gadgets you need to know about](https://www.theverge.com/24190824/smart-home-news-reviews-guides-gadgets)
- - [Robotic vacuums in iOS 18.4, Aqara G5 Pro, &amp; Nanoleaf price cuts on HomeKit Insider](https://appleinsider.com/articles/25/02/24/robotic-vacuums-in-ios-184-aqara-g5-pro-nanoleaf-price-cuts-on-homekit-insider?utm_medium=rss)
- - [The Trump admin has fired 130+ staff at CISA, replaced staff refusing DOGE access to networks, appointed a DOD CISO whose clearance was suspended in 2021, more &lpar;Brian Krebs/Krebs on Security&rpar;](http://www.techmeme.com/250224/p19#a250224p19)<!-- TECH:END -->
+ - [Sensor Tower: during Grok 3&#39;s release week, Grok mobile app downloads rose over 10x week over week; Similarweb: US web app daily visits rose from ~189K to 900K+ &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/250224/p20#a250224p20)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [The guide reports that a pride of lions is in the area.](http://9gag.com/gag/aGynydz)
- - 😝 [Fourth paycheck needed](http://9gag.com/gag/a876736)
- - 💣 [LOL](http://9gag.com/gag/aYQEQ3w)
- - 😝 [\u2800\u2800\u2800](http://9gag.com/gag/aQzvgd8)
- - 👉 [When you marry a gamer](http://9gag.com/gag/aD267Ax)<!-- MEMES:END -->
+ - 😝 [Can you go into your opponent size to play? Sure... why not?](http://9gag.com/gag/aQzvEp8)
+ - 😝 [Customer Service](http://9gag.com/gag/awy3yqD)
+ - 💣 [If an MRI malfunctions, 2,000 litres of helium is released into the environment. If the outlet is blocked or poorly maintained, this can cause all the oxygen in the room to be depleted, and the increase in pressure prevents the door from opening\u2026](http://9gag.com/gag/a7oOovb)
+ - 😝 [When you marry a gamer](http://9gag.com/gag/aD267Ax)
+ - 👉 [Who&#39;s in the wrong?](http://9gag.com/gag/a1mNNPb)<!-- MEMES:END -->
 
 ---
 

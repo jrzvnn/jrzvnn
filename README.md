@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [A Jumping Lunar Robot Is About to Explore a Pitch-Black Moon Crater for the First Time](https://www.wired.com/story/a-jumping-lunar-robot-is-about-to-explore-a-pitch-black-moon-crater-for-the-first-time-im-2-nasa-intuitive-machines-spacex-artemis/)
  - [China is increasingly pooling resources from the state and private sectors, including startups like Infinigence AI, to accelerate adoption of AI data centers &lpar;Financial Times&rpar;](http://www.techmeme.com/250224/p3#a250224p3)
  - [Today&#39;s NYT Connections: Sports Edition Hints and Answers for Feb. 24, #154](https://www.cnet.com/tech/gaming/todays-nyt-connections-sports-edition-hints-and-answers-for-feb-24-154/#ftag=CAD590a51e)
  - [Today&#39;s NYT Mini Crossword Answers for Monday, Feb. 24](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-monday-feb-24/#ftag=CAD590a51e)
- - [Prosus plans to buy Just Eat Takeaway for &amp;euro;20.30 per share, a 22% premium over its three-month high, in an all-cash deal valuing the delivery company at &amp;euro;4B+ &lpar;Financial Times&rpar;](http://www.techmeme.com/250224/p2#a250224p2)
- - [Best Internet Providers in Queens, New York](https://www.cnet.com/home/internet/best-internet-providers-in-queens-ny/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Prosus plans to buy Just Eat Takeaway for &amp;euro;20.30 per share, a 22% premium over its three-month high, in an all-cash deal valuing the delivery company at &amp;euro;4B+ &lpar;Financial Times&rpar;](http://www.techmeme.com/250224/p2#a250224p2)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

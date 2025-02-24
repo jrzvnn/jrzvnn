@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Applying this privacy film](http://9gag.com/gag/apR3RWp)
- - 😝 [Men want one thing](http://9gag.com/gag/aND9Dpv)
- - 💣 [I&#39;ve never seen this before](http://9gag.com/gag/ae919yq)
- - 😝 [Their expressions are funny](http://9gag.com/gag/ayN334q)
- - 👉 [Its the same here in germany. DB is a joke](http://9gag.com/gag/azxdxQx)<!-- MEMES:END -->
+ - 😝 [That day little Timmy found out what he would strive for in life](http://9gag.com/gag/aPAmAmP)
+ - 😝 [You can&#39;t always get what you want](http://9gag.com/gag/aD262jK)
+ - 💣 [When you marry a gamer](http://9gag.com/gag/aD267Ax)
+ - 😝 [Like a glove](http://9gag.com/gag/aD26dLw)
+ - 👉 [Wait why she ties her hair up? WHERE THE PLAYBOY MAGAZINE?](http://9gag.com/gag/a6ZX1Rq)<!-- MEMES:END -->
 
 ---
 

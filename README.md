@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Fourth paycheck needed](http://9gag.com/gag/a876736)
- - 😝 [Remembering the gem](http://9gag.com/gag/a345ZV3)
- - 💣 [Jackie](http://9gag.com/gag/aBy6yAz)
- - 😝 [If an MRI malfunctions, 2,000 litres of helium is released into the environment. If the outlet is blocked or poorly maintained, this can cause all the oxygen in the room to be depleted, and the increase in pressure prevents the door from opening\u2026](http://9gag.com/gag/a7oOovb)
- - 👉 [They kiss](http://9gag.com/gag/aND9p4G)<!-- MEMES:END -->
+ - 😝 [LOL](http://9gag.com/gag/aYQEQ3w)
+ - 😝 [God damn that shoulder throw was clean\ud83d\udc4f\ud83c\udffb](http://9gag.com/gag/aND9DZK)
+ - 💣 [They kiss](http://9gag.com/gag/aND9p4G)
+ - 😝 [CTRL + Z for undo](http://9gag.com/gag/aW47grn)
+ - 👉 [Fourth paycheck needed](http://9gag.com/gag/a876736)<!-- MEMES:END -->
 
 ---
 

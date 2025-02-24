@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Siri in iOS 18.4 is getting worse before it gets better](https://appleinsider.com/articles/25/02/24/siri-in-ios-184-is-getting-worse-before-it-gets-better?utm_medium=rss)
  - [Annapurna&amp;#8217;s 2025 lineup of indie games is full of tea and T-poses](https://www.theverge.com/news/618431/annapurna-interactive-2025-games-showcase)
  - [Google Drive gets searchable video transcripts](https://www.theverge.com/news/618397/google-drive-searchable-video-transcripts-workspace)
  - [Anthropic Launches the World’s First ‘Hybrid Reasoning’ AI Model](https://www.wired.com/story/anthropic-world-first-hybrid-reasoning-ai-model/)
- - [Anthropic releases Claude 3.7 Sonnet, a hybrid model that can produce fast responses or extended, step-by-step thinking, and Claude Code, an agentic coding tool &lpar;Maxwell Zeff/TechCrunch&rpar;](http://www.techmeme.com/250224/p22#a250224p22)
- - [DOGE Is Inside the National Institutes of Health’s Finance System](https://www.wired.com/story/doge-is-inside-the-national-institutes-of-health-nih/)<!-- TECH:END -->
+ - [Anthropic releases Claude 3.7 Sonnet, a hybrid model that can produce fast responses or extended, step-by-step thinking, and Claude Code, an agentic coding tool &lpar;Maxwell Zeff/TechCrunch&rpar;](http://www.techmeme.com/250224/p22#a250224p22)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

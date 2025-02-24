@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Guy gets caught pulling his own name out of the raffle for a car.](http://9gag.com/gag/a5Q6QrV)
- - 😝 [That day little Timmy found out what he would strive for in life](http://9gag.com/gag/aPAmAmP)
- - 💣 [When you marry a gamer](http://9gag.com/gag/aD267Ax)
- - 😝 [LOL](http://9gag.com/gag/aYQEQ3w)
- - 👉 [Wait why she ties her hair up? WHERE THE PLAYBOY MAGAZINE?](http://9gag.com/gag/a6ZX1Rq)<!-- MEMES:END -->
+ - 😝 [Men want one thing](http://9gag.com/gag/aND9Dpv)
+ - 😝 [I&#39;ve never seen this before](http://9gag.com/gag/ae919yq)
+ - 💣 [Its the same here in germany. DB is a joke](http://9gag.com/gag/azxdxQx)
+ - 😝 [Master Splinter?](http://9gag.com/gag/aD267vO)
+ - 👉 [When you have plenty of matches and free time](http://9gag.com/gag/aXPMLe9)<!-- MEMES:END -->
 
 ---
 

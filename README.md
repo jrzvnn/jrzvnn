@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Cultural Enrichment](http://9gag.com/gag/aRB44Vy)
- - 😝 [Master Splinter?](http://9gag.com/gag/aD267vO)
- - 💣 [Men want one thing](http://9gag.com/gag/aND9Dpv)
- - 😝 [I&#39;ve never seen this before](http://9gag.com/gag/ae919yq)
- - 👉 [Its the same here in germany. DB is a joke](http://9gag.com/gag/azxdxQx)<!-- MEMES:END -->
+ - 😝 [CTRL + Z for undo](http://9gag.com/gag/aW47grn)
+ - 😝 [When you marry a gamer](http://9gag.com/gag/aD267Ax)
+ - 💣 [Wish I could do this](http://9gag.com/gag/agm11ov)
+ - 😝 [That day little Timmy found out what he would strive for in life](http://9gag.com/gag/aPAmAmP)
+ - 👉 [In the ruins of Chernobyl, scientists discovered a black fungus that feeds on gamma radiation.](http://9gag.com/gag/ajP1m3x)<!-- MEMES:END -->
 
 ---
 

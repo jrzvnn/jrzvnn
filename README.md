@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Warner Bros. Games shuts down three game studios and pulls the plug on a Wonder Woman game that had been in development for over three years &lpar;Todd Spangler/Variety&rpar;](http://www.techmeme.com/250225/p39#a250225p39)
+ - [How to secure your phone before attending a protest](https://www.theverge.com/21276979/phone-protest-demonstration-activism-digital-how-to-security-privacy)
  - [Users reported that Apple&#39;s automatic dictation system was transcribing the word &quot;racist&quot; as &quot;Trump&quot;, before correcting itself; Apple says it&#39;s working on a fix &lpar;New York Times&rpar;](http://www.techmeme.com/250225/p38#a250225p38)
  - [No, Apple isn&#39;t subliminally calling Trump a racist with its iPhone dictation feature](https://appleinsider.com/articles/25/02/25/no-apple-isnt-subliminally-calling-trump-a-racist-with-its-iphone-dictation-feature?utm_medium=rss)
- - [Sonos speakers and soundbars are 25 percent off for existing customers](https://www.theverge.com/good-deals/618989/sonos-beam-ace-era-100-deal-sale)
- - [The US chip situation is precarious and requires bold moves like ending the China chip ban and building more trailing edge fabs in the US &lpar;Ben Thompson/Stratechery&rpar;](http://www.techmeme.com/250225/p37#a250225p37)
- - [Xbox Cloud Gaming will let you invite friends with just a link](https://www.theverge.com/news/619288/xbox-cloud-gaming-invite-link-sharing-february-update)<!-- TECH:END -->
+ - [Sonos speakers and soundbars are 25 percent off for existing customers](https://www.theverge.com/good-deals/618989/sonos-beam-ace-era-100-deal-sale)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

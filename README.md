@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Guy gets caught pulling his own name out of the raffle for a car.](http://9gag.com/gag/a5Q6QrV)
- - 😝 [Behold! THE POWER OF THE SUUUUN!](http://9gag.com/gag/aKGAvwb)
- - 💣 [When god sets graphics to low](http://9gag.com/gag/aYQEOW0)
- - 😝 [That cut to her is priceless](http://9gag.com/gag/aO8e2MD)
- - 👉 [Staying at a Disney resort after hours](http://9gag.com/gag/aND99Ov)<!-- MEMES:END -->
+ - 😝 [Looks up!](http://9gag.com/gag/a5Q6Bgg)
+ - 😝 [Pickpocket group operates in broad daylight in Rome](http://9gag.com/gag/aE066R9)
+ - 💣 [The modern audience failed to show up again](http://9gag.com/gag/a7oOOwq)
+ - 😝 [Fourth paycheck needed](http://9gag.com/gag/a876736)
+ - 👉 [\u2800\u2800\u2800](http://9gag.com/gag/aQzvgd8)<!-- MEMES:END -->
 
 ---
 

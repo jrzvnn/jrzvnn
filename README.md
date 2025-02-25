@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [This is so satisfying to watch](http://9gag.com/gag/a5Q6wVN)
+ - 😝 [Why are you laughing Lena?](http://9gag.com/gag/aXPMPP2)
+ - 😝 [\u2800\u2800\u2800](http://9gag.com/gag/aQzvgd8)
+ - 💣 [BMW Marketing Department](http://9gag.com/gag/aAy6Q70)
  - 😝 [Different country, same people](http://9gag.com/gag/aE066WK)
- - 💣 [Pickpocket group operates in broad daylight in Rome](http://9gag.com/gag/aE066R9)
- - 😝 [Selling dandruff](http://9gag.com/gag/a7oO0pA)
- - 👉 [Victim card denied](http://9gag.com/gag/aVvogqO)<!-- MEMES:END -->
+ - 👉 [That cut to her is priceless](http://9gag.com/gag/aO8e2MD)<!-- MEMES:END -->
 
 ---
 

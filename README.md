@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [YouTube will show fewer mid-roll ads that interrupt sentences or action sequences, and more ads at &quot;natural break points&quot; like transitions, starting May 12 &lpar;Wes Davis/The Verge&rpar;](http://www.techmeme.com/250225/p45#a250225p45)
+ - [A Twitch channel called Claude Plays Pok&amp;eacute;mon is streaming Claude 3.7 Sonnet using its reasoning capabilities to play a game of Pok&amp;eacute;mon Red &lpar;Amanda Silberling/TechCrunch&rpar;](http://www.techmeme.com/250225/p46#a250225p46)
  - [Coupang reports Q4 revenue up 21% YoY to $7.97B, vs. $8.08B est., and operating income of $312M, vs. $167.8M est.; CPNG jumps 5%+ after hours &lpar;Yoolim Lee/Bloomberg&rpar;](http://www.techmeme.com/250225/p44#a250225p44)
  - [Super Micro files its delayed financial results with the US SEC just in time to meet the Nasdaq&#39;s listing deadline; SMCI jumps 16%+ after hours &lpar;Kif Leswing/CNBC&rpar;](http://www.techmeme.com/250225/p43#a250225p43)
- - [Tim Cook says Apple&#39;s DEI program may change in the future, but only if required by law](https://appleinsider.com/articles/25/02/25/tim-cook-says-apples-dei-program-may-change-in-the-future-but-only-if-required-by-law?utm_medium=rss)
- - [Apple is fixing a voice dictation bug that substitutes ‘Trump’ for ‘racist’](https://www.theverge.com/news/619434/apple-fixing-voice-transcription-bug-trump-racist)
- - [Trump’s first 100 days: all the news affecting the tech industry](https://www.theverge.com/24348851/donald-trump-presidency-tech-science-news)<!-- TECH:END -->
+ - [Tim Cook says Apple&#39;s DEI program may change in the future, but only if required by law](https://appleinsider.com/articles/25/02/25/tim-cook-says-apples-dei-program-may-change-in-the-future-but-only-if-required-by-law?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

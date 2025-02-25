@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Dow Jones CEO Almar Latour says Factiva&#39;s AI marketplace for publishers to license their content to corporations now has nearly 5,000 publishing partners &lpar;Sara Fischer/Axios&rpar;](http://www.techmeme.com/250225/p28#a250225p28)
+ - [From ChatGPT to Gemini: how AI is rewriting the internet](https://www.theverge.com/23610427/chatbots-chatgpt-new-bing-google-bard-conversational-ai)
+ - [Dassault Systemes reveals Apple Vision Pro apps for product design and manufacturing](https://appleinsider.com/articles/25/02/25/dassault-systemes-reveals-apple-vision-pro-apps-for-product-design-and-manufacturing?utm_medium=rss)
  - [Framework’s first tiny Desktop beautifully straddles the line between cute and badass](https://www.theverge.com/news/618785/framework-desktop-annoucement-price-release-date)
- - [Framework wants to fix the budget laptop with its first touchscreen machine](https://www.theverge.com/news/618784/framework-laptop-12-touchscreen-convertible-announcement-release-date)
- - [Longer-lasting laptops: the modular hardware you can upgrade and repair yourself](https://www.theverge.com/24190757/modular-laptops-repairable-upgradable-diy)
- - [The Framework Laptop 13 has just been upgraded to AMD’s Strix Point](https://www.theverge.com/news/618769/framework-laptop-13-2025-amd-ryzen-ai-300-strix-point)
- - [Trump’s first 100 days: all the news affecting the tech industry](https://www.theverge.com/24348851/donald-trump-presidency-tech-science-news)<!-- TECH:END -->
+ - [Framework wants to fix the budget laptop with its first touchscreen machine](https://www.theverge.com/news/618784/framework-laptop-12-touchscreen-convertible-announcement-release-date)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

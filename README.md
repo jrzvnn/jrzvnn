@@ -166,9 +166,9 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Well women wanted it](http://9gag.com/gag/aE06V39)
- - 😝 [That star wars play tho..](http://9gag.com/gag/azxdPVq)
- - 💣 [Title](http://9gag.com/gag/aqyX6Q7)
+ - 😝 [Title](http://9gag.com/gag/aqyX6Q7)
+ - 😝 [When you&#39;re mad, but still love your partner](http://9gag.com/gag/a6ZXnwL)
+ - 💣 [When you come to your bestfriend&#39;s house, meet his mom, and suddenly feel HUNGRY](http://9gag.com/gag/a9y68MD)
  - 😝 [They&#39;re evolving](http://9gag.com/gag/a5Q6wjO)
  - 👉 [Naruto run](http://9gag.com/gag/a9y6vmZ)<!-- MEMES:END -->
 

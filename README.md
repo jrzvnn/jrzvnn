@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Apple AirTag 4-pack falls to $67.99, lowest price of 2025](https://appleinsider.com/articles/25/02/25/apple-airtag-4-pack-falls-to-6799-lowest-price-of-2025?utm_medium=rss)
+ - [This Refinery Wants to Make Sustainable Aviation Fuel Mainstream. Trump’s Cuts Could Kill It](https://www.wired.com/story/refinery-saf-sustainable-fuel-rollout-problem/)
  - [Silent Hill 2 developer is working with Konami on a mystery game](https://www.theverge.com/news/618910/bloober-team-konami-new-game-silent-hill-2)
  - [Israeli startup Quantum Machines, which offers hardware tools to other quantum computing companies, raised a $170M Series C led by PSG Equity &lpar;Ingrid Lunden/TechCrunch&rpar;](http://www.techmeme.com/250225/p22#a250225p22)
- - [We can’t quit electric cars — or robotaxis](https://www.theverge.com/the-vergecast/618904/electric-cars-robotaxis-activitypub-fediverse-vergecast)
- - [Adobe launches an updated Photoshop app for iOS, including many design, editing, and AI tools from the desktop app; an Android app is coming &quot;later this year&quot; &lpar;Jess Weatherbed/The Verge&rpar;](http://www.techmeme.com/250225/p21#a250225p21)
- - [Trek FX+ 7S Review: Wonderful Upgrades, High Price](https://www.wired.com/review/trek-fx-7s-electric-bike/)<!-- TECH:END -->
+ - [We can’t quit electric cars — or robotaxis](https://www.theverge.com/the-vergecast/618904/electric-cars-robotaxis-activitypub-fediverse-vergecast)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

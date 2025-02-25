@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Sources: Indonesia and Apple have agreed to lift the iPhone 16 ban, with Apple set to invest $1B; a memorandum of agreement may be signed this week &lpar;Faris Mokhtar/Bloomberg&rpar;](http://www.techmeme.com/250225/p3#a250225p3)
+ - [Everything you need to know about Disney, ESPN, and Bob Iger’s return as CEO](https://www.theverge.com/2024/4/18/24120911/disney-plus-streaming-espn-mcu-star-wars)
+ - [LegalZoom Promo Code: Exclusive 10% Off LLC Formations](https://www.wired.com/story/legalzoom-promo-code/)
  - [Sources: left-leaning staff at Meta, Apple, Google, and Amazon mostly stayed silent on their CEOs attending Trump&#39;s inauguration due to a less secure job market &lpar;Financial Times&rpar;](http://www.techmeme.com/250225/p2#a250225p2)
- - [Tesla starts rolling out a software update enabling driver-assistance features, similar to Full Self-Driving in the US, for Chinese customers who paid $8,800 &lpar;Bloomberg&rpar;](http://www.techmeme.com/250225/p1#a250225p1)
- - [Save up to $250 instantly on these M4 iPad Pros](https://appleinsider.com/articles/25/02/25/save-up-to-250-instantly-on-these-m4-ipad-pros?utm_medium=rss)
- - [Today&#39;s NYT Mini Crossword Answers for Tuesday, Feb. 25](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-tuesday-feb-25/#ftag=CAD590a51e)
- - [Over 1,000 musicians, including Kate Bush, &quot;co-write&quot; a &quot;silent&quot; album to protest a UK proposal letting AI train on their copyrighted work if they don&#39;t opt out &lpar;Dan Milmo/The Guardian&rpar;](http://www.techmeme.com/250224/p34#a250224p34)<!-- TECH:END -->
+ - [Tesla starts rolling out a software update enabling driver-assistance features, similar to Full Self-Driving in the US, for Chinese customers who paid $8,800 &lpar;Bloomberg&rpar;](http://www.techmeme.com/250225/p1#a250225p1)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [When god sets graphics to low](http://9gag.com/gag/aYQEOW0)
+ - 😝 [Father of epidermolysis- bullosa son answers question related to his son\u2019s condition](http://9gag.com/gag/ae91Zop)
+ - 💣 [\u2800\u2800\u2800](http://9gag.com/gag/aQzvgd8)
  - 😝 [This 11 year old German girl spotting the difference between 2circles with dots almost instantly](http://9gag.com/gag/an7Rn25)
- - 😝 [Bro was almost pepsi](http://9gag.com/gag/a876m8d)
- - 💣 [86 year old movie](http://9gag.com/gag/aLnzLDV)
- - 😝 [The ending is a meme potential](http://9gag.com/gag/an7RvjE)
- - 👉 [This is what Italian sounds like](http://9gag.com/gag/aKGAWmg)<!-- MEMES:END -->
+ - 👉 [I have seen this story before](http://9gag.com/gag/aKGAv4b)<!-- MEMES:END -->
 
 ---
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [IBM plans to acquire DataStax and its cloud database development platform to expand IBM&#39;s Watsonx AI portfolio; Crunchbase: DataStax has raised $342.6M &lpar;Rick Whiting/CRN&rpar;](http://www.techmeme.com/250225/p41#a250225p41)
- - [Instacart reports Q4 revenue up 10% YoY to $883M, missing estimates, and forecasts Q1 adjusted EBITDA below estimates; CART drops 10%+ after hours &lpar;Natalie Lung/Bloomberg&rpar;](http://www.techmeme.com/250225/p40#a250225p40)
- - [Warner Bros. Games shuts down three game studios and pulls the plug on a Wonder Woman game that had been in development for over three years &lpar;Todd Spangler/Variety&rpar;](http://www.techmeme.com/250225/p39#a250225p39)
- - [How to secure your phone before attending a protest](https://www.theverge.com/21276979/phone-protest-demonstration-activism-digital-how-to-security-privacy)
- - [Users reported that Apple&#39;s automatic dictation system was transcribing the word &quot;racist&quot; as &quot;Trump&quot;, before correcting itself; Apple says it&#39;s working on a fix &lpar;New York Times&rpar;](http://www.techmeme.com/250225/p38#a250225p38)<!-- TECH:END -->
+ - [Super Micro files its delayed financial results with the US SEC just in time to meet the Nasdaq&#39;s listing deadline; SMCI jumps 16%+ after hours &lpar;Kif Leswing/CNBC&rpar;](http://www.techmeme.com/250225/p43#a250225p43)
+ - [Tim Cook says Apple&#39;s DEI program may change in the future, but only if required by law](https://appleinsider.com/articles/25/02/25/tim-cook-says-apples-dei-program-may-change-in-the-future-but-only-if-required-by-law?utm_medium=rss)
+ - [Apple is fixing a voice dictation bug that substitutes ‘Trump’ for ‘racist’](https://www.theverge.com/news/619434/apple-fixing-voice-transcription-bug-trump-racist)
+ - [Trump’s first 100 days: all the news affecting the tech industry](https://www.theverge.com/24348851/donald-trump-presidency-tech-science-news)
+ - [WBD closes three game studios and cancels a highly anticipated Wonder Woman title in a bid to boost the profitability of its interactive entertainment business &lpar;Jason Schreier/Bloomberg&rpar;](http://www.techmeme.com/250225/p42#a250225p42)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Google releases its free Gemini Code Assist globally in public preview for solo developers, with 180K code completions per month; GitHub Copilot offers 2,000 &lpar;Jess Weatherbed/The Verge&rpar;](http://www.techmeme.com/250225/p12#a250225p12)
+ - [Thoma Bravo closed a &amp;euro;1.8B fund for European software deals, after opening a London office in 2023; the US PE firm has deployed &amp;euro;14B in Europe since 2010 &lpar;Financial Times&rpar;](http://www.techmeme.com/250225/p11#a250225p11)
  - [Nasscom expects India&#39;s tech sector revenue to grow 5.1% to $282.6B in fiscal 2025, up from 4% growth in 2024, with software exports set to rise 4.6% to $224.4B &lpar;Reuters&rpar;](http://www.techmeme.com/250225/p10#a250225p10)
  - [This Russian Tech Bro Helped Steal $93 Million and Landed in US Prison. Then Putin Called](https://www.wired.com/story/russian-prisoner-swap-vladislav-klyushin-evan-gershkovich/)
- - [Google Gemini’s AI coding tool is now free for individual users](https://www.theverge.com/news/618839/google-gemini-ai-code-assist-free-individuals-availability)
- - [Best Internet Providers in San Francisco](https://www.cnet.com/home/internet/best-internet-providers-in-san-francisco-ca/#ftag=CAD590a51e)
- - [Bitcoin falls below $90K, its lowest level since mid-November 2024, as the rally that followed Trump&#39;s election fades; ETH, XRP, SOL, and more also fell sharply &lpar;Suvashree Ghosh/Bloomberg&rpar;](http://www.techmeme.com/250225/p9#a250225p9)<!-- TECH:END -->
+ - [Google Gemini’s AI coding tool is now free for individual users](https://www.theverge.com/news/618839/google-gemini-ai-code-assist-free-individuals-availability)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

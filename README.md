@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [Cool Visual](http://9gag.com/gag/ae9110p)
+ - 😝 [In \u201cEl Camino\u201d &lpar;2019&rpar; There are several scenes were the characters seem much larger. This is because the original show ended 6 years ago and everyone got fat off that Breaking Bad money.](http://9gag.com/gag/a345AqQ)
+ - 💣 [Free big Mac](http://9gag.com/gag/aAy6E9R)
  - 😝 [BMW Marketing Department](http://9gag.com/gag/aAy6Q70)
- - 😝 [This 11 year old German girl spotting the difference between 2circles with dots almost instantly](http://9gag.com/gag/an7Rn25)
- - 💣 [That cut to her is priceless](http://9gag.com/gag/aO8e2MD)
- - 😝 [Current state of tinder](http://9gag.com/gag/a5Q6wPr)
- - 👉 [I have seen this story before](http://9gag.com/gag/aKGAv4b)<!-- MEMES:END -->
+ - 👉 [That cut to her is priceless](http://9gag.com/gag/aO8e2MD)<!-- MEMES:END -->
 
 ---
 

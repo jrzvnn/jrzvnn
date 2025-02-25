@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [They&#39;re evolving](http://9gag.com/gag/a5Q6wjO)
- - 😝 [The future is now, old man...](http://9gag.com/gag/a6ZX9Wq)
- - 💣 [Title](http://9gag.com/gag/aqyX6Q7)
- - 😝 [Spaniards march with pork sausages in street courses in Madrid, new traditions](http://9gag.com/gag/a1mNDzw)
- - 👉 [Well women wanted it](http://9gag.com/gag/aE06V39)<!-- MEMES:END -->
+ - 😝 [Pickpocket group operates in broad daylight in Rome](http://9gag.com/gag/aE066R9)
+ - 😝 [Escalation at its finest!](http://9gag.com/gag/a5Q6B5L)
+ - 💣 [Cool Visual](http://9gag.com/gag/ae9110p)
+ - 😝 [That cut to her is priceless](http://9gag.com/gag/aO8e2MD)
+ - 👉 [Current state of tinder](http://9gag.com/gag/a5Q6wPr)<!-- MEMES:END -->
 
 ---
 

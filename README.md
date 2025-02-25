@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [The ending is a meme potential](http://9gag.com/gag/an7RvjE)
- - 😝 [Father of epidermolysis- bullosa son answers question related to his son\u2019s condition](http://9gag.com/gag/ae91Zop)
- - 💣 [\u2800\u2800\u2800](http://9gag.com/gag/aQzvgd8)
- - 😝 [Pickpocket group operates in broad daylight in Rome](http://9gag.com/gag/aE066R9)
- - 👉 [I don\u2019t necessarily agree, but I 100% understand.](http://9gag.com/gag/azxdKGp)<!-- MEMES:END -->
+ - 😝 [Looks up!](http://9gag.com/gag/a5Q6Bgg)
+ - 😝 [It&#39;s a myth](http://9gag.com/gag/aND9v2A)
+ - 💣 [They&#39;re evolving](http://9gag.com/gag/a5Q6wjO)
+ - 😝 [Most professional cartoon rivals](http://9gag.com/gag/aZZ1Qn9)
+ - 👉 [When you&#39;re mad, but still love your partner](http://9gag.com/gag/a6ZXnwL)<!-- MEMES:END -->
 
 ---
 

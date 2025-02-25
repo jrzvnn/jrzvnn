@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [SCOTUS has again denied a challenge from the telecom industry of NY&#39;s $15 basic broadband law, as more states including CA, VT, and MA propose similar laws &lpar;Jon Brodkin/Ars Technica&rpar;](http://www.techmeme.com/250225/p30#a250225p30)
- - [8BitDo’s Ultimate 2 controller gets an upgrade to next-generation anti-drift sticks](https://www.theverge.com/news/619229/8bitdo-ultimate-2-wireless-controller-tmr-anti-drift-joysticks)
- - [A look at Claude 3.7 Sonnet&#39;s extended thinking mode and its 128K token output limit; long thinking runs are impressive but can take several minutes to complete &lpar;Simon Willison/Simon Willison&#39;s Weblog&rpar;](http://www.techmeme.com/250225/p29#a250225p29)
- - [Technicolor is winding down operations](https://www.theverge.com/entertainment/619188/technicolor-administration-receivership-layoffs)
- - [A Team of Female Founders Is Launching Cloud Security Tech That Could Overhaul AI Protection](https://www.wired.com/story/edera-cloud-tech-security/)<!-- TECH:END -->
+ - [OpenAI rolls out Deep Research to Plus, Team, Edu, and Enterprise users, a month after launching it to Pro subs; Plus users get 10 Deep Research queries/month &lpar;Igor Bonifacic/Engadget&rpar;](http://www.techmeme.com/250225/p32#a250225p32)
+ - [Apple&#39;s $500 billion US investment announcement is business as usual](https://appleinsider.com/articles/25/02/25/apples-500-billion-us-investment-announcement-is-business-as-usual?utm_medium=rss)
+ - [A US judge says Meta must face a potential class action lawsuit claiming it prefers cheaper foreign workers over US citizen job applicants, citing Meta&#39;s stats &lpar;Jonathan Stempel/Reuters&rpar;](http://www.techmeme.com/250225/p31#a250225p31)
+ - [The 53 Best Shows on Disney+ Right Now &lpar;March 2025&rpar;](https://www.wired.com/story/best-shows-disney-plus/)
+ - [New firmware available for AirPods Max with Lightning port](https://appleinsider.com/articles/25/02/25/new-firmware-available-for-airpods-max-with-lightning-port?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Dark Horse is shutting down its iOS comics app](https://www.theverge.com/news/619143/dark-horse-comics-app-shutting-down)
+ - [Microsoft rolls out unlimited access to Voice and Think Deeper, powered by Open AI&#39;s o1 model, to all Copilot users for free &lpar;Tom Warren/The Verge&rpar;](http://www.techmeme.com/250225/p26#a250225p26)
  - [Apple&#39;s board gets the DEI and AI results it wanted at the annual shareholders meeting](https://appleinsider.com/articles/25/02/25/apples-board-gets-what-it-wants-at-the-annual-shareholders-meeting?utm_medium=rss)
  - [Something Unexpected Is Spewing Stars Into the Milky Way](https://www.wired.com/story/large-magellanic-cloud-supermassive-black-hole/)
- - [Microsoft makes Copilot Voice and Think Deeper free with unlimited use](https://www.theverge.com/news/619199/microsoft-copilot-free-unlimited-voice-think-deeper-open-ai-o1-reasoning-model-ai)
- - [Resignation letter: 21 DOGE staffers, who previously worked at the USDS, say they won&#39;t use their technical expertise to &quot;dismantle critical public services&quot; &lpar;Associated Press&rpar;](http://www.techmeme.com/250225/p25#a250225p25)
- - [Chegg sues Google over AI Overviews](https://www.theverge.com/news/619051/chegg-google-ai-overviews-monopoly)<!-- TECH:END -->
+ - [Microsoft makes Copilot Voice and Think Deeper free with unlimited use](https://www.theverge.com/news/619199/microsoft-copilot-free-unlimited-voice-think-deeper-open-ai-o1-reasoning-model-ai)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

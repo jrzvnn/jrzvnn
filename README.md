@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Every single time...](http://9gag.com/gag/aYQEPAx)
- - 😝 [When you&#39;re mad, but still love your partner](http://9gag.com/gag/a6ZXnwL)
- - 💣 [They&#39;re evolving](http://9gag.com/gag/a5Q6wjO)
- - 😝 [When you come to your bestfriend&#39;s house, meet his mom, and suddenly feel HUNGRY](http://9gag.com/gag/a9y68MD)
- - 👉 [When you&#39;re mad at him but he&#39;s actually funny](http://9gag.com/gag/aGynn3Z)<!-- MEMES:END -->
+ - 😝 [The most Legendary penalty kick of all time](http://9gag.com/gag/aRB4z72)
+ - 😝 [I have seen this story before](http://9gag.com/gag/aKGAv4b)
+ - 💣 [Grandpa enjoys his coffee very much!](http://9gag.com/gag/aBy6PAD)
+ - 😝 [New Self defence style](http://9gag.com/gag/a9y68mL)
+ - 👉 [This 11 year old German girl spotting the difference between 2circles with dots almost instantly](http://9gag.com/gag/an7Rn25)<!-- MEMES:END -->
 
 ---
 

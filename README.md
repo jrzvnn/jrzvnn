@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [YouTube will show fewer ads in ‘interruptive’ slots](https://www.theverge.com/news/618880/youtube-ad-break-update-mid-roll-interrupt-video)
- - [The Casio Ring Watch is extremely silly, and that&amp;#8217;s why I love it](https://www.theverge.com/reviews/618918/casio-crw001-ring-watch-review-wearable)
- - [How AI PCs are removing barriers to workplace connection](https://www.theverge.com/ad/605083/lenovo-ai-pcs-remove-barriers-to-workplace-connection)
- - [GIGABYTE’s latest AI motherboards push gaming performance forward](https://www.theverge.com/ad/600816/gigabyte-latest-ai-motherboards-gaming-performance-b800-series)
- - [No, Even the Best Wi-Fi Extender Isn’t Worth Your Time &lpar;2025&rpar;](https://www.wired.com/story/best-wi-fi-extenders/)<!-- TECH:END -->
+ - [Xbox’s new Fable game is delayed to 2026](https://www.theverge.com/news/619046/microsoft-xbox-fable-game-delay-2026)
+ - [This RC purse redefines fast fashion with a top speed of 9 mph](https://www.theverge.com/news/613091/nik-bentel-studio-rc-car-bag-remote-control-fashion)
+ - [The Peloton story: everything you need to know](https://www.theverge.com/24025034/peloton-bike-treadmill-connected-fitness-news)
+ - [Ron Wyden asks for rules about whether you own your digital purchases](https://www.theverge.com/news/618614/senator-ron-wyden-ftc-andrew-ferguson-digital-goods-ownership)
+ - [YouTube will show fewer ads in ‘interruptive’ slots](https://www.theverge.com/news/618880/youtube-ad-break-update-mid-roll-interrupt-video)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

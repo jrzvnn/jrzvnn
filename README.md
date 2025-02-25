@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [No, Apple isn&#39;t subliminally calling Trump a racist with its iPhone dictation feature](https://appleinsider.com/articles/25/02/25/no-apple-isnt-subliminally-calling-trump-a-racist-with-its-iphone-dictation-feature?utm_medium=rss)
  - [Sonos speakers and soundbars are 25 percent off for existing customers](https://www.theverge.com/good-deals/618989/sonos-beam-ace-era-100-deal-sale)
  - [The US chip situation is precarious and requires bold moves like ending the China chip ban and building more trailing edge fabs in the US &lpar;Ben Thompson/Stratechery&rpar;](http://www.techmeme.com/250225/p37#a250225p37)
  - [Xbox Cloud Gaming will let you invite friends with just a link](https://www.theverge.com/news/619288/xbox-cloud-gaming-invite-link-sharing-february-update)
- - [Uniswap Labs says the US SEC has closed its probe into the company and will not file enforcement actions, after the SEC dropped OpenSea and Robinhood probes &lpar;Cheyenne Ligon/CoinDesk&rpar;](http://www.techmeme.com/250225/p36#a250225p36)
- - [Infinity Nikki&amp;#8217;s spooky new event will put my cheapskate skills to the test](https://www.theverge.com/news/619372/infinity-nikki-eerie-season-event-march-2025)<!-- TECH:END -->
+ - [Uniswap Labs says the US SEC has closed its probe into the company and will not file enforcement actions, after the SEC dropped OpenSea and Robinhood probes &lpar;Cheyenne Ligon/CoinDesk&rpar;](http://www.techmeme.com/250225/p36#a250225p36)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

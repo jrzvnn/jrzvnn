@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [When you marry a gamer](http://9gag.com/gag/aD267Ax)
- - 😝 [Selling dandruff](http://9gag.com/gag/a7oO0pA)
- - 💣 [Escalation at its finest!](http://9gag.com/gag/a5Q6B5L)
- - 😝 [\u201cIt was an accident, bro\u201d](http://9gag.com/gag/aoy3Rx0)
- - 👉 [When god sets graphics to low](http://9gag.com/gag/aYQEOW0)<!-- MEMES:END -->
+ - 😝 [Stability test](http://9gag.com/gag/aGynnvn)
+ - 😝 [Interactions with cops when your name is \u201cJames Bond\u201d](http://9gag.com/gag/amo11X4)
+ - 💣 [When god sets graphics to low](http://9gag.com/gag/aYQEOW0)
+ - 😝 [Different country, same people](http://9gag.com/gag/aE066WK)
+ - 👉 [Current state of tinder](http://9gag.com/gag/a5Q6wPr)<!-- MEMES:END -->
 
 ---
 

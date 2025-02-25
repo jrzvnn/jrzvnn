@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Motorola Moto G Power 2025 Review: Nearly There](https://www.wired.com/review/motorola-moto-g-power-2025/)
+ - [Best Tested Walking Pads &lpar;2025&rpar;: Sperax, WalkingPad, Egofit](https://www.wired.com/story/best-walking-pads/)
+ - [Activision confirms on Call of Duty: Black Ops 6&#39;s Steam page that it &quot;uses generative AI tools to help develop some in game assets&quot;, after fan speculation &lpar;Brad Norton/Dexerto&rpar;](http://www.techmeme.com/250225/p19#a250225p19)
  - [Susan Kare&#39;s Esc Keys add pricey art to your keyboard](https://appleinsider.com/articles/25/02/25/susan-kares-esc-keys-add-pricey-art-to-your-keyboard?utm_medium=rss)
- - [‘Tesla Takedown’ wants to hit Elon Musk where it hurts](https://www.theverge.com/tesla/618572/tesla-takedown-wants-to-hit-elon-musk-where-it-hurts)
- - [DeepSeek reopens API top-ups after suspending them on February 6 due to demand, as Alibaba previews its QwQ-Max model and the Chinese AI rivalry escalates &lpar;Bloomberg&rpar;](http://www.techmeme.com/250225/p18#a250225p18)
- - [New leaks suggest Samsung’s Z Fold 7 is getting much thinner](https://www.theverge.com/news/618855/samsung-galaxy-z-fold-7-leaks-renders-thin-onleaks)
- - [Sources: Tencent, Alibaba, ByteDance, and other Chinese companies are ramping up orders for Nvidia&#39;s H20 AI chip due to booming demand for DeepSeek&#39;s models &lpar;Reuters&rpar;](http://www.techmeme.com/250225/p17#a250225p17)<!-- TECH:END -->
+ - [‘Tesla Takedown’ wants to hit Elon Musk where it hurts](https://www.theverge.com/tesla/618572/tesla-takedown-wants-to-hit-elon-musk-where-it-hurts)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

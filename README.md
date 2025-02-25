@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [After backlash, YC deletes a demo video from X and LinkedIn of a startup it backs that says it&#39;s building AI-powered performance monitoring for factory workers &lpar;Charles Rollet/TechCrunch&rpar;](http://www.techmeme.com/250225/p50#a250225p50)
  - [Apple&#39;s smart doorbell to utilize MagSafe, ring AirPods Pro](https://appleinsider.com/articles/25/02/25/apples-smart-doorbell-to-utilize-magsafe-ring-airpods-pro?utm_medium=rss)
  - [A survey of US workers in October 2024: 52% are worried about AI&#39;s workplace impact, 32% think it will mean fewer job opportunities, 36% feel hopeful, and more &lpar;Pew Research Center&rpar;](http://www.techmeme.com/250225/p49#a250225p49)
  - [A US district judge rules Trump Media and Rumble do not need to remove US-based accounts of a top Jair Bolsonaro supporter, despite a Brazilian judge&#39;s order &lpar;Jonathan Stempel/Reuters&rpar;](http://www.techmeme.com/250225/p48#a250225p48)
- - [Trump’s first 100 days: all the news affecting the tech industry](https://www.theverge.com/24348851/donald-trump-presidency-tech-science-news)
- - [We finally know who’s legally running DOGE](https://www.theverge.com/news/619412/doge-acting-administrator-amy-gleason-named)<!-- TECH:END -->
+ - [Trump’s first 100 days: all the news affecting the tech industry](https://www.theverge.com/24348851/donald-trump-presidency-tech-science-news)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

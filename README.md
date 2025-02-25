@@ -167,10 +167,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [Every single time...](http://9gag.com/gag/aYQEPAx)
- - 😝 [They&#39;re evolving](http://9gag.com/gag/a5Q6wjO)
- - 💣 [When you&#39;re mad, but still love your partner](http://9gag.com/gag/a6ZXnwL)
+ - 😝 [When you&#39;re mad, but still love your partner](http://9gag.com/gag/a6ZXnwL)
+ - 💣 [They&#39;re evolving](http://9gag.com/gag/a5Q6wjO)
  - 😝 [When you come to your bestfriend&#39;s house, meet his mom, and suddenly feel HUNGRY](http://9gag.com/gag/a9y68MD)
- - 👉 [Grandpa enjoys his coffee very much!](http://9gag.com/gag/aBy6PAD)<!-- MEMES:END -->
+ - 👉 [When you&#39;re mad at him but he&#39;s actually funny](http://9gag.com/gag/aGynn3Z)<!-- MEMES:END -->
 
 ---
 

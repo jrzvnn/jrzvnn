@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [IBM plans to acquire DataStax and its cloud database development platform to expand IBM&#39;s Watsonx AI portfolio; Crunchbase: DataStax has raised $342.6M &lpar;Rick Whiting/CRN&rpar;](http://www.techmeme.com/250225/p41#a250225p41)
  - [Instacart reports Q4 revenue up 10% YoY to $883M, missing estimates, and forecasts Q1 adjusted EBITDA below estimates; CART drops 10%+ after hours &lpar;Natalie Lung/Bloomberg&rpar;](http://www.techmeme.com/250225/p40#a250225p40)
  - [Warner Bros. Games shuts down three game studios and pulls the plug on a Wonder Woman game that had been in development for over three years &lpar;Todd Spangler/Variety&rpar;](http://www.techmeme.com/250225/p39#a250225p39)
  - [How to secure your phone before attending a protest](https://www.theverge.com/21276979/phone-protest-demonstration-activism-digital-how-to-security-privacy)
- - [Users reported that Apple&#39;s automatic dictation system was transcribing the word &quot;racist&quot; as &quot;Trump&quot;, before correcting itself; Apple says it&#39;s working on a fix &lpar;New York Times&rpar;](http://www.techmeme.com/250225/p38#a250225p38)
- - [No, Apple isn&#39;t subliminally calling Trump a racist with its iPhone dictation feature](https://appleinsider.com/articles/25/02/25/no-apple-isnt-subliminally-calling-trump-a-racist-with-its-iphone-dictation-feature?utm_medium=rss)<!-- TECH:END -->
+ - [Users reported that Apple&#39;s automatic dictation system was transcribing the word &quot;racist&quot; as &quot;Trump&quot;, before correcting itself; Apple says it&#39;s working on a fix &lpar;New York Times&rpar;](http://www.techmeme.com/250225/p38#a250225p38)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Over 1,000 musicians, including Kate Bush, &quot;co-write&quot; a &quot;silent&quot; album to protest a UK proposal letting AI train on their copyrighted work if they don&#39;t opt out &lpar;Dan Milmo/The Guardian&rpar;](http://www.techmeme.com/250224/p34#a250224p34)
  - [All the news about Nvidia’s RTX 50-series GPUs](https://www.theverge.com/2025/1/25/24351798/nvidia-rtx-5090-5080-5070-gpu-news-rumors)
  - [Nvidia admits some early RTX 5080 cards are missing ROPs, too](https://www.theverge.com/news/618748/nvidia-admits-the-rtx-5080-is-affecte)
  - [Epic v. Apple: Phil Schiller says he initially feared Apple&#39;s 27% App Store fee posed a compliance risk and could create &quot;antagonistic&quot; developer relations &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/250224/p33#a250224p33)
- - [Sources: Trump&#39;s team plans tougher US chip curbs and have met with Dutch and Japanese counterparts, urging them to tighten restrictions on China&#39;s chip sector &lpar;Bloomberg&rpar;](http://www.techmeme.com/250224/p32#a250224p32)
- - [Claude 3.7 and Grok 3 are the first Gen3 AI models with big gains in handling complex tasks, using 10x more compute than GPT-4-class models and better reasoning &lpar;Ethan Mollick/One Useful Thing&rpar;](http://www.techmeme.com/250224/p31#a250224p31)<!-- TECH:END -->
+ - [Sources: Trump&#39;s team plans tougher US chip curbs and have met with Dutch and Japanese counterparts, urging them to tighten restrictions on China&#39;s chip sector &lpar;Bloomberg&rpar;](http://www.techmeme.com/250224/p32#a250224p32)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

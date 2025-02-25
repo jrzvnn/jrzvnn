@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Apple&#39;s board gets what it wants at the annual shareholders meeting](https://appleinsider.com/articles/25/02/25/apples-board-gets-what-it-wants-at-the-annual-shareholders-meeting?utm_medium=rss)
+ - [Our Favorite Internal SSD Is on Sale Right Now](https://www.wired.com/story/wd-black-sn770-deal-february-2025/)
+ - [The UK CMA clears IBM&#39;s $6.4B acquisition of infrastructure software company HashiCorp, 10 months after IBM announced the deal, which needs US FTC approval &lpar;Paul Sawers/TechCrunch&rpar;](http://www.techmeme.com/250225/p24#a250225p24)
  - [Tesla reportedly launches FSD in China — or has it?](https://www.theverge.com/news/619092/tesla-fsd-china-update-falls-short)
- - [DOGE Is Working on Software That Automates the Firing of Government Workers](https://www.wired.com/story/doge-autorif-mass-firing-government-workers/)
- - [Apple investors reject outside shareholder proposals asking the company to cease its DEI efforts and write a report assessing the risks of its work on AI &lpar;Mark Gurman/Bloomberg&rpar;](http://www.techmeme.com/250225/p23#a250225p23)
- - [Clicks’ BlackBerry-style keyboard case is coming to Android phones](https://www.theverge.com/news/617479/clicks-blackberry-keyboard-case-android-motorola-google-pixel-samsung-galaxy-availability)
- - [The new Beeper app combines all of Automattic’s messaging systems](https://www.theverge.com/news/619018/beeper-texts-com-combined-app-update-automattic)<!-- TECH:END -->
+ - [DOGE Is Working on Software That Automates the Firing of Government Workers](https://www.wired.com/story/doge-autorif-mass-firing-government-workers/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

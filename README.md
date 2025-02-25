@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [New York&#39;s law requiring ISPs to offer $15 or $20/month broadband has inspired Vermont, Massachusetts, and California to guarantee affordable internet access &lpar;Jon Brodkin/Ars Technica&rpar;](http://www.techmeme.com/250225/p4#a250225p4)
  - [Longer-lasting laptops: the modular hardware you can upgrade and repair yourself](https://www.theverge.com/24190757/modular-laptops-repairable-upgradable-diy)
  - [AT&amp;T Promo Code: Get a Gift Card Worth Up to $200](https://www.wired.com/story/att-promo-code/)
  - [Sources: Indonesia and Apple have agreed to lift the iPhone 16 ban, with Apple set to invest $1B; a memorandum of agreement may be signed this week &lpar;Faris Mokhtar/Bloomberg&rpar;](http://www.techmeme.com/250225/p3#a250225p3)
- - [Everything you need to know about Disney, ESPN, and Bob Iger’s return as CEO](https://www.theverge.com/2024/4/18/24120911/disney-plus-streaming-espn-mcu-star-wars)
- - [LegalZoom Promo Code: Exclusive 10% Off LLC Formations](https://www.wired.com/story/legalzoom-promo-code/)<!-- TECH:END -->
+ - [Everything you need to know about Disney, ESPN, and Bob Iger’s return as CEO](https://www.theverge.com/2024/4/18/24120911/disney-plus-streaming-espn-mcu-star-wars)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

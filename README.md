@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Looks up!](http://9gag.com/gag/a5Q6Bgg)
- - 😝 [It&#39;s a myth](http://9gag.com/gag/aND9v2A)
- - 💣 [They&#39;re evolving](http://9gag.com/gag/a5Q6wjO)
- - 😝 [Most professional cartoon rivals](http://9gag.com/gag/aZZ1Qn9)
- - 👉 [When you&#39;re mad, but still love your partner](http://9gag.com/gag/a6ZXnwL)<!-- MEMES:END -->
+ - 😝 [I have seen this story before](http://9gag.com/gag/aKGAv4b)
+ - 😝 [Selling dandruff](http://9gag.com/gag/a7oO0pA)
+ - 💣 [Escalation at its finest!](http://9gag.com/gag/a5Q6B5L)
+ - 😝 [The most Legendary penalty kick of all time](http://9gag.com/gag/aRB4z72)
+ - 👉 [Current state of tinder](http://9gag.com/gag/a5Q6wPr)<!-- MEMES:END -->
 
 ---
 

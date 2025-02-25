@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Cool Visual](http://9gag.com/gag/ae9110p)
- - 😝 [In \u201cEl Camino\u201d &lpar;2019&rpar; There are several scenes were the characters seem much larger. This is because the original show ended 6 years ago and everyone got fat off that Breaking Bad money.](http://9gag.com/gag/a345AqQ)
- - 💣 [Free big Mac](http://9gag.com/gag/aAy6E9R)
- - 😝 [BMW Marketing Department](http://9gag.com/gag/aAy6Q70)
- - 👉 [That cut to her is priceless](http://9gag.com/gag/aO8e2MD)<!-- MEMES:END -->
+ - 😝 [Well women wanted it](http://9gag.com/gag/aE06V39)
+ - 😝 [That star wars play tho..](http://9gag.com/gag/azxdPVq)
+ - 💣 [Title](http://9gag.com/gag/aqyX6Q7)
+ - 😝 [They&#39;re evolving](http://9gag.com/gag/a5Q6wjO)
+ - 👉 [Naruto run](http://9gag.com/gag/a9y6vmZ)<!-- MEMES:END -->
 
 ---
 

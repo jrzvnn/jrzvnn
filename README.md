@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Uniswap Labs says the US SEC has closed its probe into the company and will not file enforcement actions, after the SEC dropped OpenSea and Robinhood probes &lpar;Cheyenne Ligon/CoinDesk&rpar;](http://www.techmeme.com/250225/p36#a250225p36)
+ - [Infinity Nikki&amp;#8217;s spooky new event will put my cheapskate skills to the test](https://www.theverge.com/news/619372/infinity-nikki-eerie-season-event-march-2025)
+ - [Framework unveils the Framework Laptop 13 with AMD Ryzen AI 300, priced at $1,099 for a pre-built model, and Framework Laptop 12 with a touch screen, price TBA &lpar;Andrew E. Freedman/Tom&#39;s Hardware&rpar;](http://www.techmeme.com/250225/p35#a250225p35)
  - [Perfect, a startup from the founder of AnyVision that helps job recruiters write and publish job listings and triage responses, raised a $23M seed &lpar;Ingrid Lunden/TechCrunch&rpar;](http://www.techmeme.com/250225/p34#a250225p34)
- - [Framework announces its first desktop PC, the Framework Desktop, which starts at $1,099 and comes with an AMD Ryzen AI Max 385 and 32GB RAM, slated for Q3 2025 &lpar;Andrew Cunningham/Ars Technica&rpar;](http://www.techmeme.com/250225/p33#a250225p33)
- - [OpenAI rolls out Deep Research to Plus, Team, Edu, and Enterprise users, a month after launching it to Pro subs; Plus users get 10 Deep Research queries/month &lpar;Igor Bonifacic/Engadget&rpar;](http://www.techmeme.com/250225/p32#a250225p32)
- - [Apple&#39;s $500 billion US investment announcement is business as usual](https://appleinsider.com/articles/25/02/25/apples-500-billion-us-investment-announcement-is-business-as-usual?utm_medium=rss)
- - [A US judge says Meta must face a potential class action lawsuit claiming it prefers cheaper foreign workers over US citizen job applicants, citing Meta&#39;s stats &lpar;Jonathan Stempel/Reuters&rpar;](http://www.techmeme.com/250225/p31#a250225p31)<!-- TECH:END -->
+ - [Framework announces its first desktop PC, the Framework Desktop, which starts at $1,099 and comes with an AMD Ryzen AI Max 385 and 32GB RAM, slated for Q3 2025 &lpar;Andrew Cunningham/Ars Technica&rpar;](http://www.techmeme.com/250225/p33#a250225p33)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

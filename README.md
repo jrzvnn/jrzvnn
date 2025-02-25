@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The quirky Alarmo clock is no longer exclusive to Nintendo’s online store](https://www.theverge.com/nintendo/618527/nintendo-alarmo-clock-how-to-buy-price-best-buy)
- - [Trump’s first 100 days: all the news affecting the tech industry](https://www.theverge.com/24348851/donald-trump-presidency-tech-science-news)
- - [The government is still threatening to ‘semi-fire’ workers who don’t answer an email from Elon Musk](https://www.theverge.com/news/618603/elon-musk-email-firing-threat-agency-response-donald-trump)
- - [Chegg sues Google, saying AI Overviews hurt its traffic and revenue, as it mulls strategic options including getting acquired; CHGG drops 20%+ after hours &lpar;CNBC&rpar;](http://www.techmeme.com/250224/p28#a250224p28)
- - [Sources: the Elon Musk-directed OPM email asking federal staff about recent work requested no links or attachments as part of a plan to feed responses into AI &lpar;NBC News&rpar;](http://www.techmeme.com/250224/p27#a250224p27)<!-- TECH:END -->
+ - [Epic Games v. Apple: the fight for the future of the App Store](https://www.theverge.com/2021/4/29/22410877/epic-games-apple-app-store-antitrust-trial-lawsuit-news)
+ - [Musk&#39;s xAI Launches Grok 3: Here&#39;s What You Need to Know](https://www.cnet.com/tech/services-and-software/musks-xai-launches-grok-3-heres-what-you-need-to-know/#ftag=CAD590a51e)
+ - [How Do You Pronounce Elon Musk&#39;s Son&#39;s Name, &#39;X Æ A-12&#39;?](https://www.cnet.com/tech/how-to-pronounce-elon-musk-sons-name-x-ae-a-12-white-house-appearance/#ftag=CAD590a51e)
+ - [DoorDash agrees to pay $16.75M to settle a lawsuit by NY&#39;s AG accusing it of pocketing customers&#39; tips for delivery drivers between May 2017 and September 2019 &lpar;Brendan Pierson/Reuters&rpar;](http://www.techmeme.com/250224/p29#a250224p29)
+ - [Blue 211i Max air purifier review: An increasingly necessary smart home accessory](https://appleinsider.com/articles/25/02/25/blue-211i-max-air-purifier-review-an-increasingly-necessary-smart-home-accessory?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

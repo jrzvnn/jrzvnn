@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Employee screening company DISA confirms a data breach in February 2024, found in April 2024, affecting 3.3M+ people and including Social Security numbers &lpar;Carly Page/TechCrunch&rpar;](http://www.techmeme.com/250225/p15#a250225p15)
- - [Sources: Italy wants to replace STMicro CEO Jean-Marc Ch&amp;eacute;ry for poor performance, as the Franco-Italian chipmaker struggles to navigate a slump in chip demand &lpar;Bloomberg&rpar;](http://www.techmeme.com/250225/p14#a250225p14)
- - [After a Violent Kidnapping, Crypto Elites Hire Bodyguards](https://www.wired.com/story/after-a-violent-kidnapping-crypto-elites-hire-bodyguards/)
- - [Three years later, the Steam Deck has dominated handheld PC gaming](https://www.theverge.com/pc-gaming/618709/steam-deck-3-year-anniversary-handheld-gaming-shipments-idc)
- - [Best Internet Providers in Sugar Land, Texas](https://www.cnet.com/home/internet/best-internet-providers-in-sugar-land-tx/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Leaked renders suggest Samsung’s Z Fold 7 is getting much thinner](https://www.theverge.com/news/618855/samsung-galaxy-z-fold-7-leaks-renders-thin-onleaks)
+ - [Sources: Tencent, Alibaba, ByteDance, and other Chinese companies are ramping up orders for Nvidia&#39;s H20 AI chip due to booming demand for DeepSeek&#39;s models &lpar;Reuters&rpar;](http://www.techmeme.com/250225/p17#a250225p17)
+ - [Ads Popped Up on Drivers&#39; Screens. There May Be More on the Way](https://www.wired.com/story/ads-popped-up-on-drivers-screens-there-may-be-more-on-the-way/)
+ - [Baidu acquires the YY Live streaming platform from Joyy for $2.1B, completing a deal started in 2020; a previous $3.6B deal was rejected by Chinese regulators &lpar;Vlad Savov/Bloomberg&rpar;](http://www.techmeme.com/250225/p16#a250225p16)
+ - [Employee screening company DISA confirms a data breach in February 2024, found in April 2024, affecting 3.3M+ people and including Social Security numbers &lpar;Carly Page/TechCrunch&rpar;](http://www.techmeme.com/250225/p15#a250225p15)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

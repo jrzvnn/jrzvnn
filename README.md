@@ -166,10 +166,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [The most Legendary penalty kick of all time](http://9gag.com/gag/aRB4z72)
+ - 😝 [How to starve a croc](http://9gag.com/gag/aVvoKKK)
  - 😝 [I have seen this story before](http://9gag.com/gag/aKGAv4b)
- - 💣 [Grandpa enjoys his coffee very much!](http://9gag.com/gag/aBy6PAD)
- - 😝 [New Self defence style](http://9gag.com/gag/a9y68mL)
+ - 💣 [New Self defence style](http://9gag.com/gag/a9y68mL)
+ - 😝 [Father of epidermolysis- bullosa son answers question related to his son\u2019s condition](http://9gag.com/gag/ae91Zop)
  - 👉 [This 11 year old German girl spotting the difference between 2circles with dots almost instantly](http://9gag.com/gag/an7Rn25)<!-- MEMES:END -->
 
 ---

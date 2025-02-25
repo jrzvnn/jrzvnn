@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Utah, South Carolina, and at least seven other US states recently proposed bills to require app store operators to check user ages, a move supported by Meta &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/250225/p20#a250225p20)
- - [Motorola Moto G Power 2025 Review: Nearly There](https://www.wired.com/review/motorola-moto-g-power-2025/)
- - [Best Tested Walking Pads &lpar;2025&rpar;: Sperax, WalkingPad, Egofit](https://www.wired.com/story/best-walking-pads/)
- - [Activision confirms on Call of Duty: Black Ops 6&#39;s Steam page that it &quot;uses generative AI tools to help develop some in game assets&quot;, after fan speculation &lpar;Brad Norton/Dexerto&rpar;](http://www.techmeme.com/250225/p19#a250225p19)
- - [Susan Kare&#39;s Esc Keys add pricey art to your keyboard](https://appleinsider.com/articles/25/02/25/susan-kares-esc-keys-add-pricey-art-to-your-keyboard?utm_medium=rss)<!-- TECH:END -->
+ - [Adobe launches an updated Photoshop app for iOS, including many design, editing, and AI tools from the desktop app; an Android app is coming &quot;later this year&quot; &lpar;Jess Weatherbed/The Verge&rpar;](http://www.techmeme.com/250225/p21#a250225p21)
+ - [Trek FX+ 7S Review: Wonderful Upgrades, High Price](https://www.wired.com/review/trek-fx-7s-electric-bike/)
+ - [After years of requests from creatives, Adobe finally brings Photoshop to iPhone](https://appleinsider.com/articles/25/02/25/after-years-of-requests-from-creatives-adobe-finally-brings-photoshop-to-iphone?utm_medium=rss)
+ - [Trello’s new update helps you manage Slack, email, and everything else](https://www.theverge.com/news/618349/trello-app-ai-inbox)
+ - [Adobe’s new Photoshop app for iPhone is more like the real thing](https://www.theverge.com/news/618859/adobe-photoshop-mobile-iphone-android-app-availability)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

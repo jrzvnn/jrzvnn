@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [That cut to her is priceless](http://9gag.com/gag/aO8e2MD)
- - 😝 [When god sets graphics to low](http://9gag.com/gag/aYQEOW0)
- - 💣 [Customer Service](http://9gag.com/gag/awy3yqD)
- - 😝 [Behold! THE POWER OF THE SUUUUN!](http://9gag.com/gag/aKGAvwb)
- - 👉 [The modern audience failed to show up again](http://9gag.com/gag/a7oOOwq)<!-- MEMES:END -->
+ - 😝 [Quite fond of Anna](http://9gag.com/gag/ajP1LV1)
+ - 😝 [Bro was almost pepsi](http://9gag.com/gag/a876m8d)
+ - 💣 [Interactions with cops when your name is \u201cJames Bond\u201d](http://9gag.com/gag/amo11X4)
+ - 😝 [You can&#39;t always get what you want](http://9gag.com/gag/aD262jK)
+ - 👉 [Stability test](http://9gag.com/gag/aGynnvn)<!-- MEMES:END -->
 
 ---
 

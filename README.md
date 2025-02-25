@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Resignation letter: 21 DOGE staffers, who previously worked at the USDS, say they won&#39;t use their technical expertise to &quot;dismantle critical public services&quot; &lpar;Associated Press&rpar;](http://www.techmeme.com/250225/p25#a250225p25)
  - [Chegg sues Google over AI Overviews](https://www.theverge.com/news/619051/chegg-google-ai-overviews-monopoly)
  - [Costa Rica Is Saving Forest Ecosystems by Listening to Them](https://www.wired.com/story/costa-rica-forest-conservation-sounds/)
  - [Apple&#39;s board gets what it wants at the annual shareholders meeting](https://appleinsider.com/articles/25/02/25/apples-board-gets-what-it-wants-at-the-annual-shareholders-meeting?utm_medium=rss)
- - [Our Favorite Internal SSD Is on Sale Right Now](https://www.wired.com/story/wd-black-sn770-deal-february-2025/)
- - [The UK CMA clears IBM&#39;s $6.4B acquisition of infrastructure software company HashiCorp, 10 months after IBM announced the deal, which needs US FTC approval &lpar;Paul Sawers/TechCrunch&rpar;](http://www.techmeme.com/250225/p24#a250225p24)<!-- TECH:END -->
+ - [Our Favorite Internal SSD Is on Sale Right Now](https://www.wired.com/story/wd-black-sn770-deal-february-2025/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

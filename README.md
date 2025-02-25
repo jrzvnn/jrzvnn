@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [I have seen this story before](http://9gag.com/gag/aKGAv4b)
  - 😝 [Pickpocket group operates in broad daylight in Rome](http://9gag.com/gag/aE066R9)
- - 💣 [Plunger Head](http://9gag.com/gag/azxd5bm)
- - 😝 [86 year old movie](http://9gag.com/gag/aLnzLDV)
- - 👉 [This 11 year old German girl spotting the difference between 2circles with dots almost instantly](http://9gag.com/gag/an7Rn25)<!-- MEMES:END -->
+ - 😝 [I have seen this story before](http://9gag.com/gag/aKGAv4b)
+ - 💣 [\u2800\u2800\u2800](http://9gag.com/gag/aQzvgd8)
+ - 😝 [Selling dandruff](http://9gag.com/gag/a7oO0pA)
+ - 👉 [Bro was almost pepsi](http://9gag.com/gag/a876m8d)<!-- MEMES:END -->
 
 ---
 

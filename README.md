@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: Huawei has increased its AI chip yield to nearly 40%, up from 20% about a year ago, meaning its Ascend chips are now profitable for the first time &lpar;Financial Times&rpar;](http://www.techmeme.com/250225/p13#a250225p13)
- - [Indonesia set to lift five-month iPhone 16 ban](https://appleinsider.com/articles/25/02/25/indonesia-set-to-lift-five-month-iphone-16-ban?utm_medium=rss)
- - [‘OpenAI’ Job Scam Targeted International Workers Through Telegram](https://www.wired.com/story/openai-job-scam/)
- - [Google releases its free Gemini Code Assist globally in public preview for solo developers, with 180K code completions per month; GitHub Copilot offers 2,000 &lpar;Jess Weatherbed/The Verge&rpar;](http://www.techmeme.com/250225/p12#a250225p12)
- - [Thoma Bravo closed a &amp;euro;1.8B fund for European software deals, after opening a London office in 2023; the US PE firm has deployed &amp;euro;14B in Europe since 2010 &lpar;Financial Times&rpar;](http://www.techmeme.com/250225/p11#a250225p11)<!-- TECH:END -->
+ - [Employee screening company DISA confirms a data breach in February 2024, found in April 2024, affecting 3.3M+ people and including Social Security numbers &lpar;Carly Page/TechCrunch&rpar;](http://www.techmeme.com/250225/p15#a250225p15)
+ - [Sources: Italy wants to replace STMicro CEO Jean-Marc Ch&amp;eacute;ry for poor performance, as the Franco-Italian chipmaker struggles to navigate a slump in chip demand &lpar;Bloomberg&rpar;](http://www.techmeme.com/250225/p14#a250225p14)
+ - [After a Violent Kidnapping, Crypto Elites Hire Bodyguards](https://www.wired.com/story/after-a-violent-kidnapping-crypto-elites-hire-bodyguards/)
+ - [Three years later, the Steam Deck has dominated handheld PC gaming](https://www.theverge.com/pc-gaming/618709/steam-deck-3-year-anniversary-handheld-gaming-shipments-idc)
+ - [Best Internet Providers in Sugar Land, Texas](https://www.cnet.com/home/internet/best-internet-providers-in-sugar-land-tx/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

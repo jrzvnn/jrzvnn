@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Every single time...](http://9gag.com/gag/aYQEPAx)
- - 😝 [Grandpa enjoys his coffee very much!](http://9gag.com/gag/aBy6PAD)
- - 💣 [They&#39;re evolving](http://9gag.com/gag/a5Q6wjO)
- - 😝 [When you&#39;re mad, but still love your partner](http://9gag.com/gag/a6ZXnwL)
- - 👉 [When you come to your bestfriend&#39;s house, meet his mom, and suddenly feel HUNGRY](http://9gag.com/gag/a9y68MD)<!-- MEMES:END -->
+ - 😝 [Found this at the gym,](http://9gag.com/gag/a1mN556)
+ - 😝 [BMW Marketing Department](http://9gag.com/gag/aAy6Q70)
+ - 💣 [Interactions with cops when your name is \u201cJames Bond\u201d](http://9gag.com/gag/amo11X4)
+ - 😝 [This is what Italian sounds like](http://9gag.com/gag/aKGAWmg)
+ - 👉 [Current state of tinder](http://9gag.com/gag/a5Q6wPr)<!-- MEMES:END -->
 
 ---
 

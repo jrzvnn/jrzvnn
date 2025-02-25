@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Sweden-based Lovable, an AI-powered app builder, raised a $15M pre-Series A led by Creandum following a &amp;euro;6.8M pre-seed, says it has 500K users and $17M in ARR &lpar;Mike Butcher/TechCrunch&rpar;](http://www.techmeme.com/250225/p27#a250225p27)
+ - [Anker’s new USB-C HDMI cable supports 140W fast charging](https://www.theverge.com/news/619071/anker-nano-usb-c-hdmi-cable-adapter-140w-power)
  - [Dark Horse is shutting down its iOS comics app](https://www.theverge.com/news/619143/dark-horse-comics-app-shutting-down)
  - [Microsoft rolls out unlimited access to Voice and Think Deeper, powered by Open AI&#39;s o1 model, to all Copilot users for free &lpar;Tom Warren/The Verge&rpar;](http://www.techmeme.com/250225/p26#a250225p26)
- - [Apple&#39;s board gets the DEI and AI results it wanted at the annual shareholders meeting](https://appleinsider.com/articles/25/02/25/apples-board-gets-what-it-wants-at-the-annual-shareholders-meeting?utm_medium=rss)
- - [Something Unexpected Is Spewing Stars Into the Milky Way](https://www.wired.com/story/large-magellanic-cloud-supermassive-black-hole/)
- - [Microsoft makes Copilot Voice and Think Deeper free with unlimited use](https://www.theverge.com/news/619199/microsoft-copilot-free-unlimited-voice-think-deeper-open-ai-o1-reasoning-model-ai)<!-- TECH:END -->
+ - [Apple&#39;s board gets the DEI and AI results it wanted at the annual shareholders meeting](https://appleinsider.com/articles/25/02/25/apples-board-gets-what-it-wants-at-the-annual-shareholders-meeting?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Found this at the gym,](http://9gag.com/gag/a1mN556)
- - 😝 [BMW Marketing Department](http://9gag.com/gag/aAy6Q70)
- - 💣 [Interactions with cops when your name is \u201cJames Bond\u201d](http://9gag.com/gag/amo11X4)
+ - 😝 [How to starve a croc](http://9gag.com/gag/aVvoKKK)
+ - 😝 [When god sets graphics to low](http://9gag.com/gag/aYQEOW0)
+ - 💣 [New Self defence style](http://9gag.com/gag/a9y68mL)
  - 😝 [This is what Italian sounds like](http://9gag.com/gag/aKGAWmg)
- - 👉 [Current state of tinder](http://9gag.com/gag/a5Q6wPr)<!-- MEMES:END -->
+ - 👉 [When you come to your bestfriend&#39;s house, meet his mom, and suddenly feel HUNGRY](http://9gag.com/gag/a9y68MD)<!-- MEMES:END -->
 
 ---
 

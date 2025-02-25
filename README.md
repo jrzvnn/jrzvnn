@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Title](http://9gag.com/gag/aqyX6Q7)
- - 😝 [When you&#39;re mad, but still love your partner](http://9gag.com/gag/a6ZXnwL)
- - 💣 [When you come to your bestfriend&#39;s house, meet his mom, and suddenly feel HUNGRY](http://9gag.com/gag/a9y68MD)
- - 😝 [They&#39;re evolving](http://9gag.com/gag/a5Q6wjO)
- - 👉 [Naruto run](http://9gag.com/gag/a9y6vmZ)<!-- MEMES:END -->
+ - 😝 [Execution by cannon Iran 1890...](http://9gag.com/gag/a6ZXX1A)
+ - 😝 [Escalation at its finest!](http://9gag.com/gag/a5Q6B5L)
+ - 💣 [In \u201cEl Camino\u201d &lpar;2019&rpar; There are several scenes were the characters seem much larger. This is because the original show ended 6 years ago and everyone got fat off that Breaking Bad money.](http://9gag.com/gag/a345AqQ)
+ - 😝 [I have seen this story before](http://9gag.com/gag/aKGAv4b)
+ - 👉 [\u2800\u2800\u2800](http://9gag.com/gag/aQzvgd8)<!-- MEMES:END -->
 
 ---
 

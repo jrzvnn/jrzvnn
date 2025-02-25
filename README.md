@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Why are you laughing Lena?](http://9gag.com/gag/aXPMPP2)
- - 😝 [\u2800\u2800\u2800](http://9gag.com/gag/aQzvgd8)
- - 💣 [BMW Marketing Department](http://9gag.com/gag/aAy6Q70)
- - 😝 [Different country, same people](http://9gag.com/gag/aE066WK)
- - 👉 [That cut to her is priceless](http://9gag.com/gag/aO8e2MD)<!-- MEMES:END -->
+ - 😝 [When you marry a gamer](http://9gag.com/gag/aD267Ax)
+ - 😝 [Selling dandruff](http://9gag.com/gag/a7oO0pA)
+ - 💣 [Escalation at its finest!](http://9gag.com/gag/a5Q6B5L)
+ - 😝 [\u201cIt was an accident, bro\u201d](http://9gag.com/gag/aoy3Rx0)
+ - 👉 [When god sets graphics to low](http://9gag.com/gag/aYQEOW0)<!-- MEMES:END -->
 
 ---
 

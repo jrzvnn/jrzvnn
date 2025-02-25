@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [How AI PCs are removing barriers to workplace connection](https://www.theverge.com/ad/605083/lenovo-ai-pcs-remove-barriers-to-workplace-connection)
+ - [GIGABYTE’s latest AI motherboards push gaming performance forward](https://www.theverge.com/ad/600816/gigabyte-latest-ai-motherboards-gaming-performance-b800-series)
  - [No, Even the Best Wi-Fi Extender Isn’t Worth Your Time &lpar;2025&rpar;](https://www.wired.com/story/best-wi-fi-extenders/)
  - [The future of the internet is likely smaller communities, with a focus on curated experiences](https://www.theverge.com/press-room/617654/internet-community-future-research)
- - [Panasonic’s Lumix S1RII full-frame camera captures 8K video](https://www.theverge.com/news/618877/panasonic-lumix-s1rii-full-frame-camera-8k-video)
- - [Apple AirTag 4-pack falls to $67.99, lowest price of 2025](https://appleinsider.com/articles/25/02/25/apple-airtag-4-pack-falls-to-6799-lowest-price-of-2025?utm_medium=rss)
- - [This Refinery Wants to Make Sustainable Aviation Fuel Mainstream. Trump’s Cuts Could Kill It](https://www.wired.com/story/refinery-saf-sustainable-fuel-rollout-problem/)<!-- TECH:END -->
+ - [Panasonic’s Lumix S1RII full-frame camera captures 8K video](https://www.theverge.com/news/618877/panasonic-lumix-s1rii-full-frame-camera-8k-video)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

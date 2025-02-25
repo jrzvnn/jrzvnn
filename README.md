@@ -166,10 +166,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [How to starve a croc](http://9gag.com/gag/aVvoKKK)
- - 😝 [I have seen this story before](http://9gag.com/gag/aKGAv4b)
- - 💣 [New Self defence style](http://9gag.com/gag/a9y68mL)
- - 😝 [Father of epidermolysis- bullosa son answers question related to his son\u2019s condition](http://9gag.com/gag/ae91Zop)
+ - 😝 [New Self defence style](http://9gag.com/gag/a9y68mL)
+ - 😝 [This is what Italian sounds like](http://9gag.com/gag/aKGAWmg)
+ - 💣 [Day 1 posting stuff from classic 9gag before all propaganda posts](http://9gag.com/gag/axy3bvW)
+ - 😝 [Found this at the gym,](http://9gag.com/gag/a1mN556)
  - 👉 [This 11 year old German girl spotting the difference between 2circles with dots almost instantly](http://9gag.com/gag/an7Rn25)<!-- MEMES:END -->
 
 ---

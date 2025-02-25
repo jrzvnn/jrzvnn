@@ -161,7 +161,7 @@ R                        1 repo              ░░░░░░░░░░░�
  - [How AI PCs are removing barriers to workplace connection](https://www.theverge.com/ad/605083/lenovo-ai-pcs-remove-barriers-to-workplace-connection)
  - [GIGABYTE’s latest AI motherboards push gaming performance forward](https://www.theverge.com/ad/600816/gigabyte-latest-ai-motherboards-gaming-performance-b800-series)
  - [No, Even the Best Wi-Fi Extender Isn’t Worth Your Time &lpar;2025&rpar;](https://www.wired.com/story/best-wi-fi-extenders/)
- - [The future of the internet is likely smaller communities, with a focus on curated experiences](https://www.theverge.com/press-room/617654/internet-community-future-research)<!-- TECH:END -->
+ - [Kettlebell Training Is Swinging Into Peloton’s Strength Plus App and Classes](https://www.cnet.com/health/fitness/kettlebell-training-is-swinging-into-pelotons-strength-plus-app-and-classes/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [I have seen this story before](http://9gag.com/gag/aKGAv4b)
- - 😝 [Selling dandruff](http://9gag.com/gag/a7oO0pA)
- - 💣 [Escalation at its finest!](http://9gag.com/gag/a5Q6B5L)
- - 😝 [The most Legendary penalty kick of all time](http://9gag.com/gag/aRB4z72)
- - 👉 [Current state of tinder](http://9gag.com/gag/a5Q6wPr)<!-- MEMES:END -->
+ - 😝 [Escalation at its finest!](http://9gag.com/gag/a5Q6B5L)
+ - 😝 [How to starve a croc](http://9gag.com/gag/aVvoKKK)
+ - 💣 [I have seen this story before](http://9gag.com/gag/aKGAv4b)
+ - 😝 [Current state of tinder](http://9gag.com/gag/a5Q6wPr)
+ - 👉 [They&#39;re evolving](http://9gag.com/gag/a5Q6wjO)<!-- MEMES:END -->
 
 ---
 

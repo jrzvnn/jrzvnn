@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Sources: Trump&#39;s team plans tougher US chip curbs and have met with Dutch and Japanese counterparts, urging them to tighten restrictions on China&#39;s chip sector &lpar;Bloomberg&rpar;](http://www.techmeme.com/250224/p32#a250224p32)
  - [Claude 3.7 and Grok 3 are the first Gen3 AI models with big gains in handling complex tasks, using 10x more compute than GPT-4-class models and better reasoning &lpar;Ethan Mollick/One Useful Thing&rpar;](http://www.techmeme.com/250224/p31#a250224p31)
  - [Steam Deck, ROG Ally, and more: all the news about the handheld PC gaming revolution](https://www.theverge.com/22579493/valve-steam-deck-gaming-handheld-pc)
  - [Sources: SpaceX seeks to deploy Starlink terminals for the FAA, raising questions about Musk&#39;s conflicts of interest and a $2B FAA contract Verizon won in 2023 &lpar;Bloomberg&rpar;](http://www.techmeme.com/250224/p30#a250224p30)
- - [Epic Games v. Apple: the fight for the future of the App Store](https://www.theverge.com/2021/4/29/22410877/epic-games-apple-app-store-antitrust-trial-lawsuit-news)
- - [Musk&#39;s xAI Launches Grok 3: Here&#39;s What You Need to Know](https://www.cnet.com/tech/services-and-software/musks-xai-launches-grok-3-heres-what-you-need-to-know/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Epic Games v. Apple: the fight for the future of the App Store](https://www.theverge.com/2021/4/29/22410877/epic-games-apple-app-store-antitrust-trial-lawsuit-news)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

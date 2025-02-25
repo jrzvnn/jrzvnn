@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The US chip situation is precarious and requires bold moves like ending the China chip ban and building more trailing edge fabs in the US &lpar;Ben Thompson/Stratechery&rpar;](http://www.techmeme.com/250225/p37#a250225p37)
+ - [Xbox Cloud Gaming will let you invite friends with just a link](https://www.theverge.com/news/619288/xbox-cloud-gaming-invite-link-sharing-february-update)
  - [Uniswap Labs says the US SEC has closed its probe into the company and will not file enforcement actions, after the SEC dropped OpenSea and Robinhood probes &lpar;Cheyenne Ligon/CoinDesk&rpar;](http://www.techmeme.com/250225/p36#a250225p36)
  - [Infinity Nikki&amp;#8217;s spooky new event will put my cheapskate skills to the test](https://www.theverge.com/news/619372/infinity-nikki-eerie-season-event-march-2025)
- - [Framework unveils the Framework Laptop 13 with AMD Ryzen AI 300, priced at $1,099 for a pre-built model, and Framework Laptop 12 with a touch screen, price TBA &lpar;Andrew E. Freedman/Tom&#39;s Hardware&rpar;](http://www.techmeme.com/250225/p35#a250225p35)
- - [Perfect, a startup from the founder of AnyVision that helps job recruiters write and publish job listings and triage responses, raised a $23M seed &lpar;Ingrid Lunden/TechCrunch&rpar;](http://www.techmeme.com/250225/p34#a250225p34)
- - [Framework announces its first desktop PC, the Framework Desktop, which starts at $1,099 and comes with an AMD Ryzen AI Max 385 and 32GB RAM, slated for Q3 2025 &lpar;Andrew Cunningham/Ars Technica&rpar;](http://www.techmeme.com/250225/p33#a250225p33)<!-- TECH:END -->
+ - [Framework unveils the Framework Laptop 13 with AMD Ryzen AI 300, priced at $1,099 for a pre-built model, and Framework Laptop 12 with a touch screen, price TBA &lpar;Andrew E. Freedman/Tom&#39;s Hardware&rpar;](http://www.techmeme.com/250225/p35#a250225p35)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Pickpocket group operates in broad daylight in Rome](http://9gag.com/gag/aE066R9)
- - 😝 [Escalation at its finest!](http://9gag.com/gag/a5Q6B5L)
- - 💣 [Cool Visual](http://9gag.com/gag/ae9110p)
- - 😝 [That cut to her is priceless](http://9gag.com/gag/aO8e2MD)
- - 👉 [Current state of tinder](http://9gag.com/gag/a5Q6wPr)<!-- MEMES:END -->
+ - 😝 [BMW Marketing Department](http://9gag.com/gag/aAy6Q70)
+ - 😝 [This 11 year old German girl spotting the difference between 2circles with dots almost instantly](http://9gag.com/gag/an7Rn25)
+ - 💣 [That cut to her is priceless](http://9gag.com/gag/aO8e2MD)
+ - 😝 [Current state of tinder](http://9gag.com/gag/a5Q6wPr)
+ - 👉 [I have seen this story before](http://9gag.com/gag/aKGAv4b)<!-- MEMES:END -->
 
 ---
 

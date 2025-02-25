@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Quite fond of Anna](http://9gag.com/gag/ajP1LV1)
- - 😝 [Bro was almost pepsi](http://9gag.com/gag/a876m8d)
- - 💣 [Interactions with cops when your name is \u201cJames Bond\u201d](http://9gag.com/gag/amo11X4)
- - 😝 [You can&#39;t always get what you want](http://9gag.com/gag/aD262jK)
- - 👉 [Stability test](http://9gag.com/gag/aGynnvn)<!-- MEMES:END -->
+ - 😝 [This is so satisfying to watch](http://9gag.com/gag/a5Q6wVN)
+ - 😝 [When god sets graphics to low](http://9gag.com/gag/aYQEOW0)
+ - 💣 [A protester warns of undercover police &lpar;Indonesia, #DarkIndonesia protest&rpar;](http://9gag.com/gag/aO8e8EE)
+ - 😝 [Selling dandruff](http://9gag.com/gag/a7oO0pA)
+ - 👉 [Interactions with cops when your name is \u201cJames Bond\u201d](http://9gag.com/gag/amo11X4)<!-- MEMES:END -->
 
 ---
 

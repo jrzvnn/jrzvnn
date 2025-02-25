@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [You can get four Apple AirTags for a record low $68](https://www.theverge.com/good-deals/618895/apple-airtags-four-pack-samsung-galaxy-tab-s9-fe-deal-sale)
+ - [UK newspapers blanket their covers to protest loss of AI protections](https://www.theverge.com/news/619063/uk-newspapers-covers-protest-government-ai-rights-proposal)
  - [Xbox’s new Fable game is delayed to 2026](https://www.theverge.com/news/619046/microsoft-xbox-fable-game-delay-2026)
  - [This RC purse redefines fast fashion with a top speed of 9 mph](https://www.theverge.com/news/613091/nik-bentel-studio-rc-car-bag-remote-control-fashion)
- - [The Peloton story: everything you need to know](https://www.theverge.com/24025034/peloton-bike-treadmill-connected-fitness-news)
- - [Ron Wyden asks for rules about whether you own your digital purchases](https://www.theverge.com/news/618614/senator-ron-wyden-ftc-andrew-ferguson-digital-goods-ownership)
- - [YouTube will show fewer ads in ‘interruptive’ slots](https://www.theverge.com/news/618880/youtube-ad-break-update-mid-roll-interrupt-video)<!-- TECH:END -->
+ - [The Peloton story: everything you need to know](https://www.theverge.com/24025034/peloton-bike-treadmill-connected-fitness-news)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

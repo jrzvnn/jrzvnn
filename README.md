@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [This is so satisfying to watch](http://9gag.com/gag/a5Q6wVN)
- - 😝 [When god sets graphics to low](http://9gag.com/gag/aYQEOW0)
- - 💣 [A protester warns of undercover police &lpar;Indonesia, #DarkIndonesia protest&rpar;](http://9gag.com/gag/aO8e8EE)
+ - 😝 [\u2800\u2800\u2800](http://9gag.com/gag/aQzvgd8)
+ - 😝 [That cut to her is priceless](http://9gag.com/gag/aO8e2MD)
+ - 💣 [When god sets graphics to low](http://9gag.com/gag/aYQEOW0)
  - 😝 [Selling dandruff](http://9gag.com/gag/a7oO0pA)
- - 👉 [Interactions with cops when your name is \u201cJames Bond\u201d](http://9gag.com/gag/amo11X4)<!-- MEMES:END -->
+ - 👉 [Pickpocket group operates in broad daylight in Rome](http://9gag.com/gag/aE066R9)<!-- MEMES:END -->
 
 ---
 

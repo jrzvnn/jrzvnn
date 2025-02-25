@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [You can get four Apple AirTags for a record low $68](https://www.theverge.com/good-deals/618895/apple-airtags-four-pack-samsung-galaxy-tab-s9-fe-deal-sale)
- - [UK newspapers blanket their covers to protest loss of AI protections](https://www.theverge.com/news/619063/uk-newspapers-covers-protest-government-ai-rights-proposal)
- - [Xbox’s new Fable game is delayed to 2026](https://www.theverge.com/news/619046/microsoft-xbox-fable-game-delay-2026)
- - [This RC purse redefines fast fashion with a top speed of 9 mph](https://www.theverge.com/news/613091/nik-bentel-studio-rc-car-bag-remote-control-fashion)
- - [The Peloton story: everything you need to know](https://www.theverge.com/24025034/peloton-bike-treadmill-connected-fitness-news)<!-- TECH:END -->
+ - [Tesla reportedly launches FSD in China — or has it?](https://www.theverge.com/news/619092/tesla-fsd-china-update-falls-short)
+ - [DOGE Is Working on Software That Automates the Firing of Government Workers](https://www.wired.com/story/doge-autorif-mass-firing-government-workers/)
+ - [Apple investors reject outside shareholder proposals asking the company to cease its DEI efforts and write a report assessing the risks of its work on AI &lpar;Mark Gurman/Bloomberg&rpar;](http://www.techmeme.com/250225/p23#a250225p23)
+ - [Clicks’ BlackBerry-style keyboard case is coming to Android phones](https://www.theverge.com/news/617479/clicks-blackberry-keyboard-case-android-motorola-google-pixel-samsung-galaxy-availability)
+ - [The new Beeper app combines all of Automattic’s messaging systems](https://www.theverge.com/news/619018/beeper-texts-com-combined-app-update-automattic)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

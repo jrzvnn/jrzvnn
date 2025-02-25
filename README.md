@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Sources: Huawei has increased its AI chip yield to nearly 40%, up from 20% about a year ago, meaning its Ascend chips are now profitable for the first time &lpar;Financial Times&rpar;](http://www.techmeme.com/250225/p13#a250225p13)
  - [Indonesia set to lift five-month iPhone 16 ban](https://appleinsider.com/articles/25/02/25/indonesia-set-to-lift-five-month-iphone-16-ban?utm_medium=rss)
  - [‘OpenAI’ Job Scam Targeted International Workers Through Telegram](https://www.wired.com/story/openai-job-scam/)
  - [Google releases its free Gemini Code Assist globally in public preview for solo developers, with 180K code completions per month; GitHub Copilot offers 2,000 &lpar;Jess Weatherbed/The Verge&rpar;](http://www.techmeme.com/250225/p12#a250225p12)
- - [Thoma Bravo closed a &amp;euro;1.8B fund for European software deals, after opening a London office in 2023; the US PE firm has deployed &amp;euro;14B in Europe since 2010 &lpar;Financial Times&rpar;](http://www.techmeme.com/250225/p11#a250225p11)
- - [Nasscom expects India&#39;s tech sector revenue to grow 5.1% to $282.6B in fiscal 2025, up from 4% growth in 2024, with software exports set to rise 4.6% to $224.4B &lpar;Reuters&rpar;](http://www.techmeme.com/250225/p10#a250225p10)<!-- TECH:END -->
+ - [Thoma Bravo closed a &amp;euro;1.8B fund for European software deals, after opening a London office in 2023; the US PE firm has deployed &amp;euro;14B in Europe since 2010 &lpar;Financial Times&rpar;](http://www.techmeme.com/250225/p11#a250225p11)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

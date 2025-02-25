@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Bro was almost pepsi](http://9gag.com/gag/a876m8d)
- - 😝 [When god sets graphics to low](http://9gag.com/gag/aYQEOW0)
- - 💣 [BMW Marketing Department](http://9gag.com/gag/aAy6Q70)
- - 😝 [A bird dropped a severed human hand into a schoolyard in Ireland yesterday.](http://9gag.com/gag/aYQEQQm)
- - 👉 [\u2800\u2800\u2800](http://9gag.com/gag/aQzvgd8)<!-- MEMES:END -->
+ - 😝 [They&#39;re evolving](http://9gag.com/gag/a5Q6wjO)
+ - 😝 [The future is now, old man...](http://9gag.com/gag/a6ZX9Wq)
+ - 💣 [Title](http://9gag.com/gag/aqyX6Q7)
+ - 😝 [Spaniards march with pork sausages in street courses in Madrid, new traditions](http://9gag.com/gag/a1mNDzw)
+ - 👉 [Well women wanted it](http://9gag.com/gag/aE06V39)<!-- MEMES:END -->
 
 ---
 

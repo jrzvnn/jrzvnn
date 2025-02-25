@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Pickpocket group operates in broad daylight in Rome](http://9gag.com/gag/aE066R9)
- - 😝 [I have seen this story before](http://9gag.com/gag/aKGAv4b)
- - 💣 [\u2800\u2800\u2800](http://9gag.com/gag/aQzvgd8)
- - 😝 [Selling dandruff](http://9gag.com/gag/a7oO0pA)
- - 👉 [Bro was almost pepsi](http://9gag.com/gag/a876m8d)<!-- MEMES:END -->
+ - 😝 [Title](http://9gag.com/gag/aqyX6Q7)
+ - 😝 [Naruto run](http://9gag.com/gag/a9y6vmZ)
+ - 💣 [They&#39;re evolving](http://9gag.com/gag/a5Q6wjO)
+ - 😝 [Looks up!](http://9gag.com/gag/a5Q6Bgg)
+ - 👉 [It&#39;s a myth](http://9gag.com/gag/aND9v2A)<!-- MEMES:END -->
 
 ---
 

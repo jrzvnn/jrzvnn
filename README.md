@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Silent Hill 2 developer is working with Konami on a mystery game](https://www.theverge.com/news/618910/bloober-team-konami-new-game-silent-hill-2)
+ - [Israeli startup Quantum Machines, which offers hardware tools to other quantum computing companies, raised a $170M Series C led by PSG Equity &lpar;Ingrid Lunden/TechCrunch&rpar;](http://www.techmeme.com/250225/p22#a250225p22)
+ - [We can’t quit electric cars — or robotaxis](https://www.theverge.com/the-vergecast/618904/electric-cars-robotaxis-activitypub-fediverse-vergecast)
  - [Adobe launches an updated Photoshop app for iOS, including many design, editing, and AI tools from the desktop app; an Android app is coming &quot;later this year&quot; &lpar;Jess Weatherbed/The Verge&rpar;](http://www.techmeme.com/250225/p21#a250225p21)
- - [Trek FX+ 7S Review: Wonderful Upgrades, High Price](https://www.wired.com/review/trek-fx-7s-electric-bike/)
- - [After years of requests from creatives, Adobe finally brings Photoshop to iPhone](https://appleinsider.com/articles/25/02/25/after-years-of-requests-from-creatives-adobe-finally-brings-photoshop-to-iphone?utm_medium=rss)
- - [Trello’s new update helps you manage Slack, email, and everything else](https://www.theverge.com/news/618349/trello-app-ai-inbox)
- - [Adobe’s new Photoshop app for iPhone is more like the real thing](https://www.theverge.com/news/618859/adobe-photoshop-mobile-iphone-android-app-availability)<!-- TECH:END -->
+ - [Trek FX+ 7S Review: Wonderful Upgrades, High Price](https://www.wired.com/review/trek-fx-7s-electric-bike/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

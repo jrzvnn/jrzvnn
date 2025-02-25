@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Bitcoin falls below $90K, its lowest level since mid-November 2024, as the rally that followed Trump&#39;s election fades; ETH, XRP, SOL, and more also fell sharply &lpar;Suvashree Ghosh/Bloomberg&rpar;](http://www.techmeme.com/250225/p9#a250225p9)
  - [The ECMWF says its new weather model broke ground by making global predictions freely available; testing shows it outperforms other models up to 15 days ahead &lpar;Clive Cookson/Financial Times&rpar;](http://www.techmeme.com/250225/p8#a250225p8)
  - [The EU&#39;s Court of Justice says Google&#39;s refusal to let Italian energy company Enel host an EV charging app on Android Auto might break EU competition rules &lpar;Edith Hancock/Wall Street Journal&rpar;](http://www.techmeme.com/250225/p7#a250225p7)
  - [Microsoft is testing free Office for Windows apps with ads](https://www.theverge.com/news/618278/microsoft-office-free-windows-apps-ad-supported-version)
- - [CoinGecko: crypto trading volume on India&#39;s four largest exchanges more than doubled QoQ to $1.9B in Q4 2024, as many young Indians trade to supplement income &lpar;Jaspreet Kalra/Reuters&rpar;](http://www.techmeme.com/250225/p6#a250225p6)
- - [Best Heated Blankets of 2025: Stay Warm With These Accessories](https://www.cnet.com/health/sleep/best-heated-blankets/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [CoinGecko: crypto trading volume on India&#39;s four largest exchanges more than doubled QoQ to $1.9B in Q4 2024, as many young Indians trade to supplement income &lpar;Jaspreet Kalra/Reuters&rpar;](http://www.techmeme.com/250225/p6#a250225p6)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

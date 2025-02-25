@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Perfect, a startup from the founder of AnyVision that helps job recruiters write and publish job listings and triage responses, raised a $23M seed &lpar;Ingrid Lunden/TechCrunch&rpar;](http://www.techmeme.com/250225/p34#a250225p34)
+ - [Framework announces its first desktop PC, the Framework Desktop, which starts at $1,099 and comes with an AMD Ryzen AI Max 385 and 32GB RAM, slated for Q3 2025 &lpar;Andrew Cunningham/Ars Technica&rpar;](http://www.techmeme.com/250225/p33#a250225p33)
  - [OpenAI rolls out Deep Research to Plus, Team, Edu, and Enterprise users, a month after launching it to Pro subs; Plus users get 10 Deep Research queries/month &lpar;Igor Bonifacic/Engadget&rpar;](http://www.techmeme.com/250225/p32#a250225p32)
  - [Apple&#39;s $500 billion US investment announcement is business as usual](https://appleinsider.com/articles/25/02/25/apples-500-billion-us-investment-announcement-is-business-as-usual?utm_medium=rss)
- - [A US judge says Meta must face a potential class action lawsuit claiming it prefers cheaper foreign workers over US citizen job applicants, citing Meta&#39;s stats &lpar;Jonathan Stempel/Reuters&rpar;](http://www.techmeme.com/250225/p31#a250225p31)
- - [The 53 Best Shows on Disney+ Right Now &lpar;March 2025&rpar;](https://www.wired.com/story/best-shows-disney-plus/)
- - [New firmware available for AirPods Max with Lightning port](https://appleinsider.com/articles/25/02/25/new-firmware-available-for-airpods-max-with-lightning-port?utm_medium=rss)<!-- TECH:END -->
+ - [A US judge says Meta must face a potential class action lawsuit claiming it prefers cheaper foreign workers over US citizen job applicants, citing Meta&#39;s stats &lpar;Jonathan Stempel/Reuters&rpar;](http://www.techmeme.com/250225/p31#a250225p31)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

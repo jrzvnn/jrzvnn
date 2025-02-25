@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [Free big Mac](http://9gag.com/gag/aAy6E9R)
  - 😝 [Stability test](http://9gag.com/gag/aGynnvn)
- - 😝 [Interactions with cops when your name is \u201cJames Bond\u201d](http://9gag.com/gag/amo11X4)
- - 💣 [When god sets graphics to low](http://9gag.com/gag/aYQEOW0)
- - 😝 [Different country, same people](http://9gag.com/gag/aE066WK)
- - 👉 [Current state of tinder](http://9gag.com/gag/a5Q6wPr)<!-- MEMES:END -->
+ - 💣 [Pickpocket group operates in broad daylight in Rome](http://9gag.com/gag/aE066R9)
+ - 😝 [A protester warns of undercover police &lpar;Indonesia, #DarkIndonesia protest&rpar;](http://9gag.com/gag/aO8e8EE)
+ - 👉 [A bird dropped a severed human hand into a schoolyard in Ireland yesterday.](http://9gag.com/gag/aYQEQQm)<!-- MEMES:END -->
 
 ---
 

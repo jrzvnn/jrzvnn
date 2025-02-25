@@ -161,7 +161,7 @@ R                        1 repo              ░░░░░░░░░░░�
  - [Best Tested Walking Pads &lpar;2025&rpar;: Sperax, WalkingPad, Egofit](https://www.wired.com/story/best-walking-pads/)
  - [Activision confirms on Call of Duty: Black Ops 6&#39;s Steam page that it &quot;uses generative AI tools to help develop some in game assets&quot;, after fan speculation &lpar;Brad Norton/Dexerto&rpar;](http://www.techmeme.com/250225/p19#a250225p19)
  - [Susan Kare&#39;s Esc Keys add pricey art to your keyboard](https://appleinsider.com/articles/25/02/25/susan-kares-esc-keys-add-pricey-art-to-your-keyboard?utm_medium=rss)
- - [‘Tesla Takedown’ wants to hit Elon Musk where it hurts](https://www.theverge.com/tesla/618572/tesla-takedown-wants-to-hit-elon-musk-where-it-hurts)<!-- TECH:END -->
+ - [Best Multi-gig Internet Plans for February 2025](https://www.cnet.com/home/internet/best-multi-gig-internet-plans/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

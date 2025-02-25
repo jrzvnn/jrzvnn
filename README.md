@@ -166,10 +166,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Execution by cannon Iran 1890...](http://9gag.com/gag/a6ZXX1A)
- - 😝 [Escalation at its finest!](http://9gag.com/gag/a5Q6B5L)
- - 💣 [In \u201cEl Camino\u201d &lpar;2019&rpar; There are several scenes were the characters seem much larger. This is because the original show ended 6 years ago and everyone got fat off that Breaking Bad money.](http://9gag.com/gag/a345AqQ)
+ - 😝 [Pickpocket group operates in broad daylight in Rome](http://9gag.com/gag/aE066R9)
  - 😝 [I have seen this story before](http://9gag.com/gag/aKGAv4b)
+ - 💣 [Plunger Head](http://9gag.com/gag/azxd5bm)
+ - 😝 [That cut to her is priceless](http://9gag.com/gag/aO8e2MD)
  - 👉 [\u2800\u2800\u2800](http://9gag.com/gag/aQzvgd8)<!-- MEMES:END -->
 
 ---

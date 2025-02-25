@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sweden-based Lovable, an AI-powered app builder, raised a $15M pre-Series A led by Creandum following a &amp;euro;6.8M pre-seed, says it has 500K users and $17M in ARR &lpar;Mike Butcher/TechCrunch&rpar;](http://www.techmeme.com/250225/p27#a250225p27)
- - [Anker’s new USB-C HDMI cable supports 140W fast charging](https://www.theverge.com/news/619071/anker-nano-usb-c-hdmi-cable-adapter-140w-power)
- - [Dark Horse is shutting down its iOS comics app](https://www.theverge.com/news/619143/dark-horse-comics-app-shutting-down)
- - [Microsoft rolls out unlimited access to Voice and Think Deeper, powered by Open AI&#39;s o1 model, to all Copilot users for free &lpar;Tom Warren/The Verge&rpar;](http://www.techmeme.com/250225/p26#a250225p26)
- - [Apple&#39;s board gets the DEI and AI results it wanted at the annual shareholders meeting](https://appleinsider.com/articles/25/02/25/apples-board-gets-what-it-wants-at-the-annual-shareholders-meeting?utm_medium=rss)<!-- TECH:END -->
+ - [Framework’s first tiny Desktop beautifully straddles the line between cute and badass](https://www.theverge.com/news/618785/framework-desktop-annoucement-price-release-date)
+ - [Framework wants to fix the budget laptop with its first touchscreen machine](https://www.theverge.com/news/618784/framework-laptop-12-touchscreen-convertible-announcement-release-date)
+ - [Longer-lasting laptops: the modular hardware you can upgrade and repair yourself](https://www.theverge.com/24190757/modular-laptops-repairable-upgradable-diy)
+ - [The Framework Laptop 13 has just been upgraded to AMD’s Strix Point](https://www.theverge.com/news/618769/framework-laptop-13-2025-amd-ryzen-ai-300-strix-point)
+ - [Trump’s first 100 days: all the news affecting the tech industry](https://www.theverge.com/24348851/donald-trump-presidency-tech-science-news)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

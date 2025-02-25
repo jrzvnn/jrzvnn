@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Tesla starts rolling out a software update enabling driver-assistance features, similar to Full Self-Driving in the US, for Chinese customers who paid $8,800 &lpar;Bloomberg&rpar;](http://www.techmeme.com/250225/p1#a250225p1)
  - [Save up to $250 instantly on these M4 iPad Pros](https://appleinsider.com/articles/25/02/25/save-up-to-250-instantly-on-these-m4-ipad-pros?utm_medium=rss)
+ - [Today&#39;s NYT Mini Crossword Answers for Tuesday, Feb. 25](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-tuesday-feb-25/#ftag=CAD590a51e)
  - [Over 1,000 musicians, including Kate Bush, &quot;co-write&quot; a &quot;silent&quot; album to protest a UK proposal letting AI train on their copyrighted work if they don&#39;t opt out &lpar;Dan Milmo/The Guardian&rpar;](http://www.techmeme.com/250224/p34#a250224p34)
- - [All the news about Nvidia’s RTX 50-series GPUs](https://www.theverge.com/2025/1/25/24351798/nvidia-rtx-5090-5080-5070-gpu-news-rumors)
- - [Nvidia admits some early RTX 5080 cards are missing ROPs, too](https://www.theverge.com/news/618748/nvidia-admits-the-rtx-5080-is-affecte)
- - [Epic v. Apple: Phil Schiller says he initially feared Apple&#39;s 27% App Store fee posed a compliance risk and could create &quot;antagonistic&quot; developer relations &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/250224/p33#a250224p33)<!-- TECH:END -->
+ - [All the news about Nvidia’s RTX 50-series GPUs](https://www.theverge.com/2025/1/25/24351798/nvidia-rtx-5090-5080-5070-gpu-news-rumors)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

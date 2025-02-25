@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Free big Mac](http://9gag.com/gag/aAy6E9R)
- - 😝 [Stability test](http://9gag.com/gag/aGynnvn)
- - 💣 [Pickpocket group operates in broad daylight in Rome](http://9gag.com/gag/aE066R9)
- - 😝 [A protester warns of undercover police &lpar;Indonesia, #DarkIndonesia protest&rpar;](http://9gag.com/gag/aO8e8EE)
- - 👉 [A bird dropped a severed human hand into a schoolyard in Ireland yesterday.](http://9gag.com/gag/aYQEQQm)<!-- MEMES:END -->
+ - 😝 [Interactions with cops when your name is \u201cJames Bond\u201d](http://9gag.com/gag/amo11X4)
+ - 😝 [BMW Marketing Department](http://9gag.com/gag/aAy6Q70)
+ - 💣 [\u2800\u2800\u2800](http://9gag.com/gag/aQzvgd8)
+ - 😝 [Current state of tinder](http://9gag.com/gag/a5Q6wPr)
+ - 👉 [Why are you laughing Lena?](http://9gag.com/gag/aXPMPP2)<!-- MEMES:END -->
 
 ---
 

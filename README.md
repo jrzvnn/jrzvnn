@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [CoinGecko: crypto trading volume on India&#39;s four largest exchanges more than doubled QoQ to $1.9B in Q4 2024, as many young Indians trade to supplement income &lpar;Jaspreet Kalra/Reuters&rpar;](http://www.techmeme.com/250225/p6#a250225p6)
  - [Powerplay 2: Logitech made its magic mousepad cheaper instead of better](https://www.theverge.com/news/618616/logitech-powerplay-2-wireless-mousepad-charger-price-release-date)
- - [Q&amp;A with Vimeo CEO Philip Moyer on going back to its roots as a YouTube rival, TikTok, incentives of algorithmic video platforms, AI video not taking off, more &lpar;Nilay Patel/The Verge&rpar;](http://www.techmeme.com/250225/p5#a250225p5)
+ - [Q&amp;A with Vimeo CEO Philip Moyer on going back to its roots as a YouTube rival, TikTok, algorithmic video platform incentives, AI video not taking off, and more &lpar;Nilay Patel/The Verge&rpar;](http://www.techmeme.com/250225/p5#a250225p5)
  - [New York&#39;s law requiring ISPs to offer $15 or $20/month broadband has inspired Vermont, Massachusetts, and California to guarantee affordable internet access &lpar;Jon Brodkin/Ars Technica&rpar;](http://www.techmeme.com/250225/p4#a250225p4)
- - [Longer-lasting laptops: the modular hardware you can upgrade and repair yourself](https://www.theverge.com/24190757/modular-laptops-repairable-upgradable-diy)
- - [AT&amp;T Promo Code: Get a Gift Card Worth Up to $200](https://www.wired.com/story/att-promo-code/)<!-- TECH:END -->
+ - [Longer-lasting laptops: the modular hardware you can upgrade and repair yourself](https://www.theverge.com/24190757/modular-laptops-repairable-upgradable-diy)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

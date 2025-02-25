@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Title](http://9gag.com/gag/aqyX6Q7)
- - 😝 [Naruto run](http://9gag.com/gag/a9y6vmZ)
- - 💣 [They&#39;re evolving](http://9gag.com/gag/a5Q6wjO)
- - 😝 [Looks up!](http://9gag.com/gag/a5Q6Bgg)
- - 👉 [It&#39;s a myth](http://9gag.com/gag/aND9v2A)<!-- MEMES:END -->
+ - 😝 [This 11 year old German girl spotting the difference between 2circles with dots almost instantly](http://9gag.com/gag/an7Rn25)
+ - 😝 [Bro was almost pepsi](http://9gag.com/gag/a876m8d)
+ - 💣 [86 year old movie](http://9gag.com/gag/aLnzLDV)
+ - 😝 [The ending is a meme potential](http://9gag.com/gag/an7RvjE)
+ - 👉 [This is what Italian sounds like](http://9gag.com/gag/aKGAWmg)<!-- MEMES:END -->
 
 ---
 

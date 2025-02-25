@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Apple&#39;s smart doorbell to utilize MagSafe, ring AirPods Pro](https://appleinsider.com/articles/25/02/25/apples-smart-doorbell-to-utilize-magsafe-ring-airpods-pro?utm_medium=rss)
+ - [A survey of US workers in October 2024: 52% are worried about AI&#39;s workplace impact, 32% think it will mean fewer job opportunities, 36% feel hopeful, and more &lpar;Pew Research Center&rpar;](http://www.techmeme.com/250225/p49#a250225p49)
  - [A US district judge rules Trump Media and Rumble do not need to remove US-based accounts of a top Jair Bolsonaro supporter, despite a Brazilian judge&#39;s order &lpar;Jonathan Stempel/Reuters&rpar;](http://www.techmeme.com/250225/p48#a250225p48)
  - [Trump’s first 100 days: all the news affecting the tech industry](https://www.theverge.com/24348851/donald-trump-presidency-tech-science-news)
- - [We finally know who’s legally running DOGE](https://www.theverge.com/news/619412/doge-acting-administrator-amy-gleason-named)
- - [Filing: ON Semiconductor plans to cut 2,400 employees, or 9% of its workforce, with charges related to the layoffs expected to cost around $50M to $60M &lpar;Katherine Hamilton/Wall Street Journal&rpar;](http://www.techmeme.com/250225/p47#a250225p47)
- - [YouTube will show fewer mid-roll ads that interrupt sentences or action sequences, and more ads at &quot;natural break points&quot; like transitions, starting May 12 &lpar;Wes Davis/The Verge&rpar;](http://www.techmeme.com/250225/p45#a250225p45)<!-- TECH:END -->
+ - [We finally know who’s legally running DOGE](https://www.theverge.com/news/619412/doge-acting-administrator-amy-gleason-named)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [A look at Claude 3.7 Sonnet&#39;s extended thinking mode and its 128K token output limit; long thinking runs are impressive but can take several minutes to complete &lpar;Simon Willison/Simon Willison&#39;s Weblog&rpar;](http://www.techmeme.com/250225/p29#a250225p29)
+ - [Technicolor is winding down operations](https://www.theverge.com/entertainment/619188/technicolor-administration-receivership-layoffs)
+ - [A Team of Female Founders Is Launching Cloud Security Tech That Could Overhaul AI Protection](https://www.wired.com/story/edera-cloud-tech-security/)
  - [Warner Bros. Games is canceling its Wonder Woman game and shutting down three studios](https://www.theverge.com/news/619293/warner-bros-games-wonder-woman-canceled-studios-shut-down)
- - [Dow Jones CEO Almar Latour says Factiva&#39;s AI marketplace for publishers to license their content to corporations now has nearly 5,000 publishing partners &lpar;Sara Fischer/Axios&rpar;](http://www.techmeme.com/250225/p28#a250225p28)
- - [From ChatGPT to Gemini: how AI is rewriting the internet](https://www.theverge.com/23610427/chatbots-chatgpt-new-bing-google-bard-conversational-ai)
- - [Dassault Systemes reveals Apple Vision Pro apps for product design and manufacturing](https://appleinsider.com/articles/25/02/25/dassault-systemes-reveals-apple-vision-pro-apps-for-product-design-and-manufacturing?utm_medium=rss)
- - [Framework’s first tiny Desktop beautifully straddles the line between cute and badass](https://www.theverge.com/news/618785/framework-desktop-annoucement-price-release-date)<!-- TECH:END -->
+ - [Dow Jones CEO Almar Latour says Factiva&#39;s AI marketplace for publishers to license their content to corporations now has nearly 5,000 publishing partners &lpar;Sara Fischer/Axios&rpar;](http://www.techmeme.com/250225/p28#a250225p28)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

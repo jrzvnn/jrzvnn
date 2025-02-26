@@ -167,10 +167,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [Is it true?](http://9gag.com/gag/a6ZXpKN)
- - 😝 [Maybe a better option for a date compared to movies &lpar;sorry for the cancer&rpar;](http://9gag.com/gag/aoy34NX)
+ - 😝 [Thief alert](http://9gag.com/gag/aND9Q0A)
  - 💣 [When you come to your bestfriend&#39;s house, meet his mom, and suddenly feel HUNGRY](http://9gag.com/gag/a9y68MD)
- - 😝 [I have seen this story before](http://9gag.com/gag/aKGAv4b)
- - 👉 [Football player meets a special needs fan](http://9gag.com/gag/aGynAXn)<!-- MEMES:END -->
+ - 😝 [I don\u2019t necessarily agree, but I 100% understand.](http://9gag.com/gag/azxdKGp)
+ - 👉 [I hope all understand](http://9gag.com/gag/a9y6mrD)<!-- MEMES:END -->
 
 ---
 

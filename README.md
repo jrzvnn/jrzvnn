@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Yes, but...](http://9gag.com/gag/aKGAYVg)
- - 😝 [This will probably get lost in Fresh, but I just wanted to share with you guys that I finally published my first book](http://9gag.com/gag/a9y6256)
- - 💣 [Tips and tricks for landlord](http://9gag.com/gag/a6ZXpr8)
- - 😝 [This is what you call true emersion](http://9gag.com/gag/ajP1xYq)
- - 👉 [Modern problem required modern solutions](http://9gag.com/gag/avy1vrZ)<!-- MEMES:END -->
+ - 😝 [The gooner 9/11 is real](http://9gag.com/gag/a4P6AQQ)
+ - 😝 [How to starve a croc](http://9gag.com/gag/aVvoKKK)
+ - 💣 [Current state of tinder](http://9gag.com/gag/a5Q6wPr)
+ - 😝 [I hope all understand](http://9gag.com/gag/a9y6mrD)
+ - 👉 [This is what Italian sounds like](http://9gag.com/gag/aKGAWmg)<!-- MEMES:END -->
 
 ---
 

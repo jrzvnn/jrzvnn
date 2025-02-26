@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Victrola’s cheapest Sonos-compatible turntable is over half off today](https://www.theverge.com/good-deals/619353/victrola-stream-onyx-sonos-turntable-anker-soundcore-sport-x20-earbuds-deal-sale)
- - [Pixel Watch 3 gets FDA clearance for Loss of Pulse alerts](https://www.theverge.com/news/619929/google-pixel-watch-3-loss-of-pulse-fda-clerance-smartwatch)
- - [All of the announcements from Amazon&amp;#8217;s 2025 Alexa Plus event](https://www.theverge.com/news/618262/amazon-alexa-event-2025-ai-echo-products-news)
- - [Amazon is launching Alexa.com and new app for Alexa Plus](https://www.theverge.com/news/619923/amazon-alexa-plus-com-mobile-app)
- - [AppLovin&#39;s stock falls 10%+ after two short sellers released reports questioning the integrity of the company&#39;s AI-powered AXON ad software &lpar;CJ Haddad/CNBC&rpar;](http://www.techmeme.com/250226/p31#a250226p31)<!-- TECH:END -->
+ - [President Trump is irritated about Apple not completely killing DEI initiatives](https://appleinsider.com/articles/25/02/26/president-trump-is-irritated-about-apple-not-completely-killing-dei-initiatives?utm_medium=rss)
+ - [All of the announcements from Amazon&amp;#8217;s Alexa Plus event](https://www.theverge.com/news/618262/amazon-alexa-event-2025-ai-echo-products-news)
+ - [Alexa Plus&amp;#8217; AI upgrades cost $19.99, but it&amp;#8217;s all free with Prime](https://www.theverge.com/news/620005/amazon-alexa-plus-ai-smart-assistant-pricing-availability-devices)
+ - [Amazon&#39;s Souped-Up Alexa+ Arrives Next Month](https://www.wired.com/story/amazon-alexa-plus-2025/)
+ - [Victrola’s cheapest Sonos-compatible turntable is over half off today](https://www.theverge.com/good-deals/619353/victrola-stream-onyx-sonos-turntable-anker-soundcore-sport-x20-earbuds-deal-sale)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

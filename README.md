@@ -160,7 +160,7 @@ R                        1 repo              ░░░░░░░░░░░�
  - [A live blog of Amazon&#39;s Alexa event, where the company is expected to announce its new AI-powered Alexa, a new Fire TV platform, and more &lpar;The Verge&rpar;](http://www.techmeme.com/250226/p26#a250226p26)
  - [Lucid’s CEO steps down, as EV maker aims to double production](https://www.theverge.com/news/619760/lucid-ceo-step-down-double-production)
  - [Amazon Alexa event live blog: all the news from the keynote](https://www.theverge.com/news/618261/amazon-alexa-event-live-blog-2025)
- - [All the news from Amazon&amp;#8217;s AI Alexa event](https://www.theverge.com/news/618262/amazon-alexa-event-2025-ai-echo-products-news)
+ - [Live updates from Amazon&amp;#8217;s 2025 AI Alexa event](https://www.theverge.com/news/618262/amazon-alexa-event-2025-ai-echo-products-news)
  - [Court records: FTX paid nearly $948M to 12+ firms working on its bankruptcy, one of the costliest Chapter 11 cases in US history; users are set to get back 118% &lpar;Jonathan Randles/Bloomberg&rpar;](http://www.techmeme.com/250226/p25#a250226p25)<!-- TECH:END -->
 
 ### 😂 Memes of the hour

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Is it possible to learn this power?](http://9gag.com/gag/a0eXnEZ)
- - 😝 [I feel better but seriously, I&#39;ve got other things to do](http://9gag.com/gag/aGynB8n)
- - 💣 [Suggest your best codes in the comments](http://9gag.com/gag/aRB4vKj)
- - 😝 [When you come to your bestfriend&#39;s house, meet his mom, and suddenly feel HUNGRY](http://9gag.com/gag/a9y68MD)
- - 👉 [I don\u2019t necessarily agree, but I 100% understand.](http://9gag.com/gag/azxdKGp)<!-- MEMES:END -->
+ - 😝 [Grandpa enjoys his coffee very much!](http://9gag.com/gag/aBy6PAD)
+ - 😝 [I hope all understand](http://9gag.com/gag/a9y6mrD)
+ - 💣 [Found this at the gym,](http://9gag.com/gag/a1mN556)
+ - 😝 [Day 1 posting stuff from classic 9gag before all propaganda posts](http://9gag.com/gag/axy3bvW)
+ - 👉 [I have seen this story before](http://9gag.com/gag/aKGAv4b)<!-- MEMES:END -->
 
 ---
 

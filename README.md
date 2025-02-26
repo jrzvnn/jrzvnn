@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Senses tingling](http://9gag.com/gag/apR3AYM)
- - 😝 [This is what Italian sounds like](http://9gag.com/gag/aKGAWmg)
- - 💣 [Found this at the gym,](http://9gag.com/gag/a1mN556)
- - 😝 [Michelle Trachtenberg - RIP](http://9gag.com/gag/aW47DL4)
- - 👉 [When you come to your bestfriend&#39;s house, meet his mom, and suddenly feel HUNGRY](http://9gag.com/gag/a9y68MD)<!-- MEMES:END -->
+ - 😝 [When you come to your bestfriend&#39;s house, meet his mom, and suddenly feel HUNGRY](http://9gag.com/gag/a9y68MD)
+ - 😝 [Is it true?](http://9gag.com/gag/a6ZXpKN)
+ - 💣 [Execute order 66!](http://9gag.com/gag/ary3qWB)
+ - 😝 [Could that even fit on a plane?](http://9gag.com/gag/amo161o)
+ - 👉 [Father of epidermolysis- bullosa son answers question related to his son\u2019s condition](http://9gag.com/gag/ae91Zop)<!-- MEMES:END -->
 
 ---
 

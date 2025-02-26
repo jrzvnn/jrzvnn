@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Google redesigns Results About You, its tool for requesting the removal of Search results with personal info, adding a new hub and the ability to update results &lpar;Jeremy Gan/Engadget&rpar;](http://www.techmeme.com/250226/p33#a250226p33)
  - [US Intelligence backs Apple over UK encryption backdoor demands](https://appleinsider.com/articles/25/02/26/us-intelligence-backs-apple-over-uk-encryption-backdoor-demands?utm_medium=rss)
  - [Apple is selling refurb M4 Macs, but you can find better deals elsewhere](https://appleinsider.com/articles/25/02/26/apple-is-selling-refurb-m4-macs-but-you-can-find-better-deals-elsewhere?utm_medium=rss)
  - [Max’s ad-supported tier is losing CNN and the Bleacher Report](https://www.theverge.com/hbo/619939/max-cnn-bleacher-report-leaving-basic-ad-supported-tier)
- - [Streaming services keep getting more expensive: all the latest price increases](https://www.theverge.com/23901586/streaming-service-prices-netflix-disney-hulu-peacock-max)
- - [iPhone 16e focuses on real needs for regular people](https://appleinsider.com/articles/25/02/26/iphone-16e-focuses-on-real-needs-for-regular-people?utm_medium=rss)<!-- TECH:END -->
+ - [Streaming services keep getting more expensive: all the latest price increases](https://www.theverge.com/23901586/streaming-service-prices-netflix-disney-hulu-peacock-max)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

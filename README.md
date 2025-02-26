@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Qualcomm wants to bring longer Android support to more phones](https://www.theverge.com/news/619716/google-qualcomm-snapdragon-android-support-updates-eight-years)
  - [No, Apple isn&#39;t subliminally calling Trump a racist with its iPhone dictation feature](https://appleinsider.com/articles/25/02/25/no-apple-isnt-subliminally-calling-trump-a-racist-with-its-iphone-dictation-feature?utm_medium=rss)
  - [Mac dominated AI-capable PC market in 2024 despite Windows growth](https://appleinsider.com/articles/25/02/26/mac-dominated-ai-capable-pc-market-in-2024-despite-windows-growth?utm_medium=rss)
  - [ChatGPT is a terrible, fascinating, and thrilling to-do list app](https://www.theverge.com/openai/619352/chatgpt-tasks-operator-productivity)
- - [Apple&#39;s folding iPhone screen may not be plagued with a crease after use](https://appleinsider.com/articles/25/02/26/apples-folding-iphone-screen-may-not-be-plagued-with-a-crease-after-use?utm_medium=rss)
- - [Estonia partners with OpenAI and Anthropic to launch an AI skills drive in schools for 20,000 students aged 16 and 17, aiming to help develop critical thinking &lpar;Financial Times&rpar;](http://www.techmeme.com/250226/p20#a250226p20)<!-- TECH:END -->
+ - [Best Cheap Internet Providers for February 2025](https://www.cnet.com/home/internet/best-cheap-internet/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

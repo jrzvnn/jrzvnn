@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Estonia partners with OpenAI and Anthropic to launch an AI skills drive in schools for 20,000 students aged 16 and 17, aiming to help develop critical thinking &lpar;Financial Times&rpar;](http://www.techmeme.com/250226/p20#a250226p20)
- - [8 Best Toaster Ovens &lpar;2025&rpar;, Tested and Reviewed](https://www.wired.com/gallery/best-toaster-ovens/)
- - [iPhone 17&#39;s rumored camera bar may solve Apple&#39;s internal space dilemma](https://appleinsider.com/articles/25/02/26/iphone-17s-rumored-camera-bar-may-solve-apples-internal-space-dilemma?utm_medium=rss)
- - [Bridgetown Research, which aims to use AI agents to expedite data collection and research in due diligence, raised a $19M Series A led by Accel and Lightspeed &lpar;Jagmeet Singh/TechCrunch&rpar;](http://www.techmeme.com/250226/p19#a250226p19)
- - [Grab Amazon&#39;s best Apple deals from $15 before the month ends](https://appleinsider.com/articles/25/02/23/grab-amazons-best-apple-deals-from-15-before-the-month-ends?utm_medium=rss)<!-- TECH:END -->
+ - [No, Apple isn&#39;t subliminally calling Trump a racist with its iPhone dictation feature](https://appleinsider.com/articles/25/02/25/no-apple-isnt-subliminally-calling-trump-a-racist-with-its-iphone-dictation-feature?utm_medium=rss)
+ - [Mac dominated AI-capable PC market in 2024 despite Windows growth](https://appleinsider.com/articles/25/02/26/mac-dominated-ai-capable-pc-market-in-2024-despite-windows-growth?utm_medium=rss)
+ - [ChatGPT is a terrible, fascinating, and thrilling to-do list app](https://www.theverge.com/openai/619352/chatgpt-tasks-operator-productivity)
+ - [Apple&#39;s folding iPhone screen may not be plagued with a crease after use](https://appleinsider.com/articles/25/02/26/apples-folding-iphone-screen-may-not-be-plagued-with-a-crease-after-use?utm_medium=rss)
+ - [Estonia partners with OpenAI and Anthropic to launch an AI skills drive in schools for 20,000 students aged 16 and 17, aiming to help develop critical thinking &lpar;Financial Times&rpar;](http://www.techmeme.com/250226/p20#a250226p20)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

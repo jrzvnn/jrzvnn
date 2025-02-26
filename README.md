@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Amazon Alexa event live blog: all the news from the keynote](https://www.theverge.com/news/618261/amazon-alexa-event-live-blog-2025)
  - [All the news from Amazon&amp;#8217;s AI Alexa event](https://www.theverge.com/news/618262/amazon-alexa-event-2025-ai-echo-products-news)
- - [Trump says &quot;Apple should get rid of DEI rules, not just make adjustments to them&quot; in a Truth Social post, after Apple investors rejected a proposal to end DEI &lpar;Hadriana Lowenkron/Bloomberg&rpar;](http://www.techmeme.com/250226/p23#a250226p23)
- - [YouTube says it now has 1B+ monthly viewers for podcast content worldwide; users watched 400M+ hours of podcasts monthly on living room devices in 2024 &lpar;Todd Spangler/Variety&rpar;](http://www.techmeme.com/250226/p22#a250226p22)
- - [Razer’s new Blade 18 offers Nvidia RTX 50-series GPUs and a dual mode display](https://www.theverge.com/news/619052/razer-blade-18-nvidia-rtx-5090-gaming-laptop-preorder-asus-msi)
- - [The 9 Best Mirrorless Cameras &lpar;2025&rpar;: Full-Frame, APS-C, and More](https://www.wired.com/gallery/best-mirrorless-cameras/)<!-- TECH:END -->
+ - [Doctor Who returns in April with an evil new cartoon villain](https://www.theverge.com/news/619785/doctor-who-disney-plus-bbc-april-date)
+ - [Framework Desktop hands-on: the tiny 4.5-liter gaming desktop looks cool, good frame rates at 1440p thanks to its AMD Ryzen AI Max CPU, expandable I/O, and more &lpar;Sean Hollister/The Verge&rpar;](http://www.techmeme.com/250226/p24#a250226p24)
+ - [Trump says &quot;Apple should get rid of DEI rules, not just make adjustments to them&quot; in a Truth Social post, after Apple investors rejected a proposal to end DEI &lpar;Hadriana Lowenkron/Bloomberg&rpar;](http://www.techmeme.com/250226/p23#a250226p23)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

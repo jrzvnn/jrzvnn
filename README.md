@@ -167,9 +167,9 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [Yes, but...](http://9gag.com/gag/aKGAYVg)
+ - 😝 [Tips and tricks for landlord](http://9gag.com/gag/a6ZXpr8)
+ - 💣 [This is what you call true emersion](http://9gag.com/gag/ajP1xYq)
  - 😝 [Best comment](http://9gag.com/gag/avy1vdE)
- - 💣 [Tips and tricks for landlord](http://9gag.com/gag/a6ZXpr8)
- - 😝 [This is what you call true emersion](http://9gag.com/gag/ajP1xYq)
  - 👉 [ACME \u2122 wants him.](http://9gag.com/gag/a1mNV2R)<!-- MEMES:END -->
 
 ---

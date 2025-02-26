@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [I have seen this story before](http://9gag.com/gag/aKGAv4b)
- - 😝 [Current state of tinder](http://9gag.com/gag/a5Q6wPr)
- - 💣 [Father of epidermolysis- bullosa son answers question related to his son\u2019s condition](http://9gag.com/gag/ae91Zop)
- - 😝 [They&#39;re evolving](http://9gag.com/gag/a5Q6wjO)
- - 👉 [This 11 year old German girl spotting the difference between 2circles with dots almost instantly](http://9gag.com/gag/an7Rn25)<!-- MEMES:END -->
+ - 😝 [Thief alert](http://9gag.com/gag/aND9Q0A)
+ - 😝 [Maybe a better option for a date compared to movies &lpar;sorry for the cancer&rpar;](http://9gag.com/gag/aoy34NX)
+ - 💣 [They&#39;re evolving](http://9gag.com/gag/a5Q6wjO)
+ - 😝 [Suggest your best codes in the comments](http://9gag.com/gag/aRB4vKj)
+ - 👉 [I don\u2019t necessarily agree, but I 100% understand.](http://9gag.com/gag/azxdKGp)<!-- MEMES:END -->
 
 ---
 

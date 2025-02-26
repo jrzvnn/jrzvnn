@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Grab Amazon&#39;s best Apple deals from $15 before the month ends](https://appleinsider.com/articles/25/02/23/grab-amazons-best-apple-deals-from-15-before-the-month-ends?utm_medium=rss)
+ - [Where to Stream 2025’s Best Picture Oscar Nominees](https://www.wired.com/story/stream-2025-oscar-nominated-movies-best-picture/)
+ - [Apple removing ADP in the UK is a pyrrhic victory for Apple, and UK users&#39; muted response suggests they may not care about privacy as much as the company thinks &lpar;Parmy Olson/Bloomberg&rpar;](http://www.techmeme.com/250226/p18#a250226p18)
  - [Lasso: 20,000+ once-public GitHub repositories from Microsoft, AWS, Google, IBM, Tencent, and 16,000+ other companies are still accessible via Copilot &lpar;Carly Page/TechCrunch&rpar;](http://www.techmeme.com/250226/p17#a250226p17)
- - [Patreon&#39;s 2025 creator economy report shows the future may be direct-to-fan instead of direct-to-consumer, but the hurdles in place are more seismic than ever &lpar;Julia Alexander/Posting Nexus&rpar;](http://www.techmeme.com/250226/p16#a250226p16)
- - [A US federal judge dismisses a lawsuit against TikTok and YouTube over &quot;choking challenge&quot; videos, saying the case failed on its merits and citing Section 230 &lpar;Jacklyn Wille/Bloomberg Law&rpar;](http://www.techmeme.com/250226/p15#a250226p15)
- - [&#39;Reacher&#39; Season 3 Release Schedule: When to Watch Episode 4 on Prime Video](https://www.cnet.com/tech/services-and-software/reacher-season-3-release-schedule-when-to-watch-episode-4-on-prime-video/#ftag=CAD590a51e)
- - [Your Boss Wants You Back in the Office. This Surveillance Tech Could Be Waiting for You](https://www.wired.com/story/your-boss-wants-you-back-in-the-office-this-surveillance-tech-could-be-waiting-for-you/)<!-- TECH:END -->
+ - [Patreon&#39;s 2025 creator economy report shows the future may be direct-to-fan instead of direct-to-consumer, but the hurdles in place are more seismic than ever &lpar;Julia Alexander/Posting Nexus&rpar;](http://www.techmeme.com/250226/p16#a250226p16)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

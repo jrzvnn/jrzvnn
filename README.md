@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Living with extreme heat might make you age faster](https://www.theverge.com/news/620069/heat-aging-health-climate-change-study)
+ - [Snowflake reports Q4 product revenue up 28% YoY to $943.3M, vs. $915.8M est., and forecasts FY 2026 product revenue above estimates; SNOW jumps 8%+ after hours &lpar;Brody Ford/Bloomberg&rpar;](http://www.techmeme.com/250226/p40#a250226p40)
+ - [DOGE Staffers at HUD Are From an AI Real Estate Firm and a Mobile Home Operator](https://www.wired.com/story/doge-hud-systems-access-ai-proptech-real-estate-mobile-home/)
  - [eBay reports Q4 revenue up 1% YoY to $2.6B, GMV up 4% YoY to $19.3B, and forecasts Q1 revenue below expectations; EBAY drops 7%+ after hours &lpar;Juby Babu/Reuters&rpar;](http://www.techmeme.com/250226/p39#a250226p39)
- - [Nvidia reports Q4 revenue up 78% YoY to $39.33B, vs. $38.05B est., Data Center revenue up 93% to $35.6B, and FY 2025 revenue up 114% to $130.5B &lpar;Kif Leswing/CNBC&rpar;](http://www.techmeme.com/250226/p38#a250226p38)
- - [Salesforce reports Q4 revenue up 8% YoY to $9.99B, vs. $10.04B est., and forecasts FY 2026 revenue below estimates; CRM drops 5%+ after hours &lpar;Zaheer Kachwala/Reuters&rpar;](http://www.techmeme.com/250226/p37#a250226p37)
- - [Today&#39;s NYT Connections: Sports Edition Hints and Answers for Feb. 27, #157](https://www.cnet.com/tech/gaming/todays-nyt-connections-sports-edition-hints-and-answers-for-feb-27-157/#ftag=CAD590a51e)
- - [Today&#39;s NYT Strands Hints, Answers and Help for Feb. 27, #361](https://www.cnet.com/tech/gaming/todays-nyt-strands-hints-answers-and-help-for-feb-27-361/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Nvidia reports Q4 revenue up 78% YoY to $39.33B, vs. $38.05B est., Data Center revenue up 93% to $35.6B, and FY 2025 revenue up 114% to $130.5B &lpar;Kif Leswing/CNBC&rpar;](http://www.techmeme.com/250226/p38#a250226p38)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

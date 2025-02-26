@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Is it true?](http://9gag.com/gag/a6ZXpKN)
- - 😝 [Thief alert](http://9gag.com/gag/aND9Q0A)
- - 💣 [When you come to your bestfriend&#39;s house, meet his mom, and suddenly feel HUNGRY](http://9gag.com/gag/a9y68MD)
- - 😝 [I don\u2019t necessarily agree, but I 100% understand.](http://9gag.com/gag/azxdKGp)
- - 👉 [I hope all understand](http://9gag.com/gag/a9y6mrD)<!-- MEMES:END -->
+ - 😝 [Yes, but...](http://9gag.com/gag/aKGAYVg)
+ - 😝 [This will probably get lost in Fresh, but I just wanted to share with you guys that I finally published my first book](http://9gag.com/gag/a9y6256)
+ - 💣 [Tips and tricks for landlord](http://9gag.com/gag/a6ZXpr8)
+ - 😝 [This is what you call true emersion](http://9gag.com/gag/ajP1xYq)
+ - 👉 [Modern problem required modern solutions](http://9gag.com/gag/avy1vrZ)<!-- MEMES:END -->
 
 ---
 

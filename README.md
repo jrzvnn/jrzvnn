@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [A profile of Walmart CEO Doug McMillon, who led the company from trailing eBay and Apple in online sales to becoming the world&#39;s second-largest e-commerce firm &lpar;Bloomberg&rpar;](http://www.techmeme.com/250226/p6#a250226p6)
  - [Sources: DeepSeek, which planned to release R2 in May, now wants it out as early as possible; DeepSeek&#39;s owner High-Flyer built a ~10K A100 GPU cluster in 2021 &lpar;Reuters&rpar;](http://www.techmeme.com/250226/p5#a250226p5)
  - [Analysts expect Amazon to spend up to $25B of its $100B capex in 2025 on its retail network, focusing on automation and efficiency, amid the AI spending boom &lpar;Rafe Uddin/Financial Times&rpar;](http://www.techmeme.com/250226/p4#a250226p4)
  - [H&amp;R Block Coupons and Deals: 20% Off Tax Prep in 2025](https://www.wired.com/story/hr-block-coupon/)
- - [Sources: in July 2024, Microsoft told top GOP officials that Chinese hackers had accessed the RNC email system for months; the RNC chose not to alert the FBI &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/250226/p3#a250226p3)
- - [Adidas Promo Codes &amp; Deals: 15% Off](https://www.wired.com/story/adidas-promo-code/)<!-- TECH:END -->
+ - [Sources: in July 2024, Microsoft told top GOP officials that Chinese hackers had accessed the RNC email system for months; the RNC chose not to alert the FBI &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/250226/p3#a250226p3)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Jesse is high again](http://9gag.com/gag/aGyn8ow)
- - 😝 [New Self defence style](http://9gag.com/gag/a9y68mL)
- - 💣 [Escalation at its finest!](http://9gag.com/gag/a5Q6B5L)
- - 😝 [I feel better but seriously, I&#39;ve got other things to do](http://9gag.com/gag/aGynB8n)
- - 👉 [WTF??](http://9gag.com/gag/a4P6Nmd)<!-- MEMES:END -->
+ - 😝 [Suggest your best codes in the comments](http://9gag.com/gag/aRB4vKj)
+ - 😝 [How to starve a croc](http://9gag.com/gag/aVvoKKK)
+ - 💣 [This 11 year old German girl spotting the difference between 2circles with dots almost instantly](http://9gag.com/gag/an7Rn25)
+ - 😝 [Escalation at its finest!](http://9gag.com/gag/a5Q6B5L)
+ - 👉 [Thief alert](http://9gag.com/gag/aND9Q0A)<!-- MEMES:END -->
 
 ---
 

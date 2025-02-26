@@ -158,10 +158,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- TECH:START -->
  - [All the news from Amazon&amp;#8217;s AI Alexa event](https://www.theverge.com/news/618262/amazon-alexa-event-2025-ai-echo-products-news)
+ - [Trump says &quot;Apple should get rid of DEI rules, not just make adjustments to them&quot; in a Truth Social post, after Apple investors rejected a proposal to end DEI &lpar;Hadriana Lowenkron/Bloomberg&rpar;](http://www.techmeme.com/250226/p23#a250226p23)
  - [YouTube says it now has 1B+ monthly viewers for podcast content worldwide; users watched 400M+ hours of podcasts monthly on living room devices in 2024 &lpar;Todd Spangler/Variety&rpar;](http://www.techmeme.com/250226/p22#a250226p22)
  - [Razer’s new Blade 18 offers Nvidia RTX 50-series GPUs and a dual mode display](https://www.theverge.com/news/619052/razer-blade-18-nvidia-rtx-5090-gaming-laptop-preorder-asus-msi)
- - [The 9 Best Mirrorless Cameras &lpar;2025&rpar;: Full-Frame, APS-C, and More](https://www.wired.com/gallery/best-mirrorless-cameras/)
- - [Framework Desktop hands-on: a possible new direction for gaming desktops](https://www.theverge.com/pc-gaming/619605/framework-desktop-preview-hands-on)<!-- TECH:END -->
+ - [The 9 Best Mirrorless Cameras &lpar;2025&rpar;: Full-Frame, APS-C, and More](https://www.wired.com/gallery/best-mirrorless-cameras/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

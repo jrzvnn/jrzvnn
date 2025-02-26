@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [Escalation at its finest!](http://9gag.com/gag/a5Q6B5L)
  - 😝 [I have seen this story before](http://9gag.com/gag/aKGAv4b)
+ - 💣 [Taking advantage of people for clout](http://9gag.com/gag/awy316D)
  - 😝 [I don\u2019t necessarily agree, but I 100% understand.](http://9gag.com/gag/azxdKGp)
- - 💣 [This 11 year old German girl spotting the difference between 2circles with dots almost instantly](http://9gag.com/gag/an7Rn25)
- - 😝 [Taking advantage of people for clout](http://9gag.com/gag/awy316D)
- - 👉 [Escalation at its finest!](http://9gag.com/gag/a5Q6B5L)<!-- MEMES:END -->
+ - 👉 [Maybe a better option for a date compared to movies &lpar;sorry for the cancer&rpar;](http://9gag.com/gag/aoy34NX)<!-- MEMES:END -->
 
 ---
 

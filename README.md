@@ -167,10 +167,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [I have seen this story before](http://9gag.com/gag/aKGAv4b)
- - 😝 [Suggest your best codes in the comments](http://9gag.com/gag/aRB4vKj)
- - 💣 [Is it possible to learn this power?](http://9gag.com/gag/a0eXnEZ)
- - 😝 [This 11 year old German girl spotting the difference between 2circles with dots almost instantly](http://9gag.com/gag/an7Rn25)
- - 👉 [How to starve a croc](http://9gag.com/gag/aVvoKKK)<!-- MEMES:END -->
+ - 😝 [I don\u2019t necessarily agree, but I 100% understand.](http://9gag.com/gag/azxdKGp)
+ - 💣 [This 11 year old German girl spotting the difference between 2circles with dots almost instantly](http://9gag.com/gag/an7Rn25)
+ - 😝 [Taking advantage of people for clout](http://9gag.com/gag/awy316D)
+ - 👉 [Escalation at its finest!](http://9gag.com/gag/a5Q6B5L)<!-- MEMES:END -->
 
 ---
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Escalation at its finest!](http://9gag.com/gag/a5Q6B5L)
+ - 😝 [Is it true?](http://9gag.com/gag/a6ZXpKN)
+ - 😝 [Maybe a better option for a date compared to movies &lpar;sorry for the cancer&rpar;](http://9gag.com/gag/aoy34NX)
+ - 💣 [When you come to your bestfriend&#39;s house, meet his mom, and suddenly feel HUNGRY](http://9gag.com/gag/a9y68MD)
  - 😝 [I have seen this story before](http://9gag.com/gag/aKGAv4b)
- - 💣 [Taking advantage of people for clout](http://9gag.com/gag/awy316D)
- - 😝 [I don\u2019t necessarily agree, but I 100% understand.](http://9gag.com/gag/azxdKGp)
- - 👉 [Maybe a better option for a date compared to movies &lpar;sorry for the cancer&rpar;](http://9gag.com/gag/aoy34NX)<!-- MEMES:END -->
+ - 👉 [Football player meets a special needs fan](http://9gag.com/gag/aGynAXn)<!-- MEMES:END -->
 
 ---
 

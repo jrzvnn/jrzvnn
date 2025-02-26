@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Names Hank](http://9gag.com/gag/awy3LeB)
- - 😝 [Mlue.](http://9gag.com/gag/aLnzmyM)
- - 💣 [The most Legendary penalty kick of all time](http://9gag.com/gag/aRB4z72)
+ - 😝 [Oh shee oh shee](http://9gag.com/gag/aoy3LQw)
  - 😝 [I hope all understand](http://9gag.com/gag/a9y6mrD)
- - 👉 [Oh shee oh shee](http://9gag.com/gag/aoy3LQw)<!-- MEMES:END -->
+ - 💣 [The most Legendary penalty kick of all time](http://9gag.com/gag/aRB4z72)
+ - 😝 [Execute order 66!](http://9gag.com/gag/ary3qWB)
+ - 👉 [Day 1 posting stuff from classic 9gag before all propaganda posts](http://9gag.com/gag/axy3bvW)<!-- MEMES:END -->
 
 ---
 

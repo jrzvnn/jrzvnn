@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [US Intelligence backs Apple over UK encryption backdoor demands](https://appleinsider.com/articles/25/02/26/us-intelligence-backs-apple-over-uk-encryption-backdoor-demands?utm_medium=rss)
+ - [Apple is selling refurb M4 Macs, but you can find better deals elsewhere](https://appleinsider.com/articles/25/02/26/apple-is-selling-refurb-m4-macs-but-you-can-find-better-deals-elsewhere?utm_medium=rss)
  - [Max’s ad-supported tier is losing CNN and the Bleacher Report](https://www.theverge.com/hbo/619939/max-cnn-bleacher-report-leaving-basic-ad-supported-tier)
  - [Streaming services keep getting more expensive: all the latest price increases](https://www.theverge.com/23901586/streaming-service-prices-netflix-disney-hulu-peacock-max)
- - [iPhone 16e focuses on real needs for regular people](https://appleinsider.com/articles/25/02/26/iphone-16e-focuses-on-real-needs-for-regular-people?utm_medium=rss)
- - [Letter: US DNI Tulsi Gabbard calls the UK&#39;s order for Apple to add an iCloud backdoor an &quot;egregious&quot; violation of Americans&#39; rights and plans a legal review &lpar;Joseph Menn/Washington Post&rpar;](http://www.techmeme.com/250226/p32#a250226p32)
- - [Jeff Bezos bans Washington Post opinion writers from opposing ‘free speech and free markets’](https://www.theverge.com/news/619887/jeff-bezos-washington-post-opinion-section-limits-free-speech-markets)<!-- TECH:END -->
+ - [iPhone 16e focuses on real needs for regular people](https://appleinsider.com/articles/25/02/26/iphone-16e-focuses-on-real-needs-for-regular-people?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

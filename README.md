@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Valve&#39;s Steam Deck, launched in 2022, has been dominating the handheld PC gaming market, with about 50% market share in 2024, according to IDC &lpar;Sean Hollister/The Verge&rpar;](http://www.techmeme.com/250225/p56#a250225p56)
+ - [‘We&amp;#8217;re nowhere near done with Framework Laptop 16’ says Framework CEO](https://www.theverge.com/news/619586/framework-laptop-16-update-one-key-but-not-done)
+ - [Longer-lasting laptops: the modular hardware you can upgrade and repair yourself](https://www.theverge.com/24190757/modular-laptops-repairable-upgradable-diy)
  - [Razer’s new Blade 18 offers Nvidia RTX 50-series GPUs and a dual mode display](https://www.theverge.com/news/619052/razer-blade-18-nvidia-rtx-5090-gaming-laptop-preorder-asus-msi)
- - [Sources: Meta is in talks to build a new data center campus for AI that could cost over $200B, based on the number of chips and the amount of power for the site &lpar;Anissa Gardizy/The Information&rpar;](http://www.techmeme.com/250225/p55#a250225p55)
- - [Govee countertop ice maker review: Matter control to chill those beverages](https://appleinsider.com/articles/25/02/26/govee-countertop-ice-maker-review-matter-control-to-chill-those-beverages?utm_medium=rss)
- - [Flow48, which provides revenue-based financing solutions for SME, raised a $69M Series A in debt and equity led by Breega and plans a Saudi Arabia expansion &lpar;Lucy Adams/Tech.eu&rpar;](http://www.techmeme.com/250225/p54#a250225p54)
- - [Source: data security company Cohesity plans an employee share sale at an $8B valuation and expects to generate $2.2B in revenue in the 12 months ending in July &lpar;The Information&rpar;](http://www.techmeme.com/250225/p53#a250225p53)<!-- TECH:END -->
+ - [Sources: Meta is in talks to build a new data center campus for AI that could cost over $200B, based on the number of chips and the amount of power for the site &lpar;Anissa Gardizy/The Information&rpar;](http://www.techmeme.com/250225/p55#a250225p55)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

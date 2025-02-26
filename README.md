@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Suggest your best codes in the comments](http://9gag.com/gag/aRB4vKj)
- - 😝 [How to starve a croc](http://9gag.com/gag/aVvoKKK)
- - 💣 [This 11 year old German girl spotting the difference between 2circles with dots almost instantly](http://9gag.com/gag/an7Rn25)
- - 😝 [Escalation at its finest!](http://9gag.com/gag/a5Q6B5L)
- - 👉 [Thief alert](http://9gag.com/gag/aND9Q0A)<!-- MEMES:END -->
+ - 😝 [When you&#39;re mad, but still love your partner](http://9gag.com/gag/a6ZXnwL)
+ - 😝 [When you come to your bestfriend&#39;s house, meet his mom, and suddenly feel HUNGRY](http://9gag.com/gag/a9y68MD)
+ - 💣 [They&#39;re evolving](http://9gag.com/gag/a5Q6wjO)
+ - 😝 [Grandpa enjoys his coffee very much!](http://9gag.com/gag/aBy6PAD)
+ - 👉 [When you&#39;re mad at him but he&#39;s actually funny](http://9gag.com/gag/aGynn3Z)<!-- MEMES:END -->
 
 ---
 

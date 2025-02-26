@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [How to hide faces and scrub metadata when you photograph a protest](https://www.theverge.com/21281897/how-to-hide-faces-scrub-metadata-photograph-video-protest)
+ - [Amazon&#39;s Panos Panay demoed Alexa+ in a flowing ongoing conversation and says it can book concert tickets, make restaurant reservations, and text a babysitter &lpar;Bloomberg&rpar;](http://www.techmeme.com/250226/p28#a250226p28)
  - [Apple Vision Pro gets Bono documentary for first feature-length immersive video](https://appleinsider.com/articles/25/02/26/apple-vision-pro-gets-bono-documentary-for-first-feature-length-immersive-video?utm_medium=rss)
  - [Amazon unveils Alexa+, a generative AI update trained to detect tone and mood, with vision capabilities, after first planning to &quot;supercharge&quot; Alexa in 2023 &lpar;Wes Davis/The Verge&rpar;](http://www.techmeme.com/250226/p27#a250226p27)
- - [Live updates from Amazon&amp;#8217;s 2025 AI Alexa event](https://www.theverge.com/news/618262/amazon-alexa-event-2025-ai-echo-products-news)
- - [Amazon announces AI-powered Alexa Plus](https://www.theverge.com/news/619755/amazon-alexa-ai-upgrade-artificial-intelligence-smart-assistant)
- - [Our favorite 3-in-1 MagSafe chargers in 2025](https://appleinsider.com/articles/25/02/26/our-favorite-3-in-1-magsafe-chargers-in-2025?utm_medium=rss)<!-- TECH:END -->
+ - [Live updates from Amazon&amp;#8217;s 2025 AI Alexa event](https://www.theverge.com/news/618262/amazon-alexa-event-2025-ai-echo-products-news)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

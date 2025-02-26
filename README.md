@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Maybe a better option for a date compared to movies &lpar;sorry for the cancer&rpar;](http://9gag.com/gag/aoy34NX)
- - 😝 [How to starve a croc](http://9gag.com/gag/aVvoKKK)
- - 💣 [They&#39;re evolving](http://9gag.com/gag/a5Q6wjO)
- - 😝 [I hope all understand](http://9gag.com/gag/a9y6mrD)
- - 👉 [I have seen this story before](http://9gag.com/gag/aKGAv4b)<!-- MEMES:END -->
+ - 😝 [Escalation at its finest!](http://9gag.com/gag/a5Q6B5L)
+ - 😝 [This is what Italian sounds like](http://9gag.com/gag/aKGAWmg)
+ - 💣 [I have seen this story before](http://9gag.com/gag/aKGAv4b)
+ - 😝 [Is it possible to learn this power?](http://9gag.com/gag/a0eXnEZ)
+ - 👉 [Found this at the gym,](http://9gag.com/gag/a1mN556)<!-- MEMES:END -->
 
 ---
 

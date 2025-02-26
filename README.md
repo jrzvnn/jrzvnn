@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [DeepSeek cuts API prices in off-peak times, between 00:30 and 08:30 in Beijing, by 75% for R1 and 50% for V3; the times are during US and Europe daylight hours &lpar;Eduardo Baptista/Reuters&rpar;](http://www.techmeme.com/250226/p21#a250226p21)
  - [Qualcomm wants to bring longer Android support to more phones](https://www.theverge.com/news/619716/google-qualcomm-snapdragon-android-support-updates-eight-years)
  - [No, Apple isn&#39;t subliminally calling Trump a racist with its iPhone dictation feature](https://appleinsider.com/articles/25/02/25/no-apple-isnt-subliminally-calling-trump-a-racist-with-its-iphone-dictation-feature?utm_medium=rss)
  - [Mac dominated AI-capable PC market in 2024 despite Windows growth](https://appleinsider.com/articles/25/02/26/mac-dominated-ai-capable-pc-market-in-2024-despite-windows-growth?utm_medium=rss)
- - [ChatGPT is a terrible, fascinating, and thrilling to-do list app](https://www.theverge.com/openai/619352/chatgpt-tasks-operator-productivity)
- - [Best Cheap Internet Providers for February 2025](https://www.cnet.com/home/internet/best-cheap-internet/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [ChatGPT is a terrible, fascinating, and thrilling to-do list app](https://www.theverge.com/openai/619352/chatgpt-tasks-operator-productivity)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

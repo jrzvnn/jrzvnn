@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Rock, Paper, Scissor](http://9gag.com/gag/aZZ12W6)
- - 😝 [Is it possible to learn this power?](http://9gag.com/gag/a0eXnEZ)
- - 💣 [Close range explosion and shock wave \ud83d\udca8](http://9gag.com/gag/a876DN1)
- - 😝 [Ancient technique to jump from heights](http://9gag.com/gag/awy31AQ)
- - 👉 [Tips and tricks for landlord](http://9gag.com/gag/a6ZXpr8)<!-- MEMES:END -->
+ - 😝 [Senses tingling](http://9gag.com/gag/apR3AYM)
+ - 😝 [This is what Italian sounds like](http://9gag.com/gag/aKGAWmg)
+ - 💣 [Found this at the gym,](http://9gag.com/gag/a1mN556)
+ - 😝 [Michelle Trachtenberg - RIP](http://9gag.com/gag/aW47DL4)
+ - 👉 [When you come to your bestfriend&#39;s house, meet his mom, and suddenly feel HUNGRY](http://9gag.com/gag/a9y68MD)<!-- MEMES:END -->
 
 ---
 

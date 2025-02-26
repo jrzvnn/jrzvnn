@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [DeepSeek cuts API prices in off-peak times, between 00:30 and 08:30 in Beijing, by 75% for R1 and 50% for V3; the times are during US and Europe daylight hours &lpar;Eduardo Baptista/Reuters&rpar;](http://www.techmeme.com/250226/p21#a250226p21)
- - [Qualcomm wants to bring longer Android support to more phones](https://www.theverge.com/news/619716/google-qualcomm-snapdragon-android-support-updates-eight-years)
- - [No, Apple isn&#39;t subliminally calling Trump a racist with its iPhone dictation feature](https://appleinsider.com/articles/25/02/25/no-apple-isnt-subliminally-calling-trump-a-racist-with-its-iphone-dictation-feature?utm_medium=rss)
- - [Mac dominated AI-capable PC market in 2024 despite Windows growth](https://appleinsider.com/articles/25/02/26/mac-dominated-ai-capable-pc-market-in-2024-despite-windows-growth?utm_medium=rss)
- - [ChatGPT is a terrible, fascinating, and thrilling to-do list app](https://www.theverge.com/openai/619352/chatgpt-tasks-operator-productivity)<!-- TECH:END -->
+ - [All the news from Amazon&amp;#8217;s AI Alexa event](https://www.theverge.com/news/618262/amazon-alexa-event-2025-ai-echo-products-news)
+ - [YouTube says it now has 1B+ monthly viewers for podcast content worldwide; users watched 400M+ hours of podcasts monthly on living room devices in 2024 &lpar;Todd Spangler/Variety&rpar;](http://www.techmeme.com/250226/p22#a250226p22)
+ - [Razer’s new Blade 18 offers Nvidia RTX 50-series GPUs and a dual mode display](https://www.theverge.com/news/619052/razer-blade-18-nvidia-rtx-5090-gaming-laptop-preorder-asus-msi)
+ - [The 9 Best Mirrorless Cameras &lpar;2025&rpar;: Full-Frame, APS-C, and More](https://www.wired.com/gallery/best-mirrorless-cameras/)
+ - [Framework Desktop hands-on: a possible new direction for gaming desktops](https://www.theverge.com/pc-gaming/619605/framework-desktop-preview-hands-on)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

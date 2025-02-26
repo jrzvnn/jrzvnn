@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [When you come to your bestfriend&#39;s house, meet his mom, and suddenly feel HUNGRY](http://9gag.com/gag/a9y68MD)
- - 😝 [I have seen this story before](http://9gag.com/gag/aKGAv4b)
- - 💣 [This 11 year old German girl spotting the difference between 2circles with dots almost instantly](http://9gag.com/gag/an7Rn25)
+ - 😝 [Maybe a better option for a date compared to movies &lpar;sorry for the cancer&rpar;](http://9gag.com/gag/aoy34NX)
  - 😝 [How to starve a croc](http://9gag.com/gag/aVvoKKK)
- - 👉 [Escalation at its finest!](http://9gag.com/gag/a5Q6B5L)<!-- MEMES:END -->
+ - 💣 [They&#39;re evolving](http://9gag.com/gag/a5Q6wjO)
+ - 😝 [I hope all understand](http://9gag.com/gag/a9y6mrD)
+ - 👉 [I have seen this story before](http://9gag.com/gag/aKGAv4b)<!-- MEMES:END -->
 
 ---
 

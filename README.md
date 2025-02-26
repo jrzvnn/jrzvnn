@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Survey: 92% of UK undergrad students use AI to help them with their studies, up from 66% a year ago, raising questions about how universities assess their work &lpar;Financial Times&rpar;](http://www.techmeme.com/250226/p8#a250226p8)
  - [Volvo ES90 will charge faster, drive farther than other Volvo EVs](https://www.theverge.com/news/619345/volvo-es90-range-battery-charging-ev-voltage)
  - [China&#39;s aggressive expansion into mature chips, expected to account for 28% of the market in 2025, is driving prices down to previously unthinkable levels &lpar;Nikkei Asia&rpar;](http://www.techmeme.com/250226/p7#a250226p7)
  - [A profile of Walmart CEO Doug McMillon, who led the company from trailing eBay and Apple in online sales to becoming the world&#39;s second-largest e-commerce firm &lpar;Bloomberg&rpar;](http://www.techmeme.com/250226/p6#a250226p6)
- - [Sources: DeepSeek, which planned to release R2 in May, now wants it out as early as possible; DeepSeek&#39;s owner High-Flyer built a ~10K A100 GPU cluster in 2021 &lpar;Reuters&rpar;](http://www.techmeme.com/250226/p5#a250226p5)
- - [Analysts expect Amazon to spend up to $25B of its $100B capex in 2025 on its retail network, focusing on automation and efficiency, amid the AI spending boom &lpar;Rafe Uddin/Financial Times&rpar;](http://www.techmeme.com/250226/p4#a250226p4)<!-- TECH:END -->
+ - [Sources: DeepSeek, which planned to release R2 in May, now wants it out as early as possible; DeepSeek&#39;s owner High-Flyer built a ~10K A100 GPU cluster in 2021 &lpar;Reuters&rpar;](http://www.techmeme.com/250226/p5#a250226p5)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

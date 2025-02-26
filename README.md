@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Nvidia reports Q4 revenue up 78% YoY to $39.33B, vs. $38.05B est., Data Center revenue up 93% to $35.6B, and FY 2025 revenue up 114% to $130.5B &lpar;Kif Leswing/CNBC&rpar;](http://www.techmeme.com/250226/p38#a250226p38)
+ - [Salesforce reports Q4 revenue up 8% YoY to $9.99B, vs. $10.04B est., and forecasts FY 2026 revenue below estimates; CRM drops 5%+ after hours &lpar;Zaheer Kachwala/Reuters&rpar;](http://www.techmeme.com/250226/p37#a250226p37)
  - [Today&#39;s NYT Connections: Sports Edition Hints and Answers for Feb. 27, #157](https://www.cnet.com/tech/gaming/todays-nyt-connections-sports-edition-hints-and-answers-for-feb-27-157/#ftag=CAD590a51e)
  - [Today&#39;s NYT Strands Hints, Answers and Help for Feb. 27, #361](https://www.cnet.com/tech/gaming/todays-nyt-strands-hints-answers-and-help-for-feb-27-361/#ftag=CAD590a51e)
- - [Kick off Pokémon Day 2025 with this gorgeous short film](https://www.theverge.com/news/618887/dragonite-and-the-special-delivery-pokemon-day-2025)
- - [Today&#39;s NYT Connections Hints, Answers and Help for Feb. 27, #627](https://www.cnet.com/tech/gaming/todays-nyt-connections-hints-answers-and-help-for-feb-27-627/#ftag=CAD590a51e)
- - [Today&#39;s Wordle Hints, Answer and Help for Feb. 27, #1349](https://www.cnet.com/tech/gaming/todays-wordle-hints-answer-and-help-for-feb-27-1349/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Kick off Pokémon Day 2025 with this gorgeous short film](https://www.theverge.com/news/618887/dragonite-and-the-special-delivery-pokemon-day-2025)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

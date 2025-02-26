@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Snowball activates self-driving car](http://9gag.com/gag/aPAm87G)
+ - 😝 [I have seen this story before](http://9gag.com/gag/aKGAv4b)
  - 😝 [Suggest your best codes in the comments](http://9gag.com/gag/aRB4vKj)
  - 💣 [Is it possible to learn this power?](http://9gag.com/gag/a0eXnEZ)
- - 😝 [Maybe a better option for a date compared to movies &lpar;sorry for the cancer&rpar;](http://9gag.com/gag/aoy34NX)
- - 👉 [New Self defence style](http://9gag.com/gag/a9y68mL)<!-- MEMES:END -->
+ - 😝 [This 11 year old German girl spotting the difference between 2circles with dots almost instantly](http://9gag.com/gag/an7Rn25)
+ - 👉 [How to starve a croc](http://9gag.com/gag/aVvoKKK)<!-- MEMES:END -->
 
 ---
 

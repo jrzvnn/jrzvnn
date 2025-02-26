@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [I have seen this story before](http://9gag.com/gag/aKGAv4b)
- - 😝 [Current state of tinder](http://9gag.com/gag/a5Q6wPr)
- - 💣 [Is it possible to learn this power?](http://9gag.com/gag/a0eXnEZ)
- - 😝 [I hope all understand](http://9gag.com/gag/a9y6mrD)
- - 👉 [How to starve a croc](http://9gag.com/gag/aVvoKKK)<!-- MEMES:END -->
+ - 😝 [Grandpa enjoys his coffee very much!](http://9gag.com/gag/aBy6PAD)
+ - 😝 [They&#39;re evolving](http://9gag.com/gag/a5Q6wjO)
+ - 💣 [Star Wars Fans Beating The Status Quo &lpar;like always&rpar;](http://9gag.com/gag/aXPM4pP)
+ - 😝 [You: decide to have some tea after a hard day at work to calm your nerves. That very last nerve cell:](http://9gag.com/gag/aKGAWPN)
+ - 👉 [This will probably get lost in Fresh, but I just wanted to share with you guys that I finally published my first book](http://9gag.com/gag/a9y6256)<!-- MEMES:END -->
 
 ---
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [It’s clearly time: all the news about the transparent tech renaissance](https://www.theverge.com/23774468/clear-transparent-tech-gadgets-news-announcements-products)
- - [All of the announcements from Amazon&amp;#8217;s Alexa Plus event](https://www.theverge.com/news/618262/amazon-alexa-event-2025-ai-echo-products-news)
- - [Alexa Plus leaves behind Amazon&amp;#8217;s earliest Echo devices](https://www.theverge.com/news/620145/amazon-alexa-plus-no-early-echo-device-support)
- - [Hume launches Octave, an LLM for text-to-speech that generates custom AI voices with adjustable emotions, offering a free tier with 10,000 characters per month &lpar;Carl Franzen/VentureBeat&rpar;](http://www.techmeme.com/250226/p36#a250226p36)
- - [Amazon launches Alexa+ as Siri advancements drag on](https://appleinsider.com/articles/25/02/26/amazon-launches-alexa-as-siri-advancements-drag-on?utm_medium=rss)<!-- TECH:END -->
+ - [Today&#39;s NYT Connections: Sports Edition Hints and Answers for Feb. 27, #157](https://www.cnet.com/tech/gaming/todays-nyt-connections-sports-edition-hints-and-answers-for-feb-27-157/#ftag=CAD590a51e)
+ - [Today&#39;s NYT Strands Hints, Answers and Help for Feb. 27, #361](https://www.cnet.com/tech/gaming/todays-nyt-strands-hints-answers-and-help-for-feb-27-361/#ftag=CAD590a51e)
+ - [Kick off Pokémon Day 2025 with this gorgeous short film](https://www.theverge.com/news/618887/dragonite-and-the-special-delivery-pokemon-day-2025)
+ - [Today&#39;s NYT Connections Hints, Answers and Help for Feb. 27, #627](https://www.cnet.com/tech/gaming/todays-nyt-connections-hints-answers-and-help-for-feb-27-627/#ftag=CAD590a51e)
+ - [Today&#39;s Wordle Hints, Answer and Help for Feb. 27, #1349](https://www.cnet.com/tech/gaming/todays-wordle-hints-answer-and-help-for-feb-27-1349/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

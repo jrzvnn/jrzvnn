@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [All of the announcements from Amazon&amp;#8217;s 2025 Alexa Plus event](https://www.theverge.com/news/618262/amazon-alexa-event-2025-ai-echo-products-news)
+ - [Amazon is launching Alexa.com and new app for Alexa Plus](https://www.theverge.com/news/619923/amazon-alexa-plus-com-mobile-app)
+ - [AppLovin&#39;s stock falls 10%+ after two short sellers released reports questioning the integrity of the company&#39;s AI-powered AXON ad software &lpar;CJ Haddad/CNBC&rpar;](http://www.techmeme.com/250226/p31#a250226p31)
  - [Amazon says Alexa+ is &quot;model agnostic&quot;, using Amazon Nova models and Anthropic&#39;s models, and picks the &quot;best&quot; AI model for a task, drawing on Amazon Bedrock &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/250226/p30#a250226p30)
- - [Amazon says Alexa+ will be able to navigate through movies on Prime Video due to Alexa, Prime Video, and Fire TV&#39;s integration, including &quot;jump to a scene&quot; &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/250226/p29#a250226p29)
- - [How to hide faces and scrub metadata when you photograph a protest](https://www.theverge.com/21281897/how-to-hide-faces-scrub-metadata-photograph-video-protest)
- - [Amazon&#39;s Panos Panay demoed Alexa+ in a flowing ongoing conversation and says it can book concert tickets, make restaurant reservations, and text a babysitter &lpar;Bloomberg&rpar;](http://www.techmeme.com/250226/p28#a250226p28)
- - [Apple Vision Pro gets Bono documentary for first feature-length immersive video](https://appleinsider.com/articles/25/02/26/apple-vision-pro-gets-bono-documentary-for-first-feature-length-immersive-video?utm_medium=rss)<!-- TECH:END -->
+ - [Amazon says Alexa+ will be able to navigate through movies on Prime Video due to Alexa, Prime Video, and Fire TV&#39;s integration, including &quot;jump to a scene&quot; &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/250226/p29#a250226p29)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

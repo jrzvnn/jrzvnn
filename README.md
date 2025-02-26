@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Letter: US DNI Tulsi Gabbard calls the UK&#39;s order for Apple to add an iCloud backdoor an &quot;egregious&quot; violation of Americans&#39; rights and plans a legal review &lpar;Joseph Menn/Washington Post&rpar;](http://www.techmeme.com/250226/p32#a250226p32)
+ - [Jeff Bezos bans Washington Post opinion writers from opposing ‘free speech and free markets’](https://www.theverge.com/news/619887/jeff-bezos-washington-post-opinion-section-limits-free-speech-markets)
  - [Longer-lasting laptops: the modular hardware you can upgrade and repair yourself](https://www.theverge.com/24190757/modular-laptops-repairable-upgradable-diy)
  - [President Trump is irritated about Apple not completely killing DEI initiatives](https://appleinsider.com/articles/25/02/26/president-trump-is-irritated-about-apple-not-completely-killing-dei-initiatives?utm_medium=rss)
- - [All of the announcements from Amazon&amp;#8217;s Alexa Plus event](https://www.theverge.com/news/618262/amazon-alexa-event-2025-ai-echo-products-news)
- - [Alexa Plus&amp;#8217; AI upgrades cost $19.99, but it&amp;#8217;s all free with Prime](https://www.theverge.com/news/620005/amazon-alexa-plus-ai-smart-assistant-pricing-availability-devices)
- - [Amazon&#39;s Souped-Up Alexa+ Arrives Next Month](https://www.wired.com/story/amazon-alexa-plus-2025/)<!-- TECH:END -->
+ - [All of the announcements from Amazon&amp;#8217;s Alexa Plus event](https://www.theverge.com/news/618262/amazon-alexa-event-2025-ai-echo-products-news)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

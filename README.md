@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [When you&#39;re mad, but still love your partner](http://9gag.com/gag/a6ZXnwL)
+ - 😝 [Is it possible to learn this power?](http://9gag.com/gag/a0eXnEZ)
+ - 😝 [I feel better but seriously, I&#39;ve got other things to do](http://9gag.com/gag/aGynB8n)
+ - 💣 [Suggest your best codes in the comments](http://9gag.com/gag/aRB4vKj)
  - 😝 [When you come to your bestfriend&#39;s house, meet his mom, and suddenly feel HUNGRY](http://9gag.com/gag/a9y68MD)
- - 💣 [They&#39;re evolving](http://9gag.com/gag/a5Q6wjO)
- - 😝 [Grandpa enjoys his coffee very much!](http://9gag.com/gag/aBy6PAD)
- - 👉 [When you&#39;re mad at him but he&#39;s actually funny](http://9gag.com/gag/aGynn3Z)<!-- MEMES:END -->
+ - 👉 [I don\u2019t necessarily agree, but I 100% understand.](http://9gag.com/gag/azxdKGp)<!-- MEMES:END -->
 
 ---
 

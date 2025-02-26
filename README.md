@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Tips and tricks for landlord](http://9gag.com/gag/a6ZXpr8)
- - 😝 [This is what you call true emersion](http://9gag.com/gag/ajP1xYq)
- - 💣 [ACME \u2122 wants him.](http://9gag.com/gag/a1mNV2R)
- - 😝 [Modern problem required modern solutions](http://9gag.com/gag/avy1vrZ)
- - 👉 [Oh shee oh shee](http://9gag.com/gag/aoy3LQw)<!-- MEMES:END -->
+ - 😝 [Rock, Paper, Scissor](http://9gag.com/gag/aZZ12W6)
+ - 😝 [Is it possible to learn this power?](http://9gag.com/gag/a0eXnEZ)
+ - 💣 [Close range explosion and shock wave \ud83d\udca8](http://9gag.com/gag/a876DN1)
+ - 😝 [Ancient technique to jump from heights](http://9gag.com/gag/awy31AQ)
+ - 👉 [Tips and tricks for landlord](http://9gag.com/gag/a6ZXpr8)<!-- MEMES:END -->
 
 ---
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Meta&#39;s Oversight Board says it will weigh in on Meta&#39;s hate speech policies, changed before Trump&#39;s inauguration, in a test of the enforceability of its powers &lpar;Karissa Bell/Engadget&rpar;](http://www.techmeme.com/250226/p43#a250226p43)
  - [The latest on the WordPress fight over trademarks and open source](https://www.theverge.com/2024/10/4/24262410/wordpress-fight-trademarks-open-source-mullenweg)
  - [Source: Instagram considers launching a standalone Reels app, improving recommendations, and distributing more three-minute-long videos, to compete with TikTok &lpar;The Information&rpar;](http://www.techmeme.com/250226/p42#a250226p42)
  - [IBM releases its Granite 3.2 LLM family, featuring optional reasoning capabilities, a new vision model optimized for document processing, and time series models &lpar;Sean Michael Kerner/VentureBeat&rpar;](http://www.techmeme.com/250226/p41#a250226p41)
- - [It’s clearly time: all the news about the transparent tech renaissance](https://www.theverge.com/23774468/clear-transparent-tech-gadgets-news-announcements-products)
- - [The Xbox Wireless Controller is just $39 right now](https://www.theverge.com/good-deals/620170/microsoft-official-xbox-wireless-controller-deal-sale)<!-- TECH:END -->
+ - [It’s clearly time: all the news about the transparent tech renaissance](https://www.theverge.com/23774468/clear-transparent-tech-gadgets-news-announcements-products)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

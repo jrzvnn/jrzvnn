@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Source: Instagram considers launching a standalone Reels app, improving recommendations, and distributing more three-minute-long videos, to compete with TikTok &lpar;The Information&rpar;](http://www.techmeme.com/250226/p42#a250226p42)
  - [IBM releases its Granite 3.2 LLM family, featuring optional reasoning capabilities, a new vision model optimized for document processing, and time series models &lpar;Sean Michael Kerner/VentureBeat&rpar;](http://www.techmeme.com/250226/p41#a250226p41)
  - [The Xbox Wireless Controller is just $39 right now](https://www.theverge.com/good-deals/620170/microsoft-official-xbox-wireless-controller-deal-sale)
  - [It’s clearly time: all the news about the transparent tech renaissance](https://www.theverge.com/23774468/clear-transparent-tech-gadgets-news-announcements-products)
- - [Apple won&#39;t comment on $3.2 million fine for mishandling data in South Korea](https://appleinsider.com/articles/25/02/26/apple-wont-comment-on-32-million-fine-for-mishandling-data-in-south-korea?utm_medium=rss)
- - [Play the Latest Dragon Age and More on PlayStation Plus in March](https://www.cnet.com/tech/gaming/play-the-latest-dragon-age-and-more-on-playstation-plus-in-march/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Apple won&#39;t comment on $3.2 million fine for mishandling data in South Korea](https://appleinsider.com/articles/25/02/26/apple-wont-comment-on-32-million-fine-for-mishandling-data-in-south-korea?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [A survey of 2,000 US adults finds 42% say that search engines like Google are becoming less useful, 60% view the state of social media negatively, and more &lpar;The Verge&rpar;](http://www.techmeme.com/250226/p14#a250226p14)
  - [A profile of Vladislav Klyushin, a Russian tech executive involved in a $93M insider trading scheme and released by the US in a 2024 prisoner swap with Russia &lpar;Noah Shachtman/Wired&rpar;](http://www.techmeme.com/250226/p13#a250226p13)
  - [Q&amp;A with J&amp;uuml;rgen Schmidhuber, the controversial AI pioneer and director of AI at Saudi Arabia&#39;s KAUST, on the kingdom&#39;s AI ambitions, DeepSeek, AGI, and more &lpar;Anup Kaphle/Rest of World&rpar;](http://www.techmeme.com/250226/p12#a250226p12)
  - [Today&#39;s NYT Strands Hints, Answers and Help for Feb. 26, #360](https://www.cnet.com/tech/gaming/todays-nyt-strands-hints-answers-and-help-for-feb-26-360/#ftag=CAD590a51e)
- - [Today&#39;s NYT Connections: Sports Edition Hints and Answers for Feb. 26, #156](https://www.cnet.com/tech/gaming/todays-nyt-connections-sports-edition-hints-and-answers-for-feb-26-156/#ftag=CAD590a51e)
- - [Today&#39;s NYT Connections Hints, Answers and Help for Feb. 26, #626](https://www.cnet.com/tech/gaming/todays-nyt-connections-hints-answers-and-help-for-feb-26-626/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Today&#39;s NYT Connections: Sports Edition Hints and Answers for Feb. 26, #156](https://www.cnet.com/tech/gaming/todays-nyt-connections-sports-edition-hints-and-answers-for-feb-26-156/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

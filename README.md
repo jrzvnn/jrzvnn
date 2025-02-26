@@ -166,10 +166,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Is it possible to learn this power?](http://9gag.com/gag/a0eXnEZ)
- - 😝 [Escalation at its finest!](http://9gag.com/gag/a5Q6B5L)
- - 💣 [Game with no internet and ads free](http://9gag.com/gag/aBy6G7A)
- - 😝 [Found this at the gym,](http://9gag.com/gag/a1mN556)
+ - 😝 [I have seen this story before](http://9gag.com/gag/aKGAv4b)
+ - 😝 [Current state of tinder](http://9gag.com/gag/a5Q6wPr)
+ - 💣 [Is it possible to learn this power?](http://9gag.com/gag/a0eXnEZ)
+ - 😝 [I hope all understand](http://9gag.com/gag/a9y6mrD)
  - 👉 [How to starve a croc](http://9gag.com/gag/aVvoKKK)<!-- MEMES:END -->
 
 ---

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Amazon says Alexa+ is &quot;model agnostic&quot;, using Amazon Nova models and Anthropic&#39;s models, and picks the &quot;best&quot; AI model for a task, drawing on Amazon Bedrock &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/250226/p30#a250226p30)
+ - [Amazon says Alexa+ will be able to navigate through movies on Prime Video due to Alexa, Prime Video, and Fire TV&#39;s integration, including &quot;jump to a scene&quot; &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/250226/p29#a250226p29)
  - [How to hide faces and scrub metadata when you photograph a protest](https://www.theverge.com/21281897/how-to-hide-faces-scrub-metadata-photograph-video-protest)
  - [Amazon&#39;s Panos Panay demoed Alexa+ in a flowing ongoing conversation and says it can book concert tickets, make restaurant reservations, and text a babysitter &lpar;Bloomberg&rpar;](http://www.techmeme.com/250226/p28#a250226p28)
- - [Apple Vision Pro gets Bono documentary for first feature-length immersive video](https://appleinsider.com/articles/25/02/26/apple-vision-pro-gets-bono-documentary-for-first-feature-length-immersive-video?utm_medium=rss)
- - [Amazon unveils Alexa+, a generative AI update trained to detect tone and mood, with vision capabilities, after first planning to &quot;supercharge&quot; Alexa in 2023 &lpar;Wes Davis/The Verge&rpar;](http://www.techmeme.com/250226/p27#a250226p27)
- - [Live updates from Amazon&amp;#8217;s 2025 AI Alexa event](https://www.theverge.com/news/618262/amazon-alexa-event-2025-ai-echo-products-news)<!-- TECH:END -->
+ - [Apple Vision Pro gets Bono documentary for first feature-length immersive video](https://appleinsider.com/articles/25/02/26/apple-vision-pro-gets-bono-documentary-for-first-feature-length-immersive-video?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

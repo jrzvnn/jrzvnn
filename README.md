@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Documents and source: Indonesian agritech eFishery misrepresented financial figures for years; backers like SoftBank likely to recover under 10% of investments &lpar;Bloomberg&rpar;](http://www.techmeme.com/250226/p1#a250226p1)
  - [How to fix an incessant &#39;X is accessing your screen&#39; bug in macOS Sequoia](https://appleinsider.com/articles/25/02/26/how-to-fix-an-incessant-x-is-accessing-your-screen-bug-in-macos-sequoia?utm_medium=rss)
  - [How hackers of the $1.5B Bybit crypto heist used UI manipulation of employee devices and social engineering to gain control of ETH multisig cold wallets &lpar;Dan Goodin/Ars Technica&rpar;](http://www.techmeme.com/250225/p59#a250225p59)
  - [Sensor Tower: in 2024, TikTok, including its Chinese counterpart Douyin, became the first non-game app to reach $6B in annual in-app purchase revenue &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/250225/p58#a250225p58)
- - [Sources: Mira Murati&#39;s new startup, Thinking Machines Lab, is aiming to raise $1B at a ~$9B valuation; the round is in progress and details could change &lpar;Business Insider&rpar;](http://www.techmeme.com/250225/p57#a250225p57)
- - [Valve&#39;s Steam Deck, launched in 2022, has been dominating the handheld PC gaming market, with about 50% market share in 2024, according to IDC &lpar;Sean Hollister/The Verge&rpar;](http://www.techmeme.com/250225/p56#a250225p56)<!-- TECH:END -->
+ - [Sources: Mira Murati&#39;s new startup, Thinking Machines Lab, is aiming to raise $1B at a ~$9B valuation; the round is in progress and details could change &lpar;Business Insider&rpar;](http://www.techmeme.com/250225/p57#a250225p57)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

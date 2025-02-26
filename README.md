@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [All of the announcements from Amazon&amp;#8217;s Alexa Plus event](https://www.theverge.com/news/618262/amazon-alexa-event-2025-ai-echo-products-news)
+ - [Alexa Plus&amp;#8217; AI upgrades cost $19.99, but it&amp;#8217;s all free with Prime](https://www.theverge.com/news/620005/amazon-alexa-plus-ai-smart-assistant-pricing-availability-devices)
  - [Microsoft says it completed a multi-year project, the EU Data Boundary for the Microsoft Cloud, to let Europe-based cloud customers store and process data in EU &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/250226/p34#a250226p34)
  - [Boston Dynamics Led a Robot Revolution. Now Its Machines Are Teaching Themselves New Tricks](https://www.wired.com/story/boston-dynamics-led-a-robot-revolution-now-its-machines-are-teaching-themselves-new-tricks/)
- - [Google redesigns Results About You, its tool for requesting the removal of Search results with personal info, adding a new hub and the ability to update results &lpar;Jeremy Gan/Engadget&rpar;](http://www.techmeme.com/250226/p33#a250226p33)
- - [US Intelligence backs Apple over UK encryption backdoor demands](https://appleinsider.com/articles/25/02/26/us-intelligence-backs-apple-over-uk-encryption-backdoor-demands?utm_medium=rss)
- - [Apple is selling refurb M4 Macs, but you can find better deals elsewhere](https://appleinsider.com/articles/25/02/26/apple-is-selling-refurb-m4-macs-but-you-can-find-better-deals-elsewhere?utm_medium=rss)<!-- TECH:END -->
+ - [Google redesigns Results About You, its tool for requesting the removal of Search results with personal info, adding a new hub and the ability to update results &lpar;Jeremy Gan/Engadget&rpar;](http://www.techmeme.com/250226/p33#a250226p33)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

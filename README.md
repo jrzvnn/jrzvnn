@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Yes, but...](http://9gag.com/gag/aKGAYVg)
- - 😝 [Tips and tricks for landlord](http://9gag.com/gag/a6ZXpr8)
- - 💣 [This is what you call true emersion](http://9gag.com/gag/ajP1xYq)
- - 😝 [Best comment](http://9gag.com/gag/avy1vdE)
- - 👉 [ACME \u2122 wants him.](http://9gag.com/gag/a1mNV2R)<!-- MEMES:END -->
+ - 😝 [Taking advantage of people for clout](http://9gag.com/gag/awy316D)
+ - 😝 [When you come to your bestfriend&#39;s house, meet his mom, and suddenly feel HUNGRY](http://9gag.com/gag/a9y68MD)
+ - 💣 [I don\u2019t necessarily agree, but I 100% understand.](http://9gag.com/gag/azxdKGp)
+ - 😝 [How to starve a croc](http://9gag.com/gag/aVvoKKK)
+ - 👉 [This is what Italian sounds like](http://9gag.com/gag/aKGAWmg)<!-- MEMES:END -->
 
 ---
 

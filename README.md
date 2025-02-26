@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [They&#39;re evolving](http://9gag.com/gag/a5Q6wjO)
- - 😝 [Most passive agressive `Hi` ever](http://9gag.com/gag/a4P6qwy)
- - 💣 [That girl in the background slapped THE SHIT out of her boyfriend](http://9gag.com/gag/aRB4z65)
- - 😝 [Current state of tinder](http://9gag.com/gag/a5Q6wPr)
- - 👉 [This is what Italian sounds like](http://9gag.com/gag/aKGAWmg)<!-- MEMES:END -->
+ - 😝 [Maybe a better option for a date compared to movies &lpar;sorry for the cancer&rpar;](http://9gag.com/gag/aoy34NX)
+ - 😝 [Found this at the gym,](http://9gag.com/gag/a1mN556)
+ - 💣 [Where is the party](http://9gag.com/gag/aZZ185V)
+ - 😝 [I don\u2019t necessarily agree, but I 100% understand.](http://9gag.com/gag/azxdKGp)
+ - 👉 [They&#39;re evolving](http://9gag.com/gag/a5Q6wjO)<!-- MEMES:END -->
 
 ---
 

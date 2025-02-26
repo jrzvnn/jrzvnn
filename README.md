@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Patreon&#39;s 2025 creator economy report shows the future may be direct-to-fan instead of direct-to-consumer, but the hurdles in place are more seismic than ever &lpar;Julia Alexander/Posting Nexus&rpar;](http://www.techmeme.com/250226/p16#a250226p16)
  - [A US federal judge dismisses a lawsuit against TikTok and YouTube over &quot;choking challenge&quot; videos, saying the case failed on its merits and citing Section 230 &lpar;Jacklyn Wille/Bloomberg Law&rpar;](http://www.techmeme.com/250226/p15#a250226p15)
+ - [&#39;Reacher&#39; Season 3 Release Schedule: When to Watch Episode 4 on Prime Video](https://www.cnet.com/tech/services-and-software/reacher-season-3-release-schedule-when-to-watch-episode-4-on-prime-video/#ftag=CAD590a51e)
  - [Your Boss Wants You Back in the Office. This Surveillance Tech Could Be Waiting for You](https://www.wired.com/story/your-boss-wants-you-back-in-the-office-this-surveillance-tech-could-be-waiting-for-you/)
- - [A survey of 2,000 US adults finds 42% say that search engines like Google are becoming less useful, 60% view the state of social media negatively, and more &lpar;The Verge&rpar;](http://www.techmeme.com/250226/p14#a250226p14)
- - [A profile of Vladislav Klyushin, a Russian tech executive involved in a $93M insider trading scheme and released by the US in a 2024 prisoner swap with Russia &lpar;Noah Shachtman/Wired&rpar;](http://www.techmeme.com/250226/p13#a250226p13)
- - [Q&amp;A with J&amp;uuml;rgen Schmidhuber, the controversial AI pioneer and director of AI at Saudi Arabia&#39;s KAUST, on the kingdom&#39;s AI ambitions, DeepSeek, AGI, and more &lpar;Anup Kaphle/Rest of World&rpar;](http://www.techmeme.com/250226/p12#a250226p12)<!-- TECH:END -->
+ - [Best Internet Providers in Miami, Florida](https://www.cnet.com/home/internet/best-internet-providers-in-miami-fl/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

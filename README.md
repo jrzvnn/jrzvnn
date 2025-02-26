@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [Free big Mac](http://9gag.com/gag/aAy6E9R)
+ - 😝 [How to starve a croc](http://9gag.com/gag/aVvoKKK)
+ - 💣 [Escalation at its finest!](http://9gag.com/gag/a5Q6B5L)
  - 😝 [Day 1 posting stuff from classic 9gag before all propaganda posts](http://9gag.com/gag/axy3bvW)
- - 😝 [Suggest your best codes in the comments](http://9gag.com/gag/aRB4vKj)
- - 💣 [I hope all understand](http://9gag.com/gag/a9y6mrD)
- - 😝 [When you come to your bestfriend&#39;s house, meet his mom, and suddenly feel HUNGRY](http://9gag.com/gag/a9y68MD)
- - 👉 [How to starve a croc](http://9gag.com/gag/aVvoKKK)<!-- MEMES:END -->
+ - 👉 [When you come to your bestfriend&#39;s house, meet his mom, and suddenly feel HUNGRY](http://9gag.com/gag/a9y68MD)<!-- MEMES:END -->
 
 ---
 

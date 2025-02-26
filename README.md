@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Grab Amazon&#39;s best Apple deals from $15 before the month ends](https://appleinsider.com/articles/25/02/23/grab-amazons-best-apple-deals-from-15-before-the-month-ends?utm_medium=rss)
- - [Where to Stream 2025’s Best Picture Oscar Nominees](https://www.wired.com/story/stream-2025-oscar-nominated-movies-best-picture/)
- - [Apple removing ADP in the UK is a pyrrhic victory for Apple, and UK users&#39; muted response suggests they may not care about privacy as much as the company thinks &lpar;Parmy Olson/Bloomberg&rpar;](http://www.techmeme.com/250226/p18#a250226p18)
- - [Lasso: 20,000+ once-public GitHub repositories from Microsoft, AWS, Google, IBM, Tencent, and 16,000+ other companies are still accessible via Copilot &lpar;Carly Page/TechCrunch&rpar;](http://www.techmeme.com/250226/p17#a250226p17)
- - [Patreon&#39;s 2025 creator economy report shows the future may be direct-to-fan instead of direct-to-consumer, but the hurdles in place are more seismic than ever &lpar;Julia Alexander/Posting Nexus&rpar;](http://www.techmeme.com/250226/p16#a250226p16)<!-- TECH:END -->
+ - [Estonia partners with OpenAI and Anthropic to launch an AI skills drive in schools for 20,000 students aged 16 and 17, aiming to help develop critical thinking &lpar;Financial Times&rpar;](http://www.techmeme.com/250226/p20#a250226p20)
+ - [8 Best Toaster Ovens &lpar;2025&rpar;, Tested and Reviewed](https://www.wired.com/gallery/best-toaster-ovens/)
+ - [iPhone 17&#39;s rumored camera bar may solve Apple&#39;s internal space dilemma](https://appleinsider.com/articles/25/02/26/iphone-17s-rumored-camera-bar-may-solve-apples-internal-space-dilemma?utm_medium=rss)
+ - [Bridgetown Research, which aims to use AI agents to expedite data collection and research in due diligence, raised a $19M Series A led by Accel and Lightspeed &lpar;Jagmeet Singh/TechCrunch&rpar;](http://www.techmeme.com/250226/p19#a250226p19)
+ - [Grab Amazon&#39;s best Apple deals from $15 before the month ends](https://appleinsider.com/articles/25/02/23/grab-amazons-best-apple-deals-from-15-before-the-month-ends?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

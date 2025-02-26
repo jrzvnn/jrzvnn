@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [A live blog of Amazon&#39;s Alexa event, where the company is expected to announce its new AI-powered Alexa, a new Fire TV platform, and more &lpar;The Verge&rpar;](http://www.techmeme.com/250226/p26#a250226p26)
+ - [Lucid’s CEO steps down, as EV maker aims to double production](https://www.theverge.com/news/619760/lucid-ceo-step-down-double-production)
  - [Amazon Alexa event live blog: all the news from the keynote](https://www.theverge.com/news/618261/amazon-alexa-event-live-blog-2025)
  - [All the news from Amazon&amp;#8217;s AI Alexa event](https://www.theverge.com/news/618262/amazon-alexa-event-2025-ai-echo-products-news)
- - [Doctor Who returns in April with an evil new cartoon villain](https://www.theverge.com/news/619785/doctor-who-disney-plus-bbc-april-date)
- - [Framework Desktop hands-on: the tiny 4.5-liter gaming desktop looks cool, good frame rates at 1440p thanks to its AMD Ryzen AI Max CPU, expandable I/O, and more &lpar;Sean Hollister/The Verge&rpar;](http://www.techmeme.com/250226/p24#a250226p24)
- - [Trump says &quot;Apple should get rid of DEI rules, not just make adjustments to them&quot; in a Truth Social post, after Apple investors rejected a proposal to end DEI &lpar;Hadriana Lowenkron/Bloomberg&rpar;](http://www.techmeme.com/250226/p23#a250226p23)<!-- TECH:END -->
+ - [Court records: FTX paid nearly $948M to 12+ firms working on its bankruptcy, one of the costliest Chapter 11 cases in US history; users are set to get back 118% &lpar;Jonathan Randles/Bloomberg&rpar;](http://www.techmeme.com/250226/p25#a250226p25)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

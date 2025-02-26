@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Victrola’s cheapest Sonos-compatible turntable is over half off today](https://www.theverge.com/good-deals/619353/victrola-stream-onyx-sonos-turntable-anker-soundcore-sport-x20-earbuds-deal-sale)
+ - [Pixel Watch 3 gets FDA clearance for Loss of Pulse alerts](https://www.theverge.com/news/619929/google-pixel-watch-3-loss-of-pulse-fda-clerance-smartwatch)
  - [All of the announcements from Amazon&amp;#8217;s 2025 Alexa Plus event](https://www.theverge.com/news/618262/amazon-alexa-event-2025-ai-echo-products-news)
  - [Amazon is launching Alexa.com and new app for Alexa Plus](https://www.theverge.com/news/619923/amazon-alexa-plus-com-mobile-app)
- - [AppLovin&#39;s stock falls 10%+ after two short sellers released reports questioning the integrity of the company&#39;s AI-powered AXON ad software &lpar;CJ Haddad/CNBC&rpar;](http://www.techmeme.com/250226/p31#a250226p31)
- - [Amazon says Alexa+ is &quot;model agnostic&quot;, using Amazon Nova models and Anthropic&#39;s models, and picks the &quot;best&quot; AI model for a task, drawing on Amazon Bedrock &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/250226/p30#a250226p30)
- - [Amazon says Alexa+ will be able to navigate through movies on Prime Video due to Alexa, Prime Video, and Fire TV&#39;s integration, including &quot;jump to a scene&quot; &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/250226/p29#a250226p29)<!-- TECH:END -->
+ - [AppLovin&#39;s stock falls 10%+ after two short sellers released reports questioning the integrity of the company&#39;s AI-powered AXON ad software &lpar;CJ Haddad/CNBC&rpar;](http://www.techmeme.com/250226/p31#a250226p31)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

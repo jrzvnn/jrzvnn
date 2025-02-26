@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [It’s clearly time: all the news about the transparent tech renaissance](https://www.theverge.com/23774468/clear-transparent-tech-gadgets-news-announcements-products)
  - [All of the announcements from Amazon&amp;#8217;s Alexa Plus event](https://www.theverge.com/news/618262/amazon-alexa-event-2025-ai-echo-products-news)
  - [Alexa Plus leaves behind Amazon&amp;#8217;s earliest Echo devices](https://www.theverge.com/news/620145/amazon-alexa-plus-no-early-echo-device-support)
  - [Hume launches Octave, an LLM for text-to-speech that generates custom AI voices with adjustable emotions, offering a free tier with 10,000 characters per month &lpar;Carl Franzen/VentureBeat&rpar;](http://www.techmeme.com/250226/p36#a250226p36)
- - [Amazon launches Alexa+ as Siri advancements drag on](https://appleinsider.com/articles/25/02/26/amazon-launches-alexa-as-siri-advancements-drag-on?utm_medium=rss)
- - [Google says it received FDA clearance for the Pixel Watch 3&#39;s Loss of Pulse Detection feature, available in the EU and rolling out in the US at the end of March &lpar;Abner Li/9to5Google&rpar;](http://www.techmeme.com/250226/p35#a250226p35)<!-- TECH:END -->
+ - [Amazon launches Alexa+ as Siri advancements drag on](https://appleinsider.com/articles/25/02/26/amazon-launches-alexa-as-siri-advancements-drag-on?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

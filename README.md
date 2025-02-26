@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Free big Mac](http://9gag.com/gag/aAy6E9R)
- - 😝 [How to starve a croc](http://9gag.com/gag/aVvoKKK)
- - 💣 [Escalation at its finest!](http://9gag.com/gag/a5Q6B5L)
+ - 😝 [Oh shee oh shee](http://9gag.com/gag/aoy3LQw)
+ - 😝 [This 11 year old German girl spotting the difference between 2circles with dots almost instantly](http://9gag.com/gag/an7Rn25)
+ - 💣 [Is it possible to learn this power?](http://9gag.com/gag/a0eXnEZ)
  - 😝 [Day 1 posting stuff from classic 9gag before all propaganda posts](http://9gag.com/gag/axy3bvW)
- - 👉 [When you come to your bestfriend&#39;s house, meet his mom, and suddenly feel HUNGRY](http://9gag.com/gag/a9y68MD)<!-- MEMES:END -->
+ - 👉 [The most Legendary penalty kick of all time](http://9gag.com/gag/aRB4z72)<!-- MEMES:END -->
 
 ---
 

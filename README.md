@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [OSHA approved](http://9gag.com/gag/a7oO0dr)
- - 😝 [I have seen this story before](http://9gag.com/gag/aKGAv4b)
- - 💣 [How to starve a croc](http://9gag.com/gag/aVvoKKK)
- - 😝 [Current state of tinder](http://9gag.com/gag/a5Q6wPr)
- - 👉 [Stability test](http://9gag.com/gag/aGynnvn)<!-- MEMES:END -->
+ - 😝 [Why we don\u2019t see camera in the mirror](http://9gag.com/gag/aVvoZ8K)
+ - 😝 [How to starve a croc](http://9gag.com/gag/aVvoKKK)
+ - 💣 [WTF??](http://9gag.com/gag/a4P6Nmd)
+ - 😝 [Is it possible to learn this power?](http://9gag.com/gag/a0eXnEZ)
+ - 👉 [This 11 year old German girl spotting the difference between 2circles with dots almost instantly](http://9gag.com/gag/an7Rn25)<!-- MEMES:END -->
 
 ---
 

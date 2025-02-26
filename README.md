@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Tips and tricks for landlord](http://9gag.com/gag/a6ZXpr8)
- - 😝 [Star Wars Fans Beating The Status Quo &lpar;like always&rpar;](http://9gag.com/gag/aXPM4pP)
- - 💣 [Well\u2026We\u2019re waiting](http://9gag.com/gag/adB12jM)
- - 😝 [You: decide to have some tea after a hard day at work to calm your nerves. That very last nerve cell:](http://9gag.com/gag/aKGAWPN)
- - 👉 [This will probably get lost in Fresh, but I just wanted to share with you guys that I finally published my first book](http://9gag.com/gag/a9y6256)<!-- MEMES:END -->
+ - 😝 [Snowball activates self-driving car](http://9gag.com/gag/aPAm87G)
+ - 😝 [Suggest your best codes in the comments](http://9gag.com/gag/aRB4vKj)
+ - 💣 [Is it possible to learn this power?](http://9gag.com/gag/a0eXnEZ)
+ - 😝 [Maybe a better option for a date compared to movies &lpar;sorry for the cancer&rpar;](http://9gag.com/gag/aoy34NX)
+ - 👉 [New Self defence style](http://9gag.com/gag/a9y68mL)<!-- MEMES:END -->
 
 ---
 

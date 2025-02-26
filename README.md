@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Oh shee oh shee](http://9gag.com/gag/aoy3LQw)
- - 😝 [This 11 year old German girl spotting the difference between 2circles with dots almost instantly](http://9gag.com/gag/an7Rn25)
- - 💣 [Is it possible to learn this power?](http://9gag.com/gag/a0eXnEZ)
- - 😝 [Day 1 posting stuff from classic 9gag before all propaganda posts](http://9gag.com/gag/axy3bvW)
- - 👉 [The most Legendary penalty kick of all time](http://9gag.com/gag/aRB4z72)<!-- MEMES:END -->
+ - 😝 [Game with no internet and ads free](http://9gag.com/gag/aBy6G7A)
+ - 😝 [Grandpa enjoys his coffee very much!](http://9gag.com/gag/aBy6PAD)
+ - 💣 [They&#39;re evolving](http://9gag.com/gag/a5Q6wjO)
+ - 😝 [When you&#39;re mad at him but he&#39;s actually funny](http://9gag.com/gag/aGynn3Z)
+ - 👉 [Star Wars Fans Beating The Status Quo &lpar;like always&rpar;](http://9gag.com/gag/aXPM4pP)<!-- MEMES:END -->
 
 ---
 

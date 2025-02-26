@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Found this at the gym,](http://9gag.com/gag/a1mN556)
- - 😝 [Filter,Filter everywhere MF](http://9gag.com/gag/aBy6LmO)
- - 💣 [This 11 year old German girl spotting the difference between 2circles with dots almost instantly](http://9gag.com/gag/an7Rn25)
- - 😝 [The most Legendary penalty kick of all time](http://9gag.com/gag/aRB4z72)
- - 👉 [I hope all understand](http://9gag.com/gag/a9y6mrD)<!-- MEMES:END -->
+ - 😝 [Day 1 posting stuff from classic 9gag before all propaganda posts](http://9gag.com/gag/axy3bvW)
+ - 😝 [Suggest your best codes in the comments](http://9gag.com/gag/aRB4vKj)
+ - 💣 [I hope all understand](http://9gag.com/gag/a9y6mrD)
+ - 😝 [When you come to your bestfriend&#39;s house, meet his mom, and suddenly feel HUNGRY](http://9gag.com/gag/a9y68MD)
+ - 👉 [How to starve a croc](http://9gag.com/gag/aVvoKKK)<!-- MEMES:END -->
 
 ---
 

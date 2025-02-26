@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The American Psychological Association warns the US FTC that AI chatbots &quot;masquerading&quot; as therapists could drive vulnerable people to harm themselves or others &lpar;Ellen Barry/New York Times&rpar;](http://www.techmeme.com/250226/p11#a250226p11)
- - [Longer-lasting laptops: the modular hardware you can upgrade and repair yourself](https://www.theverge.com/24190757/modular-laptops-repairable-upgradable-diy)
- - [Indonesia says Apple signed a deal to invest in Indonesia and will issue it a permit, paving the way for resuming iPhone 16 sales after a five-month tussle &lpar;Faris Mokhtar/Bloomberg&rpar;](http://www.techmeme.com/250226/p10#a250226p10)
- - [Alibaba releases Wan 2.1, a family of open-source AI models for generating images and videos, available globally on Alibaba Cloud&#39;s ModelScope and Hugging Face &lpar;Reuters&rpar;](http://www.techmeme.com/250226/p9#a250226p9)
- - [Survey: 92% of UK undergrad students use AI to help them with their studies, up from 66% a year ago, raising questions about how universities assess their work &lpar;Financial Times&rpar;](http://www.techmeme.com/250226/p8#a250226p8)<!-- TECH:END -->
+ - [Q&amp;A with J&amp;uuml;rgen Schmidhuber, the controversial AI pioneer and director of AI at Saudi Arabia&#39;s KAUST, on the kingdom&#39;s AI ambitions, DeepSeek, AGI, and more &lpar;Anup Kaphle/Rest of World&rpar;](http://www.techmeme.com/250226/p12#a250226p12)
+ - [Today&#39;s NYT Strands Hints, Answers and Help for Feb. 26, #360](https://www.cnet.com/tech/gaming/todays-nyt-strands-hints-answers-and-help-for-feb-26-360/#ftag=CAD590a51e)
+ - [Today&#39;s NYT Connections: Sports Edition Hints and Answers for Feb. 26, #156](https://www.cnet.com/tech/gaming/todays-nyt-connections-sports-edition-hints-and-answers-for-feb-26-156/#ftag=CAD590a51e)
+ - [Today&#39;s NYT Connections Hints, Answers and Help for Feb. 26, #626](https://www.cnet.com/tech/gaming/todays-nyt-connections-hints-answers-and-help-for-feb-26-626/#ftag=CAD590a51e)
+ - [Today&#39;s Wordle Hints, Answer and Help for Feb. 26, #1348](https://www.cnet.com/tech/gaming/todays-wordle-hints-answer-and-help-for-feb-26-1348/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Thief alert](http://9gag.com/gag/aND9Q0A)
- - 😝 [Maybe a better option for a date compared to movies &lpar;sorry for the cancer&rpar;](http://9gag.com/gag/aoy34NX)
- - 💣 [They&#39;re evolving](http://9gag.com/gag/a5Q6wjO)
- - 😝 [Suggest your best codes in the comments](http://9gag.com/gag/aRB4vKj)
- - 👉 [I don\u2019t necessarily agree, but I 100% understand.](http://9gag.com/gag/azxdKGp)<!-- MEMES:END -->
+ - 😝 [Jesse is high again](http://9gag.com/gag/aGyn8ow)
+ - 😝 [New Self defence style](http://9gag.com/gag/a9y68mL)
+ - 💣 [Escalation at its finest!](http://9gag.com/gag/a5Q6B5L)
+ - 😝 [I feel better but seriously, I&#39;ve got other things to do](http://9gag.com/gag/aGynB8n)
+ - 👉 [WTF??](http://9gag.com/gag/a4P6Nmd)<!-- MEMES:END -->
 
 ---
 

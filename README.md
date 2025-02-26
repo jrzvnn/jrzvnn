@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Why we don\u2019t see camera in the mirror](http://9gag.com/gag/aVvoZ8K)
- - 😝 [How to starve a croc](http://9gag.com/gag/aVvoKKK)
- - 💣 [WTF??](http://9gag.com/gag/a4P6Nmd)
- - 😝 [Is it possible to learn this power?](http://9gag.com/gag/a0eXnEZ)
- - 👉 [This 11 year old German girl spotting the difference between 2circles with dots almost instantly](http://9gag.com/gag/an7Rn25)<!-- MEMES:END -->
+ - 😝 [When you&#39;re mad, but still love your partner](http://9gag.com/gag/a6ZXnwL)
+ - 😝 [When you come to your bestfriend&#39;s house, meet his mom, and suddenly feel HUNGRY](http://9gag.com/gag/a9y68MD)
+ - 💣 [They&#39;re evolving](http://9gag.com/gag/a5Q6wjO)
+ - 😝 [Grandpa enjoys his coffee very much!](http://9gag.com/gag/aBy6PAD)
+ - 👉 [When you&#39;re mad at him but he&#39;s actually funny](http://9gag.com/gag/aGynn3Z)<!-- MEMES:END -->
 
 ---
 

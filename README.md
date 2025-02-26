@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Maybe a better option for a date compared to movies &lpar;sorry for the cancer&rpar;](http://9gag.com/gag/aoy34NX)
- - 😝 [Found this at the gym,](http://9gag.com/gag/a1mN556)
- - 💣 [Where is the party](http://9gag.com/gag/aZZ185V)
- - 😝 [I don\u2019t necessarily agree, but I 100% understand.](http://9gag.com/gag/azxdKGp)
- - 👉 [They&#39;re evolving](http://9gag.com/gag/a5Q6wjO)<!-- MEMES:END -->
+ - 😝 [Tips and tricks for landlord](http://9gag.com/gag/a6ZXpr8)
+ - 😝 [This is what you call true emersion](http://9gag.com/gag/ajP1xYq)
+ - 💣 [ACME \u2122 wants him.](http://9gag.com/gag/a1mNV2R)
+ - 😝 [Modern problem required modern solutions](http://9gag.com/gag/avy1vrZ)
+ - 👉 [Oh shee oh shee](http://9gag.com/gag/aoy3LQw)<!-- MEMES:END -->
 
 ---
 

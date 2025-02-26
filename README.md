@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [RIP Michelle Trachtenberg - Post your best gifs of her here](http://9gag.com/gag/a2vwL0p)
- - 😝 [That girl in the background slapped THE SHIT out of her boyfriend](http://9gag.com/gag/aRB4z65)
- - 💣 [Father of epidermolysis- bullosa son answers question related to his son\u2019s condition](http://9gag.com/gag/ae91Zop)
- - 😝 [Is it true?](http://9gag.com/gag/a6ZXpKN)
- - 👉 [Oh shee oh shee](http://9gag.com/gag/aoy3LQw)<!-- MEMES:END -->
+ - 😝 [Bro&#39;s ready to walk in Berlin or London](http://9gag.com/gag/aVvoVOK)
+ - 😝 [Oh shee oh shee](http://9gag.com/gag/aoy3LQw)
+ - 💣 [Well\u2026We\u2019re waiting](http://9gag.com/gag/adB12jM)
+ - 😝 [Modern problem required modern solutions](http://9gag.com/gag/avy1vrZ)
+ - 👉 [The infinite drawer!](http://9gag.com/gag/avy1d8Z)<!-- MEMES:END -->
 
 ---
 

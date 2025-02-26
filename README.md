@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [When you come to your bestfriend&#39;s house, meet his mom, and suddenly feel HUNGRY](http://9gag.com/gag/a9y68MD)
+ - 😝 [RIP Michelle Trachtenberg - Post your best gifs of her here](http://9gag.com/gag/a2vwL0p)
+ - 😝 [That girl in the background slapped THE SHIT out of her boyfriend](http://9gag.com/gag/aRB4z65)
+ - 💣 [Father of epidermolysis- bullosa son answers question related to his son\u2019s condition](http://9gag.com/gag/ae91Zop)
  - 😝 [Is it true?](http://9gag.com/gag/a6ZXpKN)
- - 💣 [Execute order 66!](http://9gag.com/gag/ary3qWB)
- - 😝 [Could that even fit on a plane?](http://9gag.com/gag/amo161o)
- - 👉 [Father of epidermolysis- bullosa son answers question related to his son\u2019s condition](http://9gag.com/gag/ae91Zop)<!-- MEMES:END -->
+ - 👉 [Oh shee oh shee](http://9gag.com/gag/aoy3LQw)<!-- MEMES:END -->
 
 ---
 

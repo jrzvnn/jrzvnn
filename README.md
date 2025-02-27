@@ -166,9 +166,9 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [Football player meets a special needs fan](http://9gag.com/gag/aGynAXn)
  - 😝 [I hope all understand](http://9gag.com/gag/a9y6mrD)
- - 😝 [Senses tingling](http://9gag.com/gag/apR3AYM)
- - 💣 [The Queen](http://9gag.com/gag/ary3BYX)
+ - 💣 [Artist demonstrating the difference in \u201cpencils\u201d.](http://9gag.com/gag/aLnzmWA)
  - 😝 [10k is nothing for me](http://9gag.com/gag/aD26ZOZ)
  - 👉 [The gooner 9/11 is real](http://9gag.com/gag/a4P6AQQ)<!-- MEMES:END -->
 

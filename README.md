@@ -158,9 +158,9 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- TECH:START -->
  - [An investigation identifies a dozen Telegram groups targeting women who joined &quot;Are We Dating the Same Guy?&quot; Facebook groups with doxxing, harassment, and more &lpar;Wired&rpar;](http://www.techmeme.com/250227/p7#a250227p7)
- - [DeepSeek has sparked a nationwide push in China to deploy its LLMs everywhere from hospitals to local governments as Beijing seeks to solidify its gains in AI &lpar;Financial Times&rpar;](http://www.techmeme.com/250227/p6#a250227p6)
+ - [DeepSeek sparks a nationwide push in China to deploy its LLMs everywhere from hospitals to local governments, as Beijing seeks to solidify its gains in AI &lpar;Financial Times&rpar;](http://www.techmeme.com/250227/p6#a250227p6)
  - [Bitcoin ETFs saw their longest outflow streak, losing $2.1B over six days, including $1B+ on Feb. 25, the largest single-day outflow since their Jan. 2024 debut &lpar;Isabelle Lee/Bloomberg&rpar;](http://www.techmeme.com/250227/p5#a250227p5)
- - [Apple to invest $160M in Indonesia to help resume iPhone 16 sales, with Luxshare committing $150M for a factory to produce about 65% of global AirTag supply &lpar;Financial Times&rpar;](http://www.techmeme.com/250227/p4#a250227p4)
+ - [Apple plans to invest $160M in Indonesia to help resume iPhone 16 sales, with Luxshare committing $150M for a factory to produce ~65% of global AirTag supply &lpar;Financial Times&rpar;](http://www.techmeme.com/250227/p4#a250227p4)
  - [Engwe Mapfour N1 Pro e-bike review: the new ‘premium’](https://www.theverge.com/e-bikes/619626/engwe-mapfour-n1-pro-e-bike-review-price-specs)<!-- TECH:END -->
 
 ### 😂 Memes of the hour

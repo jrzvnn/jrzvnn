@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [10k is nothing for me](http://9gag.com/gag/aD26ZOZ)
- - 😝 [The gooner 9/11 is real](http://9gag.com/gag/a4P6AQQ)
- - 💣 [Senses tingling](http://9gag.com/gag/apR3AYM)
  - 😝 [Execute order 66!](http://9gag.com/gag/ary3qWB)
- - 👉 [RIP Michelle Trachtenberg - Post your best gifs of her here](http://9gag.com/gag/a2vwL0p)<!-- MEMES:END -->
+ - 😝 [Southwest Airlines flight has close call with private jet at Midway International Airport](http://9gag.com/gag/a6ZX2b2)
+ - 💣 [Senses tingling](http://9gag.com/gag/apR3AYM)
+ - 😝 [The gooner 9/11 is real](http://9gag.com/gag/a4P6AQQ)
+ - 👉 [That girl in the background slapped THE SHIT out of her boyfriend](http://9gag.com/gag/aRB4z65)<!-- MEMES:END -->
 
 ---
 

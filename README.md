@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Share the secret](http://9gag.com/gag/aoy3Lr0)
- - 😝 [`Better check, it&#39;s smelling a little toasty..`](http://9gag.com/gag/aLnzrxM)
- - 💣 [Mlue.](http://9gag.com/gag/aLnzmyM)
+ - 😝 [RIP Michelle Trachtenberg - Post your best gifs of her here](http://9gag.com/gag/a2vwL0p)
+ - 😝 [Hmmmmm](http://9gag.com/gag/aBy64jO)
+ - 💣 [`Better check, it&#39;s smelling a little toasty..`](http://9gag.com/gag/aLnzrxM)
  - 😝 [Ready your mecha and team up for epic battles in Mecha BREAK\ud83d\udca5.](http://9gag.com/gag/aE06E8n)
- - 👉 [Hmmmmm](http://9gag.com/gag/aBy64jO)<!-- MEMES:END -->
+ - 👉 [Share the secret](http://9gag.com/gag/aoy3Lr0)<!-- MEMES:END -->
 
 ---
 

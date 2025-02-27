@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Sony drops PlayStation VR 2 price to $399](https://www.theverge.com/news/620565/sony-playstation-vr2-price-cut-march)
  - [Pokémon Presents 2025: all the biggest news and trailers](https://www.theverge.com/nintendo/618678/pokemon-presents-2025-all-the-biggest-news-and-trailers)
  - [Stripe announces a tender offer for staff and shareholders that values it at $91.5B, down from $95B in 2021, and reports 2024 payment volume up 38% YoY to $1.4T &lpar;Jacqueline Corba/CNBC&rpar;](http://www.techmeme.com/250227/p17#a250227p17)
  - [Sources: the FAA is close to canceling Verizon&#39;s $2.4B contract to overhaul its communications and awarding it to Starlink; Musk recently criticized Verizon &lpar;Washington Post&rpar;](http://www.techmeme.com/250227/p16#a250227p16)
- - [Instagram’s Reels may get its own app](https://www.theverge.com/news/620547/instagram-reels-video-app-tiktok-rival-service)
- - [Find My network can be tricked to track any Bluetooth device](https://appleinsider.com/articles/25/02/27/find-my-network-can-be-tricked-to-track-any-bluetooth-device?utm_medium=rss)<!-- TECH:END -->
+ - [Instagram’s Reels may get its own app](https://www.theverge.com/news/620547/instagram-reels-video-app-tiktok-rival-service)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

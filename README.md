@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Pokémon Presents 2025: all the biggest news and trailers](https://www.theverge.com/nintendo/618678/pokemon-presents-2025-all-the-biggest-news-and-trailers)
+ - [Stripe announces a tender offer for staff and shareholders that values it at $91.5B, down from $95B in 2021, and reports 2024 payment volume up 38% YoY to $1.4T &lpar;Jacqueline Corba/CNBC&rpar;](http://www.techmeme.com/250227/p17#a250227p17)
  - [Sources: the FAA is close to canceling Verizon&#39;s $2.4B contract to overhaul its communications and awarding it to Starlink; Musk recently criticized Verizon &lpar;Washington Post&rpar;](http://www.techmeme.com/250227/p16#a250227p16)
  - [Instagram’s Reels may get its own app](https://www.theverge.com/news/620547/instagram-reels-video-app-tiktok-rival-service)
- - [Find My network can be tricked to track any Bluetooth device](https://appleinsider.com/articles/25/02/27/find-my-network-can-be-tricked-to-track-any-bluetooth-device?utm_medium=rss)
- - [NYC-based Taktile, which helps fintechs build automated decision-making workflows, raised a $54M Series B led by Balderton, taking its total funding to $79M &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/250227/p15#a250227p15)
- - [Framework’s First Desktop Is an Xbox-Sized Mini Gaming PC](https://www.wired.com/story/frameworks-first-desktop-is-an-xbox-sized-mini-gaming-pc/)<!-- TECH:END -->
+ - [Find My network can be tricked to track any Bluetooth device](https://appleinsider.com/articles/25/02/27/find-my-network-can-be-tricked-to-track-any-bluetooth-device?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

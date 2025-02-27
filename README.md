@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [The most Legendary penalty kick of all time](http://9gag.com/gag/aRB4z72)
- - 😝 [Rock, Paper, Scissor](http://9gag.com/gag/aZZ12W6)
- - 💣 [The gooner 9/11 is real](http://9gag.com/gag/a4P6AQQ)
- - 😝 [Artist demonstrating the difference in \u201cpencils\u201d.](http://9gag.com/gag/aLnzmWA)
- - 👉 [I hope all understand](http://9gag.com/gag/a9y6mrD)<!-- MEMES:END -->
+ - 😝 [ACME \u2122 wants him.](http://9gag.com/gag/a1mNV2R)
+ - 😝 [How to cope with illegal parkering on your property](http://9gag.com/gag/a5Q6qgV)
+ - 💣 [Well\u2026We\u2019re waiting](http://9gag.com/gag/adB12jM)
+ - 😝 [RIP Jenny](http://9gag.com/gag/azxdYdz)
+ - 👉 [Modern problem required modern solutions](http://9gag.com/gag/avy1vrZ)<!-- MEMES:END -->
 
 ---
 

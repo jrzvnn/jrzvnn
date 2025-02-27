@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Best comment](http://9gag.com/gag/avy1vdE)
- - 😝 [Oh shee oh shee](http://9gag.com/gag/aoy3LQw)
- - 💣 [Well\u2026We\u2019re waiting](http://9gag.com/gag/adB12jM)
- - 😝 [RIP Jenny](http://9gag.com/gag/azxdYdz)
- - 👉 [Modern problem required modern solutions](http://9gag.com/gag/avy1vrZ)<!-- MEMES:END -->
+ - 😝 [The Queen](http://9gag.com/gag/ary3BYX)
+ - 😝 [I forgot why I came...](http://9gag.com/gag/aRB4o8B)
+ - 💣 [I hope all understand](http://9gag.com/gag/a9y6mrD)
+ - 😝 [The gooner 9/11 is real](http://9gag.com/gag/a4P6AQQ)
+ - 👉 [Rock, Paper, Scissor](http://9gag.com/gag/aZZ12W6)<!-- MEMES:END -->
 
 ---
 

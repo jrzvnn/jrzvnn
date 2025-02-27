@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [OpenAI says users who tested GPT-4.5 found it to be a natural conversationalist, with the ability to convey warmth and display a kind of emotional intelligence &lpar;Igor Bonifacic/Engadget&rpar;](http://www.techmeme.com/250227/p32#a250227p32)
+ - [OpenAI&#39;s GPT-4.5 System Card says the model is highly persuasive and excelled at convincing GPT-4o into &quot;donating&quot; virtual money &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/250227/p31#a250227p31)
  - [OpenAI announces GPT-4.5, warns it’s not a frontier AI model](https://www.theverge.com/news/620021/openai-gpt-4-5-orion-ai-model-release)
  - [AirPods Pro 2, AirPods 4 get new beta firmware](https://appleinsider.com/articles/25/02/27/airpods-pro-2-airpods-4-get-new-beta-firmware?utm_medium=rss)
- - [OpenAI Launches GPT-4.5 for ChatGPT—It’s Huge and Compute-Intensive](https://www.wired.com/story/openai-gpt-45/)
- - [The 66 Best Movies on Disney+ Right Now &lpar;March 2025&rpar;](https://www.wired.com/story/best-movies-disney-plus/)
- - [Hands-on with Alexa Plus in the smart home](https://www.theverge.com/news/621008/hands-on-with-alexa-plus-smart-home-echo-show-21)<!-- TECH:END -->
+ - [OpenAI Says Its New ChatGPT 4.5 Has Better Emotional Intelligence](https://www.cnet.com/tech/services-and-software/openai-says-its-new-chatgpt-4-5-has-better-emotional-intelligence/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Cellebrite suspends Serbia as a customer after a report alleged authorities used its tools to unlock phones of a journalist and an activist and plant spyware &lpar;Lorenzo Franceschi-Bicchierai/TechCrunch&rpar;](http://www.techmeme.com/250226/p44#a250226p44)
- - [The best robot vacuums](https://www.theverge.com/22997597/best-robot-vacuum-cleaner)
- - [Chip race: Microsoft, Meta, Google, and Nvidia battle it out for AI chip supremacy](https://www.theverge.com/2024/2/1/24058186/ai-chips-meta-microsoft-google-nvidia)
- - [Meta&#39;s Oversight Board says it will weigh in on Meta&#39;s hate speech policies, changed before Trump&#39;s inauguration, in a test of the enforceability of its powers &lpar;Karissa Bell/Engadget&rpar;](http://www.techmeme.com/250226/p43#a250226p43)
- - [The latest on the WordPress fight over trademarks and open source](https://www.theverge.com/2024/10/4/24262410/wordpress-fight-trademarks-open-source-mullenweg)<!-- TECH:END -->
+ - [Ugreen 100W GaN Mini MagSafe Power Station review: Compact &amp; powerful](https://appleinsider.com/articles/25/02/27/ugreen-100w-gan-mini-magsafe-power-station-review-compact-powerful?utm_medium=rss)
+ - [Mint and pink: a closer look at the backflipping Framework Laptop 12](https://www.theverge.com/laptops/620463/mint-and-pink-a-closer-look-at-the-backflipping-framework-laptop-12)
+ - [Longer-lasting laptops: the modular hardware you can upgrade and repair yourself](https://www.theverge.com/24190757/modular-laptops-repairable-upgradable-diy)
+ - [Canada&#39;s broadcast regulator says that Google will be charged a fee to recover regulatory costs related to Canada&#39;s online news law, starting April 1 &lpar;Paul Vieira/Wall Street Journal&rpar;](http://www.techmeme.com/250226/p45#a250226p45)
+ - [Analyst repeats 12GB RAM rumor for iPhone 17 Pro models, which may at least be half correct](https://appleinsider.com/articles/25/02/27/analyst-repeats-12gb-ram-rumor-for-iphone-17-pro-models-which-may-at-least-be-half-correct?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

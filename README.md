@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Microsoft Copilot lands on Mac](https://appleinsider.com/articles/25/02/27/microsoft-copilot-lands-on-mac?utm_medium=rss)
+ - [Sources: Apollo Global is in talks to lead a ~$35B financing package for Meta to help develop US data centers; Meta outlined plans to invest $65B on AI in 2025 &lpar;Bloomberg&rpar;](http://www.techmeme.com/250227/p26#a250227p26)
+ - [Apple users prep for 24/7 survival mode for winter storm blackout, hurricanes, &amp; outdoor adventure](https://appleinsider.com/articles/25/02/27/apple-users-prep-for-247-survival-mode-for-winter-storm-blackout-hurricanes-outdoor-adventure?utm_medium=rss)
  - [Apple unveils new child safety features, including updated age ratings, simplified setup for Child Accounts, and an API to let developers confirm age range &lpar;Juli Clover/MacRumors&rpar;](http://www.techmeme.com/250227/p25#a250227p25)
- - [Jeff Bezos is sending Katy Perry to space](https://www.theverge.com/news/620987/blue-origin-jeff-bezos-katy-perry-new-shepard-launch)
- - [Amazon slashes Apple&#39;s M4 Max 16-inch MacBook Pro by $370](https://appleinsider.com/articles/25/02/27/amazon-slashes-apples-m4-max-16-inch-macbook-pro-by-370?utm_medium=rss)
- - [New Apple age assurance features help parents and developers protect children](https://appleinsider.com/articles/25/02/27/new-apple-age-assurance-features-help-parents-and-developers-protect-children?utm_medium=rss)
- - [Microsoft pushes ahead with AI in gaming](https://www.theverge.com/notepad-microsoft-newsletter/620839/microsoft-xbox-ai-gaming-muse-model-notepad)<!-- TECH:END -->
+ - [Jeff Bezos is sending Katy Perry to space](https://www.theverge.com/news/620987/blue-origin-jeff-bezos-katy-perry-new-shepard-launch)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

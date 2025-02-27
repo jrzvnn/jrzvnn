@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [I hope all understand](http://9gag.com/gag/a9y6mrD)
- - 😝 [The Queen](http://9gag.com/gag/ary3BYX)
- - 💣 [Artist demonstrating the difference in \u201cpencils\u201d.](http://9gag.com/gag/aLnzmWA)
- - 😝 [10k is nothing for me](http://9gag.com/gag/aD26ZOZ)
- - 👉 [First day of work?](http://9gag.com/gag/aLnzX1W)<!-- MEMES:END -->
+ - 😝 [Southwest Airlines flight has close call with private jet at Midway International Airport](http://9gag.com/gag/a6ZX2b2)
+ - 😝 [Found this at the gym,](http://9gag.com/gag/a1mN556)
+ - 💣 [10k is nothing for me](http://9gag.com/gag/aD26ZOZ)
+ - 😝 [The gooner 9/11 is real](http://9gag.com/gag/a4P6AQQ)
+ - 👉 [The Queen](http://9gag.com/gag/ary3BYX)<!-- MEMES:END -->
 
 ---
 

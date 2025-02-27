@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Powerbeats Pro 2 review: the workout buds to beat](https://www.theverge.com/headphone-review/609473/powerbeats-pro-2-review-headphones-heart-rate-monitoring-wearables)
- - [WD’s Xbox expansion cards are nearly matching their Black Friday low](https://www.theverge.com/good-deals/620753/western-digital-wd-black-c50-storage-expansion-card-xbox-1tb-2tb-deal-sale)
- - [Nvidia CEO Jensen Huang says next-generation AI models will need 100 times more compute than older models as a result of new reasoning approaches &lpar;Kif Leswing/CNBC&rpar;](http://www.techmeme.com/250227/p24#a250227p24)
- - [Shinichirō Watanabe’s Lazarus hits Adult Swim in April](https://www.theverge.com/news/620876/shinichiro-watanabe-lazarus-premire-date)
- - [Trump’s first 100 days: all the news affecting the tech industry](https://www.theverge.com/24348851/donald-trump-presidency-tech-science-news)<!-- TECH:END -->
+ - [Apple unveils new child safety features, including updated age ratings, simplified setup for Child Accounts, and an API to let developers confirm age range &lpar;Juli Clover/MacRumors&rpar;](http://www.techmeme.com/250227/p25#a250227p25)
+ - [Jeff Bezos is sending Katy Perry to space](https://www.theverge.com/news/620987/blue-origin-jeff-bezos-katy-perry-new-shepard-launch)
+ - [Amazon slashes Apple&#39;s M4 Max 16-inch MacBook Pro by $370](https://appleinsider.com/articles/25/02/27/amazon-slashes-apples-m4-max-16-inch-macbook-pro-by-370?utm_medium=rss)
+ - [New Apple age assurance features help parents and developers protect children](https://appleinsider.com/articles/25/02/27/new-apple-age-assurance-features-help-parents-and-developers-protect-children?utm_medium=rss)
+ - [Microsoft pushes ahead with AI in gaming](https://www.theverge.com/notepad-microsoft-newsletter/620839/microsoft-xbox-ai-gaming-muse-model-notepad)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

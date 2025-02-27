@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Oh shee oh shee](http://9gag.com/gag/aoy3LQw)
- - 😝 [I hope all understand](http://9gag.com/gag/a9y6mrD)
- - 💣 [The most Legendary penalty kick of all time](http://9gag.com/gag/aRB4z72)
- - 😝 [Execute order 66!](http://9gag.com/gag/ary3qWB)
- - 👉 [Day 1 posting stuff from classic 9gag before all propaganda posts](http://9gag.com/gag/axy3bvW)<!-- MEMES:END -->
+ - 😝 [Senses tingling](http://9gag.com/gag/apR3AYM)
+ - 😝 [The gooner 9/11 is real](http://9gag.com/gag/a4P6AQQ)
+ - 💣 [Rock, Paper, Scissor](http://9gag.com/gag/aZZ12W6)
+ - 😝 [Mlue.](http://9gag.com/gag/aLnzmyM)
+ - 👉 [RIP Michelle Trachtenberg - Post your best gifs of her here](http://9gag.com/gag/a2vwL0p)<!-- MEMES:END -->
 
 ---
 

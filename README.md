@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [I hope all understand](http://9gag.com/gag/a9y6mrD)
- - 😝 [I remember when Bucky became Cap in the comics. People didn&#39;t like it but the story was so good that people didn&#39;t mind him keeping the name permanently.](http://9gag.com/gag/azxdYBj)
- - 💣 [I forgot why I came...](http://9gag.com/gag/aRB4o8B)
+ - 😝 [Modern problem required modern solutions](http://9gag.com/gag/avy1vrZ)
+ - 😝 [We need a more interesting apocolypse](http://9gag.com/gag/aXPMRm9)
+ - 💣 [The infinite drawer!](http://9gag.com/gag/avy1d8Z)
  - 😝 [Ready your mecha and team up for epic battles in Mecha BREAK\ud83d\udca5.](http://9gag.com/gag/aE06E8n)
- - 👉 [Rock, Paper, Scissor](http://9gag.com/gag/aZZ12W6)<!-- MEMES:END -->
+ - 👉 [Challenging but rewarding](http://9gag.com/gag/a7oOnPx)<!-- MEMES:END -->
 
 ---
 

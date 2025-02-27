@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Why are you geh?](http://9gag.com/gag/aGynG6n)
- - 😝 [The Queen](http://9gag.com/gag/ary3BYX)
- - 💣 [10k is nothing for me](http://9gag.com/gag/aD26ZOZ)
- - 😝 [The gooner 9/11 is real](http://9gag.com/gag/a4P6AQQ)
- - 👉 [Artist demonstrating the difference in \u201cpencils\u201d.](http://9gag.com/gag/aLnzmWA)<!-- MEMES:END -->
+ - 😝 [Yo hole big?](http://9gag.com/gag/a876Ky1)
+ - 😝 [I hope all understand](http://9gag.com/gag/a9y6mrD)
+ - 💣 [Rock, Paper, Scissor](http://9gag.com/gag/aZZ12W6)
+ - 😝 [Ready your mecha and team up for epic battles in Mecha BREAK\ud83d\udca5.](http://9gag.com/gag/aE06E8n)
+ - 👉 [10k is nothing for me](http://9gag.com/gag/aD26ZOZ)<!-- MEMES:END -->
 
 ---
 

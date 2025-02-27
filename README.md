@@ -167,10 +167,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [I remember when Bucky became Cap in the comics. People didn&#39;t like it but the story was so good that people didn&#39;t mind him keeping the name permanently.](http://9gag.com/gag/azxdYBj)
- - 😝 [Why are you geh?](http://9gag.com/gag/aGynG6n)
- - 💣 [RIP Jenny](http://9gag.com/gag/azxdYdz)
+ - 😝 [Rock, Paper, Scissor](http://9gag.com/gag/aZZ12W6)
+ - 💣 [RIP Michelle Trachtenberg - Post your best gifs of her here](http://9gag.com/gag/a2vwL0p)
  - 😝 [Ready your mecha and team up for epic battles in Mecha BREAK\ud83d\udca5.](http://9gag.com/gag/aE06E8n)
- - 👉 [Hear hear](http://9gag.com/gag/avy1vAn)<!-- MEMES:END -->
+ - 👉 [RIP Jenny](http://9gag.com/gag/azxdYdz)<!-- MEMES:END -->
 
 ---
 

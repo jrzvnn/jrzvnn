@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Nvidia CEO Jensen Huang says next-generation AI models will need 100 times more compute than older models as a result of new reasoning approaches &lpar;Kif Leswing/CNBC&rpar;](http://www.techmeme.com/250227/p24#a250227p24)
  - [Shinichirō Watanabe’s Lazarus hits Adult Swim in April](https://www.theverge.com/news/620876/shinichiro-watanabe-lazarus-premire-date)
  - [Trump’s first 100 days: all the news affecting the tech industry](https://www.theverge.com/24348851/donald-trump-presidency-tech-science-news)
  - [Starlink poised to take over $2.4 billion contract to overhaul air traffic control communication](https://www.theverge.com/news/620777/starlink-verizon-contract-faa-communication-musk)
- - [US tariffs: how Trump’s tax is hitting Big Tech and beyond](https://www.theverge.com/604742/trump-tariffs-canada-mexico-china-updates)
- - [Trump’s tariffs on China, Canada, and Mexico will take effect March 4th](https://www.theverge.com/news/620865/trump-tariffs-china-canada-mexico-march-4)<!-- TECH:END -->
+ - [US tariffs: how Trump’s tax is hitting Big Tech and beyond](https://www.theverge.com/604742/trump-tariffs-canada-mexico-china-updates)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

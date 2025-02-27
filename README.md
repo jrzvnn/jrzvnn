@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [US tariffs: how Trump’s tax is hitting Big Tech and beyond](https://www.theverge.com/604742/trump-tariffs-canada-mexico-china-updates)
+ - [Apple faces fresh legal attack over its carbon neutral Apple Watch claim](https://appleinsider.com/articles/25/02/27/apple-faces-fresh-legal-attack-over-its-carbon-neutral-apple-watch-claim?utm_medium=rss)
+ - [The Powerbeats Pro 2 can’t play music while tracking heart rate on gym equipment](https://www.theverge.com/news/620706/powerbeats-pro-2-apple-heart-rate-gym-equipment)
  - [Trump’s first 100 days: all the news affecting the tech industry](https://www.theverge.com/24348851/donald-trump-presidency-tech-science-news)
- - [Disney Plus is adding a bite-sized version of ESPN&amp;#8217;s SportsCenter](https://www.theverge.com/news/620761/disney-plus-sportscenter-espn-launch)
- - [TikTok revamps its desktop website with a new modular layout, refreshed For You feed, a new Explore tab, and a floating player, in a bid to take on YouTube &lpar;Aisha Malik/TechCrunch&rpar;](http://www.techmeme.com/250227/p22#a250227p22)
- - [DoorDash will pay $16.8 million to New York delivery workers after misusing their tips](https://www.theverge.com/news/620559/doordash-new-york-tips-settlement-guaranteed-pay)
- - [Pokémon Presents 2025: all the biggest news and trailers](https://www.theverge.com/nintendo/618678/pokemon-presents-2025-all-the-biggest-news-and-trailers)<!-- TECH:END -->
+ - [Disney Plus is adding a bite-sized version of ESPN&amp;#8217;s SportsCenter](https://www.theverge.com/news/620761/disney-plus-sportscenter-espn-launch)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

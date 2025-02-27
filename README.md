@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Trump’s first 100 days: all the news affecting the tech industry](https://www.theverge.com/24348851/donald-trump-presidency-tech-science-news)
+ - [Disney Plus is adding a bite-sized version of ESPN&amp;#8217;s SportsCenter](https://www.theverge.com/news/620761/disney-plus-sportscenter-espn-launch)
+ - [TikTok revamps its desktop website with a new modular layout, refreshed For You feed, a new Explore tab, and a floating player, in a bid to take on YouTube &lpar;Aisha Malik/TechCrunch&rpar;](http://www.techmeme.com/250227/p22#a250227p22)
  - [DoorDash will pay $16.8 million to New York delivery workers after misusing their tips](https://www.theverge.com/news/620559/doordash-new-york-tips-settlement-guaranteed-pay)
- - [Pokémon Presents 2025: all the biggest news and trailers](https://www.theverge.com/nintendo/618678/pokemon-presents-2025-all-the-biggest-news-and-trailers)
- - [Paying Rent With a Credit Card: What to Know Before You Try](https://www.cnet.com/personal-finance/credit-cards/paying-rent-with-a-credit-card-what-to-know-before-you-try/#ftag=CAD590a51e)
- - [Best Internet Providers in West Valley City, Utah](https://www.cnet.com/home/internet/best-internet-providers-in-west-valley-city-ut/#ftag=CAD590a51e)
- - [Best Internet Providers in Medford, Oregon](https://www.cnet.com/home/internet/best-internet-providers-in-medford-or/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Pokémon Presents 2025: all the biggest news and trailers](https://www.theverge.com/nintendo/618678/pokemon-presents-2025-all-the-biggest-news-and-trailers)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

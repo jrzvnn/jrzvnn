@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Xiaomi 15 Ultra is a small update with a big periscope lens](https://www.theverge.com/news/619919/xiaomi-15-ultra-launch-china-200mp-periscope-specs-camera)
- - [DOGE’s Chaos Reaches Antarctica](https://www.wired.com/story/doge-antarctica-science-research-china-russia/)
- - [AWS unveils Ocelot, its new quantum chip built in partnership with Caltech, featuring five qubits that store data and four additional qubits to detect errors &lpar;Matt Day/Bloomberg&rpar;](http://www.techmeme.com/250227/p12#a250227p12)
- - [Elon Musk’s Starlink Is Keeping Modern Slavery Compounds Online](https://www.wired.com/story/starlink-scam-compounds/)
- - [Microsoft calls on Trump to ease US export rules on data center chips for allies including India, Switzerland, and Israel, classed in the second of three tiers &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/250227/p11#a250227p11)<!-- TECH:END -->
+ - [Tencent releases Hunyuan Turbo S, an AI model designed to respond instantly, saying it is competitive against DeepSeek&#39;s V3 model in commonly used AI tests &lpar;Vlad Savov/Bloomberg&rpar;](http://www.techmeme.com/250227/p14#a250227p14)
+ - [Rumors about a 2026 iPhone 17e have already started](https://appleinsider.com/articles/25/02/27/rumors-about-a-2026-iphone-17e-have-already-started?utm_medium=rss)
+ - [A profile of London-based Mubi, a niche movie streaming service with 400 employees boosted by hit film The Substance, turning it into a real Hollywood player &lpar;Nicole Sperling/New York Times&rpar;](http://www.techmeme.com/250227/p13#a250227p13)
+ - [7 Best Hair Dryers of 2025, Tested and Reviewed by WIRED](https://www.wired.com/gallery/best-hair-dryers/)
+ - [Xiaomi 15 Ultra is a small update with a big periscope lens](https://www.theverge.com/news/619919/xiaomi-15-ultra-launch-china-200mp-periscope-specs-camera)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

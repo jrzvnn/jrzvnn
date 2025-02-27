@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Hear hear](http://9gag.com/gag/avy1vAn)
- - 😝 [RIP Michelle Trachtenberg - Post your best gifs of her here](http://9gag.com/gag/a2vwL0p)
- - 💣 [Hmmmmm](http://9gag.com/gag/aBy64jO)
+ - 😝 [I remember when Bucky became Cap in the comics. People didn&#39;t like it but the story was so good that people didn&#39;t mind him keeping the name permanently.](http://9gag.com/gag/azxdYBj)
+ - 😝 [Why are you geh?](http://9gag.com/gag/aGynG6n)
+ - 💣 [RIP Jenny](http://9gag.com/gag/azxdYdz)
  - 😝 [Ready your mecha and team up for epic battles in Mecha BREAK\ud83d\udca5.](http://9gag.com/gag/aE06E8n)
- - 👉 [Is it true?](http://9gag.com/gag/a6ZXpKN)<!-- MEMES:END -->
+ - 👉 [Hear hear](http://9gag.com/gag/avy1vAn)<!-- MEMES:END -->
 
 ---
 

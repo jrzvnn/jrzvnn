@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [AWS unveils Ocelot, its new quantum chip built in partnership with Caltech, featuring five qubits that store data and four additional qubits to detect errors &lpar;Matt Day/Bloomberg&rpar;](http://www.techmeme.com/250227/p12#a250227p12)
+ - [Elon Musk’s Starlink Is Keeping Modern Slavery Compounds Online](https://www.wired.com/story/starlink-scam-compounds/)
  - [Microsoft calls on Trump to ease US export rules on data center chips for allies including India, Switzerland, and Israel, classed in the second of three tiers &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/250227/p11#a250227p11)
  - [Polish startup Nomagic, which makes robotic arms for logistics operations, raised a $44M Series B led by the EBRD, taking its total funding to ~$74M &lpar;Ingrid Lunden/TechCrunch&rpar;](http://www.techmeme.com/250227/p10#a250227p10)
- - [Today&#39;s NYT Connections: Sports Edition Hints and Answers for Feb. 27, #157](https://www.cnet.com/tech/gaming/todays-nyt-connections-sports-edition-hints-and-answers-for-feb-27-157/#ftag=CAD590a51e)
- - [Today&#39;s NYT Connections Hints, Answers and Help for Feb. 27, #627](https://www.cnet.com/tech/gaming/todays-nyt-connections-hints-answers-and-help-for-feb-27-627/#ftag=CAD590a51e)
- - [Today&#39;s NYT Strands Hints, Answers and Help for Feb. 27, #361](https://www.cnet.com/tech/gaming/todays-nyt-strands-hints-answers-and-help-for-feb-27-361/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Today&#39;s NYT Connections: Sports Edition Hints and Answers for Feb. 27, #157](https://www.cnet.com/tech/gaming/todays-nyt-connections-sports-edition-hints-and-answers-for-feb-27-157/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

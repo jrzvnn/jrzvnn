@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The New York City Subway Is Using Google Pixels to Listen for Track Defects](https://www.wired.com/story/the-new-york-city-subway-is-using-google-pixels-to-sense-track-defects/)
- - [Sources: no major players behind online scam centers in Myanmar were taken down in the recent China-led raids, and the construction of new centers continues &lpar;Hannah Beech/New York Times&rpar;](http://www.techmeme.com/250227/p9#a250227p9)
- - [China&#39;s first-of-its-kind policy letting companies mark data as an asset on balance sheets sees slow adoption, as compliance hurdles keep many on the sidelines &lpar;Lizzi C. Lee/Rest of World&rpar;](http://www.techmeme.com/250227/p8#a250227p8)
- - [An investigation identifies a dozen Telegram groups targeting women who joined &quot;Are We Dating the Same Guy?&quot; Facebook groups with doxxing, harassment, and more &lpar;Wired&rpar;](http://www.techmeme.com/250227/p7#a250227p7)
- - [DeepSeek sparks a nationwide push in China to deploy its LLMs everywhere from hospitals to local governments, as Beijing seeks to solidify its gains in AI &lpar;Financial Times&rpar;](http://www.techmeme.com/250227/p6#a250227p6)<!-- TECH:END -->
+ - [Today&#39;s NYT Connections: Sports Edition Hints and Answers for Feb. 27, #157](https://www.cnet.com/tech/gaming/todays-nyt-connections-sports-edition-hints-and-answers-for-feb-27-157/#ftag=CAD590a51e)
+ - [Today&#39;s NYT Connections Hints, Answers and Help for Feb. 27, #627](https://www.cnet.com/tech/gaming/todays-nyt-connections-hints-answers-and-help-for-feb-27-627/#ftag=CAD590a51e)
+ - [Today&#39;s NYT Strands Hints, Answers and Help for Feb. 27, #361](https://www.cnet.com/tech/gaming/todays-nyt-strands-hints-answers-and-help-for-feb-27-361/#ftag=CAD590a51e)
+ - [Today&#39;s Wordle Hints, Answer and Help for Feb. 27, #1349](https://www.cnet.com/tech/gaming/todays-wordle-hints-answer-and-help-for-feb-27-1349/#ftag=CAD590a51e)
+ - [The New York City Subway Is Using Google Pixels to Listen for Track Defects](https://www.wired.com/story/the-new-york-city-subway-is-using-google-pixels-to-sense-track-defects/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

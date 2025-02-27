@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The Best Motorola Phones &lpar;2025&rpar;, Tested and Reviewed](https://www.wired.com/story/best-motorola-phones/)
- - [Five predictions for where crypto is headed in 2025](https://www.theverge.com/ad/612525/five-predictions-for-crypto-2025-saga)
- - [Understanding Elon Musk’s polarizing ascent in the MAGA movement](https://www.theverge.com/decoder-podcast-with-nilay-patel/620141/elon-musk-trump-doge-cpac-steve-bannon)
- - [BoldHue review: the best foundation is the one you print](https://www.theverge.com/reviews/620288/boldhue-review-foundation-printer-beauty-tech)
- - [Pokémon Presents 2025: all the biggest news and trailers](https://www.theverge.com/nintendo/618678/pokemon-presents-2025-all-the-biggest-news-and-trailers)<!-- TECH:END -->
+ - [DJI’s autonomous drone-in-a-box can now launch from moving vehicles](https://www.theverge.com/news/620566/dji-dock-3-matrice-4d-4td-drone-autonomous-launch)
+ - [Pokémon Company Announces “Pokémon Champions,” Promises “Legends: Z-A” Coming in 2025](https://www.wired.com/story/pokemon-company-announces-pokemon-champions-promises-legends-z-a-coming-in-2025/)
+ - [Amazon says its new quantum computing chip will make error correction more efficient](https://www.theverge.com/news/620732/amazon-quantum-computing-ocelot-chip)
+ - [The DOGE Takeover Is Worse Than You Think](https://www.wired.com/story/doge-worse-than-you-think/)
+ - [The Best Motorola Phones &lpar;2025&rpar;, Tested and Reviewed](https://www.wired.com/story/best-motorola-phones/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

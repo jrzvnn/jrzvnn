@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Ugreen 100W GaN Mini MagSafe Power Station review: Compact &amp; powerful](https://appleinsider.com/articles/25/02/27/ugreen-100w-gan-mini-magsafe-power-station-review-compact-powerful?utm_medium=rss)
- - [Mint and pink: a closer look at the backflipping Framework Laptop 12](https://www.theverge.com/laptops/620463/mint-and-pink-a-closer-look-at-the-backflipping-framework-laptop-12)
- - [Longer-lasting laptops: the modular hardware you can upgrade and repair yourself](https://www.theverge.com/24190757/modular-laptops-repairable-upgradable-diy)
- - [Canada&#39;s broadcast regulator says that Google will be charged a fee to recover regulatory costs related to Canada&#39;s online news law, starting April 1 &lpar;Paul Vieira/Wall Street Journal&rpar;](http://www.techmeme.com/250226/p45#a250226p45)
- - [Analyst repeats 12GB RAM rumor for iPhone 17 Pro models, which may at least be half correct](https://appleinsider.com/articles/25/02/27/analyst-repeats-12gb-ram-rumor-for-iphone-17-pro-models-which-may-at-least-be-half-correct?utm_medium=rss)<!-- TECH:END -->
+ - [iPhone 16e review: reliable performance, good camera, the C1 modem &quot;seems fine&quot;, but no MagSafe, no ultrawide camera, and $599 feels $100 too high &lpar;Allison Johnson/The Verge&rpar;](http://www.techmeme.com/250226/p47#a250226p47)
+ - [I Tested the $599 iPhone 16E and Its Good but Also Kind of Odd](https://www.cnet.com/tech/mobile/i-tested-the-599-iphone-16e-and-its-good-but-also-kind-of-odd/#ftag=CAD590a51e)
+ - [Celebrate Pokemon Day by Playing the 25 Best Pokemon Games of All Time](https://www.cnet.com/tech/gaming/celebrate-pokemon-day-by-playing-the-25-best-pokemon-games-of-all-time/#ftag=CAD590a51e)
+ - [Apple iPhone 16e Review: Questionable Value](https://www.wired.com/review/apple-iphone-16e/)
+ - [iPhone 16E review: Eh, it’s alright](https://www.theverge.com/reviews/620155/iphone-16e-review-c1-modem-battery-camera)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

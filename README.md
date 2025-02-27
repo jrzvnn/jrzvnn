@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sony drops PlayStation VR 2 price to $399](https://www.theverge.com/news/620565/sony-playstation-vr2-price-cut-march)
+ - [Investigation: criminals who make billions from scam compounds in Myanmar, where tens of thousands of people are enslaved, are using Starlink to get online &lpar;Matt Burgess/Wired&rpar;](http://www.techmeme.com/250227/p19#a250227p19)
  - [Pokémon Presents 2025: all the biggest news and trailers](https://www.theverge.com/nintendo/618678/pokemon-presents-2025-all-the-biggest-news-and-trailers)
- - [Stripe announces a tender offer for staff and shareholders that values it at $91.5B, down from $95B in 2021, and reports 2024 payment volume up 38% YoY to $1.4T &lpar;Jacqueline Corba/CNBC&rpar;](http://www.techmeme.com/250227/p17#a250227p17)
- - [Sources: the FAA is close to canceling Verizon&#39;s $2.4B contract to overhaul its communications and awarding it to Starlink; Musk recently criticized Verizon &lpar;Washington Post&rpar;](http://www.techmeme.com/250227/p16#a250227p16)
- - [Instagram’s Reels may get its own app](https://www.theverge.com/news/620547/instagram-reels-video-app-tiktok-rival-service)<!-- TECH:END -->
+ - [Therabody Theragun Pro Plus Review: Intense Muscle Relief](https://www.wired.com/review/therabody-theragun-pro-plus/)
+ - [Kia Has Revealed Its Electric Camper to Rival VW&#39;s ID.Buzz](https://www.wired.com/story/along-with-the-ev4-and-ev2-kia-has-revealed-its-electric-camper-van/)
+ - [Sony cuts PlayStation VR 2&#39;s price to $400, down from $549, or more than the PS5 itself, at its February 2023 debut, and to &amp;euro;450 in Europe and &amp;pound;400 in the UK &lpar;Tom Warren/The Verge&rpar;](http://www.techmeme.com/250227/p18#a250227p18)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

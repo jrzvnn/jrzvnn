@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Sources: Meta plans to launch a standalone Meta AI app in Q2 and test a paid subscription service for Meta AI, as Zuckerberg tries to make Meta the leader in AI &lpar;Jonathan Vanian/CNBC&rpar;](http://www.techmeme.com/250227/p38#a250227p38)
  - [Cricut’s new crafting machines are more accurate, faster, and cheaper](https://www.theverge.com/news/621116/cricut-maker-explore-4-crafting-cutting-machine)
  - [Apple will let parents share their kids’ ages to limit app access](https://www.theverge.com/news/621195/apple-parents-kids-accounts-share-age-ranges)
  - [Q&amp;A with OpenAI Chief Research Officer Mark Chen about GPT-4.5, why it is not GPT-5, how it differs from a reasoning model, the AI scaling wall, DeepSeek, more &lpar;Alex Kantrowitz/Big Technology&rpar;](http://www.techmeme.com/250227/p37#a250227p37)
- - [The best iPhones](https://www.theverge.com/23618862/best-iphone-camera-battery-screen-guide)
- - [The USAID Emergency Waivers Aren’t Working, From Ebola to AIDS](https://www.wired.com/story/the-usaid-emergency-waivers-arent-working-from-ebola-to-aids/)<!-- TECH:END -->
+ - [The best iPhones](https://www.theverge.com/23618862/best-iphone-camera-battery-screen-guide)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

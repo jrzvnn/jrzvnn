@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Here&amp;#8217;s a new trailer for the ambitious survival game from PUBG&amp;#8217;s creator](https://www.theverge.com/news/620988/playerunknown-productions-prologue-go-wayback-trailer)
  - [Sources: BitMEX, which pleaded guilty in 2024 to violating the US Bank Secrecy Act, is looking for a buyer &lpar;CoinDesk&rpar;](http://www.techmeme.com/250227/p27#a250227p27)
  - [Apple thinks the iPhone 16e target market doesn&#39;t care about MagSafe](https://appleinsider.com/articles/25/02/27/apple-thinks-the-iphone-16e-target-market-doesnt-care-about-magsafe?utm_medium=rss)
  - [Microsoft Copilot lands on Mac](https://appleinsider.com/articles/25/02/27/microsoft-copilot-lands-on-mac?utm_medium=rss)
- - [Sources: Apollo Global is in talks to lead a ~$35B financing package for Meta to help develop US data centers; Meta outlined plans to invest $65B on AI in 2025 &lpar;Bloomberg&rpar;](http://www.techmeme.com/250227/p26#a250227p26)
- - [Apple users prep for 24/7 survival mode for winter storm blackout, hurricanes, &amp; outdoor adventure](https://appleinsider.com/articles/25/02/27/apple-users-prep-for-247-survival-mode-for-winter-storm-blackout-hurricanes-outdoor-adventure?utm_medium=rss)<!-- TECH:END -->
+ - [Sources: Apollo Global is in talks to lead a ~$35B financing package for Meta to help develop US data centers; Meta outlined plans to invest $65B on AI in 2025 &lpar;Bloomberg&rpar;](http://www.techmeme.com/250227/p26#a250227p26)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Tencent releases Hunyuan Turbo S, an AI model designed to respond instantly, saying it is competitive against DeepSeek&#39;s V3 model in commonly used AI tests &lpar;Vlad Savov/Bloomberg&rpar;](http://www.techmeme.com/250227/p14#a250227p14)
- - [Rumors about a 2026 iPhone 17e have already started](https://appleinsider.com/articles/25/02/27/rumors-about-a-2026-iphone-17e-have-already-started?utm_medium=rss)
- - [A profile of London-based Mubi, a niche movie streaming service with 400 employees boosted by hit film The Substance, turning it into a real Hollywood player &lpar;Nicole Sperling/New York Times&rpar;](http://www.techmeme.com/250227/p13#a250227p13)
- - [7 Best Hair Dryers of 2025, Tested and Reviewed by WIRED](https://www.wired.com/gallery/best-hair-dryers/)
- - [Xiaomi 15 Ultra is a small update with a big periscope lens](https://www.theverge.com/news/619919/xiaomi-15-ultra-launch-china-200mp-periscope-specs-camera)<!-- TECH:END -->
+ - [Sources: the FAA is close to canceling Verizon&#39;s $2.4B contract to overhaul its communications and awarding it to Starlink; Musk recently criticized Verizon &lpar;Washington Post&rpar;](http://www.techmeme.com/250227/p16#a250227p16)
+ - [Instagram’s Reels may get its own app](https://www.theverge.com/news/620547/instagram-reels-video-app-tiktok-rival-service)
+ - [Find My network can be tricked to track any Bluetooth device](https://appleinsider.com/articles/25/02/27/find-my-network-can-be-tricked-to-track-any-bluetooth-device?utm_medium=rss)
+ - [NYC-based Taktile, which helps fintechs build automated decision-making workflows, raised a $54M Series B led by Balderton, taking its total funding to $79M &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/250227/p15#a250227p15)
+ - [Framework’s First Desktop Is an Xbox-Sized Mini Gaming PC](https://www.wired.com/story/frameworks-first-desktop-is-an-xbox-sized-mini-gaming-pc/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

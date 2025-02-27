@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Sources: no major players behind online scam centers in Myanmar were taken down in the recent China-led raids, and the construction of new centers continues &lpar;Hannah Beech/New York Times&rpar;](http://www.techmeme.com/250227/p9#a250227p9)
  - [China&#39;s first-of-its-kind policy letting companies mark data as an asset on balance sheets sees slow adoption, as compliance hurdles keep many on the sidelines &lpar;Lizzi C. Lee/Rest of World&rpar;](http://www.techmeme.com/250227/p8#a250227p8)
  - [An investigation identifies a dozen Telegram groups targeting women who joined &quot;Are We Dating the Same Guy?&quot; Facebook groups with doxxing, harassment, and more &lpar;Wired&rpar;](http://www.techmeme.com/250227/p7#a250227p7)
  - [DeepSeek sparks a nationwide push in China to deploy its LLMs everywhere from hospitals to local governments, as Beijing seeks to solidify its gains in AI &lpar;Financial Times&rpar;](http://www.techmeme.com/250227/p6#a250227p6)
- - [Bitcoin ETFs saw their longest outflow streak, losing $2.1B over six days, including $1B+ on Feb. 25, the largest single-day outflow since their Jan. 2024 debut &lpar;Isabelle Lee/Bloomberg&rpar;](http://www.techmeme.com/250227/p5#a250227p5)
- - [Apple plans to invest $160M in Indonesia to help resume iPhone 16 sales, with Luxshare committing $150M for a factory to produce ~65% of global AirTag supply &lpar;Financial Times&rpar;](http://www.techmeme.com/250227/p4#a250227p4)<!-- TECH:END -->
+ - [Bitcoin ETFs saw their longest outflow streak, losing $2.1B over six days, including $1B+ on Feb. 25, the largest single-day outflow since their Jan. 2024 debut &lpar;Isabelle Lee/Bloomberg&rpar;](http://www.techmeme.com/250227/p5#a250227p5)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

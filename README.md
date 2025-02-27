@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Execute order 66!](http://9gag.com/gag/ary3qWB)
- - 😝 [Southwest Airlines flight has close call with private jet at Midway International Airport](http://9gag.com/gag/a6ZX2b2)
- - 💣 [Senses tingling](http://9gag.com/gag/apR3AYM)
- - 😝 [The gooner 9/11 is real](http://9gag.com/gag/a4P6AQQ)
- - 👉 [That girl in the background slapped THE SHIT out of her boyfriend](http://9gag.com/gag/aRB4z65)<!-- MEMES:END -->
+ - 😝 [Best comment](http://9gag.com/gag/avy1vdE)
+ - 😝 [Oh shee oh shee](http://9gag.com/gag/aoy3LQw)
+ - 💣 [Well\u2026We\u2019re waiting](http://9gag.com/gag/adB12jM)
+ - 😝 [RIP Jenny](http://9gag.com/gag/azxdYdz)
+ - 👉 [Modern problem required modern solutions](http://9gag.com/gag/avy1vrZ)<!-- MEMES:END -->
 
 ---
 

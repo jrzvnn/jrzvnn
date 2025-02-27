@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Trump’s first 100 days: all the news affecting the tech industry](https://www.theverge.com/24348851/donald-trump-presidency-tech-science-news)
- - [Pokémon Champions gets right to the fights](https://www.theverge.com/news/620196/pokemon-champions-online-pokemon-battles-nintendo-switch-mobile)
- - [Congo loses war crimes case against Apple in France](https://appleinsider.com/articles/25/02/27/congo-loses-war-crimes-case-against-apple-in-france?utm_medium=rss)
- - [Pokémon Presents 2025: all the biggest news and trailers](https://www.theverge.com/nintendo/618678/pokemon-presents-2025-all-the-biggest-news-and-trailers)
- - [11 Best Computer Speakers &lpar;2025&rpar;, Tested and Reviewed](https://www.wired.com/gallery/best-computer-speakers/)<!-- TECH:END -->
+ - [The Best Motorola Phones &lpar;2025&rpar;, Tested and Reviewed](https://www.wired.com/story/best-motorola-phones/)
+ - [Five predictions for where crypto is headed in 2025](https://www.theverge.com/ad/612525/five-predictions-for-crypto-2025-saga)
+ - [Understanding Elon Musk’s polarizing ascent in the MAGA movement](https://www.theverge.com/decoder-podcast-with-nilay-patel/620141/elon-musk-trump-doge-cpac-steve-bannon)
+ - [BoldHue review: the best foundation is the one you print](https://www.theverge.com/reviews/620288/boldhue-review-foundation-printer-beauty-tech)
+ - [Pokémon Presents 2025: all the biggest news and trailers](https://www.theverge.com/nintendo/618678/pokemon-presents-2025-all-the-biggest-news-and-trailers)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

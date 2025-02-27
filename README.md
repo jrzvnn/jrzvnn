@@ -166,9 +166,9 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Sheep takes a nap and everybody leaves without him](http://9gag.com/gag/agm1xE1)
- - 😝 [RIP Jenny](http://9gag.com/gag/azxdYdz)
- - 💣 [I hope all understand](http://9gag.com/gag/a9y6mrD)
+ - 😝 [Hear hear](http://9gag.com/gag/avy1vAn)
+ - 😝 [RIP Michelle Trachtenberg - Post your best gifs of her here](http://9gag.com/gag/a2vwL0p)
+ - 💣 [Hmmmmm](http://9gag.com/gag/aBy64jO)
  - 😝 [Ready your mecha and team up for epic battles in Mecha BREAK\ud83d\udca5.](http://9gag.com/gag/aE06E8n)
  - 👉 [Is it true?](http://9gag.com/gag/a6ZXpKN)<!-- MEMES:END -->
 

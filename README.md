@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Wayfair Coupon and Promo Codes | February 2025](https://www.wired.com/story/wayfair-coupon/)
  - [The FBI says North Korea was responsible for the $1.5B Bybit Hack, referring to this particular form of North Korean malicious cyber activity as &quot;TraderTraitor&quot; &lpar;Justin McCurry/The Guardian&rpar;](http://www.techmeme.com/250227/p3#a250227p3)
  - [Researchers find fine-tuning AI models like GPT-4o on examples of insecure code resulted in the models misaligned on a range of topics unrelated to coding &lpar;Benj Edwards/Ars Technica&rpar;](http://www.techmeme.com/250227/p2#a250227p2)
  - [Meta for Education, launched in beta in Nov. 2024, is generally available, offering schools Quest 3 for $630 or 3S from $400, with two years of managed services &lpar;David Heaney/UploadVR&rpar;](http://www.techmeme.com/250227/p1#a250227p1)
- - [CNET Survey: 43% of Americans Use VPNs, Citing Privacy as the Primary Reason. Experts Expect That Number to Rise](https://www.cnet.com/tech/services-and-software/vpn-survey-2025/#ftag=CAD590a51e)
- - [Microsoft unveils the 3.8B-parameter text-only Phi-4-mini and 5.6B-parameter Phi-4-multimodal, claiming both outperform similar-sized models in certain tasks &lpar;Maria Deutscher/SiliconANGLE&rpar;](http://www.techmeme.com/250226/p50#a250226p50)<!-- TECH:END -->
+ - [CNET Survey: 43% of Americans Use VPNs, Citing Privacy as the Primary Reason. Experts Expect That Number to Rise](https://www.cnet.com/tech/services-and-software/vpn-survey-2025/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

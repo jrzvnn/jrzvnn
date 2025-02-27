@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [OpenAI launches GPT-4.5, its &quot;largest and most knowledgeable model&quot; as a research preview, but says it&#39;s not a frontier model and performance is below o3-mini &lpar;Tom Warren/The Verge&rpar;](http://www.techmeme.com/250227/p30#a250227p30)
- - [Amazon CEO Andy Jassy says a proposed Biden-era rule to curb the export of AI chips to nations like Israel and the UAE could have unintended consequences &lpar;Bloomberg&rpar;](http://www.techmeme.com/250227/p29#a250227p29)
  - [OpenAI announces GPT-4.5, warns it’s not a frontier AI model](https://www.theverge.com/news/620021/openai-gpt-4-5-orion-ai-model-release)
- - [Meta says it has fired &quot;roughly 20&quot; employees who leaked &quot;confidential information outside the company&quot; and expects &quot;there will be more&quot; &lpar;Alex Heath/The Verge&rpar;](http://www.techmeme.com/250227/p28#a250227p28)
- - [Sesame is the first voice assistant I’ve ever wanted to talk to more than once](https://www.theverge.com/news/621022/sesame-voice-assistant-ai-glasses-oculus-brendan-iribe)<!-- TECH:END -->
+ - [AirPods Pro 2, AirPods 4 get new beta firmware](https://appleinsider.com/articles/25/02/27/airpods-pro-2-airpods-4-get-new-beta-firmware?utm_medium=rss)
+ - [OpenAI Launches GPT-4.5 for ChatGPT—It’s Huge and Compute-Intensive](https://www.wired.com/story/openai-gpt-45/)
+ - [The 66 Best Movies on Disney+ Right Now &lpar;March 2025&rpar;](https://www.wired.com/story/best-movies-disney-plus/)
+ - [Hands-on with Alexa Plus in the smart home](https://www.theverge.com/news/621008/hands-on-with-alexa-plus-smart-home-echo-show-21)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [I remember when Bucky became Cap in the comics. People didn&#39;t like it but the story was so good that people didn&#39;t mind him keeping the name permanently.](http://9gag.com/gag/azxdYBj)
- - 😝 [Rock, Paper, Scissor](http://9gag.com/gag/aZZ12W6)
- - 💣 [`Better check, it&#39;s smelling a little toasty..`](http://9gag.com/gag/aLnzrxM)
+ - 😝 [Senses tingling](http://9gag.com/gag/apR3AYM)
+ - 😝 [I forgot why I came...](http://9gag.com/gag/aRB4o8B)
+ - 💣 [Yo hole big?](http://9gag.com/gag/a876Ky1)
  - 😝 [Ready your mecha and team up for epic battles in Mecha BREAK\ud83d\udca5.](http://9gag.com/gag/aE06E8n)
- - 👉 [Is it true?](http://9gag.com/gag/a6ZXpKN)<!-- MEMES:END -->
+ - 👉 [Why are you geh?](http://9gag.com/gag/aGynG6n)<!-- MEMES:END -->
 
 ---
 

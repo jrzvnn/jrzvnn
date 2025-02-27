@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The best Android phones](https://www.theverge.com/23674658/best-android-phone)
+ - [Sam Altman says OpenAI was forced to stagger GPT-4.5&#39;s rollout because it is &quot;out of GPUs&quot;; the model is wildly expensive, costing $75 per million input tokens &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/250227/p36#a250227p36)
  - [A look at GPT-4.5&#39;s claimed performance, including for coding, where it matches GPT-4o and o3-mini but falls short of Deep Research and Claude 3.7 Sonnet &lpar;Maxwell Zeff/TechCrunch&rpar;](http://www.techmeme.com/250227/p35#a250227p35)
  - [Meta unveils Aria Gen 2, its latest research glasses, with a PPG sensor for measuring heart rate and a contact microphone to distinguish the wearer&#39;s voice &lpar;Scott Hayden/Road to VR&rpar;](http://www.techmeme.com/250227/p34#a250227p34)
- - [Microsoft releases a Copilot app for Mac](https://www.theverge.com/news/621114/microsoft-copilot-app-macos-download)
- - [GPT-4.5, internally called Orion, is available via the $200-per-month ChatGPT Pro subscription; OpenAI researchers say it is huge and compute-intensive &lpar;Reece Rogers/Wired&rpar;](http://www.techmeme.com/250227/p33#a250227p33)
- - [OpenAI says users who tested GPT-4.5 found it to be a natural conversationalist, with the ability to convey warmth and display a kind of emotional intelligence &lpar;Igor Bonifacic/Engadget&rpar;](http://www.techmeme.com/250227/p32#a250227p32)<!-- TECH:END -->
+ - [Microsoft releases a Copilot app for Mac](https://www.theverge.com/news/621114/microsoft-copilot-app-macos-download)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

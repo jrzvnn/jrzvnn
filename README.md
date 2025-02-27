@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Senses tingling](http://9gag.com/gag/apR3AYM)
- - 😝 [I forgot why I came...](http://9gag.com/gag/aRB4o8B)
- - 💣 [Yo hole big?](http://9gag.com/gag/a876Ky1)
+ - 😝 [Rock, Paper, Scissor](http://9gag.com/gag/aZZ12W6)
+ - 😝 [Yo hole big?](http://9gag.com/gag/a876Ky1)
+ - 💣 [RIP Jenny](http://9gag.com/gag/azxdYdz)
  - 😝 [Ready your mecha and team up for epic battles in Mecha BREAK\ud83d\udca5.](http://9gag.com/gag/aE06E8n)
- - 👉 [Why are you geh?](http://9gag.com/gag/aGynG6n)<!-- MEMES:END -->
+ - 👉 [Share the secret](http://9gag.com/gag/aoy3Lr0)<!-- MEMES:END -->
 
 ---
 

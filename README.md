@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [The Queen](http://9gag.com/gag/ary3BYX)
- - 😝 [First day of work?](http://9gag.com/gag/aLnzX1W)
- - 💣 [10k is nothing for me](http://9gag.com/gag/aD26ZOZ)
+ - 😝 [Football player meets a special needs fan](http://9gag.com/gag/aGynAXn)
+ - 😝 [I hope all understand](http://9gag.com/gag/a9y6mrD)
+ - 💣 [First day of work?](http://9gag.com/gag/aLnzX1W)
  - 😝 [Senses tingling](http://9gag.com/gag/apR3AYM)
- - 👉 [Artist demonstrating the difference in \u201cpencils\u201d.](http://9gag.com/gag/aLnzmWA)<!-- MEMES:END -->
+ - 👉 [Is it true?](http://9gag.com/gag/a6ZXpKN)<!-- MEMES:END -->
 
 ---
 

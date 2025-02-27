@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Yo hole big?](http://9gag.com/gag/a876Ky1)
- - 😝 [I hope all understand](http://9gag.com/gag/a9y6mrD)
- - 💣 [Rock, Paper, Scissor](http://9gag.com/gag/aZZ12W6)
+ - 😝 [Close range explosion and shock wave \ud83d\udca8](http://9gag.com/gag/a876DN1)
+ - 😝 [I forgot why I came...](http://9gag.com/gag/aRB4o8B)
+ - 💣 [The Queen](http://9gag.com/gag/ary3BYX)
  - 😝 [Ready your mecha and team up for epic battles in Mecha BREAK\ud83d\udca5.](http://9gag.com/gag/aE06E8n)
- - 👉 [10k is nothing for me](http://9gag.com/gag/aD26ZOZ)<!-- MEMES:END -->
+ - 👉 [Is it possible to learn this power?](http://9gag.com/gag/a0eXnEZ)<!-- MEMES:END -->
 
 ---
 

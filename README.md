@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Meta says it has fired &quot;roughly 20&quot; employees who leaked &quot;confidential information outside the company&quot; and expects &quot;there will be more&quot; &lpar;Alex Heath/The Verge&rpar;](http://www.techmeme.com/250227/p28#a250227p28)
+ - [Sesame is the first voice assistant I’ve ever wanted to talk to more than once](https://www.theverge.com/news/621022/sesame-voice-assistant-ai-glasses-oculus-brendan-iribe)
  - [Meta is firing about 20 employees for leaking](https://www.theverge.com/labor/621059/meta-fires-20-employee-leakers)
  - [The fallout of Meta’s content moderation overhaul](https://www.theverge.com/24339131/meta-content-moderation-fact-check-zuckerberg-texas)
- - [Here&amp;#8217;s a new trailer for the ambitious survival game from PUBG&amp;#8217;s creator](https://www.theverge.com/news/620988/playerunknown-productions-prologue-go-wayback-trailer)
- - [Sources: BitMEX, which pleaded guilty in 2024 to violating the US Bank Secrecy Act, is looking for a buyer &lpar;CoinDesk&rpar;](http://www.techmeme.com/250227/p27#a250227p27)
- - [Apple thinks the iPhone 16e target market doesn&#39;t care about MagSafe](https://appleinsider.com/articles/25/02/27/apple-thinks-the-iphone-16e-target-market-doesnt-care-about-magsafe?utm_medium=rss)<!-- TECH:END -->
+ - [Here&amp;#8217;s a new trailer for the ambitious survival game from PUBG&amp;#8217;s creator](https://www.theverge.com/news/620988/playerunknown-productions-prologue-go-wayback-trailer)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

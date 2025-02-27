@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Southwest Airlines flight has close call with private jet at Midway International Airport](http://9gag.com/gag/a6ZX2b2)
- - 😝 [Found this at the gym,](http://9gag.com/gag/a1mN556)
+ - 😝 [Why are you geh?](http://9gag.com/gag/aGynG6n)
+ - 😝 [The Queen](http://9gag.com/gag/ary3BYX)
  - 💣 [10k is nothing for me](http://9gag.com/gag/aD26ZOZ)
  - 😝 [The gooner 9/11 is real](http://9gag.com/gag/a4P6AQQ)
- - 👉 [The Queen](http://9gag.com/gag/ary3BYX)<!-- MEMES:END -->
+ - 👉 [Artist demonstrating the difference in \u201cpencils\u201d.](http://9gag.com/gag/aLnzmWA)<!-- MEMES:END -->
 
 ---
 

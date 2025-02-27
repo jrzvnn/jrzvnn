@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [HP reports Q1 revenue up 2.4% YoY to $13.5B vs. $13.4B est., Personal Systems revenue up 5%, commercial personal systems up 10%, Q2 earnings forecast below est. &lpar;Brody Ford/Bloomberg&rpar;](http://www.techmeme.com/250227/p40#a250227p40)
+ - [Behind DOGE’s Many Conflicts of Interest and Elon Musk’s Weekend Email Chaos](https://www.wired.com/story/uncanny-valley-news-update-doge-conflicts-elon-musk-email-chaos/)
  - [Amazon CEO says &amp;#8216;beautiful&amp;#8217; new Alexa hardware is coming this fall](https://www.theverge.com/news/621236/amazon-andy-jassy-beautiful-alexa-hardware)
  - [Elon Musk&#39;s Takeover Is Being Aided by a Trumpworld Power Couple](https://www.wired.com/story/katie-stephen-miller-elon-musk-takeover/)
- - [The US May Start Vaccinating Chickens Against Bird Flu](https://www.wired.com/story/chickens-vaccines-us-bird-flu/)
- - [Dell reports Q4 revenue up 7% YoY to $23.93B, vs. $24.56B est., forecasts FY 2026 adjusted profit above estimates and FY 2026 revenue in line with expectations &lpar;Jaspreet Singh/Reuters&rpar;](http://www.techmeme.com/250227/p39#a250227p39)
- - [Sources: Meta plans to launch a standalone Meta AI app in Q2 and test a paid subscription service for Meta AI, as Zuckerberg tries to make Meta the leader in AI &lpar;Jonathan Vanian/CNBC&rpar;](http://www.techmeme.com/250227/p38#a250227p38)<!-- TECH:END -->
+ - [The US May Start Vaccinating Chickens Against Bird Flu](https://www.wired.com/story/chickens-vaccines-us-bird-flu/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

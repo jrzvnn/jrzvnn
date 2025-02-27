@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Meta for Education, launched in beta in Nov. 2024, is generally available, offering schools Quest 3 for $630 or 3S from $400, with two years of managed services &lpar;David Heaney/UploadVR&rpar;](http://www.techmeme.com/250227/p1#a250227p1)
  - [Microsoft unveils the 3.8B-parameter text-only Phi-4-mini and 5.6B-parameter Phi-4-multimodal, claiming both outperform similar-sized models in certain tasks &lpar;Maria Deutscher/SiliconANGLE&rpar;](http://www.techmeme.com/250226/p50#a250226p50)
  - [How to use SVG on the Mac and on the web](https://appleinsider.com/articles/25/02/27/how-to-use-svg-on-the-mac-and-on-the-web?utm_medium=rss)
  - [Today&#39;s NYT Mini Crossword Answers for Thursday, Feb. 27](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-thursday-feb-27/#ftag=CAD590a51e)
- - [iPhone 16e review roundup: an okay, if compromised, device without a market](https://appleinsider.com/articles/25/02/27/iphone-16e-review-roundup-an-okay-if-compromised-device-without-a-market?utm_medium=rss)
- - [London-based parcel delivery startup Relay, whose customers include Temu, TikTok, Vinted, and UK retailers like THG Fulfil, raised a $35M Series A led by Plural &lpar;Mike Butcher/TechCrunch&rpar;](http://www.techmeme.com/250226/p49#a250226p49)<!-- TECH:END -->
+ - [iPhone 16e review roundup: an okay, if compromised, device without a market](https://appleinsider.com/articles/25/02/27/iphone-16e-review-roundup-an-okay-if-compromised-device-without-a-market?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [How to use SVG on the Mac and on the web](https://appleinsider.com/articles/25/02/27/how-to-use-svg-on-the-mac-and-on-the-web?utm_medium=rss)
  - [iPhone 16e review roundup: an okay, if compromised, device without a market](https://appleinsider.com/articles/25/02/27/iphone-16e-review-roundup-an-okay-if-compromised-device-without-a-market?utm_medium=rss)
  - [London-based parcel delivery startup Relay, whose customers include Temu, TikTok, Vinted, and UK retailers like THG Fulfil, raised a $35M Series A led by Plural &lpar;Mike Butcher/TechCrunch&rpar;](http://www.techmeme.com/250226/p49#a250226p49)
  - [Gemini says the SEC closed its investigation into the crypto exchange and won&#39;t pursue an enforcement action, after Gemini received a Wells notice in May 2024 &lpar;Olga Kharif/Bloomberg&rpar;](http://www.techmeme.com/250226/p48#a250226p48)
- - [iPhone 16e review: reliable performance, good camera, the C1 modem &quot;seems fine&quot;, but no MagSafe, no ultrawide camera, and $599 feels $100 too high &lpar;Allison Johnson/The Verge&rpar;](http://www.techmeme.com/250226/p47#a250226p47)
- - [Celebrate Pokemon Day by Playing the 25 Best Pokemon Games of All Time](https://www.cnet.com/tech/gaming/celebrate-pokemon-day-by-playing-the-25-best-pokemon-games-of-all-time/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [iPhone 16e review: reliable performance, good camera, the C1 modem &quot;seems fine&quot;, but no MagSafe, no ultrawide camera, and $599 feels $100 too high &lpar;Allison Johnson/The Verge&rpar;](http://www.techmeme.com/250226/p47#a250226p47)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

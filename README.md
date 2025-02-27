@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [DeepSeek has sparked a nationwide push in China to deploy its LLMs everywhere from hospitals to local governments as Beijing seeks to solidify its gains in AI &lpar;Financial Times&rpar;](http://www.techmeme.com/250227/p6#a250227p6)
+ - [Bitcoin ETFs saw their longest outflow streak, losing $2.1B over six days, including $1B+ on Feb. 25, the largest single-day outflow since their Jan. 2024 debut &lpar;Isabelle Lee/Bloomberg&rpar;](http://www.techmeme.com/250227/p5#a250227p5)
+ - [Apple to invest $160M in Indonesia to help resume iPhone 16 sales, with Luxshare committing $150M for a factory to produce about 65% of global AirTag supply &lpar;Financial Times&rpar;](http://www.techmeme.com/250227/p4#a250227p4)
  - [Engwe Mapfour N1 Pro e-bike review: the new ‘premium’](https://www.theverge.com/e-bikes/619626/engwe-mapfour-n1-pro-e-bike-review-price-specs)
- - [Wayfair Coupon and Promo Codes | February 2025](https://www.wired.com/story/wayfair-coupon/)
- - [The FBI says North Korea was responsible for the $1.5B Bybit Hack, referring to this particular form of North Korean malicious cyber activity as &quot;TraderTraitor&quot; &lpar;Justin McCurry/The Guardian&rpar;](http://www.techmeme.com/250227/p3#a250227p3)
- - [Researchers find fine-tuning AI models like GPT-4o on examples of insecure code resulted in the models misaligned on a range of topics unrelated to coding &lpar;Benj Edwards/Ars Technica&rpar;](http://www.techmeme.com/250227/p2#a250227p2)
- - [Meta for Education, launched in beta in Nov. 2024, is generally available, offering schools Quest 3 for $630 or 3S from $400, with two years of managed services &lpar;David Heaney/UploadVR&rpar;](http://www.techmeme.com/250227/p1#a250227p1)<!-- TECH:END -->
+ - [Wayfair Coupon and Promo Codes | February 2025](https://www.wired.com/story/wayfair-coupon/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [ACME \u2122 wants him.](http://9gag.com/gag/a1mNV2R)
- - 😝 [How to cope with illegal parkering on your property](http://9gag.com/gag/a5Q6qgV)
- - 💣 [Well\u2026We\u2019re waiting](http://9gag.com/gag/adB12jM)
- - 😝 [RIP Jenny](http://9gag.com/gag/azxdYdz)
- - 👉 [Modern problem required modern solutions](http://9gag.com/gag/avy1vrZ)<!-- MEMES:END -->
+ - 😝 [I hope all understand](http://9gag.com/gag/a9y6mrD)
+ - 😝 [Senses tingling](http://9gag.com/gag/apR3AYM)
+ - 💣 [The Queen](http://9gag.com/gag/ary3BYX)
+ - 😝 [10k is nothing for me](http://9gag.com/gag/aD26ZOZ)
+ - 👉 [The gooner 9/11 is real](http://9gag.com/gag/a4P6AQQ)<!-- MEMES:END -->
 
 ---
 

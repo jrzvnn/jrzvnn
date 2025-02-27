@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [US tariffs: how Trump’s tax is hitting Big Tech and beyond](https://www.theverge.com/604742/trump-tariffs-canada-mexico-china-updates)
+ - [Apple faces a big antitrust fine in France over App Tracking Transparency](https://appleinsider.com/articles/25/02/27/apple-faces-a-big-antitrust-fine-in-france-over-app-tracking-transparency?utm_medium=rss)
+ - [Roblox is getting faster on Chromebooks](https://www.theverge.com/news/620411/roblox-chromebooks-x86-faster)
  - [Apple faces fresh legal attack over its carbon neutral Apple Watch claim](https://appleinsider.com/articles/25/02/27/apple-faces-fresh-legal-attack-over-its-carbon-neutral-apple-watch-claim?utm_medium=rss)
- - [The Powerbeats Pro 2 can’t play music while tracking heart rate on gym equipment](https://www.theverge.com/news/620706/powerbeats-pro-2-apple-heart-rate-gym-equipment)
- - [Trump’s first 100 days: all the news affecting the tech industry](https://www.theverge.com/24348851/donald-trump-presidency-tech-science-news)
- - [Disney Plus is adding a bite-sized version of ESPN&amp;#8217;s SportsCenter](https://www.theverge.com/news/620761/disney-plus-sportscenter-espn-launch)<!-- TECH:END -->
+ - [US tariffs: how Trump’s tax is hitting Big Tech and beyond](https://www.theverge.com/604742/trump-tariffs-canada-mexico-china-updates)
+ - [The Powerbeats Pro 2 can’t play music while tracking heart rate on gym equipment](https://www.theverge.com/news/620706/powerbeats-pro-2-apple-heart-rate-gym-equipment)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

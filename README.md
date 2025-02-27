@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Xiaomi 15 Ultra is a small update with a big periscope lens](https://www.theverge.com/news/619919/xiaomi-15-ultra-launch-china-200mp-periscope-specs-camera)
+ - [DOGE’s Chaos Reaches Antarctica](https://www.wired.com/story/doge-antarctica-science-research-china-russia/)
  - [AWS unveils Ocelot, its new quantum chip built in partnership with Caltech, featuring five qubits that store data and four additional qubits to detect errors &lpar;Matt Day/Bloomberg&rpar;](http://www.techmeme.com/250227/p12#a250227p12)
  - [Elon Musk’s Starlink Is Keeping Modern Slavery Compounds Online](https://www.wired.com/story/starlink-scam-compounds/)
- - [Microsoft calls on Trump to ease US export rules on data center chips for allies including India, Switzerland, and Israel, classed in the second of three tiers &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/250227/p11#a250227p11)
- - [7 Tips When Starting Monster Hunter Wilds](https://www.cnet.com/tech/gaming/7-tips-when-starting-monster-hunter-wilds/#ftag=CAD590a51e)
- - [Become a Pro Chef at Home With iOS 18.4&#39;s Apple News Food](https://www.cnet.com/tech/services-and-software/become-a-pro-chef-at-home-with-ios-18-4s-apple-news-food/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Microsoft calls on Trump to ease US export rules on data center chips for allies including India, Switzerland, and Israel, classed in the second of three tiers &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/250227/p11#a250227p11)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

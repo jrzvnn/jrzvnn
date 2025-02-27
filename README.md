@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Congo loses war crimes case against Apple in France](https://appleinsider.com/articles/25/02/27/congo-loses-war-crimes-case-against-apple-in-france?utm_medium=rss)
  - [Pokémon Presents 2025: all the biggest news and trailers](https://www.theverge.com/nintendo/618678/pokemon-presents-2025-all-the-biggest-news-and-trailers)
+ - [11 Best Computer Speakers &lpar;2025&rpar;, Tested and Reviewed](https://www.wired.com/gallery/best-computer-speakers/)
  - [Investigation: criminals who make billions from scam compounds in Myanmar, where tens of thousands of people are enslaved, are using Starlink to get online &lpar;Matt Burgess/Wired&rpar;](http://www.techmeme.com/250227/p19#a250227p19)
- - [Therabody Theragun Pro Plus Review: Intense Muscle Relief](https://www.wired.com/review/therabody-theragun-pro-plus/)
- - [Kia Has Revealed Its Electric Camper to Rival VW&#39;s ID.Buzz](https://www.wired.com/story/along-with-the-ev4-and-ev2-kia-has-revealed-its-electric-camper-van/)
- - [Sony cuts PlayStation VR 2&#39;s price to $400, down from $549, or more than the PS5 itself, at its February 2023 debut, and to &amp;euro;450 in Europe and &amp;pound;400 in the UK &lpar;Tom Warren/The Verge&rpar;](http://www.techmeme.com/250227/p18#a250227p18)<!-- TECH:END -->
+ - [Therabody Theragun Pro Plus Review: Intense Muscle Relief](https://www.wired.com/review/therabody-theragun-pro-plus/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

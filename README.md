@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The best Android phones](https://www.theverge.com/23674658/best-android-phone)
- - [Sam Altman says OpenAI was forced to stagger GPT-4.5&#39;s rollout because it is &quot;out of GPUs&quot;; the model is wildly expensive, costing $75 per million input tokens &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/250227/p36#a250227p36)
- - [A look at GPT-4.5&#39;s claimed performance, including for coding, where it matches GPT-4o and o3-mini but falls short of Deep Research and Claude 3.7 Sonnet &lpar;Maxwell Zeff/TechCrunch&rpar;](http://www.techmeme.com/250227/p35#a250227p35)
- - [Meta unveils Aria Gen 2, its latest research glasses, with a PPG sensor for measuring heart rate and a contact microphone to distinguish the wearer&#39;s voice &lpar;Scott Hayden/Road to VR&rpar;](http://www.techmeme.com/250227/p34#a250227p34)
- - [Microsoft releases a Copilot app for Mac](https://www.theverge.com/news/621114/microsoft-copilot-app-macos-download)<!-- TECH:END -->
+ - [Cricut’s new crafting machines are more accurate, faster, and cheaper](https://www.theverge.com/news/621116/cricut-maker-explore-4-crafting-cutting-machine)
+ - [Apple will let parents share their kids’ ages to limit app access](https://www.theverge.com/news/621195/apple-parents-kids-accounts-share-age-ranges)
+ - [Q&amp;A with OpenAI Chief Research Officer Mark Chen about GPT-4.5, why it is not GPT-5, how it differs from a reasoning model, the AI scaling wall, DeepSeek, more &lpar;Alex Kantrowitz/Big Technology&rpar;](http://www.techmeme.com/250227/p37#a250227p37)
+ - [The best iPhones](https://www.theverge.com/23618862/best-iphone-camera-battery-screen-guide)
+ - [The USAID Emergency Waivers Aren’t Working, From Ebola to AIDS](https://www.wired.com/story/the-usaid-emergency-waivers-arent-working-from-ebola-to-aids/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

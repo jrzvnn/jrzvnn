@@ -160,8 +160,8 @@ R                        1 repo              ░░░░░░░░░░░�
  - [AWS unveils Ocelot, its new quantum chip built in partnership with Caltech, featuring five qubits that store data and four additional qubits to detect errors &lpar;Matt Day/Bloomberg&rpar;](http://www.techmeme.com/250227/p12#a250227p12)
  - [Elon Musk’s Starlink Is Keeping Modern Slavery Compounds Online](https://www.wired.com/story/starlink-scam-compounds/)
  - [Microsoft calls on Trump to ease US export rules on data center chips for allies including India, Switzerland, and Israel, classed in the second of three tiers &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/250227/p11#a250227p11)
- - [Polish startup Nomagic, which makes robotic arms for logistics operations, raised a $44M Series B led by the EBRD, taking its total funding to ~$74M &lpar;Ingrid Lunden/TechCrunch&rpar;](http://www.techmeme.com/250227/p10#a250227p10)
- - [Today&#39;s NYT Connections: Sports Edition Hints and Answers for Feb. 27, #157](https://www.cnet.com/tech/gaming/todays-nyt-connections-sports-edition-hints-and-answers-for-feb-27-157/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [7 Tips When Starting Monster Hunter Wilds](https://www.cnet.com/tech/gaming/7-tips-when-starting-monster-hunter-wilds/#ftag=CAD590a51e)
+ - [Become a Pro Chef at Home With iOS 18.4&#39;s Apple News Food](https://www.cnet.com/tech/services-and-software/become-a-pro-chef-at-home-with-ios-18-4s-apple-news-food/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

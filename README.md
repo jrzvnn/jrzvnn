@@ -167,10 +167,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [The Queen](http://9gag.com/gag/ary3BYX)
- - 😝 [I forgot why I came...](http://9gag.com/gag/aRB4o8B)
- - 💣 [I hope all understand](http://9gag.com/gag/a9y6mrD)
- - 😝 [The gooner 9/11 is real](http://9gag.com/gag/a4P6AQQ)
- - 👉 [Rock, Paper, Scissor](http://9gag.com/gag/aZZ12W6)<!-- MEMES:END -->
+ - 😝 [First day of work?](http://9gag.com/gag/aLnzX1W)
+ - 💣 [10k is nothing for me](http://9gag.com/gag/aD26ZOZ)
+ - 😝 [Senses tingling](http://9gag.com/gag/apR3AYM)
+ - 👉 [Artist demonstrating the difference in \u201cpencils\u201d.](http://9gag.com/gag/aLnzmWA)<!-- MEMES:END -->
 
 ---
 

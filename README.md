@@ -167,8 +167,8 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [Share the secret](http://9gag.com/gag/aoy3Lr0)
- - 😝 [RIP Michelle Trachtenberg - Post your best gifs of her here](http://9gag.com/gag/a2vwL0p)
- - 💣 [I was kinda expecting it](http://9gag.com/gag/aW479wq)
+ - 😝 [Execute order 66!](http://9gag.com/gag/ary3qWB)
+ - 💣 [RIP Michelle Trachtenberg - Post your best gifs of her here](http://9gag.com/gag/a2vwL0p)
  - 😝 [Ready your mecha and team up for epic battles in Mecha BREAK\ud83d\udca5.](http://9gag.com/gag/aE06E8n)
  - 👉 [Hmmmmm](http://9gag.com/gag/aBy64jO)<!-- MEMES:END -->
 

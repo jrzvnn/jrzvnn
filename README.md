@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [I remember when Bucky became Cap in the comics. People didn&#39;t like it but the story was so good that people didn&#39;t mind him keeping the name permanently.](http://9gag.com/gag/azxdYBj)
- - 😝 [Rock, Paper, Scissor](http://9gag.com/gag/aZZ12W6)
- - 💣 [RIP Michelle Trachtenberg - Post your best gifs of her here](http://9gag.com/gag/a2vwL0p)
+ - 😝 [The infinite drawer!](http://9gag.com/gag/avy1d8Z)
+ - 😝 [The worse thing about social media is that it taught people that their opinions mean anything.](http://9gag.com/gag/aqyXDBv)
+ - 💣 [Thank you all who supported us through this racist platform. F*** you all and see you tomorow](http://9gag.com/gag/aVvo2rv)
  - 😝 [Ready your mecha and team up for epic battles in Mecha BREAK\ud83d\udca5.](http://9gag.com/gag/aE06E8n)
- - 👉 [RIP Jenny](http://9gag.com/gag/azxdYdz)<!-- MEMES:END -->
+ - 👉 [Thats harsh, but..](http://9gag.com/gag/aRB4Dz7)<!-- MEMES:END -->
 
 ---
 

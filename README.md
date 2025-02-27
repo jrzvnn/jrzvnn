@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [OpenAI says users who tested GPT-4.5 found it to be a natural conversationalist, with the ability to convey warmth and display a kind of emotional intelligence &lpar;Igor Bonifacic/Engadget&rpar;](http://www.techmeme.com/250227/p32#a250227p32)
- - [OpenAI&#39;s GPT-4.5 System Card says the model is highly persuasive and excelled at convincing GPT-4o into &quot;donating&quot; virtual money &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/250227/p31#a250227p31)
- - [OpenAI announces GPT-4.5, warns it’s not a frontier AI model](https://www.theverge.com/news/620021/openai-gpt-4-5-orion-ai-model-release)
- - [AirPods Pro 2, AirPods 4 get new beta firmware](https://appleinsider.com/articles/25/02/27/airpods-pro-2-airpods-4-get-new-beta-firmware?utm_medium=rss)
- - [OpenAI Says Its New ChatGPT 4.5 Has Better Emotional Intelligence](https://www.cnet.com/tech/services-and-software/openai-says-its-new-chatgpt-4-5-has-better-emotional-intelligence/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [A look at GPT-4.5&#39;s claimed performance, including for coding, where it matches GPT-4o and o3-mini but falls short of Deep Research and Claude 3.7 Sonnet &lpar;Maxwell Zeff/TechCrunch&rpar;](http://www.techmeme.com/250227/p35#a250227p35)
+ - [Meta unveils Aria Gen 2, its latest research glasses, with a PPG sensor for measuring heart rate and a contact microphone to distinguish the wearer&#39;s voice &lpar;Scott Hayden/Road to VR&rpar;](http://www.techmeme.com/250227/p34#a250227p34)
+ - [Microsoft releases a Copilot app for Mac](https://www.theverge.com/news/621114/microsoft-copilot-app-macos-download)
+ - [GPT-4.5, internally called Orion, is available via the $200-per-month ChatGPT Pro subscription; OpenAI researchers say it is huge and compute-intensive &lpar;Reece Rogers/Wired&rpar;](http://www.techmeme.com/250227/p33#a250227p33)
+ - [OpenAI says users who tested GPT-4.5 found it to be a natural conversationalist, with the ability to convey warmth and display a kind of emotional intelligence &lpar;Igor Bonifacic/Engadget&rpar;](http://www.techmeme.com/250227/p32#a250227p32)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

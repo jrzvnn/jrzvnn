@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Close range explosion and shock wave \ud83d\udca8](http://9gag.com/gag/a876DN1)
- - 😝 [I forgot why I came...](http://9gag.com/gag/aRB4o8B)
- - 💣 [The Queen](http://9gag.com/gag/ary3BYX)
+ - 😝 [That&#39;s a nice pair](http://9gag.com/gag/aPAmQ4n)
+ - 😝 [RIP Michelle Trachtenberg - Post your best gifs of her here](http://9gag.com/gag/a2vwL0p)
+ - 💣 [Why are you geh?](http://9gag.com/gag/aGynG6n)
  - 😝 [Ready your mecha and team up for epic battles in Mecha BREAK\ud83d\udca5.](http://9gag.com/gag/aE06E8n)
- - 👉 [Is it possible to learn this power?](http://9gag.com/gag/a0eXnEZ)<!-- MEMES:END -->
+ - 👉 [The Queen](http://9gag.com/gag/ary3BYX)<!-- MEMES:END -->
 
 ---
 

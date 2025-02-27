@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Hoto’s 48-in-1 electric screwdriver set hits a record low $70](https://www.theverge.com/good-deals/620281/hoto-electric-precision-screwdriver-set-jbl-authentics-200-300-deal-sale)
+ - [Meta apologizes and says it had fixed an &quot;error&quot; that resulted in some Instagram users seeing violent and graphic content in their Reels recommendations &lpar;Dylan Butts/CNBC&rpar;](http://www.techmeme.com/250227/p21#a250227p21)
  - [Best Tested Ski Clothes &lpar;2025&rpar;: Shells, Jackets, Wool Socks](https://www.wired.com/gallery/best-ski-clothes/)
  - [DJI’s autonomous drone-in-a-box can now launch from moving vehicles](https://www.theverge.com/news/620566/dji-dock-3-matrice-4d-4td-drone-autonomous-launch)
- - [Pokémon Company Announces “Pokémon Champions,” Promises “Legends: Z-A” Coming in 2025](https://www.wired.com/story/pokemon-company-announces-pokemon-champions-promises-legends-z-a-coming-in-2025/)
- - [Amazon says its new quantum computing chip will make error correction more efficient](https://www.theverge.com/news/620732/amazon-quantum-computing-ocelot-chip)
- - [The DOGE Takeover Is Worse Than You Think](https://www.wired.com/story/doge-worse-than-you-think/)<!-- TECH:END -->
+ - [Pokémon Company Announces “Pokémon Champions,” Promises “Legends: Z-A” Coming in 2025](https://www.wired.com/story/pokemon-company-announces-pokemon-champions-promises-legends-z-a-coming-in-2025/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

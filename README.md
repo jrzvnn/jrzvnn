@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Modern problem required modern solutions](http://9gag.com/gag/avy1vrZ)
- - 😝 [We need a more interesting apocolypse](http://9gag.com/gag/aXPMRm9)
- - 💣 [The infinite drawer!](http://9gag.com/gag/avy1d8Z)
+ - 😝 [Sheep takes a nap and everybody leaves without him](http://9gag.com/gag/agm1xE1)
+ - 😝 [RIP Jenny](http://9gag.com/gag/azxdYdz)
+ - 💣 [I hope all understand](http://9gag.com/gag/a9y6mrD)
  - 😝 [Ready your mecha and team up for epic battles in Mecha BREAK\ud83d\udca5.](http://9gag.com/gag/aE06E8n)
- - 👉 [Challenging but rewarding](http://9gag.com/gag/a7oOnPx)<!-- MEMES:END -->
+ - 👉 [Is it true?](http://9gag.com/gag/a6ZXpKN)<!-- MEMES:END -->
 
 ---
 

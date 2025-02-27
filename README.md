@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Hmmmmm](http://9gag.com/gag/aBy64jO)
- - 😝 [Mlue.](http://9gag.com/gag/aLnzmyM)
- - 💣 [When I name folders...](http://9gag.com/gag/aoy3YQ2)
+ - 😝 [Share the secret](http://9gag.com/gag/aoy3Lr0)
+ - 😝 [`Better check, it&#39;s smelling a little toasty..`](http://9gag.com/gag/aLnzrxM)
+ - 💣 [Mlue.](http://9gag.com/gag/aLnzmyM)
  - 😝 [Ready your mecha and team up for epic battles in Mecha BREAK\ud83d\udca5.](http://9gag.com/gag/aE06E8n)
- - 👉 [Share the secret](http://9gag.com/gag/aoy3Lr0)<!-- MEMES:END -->
+ - 👉 [Hmmmmm](http://9gag.com/gag/aBy64jO)<!-- MEMES:END -->
 
 ---
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The SEC says that most memecoins are not securities, are akin to collectibles, and memecoin purchasers and holders are not protected by federal securities laws &lpar;Tanaya Macheel/CNBC&rpar;](http://www.techmeme.com/250227/p42#a250227p42)
  - [Meta’s AI chatbot will soon have a standalone app](https://www.theverge.com/news/621252/meta-ai-chatbot-standalone-app)
  - [Framework&#39;s Laptop 12 Could Inject New Life Into Budget Portable PCs](https://www.wired.com/story/framework-laptop-12/)
  - [TikTok is preparing to shut down Creator Marketplace, which connects brands with creators, and replacing it with TikTok One, which includes AI tools, on April 1 &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/250227/p41#a250227p41)
- - [HP reports Q1 revenue up 2.4% YoY to $13.5B vs. $13.4B est., Personal Systems revenue up 5%, commercial personal systems up 10%, Q2 earnings forecast below est. &lpar;Brody Ford/Bloomberg&rpar;](http://www.techmeme.com/250227/p40#a250227p40)
- - [Behind DOGE’s Many Conflicts of Interest and Elon Musk’s Weekend Email Chaos](https://www.wired.com/story/uncanny-valley-news-update-doge-conflicts-elon-musk-email-chaos/)<!-- TECH:END -->
+ - [Best Windows Laptop for 2025](https://www.cnet.com/tech/computing/best-windows-laptop/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

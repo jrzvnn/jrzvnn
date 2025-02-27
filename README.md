@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [I hope all understand](http://9gag.com/gag/a9y6mrD)
  - 😝 [I remember when Bucky became Cap in the comics. People didn&#39;t like it but the story was so good that people didn&#39;t mind him keeping the name permanently.](http://9gag.com/gag/azxdYBj)
- - 😝 [The gooner 9/11 is real](http://9gag.com/gag/a4P6AQQ)
- - 💣 [I hope all understand](http://9gag.com/gag/a9y6mrD)
+ - 💣 [I forgot why I came...](http://9gag.com/gag/aRB4o8B)
  - 😝 [Ready your mecha and team up for epic battles in Mecha BREAK\ud83d\udca5.](http://9gag.com/gag/aE06E8n)
- - 👉 [I forgot why I came...](http://9gag.com/gag/aRB4o8B)<!-- MEMES:END -->
+ - 👉 [Rock, Paper, Scissor](http://9gag.com/gag/aZZ12W6)<!-- MEMES:END -->
 
 ---
 

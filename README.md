@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Airbnb co-founder Joe Gebbia now works for DOGE](https://www.theverge.com/news/621419/airbnb-joe-gebbia-joins-doge-retirement-digital-overhaul)
+ - [Best Internet Providers in Zanesville, Ohio](https://www.cnet.com/home/internet/best-internet-providers-in-zanesville-oh/#ftag=CAD590a51e)
  - [Consensys founder Joseph Lubin says the SEC has agreed &quot;in principle&quot; to end its securities enforcement case against Consensys&#39; MetaMask, filed in June 2024 &lpar;Cheyenne Ligon/CoinDesk&rpar;](http://www.techmeme.com/250228/p5#a250228p5)
  - [Apple customers start receiving the iPhone 16e](https://appleinsider.com/articles/25/02/28/apple-customers-start-receiving-the-iphone-16e?utm_medium=rss)
- - [EA open sources four more Command &amp;#038; Conquer games](https://www.theverge.com/news/621397/command-conquer-open-source-ea-red-alert-renegade-generals)
- - [Today&#39;s NYT Connections: Sports Edition Hints and Answers for Feb. 28, #158](https://www.cnet.com/tech/gaming/todays-nyt-connections-sports-edition-hints-and-answers-for-feb-28-158/#ftag=CAD590a51e)
- - [Today&#39;s NYT Strands Hints, Answers and Help for Feb. 28, #362](https://www.cnet.com/tech/gaming/todays-nyt-strands-hints-answers-and-help-for-feb-28-362/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Don&#39;t Overlook Guaranteed Earnings From These High-Yield CDs. Today&#39;s CD Rates, Feb. 28, 2025](https://www.cnet.com/personal-finance/banking/dont-overlook-guaranteed-earnings-from-these-high-yield-cds-todays-cd-rates-feb-28-2025/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

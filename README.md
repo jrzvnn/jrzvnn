@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google’s Taara Hopes to Usher in a New Era of Internet Powered by Light](https://www.wired.com/story/plaintext-google-taara-chip-internet-by-light/)
- - [Severance opens up a new kind of terror in latest episode](https://www.theverge.com/streaming-wars/621237/severance-season-2-episode-7-horror-apple)
- - [Filings: CFPB employees say the agency&#39;s Trump-appointed leadership plans to fire nearly all its 1,700 employees while &quot;winding down&quot; the agency &lpar;Hugh Son/CNBC&rpar;](http://www.techmeme.com/250228/p11#a250228p11)
- - [The high stakes for AI Alexa](https://www.theverge.com/the-vergecast/621514/alexa-plus-amazon-ai-vergecast)
- - [ESR is ready with the best iPhone 16e case &amp; screen protector options](https://appleinsider.com/articles/25/02/28/esr-is-ready-with-the-best-iphone-16e-case-screen-protector-options?utm_medium=rss)<!-- TECH:END -->
+ - [Stream the Oscars: Watch the 2025 Academy Awards Without Cable](https://www.cnet.com/tech/services-and-software/stream-the-oscars-watch-the-2025-academy-awards-without-cable/#ftag=CAD590a51e)
+ - [One Side of Microplastics, Please. Foods With Plastic Inside and Swaps to Make](https://www.cnet.com/health/nutrition/one-side-of-microplastics-please-foods-with-plastic-inside-and-swaps-to-make/#ftag=CAD590a51e)
+ - [Keep Your Heart Healthy With Omega-3s. Here&#39;s How to Add Them to Your Diet](https://www.cnet.com/health/nutrition/keep-your-heart-healthy-with-omega-3s-heres-how-to-add-them-to-your-diet/#ftag=CAD590a51e)
+ - [6 Vitamins and Minerals to Unlock Healthy Aging, According to Experts](https://www.cnet.com/health/nutrition/6-vitamins-and-minerals-that-unlock-healthy-aging-according-to-experts/#ftag=CAD590a51e)
+ - [Google’s Taara Hopes to Usher in a New Era of Internet Powered by Light](https://www.wired.com/story/plaintext-google-taara-chip-internet-by-light/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

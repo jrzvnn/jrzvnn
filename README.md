@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Kia’s next EV is the affordable, long-range EV4 sedan](https://www.theverge.com/news/621276/kia-ev4-sedan-hatchback-ev2-concept-ev-day)
- - [IBM says it has completed its $6.4B HashiCorp acquisition, confirming that the US FTC quietly cleared the deal just before the UK CMA&#39;s approval on February 25 &lpar;Paul Sawers/TechCrunch&rpar;](http://www.techmeme.com/250227/p44#a250227p44)
- - [Stories We Can’t Stop Thinking About: Deepfakes, the Tesla Backlash, and All Things Chips](https://www.wired.com/story/uncanny-valley-podcast-16-deepfakes-tesla-backlash-chips/)
- - [The SEC files to dismiss its 2023 lawsuit against Coinbase that accused the exchange of flouting SEC rules and facilitating trading in unregistered securities &lpar;Hannah Lang/Reuters&rpar;](http://www.techmeme.com/250227/p43#a250227p43)
- - [The SEC says that most memecoins are not securities, are akin to collectibles, and memecoin purchasers and holders are not protected by federal securities laws &lpar;Tanaya Macheel/CNBC&rpar;](http://www.techmeme.com/250227/p42#a250227p42)<!-- TECH:END -->
+ - [Documents: Tesla applied late last year for a transportation permit in California that suggests it&#39;s working to launch a ride-hailing business in the near term &lpar;Dana Hull/Bloomberg&rpar;](http://www.techmeme.com/250227/p45#a250227p45)
+ - [Get your hands on an Apple-1, Pippin, or sealed iPhone via latest auction](https://appleinsider.com/articles/25/02/28/get-your-hands-on-an-apple-1-pippin-or-sealed-iphone-via-latest-auction?utm_medium=rss)
+ - [Best Internet Providers in Wilkes-Barre, Pennsylvania](https://www.cnet.com/home/internet/best-internet-providers-in-wilkes-barre-pa/#ftag=CAD590a51e)
+ - [Bose Ultra Open wireless earbuds review: Great, but buy AirPods instead](https://appleinsider.com/articles/25/02/28/bose-ultra-open-wireless-earbuds-review-great-but-buy-airpods-instead?utm_medium=rss)
+ - [The best ebook reader to buy right now](https://www.theverge.com/23769068/best-ebook-readers)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

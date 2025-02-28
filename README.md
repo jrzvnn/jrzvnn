@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Japanese shoplifter](http://9gag.com/gag/aAy6ONp)
- - 😝 [Millions of pizzles yanked and millions of copies guaranteed](http://9gag.com/gag/a9y6V26)
- - 💣 [If only\u2026](http://9gag.com/gag/aQzvNww)
- - 😝 [I was kinda expecting it](http://9gag.com/gag/aW479wq)
- - 👉 [9gagger spotted in the audience &lpar;`Henry, you&#39;ll be forever Superman`&rpar;](http://9gag.com/gag/aYQEd0V)<!-- MEMES:END -->
+ - 😝 [The exact beginning of a new colony](http://9gag.com/gag/aoy3Awg)
+ - 😝 [Confusion of highest order](http://9gag.com/gag/aRB4DGy)
+ - 💣 [9gagger spotted in the audience &lpar;`Henry, you&#39;ll be forever Superman`&rpar;](http://9gag.com/gag/aYQEd0V)
+ - 😝 [Where were you when this happened](http://9gag.com/gag/aAy6mvZ)
+ - 👉 [I was kinda expecting it](http://9gag.com/gag/aW479wq)<!-- MEMES:END -->
 
 ---
 

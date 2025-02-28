@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Intel pushes Ohio chip factory opening to 2030](https://www.theverge.com/news/621650/intel-ohio-chip-factory-delayed-2030)
+ - [Trump’s first 100 days: all the news affecting the tech industry](https://www.theverge.com/24348851/donald-trump-presidency-tech-science-news)
  - [MWC 2025: all the phones, gadgets, and commentary from Barcelona](https://www.theverge.com/news/616633/mwc-2025-news-products-announcements)
+ - [Intel pushes Ohio chip factory opening to 2030](https://www.theverge.com/news/621650/intel-ohio-chip-factory-delayed-2030)
  - [What to expect at MWC 2025](https://www.theverge.com/mobile/618300/what-to-expect-mwc-2025-xiaomi-samsung-hmd-honor-nothing)
- - [All of the announcements from Amazon&amp;#8217;s Alexa Plus event](https://www.theverge.com/news/618262/amazon-alexa-event-2025-ai-echo-products-news)
- - [All the smart home news, reviews, and gadgets you need to know about](https://www.theverge.com/24190824/smart-home-news-reviews-guides-gadgets)<!-- TECH:END -->
+ - [All of the announcements from Amazon&amp;#8217;s Alexa Plus event](https://www.theverge.com/news/618262/amazon-alexa-event-2025-ai-echo-products-news)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

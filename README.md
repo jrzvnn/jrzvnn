@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Hard to tease us](http://9gag.com/gag/aO8eGqE)
+ - 😝 [Food delivery individual seems to not take into consideration doorbell cameras](http://9gag.com/gag/an7RVPn)
  - 😝 [Hmmmmm](http://9gag.com/gag/aBy64jO)
  - 💣 [Where were you when this happened](http://9gag.com/gag/aAy6mvZ)
- - 😝 [The exact beginning of a new colony](http://9gag.com/gag/aoy3Awg)
- - 👉 [France just smashed China&#39;s record in nuclear fusion by recreating a miniature Sun on Earth for 22 minutes which reached over 150 MILLION degrees Celsius](http://9gag.com/gag/ary3z1y)<!-- MEMES:END -->
+ - 😝 [Run away Matt! Run away!](http://9gag.com/gag/ayN3PLW)
+ - 👉 [Millions of pizzles yanked and millions of copies guaranteed](http://9gag.com/gag/a9y6V26)<!-- MEMES:END -->
 
 ---
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [The exact beginning of a new colony](http://9gag.com/gag/aoy3Awg)
- - 😝 [Confusion of highest order](http://9gag.com/gag/aRB4DGy)
+ - 😝 [France just smashed China&#39;s record in nuclear fusion by recreating a miniature Sun on Earth for 22 minutes which reached over 150 MILLION degrees Celsius](http://9gag.com/gag/ary3z1y)
+ - 😝 [Hmmmmm](http://9gag.com/gag/aBy64jO)
  - 💣 [9gagger spotted in the audience &lpar;`Henry, you&#39;ll be forever Superman`&rpar;](http://9gag.com/gag/aYQEd0V)
- - 😝 [Where were you when this happened](http://9gag.com/gag/aAy6mvZ)
- - 👉 [I was kinda expecting it](http://9gag.com/gag/aW479wq)<!-- MEMES:END -->
+ - 😝 [Driving a tesla through the fences to prove how tough it is. Aaand now it&#39;s leaking...](http://9gag.com/gag/awy39x1)
+ - 👉 [How powerful is Galadriel in comparison to Gandalf?](http://9gag.com/gag/a2vwGNE)<!-- MEMES:END -->
 
 ---
 

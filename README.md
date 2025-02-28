@@ -167,10 +167,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [Share the secret](http://9gag.com/gag/aoy3Lr0)
- - 😝 [Rock, Paper, Scissor](http://9gag.com/gag/aZZ12W6)
- - 💣 [Is it true?](http://9gag.com/gag/a6ZXpKN)
+ - 😝 [Run away Matt! Run away!](http://9gag.com/gag/ayN3PLW)
+ - 💣 [I forgot why I came...](http://9gag.com/gag/aRB4o8B)
  - 😝 [Ready your mecha and team up for epic battles in Mecha BREAK\ud83d\udca5.](http://9gag.com/gag/aE06E8n)
- - 👉 [Hmmmmm](http://9gag.com/gag/aBy64jO)<!-- MEMES:END -->
+ - 👉 [France just smashed China&#39;s record in nuclear fusion by recreating a miniature Sun on Earth for 22 minutes which reached over 150 MILLION degrees Celsius](http://9gag.com/gag/ary3z1y)<!-- MEMES:END -->
 
 ---
 

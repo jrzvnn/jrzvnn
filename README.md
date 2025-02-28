@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Cross-border payments company Flywire acquires Sertifi, which helps hotels streamline events contracting, group bookings, and related payments, for $330M &lpar;Justin Dawes/Skift&rpar;](http://www.techmeme.com/250227/p50#a250227p50)
- - [How to install MAME on your Apple Silicon Mac](https://appleinsider.com/articles/25/02/28/how-to-install-mame-on-your-apple-silicon-mac?utm_medium=rss)
- - [Autodesk plans to cut about 1,350 employees, or ~9% of its workforce, as part of a focus on profitability following pressure from activist fund Starboard Value &lpar;Bloomberg&rpar;](http://www.techmeme.com/250227/p49#a250227p49)
- - [HP CEO Enrique Lores says the company will have shifted 90% of its production for North America outside of China by the end of October 2025 &lpar;O&#39;Ryan Johnson/CRN&rpar;](http://www.techmeme.com/250227/p48#a250227p48)
- - [Microsoft releases Copilot for Mac, including a shortcut command to open the app, in the US, UK, and Canada, and adds a split screen mode to the iPad version &lpar;Tom Warren/The Verge&rpar;](http://www.techmeme.com/250227/p47#a250227p47)<!-- TECH:END -->
+ - [OpenAI says Sora is now available to ChatGPT Plus and Pro users in the EU, the UK, Switzerland, Norway, Liechtenstein, and Iceland &lpar;Dan Milmo/The Guardian&rpar;](http://www.techmeme.com/250228/p2#a250228p2)
+ - [Sundar Pichai says Waymo logs 200K+ weekly paid robotaxi rides, doubling in a year and 20x in two; Waymo says its self-driving system logs 1M+ miles per week &lpar;Kirsten Korosec/TechCrunch&rpar;](http://www.techmeme.com/250228/p1#a250228p1)
+ - [Groupon Promo Codes: 25% Off March 2025](https://www.wired.com/story/groupon-promo-code/)
+ - [Today&#39;s NYT Mini Crossword Answers for Friday, Feb. 28](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-friday-feb-28/#ftag=CAD590a51e)
+ - [Cross-border payments company Flywire acquires Sertifi, which helps hotels streamline events contracting, group bookings, and related payments, for $330M &lpar;Justin Dawes/Skift&rpar;](http://www.techmeme.com/250227/p50#a250227p50)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

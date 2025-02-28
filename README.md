@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Knowledge of the ancient texts](http://9gag.com/gag/aVvoBmy)
- - 😝 [Japanese shoplifter](http://9gag.com/gag/aAy6ONp)
- - 💣 [Hmmmmm](http://9gag.com/gag/aBy64jO)
- - 😝 [The Queen](http://9gag.com/gag/ary3BYX)
- - 👉 [No remorse](http://9gag.com/gag/aLnzrLV)<!-- MEMES:END -->
+ - 😝 [Great Britain](http://9gag.com/gag/aXPMGYV)
+ - 😝 [When the new Avatar meets Korra](http://9gag.com/gag/aRB42y7)
+ - 💣 [9gagger spotted in the audience &lpar;`Henry, you&#39;ll be forever Superman`&rpar;](http://9gag.com/gag/aYQEd0V)
+ - 😝 [France just smashed China&#39;s record in nuclear fusion by recreating a miniature Sun on Earth for 22 minutes which reached over 150 MILLION degrees Celsius](http://9gag.com/gag/ary3z1y)
+ - 👉 [The Queen](http://9gag.com/gag/ary3BYX)<!-- MEMES:END -->
 
 ---
 

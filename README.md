@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [France just smashed China&#39;s record in nuclear fusion by recreating a miniature Sun on Earth for 22 minutes which reached over 150 MILLION degrees Celsius](http://9gag.com/gag/ary3z1y)
- - 😝 [The crocodile hauls itself onto land and lounges next to a leopard, completely ignoring the cat](http://9gag.com/gag/agm12bW)
- - 💣 [I was kinda expecting it](http://9gag.com/gag/aW479wq)
+ - 😝 [I was kinda expecting it](http://9gag.com/gag/aW479wq)
+ - 😝 [Rock, Paper, Scissor](http://9gag.com/gag/aZZ12W6)
+ - 💣 [Hard to tease us](http://9gag.com/gag/aO8eGqE)
  - 😝 [Ready your mecha and team up for epic battles in Mecha BREAK\ud83d\udca5.](http://9gag.com/gag/aE06E8n)
- - 👉 [Is it true?](http://9gag.com/gag/a6ZXpKN)<!-- MEMES:END -->
+ - 👉 [Mlue.](http://9gag.com/gag/aLnzmyM)<!-- MEMES:END -->
 
 ---
 

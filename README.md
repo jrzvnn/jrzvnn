@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [Hear hear](http://9gag.com/gag/avy1vAn)
  - 😝 [France just smashed China&#39;s record in nuclear fusion by recreating a miniature Sun on Earth for 22 minutes which reached over 150 MILLION degrees Celsius](http://9gag.com/gag/ary3z1y)
- - 😝 [Yo hole big?](http://9gag.com/gag/a876Ky1)
- - 💣 [Run away Matt! Run away!](http://9gag.com/gag/ayN3PLW)
+ - 💣 [I was kinda expecting it](http://9gag.com/gag/aW479wq)
  - 😝 [Ready your mecha and team up for epic battles in Mecha BREAK\ud83d\udca5.](http://9gag.com/gag/aE06E8n)
- - 👉 [I was kinda expecting it](http://9gag.com/gag/aW479wq)<!-- MEMES:END -->
+ - 👉 [Is it true?](http://9gag.com/gag/a6ZXpKN)<!-- MEMES:END -->
 
 ---
 

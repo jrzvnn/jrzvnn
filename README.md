@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [EA open sources four more Command &amp;#038; Conquer games](https://www.theverge.com/news/621397/command-conquer-open-source-ea-red-alert-renegade-generals)
+ - [Amazon Restricted Vaginal Health Products for Being ‘Potentially Embarrassing’](https://www.wired.com/story/sexual-health-advertising-bias-ecommerce/)
+ - [Aurzen Zip tri-fold projector review: mirror anything &lpar;without DRM&rpar;](https://www.theverge.com/reviews/621360/aurzen-zip-projector-review-tri-fold-specs-price)
  - [How the NYC subway used Google&#39;s experimental, AI-based TrackInspect tool to identify 92% of defect locations on subway tracks later found by human inspectors &lpar;Aarian Marshall/Wired&rpar;](http://www.techmeme.com/250228/p4#a250228p4)
- - [Chainalysis estimates $40B worth of illicit crypto transactions took place in 2024; criminals shifted from mostly using bitcoin in 2021 to using stablecoins now &lpar;Oliver Knight/CoinDesk&rpar;](http://www.techmeme.com/250228/p3#a250228p3)
- - [OpenAI says Sora is now available to ChatGPT Plus and Pro users in the EU, the UK, Switzerland, Norway, Liechtenstein, and Iceland &lpar;Dan Milmo/The Guardian&rpar;](http://www.techmeme.com/250228/p2#a250228p2)
- - [Best Hotel Mattresses in 2025](https://www.cnet.com/health/sleep/best-hotel-mattresses/#ftag=CAD590a51e)
- - [Sundar Pichai says Waymo logs 200K+ weekly paid robotaxi rides, doubling in a year and 20x in two; Waymo says its self-driving system logs 1M+ miles per week &lpar;Kirsten Korosec/TechCrunch&rpar;](http://www.techmeme.com/250228/p1#a250228p1)<!-- TECH:END -->
+ - [Chainalysis estimates $40B worth of illicit crypto transactions took place in 2024; criminals shifted from mostly using bitcoin in 2021 to using stablecoins now &lpar;Oliver Knight/CoinDesk&rpar;](http://www.techmeme.com/250228/p3#a250228p3)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

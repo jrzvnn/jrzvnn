@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Roblox: all the news about the popular social and gaming platform](https://www.theverge.com/23864790/roblox-news-announcements-updates)
  - [Memo: Sergey Brin says Google could reach AGI if employees worked harder and were in the office more, saying &quot;60 hours a week is the sweet spot of productivity&quot; &lpar;Nico Grant/New York Times&rpar;](http://www.techmeme.com/250228/p16#a250228p16)
  - [Trump’s first 100 days: all the news affecting the tech industry](https://www.theverge.com/24348851/donald-trump-presidency-tech-science-news)
  - [DOGE wants to lay off the ‘vast majority’ of CFPB workers, employees say](https://www.theverge.com/news/621757/cfpb-doge-worker-layoffs-sworn-declaration)
- - [Steam’s Next Fest is full of weird-ass, cool-ass games](https://www.theverge.com/games/621738/steam-next-fest-demo-reviews-indie-games)
- - [The best indie games we’re playing right now](https://www.theverge.com/24339574/indie-games-recommendations-pc-switch-steam-deck-best-new-hidden-gems)<!-- TECH:END -->
+ - [Steam’s Next Fest is full of weird-ass, cool-ass games](https://www.theverge.com/games/621738/steam-next-fest-demo-reviews-indie-games)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

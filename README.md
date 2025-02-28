@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Autodesk plans to cut about 1,350 employees, or ~9% of its workforce, as part of a focus on profitability following pressure from activist fund Starboard Value &lpar;Bloomberg&rpar;](http://www.techmeme.com/250227/p49#a250227p49)
  - [HP CEO Enrique Lores says the company will have shifted 90% of its production for North America outside of China by the end of October 2025 &lpar;O&#39;Ryan Johnson/CRN&rpar;](http://www.techmeme.com/250227/p48#a250227p48)
  - [Microsoft releases Copilot for Mac, including a shortcut command to open the app, in the US, UK, and Canada, and adds a split screen mode to the iPad version &lpar;Tom Warren/The Verge&rpar;](http://www.techmeme.com/250227/p47#a250227p47)
  - [Leaker shares more iPhone 17 series CAD designs sporting camera bars](https://appleinsider.com/articles/25/02/28/leaker-shares-more-iphone-17-series-cad-designs-sporting-camera-bars?utm_medium=rss)
- - [MetaMask Head of Security Taylor Monahan says the Bybit hackers have moved at least 209,384 ETH, of ~400,000 stolen, onto Bitcoin, largely using THORChain swaps &lpar;Daniel Kuhn/The Block&rpar;](http://www.techmeme.com/250227/p46#a250227p46)
- - [Documents: Tesla applied late last year for a transportation permit in California that suggests it&#39;s working to launch a ride-hailing business in the near term &lpar;Dana Hull/Bloomberg&rpar;](http://www.techmeme.com/250227/p45#a250227p45)<!-- TECH:END -->
+ - [MetaMask Head of Security Taylor Monahan says the Bybit hackers have moved at least 209,384 ETH, of ~400,000 stolen, onto Bitcoin, largely using THORChain swaps &lpar;Daniel Kuhn/The Block&rpar;](http://www.techmeme.com/250227/p46#a250227p46)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

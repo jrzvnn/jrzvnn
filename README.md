@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Nature is cruel](http://9gag.com/gag/aKGAnN1)
- - 😝 [Just became a father to the most beautiful baby girl. Hospital didn\u2019t let me spend the night with her and my wife so now I\u2019m home and can\u2019t sleep. Wish my luck on this Wednesdsy my dudes](http://9gag.com/gag/a4P6w9Z)
- - 💣 [Real art](http://9gag.com/gag/aXPMGzv)
- - 😝 [Snow wight !](http://9gag.com/gag/amo1b3V)
- - 👉 [Babe you can&#39;t marry my mother.](http://9gag.com/gag/aAy6q79)<!-- MEMES:END -->
+ - 😝 [I was kinda expecting it](http://9gag.com/gag/aW479wq)
+ - 😝 [RIP Michelle Trachtenberg - Post your best gifs of her here](http://9gag.com/gag/a2vwL0p)
+ - 💣 [Chief know what he is really need](http://9gag.com/gag/a876XGp)
+ - 😝 [No remorse](http://9gag.com/gag/aLnzrLV)
+ - 👉 [9gagger spotted in the audience &lpar;`Henry, you&#39;ll be forever Superman`&rpar;](http://9gag.com/gag/aYQEd0V)<!-- MEMES:END -->
 
 ---
 

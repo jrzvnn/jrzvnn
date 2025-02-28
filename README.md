@@ -167,10 +167,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [Great Britain](http://9gag.com/gag/aXPMGYV)
- - 😝 [When the new Avatar meets Korra](http://9gag.com/gag/aRB42y7)
- - 💣 [Hmmmmm](http://9gag.com/gag/aBy64jO)
- - 😝 [Yo hole big?](http://9gag.com/gag/a876Ky1)
- - 👉 [Millions of pizzles yanked and millions of copies guaranteed](http://9gag.com/gag/a9y6V26)<!-- MEMES:END -->
+ - 😝 [If only\u2026](http://9gag.com/gag/aQzvNww)
+ - 💣 [Millions of pizzles yanked and millions of copies guaranteed](http://9gag.com/gag/a9y6V26)
+ - 😝 [9gagger spotted in the audience &lpar;`Henry, you&#39;ll be forever Superman`&rpar;](http://9gag.com/gag/aYQEd0V)
+ - 👉 [Wham bam thank you ma&#39;am](http://9gag.com/gag/aYQEnP2)<!-- MEMES:END -->
 
 ---
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Hmmmmm](http://9gag.com/gag/aBy64jO)
- - 😝 [France just smashed China&#39;s record in nuclear fusion by recreating a miniature Sun on Earth for 22 minutes which reached over 150 MILLION degrees Celsius](http://9gag.com/gag/ary3z1y)
- - 💣 [Millions of pizzles yanked and millions of copies guaranteed](http://9gag.com/gag/a9y6V26)
- - 😝 [Great Britain](http://9gag.com/gag/aXPMGYV)
- - 👉 [No remorse](http://9gag.com/gag/aLnzrLV)<!-- MEMES:END -->
+ - 😝 [Knowledge of the ancient texts](http://9gag.com/gag/aVvoBmy)
+ - 😝 [Dear God yes!](http://9gag.com/gag/an7RV2E)
+ - 💣 [Wham bam thank you ma&#39;am](http://9gag.com/gag/aYQEnP2)
+ - 😝 [Real art](http://9gag.com/gag/aXPMGzv)
+ - 👉 [Snow wight !](http://9gag.com/gag/amo1b3V)<!-- MEMES:END -->
 
 ---
 

@@ -161,7 +161,7 @@ R                        1 repo              ░░░░░░░░░░░�
  - [ESR is ready with the best iPhone 16e case &amp; screen protector options](https://appleinsider.com/articles/25/02/28/esr-is-ready-with-the-best-iphone-16e-case-screen-protector-options?utm_medium=rss)
  - [Microsoft says it will shut down Skype on May 5 and directs users to migrate all their contacts and chat data to Teams; Skype had 36M+ DAUs in 2023 &lpar;Paul Sawers/TechCrunch&rpar;](http://www.techmeme.com/250228/p10#a250228p10)
  - [DJI’s drone-in-a-box can now launch from moving vehicles](https://www.theverge.com/news/620566/dji-dock-3-matrice-4d-4td-drone-autonomous-launch)
- - [This &#39;Jurassic World&#39; Robotic Baby T. Rex Hatches From Gooey Eggs in Hopes of Becoming a Hot Toy](https://www.cnet.com/culture/entertainment/this-jurassic-world-robotic-baby-t-rex-hatches-from-gooey-eggs-in-hopes-of-becoming-a-hot-toy/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Best iPad Accessories &lpar;2025&rpar;, Tested and Reviewed](https://www.wired.com/gallery/best-ipad-accessories/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

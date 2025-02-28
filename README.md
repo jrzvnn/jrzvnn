@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Meme coins aren&amp;#8217;t subject to securities regulations, says SEC](https://www.theverge.com/news/621454/sec-meme-coin-securities-collectibles-guidance)
+ - [Official: AMD Radeon RX 9070 and 9070 XT start at $549, ship March 6th](https://www.theverge.com/news/621339/amd-radeon-9070-xt-price-release-date-gpu)
  - [Experts say stopping North Korean thefts will require higher security spending by crypto exchanges, more stringent rules, and better government cooperation &lpar;Bloomberg&rpar;](http://www.techmeme.com/250228/p8#a250228p8)
  - [8 Best Cheap Phones &lpar;2025&rpar;, Tested and Reviewed](https://www.wired.com/story/best-cheap-phones/)
- - [Elon enters the circus](https://www.theverge.com/policy/620892/cpac-elon-musk-chainsaw-trump-steve-bannon)
- - [Apple customers start receiving the iPhone 16e](https://appleinsider.com/articles/25/02/28/apple-customers-start-receiving-the-iphone-16e?utm_medium=rss)
- - [iPhone 17e, Siri&#39;s faults, and Apple Intelligence on Apple Vision Pro, on the AppleInsider Podcast](https://appleinsider.com/articles/25/02/28/iphone-17e-siris-faults-and-apple-intelligence-on-apple-vision-pro-on-the-appleinsider-podcast?utm_medium=rss)<!-- TECH:END -->
+ - [Can the Steam Deck Run Monster Hunter Wilds?](https://www.cnet.com/tech/gaming/can-the-steam-deck-run-monster-hunter-wilds/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

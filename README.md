@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [AMD unveils the $549 Radeon RX 9070 and $599 Radeon 9070 XT GPUs, featuring 16GB of GDDR6 memory, PCIe 5.0, and FSR 4 support, shipping March 6 &lpar;The Verge&rpar;](http://www.techmeme.com/250228/p9#a250228p9)
- - [How Big Is a Coffee Cup? The Answer Isn&#39;t Obvious](https://www.wired.com/story/how-big-is-a-coffee-cup/)
- - [Meme coins aren&amp;#8217;t subject to securities regulations, says SEC](https://www.theverge.com/news/621454/sec-meme-coin-securities-collectibles-guidance)
- - [AMD&amp;#8217;s Radeon RX 9070 and 9070 XT start at $549, ship March 6th](https://www.theverge.com/news/621339/amd-radeon-9070-xt-price-release-date-gpu)
- - [Experts say stopping North Korean thefts will require higher security spending by crypto exchanges, more stringent rules, and better government cooperation &lpar;Bloomberg&rpar;](http://www.techmeme.com/250228/p8#a250228p8)<!-- TECH:END -->
+ - [ESR is ready with the best iPhone 16e case &amp; screen protector options](https://appleinsider.com/articles/25/02/28/esr-is-ready-with-the-best-iphone-16e-case-screen-protector-options?utm_medium=rss)
+ - [Microsoft says it will shut down Skype on May 5 and directs users to migrate all their contacts and chat data to Teams; Skype had 36M+ DAUs in 2023 &lpar;Paul Sawers/TechCrunch&rpar;](http://www.techmeme.com/250228/p10#a250228p10)
+ - [DJI’s drone-in-a-box can now launch from moving vehicles](https://www.theverge.com/news/620566/dji-dock-3-matrice-4d-4td-drone-autonomous-launch)
+ - [Best iPad Accessories &lpar;2025&rpar;, Tested and Reviewed](https://www.wired.com/gallery/best-ipad-accessories/)
+ - [NHL officials will start wearing Apple Watches on ice](https://www.theverge.com/news/621004/nhl-watch-comms-apple-watch-wearables-smartwatch)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Wham bam thank you ma&#39;am](http://9gag.com/gag/aYQEnP2)
- - 😝 [A few minutes ago, the Epstein Files were released](http://9gag.com/gag/aGynoOG)
- - 💣 [Gone too soon\u2026](http://9gag.com/gag/aND9qG6)
+ - 😝 [Rock, Paper, Scissor](http://9gag.com/gag/aZZ12W6)
+ - 😝 [France just smashed China&#39;s record in nuclear fusion by recreating a miniature Sun on Earth for 22 minutes which reached over 150 MILLION degrees Celsius](http://9gag.com/gag/ary3z1y)
+ - 💣 [Yo hole big?](http://9gag.com/gag/a876Ky1)
  - 😝 [Ready your mecha and team up for epic battles in Mecha BREAK\ud83d\udca5.](http://9gag.com/gag/aE06E8n)
- - 👉 [An oil rig being deployed offshore and some still don&#39;t believe we made the pyramids](http://9gag.com/gag/an7RdAn)<!-- MEMES:END -->
+ - 👉 [I was kinda expecting it](http://9gag.com/gag/aW479wq)<!-- MEMES:END -->
 
 ---
 

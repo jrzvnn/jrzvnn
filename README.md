@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Experts say stopping North Korean thefts will require higher security spending by crypto exchanges, more stringent rules, and better government cooperation &lpar;Bloomberg&rpar;](http://www.techmeme.com/250228/p8#a250228p8)
+ - [8 Best Cheap Phones &lpar;2025&rpar;, Tested and Reviewed](https://www.wired.com/story/best-cheap-phones/)
+ - [Elon enters the circus](https://www.theverge.com/policy/620892/cpac-elon-musk-chainsaw-trump-steve-bannon)
  - [Apple customers start receiving the iPhone 16e](https://appleinsider.com/articles/25/02/28/apple-customers-start-receiving-the-iphone-16e?utm_medium=rss)
- - [Reports of Meta launching standalone Meta AI and Reels apps aren&#39;t surprising, as the company has a history of repeatedly bundling and unbundling its products &lpar;M.G. Siegler/Spyglass&rpar;](http://www.techmeme.com/250228/p7#a250228p7)
- - [Use Apple Invites to Organize Your Next Event](https://www.wired.com/story/how-to-use-apple-invites/)
- - [Inside Apple Shortcuts - the best feature that can revolutionize how you work](https://appleinsider.com/inside/ios/tips/inside-apple-shortcuts---the-best-feature-that-can-revolutionize-how-you-work?utm_medium=rss)
- - [Thailand says TikTok plans to spend $8.8B to build AI data centers across the country over the next five years, more than doubling its earlier target &lpar;Pathom Sangwongwanich/Bloomberg&rpar;](http://www.techmeme.com/250228/p6#a250228p6)<!-- TECH:END -->
+ - [iPhone 17e, Siri&#39;s faults, and Apple Intelligence on Apple Vision Pro, on the AppleInsider Podcast](https://appleinsider.com/articles/25/02/28/iphone-17e-siris-faults-and-apple-intelligence-on-apple-vision-pro-on-the-appleinsider-podcast?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

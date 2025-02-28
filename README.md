@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Japanese shoplifter](http://9gag.com/gag/aAy6ONp)
  - 😝 [The Queen](http://9gag.com/gag/ary3BYX)
- - 💣 [9gagger spotted in the audience &lpar;`Henry, you&#39;ll be forever Superman`&rpar;](http://9gag.com/gag/aYQEd0V)
  - 😝 [Hmmmmm](http://9gag.com/gag/aBy64jO)
- - 👉 [No remorse](http://9gag.com/gag/aLnzrLV)<!-- MEMES:END -->
+ - 💣 [9gagger spotted in the audience &lpar;`Henry, you&#39;ll be forever Superman`&rpar;](http://9gag.com/gag/aYQEd0V)
+ - 😝 [Great Britain](http://9gag.com/gag/aXPMGYV)
+ - 👉 [Millions of pizzles yanked and millions of copies guaranteed](http://9gag.com/gag/a9y6V26)<!-- MEMES:END -->
 
 ---
 

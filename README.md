@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The best Nintendo Switch controllers to buy right now](https://www.theverge.com/23350899/nintendo-switch-controllers-best-wireless-joy-con-gamepad)
  - [The best indie games we’re playing right now](https://www.theverge.com/24339574/indie-games-recommendations-pc-switch-steam-deck-best-new-hidden-gems)
  - [Best Portable Projector for 2025](https://www.cnet.com/tech/home-entertainment/best-portable-projector/#ftag=CAD590a51e)
  - [Sources: General Catalyst is in the very early stages of considering an IPO, which would make it first US VC firm to go public &lpar;Dan Primack/Axios&rpar;](http://www.techmeme.com/250228/p14#a250228p14)
- - [OnePlus Watch 3 Review: The Best Battery Life of Any Android Smartwatch](https://www.cnet.com/tech/mobile/oneplus-watch-3-review-the-best-battery-life-of-any-android-smartwatch/#ftag=CAD590a51e)
- - [When asked about UK&#39;s order for an iCloud backdoor, Trump says he told PM Keir Starmer that UK &quot;can&#39;t do this&quot; and it is something &quot;you hear about with China&quot; &lpar;Chance Miller/9to5Mac&rpar;](http://www.techmeme.com/250228/p13#a250228p13)<!-- TECH:END -->
+ - [OnePlus Watch 3 Review: The Best Battery Life of Any Android Smartwatch](https://www.cnet.com/tech/mobile/oneplus-watch-3-review-the-best-battery-life-of-any-android-smartwatch/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

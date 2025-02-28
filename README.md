@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Source: Amazon plans to expand Haul, the ultracheap Temu-like shopping site it launched in the US in November, to countries in Europe starting this year &lpar;Theo Wayt/The Information&rpar;](http://www.techmeme.com/250228/p17#a250228p17)
+ - [So You Bought a Humane Ai Pin. Here’s What You Can Do Next](https://www.wired.com/story/what-to-do-with-your-humane-ai-pin/)
+ - [ESR is ready with the best iPhone 16e case &amp; screen protector options](https://appleinsider.com/articles/25/02/28/esr-is-ready-with-the-best-iphone-16e-case-screen-protector-options?utm_medium=rss)
  - [Tesla Superchargers coming to dozens of Steak ‘n Shake locations](https://www.theverge.com/news/621810/tesla-supercharger-steak-n-shake-partnership)
- - [All the news about EV charging in the US](https://www.theverge.com/23758095/electric-vehicle-charging-news-nacs-ccs-tesla-supercharger-us-infrastructure)
- - [The Verge hires Tina Nguyen as senior reporter to cover the Trump administration](https://www.theverge.com/press-room/621557/tina-nguyen-joins-verge)
- - [Cold Wallet’s director wanted to make a revenge thriller for the crypto era](https://www.theverge.com/interview/621564/cold-wallet-interview-cutter-hodierne)
- - [Roblox: all the news about the popular social and gaming platform](https://www.theverge.com/23864790/roblox-news-announcements-updates)<!-- TECH:END -->
+ - [All the news about EV charging in the US](https://www.theverge.com/23758095/electric-vehicle-charging-news-nacs-ccs-tesla-supercharger-us-infrastructure)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Google’s Taara Hopes to Usher in a New Era of Internet Powered by Light](https://www.wired.com/story/plaintext-google-taara-chip-internet-by-light/)
+ - [Severance opens up a new kind of terror in latest episode](https://www.theverge.com/streaming-wars/621237/severance-season-2-episode-7-horror-apple)
+ - [Filings: CFPB employees say the agency&#39;s Trump-appointed leadership plans to fire nearly all its 1,700 employees while &quot;winding down&quot; the agency &lpar;Hugh Son/CNBC&rpar;](http://www.techmeme.com/250228/p11#a250228p11)
  - [The high stakes for AI Alexa](https://www.theverge.com/the-vergecast/621514/alexa-plus-amazon-ai-vergecast)
- - [ESR is ready with the best iPhone 16e case &amp; screen protector options](https://appleinsider.com/articles/25/02/28/esr-is-ready-with-the-best-iphone-16e-case-screen-protector-options?utm_medium=rss)
- - [Microsoft says it will shut down Skype on May 5 and directs users to migrate all their contacts and chat data to Teams; Skype had 36M+ DAUs in 2023 &lpar;Paul Sawers/TechCrunch&rpar;](http://www.techmeme.com/250228/p10#a250228p10)
- - [DJI’s drone-in-a-box can now launch from moving vehicles](https://www.theverge.com/news/620566/dji-dock-3-matrice-4d-4td-drone-autonomous-launch)
- - [Best iPad Accessories &lpar;2025&rpar;, Tested and Reviewed](https://www.wired.com/gallery/best-ipad-accessories/)<!-- TECH:END -->
+ - [ESR is ready with the best iPhone 16e case &amp; screen protector options](https://appleinsider.com/articles/25/02/28/esr-is-ready-with-the-best-iphone-16e-case-screen-protector-options?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

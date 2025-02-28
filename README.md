@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The UK will neither confirm nor deny that it’s killing encryption](https://www.theverge.com/policy/621848/uk-killing-encryption-e2e-apple-adp-privacy)
+ - [Mimic, which offers a platform to detect, deflect, and facilitate recovery from ransomware attacks, raised a $50M Series A, bringing its total funding to $77M &lpar;Duncan Riley/SiliconANGLE&rpar;](http://www.techmeme.com/250228/p19#a250228p19)
  - [The armless PP-1 turntable is made from a solid block of aluminum](https://www.theverge.com/news/621863/waiting-for-ideas-pp-1-turntable-solid-aluminum-vinyl-record)
  - [Sources: Defense Secretary Pete Hegseth ordered the US Cyber Command to stand down from all planning against Russia, including offensive digital actions &lpar;Martin Matishak/The Record&rpar;](http://www.techmeme.com/250228/p18#a250228p18)
- - [Deals: Save up to $830 on Apple&#39;s new iPhone 16e](https://appleinsider.com/articles/25/02/28/deals-save-up-to-830-on-apples-new-iphone-16e?utm_medium=rss)
- - [Source: Amazon plans to expand Haul, the ultracheap Temu-like shopping site it launched in the US in November, to countries in Europe starting this year &lpar;Theo Wayt/The Information&rpar;](http://www.techmeme.com/250228/p17#a250228p17)
- - [The World of Warframe Gets Weirder Than Ever With a Living Guitar](https://www.cnet.com/tech/gaming/the-world-of-warframe-gets-weirder-than-ever-with-a-living-guitar/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Deals: Save up to $830 on Apple&#39;s new iPhone 16e](https://appleinsider.com/articles/25/02/28/deals-save-up-to-830-on-apples-new-iphone-16e?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

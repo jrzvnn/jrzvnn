@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [I was kinda expecting it](http://9gag.com/gag/aW479wq)
- - 😝 [Rock, Paper, Scissor](http://9gag.com/gag/aZZ12W6)
- - 💣 [Hard to tease us](http://9gag.com/gag/aO8eGqE)
+ - 😝 [Save it and never use it again](http://9gag.com/gag/ae91d2O)
+ - 😝 [A few minutes ago, the Epstein Files were released](http://9gag.com/gag/aGynoOG)
+ - 💣 [Gone too soon\u2026](http://9gag.com/gag/aND9qG6)
  - 😝 [Ready your mecha and team up for epic battles in Mecha BREAK\ud83d\udca5.](http://9gag.com/gag/aE06E8n)
- - 👉 [Mlue.](http://9gag.com/gag/aLnzmyM)<!-- MEMES:END -->
+ - 👉 [An oil rig being deployed offshore and some still don&#39;t believe we made the pyramids](http://9gag.com/gag/an7RdAn)<!-- MEMES:END -->
 
 ---
 

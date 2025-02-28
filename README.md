@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [France just smashed China&#39;s record in nuclear fusion by recreating a miniature Sun on Earth for 22 minutes which reached over 150 MILLION degrees Celsius](http://9gag.com/gag/ary3z1y)
  - 😝 [I was kinda expecting it](http://9gag.com/gag/aW479wq)
- - 😝 [RIP Michelle Trachtenberg - Post your best gifs of her here](http://9gag.com/gag/a2vwL0p)
- - 💣 [Chief know what he is really need](http://9gag.com/gag/a876XGp)
+ - 💣 [Hard to tease us](http://9gag.com/gag/aO8eGqE)
  - 😝 [No remorse](http://9gag.com/gag/aLnzrLV)
- - 👉 [9gagger spotted in the audience &lpar;`Henry, you&#39;ll be forever Superman`&rpar;](http://9gag.com/gag/aYQEd0V)<!-- MEMES:END -->
+ - 👉 [When I name folders...](http://9gag.com/gag/aoy3YQ2)<!-- MEMES:END -->
 
 ---
 

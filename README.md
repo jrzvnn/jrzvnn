@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [France just smashed China&#39;s record in nuclear fusion by recreating a miniature Sun on Earth for 22 minutes which reached over 150 MILLION degrees Celsius](http://9gag.com/gag/ary3z1y)
- - 😝 [You can&#39;t unsee it](http://9gag.com/gag/a4P6WGy)
- - 💣 [Senses tingling](http://9gag.com/gag/apR3AYM)
+ - 😝 [Iterations](http://9gag.com/gag/a876zGe)
+ - 😝 [A few minutes ago, the Epstein Files were released](http://9gag.com/gag/aGynoOG)
+ - 💣 [Gone too soon\u2026](http://9gag.com/gag/aND9qG6)
  - 😝 [Ready your mecha and team up for epic battles in Mecha BREAK\ud83d\udca5.](http://9gag.com/gag/aE06E8n)
- - 👉 [Hmmmmm](http://9gag.com/gag/aBy64jO)<!-- MEMES:END -->
+ - 👉 [An oil rig being deployed offshore and some still don&#39;t believe we made the pyramids](http://9gag.com/gag/an7RdAn)<!-- MEMES:END -->
 
 ---
 

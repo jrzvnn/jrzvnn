@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Zapier says someone broke into its code repositories and may have accessed customer data](https://www.theverge.com/news/622026/zapier-data-breach-code-repositories)
+ - [A US court finds that Byju&#39;s and founder Byju Raveendran&#39;s brother violated a fiduciary duty to lenders by fraudulently hiding $533M from them &lpar;Steven Church/Bloomberg&rpar;](http://www.techmeme.com/250228/p22#a250228p22)
  - [Recent incidents indicate the US no longer characterizes Russia as a cyber threat; source: CISA analysts were told not to follow or report on Russian threats &lpar;Stephanie Kirchgaessner/The Guardian&rpar;](http://www.techmeme.com/250228/p21#a250228p21)
  - [DOGE&#39;s Misplaced War on Software Licenses](https://www.wired.com/story/doge-software-license-cancel-federal-budget/)
- - [The product lead for Sora, Rohan Sahai, says OpenAI plans to integrate Sora into ChatGPT, but it may not offer the same level of control as Sora&#39;s web app &lpar;Maxwell Zeff/TechCrunch&rpar;](http://www.techmeme.com/250228/p20#a250228p20)
- - [The Verge looks back on Skype](https://www.theverge.com/favorites/621864/skype-microsoft-goodbye)
- - [The UK will neither confirm nor deny that it’s killing encryption](https://www.theverge.com/policy/621848/uk-killing-encryption-e2e-apple-adp-privacy)<!-- TECH:END -->
+ - [The product lead for Sora, Rohan Sahai, says OpenAI plans to integrate Sora into ChatGPT, but it may not offer the same level of control as Sora&#39;s web app &lpar;Maxwell Zeff/TechCrunch&rpar;](http://www.techmeme.com/250228/p20#a250228p20)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

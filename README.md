@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Knowledge of the ancient texts](http://9gag.com/gag/aVvoBmy)
- - 😝 [Dear God yes!](http://9gag.com/gag/an7RV2E)
- - 💣 [Wham bam thank you ma&#39;am](http://9gag.com/gag/aYQEnP2)
- - 😝 [Real art](http://9gag.com/gag/aXPMGzv)
- - 👉 [Snow wight !](http://9gag.com/gag/amo1b3V)<!-- MEMES:END -->
+ - 😝 [Run away Matt! Run away!](http://9gag.com/gag/ayN3PLW)
+ - 😝 [Yo hole big?](http://9gag.com/gag/a876Ky1)
+ - 💣 [Hmmmmm](http://9gag.com/gag/aBy64jO)
+ - 😝 [Great Britain](http://9gag.com/gag/aXPMGYV)
+ - 👉 [Millions of pizzles yanked and millions of copies guaranteed](http://9gag.com/gag/a9y6V26)<!-- MEMES:END -->
 
 ---
 

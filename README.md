@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [No remorse](http://9gag.com/gag/aLnzrLV)
- - 😝 [The crocodile hauls itself onto land and lounges next to a leopard, completely ignoring the cat](http://9gag.com/gag/agm12bW)
- - 💣 [When the new Avatar meets Korra](http://9gag.com/gag/aRB42y7)
- - 😝 [Ready your mecha and team up for epic battles in Mecha BREAK\ud83d\udca5.](http://9gag.com/gag/aE06E8n)
- - 👉 [Knowledge of the ancient texts](http://9gag.com/gag/aVvoBmy)<!-- MEMES:END -->
+ - 😝 [Knowledge of the ancient texts](http://9gag.com/gag/aVvoBmy)
+ - 😝 [Japanese shoplifter](http://9gag.com/gag/aAy6ONp)
+ - 💣 [Hmmmmm](http://9gag.com/gag/aBy64jO)
+ - 😝 [The Queen](http://9gag.com/gag/ary3BYX)
+ - 👉 [No remorse](http://9gag.com/gag/aLnzrLV)<!-- MEMES:END -->
 
 ---
 

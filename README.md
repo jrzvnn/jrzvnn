@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [AMD unveils the $549 Radeon RX 9070 and $599 Radeon 9070 XT GPUs, featuring 16GB of GDDR6 memory, PCIe 5.0, and FSR 4 support, shipping March 6 &lpar;The Verge&rpar;](http://www.techmeme.com/250228/p9#a250228p9)
+ - [How Big Is a Coffee Cup? The Answer Isn&#39;t Obvious](https://www.wired.com/story/how-big-is-a-coffee-cup/)
  - [Meme coins aren&amp;#8217;t subject to securities regulations, says SEC](https://www.theverge.com/news/621454/sec-meme-coin-securities-collectibles-guidance)
  - [Official: AMD Radeon RX 9070 and 9070 XT start at $549, ship March 6th](https://www.theverge.com/news/621339/amd-radeon-9070-xt-price-release-date-gpu)
- - [Experts say stopping North Korean thefts will require higher security spending by crypto exchanges, more stringent rules, and better government cooperation &lpar;Bloomberg&rpar;](http://www.techmeme.com/250228/p8#a250228p8)
- - [8 Best Cheap Phones &lpar;2025&rpar;, Tested and Reviewed](https://www.wired.com/story/best-cheap-phones/)
- - [Can the Steam Deck Run Monster Hunter Wilds?](https://www.cnet.com/tech/gaming/can-the-steam-deck-run-monster-hunter-wilds/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Experts say stopping North Korean thefts will require higher security spending by crypto exchanges, more stringent rules, and better government cooperation &lpar;Bloomberg&rpar;](http://www.techmeme.com/250228/p8#a250228p8)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

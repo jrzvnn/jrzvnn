@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Chainalysis estimates $40B worth of illicit crypto transactions took place in 2024; criminals shifted from mostly using bitcoin in 2021 to using stablecoins now &lpar;Oliver Knight/CoinDesk&rpar;](http://www.techmeme.com/250228/p3#a250228p3)
  - [OpenAI says Sora is now available to ChatGPT Plus and Pro users in the EU, the UK, Switzerland, Norway, Liechtenstein, and Iceland &lpar;Dan Milmo/The Guardian&rpar;](http://www.techmeme.com/250228/p2#a250228p2)
+ - [Best Hotel Mattresses in 2025](https://www.cnet.com/health/sleep/best-hotel-mattresses/#ftag=CAD590a51e)
  - [Sundar Pichai says Waymo logs 200K+ weekly paid robotaxi rides, doubling in a year and 20x in two; Waymo says its self-driving system logs 1M+ miles per week &lpar;Kirsten Korosec/TechCrunch&rpar;](http://www.techmeme.com/250228/p1#a250228p1)
- - [Groupon Promo Codes: 25% Off March 2025](https://www.wired.com/story/groupon-promo-code/)
- - [Today&#39;s NYT Mini Crossword Answers for Friday, Feb. 28](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-friday-feb-28/#ftag=CAD590a51e)
- - [Cross-border payments company Flywire acquires Sertifi, which helps hotels streamline events contracting, group bookings, and related payments, for $330M &lpar;Justin Dawes/Skift&rpar;](http://www.techmeme.com/250227/p50#a250227p50)<!-- TECH:END -->
+ - [Groupon Promo Codes: 25% Off March 2025](https://www.wired.com/story/groupon-promo-code/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

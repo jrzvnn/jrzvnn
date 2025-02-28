@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Roblox: all the news about the popular social and gaming platform](https://www.theverge.com/23864790/roblox-news-announcements-updates)
- - [Memo: Sergey Brin says Google could reach AGI if employees worked harder and were in the office more, saying &quot;60 hours a week is the sweet spot of productivity&quot; &lpar;Nico Grant/New York Times&rpar;](http://www.techmeme.com/250228/p16#a250228p16)
- - [Trump’s first 100 days: all the news affecting the tech industry](https://www.theverge.com/24348851/donald-trump-presidency-tech-science-news)
- - [DOGE wants to lay off the ‘vast majority’ of CFPB workers, employees say](https://www.theverge.com/news/621757/cfpb-doge-worker-layoffs-sworn-declaration)
- - [Steam’s Next Fest is full of weird-ass, cool-ass games](https://www.theverge.com/games/621738/steam-next-fest-demo-reviews-indie-games)<!-- TECH:END -->
+ - [Tesla Superchargers coming to dozens of Steak ‘n Shake locations](https://www.theverge.com/news/621810/tesla-supercharger-steak-n-shake-partnership)
+ - [All the news about EV charging in the US](https://www.theverge.com/23758095/electric-vehicle-charging-news-nacs-ccs-tesla-supercharger-us-infrastructure)
+ - [The Verge hires Tina Nguyen as senior reporter to cover the Trump administration](https://www.theverge.com/press-room/621557/tina-nguyen-joins-verge)
+ - [Cold Wallet’s director wanted to make a revenge thriller for the crypto era](https://www.theverge.com/interview/621564/cold-wallet-interview-cutter-hodierne)
+ - [Roblox: all the news about the popular social and gaming platform](https://www.theverge.com/23864790/roblox-news-announcements-updates)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

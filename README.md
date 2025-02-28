@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [New price drop: Apple AirTag 4-pack falls to $64.49](https://appleinsider.com/articles/25/02/25/apple-airtag-4-pack-falls-to-6799-lowest-price-of-2025?utm_medium=rss)
  - [The best Nintendo Switch controllers to buy right now](https://www.theverge.com/23350899/nintendo-switch-controllers-best-wireless-joy-con-gamepad)
  - [The best indie games we’re playing right now](https://www.theverge.com/24339574/indie-games-recommendations-pc-switch-steam-deck-best-new-hidden-gems)
  - [Best Portable Projector for 2025](https://www.cnet.com/tech/home-entertainment/best-portable-projector/#ftag=CAD590a51e)
- - [Sources: General Catalyst is in the very early stages of considering an IPO, which would make it first US VC firm to go public &lpar;Dan Primack/Axios&rpar;](http://www.techmeme.com/250228/p14#a250228p14)
- - [OnePlus Watch 3 Review: The Best Battery Life of Any Android Smartwatch](https://www.cnet.com/tech/mobile/oneplus-watch-3-review-the-best-battery-life-of-any-android-smartwatch/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Sources: General Catalyst is in the very early stages of considering an IPO, which would make it first US VC firm to go public &lpar;Dan Primack/Axios&rpar;](http://www.techmeme.com/250228/p14#a250228p14)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

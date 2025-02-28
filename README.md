@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Apple Watch tech gives NHL refs an edge with real-time alerts](https://appleinsider.com/articles/25/02/28/apple-watch-tech-gives-nhl-refs-an-edge-with-real-time-alerts?utm_medium=rss)
+ - [Apple faces fresh legal attack over its carbon neutral Apple Watch claim [u]](https://appleinsider.com/articles/25/02/27/apple-faces-fresh-legal-attack-over-its-carbon-neutral-apple-watch-claim?utm_medium=rss)
+ - [Microsoft blew $8.5 billion on Skype only to spend 14 years killing it](https://appleinsider.com/articles/25/02/28/microsoft-blew-85-billion-on-skype-only-to-spend-14-years-killing-it?utm_medium=rss)
  - [Stream the Oscars: Watch the 2025 Academy Awards Without Cable](https://www.cnet.com/tech/services-and-software/stream-the-oscars-watch-the-2025-academy-awards-without-cable/#ftag=CAD590a51e)
- - [One Side of Microplastics, Please. Foods With Plastic Inside and Swaps to Make](https://www.cnet.com/health/nutrition/one-side-of-microplastics-please-foods-with-plastic-inside-and-swaps-to-make/#ftag=CAD590a51e)
- - [Keep Your Heart Healthy With Omega-3s. Here&#39;s How to Add Them to Your Diet](https://www.cnet.com/health/nutrition/keep-your-heart-healthy-with-omega-3s-heres-how-to-add-them-to-your-diet/#ftag=CAD590a51e)
- - [6 Vitamins and Minerals to Unlock Healthy Aging, According to Experts](https://www.cnet.com/health/nutrition/6-vitamins-and-minerals-that-unlock-healthy-aging-according-to-experts/#ftag=CAD590a51e)
- - [Google’s Taara Hopes to Usher in a New Era of Internet Powered by Light](https://www.wired.com/story/plaintext-google-taara-chip-internet-by-light/)<!-- TECH:END -->
+ - [One Side of Microplastics, Please. Foods With Plastic Inside and Swaps to Make](https://www.cnet.com/health/nutrition/one-side-of-microplastics-please-foods-with-plastic-inside-and-swaps-to-make/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

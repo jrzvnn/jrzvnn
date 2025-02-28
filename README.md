@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Knowledge of the ancient texts](http://9gag.com/gag/aVvoBmy)
- - 😝 [Wham bam thank you ma&#39;am](http://9gag.com/gag/aYQEnP2)
- - 💣 [Just became a father to the most beautiful baby girl. Hospital didn\u2019t let me spend the night with her and my wife so now I\u2019m home and can\u2019t sleep. Wish my luck on this Wednesdsy my dudes](http://9gag.com/gag/a4P6w9Z)
- - 😝 [Real art](http://9gag.com/gag/aXPMGzv)
- - 👉 [Snow wight !](http://9gag.com/gag/amo1b3V)<!-- MEMES:END -->
+ - 😝 [Nature is cruel](http://9gag.com/gag/aKGAnN1)
+ - 😝 [Just became a father to the most beautiful baby girl. Hospital didn\u2019t let me spend the night with her and my wife so now I\u2019m home and can\u2019t sleep. Wish my luck on this Wednesdsy my dudes](http://9gag.com/gag/a4P6w9Z)
+ - 💣 [Real art](http://9gag.com/gag/aXPMGzv)
+ - 😝 [Snow wight !](http://9gag.com/gag/amo1b3V)
+ - 👉 [Babe you can&#39;t marry my mother.](http://9gag.com/gag/aAy6q79)<!-- MEMES:END -->
 
 ---
 

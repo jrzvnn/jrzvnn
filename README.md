@@ -167,10 +167,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [France just smashed China&#39;s record in nuclear fusion by recreating a miniature Sun on Earth for 22 minutes which reached over 150 MILLION degrees Celsius](http://9gag.com/gag/ary3z1y)
- - 😝 [I was kinda expecting it](http://9gag.com/gag/aW479wq)
- - 💣 [Hard to tease us](http://9gag.com/gag/aO8eGqE)
- - 😝 [No remorse](http://9gag.com/gag/aLnzrLV)
- - 👉 [When I name folders...](http://9gag.com/gag/aoy3YQ2)<!-- MEMES:END -->
+ - 😝 [Hmmmmm](http://9gag.com/gag/aBy64jO)
+ - 💣 [Knowledge of the ancient texts](http://9gag.com/gag/aVvoBmy)
+ - 😝 [9gagger spotted in the audience &lpar;`Henry, you&#39;ll be forever Superman`&rpar;](http://9gag.com/gag/aYQEd0V)
+ - 👉 [No remorse](http://9gag.com/gag/aLnzrLV)<!-- MEMES:END -->
 
 ---
 

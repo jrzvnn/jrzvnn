@@ -167,9 +167,9 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [Gone too soon\u2026](http://9gag.com/gag/aND9qG6)
- - 😝 [Hard to tease us](http://9gag.com/gag/aO8eGqE)
+ - 😝 [Knowledge of the ancient texts](http://9gag.com/gag/aVvoBmy)
  - 💣 [The exact beginning of a new colony](http://9gag.com/gag/aoy3Awg)
- - 😝 [France just smashed China&#39;s record in nuclear fusion by recreating a miniature Sun on Earth for 22 minutes which reached over 150 MILLION degrees Celsius](http://9gag.com/gag/ary3z1y)
+ - 😝 [How powerful is Galadriel in comparison to Gandalf?](http://9gag.com/gag/a2vwGNE)
  - 👉 [Where were you when this happened](http://9gag.com/gag/aAy6mvZ)<!-- MEMES:END -->
 
 ---

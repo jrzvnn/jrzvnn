@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The SEC Is Abandoning Its Biggest Crypto Lawsuits](https://www.wired.com/story/sec-is-giving-up-biggest-crypto-lawsuits/)
  - [What&#39;s the Best iPhone to Buy or Avoid Right Now? &lpar;2025&rpar;](https://www.wired.com/gallery/iphone-buying-guide/)
  - [Airbnb co-founder Joe Gebbia now works for DOGE](https://www.theverge.com/news/621419/airbnb-joe-gebbia-joins-doge-retirement-digital-overhaul)
- - [Consensys founder Joseph Lubin says the SEC has agreed &quot;in principle&quot; to end its securities enforcement case against Consensys&#39; MetaMask, filed in June 2024 &lpar;Cheyenne Ligon/CoinDesk&rpar;](http://www.techmeme.com/250228/p5#a250228p5)
- - [Apple customers start receiving the iPhone 16e](https://appleinsider.com/articles/25/02/28/apple-customers-start-receiving-the-iphone-16e?utm_medium=rss)
- - [EA open sources four more Command &amp;#038; Conquer games](https://www.theverge.com/news/621397/command-conquer-open-source-ea-red-alert-renegade-generals)<!-- TECH:END -->
+ - [Best Internet Providers in Zanesville, Ohio](https://www.cnet.com/home/internet/best-internet-providers-in-zanesville-oh/#ftag=CAD590a51e)
+ - [Consensys founder Joseph Lubin says the SEC has agreed &quot;in principle&quot; to end its securities enforcement case against Consensys&#39; MetaMask, filed in June 2024 &lpar;Cheyenne Ligon/CoinDesk&rpar;](http://www.techmeme.com/250228/p5#a250228p5)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

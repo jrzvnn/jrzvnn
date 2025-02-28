@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The product lead for Sora, Rohan Sahai, says OpenAI plans to integrate Sora into ChatGPT, but it may not offer the same level of control as Sora&#39;s web app &lpar;Maxwell Zeff/TechCrunch&rpar;](http://www.techmeme.com/250228/p20#a250228p20)
  - [The Verge looks back on Skype](https://www.theverge.com/favorites/621864/skype-microsoft-goodbye)
  - [The UK will neither confirm nor deny that it’s killing encryption](https://www.theverge.com/policy/621848/uk-killing-encryption-e2e-apple-adp-privacy)
  - [Mimic, which offers a platform to detect, deflect, and facilitate recovery from ransomware attacks, raised a $50M Series A, bringing its total funding to $77M &lpar;Duncan Riley/SiliconANGLE&rpar;](http://www.techmeme.com/250228/p19#a250228p19)
- - [The armless PP-1 turntable is made from a solid block of aluminum](https://www.theverge.com/news/621863/waiting-for-ideas-pp-1-turntable-solid-aluminum-vinyl-record)
- - [Sources: Defense Secretary Pete Hegseth ordered the US Cyber Command to stand down from all planning against Russia, including offensive digital actions &lpar;Martin Matishak/The Record&rpar;](http://www.techmeme.com/250228/p18#a250228p18)<!-- TECH:END -->
+ - [Best Internet Providers in Maine](https://www.cnet.com/home/internet/best-internet-providers-in-maine/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

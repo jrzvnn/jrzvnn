@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Intel delays the opening of its first Ohio chip factory to 2030 due to financial struggles; the $28B project was originally scheduled to begin operating in 2025 &lpar;Max Filby/The Columbus Dispatch&rpar;](http://www.techmeme.com/250228/p12#a250228p12)
- - [Apple accused of misleading consumers with Apple Watch ‘carbon neutral’ claims](https://www.theverge.com/news/621537/apple-watch-carbon-neutral-lawsuit)
- - [Apple Watch tech gives NHL refs an edge with real-time alerts](https://appleinsider.com/articles/25/02/28/apple-watch-tech-gives-nhl-refs-an-edge-with-real-time-alerts?utm_medium=rss)
- - [Apple faces fresh legal attack over its carbon neutral Apple Watch claim [u]](https://appleinsider.com/articles/25/02/27/apple-faces-fresh-legal-attack-over-its-carbon-neutral-apple-watch-claim?utm_medium=rss)
- - [Microsoft blew $8.5 billion on Skype only to spend 14 years killing it](https://appleinsider.com/articles/25/02/28/microsoft-blew-85-billion-on-skype-only-to-spend-14-years-killing-it?utm_medium=rss)<!-- TECH:END -->
+ - [Intel pushes Ohio chip factory opening to 2030](https://www.theverge.com/news/621650/intel-ohio-chip-factory-delayed-2030)
+ - [MWC 2025: all the phones, gadgets, and commentary from Barcelona](https://www.theverge.com/news/616633/mwc-2025-news-products-announcements)
+ - [What to expect at MWC 2025](https://www.theverge.com/mobile/618300/what-to-expect-mwc-2025-xiaomi-samsung-hmd-honor-nothing)
+ - [All of the announcements from Amazon&amp;#8217;s Alexa Plus event](https://www.theverge.com/news/618262/amazon-alexa-event-2025-ai-echo-products-news)
+ - [All the smart home news, reviews, and gadgets you need to know about](https://www.theverge.com/24190824/smart-home-news-reviews-guides-gadgets)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

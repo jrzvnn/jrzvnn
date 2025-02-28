@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [When asked about UK&#39;s order for an iCloud backdoor, Trump says he told PM Keir Starmer that UK &quot;can&#39;t do this&quot; and it is something &quot;you hear about with China&quot; &lpar;Chance Miller/9to5Mac&rpar;](http://www.techmeme.com/250228/p13#a250228p13)
- - [Trump’s first 100 days: all the news affecting the tech industry](https://www.theverge.com/24348851/donald-trump-presidency-tech-science-news)
- - [MWC 2025: all the phones, gadgets, and commentary from Barcelona](https://www.theverge.com/news/616633/mwc-2025-news-products-announcements)
- - [Intel pushes Ohio chip factory opening to 2030](https://www.theverge.com/news/621650/intel-ohio-chip-factory-delayed-2030)
- - [What to expect at MWC 2025](https://www.theverge.com/mobile/618300/what-to-expect-mwc-2025-xiaomi-samsung-hmd-honor-nothing)<!-- TECH:END -->
+ - [The best indie games we’re playing right now](https://www.theverge.com/24339574/indie-games-recommendations-pc-switch-steam-deck-best-new-hidden-gems)
+ - [Best Portable Projector for 2025](https://www.cnet.com/tech/home-entertainment/best-portable-projector/#ftag=CAD590a51e)
+ - [Sources: General Catalyst is in the very early stages of considering an IPO, which would make it first US VC firm to go public &lpar;Dan Primack/Axios&rpar;](http://www.techmeme.com/250228/p14#a250228p14)
+ - [OnePlus Watch 3 Review: The Best Battery Life of Any Android Smartwatch](https://www.cnet.com/tech/mobile/oneplus-watch-3-review-the-best-battery-life-of-any-android-smartwatch/#ftag=CAD590a51e)
+ - [When asked about UK&#39;s order for an iCloud backdoor, Trump says he told PM Keir Starmer that UK &quot;can&#39;t do this&quot; and it is something &quot;you hear about with China&quot; &lpar;Chance Miller/9to5Mac&rpar;](http://www.techmeme.com/250228/p13#a250228p13)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

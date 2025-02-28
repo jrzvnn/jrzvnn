@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [The exact beginning of a new colony](http://9gag.com/gag/aoy3Awg)
- - 😝 [Millions of pizzles yanked and millions of copies guaranteed](http://9gag.com/gag/a9y6V26)
- - 💣 [Hmmmmm](http://9gag.com/gag/aBy64jO)
- - 😝 [Knowledge of the ancient texts](http://9gag.com/gag/aVvoBmy)
- - 👉 [Where were you when this happened](http://9gag.com/gag/aAy6mvZ)<!-- MEMES:END -->
+ - 😝 [Run away Matt! Run away!](http://9gag.com/gag/ayN3PLW)
+ - 😝 [How powerful is Galadriel in comparison to Gandalf?](http://9gag.com/gag/a2vwGNE)
+ - 💣 [Millions of pizzles yanked and millions of copies guaranteed](http://9gag.com/gag/a9y6V26)
+ - 😝 [Where were you when this happened](http://9gag.com/gag/aAy6mvZ)
+ - 👉 [Knowledge of the ancient texts](http://9gag.com/gag/aVvoBmy)<!-- MEMES:END -->
 
 ---
 

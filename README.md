@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Kia’s next EV is the affordable, long-range EV4 sedan](https://www.theverge.com/news/621276/kia-ev4-sedan-hatchback-ev2-concept-ev-day)
+ - [IBM says it has completed its $6.4B HashiCorp acquisition, confirming that the US FTC quietly cleared the deal just before the UK CMA&#39;s approval on February 25 &lpar;Paul Sawers/TechCrunch&rpar;](http://www.techmeme.com/250227/p44#a250227p44)
+ - [Stories We Can’t Stop Thinking About: Deepfakes, the Tesla Backlash, and All Things Chips](https://www.wired.com/story/uncanny-valley-podcast-16-deepfakes-tesla-backlash-chips/)
  - [The SEC files to dismiss its 2023 lawsuit against Coinbase that accused the exchange of flouting SEC rules and facilitating trading in unregistered securities &lpar;Hannah Lang/Reuters&rpar;](http://www.techmeme.com/250227/p43#a250227p43)
- - [The SEC says that most memecoins are not securities, are akin to collectibles, and memecoin purchasers and holders are not protected by federal securities laws &lpar;Tanaya Macheel/CNBC&rpar;](http://www.techmeme.com/250227/p42#a250227p42)
- - [Meta’s AI chatbot will soon have a standalone app](https://www.theverge.com/news/621252/meta-ai-chatbot-standalone-app)
- - [Framework&#39;s Laptop 12 Could Inject New Life Into Budget Portable PCs](https://www.wired.com/story/framework-laptop-12/)
- - [TikTok is preparing to shut down Creator Marketplace, which connects brands with creators, and replacing it with TikTok One, which includes AI tools, on April 1 &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/250227/p41#a250227p41)<!-- TECH:END -->
+ - [The SEC says that most memecoins are not securities, are akin to collectibles, and memecoin purchasers and holders are not protected by federal securities laws &lpar;Tanaya Macheel/CNBC&rpar;](http://www.techmeme.com/250227/p42#a250227p42)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

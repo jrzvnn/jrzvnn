@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [DOGE&#39;s Misplaced War on Software Licenses](https://www.wired.com/story/doge-software-license-cancel-federal-budget/)
  - [The product lead for Sora, Rohan Sahai, says OpenAI plans to integrate Sora into ChatGPT, but it may not offer the same level of control as Sora&#39;s web app &lpar;Maxwell Zeff/TechCrunch&rpar;](http://www.techmeme.com/250228/p20#a250228p20)
  - [The Verge looks back on Skype](https://www.theverge.com/favorites/621864/skype-microsoft-goodbye)
  - [The UK will neither confirm nor deny that it’s killing encryption](https://www.theverge.com/policy/621848/uk-killing-encryption-e2e-apple-adp-privacy)
- - [Mimic, which offers a platform to detect, deflect, and facilitate recovery from ransomware attacks, raised a $50M Series A, bringing its total funding to $77M &lpar;Duncan Riley/SiliconANGLE&rpar;](http://www.techmeme.com/250228/p19#a250228p19)
- - [Best Internet Providers in Maine](https://www.cnet.com/home/internet/best-internet-providers-in-maine/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Mimic, which offers a platform to detect, deflect, and facilitate recovery from ransomware attacks, raised a $50M Series A, bringing its total funding to $77M &lpar;Duncan Riley/SiliconANGLE&rpar;](http://www.techmeme.com/250228/p19#a250228p19)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

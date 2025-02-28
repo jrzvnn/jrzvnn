@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The SEC Is Abandoning Its Biggest Crypto Lawsuits](https://www.wired.com/story/sec-is-giving-up-biggest-crypto-lawsuits/)
- - [What&#39;s the Best iPhone to Buy or Avoid Right Now? &lpar;2025&rpar;](https://www.wired.com/gallery/iphone-buying-guide/)
- - [Airbnb co-founder Joe Gebbia now works for DOGE](https://www.theverge.com/news/621419/airbnb-joe-gebbia-joins-doge-retirement-digital-overhaul)
- - [Best Internet Providers in Zanesville, Ohio](https://www.cnet.com/home/internet/best-internet-providers-in-zanesville-oh/#ftag=CAD590a51e)
- - [Consensys founder Joseph Lubin says the SEC has agreed &quot;in principle&quot; to end its securities enforcement case against Consensys&#39; MetaMask, filed in June 2024 &lpar;Cheyenne Ligon/CoinDesk&rpar;](http://www.techmeme.com/250228/p5#a250228p5)<!-- TECH:END -->
+ - [Apple customers start receiving the iPhone 16e](https://appleinsider.com/articles/25/02/28/apple-customers-start-receiving-the-iphone-16e?utm_medium=rss)
+ - [Reports of Meta launching standalone Meta AI and Reels apps aren&#39;t surprising, as the company has a history of repeatedly bundling and unbundling its products &lpar;M.G. Siegler/Spyglass&rpar;](http://www.techmeme.com/250228/p7#a250228p7)
+ - [Use Apple Invites to Organize Your Next Event](https://www.wired.com/story/how-to-use-apple-invites/)
+ - [Inside Apple Shortcuts - the best feature that can revolutionize how you work](https://appleinsider.com/inside/ios/tips/inside-apple-shortcuts---the-best-feature-that-can-revolutionize-how-you-work?utm_medium=rss)
+ - [Thailand says TikTok plans to spend $8.8B to build AI data centers across the country over the next five years, more than doubling its earlier target &lpar;Pathom Sangwongwanich/Bloomberg&rpar;](http://www.techmeme.com/250228/p6#a250228p6)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

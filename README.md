@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Intel delays the opening of its first Ohio chip factory to 2030 due to financial struggles; the $28B project was originally scheduled to begin operating in 2025 &lpar;Max Filby/The Columbus Dispatch&rpar;](http://www.techmeme.com/250228/p12#a250228p12)
+ - [Apple accused of misleading consumers with Apple Watch ‘carbon neutral’ claims](https://www.theverge.com/news/621537/apple-watch-carbon-neutral-lawsuit)
  - [Apple Watch tech gives NHL refs an edge with real-time alerts](https://appleinsider.com/articles/25/02/28/apple-watch-tech-gives-nhl-refs-an-edge-with-real-time-alerts?utm_medium=rss)
  - [Apple faces fresh legal attack over its carbon neutral Apple Watch claim [u]](https://appleinsider.com/articles/25/02/27/apple-faces-fresh-legal-attack-over-its-carbon-neutral-apple-watch-claim?utm_medium=rss)
- - [Microsoft blew $8.5 billion on Skype only to spend 14 years killing it](https://appleinsider.com/articles/25/02/28/microsoft-blew-85-billion-on-skype-only-to-spend-14-years-killing-it?utm_medium=rss)
- - [Stream the Oscars: Watch the 2025 Academy Awards Without Cable](https://www.cnet.com/tech/services-and-software/stream-the-oscars-watch-the-2025-academy-awards-without-cable/#ftag=CAD590a51e)
- - [One Side of Microplastics, Please. Foods With Plastic Inside and Swaps to Make](https://www.cnet.com/health/nutrition/one-side-of-microplastics-please-foods-with-plastic-inside-and-swaps-to-make/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Microsoft blew $8.5 billion on Skype only to spend 14 years killing it](https://appleinsider.com/articles/25/02/28/microsoft-blew-85-billion-on-skype-only-to-spend-14-years-killing-it?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

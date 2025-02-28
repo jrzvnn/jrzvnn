@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Iterations](http://9gag.com/gag/a876zGe)
- - 😝 [A few minutes ago, the Epstein Files were released](http://9gag.com/gag/aGynoOG)
- - 💣 [Gone too soon\u2026](http://9gag.com/gag/aND9qG6)
+ - 😝 [Share the secret](http://9gag.com/gag/aoy3Lr0)
+ - 😝 [Run away Matt! Run away!](http://9gag.com/gag/ayN3PLW)
+ - 💣 [Rock, Paper, Scissor](http://9gag.com/gag/aZZ12W6)
  - 😝 [Ready your mecha and team up for epic battles in Mecha BREAK\ud83d\udca5.](http://9gag.com/gag/aE06E8n)
- - 👉 [An oil rig being deployed offshore and some still don&#39;t believe we made the pyramids](http://9gag.com/gag/an7RdAn)<!-- MEMES:END -->
+ - 👉 [Japanese shoplifter](http://9gag.com/gag/aAy6ONp)<!-- MEMES:END -->
 
 ---
 

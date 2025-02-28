@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Mozilla responds to backlash over Firefox&#39;s new Terms of Use, which critics have called out for being overly broad, and says it won&#39;t use people&#39;s data for AI &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/250228/p15#a250228p15)
- - [Trump’s first 100 days: all the news affecting the tech industry](https://www.theverge.com/24348851/donald-trump-presidency-tech-science-news)
- - [New price drop: Apple AirTag 4-pack falls to $64.49](https://appleinsider.com/articles/25/02/25/apple-airtag-4-pack-falls-to-6799-lowest-price-of-2025?utm_medium=rss)
- - [The best Nintendo Switch controllers to buy right now](https://www.theverge.com/23350899/nintendo-switch-controllers-best-wireless-joy-con-gamepad)
- - [The best indie games we’re playing right now](https://www.theverge.com/24339574/indie-games-recommendations-pc-switch-steam-deck-best-new-hidden-gems)<!-- TECH:END -->
+ - [Apple&#39;s iPhone Fold is creeping closer - what the rumor mill says is coming](https://appleinsider.com/articles/25/02/28/apples-iphone-fold-is-creeping-closer---what-the-rumor-mill-says-is-coming?utm_medium=rss)
+ - [EVgo says no to fast-charging extension cables and breakaway adapters](https://www.theverge.com/news/621762/evgo-prohibit-extension-cable-breakaway-adapter-ev-charging-station)
+ - [All the news about EV charging in the US](https://www.theverge.com/23758095/electric-vehicle-charging-news-nacs-ccs-tesla-supercharger-us-infrastructure)
+ - [Apple’s AirTags are on sale for their best price to date](https://www.theverge.com/good-deals/618895/apple-airtags-four-pack-samsung-galaxy-tab-s9-fe-deal-sale)
+ - [Mozilla responds to backlash over Firefox&#39;s new Terms of Use, which critics have called out for being overly broad, and says it won&#39;t use people&#39;s data for AI &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/250228/p15#a250228p15)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

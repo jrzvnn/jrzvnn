@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [When the new Avatar meets Korra](http://9gag.com/gag/aRB42y7)
- - 😝 [I was kinda expecting it](http://9gag.com/gag/aW479wq)
- - 💣 [Japanese shoplifter](http://9gag.com/gag/aAy6ONp)
+ - 😝 [Gone too soon\u2026](http://9gag.com/gag/aND9qG6)
+ - 😝 [An oil rig being deployed offshore and some still don&#39;t believe we made the pyramids](http://9gag.com/gag/an7RdAn)
+ - 💣 [`Better check, it&#39;s smelling a little toasty..`](http://9gag.com/gag/aLnzrxM)
  - 😝 [Ready your mecha and team up for epic battles in Mecha BREAK\ud83d\udca5.](http://9gag.com/gag/aE06E8n)
- - 👉 [The Queen](http://9gag.com/gag/ary3BYX)<!-- MEMES:END -->
+ - 👉 [Wham bam thank you ma&#39;am](http://9gag.com/gag/aYQEnP2)<!-- MEMES:END -->
 
 ---
 

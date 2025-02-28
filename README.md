@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Apple customers start receiving the iPhone 16e](https://appleinsider.com/articles/25/02/28/apple-customers-start-receiving-the-iphone-16e?utm_medium=rss)
  - [EA open sources four more Command &amp;#038; Conquer games](https://www.theverge.com/news/621397/command-conquer-open-source-ea-red-alert-renegade-generals)
- - [Amazon Restricted Vaginal Health Products for Being ‘Potentially Embarrassing’](https://www.wired.com/story/sexual-health-advertising-bias-ecommerce/)
- - [Aurzen Zip tri-fold projector review: mirror anything &lpar;without DRM&rpar;](https://www.theverge.com/reviews/621360/aurzen-zip-projector-review-tri-fold-specs-price)
- - [How the NYC subway used Google&#39;s experimental, AI-based TrackInspect tool to identify 92% of defect locations on subway tracks later found by human inspectors &lpar;Aarian Marshall/Wired&rpar;](http://www.techmeme.com/250228/p4#a250228p4)
- - [Chainalysis estimates $40B worth of illicit crypto transactions took place in 2024; criminals shifted from mostly using bitcoin in 2021 to using stablecoins now &lpar;Oliver Knight/CoinDesk&rpar;](http://www.techmeme.com/250228/p3#a250228p3)<!-- TECH:END -->
+ - [Today&#39;s NYT Connections: Sports Edition Hints and Answers for Feb. 28, #158](https://www.cnet.com/tech/gaming/todays-nyt-connections-sports-edition-hints-and-answers-for-feb-28-158/#ftag=CAD590a51e)
+ - [Today&#39;s NYT Strands Hints, Answers and Help for Feb. 28, #362](https://www.cnet.com/tech/gaming/todays-nyt-strands-hints-answers-and-help-for-feb-28-362/#ftag=CAD590a51e)
+ - [Today&#39;s NYT Connections Hints, Answers and Help for Feb. 28, #628](https://www.cnet.com/tech/gaming/todays-nyt-connections-hints-answers-and-help-for-feb-28-628/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

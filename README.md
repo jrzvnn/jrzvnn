@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [It&#39;s always like that](http://9gag.com/gag/aD26qe9)
- - 😝 [Forget hooters, get ready for](http://9gag.com/gag/aQzvDe7)
- - 💣 [Nature is cruel](http://9gag.com/gag/aKGAnN1)
- - 😝 [The bowel movement is still there!](http://9gag.com/gag/a9y64no)
- - 👉 [Your Rage is a gift](http://9gag.com/gag/awy3971)<!-- MEMES:END -->
+ - 😝 [A few minutes ago, the Epstein Files were released](http://9gag.com/gag/aGynoOG)
+ - 😝 [The Morning Glory Spillway that manages water level at the Monticello Dam &lpar;Lake Berryessa, California&rpar; is the world&#39;s largest drain.](http://9gag.com/gag/aAy6ZpL)
+ - 💣 [Maybe you&#39;re a sh tty cameraman](http://9gag.com/gag/aD26M2w)
+ - 😝 [Came to say thanks.](http://9gag.com/gag/adB1d9V)
+ - 👉 [The exact beginning of a new colony](http://9gag.com/gag/aoy3Awg)<!-- MEMES:END -->
 
 ---
 

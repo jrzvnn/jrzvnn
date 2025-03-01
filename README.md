@@ -166,9 +166,9 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [9gagger spotted in the audience &lpar;`Henry, you&#39;ll be forever Superman`&rpar;](http://9gag.com/gag/aYQEd0V)
- - 😝 [8% Vinegar introduced to Bacteria under a Microscope](http://9gag.com/gag/aAy6NN0)
- - 💣 [I have a question, for god... WHYYYY !?](http://9gag.com/gag/a0eXz4n)
+ - 😝 [Food delivery individual seems to not take into consideration doorbell cameras](http://9gag.com/gag/an7RVPn)
+ - 😝 [No illegal activities](http://9gag.com/gag/aqyXBpv)
+ - 💣 [Run away Matt! Run away!](http://9gag.com/gag/ayN3PLW)
  - 😝 [What it\u2019s like jumping from 20 m](http://9gag.com/gag/a0eXWAL)
  - 👉 [Parkour](http://9gag.com/gag/aGyn6r6)<!-- MEMES:END -->
 

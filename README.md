@@ -159,9 +159,9 @@ R                        1 repo              ░░░░░░░░░░░�
 <!-- TECH:START -->
  - [All the news about Nvidia’s RTX 50-series GPUs](https://www.theverge.com/2025/1/25/24351798/nvidia-rtx-5090-5080-5070-gpu-news-rumors)
  - [Sources: SoftBank plans to borrow $16B to invest in AI, and might borrow another $8B in early 2026, which could strain its already debt-heavy balance sheet &lpar;The Information&rpar;](http://www.techmeme.com/250301/p13#a250301p13)
- - [Trump’s first 100 days: all the news affecting the tech industry](https://www.theverge.com/24348851/donald-trump-presidency-tech-science-news)
- - [New email tells federal employees to list recent accomplishments weekly](https://www.theverge.com/news/622257/d)
- - [Amazon’s latest Fire TV Stick 4K Max is more than 30 percent off right now](https://www.theverge.com/good-deals/621025/amazon-fire-tv-stick-4k-max-aurzen-tri-fold-projector-deal-sale)<!-- TECH:END -->
+ - [La Liga Soccer Livestream: How to Watch Real Betis vs. Real Madrid From Anywhere](https://www.cnet.com/tech/services-and-software/la-liga-soccer-livestream-how-to-watch-real-betis-vs-real-madrid-from-anywhere/#ftag=CAD590a51e)
+ - [&#39;The White Lotus&#39; Season 3: When to Watch Episode 3 on Max](https://www.cnet.com/tech/services-and-software/the-white-lotus-season-3-when-to-watch-episode-3-on-max/#ftag=CAD590a51e)
+ - [Sleep Awareness Month Matters to Me. Here&#39;s Why You Should Care, Too](https://www.cnet.com/health/sleep/sleep-awareness-month-matters-to-me-heres-why-you-should-care-too/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Forget hooters, get ready for](http://9gag.com/gag/aQzvDe7)
- - 😝 [Nature is cruel](http://9gag.com/gag/aKGAnN1)
- - 💣 [It&#39;s always like that](http://9gag.com/gag/aD26qe9)
- - 😝 [The bowel movement is still there!](http://9gag.com/gag/a9y64no)
- - 👉 [Travelling diaries](http://9gag.com/gag/amo1bRj)<!-- MEMES:END -->
+ - 😝 [Food delivery individual seems to not take into consideration doorbell cameras](http://9gag.com/gag/an7RVPn)
+ - 😝 [A major investment conference in India descended into chaos due to poor food distribution, with fights breaking out among attendees due to overcrowding and food shortages](http://9gag.com/gag/a9y6Zvm)
+ - 💣 [If only\u2026](http://9gag.com/gag/aQzvNww)
+ - 😝 [Gone too soon\u2026](http://9gag.com/gag/aND9qG6)
+ - 👉 [What it\u2019s like jumping from 20 m](http://9gag.com/gag/a0eXWAL)<!-- MEMES:END -->
 
 ---
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Ikea registered a Matter-over-Thread temperature sensor with the FCC](https://www.theverge.com/news/622308/ikea-matter-thread-temperature-humidity-sensor-timmerflotte)
+ - [All the smart home news, reviews, and gadgets you need to know about](https://www.theverge.com/24190824/smart-home-news-reviews-guides-gadgets)
  - [Trump will speak at the first-ever White House Crypto Summit on March 7; it will be chaired by David Sacks and comes amid a global sell-off in cryptocurrencies &lpar;Axios&rpar;](http://www.techmeme.com/250301/p14#a250301p14)
  - [What can a 100-pixel video teach us about storytelling around the world?](https://www.theverge.com/art-club/621584/mumbai-modern-art-camp-cctv-video)
- - [All the news about Nvidia’s RTX 50-series GPUs](https://www.theverge.com/2025/1/25/24351798/nvidia-rtx-5090-5080-5070-gpu-news-rumors)
- - [Sources: SoftBank plans to borrow $16B to invest in AI, and might borrow another $8B in early 2026, which could strain its already debt-heavy balance sheet &lpar;The Information&rpar;](http://www.techmeme.com/250301/p13#a250301p13)
- - [La Liga Soccer Livestream: How to Watch Real Betis vs. Real Madrid From Anywhere](https://www.cnet.com/tech/services-and-software/la-liga-soccer-livestream-how-to-watch-real-betis-vs-real-madrid-from-anywhere/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [All the news about Nvidia’s RTX 50-series GPUs](https://www.theverge.com/2025/1/25/24351798/nvidia-rtx-5090-5080-5070-gpu-news-rumors)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

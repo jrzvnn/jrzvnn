@@ -167,8 +167,8 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [It&#39;s always like that](http://9gag.com/gag/aD26qe9)
- - 😝 [Forget hooters, get ready for](http://9gag.com/gag/aQzvDe7)
- - 💣 [Nature is cruel](http://9gag.com/gag/aKGAnN1)
+ - 😝 [Nature is cruel](http://9gag.com/gag/aKGAnN1)
+ - 💣 [Forget hooters, get ready for](http://9gag.com/gag/aQzvDe7)
  - 😝 [The bowel movement is still there!](http://9gag.com/gag/a9y64no)
  - 👉 [Travelling diaries](http://9gag.com/gag/amo1bRj)<!-- MEMES:END -->
 

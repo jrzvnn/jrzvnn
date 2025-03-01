@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [How powerful is Galadriel in comparison to Gandalf?](http://9gag.com/gag/a2vwGNE)
- - 😝 [Hmmmmm](http://9gag.com/gag/aBy64jO)
- - 💣 [Knowledge of the ancient texts](http://9gag.com/gag/aVvoBmy)
- - 😝 [No illegal activities](http://9gag.com/gag/aqyXBpv)
- - 👉 [9gagger spotted in the audience &lpar;`Henry, you&#39;ll be forever Superman`&rpar;](http://9gag.com/gag/aYQEd0V)<!-- MEMES:END -->
+ - 😝 [It&#39;s always like that](http://9gag.com/gag/aD26qe9)
+ - 😝 [Forget hooters, get ready for](http://9gag.com/gag/aQzvDe7)
+ - 💣 [Nature is cruel](http://9gag.com/gag/aKGAnN1)
+ - 😝 [The bowel movement is still there!](http://9gag.com/gag/a9y64no)
+ - 👉 [Your Rage is a gift](http://9gag.com/gag/awy3971)<!-- MEMES:END -->
 
 ---
 

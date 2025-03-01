@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Auditoria.AI, which develops AI agents to automate tasks and provide insights for enterprise finance teams, raised a $38M Series B led by Innovius Capital &lpar;PYMNTS.com&rpar;](http://www.techmeme.com/250301/p2#a250301p2)
- - [Teleperformance, the world&#39;s largest call center operator, rolls out AI tech by startup Sanas to soften English-speaking Indian workers&#39; accents in real time &lpar;Benoit Berthelot/Bloomberg&rpar;](http://www.techmeme.com/250301/p1#a250301p1)
- - [The Humane Ai Pin Has Already Been Brought Back to Life](https://www.wired.com/story/the-humane-ai-pin-has-already-been-brought-back-to-life/)
- - [China replaces tech minister Jin Zhuanglong, a key figure in its push to become a tech superpower, with Li Lecheng; sources: Jin faced a graft-related probe &lpar;Financial Times&rpar;](http://www.techmeme.com/250228/p30#a250228p30)
- - [Socure, a digital identity verification company, says bad actors are increasingly using social media selfies and generative AI to create more realistic fake ids &lpar;Julie Zhu/Bloomberg&rpar;](http://www.techmeme.com/250228/p29#a250228p29)<!-- TECH:END -->
+ - [H&amp;R Block Coupons and Deals: 20% Off Tax Prep in 2025](https://www.wired.com/story/hr-block-coupon/)
+ - [Dyson Promo Codes: 20% Off | March 2025](https://www.wired.com/story/dyson-cordless-vacuum-promo-code/)
+ - [Today&#39;s NYT Mini Crossword Answers for Saturday, March 1](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-saturday-march-1/#ftag=CAD590a51e)
+ - [Metronome, which offers APIs to help SaaS companies charge customers based on usage, raised a $50M Series C led by NEA, bringing its total funding to $128M &lpar;Allie Garfinkle/Fortune&rpar;](http://www.techmeme.com/250301/p3#a250301p3)
+ - [AirDoctor Coupon Code: Up to 25% Off Air Purifiers](https://www.wired.com/story/airdoctor-coupon-code/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

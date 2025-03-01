@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google’s co-founder tells AI staff to stop “building nanny products](https://www.theverge.com/command-line-newsletter/622045/google-ai-nanny-products)
- - [Zapier says someone broke into its code repositories and may have accessed customer data](https://www.theverge.com/news/622026/zapier-data-breach-code-repositories)
- - [A US court finds that Byju&#39;s and founder Byju Raveendran&#39;s brother violated a fiduciary duty to lenders by fraudulently hiding $533M from them &lpar;Steven Church/Bloomberg&rpar;](http://www.techmeme.com/250228/p22#a250228p22)
- - [Recent incidents indicate the US no longer characterizes Russia as a cyber threat; source: CISA analysts were told not to follow or report on Russian threats &lpar;Stephanie Kirchgaessner/The Guardian&rpar;](http://www.techmeme.com/250228/p21#a250228p21)
- - [DOGE&#39;s Misplaced War on Software Licenses](https://www.wired.com/story/doge-software-license-cancel-federal-budget/)<!-- TECH:END -->
+ - [Grubhub CEO Howard Migdal says the company is laying off about 500 employees, or ~23% of its workforce, following its takeover by Wonder in November 2024 &lpar;Natalie Lung/Bloomberg&rpar;](http://www.techmeme.com/250228/p24#a250228p24)
+ - [The best indie games we’re playing right now](https://www.theverge.com/24339574/indie-games-recommendations-pc-switch-steam-deck-best-new-hidden-gems)
+ - [Amnesty International says Google has fixed three zero-day vulnerabilities in Android, developed by Cellebrite and used by Serbia to unlock phones &lpar;Lorenzo Franceschi-Bicchierai/TechCrunch&rpar;](http://www.techmeme.com/250228/p23#a250228p23)
+ - [Mozilla is already revising its new Firefox terms to clarify how it handles user data](https://www.theverge.com/news/622080/mozilla-revising-firefox-terms-of-use-data)
+ - [Google’s co-founder tells AI staff to stop ‘building nanny products’](https://www.theverge.com/command-line-newsletter/622045/google-ai-nanny-products)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

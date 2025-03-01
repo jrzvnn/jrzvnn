@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [China mandates regulatory approvals for autonomous driving-related OTA software upgrades, aiming to prevent automakers from hiding defects or avoiding liability &lpar;Reuters&rpar;](http://www.techmeme.com/250301/p5#a250301p5)
  - [The US SEC dismissed or paused at least eight cases against crypto firms in the past month, as the agency sees immediate changes under Acting Chair Mark Uyeda &lpar;Emily Nicolle/Bloomberg&rpar;](http://www.techmeme.com/250301/p4#a250301p4)
  - [10% Off Dell Coupon Codes in March 2025](https://www.wired.com/story/dell-coupon-code/)
  - [H&amp;R Block Coupons and Deals: 20% Off Tax Prep in 2025](https://www.wired.com/story/hr-block-coupon/)
- - [Dyson Promo Codes: 20% Off | March 2025](https://www.wired.com/story/dyson-cordless-vacuum-promo-code/)
- - [Today&#39;s NYT Mini Crossword Answers for Saturday, March 1](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-saturday-march-1/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Dyson Promo Codes: 20% Off | March 2025](https://www.wired.com/story/dyson-cordless-vacuum-promo-code/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [A look at Vibecoding, a term popularized by AI researcher Andrej Karpathy for a trend where AI lets nontechnical hobbyists build bespoke apps for themselves &lpar;Kevin Roose/New York Times&rpar;](http://www.techmeme.com/250301/p8#a250301p8)
  - [US bitcoin ETFs saw ~$3.3B in net outflow in Feb., the biggest monthly exodus since they debuted; BTC fell ~17% in Feb., its worst monthly drop since June 2022 &lpar;Bloomberg&rpar;](http://www.techmeme.com/250301/p7#a250301p7)
  - [Pinterest says it is developing tools to label AI-generated or AI-altered content on its platform, amid an influx of AI slop from SEO spammers &lpar;Maggie Harrison/Futurism&rpar;](http://www.techmeme.com/250301/p6#a250301p6)
  - [China mandates regulatory approvals for autonomous driving-related OTA software upgrades, aiming to prevent automakers from hiding defects or avoiding liability &lpar;Reuters&rpar;](http://www.techmeme.com/250301/p5#a250301p5)
- - [The US SEC dismissed or paused at least eight cases against crypto firms in the past month, as the agency sees immediate changes under Acting Chair Mark Uyeda &lpar;Emily Nicolle/Bloomberg&rpar;](http://www.techmeme.com/250301/p4#a250301p4)
- - [10% Off Dell Coupon Codes in March 2025](https://www.wired.com/story/dell-coupon-code/)<!-- TECH:END -->
+ - [The US SEC dismissed or paused at least eight cases against crypto firms in the past month, as the agency sees immediate changes under Acting Chair Mark Uyeda &lpar;Emily Nicolle/Bloomberg&rpar;](http://www.techmeme.com/250301/p4#a250301p4)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

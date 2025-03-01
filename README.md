@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Knowledge of the ancient texts](http://9gag.com/gag/aVvoBmy)
- - 😝 [Where were you when this happened](http://9gag.com/gag/aAy6mvZ)
+ - 😝 [A major investment conference in India descended into chaos due to poor food distribution, with fights breaking out among attendees due to overcrowding and food shortages](http://9gag.com/gag/a9y6Zvm)
+ - 😝 [No big deal](http://9gag.com/gag/azxdDeK)
  - 💣 [Gone too soon\u2026](http://9gag.com/gag/aND9qG6)
  - 😝 [9gagger spotted in the audience &lpar;`Henry, you&#39;ll be forever Superman`&rpar;](http://9gag.com/gag/aYQEd0V)
- - 👉 [No illegal activities](http://9gag.com/gag/aqyXBpv)<!-- MEMES:END -->
+ - 👉 [Food delivery individual seems to not take into consideration doorbell cameras](http://9gag.com/gag/an7RVPn)<!-- MEMES:END -->
 
 ---
 

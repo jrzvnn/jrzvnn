@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [A major investment conference in India descended into chaos due to poor food distribution, with fights breaking out among attendees due to overcrowding and food shortages](http://9gag.com/gag/a9y6Zvm)
- - 😝 [Parkour](http://9gag.com/gag/aGyn6r6)
- - 💣 [Unfortunately, Shrek 5 was made during the most toxic era of cinema, so be prepared to see a lot of shit and be disappointed. I don&#39;t even need to watch it to know that the film&#39;s story is about Shrek being a conservative who needs to accept his LGBTQ+ and woke daughter.](http://9gag.com/gag/a876XjY)
- - 😝 [Drunk guy gropes woman and gets wrecked](http://9gag.com/gag/ae91ExO)
- - 👉 [A few minutes ago, the Epstein Files were released](http://9gag.com/gag/aGynoOG)<!-- MEMES:END -->
+ - 😝 [Food delivery individual seems to not take into consideration doorbell cameras](http://9gag.com/gag/an7RVPn)
+ - 😝 [8% Vinegar introduced to Bacteria under a Microscope](http://9gag.com/gag/aAy6NN0)
+ - 💣 [How powerful is Galadriel in comparison to Gandalf?](http://9gag.com/gag/a2vwGNE)
+ - 😝 [9gagger spotted in the audience &lpar;`Henry, you&#39;ll be forever Superman`&rpar;](http://9gag.com/gag/aYQEd0V)
+ - 👉 [No illegal activities](http://9gag.com/gag/aqyXBpv)<!-- MEMES:END -->
 
 ---
 

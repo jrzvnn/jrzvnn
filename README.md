@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [DeepSeek says its V3 and R1 models&#39; cost of inferencing relative to sales during a 24-hour-period on February 28 put &quot;theoretical&quot; profit margins at 545% &lpar;Saritha Rai/Bloomberg&rpar;](http://www.techmeme.com/250301/p11#a250301p11)
- - [14 Best Hoodies for Style, Comfort, and Warmth &lpar;2025&rpar;](https://www.wired.com/gallery/best-hoodies/)
- - [How to Watch the 2025 MotoGP Season Live From Anywhere](https://www.cnet.com/tech/services-and-software/how-to-watch-the-2025-motogp-season-live-from-anywhere/#ftag=CAD590a51e)
- - [How to find images in Google Photos](https://www.theverge.com/how-to/621623/photos-google-search-how-to)
- - [Go Read This: The Verge’s favorite reads from all over the web](https://www.theverge.com/24188803/best-tech-reads-articles-books)<!-- TECH:END -->
+ - [Amazon’s latest Fire TV Stick 4K Max is more than 30 percent off](https://www.theverge.com/good-deals/621025/amazon-fire-tv-stick-4k-max-aurzen-tri-fold-projector-deal-sale)
+ - [Trump’s first 100 days: all the news affecting the tech industry](https://www.theverge.com/24348851/donald-trump-presidency-tech-science-news)
+ - [11 Best Strollers for Almost Every Budget and Need &lpar;2025&rpar;](https://www.wired.com/gallery/best-stroller-for-kids/)
+ - [Sources: China is instructing its top AI leaders to avoid visiting the US over fears they could be detained as bargaining chips or divulge confidential info &lpar;Yoko Kubota/Wall Street Journal&rpar;](http://www.techmeme.com/250301/p12#a250301p12)
+ - [DeepSeek says its V3 and R1 models&#39; cost of inferencing relative to sales during a 24-hour-period on February 28 put &quot;theoretical&quot; profit margins at 545% &lpar;Saritha Rai/Bloomberg&rpar;](http://www.techmeme.com/250301/p11#a250301p11)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

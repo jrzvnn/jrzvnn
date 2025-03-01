@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [A look at Vibecoding, a term popularized by AI researcher Andrej Karpathy for a trend where AI lets nontechnical hobbyists build bespoke apps for themselves &lpar;Kevin Roose/New York Times&rpar;](http://www.techmeme.com/250301/p8#a250301p8)
- - [US bitcoin ETFs saw ~$3.3B in net outflow in Feb., the biggest monthly exodus since they debuted; BTC fell ~17% in Feb., its worst monthly drop since June 2022 &lpar;Bloomberg&rpar;](http://www.techmeme.com/250301/p7#a250301p7)
- - [Pinterest says it is developing tools to label AI-generated or AI-altered content on its platform, amid an influx of AI slop from SEO spammers &lpar;Maggie Harrison/Futurism&rpar;](http://www.techmeme.com/250301/p6#a250301p6)
- - [China mandates regulatory approvals for autonomous driving-related OTA software upgrades, aiming to prevent automakers from hiding defects or avoiding liability &lpar;Reuters&rpar;](http://www.techmeme.com/250301/p5#a250301p5)
- - [The US SEC dismissed or paused at least eight cases against crypto firms in the past month, as the agency sees immediate changes under Acting Chair Mark Uyeda &lpar;Emily Nicolle/Bloomberg&rpar;](http://www.techmeme.com/250301/p4#a250301p4)<!-- TECH:END -->
+ - [Don&#39;t Wait for iOS 18.4: You Need to Download iOS 18.3.1 Right Now](https://www.cnet.com/tech/services-and-software/dont-wait-for-ios-18-4-you-need-to-download-ios-18-3-1-right-now/#ftag=CAD590a51e)
+ - [Gear News of the Week: Skype Will Close for Good in May](https://www.wired.com/story/photoshop-finally-gets-a-proper-mobile-app/)
+ - [Mortgage Payments Are Just the Start. Here&#39;s What Homeownership Really Costs](https://www.cnet.com/personal-finance/mortgage-payments-are-just-the-start-heres-what-homeownership-really-costs/#ftag=CAD590a51e)
+ - [Today&#39;s NYT Strands Hints, Answers and Help for March 1, #363](https://www.cnet.com/tech/gaming/todays-nyt-strands-hints-answers-and-help-for-march-1-363/#ftag=CAD590a51e)
+ - [Today&#39;s NYT Connections: Sports Edition Hints and Answers for March 1, #159](https://www.cnet.com/tech/gaming/todays-nyt-connections-sports-edition-hints-and-answers-for-march-1-159/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

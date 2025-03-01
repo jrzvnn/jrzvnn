@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [W Zelensky](http://9gag.com/gag/agm1be1)
- - 😝 [Came to say thanks.](http://9gag.com/gag/adB1d9V)
- - 💣 [Gone too soon\u2026](http://9gag.com/gag/aND9qG6)
- - 😝 [Literally me. I really cannot believe I have said some of the things I have said lol](http://9gag.com/gag/aVvo1ry)
- - 👉 [The exact beginning of a new colony](http://9gag.com/gag/aoy3Awg)<!-- MEMES:END -->
+ - 😝 [Travelling diaries](http://9gag.com/gag/amo1bRj)
+ - 😝 [Hollywood can&#39;t make films like this anymore [King of New York 1990]](http://9gag.com/gag/agm19Vv)
+ - 💣 [The bowel movement is still there!](http://9gag.com/gag/a9y64no)
+ - 😝 [And just zone out into the night sky.](http://9gag.com/gag/a4P68Vd)
+ - 👉 [Babe you can&#39;t marry my mother.](http://9gag.com/gag/aAy6q79)<!-- MEMES:END -->
 
 ---
 

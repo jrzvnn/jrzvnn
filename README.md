@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Where were you when this happened](http://9gag.com/gag/aAy6mvZ)
- - 😝 [Confusion of highest order](http://9gag.com/gag/aRB4DGy)
- - 💣 [Food delivery individual seems to not take into consideration doorbell cameras](http://9gag.com/gag/an7RVPn)
- - 😝 [Literally me. I really cannot believe I have said some of the things I have said lol](http://9gag.com/gag/aVvo1ry)
- - 👉 [No illegal activities](http://9gag.com/gag/aqyXBpv)<!-- MEMES:END -->
+ - 😝 [Nature is cruel](http://9gag.com/gag/aKGAnN1)
+ - 😝 [And just zone out into the night sky.](http://9gag.com/gag/a4P68Vd)
+ - 💣 [Travelling diaries](http://9gag.com/gag/amo1bRj)
+ - 😝 [The bowel movement is still there!](http://9gag.com/gag/a9y64no)
+ - 👉 [Your Rage is a gift](http://9gag.com/gag/awy3971)<!-- MEMES:END -->
 
 ---
 

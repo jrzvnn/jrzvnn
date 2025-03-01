@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Food delivery individual seems to not take into consideration doorbell cameras](http://9gag.com/gag/an7RVPn)
- - 😝 [No illegal activities](http://9gag.com/gag/aqyXBpv)
- - 💣 [Run away Matt! Run away!](http://9gag.com/gag/ayN3PLW)
- - 😝 [What it\u2019s like jumping from 20 m](http://9gag.com/gag/a0eXWAL)
- - 👉 [Parkour](http://9gag.com/gag/aGyn6r6)<!-- MEMES:END -->
+ - 😝 [Forget hooters, get ready for](http://9gag.com/gag/aQzvDe7)
+ - 😝 [Nature is cruel](http://9gag.com/gag/aKGAnN1)
+ - 💣 [It&#39;s always like that](http://9gag.com/gag/aD26qe9)
+ - 😝 [The bowel movement is still there!](http://9gag.com/gag/a9y64no)
+ - 👉 [Travelling diaries](http://9gag.com/gag/amo1bRj)<!-- MEMES:END -->
 
 ---
 

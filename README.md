@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Travelling diaries](http://9gag.com/gag/amo1bRj)
- - 😝 [Hollywood can&#39;t make films like this anymore [King of New York 1990]](http://9gag.com/gag/agm19Vv)
- - 💣 [The bowel movement is still there!](http://9gag.com/gag/a9y64no)
- - 😝 [And just zone out into the night sky.](http://9gag.com/gag/a4P68Vd)
- - 👉 [Babe you can&#39;t marry my mother.](http://9gag.com/gag/aAy6q79)<!-- MEMES:END -->
+ - 😝 [No big deal](http://9gag.com/gag/azxdDeK)
+ - 😝 [Where were you when this happened](http://9gag.com/gag/aAy6mvZ)
+ - 💣 [W Zelensky](http://9gag.com/gag/agm1be1)
+ - 😝 [Unfortunately, Shrek 5 was made during the most toxic era of cinema, so be prepared to see a lot of shit and be disappointed. I don&#39;t even need to watch it to know that the film&#39;s story is about Shrek being a conservative who needs to accept his LGBTQ+ and woke daughter.](http://9gag.com/gag/a876XjY)
+ - 👉 [Hollywood can&#39;t make films like this anymore [King of New York 1990]](http://9gag.com/gag/agm19Vv)<!-- MEMES:END -->
 
 ---
 

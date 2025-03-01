@@ -166,10 +166,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Gone too soon\u2026](http://9gag.com/gag/aND9qG6)
- - 😝 [No illegal activities](http://9gag.com/gag/aqyXBpv)
+ - 😝 [One can lose empires and lands listening to women](http://9gag.com/gag/aND9MGw)
+ - 😝 [The exact beginning of a new colony](http://9gag.com/gag/aoy3Awg)
  - 💣 [W Zelensky](http://9gag.com/gag/agm1be1)
- - 😝 [Great Britain](http://9gag.com/gag/aXPMGYV)
+ - 😝 [9gagger spotted in the audience &lpar;`Henry, you&#39;ll be forever Superman`&rpar;](http://9gag.com/gag/aYQEd0V)
  - 👉 [A major investment conference in India descended into chaos due to poor food distribution, with fights breaking out among attendees due to overcrowding and food shortages](http://9gag.com/gag/a9y6Zvm)<!-- MEMES:END -->
 
 ---

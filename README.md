@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The Ethereum Foundation selects two new co-executive directors, and Executive Director Aya Miyaguchi becomes president, following calls for new leadership &lpar;Margaux Nijkerk/CoinDesk&rpar;](http://www.techmeme.com/250301/p17#a250301p17)
  - [A profile of Sheikh Tahnoon bin Zayed Al Nahyan, who leads the UAE&#39;s AI fund MGX, which has backed Stargate and sources say is set to be infused with over $50B &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/250301/p16#a250301p16)
  - [Texas Official Warns Against ‘Measles Parties’ Amid Growing Outbreak](https://www.wired.com/story/measles-parties-texas-outbreak/)
  - [New Ikea smart home device will work with any Thread hub](https://appleinsider.com/articles/25/03/01/new-ikea-smart-home-device-will-work-with-any-thread-hub?utm_medium=rss)
- - [From ChatGPT to Gemini: how AI is rewriting the internet](https://www.theverge.com/23610427/chatbots-chatgpt-new-bing-google-bard-conversational-ai)
- - [Today&#39;s NYT Strands Hints, Answers and Help for March 2, #364](https://www.cnet.com/tech/gaming/todays-nyt-strands-hints-answers-and-help-for-march-2-364/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [From ChatGPT to Gemini: how AI is rewriting the internet](https://www.theverge.com/23610427/chatbots-chatgpt-new-bing-google-bard-conversational-ai)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

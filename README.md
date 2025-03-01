@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [A major investment conference in India descended into chaos due to poor food distribution, with fights breaking out among attendees due to overcrowding and food shortages](http://9gag.com/gag/a9y6Zvm)
- - 😝 [Unfortunately, Shrek 5 was made during the most toxic era of cinema, so be prepared to see a lot of shit and be disappointed. I don&#39;t even need to watch it to know that the film&#39;s story is about Shrek being a conservative who needs to accept his LGBTQ+ and woke daughter.](http://9gag.com/gag/a876XjY)
+ - 😝 [W Zelensky](http://9gag.com/gag/agm1be1)
+ - 😝 [Came to say thanks.](http://9gag.com/gag/adB1d9V)
  - 💣 [Gone too soon\u2026](http://9gag.com/gag/aND9qG6)
- - 😝 [Hollywood can&#39;t make films like this anymore [King of New York 1990]](http://9gag.com/gag/agm19Vv)
- - 👉 [No big deal](http://9gag.com/gag/azxdDeK)<!-- MEMES:END -->
+ - 😝 [Literally me. I really cannot believe I have said some of the things I have said lol](http://9gag.com/gag/aVvo1ry)
+ - 👉 [The exact beginning of a new colony](http://9gag.com/gag/aoy3Awg)<!-- MEMES:END -->
 
 ---
 

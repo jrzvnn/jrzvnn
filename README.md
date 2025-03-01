@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [DeepSeek says its V3 and R1 models&#39; cost of inferencing relative to sales during a 24-hour-period on February 28 put &quot;theoretical&quot; profit margins at 545% &lpar;Saritha Rai/Bloomberg&rpar;](http://www.techmeme.com/250301/p11#a250301p11)
+ - [14 Best Hoodies for Style, Comfort, and Warmth &lpar;2025&rpar;](https://www.wired.com/gallery/best-hoodies/)
+ - [How to find images in Google Photos](https://www.theverge.com/how-to/621623/photos-google-search-how-to)
  - [Go Read This: The Verge’s favorite reads from all over the web](https://www.theverge.com/24188803/best-tech-reads-articles-books)
- - [Despite breakthroughs from Amazon and Microsoft, quantum computing is far from its silicon moment, with no consensus on the best way to build practical qubits &lpar;Richard Waters/Financial Times&rpar;](http://www.techmeme.com/250301/p10#a250301p10)
- - [Mchose GX87 Ultra Review: A Refined but Accessible Mechanical Keyboard](https://www.wired.com/review/mchose-gx87-ultra/)
- - [Best Fitting T-Shirts for Men—According to a Savile Row Tailor &lpar;2025&rpar;](https://www.wired.com/gallery/best-fitting-t-shirts-men/)
- - [Watch Out for These Sneaky Venmo, Cash App and Zelle Scams](https://www.cnet.com/personal-finance/banking/watch-out-for-these-sneaky-venmo-cash-app-and-zelle-scams/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Despite breakthroughs from Amazon and Microsoft, quantum computing is far from its silicon moment, with no consensus on the best way to build practical qubits &lpar;Richard Waters/Financial Times&rpar;](http://www.techmeme.com/250301/p10#a250301p10)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -161,7 +161,7 @@ R                        1 repo              ░░░░░░░░░░░�
  - [The 39 Best Movies on Netflix Right Now &lpar;March 2025&rpar;](https://www.wired.com/story/netflix-best-movies-this-week/)
  - [The US Solar Power Industry Is Trying to Rebrand as MAGA-Friendly](https://www.wired.com/story/the-us-solar-power-industry-is-trying-to-rebrand-as-maga-friendly/)
  - [The 23 Best Shows on Amazon Prime Right Now &lpar;March 2025&rpar;](https://www.wired.com/story/best-shows-amazon-prime/)
- - [The Trump Administration Is Deprioritizing Russia as a Cyber Threat](https://www.wired.com/story/trump-administration-deprioritizing-russia-cyber-threat/)<!-- TECH:END -->
+ - [Best Internet Deals for March 2025](https://www.cnet.com/home/internet/best-internet-deals/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

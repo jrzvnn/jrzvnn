@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [Unfortunately, Shrek 5 was made during the most toxic era of cinema, so be prepared to see a lot of shit and be disappointed. I don&#39;t even need to watch it to know that the film&#39;s story is about Shrek being a conservative who needs to accept his LGBTQ+ and woke daughter.](http://9gag.com/gag/a876XjY)
  - 😝 [No illegal activities](http://9gag.com/gag/aqyXBpv)
- - 😝 [Intermediate level](http://9gag.com/gag/aAy6N0E)
- - 💣 [Great Britain](http://9gag.com/gag/aXPMGYV)
+ - 💣 [The exact beginning of a new colony](http://9gag.com/gag/aoy3Awg)
  - 😝 [Parkour](http://9gag.com/gag/aGyn6r6)
- - 👉 [Chad Warden](http://9gag.com/gag/ayN3we8)<!-- MEMES:END -->
+ - 👉 [Hollywood can&#39;t make films like this anymore [King of New York 1990]](http://9gag.com/gag/agm19Vv)<!-- MEMES:END -->
 
 ---
 

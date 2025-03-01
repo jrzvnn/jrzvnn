@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Grubhub CEO Howard Migdal says the company is laying off about 500 employees, or ~23% of its workforce, following its takeover by Wonder in November 2024 &lpar;Natalie Lung/Bloomberg&rpar;](http://www.techmeme.com/250228/p24#a250228p24)
- - [The best indie games we’re playing right now](https://www.theverge.com/24339574/indie-games-recommendations-pc-switch-steam-deck-best-new-hidden-gems)
- - [Amnesty International says Google has fixed three zero-day vulnerabilities in Android, developed by Cellebrite and used by Serbia to unlock phones &lpar;Lorenzo Franceschi-Bicchierai/TechCrunch&rpar;](http://www.techmeme.com/250228/p23#a250228p23)
- - [Mozilla is already revising its new Firefox terms to clarify how it handles user data](https://www.theverge.com/news/622080/mozilla-revising-firefox-terms-of-use-data)
- - [Google’s co-founder tells AI staff to stop ‘building nanny products’](https://www.theverge.com/command-line-newsletter/622045/google-ai-nanny-products)<!-- TECH:END -->
+ - [All of the announcements from Amazon&amp;#8217;s Alexa Plus event](https://www.theverge.com/news/618262/amazon-alexa-event-2025-ai-echo-products-news)
+ - [All the smart home news, reviews, and gadgets you need to know about](https://www.theverge.com/24190824/smart-home-news-reviews-guides-gadgets)
+ - [Taara, a project under Alphabet&#39;s moonshot X lab, unveils a new silicon photonic chip that uses light to transmit high-speed data through the air &lpar;Steven Levy/Wired&rpar;](http://www.techmeme.com/250228/p26#a250228p26)
+ - [Best Blood Pressure Monitors for 2025](https://www.cnet.com/health/medical/best-blood-pressure-monitor/#ftag=CAD590a51e)
+ - [Tick-Tock: How to Claim Your Piece of the $20 Million Apple Watch Settlement](https://www.cnet.com/tech/mobile/apple-watch-owners-how-to-claim-your-share-of-a-20-million-settlement/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

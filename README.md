@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Unfortunately, Shrek 5 was made during the most toxic era of cinema, so be prepared to see a lot of shit and be disappointed. I don&#39;t even need to watch it to know that the film&#39;s story is about Shrek being a conservative who needs to accept his LGBTQ+ and woke daughter.](http://9gag.com/gag/a876XjY)
- - 😝 [A few minutes ago, the Epstein Files were released](http://9gag.com/gag/aGynoOG)
- - 💣 [Snu snu](http://9gag.com/gag/aVvod9P)
- - 😝 [Great Britain](http://9gag.com/gag/aXPMGYV)
- - 👉 [No illegal activities](http://9gag.com/gag/aqyXBpv)<!-- MEMES:END -->
+ - 😝 [A major investment conference in India descended into chaos due to poor food distribution, with fights breaking out among attendees due to overcrowding and food shortages](http://9gag.com/gag/a9y6Zvm)
+ - 😝 [Parkour](http://9gag.com/gag/aGyn6r6)
+ - 💣 [Unfortunately, Shrek 5 was made during the most toxic era of cinema, so be prepared to see a lot of shit and be disappointed. I don&#39;t even need to watch it to know that the film&#39;s story is about Shrek being a conservative who needs to accept his LGBTQ+ and woke daughter.](http://9gag.com/gag/a876XjY)
+ - 😝 [Drunk guy gropes woman and gets wrecked](http://9gag.com/gag/ae91ExO)
+ - 👉 [A few minutes ago, the Epstein Files were released](http://9gag.com/gag/aGynoOG)<!-- MEMES:END -->
 
 ---
 

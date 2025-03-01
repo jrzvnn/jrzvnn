@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [A profile of Sheikh Tahnoon bin Zayed Al Nahyan, who leads the UAE&#39;s AI fund MGX, which has backed Stargate and sources say is set to be infused with over $50B &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/250301/p16#a250301p16)
+ - [Texas Official Warns Against ‘Measles Parties’ Amid Growing Outbreak](https://www.wired.com/story/measles-parties-texas-outbreak/)
  - [New Ikea smart home device will work with any Thread hub](https://appleinsider.com/articles/25/03/01/new-ikea-smart-home-device-will-work-with-any-thread-hub?utm_medium=rss)
  - [From ChatGPT to Gemini: how AI is rewriting the internet](https://www.theverge.com/23610427/chatbots-chatgpt-new-bing-google-bard-conversational-ai)
- - [Apple customers start receiving the iPhone 16e](https://appleinsider.com/articles/25/02/28/apple-customers-start-receiving-the-iphone-16e?utm_medium=rss)
- - [iPhone 16e vs iPhone 16: A new Apple Intelligence-powered entry-level option](https://appleinsider.com/inside/iphone-16e/vs/iphone-16e-vs-iphone-16-a-new-apple-intelligence-powered-entry-level-option?utm_medium=rss)
- - [&#39;Suits LA&#39;: How to Watch Episode 2 of the Stephen Amell Spin-Off](https://www.cnet.com/tech/services-and-software/suits-la-how-to-watch-episode-2-stephen-amell-spinoff/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Apple customers start receiving the iPhone 16e](https://appleinsider.com/articles/25/02/28/apple-customers-start-receiving-the-iphone-16e?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

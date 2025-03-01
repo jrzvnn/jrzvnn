@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Today&#39;s NYT Strands Hints, Answers and Help for March 1, #363](https://www.cnet.com/tech/gaming/todays-nyt-strands-hints-answers-and-help-for-march-1-363/#ftag=CAD590a51e)
- - [Today&#39;s NYT Connections: Sports Edition Hints and Answers for March 1, #159](https://www.cnet.com/tech/gaming/todays-nyt-connections-sports-edition-hints-and-answers-for-march-1-159/#ftag=CAD590a51e)
- - [Today&#39;s NYT Connections Hints, Answers and Help for March 1, #629](https://www.cnet.com/tech/gaming/todays-nyt-connections-hints-answers-and-help-for-march-1-629/#ftag=CAD590a51e)
- - [Today&#39;s Wordle Hints, Answer and Help for March 1, #1351](https://www.cnet.com/tech/gaming/todays-wordle-hints-answer-and-help-for-march-1-1351/#ftag=CAD590a51e)
- - [A look at Vibecoding, a term popularized by AI researcher Andrej Karpathy for a trend where AI lets nontechnical hobbyists build bespoke apps for themselves &lpar;Kevin Roose/New York Times&rpar;](http://www.techmeme.com/250301/p8#a250301p8)<!-- TECH:END -->
+ - [A look at Vibecoding, a term popularized by AI researcher Andrej Karpathy for a trend where AI lets nontechnical hobbyists build bespoke apps for themselves &lpar;Kevin Roose/New York Times&rpar;](http://www.techmeme.com/250301/p8#a250301p8)
+ - [US bitcoin ETFs saw ~$3.3B in net outflow in Feb., the biggest monthly exodus since they debuted; BTC fell ~17% in Feb., its worst monthly drop since June 2022 &lpar;Bloomberg&rpar;](http://www.techmeme.com/250301/p7#a250301p7)
+ - [Pinterest says it is developing tools to label AI-generated or AI-altered content on its platform, amid an influx of AI slop from SEO spammers &lpar;Maggie Harrison/Futurism&rpar;](http://www.techmeme.com/250301/p6#a250301p6)
+ - [China mandates regulatory approvals for autonomous driving-related OTA software upgrades, aiming to prevent automakers from hiding defects or avoiding liability &lpar;Reuters&rpar;](http://www.techmeme.com/250301/p5#a250301p5)
+ - [The US SEC dismissed or paused at least eight cases against crypto firms in the past month, as the agency sees immediate changes under Acting Chair Mark Uyeda &lpar;Emily Nicolle/Bloomberg&rpar;](http://www.techmeme.com/250301/p4#a250301p4)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Brooooo. lol](http://9gag.com/gag/a4P68Ky)
- - 😝 [A major investment conference in India descended into chaos due to poor food distribution, with fights breaking out among attendees due to overcrowding and food shortages](http://9gag.com/gag/a9y6Zvm)
- - 💣 [If only\u2026](http://9gag.com/gag/aQzvNww)
- - 😝 [Where were you when this happened](http://9gag.com/gag/aAy6mvZ)
- - 👉 [What it\u2019s like jumping from 20 m](http://9gag.com/gag/a0eXWAL)<!-- MEMES:END -->
+ - 😝 [No big deal](http://9gag.com/gag/azxdDeK)
+ - 😝 [I was kinda expecting it](http://9gag.com/gag/aW479wq)
+ - 💣 [Where were you when this happened](http://9gag.com/gag/aAy6mvZ)
+ - 😝 [Knowledge of the ancient texts](http://9gag.com/gag/aVvoBmy)
+ - 👉 [Food delivery individual seems to not take into consideration doorbell cameras](http://9gag.com/gag/an7RVPn)<!-- MEMES:END -->
 
 ---
 

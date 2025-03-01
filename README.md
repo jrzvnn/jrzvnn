@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [The exact beginning of a new colony](http://9gag.com/gag/aoy3Awg)
+ - 😝 [No illegal activities](http://9gag.com/gag/aqyXBpv)
+ - 💣 [Literally me. I really cannot believe I have said some of the things I have said lol](http://9gag.com/gag/aVvo1ry)
  - 😝 [Great Britain](http://9gag.com/gag/aXPMGYV)
- - 😝 [Gone too soon\u2026](http://9gag.com/gag/aND9qG6)
- - 💣 [9gagger spotted in the audience &lpar;`Henry, you&#39;ll be forever Superman`&rpar;](http://9gag.com/gag/aYQEd0V)
- - 😝 [Parkour](http://9gag.com/gag/aGyn6r6)
- - 👉 [France just smashed China&#39;s record in nuclear fusion by recreating a miniature Sun on Earth for 22 minutes which reached over 150 MILLION degrees Celsius](http://9gag.com/gag/ary3z1y)<!-- MEMES:END -->
+ - 👉 [A plane door closing.](http://9gag.com/gag/aqyXpoY)<!-- MEMES:END -->
 
 ---
 

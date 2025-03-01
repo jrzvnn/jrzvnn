@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple customers start receiving the iPhone 16e](https://appleinsider.com/articles/25/02/28/apple-customers-start-receiving-the-iphone-16e?utm_medium=rss)
- - [iPhone 16e vs iPhone 16: A new Apple Intelligence-powered entry-level option](https://appleinsider.com/inside/iphone-16e/vs/iphone-16e-vs-iphone-16-a-new-apple-intelligence-powered-entry-level-option?utm_medium=rss)
- - [&#39;Suits LA&#39;: How to Watch Episode 2 of the Stephen Amell Spin-Off](https://www.cnet.com/tech/services-and-software/suits-la-how-to-watch-episode-2-stephen-amell-spinoff/#ftag=CAD590a51e)
- - [Skype was an early harbinger of technology as culture, and its demise is a good lesson in how ineffective middle management can destroy good acquisitions &lpar;Om Malik/On my Om&rpar;](http://www.techmeme.com/250301/p15#a250301p15)
- - [Ikea registered a Matter-over-Thread temperature sensor with the FCC](https://www.theverge.com/news/622308/ikea-matter-thread-temperature-humidity-sensor-timmerflotte)<!-- TECH:END -->
+ - [From ChatGPT to Gemini: how AI is rewriting the internet](https://www.theverge.com/23610427/chatbots-chatgpt-new-bing-google-bard-conversational-ai)
+ - [Today&#39;s NYT Strands Hints, Answers and Help for March 2, #364](https://www.cnet.com/tech/gaming/todays-nyt-strands-hints-answers-and-help-for-march-2-364/#ftag=CAD590a51e)
+ - [Today&#39;s NYT Connections Hints, Answers and Help for March 2, #630](https://www.cnet.com/tech/gaming/todays-nyt-connections-hints-answers-and-help-for-march-2-630/#ftag=CAD590a51e)
+ - [Today&#39;s NYT Connections: Sports Edition Hints and Answers for March 2, #160](https://www.cnet.com/tech/gaming/todays-nyt-connections-sports-edition-hints-and-answers-for-march-2-160-new/#ftag=CAD590a51e)
+ - [Today&#39;s Wordle Hints, Answer and Help for March 2, #1352](https://www.cnet.com/tech/gaming/todays-wordle-hints-answer-and-help-for-march-2-1352/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

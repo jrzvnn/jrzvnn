@@ -159,9 +159,9 @@ R                        1 repo              ░░░░░░░░░░░�
 <!-- TECH:START -->
  - [Keep Your Old Android Phone Running Longer With LineageOS](https://www.wired.com/story/keep-your-old-android-phone-running-longer-with-lineageos/)
  - [Asus ROG Flow Z13 &lpar;2025&rpar; review: hold up, integrated graphics are good now?](https://www.theverge.com/reviews/621947/asus-rog-flow-z13-gaming-tablet-laptop-amd-strix-halo-review)
- - [Appalachians Are Trapped in a Disastrous Cycle of Flooding and Rebuilding](https://www.wired.com/story/appalachians-are-trapped-in-a-disastrous-cycle-of-flooding-and-rebuilding/)
- - [With Alexa Plus, Amazon finally reinvents its best product](https://www.theverge.com/amazon-alexa/622172/amazon-alexa-plus-panos-panay-interview)
- - [The 21 Best Movies on Amazon Prime Right Now &lpar;March 2024&rpar;](https://www.wired.com/story/best-amazon-prime-movies/)<!-- TECH:END -->
+ - [Whatever You Do, Don&#39;t Cancel Disney Plus or Max in March](https://www.cnet.com/tech/services-and-software/whatever-you-do-dont-cancel-disney-plus-or-max-in-march/#ftag=CAD590a51e)
+ - [Watch FA Cup Soccer: Livestream Bournemouth vs. Wolves From Anywhere](https://www.cnet.com/tech/services-and-software/watch-fa-cup-soccer-livestream-bournemouth-vs-wolves-from-anywhere/#ftag=CAD590a51e)
+ - [Nerf Loadout Lets You Mix and Match Blasters to Build Your Own](https://www.cnet.com/tech/mobile/nerf-loadout-lets-you-mix-and-match-blasters-to-build-your-own/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

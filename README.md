@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Auditoria.AI, which develops AI agents to automate tasks and provide insights for enterprise finance teams, raised a $38M Series B led by Innovius Capital &lpar;PYMNTS.com&rpar;](http://www.techmeme.com/250301/p2#a250301p2)
  - [Teleperformance, the world&#39;s largest call center operator, rolls out AI tech by startup Sanas to soften English-speaking Indian workers&#39; accents in real time &lpar;Benoit Berthelot/Bloomberg&rpar;](http://www.techmeme.com/250301/p1#a250301p1)
  - [The Humane Ai Pin Has Already Been Brought Back to Life](https://www.wired.com/story/the-humane-ai-pin-has-already-been-brought-back-to-life/)
  - [China replaces tech minister Jin Zhuanglong, a key figure in its push to become a tech superpower, with Li Lecheng; sources: Jin faced a graft-related probe &lpar;Financial Times&rpar;](http://www.techmeme.com/250228/p30#a250228p30)
- - [Socure, a digital identity verification company, says bad actors are increasingly using social media selfies and generative AI to create more realistic fake ids &lpar;Julie Zhu/Bloomberg&rpar;](http://www.techmeme.com/250228/p29#a250228p29)
- - [Spamhaus: Prospero, a notorious provider of abuse-friendly &quot;bulletproof&quot; hosting for cybercriminals, is routing its operations through Kaspersky Lab&#39;s networks &lpar;Brian Krebs/Krebs on Security&rpar;](http://www.techmeme.com/250228/p28#a250228p28)<!-- TECH:END -->
+ - [Socure, a digital identity verification company, says bad actors are increasingly using social media selfies and generative AI to create more realistic fake ids &lpar;Julie Zhu/Bloomberg&rpar;](http://www.techmeme.com/250228/p29#a250228p29)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

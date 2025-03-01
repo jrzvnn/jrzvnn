@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The Trump Administration Is Deprioritizing Russia as a Cyber Threat](https://www.wired.com/story/trump-administration-deprioritizing-russia-cyber-threat/)
  - [Sources: Larry Ellison&#39;s Sensei Ag, a venture backed by his $500M investment to change farming with AI, robotics, and software, has mostly been a bust so far &lpar;Tom Dotan/Wall Street Journal&rpar;](http://www.techmeme.com/250301/p9#a250301p9)
  - [Don&#39;t Wait for iOS 18.4: You Need to Download iOS 18.3.1 Right Now](https://www.cnet.com/tech/services-and-software/dont-wait-for-ios-18-4-you-need-to-download-ios-18-3-1-right-now/#ftag=CAD590a51e)
  - [Gear News of the Week: Skype Will Close for Good in May](https://www.wired.com/story/photoshop-finally-gets-a-proper-mobile-app/)
- - [Mortgage Payments Are Just the Start. Here&#39;s What Homeownership Really Costs](https://www.cnet.com/personal-finance/mortgage-payments-are-just-the-start-heres-what-homeownership-really-costs/#ftag=CAD590a51e)
- - [Today&#39;s NYT Strands Hints, Answers and Help for March 1, #363](https://www.cnet.com/tech/gaming/todays-nyt-strands-hints-answers-and-help-for-march-1-363/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Mortgage Payments Are Just the Start. Here&#39;s What Homeownership Really Costs](https://www.cnet.com/personal-finance/mortgage-payments-are-just-the-start-heres-what-homeownership-really-costs/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

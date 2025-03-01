@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Spooky potato](https://www.reddit.com/r/funny/comments/1j13muu/spooky_potato/)
  - 😝 [One can lose empires and lands listening to women](http://9gag.com/gag/aND9MGw)
- - 💣 [No illegal activities](http://9gag.com/gag/aqyXBpv)
- - 😝 [Unfortunately, Shrek 5 was made during the most toxic era of cinema, so be prepared to see a lot of shit and be disappointed. I don&#39;t even need to watch it to know that the film&#39;s story is about Shrek being a conservative who needs to accept his LGBTQ+ and woke daughter.](http://9gag.com/gag/a876XjY)
- - 👉 [Parkour](http://9gag.com/gag/aGyn6r6)<!-- MEMES:END -->
+ - 😝 [No illegal activities](http://9gag.com/gag/aqyXBpv)
+ - 💣 [Unfortunately, Shrek 5 was made during the most toxic era of cinema, so be prepared to see a lot of shit and be disappointed. I don&#39;t even need to watch it to know that the film&#39;s story is about Shrek being a conservative who needs to accept his LGBTQ+ and woke daughter.](http://9gag.com/gag/a876XjY)
+ - 😝 [Parkour](http://9gag.com/gag/aGyn6r6)
+ - 👉 [Gone too soon\u2026](http://9gag.com/gag/aND9qG6)<!-- MEMES:END -->
 
 ---
 

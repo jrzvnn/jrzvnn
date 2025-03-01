@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Keep Your Old Android Phone Running Longer With LineageOS](https://www.wired.com/story/keep-your-old-android-phone-running-longer-with-lineageos/)
+ - [Asus ROG Flow Z13 &lpar;2025&rpar; review: hold up, integrated graphics are good now?](https://www.theverge.com/reviews/621947/asus-rog-flow-z13-gaming-tablet-laptop-amd-strix-halo-review)
  - [Appalachians Are Trapped in a Disastrous Cycle of Flooding and Rebuilding](https://www.wired.com/story/appalachians-are-trapped-in-a-disastrous-cycle-of-flooding-and-rebuilding/)
  - [With Alexa Plus, Amazon finally reinvents its best product](https://www.theverge.com/amazon-alexa/622172/amazon-alexa-plus-panos-panay-interview)
- - [The 21 Best Movies on Amazon Prime Right Now &lpar;March 2024&rpar;](https://www.wired.com/story/best-amazon-prime-movies/)
- - [The 39 Best Movies on Netflix Right Now &lpar;March 2025&rpar;](https://www.wired.com/story/netflix-best-movies-this-week/)
- - [The US Solar Power Industry Is Trying to Rebrand as MAGA-Friendly](https://www.wired.com/story/the-us-solar-power-industry-is-trying-to-rebrand-as-maga-friendly/)<!-- TECH:END -->
+ - [The 21 Best Movies on Amazon Prime Right Now &lpar;March 2024&rpar;](https://www.wired.com/story/best-amazon-prime-movies/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

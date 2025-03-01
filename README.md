@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [&#39;Suits LA&#39;: How to Watch Episode 2 of the Stephen Amell Spin-Off](https://www.cnet.com/tech/services-and-software/suits-la-how-to-watch-episode-2-stephen-amell-spinoff/#ftag=CAD590a51e)
  - [Skype was an early harbinger of technology as culture, and its demise is a good lesson in how ineffective middle management can destroy great acquisitions &lpar;Om Malik/On my Om&rpar;](http://www.techmeme.com/250301/p15#a250301p15)
  - [Ikea registered a Matter-over-Thread temperature sensor with the FCC](https://www.theverge.com/news/622308/ikea-matter-thread-temperature-humidity-sensor-timmerflotte)
  - [All the smart home news, reviews, and gadgets you need to know about](https://www.theverge.com/24190824/smart-home-news-reviews-guides-gadgets)
- - [President Trump plans to speak at the first-ever White House Crypto Summit on March 7, to be chaired by David Sacks, amid a global sell-off in cryptocurrencies &lpar;Axios&rpar;](http://www.techmeme.com/250301/p14#a250301p14)
- - [What can a 100-pixel video teach us about storytelling around the world?](https://www.theverge.com/art-club/621584/mumbai-modern-art-camp-cctv-video)<!-- TECH:END -->
+ - [President Trump plans to speak at the first-ever White House Crypto Summit on March 7, to be chaired by David Sacks, amid a global sell-off in cryptocurrencies &lpar;Axios&rpar;](http://www.techmeme.com/250301/p14#a250301p14)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

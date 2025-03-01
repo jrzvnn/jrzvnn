@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Hollywood can&#39;t make films like this anymore [King of New York 1990]](http://9gag.com/gag/agm19Vv)
- - 😝 [Gone too soon\u2026](http://9gag.com/gag/aND9qG6)
- - 💣 [Great Britain](http://9gag.com/gag/aXPMGYV)
  - 😝 [Where were you when this happened](http://9gag.com/gag/aAy6mvZ)
- - 👉 [Food delivery individual seems to not take into consideration doorbell cameras](http://9gag.com/gag/an7RVPn)<!-- MEMES:END -->
+ - 😝 [Confusion of highest order](http://9gag.com/gag/aRB4DGy)
+ - 💣 [Food delivery individual seems to not take into consideration doorbell cameras](http://9gag.com/gag/an7RVPn)
+ - 😝 [Literally me. I really cannot believe I have said some of the things I have said lol](http://9gag.com/gag/aVvo1ry)
+ - 👉 [No illegal activities](http://9gag.com/gag/aqyXBpv)<!-- MEMES:END -->
 
 ---
 

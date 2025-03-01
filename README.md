@@ -166,10 +166,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [No illegal activities](http://9gag.com/gag/aqyXBpv)
+ - 😝 [Intermediate level](http://9gag.com/gag/aAy6N0E)
+ - 💣 [Great Britain](http://9gag.com/gag/aXPMGYV)
  - 😝 [Parkour](http://9gag.com/gag/aGyn6r6)
- - 😝 [It is not easy being an England supporter](http://9gag.com/gag/aPAmzNG)
- - 💣 [No illegal activities](http://9gag.com/gag/aqyXBpv)
- - 😝 [The exact beginning of a new colony](http://9gag.com/gag/aoy3Awg)
  - 👉 [Chad Warden](http://9gag.com/gag/ayN3we8)<!-- MEMES:END -->
 
 ---

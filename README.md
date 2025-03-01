@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [It is not easy being an England supporter](http://9gag.com/gag/aPAmzNG)
- - 😝 [Parkour](http://9gag.com/gag/aGyn6r6)
- - 💣 [No illegal activities](http://9gag.com/gag/aqyXBpv)
+ - 😝 [I have a question, for god... WHYYYY !?](http://9gag.com/gag/a0eXz4n)
+ - 😝 [The exact beginning of a new colony](http://9gag.com/gag/aoy3Awg)
+ - 💣 [Hollywood can&#39;t make films like this anymore [King of New York 1990]](http://9gag.com/gag/agm19Vv)
  - 😝 [Chad Warden](http://9gag.com/gag/ayN3we8)
- - 👉 [The exact beginning of a new colony](http://9gag.com/gag/aoy3Awg)<!-- MEMES:END -->
+ - 👉 [Fact check](http://9gag.com/gag/a9y6wmD)<!-- MEMES:END -->
 
 ---
 

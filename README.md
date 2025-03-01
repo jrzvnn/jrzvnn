@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [It&#39;s always like that](http://9gag.com/gag/aD26qe9)
- - 😝 [Nature is cruel](http://9gag.com/gag/aKGAnN1)
- - 💣 [Forget hooters, get ready for](http://9gag.com/gag/aQzvDe7)
- - 😝 [The bowel movement is still there!](http://9gag.com/gag/a9y64no)
- - 👉 [Travelling diaries](http://9gag.com/gag/amo1bRj)<!-- MEMES:END -->
+ - 😝 [Unfortunately, Shrek 5 was made during the most toxic era of cinema, so be prepared to see a lot of shit and be disappointed. I don&#39;t even need to watch it to know that the film&#39;s story is about Shrek being a conservative who needs to accept his LGBTQ+ and woke daughter.](http://9gag.com/gag/a876XjY)
+ - 😝 [A few minutes ago, the Epstein Files were released](http://9gag.com/gag/aGynoOG)
+ - 💣 [Snu snu](http://9gag.com/gag/aVvod9P)
+ - 😝 [Great Britain](http://9gag.com/gag/aXPMGYV)
+ - 👉 [No illegal activities](http://9gag.com/gag/aqyXBpv)<!-- MEMES:END -->
 
 ---
 

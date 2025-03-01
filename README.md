@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Best Fitting T-Shirts for Men—According to a Savile Row Tailor &lpar;2025&rpar;](https://www.wired.com/gallery/best-fitting-t-shirts-men/)
+ - [One of my favorite pop albums is a video game — and now it’s on the PS5](https://www.theverge.com/games-review/621706/sayonara-wild-hearts-ps5-review)
  - [Keep Your Old Android Phone Running Longer With LineageOS](https://www.wired.com/story/keep-your-old-android-phone-running-longer-with-lineageos/)
  - [Asus ROG Flow Z13 &lpar;2025&rpar; review: hold up, integrated graphics are good now?](https://www.theverge.com/reviews/621947/asus-rog-flow-z13-gaming-tablet-laptop-amd-strix-halo-review)
- - [Whatever You Do, Don&#39;t Cancel Disney Plus or Max in March](https://www.cnet.com/tech/services-and-software/whatever-you-do-dont-cancel-disney-plus-or-max-in-march/#ftag=CAD590a51e)
- - [Watch FA Cup Soccer: Livestream Bournemouth vs. Wolves From Anywhere](https://www.cnet.com/tech/services-and-software/watch-fa-cup-soccer-livestream-bournemouth-vs-wolves-from-anywhere/#ftag=CAD590a51e)
- - [Nerf Loadout Lets You Mix and Match Blasters to Build Your Own](https://www.cnet.com/tech/mobile/nerf-loadout-lets-you-mix-and-match-blasters-to-build-your-own/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Whatever You Do, Don&#39;t Cancel Disney Plus or Max in March](https://www.cnet.com/tech/services-and-software/whatever-you-do-dont-cancel-disney-plus-or-max-in-march/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

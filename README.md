@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [All the news about Nvidia’s RTX 50-series GPUs](https://www.theverge.com/2025/1/25/24351798/nvidia-rtx-5090-5080-5070-gpu-news-rumors)
  - [Sources: SoftBank plans to borrow $16B to invest in AI, and might borrow another $8B in early 2026, which could strain its already debt-heavy balance sheet &lpar;The Information&rpar;](http://www.techmeme.com/250301/p13#a250301p13)
  - [Trump’s first 100 days: all the news affecting the tech industry](https://www.theverge.com/24348851/donald-trump-presidency-tech-science-news)
  - [New email tells federal employees to list recent accomplishments weekly](https://www.theverge.com/news/622257/d)
- - [Amazon’s latest Fire TV Stick 4K Max is more than 30 percent off right now](https://www.theverge.com/good-deals/621025/amazon-fire-tv-stick-4k-max-aurzen-tri-fold-projector-deal-sale)
- - [11 Best Strollers for Almost Every Budget and Need &lpar;2025&rpar;](https://www.wired.com/gallery/best-stroller-for-kids/)<!-- TECH:END -->
+ - [Amazon’s latest Fire TV Stick 4K Max is more than 30 percent off right now](https://www.theverge.com/good-deals/621025/amazon-fire-tv-stick-4k-max-aurzen-tri-fold-projector-deal-sale)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [These Cybertrucks parked right next to each other.](https://www.reddit.com/r/funny/comments/1j1834i/these_cybertrucks_parked_right_next_to_each_other/)
- - 😝 [Unfortunately, Shrek 5 was made during the most toxic era of cinema, so be prepared to see a lot of shit and be disappointed. I don&#39;t even need to watch it to know that the film&#39;s story is about Shrek being a conservative who needs to accept his LGBTQ+ and woke daughter.](http://9gag.com/gag/a876XjY)
- - 💣 [One can lose empires and lands listening to women](http://9gag.com/gag/aND9MGw)
+ - 😝 [Parkour](http://9gag.com/gag/aGyn6r6)
  - 😝 [It is not easy being an England supporter](http://9gag.com/gag/aPAmzNG)
- - 👉 [The exact beginning of a new colony](http://9gag.com/gag/aoy3Awg)<!-- MEMES:END -->
+ - 💣 [No illegal activities](http://9gag.com/gag/aqyXBpv)
+ - 😝 [The exact beginning of a new colony](http://9gag.com/gag/aoy3Awg)
+ - 👉 [Chad Warden](http://9gag.com/gag/ayN3we8)<!-- MEMES:END -->
 
 ---
 

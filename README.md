@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Despite breakthroughs from Amazon and Microsoft, quantum computing is far from its silicon moment, with no consensus on the best way to build practical qubits &lpar;Richard Waters/Financial Times&rpar;](http://www.techmeme.com/250301/p10#a250301p10)
+ - [Mchose GX87 Ultra Review: A Refined but Accessible Mechanical Keyboard](https://www.wired.com/review/mchose-gx87-ultra/)
  - [Best Fitting T-Shirts for Men—According to a Savile Row Tailor &lpar;2025&rpar;](https://www.wired.com/gallery/best-fitting-t-shirts-men/)
  - [One of my favorite pop albums is a video game — and now it’s on the PS5](https://www.theverge.com/games-review/621706/sayonara-wild-hearts-ps5-review)
- - [Keep Your Old Android Phone Running Longer With LineageOS](https://www.wired.com/story/keep-your-old-android-phone-running-longer-with-lineageos/)
- - [Asus ROG Flow Z13 &lpar;2025&rpar; review: hold up, integrated graphics are good now?](https://www.theverge.com/reviews/621947/asus-rog-flow-z13-gaming-tablet-laptop-amd-strix-halo-review)
- - [Whatever You Do, Don&#39;t Cancel Disney Plus or Max in March](https://www.cnet.com/tech/services-and-software/whatever-you-do-dont-cancel-disney-plus-or-max-in-march/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Keep Your Old Android Phone Running Longer With LineageOS](https://www.wired.com/story/keep-your-old-android-phone-running-longer-with-lineageos/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

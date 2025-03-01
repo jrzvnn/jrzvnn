@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Knowledge of the ancient texts](http://9gag.com/gag/aVvoBmy)
- - 😝 [Gone too soon\u2026](http://9gag.com/gag/aND9qG6)
- - 💣 [Run away Matt! Run away!](http://9gag.com/gag/ayN3PLW)
- - 😝 [Millions of pizzles yanked and millions of copies guaranteed](http://9gag.com/gag/a9y6V26)
- - 👉 [I was kinda expecting it](http://9gag.com/gag/aW479wq)<!-- MEMES:END -->
+ - 😝 [How powerful is Galadriel in comparison to Gandalf?](http://9gag.com/gag/a2vwGNE)
+ - 😝 [Hmmmmm](http://9gag.com/gag/aBy64jO)
+ - 💣 [Knowledge of the ancient texts](http://9gag.com/gag/aVvoBmy)
+ - 😝 [No illegal activities](http://9gag.com/gag/aqyXBpv)
+ - 👉 [9gagger spotted in the audience &lpar;`Henry, you&#39;ll be forever Superman`&rpar;](http://9gag.com/gag/aYQEd0V)<!-- MEMES:END -->
 
 ---
 

@@ -161,7 +161,7 @@ R                        1 repo              ░░░░░░░░░░░�
  - [Texas Official Warns Against ‘Measles Parties’ Amid Growing Outbreak](https://www.wired.com/story/measles-parties-texas-outbreak/)
  - [New Ikea smart home device will work with any Thread hub](https://appleinsider.com/articles/25/03/01/new-ikea-smart-home-device-will-work-with-any-thread-hub?utm_medium=rss)
  - [From ChatGPT to Gemini: how AI is rewriting the internet](https://www.theverge.com/23610427/chatbots-chatgpt-new-bing-google-bard-conversational-ai)
- - [Apple customers start receiving the iPhone 16e](https://appleinsider.com/articles/25/02/28/apple-customers-start-receiving-the-iphone-16e?utm_medium=rss)<!-- TECH:END -->
+ - [Today&#39;s NYT Strands Hints, Answers and Help for March 2, #364](https://www.cnet.com/tech/gaming/todays-nyt-strands-hints-answers-and-help-for-march-2-364/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

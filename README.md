@@ -159,9 +159,9 @@ R                        1 repo              ░░░░░░░░░░░�
 <!-- TECH:START -->
  - [DeepSeek says its V3 and R1 models&#39; cost of inferencing relative to sales during a 24-hour-period on February 28 put &quot;theoretical&quot; profit margins at 545% &lpar;Saritha Rai/Bloomberg&rpar;](http://www.techmeme.com/250301/p11#a250301p11)
  - [14 Best Hoodies for Style, Comfort, and Warmth &lpar;2025&rpar;](https://www.wired.com/gallery/best-hoodies/)
- - [How to Watch the 2025 MotoGP Season Live From Anywhere](https://www.cnet.com/tech/services-and-software/how-to-watch-the-2025-motogp-season-live-from-anywhere/#ftag=CAD590a51e)
  - [How to find images in Google Photos](https://www.theverge.com/how-to/621623/photos-google-search-how-to)
- - [Go Read This: The Verge’s favorite reads from all over the web](https://www.theverge.com/24188803/best-tech-reads-articles-books)<!-- TECH:END -->
+ - [Go Read This: The Verge’s favorite reads from all over the web](https://www.theverge.com/24188803/best-tech-reads-articles-books)
+ - [Despite breakthroughs from Amazon and Microsoft, quantum computing is far from its silicon moment, with no consensus on the best way to build practical qubits &lpar;Richard Waters/Financial Times&rpar;](http://www.techmeme.com/250301/p10#a250301p10)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

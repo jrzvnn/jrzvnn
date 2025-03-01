@@ -166,10 +166,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [A major investment conference in India descended into chaos due to poor food distribution, with fights breaking out among attendees due to overcrowding and food shortages](http://9gag.com/gag/a9y6Zvm)
- - 😝 [No big deal](http://9gag.com/gag/azxdDeK)
- - 💣 [Gone too soon\u2026](http://9gag.com/gag/aND9qG6)
- - 😝 [9gagger spotted in the audience &lpar;`Henry, you&#39;ll be forever Superman`&rpar;](http://9gag.com/gag/aYQEd0V)
+ - 😝 [Hollywood can&#39;t make films like this anymore [King of New York 1990]](http://9gag.com/gag/agm19Vv)
+ - 😝 [Gone too soon\u2026](http://9gag.com/gag/aND9qG6)
+ - 💣 [Great Britain](http://9gag.com/gag/aXPMGYV)
+ - 😝 [Where were you when this happened](http://9gag.com/gag/aAy6mvZ)
  - 👉 [Food delivery individual seems to not take into consideration doorbell cameras](http://9gag.com/gag/an7RVPn)<!-- MEMES:END -->
 
 ---

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [I have a question, for god... WHYYYY !?](http://9gag.com/gag/a0eXz4n)
  - 😝 [The exact beginning of a new colony](http://9gag.com/gag/aoy3Awg)
- - 💣 [Hollywood can&#39;t make films like this anymore [King of New York 1990]](http://9gag.com/gag/agm19Vv)
- - 😝 [Chad Warden](http://9gag.com/gag/ayN3we8)
- - 👉 [Fact check](http://9gag.com/gag/a9y6wmD)<!-- MEMES:END -->
+ - 😝 [Orange](http://9gag.com/gag/a0eXzpd)
+ - 💣 [Fact check](http://9gag.com/gag/a9y6wmD)
+ - 😝 [Hollywood can&#39;t make films like this anymore [King of New York 1990]](http://9gag.com/gag/agm19Vv)
+ - 👉 [Concentration camp or shared apartment?](http://9gag.com/gag/a2vw951)<!-- MEMES:END -->
 
 ---
 

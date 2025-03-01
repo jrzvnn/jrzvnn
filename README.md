@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Hollywood can&#39;t make films like this anymore [King of New York 1990]](http://9gag.com/gag/agm19Vv)
- - 😝 [Concentration camp or shared apartment?](http://9gag.com/gag/a2vw951)
- - 💣 [It is not easy being an England supporter](http://9gag.com/gag/aPAmzNG)
- - 😝 [The exact beginning of a new colony](http://9gag.com/gag/aoy3Awg)
- - 👉 [Parkour](http://9gag.com/gag/aGyn6r6)<!-- MEMES:END -->
+ - 😝 [Fiona](http://9gag.com/gag/a1mNgg8)
+ - 😝 [Brooooo. lol](http://9gag.com/gag/a4P68Ky)
+ - 💣 [In sickness and in health, till death do us part....](http://9gag.com/gag/azxdzAq)
+ - 😝 [Adult vocabulary in Japanese](http://9gag.com/gag/aQzvbr2)
+ - 👉 [White n tight](http://9gag.com/gag/apR3wg9)<!-- MEMES:END -->
 
 ---
 

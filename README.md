@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [China replaces tech minister Jin Zhuanglong, a key figure in its push to become a tech superpower, with Li Lecheng; sources: Jin faced a graft-related probe &lpar;Financial Times&rpar;](http://www.techmeme.com/250228/p30#a250228p30)
  - [Socure, a digital identity verification company, says bad actors are increasingly using social media selfies and generative AI to create more realistic fake ids &lpar;Julie Zhu/Bloomberg&rpar;](http://www.techmeme.com/250228/p29#a250228p29)
  - [Spamhaus: Prospero, a notorious provider of abuse-friendly &quot;bulletproof&quot; hosting for cybercriminals, is routing its operations through Kaspersky Lab&#39;s networks &lpar;Brian Krebs/Krebs on Security&rpar;](http://www.techmeme.com/250228/p28#a250228p28)
  - [Crypto reserve bills have failed in Montana, N. Dakota, S. Dakota, and Wyoming over the last month; Bitcoin Laws: such bills have been introduced in 24 states &lpar;Teresa Xie/Bloomberg&rpar;](http://www.techmeme.com/250228/p27#a250228p27)
- - [Best Internet Providers in Terre Haute, Indiana](https://www.cnet.com/home/internet/best-internet-providers-in-terre-haute-in/#ftag=CAD590a51e)
- - [All of the announcements from Amazon&amp;#8217;s Alexa Plus event](https://www.theverge.com/news/618262/amazon-alexa-event-2025-ai-echo-products-news)<!-- TECH:END -->
+ - [Best Internet Providers in Terre Haute, Indiana](https://www.cnet.com/home/internet/best-internet-providers-in-terre-haute-in/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

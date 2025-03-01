@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Appalachians Are Trapped in a Disastrous Cycle of Flooding and Rebuilding](https://www.wired.com/story/appalachians-are-trapped-in-a-disastrous-cycle-of-flooding-and-rebuilding/)
+ - [With Alexa Plus, Amazon finally reinvents its best product](https://www.theverge.com/amazon-alexa/622172/amazon-alexa-plus-panos-panay-interview)
  - [The 21 Best Movies on Amazon Prime Right Now &lpar;March 2024&rpar;](https://www.wired.com/story/best-amazon-prime-movies/)
  - [The 39 Best Movies on Netflix Right Now &lpar;March 2025&rpar;](https://www.wired.com/story/netflix-best-movies-this-week/)
- - [The US Solar Power Industry Is Trying to Rebrand as MAGA-Friendly](https://www.wired.com/story/the-us-solar-power-industry-is-trying-to-rebrand-as-maga-friendly/)
- - [The 23 Best Shows on Amazon Prime Right Now &lpar;March 2025&rpar;](https://www.wired.com/story/best-shows-amazon-prime/)
- - [Best Internet Deals for March 2025](https://www.cnet.com/home/internet/best-internet-deals/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [The US Solar Power Industry Is Trying to Rebrand as MAGA-Friendly](https://www.wired.com/story/the-us-solar-power-industry-is-trying-to-rebrand-as-maga-friendly/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

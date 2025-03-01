@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Crypto reserve bills have failed in Montana, N. Dakota, S. Dakota, and Wyoming over the last month; Bitcoin Laws: such bills have been introduced in 24 states &lpar;Teresa Xie/Bloomberg&rpar;](http://www.techmeme.com/250228/p27#a250228p27)
  - [All of the announcements from Amazon&amp;#8217;s Alexa Plus event](https://www.theverge.com/news/618262/amazon-alexa-event-2025-ai-echo-products-news)
  - [All the smart home news, reviews, and gadgets you need to know about](https://www.theverge.com/24190824/smart-home-news-reviews-guides-gadgets)
  - [Taara, a project under Alphabet&#39;s moonshot X lab, unveils a new silicon photonic chip that uses light to transmit high-speed data through the air &lpar;Steven Levy/Wired&rpar;](http://www.techmeme.com/250228/p26#a250228p26)
- - [Best Blood Pressure Monitors for 2025](https://www.cnet.com/health/medical/best-blood-pressure-monitor/#ftag=CAD590a51e)
- - [Tick-Tock: How to Claim Your Piece of the $20 Million Apple Watch Settlement](https://www.cnet.com/tech/mobile/apple-watch-owners-how-to-claim-your-share-of-a-20-million-settlement/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Best Blood Pressure Monitors for 2025](https://www.cnet.com/health/medical/best-blood-pressure-monitor/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

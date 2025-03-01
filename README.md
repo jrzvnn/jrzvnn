@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [The exact beginning of a new colony](http://9gag.com/gag/aoy3Awg)
- - 😝 [No illegal activities](http://9gag.com/gag/aqyXBpv)
- - 💣 [Literally me. I really cannot believe I have said some of the things I have said lol](http://9gag.com/gag/aVvo1ry)
- - 😝 [Great Britain](http://9gag.com/gag/aXPMGYV)
- - 👉 [A plane door closing.](http://9gag.com/gag/aqyXpoY)<!-- MEMES:END -->
+ - 😝 [9gagger spotted in the audience &lpar;`Henry, you&#39;ll be forever Superman`&rpar;](http://9gag.com/gag/aYQEd0V)
+ - 😝 [8% Vinegar introduced to Bacteria under a Microscope](http://9gag.com/gag/aAy6NN0)
+ - 💣 [I have a question, for god... WHYYYY !?](http://9gag.com/gag/a0eXz4n)
+ - 😝 [What it\u2019s like jumping from 20 m](http://9gag.com/gag/a0eXWAL)
+ - 👉 [Parkour](http://9gag.com/gag/aGyn6r6)<!-- MEMES:END -->
 
 ---
 

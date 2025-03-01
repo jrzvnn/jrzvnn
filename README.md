@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Fiona](http://9gag.com/gag/a1mNgg8)
- - 😝 [Brooooo. lol](http://9gag.com/gag/a4P68Ky)
- - 💣 [In sickness and in health, till death do us part....](http://9gag.com/gag/azxdzAq)
- - 😝 [Adult vocabulary in Japanese](http://9gag.com/gag/aQzvbr2)
- - 👉 [White n tight](http://9gag.com/gag/apR3wg9)<!-- MEMES:END -->
+ - 😝 [It is not easy being an England supporter](http://9gag.com/gag/aPAmzNG)
+ - 😝 [Parkour](http://9gag.com/gag/aGyn6r6)
+ - 💣 [No illegal activities](http://9gag.com/gag/aqyXBpv)
+ - 😝 [Chad Warden](http://9gag.com/gag/ayN3we8)
+ - 👉 [The exact beginning of a new colony](http://9gag.com/gag/aoy3Awg)<!-- MEMES:END -->
 
 ---
 

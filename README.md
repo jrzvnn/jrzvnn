@@ -159,7 +159,7 @@ R                        1 repo              ░░░░░░░░░░░�
 <!-- TECH:START -->
  - [Ikea registered a Matter-over-Thread temperature sensor with the FCC](https://www.theverge.com/news/622308/ikea-matter-thread-temperature-humidity-sensor-timmerflotte)
  - [All the smart home news, reviews, and gadgets you need to know about](https://www.theverge.com/24190824/smart-home-news-reviews-guides-gadgets)
- - [Trump will speak at the first-ever White House Crypto Summit on March 7; it will be chaired by David Sacks and comes amid a global sell-off in cryptocurrencies &lpar;Axios&rpar;](http://www.techmeme.com/250301/p14#a250301p14)
+ - [President Trump plans to speak at the first-ever White House Crypto Summit on March 7, to be chaired by David Sacks, amid a global sell-off in cryptocurrencies &lpar;Axios&rpar;](http://www.techmeme.com/250301/p14#a250301p14)
  - [What can a 100-pixel video teach us about storytelling around the world?](https://www.theverge.com/art-club/621584/mumbai-modern-art-camp-cctv-video)
  - [Best Desktop Computer for 2025: Top Picks for Macs and PCs](https://www.cnet.com/tech/computing/best-desktop-computer/#ftag=CAD590a51e)<!-- TECH:END -->
 

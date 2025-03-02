@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [It\u2019s worse than swallowing a chip wrong](http://9gag.com/gag/a5Q6yOL)
+ - 😝 [Concentration camp or shared apartment?](http://9gag.com/gag/a2vw951)
  - 😝 [[Spoiler Alert!... maybe...] John Wick in Brazil? Seriously?...](http://9gag.com/gag/a345zgr)
  - 💣 [Orange](http://9gag.com/gag/a0eXzpd)
- - 😝 [Chad Warden](http://9gag.com/gag/ayN3we8)
- - 👉 [Parkour](http://9gag.com/gag/aGyn6r6)<!-- MEMES:END -->
+ - 😝 [It is not easy being an England supporter](http://9gag.com/gag/aPAmzNG)
+ - 👉 [A little Porsche easter egg.](http://9gag.com/gag/aW47enZ)<!-- MEMES:END -->
 
 ---
 

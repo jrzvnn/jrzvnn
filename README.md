@@ -166,10 +166,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Football coaches showing off](http://9gag.com/gag/amo1Z2d)
- - 😝 [This forklift certification is getting out of hand](http://9gag.com/gag/aBy6M9Z)
- - 💣 [Standing up for your rights = being argumentative](http://9gag.com/gag/aVvo6Ov)
+ - 😝 [Fact check](http://9gag.com/gag/a9y6wmD)
  - 😝 [Title](http://9gag.com/gag/an7RoBV)
+ - 💣 [A little Porsche easter egg.](http://9gag.com/gag/aW47enZ)
+ - 😝 [Standing up for your rights = being argumentative](http://9gag.com/gag/aVvo6Ov)
  - 👉 [White n tight](http://9gag.com/gag/apR3wg9)<!-- MEMES:END -->
 
 ---

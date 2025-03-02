@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Documents and interviews detail how Connor Moucka, John Binns, and Cameron Wagenius, the trio accused of hacking AT&amp;T and other Snowflake customers, met online &lpar;Bloomberg&rpar;](http://www.techmeme.com/250301/p19#a250301p19)
  - [The US GSA eliminates 18F, a government tech consultancy that helps other agencies with their tech, including the IRS&#39; Direct File, impacting about 90 employees &lpar;Natalie Alms/Nextgov/FCW&rpar;](http://www.techmeme.com/250301/p18#a250301p18)
  - [Forget the $599 iPhone 16E: Samsung&#39;s New Galaxy A Phones Are Truly Affordable](https://www.cnet.com/tech/mobile/forget-the-599-iphone-16e-samsungs-new-galaxy-a-phones-are-truly-affordable/#ftag=CAD590a51e)
  - [Samsung&#39;s Affordable Galaxy A36 and Galaxy A26 Will Get 6 Years of Software Updates](https://www.wired.com/story/samsung-galaxy-a36-and-galaxy-a26-news/)
- - [MWC 2025: all the phones, gadgets, and commentary from Barcelona](https://www.theverge.com/news/616633/mwc-2025-news-products-announcements)
- - [Samsung reveals Galaxy A56 with more AI and a modest spec bump](https://www.theverge.com/news/621957/samsung-galaxy-a56-a36-a26-launch-mwc)<!-- TECH:END -->
+ - [MWC 2025: all the phones, gadgets, and commentary from Barcelona](https://www.theverge.com/news/616633/mwc-2025-news-products-announcements)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

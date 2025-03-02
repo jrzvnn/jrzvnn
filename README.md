@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Concentration camp or shared apartment?](http://9gag.com/gag/a2vw951)
- - 😝 [It is not easy being an England supporter](http://9gag.com/gag/aPAmzNG)
- - 💣 [White n tight](http://9gag.com/gag/apR3wg9)
- - 😝 [Title](http://9gag.com/gag/an7RoBV)
- - 👉 [A major investment conference in India descended into chaos due to poor food distribution, with fights breaking out among attendees due to overcrowding and food shortages](http://9gag.com/gag/a9y6Zvm)<!-- MEMES:END -->
+ - 😝 [White n tight](http://9gag.com/gag/apR3wg9)
+ - 😝 [W Zelensky](http://9gag.com/gag/agm1be1)
+ - 💣 [It is not easy being an England supporter](http://9gag.com/gag/aPAmzNG)
+ - 😝 [Questions](http://9gag.com/gag/aoy36d2)
+ - 👉 [I have a question, for god... WHYYYY !?](http://9gag.com/gag/a0eXz4n)<!-- MEMES:END -->
 
 ---
 

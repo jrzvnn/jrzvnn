@@ -167,10 +167,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [Concentration camp or shared apartment?](http://9gag.com/gag/a2vw951)
- - 😝 [Orange](http://9gag.com/gag/a0eXzpd)
- - 💣 [A major investment conference in India descended into chaos due to poor food distribution, with fights breaking out among attendees due to overcrowding and food shortages](http://9gag.com/gag/a9y6Zvm)
- - 😝 [Is that right](http://9gag.com/gag/aGyn5AX)
- - 👉 [Understanding 0%, Understanding 100%](http://9gag.com/gag/aND98L6)<!-- MEMES:END -->
+ - 😝 [It is not easy being an England supporter](http://9gag.com/gag/aPAmzNG)
+ - 💣 [White n tight](http://9gag.com/gag/apR3wg9)
+ - 😝 [Title](http://9gag.com/gag/an7RoBV)
+ - 👉 [A major investment conference in India descended into chaos due to poor food distribution, with fights breaking out among attendees due to overcrowding and food shortages](http://9gag.com/gag/a9y6Zvm)<!-- MEMES:END -->
 
 ---
 

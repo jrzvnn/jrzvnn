@@ -166,10 +166,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Title](http://9gag.com/gag/an7RoBV)
+ - 😝 [Okey then](http://9gag.com/gag/aVvo488)
  - 😝 [White n tight](http://9gag.com/gag/apR3wg9)
  - 💣 [W Zelensky](http://9gag.com/gag/agm1be1)
- - 😝 [Standing up for your rights = being argumentative](http://9gag.com/gag/aVvo6Ov)
+ - 😝 [A little Porsche easter egg.](http://9gag.com/gag/aW47enZ)
  - 👉 [Questions](http://9gag.com/gag/aoy36d2)<!-- MEMES:END -->
 
 ---

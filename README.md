@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Grab an iPad mini 7 for $399 with new March price drops](https://appleinsider.com/articles/25/03/02/grab-an-ipad-mini-7-for-399-with-new-march-price-drops?utm_medium=rss)
  - [Trump’s first 100 days: all the news affecting the tech industry](https://www.theverge.com/24348851/donald-trump-presidency-tech-science-news)
  - [FAA staff reportedly ordered to find funding for deal with Musk’s Starlink](https://www.theverge.com/news/622502/faa-orders-staff-find-funding-starlink-verizon-deal)
  - [Sick of Overdraft Feels? These Banks Don&#39;t Charge Any](https://www.cnet.com/personal-finance/banking/best-banks-with-no-overdraft-fees/#ftag=CAD590a51e)
- - [Honor Follows Samsung and Google to Offer Seven Years of Android Updates](https://www.cnet.com/tech/mobile/exclusive-honor-follows-samsung-and-google-to-offer-seven-years-of-android-updates/#ftag=CAD590a51e)
- - [Best Internet Providers in Amarillo, Texas](https://www.cnet.com/home/internet/best-internet-providers-in-amarillo-tx/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Honor Follows Samsung and Google to Offer Seven Years of Android Updates](https://www.cnet.com/tech/mobile/exclusive-honor-follows-samsung-and-google-to-offer-seven-years-of-android-updates/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

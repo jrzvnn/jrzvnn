@@ -167,10 +167,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [W Zelensky](http://9gag.com/gag/agm1be1)
- - 😝 [A little Porsche easter egg.](http://9gag.com/gag/aW47enZ)
- - 💣 [White n tight](http://9gag.com/gag/apR3wg9)
- - 😝 [A major investment conference in India descended into chaos due to poor food distribution, with fights breaking out among attendees due to overcrowding and food shortages](http://9gag.com/gag/a9y6Zvm)
- - 👉 [Is that right](http://9gag.com/gag/aGyn5AX)<!-- MEMES:END -->
+ - 😝 [White n tight](http://9gag.com/gag/apR3wg9)
+ - 💣 [A little Porsche easter egg.](http://9gag.com/gag/aW47enZ)
+ - 😝 [Questions](http://9gag.com/gag/aoy36d2)
+ - 👉 [No illegal activities](http://9gag.com/gag/aqyXBpv)<!-- MEMES:END -->
 
 ---
 

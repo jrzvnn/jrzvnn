@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Concentration camp or shared apartment?](http://9gag.com/gag/a2vw951)
- - 😝 [[Spoiler Alert!... maybe...] John Wick in Brazil? Seriously?...](http://9gag.com/gag/a345zgr)
- - 💣 [Orange](http://9gag.com/gag/a0eXzpd)
- - 😝 [It is not easy being an England supporter](http://9gag.com/gag/aPAmzNG)
- - 👉 [A little Porsche easter egg.](http://9gag.com/gag/aW47enZ)<!-- MEMES:END -->
+ - 😝 [W Zelensky](http://9gag.com/gag/agm1be1)
+ - 😝 [Orange](http://9gag.com/gag/a0eXzpd)
+ - 💣 [Okey then](http://9gag.com/gag/aVvo488)
+ - 😝 [Standing up for your rights = being argumentative](http://9gag.com/gag/aVvo6Ov)
+ - 👉 [Chad Warden](http://9gag.com/gag/ayN3we8)<!-- MEMES:END -->
 
 ---
 

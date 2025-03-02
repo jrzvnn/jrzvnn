@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Trump’s first 100 days: all the news affecting the tech industry](https://www.theverge.com/24348851/donald-trump-presidency-tech-science-news)
  - [MWC 2025: all the phones, gadgets, and commentary from Barcelona](https://www.theverge.com/news/616633/mwc-2025-news-products-announcements)
  - [Today&#39;s NYT Strands Hints, Answers and Help for March 3, #365](https://www.cnet.com/tech/gaming/todays-nyt-strands-hints-answers-and-help-for-march-3-365/#ftag=CAD590a51e)
  - [Today&#39;s NYT Connections: Sports Edition Hints and Answers for March 3, #161](https://www.cnet.com/tech/gaming/todays-nyt-connections-sports-edition-hints-and-answers-for-march-2-160/#ftag=CAD590a51e)
- - [Best Internet Providers in Kalamazoo, Michigan](https://www.cnet.com/home/internet/best-internet-providers-in-kalamazoo-mi/#ftag=CAD590a51e)
- - [Trump’s first 100 days: all the news affecting the tech industry](https://www.theverge.com/24348851/donald-trump-presidency-tech-science-news)<!-- TECH:END -->
+ - [Best Internet Providers in Kalamazoo, Michigan](https://www.cnet.com/home/internet/best-internet-providers-in-kalamazoo-mi/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

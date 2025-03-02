@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Xiaomi launches the 6.36&quot; Xiaomi 15 and 6.73&quot; Xiaomi 15 Ultra in the EU and UK, offering the Snapdragon 8 Elite, 120Hz displays, and more, for &amp;euro;999+ and &amp;euro;1,499+ &lpar;Simon Hill/Wired&rpar;](http://www.techmeme.com/250302/p10#a250302p10)
  - [Grab an iPad mini 7 for $399 with new March price drops](https://appleinsider.com/articles/25/03/02/grab-an-ipad-mini-7-for-399-with-new-march-price-drops?utm_medium=rss)
+ - [MWC 2025: All the Phones, Wearables, Robots and AI Live From Barcelona](https://www.cnet.com/tech/mobile/mwc-2025-all-the-phones-wearables-robots-and-ai-live-from-barcelona/#ftag=CAD590a51e)
  - [Trump’s first 100 days: all the news affecting the tech industry](https://www.theverge.com/24348851/donald-trump-presidency-tech-science-news)
- - [FAA staff reportedly ordered to find funding for deal with Musk’s Starlink](https://www.theverge.com/news/622502/faa-orders-staff-find-funding-starlink-verizon-deal)
- - [Sick of Overdraft Feels? These Banks Don&#39;t Charge Any](https://www.cnet.com/personal-finance/banking/best-banks-with-no-overdraft-fees/#ftag=CAD590a51e)
- - [Honor Follows Samsung and Google to Offer Seven Years of Android Updates](https://www.cnet.com/tech/mobile/exclusive-honor-follows-samsung-and-google-to-offer-seven-years-of-android-updates/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [FAA staff reportedly ordered to find funding for deal with Musk’s Starlink](https://www.theverge.com/news/622502/faa-orders-staff-find-funding-starlink-verizon-deal)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

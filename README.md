@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [In Ireland people touch the breast on the statue of Molly Malone because it&#39;s said to bring good luck. Feminists campaign to stop what they call a \u201cmisogynistic tradition\u201d. This made me think of when C. Proudman also complained and people then answered with these pictures.](http://9gag.com/gag/ayN3w8M)
- - 😝 [Fiona](http://9gag.com/gag/a1mNgg8)
- - 💣 [In sickness and in health, till death do us part....](http://9gag.com/gag/azxdzAq)
- - 😝 [White n tight](http://9gag.com/gag/apR3wg9)
- - 👉 [My Son Found His First Favorite Stick... Let\u2019s Prove to My Wife That This Is a Big Deal.](http://9gag.com/gag/adB1zNV)<!-- MEMES:END -->
+ - 😝 [Is that right](http://9gag.com/gag/aGyn5AX)
+ - 😝 [It is not easy being an England supporter](http://9gag.com/gag/aPAmzNG)
+ - 💣 [Concentration camp or shared apartment?](http://9gag.com/gag/a2vw951)
+ - 😝 [A major investment conference in India descended into chaos due to poor food distribution, with fights breaking out among attendees due to overcrowding and food shortages](http://9gag.com/gag/a9y6Zvm)
+ - 👉 [Questions](http://9gag.com/gag/aoy36d2)<!-- MEMES:END -->
 
 ---
 

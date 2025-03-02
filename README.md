@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Brooooo. lol](http://9gag.com/gag/a4P68Ky)
- - 😝 [In sickness and in health, till death do us part....](http://9gag.com/gag/azxdzAq)
- - 💣 [Fiona](http://9gag.com/gag/a1mNgg8)
- - 😝 [In Ireland people touch the breast on the statue of Molly Malone because it&#39;s said to bring good luck. Feminists campaign to stop what they call a \u201cmisogynistic tradition\u201d. This made me think of when C. Proudman also complained and people then answered with these pictures.](http://9gag.com/gag/ayN3w8M)
- - 👉 [Latvian passport under UV light](http://9gag.com/gag/aO8e5Mr)<!-- MEMES:END -->
+ - 😝 [Concentration camp or shared apartment?](http://9gag.com/gag/a2vw951)
+ - 😝 [Orange](http://9gag.com/gag/a0eXzpd)
+ - 💣 [A major investment conference in India descended into chaos due to poor food distribution, with fights breaking out among attendees due to overcrowding and food shortages](http://9gag.com/gag/a9y6Zvm)
+ - 😝 [Is that right](http://9gag.com/gag/aGyn5AX)
+ - 👉 [Understanding 0%, Understanding 100%](http://9gag.com/gag/aND98L6)<!-- MEMES:END -->
 
 ---
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [How tech companies moving to or investing in Texas, attracted by lower taxes and fewer regulations on land use and labor, are transforming the state&#39;s economy &lpar;Harriet Torry/Wall Street Journal&rpar;](http://www.techmeme.com/250302/p5#a250302p5)
+ - [These Plants Photosynthesize Deep in the Arctic Even When There’s No Light](https://www.wired.com/story/how-does-life-happen-when-theres-barely-any-light/)
  - [MWC 2025: all the phones, gadgets, and commentary from Barcelona](https://www.theverge.com/news/616633/mwc-2025-news-products-announcements)
  - [Today&#39;s Wordle Hints, Answer and Help for March 3, #1353](https://www.cnet.com/tech/gaming/todays-wordle-hints-answer-and-help-for-march-3-1353/#ftag=CAD590a51e)
- - [How AI, which makes intelligence ubiquitous and practically free, could upend the economy, which is built on the idea that expertise is scarce and expensive &lpar;Azeem Azhar/Bloomberg&rpar;](http://www.techmeme.com/250302/p4#a250302p4)
- - [DeepSeek, OpenAI, and others building smaller, powerful models quickly and cheaply using &quot;distillation&quot; raises questions about LLMs&#39; first-mover advantage &lpar;Financial Times&rpar;](http://www.techmeme.com/250302/p3#a250302p3)
- - [Mastercard withdrew its commitment to invest $100M in 54 Collective, a top VC firm in Africa, where startup funding fell from $4.6B in 2022 to $2.2B in 2024 &lpar;Damilare Dosunmu/Rest of World&rpar;](http://www.techmeme.com/250302/p2#a250302p2)<!-- TECH:END -->
+ - [How AI, which makes intelligence ubiquitous and practically free, could upend the economy, which is built on the idea that expertise is scarce and expensive &lpar;Azeem Azhar/Bloomberg&rpar;](http://www.techmeme.com/250302/p4#a250302p4)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

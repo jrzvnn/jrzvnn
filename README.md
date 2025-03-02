@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Chad Warden](http://9gag.com/gag/ayN3we8)
- - 😝 [[Spoiler Alert!... maybe...] John Wick in Brazil? Seriously?...](http://9gag.com/gag/a345zgr)
- - 💣 [Fact check](http://9gag.com/gag/a9y6wmD)
+ - 😝 [Fact check](http://9gag.com/gag/a9y6wmD)
+ - 😝 [This forklift certification is getting out of hand](http://9gag.com/gag/aBy6M9Z)
+ - 💣 [W Zelensky](http://9gag.com/gag/agm1be1)
  - 😝 [Title](http://9gag.com/gag/an7RoBV)
- - 👉 [Questions](http://9gag.com/gag/aoy36d2)<!-- MEMES:END -->
+ - 👉 [White n tight](http://9gag.com/gag/apR3wg9)<!-- MEMES:END -->
 
 ---
 

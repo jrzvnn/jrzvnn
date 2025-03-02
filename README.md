@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The US GSA eliminates 18F, a government tech consultancy that helps other agencies with their tech, including the IRS&#39; Direct File, impacting about 90 employees &lpar;Natalie Alms/Nextgov/FCW&rpar;](http://www.techmeme.com/250301/p18#a250301p18)
+ - [Forget the $599 iPhone 16E: Samsung&#39;s New Galaxy A Phones Are Truly Affordable](https://www.cnet.com/tech/mobile/forget-the-599-iphone-16e-samsungs-new-galaxy-a-phones-are-truly-affordable/#ftag=CAD590a51e)
  - [Samsung&#39;s Affordable Galaxy A36 and Galaxy A26 Will Get 6 Years of Software Updates](https://www.wired.com/story/samsung-galaxy-a36-and-galaxy-a26-news/)
  - [MWC 2025: all the phones, gadgets, and commentary from Barcelona](https://www.theverge.com/news/616633/mwc-2025-news-products-announcements)
- - [Samsung reveals Galaxy A56 with more AI and a modest spec bump](https://www.theverge.com/news/621957/samsung-galaxy-a56-a36-a26-launch-mwc)
- - [The Ethereum Foundation selects two new co-executive directors, and Executive Director Aya Miyaguchi becomes president, following calls for new leadership &lpar;Margaux Nijkerk/CoinDesk&rpar;](http://www.techmeme.com/250301/p17#a250301p17)
- - [A profile of Sheikh Tahnoon bin Zayed Al Nahyan, who leads the UAE&#39;s AI fund MGX, which has backed Stargate and sources say is set to be infused with over $50B &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/250301/p16#a250301p16)<!-- TECH:END -->
+ - [Samsung reveals Galaxy A56 with more AI and a modest spec bump](https://www.theverge.com/news/621957/samsung-galaxy-a56-a36-a26-launch-mwc)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

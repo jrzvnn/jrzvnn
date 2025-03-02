@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [President Trump names XRP, Solana, and Cardano as three assets to be included in a strategic US crypto reserve, but does not mention Bitcoin or Ethereum &lpar;Nikhilesh De/CoinDesk&rpar;](http://www.techmeme.com/250302/p8#a250302p8)
- - [Exclusive: Honor Debuts a New AI Agent That Can Read and Understand Your Screen](https://www.wired.com/story/exclusive-look-at-honor-ai-mwc-2025/)
+ - [Honor pledges $10B in AI investments over the next five years and demos a proof of concept AI agent, powered by Gemini 2, that can book restaurant reservations &lpar;Arjun Kharpal/CNBC&rpar;](http://www.techmeme.com/250302/p9#a250302p9)
+ - [President Trump names Bitcoin, Ethereum, XRP, Solana, and Cardano as assets to be included in a strategic US crypto reserve &lpar;Nikhilesh De/CoinDesk&rpar;](http://www.techmeme.com/250302/p8#a250302p8)
+ - [Honor&#39;s New AI Agent Can Read and Understand Your Screen](https://www.wired.com/story/exclusive-look-at-honor-ai-mwc-2025/)
  - [Xiaomi brings its 15 and 15 Ultra flagships to Europe — but the US misses out](https://www.theverge.com/news/622406/xiaomi-15-ultra-pad-7-launch-europe-price-mwc)
- - [Siri&amp;#8217;s real AI upgrade could still be years away](https://www.theverge.com/news/622465/siris-real-ai-upgrade-could-still-be-years-away)
- - [An in-depth look at Apple&#39;s AI crisis, as some in Apple&#39;s AI division believe that a true conversational &quot;LLM Siri&quot; won&#39;t be ready until iOS 20 at best in 2027 &lpar;Mark Gurman/Bloomberg&rpar;](http://www.techmeme.com/250302/p7#a250302p7)<!-- TECH:END -->
+ - [Siri&amp;#8217;s real AI upgrade could still be years away](https://www.theverge.com/news/622465/siris-real-ai-upgrade-could-still-be-years-away)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

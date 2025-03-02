@@ -167,10 +167,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [Fact check](http://9gag.com/gag/a9y6wmD)
- - 😝 [This forklift certification is getting out of hand](http://9gag.com/gag/aBy6M9Z)
- - 💣 [W Zelensky](http://9gag.com/gag/agm1be1)
- - 😝 [Title](http://9gag.com/gag/an7RoBV)
- - 👉 [White n tight](http://9gag.com/gag/apR3wg9)<!-- MEMES:END -->
+ - 😝 [Hollywood Trolls](http://9gag.com/gag/abA1LVp)
+ - 💣 [A little Porsche easter egg.](http://9gag.com/gag/aW47enZ)
+ - 😝 [White n tight](http://9gag.com/gag/apR3wg9)
+ - 👉 [Title](http://9gag.com/gag/an7RoBV)<!-- MEMES:END -->
 
 ---
 

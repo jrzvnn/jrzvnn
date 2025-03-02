@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Chad Warden](http://9gag.com/gag/ayN3we8)
- - 😝 [Standing up for your rights = being argumentative](http://9gag.com/gag/aVvo6Ov)
- - 💣 [You gotta be at least 35 to understand the meme](http://9gag.com/gag/aVvoyz2)
- - 😝 [Title](http://9gag.com/gag/an7RoBV)
- - 👉 [White n tight](http://9gag.com/gag/apR3wg9)<!-- MEMES:END -->
+ - 😝 [W Zelensky](http://9gag.com/gag/agm1be1)
+ - 😝 [So much sadness](http://9gag.com/gag/ae91wxB)
+ - 💣 [Road tax \ud83d\ude05](http://9gag.com/gag/agm1eQv)
+ - 😝 [White n tight](http://9gag.com/gag/apR3wg9)
+ - 👉 [Fact check](http://9gag.com/gag/a9y6wmD)<!-- MEMES:END -->
 
 ---
 

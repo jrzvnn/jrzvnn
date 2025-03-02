@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Honor pledges $10B in AI investments over the next five years and demos a proof of concept AI agent, powered by Gemini 2, that can book restaurant reservations &lpar;Arjun Kharpal/CNBC&rpar;](http://www.techmeme.com/250302/p9#a250302p9)
- - [President Trump names Bitcoin, Ethereum, XRP, Solana, and Cardano as assets to be included in a strategic US crypto reserve &lpar;CoinDesk&rpar;](http://www.techmeme.com/250302/p8#a250302p8)
- - [Honor&#39;s New AI Agent Can Read and Understand Your Screen](https://www.wired.com/story/exclusive-look-at-honor-ai-mwc-2025/)
- - [Xiaomi brings its 15 and 15 Ultra flagships to Europe — but the US misses out](https://www.theverge.com/news/622406/xiaomi-15-ultra-pad-7-launch-europe-price-mwc)
- - [Siri&amp;#8217;s real AI upgrade could still be years away](https://www.theverge.com/news/622465/siris-real-ai-upgrade-could-still-be-years-away)<!-- TECH:END -->
+ - [Trump’s first 100 days: all the news affecting the tech industry](https://www.theverge.com/24348851/donald-trump-presidency-tech-science-news)
+ - [FAA staff reportedly ordered to find funding for deal with Musk’s Starlink](https://www.theverge.com/news/622502/faa-orders-staff-find-funding-starlink-verizon-deal)
+ - [Sick of Overdraft Feels? These Banks Don&#39;t Charge Any](https://www.cnet.com/personal-finance/banking/best-banks-with-no-overdraft-fees/#ftag=CAD590a51e)
+ - [Honor Follows Samsung and Google to Offer Seven Years of Android Updates](https://www.cnet.com/tech/mobile/exclusive-honor-follows-samsung-and-google-to-offer-seven-years-of-android-updates/#ftag=CAD590a51e)
+ - [Best Internet Providers in Amarillo, Texas](https://www.cnet.com/home/internet/best-internet-providers-in-amarillo-tx/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

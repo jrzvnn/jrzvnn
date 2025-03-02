@@ -166,10 +166,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [You gotta be at least 35 to understand the meme](http://9gag.com/gag/aVvoyz2)
+ - 😝 [Chad Warden](http://9gag.com/gag/ayN3we8)
  - 😝 [[Spoiler Alert!... maybe...] John Wick in Brazil? Seriously?...](http://9gag.com/gag/a345zgr)
- - 💣 [A little Porsche easter egg.](http://9gag.com/gag/aW47enZ)
- - 😝 [White n tight](http://9gag.com/gag/apR3wg9)
+ - 💣 [Fact check](http://9gag.com/gag/a9y6wmD)
+ - 😝 [Title](http://9gag.com/gag/an7RoBV)
  - 👉 [Questions](http://9gag.com/gag/aoy36d2)<!-- MEMES:END -->
 
 ---

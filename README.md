@@ -166,10 +166,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [When there&#39;s no brief about the project and you assign the newbie for it.](http://9gag.com/gag/aO8e5jv)
- - 😝 [Road tax \ud83d\ude05](http://9gag.com/gag/agm1eQv)
- - 💣 [Fact check](http://9gag.com/gag/a9y6wmD)
- - 😝 [W Zelensky](http://9gag.com/gag/agm1be1)
+ - 😝 [In a wooded area near Livorno, in the Tuscan region, a hiker ran into a terracotta vessel full of 175 Roman silver denarius. The coins date from between 157 a. C. and 82 a. C.](http://9gag.com/gag/aVvopOO)
+ - 😝 [He presented hard evidence but cops still weren&#39;t convinced](http://9gag.com/gag/avy1KDZ)
+ - 💣 [Stock market on Monday x2](http://9gag.com/gag/azxdwqj)
+ - 😝 [Fight together, die together](http://9gag.com/gag/aBy6AQ1)
  - 👉 [Questions](http://9gag.com/gag/aoy36d2)<!-- MEMES:END -->
 
 ---

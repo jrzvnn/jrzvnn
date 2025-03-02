@@ -166,10 +166,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Fact check](http://9gag.com/gag/a9y6wmD)
- - 😝 [Hollywood Trolls](http://9gag.com/gag/abA1LVp)
- - 💣 [A little Porsche easter egg.](http://9gag.com/gag/aW47enZ)
- - 😝 [White n tight](http://9gag.com/gag/apR3wg9)
+ - 😝 [W Zelensky](http://9gag.com/gag/agm1be1)
+ - 😝 [Football coaches showing off](http://9gag.com/gag/amo1Z2d)
+ - 💣 [White n tight](http://9gag.com/gag/apR3wg9)
+ - 😝 [A little Porsche easter egg.](http://9gag.com/gag/aW47enZ)
  - 👉 [Title](http://9gag.com/gag/an7RoBV)<!-- MEMES:END -->
 
 ---

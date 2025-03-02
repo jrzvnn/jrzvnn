@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [In a wooded area near Livorno, in the Tuscan region, a hiker ran into a terracotta vessel full of 175 Roman silver denarius. The coins date from between 157 a. C. and 82 a. C.](http://9gag.com/gag/aVvopOO)
- - 😝 [W Zelensky](http://9gag.com/gag/agm1be1)
- - 💣 [Standing up for your rights = being argumentative](http://9gag.com/gag/aVvo6Ov)
- - 😝 [White n tight](http://9gag.com/gag/apR3wg9)
- - 👉 [Questions](http://9gag.com/gag/aoy36d2)<!-- MEMES:END -->
+ - 😝 [Football coaches showing off](http://9gag.com/gag/amo1Z2d)
+ - 😝 [Road tax \ud83d\ude05](http://9gag.com/gag/agm1eQv)
+ - 💣 [You gotta be at least 35 to understand the meme](http://9gag.com/gag/aVvoyz2)
+ - 😝 [Stock market on Monday x2](http://9gag.com/gag/azxdwqj)
+ - 👉 [W Zelensky](http://9gag.com/gag/agm1be1)<!-- MEMES:END -->
 
 ---
 

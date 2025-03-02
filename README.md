@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Fiona](http://9gag.com/gag/a1mNgg8)
- - 😝 [Standing up for your rights = being argumentative](http://9gag.com/gag/aVvo6Ov)
- - 💣 [Title](http://9gag.com/gag/an7RoBV)
- - 😝 [White n tight](http://9gag.com/gag/apR3wg9)
- - 👉 [Mia Khalifa: `I was rap**`.](http://9gag.com/gag/a1mNgBb)<!-- MEMES:END -->
+ - 😝 [W Zelensky](http://9gag.com/gag/agm1be1)
+ - 😝 [A little Porsche easter egg.](http://9gag.com/gag/aW47enZ)
+ - 💣 [White n tight](http://9gag.com/gag/apR3wg9)
+ - 😝 [A major investment conference in India descended into chaos due to poor food distribution, with fights breaking out among attendees due to overcrowding and food shortages](http://9gag.com/gag/a9y6Zvm)
+ - 👉 [Is that right](http://9gag.com/gag/aGyn5AX)<!-- MEMES:END -->
 
 ---
 

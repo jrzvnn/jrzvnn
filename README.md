@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Tired of the political spam. Enjoy a trip down memory lane.](http://9gag.com/gag/apR3MzD)
- - 😝 [Standing up for your rights = being argumentative](http://9gag.com/gag/aVvo6Ov)
- - 💣 [Title](http://9gag.com/gag/an7RoBV)
+ - 😝 [Title](http://9gag.com/gag/an7RoBV)
  - 😝 [White n tight](http://9gag.com/gag/apR3wg9)
- - 👉 [Mia Khalifa: `I was rap**`.](http://9gag.com/gag/a1mNgBb)<!-- MEMES:END -->
+ - 💣 [W Zelensky](http://9gag.com/gag/agm1be1)
+ - 😝 [Standing up for your rights = being argumentative](http://9gag.com/gag/aVvo6Ov)
+ - 👉 [Questions](http://9gag.com/gag/aoy36d2)<!-- MEMES:END -->
 
 ---
 

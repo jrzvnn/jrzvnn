@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Unarmed guard stops man with AR-15-type gun from entering NY clinic](http://9gag.com/gag/azxdWKZ)
+ - 😝 [He presented hard evidence but cops still weren&#39;t convinced](http://9gag.com/gag/avy1KDZ)
  - 😝 [Questions](http://9gag.com/gag/aoy36d2)
- - 💣 [Fight together, die together](http://9gag.com/gag/aBy6AQ1)
- - 😝 [Me too, lady. Me too\u2026](http://9gag.com/gag/avy1VvE)
- - 👉 [White n tight](http://9gag.com/gag/apR3wg9)<!-- MEMES:END -->
+ - 💣 [Me too, lady. Me too\u2026](http://9gag.com/gag/avy1VvE)
+ - 😝 [Fight together, die together](http://9gag.com/gag/aBy6AQ1)
+ - 👉 [Mercury on aluminum cup](http://9gag.com/gag/aLnzZ4x)<!-- MEMES:END -->
 
 ---
 

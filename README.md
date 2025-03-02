@@ -166,10 +166,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [W Zelensky](http://9gag.com/gag/agm1be1)
- - 😝 [Football coaches showing off](http://9gag.com/gag/amo1Z2d)
+ - 😝 [[Spoiler Alert!... maybe...] John Wick in Brazil? Seriously?...](http://9gag.com/gag/a345zgr)
+ - 😝 [You need a bath, woman](http://9gag.com/gag/ae91wXj)
  - 💣 [White n tight](http://9gag.com/gag/apR3wg9)
- - 😝 [A little Porsche easter egg.](http://9gag.com/gag/aW47enZ)
+ - 😝 [Standing up for your rights = being argumentative](http://9gag.com/gag/aVvo6Ov)
  - 👉 [Title](http://9gag.com/gag/an7RoBV)<!-- MEMES:END -->
 
 ---

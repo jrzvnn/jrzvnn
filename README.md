@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Football coaches showing off](http://9gag.com/gag/amo1Z2d)
+ - 😝 [Fact check](http://9gag.com/gag/a9y6wmD)
+ - 😝 [Road tax \ud83d\ude05](http://9gag.com/gag/agm1eQv)
+ - 💣 [This forklift certification is getting out of hand](http://9gag.com/gag/aBy6M9Z)
  - 😝 [Standing up for your rights = being argumentative](http://9gag.com/gag/aVvo6Ov)
- - 💣 [Fact check](http://9gag.com/gag/a9y6wmD)
- - 😝 [Splinter](http://9gag.com/gag/a345677)
- - 👉 [This forklift certification is getting out of hand](http://9gag.com/gag/aBy6M9Z)<!-- MEMES:END -->
+ - 👉 [This is pure satisfaction.](http://9gag.com/gag/aD26Kmd)<!-- MEMES:END -->
 
 ---
 

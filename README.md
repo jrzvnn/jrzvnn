@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Rewind Cassette Player Review: The Best Portable Tape Player](https://www.wired.com/review/review-rewind-cassette-player/)
+ - [Our favorite speakers, headphones, and other music gear](https://www.theverge.com/installer-newsletter/621782/best-speakers-headphones-music-gear-installer)
  - [Can Algorithms, a Touchscreen, and an Internet Connection Make the Perfect Piece of Toast?](https://www.wired.com/story/high-tech-toast/)
  - [How tech companies moving to or investing in Texas, attracted by lower taxes and fewer regulations on land use and labor, are transforming the state&#39;s economy &lpar;Harriet Torry/Wall Street Journal&rpar;](http://www.techmeme.com/250302/p5#a250302p5)
- - [These Plants Photosynthesize Deep in the Arctic Even When There’s No Light](https://www.wired.com/story/how-does-life-happen-when-theres-barely-any-light/)
- - [MWC 2025: all the phones, gadgets, and commentary from Barcelona](https://www.theverge.com/news/616633/mwc-2025-news-products-announcements)
- - [Today&#39;s Wordle Hints, Answer and Help for March 3, #1353](https://www.cnet.com/tech/gaming/todays-wordle-hints-answer-and-help-for-march-3-1353/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [These Plants Photosynthesize Deep in the Arctic Even When There’s No Light](https://www.wired.com/story/how-does-life-happen-when-theres-barely-any-light/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

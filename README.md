@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [No illegal activities](http://9gag.com/gag/aqyXBpv)
- - 😝 [I have a question, for god... WHYYYY !?](http://9gag.com/gag/a0eXz4n)
- - 💣 [Okey then](http://9gag.com/gag/aVvo488)
- - 😝 [Standing up for your rights = being argumentative](http://9gag.com/gag/aVvo6Ov)
- - 👉 [Questions](http://9gag.com/gag/aoy36d2)<!-- MEMES:END -->
+ - 😝 [White n tight](http://9gag.com/gag/apR3wg9)
+ - 😝 [A little Porsche easter egg.](http://9gag.com/gag/aW47enZ)
+ - 💣 [Standing up for your rights = being argumentative](http://9gag.com/gag/aVvo6Ov)
+ - 😝 [A major investment conference in India descended into chaos due to poor food distribution, with fights breaking out among attendees due to overcrowding and food shortages](http://9gag.com/gag/a9y6Zvm)
+ - 👉 [I have a question, for god... WHYYYY !?](http://9gag.com/gag/a0eXz4n)<!-- MEMES:END -->
 
 ---
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [When there&#39;s no brief about the project and you assign the newbie for it.](http://9gag.com/gag/aO8e5jv)
+ - 😝 [Road tax \ud83d\ude05](http://9gag.com/gag/agm1eQv)
+ - 💣 [Fact check](http://9gag.com/gag/a9y6wmD)
  - 😝 [W Zelensky](http://9gag.com/gag/agm1be1)
- - 😝 [So much sadness](http://9gag.com/gag/ae91wxB)
- - 💣 [Road tax \ud83d\ude05](http://9gag.com/gag/agm1eQv)
- - 😝 [White n tight](http://9gag.com/gag/apR3wg9)
- - 👉 [Fact check](http://9gag.com/gag/a9y6wmD)<!-- MEMES:END -->
+ - 👉 [Questions](http://9gag.com/gag/aoy36d2)<!-- MEMES:END -->
 
 ---
 

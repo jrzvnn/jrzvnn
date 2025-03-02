@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [CrowdStrike: in 2024, 79% of cyber intrusions were malware-free, up from 40% in 2019, voice phishing overtook phishing as the main first access method, and more &lpar;Duncan Riley/SiliconANGLE&rpar;](http://www.techmeme.com/250302/p11#a250302p11)
+ - [MWC 2025: all the phones, gadgets, and commentary from Barcelona](https://www.theverge.com/news/616633/mwc-2025-news-products-announcements)
  - [Trump’s first 100 days: all the news affecting the tech industry](https://www.theverge.com/24348851/donald-trump-presidency-tech-science-news)
- - [This Jacket Charges Your Phone With Solar Energy and Makes You Look Like a Jedi](https://www.cnet.com/tech/mobile/this-jacket-charges-your-phone-with-solar-energy-and-makes-you-look-like-a-jedi/#ftag=CAD590a51e)
- - [Today&#39;s NYT Connections Hints, Answers and Help for March 3, #631](https://www.cnet.com/tech/gaming/todays-nyt-connections-hints-answers-and-help-for-march-3-631/#ftag=CAD590a51e)
- - [MWC 2025: all the phones, gadgets, and commentary from Barcelona](https://www.theverge.com/news/616633/mwc-2025-news-products-announcements)<!-- TECH:END -->
+ - [Lenovo&#39;s Latest Laptop Concept Has a Screen That Can Flip and Fold](https://www.wired.com/story/lenovo-mwc-2025-thinkbook-flip-yoga-solar-pc-magic-bay/)
+ - [Lenovo’s new concept laptop can be charged by the sun](https://www.theverge.com/news/621693/lenovo-laptop-concept-yoga-solar-power-mwc)
+ - [Lenovo’s ThinkPad X13 gets even lighter](https://www.theverge.com/news/622102/lenovo-thinkpad-x13-gen-6-t14s-2-in-1-laptops-mwc)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

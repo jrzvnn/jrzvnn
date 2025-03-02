@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Fact check](http://9gag.com/gag/a9y6wmD)
- - 😝 [Title](http://9gag.com/gag/an7RoBV)
- - 💣 [A little Porsche easter egg.](http://9gag.com/gag/aW47enZ)
- - 😝 [Standing up for your rights = being argumentative](http://9gag.com/gag/aVvo6Ov)
- - 👉 [White n tight](http://9gag.com/gag/apR3wg9)<!-- MEMES:END -->
+ - 😝 [Chad Warden](http://9gag.com/gag/ayN3we8)
+ - 😝 [The Duck Maker](http://9gag.com/gag/apR3MXn)
+ - 💣 [Latvian passport under UV light](http://9gag.com/gag/aO8e5Mr)
+ - 😝 [You gotta be at least 35 to understand the meme](http://9gag.com/gag/aVvoyz2)
+ - 👉 [For the guy who posted the boring explanation about Aral Sea](http://9gag.com/gag/axy3qy1)<!-- MEMES:END -->
 
 ---
 

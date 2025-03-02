@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Parkour](http://9gag.com/gag/aGyn6r6)
- - 😝 [A major investment conference in India descended into chaos due to poor food distribution, with fights breaking out among attendees due to overcrowding and food shortages](http://9gag.com/gag/a9y6Zvm)
- - 💣 [W Zelensky](http://9gag.com/gag/agm1be1)
  - 😝 [Fact check](http://9gag.com/gag/a9y6wmD)
- - 👉 [It is not easy being an England supporter](http://9gag.com/gag/aPAmzNG)<!-- MEMES:END -->
+ - 😝 [W Zelensky](http://9gag.com/gag/agm1be1)
+ - 💣 [It is not easy being an England supporter](http://9gag.com/gag/aPAmzNG)
+ - 😝 [Parkour](http://9gag.com/gag/aGyn6r6)
+ - 👉 [White n tight](http://9gag.com/gag/apR3wg9)<!-- MEMES:END -->
 
 ---
 

@@ -161,7 +161,7 @@ R                        1 repo              ░░░░░░░░░░░�
  - [HMD’s new earbuds can top off your phone’s battery](https://www.theverge.com/news/622443/hmd-amped-earbuds-battery-case-qi2-charging)
  - [Mustard Made Lowdown Locker Review: Stylish Storage](https://www.wired.com/review/mustard-made-the-lowdown/)
  - [Some parents are teaching their children how to use AI chatbots so they are prepared to deploy the tools responsibly as personal assistants when they are older &lpar;Aaron Mok/The Guardian&rpar;](http://www.techmeme.com/250302/p6#a250302p6)
- - [I Tested the Xiaomi 15 Ultra for 2 Weeks: Here&#39;s Everything You Need to Know](https://www.cnet.com/tech/mobile/i-tested-the-xiaomi-15-ultra-for-2-weeks-heres-everything-you-need-to-know/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Xiaomi 15 and 15 Ultra Review: Photography Focus](https://www.wired.com/review/xiaomi-15-and-xiaomi-15-ultra/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -166,9 +166,9 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Okey then](http://9gag.com/gag/aVvo488)
- - 😝 [Concentration camp or shared apartment?](http://9gag.com/gag/a2vw951)
- - 💣 [It is not easy being an England supporter](http://9gag.com/gag/aPAmzNG)
+ - 😝 [No illegal activities](http://9gag.com/gag/aqyXBpv)
+ - 😝 [I have a question, for god... WHYYYY !?](http://9gag.com/gag/a0eXz4n)
+ - 💣 [Okey then](http://9gag.com/gag/aVvo488)
  - 😝 [Standing up for your rights = being argumentative](http://9gag.com/gag/aVvo6Ov)
  - 👉 [Questions](http://9gag.com/gag/aoy36d2)<!-- MEMES:END -->
 

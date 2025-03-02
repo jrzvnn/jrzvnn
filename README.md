@@ -158,10 +158,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- TECH:START -->
  - [Trump’s first 100 days: all the news affecting the tech industry](https://www.theverge.com/24348851/donald-trump-presidency-tech-science-news)
+ - [This Jacket Charges Your Phone With Solar Energy and Makes You Look Like a Jedi](https://www.cnet.com/tech/mobile/this-jacket-charges-your-phone-with-solar-energy-and-makes-you-look-like-a-jedi/#ftag=CAD590a51e)
+ - [Today&#39;s NYT Connections Hints, Answers and Help for March 3, #631](https://www.cnet.com/tech/gaming/todays-nyt-connections-hints-answers-and-help-for-march-3-631/#ftag=CAD590a51e)
  - [MWC 2025: all the phones, gadgets, and commentary from Barcelona](https://www.theverge.com/news/616633/mwc-2025-news-products-announcements)
- - [Today&#39;s NYT Strands Hints, Answers and Help for March 3, #365](https://www.cnet.com/tech/gaming/todays-nyt-strands-hints-answers-and-help-for-march-3-365/#ftag=CAD590a51e)
- - [Today&#39;s NYT Connections: Sports Edition Hints and Answers for March 3, #161](https://www.cnet.com/tech/gaming/todays-nyt-connections-sports-edition-hints-and-answers-for-march-2-160/#ftag=CAD590a51e)
- - [Best Internet Providers in Kalamazoo, Michigan](https://www.cnet.com/home/internet/best-internet-providers-in-kalamazoo-mi/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Today&#39;s NYT Strands Hints, Answers and Help for March 3, #365](https://www.cnet.com/tech/gaming/todays-nyt-strands-hints-answers-and-help-for-march-3-365/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

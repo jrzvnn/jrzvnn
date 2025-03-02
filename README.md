@@ -158,10 +158,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- TECH:START -->
  - [MWC 2025: all the phones, gadgets, and commentary from Barcelona](https://www.theverge.com/news/616633/mwc-2025-news-products-announcements)
+ - [Infinix’s new concepts use solar power to charge your phone](https://www.theverge.com/news/622581/infinix-solar-phone-case-concept-mwc)
+ - [Instagram’s Threads: all the updates on the new Twitter competitor](https://www.theverge.com/2023/7/5/23784480/threads-instagram-meta-news-twitter-competitor)
  - [Trump’s first 100 days: all the news affecting the tech industry](https://www.theverge.com/24348851/donald-trump-presidency-tech-science-news)
- - [Lenovo&#39;s Latest Laptop Concept Has a Screen That Can Flip and Fold](https://www.wired.com/story/lenovo-mwc-2025-thinkbook-flip-yoga-solar-pc-magic-bay/)
- - [Lenovo’s new concept laptop can be charged by the sun](https://www.theverge.com/news/621693/lenovo-laptop-concept-yoga-solar-power-mwc)
- - [Lenovo’s ThinkPad X13 gets even lighter](https://www.theverge.com/news/622102/lenovo-thinkpad-x13-gen-6-t14s-2-in-1-laptops-mwc)<!-- TECH:END -->
+ - [Lenovo&#39;s Latest Laptop Concept Has a Screen That Can Flip and Fold](https://www.wired.com/story/lenovo-mwc-2025-thinkbook-flip-yoga-solar-pc-magic-bay/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

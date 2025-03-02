@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [W Zelensky](http://9gag.com/gag/agm1be1)
- - 😝 [Orange](http://9gag.com/gag/a0eXzpd)
- - 💣 [Okey then](http://9gag.com/gag/aVvo488)
- - 😝 [Standing up for your rights = being argumentative](http://9gag.com/gag/aVvo6Ov)
- - 👉 [Chad Warden](http://9gag.com/gag/ayN3we8)<!-- MEMES:END -->
+ - 😝 [Brooooo. lol](http://9gag.com/gag/a4P68Ky)
+ - 😝 [In sickness and in health, till death do us part....](http://9gag.com/gag/azxdzAq)
+ - 💣 [Fiona](http://9gag.com/gag/a1mNgg8)
+ - 😝 [In Ireland people touch the breast on the statue of Molly Malone because it&#39;s said to bring good luck. Feminists campaign to stop what they call a \u201cmisogynistic tradition\u201d. This made me think of when C. Proudman also complained and people then answered with these pictures.](http://9gag.com/gag/ayN3w8M)
+ - 👉 [Latvian passport under UV light](http://9gag.com/gag/aO8e5Mr)<!-- MEMES:END -->
 
 ---
 

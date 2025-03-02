@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [The exact beginning of a new colony](http://9gag.com/gag/aoy3Awg)
- - 😝 [Orange](http://9gag.com/gag/a0eXzpd)
- - 💣 [Fact check](http://9gag.com/gag/a9y6wmD)
- - 😝 [Hollywood can&#39;t make films like this anymore [King of New York 1990]](http://9gag.com/gag/agm19Vv)
- - 👉 [Concentration camp or shared apartment?](http://9gag.com/gag/a2vw951)<!-- MEMES:END -->
+ - 😝 [Parkour](http://9gag.com/gag/aGyn6r6)
+ - 😝 [A major investment conference in India descended into chaos due to poor food distribution, with fights breaking out among attendees due to overcrowding and food shortages](http://9gag.com/gag/a9y6Zvm)
+ - 💣 [W Zelensky](http://9gag.com/gag/agm1be1)
+ - 😝 [Fact check](http://9gag.com/gag/a9y6wmD)
+ - 👉 [It is not easy being an England supporter](http://9gag.com/gag/aPAmzNG)<!-- MEMES:END -->
 
 ---
 

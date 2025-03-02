@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Mastercard withdrew its commitment to invest $100M in 54 Collective, a top VC firm in Africa, where startup funding fell from $4.6B in 2022 to $2.2B in 2024 &lpar;Damilare Dosunmu/Rest of World&rpar;](http://www.techmeme.com/250302/p2#a250302p2)
  - [Zurich-based Unique, which offers AI agents for financial firms, raised a $30M Series A co-led by CommerzVentures and DN Capital to support its US expansion &lpar;Paul Sawers/TechCrunch&rpar;](http://www.techmeme.com/250302/p1#a250302p1)
  - [Samsung announces Galaxy A56, A36, and A26 smartphones with new AI image editing features and support for up to six years of Android OS and security upgrades &lpar;Emma Roth/The Verge&rpar;](http://www.techmeme.com/250301/p21#a250301p21)
  - [A look at China&#39;s &quot;Fantastic Four&quot;, the founders of DeepSeek, Unitree, ByteDance, and DJI, who are grouped together partly because they were educated in China &lpar;Ben Jiang/South China Morning Post&rpar;](http://www.techmeme.com/250301/p20#a250301p20)
- - [Documents and interviews detail how Connor Moucka, John Binns, and Cameron Wagenius, the trio accused of hacking AT&amp;T and other Snowflake customers, met online &lpar;Bloomberg&rpar;](http://www.techmeme.com/250301/p19#a250301p19)
- - [The US GSA eliminates 18F, a government tech consultancy that helps other agencies with their tech, including the IRS&#39; Direct File, impacting about 90 employees &lpar;Natalie Alms/Nextgov/FCW&rpar;](http://www.techmeme.com/250301/p18#a250301p18)<!-- TECH:END -->
+ - [Documents and interviews detail how Connor Moucka, John Binns, and Cameron Wagenius, the trio accused of hacking AT&amp;T and other Snowflake customers, met online &lpar;Bloomberg&rpar;](http://www.techmeme.com/250301/p19#a250301p19)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Some parents are teaching their children how to use AI chatbots so they are prepared to deploy the tools responsibly as personal assistants when they are older &lpar;Aaron Mok/The Guardian&rpar;](http://www.techmeme.com/250302/p6#a250302p6)
  - [MWC 2025: all the phones, gadgets, and commentary from Barcelona](https://www.theverge.com/news/616633/mwc-2025-news-products-announcements)
  - [Xiaomi 15 and 15 Ultra Review: Photography Focus](https://www.wired.com/review/xiaomi-15-and-xiaomi-15-ultra/)
  - [Xiaomi 15 Ultra review: ugly phone, beautiful camera](https://www.theverge.com/phone-review/621670/xiaomi-15-ultra-review-camera-periscope-price-specs-price)
- - [Xiaomi brings its 15 and 15 Ultra flagships to Europe — but the US misses out](https://www.theverge.com/news/622406/xiaomi-15-ultra-pad-7-launch-europe-price-mwc)
- - [Xiaomi Buds 5 Pro are the first to deliver on Qualcomm’s promise of Wi-Fi earbuds](https://www.theverge.com/news/622452/xiaomi-buds-5-pro-are-the-first-to-deliver-on-qualcomms-promise-of-wi-fi-earbuds)<!-- TECH:END -->
+ - [Xiaomi brings its 15 and 15 Ultra flagships to Europe — but the US misses out](https://www.theverge.com/news/622406/xiaomi-15-ultra-pad-7-launch-europe-price-mwc)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -166,10 +166,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Is that right](http://9gag.com/gag/aGyn5AX)
- - 😝 [It is not easy being an England supporter](http://9gag.com/gag/aPAmzNG)
- - 💣 [Concentration camp or shared apartment?](http://9gag.com/gag/a2vw951)
- - 😝 [A major investment conference in India descended into chaos due to poor food distribution, with fights breaking out among attendees due to overcrowding and food shortages](http://9gag.com/gag/a9y6Zvm)
+ - 😝 [Okey then](http://9gag.com/gag/aVvo488)
+ - 😝 [Concentration camp or shared apartment?](http://9gag.com/gag/a2vw951)
+ - 💣 [It is not easy being an England supporter](http://9gag.com/gag/aPAmzNG)
+ - 😝 [Standing up for your rights = being argumentative](http://9gag.com/gag/aVvo6Ov)
  - 👉 [Questions](http://9gag.com/gag/aoy36d2)<!-- MEMES:END -->
 
 ---

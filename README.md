@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Chad Warden](http://9gag.com/gag/ayN3we8)
- - 😝 [The Duck Maker](http://9gag.com/gag/apR3MXn)
- - 💣 [Latvian passport under UV light](http://9gag.com/gag/aO8e5Mr)
- - 😝 [You gotta be at least 35 to understand the meme](http://9gag.com/gag/aVvoyz2)
- - 👉 [For the guy who posted the boring explanation about Aral Sea](http://9gag.com/gag/axy3qy1)<!-- MEMES:END -->
+ - 😝 [Football coaches showing off](http://9gag.com/gag/amo1Z2d)
+ - 😝 [Standing up for your rights = being argumentative](http://9gag.com/gag/aVvo6Ov)
+ - 💣 [Fact check](http://9gag.com/gag/a9y6wmD)
+ - 😝 [Splinter](http://9gag.com/gag/a345677)
+ - 👉 [This forklift certification is getting out of hand](http://9gag.com/gag/aBy6M9Z)<!-- MEMES:END -->
 
 ---
 

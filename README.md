@@ -158,10 +158,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- TECH:START -->
  - [Honor pledges $10B in AI investments over the next five years and demos a proof of concept AI agent, powered by Gemini 2, that can book restaurant reservations &lpar;Arjun Kharpal/CNBC&rpar;](http://www.techmeme.com/250302/p9#a250302p9)
+ - [Is It Safe to Use a Banking App? Yes, If You Keep This in Mind](https://www.cnet.com/personal-finance/banking/is-it-safe-to-use-a-banking-app-yes-if-you-keep-this-in-mind/#ftag=CAD590a51e)
  - [President Trump names Bitcoin, Ethereum, XRP, Solana, and Cardano as assets to be included in a strategic US crypto reserve &lpar;CoinDesk&rpar;](http://www.techmeme.com/250302/p8#a250302p8)
- - [Honor&#39;s New AI Agent Can Read and Understand Your Screen](https://www.wired.com/story/exclusive-look-at-honor-ai-mwc-2025/)
- - [Xiaomi brings its 15 and 15 Ultra flagships to Europe — but the US misses out](https://www.theverge.com/news/622406/xiaomi-15-ultra-pad-7-launch-europe-price-mwc)
- - [Siri&amp;#8217;s real AI upgrade could still be years away](https://www.theverge.com/news/622465/siris-real-ai-upgrade-could-still-be-years-away)<!-- TECH:END -->
+ - [Honor Teases Agentic AI Phone That Will &#39;Revolutionize&#39; How We Use Our Devices](https://www.cnet.com/tech/mobile/honor-teases-agentic-ai-phone-that-will-revolutionize-how-we-use-our-devices/#ftag=CAD590a51e)
+ - [Honor&#39;s New AI Agent Can Read and Understand Your Screen](https://www.wired.com/story/exclusive-look-at-honor-ai-mwc-2025/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

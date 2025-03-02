@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Fact check](http://9gag.com/gag/a9y6wmD)
- - 😝 [Road tax \ud83d\ude05](http://9gag.com/gag/agm1eQv)
- - 💣 [This forklift certification is getting out of hand](http://9gag.com/gag/aBy6M9Z)
- - 😝 [Standing up for your rights = being argumentative](http://9gag.com/gag/aVvo6Ov)
- - 👉 [This is pure satisfaction.](http://9gag.com/gag/aD26Kmd)<!-- MEMES:END -->
+ - 😝 [In a wooded area near Livorno, in the Tuscan region, a hiker ran into a terracotta vessel full of 175 Roman silver denarius. The coins date from between 157 a. C. and 82 a. C.](http://9gag.com/gag/aVvopOO)
+ - 😝 [W Zelensky](http://9gag.com/gag/agm1be1)
+ - 💣 [Standing up for your rights = being argumentative](http://9gag.com/gag/aVvo6Ov)
+ - 😝 [White n tight](http://9gag.com/gag/apR3wg9)
+ - 👉 [Questions](http://9gag.com/gag/aoy36d2)<!-- MEMES:END -->
 
 ---
 

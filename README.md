@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Dark day.](http://9gag.com/gag/aBy65AN)
- - 😝 [Yet again!](http://9gag.com/gag/ayN3OjM)
+ - 😝 [The benefits of living near a golf course](http://9gag.com/gag/a6ZXYzm)
+ - 😝 [Splinter](http://9gag.com/gag/a345677)
  - 💣 [Pamela Anderson Circa 1991](http://9gag.com/gag/a9y6xo0)
  - 😝 [Time for the ultimate battles in Mecha BREAK\ud83d\udca5](http://9gag.com/gag/aE06LPM)
- - 👉 [Titanic](http://9gag.com/gag/aVvoNZP)<!-- MEMES:END -->
+ - 👉 [Such a great film!](http://9gag.com/gag/a0eXA9n)<!-- MEMES:END -->
 
 ---
 

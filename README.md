@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Eating dusts.](http://9gag.com/gag/aAy6jWd)
- - 😝 [And blackjack](http://9gag.com/gag/aD2651d)
- - 💣 [Let me help too - Memes from my phone #1](http://9gag.com/gag/azxdnLm)
+ - 😝 [Beauty standards](http://9gag.com/gag/a876xwV)
+ - 😝 [I need to go back to school](http://9gag.com/gag/amo1ezy)
+ - 💣 [Eating dusts.](http://9gag.com/gag/aAy6jWd)
  - 😝 [Time for the ultimate battles in Mecha BREAK\ud83d\udca5](http://9gag.com/gag/aE06LPM)
- - 👉 [I need to go back to school](http://9gag.com/gag/amo1ezy)<!-- MEMES:END -->
+ - 👉 [Pamela Anderson Circa 1991](http://9gag.com/gag/a9y6xo0)<!-- MEMES:END -->
 
 ---
 

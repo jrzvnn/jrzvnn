@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Today&#39;s Wordle Hints, Answer and Help for March 4, #1354](https://www.cnet.com/tech/gaming/todays-wordle-hints-answer-and-help-for-march-4-1354/#ftag=CAD590a51e)
- - [Today&#39;s NYT Connections Hints, Answers and Help for March 4, #632](https://www.cnet.com/tech/gaming/todays-nyt-connections-hints-answers-and-help-for-march-4-632/#ftag=CAD590a51e)
- - [Today&#39;s NYT Connections: Sports Edition Hints and Answers for March 4, #162](https://www.cnet.com/tech/gaming/todays-nyt-connections-sports-edition-hints-and-answers-for-march-4-162/#ftag=CAD590a51e)
- - [Today&#39;s NYT Strands Hints, Answers and Help for March 4, #366](https://www.cnet.com/tech/gaming/todays-nyt-strands-hints-answers-and-help-for-march-4-366/#ftag=CAD590a51e)
- - [iOS 18.4 Could Ship With My New Favorite Emoji Next Month](https://www.cnet.com/tech/services-and-software/ios-18-4-could-ship-with-my-new-favorite-emoji-next-month/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Trump’s first 100 days: all the news affecting the tech industry](https://www.theverge.com/24348851/donald-trump-presidency-tech-science-news)
+ - [TSMC announces $100 billion investment in US chipmaking](https://www.theverge.com/news/623335/tsmc-chip-factories-100-billion-trump)
+ - [CA state Senator Scott Wiener, author of the controversial 2024 AI safety bill SB 1047, introduces SB 53, a new bill to protect AI lab whistleblowers and more &lpar;Maxwell Zeff/TechCrunch&rpar;](http://www.techmeme.com/250303/p23#a250303p23)
+ - [Fingerprints and splatters: New emoji arrive in iOS 18.4 developer beta](https://appleinsider.com/articles/25/03/03/fingerprints-and-splatters-new-emoji-arrive-in-ios-184-developer-beta?utm_medium=rss)
+ - [Self-driving cars: Google and others map the road to automated vehicles](https://www.theverge.com/2012/12/23/3797260/self-driving-cars-automated-vehicles)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

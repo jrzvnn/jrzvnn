@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [Eating dusts.](http://9gag.com/gag/aAy6jWd)
  - 😝 [This is pure satisfaction.](http://9gag.com/gag/aD26Kmd)
- - 😝 [Pythgoras theorem](http://9gag.com/gag/aE063KN)
- - 💣 [But At Least It Came Back](http://9gag.com/gag/aZZ16Ln)
+ - 💣 [White n tight](http://9gag.com/gag/apR3wg9)
  - 😝 [Time for the ultimate battles in Mecha BREAK\ud83d\udca5](http://9gag.com/gag/aE06LPM)
- - 👉 [Make my happy always](http://9gag.com/gag/a2vwe3w)<!-- MEMES:END -->
+ - 👉 [I need to go back to school](http://9gag.com/gag/amo1ezy)<!-- MEMES:END -->
 
 ---
 

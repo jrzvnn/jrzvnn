@@ -158,10 +158,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- TECH:START -->
  - [MWC 2025: all the phones, gadgets, and commentary from Barcelona](https://www.theverge.com/news/616633/mwc-2025-news-products-announcements)
- - [How Candise Lin Became the Unofficial Ambassador of Chinese Internet Culture](https://www.wired.com/story/candise-lin-influencer-china-tiktok/)
- - [Best Filtered Water Bottles of 2025](https://www.cnet.com/health/best-filtered-water-bottle/#ftag=CAD590a51e)
- - [TCL&#39;s 60 Phone Series Expands With 108-Megapixel Cameras, Bigger Batteries](https://www.cnet.com/tech/mobile/tcls-60-phone-series-expands-with-108-megapixel-cameras-bigger-batteries/#ftag=CAD590a51e)
- - [Best Alkaline Batteries for 2025](https://www.cnet.com/news/best-alkaline-batteries/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [MWC 2025: Lenovo unveils new laptops, including the $1,799+ Yoga Pro 9i Aura Edition, with GenAI features, updates its ThinkPad lineup, and demos new concepts &lpar;Mariella Moon/Engadget&rpar;](http://www.techmeme.com/250303/p6#a250303p6)
+ - [When to Watch the &#39;Paradise&#39; Finale on Hulu](https://www.cnet.com/tech/services-and-software/when-to-watch-the-paradise-finale-on-hulu/#ftag=CAD590a51e)
+ - [Spring Equinox Is Almost Here: Have You Heard the Egg-Balancing Myth?](https://www.cnet.com/science/space/spring-equinox-is-almost-here-have-you-heard-the-egg-balancing-myth/#ftag=CAD590a51e)
+ - [Driverless racecar sets a new autonomous speed record](https://www.theverge.com/news/621990/autonomous-speed-record-indy-challenge-maserati)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

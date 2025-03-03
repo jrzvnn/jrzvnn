@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [People are strange](http://9gag.com/gag/aKGArX3)
- - 😝 [Yet again!](http://9gag.com/gag/ayN3OjM)
- - 💣 [Chris P. Bacon](http://9gag.com/gag/agm1Mxv)
- - 😝 [This is basically why we all exist today.](https://www.reddit.com/r/funny/comments/1j2woa4/this_is_basically_why_we_all_exist_today/)
- - 👉 [Time for the ultimate battles in Mecha BREAK\ud83d\udca5](http://9gag.com/gag/aE06LPM)<!-- MEMES:END -->
+ - 😝 [Beauty standards](http://9gag.com/gag/a876xwV)
+ - 😝 [Pamela Anderson Circa 1991](http://9gag.com/gag/a9y6xo0)
+ - 💣 [Such a great film!](http://9gag.com/gag/a0eXA9n)
+ - 😝 [Time for the ultimate battles in Mecha BREAK\ud83d\udca5](http://9gag.com/gag/aE06LPM)
+ - 👉 [Make my happy always](http://9gag.com/gag/a2vwe3w)<!-- MEMES:END -->
 
 ---
 

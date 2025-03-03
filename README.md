@@ -158,10 +158,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- TECH:START -->
  - [Tim Cook teases the imminent launch of a new MacBook Air](https://appleinsider.com/articles/25/03/03/tim-cook-teases-the-imminent-launch-of-a-new-macbook-air?utm_medium=rss)
+ - [Google’s Pixel 7 Pro is on sale for just $199.99 right now](https://www.theverge.com/good-deals/622965/google-pixel-7-pro-phone-best-buy-deal-sale)
  - [BYD cars now have an on-vehicle DJI drone launch platform](https://www.theverge.com/news/622963/byd-dji-vehicle-mounted-drone-launcher)
  - [Tim Cook posts that &quot;this week&quot; there&#39;s &quot;something in the AIR&quot;, likely referring to an M4 MacBook Air launch; a new iPad Air is also expected this Spring &lpar;Chance Miller/9to5Mac&rpar;](http://www.techmeme.com/250303/p15#a250303p15)
- - [Tim Cook teases a new Apple ‘Air’](https://www.theverge.com/news/623041/apple-tim-cook-air-macbook-ipad-iphone)
- - [Doctor Who is ready to take the long way around again in new season 2 trailer](https://www.theverge.com/news/622964/doctor-who-season-2-trailer-belinda-mundy)<!-- TECH:END -->
+ - [Tim Cook teases a new Apple ‘Air’](https://www.theverge.com/news/623041/apple-tim-cook-air-macbook-ipad-iphone)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

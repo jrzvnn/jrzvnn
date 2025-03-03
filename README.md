@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [And blackjack](http://9gag.com/gag/aD2651d)
- - 😝 [Perfect couple](http://9gag.com/gag/a2vwgWE)
- - 💣 [Me too, lady. Me too\u2026](http://9gag.com/gag/avy1VvE)
- - 😝 [So much sadness](http://9gag.com/gag/ae91wxB)
- - 👉 [Fight together, die together](http://9gag.com/gag/aBy6AQ1)<!-- MEMES:END -->
+ - 😝 [Pamela Anderson Circa 1991](http://9gag.com/gag/a9y6xo0)
+ - 😝 [Fight together, die together](http://9gag.com/gag/aBy6AQ1)
+ - 💣 [Mercury on aluminum cup](http://9gag.com/gag/aLnzZ4x)
+ - 😝 [Bro used 100,000 lumens flashlight to escape.](http://9gag.com/gag/a1mN62v)
+ - 👉 [Title](http://9gag.com/gag/an7RoBV)<!-- MEMES:END -->
 
 ---
 

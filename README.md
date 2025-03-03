@@ -158,10 +158,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- TECH:START -->
  - [How Anthropic monitoring its AI models playing Pok&amp;eacute;mon games is helping the startup&#39;s researchers hone their thinking around the development of its agentic tech &lpar;Abram Brown/The Information&rpar;](http://www.techmeme.com/250303/p3#a250303p3)
- - [The UK&#39;s ICO says it&#39;s probing how TikTok uses 13-17-year-olds&#39; personal data for content suggestions and how Reddit and Imgur verify the ages of child users &lpar;Reuters&rpar;](http://www.techmeme.com/250303/p2#a250303p2)
- - [This Modular Phone Concept Is Xiaomi’s Plan to Kill the Camera Bump](https://www.wired.com/story/xiaomi-modular-optical-system-mwc-2025/)
- - [A look at ALERTCalifornia, a program from UC San Diego, which has deployed over 1,150 AI-equipped cameras to monitor wildfires and other natural disasters &lpar;Jim Carlton/Wall Street Journal&rpar;](http://www.techmeme.com/250303/p1#a250303p1)
- - [Hulu prematurely ended its Oscars stream right before the final awards](https://www.theverge.com/news/622669/hulu-oscars-stream-ended-early)<!-- TECH:END -->
+ - [TCL&#39;s 60 Phone Series Expands With 108-Megapixel Cameras, Bigger Batteries](https://www.cnet.com/tech/mobile/tcls-60-phone-series-expands-with-108-megapixel-cameras-bigger-batteries/#ftag=CAD590a51e)
+ - [Best Filtered Water Bottles of 2025](https://www.cnet.com/health/best-filtered-water-bottle/#ftag=CAD590a51e)
+ - [Best Alkaline Batteries for 2025](https://www.cnet.com/news/best-alkaline-batteries/#ftag=CAD590a51e)
+ - [The UK&#39;s ICO says it&#39;s probing how TikTok uses 13-17-year-olds&#39; personal data for content suggestions and how Reddit and Imgur verify the ages of child users &lpar;Reuters&rpar;](http://www.techmeme.com/250303/p2#a250303p2)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

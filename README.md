@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Yeah skyrim is ez](http://9gag.com/gag/aPAmKzP)
- - 😝 [He Is a Man of Focus, Commitment and Sheer F**king Will](http://9gag.com/gag/aO8eXx6)
- - 💣 [People are strange](http://9gag.com/gag/aKGArX3)
+ - 😝 [Beauty standards](http://9gag.com/gag/a876xwV)
+ - 😝 [Such a great film!](http://9gag.com/gag/a0eXA9n)
+ - 💣 [Splinter](http://9gag.com/gag/a345677)
  - 😝 [Time for the ultimate battles in Mecha BREAK\ud83d\udca5](http://9gag.com/gag/aE06LPM)
- - 👉 [Hello!](http://9gag.com/gag/aoy3XDw)<!-- MEMES:END -->
+ - 👉 [Yet again!](http://9gag.com/gag/ayN3OjM)<!-- MEMES:END -->
 
 ---
 

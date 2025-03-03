@@ -170,7 +170,7 @@ R                        1 repo              ░░░░░░░░░░░�
  - 😝 [The benefits of living near a golf course](http://9gag.com/gag/a6ZXYzm)
  - 💣 [This is pure satisfaction.](http://9gag.com/gag/aD26Kmd)
  - 😝 [Time for the ultimate battles in Mecha BREAK\ud83d\udca5](http://9gag.com/gag/aE06LPM)
- - 👉 [Much wow](http://9gag.com/gag/ary3Y9V)<!-- MEMES:END -->
+ - 👉 [Make my happy always](http://9gag.com/gag/a2vwe3w)<!-- MEMES:END -->
 
 ---
 

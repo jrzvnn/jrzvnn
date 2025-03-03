@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [It\u2019s time. Show me your cursed pictures.](http://9gag.com/gag/aVvopAv)
- - 😝 [The benefits of living near a golf course](http://9gag.com/gag/a6ZXYzm)
- - 💣 [This is pure satisfaction.](http://9gag.com/gag/aD26Kmd)
+ - 😝 [My Son Found His First Favorite Stick... Let\u2019s Prove to My Wife That This Is a Big Deal.](http://9gag.com/gag/adB1zNV)
+ - 😝 [Make my happy always](http://9gag.com/gag/a2vwe3w)
+ - 💣 [This post was sponsored by skynet](http://9gag.com/gag/awy36o4)
  - 😝 [Time for the ultimate battles in Mecha BREAK\ud83d\udca5](http://9gag.com/gag/aE06LPM)
- - 👉 [Make my happy always](http://9gag.com/gag/a2vwe3w)<!-- MEMES:END -->
+ - 👉 [There is no salvation.](http://9gag.com/gag/aBy67yN)<!-- MEMES:END -->
 
 ---
 

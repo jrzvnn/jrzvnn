@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Self-driving cars: Google and others map the road to automated vehicles](https://www.theverge.com/2012/12/23/3797260/self-driving-cars-automated-vehicles)
- - [Google Play is going to start highlighting apps with widgets](https://www.theverge.com/news/623289/google-play-apps-widgets-highlighting)
- - [Fingerprints and splatters: New emoji arrive in iOS 18.4 developer beta](https://appleinsider.com/articles/25/03/03/fingerprints-and-splatters-new-emoji-arrive-in-ios-184-developer-beta?utm_medium=rss)
- - [Logitech’s best gaming mouse has fallen to its lowest price ever](https://www.theverge.com/good-deals/622951/logitech-g-pro-x-superlight-2-mouse-ipad-mini-deal-sale)
- - [At a press conference with Trump, TSMC CEO CC Wei says the company plans to invest $100B+ in the US over four years, in addition to its current $65B investment &lpar;Axios&rpar;](http://www.techmeme.com/250303/p22#a250303p22)<!-- TECH:END -->
+ - [Today&#39;s Wordle Hints, Answer and Help for March 4, #1354](https://www.cnet.com/tech/gaming/todays-wordle-hints-answer-and-help-for-march-4-1354/#ftag=CAD590a51e)
+ - [Today&#39;s NYT Connections Hints, Answers and Help for March 4, #632](https://www.cnet.com/tech/gaming/todays-nyt-connections-hints-answers-and-help-for-march-4-632/#ftag=CAD590a51e)
+ - [Today&#39;s NYT Connections: Sports Edition Hints and Answers for March 4, #162](https://www.cnet.com/tech/gaming/todays-nyt-connections-sports-edition-hints-and-answers-for-march-4-162/#ftag=CAD590a51e)
+ - [Today&#39;s NYT Strands Hints, Answers and Help for March 4, #366](https://www.cnet.com/tech/gaming/todays-nyt-strands-hints-answers-and-help-for-march-4-366/#ftag=CAD590a51e)
+ - [iOS 18.4 Could Ship With My New Favorite Emoji Next Month](https://www.cnet.com/tech/services-and-software/ios-18-4-could-ship-with-my-new-favorite-emoji-next-month/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

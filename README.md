@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [iOS 19 rumor roundup: What&#39;s expected in the fall update](https://appleinsider.com/articles/25/03/03/ios-19-rumor-roundup-whats-expected-in-the-fall-update?utm_medium=rss)
+ - [Builder.ai CEO Sachin Dev Duggal says he is stepping down from the London-based startup, which has raised $450M to use AI to develop apps and websites &lpar;Alexandra Heal/Financial Times&rpar;](http://www.techmeme.com/250303/p11#a250303p11)
  - [The 8 Automatic Litter Boxes We&#39;ve Tested and Recommend &lpar;2025&rpar;](https://www.wired.com/gallery/the-best-automatic-cat-litter-boxes/)
  - [MWC 2025: all the phones, gadgets, and commentary from Barcelona](https://www.theverge.com/news/616633/mwc-2025-news-products-announcements)
- - [Google’s cofounder tells AI staff to stop ‘building nanny products’](https://www.theverge.com/command-line-newsletter/622045/google-ai-nanny-products)
- - [Chip race: Microsoft, Meta, Google, and Nvidia battle it out for AI chip supremacy](https://www.theverge.com/2024/2/1/24058186/ai-chips-meta-microsoft-google-nvidia)
- - [All the news about Netflix’s gaming efforts](https://www.theverge.com/22772589/netflix-video-games-app-news-updates)<!-- TECH:END -->
+ - [Google’s cofounder tells AI staff to stop ‘building nanny products’](https://www.theverge.com/command-line-newsletter/622045/google-ai-nanny-products)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

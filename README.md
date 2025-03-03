@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Microsoft’s new Dragon Copilot is an AI assistant for healthcare](https://www.theverge.com/news/622528/microsoft-dragon-copilot-ai-healthcare-assistant)
- - [From ChatGPT to Gemini: how AI is rewriting the internet](https://www.theverge.com/23610427/chatbots-chatgpt-new-bing-google-bard-conversational-ai)
- - [All the news on Microsoft’s latest Copilot and Windows AI features](https://www.theverge.com/2024/10/1/24259261/microsoft-event-copilot-ai-windows)
- - [iPhone chip maker TSMC plans $100 billion US investment](https://appleinsider.com/articles/25/03/03/iphone-chip-maker-tsmc-plans-100-billion-us-investment?utm_medium=rss)
- - [YouTube is stepping up its efforts to sell you other streaming services](https://www.theverge.com/news/623171/youtube-tv-app-redesign-sell-streaming-services)<!-- TECH:END -->
+ - [Mozilla rewrites Firefox&#39;s Terms of Use, after recent changes with overly broad language about user data sparked user backlash &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/250303/p21#a250303p21)
+ - [SwitchBot launches cut-your-own smart shades](https://www.theverge.com/news/623000/switchbot-smart-roller-shades-adjustable-price-release-date-specs)
+ - [The iPhone 15 Pro will get Visual Intelligence with iOS 18.4](https://www.theverge.com/news/623211/apple-iphone-15-pro-visual-intelligence-ios-18-4)
+ - [Sources: YouTube is preparing a Netflix-like redesign of its TV app, with paid content from other streamers like Max and Paramount+ on the homepage &lpar;Sahil Patel/The Information&rpar;](http://www.techmeme.com/250303/p20#a250303p20)
+ - [A Private Space Mission Just Successfully Landed on the Moon for the First Time](https://www.wired.com/story/a-private-space-mission-has-successfully-landed-on-the-moon-for-the-first-time-blue-ghost-firefly-aerospace/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

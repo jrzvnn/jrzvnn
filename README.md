@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [The Duck Maker](http://9gag.com/gag/apR3MXn)
- - 😝 [For the guy who posted the boring explanation about Aral Sea](http://9gag.com/gag/axy3qy1)
- - 💣 [Splinter](http://9gag.com/gag/a345677)
- - 😝 [Latvian passport under UV light](http://9gag.com/gag/aO8e5Mr)
- - 👉 [You gotta be at least 35 to understand the meme](http://9gag.com/gag/aVvoyz2)<!-- MEMES:END -->
+ - 😝 [Much wow](http://9gag.com/gag/ary3Y9V)
+ - 😝 [This is pure satisfaction.](http://9gag.com/gag/aD26Kmd)
+ - 💣 [Wtf](http://9gag.com/gag/a876NRp)
+ - 😝 [Bro used 100,000 lumens flashlight to escape.](http://9gag.com/gag/a1mN62v)
+ - 👉 [Splinter](http://9gag.com/gag/a345677)<!-- MEMES:END -->
 
 ---
 

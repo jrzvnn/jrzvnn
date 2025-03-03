@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [India&#39;s IT ministry says AWS plans to invest $8.2B in India&#39;s western state of Maharashtra over the next few years, and will deploy its own GPUs in India &lpar;Reuters&rpar;](http://www.techmeme.com/250303/p14#a250303p14)
- - [Trump’s first 100 days: all the news affecting the tech industry](https://www.theverge.com/24348851/donald-trump-presidency-tech-science-news)
- - [Stability AI partners with Arm to bring Stability&#39;s Stable Audio Open, an AI model that can generate audio including sound effects, to Arm-based mobile devices &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/250303/p13#a250303p13)
- - [Microsoft unveils Dragon Copilot, a new voice-activated AI assistant for doctors, combining Dragon Medical One and ambient listening service DAX Copilot &lpar;Ashley Capoot/CNBC&rpar;](http://www.techmeme.com/250303/p12#a250303p12)
- - [iOS 19 rumor roundup: What&#39;s expected in the fall update](https://appleinsider.com/articles/25/03/03/ios-19-rumor-roundup-whats-expected-in-the-fall-update?utm_medium=rss)<!-- TECH:END -->
+ - [Tim Cook teases the imminent launch of a new MacBook Air](https://appleinsider.com/articles/25/03/03/tim-cook-teases-the-imminent-launch-of-a-new-macbook-air?utm_medium=rss)
+ - [BYD cars now have an on-vehicle DJI drone launch platform](https://www.theverge.com/news/622963/byd-dji-vehicle-mounted-drone-launcher)
+ - [Tim Cook posts that &quot;this week&quot; there&#39;s &quot;something in the AIR&quot;, likely referring to an M4 MacBook Air launch; a new iPad Air is also expected this Spring &lpar;Chance Miller/9to5Mac&rpar;](http://www.techmeme.com/250303/p15#a250303p15)
+ - [Tim Cook teases a new Apple ‘Air’](https://www.theverge.com/news/623041/apple-tim-cook-air-macbook-ipad-iphone)
+ - [Doctor Who is ready to take the long way around again in new season 2 trailer](https://www.theverge.com/news/622964/doctor-who-season-2-trailer-belinda-mundy)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

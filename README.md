@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [You need a bath, woman](http://9gag.com/gag/ae91wXj)
- - 😝 [When there&#39;s no brief about the project and you assign the newbie for it.](http://9gag.com/gag/aO8e5jv)
- - 💣 [Bro used 100,000 lumens flashlight to escape.](http://9gag.com/gag/a1mN62v)
- - 😝 [But At Least It Came Back](http://9gag.com/gag/aZZ16Ln)
- - 👉 [Now what](http://9gag.com/gag/a345r8Q)<!-- MEMES:END -->
+ - 😝 [The Duck Maker](http://9gag.com/gag/apR3MXn)
+ - 😝 [For the guy who posted the boring explanation about Aral Sea](http://9gag.com/gag/axy3qy1)
+ - 💣 [Splinter](http://9gag.com/gag/a345677)
+ - 😝 [Latvian passport under UV light](http://9gag.com/gag/aO8e5Mr)
+ - 👉 [You gotta be at least 35 to understand the meme](http://9gag.com/gag/aVvoyz2)<!-- MEMES:END -->
 
 ---
 

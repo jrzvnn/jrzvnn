@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [He presented hard evidence but cops still weren&#39;t convinced](http://9gag.com/gag/avy1KDZ)
- - 😝 [Fight together, die together](http://9gag.com/gag/aBy6AQ1)
- - 💣 [Eating dusts.](http://9gag.com/gag/aAy6jWd)
+ - 😝 [Eating dusts.](http://9gag.com/gag/aAy6jWd)
+ - 😝 [It\u2019s time. Show me your cursed pictures.](http://9gag.com/gag/aVvopAv)
+ - 💣 [Beauty standards](http://9gag.com/gag/a876xwV)
  - 😝 [Time for the ultimate battles in Mecha BREAK\ud83d\udca5](http://9gag.com/gag/aE06LPM)
- - 👉 [Splinter](http://9gag.com/gag/a345677)<!-- MEMES:END -->
+ - 👉 [Make my happy always](http://9gag.com/gag/a2vwe3w)<!-- MEMES:END -->
 
 ---
 

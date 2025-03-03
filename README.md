@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Google updates Google Play on Android to highlight apps with widgets, adding a widget search filter, widget badges on app pages, and a curated editorial page &lpar;Jay Peters/The Verge&rpar;](http://www.techmeme.com/250303/p31#a250303p31)
  - [The best fitness trackers to buy right now](https://www.theverge.com/22985108/best-fitness-tracker)
  - [A deep dive into how Facebook, Messenger, WhatsApp, Tinder, and Airbnb are being used to facilitate cross-border underage sex trafficking in Colombia &lpar;Bloomberg&rpar;](http://www.techmeme.com/250303/p30#a250303p30)
  - [Anthropic raised a $3.5B Series E led by Lightspeed at a $61.5B valuation; source: its annual revenue run rate has grown by 30% in 2025, from ~$1B in late 2024 &lpar;Shirin Ghaffary/Bloomberg&rpar;](http://www.techmeme.com/250303/p29#a250303p29)
- - [US tariffs: how Trump’s tax is hitting Big Tech and beyond](https://www.theverge.com/604742/trump-tariffs-canada-mexico-china-updates)
- - [Trump’s FDA Cuts Are Putting Drug Development at Risk](https://www.wired.com/story/trump-fda-cuts-drug-development-delays/)<!-- TECH:END -->
+ - [US tariffs: how Trump’s tax is hitting Big Tech and beyond](https://www.theverge.com/604742/trump-tariffs-canada-mexico-china-updates)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

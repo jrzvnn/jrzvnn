@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Let me help too - Memes from my phone #1](http://9gag.com/gag/azxdnLm)
- - 😝 [He presented hard evidence but cops still weren&#39;t convinced](http://9gag.com/gag/avy1KDZ)
- - 💣 [Bro used 100,000 lumens flashlight to escape.](http://9gag.com/gag/a1mN62v)
- - 😝 [Eating dusts.](http://9gag.com/gag/aAy6jWd)
- - 👉 [Make my happy always](http://9gag.com/gag/a2vwe3w)<!-- MEMES:END -->
+ - 😝 [Bro used 100,000 lumens flashlight to escape.](http://9gag.com/gag/a1mN62v)
+ - 😝 [Much wow](http://9gag.com/gag/ary3Y9V)
+ - 💣 [Fight together, die together](http://9gag.com/gag/aBy6AQ1)
+ - 😝 [Is that right](http://9gag.com/gag/aGyn5AX)
+ - 👉 [Eating dusts.](http://9gag.com/gag/aAy6jWd)<!-- MEMES:END -->
 
 ---
 

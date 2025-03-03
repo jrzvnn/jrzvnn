@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [The benefits of living near a golf course](http://9gag.com/gag/a6ZXYzm)
- - 😝 [Splinter](http://9gag.com/gag/a345677)
- - 💣 [Pamela Anderson Circa 1991](http://9gag.com/gag/a9y6xo0)
+ - 😝 [People are strange](http://9gag.com/gag/aKGArX3)
+ - 😝 [Yet again!](http://9gag.com/gag/ayN3OjM)
+ - 💣 [Chris P. Bacon](http://9gag.com/gag/agm1Mxv)
  - 😝 [Time for the ultimate battles in Mecha BREAK\ud83d\udca5](http://9gag.com/gag/aE06LPM)
- - 👉 [Such a great film!](http://9gag.com/gag/a0eXA9n)<!-- MEMES:END -->
+ - 👉 [This is pure satisfaction.](http://9gag.com/gag/aD26Kmd)<!-- MEMES:END -->
 
 ---
 

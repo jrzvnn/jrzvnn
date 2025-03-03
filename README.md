@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [Unarmed guard stops man with AR-15-type gun from entering NY clinic](http://9gag.com/gag/azxdWKZ)
  - 😝 [Splinter](http://9gag.com/gag/a345677)
- - 😝 [When he\u2019s happy to see you.](http://9gag.com/gag/amo1eg4)
- - 💣 [Latvian passport under UV light](http://9gag.com/gag/aO8e5Mr)
- - 😝 [For the guy who posted the boring explanation about Aral Sea](http://9gag.com/gag/axy3qy1)
- - 👉 [You gotta be at least 35 to understand the meme](http://9gag.com/gag/aVvoyz2)<!-- MEMES:END -->
+ - 💣 [And blackjack](http://9gag.com/gag/aD2651d)
+ - 😝 [But At Least It Came Back](http://9gag.com/gag/aZZ16Ln)
+ - 👉 [The benefits of living near a golf course](http://9gag.com/gag/a6ZXYzm)<!-- MEMES:END -->
 
 ---
 

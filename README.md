@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Chinese traders are selling Nvidia-equipped servers, including Blackwell, via third parties in countries like Vietnam and Taiwan; some promise six-week delivery &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/250303/p4#a250303p4)
  - [How Anthropic monitoring its AI models playing Pok&amp;eacute;mon games is helping the startup&#39;s researchers hone their thinking around the development of its agentic tech &lpar;Abram Brown/The Information&rpar;](http://www.techmeme.com/250303/p3#a250303p3)
  - [TCL&#39;s 60 Phone Series Expands With 108-Megapixel Cameras, Bigger Batteries](https://www.cnet.com/tech/mobile/tcls-60-phone-series-expands-with-108-megapixel-cameras-bigger-batteries/#ftag=CAD590a51e)
  - [Best Filtered Water Bottles of 2025](https://www.cnet.com/health/best-filtered-water-bottle/#ftag=CAD590a51e)
- - [Best Alkaline Batteries for 2025](https://www.cnet.com/news/best-alkaline-batteries/#ftag=CAD590a51e)
- - [The UK&#39;s ICO says it&#39;s probing how TikTok uses 13-17-year-olds&#39; personal data for content suggestions and how Reddit and Imgur verify the ages of child users &lpar;Reuters&rpar;](http://www.techmeme.com/250303/p2#a250303p2)<!-- TECH:END -->
+ - [Best Alkaline Batteries for 2025](https://www.cnet.com/news/best-alkaline-batteries/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

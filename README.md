@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Guggenheim Partners CEO Mark Walter and ex-Legendary Entertainment owner Thomas Tull launch TWG Global to invest in AI, sources say with nearly $40B in assets &lpar;Antoine Gara/Financial Times&rpar;](http://www.techmeme.com/250303/p7#a250303p7)
  - [MWC 2025: all the phones, gadgets, and commentary from Barcelona](https://www.theverge.com/news/616633/mwc-2025-news-products-announcements)
  - [MWC 2025: Lenovo unveils new laptops, including the $1,799+ Yoga Pro 9i Aura Edition, with GenAI features, updates its ThinkPad lineup, and demos new concepts &lpar;Mariella Moon/Engadget&rpar;](http://www.techmeme.com/250303/p6#a250303p6)
  - [When to Watch the &#39;Paradise&#39; Finale on Hulu](https://www.cnet.com/tech/services-and-software/when-to-watch-the-paradise-finale-on-hulu/#ftag=CAD590a51e)
- - [Spring Equinox Is Almost Here: Have You Heard the Egg-Balancing Myth?](https://www.cnet.com/science/space/spring-equinox-is-almost-here-have-you-heard-the-egg-balancing-myth/#ftag=CAD590a51e)
- - [Driverless racecar sets a new autonomous speed record](https://www.theverge.com/news/621990/autonomous-speed-record-indy-challenge-maserati)<!-- TECH:END -->
+ - [Spring Equinox Is Almost Here: Have You Heard the Egg-Balancing Myth?](https://www.cnet.com/science/space/spring-equinox-is-almost-here-have-you-heard-the-egg-balancing-myth/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -160,8 +160,8 @@ R                        1 repo              ░░░░░░░░░░░�
  - [MWC 2025: all the phones, gadgets, and commentary from Barcelona](https://www.theverge.com/news/616633/mwc-2025-news-products-announcements)
  - [Chinese traders are selling Nvidia-equipped servers, including Blackwell, via third parties in countries like Vietnam and Taiwan; some promise six-week delivery &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/250303/p4#a250303p4)
  - [How Anthropic monitoring its AI models playing Pok&amp;eacute;mon games is helping the startup&#39;s researchers hone their thinking around the development of its agentic tech &lpar;Abram Brown/The Information&rpar;](http://www.techmeme.com/250303/p3#a250303p3)
- - [TCL&#39;s 60 Phone Series Expands With 108-Megapixel Cameras, Bigger Batteries](https://www.cnet.com/tech/mobile/tcls-60-phone-series-expands-with-108-megapixel-cameras-bigger-batteries/#ftag=CAD590a51e)
- - [Best Filtered Water Bottles of 2025](https://www.cnet.com/health/best-filtered-water-bottle/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Best Filtered Water Bottles of 2025](https://www.cnet.com/health/best-filtered-water-bottle/#ftag=CAD590a51e)
+ - [TCL&#39;s 60 Phone Series Expands With 108-Megapixel Cameras, Bigger Batteries](https://www.cnet.com/tech/mobile/tcls-60-phone-series-expands-with-108-megapixel-cameras-bigger-batteries/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

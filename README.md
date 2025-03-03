@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The US&#39; plan to cut federal contracts imperils Booz Allen Hamilton, which gets most of its revenue from providing IT and AI services across the government &lpar;Chip Cutter/Wall Street Journal&rpar;](http://www.techmeme.com/250302/p13#a250302p13)
  - [This Modular Phone Concept Is Xiaomi’s Plan to Kill the Camera Bump](https://www.wired.com/story/xiaomi-modular-optical-system-mwc-2025/)
  - [A trader used $6M to open a 50x leveraged long position on both BTC and ETH before Trump&#39;s crypto reserve announcement and closed their position for a $7M gain &lpar;Zack Abrams/The Block&rpar;](http://www.techmeme.com/250302/p12#a250302p12)
  - [MWC 2025: all the phones, gadgets, and commentary from Barcelona](https://www.theverge.com/news/616633/mwc-2025-news-products-announcements)
- - [Infinix’s new concepts use solar power to charge your phone](https://www.theverge.com/news/622581/infinix-solar-phone-case-concept-mwc)
- - [Instagram’s Threads: all the updates on the new Twitter competitor](https://www.theverge.com/2023/7/5/23784480/threads-instagram-meta-news-twitter-competitor)<!-- TECH:END -->
+ - [Infinix’s new concepts use solar power to charge your phone](https://www.theverge.com/news/622581/infinix-solar-phone-case-concept-mwc)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

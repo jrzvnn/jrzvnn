@@ -166,9 +166,9 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [So much sadness](http://9gag.com/gag/ae91wxB)
- - 😝 [And blackjack](http://9gag.com/gag/aD2651d)
- - 💣 [Dark day.](http://9gag.com/gag/aBy65AN)
+ - 😝 [Don&#39;t need subtitles](http://9gag.com/gag/a345rAv)
+ - 😝 [It\u2019s time. Show me your cursed pictures.](http://9gag.com/gag/aVvopAv)
+ - 💣 [Splinter](http://9gag.com/gag/a345677)
  - 😝 [Time for the ultimate battles in Mecha BREAK\ud83d\udca5](http://9gag.com/gag/aE06LPM)
  - 👉 [The benefits of living near a golf course](http://9gag.com/gag/a6ZXYzm)<!-- MEMES:END -->
 

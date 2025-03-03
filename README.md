@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Pamela Anderson Circa 1991](http://9gag.com/gag/a9y6xo0)
- - 😝 [Much wow](http://9gag.com/gag/ary3Y9V)
+ - 😝 [This is pure satisfaction.](http://9gag.com/gag/aD26Kmd)
+ - 😝 [So much sadness](http://9gag.com/gag/ae91wxB)
  - 💣 [And blackjack](http://9gag.com/gag/aD2651d)
  - 😝 [Time for the ultimate battles in Mecha BREAK\ud83d\udca5](http://9gag.com/gag/aE06LPM)
- - 👉 [Splinter](http://9gag.com/gag/a345677)<!-- MEMES:END -->
+ - 👉 [Pamela Anderson Circa 1991](http://9gag.com/gag/a9y6xo0)<!-- MEMES:END -->
 
 ---
 

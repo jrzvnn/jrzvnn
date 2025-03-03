@@ -169,7 +169,7 @@ R                        1 repo              ░░░░░░░░░░░�
  - 😝 [So much sadness](http://9gag.com/gag/ae91wxB)
  - 😝 [Road tax \ud83d\ude05](http://9gag.com/gag/agm1eQv)
  - 💣 [He presented hard evidence but cops still weren&#39;t convinced](http://9gag.com/gag/avy1KDZ)
- - 😝 [Let me help too - Memes from my phone #1](http://9gag.com/gag/azxdnLm)
+ - 😝 [Bro used 100,000 lumens flashlight to escape.](http://9gag.com/gag/a1mN62v)
  - 👉 [Splinter](http://9gag.com/gag/a345677)<!-- MEMES:END -->
 
 ---

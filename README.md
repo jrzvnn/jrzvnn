@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Don&#39;t need subtitles](http://9gag.com/gag/a345rAv)
  - 😝 [It\u2019s time. Show me your cursed pictures.](http://9gag.com/gag/aVvopAv)
- - 💣 [Splinter](http://9gag.com/gag/a345677)
+ - 😝 [The benefits of living near a golf course](http://9gag.com/gag/a6ZXYzm)
+ - 💣 [This is pure satisfaction.](http://9gag.com/gag/aD26Kmd)
  - 😝 [Time for the ultimate battles in Mecha BREAK\ud83d\udca5](http://9gag.com/gag/aE06LPM)
- - 👉 [The benefits of living near a golf course](http://9gag.com/gag/a6ZXYzm)<!-- MEMES:END -->
+ - 👉 [Much wow](http://9gag.com/gag/ary3Y9V)<!-- MEMES:END -->
 
 ---
 

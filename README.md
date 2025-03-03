@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [He presented hard evidence but cops still weren&#39;t convinced](http://9gag.com/gag/avy1KDZ)
- - 😝 [Pamela Anderson Circa 1991](http://9gag.com/gag/a9y6xo0)
- - 💣 [Splinter](http://9gag.com/gag/a345677)
+ - 😝 [You need a bath, woman](http://9gag.com/gag/ae91wXj)
+ - 😝 [When there&#39;s no brief about the project and you assign the newbie for it.](http://9gag.com/gag/aO8e5jv)
+ - 💣 [Bro used 100,000 lumens flashlight to escape.](http://9gag.com/gag/a1mN62v)
  - 😝 [But At Least It Came Back](http://9gag.com/gag/aZZ16Ln)
- - 👉 [Dammit Brayden](http://9gag.com/gag/ajP1eAR)<!-- MEMES:END -->
+ - 👉 [Now what](http://9gag.com/gag/a345r8Q)<!-- MEMES:END -->
 
 ---
 

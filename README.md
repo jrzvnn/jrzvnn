@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Identify theft is not a joke, Jim](http://9gag.com/gag/aD269md)
- - 😝 [And blackjack](http://9gag.com/gag/aD2651d)
- - 💣 [Fight together, die together](http://9gag.com/gag/aBy6AQ1)
+ - 😝 [Pamela Anderson Circa 1991](http://9gag.com/gag/a9y6xo0)
+ - 😝 [You need a bath, woman](http://9gag.com/gag/ae91wXj)
+ - 💣 [He presented hard evidence but cops still weren&#39;t convinced](http://9gag.com/gag/avy1KDZ)
  - 😝 [Now what](http://9gag.com/gag/a345r8Q)
- - 👉 [Approved](http://9gag.com/gag/aYQE6ZN)<!-- MEMES:END -->
+ - 👉 [Splinter](http://9gag.com/gag/a345677)<!-- MEMES:END -->
 
 ---
 

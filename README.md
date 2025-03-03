@@ -167,10 +167,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [Eating dusts.](http://9gag.com/gag/aAy6jWd)
- - 😝 [It\u2019s time. Show me your cursed pictures.](http://9gag.com/gag/aVvopAv)
- - 💣 [Beauty standards](http://9gag.com/gag/a876xwV)
+ - 😝 [And blackjack](http://9gag.com/gag/aD2651d)
+ - 💣 [Let me help too - Memes from my phone #1](http://9gag.com/gag/azxdnLm)
  - 😝 [Time for the ultimate battles in Mecha BREAK\ud83d\udca5](http://9gag.com/gag/aE06LPM)
- - 👉 [Make my happy always](http://9gag.com/gag/a2vwe3w)<!-- MEMES:END -->
+ - 👉 [I need to go back to school](http://9gag.com/gag/amo1ezy)<!-- MEMES:END -->
 
 ---
 

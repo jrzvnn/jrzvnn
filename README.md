@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [A Lethal Mystery Illness Is Spreading in Congo. USAID Cuts Have Slowed the Response](https://www.wired.com/story/race-to-identify-drcs-mystery-illness-slowed-by-us-aid-cuts-democratic-republic-congo-usaid/)
  - [MWC 2025: all the phones, gadgets, and commentary from Barcelona](https://www.theverge.com/news/616633/mwc-2025-news-products-announcements)
  - [Trump’s first 100 days: all the news affecting the tech industry](https://www.theverge.com/24348851/donald-trump-presidency-tech-science-news)
  - [Vision Pro apps: the good, the bad, and the ridiculous](https://www.theverge.com/2024/1/18/24043367/apple-vision-pro-apps-good-bad)
- - [Mozilla rewrites Firefox&#39;s Terms of Use, after recent changes with overly broad language about user data sparked user backlash &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/250303/p21#a250303p21)
- - [SwitchBot launches cut-your-own smart shades](https://www.theverge.com/news/623000/switchbot-smart-roller-shades-adjustable-price-release-date-specs)<!-- TECH:END -->
+ - [Mozilla rewrites Firefox&#39;s Terms of Use, after recent changes with overly broad language about user data sparked user backlash &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/250303/p21#a250303p21)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

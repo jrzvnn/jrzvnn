@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Google demos new Gemini features, including Screenshare to let users ask questions based on their phone&#39;s screen, and video search, coming later in March 2025 &lpar;Ivan Mehta/TechCrunch&rpar;](http://www.techmeme.com/250303/p8#a250303p8)
+ - [Amazon’s Delivery Drones Are Grounded. The Birds and Dogs of This Texas Town Are Grateful](https://www.wired.com/story/texas-amazon-drones-stop-flying/)
  - [MWC 2025: all the phones, gadgets, and commentary from Barcelona](https://www.theverge.com/news/616633/mwc-2025-news-products-announcements)
  - [14 Best Office Chairs of 2025— I&#39;ve Tested 55+ to Pick Them](https://www.wired.com/gallery/best-office-chairs/)
- - [Guggenheim Partners CEO Mark Walter and ex-Legendary Entertainment owner Thomas Tull launch TWG Global to invest in AI, sources say with nearly $40B in assets &lpar;Antoine Gara/Financial Times&rpar;](http://www.techmeme.com/250303/p7#a250303p7)
- - [MWC 2025: Lenovo unveils new laptops, including the $1,799+ Yoga Pro 9i Aura Edition, with GenAI features, updates its ThinkPad lineup, and demos new concepts &lpar;Mariella Moon/Engadget&rpar;](http://www.techmeme.com/250303/p6#a250303p6)
- - [When to Watch the &#39;Paradise&#39; Finale on Hulu](https://www.cnet.com/tech/services-and-software/when-to-watch-the-paradise-finale-on-hulu/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Guggenheim Partners CEO Mark Walter and ex-Legendary Entertainment owner Thomas Tull launch TWG Global to invest in AI, sources say with nearly $40B in assets &lpar;Antoine Gara/Financial Times&rpar;](http://www.techmeme.com/250303/p7#a250303p7)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

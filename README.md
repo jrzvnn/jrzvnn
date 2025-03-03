@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [There is no salvation.](http://9gag.com/gag/aBy67yN)
- - 😝 [Yeah skyrim is ez](http://9gag.com/gag/aPAmKzP)
- - 💣 [He Is a Man of Focus, Commitment and Sheer F**king Will](http://9gag.com/gag/aO8eXx6)
+ - 😝 [Fight together, die together](http://9gag.com/gag/aBy6AQ1)
+ - 😝 [Dark day.](http://9gag.com/gag/aBy65AN)
+ - 💣 [The benefits of living near a golf course](http://9gag.com/gag/a6ZXYzm)
  - 😝 [Time for the ultimate battles in Mecha BREAK\ud83d\udca5](http://9gag.com/gag/aE06LPM)
- - 👉 [People are strange](http://9gag.com/gag/aKGArX3)<!-- MEMES:END -->
+ - 👉 [It\u2019s time. Show me your cursed pictures.](http://9gag.com/gag/aVvopAv)<!-- MEMES:END -->
 
 ---
 

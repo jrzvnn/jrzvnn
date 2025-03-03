@@ -157,10 +157,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Documents and sources: the Trump administration cut 170 staff at the National Science Foundation federal agency, threatening AI research and US competitiveness &lpar;Jackie Davalos/Bloomberg&rpar;](http://www.techmeme.com/250303/p16#a250303p16)
+ - [iPhone buyer&#39;s guide early 2025: iPhone 16, iPhone 16 Pro, or iPhone 16e?](https://appleinsider.com/articles/25/03/03/iphone-buyers-guide-early-2025-iphone-16-iphone-16-pro-or-iphone-16e?utm_medium=rss)
+ - [Google’s Pixel 7 Pro is on sale for just $199.99 &lpar;update: sold out&rpar;](https://www.theverge.com/good-deals/622965/google-pixel-7-pro-phone-best-buy-deal-sale)
  - [Amazon is clearing out MacBook Air &amp; iPad Pro inventory with bonus coupons](https://appleinsider.com/articles/25/03/03/amazon-is-clearing-out-macbook-air-ipad-pro-inventory-with-bonus-coupons?utm_medium=rss)
  - [Tim Cook teases the imminent launch of a new MacBook Air](https://appleinsider.com/articles/25/03/03/tim-cook-teases-the-imminent-launch-of-a-new-macbook-air?utm_medium=rss)
- - [Google’s Pixel 7 Pro is on sale for just $199.99 right now](https://www.theverge.com/good-deals/622965/google-pixel-7-pro-phone-best-buy-deal-sale)
  - [BYD cars now have an on-vehicle DJI drone launch platform](https://www.theverge.com/news/622963/byd-dji-vehicle-mounted-drone-launcher)<!-- TECH:END -->
 
 ### 😂 Memes of the hour

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Anthropic raised a $3.5B Series E led by Lightspeed at a $61.5B valuation; source: its annual revenue run rate has grown by 30% in 2025, from ~$1B in late 2024 &lpar;Shirin Ghaffary/Bloomberg&rpar;](http://www.techmeme.com/250303/p29#a250303p29)
+ - [US tariffs: how Trump’s tax is hitting Big Tech and beyond](https://www.theverge.com/604742/trump-tariffs-canada-mexico-china-updates)
+ - [Trump&#39;s FDA Cuts Are Putting Drug Development at Risk](https://www.wired.com/story/trump-fda-cuts-drug-development-delays/)
  - [Docs: TikTok generated $1.7B globally in sales from TikTok Live in one 2023 quarter, with $400M+ from the US, projects Live will generate $77B globally by 2027 &lpar;Alexandra S. Levine/Bloomberg&rpar;](http://www.techmeme.com/250303/p28#a250303p28)
- - [CoreWeave, which provides cloud-based GPUs to Meta, Microsoft, and other businesses, files for an IPO on the Nasdaq under the symbol CRWV &lpar;CNBC&rpar;](http://www.techmeme.com/250303/p27#a250303p27)
- - [Elon Musk’s $1 Spending Limit Is Paralyzing Federal Agencies](https://www.wired.com/story/doge-elon-musk-spending-cuts-federal-workers/)
- - [New in iOS 18.4 beta 2: Visual Intelligence on iPhone 15 Pro, Apple Vision Pro app, more](https://appleinsider.com/articles/25/03/03/new-in-ios-184-beta-2-visual-intelligence-on-iphone-15-pro-apple-vision-pro-app-more?utm_medium=rss)
- - [Source: Ramp crossed $700M in annualized revenue in January 2025, up from $300M in August 2023; its CEO says it&#39;s not profitable by choice as it reinvests &lpar;Mary Ann Azevedo/TechCrunch&rpar;](http://www.techmeme.com/250303/p26#a250303p26)<!-- TECH:END -->
+ - [CoreWeave, which provides cloud-based GPUs to Meta, Microsoft, and other businesses, files for an IPO on the Nasdaq under the symbol CRWV &lpar;CNBC&rpar;](http://www.techmeme.com/250303/p27#a250303p27)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

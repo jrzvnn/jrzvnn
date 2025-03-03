@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [Wait, wait, wait, wait, wait!](http://9gag.com/gag/axy3XbL)
  - 😝 [Eating dusts.](http://9gag.com/gag/aAy6jWd)
- - 😝 [This is pure satisfaction.](http://9gag.com/gag/aD26Kmd)
- - 💣 [White n tight](http://9gag.com/gag/apR3wg9)
+ - 💣 [Fight together, die together](http://9gag.com/gag/aBy6AQ1)
  - 😝 [Time for the ultimate battles in Mecha BREAK\ud83d\udca5](http://9gag.com/gag/aE06LPM)
- - 👉 [I need to go back to school](http://9gag.com/gag/amo1ezy)<!-- MEMES:END -->
+ - 👉 [The benefits of living near a golf course](http://9gag.com/gag/a6ZXYzm)<!-- MEMES:END -->
 
 ---
 

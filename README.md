@@ -167,10 +167,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [Beauty standards](http://9gag.com/gag/a876xwV)
- - 😝 [I need to go back to school](http://9gag.com/gag/amo1ezy)
+ - 😝 [Pamela Anderson Circa 1991](http://9gag.com/gag/a9y6xo0)
  - 💣 [Eating dusts.](http://9gag.com/gag/aAy6jWd)
  - 😝 [Time for the ultimate battles in Mecha BREAK\ud83d\udca5](http://9gag.com/gag/aE06LPM)
- - 👉 [Pamela Anderson Circa 1991](http://9gag.com/gag/a9y6xo0)<!-- MEMES:END -->
+ - 👉 [This is pure satisfaction.](http://9gag.com/gag/aD26Kmd)<!-- MEMES:END -->
 
 ---
 

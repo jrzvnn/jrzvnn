@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Fight together, die together](http://9gag.com/gag/aBy6AQ1)
+ - 😝 [Such a great film!](http://9gag.com/gag/a0eXA9n)
  - 😝 [Dark day.](http://9gag.com/gag/aBy65AN)
  - 💣 [The benefits of living near a golf course](http://9gag.com/gag/a6ZXYzm)
  - 😝 [Time for the ultimate battles in Mecha BREAK\ud83d\udca5](http://9gag.com/gag/aE06LPM)
- - 👉 [It\u2019s time. Show me your cursed pictures.](http://9gag.com/gag/aVvopAv)<!-- MEMES:END -->
+ - 👉 [Splinter](http://9gag.com/gag/a345677)<!-- MEMES:END -->
 
 ---
 

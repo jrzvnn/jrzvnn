@@ -168,9 +168,9 @@ R                        1 repo              ░░░░░░░░░░░�
 <!-- MEMES:START -->
  - 😝 [There is no salvation.](http://9gag.com/gag/aBy67yN)
  - 😝 [Yeah skyrim is ez](http://9gag.com/gag/aPAmKzP)
- - 💣 [People are strange](http://9gag.com/gag/aKGArX3)
+ - 💣 [He Is a Man of Focus, Commitment and Sheer F**king Will](http://9gag.com/gag/aO8eXx6)
  - 😝 [Time for the ultimate battles in Mecha BREAK\ud83d\udca5](http://9gag.com/gag/aE06LPM)
- - 👉 [He Is a Man of Focus, Commitment and Sheer F**king Will](http://9gag.com/gag/aO8eXx6)<!-- MEMES:END -->
+ - 👉 [People are strange](http://9gag.com/gag/aKGArX3)<!-- MEMES:END -->
 
 ---
 

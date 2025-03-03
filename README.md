@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [The Duck Maker](http://9gag.com/gag/apR3MXn)
- - 😝 [Latvian passport under UV light](http://9gag.com/gag/aO8e5Mr)
- - 💣 [Splinter](http://9gag.com/gag/a345677)
- - 😝 [`Hey if you ever get invaded, the US has your back. Financially at least, not militarily. And only for maybe 2-3 years. And we will make you pay it back. And we will try and force you in to treaties that robs your nation of its resources.`](http://9gag.com/gag/aqyXoR7)
- - 👉 [You gotta be at least 35 to understand the meme](http://9gag.com/gag/aVvoyz2)<!-- MEMES:END -->
+ - 😝 [So much sadness](http://9gag.com/gag/ae91wxB)
+ - 😝 [Road tax \ud83d\ude05](http://9gag.com/gag/agm1eQv)
+ - 💣 [He presented hard evidence but cops still weren&#39;t convinced](http://9gag.com/gag/avy1KDZ)
+ - 😝 [Let me help too - Memes from my phone #1](http://9gag.com/gag/azxdnLm)
+ - 👉 [Splinter](http://9gag.com/gag/a345677)<!-- MEMES:END -->
 
 ---
 

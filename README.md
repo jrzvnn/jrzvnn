@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Source: Ramp crossed $700M in annualized revenue in January 2025, up from $300M in August 2023; its CEO says it&#39;s not profitable by choice as it reinvests &lpar;Mary Ann Azevedo/TechCrunch&rpar;](http://www.techmeme.com/250303/p26#a250303p26)
  - [Nvidia shares fell 8.69% amid fears about tariffs and increased scrutiny of GPU shipments that may be in violation of US export controls &lpar;Kif Leswing/CNBC&rpar;](http://www.techmeme.com/250303/p25#a250303p25)
  - [Patrick Soon-Shiong says LAT opinion pieces will show an AI-generated rating of their political content, and an AI-generated list of alternative political views &lpar;Lois Beckett/The Guardian&rpar;](http://www.techmeme.com/250303/p24#a250303p24)
  - [Trump’s first 100 days: all the news affecting the tech industry](https://www.theverge.com/24348851/donald-trump-presidency-tech-science-news)
- - [TSMC announces $100 billion investment in US chipmaking](https://www.theverge.com/news/623335/tsmc-chip-factories-100-billion-trump)
- - [CA state Senator Scott Wiener, author of the controversial 2024 AI safety bill SB 1047, introduces SB 53, a new bill to protect AI lab whistleblowers and more &lpar;Maxwell Zeff/TechCrunch&rpar;](http://www.techmeme.com/250303/p23#a250303p23)<!-- TECH:END -->
+ - [TSMC announces $100 billion investment in US chipmaking](https://www.theverge.com/news/623335/tsmc-chip-factories-100-billion-trump)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

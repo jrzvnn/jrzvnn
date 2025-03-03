@@ -158,10 +158,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- TECH:START -->
  - [MWC 2025: all the phones, gadgets, and commentary from Barcelona](https://www.theverge.com/news/616633/mwc-2025-news-products-announcements)
- - [Sources: Nvidia and Broadcom are running 18A manufacturing tests with Intel, and AMD is also evaluating whether Intel&#39;s 18A process is suitable for its needs &lpar;Reuters&rpar;](http://www.techmeme.com/250303/p10#a250303p10)
- - [Tonal 2 Review: Smarter Strength Training](https://www.wired.com/review/tonal-2-home-gym/)
- - [RedMagic 10 Pro&#39;s $1,499 Golden Saga Phone Is Coming to MWC 2025](https://www.cnet.com/tech/mobile/redmagic-10-pros-1499-golden-saga-phone-is-coming-to-mwc-2025/#ftag=CAD590a51e)
- - [Oppo Find N5 Review: A Remarkable Thin Foldable Phone That&#39;s Surprisingly Practical](https://www.cnet.com/tech/mobile/oppo-find-n5-review-a-remarkable-thin-foldable-phone-thats-surprisingly-practical/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Google’s cofounder tells AI staff to stop ‘building nanny products’](https://www.theverge.com/command-line-newsletter/622045/google-ai-nanny-products)
+ - [Chip race: Microsoft, Meta, Google, and Nvidia battle it out for AI chip supremacy](https://www.theverge.com/2024/2/1/24058186/ai-chips-meta-microsoft-google-nvidia)
+ - [All the news about Netflix’s gaming efforts](https://www.theverge.com/22772589/netflix-video-games-app-news-updates)
+ - [Photoshop iPhone App Hands-On: Convenience Is the Name of the Game](https://www.cnet.com/tech/services-and-software/photoshop-iphone-app-hands-on-convenience-is-the-name-of-the-game/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

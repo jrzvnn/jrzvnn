@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [How Anthropic monitoring its AI models playing Pok&amp;eacute;mon games is helping the startup&#39;s researchers hone their thinking around the development of its agentic tech &lpar;Abram Brown/The Information&rpar;](http://www.techmeme.com/250303/p3#a250303p3)
  - [The UK&#39;s ICO says it&#39;s probing how TikTok uses 13-17-year-olds&#39; personal data for content suggestions and how Reddit and Imgur verify the ages of child users &lpar;Reuters&rpar;](http://www.techmeme.com/250303/p2#a250303p2)
  - [This Modular Phone Concept Is Xiaomi’s Plan to Kill the Camera Bump](https://www.wired.com/story/xiaomi-modular-optical-system-mwc-2025/)
  - [A look at ALERTCalifornia, a program from UC San Diego, which has deployed over 1,150 AI-equipped cameras to monitor wildfires and other natural disasters &lpar;Jim Carlton/Wall Street Journal&rpar;](http://www.techmeme.com/250303/p1#a250303p1)
- - [Hulu prematurely ended its Oscars stream right before the final awards](https://www.theverge.com/news/622669/hulu-oscars-stream-ended-early)
- - [Today&#39;s NYT Mini Crossword Answers for Monday, March 3](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-monday-march-3/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Hulu prematurely ended its Oscars stream right before the final awards](https://www.theverge.com/news/622669/hulu-oscars-stream-ended-early)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

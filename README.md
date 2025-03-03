@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Self-driving cars: Google and others map the road to automated vehicles](https://www.theverge.com/2012/12/23/3797260/self-driving-cars-automated-vehicles)
+ - [Google Play is going to start highlighting apps with widgets](https://www.theverge.com/news/623289/google-play-apps-widgets-highlighting)
  - [Fingerprints and splatters: New emoji arrive in iOS 18.4 developer beta](https://appleinsider.com/articles/25/03/03/fingerprints-and-splatters-new-emoji-arrive-in-ios-184-developer-beta?utm_medium=rss)
  - [Logitech’s best gaming mouse has fallen to its lowest price ever](https://www.theverge.com/good-deals/622951/logitech-g-pro-x-superlight-2-mouse-ipad-mini-deal-sale)
- - [At a press conference with Trump, TSMC CEO CC Wei says the company plans to invest $100B+ in the US over four years, in addition to its current $65B investment &lpar;Axios&rpar;](http://www.techmeme.com/250303/p22#a250303p22)
- - [Trump’s first 100 days: all the news affecting the tech industry](https://www.theverge.com/24348851/donald-trump-presidency-tech-science-news)
- - [The FTC is being hit by terminations](https://www.theverge.com/news/623242/federal-trade-commission-terminations)<!-- TECH:END -->
+ - [At a press conference with Trump, TSMC CEO CC Wei says the company plans to invest $100B+ in the US over four years, in addition to its current $65B investment &lpar;Axios&rpar;](http://www.techmeme.com/250303/p22#a250303p22)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

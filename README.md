@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [It’s clearly time: all the news about the transparent tech renaissance](https://www.theverge.com/23774468/clear-transparent-tech-gadgets-news-announcements-products)
+ - [MWC 2025: all the phones, gadgets, and commentary from Barcelona](https://www.theverge.com/news/616633/mwc-2025-news-products-announcements)
  - [Google updates Google Play on Android to highlight apps with widgets, adding a widget search filter, widget badges on app pages, and a curated editorial page &lpar;Jay Peters/The Verge&rpar;](http://www.techmeme.com/250303/p31#a250303p31)
  - [The best fitness trackers to buy right now](https://www.theverge.com/22985108/best-fitness-tracker)
- - [A deep dive into how Facebook, Messenger, WhatsApp, Tinder, and Airbnb are being used to facilitate cross-border underage sex trafficking in Colombia &lpar;Bloomberg&rpar;](http://www.techmeme.com/250303/p30#a250303p30)
- - [Best Sounding Wireless Earbuds in 2025](https://www.cnet.com/tech/mobile/best-sounding-wireless-earbuds/#ftag=CAD590a51e)
- - [Football, Music, Kids: HMD&#39;s New Phones Cater to Many a Niche](https://www.cnet.com/tech/mobile/football-music-kids-hmds-new-phones-cater-to-many-a-niche/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [A deep dive into how Facebook, Messenger, WhatsApp, Tinder, and Airbnb are being used to facilitate cross-border underage sex trafficking in Colombia &lpar;Bloomberg&rpar;](http://www.techmeme.com/250303/p30#a250303p30)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The 8 Automatic Litter Boxes We&#39;ve Tested and Recommend &lpar;2025&rpar;](https://www.wired.com/gallery/the-best-automatic-cat-litter-boxes/)
  - [MWC 2025: all the phones, gadgets, and commentary from Barcelona](https://www.theverge.com/news/616633/mwc-2025-news-products-announcements)
  - [Google’s cofounder tells AI staff to stop ‘building nanny products’](https://www.theverge.com/command-line-newsletter/622045/google-ai-nanny-products)
  - [Chip race: Microsoft, Meta, Google, and Nvidia battle it out for AI chip supremacy](https://www.theverge.com/2024/2/1/24058186/ai-chips-meta-microsoft-google-nvidia)
- - [All the news about Netflix’s gaming efforts](https://www.theverge.com/22772589/netflix-video-games-app-news-updates)
- - [Photoshop iPhone App Hands-On: Convenience Is the Name of the Game](https://www.cnet.com/tech/services-and-software/photoshop-iphone-app-hands-on-convenience-is-the-name-of-the-game/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [All the news about Netflix’s gaming efforts](https://www.theverge.com/22772589/netflix-video-games-app-news-updates)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

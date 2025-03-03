@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [iPhone buyer&#39;s guide early 2025: iPhone 16, iPhone 16 Pro, or iPhone 16e?](https://appleinsider.com/articles/25/03/03/iphone-buyers-guide-early-2025-iphone-16-iphone-16-pro-or-iphone-16e?utm_medium=rss)
- - [Google’s Pixel 7 Pro is on sale for just $199.99 &lpar;update: sold out&rpar;](https://www.theverge.com/good-deals/622965/google-pixel-7-pro-phone-best-buy-deal-sale)
- - [Amazon is clearing out MacBook Air &amp; iPad Pro inventory with bonus coupons](https://appleinsider.com/articles/25/03/03/amazon-is-clearing-out-macbook-air-ipad-pro-inventory-with-bonus-coupons?utm_medium=rss)
- - [Tim Cook teases the imminent launch of a new MacBook Air](https://appleinsider.com/articles/25/03/03/tim-cook-teases-the-imminent-launch-of-a-new-macbook-air?utm_medium=rss)
- - [BYD cars now have an on-vehicle DJI drone launch platform](https://www.theverge.com/news/622963/byd-dji-vehicle-mounted-drone-launcher)<!-- TECH:END -->
+ - [Trump’s first 100 days: all the news affecting the tech industry](https://www.theverge.com/24348851/donald-trump-presidency-tech-science-news)
+ - [The US faces &amp;#8216;devastating&amp;#8217; losses for weather forecasts, federal workers say](https://www.theverge.com/news/622990/trump-doge-government-layoffs-doge-weather-forecasts-noaa)
+ - [BYD unveils &quot;Lingyuan&quot;, a vehicle-mounted drone launching system available for all of its vehicles that costs about $2,200, developed in collaboration with DJI &lpar;Wes Davis/The Verge&rpar;](http://www.techmeme.com/250303/p18#a250303p18)
+ - [Amazon&amp;#8217;s Panos Panay on the long road to Alexa&amp;#8217;s AI overhaul](https://www.theverge.com/decoder-podcast-with-nilay-patel/621232/amazon-panos-panay-interview-alexa-plus-ai-smart-home)
+ - [iPhone buyer&#39;s guide early 2025: iPhone 16, iPhone 16 Pro, or iPhone 16e?](https://appleinsider.com/articles/25/03/03/iphone-buyers-guide-early-2025-iphone-16-iphone-16-pro-or-iphone-16e?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

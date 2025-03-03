@@ -169,8 +169,8 @@ R                        1 repo              ░░░░░░░░░░░�
  - 😝 [People are strange](http://9gag.com/gag/aKGArX3)
  - 😝 [Yet again!](http://9gag.com/gag/ayN3OjM)
  - 💣 [Chris P. Bacon](http://9gag.com/gag/agm1Mxv)
- - 😝 [Time for the ultimate battles in Mecha BREAK\ud83d\udca5](http://9gag.com/gag/aE06LPM)
- - 👉 [This is pure satisfaction.](http://9gag.com/gag/aD26Kmd)<!-- MEMES:END -->
+ - 😝 [This is basically why we all exist today.](https://www.reddit.com/r/funny/comments/1j2woa4/this_is_basically_why_we_all_exist_today/)
+ - 👉 [Time for the ultimate battles in Mecha BREAK\ud83d\udca5](http://9gag.com/gag/aE06LPM)<!-- MEMES:END -->
 
 ---
 

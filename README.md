@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Bro used 100,000 lumens flashlight to escape.](http://9gag.com/gag/a1mN62v)
- - 😝 [Much wow](http://9gag.com/gag/ary3Y9V)
- - 💣 [Fight together, die together](http://9gag.com/gag/aBy6AQ1)
- - 😝 [Is that right](http://9gag.com/gag/aGyn5AX)
- - 👉 [Eating dusts.](http://9gag.com/gag/aAy6jWd)<!-- MEMES:END -->
+ - 😝 [He presented hard evidence but cops still weren&#39;t convinced](http://9gag.com/gag/avy1KDZ)
+ - 😝 [Fight together, die together](http://9gag.com/gag/aBy6AQ1)
+ - 💣 [Eating dusts.](http://9gag.com/gag/aAy6jWd)
+ - 😝 [Time for the ultimate battles in Mecha BREAK\ud83d\udca5](http://9gag.com/gag/aE06LPM)
+ - 👉 [Splinter](http://9gag.com/gag/a345677)<!-- MEMES:END -->
 
 ---
 

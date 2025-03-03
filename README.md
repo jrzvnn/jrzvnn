@@ -166,10 +166,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Pamela Anderson Circa 1991](http://9gag.com/gag/a9y6xo0)
- - 😝 [You need a bath, woman](http://9gag.com/gag/ae91wXj)
- - 💣 [He presented hard evidence but cops still weren&#39;t convinced](http://9gag.com/gag/avy1KDZ)
- - 😝 [Now what](http://9gag.com/gag/a345r8Q)
+ - 😝 [But At Least It Came Back](http://9gag.com/gag/aZZ16Ln)
+ - 😝 [He presented hard evidence but cops still weren&#39;t convinced](http://9gag.com/gag/avy1KDZ)
+ - 💣 [Is that right](http://9gag.com/gag/aGyn5AX)
+ - 😝 [It\u2019s time. Show me your cursed pictures.](http://9gag.com/gag/aVvopAv)
  - 👉 [Splinter](http://9gag.com/gag/a345677)<!-- MEMES:END -->
 
 ---

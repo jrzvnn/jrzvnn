@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Logitech’s best gaming mouse has fallen to its lowest price ever](https://www.theverge.com/good-deals/622951/logitech-g-pro-x-superlight-2-mouse-ipad-mini-deal-sale)
  - [At a press conference with Trump, TSMC CEO CC Wei says the company plans to invest $100B+ in the US over four years, in addition to its current $65B investment &lpar;Axios&rpar;](http://www.techmeme.com/250303/p22#a250303p22)
  - [Trump’s first 100 days: all the news affecting the tech industry](https://www.theverge.com/24348851/donald-trump-presidency-tech-science-news)
  - [The FTC is being hit by terminations](https://www.theverge.com/news/623242/federal-trade-commission-terminations)
- - [A Lethal Mystery Illness Is Spreading in Congo. USAID Cuts Have Slowed the Response](https://www.wired.com/story/race-to-identify-drcs-mystery-illness-slowed-by-us-aid-cuts-democratic-republic-congo-usaid/)
- - [MWC 2025: all the phones, gadgets, and commentary from Barcelona](https://www.theverge.com/news/616633/mwc-2025-news-products-announcements)<!-- TECH:END -->
+ - [A Lethal Mystery Illness Is Spreading in Congo. USAID Cuts Have Slowed the Response](https://www.wired.com/story/race-to-identify-drcs-mystery-illness-slowed-by-us-aid-cuts-democratic-republic-congo-usaid/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

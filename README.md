@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Patrick Soon-Shiong says LAT opinion pieces will show an AI-generated rating of their political content, and an AI-generated list of alternative political views &lpar;Lois Beckett/The Guardian&rpar;](http://www.techmeme.com/250303/p24#a250303p24)
  - [Trump’s first 100 days: all the news affecting the tech industry](https://www.theverge.com/24348851/donald-trump-presidency-tech-science-news)
  - [TSMC announces $100 billion investment in US chipmaking](https://www.theverge.com/news/623335/tsmc-chip-factories-100-billion-trump)
  - [CA state Senator Scott Wiener, author of the controversial 2024 AI safety bill SB 1047, introduces SB 53, a new bill to protect AI lab whistleblowers and more &lpar;Maxwell Zeff/TechCrunch&rpar;](http://www.techmeme.com/250303/p23#a250303p23)
- - [Fingerprints and splatters: New emoji arrive in iOS 18.4 developer beta](https://appleinsider.com/articles/25/03/03/fingerprints-and-splatters-new-emoji-arrive-in-ios-184-developer-beta?utm_medium=rss)
- - [Self-driving cars: Google and others map the road to automated vehicles](https://www.theverge.com/2012/12/23/3797260/self-driving-cars-automated-vehicles)<!-- TECH:END -->
+ - [Fingerprints and splatters: New emoji arrive in iOS 18.4 developer beta](https://appleinsider.com/articles/25/03/03/fingerprints-and-splatters-new-emoji-arrive-in-ios-184-developer-beta?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

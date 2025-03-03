@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [It\u2019s time. Show me your cursed pictures.](http://9gag.com/gag/aVvopAv)
- - 😝 [Now what](http://9gag.com/gag/a345r8Q)
- - 💣 [Pamela Anderson Circa 1991](http://9gag.com/gag/a9y6xo0)
+ - 😝 [He presented hard evidence but cops still weren&#39;t convinced](http://9gag.com/gag/avy1KDZ)
+ - 😝 [Pamela Anderson Circa 1991](http://9gag.com/gag/a9y6xo0)
+ - 💣 [Splinter](http://9gag.com/gag/a345677)
  - 😝 [But At Least It Came Back](http://9gag.com/gag/aZZ16Ln)
- - 👉 [He presented hard evidence but cops still weren&#39;t convinced](http://9gag.com/gag/avy1KDZ)<!-- MEMES:END -->
+ - 👉 [Dammit Brayden](http://9gag.com/gag/ajP1eAR)<!-- MEMES:END -->
 
 ---
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [MWC 2025: all the phones, gadgets, and commentary from Barcelona](https://www.theverge.com/news/616633/mwc-2025-news-products-announcements)
  - [Sources: Nvidia and Broadcom are running 18A manufacturing tests with Intel, and AMD is also evaluating whether Intel&#39;s 18A process is suitable for its needs &lpar;Reuters&rpar;](http://www.techmeme.com/250303/p10#a250303p10)
  - [Tonal 2 Review: Smarter Strength Training](https://www.wired.com/review/tonal-2-home-gym/)
  - [RedMagic 10 Pro&#39;s $1,499 Golden Saga Phone Is Coming to MWC 2025](https://www.cnet.com/tech/mobile/redmagic-10-pros-1499-golden-saga-phone-is-coming-to-mwc-2025/#ftag=CAD590a51e)
- - [Oppo Find N5 Review: A Remarkable Thin Foldable Phone That&#39;s Surprisingly Practical](https://www.cnet.com/tech/mobile/oppo-find-n5-review-a-remarkable-thin-foldable-phone-thats-surprisingly-practical/#ftag=CAD590a51e)
- - [Lenovo Legion Go S Review: Blame Windows](https://www.cnet.com/tech/gaming/lenovo-legion-go-s-review-blame-windows/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Oppo Find N5 Review: A Remarkable Thin Foldable Phone That&#39;s Surprisingly Practical](https://www.cnet.com/tech/mobile/oppo-find-n5-review-a-remarkable-thin-foldable-phone-thats-surprisingly-practical/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

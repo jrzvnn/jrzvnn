@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The best fitness trackers to buy right now](https://www.theverge.com/22985108/best-fitness-tracker)
+ - [A deep dive into how Facebook, Messenger, WhatsApp, Tinder, and Airbnb are being used to facilitate cross-border underage sex trafficking in Colombia &lpar;Bloomberg&rpar;](http://www.techmeme.com/250303/p30#a250303p30)
  - [Anthropic raised a $3.5B Series E led by Lightspeed at a $61.5B valuation; source: its annual revenue run rate has grown by 30% in 2025, from ~$1B in late 2024 &lpar;Shirin Ghaffary/Bloomberg&rpar;](http://www.techmeme.com/250303/p29#a250303p29)
  - [US tariffs: how Trump’s tax is hitting Big Tech and beyond](https://www.theverge.com/604742/trump-tariffs-canada-mexico-china-updates)
- - [Trump&#39;s FDA Cuts Are Putting Drug Development at Risk](https://www.wired.com/story/trump-fda-cuts-drug-development-delays/)
- - [Docs: TikTok generated $1.7B globally in sales from TikTok Live in one 2023 quarter, with $400M+ from the US, projects Live will generate $77B globally by 2027 &lpar;Alexandra S. Levine/Bloomberg&rpar;](http://www.techmeme.com/250303/p28#a250303p28)
- - [CoreWeave, which provides cloud-based GPUs to Meta, Microsoft, and other businesses, files for an IPO on the Nasdaq under the symbol CRWV &lpar;CNBC&rpar;](http://www.techmeme.com/250303/p27#a250303p27)<!-- TECH:END -->
+ - [Trump’s FDA Cuts Are Putting Drug Development at Risk](https://www.wired.com/story/trump-fda-cuts-drug-development-delays/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Google brings Gemini widgets to iPhone as it looks to seize on Siri’s weaknesses](https://www.theverge.com/news/623117/google-gemini-ios-widgets-now-available)
+ - [Deutsche Telekom and Perplexity announce they are working on an &quot;AI Phone&quot; priced at under $1K, first aimed at the European market and slated to launch in 2026 &lpar;Ingrid Lunden/TechCrunch&rpar;](http://www.techmeme.com/250303/p19#a250303p19)
  - [Trump’s first 100 days: all the news affecting the tech industry](https://www.theverge.com/24348851/donald-trump-presidency-tech-science-news)
  - [The US faces &amp;#8216;devastating&amp;#8217; losses for weather forecasts, federal workers say](https://www.theverge.com/news/622990/trump-doge-government-layoffs-doge-weather-forecasts-noaa)
- - [BYD unveils &quot;Lingyuan&quot;, a vehicle-mounted drone launching system available for all of its vehicles that costs about $2,200, developed in collaboration with DJI &lpar;Wes Davis/The Verge&rpar;](http://www.techmeme.com/250303/p18#a250303p18)
- - [Amazon&amp;#8217;s Panos Panay on the long road to Alexa&amp;#8217;s AI overhaul](https://www.theverge.com/decoder-podcast-with-nilay-patel/621232/amazon-panos-panay-interview-alexa-plus-ai-smart-home)
- - [iPhone buyer&#39;s guide early 2025: iPhone 16, iPhone 16 Pro, or iPhone 16e?](https://appleinsider.com/articles/25/03/03/iphone-buyers-guide-early-2025-iphone-16-iphone-16-pro-or-iphone-16e?utm_medium=rss)<!-- TECH:END -->
+ - [BYD unveils &quot;Lingyuan&quot;, a vehicle-mounted drone launching system available for all of its vehicles that costs about $2,200, developed in collaboration with DJI &lpar;Wes Davis/The Verge&rpar;](http://www.techmeme.com/250303/p18#a250303p18)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

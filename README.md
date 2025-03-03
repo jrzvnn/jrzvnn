@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [New York-based corporate payments startup Ramp hit a $13B valuation in a $150M share sale to GIC, Stripes, Thrive, and others, up from $7.65B in April 2024 &lpar;George Hammond/Financial Times&rpar;](http://www.techmeme.com/250303/p9#a250303p9)
+ - [Tushy Aura Electric Bidet Review: Budget Bidet Maker Goes Luxe](https://www.wired.com/review/review-tushy-aura-electric-bidet/)
+ - [Apple robots are coming - what the rumor mill thinks is coming, and when](https://appleinsider.com/articles/25/03/03/apple-robots-are-coming---what-the-rumor-mill-thinks-is-coming-and-when?utm_medium=rss)
  - [Google demos new Gemini features, including Screenshare to let users ask questions based on their phone&#39;s screen, and video search, coming later in March 2025 &lpar;Ivan Mehta/TechCrunch&rpar;](http://www.techmeme.com/250303/p8#a250303p8)
- - [Amazon’s Delivery Drones Are Grounded. The Birds and Dogs of This Texas Town Are Grateful](https://www.wired.com/story/texas-amazon-drones-stop-flying/)
- - [MWC 2025: all the phones, gadgets, and commentary from Barcelona](https://www.theverge.com/news/616633/mwc-2025-news-products-announcements)
- - [14 Best Office Chairs of 2025— I&#39;ve Tested 55+ to Pick Them](https://www.wired.com/gallery/best-office-chairs/)
- - [Guggenheim Partners CEO Mark Walter and ex-Legendary Entertainment owner Thomas Tull launch TWG Global to invest in AI, sources say with nearly $40B in assets &lpar;Antoine Gara/Financial Times&rpar;](http://www.techmeme.com/250303/p7#a250303p7)<!-- TECH:END -->
+ - [Amazon’s Delivery Drones Are Grounded. The Birds and Dogs of This Texas Town Are Grateful](https://www.wired.com/story/texas-amazon-drones-stop-flying/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

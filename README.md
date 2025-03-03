@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [MWC 2025: all the phones, gadgets, and commentary from Barcelona](https://www.theverge.com/news/616633/mwc-2025-news-products-announcements)
- - [T-Mobile&amp;#8217;s parent company is making an &amp;#8216;AI Phone&amp;#8217; with Perplexity Assistant](https://www.theverge.com/news/623164/t-mobile-ai-phone-perplexity-assistant-mwc-2025)
- - [Google brings Gemini widgets to iPhone as it looks to seize on Siri’s weaknesses](https://www.theverge.com/news/623117/google-gemini-ios-widgets-now-available)
- - [Trump’s first 100 days: all the news affecting the tech industry](https://www.theverge.com/24348851/donald-trump-presidency-tech-science-news)
- - [The US faces &amp;#8216;devastating&amp;#8217; losses for weather forecasts, federal workers say](https://www.theverge.com/news/622990/trump-doge-government-layoffs-doge-weather-forecasts-noaa)<!-- TECH:END -->
+ - [Microsoft’s new Dragon Copilot is an AI assistant for healthcare](https://www.theverge.com/news/622528/microsoft-dragon-copilot-ai-healthcare-assistant)
+ - [From ChatGPT to Gemini: how AI is rewriting the internet](https://www.theverge.com/23610427/chatbots-chatgpt-new-bing-google-bard-conversational-ai)
+ - [All the news on Microsoft’s latest Copilot and Windows AI features](https://www.theverge.com/2024/10/1/24259261/microsoft-event-copilot-ai-windows)
+ - [iPhone chip maker TSMC plans $100 billion US investment](https://appleinsider.com/articles/25/03/03/iphone-chip-maker-tsmc-plans-100-billion-us-investment?utm_medium=rss)
+ - [YouTube is stepping up its efforts to sell you other streaming services](https://www.theverge.com/news/623171/youtube-tv-app-redesign-sell-streaming-services)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

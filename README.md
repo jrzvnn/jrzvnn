@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Trump Still Considering Tariffs on Taiwanese Chips, Despite $100 Billion TSMC Deal](https://www.wired.com/story/tsmc-tariffs-trump-impacts/)
  - [MWC 2025: all the phones, gadgets, and commentary from Barcelona](https://www.theverge.com/news/616633/mwc-2025-news-products-announcements)
  - [The best stuff we’ve seen at MWC so far](https://www.theverge.com/news/623755/mobile-world-congress-mwc-2025-smartphones-laptops-headphones)
  - [Some DOGE Staffers Are Drawing Six-Figure Government Salaries](https://www.wired.com/story/doge-government-salaries-elon-musk/)
- - [The 47 Best Shows on Hulu Right Now &lpar;March 2025&rpar;](https://www.wired.com/story/best-tv-shows-hulu-this-week/)
- - [Here’s where you can preorder the new entry-level iPad and M3 iPad Air](https://www.theverge.com/good-deals/623982/apple-m3-ipad-air-11th-gen-tablet-preorder-how-to-buy-price-release-date)<!-- TECH:END -->
+ - [10 Best Superfoods to Prevent Hair Loss](https://www.cnet.com/health/nutrition/10-best-foods-for-hair-loss/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple 11-inch and 13-inch iPad Air : Price, Specs, Availability](https://www.wired.com/story/apple-new-ipad-air-m3-chip/)
- - [Apple Pencil buyer&#39;s guide -- which of the four models works with your iPad?](https://appleinsider.com/articles/24/05/07/apple-pencil-buyers-guide----which-of-the-four-models-works-with-your-ipad?utm_medium=rss)
- - [MWC 2025: all the phones, gadgets, and commentary from Barcelona](https://www.theverge.com/news/616633/mwc-2025-news-products-announcements)
- - [What if your phone’s camera was much, much bigger?](https://www.theverge.com/news/623765/xiaomi-realme-camera-concepts-modular-lens-mwc-2025)
- - [Apple updates iPad Air with faster M3 processor](https://appleinsider.com/articles/25/03/04/apple-updates-ipad-air-with-faster-m3-processor?utm_medium=rss)<!-- TECH:END -->
+ - [Hermes Apple Watch band lineup expands with bold colors &amp; classic designs](https://appleinsider.com/articles/25/03/04/hermes-apple-watch-band-lineup-expands-with-bold-colors-classic-designs?utm_medium=rss)
+ - [Beats works with Sandy Liang for limited edition Beats Solo 4 with a bow](https://appleinsider.com/articles/25/03/04/beats-works-with-sandy-liang-for-limited-edition-beats-solo-4-with-a-bow?utm_medium=rss)
+ - [Donald Trump wants to delete ‘climate’ from federal websites — here’s how you can track the changes](https://www.theverge.com/news/623644/trump-climate-change-federal-government-website-tracker)
+ - [Source: Amazon is building a new &quot;hybrid reasoning&quot; AI model, slated for a June launch under the Nova brand, hoping it can be more price-efficient than rivals &lpar;Eugene Kim/Business Insider&rpar;](http://www.techmeme.com/250304/p16#a250304p16)
+ - [People Are Paying Millions to Dine With Donald Trump at Mar-a-Lago](https://www.wired.com/story/people-paying-millions-donald-trump-mar-a-lago/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

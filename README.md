@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [NYC-based Aescape, which makes AI-powered massage robots to be deployed in 60 Equinox gyms, raised $83M led by Valor Equity, a source says at a ~$250M valuation &lpar;Lizette Chapman/Bloomberg&rpar;](http://www.techmeme.com/250304/p10#a250304p10)
- - [Don&#39;t expect cheaper iCloud storage as Apple wins another monopoly lawsuit](https://appleinsider.com/articles/25/03/04/dont-expect-cheaper-icloud-storage-as-apple-wins-another-monopoly-lawsuit?utm_medium=rss)
- - [Uber launches Waymo rides in Austin, operating within a 37-square-mile area, including Hyde Park and Downtown; in August 2024, Waymo had ~700 vehicles total &lpar;Andrew J. Hawkins/The Verge&rpar;](http://www.techmeme.com/250304/p9#a250304p9)
- - [After Trump imposes new tariffs on China, its government adds 15 US companies to its export control list, including drone maker Skydio and a16z-backed Shield AI &lpar;Liza Lin/Wall Street Journal&rpar;](http://www.techmeme.com/250304/p8#a250304p8)
- - [Best Exercise Bikes for 2025](https://www.cnet.com/health/fitness/best-exercise-bike/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [US tariffs: how Trump’s tax is hitting Big Tech and beyond](https://www.theverge.com/604742/trump-tariffs-canada-mexico-china-updates)
+ - [Trump imposes tariffs on Mexico, Canada, and China](https://www.theverge.com/news/623403/trump-imposes-tariffs-mexico-canada-china)
+ - [iPhone 16e teardown reveals it&#39;s as easily repaired as the iPhone 16](https://appleinsider.com/articles/25/03/04/iphone-16e-teardown-reveals-its-as-easily-repaired-as-the-iphone-16?utm_medium=rss)
+ - [Peregrine, which develops a platform used by state and local law enforcement agencies with smaller budgets, raised $190M led by Sequoia at a $2.5B valuation &lpar;Lizette Chapman/Bloomberg&rpar;](http://www.techmeme.com/250304/p11#a250304p11)
+ - [MWC 2025: all the phones, gadgets, and commentary from Barcelona](https://www.theverge.com/news/616633/mwc-2025-news-products-announcements)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

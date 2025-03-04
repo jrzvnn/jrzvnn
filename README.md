@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [New M4 MacBook Air could debut on Wednesday](https://appleinsider.com/articles/25/03/04/new-m4-macbook-air-could-debut-on-wednesday?utm_medium=rss)
- - [Apple updates iPad Air with faster M3 processor](https://appleinsider.com/articles/25/03/04/apple-updates-ipad-air-with-faster-m3-processor?utm_medium=rss)
- - [Google Messages is using AI to detect scam texts](https://www.theverge.com/news/623632/google-messages-pixel-android-updates-scam-detection)
- - [From ChatGPT to Gemini: how AI is rewriting the internet](https://www.theverge.com/23610427/chatbots-chatgpt-new-bing-google-bard-conversational-ai)
- - [Microsoft’s new Copilot app for Windows has an improved UI](https://www.theverge.com/news/623889/microsoft-copilot-app-windows-native)<!-- TECH:END -->
+ - [Apple&#39;s new iPad updates are not dramatic, but don&#39;t need to be](https://appleinsider.com/articles/25/03/04/apples-new-ipad-updates-are-not-dramatic-but-dont-need-to-be?utm_medium=rss)
+ - [Google unveils AI-based Scam Detection in Google Messages in English, Android features like live location sharing in the Find My app, and new Pixel features &lpar;Jess Weatherbed/The Verge&rpar;](http://www.techmeme.com/250304/p18#a250304p18)
+ - [Sony&amp;#8217;s new beta program lets you test PS5 updates early](https://www.theverge.com/news/623905/sony-beta-program-playstation-test-ps5-updates-early)
+ - [AI now ‘analyzes’ LA Times articles for bias](https://www.theverge.com/news/623638/la-times-ai-generated-views-summaries-political-bias)
+ - [From ChatGPT to Gemini: how AI is rewriting the internet](https://www.theverge.com/23610427/chatbots-chatgpt-new-bing-google-bard-conversational-ai)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

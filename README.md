@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The Xbox Kinect, released in 2010 and discontinued in 2017, has found applications beyond gaming, including in interactive art, pornography, and ghost hunting &lpar;Geoffrey Bunting/The Guardian&rpar;](http://www.techmeme.com/250304/p2#a250304p2)
  - [Peacock Promo Codes and Coupons](https://www.wired.com/story/peacock-promo-code/)
  - [Visible Promo Code: Save $10 Per Month in March 2025](https://www.wired.com/story/visible-promo-code/)
  - [GPT-4.5 review: improved verbal intelligence, contextual adaptation, abstract writing, and better taste and aesthetics, but not ideal for reasoning or coding &lpar;Zvi Mowshowitz/Don&#39;t Worry About the Vase&rpar;](http://www.techmeme.com/250304/p1#a250304p1)
- - [Today&#39;s NYT Mini Crossword Answers for Tuesday, March 4](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-tuesday-march-4/#ftag=CAD590a51e)
- - [Jalisco&#39;s governor says Foxconn&#39;s $900M Guadalajara plant, the largest Nvidia GB200 server assembly site, will be built in a year despite Trump&#39;s tariff threat &lpar;Amy Stillman/Bloomberg&rpar;](http://www.techmeme.com/250303/p37#a250303p37)<!-- TECH:END -->
+ - [Today&#39;s NYT Mini Crossword Answers for Tuesday, March 4](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-tuesday-march-4/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -161,7 +161,7 @@ R                        1 repo              ░░░░░░░░░░░�
  - [MWC 2025: all the phones, gadgets, and commentary from Barcelona](https://www.theverge.com/news/616633/mwc-2025-news-products-announcements)
  - [The best stuff we’ve seen at MWC so far](https://www.theverge.com/news/623755/mobile-world-congress-mwc-2025-smartphones-laptops-headphones)
  - [Some DOGE Staffers Are Drawing Six-Figure Government Salaries](https://www.wired.com/story/doge-government-salaries-elon-musk/)
- - [10 Best Superfoods to Prevent Hair Loss](https://www.cnet.com/health/nutrition/10-best-foods-for-hair-loss/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [The 47 Best Shows on Hulu Right Now &lpar;March 2025&rpar;](https://www.wired.com/story/best-tv-shows-hulu-this-week/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

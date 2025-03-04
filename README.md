@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [How to See the Total Lunar Eclipse and Blood Moon This Month](https://www.wired.com/story/march-2025-lunar-eclipse-blood-moon/)
- - [TSMC&#39;s US investment is a win-win; dropping one advanced node protects its interests, while an advanced packaging plant and R&amp;D center boost US chip prowess &lpar;Ming-Chi Kuo&rpar;](http://www.techmeme.com/250304/p3#a250304p3)
- - [Meghan Markle&#39;s New Docuseries Is Out Now: How to Watch](https://www.cnet.com/tech/services-and-software/meghan-markles-new-docuseries-is-out-now-how-to-watch/#ftag=CAD590a51e)
- - [The Xbox Kinect, released in 2010 and discontinued in 2017, has found applications beyond gaming, including in interactive art, pornography, and ghost hunting &lpar;Geoffrey Bunting/The Guardian&rpar;](http://www.techmeme.com/250304/p2#a250304p2)
- - [Peacock Promo Codes and Coupons](https://www.wired.com/story/peacock-promo-code/)<!-- TECH:END -->
+ - [Nothing Phone &lpar;3a&rpar; and Phone &lpar;3a&rpar; Pro Review: Budget Excellence](https://www.wired.com/review/nothing-phone-3a-and-phone-3a-pro/)
+ - [Nothing’s Phone 3A and 3A Pro use AI to organize all your stuff](https://www.theverge.com/news/622405/nothing-phone-3a-pro-essential-space-price-specs)
+ - [Today&#39;s NYT Strands Hints, Answers and Help for March 4, #366](https://www.cnet.com/tech/gaming/todays-nyt-strands-hints-answers-and-help-for-march-4-366/#ftag=CAD590a51e)
+ - [Today&#39;s NYT Connections: Sports Edition Hints and Answers for March 4, #162](https://www.cnet.com/tech/gaming/todays-nyt-connections-sports-edition-hints-and-answers-for-march-4-162/#ftag=CAD590a51e)
+ - [Today&#39;s NYT Connections Hints, Answers and Help for March 4, #632](https://www.cnet.com/tech/gaming/todays-nyt-connections-hints-answers-and-help-for-march-4-632/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

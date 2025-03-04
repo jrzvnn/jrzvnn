@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Yet again!](http://9gag.com/gag/ayN3OjM)
- - 😝 [This ACTING...](http://9gag.com/gag/aW47wxn)
+ - 😝 [Snow white after waking up](http://9gag.com/gag/a2v8EMZ)
+ - 😝 [Welcome to Europe](http://9gag.com/gag/azxd6Zj)
  - 💣 [But At Least It Came Back](http://9gag.com/gag/aZZ16Ln)
- - 😝 [Time for the ultimate battles in Mecha BREAK\ud83d\udca5](http://9gag.com/gag/aE06LPM)
- - 👉 [Fight together, die together](http://9gag.com/gag/aBy6AQ1)<!-- MEMES:END -->
+ - 😝 [Beauty standards](http://9gag.com/gag/a876xwV)
+ - 👉 [A young girl files lawsuit against public school system in Connecticut for awarding her an honors diploma despite her inability to read or write. &lpar;Details in comments&rpar;](http://9gag.com/gag/aLne6Mz)<!-- MEMES:END -->
 
 ---
 

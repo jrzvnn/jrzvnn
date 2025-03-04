@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Jackery 2000 Explorer review: Power when you need it](https://appleinsider.com/articles/25/03/04/jackery-2000-explorer-review-power-when-you-need-it?utm_medium=rss)
- - [Creator monetization platform Passes and its CEO, Lucy Guo, are sued for allegedly distributing CSAM; the suit claims Guo intervened to override safety measures &lpar;Amanda Silberling/TechCrunch&rpar;](http://www.techmeme.com/250303/p33#a250303p33)
- - [The best phone to buy right now](https://www.theverge.com/22163811/best-phone)
- - [Google updates the iOS Gemini app, adding six new widgets for the lock screen and the Control Center, including one for its conversational mode Gemini Live &lpar;Abner Li/9to5Google&rpar;](http://www.techmeme.com/250303/p32#a250303p32)
- - [It’s clearly time: all the news about the transparent tech renaissance](https://www.theverge.com/23774468/clear-transparent-tech-gadgets-news-announcements-products)<!-- TECH:END -->
+ - [CoreWeave&#39;s S-1 shows ~77% of its $1.9B revenue in 2024 came from its top two customers, one of them being Microsoft, which accounted for 62% of total sales &lpar;Bailey Lipschultz/Bloomberg&rpar;](http://www.techmeme.com/250303/p35#a250303p35)
+ - [MWC 2025: Xiaomi&#39;s Photography-Focused 15 Ultra Is a Powerhouse](https://www.cnet.com/pictures/xiaomis-photography-focused-powerhouse-15-ultra-mwc-2025/#ftag=CAD590a51e)
+ - [A former CEO and chair of Intel says the company shouldn&#39;t be broken up since its foundry unit now has the tech and manufacturing know-how to compete with TSMC &lpar;Craig Barrett/Fortune&rpar;](http://www.techmeme.com/250303/p34#a250303p34)
+ - [The Answer for the NYT Strands One-Year Anniversary Puzzle Is an Inside Joke](https://www.cnet.com/tech/the-answer-for-the-nyt-strands-one-year-anniversary-puzzle-is-an-inside-joke/#ftag=CAD590a51e)
+ - [Jackery 2000 Explorer review: Power when you need it](https://appleinsider.com/articles/25/03/04/jackery-2000-explorer-review-power-when-you-need-it?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

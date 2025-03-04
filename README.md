@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [A friend asked me to install an SSD on his PC along with fresh Windows, but to make sure to install Win7 solitaire, because his dad likes to play it. Stats are insane.](http://9gag.com/gag/azxd6AB)
  - 😝 [Welding](http://9gag.com/gag/a0eV89Z)
- - 💣 [Europe right now](http://9gag.com/gag/apR3ezB)
- - 😝 [Yet again!](http://9gag.com/gag/ayN3OjM)
- - 👉 [Make my happy always](http://9gag.com/gag/a2vwe3w)<!-- MEMES:END -->
+ - 😝 [It\u2019s time. Show me your cursed pictures.](http://9gag.com/gag/aVvopAv)
+ - 💣 [Yet again!](http://9gag.com/gag/ayN3OjM)
+ - 😝 [Make my happy always](http://9gag.com/gag/a2vwe3w)
+ - 👉 [When people ask why you&#39;re always quiet, what&#39;s going on in your head?](http://9gag.com/gag/a876B7V)<!-- MEMES:END -->
 
 ---
 

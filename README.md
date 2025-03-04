@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Fight together, die together](http://9gag.com/gag/aBy6AQ1)
- - 😝 [Welcome to Europe](http://9gag.com/gag/azxd6Zj)
- - 💣 [Beauty standards](http://9gag.com/gag/a876xwV)
+ - 😝 [The forbidden tequila](http://9gag.com/gag/a1mN4pw)
+ - 😝 [Hello!](http://9gag.com/gag/aoy3XDw)
+ - 💣 [This is pure satisfaction.](http://9gag.com/gag/aD26Kmd)
  - 😝 [Time for the ultimate battles in Mecha BREAK\ud83d\udca5](http://9gag.com/gag/aE06LPM)
- - 👉 [Yet again!](http://9gag.com/gag/ayN3OjM)<!-- MEMES:END -->
+ - 👉 [Impressive performance](http://9gag.com/gag/an7RLYz)<!-- MEMES:END -->
 
 ---
 

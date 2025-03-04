@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Beauty standards](http://9gag.com/gag/a876xwV)
+ - 😝 [Much wow](http://9gag.com/gag/ary3Y9V)
  - 😝 [Yet again!](http://9gag.com/gag/ayN3OjM)
- - 💣 [Titanic](http://9gag.com/gag/aVvoNZP)
+ - 💣 [Bro sounds like the news if you don&#39;t really listen.](http://9gag.com/gag/aGyn4YG)
  - 😝 [Time for the ultimate battles in Mecha BREAK\ud83d\udca5](http://9gag.com/gag/aE06LPM)
- - 👉 [Standing in the middle of a bike trail looking at your phone](http://9gag.com/gag/a0eX3ML)<!-- MEMES:END -->
+ - 👉 [Wait, wait, wait, wait, wait!](http://9gag.com/gag/axy3XbL)<!-- MEMES:END -->
 
 ---
 

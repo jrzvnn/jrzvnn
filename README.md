@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Yet again!](http://9gag.com/gag/ayN3OjM)
- - 😝 [He presented hard evidence but cops still weren&#39;t convinced](http://9gag.com/gag/avy1KDZ)
- - 💣 [Such a great film!](http://9gag.com/gag/a0eXA9n)
+ - 😝 [Take a break from all the propagagnda and enjoy some good ol&#39; 8bit lofi...](http://9gag.com/gag/aRB455j)
+ - 😝 [The forbidden tequila](http://9gag.com/gag/a1mN4pw)
+ - 💣 [Hello!](http://9gag.com/gag/aoy3XDw)
  - 😝 [Time for the ultimate battles in Mecha BREAK\ud83d\udca5](http://9gag.com/gag/aE06LPM)
- - 👉 [Ladies man](http://9gag.com/gag/agm1WOq)<!-- MEMES:END -->
+ - 👉 [This is pure satisfaction.](http://9gag.com/gag/aD26Kmd)<!-- MEMES:END -->
 
 ---
 

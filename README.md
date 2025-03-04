@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Good service 5/7, definitely would do it again](http://9gag.com/gag/aByLRdN)
- - 😝 [Yet again!](http://9gag.com/gag/ayN3OjM)
- - 💣 [Welding](http://9gag.com/gag/a0eV89Z)
- - 😝 [A friend asked me to install an SSD on his PC along with fresh Windows, but to make sure to install Win7 solitaire, because his dad likes to play it. Stats are insane.](http://9gag.com/gag/azxd6AB)
- - 👉 [This ACTING...](http://9gag.com/gag/aW47wxn)<!-- MEMES:END -->
+ - 😝 [Snow white after waking up](http://9gag.com/gag/a2v8EMZ)
+ - 😝 [Planes](http://9gag.com/gag/aZZwb70)
+ - 💣 [Japanese ads strikes again!](http://9gag.com/gag/a87mLMd)
+ - 😝 [The tail wags are precious](http://9gag.com/gag/aD2nReK)
+ - 👉 [My precious Laila was with me for 23 years. She died today from cancer. I want to leave her photo here so that I can always look at my beautiful princess.](http://9gag.com/gag/aMVm24W)<!-- MEMES:END -->
 
 ---
 

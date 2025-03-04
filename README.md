@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [It’s clearly time: all the news about the transparent tech renaissance](https://www.theverge.com/23774468/clear-transparent-tech-gadgets-news-announcements-products)
- - [MWC 2025: all the phones, gadgets, and commentary from Barcelona](https://www.theverge.com/news/616633/mwc-2025-news-products-announcements)
- - [Google updates Google Play on Android to highlight apps with widgets, adding a widget search filter, widget badges on app pages, and a curated editorial page &lpar;Jay Peters/The Verge&rpar;](http://www.techmeme.com/250303/p31#a250303p31)
- - [The best fitness trackers to buy right now](https://www.theverge.com/22985108/best-fitness-tracker)
- - [A deep dive into how Facebook, Messenger, WhatsApp, Tinder, and Airbnb are being used to facilitate cross-border underage sex trafficking in Colombia &lpar;Bloomberg&rpar;](http://www.techmeme.com/250303/p30#a250303p30)<!-- TECH:END -->
+ - [Jackery 2000 Explorer review: Power when you need it](https://appleinsider.com/articles/25/03/04/jackery-2000-explorer-review-power-when-you-need-it?utm_medium=rss)
+ - [Creator monetization platform Passes and its CEO, Lucy Guo, are sued for allegedly distributing CSAM; the suit claims Guo intervened to override safety measures &lpar;Amanda Silberling/TechCrunch&rpar;](http://www.techmeme.com/250303/p33#a250303p33)
+ - [The best phone to buy right now](https://www.theverge.com/22163811/best-phone)
+ - [Google updates the iOS Gemini app, adding six new widgets for the lock screen and the Control Center, including one for its conversational mode Gemini Live &lpar;Abner Li/9to5Google&rpar;](http://www.techmeme.com/250303/p32#a250303p32)
+ - [It’s clearly time: all the news about the transparent tech renaissance](https://www.theverge.com/23774468/clear-transparent-tech-gadgets-news-announcements-products)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

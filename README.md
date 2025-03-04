@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [OpenAI unveils NextGenAI, a consortium of research institutions including Harvard, MIT, and Oxford, and commits $50M in compute, API access, and research grants &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/250304/p17#a250304p17)
- - [Hermes Apple Watch band lineup expands with bold colors &amp; classic designs](https://appleinsider.com/articles/25/03/04/hermes-apple-watch-band-lineup-expands-with-bold-colors-classic-designs?utm_medium=rss)
- - [Beats works with Sandy Liang for limited edition Beats Solo 4 with a bow](https://appleinsider.com/articles/25/03/04/beats-works-with-sandy-liang-for-limited-edition-beats-solo-4-with-a-bow?utm_medium=rss)
- - [Donald Trump wants to delete ‘climate’ from federal websites — here’s how you can track the changes](https://www.theverge.com/news/623644/trump-climate-change-federal-government-website-tracker)
- - [Source: Amazon is building a new &quot;hybrid reasoning&quot; AI model, slated for a June launch under the Nova brand, hoping it can be more price-efficient than rivals &lpar;Eugene Kim/Business Insider&rpar;](http://www.techmeme.com/250304/p16#a250304p16)<!-- TECH:END -->
+ - [New M4 MacBook Air could debut on Wednesday](https://appleinsider.com/articles/25/03/04/new-m4-macbook-air-could-debut-on-wednesday?utm_medium=rss)
+ - [Apple updates iPad Air with faster M3 processor](https://appleinsider.com/articles/25/03/04/apple-updates-ipad-air-with-faster-m3-processor?utm_medium=rss)
+ - [Google Messages is using AI to detect scam texts](https://www.theverge.com/news/623632/google-messages-pixel-android-updates-scam-detection)
+ - [From ChatGPT to Gemini: how AI is rewriting the internet](https://www.theverge.com/23610427/chatbots-chatgpt-new-bing-google-bard-conversational-ai)
+ - [Microsoft’s new Copilot app for Windows has an improved UI](https://www.theverge.com/news/623889/microsoft-copilot-app-windows-native)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -166,9 +166,9 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Snow white after waking up](http://9gag.com/gag/a2v8EMZ)
  - 😝 [Common sense is back.](http://9gag.com/gag/an7Rp3V)
- - 💣 [Impressive performance](http://9gag.com/gag/an7RLYz)
+ - 😝 [Impressive performance](http://9gag.com/gag/an7RLYz)
+ - 💣 [`Press X to start`](http://9gag.com/gag/aW4LByA)
  - 😝 [The only right answer](http://9gag.com/gag/abA1928)
  - 👉 [Wow , Imagine that](http://9gag.com/gag/ary3jm7)<!-- MEMES:END -->
 

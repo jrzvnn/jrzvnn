@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Peacock Promo Codes and Coupons](https://www.wired.com/story/peacock-promo-code/)
  - [Visible Promo Code: Save $10 Per Month in March 2025](https://www.wired.com/story/visible-promo-code/)
  - [GPT-4.5 review: improved verbal intelligence, contextual adaptation, abstract writing, and better taste and aesthetics, but not ideal for reasoning or coding &lpar;Zvi Mowshowitz/Don&#39;t Worry About the Vase&rpar;](http://www.techmeme.com/250304/p1#a250304p1)
  - [Today&#39;s NYT Mini Crossword Answers for Tuesday, March 4](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-tuesday-march-4/#ftag=CAD590a51e)
- - [Jalisco&#39;s governor says Foxconn&#39;s $900M Guadalajara plant, the largest Nvidia GB200 server assembly site, will be built in a year despite Trump&#39;s tariff threat &lpar;Amy Stillman/Bloomberg&rpar;](http://www.techmeme.com/250303/p37#a250303p37)
- - [Sources: Didi Autonomous Driving is seeking to raise new funding at a $5B valuation; it raised a $298M Series C led by Guangzhou Automobile in October 2024 &lpar;Dong Cao/Bloomberg&rpar;](http://www.techmeme.com/250303/p36#a250303p36)<!-- TECH:END -->
+ - [Jalisco&#39;s governor says Foxconn&#39;s $900M Guadalajara plant, the largest Nvidia GB200 server assembly site, will be built in a year despite Trump&#39;s tariff threat &lpar;Amy Stillman/Bloomberg&rpar;](http://www.techmeme.com/250303/p37#a250303p37)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Much wow](http://9gag.com/gag/ary3Y9V)
- - 😝 [Titanic](http://9gag.com/gag/aVvoNZP)
- - 💣 [He&#39;s so polite &amp; the owner is awesome](http://9gag.com/gag/apR3OPp)
+ - 😝 [The benefits of living near a golf course](http://9gag.com/gag/a6ZXYzm)
+ - 😝 [Ladies man](http://9gag.com/gag/agm1WOq)
+ - 💣 [Bro used 100,000 lumens flashlight to escape.](http://9gag.com/gag/a1mN62v)
  - 😝 [Time for the ultimate battles in Mecha BREAK\ud83d\udca5](http://9gag.com/gag/aE06LPM)
- - 👉 [Take a break from propaganda](http://9gag.com/gag/aW47XN4)<!-- MEMES:END -->
+ - 👉 [The strongest fishhook technique](http://9gag.com/gag/axy3r4W)<!-- MEMES:END -->
 
 ---
 

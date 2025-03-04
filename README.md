@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Ladies man](http://9gag.com/gag/agm1WOq)
- - 😝 [Such a great film!](http://9gag.com/gag/a0eXA9n)
- - 💣 [BLack people before the advent of CRACK/COCAINE.](http://9gag.com/gag/aRB4xVQ)
+ - 😝 [Beauty standards](http://9gag.com/gag/a876xwV)
+ - 😝 [The benefits of living near a golf course](http://9gag.com/gag/a6ZXYzm)
+ - 💣 [He presented hard evidence but cops still weren&#39;t convinced](http://9gag.com/gag/avy1KDZ)
  - 😝 [Time for the ultimate battles in Mecha BREAK\ud83d\udca5](http://9gag.com/gag/aE06LPM)
- - 👉 [He presented hard evidence but cops still weren&#39;t convinced](http://9gag.com/gag/avy1KDZ)<!-- MEMES:END -->
+ - 👉 [When people ask why you&#39;re always quiet, what&#39;s going on in your head?](http://9gag.com/gag/a876B7V)<!-- MEMES:END -->
 
 ---
 

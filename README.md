@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Here’s where you can preorder the new entry-level iPad and M3 iPad Air](https://www.theverge.com/good-deals/623982/apple-m3-ipad-air-11th-gen-tablet-preorder-how-to-buy-price-release-date)
- - [Trump’s first 100 days: all the news affecting the tech industry](https://www.theverge.com/24348851/donald-trump-presidency-tech-science-news)
- - [iPad, iPad Air, iPad Pro buyer&#39;s guide: which iPad to buy in early 2025](https://appleinsider.com/articles/25/03/04/ipad-ipad-air-ipad-pro-buyers-guide-which-ipad-to-buy-in-early-2025?utm_medium=rss)
- - [Apple goes to court to fight UK demand for iCloud encryption backdoor](https://appleinsider.com/articles/25/03/04/apple-goes-to-court-to-fight-uk-demand-for-icloud-encryption-backdoor?utm_medium=rss)
- - [Across Protocol, focused on connecting Ethereum with Layer 2 networks, raised $41M in a token round led by Paradigm, following a $10M token round in Nov. 2022 &lpar;Yogita Khatri/The Block&rpar;](http://www.techmeme.com/250304/p20#a250304p20)<!-- TECH:END -->
+ - [MWC 2025: all the phones, gadgets, and commentary from Barcelona](https://www.theverge.com/news/616633/mwc-2025-news-products-announcements)
+ - [The best stuff we’ve seen at MWC so far](https://www.theverge.com/news/623755/mobile-world-congress-mwc-2025-smartphones-laptops-headphones)
+ - [Some DOGE Staffers Are Drawing Six-Figure Government Salaries](https://www.wired.com/story/doge-government-salaries-elon-musk/)
+ - [The 47 Best Shows on Hulu Right Now &lpar;March 2025&rpar;](https://www.wired.com/story/best-tv-shows-hulu-this-week/)
+ - [Here’s where you can preorder the new entry-level iPad and M3 iPad Air](https://www.theverge.com/good-deals/623982/apple-m3-ipad-air-11th-gen-tablet-preorder-how-to-buy-price-release-date)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

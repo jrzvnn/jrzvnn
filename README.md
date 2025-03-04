@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Beauty standards](http://9gag.com/gag/a876xwV)
  - 😝 [The benefits of living near a golf course](http://9gag.com/gag/a6ZXYzm)
- - 💣 [He presented hard evidence but cops still weren&#39;t convinced](http://9gag.com/gag/avy1KDZ)
+ - 😝 [A friend asked me to install an SSD on his PC along with fresh Windows, but to make sure to install Win7 solitaire, because his dad likes to play it. Stats are insane.](http://9gag.com/gag/azxd6AB)
+ - 💣 [Ladies man](http://9gag.com/gag/agm1WOq)
  - 😝 [Time for the ultimate battles in Mecha BREAK\ud83d\udca5](http://9gag.com/gag/aE06LPM)
- - 👉 [When people ask why you&#39;re always quiet, what&#39;s going on in your head?](http://9gag.com/gag/a876B7V)<!-- MEMES:END -->
+ - 👉 [Let me help too - Memes from my phone #1](http://9gag.com/gag/azxdnLm)<!-- MEMES:END -->
 
 ---
 

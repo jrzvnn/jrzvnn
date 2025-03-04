@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Welcome to Europe](http://9gag.com/gag/azxd6Zj)
- - 😝 [I thought I heard the Holy water sizzle](http://9gag.com/gag/aVvEjmn)
- - 💣 [Japanese ads strikes again!](http://9gag.com/gag/a87mLMd)
- - 😝 [My deepest regrets for the cancerous emojis](http://9gag.com/gag/aQzvwL7)
- - 👉 [Snow white after waking up](http://9gag.com/gag/a2v8EMZ)<!-- MEMES:END -->
+ - 😝 [For the one guy who asked, cause I&#39;m too dumb to put it in a comment](http://9gag.com/gag/a9yvjp6)
+ - 😝 [Fill or kill](http://9gag.com/gag/awy3R5Q)
+ - 💣 [Welding](http://9gag.com/gag/a0eV89Z)
+ - 😝 [Make my happy always](http://9gag.com/gag/a2vwe3w)
+ - 👉 [Europe right now](http://9gag.com/gag/apR3ezB)<!-- MEMES:END -->
 
 ---
 

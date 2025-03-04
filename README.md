@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [For the one guy who asked, cause I&#39;m too dumb to put it in a comment](http://9gag.com/gag/a9yvjp6)
- - 😝 [Fill or kill](http://9gag.com/gag/awy3R5Q)
- - 💣 [Welding](http://9gag.com/gag/a0eV89Z)
- - 😝 [Make my happy always](http://9gag.com/gag/a2vwe3w)
- - 👉 [Europe right now](http://9gag.com/gag/apR3ezB)<!-- MEMES:END -->
+ - 😝 [A friend asked me to install an SSD on his PC along with fresh Windows, but to make sure to install Win7 solitaire, because his dad likes to play it. Stats are insane.](http://9gag.com/gag/azxd6AB)
+ - 😝 [Welding](http://9gag.com/gag/a0eV89Z)
+ - 💣 [Europe right now](http://9gag.com/gag/apR3ezB)
+ - 😝 [Yet again!](http://9gag.com/gag/ayN3OjM)
+ - 👉 [Make my happy always](http://9gag.com/gag/a2vwe3w)<!-- MEMES:END -->
 
 ---
 

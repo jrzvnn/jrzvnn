@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Trump’s first 100 days: all the news affecting the tech industry](https://www.theverge.com/24348851/donald-trump-presidency-tech-science-news)
+ - [Nvidia’s GeForce RTX 5070 Founders Edition cards won’t launch until later this month](https://www.theverge.com/news/624258/nvidia-geforce-rtx-5070-founders-edition-launch-delay)
+ - [Source: Google plans to launch its rumored &quot;Pixie&quot; AI assistant on the Pixel 10 as &quot;Pixel Sense&quot;, using data from Google apps to provide contextual predictions &lpar;Kamila Wojciechowska/Android Authority&rpar;](http://www.techmeme.com/250304/p24#a250304p24)
  - [US tariffs: how Trump’s tax is hitting Big Tech and beyond](https://www.theverge.com/604742/trump-tariffs-canada-mexico-china-updates)
- - [Best Buy and Target CEOs say prices are about to go up because of tariffs](https://www.theverge.com/news/624254/best-buy-target-raise-prices-tariffs)
- - [Assassin&#39;s Creed Shadows to finally debut in March for Mac and iPad](https://appleinsider.com/articles/25/03/04/assassins-creed-shadows-to-finally-debut-in-march-for-mac-and-ipad?utm_medium=rss)
- - [Sources: US Commerce Dept. plans changes to Biden&#39;s $42.5B broadband grant program, to let states award more funds to satellite-internet providers like Starlink &lpar;Patience Haggin/Wall Street Journal&rpar;](http://www.techmeme.com/250304/p23#a250304p23)
- - [Google Replacing SMS With QR Codes for Gmail Authentication](https://www.cnet.com/tech/services-and-software/google-replacing-sms-with-qr-codes-for-gmail-authentication/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Best Buy and Target CEOs say prices are about to go up because of tariffs](https://www.theverge.com/news/624254/best-buy-target-raise-prices-tariffs)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

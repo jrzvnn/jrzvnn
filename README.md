@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Internal email: Amazon has formed a new group focused on agentic AI, led by AWS executive Swami Sivasubramanian, who will report directly to AWS CEO Matt Garman &lpar;Greg Bensinger/Reuters&rpar;](http://www.techmeme.com/250304/p21#a250304p21)
  - [Trump Still Considering Tariffs on Taiwanese Chips, Despite $100 Billion TSMC Deal](https://www.wired.com/story/tsmc-tariffs-trump-impacts/)
  - [MWC 2025: all the phones, gadgets, and commentary from Barcelona](https://www.theverge.com/news/616633/mwc-2025-news-products-announcements)
  - [The best stuff we’ve seen at MWC so far](https://www.theverge.com/news/623755/mobile-world-congress-mwc-2025-smartphones-laptops-headphones)
- - [Some DOGE Staffers Are Drawing Six-Figure Government Salaries](https://www.wired.com/story/doge-government-salaries-elon-musk/)
- - [The 47 Best Shows on Hulu Right Now &lpar;March 2025&rpar;](https://www.wired.com/story/best-tv-shows-hulu-this-week/)<!-- TECH:END -->
+ - [Some DOGE Staffers Are Drawing Six-Figure Government Salaries](https://www.wired.com/story/doge-government-salaries-elon-musk/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

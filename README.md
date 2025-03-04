@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Apple releases new Smart Folio alongside new iPad](https://appleinsider.com/articles/25/03/04/apple-releases-new-smart-folio-alongside-new-ipad?utm_medium=rss)
+ - [A new version of Monopoly replaces cash and math with a mobile app](https://www.theverge.com/news/623716/hasbro-monopoly-app-banking-board-game-availability)
+ - [Trump’s first 100 days: all the news affecting the tech industry](https://www.theverge.com/24348851/donald-trump-presidency-tech-science-news)
  - [Swap, which uses AI to help DTC, e-commerce brands with inventory management, raised a $40M Series B led by Iconiq Growth and plans an international expansion &lpar;Julia Hornstein/Business Insider&rpar;](http://www.techmeme.com/250304/p14#a250304p14)
- - [Apple updates iPad Air with faster M3 processor](https://appleinsider.com/articles/25/03/04/apple-updates-ipad-air-with-faster-m3-processor?utm_medium=rss)
- - [Apple refreshes the iPad, but doesn’t add Apple Intelligence](https://www.theverge.com/news/621625/apple-ipad-2024-launch-price-availability)
- - [New iPad Air gets revamped, lower-cost Magic Keyboard](https://appleinsider.com/articles/25/03/04/new-ipad-air-gets-revamped-lower-cost-magic-keyboard?utm_medium=rss)
- - [iPad updated with A16 chip, still lacks Apple Intelligence](https://appleinsider.com/articles/25/03/04/ipad-10th-generation-updated-with-a16-chip-double-the-base-storage?utm_medium=rss)<!-- TECH:END -->
+ - [Apple updates iPad Air with faster M3 processor](https://appleinsider.com/articles/25/03/04/apple-updates-ipad-air-with-faster-m3-processor?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

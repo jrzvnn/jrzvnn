@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple unveils the 11th-generation iPad, adding an A16 Bionic chip and starting at 128GB of storage, with options up to 256GB and 512GB, for the same $349 &lpar;Hartley Charlton/MacRumors&rpar;](http://www.techmeme.com/250304/p13#a250304p13)
- - [Apple updates the $599+ 11-inch and $799+ 13-inch iPad Air with an M3 chip and unveils a new $269+ Magic Keyboard with a larger built-in trackpad &lpar;David Pierce/The Verge&rpar;](http://www.techmeme.com/250304/p12#a250304p12)
+ - [Swap, which uses AI to help DTC, e-commerce brands with inventory management, raised a $40M Series B led by Iconiq Growth and plans an international expansion &lpar;Julia Hornstein/Business Insider&rpar;](http://www.techmeme.com/250304/p14#a250304p14)
  - [Apple updates iPad Air with faster M3 processor](https://appleinsider.com/articles/25/03/04/apple-updates-ipad-air-with-faster-m3-processor?utm_medium=rss)
- - [Apple launched a new base iPad](https://www.theverge.com/news/621625/apple-ipad-2024-launch-price-availability)
- - [Apple launches a new M3-powered iPad Air](https://www.theverge.com/ipad/623027/apple-ipad-air-2025-launch-price-specs)<!-- TECH:END -->
+ - [Apple refreshes the iPad, but doesn’t add Apple Intelligence](https://www.theverge.com/news/621625/apple-ipad-2024-launch-price-availability)
+ - [New iPad Air gets revamped, lower-cost Magic Keyboard](https://appleinsider.com/articles/25/03/04/new-ipad-air-gets-revamped-lower-cost-magic-keyboard?utm_medium=rss)
+ - [iPad updated with A16 chip, still lacks Apple Intelligence](https://appleinsider.com/articles/25/03/04/ipad-10th-generation-updated-with-a16-chip-double-the-base-storage?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

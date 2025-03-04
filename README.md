@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [The benefits of living near a golf course](http://9gag.com/gag/a6ZXYzm)
- - 😝 [A friend asked me to install an SSD on his PC along with fresh Windows, but to make sure to install Win7 solitaire, because his dad likes to play it. Stats are insane.](http://9gag.com/gag/azxd6AB)
- - 💣 [Ladies man](http://9gag.com/gag/agm1WOq)
+ - 😝 [Make my happy always](http://9gag.com/gag/a2vwe3w)
+ - 😝 [Such a great film!](http://9gag.com/gag/a0eXA9n)
+ - 💣 [Yet again!](http://9gag.com/gag/ayN3OjM)
  - 😝 [Time for the ultimate battles in Mecha BREAK\ud83d\udca5](http://9gag.com/gag/aE06LPM)
- - 👉 [Let me help too - Memes from my phone #1](http://9gag.com/gag/azxdnLm)<!-- MEMES:END -->
+ - 👉 [Doggo sure knows how to show that he runs the place.](http://9gag.com/gag/aO8eL96)<!-- MEMES:END -->
 
 ---
 

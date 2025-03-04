@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The US CFPB drops its lawsuit against Zelle operator EWS, JPMorgan Chase, Bank of America, and Wells Fargo, after suing them in December over fraud allegations &lpar;Hugh Son/CNBC&rpar;](http://www.techmeme.com/250304/p26#a250304p26)
+ - [Here are the best AirPods deals you can get right now](https://www.theverge.com/21302051/best-apple-airpods-deals)
+ - [Sources: Assured, whose AI tools automate insurance claims, raised equity funding in a round with Iconiq and Kleiner Perkins, valuing the company at about $1B &lpar;Bloomberg&rpar;](http://www.techmeme.com/250304/p25#a250304p25)
  - [Trump’s first 100 days: all the news affecting the tech industry](https://www.theverge.com/24348851/donald-trump-presidency-tech-science-news)
- - [Nvidia’s GeForce RTX 5070 Founders Edition cards won’t launch until later this month](https://www.theverge.com/news/624258/nvidia-geforce-rtx-5070-founders-edition-launch-delay)
- - [Source: Google plans to launch its rumored &quot;Pixie&quot; AI assistant on the Pixel 10 as &quot;Pixel Sense&quot;, using data from Google apps to provide contextual predictions &lpar;Kamila Wojciechowska/Android Authority&rpar;](http://www.techmeme.com/250304/p24#a250304p24)
- - [US tariffs: how Trump’s tax is hitting Big Tech and beyond](https://www.theverge.com/604742/trump-tariffs-canada-mexico-china-updates)
- - [Best Buy and Target CEOs say prices are about to go up because of tariffs](https://www.theverge.com/news/624254/best-buy-target-raise-prices-tariffs)<!-- TECH:END -->
+ - [CFPB lets banks off the hook and drops Zelle lawsuit](https://www.theverge.com/news/624157/cfpb-lets-banks-off-the-hook-and-drops-zelle-lawsuit)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

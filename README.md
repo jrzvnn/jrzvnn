@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Somewhere in a parallel universe](http://9gag.com/gag/a4P6Dqw)
- - 😝 [Ladies man](http://9gag.com/gag/agm1WOq)
- - 💣 [The benefits of living near a golf course](http://9gag.com/gag/a6ZXYzm)
+ - 😝 [So close](http://9gag.com/gag/a5Q6O1G)
+ - 😝 [It\u2019s time. Show me your cursed pictures.](http://9gag.com/gag/aVvopAv)
+ - 💣 [He&#39;s so polite &amp; the owner is awesome](http://9gag.com/gag/apR3OPp)
  - 😝 [Time for the ultimate battles in Mecha BREAK\ud83d\udca5](http://9gag.com/gag/aE06LPM)
- - 👉 [Titanic](http://9gag.com/gag/aVvoNZP)<!-- MEMES:END -->
+ - 👉 [The benefits of living near a golf course](http://9gag.com/gag/a6ZXYzm)<!-- MEMES:END -->
 
 ---
 

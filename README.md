@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Beauty standards](http://9gag.com/gag/a876xwV)
- - 😝 [Pamela Anderson Circa 1991](http://9gag.com/gag/a9y6xo0)
- - 💣 [Such a great film!](http://9gag.com/gag/a0eXA9n)
+ - 😝 [Somewhere in a parallel universe](http://9gag.com/gag/a4P6Dqw)
+ - 😝 [Ladies man](http://9gag.com/gag/agm1WOq)
+ - 💣 [The benefits of living near a golf course](http://9gag.com/gag/a6ZXYzm)
  - 😝 [Time for the ultimate battles in Mecha BREAK\ud83d\udca5](http://9gag.com/gag/aE06LPM)
- - 👉 [Make my happy always](http://9gag.com/gag/a2vwe3w)<!-- MEMES:END -->
+ - 👉 [Titanic](http://9gag.com/gag/aVvoNZP)<!-- MEMES:END -->
 
 ---
 

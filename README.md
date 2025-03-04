@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [He&#39;s so polite &amp; the owner is awesome](http://9gag.com/gag/apR3OPp)
- - 😝 [Standing in the middle of a bike trail looking at your phone](http://9gag.com/gag/a0eX3ML)
- - 💣 [Climate protestor screams like a baby when his hand is un-glued from the road.](http://9gag.com/gag/ary3Y0B)
+ - 😝 [Much wow](http://9gag.com/gag/ary3Y9V)
+ - 😝 [Titanic](http://9gag.com/gag/aVvoNZP)
+ - 💣 [He&#39;s so polite &amp; the owner is awesome](http://9gag.com/gag/apR3OPp)
  - 😝 [Time for the ultimate battles in Mecha BREAK\ud83d\udca5](http://9gag.com/gag/aE06LPM)
- - 👉 [Titanic](http://9gag.com/gag/aVvoNZP)<!-- MEMES:END -->
+ - 👉 [Take a break from propaganda](http://9gag.com/gag/aW47XN4)<!-- MEMES:END -->
 
 ---
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Sources: Google representatives asked DOJ officials in a meeting last week to back away from a push to break up the company, citing national security concerns &lpar;Bloomberg&rpar;](http://www.techmeme.com/250304/p28#a250304p28)
  - [The best smartwatches for Android](https://www.theverge.com/23449363/best-android-smartwatches-wear-os)
  - [Sources: Ilya Sutskever told associates that he isn&#39;t developing advanced AI using the methods used at OpenAI and has identified a &quot;different mountain to climb&quot; &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/250304/p27#a250304p27)
  - [How Trump&#39;s Tariffs Will Disrupt Key Industries in Mexico](https://www.wired.com/story/how-trumps-tariffs-will-disrupt-key-industries-in-mexico/)
- - [The US CFPB drops its lawsuit against Zelle operator EWS, JPMorgan Chase, Bank of America, and Wells Fargo, after suing them in December over fraud allegations &lpar;Hugh Son/CNBC&rpar;](http://www.techmeme.com/250304/p26#a250304p26)
- - [Here are the best AirPods deals you can get right now](https://www.theverge.com/21302051/best-apple-airpods-deals)<!-- TECH:END -->
+ - [The US CFPB drops its lawsuit against Zelle operator EWS, JPMorgan Chase, Bank of America, and Wells Fargo, after suing them in December over fraud allegations &lpar;Hugh Son/CNBC&rpar;](http://www.techmeme.com/250304/p26#a250304p26)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

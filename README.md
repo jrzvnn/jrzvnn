@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Sources: US Commerce Dept. plans changes to Biden&#39;s $42.5B broadband grant program, to let states award more funds to satellite-internet providers like Starlink &lpar;Patience Haggin/Wall Street Journal&rpar;](http://www.techmeme.com/250304/p23#a250304p23)
+ - [US tariffs: how Trump’s tax is hitting Big Tech and beyond](https://www.theverge.com/604742/trump-tariffs-canada-mexico-china-updates)
+ - [Google Replacing SMS With QR Codes for Gmail Authentication](https://www.cnet.com/tech/services-and-software/google-replacing-sms-with-qr-codes-for-gmail-authentication/#ftag=CAD590a51e)
  - [Sources: China plans to issue guidance as soon as this month to encourage the use of open-source RISC-V chips nationwide for the first time &lpar;Reuters&rpar;](http://www.techmeme.com/250304/p22#a250304p22)
- - [YouTube warns creators an AI-generated video of its CEO is being used for phishing scams](https://www.theverge.com/news/624159/youtube-ai-generated-neal-mohan-phishing-scam)
- - [The crypto industry got what it paid for](https://www.theverge.com/cryptocurrency/624108/crypto-reserve-bitcoin-trump-grift)
- - [Apple Gives iPhone Cases, Apple Watch Bands a Spring Makeover](https://www.cnet.com/tech/apple-gives-iphone-cases-apple-watch-bands-a-spring-makeover/#ftag=CAD590a51e)
- - [Today&#39;s NYT Connections: Sports Edition Hints and Answers for March 5, #163](https://www.cnet.com/tech/gaming/todays-nyt-connections-sports-edition-hints-and-answers-for-march-5-163/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [MWC 2025 Live: All the Latest Phones, Robots, Mobile Gadgets and AI From Barcelona](https://www.cnet.com/tech/mobile/mwc-2025-live-blog/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Across Protocol, focused on connecting Ethereum with Layer 2 networks, raised $41M in a token round led by Paradigm, following a $10M token round in Nov. 2022 &lpar;Yogita Khatri/The Block&rpar;](http://www.techmeme.com/250304/p20#a250304p20)
  - [YouTube will soon restrict creators from mentioning certain online gambling sites](https://www.theverge.com/news/623985/youtube-online-gambling-rules-restrictions)
  - [Monster Hunter Wilds is breaking Capcom’s sales records](https://www.theverge.com/news/623978/monster-hunter-wilds-salesrecordcapcom)
- - [DOGE&#39;s Foreign Aid Cuts Have Sparked &#39;Total Chaos&#39; Around the World](https://www.wired.com/story/rights-con-taipei-doge-foreign-aid-cuts/)
- - [Apple reportedly challenges the UK&amp;#8217;s secretive encryption crackdown](https://www.theverge.com/news/623977/apple-uk-encryption-order-appeal)
- - [Ben Stiller tried to get Barack Obama on &#39;Severance&#39;](https://appleinsider.com/articles/25/03/04/ben-stiller-tried-to-get-barack-obama-on-severance?utm_medium=rss)<!-- TECH:END -->
+ - [DOGE’s Foreign Aid Cuts Have Sparked ‘Total Chaos’ Around the World](https://www.wired.com/story/rights-con-taipei-doge-foreign-aid-cuts/)
+ - [Apple reportedly challenges the UK&amp;#8217;s secretive encryption crackdown](https://www.theverge.com/news/623977/apple-uk-encryption-order-appeal)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

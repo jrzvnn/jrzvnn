@@ -158,10 +158,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- TECH:START -->
  - [Apple&#39;s new iPad updates are not dramatic, but don&#39;t need to be](https://appleinsider.com/articles/25/03/04/apples-new-ipad-updates-are-not-dramatic-but-dont-need-to-be?utm_medium=rss)
+ - [Donald Trump’s Not-So-Strategic Crypto Reserve](https://www.wired.com/story/trump-crypto-reserve-new-coins/)
  - [Google unveils AI-based Scam Detection in Google Messages in English, Android features like live location sharing in the Find My app, and new Pixel features &lpar;Jess Weatherbed/The Verge&rpar;](http://www.techmeme.com/250304/p18#a250304p18)
  - [Sony&amp;#8217;s new beta program lets you test PS5 updates early](https://www.theverge.com/news/623905/sony-beta-program-playstation-test-ps5-updates-early)
- - [AI now ‘analyzes’ LA Times articles for bias](https://www.theverge.com/news/623638/la-times-ai-generated-views-summaries-political-bias)
- - [From ChatGPT to Gemini: how AI is rewriting the internet](https://www.theverge.com/23610427/chatbots-chatgpt-new-bing-google-bard-conversational-ai)<!-- TECH:END -->
+ - [AI now ‘analyzes’ LA Times articles for bias](https://www.theverge.com/news/623638/la-times-ai-generated-views-summaries-political-bias)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

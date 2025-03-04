@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Bro sounds like the news if you don&#39;t really listen.](http://9gag.com/gag/aGyn4YG)
- - 😝 [Joink](http://9gag.com/gag/aZZ1GpQ)
- - 💣 [Ladies man](http://9gag.com/gag/agm1WOq)
+ - 😝 [Yet again!](http://9gag.com/gag/ayN3OjM)
+ - 😝 [He presented hard evidence but cops still weren&#39;t convinced](http://9gag.com/gag/avy1KDZ)
+ - 💣 [Such a great film!](http://9gag.com/gag/a0eXA9n)
  - 😝 [Time for the ultimate battles in Mecha BREAK\ud83d\udca5](http://9gag.com/gag/aE06LPM)
- - 👉 [The benefits of living near a golf course](http://9gag.com/gag/a6ZXYzm)<!-- MEMES:END -->
+ - 👉 [Ladies man](http://9gag.com/gag/agm1WOq)<!-- MEMES:END -->
 
 ---
 

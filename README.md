@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [iPad, iPad Air, iPad Pro buyer&#39;s guide: which iPad to buy in early 2025](https://appleinsider.com/articles/25/03/04/ipad-ipad-air-ipad-pro-buyers-guide-which-ipad-to-buy-in-early-2025?utm_medium=rss)
  - [Apple goes to court to fight UK demand for iCloud encryption backdoor](https://appleinsider.com/articles/25/03/04/apple-goes-to-court-to-fight-uk-demand-for-icloud-encryption-backdoor?utm_medium=rss)
+ - [Here’s where you can preorder Apple’s latest iPads](https://www.theverge.com/good-deals/623982/apple-m3-ipad-air-11th-gen-tablet-preorder-how-to-buy-price-release-date)
  - [Across Protocol, focused on connecting Ethereum with Layer 2 networks, raised $41M in a token round led by Paradigm, following a $10M token round in Nov. 2022 &lpar;Yogita Khatri/The Block&rpar;](http://www.techmeme.com/250304/p20#a250304p20)
- - [YouTube will soon restrict creators from mentioning certain online gambling sites](https://www.theverge.com/news/623985/youtube-online-gambling-rules-restrictions)
- - [Monster Hunter Wilds is breaking Capcom’s sales records](https://www.theverge.com/news/623978/monster-hunter-wilds-salesrecordcapcom)
- - [DOGE’s Foreign Aid Cuts Have Sparked ‘Total Chaos’ Around the World](https://www.wired.com/story/rights-con-taipei-doge-foreign-aid-cuts/)<!-- TECH:END -->
+ - [Champions League Soccer: Livestream PSV vs. Arsenal From Anywhere](https://www.cnet.com/tech/services-and-software/champions-league-soccer-livestream-psv-vs-arsenal-from-anywhere/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

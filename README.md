@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [GPT-4.5 review: improved verbal intelligence, contextual adaptation, abstract writing, and better taste and aesthetics, but not ideal for reasoning or coding &lpar;Zvi Mowshowitz/Don&#39;t Worry About the Vase&rpar;](http://www.techmeme.com/250304/p1#a250304p1)
+ - [Today&#39;s NYT Mini Crossword Answers for Tuesday, March 4](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-tuesday-march-4/#ftag=CAD590a51e)
  - [Jalisco&#39;s governor says Foxconn&#39;s $900M Guadalajara plant, the largest Nvidia GB200 server assembly site, will be built in a year despite Trump&#39;s tariff threat &lpar;Amy Stillman/Bloomberg&rpar;](http://www.techmeme.com/250303/p37#a250303p37)
  - [Sources: Didi Autonomous Driving is seeking to raise new funding at a $5B valuation; it raised a $298M Series C led by Guangzhou Automobile in October 2024 &lpar;Dong Cao/Bloomberg&rpar;](http://www.techmeme.com/250303/p36#a250303p36)
- - [CoreWeave&#39;s S-1 shows ~77% of its $1.9B revenue in 2024 came from its top two customers, one of them being Microsoft, which accounted for 62% of total sales &lpar;Bailey Lipschultz/Bloomberg&rpar;](http://www.techmeme.com/250303/p35#a250303p35)
- - [MWC 2025: Xiaomi&#39;s Photography-Focused 15 Ultra Is a Powerhouse](https://www.cnet.com/pictures/xiaomis-photography-focused-powerhouse-15-ultra-mwc-2025/#ftag=CAD590a51e)
- - [A former CEO and chair of Intel says the company shouldn&#39;t be broken up since its foundry unit now has the tech and manufacturing know-how to compete with TSMC &lpar;Craig Barrett/Fortune&rpar;](http://www.techmeme.com/250303/p34#a250303p34)<!-- TECH:END -->
+ - [CoreWeave&#39;s S-1 shows ~77% of its $1.9B revenue in 2024 came from its top two customers, one of them being Microsoft, which accounted for 62% of total sales &lpar;Bailey Lipschultz/Bloomberg&rpar;](http://www.techmeme.com/250303/p35#a250303p35)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

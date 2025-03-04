@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Literally anything other than bot propaganda](http://9gag.com/gag/abA194r)
- - 😝 [Titanic](http://9gag.com/gag/aVvoNZP)
- - 💣 [He&#39;s so polite &amp; the owner is awesome](http://9gag.com/gag/apR3OPp)
- - 😝 [A young girl files lawsuit against public school system in Connecticut for awarding her an honors diploma despite her inability to read or write. &lpar;Details in comments&rpar;](http://9gag.com/gag/aLne6Mz)
- - 👉 [Yet again!](http://9gag.com/gag/ayN3OjM)<!-- MEMES:END -->
+ - 😝 [Welding](http://9gag.com/gag/a0eV89Z)
+ - 😝 [I don&#39;t know dude, it looks painful for me.](http://9gag.com/gag/avy13Dn)
+ - 💣 [A friend asked me to install an SSD on his PC along with fresh Windows, but to make sure to install Win7 solitaire, because his dad likes to play it. Stats are insane.](http://9gag.com/gag/azxd6AB)
+ - 😝 [Yet again!](http://9gag.com/gag/ayN3OjM)
+ - 👉 [This ACTING...](http://9gag.com/gag/aW47wxn)<!-- MEMES:END -->
 
 ---
 

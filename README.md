@@ -166,10 +166,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [He&#39;s so polite &amp; the owner is awesome](http://9gag.com/gag/apR3OPp)
+ - 😝 [Europe right now](http://9gag.com/gag/apR3ezB)
  - 😝 [A friend asked me to install an SSD on his PC along with fresh Windows, but to make sure to install Win7 solitaire, because his dad likes to play it. Stats are insane.](http://9gag.com/gag/azxd6AB)
- - 💣 [Wait, wait, wait, wait, wait!](http://9gag.com/gag/axy3XbL)
- - 😝 [Make my happy always](http://9gag.com/gag/a2vwe3w)
+ - 💣 [Literally anything other than bot propaganda](http://9gag.com/gag/abA194r)
+ - 😝 [A young girl files lawsuit against public school system in Connecticut for awarding her an honors diploma despite her inability to read or write. &lpar;Details in comments&rpar;](http://9gag.com/gag/aLne6Mz)
  - 👉 [What the f**k](http://9gag.com/gag/ayN3OWV)<!-- MEMES:END -->
 
 ---

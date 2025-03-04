@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [`Press X to start`](http://9gag.com/gag/aW4LByA)
- - 😝 [Make my happy always](http://9gag.com/gag/a2vwe3w)
- - 💣 [Ken McElroy, known as the `town bully,` was murdered in his truck in Skidmore, Missouri, on July 10, 1981, in broad daylight. Despite the presence of over 40 witnesses, no one claimed to have seen the murder occur, and to this day, no one has been charged.](http://9gag.com/gag/aD2nRgO)
- - 😝 [Welding](http://9gag.com/gag/a0eV89Z)
- - 👉 [When people ask why you&#39;re always quiet, what&#39;s going on in your head?](http://9gag.com/gag/a876B7V)<!-- MEMES:END -->
+ - 😝 [Snow white after waking up](http://9gag.com/gag/a2v8EMZ)
+ - 😝 [Japanese ads strikes again!](http://9gag.com/gag/a87mLMd)
+ - 💣 [Planes](http://9gag.com/gag/aZZwb70)
+ - 😝 [The tail wags are precious](http://9gag.com/gag/aD2nReK)
+ - 👉 [My precious Laila was with me for 23 years. She died today from cancer. I want to leave her photo here so that I can always look at my beautiful princess.](http://9gag.com/gag/aMVm24W)<!-- MEMES:END -->
 
 ---
 

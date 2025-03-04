@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [OpenAI unveils NextGenAI, a consortium of research institutions including Harvard, MIT, and Oxford, and commits $50M in compute, API access, and research grants &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/250304/p17#a250304p17)
  - [Hermes Apple Watch band lineup expands with bold colors &amp; classic designs](https://appleinsider.com/articles/25/03/04/hermes-apple-watch-band-lineup-expands-with-bold-colors-classic-designs?utm_medium=rss)
  - [Beats works with Sandy Liang for limited edition Beats Solo 4 with a bow](https://appleinsider.com/articles/25/03/04/beats-works-with-sandy-liang-for-limited-edition-beats-solo-4-with-a-bow?utm_medium=rss)
  - [Donald Trump wants to delete ‘climate’ from federal websites — here’s how you can track the changes](https://www.theverge.com/news/623644/trump-climate-change-federal-government-website-tracker)
- - [Source: Amazon is building a new &quot;hybrid reasoning&quot; AI model, slated for a June launch under the Nova brand, hoping it can be more price-efficient than rivals &lpar;Eugene Kim/Business Insider&rpar;](http://www.techmeme.com/250304/p16#a250304p16)
- - [People Are Paying Millions to Dine With Donald Trump at Mar-a-Lago](https://www.wired.com/story/people-paying-millions-donald-trump-mar-a-lago/)<!-- TECH:END -->
+ - [Source: Amazon is building a new &quot;hybrid reasoning&quot; AI model, slated for a June launch under the Nova brand, hoping it can be more price-efficient than rivals &lpar;Eugene Kim/Business Insider&rpar;](http://www.techmeme.com/250304/p16#a250304p16)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

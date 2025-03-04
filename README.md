@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Internal email: Amazon has formed a new group focused on agentic AI, led by AWS executive Swami Sivasubramanian, who will report directly to AWS CEO Matt Garman &lpar;Greg Bensinger/Reuters&rpar;](http://www.techmeme.com/250304/p21#a250304p21)
- - [Trump Still Considering Tariffs on Taiwanese Chips, Despite $100 Billion TSMC Deal](https://www.wired.com/story/tsmc-tariffs-trump-impacts/)
- - [MWC 2025: all the phones, gadgets, and commentary from Barcelona](https://www.theverge.com/news/616633/mwc-2025-news-products-announcements)
- - [The best stuff we’ve seen at MWC so far](https://www.theverge.com/news/623755/mobile-world-congress-mwc-2025-smartphones-laptops-headphones)
- - [Some DOGE Staffers Are Drawing Six-Figure Government Salaries](https://www.wired.com/story/doge-government-salaries-elon-musk/)<!-- TECH:END -->
+ - [The crypto industry got what it paid for](https://www.theverge.com/cryptocurrency/624108/crypto-reserve-bitcoin-trump-grift)
+ - [Apple Gives iPhone Cases, Apple Watch Bands a Spring Makeover](https://www.cnet.com/tech/apple-gives-iphone-cases-apple-watch-bands-a-spring-makeover/#ftag=CAD590a51e)
+ - [Today&#39;s NYT Connections: Sports Edition Hints and Answers for March 5, #163](https://www.cnet.com/tech/gaming/todays-nyt-connections-sports-edition-hints-and-answers-for-march-5-163/#ftag=CAD590a51e)
+ - [Today&#39;s NYT Strands Hints, Answers and Help for March 5, #367](https://www.cnet.com/tech/gaming/todays-nyt-strands-hints-answers-and-help-for-march-5-367/#ftag=CAD590a51e)
+ - [Today&#39;s NYT Connections Hints, Answers and Help for March 5, #633](https://www.cnet.com/tech/gaming/todays-nyt-connections-hints-answers-and-help-for-march-5-633/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

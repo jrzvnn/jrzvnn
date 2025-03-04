@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [MagSafe does connect to the iPhone 16e, but incredibly badly](https://appleinsider.com/articles/25/03/04/magsafe-does-connect-to-the-iphone-16e-but-incredibly-badly?utm_medium=rss)
+ - [How to mirror your Samsung phone on Windows](https://www.theverge.com/how-to/622969/windows-mirror-samsung-android-how-to)
  - [The James Bond Cinematic Universe](https://www.theverge.com/the-vergecast/623633/james-bond-amazon-framework-laptop-desktop-vergecast)
  - [Best Hiking Boots &lpar;2025&rpar;: Walking Shoes, Trails, Backpacking](https://www.wired.com/gallery/best-hiking-boots/)
- - [US tariffs: how Trump’s tax is hitting Big Tech and beyond](https://www.theverge.com/604742/trump-tariffs-canada-mexico-china-updates)
- - [Trump imposes tariffs on Mexico, Canada, and China](https://www.theverge.com/news/623403/trump-imposes-tariffs-mexico-canada-china)
- - [iPhone 16e teardown reveals it&#39;s as easily repaired as the iPhone 16](https://appleinsider.com/articles/25/03/04/iphone-16e-teardown-reveals-its-as-easily-repaired-as-the-iphone-16?utm_medium=rss)<!-- TECH:END -->
+ - [US tariffs: how Trump’s tax is hitting Big Tech and beyond](https://www.theverge.com/604742/trump-tariffs-canada-mexico-china-updates)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

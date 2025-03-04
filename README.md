@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Assassin&#39;s Creed Shadows to finally debut in March for Mac and iPad](https://appleinsider.com/articles/25/03/04/assassins-creed-shadows-to-finally-debut-in-march-for-mac-and-ipad?utm_medium=rss)
  - [Sources: US Commerce Dept. plans changes to Biden&#39;s $42.5B broadband grant program, to let states award more funds to satellite-internet providers like Starlink &lpar;Patience Haggin/Wall Street Journal&rpar;](http://www.techmeme.com/250304/p23#a250304p23)
  - [US tariffs: how Trump’s tax is hitting Big Tech and beyond](https://www.theverge.com/604742/trump-tariffs-canada-mexico-china-updates)
- - [Google Replacing SMS With QR Codes for Gmail Authentication](https://www.cnet.com/tech/services-and-software/google-replacing-sms-with-qr-codes-for-gmail-authentication/#ftag=CAD590a51e)
  - [Sources: China plans to issue guidance as soon as this month to encourage the use of open-source RISC-V chips nationwide for the first time &lpar;Reuters&rpar;](http://www.techmeme.com/250304/p22#a250304p22)
- - [MWC 2025 Live: All the Latest Phones, Robots, Mobile Gadgets and AI From Barcelona](https://www.cnet.com/tech/mobile/mwc-2025-live-blog/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [YouTube warns creators an AI-generated video of its CEO is being used for phishing scams](https://www.theverge.com/news/624159/youtube-ai-generated-neal-mohan-phishing-scam)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

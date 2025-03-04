@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Apple updates iPad Air with faster M3 processor](https://appleinsider.com/articles/25/03/04/apple-updates-ipad-air-with-faster-m3-processor?utm_medium=rss)
+ - [Nvidia GeForce RTX 5070 review: great 1440p performance, compact design, and DLSS, but high power draw, only 12GB of RAM, runs hot, and availability is tricky &lpar;Andrew Cunningham/Ars Technica&rpar;](http://www.techmeme.com/250304/p15#a250304p15)
  - [Apple releases new Smart Folio alongside new iPad](https://appleinsider.com/articles/25/03/04/apple-releases-new-smart-folio-alongside-new-ipad?utm_medium=rss)
  - [A new version of Monopoly replaces cash and math with a mobile app](https://www.theverge.com/news/623716/hasbro-monopoly-app-banking-board-game-availability)
- - [Trump’s first 100 days: all the news affecting the tech industry](https://www.theverge.com/24348851/donald-trump-presidency-tech-science-news)
- - [Swap, which uses AI to help DTC, e-commerce brands with inventory management, raised a $40M Series B led by Iconiq Growth and plans an international expansion &lpar;Julia Hornstein/Business Insider&rpar;](http://www.techmeme.com/250304/p14#a250304p14)
- - [Apple updates iPad Air with faster M3 processor](https://appleinsider.com/articles/25/03/04/apple-updates-ipad-air-with-faster-m3-processor?utm_medium=rss)<!-- TECH:END -->
+ - [Trump’s first 100 days: all the news affecting the tech industry](https://www.theverge.com/24348851/donald-trump-presidency-tech-science-news)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Much wow](http://9gag.com/gag/ary3Y9V)
- - 😝 [Yet again!](http://9gag.com/gag/ayN3OjM)
- - 💣 [Bro sounds like the news if you don&#39;t really listen.](http://9gag.com/gag/aGyn4YG)
+ - 😝 [Bro sounds like the news if you don&#39;t really listen.](http://9gag.com/gag/aGyn4YG)
+ - 😝 [Joink](http://9gag.com/gag/aZZ1GpQ)
+ - 💣 [Ladies man](http://9gag.com/gag/agm1WOq)
  - 😝 [Time for the ultimate battles in Mecha BREAK\ud83d\udca5](http://9gag.com/gag/aE06LPM)
- - 👉 [Wait, wait, wait, wait, wait!](http://9gag.com/gag/axy3XbL)<!-- MEMES:END -->
+ - 👉 [The benefits of living near a golf course](http://9gag.com/gag/a6ZXYzm)<!-- MEMES:END -->
 
 ---
 

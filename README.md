@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [French crypto trading company Flowdesk raised ~$92M in equity and $10.2M in debt led by HV Capital, after a $50M Series B at a $250M valuation in January 2024 &lpar;Yogita Khatri/The Block&rpar;](http://www.techmeme.com/250304/p7#a250304p7)
  - [7 Best Bidets, Tested and Reviewed &lpar;2025&rpar;: Toto, Kohler, Tushy](https://www.wired.com/gallery/best-bidets/)
  - [Sources: the US office responsible for the $52B CHIPS Act will lose ~40% of its staff, including ~40 who are probationary, as Trump cuts the federal workforce &lpar;Mackenzie Hawkins/Bloomberg&rpar;](http://www.techmeme.com/250304/p6#a250304p6)
  - [Nothing unveils the $379 Phone 3A and $459 3A Pro, both with 6.77&quot; displays, Snapdragon 7s Gen 3, and new AI tools to help organize files, shipping this month &lpar;Allison Johnson/The Verge&rpar;](http://www.techmeme.com/250304/p5#a250304p5)
- - [Bybit CEO Ben Zhou says 77%+ of the funds stolen remain traceable, including 417,348 ETH, and 20% have &quot;gone dark&quot;; the hackers converted 83% of the ETH to BTC &lpar;Shaurya Malwa/CoinDesk&rpar;](http://www.techmeme.com/250304/p4#a250304p4)
- - [Nothing Phone &lpar;3a&rpar; and Phone &lpar;3a&rpar; Pro Review: Budget Excellence](https://www.wired.com/review/nothing-phone-3a-and-phone-3a-pro/)<!-- TECH:END -->
+ - [Bybit CEO Ben Zhou says 77%+ of the funds stolen remain traceable, including 417,348 ETH, and 20% have &quot;gone dark&quot;; the hackers converted 83% of the ETH to BTC &lpar;Shaurya Malwa/CoinDesk&rpar;](http://www.techmeme.com/250304/p4#a250304p4)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

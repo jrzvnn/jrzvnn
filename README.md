@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [I don&#39;t know dude, it looks painful for me.](http://9gag.com/gag/avy13Dn)
- - 😝 [Titanic](http://9gag.com/gag/aVvoNZP)
- - 💣 [A young girl files lawsuit against public school system in Connecticut for awarding her an honors diploma despite her inability to read or write. &lpar;Details in comments&rpar;](http://9gag.com/gag/aLne6Mz)
- - 😝 [For the one guy who asked, cause I&#39;m too dumb to put it in a comment](http://9gag.com/gag/a9yvjp6)
- - 👉 [Europe right now](http://9gag.com/gag/apR3ezB)<!-- MEMES:END -->
+ - 😝 [Welcome to Europe](http://9gag.com/gag/azxd6Zj)
+ - 😝 [I thought I heard the Holy water sizzle](http://9gag.com/gag/aVvEjmn)
+ - 💣 [Japanese ads strikes again!](http://9gag.com/gag/a87mLMd)
+ - 😝 [My deepest regrets for the cancerous emojis](http://9gag.com/gag/aQzvwL7)
+ - 👉 [Snow white after waking up](http://9gag.com/gag/a2v8EMZ)<!-- MEMES:END -->
 
 ---
 

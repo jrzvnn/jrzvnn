@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Apple Pencil buyer&#39;s guide -- which of the four models works with your iPad?](https://appleinsider.com/articles/24/05/07/apple-pencil-buyers-guide----which-of-the-four-models-works-with-your-ipad?utm_medium=rss)
  - [MWC 2025: all the phones, gadgets, and commentary from Barcelona](https://www.theverge.com/news/616633/mwc-2025-news-products-announcements)
  - [What if your phone’s camera was much, much bigger?](https://www.theverge.com/news/623765/xiaomi-realme-camera-concepts-modular-lens-mwc-2025)
  - [Apple updates iPad Air with faster M3 processor](https://appleinsider.com/articles/25/03/04/apple-updates-ipad-air-with-faster-m3-processor?utm_medium=rss)
- - [Four colors addded to iPhone 16 Silicone Case with MagSafe collection](https://appleinsider.com/articles/25/03/04/four-colors-addded-to-iphone-16-silicone-case-with-magsafe-collection?utm_medium=rss)
- - [US tariffs: how Trump’s tax is hitting Big Tech and beyond](https://www.theverge.com/604742/trump-tariffs-canada-mexico-china-updates)<!-- TECH:END -->
+ - [Four colors addded to iPhone 16 Silicone Case with MagSafe collection](https://appleinsider.com/articles/25/03/04/four-colors-addded-to-iphone-16-silicone-case-with-magsafe-collection?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

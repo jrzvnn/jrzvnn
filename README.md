@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [MagSafe does connect to the iPhone 16e, but incredibly badly](https://appleinsider.com/articles/25/03/04/magsafe-does-connect-to-the-iphone-16e-but-incredibly-badly?utm_medium=rss)
- - [How to mirror your Samsung phone on Windows](https://www.theverge.com/how-to/622969/windows-mirror-samsung-android-how-to)
- - [The James Bond Cinematic Universe](https://www.theverge.com/the-vergecast/623633/james-bond-amazon-framework-laptop-desktop-vergecast)
- - [Best Hiking Boots &lpar;2025&rpar;: Walking Shoes, Trails, Backpacking](https://www.wired.com/gallery/best-hiking-boots/)
- - [US tariffs: how Trump’s tax is hitting Big Tech and beyond](https://www.theverge.com/604742/trump-tariffs-canada-mexico-china-updates)<!-- TECH:END -->
+ - [Apple unveils the 11th-generation iPad, adding an A16 Bionic chip and starting at 128GB of storage, with options up to 256GB and 512GB, for the same $349 &lpar;Hartley Charlton/MacRumors&rpar;](http://www.techmeme.com/250304/p13#a250304p13)
+ - [Apple updates the $599+ 11-inch and $799+ 13-inch iPad Air with an M3 chip and unveils a new $269+ Magic Keyboard with a larger built-in trackpad &lpar;David Pierce/The Verge&rpar;](http://www.techmeme.com/250304/p12#a250304p12)
+ - [Apple updates iPad Air with faster M3 processor](https://appleinsider.com/articles/25/03/04/apple-updates-ipad-air-with-faster-m3-processor?utm_medium=rss)
+ - [Apple launched a new base iPad](https://www.theverge.com/news/621625/apple-ipad-2024-launch-price-availability)
+ - [Apple launches a new M3-powered iPad Air](https://www.theverge.com/ipad/623027/apple-ipad-air-2025-launch-price-specs)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

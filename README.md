@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Titanic](http://9gag.com/gag/aVvoNZP)
- - 😝 [A friend asked me to install an SSD on his PC along with fresh Windows, but to make sure to install Win7 solitaire, because his dad likes to play it. Stats are insane.](http://9gag.com/gag/azxd6AB)
- - 💣 [Yet again!](http://9gag.com/gag/ayN3OjM)
- - 😝 [Europe right now](http://9gag.com/gag/apR3ezB)
- - 👉 [When people ask why you&#39;re always quiet, what&#39;s going on in your head?](http://9gag.com/gag/a876B7V)<!-- MEMES:END -->
+ - 😝 [Wait, wait, wait, wait, wait!](http://9gag.com/gag/axy3XbL)
+ - 😝 [Yet again!](http://9gag.com/gag/ayN3OjM)
+ - 💣 [A friend asked me to install an SSD on his PC along with fresh Windows, but to make sure to install Win7 solitaire, because his dad likes to play it. Stats are insane.](http://9gag.com/gag/azxd6AB)
+ - 😝 [Ride](http://9gag.com/gag/aqyXq6j)
+ - 👉 [A young girl files lawsuit against public school system in Connecticut for awarding her an honors diploma despite her inability to read or write. &lpar;Details in comments&rpar;](http://9gag.com/gag/aLne6Mz)<!-- MEMES:END -->
 
 ---
 

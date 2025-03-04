@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Wow , Imagine that](http://9gag.com/gag/ary3jm7)
- - 😝 [I thought I heard the Holy water sizzle](http://9gag.com/gag/aVvEjmn)
- - 💣 [Welcome to Europe](http://9gag.com/gag/azxd6Zj)
- - 😝 [The tail wags are precious](http://9gag.com/gag/aD2nReK)
- - 👉 [Snow white after waking up](http://9gag.com/gag/a2v8EMZ)<!-- MEMES:END -->
+ - 😝 [Literally anything other than bot propaganda](http://9gag.com/gag/abA194r)
+ - 😝 [Titanic](http://9gag.com/gag/aVvoNZP)
+ - 💣 [He&#39;s so polite &amp; the owner is awesome](http://9gag.com/gag/apR3OPp)
+ - 😝 [A young girl files lawsuit against public school system in Connecticut for awarding her an honors diploma despite her inability to read or write. &lpar;Details in comments&rpar;](http://9gag.com/gag/aLne6Mz)
+ - 👉 [Yet again!](http://9gag.com/gag/ayN3OjM)<!-- MEMES:END -->
 
 ---
 

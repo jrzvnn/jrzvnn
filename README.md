@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Bybit CEO Ben Zhou says 77%+ of the funds stolen remain traceable, including 417,348 ETH, and 20% have &quot;gone dark&quot;; the hackers converted 83% of the ETH to BTC &lpar;Shaurya Malwa/CoinDesk&rpar;](http://www.techmeme.com/250304/p4#a250304p4)
  - [Nothing Phone &lpar;3a&rpar; and Phone &lpar;3a&rpar; Pro Review: Budget Excellence](https://www.wired.com/review/nothing-phone-3a-and-phone-3a-pro/)
  - [Nothing’s Phone 3A and 3A Pro use AI to organize all your stuff](https://www.theverge.com/news/622405/nothing-phone-3a-pro-essential-space-price-specs)
  - [Today&#39;s NYT Strands Hints, Answers and Help for March 4, #366](https://www.cnet.com/tech/gaming/todays-nyt-strands-hints-answers-and-help-for-march-4-366/#ftag=CAD590a51e)
- - [Today&#39;s NYT Connections: Sports Edition Hints and Answers for March 4, #162](https://www.cnet.com/tech/gaming/todays-nyt-connections-sports-edition-hints-and-answers-for-march-4-162/#ftag=CAD590a51e)
- - [Today&#39;s NYT Connections Hints, Answers and Help for March 4, #632](https://www.cnet.com/tech/gaming/todays-nyt-connections-hints-answers-and-help-for-march-4-632/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Today&#39;s NYT Connections: Sports Edition Hints and Answers for March 4, #162](https://www.cnet.com/tech/gaming/todays-nyt-connections-sports-edition-hints-and-answers-for-march-4-162/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

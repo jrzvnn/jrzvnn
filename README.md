@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [YouTube warns creators an AI-generated video of its CEO is being used for phishing scams](https://www.theverge.com/news/624159/youtube-ai-generated-neal-mohan-phishing-scam)
  - [The crypto industry got what it paid for](https://www.theverge.com/cryptocurrency/624108/crypto-reserve-bitcoin-trump-grift)
  - [Apple Gives iPhone Cases, Apple Watch Bands a Spring Makeover](https://www.cnet.com/tech/apple-gives-iphone-cases-apple-watch-bands-a-spring-makeover/#ftag=CAD590a51e)
  - [Today&#39;s NYT Connections: Sports Edition Hints and Answers for March 5, #163](https://www.cnet.com/tech/gaming/todays-nyt-connections-sports-edition-hints-and-answers-for-march-5-163/#ftag=CAD590a51e)
- - [Today&#39;s NYT Strands Hints, Answers and Help for March 5, #367](https://www.cnet.com/tech/gaming/todays-nyt-strands-hints-answers-and-help-for-march-5-367/#ftag=CAD590a51e)
- - [Today&#39;s NYT Connections Hints, Answers and Help for March 5, #633](https://www.cnet.com/tech/gaming/todays-nyt-connections-hints-answers-and-help-for-march-5-633/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Today&#39;s NYT Strands Hints, Answers and Help for March 5, #367](https://www.cnet.com/tech/gaming/todays-nyt-strands-hints-answers-and-help-for-march-5-367/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

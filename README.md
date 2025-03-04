@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [US tariffs: how Trump’s tax is hitting Big Tech and beyond](https://www.theverge.com/604742/trump-tariffs-canada-mexico-china-updates)
- - [Donald Trump’s tariffs, explained](https://www.theverge.com/tech/607947/donald-trump-tariffs-china-mexico-canada-explainer)
- - [Pokémon with guns? All the latest on viral gaming hit Palworld](https://www.theverge.com/24048972/palworld-news-trailers)
  - [MWC 2025: all the phones, gadgets, and commentary from Barcelona](https://www.theverge.com/news/616633/mwc-2025-news-products-announcements)
- - [Trump’s first 100 days: all the news affecting the tech industry](https://www.theverge.com/24348851/donald-trump-presidency-tech-science-news)<!-- TECH:END -->
+ - [What if your phone’s camera was much, much bigger?](https://www.theverge.com/news/623765/xiaomi-realme-camera-concepts-modular-lens-mwc-2025)
+ - [Apple updates iPad Air with faster M3 processor](https://appleinsider.com/articles/25/03/04/apple-updates-ipad-air-with-faster-m3-processor?utm_medium=rss)
+ - [Four colors addded to iPhone 16 Silicone Case with MagSafe collection](https://appleinsider.com/articles/25/03/04/four-colors-addded-to-iphone-16-silicone-case-with-magsafe-collection?utm_medium=rss)
+ - [US tariffs: how Trump’s tax is hitting Big Tech and beyond](https://www.theverge.com/604742/trump-tariffs-canada-mexico-china-updates)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

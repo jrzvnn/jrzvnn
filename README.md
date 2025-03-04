@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Make my happy always](http://9gag.com/gag/a2vwe3w)
- - 😝 [Such a great film!](http://9gag.com/gag/a0eXA9n)
- - 💣 [Yet again!](http://9gag.com/gag/ayN3OjM)
+ - 😝 [Fight together, die together](http://9gag.com/gag/aBy6AQ1)
+ - 😝 [Welcome to Europe](http://9gag.com/gag/azxd6Zj)
+ - 💣 [Beauty standards](http://9gag.com/gag/a876xwV)
  - 😝 [Time for the ultimate battles in Mecha BREAK\ud83d\udca5](http://9gag.com/gag/aE06LPM)
- - 👉 [Doggo sure knows how to show that he runs the place.](http://9gag.com/gag/aO8eL96)<!-- MEMES:END -->
+ - 👉 [Yet again!](http://9gag.com/gag/ayN3OjM)<!-- MEMES:END -->
 
 ---
 

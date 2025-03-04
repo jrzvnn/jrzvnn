@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The James Bond Cinematic Universe](https://www.theverge.com/the-vergecast/623633/james-bond-amazon-framework-laptop-desktop-vergecast)
+ - [Best Hiking Boots &lpar;2025&rpar;: Walking Shoes, Trails, Backpacking](https://www.wired.com/gallery/best-hiking-boots/)
  - [US tariffs: how Trump’s tax is hitting Big Tech and beyond](https://www.theverge.com/604742/trump-tariffs-canada-mexico-china-updates)
  - [Trump imposes tariffs on Mexico, Canada, and China](https://www.theverge.com/news/623403/trump-imposes-tariffs-mexico-canada-china)
- - [iPhone 16e teardown reveals it&#39;s as easily repaired as the iPhone 16](https://appleinsider.com/articles/25/03/04/iphone-16e-teardown-reveals-its-as-easily-repaired-as-the-iphone-16?utm_medium=rss)
- - [Peregrine, which develops a platform used by state and local law enforcement agencies with smaller budgets, raised $190M led by Sequoia at a $2.5B valuation &lpar;Lizette Chapman/Bloomberg&rpar;](http://www.techmeme.com/250304/p11#a250304p11)
- - [MWC 2025: all the phones, gadgets, and commentary from Barcelona](https://www.theverge.com/news/616633/mwc-2025-news-products-announcements)<!-- TECH:END -->
+ - [iPhone 16e teardown reveals it&#39;s as easily repaired as the iPhone 16](https://appleinsider.com/articles/25/03/04/iphone-16e-teardown-reveals-its-as-easily-repaired-as-the-iphone-16?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

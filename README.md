@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [Do you agree?](http://9gag.com/gag/aQzvLv7)
  - 😝 [The benefits of living near a golf course](http://9gag.com/gag/a6ZXYzm)
- - 😝 [Ladies man](http://9gag.com/gag/agm1WOq)
- - 💣 [Bro used 100,000 lumens flashlight to escape.](http://9gag.com/gag/a1mN62v)
+ - 💣 [Standing in the middle of a bike trail looking at your phone](http://9gag.com/gag/a0eX3ML)
  - 😝 [Time for the ultimate battles in Mecha BREAK\ud83d\udca5](http://9gag.com/gag/aE06LPM)
- - 👉 [The strongest fishhook technique](http://9gag.com/gag/axy3r4W)<!-- MEMES:END -->
+ - 👉 [Make my happy always](http://9gag.com/gag/a2vwe3w)<!-- MEMES:END -->
 
 ---
 

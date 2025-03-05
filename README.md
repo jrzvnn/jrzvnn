@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Fill or kill](http://9gag.com/gag/awy3R5Q)
- - 😝 [He&#39;s tired](http://9gag.com/gag/a6ZXA99)
- - 💣 [Truly majestic!](http://9gag.com/gag/a7oevqe)
- - 😝 [A young girl files lawsuit against public school system in Connecticut for awarding her an honors diploma despite her inability to read or write. &lpar;Details in comments&rpar;](http://9gag.com/gag/aLne6Mz)
- - 👉 [This ACTING...](http://9gag.com/gag/aW47wxn)<!-- MEMES:END -->
+ - 😝 [For the one guy who asked, cause I&#39;m too dumb to put it in a comment](http://9gag.com/gag/a9yvjp6)
+ - 😝 [Diversity](http://9gag.com/gag/aRB4Y85)
+ - 💣 [Yet again!](http://9gag.com/gag/ayN3OjM)
+ - 😝 [Protect this man](http://9gag.com/gag/aGynPoZ)
+ - 👉 [I love my white country](http://9gag.com/gag/aqy89Ov)<!-- MEMES:END -->
 
 ---
 

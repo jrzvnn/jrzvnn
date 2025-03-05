@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [The tail wags are precious](http://9gag.com/gag/aD2nReK)
- - 😝 [Snow white after waking up](http://9gag.com/gag/a2v8EMZ)
- - 💣 [-Guy breaks into a house -Hears deck of cards shuffle -dead](http://9gag.com/gag/agmO3Pv)
- - 😝 [Ocean Two, but GET CAUGHT! Best Acting, Top Script!](http://9gag.com/gag/aVvEQOw)
- - 👉 [He was ready](http://9gag.com/gag/aKG94A6)<!-- MEMES:END -->
+ - 😝 [You can see the steam coming out of her ears](http://9gag.com/gag/azxPb0p)
+ - 😝 [Must be geh like OP](http://9gag.com/gag/a9y699W)
+ - 💣 [How Pokemon will be used if they are real](http://9gag.com/gag/axyvdV1)
+ - 😝 [I like the blue in white one personality](http://9gag.com/gag/aAyEYzg)
+ - 👉 [Snow white after waking up](http://9gag.com/gag/a2v8EMZ)<!-- MEMES:END -->
 
 ---
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [US tariffs: how Trump’s tax is hitting Big Tech and beyond](https://www.theverge.com/604742/trump-tariffs-canada-mexico-china-updates)
+ - [MWC 2025: all the phones, gadgets, and commentary from Barcelona](https://www.theverge.com/news/616633/mwc-2025-news-products-announcements)
+ - [The best stuff we’ve seen at MWC so far](https://www.theverge.com/news/623755/mobile-world-congress-mwc-2025-smartphones-laptops-headphones)
  - [Trump’s first 100 days: all the news affecting the tech industry](https://www.theverge.com/24348851/donald-trump-presidency-tech-science-news)
- - [Car prices expected to increase by as much as $12,000 thanks to Trump’s tariffs](https://www.theverge.com/news/624812/trump-tariff-car-price-increase-production-cut)
- - [DOGE’s $1 Federal Spending Limit Is Straight Out of the Twitter Playbook](https://www.wired.com/story/uncanny-valley-doge-dollar-spending-limit-artificial-intelligence-twitter-playbook/)
- - [Anthropic quietly removes Biden-era AI policy commitments from its site, including pledges to research AI discrimination and share info on managing AI risks &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/250305/p35#a250305p35)
- - [Kia&amp;#8217;s EV9 will soon be able to power your home](https://www.theverge.com/news/624811/kia-ev9-bi-directional-wallbox-home-power-backup-preorder)<!-- TECH:END -->
+ - [Car prices expected to increase by as much as $12,000 thanks to Trump’s tariffs](https://www.theverge.com/news/624812/trump-tariff-car-price-increase-production-cut)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

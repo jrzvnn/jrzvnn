@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [They don\u2019t make movies like this anymore.](http://9gag.com/gag/a9yvMmo)
  - 😝 [You can see the steam coming out of her ears](http://9gag.com/gag/azxPb0p)
- - 💣 [How Pokemon will be used if they are real](http://9gag.com/gag/axyvdV1)
- - 😝 [Snow white after waking up](http://9gag.com/gag/a2v8EMZ)
- - 👉 [Bro is an 9gagger](http://9gag.com/gag/aLneKov)<!-- MEMES:END -->
+ - 😝 [Ken McElroy, known as the `town bully,` was murdered in his truck in Skidmore, Missouri, on July 10, 1981, in broad daylight. Despite the presence of over 40 witnesses, no one claimed to have seen the murder occur, and to this day, no one has been charged.](http://9gag.com/gag/aD2nRgO)
+ - 💣 [Welding](http://9gag.com/gag/a0eV89Z)
+ - 😝 [Maybe he should stare at mirror](http://9gag.com/gag/a34AvE5)
+ - 👉 [How Pokemon will be used if they are real](http://9gag.com/gag/axyvdV1)<!-- MEMES:END -->
 
 ---
 

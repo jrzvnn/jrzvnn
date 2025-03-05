@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Meta brings its anti-scam facial recognition test to the UK &quot;after engaging with regulators&quot;, letting celebrities opt-in &quot;to receive the celeb-bait protection&quot; &lpar;Ingrid Lunden/TechCrunch&rpar;](http://www.techmeme.com/250305/p14#a250305p14)
- - [Turing winners Andrew Barto and Richard Sutton warn over unsafe AI deployment, saying releasing models &quot;without safeguards is not good engineering practice&quot; &lpar;Financial Times&rpar;](http://www.techmeme.com/250305/p13#a250305p13)
- - [Reinforcement learning pioneers Andrew Barto and Richard Sutton win the 2024 Turing Award; their work played a vital role in the rise of AI, including ChatGPT &lpar;Cade Metz/New York Times&rpar;](http://www.techmeme.com/250305/p12#a250305p12)
- - [Want to Go Car-Free? Test the Waters by Renting a Cargo Bike](https://www.wired.com/story/wombi-cargo-bike-rentals/)
- - [Volvo’s ES90 is a high-riding electric sedan with 434 miles of range](https://www.theverge.com/news/623945/volvo-es90-ev-sedan-range-battery-power-specs-photos)<!-- TECH:END -->
+ - [Sea reports Q4 revenue up 37% YoY to ~$4.95B, above est., and forecasts 2025 GMV to rise ~20% to ~$120.6B at online retail arm Shopee, above $116.6B est. &lpar;Olivia Poh/Bloomberg&rpar;](http://www.techmeme.com/250305/p15#a250305p15)
+ - [Give These 12 Pesticide-Heavy Fruits and Vegetables an Extra Rinse](https://www.cnet.com/news/give-these-12-pesticide-heavy-fruits-and-vegetables-an-extra-rinse/#ftag=CAD590a51e)
+ - [1 Million Third-Party Android Devices Have a Secret Backdoor for Scammers](https://www.wired.com/story/1-million-third-party-android-devices-badbox-2/)
+ - [Hyundai Ioniq 9 2025 Review](https://www.wired.com/review/review-hyundai-ioniq-9/)
+ - [Digg is coming back, thanks to its founder — and Reddit’s](https://www.theverge.com/social/624073/digg-relaunch-2025)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

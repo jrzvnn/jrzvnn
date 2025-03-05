@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Amazon Prime Video is getting into the wrestling business with new AEW deal](https://www.theverge.com/news/624673/aew-prime-video-ppv-streaming-deal)
  - [Apple says not every Apple Silicon generation will get an Ultra](https://appleinsider.com/articles/25/03/05/apple-says-not-every-apple-silicon-generation-will-get-an-ultra?utm_medium=rss)
  - [US Charges 12 Alleged Spies in China&#39;s Freewheeling Hacker-for-Hire Ecosystem](https://www.wired.com/story/us-charges-12-alleged-spies-in-chinas-freewheeling-hacker-for-hire-ecosystem/)
  - [Netflix&amp;#8217;s live push continues with John Mulaney&amp;#8217;s late-night talk show](https://www.theverge.com/netflix/624718/netflix-live-john-mulaney-late-night-show)
- - [An Overdiagnosis Epidemic Is Harming Patients’ Mental Health](https://www.wired.com/story/wired-health-suzanne-osullivan-cancer-autism-watchful-waiting-overdiagnosis/)
- - [Chatbots, Like the Rest of Us, Just Want to Be Loved](https://www.wired.com/story/chatbots-like-the-rest-of-us-just-want-to-be-loved/)<!-- TECH:END -->
+ - [An Overdiagnosis Epidemic Is Harming Patients’ Mental Health](https://www.wired.com/story/wired-health-suzanne-osullivan-cancer-autism-watchful-waiting-overdiagnosis/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

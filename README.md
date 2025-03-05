@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [A US judge denies Elon Musk&#39;s request for an injunction that would pause OpenAI&#39;s restructuring to a for-profit, saying he failed to meet the burden of proof &lpar;Malathi Nayak/Bloomberg&rpar;](http://www.techmeme.com/250304/p34#a250304p34)
- - [Source: ByteDance plans to buy back US employee stock at ~$189.90 per share, up from ~$181 in a similar proposal in 2024, putting ByteDance&#39;s valuation at $312B &lpar;Bloomberg&rpar;](http://www.techmeme.com/250304/p33#a250304p33)
- - [The Los Angeles Times removes its AI-powered &quot;Insights&quot; feature from a column after the tool tried to defend the Ku Klux Klan, just a day after its debut &lpar;Corbin Bolies/The Daily Beast&rpar;](http://www.techmeme.com/250304/p32#a250304p32)
- - [Nimble Valet 3-in-1 Wireless Charger review: One charger for all your daily gear](https://appleinsider.com/articles/25/03/05/nimble-valet-3-in-1-wireless-charger-review-one-charger-for-all-your-daily-gear?utm_medium=rss)
- - [Source: CoreWeave is in talks to acquire Weights &amp; Biases, whose tools help developers build AI apps, for ~$1.7B; Weights &amp; Biases was valued at $1.25B in 2023 &lpar;The Information&rpar;](http://www.techmeme.com/250304/p31#a250304p31)<!-- TECH:END -->
+ - [Arm agrees to provide chip designs and tech to Malaysia for $250M over the next ten years, as the government targets semiconductor exports of $270B by 2030 &lpar;Anisah Shukry/Bloomberg&rpar;](http://www.techmeme.com/250304/p36#a250304p36)
+ - [&#39;Daredevil: Born Again&#39; Review: Thrilling, Bone Crushing and Brutally Satisfying](https://www.cnet.com/tech/services-and-software/daredevil-born-again-review-thrilling-bone-crushing-and-brutally-satisfying/#ftag=CAD590a51e)
+ - [Daredevil: Born Again is a rough reboot with a promising future](https://www.theverge.com/tv-reviews/623200/daredevil-born-again-review)
+ - [CES 2025: all the news, gadgets, and surprises](https://www.theverge.com/2025/1/4/24307731/ces-2025-tvs-gaming-smart-home-wearables-news)
+ - [A US judge denies Musk&#39;s effort to halt OpenAI&#39;s for-profit shift, saying he failed to meet the burden of proof, but allows other aspects of the suit to proceed &lpar;Hayden Field/CNBC&rpar;](http://www.techmeme.com/250304/p35#a250304p35)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

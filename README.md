@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Philips GamePix 900 Review: Good Looks, Insane Value](https://www.wired.com/review/philips-gamepix-900/)
+ - [MWC 2025: all the phones, gadgets, and commentary from Barcelona](https://www.theverge.com/news/616633/mwc-2025-news-products-announcements)
  - [Apple TV+ show is bought by another streamer for the first time](https://appleinsider.com/articles/25/03/05/apple-tv-show-is-bought-by-another-streamer-for-the-first-time?utm_medium=rss)
  - [5 Best GoPro Hero Cameras &lpar;2025&rpar;: Compact, Budget, Accessories](https://www.wired.com/gallery/best-gopro-hero-camera/)
- - [Asus Zenbook A14 Review: The Best Copilot Plus PC So Far](https://www.cnet.com/tech/computing/asus-zenbook-a14-review-the-best-copilot-plus-pc-so-far/#ftag=CAD590a51e)
- - [The UK CMA clears Microsoft&#39;s $13B OpenAI investment in 2023, ending 14 months of uncertainty over the deal, but says &quot;Microsoft did acquire material influence&quot; &lpar;Upmanyu Trivedi/Bloomberg&rpar;](http://www.techmeme.com/250305/p20#a250305p20)
- - [This App Blocks Social Media Until You &lpar;Literally&rpar; Touch Grass, and I&#39;m So Excited for It](https://www.cnet.com/news/social-media/this-app-blocks-your-social-media-until-you-literally-touch-grass-and-im-so-excited-for-it/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [The UK CMA clears Microsoft&#39;s $13B OpenAI investment in 2023, ending 14 months of uncertainty over the deal, but says &quot;Microsoft did acquire material influence&quot; &lpar;Upmanyu Trivedi/Bloomberg&rpar;](http://www.techmeme.com/250305/p20#a250305p20)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

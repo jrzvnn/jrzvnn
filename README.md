@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [When people ask why you&#39;re always quiet, what&#39;s going on in your head?](http://9gag.com/gag/a876B7V)
- - 😝 [Joink](http://9gag.com/gag/aZZ1GpQ)
- - 💣 [Good job](http://9gag.com/gag/agmO31K)
- - 😝 [Do yes the dog](http://9gag.com/gag/aQzvw3e)
- - 👉 [Somewhere in a parallel universe](http://9gag.com/gag/a4P6Dqw)<!-- MEMES:END -->
+ - 😝 [Fill or kill](http://9gag.com/gag/awy3R5Q)
+ - 😝 [He&#39;s tired](http://9gag.com/gag/a6ZXA99)
+ - 💣 [Truly majestic!](http://9gag.com/gag/a7oevqe)
+ - 😝 [A young girl files lawsuit against public school system in Connecticut for awarding her an honors diploma despite her inability to read or write. &lpar;Details in comments&rpar;](http://9gag.com/gag/aLne6Mz)
+ - 👉 [This ACTING...](http://9gag.com/gag/aW47wxn)<!-- MEMES:END -->
 
 ---
 

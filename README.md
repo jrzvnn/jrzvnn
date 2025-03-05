@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Turing winners Andrew Barto and Richard Sutton warn over unsafe AI deployment, saying releasing models &quot;without safeguards is not good engineering practice&quot; &lpar;Financial Times&rpar;](http://www.techmeme.com/250305/p13#a250305p13)
  - [Reinforcement learning pioneers Andrew Barto and Richard Sutton win the 2024 Turing Award; their work played a vital role in the rise of AI, including ChatGPT &lpar;Cade Metz/New York Times&rpar;](http://www.techmeme.com/250305/p12#a250305p12)
  - [Want to Go Car-Free? Test the Waters by Renting a Cargo Bike](https://www.wired.com/story/wombi-cargo-bike-rentals/)
  - [Volvo’s ES90 is a high-riding electric sedan with 434 miles of range](https://www.theverge.com/news/623945/volvo-es90-ev-sedan-range-battery-power-specs-photos)
- - [Pioneers of Reinforcement Learning Win the Turing Award](https://www.wired.com/story/pioneers-of-reward-based-machine-learning-win-turing-award/)
- - [Sesame&#39;s AI speech model demo has many users expressing astonishment at its realism, with some testers reporting emotional connections to the voice assistant &lpar;Benj Edwards/Ars Technica&rpar;](http://www.techmeme.com/250305/p11#a250305p11)<!-- TECH:END -->
+ - [Pioneers of Reinforcement Learning Win the Turing Award](https://www.wired.com/story/pioneers-of-reward-based-machine-learning-win-turing-award/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Snow white after waking up](http://9gag.com/gag/a2v8EMZ)
- - 😝 [-Guy breaks into a house -Hears deck of cards shuffle -dead](http://9gag.com/gag/agmO3Pv)
- - 💣 [I like the blue in white one personality](http://9gag.com/gag/aAyEYzg)
- - 😝 [He was ready](http://9gag.com/gag/aKG94A6)
- - 👉 [Finally found out why you are geh](http://9gag.com/gag/amoGq26)<!-- MEMES:END -->
+ - 😝 [Welcome to Europe](http://9gag.com/gag/azxd6Zj)
+ - 😝 [A friend asked me to install an SSD on his PC along with fresh Windows, but to make sure to install Win7 solitaire, because his dad likes to play it. Stats are insane.](http://9gag.com/gag/azxd6AB)
+ - 💣 [Fill or kill](http://9gag.com/gag/awy3R5Q)
+ - 😝 [Ken McElroy, known as the `town bully,` was murdered in his truck in Skidmore, Missouri, on July 10, 1981, in broad daylight. Despite the presence of over 40 witnesses, no one claimed to have seen the murder occur, and to this day, no one has been charged.](http://9gag.com/gag/aD2nRgO)
+ - 👉 [Snow white after waking up](http://9gag.com/gag/a2v8EMZ)<!-- MEMES:END -->
 
 ---
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Latest Turing Award winners again warn of AI dangers](https://www.theverge.com/news/624485/turing-award-andrew-barto-richard-sutton-ai-dangers)
- - [The 29 Best Energy Drinks, Tested and Reviewed &lpar;2025&rpar;](https://www.wired.com/story/best-energy-drinks/)
- - [US tariffs: how Trump’s tax is hitting Big Tech and beyond](https://www.theverge.com/604742/trump-tariffs-canada-mexico-china-updates)
- - [Digg founder Kevin Rose and Reddit founder Alexis Ohanian buy Digg for an undisclosed sum from Money Group, aiming to focus on &quot;connection and humanity&quot; online &lpar;Mike Isaac/New York Times&rpar;](http://www.techmeme.com/250305/p19#a250305p19)
- - [After Qualcomm unveiled its X85 modem, CEO Cristiano Amon says it creates a &quot;huge delta&quot; in performance over Apple and is &quot;the first modem that has so much AI&quot; &lpar;Arjun Kharpal/CNBC&rpar;](http://www.techmeme.com/250305/p18#a250305p18)<!-- TECH:END -->
+ - [Apple TV+ show is bought by another streamer for the first time](https://appleinsider.com/articles/25/03/05/apple-tv-show-is-bought-by-another-streamer-for-the-first-time?utm_medium=rss)
+ - [5 Best GoPro Hero Cameras &lpar;2025&rpar;: Compact, Budget, Accessories](https://www.wired.com/gallery/best-gopro-hero-camera/)
+ - [Asus Zenbook A14 Review: The Best Copilot Plus PC So Far](https://www.cnet.com/tech/computing/asus-zenbook-a14-review-the-best-copilot-plus-pc-so-far/#ftag=CAD590a51e)
+ - [The UK CMA clears Microsoft&#39;s $13B OpenAI investment in 2023, ending 14 months of uncertainty over the deal, but says &quot;Microsoft did acquire material influence&quot; &lpar;Upmanyu Trivedi/Bloomberg&rpar;](http://www.techmeme.com/250305/p20#a250305p20)
+ - [This App Blocks Social Media Until You &lpar;Literally&rpar; Touch Grass, and I&#39;m So Excited for It](https://www.cnet.com/news/social-media/this-app-blocks-your-social-media-until-you-literally-touch-grass-and-im-so-excited-for-it/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

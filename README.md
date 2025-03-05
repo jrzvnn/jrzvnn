@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Latest Turing Award winners again warn of AI dangers](https://www.theverge.com/news/624485/turing-award-andrew-barto-richard-sutton-ai-dangers)
+ - [The 29 Best Energy Drinks, Tested and Reviewed &lpar;2025&rpar;](https://www.wired.com/story/best-energy-drinks/)
+ - [US tariffs: how Trump’s tax is hitting Big Tech and beyond](https://www.theverge.com/604742/trump-tariffs-canada-mexico-china-updates)
  - [Digg founder Kevin Rose and Reddit founder Alexis Ohanian buy Digg for an undisclosed sum from Money Group, aiming to focus on &quot;connection and humanity&quot; online &lpar;Mike Isaac/New York Times&rpar;](http://www.techmeme.com/250305/p19#a250305p19)
- - [After Qualcomm unveiled its X85 modem, CEO Cristiano Amon says it creates a &quot;huge delta&quot; in performance over Apple and is &quot;the first modem that has so much AI&quot; &lpar;Arjun Kharpal/CNBC&rpar;](http://www.techmeme.com/250305/p18#a250305p18)
- - [&#39;Reacher&#39; Season 3 Release Schedule: When to Watch Episode 5 on Prime Video](https://www.cnet.com/tech/services-and-software/reacher-season-3-release-schedule-when-to-watch-episode-5-on-prime-video/#ftag=CAD590a51e)
- - [Is Cox&#39;s Gigabit Service Worth the Cost? Here&#39;s All You Need to Know](https://www.cnet.com/home/internet/cox-gig-service-worth-the-cost/#ftag=CAD590a51e)
- - [Indian SaaS hiring platform Darwinbox raised $140M co-led by KKR and Partners Group, taking its total funding to $270M; the startup had a $1B+ valuation in 2022 &lpar;Ingrid Lunden/TechCrunch&rpar;](http://www.techmeme.com/250305/p17#a250305p17)<!-- TECH:END -->
+ - [After Qualcomm unveiled its X85 modem, CEO Cristiano Amon says it creates a &quot;huge delta&quot; in performance over Apple and is &quot;the first modem that has so much AI&quot; &lpar;Arjun Kharpal/CNBC&rpar;](http://www.techmeme.com/250305/p18#a250305p18)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

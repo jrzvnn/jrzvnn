@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Sushi](http://9gag.com/gag/a2v8P81)
  - 😝 [He was ready](http://9gag.com/gag/aKG94A6)
- - 💣 [Finally found out why you are geh](http://9gag.com/gag/amoGq26)
- - 😝 [I like the blue in white one personality](http://9gag.com/gag/aAyEYzg)
- - 👉 [Never forget](http://9gag.com/gag/a0eV8QX)<!-- MEMES:END -->
+ - 😝 [Finally found out why you are geh](http://9gag.com/gag/amoGq26)
+ - 💣 [I like the blue in white one personality](http://9gag.com/gag/aAyEYzg)
+ - 😝 [Never forget](http://9gag.com/gag/a0eV8QX)
+ - 👉 [Sushi](http://9gag.com/gag/a2v8P81)<!-- MEMES:END -->
 
 ---
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Ken McElroy, known as the `town bully,` was murdered in his truck in Skidmore, Missouri, on July 10, 1981, in broad daylight. Despite the presence of over 40 witnesses, no one claimed to have seen the murder occur, and to this day, no one has been charged.](http://9gag.com/gag/aD2nRgO)
- - 😝 [Fill or kill](http://9gag.com/gag/awy3R5Q)
- - 💣 [SPACE TERRIFIES ME](http://9gag.com/gag/aD2nRAx)
  - 😝 [When people ask why you&#39;re always quiet, what&#39;s going on in your head?](http://9gag.com/gag/a876B7V)
- - 👉 [Worries about Carl](http://9gag.com/gag/a5Q68AN)<!-- MEMES:END -->
+ - 😝 [Joink](http://9gag.com/gag/aZZ1GpQ)
+ - 💣 [Good job](http://9gag.com/gag/agmO31K)
+ - 😝 [Do yes the dog](http://9gag.com/gag/aQzvw3e)
+ - 👉 [Somewhere in a parallel universe](http://9gag.com/gag/a4P6Dqw)<!-- MEMES:END -->
 
 ---
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [I like the blue in white one personality](http://9gag.com/gag/aAyEYzg)
- - 😝 [53 seconds of a Classic](http://9gag.com/gag/aoyVZdX)
- - 💣 [Feel YOUNG again when drinking coffee here](http://9gag.com/gag/a87mbo6)
- - 😝 [EYYYYY!](http://9gag.com/gag/aMVm2v6)
- - 👉 [`Press X to start`](http://9gag.com/gag/aW4LByA)<!-- MEMES:END -->
+ - 😝 [Maybe he should stare at mirror](http://9gag.com/gag/a34AvE5)
+ - 😝 [You can see the steam coming out of her ears](http://9gag.com/gag/azxPb0p)
+ - 💣 [Learn to Milk a Horse](http://9gag.com/gag/a6Z9mOq)
+ - 😝 [Truly majestic!](http://9gag.com/gag/a7oevqe)
+ - 👉 [Shrek might become clich\u00e9](http://9gag.com/gag/aMVmbj6)<!-- MEMES:END -->
 
 ---
 

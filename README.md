@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [YouTube says YouTube Music and Premium now have 125M+ subscribers globally, including trials, after announcing 100M in February 2024 &lpar;Murray Stassen/Music Business Worldwide&rpar;](http://www.techmeme.com/250305/p28#a250305p28)
+ - [YouTube launches Premium Lite, a $7.99/month pilot in the US with ad-free videos like gaming and news, and plans to launch in Thailand, Germany, and Australia &lpar;Jack Greenberg/YouTube Official Blog&rpar;](http://www.techmeme.com/250305/p27#a250305p27)
  - [New M4 MacBook Air fixes the line&#39;s biggest problem](https://appleinsider.com/articles/25/03/05/new-m4-macbook-air-fixes-the-lines-biggest-problem?utm_medium=rss)
  - [Carl Friedrik Carry-On Review: Well-Made Modest Luxury](https://www.wired.com/review/carl-friedrik-the-carry-on/)
- - [Microsoft says China-linked hacking group Silk Typhoon was targeting remote management tools and cloud apps in the US and abroad in late 2024 &lpar;Ryan Gallagher/Bloomberg&rpar;](http://www.techmeme.com/250305/p26#a250305p26)
- - [Why I love the Logitech MX Vertical wireless mouse](https://www.theverge.com/favorites/623848/my-favorite-things-logitechs-mx-vertical-wireless-mouse)
- - [Apple&#39;s M3 Ultra unlocks next-level power for AI, graphics &amp; 3D rendering](https://appleinsider.com/articles/25/03/05/apples-m3-ultra-unlocks-next-level-power-for-ai-graphics-3d-rendering?utm_medium=rss)<!-- TECH:END -->
+ - [Microsoft says China-linked hacking group Silk Typhoon was targeting remote management tools and cloud apps in the US and abroad in late 2024 &lpar;Ryan Gallagher/Bloomberg&rpar;](http://www.techmeme.com/250305/p26#a250305p26)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Shrek might become clich\u00e9](http://9gag.com/gag/aMVmbj6)
- - 😝 [Truly majestic!](http://9gag.com/gag/a7oevqe)
+ - 😝 [Snow white after waking up](http://9gag.com/gag/a2v8EMZ)
+ - 😝 [Learn to Milk a Horse](http://9gag.com/gag/a6Z9mOq)
  - 💣 [Ken McElroy, known as the `town bully,` was murdered in his truck in Skidmore, Missouri, on July 10, 1981, in broad daylight. Despite the presence of over 40 witnesses, no one claimed to have seen the murder occur, and to this day, no one has been charged.](http://9gag.com/gag/aD2nRgO)
- - 😝 [Good service 5/7, definitely would do it again](http://9gag.com/gag/aByLRdN)
- - 👉 [Wonderful culture](http://9gag.com/gag/aQzQ44q)<!-- MEMES:END -->
+ - 😝 [Protect this man](http://9gag.com/gag/aGynPoZ)
+ - 👉 [Truly majestic!](http://9gag.com/gag/a7oevqe)<!-- MEMES:END -->
 
 ---
 

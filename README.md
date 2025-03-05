@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Welcome to Europe](http://9gag.com/gag/azxd6Zj)
- - 😝 [A friend asked me to install an SSD on his PC along with fresh Windows, but to make sure to install Win7 solitaire, because his dad likes to play it. Stats are insane.](http://9gag.com/gag/azxd6AB)
- - 💣 [Fill or kill](http://9gag.com/gag/awy3R5Q)
- - 😝 [Ken McElroy, known as the `town bully,` was murdered in his truck in Skidmore, Missouri, on July 10, 1981, in broad daylight. Despite the presence of over 40 witnesses, no one claimed to have seen the murder occur, and to this day, no one has been charged.](http://9gag.com/gag/aD2nRgO)
- - 👉 [Snow white after waking up](http://9gag.com/gag/a2v8EMZ)<!-- MEMES:END -->
+ - 😝 [Europe right now](http://9gag.com/gag/apR3ezB)
+ - 😝 [Cancer recovery log. Amazing!](http://9gag.com/gag/a6Z9wD8)
+ - 💣 [Yet again!](http://9gag.com/gag/ayN3OjM)
+ - 😝 [You can see the steam coming out of her ears](http://9gag.com/gag/azxPb0p)
+ - 👉 [Someone&#39;s gonna have a very good time in bed tonight....](http://9gag.com/gag/aGynWMw)<!-- MEMES:END -->
 
 ---
 

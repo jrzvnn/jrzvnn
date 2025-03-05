@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Senate votes to strip the CFPB of its power to regulate X](https://www.theverge.com/news/624904/cfpb-digital-payments-musk-x-conflict-doge)
  - [Trump’s first 100 days: all the news affecting the tech industry](https://www.theverge.com/24348851/donald-trump-presidency-tech-science-news)
  - [AI-generated review summaries are coming to Apple’s app store](https://www.theverge.com/news/624891/ai-generated-review-summaries-coming-to-apples-app-store)
  - [Samsung Galaxy Z Flip 7 rumors point to an all-screen cover](https://www.theverge.com/news/624967/samsung-galaxy-z-flip-7-renders-all-screen-cover)
- - [Bose’s noise-canceling QC Ultra Earbuds are on sale for their best price to date](https://www.theverge.com/good-deals/624975/bose-noise-canceling-quietcomfort-ultra-earbuds-spring-deal-sale)
- - [Utah becomes the first state to pass an app store age verification bill](https://www.theverge.com/news/624981/utah-app-store-age-verification-bill)<!-- TECH:END -->
+ - [Bose’s noise-canceling QC Ultra Earbuds are on sale for their best price to date](https://www.theverge.com/good-deals/624975/bose-noise-canceling-quietcomfort-ultra-earbuds-spring-deal-sale)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

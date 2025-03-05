@@ -159,7 +159,7 @@ R                        1 repo              ░░░░░░░░░░░�
 <!-- TECH:START -->
  - [Amazon announces an &quot;AI-aided dubbing&quot; pilot program on Prime Video, starting with dubbing in English and Latin American Spanish on 12 movies and series &lpar;Ian Carlos Campbell/Engadget&rpar;](http://www.techmeme.com/250305/p37#a250305p37)
  - [Here’s how to preorder Apple’s new MacBook Air and Mac Studio](https://www.theverge.com/good-deals/624782/apple-m4-macbook-air-mac-studio-preorder-how-to-buy-price-release-date)
- - [Coinbase is reviving ambitions to introduce security tokens, digital assets that represent venture investments, amid a relaxed regulatory environment &lpar;Jason Shubnell/The Block&rpar;](http://www.techmeme.com/250305/p36#a250305p36)
+ - [Coinbase revives its ambition to bring security tokens, &quot;crypto assets that represent a traditional security&quot;, to the US, amid a relaxed regulatory environment &lpar;Jason Shubnell/The Block&rpar;](http://www.techmeme.com/250305/p36#a250305p36)
  - [US tariffs: how Trump’s tax is hitting Big Tech and beyond](https://www.theverge.com/604742/trump-tariffs-canada-mexico-china-updates)
  - [Big Tech is now slightly less silent on Trump’s tariffs](https://www.theverge.com/news/624849/big-tech-slightly-less-silent-trump-tariffs)<!-- TECH:END -->
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [A bunch of hillbillies from Texas landed a capsule on the moon the other day.](http://9gag.com/gag/aryAvQB)
  - 😝 [Yet again!](http://9gag.com/gag/ayN3OjM)
- - 💣 [Truly majestic!](http://9gag.com/gag/a7oevqe)
- - 😝 [Someone&#39;s gonna have a very good time in bed tonight....](http://9gag.com/gag/aGynWMw)
- - 👉 [A young girl files lawsuit against public school system in Connecticut for awarding her an honors diploma despite her inability to read or write. &lpar;Details in comments&rpar;](http://9gag.com/gag/aLne6Mz)<!-- MEMES:END -->
+ - 😝 [For the one guy who asked, cause I&#39;m too dumb to put it in a comment](http://9gag.com/gag/a9yvjp6)
+ - 💣 [Ken McElroy, known as the `town bully,` was murdered in his truck in Skidmore, Missouri, on July 10, 1981, in broad daylight. Despite the presence of over 40 witnesses, no one claimed to have seen the murder occur, and to this day, no one has been charged.](http://9gag.com/gag/aD2nRgO)
+ - 😝 [Europe right now](http://9gag.com/gag/apR3ezB)
+ - 👉 [Truly majestic!](http://9gag.com/gag/a7oevqe)<!-- MEMES:END -->
 
 ---
 

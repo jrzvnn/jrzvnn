@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Netherlands-based QuantWare, which offers its VIO chip architecture to help solve scaling bottlenecks in quantum processors, raised a &amp;euro;20M Series A &lpar;Anna Heim/TechCrunch&rpar;](http://www.techmeme.com/250304/p39#a250304p39)
  - [While addressing Congress, President Trump calls to &quot;get rid&quot; of the $52B CHIPS Act and use the leftover amount to &quot;reduce debt or any other reason&quot; &lpar;Mackenzie Hawkins/Bloomberg&rpar;](http://www.techmeme.com/250304/p38#a250304p38)
  - [Apple updates iPad Air with faster M3 processor](https://appleinsider.com/articles/25/03/04/apple-updates-ipad-air-with-faster-m3-processor?utm_medium=rss)
  - [Trump’s first 100 days: all the news affecting the tech industry](https://www.theverge.com/24348851/donald-trump-presidency-tech-science-news)
- - [Today&#39;s NYT Mini Crossword Answers for Wednesday, March 5](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-wednesday-march-5/#ftag=CAD590a51e)
- - [Best Internet Providers in Modesto, California](https://www.cnet.com/home/internet/best-internet-providers-in-modesto-ca/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Today&#39;s NYT Mini Crossword Answers for Wednesday, March 5](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-wednesday-march-5/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

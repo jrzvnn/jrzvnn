@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [I like the blue in white one personality](http://9gag.com/gag/aAyEYzg)
- - 😝 [Europe right now](http://9gag.com/gag/apR3ezB)
- - 💣 [Ken McElroy, known as the `town bully,` was murdered in his truck in Skidmore, Missouri, on July 10, 1981, in broad daylight. Despite the presence of over 40 witnesses, no one claimed to have seen the murder occur, and to this day, no one has been charged.](http://9gag.com/gag/aD2nRgO)
- - 😝 [I love my white country](http://9gag.com/gag/aqy89Ov)
- - 👉 [For the one guy who asked, cause I&#39;m too dumb to put it in a comment](http://9gag.com/gag/a9yvjp6)<!-- MEMES:END -->
+ - 😝 [Wonderful culture](http://9gag.com/gag/aQzQ44q)
+ - 😝 [Good boy helping during epilepsy](http://9gag.com/gag/aoyVZeA)
+ - 💣 [53 seconds of a Classic](http://9gag.com/gag/aoyVZdX)
+ - 😝 [Ocean Two, but GET CAUGHT! Best Acting, Top Script!](http://9gag.com/gag/aVvEQOw)
+ - 👉 [Shrek might become clich\u00e9](http://9gag.com/gag/aMVmbj6)<!-- MEMES:END -->
 
 ---
 

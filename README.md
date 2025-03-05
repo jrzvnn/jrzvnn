@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [MWC 2025: all the phones, gadgets, and commentary from Barcelona](https://www.theverge.com/news/616633/mwc-2025-news-products-announcements)
- - [This little AI phone has some wild ideas](https://www.theverge.com/tech/624508/newnal-ai-os-phone-blockchain-mwc-2025)
- - [Philips GamePix 900 Review: Good Looks, Insane Value](https://www.wired.com/review/philips-gamepix-900/)
- - [Apple TV+ show is bought by another streamer for the first time](https://appleinsider.com/articles/25/03/05/apple-tv-show-is-bought-by-another-streamer-for-the-first-time?utm_medium=rss)
- - [5 Best GoPro Hero Cameras &lpar;2025&rpar;: Compact, Budget, Accessories](https://www.wired.com/gallery/best-gopro-hero-camera/)<!-- TECH:END -->
+ - [MacBook Air update arrives with lower starting price &amp; M4 performance boost](https://appleinsider.com/articles/25/03/05/macbook-air-update-arrives-with-lower-starting-price-m4-performance-boost?utm_medium=rss)
+ - [Apple updates Mac Studio with an M4 Max for $1,999+ and an M3 Ultra for $3,999+, offering up to 32 cores, 24 of which are performance cores, shipping March 12 &lpar;Wes Davis/The Verge&rpar;](http://www.techmeme.com/250305/p22#a250305p22)
+ - [Mac Studio gets an update to M4 Max or M3 Ultra](https://appleinsider.com/articles/25/03/05/mac-studio-gets-an-update-to-m4-max-or-m3-ultra?utm_medium=rss)
+ - [Apple updates the $999+ 13-inch and $1,199+ 15-inch MacBook Air with M4, with a 10-core CPU and 8-core GPU, and a new sky blue color option, shipping March 12 &lpar;Antonio G. Di Benedetto/The Verge&rpar;](http://www.techmeme.com/250305/p21#a250305p21)
+ - [Dyson’s high-tech hairdryer for professionals will soon be available to everyone](https://www.theverge.com/news/624557/dyson-supersonic-r-professional-hairdryer-beauty-tech-availability-pricing-consumers)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

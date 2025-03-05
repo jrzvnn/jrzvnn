@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [An analysis of more 8K+ messages by the Digital Witness Lab at Princeton finds messages advertising guns across 234 publicly accessible WhatsApp groups in India &lpar;Yashraj Sharma/Rest of World&rpar;](http://www.techmeme.com/250305/p7#a250305p7)
  - [London-based Quantexa, which develops anti-money laundering tech, raised a $175M Series F at a $2.6B valuation as it expands its AI data curation business &lpar;Ingrid Lunden/TechCrunch&rpar;](http://www.techmeme.com/250305/p6#a250305p6)
  - [Factor Promo Code: Up to $130 Off Meal Prep](https://www.wired.com/story/factor-promo-code/)
  - [Adidas Promo Codes &amp; Deals: 15% Off](https://www.wired.com/story/adidas-promo-code/)
- - [Dell Coupon Codes: 10% off March 2025](https://www.wired.com/story/dell-coupon-code/)
- - [NYC-based Odeko, which sells smart operations software to independent coffee shops and cafes, raised a $126M Series E, including $96M in equity and $30M in debt &lpar;Richard Collings/Axios&rpar;](http://www.techmeme.com/250305/p5#a250305p5)<!-- TECH:END -->
+ - [Dell Coupon Codes: 10% off March 2025](https://www.wired.com/story/dell-coupon-code/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

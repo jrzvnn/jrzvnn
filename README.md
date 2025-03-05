@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Nintendo wins piracy lawsuit against file-sharing site](https://www.theverge.com/news/624618/nintendo-piracy-lawsuit-1fichier)
- - [YouTube brings its more affordable ‘Premium Lite’ subscription to the US](https://www.theverge.com/news/624598/youtube-premium-lite-announced-us)
- - [Source: OpenAI executives have told some investors about plans for a $2,000/month agent, a $10,000/month agent for coding, and a $20,000/month PhD-level agent &lpar;The Information&rpar;](http://www.techmeme.com/250305/p29#a250305p29)
- - [YouTube says YouTube Music and YouTube Premium now have 125M+ subscribers globally, including trials, after passing 100M subscribers in February 2024 &lpar;Murray Stassen/Music Business Worldwide&rpar;](http://www.techmeme.com/250305/p28#a250305p28)
- - [YouTube debuts a $7.99/month Premium Lite tier in the US, offering ad-free videos like gaming and news, and plans to launch in Thailand, Germany, and Australia &lpar;Jack Greenberg/YouTube Official Blog&rpar;](http://www.techmeme.com/250305/p27#a250305p27)<!-- TECH:END -->
+ - [Human Security: 1M+ Android TV streaming boxes, tablets, projectors, and car infotainment systems are infected with malware that conscripts them into a botnet &lpar;Wired&rpar;](http://www.techmeme.com/250305/p31#a250305p31)
+ - [Nintendo wins a final victory over French file sharing company Dstorage, which means European file sharing services must now remove illegal copies of its games &lpar;Tom Phillips/Eurogamer.net&rpar;](http://www.techmeme.com/250305/p30#a250305p30)
+ - [Apple&#39;s extortionate upgrade prices can&#39;t stop the MacBook Air being a bargain](https://appleinsider.com/articles/25/03/05/apples-extortionate-upgrade-prices-cant-stop-the-macbook-air-being-a-bargain?utm_medium=rss)
+ - [MacBook Air, MacBook Pro buyer&#39;s guide: which to buy in early 2025](https://appleinsider.com/articles/25/03/05/macbook-air-macbook-pro-buyers-guide-which-to-buy-in-early-2025?utm_medium=rss)
+ - [Delta Air Lines bets on ‘blended-wing’ flight to reduce emissions](https://www.theverge.com/news/624587/delta-jetzero-blended-wing-aircraft-demonstrator-2027)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

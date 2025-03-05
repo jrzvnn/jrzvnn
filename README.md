@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Scale AI signs a US DOD prototype contract for &quot;Thunderforge&quot;, to use AI agents for planning and operations; a source says it is a multimillion-dollar deal &lpar;Hayden Field/CNBC&rpar;](http://www.techmeme.com/250305/p24#a250305p24)
- - [Mac Studio gets an update to M4 Max or M3 Ultra](https://appleinsider.com/articles/25/03/05/mac-studio-gets-an-update-to-m4-max-or-m3-ultra?utm_medium=rss)
- - [Apple unveils M3 Ultra, built from two 3nm M3 Max chips, offering Thunderbolt 5, a new UltraFusion packaging architecture, 80-core GPU, and up to 512GB memory &lpar;Andrew E. Freedman/Tom&#39;s Hardware&rpar;](http://www.techmeme.com/250305/p23#a250305p23)
+ - [Apple&#39;s M3 Ultra unlocks next-level power for AI, graphics &amp; 3D rendering](https://appleinsider.com/articles/25/03/05/apples-m3-ultra-unlocks-next-level-power-for-ai-graphics-3d-rendering?utm_medium=rss)
  - [MacBook Air update arrives with lower starting price &amp; M4 performance boost](https://appleinsider.com/articles/25/03/05/macbook-air-update-arrives-with-lower-starting-price-m4-performance-boost?utm_medium=rss)
- - [Apple updates the Mac Studio with an M4 Max for $1,999+ and an M3 Ultra for $3,999+, with up to 32 cores, including 24 performance cores, shipping from March 12 &lpar;Wes Davis/The Verge&rpar;](http://www.techmeme.com/250305/p22#a250305p22)<!-- TECH:END -->
+ - [AMD Radeon RX 9070 and 9070 XT review: 16GB of VRAM, FSR 4, and lower power draw than prior Radeon cards, but no AMD reference design and they are bulky cards &lpar;Tom Warren/The Verge&rpar;](http://www.techmeme.com/250305/p25#a250305p25)
+ - [Apple launches new Mac Studios with M4 Max and M3 Ultra chips](https://www.theverge.com/news/624193/apple-mac-studio-m4-max-m3-ultra-launch-price-specs-availability)
+ - [Scale AI signs a US DOD prototype contract for &quot;Thunderforge&quot;, to use AI agents for planning and operations; a source says it is a multimillion-dollar deal &lpar;Hayden Field/CNBC&rpar;](http://www.techmeme.com/250305/p24#a250305p24)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

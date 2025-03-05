@@ -158,10 +158,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- TECH:START -->
  - [Sesame&#39;s AI speech model demo has many users expressing astonishment at its realism, with some testers reporting emotional connections to the voice assistant &lpar;Benj Edwards/Ars Technica&rpar;](http://www.techmeme.com/250305/p11#a250305p11)
+ - [Best Home Security Systems of 2025](https://www.cnet.com/home/security/best-home-security-system/#ftag=CAD590a51e)
  - [Inside the Tether vs. Circle rivalry; sources: Circle executives regularly met US Treasury officials and others in 2024 to flag Tether&#39;s national security risks &lpar;Angus Berwick/Wall Street Journal&rpar;](http://www.techmeme.com/250305/p10#a250305p10)
  - [Cybereason CEO Eric Gan resigns after a months-long feud with investors SoftBank and Steven Mnuchin; a source says the planned Trustwave merger is also canceled &lpar;Bloomberg&rpar;](http://www.techmeme.com/250305/p9#a250305p9)
- - [The demand for software engineers in Japan&#39;s car industry, facing a shortage of 33,000 software engineers in 2025, intensifies amid the EV and self-driving push &lpar;Nikkei Asia&rpar;](http://www.techmeme.com/250305/p8#a250305p8)
- - [An analysis of over 8K messages by the Digital Witness Lab at Princeton finds messages advertising guns across 234 publicly accessible WhatsApp groups in India &lpar;Yashraj Sharma/Rest of World&rpar;](http://www.techmeme.com/250305/p7#a250305p7)<!-- TECH:END -->
+ - [The demand for software engineers in Japan&#39;s car industry, facing a shortage of 33,000 software engineers in 2025, intensifies amid the EV and self-driving push &lpar;Nikkei Asia&rpar;](http://www.techmeme.com/250305/p8#a250305p8)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Save $50 on Apple&#39;s new M3 iPad Air with Best Buy Total](https://appleinsider.com/articles/25/03/04/save-50-on-apples-new-m3-ipad-air-with-best-buy-total?utm_medium=rss)
- - [CrowdStrike reports Q4 revenue up 25% YoY to $1.06B, vs. $1.03B est., a $92.3M net loss, and issues disappointing earnings guidance; CRWD drops 8%+ after hours &lpar;Samantha Subin/CNBC&rpar;](http://www.techmeme.com/250304/p29#a250304p29)
- - [Sources: Google representatives asked DOJ officials in a meeting last week to back away from a push to break up the company, citing national security concerns &lpar;Bloomberg&rpar;](http://www.techmeme.com/250304/p28#a250304p28)
- - [The best smartwatches for Android](https://www.theverge.com/23449363/best-android-smartwatches-wear-os)
- - [Sources: Ilya Sutskever told associates that he isn&#39;t developing advanced AI using the methods used at OpenAI and has identified a &quot;different mountain to climb&quot; &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/250304/p27#a250304p27)<!-- TECH:END -->
+ - [A US judge denies Elon Musk&#39;s request for an injunction that would pause OpenAI&#39;s restructuring to a for-profit, saying he failed to meet the burden of proof &lpar;Malathi Nayak/Bloomberg&rpar;](http://www.techmeme.com/250304/p34#a250304p34)
+ - [Source: ByteDance plans to buy back US employee stock at ~$189.90 per share, up from ~$181 in a similar proposal in 2024, putting ByteDance&#39;s valuation at $312B &lpar;Bloomberg&rpar;](http://www.techmeme.com/250304/p33#a250304p33)
+ - [The Los Angeles Times removes its AI-powered &quot;Insights&quot; feature from a column after the tool tried to defend the Ku Klux Klan, just a day after its debut &lpar;Corbin Bolies/The Daily Beast&rpar;](http://www.techmeme.com/250304/p32#a250304p32)
+ - [Nimble Valet 3-in-1 Wireless Charger review: One charger for all your daily gear](https://appleinsider.com/articles/25/03/05/nimble-valet-3-in-1-wireless-charger-review-one-charger-for-all-your-daily-gear?utm_medium=rss)
+ - [Source: CoreWeave is in talks to acquire Weights &amp; Biases, whose tools help developers build AI apps, for ~$1.7B; Weights &amp; Biases was valued at $1.25B in 2023 &lpar;The Information&rpar;](http://www.techmeme.com/250304/p31#a250304p31)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

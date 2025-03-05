@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Reposting against propaganda #3](http://9gag.com/gag/avy13R5)
- - 😝 [A young girl files lawsuit against public school system in Connecticut for awarding her an honors diploma despite her inability to read or write. &lpar;Details in comments&rpar;](http://9gag.com/gag/aLne6Mz)
- - 💣 [Welcome to Europe](http://9gag.com/gag/azxd6Zj)
- - 😝 [What the f**k](http://9gag.com/gag/ayN3OWV)
- - 👉 [When people ask why you&#39;re always quiet, what&#39;s going on in your head?](http://9gag.com/gag/a876B7V)<!-- MEMES:END -->
+ - 😝 [A bunch of hillbillies from Texas landed a capsule on the moon the other day.](http://9gag.com/gag/aryAvQB)
+ - 😝 [Yet again!](http://9gag.com/gag/ayN3OjM)
+ - 💣 [Truly majestic!](http://9gag.com/gag/a7oevqe)
+ - 😝 [Someone&#39;s gonna have a very good time in bed tonight....](http://9gag.com/gag/aGynWMw)
+ - 👉 [A young girl files lawsuit against public school system in Connecticut for awarding her an honors diploma despite her inability to read or write. &lpar;Details in comments&rpar;](http://9gag.com/gag/aLne6Mz)<!-- MEMES:END -->
 
 ---
 

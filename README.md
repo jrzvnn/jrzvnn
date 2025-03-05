@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Cancer recovery log. Amazing!](http://9gag.com/gag/a6Z9wD8)
- - 😝 [Wonderful culture](http://9gag.com/gag/aQzQ44q)
- - 💣 [Europe right now](http://9gag.com/gag/apR3ezB)
  - 😝 [Good boy helping during epilepsy](http://9gag.com/gag/aoyVZeA)
- - 👉 [Good service 5/7, definitely would do it again](http://9gag.com/gag/aByLRdN)<!-- MEMES:END -->
+ - 😝 [I love my white country](http://9gag.com/gag/aqy89Ov)
+ - 💣 [Truly majestic!](http://9gag.com/gag/a7oevqe)
+ - 😝 [Man Down](http://9gag.com/gag/aZZwxGn)
+ - 👉 [Neat](http://9gag.com/gag/a9yvjpZ)<!-- MEMES:END -->
 
 ---
 

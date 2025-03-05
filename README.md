@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Chatbots, Like the Rest of Us, Just Want to Be Loved](https://www.wired.com/story/chatbots-like-the-rest-of-us-just-want-to-be-loved/)
+ - [Google is adding more AI Overviews and a new ‘AI Mode’ to Search](https://www.theverge.com/news/624064/google-ai-mode-overviews-search)
  - [Apple says not every chip generation will get an Ultra tier, after announcing the M3 Ultra, suggesting it will skip the M4 Ultra &lpar;Andrew Cunningham/Ars Technica&rpar;](http://www.techmeme.com/250305/p32#a250305p32)
  - [Human Security: 1M+ Android TV streaming boxes, tablets, projectors, and car infotainment systems are infected with malware that conscripts them into a botnet &lpar;Wired&rpar;](http://www.techmeme.com/250305/p31#a250305p31)
- - [Nintendo wins a final victory over French file sharing company Dstorage, which means European file sharing services must now remove illegal copies of its games &lpar;Tom Phillips/Eurogamer.net&rpar;](http://www.techmeme.com/250305/p30#a250305p30)
- - [Apple&#39;s extortionate upgrade prices can&#39;t stop the MacBook Air being a bargain](https://appleinsider.com/articles/25/03/05/apples-extortionate-upgrade-prices-cant-stop-the-macbook-air-being-a-bargain?utm_medium=rss)
- - [MacBook Air, MacBook Pro buyer&#39;s guide: which to buy in early 2025](https://appleinsider.com/articles/25/03/05/macbook-air-macbook-pro-buyers-guide-which-to-buy-in-early-2025?utm_medium=rss)<!-- TECH:END -->
+ - [Nintendo wins a final victory over French file sharing company Dstorage, which means European file sharing services must now remove illegal copies of its games &lpar;Tom Phillips/Eurogamer.net&rpar;](http://www.techmeme.com/250305/p30#a250305p30)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

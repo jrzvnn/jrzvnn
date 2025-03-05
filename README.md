@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Philips GamePix 900 Review: Good Looks, Insane Value](https://www.wired.com/review/philips-gamepix-900/)
  - [MWC 2025: all the phones, gadgets, and commentary from Barcelona](https://www.theverge.com/news/616633/mwc-2025-news-products-announcements)
+ - [This little AI phone has some wild ideas](https://www.theverge.com/tech/624508/newnal-ai-os-phone-blockchain-mwc-2025)
+ - [Philips GamePix 900 Review: Good Looks, Insane Value](https://www.wired.com/review/philips-gamepix-900/)
  - [Apple TV+ show is bought by another streamer for the first time](https://appleinsider.com/articles/25/03/05/apple-tv-show-is-bought-by-another-streamer-for-the-first-time?utm_medium=rss)
- - [5 Best GoPro Hero Cameras &lpar;2025&rpar;: Compact, Budget, Accessories](https://www.wired.com/gallery/best-gopro-hero-camera/)
- - [Asus Zenbook A14 Review: The Best Copilot Plus PC So Far](https://www.cnet.com/tech/computing/asus-zenbook-a14-review-the-best-copilot-plus-pc-so-far/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [5 Best GoPro Hero Cameras &lpar;2025&rpar;: Compact, Budget, Accessories](https://www.wired.com/gallery/best-gopro-hero-camera/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

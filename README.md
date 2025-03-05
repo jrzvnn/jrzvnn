@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Inside the Tether vs. Circle rivalry; sources: Circle executives regularly met US Treasury officials and others in 2024 to flag Tether&#39;s national security risks &lpar;Angus Berwick/Wall Street Journal&rpar;](http://www.techmeme.com/250305/p10#a250305p10)
  - [Cybereason CEO Eric Gan resigns after a months-long feud with investors SoftBank and Steven Mnuchin; a source says the planned Trustwave merger is also canceled &lpar;Bloomberg&rpar;](http://www.techmeme.com/250305/p9#a250305p9)
  - [The demand for software engineers in Japan&#39;s car industry, facing a shortage of 33,000 software engineers in 2025, intensifies amid the EV and self-driving push &lpar;Nikkei Asia&rpar;](http://www.techmeme.com/250305/p8#a250305p8)
  - [An analysis of over 8K messages by the Digital Witness Lab at Princeton finds messages advertising guns across 234 publicly accessible WhatsApp groups in India &lpar;Yashraj Sharma/Rest of World&rpar;](http://www.techmeme.com/250305/p7#a250305p7)
- - [London-based Quantexa, which develops anti-money laundering tech, raised a $175M Series F at a $2.6B valuation as it expands its AI data curation business &lpar;Ingrid Lunden/TechCrunch&rpar;](http://www.techmeme.com/250305/p6#a250305p6)
- - [Factor Promo Code: Up to $130 Off Meal Prep](https://www.wired.com/story/factor-promo-code/)<!-- TECH:END -->
+ - [London-based Quantexa, which develops anti-money laundering tech, raised a $175M Series F at a $2.6B valuation as it expands its AI data curation business &lpar;Ingrid Lunden/TechCrunch&rpar;](http://www.techmeme.com/250305/p6#a250305p6)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

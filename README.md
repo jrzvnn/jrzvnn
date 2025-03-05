@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Trump’s first 100 days: all the news affecting the tech industry](https://www.theverge.com/24348851/donald-trump-presidency-tech-science-news)
  - [Taiwan&#39;s government says it will assist with TSMC&#39;s $100B investment in the US, but also do &quot;gatekeeping&quot; to keep the most advanced tech in Taiwan &lpar;Financial Times&rpar;](http://www.techmeme.com/250304/p37#a250304p37)
+ - [Best Internet Providers in McKinney, Texas](https://www.cnet.com/home/internet/best-internet-providers-in-mckinney-tx/#ftag=CAD590a51e)
  - [Arm agrees to provide chip designs and tech to Malaysia for $250M over the next ten years, as the government targets semiconductor exports of $270B by 2030 &lpar;Anisah Shukry/Bloomberg&rpar;](http://www.techmeme.com/250304/p36#a250304p36)
- - [&#39;Daredevil: Born Again&#39; Review: Thrilling, Bone Crushing and Brutally Satisfying](https://www.cnet.com/tech/services-and-software/daredevil-born-again-review-thrilling-bone-crushing-and-brutally-satisfying/#ftag=CAD590a51e)
- - [Daredevil: Born Again is a rough reboot with a promising future](https://www.theverge.com/tv-reviews/623200/daredevil-born-again-review)
- - [CES 2025: all the news, gadgets, and surprises](https://www.theverge.com/2025/1/4/24307731/ces-2025-tvs-gaming-smart-home-wearables-news)<!-- TECH:END -->
+ - [&#39;Daredevil: Born Again&#39; Review: Thrilling, Bone Crushing and Brutally Satisfying](https://www.cnet.com/tech/services-and-software/daredevil-born-again-review-thrilling-bone-crushing-and-brutally-satisfying/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

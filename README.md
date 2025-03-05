@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple&#39;s M3 Ultra unlocks next-level power for AI, graphics &amp; 3D rendering](https://appleinsider.com/articles/25/03/05/apples-m3-ultra-unlocks-next-level-power-for-ai-graphics-3d-rendering?utm_medium=rss)
- - [MacBook Air update arrives with lower starting price &amp; M4 performance boost](https://appleinsider.com/articles/25/03/05/macbook-air-update-arrives-with-lower-starting-price-m4-performance-boost?utm_medium=rss)
- - [AMD Radeon RX 9070 and 9070 XT review: 16GB of VRAM, FSR 4, and lower power draw than prior Radeon cards, but no AMD reference design and they are bulky cards &lpar;Tom Warren/The Verge&rpar;](http://www.techmeme.com/250305/p25#a250305p25)
- - [Apple launches new Mac Studios with M4 Max and M3 Ultra chips](https://www.theverge.com/news/624193/apple-mac-studio-m4-max-m3-ultra-launch-price-specs-availability)
- - [Scale AI signs a US DOD prototype contract for &quot;Thunderforge&quot;, to use AI agents for planning and operations; a source says it is a multimillion-dollar deal &lpar;Hayden Field/CNBC&rpar;](http://www.techmeme.com/250305/p24#a250305p24)<!-- TECH:END -->
+ - [New M4 MacBook Air fixes the line&#39;s biggest problem](https://appleinsider.com/articles/25/03/05/new-m4-macbook-air-fixes-the-lines-biggest-problem?utm_medium=rss)
+ - [Carl Friedrik Carry-On Review: Well-Made Modest Luxury](https://www.wired.com/review/carl-friedrik-the-carry-on/)
+ - [Microsoft says China-linked hacking group Silk Typhoon was targeting remote management tools and cloud apps in the US and abroad in late 2024 &lpar;Ryan Gallagher/Bloomberg&rpar;](http://www.techmeme.com/250305/p26#a250305p26)
+ - [Why I love the Logitech MX Vertical wireless mouse](https://www.theverge.com/favorites/623848/my-favorite-things-logitechs-mx-vertical-wireless-mouse)
+ - [Apple&#39;s M3 Ultra unlocks next-level power for AI, graphics &amp; 3D rendering](https://appleinsider.com/articles/25/03/05/apples-m3-ultra-unlocks-next-level-power-for-ai-graphics-3d-rendering?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

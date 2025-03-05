@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Must be geh like OP](http://9gag.com/gag/a9y699W)
+ - 😝 [A friend asked me to install an SSD on his PC along with fresh Windows, but to make sure to install Win7 solitaire, because his dad likes to play it. Stats are insane.](http://9gag.com/gag/azxd6AB)
+ - 😝 [A true gentleman is hard to find.](http://9gag.com/gag/avy1bZE)
+ - 💣 [Europe right now](http://9gag.com/gag/apR3ezB)
  - 😝 [Snow white after waking up](http://9gag.com/gag/a2v8EMZ)
- - 💣 [Someone&#39;s gonna have a very good time in bed tonight....](http://9gag.com/gag/aGynWMw)
- - 😝 [Ocean Two, but GET CAUGHT! Best Acting, Top Script!](http://9gag.com/gag/aVvEQOw)
- - 👉 [Europe right now](http://9gag.com/gag/apR3ezB)<!-- MEMES:END -->
+ - 👉 [Someone&#39;s gonna have a very good time in bed tonight....](http://9gag.com/gag/aGynWMw)<!-- MEMES:END -->
 
 ---
 

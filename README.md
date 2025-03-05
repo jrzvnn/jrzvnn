@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [SpecterOps, a cybersecurity company focused on detecting and addressing identity-based attack paths, raised a $75M Series B led by Insight Partners &lpar;Duncan Riley/SiliconANGLE&rpar;](http://www.techmeme.com/250305/p44#a250305p44)
+ - [Reddit will warn users who repeatedly upvote banned content](https://www.theverge.com/news/625075/reddit-will-warn-users-who-repeatedly-upvote-banned-content)
  - [This Google change is breaking some digital photo frames](https://www.theverge.com/news/623306/google-photos-digital-photo-frame-auto-sync-going-away)
  - [The Trump administration wants to review all prospective citizens’ social media accounts](https://www.theverge.com/policy/624945/trump-uscis-social-media-review-policy)
- - [Intuitive Machines Aims for Moon Landing on Thursday: How to Watch](https://www.cnet.com/science/space/intuitive-machines-aims-for-moon-landing-on-thursday-how-to-watch/#ftag=CAD590a51e)
- - [TCL&#39;s 60 Phone Series Expands With 108-Megapixel Cameras, Bigger Batteries](https://www.cnet.com/tech/mobile/tcls-60-phone-series-expands-with-108-megapixel-cameras-bigger-batteries/#ftag=CAD590a51e)
- - [Apple introduces AI-generated summaries of app reviews in the App Store, first available in the US in English, with the latest iOS 18.4 and iPadOS 18.4 betas &lpar;Mahmoud Itani/Macworld&rpar;](http://www.techmeme.com/250305/p43#a250305p43)<!-- TECH:END -->
+ - [Intuitive Machines Aims for Moon Landing on Thursday: How to Watch](https://www.cnet.com/science/space/intuitive-machines-aims-for-moon-landing-on-thursday-how-to-watch/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

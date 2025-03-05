@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [For the one guy who asked, cause I&#39;m too dumb to put it in a comment](http://9gag.com/gag/a9yvjp6)
- - 😝 [Diversity](http://9gag.com/gag/aRB4Y85)
- - 💣 [Yet again!](http://9gag.com/gag/ayN3OjM)
- - 😝 [Protect this man](http://9gag.com/gag/aGynPoZ)
- - 👉 [I love my white country](http://9gag.com/gag/aqy89Ov)<!-- MEMES:END -->
+ - 😝 [Reposting against propaganda #3](http://9gag.com/gag/avy13R5)
+ - 😝 [A young girl files lawsuit against public school system in Connecticut for awarding her an honors diploma despite her inability to read or write. &lpar;Details in comments&rpar;](http://9gag.com/gag/aLne6Mz)
+ - 💣 [Welcome to Europe](http://9gag.com/gag/azxd6Zj)
+ - 😝 [What the f**k](http://9gag.com/gag/ayN3OWV)
+ - 👉 [When people ask why you&#39;re always quiet, what&#39;s going on in your head?](http://9gag.com/gag/a876B7V)<!-- MEMES:END -->
 
 ---
 

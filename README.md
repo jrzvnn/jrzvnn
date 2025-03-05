@@ -168,8 +168,8 @@ R                        1 repo              ░░░░░░░░░░░�
 <!-- MEMES:START -->
  - 😝 [Good boy helping during epilepsy](http://9gag.com/gag/aoyVZeA)
  - 😝 [I love my white country](http://9gag.com/gag/aqy89Ov)
- - 💣 [Truly majestic!](http://9gag.com/gag/a7oevqe)
- - 😝 [Man Down](http://9gag.com/gag/aZZwxGn)
+ - 💣 [What\u2019s your favorite Pok\u00e9mon?](http://9gag.com/gag/a1mDAb2)
+ - 😝 [Learn to Milk a Horse](http://9gag.com/gag/a6Z9mOq)
  - 👉 [Neat](http://9gag.com/gag/a9yvjpZ)<!-- MEMES:END -->
 
 ---

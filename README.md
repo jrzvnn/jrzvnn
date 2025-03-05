@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [A friend asked me to install an SSD on his PC along with fresh Windows, but to make sure to install Win7 solitaire, because his dad likes to play it. Stats are insane.](http://9gag.com/gag/azxd6AB)
- - 😝 [A true gentleman is hard to find.](http://9gag.com/gag/avy1bZE)
- - 💣 [Europe right now](http://9gag.com/gag/apR3ezB)
+ - 😝 [The tail wags are precious](http://9gag.com/gag/aD2nReK)
  - 😝 [Snow white after waking up](http://9gag.com/gag/a2v8EMZ)
- - 👉 [Someone&#39;s gonna have a very good time in bed tonight....](http://9gag.com/gag/aGynWMw)<!-- MEMES:END -->
+ - 💣 [-Guy breaks into a house -Hears deck of cards shuffle -dead](http://9gag.com/gag/agmO3Pv)
+ - 😝 [Ocean Two, but GET CAUGHT! Best Acting, Top Script!](http://9gag.com/gag/aVvEQOw)
+ - 👉 [He was ready](http://9gag.com/gag/aKG94A6)<!-- MEMES:END -->
 
 ---
 

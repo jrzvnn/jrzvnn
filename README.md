@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Reinforcement learning pioneers Andrew Barto and Richard Sutton win the 2024 Turing Award; their work played a vital role in the rise of AI, including ChatGPT &lpar;Cade Metz/New York Times&rpar;](http://www.techmeme.com/250305/p12#a250305p12)
+ - [Want to Go Car-Free? Test the Waters by Renting a Cargo Bike](https://www.wired.com/story/wombi-cargo-bike-rentals/)
  - [Volvo’s ES90 is a high-riding electric sedan with 434 miles of range](https://www.theverge.com/news/623945/volvo-es90-ev-sedan-range-battery-power-specs-photos)
  - [Pioneers of Reinforcement Learning Win the Turing Award](https://www.wired.com/story/pioneers-of-reward-based-machine-learning-win-turing-award/)
- - [Sesame&#39;s AI speech model demo has many users expressing astonishment at its realism, with some testers reporting emotional connections to the voice assistant &lpar;Benj Edwards/Ars Technica&rpar;](http://www.techmeme.com/250305/p11#a250305p11)
- - [Best Home Security Systems of 2025](https://www.cnet.com/home/security/best-home-security-system/#ftag=CAD590a51e)
- - [Inside the Tether vs. Circle rivalry; sources: Circle executives regularly met US Treasury officials and others in 2024 to flag Tether&#39;s national security risks &lpar;Angus Berwick/Wall Street Journal&rpar;](http://www.techmeme.com/250305/p10#a250305p10)<!-- TECH:END -->
+ - [Sesame&#39;s AI speech model demo has many users expressing astonishment at its realism, with some testers reporting emotional connections to the voice assistant &lpar;Benj Edwards/Ars Technica&rpar;](http://www.techmeme.com/250305/p11#a250305p11)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

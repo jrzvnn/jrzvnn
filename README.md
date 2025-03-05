@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [How Pokemon will be used if they are real](http://9gag.com/gag/axyvdV1)
- - 😝 [Truly majestic!](http://9gag.com/gag/a7oevqe)
- - 💣 [Snow white after waking up](http://9gag.com/gag/a2v8EMZ)
- - 😝 [Fill or kill](http://9gag.com/gag/awy3R5Q)
- - 👉 [Ken McElroy, known as the `town bully,` was murdered in his truck in Skidmore, Missouri, on July 10, 1981, in broad daylight. Despite the presence of over 40 witnesses, no one claimed to have seen the murder occur, and to this day, no one has been charged.](http://9gag.com/gag/aD2nRgO)<!-- MEMES:END -->
+ - 😝 [Maybe he should stare at mirror](http://9gag.com/gag/a34AvE5)
+ - 😝 [I love my white country](http://9gag.com/gag/aqy89Ov)
+ - 💣 [How Pokemon will be used if they are real](http://9gag.com/gag/axyvdV1)
+ - 😝 [Shrek might become clich\u00e9](http://9gag.com/gag/aMVmbj6)
+ - 👉 [Snow white after waking up](http://9gag.com/gag/a2v8EMZ)<!-- MEMES:END -->
 
 ---
 

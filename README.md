@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Anthropic quietly removes Biden-era AI policy commitments from its site, including pledges to research AI discrimination and share info on managing AI risks &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/250305/p35#a250305p35)
  - [Trump’s first 100 days: all the news affecting the tech industry](https://www.theverge.com/24348851/donald-trump-presidency-tech-science-news)
+ - [Car prices expected to increase by as much as $12,000 thanks to Trump’s tariffs](https://www.theverge.com/news/624812/trump-tariff-car-price-increase-production-cut)
+ - [Anthropic quietly removes Biden-era AI policy commitments from its site, including pledges to research AI discrimination and share info on managing AI risks &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/250305/p35#a250305p35)
  - [Kia&amp;#8217;s EV9 will soon be able to power your home](https://www.theverge.com/news/624811/kia-ev9-bi-directional-wallbox-home-power-backup-preorder)
- - [All the news about EV charging in the US](https://www.theverge.com/23758095/electric-vehicle-charging-news-nacs-ccs-tesla-supercharger-us-infrastructure)
- - [Here’s where you can preorder the new entry-level iPad and M3 iPad Air](https://www.theverge.com/good-deals/623982/apple-m3-ipad-air-11th-gen-tablet-preorder-how-to-buy-price-release-date)<!-- TECH:END -->
+ - [All the news about EV charging in the US](https://www.theverge.com/23758095/electric-vehicle-charging-news-nacs-ccs-tesla-supercharger-us-infrastructure)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

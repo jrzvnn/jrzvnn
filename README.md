@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Anthropic quietly removes Biden-era AI policy commitments from its site, including pledges to research AI discrimination and share info on managing AI risks &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/250305/p35#a250305p35)
+ - [Trump’s first 100 days: all the news affecting the tech industry](https://www.theverge.com/24348851/donald-trump-presidency-tech-science-news)
+ - [Kia&amp;#8217;s EV9 will soon be able to power your home](https://www.theverge.com/news/624811/kia-ev9-bi-directional-wallbox-home-power-backup-preorder)
  - [All the news about EV charging in the US](https://www.theverge.com/23758095/electric-vehicle-charging-news-nacs-ccs-tesla-supercharger-us-infrastructure)
- - [Here’s where you can preorder the new entry-level iPad and M3 iPad Air](https://www.theverge.com/good-deals/623982/apple-m3-ipad-air-11th-gen-tablet-preorder-how-to-buy-price-release-date)
- - [The Weird and Wacky Gadgets We Saw at MWC 2025](https://www.wired.com/story/weird-and-wacky-gadgets-at-mwc-2025/)
- - [The DOJ charges 12 Chinese nationals, including PRC staff, alleging an espionage campaign hit US state and federal agencies, like the Treasury, and other orgs &lpar;Andy Greenberg/Wired&rpar;](http://www.techmeme.com/250305/p34#a250305p34)
- - [Google announces an experimental AI Mode in Search that lets users ask complex, multi-part questions, rolling out to Google One AI Premium subscribers &lpar;Aisha Malik/TechCrunch&rpar;](http://www.techmeme.com/250305/p33#a250305p33)<!-- TECH:END -->
+ - [Here’s where you can preorder the new entry-level iPad and M3 iPad Air](https://www.theverge.com/good-deals/623982/apple-m3-ipad-air-11th-gen-tablet-preorder-how-to-buy-price-release-date)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

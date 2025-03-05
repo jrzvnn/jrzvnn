@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Adidas Promo Codes &amp; Deals: 15% Off](https://www.wired.com/story/adidas-promo-code/)
+ - [Dell Coupon Codes: 10% off March 2025](https://www.wired.com/story/dell-coupon-code/)
  - [NYC-based Odeko, which sells smart operations software to independent coffee shops and cafes, raised a $126M Series E, including $96M in equity and $30M in debt &lpar;Richard Collings/Axios&rpar;](http://www.techmeme.com/250305/p5#a250305p5)
  - [Sources: Flock Safety, a leading maker of license plate-reading cameras, is set to raise about $250M led by Andreessen Horowitz at a ~$7.5B valuation &lpar;Katie Roof/Bloomberg&rpar;](http://www.techmeme.com/250305/p4#a250305p4)
- - [Yuga Labs, creator of BAYC NFTs, says the US SEC closed its investigation into the company without taking enforcement action, adding &quot;NFTs are not securities&quot; &lpar;Sebastian Sinclair/Decrypt&rpar;](http://www.techmeme.com/250305/p3#a250305p3)
- - [A look at the LA Times&#39; AI &quot;Insights&quot;: much of the sourcing cited for counterpoints wouldn&#39;t pass scrutiny in a newsroom, and political labels can be confusing &lpar;Laura Hazard Owen/Nieman Lab&rpar;](http://www.techmeme.com/250305/p2#a250305p2)
- - [Cadillac&amp;#8217;s new electric Escalade IQL will be the longest SUV in production](https://www.theverge.com/news/624127/cadillac-escalade-iql-electric-longest-suv-more-cargo-storage)<!-- TECH:END -->
+ - [Yuga Labs, creator of BAYC NFTs, says the US SEC closed its investigation into the company without taking enforcement action, adding &quot;NFTs are not securities&quot; &lpar;Sebastian Sinclair/Decrypt&rpar;](http://www.techmeme.com/250305/p3#a250305p3)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

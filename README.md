@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple introduces AI-generated summaries of app reviews in the App Store, first available in the US in English, for the latest iOS and iPadOS 18.4 betas &lpar;Mahmoud Itani/Macworld&rpar;](http://www.techmeme.com/250305/p43#a250305p43)
- - [Here are the best Kindle deals right now](https://www.theverge.com/21539047/best-amazon-kindle-deals)
- - [Senate votes to strip the CFPB of its power to regulate X](https://www.theverge.com/news/624904/cfpb-digital-payments-musk-x-conflict-doge)
- - [Trump’s first 100 days: all the news affecting the tech industry](https://www.theverge.com/24348851/donald-trump-presidency-tech-science-news)
- - [AI-generated review summaries are coming to Apple’s app store](https://www.theverge.com/news/624891/ai-generated-review-summaries-coming-to-apples-app-store)<!-- TECH:END -->
+ - [The Trump administration wants to review all prospective citizens’ social media accounts](https://www.theverge.com/policy/624945/trump-uscis-social-media-review-policy)
+ - [Intuitive Machines Aims for Moon Landing on Thursday: How to Watch](https://www.cnet.com/science/space/intuitive-machines-aims-for-moon-landing-on-thursday-how-to-watch/#ftag=CAD590a51e)
+ - [TCL&#39;s 60 Phone Series Expands With 108-Megapixel Cameras, Bigger Batteries](https://www.cnet.com/tech/mobile/tcls-60-phone-series-expands-with-108-megapixel-cameras-bigger-batteries/#ftag=CAD590a51e)
+ - [Apple introduces AI-generated summaries of app reviews in the App Store, first available in the US in English, with the latest iOS 18.4 and iPadOS 18.4 betas &lpar;Mahmoud Itani/Macworld&rpar;](http://www.techmeme.com/250305/p43#a250305p43)
+ - [Congressional Committee Urges Americans to Replace TP-Link Routers. We Asked Experts if They&#39;re Actually Dangerous](https://www.cnet.com/home/internet/congressional-committee-urges-americans-to-replace-tp-link-routers-we-asked-experts-if-they-are-actually-dangerous/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [An analysis of more 8K+ messages by the Digital Witness Lab at Princeton finds messages advertising guns across 234 publicly accessible WhatsApp groups in India &lpar;Yashraj Sharma/Rest of World&rpar;](http://www.techmeme.com/250305/p7#a250305p7)
+ - [The demand for software engineers in Japan&#39;s car industry, facing a shortage of 33,000 software engineers in 2025, intensifies amid the EV and self-driving push &lpar;Nikkei Asia&rpar;](http://www.techmeme.com/250305/p8#a250305p8)
+ - [An analysis of over 8K messages by the Digital Witness Lab at Princeton finds messages advertising guns across 234 publicly accessible WhatsApp groups in India &lpar;Yashraj Sharma/Rest of World&rpar;](http://www.techmeme.com/250305/p7#a250305p7)
  - [London-based Quantexa, which develops anti-money laundering tech, raised a $175M Series F at a $2.6B valuation as it expands its AI data curation business &lpar;Ingrid Lunden/TechCrunch&rpar;](http://www.techmeme.com/250305/p6#a250305p6)
  - [Factor Promo Code: Up to $130 Off Meal Prep](https://www.wired.com/story/factor-promo-code/)
- - [Adidas Promo Codes &amp; Deals: 15% Off](https://www.wired.com/story/adidas-promo-code/)
- - [Dell Coupon Codes: 10% off March 2025](https://www.wired.com/story/dell-coupon-code/)<!-- TECH:END -->
+ - [Adidas Promo Codes &amp; Deals: 15% Off](https://www.wired.com/story/adidas-promo-code/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -159,9 +159,9 @@ R                        1 repo              ░░░░░░░░░░░�
 <!-- TECH:START -->
  - [Q&amp;A with ex-White House AI adviser Ben Buchanan on the Biden administration, AGI, OpenAI&#39;s Deep Research, the US labor market, China, hacks, AI labs, and more &lpar;Ezra Klein/New York Times&rpar;](http://www.techmeme.com/250305/p16#a250305p16)
  - [Sea reports Q4 revenue up 37% YoY to ~$4.95B, above est., and forecasts 2025 GMV to rise ~20% to ~$120.6B at online retail arm Shopee, above $116.6B est. &lpar;Olivia Poh/Bloomberg&rpar;](http://www.techmeme.com/250305/p15#a250305p15)
- - [Give These 12 Pesticide-Heavy Fruits and Vegetables an Extra Rinse](https://www.cnet.com/news/give-these-12-pesticide-heavy-fruits-and-vegetables-an-extra-rinse/#ftag=CAD590a51e)
  - [1 Million Third-Party Android Devices Have a Secret Backdoor for Scammers](https://www.wired.com/story/1-million-third-party-android-devices-badbox-2/)
- - [Hyundai Ioniq 9 2025 Review](https://www.wired.com/review/review-hyundai-ioniq-9/)<!-- TECH:END -->
+ - [Hyundai Ioniq 9 2025 Review](https://www.wired.com/review/review-hyundai-ioniq-9/)
+ - [Digg is coming back, thanks to its founder — and Reddit’s](https://www.theverge.com/social/624073/digg-relaunch-2025)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

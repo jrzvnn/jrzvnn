@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Yet again!](http://9gag.com/gag/ayN3OjM)
- - 😝 [For the one guy who asked, cause I&#39;m too dumb to put it in a comment](http://9gag.com/gag/a9yvjp6)
- - 💣 [Ken McElroy, known as the `town bully,` was murdered in his truck in Skidmore, Missouri, on July 10, 1981, in broad daylight. Despite the presence of over 40 witnesses, no one claimed to have seen the murder occur, and to this day, no one has been charged.](http://9gag.com/gag/aD2nRgO)
- - 😝 [Europe right now](http://9gag.com/gag/apR3ezB)
- - 👉 [Truly majestic!](http://9gag.com/gag/a7oevqe)<!-- MEMES:END -->
+ - 😝 [Must be geh like OP](http://9gag.com/gag/a9y699W)
+ - 😝 [Snow white after waking up](http://9gag.com/gag/a2v8EMZ)
+ - 💣 [Someone&#39;s gonna have a very good time in bed tonight....](http://9gag.com/gag/aGynWMw)
+ - 😝 [Ocean Two, but GET CAUGHT! Best Acting, Top Script!](http://9gag.com/gag/aVvEQOw)
+ - 👉 [Europe right now](http://9gag.com/gag/apR3ezB)<!-- MEMES:END -->
 
 ---
 

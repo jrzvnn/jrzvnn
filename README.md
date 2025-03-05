@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Google announces an experimental AI Mode in Search that lets users ask complex, multi-part questions, rolling out to Google One AI Premium subscribers &lpar;Aisha Malik/TechCrunch&rpar;](http://www.techmeme.com/250305/p33#a250305p33)
+ - [The Volkswagen ID. EVERY1 is an affordable EV for the masses](https://www.theverge.com/news/624676/vw-id-every1-ev-price-range-specs-2027)
+ - [The Plight of Migrants Is Deeply Misunderstood. Can a Video Game Help?](https://www.wired.com/story/take-us-north-video-game-karla-reyes/)
  - [Save up to $168 on every new 2025 M4 MacBook Air with these deals](https://appleinsider.com/articles/25/03/05/save-up-to-168-on-every-new-2025-m4-macbook-air-with-these-deals?utm_medium=rss)
- - [US State Department Kills Global Air Monitoring Program Researchers Say Paid for Itself](https://www.wired.com/story/air-monitoring-beijing-state-department-halted/)
- - [The Last of Us: all the news about the video game franchise turned TV series](https://www.theverge.com/24036366/the-last-of-us-news-video-game-tv-series-trailers)
- - [Amazon Prime Video is getting into the wrestling business with new AEW deal](https://www.theverge.com/news/624673/aew-prime-video-ppv-streaming-deal)
- - [Apple says not every Apple Silicon generation will get an Ultra](https://appleinsider.com/articles/25/03/05/apple-says-not-every-apple-silicon-generation-will-get-an-ultra?utm_medium=rss)<!-- TECH:END -->
+ - [US State Department Kills Global Air Monitoring Program Researchers Say Paid for Itself](https://www.wired.com/story/air-monitoring-beijing-state-department-halted/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

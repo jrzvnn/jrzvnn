@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The DOJ charges 12 Chinese nationals, including PRC staff, alleging an espionage campaign hit US state and federal agencies, like the Treasury, and other orgs &lpar;Andy Greenberg/Wired&rpar;](http://www.techmeme.com/250305/p34#a250305p34)
  - [Google announces an experimental AI Mode in Search that lets users ask complex, multi-part questions, rolling out to Google One AI Premium subscribers &lpar;Aisha Malik/TechCrunch&rpar;](http://www.techmeme.com/250305/p33#a250305p33)
  - [The Volkswagen ID. EVERY1 is an affordable EV for the masses](https://www.theverge.com/news/624676/vw-id-every1-ev-price-range-specs-2027)
  - [The Plight of Migrants Is Deeply Misunderstood. Can a Video Game Help?](https://www.wired.com/story/take-us-north-video-game-karla-reyes/)
- - [Save up to $168 on every new 2025 M4 MacBook Air with these deals](https://appleinsider.com/articles/25/03/05/save-up-to-168-on-every-new-2025-m4-macbook-air-with-these-deals?utm_medium=rss)
- - [US State Department Kills Global Air Monitoring Program Researchers Say Paid for Itself](https://www.wired.com/story/air-monitoring-beijing-state-department-halted/)<!-- TECH:END -->
+ - [Save up to $168 on every new 2025 M4 MacBook Air with these deals](https://appleinsider.com/articles/25/03/05/save-up-to-168-on-every-new-2025-m4-macbook-air-with-these-deals?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

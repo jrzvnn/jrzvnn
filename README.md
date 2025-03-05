@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Apple introduces AI-generated summaries of app reviews in the App Store, first available in the US in English, for the latest iOS and iPadOS 18.4 betas &lpar;Mahmoud Itani/Macworld&rpar;](http://www.techmeme.com/250305/p43#a250305p43)
  - [Here are the best Kindle deals right now](https://www.theverge.com/21539047/best-amazon-kindle-deals)
  - [Senate votes to strip the CFPB of its power to regulate X](https://www.theverge.com/news/624904/cfpb-digital-payments-musk-x-conflict-doge)
  - [Trump’s first 100 days: all the news affecting the tech industry](https://www.theverge.com/24348851/donald-trump-presidency-tech-science-news)
- - [AI-generated review summaries are coming to Apple’s app store](https://www.theverge.com/news/624891/ai-generated-review-summaries-coming-to-apples-app-store)
- - [Samsung Galaxy Z Flip 7 rumors point to an all-screen cover](https://www.theverge.com/news/624967/samsung-galaxy-z-flip-7-renders-all-screen-cover)<!-- TECH:END -->
+ - [AI-generated review summaries are coming to Apple’s app store](https://www.theverge.com/news/624891/ai-generated-review-summaries-coming-to-apples-app-store)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

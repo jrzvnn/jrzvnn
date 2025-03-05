@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [This sums up the trust I have for friends and you degenerates.](http://9gag.com/gag/a34AvAQ)
  - 😝 [Truly majestic!](http://9gag.com/gag/a7oevqe)
- - 💣 [Ken McElroy, known as the `town bully,` was murdered in his truck in Skidmore, Missouri, on July 10, 1981, in broad daylight. Despite the presence of over 40 witnesses, no one claimed to have seen the murder occur, and to this day, no one has been charged.](http://9gag.com/gag/aD2nRgO)
- - 😝 [Fill or kill](http://9gag.com/gag/awy3R5Q)
- - 👉 [Ocean Two, but GET CAUGHT! Best Acting, Top Script!](http://9gag.com/gag/aVvEQOw)<!-- MEMES:END -->
+ - 😝 [Ken McElroy, known as the `town bully,` was murdered in his truck in Skidmore, Missouri, on July 10, 1981, in broad daylight. Despite the presence of over 40 witnesses, no one claimed to have seen the murder occur, and to this day, no one has been charged.](http://9gag.com/gag/aD2nRgO)
+ - 💣 [How Pokemon will be used if they are real](http://9gag.com/gag/axyvdV1)
+ - 😝 [You can see the steam coming out of her ears](http://9gag.com/gag/azxPb0p)
+ - 👉 [Snow white after waking up](http://9gag.com/gag/a2v8EMZ)<!-- MEMES:END -->
 
 ---
 

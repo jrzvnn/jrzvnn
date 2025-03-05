@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Fill or kill](http://9gag.com/gag/awy3R5Q)
+ - 😝 [Welding](http://9gag.com/gag/a0eV89Z)
+ - 😝 [Double wham](http://9gag.com/gag/a5Q6mVq)
+ - 💣 [Must be geh like OP](http://9gag.com/gag/a9y699W)
  - 😝 [Ken McElroy, known as the `town bully,` was murdered in his truck in Skidmore, Missouri, on July 10, 1981, in broad daylight. Despite the presence of over 40 witnesses, no one claimed to have seen the murder occur, and to this day, no one has been charged.](http://9gag.com/gag/aD2nRgO)
- - 💣 [Europe right now](http://9gag.com/gag/apR3ezB)
- - 😝 [Protect this man](http://9gag.com/gag/aGynPoZ)
- - 👉 [Truly majestic!](http://9gag.com/gag/a7oevqe)<!-- MEMES:END -->
+ - 👉 [-Guy breaks into a house -Hears deck of cards shuffle -dead](http://9gag.com/gag/agmO3Pv)<!-- MEMES:END -->
 
 ---
 

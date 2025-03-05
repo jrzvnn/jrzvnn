@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Marvell reports Q4 revenue up 27% YoY to $1.82B, vs. $1.8B est., and forecasts Q1 revenue of ~$1.88B, below the highest estimates; MRVL drops 13%+ after hours &lpar;Ian King/Bloomberg&rpar;](http://www.techmeme.com/250305/p41#a250305p41)
  - [Trump’s first 100 days: all the news affecting the tech industry](https://www.theverge.com/24348851/donald-trump-presidency-tech-science-news)
  - [Tweetbot’s developers are making a Bluesky client](https://www.theverge.com/news/624926/tweetbots-developers-are-making-a-bluesky-client)
  - [The hunt for the next Twitter: all the news about alternative social media platforms](https://www.theverge.com/23686584/twitter-alternative-social-media-platforms-mastodon-bluesky-activitypub-protocol)
- - [Avride partners with Hyundai to jointly develop fully driverless cars for autonomous ride-hailing and aims to deploy 100 driverless Ioniq 5 SUVs this year &lpar;Andrew J. Hawkins/The Verge&rpar;](http://www.techmeme.com/250305/p40#a250305p40)
- - [Sources: Italy is having growing doubts about closing a &amp;euro;1.5B deal with Starlink in light of the US pullback from commitments to European security &lpar;Bloomberg&rpar;](http://www.techmeme.com/250305/p39#a250305p39)<!-- TECH:END -->
+ - [Avride partners with Hyundai to jointly develop fully driverless cars for autonomous ride-hailing and aims to deploy 100 driverless Ioniq 5 SUVs this year &lpar;Andrew J. Hawkins/The Verge&rpar;](http://www.techmeme.com/250305/p40#a250305p40)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

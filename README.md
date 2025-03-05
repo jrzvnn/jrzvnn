@@ -161,7 +161,7 @@ R                        1 repo              ░░░░░░░░░░░�
  - [Coinbase is reviving ambitions to introduce security tokens, digital assets that represent venture investments, amid a relaxed regulatory environment &lpar;Jason Shubnell/The Block&rpar;](http://www.techmeme.com/250305/p36#a250305p36)
  - [US tariffs: how Trump’s tax is hitting Big Tech and beyond](https://www.theverge.com/604742/trump-tariffs-canada-mexico-china-updates)
  - [Big Tech is now slightly less silent on Trump’s tariffs](https://www.theverge.com/news/624849/big-tech-slightly-less-silent-trump-tariffs)
- - [MWC 2025: all the phones, gadgets, and commentary from Barcelona](https://www.theverge.com/news/616633/mwc-2025-news-products-announcements)<!-- TECH:END -->
+ - [Best Peloton Alternatives for 2025 That Will Save Your Hard-Earned Money](https://www.cnet.com/health/fitness/best-peloton-alternative/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

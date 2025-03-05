@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [How Pokemon will be used if they are real](http://9gag.com/gag/axyvdV1)
- - 😝 [Maybe he should stare at mirror](http://9gag.com/gag/a34AvE5)
- - 💣 [Truly majestic!](http://9gag.com/gag/a7oevqe)
- - 😝 [Good service 5/7, definitely would do it again](http://9gag.com/gag/aByLRdN)
- - 👉 [Snow white after waking up](http://9gag.com/gag/a2v8EMZ)<!-- MEMES:END -->
+ - 😝 [They don\u2019t make movies like this anymore.](http://9gag.com/gag/a9yvMmo)
+ - 😝 [You can see the steam coming out of her ears](http://9gag.com/gag/azxPb0p)
+ - 💣 [How Pokemon will be used if they are real](http://9gag.com/gag/axyvdV1)
+ - 😝 [Snow white after waking up](http://9gag.com/gag/a2v8EMZ)
+ - 👉 [Bro is an 9gagger](http://9gag.com/gag/aLneKov)<!-- MEMES:END -->
 
 ---
 

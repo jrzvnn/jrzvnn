@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Save up to $168 on every new 2025 M4 MacBook Air with these deals](https://appleinsider.com/articles/25/03/05/save-up-to-168-on-every-new-2025-m4-macbook-air-with-these-deals?utm_medium=rss)
+ - [US State Department Kills Global Air Monitoring Program Researchers Say Paid for Itself](https://www.wired.com/story/air-monitoring-beijing-state-department-halted/)
+ - [The Last of Us: all the news about the video game franchise turned TV series](https://www.theverge.com/24036366/the-last-of-us-news-video-game-tv-series-trailers)
  - [Amazon Prime Video is getting into the wrestling business with new AEW deal](https://www.theverge.com/news/624673/aew-prime-video-ppv-streaming-deal)
- - [Apple says not every Apple Silicon generation will get an Ultra](https://appleinsider.com/articles/25/03/05/apple-says-not-every-apple-silicon-generation-will-get-an-ultra?utm_medium=rss)
- - [US Charges 12 Alleged Spies in China&#39;s Freewheeling Hacker-for-Hire Ecosystem](https://www.wired.com/story/us-charges-12-alleged-spies-in-chinas-freewheeling-hacker-for-hire-ecosystem/)
- - [Netflix&amp;#8217;s live push continues with John Mulaney&amp;#8217;s late-night talk show](https://www.theverge.com/netflix/624718/netflix-live-john-mulaney-late-night-show)
- - [An Overdiagnosis Epidemic Is Harming Patients’ Mental Health](https://www.wired.com/story/wired-health-suzanne-osullivan-cancer-autism-watchful-waiting-overdiagnosis/)<!-- TECH:END -->
+ - [Apple says not every Apple Silicon generation will get an Ultra](https://appleinsider.com/articles/25/03/05/apple-says-not-every-apple-silicon-generation-will-get-an-ultra?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

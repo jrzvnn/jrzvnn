@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [YouTube brings its more affordable ‘Premium Lite’ subscription to the US](https://www.theverge.com/news/624598/youtube-premium-lite-announced-us)
+ - [Source: OpenAI executives have told some investors about plans for a $2,000/month agent, a $10,000/month agent for coding, and a $20,000/month PhD-level agent &lpar;The Information&rpar;](http://www.techmeme.com/250305/p29#a250305p29)
  - [YouTube says YouTube Music and Premium now have 125M+ subscribers globally, including trials, after announcing 100M in February 2024 &lpar;Murray Stassen/Music Business Worldwide&rpar;](http://www.techmeme.com/250305/p28#a250305p28)
  - [YouTube launches Premium Lite, a $7.99/month pilot in the US with ad-free videos like gaming and news, and plans to launch in Thailand, Germany, and Australia &lpar;Jack Greenberg/YouTube Official Blog&rpar;](http://www.techmeme.com/250305/p27#a250305p27)
- - [New M4 MacBook Air fixes the line&#39;s biggest problem](https://appleinsider.com/articles/25/03/05/new-m4-macbook-air-fixes-the-lines-biggest-problem?utm_medium=rss)
- - [Carl Friedrik Carry-On Review: Well-Made Modest Luxury](https://www.wired.com/review/carl-friedrik-the-carry-on/)
- - [Microsoft says China-linked hacking group Silk Typhoon was targeting remote management tools and cloud apps in the US and abroad in late 2024 &lpar;Ryan Gallagher/Bloomberg&rpar;](http://www.techmeme.com/250305/p26#a250305p26)<!-- TECH:END -->
+ - [New M4 MacBook Air fixes the line&#39;s biggest problem](https://appleinsider.com/articles/25/03/05/new-m4-macbook-air-fixes-the-lines-biggest-problem?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -158,10 +158,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- TECH:START -->
  - [Trump’s first 100 days: all the news affecting the tech industry](https://www.theverge.com/24348851/donald-trump-presidency-tech-science-news)
- - [Sources: Italy is having growing doubts about closing a &amp;euro;1.5B deal with Starlink in light of the US pullback from commitments to European security &lpar;Bloomberg&rpar;](http://www.techmeme.com/250305/p39#a250305p39)
- - [Bolt says Ryan Breslow had been reinstated as CEO with the board&#39;s &quot;unanimous approval&quot;; Justin Grooms, interim CEO since last March, will serve as president &lpar;Mary Ann Azevedo/TechCrunch&rpar;](http://www.techmeme.com/250305/p38#a250305p38)
- - [Today&#39;s Wordle Hints, Answer and Help for March 6, #1356](https://www.cnet.com/tech/gaming/todays-wordle-hints-answer-and-help-for-march-6-1356/#ftag=CAD590a51e)
- - [Amazon announces an &quot;AI-aided dubbing&quot; pilot program on Prime Video, starting with dubbing in English and Latin American Spanish on 12 movies and series &lpar;Ian Carlos Campbell/Engadget&rpar;](http://www.techmeme.com/250305/p37#a250305p37)<!-- TECH:END -->
+ - [Tweetbot’s developers are making a Bluesky client](https://www.theverge.com/news/624926/tweetbots-developers-are-making-a-bluesky-client)
+ - [The hunt for the next Twitter: all the news about alternative social media platforms](https://www.theverge.com/23686584/twitter-alternative-social-media-platforms-mastodon-bluesky-activitypub-protocol)
+ - [Avride partners with Hyundai to jointly develop fully driverless cars for autonomous ride-hailing and aims to deploy 100 driverless Ioniq 5 SUVs this year &lpar;Andrew J. Hawkins/The Verge&rpar;](http://www.techmeme.com/250305/p40#a250305p40)
+ - [Sources: Italy is having growing doubts about closing a &amp;euro;1.5B deal with Starlink in light of the US pullback from commitments to European security &lpar;Bloomberg&rpar;](http://www.techmeme.com/250305/p39#a250305p39)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

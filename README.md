@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Ocean Two, but GET CAUGHT! Best Acting, Top Script!](http://9gag.com/gag/aVvEQOw)
- - 😝 [I\u2019m in this photo and I don\u2019t like it](http://9gag.com/gag/ajPO06Q)
- - 💣 [That&#39;s one lucky boyfriend](http://9gag.com/gag/ae9O00v)
- - 😝 [When a young white guy landed in Japan](http://9gag.com/gag/aD2nApd)
- - 👉 [What\u2019s your favorite Pok\u00e9mon?](http://9gag.com/gag/a1mDAb2)<!-- MEMES:END -->
+ - 😝 [Title card](http://9gag.com/gag/a4PzLqv)
+ - 😝 [Dad pranks daughter](http://9gag.com/gag/ajPO6jR)
+ - 💣 [I need that mandarin](http://9gag.com/gag/azxPVKq)
+ - 😝 [Taking care of your bird!](http://9gag.com/gag/aXPNpMg)
+ - 👉 [That&#39;s one lucky boyfriend](http://9gag.com/gag/ae9O00v)<!-- MEMES:END -->
 
 ---
 

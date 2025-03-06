@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Get the latest MacBook with this affordable monthly subscription](https://appleinsider.com/articles/25/03/06/get-the-latest-macbook-with-this-affordable-monthly-subscription?utm_medium=rss)
- - [Turing, which works with engineers to contribute code to AI projects, raised a $111M Series E led by Malaysia&#39;s sovereign wealth fund at a $2.2B valuation &lpar;Ingrid Lunden/TechCrunch&rpar;](http://www.techmeme.com/250306/p18#a250306p18)
- - [Nvidia GeForce RTX 5070 Founders Edition Review: Just OK](https://www.wired.com/review/nvidia-geforce-rtx-5070-fe/)
- - [The Corvette ZR1’s 233-mph run had to start in a virtual world](https://www.theverge.com/chevrolet/624087/chevy-corvette-zr1-speed-record-simulation)
- - [1Password is making it easier to find passwords based on your location](https://www.theverge.com/news/624138/1password-app-mobile-ios-android-location-gps)<!-- TECH:END -->
+ - [POC Obex Connect Headset Review: Loud and Clear](https://www.wired.com/review/poc-obex-connect/)
+ - [Trump’s first 100 days: all the news affecting the tech industry](https://www.theverge.com/24348851/donald-trump-presidency-tech-science-news)
+ - [The Take It Down Act isn’t a law, it’s a weapon](https://www.theverge.com/policy/624974/take-it-down-act-deepfakes-nonconsensual-pornography-trump-constitutional-crisis)
+ - [1Password adds a feature to help find a login, password, or access code by adding a specific physical location to items in a new Nearby section of the app &lpar;Andrew Liszewski/The Verge&rpar;](http://www.techmeme.com/250306/p19#a250306p19)
+ - [Get the latest MacBook with this affordable monthly subscription](https://appleinsider.com/articles/25/03/06/get-the-latest-macbook-with-this-affordable-monthly-subscription?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

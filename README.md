@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [New road layout](http://9gag.com/gag/apRDoX8)
- - 😝 [I like the blue in white one personality](http://9gag.com/gag/aAyEYzg)
+ - 😝 [`Press X to start`](http://9gag.com/gag/aW4LByA)
+ - 😝 [Wonderful culture](http://9gag.com/gag/aQzQ44q)
  - 💣 [Ocean Two, but GET CAUGHT! Best Acting, Top Script!](http://9gag.com/gag/aVvEQOw)
- - 😝 [Truly majestic!](http://9gag.com/gag/a7oevqe)
- - 👉 [You F-cking USELESS!](http://9gag.com/gag/aYQOpG2)<!-- MEMES:END -->
+ - 😝 [With a similar sentence](http://9gag.com/gag/aAyErV2)
+ - 👉 [Never forget](http://9gag.com/gag/ae9O0dv)<!-- MEMES:END -->
 
 ---
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [For the one guy who asked, cause I&#39;m too dumb to put it in a comment](http://9gag.com/gag/a9yvjp6)
- - 😝 [Truly majestic!](http://9gag.com/gag/a7oevqe)
- - 💣 [Good job](http://9gag.com/gag/agmO31K)
+ - 😝 [Taking care of your bird!](http://9gag.com/gag/aXPNpMg)
+ - 😝 [No danger to anyone, even if a ceiling collapses...](http://9gag.com/gag/aNDvrWr)
+ - 💣 [How Pokemon will be used if they are real](http://9gag.com/gag/axyvdV1)
  - 😝 [What\u2019s your favorite Pok\u00e9mon?](http://9gag.com/gag/a1mDAb2)
- - 👉 [No danger to anyone, even if a ceiling collapses...](http://9gag.com/gag/aNDvrWr)<!-- MEMES:END -->
+ - 👉 [New road layout](http://9gag.com/gag/apRDoX8)<!-- MEMES:END -->
 
 ---
 

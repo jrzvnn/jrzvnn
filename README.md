@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The GOP-led House Judiciary Committee subpoenas Alphabet and Sundar Pichai as part of its investigation into alleged censorship under the Biden administration &lpar;Emily Birnbaum/Bloomberg&rpar;](http://www.techmeme.com/250306/p28#a250306p28)
- - [Mistral launches Mistral OCR, a multimodal API that can turn complex PDF documents into AI-ready Markdown files &lpar;Romain Dillet/TechCrunch&rpar;](http://www.techmeme.com/250306/p27#a250306p27)
- - [Now Google Maps is starting to use Android 16&amp;#8217;s live update notifications](https://www.theverge.com/news/625473/google-maps-android-16-beta-live-updates)
- - [Pentagon Cuts Threaten Programs That Secure Loose Nukes and Weapons of Mass Destruction](https://www.wired.com/story/pentagon-cuts-nukes-chemical-weapons-wmd/)
- - [Anker’s 8-in-1 charging station has dropped to a new low price](https://www.theverge.com/good-deals/625393/anker-qi2-maggo-magnetic-charging-station-8-in-1-spring-cleaning-deal-sale)<!-- TECH:END -->
+ - [AMD says the $549 RX 9070 is real, but doesn’t deny reports of possible bait-and-switch](https://www.theverge.com/news/625502/don)
+ - [In an interview with Tucker Carlson, Sam Bankman-Fried says he was becoming closer to the GOP before his arrest and that played a role in his sentencing &lpar;CoinDesk&rpar;](http://www.techmeme.com/250306/p29#a250306p29)
+ - [The 37 Best Movies on Hulu This Week &lpar;March 2025&rpar;](https://www.wired.com/story/best-movies-hulu-right-now/)
+ - [MWC 2025: all the phones, gadgets, and commentary from Barcelona](https://www.theverge.com/news/616633/mwc-2025-news-products-announcements)
+ - [The GOP-led House Judiciary Committee subpoenas Alphabet and Sundar Pichai as part of its investigation into alleged censorship under the Biden administration &lpar;Emily Birnbaum/Bloomberg&rpar;](http://www.techmeme.com/250306/p28#a250306p28)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

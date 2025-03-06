@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [That&#39;s one lucky boyfriend](http://9gag.com/gag/ae9O00v)
- - 😝 [Taking care of your bird!](http://9gag.com/gag/aXPNpMg)
- - 💣 [I\u2019m in this photo and I don\u2019t like it](http://9gag.com/gag/ajPO06Q)
- - 😝 [Go Fuk Yourself](http://9gag.com/gag/ayN4pBy)
- - 👉 [The damn alarm\u2026](http://9gag.com/gag/ae9O3jb)<!-- MEMES:END -->
+ - 😝 [He got himself a painting because he saved the village](http://9gag.com/gag/a5QBP3V)
+ - 😝 [Ocean Two, but GET CAUGHT! Best Acting, Top Script!](http://9gag.com/gag/aVvEQOw)
+ - 💣 [Wonderful culture](http://9gag.com/gag/aQzQ44q)
+ - 😝 [Shrek might become clich\u00e9](http://9gag.com/gag/aMVmbj6)
+ - 👉 [You can see the steam coming out of her ears](http://9gag.com/gag/azxPb0p)<!-- MEMES:END -->
 
 ---
 

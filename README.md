@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Taking care of your bird!](http://9gag.com/gag/aXPNpMg)
- - 😝 [What\u2019s your favorite Pok\u00e9mon?](http://9gag.com/gag/a1mDAb2)
- - 💣 [Do not the cat](http://9gag.com/gag/a6Z97QN)
- - 😝 [Drunk Japanese girl wants new experiences](http://9gag.com/gag/a7oebAw)
- - 👉 [That&#39;s one lucky boyfriend](http://9gag.com/gag/ae9O00v)<!-- MEMES:END -->
+ - 😝 [You can see the steam coming out of her ears](http://9gag.com/gag/azxPb0p)
+ - 😝 [Flashbacks. Nostalgia. Dad&#39;s happy thoughts came back in a flash](http://9gag.com/gag/aGy8RXZ)
+ - 💣 [27 club](http://9gag.com/gag/apRDv3M)
+ - 😝 [The sexiest housewife in the world ...](http://9gag.com/gag/adBOpeV)
+ - 👉 [20. Gallery memeories](http://9gag.com/gag/avyeg7q)<!-- MEMES:END -->
 
 ---
 

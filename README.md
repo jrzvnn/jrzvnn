@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Kuo: Apple aims to release its first book-style foldable iPhone in late 2026, costing $2,000+ with a ~7.8&quot; &quot;crease-free&quot; inner display and a 5.5&quot; outer display &lpar;Eric Slivka/MacRumors&rpar;](http://www.techmeme.com/250306/p10#a250306p10)
  - [Alienware&#39;s New Area-51 Desktop PC Makes DIY Gaming Upgrades Easier](https://www.cnet.com/tech/gaming/alienwares-new-area-51-desktop-pc-makes-diy-gaming-upgrades-easier/#ftag=CAD590a51e)
  - [Sources detail Reliance Retail&#39;s overhaul plans in its efforts for a $125B IPO valuation, as India&#39;s largest retailer renews focus on scaling up quick commerce &lpar;Bloomberg&rpar;](http://www.techmeme.com/250306/p9#a250306p9)
  - [Waiting for Home Prices to Go Down? Don&#39;t Hold Your Breath, Says This Realtor](https://www.cnet.com/personal-finance/waiting-for-home-prices-to-go-down-dont-hold-your-breath-says-this-realtor/#ftag=CAD590a51e)
- - [Best Cooling Comforters of 2025](https://www.cnet.com/health/sleep/best-cooling-comforters/#ftag=CAD590a51e)
- - [In a policy paper, Eric Schmidt, Scale AI&#39;s Alexandr Wang, and Center for AI Safety&#39;s Dan Hendrycks argue the US should not pursue a &quot;Manhattan Project&quot; for AGI &lpar;Maxwell Zeff/TechCrunch&rpar;](http://www.techmeme.com/250306/p8#a250306p8)<!-- TECH:END -->
+ - [Best Cooling Comforters of 2025](https://www.cnet.com/health/sleep/best-cooling-comforters/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

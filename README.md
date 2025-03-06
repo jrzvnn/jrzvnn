@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [What\u2019s your favorite Pok\u00e9mon?](http://9gag.com/gag/a1mDAb2)
- - 😝 [Taking care of your bird!](http://9gag.com/gag/aXPNpMg)
- - 💣 [That&#39;s one lucky boyfriend](http://9gag.com/gag/ae9O00v)
- - 😝 [I like the blue in white one personality](http://9gag.com/gag/aAyEYzg)
- - 👉 [When a young white guy landed in Japan](http://9gag.com/gag/aD2nApd)<!-- MEMES:END -->
+ - 😝 [Ocean Two, but GET CAUGHT! Best Acting, Top Script!](http://9gag.com/gag/aVvEQOw)
+ - 😝 [He got himself a painting because he saved the village](http://9gag.com/gag/a5QBP3V)
+ - 💣 [Wonderful culture](http://9gag.com/gag/aQzQ44q)
+ - 😝 [Shrek might become clich\u00e9](http://9gag.com/gag/aMVmbj6)
+ - 👉 [You can see the steam coming out of her ears](http://9gag.com/gag/azxPb0p)<!-- MEMES:END -->
 
 ---
 

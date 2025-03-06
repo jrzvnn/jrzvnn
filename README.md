@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [In a policy paper, Eric Schmidt, Scale AI&#39;s Alexandr Wang, and Center for AI Safety&#39;s Dan Hendrycks argue the US should not pursue a &quot;Manhattan Project&quot; for AGI &lpar;Maxwell Zeff/TechCrunch&rpar;](http://www.techmeme.com/250306/p8#a250306p8)
+ - [A TollBit analysis of 160 websites on its content licensing platform finds AI search engines drive 96% less referral traffic than traditional Google Search &lpar;Rashi Shrivastava/Forbes&rpar;](http://www.techmeme.com/250306/p7#a250306p7)
  - [India&#39;s Income Tax Bill 2025 grants income tax officers the legal authority to access taxpayers&#39; email and social media accounts if they suspect tax evasion &lpar;Ira Alok Puranik/The Economic Times&rpar;](http://www.techmeme.com/250306/p6#a250306p6)
  - [Alibaba releases QwQ-32B, an open-source reasoning model, on Hugging Face and ModelScope, claiming performance similar to DeepSeek-R1 with lower compute needs &lpar;Carl Franzen/VentureBeat&rpar;](http://www.techmeme.com/250306/p5#a250306p5)
- - [ON Semiconductor reveals a $6.9B bid to acquire chipmaker Allegro Microsystems, which had a ~$4.9B market cap as of March 5, while Onsemi&#39;s stood at $19.6B &lpar;Bloomberg&rpar;](http://www.techmeme.com/250306/p4#a250306p4)
- - [Sources: Microsoft canceled some CoreWeave agreements over delivery issues and missed deadlines before its IPO; Microsoft made up 62% of CoreWeave&#39;s 2024 sales &lpar;Financial Times&rpar;](http://www.techmeme.com/250306/p3#a250306p3)
- - [USCIS proposes to review social media accounts of people applying for US citizenship, green cards, and asylum or refugee status, to comply with Trump&#39;s EO &lpar;Gaby Del Valle/The Verge&rpar;](http://www.techmeme.com/250306/p2#a250306p2)<!-- TECH:END -->
+ - [ON Semiconductor reveals a $6.9B bid to acquire chipmaker Allegro Microsystems, which had a ~$4.9B market cap as of March 5, while Onsemi&#39;s stood at $19.6B &lpar;Bloomberg&rpar;](http://www.techmeme.com/250306/p4#a250306p4)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

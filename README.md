@@ -166,10 +166,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [What\u2019s your favorite Pok\u00e9mon?](http://9gag.com/gag/a1mDAb2)
+ - 😝 [New road layout](http://9gag.com/gag/apRDoX8)
+ - 💣 [When your hands are not as important as the car..](http://9gag.com/gag/awymKDx)
  - 😝 [Do not the cat](http://9gag.com/gag/a6Z97QN)
- - 😝 [The damn alarm\u2026](http://9gag.com/gag/ae9O3jb)
- - 💣 [Name a bigger downgrade](http://9gag.com/gag/adBOjEB)
- - 😝 [Drunk Japanese girl wants new experiences](http://9gag.com/gag/a7oebAw)
  - 👉 [That&#39;s one lucky boyfriend](http://9gag.com/gag/ae9O00v)<!-- MEMES:END -->
 
 ---

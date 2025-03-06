@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Mistral launches Mistral OCR, a multimodal API that can turn complex PDF documents into AI-ready Markdown files &lpar;Romain Dillet/TechCrunch&rpar;](http://www.techmeme.com/250306/p27#a250306p27)
+ - [Now Google Maps is starting to use Android 16&amp;#8217;s live update notifications](https://www.theverge.com/news/625473/google-maps-android-16-beta-live-updates)
+ - [Pentagon Cuts Threaten Programs That Secure Loose Nukes and Weapons of Mass Destruction](https://www.wired.com/story/pentagon-cuts-nukes-chemical-weapons-wmd/)
  - [Anker’s 8-in-1 charging station has dropped to a new low price](https://www.theverge.com/good-deals/625393/anker-qi2-maggo-magnetic-charging-station-8-in-1-spring-cleaning-deal-sale)
- - [DOGE Is the Deep State](https://www.wired.com/story/doge-is-the-deep-state/)
- - [Sources: longtime Elon Musk ally Michael Grimes is leading a shake-up of the Chips Program Office, which administers billions in semiconductor subsidies &lpar;Michael Acton/Financial Times&rpar;](http://www.techmeme.com/250306/p26#a250306p26)
- - [If Ukraine Loses Starlink, Here Are the Best Alternatives](https://www.wired.com/story/starlink-replacement-ukraine-eutelsat-oneweb-project-kuiper-amazon-iris2-elon-musk/)
- - [All the news about Nvidia’s RTX 50-series GPUs](https://www.theverge.com/2025/1/25/24351798/nvidia-rtx-5090-5080-5070-gpu-news-rumors)<!-- TECH:END -->
+ - [DOGE Is the Deep State](https://www.wired.com/story/doge-is-the-deep-state/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

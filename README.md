@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [A look at the Trump administration&#39;s strategy to transform its traditional press shop into a rapid-response influencer operation via memes, TikTok, and podcasts &lpar;Washington Post&rpar;](http://www.techmeme.com/250306/p17#a250306p17)
  - [The US Army Is Using ‘CamoGPT’ to Purge DEI From Training Materials](https://www.wired.com/story/the-us-army-is-using-camogpt-to-purge-dei-from-training-materials/)
  - [NASA is making sacrifices to keep the Voyager mission alive](https://www.theverge.com/news/625182/nasa-voyager-mission-instruments-shut-down-power)
  - [Desktop Mac buyer&#39;s guide: which Mac to buy in early 2025](https://appleinsider.com/articles/25/03/06/desktop-mac-buyers-guide-which-mac-to-buy-in-early-2025?utm_medium=rss)
- - [DuckDuckGo says AI answers are out of beta and now get info from across the web, not just Wikipedia; setting AI answers to &quot;often&quot; shows them ~20% of the time &lpar;Emma Roth/The Verge&rpar;](http://www.techmeme.com/250306/p16#a250306p16)
- - [CarPlay helps Australian police scan license plates automatically](https://appleinsider.com/articles/25/03/06/carplay-helps-australian-police-scan-license-plates-automatically?utm_medium=rss)<!-- TECH:END -->
+ - [DuckDuckGo says AI answers are out of beta and now get info from across the web, not just Wikipedia; setting AI answers to &quot;often&quot; shows them ~20% of the time &lpar;Emma Roth/The Verge&rpar;](http://www.techmeme.com/250306/p16#a250306p16)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

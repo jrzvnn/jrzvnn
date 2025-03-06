@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The US Army Is Using ‘CamoGPT’ to Purge DEI From Training Materials](https://www.wired.com/story/the-us-army-is-using-camogpt-to-purge-dei-from-training-materials/)
+ - [NASA is making sacrifices to keep the Voyager mission alive](https://www.theverge.com/news/625182/nasa-voyager-mission-instruments-shut-down-power)
  - [Desktop Mac buyer&#39;s guide: which Mac to buy in early 2025](https://appleinsider.com/articles/25/03/06/desktop-mac-buyers-guide-which-mac-to-buy-in-early-2025?utm_medium=rss)
  - [DuckDuckGo says AI answers are out of beta and now get info from across the web, not just Wikipedia; setting AI answers to &quot;often&quot; shows them ~20% of the time &lpar;Emma Roth/The Verge&rpar;](http://www.techmeme.com/250306/p16#a250306p16)
- - [CarPlay helps Australian police scan license plates automatically](https://appleinsider.com/articles/25/03/06/carplay-helps-australian-police-scan-license-plates-automatically?utm_medium=rss)
- - [DuckDuckGo is amping up its AI search tool — but will still let you leave it behind](https://www.theverge.com/news/624899/duckduckgo-ai-search-chatbot-plans)
- - [Marley Spoon Meal Kit: Actual Cooking, Good Food](https://www.wired.com/review/marley-spoon-meal-kit/)<!-- TECH:END -->
+ - [CarPlay helps Australian police scan license plates automatically](https://appleinsider.com/articles/25/03/06/carplay-helps-australian-police-scan-license-plates-automatically?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

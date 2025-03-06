@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [AMD says the $549 RX 9070 is real, but doesn’t deny reports of possible bait-and-switch](https://www.theverge.com/news/625502/amd-rx-9070-xt-launch-pricing-msrp-possible-bait-switch)
+ - [A Look at a Very Silicon Valley Approach to Repopulation](https://www.wired.com/story/uncanny-valley-podcast-18-babies-repopulation-silicon-valley/)
+ - [The best iPad to buy](https://www.theverge.com/23639378/best-ipad-apple-buy-model-price)
+ - [AMD says the $549 RX 9070 is real but doesn’t deny reports of possible bait and switch](https://www.theverge.com/news/625502/amd-rx-9070-xt-launch-pricing-msrp-possible-bait-switch)
  - [In an interview with Tucker Carlson, Sam Bankman-Fried says he was becoming closer to the GOP before his arrest and that played a role in his sentencing &lpar;CoinDesk&rpar;](http://www.techmeme.com/250306/p29#a250306p29)
- - [The 37 Best Movies on Hulu This Week &lpar;March 2025&rpar;](https://www.wired.com/story/best-movies-hulu-right-now/)
- - [Best Electric Toothbrushes You Can Buy in 2025](https://www.cnet.com/health/personal-care/best-electric-toothbrush/#ftag=CAD590a51e)
- - [The 15 Best PS5 Games Right Now](https://www.cnet.com/tech/gaming/best-ps5-games/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [The 37 Best Movies on Hulu This Week &lpar;March 2025&rpar;](https://www.wired.com/story/best-movies-hulu-right-now/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

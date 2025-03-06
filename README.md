@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Anker’s 8-in-1 charging station has dropped to a new low price](https://www.theverge.com/good-deals/625393/anker-qi2-maggo-magnetic-charging-station-8-in-1-spring-cleaning-deal-sale)
+ - [DOGE Is the Deep State](https://www.wired.com/story/doge-is-the-deep-state/)
  - [Sources: longtime Elon Musk ally Michael Grimes is leading a shake-up of the Chips Program Office, which administers billions in semiconductor subsidies &lpar;Michael Acton/Financial Times&rpar;](http://www.techmeme.com/250306/p26#a250306p26)
  - [If Ukraine Loses Starlink, Here Are the Best Alternatives](https://www.wired.com/story/starlink-replacement-ukraine-eutelsat-oneweb-project-kuiper-amazon-iris2-elon-musk/)
- - [All the news about Nvidia’s RTX 50-series GPUs](https://www.theverge.com/2025/1/25/24351798/nvidia-rtx-5090-5080-5070-gpu-news-rumors)
- - [Nvidia denies reports that its RTX 50 laptop GPUs are missing ROPs, too](https://www.theverge.com/news/625432/nvidia-denies-rtx-50-laptop-gpus-have-rop-issue)
- - [M1 Max, M2 Max, M4 Max compared - how high-end Apple Silicon has evolved](https://appleinsider.com/inside/apple-silicon/vs/m1-max-m2-max-m4-max-compared---how-high-end-apple-silicon-has-evolved?utm_medium=rss)<!-- TECH:END -->
+ - [All the news about Nvidia’s RTX 50-series GPUs](https://www.theverge.com/2025/1/25/24351798/nvidia-rtx-5090-5080-5070-gpu-news-rumors)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

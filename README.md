@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Broadcom reports Q1 revenue up 25% YoY to $14.92B, vs. $14.61B est., and forecasts Q2 revenue above estimates; AVGO jumps 8%+ after hours &lpar;Zaheer Kachwala/Reuters&rpar;](http://www.techmeme.com/250306/p33#a250306p33)
+ - [US State Department officials say they launched an effort to use AI to review social media accounts of foreign students to revoke visas of &quot;pro-Hamas&quot; students &lpar;Marc Caputo/Axios&rpar;](http://www.techmeme.com/250306/p32#a250306p32)
  - [A Sensitive Complex Housing a CIA Facility Was on GSA&#39;s List of US Properties for Sale](https://www.wired.com/story/gsa-sale-cia-facility/)
  - [The US Secret Service, Europol, and others take down Garantex, a Russian cryptocurrency exchange accused of being associated with ransomware hackers &lpar;Lorenzo Franceschi-Bicchierai/TechCrunch&rpar;](http://www.techmeme.com/250306/p31#a250306p31)
- - [Ontario&#39;s Contract with Starlink is Canceled, Even if US Tariffs are Permanently Lifted](https://www.cnet.com/home/internet/ontarios-contract-with-starlink-is-canceled-even-if-us-tariffs-are-lifted-permanently/#ftag=CAD590a51e)
- - [Today&#39;s NYT Strands Hints, Answers and Help for March 7, #369](https://www.cnet.com/tech/gaming/todays-nyt-strands-hints-answers-and-help-for-march-7-369/#ftag=CAD590a51e)
- - [Today&#39;s NYT Connections Hints, Answers and Help for March 7, #635](https://www.cnet.com/tech/gaming/todays-nyt-connections-hints-answers-and-help-for-march-7-635/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Ontario&#39;s Contract with Starlink is Canceled, Even if US Tariffs are Permanently Lifted](https://www.cnet.com/home/internet/ontarios-contract-with-starlink-is-canceled-even-if-us-tariffs-are-lifted-permanently/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

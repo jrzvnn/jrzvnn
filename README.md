@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [What\u2019s your favorite Pok\u00e9mon?](http://9gag.com/gag/a1mDAb2)
  - 😝 [Wonderful culture](http://9gag.com/gag/aQzQ44q)
- - 😝 [With a similar sentence](http://9gag.com/gag/aAyErV2)
- - 💣 [Ocean Two, but GET CAUGHT! Best Acting, Top Script!](http://9gag.com/gag/aVvEQOw)
- - 😝 [Never forget](http://9gag.com/gag/ae9O0dv)
- - 👉 [Shrek might become clich\u00e9](http://9gag.com/gag/aMVmbj6)<!-- MEMES:END -->
+ - 💣 [The beer in my fridge before work](http://9gag.com/gag/aByLrLx)
+ - 😝 [Ocean Two, but GET CAUGHT! Best Acting, Top Script!](http://9gag.com/gag/aVvEQOw)
+ - 👉 [The damn alarm\u2026](http://9gag.com/gag/ae9O3jb)<!-- MEMES:END -->
 
 ---
 

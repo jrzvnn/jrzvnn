@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Reddit adds new tools, including Post Insights and Rules Check, which lets users see if what they are posting potentially goes against a subreddit&#39;s rules &lpar;Mariella Moon/Engadget&rpar;](http://www.techmeme.com/250306/p22#a250306p22)
+ - [Apple investigated making a Surface-like keyboard for iPad Pro](https://appleinsider.com/articles/22/05/03/apple-investigated-making-a-surface-like-keyboard-for-ipad-pro?utm_medium=rss)
  - [Best Merino Wool Clothing &lpar;2025&rpar;: Base Layers, Hoodies, Jackets &amp; More](https://www.wired.com/story/best-merino-wool-clothes/)
  - [Reddit will tell you if your post breaks the rules before you publish it](https://www.theverge.com/news/625038/reddit-posts-features-rules-check-subreddit-recommendations)
- - [Telo’s electric MT1 mini-truck gets a new preproduction prototype](https://www.theverge.com/news/625234/telo-mt1-preproduction-compact-mini-truck-ev)
- - [Sources: there haven&#39;t been negotiations between ByteDance and prospective TikTok US buyers, amid confusion over who&#39;s leading Trump administration negotiations &lpar;Dan Primack/Axios&rpar;](http://www.techmeme.com/250306/p21#a250306p21)
- - [Cybercriminals arrested for stealing hundreds of concert tickets through StubHub exploit](https://www.theverge.com/news/625219/taylor-swift-eras-cybercrime-stubhub)<!-- TECH:END -->
+ - [Telo’s electric MT1 mini-truck gets a new preproduction prototype](https://www.theverge.com/news/625234/telo-mt1-preproduction-compact-mini-truck-ev)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

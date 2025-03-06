@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The MagicX Zero 40 has a vertical display to properly handle DS games](https://www.theverge.com/news/625216/magicx-zero-40-handheld-console-nintendo-ds-touchscreen)
- - [Game Porting Toolkit is a start, but Apple needs to do more for Mac gaming success](https://appleinsider.com/articles/25/03/06/game-porting-toolkit-is-a-start-but-apple-needs-to-do-more-for-mac-gaming-success?utm_medium=rss)
- - [Nansen: Trump&#39;s World Liberty Financial bought Ether worth $10M, WBTC worth $10M, and MOVE worth $1.5M ahead of the White House Crypto Summit &lpar;Brian McGleenon/The Block&rpar;](http://www.techmeme.com/250306/p20#a250306p20)
- - [All the smart home news, reviews, and gadgets you need to know about](https://www.theverge.com/24190824/smart-home-news-reviews-guides-gadgets)
- - [Flying is still safe for now — but the FAA isn’t](https://www.theverge.com/decoder-podcast-with-nilay-patel/625193/elon-musk-faa-spacex-doge-airplane-crashes)<!-- TECH:END -->
+ - [Best Merino Wool Clothing &lpar;2025&rpar;: Base Layers, Hoodies, Jackets &amp; More](https://www.wired.com/story/best-merino-wool-clothes/)
+ - [Reddit will tell you if your post breaks the rules before you publish it](https://www.theverge.com/news/625038/reddit-posts-features-rules-check-subreddit-recommendations)
+ - [Telo’s electric MT1 mini-truck gets a new preproduction prototype](https://www.theverge.com/news/625234/telo-mt1-preproduction-compact-mini-truck-ev)
+ - [Sources: there haven&#39;t been negotiations between ByteDance and prospective TikTok US buyers, amid confusion over who&#39;s leading Trump administration negotiations &lpar;Dan Primack/Axios&rpar;](http://www.techmeme.com/250306/p21#a250306p21)
+ - [Cybercriminals arrested for stealing hundreds of concert tickets through StubHub exploit](https://www.theverge.com/news/625219/taylor-swift-eras-cybercrime-stubhub)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

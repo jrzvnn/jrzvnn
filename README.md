@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Marley Spoon Meal Kit: Actual Cooking, Good Food](https://www.wired.com/review/marley-spoon-meal-kit/)
+ - [Kuo: Apple is developing an updated C1 modem chip for mass production in 2026 with mmWave support and improved power consumption and transmission speed &lpar;Tim Hardwick/MacRumors&rpar;](http://www.techmeme.com/250306/p15#a250306p15)
  - [iPhone fold predicted to launch in late 2026 with no Face ID](https://appleinsider.com/articles/25/03/06/iphone-fold-predicted-to-launch-in-late-2026-with-no-face-id?utm_medium=rss)
  - [US Commerce Secretary Howard Lutnick unveils an overhaul of Biden&#39;s $42B broadband grant to &quot;take a tech-neutral approach&quot;, a move that could benefit Starlink &lpar;Cecilia Kang/New York Times&rpar;](http://www.techmeme.com/250306/p14#a250306p14)
- - [Hands-On With GPT-4.5, OpenAI’s Most Powerful Model Yet](https://www.wired.com/story/gpt-4-5-openai-first-impressions/)
- - [JD reports Q4 revenue up 13% YoY to ~$48B, its fastest growth in three years and above est., net income up 100%+ to ~$1.4B, as Chinese consumer spending rises &lpar;Bloomberg&rpar;](http://www.techmeme.com/250306/p13#a250306p13)
- - [Revlon One-Step Volumizer Plus Review: Hot Looks for Less](https://www.wired.com/review/revlon-one-step-volumizer-plus/)<!-- TECH:END -->
+ - [Hands-On With GPT-4.5, OpenAI’s Most Powerful Model Yet](https://www.wired.com/story/gpt-4-5-openai-first-impressions/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

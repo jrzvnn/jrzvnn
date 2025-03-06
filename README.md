@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [iPhone fold predicted to launch in late 2026 with no Face ID](https://appleinsider.com/articles/25/03/06/iphone-fold-predicted-to-launch-in-late-2026-with-no-face-id?utm_medium=rss)
+ - [US Commerce Secretary Howard Lutnick unveils an overhaul of Biden&#39;s $42B broadband grant to &quot;take a tech-neutral approach&quot;, a move that could benefit Starlink &lpar;Cecilia Kang/New York Times&rpar;](http://www.techmeme.com/250306/p14#a250306p14)
+ - [Hands-On With GPT-4.5, OpenAI’s Most Powerful Model Yet](https://www.wired.com/story/gpt-4-5-openai-first-impressions/)
  - [JD reports Q4 revenue up 13% YoY to ~$48B, its fastest growth in three years and above est., net income up 100%+ to ~$1.4B, as Chinese consumer spending rises &lpar;Bloomberg&rpar;](http://www.techmeme.com/250306/p13#a250306p13)
- - [Revlon One-Step Volumizer Plus Review: Hot Looks for Less](https://www.wired.com/review/revlon-one-step-volumizer-plus/)
- - [Sources: President Trump is set to meet the CEOs of HP, Intel, IBM, and Qualcomm on March 10, as new US tariffs threaten to roil the PC hardware industry &lpar;Bloomberg&rpar;](http://www.techmeme.com/250306/p12#a250306p12)
- - [PitchBook: women founders and investors raised $38.8B in the US in 2024, up 27% YoY but coming from a 25.1% share of total VC funding, down from 26.4% in 2023 &lpar;Dean Takahashi/VentureBeat&rpar;](http://www.techmeme.com/250306/p11#a250306p11)
- - [Apple&#39;s mmWave C1 modem won&#39;t launch until 2026](https://appleinsider.com/articles/25/03/06/apples-mmwave-c1-modem-wont-launch-until-2026?utm_medium=rss)<!-- TECH:END -->
+ - [Revlon One-Step Volumizer Plus Review: Hot Looks for Less](https://www.wired.com/review/revlon-one-step-volumizer-plus/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

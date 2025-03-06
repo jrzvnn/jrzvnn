@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Marley Spoon Meal Kit: Actual Cooking, Good Food](https://www.wired.com/review/marley-spoon-meal-kit/)
- - [Kuo: Apple is developing an updated C1 modem chip for mass production in 2026 with mmWave support and improved power consumption and transmission speed &lpar;Tim Hardwick/MacRumors&rpar;](http://www.techmeme.com/250306/p15#a250306p15)
- - [iPhone fold predicted to launch in late 2026 with no Face ID](https://appleinsider.com/articles/25/03/06/iphone-fold-predicted-to-launch-in-late-2026-with-no-face-id?utm_medium=rss)
- - [US Commerce Secretary Howard Lutnick unveils an overhaul of Biden&#39;s $42B broadband grant to &quot;take a tech-neutral approach&quot;, a move that could benefit Starlink &lpar;Cecilia Kang/New York Times&rpar;](http://www.techmeme.com/250306/p14#a250306p14)
- - [Hands-On With GPT-4.5, OpenAI’s Most Powerful Model Yet](https://www.wired.com/story/gpt-4-5-openai-first-impressions/)<!-- TECH:END -->
+ - [Desktop Mac buyer&#39;s guide: which Mac to buy in early 2025](https://appleinsider.com/articles/25/03/06/desktop-mac-buyers-guide-which-mac-to-buy-in-early-2025?utm_medium=rss)
+ - [DuckDuckGo says AI answers are out of beta and now get info from across the web, not just Wikipedia; setting AI answers to &quot;often&quot; shows them ~20% of the time &lpar;Emma Roth/The Verge&rpar;](http://www.techmeme.com/250306/p16#a250306p16)
+ - [CarPlay helps Australian police scan license plates automatically](https://appleinsider.com/articles/25/03/06/carplay-helps-australian-police-scan-license-plates-automatically?utm_medium=rss)
+ - [DuckDuckGo is amping up its AI search tool — but will still let you leave it behind](https://www.theverge.com/news/624899/duckduckgo-ai-search-chatbot-plans)
+ - [Marley Spoon Meal Kit: Actual Cooking, Good Food](https://www.wired.com/review/marley-spoon-meal-kit/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

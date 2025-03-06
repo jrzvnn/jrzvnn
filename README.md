@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Drunk Japanese girl wants new experiences](http://9gag.com/gag/a7oebAw)
- - 😝 [I\u2019m in this photo and I don\u2019t like it](http://9gag.com/gag/ajPO06Q)
- - 💣 [New road layout](http://9gag.com/gag/apRDoX8)
- - 😝 [You F-cking USELESS!](http://9gag.com/gag/aYQOpG2)
- - 👉 [The damn alarm\u2026](http://9gag.com/gag/ae9O3jb)<!-- MEMES:END -->
+ - 😝 [Ocean Two, but GET CAUGHT! Best Acting, Top Script!](http://9gag.com/gag/aVvEQOw)
+ - 😝 [He got himself a painting because he saved the village](http://9gag.com/gag/a5QBP3V)
+ - 💣 [Wonderful culture](http://9gag.com/gag/aQzQ44q)
+ - 😝 [Shrek might become clich\u00e9](http://9gag.com/gag/aMVmbj6)
+ - 👉 [You can see the steam coming out of her ears](http://9gag.com/gag/azxPb0p)<!-- MEMES:END -->
 
 ---
 

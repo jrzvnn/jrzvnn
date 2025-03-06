@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [For the one guy who asked, cause I&#39;m too dumb to put it in a comment](http://9gag.com/gag/a9yvjp6)
- - 😝 [Neat](http://9gag.com/gag/a9yvjpZ)
- - 💣 [Truly majestic!](http://9gag.com/gag/a7oevqe)
+ - 😝 [No danger to anyone, even if a ceiling collapses...](http://9gag.com/gag/aNDvrWr)
+ - 😝 [You F-cking USELESS!](http://9gag.com/gag/aYQOpG2)
+ - 💣 [Neat](http://9gag.com/gag/a9yvjpZ)
  - 😝 [Learn to Milk a Horse](http://9gag.com/gag/a6Z9mOq)
- - 👉 [I like the blue in white one personality](http://9gag.com/gag/aAyEYzg)<!-- MEMES:END -->
+ - 👉 [Taking care of your bird!](http://9gag.com/gag/aXPNpMg)<!-- MEMES:END -->
 
 ---
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Sources: Larry Page has formed a new company, Dynatomics, to use LLMs to create highly optimized designs for various objects and then have a factory build them &lpar;Jessica E. Lessin/The Information&rpar;](http://www.techmeme.com/250306/p30#a250306p30)
+ - [Roblox: all the news about the popular social and gaming platform](https://www.theverge.com/23864790/roblox-news-announcements-updates)
  - [A Look at a Very Silicon Valley Approach to Repopulation](https://www.wired.com/story/uncanny-valley-podcast-18-babies-repopulation-silicon-valley/)
  - [The best iPad to buy](https://www.theverge.com/23639378/best-ipad-apple-buy-model-price)
- - [AMD says the $549 RX 9070 is real but doesn’t deny reports of possible bait and switch](https://www.theverge.com/news/625502/amd-rx-9070-xt-launch-pricing-msrp-possible-bait-switch)
- - [In an interview with Tucker Carlson, Sam Bankman-Fried says he was becoming closer to the GOP before his arrest and that played a role in his sentencing &lpar;CoinDesk&rpar;](http://www.techmeme.com/250306/p29#a250306p29)
- - [The 37 Best Movies on Hulu This Week &lpar;March 2025&rpar;](https://www.wired.com/story/best-movies-hulu-right-now/)<!-- TECH:END -->
+ - [AMD says the $549 RX 9070 is real but doesn’t deny reports of possible bait and switch](https://www.theverge.com/news/625502/amd-rx-9070-xt-launch-pricing-msrp-possible-bait-switch)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

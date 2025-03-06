@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Jackbox games are coming to smart TVs](https://www.theverge.com/news/625087/jackbox-games-smart-tvs-cloud-aws-gamelift-streams)
- - [US tariffs: how Trump’s tax is hitting Big Tech and beyond](https://www.theverge.com/604742/trump-tariffs-canada-mexico-china-updates)
- - [Big Tech is now slightly less silent on Trump’s tariffs](https://www.theverge.com/news/624849/big-tech-slightly-less-silent-trump-tariffs)
- - [Ontario&#39;s Contract with Starlink is Canceled, Even if US Tariffs are Lifted](https://www.cnet.com/home/internet/ontarios-contract-with-starlink-is-canceled-even-if-us-tariffs-are-lifted/#ftag=CAD590a51e)
- - [Social Security Workers Aren’t Allowed to Read This Story](https://www.wired.com/story/social-security-workers-arent-allowed-to-read-this-story/)<!-- TECH:END -->
+ - [Sources: longtime Elon Musk ally Michael Grimes is leading a shake-up of the Chips Program Office, which administers billions in semiconductor subsidies &lpar;Michael Acton/Financial Times&rpar;](http://www.techmeme.com/250306/p26#a250306p26)
+ - [If Ukraine Loses Starlink, Here Are the Best Alternatives](https://www.wired.com/story/starlink-replacement-ukraine-eutelsat-oneweb-project-kuiper-amazon-iris2-elon-musk/)
+ - [All the news about Nvidia’s RTX 50-series GPUs](https://www.theverge.com/2025/1/25/24351798/nvidia-rtx-5090-5080-5070-gpu-news-rumors)
+ - [Nvidia denies reports that its RTX 50 laptop GPUs are missing ROPs, too](https://www.theverge.com/news/625432/nvidia-denies-rtx-50-laptop-gpus-have-rop-issue)
+ - [M1 Max, M2 Max, M4 Max compared - how high-end Apple Silicon has evolved](https://appleinsider.com/inside/apple-silicon/vs/m1-max-m2-max-m4-max-compared---how-high-end-apple-silicon-has-evolved?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

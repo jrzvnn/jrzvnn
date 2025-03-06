@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [JD reports Q4 revenue up 13% YoY to ~$48B, its fastest growth in three years and above est., net income up 100%+ to ~$1.4B, as Chinese consumer spending rises &lpar;Bloomberg&rpar;](http://www.techmeme.com/250306/p13#a250306p13)
  - [Revlon One-Step Volumizer Plus Review: Hot Looks for Less](https://www.wired.com/review/revlon-one-step-volumizer-plus/)
  - [Sources: President Trump is set to meet the CEOs of HP, Intel, IBM, and Qualcomm on March 10, as new US tariffs threaten to roil the PC hardware industry &lpar;Bloomberg&rpar;](http://www.techmeme.com/250306/p12#a250306p12)
  - [PitchBook: women founders and investors raised $38.8B in the US in 2024, up 27% YoY but coming from a 25.1% share of total VC funding, down from 26.4% in 2023 &lpar;Dean Takahashi/VentureBeat&rpar;](http://www.techmeme.com/250306/p11#a250306p11)
- - [Apple&#39;s mmWave C1 modem won&#39;t launch until 2026](https://appleinsider.com/articles/25/03/06/apples-mmwave-c1-modem-wont-launch-until-2026?utm_medium=rss)
- - [Best Mattress Toppers for 2025, Tested by Our Sleep Experts](https://www.cnet.com/health/sleep/best-mattress-toppers/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Apple&#39;s mmWave C1 modem won&#39;t launch until 2026](https://appleinsider.com/articles/25/03/06/apples-mmwave-c1-modem-wont-launch-until-2026?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

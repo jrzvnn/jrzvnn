@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Sources: Microsoft canceled some CoreWeave agreements over delivery issues and missed deadlines before its IPO; Microsoft made up 62% of CoreWeave&#39;s 2024 sales &lpar;Financial Times&rpar;](http://www.techmeme.com/250306/p3#a250306p3)
  - [USCIS proposes to review social media accounts of people applying for US citizenship, green cards, and asylum or refugee status, to comply with Trump&#39;s EO &lpar;Gaby Del Valle/The Verge&rpar;](http://www.techmeme.com/250306/p2#a250306p2)
  - [NY-based Ataraxis AI, which uses AI to predict if a patient has cancer and what their cancer outcome looks like, raised a $20.4M Series A led by AIX Ventures &lpar;Charles Rollet/TechCrunch&rpar;](http://www.techmeme.com/250306/p1#a250306p1)
  - [Intel defeats a shareholder lawsuit accusing it of fraudulently concealing problems in its foundry unit, leading to job cuts and a $32B stock plunge &lpar;Jonathan Stempel/Reuters&rpar;](http://www.techmeme.com/250305/p54#a250305p54)
- - [Microsoft unveils Sales Agent and Sales Chat AI agents, available in public preview in May, designed to work with Dynamics 365 business apps and with Salesforce &lpar;Todd Bishop/GeekWire&rpar;](http://www.techmeme.com/250305/p53#a250305p53)
- - [Salesforce announces Agentforce 2dx, letting AI agents work proactively and autonomously across enterprise systems without constant human supervision &lpar;Michael Nu&amp;ntilde;ez/VentureBeat&rpar;](http://www.techmeme.com/250305/p52#a250305p52)<!-- TECH:END -->
+ - [Microsoft unveils Sales Agent and Sales Chat AI agents, available in public preview in May, designed to work with Dynamics 365 business apps and with Salesforce &lpar;Todd Bishop/GeekWire&rpar;](http://www.techmeme.com/250305/p53#a250305p53)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Here are the best Apple Watch deals right now](https://www.theverge.com/21289209/best-apple-watch-deals)
+ - [What went wrong with Skype?](https://www.theverge.com/notepad-microsoft-newsletter/625180/skype-retirement-end-of-support-may-microsoft-notepad)
  - [San Diego-based defense startup Shield AI raised $240M from L3Harris, a16z, and others at a $5.3B valuation to develop its Hivemind autonomous vehicle platform &lpar;Lizette Chapman/Bloomberg&rpar;](http://www.techmeme.com/250306/p23#a250306p23)
  - [The best indie games we’re playing right now](https://www.theverge.com/24339574/indie-games-recommendations-pc-switch-steam-deck-best-new-hidden-gems)
- - [Trump’s first 100 days: all the news affecting the tech industry](https://www.theverge.com/24348851/donald-trump-presidency-tech-science-news)
- - [Reddit adds new tools, including Post Insights and Rules Check, which lets users see if what they are posting potentially goes against a subreddit&#39;s rules &lpar;Mariella Moon/Engadget&rpar;](http://www.techmeme.com/250306/p22#a250306p22)
- - [Apple investigated making a Surface-like keyboard for iPad Pro](https://appleinsider.com/articles/22/05/03/apple-investigated-making-a-surface-like-keyboard-for-ipad-pro?utm_medium=rss)<!-- TECH:END -->
+ - [Trump’s first 100 days: all the news affecting the tech industry](https://www.theverge.com/24348851/donald-trump-presidency-tech-science-news)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

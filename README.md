@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [What\u2019s your favorite Pok\u00e9mon?](http://9gag.com/gag/a1mDAb2)
- - 😝 [Wonderful culture](http://9gag.com/gag/aQzQ44q)
- - 💣 [The beer in my fridge before work](http://9gag.com/gag/aByLrLx)
- - 😝 [Ocean Two, but GET CAUGHT! Best Acting, Top Script!](http://9gag.com/gag/aVvEQOw)
- - 👉 [The damn alarm\u2026](http://9gag.com/gag/ae9O3jb)<!-- MEMES:END -->
+ - 😝 [The damn alarm\u2026](http://9gag.com/gag/ae9O3jb)
+ - 😝 [The beer in my fridge before work](http://9gag.com/gag/aByLrLx)
+ - 💣 [I love my white country](http://9gag.com/gag/aqy89Ov)
+ - 😝 [Drunk Japanese girl wants new experiences](http://9gag.com/gag/a7oebAw)
+ - 👉 [New road layout](http://9gag.com/gag/apRDoX8)<!-- MEMES:END -->
 
 ---
 

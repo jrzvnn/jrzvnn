@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [`Press X to start`](http://9gag.com/gag/aW4LByA)
  - 😝 [Wonderful culture](http://9gag.com/gag/aQzQ44q)
- - 💣 [Ocean Two, but GET CAUGHT! Best Acting, Top Script!](http://9gag.com/gag/aVvEQOw)
  - 😝 [With a similar sentence](http://9gag.com/gag/aAyErV2)
- - 👉 [Never forget](http://9gag.com/gag/ae9O0dv)<!-- MEMES:END -->
+ - 💣 [Ocean Two, but GET CAUGHT! Best Acting, Top Script!](http://9gag.com/gag/aVvEQOw)
+ - 😝 [Never forget](http://9gag.com/gag/ae9O0dv)
+ - 👉 [Shrek might become clich\u00e9](http://9gag.com/gag/aMVmbj6)<!-- MEMES:END -->
 
 ---
 

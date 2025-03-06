@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [What\u2019s your favorite Pok\u00e9mon?](http://9gag.com/gag/a1mDAb2)
- - 😝 [New road layout](http://9gag.com/gag/apRDoX8)
- - 💣 [When your hands are not as important as the car..](http://9gag.com/gag/awymKDx)
- - 😝 [Do not the cat](http://9gag.com/gag/a6Z97QN)
- - 👉 [That&#39;s one lucky boyfriend](http://9gag.com/gag/ae9O00v)<!-- MEMES:END -->
+ - 😝 [Black people hiking](http://9gag.com/gag/aVvEewn)
+ - 😝 [Nothing good can come of this](http://9gag.com/gag/azxPjYq)
+ - 💣 [27 club](http://9gag.com/gag/apRDv3M)
+ - 😝 [The sexiest housewife in the world ...](http://9gag.com/gag/adBOpeV)
+ - 👉 [20. Gallery memeories](http://9gag.com/gag/avyeg7q)<!-- MEMES:END -->
 
 ---
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Good boy helping during epilepsy](http://9gag.com/gag/aoyVZeA)
- - 😝 [I love my white country](http://9gag.com/gag/aqy89Ov)
- - 💣 [What\u2019s your favorite Pok\u00e9mon?](http://9gag.com/gag/a1mDAb2)
- - 😝 [Learn to Milk a Horse](http://9gag.com/gag/a6Z9mOq)
- - 👉 [Neat](http://9gag.com/gag/a9yvjpZ)<!-- MEMES:END -->
+ - 😝 [New road layout](http://9gag.com/gag/apRDoX8)
+ - 😝 [Ken McElroy, known as the `town bully,` was murdered in his truck in Skidmore, Missouri, on July 10, 1981, in broad daylight. Despite the presence of over 40 witnesses, no one claimed to have seen the murder occur, and to this day, no one has been charged.](http://9gag.com/gag/aD2nRgO)
+ - 💣 [Neat](http://9gag.com/gag/a9yvjpZ)
+ - 😝 [Truly majestic!](http://9gag.com/gag/a7oevqe)
+ - 👉 [No danger to anyone, even if a ceiling collapses...](http://9gag.com/gag/aNDvrWr)<!-- MEMES:END -->
 
 ---
 

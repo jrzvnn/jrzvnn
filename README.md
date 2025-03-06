@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [No danger to anyone, even if a ceiling collapses...](http://9gag.com/gag/aNDvrWr)
- - 😝 [You F-cking USELESS!](http://9gag.com/gag/aYQOpG2)
- - 💣 [Neat](http://9gag.com/gag/a9yvjpZ)
- - 😝 [Learn to Milk a Horse](http://9gag.com/gag/a6Z9mOq)
- - 👉 [Taking care of your bird!](http://9gag.com/gag/aXPNpMg)<!-- MEMES:END -->
+ - 😝 [New road layout](http://9gag.com/gag/apRDoX8)
+ - 😝 [I like the blue in white one personality](http://9gag.com/gag/aAyEYzg)
+ - 💣 [Ocean Two, but GET CAUGHT! Best Acting, Top Script!](http://9gag.com/gag/aVvEQOw)
+ - 😝 [Truly majestic!](http://9gag.com/gag/a7oevqe)
+ - 👉 [You F-cking USELESS!](http://9gag.com/gag/aYQOpG2)<!-- MEMES:END -->
 
 ---
 

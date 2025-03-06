@@ -160,8 +160,8 @@ R                        1 repo              ░░░░░░░░░░░�
  - [ON Semiconductor reveals a $6.9B bid to acquire chipmaker Allegro Microsystems, which had a ~$4.9B market cap as of March 5, while Onsemi&#39;s stood at $19.6B &lpar;Bloomberg&rpar;](http://www.techmeme.com/250306/p4#a250306p4)
  - [Sources: Microsoft canceled some CoreWeave agreements over delivery issues and missed deadlines before its IPO; Microsoft made up 62% of CoreWeave&#39;s 2024 sales &lpar;Financial Times&rpar;](http://www.techmeme.com/250306/p3#a250306p3)
  - [USCIS proposes to review social media accounts of people applying for US citizenship, green cards, and asylum or refugee status, to comply with Trump&#39;s EO &lpar;Gaby Del Valle/The Verge&rpar;](http://www.techmeme.com/250306/p2#a250306p2)
- - [NY-based Ataraxis AI, which uses AI to predict if a patient has cancer and what their cancer outcome looks like, raised a $20.4M Series A led by AIX Ventures &lpar;Charles Rollet/TechCrunch&rpar;](http://www.techmeme.com/250306/p1#a250306p1)
- - [Intel defeats a shareholder lawsuit accusing it of fraudulently concealing problems in its foundry unit, leading to job cuts and a $32B stock plunge &lpar;Jonathan Stempel/Reuters&rpar;](http://www.techmeme.com/250305/p54#a250305p54)<!-- TECH:END -->
+ - [MWC 2025 Live: All the Latest Phones, Robots, Mobile Gadgets and AI From Barcelona](https://www.cnet.com/tech/mobile/mwc-2025-live-blog/#ftag=CAD590a51e)
+ - [Today&#39;s NYT Mini Crossword Answers for Thursday, March 6](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-thursday-march-6/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

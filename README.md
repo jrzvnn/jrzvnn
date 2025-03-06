@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [DoubleZero, which is coordinating a global network of fiber optic cables to improve blockchains, raised $28M in a token round, sources say at a $400M valuation &lpar;Danny Nelson/CoinDesk&rpar;](http://www.techmeme.com/250306/p36#a250306p36)
  - [Trump’s first 100 days: all the news affecting the tech industry](https://www.theverge.com/24348851/donald-trump-presidency-tech-science-news)
  - [The US Department of Labor has been investigating Scale AI for compliance with the Fair Labor Standards Act, a source says since at least August 2024 &lpar;Charles Rollet/TechCrunch&rpar;](http://www.techmeme.com/250306/p35#a250306p35)
  - [FCC chair says we&amp;#8217;re too dependent on GPS and wants to explore &amp;#8216;alternatives&amp;#8217;](https://www.theverge.com/news/625671/fcc-vote-gps-911-technologies-inquiry)
- - [HPE reports Q1 revenue up 16% YoY to $7.85B, vs. $7.82B est., Q2 and FY 2025 guidance below est., and plans to cut ~2,500 employees; HPE drops 16%+ after hours &lpar;Jordan Novet/CNBC&rpar;](http://www.techmeme.com/250306/p34#a250306p34)
- - [Intuitive Machines Lander Touches Down on Moon, But Lands Wonky](https://www.cnet.com/science/space/what-happened-when-intuitive-machines-athena-lander-touched-down-on-moon-status-unknown-landing-was-wonky/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [HPE reports Q1 revenue up 16% YoY to $7.85B, vs. $7.82B est., Q2 and FY 2025 guidance below est., and plans to cut ~2,500 employees; HPE drops 16%+ after hours &lpar;Jordan Novet/CNBC&rpar;](http://www.techmeme.com/250306/p34#a250306p34)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

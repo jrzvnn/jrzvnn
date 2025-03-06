@@ -160,8 +160,8 @@ R                        1 repo              ░░░░░░░░░░░�
  - [Game Porting Toolkit is a start, but Apple needs to do more for Mac gaming success](https://appleinsider.com/articles/25/03/06/game-porting-toolkit-is-a-start-but-apple-needs-to-do-more-for-mac-gaming-success?utm_medium=rss)
  - [Nansen: Trump&#39;s World Liberty Financial bought Ether worth $10M, WBTC worth $10M, and MOVE worth $1.5M ahead of the White House Crypto Summit &lpar;Brian McGleenon/The Block&rpar;](http://www.techmeme.com/250306/p20#a250306p20)
  - [All the smart home news, reviews, and gadgets you need to know about](https://www.theverge.com/24190824/smart-home-news-reviews-guides-gadgets)
- - [Flying is still safe for now — but the FAA isn’t](https://www.theverge.com/decoder-podcast-with-nilay-patel/625193/elon-musk-faa-spacex-doge-airplane-crashes)
- - [Netflix follows Paul vs. Tyson fight with another boxing stream in July](https://www.theverge.com/news/625236/netflix-live-boxing-match-amanda-serrano-katie-taylor)<!-- TECH:END -->
+ - [Stream the 2025 Oscar Winners: How to Watch &#39;Anora,&#39; &#39;Flow,&#39; &#39;Conclave&#39; and More](https://www.cnet.com/tech/services-and-software/stream-the-2025-oscar-winners-how-to-watch-anora-flow-conclave-and-more/#ftag=CAD590a51e)
+ - [Flying is still safe for now — but the FAA isn’t](https://www.theverge.com/decoder-podcast-with-nilay-patel/625193/elon-musk-faa-spacex-doge-airplane-crashes)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

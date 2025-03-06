@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [For the one guy who asked, cause I&#39;m too dumb to put it in a comment](http://9gag.com/gag/a9yvjp6)
- - 😝 [Wonderful culture](http://9gag.com/gag/aQzQ44q)
- - 💣 [How Pokemon will be used if they are real](http://9gag.com/gag/axyvdV1)
+ - 😝 [How Pokemon will be used if they are real](http://9gag.com/gag/axyvdV1)
+ - 😝 [Learn to Milk a Horse](http://9gag.com/gag/a6Z9mOq)
+ - 💣 [What\u2019s your favorite Pok\u00e9mon?](http://9gag.com/gag/a1mDAb2)
  - 😝 [Neat](http://9gag.com/gag/a9yvjpZ)
- - 👉 [What\u2019s your favorite Pok\u00e9mon?](http://9gag.com/gag/a1mDAb2)<!-- MEMES:END -->
+ - 👉 [New road layout](http://9gag.com/gag/apRDoX8)<!-- MEMES:END -->
 
 ---
 

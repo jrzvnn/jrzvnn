@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Black people hiking](http://9gag.com/gag/aVvEewn)
- - 😝 [Nothing good can come of this](http://9gag.com/gag/azxPjYq)
- - 💣 [27 club](http://9gag.com/gag/apRDv3M)
- - 😝 [The sexiest housewife in the world ...](http://9gag.com/gag/adBOpeV)
- - 👉 [20. Gallery memeories](http://9gag.com/gag/avyeg7q)<!-- MEMES:END -->
+ - 😝 [That&#39;s one lucky boyfriend](http://9gag.com/gag/ae9O00v)
+ - 😝 [RELEASE THE JUGGERNAUT!!!](http://9gag.com/gag/aAyEpqg)
+ - 💣 [Black people hiking](http://9gag.com/gag/aVvEewn)
+ - 😝 [Drunk Japanese girl wants new experiences](http://9gag.com/gag/a7oebAw)
+ - 👉 [New road layout](http://9gag.com/gag/apRDoX8)<!-- MEMES:END -->
 
 ---
 

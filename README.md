@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Tweetbot creators tease Phoenix, a new Bluesky client](https://appleinsider.com/articles/25/03/05/tweetbot-creators-tease-phoenix-a-new-bluesky-client?utm_medium=rss)
- - [SpecterOps, a cybersecurity company focused on detecting and addressing identity-based attack paths, raised a $75M Series B led by Insight Partners &lpar;Duncan Riley/SiliconANGLE&rpar;](http://www.techmeme.com/250305/p44#a250305p44)
- - [Reddit will warn users who repeatedly upvote banned content](https://www.theverge.com/news/625075/reddit-will-warn-users-who-repeatedly-upvote-banned-content)
- - [This Google change is breaking some digital photo frames](https://www.theverge.com/news/623306/google-photos-digital-photo-frame-auto-sync-going-away)
- - [The Trump administration wants to review all prospective citizens’ social media accounts](https://www.theverge.com/policy/624945/trump-uscis-social-media-review-policy)<!-- TECH:END -->
+ - [Broadcom fixes three VMware zero-days exploited in the wild; attackers with admin privileges can chain the flaws to escape the virtual machine&#39;s sandbox &lpar;Sergiu Gatlan/BleepingComputer&rpar;](http://www.techmeme.com/250305/p48#a250305p48)
+ - [Our first look at Apple’s sky blue MacBook Air](https://www.theverge.com/news/625082/macbook-air-sky-blue-photos-hands-on-studio-ipad)
+ - [Keychron K10 Max review: Sturdy all-round mechanical keyboard](https://appleinsider.com/articles/25/03/06/keychron-k10-max-review-sturdy-all-round-mechanical-keyboard?utm_medium=rss)
+ - [Streaming on Disney Plus: 20 TV Shows You Should Definitely Watch Right Now](https://www.cnet.com/tech/services-and-software/best-disney-plus-tv-shows-2025/#ftag=CAD590a51e)
+ - [The new M4 MacBook Air supports two monitors of up to 6K resolution each, plus the built-in display simultaneously, addressing a limitation of previous models &lpar;William Gallagher/AppleInsider&rpar;](http://www.techmeme.com/250305/p47#a250305p47)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

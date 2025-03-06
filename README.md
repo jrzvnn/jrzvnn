@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [20. Gallery memeories](http://9gag.com/gag/avyeg7q)
- - 😝 [Nothing good can come of this](http://9gag.com/gag/azxPjYq)
- - 💣 [Name a bigger downgrade](http://9gag.com/gag/adBOjEB)
- - 😝 [I don&#39;t have a title because I&#39;m no aristocrat](http://9gag.com/gag/aVvEWEn)
- - 👉 [`Teams have been rebalanced](http://9gag.com/gag/a0eVj0X)<!-- MEMES:END -->
+ - 😝 [That&#39;s one lucky boyfriend](http://9gag.com/gag/ae9O00v)
+ - 😝 [New road layout](http://9gag.com/gag/apRDoX8)
+ - 💣 [What happens in the dentist](http://9gag.com/gag/aW4LWWq)
+ - 😝 [This is the day, when comarade Stalin made the most beautiful gift to humanity - died and shat his pants.](http://9gag.com/gag/aByL1pQ)
+ - 👉 [I need that mandarin](http://9gag.com/gag/azxPVKq)<!-- MEMES:END -->
 
 ---
 

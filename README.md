@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Title card](http://9gag.com/gag/a4PzLqv)
  - 😝 [The beer in my fridge before work](http://9gag.com/gag/aByLrLx)
- - 💣 [New road layout](http://9gag.com/gag/apRDoX8)
  - 😝 [The sexiest housewife in the world ...](http://9gag.com/gag/adBOpeV)
- - 👉 [What\u2019s your favorite Pok\u00e9mon?](http://9gag.com/gag/a1mDAb2)<!-- MEMES:END -->
+ - 💣 [The damn alarm\u2026](http://9gag.com/gag/ae9O3jb)
+ - 😝 [What\u2019s your favorite Pok\u00e9mon?](http://9gag.com/gag/a1mDAb2)
+ - 👉 [That&#39;s one lucky boyfriend](http://9gag.com/gag/ae9O00v)<!-- MEMES:END -->
 
 ---
 

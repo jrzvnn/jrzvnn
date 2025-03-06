@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Trump’s first 100 days: all the news affecting the tech industry](https://www.theverge.com/24348851/donald-trump-presidency-tech-science-news)
  - [The US Department of Labor has been investigating Scale AI for compliance with the Fair Labor Standards Act, a source says since at least August 2024 &lpar;Charles Rollet/TechCrunch&rpar;](http://www.techmeme.com/250306/p35#a250306p35)
  - [FCC chair says we&amp;#8217;re too dependent on GPS and wants to explore &amp;#8216;alternatives&amp;#8217;](https://www.theverge.com/news/625671/fcc-vote-gps-911-technologies-inquiry)
  - [HPE reports Q1 revenue up 16% YoY to $7.85B, vs. $7.82B est., Q2 and FY 2025 guidance below est., and plans to cut ~2,500 employees; HPE drops 16%+ after hours &lpar;Jordan Novet/CNBC&rpar;](http://www.techmeme.com/250306/p34#a250306p34)
- - [Intuitive Machines Lander Touches Down on Moon, But Lands Wonky](https://www.cnet.com/science/space/what-happened-when-intuitive-machines-athena-lander-touched-down-on-moon-status-unknown-landing-was-wonky/#ftag=CAD590a51e)
- - [Trump’s Spy Chief Urged to Declassify Details of Secret Surveillance Program](https://www.wired.com/story/tulsi-gabbard-declassify-details-of-secret-surveillance-program/)<!-- TECH:END -->
+ - [Intuitive Machines Lander Touches Down on Moon, But Lands Wonky](https://www.cnet.com/science/space/what-happened-when-intuitive-machines-athena-lander-touched-down-on-moon-status-unknown-landing-was-wonky/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

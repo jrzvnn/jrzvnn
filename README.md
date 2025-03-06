@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Tel Aviv-based Grain, which helps businesses find the best FX hedges using FX derivatives and AI, emerges from stealth with a $33M Series A and an $18M seed &lpar;Ingrid Lunden/TechCrunch&rpar;](http://www.techmeme.com/250305/p50#a250305p50)
  - [MongoDB Q4: revenue up ~20% YoY to $548.4M, vs. $519.6M est., and projects the slowest growth for FY 2026 since going public in 2017; MDB drops 16%+ after hours &lpar;Jordan Novet/CNBC&rpar;](http://www.techmeme.com/250305/p49#a250305p49)
  - [Broadcom fixes three VMware zero-days exploited in the wild; attackers with admin privileges can chain the flaws to escape the virtual machine&#39;s sandbox &lpar;Sergiu Gatlan/BleepingComputer&rpar;](http://www.techmeme.com/250305/p48#a250305p48)
  - [Our first look at Apple’s sky blue MacBook Air](https://www.theverge.com/news/625082/macbook-air-sky-blue-photos-hands-on-studio-ipad)
- - [Keychron K10 Max review: Sturdy all-round mechanical keyboard](https://appleinsider.com/articles/25/03/06/keychron-k10-max-review-sturdy-all-round-mechanical-keyboard?utm_medium=rss)
- - [Streaming on Disney Plus: 20 TV Shows You Should Definitely Watch Right Now](https://www.cnet.com/tech/services-and-software/best-disney-plus-tv-shows-2025/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Keychron K10 Max review: Sturdy all-round mechanical keyboard](https://appleinsider.com/articles/25/03/06/keychron-k10-max-review-sturdy-all-round-mechanical-keyboard?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

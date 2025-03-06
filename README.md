@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Bro is an 9gagger](http://9gag.com/gag/aLneKov)
- - 😝 [New road layout](http://9gag.com/gag/apRDoX8)
+ - 😝 [Taking care of your bird!](http://9gag.com/gag/aXPNpMg)
+ - 😝 [What\u2019s your favorite Pok\u00e9mon?](http://9gag.com/gag/a1mDAb2)
  - 💣 [Do not the cat](http://9gag.com/gag/a6Z97QN)
- - 😝 [Tongue-eating parasite replaces the fish&#39;s tongue, by eating it first](http://9gag.com/gag/a87mMm1)
- - 👉 [Drunk Japanese girl wants new experiences](http://9gag.com/gag/a7oebAw)<!-- MEMES:END -->
+ - 😝 [Drunk Japanese girl wants new experiences](http://9gag.com/gag/a7oebAw)
+ - 👉 [That&#39;s one lucky boyfriend](http://9gag.com/gag/ae9O00v)<!-- MEMES:END -->
 
 ---
 

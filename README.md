@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Ocean Two, but GET CAUGHT! Best Acting, Top Script!](http://9gag.com/gag/aVvEQOw)
- - 😝 [He got himself a painting because he saved the village](http://9gag.com/gag/a5QBP3V)
- - 💣 [Wonderful culture](http://9gag.com/gag/aQzQ44q)
- - 😝 [Shrek might become clich\u00e9](http://9gag.com/gag/aMVmbj6)
- - 👉 [You can see the steam coming out of her ears](http://9gag.com/gag/azxPb0p)<!-- MEMES:END -->
+ - 😝 [When a young white guy landed in Japan](http://9gag.com/gag/aD2nApd)
+ - 😝 [No danger to anyone, even if a ceiling collapses...](http://9gag.com/gag/aNDvrWr)
+ - 💣 [I\u2019m in this photo and I don\u2019t like it](http://9gag.com/gag/ajPO06Q)
+ - 😝 [What\u2019s your favorite Pok\u00e9mon?](http://9gag.com/gag/a1mDAb2)
+ - 👉 [Taking care of your bird!](http://9gag.com/gag/aXPNpMg)<!-- MEMES:END -->
 
 ---
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [20. Gallery memeories](http://9gag.com/gag/avyeg7q)
  - 😝 [Nothing good can come of this](http://9gag.com/gag/azxPjYq)
- - 😝 [The sexiest housewife in the world ...](http://9gag.com/gag/adBOpeV)
- - 💣 [20. Gallery memeories](http://9gag.com/gag/avyeg7q)
- - 😝 [Name a bigger downgrade](http://9gag.com/gag/adBOjEB)
- - 👉 [I don&#39;t have a title because I&#39;m no aristocrat](http://9gag.com/gag/aVvEWEn)<!-- MEMES:END -->
+ - 💣 [Name a bigger downgrade](http://9gag.com/gag/adBOjEB)
+ - 😝 [I don&#39;t have a title because I&#39;m no aristocrat](http://9gag.com/gag/aVvEWEn)
+ - 👉 [`Teams have been rebalanced](http://9gag.com/gag/a0eVj0X)<!-- MEMES:END -->
 
 ---
 

@@ -167,10 +167,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [Title card](http://9gag.com/gag/a4PzLqv)
- - 😝 [Dad pranks daughter](http://9gag.com/gag/ajPO6jR)
- - 💣 [I need that mandarin](http://9gag.com/gag/azxPVKq)
- - 😝 [Taking care of your bird!](http://9gag.com/gag/aXPNpMg)
- - 👉 [That&#39;s one lucky boyfriend](http://9gag.com/gag/ae9O00v)<!-- MEMES:END -->
+ - 😝 [The beer in my fridge before work](http://9gag.com/gag/aByLrLx)
+ - 💣 [New road layout](http://9gag.com/gag/apRDoX8)
+ - 😝 [The sexiest housewife in the world ...](http://9gag.com/gag/adBOpeV)
+ - 👉 [What\u2019s your favorite Pok\u00e9mon?](http://9gag.com/gag/a1mDAb2)<!-- MEMES:END -->
 
 ---
 

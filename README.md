@@ -160,8 +160,8 @@ R                        1 repo              ░░░░░░░░░░░�
  - [Gundam GQuuuuuuX will stream on Amazon next month](https://www.theverge.com/tv/625672/gundam-gquuuuuux-amazon-premiere-date)
  - [The best Xbox controller to buy right now](https://www.theverge.com/23025443/best-xbox-controllers-one-series-x-s)
  - [DoubleZero, which is coordinating a global network of fiber optic cables to improve blockchains, raised $28M in a token round, sources say at a $400M valuation &lpar;Danny Nelson/CoinDesk&rpar;](http://www.techmeme.com/250306/p36#a250306p36)
- - [Samsung Galaxy S25 Edge: What We Know About the Upcoming Slimmer Phone](https://www.cnet.com/tech/mobile/samsung-galaxy-s25-edge-what-we-know-about-the-upcoming-slimmer-phone/#ftag=CAD590a51e)
- - [Trump’s first 100 days: all the news affecting the tech industry](https://www.theverge.com/24348851/donald-trump-presidency-tech-science-news)<!-- TECH:END -->
+ - [Trump’s first 100 days: all the news affecting the tech industry](https://www.theverge.com/24348851/donald-trump-presidency-tech-science-news)
+ - [The US Department of Labor has been investigating Scale AI for compliance with the Fair Labor Standards Act, a source says since at least August 2024 &lpar;Charles Rollet/TechCrunch&rpar;](http://www.techmeme.com/250306/p35#a250306p35)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

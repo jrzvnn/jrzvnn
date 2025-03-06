@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Revlon One-Step Volumizer Plus Review: Hot Looks for Less](https://www.wired.com/review/revlon-one-step-volumizer-plus/)
  - [Sources: President Trump is set to meet the CEOs of HP, Intel, IBM, and Qualcomm on March 10, as new US tariffs threaten to roil the PC hardware industry &lpar;Bloomberg&rpar;](http://www.techmeme.com/250306/p12#a250306p12)
  - [PitchBook: women founders and investors raised $38.8B in the US in 2024, up 27% YoY but coming from a 25.1% share of total VC funding, down from 26.4% in 2023 &lpar;Dean Takahashi/VentureBeat&rpar;](http://www.techmeme.com/250306/p11#a250306p11)
  - [Apple&#39;s mmWave C1 modem won&#39;t launch until 2026](https://appleinsider.com/articles/25/03/06/apples-mmwave-c1-modem-wont-launch-until-2026?utm_medium=rss)
- - [This Goopy Seaweed Slurry Could Make Its Way Into Everything You Eat and Wear](https://www.wired.com/story/marine-biologics-seaweed-supercrude/)
- - [Kuo: Apple aims to release its first book-style foldable iPhone in late 2026, costing $2,000+ with a ~7.8&quot; &quot;crease-free&quot; inner display and a 5.5&quot; outer display &lpar;Eric Slivka/MacRumors&rpar;](http://www.techmeme.com/250306/p10#a250306p10)<!-- TECH:END -->
+ - [Best Mattress Toppers for 2025, Tested by Our Sleep Experts](https://www.cnet.com/health/sleep/best-mattress-toppers/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

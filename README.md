@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [The sexiest housewife in the world ...](http://9gag.com/gag/adBOpeV)
- - 😝 [That&#39;s one lucky boyfriend](http://9gag.com/gag/ae9O00v)
- - 💣 [The damn alarm\u2026](http://9gag.com/gag/ae9O3jb)
- - 😝 [Title card](http://9gag.com/gag/a4PzLqv)
- - 👉 [I like the blue in white one personality](http://9gag.com/gag/aAyEYzg)<!-- MEMES:END -->
+ - 😝 [Wonderful culture](http://9gag.com/gag/aQzQ44q)
+ - 😝 [Shrek might become clich\u00e9](http://9gag.com/gag/aMVmbj6)
+ - 💣 [He got himself a painting because he saved the village](http://9gag.com/gag/a5QBP3V)
+ - 😝 [Flashbacks. Nostalgia. Dad&#39;s happy thoughts came back in a flash](http://9gag.com/gag/aGy8RXZ)
+ - 👉 [You can see the steam coming out of her ears](http://9gag.com/gag/azxPb0p)<!-- MEMES:END -->
 
 ---
 

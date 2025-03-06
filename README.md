@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The best indie games we’re playing right now](https://www.theverge.com/24339574/indie-games-recommendations-pc-switch-steam-deck-best-new-hidden-gems)
+ - [Trump’s first 100 days: all the news affecting the tech industry](https://www.theverge.com/24348851/donald-trump-presidency-tech-science-news)
  - [Reddit adds new tools, including Post Insights and Rules Check, which lets users see if what they are posting potentially goes against a subreddit&#39;s rules &lpar;Mariella Moon/Engadget&rpar;](http://www.techmeme.com/250306/p22#a250306p22)
  - [Apple investigated making a Surface-like keyboard for iPad Pro](https://appleinsider.com/articles/22/05/03/apple-investigated-making-a-surface-like-keyboard-for-ipad-pro?utm_medium=rss)
- - [Best Merino Wool Clothing &lpar;2025&rpar;: Base Layers, Hoodies, Jackets &amp; More](https://www.wired.com/story/best-merino-wool-clothes/)
- - [Reddit will tell you if your post breaks the rules before you publish it](https://www.theverge.com/news/625038/reddit-posts-features-rules-check-subreddit-recommendations)
- - [Telo’s electric MT1 mini-truck gets a new preproduction prototype](https://www.theverge.com/news/625234/telo-mt1-preproduction-compact-mini-truck-ev)<!-- TECH:END -->
+ - [Best Merino Wool Clothing &lpar;2025&rpar;: Base Layers, Hoodies, Jackets &amp; More](https://www.wired.com/story/best-merino-wool-clothes/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [HPE reports Q1 revenue up 16% YoY to $7.85B, vs. $7.82B est., Q2 and FY 2025 guidance below est., and plans to cut ~2,500 employees; HPE drops 16%+ after hours &lpar;Jordan Novet/CNBC&rpar;](http://www.techmeme.com/250306/p34#a250306p34)
+ - [Trump’s Spy Chief Urged to Declassify Details of Secret Surveillance Program](https://www.wired.com/story/tulsi-gabbard-declassify-details-of-secret-surveillance-program/)
  - [Broadcom reports Q1 revenue up 25% YoY to $14.92B, vs. $14.61B est., and forecasts Q2 revenue above estimates; AVGO jumps 8%+ after hours &lpar;Zaheer Kachwala/Reuters&rpar;](http://www.techmeme.com/250306/p33#a250306p33)
  - [US State Department officials say they launched an effort to use AI to review social media accounts of foreign students to revoke visas of &quot;pro-Hamas&quot; students &lpar;Marc Caputo/Axios&rpar;](http://www.techmeme.com/250306/p32#a250306p32)
- - [A Sensitive Complex Housing a CIA Facility Was on GSA&#39;s List of US Properties for Sale](https://www.wired.com/story/gsa-sale-cia-facility/)
- - [The US Secret Service, Europol, and others take down Garantex, a Russian cryptocurrency exchange accused of being associated with ransomware hackers &lpar;Lorenzo Franceschi-Bicchierai/TechCrunch&rpar;](http://www.techmeme.com/250306/p31#a250306p31)
- - [Ontario&#39;s Contract with Starlink is Canceled, Even if US Tariffs are Permanently Lifted](https://www.cnet.com/home/internet/ontarios-contract-with-starlink-is-canceled-even-if-us-tariffs-are-lifted-permanently/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [A Sensitive Complex Housing a CIA Facility Was on GSA&#39;s List of US Properties for Sale](https://www.wired.com/story/gsa-sale-cia-facility/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

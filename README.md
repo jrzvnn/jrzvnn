@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [The sexiest housewife in the world ...](http://9gag.com/gag/adBOpeV)
- - 😝 [20. Gallery memeories](http://9gag.com/gag/avyeg7q)
- - 💣 [Nothing good can come of this](http://9gag.com/gag/azxPjYq)
- - 😝 [I don&#39;t have a title because I&#39;m no aristocrat](http://9gag.com/gag/aVvEWEn)
- - 👉 [Youtuber found Tony from LC Sign](http://9gag.com/gag/aGy8RMz)<!-- MEMES:END -->
+ - 😝 [Taking care of your bird!](http://9gag.com/gag/aXPNpMg)
+ - 😝 [You can see the steam coming out of her ears](http://9gag.com/gag/azxPb0p)
+ - 💣 [Billionaire Tax Reality...](http://9gag.com/gag/aLne985)
+ - 😝 [I need that mandarin](http://9gag.com/gag/azxPVKq)
+ - 👉 [What happens in the dentist](http://9gag.com/gag/aW4LWWq)<!-- MEMES:END -->
 
 ---
 

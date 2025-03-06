@@ -167,10 +167,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [Shrek might become clich\u00e9](http://9gag.com/gag/aMVmbj6)
- - 😝 [He got himself a painting because he saved the village](http://9gag.com/gag/a5QBP3V)
- - 💣 [Flashbacks. Nostalgia. Dad&#39;s happy thoughts came back in a flash](http://9gag.com/gag/aGy8RXZ)
- - 😝 [You can see the steam coming out of her ears](http://9gag.com/gag/azxPb0p)
- - 👉 [27 club](http://9gag.com/gag/apRDv3M)<!-- MEMES:END -->
+ - 😝 [What\u2019s your favorite Pok\u00e9mon?](http://9gag.com/gag/a1mDAb2)
+ - 💣 [Do not the cat](http://9gag.com/gag/a6Z97QN)
+ - 😝 [Tongue-eating parasite replaces the fish&#39;s tongue, by eating it first](http://9gag.com/gag/a87mMm1)
+ - 👉 [I need that mandarin](http://9gag.com/gag/azxPVKq)<!-- MEMES:END -->
 
 ---
 

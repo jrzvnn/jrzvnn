@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Apple finally accepts that 64GB is inadequate for iPhones and iPads](https://appleinsider.com/articles/25/03/06/apple-finally-accepts-that-64gb-is-inadequate-for-iphones-and-ipads?utm_medium=rss)
  - [POC Obex Connect Headset Review: Loud and Clear](https://www.wired.com/review/poc-obex-connect/)
  - [Trump’s first 100 days: all the news affecting the tech industry](https://www.theverge.com/24348851/donald-trump-presidency-tech-science-news)
  - [The Take It Down Act isn’t a law, it’s a weapon](https://www.theverge.com/policy/624974/take-it-down-act-deepfakes-nonconsensual-pornography-trump-constitutional-crisis)
- - [1Password adds a feature to help find a login, password, or access code by adding a specific physical location to items in a new Nearby section of the app &lpar;Andrew Liszewski/The Verge&rpar;](http://www.techmeme.com/250306/p19#a250306p19)
- - [Get the latest MacBook with this affordable monthly subscription](https://appleinsider.com/articles/25/03/06/get-the-latest-macbook-with-this-affordable-monthly-subscription?utm_medium=rss)<!-- TECH:END -->
+ - [1Password adds a feature to help find a login, password, or access code by adding a specific physical location to items in a new Nearby section of the app &lpar;Andrew Liszewski/The Verge&rpar;](http://www.techmeme.com/250306/p19#a250306p19)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

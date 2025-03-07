@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [SpaceX’s latest Starship explosion lights up the sky over the Caribbean again](https://www.theverge.com/news/625826/spacex-starship-rocket-launch-explosion-8th-test-flight-delay)
  - [Reflection AI, which wants to achieve superintelligence through autonomous coding agents, emerges from stealth with a $105M Series A and $25M in seed funding &lpar;Shirin Ghaffary/Bloomberg&rpar;](http://www.techmeme.com/250307/p10#a250307p10)
  - [Netflix brought back A Different World of AI-upscaled nightmare fuel](https://www.theverge.com/news/625904/netflix-a-different-world-ai-upscaling-nightmare)
  - [Source: Microsoft is testing out ways to replace OpenAI&#39;s models in Copilot with models from other AI labs including xAI, Meta, and DeepSeek &lpar;Aaron Holmes/The Information&rpar;](http://www.techmeme.com/250307/p9#a250307p9)
- - [Nintendo Switch 2 announcement: all the news on the next console](https://www.theverge.com/24284512/nintendo-switch-2-direct-news-trailers-games-features)
- - [Switch 2: all the news and rumors on Nintendo’s next console](https://www.theverge.com/24051677/nintendo-switch-2-pro-rumors-news)<!-- TECH:END -->
+ - [Nintendo Switch 2 announcement: all the news on the next console](https://www.theverge.com/24284512/nintendo-switch-2-direct-news-trailers-games-features)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

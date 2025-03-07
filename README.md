@@ -166,10 +166,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Title](http://9gag.com/gag/azxPr9N)
- - 😝 [Darth Vader daddy type](http://9gag.com/gag/aKG9gLW)
- - 💣 [Time Flies](http://9gag.com/gag/aE0VRX9)
  - 😝 [WTF? Why does the ps3 need an update in 2025?!](http://9gag.com/gag/amoGr14)
+ - 😝 [When you know you\u2019re stating a company, not a modelling agency!](http://9gag.com/gag/aMVmwyG)
+ - 💣 [Title](http://9gag.com/gag/azxPr9N)
+ - 😝 [Crazy oldman and hero civilian](http://9gag.com/gag/aE0VR9o)
  - 👉 [This is a very rare case](http://9gag.com/gag/a0eVdoZ)<!-- MEMES:END -->
 
 ---

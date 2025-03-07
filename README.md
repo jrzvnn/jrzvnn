@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Indonesia starts to lift iPhone 16 ban, but hurdles remain](https://appleinsider.com/articles/25/03/07/indonesia-starts-to-lift-iphone-16-ban-but-hurdles-remain?utm_medium=rss)
  - [Intuitive Machine’s lunar landing goes sideways again](https://www.theverge.com/news/625818/athena-moon-lander-intuitive-machines-nasa-sideways)
  - [Analysis: the $TRUMP memecoin generated $314M from token sales and $36M in fees within three weeks of launch, likely raising conflict of interest concerns &lpar;Financial Times&rpar;](http://www.techmeme.com/250307/p4#a250307p4)
  - [Can Matchmaking Platforms Save Us From Dating App Fatigue?](https://www.wired.com/story/dating-apps-rise-of-matchmaking-platforms/)
- - [Best 7 Coffee Makers &lpar;2025&rpar;: Drip Is Drippin&#39;](https://www.wired.com/gallery/best-coffee-makers/)
- - [What 2 Wellness Editors Learned From Taking the Apple Hearing Test With Our AirPods](https://www.cnet.com/health/personal-care/what-wellness-editors-learned-taking-apple-hearing-test-with-airpods/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Best 7 Coffee Makers &lpar;2025&rpar;: Drip Is Drippin&#39;](https://www.wired.com/gallery/best-coffee-makers/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

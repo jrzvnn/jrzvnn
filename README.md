@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Trump&#39;s Strategic Bitcoin Reserve, which will hold only assets that have been forfeited, disappoints traders who hoped the government would begin buying bitcoin &lpar;Nikou Asgari/Financial Times&rpar;](http://www.techmeme.com/250307/p7#a250307p7)
+ - [AI Thinks It Cracked Kryptos. The Artist Behind It Says No Chance](https://www.wired.com/story/plaintext-kryptos-code-artificial-intelligence/)
+ - [Four book logging apps to keep you reading](https://www.theverge.com/tech/625223/book-log-read-goodreads)
  - [Apple’s chip bumps, big and small](https://www.theverge.com/the-vergecast/625829/apple-ipad-air-macbook-air-vergecast)
- - [Source: Microsoft has completed training a family of models, codenamed MAI, and is experimenting with swapping out OpenAI&#39;s models in Copilot for the MAI models &lpar;Aaron Holmes/The Information&rpar;](http://www.techmeme.com/250307/p6#a250307p6)
- - [iPhone 17 Pro Max may get thicker than the iPhone 16 Pro](https://appleinsider.com/articles/25/03/07/iphone-17-pro-may-get-thicker-than-the-iphone-16-pro?utm_medium=rss)
- - [Is It Electric or Magnetic? Depends on Where You Stand](https://www.wired.com/story/is-it-electric-or-magnetic/)
- - [MWC 2025 was all about the odds and ends](https://www.theverge.com/gadgets/625232/mwc-2025-xiaomi-nothing-samsung-display-foldables)<!-- TECH:END -->
+ - [Source: Microsoft has completed training a family of models, codenamed MAI, and is experimenting with swapping out OpenAI&#39;s models in Copilot for the MAI models &lpar;Aaron Holmes/The Information&rpar;](http://www.techmeme.com/250307/p6#a250307p6)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

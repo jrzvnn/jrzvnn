@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Taking care of your bird!](http://9gag.com/gag/aXPNpMg)
- - 😝 [You can see the steam coming out of her ears](http://9gag.com/gag/azxPb0p)
- - 💣 [Billionaire Tax Reality...](http://9gag.com/gag/aLne985)
  - 😝 [I need that mandarin](http://9gag.com/gag/azxPVKq)
- - 👉 [What happens in the dentist](http://9gag.com/gag/aW4LWWq)<!-- MEMES:END -->
+ - 😝 [Hmmm...](http://9gag.com/gag/an7nY0V)
+ - 💣 [NOPE NOPE NOPE](http://9gag.com/gag/avyeP1E)
+ - 😝 [I&#39;ve been trapped here for hours...](http://9gag.com/gag/aryAK8d)
+ - 👉 [Taking care of your bird!](http://9gag.com/gag/aXPNpMg)<!-- MEMES:END -->
 
 ---
 

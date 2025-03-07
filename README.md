@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [WTF? Why does the ps3 need an update in 2025?!](http://9gag.com/gag/amoGr14)
- - 😝 [This is how ancient Chinese people used to send secret messages](http://9gag.com/gag/a4PzL0Q)
- - 💣 [Crazy oldman and hero civilian](http://9gag.com/gag/aE0VR9o)
- - 😝 [Tongue-eating parasite replaces the fish&#39;s tongue, by eating it first](http://9gag.com/gag/a87mMm1)
- - 👉 [Title](http://9gag.com/gag/azxPr9N)<!-- MEMES:END -->
+ - 😝 [When your hands are not as important as the car..](http://9gag.com/gag/awymKDx)
+ - 😝 [Drunk Japanese girl wants new experiences](http://9gag.com/gag/a7oebAw)
+ - 💣 [WTF? Why does the ps3 need an update in 2025?!](http://9gag.com/gag/amoGr14)
+ - 😝 [What happens in the dentist](http://9gag.com/gag/aW4LWWq)
+ - 👉 [Tongue-eating parasite replaces the fish&#39;s tongue, by eating it first](http://9gag.com/gag/a87mMm1)<!-- MEMES:END -->
 
 ---
 

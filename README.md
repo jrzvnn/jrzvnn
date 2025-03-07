@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Unsealed US indictment: Chinese hacking contractor i-Soon charged Chinese government customers $10K to $75K for each email inbox of US organizations it breached &lpar;Ryan Gallagher/Bloomberg&rpar;](http://www.techmeme.com/250307/p11#a250307p11)
  - [AMD is launching its latest Ryzen 9 X3D gaming processors on March 12th](https://www.theverge.com/news/625984/amd-ryzen-9-x3d-9950-9900-16-zen-5-cores-launch)
  - [The Nintendo Switch 2 will have NFC and Wi-Fi 6, FCC filings show](https://www.theverge.com/news/625931/nintendo-switch-2-fcc-nfc-wi-fi-6-usb)
  - [Nintendo Switch 2 announcement: all the news on the next console](https://www.theverge.com/24284512/nintendo-switch-2-direct-news-trailers-games-features)
- - [Switch 2: all the news and rumors on Nintendo’s next console](https://www.theverge.com/24051677/nintendo-switch-2-pro-rumors-news)
- - [SpaceX’s latest Starship explosion lights up the sky over the Caribbean again](https://www.theverge.com/news/625826/spacex-starship-rocket-launch-explosion-8th-test-flight-delay)<!-- TECH:END -->
+ - [Switch 2: all the news and rumors on Nintendo’s next console](https://www.theverge.com/24051677/nintendo-switch-2-pro-rumors-news)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

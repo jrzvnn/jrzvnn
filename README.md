@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [iPhone &#39;batterygate&#39; legal drama isn&#39;t quite done yet](https://appleinsider.com/articles/25/03/07/iphone-batterygate-legal-drama-isnt-quite-done-yet?utm_medium=rss)
+ - [MacBook Air, Mac Studio, iPad Air and more on the AppleInsider Podcast](https://appleinsider.com/articles/25/03/07/macbook-air-mac-studio-ipad-air-and-more-on-the-appleinsider-podcast?utm_medium=rss)
+ - [AOC Q27G4ZD QD-OLED Gaming Monitor Review: Bright and Shiny](https://www.wired.com/review/aoc-q27g4zd-review/)
  - [Investors are turning to &quot;AI wrappers&quot;, startups that leverage existing LLMs by other developers to build tools for coders, clinicians, lawyers, and others &lpar;Kate Clark/Bloomberg&rpar;](http://www.techmeme.com/250307/p5#a250307p5)
- - [T3 Aire IQ Review: A Great Hair Dryer, in Theory](https://www.wired.com/review/t3-aire-iq/)
- - [iPhone 17 Pro may get thicker than the iPhone 16 Pro](https://appleinsider.com/articles/25/03/07/iphone-17-pro-may-get-thicker-than-the-iphone-16-pro?utm_medium=rss)
- - [Apple beats &#39;Tetris&#39; movie lawsuit](https://appleinsider.com/articles/25/03/07/apple-beats-tetris-movie-lawsuit?utm_medium=rss)
- - [GLP-1 Meds: Potential Benefits, Risk Factors and Overdose Info](https://www.cnet.com/health/medical/glp-1-potential-benefits-risk-factors-overdose-info/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Better In-Flight Wi-Fi Is Coming. United Installs Starlink on Its First Plane](https://www.cnet.com/tech/mobile/better-in-flight-wi-fi-is-coming-united-installs-starlink-on-its-first-plane/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

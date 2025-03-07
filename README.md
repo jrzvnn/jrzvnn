@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [In the 80s patient \u201cGeorge\u201d with severe OCD shot himself in the head attempting suicide. Rather than killing him, the bullet destroyed the part of his brain responsible for OCD.](http://9gag.com/gag/avyeLjO)
+ - 😝 [Spain fought them for 700 years only to let them right back in.](http://9gag.com/gag/a4PzYqd)
+ - 💣 [Dat child... taking all the blame](http://9gag.com/gag/aYQOL0w)
  - 😝 [Umm.... \ud83d\ude2e](http://9gag.com/gag/a5QBrVN)
- - 😝 [The incline of this Japanese bridge gives the illusion of being vertical](http://9gag.com/gag/azxPAxm)
- - 💣 [Spain fought them for 700 years only to let them right back in.](http://9gag.com/gag/a4PzYqd)
- - 😝 [Tongue-eating parasite replaces the fish&#39;s tongue, by eating it first](http://9gag.com/gag/a87mMm1)
- - 👉 [When you know you\u2019re stating a company, not a modelling agency!](http://9gag.com/gag/aMVmwyG)<!-- MEMES:END -->
+ - 👉 [Anyone out there know what the hell this is?...Thanks in advance.](http://9gag.com/gag/aKG93j6)<!-- MEMES:END -->
 
 ---
 

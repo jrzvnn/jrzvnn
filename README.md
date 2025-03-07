@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Drunk Japanese girl wants new experiences](http://9gag.com/gag/a7oebAw)
- - 😝 [Time Flies](http://9gag.com/gag/aE0VRX9)
- - 💣 [Dad pranks daughter](http://9gag.com/gag/ajPO6jR)
+ - 😝 [Dad pranks daughter](http://9gag.com/gag/ajPO6jR)
+ - 😝 [Tongue-eating parasite replaces the fish&#39;s tongue, by eating it first](http://9gag.com/gag/a87mMm1)
+ - 💣 [Title](http://9gag.com/gag/azxPr9N)
  - 😝 [This is a very rare case](http://9gag.com/gag/a0eVdoZ)
- - 👉 [When you know you\u2019re stating a company, not a modelling agency!](http://9gag.com/gag/aMVmwyG)<!-- MEMES:END -->
+ - 👉 [Time Flies](http://9gag.com/gag/aE0VRX9)<!-- MEMES:END -->
 
 ---
 

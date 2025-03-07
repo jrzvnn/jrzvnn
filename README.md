@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [A Reddit moderation tool is flagging ‘Luigi’ as potentially violent content](https://www.theverge.com/news/626139/reddit-luigi-mangione-automod-tool)
+ - [US v. Google: all the news from the search antitrust showdown](https://www.theverge.com/23869483/us-v-google-search-antitrust-case-updates)
+ - [Inside the high-wire business of MrBeast](https://www.theverge.com/command-line-newsletter/626330/mrbeast-business-youtube-feastables-fundraising)
  - [The hunt for the next Twitter: all the news about alternative social media platforms](https://www.theverge.com/23686584/twitter-alternative-social-media-platforms-mastodon-bluesky-activitypub-protocol)
- - [Sources: Craig Federighi and other Apple executives voiced concerns that personalized Siri didn&#39;t work properly; some think it has to be rebuilt from scratch &lpar;Mark Gurman/Bloomberg&rpar;](http://www.techmeme.com/250307/p19#a250307p19)
- - [Apple delays upgraded Siri: it’s taking ‘longer than we thought’](https://www.theverge.com/news/626035/apple-delays-upgraded-siri-intelligence-longer-than-we-thought)
- - [Elon Musk’s Neuralink Files to Trademark ‘Telepathy’](https://www.wired.com/story/elon-musks-neuralink-files-trademark-telepathy/)
- - [Sources: Figma has met with banks in recent weeks to discuss an IPO that could come as soon as 2025; EU and US regulators stymied its $20B sale to Adobe in 2023 &lpar;New York Times&rpar;](http://www.techmeme.com/250307/p18#a250307p18)<!-- TECH:END -->
+ - [Sources: Craig Federighi and other Apple executives voiced concerns that personalized Siri didn&#39;t work properly; some think it has to be rebuilt from scratch &lpar;Mark Gurman/Bloomberg&rpar;](http://www.techmeme.com/250307/p19#a250307p19)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

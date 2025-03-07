@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Apple confirms that Apple Intelligence Siri features are taking longer than expected](https://appleinsider.com/articles/25/03/07/apple-confirms-that-apple-intelligence-siri-features-are-taking-longer-than-expected?utm_medium=rss)
+ - [Europe is in talks with SES, Viasat, and others as it rushes to provide Ukraine with alternatives to Starlink, whose service became patchy near the frontline &lpar;Peggy Hollinger/Financial Times&rpar;](http://www.techmeme.com/250307/p13#a250307p13)
  - [Trump’s first 100 days: all the news affecting the tech industry](https://www.theverge.com/24348851/donald-trump-presidency-tech-science-news)
  - [The M4-powered Mac Mini has returned to its Black Friday sale price](https://www.theverge.com/good-deals/625928/apple-m4-mac-mini-desktop-nintendo-switch-games-deal-sale)
- - [Trump&#39;s &#39;Strategic Bitcoin Reserve&#39; Plan Comes With a Twist](https://www.wired.com/story/trumps-strategic-bitcoin-reserve-plan-comes-with-a-twist/)
- - [First Mac Studio M3 Ultra benchmarks significantly outpace the M2 Ultra](https://appleinsider.com/articles/25/03/07/first-mac-studio-m3-ultra-benchmarks-significantly-outpace-the-m2-ultra?utm_medium=rss)
- - [Apple delays upgraded Siri: it’s taking ‘longer than we thought’](https://www.theverge.com/news/626035/apple-delays-upgraded-siri-intelligence-longer-than-we-thought)<!-- TECH:END -->
+ - [Trump’s ‘Strategic Bitcoin Reserve’ Plan Comes With a Twist](https://www.wired.com/story/trumps-strategic-bitcoin-reserve-plan-comes-with-a-twist/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

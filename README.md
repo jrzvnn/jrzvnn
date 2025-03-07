@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Best 7 Coffee Makers &lpar;2025&rpar;: Drip Is Drippin&#39;](https://www.wired.com/gallery/best-coffee-makers/)
+ - [What 2 Wellness Editors Learned From Taking the Apple Hearing Test With Our AirPods](https://www.cnet.com/health/personal-care/what-wellness-editors-learned-taking-apple-hearing-test-with-airpods/#ftag=CAD590a51e)
+ - [Act Now to Lock in an APY up to 4.65%. Today&#39;s CD Rates, March 7, 2025](https://www.cnet.com/personal-finance/banking/act-now-to-lock-in-an-apy-up-to-4-65-todays-cd-rates-march-7-2025/#ftag=CAD590a51e)
  - [Want to Live Longer, Healthier, and Happier? Then Cultivate Your Social Connections](https://www.wired.com/story/want-to-live-longer-healthier-and-happier-cultivate-your-social-connections-wired-health-kasley-killam/)
- - [Android phones are getting lock screen widgets this year](https://www.theverge.com/news/625789/android-phones-lock-screen-widgets-16-qpr1)
- - [An in-depth look at TSMC&#39;s $165B US investment plans: three new Fab 21 phases, two new advanced packaging facilities, and an R&amp;D center, all based in Phoenix &lpar;Anton Shilov/Tom&#39;s Hardware&rpar;](http://www.techmeme.com/250307/p3#a250307p3)
- - [Today&#39;s NYT Mini Crossword Answers for Friday, March 7](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-friday-march-7/#ftag=CAD590a51e)
- - [Best of MWC 2025: Affordable Phones and Cool Camera Concepts](https://www.cnet.com/tech/mobile/best-of-mwc-2025-affordable-phones-and-cool-camera-concepts/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Android phones are getting lock screen widgets this year](https://www.theverge.com/news/625789/android-phones-lock-screen-widgets-16-qpr1)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

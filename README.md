@@ -166,10 +166,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [When your hands are not as important as the car..](http://9gag.com/gag/awymKDx)
- - 😝 [Time Flies](http://9gag.com/gag/aE0VRX9)
- - 💣 [Title](http://9gag.com/gag/azxPr9N)
- - 😝 [I&#39;ve been trapped here for hours...](http://9gag.com/gag/aryAK8d)
+ - 😝 [Title](http://9gag.com/gag/azxPr9N)
+ - 😝 [Darth Vader daddy type](http://9gag.com/gag/aKG9gLW)
+ - 💣 [Time Flies](http://9gag.com/gag/aE0VRX9)
+ - 😝 [WTF? Why does the ps3 need an update in 2025?!](http://9gag.com/gag/amoGr14)
  - 👉 [This is a very rare case](http://9gag.com/gag/a0eVdoZ)<!-- MEMES:END -->
 
 ---

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: Kraken seeks to go public as soon as Q1 2026; the SEC recently agreed to drop its case against Kraken amid a friendlier regulatory climate under Trump &lpar;Olga Kharif/Bloomberg&rpar;](http://www.techmeme.com/250307/p16#a250307p16)
- - [Go Read This: The Verge’s favorite reads from all over the web](https://www.theverge.com/24188803/best-tech-reads-articles-books)
  - [Trump’s first 100 days: all the news affecting the tech industry](https://www.theverge.com/24348851/donald-trump-presidency-tech-science-news)
  - [US tariffs: how Trump’s tax is hitting Big Tech and beyond](https://www.theverge.com/604742/trump-tariffs-canada-mexico-china-updates)
- - [Sources: Cursor maker Anysphere is in talks to raise hundreds of millions at a $10B valuation, up from $2.5B in January, and crossed $100M in ARR in 12 months &lpar;Kate Clark/Bloomberg&rpar;](http://www.techmeme.com/250307/p15#a250307p15)<!-- TECH:END -->
+ - [Uranium is in the crosshairs of the US-Canada tariff battle](https://www.theverge.com/climate-change/626158/trump-tariffs-uranium-nuclear-energy-ai-data-centers)
+ - [Watch 25 of the Best Movies on Netflix Right Now](https://www.cnet.com/tech/services-and-software/best-movies-on-netflix/#ftag=CAD590a51e)
+ - [Sources: Kraken seeks to go public as soon as Q1 2026; the SEC recently agreed to drop its case against Kraken amid a friendlier regulatory climate under Trump &lpar;Olga Kharif/Bloomberg&rpar;](http://www.techmeme.com/250307/p16#a250307p16)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

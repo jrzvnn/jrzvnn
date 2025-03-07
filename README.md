@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Sources: crypto exchange and custodian Gemini has filed confidentially for an IPO; the company is reportedly considering going public as soon as this year &lpar;Bloomberg&rpar;](http://www.techmeme.com/250307/p21#a250307p21)
  - [Jim Jordan subpoena pushes YouTube to restore &amp;#8216;free speech&amp;#8217; like Meta](https://www.theverge.com/news/626320/jim-jordan-alphabet-youtube-subpoena-censorship)
  - [The DOJ Still Wants Google to Sell Off Chrome](https://www.wired.com/story/the-doj-still-wants-google-to-divest-chrome/)
  - [Filings: the US DOJ drops a bid to force Google to sell its AI investments to boost search competition but still seeks a court order requiring it to sell Chrome &lpar;Jody Godoy/Reuters&rpar;](http://www.techmeme.com/250307/p20#a250307p20)
- - [DOGE Has Deployed Its GSAi Custom Chatbot for 1,500 Federal Workers](https://www.wired.com/story/gsai-chatbot-1500-federal-workers/)
- - [A Reddit moderation tool is flagging ‘Luigi’ as potentially violent content](https://www.theverge.com/news/626139/reddit-luigi-mangione-automod-tool)<!-- TECH:END -->
+ - [DOGE Has Deployed Its GSAi Custom Chatbot for 1,500 Federal Workers](https://www.wired.com/story/gsai-chatbot-1500-federal-workers/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

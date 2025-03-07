@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [In the 80s patient \u201cGeorge\u201d with severe OCD shot himself in the head attempting suicide. Rather than killing him, the bullet destroyed the part of his brain responsible for OCD.](http://9gag.com/gag/avyeLjO)
+ - 😝 [When you know you\u2019re stating a company, not a modelling agency!](http://9gag.com/gag/aMVmwyG)
+ - 😝 [Where the trust issues started](http://9gag.com/gag/amoGrqo)
+ - 💣 [This is how ancient Chinese people used to send secret messages](http://9gag.com/gag/a4PzL0Q)
  - 😝 [Spain fought them for 700 years only to let them right back in.](http://9gag.com/gag/a4PzYqd)
- - 💣 [Dat child... taking all the blame](http://9gag.com/gag/aYQOL0w)
- - 😝 [Umm.... \ud83d\ude2e](http://9gag.com/gag/a5QBrVN)
- - 👉 [Anyone out there know what the hell this is?...Thanks in advance.](http://9gag.com/gag/aKG93j6)<!-- MEMES:END -->
+ - 👉 [Title](http://9gag.com/gag/azxPr9N)<!-- MEMES:END -->
 
 ---
 

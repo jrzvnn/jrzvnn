@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Netflix’s plan to spend $18 billion on content is ‘not anywhere near the ceiling’](https://www.theverge.com/news/626102/netflix-18-billion-content-spending)
+ - [JD Vance is posting through it](https://www.theverge.com/tech/626076/jd-vance-x-twitter-arguments)
  - [DeepSeek: all the news about the startup that’s shaking up AI stocks](https://www.theverge.com/24353060/deepseek-ai-china-nvidia-openai)
  - [LG’s new air conditioner directs cool air towards people it detects.](https://www.theverge.com/news/626065/lg-artcool-ai-air-conditioner-room-occupant-sensing)
- - [Apple confirms that Apple Intelligence Siri features are taking longer than expected](https://appleinsider.com/articles/25/03/07/apple-confirms-that-apple-intelligence-siri-features-are-taking-longer-than-expected?utm_medium=rss)
- - [Europe is in talks with SES, Viasat, and others as it rushes to provide Ukraine with alternatives to Starlink, whose service became patchy near the frontline &lpar;Peggy Hollinger/Financial Times&rpar;](http://www.techmeme.com/250307/p13#a250307p13)
- - [Trump’s first 100 days: all the news affecting the tech industry](https://www.theverge.com/24348851/donald-trump-presidency-tech-science-news)<!-- TECH:END -->
+ - [Apple confirms that Apple Intelligence Siri features are taking longer than expected](https://appleinsider.com/articles/25/03/07/apple-confirms-that-apple-intelligence-siri-features-are-taking-longer-than-expected?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

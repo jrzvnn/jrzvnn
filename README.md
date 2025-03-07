@@ -166,10 +166,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [W H I P L A S H](http://9gag.com/gag/amoGzLy)
+ - 😝 [Tongue-eating parasite replaces the fish&#39;s tongue, by eating it first](http://9gag.com/gag/a87mMm1)
+ - 😝 [Darth Vader daddy type](http://9gag.com/gag/aKG9gLW)
+ - 💣 [A very sincere work interview](http://9gag.com/gag/ajPOA1w)
  - 😝 [Spain fought them for 700 years only to let them right back in.](http://9gag.com/gag/a4PzYqd)
- - 💣 [You F-cking USELESS!](http://9gag.com/gag/aYQOpG2)
- - 😝 [A very sincere work interview](http://9gag.com/gag/ajPOA1w)
  - 👉 [I need that mandarin](http://9gag.com/gag/azxPVKq)<!-- MEMES:END -->
 
 ---

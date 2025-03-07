@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Tongue-eating parasite replaces the fish&#39;s tongue, by eating it first](http://9gag.com/gag/a87mMm1)
- - 😝 [Darth Vader daddy type](http://9gag.com/gag/aKG9gLW)
- - 💣 [A very sincere work interview](http://9gag.com/gag/ajPOA1w)
- - 😝 [Spain fought them for 700 years only to let them right back in.](http://9gag.com/gag/a4PzYqd)
- - 👉 [I need that mandarin](http://9gag.com/gag/azxPVKq)<!-- MEMES:END -->
+ - 😝 [20. Gallery memeories](http://9gag.com/gag/avyeg7q)
+ - 😝 [I don&#39;t have a title because I&#39;m no aristocrat](http://9gag.com/gag/aVvEWEn)
+ - 💣 [This is the day, when comarade Stalin made the most beautiful gift to humanity - died and shat his pants.](http://9gag.com/gag/aByL1pQ)
+ - 😝 [Some people just want to watch the world burn](http://9gag.com/gag/aE0VnAn)
+ - 👉 [`Teams have been rebalanced](http://9gag.com/gag/a0eVj0X)<!-- MEMES:END -->
 
 ---
 

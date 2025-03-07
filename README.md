@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Dad pranks daughter](http://9gag.com/gag/ajPO6jR)
- - 😝 [Tongue-eating parasite replaces the fish&#39;s tongue, by eating it first](http://9gag.com/gag/a87mMm1)
+ - 😝 [When your hands are not as important as the car..](http://9gag.com/gag/awymKDx)
+ - 😝 [Time Flies](http://9gag.com/gag/aE0VRX9)
  - 💣 [Title](http://9gag.com/gag/azxPr9N)
- - 😝 [This is a very rare case](http://9gag.com/gag/a0eVdoZ)
- - 👉 [Time Flies](http://9gag.com/gag/aE0VRX9)<!-- MEMES:END -->
+ - 😝 [I&#39;ve been trapped here for hours...](http://9gag.com/gag/aryAK8d)
+ - 👉 [This is a very rare case](http://9gag.com/gag/a0eVdoZ)<!-- MEMES:END -->
 
 ---
 

@@ -160,8 +160,8 @@ R                        1 repo              ░░░░░░░░░░░�
  - [Apple Music 1&#39;s newest DJ is King Charles III on &#39;The King&#39;s Music Room&#39;](https://appleinsider.com/articles/25/03/07/apple-music-1s-newest-dj-is-king-charles-iii-on-the-kings-music-room?utm_medium=rss)
  - [Trump’s first 100 days: all the news affecting the tech industry](https://www.theverge.com/24348851/donald-trump-presidency-tech-science-news)
  - [Former OpenAI policy researcher Miles Brundage criticizes OpenAI for &quot;rewriting the history of GPT-2&quot;, after OpenAI outlined its safety and alignment philosophy &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/250306/p41#a250306p41)
- - [CoreWeave denies an FT report that Microsoft withdrew from some of its agreements ahead of CoreWeave&#39;s IPO, saying &quot;there have been no contract cancellations&quot; &lpar;Angela Christy/Reuters&rpar;](http://www.techmeme.com/250306/p40#a250306p40)
- - [MWC 2025 Live: All the Latest Phones, Robots, Mobile Gadgets and AI From Barcelona](https://www.cnet.com/tech/mobile/mwc-2025-live-blog/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [I Saw Shockingly Thin Phones Everywhere at MWC 2025. But Do People Even Want Them?](https://www.cnet.com/tech/mobile/i-saw-shockingly-thin-phones-everywhere-at-mwc-2025-but-do-people-even-want-them/#ftag=CAD590a51e)
+ - [MWC 2025: I Took Hundreds of Photos With the Xiaomi 15 Ultra. These Are My Faves](https://www.cnet.com/pictures/i-took-hundreds-of-photos-with-the-xiaomi-15-ultra-at-mwc-2025-these-are-my-favorites/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

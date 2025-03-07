@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [Tongue-eating parasite replaces the fish&#39;s tongue, by eating it first](http://9gag.com/gag/a87mMm1)
  - 😝 [Taking care of your bird!](http://9gag.com/gag/aXPNpMg)
- - 😝 [Spain fought them for 700 years only to let them right back in.](http://9gag.com/gag/a4PzYqd)
- - 💣 [Op is a lucky man](http://9gag.com/gag/aVvEQ7d)
- - 😝 [I&#39;ve been trapped here for hours...](http://9gag.com/gag/aryAK8d)
- - 👉 [Tongue-eating parasite replaces the fish&#39;s tongue, by eating it first](http://9gag.com/gag/a87mMm1)<!-- MEMES:END -->
+ - 💣 [This is how ancient Chinese people used to send secret messages](http://9gag.com/gag/a4PzL0Q)
+ - 😝 [Title](http://9gag.com/gag/azxPr9N)
+ - 👉 [Drunk Japanese girl wants new experiences](http://9gag.com/gag/a7oebAw)<!-- MEMES:END -->
 
 ---
 

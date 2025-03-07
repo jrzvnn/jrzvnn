@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Apple delays upgraded Siri: it’s taking ‘longer than we thought’](https://www.theverge.com/news/626035/apple-delays-upgraded-siri-intelligence-longer-than-we-thought)
  - [Elon Musk’s Neuralink Files to Trademark ‘Telepathy’](https://www.wired.com/story/elon-musks-neuralink-files-trademark-telepathy/)
  - [Sources: Figma has met with banks in recent weeks to discuss an IPO that could come as soon as 2025; EU and US regulators stymied its $20B sale to Adobe in 2023 &lpar;New York Times&rpar;](http://www.techmeme.com/250307/p18#a250307p18)
  - [Apple wins patent battle against AliveCor, avoids potential Apple Watch import ban](https://appleinsider.com/articles/25/03/07/apple-wins-patent-battle-against-alivecor-avoids-potential-apple-watch-import-ban?utm_medium=rss)
- - [Nintendo Switch 2 Is Now More Likely to Support Amiibo, Faster Wi-Fi Speeds](https://www.cnet.com/tech/gaming/nintendo-switch-2-is-now-more-likely-to-support-amiibo-faster-wi-fi-speeds/#ftag=CAD590a51e)
- - [Joining the Amazon Boycott? This Audible Alternative Only Needs a Library Card](https://www.cnet.com/tech/services-and-software/joining-the-amazon-boycott-this-audible-alternative-only-needs-a-library-card/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Nintendo Switch 2 Is Now More Likely to Support Amiibo, Faster Wi-Fi Speeds](https://www.cnet.com/tech/gaming/nintendo-switch-2-is-now-more-likely-to-support-amiibo-faster-wi-fi-speeds/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

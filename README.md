@@ -167,10 +167,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [Drunk Japanese girl wants new experiences](http://9gag.com/gag/a7oebAw)
- - 😝 [Dad pranks daughter](http://9gag.com/gag/ajPO6jR)
- - 💣 [This is how ancient Chinese people used to send secret messages](http://9gag.com/gag/a4PzL0Q)
- - 😝 [Winona Ryder, 1994](http://9gag.com/gag/a0eVPrZ)
- - 👉 [Time Flies](http://9gag.com/gag/aE0VRX9)<!-- MEMES:END -->
+ - 😝 [Time Flies](http://9gag.com/gag/aE0VRX9)
+ - 💣 [Dad pranks daughter](http://9gag.com/gag/ajPO6jR)
+ - 😝 [This is a very rare case](http://9gag.com/gag/a0eVdoZ)
+ - 👉 [When you know you\u2019re stating a company, not a modelling agency!](http://9gag.com/gag/aMVmwyG)<!-- MEMES:END -->
 
 ---
 

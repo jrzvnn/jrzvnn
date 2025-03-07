@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Apple Music 1&#39;s newest DJ is King Charles III on &#39;The King&#39;s Music Room&#39;](https://appleinsider.com/articles/25/03/07/apple-music-1s-newest-dj-is-king-charles-iii-on-the-kings-music-room?utm_medium=rss)
  - [Trump’s first 100 days: all the news affecting the tech industry](https://www.theverge.com/24348851/donald-trump-presidency-tech-science-news)
+ - [Former OpenAI policy researcher Miles Brundage criticizes OpenAI for &quot;rewriting the history of GPT-2&quot;, after OpenAI outlined its safety and alignment philosophy &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/250306/p41#a250306p41)
  - [CoreWeave denies an FT report that Microsoft withdrew from some of its agreements ahead of CoreWeave&#39;s IPO, saying &quot;there have been no contract cancellations&quot; &lpar;Angela Christy/Reuters&rpar;](http://www.techmeme.com/250306/p40#a250306p40)
- - [Apple has 90 days to allow app sideloading in Brazil](https://www.theverge.com/news/625753/apple-ios-alternative-app-stores-sideloading-brazil)
- - [Sam Altman&#39;s World Network unveils World Chat, a &quot;mini app&quot; in the World App wallet for messaging and sending and receiving crypto, in beta on Android and iOS &lpar;Margaux Nijkerk/CoinDesk&rpar;](http://www.techmeme.com/250306/p39#a250306p39)
- - [Christie&#39;s First-Ever AI Art Auction Earns $728,000, Plus Controversy](https://www.cnet.com/tech/services-and-software/christies-first-ever-ai-art-auction-earns-728000-plus-controversy/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [MWC 2025 Live: All the Latest Phones, Robots, Mobile Gadgets and AI From Barcelona](https://www.cnet.com/tech/mobile/mwc-2025-live-blog/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

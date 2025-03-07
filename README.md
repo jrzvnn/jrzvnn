@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple delays upgraded Siri: it’s taking ‘longer than we thought’](https://www.theverge.com/news/626035/apple-delays-upgraded-siri-intelligence-longer-than-we-thought)
- - [Apple confirms that it is delaying the &quot;more personalized Siri&quot; Apple Intelligence feature and anticipates rolling it out &quot;in the coming year&quot; &lpar;John Gruber/Daring Fireball&rpar;](http://www.techmeme.com/250307/p12#a250307p12)
  - [Trump’s first 100 days: all the news affecting the tech industry](https://www.theverge.com/24348851/donald-trump-presidency-tech-science-news)
- - [Crypto funds seized by the government may go into a &amp;#8216;digital Fort Knox&amp;#8217;](https://www.theverge.com/news/626025/crypto-seized-funds-government-reserve-trump)
- - [Unsealed US indictment: Chinese hacking contractor i-Soon charged Chinese government customers $10K to $75K for each email inbox of US organizations it breached &lpar;Ryan Gallagher/Bloomberg&rpar;](http://www.techmeme.com/250307/p11#a250307p11)<!-- TECH:END -->
+ - [The M4-powered Mac Mini has returned to its Black Friday sale price](https://www.theverge.com/good-deals/625928/apple-m4-mac-mini-desktop-nintendo-switch-games-deal-sale)
+ - [Trump&#39;s &#39;Strategic Bitcoin Reserve&#39; Plan Comes With a Twist](https://www.wired.com/story/trumps-strategic-bitcoin-reserve-plan-comes-with-a-twist/)
+ - [First Mac Studio M3 Ultra benchmarks significantly outpace the M2 Ultra](https://appleinsider.com/articles/25/03/07/first-mac-studio-m3-ultra-benchmarks-significantly-outpace-the-m2-ultra?utm_medium=rss)
+ - [Apple delays upgraded Siri: it’s taking ‘longer than we thought’](https://www.theverge.com/news/626035/apple-delays-upgraded-siri-intelligence-longer-than-we-thought)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

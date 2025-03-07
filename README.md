@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Drunk Japanese girl wants new experiences](http://9gag.com/gag/a7oebAw)
- - 😝 [WTF? Why does the ps3 need an update in 2025?!](http://9gag.com/gag/amoGr14)
- - 💣 [This is a very rare case](http://9gag.com/gag/a0eVdoZ)
- - 😝 [Title](http://9gag.com/gag/azxPr9N)
- - 👉 [Anyone out there know what the hell this is?...Thanks in advance.](http://9gag.com/gag/aKG93j6)<!-- MEMES:END -->
+ - 😝 [Trying to make a washing machine land safely on mattress from 5 floors above](http://9gag.com/gag/aqy8rEj)
+ - 😝 [Youtuber found Tony from LC Sign](http://9gag.com/gag/aGy8RMz)
+ - 💣 [Shhh!](http://9gag.com/gag/aKG92Lb)
+ - 😝 [Dad joke](http://9gag.com/gag/adBOq4Z)
+ - 👉 [Black people hiking](http://9gag.com/gag/aVvEewn)<!-- MEMES:END -->
 
 ---
 

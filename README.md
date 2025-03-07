@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [MacBook Air, Mac Studio, iPad Air and more on the AppleInsider Podcast](https://appleinsider.com/articles/25/03/07/macbook-air-mac-studio-ipad-air-and-more-on-the-appleinsider-podcast?utm_medium=rss)
  - [Google screwed up Pixel vibrations again](https://www.theverge.com/news/625871/google-pixel-vibration-haptics-issue-march-2025-update)
  - [Trump&#39;s Strategic Bitcoin Reserve, which will hold only assets that have been forfeited, disappoints traders who hoped the government would begin buying bitcoin &lpar;Nikou Asgari/Financial Times&rpar;](http://www.techmeme.com/250307/p7#a250307p7)
  - [AI Thinks It Cracked Kryptos. The Artist Behind It Says No Chance](https://www.wired.com/story/plaintext-kryptos-code-artificial-intelligence/)
- - [Four book logging apps to keep you reading](https://www.theverge.com/tech/625223/book-log-read-goodreads)
- - [Apple’s chip bumps, big and small](https://www.theverge.com/the-vergecast/625829/apple-ipad-air-macbook-air-vergecast)<!-- TECH:END -->
+ - [Four book logging apps to keep you reading](https://www.theverge.com/tech/625223/book-log-read-goodreads)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

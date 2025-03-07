@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [When you know you\u2019re stating a company, not a modelling agency!](http://9gag.com/gag/aMVmwyG)
- - 😝 [Where the trust issues started](http://9gag.com/gag/amoGrqo)
- - 💣 [This is how ancient Chinese people used to send secret messages](http://9gag.com/gag/a4PzL0Q)
- - 😝 [Spain fought them for 700 years only to let them right back in.](http://9gag.com/gag/a4PzYqd)
- - 👉 [Title](http://9gag.com/gag/azxPr9N)<!-- MEMES:END -->
+ - 😝 [Indeed.](http://9gag.com/gag/aryAReX)
+ - 😝 [I need that mandarin](http://9gag.com/gag/azxPVKq)
+ - 💣 [Title](http://9gag.com/gag/azxPr9N)
+ - 😝 [I didn&#39;t know that either](https://www.reddit.com/r/funny/comments/1j5xxr2/i_didnt_know_that_either/)
+ - 👉 [WTF? Why does the ps3 need an update in 2025?!](http://9gag.com/gag/amoGr14)<!-- MEMES:END -->
 
 ---
 

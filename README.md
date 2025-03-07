@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Investors are turning to &quot;AI wrappers&quot;, startups that leverage existing LLMs by other developers to build tools for coders, clinicians, lawyers, and others &lpar;Kate Clark/Bloomberg&rpar;](http://www.techmeme.com/250307/p5#a250307p5)
  - [T3 Aire IQ Review: A Great Hair Dryer, in Theory](https://www.wired.com/review/t3-aire-iq/)
  - [iPhone 17 Pro may get thicker than the iPhone 16 Pro](https://appleinsider.com/articles/25/03/07/iphone-17-pro-may-get-thicker-than-the-iphone-16-pro?utm_medium=rss)
  - [Apple beats &#39;Tetris&#39; movie lawsuit](https://appleinsider.com/articles/25/03/07/apple-beats-tetris-movie-lawsuit?utm_medium=rss)
- - [How to Create a Recovery USB Drive to Fix Your Computer](https://www.wired.com/story/how-to-create-a-recovery-usb-drive-to-fix-your-computer/)
- - [Indonesia starts to lift iPhone 16 ban, but hurdles remain](https://appleinsider.com/articles/25/03/07/indonesia-starts-to-lift-iphone-16-ban-but-hurdles-remain?utm_medium=rss)<!-- TECH:END -->
+ - [GLP-1 Meds: Potential Benefits, Risk Factors and Overdose Info](https://www.cnet.com/health/medical/glp-1-potential-benefits-risk-factors-overdose-info/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

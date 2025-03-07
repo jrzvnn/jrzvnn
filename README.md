@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [WTF? Why does the ps3 need an update in 2025?!](http://9gag.com/gag/amoGr14)
- - 😝 [This is a very rare case](http://9gag.com/gag/a0eVdoZ)
+ - 😝 [Star Trek](http://9gag.com/gag/abAOpgX)
+ - 😝 [Shhh!](http://9gag.com/gag/aKG92Lb)
  - 💣 [RIP Camera man](http://9gag.com/gag/aE0VBRp)
- - 😝 [Stay calm](http://9gag.com/gag/aLneDKv)
- - 👉 [Time Flies](http://9gag.com/gag/aE0VRX9)<!-- MEMES:END -->
+ - 😝 [When you know you\u2019re stating a company, not a modelling agency!](http://9gag.com/gag/aMVmwyG)
+ - 👉 [Yeb I do like my bed](http://9gag.com/gag/aqy8bwQ)<!-- MEMES:END -->
 
 ---
 

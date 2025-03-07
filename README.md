@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [This is how ancient Chinese people used to send secret messages](http://9gag.com/gag/a4PzL0Q)
+ - 😝 [I&#39;ve been trapped here for hours...](http://9gag.com/gag/aryAK8d)
+ - 💣 [You F-cking USELESS!](http://9gag.com/gag/aYQOpG2)
  - 😝 [I need that mandarin](http://9gag.com/gag/azxPVKq)
- - 😝 [W H I P L A S H](http://9gag.com/gag/amoGzLy)
- - 💣 [Spain fought them for 700 years only to let them right back in.](http://9gag.com/gag/a4PzYqd)
- - 😝 [Tongue-eating parasite replaces the fish&#39;s tongue, by eating it first](http://9gag.com/gag/a87mMm1)
- - 👉 [Drunk Japanese girl wants new experiences](http://9gag.com/gag/a7oebAw)<!-- MEMES:END -->
+ - 👉 [A very sincere work interview](http://9gag.com/gag/ajPOA1w)<!-- MEMES:END -->
 
 ---
 

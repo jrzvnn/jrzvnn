@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [Drunk Japanese girl wants new experiences](http://9gag.com/gag/a7oebAw)
  - 😝 [WTF? Why does the ps3 need an update in 2025?!](http://9gag.com/gag/amoGr14)
- - 😝 [When you know you\u2019re stating a company, not a modelling agency!](http://9gag.com/gag/aMVmwyG)
  - 💣 [This is a very rare case](http://9gag.com/gag/a0eVdoZ)
- - 😝 [When your hands are not as important as the car..](http://9gag.com/gag/awymKDx)
- - 👉 [Spain fought them for 700 years only to let them right back in.](http://9gag.com/gag/a4PzYqd)<!-- MEMES:END -->
+ - 😝 [Title](http://9gag.com/gag/azxPr9N)
+ - 👉 [Anyone out there know what the hell this is?...Thanks in advance.](http://9gag.com/gag/aKG93j6)<!-- MEMES:END -->
 
 ---
 

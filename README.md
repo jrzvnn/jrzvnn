@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Dad pranks daughter](http://9gag.com/gag/ajPO6jR)
- - 😝 [When your hands are not as important as the car..](http://9gag.com/gag/awymKDx)
- - 💣 [Spain fought them for 700 years only to let them right back in.](http://9gag.com/gag/a4PzYqd)
- - 😝 [The sexiest housewife in the world ...](http://9gag.com/gag/adBOpeV)
- - 👉 [I need that mandarin](http://9gag.com/gag/azxPVKq)<!-- MEMES:END -->
+ - 😝 [Spain fought them for 700 years only to let them right back in.](http://9gag.com/gag/a4PzYqd)
+ - 😝 [The beer in my fridge before work](http://9gag.com/gag/aByLrLx)
+ - 💣 [I need that mandarin](http://9gag.com/gag/azxPVKq)
+ - 😝 [Taking care of your bird!](http://9gag.com/gag/aXPNpMg)
+ - 👉 [The sexiest housewife in the world ...](http://9gag.com/gag/adBOpeV)<!-- MEMES:END -->
 
 ---
 

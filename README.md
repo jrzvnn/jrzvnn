@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Trump’s first 100 days: all the news affecting the tech industry](https://www.theverge.com/24348851/donald-trump-presidency-tech-science-news)
+ - [CoreWeave denies an FT report that Microsoft withdrew from some of its agreements ahead of CoreWeave&#39;s IPO, saying &quot;there have been no contract cancellations&quot; &lpar;Angela Christy/Reuters&rpar;](http://www.techmeme.com/250306/p40#a250306p40)
+ - [Apple has 90 days to allow app sideloading in Brazil](https://www.theverge.com/news/625753/apple-ios-alternative-app-stores-sideloading-brazil)
  - [Sam Altman&#39;s World Network unveils World Chat, a &quot;mini app&quot; in the World App wallet for messaging and sending and receiving crypto, in beta on Android and iOS &lpar;Margaux Nijkerk/CoinDesk&rpar;](http://www.techmeme.com/250306/p39#a250306p39)
- - [Trump signs an EO to establish a Strategic Bitcoin Reserve and a Digital Asset Stockpile, with BTC and other digital assets forfeited in criminal or civil cases &lpar;Jesse Coghlan/Cointelegraph&rpar;](http://www.techmeme.com/250306/p38#a250306p38)
- - [Brazil gives Apple 90 days to enable third-party app marketplaces on iOS](https://appleinsider.com/articles/25/03/07/brazil-gives-apple-90-days-to-enable-third-party-app-marketplaces-on-ios?utm_medium=rss)
- - [ChatGPT can now directly edit code in Xcode, VS Code, &amp; more on macOS](https://appleinsider.com/articles/25/03/07/chatgpt-can-now-directly-edit-code-in-xcode-vs-code-more-on-macos?utm_medium=rss)
- - [A Brazilian judge gives Apple 90 days to allow sideloading on iOS in Brazil, saying the &quot;limitations&quot; imposed by Apple on developers could stifle competition &lpar;Filipe Esp&amp;oacute;sito/9to5Mac&rpar;](http://www.techmeme.com/250306/p37#a250306p37)<!-- TECH:END -->
+ - [Christie&#39;s First-Ever AI Art Auction Earns $728,000, Plus Controversy](https://www.cnet.com/tech/services-and-software/christies-first-ever-ai-art-auction-earns-728000-plus-controversy/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

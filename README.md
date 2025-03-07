@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Want to Live Longer, Healthier, and Happier? Then Cultivate Your Social Connections](https://www.wired.com/story/want-to-live-longer-healthier-and-happier-cultivate-your-social-connections-wired-health-kasley-killam/)
+ - [Android phones are getting lock screen widgets this year](https://www.theverge.com/news/625789/android-phones-lock-screen-widgets-16-qpr1)
  - [An in-depth look at TSMC&#39;s $165B US investment plans: three new Fab 21 phases, two new advanced packaging facilities, and an R&amp;D center, all based in Phoenix &lpar;Anton Shilov/Tom&#39;s Hardware&rpar;](http://www.techmeme.com/250307/p3#a250307p3)
- - [Best of MWC 2025: Affordable Phones and Cool Camera Concepts](https://www.cnet.com/tech/mobile/best-of-mwc-2025-affordable-phones-and-cool-camera-concepts/#ftag=CAD590a51e)
- - [A look at McDonald&#39;s new tech initiatives, including the use of edge computing to predict equipment breakdowns and computer vision to ensure order accuracy &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/250307/p2#a250307p2)
- - [VistaPrint Coupon: Get Up to $50 Off](https://www.wired.com/story/vistaprint-coupon-code/)
- - [Wayfair Coupons: 70% Off | March 2025](https://www.wired.com/story/wayfair-coupon/)<!-- TECH:END -->
+ - [Today&#39;s NYT Mini Crossword Answers for Friday, March 7](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-friday-march-7/#ftag=CAD590a51e)
+ - [Best of MWC 2025: Affordable Phones and Cool Camera Concepts](https://www.cnet.com/tech/mobile/best-of-mwc-2025-affordable-phones-and-cool-camera-concepts/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

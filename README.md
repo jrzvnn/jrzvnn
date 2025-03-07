@@ -157,10 +157,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [What&#39;s in store for the iPhone 17 Pro and Pro Max this fall](https://appleinsider.com/articles/25/03/07/whats-in-store-for-the-iphone-17-pro-and-pro-max-this-fall?utm_medium=rss)
  - [DeepSeek: all the news about the startup that’s shaking up AI stocks](https://www.theverge.com/24353060/deepseek-ai-china-nvidia-openai)
  - [DOGE Is Putting Major Government Efficiency Projects at Risk](https://www.wired.com/story/doge-major-government-tech-projects-efficiency/)
  - [The best wireless earbuds to buy right now](https://www.theverge.com/21309820/best-wireless-earbuds)
- - [Today&#39;s NYT Connections: Sports Edition Hints and Answers for March 7, #165](https://www.cnet.com/tech/gaming/todays-nyt-connections-sports-edition-hints-and-answers-for-march-7-165/#ftag=CAD590a51e)
  - [Netflix’s plan to spend $18 billion on content is ‘not anywhere near the ceiling’](https://www.theverge.com/news/626102/netflix-18-billion-content-spending)<!-- TECH:END -->
 
 ### 😂 Memes of the hour

@@ -166,10 +166,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [WTF? Why does the ps3 need an update in 2025?!](http://9gag.com/gag/amoGr14)
- - 😝 [Indeed.](http://9gag.com/gag/aryAReX)
+ - 😝 [Umm.... \ud83d\ude2e](http://9gag.com/gag/a5QBrVN)
+ - 😝 [The incline of this Japanese bridge gives the illusion of being vertical](http://9gag.com/gag/azxPAxm)
  - 💣 [Spain fought them for 700 years only to let them right back in.](http://9gag.com/gag/a4PzYqd)
- - 😝 [Title](http://9gag.com/gag/azxPr9N)
+ - 😝 [Tongue-eating parasite replaces the fish&#39;s tongue, by eating it first](http://9gag.com/gag/a87mMm1)
  - 👉 [When you know you\u2019re stating a company, not a modelling agency!](http://9gag.com/gag/aMVmwyG)<!-- MEMES:END -->
 
 ---

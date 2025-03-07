@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Indonesia starts to lift iPhone 16 ban, but hurdles remain](https://appleinsider.com/articles/25/03/07/indonesia-starts-to-lift-iphone-16-ban-but-hurdles-remain?utm_medium=rss)
- - [Intuitive Machine’s lunar landing goes sideways again](https://www.theverge.com/news/625818/athena-moon-lander-intuitive-machines-nasa-sideways)
- - [Analysis: the $TRUMP memecoin generated $314M from token sales and $36M in fees within three weeks of launch, likely raising conflict of interest concerns &lpar;Financial Times&rpar;](http://www.techmeme.com/250307/p4#a250307p4)
- - [Can Matchmaking Platforms Save Us From Dating App Fatigue?](https://www.wired.com/story/dating-apps-rise-of-matchmaking-platforms/)
- - [Best 7 Coffee Makers &lpar;2025&rpar;: Drip Is Drippin&#39;](https://www.wired.com/gallery/best-coffee-makers/)<!-- TECH:END -->
+ - [T3 Aire IQ Review: A Great Hair Dryer, in Theory](https://www.wired.com/review/t3-aire-iq/)
+ - [iPhone 17 Pro may get thicker than the iPhone 16 Pro](https://appleinsider.com/articles/25/03/07/iphone-17-pro-may-get-thicker-than-the-iphone-16-pro?utm_medium=rss)
+ - [Apple beats &#39;Tetris&#39; movie lawsuit](https://appleinsider.com/articles/25/03/07/apple-beats-tetris-movie-lawsuit?utm_medium=rss)
+ - [How to Create a Recovery USB Drive to Fix Your Computer](https://www.wired.com/story/how-to-create-a-recovery-usb-drive-to-fix-your-computer/)
+ - [Indonesia starts to lift iPhone 16 ban, but hurdles remain](https://appleinsider.com/articles/25/03/07/indonesia-starts-to-lift-iphone-16-ban-but-hurdles-remain?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

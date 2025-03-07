@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Spain fought them for 700 years only to let them right back in.](http://9gag.com/gag/a4PzYqd)
- - 😝 [The beer in my fridge before work](http://9gag.com/gag/aByLrLx)
- - 💣 [I need that mandarin](http://9gag.com/gag/azxPVKq)
- - 😝 [Taking care of your bird!](http://9gag.com/gag/aXPNpMg)
- - 👉 [The sexiest housewife in the world ...](http://9gag.com/gag/adBOpeV)<!-- MEMES:END -->
+ - 😝 [I need that mandarin](http://9gag.com/gag/azxPVKq)
+ - 😝 [W H I P L A S H](http://9gag.com/gag/amoGzLy)
+ - 💣 [Spain fought them for 700 years only to let them right back in.](http://9gag.com/gag/a4PzYqd)
+ - 😝 [Tongue-eating parasite replaces the fish&#39;s tongue, by eating it first](http://9gag.com/gag/a87mMm1)
+ - 👉 [Drunk Japanese girl wants new experiences](http://9gag.com/gag/a7oebAw)<!-- MEMES:END -->
 
 ---
 

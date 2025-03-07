@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Star Trek](http://9gag.com/gag/abAOpgX)
- - 😝 [Shhh!](http://9gag.com/gag/aKG92Lb)
- - 💣 [RIP Camera man](http://9gag.com/gag/aE0VBRp)
- - 😝 [When you know you\u2019re stating a company, not a modelling agency!](http://9gag.com/gag/aMVmwyG)
- - 👉 [Yeb I do like my bed](http://9gag.com/gag/aqy8bwQ)<!-- MEMES:END -->
+ - 😝 [I need that mandarin](http://9gag.com/gag/azxPVKq)
+ - 😝 [The incline of this Japanese bridge gives the illusion of being vertical](http://9gag.com/gag/azxPAxm)
+ - 💣 [WTF? Why does the ps3 need an update in 2025?!](http://9gag.com/gag/amoGr14)
+ - 😝 [Time Flies](http://9gag.com/gag/aE0VRX9)
+ - 👉 [Tongue-eating parasite replaces the fish&#39;s tongue, by eating it first](http://9gag.com/gag/a87mMm1)<!-- MEMES:END -->
 
 ---
 

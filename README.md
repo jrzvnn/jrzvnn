@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Name a bigger downgrade](http://9gag.com/gag/adBOjEB)
- - 😝 [When your hands are not as important as the car..](http://9gag.com/gag/awymKDx)
- - 💣 [Taking care of your bird!](http://9gag.com/gag/aXPNpMg)
- - 😝 [Tongue-eating parasite replaces the fish&#39;s tongue, by eating it first](http://9gag.com/gag/a87mMm1)
- - 👉 [Spain fought them for 700 years only to let them right back in.](http://9gag.com/gag/a4PzYqd)<!-- MEMES:END -->
+ - 😝 [When recycling meets 200 IQ creativity!](http://9gag.com/gag/a5QBZeE)
+ - 😝 [The sexiest housewife in the world ...](http://9gag.com/gag/adBOpeV)
+ - 💣 [20. Gallery memeories](http://9gag.com/gag/avyeg7q)
+ - 😝 [I don&#39;t have a title because I&#39;m no aristocrat](http://9gag.com/gag/aVvEWEn)
+ - 👉 [`Teams have been rebalanced](http://9gag.com/gag/a0eVj0X)<!-- MEMES:END -->
 
 ---
 

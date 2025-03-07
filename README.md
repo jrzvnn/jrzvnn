@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Soo anyone want a mint &gt;:3](http://9gag.com/gag/aAyEp80)
- - 😝 [Tongue-eating parasite replaces the fish&#39;s tongue, by eating it first](http://9gag.com/gag/a87mMm1)
- - 💣 [Spain fought them for 700 years only to let them right back in.](http://9gag.com/gag/a4PzYqd)
- - 😝 [Anyone out there know what the hell this is?...Thanks in advance.](http://9gag.com/gag/aKG93j6)
- - 👉 [This is how ancient Chinese people used to send secret messages](http://9gag.com/gag/a4PzL0Q)<!-- MEMES:END -->
+ - 😝 [Taking care of your bird!](http://9gag.com/gag/aXPNpMg)
+ - 😝 [Spain fought them for 700 years only to let them right back in.](http://9gag.com/gag/a4PzYqd)
+ - 💣 [Op is a lucky man](http://9gag.com/gag/aVvEQ7d)
+ - 😝 [I&#39;ve been trapped here for hours...](http://9gag.com/gag/aryAK8d)
+ - 👉 [Tongue-eating parasite replaces the fish&#39;s tongue, by eating it first](http://9gag.com/gag/a87mMm1)<!-- MEMES:END -->
 
 ---
 

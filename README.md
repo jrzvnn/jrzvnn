@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple’s The Studio makes moviemaking look like a crucible in latest trailer](https://www.theverge.com/news/625876/apple-tv-plus-the-studio-premiere-date-seth-rogen)
- - [Bild Expo 2025 is happening in New York City in June, here&#39;s what you can expect](https://appleinsider.com/articles/25/03/07/bild-expo-2025-is-happening-in-new-york-city-in-june-heres-what-you-can-expect?utm_medium=rss)
- - [Best Sonos Speakers &lpar;2025&rpar;: Soundbars, Turntables, and More](https://www.wired.com/gallery/best-sonos-speakers-buying-guide/)
- - [Sources: the White House is weighing measures to restrict DeepSeek, including banning its app from US app stores, because of national security concerns &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/250307/p8#a250307p8)
- - [MacBook Air, Mac Studio, iPad Air and more on the AppleInsider Podcast](https://appleinsider.com/articles/25/03/07/macbook-air-mac-studio-ipad-air-and-more-on-the-appleinsider-podcast?utm_medium=rss)<!-- TECH:END -->
+ - [Reflection AI, which wants to achieve superintelligence through autonomous coding agents, emerges from stealth with a $105M Series A and $25M in seed funding &lpar;Shirin Ghaffary/Bloomberg&rpar;](http://www.techmeme.com/250307/p10#a250307p10)
+ - [Netflix brought back A Different World of AI-upscaled nightmare fuel](https://www.theverge.com/news/625904/netflix-a-different-world-ai-upscaling-nightmare)
+ - [Source: Microsoft is testing out ways to replace OpenAI&#39;s models in Copilot with models from other AI labs including xAI, Meta, and DeepSeek &lpar;Aaron Holmes/The Information&rpar;](http://www.techmeme.com/250307/p9#a250307p9)
+ - [Nintendo Switch 2 announcement: all the news on the next console](https://www.theverge.com/24284512/nintendo-switch-2-direct-news-trailers-games-features)
+ - [Switch 2: all the news and rumors on Nintendo’s next console](https://www.theverge.com/24051677/nintendo-switch-2-pro-rumors-news)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

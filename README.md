@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Nokia Put a 4G Cellular Network on the Moon, but Couldn&#39;t Make a Phone Call](https://www.wired.com/story/nokia-4g-network-on-the-moon/)
+ - [Apple wins patent battle against AliveCor, avoids potential Apple Watch import ban](https://appleinsider.com/articles/25/03/07/apple-wins-patent-battle-against-alivecor-avoids-potential-apple-watch-import-ban?utm_medium=rss)
  - [Trump’s first 100 days: all the news affecting the tech industry](https://www.theverge.com/24348851/donald-trump-presidency-tech-science-news)
  - [US tariffs: how Trump’s tax is hitting Big Tech and beyond](https://www.theverge.com/604742/trump-tariffs-canada-mexico-china-updates)
- - [Uranium is in the crosshairs of the US-Canada tariff battle](https://www.theverge.com/climate-change/626158/trump-tariffs-uranium-nuclear-energy-ai-data-centers)
- - [Watch 25 of the Best Movies on Netflix Right Now](https://www.cnet.com/tech/services-and-software/best-movies-on-netflix/#ftag=CAD590a51e)
- - [Sources: Kraken seeks to go public as soon as Q1 2026; the SEC recently agreed to drop its case against Kraken amid a friendlier regulatory climate under Trump &lpar;Olga Kharif/Bloomberg&rpar;](http://www.techmeme.com/250307/p16#a250307p16)<!-- TECH:END -->
+ - [Uranium is in the crosshairs of the US-Canada tariff battle](https://www.theverge.com/climate-change/626158/trump-tariffs-uranium-nuclear-energy-ai-data-centers)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

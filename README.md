@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [When recycling meets 200 IQ creativity!](http://9gag.com/gag/a5QBZeE)
- - 😝 [The sexiest housewife in the world ...](http://9gag.com/gag/adBOpeV)
- - 💣 [20. Gallery memeories](http://9gag.com/gag/avyeg7q)
- - 😝 [I don&#39;t have a title because I&#39;m no aristocrat](http://9gag.com/gag/aVvEWEn)
- - 👉 [`Teams have been rebalanced](http://9gag.com/gag/a0eVj0X)<!-- MEMES:END -->
+ - 😝 [Only childs are eating well](http://9gag.com/gag/aAyEYW9)
+ - 😝 [I need that mandarin](http://9gag.com/gag/azxPVKq)
+ - 💣 [Dad pranks daughter](http://9gag.com/gag/ajPO6jR)
+ - 😝 [Op is a lucky man](http://9gag.com/gag/aVvEQ7d)
+ - 👉 [Tongue-eating parasite replaces the fish&#39;s tongue, by eating it first](http://9gag.com/gag/a87mMm1)<!-- MEMES:END -->
 
 ---
 

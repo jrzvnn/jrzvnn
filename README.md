@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [I need that mandarin](http://9gag.com/gag/azxPVKq)
- - 😝 [Hmmm...](http://9gag.com/gag/an7nY0V)
- - 💣 [NOPE NOPE NOPE](http://9gag.com/gag/avyeP1E)
+ - 😝 [White Chinese](http://9gag.com/gag/aYQOwxx)
  - 😝 [I&#39;ve been trapped here for hours...](http://9gag.com/gag/aryAK8d)
- - 👉 [Taking care of your bird!](http://9gag.com/gag/aXPNpMg)<!-- MEMES:END -->
+ - 💣 [Taking care of your bird!](http://9gag.com/gag/aXPNpMg)
+ - 😝 [Anyone out there know what the hell this is?...Thanks in advance.](http://9gag.com/gag/aKG93j6)
+ - 👉 [You F-cking USELESS!](http://9gag.com/gag/aYQOpG2)<!-- MEMES:END -->
 
 ---
 

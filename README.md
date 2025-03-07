@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [iPhone 17 Pro Max may get thicker than the iPhone 16 Pro](https://appleinsider.com/articles/25/03/07/iphone-17-pro-may-get-thicker-than-the-iphone-16-pro?utm_medium=rss)
+ - [Is It Electric or Magnetic? Depends on Where You Stand](https://www.wired.com/story/is-it-electric-or-magnetic/)
+ - [MWC 2025 was all about the odds and ends](https://www.theverge.com/gadgets/625232/mwc-2025-xiaomi-nothing-samsung-display-foldables)
  - [Inside Photos -- managing images and videos on your iPhone, iPad, and Mac](https://appleinsider.com/articles/25/03/07/inside-photos----managing-images-and-videos-on-your-iphone-ipad-and-mac?utm_medium=rss)
- - [A Brand New Botnet Is Delivering Record-Size DDoS Attacks](https://www.wired.com/story/eleven11bot-botnet-record-size-ddos-attacks/)
- - [iPhone &#39;batterygate&#39; legal drama isn&#39;t quite done yet](https://appleinsider.com/articles/25/03/07/iphone-batterygate-legal-drama-isnt-quite-done-yet?utm_medium=rss)
- - [MacBook Air, Mac Studio, iPad Air and more on the AppleInsider Podcast](https://appleinsider.com/articles/25/03/07/macbook-air-mac-studio-ipad-air-and-more-on-the-appleinsider-podcast?utm_medium=rss)
- - [AOC Q27G4ZD QD-OLED Gaming Monitor Review: Bright and Shiny](https://www.wired.com/review/aoc-q27g4zd-review/)<!-- TECH:END -->
+ - [A Brand New Botnet Is Delivering Record-Size DDoS Attacks](https://www.wired.com/story/eleven11bot-botnet-record-size-ddos-attacks/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

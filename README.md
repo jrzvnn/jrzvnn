@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Netflix’s plan to spend $18 billion on content is ‘not anywhere near the ceiling’](https://www.theverge.com/news/626102/netflix-18-billion-content-spending)
- - [JD Vance is posting through it](https://www.theverge.com/tech/626076/jd-vance-x-twitter-arguments)
  - [DeepSeek: all the news about the startup that’s shaking up AI stocks](https://www.theverge.com/24353060/deepseek-ai-china-nvidia-openai)
- - [LG’s new air conditioner directs cool air towards people it detects.](https://www.theverge.com/news/626065/lg-artcool-ai-air-conditioner-room-occupant-sensing)
- - [Apple confirms that Apple Intelligence Siri features are taking longer than expected](https://appleinsider.com/articles/25/03/07/apple-confirms-that-apple-intelligence-siri-features-are-taking-longer-than-expected?utm_medium=rss)<!-- TECH:END -->
+ - [DOGE Is Putting Major Government Efficiency Projects at Risk](https://www.wired.com/story/doge-major-government-tech-projects-efficiency/)
+ - [The best wireless earbuds to buy right now](https://www.theverge.com/21309820/best-wireless-earbuds)
+ - [Netflix’s plan to spend $18 billion on content is ‘not anywhere near the ceiling’](https://www.theverge.com/news/626102/netflix-18-billion-content-spending)
+ - [JD Vance is posting through it](https://www.theverge.com/tech/626076/jd-vance-x-twitter-arguments)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -169,8 +169,8 @@ R                        1 repo              ░░░░░░░░░░░�
  - 😝 [Indeed.](http://9gag.com/gag/aryAReX)
  - 😝 [I need that mandarin](http://9gag.com/gag/azxPVKq)
  - 💣 [Title](http://9gag.com/gag/azxPr9N)
- - 😝 [I didn&#39;t know that either](https://www.reddit.com/r/funny/comments/1j5xxr2/i_didnt_know_that_either/)
- - 👉 [WTF? Why does the ps3 need an update in 2025?!](http://9gag.com/gag/amoGr14)<!-- MEMES:END -->
+ - 😝 [WTF? Why does the ps3 need an update in 2025?!](http://9gag.com/gag/amoGr14)
+ - 👉 [Where the trust issues started](http://9gag.com/gag/amoGrqo)<!-- MEMES:END -->
 
 ---
 

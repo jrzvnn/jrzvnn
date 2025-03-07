@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Trying to make a washing machine land safely on mattress from 5 floors above](http://9gag.com/gag/aqy8rEj)
- - 😝 [Youtuber found Tony from LC Sign](http://9gag.com/gag/aGy8RMz)
- - 💣 [Shhh!](http://9gag.com/gag/aKG92Lb)
- - 😝 [Dad joke](http://9gag.com/gag/adBOq4Z)
- - 👉 [Black people hiking](http://9gag.com/gag/aVvEewn)<!-- MEMES:END -->
+ - 😝 [Indeed.](http://9gag.com/gag/aryAReX)
+ - 😝 [Tongue-eating parasite replaces the fish&#39;s tongue, by eating it first](http://9gag.com/gag/a87mMm1)
+ - 💣 [WTF? Why does the ps3 need an update in 2025?!](http://9gag.com/gag/amoGr14)
+ - 😝 [Spain fought them for 700 years only to let them right back in.](http://9gag.com/gag/a4PzYqd)
+ - 👉 [Title](http://9gag.com/gag/azxPr9N)<!-- MEMES:END -->
 
 ---
 

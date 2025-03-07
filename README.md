@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Intuitive Machine’s lunar landing goes sideways again](https://www.theverge.com/news/625818/athena-moon-lander-intuitive-machines-nasa-sideways)
  - [Analysis: the $TRUMP memecoin generated $314M from token sales and $36M in fees within three weeks of launch, likely raising conflict of interest concerns &lpar;Financial Times&rpar;](http://www.techmeme.com/250307/p4#a250307p4)
  - [Can Matchmaking Platforms Save Us From Dating App Fatigue?](https://www.wired.com/story/dating-apps-rise-of-matchmaking-platforms/)
  - [Best 7 Coffee Makers &lpar;2025&rpar;: Drip Is Drippin&#39;](https://www.wired.com/gallery/best-coffee-makers/)
- - [Want to Live Longer, Healthier, and Happier? Then Cultivate Your Social Connections](https://www.wired.com/story/want-to-live-longer-healthier-and-happier-cultivate-your-social-connections-wired-health-kasley-killam/)
- - [Android phones are getting lock screen widgets this year](https://www.theverge.com/news/625789/android-phones-lock-screen-widgets-16-qpr1)<!-- TECH:END -->
+ - [What 2 Wellness Editors Learned From Taking the Apple Hearing Test With Our AirPods](https://www.cnet.com/health/personal-care/what-wellness-editors-learned-taking-apple-hearing-test-with-airpods/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

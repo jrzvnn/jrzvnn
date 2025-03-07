@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Tongue-eating parasite replaces the fish&#39;s tongue, by eating it first](http://9gag.com/gag/a87mMm1)
- - 😝 [Taking care of your bird!](http://9gag.com/gag/aXPNpMg)
+ - 😝 [Drunk Japanese girl wants new experiences](http://9gag.com/gag/a7oebAw)
+ - 😝 [Dad pranks daughter](http://9gag.com/gag/ajPO6jR)
  - 💣 [This is how ancient Chinese people used to send secret messages](http://9gag.com/gag/a4PzL0Q)
- - 😝 [Title](http://9gag.com/gag/azxPr9N)
- - 👉 [Drunk Japanese girl wants new experiences](http://9gag.com/gag/a7oebAw)<!-- MEMES:END -->
+ - 😝 [Winona Ryder, 1994](http://9gag.com/gag/a0eVPrZ)
+ - 👉 [Time Flies](http://9gag.com/gag/aE0VRX9)<!-- MEMES:END -->
 
 ---
 

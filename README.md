@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Only childs are eating well](http://9gag.com/gag/aAyEYW9)
- - 😝 [I need that mandarin](http://9gag.com/gag/azxPVKq)
- - 💣 [Dad pranks daughter](http://9gag.com/gag/ajPO6jR)
- - 😝 [Op is a lucky man](http://9gag.com/gag/aVvEQ7d)
- - 👉 [Tongue-eating parasite replaces the fish&#39;s tongue, by eating it first](http://9gag.com/gag/a87mMm1)<!-- MEMES:END -->
+ - 😝 [Dad pranks daughter](http://9gag.com/gag/ajPO6jR)
+ - 😝 [When your hands are not as important as the car..](http://9gag.com/gag/awymKDx)
+ - 💣 [Spain fought them for 700 years only to let them right back in.](http://9gag.com/gag/a4PzYqd)
+ - 😝 [The sexiest housewife in the world ...](http://9gag.com/gag/adBOpeV)
+ - 👉 [I need that mandarin](http://9gag.com/gag/azxPVKq)<!-- MEMES:END -->
 
 ---
 

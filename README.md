@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [VistaPrint Coupon: Get Up to $50 Off](https://www.wired.com/story/vistaprint-coupon-code/)
+ - [Wayfair Coupons: 70% Off | March 2025](https://www.wired.com/story/wayfair-coupon/)
  - [Nike Promo Codes and Deals: Up to 40% Off](https://www.wired.com/story/nike-promo-code/)
  - [Samsung Promo Code: 30% Off March 2025](https://www.wired.com/story/samsung-promo-codes/)
- - [Sources: Meta plans to add improved voice features in Llama 4, expected in weeks, betting that future AI agents will be conversational rather than text-led &lpar;Financial Times&rpar;](http://www.techmeme.com/250307/p1#a250307p1)
- - [MWC 2025 Live: All the Phones, Concepts, Gadgets and AI We Saw in Barcelona](https://www.cnet.com/tech/mobile/mwc-2025-live-blog/#ftag=CAD590a51e)
- - [An audit found that 10 top AI chatbots, including ChatGPT, Copilot, and Gemini, repeated false claims from a pro-Kremlin disinformation network 33% of the time &lpar;NewsGuard&#39;s Reality Check&rpar;](http://www.techmeme.com/250306/p42#a250306p42)<!-- TECH:END -->
+ - [Sources: Meta plans to add improved voice features in Llama 4, expected in weeks, betting that future AI agents will be conversational rather than text-led &lpar;Financial Times&rpar;](http://www.techmeme.com/250307/p1#a250307p1)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

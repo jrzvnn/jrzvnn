@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Apple’s chip bumps, big and small](https://www.theverge.com/the-vergecast/625829/apple-ipad-air-macbook-air-vergecast)
+ - [Source: Microsoft completed the training of a family of models, codenamed MAI, and is experimenting swapping out the MAI models for OpenAI&#39;s models in Copilot &lpar;Aaron Holmes/The Information&rpar;](http://www.techmeme.com/250307/p6#a250307p6)
  - [iPhone 17 Pro Max may get thicker than the iPhone 16 Pro](https://appleinsider.com/articles/25/03/07/iphone-17-pro-may-get-thicker-than-the-iphone-16-pro?utm_medium=rss)
  - [Is It Electric or Magnetic? Depends on Where You Stand](https://www.wired.com/story/is-it-electric-or-magnetic/)
- - [MWC 2025 was all about the odds and ends](https://www.theverge.com/gadgets/625232/mwc-2025-xiaomi-nothing-samsung-display-foldables)
- - [Inside Photos -- managing images and videos on your iPhone, iPad, and Mac](https://appleinsider.com/articles/25/03/07/inside-photos----managing-images-and-videos-on-your-iphone-ipad-and-mac?utm_medium=rss)
- - [A Brand New Botnet Is Delivering Record-Size DDoS Attacks](https://www.wired.com/story/eleven11bot-botnet-record-size-ddos-attacks/)<!-- TECH:END -->
+ - [MWC 2025 was all about the odds and ends](https://www.theverge.com/gadgets/625232/mwc-2025-xiaomi-nothing-samsung-display-foldables)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

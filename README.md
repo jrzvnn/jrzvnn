@@ -158,10 +158,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- TECH:START -->
  - [Analysis: the $TRUMP memecoin generated $314M from token sales and $36M in fees within three weeks of launch, likely raising conflict of interest concerns &lpar;Financial Times&rpar;](http://www.techmeme.com/250307/p4#a250307p4)
+ - [Can Matchmaking Platforms Save Us From Dating App Fatigue?](https://www.wired.com/story/dating-apps-rise-of-matchmaking-platforms/)
  - [Best 7 Coffee Makers &lpar;2025&rpar;: Drip Is Drippin&#39;](https://www.wired.com/gallery/best-coffee-makers/)
- - [What 2 Wellness Editors Learned From Taking the Apple Hearing Test With Our AirPods](https://www.cnet.com/health/personal-care/what-wellness-editors-learned-taking-apple-hearing-test-with-airpods/#ftag=CAD590a51e)
- - [Act Now to Lock in an APY up to 4.65%. Today&#39;s CD Rates, March 7, 2025](https://www.cnet.com/personal-finance/banking/act-now-to-lock-in-an-apy-up-to-4-65-todays-cd-rates-march-7-2025/#ftag=CAD590a51e)
- - [Want to Live Longer, Healthier, and Happier? Then Cultivate Your Social Connections](https://www.wired.com/story/want-to-live-longer-healthier-and-happier-cultivate-your-social-connections-wired-health-kasley-killam/)<!-- TECH:END -->
+ - [Want to Live Longer, Healthier, and Happier? Then Cultivate Your Social Connections](https://www.wired.com/story/want-to-live-longer-healthier-and-happier-cultivate-your-social-connections-wired-health-kasley-killam/)
+ - [Android phones are getting lock screen widgets this year](https://www.theverge.com/news/625789/android-phones-lock-screen-widgets-16-qpr1)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

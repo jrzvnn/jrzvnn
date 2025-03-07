@@ -158,7 +158,7 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- TECH:START -->
  - [Trump’s first 100 days: all the news affecting the tech industry](https://www.theverge.com/24348851/donald-trump-presidency-tech-science-news)
- - [Crypto funds seized by the government may now go into a &amp;#8216;digital Fort Knox&amp;#8217;](https://www.theverge.com/news/626025/crypto-seized-funds-government-reserve-trump)
+ - [Crypto funds seized by the government may go into a &amp;#8216;digital Fort Knox&amp;#8217;](https://www.theverge.com/news/626025/crypto-seized-funds-government-reserve-trump)
  - [Unsealed US indictment: Chinese hacking contractor i-Soon charged Chinese government customers $10K to $75K for each email inbox of US organizations it breached &lpar;Ryan Gallagher/Bloomberg&rpar;](http://www.techmeme.com/250307/p11#a250307p11)
  - [AMD is launching its latest Ryzen 9 X3D gaming processors on March 12th](https://www.theverge.com/news/625984/amd-ryzen-9-x3d-9950-9900-16-zen-5-cores-launch)
  - [The Nintendo Switch 2 will have NFC and Wi-Fi 6, FCC filings show](https://www.theverge.com/news/625931/nintendo-switch-2-fcc-nfc-wi-fi-6-usb)<!-- TECH:END -->

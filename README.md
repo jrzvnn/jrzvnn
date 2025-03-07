@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [‘Startup Nation’ Groups Say They’re Meeting Trump Officials to Push for Deregulated ‘Freedom Cities’](https://www.wired.com/story/startup-nations-donald-trump-legislation/)
  - [Meta is testing a feature that lets Threads users add their interests to their profile; the interests will direct users to active conversations about the topic &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/250307/p14#a250307p14)
  - [What&#39;s in store for the iPhone 17 Pro and Pro Max this fall](https://appleinsider.com/articles/25/03/07/whats-in-store-for-the-iphone-17-pro-and-pro-max-this-fall?utm_medium=rss)
  - [DeepSeek: all the news about the startup that’s shaking up AI stocks](https://www.theverge.com/24353060/deepseek-ai-china-nvidia-openai)
- - [DOGE Is Putting Major Government Efficiency Projects at Risk](https://www.wired.com/story/doge-major-government-tech-projects-efficiency/)
- - [The best wireless earbuds to buy right now](https://www.theverge.com/21309820/best-wireless-earbuds)<!-- TECH:END -->
+ - [DOGE Is Putting Major Government Efficiency Projects at Risk](https://www.wired.com/story/doge-major-government-tech-projects-efficiency/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

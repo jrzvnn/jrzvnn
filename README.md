@@ -160,8 +160,8 @@ R                        1 repo              ░░░░░░░░░░░�
  - [DeepSeek: all the news about the startup that’s shaking up AI stocks](https://www.theverge.com/24353060/deepseek-ai-china-nvidia-openai)
  - [DOGE Is Putting Major Government Efficiency Projects at Risk](https://www.wired.com/story/doge-major-government-tech-projects-efficiency/)
  - [The best wireless earbuds to buy right now](https://www.theverge.com/21309820/best-wireless-earbuds)
- - [Netflix’s plan to spend $18 billion on content is ‘not anywhere near the ceiling’](https://www.theverge.com/news/626102/netflix-18-billion-content-spending)
- - [JD Vance is posting through it](https://www.theverge.com/tech/626076/jd-vance-x-twitter-arguments)<!-- TECH:END -->
+ - [Today&#39;s NYT Connections: Sports Edition Hints and Answers for March 7, #165](https://www.cnet.com/tech/gaming/todays-nyt-connections-sports-edition-hints-and-answers-for-march-7-165/#ftag=CAD590a51e)
+ - [Netflix’s plan to spend $18 billion on content is ‘not anywhere near the ceiling’](https://www.theverge.com/news/626102/netflix-18-billion-content-spending)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

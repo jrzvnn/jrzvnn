@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Filings: the US DOJ drops a bid to force Google to sell its AI investments to boost search competition but still seeks a court order requiring it to sell Chrome &lpar;Jody Godoy/Reuters&rpar;](http://www.techmeme.com/250307/p20#a250307p20)
+ - [DOGE Has Deployed Its GSAi Custom Chatbot for 1,500 Federal Workers](https://www.wired.com/story/gsai-chatbot-1500-federal-workers/)
  - [A Reddit moderation tool is flagging ‘Luigi’ as potentially violent content](https://www.theverge.com/news/626139/reddit-luigi-mangione-automod-tool)
  - [US v. Google: all the news from the search antitrust showdown](https://www.theverge.com/23869483/us-v-google-search-antitrust-case-updates)
- - [Inside the high-wire business of MrBeast](https://www.theverge.com/command-line-newsletter/626330/mrbeast-business-youtube-feastables-fundraising)
- - [The hunt for the next Twitter: all the news about alternative social media platforms](https://www.theverge.com/23686584/twitter-alternative-social-media-platforms-mastodon-bluesky-activitypub-protocol)
- - [Sources: Craig Federighi and other Apple executives voiced concerns that personalized Siri didn&#39;t work properly; some think it has to be rebuilt from scratch &lpar;Mark Gurman/Bloomberg&rpar;](http://www.techmeme.com/250307/p19#a250307p19)<!-- TECH:END -->
+ - [Inside the high-wire business of MrBeast](https://www.theverge.com/command-line-newsletter/626330/mrbeast-business-youtube-feastables-fundraising)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

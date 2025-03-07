@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Revolut and Visa file challenges against UK&#39;s Payment Systems Regulator, say it overstepped its powers with a plan to cap international digital transaction fees &lpar;Akila Quinio/Financial Times&rpar;](http://www.techmeme.com/250307/p17#a250307p17)
+ - [Volkswagen is bringing back physical buttons](https://www.theverge.com/news/626311/vw-physical-controls-buttons-coming-id-2-all)
  - [Nokia Put a 4G Cellular Network on the Moon, but Couldn&#39;t Make a Phone Call](https://www.wired.com/story/nokia-4g-network-on-the-moon/)
  - [Apple wins patent battle against AliveCor, avoids potential Apple Watch import ban](https://appleinsider.com/articles/25/03/07/apple-wins-patent-battle-against-alivecor-avoids-potential-apple-watch-import-ban?utm_medium=rss)
- - [Trump’s first 100 days: all the news affecting the tech industry](https://www.theverge.com/24348851/donald-trump-presidency-tech-science-news)
- - [US tariffs: how Trump’s tax is hitting Big Tech and beyond](https://www.theverge.com/604742/trump-tariffs-canada-mexico-china-updates)
- - [Uranium is in the crosshairs of the US-Canada tariff battle](https://www.theverge.com/climate-change/626158/trump-tariffs-uranium-nuclear-energy-ai-data-centers)<!-- TECH:END -->
+ - [Trump’s first 100 days: all the news affecting the tech industry](https://www.theverge.com/24348851/donald-trump-presidency-tech-science-news)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Yes](http://9gag.com/gag/a5QBojr)
- - 😝 [The incline of this Japanese bridge gives the illusion of being vertical](http://9gag.com/gag/azxPAxm)
- - 💣 [When India is trash, you just dumb trash on trash](http://9gag.com/gag/aRBZKNG)
- - 😝 [ILLUSION!](http://9gag.com/gag/aNDvA80)
- - 👉 [Cheating.](http://9gag.com/gag/aZZw39X)<!-- MEMES:END -->
+ - 😝 [Cheating.](http://9gag.com/gag/aZZw39X)
+ - 😝 [How villain was made be like](http://9gag.com/gag/aD2njGd)
+ - 💣 [Yes we are like this](http://9gag.com/gag/ajPOXLp)
+ - 😝 [This crew had their ship get stuck in ice](http://9gag.com/gag/avyeOQW)
+ - 👉 [Yes](http://9gag.com/gag/a5QBojr)<!-- MEMES:END -->
 
 ---
 

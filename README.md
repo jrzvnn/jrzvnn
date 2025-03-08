@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [CoreWeave&#39;s S-1 reveals its three co-founders own less than 3% of Class A shares after cashing out ~$488M, but still control ~80% of votes though Class B shares &lpar;Julie Bort/TechCrunch&rpar;](http://www.techmeme.com/250308/p5#a250308p5)
+ - [The CCI will review the antitrust case filed by an Indian distributors&#39; federation over alleged deep discounting practices by Zomato, Swiggy, and Zepto &lpar;Aditya Kalra/Reuters&rpar;](http://www.techmeme.com/250308/p4#a250308p4)
  - [Crogl, whose AI agent helps cybersecurity researchers analyze daily network alerts to find and fix security incidents, raised a $25M Series A and a $5M seed &lpar;Ingrid Lunden/TechCrunch&rpar;](http://www.techmeme.com/250308/p3#a250308p3)
  - [The FTC told a US district judge it is still determining who Amazon&#39;s competitors are for its 2023 antitrust lawsuit and the list could include Walmart and eBay &lpar;Josh Sisco/Bloomberg&rpar;](http://www.techmeme.com/250308/p2#a250308p2)
- - [GSMA Intelligence: ~61 countries, including the US and China, plan to shut down their 2G networks, raising digital exclusion concerns, mainly affecting the poor &lpar;Lam Le/Rest of World&rpar;](http://www.techmeme.com/250308/p1#a250308p1)
- - [Filing: Elon Musk is set to be questioned under oath on April 3 in an investor lawsuit alleging his Twitter buyout flip-flop was a ruse to lower its stock price &lpar;Malathi Nayak/Bloomberg&rpar;](http://www.techmeme.com/250307/p31#a250307p31)
- - [A look at India&#39;s semiconductor push as it invests $18B in five projects, with combined federal and state subsidies covering approximately 70% of project costs &lpar;Manish Singh/India Dispatch&rpar;](http://www.techmeme.com/250307/p30#a250307p30)<!-- TECH:END -->
+ - [GSMA Intelligence: ~61 countries, including the US and China, plan to shut down their 2G networks, raising digital exclusion concerns, mainly affecting the poor &lpar;Lam Le/Rest of World&rpar;](http://www.techmeme.com/250308/p1#a250308p1)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

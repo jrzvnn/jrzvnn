@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Best Internet Providers in Rhode Island](https://www.cnet.com/home/internet/best-internet-providers-in-rhode-island/#ftag=CAD590a51e)
  - [Sources detail how crypto flooded Trump with cash, including $50M+ in donations from at least eight execs, and how he is doing much of what the industry wants &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/250308/p13#a250308p13)
  - [Check your DVDs for disc rot — Warner Bros. says it’s replacing them](https://www.theverge.com/news/626482/warner-bros-dvd-disc-rot-failure-2006-2008-replacement)
  - [&#39;The Righteous Gemstones&#39;: When to Watch the Fourth and Final Season](https://www.cnet.com/tech/services-and-software/the-righteous-gemstones-when-to-watch-the-fourth-and-final-season/#ftag=CAD590a51e)
- - [Best Weather Apps for 2025](https://www.cnet.com/tech/services-and-software/best-weather-app/#ftag=CAD590a51e)
- - [Two Apple Card Daily Cash bonus offers to entice new signups](https://appleinsider.com/articles/25/03/08/two-apple-card-daily-cash-bonus-offers-to-entice-new-signups?utm_medium=rss)<!-- TECH:END -->
+ - [Best Weather Apps for 2025](https://www.cnet.com/tech/services-and-software/best-weather-app/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

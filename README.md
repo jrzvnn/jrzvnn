@@ -166,10 +166,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Store in Brooklyn forced to shut down due to repeated looting](http://9gag.com/gag/an7n9Vq)
- - 😝 [Trust him.he knows that stuff](http://9gag.com/gag/aVvEYz8)
- - 💣 [Can handle baby carrots](http://9gag.com/gag/a9yvA2j)
  - 😝 [Romanian countryside drive.](http://9gag.com/gag/aGy8ZXw)
+ - 😝 [But remember, fat shaming is no no!](http://9gag.com/gag/aoyV1Ye)
+ - 💣 [Can handle baby carrots](http://9gag.com/gag/a9yvA2j)
+ - 😝 [Cheating.](http://9gag.com/gag/aZZw39X)
  - 👉 [Dude decided to rob the wrong 7 eleven store](http://9gag.com/gag/a0eVQAL)<!-- MEMES:END -->
 
 ---

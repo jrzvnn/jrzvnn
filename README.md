@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Anyone out there know what the hell this is?...Thanks in advance.](http://9gag.com/gag/aKG93j6)
+ - 😝 [Dat child... taking all the blame](http://9gag.com/gag/aYQOL0w)
  - 😝 [The incline of this Japanese bridge gives the illusion of being vertical](http://9gag.com/gag/azxPAxm)
- - 💣 [Dat child... taking all the blame](http://9gag.com/gag/aYQOL0w)
- - 😝 [Let the best comment win.](http://9gag.com/gag/ae9OM3q)
- - 👉 [This is a very rare case](http://9gag.com/gag/a0eVdoZ)<!-- MEMES:END -->
+ - 💣 [Umm.... \ud83d\ude2e](http://9gag.com/gag/a5QBrVN)
+ - 😝 [They don&#39;t understand or they don&#39;t want to understand?](http://9gag.com/gag/aYQO48v)
+ - 👉 [Nice Eyes](http://9gag.com/gag/ae9Oe8W)<!-- MEMES:END -->
 
 ---
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Spain fought them for 700 years only to let them right back in.](http://9gag.com/gag/a4PzYqd)
- - 😝 [Time Flies](http://9gag.com/gag/aE0VRX9)
- - 💣 [WTF? Why does the ps3 need an update in 2025?!](http://9gag.com/gag/amoGr14)
- - 😝 [The incline of this Japanese bridge gives the illusion of being vertical](http://9gag.com/gag/azxPAxm)
- - 👉 [I need that mandarin](http://9gag.com/gag/azxPVKq)<!-- MEMES:END -->
+ - 😝 [When you know you\u2019re stating a company, not a modelling agency!](http://9gag.com/gag/aMVmwyG)
+ - 😝 [Title](http://9gag.com/gag/adBO9j2)
+ - 💣 [Yeb I do like my bed](http://9gag.com/gag/aqy8bwQ)
+ - 😝 [RIP Camera man](http://9gag.com/gag/aE0VBRp)
+ - 👉 [Time Flies](http://9gag.com/gag/aE0VRX9)<!-- MEMES:END -->
 
 ---
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [A US federal judge allows the Kadrey v. Meta case, in which authors allege Meta violated IP rights by using their books to train Llama models, to move forward &lpar;Anthony Ha/TechCrunch&rpar;](http://www.techmeme.com/250308/p16#a250308p16)
+ - [The Last of Us season 2 gets an explosive new trailer](https://www.theverge.com/tv/626531/the-last-of-us-season-2-trailer)
  - [Best Winter Workout Gear: Must-Have Jackets, Leggings, Sunglasses and More](https://www.cnet.com/health/fitness/best-winter-workout-gear/#ftag=CAD590a51e)
  - [Sources describe the collapse of fintech middleman Synapse that left ~$200M in customer money frozen, with entities blaming each other for shoddy recordkeeping &lpar;Fortune&rpar;](http://www.techmeme.com/250308/p15#a250308p15)
- - [Today&#39;s Wordle Hints, Answer and Help for March 9, #1359](https://www.cnet.com/tech/gaming/todays-wordle-hints-answer-and-help-for-march-9-1359/#ftag=CAD590a51e)
- - [Today&#39;s NYT Strands Hints, Answers and Help for March 9, #371](https://www.cnet.com/tech/gaming/todays-nyt-strands-hints-answers-and-help-for-march-9-371/#ftag=CAD590a51e)
- - [Best Laser Cutters and Engravers of 2025](https://www.cnet.com/tech/computing/the-best-laser-cutters-and-engravers/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Today&#39;s Wordle Hints, Answer and Help for March 9, #1359](https://www.cnet.com/tech/gaming/todays-wordle-hints-answer-and-help-for-march-9-1359/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

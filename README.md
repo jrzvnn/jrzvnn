@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The US OCC says banks can engage in some crypto activities, rescinding prior guidance that told them they should clear such activities with regulators first &lpar;Pete Schroeder/Reuters&rpar;](http://www.techmeme.com/250307/p23#a250307p23)
+ - [Sources: virtual physical therapy service Hinge Health aims to file for a US IPO as soon as next week and could go public in April; it had $390M in 2024 revenue &lpar;Bloomberg&rpar;](http://www.techmeme.com/250307/p22#a250307p22)
+ - [I Fell in Love With This Tiny Foldable Projector at MWC 2025](https://www.cnet.com/tech/mobile/i-fell-in-love-with-this-tiny-foldable-projector-at-mwc-2025/#ftag=CAD590a51e)
  - [Sources: crypto exchange and custodian Gemini has filed confidentially for an IPO; the company is reportedly considering going public as soon as this year &lpar;Bloomberg&rpar;](http://www.techmeme.com/250307/p21#a250307p21)
- - [Jim Jordan subpoena pushes YouTube to restore &amp;#8216;free speech&amp;#8217; like Meta](https://www.theverge.com/news/626320/jim-jordan-alphabet-youtube-subpoena-censorship)
- - [The DOJ Still Wants Google to Sell Off Chrome](https://www.wired.com/story/the-doj-still-wants-google-to-divest-chrome/)
- - [Filings: the US DOJ drops a bid to force Google to sell its AI investments to boost search competition but still seeks a court order requiring it to sell Chrome &lpar;Jody Godoy/Reuters&rpar;](http://www.techmeme.com/250307/p20#a250307p20)
- - [DOGE Has Deployed Its GSAi Custom Chatbot for 1,500 Federal Workers](https://www.wired.com/story/gsai-chatbot-1500-federal-workers/)<!-- TECH:END -->
+ - [I Wore the TCL RayNeo X3 Pros at MWC 2025. This Is What AR Smart Glasses Should Be](https://www.cnet.com/tech/mobile/i-wore-the-tcl-rayneo-x3-pros-at-mwc-2025/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

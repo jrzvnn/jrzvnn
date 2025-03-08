@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Is SAVE Dead? Tips for Borrowers Stuck in Student Loan Purgatory](https://www.cnet.com/personal-finance/loans/is-save-dead-tips-for-borrowers-stuck-in-student-loan-purgatory/#ftag=CAD590a51e)
  - [After the ~$1.5B hack, Bybit borrowed about $280M in ether from crypto industry peers to help process 350,000 customer withdrawal requests over 10 hours &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/250308/p10#a250308p10)
  - [Source: Bybit hackers planted malicious code to manipulate transactions by compromising a developer&#39;s computer at crypto wallet provider Safe, used by Bybit &lpar;David Yaffe-Bellany/New York Times&rpar;](http://www.techmeme.com/250308/p9#a250308p9)
  - [Freed, which offers an AI scribe that automates clinical notetaking in real time and is used by 17K+ clinicians, raised a $30M Series A led by Sequoia Capital &lpar;Ashley Capoot/CNBC&rpar;](http://www.techmeme.com/250308/p8#a250308p8)
- - [Meta will recommend using Unity and Unreal&#39;s built-in OpenXR support, after developers said Meta&#39;s Unity and Unreal integrations blocked other PC VR headsets &lpar;David Heaney/UploadVR&rpar;](http://www.techmeme.com/250308/p7#a250308p7)
- - [Today&#39;s NYT Mini Crossword Answers for Saturday, March 8](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-saturday-march-8/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Meta will recommend using Unity and Unreal&#39;s built-in OpenXR support, after developers said Meta&#39;s Unity and Unreal integrations blocked other PC VR headsets &lpar;David Heaney/UploadVR&rpar;](http://www.techmeme.com/250308/p7#a250308p7)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Freed, which offers an AI scribe that automates clinical notetaking in real time and is used by 17K clinicians, raised a $30M Series A led by Sequoia Capital &lpar;Ashley Capoot/CNBC&rpar;](http://www.techmeme.com/250308/p8#a250308p8)
+ - [Meta will recommend using Unity and Unreal&#39;s built-in OpenXR support, after developers said Meta&#39;s Unity and Unreal integrations blocked other PC VR headsets &lpar;David Heaney/UploadVR&rpar;](http://www.techmeme.com/250308/p7#a250308p7)
  - [Sources: activist investor Mantle Ridge has built a $1B+ stake in Cognizant and believes the tech services firm, which has a $41B+ market cap, is undervalued &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/250308/p6#a250308p6)
  - [CoreWeave&#39;s S-1 reveals its three co-founders own less than 3% of Class A shares after cashing out ~$488M, but still control ~80% of votes via Class B shares &lpar;Julie Bort/TechCrunch&rpar;](http://www.techmeme.com/250308/p5#a250308p5)
- - [The CCI will review the antitrust case filed by an Indian distributors&#39; federation over alleged deep discounting practices by Zomato, Swiggy, and Zepto &lpar;Aditya Kalra/Reuters&rpar;](http://www.techmeme.com/250308/p4#a250308p4)
- - [Crogl, whose AI agent helps cybersecurity researchers analyze daily network alerts to find and fix security incidents, raised a $25M Series A and a $5M seed &lpar;Ingrid Lunden/TechCrunch&rpar;](http://www.techmeme.com/250308/p3#a250308p3)
- - [The FTC told a US district judge it is still determining who Amazon&#39;s competitors are for its 2023 antitrust lawsuit and the list could include Walmart and eBay &lpar;Josh Sisco/Bloomberg&rpar;](http://www.techmeme.com/250308/p2#a250308p2)<!-- TECH:END -->
+ - [The CCI will review the antitrust case filed by an Indian distributors&#39; federation over alleged deep discounting practices by Zomato, Swiggy, and Zepto &lpar;Aditya Kalra/Reuters&rpar;](http://www.techmeme.com/250308/p4#a250308p4)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

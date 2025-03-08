@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [They don&#39;t understand or they don&#39;t want to understand?](http://9gag.com/gag/aYQO48v)
- - 😝 [Tongue-eating parasite replaces the fish&#39;s tongue, by eating it first](http://9gag.com/gag/a87mMm1)
- - 💣 [RIP Camera man](http://9gag.com/gag/aE0VBRp)
- - 😝 [A very sincere work interview](http://9gag.com/gag/ajPOA1w)
- - 👉 [This was epic!](http://9gag.com/gag/azxPr6K)<!-- MEMES:END -->
+ - 😝 [Posting memes I found on my smartphone until I get bored or die #1106](http://9gag.com/gag/aO84BGy)
+ - 😝 [When you know you\u2019re stating a company, not a modelling agency!](http://9gag.com/gag/aMVmwyG)
+ - 💣 [Yeb I do like my bed](http://9gag.com/gag/aqy8bwQ)
+ - 😝 [RIP Camera man](http://9gag.com/gag/aE0VBRp)
+ - 👉 [Time Flies](http://9gag.com/gag/aE0VRX9)<!-- MEMES:END -->
 
 ---
 

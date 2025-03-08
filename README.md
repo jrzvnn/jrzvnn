@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Jim Sanborn, creator of the Kryptos sculpture at CIA HQ, says he&#39;s frustrated with amateurs falsely claiming they cracked the 35-year unsolved code using AI &lpar;Steven Levy/Wired&rpar;](http://www.techmeme.com/250307/p29#a250307p29)
  - [China plans a &quot;state venture capital guidance fund&quot;, expected to attract ~$138B over 20 years from local governments and private sector, to support AI and more &lpar;CNN&rpar;](http://www.techmeme.com/250307/p28#a250307p28)
  - [Experts say Sean Cairncross&#39; nomination as national cyber director signals the White House&#39;s ONCD will lead US cyber policy across the government &lpar;Suzanne Smalley/The Record&rpar;](http://www.techmeme.com/250307/p27#a250307p27)
  - [Signal&#39;s Meredith Whittaker says AI agents doing tasks on users&#39; behalf pose security and privacy risks and refers to their use as &quot;putting your brain in a jar&quot; &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/250307/p26#a250307p26)
- - [The White House hosted its first Crypto Summit, bringing together top crypto executives, including Coinbase CEO Brian Armstrong and Tyler and Cameron Winklevoss &lpar;David Yaffe-Bellany/New York Times&rpar;](http://www.techmeme.com/250307/p25#a250307p25)
- - [Unsealed court docs: US investigators believe hackers behind the 2022 LastPass breach stole $150M in XRP, now worth ~$700M, from one person in January 2024 &lpar;Thomas Brewster/Forbes&rpar;](http://www.techmeme.com/250307/p24#a250307p24)<!-- TECH:END -->
+ - [The White House hosted its first Crypto Summit, bringing together top crypto executives, including Coinbase CEO Brian Armstrong and Tyler and Cameron Winklevoss &lpar;David Yaffe-Bellany/New York Times&rpar;](http://www.techmeme.com/250307/p25#a250307p25)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

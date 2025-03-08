@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [This Split Mattress Topper Made for Partners Who Can’t Agree](https://www.wired.com/story/best-split-mattress-topper/)
- - [Premier League Soccer: Stream Liverpool vs. Southampton From Anywhere](https://www.cnet.com/tech/services-and-software/premier-league-soccer-stream-liverpool-vs-southampton-from-anywhere/#ftag=CAD590a51e)
- - [Premier League Soccer: Stream Brighton vs. Fulham From Anywhere](https://www.cnet.com/tech/services-and-software/premier-league-soccer-stream-brighton-vs-fulham-from-anywhere/#ftag=CAD590a51e)
- - [&#39;The White Lotus&#39; Season 3: When to Watch Episode 4 on Max](https://www.cnet.com/tech/services-and-software/the-white-lotus-season-3-when-to-watch-episode-4-on-max/#ftag=CAD590a51e)
- - [The Biggest US Banks Have All Backed Out of a Commitment to Reach Net Zero](https://www.wired.com/story/big-banks-abandoned-a-voluntary-climate-alliance-now-critics-are-calling-for-new-laws/)<!-- TECH:END -->
+ - [Daylight Saving Time Starts Tomorrow. Here&#39;s When the Clocks &#39;Spring Forward&#39;](https://www.cnet.com/health/daylight-saving-time-starts-tomorrow-heres-when-the-clocks-spring-forward/#ftag=CAD590a51e)
+ - [What&#39;s Coming to Disneyland and Disney World? Here&#39;s Everything New in 2025 and Beyond](https://www.cnet.com/tech/services-and-software/whats-coming-to-disneyland-and-disney-world-heres-everything-new-in-2025-and-beyond/#ftag=CAD590a51e)
+ - [Spring Is Almost Here: What to Know About the Equinox and When It Is](https://www.cnet.com/science/space/spring-is-almost-here-what-to-know-about-the-equinox-and-when-it-is/#ftag=CAD590a51e)
+ - [Meet Apple&#39;s Adorable, Pixar-Esque Robot Lamp](https://www.cnet.com/tech/meet-apples-pixar-esque-adorable-robot-lamp/#ftag=CAD590a51e)
+ - [The Extreme Weather Conditions That Drove the Carolina Wildfires](https://www.wired.com/story/the-extreme-weather-conditions-that-drove-the-carolina-wildfires/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

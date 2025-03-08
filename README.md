@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [Don&#39;t know if this one got posted, but here you go. Sez2ep9](http://9gag.com/gag/a34AMpQ)
+ - 😝 [This was epic!](http://9gag.com/gag/azxPr6K)
+ - 💣 [RIP Camera man](http://9gag.com/gag/aE0VBRp)
  - 😝 [The incline of this Japanese bridge gives the illusion of being vertical](http://9gag.com/gag/azxPAxm)
- - 😝 [Nightmare fuel unlocked](http://9gag.com/gag/aYQOLPO)
- - 💣 [This was epic!](http://9gag.com/gag/azxPr6K)
- - 😝 [This is how ancient Chinese people used to send secret messages](http://9gag.com/gag/a4PzL0Q)
- - 👉 [RIP Camera man](http://9gag.com/gag/aE0VBRp)<!-- MEMES:END -->
+ - 👉 [Title](http://9gag.com/gag/a2v8rqY)<!-- MEMES:END -->
 
 ---
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Sources detail the nearly 10-hour-long tech meltdown of the European Central Bank&#39;s main payment system on February 27 due to a piece of malfunctioning hardware &lpar;Reuters&rpar;](http://www.techmeme.com/250308/p11#a250308p11)
  - [Cybercriminals Allegedly Used a StubHub Backdoor to Steal Taylor Swift Tickets](https://www.wired.com/story/stubhub-backdoor-stolen-taylor-swift-tickets/)
  - [Google&#39;s Latest Pixel Update Lets You Generate Images of People](https://www.wired.com/story/google-latest-pixel-update-lets-you-generate-images-of-people/)
  - [How Samsung&amp;#8217;s Galaxy Z Flip failed me without actually breaking](https://www.theverge.com/editorial/626356/galaxy-z-flip-folding-phone-didnt-last-two-years-battery)
- - [Today&#39;s NYT Strands Hints, Answers and Help for March 8, #370](https://www.cnet.com/tech/gaming/todays-nyt-strands-hints-answers-and-help-for-march-8-370/#ftag=CAD590a51e)
- - [Today&#39;s NYT Connections: Sports Edition Hints and Answers for March 9, #167](https://www.cnet.com/tech/gaming/todays-nyt-connections-sports-edition-hints-and-answers-for-march-9-167/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Today&#39;s NYT Strands Hints, Answers and Help for March 8, #370](https://www.cnet.com/tech/gaming/todays-nyt-strands-hints-answers-and-help-for-march-8-370/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

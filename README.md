@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [This crew had their ship get stuck in ice](http://9gag.com/gag/avyeOQW)
+ - 😝 [Yes](http://9gag.com/gag/a5QBojr)
  - 😝 [Can handle baby carrots](http://9gag.com/gag/a9yvA2j)
- - 💣 [ILLUSION!](http://9gag.com/gag/aNDvA80)
- - 😝 [Road raging without handbrakes engaged](http://9gag.com/gag/aXPNqR2)
- - 👉 [But remember, fat shaming is no no!](http://9gag.com/gag/aoyV1Ye)<!-- MEMES:END -->
+ - 💣 [Dude decided to rob the wrong 7 eleven store](http://9gag.com/gag/a0eVQAL)
+ - 😝 [But remember, fat shaming is no no!](http://9gag.com/gag/aoyV1Ye)
+ - 👉 [Trust him.he knows that stuff](http://9gag.com/gag/aVvEYz8)<!-- MEMES:END -->
 
 ---
 

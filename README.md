@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Sources describe the collapse of fintech middleman Synapse that left ~$200M in customer money frozen, with entities blaming each other for shoddy recordkeeping &lpar;Fortune&rpar;](http://www.techmeme.com/250308/p15#a250308p15)
  - [Today&#39;s Wordle Hints, Answer and Help for March 9, #1359](https://www.cnet.com/tech/gaming/todays-wordle-hints-answer-and-help-for-march-9-1359/#ftag=CAD590a51e)
  - [Today&#39;s NYT Strands Hints, Answers and Help for March 9, #371](https://www.cnet.com/tech/gaming/todays-nyt-strands-hints-answers-and-help-for-march-9-371/#ftag=CAD590a51e)
  - [Best Laser Cutters and Engravers of 2025](https://www.cnet.com/tech/computing/the-best-laser-cutters-and-engravers/#ftag=CAD590a51e)
- - [Best Standing Desks of 2025](https://www.cnet.com/news/best-standing-desk/#ftag=CAD590a51e)
- - [Trump’s first 100 days: all the news affecting the tech industry](https://www.theverge.com/24348851/donald-trump-presidency-tech-science-news)<!-- TECH:END -->
+ - [Best Standing Desks of 2025](https://www.cnet.com/news/best-standing-desk/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

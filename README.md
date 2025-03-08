@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [When you know you\u2019re stating a company, not a modelling agency!](http://9gag.com/gag/aMVmwyG)
- - 😝 [Title](http://9gag.com/gag/adBO9j2)
- - 💣 [Yeb I do like my bed](http://9gag.com/gag/aqy8bwQ)
- - 😝 [RIP Camera man](http://9gag.com/gag/aE0VBRp)
- - 👉 [Time Flies](http://9gag.com/gag/aE0VRX9)<!-- MEMES:END -->
+ - 😝 [They are always supportive of trans women until they are told they look like one](http://9gag.com/gag/aE0VYEO)
+ - 😝 [Nightmare fuel unlocked](http://9gag.com/gag/aYQOLPO)
+ - 💣 [No title](http://9gag.com/gag/aNDvKjG)
+ - 😝 [The incline of this Japanese bridge gives the illusion of being vertical](http://9gag.com/gag/azxPAxm)
+ - 👉 [This is how ancient Chinese people used to send secret messages](http://9gag.com/gag/a4PzL0Q)<!-- MEMES:END -->
 
 ---
 

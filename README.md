@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [A look at YouTube&#39;s origins, growth, and domination as the platform turns 20, including an interview with CEO Neal Mohan, who is nearing 10 years at the company &lpar;Todd Spangler/Variety&rpar;](http://www.techmeme.com/250308/p12#a250308p12)
  - [How to Clean Vinyl Records &lpar;2025&rpar;: Vacuums, Solution, Wipes](https://www.wired.com/story/how-to-clean-vinyl/)
  - [The best entertainment of 2025](https://www.theverge.com/entertainment/625337/best-games-movies-tv-2025)
  - [How to Get Windows Games Working on a Mac](https://www.wired.com/story/how-to-get-windows-games-working-on-a-mac/)
- - [How Much Interest Can You Earn by Depositing $5,000 Into a CD Today?](https://www.cnet.com/personal-finance/banking/how-much-interest-can-you-earn-by-depositing-5000-into-a-cd-today/#ftag=CAD590a51e)
- - [Someone Studied How Daylight Savings Affects Crime. The Results Are Fascinating](https://www.cnet.com/home/security/someone-studied-how-daylight-savings-affects-crime-and-the-results-are-staggering/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [How Much Interest Can You Earn by Depositing $5,000 Into a CD Today?](https://www.cnet.com/personal-finance/banking/how-much-interest-can-you-earn-by-depositing-5000-into-a-cd-today/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -166,10 +166,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [I&#39;m 40, I don&#39;t have time for this BS](http://9gag.com/gag/aRBZ3qB)
+ - 😝 [Yes we are like this](http://9gag.com/gag/ajPOXLp)
  - 😝 [Reichelt jumped from the Eiffel Tower to prove his wearable parachute worked , thus starting the Darwin Awards](http://9gag.com/gag/aByLWx1)
- - 💣 [Stay calm](http://9gag.com/gag/aLneDKv)
- - 😝 [Cheating.](http://9gag.com/gag/aZZw39X)
+ - 💣 [How villain was made be like](http://9gag.com/gag/aD2njGd)
+ - 😝 [I&#39;m 40, I don&#39;t have time for this BS](http://9gag.com/gag/aRBZ3qB)
  - 👉 [The incline of this Japanese bridge gives the illusion of being vertical](http://9gag.com/gag/azxPAxm)<!-- MEMES:END -->
 
 ---

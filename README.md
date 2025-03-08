@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [The incline of this Japanese bridge gives the illusion of being vertical](http://9gag.com/gag/azxPAxm)
- - 😝 [A very sincere work interview](http://9gag.com/gag/ajPOA1w)
- - 💣 [Umm.... \ud83d\ude2e](http://9gag.com/gag/a5QBrVN)
- - 😝 [Don&#39;t know if this one got posted, but here you go. Sez2ep9](http://9gag.com/gag/a34AMpQ)
- - 👉 [Hes the best CEO in the world](http://9gag.com/gag/aD2nG89)<!-- MEMES:END -->
+ - 😝 [Title](http://9gag.com/gag/a2v8rqY)
+ - 😝 [WTF? Why does the ps3 need an update in 2025?!](http://9gag.com/gag/amoGr14)
+ - 💣 [The approach you need to have with any girl](http://9gag.com/gag/aGy800Z)
+ - 😝 [Let the best comment win.](http://9gag.com/gag/ae9OM3q)
+ - 👉 [The incline of this Japanese bridge gives the illusion of being vertical](http://9gag.com/gag/azxPAxm)<!-- MEMES:END -->
 
 ---
 

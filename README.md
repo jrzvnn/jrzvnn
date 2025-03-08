@@ -157,7 +157,7 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [CoreWeave&#39;s S-1 reveals its three co-founders own less than 3% of Class A shares after cashing out ~$488M, but still control ~80% of votes though Class B shares &lpar;Julie Bort/TechCrunch&rpar;](http://www.techmeme.com/250308/p5#a250308p5)
+ - [CoreWeave&#39;s S-1 reveals its three co-founders own less than 3% of Class A shares after cashing out ~$488M, but still control ~80% of votes via Class B shares &lpar;Julie Bort/TechCrunch&rpar;](http://www.techmeme.com/250308/p5#a250308p5)
  - [The CCI will review the antitrust case filed by an Indian distributors&#39; federation over alleged deep discounting practices by Zomato, Swiggy, and Zepto &lpar;Aditya Kalra/Reuters&rpar;](http://www.techmeme.com/250308/p4#a250308p4)
  - [Crogl, whose AI agent helps cybersecurity researchers analyze daily network alerts to find and fix security incidents, raised a $25M Series A and a $5M seed &lpar;Ingrid Lunden/TechCrunch&rpar;](http://www.techmeme.com/250308/p3#a250308p3)
  - [The FTC told a US district judge it is still determining who Amazon&#39;s competitors are for its 2023 antitrust lawsuit and the list could include Walmart and eBay &lpar;Josh Sisco/Bloomberg&rpar;](http://www.techmeme.com/250308/p2#a250308p2)

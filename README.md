@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [He did Nazi that coming](https://www.reddit.com/r/funny/comments/1j6f1xn/he_did_nazi_that_coming/)
  - 😝 [This is a very rare case](http://9gag.com/gag/a0eVdoZ)
- - 😝 [This was epic!](http://9gag.com/gag/azxPr6K)
- - 💣 [Yes we are like this](http://9gag.com/gag/ajPOXLp)
- - 😝 [Road raging without handbrakes engaged](http://9gag.com/gag/aXPNqR2)
- - 👉 [They don&#39;t understand or they don&#39;t want to understand?](http://9gag.com/gag/aYQO48v)<!-- MEMES:END -->
+ - 💣 [This was epic!](http://9gag.com/gag/azxPr6K)
+ - 😝 [Yes we are like this](http://9gag.com/gag/ajPOXLp)
+ - 👉 [Road raging without handbrakes engaged](http://9gag.com/gag/aXPNqR2)<!-- MEMES:END -->
 
 ---
 

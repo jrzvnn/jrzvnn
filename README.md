@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The 41 Best Movies on Netflix Right Now &lpar;March 2025&rpar;](https://www.wired.com/story/netflix-best-movies-this-week/)
- - [The Biggest US Banks Have All Backed Out of a Commitment to Reach Net Zero](https://www.wired.com/story/big-banks-abandoned-a-voluntary-climate-alliance-now-critics-are-calling-for-new-laws/)
- - [The 42 Best Shows on Netflix Right Now &lpar;March 2025&rpar;](https://www.wired.com/story/netflix-best-shows-this-week/)
- - [Sources detail the nearly 10-hour-long tech meltdown of the European Central Bank&#39;s main payment system on February 27 due to a piece of malfunctioning hardware &lpar;Reuters&rpar;](http://www.techmeme.com/250308/p11#a250308p11)
- - [Cybercriminals Allegedly Used a StubHub Backdoor to Steal Taylor Swift Tickets](https://www.wired.com/story/stubhub-backdoor-stolen-taylor-swift-tickets/)<!-- TECH:END -->
+ - [This Split Mattress Topper Made for Partners Who Can’t Agree](https://www.wired.com/story/best-split-mattress-topper/)
+ - [Premier League Soccer: Stream Liverpool vs. Southampton From Anywhere](https://www.cnet.com/tech/services-and-software/premier-league-soccer-stream-liverpool-vs-southampton-from-anywhere/#ftag=CAD590a51e)
+ - [Premier League Soccer: Stream Brighton vs. Fulham From Anywhere](https://www.cnet.com/tech/services-and-software/premier-league-soccer-stream-brighton-vs-fulham-from-anywhere/#ftag=CAD590a51e)
+ - [&#39;The White Lotus&#39; Season 3: When to Watch Episode 4 on Max](https://www.cnet.com/tech/services-and-software/the-white-lotus-season-3-when-to-watch-episode-4-on-max/#ftag=CAD590a51e)
+ - [The Biggest US Banks Have All Backed Out of a Commitment to Reach Net Zero](https://www.wired.com/story/big-banks-abandoned-a-voluntary-climate-alliance-now-critics-are-calling-for-new-laws/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

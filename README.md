@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [When you misread the weather app\u2026](http://9gag.com/gag/avyen7d)
- - 😝 [Title](http://9gag.com/gag/a2v8rqY)
- - 💣 [Hes the best CEO in the world](http://9gag.com/gag/aD2nG89)
- - 😝 [They are always supportive of trans women until they are told they look like one](http://9gag.com/gag/aE0VYEO)
- - 👉 [The incline of this Japanese bridge gives the illusion of being vertical](http://9gag.com/gag/azxPAxm)<!-- MEMES:END -->
+ - 😝 [The incline of this Japanese bridge gives the illusion of being vertical](http://9gag.com/gag/azxPAxm)
+ - 😝 [WTF? Why does the ps3 need an update in 2025?!](http://9gag.com/gag/amoGr14)
+ - 💣 [They are always supportive of trans women until they are told they look like one](http://9gag.com/gag/aE0VYEO)
+ - 😝 [How the pigtail scene was filmed. Matilda 1996](http://9gag.com/gag/aqy8537)
+ - 👉 [This is how ancient Chinese people used to send secret messages](http://9gag.com/gag/a4PzL0Q)<!-- MEMES:END -->
 
 ---
 

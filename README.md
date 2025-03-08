@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [ILLUSION!](http://9gag.com/gag/aNDvA80)
- - 😝 [Fast response](http://9gag.com/gag/agmOnMq)
- - 💣 [Dude decided to rob the wrong 7 eleven store](http://9gag.com/gag/a0eVQAL)
- - 😝 [Trust him.he knows that stuff](http://9gag.com/gag/aVvEYz8)
- - 👉 [Can handle baby carrots](http://9gag.com/gag/a9yvA2j)<!-- MEMES:END -->
+ - 😝 [Yes](http://9gag.com/gag/a5QBojr)
+ - 😝 [Time Flies](http://9gag.com/gag/aE0VRX9)
+ - 💣 [RIP Camera man](http://9gag.com/gag/aE0VBRp)
+ - 😝 [They are always supportive of trans women until they are told they look like one](http://9gag.com/gag/aE0VYEO)
+ - 👉 [Just had a motorcycle accident on the German autobahn with 100kph+. Car overtook me and just moved in front of me without giving me any room to brake. Now I have a broken collarbone which needs to be operated soon \u2026 keep save and always wear full protective gear! saved my life !](http://9gag.com/gag/aD2nzXG)<!-- MEMES:END -->
 
 ---
 

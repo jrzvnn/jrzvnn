@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Justice Department demands Google sell off Chrome in new filing](https://appleinsider.com/articles/25/03/08/justice-department-demands-google-sell-off-chrome-in-new-filing?utm_medium=rss)
  - [Trump’s first 100 days: all the news affecting the tech industry](https://www.theverge.com/24348851/donald-trump-presidency-tech-science-news)
  - [US v. Google: all the news from the search antitrust showdown](https://www.theverge.com/23869483/us-v-google-search-antitrust-case-updates)
  - [As Japan copes with a labor shortage, its market for service robots, which assist people with tasks like waiting tables, is expected to almost triple by 2030 &lpar;Bloomberg&rpar;](http://www.techmeme.com/250308/p14#a250308p14)
- - [&#39;Suits LA&#39;: How to Watch Episode 3 of the Stephen Amell Spin-Off](https://www.cnet.com/tech/services-and-software/suits-la-how-to-watch-episode-3-stephen-amell-spinoff/#ftag=CAD590a51e)
- - [Best Internet Providers in Rhode Island](https://www.cnet.com/home/internet/best-internet-providers-in-rhode-island/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [&#39;Suits LA&#39;: How to Watch Episode 3 of the Stephen Amell Spin-Off](https://www.cnet.com/tech/services-and-software/suits-la-how-to-watch-episode-3-stephen-amell-spinoff/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

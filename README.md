@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [As Japan copes with a labor shortage, its market for service robots, which assist people with tasks like waiting tables, is expected to almost triple by 2030 &lpar;Bloomberg&rpar;](http://www.techmeme.com/250308/p14#a250308p14)
+ - [&#39;Suits LA&#39;: How to Watch Episode 3 of the Stephen Amell Spin-Off](https://www.cnet.com/tech/services-and-software/suits-la-how-to-watch-episode-3-stephen-amell-spinoff/#ftag=CAD590a51e)
  - [Best Internet Providers in Rhode Island](https://www.cnet.com/home/internet/best-internet-providers-in-rhode-island/#ftag=CAD590a51e)
  - [Sources detail how crypto flooded Trump with cash, including $50M+ in donations from at least eight execs, and how he is doing much of what the industry wants &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/250308/p13#a250308p13)
- - [Check your DVDs for disc rot — Warner Bros. says it’s replacing them](https://www.theverge.com/news/626482/warner-bros-dvd-disc-rot-failure-2006-2008-replacement)
- - [&#39;The Righteous Gemstones&#39;: When to Watch the Fourth and Final Season](https://www.cnet.com/tech/services-and-software/the-righteous-gemstones-when-to-watch-the-fourth-and-final-season/#ftag=CAD590a51e)
- - [Best Weather Apps for 2025](https://www.cnet.com/tech/services-and-software/best-weather-app/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Check your DVDs for disc rot — Warner Bros. says it’s replacing them](https://www.theverge.com/news/626482/warner-bros-dvd-disc-rot-failure-2006-2008-replacement)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

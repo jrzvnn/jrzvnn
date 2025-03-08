@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Comfort Colors T-Shirts Are the Only Thing I’ll Wear](https://www.wired.com/story/comfort-colors-t-shirts-are-the-best/)
- - [Daylight Saving Time Starts Tomorrow. Here&#39;s When the Clocks &#39;Spring Forward&#39;](https://www.cnet.com/health/daylight-saving-time-starts-tomorrow-heres-when-the-clocks-spring-forward/#ftag=CAD590a51e)
- - [What&#39;s Coming to Disneyland and Disney World? Here&#39;s Everything New in 2025 and Beyond](https://www.cnet.com/tech/services-and-software/whats-coming-to-disneyland-and-disney-world-heres-everything-new-in-2025-and-beyond/#ftag=CAD590a51e)
- - [Spring Is Almost Here: What to Know About the Equinox and When It Is](https://www.cnet.com/science/space/spring-is-almost-here-what-to-know-about-the-equinox-and-when-it-is/#ftag=CAD590a51e)
- - [Meet Apple&#39;s Adorable, Pixar-Esque Robot Lamp](https://www.cnet.com/tech/meet-apples-pixar-esque-adorable-robot-lamp/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [How to Get Windows Games Working on a Mac](https://www.wired.com/story/how-to-get-windows-games-working-on-a-mac/)
+ - [How Much Interest Can You Earn by Depositing $5,000 Into a CD Today?](https://www.cnet.com/personal-finance/banking/how-much-interest-can-you-earn-by-depositing-5000-into-a-cd-today/#ftag=CAD590a51e)
+ - [Someone Studied How Daylight Savings Affects Crime. The Results Are Fascinating](https://www.cnet.com/home/security/someone-studied-how-daylight-savings-affects-crime-and-the-results-are-staggering/#ftag=CAD590a51e)
+ - [MainFrames is a charming platformer that takes place inside computers](https://www.theverge.com/games-review/622113/mainframes-review-steam-nintendo-switch)
+ - [Comfort Colors T-Shirts Are the Only Thing I’ll Wear](https://www.wired.com/story/comfort-colors-t-shirts-are-the-best/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [This was epic!](http://9gag.com/gag/azxPr6K)
+ - 😝 [Psychiatric service dog helps schizophrenic man identify hallucinations](http://9gag.com/gag/aqy8b9L)
+ - 😝 [Yes we are like this](http://9gag.com/gag/ajPOXLp)
+ - 💣 [This was epic!](http://9gag.com/gag/azxPr6K)
  - 😝 [They don&#39;t understand or they don&#39;t want to understand?](http://9gag.com/gag/aYQO48v)
- - 💣 [The incline of this Japanese bridge gives the illusion of being vertical](http://9gag.com/gag/azxPAxm)
- - 😝 [Trust him.he knows that stuff](http://9gag.com/gag/aVvEYz8)
- - 👉 [Reichelt jumped from the Eiffel Tower to prove his wearable parachute worked , thus starting the Darwin Awards](http://9gag.com/gag/aByLWx1)<!-- MEMES:END -->
+ - 👉 [Yes](http://9gag.com/gag/a5QBojr)<!-- MEMES:END -->
 
 ---
 

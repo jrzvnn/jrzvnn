@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [They don&#39;t understand or they don&#39;t want to understand?](http://9gag.com/gag/aYQO48v)
- - 😝 [Anyone out there know what the hell this is?...Thanks in advance.](http://9gag.com/gag/aKG93j6)
- - 💣 [Cruelty is for the weak and dumb. Kindness to those in need is a superpower.](http://9gag.com/gag/an7nbYL)
  - 😝 [Knife-wielder holding a brown shirted man hostage.](http://9gag.com/gag/aVvE3gK)
- - 👉 [Nice Eyes](http://9gag.com/gag/ae9Oe8W)<!-- MEMES:END -->
+ - 😝 [They don&#39;t understand or they don&#39;t want to understand?](http://9gag.com/gag/aYQO48v)
+ - 💣 [Kazakhstan Army](http://9gag.com/gag/ajPOqpR)
+ - 😝 [This was epic!](http://9gag.com/gag/azxPr6K)
+ - 👉 [Road raging without handbrakes engaged](http://9gag.com/gag/aXPNqR2)<!-- MEMES:END -->
 
 ---
 

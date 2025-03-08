@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Yes](http://9gag.com/gag/a5QBojr)
- - 😝 [Cheating.](http://9gag.com/gag/aZZw39X)
+ - 😝 [He took her breath away....literally](http://9gag.com/gag/avyerA5)
+ - 😝 [Yes we are like this](http://9gag.com/gag/ajPOXLp)
  - 💣 [This crew had their ship get stuck in ice](http://9gag.com/gag/avyeOQW)
- - 😝 [Can handle baby carrots](http://9gag.com/gag/a9yvA2j)
- - 👉 [Road raging without handbrakes engaged](http://9gag.com/gag/aXPNqR2)<!-- MEMES:END -->
+ - 😝 [ILLUSION!](http://9gag.com/gag/aNDvA80)
+ - 👉 [When India is trash, you just dumb trash on trash](http://9gag.com/gag/aRBZKNG)<!-- MEMES:END -->
 
 ---
 

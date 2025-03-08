@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Knife-wielder holding a brown shirted man hostage.](http://9gag.com/gag/aVvE3gK)
- - 😝 [They don&#39;t understand or they don&#39;t want to understand?](http://9gag.com/gag/aYQO48v)
- - 💣 [Kazakhstan Army](http://9gag.com/gag/ajPOqpR)
+ - 😝 [This is a very rare case](http://9gag.com/gag/a0eVdoZ)
  - 😝 [This was epic!](http://9gag.com/gag/azxPr6K)
- - 👉 [Road raging without handbrakes engaged](http://9gag.com/gag/aXPNqR2)<!-- MEMES:END -->
+ - 💣 [Yes we are like this](http://9gag.com/gag/ajPOXLp)
+ - 😝 [Road raging without handbrakes engaged](http://9gag.com/gag/aXPNqR2)
+ - 👉 [They don&#39;t understand or they don&#39;t want to understand?](http://9gag.com/gag/aYQO48v)<!-- MEMES:END -->
 
 ---
 

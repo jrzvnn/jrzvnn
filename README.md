@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The FTC told a US district judge it is still determining who Amazon&#39;s competitors are for its 2023 antitrust lawsuit and the list could include Walmart and eBay &lpar;Josh Sisco/Bloomberg&rpar;](http://www.techmeme.com/250308/p2#a250308p2)
+ - [GSMA Intelligence: ~61 countries, including the US and China, plan to shut down their 2G networks, raising digital exclusion concerns, mainly affecting the poor &lpar;Lam Le/Rest of World&rpar;](http://www.techmeme.com/250308/p1#a250308p1)
  - [Filing: Elon Musk is set to be questioned under oath on April 3 in an investor lawsuit alleging his Twitter buyout flip-flop was a ruse to lower its stock price &lpar;Malathi Nayak/Bloomberg&rpar;](http://www.techmeme.com/250307/p31#a250307p31)
  - [A look at India&#39;s semiconductor push as it invests $18B in five projects, with combined federal and state subsidies covering approximately 70% of project costs &lpar;Manish Singh/India Dispatch&rpar;](http://www.techmeme.com/250307/p30#a250307p30)
- - [SpaceX’s Latest Starship Explosion Marks Two Consecutive Failures](https://www.wired.com/story/the-starship-program-hits-another-speed-bump-with-second-consecutive-failure/)
- - [Jim Sanborn, creator of the Kryptos sculpture at CIA HQ, says he&#39;s frustrated with amateurs falsely claiming they cracked the 35-year unsolved code using AI &lpar;Steven Levy/Wired&rpar;](http://www.techmeme.com/250307/p29#a250307p29)
- - [China plans a &quot;state venture capital guidance fund&quot;, expected to attract ~$138B over 20 years from local governments and private sector, to support AI and more &lpar;CNN&rpar;](http://www.techmeme.com/250307/p28#a250307p28)<!-- TECH:END -->
+ - [SpaceX’s Latest Starship Explosion Marks Two Consecutive Failures](https://www.wired.com/story/the-starship-program-hits-another-speed-bump-with-second-consecutive-failure/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

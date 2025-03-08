@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The Apple Watch Series 10 just received its first $100 discount](https://www.theverge.com/good-deals/626421/apple-watch-series-10-disney-hulu-bundle-deal-sale)
  - [It’s a great moment for classic RPGs](https://www.theverge.com/games/625881/suikoden-remasters-classic-rpgs)
  - [&#39;1923&#39; Season 2 Release Schedule: When Episode 3 Drops on Paramount Plus](https://www.cnet.com/tech/services-and-software/1923-season-2-release-schedule-when-episode-3-drops-on-paramount-plus/#ftag=CAD590a51e)
  - [A look at YouTube&#39;s origins, growth, and domination as the platform turns 20, including an interview with CEO Neal Mohan, who is nearing 10 years at the company &lpar;Todd Spangler/Variety&rpar;](http://www.techmeme.com/250308/p12#a250308p12)
- - [How to Clean Vinyl Records &lpar;2025&rpar;: Vacuums, Solution, Wipes](https://www.wired.com/story/how-to-clean-vinyl/)
- - [Prime Video: The 33 Absolute Best TV Shows to Watch](https://www.cnet.com/tech/services-and-software/best-tv-shows-on-prime-video-march-2025/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [How to Clean Vinyl Records &lpar;2025&rpar;: Vacuums, Solution, Wipes](https://www.wired.com/story/how-to-clean-vinyl/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Cruelty is for the weak and dumb. Kindness to those in need is a superpower.](http://9gag.com/gag/an7nbYL)
- - 😝 [No one is high calorie](http://9gag.com/gag/amoG9NX)
- - 💣 [RIP Camera man](http://9gag.com/gag/aE0VBRp)
  - 😝 [They don&#39;t understand or they don&#39;t want to understand?](http://9gag.com/gag/aYQO48v)
- - 👉 [Nice Eyes](http://9gag.com/gag/ae9Oe8W)<!-- MEMES:END -->
+ - 😝 [Tongue-eating parasite replaces the fish&#39;s tongue, by eating it first](http://9gag.com/gag/a87mMm1)
+ - 💣 [RIP Camera man](http://9gag.com/gag/aE0VBRp)
+ - 😝 [A very sincere work interview](http://9gag.com/gag/ajPOA1w)
+ - 👉 [This was epic!](http://9gag.com/gag/azxPr6K)<!-- MEMES:END -->
 
 ---
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [I&#39;m 40, I don&#39;t have time for this BS](http://9gag.com/gag/aRBZ3qB)
- - 😝 [Yes we are like this](http://9gag.com/gag/ajPOXLp)
- - 💣 [Hes the best CEO in the world](http://9gag.com/gag/aD2nG89)
- - 😝 [Cheating.](http://9gag.com/gag/aZZw39X)
- - 👉 [Yes](http://9gag.com/gag/a5QBojr)<!-- MEMES:END -->
+ - 😝 [Umm.... \ud83d\ude2e](http://9gag.com/gag/a5QBrVN)
+ - 😝 [Hes the best CEO in the world](http://9gag.com/gag/aD2nG89)
+ - 💣 [Yes we are like this](http://9gag.com/gag/ajPOXLp)
+ - 😝 [Yes](http://9gag.com/gag/a5QBojr)
+ - 👉 [Cheating.](http://9gag.com/gag/aZZw39X)<!-- MEMES:END -->
 
 ---
 

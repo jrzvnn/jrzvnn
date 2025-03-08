@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Trump’s first 100 days: all the news affecting the tech industry](https://www.theverge.com/24348851/donald-trump-presidency-tech-science-news)
- - [Trump’s DOJ still says Google should be broken up](https://www.theverge.com/news/626502/trump-doj-recommends-google-breakup-antitrust-search-chrome)
- - [US v. Google: all the news from the search antitrust showdown](https://www.theverge.com/23869483/us-v-google-search-antitrust-case-updates)
- - [Justice Department demands Google sell off Chrome in new filing](https://appleinsider.com/articles/25/03/08/justice-department-demands-google-sell-off-chrome-in-new-filing?utm_medium=rss)
- - [As Japan copes with a labor shortage, its market for service robots, which assist people with tasks like waiting tables, is expected to almost triple by 2030 &lpar;Bloomberg&rpar;](http://www.techmeme.com/250308/p14#a250308p14)<!-- TECH:END -->
+ - [Today&#39;s Wordle Hints, Answer and Help for March 9, #1359](https://www.cnet.com/tech/gaming/todays-wordle-hints-answer-and-help-for-march-9-1359/#ftag=CAD590a51e)
+ - [Today&#39;s NYT Strands Hints, Answers and Help for March 9, #371](https://www.cnet.com/tech/gaming/todays-nyt-strands-hints-answers-and-help-for-march-9-371/#ftag=CAD590a51e)
+ - [Best Laser Cutters and Engravers of 2025](https://www.cnet.com/tech/computing/the-best-laser-cutters-and-engravers/#ftag=CAD590a51e)
+ - [Best Standing Desks of 2025](https://www.cnet.com/news/best-standing-desk/#ftag=CAD590a51e)
+ - [Trump’s first 100 days: all the news affecting the tech industry](https://www.theverge.com/24348851/donald-trump-presidency-tech-science-news)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

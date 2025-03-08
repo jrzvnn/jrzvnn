@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [This crew had their ship get stuck in ice](http://9gag.com/gag/avyeOQW)
- - 😝 [Dude decided to rob the wrong 7 eleven store](http://9gag.com/gag/a0eVQAL)
+ - 😝 [Store in Brooklyn forced to shut down due to repeated looting](http://9gag.com/gag/an7n9Vq)
+ - 😝 [Trust him.he knows that stuff](http://9gag.com/gag/aVvEYz8)
  - 💣 [Can handle baby carrots](http://9gag.com/gag/a9yvA2j)
  - 😝 [Romanian countryside drive.](http://9gag.com/gag/aGy8ZXw)
- - 👉 [Trust him.he knows that stuff](http://9gag.com/gag/aVvEYz8)<!-- MEMES:END -->
+ - 👉 [Dude decided to rob the wrong 7 eleven store](http://9gag.com/gag/a0eVQAL)<!-- MEMES:END -->
 
 ---
 

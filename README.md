@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [How to Clean Vinyl Records &lpar;2025&rpar;: Vacuums, Solution, Wipes](https://www.wired.com/story/how-to-clean-vinyl/)
  - [The best entertainment of 2025](https://www.theverge.com/entertainment/625337/best-games-movies-tv-2025)
  - [How to Get Windows Games Working on a Mac](https://www.wired.com/story/how-to-get-windows-games-working-on-a-mac/)
  - [How Much Interest Can You Earn by Depositing $5,000 Into a CD Today?](https://www.cnet.com/personal-finance/banking/how-much-interest-can-you-earn-by-depositing-5000-into-a-cd-today/#ftag=CAD590a51e)
- - [Someone Studied How Daylight Savings Affects Crime. The Results Are Fascinating](https://www.cnet.com/home/security/someone-studied-how-daylight-savings-affects-crime-and-the-results-are-staggering/#ftag=CAD590a51e)
- - [MainFrames is a charming platformer that takes place inside computers](https://www.theverge.com/games-review/622113/mainframes-review-steam-nintendo-switch)<!-- TECH:END -->
+ - [Someone Studied How Daylight Savings Affects Crime. The Results Are Fascinating](https://www.cnet.com/home/security/someone-studied-how-daylight-savings-affects-crime-and-the-results-are-staggering/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

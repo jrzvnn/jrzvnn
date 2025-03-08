@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [The incline of this Japanese bridge gives the illusion of being vertical](http://9gag.com/gag/azxPAxm)
  - 😝 [Nightmare fuel unlocked](http://9gag.com/gag/aYQOLPO)
- - 😝 [They are always supportive of trans women until they are told they look like one](http://9gag.com/gag/aE0VYEO)
- - 💣 [Hes the best CEO in the world](http://9gag.com/gag/aD2nG89)
- - 😝 [This was epic!](http://9gag.com/gag/azxPr6K)
- - 👉 [The incline of this Japanese bridge gives the illusion of being vertical](http://9gag.com/gag/azxPAxm)<!-- MEMES:END -->
+ - 💣 [This was epic!](http://9gag.com/gag/azxPr6K)
+ - 😝 [This is how ancient Chinese people used to send secret messages](http://9gag.com/gag/a4PzL0Q)
+ - 👉 [RIP Camera man](http://9gag.com/gag/aE0VBRp)<!-- MEMES:END -->
 
 ---
 

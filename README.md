@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [But remember, fat shaming is no no!](http://9gag.com/gag/aoyV1Ye)
- - 😝 [Can handle baby carrots](http://9gag.com/gag/a9yvA2j)
- - 💣 [Dude decided to rob the wrong 7 eleven store](http://9gag.com/gag/a0eVQAL)
- - 😝 [Trust him.he knows that stuff](http://9gag.com/gag/aVvEYz8)
- - 👉 [How villain was made be like](http://9gag.com/gag/aD2njGd)<!-- MEMES:END -->
+ - 😝 [This crew had their ship get stuck in ice](http://9gag.com/gag/avyeOQW)
+ - 😝 [Dude decided to rob the wrong 7 eleven store](http://9gag.com/gag/a0eVQAL)
+ - 💣 [Can handle baby carrots](http://9gag.com/gag/a9yvA2j)
+ - 😝 [Romanian countryside drive.](http://9gag.com/gag/aGy8ZXw)
+ - 👉 [Trust him.he knows that stuff](http://9gag.com/gag/aVvEYz8)<!-- MEMES:END -->
 
 ---
 

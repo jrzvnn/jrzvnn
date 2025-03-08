@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [This is a very rare case](http://9gag.com/gag/a0eVdoZ)
+ - 😝 [But remember, fat shaming is no no!](http://9gag.com/gag/aoyV1Ye)
+ - 😝 [Tongue-eating parasite replaces the fish&#39;s tongue, by eating it first](http://9gag.com/gag/a87mMm1)
+ - 💣 [Road raging without handbrakes engaged](http://9gag.com/gag/aXPNqR2)
  - 😝 [This was epic!](http://9gag.com/gag/azxPr6K)
- - 💣 [Yes we are like this](http://9gag.com/gag/ajPOXLp)
- - 😝 [Road raging without handbrakes engaged](http://9gag.com/gag/aXPNqR2)
- - 👉 [They don&#39;t understand or they don&#39;t want to understand?](http://9gag.com/gag/aYQO48v)<!-- MEMES:END -->
+ - 👉 [Reichelt jumped from the Eiffel Tower to prove his wearable parachute worked , thus starting the Darwin Awards](http://9gag.com/gag/aByLWx1)<!-- MEMES:END -->
 
 ---
 

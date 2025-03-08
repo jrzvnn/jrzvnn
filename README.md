@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Title](http://9gag.com/gag/a2v8rqY)
- - 😝 [WTF? Why does the ps3 need an update in 2025?!](http://9gag.com/gag/amoGr14)
- - 💣 [The approach you need to have with any girl](http://9gag.com/gag/aGy800Z)
+ - 😝 [Anyone out there know what the hell this is?...Thanks in advance.](http://9gag.com/gag/aKG93j6)
+ - 😝 [The incline of this Japanese bridge gives the illusion of being vertical](http://9gag.com/gag/azxPAxm)
+ - 💣 [Dat child... taking all the blame](http://9gag.com/gag/aYQOL0w)
  - 😝 [Let the best comment win.](http://9gag.com/gag/ae9OM3q)
- - 👉 [The incline of this Japanese bridge gives the illusion of being vertical](http://9gag.com/gag/azxPAxm)<!-- MEMES:END -->
+ - 👉 [This is a very rare case](http://9gag.com/gag/a0eVdoZ)<!-- MEMES:END -->
 
 ---
 

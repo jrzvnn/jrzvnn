@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Anyone out there know what the hell this is?...Thanks in advance.](http://9gag.com/gag/aKG93j6)
- - 😝 [Yes](http://9gag.com/gag/a5QBojr)
- - 💣 [This was epic!](http://9gag.com/gag/azxPr6K)
- - 😝 [I&#39;m 40, I don&#39;t have time for this BS](http://9gag.com/gag/aRBZ3qB)
- - 👉 [Road raging without handbrakes engaged](http://9gag.com/gag/aXPNqR2)<!-- MEMES:END -->
+ - 😝 [There is no other way](http://9gag.com/gag/abAOM8b)
+ - 😝 [Time Flies](http://9gag.com/gag/aE0VRX9)
+ - 💣 [Yeb I do like my bed](http://9gag.com/gag/aqy8bwQ)
+ - 😝 [RIP Camera man](http://9gag.com/gag/aE0VBRp)
+ - 👉 [They are always supportive of trans women until they are told they look like one](http://9gag.com/gag/aE0VYEO)<!-- MEMES:END -->
 
 ---
 

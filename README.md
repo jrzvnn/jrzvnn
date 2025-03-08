@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [How villain was made be like](http://9gag.com/gag/aD2njGd)
- - 😝 [Title](http://9gag.com/gag/a2v8rqY)
- - 💣 [Yes we are like this](http://9gag.com/gag/ajPOXLp)
- - 😝 [When you misread the weather app\u2026](http://9gag.com/gag/avyen7d)
- - 👉 [Yes](http://9gag.com/gag/a5QBojr)<!-- MEMES:END -->
+ - 😝 [Anyone out there know what the hell this is?...Thanks in advance.](http://9gag.com/gag/aKG93j6)
+ - 😝 [Yes](http://9gag.com/gag/a5QBojr)
+ - 💣 [This was epic!](http://9gag.com/gag/azxPr6K)
+ - 😝 [I&#39;m 40, I don&#39;t have time for this BS](http://9gag.com/gag/aRBZ3qB)
+ - 👉 [Road raging without handbrakes engaged](http://9gag.com/gag/aXPNqR2)<!-- MEMES:END -->
 
 ---
 

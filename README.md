@@ -166,10 +166,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [A very sincere work interview](http://9gag.com/gag/ajPOA1w)
- - 😝 [Reichelt jumped from the Eiffel Tower to prove his wearable parachute worked , thus starting the Darwin Awards](http://9gag.com/gag/aByLWx1)
- - 💣 [This crew had their ship get stuck in ice](http://9gag.com/gag/avyeOQW)
- - 😝 [They don&#39;t understand or they don&#39;t want to understand?](http://9gag.com/gag/aYQO48v)
+ - 😝 [Title](http://9gag.com/gag/azxPr9N)
+ - 😝 [The incline of this Japanese bridge gives the illusion of being vertical](http://9gag.com/gag/azxPAxm)
+ - 💣 [Hes the best CEO in the world](http://9gag.com/gag/aD2nG89)
+ - 😝 [Nice Eyes](http://9gag.com/gag/ae9Oe8W)
  - 👉 [When you know you\u2019re stating a company, not a modelling agency!](http://9gag.com/gag/aMVmwyG)<!-- MEMES:END -->
 
 ---

@@ -167,10 +167,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [The incline of this Japanese bridge gives the illusion of being vertical](http://9gag.com/gag/azxPAxm)
- - 😝 [WTF? Why does the ps3 need an update in 2025?!](http://9gag.com/gag/amoGr14)
- - 💣 [They are always supportive of trans women until they are told they look like one](http://9gag.com/gag/aE0VYEO)
- - 😝 [How the pigtail scene was filmed. Matilda 1996](http://9gag.com/gag/aqy8537)
- - 👉 [This is how ancient Chinese people used to send secret messages](http://9gag.com/gag/a4PzL0Q)<!-- MEMES:END -->
+ - 😝 [A very sincere work interview](http://9gag.com/gag/ajPOA1w)
+ - 💣 [Umm.... \ud83d\ude2e](http://9gag.com/gag/a5QBrVN)
+ - 😝 [Don&#39;t know if this one got posted, but here you go. Sez2ep9](http://9gag.com/gag/a34AMpQ)
+ - 👉 [Hes the best CEO in the world](http://9gag.com/gag/aD2nG89)<!-- MEMES:END -->
 
 ---
 

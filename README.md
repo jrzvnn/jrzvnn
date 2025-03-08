@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Umm.... \ud83d\ude2e](http://9gag.com/gag/a5QBrVN)
+ - 😝 [This was epic!](http://9gag.com/gag/azxPr6K)
  - 😝 [Hes the best CEO in the world](http://9gag.com/gag/aD2nG89)
- - 💣 [Yes we are like this](http://9gag.com/gag/ajPOXLp)
- - 😝 [Yes](http://9gag.com/gag/a5QBojr)
- - 👉 [Cheating.](http://9gag.com/gag/aZZw39X)<!-- MEMES:END -->
+ - 💣 [Yes](http://9gag.com/gag/a5QBojr)
+ - 😝 [Umm.... \ud83d\ude2e](http://9gag.com/gag/a5QBrVN)
+ - 👉 [The incline of this Japanese bridge gives the illusion of being vertical](http://9gag.com/gag/azxPAxm)<!-- MEMES:END -->
 
 ---
 

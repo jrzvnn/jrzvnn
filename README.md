@@ -157,7 +157,7 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Signal President Meredith Whittaker says AI agents have a &quot;profound issue&quot; with privacy and security and refers to their use as &quot;putting your brain in a jar&quot; &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/250307/p26#a250307p26)
+ - [Signal&#39;s Meredith Whittaker says AI agents doing tasks on users&#39; behalf pose security and privacy risks and refers to their use as &quot;putting your brain in a jar&quot; &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/250307/p26#a250307p26)
  - [The White House hosted its first Crypto Summit, bringing together top crypto executives, including Coinbase CEO Brian Armstrong and Tyler and Cameron Winklevoss &lpar;David Yaffe-Bellany/New York Times&rpar;](http://www.techmeme.com/250307/p25#a250307p25)
  - [Unsealed court docs: US investigators believe hackers behind the 2022 LastPass breach stole $150M in XRP, now worth ~$700M, from one person in January 2024 &lpar;Thomas Brewster/Forbes&rpar;](http://www.techmeme.com/250307/p24#a250307p24)
  - [How To Play the Co-Op Split Fiction Without a Partner](https://www.cnet.com/tech/gaming/how-to-play-the-co-op-split-fiction-without-a-partner/#ftag=CAD590a51e)

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Title](http://9gag.com/gag/azxPr9N)
- - 😝 [The incline of this Japanese bridge gives the illusion of being vertical](http://9gag.com/gag/azxPAxm)
- - 💣 [Hes the best CEO in the world](http://9gag.com/gag/aD2nG89)
- - 😝 [Nice Eyes](http://9gag.com/gag/ae9Oe8W)
- - 👉 [When you know you\u2019re stating a company, not a modelling agency!](http://9gag.com/gag/aMVmwyG)<!-- MEMES:END -->
+ - 😝 [They don&#39;t understand or they don&#39;t want to understand?](http://9gag.com/gag/aYQO48v)
+ - 😝 [Anyone out there know what the hell this is?...Thanks in advance.](http://9gag.com/gag/aKG93j6)
+ - 💣 [Cruelty is for the weak and dumb. Kindness to those in need is a superpower.](http://9gag.com/gag/an7nbYL)
+ - 😝 [Knife-wielder holding a brown shirted man hostage.](http://9gag.com/gag/aVvE3gK)
+ - 👉 [Nice Eyes](http://9gag.com/gag/ae9Oe8W)<!-- MEMES:END -->
 
 ---
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The US OCC says banks can engage in some crypto activities, rescinding prior guidance that told them they should clear such activities with regulators first &lpar;Pete Schroeder/Reuters&rpar;](http://www.techmeme.com/250307/p23#a250307p23)
- - [Sources: virtual physical therapy service Hinge Health aims to file for a US IPO as soon as next week and could go public in April; it had $390M in 2024 revenue &lpar;Bloomberg&rpar;](http://www.techmeme.com/250307/p22#a250307p22)
- - [I Fell in Love With This Tiny Foldable Projector at MWC 2025](https://www.cnet.com/tech/mobile/i-fell-in-love-with-this-tiny-foldable-projector-at-mwc-2025/#ftag=CAD590a51e)
- - [Sources: crypto exchange and custodian Gemini has filed confidentially for an IPO; the company is reportedly considering going public as soon as this year &lpar;Bloomberg&rpar;](http://www.techmeme.com/250307/p21#a250307p21)
- - [I Wore the TCL RayNeo X3 Pros at MWC 2025. This Is What AR Smart Glasses Should Be](https://www.cnet.com/tech/mobile/i-wore-the-tcl-rayneo-x3-pros-at-mwc-2025/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Signal President Meredith Whittaker says AI agents have a &quot;profound issue&quot; with privacy and security and refers to their use as &quot;putting your brain in a jar&quot; &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/250307/p26#a250307p26)
+ - [The White House hosted its first Crypto Summit, bringing together top crypto executives, including Coinbase CEO Brian Armstrong and Tyler and Cameron Winklevoss &lpar;David Yaffe-Bellany/New York Times&rpar;](http://www.techmeme.com/250307/p25#a250307p25)
+ - [Unsealed court docs: US investigators believe hackers behind the 2022 LastPass breach stole $150M in XRP, now worth ~$700M, from one person in January 2024 &lpar;Thomas Brewster/Forbes&rpar;](http://www.techmeme.com/250307/p24#a250307p24)
+ - [How To Play the Co-Op Split Fiction Without a Partner](https://www.cnet.com/tech/gaming/how-to-play-the-co-op-split-fiction-without-a-partner/#ftag=CAD590a51e)
+ - [The US OCC says banks can engage in some crypto activities, rescinding prior guidance that told them they should clear such activities with regulators first &lpar;Pete Schroeder/Reuters&rpar;](http://www.techmeme.com/250307/p23#a250307p23)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

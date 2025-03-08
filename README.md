@@ -158,10 +158,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- TECH:START -->
  - [It’s a great moment for classic RPGs](https://www.theverge.com/games/625881/suikoden-remasters-classic-rpgs)
+ - [&#39;1923&#39; Season 2 Release Schedule: When Episode 3 Drops on Paramount Plus](https://www.cnet.com/tech/services-and-software/1923-season-2-release-schedule-when-episode-3-drops-on-paramount-plus/#ftag=CAD590a51e)
  - [A look at YouTube&#39;s origins, growth, and domination as the platform turns 20, including an interview with CEO Neal Mohan, who is nearing 10 years at the company &lpar;Todd Spangler/Variety&rpar;](http://www.techmeme.com/250308/p12#a250308p12)
  - [How to Clean Vinyl Records &lpar;2025&rpar;: Vacuums, Solution, Wipes](https://www.wired.com/story/how-to-clean-vinyl/)
- - [The best entertainment of 2025](https://www.theverge.com/entertainment/625337/best-games-movies-tv-2025)
- - [How to Get Windows Games Working on a Mac](https://www.wired.com/story/how-to-get-windows-games-working-on-a-mac/)<!-- TECH:END -->
+ - [Prime Video: The 33 Absolute Best TV Shows to Watch](https://www.cnet.com/tech/services-and-software/best-tv-shows-on-prime-video-march-2025/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -166,9 +166,9 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Dat child... taking all the blame](http://9gag.com/gag/aYQOL0w)
- - 😝 [The incline of this Japanese bridge gives the illusion of being vertical](http://9gag.com/gag/azxPAxm)
- - 💣 [Umm.... \ud83d\ude2e](http://9gag.com/gag/a5QBrVN)
+ - 😝 [Cruelty is for the weak and dumb. Kindness to those in need is a superpower.](http://9gag.com/gag/an7nbYL)
+ - 😝 [No one is high calorie](http://9gag.com/gag/amoG9NX)
+ - 💣 [RIP Camera man](http://9gag.com/gag/aE0VBRp)
  - 😝 [They don&#39;t understand or they don&#39;t want to understand?](http://9gag.com/gag/aYQO48v)
  - 👉 [Nice Eyes](http://9gag.com/gag/ae9Oe8W)<!-- MEMES:END -->
 

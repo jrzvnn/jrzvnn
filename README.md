@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Sources detail how crypto flooded Trump with cash, including $50M+ in donations from at least eight execs, and how he is doing much of what the industry wants &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/250308/p13#a250308p13)
+ - [Check your DVDs for disc rot — Warner Bros. says it’s replacing them](https://www.theverge.com/news/626482/warner-bros-dvd-disc-rot-failure-2006-2008-replacement)
  - [Two Apple Card Daily Cash bonus offers to entice new signups](https://appleinsider.com/articles/25/03/08/two-apple-card-daily-cash-bonus-offers-to-entice-new-signups?utm_medium=rss)
  - [The Apple Watch Series 10 just received its first $100 discount](https://www.theverge.com/good-deals/626421/apple-watch-series-10-disney-hulu-bundle-deal-sale)
- - [It’s a great moment for classic RPGs](https://www.theverge.com/games/625881/suikoden-remasters-classic-rpgs)
- - [&#39;1923&#39; Season 2 Release Schedule: When Episode 3 Drops on Paramount Plus](https://www.cnet.com/tech/services-and-software/1923-season-2-release-schedule-when-episode-3-drops-on-paramount-plus/#ftag=CAD590a51e)
- - [A look at YouTube&#39;s origins, growth, and domination as the platform turns 20, including an interview with CEO Neal Mohan, who is nearing 10 years at the company &lpar;Todd Spangler/Variety&rpar;](http://www.techmeme.com/250308/p12#a250308p12)<!-- TECH:END -->
+ - [It’s a great moment for classic RPGs](https://www.theverge.com/games/625881/suikoden-remasters-classic-rpgs)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

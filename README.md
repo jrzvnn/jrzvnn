@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Romanian countryside drive.](http://9gag.com/gag/aGy8ZXw)
- - 😝 [But remember, fat shaming is no no!](http://9gag.com/gag/aoyV1Ye)
- - 💣 [Can handle baby carrots](http://9gag.com/gag/a9yvA2j)
- - 😝 [Cheating.](http://9gag.com/gag/aZZw39X)
- - 👉 [Dude decided to rob the wrong 7 eleven store](http://9gag.com/gag/a0eVQAL)<!-- MEMES:END -->
+ - 😝 [I&#39;m 40, I don&#39;t have time for this BS](http://9gag.com/gag/aRBZ3qB)
+ - 😝 [Store in Brooklyn forced to shut down due to repeated looting](http://9gag.com/gag/an7n9Vq)
+ - 💣 [Cheating.](http://9gag.com/gag/aZZw39X)
+ - 😝 [Can handle baby carrots](http://9gag.com/gag/a9yvA2j)
+ - 👉 [How villain was made be like](http://9gag.com/gag/aD2njGd)<!-- MEMES:END -->
 
 ---
 

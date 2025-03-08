@@ -166,10 +166,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Dat child... taking all the blame](http://9gag.com/gag/aYQOL0w)
- - 😝 [Hes the best CEO in the world](http://9gag.com/gag/aD2nG89)
- - 💣 [I&#39;m 40, I don&#39;t have time for this BS](http://9gag.com/gag/aRBZ3qB)
- - 😝 [How villain was made be like](http://9gag.com/gag/aD2njGd)
+ - 😝 [I&#39;m 40, I don&#39;t have time for this BS](http://9gag.com/gag/aRBZ3qB)
+ - 😝 [Yes we are like this](http://9gag.com/gag/ajPOXLp)
+ - 💣 [Hes the best CEO in the world](http://9gag.com/gag/aD2nG89)
+ - 😝 [Cheating.](http://9gag.com/gag/aZZw39X)
  - 👉 [Yes](http://9gag.com/gag/a5QBojr)<!-- MEMES:END -->
 
 ---

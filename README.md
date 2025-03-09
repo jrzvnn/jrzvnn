@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Mother chooses vacation leaving her baby alone for 10 days!](http://9gag.com/gag/amoG5M4)
- - 😝 [Cheating.](http://9gag.com/gag/aZZw39X)
- - 💣 [Fast response](http://9gag.com/gag/agmOnMq)
- - 😝 [Dude decided to rob the wrong 7 eleven store](http://9gag.com/gag/a0eVQAL)
- - 👉 [Sounds expensive](http://9gag.com/gag/azxPMNZ)<!-- MEMES:END -->
+ - 😝 [He became a millionaire, goal reached](http://9gag.com/gag/amoGvo2)
+ - 😝 [Are you winning son?](http://9gag.com/gag/aqy8nMp)
+ - 💣 [No security standards, no red flags, no safety cars &lpar;Belgium 1981, Zolder circuit&rpar;](http://9gag.com/gag/axyvMNM)
+ - 😝 [Title.](http://9gag.com/gag/aGy8gXG)
+ - 👉 [Ba dum tss](http://9gag.com/gag/aLnejD5)<!-- MEMES:END -->
 
 ---
 

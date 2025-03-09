@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [0.1 + 0.2 = 0.30000000000000004](http://9gag.com/gag/aPAP3oR)
- - 😝 [Are you winning son?](http://9gag.com/gag/aqy8nMp)
- - 💣 [Title.](http://9gag.com/gag/aGy8gXG)
  - 😝 [Best physics lesson ever.](http://9gag.com/gag/a4Pz3xv)
- - 👉 [The fact that Aragorn is 87 years old.](http://9gag.com/gag/aD2nDxK)<!-- MEMES:END -->
+ - 😝 [The fact that Aragorn is 87 years old.](http://9gag.com/gag/aD2nDxK)
+ - 💣 [I feel this](http://9gag.com/gag/a4PzEgv)
+ - 😝 [Are you winning son?](http://9gag.com/gag/aqy8nMp)
+ - 👉 [Title.](http://9gag.com/gag/aGy8gXG)<!-- MEMES:END -->
 
 ---
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Poor possum](http://9gag.com/gag/ae9Or3v)
- - 😝 [Parks and Rec bloopers](http://9gag.com/gag/ayN4BVb)
- - 💣 [Bro needed that hug](http://9gag.com/gag/a2v84PE)
  - 😝 [Cheating.](http://9gag.com/gag/aZZw39X)
- - 👉 [Dude decided to rob the wrong 7 eleven store](http://9gag.com/gag/a0eVQAL)<!-- MEMES:END -->
+ - 😝 [How though?](http://9gag.com/gag/a9yvR0W)
+ - 💣 [Can handle baby carrots](http://9gag.com/gag/a9yvA2j)
+ - 😝 [Dude decided to rob the wrong 7 eleven store](http://9gag.com/gag/a0eVQAL)
+ - 👉 [How Dishwashing Sponges Are Made!](http://9gag.com/gag/awymAKW)<!-- MEMES:END -->
 
 ---
 

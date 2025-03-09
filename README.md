@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Today&#39;s NYT Connections Hints, Answers and Help for March 10, #638](https://www.cnet.com/tech/gaming/todays-nyt-connections-hints-answers-and-help-for-march-10-638/#ftag=CAD590a51e)
- - [Today&#39;s NYT Strands Hints, Answers and Help for March 10, #372](https://www.cnet.com/tech/gaming/todays-nyt-strands-hints-answers-and-help-for-march-10-372/#ftag=CAD590a51e)
- - [Today&#39;s Wordle Hints, Answer and Help for March 10, #1360](https://www.cnet.com/tech/gaming/todays-wordle-hints-answer-and-help-for-march-10-1360/#ftag=CAD590a51e)
  - [A look at YouTube&#39;s hidden world: most of the videos on the platform capture everyday life and have rarely been seen, with the median video having just 41 views &lpar;Thomas Germain/BBC&rpar;](http://www.techmeme.com/250309/p4#a250309p4)
- - [Starting September 1, schools in Beijing will offer at least eight hours of AI classes per academic year for primary and secondary students &lpar;Bloomberg&rpar;](http://www.techmeme.com/250309/p3#a250309p3)<!-- TECH:END -->
+ - [Starting September 1, schools in Beijing will offer at least eight hours of AI classes per academic year for primary and secondary students &lpar;Bloomberg&rpar;](http://www.techmeme.com/250309/p3#a250309p3)
+ - [Zoom researchers detail a &quot;Chain of Draft&quot; method to let LLMs accurately solve reasoning problems with as little as 7.6% of the tokens used by current methods &lpar;Michael Nu&amp;ntilde;ez/VentureBeat&rpar;](http://www.techmeme.com/250309/p2#a250309p2)
+ - [NYC-based Firsthand, whose tools let marketers and publishers engage consumers through AI agents on their own sites or other sites, raised a $26M Series A &lpar;Kerry Flynn/Axios&rpar;](http://www.techmeme.com/250309/p1#a250309p1)
+ - [PSA: The Longer You Wait To File Your Taxes Online, The More You&#39;ll Pay](https://www.cnet.com/personal-finance/taxes/psa-the-longer-you-wait-to-file-your-taxes-online-the-more-youll-pay/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

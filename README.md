@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [Title.](http://9gag.com/gag/aGy8gXG)
  - 😝 [Manhwa neighbors](http://9gag.com/gag/azxPmON)
- - 😝 [Parks and Rec bloopers](http://9gag.com/gag/ayN4BVb)
- - 💣 [He became a millionaire, goal reached](http://9gag.com/gag/amoGvo2)
- - 😝 [Can handle baby carrots](http://9gag.com/gag/a9yvA2j)
- - 👉 [Are you winning son?](http://9gag.com/gag/aqy8nMp)<!-- MEMES:END -->
+ - 💣 [Are you winning son?](http://9gag.com/gag/aqy8nMp)
+ - 😝 [Best physics lesson ever.](http://9gag.com/gag/a4Pz3xv)
+ - 👉 [Fast response](http://9gag.com/gag/agmOnMq)<!-- MEMES:END -->
 
 ---
 

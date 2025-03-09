@@ -158,7 +158,7 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- TECH:START -->
  - [Starting September 1, schools in Beijing will offer at least eight hours of AI classes per academic year for primary and secondary students &lpar;Bloomberg&rpar;](http://www.techmeme.com/250309/p3#a250309p3)
- - [Zoom researchers detail a &quot;chain of draft&quot; method to let LLMs accurately solve reasoning problems with as little as 7.6% of the tokens used by current methods &lpar;Michael Nu&amp;ntilde;ez/VentureBeat&rpar;](http://www.techmeme.com/250309/p2#a250309p2)
+ - [Zoom researchers detail a &quot;Chain of Draft&quot; method to let LLMs accurately solve reasoning problems with as little as 7.6% of the tokens used by current methods &lpar;Michael Nu&amp;ntilde;ez/VentureBeat&rpar;](http://www.techmeme.com/250309/p2#a250309p2)
  - [NYC-based Firsthand, whose tools let marketers and publishers engage consumers through AI agents on their own sites or other sites, raised a $26M Series A &lpar;Kerry Flynn/Axios&rpar;](http://www.techmeme.com/250309/p1#a250309p1)
  - [PSA: The Longer You Wait To File Your Taxes Online, The More You&#39;ll Pay](https://www.cnet.com/personal-finance/taxes/psa-the-longer-you-wait-to-file-your-taxes-online-the-more-youll-pay/#ftag=CAD590a51e)
  - [Today&#39;s NYT Mini Crossword Answers for Sunday, March 9](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-sunday-march-9/#ftag=CAD590a51e)<!-- TECH:END -->

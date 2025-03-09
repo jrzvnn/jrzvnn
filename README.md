@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Many many decent 9gagers](http://9gag.com/gag/ae9OD5v)
- - 😝 [Dude decided to rob the wrong 7 eleven store](http://9gag.com/gag/a0eVQAL)
- - 💣 [Collect all 7 and you can make your wish come true.](http://9gag.com/gag/azxP1Rz)
- - 😝 [Manhwa neighbors](http://9gag.com/gag/azxPmON)
- - 👉 [Such and such](http://9gag.com/gag/aGy8Z26)<!-- MEMES:END -->
+ - 😝 [Cheating.](http://9gag.com/gag/aZZw39X)
+ - 😝 [Parks and Rec bloopers](http://9gag.com/gag/ayN4BVb)
+ - 💣 [Ba dum tss](http://9gag.com/gag/aLnejD5)
+ - 😝 [Imminent explosion.](http://9gag.com/gag/ayN4oZp)
+ - 👉 [How Dishwashing Sponges Are Made!](http://9gag.com/gag/awymAKW)<!-- MEMES:END -->
 
 ---
 

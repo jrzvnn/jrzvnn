@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [I&#39;m 40, I don&#39;t have time for this BS](http://9gag.com/gag/aRBZ3qB)
- - 😝 [Store in Brooklyn forced to shut down due to repeated looting](http://9gag.com/gag/an7n9Vq)
- - 💣 [Cheating.](http://9gag.com/gag/aZZw39X)
+ - 😝 [How villain was made be like](http://9gag.com/gag/aD2njGd)
  - 😝 [Can handle baby carrots](http://9gag.com/gag/a9yvA2j)
- - 👉 [How villain was made be like](http://9gag.com/gag/aD2njGd)<!-- MEMES:END -->
+ - 💣 [Cheating.](http://9gag.com/gag/aZZw39X)
+ - 😝 [Store in Brooklyn forced to shut down due to repeated looting](http://9gag.com/gag/an7n9Vq)
+ - 👉 [Title.](http://9gag.com/gag/aGy8gXG)<!-- MEMES:END -->
 
 ---
 

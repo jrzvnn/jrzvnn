@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [How villain was made be like](http://9gag.com/gag/aD2njGd)
- - 😝 [Can handle baby carrots](http://9gag.com/gag/a9yvA2j)
- - 💣 [Cheating.](http://9gag.com/gag/aZZw39X)
- - 😝 [Store in Brooklyn forced to shut down due to repeated looting](http://9gag.com/gag/an7n9Vq)
- - 👉 [Title.](http://9gag.com/gag/aGy8gXG)<!-- MEMES:END -->
+ - 😝 [Female comedian disguised as a man to prove women are funny. Had a meltdown when nobody laughed](http://9gag.com/gag/a6Z9Neq)
+ - 😝 [Cruelty is for the weak and dumb. Kindness to those in need is a superpower.](http://9gag.com/gag/an7nbYL)
+ - 💣 [Can handle baby carrots](http://9gag.com/gag/a9yvA2j)
+ - 😝 [Mother chooses vacation leaving her baby alone for 10 days!](http://9gag.com/gag/amoG5M4)
+ - 👉 [Romanian countryside drive.](http://9gag.com/gag/aGy8ZXw)<!-- MEMES:END -->
 
 ---
 

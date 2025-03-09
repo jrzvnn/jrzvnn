@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The TCL QM6K Trades Picture Punch for Refined Performance](https://www.wired.com/review/tcl-qm6k/)
  - [Wikipedia editors and administrators detail the turmoil over maintaining neutrality on pages about the Israel-Hamas war and other conflicts in the Middle East &lpar;Margi Murphy/Bloomberg&rpar;](http://www.techmeme.com/250309/p6#a250309p6)
  - [GHD’s Chronos Max Review: High Tech, Not High Heat](https://www.wired.com/review/ghd-chronos-max-hair-straightener/)
  - [How to Clean Everything On Your Bed &lpar;2025&rpar;](https://www.wired.com/story/how-to-clean-bedding/)
- - [This Flying Car Prototype Soars Over a Stopped Car](https://www.cnet.com/roadshow/news/this-flying-car-prototype-soars-over-a-stopped-car/#ftag=CAD590a51e)
- - [What to Stream on TV This Week: &#39;The Electric State,&#39; &#39;The Wheel of Time&#39; and More](https://www.cnet.com/tech/services-and-software/what-to-stream-on-tv-this-week-the-electric-state-wheel-of-time-more/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [This Flying Car Prototype Soars Over a Stopped Car](https://www.cnet.com/roadshow/news/this-flying-car-prototype-soars-over-a-stopped-car/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -166,10 +166,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Fast response](http://9gag.com/gag/agmOnMq)
- - 😝 [Manhwa neighbors](http://9gag.com/gag/azxPmON)
- - 💣 [Imminent explosion.](http://9gag.com/gag/ayN4oZp)
- - 😝 [Ba dum tss](http://9gag.com/gag/aLnejD5)
+ - 😝 [Mother chooses vacation leaving her baby alone for 10 days!](http://9gag.com/gag/amoG5M4)
+ - 😝 [Cheating.](http://9gag.com/gag/aZZw39X)
+ - 💣 [Fast response](http://9gag.com/gag/agmOnMq)
+ - 😝 [Dude decided to rob the wrong 7 eleven store](http://9gag.com/gag/a0eVQAL)
  - 👉 [Sounds expensive](http://9gag.com/gag/azxPMNZ)<!-- MEMES:END -->
 
 ---

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [How to Clean Everything On Your Bed &lpar;2025&rpar;](https://www.wired.com/story/how-to-clean-bedding/)
+ - [New Proofs Expand the Limits of What Cannot Be Known](https://www.wired.com/story/new-proofs-expand-the-limits-of-what-cannot-be-known/)
+ - [Some nice upgrades for Apple’s best gadgets](https://www.theverge.com/installer-newsletter/626239/apple-ipad-macbook-air-split-fiction-digg-installer)
  - [Streaming on Netflix: 20 Sci-Fi TV Shows You Should Add to Your Binge List](https://www.cnet.com/tech/services-and-software/best-sci-fi-tv-shows-on-netflix-2025/#ftag=CAD590a51e)
- - [How to Arrange Your Room for the Best Sleep](https://www.wired.com/story/arrange-room-best-sleep/)
- - [Turn Your iPhone Into a White Noise Machine With This Trick](https://www.cnet.com/tech/services-and-software/turn-your-iphone-into-a-white-noise-machine-with-this-trick/#ftag=CAD590a51e)
- - [Today&#39;s NYT Connections Hints, Answers and Help for March 10, #638](https://www.cnet.com/tech/gaming/todays-nyt-connections-hints-answers-and-help-for-march-10-638/#ftag=CAD590a51e)
- - [Today&#39;s NYT Strands Hints, Answers and Help for March 10, #372](https://www.cnet.com/tech/gaming/todays-nyt-strands-hints-answers-and-help-for-march-10-372/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [How to Arrange Your Room for the Best Sleep](https://www.wired.com/story/arrange-room-best-sleep/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

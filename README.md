@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [How Dishwashing Sponges Are Made!](http://9gag.com/gag/awymAKW)
- - 😝 [Female comedian disguised as a man to prove women are funny. Had a meltdown when nobody laughed](http://9gag.com/gag/a6Z9Neq)
- - 💣 [Stay calm](http://9gag.com/gag/aLneDKv)
- - 😝 [Parks and Rec bloopers](http://9gag.com/gag/ayN4BVb)
- - 👉 [Can handle baby carrots](http://9gag.com/gag/a9yvA2j)<!-- MEMES:END -->
+ - 😝 [Cruelty is for the weak and dumb. Kindness to those in need is a superpower.](http://9gag.com/gag/an7nbYL)
+ - 😝 [Bro needed that hug](http://9gag.com/gag/a2v84PE)
+ - 💣 [Title.](http://9gag.com/gag/aGy8gXG)
+ - 😝 [We live in sosaety](http://9gag.com/gag/aD2n1jO)
+ - 👉 [Parks and Rec bloopers](http://9gag.com/gag/ayN4BVb)<!-- MEMES:END -->
 
 ---
 

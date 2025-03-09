@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Death Stranding 2 is coming on June 26th](https://www.theverge.com/news/610946/death-stranding-2-trailer-ps5-state-of-play-on-the-beach)
  - [Some early users of Manus say the agentic AI is no panacea, with long waits, errors, unsatisfying answers, and endless loops often plaguing the experience &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/250309/p13#a250309p13)
  - [Some Chromecasts are giving ‘Untrusted device’ errors today](https://www.theverge.com/news/626625/some-chromecasts-are-giving-untrusted-device-errors-today)
  - [How focusing on West Africa helped music streamer Audiomack grow alongside industry giants like Spotify; 50% of its 40M monthly listeners are from Africa &lpar;Janko Roettgers/Fast Company&rpar;](http://www.techmeme.com/250309/p12#a250309p12)
- - [Here’s what the newest iPhone Air leaks say about its design](https://www.theverge.com/news/626597/apple-iphone-17-air-design-thickness-thin-rumors-renders-leaks)
- - [Apple teases revamped Apple Store for Westlake, Ohio](https://appleinsider.com/articles/25/03/09/apple-teases-revamped-apple-store-for-westlake-ohio?utm_medium=rss)<!-- TECH:END -->
+ - [Here’s what the newest iPhone Air leaks say about its design](https://www.theverge.com/news/626597/apple-iphone-17-air-design-thickness-thin-rumors-renders-leaks)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [PSA: The Longer You Wait To File Your Taxes Online, The More You&#39;ll Pay](https://www.cnet.com/personal-finance/taxes/psa-the-longer-you-wait-to-file-your-taxes-online-the-more-youll-pay/#ftag=CAD590a51e)
  - [Today&#39;s NYT Mini Crossword Answers for Sunday, March 9](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-sunday-march-9/#ftag=CAD590a51e)
  - [Tarlogic researchers find an undocumented &quot;backdoor&quot; in Chinese manufacturer Espressif&#39;s ESP32 microchip used in 1B+ devices for WiFi and Bluetooth connectivity &lpar;Bill Toulas/BleepingComputer&rpar;](http://www.techmeme.com/250308/p17#a250308p17)
  - [Retroid offered very limited returns for its unfixable handheld](https://www.theverge.com/news/626530/retroid-pocket-mini-screen-issue-returns-limited-200)
- - [A US federal judge allows the Kadrey v. Meta case, in which authors allege Meta violated IP rights by using their books to train Llama models, to move forward &lpar;Anthony Ha/TechCrunch&rpar;](http://www.techmeme.com/250308/p16#a250308p16)<!-- TECH:END -->
+ - [A US federal judge allows the Kadrey v. Meta case, in which authors allege Meta violated IP rights by using their books to train Llama models, to move forward &lpar;Anthony Ha/TechCrunch&rpar;](http://www.techmeme.com/250308/p16#a250308p16)
+ - [The Last of Us season 2 gets an explosive new trailer](https://www.theverge.com/tv/626531/the-last-of-us-season-2-trailer)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

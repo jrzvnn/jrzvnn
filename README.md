@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Cruelty is for the weak and dumb. Kindness to those in need is a superpower.](http://9gag.com/gag/an7nbYL)
- - 😝 [Bro needed that hug](http://9gag.com/gag/a2v84PE)
- - 💣 [Title.](http://9gag.com/gag/aGy8gXG)
- - 😝 [We live in sosaety](http://9gag.com/gag/aD2n1jO)
- - 👉 [Parks and Rec bloopers](http://9gag.com/gag/ayN4BVb)<!-- MEMES:END -->
+ - 😝 [How though?](http://9gag.com/gag/a9yvR0W)
+ - 😝 [One from the archives](http://9gag.com/gag/ayN4oG8)
+ - 💣 [Dude decided to rob the wrong 7 eleven store](http://9gag.com/gag/a0eVQAL)
+ - 😝 [Collect all 7 and you can make your wish come true.](http://9gag.com/gag/azxP1Rz)
+ - 👉 [This one minute paid for the entire movie](http://9gag.com/gag/aXPNgA2)<!-- MEMES:END -->
 
 ---
 

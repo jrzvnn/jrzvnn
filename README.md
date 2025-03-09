@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Bro needed that hug](http://9gag.com/gag/a2v84PE)
- - 😝 [Parks and Rec bloopers](http://9gag.com/gag/ayN4BVb)
- - 💣 [Are you winning son?](http://9gag.com/gag/aqy8nMp)
- - 😝 [Imminent explosion.](http://9gag.com/gag/ayN4oZp)
- - 👉 [Manhwa neighbors](http://9gag.com/gag/azxPmON)<!-- MEMES:END -->
+ - 😝 [Title.](http://9gag.com/gag/aGy8gXG)
+ - 😝 [Mother chooses vacation leaving her baby alone for 10 days!](http://9gag.com/gag/amoG5M4)
+ - 💣 [Can handle baby carrots](http://9gag.com/gag/a9yvA2j)
+ - 😝 [Fast response](http://9gag.com/gag/agmOnMq)
+ - 👉 [Best physics lesson ever.](http://9gag.com/gag/a4Pz3xv)<!-- MEMES:END -->
 
 ---
 

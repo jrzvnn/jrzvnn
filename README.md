@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [A look back at GeoCities, launched in 1994 as Beverly Hills Internet, which allowed people who had no technical knowledge of HTML to build web pages &lpar;Richard MacManus/Cybercultural&rpar;](http://www.techmeme.com/250309/p7#a250309p7)
+ - [14 Best Tote Bags of 2025, Tested and Reviewed by WIRED](https://www.wired.com/gallery/best-laptop-totes-and-purses/)
  - [Apple&#39;s rumored Home Hub said to be under employee-testing](https://appleinsider.com/articles/25/03/09/apples-rumored-home-hub-said-to-be-under-employee-testing?utm_medium=rss)
  - [Apple’s plans for a smart display suffer a Siri-related setback](https://www.theverge.com/news/626559/apple-smart-display-setback-siri-ai-upgrade)
- - [Apple smart glasses still a distant possibility as Apple considers its wearables future](https://appleinsider.com/articles/25/03/09/apple-smart-glasses-still-a-distant-possibility-as-apple-considers-its-wearables-future?utm_medium=rss)
- - [The TCL QM6K Trades Picture Punch for Refined Performance](https://www.wired.com/review/tcl-qm6k/)
- - [Make Sure You&#39;re Getting Plenty of These Superfoods for Peak Kidney Health](https://www.cnet.com/health/nutrition/make-sure-youre-getting-plenty-of-these-superfoods-for-peak-kidney-health/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Apple smart glasses still a distant possibility as Apple considers its wearables future](https://appleinsider.com/articles/25/03/09/apple-smart-glasses-still-a-distant-possibility-as-apple-considers-its-wearables-future?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

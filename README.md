@@ -166,10 +166,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [0.1 + 0.2 = 0.30000000000000004](http://9gag.com/gag/aPAP3oR)
- - 😝 [Inflation also affects wizards](http://9gag.com/gag/aByL0gx)
- - 💣 [Are you winning son?](http://9gag.com/gag/aqy8nMp)
- - 😝 [He became a millionaire, goal reached](http://9gag.com/gag/amoGvo2)
+ - 😝 [Fast response](http://9gag.com/gag/agmOnMq)
+ - 😝 [Manhwa neighbors](http://9gag.com/gag/azxPmON)
+ - 💣 [Imminent explosion.](http://9gag.com/gag/ayN4oZp)
+ - 😝 [Ba dum tss](http://9gag.com/gag/aLnejD5)
  - 👉 [Sounds expensive](http://9gag.com/gag/azxPMNZ)<!-- MEMES:END -->
 
 ---

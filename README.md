@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Collect all 7 and you can make your wish come true.](http://9gag.com/gag/azxP1Rz)
- - 😝 [Are you winning son?](http://9gag.com/gag/aqy8nMp)
- - 💣 [Such and such](http://9gag.com/gag/aGy8Z26)
- - 😝 [Good irish women.](http://9gag.com/gag/aE0VgMo)
- - 👉 [Title.](http://9gag.com/gag/aGy8gXG)<!-- MEMES:END -->
+ - 😝 [Don&#39;t know if this one got posted, but here you go. Sez2ep9](http://9gag.com/gag/a34AMpQ)
+ - 😝 [Female comedian disguised as a man to prove women are funny. Had a meltdown when nobody laughed](http://9gag.com/gag/a6Z9Neq)
+ - 💣 [Ba dum tss](http://9gag.com/gag/aLnejD5)
+ - 😝 [Can handle baby carrots](http://9gag.com/gag/a9yvA2j)
+ - 👉 [Are you winning son?](http://9gag.com/gag/aqy8nMp)<!-- MEMES:END -->
 
 ---
 

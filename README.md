@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Asset managers and investors say wealthy Chinese investors are using SPACs to quietly funnel tens of millions of dollars into Musk&#39;s xAI, Neuralink, and SpaceX &lpar;Sun Yu/Financial Times&rpar;](http://www.techmeme.com/250309/p11#a250309p11)
  - [Apple Intelligence vision via AirPods camera is in active development](https://appleinsider.com/articles/25/03/09/apple-intelligence-vision-via-airpods-camera-is-in-active-development?utm_medium=rss)
  - [A look at Manus, which its Chinese creators claim is the world&#39;s first fully autonomous AI agent, as some say it might be China&#39;s second DeepSeek moment &lpar;Craig S. Smith/Forbes&rpar;](http://www.techmeme.com/250309/p10#a250309p10)
  - [Best Cheap Video Doorbells for 2025](https://www.cnet.com/home/security/best-cheap-video-doorbells/#ftag=CAD590a51e)
- - [From ChatGPT to Gemini: how AI is rewriting the internet](https://www.theverge.com/23610427/chatbots-chatgpt-new-bing-google-bard-conversational-ai)
- - [Sources: Apple planned to announce a smart home hub in March but it has been postponed since the device relies on the delayed Siri capabilities &lpar;Mark Gurman/Bloomberg&rpar;](http://www.techmeme.com/250309/p9#a250309p9)<!-- TECH:END -->
+ - [From ChatGPT to Gemini: how AI is rewriting the internet](https://www.theverge.com/23610427/chatbots-chatgpt-new-bing-google-bard-conversational-ai)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -167,10 +167,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [Collect all 7 and you can make your wish come true.](http://9gag.com/gag/azxP1Rz)
- - 😝 [A shoplifter gets knocked out with a bottle of Coke](http://9gag.com/gag/axyvMjL)
- - 💣 [Many many decent 9gagers](http://9gag.com/gag/ae9OD5v)
- - 😝 [Such and such](http://9gag.com/gag/aGy8Z26)
- - 👉 [Good irish women.](http://9gag.com/gag/aE0VgMo)<!-- MEMES:END -->
+ - 😝 [Many many decent 9gagers](http://9gag.com/gag/ae9OD5v)
+ - 💣 [Such and such](http://9gag.com/gag/aGy8Z26)
+ - 😝 [Good irish women.](http://9gag.com/gag/aE0VgMo)
+ - 👉 [This one minute paid for the entire movie](http://9gag.com/gag/aXPNgA2)<!-- MEMES:END -->
 
 ---
 

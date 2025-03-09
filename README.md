@@ -159,9 +159,9 @@ R                        1 repo              ░░░░░░░░░░░�
 <!-- TECH:START -->
  - [Apple Intelligence vision via AirPods camera is in active development](https://appleinsider.com/articles/25/03/09/apple-intelligence-vision-via-airpods-camera-is-in-active-development?utm_medium=rss)
  - [A look at Manus, which its Chinese creators claim is the world&#39;s first fully autonomous AI agent, as some say it might be China&#39;s second DeepSeek moment &lpar;Craig S. Smith/Forbes&rpar;](http://www.techmeme.com/250309/p10#a250309p10)
+ - [Best Cheap Video Doorbells for 2025](https://www.cnet.com/home/security/best-cheap-video-doorbells/#ftag=CAD590a51e)
  - [From ChatGPT to Gemini: how AI is rewriting the internet](https://www.theverge.com/23610427/chatbots-chatgpt-new-bing-google-bard-conversational-ai)
- - [Sources: Apple planned to announce a smart home hub in March but it has been postponed since the device relies on the delayed Siri capabilities &lpar;Mark Gurman/Bloomberg&rpar;](http://www.techmeme.com/250309/p9#a250309p9)
- - [Trump’s first 100 days: all the news affecting the tech industry](https://www.theverge.com/24348851/donald-trump-presidency-tech-science-news)<!-- TECH:END -->
+ - [Sources: Apple planned to announce a smart home hub in March but it has been postponed since the device relies on the delayed Siri capabilities &lpar;Mark Gurman/Bloomberg&rpar;](http://www.techmeme.com/250309/p9#a250309p9)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

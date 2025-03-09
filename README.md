@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Say it again please](http://9gag.com/gag/agmOYL6)
- - 😝 [Collect all 7 and you can make your wish come true.](http://9gag.com/gag/azxP1Rz)
- - 💣 [Idk where they get those fat asses from](http://9gag.com/gag/ayN4o2q)
- - 😝 [Yeah right](http://9gag.com/gag/a4PzZ0d)
- - 👉 [Dude decided to rob the wrong 7 eleven store](http://9gag.com/gag/a0eVQAL)<!-- MEMES:END -->
+ - 😝 [Can handle baby carrots](http://9gag.com/gag/a9yvA2j)
+ - 😝 [Nice Eyes](http://9gag.com/gag/ae9Oe8W)
+ - 💣 [Stay calm](http://9gag.com/gag/aLneDKv)
+ - 😝 [Dude decided to rob the wrong 7 eleven store](http://9gag.com/gag/a0eVQAL)
+ - 👉 [Parks and Rec bloopers](http://9gag.com/gag/ayN4BVb)<!-- MEMES:END -->
 
 ---
 

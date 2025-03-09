@@ -166,10 +166,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Title.](http://9gag.com/gag/aGy8gXG)
- - 😝 [Mother chooses vacation leaving her baby alone for 10 days!](http://9gag.com/gag/amoG5M4)
- - 💣 [Can handle baby carrots](http://9gag.com/gag/a9yvA2j)
- - 😝 [Fast response](http://9gag.com/gag/agmOnMq)
+ - 😝 [Stop it, get some `HELP!`](http://9gag.com/gag/aoyV5VA)
+ - 😝 [Parks and Rec bloopers](http://9gag.com/gag/ayN4BVb)
+ - 💣 [Ba dum tss](http://9gag.com/gag/aLnejD5)
+ - 😝 [Cheating.](http://9gag.com/gag/aZZw39X)
  - 👉 [Best physics lesson ever.](http://9gag.com/gag/a4Pz3xv)<!-- MEMES:END -->
 
 ---

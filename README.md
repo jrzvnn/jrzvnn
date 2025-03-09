@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Dude decided to rob the wrong 7 eleven store](http://9gag.com/gag/a0eVQAL)
- - 😝 [This reptile is frozen too](http://9gag.com/gag/aVvEYGd)
- - 💣 [All that time training\u2026. Wasted](http://9gag.com/gag/azxPqrb)
- - 😝 [Female comedian disguised as a man to prove women are funny. Had a meltdown when nobody laughed](http://9gag.com/gag/a6Z9Neq)
- - 👉 [Can handle baby carrots](http://9gag.com/gag/a9yvA2j)<!-- MEMES:END -->
+ - 😝 [Say it again please](http://9gag.com/gag/agmOYL6)
+ - 😝 [Collect all 7 and you can make your wish come true.](http://9gag.com/gag/azxP1Rz)
+ - 💣 [Idk where they get those fat asses from](http://9gag.com/gag/ayN4o2q)
+ - 😝 [Yeah right](http://9gag.com/gag/a4PzZ0d)
+ - 👉 [Dude decided to rob the wrong 7 eleven store](http://9gag.com/gag/a0eVQAL)<!-- MEMES:END -->
 
 ---
 

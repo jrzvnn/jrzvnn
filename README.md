@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Yes we are like this](http://9gag.com/gag/ajPOXLp)
- - 😝 [Fast response](http://9gag.com/gag/agmOnMq)
- - 💣 [Female comedian disguised as a man to prove women are funny. Had a meltdown when nobody laughed](http://9gag.com/gag/a6Z9Neq)
+ - 😝 [Dude decided to rob the wrong 7 eleven store](http://9gag.com/gag/a0eVQAL)
+ - 😝 [But remember, fat shaming is no no!](http://9gag.com/gag/aoyV1Ye)
+ - 💣 [Korean girl goes to India.](http://9gag.com/gag/a2v8dDY)
  - 😝 [Bro needed that hug](http://9gag.com/gag/a2v84PE)
- - 👉 [Can handle baby carrots](http://9gag.com/gag/a9yvA2j)<!-- MEMES:END -->
+ - 👉 [Mother chooses vacation leaving her baby alone for 10 days!](http://9gag.com/gag/amoG5M4)<!-- MEMES:END -->
 
 ---
 

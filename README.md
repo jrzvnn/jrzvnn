@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Dude decided to rob the wrong 7 eleven store](http://9gag.com/gag/a0eVQAL)
- - 😝 [But remember, fat shaming is no no!](http://9gag.com/gag/aoyV1Ye)
- - 💣 [Korean girl goes to India.](http://9gag.com/gag/a2v8dDY)
- - 😝 [Bro needed that hug](http://9gag.com/gag/a2v84PE)
- - 👉 [Mother chooses vacation leaving her baby alone for 10 days!](http://9gag.com/gag/amoG5M4)<!-- MEMES:END -->
+ - 😝 [Yes we are like this](http://9gag.com/gag/ajPOXLp)
+ - 😝 [Fast response](http://9gag.com/gag/agmOnMq)
+ - 💣 [Bro needed that hug](http://9gag.com/gag/a2v84PE)
+ - 😝 [This reptile is frozen too](http://9gag.com/gag/aVvEYGd)
+ - 👉 [Can handle baby carrots](http://9gag.com/gag/a9yvA2j)<!-- MEMES:END -->
 
 ---
 

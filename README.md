@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Idk where they get those fat asses from](http://9gag.com/gag/ayN4o2q)
- - 😝 [How though?](http://9gag.com/gag/a9yvR0W)
- - 💣 [Yeah right](http://9gag.com/gag/a4PzZ0d)
- - 😝 [Tight hose method](http://9gag.com/gag/abAOp3b)
- - 👉 [Collect all 7 and you can make your wish come true.](http://9gag.com/gag/azxP1Rz)<!-- MEMES:END -->
+ - 😝 [How Dishwashing Sponges Are Made!](http://9gag.com/gag/awymAKW)
+ - 😝 [Female comedian disguised as a man to prove women are funny. Had a meltdown when nobody laughed](http://9gag.com/gag/a6Z9Neq)
+ - 💣 [Stay calm](http://9gag.com/gag/aLneDKv)
+ - 😝 [Parks and Rec bloopers](http://9gag.com/gag/ayN4BVb)
+ - 👉 [Can handle baby carrots](http://9gag.com/gag/a9yvA2j)<!-- MEMES:END -->
 
 ---
 

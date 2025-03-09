@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [How focusing on West Africa helped music streamer Audiomack grow alongside industry giants like Spotify; 50% of its 40M monthly listeners are from Africa &lpar;Janko Roettgers/Fast Company&rpar;](http://www.techmeme.com/250309/p12#a250309p12)
+ - [Here’s what the newest iPhone Air leaks say about its design](https://www.theverge.com/news/626597/apple-iphone-17-air-design-thickness-thin-rumors-renders-leaks)
+ - [Apple teases revamped Apple Store for Westlake, Ohio](https://appleinsider.com/articles/25/03/09/apple-teases-revamped-apple-store-for-westlake-ohio?utm_medium=rss)
  - [Best Internet Providers in Arizona](https://www.cnet.com/home/internet/best-internet-providers-in-arizona/#ftag=CAD590a51e)
- - [22 of the Best Gifts Under $50 for 2025](https://www.cnet.com/tech/computing/best-gifts-under-50/#ftag=CAD590a51e)
- - [Forza Horizon 5 will require a Microsoft account on PS5](https://www.theverge.com/news/626588/forza-horizon)
- - [Asset managers and investors say wealthy Chinese investors are using SPVs to quietly funnel tens of millions of dollars into Musk&#39;s xAI, Neuralink, and SpaceX &lpar;Sun Yu/Financial Times&rpar;](http://www.techmeme.com/250309/p11#a250309p11)
- - [Best Dog Toys, According to the Experts: Our Dogs](https://www.cnet.com/home/kitchen-and-household/best-dog-toys/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [22 of the Best Gifts Under $50 for 2025](https://www.cnet.com/tech/computing/best-gifts-under-50/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

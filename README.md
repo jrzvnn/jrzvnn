@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Apple’s plans for a smart display suffer a Siri-related setback](https://www.theverge.com/news/626559/apple-smart-display-setback-siri-ai-upgrade)
  - [Apple smart glasses still a distant possibility as Apple considers its wearables future](https://appleinsider.com/articles/25/03/09/apple-smart-glasses-still-a-distant-possibility-as-apple-considers-its-wearables-future?utm_medium=rss)
  - [The TCL QM6K Trades Picture Punch for Refined Performance](https://www.wired.com/review/tcl-qm6k/)
  - [Make Sure You&#39;re Getting Plenty of These Superfoods for Peak Kidney Health](https://www.cnet.com/health/nutrition/make-sure-youre-getting-plenty-of-these-superfoods-for-peak-kidney-health/#ftag=CAD590a51e)
- - [All-Women Blue Origin Crew Including Katy Perry, Lauren Sánchez and Gayle King Going to Space](https://www.cnet.com/science/all-women-blue-origin-crew-including-katy-perry-lauren-sanchez-and-gayle-king-going-to-space/#ftag=CAD590a51e)
- - [Wikipedia editors and administrators detail the turmoil over maintaining neutrality on pages about the Israel-Hamas war and other conflicts in the Middle East &lpar;Margi Murphy/Bloomberg&rpar;](http://www.techmeme.com/250309/p6#a250309p6)<!-- TECH:END -->
+ - [All-Women Blue Origin Crew Including Katy Perry, Lauren Sánchez and Gayle King Going to Space](https://www.cnet.com/science/all-women-blue-origin-crew-including-katy-perry-lauren-sanchez-and-gayle-king-going-to-space/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

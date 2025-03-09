@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Imminent explosion.](http://9gag.com/gag/ayN4oZp)
- - 😝 [Female comedian disguised as a man to prove women are funny. Had a meltdown when nobody laughed](http://9gag.com/gag/a6Z9Neq)
- - 💣 [Parks and Rec bloopers](http://9gag.com/gag/ayN4BVb)
- - 😝 [Dude decided to rob the wrong 7 eleven store](http://9gag.com/gag/a0eVQAL)
- - 👉 [Mother chooses vacation leaving her baby alone for 10 days!](http://9gag.com/gag/amoG5M4)<!-- MEMES:END -->
+ - 😝 [Idk where they get those fat asses from](http://9gag.com/gag/ayN4o2q)
+ - 😝 [How though?](http://9gag.com/gag/a9yvR0W)
+ - 💣 [Yeah right](http://9gag.com/gag/a4PzZ0d)
+ - 😝 [Tight hose method](http://9gag.com/gag/abAOp3b)
+ - 👉 [Collect all 7 and you can make your wish come true.](http://9gag.com/gag/azxP1Rz)<!-- MEMES:END -->
 
 ---
 

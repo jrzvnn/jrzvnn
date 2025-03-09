@@ -158,7 +158,7 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- TECH:START -->
  - [Forza Horizon 5 will require a Microsoft account on PS5](https://www.theverge.com/news/626588/forza-horizon)
- - [Asset managers and investors say wealthy Chinese investors are using SPACs to quietly funnel tens of millions of dollars into Musk&#39;s xAI, Neuralink, and SpaceX &lpar;Sun Yu/Financial Times&rpar;](http://www.techmeme.com/250309/p11#a250309p11)
+ - [Asset managers and investors say wealthy Chinese investors are using SPVs to quietly funnel tens of millions of dollars into Musk&#39;s xAI, Neuralink, and SpaceX &lpar;Sun Yu/Financial Times&rpar;](http://www.techmeme.com/250309/p11#a250309p11)
  - [Apple Intelligence vision via AirPods camera is in active development](https://appleinsider.com/articles/25/03/09/apple-intelligence-vision-via-airpods-camera-is-in-active-development?utm_medium=rss)
  - [A look at Manus, which its Chinese creators claim is the world&#39;s first fully autonomous AI agent, as some say it might be China&#39;s second DeepSeek moment &lpar;Craig S. Smith/Forbes&rpar;](http://www.techmeme.com/250309/p10#a250309p10)
  - [Best Cheap Video Doorbells for 2025](https://www.cnet.com/home/security/best-cheap-video-doorbells/#ftag=CAD590a51e)<!-- TECH:END -->

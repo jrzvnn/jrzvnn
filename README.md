@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Best physics lesson ever.](http://9gag.com/gag/a4Pz3xv)
- - 😝 [The fact that Aragorn is 87 years old.](http://9gag.com/gag/aD2nDxK)
- - 💣 [I feel this](http://9gag.com/gag/a4PzEgv)
- - 😝 [Are you winning son?](http://9gag.com/gag/aqy8nMp)
- - 👉 [Title.](http://9gag.com/gag/aGy8gXG)<!-- MEMES:END -->
+ - 😝 [He became a millionaire, goal reached](http://9gag.com/gag/amoGvo2)
+ - 😝 [Lmao](http://9gag.com/gag/a5QB1qq)
+ - 💣 [How to fold a shirt in under two seconds](http://9gag.com/gag/aQzQX4d)
+ - 😝 [Yup.](http://9gag.com/gag/avye55n)
+ - 👉 [Sounds expensive](http://9gag.com/gag/azxPMNZ)<!-- MEMES:END -->
 
 ---
 

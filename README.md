@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [How to Arrange Your Room for the Best Sleep](https://www.wired.com/story/arrange-room-best-sleep/)
  - [Turn Your iPhone Into a White Noise Machine With This Trick](https://www.cnet.com/tech/services-and-software/turn-your-iphone-into-a-white-noise-machine-with-this-trick/#ftag=CAD590a51e)
  - [Today&#39;s NYT Connections Hints, Answers and Help for March 10, #638](https://www.cnet.com/tech/gaming/todays-nyt-connections-hints-answers-and-help-for-march-10-638/#ftag=CAD590a51e)
  - [Today&#39;s NYT Strands Hints, Answers and Help for March 10, #372](https://www.cnet.com/tech/gaming/todays-nyt-strands-hints-answers-and-help-for-march-10-372/#ftag=CAD590a51e)
- - [Today&#39;s Wordle Hints, Answer and Help for March 10, #1360](https://www.cnet.com/tech/gaming/todays-wordle-hints-answer-and-help-for-march-10-1360/#ftag=CAD590a51e)
- - [A look at YouTube&#39;s hidden world: most of the videos on the platform capture everyday life and have rarely been seen, with the median video having just 41 views &lpar;Thomas Germain/BBC&rpar;](http://www.techmeme.com/250309/p4#a250309p4)<!-- TECH:END -->
+ - [Today&#39;s Wordle Hints, Answer and Help for March 10, #1360](https://www.cnet.com/tech/gaming/todays-wordle-hints-answer-and-help-for-march-10-1360/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

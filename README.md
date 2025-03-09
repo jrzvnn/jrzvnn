@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [From ChatGPT to Gemini: how AI is rewriting the internet](https://www.theverge.com/23610427/chatbots-chatgpt-new-bing-google-bard-conversational-ai)
  - [Sources: Apple planned to announce a smart home hub in March but it has been postponed since the device relies on the delayed Siri capabilities &lpar;Mark Gurman/Bloomberg&rpar;](http://www.techmeme.com/250309/p9#a250309p9)
  - [Trump’s first 100 days: all the news affecting the tech industry](https://www.theverge.com/24348851/donald-trump-presidency-tech-science-news)
  - [Crime blotter: Suspects charged in international &#39;new age porch pirate&#39; ring](https://appleinsider.com/articles/25/03/09/crime-blotter-suspects-charged-in-international-new-age-porch-pirate-ring?utm_medium=rss)
- - [SEC whistleblower complaint: an ex-executive who is launching a book alleges Facebook built a censorship system for the CCP in a bid to enter China in the 2010s &lpar;Naomi Nix/Washington Post&rpar;](http://www.techmeme.com/250309/p8#a250309p8)
- - [A look back at GeoCities, launched in 1994 as Beverly Hills Internet, which allowed people who had no technical knowledge of HTML to build web pages &lpar;Richard MacManus/Cybercultural&rpar;](http://www.techmeme.com/250309/p7#a250309p7)<!-- TECH:END -->
+ - [SEC whistleblower complaint: an ex-executive who is launching a book alleges Facebook built a censorship system for the CCP in a bid to enter China in the 2010s &lpar;Naomi Nix/Washington Post&rpar;](http://www.techmeme.com/250309/p8#a250309p8)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

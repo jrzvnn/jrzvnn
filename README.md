@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [He became a millionaire, goal reached](http://9gag.com/gag/amoGvo2)
+ - 😝 [Are you winning son?](http://9gag.com/gag/aqy8nMp)
+ - 😝 [Firing squad is probably the most humane method](http://9gag.com/gag/azxPMMm)
+ - 💣 [This woman won a great man](http://9gag.com/gag/aE0VP8M)
  - 😝 [Lmao](http://9gag.com/gag/a5QB1qq)
- - 💣 [How to fold a shirt in under two seconds](http://9gag.com/gag/aQzQX4d)
- - 😝 [Yup.](http://9gag.com/gag/avye55n)
- - 👉 [Sounds expensive](http://9gag.com/gag/azxPMNZ)<!-- MEMES:END -->
+ - 👉 [Everybody gets old some day, even the mighty Terminator](http://9gag.com/gag/amoGvQo)<!-- MEMES:END -->
 
 ---
 

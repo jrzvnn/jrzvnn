@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Female comedian disguised as a man to prove women are funny. Had a meltdown when nobody laughed](http://9gag.com/gag/a6Z9Neq)
- - 😝 [Cruelty is for the weak and dumb. Kindness to those in need is a superpower.](http://9gag.com/gag/an7nbYL)
- - 💣 [Can handle baby carrots](http://9gag.com/gag/a9yvA2j)
+ - 😝 [Title.](http://9gag.com/gag/aGy8gXG)
+ - 😝 [Can handle baby carrots](http://9gag.com/gag/a9yvA2j)
+ - 💣 [Romanian countryside drive.](http://9gag.com/gag/aGy8ZXw)
  - 😝 [Mother chooses vacation leaving her baby alone for 10 days!](http://9gag.com/gag/amoG5M4)
- - 👉 [Romanian countryside drive.](http://9gag.com/gag/aGy8ZXw)<!-- MEMES:END -->
+ - 👉 [Dude decided to rob the wrong 7 eleven store](http://9gag.com/gag/a0eVQAL)<!-- MEMES:END -->
 
 ---
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Imminent explosion.](http://9gag.com/gag/ayN4oZp)
- - 😝 [But remember, fat shaming is no no!](http://9gag.com/gag/aoyV1Ye)
- - 💣 [Best physics lesson ever.](http://9gag.com/gag/a4Pz3xv)
- - 😝 [Can handle baby carrots](http://9gag.com/gag/a9yvA2j)
- - 👉 [All that time training\u2026. Wasted](http://9gag.com/gag/azxPqrb)<!-- MEMES:END -->
+ - 😝 [Collect all 7 and you can make your wish come true.](http://9gag.com/gag/azxP1Rz)
+ - 😝 [Are you winning son?](http://9gag.com/gag/aqy8nMp)
+ - 💣 [Such and such](http://9gag.com/gag/aGy8Z26)
+ - 😝 [Good irish women.](http://9gag.com/gag/aE0VgMo)
+ - 👉 [Title.](http://9gag.com/gag/aGy8gXG)<!-- MEMES:END -->
 
 ---
 

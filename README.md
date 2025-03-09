@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Don&#39;t know if this one got posted, but here you go. Sez2ep9](http://9gag.com/gag/a34AMpQ)
- - 😝 [Female comedian disguised as a man to prove women are funny. Had a meltdown when nobody laughed](http://9gag.com/gag/a6Z9Neq)
- - 💣 [Ba dum tss](http://9gag.com/gag/aLnejD5)
- - 😝 [Can handle baby carrots](http://9gag.com/gag/a9yvA2j)
- - 👉 [Are you winning son?](http://9gag.com/gag/aqy8nMp)<!-- MEMES:END -->
+ - 😝 [Bro needed that hug](http://9gag.com/gag/a2v84PE)
+ - 😝 [Parks and Rec bloopers](http://9gag.com/gag/ayN4BVb)
+ - 💣 [Are you winning son?](http://9gag.com/gag/aqy8nMp)
+ - 😝 [Imminent explosion.](http://9gag.com/gag/ayN4oZp)
+ - 👉 [Manhwa neighbors](http://9gag.com/gag/azxPmON)<!-- MEMES:END -->
 
 ---
 

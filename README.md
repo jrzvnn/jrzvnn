@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Soooooooooooo tolerant](http://9gag.com/gag/a87m5je)
- - 😝 [Say it again please](http://9gag.com/gag/agmOYL6)
- - 💣 [Idk where they get those fat asses from](http://9gag.com/gag/ayN4o2q)
- - 😝 [Yeah right](http://9gag.com/gag/a4PzZ0d)
- - 👉 [Tight hose method](http://9gag.com/gag/abAOp3b)<!-- MEMES:END -->
+ - 😝 [Yes we are like this](http://9gag.com/gag/ajPOXLp)
+ - 😝 [Fast response](http://9gag.com/gag/agmOnMq)
+ - 💣 [Female comedian disguised as a man to prove women are funny. Had a meltdown when nobody laughed](http://9gag.com/gag/a6Z9Neq)
+ - 😝 [Bro needed that hug](http://9gag.com/gag/a2v84PE)
+ - 👉 [Can handle baby carrots](http://9gag.com/gag/a9yvA2j)<!-- MEMES:END -->
 
 ---
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Title.](http://9gag.com/gag/aGy8gXG)
- - 😝 [Can handle baby carrots](http://9gag.com/gag/a9yvA2j)
- - 💣 [Romanian countryside drive.](http://9gag.com/gag/aGy8ZXw)
- - 😝 [Mother chooses vacation leaving her baby alone for 10 days!](http://9gag.com/gag/amoG5M4)
- - 👉 [Dude decided to rob the wrong 7 eleven store](http://9gag.com/gag/a0eVQAL)<!-- MEMES:END -->
+ - 😝 [Soooooooooooo tolerant](http://9gag.com/gag/a87m5je)
+ - 😝 [Say it again please](http://9gag.com/gag/agmOYL6)
+ - 💣 [Idk where they get those fat asses from](http://9gag.com/gag/ayN4o2q)
+ - 😝 [Yeah right](http://9gag.com/gag/a4PzZ0d)
+ - 👉 [Tight hose method](http://9gag.com/gag/abAOp3b)<!-- MEMES:END -->
 
 ---
 

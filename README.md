@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [All that time training\u2026. Wasted](http://9gag.com/gag/azxPqrb)
- - 😝 [Cheating.](http://9gag.com/gag/aZZw39X)
- - 💣 [Parks and Rec bloopers](http://9gag.com/gag/ayN4BVb)
- - 😝 [Bro needed that hug](http://9gag.com/gag/a2v84PE)
- - 👉 [But remember, fat shaming is no no!](http://9gag.com/gag/aoyV1Ye)<!-- MEMES:END -->
+ - 😝 [Fast response](http://9gag.com/gag/agmOnMq)
+ - 😝 [Yes we are like this](http://9gag.com/gag/ajPOXLp)
+ - 💣 [Title.](http://9gag.com/gag/aGy8gXG)
+ - 😝 [Dude decided to rob the wrong 7 eleven store](http://9gag.com/gag/a0eVQAL)
+ - 👉 [Female comedian disguised as a man to prove women are funny. Had a meltdown when nobody laughed](http://9gag.com/gag/a6Z9Neq)<!-- MEMES:END -->
 
 ---
 

@@ -160,8 +160,8 @@ R                        1 repo              ░░░░░░░░░░░�
  - [How focusing on West Africa helped music streamer Audiomack grow alongside industry giants like Spotify; 50% of its 40M monthly listeners are from Africa &lpar;Janko Roettgers/Fast Company&rpar;](http://www.techmeme.com/250309/p12#a250309p12)
  - [Here’s what the newest iPhone Air leaks say about its design](https://www.theverge.com/news/626597/apple-iphone-17-air-design-thickness-thin-rumors-renders-leaks)
  - [Apple teases revamped Apple Store for Westlake, Ohio](https://appleinsider.com/articles/25/03/09/apple-teases-revamped-apple-store-for-westlake-ohio?utm_medium=rss)
- - [Best Internet Providers in Arizona](https://www.cnet.com/home/internet/best-internet-providers-in-arizona/#ftag=CAD590a51e)
- - [22 of the Best Gifts Under $50 for 2025](https://www.cnet.com/tech/computing/best-gifts-under-50/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Best Internet Providers in Bakersfield, California](https://www.cnet.com/home/internet/best-internet-providers-in-bakersfield-ca/#ftag=CAD590a51e)
+ - [Here&#39;s How Much Crime Goes Down After Daylight Savings](https://www.cnet.com/home/security/heres-how-much-crime-goes-down-after-daylight-savings/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

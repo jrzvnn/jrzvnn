@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Cheating.](http://9gag.com/gag/aZZw39X)
- - 😝 [How though?](http://9gag.com/gag/a9yvR0W)
- - 💣 [Can handle baby carrots](http://9gag.com/gag/a9yvA2j)
- - 😝 [Dude decided to rob the wrong 7 eleven store](http://9gag.com/gag/a0eVQAL)
- - 👉 [How Dishwashing Sponges Are Made!](http://9gag.com/gag/awymAKW)<!-- MEMES:END -->
+ - 😝 [Collect all 7 and you can make your wish come true.](http://9gag.com/gag/azxP1Rz)
+ - 😝 [A shoplifter gets knocked out with a bottle of Coke](http://9gag.com/gag/axyvMjL)
+ - 💣 [Many many decent 9gagers](http://9gag.com/gag/ae9OD5v)
+ - 😝 [Such and such](http://9gag.com/gag/aGy8Z26)
+ - 👉 [Good irish women.](http://9gag.com/gag/aE0VgMo)<!-- MEMES:END -->
 
 ---
 

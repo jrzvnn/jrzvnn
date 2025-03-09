@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Collect all 7 and you can make your wish come true.](http://9gag.com/gag/azxP1Rz)
- - 😝 [Many many decent 9gagers](http://9gag.com/gag/ae9OD5v)
- - 💣 [Such and such](http://9gag.com/gag/aGy8Z26)
- - 😝 [Good irish women.](http://9gag.com/gag/aE0VgMo)
- - 👉 [This one minute paid for the entire movie](http://9gag.com/gag/aXPNgA2)<!-- MEMES:END -->
+ - 😝 [Imminent explosion.](http://9gag.com/gag/ayN4oZp)
+ - 😝 [But remember, fat shaming is no no!](http://9gag.com/gag/aoyV1Ye)
+ - 💣 [Best physics lesson ever.](http://9gag.com/gag/a4Pz3xv)
+ - 😝 [Can handle baby carrots](http://9gag.com/gag/a9yvA2j)
+ - 👉 [All that time training\u2026. Wasted](http://9gag.com/gag/azxPqrb)<!-- MEMES:END -->
 
 ---
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Fast response](http://9gag.com/gag/agmOnMq)
+ - 😝 [Ba dum tss](http://9gag.com/gag/aLnejD5)
+ - 😝 [Bro needed that hug](http://9gag.com/gag/a2v84PE)
+ - 💣 [Fast response](http://9gag.com/gag/agmOnMq)
  - 😝 [Yes we are like this](http://9gag.com/gag/ajPOXLp)
- - 💣 [Title.](http://9gag.com/gag/aGy8gXG)
- - 😝 [Dude decided to rob the wrong 7 eleven store](http://9gag.com/gag/a0eVQAL)
- - 👉 [Female comedian disguised as a man to prove women are funny. Had a meltdown when nobody laughed](http://9gag.com/gag/a6Z9Neq)<!-- MEMES:END -->
+ - 👉 [Cheating.](http://9gag.com/gag/aZZw39X)<!-- MEMES:END -->
 
 ---
 

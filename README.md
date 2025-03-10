@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Third time&#39;s the charm? EU considers fining Apple over DMA yet again](https://appleinsider.com/articles/25/03/10/third-times-the-charm-eu-considers-fining-apple-over-dma-yet-again?utm_medium=rss)
+ - [Apple is planning to make enormous design changes to iOS 19 &amp; macOS 16](https://appleinsider.com/articles/25/03/10/apple-is-planning-to-make-enormous-design-changes-to-ios-19-macos-16?utm_medium=rss)
+ - [What&#39;s Really Happening With Elon Musk and Those ‘Stranded’ Astronauts?](https://www.wired.com/story/elon-musk-stranded-astronauts-nasa-spacex-boeing/)
  - [How the EU’s DMA is changing Big Tech: all of the news and updates](https://www.theverge.com/24040543/eu-dma-digital-markets-act-big-tech-antitrust)
- - [Apple is reportedly planning a design overhaul for iOS, iPadOS, and macOS](https://www.theverge.com/news/627149/apple-ios-ipados-macos-design-overhaul)
- - [Sources: Apple preps a major interface revamp for iOS 19, iPadOS 19, and macOS 16, loosely based on visionOS, with consistent design, simpler navigation, more &lpar;Mark Gurman/Bloomberg&rpar;](http://www.techmeme.com/250310/p20#a250310p20)
- - [An iconic DJ turntable inspired this record player watch](https://www.theverge.com/news/627130/ando-vinyl-record-automatic-watch-panasonic-technics-sl-1200-turntable)
- - [Sony is experimenting with AI-powered PlayStation characters](https://www.theverge.com/news/626695/sony-playstation-ai-characters-aloy-horizon-forbidden-west-prototype)<!-- TECH:END -->
+ - [Apple is reportedly planning a design overhaul for iOS, iPadOS, and macOS](https://www.theverge.com/news/627149/apple-ios-ipados-macos-design-overhaul)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

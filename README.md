@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [I identify as Apache Helicopter](http://9gag.com/gag/agmOmZ6)
- - 😝 [Harry Potter talking to Snape in the new HBO show](http://9gag.com/gag/aD2nYYK)
- - 💣 [Warner Bros really hate money and their fans](http://9gag.com/gag/awymy81)
- - 😝 [Playful Kate Beckinsale on the set of Underworld &lpar;2003&rpar;](http://9gag.com/gag/a1mD1Rv)
- - 👉 [Definitely india](http://9gag.com/gag/aPAPZEn)<!-- MEMES:END -->
+ - 😝 [Warner Bros really hate money and their fans](http://9gag.com/gag/awymy81)
+ - 😝 [BREAKING: An Air India flight was forced to return on a 10 hour trip to Chicago Illinois because their toilets were clogged with poop leaving hundreds Indians trapped on a plane with no restroom.](http://9gag.com/gag/aD2nDBN)
+ - 💣 [Welcome to Arizona](http://9gag.com/gag/aPAPgMw)
+ - 😝 [Finally it happened to me, I&#39;m in love.](http://9gag.com/gag/aMVmxzA)
+ - 👉 [Pigeons are now impersonating Humans](http://9gag.com/gag/a9yvnV0)<!-- MEMES:END -->
 
 ---
 

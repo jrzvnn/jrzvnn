@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [How Dishwashing Sponges Are Made!](http://9gag.com/gag/awymAKW)
- - 😝 [Lmao](http://9gag.com/gag/a5QB1qq)
- - 💣 [When you land in Germany and are greeted by the friendly locals](http://9gag.com/gag/aYQO7Zx)
- - 😝 [Content creators interacting with a real worker](http://9gag.com/gag/adBOgMQ)
- - 👉 [I feel this](http://9gag.com/gag/a4PzEgv)<!-- MEMES:END -->
+ - 😝 [Yup.](http://9gag.com/gag/avye55n)
+ - 😝 [I know this guy is here](http://9gag.com/gag/aD2ndDx)
+ - 💣 [Fake internet lives and real reality](http://9gag.com/gag/a87mEe1)
+ - 😝 [The fact that Aragorn is 87 years old.](http://9gag.com/gag/aD2nDxK)
+ - 👉 [It&#39;s true](http://9gag.com/gag/aVvExL8)<!-- MEMES:END -->
 
 ---
 

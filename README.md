@@ -158,10 +158,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- TECH:START -->
  - [Claude Code hands-on: chews through legacy bugs in gnarly old code and a big step for coding assistants, but its form factor is clunky and no multimodal support &lpar;Steve Yegge/@steve_yegge&rpar;](http://www.techmeme.com/250310/p6#a250310p6)
+ - [Reduce Eye Strain With This Hidden iPhone Feature](https://www.cnet.com/tech/services-and-software/reduce-eye-strain-with-this-hidden-iphone-feature/#ftag=CAD590a51e)
+ - [Best AV Receiver for 2025](https://www.cnet.com/tech/home-entertainment/best-av-receiver/#ftag=CAD590a51e)
  - [Stripe, Revolut, and other banks and fintechs rush to launch stablecoins; there are ~$210B in stablecoins issued globally, including Tether printing $142B &lpar;Financial Times&rpar;](http://www.techmeme.com/250310/p5#a250310p5)
- - [A look at China&#39;s heavy-handed and sometimes intrusive approach to crack down on telecom and online scams, including intercepting calls and messages &lpar;Bloomberg&rpar;](http://www.techmeme.com/250310/p4#a250310p4)
- - [How neo-Nazi influencers on Telegram formed the Terrorgram Collective and a network of chats and channels, targeted a teen in Slovakia, and groomed him to kill &lpar;ProPublica&rpar;](http://www.techmeme.com/250310/p3#a250310p3)
- - [Foxconn says it built FoxBrain, an in-house reasoning LLM, trained in four weeks with support from Nvidia via its Taiwan-based supercomputer and consulting &lpar;Yang Jie/Wall Street Journal&rpar;](http://www.techmeme.com/250310/p2#a250310p2)<!-- TECH:END -->
+ - [Don&#39;t Sleep on High APYs. Today&#39;s CD Rates, March 10, 2025](https://www.cnet.com/personal-finance/banking/dont-sleep-on-high-apys-todays-cd-rates-march-10-2025/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

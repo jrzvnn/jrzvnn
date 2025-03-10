@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [X is having an up and down Monday](https://www.theverge.com/news/626672/x-twitter-outage-down-not-loading)
- - [All the smart home news, reviews, and gadgets you need to know about](https://www.theverge.com/24190824/smart-home-news-reviews-guides-gadgets)
- - [The best robot vacuums](https://www.theverge.com/22997597/best-robot-vacuum-cleaner)
- - [JBL’s new Flip 7 and Charge 6 speakers boost battery life and sound quality](https://www.theverge.com/news/626811/jbl-flip-7-charge-6-bluetooth-speaker-wireless-battery-life-ai-sound-boost)
- - [Ben Stiller &amp; Eddy Cue gush about making &#39;Severance&#39; with Apple TV+](https://appleinsider.com/articles/25/03/10/ben-stiller-eddy-cue-gush-about-making-severance-with-apple-tv?utm_medium=rss)<!-- TECH:END -->
+ - [14 Best Sleep Week Deals on Mattresses, Sheets, and More &lpar;2025&rpar;](https://www.wired.com/story/sleep-month-deals-2025/)
+ - [Consumer Reports: many voice cloning programs, including ElevenLabs, Speechify, PlayHT, and Lovo, have flimsy barriers to prevent nonconsensual impersonations &lpar;Kevin Collier/NBC News&rpar;](http://www.techmeme.com/250310/p15#a250310p15)
+ - [Who Pays Taxes on Interest Earned on a Joint Bank Account?](https://www.cnet.com/personal-finance/banking/who-pays-taxes-on-interest-earned-on-a-joint-bank-account/#ftag=CAD590a51e)
+ - [Why the internet still needs Section 230](https://www.theverge.com/policy/626326/ron-wyden-section-230-history-it-takes-chutzpah-excerpt)
+ - [Space collisions could become a bigger risk thanks to greenhouse gas pollution](https://www.theverge.com/news/626810/space-collision-satellite-greenhouse-gas-emissions)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

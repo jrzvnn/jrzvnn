@@ -159,9 +159,9 @@ R                        1 repo              ░░░░░░░░░░░�
 <!-- TECH:START -->
  - [An iconic DJ turntable inspired this record player watch](https://www.theverge.com/news/627130/ando-vinyl-record-automatic-watch-panasonic-technics-sl-1200-turntable)
  - [Sony is experimenting with AI-powered PlayStation characters](https://www.theverge.com/news/626695/sony-playstation-ai-characters-aloy-horizon-forbidden-west-prototype)
- - [Sources: Microsoft is working on an Xbox-branded gaming handheld, slated for later in 2025, and successors to the Xbox Series X|S, tentatively slated for 2027 &lpar;Jez Corden/Windows Central&rpar;](http://www.techmeme.com/250310/p19#a250310p19)
- - [Microsoft is holding a 50th anniversary and Copilot event in April](https://www.theverge.com/news/627077/microsoft-50th-anniversary-copilot-ai-event)
- - [Sources: CoreWeave has signed a five-year $11.9B contract with OpenAI that will give OpenAI a stake in the cloud computing provider ahead of its IPO &lpar;Echo Wang/Reuters&rpar;](http://www.techmeme.com/250310/p18#a250310p18)<!-- TECH:END -->
+ - [Disneyland and Disney World: First Look at Avengers Rides, Monsters Coaster, Cars Rally Race](https://www.cnet.com/tech/services-and-software/disneyland-and-disney-world-first-look-at-avengers-rides-monsters-coaster-cars-rally-race/#ftag=CAD590a51e)
+ - [This Week&#39;s Mortgage Rate Predictions, March 10-16, 2025](https://www.cnet.com/personal-finance/this-weeks-mortgage-rate-predictions-march-10-16-2025/#ftag=CAD590a51e)
+ - [Sources: Microsoft is working on an Xbox-branded gaming handheld, slated for later in 2025, and successors to the Xbox Series X|S, tentatively slated for 2027 &lpar;Jez Corden/Windows Central&rpar;](http://www.techmeme.com/250310/p19#a250310p19)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

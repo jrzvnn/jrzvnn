@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The best iPhones](https://www.theverge.com/23618862/best-iphone-camera-battery-screen-guide)
  - [Trump’s first 100 days: all the news affecting the tech industry](https://www.theverge.com/24348851/donald-trump-presidency-tech-science-news)
  - [Ex-Google CEO Eric Schmidt is the newest Big Tech-to-space exec](https://www.theverge.com/news/627365/google-eric-schmidt-relativity-space-ceo)
  - [Bluesky adds support for three-minute videos, up from the previous one-minute limit, and a new &quot;Chat Requests&quot; feature to screen messages from unknown users &lpar;Emma Roth/The Verge&rpar;](http://www.techmeme.com/250310/p25#a250310p25)
- - [This is just the start](https://www.theverge.com/policy/627185/columbia-ice-arrest-mahmoud-khalil-palestine-protest-surveillance)
- - [The best Mario Day deals on Nintendo Switch games and accessories](https://www.theverge.com/good-deals/627141/mario-day-2025-deals-mar10-nintendo-switch-games-controllers-legos-sale)<!-- TECH:END -->
+ - [This is just the start](https://www.theverge.com/policy/627185/columbia-ice-arrest-mahmoud-khalil-palestine-protest-surveillance)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

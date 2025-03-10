@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Do it!](http://9gag.com/gag/amoGA9j)
- - 😝 [Warner Bros really hate money and their fans](http://9gag.com/gag/awymy81)
- - 💣 [Bollywood at its best](http://9gag.com/gag/aPAPgzw)
- - 😝 [God damn it](http://9gag.com/gag/a4Pz1Gd)
- - 👉 [Playful Kate Beckinsale on the set of Underworld &lpar;2003&rpar;](http://9gag.com/gag/a1mD1Rv)<!-- MEMES:END -->
+ - 😝 [I identify as Apache Helicopter](http://9gag.com/gag/agmOmZ6)
+ - 😝 [Harry Potter talking to Snape in the new HBO show](http://9gag.com/gag/aD2nYYK)
+ - 💣 [Warner Bros really hate money and their fans](http://9gag.com/gag/awymy81)
+ - 😝 [Playful Kate Beckinsale on the set of Underworld &lpar;2003&rpar;](http://9gag.com/gag/a1mD1Rv)
+ - 👉 [Definitely india](http://9gag.com/gag/aPAPZEn)<!-- MEMES:END -->
 
 ---
 

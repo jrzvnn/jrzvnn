@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Parks and Rec bloopers](http://9gag.com/gag/ayN4BVb)
- - 😝 [We live in sosaety](http://9gag.com/gag/aD2n1jO)
- - 💣 [I&#39;m 40, I don&#39;t have time for this BS](http://9gag.com/gag/aRBZ3qB)
- - 😝 [Sand flowing like water...absolutely insane](http://9gag.com/gag/an7ngd5)
- - 👉 [A Father&#39;s Love](http://9gag.com/gag/aZZw3GQ)<!-- MEMES:END -->
+ - 😝 [I like when 2 characters with different mentality engage in anything, fight, love, quest, etc...](http://9gag.com/gag/axyvMLn)
+ - 😝 [I posted this months ago, it\u2019s now official !](http://9gag.com/gag/aGy8Zj5)
+ - 💣 [Lmao](http://9gag.com/gag/a5QB1qq)
+ - 😝 [How to untie a tight knot in a plastic bag](http://9gag.com/gag/a87mGEO)
+ - 👉 [How quickly this robot gets up after being pushed](http://9gag.com/gag/aAyE3oE)<!-- MEMES:END -->
 
 ---
 

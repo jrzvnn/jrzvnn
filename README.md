@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Tech stocks lead a broad sell-off; the Nasdaq falls ~4%, with Apple dropping by ~6%, Meta by 5%+, Nvidia by 5%+, Google by 5%+, and Microsoft by 3%+ &lpar;Myles Udland/Yahoo Finance&rpar;](http://www.techmeme.com/250310/p16#a250310p16)
  - [Trump’s first 100 days: all the news affecting the tech industry](https://www.theverge.com/24348851/donald-trump-presidency-tech-science-news)
  - [Infinity Nikki&amp;#8217;s new interactive map makes it way easier to find what you need](https://www.theverge.com/news/627006/infinity-nikki-interactive-map-update-infold-games)
  - [Sony will give the PS5 Pro crisper graphics — by backporting FSR 4](https://www.theverge.com/news/626952/sony-fsr-4-upscaler-coming-to-ps5-pro-reimplementation)
- - [All the news about Sony’s PS5 Pro](https://www.theverge.com/24240801/ps5-pro-details-playstation-event-september-2024)
- - [The Tesla protests are getting bigger — and rowdier](https://www.theverge.com/news/626851/tesla-takedown-protests-elon-musk)<!-- TECH:END -->
+ - [All the news about Sony’s PS5 Pro](https://www.theverge.com/24240801/ps5-pro-details-playstation-event-september-2024)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

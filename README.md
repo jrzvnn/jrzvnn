@@ -166,10 +166,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [I identify as Apache Helicopter](http://9gag.com/gag/agmOmZ6)
+ - 😝 [Do it!](http://9gag.com/gag/amoGA9j)
  - 😝 [Warner Bros really hate money and their fans](http://9gag.com/gag/awymy81)
- - 💣 [Welcome to Arizona](http://9gag.com/gag/aPAPgMw)
- - 😝 [Content creators interacting with a real worker](http://9gag.com/gag/adBOgMQ)
+ - 💣 [Bollywood at its best](http://9gag.com/gag/aPAPgzw)
+ - 😝 [God damn it](http://9gag.com/gag/a4Pz1Gd)
  - 👉 [Playful Kate Beckinsale on the set of Underworld &lpar;2003&rpar;](http://9gag.com/gag/a1mD1Rv)<!-- MEMES:END -->
 
 ---

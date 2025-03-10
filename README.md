@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Analysis of US job listings: 36% of IT jobs in January 2025 were AI-related, and nearly 25% of tech jobs sought AI skills, a huge jump since ChatGPT&#39;s release &lpar;Nate Rattner/Wall Street Journal&rpar;](http://www.techmeme.com/250310/p7#a250310p7)
+ - [How to Turn Cities Into Biketopias? Make it Harder to Drive There](https://www.wired.com/story/new-york-city-congestion-pricing-urban-design-biketopia/)
  - [Claude Code hands-on: chews through legacy bugs in gnarly old code and a big step for coding assistants, but its form factor is clunky and no multimodal support &lpar;Steve Yegge/@steve_yegge&rpar;](http://www.techmeme.com/250310/p6#a250310p6)
  - [Reduce Eye Strain With This Hidden iPhone Feature](https://www.cnet.com/tech/services-and-software/reduce-eye-strain-with-this-hidden-iphone-feature/#ftag=CAD590a51e)
- - [Best AV Receiver for 2025](https://www.cnet.com/tech/home-entertainment/best-av-receiver/#ftag=CAD590a51e)
- - [Stripe, Revolut, and other banks and fintechs rush to launch stablecoins; there are ~$210B in stablecoins issued globally, including Tether printing $142B &lpar;Financial Times&rpar;](http://www.techmeme.com/250310/p5#a250310p5)
- - [Don&#39;t Sleep on High APYs. Today&#39;s CD Rates, March 10, 2025](https://www.cnet.com/personal-finance/banking/dont-sleep-on-high-apys-todays-cd-rates-march-10-2025/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Best AV Receiver for 2025](https://www.cnet.com/tech/home-entertainment/best-av-receiver/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

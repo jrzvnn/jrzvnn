@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Claude Code hands-on: chews through legacy bugs in gnarly old code and a big step for coding assistants, but its form factor is clunky and no multimodal support &lpar;Steve Yegge/@steve_yegge&rpar;](http://www.techmeme.com/250310/p6#a250310p6)
  - [Stripe, Revolut, and other banks and fintechs rush to launch stablecoins; there are ~$210B in stablecoins issued globally, including Tether printing $142B &lpar;Financial Times&rpar;](http://www.techmeme.com/250310/p5#a250310p5)
  - [A look at China&#39;s heavy-handed and sometimes intrusive approach to crack down on telecom and online scams, including intercepting calls and messages &lpar;Bloomberg&rpar;](http://www.techmeme.com/250310/p4#a250310p4)
  - [How neo-Nazi influencers on Telegram formed the Terrorgram Collective and a network of chats and channels, targeted a teen in Slovakia, and groomed him to kill &lpar;ProPublica&rpar;](http://www.techmeme.com/250310/p3#a250310p3)
- - [Foxconn says it built FoxBrain, an in-house reasoning LLM, trained in four weeks with support from Nvidia via its Taiwan-based supercomputer and consulting &lpar;Yang Jie/Wall Street Journal&rpar;](http://www.techmeme.com/250310/p2#a250310p2)
- - [Today&#39;s NYT Mini Crossword Answers for Monday, March 10](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-monday-march-10/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Foxconn says it built FoxBrain, an in-house reasoning LLM, trained in four weeks with support from Nvidia via its Taiwan-based supercomputer and consulting &lpar;Yang Jie/Wall Street Journal&rpar;](http://www.techmeme.com/250310/p2#a250310p2)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

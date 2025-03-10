@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Some Chromecasts are giving ‘Untrusted device’ errors today](https://www.theverge.com/news/626625/some-chromecasts-are-giving-untrusted-device-errors-today)
+ - [Sources: DeepSeek founder Liang Wenfeng told associates he isn&#39;t in a hurry to get investment, including from government entities, fearing outside influence &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/250310/p12#a250310p12)
+ - [14 Best Soundbars We&#39;ve Tested and Reviewed &lpar;2025&rpar;: Sonos, Sony, Bose](https://www.wired.com/gallery/best-soundbars/)
  - [Lego’s new Mario Kart set super-sizes Mario](https://www.theverge.com/news/626716/lego-super-mario-kart-availability)
- - [Nirvana, which uses real-time driving telematics to build insurance policies for truckers, raised an $80M Series C at an $830M valuation, up from $350M in 2023 &lpar;Ingrid Lunden/TechCrunch&rpar;](http://www.techmeme.com/250310/p11#a250310p11)
- - [iPhone 17 video hints at how fall updates will feel in the hand](https://appleinsider.com/articles/25/03/10/iphone-17-video-hints-at-how-fall-updates-will-feel-in-the-hand?utm_medium=rss)
- - [MacBook Air update arrives with lower starting price &amp; M4 performance boost](https://appleinsider.com/articles/25/03/05/macbook-air-update-arrives-with-lower-starting-price-m4-performance-boost?utm_medium=rss)
- - [Deals: AirPods 4 plunge to $99, while AirPods Pro 2 fall to $169](https://appleinsider.com/articles/25/03/10/deals-airpods-4-plunge-to-99-while-airpods-pro-2-fall-to-169?utm_medium=rss)<!-- TECH:END -->
+ - [Nirvana, which uses real-time driving telematics to build insurance policies for truckers, raised an $80M Series C at an $830M valuation, up from $350M in 2023 &lpar;Ingrid Lunden/TechCrunch&rpar;](http://www.techmeme.com/250310/p11#a250310p11)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

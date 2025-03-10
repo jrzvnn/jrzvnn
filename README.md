@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Lmao](http://9gag.com/gag/a5QB1qq)
- - 😝 [Everybody gets old some day, even the mighty Terminator](http://9gag.com/gag/amoGvQo)
- - 💣 [Long sh[i]t but my fav](http://9gag.com/gag/a9yvRm0)
  - 😝 [When you land in Germany and are greeted by the friendly locals](http://9gag.com/gag/aYQO7Zx)
- - 👉 [Warnings were given](http://9gag.com/gag/aryAVE0)<!-- MEMES:END -->
+ - 😝 [Finally it happened to me, I&#39;m in love.](http://9gag.com/gag/aMVmxzA)
+ - 💣 [Sand flowing like water...absolutely insane](http://9gag.com/gag/an7ngd5)
+ - 😝 [Lmao](http://9gag.com/gag/a5QB1qq)
+ - 👉 [God damn it](http://9gag.com/gag/a4Pz1Gd)<!-- MEMES:END -->
 
 ---
 

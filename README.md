@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The best Mario Day deals on Nintendo Switch games and accessories](https://www.theverge.com/good-deals/627141/mario-day-2025-deals-mar10-nintendo-switch-games-controllers-legos-sale)
+ - [Cambridge, Massachusetts-based Lila Sciences, founded in 2023 to build AI to accelerate scientific discovery, emerges from stealth with a $200M seed &lpar;New York Times&rpar;](http://www.techmeme.com/250310/p24#a250310p24)
  - [iOS 18.4 will force users to upgrade to the latest HomeKit architecture](https://appleinsider.com/articles/25/03/10/ios-184-will-force-users-to-upgrade-to-the-latest-homekit-architecture?utm_medium=rss)
  - [OPM Watchdog Says Review of DOGE Work Is Underway](https://www.wired.com/story/opm-doge-review-underway/)
- - [Bluesky gets three-minute videos and a filter to help with DM spam](https://www.theverge.com/news/627296/bluesky-three-minute-videos-dm-filter)
- - [X is having an up and down Monday](https://www.theverge.com/news/626672/x-twitter-outage-down-not-loading)
- - [The entire story of Twitter / X under Elon Musk](https://www.theverge.com/2022/4/11/23019836/elon-musk-twitter-board-of-directors-news-updates)<!-- TECH:END -->
+ - [Bluesky gets three-minute videos and a filter to help with DM spam](https://www.theverge.com/news/627296/bluesky-three-minute-videos-dm-filter)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

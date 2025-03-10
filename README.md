@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Harry Potter talking to Snape in the new HBO show](http://9gag.com/gag/aD2nYYK)
- - 😝 [A moron on a motorbike crashes into a stationary car.](http://9gag.com/gag/agmOAjq)
- - 💣 [Warnings were given](http://9gag.com/gag/aryAVE0)
+ - 😝 [Pigeons are now impersonating Humans](http://9gag.com/gag/a9yvnV0)
  - 😝 [Warner Bros really hate money and their fans](http://9gag.com/gag/awymy81)
- - 👉 [BREAKING: An Air India flight was forced to return on a 10 hour trip to Chicago Illinois because their toilets were clogged with poop leaving hundreds Indians trapped on a plane with no restroom.](http://9gag.com/gag/aD2nDBN)<!-- MEMES:END -->
+ - 💣 [Playful Kate Beckinsale on the set of Underworld &lpar;2003&rpar;](http://9gag.com/gag/a1mD1Rv)
+ - 😝 [Warnings were given](http://9gag.com/gag/aryAVE0)
+ - 👉 [Stop it, get some `HELP!`](http://9gag.com/gag/aoyV5VA)<!-- MEMES:END -->
 
 ---
 

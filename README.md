@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [I like when 2 characters with different mentality engage in anything, fight, love, quest, etc...](http://9gag.com/gag/axyvMLn)
- - 😝 [I posted this months ago, it\u2019s now official !](http://9gag.com/gag/aGy8Zj5)
- - 💣 [Lmao](http://9gag.com/gag/a5QB1qq)
- - 😝 [How to untie a tight knot in a plastic bag](http://9gag.com/gag/a87mGEO)
- - 👉 [How quickly this robot gets up after being pushed](http://9gag.com/gag/aAyE3oE)<!-- MEMES:END -->
+ - 😝 [It&#39;s gonna be a bubble bath!](http://9gag.com/gag/aryAGbK)
+ - 😝 [Mother chooses vacation leaving her baby alone for 10 days!](http://9gag.com/gag/amoG5M4)
+ - 💣 [I posted this months ago, it\u2019s now official !](http://9gag.com/gag/aGy8Zj5)
+ - 😝 [Definitely india](http://9gag.com/gag/aPAPZEn)
+ - 👉 [I feel this](http://9gag.com/gag/a4PzEgv)<!-- MEMES:END -->
 
 ---
 

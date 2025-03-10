@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [I posted this months ago, it\u2019s now official !](http://9gag.com/gag/aGy8Zj5)
- - 😝 [I feel this](http://9gag.com/gag/a4PzEgv)
- - 💣 [Sand flowing like water...absolutely insane](http://9gag.com/gag/an7ngd5)
+ - 😝 [How Dishwashing Sponges Are Made!](http://9gag.com/gag/awymAKW)
  - 😝 [Lmao](http://9gag.com/gag/a5QB1qq)
- - 👉 [Definitely india](http://9gag.com/gag/aPAPZEn)<!-- MEMES:END -->
+ - 💣 [When you land in Germany and are greeted by the friendly locals](http://9gag.com/gag/aYQO7Zx)
+ - 😝 [Content creators interacting with a real worker](http://9gag.com/gag/adBOgMQ)
+ - 👉 [I feel this](http://9gag.com/gag/a4PzEgv)<!-- MEMES:END -->
 
 ---
 

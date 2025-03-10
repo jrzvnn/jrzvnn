@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Pigeons are now impersonating Humans](http://9gag.com/gag/a9yvnV0)
- - 😝 [Warner Bros really hate money and their fans](http://9gag.com/gag/awymy81)
- - 💣 [Playful Kate Beckinsale on the set of Underworld &lpar;2003&rpar;](http://9gag.com/gag/a1mD1Rv)
- - 😝 [Warnings were given](http://9gag.com/gag/aryAVE0)
- - 👉 [Stop it, get some `HELP!`](http://9gag.com/gag/aoyV5VA)<!-- MEMES:END -->
+ - 😝 [Easy marketing.](http://9gag.com/gag/apRD9z5)
+ - 😝 [You deserve what you tolerate](http://9gag.com/gag/a7oeoLm)
+ - 💣 [Lmao](http://9gag.com/gag/a5QB1qq)
+ - 😝 [Nice game](http://9gag.com/gag/aQzQzA8)
+ - 👉 [Warner Bros really hate money and their fans](http://9gag.com/gag/awymy81)<!-- MEMES:END -->
 
 ---
 

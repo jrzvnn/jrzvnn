@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [A shoplifter gets knocked out with a bottle of Coke](http://9gag.com/gag/axyvMjL)
- - 😝 [Manhwa neighbors](http://9gag.com/gag/azxPmON)
- - 💣 [Easy marketing.](http://9gag.com/gag/apRD9z5)
- - 😝 [You deserve what you tolerate](http://9gag.com/gag/a7oeoLm)
- - 👉 [Lmao](http://9gag.com/gag/a5QB1qq)<!-- MEMES:END -->
+ - 😝 [Harry Potter talking to Snape in the new HBO show](http://9gag.com/gag/aD2nYYK)
+ - 😝 [A moron on a motorbike crashes into a stationary car.](http://9gag.com/gag/agmOAjq)
+ - 💣 [Warnings were given](http://9gag.com/gag/aryAVE0)
+ - 😝 [Warner Bros really hate money and their fans](http://9gag.com/gag/awymy81)
+ - 👉 [BREAKING: An Air India flight was forced to return on a 10 hour trip to Chicago Illinois because their toilets were clogged with poop leaving hundreds Indians trapped on a plane with no restroom.](http://9gag.com/gag/aD2nDBN)<!-- MEMES:END -->
 
 ---
 

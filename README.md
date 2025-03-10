@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [The fact that Aragorn is 87 years old.](http://9gag.com/gag/aD2nDxK)
- - 😝 [Yup.](http://9gag.com/gag/avye55n)
- - 💣 [It&#39;s true](http://9gag.com/gag/aVvExL8)
- - 😝 [I know this guy is here](http://9gag.com/gag/aD2ndDx)
- - 👉 [Europeans looking at US tech right now](http://9gag.com/gag/aXPNr9D)<!-- MEMES:END -->
+ - 😝 [Parks and Rec bloopers](http://9gag.com/gag/ayN4BVb)
+ - 😝 [We live in sosaety](http://9gag.com/gag/aD2n1jO)
+ - 💣 [I&#39;m 40, I don&#39;t have time for this BS](http://9gag.com/gag/aRBZ3qB)
+ - 😝 [Sand flowing like water...absolutely insane](http://9gag.com/gag/an7ngd5)
+ - 👉 [A Father&#39;s Love](http://9gag.com/gag/aZZw3GQ)<!-- MEMES:END -->
 
 ---
 

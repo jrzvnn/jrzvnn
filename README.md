@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Sand flowing like water...absolutely insane](http://9gag.com/gag/an7ngd5)
+ - 😝 [Warnings were given](http://9gag.com/gag/aryAVE0)
  - 😝 [Content creators interacting with a real worker](http://9gag.com/gag/adBOgMQ)
- - 💣 [Finally it happened to me, I&#39;m in love.](http://9gag.com/gag/aMVmxzA)
- - 😝 [Stop it, get some `HELP!`](http://9gag.com/gag/aoyV5VA)
- - 👉 [BREAKING: An Air India flight was forced to return on a 10 hour trip to Chicago Illinois because their toilets were clogged with poop leaving hundreds Indians trapped on a plane with no restroom.](http://9gag.com/gag/aD2nDBN)<!-- MEMES:END -->
+ - 💣 [Here we go.](http://9gag.com/gag/a9yvEq1)
+ - 😝 [Superpower by 2020](http://9gag.com/gag/an7ng5B)
+ - 👉 [Bollywood at its best](http://9gag.com/gag/aPAPgzw)<!-- MEMES:END -->
 
 ---
 

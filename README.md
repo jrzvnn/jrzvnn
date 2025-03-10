@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Microsoft is holding a 50th anniversary and Copilot event in April](https://www.theverge.com/news/627077/microsoft-50th-anniversary-copilot-ai-event)
+ - [Sources: CoreWeave has signed a five-year $11.9B contract with OpenAI that will give OpenAI a stake in the cloud computing provider ahead of its IPO &lpar;Echo Wang/Reuters&rpar;](http://www.techmeme.com/250310/p18#a250310p18)
  - [Google&amp;#8217;s new AI button in Gmail automatically adds events to Google Calendar](https://www.theverge.com/news/626951/google-calendar-gmail-ai-gemini-automatically-add-events-from-emails)
  - [Sources: Apple and Meta are set to face modest fines for allegedly breaching the EU&#39;s DMA, which allows fines of up to 10% of companies&#39; global annual sales &lpar;Reuters&rpar;](http://www.techmeme.com/250310/p17#a250310p17)
- - [Longer-lasting laptops: the modular hardware you can upgrade and repair yourself](https://www.theverge.com/24190757/modular-laptops-repairable-upgradable-diy)
- - [Third developer betas of iOS 18.4, other updates land for testing](https://appleinsider.com/articles/25/03/10/third-developer-betas-of-ios-184-other-updates-land-for-testing?utm_medium=rss)
- - [Can Gaming Save the Apple Vision Pro?](https://www.wired.com/story/can-gaming-save-the-apple-vision-pro/)<!-- TECH:END -->
+ - [Longer-lasting laptops: the modular hardware you can upgrade and repair yourself](https://www.theverge.com/24190757/modular-laptops-repairable-upgradable-diy)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

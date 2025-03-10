@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [X is having an up and down Monday](https://www.theverge.com/news/626672/x-twitter-outage-down-not-loading)
  - [All the smart home news, reviews, and gadgets you need to know about](https://www.theverge.com/24190824/smart-home-news-reviews-guides-gadgets)
  - [The best robot vacuums](https://www.theverge.com/22997597/best-robot-vacuum-cleaner)
  - [JBL’s new Flip 7 and Charge 6 speakers boost battery life and sound quality](https://www.theverge.com/news/626811/jbl-flip-7-charge-6-bluetooth-speaker-wireless-battery-life-ai-sound-boost)
- - [Ben Stiller &amp; Eddy Cue gush about making &#39;Severance&#39; with Apple TV+](https://appleinsider.com/articles/25/03/10/ben-stiller-eddy-cue-gush-about-making-severance-with-apple-tv?utm_medium=rss)
- - [M3 iPad Air review roundup: It&#39;s just a spec bump](https://appleinsider.com/articles/25/03/10/m3-ipad-air-review-roundup-its-just-a-spec-bump?utm_medium=rss)<!-- TECH:END -->
+ - [Ben Stiller &amp; Eddy Cue gush about making &#39;Severance&#39; with Apple TV+](https://appleinsider.com/articles/25/03/10/ben-stiller-eddy-cue-gush-about-making-severance-with-apple-tv?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [X is having an up and down Monday](https://www.theverge.com/news/626672/x-twitter-outage-down-not-loading)
+ - [The entire story of Twitter / X under Elon Musk](https://www.theverge.com/2022/4/11/23019836/elon-musk-twitter-board-of-directors-news-updates)
  - [Eric Schmidt becomes CEO of Relativity Space; sources: he made a significant investment in the rocket-building startup to take a controlling stake &lpar;New York Times&rpar;](http://www.techmeme.com/250310/p23#a250310p23)
  - [Asana announces CEO Dustin Moskovitz is retiring, and reports Q4 sales rose 10% YoY to $188.3M, in line with estimates; ASAN drops 25%+ after hours &lpar;Jonathan Vanian/CNBC&rpar;](http://www.techmeme.com/250310/p22#a250310p22)
- - [Oracle reports Q3 revenue grew 6% YoY to $14.13B, vs. $14.39B est., and cloud revenue rose 23% YoY to $6.2B &lpar;Zaheer Kachwala/Reuters&rpar;](http://www.techmeme.com/250310/p21#a250310p21)
- - [Mississippi Passes Bill Banning Lab-Grown Meat](https://www.wired.com/story/mississippi-bans-lab-grown-meat/)
- - [Nintendo&amp;#8217;s Alarmo uses the tech that could solve Joy-Con stick drift](https://www.theverge.com/news/627171/nintendo-alarmo-alarm-clock-ifixit-teardown-magnetic-hall-effect-sensor)<!-- TECH:END -->
+ - [Oracle reports Q3 revenue grew 6% YoY to $14.13B, vs. $14.39B est., and cloud revenue rose 23% YoY to $6.2B &lpar;Zaheer Kachwala/Reuters&rpar;](http://www.techmeme.com/250310/p21#a250310p21)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

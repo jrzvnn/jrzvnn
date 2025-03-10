@@ -160,7 +160,7 @@ R                        1 repo              ░░░░░░░░░░░�
  - [Third developer betas of iOS 18.4, other updates land for testing](https://appleinsider.com/articles/25/03/10/third-developer-betas-of-ios-184-other-updates-land-for-testing?utm_medium=rss)
  - [Can Gaming Save the Apple Vision Pro?](https://www.wired.com/story/can-gaming-save-the-apple-vision-pro/)
  - [Epic Games insists that Apple flouted its App Store anti-steering injunction](https://appleinsider.com/articles/25/03/10/epic-games-insists-that-apple-flouted-its-app-store-anti-steering-injunction?utm_medium=rss)
- - [Tech stocks lead a broad sell-off; the Nasdaq falls 4%+, with Apple dropping by ~6%, Meta by 5%+, Nvidia by 5%+, Google by 5%+, and Microsoft by 3%+ &lpar;Myles Udland/Yahoo Finance&rpar;](http://www.techmeme.com/250310/p16#a250310p16)
+ - [Tech stocks lead a broad sell-off; the Nasdaq falls 4%+, with AAPL dropping by ~6%, META by 5%+, NVDA by 5%+, GOOG by 5%+, HOOD by 17%+, and RDDT by 16%+ &lpar;Myles Udland/Yahoo Finance&rpar;](http://www.techmeme.com/250310/p16#a250310p16)
  - [Trump’s first 100 days: all the news affecting the tech industry](https://www.theverge.com/24348851/donald-trump-presidency-tech-science-news)<!-- TECH:END -->
 
 ### 😂 Memes of the hour

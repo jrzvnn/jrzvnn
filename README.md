@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Lego’s new Mario Kart set super-sizes Mario](https://www.theverge.com/news/626716/lego-super-mario-kart-availability)
  - [Nirvana, which uses real-time driving telematics to build insurance policies for truckers, raised an $80M Series C at an $830M valuation, up from $350M in 2023 &lpar;Ingrid Lunden/TechCrunch&rpar;](http://www.techmeme.com/250310/p11#a250310p11)
  - [iPhone 17 video hints at how fall updates will feel in the hand](https://appleinsider.com/articles/25/03/10/iphone-17-video-hints-at-how-fall-updates-will-feel-in-the-hand?utm_medium=rss)
  - [MacBook Air update arrives with lower starting price &amp; M4 performance boost](https://appleinsider.com/articles/25/03/05/macbook-air-update-arrives-with-lower-starting-price-m4-performance-boost?utm_medium=rss)
- - [Deals: AirPods 4 plunge to $99, while AirPods Pro 2 fall to $169](https://appleinsider.com/articles/25/03/10/deals-airpods-4-plunge-to-99-while-airpods-pro-2-fall-to-169?utm_medium=rss)
- - [iPad Air M3 review: powerful M3 chip, improved keyboard, better screen, performance, and multitasking than the base iPad, but no Face ID and can get expensive &lpar;Nathan Ingraham/Engadget&rpar;](http://www.techmeme.com/250310/p10#a250310p10)<!-- TECH:END -->
+ - [Deals: AirPods 4 plunge to $99, while AirPods Pro 2 fall to $169](https://appleinsider.com/articles/25/03/10/deals-airpods-4-plunge-to-99-while-airpods-pro-2-fall-to-169?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

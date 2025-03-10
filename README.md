@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [This high school principal is a legend!](http://9gag.com/gag/azxP2NN)
- - 😝 [Ask 9gag](http://9gag.com/gag/awymZpx)
- - 💣 [Bollywood at its best](http://9gag.com/gag/aPAPgzw)
- - 😝 [I identify as Apache Helicopter](http://9gag.com/gag/agmOmZ6)
- - 👉 [Superpower by 2020](http://9gag.com/gag/an7ng5B)<!-- MEMES:END -->
+ - 😝 [Best physics lesson ever.](http://9gag.com/gag/a4Pz3xv)
+ - 😝 [Mother chooses vacation leaving her baby alone for 10 days!](http://9gag.com/gag/amoG5M4)
+ - 💣 [Ask 9gag](http://9gag.com/gag/awymZpx)
+ - 😝 [Bollywood at its best](http://9gag.com/gag/aPAPgzw)
+ - 👉 [BREAKING: An Air India flight was forced to return on a 10 hour trip to Chicago Illinois because their toilets were clogged with poop leaving hundreds Indians trapped on a plane with no restroom.](http://9gag.com/gag/aD2nDBN)<!-- MEMES:END -->
 
 ---
 

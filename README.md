@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Welcome to Arizona](http://9gag.com/gag/aPAPgMw)
- - 😝 [Woman yanks bag of toys from kid](http://9gag.com/gag/aLnenBP)
- - 💣 [BREAKING: An Air India flight was forced to return on a 10 hour trip to Chicago Illinois because their toilets were clogged with poop leaving hundreds Indians trapped on a plane with no restroom.](http://9gag.com/gag/aD2nDBN)
- - 😝 [Pigeons are now impersonating Humans](http://9gag.com/gag/a9yvnV0)
- - 👉 [Finally it happened to me, I&#39;m in love.](http://9gag.com/gag/aMVmxzA)<!-- MEMES:END -->
+ - 😝 [Addicted to these two](http://9gag.com/gag/aKG9GLO)
+ - 😝 [Ma - ah](http://9gag.com/gag/ayN4NVW)
+ - 💣 [Classic joke on Omegle](http://9gag.com/gag/aryAmw7)
+ - 😝 [Today is this guy 85th birthday!](http://9gag.com/gag/adBOvK2)
+ - 👉 [Bookmark for later](http://9gag.com/gag/aPAPg4V)<!-- MEMES:END -->
 
 ---
 

@@ -160,8 +160,8 @@ R                        1 repo              ░░░░░░░░░░░�
  - [Some Chromecasts are giving ‘Untrusted device’ errors today](https://www.theverge.com/news/626625/some-chromecasts-are-giving-untrusted-device-errors-today)
  - [Sources: DeepSeek founder Liang Wenfeng told associates he isn&#39;t in a hurry to get investment, including from government entities, fearing outside influence &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/250310/p12#a250310p12)
  - [14 Best Soundbars We&#39;ve Tested and Reviewed &lpar;2025&rpar;: Sonos, Sony, Bose](https://www.wired.com/gallery/best-soundbars/)
- - [Lego’s new Mario Kart set super-sizes Mario](https://www.theverge.com/news/626716/lego-super-mario-kart-availability)
- - [Nirvana, which uses real-time driving telematics to build insurance policies for truckers, raised an $80M Series C at an $830M valuation, up from $350M in 2023 &lpar;Ingrid Lunden/TechCrunch&rpar;](http://www.techmeme.com/250310/p11#a250310p11)<!-- TECH:END -->
+ - [Best Internet Providers in Pennsylvania](https://www.cnet.com/home/internet/best-internet-providers-in-pennsylvania/#ftag=CAD590a51e)
+ - [Lego’s new Mario Kart set super-sizes Mario](https://www.theverge.com/news/626716/lego-super-mario-kart-availability)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

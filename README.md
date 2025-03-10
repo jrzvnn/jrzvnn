@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Sony will give the PS5 Pro crisper graphics — by backporting FSR 4](https://www.theverge.com/news/626952/sony-fsr-4-upscaler-coming-to-ps5-pro-reimplementation)
  - [All the news about Sony’s PS5 Pro](https://www.theverge.com/24240801/ps5-pro-details-playstation-event-september-2024)
+ - [Trump’s first 100 days: all the news affecting the tech industry](https://www.theverge.com/24348851/donald-trump-presidency-tech-science-news)
  - [The Tesla protests are getting bigger — and rowdier](https://www.theverge.com/news/626851/tesla-takedown-protests-elon-musk)
- - [Fortnite is set to return to Brazilian iPhones](https://www.theverge.com/news/626935/epic-games-fortnite-store-brazil-apple-ios)
- - [14 Best Sleep Week Deals on Mattresses, Sheets, and More &lpar;2025&rpar;](https://www.wired.com/story/sleep-month-deals-2025/)
- - [Consumer Reports: many voice cloning programs, including ElevenLabs, Speechify, PlayHT, and Lovo, have flimsy barriers to prevent nonconsensual impersonations &lpar;Kevin Collier/NBC News&rpar;](http://www.techmeme.com/250310/p15#a250310p15)<!-- TECH:END -->
+ - [Fortnite is set to return to Brazilian iPhones](https://www.theverge.com/news/626935/epic-games-fortnite-store-brazil-apple-ios)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

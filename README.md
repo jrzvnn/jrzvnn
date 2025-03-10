@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Content creators interacting with a real worker](http://9gag.com/gag/adBOgMQ)
  - 😝 [Here we go.](http://9gag.com/gag/a9yvEq1)
- - 💣 [Ask 9gag](http://9gag.com/gag/awymZpx)
+ - 😝 [Content creators interacting with a real worker](http://9gag.com/gag/adBOgMQ)
+ - 💣 [She&#39;s doing a tutorial: women don&#39;t need men!](http://9gag.com/gag/a9yvEPj)
  - 😝 [Bollywood at its best](http://9gag.com/gag/aPAPgzw)
- - 👉 [Stop it, get some `HELP!`](http://9gag.com/gag/aoyV5VA)<!-- MEMES:END -->
+ - 👉 [BREAKING: An Air India flight was forced to return on a 10 hour trip to Chicago Illinois because their toilets were clogged with poop leaving hundreds Indians trapped on a plane with no restroom.](http://9gag.com/gag/aD2nDBN)<!-- MEMES:END -->
 
 ---
 

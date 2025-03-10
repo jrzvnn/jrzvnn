@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [I posted this months ago, it\u2019s now official !](http://9gag.com/gag/aGy8Zj5)
- - 😝 [Different sister](http://9gag.com/gag/aMVmK2R)
- - 💣 [We live in sosaety](http://9gag.com/gag/aD2n1jO)
- - 😝 [Warnings were given](http://9gag.com/gag/aryAVE0)
- - 👉 [Lmao](http://9gag.com/gag/a5QB1qq)<!-- MEMES:END -->
+ - 😝 [I know this guy is here](http://9gag.com/gag/aD2ndDx)
+ - 😝 [Fake internet lives and real reality](http://9gag.com/gag/a87mEe1)
+ - 💣 [The fact that Aragorn is 87 years old.](http://9gag.com/gag/aD2nDxK)
+ - 😝 [Restaurateur threatened by Muslims for being open during Ramadan, stays open and puts Ham on tables in response](http://9gag.com/gag/a5QBX5N)
+ - 👉 [It&#39;s true](http://9gag.com/gag/aVvExL8)<!-- MEMES:END -->
 
 ---
 

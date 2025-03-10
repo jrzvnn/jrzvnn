@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Sony is experimenting with AI-powered PlayStation characters](https://www.theverge.com/news/626695/sony-playstation-ai-characters-aloy-horizon-forbidden-west-prototype)
+ - [Sources: Microsoft is working on an Xbox-branded gaming handheld, slated for later in 2025, and successors to the Xbox Series X|S, tentatively slated for 2027 &lpar;Jez Corden/Windows Central&rpar;](http://www.techmeme.com/250310/p19#a250310p19)
  - [Microsoft is holding a 50th anniversary and Copilot event in April](https://www.theverge.com/news/627077/microsoft-50th-anniversary-copilot-ai-event)
  - [Sources: CoreWeave has signed a five-year $11.9B contract with OpenAI that will give OpenAI a stake in the cloud computing provider ahead of its IPO &lpar;Echo Wang/Reuters&rpar;](http://www.techmeme.com/250310/p18#a250310p18)
- - [Google&amp;#8217;s new AI button in Gmail automatically adds events to Google Calendar](https://www.theverge.com/news/626951/google-calendar-gmail-ai-gemini-automatically-add-events-from-emails)
- - [Sources: Apple and Meta are set to face modest fines for allegedly breaching the EU&#39;s DMA, which allows fines of up to 10% of companies&#39; global annual sales &lpar;Reuters&rpar;](http://www.techmeme.com/250310/p17#a250310p17)
- - [Longer-lasting laptops: the modular hardware you can upgrade and repair yourself](https://www.theverge.com/24190757/modular-laptops-repairable-upgradable-diy)<!-- TECH:END -->
+ - [Google&amp;#8217;s new AI button in Gmail automatically adds events to Google Calendar](https://www.theverge.com/news/626951/google-calendar-gmail-ai-gemini-automatically-add-events-from-emails)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

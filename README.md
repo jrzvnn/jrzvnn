@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [M3 iPad Air review roundup: It&#39;s just a spec bump](https://appleinsider.com/articles/25/03/10/m3-ipad-air-review-roundup-its-just-a-spec-bump?utm_medium=rss)
+ - [X experiences intermittent outages early on March 10, including in the US, the UK, France, and India; over 40K US users reported issues on Down Detector &lpar;Charles Capel/Bloomberg&rpar;](http://www.techmeme.com/250310/p14#a250310p14)
  - [Dow Jones CEO Almar Latour on AI, press freedom, and the future of news](https://www.theverge.com/decoder-podcast-with-nilay-patel/626229/dow-jones-ceo-almar-latour-wsj-interview-ai-journalism)
  - [SCOTUS refuses to hear BMC&#39;s appeal and revive a $1.6B award against IBM, which was accused by BMC of poaching a client in violation of a licensing agreement &lpar;Greg Stohr/Bloomberg&rpar;](http://www.techmeme.com/250310/p13#a250310p13)
- - [Some Chromecasts are giving ‘Untrusted device’ errors today](https://www.theverge.com/news/626625/some-chromecasts-are-giving-untrusted-device-errors-today)
- - [Sources: DeepSeek founder Liang Wenfeng told associates he isn&#39;t in a hurry to get investment, including from government entities, fearing outside influence &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/250310/p12#a250310p12)
- - [14 Best Soundbars We&#39;ve Tested and Reviewed &lpar;2025&rpar;: Sonos, Sony, Bose](https://www.wired.com/gallery/best-soundbars/)<!-- TECH:END -->
+ - [Some Chromecasts are giving ‘Untrusted device’ errors today](https://www.theverge.com/news/626625/some-chromecasts-are-giving-untrusted-device-errors-today)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

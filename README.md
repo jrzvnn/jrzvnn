@@ -167,7 +167,7 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [Best physics lesson ever.](http://9gag.com/gag/a4Pz3xv)
- - 😝 [Mother chooses vacation leaving her baby alone for 10 days!](http://9gag.com/gag/amoG5M4)
+ - 😝 [Content creators interacting with a real worker](http://9gag.com/gag/adBOgMQ)
  - 💣 [Ask 9gag](http://9gag.com/gag/awymZpx)
  - 😝 [Bollywood at its best](http://9gag.com/gag/aPAPgzw)
  - 👉 [BREAKING: An Air India flight was forced to return on a 10 hour trip to Chicago Illinois because their toilets were clogged with poop leaving hundreds Indians trapped on a plane with no restroom.](http://9gag.com/gag/aD2nDBN)<!-- MEMES:END -->

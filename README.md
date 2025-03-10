@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Dow Jones CEO Almar Latour on AI, press freedom, and the future of news](https://www.theverge.com/decoder-podcast-with-nilay-patel/626229/dow-jones-ceo-almar-latour-wsj-interview-ai-journalism)
  - [SCOTUS refuses to hear BMC&#39;s appeal and revive a $1.6B award against IBM, which was accused by BMC of poaching a client in violation of a licensing agreement &lpar;Greg Stohr/Bloomberg&rpar;](http://www.techmeme.com/250310/p13#a250310p13)
  - [Some Chromecasts are giving ‘Untrusted device’ errors today](https://www.theverge.com/news/626625/some-chromecasts-are-giving-untrusted-device-errors-today)
  - [Sources: DeepSeek founder Liang Wenfeng told associates he isn&#39;t in a hurry to get investment, including from government entities, fearing outside influence &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/250310/p12#a250310p12)
- - [14 Best Soundbars We&#39;ve Tested and Reviewed &lpar;2025&rpar;: Sonos, Sony, Bose](https://www.wired.com/gallery/best-soundbars/)
- - [Best Internet Providers in Pennsylvania](https://www.cnet.com/home/internet/best-internet-providers-in-pennsylvania/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [14 Best Soundbars We&#39;ve Tested and Reviewed &lpar;2025&rpar;: Sonos, Sony, Bose](https://www.wired.com/gallery/best-soundbars/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

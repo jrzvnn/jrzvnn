@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Google&amp;#8217;s new AI button in Gmail automatically adds events to Google Calendar](https://www.theverge.com/news/626951/google-calendar-gmail-ai-gemini-automatically-add-events-from-emails)
+ - [Sources: Apple and Meta are set to face modest fines for allegedly breaching the EU&#39;s DMA, which allows fines of up to 10% of companies&#39; global annual sales &lpar;Reuters&rpar;](http://www.techmeme.com/250310/p17#a250310p17)
  - [Longer-lasting laptops: the modular hardware you can upgrade and repair yourself](https://www.theverge.com/24190757/modular-laptops-repairable-upgradable-diy)
  - [Third developer betas of iOS 18.4, other updates land for testing](https://appleinsider.com/articles/25/03/10/third-developer-betas-of-ios-184-other-updates-land-for-testing?utm_medium=rss)
- - [Can Gaming Save the Apple Vision Pro?](https://www.wired.com/story/can-gaming-save-the-apple-vision-pro/)
- - [Epic Games insists that Apple flouted its App Store anti-steering injunction](https://appleinsider.com/articles/25/03/10/epic-games-insists-that-apple-flouted-its-app-store-anti-steering-injunction?utm_medium=rss)
- - [Tech stocks lead a broad sell-off; the Nasdaq falls 4%+, with AAPL dropping by ~6%, META by 5%+, NVDA by 5%+, GOOG by 5%+, HOOD by 17%+, and RDDT by 16%+ &lpar;Myles Udland/Yahoo Finance&rpar;](http://www.techmeme.com/250310/p16#a250310p16)<!-- TECH:END -->
+ - [Can Gaming Save the Apple Vision Pro?](https://www.wired.com/story/can-gaming-save-the-apple-vision-pro/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Eric Schmidt becomes CEO of Relativity Space; sources: he made a significant investment in the rocket-building startup to take a controlling stake &lpar;New York Times&rpar;](http://www.techmeme.com/250310/p23#a250310p23)
+ - [Asana announces CEO Dustin Moskovitz is retiring, and reports Q4 sales rose 10% YoY to $188.3M, in line with estimates; ASAN drops 25%+ after hours &lpar;Jonathan Vanian/CNBC&rpar;](http://www.techmeme.com/250310/p22#a250310p22)
  - [Oracle reports Q3 revenue grew 6% YoY to $14.13B, vs. $14.39B est., and cloud revenue rose 23% YoY to $6.2B &lpar;Zaheer Kachwala/Reuters&rpar;](http://www.techmeme.com/250310/p21#a250310p21)
  - [Mississippi Passes Bill Banning Lab-Grown Meat](https://www.wired.com/story/mississippi-bans-lab-grown-meat/)
- - [Nintendo&amp;#8217;s Alarmo uses the tech that could solve Joy-Con stick drift](https://www.theverge.com/news/627171/nintendo-alarmo-alarm-clock-ifixit-teardown-magnetic-hall-effect-sensor)
- - [Want Healthier Hair? Focus on These 7 Hair-Friendly Vitamins](https://www.cnet.com/health/nutrition/want-healthier-hair-focus-on-these-7-hair-friendly-vitamins/#ftag=CAD590a51e)
- - [More new Matter devices, Siri delays, &amp; trimmable smart shades on HomeKit Insider](https://appleinsider.com/articles/25/03/10/more-new-matter-devices-siri-delays-trimmable-smart-shades-on-homekit-insider?utm_medium=rss)<!-- TECH:END -->
+ - [Nintendo&amp;#8217;s Alarmo uses the tech that could solve Joy-Con stick drift](https://www.theverge.com/news/627171/nintendo-alarmo-alarm-clock-ifixit-teardown-magnetic-hall-effect-sensor)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

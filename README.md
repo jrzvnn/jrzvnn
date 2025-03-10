@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Sand flowing like water...absolutely insane](http://9gag.com/gag/an7ngd5)
- - 😝 [Different sister](http://9gag.com/gag/aMVmK2R)
- - 💣 [This game](http://9gag.com/gag/axyvoWL)
- - 😝 [G\u2019luck, bro.](http://9gag.com/gag/aAyEGEg)
- - 👉 [Long sh[i]t but my fav](http://9gag.com/gag/a9yvRm0)<!-- MEMES:END -->
+ - 😝 [Bollywood at its best](http://9gag.com/gag/aPAPgzw)
+ - 😝 [This game](http://9gag.com/gag/axyvoWL)
+ - 💣 [Finally it happened to me, I&#39;m in love.](http://9gag.com/gag/aMVmxzA)
+ - 😝 [Superpower by 2020](http://9gag.com/gag/an7ng5B)
+ - 👉 [God damn it](http://9gag.com/gag/a4Pz1Gd)<!-- MEMES:END -->
 
 ---
 

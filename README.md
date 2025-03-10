@@ -166,10 +166,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [It&#39;s gonna be a bubble bath!](http://9gag.com/gag/aryAGbK)
  - 😝 [Mother chooses vacation leaving her baby alone for 10 days!](http://9gag.com/gag/amoG5M4)
- - 💣 [I posted this months ago, it\u2019s now official !](http://9gag.com/gag/aGy8Zj5)
- - 😝 [Definitely india](http://9gag.com/gag/aPAPZEn)
+ - 😝 [How Dishwashing Sponges Are Made!](http://9gag.com/gag/awymAKW)
+ - 💣 [Content creators interacting with a real worker](http://9gag.com/gag/adBOgMQ)
+ - 😝 [How quickly this robot gets up after being pushed](http://9gag.com/gag/aAyE3oE)
  - 👉 [I feel this](http://9gag.com/gag/a4PzEgv)<!-- MEMES:END -->
 
 ---

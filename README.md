@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Best physics lesson ever.](http://9gag.com/gag/a4Pz3xv)
- - 😝 [I feel this](http://9gag.com/gag/a4PzEgv)
- - 💣 [Warner Bros really hate money and their fans](http://9gag.com/gag/awymy81)
+ - 😝 [I identify as Apache Helicopter](http://9gag.com/gag/agmOmZ6)
+ - 😝 [Warner Bros really hate money and their fans](http://9gag.com/gag/awymy81)
+ - 💣 [Welcome to Arizona](http://9gag.com/gag/aPAPgMw)
  - 😝 [Content creators interacting with a real worker](http://9gag.com/gag/adBOgMQ)
- - 👉 [Bollywood at its best](http://9gag.com/gag/aPAPgzw)<!-- MEMES:END -->
+ - 👉 [Playful Kate Beckinsale on the set of Underworld &lpar;2003&rpar;](http://9gag.com/gag/a1mD1Rv)<!-- MEMES:END -->
 
 ---
 

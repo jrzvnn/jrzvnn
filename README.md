@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Apple iPad Air &lpar;M3, 2025&rpar; Review: A Powerful Tablet That Feels Stale](https://www.wired.com/review/apple-ipad-air-m3-2025/)
+ - [Six thoughts on Apple’s new M3 iPad Air](https://www.theverge.com/ipad/626647/apple-ipad-air-review-2025)
  - [Memoir: ex-Facebook employee Sarah Wynn-Williams, who was fired in 2017, says Joel Kaplan sexually harassed her, among other claims; Meta cleared Kaplan in 2017 &lpar;NBC News&rpar;](http://www.techmeme.com/250310/p9#a250310p9)
  - [The Best Flannel Sheets, Tested &amp; Reviewed &lpar;2025&rpar;](https://www.wired.com/gallery/best-flannel-sheets/)
- - [Canadians may never get to use AirPods Pro 2 as hearing aids](https://appleinsider.com/articles/25/03/10/canadians-may-never-get-to-use-airpods-pro-2-as-hearing-aids?utm_medium=rss)
- - [Detroit-based real estate platform Rocket plans to buy Redfin, a home search service and adtech brokerage, for $1.75B, or $12.50 per share, closing in Q2 or Q3 &lpar;Crystal Tse/Bloomberg&rpar;](http://www.techmeme.com/250310/p8#a250310p8)
- - [Ben Stiller &amp; Eddy cue gush about making &#39;Severance&#39; with Apple TV+](https://appleinsider.com/articles/25/03/10/ben-stiller-eddy-cue-gush-about-making-severance-with-apple-tv?utm_medium=rss)<!-- TECH:END -->
+ - [Canadians may never get to use AirPods Pro 2 as hearing aids](https://appleinsider.com/articles/25/03/10/canadians-may-never-get-to-use-airpods-pro-2-as-hearing-aids?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

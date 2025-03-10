@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [It&#39;s true](http://9gag.com/gag/aVvExL8)
- - 😝 [You deserve what you tolerate](http://9gag.com/gag/a7oeoLm)
- - 💣 [A shoplifter gets knocked out with a bottle of Coke](http://9gag.com/gag/axyvMjL)
- - 😝 [Easy marketing.](http://9gag.com/gag/apRD9z5)
- - 👉 [Manhwa neighbors](http://9gag.com/gag/azxPmON)<!-- MEMES:END -->
+ - 😝 [This high school principal is a legend!](http://9gag.com/gag/azxP2NN)
+ - 😝 [Ask 9gag](http://9gag.com/gag/awymZpx)
+ - 💣 [Bollywood at its best](http://9gag.com/gag/aPAPgzw)
+ - 😝 [I identify as Apache Helicopter](http://9gag.com/gag/agmOmZ6)
+ - 👉 [Superpower by 2020](http://9gag.com/gag/an7ng5B)<!-- MEMES:END -->
 
 ---
 

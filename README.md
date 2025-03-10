@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [I posted this months ago, it\u2019s now official !](http://9gag.com/gag/aGy8Zj5)
+ - 😝 [I feel this](http://9gag.com/gag/a4PzEgv)
+ - 💣 [Sand flowing like water...absolutely insane](http://9gag.com/gag/an7ngd5)
  - 😝 [Lmao](http://9gag.com/gag/a5QB1qq)
- - 😝 [Whamen after you show what not to do \u2026 but they do it anyway](http://9gag.com/gag/aO847DD)
- - 💣 [I feel this](http://9gag.com/gag/a4PzEgv)
- - 😝 [Im this old](http://9gag.com/gag/aD2nDZx)
- - 👉 [Warnings were given](http://9gag.com/gag/aryAVE0)<!-- MEMES:END -->
+ - 👉 [Definitely india](http://9gag.com/gag/aPAPZEn)<!-- MEMES:END -->
 
 ---
 

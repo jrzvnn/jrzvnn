@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [iOS 18.4 will force users to upgrade to the latest HomeKit architecture](https://appleinsider.com/articles/25/03/10/ios-184-will-force-users-to-upgrade-to-the-latest-homekit-architecture?utm_medium=rss)
+ - [OPM Watchdog Says Review of DOGE Work Is Underway](https://www.wired.com/story/opm-doge-review-underway/)
  - [Bluesky gets three-minute videos and a filter to help with DM spam](https://www.theverge.com/news/627296/bluesky-three-minute-videos-dm-filter)
  - [X is having an up and down Monday](https://www.theverge.com/news/626672/x-twitter-outage-down-not-loading)
- - [The entire story of Twitter / X under Elon Musk](https://www.theverge.com/2022/4/11/23019836/elon-musk-twitter-board-of-directors-news-updates)
- - [Eric Schmidt becomes CEO of Relativity Space; sources: he made a significant investment in the rocket-building startup to take a controlling stake &lpar;New York Times&rpar;](http://www.techmeme.com/250310/p23#a250310p23)
- - [9 Great Horror Movies to Watch on Prime Video](https://www.cnet.com/tech/services-and-software/9-great-horror-movies-to-watch-on-prime-video/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [The entire story of Twitter / X under Elon Musk](https://www.theverge.com/2022/4/11/23019836/elon-musk-twitter-board-of-directors-news-updates)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

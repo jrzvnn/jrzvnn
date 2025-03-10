@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Third time&#39;s the charm? EU considers fining Apple over DMA yet again](https://appleinsider.com/articles/25/03/10/third-times-the-charm-eu-considers-fining-apple-over-dma-yet-again?utm_medium=rss)
+ - [Nintendo&amp;#8217;s Alarmo uses the tech that could solve Joy-Con stick drift](https://www.theverge.com/news/627171/nintendo-alarmo-alarm-clock-ifixit-teardown-magnetic-hall-effect-sensor)
+ - [More new Matter devices, Siri delays, &amp; trimmable smart shades on HomeKit Insider](https://appleinsider.com/articles/25/03/10/more-new-matter-devices-siri-delays-trimmable-smart-shades-on-homekit-insider?utm_medium=rss)
  - [Apple is planning to make enormous design changes to iOS 19 &amp; macOS 16](https://appleinsider.com/articles/25/03/10/apple-is-planning-to-make-enormous-design-changes-to-ios-19-macos-16?utm_medium=rss)
- - [What&#39;s Really Happening With Elon Musk and Those ‘Stranded’ Astronauts?](https://www.wired.com/story/elon-musk-stranded-astronauts-nasa-spacex-boeing/)
- - [How the EU’s DMA is changing Big Tech: all of the news and updates](https://www.theverge.com/24040543/eu-dma-digital-markets-act-big-tech-antitrust)
- - [Apple is reportedly planning a design overhaul for iOS, iPadOS, and macOS](https://www.theverge.com/news/627149/apple-ios-ipados-macos-design-overhaul)<!-- TECH:END -->
+ - [Third time&#39;s the charm? EU considers fining Apple over DMA yet again](https://appleinsider.com/articles/25/03/10/third-times-the-charm-eu-considers-fining-apple-over-dma-yet-again?utm_medium=rss)
+ - [What&#39;s Really Happening With Elon Musk and Those ‘Stranded’ Astronauts?](https://www.wired.com/story/elon-musk-stranded-astronauts-nasa-spacex-boeing/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

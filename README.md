@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [How the EU’s DMA is changing Big Tech: all of the news and updates](https://www.theverge.com/24040543/eu-dma-digital-markets-act-big-tech-antitrust)
  - [Apple is reportedly planning a design overhaul for iOS, iPadOS, and macOS](https://www.theverge.com/news/627149/apple-ios-ipados-macos-design-overhaul)
  - [Sources: Apple preps a major interface revamp for iOS 19, iPadOS 19, and macOS 16, loosely based on visionOS, with consistent design, simpler navigation, more &lpar;Mark Gurman/Bloomberg&rpar;](http://www.techmeme.com/250310/p20#a250310p20)
  - [An iconic DJ turntable inspired this record player watch](https://www.theverge.com/news/627130/ando-vinyl-record-automatic-watch-panasonic-technics-sl-1200-turntable)
- - [Sony is experimenting with AI-powered PlayStation characters](https://www.theverge.com/news/626695/sony-playstation-ai-characters-aloy-horizon-forbidden-west-prototype)
- - [Disneyland and Disney World: First Look at Avengers Rides, Monsters Coaster, Cars Rally Race](https://www.cnet.com/tech/services-and-software/disneyland-and-disney-world-first-look-at-avengers-rides-monsters-coaster-cars-rally-race/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Sony is experimenting with AI-powered PlayStation characters](https://www.theverge.com/news/626695/sony-playstation-ai-characters-aloy-horizon-forbidden-west-prototype)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Definitely india](http://9gag.com/gag/aPAPZEn)
- - 😝 [A Father&#39;s Love](http://9gag.com/gag/aZZw3GQ)
- - 💣 [Dude decided to rob the wrong 7 eleven store](http://9gag.com/gag/a0eVQAL)
- - 😝 [Im this old](http://9gag.com/gag/aD2nDZx)
- - 👉 [The fact that Aragorn is 87 years old.](http://9gag.com/gag/aD2nDxK)<!-- MEMES:END -->
+ - 😝 [The fact that Aragorn is 87 years old.](http://9gag.com/gag/aD2nDxK)
+ - 😝 [Yup.](http://9gag.com/gag/avye55n)
+ - 💣 [It&#39;s true](http://9gag.com/gag/aVvExL8)
+ - 😝 [I know this guy is here](http://9gag.com/gag/aD2ndDx)
+ - 👉 [Europeans looking at US tech right now](http://9gag.com/gag/aXPNr9D)<!-- MEMES:END -->
 
 ---
 

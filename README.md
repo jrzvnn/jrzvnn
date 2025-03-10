@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Easy marketing.](http://9gag.com/gag/apRD9z5)
- - 😝 [You deserve what you tolerate](http://9gag.com/gag/a7oeoLm)
- - 💣 [Lmao](http://9gag.com/gag/a5QB1qq)
- - 😝 [Nice game](http://9gag.com/gag/aQzQzA8)
- - 👉 [Warner Bros really hate money and their fans](http://9gag.com/gag/awymy81)<!-- MEMES:END -->
+ - 😝 [Best physics lesson ever.](http://9gag.com/gag/a4Pz3xv)
+ - 😝 [I feel this](http://9gag.com/gag/a4PzEgv)
+ - 💣 [Warner Bros really hate money and their fans](http://9gag.com/gag/awymy81)
+ - 😝 [Content creators interacting with a real worker](http://9gag.com/gag/adBOgMQ)
+ - 👉 [Bollywood at its best](http://9gag.com/gag/aPAPgzw)<!-- MEMES:END -->
 
 ---
 

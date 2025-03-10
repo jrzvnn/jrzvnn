@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Stop it, get some `HELP!`](http://9gag.com/gag/aoyV5VA)
- - 😝 [I posted this months ago, it\u2019s now official !](http://9gag.com/gag/aGy8Zj5)
- - 💣 [Content creators interacting with a real worker](http://9gag.com/gag/adBOgMQ)
- - 😝 [Definitely india](http://9gag.com/gag/aPAPZEn)
- - 👉 [I&#39;m 40, I don&#39;t have time for this BS](http://9gag.com/gag/aRBZ3qB)<!-- MEMES:END -->
+ - 😝 [Europeans looking at US tech right now](http://9gag.com/gag/aXPNr9D)
+ - 😝 [I know this guy is here](http://9gag.com/gag/aD2ndDx)
+ - 💣 [Fake internet lives and real reality](http://9gag.com/gag/a87mEe1)
+ - 😝 [How to fold a shirt in under two seconds](http://9gag.com/gag/aQzQX4d)
+ - 👉 [The fact that Aragorn is 87 years old.](http://9gag.com/gag/aD2nDxK)<!-- MEMES:END -->
 
 ---
 

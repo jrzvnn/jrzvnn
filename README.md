@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Trump’s first 100 days: all the news affecting the tech industry](https://www.theverge.com/24348851/donald-trump-presidency-tech-science-news)
+ - [Infinity Nikki&amp;#8217;s new interactive map makes it way easier to find what you need](https://www.theverge.com/news/627006/infinity-nikki-interactive-map-update-infold-games)
  - [Sony will give the PS5 Pro crisper graphics — by backporting FSR 4](https://www.theverge.com/news/626952/sony-fsr-4-upscaler-coming-to-ps5-pro-reimplementation)
  - [All the news about Sony’s PS5 Pro](https://www.theverge.com/24240801/ps5-pro-details-playstation-event-september-2024)
- - [Trump’s first 100 days: all the news affecting the tech industry](https://www.theverge.com/24348851/donald-trump-presidency-tech-science-news)
- - [The Tesla protests are getting bigger — and rowdier](https://www.theverge.com/news/626851/tesla-takedown-protests-elon-musk)
- - [Fortnite is set to return to Brazilian iPhones](https://www.theverge.com/news/626935/epic-games-fortnite-store-brazil-apple-ios)<!-- TECH:END -->
+ - [The Tesla protests are getting bigger — and rowdier](https://www.theverge.com/news/626851/tesla-takedown-protests-elon-musk)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

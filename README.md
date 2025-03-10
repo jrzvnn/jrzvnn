@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Female comedian disguised as a man to prove women are funny. Had a meltdown when nobody laughed](http://9gag.com/gag/a6Z9Neq)
- - 😝 [When you land in Germany and are greeted by the friendly locals](http://9gag.com/gag/aYQO7Zx)
- - 💣 [This woman won a great man](http://9gag.com/gag/aE0VP8M)
+ - 😝 [Definitely india](http://9gag.com/gag/aPAPZEn)
+ - 😝 [A Father&#39;s Love](http://9gag.com/gag/aZZw3GQ)
+ - 💣 [Dude decided to rob the wrong 7 eleven store](http://9gag.com/gag/a0eVQAL)
  - 😝 [Im this old](http://9gag.com/gag/aD2nDZx)
- - 👉 [Everybody gets old some day, even the mighty Terminator](http://9gag.com/gag/amoGvQo)<!-- MEMES:END -->
+ - 👉 [The fact that Aragorn is 87 years old.](http://9gag.com/gag/aD2nDxK)<!-- MEMES:END -->
 
 ---
 

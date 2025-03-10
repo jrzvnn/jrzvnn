@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Here we go.](http://9gag.com/gag/a9yvEq1)
- - 😝 [Content creators interacting with a real worker](http://9gag.com/gag/adBOgMQ)
- - 💣 [She&#39;s doing a tutorial: women don&#39;t need men!](http://9gag.com/gag/a9yvEPj)
- - 😝 [Bollywood at its best](http://9gag.com/gag/aPAPgzw)
- - 👉 [BREAKING: An Air India flight was forced to return on a 10 hour trip to Chicago Illinois because their toilets were clogged with poop leaving hundreds Indians trapped on a plane with no restroom.](http://9gag.com/gag/aD2nDBN)<!-- MEMES:END -->
+ - 😝 [It&#39;s true](http://9gag.com/gag/aVvExL8)
+ - 😝 [You deserve what you tolerate](http://9gag.com/gag/a7oeoLm)
+ - 💣 [A shoplifter gets knocked out with a bottle of Coke](http://9gag.com/gag/axyvMjL)
+ - 😝 [Easy marketing.](http://9gag.com/gag/apRD9z5)
+ - 👉 [Manhwa neighbors](http://9gag.com/gag/azxPmON)<!-- MEMES:END -->
 
 ---
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple iPad Air &lpar;M3, 2025&rpar; Review: A Powerful Tablet That Feels Stale](https://www.wired.com/review/apple-ipad-air-m3-2025/)
- - [Six thoughts on Apple’s new M3 iPad Air](https://www.theverge.com/ipad/626647/apple-ipad-air-review-2025)
- - [Memoir: ex-Facebook employee Sarah Wynn-Williams, who was fired in 2017, says Joel Kaplan sexually harassed her, among other claims; Meta cleared Kaplan in 2017 &lpar;NBC News&rpar;](http://www.techmeme.com/250310/p9#a250310p9)
- - [The Best Flannel Sheets, Tested &amp; Reviewed &lpar;2025&rpar;](https://www.wired.com/gallery/best-flannel-sheets/)
- - [Canadians may never get to use AirPods Pro 2 as hearing aids](https://appleinsider.com/articles/25/03/10/canadians-may-never-get-to-use-airpods-pro-2-as-hearing-aids?utm_medium=rss)<!-- TECH:END -->
+ - [Nirvana, which uses real-time driving telematics to build insurance policies for truckers, raised an $80M Series C at an $830M valuation, up from $350M in 2023 &lpar;Ingrid Lunden/TechCrunch&rpar;](http://www.techmeme.com/250310/p11#a250310p11)
+ - [iPhone 17 video hints at how fall updates will feel in the hand](https://appleinsider.com/articles/25/03/10/iphone-17-video-hints-at-how-fall-updates-will-feel-in-the-hand?utm_medium=rss)
+ - [MacBook Air update arrives with lower starting price &amp; M4 performance boost](https://appleinsider.com/articles/25/03/05/macbook-air-update-arrives-with-lower-starting-price-m4-performance-boost?utm_medium=rss)
+ - [Deals: AirPods 4 plunge to $99, while AirPods Pro 2 fall to $169](https://appleinsider.com/articles/25/03/10/deals-airpods-4-plunge-to-99-while-airpods-pro-2-fall-to-169?utm_medium=rss)
+ - [iPad Air M3 review: powerful M3 chip, improved keyboard, better screen, performance, and multitasking than the base iPad, but no Face ID and can get expensive &lpar;Nathan Ingraham/Engadget&rpar;](http://www.techmeme.com/250310/p10#a250310p10)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

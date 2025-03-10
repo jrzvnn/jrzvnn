@@ -158,10 +158,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- TECH:START -->
  - [Foxconn says it built FoxBrain, an in-house reasoning LLM, trained in four weeks with support from Nvidia via its Taiwan-based supercomputer and consulting &lpar;Yang Jie/Wall Street Journal&rpar;](http://www.techmeme.com/250310/p2#a250310p2)
- - [Today&#39;s NYT Mini Crossword Answers for Monday, March 10](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-monday-march-10/#ftag=CAD590a51e)
  - [President Trump says &quot;we&#39;re dealing with four different groups&quot; for the sale of TikTok; Trump signed an EO on January 20 to delay the TikTok ban by 75 days &lpar;Reuters&rpar;](http://www.techmeme.com/250310/p1#a250310p1)
  - [Sources: workflow automation company ServiceNow nears deal to buy enterprise AI assistants company Moveworks in a deal that could value Moveworks at ~$3B &lpar;Bloomberg&rpar;](http://www.techmeme.com/250309/p16#a250309p16)
- - [Hugging Face co-founder Thomas Wolf: current AI development paradigms won&#39;t yield outside-the-box problem-solving that leads to true scientific breakthroughs &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/250309/p15#a250309p15)<!-- TECH:END -->
+ - [Hugging Face co-founder Thomas Wolf: current AI development paradigms won&#39;t yield outside-the-box problem-solving that leads to true scientific breakthroughs &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/250309/p15#a250309p15)
+ - [PitchBook: the AI frenzy has led to the fastest investment pace since 2021, with $30B+ invested into startups so far this quarter and $50B more in the works &lpar;George Hammond/Financial Times&rpar;](http://www.techmeme.com/250309/p14#a250309p14)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

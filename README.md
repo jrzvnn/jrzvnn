@@ -166,10 +166,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [When you land in Germany and are greeted by the friendly locals](http://9gag.com/gag/aYQO7Zx)
- - 😝 [Finally it happened to me, I&#39;m in love.](http://9gag.com/gag/aMVmxzA)
+ - 😝 [BREAKING: An Air India flight was forced to return on a 10 hour trip to Chicago Illinois because their toilets were clogged with poop leaving hundreds Indians trapped on a plane with no restroom.](http://9gag.com/gag/aD2nDBN)
+ - 😝 [Warnings were given](http://9gag.com/gag/aryAVE0)
  - 💣 [Sand flowing like water...absolutely insane](http://9gag.com/gag/an7ngd5)
- - 😝 [Lmao](http://9gag.com/gag/a5QB1qq)
+ - 😝 [Superpower by 2020](http://9gag.com/gag/an7ng5B)
  - 👉 [God damn it](http://9gag.com/gag/a4Pz1Gd)<!-- MEMES:END -->
 
 ---

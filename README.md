@@ -160,8 +160,8 @@ R                        1 repo              ░░░░░░░░░░░�
  - [Oracle reports Q3 revenue grew 6% YoY to $14.13B, vs. $14.39B est., and cloud revenue rose 23% YoY to $6.2B &lpar;Zaheer Kachwala/Reuters&rpar;](http://www.techmeme.com/250310/p21#a250310p21)
  - [Mississippi Passes Bill Banning Lab-Grown Meat](https://www.wired.com/story/mississippi-bans-lab-grown-meat/)
  - [Nintendo&amp;#8217;s Alarmo uses the tech that could solve Joy-Con stick drift](https://www.theverge.com/news/627171/nintendo-alarmo-alarm-clock-ifixit-teardown-magnetic-hall-effect-sensor)
- - [More new Matter devices, Siri delays, &amp; trimmable smart shades on HomeKit Insider](https://appleinsider.com/articles/25/03/10/more-new-matter-devices-siri-delays-trimmable-smart-shades-on-homekit-insider?utm_medium=rss)
- - [Apple is planning to make enormous design changes to iOS 19 &amp; macOS 16](https://appleinsider.com/articles/25/03/10/apple-is-planning-to-make-enormous-design-changes-to-ios-19-macos-16?utm_medium=rss)<!-- TECH:END -->
+ - [Want Healthier Hair? Focus on These 7 Hair-Friendly Vitamins](https://www.cnet.com/health/nutrition/want-healthier-hair-focus-on-these-7-hair-friendly-vitamins/#ftag=CAD590a51e)
+ - [More new Matter devices, Siri delays, &amp; trimmable smart shades on HomeKit Insider](https://appleinsider.com/articles/25/03/10/more-new-matter-devices-siri-delays-trimmable-smart-shades-on-homekit-insider?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

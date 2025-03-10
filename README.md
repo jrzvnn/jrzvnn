@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Tech stocks lead a broad sell-off; the Nasdaq falls ~4%, with Apple dropping by ~6%, Meta by 5%+, Nvidia by 5%+, Google by 5%+, and Microsoft by 3%+ &lpar;Myles Udland/Yahoo Finance&rpar;](http://www.techmeme.com/250310/p16#a250310p16)
- - [Trump’s first 100 days: all the news affecting the tech industry](https://www.theverge.com/24348851/donald-trump-presidency-tech-science-news)
- - [Infinity Nikki&amp;#8217;s new interactive map makes it way easier to find what you need](https://www.theverge.com/news/627006/infinity-nikki-interactive-map-update-infold-games)
- - [Sony will give the PS5 Pro crisper graphics — by backporting FSR 4](https://www.theverge.com/news/626952/sony-fsr-4-upscaler-coming-to-ps5-pro-reimplementation)
- - [All the news about Sony’s PS5 Pro](https://www.theverge.com/24240801/ps5-pro-details-playstation-event-september-2024)<!-- TECH:END -->
+ - [Third developer betas of iOS 18.4, other updates land for testing](https://appleinsider.com/articles/25/03/10/third-developer-betas-of-ios-184-other-updates-land-for-testing?utm_medium=rss)
+ - [Can Gaming Save the Apple Vision Pro?](https://www.wired.com/story/can-gaming-save-the-apple-vision-pro/)
+ - [Epic Games insists that Apple flouted its App Store anti-steering injunction](https://appleinsider.com/articles/25/03/10/epic-games-insists-that-apple-flouted-its-app-store-anti-steering-injunction?utm_medium=rss)
+ - [Tech stocks lead a broad sell-off; the Nasdaq falls 4%+, with Apple dropping by ~6%, Meta by 5%+, Nvidia by 5%+, Google by 5%+, and Microsoft by 3%+ &lpar;Myles Udland/Yahoo Finance&rpar;](http://www.techmeme.com/250310/p16#a250310p16)
+ - [Trump’s first 100 days: all the news affecting the tech industry](https://www.theverge.com/24348851/donald-trump-presidency-tech-science-news)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

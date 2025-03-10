@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The Tesla protests are getting bigger — and rowdier](https://www.theverge.com/news/626851/tesla-takedown-protests-elon-musk)
+ - [Fortnite is set to return to Brazilian iPhones](https://www.theverge.com/news/626935/epic-games-fortnite-store-brazil-apple-ios)
  - [14 Best Sleep Week Deals on Mattresses, Sheets, and More &lpar;2025&rpar;](https://www.wired.com/story/sleep-month-deals-2025/)
  - [Consumer Reports: many voice cloning programs, including ElevenLabs, Speechify, PlayHT, and Lovo, have flimsy barriers to prevent nonconsensual impersonations &lpar;Kevin Collier/NBC News&rpar;](http://www.techmeme.com/250310/p15#a250310p15)
- - [Who Pays Taxes on Interest Earned on a Joint Bank Account?](https://www.cnet.com/personal-finance/banking/who-pays-taxes-on-interest-earned-on-a-joint-bank-account/#ftag=CAD590a51e)
- - [Why the internet still needs Section 230](https://www.theverge.com/policy/626326/ron-wyden-section-230-history-it-takes-chutzpah-excerpt)
- - [Space collisions could become a bigger risk thanks to greenhouse gas pollution](https://www.theverge.com/news/626810/space-collision-satellite-greenhouse-gas-emissions)<!-- TECH:END -->
+ - [Who Pays Taxes on Interest Earned on a Joint Bank Account?](https://www.cnet.com/personal-finance/banking/who-pays-taxes-on-interest-earned-on-a-joint-bank-account/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

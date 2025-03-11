@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Welcome to Arizona](http://9gag.com/gag/aPAPgMw)
- - 😝 [50/50](http://9gag.com/gag/aZZwD4W)
- - 💣 [True colors!](http://9gag.com/gag/ayN4NdW)
- - 😝 [BREAKING: An Air India flight was forced to return on a 10 hour trip to Chicago Illinois because their toilets were clogged with poop leaving hundreds Indians trapped on a plane with no restroom.](http://9gag.com/gag/aD2nDBN)
- - 👉 [Dark humor](http://9gag.com/gag/aO848b3)<!-- MEMES:END -->
+ - 😝 [Ah, Hell No ...](http://9gag.com/gag/abAOO6O)
+ - 😝 [Biggus dickus was famous there](http://9gag.com/gag/aoyVW02)
+ - 💣 [Trump just posted a cinematic video of Black Lives Matter Plaza being RIPPED APART by crews outside the White House](http://9gag.com/gag/aKG9A4N)
+ - 😝 [I got legless last night.](http://9gag.com/gag/a87mAmY)
+ - 👉 [How to deal with scammers](http://9gag.com/gag/awym3Z1)<!-- MEMES:END -->
 
 ---
 

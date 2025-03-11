@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [TikTok&amp;#8217;s mood music will tell teens to &amp;#8216;wind down&amp;#8217; after 10PM](https://www.theverge.com/news/627589/tiktok-wind-down-calming-music-teen-safety)
+ - [Our Favorite Robot Vacuum and Mop Is $300 Off](https://www.wired.com/story/roborock-qrevo-s-deal-march-2025/)
  - [Review of the M3 Ultra Mac Studio with 512GB of unified memory: opens up new workflows on a ~$10K desktop, like running a quantized 4-bit version of DeepSeek R1 &lpar;Dave2D on YouTube&rpar;](http://www.techmeme.com/250311/p33#a250311p33)
  - [Sen. Lummis unveils the Bitcoin Act in the US Senate, with five Republican cosponsors, to codify a strategic Bitcoin reserve and let the US to buy up to 1M BTC &lpar;Sander Lutz/Decrypt&rpar;](http://www.techmeme.com/250311/p32#a250311p32)
- - [Elon Musk Has Wanted the Government Shutdown](https://www.wired.com/story/elon-musk-has-wanted-the-government-shut-down/)
- - [OpenAI debuts a Responses API to help devs build agents that search the web, scan for files, and perform tasks on computers, and an Agents SDK for orchestration &lpar;Emma Roth/The Verge&rpar;](http://www.techmeme.com/250311/p31#a250311p31)
- - [Rumored iOS 19 &amp; macOS 16 design changes will be polarizing, as always](https://appleinsider.com/articles/25/03/11/rumored-ios-19-macos-16-design-changes-will-be-polarizing-as-always?utm_medium=rss)<!-- TECH:END -->
+ - [Elon Musk Has Wanted the Government Shutdown](https://www.wired.com/story/elon-musk-has-wanted-the-government-shut-down/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

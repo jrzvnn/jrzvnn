@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Today&#39;s advice](http://9gag.com/gag/ae9O1w5)
+ - 😝 [Dark humor](http://9gag.com/gag/aO848b3)
  - 😝 [True colors!](http://9gag.com/gag/ayN4NdW)
- - 💣 [Playful Kate Beckinsale on the set of Underworld &lpar;2003&rpar;](http://9gag.com/gag/a1mD1Rv)
- - 😝 [The perfect girl doesn&#39;t exi...](http://9gag.com/gag/a5QBQ1O)
- - 👉 [Warner Bros really hate money and their fans](http://9gag.com/gag/awymy81)<!-- MEMES:END -->
+ - 💣 [BREAKING: An Air India flight was forced to return on a 10 hour trip to Chicago Illinois because their toilets were clogged with poop leaving hundreds Indians trapped on a plane with no restroom.](http://9gag.com/gag/aD2nDBN)
+ - 😝 [50/50](http://9gag.com/gag/aZZwD4W)
+ - 👉 [Welcome to Arizona](http://9gag.com/gag/aPAPgMw)<!-- MEMES:END -->
 
 ---
 

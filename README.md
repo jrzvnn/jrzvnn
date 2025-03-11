@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Woman yanks bag of toys from kid](http://9gag.com/gag/aLnenBP)
- - 😝 [Definitely india](http://9gag.com/gag/aPAPZEn)
- - 💣 [Ask 9gag](http://9gag.com/gag/awymZpx)
- - 😝 [Harry Potter talking to Snape in the new HBO show](http://9gag.com/gag/aD2nYYK)
- - 👉 [Superpower by 2020](http://9gag.com/gag/an7ng5B)<!-- MEMES:END -->
+ - 😝 [Today&#39;s advice](http://9gag.com/gag/ae9O1w5)
+ - 😝 [True colors!](http://9gag.com/gag/ayN4NdW)
+ - 💣 [Playful Kate Beckinsale on the set of Underworld &lpar;2003&rpar;](http://9gag.com/gag/a1mD1Rv)
+ - 😝 [The perfect girl doesn&#39;t exi...](http://9gag.com/gag/a5QBQ1O)
+ - 👉 [Warner Bros really hate money and their fans](http://9gag.com/gag/awymy81)<!-- MEMES:END -->
 
 ---
 

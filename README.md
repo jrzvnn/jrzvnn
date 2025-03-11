@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [BREAKING: An Air India flight was forced to return on a 10 hour trip to Chicago Illinois because their toilets were clogged with poop leaving hundreds Indians trapped on a plane with no restroom.](http://9gag.com/gag/aD2nDBN)
- - 😝 [Welcome to Arizona](http://9gag.com/gag/aPAPgMw)
- - 💣 [Harry Potter talking to Snape in the new HBO show](http://9gag.com/gag/aD2nYYK)
- - 😝 [Do it!](http://9gag.com/gag/amoGA9j)
- - 👉 [Disgustang](http://9gag.com/gag/aAyEQpd)<!-- MEMES:END -->
+ - 😝 [The art of the deal](http://9gag.com/gag/a7oeenx)
+ - 😝 [Definitely india](http://9gag.com/gag/aPAPZEn)
+ - 💣 [BREAKING: An Air India flight was forced to return on a 10 hour trip to Chicago Illinois because their toilets were clogged with poop leaving hundreds Indians trapped on a plane with no restroom.](http://9gag.com/gag/aD2nDBN)
+ - 😝 [Ruined an awesome beach view video](http://9gag.com/gag/agmO1M1)
+ - 👉 [Do it!](http://9gag.com/gag/amoGA9j)<!-- MEMES:END -->
 
 ---
 

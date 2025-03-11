@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Lmao](http://9gag.com/gag/a5QB1qq)
- - 😝 [Ma - ah](http://9gag.com/gag/ayN4NVW)
- - 💣 [Today is this guy 85th birthday!](http://9gag.com/gag/adBOvK2)
- - 😝 [Classic joke on Omegle](http://9gag.com/gag/aryAmw7)
- - 👉 [Warner Bros really hate money and their fans](http://9gag.com/gag/awymy81)<!-- MEMES:END -->
+ - 😝 [G\u2019luck, bro.](http://9gag.com/gag/aAyEGEg)
+ - 😝 [If you know you know \ud83d\udc40](http://9gag.com/gag/ajPO79G)
+ - 💣 [Harry Potter talking to Snape in the new HBO show](http://9gag.com/gag/aD2nYYK)
+ - 😝 [Do it!](http://9gag.com/gag/amoGA9j)
+ - 👉 [Pigeons are now impersonating Humans](http://9gag.com/gag/a9yvnV0)<!-- MEMES:END -->
 
 ---
 

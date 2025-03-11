@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Sources: Meta is testing its first in-house AI training chip, a key milestone as it moves to design more of its own silicon and reduce its reliance on Nvidia &lpar;Reuters&rpar;](http://www.techmeme.com/250311/p11#a250311p11)
+ - [Trump&#39;s call to scrap the &quot;horrible&quot; CHIPS Act causes concern among Republican lawmakers, who sought and received White House reassurances over the program &lpar;New York Times&rpar;](http://www.techmeme.com/250311/p10#a250311p10)
  - [Q&amp;A with PlayStation Lead System Architect Mark Cerny on FSR 4&#39;s PS5 Pro &quot;reimplementation&quot;, working with AMD on a better hardware architecture for ML, and more &lpar;Richard Leadbetter/Eurogamer.net&rpar;](http://www.techmeme.com/250311/p9#a250311p9)
  - [Microsoft is replacing Remote Desktop with its new Windows app](https://www.theverge.com/news/627483/microsoft-remote-desktop-windows-app-replacement)
- - [The Worst 7 Years in Boeing’s History—and the Man Who Won’t Stop Fighting for Answers](https://www.wired.com/story/boeing-whistleblower-737-max/)
- - [A look at Amazon&#39;s growing array of warehouse robots, from robotic arms to heavy lift units and sorting machines; Amazon Robotics has rolled out 750K+ devices &lpar;Rafe Uddin/Financial Times&rpar;](http://www.techmeme.com/250311/p8#a250311p8)
- - [Sources: Kirkland-based enterprise cybersecurity startup Chainguard is in talks to raise $350M led by Kleiner at a $3.5B valuation, up from $1.1B in July 2024 &lpar;Katie Roof/Bloomberg&rpar;](http://www.techmeme.com/250311/p7#a250311p7)<!-- TECH:END -->
+ - [Play Lies of P Now Before Xbox Game Pass Removes It This Weekend](https://www.cnet.com/tech/gaming/play-lies-of-p-now-before-xbox-game-pass-removes-it-this-weekend/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [iRobot launches eight new Roombas and finally adds lidar mapping](https://www.theverge.com/news/627751/irobot-launches-eight-new-roombas-with-lidar-room-mapping)
+ - [Source: Anthropic&#39;s annualized revenue grew from $1B at the end of 2024 to $1.4B in early March; Manus uses tools including Claude 3.7 Sonnet to power its agent &lpar;The Information&rpar;](http://www.techmeme.com/250311/p35#a250311p35)
  - [Don&#39;t wait to update: iOS 18.3.2 fixes an actively exploited issue](https://appleinsider.com/articles/25/03/11/dont-wait-to-update-ios-1832-fixes-an-actively-exploited-issue?utm_medium=rss)
  - [This Is How Measles Kills](https://www.wired.com/story/this-is-how-measles-can-kill-texas-new-mexico-outbreak-vaccines-vitamin-a/)
- - [Best Anniversary Gifts to Celebrate True Love](https://www.cnet.com/news/best-anniversary-gifts/#ftag=CAD590a51e)
- - [Best Asus Laptop for 2025](https://www.cnet.com/tech/computing/best-asus-laptop-for-2025/#ftag=CAD590a51e)
- - [The 33 Best Shows on Apple TV+ Right Now &lpar;March 2025&rpar;](https://www.wired.com/story/best-apple-tv-plus-shows/)<!-- TECH:END -->
+ - [Best Anniversary Gifts to Celebrate True Love](https://www.cnet.com/news/best-anniversary-gifts/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

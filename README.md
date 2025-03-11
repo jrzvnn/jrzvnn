@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [15-inch MacBook Air &lpar;M4, 2025&rpar; Review: Bluer and Better](https://www.wired.com/review/macbook-air-15-inch-2025/)
+ - [PlayStation Reportedly Is Playing With AI-Driven Characters](https://www.cnet.com/tech/services-and-software/playstation-reportedly-is-playing-with-ai-driven-characters/#ftag=CAD590a51e)
  - [The Senate approves Gail Slater, President Trump&#39;s pick to lead the DOJ&#39;s antitrust unit, by a 78-19 vote; she has been critical of power in the tech industry &lpar;David McCabe/New York Times&rpar;](http://www.techmeme.com/250311/p42#a250311p42)
- - [Everything we know about Apple’s Vision Pro](https://www.theverge.com/23689334/apple-mixed-reality-headset-augmented-virtual-reality-ar-vr-rumors-specs-features)
- - [&#39;Metallica&#39; immersive experience for Apple Vision Pro will be available on March 14](https://appleinsider.com/articles/25/03/11/metallica-immersive-experience-for-apple-vision-pro-will-be-available-on-march-14?utm_medium=rss)
- - [Trump’s first 100 days: all the news affecting the tech industry](https://www.theverge.com/24348851/donald-trump-presidency-tech-science-news)
- - [Gail Slater is the DOJ’s new antitrust head](https://www.theverge.com/news/627919/gail-slater-doj-antitrust-confirmation-vote)<!-- TECH:END -->
+ - [4 Ways Staying Active Helps You Age Healthier -- And How to Get Started](https://www.cnet.com/health/fitness/4-ways-staying-active-helps-you-age-healthier-and-how-to-get-started/#ftag=CAD590a51e)
+ - [Everything we know about Apple’s Vision Pro](https://www.theverge.com/23689334/apple-mixed-reality-headset-augmented-virtual-reality-ar-vr-rumors-specs-features)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

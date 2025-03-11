@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Cerebras, Groq, and Big Tech target AI inference to challenge Nvidia; Barclays sees inference capex surpassing training in two years, reaching $208.2B in 2026 &lpar;Tim Bradshaw/Financial Times&rpar;](http://www.techmeme.com/250311/p5#a250311p5)
  - [Seagate and other HDD makers bet on tech like heat-assisted magnetic recording to stay competitive; IDC expects data center HDD spending to hit $22B by 2028 &lpar;John Keilman/Wall Street Journal&rpar;](http://www.techmeme.com/250311/p4#a250311p4)
  - [Infinite Uptime, which uses AI and proprietary sensors to offer predictive maintenance solutions for factories, raised a $35M Series C led by Avataar Ventures &lpar;Jagmeet Singh/TechCrunch&rpar;](http://www.techmeme.com/250311/p3#a250311p3)
  - [Thailand&#39;s SEC approves Tether&#39;s USDT and Circle&#39;s USDC for exchange trading, with both available in Thailand on March 16, signaling growing stablecoin adoption &lpar;Liz Napolitano/Decrypt&rpar;](http://www.techmeme.com/250311/p2#a250311p2)
- - [ServiceNow says it plans to acquire agentic AI company Moveworks for $2.85B in its largest-ever acquisition, a cash and stock deal set to close in H2 2025 &lpar;Jaspreet Singh/Reuters&rpar;](http://www.techmeme.com/250311/p1#a250311p1)
- - [Today&#39;s NYT Mini Crossword Answers for Tuesday, March 11](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-tuesday-march-11/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [ServiceNow says it plans to acquire agentic AI company Moveworks for $2.85B in its largest-ever acquisition, a cash and stock deal set to close in H2 2025 &lpar;Jaspreet Singh/Reuters&rpar;](http://www.techmeme.com/250311/p1#a250311p1)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

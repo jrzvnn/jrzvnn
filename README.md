@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [&#39;Metallica&#39; immersive experience for Apple Vision Pro will be available on March 14](https://appleinsider.com/articles/25/03/11/metallica-immersive-experience-for-apple-vision-pro-will-be-available-on-march-14?utm_medium=rss)
  - [Trump’s first 100 days: all the news affecting the tech industry](https://www.theverge.com/24348851/donald-trump-presidency-tech-science-news)
+ - [Gail Slater is the DOJ’s new antitrust head](https://www.theverge.com/news/627919/gail-slater-doj-antitrust-confirmation-vote)
  - [Vergil is out for blood in the latest trailer for Netflix’s Devil May Cry series](https://www.theverge.com/trailers/627307/devil-may-cry-netflix-vergil)
- - [Sam Altman says OpenAI trained an AI model that is good at creative writing and shares a short story it wrote; he&#39;s &quot;not sure yet how/when it will get released&quot; &lpar;Sam Altman/@sama&rpar;](http://www.techmeme.com/250311/p41#a250311p41)
- - [Is Tesla cooked?](https://www.theverge.com/tesla/627894/tesla-stock-sales-protest-musk-trump-doge)
- - [Trump says he&amp;#8217;ll label attacks on Tesla locations as domestic terrorism](https://www.theverge.com/news/627896/trump-tesla-domestic-terrorism-elon-musk-white-house)<!-- TECH:END -->
+ - [Sam Altman says OpenAI trained an AI model that is good at creative writing and shares a short story it wrote; he&#39;s &quot;not sure yet how/when it will get released&quot; &lpar;Sam Altman/@sama&rpar;](http://www.techmeme.com/250311/p41#a250311p41)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Ninja Swirl by Creami Soft Serve Machine Review: Joy in Every Cup](https://www.wired.com/review/ninja-swirl-by-creami-soft-serve-maker/)
+ - [The creators of the Las Vegas Sphere want to open smaller mini-Spheres](https://www.theverge.com/news/627566/mini-sphere-entertainment-vegas-immersive-venue)
  - [What Really Happened With the DDoS Attacks That Took Down X](https://www.wired.com/story/x-ddos-attack-march-2025/)
  - [AMD Ryzen 9 9950X3D review: great gaming and general performance and AMD removed overclocking limitations, but a niche CPU, some software issues, and pricey &lpar;Andrew Cunningham/Ars Technica&rpar;](http://www.techmeme.com/250311/p23#a250311p23)
- - [Trump’s first 100 days: all the news affecting the tech industry](https://www.theverge.com/24348851/donald-trump-presidency-tech-science-news)
- - [Mac Studio review roundup: Still the fastest on the block](https://appleinsider.com/articles/25/03/11/mac-studio-review-roundup-still-the-fastest-on-the-block?utm_medium=rss)
- - [Israeli startup Sola, which offers a low-code platform to build cybersecurity apps, emerges from stealth with a $30M seed co-led by S Capital and Mike Moritz &lpar;Ingrid Lunden/TechCrunch&rpar;](http://www.techmeme.com/250311/p22#a250311p22)<!-- TECH:END -->
+ - [Trump’s first 100 days: all the news affecting the tech industry](https://www.theverge.com/24348851/donald-trump-presidency-tech-science-news)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

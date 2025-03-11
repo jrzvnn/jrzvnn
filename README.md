@@ -161,7 +161,7 @@ R                        1 repo              ░░░░░░░░░░░�
  - [Self-driving cars: Google and others map the road to automated vehicles](https://www.theverge.com/2012/12/23/3797260/self-driving-cars-automated-vehicles)
  - [Mac Studio review roundup: Still the fastest on the block](https://appleinsider.com/articles/25/03/11/mac-studio-review-roundup-still-the-fastest-on-the-block?utm_medium=rss)
  - [Ninja Swirl by Creami Soft Serve Machine Review: Joy in Every Cup](https://www.wired.com/review/ninja-swirl-by-creami-soft-serve-maker/)
- - [I Won&#39;t Use AI Smart Health Features, for My Own Sake. Here&#39;s Why](https://www.cnet.com/tech/services-and-software/i-wont-use-ai-smart-health-features-for-my-own-sake-heres-why/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [The creators of the Las Vegas Sphere want to open smaller mini-Spheres](https://www.theverge.com/news/627566/mini-sphere-entertainment-vegas-immersive-venue)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

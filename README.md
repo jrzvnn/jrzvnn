@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Superpower by 2020](http://9gag.com/gag/an7ng5B)
- - 😝 [Playful Kate Beckinsale on the set of Underworld &lpar;2003&rpar;](http://9gag.com/gag/a1mD1Rv)
- - 💣 [Pigeons are now impersonating Humans](http://9gag.com/gag/a9yvnV0)
- - 😝 [Why is this so unsettling yet funny](http://9gag.com/gag/aQzQdb7)
- - 👉 [Do it!](http://9gag.com/gag/amoGA9j)<!-- MEMES:END -->
+ - 😝 [If you know you know \ud83d\udc40](http://9gag.com/gag/ajPO79G)
+ - 😝 [Pigeons are now impersonating Humans](http://9gag.com/gag/a9yvnV0)
+ - 💣 [Harry Potter talking to Snape in the new HBO show](http://9gag.com/gag/aD2nYYK)
+ - 😝 [Do it!](http://9gag.com/gag/amoGA9j)
+ - 👉 [Why is this so unsettling yet funny](http://9gag.com/gag/aQzQdb7)<!-- MEMES:END -->
 
 ---
 

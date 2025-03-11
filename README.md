@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: VCs with &quot;locked&quot; tokens are working with market makers to hedge their positions; Tokenomist: 2024&#39;s largest unlocks brought $5.4B+ into circulation &lpar;Ryan Weeks/Bloomberg&rpar;](http://www.techmeme.com/250311/p27#a250311p27)
- - [BlizzCon is returning in 2026 after a few years off](https://www.theverge.com/news/625556/blizzard-blizzcon-2026-few-years-off)
- - [How longer-lasting, faster-charging batteries are coming via software updates](https://www.theverge.com/electric-cars/627597/breathe-battery-software-charging-speed-range-volvo)
- - [All the news about EV charging in the US](https://www.theverge.com/23758095/electric-vehicle-charging-news-nacs-ccs-tesla-supercharger-us-infrastructure)
- - [TikTok rolls out a new feature to show users under 16 a &quot;wind down&quot; reminder after 10PM, interrupting the feed and playing &quot;calming music to help teens relax&quot; &lpar;Emma Roth/The Verge&rpar;](http://www.techmeme.com/250311/p26#a250311p26)<!-- TECH:END -->
+ - [CrossOver 25 improves DirectX 11 support, works with Epic Games Store](https://appleinsider.com/articles/25/03/11/crossover-25-improves-directx-11-support-works-with-epic-games-store?utm_medium=rss)
+ - [A look at Crypto.com&#39;s perplexing trading volume surge, up 10x in 2024 per CoinGecko, vaulting it to the top tier of exchanges, as rivals question its growth &lpar;Jeff John Roberts/Fortune&rpar;](http://www.techmeme.com/250311/p30#a250311p30)
+ - [Tesla Cybertruck: all the news about Elon Musk’s futuristic pickup truck](https://www.theverge.com/2019/11/21/20975980/tesla-cybertruck-announcement-news-pickup-truck-elon-musk-updates-highlights)
+ - [Anker’s compact travel charger works in over 200 countries](https://www.theverge.com/news/627648/anker-nano-travel-adapter-5-in-1-us-europe-australia)
+ - [A new Pixel 10 leak shows Google adding another camera](https://www.theverge.com/news/627676/google-pixel-10-leak-renders-third-rear-camera-telephoto)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

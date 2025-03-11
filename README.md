@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [G\u2019luck, bro.](http://9gag.com/gag/aAyEGEg)
+ - 😝 [If you know you know \ud83d\udc40](http://9gag.com/gag/ajPO79G)
  - 😝 [The perfect girl doesn&#39;t exi...](http://9gag.com/gag/a5QBQ1O)
- - 💣 [You know...for kids!](http://9gag.com/gag/aMVmVW1)
+ - 💣 [Dark humor](http://9gag.com/gag/aO848b3)
  - 😝 [Harry Potter talking to Snape in the new HBO show](http://9gag.com/gag/aD2nYYK)
- - 👉 [If you know you know \ud83d\udc40](http://9gag.com/gag/ajPO79G)<!-- MEMES:END -->
+ - 👉 [Is it worth it?](http://9gag.com/gag/amoGoBd)<!-- MEMES:END -->
 
 ---
 

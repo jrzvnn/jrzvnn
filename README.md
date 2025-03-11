@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Everyone is a loser in the Apple Intelligence race](https://appleinsider.com/articles/25/03/11/everyone-is-a-loser-in-the-apple-intelligence-race?utm_medium=rss)
- - [Coinbase registers with India&#39;s FIU and plans to roll out its retail trading platform in India later in 2025, its second attempt to expand in the country &lpar;Sidhartha Shukla/Bloomberg&rpar;](http://www.techmeme.com/250311/p15#a250311p15)
- - [Best Sheets for Every Bed and Budget, Tested and Reviewed &lpar;2025&rpar;](https://www.wired.com/story/best-bedsheets/)
- - [Lego CEO Niels Christiansen says the toymaker plans to make video games in-house, after 2024 revenue rose 13% YoY to ~$10B; its Fortnite tie-up has 87M players &lpar;Richard Milne/Financial Times&rpar;](http://www.techmeme.com/250311/p14#a250311p14)
- - [Celestial AI, which aims to use light to speed up data transfer inside servers, raised $250M led by Fidelity at a $2.5B valuation, taking its funding to $515M &lpar;Jane Lanhee Lee/Bloomberg&rpar;](http://www.techmeme.com/250311/p13#a250311p13)<!-- TECH:END -->
+ - [Ford Is Sticking With an EV Future](https://www.wired.com/story/ford-ev-charging-adapters-for-tesla-superchargers/)
+ - [Ford’s Tesla Supercharger adapters are now on sale for $200](https://www.theverge.com/news/627230/ford-nacs-adapter-tesla-supercharger-price)
+ - [All the news about EV charging in the US](https://www.theverge.com/23758095/electric-vehicle-charging-news-nacs-ccs-tesla-supercharger-us-infrastructure)
+ - [Global smartwatch shipments fell 7% YoY in 2024, the market&#39;s first ever decline; Apple fell 19% while Huawei grew 35%, Xiaomi grew 135%, and Samsung grew 3% &lpar;Counterpoint Research&rpar;](http://www.techmeme.com/250311/p16#a250311p16)
+ - [Everyone is a loser in the Apple Intelligence race](https://appleinsider.com/articles/25/03/11/everyone-is-a-loser-in-the-apple-intelligence-race?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

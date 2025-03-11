@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Warner Bros really hate money and their fans](http://9gag.com/gag/awymy81)
- - 😝 [Welcome to Arizona](http://9gag.com/gag/aPAPgMw)
+ - 😝 [G\u2019luck, bro.](http://9gag.com/gag/aAyEGEg)
+ - 😝 [Playful Kate Beckinsale on the set of Underworld &lpar;2003&rpar;](http://9gag.com/gag/a1mD1Rv)
  - 💣 [Definitely india](http://9gag.com/gag/aPAPZEn)
- - 😝 [Why is this so unsettling yet funny](http://9gag.com/gag/aQzQdb7)
- - 👉 [Pigeons are now impersonating Humans](http://9gag.com/gag/a9yvnV0)<!-- MEMES:END -->
+ - 😝 [Pigeons are now impersonating Humans](http://9gag.com/gag/a9yvnV0)
+ - 👉 [Why is this so unsettling yet funny](http://9gag.com/gag/aQzQdb7)<!-- MEMES:END -->
 
 ---
 

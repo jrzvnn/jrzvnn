@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Israeli-US cybersecurity startup Cybereason raised $120M led by SoftBank, Vision Fund 2, and Liberty; its now ex-CEO said in a lawsuit it was close to bankrupt &lpar;Assaf Gilead/Globes Online&rpar;](http://www.techmeme.com/250311/p19#a250311p19)
- - [Neobank Zolve, which offers services for those moving to the US, raised a $51M Series B led by Creaegis and $200M in debt, and says it has 750,000 customers &lpar;Jagmeet Singh/TechCrunch&rpar;](http://www.techmeme.com/250311/p18#a250311p18)
- - [8 Best Cheap Phones &lpar;2025&rpar;, Tested and Reviewed](https://www.wired.com/story/best-cheap-phones/)
- - [India&#39;s Bharti Airtel signs a deal with SpaceX to launch Starlink in the country, offering it to business customers and providing rural internet access &lpar;Reuters&rpar;](http://www.techmeme.com/250311/p17#a250311p17)
- - [Ford Tested Its Gen 2 NACS Adapter by Running It Over With an F-150](https://www.cnet.com/roadshow/news/ford-tested-its-gen-2-nacs-adapter-by-running-it-over-with-an-f-150/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [M4 MacBook Air review roundup: Welcome upgrade, but no surprises](https://appleinsider.com/articles/25/03/11/m4-macbook-air-review-roundup-welcome-upgrade-but-no-surprises?utm_medium=rss)
+ - [Trump’s first 100 days: all the news affecting the tech industry](https://www.theverge.com/24348851/donald-trump-presidency-tech-science-news)
+ - [Western Digital launches massive 26TB drives for pros &amp; NAS users](https://appleinsider.com/articles/25/03/11/western-digital-launches-massive-26tb-drives-for-pros-nas-users?utm_medium=rss)
+ - [Apple Mac Studio review: M3 Ultra offers amazing performance, silent operation, and a variety of ports, but no user memory or SSD upgrades, which are expensive &lpar;Brandon Hill/Tom&#39;s Hardware&rpar;](http://www.techmeme.com/250311/p21#a250311p21)
+ - [Apple MacBook Air M4 review: fast, thin and light, great keyboard and touchpad, and excellent battery life, but could use more ports and only a 60Hz screen &lpar;Devindra Hardawar/Engadget&rpar;](http://www.techmeme.com/250311/p20#a250311p20)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

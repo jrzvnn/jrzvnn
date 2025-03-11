@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Superpower by 2020](http://9gag.com/gag/an7ng5B)
- - 😝 [The perfect girl doesn&#39;t exi...](http://9gag.com/gag/a5QBQ1O)
- - 💣 [Dark humor](http://9gag.com/gag/aO848b3)
- - 😝 [Harry Potter talking to Snape in the new HBO show](http://9gag.com/gag/aD2nYYK)
- - 👉 [Definitely india](http://9gag.com/gag/aPAPZEn)<!-- MEMES:END -->
+ - 😝 [BREAKING: An Air India flight was forced to return on a 10 hour trip to Chicago Illinois because their toilets were clogged with poop leaving hundreds Indians trapped on a plane with no restroom.](http://9gag.com/gag/aD2nDBN)
+ - 😝 [Animator did this ON PURPOSE for sure](http://9gag.com/gag/aAyEypL)
+ - 💣 [Disgustang](http://9gag.com/gag/aAyEQpd)
+ - 😝 [Welcome to Arizona](http://9gag.com/gag/aPAPgMw)
+ - 👉 [Do it!](http://9gag.com/gag/amoGA9j)<!-- MEMES:END -->
 
 ---
 

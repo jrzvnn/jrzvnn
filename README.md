@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [US tariffs: how Trump’s tax is hitting Big Tech and beyond](https://www.theverge.com/604742/trump-tariffs-canada-mexico-china-updates)
+ - [Self-driving cars: Google and others map the road to automated vehicles](https://www.theverge.com/2012/12/23/3797260/self-driving-cars-automated-vehicles)
+ - [Mac Studio review roundup: Still the fastest on the block](https://appleinsider.com/articles/25/03/11/mac-studio-review-roundup-still-the-fastest-on-the-block?utm_medium=rss)
  - [Ninja Swirl by Creami Soft Serve Machine Review: Joy in Every Cup](https://www.wired.com/review/ninja-swirl-by-creami-soft-serve-maker/)
- - [The creators of the Las Vegas Sphere want to open smaller mini-Spheres](https://www.theverge.com/news/627566/mini-sphere-entertainment-vegas-immersive-venue)
- - [What Really Happened With the DDoS Attacks That Took Down X](https://www.wired.com/story/x-ddos-attack-march-2025/)
- - [AMD Ryzen 9 9950X3D review: great gaming and general performance and AMD removed overclocking limitations, but a niche CPU, some software issues, and pricey &lpar;Andrew Cunningham/Ars Technica&rpar;](http://www.techmeme.com/250311/p23#a250311p23)
- - [Trump’s first 100 days: all the news affecting the tech industry](https://www.theverge.com/24348851/donald-trump-presidency-tech-science-news)<!-- TECH:END -->
+ - [I Won&#39;t Use AI Smart Health Features, for My Own Sake. Here&#39;s Why](https://www.cnet.com/tech/services-and-software/i-wont-use-ai-smart-health-features-for-my-own-sake-heres-why/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

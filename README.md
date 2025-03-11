@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [I identify as Apache Helicopter](http://9gag.com/gag/agmOmZ6)
- - 😝 [Playful Kate Beckinsale on the set of Underworld &lpar;2003&rpar;](http://9gag.com/gag/a1mD1Rv)
- - 💣 [BREAKING: An Air India flight was forced to return on a 10 hour trip to Chicago Illinois because their toilets were clogged with poop leaving hundreds Indians trapped on a plane with no restroom.](http://9gag.com/gag/aD2nDBN)
- - 😝 [Superpower by 2020](http://9gag.com/gag/an7ng5B)
- - 👉 [Ask 9gag](http://9gag.com/gag/awymZpx)<!-- MEMES:END -->
+ - 😝 [Ma - ah](http://9gag.com/gag/ayN4NVW)
+ - 😝 [Today is this guy 85th birthday!](http://9gag.com/gag/adBOvK2)
+ - 💣 [Classic joke on Omegle](http://9gag.com/gag/aryAmw7)
+ - 😝 [Warner Bros really hate money and their fans](http://9gag.com/gag/awymy81)
+ - 👉 [Bookmark for later](http://9gag.com/gag/aPAPg4V)<!-- MEMES:END -->
 
 ---
 

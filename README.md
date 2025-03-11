@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Everyone is a loser in the Apple Intelligence race](https://appleinsider.com/articles/25/03/11/everyone-is-a-loser-in-the-apple-intelligence-race?utm_medium=rss)
+ - [Coinbase registers with India&#39;s FIU and plans to roll out its retail trading platform in India later in 2025, its second attempt to expand in the country &lpar;Sidhartha Shukla/Bloomberg&rpar;](http://www.techmeme.com/250311/p15#a250311p15)
+ - [Best Sheets for Every Bed and Budget, Tested and Reviewed &lpar;2025&rpar;](https://www.wired.com/story/best-bedsheets/)
  - [Lego CEO Niels Christiansen says the toymaker plans to make video games in-house, after 2024 revenue rose 13% YoY to ~$10B; its Fortnite tie-up has 87M players &lpar;Richard Milne/Financial Times&rpar;](http://www.techmeme.com/250311/p14#a250311p14)
- - [Celestial AI, which aims to use light to speed up data transfer inside servers, raised $250M led by Fidelity at a $2.5B valuation, taking its funding to $515M &lpar;Jane Lanhee Lee/Bloomberg&rpar;](http://www.techmeme.com/250311/p13#a250311p13)
- - [How to Turn a Live Boston Bruins Hockey Broadcast Into a Cartoon](https://www.wired.com/story/nhl-broadcast-overlays-boston-bruins/)
- - [Best Smart Speakers for 2025: Upgrade Your Sound](https://www.cnet.com/home/smart-home/best-smart-speaker/#ftag=CAD590a51e)
- - [Best Internet Providers for Streaming](https://www.cnet.com/home/internet/best-internet-providers-for-streaming/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Celestial AI, which aims to use light to speed up data transfer inside servers, raised $250M led by Fidelity at a $2.5B valuation, taking its funding to $515M &lpar;Jane Lanhee Lee/Bloomberg&rpar;](http://www.techmeme.com/250311/p13#a250311p13)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

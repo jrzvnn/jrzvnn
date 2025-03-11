@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Mac Studio review roundup: Still the fastest on the block](https://appleinsider.com/articles/25/03/11/mac-studio-review-roundup-still-the-fastest-on-the-block?utm_medium=rss)
- - [Israeli startup Sola, which offers a low-code platform to build cybersecurity apps, emerges from stealth with a $30M seed co-led by S Capital and Mike Moritz &lpar;Ingrid Lunden/TechCrunch&rpar;](http://www.techmeme.com/250311/p22#a250311p22)
- - [M4 MacBook Air review roundup: Welcome upgrade, but no surprises](https://appleinsider.com/articles/25/03/11/m4-macbook-air-review-roundup-welcome-upgrade-but-no-surprises?utm_medium=rss)
+ - [What Really Happened With the DDoS Attacks That Took Down X](https://www.wired.com/story/x-ddos-attack-march-2025/)
+ - [AMD Ryzen 9 9950X3D review: great gaming and general performance and AMD removed overclocking limitations, but a niche CPU, some software issues, and pricey &lpar;Andrew Cunningham/Ars Technica&rpar;](http://www.techmeme.com/250311/p23#a250311p23)
  - [Trump’s first 100 days: all the news affecting the tech industry](https://www.theverge.com/24348851/donald-trump-presidency-tech-science-news)
- - [Western Digital launches massive 26TB drives for pros &amp; NAS users](https://appleinsider.com/articles/25/03/11/western-digital-launches-massive-26tb-drives-for-pros-nas-users?utm_medium=rss)<!-- TECH:END -->
+ - [Mac Studio review roundup: Still the fastest on the block](https://appleinsider.com/articles/25/03/11/mac-studio-review-roundup-still-the-fastest-on-the-block?utm_medium=rss)
+ - [Israeli startup Sola, which offers a low-code platform to build cybersecurity apps, emerges from stealth with a $30M seed co-led by S Capital and Mike Moritz &lpar;Ingrid Lunden/TechCrunch&rpar;](http://www.techmeme.com/250311/p22#a250311p22)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

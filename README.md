@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Don&#39;t wait to update: iOS 18.3.2 fixes an actively exploited issue](https://appleinsider.com/articles/25/03/11/dont-wait-to-update-ios-1832-fixes-an-actively-exploited-issue?utm_medium=rss)
  - [This Is How Measles Kills](https://www.wired.com/story/this-is-how-measles-can-kill-texas-new-mexico-outbreak-vaccines-vitamin-a/)
- - [The 33 Best Shows on Apple TV+ Right Now &lpar;March 2025&rpar;](https://www.wired.com/story/best-apple-tv-plus-shows/)
- - [Go Read This: The Verge’s favorite reads from all over the web](https://www.theverge.com/24188803/best-tech-reads-articles-books)
- - [All the smart home news, reviews, and gadgets you need to know about](https://www.theverge.com/24190824/smart-home-news-reviews-guides-gadgets)
- - [Trump’s first 100 days: all the news affecting the tech industry](https://www.theverge.com/24348851/donald-trump-presidency-tech-science-news)<!-- TECH:END -->
+ - [Best Anniversary Gifts to Celebrate True Love](https://www.cnet.com/news/best-anniversary-gifts/#ftag=CAD590a51e)
+ - [Best Asus Laptop for 2025](https://www.cnet.com/tech/computing/best-asus-laptop-for-2025/#ftag=CAD590a51e)
+ - [The 33 Best Shows on Apple TV+ Right Now &lpar;March 2025&rpar;](https://www.wired.com/story/best-apple-tv-plus-shows/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

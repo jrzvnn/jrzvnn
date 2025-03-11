@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Eminem stubs his toe &lpar;credit: Lil Windex&rpar;](https://www.reddit.com/r/funny/comments/1j93zwu/eminem_stubs_his_toe_credit_lil_windex/)
  - 😝 [Warner Bros really hate money and their fans](http://9gag.com/gag/awymy81)
- - 💣 [Today&#39;s advice](http://9gag.com/gag/ae9O1w5)
- - 😝 [Ruined an awesome beach view video](http://9gag.com/gag/agmO1M1)
- - 👉 [Do it!](http://9gag.com/gag/amoGA9j)<!-- MEMES:END -->
+ - 😝 [Today&#39;s advice](http://9gag.com/gag/ae9O1w5)
+ - 💣 [Ruined an awesome beach view video](http://9gag.com/gag/agmO1M1)
+ - 😝 [Do it!](http://9gag.com/gag/amoGA9j)
+ - 👉 [Harry Potter talking to Snape in the new HBO show](http://9gag.com/gag/aD2nYYK)<!-- MEMES:END -->
 
 ---
 

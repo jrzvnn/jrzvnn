@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Harry Potter talking to Snape in the new HBO show](http://9gag.com/gag/aD2nYYK)
- - 😝 [Pigeons are now impersonating Humans](http://9gag.com/gag/a9yvnV0)
- - 💣 [Playful Kate Beckinsale on the set of Underworld &lpar;2003&rpar;](http://9gag.com/gag/a1mD1Rv)
- - 😝 [Warner Bros really hate money and their fans](http://9gag.com/gag/awymy81)
- - 👉 [Definitely india](http://9gag.com/gag/aPAPZEn)<!-- MEMES:END -->
+ - 😝 [Definitely india](http://9gag.com/gag/aPAPZEn)
+ - 😝 [If you know you know \ud83d\udc40](http://9gag.com/gag/ajPO79G)
+ - 💣 [Harry Potter talking to Snape in the new HBO show](http://9gag.com/gag/aD2nYYK)
+ - 😝 [Different sister](http://9gag.com/gag/aMVmK2R)
+ - 👉 [BREAKING: An Air India flight was forced to return on a 10 hour trip to Chicago Illinois because their toilets were clogged with poop leaving hundreds Indians trapped on a plane with no restroom.](http://9gag.com/gag/aD2nDBN)<!-- MEMES:END -->
 
 ---
 

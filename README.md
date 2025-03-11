@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Ford Is Sticking With an EV Future](https://www.wired.com/story/ford-ev-charging-adapters-for-tesla-superchargers/)
- - [Ford’s Tesla Supercharger adapters are now on sale for $200](https://www.theverge.com/news/627230/ford-nacs-adapter-tesla-supercharger-price)
- - [All the news about EV charging in the US](https://www.theverge.com/23758095/electric-vehicle-charging-news-nacs-ccs-tesla-supercharger-us-infrastructure)
- - [Global smartwatch shipments fell 7% YoY in 2024, the market&#39;s first ever decline; Apple fell 19% while Huawei grew 35%, Xiaomi grew 135%, and Samsung grew 3% &lpar;Counterpoint Research&rpar;](http://www.techmeme.com/250311/p16#a250311p16)
- - [Everyone is a loser in the Apple Intelligence race](https://appleinsider.com/articles/25/03/11/everyone-is-a-loser-in-the-apple-intelligence-race?utm_medium=rss)<!-- TECH:END -->
+ - [Israeli-US cybersecurity startup Cybereason raised $120M led by SoftBank, Vision Fund 2, and Liberty; its now ex-CEO said in a lawsuit it was close to bankrupt &lpar;Assaf Gilead/Globes Online&rpar;](http://www.techmeme.com/250311/p19#a250311p19)
+ - [Neobank Zolve, which offers services for those moving to the US, raised a $51M Series B led by Creaegis and $200M in debt, and says it has 750,000 customers &lpar;Jagmeet Singh/TechCrunch&rpar;](http://www.techmeme.com/250311/p18#a250311p18)
+ - [8 Best Cheap Phones &lpar;2025&rpar;, Tested and Reviewed](https://www.wired.com/story/best-cheap-phones/)
+ - [India&#39;s Bharti Airtel signs a deal with SpaceX to launch Starlink in the country, offering it to business customers and providing rural internet access &lpar;Reuters&rpar;](http://www.techmeme.com/250311/p17#a250311p17)
+ - [Ford Tested Its Gen 2 NACS Adapter by Running It Over With an F-150](https://www.cnet.com/roadshow/news/ford-tested-its-gen-2-nacs-adapter-by-running-it-over-with-an-f-150/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

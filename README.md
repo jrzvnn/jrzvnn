@@ -166,8 +166,8 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Ma - ah](http://9gag.com/gag/ayN4NVW)
  - 😝 [Today is this guy 85th birthday!](http://9gag.com/gag/adBOvK2)
+ - 😝 [Ma - ah](http://9gag.com/gag/ayN4NVW)
  - 💣 [Classic joke on Omegle](http://9gag.com/gag/aryAmw7)
  - 😝 [Warner Bros really hate money and their fans](http://9gag.com/gag/awymy81)
  - 👉 [Bookmark for later](http://9gag.com/gag/aPAPg4V)<!-- MEMES:END -->

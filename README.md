@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Trump’s first 100 days: all the news affecting the tech industry](https://www.theverge.com/24348851/donald-trump-presidency-tech-science-news)
  - [Sources: Google is in final talks to acquire AdHawk Microsystems, a Canadian maker of eye-tracking tech, for $115M, including $15M in performance-based payments &lpar;Mark Gurman/Bloomberg&rpar;](http://www.techmeme.com/250311/p37#a250311p37)
- - [Download iOS 18.3.2 Right Now to Patch This Security Issue](https://www.cnet.com/tech/services-and-software/download-ios-18-3-2-right-now-to-patch-this-security-issue/#ftag=CAD590a51e)
- - [&#39;Daredevil: Born Again&#39;: Episode Release Schedule on Disney Plus](https://www.cnet.com/tech/services-and-software/daredevil-born-again-episode-release-schedule-disney-plus/#ftag=CAD590a51e)
- - [Happy 8th Anniversary, BBC Dad Viral Video: See His Interrupting Kids Now](https://www.cnet.com/tech/happy-8th-anniversary-bbc-dad-viral-video-see-his-interrupting-kids-now/#ftag=CAD590a51e)
- - [Delivery Hero says Uber has terminated its $950M deal to acquire Foodpanda in Taiwan and will pay a ~$250M termination fee after Taiwan&#39;s FTC blocked the deal &lpar;Reuters&rpar;](http://www.techmeme.com/250311/p36#a250311p36)<!-- TECH:END -->
+ - [Delivery Hero says Uber has terminated its $950M deal to acquire Foodpanda in Taiwan and will pay a ~$250M termination fee after Taiwan&#39;s FTC blocked the deal &lpar;Reuters&rpar;](http://www.techmeme.com/250311/p36#a250311p36)
+ - [The best ebook reader to buy right now](https://www.theverge.com/23769068/best-ebook-readers)
+ - [Shohei Otani Fortnite Skin Release Date: How to Get the First MLB Skin](https://www.cnet.com/tech/gaming/shohei-otani-fortnite-skin-release-date-how-to-get-the-first-mlb-skin/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

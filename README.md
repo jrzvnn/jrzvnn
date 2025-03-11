@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Norm Ai, which develops AI agents focused on regulatory compliance, raised a $48M Series B led by Coatue, bringing its total amount raised to $87M &lpar;Mike Wheatley/SiliconANGLE&rpar;](http://www.techmeme.com/250311/p24#a250311p24)
  - [US tariffs: how Trump’s tax is hitting Big Tech and beyond](https://www.theverge.com/604742/trump-tariffs-canada-mexico-china-updates)
  - [Self-driving cars: Google and others map the road to automated vehicles](https://www.theverge.com/2012/12/23/3797260/self-driving-cars-automated-vehicles)
  - [Mac Studio review roundup: Still the fastest on the block](https://appleinsider.com/articles/25/03/11/mac-studio-review-roundup-still-the-fastest-on-the-block?utm_medium=rss)
- - [Ninja Swirl by Creami Soft Serve Machine Review: Joy in Every Cup](https://www.wired.com/review/ninja-swirl-by-creami-soft-serve-maker/)
- - [The creators of the Las Vegas Sphere want to open smaller mini-Spheres](https://www.theverge.com/news/627566/mini-sphere-entertainment-vegas-immersive-venue)<!-- TECH:END -->
+ - [Ninja Swirl by Creami Soft Serve Machine Review: Joy in Every Cup](https://www.wired.com/review/ninja-swirl-by-creami-soft-serve-maker/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

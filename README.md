@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Lmao](http://9gag.com/gag/a5QB1qq)
- - 😝 [Ma - ah](http://9gag.com/gag/ayN4NVW)
- - 💣 [Today is this guy 85th birthday!](http://9gag.com/gag/adBOvK2)
- - 😝 [Classic joke on Omegle](http://9gag.com/gag/aryAmw7)
- - 👉 [Bookmark for later](http://9gag.com/gag/aPAPg4V)<!-- MEMES:END -->
+ - 😝 [Superpower by 2020](http://9gag.com/gag/an7ng5B)
+ - 😝 [Playful Kate Beckinsale on the set of Underworld &lpar;2003&rpar;](http://9gag.com/gag/a1mD1Rv)
+ - 💣 [Pigeons are now impersonating Humans](http://9gag.com/gag/a9yvnV0)
+ - 😝 [Why is this so unsettling yet funny](http://9gag.com/gag/aQzQdb7)
+ - 👉 [Do it!](http://9gag.com/gag/amoGA9j)<!-- MEMES:END -->
 
 ---
 

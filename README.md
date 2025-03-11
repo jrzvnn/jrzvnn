@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [If you know you know \ud83d\udc40](http://9gag.com/gag/ajPO79G)
- - 😝 [The perfect girl doesn&#39;t exi...](http://9gag.com/gag/a5QBQ1O)
- - 💣 [Dark humor](http://9gag.com/gag/aO848b3)
+ - 😝 [Woman yanks bag of toys from kid](http://9gag.com/gag/aLnenBP)
+ - 😝 [Definitely india](http://9gag.com/gag/aPAPZEn)
+ - 💣 [Ask 9gag](http://9gag.com/gag/awymZpx)
  - 😝 [Harry Potter talking to Snape in the new HBO show](http://9gag.com/gag/aD2nYYK)
- - 👉 [Is it worth it?](http://9gag.com/gag/amoGoBd)<!-- MEMES:END -->
+ - 👉 [Superpower by 2020](http://9gag.com/gag/an7ng5B)<!-- MEMES:END -->
 
 ---
 

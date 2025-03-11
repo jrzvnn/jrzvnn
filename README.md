@@ -158,10 +158,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- TECH:START -->
  - [ServiceNow says it plans to acquire agentic AI company Moveworks for $2.85B in its largest-ever acquisition, a cash and stock deal set to close in H2 2025 &lpar;Jaspreet Singh/Reuters&rpar;](http://www.techmeme.com/250311/p1#a250311p1)
+ - [Today&#39;s NYT Mini Crossword Answers for Tuesday, March 11](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-tuesday-march-11/#ftag=CAD590a51e)
  - [How to speed up new document creation by using templates on Mac](https://appleinsider.com/inside/iwork/tips/how-to-speed-up-new-document-creation-by-using-templates-on-mac?utm_medium=rss)
  - [Nothing Phone 3A and 3A Pro Are Fun, Flashy and Affordable](https://www.cnet.com/tech/mobile/nothing-phone-3a-and-3a-pro-are-fun-flashy-and-affordable/#ftag=CAD590a51e)
- - [I Got a Look at Samsung&#39;s New Affordable Galaxy A Phones at MWC 2025](https://www.cnet.com/tech/mobile/i-got-a-look-at-samsungs-new-affordable-galaxy-a-phones-at-mwc-2025/#ftag=CAD590a51e)
- - [Samsung Foldable Concepts at MWC 2025: Pincer Phone, Folding Console, Flexi Briefcase](https://www.cnet.com/tech/mobile/samsung-shows-off-quirky-pincer-phone-folding-console-and-flexi-briefcase-concepts-mwc-2025/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [I Got a Look at Samsung&#39;s New Affordable Galaxy A Phones at MWC 2025](https://www.cnet.com/tech/mobile/i-got-a-look-at-samsungs-new-affordable-galaxy-a-phones-at-mwc-2025/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

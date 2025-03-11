@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [CrossOver 25 improves DirectX 11 support, works with Epic Games Store](https://appleinsider.com/articles/25/03/11/crossover-25-improves-directx-11-support-works-with-epic-games-store?utm_medium=rss)
- - [A look at Crypto.com&#39;s perplexing trading volume surge, up 10x in 2024 per CoinGecko, vaulting it to the top tier of exchanges, as rivals question its growth &lpar;Jeff John Roberts/Fortune&rpar;](http://www.techmeme.com/250311/p30#a250311p30)
- - [Tesla Cybertruck: all the news about Elon Musk’s futuristic pickup truck](https://www.theverge.com/2019/11/21/20975980/tesla-cybertruck-announcement-news-pickup-truck-elon-musk-updates-highlights)
- - [Anker’s compact travel charger works in over 200 countries](https://www.theverge.com/news/627648/anker-nano-travel-adapter-5-in-1-us-europe-australia)
- - [A new Pixel 10 leak shows Google adding another camera](https://www.theverge.com/news/627676/google-pixel-10-leak-renders-third-rear-camera-telephoto)<!-- TECH:END -->
+ - [Rumored iOS 19 &amp; macOS 16 design changes will be polarizing, as always](https://appleinsider.com/articles/25/03/11/rumored-ios-19-macos-16-design-changes-will-be-polarizing-as-always?utm_medium=rss)
+ - [With a tea-making fantasy game, Davey Wreden gets real](https://www.theverge.com/games/627549/wanderstop-davey-wreden-interview)
+ - [OpenAI launches new tools to help developers build AI agents](https://www.theverge.com/news/627556/openai-ai-agents-responses-api-agents-sdk)
+ - [Media Matters sues X to stop lawsuits outside of the US](https://www.theverge.com/news/627665/x-musk-media-matters-lawsuit-damages)
+ - [CrossOver 25 improves DirectX 11 support, works with Epic Games Store](https://appleinsider.com/articles/25/03/11/crossover-25-improves-directx-11-support-works-with-epic-games-store?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

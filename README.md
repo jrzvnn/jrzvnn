@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Court filings: Google owns a 14% stake in Anthropic but holds no voting rights, board seats, or board observer rights; it aims to invest $750M more in September &lpar;New York Times&rpar;](http://www.techmeme.com/250311/p39#a250311p39)
- - [Manus partners with Alibaba&#39;s Qwen to integrate Manus&#39; AI agent functions with AI models and computing platforms in China and to collaborate on Qwen&#39;s AI models &lpar;Reuters&rpar;](http://www.techmeme.com/250311/p38#a250311p38)
  - [Trump’s first 100 days: all the news affecting the tech industry](https://www.theverge.com/24348851/donald-trump-presidency-tech-science-news)
- - [Sources: Google is in final talks to acquire AdHawk Microsystems, a Canadian maker of eye-tracking tech, for $115M, including $15M in performance-based payments &lpar;Mark Gurman/Bloomberg&rpar;](http://www.techmeme.com/250311/p37#a250311p37)
- - [Download iOS 18.3.2 Right Now to Patch This Security Issue](https://www.cnet.com/tech/services-and-software/download-ios-18-3-2-right-now-to-patch-this-security-issue/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Trump says he&amp;#8217;ll label attacks on Tesla locations as domestic terrorism](https://www.theverge.com/news/627896/trump-tesla-domestic-terrorism-elon-musk-white-house)
+ - [Mesh raised an $82M Series B, settled mostly in PayPal&#39;s PYUSD stablecoin and led by Paradigm, to expand its stablecoin-based payments settlement network &lpar;Krisztian Sandor/CoinDesk&rpar;](http://www.techmeme.com/250311/p40#a250311p40)
+ - [Court filings: Google owns a 14% stake in Anthropic but holds no voting rights, board seats, or board observer rights; it aims to invest $750M more in September &lpar;New York Times&rpar;](http://www.techmeme.com/250311/p39#a250311p39)
+ - [Manus partners with Alibaba&#39;s Qwen to integrate Manus&#39; AI agent functions with AI models and computing platforms in China and to collaborate on Qwen&#39;s AI models &lpar;Reuters&rpar;](http://www.techmeme.com/250311/p38#a250311p38)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

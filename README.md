@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [After tech companies like Amazon and Microsoft made huge bets on AI, the gadget boom that started with the launch of Alexa in 2014 has largely fizzled &lpar;Matt Day/Bloomberg&rpar;](http://www.techmeme.com/250311/p34#a250311p34)
- - [Today only: Save $800 on this 14-inch MacBook Pro with 36GB RAM](https://appleinsider.com/articles/25/03/11/today-only-save-700-on-this-14-inch-macbook-pro-with-36gb-ram?utm_medium=rss)
+ - [Go Read This: The Verge’s favorite reads from all over the web](https://www.theverge.com/24188803/best-tech-reads-articles-books)
+ - [All the smart home news, reviews, and gadgets you need to know about](https://www.theverge.com/24190824/smart-home-news-reviews-guides-gadgets)
  - [Trump’s first 100 days: all the news affecting the tech industry](https://www.theverge.com/24348851/donald-trump-presidency-tech-science-news)
- - [CFPB official tells judge he’s still not sure if agency will shut down](https://www.theverge.com/politics/627724/cfpb-adam-martinez-testimony-doge)
- - [Apple seeds security updates for iOS 18.3.2, iPadOS 18.3.2, macOS 15.3.2, visionOS 2.3.2](https://appleinsider.com/articles/25/03/11/apple-seeds-security-updates-for-ios-1832-ipados-1832-macos-1532-visionos-232?utm_medium=rss)<!-- TECH:END -->
+ - [After tech companies like Amazon and Microsoft made huge bets on AI, the gadget boom that started with the launch of Alexa in 2014 has largely fizzled &lpar;Matt Day/Bloomberg&rpar;](http://www.techmeme.com/250311/p34#a250311p34)
+ - [Today only: Save $800 on this 14-inch MacBook Pro with 36GB RAM](https://appleinsider.com/articles/25/03/11/today-only-save-700-on-this-14-inch-macbook-pro-with-36gb-ram?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [TP-Link Deco BE5000 review: whole-home mesh Wi-Fi 7 on a budget](https://appleinsider.com/articles/25/03/11/tp-link-deco-be5000-review-whole-home-mesh-wi-fi-7-on-a-budget?utm_medium=rss)
+ - [Ford announces NACS charger integration for EV Routing in Apple Maps](https://appleinsider.com/articles/25/03/11/ford-announces-nacs-charger-integration-for-ev-routing-in-apple-maps?utm_medium=rss)
+ - [The best instant cameras you can buy right now](https://www.theverge.com/23133103/best-instant-cameras-fujifilm-polaroid-kodak)
  - [Leaked video: Sony is working on a prototype AI-powered version of a PlayStation game character that can interact with players through voice prompts &lpar;Tom Warren/The Verge&rpar;](http://www.techmeme.com/250310/p27#a250310p27)
- - [Apple Pay expanding to additional card networks in Qatar and the UAE](https://appleinsider.com/articles/25/03/10/apple-pay-expanding-to-additional-card-networks-in-qatar-and-the-uae?utm_medium=rss)
- - [Virtual physical therapy service Hinge Health files for a US IPO, and reports revenue of $390M in 2024, up from $293M in 2023, and a net loss of $11.9M &lpar;Bailey Lipschultz/Bloomberg&rpar;](http://www.techmeme.com/250310/p26#a250310p26)
- - [Steam Deck, ROG Ally, and more: all the news about the handheld PC gaming revolution](https://www.theverge.com/22579493/valve-steam-deck-gaming-handheld-pc)
- - [The best iPhones](https://www.theverge.com/23618862/best-iphone-camera-battery-screen-guide)<!-- TECH:END -->
+ - [Today&#39;s NYT Connections: Sports Edition Hints and Answers for March 10, #168](https://www.cnet.com/tech/gaming/todays-nyt-connections-sports-edition-hints-and-answers-for-march-10-168/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

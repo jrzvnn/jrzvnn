@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: Kirkland-based enterprise cybersecurity startup Chainguard is in talks to raise $350M led by Kleiner at a $3.5B valuation, up from $1.1B in July 2024 &lpar;Katie Roof/Bloomberg&rpar;](http://www.techmeme.com/250311/p7#a250311p7)
- - [Brompton G e-bike review: truth in advertising](https://www.theverge.com/reviews/626678/brompton-g-e-bike-most-versatile-multimodal-review)
- - [Today&#39;s NYT Connections: Sports Edition Hints and Answers for March 11, #169](https://www.cnet.com/tech/gaming/todays-nyt-connections-sports-edition-hints-and-answers-for-march-11-169/#ftag=CAD590a51e)
- - [Today&#39;s NYT Strands Hints, Answers and Help for March 11, #373](https://www.cnet.com/tech/gaming/todays-nyt-strands-hints-answers-and-help-for-march-11-373/#ftag=CAD590a51e)
- - [Today&#39;s NYT Connections Hints, Answers and Help for March 11, #639](https://www.cnet.com/tech/gaming/todays-nyt-connections-hints-answers-and-help-for-march-11-639/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Q&amp;A with PlayStation Lead System Architect Mark Cerny on FSR 4&#39;s PS5 Pro &quot;reimplementation&quot;, working with AMD on a better hardware architecture for ML, and more &lpar;Richard Leadbetter/Eurogamer.net&rpar;](http://www.techmeme.com/250311/p9#a250311p9)
+ - [Microsoft is replacing Remote Desktop with its new Windows app](https://www.theverge.com/news/627483/microsoft-remote-desktop-windows-app-replacement)
+ - [The Worst 7 Years in Boeing’s History—and the Man Who Won’t Stop Fighting for Answers](https://www.wired.com/story/boeing-whistleblower-737-max/)
+ - [A look at Amazon&#39;s growing array of warehouse robots, from robotic arms to heavy lift units and sorting machines; Amazon Robotics has rolled out 750K+ devices &lpar;Rafe Uddin/Financial Times&rpar;](http://www.techmeme.com/250311/p8#a250311p8)
+ - [Sources: Kirkland-based enterprise cybersecurity startup Chainguard is in talks to raise $350M led by Kleiner at a $3.5B valuation, up from $1.1B in July 2024 &lpar;Katie Roof/Bloomberg&rpar;](http://www.techmeme.com/250311/p7#a250311p7)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [How to deal with scammers](http://9gag.com/gag/awym3Z1)
- - 😝 [Ma - ah](http://9gag.com/gag/ayN4NVW)
- - 💣 [Classic joke on Omegle](http://9gag.com/gag/aryAmw7)
- - 😝 [Warner Bros really hate money and their fans](http://9gag.com/gag/awymy81)
- - 👉 [Bookmark for later](http://9gag.com/gag/aPAPg4V)<!-- MEMES:END -->
+ - 😝 [G\u2019luck, bro.](http://9gag.com/gag/aAyEGEg)
+ - 😝 [The perfect girl doesn&#39;t exi...](http://9gag.com/gag/a5QBQ1O)
+ - 💣 [You know...for kids!](http://9gag.com/gag/aMVmVW1)
+ - 😝 [Harry Potter talking to Snape in the new HBO show](http://9gag.com/gag/aD2nYYK)
+ - 👉 [If you know you know \ud83d\udc40](http://9gag.com/gag/ajPO79G)<!-- MEMES:END -->
 
 ---
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [G\u2019luck, bro.](http://9gag.com/gag/aAyEGEg)
- - 😝 [Definitely india](http://9gag.com/gag/aPAPZEn)
- - 💣 [BREAKING: An Air India flight was forced to return on a 10 hour trip to Chicago Illinois because their toilets were clogged with poop leaving hundreds Indians trapped on a plane with no restroom.](http://9gag.com/gag/aD2nDBN)
+ - 😝 [I identify as Apache Helicopter](http://9gag.com/gag/agmOmZ6)
  - 😝 [Playful Kate Beckinsale on the set of Underworld &lpar;2003&rpar;](http://9gag.com/gag/a1mD1Rv)
- - 👉 [Harry Potter talking to Snape in the new HBO show](http://9gag.com/gag/aD2nYYK)<!-- MEMES:END -->
+ - 💣 [BREAKING: An Air India flight was forced to return on a 10 hour trip to Chicago Illinois because their toilets were clogged with poop leaving hundreds Indians trapped on a plane with no restroom.](http://9gag.com/gag/aD2nDBN)
+ - 😝 [Superpower by 2020](http://9gag.com/gag/an7ng5B)
+ - 👉 [Ask 9gag](http://9gag.com/gag/awymZpx)<!-- MEMES:END -->
 
 ---
 

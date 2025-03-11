@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [The perfect girl doesn&#39;t exi...](http://9gag.com/gag/a5QBQ1O)
  - 😝 [Warner Bros really hate money and their fans](http://9gag.com/gag/awymy81)
- - 💣 [Today&#39;s advice](http://9gag.com/gag/ae9O1w5)
- - 😝 [The art of the deal](http://9gag.com/gag/a7oeenx)
- - 👉 [Ruined an awesome beach view video](http://9gag.com/gag/agmO1M1)<!-- MEMES:END -->
+ - 😝 [Today&#39;s advice](http://9gag.com/gag/ae9O1w5)
+ - 💣 [Ruined an awesome beach view video](http://9gag.com/gag/agmO1M1)
+ - 😝 [Do it!](http://9gag.com/gag/amoGA9j)
+ - 👉 [Harry Potter talking to Snape in the new HBO show](http://9gag.com/gag/aD2nYYK)<!-- MEMES:END -->
 
 ---
 

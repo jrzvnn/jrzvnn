@@ -157,10 +157,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Trump’s first 100 days: all the news affecting the tech industry](https://www.theverge.com/24348851/donald-trump-presidency-tech-science-news)
  - [Vergil is out for blood in the latest trailer for Netflix’s Devil May Cry series](https://www.theverge.com/trailers/627307/devil-may-cry-netflix-vergil)
  - [Sam Altman says OpenAI trained an AI model that is good at creative writing and shares a short story it wrote; he&#39;s &quot;not sure yet how/when it will get released&quot; &lpar;Sam Altman/@sama&rpar;](http://www.techmeme.com/250311/p41#a250311p41)
  - [Is Tesla cooked?](https://www.theverge.com/tesla/627894/tesla-stock-sales-protest-musk-trump-doge)
- - [Trump’s first 100 days: all the news affecting the tech industry](https://www.theverge.com/24348851/donald-trump-presidency-tech-science-news)
  - [Trump says he&amp;#8217;ll label attacks on Tesla locations as domestic terrorism](https://www.theverge.com/news/627896/trump-tesla-domestic-terrorism-elon-musk-white-house)<!-- TECH:END -->
 
 ### 😂 Memes of the hour

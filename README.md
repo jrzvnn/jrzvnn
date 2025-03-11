@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [I got legless last night.](http://9gag.com/gag/a87mAmY)
- - 😝 [Ma - ah](http://9gag.com/gag/ayN4NVW)
- - 💣 [Warner Bros really hate money and their fans](http://9gag.com/gag/awymy81)
- - 😝 [Classic joke on Omegle](http://9gag.com/gag/aryAmw7)
- - 👉 [Today is this guy 85th birthday!](http://9gag.com/gag/adBOvK2)<!-- MEMES:END -->
+ - 😝 [Harry Potter talking to Snape in the new HBO show](http://9gag.com/gag/aD2nYYK)
+ - 😝 [Pigeons are now impersonating Humans](http://9gag.com/gag/a9yvnV0)
+ - 💣 [Playful Kate Beckinsale on the set of Underworld &lpar;2003&rpar;](http://9gag.com/gag/a1mD1Rv)
+ - 😝 [Warner Bros really hate money and their fans](http://9gag.com/gag/awymy81)
+ - 👉 [Definitely india](http://9gag.com/gag/aPAPZEn)<!-- MEMES:END -->
 
 ---
 

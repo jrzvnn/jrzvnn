@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Vergil is out for blood in the latest trailer for Netflix’s Devil May Cry series](https://www.theverge.com/trailers/627307/devil-may-cry-netflix-vergil)
+ - [Sam Altman says OpenAI trained an AI model that is good at creative writing and shares a short story it wrote; he&#39;s &quot;not sure yet how/when it will get released&quot; &lpar;Sam Altman/@sama&rpar;](http://www.techmeme.com/250311/p41#a250311p41)
+ - [Is Tesla cooked?](https://www.theverge.com/tesla/627894/tesla-stock-sales-protest-musk-trump-doge)
  - [Trump’s first 100 days: all the news affecting the tech industry](https://www.theverge.com/24348851/donald-trump-presidency-tech-science-news)
- - [Trump says he&amp;#8217;ll label attacks on Tesla locations as domestic terrorism](https://www.theverge.com/news/627896/trump-tesla-domestic-terrorism-elon-musk-white-house)
- - [Mesh raised an $82M Series B, settled mostly in PayPal&#39;s PYUSD stablecoin and led by Paradigm, to expand its stablecoin-based payments settlement network &lpar;Krisztian Sandor/CoinDesk&rpar;](http://www.techmeme.com/250311/p40#a250311p40)
- - [Court filings: Google owns a 14% stake in Anthropic but holds no voting rights, board seats, or board observer rights; it aims to invest $750M more in September &lpar;New York Times&rpar;](http://www.techmeme.com/250311/p39#a250311p39)
- - [Manus partners with Alibaba&#39;s Qwen to integrate Manus&#39; AI agent functions with AI models and computing platforms in China and to collaborate on Qwen&#39;s AI models &lpar;Reuters&rpar;](http://www.techmeme.com/250311/p38#a250311p38)<!-- TECH:END -->
+ - [Trump says he&amp;#8217;ll label attacks on Tesla locations as domestic terrorism](https://www.theverge.com/news/627896/trump-tesla-domestic-terrorism-elon-musk-white-house)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

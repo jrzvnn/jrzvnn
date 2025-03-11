@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Celestial AI, which aims to use light to speed up data transfer inside servers, raised $250M led by Fidelity at a $2.5B valuation, taking its funding to $515M &lpar;Jane Lanhee Lee/Bloomberg&rpar;](http://www.techmeme.com/250311/p13#a250311p13)
+ - [How to Turn a Live Boston Bruins Hockey Broadcast Into a Cartoon](https://www.wired.com/story/nhl-broadcast-overlays-boston-bruins/)
+ - [As automation and robotics undergo a revolution, a call to action for the US and the West, which are missing the new labor economy that China is set to capture &lpar;Dylan Patel/SemiAnalysis&rpar;](http://www.techmeme.com/250311/p12#a250311p12)
  - [Sources: Meta is testing its first in-house AI training chip, a key milestone as it moves to design more of its own silicon and reduce its reliance on Nvidia &lpar;Reuters&rpar;](http://www.techmeme.com/250311/p11#a250311p11)
- - [Trump&#39;s call to scrap the &quot;horrible&quot; CHIPS Act causes concern among Republican lawmakers, who sought and received White House reassurances over the program &lpar;New York Times&rpar;](http://www.techmeme.com/250311/p10#a250311p10)
- - [Q&amp;A with PlayStation Lead System Architect Mark Cerny on FSR 4&#39;s PS5 Pro &quot;reimplementation&quot;, working with AMD on a better hardware architecture for ML, and more &lpar;Richard Leadbetter/Eurogamer.net&rpar;](http://www.techmeme.com/250311/p9#a250311p9)
- - [Microsoft is replacing Remote Desktop with its new Windows app](https://www.theverge.com/news/627483/microsoft-remote-desktop-windows-app-replacement)
- - [Play Lies of P Now Before Xbox Game Pass Removes It This Weekend](https://www.cnet.com/tech/gaming/play-lies-of-p-now-before-xbox-game-pass-removes-it-this-weekend/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Trump&#39;s call to scrap the &quot;horrible&quot; CHIPS Act causes concern among Republican lawmakers, who sought and received White House reassurances over the program &lpar;New York Times&rpar;](http://www.techmeme.com/250311/p10#a250311p10)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Trump just posted a cinematic video of Black Lives Matter Plaza being RIPPED APART by crews outside the White House](http://9gag.com/gag/aKG9A4N)
- - 😝 [How to deal with scammers](http://9gag.com/gag/awym3Z1)
- - 💣 [I got legless last night.](http://9gag.com/gag/a87mAmY)
- - 😝 [This high school principal is a legend!](http://9gag.com/gag/azxP2NN)
- - 👉 [Cat](http://9gag.com/gag/axyvWdM)<!-- MEMES:END -->
+ - 😝 [If you know you know \ud83d\udc40](http://9gag.com/gag/ajPO79G)
+ - 😝 [True colors!](http://9gag.com/gag/ayN4NdW)
+ - 💣 [Harry Potter talking to Snape in the new HBO show](http://9gag.com/gag/aD2nYYK)
+ - 😝 [Welcome to Arizona](http://9gag.com/gag/aPAPgMw)
+ - 👉 [BREAKING: An Air India flight was forced to return on a 10 hour trip to Chicago Illinois because their toilets were clogged with poop leaving hundreds Indians trapped on a plane with no restroom.](http://9gag.com/gag/aD2nDBN)<!-- MEMES:END -->
 
 ---
 

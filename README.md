@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Monopolies, scalpers, and the future of online ticket sales](https://www.theverge.com/policy/627453/online-ticketing-future-live-nation-ticketmaster-stubhub-lobbying)
+ - [Waymo is now offering 24/7 robotaxi rides in Silicon Valley](https://www.theverge.com/news/627619/waymo-silicon-valley-robotaxi-bay-area-service-area)
+ - [New Katamari Damacy game rolls onto Apple Arcade in April](https://www.theverge.com/news/627602/new-katamari-damacy-game-apple-arcade-exclusive)
  - [Today only: Save $700 on this 14-inch MacBook Pro with 36GB RAM](https://appleinsider.com/articles/25/03/11/today-only-save-700-on-this-14-inch-macbook-pro-with-36gb-ram?utm_medium=rss)
- - [&#39;Katamari&#39; rolls onto Apple Arcade in April alongside other revamped classics](https://appleinsider.com/articles/25/03/11/katamari-rolls-onto-apple-arcade-in-april-alongside-other-revamped-classics?utm_medium=rss)
- - [President Trump nominates Sean Plankey, the director of cyber policy at the White House during the first Trump administration, to run CISA &lpar;Sam Sabin/Axios&rpar;](http://www.techmeme.com/250311/p25#a250311p25)
- - [TikTok will play ‘calming music’ to remind teens to stop using the app](https://www.theverge.com/news/627589/tiktok-wind-down-calming-music-teen-safety)
- - [Norm Ai, which develops AI agents focused on regulatory compliance, raised a $48M Series B led by Coatue, bringing its total amount raised to $87M &lpar;Mike Wheatley/SiliconANGLE&rpar;](http://www.techmeme.com/250311/p24#a250311p24)<!-- TECH:END -->
+ - [&#39;Katamari&#39; rolls onto Apple Arcade in April alongside other revamped classics](https://appleinsider.com/articles/25/03/11/katamari-rolls-onto-apple-arcade-in-april-alongside-other-revamped-classics?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

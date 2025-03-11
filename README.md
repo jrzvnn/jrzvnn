@@ -158,10 +158,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- TECH:START -->
  - [How to speed up new document creation by using templates on Mac](https://appleinsider.com/inside/iwork/tips/how-to-speed-up-new-document-creation-by-using-templates-on-mac?utm_medium=rss)
- - [A study of eight AI search engines found they provided incorrect citations of news articles in 60%+ of queries; Grok 3 answered 94% of the queries incorrectly &lpar;Columbia Journalism Review&rpar;](http://www.techmeme.com/250310/p28#a250310p28)
- - [Xiaomi 15 Ultra: My Review After 2 Weeks of Testing It Around Europe](https://www.cnet.com/tech/mobile/xiaomi-15-ultra-my-review-after-2-weeks-of-testing-it-around-europe/#ftag=CAD590a51e)
- - [TCL&#39;s 60 Phone Series Expands With Better Cameras, Bigger Batteries](https://www.cnet.com/tech/mobile/tcls-60-phone-series-expands-with-better-cameras-bigger-batteries/#ftag=CAD590a51e)
- - [Oppo Find N5 Review: A Remarkably Thin and Practical Foldable Phone](https://www.cnet.com/tech/mobile/oppo-find-n5-review-a-remarkably-thin-and-practical-foldable-phone/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Nothing Phone 3A and 3A Pro Are Fun, Flashy and Affordable](https://www.cnet.com/tech/mobile/nothing-phone-3a-and-3a-pro-are-fun-flashy-and-affordable/#ftag=CAD590a51e)
+ - [I Got a Look at Samsung&#39;s New Affordable Galaxy A Phones at MWC 2025](https://www.cnet.com/tech/mobile/i-got-a-look-at-samsungs-new-affordable-galaxy-a-phones-at-mwc-2025/#ftag=CAD590a51e)
+ - [Samsung Foldable Concepts at MWC 2025: Pincer Phone, Folding Console, Flexi Briefcase](https://www.cnet.com/tech/mobile/samsung-shows-off-quirky-pincer-phone-folding-console-and-flexi-briefcase-concepts-mwc-2025/#ftag=CAD590a51e)
+ - [A study of eight AI search engines found they provided incorrect citations of news articles in 60%+ of queries; Grok 3 answered 94% of the queries incorrectly &lpar;Columbia Journalism Review&rpar;](http://www.techmeme.com/250310/p28#a250310p28)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Sen. Lummis unveils the Bitcoin Act in the US Senate, with five Republican cosponsors, to codify a strategic Bitcoin reserve and let the US to buy up to 1M BTC &lpar;Sander Lutz/Decrypt&rpar;](http://www.techmeme.com/250311/p32#a250311p32)
+ - [Elon Musk Has Wanted the Government Shutdown](https://www.wired.com/story/elon-musk-has-wanted-the-government-shut-down/)
+ - [OpenAI debuts a Responses API to help devs build agents that search the web, scan for files, and perform tasks on computers, and an Agents SDK for orchestration &lpar;Emma Roth/The Verge&rpar;](http://www.techmeme.com/250311/p31#a250311p31)
  - [Rumored iOS 19 &amp; macOS 16 design changes will be polarizing, as always](https://appleinsider.com/articles/25/03/11/rumored-ios-19-macos-16-design-changes-will-be-polarizing-as-always?utm_medium=rss)
- - [With a tea-making fantasy game, Davey Wreden gets real](https://www.theverge.com/games/627549/wanderstop-davey-wreden-interview)
- - [OpenAI launches new tools to help developers build AI agents](https://www.theverge.com/news/627556/openai-ai-agents-responses-api-agents-sdk)
- - [Media Matters sues X to stop lawsuits outside of the US](https://www.theverge.com/news/627665/x-musk-media-matters-lawsuit-damages)
- - [CrossOver 25 improves DirectX 11 support, works with Epic Games Store](https://appleinsider.com/articles/25/03/11/crossover-25-improves-directx-11-support-works-with-epic-games-store?utm_medium=rss)<!-- TECH:END -->
+ - [With a tea-making fantasy game, Davey Wreden gets real](https://www.theverge.com/games/627549/wanderstop-davey-wreden-interview)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

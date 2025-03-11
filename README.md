@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Delivery Hero says Uber has terminated its $950M deal to acquire Foodpanda in Taiwan and will pay a ~$250M termination fee after Taiwan&#39;s FTC blocked the deal &lpar;Reuters&rpar;](http://www.techmeme.com/250311/p36#a250311p36)
- - [The best ebook reader to buy right now](https://www.theverge.com/23769068/best-ebook-readers)
- - [Shohei Otani Fortnite Skin Release Date: How to Get the First MLB Skin](https://www.cnet.com/tech/gaming/shohei-otani-fortnite-skin-release-date-how-to-get-the-first-mlb-skin/#ftag=CAD590a51e)
- - [Roomba&#39;s Cheapest Robot Vacuums Now Have 3 Premium Features &lpar;Without the Upcharge&rpar;](https://www.cnet.com/home/kitchen-and-household/roombas-new-robovac-lineup-60-day-hands-free-compacting-bin-lidar-and-redesigned-app/#ftag=CAD590a51e)
- - [iRobot launches eight new Roombas and finally adds lidar mapping](https://www.theverge.com/news/627751/irobot-launches-eight-new-roombas-with-lidar-room-mapping)<!-- TECH:END -->
+ - [Sources: Google is in final talks to acquire AdHawk Microsystems, a Canadian maker of eye-tracking tech, for $115M, including $15M in performance-based payments &lpar;Mark Gurman/Bloomberg&rpar;](http://www.techmeme.com/250311/p37#a250311p37)
+ - [Download iOS 18.3.2 Right Now to Patch This Security Issue](https://www.cnet.com/tech/services-and-software/download-ios-18-3-2-right-now-to-patch-this-security-issue/#ftag=CAD590a51e)
+ - [&#39;Daredevil: Born Again&#39;: Episode Release Schedule on Disney Plus](https://www.cnet.com/tech/services-and-software/daredevil-born-again-episode-release-schedule-disney-plus/#ftag=CAD590a51e)
+ - [Happy 8th Anniversary, BBC Dad Viral Video: See His Interrupting Kids Now](https://www.cnet.com/tech/happy-8th-anniversary-bbc-dad-viral-video-see-his-interrupting-kids-now/#ftag=CAD590a51e)
+ - [Delivery Hero says Uber has terminated its $950M deal to acquire Foodpanda in Taiwan and will pay a ~$250M termination fee after Taiwan&#39;s FTC blocked the deal &lpar;Reuters&rpar;](http://www.techmeme.com/250311/p36#a250311p36)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

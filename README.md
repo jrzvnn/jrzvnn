@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google held back Pixel 4A batteries to avoid overheating risk](https://www.theverge.com/news/627543/google-pixel-4a-battery-update-overheating-recall)
- - [Intuit QuickBooks rolling out Tap-to-Pay on iPhone](https://appleinsider.com/articles/25/03/11/intuit-quickbooks-rolling-out-tap-to-pay-on-iphone?utm_medium=rss)
- - [Monopolies, scalpers, and the future of online ticket sales](https://www.theverge.com/policy/627453/online-ticketing-future-live-nation-ticketmaster-stubhub-lobbying)
- - [Waymo is now offering 24/7 robotaxi rides in Silicon Valley](https://www.theverge.com/news/627619/waymo-silicon-valley-robotaxi-bay-area-service-area)
- - [New Katamari Damacy game rolls onto Apple Arcade in April](https://www.theverge.com/news/627602/new-katamari-damacy-game-apple-arcade-exclusive)<!-- TECH:END -->
+ - [Sources: VCs with &quot;locked&quot; tokens are working with market makers to hedge their positions; Tokenomist: 2024&#39;s largest unlocks brought $5.4B+ into circulation &lpar;Ryan Weeks/Bloomberg&rpar;](http://www.techmeme.com/250311/p27#a250311p27)
+ - [BlizzCon is returning in 2026 after a few years off](https://www.theverge.com/news/625556/blizzard-blizzcon-2026-few-years-off)
+ - [How longer-lasting, faster-charging batteries are coming via software updates](https://www.theverge.com/electric-cars/627597/breathe-battery-software-charging-speed-range-volvo)
+ - [All the news about EV charging in the US](https://www.theverge.com/23758095/electric-vehicle-charging-news-nacs-ccs-tesla-supercharger-us-infrastructure)
+ - [TikTok rolls out a new feature to show users under 16 a &quot;wind down&quot; reminder after 10PM, interrupting the feed and playing &quot;calming music to help teens relax&quot; &lpar;Emma Roth/The Verge&rpar;](http://www.techmeme.com/250311/p26#a250311p26)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

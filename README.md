@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Mac Studio review roundup: Still the fastest on the block](https://appleinsider.com/articles/25/03/11/mac-studio-review-roundup-still-the-fastest-on-the-block?utm_medium=rss)
+ - [Israeli startup Sola, which offers a low-code platform to build cybersecurity apps, emerges from stealth with a $30M seed co-led by S Capital and Mike Moritz &lpar;Ingrid Lunden/TechCrunch&rpar;](http://www.techmeme.com/250311/p22#a250311p22)
  - [M4 MacBook Air review roundup: Welcome upgrade, but no surprises](https://appleinsider.com/articles/25/03/11/m4-macbook-air-review-roundup-welcome-upgrade-but-no-surprises?utm_medium=rss)
  - [Trump’s first 100 days: all the news affecting the tech industry](https://www.theverge.com/24348851/donald-trump-presidency-tech-science-news)
- - [Western Digital launches massive 26TB drives for pros &amp; NAS users](https://appleinsider.com/articles/25/03/11/western-digital-launches-massive-26tb-drives-for-pros-nas-users?utm_medium=rss)
- - [Apple Mac Studio review: M3 Ultra offers amazing performance, silent operation, and a variety of ports, but no user memory or SSD upgrades, which are expensive &lpar;Brandon Hill/Tom&#39;s Hardware&rpar;](http://www.techmeme.com/250311/p21#a250311p21)
- - [Apple MacBook Air M4 review: fast, thin and light, great keyboard and touchpad, and excellent battery life, but could use more ports and only a 60Hz screen &lpar;Devindra Hardawar/Engadget&rpar;](http://www.techmeme.com/250311/p20#a250311p20)<!-- TECH:END -->
+ - [Western Digital launches massive 26TB drives for pros &amp; NAS users](https://appleinsider.com/articles/25/03/11/western-digital-launches-massive-26tb-drives-for-pros-nas-users?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

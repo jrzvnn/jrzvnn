@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [Let&#39;s party girl](http://9gag.com/gag/ayN4qXX)
+ - 😝 [Today&#39;s advice](http://9gag.com/gag/ae9O1w5)
+ - 💣 [Apparently he was like an on set dad and always looked after the kids. Such a good actor](http://9gag.com/gag/awymmoy)
  - 😝 [The art of the deal](http://9gag.com/gag/a7oeenx)
- - 😝 [Definitely india](http://9gag.com/gag/aPAPZEn)
- - 💣 [BREAKING: An Air India flight was forced to return on a 10 hour trip to Chicago Illinois because their toilets were clogged with poop leaving hundreds Indians trapped on a plane with no restroom.](http://9gag.com/gag/aD2nDBN)
- - 😝 [Ruined an awesome beach view video](http://9gag.com/gag/agmO1M1)
- - 👉 [Do it!](http://9gag.com/gag/amoGA9j)<!-- MEMES:END -->
+ - 👉 [Ruined an awesome beach view video](http://9gag.com/gag/agmO1M1)<!-- MEMES:END -->
 
 ---
 

@@ -166,10 +166,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Definitely india](http://9gag.com/gag/aPAPZEn)
- - 😝 [If you know you know \ud83d\udc40](http://9gag.com/gag/ajPO79G)
- - 💣 [Harry Potter talking to Snape in the new HBO show](http://9gag.com/gag/aD2nYYK)
- - 😝 [Different sister](http://9gag.com/gag/aMVmK2R)
+ - 😝 [Harry Potter talking to Snape in the new HBO show](http://9gag.com/gag/aD2nYYK)
+ - 😝 [Let&#39;s party girl](http://9gag.com/gag/ayN4qXX)
+ - 💣 [`Rizz up.. who?!!` - Dad uses slang to destroy slang](http://9gag.com/gag/a87mAR3)
+ - 😝 [50/50](http://9gag.com/gag/aZZwD4W)
  - 👉 [BREAKING: An Air India flight was forced to return on a 10 hour trip to Chicago Illinois because their toilets were clogged with poop leaving hundreds Indians trapped on a plane with no restroom.](http://9gag.com/gag/aD2nDBN)<!-- MEMES:END -->
 
 ---

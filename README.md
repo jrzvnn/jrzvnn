@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [TikTok&amp;#8217;s mood music will tell teens to &amp;#8216;wind down&amp;#8217; after 10PM](https://www.theverge.com/news/627589/tiktok-wind-down-calming-music-teen-safety)
- - [Our Favorite Robot Vacuum and Mop Is $300 Off](https://www.wired.com/story/roborock-qrevo-s-deal-march-2025/)
- - [Review of the M3 Ultra Mac Studio with 512GB of unified memory: opens up new workflows on a ~$10K desktop, like running a quantized 4-bit version of DeepSeek R1 &lpar;Dave2D on YouTube&rpar;](http://www.techmeme.com/250311/p33#a250311p33)
- - [Sen. Lummis unveils the Bitcoin Act in the US Senate, with five Republican cosponsors, to codify a strategic Bitcoin reserve and let the US to buy up to 1M BTC &lpar;Sander Lutz/Decrypt&rpar;](http://www.techmeme.com/250311/p32#a250311p32)
- - [Elon Musk Has Wanted the Government Shutdown](https://www.wired.com/story/elon-musk-has-wanted-the-government-shut-down/)<!-- TECH:END -->
+ - [After tech companies like Amazon and Microsoft made huge bets on AI, the gadget boom that started with the launch of Alexa in 2014 has largely fizzled &lpar;Matt Day/Bloomberg&rpar;](http://www.techmeme.com/250311/p34#a250311p34)
+ - [Today only: Save $800 on this 14-inch MacBook Pro with 36GB RAM](https://appleinsider.com/articles/25/03/11/today-only-save-700-on-this-14-inch-macbook-pro-with-36gb-ram?utm_medium=rss)
+ - [Trump’s first 100 days: all the news affecting the tech industry](https://www.theverge.com/24348851/donald-trump-presidency-tech-science-news)
+ - [CFPB official tells judge he’s still not sure if agency will shut down](https://www.theverge.com/politics/627724/cfpb-adam-martinez-testimony-doge)
+ - [Apple seeds security updates for iOS 18.3.2, iPadOS 18.3.2, macOS 15.3.2, visionOS 2.3.2](https://appleinsider.com/articles/25/03/11/apple-seeds-security-updates-for-ios-1832-ipados-1832-macos-1532-visionos-232?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

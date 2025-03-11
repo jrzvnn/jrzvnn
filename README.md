@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Infinite Uptime, which uses AI and proprietary sensors to offer predictive maintenance solutions for factories, raised a $35M Series C led by Avataar Ventures &lpar;Jagmeet Singh/TechCrunch&rpar;](http://www.techmeme.com/250311/p3#a250311p3)
  - [Thailand&#39;s SEC approves Tether&#39;s USDT and Circle&#39;s USDC for exchange trading, with both available in Thailand on March 16, signaling growing stablecoin adoption &lpar;Liz Napolitano/Decrypt&rpar;](http://www.techmeme.com/250311/p2#a250311p2)
  - [ServiceNow says it plans to acquire agentic AI company Moveworks for $2.85B in its largest-ever acquisition, a cash and stock deal set to close in H2 2025 &lpar;Jaspreet Singh/Reuters&rpar;](http://www.techmeme.com/250311/p1#a250311p1)
- - [How to speed up new document creation by using templates on Mac](https://appleinsider.com/inside/iwork/tips/how-to-speed-up-new-document-creation-by-using-templates-on-mac?utm_medium=rss)
- - [Nothing Phone 3A and 3A Pro Are Fun, Flashy and Affordable](https://www.cnet.com/tech/mobile/nothing-phone-3a-and-3a-pro-are-fun-flashy-and-affordable/#ftag=CAD590a51e)
- - [I Got a Look at Samsung&#39;s New Affordable Galaxy A Phones at MWC 2025](https://www.cnet.com/tech/mobile/i-got-a-look-at-samsungs-new-affordable-galaxy-a-phones-at-mwc-2025/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Today&#39;s NYT Mini Crossword Answers for Tuesday, March 11](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-tuesday-march-11/#ftag=CAD590a51e)
+ - [How to speed up new document creation by using templates on Mac](https://appleinsider.com/inside/iwork/tips/how-to-speed-up-new-document-creation-by-using-templates-on-mac?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

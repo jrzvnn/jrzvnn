@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Ruined an awesome beach view video](http://9gag.com/gag/agmO1M1)
- - 😝 [Long Term Investments](http://9gag.com/gag/axyvWMp)
+ - 😝 [Welcome to Arizona](http://9gag.com/gag/aPAPgMw)
+ - 😝 [Apparently he was like an on set dad and always looked after the kids. Such a good actor](http://9gag.com/gag/awymmoy)
  - 💣 [On January 15, 2019, lone SAS operator Christian Craighead enters the Dusit Hotel in Nairobi, Kenya, in respond to a terrorist attack. This famous photograph was seen on social media and major news outlets around the world.](http://9gag.com/gag/aW4LG24)
- - 😝 [The perfect girl doesn&#39;t exi...](http://9gag.com/gag/a5QBQ1O)
- - 👉 [Do it!](http://9gag.com/gag/amoGA9j)<!-- MEMES:END -->
+ - 😝 [Disgustang](http://9gag.com/gag/aAyEQpd)
+ - 👉 [100 Harry Potters vs 1000000 Kermit the frogs](http://9gag.com/gag/aByLLvA)<!-- MEMES:END -->
 
 ---
 

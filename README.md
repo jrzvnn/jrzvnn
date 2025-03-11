@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The 33 Best Shows on Apple TV+ Right Now &lpar;March 2025&rpar;](https://www.wired.com/story/best-apple-tv-plus-shows/)
  - [Go Read This: The Verge’s favorite reads from all over the web](https://www.theverge.com/24188803/best-tech-reads-articles-books)
  - [All the smart home news, reviews, and gadgets you need to know about](https://www.theverge.com/24190824/smart-home-news-reviews-guides-gadgets)
  - [Trump’s first 100 days: all the news affecting the tech industry](https://www.theverge.com/24348851/donald-trump-presidency-tech-science-news)
- - [After tech companies like Amazon and Microsoft made huge bets on AI, the gadget boom that started with the launch of Alexa in 2014 has largely fizzled &lpar;Matt Day/Bloomberg&rpar;](http://www.techmeme.com/250311/p34#a250311p34)
- - [Today only: Save $800 on this 14-inch MacBook Pro with 36GB RAM](https://appleinsider.com/articles/25/03/11/today-only-save-700-on-this-14-inch-macbook-pro-with-36gb-ram?utm_medium=rss)<!-- TECH:END -->
+ - [After tech companies like Amazon and Microsoft made huge bets on AI, the gadget boom that started with the launch of Alexa in 2014 has largely fizzled &lpar;Matt Day/Bloomberg&rpar;](http://www.techmeme.com/250311/p34#a250311p34)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

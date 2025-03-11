@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [`Rizz up.. who?!!` - Dad uses slang to destroy slang](http://9gag.com/gag/a87mAR3)
+ - 😝 [G\u2019luck, bro.](http://9gag.com/gag/aAyEGEg)
  - 😝 [Warner Bros really hate money and their fans](http://9gag.com/gag/awymy81)
- - 💣 [Superpower by 2020](http://9gag.com/gag/an7ng5B)
- - 😝 [God damn it](http://9gag.com/gag/a4Pz1Gd)
- - 👉 [BREAKING: An Air India flight was forced to return on a 10 hour trip to Chicago Illinois because their toilets were clogged with poop leaving hundreds Indians trapped on a plane with no restroom.](http://9gag.com/gag/aD2nDBN)<!-- MEMES:END -->
+ - 💣 [Definitely india](http://9gag.com/gag/aPAPZEn)
+ - 😝 [Superpower by 2020](http://9gag.com/gag/an7ng5B)
+ - 👉 [Harry Potter talking to Snape in the new HBO show](http://9gag.com/gag/aD2nYYK)<!-- MEMES:END -->
 
 ---
 

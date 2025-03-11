@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Sources: Kirkland-based enterprise cybersecurity startup Chainguard is in talks to raise $350M led by Kleiner at a $3.5B valuation, up from $1.1B in July 2024 &lpar;Katie Roof/Bloomberg&rpar;](http://www.techmeme.com/250311/p7#a250311p7)
  - [Brompton G e-bike review: truth in advertising](https://www.theverge.com/reviews/626678/brompton-g-e-bike-most-versatile-multimodal-review)
  - [Today&#39;s NYT Connections: Sports Edition Hints and Answers for March 11, #169](https://www.cnet.com/tech/gaming/todays-nyt-connections-sports-edition-hints-and-answers-for-march-11-169/#ftag=CAD590a51e)
  - [Today&#39;s NYT Strands Hints, Answers and Help for March 11, #373](https://www.cnet.com/tech/gaming/todays-nyt-strands-hints-answers-and-help-for-march-11-373/#ftag=CAD590a51e)
- - [Today&#39;s NYT Connections Hints, Answers and Help for March 11, #639](https://www.cnet.com/tech/gaming/todays-nyt-connections-hints-answers-and-help-for-march-11-639/#ftag=CAD590a51e)
- - [Today&#39;s Wordle Hints and Answer for March 11, #1361](https://www.cnet.com/tech/gaming/todays-wordle-hints-and-answer-for-march-11-1361/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Today&#39;s NYT Connections Hints, Answers and Help for March 11, #639](https://www.cnet.com/tech/gaming/todays-nyt-connections-hints-answers-and-help-for-march-11-639/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

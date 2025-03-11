@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Ah, Hell No ...](http://9gag.com/gag/abAOO6O)
  - 😝 [Biggus dickus was famous there](http://9gag.com/gag/aoyVW02)
- - 💣 [Trump just posted a cinematic video of Black Lives Matter Plaza being RIPPED APART by crews outside the White House](http://9gag.com/gag/aKG9A4N)
- - 😝 [I got legless last night.](http://9gag.com/gag/a87mAmY)
- - 👉 [How to deal with scammers](http://9gag.com/gag/awym3Z1)<!-- MEMES:END -->
+ - 😝 [Trump just posted a cinematic video of Black Lives Matter Plaza being RIPPED APART by crews outside the White House](http://9gag.com/gag/aKG9A4N)
+ - 💣 [I got legless last night.](http://9gag.com/gag/a87mAmY)
+ - 😝 [How to deal with scammers](http://9gag.com/gag/awym3Z1)
+ - 👉 [This high school principal is a legend!](http://9gag.com/gag/azxP2NN)<!-- MEMES:END -->
 
 ---
 

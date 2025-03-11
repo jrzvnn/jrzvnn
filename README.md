@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [TP-Link Deco BE5000 review: whole-home mesh Wi-Fi 7 on a budget](https://appleinsider.com/articles/25/03/11/tp-link-deco-be5000-review-whole-home-mesh-wi-fi-7-on-a-budget?utm_medium=rss)
- - [Ford announces NACS charger integration for EV Routing in Apple Maps](https://appleinsider.com/articles/25/03/11/ford-announces-nacs-charger-integration-for-ev-routing-in-apple-maps?utm_medium=rss)
- - [The best instant cameras you can buy right now](https://www.theverge.com/23133103/best-instant-cameras-fujifilm-polaroid-kodak)
- - [Leaked video: Sony is working on a prototype AI-powered version of a PlayStation game character that can interact with players through voice prompts &lpar;Tom Warren/The Verge&rpar;](http://www.techmeme.com/250310/p27#a250310p27)
- - [Today&#39;s NYT Connections: Sports Edition Hints and Answers for March 10, #168](https://www.cnet.com/tech/gaming/todays-nyt-connections-sports-edition-hints-and-answers-for-march-10-168/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [A study of eight AI search engines found they provided incorrect citations of news articles in 60%+ of queries; Grok 3 answered 94% of the queries incorrectly &lpar;Columbia Journalism Review&rpar;](http://www.techmeme.com/250310/p28#a250310p28)
+ - [Today&#39;s NYT Connections: Sports Edition Hints and Answers for March 11, #169](https://www.cnet.com/tech/gaming/todays-nyt-connections-sports-edition-hints-and-answers-for-march-11-169/#ftag=CAD590a51e)
+ - [Today&#39;s Wordle Hints and Answer for March 11, #1361](https://www.cnet.com/tech/gaming/todays-wordle-hints-and-answer-for-march-11-1361/#ftag=CAD590a51e)
+ - [Amazon Boycott Organizer Urges Shoppers to &#39;Hold the Line&#39; Until Friday](https://www.cnet.com/tech/amazon-weeklong-boycott-organizer-urges-shoppers-to-hold-the-line-until-friday/#ftag=CAD590a51e)
+ - [TP-Link Deco BE5000 review: whole-home mesh Wi-Fi 7 on a budget](https://appleinsider.com/articles/25/03/11/tp-link-deco-be5000-review-whole-home-mesh-wi-fi-7-on-a-budget?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

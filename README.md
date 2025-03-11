@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [How to speed up new document creation by using templates on Mac](https://appleinsider.com/inside/iwork/tips/how-to-speed-up-new-document-creation-by-using-templates-on-mac?utm_medium=rss)
  - [A study of eight AI search engines found they provided incorrect citations of news articles in 60%+ of queries; Grok 3 answered 94% of the queries incorrectly &lpar;Columbia Journalism Review&rpar;](http://www.techmeme.com/250310/p28#a250310p28)
  - [Xiaomi 15 Ultra: My Review After 2 Weeks of Testing It Around Europe](https://www.cnet.com/tech/mobile/xiaomi-15-ultra-my-review-after-2-weeks-of-testing-it-around-europe/#ftag=CAD590a51e)
  - [TCL&#39;s 60 Phone Series Expands With Better Cameras, Bigger Batteries](https://www.cnet.com/tech/mobile/tcls-60-phone-series-expands-with-better-cameras-bigger-batteries/#ftag=CAD590a51e)
- - [Oppo Find N5 Review: A Remarkably Thin and Practical Foldable Phone](https://www.cnet.com/tech/mobile/oppo-find-n5-review-a-remarkably-thin-and-practical-foldable-phone/#ftag=CAD590a51e)
- - [Today&#39;s NYT Strands Hints, Answers and Help for March 11, #373](https://www.cnet.com/tech/gaming/todays-nyt-strands-hints-answers-and-help-for-march-11-373/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Oppo Find N5 Review: A Remarkably Thin and Practical Foldable Phone](https://www.cnet.com/tech/mobile/oppo-find-n5-review-a-remarkably-thin-and-practical-foldable-phone/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Meituan, Ele.me, and other Chinese food delivery companies plan to offer social security benefits to riders after JD&#39;s February move, amid government pressure &lpar;Financial Times&rpar;](http://www.techmeme.com/250311/p6#a250311p6)
- - [Cerebras, Groq, and Big Tech target AI inference to challenge Nvidia; Barclays sees inference capex surpassing training in two years, reaching $208.2B in 2026 &lpar;Tim Bradshaw/Financial Times&rpar;](http://www.techmeme.com/250311/p5#a250311p5)
- - [Seagate and other HDD makers bet on tech like heat-assisted magnetic recording to stay competitive; IDC expects data center HDD spending to hit $22B by 2028 &lpar;John Keilman/Wall Street Journal&rpar;](http://www.techmeme.com/250311/p4#a250311p4)
- - [Infinite Uptime, which uses AI and proprietary sensors to offer predictive maintenance solutions for factories, raised a $35M Series C led by Avataar Ventures &lpar;Jagmeet Singh/TechCrunch&rpar;](http://www.techmeme.com/250311/p3#a250311p3)
- - [Thailand&#39;s SEC approves Tether&#39;s USDT and Circle&#39;s USDC for exchange trading, with both available in Thailand on March 16, signaling growing stablecoin adoption &lpar;Liz Napolitano/Decrypt&rpar;](http://www.techmeme.com/250311/p2#a250311p2)<!-- TECH:END -->
+ - [Brompton G e-bike review: truth in advertising](https://www.theverge.com/reviews/626678/brompton-g-e-bike-most-versatile-multimodal-review)
+ - [Today&#39;s NYT Connections: Sports Edition Hints and Answers for March 11, #169](https://www.cnet.com/tech/gaming/todays-nyt-connections-sports-edition-hints-and-answers-for-march-11-169/#ftag=CAD590a51e)
+ - [Today&#39;s NYT Strands Hints, Answers and Help for March 11, #373](https://www.cnet.com/tech/gaming/todays-nyt-strands-hints-answers-and-help-for-march-11-373/#ftag=CAD590a51e)
+ - [Today&#39;s NYT Connections Hints, Answers and Help for March 11, #639](https://www.cnet.com/tech/gaming/todays-nyt-connections-hints-answers-and-help-for-march-11-639/#ftag=CAD590a51e)
+ - [Today&#39;s Wordle Hints and Answer for March 11, #1361](https://www.cnet.com/tech/gaming/todays-wordle-hints-and-answer-for-march-11-1361/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

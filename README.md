@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Lego CEO Niels Christiansen says the toymaker plans to make video games in-house, after 2024 revenue rose 13% YoY to ~$10B; its Fortnite tie-up has 87M players &lpar;Richard Milne/Financial Times&rpar;](http://www.techmeme.com/250311/p14#a250311p14)
  - [Celestial AI, which aims to use light to speed up data transfer inside servers, raised $250M led by Fidelity at a $2.5B valuation, taking its funding to $515M &lpar;Jane Lanhee Lee/Bloomberg&rpar;](http://www.techmeme.com/250311/p13#a250311p13)
  - [How to Turn a Live Boston Bruins Hockey Broadcast Into a Cartoon](https://www.wired.com/story/nhl-broadcast-overlays-boston-bruins/)
- - [As automation and robotics undergo a revolution, a call to action for the US and the West, which are missing the new labor economy that China is set to capture &lpar;Dylan Patel/SemiAnalysis&rpar;](http://www.techmeme.com/250311/p12#a250311p12)
- - [Sources: Meta is testing its first in-house AI training chip, a key milestone as it moves to design more of its own silicon and reduce its reliance on Nvidia &lpar;Reuters&rpar;](http://www.techmeme.com/250311/p11#a250311p11)
- - [Trump&#39;s call to scrap the &quot;horrible&quot; CHIPS Act causes concern among Republican lawmakers, who sought and received White House reassurances over the program &lpar;New York Times&rpar;](http://www.techmeme.com/250311/p10#a250311p10)<!-- TECH:END -->
+ - [Best Smart Speakers for 2025: Upgrade Your Sound](https://www.cnet.com/home/smart-home/best-smart-speaker/#ftag=CAD590a51e)
+ - [Best Internet Providers for Streaming](https://www.cnet.com/home/internet/best-internet-providers-for-streaming/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -161,7 +161,7 @@ R                        1 repo              ░░░░░░░░░░░�
  - [How to Use Signal Encrypted Messaging](https://www.wired.com/story/signal-tips-private-messaging-encryption/)
  - [Moft’s new origami case elevates the iPad for improved ergonomics](https://www.theverge.com/news/628261/moft-dynamic-folio-apple-ipad-tablet-case-folding-origami)
  - [Home Hub may not ship until iOS 19 launches](https://appleinsider.com/articles/25/03/12/home-hub-may-not-ship-until-ios-19-launches?utm_medium=rss)
- - [Microsoft isn’t launching its Xbox handheld this year, but Asus might be](https://www.theverge.com/notepad-microsoft-newsletter/628073/microsoft-xbox-handheld-project-kennan-notepad)<!-- TECH:END -->
+ - [OpenAI&#39;s New Creative AI Model Writes Haunting Story About Life After Grief](https://www.cnet.com/tech/services-and-software/openais-new-creative-ai-model-writes-haunting-story-about-life-after-grief/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Amazon, Google, and Meta join a World Nuclear Association statement, alongside Occidental, Dow, and others, to triple capacity by 2050; Microsoft didn&#39;t sign &lpar;Financial Times&rpar;](http://www.techmeme.com/250312/p18#a250312p18)
+ - [New iPad Air is in store and shipping to early buyers](https://appleinsider.com/articles/25/03/12/new-ipad-air-is-in-store-and-shipping-to-early-buyers?utm_medium=rss)
  - [Google is fixing broken incoming images and videos in Messages](https://www.theverge.com/news/628006/google-messages-media-issues-update-fix)
  - [Best Home Blood Pressure Monitors, FDA Approved](https://www.cnet.com/health/medical/best-blood-pressure-monitor/#ftag=CAD590a51e)
- - [A profile of Caroline Crenshaw, the lone Democratic SEC Commissioner, who is offering dissenting views as the regulator rolls back Biden-era crypto enforcement &lpar;Matthew Goldstein/New York Times&rpar;](http://www.techmeme.com/250312/p17#a250312p17)
- - [&#39;Reacher&#39; Season 3 Release Schedule: When to Watch Episode 6 on Prime Video](https://www.cnet.com/tech/services-and-software/reacher-season-3-release-schedule-when-to-watch-episode-6-on-prime-video/#ftag=CAD590a51e)
- - [How to Watch March Madness 2025](https://www.wired.com/story/how-to-watch-march-madness/)<!-- TECH:END -->
+ - [A profile of Caroline Crenshaw, the lone Democratic SEC Commissioner, who is offering dissenting views as the regulator rolls back Biden-era crypto enforcement &lpar;Matthew Goldstein/New York Times&rpar;](http://www.techmeme.com/250312/p17#a250312p17)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

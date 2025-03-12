@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Sakana CEO David Ha says its AI CUDA Engineer &quot;cheated&quot; to speed up training by 100x and &quot;preliminary results&quot; show it &quot;will be closer to the 10% to 100% level&quot; &lpar;Nikkei Asia&rpar;](http://www.techmeme.com/250312/p15#a250312p15)
+ - [Chinese Companies Rush to Put DeepSeek in Everything](https://www.wired.com/story/deepseek-china-nationalism/)
  - [After Palantir&#39;s stock jumped 350%+ in 2024, founder Alex Karp has sold $1.9B in shares since January 2024; VerityData says his PLTR holdings are worth $12.8B &lpar;Financial Times&rpar;](http://www.techmeme.com/250312/p14#a250312p14)
  - [MacBook Air with M4 &amp; Mac Studio with M4 Max, M3 Ultra have arrived](https://appleinsider.com/articles/25/03/12/macbook-air-with-m4-mac-studio-with-m4-max-m3-ultra-have-arrived?utm_medium=rss)
- - [One Photographer’s Quest to Redefine the Shark](https://www.wired.com/story/one-photographers-quest-to-redefine-the-shark-gerardo-del-villar/)
- - [BeReal CEO Aymeric Roffe says Japan is now the photo sharing app&#39;s second-largest market with over 4.5M MAUs, 83% aged 14 to 27; BeReal has 40M users globally &lpar;Chihiro Ishikawa/Nikkei Asia&rpar;](http://www.techmeme.com/250312/p13#a250312p13)
- - [Thoughts on using LLMs for coding, which can often be difficult and unintuitive, and why &quot;vibe coding&quot; is a fantastic way to explore the capabilities of LLMs &lpar;Simon Willison/Simon Willison&#39;s Weblog&rpar;](http://www.techmeme.com/250312/p12#a250312p12)<!-- TECH:END -->
+ - [Today&#39;s NYT Connections: Sports Edition Hints and Answers for March 12, #170](https://www.cnet.com/tech/gaming/todays-nyt-connections-sports-edition-hints-and-answers-for-march-12-170/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

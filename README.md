@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [How future wars will be fought](http://9gag.com/gag/aByL631)
- - 😝 [Sorry, no potato](http://9gag.com/gag/a9yv5L0)
- - 💣 [Crashing in a 1950s car vs. a modern car](http://9gag.com/gag/aAyEQXZ)
+ - 😝 [Chinese AI agent running 50 social media accounts 24/7 automatically](http://9gag.com/gag/ayN43oy)
+ - 😝 [This aged well](http://9gag.com/gag/aAyE4xR)
+ - 💣 [First time I hear a house crying](http://9gag.com/gag/a9yv8o1)
  - 😝 [\ud83d\udd25 Flex your killer skills and dominate the battlefield in Mecha BREAK!](http://9gag.com/gag/aO84e3y)
- - 👉 [Relax, he\u2019s just my gymnastics coach](http://9gag.com/gag/a87mDwZ)<!-- MEMES:END -->
+ - 👉 [Crashing in a 1950s car vs. a modern car](http://9gag.com/gag/aAyEQXZ)<!-- MEMES:END -->
 
 ---
 

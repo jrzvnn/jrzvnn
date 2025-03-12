@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Sorry, no potato](http://9gag.com/gag/a9yv5L0)
- - 😝 [You know...for kids!](http://9gag.com/gag/aMVmVW1)
- - 💣 [Goat trying to commit sudoku](http://9gag.com/gag/aE0VARO)
- - 😝 [True colors!](http://9gag.com/gag/ayN4NdW)
- - 👉 [2WD vs 4WD](http://9gag.com/gag/adBO1LN)<!-- MEMES:END -->
+ - 😝 [End of the World Kinda View](http://9gag.com/gag/azxP5bN)
+ - 😝 [Animator did this ON PURPOSE for sure](http://9gag.com/gag/aAyEypL)
+ - 💣 [Long Term Investments](http://9gag.com/gag/axyvWMp)
+ - 😝 [Ah, Hell No ...](http://9gag.com/gag/abAOO6O)
+ - 👉 [Goat trying to commit sudoku](http://9gag.com/gag/aE0VARO)<!-- MEMES:END -->
 
 ---
 

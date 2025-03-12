@@ -166,9 +166,9 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [This aged well](http://9gag.com/gag/aAyE4xR)
- - 😝 [100 Harry Potters vs 1000000 Kermit the frogs](http://9gag.com/gag/aByLLvA)
- - 💣 [Ah, Hell No ...](http://9gag.com/gag/abAOO6O)
+ - 😝 [*Looks at the thumb* Story checks out](http://9gag.com/gag/aXPNN8z)
+ - 😝 [What happens when you dont download from fitgirl](http://9gag.com/gag/aVvEKEy)
+ - 💣 [Yes](http://9gag.com/gag/aO84ZQ6)
  - 😝 [\ud83d\udd25 Flex your killer skills and dominate the battlefield in Mecha BREAK!](http://9gag.com/gag/aO84e3y)
  - 👉 [If you don&#39;t pay you don&#39;t get the bridge](http://9gag.com/gag/amoGxg4)<!-- MEMES:END -->
 

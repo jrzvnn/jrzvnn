@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [In its final decision report, the UK CMA finds that Apple and Google&#39;s mobile browser duopoly is &quot;holding back innovation&quot;, but offers no enforcement action &lpar;Natasha Lomas/TechCrunch&rpar;](http://www.techmeme.com/250312/p39#a250312p39)
  - [The best Android phones](https://www.theverge.com/23674658/best-android-phone)
  - [Meta is trying to ‘offload’ kids safety onto app stores with new bills, Google says](https://www.theverge.com/news/628583/google-meta-app-store-age-verification-kids-ssafety-utah)
  - [Sources: Supabase, which bills itself as an open-source alternative to Google&#39;s Firebase, is raising $100M+ in a round led by Accel, valuing the company at ~$2B &lpar;Bloomberg&rpar;](http://www.techmeme.com/250312/p38#a250312p38)
- - [UK investigation says Apple and Google are ‘holding back’ mobile browsers](https://www.theverge.com/news/628472/apple-safari-ios-google-android-chrome-cma-competition)
- - [Indian police arrest Aleksej Besciokov, the co-founder of Garantex, a Russian crypto exchange sanctioned by the EU and the US, at the request of US authorities &lpar;TechCrunch&rpar;](http://www.techmeme.com/250312/p37#a250312p37)<!-- TECH:END -->
+ - [UK investigation says Apple and Google are ‘holding back’ mobile browsers](https://www.theverge.com/news/628472/apple-safari-ios-google-android-chrome-cma-competition)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

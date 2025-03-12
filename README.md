@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Samsung launches $10,000 bundle of eight big TVs](https://www.theverge.com/news/628295/samsung-buzzer-beater-bundle-neo-qled)
- - [Snapchat introduces AI video Lenses, powered by Snap&#39;s in-house generative video model, available to subscribers of the $16/month Snapchat Platinum tier &lpar;Aisha Malik/TechCrunch&rpar;](http://www.techmeme.com/250312/p28#a250312p28)
- - [Sonos has canceled its streaming video player](https://www.theverge.com/tech/628297/sonos-pinewood-streaming-box-canceled)
- - [How a Government Shutdown Would Help Elon Musk](https://www.wired.com/story/uncanny-valley-podcast-elon-musk-government-shutdown/)
- - [Trump’s first 100 days: all the news affecting the tech industry](https://www.theverge.com/24348851/donald-trump-presidency-tech-science-news)<!-- TECH:END -->
+ - [All the smart home news, reviews, and gadgets you need to know about](https://www.theverge.com/24190824/smart-home-news-reviews-guides-gadgets)
+ - [Trump’s first 100 days: all the news affecting the tech industry](https://www.theverge.com/24348851/donald-trump-presidency-tech-science-news)
+ - [Judge says she’s leaning toward temporarily saving the CFPB](https://www.theverge.com/news/628327/cfpb-nteu-vought-shut-down)
+ - [The FCC is creating a security council to bolster US defenses against cyberattacks and help it stay ahead of China in critical technologies, such as AI and 5G &lpar;Demetri Sevastopulo/Financial Times&rpar;](http://www.techmeme.com/250312/p30#a250312p30)
+ - [Apple battles UK in hidden high court case over iCloud encryption](https://appleinsider.com/articles/25/03/12/apple-battles-uk-in-hidden-high-court-case-over-icloud-encryption?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Ask 9gag](http://9gag.com/gag/awymZpx)
- - 😝 [Long Term Investments](http://9gag.com/gag/axyvWMp)
- - 💣 [Let&#39;s party girl](http://9gag.com/gag/ayN4qXX)
- - 😝 [If you know you know \ud83d\udc40](http://9gag.com/gag/ajPO79G)
- - 👉 [Ah, Hell No ...](http://9gag.com/gag/abAOO6O)<!-- MEMES:END -->
+ - 😝 [This high school principal is a legend!](http://9gag.com/gag/azxP2NN)
+ - 😝 [Squirrel hears thunder and clutches his heart.](http://9gag.com/gag/a4PzzgA)
+ - 💣 [Ruined an awesome beach view video](http://9gag.com/gag/agmO1M1)
+ - 😝 [Daily dose of stand up comedy, enjoy!](http://9gag.com/gag/aE0VVjM)
+ - 👉 [Nostalgic vibes](http://9gag.com/gag/a5QBB6o)<!-- MEMES:END -->
 
 ---
 

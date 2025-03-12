@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [If you know you know \ud83d\udc40](http://9gag.com/gag/ajPO79G)
- - 😝 [*Looks at the thumb* Story checks out](http://9gag.com/gag/aXPNN8z)
- - 💣 [This meme still gets me every time.](http://9gag.com/gag/ae9OZNm)
+ - 😝 [Tired of playing what you want to hear..](http://9gag.com/gag/aAyEEp2)
+ - 😝 [Sorry, no potato](http://9gag.com/gag/a9yv5L0)
+ - 💣 [Magnus Schevin, Athletic legend. Also known as `Sportacus`](http://9gag.com/gag/aVvEm4v)
  - 😝 [\ud83d\udd25 Flex your killer skills and dominate the battlefield in Mecha BREAK!](http://9gag.com/gag/aO84e3y)
- - 👉 [First time I hear a house crying](http://9gag.com/gag/a9yv8o1)<!-- MEMES:END -->
+ - 👉 [Apparently he was like an on set dad and always looked after the kids. Such a good actor](http://9gag.com/gag/awymmoy)<!-- MEMES:END -->
 
 ---
 

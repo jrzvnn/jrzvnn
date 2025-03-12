@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Home Hub may not ship until iOS 19 launches](https://appleinsider.com/articles/25/03/12/home-hub-may-not-ship-until-ios-19-launches?utm_medium=rss)
+ - [Microsoft isn’t launching its Xbox handheld this year, but Asus might be](https://www.theverge.com/notepad-microsoft-newsletter/628073/microsoft-xbox-handheld-project-kennan-notepad)
+ - [The Violent Rise of ‘No Lives Matter’](https://www.wired.com/story/no-lives-matter-764-violence/)
  - [The US FTC asks a judge to delay its case accusing Amazon of deceptive practices with Amazon Prime, citing staffing shortfalls &lpar;Annie Palmer/CNBC&rpar;](http://www.techmeme.com/250312/p27#a250312p27)
- - [Donald Trump Bought a $90,000 Tesla With 37 Recall Notices Against It](https://www.wired.com/story/donald-trump-bought-a-dollar90000-tesla-with-37-recall-notices-against-it/)
- - [Poker Face season 2 is coming to Peacock this May](https://www.theverge.com/news/628186/poker-face-season-2-trailer-date-peacock)
- - [Apple&#39;s lowest-selling iPhones still crush rival premium flagships](https://appleinsider.com/articles/25/03/12/apples-lowest-selling-iphones-still-crush-rival-premium-flagships?utm_medium=rss)
- - [UK says Apple stifles browser innovation, but chickens out of imposing regulation](https://appleinsider.com/articles/25/03/12/uk-says-apple-stifles-browser-innovation-but-chickens-out-of-imposing-regulation?utm_medium=rss)<!-- TECH:END -->
+ - [Donald Trump Bought a $90,000 Tesla With 37 Recall Notices Against It](https://www.wired.com/story/donald-trump-bought-a-dollar90000-tesla-with-37-recall-notices-against-it/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

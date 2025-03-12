@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [10 Best Android Phones of 2025, Tested and Reviewed](https://www.wired.com/gallery/best-android-phones/)
+ - [All this bad AI is wrecking a whole generation of gadgets](https://www.theverge.com/gadgets/628039/bad-ai-gadgets-siri-alexa)
  - [Don&#39;t wait to update: iOS 18.3.2 fixes an actively exploited issue](https://appleinsider.com/articles/25/03/11/dont-wait-to-update-ios-1832-fixes-an-actively-exploited-issue?utm_medium=rss)
  - [Pokémon with guns? All the latest on viral gaming hit Palworld](https://www.theverge.com/24048972/palworld-news-trailers)
- - [Roomba maker iRobot warns of &quot;substantial doubt&quot; over its ability to continue operating, after Amazon abandoned a $1B+ takeover in January 2024; IRBT drops 35%+ &lpar;Bloomberg&rpar;](http://www.techmeme.com/250312/p23#a250312p23)
- - [All the smart home news, reviews, and gadgets you need to know about](https://www.theverge.com/24190824/smart-home-news-reviews-guides-gadgets)
- - [iRobot tells investors its future is in doubt](https://www.theverge.com/news/628050/irobot-roomba-future-in-doubt)<!-- TECH:END -->
+ - [Roomba maker iRobot warns of &quot;substantial doubt&quot; over its ability to continue operating, after Amazon abandoned a $1B+ takeover in January 2024; IRBT drops 35%+ &lpar;Bloomberg&rpar;](http://www.techmeme.com/250312/p23#a250312p23)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

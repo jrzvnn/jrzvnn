@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [I AM mentally that old man.](http://9gag.com/gag/aqy88nZ)
- - 😝 [Squirrel hears thunder and clutches his heart.](http://9gag.com/gag/a4PzzgA)
- - 💣 [Ruined an awesome beach view video](http://9gag.com/gag/agmO1M1)
- - 😝 [Daily dose of stand up comedy, enjoy!](http://9gag.com/gag/aE0VVjM)
- - 👉 [Nostalgic vibes](http://9gag.com/gag/a5QBB6o)<!-- MEMES:END -->
+ - 😝 [Goat trying to commit sudoku](http://9gag.com/gag/aE0VARO)
+ - 😝 [Chinese AI agent running 50 social media accounts 24/7 automatically](http://9gag.com/gag/ayN43oy)
+ - 💣 [Og posts against propaganda #21](http://9gag.com/gag/aByLyXP)
+ - 😝 [What I would&#39;ve done.](http://9gag.com/gag/aW4LGRd)
+ - 👉 [100 Harry Potters vs 1000000 Kermit the frogs](http://9gag.com/gag/aByLLvA)<!-- MEMES:END -->
 
 ---
 

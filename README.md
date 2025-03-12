@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [Damn.. that Hurts ...](http://9gag.com/gag/a9yv5zZ)
  - 😝 [Relax, he\u2019s just my gymnastics coach](http://9gag.com/gag/a87mDwZ)
- - 😝 [Goat trying to commit sudoku](http://9gag.com/gag/aE0VARO)
- - 💣 [Long Term Investments](http://9gag.com/gag/axyvWMp)
+ - 💣 [Goat trying to commit sudoku](http://9gag.com/gag/aE0VARO)
  - 😝 [\ud83d\udd25 Flex your killer skills and dominate the battlefield in Mecha BREAK!](http://9gag.com/gag/aO84e3y)
- - 👉 [*Looks at the thumb* Story checks out](http://9gag.com/gag/aXPNN8z)<!-- MEMES:END -->
+ - 👉 [The art of the deal](http://9gag.com/gag/a7oeenx)<!-- MEMES:END -->
 
 ---
 

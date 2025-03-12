@@ -167,10 +167,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [Goat trying to commit sudoku](http://9gag.com/gag/aE0VARO)
- - 😝 [Chinese AI agent running 50 social media accounts 24/7 automatically](http://9gag.com/gag/ayN43oy)
- - 💣 [Og posts against propaganda #21](http://9gag.com/gag/aByLyXP)
- - 😝 [What I would&#39;ve done.](http://9gag.com/gag/aW4LGRd)
- - 👉 [100 Harry Potters vs 1000000 Kermit the frogs](http://9gag.com/gag/aByLLvA)<!-- MEMES:END -->
+ - 😝 [Woman yanks bag of toys from kid](http://9gag.com/gag/aLnenBP)
+ - 💣 [What I would&#39;ve done.](http://9gag.com/gag/aW4LGRd)
+ - 😝 [I think you might need this spell](http://9gag.com/gag/adBOOVQ)
+ - 👉 [This meme still gets me every time.](http://9gag.com/gag/ae9OZNm)<!-- MEMES:END -->
 
 ---
 

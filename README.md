@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [NASA&amp;#8217;s SpaceX Crew-10 mission is launching today to rescue stranded astronauts](https://www.theverge.com/news/628311/nasa-crew-10-mission-starliner-astronauts-return-spacex)
  - [Trump’s first 100 days: all the news affecting the tech industry](https://www.theverge.com/24348851/donald-trump-presidency-tech-science-news)
  - [FTC asks to delay Amazon Prime deceptive practices trial](https://www.theverge.com/news/628418/ftc-amazon-prime-deceptive-practices-delay-trial)
  - [NordVPN review: An extensive VPN privacy package](https://appleinsider.com/articles/25/03/12/nordvpn-review-an-extensive-vpn-privacy-package?utm_medium=rss)
- - [Food delivery startup Wonder acquires the media company Tastemade, sources say for around $90M, the latest step in its effort to create a mealtime &quot;super app&quot; &lpar;Katie Deighton/Wall Street Journal&rpar;](http://www.techmeme.com/250312/p32#a250312p32)
- - [Sources: Sonos has abandoned plans to release a streaming video player, which was set to be the company&#39;s major hardware launch in 2025 &lpar;Chris Welch/The Verge&rpar;](http://www.techmeme.com/250312/p31#a250312p31)<!-- TECH:END -->
+ - [Food delivery startup Wonder acquires the media company Tastemade, sources say for around $90M, the latest step in its effort to create a mealtime &quot;super app&quot; &lpar;Katie Deighton/Wall Street Journal&rpar;](http://www.techmeme.com/250312/p32#a250312p32)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

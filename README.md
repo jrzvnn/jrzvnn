@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Be honest](http://9gag.com/gag/aMVmdA1)
- - 😝 [Long Term Investments](http://9gag.com/gag/axyvWMp)
- - 💣 [Perfectly normal](http://9gag.com/gag/axyv3vp)
+ - 😝 [Brave bad boy](http://9gag.com/gag/a7oe0Yq)
+ - 😝 [This meme still gets me every time.](http://9gag.com/gag/ae9OZNm)
+ - 💣 [Goat trying to commit sudoku](http://9gag.com/gag/aE0VARO)
  - 😝 [\ud83d\udd25 Flex your killer skills and dominate the battlefield in Mecha BREAK!](http://9gag.com/gag/aO84e3y)
- - 👉 [100 Harry Potters vs 1000000 Kermit the frogs](http://9gag.com/gag/aByLLvA)<!-- MEMES:END -->
+ - 👉 [Perfectly normal](http://9gag.com/gag/axyv3vp)<!-- MEMES:END -->
 
 ---
 

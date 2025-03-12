@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Meltdown at US House hearing after chairman called trans Democratic rep &#39;Mr&#39;](http://9gag.com/gag/aRBZM47)
- - 😝 [Tired of playing what you want to hear..](http://9gag.com/gag/aAyEEp2)
- - 💣 [Perfectly normal](http://9gag.com/gag/axyv3vp)
- - 😝 [This meme still gets me every time.](http://9gag.com/gag/ae9OZNm)
- - 👉 [Let&#39;s party girl](http://9gag.com/gag/ayN4qXX)<!-- MEMES:END -->
+ - 😝 [Title](http://9gag.com/gag/aqy86g7)
+ - 😝 [Daily dose of stand up comedy, enjoy!](http://9gag.com/gag/aE0VVjM)
+ - 💣 [Ruined an awesome beach view video](http://9gag.com/gag/agmO1M1)
+ - 😝 [Welcome to London. So much strength.](http://9gag.com/gag/aKG9vvZ)
+ - 👉 [Nostalgic vibes](http://9gag.com/gag/a5QBB6o)<!-- MEMES:END -->
 
 ---
 

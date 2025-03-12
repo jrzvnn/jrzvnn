@@ -167,10 +167,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [This aged well](http://9gag.com/gag/aAyE4xR)
- - 😝 [\udb40\uddc3\udb40\uddc3\udb40\uddc3 \udb40\uddc3\udb40\uddc3\udb40\uddc3](http://9gag.com/gag/aQzQQBq)
- - 💣 [What happens when you dont download from fitgirl](http://9gag.com/gag/aVvEKEy)
+ - 😝 [100 Harry Potters vs 1000000 Kermit the frogs](http://9gag.com/gag/aByLLvA)
+ - 💣 [Ah, Hell No ...](http://9gag.com/gag/abAOO6O)
  - 😝 [\ud83d\udd25 Flex your killer skills and dominate the battlefield in Mecha BREAK!](http://9gag.com/gag/aO84e3y)
- - 👉 [Magnus Schevin, Athletic legend. Also known as `Sportacus`](http://9gag.com/gag/aVvEm4v)<!-- MEMES:END -->
+ - 👉 [If you don&#39;t pay you don&#39;t get the bridge](http://9gag.com/gag/amoGxg4)<!-- MEMES:END -->
 
 ---
 

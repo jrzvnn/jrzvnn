@@ -158,10 +158,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- TECH:START -->
  - [MacBook Air with M4 &amp; Mac Studio with M4 Max, M3 Ultra have arrived](https://appleinsider.com/articles/25/03/12/macbook-air-with-m4-mac-studio-with-m4-max-m3-ultra-have-arrived?utm_medium=rss)
- - [One Photographer’s Quest to Redefine the Shark](https://www.wired.com/story/one-photographers-quest-to-redefine-the-shark-gerardo-del-villar/)
- - [BeReal CEO Aymeric Roffe says Japan is now the photo sharing app&#39;s second-largest market with over 4.5M MAUs, 83% aged 14 to 27; BeReal has 40M users globally &lpar;Chihiro Ishikawa/Nikkei Asia&rpar;](http://www.techmeme.com/250312/p13#a250312p13)
- - [Thoughts on using LLMs for coding, which can often be difficult and unintuitive, and why &quot;vibe coding&quot; is a fantastic way to explore the capabilities of LLMs &lpar;Simon Willison/Simon Willison&#39;s Weblog&rpar;](http://www.techmeme.com/250312/p12#a250312p12)
- - [Google unveils Gemma 3, the &quot;world&#39;s best single-accelerator model&quot;, running on a single GPU, in 1B, 4B, 12B, and 27B sizes, and says it outperforms Llama-405B &lpar;Abner Li/9to5Google&rpar;](http://www.techmeme.com/250312/p11#a250312p11)<!-- TECH:END -->
+ - [Today&#39;s NYT Connections: Sports Edition Hints and Answers for March 12, #170](https://www.cnet.com/tech/gaming/todays-nyt-connections-sports-edition-hints-and-answers-for-march-12-170/#ftag=CAD590a51e)
+ - [Today&#39;s NYT Connections Hints, Answers and Help for March 12, #640](https://www.cnet.com/tech/gaming/todays-nyt-connections-hints-answers-and-help-for-march-12-640/#ftag=CAD590a51e)
+ - [Today&#39;s Wordle Hints, Answer and Help for March 12, #1362](https://www.cnet.com/tech/gaming/todays-wordle-hints-answer-and-help-for-march-12-1362/#ftag=CAD590a51e)
+ - [One Photographer’s Quest to Redefine the Shark](https://www.wired.com/story/one-photographers-quest-to-redefine-the-shark-gerardo-del-villar/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [This high school principal is a legend!](http://9gag.com/gag/azxP2NN)
- - 😝 [Squirrel hears thunder and clutches his heart.](http://9gag.com/gag/a4PzzgA)
- - 💣 [Ruined an awesome beach view video](http://9gag.com/gag/agmO1M1)
- - 😝 [Daily dose of stand up comedy, enjoy!](http://9gag.com/gag/aE0VVjM)
- - 👉 [Nostalgic vibes](http://9gag.com/gag/a5QBB6o)<!-- MEMES:END -->
+ - 😝 [Sorry, no potato](http://9gag.com/gag/a9yv5L0)
+ - 😝 [You know...for kids!](http://9gag.com/gag/aMVmVW1)
+ - 💣 [Goat trying to commit sudoku](http://9gag.com/gag/aE0VARO)
+ - 😝 [True colors!](http://9gag.com/gag/ayN4NdW)
+ - 👉 [2WD vs 4WD](http://9gag.com/gag/adBO1LN)<!-- MEMES:END -->
 
 ---
 

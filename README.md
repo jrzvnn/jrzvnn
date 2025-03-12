@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Mike Verdu, who joined Netflix in 2021 to launch its game offering and took on a new role as VP of Generative AI for games four months ago, has left the company &lpar;Stephen Totilo/Game File&rpar;](http://www.techmeme.com/250311/p45#a250311p45)
+ - [Google updates Chrome extension policy to ban affiliate link injection without user action or benefit, after allegations Honey stole creators&#39; affiliate revenue &lpar;Jay Peters/The Verge&rpar;](http://www.techmeme.com/250311/p44#a250311p44)
  - [Cartesia, which is developing real-time generative AI models for voice AI, raised a $64M Series A led by Kleiner Perkins, taking its total funding to $91M &lpar;Allie Garfinkle/Fortune&rpar;](http://www.techmeme.com/250311/p43#a250311p43)
- - [Bluetti Elite 200 review: Great battery life, but a great weight too](https://appleinsider.com/articles/25/03/12/bluetti-elite-200-review-great-battery-life-but-a-great-weight-too?utm_medium=rss)
- - [All the news about Netflix’s gaming efforts](https://www.theverge.com/22772589/netflix-video-games-app-news-updates)
- - [Honey: all the news about PayPal’s alleged scam coupon app](https://www.theverge.com/24343913/paypal-honey-megalag-coupon-scam-affiliate-fees)
- - [Google changes Chrome extension policies following the Honey link scandal](https://www.theverge.com/news/627940/google-chrome-extensions-paypal-honey-affiliate)<!-- TECH:END -->
+ - [Best Internet Providers in Annapolis, Maryland](https://www.cnet.com/home/internet/best-internet-providers-in-annapolis-md/#ftag=CAD590a51e)
+ - [Bluetti Elite 200 review: Great battery life, but a great weight too](https://appleinsider.com/articles/25/03/12/bluetti-elite-200-review-great-battery-life-but-a-great-weight-too?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

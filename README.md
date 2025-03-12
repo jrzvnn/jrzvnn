@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [OpusClip, which offers a multimodal AI tool to simplify short-form video editing for creators, raised $20M led by SoftBank&#39;s Vision Fund 2 at a $215M valuation &lpar;Riddhi Kanetkar/Business Insider&rpar;](http://www.techmeme.com/250312/p2#a250312p2)
  - [Spain&#39;s government approves a bill, pending lower house assent, imposing fines of up to &amp;euro;35M or 7% of annual turnover on firms not labeling AI-generated content &lpar;David Latona/Reuters&rpar;](http://www.techmeme.com/250312/p1#a250312p1)
- - [Don&#39;t wait to update: iOS 18.3.2 fixes an actively exploited issue](https://appleinsider.com/articles/25/03/11/dont-wait-to-update-ios-1832-fixes-an-actively-exploited-issue?utm_medium=rss)
- - [Today&#39;s NYT Mini Crossword Answers for Wednesday, March 12](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-wednesday-march-12/#ftag=CAD590a51e)
- - [How to disable AI-Driven Search and Spotlight in macOS Sequoia](https://appleinsider.com/inside/macos-sequoia/tips/how-to-disable-ai-driven-search-and-spotlight-in-macos-sequoia?utm_medium=rss)
- - [Mike Verdu, who joined Netflix in 2021 to launch its game offering and took on a new role as VP of Generative AI for games four months ago, has left the company &lpar;Stephen Totilo/Game File&rpar;](http://www.techmeme.com/250311/p45#a250311p45)<!-- TECH:END -->
+ - [CNET Survey: 44% of Filers Have Tax Anxiety -- Led by Gen Z and Millennials](https://www.cnet.com/personal-finance/taxes/tax-survey-2025/#ftag=CAD590a51e)
+ - [Best AirPods Max Accessories for 2025](https://www.cnet.com/tech/mobile/best-airpods-max-accessories/#ftag=CAD590a51e)
+ - [Don&#39;t wait to update: iOS 18.3.2 fixes an actively exploited issue](https://appleinsider.com/articles/25/03/11/dont-wait-to-update-ios-1832-fixes-an-actively-exploited-issue?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

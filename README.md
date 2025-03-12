@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [First time I hear a house crying](http://9gag.com/gag/a9yv8o1)
+ - 😝 [Simpler times](http://9gag.com/gag/a0eVnmO)
  - 😝 [If you don&#39;t pay you don&#39;t get the bridge](http://9gag.com/gag/amoGxg4)
- - 💣 [I am once again asking for a cursed images](http://9gag.com/gag/adBOvrN)
+ - 💣 [*Looks at the thumb* Story checks out](http://9gag.com/gag/aXPNN8z)
  - 😝 [\ud83d\udd25 Flex your killer skills and dominate the battlefield in Mecha BREAK!](http://9gag.com/gag/aO84e3y)
- - 👉 [Turkish airlines](http://9gag.com/gag/a0eV1QQ)<!-- MEMES:END -->
+ - 👉 [Yes](http://9gag.com/gag/aO84ZQ6)<!-- MEMES:END -->
 
 ---
 

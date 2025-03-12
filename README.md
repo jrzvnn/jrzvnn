@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [*Looks at the thumb* Story checks out](http://9gag.com/gag/aXPNN8z)
- - 😝 [Long Term Investments](http://9gag.com/gag/axyvWMp)
- - 💣 [Found this under the stove.. What should I Call this cute fella?](http://9gag.com/gag/a9yvvb1)
+ - 😝 [Ruined an awesome beach view video](http://9gag.com/gag/agmO1M1)
+ - 😝 [Title](http://9gag.com/gag/aqy86g7)
+ - 💣 [Can&#39;t do it any different](http://9gag.com/gag/a1mD51P)
  - 😝 [\ud83d\udd25 Flex your killer skills and dominate the battlefield in Mecha BREAK!](http://9gag.com/gag/aO84e3y)
- - 👉 [Be honest](http://9gag.com/gag/aMVmdA1)<!-- MEMES:END -->
+ - 👉 [Nostalgic vibes](http://9gag.com/gag/a5QBB6o)<!-- MEMES:END -->
 
 ---
 

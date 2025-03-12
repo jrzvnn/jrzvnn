@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [A few tries to crack a password](http://9gag.com/gag/aZZwjjQ)
- - 😝 [Relax, he\u2019s just my gymnastics coach](http://9gag.com/gag/a87mDwZ)
- - 💣 [The art of the deal](http://9gag.com/gag/a7oeenx)
+ - 😝 [This meme still gets me every time.](http://9gag.com/gag/ae9OZNm)
+ - 😝 [Men only want one thing and it&#39;s f**king disgusting.](http://9gag.com/gag/aAyE2dp)
+ - 💣 [First time I hear a house crying](http://9gag.com/gag/a9yv8o1)
  - 😝 [\ud83d\udd25 Flex your killer skills and dominate the battlefield in Mecha BREAK!](http://9gag.com/gag/aO84e3y)
- - 👉 [Turkish airlines](http://9gag.com/gag/a0eV1QQ)<!-- MEMES:END -->
+ - 👉 [The art of the deal](http://9gag.com/gag/a7oeenx)<!-- MEMES:END -->
 
 ---
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Alibaba demos R1-Omni, an open-source model that its Tongyi Lab researchers say can read emotions, building on HumanOmni, in a bid to compete with OpenAI &lpar;Luz Ding/Bloomberg&rpar;](http://www.techmeme.com/250312/p19#a250312p19)
- - [Apple Account Card rolling out to six more countries](https://appleinsider.com/articles/25/03/12/apple-account-card-rolling-out-to-six-more-countries?utm_medium=rss)
- - [Amazon, Google, and Meta join a World Nuclear Association statement, alongside Occidental, Dow, and others, to triple capacity by 2050; Microsoft didn&#39;t sign &lpar;Financial Times&rpar;](http://www.techmeme.com/250312/p18#a250312p18)
- - [New iPad Air is in store and shipping to early buyers](https://appleinsider.com/articles/25/03/12/new-ipad-air-is-in-store-and-shipping-to-early-buyers?utm_medium=rss)
- - [Google is fixing broken incoming images and videos in Messages](https://www.theverge.com/news/628006/google-messages-media-issues-update-fix)<!-- TECH:END -->
+ - [Niantic&#39;s $3.5B deal gives Scopely, acquired by Saudi-owned Savvy Games Group in 2023 for $4.9B, a total audience of 500M+ players, driven by Monopoly Go! &lpar;Financial Times&rpar;](http://www.techmeme.com/250312/p21#a250312p21)
+ - [How to Switch iPhones or iPads and Transfer Data &lpar;2025&rpar;](https://www.wired.com/story/how-to-switch-iphones-or-ipad/)
+ - [Niantic Labs says it is selling its video game division, including Pok&amp;eacute;mon Go, to Saudi Arabia-owned developer Scopely for $3.5B, subject to regulatory approval &lpar;Jess Weatherbed/The Verge&rpar;](http://www.techmeme.com/250312/p20#a250312p20)
+ - [iPhone 17 Pro set to get advanced vapor chamber cooling](https://appleinsider.com/articles/25/03/12/iphone-17-pro-set-to-get-advanced-vapor-chamber-cooling?utm_medium=rss)
+ - [These Are 34 of the Best TV Shows on Netflix That Won&#39;t Disappoint](https://www.cnet.com/tech/services-and-software/best-tv-shows-netflix-2025/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

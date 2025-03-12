@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Estonian startups aim to turn its thriving tech sector into a military-industrial complex, including making autonomous drones, as Europe boosts defense spending &lpar;Ott Tammik/Bloomberg&rpar;](http://www.techmeme.com/250312/p16#a250312p16)
  - [Sakana CEO David Ha says its AI CUDA Engineer &quot;cheated&quot; to speed up training by 100x and &quot;preliminary results&quot; show it &quot;will be closer to the 10% to 100% level&quot; &lpar;Nikkei Asia&rpar;](http://www.techmeme.com/250312/p15#a250312p15)
  - [What to Know and Where to Find Apple Intelligence Summaries on iPhone](https://www.cnet.com/tech/services-and-software/what-to-know-and-where-to-find-apple-intelligence-summaries-on-iphone/#ftag=CAD590a51e)
  - [Chinese Companies Rush to Put DeepSeek in Everything](https://www.wired.com/story/deepseek-china-nationalism/)
- - [Gen AI Is Changing Work, but It Can&#39;t Replace Workers, This HR Expert Says](https://www.cnet.com/tech/services-and-software/gen-ai-is-changing-work-but-it-cant-replace-workers-this-hr-expert-says/#ftag=CAD590a51e)
- - [After Palantir&#39;s stock jumped 350%+ in 2024, founder Alex Karp has sold $1.9B in shares since January 2024; VerityData says his PLTR holdings are worth $12.8B &lpar;Financial Times&rpar;](http://www.techmeme.com/250312/p14#a250312p14)<!-- TECH:END -->
+ - [Gen AI Is Changing Work, but It Can&#39;t Replace Workers, This HR Expert Says](https://www.cnet.com/tech/services-and-software/gen-ai-is-changing-work-but-it-cant-replace-workers-this-hr-expert-says/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

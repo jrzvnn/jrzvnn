@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [A Trump official has been moonlighting as a fashion influencer](https://www.theverge.com/news/628067/opm-fashion-influencer-affiliate-links-mclaurine-pinover)
+ - [How to Use Signal Encrypted Messaging](https://www.wired.com/story/signal-tips-private-messaging-encryption/)
+ - [Moft’s new origami case elevates the iPad for improved ergonomics](https://www.theverge.com/news/628261/moft-dynamic-folio-apple-ipad-tablet-case-folding-origami)
  - [Home Hub may not ship until iOS 19 launches](https://appleinsider.com/articles/25/03/12/home-hub-may-not-ship-until-ios-19-launches?utm_medium=rss)
- - [Microsoft isn’t launching its Xbox handheld this year, but Asus might be](https://www.theverge.com/notepad-microsoft-newsletter/628073/microsoft-xbox-handheld-project-kennan-notepad)
- - [The Violent Rise of ‘No Lives Matter’](https://www.wired.com/story/no-lives-matter-764-violence/)
- - [The US FTC asks a judge to delay its case accusing Amazon of deceptive practices with Amazon Prime, citing staffing shortfalls &lpar;Annie Palmer/CNBC&rpar;](http://www.techmeme.com/250312/p27#a250312p27)
- - [Donald Trump Bought a $90,000 Tesla With 37 Recall Notices Against It](https://www.wired.com/story/donald-trump-bought-a-dollar90000-tesla-with-37-recall-notices-against-it/)<!-- TECH:END -->
+ - [Microsoft isn’t launching its Xbox handheld this year, but Asus might be](https://www.theverge.com/notepad-microsoft-newsletter/628073/microsoft-xbox-handheld-project-kennan-notepad)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Estonian startups aim to turn its thriving tech sector into a military-industrial complex, including making autonomous drones, as Europe boosts defense spending &lpar;Ott Tammik/Bloomberg&rpar;](http://www.techmeme.com/250312/p16#a250312p16)
- - [Sakana CEO David Ha says its AI CUDA Engineer &quot;cheated&quot; to speed up training by 100x and &quot;preliminary results&quot; show it &quot;will be closer to the 10% to 100% level&quot; &lpar;Nikkei Asia&rpar;](http://www.techmeme.com/250312/p15#a250312p15)
- - [What to Know and Where to Find Apple Intelligence Summaries on iPhone](https://www.cnet.com/tech/services-and-software/what-to-know-and-where-to-find-apple-intelligence-summaries-on-iphone/#ftag=CAD590a51e)
- - [Chinese Companies Rush to Put DeepSeek in Everything](https://www.wired.com/story/deepseek-china-nationalism/)
- - [Gen AI Is Changing Work, but It Can&#39;t Replace Workers, This HR Expert Says](https://www.cnet.com/tech/services-and-software/gen-ai-is-changing-work-but-it-cant-replace-workers-this-hr-expert-says/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Google is fixing broken incoming images and videos in Messages](https://www.theverge.com/news/628006/google-messages-media-issues-update-fix)
+ - [Best Home Blood Pressure Monitors, FDA Approved](https://www.cnet.com/health/medical/best-blood-pressure-monitor/#ftag=CAD590a51e)
+ - [A profile of Caroline Crenshaw, the lone Democratic SEC Commissioner, who is offering dissenting views as the regulator rolls back Biden-era crypto enforcement &lpar;Matthew Goldstein/New York Times&rpar;](http://www.techmeme.com/250312/p17#a250312p17)
+ - [&#39;Reacher&#39; Season 3 Release Schedule: When to Watch Episode 6 on Prime Video](https://www.cnet.com/tech/services-and-software/reacher-season-3-release-schedule-when-to-watch-episode-6-on-prime-video/#ftag=CAD590a51e)
+ - [How to Watch March Madness 2025](https://www.wired.com/story/how-to-watch-march-madness/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

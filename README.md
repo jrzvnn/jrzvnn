@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Apple Account Card rolling out to six more countries](https://appleinsider.com/articles/25/03/12/apple-account-card-rolling-out-to-six-more-countries?utm_medium=rss)
  - [Amazon, Google, and Meta join a World Nuclear Association statement, alongside Occidental, Dow, and others, to triple capacity by 2050; Microsoft didn&#39;t sign &lpar;Financial Times&rpar;](http://www.techmeme.com/250312/p18#a250312p18)
  - [New iPad Air is in store and shipping to early buyers](https://appleinsider.com/articles/25/03/12/new-ipad-air-is-in-store-and-shipping-to-early-buyers?utm_medium=rss)
  - [Google is fixing broken incoming images and videos in Messages](https://www.theverge.com/news/628006/google-messages-media-issues-update-fix)
- - [Best Home Blood Pressure Monitors, FDA Approved](https://www.cnet.com/health/medical/best-blood-pressure-monitor/#ftag=CAD590a51e)
- - [A profile of Caroline Crenshaw, the lone Democratic SEC Commissioner, who is offering dissenting views as the regulator rolls back Biden-era crypto enforcement &lpar;Matthew Goldstein/New York Times&rpar;](http://www.techmeme.com/250312/p17#a250312p17)<!-- TECH:END -->
+ - [Best Home Blood Pressure Monitors, FDA Approved](https://www.cnet.com/health/medical/best-blood-pressure-monitor/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

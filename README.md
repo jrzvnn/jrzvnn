@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Cartesia, which is developing real-time generative AI models for voice AI, raised a $64M Series A led by Kleiner Perkins, taking its total funding to $91M &lpar;Allie Garfinkle/Fortune&rpar;](http://www.techmeme.com/250311/p43#a250311p43)
+ - [Bluetti Elite 200 review: Great battery life, but a great weight too](https://appleinsider.com/articles/25/03/12/bluetti-elite-200-review-great-battery-life-but-a-great-weight-too?utm_medium=rss)
+ - [All the news about Netflix’s gaming efforts](https://www.theverge.com/22772589/netflix-video-games-app-news-updates)
  - [Honey: all the news about PayPal’s alleged scam coupon app](https://www.theverge.com/24343913/paypal-honey-megalag-coupon-scam-affiliate-fees)
- - [15-inch MacBook Air &lpar;M4, 2025&rpar; Review: Bluer and Better](https://www.wired.com/review/macbook-air-15-inch-2025/)
- - [The Senate approves Gail Slater, President Trump&#39;s pick to lead the DOJ&#39;s antitrust unit, by a 78-19 vote; she has been critical of power in the tech industry &lpar;David McCabe/New York Times&rpar;](http://www.techmeme.com/250311/p42#a250311p42)
- - [Everything we know about Apple’s Vision Pro](https://www.theverge.com/23689334/apple-mixed-reality-headset-augmented-virtual-reality-ar-vr-rumors-specs-features)
- - [&#39;Metallica&#39; immersive experience for Apple Vision Pro will be available on March 14](https://appleinsider.com/articles/25/03/11/metallica-immersive-experience-for-apple-vision-pro-will-be-available-on-march-14?utm_medium=rss)<!-- TECH:END -->
+ - [Google changes Chrome extension policies following the Honey link scandal](https://www.theverge.com/news/627940/google-chrome-extensions-paypal-honey-affiliate)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

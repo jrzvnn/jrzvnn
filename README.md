@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Surfers Paradise, Australia, before and after cyclone Alfred](http://9gag.com/gag/azxP5ZB)
- - 😝 [The art of the deal](http://9gag.com/gag/a7oeenx)
- - 💣 [Sorry, no potato](http://9gag.com/gag/a9yv5L0)
+ - 😝 [Relax, he\u2019s just my gymnastics coach](http://9gag.com/gag/a87mDwZ)
+ - 😝 [Long Term Investments](http://9gag.com/gag/axyvWMp)
+ - 💣 [Goat trying to commit sudoku](http://9gag.com/gag/aE0VARO)
  - 😝 [\ud83d\udd25 Flex your killer skills and dominate the battlefield in Mecha BREAK!](http://9gag.com/gag/aO84e3y)
- - 👉 [Be honest](http://9gag.com/gag/aMVmdA1)<!-- MEMES:END -->
+ - 👉 [What happens when you dont download from fitgirl](http://9gag.com/gag/aVvEKEy)<!-- MEMES:END -->
 
 ---
 

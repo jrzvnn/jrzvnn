@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [All the smart home news, reviews, and gadgets you need to know about](https://www.theverge.com/24190824/smart-home-news-reviews-guides-gadgets)
+ - [8 Best Vacuums for Pet Hair &lpar;2025&rpar;, Tested and Reviewed](https://www.wired.com/gallery/best-pet-hair-vacuums/)
+ - [I outsourced my memory to an AI pin and all I got was fanfiction](https://www.theverge.com/reviews/627056/bee-review-ai-wearable)
  - [Rivian joins the hands-free highway driving party](https://www.theverge.com/news/627831/rivian-hands-off-highway-driving-gen2-rally-mode)
- - [Ditto, which aims to enable &quot;resilient&quot; edge device connectivity, raised an $82M Series B at a $462M post-money valuation, after a $45M Series A in April 2023 &lpar;Paul Sawers/TechCrunch&rpar;](http://www.techmeme.com/250312/p22#a250312p22)
- - [iPhone 17 Slim could be 30% thinner than the iPhone 16](https://appleinsider.com/articles/25/03/12/iphone-17-slim-could-be-30-thinner-than-the-iphone-16?utm_medium=rss)
- - [Niantic&#39;s $3.5B deal gives Scopely, acquired by Saudi-owned Savvy Games Group in 2023 for $4.9B, a total audience of 500M+ players, driven by Monopoly Go! &lpar;Financial Times&rpar;](http://www.techmeme.com/250312/p21#a250312p21)
- - [How to Switch iPhones or iPads and Transfer Data &lpar;2025&rpar;](https://www.wired.com/story/how-to-switch-iphones-or-ipad/)<!-- TECH:END -->
+ - [Ditto, which aims to enable &quot;resilient&quot; edge device connectivity, raised an $82M Series B at a $462M post-money valuation, after a $45M Series A in April 2023 &lpar;Paul Sawers/TechCrunch&rpar;](http://www.techmeme.com/250312/p22#a250312p22)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

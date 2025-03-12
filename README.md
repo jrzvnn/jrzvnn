@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [AMD’s partners are already scalping their ‘MSRP’ 9070 and 9070 XT](https://www.theverge.com/news/628332/amd-9070-xt-gpu-retailer-partner-scalping)
+ - [French publishers and authors sue Meta for allegedly training AI models on their books without consent, say they have evidence of &quot;massive&quot; copyright breaches &lpar;Benoit Berthelot/Bloomberg&rpar;](http://www.techmeme.com/250312/p36#a250312p36)
  - [Amtrak&amp;#8217;s revamped app makes it easier to find your train status](https://www.theverge.com/news/628538/amtrak-app-update-ticket-homescreen-schedule-seat-reservation)
  - [Intel has a new CEO](https://www.theverge.com/news/628539/intel-new-ceo-lip-bu-tan-pat-gelsinger)
- - [Trump is bringing back McCarthyism to go after Mahmoud Khalil](https://www.theverge.com/policy/628411/mahmoud-khalil-immigration-nationality-act-green-card-state-department)
- - [Adobe reports Q1 revenue up 10% YoY to $5.71B, vs. $5.66B est., Digital Media revenue up 11% to $4.23B, and issues a disappointing outlook for Q2 revenue growth &lpar;Brody Ford/Bloomberg&rpar;](http://www.techmeme.com/250312/p35#a250312p35)
- - [Intel appoints former board member Lip-Bu Tan as CEO, effective March 18; INTC jumps 11%+ after hours &lpar;Bhanvi Satija/Reuters&rpar;](http://www.techmeme.com/250312/p34#a250312p34)<!-- TECH:END -->
+ - [Trump is bringing back McCarthyism to go after Mahmoud Khalil](https://www.theverge.com/policy/628411/mahmoud-khalil-immigration-nationality-act-green-card-state-department)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

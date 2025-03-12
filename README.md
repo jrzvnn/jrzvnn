@@ -166,10 +166,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Goat trying to commit sudoku](http://9gag.com/gag/aE0VARO)
- - 😝 [If you know you know \ud83d\udc40](http://9gag.com/gag/ajPO79G)
- - 💣 [Long Term Investments](http://9gag.com/gag/axyvWMp)
- - 😝 [Meltdown at US House hearing after chairman called trans Democratic rep &#39;Mr&#39;](http://9gag.com/gag/aRBZM47)
+ - 😝 [Chinese AI agent running 50 social media accounts 24/7 automatically](http://9gag.com/gag/ayN43oy)
+ - 😝 [Andrew\u2019s Tate\u2019s delusions meet their fate.](http://9gag.com/gag/a9yvq0W)
+ - 💣 [Ah, Hell No ...](http://9gag.com/gag/abAOO6O)
+ - 😝 [Dark humor](http://9gag.com/gag/aO848b3)
  - 👉 [Welcome to London. So much strength.](http://9gag.com/gag/aKG9vvZ)<!-- MEMES:END -->
 
 ---

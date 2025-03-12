@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Welcome to Arizona](http://9gag.com/gag/aPAPgMw)
- - 😝 [Apparently he was like an on set dad and always looked after the kids. Such a good actor](http://9gag.com/gag/awymmoy)
- - 💣 [On January 15, 2019, lone SAS operator Christian Craighead enters the Dusit Hotel in Nairobi, Kenya, in respond to a terrorist attack. This famous photograph was seen on social media and major news outlets around the world.](http://9gag.com/gag/aW4LG24)
- - 😝 [Disgustang](http://9gag.com/gag/aAyEQpd)
- - 👉 [100 Harry Potters vs 1000000 Kermit the frogs](http://9gag.com/gag/aByLLvA)<!-- MEMES:END -->
+ - 😝 [I AM mentally that old man.](http://9gag.com/gag/aqy88nZ)
+ - 😝 [Squirrel hears thunder and clutches his heart.](http://9gag.com/gag/a4PzzgA)
+ - 💣 [Ruined an awesome beach view video](http://9gag.com/gag/agmO1M1)
+ - 😝 [Daily dose of stand up comedy, enjoy!](http://9gag.com/gag/aE0VVjM)
+ - 👉 [Nostalgic vibes](http://9gag.com/gag/a5QBB6o)<!-- MEMES:END -->
 
 ---
 

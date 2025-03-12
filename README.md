@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Sources: self-driving simulation software provider Applied Intuition is in talks to raise hundreds of millions at a $15B valuation; it reached $400M ARR in 2024 &lpar;The Information&rpar;](http://www.techmeme.com/250312/p6#a250312p6)
  - [India&#39;s largest telco Jio Platforms partners with SpaceX to offer Starlink in the country, just hours after rival Airtel announced a similar partnership &lpar;Jagmeet Singh/TechCrunch&rpar;](http://www.techmeme.com/250312/p5#a250312p5)
  - [Dyson Promo Codes: 20% Off | March 2025](https://www.wired.com/story/dyson-cordless-vacuum-promo-code/)
  - [Spotify says it paid $10B+ in royalties in 2024, &quot;the largest in music history&quot;, making up 60%+ of its $17.13B+ 2024 revenue, with ~1,500 artists earning $1M+ &lpar;Anna Nicolaou/Financial Times&rpar;](http://www.techmeme.com/250312/p4#a250312p4)
- - [Sources: TSMC has pitched Nvidia, AMD, Broadcom, and Qualcomm about taking stakes in a JV to run Intel Foundry; TSMC would hold no more than a 50% stake &lpar;Reuters&rpar;](http://www.techmeme.com/250312/p3#a250312p3)
- - [OpusClip, which offers a multimodal AI tool to simplify short-form video editing for creators, raised $20M led by SoftBank&#39;s Vision Fund 2 at a $215M valuation &lpar;Riddhi Kanetkar/Business Insider&rpar;](http://www.techmeme.com/250312/p2#a250312p2)<!-- TECH:END -->
+ - [Sources: TSMC has pitched Nvidia, AMD, Broadcom, and Qualcomm about taking stakes in a JV to run Intel Foundry; TSMC would hold no more than a 50% stake &lpar;Reuters&rpar;](http://www.techmeme.com/250312/p3#a250312p3)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

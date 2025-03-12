@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Roomba maker iRobot warns of &quot;substantial doubt&quot; over its ability to continue operating, after Amazon abandoned a $1B+ takeover in January 2024; IRBT drops 35%+ &lpar;Bloomberg&rpar;](http://www.techmeme.com/250312/p23#a250312p23)
  - [iRobot tells investors its future is in doubt](https://www.theverge.com/news/628050/irobot-roomba-future-in-doubt)
  - [All the smart home news, reviews, and gadgets you need to know about](https://www.theverge.com/24190824/smart-home-news-reviews-guides-gadgets)
  - [7 Best Kids Bikes &lpar;2025&rpar;: Mountain, Balance, Pedal, Coaster](https://www.wired.com/gallery/best-kids-bikes/)
- - [iPhone 16e review: All the bells, none of the whistles on this battery-heavy device](https://appleinsider.com/articles/25/03/12/iphone-16e-review-all-the-bells-none-of-the-whistles-on-this-battery-heavy-device?utm_medium=rss)
- - [8 Best Vacuums for Pet Hair &lpar;2025&rpar;, Tested and Reviewed](https://www.wired.com/gallery/best-pet-hair-vacuums/)<!-- TECH:END -->
+ - [iPhone 16e review: All the bells, none of the whistles on this battery-heavy device](https://appleinsider.com/articles/25/03/12/iphone-16e-review-all-the-bells-none-of-the-whistles-on-this-battery-heavy-device?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

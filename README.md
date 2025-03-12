@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Ruined an awesome beach view video](http://9gag.com/gag/agmO1M1)
  - 😝 [Title](http://9gag.com/gag/aqy86g7)
+ - 😝 [Nostalgic vibes](http://9gag.com/gag/a5QBB6o)
  - 💣 [Can&#39;t do it any different](http://9gag.com/gag/a1mD51P)
  - 😝 [\ud83d\udd25 Flex your killer skills and dominate the battlefield in Mecha BREAK!](http://9gag.com/gag/aO84e3y)
- - 👉 [Nostalgic vibes](http://9gag.com/gag/a5QBB6o)<!-- MEMES:END -->
+ - 👉 [The Art of Whining](http://9gag.com/gag/awymLpD)<!-- MEMES:END -->
 
 ---
 

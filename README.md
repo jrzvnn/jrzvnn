@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Trump’s first 100 days: all the news affecting the tech industry](https://www.theverge.com/24348851/donald-trump-presidency-tech-science-news)
+ - [FCC chairman asks the public to list every regulation he should remove](https://www.theverge.com/news/628288/fcc-chair-brendan-carr-deregulate-delete)
  - [A Trump official has been moonlighting as a fashion influencer](https://www.theverge.com/news/628067/opm-fashion-influencer-affiliate-links-mclaurine-pinover)
  - [How to Use Signal Encrypted Messaging](https://www.wired.com/story/signal-tips-private-messaging-encryption/)
- - [Moft’s new origami case elevates the iPad for improved ergonomics](https://www.theverge.com/news/628261/moft-dynamic-folio-apple-ipad-tablet-case-folding-origami)
- - [Home Hub may not ship until iOS 19 launches](https://appleinsider.com/articles/25/03/12/home-hub-may-not-ship-until-ios-19-launches?utm_medium=rss)
- - [Microsoft isn’t launching its Xbox handheld this year, but Asus might be](https://www.theverge.com/notepad-microsoft-newsletter/628073/microsoft-xbox-handheld-project-kennan-notepad)<!-- TECH:END -->
+ - [Moft’s new origami case elevates the iPad for improved ergonomics](https://www.theverge.com/news/628261/moft-dynamic-folio-apple-ipad-tablet-case-folding-origami)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

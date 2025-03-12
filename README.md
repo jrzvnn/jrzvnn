@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Title](http://9gag.com/gag/aqy86g7)
- - 😝 [Daily dose of stand up comedy, enjoy!](http://9gag.com/gag/aE0VVjM)
- - 💣 [Ruined an awesome beach view video](http://9gag.com/gag/agmO1M1)
- - 😝 [Welcome to London. So much strength.](http://9gag.com/gag/aKG9vvZ)
- - 👉 [Nostalgic vibes](http://9gag.com/gag/a5QBB6o)<!-- MEMES:END -->
+ - 😝 [Be honest](http://9gag.com/gag/aMVmdA1)
+ - 😝 [Long Term Investments](http://9gag.com/gag/axyvWMp)
+ - 💣 [Perfectly normal](http://9gag.com/gag/axyv3vp)
+ - 😝 [\ud83d\udd25 Flex your killer skills and dominate the battlefield in Mecha BREAK!](http://9gag.com/gag/aO84e3y)
+ - 👉 [100 Harry Potters vs 1000000 Kermit the frogs](http://9gag.com/gag/aByLLvA)<!-- MEMES:END -->
 
 ---
 

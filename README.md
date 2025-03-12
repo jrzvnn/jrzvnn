@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Nostalgic vibes](http://9gag.com/gag/a5QBB6o)
- - 😝 [Thicc Thighs Save lives.](http://9gag.com/gag/a7oeVY2)
- - 💣 [Ah, Hell No ...](http://9gag.com/gag/abAOO6O)
+ - 😝 [If you know you know \ud83d\udc40](http://9gag.com/gag/ajPO79G)
+ - 😝 [*Looks at the thumb* Story checks out](http://9gag.com/gag/aXPNN8z)
+ - 💣 [This meme still gets me every time.](http://9gag.com/gag/ae9OZNm)
  - 😝 [\ud83d\udd25 Flex your killer skills and dominate the battlefield in Mecha BREAK!](http://9gag.com/gag/aO84e3y)
- - 👉 [Can&#39;t do it any different](http://9gag.com/gag/a1mD51P)<!-- MEMES:END -->
+ - 👉 [First time I hear a house crying](http://9gag.com/gag/a9yv8o1)<!-- MEMES:END -->
 
 ---
 

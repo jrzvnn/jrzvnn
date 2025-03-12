@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [End of the World Kinda View](http://9gag.com/gag/azxP5bN)
- - 😝 [Animator did this ON PURPOSE for sure](http://9gag.com/gag/aAyEypL)
- - 💣 [Long Term Investments](http://9gag.com/gag/axyvWMp)
- - 😝 [Ah, Hell No ...](http://9gag.com/gag/abAOO6O)
- - 👉 [Goat trying to commit sudoku](http://9gag.com/gag/aE0VARO)<!-- MEMES:END -->
+ - 😝 [True colors!](http://9gag.com/gag/ayN4NdW)
+ - 😝 [Long Term Investments](http://9gag.com/gag/axyvWMp)
+ - 💣 [Dark humor](http://9gag.com/gag/aO848b3)
+ - 😝 [It looks so good now](http://9gag.com/gag/aPAPxQq)
+ - 👉 [Ah, Hell No ...](http://9gag.com/gag/abAOO6O)<!-- MEMES:END -->
 
 ---
 

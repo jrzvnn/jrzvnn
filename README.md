@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [India&#39;s largest telco Jio Platforms partners with SpaceX to offer Starlink in the country, just hours after rival Airtel announced a similar partnership &lpar;Jagmeet Singh/TechCrunch&rpar;](http://www.techmeme.com/250312/p5#a250312p5)
+ - [Dyson Promo Codes: 20% Off | March 2025](https://www.wired.com/story/dyson-cordless-vacuum-promo-code/)
+ - [Spotify says it paid $10B+ in royalties in 2024, &quot;the largest in music history&quot;, making up 60%+ of its $17.13B+ 2024 revenue, with ~1,500 artists earning $1M+ &lpar;Anna Nicolaou/Financial Times&rpar;](http://www.techmeme.com/250312/p4#a250312p4)
  - [Sources: TSMC has pitched Nvidia, AMD, Broadcom, and Qualcomm about taking stakes in a JV to run Intel Foundry; TSMC would hold no more than a 50% stake &lpar;Reuters&rpar;](http://www.techmeme.com/250312/p3#a250312p3)
- - [OpusClip, which offers a multimodal AI tool to simplify short-form video editing for creators, raised $20M led by SoftBank&#39;s Vision Fund 2 at a $215M valuation &lpar;Riddhi Kanetkar/Business Insider&rpar;](http://www.techmeme.com/250312/p2#a250312p2)
- - [Spain&#39;s government approves a bill, pending lower house assent, imposing fines of up to &amp;euro;35M or 7% of annual turnover on firms not labeling AI-generated content &lpar;David Latona/Reuters&rpar;](http://www.techmeme.com/250312/p1#a250312p1)
- - [CNET Survey: 44% of Filers Have Tax Anxiety -- Led by Gen Z and Millennials](https://www.cnet.com/personal-finance/taxes/tax-survey-2025/#ftag=CAD590a51e)
- - [Best AirPods Max Accessories for 2025](https://www.cnet.com/tech/mobile/best-airpods-max-accessories/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [OpusClip, which offers a multimodal AI tool to simplify short-form video editing for creators, raised $20M led by SoftBank&#39;s Vision Fund 2 at a $215M valuation &lpar;Riddhi Kanetkar/Business Insider&rpar;](http://www.techmeme.com/250312/p2#a250312p2)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

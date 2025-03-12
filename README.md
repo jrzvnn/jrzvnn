@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Alibaba demos R1-Omni, an open-source model that its Tongyi Lab researchers say can read emotions, building on HumanOmni, in a bid to compete with OpenAI &lpar;Luz Ding/Bloomberg&rpar;](http://www.techmeme.com/250312/p19#a250312p19)
  - [Apple Account Card rolling out to six more countries](https://appleinsider.com/articles/25/03/12/apple-account-card-rolling-out-to-six-more-countries?utm_medium=rss)
  - [Amazon, Google, and Meta join a World Nuclear Association statement, alongside Occidental, Dow, and others, to triple capacity by 2050; Microsoft didn&#39;t sign &lpar;Financial Times&rpar;](http://www.techmeme.com/250312/p18#a250312p18)
  - [New iPad Air is in store and shipping to early buyers](https://appleinsider.com/articles/25/03/12/new-ipad-air-is-in-store-and-shipping-to-early-buyers?utm_medium=rss)
- - [Google is fixing broken incoming images and videos in Messages](https://www.theverge.com/news/628006/google-messages-media-issues-update-fix)
- - [Best Home Blood Pressure Monitors, FDA Approved](https://www.cnet.com/health/medical/best-blood-pressure-monitor/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Google is fixing broken incoming images and videos in Messages](https://www.theverge.com/news/628006/google-messages-media-issues-update-fix)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

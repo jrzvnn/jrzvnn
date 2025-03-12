@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [All the news about daily puzzle games](https://www.theverge.com/2024/10/25/24279439/news-games-crossword-wordle)
  - [Toyota introduces an electric C-HR and updated bZ4X for Europe](https://www.theverge.com/electric-cars/628106/toyota-electric-c-hr-europe-bz4x-update-range-power-faster-charging)
- - [Democrats Demand Answers on DOGE&#39;s Use of AI](https://www.wired.com/story/elon-musk-federal-agencies-ai/)
+ - [Democrats Demand Answers on DOGE’s Use of AI](https://www.wired.com/story/elon-musk-federal-agencies-ai/)
  - [Google DeepMind launches two AI models, Gemini 2.0-based Robotics and Robotics-ER, to help robots &quot;perform a wider range of real-world tasks than ever before&quot; &lpar;Emma Roth/The Verge&rpar;](http://www.techmeme.com/250312/p25#a250312p25)
- - [Google’s Gemini Robotics AI Model Reaches Into the Physical World](https://www.wired.com/story/googles-gemini-robotics-ai-model-that-reaches-into-the-physical-world/)
- - [Google DeepMind&amp;#8217;s new AI models help robots perform physical tasks, even without training](https://www.theverge.com/news/628021/google-deepmind-gemini-robotics-ai-models)<!-- TECH:END -->
+ - [Google’s Gemini Robotics AI Model Reaches Into the Physical World](https://www.wired.com/story/googles-gemini-robotics-ai-model-that-reaches-into-the-physical-world/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

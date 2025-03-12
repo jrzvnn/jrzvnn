@@ -158,10 +158,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- TECH:START -->
  - [Don&#39;t wait to update: iOS 18.3.2 fixes an actively exploited issue](https://appleinsider.com/articles/25/03/11/dont-wait-to-update-ios-1832-fixes-an-actively-exploited-issue?utm_medium=rss)
+ - [Today&#39;s NYT Mini Crossword Answers for Wednesday, March 12](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-wednesday-march-12/#ftag=CAD590a51e)
  - [How to disable AI-Driven Search and Spotlight in macOS Sequoia](https://appleinsider.com/inside/macos-sequoia/tips/how-to-disable-ai-driven-search-and-spotlight-in-macos-sequoia?utm_medium=rss)
  - [Mike Verdu, who joined Netflix in 2021 to launch its game offering and took on a new role as VP of Generative AI for games four months ago, has left the company &lpar;Stephen Totilo/Game File&rpar;](http://www.techmeme.com/250311/p45#a250311p45)
- - [Google updates Chrome extension policy to ban affiliate link injection without user action or benefit, after allegations Honey stole creators&#39; affiliate revenue &lpar;Jay Peters/The Verge&rpar;](http://www.techmeme.com/250311/p44#a250311p44)
- - [Cartesia, which is developing real-time generative AI models for voice AI, raised a $64M Series A led by Kleiner Perkins, taking its total funding to $91M &lpar;Allie Garfinkle/Fortune&rpar;](http://www.techmeme.com/250311/p43#a250311p43)<!-- TECH:END -->
+ - [Google updates Chrome extension policy to ban affiliate link injection without user action or benefit, after allegations Honey stole creators&#39; affiliate revenue &lpar;Jay Peters/The Verge&rpar;](http://www.techmeme.com/250311/p44#a250311p44)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

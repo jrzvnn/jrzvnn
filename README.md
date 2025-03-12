@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Tired of playing what you want to hear..](http://9gag.com/gag/aAyEEp2)
- - 😝 [Long Term Investments](http://9gag.com/gag/axyvWMp)
- - 💣 [Goat trying to commit sudoku](http://9gag.com/gag/aE0VARO)
  - 😝 [2WD vs 4WD](http://9gag.com/gag/adBO1LN)
- - 👉 [Sorry, no potato](http://9gag.com/gag/a9yv5L0)<!-- MEMES:END -->
+ - 😝 [Sorry, no potato](http://9gag.com/gag/a9yv5L0)
+ - 💣 [Ah, Hell No ...](http://9gag.com/gag/abAOO6O)
+ - 😝 [Disgustang](http://9gag.com/gag/aAyEQpd)
+ - 👉 [Woman yanks bag of toys from kid](http://9gag.com/gag/aLnenBP)<!-- MEMES:END -->
 
 ---
 

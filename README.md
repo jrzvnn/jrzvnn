@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Cat](http://9gag.com/gag/axyvWdM)
- - 😝 [Squirrel hears thunder and clutches his heart.](http://9gag.com/gag/a4PzzgA)
- - 💣 [Ruined an awesome beach view video](http://9gag.com/gag/agmO1M1)
- - 😝 [Daily dose of stand up comedy, enjoy!](http://9gag.com/gag/aE0VVjM)
- - 👉 [Nostalgic vibes](http://9gag.com/gag/a5QBB6o)<!-- MEMES:END -->
+ - 😝 [2WD vs 4WD](http://9gag.com/gag/adBO1LN)
+ - 😝 [Ah, Hell No ...](http://9gag.com/gag/abAOO6O)
+ - 💣 [Long Term Investments](http://9gag.com/gag/axyvWMp)
+ - 😝 [The perfect girl doesn&#39;t exi...](http://9gag.com/gag/a5QBQ1O)
+ - 👉 [You know...for kids!](http://9gag.com/gag/aMVmVW1)<!-- MEMES:END -->
 
 ---
 

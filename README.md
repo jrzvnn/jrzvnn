@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [UK investigation says Apple and Google are ‘holding back’ mobile browsers](https://www.theverge.com/news/628472/apple-safari-ios-google-android-chrome-cma-competition)
+ - [Indian police arrest Aleksej Besciokov, the co-founder of Garantex, a Russian crypto exchange sanctioned by the EU and the US, at the request of US authorities &lpar;TechCrunch&rpar;](http://www.techmeme.com/250312/p37#a250312p37)
  - [AMD’s partners are already scalping their ‘MSRP’ 9070 and 9070 XT](https://www.theverge.com/news/628332/amd-9070-xt-gpu-retailer-partner-scalping)
  - [French publishers and authors sue Meta for allegedly training AI models on their books without consent, say they have evidence of &quot;massive&quot; copyright breaches &lpar;Benoit Berthelot/Bloomberg&rpar;](http://www.techmeme.com/250312/p36#a250312p36)
- - [Amtrak&amp;#8217;s revamped app makes it easier to find your train status](https://www.theverge.com/news/628538/amtrak-app-update-ticket-homescreen-schedule-seat-reservation)
- - [Intel has a new CEO](https://www.theverge.com/news/628539/intel-new-ceo-lip-bu-tan-pat-gelsinger)
- - [Trump is bringing back McCarthyism to go after Mahmoud Khalil](https://www.theverge.com/policy/628411/mahmoud-khalil-immigration-nationality-act-green-card-state-department)<!-- TECH:END -->
+ - [Amtrak&amp;#8217;s revamped app makes it easier to find your train status](https://www.theverge.com/news/628538/amtrak-app-update-ticket-homescreen-schedule-seat-reservation)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

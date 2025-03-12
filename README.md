@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [iRobot tells investors its future is in doubt](https://www.theverge.com/news/628050/irobot-roomba-future-in-doubt)
  - [All the smart home news, reviews, and gadgets you need to know about](https://www.theverge.com/24190824/smart-home-news-reviews-guides-gadgets)
- - [8 Best Vacuums for Pet Hair &lpar;2025&rpar;, Tested and Reviewed](https://www.wired.com/gallery/best-pet-hair-vacuums/)
- - [I outsourced my memory to an AI pin and all I got was fanfiction](https://www.theverge.com/reviews/627056/bee-review-ai-wearable)
- - [Rivian joins the hands-free highway driving party](https://www.theverge.com/news/627831/rivian-hands-off-highway-driving-gen2-rally-mode)
- - [Ditto, which aims to enable &quot;resilient&quot; edge device connectivity, raised an $82M Series B at a $462M post-money valuation, after a $45M Series A in April 2023 &lpar;Paul Sawers/TechCrunch&rpar;](http://www.techmeme.com/250312/p22#a250312p22)<!-- TECH:END -->
+ - [7 Best Kids Bikes &lpar;2025&rpar;: Mountain, Balance, Pedal, Coaster](https://www.wired.com/gallery/best-kids-bikes/)
+ - [iPhone 16e review: All the bells, none of the whistles on this battery-heavy device](https://appleinsider.com/articles/25/03/12/iphone-16e-review-all-the-bells-none-of-the-whistles-on-this-battery-heavy-device?utm_medium=rss)
+ - [8 Best Vacuums for Pet Hair &lpar;2025&rpar;, Tested and Reviewed](https://www.wired.com/gallery/best-pet-hair-vacuums/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

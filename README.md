@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [All the news about daily puzzle games](https://www.theverge.com/2024/10/25/24279439/news-games-crossword-wordle)
- - [Toyota introduces an electric C-HR and updated bZ4X for Europe](https://www.theverge.com/electric-cars/628106/toyota-electric-c-hr-europe-bz4x-update-range-power-faster-charging)
- - [Democrats Demand Answers on DOGE’s Use of AI](https://www.wired.com/story/elon-musk-federal-agencies-ai/)
- - [Scamming the Scammers: Meet the Deepfake Granny, Digital Bots and YouTubers Fighting AI Fraud](https://www.cnet.com/personal-finance/features/scamming-the-scammers-meet-the-digital-granny-bots-and-youtubers-fighting-ai-fraud/#ftag=CAD590a51e)
- - [Google DeepMind launches two AI models, Gemini 2.0-based Robotics and Robotics-ER, to help robots &quot;perform a wider range of real-world tasks than ever before&quot; &lpar;Emma Roth/The Verge&rpar;](http://www.techmeme.com/250312/p25#a250312p25)<!-- TECH:END -->
+ - [Save up to $987 on every 2025 Mac, iPad at Apple resellers](https://appleinsider.com/articles/25/03/12/save-up-to-987-on-every-2025-mac-ipad-at-apple-resellers?utm_medium=rss)
+ - [Google apologizes for Chromecast outage in email to users](https://www.theverge.com/news/628194/google-chromecast-second-gen-audio-outage-fix-email)
+ - [Discovery Plus is finally getting the overhaul it needs](https://www.theverge.com/news/628176/discovery-plus-ui-overhaul-update-max)
+ - [The travel-friendly Tile Pro has dropped to its best price ever](https://www.theverge.com/good-deals/628113/tile-pro-tracker-anker-maggo-usb-c-adapter-deal-sale)
+ - [Investigation: AI-powered student monitoring tool Gaggle, used to track ~6M US student, isn&#39;t always secure, and there&#39;s no research showing it increases safety &lpar;Associated Press&rpar;](http://www.techmeme.com/250312/p26#a250312p26)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

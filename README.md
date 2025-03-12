@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [2WD vs 4WD](http://9gag.com/gag/adBO1LN)
- - 😝 [Sorry, no potato](http://9gag.com/gag/a9yv5L0)
- - 💣 [Ah, Hell No ...](http://9gag.com/gag/abAOO6O)
- - 😝 [Disgustang](http://9gag.com/gag/aAyEQpd)
- - 👉 [Woman yanks bag of toys from kid](http://9gag.com/gag/aLnenBP)<!-- MEMES:END -->
+ - 😝 [Meltdown at US House hearing after chairman called trans Democratic rep &#39;Mr&#39;](http://9gag.com/gag/aRBZM47)
+ - 😝 [Tired of playing what you want to hear..](http://9gag.com/gag/aAyEEp2)
+ - 💣 [Perfectly normal](http://9gag.com/gag/axyv3vp)
+ - 😝 [This meme still gets me every time.](http://9gag.com/gag/ae9OZNm)
+ - 👉 [Let&#39;s party girl](http://9gag.com/gag/ayN4qXX)<!-- MEMES:END -->
 
 ---
 

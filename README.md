@@ -157,8 +157,8 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Sonos abandons its streaming Apple TV rival even as it was in testing](https://appleinsider.com/articles/25/03/12/sonos-abandons-its-streaming-apple-tv-rival-even-as-it-was-in-testing?utm_medium=rss)
  - [All the smart home news, reviews, and gadgets you need to know about](https://www.theverge.com/24190824/smart-home-news-reviews-guides-gadgets)
- - [Trump’s first 100 days: all the news affecting the tech industry](https://www.theverge.com/24348851/donald-trump-presidency-tech-science-news)
  - [Judge says she’s leaning toward temporarily saving the CFPB](https://www.theverge.com/news/628327/cfpb-nteu-vought-shut-down)
  - [The FCC is creating a security council to bolster US defenses against cyberattacks and help it stay ahead of China in critical technologies, such as AI and 5G &lpar;Demetri Sevastopulo/Financial Times&rpar;](http://www.techmeme.com/250312/p30#a250312p30)
  - [Apple battles UK in hidden high court case over iCloud encryption](https://appleinsider.com/articles/25/03/12/apple-battles-uk-in-hidden-high-court-case-over-icloud-encryption?utm_medium=rss)<!-- TECH:END -->

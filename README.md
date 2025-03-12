@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [NASA&amp;#8217;s SpaceX Crew-10 mission is launching today to rescue stranded astronauts](https://www.theverge.com/news/628311/nasa-crew-10-mission-starliner-astronauts-return-spacex)
+ - [Sources: the FTC moves ahead with an antitrust probe of Microsoft opened by Lina Khan, signaling that new Chair Andrew Ferguson prioritizes Big Tech scrutiny &lpar;Bloomberg&rpar;](http://www.techmeme.com/250312/p33#a250312p33)
+ - [NASA plans to launch SpaceX Crew-10 tonight to help bring the Starliner astronauts home](https://www.theverge.com/news/628311/nasa-crew-10-mission-starliner-astronauts-return-spacex)
  - [Trump’s first 100 days: all the news affecting the tech industry](https://www.theverge.com/24348851/donald-trump-presidency-tech-science-news)
  - [FTC asks to delay Amazon Prime deceptive practices trial](https://www.theverge.com/news/628418/ftc-amazon-prime-deceptive-practices-delay-trial)
- - [NordVPN review: An extensive VPN privacy package](https://appleinsider.com/articles/25/03/12/nordvpn-review-an-extensive-vpn-privacy-package?utm_medium=rss)
- - [Food delivery startup Wonder acquires the media company Tastemade, sources say for around $90M, the latest step in its effort to create a mealtime &quot;super app&quot; &lpar;Katie Deighton/Wall Street Journal&rpar;](http://www.techmeme.com/250312/p32#a250312p32)<!-- TECH:END -->
+ - [NordVPN review: An extensive VPN privacy package](https://appleinsider.com/articles/25/03/12/nordvpn-review-an-extensive-vpn-privacy-package?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

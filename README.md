@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The best Android phones](https://www.theverge.com/23674658/best-android-phone)
+ - [Meta is trying to ‘offload’ kids safety onto app stores with new bills, Google says](https://www.theverge.com/news/628583/google-meta-app-store-age-verification-kids-ssafety-utah)
  - [Sources: Supabase, which bills itself as an open-source alternative to Google&#39;s Firebase, is raising $100M+ in a round led by Accel, valuing the company at ~$2B &lpar;Bloomberg&rpar;](http://www.techmeme.com/250312/p38#a250312p38)
  - [UK investigation says Apple and Google are ‘holding back’ mobile browsers](https://www.theverge.com/news/628472/apple-safari-ios-google-android-chrome-cma-competition)
- - [Indian police arrest Aleksej Besciokov, the co-founder of Garantex, a Russian crypto exchange sanctioned by the EU and the US, at the request of US authorities &lpar;TechCrunch&rpar;](http://www.techmeme.com/250312/p37#a250312p37)
- - [AMD’s partners are already scalping their ‘MSRP’ 9070 and 9070 XT](https://www.theverge.com/news/628332/amd-9070-xt-gpu-retailer-partner-scalping)
- - [French publishers and authors sue Meta for allegedly training AI models on their books without consent, say they have evidence of &quot;massive&quot; copyright breaches &lpar;Benoit Berthelot/Bloomberg&rpar;](http://www.techmeme.com/250312/p36#a250312p36)<!-- TECH:END -->
+ - [Indian police arrest Aleksej Besciokov, the co-founder of Garantex, a Russian crypto exchange sanctioned by the EU and the US, at the request of US authorities &lpar;TechCrunch&rpar;](http://www.techmeme.com/250312/p37#a250312p37)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

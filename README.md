@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Brave bad boy](http://9gag.com/gag/a7oe0Yq)
- - 😝 [This meme still gets me every time.](http://9gag.com/gag/ae9OZNm)
- - 💣 [Goat trying to commit sudoku](http://9gag.com/gag/aE0VARO)
+ - 😝 [*Looks at the thumb* Story checks out](http://9gag.com/gag/aXPNN8z)
+ - 😝 [Long Term Investments](http://9gag.com/gag/axyvWMp)
+ - 💣 [Found this under the stove.. What should I Call this cute fella?](http://9gag.com/gag/a9yvvb1)
  - 😝 [\ud83d\udd25 Flex your killer skills and dominate the battlefield in Mecha BREAK!](http://9gag.com/gag/aO84e3y)
- - 👉 [Perfectly normal](http://9gag.com/gag/axyv3vp)<!-- MEMES:END -->
+ - 👉 [Be honest](http://9gag.com/gag/aMVmdA1)<!-- MEMES:END -->
 
 ---
 

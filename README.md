@@ -166,9 +166,9 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [This aged well](http://9gag.com/gag/aAyE4xR)
- - 😝 [\udb40\uddc3\udb40\uddc3\udb40\uddc3 \udb40\uddc3\udb40\uddc3\udb40\uddc3](http://9gag.com/gag/aQzQQBq)
- - 💣 [Don&#39;t start what you can&#39;t finish](http://9gag.com/gag/aO84Ddy)
+ - 😝 [How future wars will be fought](http://9gag.com/gag/aByL631)
+ - 😝 [Sorry, no potato](http://9gag.com/gag/a9yv5L0)
+ - 💣 [Crashing in a 1950s car vs. a modern car](http://9gag.com/gag/aAyEQXZ)
  - 😝 [\ud83d\udd25 Flex your killer skills and dominate the battlefield in Mecha BREAK!](http://9gag.com/gag/aO84e3y)
  - 👉 [Relax, he\u2019s just my gymnastics coach](http://9gag.com/gag/a87mDwZ)<!-- MEMES:END -->
 

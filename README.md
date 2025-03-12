@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Rivian joins the hands-free highway driving party](https://www.theverge.com/news/627831/rivian-hands-off-highway-driving-gen2-rally-mode)
+ - [Ditto, which aims to enable &quot;resilient&quot; edge device connectivity, raised an $82M Series B at a $462M post-money valuation, after a $45M Series A in April 2023 &lpar;Paul Sawers/TechCrunch&rpar;](http://www.techmeme.com/250312/p22#a250312p22)
+ - [iPhone 17 Slim could be 30% thinner than the iPhone 16](https://appleinsider.com/articles/25/03/12/iphone-17-slim-could-be-30-thinner-than-the-iphone-16?utm_medium=rss)
  - [Niantic&#39;s $3.5B deal gives Scopely, acquired by Saudi-owned Savvy Games Group in 2023 for $4.9B, a total audience of 500M+ players, driven by Monopoly Go! &lpar;Financial Times&rpar;](http://www.techmeme.com/250312/p21#a250312p21)
- - [How to Switch iPhones or iPads and Transfer Data &lpar;2025&rpar;](https://www.wired.com/story/how-to-switch-iphones-or-ipad/)
- - [Niantic Labs says it is selling its video game division, including Pok&amp;eacute;mon Go, to Saudi Arabia-owned developer Scopely for $3.5B, subject to regulatory approval &lpar;Jess Weatherbed/The Verge&rpar;](http://www.techmeme.com/250312/p20#a250312p20)
- - [iPhone 17 Pro set to get advanced vapor chamber cooling](https://appleinsider.com/articles/25/03/12/iphone-17-pro-set-to-get-advanced-vapor-chamber-cooling?utm_medium=rss)
- - [These Are 34 of the Best TV Shows on Netflix That Won&#39;t Disappoint](https://www.cnet.com/tech/services-and-software/best-tv-shows-netflix-2025/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [How to Switch iPhones or iPads and Transfer Data &lpar;2025&rpar;](https://www.wired.com/story/how-to-switch-iphones-or-ipad/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [A look at UK fintechs Revolut and Monzo&#39;s push to expand in the US, where they face steep challenges in a complex regulatory environment and strong competition &lpar;Akila Quinio/Financial Times&rpar;](http://www.techmeme.com/250312/p8#a250312p8)
  - [Deliveroo exits Hong Kong after tough competition from Foodpanda and Meituan&#39;s Keeta, which has expanded to Saudi Arabia, with 1M weekly users per Sensor Tower &lpar;Bloomberg&rpar;](http://www.techmeme.com/250312/p7#a250312p7)
- - [Sources: self-driving simulation software provider Applied Intuition is in talks to raise hundreds of millions at a $15B valuation; it reached $400M ARR in 2024 &lpar;The Information&rpar;](http://www.techmeme.com/250312/p6#a250312p6)
- - [India&#39;s largest telco Jio Platforms partners with SpaceX to offer Starlink in the country, just hours after rival Airtel announced a similar partnership &lpar;Jagmeet Singh/TechCrunch&rpar;](http://www.techmeme.com/250312/p5#a250312p5)
- - [Dyson Promo Codes: 20% Off | March 2025](https://www.wired.com/story/dyson-cordless-vacuum-promo-code/)
- - [Best Air Fryer Toaster Ovens for 2025](https://www.cnet.com/home/kitchen-and-household/best-countertop-oven-and-air-fryer/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Best Gel Mattress for 2025, Tested by CNET’s Bed Experts](https://www.cnet.com/health/sleep/best-gel-mattress/#ftag=CAD590a51e)
+ - [Best Internet Providers in Bismarck, North Dakota](https://www.cnet.com/home/internet/best-internet-providers-in-bismarck-nd/#ftag=CAD590a51e)
+ - [Sources: self-driving simulation software provider Applied Intuition is in talks to raise hundreds of millions at a $15B valuation; it reached $400M ARR in 2024 &lpar;The Information&rpar;](http://www.techmeme.com/250312/p6#a250312p6)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

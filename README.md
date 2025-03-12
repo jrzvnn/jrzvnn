@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [Meltdown at US House hearing after chairman called trans Democratic rep &#39;Mr&#39;](http://9gag.com/gag/aRBZM47)
+ - 😝 [100 Harry Potters vs 1000000 Kermit the frogs](http://9gag.com/gag/aByLLvA)
+ - 💣 [Mr Bean&#39;s enemy got an upgrade!\ud83d\udc80](http://9gag.com/gag/aZZwDO6)
  - 😝 [Goat trying to commit sudoku](http://9gag.com/gag/aE0VARO)
- - 😝 [Woman yanks bag of toys from kid](http://9gag.com/gag/aLnenBP)
- - 💣 [What I would&#39;ve done.](http://9gag.com/gag/aW4LGRd)
- - 😝 [I think you might need this spell](http://9gag.com/gag/adBOOVQ)
- - 👉 [This meme still gets me every time.](http://9gag.com/gag/ae9OZNm)<!-- MEMES:END -->
+ - 👉 [Stress can do a lot of things](http://9gag.com/gag/a0eVXpv)<!-- MEMES:END -->
 
 ---
 

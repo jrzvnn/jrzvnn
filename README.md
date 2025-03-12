@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [True colors!](http://9gag.com/gag/ayN4NdW)
- - 😝 [Long Term Investments](http://9gag.com/gag/axyvWMp)
- - 💣 [Dark humor](http://9gag.com/gag/aO848b3)
- - 😝 [It looks so good now](http://9gag.com/gag/aPAPxQq)
- - 👉 [Ah, Hell No ...](http://9gag.com/gag/abAOO6O)<!-- MEMES:END -->
+ - 😝 [Title](http://9gag.com/gag/aqy86g7)
+ - 😝 [Squirrel hears thunder and clutches his heart.](http://9gag.com/gag/a4PzzgA)
+ - 💣 [Ruined an awesome beach view video](http://9gag.com/gag/agmO1M1)
+ - 😝 [Daily dose of stand up comedy, enjoy!](http://9gag.com/gag/aE0VVjM)
+ - 👉 [Nostalgic vibes](http://9gag.com/gag/a5QBB6o)<!-- MEMES:END -->
 
 ---
 

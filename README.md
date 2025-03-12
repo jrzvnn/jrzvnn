@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Meltdown at US House hearing after chairman called trans Democratic rep &#39;Mr&#39;](http://9gag.com/gag/aRBZM47)
- - 😝 [100 Harry Potters vs 1000000 Kermit the frogs](http://9gag.com/gag/aByLLvA)
- - 💣 [Mr Bean&#39;s enemy got an upgrade!\ud83d\udc80](http://9gag.com/gag/aZZwDO6)
  - 😝 [Goat trying to commit sudoku](http://9gag.com/gag/aE0VARO)
- - 👉 [Stress can do a lot of things](http://9gag.com/gag/a0eVXpv)<!-- MEMES:END -->
+ - 😝 [If you know you know \ud83d\udc40](http://9gag.com/gag/ajPO79G)
+ - 💣 [Long Term Investments](http://9gag.com/gag/axyvWMp)
+ - 😝 [Meltdown at US House hearing after chairman called trans Democratic rep &#39;Mr&#39;](http://9gag.com/gag/aRBZM47)
+ - 👉 [Welcome to London. So much strength.](http://9gag.com/gag/aKG9vvZ)<!-- MEMES:END -->
 
 ---
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Binance says Abu Dhabi&#39;s MGX acquired a minority stake for $2B, the first institutional investment in the exchange and MGX&#39;s first entry into the crypto &lpar;Olga Kharif/Bloomberg&rpar;](http://www.techmeme.com/250312/p24#a250312p24)
  - [FCC chair asks if YouTube TV &amp;#8216;discriminates against faith-based programming&amp;#8217;](https://www.theverge.com/news/628094/fcc-youtube-tv-faith-based-programming-discrimination)
  - [Morgan Stanley slashes AAPL price target to $252 on lower iPhone upgrade rate fears](https://appleinsider.com/articles/25/03/12/morgan-stanley-slashes-aapl-price-target-to-252-on-lower-iphone-upgrade-rate-fears?utm_medium=rss)
  - [10 Best Android Phones of 2025, Tested and Reviewed](https://www.wired.com/gallery/best-android-phones/)
- - [All this bad AI is wrecking a whole generation of gadgets](https://www.theverge.com/gadgets/628039/bad-ai-gadgets-siri-alexa)
- - [Don&#39;t wait to update: iOS 18.3.2 fixes an actively exploited issue](https://appleinsider.com/articles/25/03/11/dont-wait-to-update-ios-1832-fixes-an-actively-exploited-issue?utm_medium=rss)<!-- TECH:END -->
+ - [All this bad AI is wrecking a whole generation of gadgets](https://www.theverge.com/gadgets/628039/bad-ai-gadgets-siri-alexa)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: the FTC moves ahead with an antitrust probe of Microsoft opened by Lina Khan, signaling that new Chair Andrew Ferguson prioritizes Big Tech scrutiny &lpar;Bloomberg&rpar;](http://www.techmeme.com/250312/p33#a250312p33)
+ - [Intel appoints former board member Lip-Bu Tan as CEO, effective March 18; INTC jumps 11%+ after hours &lpar;Bhanvi Satija/Reuters&rpar;](http://www.techmeme.com/250312/p34#a250312p34)
+ - [Solar and wind beat coal in the US for the first time](https://www.theverge.com/news/628369/solar-wind-beat-coal-us-ember-report)
  - [NASA plans to launch SpaceX Crew-10 tonight to help bring the Starliner astronauts home](https://www.theverge.com/news/628311/nasa-crew-10-mission-starliner-astronauts-return-spacex)
- - [Trump’s first 100 days: all the news affecting the tech industry](https://www.theverge.com/24348851/donald-trump-presidency-tech-science-news)
- - [FTC asks to delay Amazon Prime deceptive practices trial](https://www.theverge.com/news/628418/ftc-amazon-prime-deceptive-practices-delay-trial)
- - [NordVPN review: An extensive VPN privacy package](https://appleinsider.com/articles/25/03/12/nordvpn-review-an-extensive-vpn-privacy-package?utm_medium=rss)<!-- TECH:END -->
+ - [Sources: the FTC moves ahead with an antitrust probe of Microsoft opened by Lina Khan, signaling that new Chair Andrew Ferguson prioritizes Big Tech scrutiny &lpar;Bloomberg&rpar;](http://www.techmeme.com/250312/p33#a250312p33)
+ - [Trump’s first 100 days: all the news affecting the tech industry](https://www.theverge.com/24348851/donald-trump-presidency-tech-science-news)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

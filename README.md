@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Trump’s first 100 days: all the news affecting the tech industry](https://www.theverge.com/24348851/donald-trump-presidency-tech-science-news)
- - [FCC chairman asks the public to list every regulation he should remove](https://www.theverge.com/news/628288/fcc-chair-brendan-carr-deregulate-delete)
- - [A Trump official has been moonlighting as a fashion influencer](https://www.theverge.com/news/628067/opm-fashion-influencer-affiliate-links-mclaurine-pinover)
- - [How to Use Signal Encrypted Messaging](https://www.wired.com/story/signal-tips-private-messaging-encryption/)
- - [Moft’s new origami case elevates the iPad for improved ergonomics](https://www.theverge.com/news/628261/moft-dynamic-folio-apple-ipad-tablet-case-folding-origami)<!-- TECH:END -->
+ - [Samsung launches $10,000 bundle of eight big TVs](https://www.theverge.com/news/628295/samsung-buzzer-beater-bundle-neo-qled)
+ - [Snapchat introduces AI video Lenses, powered by Snap&#39;s in-house generative video model, available to subscribers of the $16/month Snapchat Platinum tier &lpar;Aisha Malik/TechCrunch&rpar;](http://www.techmeme.com/250312/p28#a250312p28)
+ - [Sonos has canceled its streaming video player](https://www.theverge.com/tech/628297/sonos-pinewood-streaming-box-canceled)
+ - [How a Government Shutdown Would Help Elon Musk](https://www.wired.com/story/uncanny-valley-podcast-elon-musk-government-shutdown/)
+ - [Trump’s first 100 days: all the news affecting the tech industry](https://www.theverge.com/24348851/donald-trump-presidency-tech-science-news)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

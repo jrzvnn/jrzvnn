@@ -160,8 +160,8 @@ R                        1 repo              ░░░░░░░░░░░�
  - [All the news about daily puzzle games](https://www.theverge.com/2024/10/25/24279439/news-games-crossword-wordle)
  - [Toyota introduces an electric C-HR and updated bZ4X for Europe](https://www.theverge.com/electric-cars/628106/toyota-electric-c-hr-europe-bz4x-update-range-power-faster-charging)
  - [Democrats Demand Answers on DOGE’s Use of AI](https://www.wired.com/story/elon-musk-federal-agencies-ai/)
- - [Google DeepMind launches two AI models, Gemini 2.0-based Robotics and Robotics-ER, to help robots &quot;perform a wider range of real-world tasks than ever before&quot; &lpar;Emma Roth/The Verge&rpar;](http://www.techmeme.com/250312/p25#a250312p25)
- - [Google’s Gemini Robotics AI Model Reaches Into the Physical World](https://www.wired.com/story/googles-gemini-robotics-ai-model-that-reaches-into-the-physical-world/)<!-- TECH:END -->
+ - [Scamming the Scammers: Meet the Deepfake Granny, Digital Bots and YouTubers Fighting AI Fraud](https://www.cnet.com/personal-finance/features/scamming-the-scammers-meet-the-digital-granny-bots-and-youtubers-fighting-ai-fraud/#ftag=CAD590a51e)
+ - [Google DeepMind launches two AI models, Gemini 2.0-based Robotics and Robotics-ER, to help robots &quot;perform a wider range of real-world tasks than ever before&quot; &lpar;Emma Roth/The Verge&rpar;](http://www.techmeme.com/250312/p25#a250312p25)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

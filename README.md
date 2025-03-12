@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Spectre Divide and its developer are shutting down](https://www.theverge.com/news/628698/spectre-divide-mountaintop-studios-shutting-down)
  - [The best deals on MacBooks right now](https://www.theverge.com/22399419/apple-macbook-air-pro-mac-mini-imac-deals)
  - [NASA’s SpaceX Crew-10 mission prepares to help bring the Starliner astronauts home](https://www.theverge.com/news/628311/nasa-crew-10-mission-starliner-astronauts-return-spacex)
  - [Meta is trying to block ex-employee’s book alleging misconduct and harassment](https://www.theverge.com/news/628643/meta-careless-people-sarah-wynn-williams-arbitrator-suing)
- - [Google calls the passage of Utah&#39;s app store age-verification bill &quot;concerning&quot; and part of an effort by Meta and others to &quot;offload&quot; kids&#39; safety to app stores &lpar;Lauren Feiner/The Verge&rpar;](http://www.techmeme.com/250312/p40#a250312p40)
- - [In its final decision report, the UK CMA finds that Apple and Google&#39;s mobile browser duopoly is &quot;holding back innovation&quot;, but offers no enforcement action &lpar;Natasha Lomas/TechCrunch&rpar;](http://www.techmeme.com/250312/p39#a250312p39)<!-- TECH:END -->
+ - [Google calls the passage of Utah&#39;s app store age-verification bill &quot;concerning&quot; and part of an effort by Meta and others to &quot;offload&quot; kids&#39; safety to app stores &lpar;Lauren Feiner/The Verge&rpar;](http://www.techmeme.com/250312/p40#a250312p40)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

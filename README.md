@@ -167,10 +167,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [Relax, he\u2019s just my gymnastics coach](http://9gag.com/gag/a87mDwZ)
- - 😝 [Long Term Investments](http://9gag.com/gag/axyvWMp)
- - 💣 [Goat trying to commit sudoku](http://9gag.com/gag/aE0VARO)
+ - 😝 [Goat trying to commit sudoku](http://9gag.com/gag/aE0VARO)
+ - 💣 [Long Term Investments](http://9gag.com/gag/axyvWMp)
  - 😝 [\ud83d\udd25 Flex your killer skills and dominate the battlefield in Mecha BREAK!](http://9gag.com/gag/aO84e3y)
- - 👉 [What happens when you dont download from fitgirl](http://9gag.com/gag/aVvEKEy)<!-- MEMES:END -->
+ - 👉 [*Looks at the thumb* Story checks out](http://9gag.com/gag/aXPNN8z)<!-- MEMES:END -->
 
 ---
 

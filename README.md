@@ -166,9 +166,9 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [Goat trying to commit sudoku](http://9gag.com/gag/aE0VARO)
  - 😝 [Who wants some popcorn???](http://9gag.com/gag/aoyV8De)
- - 😝 [Lovely sight, someone found a machine in a matching color of the Mosque. Now let&#39;s see same done around UK and worldwide!](http://9gag.com/gag/a87mm3V)
- - 💣 [First time I hear a house crying](http://9gag.com/gag/a9yv8o1)
+ - 💣 [What radicalized you ?](http://9gag.com/gag/a87m21p)
  - 😝 [Steakhouse kithcen](http://9gag.com/gag/a7oe24e)
  - 👉 [Turkish airlines](http://9gag.com/gag/a0eV1QQ)<!-- MEMES:END -->
 

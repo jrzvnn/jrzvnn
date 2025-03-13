@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Turkish airlines](http://9gag.com/gag/a0eV1QQ)
- - 😝 [Who wants some popcorn???](http://9gag.com/gag/aoyV8De)
- - 💣 [*Looks at the thumb* Story checks out](http://9gag.com/gag/aXPNN8z)
- - 😝 [What happens when you dont download from fitgirl](http://9gag.com/gag/aVvEKEy)
- - 👉 [\ud83d\udd25 Flex your killer skills and dominate the battlefield in Mecha BREAK!](http://9gag.com/gag/aO84e3y)<!-- MEMES:END -->
+ - 😝 [His smile didn&#39;t last long](http://9gag.com/gag/aQzQAmW)
+ - 😝 [OSHA girl will be very disappointed](http://9gag.com/gag/an7nnRz)
+ - 💣 [Is this true?](http://9gag.com/gag/a0eVV8B)
+ - 😝 [Steakhouse kithcen](http://9gag.com/gag/a7oe24e)
+ - 👉 [Turkish airlines](http://9gag.com/gag/a0eV1QQ)<!-- MEMES:END -->
 
 ---
 

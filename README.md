@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google releases its proposals for White House&#39;s AI Action Plan, arguing that &quot;fair use and text-and-data mining exceptions&quot; are &quot;critical&quot; to AI development &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/250313/p42#a250313p42)
- - [ViewSonic&#39;s new 5K monitor rivals Apple&#39;s Studio Display for half the price](https://appleinsider.com/articles/25/03/13/viewsonics-new-5k-monitor-rivals-apples-studio-display-for-half-the-price?utm_medium=rss)
- - [US lawmakers denounce UK&#39;s secretive attack against Apple encryption](https://appleinsider.com/articles/25/03/13/us-lawmakers-denounce-uks-secretive-attack-against-apple-encryption?utm_medium=rss)
+ - [The best budget smartphone you can buy](https://www.theverge.com/21420196/best-budget-smartphone-cheap)
+ - [AI summaries are coming to Notepad](https://www.theverge.com/news/629412/windows-11-notepad-ai-summaries-snipping-tool)
  - [Trump’s first 100 days: all the news affecting the tech industry](https://www.theverge.com/24348851/donald-trump-presidency-tech-science-news)
- - [Tesla Cybertruck deliveries reportedly on hold because the trim is flying off](https://www.theverge.com/news/629352/tesla-cybertruck-deliveries-on-hold-loose-trim)<!-- TECH:END -->
+ - [Google releases its proposals for White House&#39;s AI Action Plan, arguing that &quot;fair use and text-and-data mining exceptions&quot; are &quot;critical&quot; to AI development &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/250313/p42#a250313p42)
+ - [ViewSonic&#39;s new 5K monitor rivals Apple&#39;s Studio Display for half the price](https://appleinsider.com/articles/25/03/13/viewsonics-new-5k-monitor-rivals-apples-studio-display-for-half-the-price?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Adding to the Anti-Bot Brigade](http://9gag.com/gag/a1mD5Mv)
- - 😝 [The art of the deal](http://9gag.com/gag/a7oeenx)
- - 💣 [Brave bad boy](http://9gag.com/gag/a7oe0Yq)
+ - 😝 [Good idea for older people](http://9gag.com/gag/awym4oW)
+ - 😝 [Sean Lock at 8 out of 10 cats](http://9gag.com/gag/avyexO5)
+ - 💣 [His friends must be using his popularity card a lot](http://9gag.com/gag/aNDv4Z0)
  - 😝 [\ud83d\udd25 Flex your killer skills and dominate the battlefield in Mecha BREAK!](http://9gag.com/gag/aO84e3y)
- - 👉 [His smile didn&#39;t last long](http://9gag.com/gag/aQzQAmW)<!-- MEMES:END -->
+ - 👉 [I think we need more Parkour fail videos on 9Gag, what do you think?](http://9gag.com/gag/ayN4WVy)<!-- MEMES:END -->
 
 ---
 

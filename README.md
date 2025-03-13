@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Your existing AirPods could gain a new live translation feature in iOS 19](https://appleinsider.com/articles/25/03/13/your-existing-airpods-could-gain-a-new-live-translation-feature-in-ios-19?utm_medium=rss)
+ - [Curious If Meal Kits Are Cheaper Than Groceries? I Did the Math to Find Out](https://www.cnet.com/health/nutrition/curious-if-meal-kits-are-cheaper-than-groceries-i-did-the-math-to-find-out/#ftag=CAD590a51e)
+ - [Today&#39;s NYT Connections: Sports Edition Hints and Answers for March 14, #172](https://www.cnet.com/tech/gaming/todays-nyt-connections-sports-edition-hints-and-answers-for-march-14-172/#ftag=CAD590a51e)
  - [Apple is reportedly bringing live translation to AirPods](https://www.theverge.com/news/629506/apple-airpods-live-translation-ios-19)
- - [A24’s Opus is a stylish symphony of half-baked ideas](https://www.theverge.com/movie-reviews/628283/a24-opus-review)
- - [OpenAI calls DeepSeek &quot;state-controlled&quot; and recommends that the US consider banning &quot;PRC-produced&quot; models that &quot;violate user privacy and create security risks&quot; &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/250313/p44#a250313p44)
- - [Google is rolling out a fix for broken Chromecasts](https://www.theverge.com/news/629453/google-chromecase-2nd-gen-audio-fix-roll-out)
- - [Sources: Apple is planning a new AirPods feature as part of iOS 19 that will enable live-translation of in-person conversations &lpar;Mark Gurman/Bloomberg&rpar;](http://www.techmeme.com/250313/p43#a250313p43)<!-- TECH:END -->
+ - [Today&#39;s NYT Strands Hints, Answers and Help for March 14, #376](https://www.cnet.com/tech/gaming/todays-nyt-strands-hints-answers-and-help-for-march-14-376/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Deliveroo reports FY 2024 revenue up 2% YoY to &amp;pound;2.08B and a &amp;pound;2.9M net profit, up from a &amp;pound;31.8M loss in 2023, its first annual profit, and plans a &amp;pound;100M buyback &lpar;Kieran Smith/Financial Times&rpar;](http://www.techmeme.com/250313/p21#a250313p21)
- - [Meta says Community Notes will use the same open-source algorithm that powers X&#39;s Community Notes, but it plans to modify the algorithm to better serve its apps &lpar;Jonathan Vanian/CNBC&rpar;](http://www.techmeme.com/250313/p20#a250313p20)
- - [Meta plans to test Community Notes on Facebook, Instagram, and Threads in the US from March 18; Joel Kaplan says notes will not have &quot;distribution penalties&quot; &lpar;Brooke Singman/Fox News&rpar;](http://www.techmeme.com/250313/p19#a250313p19)
- - [Tel Aviv-based Bria, which licenses images from 30+ partners like Getty to train AI, raised a $40M Series B led by Red Dot, taking its total funding to $65M &lpar;Globes Online&rpar;](http://www.techmeme.com/250313/p18#a250313p18)
- - [Contentious Republican town halls are going viral](https://www.theverge.com/news/628284/republican-town-hall-videos-doge-musk-trump-tiktok)<!-- TECH:END -->
+ - [An iPhone 17 Pro Max metal frame image leak is more about cases](https://appleinsider.com/articles/25/03/13/an-iphone-17-pro-max-metal-frame-image-leak-is-more-about-cases?utm_medium=rss)
+ - [The latest alternative iOS app store in Europe is all about games](https://www.theverge.com/news/628860/skich-ios-app-store-third-party-gaming)
+ - [All the news about Nvidia’s RTX 50-series GPUs](https://www.theverge.com/2025/1/25/24351798/nvidia-rtx-5090-5080-5070-gpu-news-rumors)
+ - [Roblox CEO Dave Baszucki tells parents that &quot;if you&#39;re not comfortable, don&#39;t let your kids be on Roblox&quot; and says &quot;tens of millions&quot; have positive experiences &lpar;BBC&rpar;](http://www.techmeme.com/250313/p23#a250313p23)
+ - [Meta says contributors will not be able to submit Community Notes on ads &quot;to start with&quot;, but they can submit them on posts by politicians and public figures &lpar;Meta&rpar;](http://www.techmeme.com/250313/p22#a250313p22)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -167,9 +167,9 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [Turkish airlines](http://9gag.com/gag/a0eV1QQ)
- - 😝 [What happens when you dont download from fitgirl](http://9gag.com/gag/aVvEKEy)
+ - 😝 [Steakhouse kithcen](http://9gag.com/gag/a7oe24e)
  - 💣 [A few tries to crack a password](http://9gag.com/gag/aZZwjjQ)
- - 😝 [Who wants some popcorn???](http://9gag.com/gag/aoyV8De)
+ - 😝 [Magnus Schevin, Athletic legend. Also known as `Sportacus`](http://9gag.com/gag/aVvEm4v)
  - 👉 [First time I hear a house crying](http://9gag.com/gag/a9yv8o1)<!-- MEMES:END -->
 
 ---

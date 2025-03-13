@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Facebook, Instagram, and Threads start testing Community Notes next week](https://www.theverge.com/news/628875/facebook-instagram-threads-community-notes-test)
+ - [Sources: Trump family representatives have held talks to take a financial stake in Binance US, and Changpeng Zhao has been pushing for Trump to pardon him &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/250313/p24#a250313p24)
+ - [How to Back Up Your iPhone to iCloud, MacOS, or Windows &lpar;2025&rpar;](https://www.wired.com/story/how-to-backup-your-iphone/)
  - [An iPhone 17 Pro Max metal frame image leak is more about cases](https://appleinsider.com/articles/25/03/13/an-iphone-17-pro-max-metal-frame-image-leak-is-more-about-cases?utm_medium=rss)
- - [The latest alternative iOS app store in Europe is all about games](https://www.theverge.com/news/628860/skich-ios-app-store-third-party-gaming)
- - [All the news about Nvidia’s RTX 50-series GPUs](https://www.theverge.com/2025/1/25/24351798/nvidia-rtx-5090-5080-5070-gpu-news-rumors)
- - [Roblox CEO Dave Baszucki tells parents that &quot;if you&#39;re not comfortable, don&#39;t let your kids be on Roblox&quot; and says &quot;tens of millions&quot; have positive experiences &lpar;BBC&rpar;](http://www.techmeme.com/250313/p23#a250313p23)
- - [Meta says contributors will not be able to submit Community Notes on ads &quot;to start with&quot;, but they can submit them on posts by politicians and public figures &lpar;Meta&rpar;](http://www.techmeme.com/250313/p22#a250313p22)<!-- TECH:END -->
+ - [The latest alternative iOS app store in Europe is all about games](https://www.theverge.com/news/628860/skich-ios-app-store-third-party-gaming)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Paid for](http://9gag.com/gag/a34A27N)
- - 😝 [Turkish airlines](http://9gag.com/gag/a0eV1QQ)
- - 💣 [What happens when you dont download from fitgirl](http://9gag.com/gag/aVvEKEy)
+ - 😝 [Today&#39;s advice](http://9gag.com/gag/ae9O1w5)
+ - 😝 [Accurate](http://9gag.com/gag/aByLLDx)
+ - 💣 [This meme still gets me every time.](http://9gag.com/gag/ae9OZNm)
  - 😝 [\ud83d\udd25 Flex your killer skills and dominate the battlefield in Mecha BREAK!](http://9gag.com/gag/aO84e3y)
- - 👉 [*Looks at the thumb* Story checks out](http://9gag.com/gag/aXPNN8z)<!-- MEMES:END -->
+ - 👉 [A few tries to crack a password](http://9gag.com/gag/aZZwjjQ)<!-- MEMES:END -->
 
 ---
 

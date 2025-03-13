@@ -166,10 +166,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [His smile didn&#39;t last long](http://9gag.com/gag/aQzQAmW)
  - 😝 [Turkish airlines](http://9gag.com/gag/a0eV1QQ)
- - 😝 [Steakhouse kithcen](http://9gag.com/gag/a7oe24e)
- - 💣 [A few tries to crack a password](http://9gag.com/gag/aZZwjjQ)
- - 😝 [Magnus Schevin, Athletic legend. Also known as `Sportacus`](http://9gag.com/gag/aVvEm4v)
+ - 💣 [*Looks at the thumb* Story checks out](http://9gag.com/gag/aXPNN8z)
+ - 😝 [Who wants some popcorn???](http://9gag.com/gag/aoyV8De)
  - 👉 [First time I hear a house crying](http://9gag.com/gag/a9yv8o1)<!-- MEMES:END -->
 
 ---

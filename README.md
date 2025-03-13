@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Amazon slashes Apple&#39;s MacBook Air to $699.99](https://appleinsider.com/articles/25/03/13/amazon-slashes-apples-macbook-air-to-69999?utm_medium=rss)
+ - [Singapore prosecutors say a case in which Singapore-based companies are accused of fraudulently supplying US servers to Malaysia involves $390M in transactions &lpar;Reuters&rpar;](http://www.techmeme.com/250313/p11#a250313p11)
+ - [‘People Are Scared’: Inside CISA as It Reels From Trump’s Purge](https://www.wired.com/story/inside-cisa-under-trump/)
  - [A look at Paris-based incubator Station F, which includes Hugging Face as alumni and whose startups raised &amp;euro;1B+ for three straight years, up from &amp;euro;250M in 2017 &lpar;Financial Times&rpar;](http://www.techmeme.com/250313/p10#a250313p10)
- - [Intel&#39;s new CEO Lip-Bu Tan says he will stick with the costly foundry plan, which led to Pat Gelsinger&#39;s ouster, to make Intel &quot;a world-class products company&quot; &lpar;Ian King/Bloomberg&rpar;](http://www.techmeme.com/250313/p9#a250313p9)
- - [Japanese chipmaker Rapidus has been slow to attract private sector investment, with only around $49M invested so far, compared to $6.23B in state assistance &lpar;Nikkei Asia&rpar;](http://www.techmeme.com/250313/p8#a250313p8)
- - [Analysis: the UK has 29 of Europe&#39;s top 150 startup hubs, followed by Germany with 19; Munich&#39;s UnternehmerTUM, which has incubated 1K+ companies, ranks on top &lpar;John Thornhill/Financial Times&rpar;](http://www.techmeme.com/250313/p7#a250313p7)
- - [Covid Vaccines Have Paved the Way for Cancer Vaccines](https://www.wired.com/story/wired-health-lennard-lee-cancer-vaccines/)<!-- TECH:END -->
+ - [Intel&#39;s new CEO Lip-Bu Tan says he will stick with the costly foundry plan, which led to Pat Gelsinger&#39;s ouster, to make Intel &quot;a world-class products company&quot; &lpar;Ian King/Bloomberg&rpar;](http://www.techmeme.com/250313/p9#a250313p9)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

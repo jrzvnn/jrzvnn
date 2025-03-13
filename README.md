@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [Goat trying to commit sudoku](http://9gag.com/gag/aE0VARO)
  - 😝 [Turkish airlines](http://9gag.com/gag/a0eV1QQ)
- - 😝 [First time I hear a house crying](http://9gag.com/gag/a9yv8o1)
- - 💣 [If you don&#39;t pay you don&#39;t get the bridge](http://9gag.com/gag/amoGxg4)
- - 😝 [He is not cheating btw](http://9gag.com/gag/ae9Ox1Q)
- - 👉 [Steakhouse kithcen](http://9gag.com/gag/a7oe24e)<!-- MEMES:END -->
+ - 💣 [Steakhouse kithcen](http://9gag.com/gag/a7oe24e)
+ - 😝 [Who wants some popcorn???](http://9gag.com/gag/aoyV8De)
+ - 👉 [waiting for something to come..](https://www.reddit.com/r/funny/comments/1jah7jr/waiting_for_something_to_come/)<!-- MEMES:END -->
 
 ---
 

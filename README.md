@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Alibaba debuts New Quark, an updated app using its flagship Qwen reasoning model, rolling out gradually, as it seeks to keep up with DeepSeek and Chinese rivals &lpar;Bloomberg&rpar;](http://www.techmeme.com/250313/p13#a250313p13)
+ - [A look at UK-based startup accelerator Founders Factory, which has invested in 300+ startups; KPMG says UK VC funding fell from $20B in 2023 to $15B in 2024 &lpar;Nick Huber/Financial Times&rpar;](http://www.techmeme.com/250313/p12#a250313p12)
+ - [UK investigation says Apple and Google are ‘holding back’ mobile browsers](https://www.theverge.com/news/628472/apple-safari-ios-google-android-chrome-cma-competition)
  - [Amazon slashes Apple&#39;s MacBook Air to $699.99](https://appleinsider.com/articles/25/03/13/amazon-slashes-apples-macbook-air-to-69999?utm_medium=rss)
- - [Singapore prosecutors say a case in which Singapore-based companies are accused of fraudulently supplying US servers to Malaysia involves $390M in transactions &lpar;Reuters&rpar;](http://www.techmeme.com/250313/p11#a250313p11)
- - [‘People Are Scared’: Inside CISA as It Reels From Trump’s Purge](https://www.wired.com/story/inside-cisa-under-trump/)
- - [A look at Paris-based incubator Station F, which includes Hugging Face as alumni and whose startups raised &amp;euro;1B+ for three straight years, up from &amp;euro;250M in 2017 &lpar;Financial Times&rpar;](http://www.techmeme.com/250313/p10#a250313p10)
- - [Intel&#39;s new CEO Lip-Bu Tan says he will stick with the costly foundry plan, which led to Pat Gelsinger&#39;s ouster, to make Intel &quot;a world-class products company&quot; &lpar;Ian King/Bloomberg&rpar;](http://www.techmeme.com/250313/p9#a250313p9)<!-- TECH:END -->
+ - [Singapore prosecutors say a case in which Singapore-based companies are accused of fraudulently supplying US servers to Malaysia involves $390M in transactions &lpar;Reuters&rpar;](http://www.techmeme.com/250313/p11#a250313p11)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

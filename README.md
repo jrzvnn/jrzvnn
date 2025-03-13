@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Trump’s first 100 days: all the news affecting the tech industry](https://www.theverge.com/24348851/donald-trump-presidency-tech-science-news)
+ - [The Trump administration faces a fight over ‘biggest’ environmental deregulatory action in US history](https://www.theverge.com/news/629128/trump-environmental-deregulation-epa)
  - [Apple is lying about Apple Intelligence, John Gruber says -- and he&#39;s right](https://appleinsider.com/articles/25/03/13/apple-is-lying-about-apple-intelligence-john-gruber-says-and-hes-right?utm_medium=rss)
  - [Cohere debuts Command A, its latest generative AI model for agentic enterprise tasks, with a context length of 256K tokens and requiring just two A100s or H100s &lpar;Carl Franzen/VentureBeat&rpar;](http://www.techmeme.com/250313/p37#a250313p37)
- - [Google makes Gems, its personalized Gemini chatbots, free for all users and offers several premade Gems including Career guide and Coding partner &lpar;Pranob Mehrotra/Android Authority&rpar;](http://www.techmeme.com/250313/p36#a250313p36)
- - [Adobe&#39;s stock falls 12%+ after reporting a disappointing Q2 outlook and investor concerns that it is falling behind some rivals and losing its AI advantage &lpar;CNBC&rpar;](http://www.techmeme.com/250313/p35#a250313p35)
- - [Google says Gemini can now personalize answers based on users&#39; search history, available as an experimental feature to Gemini and Gemini Advanced subscribers &lpar;Emma Roth/The Verge&rpar;](http://www.techmeme.com/250313/p34#a250313p34)<!-- TECH:END -->
+ - [Sony’s Dazzling New RGB LED TV Comes in 2026](https://www.wired.com/story/sony-rgb-led-tv/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

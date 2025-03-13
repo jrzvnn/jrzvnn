@@ -166,10 +166,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Motorcycle accident](http://9gag.com/gag/a7oeNAw)
- - 😝 [Is this true?](http://9gag.com/gag/a0eVV8B)
- - 💣 [What happens when you dont download from fitgirl](http://9gag.com/gag/aVvEKEy)
- - 😝 [NOW - Green flames rise from manhole covers on Texas Tech campus. Buildings are being evacuated.](http://9gag.com/gag/aW4L2pZ)
+ - 😝 [I think we need more Parkour fail videos on 9Gag, what do you think?](http://9gag.com/gag/ayN4WVy)
+ - 😝 [His friends must be using his popularity card a lot](http://9gag.com/gag/aNDv4Z0)
+ - 💣 [AEZAKMI](http://9gag.com/gag/aqy8Wnj)
+ - 😝 [It&#39;s never the same again](http://9gag.com/gag/aVvEZoM)
  - 👉 [\ud83d\udd25 Flex your killer skills and dominate the battlefield in Mecha BREAK!](http://9gag.com/gag/aO84e3y)<!-- MEMES:END -->
 
 ---

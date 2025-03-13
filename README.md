@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [It was intense](http://9gag.com/gag/aRBZ2x7)
- - 😝 [White people making street food like Indians.](http://9gag.com/gag/aMVmXWx)
- - 💣 [American influencer being deported for kidnapping baby wombat from mother... and banned from Australia, her Boyfriend facing criminal charges...](http://9gag.com/gag/axyvP81)
- - 😝 [Paid for](http://9gag.com/gag/a34A27N)
- - 👉 [Going to tell my kids this is Grey&#39;s Anatomy](http://9gag.com/gag/a1mDLgP)<!-- MEMES:END -->
+ - 😝 [Turkish airlines](http://9gag.com/gag/a0eV1QQ)
+ - 😝 [What radicalized you ?](http://9gag.com/gag/a87m21p)
+ - 💣 [How close was it for South Korea to lose the war.](http://9gag.com/gag/amoGp79)
+ - 😝 [Who wants some popcorn???](http://9gag.com/gag/aoyV8De)
+ - 👉 [Goat trying to commit sudoku](http://9gag.com/gag/aE0VARO)<!-- MEMES:END -->
 
 ---
 

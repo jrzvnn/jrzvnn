@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [A profile of Intel&#39;s new CEO Lip-Bu Tan, who invested in Annapurna Labs and Nuvia and revived the fortunes of chip design firm Cadence Design Systems as its CEO &lpar;Reuters&rpar;](http://www.techmeme.com/250313/p2#a250313p2)
+ - [Boston-based Insilico, which uses AI for drug discovery and has extensive operations in China, raised a $110M Series E led by Value Partners at a $1B+ valuation &lpar;Saritha Rai/Bloomberg&rpar;](http://www.techmeme.com/250313/p1#a250313p1)
+ - [1Password Coupon: Get Up to 50% Off in March](https://www.wired.com/story/1password-coupon/)
  - [Today&#39;s NYT Mini Crossword Answers for Thursday, March 13](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-thursday-march-13/#ftag=CAD590a51e)
- - [How to view installer logs in macOS](https://appleinsider.com/articles/25/03/13/how-to-view-installer-logs-in-macos?utm_medium=rss)
- - [By previewing smarter Siri vaporware at WWDC and the iPhone 16 launch, Apple burned a reputation earned over decades for only promising actual working products &lpar;John Gruber/Daring Fireball&rpar;](http://www.techmeme.com/250312/p44#a250312p44)
- - [UiPath shares fell over 15% after the company projected FY 2026 sales of $1.525B to $1.53B, vs. $1.58B estimates; PATH is down 51.6% over the past 12 months &lpar;Bill Peters/MarketWatch&rpar;](http://www.techmeme.com/250312/p43#a250312p43)
- - [D-Wave claims it has achieved &quot;quantum supremacy&quot; with its quantum annealing processors; some physicists say classical computers can achieve comparable results &lpar;Belle Lin/Wall Street Journal&rpar;](http://www.techmeme.com/250312/p42#a250312p42)<!-- TECH:END -->
+ - [How to view installer logs in macOS](https://appleinsider.com/articles/25/03/13/how-to-view-installer-logs-in-macos?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

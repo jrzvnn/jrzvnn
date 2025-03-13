@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Sources: Oracle is a leading contender to help run TikTok US; ByteDance management prefers Oracle but wants to retain a hands-on role with TikTok&#39;s operations &lpar;The Information&rpar;](http://www.techmeme.com/250313/p26#a250313p26)
+ - [Warner Bros. is turning All You Need Is Kill into a stunning new anime movie](https://www.theverge.com/news/628878/all-you-need-is-kill-kenichiro-akimoto-warner-bros)
+ - [Omni, which offers data analysis tools, raised a $69M Series B led by ICONIQ Growth at a $650M valuation, bringing its total raised to $97M &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/250313/p25#a250313p25)
  - [Sigma BF review: the perfect camera for a minimalist](https://www.theverge.com/camera-review/628519/sigma-bf-camera-review-photography-specs)
- - [The United States of Elon Musk Inc.](https://www.wired.com/story/elon-musk-donald-trump-doge-congress-takeover/)
- - [Why Trump can’t be trusted with Congress’ new anti-deepfake bill](https://www.theverge.com/decoder-podcast-with-nilay-patel/627868/take-it-down-act-weapon-trump-ncii-deepfakes)
- - [All the smart home news, reviews, and gadgets you need to know about](https://www.theverge.com/24190824/smart-home-news-reviews-guides-gadgets)
- - [Companies Might Soon Have to Tell You When Their Products Will Die](https://www.wired.com/story/companies-might-soon-have-to-tell-you-when-their-products-will-die/)<!-- TECH:END -->
+ - [The United States of Elon Musk Inc.](https://www.wired.com/story/elon-musk-donald-trump-doge-congress-takeover/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

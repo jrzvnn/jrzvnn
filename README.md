@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Apple is lying about Apple Intelligence John Gruber says, and he&#39;s right](https://appleinsider.com/articles/25/03/13/apple-is-lying-about-apple-intelligence-john-gruber-says-and-hes-right?utm_medium=rss)
+ - [How to Set Up Your New iPhone &lpar;2025&rpar;](https://www.wired.com/story/how-to-set-up-a-new-iphone/)
  - [Facebook, Instagram, and Threads start testing Community Notes next week](https://www.theverge.com/news/628875/facebook-instagram-threads-community-notes-test)
  - [Sources: Trump family representatives have held talks to take a financial stake in Binance US, and Changpeng Zhao has been pushing for Trump to pardon him &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/250313/p24#a250313p24)
- - [How to Back Up Your iPhone to iCloud, MacOS, or Windows &lpar;2025&rpar;](https://www.wired.com/story/how-to-backup-your-iphone/)
- - [An iPhone 17 Pro Max metal frame image leak is more about cases](https://appleinsider.com/articles/25/03/13/an-iphone-17-pro-max-metal-frame-image-leak-is-more-about-cases?utm_medium=rss)
- - [The latest alternative iOS app store in Europe is all about games](https://www.theverge.com/news/628860/skich-ios-app-store-third-party-gaming)<!-- TECH:END -->
+ - [&#39;Kraven the Hunter&#39;: How to Watch the Film From Anywhere](https://www.cnet.com/tech/services-and-software/kraven-the-hunter-how-to-watch-the-film-from-anywhere/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

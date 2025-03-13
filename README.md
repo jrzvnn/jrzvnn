@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [GoTo, which operates Gojek and is a part owner of e-commerce company Tokopedia, reports adjusted EBITDA of $23.5M for 2024, its first annual profit &lpar;A. Anantha Lakshmi/Financial Times&rpar;](http://www.techmeme.com/250313/p3#a250313p3)
  - [A profile of Intel&#39;s new CEO Lip-Bu Tan, who invested in Annapurna Labs and Nuvia and revived the fortunes of chip design firm Cadence Design Systems as its CEO &lpar;Reuters&rpar;](http://www.techmeme.com/250313/p2#a250313p2)
  - [Boston-based Insilico, which uses AI for drug discovery and has extensive operations in China, raised a $110M Series E led by Value Partners at a $1B+ valuation &lpar;Saritha Rai/Bloomberg&rpar;](http://www.techmeme.com/250313/p1#a250313p1)
  - [1Password Coupon: Get Up to 50% Off in March](https://www.wired.com/story/1password-coupon/)
- - [Today&#39;s NYT Mini Crossword Answers for Thursday, March 13](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-thursday-march-13/#ftag=CAD590a51e)
- - [How to view installer logs in macOS](https://appleinsider.com/articles/25/03/13/how-to-view-installer-logs-in-macos?utm_medium=rss)<!-- TECH:END -->
+ - [Today&#39;s NYT Mini Crossword Answers for Thursday, March 13](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-thursday-march-13/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

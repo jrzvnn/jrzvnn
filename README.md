@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Sources: Elon Musk visited the NSA and discussed staff reductions and operations with its leadership, a week after saying the agency needs an overhaul &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/250313/p39#a250313p39)
+ - [Here are the best iPad deals right now](https://www.theverge.com/21280354/best-ipad-deals-apple)
  - [UiPath acquires Peak, which makes AI tools to optimize product inventory and pricing; Peak raised a total of $121M and reported revenue of just ~&amp;pound;9M in 2023 &lpar;Ingrid Lunden/TechCrunch&rpar;](http://www.techmeme.com/250313/p38#a250313p38)
  - [Black Mirror dreams a little dream in season 7 trailer](https://www.theverge.com/news/629242/black-mirror-season-7-trailer-date-netflix)
- - [Apple&#39;s C1 modem is a quiet game-changer that&#39;s mostly flying under the radar](https://appleinsider.com/articles/25/03/13/apples-c1-modem-is-a-quiet-game-changer-thats-mostly-flying-under-the-radar?utm_medium=rss)
- - [Tesla’s next-generation vehicle: all the news about Elon Musk’s next big EV bet](https://www.theverge.com/24054854/tesla-next-generation-vehicle-ev-elon-musk)
- - [Trump’s first 100 days: all the news affecting the tech industry](https://www.theverge.com/24348851/donald-trump-presidency-tech-science-news)<!-- TECH:END -->
+ - [Apple&#39;s C1 modem is a quiet game-changer that&#39;s mostly flying under the radar](https://appleinsider.com/articles/25/03/13/apples-c1-modem-is-a-quiet-game-changer-thats-mostly-flying-under-the-radar?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

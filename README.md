@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Covid Vaccines Have Paved the Way for Cancer Vaccines](https://www.wired.com/story/wired-health-lennard-lee-cancer-vaccines/)
  - [The US Strategic Bitcoin Reserve, to be funded via civil asset forfeitures, goes against bitcoiners&#39; early skepticism of state overreach and market intervention &lpar;Molly White/Citation Needed&rpar;](http://www.techmeme.com/250313/p6#a250313p6)
  - [Ernst &amp; Young: German startups raised ~&amp;euro;7B across 755 deals in 2024, up from ~&amp;euro;6B across 861 deals in 2023, but far below the peak of over &amp;euro;17B in 2021 &lpar;Sophie Spiegelberger/Financial Times&rpar;](http://www.techmeme.com/250313/p5#a250313p5)
  - [CoinGecko data shows that daily trading volume of crypto dropped from a peak of $440B in early February to $163B on March 12, a 63% decrease &lpar;Martin Young/Cointelegraph&rpar;](http://www.techmeme.com/250313/p4#a250313p4)
- - [Revisiting Windows 1.0: how Microsoft’s first desktop gracefully failed](https://www.theverge.com/2012/11/20/3671922/windows-1-0-microsoft-history-desktop-gracefully-failed)
- - [NordVPN Coupon and Discount Codes: 74% Off](https://www.wired.com/story/nordvpn-coupon/)<!-- TECH:END -->
+ - [Revisiting Windows 1.0: how Microsoft’s first desktop gracefully failed](https://www.theverge.com/2012/11/20/3671922/windows-1-0-microsoft-history-desktop-gracefully-failed)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

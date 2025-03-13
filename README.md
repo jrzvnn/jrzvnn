@@ -166,9 +166,9 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [*Looks at the thumb* Story checks out](http://9gag.com/gag/aXPNN8z)
- - 😝 [Accurate](http://9gag.com/gag/aByLLDx)
- - 💣 [Who wants some popcorn???](http://9gag.com/gag/aoyV8De)
+ - 😝 [Who wants some popcorn???](http://9gag.com/gag/aoyV8De)
+ - 😝 [Lovely sight, someone found a machine in a matching color of the Mosque. Now let&#39;s see same done around UK and worldwide!](http://9gag.com/gag/a87mm3V)
+ - 💣 [First time I hear a house crying](http://9gag.com/gag/a9yv8o1)
  - 😝 [Steakhouse kithcen](http://9gag.com/gag/a7oe24e)
  - 👉 [Turkish airlines](http://9gag.com/gag/a0eV1QQ)<!-- MEMES:END -->
 

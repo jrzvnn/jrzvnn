@@ -166,10 +166,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [I think we need more Parkour fail videos on 9Gag, what do you think?](http://9gag.com/gag/ayN4WVy)
- - 😝 [His friends must be using his popularity card a lot](http://9gag.com/gag/aNDv4Z0)
- - 💣 [AEZAKMI](http://9gag.com/gag/aqy8Wnj)
- - 😝 [It&#39;s never the same again](http://9gag.com/gag/aVvEZoM)
+ - 😝 [PIRATE BAY CO-FOUNDER KILLED IN PLANE CRASH - Carl Lundstr\u00f6m, co-founder of The Pirate Bay, has died in a plane crash in Slovenia at age 64.](http://9gag.com/gag/ajPOKy1)
+ - 😝 [Accurate](http://9gag.com/gag/aByLLDx)
+ - 💣 [Turkish airlines](http://9gag.com/gag/a0eV1QQ)
+ - 😝 [What happens when you dont download from fitgirl](http://9gag.com/gag/aVvEKEy)
  - 👉 [\ud83d\udd25 Flex your killer skills and dominate the battlefield in Mecha BREAK!](http://9gag.com/gag/aO84e3y)<!-- MEMES:END -->
 
 ---

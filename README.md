@@ -158,7 +158,7 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- TECH:START -->
  - [How to view installer logs in macOS](https://appleinsider.com/articles/25/03/13/how-to-view-installer-logs-in-macos?utm_medium=rss)
- - [Apple delaying the &quot;more personalized Siri&quot; features of Apple Intelligence, after pitching them at WWDC 2024, squanders the credibility Apple built over decades &lpar;John Gruber/Daring Fireball&rpar;](http://www.techmeme.com/250312/p44#a250312p44)
+ - [By promoting a smarter Siri vaporware at WWDC and the iPhone 16 launch, Apple squandered its decades-long reputation of only promising actual working products &lpar;John Gruber/Daring Fireball&rpar;](http://www.techmeme.com/250312/p44#a250312p44)
  - [UiPath shares fell over 15% after the company projected FY 2026 sales of $1.525B to $1.53B, vs. $1.58B estimates; PATH is down 51.6% over the past 12 months &lpar;Bill Peters/MarketWatch&rpar;](http://www.techmeme.com/250312/p43#a250312p43)
  - [D-Wave claims it has achieved &quot;quantum supremacy&quot; with its quantum annealing processors; some physicists say classical computers can achieve comparable results &lpar;Belle Lin/Wall Street Journal&rpar;](http://www.techmeme.com/250312/p42#a250312p42)
  - [Tim Berners-Lee Wants to Know: &#39;Who Does AI Work For?&#39;](https://www.cnet.com/tech/services-and-software/tim-berners-lee-wants-to-know-who-does-ai-work-for/#ftag=CAD590a51e)<!-- TECH:END -->

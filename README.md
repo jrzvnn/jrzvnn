@@ -167,9 +167,9 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [PIRATE BAY CO-FOUNDER KILLED IN PLANE CRASH - Carl Lundstr\u00f6m, co-founder of The Pirate Bay, has died in a plane crash in Slovenia at age 64.](http://9gag.com/gag/ajPOKy1)
- - 😝 [Accurate](http://9gag.com/gag/aByLLDx)
- - 💣 [Turkish airlines](http://9gag.com/gag/a0eV1QQ)
- - 😝 [What happens when you dont download from fitgirl](http://9gag.com/gag/aVvEKEy)
+ - 😝 [Goat trying to commit sudoku](http://9gag.com/gag/aE0VARO)
+ - 💣 [If you don&#39;t pay you don&#39;t get the bridge](http://9gag.com/gag/amoGxg4)
+ - 😝 [Who wants some popcorn???](http://9gag.com/gag/aoyV8De)
  - 👉 [\ud83d\udd25 Flex your killer skills and dominate the battlefield in Mecha BREAK!](http://9gag.com/gag/aO84e3y)<!-- MEMES:END -->
 
 ---

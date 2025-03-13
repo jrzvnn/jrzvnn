@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Steakhouse kithcen](http://9gag.com/gag/a7oe24e)
- - 😝 [Turkish airlines](http://9gag.com/gag/a0eV1QQ)
- - 💣 [His smile didn&#39;t last long](http://9gag.com/gag/aQzQAmW)
  - 😝 [A few tries to crack a password](http://9gag.com/gag/aZZwjjQ)
- - 👉 [He is not cheating btw](http://9gag.com/gag/ae9Ox1Q)<!-- MEMES:END -->
+ - 😝 [Steakhouse kithcen](http://9gag.com/gag/a7oe24e)
+ - 💣 [He is not cheating btw](http://9gag.com/gag/ae9Ox1Q)
+ - 😝 [Things escalated quickly](http://9gag.com/gag/aZZw8N3)
+ - 👉 [Goat trying to commit sudoku](http://9gag.com/gag/aE0VARO)<!-- MEMES:END -->
 
 ---
 

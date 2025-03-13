@@ -166,10 +166,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [First time I hear a house crying](http://9gag.com/gag/a9yv8o1)
- - 😝 [Steakhouse kithcen](http://9gag.com/gag/a7oe24e)
- - 💣 [What radicalized you ?](http://9gag.com/gag/a87m21p)
- - 😝 [He is not cheating btw](http://9gag.com/gag/ae9Ox1Q)
+ - 😝 [Magnus Schevin, Athletic legend. Also known as `Sportacus`](http://9gag.com/gag/aVvEm4v)
+ - 😝 [What radicalized you ?](http://9gag.com/gag/a87m21p)
+ - 💣 [Johnny Somali Sentenced to 5 Years in South Korea \u2013 Play Stupid Games, Win Stupid Prizes](http://9gag.com/gag/aKG9Kwb)
+ - 😝 [Turkish airlines](http://9gag.com/gag/a0eV1QQ)
  - 👉 [NOW - Green flames rise from manhole covers on Texas Tech campus. Buildings are being evacuated.](http://9gag.com/gag/aW4L2pZ)<!-- MEMES:END -->
 
 ---

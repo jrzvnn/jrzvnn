@@ -166,9 +166,9 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Meltdown at US House hearing after chairman called trans Democratic rep &#39;Mr&#39;](http://9gag.com/gag/aRBZM47)
- - 😝 [S3x on a stick](http://9gag.com/gag/a7oe90x)
- - 💣 [Tired of playing what you want to hear..](http://9gag.com/gag/aAyEEp2)
+ - 😝 [My entire childhood was a lie\u2026](http://9gag.com/gag/aByLVWO)
+ - 😝 [*Looks at the thumb* Story checks out](http://9gag.com/gag/aXPNN8z)
+ - 💣 [First time I hear a house crying](http://9gag.com/gag/a9yv8o1)
  - 😝 [\ud83d\udd25 Flex your killer skills and dominate the battlefield in Mecha BREAK!](http://9gag.com/gag/aO84e3y)
  - 👉 [His smile didn&#39;t last long](http://9gag.com/gag/aQzQAmW)<!-- MEMES:END -->
 

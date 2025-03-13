@@ -159,7 +159,7 @@ R                        1 repo              ░░░░░░░░░░░�
 <!-- TECH:START -->
  - [Today&#39;s NYT Mini Crossword Answers for Thursday, March 13](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-thursday-march-13/#ftag=CAD590a51e)
  - [How to view installer logs in macOS](https://appleinsider.com/articles/25/03/13/how-to-view-installer-logs-in-macos?utm_medium=rss)
- - [By promoting a smarter Siri vaporware at WWDC and the iPhone 16 launch, Apple squandered its decades-long reputation of only promising actual working products &lpar;John Gruber/Daring Fireball&rpar;](http://www.techmeme.com/250312/p44#a250312p44)
+ - [By previewing smarter Siri vaporware at WWDC and the iPhone 16 launch, Apple burned a reputation earned over decades for only promising actual working products &lpar;John Gruber/Daring Fireball&rpar;](http://www.techmeme.com/250312/p44#a250312p44)
  - [UiPath shares fell over 15% after the company projected FY 2026 sales of $1.525B to $1.53B, vs. $1.58B estimates; PATH is down 51.6% over the past 12 months &lpar;Bill Peters/MarketWatch&rpar;](http://www.techmeme.com/250312/p43#a250312p43)
  - [D-Wave claims it has achieved &quot;quantum supremacy&quot; with its quantum annealing processors; some physicists say classical computers can achieve comparable results &lpar;Belle Lin/Wall Street Journal&rpar;](http://www.techmeme.com/250312/p42#a250312p42)<!-- TECH:END -->
 

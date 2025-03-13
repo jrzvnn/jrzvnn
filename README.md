@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Goat trying to commit sudoku](http://9gag.com/gag/aE0VARO)
- - 😝 [Turkish airlines](http://9gag.com/gag/a0eV1QQ)
- - 💣 [Steakhouse kithcen](http://9gag.com/gag/a7oe24e)
+ - 😝 [R YOU OK, R YOU OK!!](http://9gag.com/gag/amoGVn9)
  - 😝 [Who wants some popcorn???](http://9gag.com/gag/aoyV8De)
- - 👉 [Sorry, no potato](http://9gag.com/gag/a9yv5L0)<!-- MEMES:END -->
+ - 💣 [White people making street food like Indians.](http://9gag.com/gag/aMVmXWx)
+ - 😝 [American influencer being deported for kidnapping baby wombat from mother... and banned from Australia, her Boyfriend facing criminal charges...](http://9gag.com/gag/axyvP81)
+ - 👉 [Paid for](http://9gag.com/gag/a34A27N)<!-- MEMES:END -->
 
 ---
 

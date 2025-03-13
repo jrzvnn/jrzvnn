@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Is this true?](http://9gag.com/gag/a0eVV8B)
- - 😝 [PIRATE BAY CO-FOUNDER KILLED IN PLANE CRASH - Carl Lundstr\u00f6m, co-founder of The Pirate Bay, has died in a plane crash in Slovenia at age 64.](http://9gag.com/gag/ajPOKy1)
- - 💣 [Who wants some popcorn???](http://9gag.com/gag/aoyV8De)
- - 😝 [He is not cheating btw](http://9gag.com/gag/ae9Ox1Q)
- - 👉 [Goat trying to commit sudoku](http://9gag.com/gag/aE0VARO)<!-- MEMES:END -->
+ - 😝 [Turkish airlines](http://9gag.com/gag/a0eV1QQ)
+ - 😝 [What happens when you dont download from fitgirl](http://9gag.com/gag/aVvEKEy)
+ - 💣 [A few tries to crack a password](http://9gag.com/gag/aZZwjjQ)
+ - 😝 [Who wants some popcorn???](http://9gag.com/gag/aoyV8De)
+ - 👉 [First time I hear a house crying](http://9gag.com/gag/a9yv8o1)<!-- MEMES:END -->
 
 ---
 

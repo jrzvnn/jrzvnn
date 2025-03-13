@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Interviews with seven CISA employees describe how mass layoffs and weak leadership are taking a severe toll on the US government&#39;s cyber defense agency &lpar;Eric Geller/Wired&rpar;](http://www.techmeme.com/250313/p16#a250313p16)
  - [Message threads are coming to WhatsApp](https://www.theverge.com/news/628850/whatsapp-message-thread-replies-feature-development)
  - [OpenAI releases a 15-page set of policy suggestions for the White House, arguing that hundreds of AI bills pending across the US risk undercutting US progress &lpar;Jackie Davalos/Bloomberg&rpar;](http://www.techmeme.com/250313/p15#a250313p15)
  - [Estonia-based Blackwall, formerly BotGuard, raised a &amp;euro;45M Series B to protect SMBs from malicious online traffic, after a &amp;euro;12M Series A in March 2024 &lpar;Anna Heim/TechCrunch&rpar;](http://www.techmeme.com/250313/p14#a250313p14)
- - [Don&#39;t worry if Apple claims you still need to send a trade-in device](https://appleinsider.com/articles/25/03/13/dont-worry-if-apple-claims-you-still-need-to-send-a-trade-in-device?utm_medium=rss)
- - [19 Best Sleep Week Deals on Mattresses, Sheets, and More &lpar;2025&rpar;](https://www.wired.com/story/sleep-month-deals-2025/)<!-- TECH:END -->
+ - [Don&#39;t worry if Apple claims you still need to send a trade-in device](https://appleinsider.com/articles/25/03/13/dont-worry-if-apple-claims-you-still-need-to-send-a-trade-in-device?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

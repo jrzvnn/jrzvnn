@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Cohere debuts Command A, its latest generative AI model for agentic enterprise tasks, with a context length of 256K tokens and requiring just two A100s or H100s &lpar;Carl Franzen/VentureBeat&rpar;](http://www.techmeme.com/250313/p37#a250313p37)
  - [Google makes Gems, its personalized Gemini chatbots, free for all users and offers several premade Gems including Career guide and Coding partner &lpar;Pranob Mehrotra/Android Authority&rpar;](http://www.techmeme.com/250313/p36#a250313p36)
  - [Adobe&#39;s stock falls 12%+ after reporting a disappointing Q2 outlook and investor concerns that it is falling behind some rivals and losing its AI advantage &lpar;CNBC&rpar;](http://www.techmeme.com/250313/p35#a250313p35)
  - [Google says Gemini can now personalize answers based on users&#39; search history, available as an experimental feature to Gemini and Gemini Advanced subscribers &lpar;Emma Roth/The Verge&rpar;](http://www.techmeme.com/250313/p34#a250313p34)
- - [Google says Gemini users can now try Deep Research for free in 45+ languages and the tool is now powered by Gemini 2.0 Flash &lpar;Igor Bonifacic/Engadget&rpar;](http://www.techmeme.com/250313/p33#a250313p33)
- - [PowerWash Simulator 2 will let you blast away grime in split screen co-op](https://www.theverge.com/news/629162/powerwash-simulator-2-release-date-2025)<!-- TECH:END -->
+ - [Google says Gemini users can now try Deep Research for free in 45+ languages and the tool is now powered by Gemini 2.0 Flash &lpar;Igor Bonifacic/Engadget&rpar;](http://www.techmeme.com/250313/p33#a250313p33)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

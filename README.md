@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [UiPath acquires Peak, which makes AI tools to optimize product inventory and pricing; Peak raised a total of $121M and reported revenue of just ~&amp;pound;9M in 2023 &lpar;Ingrid Lunden/TechCrunch&rpar;](http://www.techmeme.com/250313/p38#a250313p38)
+ - [Black Mirror dreams a little dream in season 7 trailer](https://www.theverge.com/news/629242/black-mirror-season-7-trailer-date-netflix)
  - [Apple&#39;s C1 modem is a quiet game-changer that&#39;s mostly flying under the radar](https://appleinsider.com/articles/25/03/13/apples-c1-modem-is-a-quiet-game-changer-thats-mostly-flying-under-the-radar?utm_medium=rss)
  - [Tesla’s next-generation vehicle: all the news about Elon Musk’s next big EV bet](https://www.theverge.com/24054854/tesla-next-generation-vehicle-ev-elon-musk)
- - [Trump’s first 100 days: all the news affecting the tech industry](https://www.theverge.com/24348851/donald-trump-presidency-tech-science-news)
- - [The Trump administration faces a fight over ‘biggest’ environmental deregulatory action in US history](https://www.theverge.com/news/629128/trump-environmental-deregulation-epa)
- - [Europa League Soccer: Livestream Man United vs. Real Sociedad From Anywhere](https://www.cnet.com/tech/services-and-software/europa-league-soccer-livestream-man-united-vs-real-sociedad-from-anywhere/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Trump’s first 100 days: all the news affecting the tech industry](https://www.theverge.com/24348851/donald-trump-presidency-tech-science-news)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

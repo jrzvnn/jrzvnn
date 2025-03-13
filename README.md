@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [You can get four months of Disney Plus and Hulu for just $12](https://www.theverge.com/good-deals/626948/disney-plus-hulu-bundle-garmin-forerunner-265-watch-deal-sale)
- - [Google is bringing a lot more Android games to PCs](https://www.theverge.com/news/628323/google-play-games-android-mobile)
- - [From ChatGPT to Gemini: how AI is rewriting the internet](https://www.theverge.com/23610427/chatbots-chatgpt-new-bing-google-bard-conversational-ai)
- - [Sources: President Trump&#39;s World Liberty Financial has discussed doing business with Binance, including the possibility of developing a stablecoin with Binance &lpar;Bloomberg&rpar;](http://www.techmeme.com/250313/p30#a250313p30)
- - [Microsoft announces Copilot for Gaming, available through the Xbox mobile app initially for Xbox Insiders and designed to work as a companion or gaming coach &lpar;Tom Warren/The Verge&rpar;](http://www.techmeme.com/250313/p29#a250313p29)<!-- TECH:END -->
+ - [PowerWash Simulator 2 will let you blast away grime in split screen co-op](https://www.theverge.com/news/629162/powerwash-simulator-2-release-date-2025)
+ - [Google adds new developer tools and programs to simplify PC game porting to Android and improves Vulkan support on Android, ahead of the GDC &lpar;Mishaal Rahman/Android Authority&rpar;](http://www.techmeme.com/250313/p32#a250313p32)
+ - [Lexus&amp;#8217; sporty RZ is the latest EV with fake engine noises to simulate gear-shifting](https://www.theverge.com/news/629099/lexus-rz-2026-ev-f-sport-manual-mode)
+ - [Trump’s first 100 days: all the news affecting the tech industry](https://www.theverge.com/24348851/donald-trump-presidency-tech-science-news)
+ - [Sony’s new RGB backlight tech absolute smokes regular Mini LED TVs](https://www.theverge.com/news/628977/sony-rgb-led-backlight-announced-color-mini-led-tvs)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

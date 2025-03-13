@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Alibaba debuts New Quark, an updated app using its flagship Qwen reasoning model, rolling out gradually, as it seeks to keep up with DeepSeek and Chinese rivals &lpar;Bloomberg&rpar;](http://www.techmeme.com/250313/p13#a250313p13)
- - [A look at UK-based startup accelerator Founders Factory, which has invested in 300+ startups; KPMG says UK VC funding fell from $20B in 2023 to $15B in 2024 &lpar;Nick Huber/Financial Times&rpar;](http://www.techmeme.com/250313/p12#a250313p12)
- - [UK investigation says Apple and Google are ‘holding back’ mobile browsers](https://www.theverge.com/news/628472/apple-safari-ios-google-android-chrome-cma-competition)
- - [Amazon slashes Apple&#39;s MacBook Air to $699.99](https://appleinsider.com/articles/25/03/13/amazon-slashes-apples-macbook-air-to-69999?utm_medium=rss)
- - [Singapore prosecutors say a case in which Singapore-based companies are accused of fraudulently supplying US servers to Malaysia involves $390M in transactions &lpar;Reuters&rpar;](http://www.techmeme.com/250313/p11#a250313p11)<!-- TECH:END -->
+ - [OpenAI releases a 15-page set of policy suggestions for the White House, arguing that hundreds of AI bills pending across the US risk undercutting US progress &lpar;Jackie Davalos/Bloomberg&rpar;](http://www.techmeme.com/250313/p15#a250313p15)
+ - [Estonia-based Blackwall, formerly BotGuard, raised a &amp;euro;45M Series B to protect SMBs from malicious online traffic, after a &amp;euro;12M Series A in March 2024 &lpar;Anna Heim/TechCrunch&rpar;](http://www.techmeme.com/250313/p14#a250313p14)
+ - [Don&#39;t worry if Apple claims you still need to send a trade-in device](https://appleinsider.com/articles/25/03/13/dont-worry-if-apple-claims-you-still-need-to-send-a-trade-in-device?utm_medium=rss)
+ - [19 Best Sleep Week Deals on Mattresses, Sheets, and More &lpar;2025&rpar;](https://www.wired.com/story/sleep-month-deals-2025/)
+ - [Alibaba debuts New Quark, an updated app using its flagship Qwen reasoning model, rolling out gradually, as it seeks to keep up with DeepSeek and Chinese rivals &lpar;Bloomberg&rpar;](http://www.techmeme.com/250313/p13#a250313p13)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

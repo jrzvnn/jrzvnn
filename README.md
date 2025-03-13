@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Xiaomi plans to preinstall PhonePe&#39;s Indus Appstore on all new smartphones sold in India and replace its GetApps app store with Indus Appstore on existing ones &lpar;Ivan Mehta/TechCrunch&rpar;](http://www.techmeme.com/250313/p17#a250313p17)
+ - [Vornado Sensa Cribside Heater Review: An Accurate Thermostat](https://www.wired.com/review/vornado-sensa-cribside-heater/)
  - [Interviews with seven CISA employees describe how mass layoffs and weak leadership are taking a severe toll on the US government&#39;s cyber defense agency &lpar;Eric Geller/Wired&rpar;](http://www.techmeme.com/250313/p16#a250313p16)
  - [Message threads are coming to WhatsApp](https://www.theverge.com/news/628850/whatsapp-message-thread-replies-feature-development)
- - [OpenAI releases a 15-page set of policy suggestions for the White House, arguing that hundreds of AI bills pending across the US risk undercutting US progress &lpar;Jackie Davalos/Bloomberg&rpar;](http://www.techmeme.com/250313/p15#a250313p15)
- - [Estonia-based Blackwall, formerly BotGuard, raised a &amp;euro;45M Series B to protect SMBs from malicious online traffic, after a &amp;euro;12M Series A in March 2024 &lpar;Anna Heim/TechCrunch&rpar;](http://www.techmeme.com/250313/p14#a250313p14)
- - [Don&#39;t worry if Apple claims you still need to send a trade-in device](https://appleinsider.com/articles/25/03/13/dont-worry-if-apple-claims-you-still-need-to-send-a-trade-in-device?utm_medium=rss)<!-- TECH:END -->
+ - [OpenAI releases a 15-page set of policy suggestions for the White House, arguing that hundreds of AI bills pending across the US risk undercutting US progress &lpar;Jackie Davalos/Bloomberg&rpar;](http://www.techmeme.com/250313/p15#a250313p15)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

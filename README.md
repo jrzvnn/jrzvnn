@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [It was intense](http://9gag.com/gag/aRBZ2x7)
- - 😝 [White people making street food like Indians.](http://9gag.com/gag/aMVmXWx)
- - 💣 [American influencer being deported for kidnapping baby wombat from mother... and banned from Australia, her Boyfriend facing criminal charges...](http://9gag.com/gag/axyvP81)
- - 😝 [Paid for](http://9gag.com/gag/a34A27N)
- - 👉 [Going to tell my kids this is Grey&#39;s Anatomy](http://9gag.com/gag/a1mDLgP)<!-- MEMES:END -->
+ - 😝 [First time I hear a house crying](http://9gag.com/gag/a9yv8o1)
+ - 😝 [Steakhouse kithcen](http://9gag.com/gag/a7oe24e)
+ - 💣 [What radicalized you ?](http://9gag.com/gag/a87m21p)
+ - 😝 [He is not cheating btw](http://9gag.com/gag/ae9Ox1Q)
+ - 👉 [NOW - Green flames rise from manhole covers on Texas Tech campus. Buildings are being evacuated.](http://9gag.com/gag/aW4L2pZ)<!-- MEMES:END -->
 
 ---
 

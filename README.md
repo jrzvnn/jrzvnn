@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [&amp;#8216;Careless People&amp;#8217; publisher won&amp;#8217;t pull the book Meta is trying to stop](https://www.theverge.com/news/629347/meta-careless-people-flatiron-books-macmillan)
+ - [Crypto payments company MoonPay acquires Iron, an API-focused stablecoin infrastructure company, a source says in a &quot;nine-figure&quot; deal &lpar;The Block&rpar;](http://www.techmeme.com/250313/p41#a250313p41)
  - [WinRing0: Why Windows is flagging your PC monitoring and fan control apps as a threat](https://www.theverge.com/report/629259/winring0-windows-defender-fan-control-pc-monitoring-alert-quarantine)
  - [The best Garmin watches for training and everyday life](https://www.theverge.com/23691498/best-garmin-smartwatch-fitness-tracker-wearables)
- - [The Olympics will stay on NBC for at least another decade](https://www.theverge.com/news/629377/olympics-nbc-peacock-rights-deal-2036)
- - [Underwhelming performance of Apple Intelligence will hit iPhone sales, Kuo claims](https://appleinsider.com/articles/25/03/13/underwhelming-performance-of-apple-intelligence-will-hit-iphone-sales-kuo-claims?utm_medium=rss)
- - [Flatiron Books says it will keep publishing book from ex-Meta employee](https://www.theverge.com/news/629347/meta-careless-people-flatiron-books-macmillan)<!-- TECH:END -->
+ - [The Olympics will stay on NBC for at least another decade](https://www.theverge.com/news/629377/olympics-nbc-peacock-rights-deal-2036)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

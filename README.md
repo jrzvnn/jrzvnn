@@ -166,9 +166,9 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Goat trying to commit sudoku](http://9gag.com/gag/aE0VARO)
  - 😝 [Who wants some popcorn???](http://9gag.com/gag/aoyV8De)
- - 💣 [What radicalized you ?](http://9gag.com/gag/a87m21p)
+ - 😝 [What radicalized you ?](http://9gag.com/gag/a87m21p)
+ - 💣 [He is not cheating btw](http://9gag.com/gag/ae9Ox1Q)
  - 😝 [Steakhouse kithcen](http://9gag.com/gag/a7oe24e)
  - 👉 [Turkish airlines](http://9gag.com/gag/a0eV1QQ)<!-- MEMES:END -->
 

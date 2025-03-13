@@ -170,7 +170,7 @@ R                        1 repo              ░░░░░░░░░░░�
  - 😝 [Turkish airlines](http://9gag.com/gag/a0eV1QQ)
  - 💣 [Steakhouse kithcen](http://9gag.com/gag/a7oe24e)
  - 😝 [Who wants some popcorn???](http://9gag.com/gag/aoyV8De)
- - 👉 [waiting for something to come..](https://www.reddit.com/r/funny/comments/1jah7jr/waiting_for_something_to_come/)<!-- MEMES:END -->
+ - 👉 [Sorry, no potato](http://9gag.com/gag/a9yv5L0)<!-- MEMES:END -->
 
 ---
 

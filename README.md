@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Google releases its proposals for White House&#39;s AI Action Plan, arguing that &quot;fair use and text-and-data mining exceptions&quot; are &quot;critical&quot; to AI development &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/250313/p42#a250313p42)
+ - [ViewSonic&#39;s new 5K monitor rivals Apple&#39;s Studio Display for half the price](https://appleinsider.com/articles/25/03/13/viewsonics-new-5k-monitor-rivals-apples-studio-display-for-half-the-price?utm_medium=rss)
+ - [US lawmakers denounce UK&#39;s secretive attack against Apple encryption](https://appleinsider.com/articles/25/03/13/us-lawmakers-denounce-uks-secretive-attack-against-apple-encryption?utm_medium=rss)
  - [Trump’s first 100 days: all the news affecting the tech industry](https://www.theverge.com/24348851/donald-trump-presidency-tech-science-news)
- - [Tesla Cybertruck deliveries reportedly on hold because the trim is flying off](https://www.theverge.com/news/629352/tesla-cybertruck-deliveries-on-hold-loose-trim)
- - [The hunt for the next Twitter: all the news about alternative social media platforms](https://www.theverge.com/23686584/twitter-alternative-social-media-platforms-mastodon-bluesky-activitypub-protocol)
- - [&amp;#8216;Careless People&amp;#8217; publisher won&amp;#8217;t pull the book Meta is trying to stop](https://www.theverge.com/news/629347/meta-careless-people-flatiron-books-macmillan)
- - [Crypto payments company MoonPay acquires Iron, an API-focused stablecoin infrastructure company, a source says in a &quot;nine-figure&quot; deal &lpar;The Block&rpar;](http://www.techmeme.com/250313/p41#a250313p41)<!-- TECH:END -->
+ - [Tesla Cybertruck deliveries reportedly on hold because the trim is flying off](https://www.theverge.com/news/629352/tesla-cybertruck-deliveries-on-hold-loose-trim)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

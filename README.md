@@ -166,8 +166,8 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [White people making street food like Indians.](http://9gag.com/gag/aMVmXWx)
- - 😝 [First time I hear a house crying](http://9gag.com/gag/a9yv8o1)
+ - 😝 [What radicalized you ?](http://9gag.com/gag/a87m21p)
+ - 😝 [His smile didn&#39;t last long](http://9gag.com/gag/aQzQAmW)
  - 💣 [He is not cheating btw](http://9gag.com/gag/ae9Ox1Q)
  - 😝 [Steakhouse kithcen](http://9gag.com/gag/a7oe24e)
  - 👉 [If you don&#39;t pay you don&#39;t get the bridge](http://9gag.com/gag/amoGxg4)<!-- MEMES:END -->

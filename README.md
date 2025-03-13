@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [OpenAI calls DeepSeek &quot;state-controlled&quot; and recommends that the US consider banning &quot;PRC-produced&quot; models that &quot;violate user privacy and create security risks&quot; &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/250313/p44#a250313p44)
  - [Google is rolling out a fix for broken Chromecasts](https://www.theverge.com/news/629453/google-chromecase-2nd-gen-audio-fix-roll-out)
  - [Sources: Apple is planning a new AirPods feature as part of iOS 19 that will enable live-translation of in-person conversations &lpar;Mark Gurman/Bloomberg&rpar;](http://www.techmeme.com/250313/p43#a250313p43)
  - [The best budget smartphone you can buy](https://www.theverge.com/21420196/best-budget-smartphone-cheap)
- - [AI summaries are coming to Notepad](https://www.theverge.com/news/629412/windows-11-notepad-ai-summaries-snipping-tool)
- - [Trump’s first 100 days: all the news affecting the tech industry](https://www.theverge.com/24348851/donald-trump-presidency-tech-science-news)<!-- TECH:END -->
+ - [AI summaries are coming to Notepad](https://www.theverge.com/news/629412/windows-11-notepad-ai-summaries-snipping-tool)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

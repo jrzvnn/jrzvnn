@@ -166,10 +166,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Turkish airlines](http://9gag.com/gag/a0eV1QQ)
- - 😝 [What happens when you dont download from fitgirl](http://9gag.com/gag/aVvEKEy)
- - 💣 [This meme still gets me every time.](http://9gag.com/gag/ae9OZNm)
- - 😝 [PIRATE BAY CO-FOUNDER KILLED IN PLANE CRASH - Carl Lundstr\u00f6m, co-founder of The Pirate Bay, has died in a plane crash in Slovenia at age 64.](http://9gag.com/gag/ajPOKy1)
+ - 😝 [AEZAKMI](http://9gag.com/gag/aqy8Wnj)
+ - 😝 [It&#39;s never the same again](http://9gag.com/gag/aVvEZoM)
+ - 💣 [Neckromancer](http://9gag.com/gag/a7oeN1A)
+ - 😝 [Thicc Thighs Save lives.](http://9gag.com/gag/a7oeVY2)
  - 👉 [\ud83d\udd25 Flex your killer skills and dominate the battlefield in Mecha BREAK!](http://9gag.com/gag/aO84e3y)<!-- MEMES:END -->
 
 ---

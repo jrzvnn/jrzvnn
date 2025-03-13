@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [R YOU OK, R YOU OK!!](http://9gag.com/gag/amoGVn9)
- - 😝 [Who wants some popcorn???](http://9gag.com/gag/aoyV8De)
- - 💣 [White people making street food like Indians.](http://9gag.com/gag/aMVmXWx)
- - 😝 [American influencer being deported for kidnapping baby wombat from mother... and banned from Australia, her Boyfriend facing criminal charges...](http://9gag.com/gag/axyvP81)
- - 👉 [Paid for](http://9gag.com/gag/a34A27N)<!-- MEMES:END -->
+ - 😝 [Steakhouse kithcen](http://9gag.com/gag/a7oe24e)
+ - 😝 [Turkish airlines](http://9gag.com/gag/a0eV1QQ)
+ - 💣 [His smile didn&#39;t last long](http://9gag.com/gag/aQzQAmW)
+ - 😝 [A few tries to crack a password](http://9gag.com/gag/aZZwjjQ)
+ - 👉 [He is not cheating btw](http://9gag.com/gag/ae9Ox1Q)<!-- MEMES:END -->
 
 ---
 

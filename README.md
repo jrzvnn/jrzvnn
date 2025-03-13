@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [GSR, one of several VC firms rebuked in 2024 over China investments, splits its China business from its US business, which is renamed as Informed Ventures &lpar;Dan Primack/Axios&rpar;](http://www.techmeme.com/250313/p28#a250313p28)
- - [A profile of new Intel CEO Lip-Bu Tan, an early investor in SMIC who has extensive ties to China and gained fame by helping turn around Cadence Design Systems &lpar;Heather Somerville/Wall Street Journal&rpar;](http://www.techmeme.com/250313/p27#a250313p27)
- - [Sources: Oracle is a leading contender to help run TikTok US; ByteDance management prefers Oracle but wants to retain a hands-on role with TikTok&#39;s operations &lpar;The Information&rpar;](http://www.techmeme.com/250313/p26#a250313p26)
- - [Warner Bros. is turning All You Need Is Kill into a stunning new anime movie](https://www.theverge.com/news/628878/all-you-need-is-kill-kenichiro-akimoto-warner-bros)
- - [Omni, which offers data analysis tools, raised a $69M Series B led by ICONIQ Growth at a $650M valuation, bringing its total raised to $97M &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/250313/p25#a250313p25)<!-- TECH:END -->
+ - [Researchers Propose a Better Way to Report Dangerous AI Flaws](https://www.wired.com/story/ai-researchers-new-system-report-bugs/)
+ - [Microsoft’s new Xbox Copilot will act as an AI gaming coach](https://www.theverge.com/news/628666/microsoft-xbox-copilot-for-gaming)
+ - [Trump’s first 100 days: all the news affecting the tech industry](https://www.theverge.com/24348851/donald-trump-presidency-tech-science-news)
+ - [The FTC has enough staff to pursue its case against Amazon after all](https://www.theverge.com/news/628981/ftc-amazon-prime-delay-resource-constraints)
+ - [GSR, one of several VC firms rebuked in 2024 over China investments, splits its China business from its US business, which is renamed as Informed Ventures &lpar;Dan Primack/Axios&rpar;](http://www.techmeme.com/250313/p28#a250313p28)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Trump’s first 100 days: all the news affecting the tech industry](https://www.theverge.com/24348851/donald-trump-presidency-tech-science-news)
+ - [Tesla Cybertruck deliveries reportedly on hold because the trim is flying off](https://www.theverge.com/news/629352/tesla-cybertruck-deliveries-on-hold-loose-trim)
  - [The hunt for the next Twitter: all the news about alternative social media platforms](https://www.theverge.com/23686584/twitter-alternative-social-media-platforms-mastodon-bluesky-activitypub-protocol)
  - [&amp;#8216;Careless People&amp;#8217; publisher won&amp;#8217;t pull the book Meta is trying to stop](https://www.theverge.com/news/629347/meta-careless-people-flatiron-books-macmillan)
- - [Crypto payments company MoonPay acquires Iron, an API-focused stablecoin infrastructure company, a source says in a &quot;nine-figure&quot; deal &lpar;The Block&rpar;](http://www.techmeme.com/250313/p41#a250313p41)
- - [The 23 Best Movies on Apple TV+ Right Now &lpar;March 2025&rpar;](https://www.wired.com/story/best-apple-tv-plus-movies/)
- - [WinRing0: Why Windows is flagging your PC monitoring and fan control apps as a threat](https://www.theverge.com/report/629259/winring0-windows-defender-fan-control-pc-monitoring-alert-quarantine)<!-- TECH:END -->
+ - [Crypto payments company MoonPay acquires Iron, an API-focused stablecoin infrastructure company, a source says in a &quot;nine-figure&quot; deal &lpar;The Block&rpar;](http://www.techmeme.com/250313/p41#a250313p41)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

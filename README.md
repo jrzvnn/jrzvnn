@@ -166,8 +166,8 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Old school romance](http://9gag.com/gag/aKG9eEg)
  - 😝 [Sean Lock at 8 out of 10 cats](http://9gag.com/gag/avyexO5)
+ - 😝 [Old school romance](http://9gag.com/gag/aKG9eEg)
  - 💣 [His friends must be using his popularity card a lot](http://9gag.com/gag/aNDv4Z0)
  - 😝 [\ud83d\udd25 Flex your killer skills and dominate the battlefield in Mecha BREAK!](http://9gag.com/gag/aO84e3y)
  - 👉 [I think we need more Parkour fail videos on 9Gag, what do you think?](http://9gag.com/gag/ayN4WVy)<!-- MEMES:END -->

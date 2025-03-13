@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Spectre Divide and its developer are shutting down](https://www.theverge.com/news/628698/spectre-divide-mountaintop-studios-shutting-down)
- - [The best deals on MacBooks right now](https://www.theverge.com/22399419/apple-macbook-air-pro-mac-mini-imac-deals)
- - [NASA’s SpaceX Crew-10 mission prepares to help bring the Starliner astronauts home](https://www.theverge.com/news/628311/nasa-crew-10-mission-starliner-astronauts-return-spacex)
- - [Meta is trying to block ex-employee’s book alleging misconduct and harassment](https://www.theverge.com/news/628643/meta-careless-people-sarah-wynn-williams-arbitrator-suing)
- - [Google calls the passage of Utah&#39;s app store age-verification bill &quot;concerning&quot; and part of an effort by Meta and others to &quot;offload&quot; kids&#39; safety to app stores &lpar;Lauren Feiner/The Verge&rpar;](http://www.techmeme.com/250312/p40#a250312p40)<!-- TECH:END -->
+ - [D-Wave claims it has achieved &quot;quantum supremacy&quot; with its quantum annealing processors; some physicists say classical computers can achieve comparable results &lpar;Belle Lin/Wall Street Journal&rpar;](http://www.techmeme.com/250312/p42#a250312p42)
+ - [Today&#39;s NYT Connections: Sports Edition Hints and Answers for March 13, #171](https://www.cnet.com/tech/gaming/todays-nyt-connections-sports-edition-hints-and-answers-for-march-13-171/#ftag=CAD590a51e)
+ - [NASA&#39;s &#39;Stranded&#39; Astronauts Are About to Come Home to Earth](https://www.cnet.com/science/nasa-stranded-astronauts-suni-williams-and-butch-wilmore-coming-home-from-iss-in-one-week/#ftag=CAD590a51e)
+ - [NASA Scrubs Launch of New Space Station Crew: What to Know](https://www.cnet.com/science/nasa-scrubs-launch-of-new-space-station-crew-what-to-know-butch-wilmore-suni-williams/#ftag=CAD590a51e)
+ - [An arbitrator instructs a former Meta employee to stop promoting and publishing her book alleging company misconduct; publisher Flatiron Books earlier objected &lpar;Jay Peters/The Verge&rpar;](http://www.techmeme.com/250312/p41#a250312p41)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

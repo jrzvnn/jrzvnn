@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Underwhelming performance of Apple Intelligence will hit iPhone sales, Kuo claims](https://appleinsider.com/articles/25/03/13/underwhelming-performance-of-apple-intelligence-will-hit-iphone-sales-kuo-claims?utm_medium=rss)
  - [Flatiron Books says it will keep publishing book from ex-Meta employee](https://www.theverge.com/news/629347/meta-careless-people-flatiron-books-macmillan)
- - [Nvidia is expected to announce new GPUs, named after Vera Rubin, the female scientist who discovered dark matter, on March 18 at its annual GTC conference &lpar;Kif Leswing/CNBC&rpar;](http://www.techmeme.com/250313/p40#a250313p40)
- - [Mercedes-Benz is hedging its bets with rebooted CLA sedan](https://www.theverge.com/news/628464/mercedes-benz-cla-ev-hybrid-mma-platform)
- - [Android 16 is getting a major hearing accessibility feature](https://www.theverge.com/tech/628533/android-16-auracast-hearing-aid-support)
- - [Highway toll text scams are on the rise, and Apple can&#39;t completely stop them](https://appleinsider.com/articles/25/03/13/highway-toll-text-scams-are-on-the-rise-and-apple-cant-completely-stop-them?utm_medium=rss)<!-- TECH:END -->
+ - [What&#39;s Lost When the Human Drivers Are Gone?](https://www.wired.com/story/uncanny-valley-podcast-self-driving-cars/)
+ - [How to See the Total Lunar Eclipse and Blood Moon This Month](https://www.wired.com/story/march-2025-lunar-eclipse-blood-moon/)
+ - [Nvidia is expected to announce new GPUs, named after Vera Rubin, the female scientist who discovered dark matter, on March 18 at its annual GTC conference &lpar;Kif Leswing/CNBC&rpar;](http://www.techmeme.com/250313/p40#a250313p40)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Rescue attempt for a suicide in my country. I had tear in my eyes](http://9gag.com/gag/a6Z9jg2)
- - 😝 [A few tries to crack a password](http://9gag.com/gag/aZZwjjQ)
- - 💣 [NOW - Green flames rise from manhole covers on Texas Tech campus. Buildings are being evacuated.](http://9gag.com/gag/aW4L2pZ)
- - 😝 [Johnny Somali Sentenced to 5 Years in South Korea \u2013 Play Stupid Games, Win Stupid Prizes](http://9gag.com/gag/aKG9Kwb)
- - 👉 [What radicalized you ?](http://9gag.com/gag/a87m21p)<!-- MEMES:END -->
+ - 😝 [White people making street food like Indians.](http://9gag.com/gag/aMVmXWx)
+ - 😝 [Paid for](http://9gag.com/gag/a34A27N)
+ - 💣 [Going to tell my kids this is Grey&#39;s Anatomy](http://9gag.com/gag/a1mDLgP)
+ - 😝 [American influencer being deported for kidnapping baby wombat from mother... and banned from Australia, her Boyfriend facing criminal charges...](http://9gag.com/gag/axyvP81)
+ - 👉 [Hired!](http://9gag.com/gag/ajPORg1)<!-- MEMES:END -->
 
 ---
 

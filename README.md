@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Welcome to London. So much strength.](http://9gag.com/gag/aKG9vvZ)
- - 😝 [I think we need more Parkour fail videos on 9Gag, what do you think?](http://9gag.com/gag/ayN4WVy)
- - 💣 [His friends must be using his popularity card a lot](http://9gag.com/gag/aNDv4Z0)
+ - 😝 [Meltdown at US House hearing after chairman called trans Democratic rep &#39;Mr&#39;](http://9gag.com/gag/aRBZM47)
+ - 😝 [S3x on a stick](http://9gag.com/gag/a7oe90x)
+ - 💣 [Tired of playing what you want to hear..](http://9gag.com/gag/aAyEEp2)
  - 😝 [\ud83d\udd25 Flex your killer skills and dominate the battlefield in Mecha BREAK!](http://9gag.com/gag/aO84e3y)
- - 👉 [100 Harry Potters vs 1000000 Kermit the frogs](http://9gag.com/gag/aByLLvA)<!-- MEMES:END -->
+ - 👉 [His smile didn&#39;t last long](http://9gag.com/gag/aQzQAmW)<!-- MEMES:END -->
 
 ---
 

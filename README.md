@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [From ChatGPT to Gemini: how AI is rewriting the internet](https://www.theverge.com/23610427/chatbots-chatgpt-new-bing-google-bard-conversational-ai)
+ - [Sources: President Trump&#39;s World Liberty Financial has discussed doing business with Binance, including the possibility of developing a stablecoin with Binance &lpar;Bloomberg&rpar;](http://www.techmeme.com/250313/p30#a250313p30)
+ - [Microsoft announces Copilot for Gaming, available through the Xbox mobile app initially for Xbox Insiders and designed to work as a companion or gaming coach &lpar;Tom Warren/The Verge&rpar;](http://www.techmeme.com/250313/p29#a250313p29)
  - [Researchers Propose a Better Way to Report Dangerous AI Flaws](https://www.wired.com/story/ai-researchers-new-system-report-bugs/)
- - [Microsoft’s new Xbox Copilot will act as an AI gaming coach](https://www.theverge.com/news/628666/microsoft-xbox-copilot-for-gaming)
- - [Trump’s first 100 days: all the news affecting the tech industry](https://www.theverge.com/24348851/donald-trump-presidency-tech-science-news)
- - [The FTC has enough staff to pursue its case against Amazon after all](https://www.theverge.com/news/628981/ftc-amazon-prime-delay-resource-constraints)
- - [GSR, one of several VC firms rebuked in 2024 over China investments, splits its China business from its US business, which is renamed as Informed Ventures &lpar;Dan Primack/Axios&rpar;](http://www.techmeme.com/250313/p28#a250313p28)<!-- TECH:END -->
+ - [Microsoft’s new Xbox Copilot will act as an AI gaming coach](https://www.theverge.com/news/628666/microsoft-xbox-copilot-for-gaming)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

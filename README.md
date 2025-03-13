@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: Elon Musk visited the NSA and discussed staff reductions and operations with its leadership, a week after saying the agency needs an overhaul &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/250313/p39#a250313p39)
- - [Here are the best iPad deals right now](https://www.theverge.com/21280354/best-ipad-deals-apple)
- - [UiPath acquires Peak, which makes AI tools to optimize product inventory and pricing; Peak raised a total of $121M and reported revenue of just ~&amp;pound;9M in 2023 &lpar;Ingrid Lunden/TechCrunch&rpar;](http://www.techmeme.com/250313/p38#a250313p38)
- - [Black Mirror dreams a little dream in season 7 trailer](https://www.theverge.com/news/629242/black-mirror-season-7-trailer-date-netflix)
- - [Apple&#39;s C1 modem is a quiet game-changer that&#39;s mostly flying under the radar](https://appleinsider.com/articles/25/03/13/apples-c1-modem-is-a-quiet-game-changer-thats-mostly-flying-under-the-radar?utm_medium=rss)<!-- TECH:END -->
+ - [Flatiron Books says it will keep publishing book from ex-Meta employee](https://www.theverge.com/news/629347/meta-careless-people-flatiron-books-macmillan)
+ - [Nvidia is expected to announce new GPUs, named after Vera Rubin, the female scientist who discovered dark matter, on March 18 at its annual GTC conference &lpar;Kif Leswing/CNBC&rpar;](http://www.techmeme.com/250313/p40#a250313p40)
+ - [Mercedes-Benz is hedging its bets with rebooted CLA sedan](https://www.theverge.com/news/628464/mercedes-benz-cla-ev-hybrid-mma-platform)
+ - [Android 16 is getting a major hearing accessibility feature](https://www.theverge.com/tech/628533/android-16-auracast-hearing-aid-support)
+ - [Highway toll text scams are on the rise, and Apple can&#39;t completely stop them](https://appleinsider.com/articles/25/03/13/highway-toll-text-scams-are-on-the-rise-and-apple-cant-completely-stop-them?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

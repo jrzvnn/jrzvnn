@@ -166,9 +166,9 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Today&#39;s advice](http://9gag.com/gag/ae9O1w5)
- - 😝 [Accurate](http://9gag.com/gag/aByLLDx)
- - 💣 [This meme still gets me every time.](http://9gag.com/gag/ae9OZNm)
+ - 😝 [NOW - Green flames rise from manhole covers on Texas Tech campus. Buildings are being evacuated.](http://9gag.com/gag/aW4L2pZ)
+ - 😝 [This meme still gets me every time.](http://9gag.com/gag/ae9OZNm)
+ - 💣 [What happens when you dont download from fitgirl](http://9gag.com/gag/aVvEKEy)
  - 😝 [\ud83d\udd25 Flex your killer skills and dominate the battlefield in Mecha BREAK!](http://9gag.com/gag/aO84e3y)
  - 👉 [A few tries to crack a password](http://9gag.com/gag/aZZwjjQ)<!-- MEMES:END -->
 

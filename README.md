@@ -159,9 +159,9 @@ R                        1 repo              ░░░░░░░░░░░�
 <!-- TECH:START -->
  - [&amp;#8216;Careless People&amp;#8217; publisher won&amp;#8217;t pull the book Meta is trying to stop](https://www.theverge.com/news/629347/meta-careless-people-flatiron-books-macmillan)
  - [Crypto payments company MoonPay acquires Iron, an API-focused stablecoin infrastructure company, a source says in a &quot;nine-figure&quot; deal &lpar;The Block&rpar;](http://www.techmeme.com/250313/p41#a250313p41)
+ - [The 23 Best Movies on Apple TV+ Right Now &lpar;March 2025&rpar;](https://www.wired.com/story/best-apple-tv-plus-movies/)
  - [WinRing0: Why Windows is flagging your PC monitoring and fan control apps as a threat](https://www.theverge.com/report/629259/winring0-windows-defender-fan-control-pc-monitoring-alert-quarantine)
- - [The best Garmin watches for training and everyday life](https://www.theverge.com/23691498/best-garmin-smartwatch-fitness-tracker-wearables)
- - [The Olympics will stay on NBC for at least another decade](https://www.theverge.com/news/629377/olympics-nbc-peacock-rights-deal-2036)<!-- TECH:END -->
+ - [Inside Elon Musk’s ‘Digital Coup’](https://www.wired.com/story/elon-musk-digital-coup-doge-data-ai/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

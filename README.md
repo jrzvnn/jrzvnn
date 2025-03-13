@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Flock Safety, maker of computer vision-enabled video surveillance tech for police and businesses, raised $275M at a $7.5B valuation, up from $4.8B a year ago &lpar;Julie Bort/TechCrunch&rpar;](http://www.techmeme.com/250313/p45#a250313p45)
+ - [OpenAI wants the US government to legalize theft to reach the AI promised land](https://appleinsider.com/articles/25/03/13/openai-wants-the-us-government-to-legalize-theft-to-reach-the-ai-promised-land?utm_medium=rss)
  - [Your existing AirPods could gain a new live translation feature in iOS 19](https://appleinsider.com/articles/25/03/13/your-existing-airpods-could-gain-a-new-live-translation-feature-in-ios-19?utm_medium=rss)
  - [Curious If Meal Kits Are Cheaper Than Groceries? I Did the Math to Find Out](https://www.cnet.com/health/nutrition/curious-if-meal-kits-are-cheaper-than-groceries-i-did-the-math-to-find-out/#ftag=CAD590a51e)
- - [Today&#39;s NYT Connections: Sports Edition Hints and Answers for March 14, #172](https://www.cnet.com/tech/gaming/todays-nyt-connections-sports-edition-hints-and-answers-for-march-14-172/#ftag=CAD590a51e)
- - [Apple is reportedly bringing live translation to AirPods](https://www.theverge.com/news/629506/apple-airpods-live-translation-ios-19)
- - [Today&#39;s NYT Strands Hints, Answers and Help for March 14, #376](https://www.cnet.com/tech/gaming/todays-nyt-strands-hints-answers-and-help-for-march-14-376/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Today&#39;s NYT Connections: Sports Edition Hints and Answers for March 14, #172](https://www.cnet.com/tech/gaming/todays-nyt-connections-sports-edition-hints-and-answers-for-march-14-172/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

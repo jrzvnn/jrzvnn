@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [WinRing0: Why Windows is flagging your PC monitoring and fan control apps as a threat](https://www.theverge.com/report/629259/winring0-windows-defender-fan-control-pc-monitoring-alert-quarantine)
+ - [The best Garmin watches for training and everyday life](https://www.theverge.com/23691498/best-garmin-smartwatch-fitness-tracker-wearables)
+ - [The Olympics will stay on NBC for at least another decade](https://www.theverge.com/news/629377/olympics-nbc-peacock-rights-deal-2036)
  - [Underwhelming performance of Apple Intelligence will hit iPhone sales, Kuo claims](https://appleinsider.com/articles/25/03/13/underwhelming-performance-of-apple-intelligence-will-hit-iphone-sales-kuo-claims?utm_medium=rss)
- - [Flatiron Books says it will keep publishing book from ex-Meta employee](https://www.theverge.com/news/629347/meta-careless-people-flatiron-books-macmillan)
- - [What&#39;s Lost When the Human Drivers Are Gone?](https://www.wired.com/story/uncanny-valley-podcast-self-driving-cars/)
- - [How to See the Total Lunar Eclipse and Blood Moon This Month](https://www.wired.com/story/march-2025-lunar-eclipse-blood-moon/)
- - [Nvidia is expected to announce new GPUs, named after Vera Rubin, the female scientist who discovered dark matter, on March 18 at its annual GTC conference &lpar;Kif Leswing/CNBC&rpar;](http://www.techmeme.com/250313/p40#a250313p40)<!-- TECH:END -->
+ - [Flatiron Books says it will keep publishing book from ex-Meta employee](https://www.theverge.com/news/629347/meta-careless-people-flatiron-books-macmillan)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [His smile didn&#39;t last long](http://9gag.com/gag/aQzQAmW)
- - 😝 [Goat trying to commit sudoku](http://9gag.com/gag/aE0VARO)
- - 💣 [The art of the deal](http://9gag.com/gag/a7oeenx)
+ - 😝 [Paid for](http://9gag.com/gag/a34A27N)
+ - 😝 [Turkish airlines](http://9gag.com/gag/a0eV1QQ)
+ - 💣 [What happens when you dont download from fitgirl](http://9gag.com/gag/aVvEKEy)
  - 😝 [\ud83d\udd25 Flex your killer skills and dominate the battlefield in Mecha BREAK!](http://9gag.com/gag/aO84e3y)
- - 👉 [What happens when you dont download from fitgirl](http://9gag.com/gag/aVvEKEy)<!-- MEMES:END -->
+ - 👉 [*Looks at the thumb* Story checks out](http://9gag.com/gag/aXPNN8z)<!-- MEMES:END -->
 
 ---
 

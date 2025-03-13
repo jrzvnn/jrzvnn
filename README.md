@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [Turkish airlines](http://9gag.com/gag/a0eV1QQ)
  - 😝 [A few tries to crack a password](http://9gag.com/gag/aZZwjjQ)
- - 😝 [Steakhouse kithcen](http://9gag.com/gag/a7oe24e)
- - 💣 [He is not cheating btw](http://9gag.com/gag/ae9Ox1Q)
- - 😝 [Things escalated quickly](http://9gag.com/gag/aZZw8N3)
- - 👉 [Goat trying to commit sudoku](http://9gag.com/gag/aE0VARO)<!-- MEMES:END -->
+ - 💣 [Goat trying to commit sudoku](http://9gag.com/gag/aE0VARO)
+ - 😝 [Johnny Somali Sentenced to 5 Years in South Korea \u2013 Play Stupid Games, Win Stupid Prizes](http://9gag.com/gag/aKG9Kwb)
+ - 👉 [How close was it for South Korea to lose the war.](http://9gag.com/gag/amoGp79)<!-- MEMES:END -->
 
 ---
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [PowerWash Simulator 2 will let you blast away grime in split screen co-op](https://www.theverge.com/news/629162/powerwash-simulator-2-release-date-2025)
- - [Google adds new developer tools and programs to simplify PC game porting to Android and improves Vulkan support on Android, ahead of the GDC &lpar;Mishaal Rahman/Android Authority&rpar;](http://www.techmeme.com/250313/p32#a250313p32)
- - [Lexus&amp;#8217; sporty RZ is the latest EV with fake engine noises to simulate gear-shifting](https://www.theverge.com/news/629099/lexus-rz-2026-ev-f-sport-manual-mode)
- - [Trump’s first 100 days: all the news affecting the tech industry](https://www.theverge.com/24348851/donald-trump-presidency-tech-science-news)
- - [Sony’s new RGB backlight tech absolute smokes regular Mini LED TVs](https://www.theverge.com/news/628977/sony-rgb-led-backlight-announced-color-mini-led-tvs)<!-- TECH:END -->
+ - [Google makes Gems, its personalized Gemini chatbots, free for all users and offers several premade Gems including Career guide and Coding partner &lpar;Pranob Mehrotra/Android Authority&rpar;](http://www.techmeme.com/250313/p36#a250313p36)
+ - [Adobe&#39;s stock falls 12%+ after reporting a disappointing Q2 outlook and investor concerns that it is falling behind some rivals and losing its AI advantage &lpar;CNBC&rpar;](http://www.techmeme.com/250313/p35#a250313p35)
+ - [Google says Gemini can now personalize answers based on users&#39; search history, available as an experimental feature to Gemini and Gemini Advanced subscribers &lpar;Emma Roth/The Verge&rpar;](http://www.techmeme.com/250313/p34#a250313p34)
+ - [Google says Gemini users can now try Deep Research for free in 45+ languages and the tool is now powered by Gemini 2.0 Flash &lpar;Igor Bonifacic/Engadget&rpar;](http://www.techmeme.com/250313/p33#a250313p33)
+ - [PowerWash Simulator 2 will let you blast away grime in split screen co-op](https://www.theverge.com/news/629162/powerwash-simulator-2-release-date-2025)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

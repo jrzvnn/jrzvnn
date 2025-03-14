@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Capturing content for social media](http://9gag.com/gag/aAyEZnE)
- - 😝 [&lpar;Repost&rpar; Still hoping for Tencent to buy Ubisoft](http://9gag.com/gag/aAyEmWZ)
- - 💣 [Tony is on the roll](http://9gag.com/gag/aAyEOvd)
- - 😝 [He&#39;s right actually](http://9gag.com/gag/aE0VQ3N)
- - 👉 [Unexpected](http://9gag.com/gag/aYQOm20)<!-- MEMES:END -->
+ - 😝 [Johnny Somali Sentenced to 5 Years in South Korea \u2013 Play Stupid Games, Win Stupid Prizes](http://9gag.com/gag/aKG9Kwb)
+ - 😝 [The devs were diabolical for this](http://9gag.com/gag/a7oeNYq)
+ - 💣 [Rescue attempt for a suicide in my country. I had tear in my eyes](http://9gag.com/gag/a6Z9jg2)
+ - 😝 [It&#39;s time...](http://9gag.com/gag/aXPNR2d)
+ - 👉 [No product shrinkage is nearly as infuriating as Magnum\u2019s. This thing was 3 times the size 15 years ago](http://9gag.com/gag/aW4L28K)<!-- MEMES:END -->
 
 ---
 

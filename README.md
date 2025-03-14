@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Klarna reports 2024 revenue up 24% YoY to $2.81B, a net profit of $21M, compared with a net loss of $244M a year ago, and 93M active consumers &lpar;Ryan Lawler/Axios&rpar;](http://www.techmeme.com/250314/p24#a250314p24)
+ - [Klarna files for a US IPO, with plans to list on the NYSE under KLAR, seeking to raise at least $1B and reportedly targeting a valuation of more than $15B &lpar;Bloomberg&rpar;](http://www.techmeme.com/250314/p23#a250314p23)
  - [Block says it is expanding consumer lending through Cash App Borrow after obtaining FDIC approval to issue loans out of its subsidiary Square Financial Services &lpar;MacKenzie Sigalos/CNBC&rpar;](http://www.techmeme.com/250314/p22#a250314p22)
  - [NASA’s SpaceX Crew-10 mission prepares to help bring the Starliner astronauts home](https://www.theverge.com/news/628311/nasa-crew-10-mission-starliner-astronauts-return-spacex)
- - [Canadian Devs Are Backing Out of Attending GDC](https://www.wired.com/story/canadian-devs-are-backing-out-of-gdc/)
- - [The UK held a hearing for Apple&#39;s legal battle with the government over providing a backdoor in its Advanced Data Protection service, without the media present &lpar;Dan Milmo/The Guardian&rpar;](http://www.techmeme.com/250314/p21#a250314p21)
- - [The Electric State can’t hold a charge to save its life](https://www.theverge.com/movie-reviews/629787/the-electric-state-review-netflix)<!-- TECH:END -->
+ - [Canadian Devs Are Backing Out of Attending GDC](https://www.wired.com/story/canadian-devs-are-backing-out-of-gdc/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Motorcycle accident](http://9gag.com/gag/a7oeNAw)
- - 😝 [Steakhouse kithcen](http://9gag.com/gag/a7oe24e)
- - 💣 [How close was it for South Korea to lose the war.](http://9gag.com/gag/amoGp79)
- - 😝 [He is not cheating btw](http://9gag.com/gag/ae9Ox1Q)
- - 👉 [Historical photos you&#39;ve &lpar;probably&rpar; never seen before.](http://9gag.com/gag/agmOj0n)<!-- MEMES:END -->
+ - 😝 [Unexpected](http://9gag.com/gag/aYQOm20)
+ - 😝 [Hired!](http://9gag.com/gag/ajPORg1)
+ - 💣 [Paid for](http://9gag.com/gag/a34A27N)
+ - 😝 [Mamma mia!!!](http://9gag.com/gag/a5QB5vy)
+ - 👉 [Motorcycle accident](http://9gag.com/gag/a7oeNAw)<!-- MEMES:END -->
 
 ---
 

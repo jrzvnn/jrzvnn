@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [A few tries to crack a password](http://9gag.com/gag/aZZwjjQ)
+ - 😝 [Historical photos you&#39;ve &lpar;probably&rpar; never seen before.](http://9gag.com/gag/agmOj0n)
+ - 😝 [Who wants some popcorn???](http://9gag.com/gag/aoyV8De)
+ - 💣 [Steakhouse kithcen](http://9gag.com/gag/a7oe24e)
  - 😝 [American influencer being deported for kidnapping baby wombat from mother... and banned from Australia, her Boyfriend facing criminal charges...](http://9gag.com/gag/axyvP81)
- - 💣 [What radicalized you ?](http://9gag.com/gag/a87m21p)
- - 😝 [The devs were diabolical for this](http://9gag.com/gag/a7oeNYq)
- - 👉 [Steakhouse kithcen](http://9gag.com/gag/a7oe24e)<!-- MEMES:END -->
+ - 👉 [He is not cheating btw](http://9gag.com/gag/ae9Ox1Q)<!-- MEMES:END -->
 
 ---
 

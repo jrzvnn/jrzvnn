@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Foxconn head predicts a surge in US manufacturing in the coming years](https://appleinsider.com/articles/25/03/14/foxconn-head-predicts-a-surge-in-us-manufacturing-in-the-coming-years?utm_medium=rss)
  - [RCS messaging will get end-to-end encryption on iPhone](https://appleinsider.com/articles/25/03/14/rcs-messaging-will-get-end-to-end-encryption-on-iphone?utm_medium=rss)
  - [Foxconn CEO Young Liu says &quot;the attitude and the approach&quot; of the US government toward tariffs has become a &quot;big headache&quot; for companies like Apple and Amazon &lpar;Kathrin Hille/Financial Times&rpar;](http://www.techmeme.com/250314/p7#a250314p7)
  - [Apple will soon support encrypted RCS messaging with Android users](https://www.theverge.com/news/629620/apple-iphone-e2ee-encryption-rcs-messaging-android)
- - [Can’t Wrap Your Head Around Pi? Here’s a Cool Visual to Help](https://www.wired.com/story/cant-wrap-your-head-around-pi-heres-a-cool-visual-to-help/)
- - [The GSMA announces the new RCS standard supports interoperable E2EE between platforms; Apple says it will add support for the standard in a future update &lpar;Jess Weatherbed/The Verge&rpar;](http://www.techmeme.com/250314/p6#a250314p6)<!-- TECH:END -->
+ - [Building &#39;The Electric State&#39;: The Russo Brothers Share Their Vision](https://www.cnet.com/tech/services-and-software/building-the-electric-state-inside-the-minds-of-the-russo-brothers/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [NOW - Green flames rise from manhole covers on Texas Tech campus. Buildings are being evacuated.](http://9gag.com/gag/aW4L2pZ)
- - 😝 [S3x on a stick](http://9gag.com/gag/a7oe90x)
- - 💣 [How close was it for South Korea to lose the war.](http://9gag.com/gag/amoGp79)
- - 😝 [Johnny Somali Sentenced to 5 Years in South Korea \u2013 Play Stupid Games, Win Stupid Prizes](http://9gag.com/gag/aKG9Kwb)
- - 👉 [Like mothet ,like daughter ,huh](http://9gag.com/gag/aW4LvnA)<!-- MEMES:END -->
+ - 😝 [A few tries to crack a password](http://9gag.com/gag/aZZwjjQ)
+ - 😝 [How close was it for South Korea to lose the war.](http://9gag.com/gag/amoGp79)
+ - 💣 [Johnny Somali Sentenced to 5 Years in South Korea \u2013 Play Stupid Games, Win Stupid Prizes](http://9gag.com/gag/aKG9Kwb)
+ - 😝 [He is not cheating btw](http://9gag.com/gag/ae9Ox1Q)
+ - 👉 [Rescue attempt for a suicide in my country. I had tear in my eyes](http://9gag.com/gag/a6Z9jg2)<!-- MEMES:END -->
 
 ---
 

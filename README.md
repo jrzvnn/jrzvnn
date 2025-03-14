@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [&#39;Ted Lasso&#39; star Jason Sudeikis spills the beans on season 4](https://appleinsider.com/articles/25/03/14/ted-lasso-star-jason-sudeikis-spills-the-beans-on-season-4?utm_medium=rss)
- - [Best iPad to Buy &lpar;and Some to Avoid&rpar; in 2025](https://www.wired.com/gallery/the-best-ipad/)
- - [The Beef Tallow Skin Care Trend Smells Like a Scam](https://www.wired.com/story/i-have-beef-with-tallow/)
- - [What Elden Ring Nightreign Is, and What It Isn&#39;t](https://www.cnet.com/tech/gaming/what-elden-ring-nightreign-is-and-what-it-isnt/#ftag=CAD590a51e)
- - [How to go back in time using Google Maps](https://www.theverge.com/how-to/628861/google-maps-earth-time-how-to)<!-- TECH:END -->
+ - [3 Expert-Approved Tips for Maintaining Weight Loss After You Reach Your Goal](https://www.cnet.com/health/nutrition/expert-approved-tips-maintaining-weight-loss-after-hit-goal/#ftag=CAD590a51e)
+ - [Sources: DeepSeek and its hedge fund parent, High-Flyer Capital, forbid some R&amp;D staff from traveling abroad freely, asking them to hand in their passports &lpar;The Information&rpar;](http://www.techmeme.com/250314/p10#a250314p10)
+ - [NASA’s SpaceX Crew-10 mission prepares to help bring the Starliner astronauts home](https://www.theverge.com/news/628311/nasa-crew-10-mission-starliner-astronauts-return-spacex)
+ - [If You Aren&#39;t Drinking Green Tea, You&#39;re Missing Out on These 8 Benefits](https://www.cnet.com/health/nutrition/if-you-arent-drinking-green-tea-youre-missing-out-on-these-8-benefits/#ftag=CAD590a51e)
+ - [Rivian Built an Oasis in the Desert, but Can You Adventure in an EV?](https://www.cnet.com/roadshow/news/rivian-built-an-oasis-in-the-desert-but-can-you-adventure-in-an-ev/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

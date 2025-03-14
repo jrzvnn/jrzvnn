@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Unexpected](http://9gag.com/gag/aYQOm20)
- - 😝 [Hired!](http://9gag.com/gag/ajPORg1)
- - 💣 [Paid for](http://9gag.com/gag/a34A27N)
- - 😝 [Mamma mia!!!](http://9gag.com/gag/a5QB5vy)
- - 👉 [Motorcycle accident](http://9gag.com/gag/a7oeNAw)<!-- MEMES:END -->
+ - 😝 [Oh dear God no](http://9gag.com/gag/ae9O7EB)
+ - 😝 [What radicalized you ?](http://9gag.com/gag/a87m21p)
+ - 💣 [Steakhouse kithcen](http://9gag.com/gag/a7oe24e)
+ - 😝 [The devs were diabolical for this](http://9gag.com/gag/a7oeNYq)
+ - 👉 [Capturing content for social media](http://9gag.com/gag/aAyEZnE)<!-- MEMES:END -->
 
 ---
 

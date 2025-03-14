@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Please clean after using the equipment you use at the gym.](http://9gag.com/gag/a0eVMXz)
- - 😝 [It&#39;s time...](http://9gag.com/gag/aXPNR2d)
- - 💣 [What radicalized you ?](http://9gag.com/gag/a87m21p)
- - 😝 [American influencer being deported for kidnapping baby wombat from mother... and banned from Australia, her Boyfriend facing criminal charges...](http://9gag.com/gag/axyvP81)
- - 👉 [The devs were diabolical for this](http://9gag.com/gag/a7oeNYq)<!-- MEMES:END -->
+ - 😝 [Motorcycle accident](http://9gag.com/gag/a7oeNAw)
+ - 😝 [Steakhouse kithcen](http://9gag.com/gag/a7oe24e)
+ - 💣 [How close was it for South Korea to lose the war.](http://9gag.com/gag/amoGp79)
+ - 😝 [He is not cheating btw](http://9gag.com/gag/ae9Ox1Q)
+ - 👉 [Historical photos you&#39;ve &lpar;probably&rpar; never seen before.](http://9gag.com/gag/agmOj0n)<!-- MEMES:END -->
 
 ---
 

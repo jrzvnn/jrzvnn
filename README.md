@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [M4 MacBook Air teardown reveals it&#39;s just as easy to repair as its predecessor](https://appleinsider.com/articles/25/03/14/m4-macbook-air-teardown-reveals-its-just-as-easy-to-repair-as-its-predecessor?utm_medium=rss)
+ - [Trump’s first 100 days: all the news affecting the tech industry](https://www.theverge.com/24348851/donald-trump-presidency-tech-science-news)
  - [Delaying a revamped Siri may be embarrassing for Apple, but rushing an update with half-baked features could have created a real crisis for the company &lpar;Ryan Christoffel/9to5Mac&rpar;](http://www.techmeme.com/250314/p25#a250314p25)
  - [Klarna reports 2024 revenue up 24% YoY to $2.81B, a net profit of $21M, compared with a net loss of $244M a year ago, and 93M active consumers &lpar;Ryan Lawler/Axios&rpar;](http://www.techmeme.com/250314/p24#a250314p24)
- - [Klarna files for a US IPO, with plans to list on the NYSE under KLAR, seeking to raise at least $1B and reportedly targeting a valuation of more than $15B &lpar;Bloomberg&rpar;](http://www.techmeme.com/250314/p23#a250314p23)
- - [Block says it is expanding consumer lending through Cash App Borrow after obtaining FDIC approval to issue loans out of its subsidiary Square Financial Services &lpar;MacKenzie Sigalos/CNBC&rpar;](http://www.techmeme.com/250314/p22#a250314p22)
- - [NASA’s SpaceX Crew-10 mission prepares to help bring the Starliner astronauts home](https://www.theverge.com/news/628311/nasa-crew-10-mission-starliner-astronauts-return-spacex)<!-- TECH:END -->
+ - [Klarna files for a US IPO, with plans to list on the NYSE under KLAR, seeking to raise at least $1B and reportedly targeting a valuation of more than $15B &lpar;Bloomberg&rpar;](http://www.techmeme.com/250314/p23#a250314p23)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

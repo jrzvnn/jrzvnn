@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [House GOP subpoenas Big Tech for evidence that Biden made AI woke](https://www.theverge.com/news/629831/subpoena-ai-gop-political-bias)
+ - [DeepSeek: all the news about the startup that’s shaking up AI stocks](https://www.theverge.com/24353060/deepseek-ai-china-nvidia-openai)
  - [Sources: an exec overseeing Siri told staff current delays were ugly, made worse by Apple publicly promoting new features, and it&#39;s unclear when they will ship &lpar;Mark Gurman/Bloomberg&rpar;](http://www.techmeme.com/250314/p18#a250314p18)
- - [The new M4 MacBook Air is already on sale](https://www.theverge.com/good-deals/629882/apple-m4-macbook-air-13-15-inch-laptop-deal-sale)
- - [Google says Gemini will replace Google Assistant on Android phones this year, except on phones that run Android 9 or earlier and don&#39;t have at least 2 GB of RAM &lpar;Abner Li/9to5Google&rpar;](http://www.techmeme.com/250314/p17#a250314p17)
- - [Google is officially dumping Assistant for Gemini](https://www.theverge.com/news/629904/google-assistant-gemini-moving-on)
- - [The Google graveyard: all the products Google has shut down](https://www.theverge.com/2019/11/26/20977968/google-graveyard-products-shut-down-dead-not-supported-discontinues-spring-cleaning)<!-- TECH:END -->
+ - [T-Mobile Hikes Rates for Legacy Customers. Which Plans Are Affected?](https://www.cnet.com/tech/mobile/t-mobile-hikes-rates-for-legacy-customers-which-plans-are-affected/#ftag=CAD590a51e)
+ - [Top 10 Mattresses for Side Sleepers of 2025, Expert-Tested and Approved](https://www.cnet.com/health/sleep/best-mattress-for-side-sleepers/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

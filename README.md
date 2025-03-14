@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [This New TI Microcontroller Is the Size of a Black Pepper Flake](https://www.cnet.com/tech/computing/this-new-ti-microcontroller-is-the-size-of-a-black-pepper-flake/#ftag=CAD590a51e)
+ - [Google is officially dumping Assistant for Gemini](https://www.theverge.com/news/629904/google-assistant-gemini-moving-on)
+ - [The Google graveyard: all the products Google has shut down](https://www.theverge.com/2019/11/26/20977968/google-graveyard-products-shut-down-dead-not-supported-discontinues-spring-cleaning)
  - [Hong Kong-based RedotPay, which aims to enable cryptocurrency use in everyday transactions, raised a $40M Series A led by Lightspeed &lpar;Yohan Yun/Cointelegraph&rpar;](http://www.techmeme.com/250314/p16#a250314p16)
  - [Reddit will let you hide ads](https://www.theverge.com/news/629868/reddit-hide-ads)
- - [California&amp;#8217;s online child safety law blocked by judge – again](https://www.theverge.com/news/629863/california-caadca-online-child-safety-law-blocked-netchoice)
- - [&#39;The Wheel of Time&#39; Season 3: When to Watch Episode 4 of the Fantasy Series](https://www.cnet.com/tech/services-and-software/the-wheel-of-time-season-3-watch-episode-4-of-the-fantasy-series/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [California&amp;#8217;s online child safety law blocked by judge – again](https://www.theverge.com/news/629863/california-caadca-online-child-safety-law-blocked-netchoice)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

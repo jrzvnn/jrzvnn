@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [One ticket please](http://9gag.com/gag/aO84Gm2)
- - 😝 [Who wants some popcorn???](http://9gag.com/gag/aoyV8De)
- - 💣 [Ibiza 2000 vs ibiza 2025](http://9gag.com/gag/aGy87g7)
- - 😝 [American influencer being deported for kidnapping baby wombat from mother... and banned from Australia, her Boyfriend facing criminal charges...](http://9gag.com/gag/axyvP81)
- - 👉 [Capturing content for social media](http://9gag.com/gag/aAyEZnE)<!-- MEMES:END -->
+ - 😝 [Turkish airlines](http://9gag.com/gag/a0eV1QQ)
+ - 😝 [From the deep](http://9gag.com/gag/axyvAvL)
+ - 💣 [Capturing content for social media](http://9gag.com/gag/aAyEZnE)
+ - 😝 [Motorcycle accident](http://9gag.com/gag/a7oeNAw)
+ - 👉 [Please clean after using the equipment you use at the gym.](http://9gag.com/gag/a0eVMXz)<!-- MEMES:END -->
 
 ---
 

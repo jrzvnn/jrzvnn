@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [3 Expert-Approved Tips for Maintaining Weight Loss After You Reach Your Goal](https://www.cnet.com/health/nutrition/expert-approved-tips-maintaining-weight-loss-after-hit-goal/#ftag=CAD590a51e)
- - [Sources: DeepSeek and its hedge fund parent, High-Flyer Capital, forbid some R&amp;D staff from traveling abroad freely, asking them to hand in their passports &lpar;The Information&rpar;](http://www.techmeme.com/250314/p10#a250314p10)
- - [NASA’s SpaceX Crew-10 mission prepares to help bring the Starliner astronauts home](https://www.theverge.com/news/628311/nasa-crew-10-mission-starliner-astronauts-return-spacex)
- - [If You Aren&#39;t Drinking Green Tea, You&#39;re Missing Out on These 8 Benefits](https://www.cnet.com/health/nutrition/if-you-arent-drinking-green-tea-youre-missing-out-on-these-8-benefits/#ftag=CAD590a51e)
- - [Rivian Built an Oasis in the Desert, but Can You Adventure in an EV?](https://www.cnet.com/roadshow/news/rivian-built-an-oasis-in-the-desert-but-can-you-adventure-in-an-ev/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [iPhone, Mac, iPad: What to expect from Apple for the rest of 2025](https://appleinsider.com/articles/25/03/14/iphone-mac-ipad-what-to-expect-from-apple-for-the-rest-of-2025?utm_medium=rss)
+ - [Trump’s first 100 days: all the news affecting the tech industry](https://www.theverge.com/24348851/donald-trump-presidency-tech-science-news)
+ - [Newsmax will pay $40 million to settle Smartmatic voting machine allegations](https://www.theverge.com/news/629695/newsmax-smartmatic-40-million-settlement-agreement)
+ - [It&#39;s official -- &#39;Ted Lasso&#39; is getting a fourth season](https://appleinsider.com/articles/25/03/14/ted-lasso-star-jason-sudeikis-spills-the-beans-on-season-4?utm_medium=rss)
+ - [China announces new rules requiring companies to label AI-generated material, either explicitly or via metadata, starting September 1 &lpar;Debby Wu/Bloomberg&rpar;](http://www.techmeme.com/250314/p11#a250314p11)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -159,9 +159,9 @@ R                        1 repo              ░░░░░░░░░░░�
 <!-- TECH:START -->
  - [SoftBank plans to buy a former Sharp LCD panel plant in Osaka for ~$676M, sources say to turn it into a data center for jointly developing AI agents with OpenAI &lpar;Kate Park/TechCrunch&rpar;](http://www.techmeme.com/250314/p4#a250314p4)
  - [Foxconn reports Q4 profit down 13% YoY to ~$1.41B, missing the ~$1.65B estimate, its first quarterly drop since Q2 2023, but forecasts strong Q1 2025 growth &lpar;Reuters&rpar;](http://www.techmeme.com/250314/p3#a250314p3)
- - [Best Internet Providers in Columbia, South Carolina](https://www.cnet.com/home/internet/best-internet-providers-in-columbia-sc/#ftag=CAD590a51e)
  - [Two activist groups launch a legal challenge against the UK&#39;s bid to force Apple to create a data &quot;backdoor&quot;, arguing it would breach consumers&#39; privacy rights &lpar;Financial Times&rpar;](http://www.techmeme.com/250314/p2#a250314p2)
- - [Best Mattress in a Box for 2025](https://www.cnet.com/health/sleep/best-mattress-in-a-box/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Best Mattress in a Box for 2025](https://www.cnet.com/health/sleep/best-mattress-in-a-box/#ftag=CAD590a51e)
+ - [27 Best Housewarming Gifts for 2025](https://www.cnet.com/news/best-housewarming-gifts/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

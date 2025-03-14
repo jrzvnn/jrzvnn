@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Reddit will allow users to hide ads from their feeds from an advertiser account for &quot;at least a year&quot;; some users report seeing a daily limit for hiding ads &lpar;Scharon Harding/Ars Technica&rpar;](http://www.techmeme.com/250314/p15#a250314p15)
+ - [These new Roombas aren’t the robots I know and love](https://www.theverge.com/smart-home/628900/irobot-roomba-reinvention-pushes-out-invention)
+ - [M4 MacBook Air Review &lpar;15-Inch, 2025&rpar;: The Best MacBook For Most People Gets Faster and Cheaper](https://www.cnet.com/tech/computing/m4-macbook-air-review-15-inch-2025-the-best-macbook-for-most-people-gets-faster-and-cheaper/#ftag=CAD590a51e)
  - [Sun Home Luminar Sauna Review: No Steam](https://www.wired.com/review/sun-home-luminar-5-person-sauna/)
- - [iPhone 17 lineup names may be coming into focus](https://appleinsider.com/articles/25/03/14/iphone-17-lineup-names-may-be-coming-into-focus?utm_medium=rss)
- - [Morgan Marquis-Boire, the once-celebrated hacker accused of sexual assaults in 2017, is the undisclosed co-founder of crypto intelligence firm Unciphered &lpar;Joseph Menn/Washington Post&rpar;](http://www.techmeme.com/250314/p14#a250314p14)
- - [Vampire Survivors: our collective obsession with the quirky, genre-defining indie game](https://www.theverge.com/games/23827123/vampire-survivors-news-announcements-updates-dlc-spinoffs)
- - [US tariffs: how Trump’s tax is hitting Big Tech and beyond](https://www.theverge.com/604742/trump-tariffs-canada-mexico-china-updates)<!-- TECH:END -->
+ - [Handheld Xbox Console: Who&#39;s Making It and When Will It Release?](https://www.cnet.com/tech/gaming/microsoft-reportedly-working-on-handheld-set-to-launch-later-this-year/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

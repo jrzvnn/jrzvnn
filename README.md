@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Capturing content for social media](http://9gag.com/gag/aAyEZnE)
+ - 😝 [One ticket please](http://9gag.com/gag/aO84Gm2)
+ - 😝 [It&#39;s time...](http://9gag.com/gag/aXPNR2d)
+ - 💣 [Dadddddddyyyyyyyy !!!!](http://9gag.com/gag/a5QBjjo)
  - 😝 [Steakhouse kithcen](http://9gag.com/gag/a7oe24e)
- - 💣 [No choice to pull plug on German cable](http://9gag.com/gag/a9yvVb0)
- - 😝 [What radicalized you ?](http://9gag.com/gag/a87m21p)
- - 👉 [Dadddddddyyyyyyyy !!!!](http://9gag.com/gag/a5QBjjo)<!-- MEMES:END -->
+ - 👉 [No choice to pull plug on German cable](http://9gag.com/gag/a9yvVb0)<!-- MEMES:END -->
 
 ---
 

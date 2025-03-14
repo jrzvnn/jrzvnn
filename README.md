@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [How to turn on Siri on macOS without sending your Contacts to Apple](https://appleinsider.com/inside/macos-sequoia/tips/how-to-turn-on-siri-on-macos-without-sending-your-contacts-to-apple?utm_medium=rss)
+ - [Sources: DeepSeek has shown little intention to further commercialize its tech in the near term, instead focusing on model development and building AGI &lpar;Zijing Wu/Financial Times&rpar;](http://www.techmeme.com/250313/p47#a250313p47)
  - [Terabase, which is developing robots and automated systems using AI to rapidly build solar farms, raised a $130M Series C led by SoftBank Vision Fund 2 &lpar;Financial Times&rpar;](http://www.techmeme.com/250313/p46#a250313p46)
  - [Silent Hill: F Gets Detailed by Konami, New Trailer Revealed](https://www.cnet.com/tech/gaming/silent-hill-f-gets-detailed-by-konami-new-trailer-revealed/#ftag=CAD590a51e)
- - [Apple Reportedly Planning AirPods That Can Translate Languages Live](https://www.cnet.com/tech/apple-reportedly-planning-airpods-that-can-translate-languages-live/#ftag=CAD590a51e)
- - [Jabees Peace Speaker review: an inexpensive way to listen to audio while you sleep](https://appleinsider.com/articles/25/03/14/jabees-peace-speaker-review-an-inexpensive-way-to-listen-to-audio-while-you-sleep?utm_medium=rss)
- - [These Are the 10 DOGE Operatives Inside the Social Security Administration](https://www.wired.com/story/doge-operatives-access-social-security-administration/)<!-- TECH:END -->
+ - [Apple Reportedly Planning AirPods That Can Translate Languages Live](https://www.cnet.com/tech/apple-reportedly-planning-airpods-that-can-translate-languages-live/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

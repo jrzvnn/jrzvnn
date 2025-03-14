@@ -168,8 +168,8 @@ R                        1 repo              ░░░░░░░░░░░�
 <!-- MEMES:START -->
  - 😝 [Men only want one thing and it&#39;s f**king disgusting.](http://9gag.com/gag/aAyE2dp)
  - 😝 [For male audience](http://9gag.com/gag/aW4Ldqq)
- - 💣 [Capturing content for social media](http://9gag.com/gag/aAyEZnE)
- - 😝 [Cuteness 100% Survival instinct 0%](http://9gag.com/gag/aVvEB62)
+ - 💣 [Cuteness 100% Survival instinct 0%](http://9gag.com/gag/aVvEB62)
+ - 😝 [Capturing content for social media](http://9gag.com/gag/aAyEZnE)
  - 👉 [Tony is on the roll](http://9gag.com/gag/aAyEOvd)<!-- MEMES:END -->
 
 ---

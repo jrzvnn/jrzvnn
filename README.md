@@ -160,8 +160,8 @@ R                        1 repo              ░░░░░░░░░░░�
  - [&#39;Ted Lasso&#39; star Jason Sudeikis spills the beans on season 4](https://appleinsider.com/articles/25/03/14/ted-lasso-star-jason-sudeikis-spills-the-beans-on-season-4?utm_medium=rss)
  - [Best iPad to Buy &lpar;and Some to Avoid&rpar; in 2025](https://www.wired.com/gallery/the-best-ipad/)
  - [The Beef Tallow Skin Care Trend Smells Like a Scam](https://www.wired.com/story/i-have-beef-with-tallow/)
- - [How to go back in time using Google Maps](https://www.theverge.com/how-to/628861/google-maps-earth-time-how-to)
- - [Sources: Russia is using bitcoin, ether, and stablecoins such as Tether in its oil trade with China and India to skirt Western sanctions &lpar;Reuters&rpar;](http://www.techmeme.com/250314/p9#a250314p9)<!-- TECH:END -->
+ - [What Elden Ring Nightreign Is, and What It Isn&#39;t](https://www.cnet.com/tech/gaming/what-elden-ring-nightreign-is-and-what-it-isnt/#ftag=CAD590a51e)
+ - [How to go back in time using Google Maps](https://www.theverge.com/how-to/628861/google-maps-earth-time-how-to)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

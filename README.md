@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [&#39;Ted Lasso&#39; star Jason Sudeikis spills the beans on season 4](https://appleinsider.com/articles/25/03/14/ted-lasso-star-jason-sudeikis-spills-the-beans-on-season-4?utm_medium=rss)
+ - [Best iPad to Buy &lpar;and Some to Avoid&rpar; in 2025](https://www.wired.com/gallery/the-best-ipad/)
  - [The Beef Tallow Skin Care Trend Smells Like a Scam](https://www.wired.com/story/i-have-beef-with-tallow/)
  - [How to go back in time using Google Maps](https://www.theverge.com/how-to/628861/google-maps-earth-time-how-to)
- - [Sources: Russia is using bitcoin, ether, and stablecoins such as Tether in its oil trade with China and India to skirt Western sanctions &lpar;Reuters&rpar;](http://www.techmeme.com/250314/p9#a250314p9)
- - [NASA’s SpaceX Crew-10 mission prepares to help bring the Starliner astronauts home](https://www.theverge.com/news/628311/nasa-crew-10-mission-starliner-astronauts-return-spacex)
- - [The fake promise of better Siri](https://www.theverge.com/the-vergecast/629652/siri-delay-bad-apple-tesla-trump-vergecast)<!-- TECH:END -->
+ - [Sources: Russia is using bitcoin, ether, and stablecoins such as Tether in its oil trade with China and India to skirt Western sanctions &lpar;Reuters&rpar;](http://www.techmeme.com/250314/p9#a250314p9)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

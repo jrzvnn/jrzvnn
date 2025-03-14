@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [The devs were diabolical for this](http://9gag.com/gag/a7oeNYq)
- - 😝 [American influencer being deported for kidnapping baby wombat from mother... and banned from Australia, her Boyfriend facing criminal charges...](http://9gag.com/gag/axyvP81)
- - 💣 [Dadddddddyyyyyyyy !!!!](http://9gag.com/gag/a5QBjjo)
- - 😝 [Ibiza 2000 vs ibiza 2025](http://9gag.com/gag/aGy87g7)
- - 👉 [What radicalized you ?](http://9gag.com/gag/a87m21p)<!-- MEMES:END -->
+ - 😝 [Capturing content for social media](http://9gag.com/gag/aAyEZnE)
+ - 😝 [He is not cheating btw](http://9gag.com/gag/ae9Ox1Q)
+ - 💣 [American influencer being deported for kidnapping baby wombat from mother... and banned from Australia, her Boyfriend facing criminal charges...](http://9gag.com/gag/axyvP81)
+ - 😝 [Oh dear God no](http://9gag.com/gag/ae9O7EB)
+ - 👉 [The devs were diabolical for this](http://9gag.com/gag/a7oeNYq)<!-- MEMES:END -->
 
 ---
 

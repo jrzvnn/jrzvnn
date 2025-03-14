@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Steakhouse kithcen](http://9gag.com/gag/a7oe24e)
- - 😝 [It&#39;s time...](http://9gag.com/gag/aXPNR2d)
- - 💣 [No product shrinkage is nearly as infuriating as Magnum\u2019s. This thing was 3 times the size 15 years ago](http://9gag.com/gag/aW4L28K)
- - 😝 [Rescue attempt for a suicide in my country. I had tear in my eyes](http://9gag.com/gag/a6Z9jg2)
- - 👉 [Oh dear God no](http://9gag.com/gag/ae9O7EB)<!-- MEMES:END -->
+ - 😝 [Cuteness 100% Survival instinct 0%](http://9gag.com/gag/aVvEB62)
+ - 😝 [For male audience](http://9gag.com/gag/aW4Ldqq)
+ - 💣 [Capturing content for social media](http://9gag.com/gag/aAyEZnE)
+ - 😝 [He&#39;s right actually](http://9gag.com/gag/aE0VQ3N)
+ - 👉 [Tony is on the roll](http://9gag.com/gag/aAyEOvd)<!-- MEMES:END -->
 
 ---
 

@@ -158,10 +158,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- TECH:START -->
  - [Two activist groups launch a legal challenge against the UK&#39;s bid to force Apple to create a data &quot;backdoor&quot;, arguing it would breach consumers&#39; privacy rights &lpar;Financial Times&rpar;](http://www.techmeme.com/250314/p2#a250314p2)
+ - [Best Mattress in a Box for 2025](https://www.cnet.com/health/sleep/best-mattress-in-a-box/#ftag=CAD590a51e)
  - [27 Best Housewarming Gifts for 2025](https://www.cnet.com/news/best-housewarming-gifts/#ftag=CAD590a51e)
  - [DeepSeek spurred a Chinese asset manager AI arms race that could shake up China&#39;s $10T fund management industry, as firms expand AI research and adopt DeepSeek &lpar;Reuters&rpar;](http://www.techmeme.com/250314/p1#a250314p1)
- - [Shark Promo Codes: 10% Off | March 2025](https://www.wired.com/story/shark-promo-code/)
- - [Sources: SoftBank plans to buy a former Sharp LCD panel plant in Osaka for ~$676M and convert it into a data center for jointly developing AI agents with OpenAI &lpar;Nikkei Asia&rpar;](http://www.techmeme.com/250313/p48#a250313p48)<!-- TECH:END -->
+ - [Shark Promo Codes: 10% Off | March 2025](https://www.wired.com/story/shark-promo-code/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

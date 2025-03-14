@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Motorcycle accident](http://9gag.com/gag/a7oeNAw)
+ - 😝 [Steakhouse kithcen](http://9gag.com/gag/a7oe24e)
+ - 😝 [It&#39;s time...](http://9gag.com/gag/aXPNR2d)
+ - 💣 [No product shrinkage is nearly as infuriating as Magnum\u2019s. This thing was 3 times the size 15 years ago](http://9gag.com/gag/aW4L28K)
  - 😝 [Rescue attempt for a suicide in my country. I had tear in my eyes](http://9gag.com/gag/a6Z9jg2)
- - 💣 [Turkish airlines](http://9gag.com/gag/a0eV1QQ)
- - 😝 [No product shrinkage is nearly as infuriating as Magnum\u2019s. This thing was 3 times the size 15 years ago](http://9gag.com/gag/aW4L28K)
- - 👉 [American influencer being deported for kidnapping baby wombat from mother... and banned from Australia, her Boyfriend facing criminal charges...](http://9gag.com/gag/axyvP81)<!-- MEMES:END -->
+ - 👉 [Oh dear God no](http://9gag.com/gag/ae9O7EB)<!-- MEMES:END -->
 
 ---
 

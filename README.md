@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [White people making street food like Indians.](http://9gag.com/gag/aMVmXWx)
- - 😝 [Going to tell my kids this is Grey&#39;s Anatomy](http://9gag.com/gag/a1mDLgP)
- - 💣 [Hired!](http://9gag.com/gag/ajPORg1)
- - 😝 [American influencer being deported for kidnapping baby wombat from mother... and banned from Australia, her Boyfriend facing criminal charges...](http://9gag.com/gag/axyvP81)
- - 👉 [Paid for](http://9gag.com/gag/a34A27N)<!-- MEMES:END -->
+ - 😝 [The devs were diabolical for this](http://9gag.com/gag/a7oeNYq)
+ - 😝 [Where do pilots sleep during breaks?](http://9gag.com/gag/a2v8O01)
+ - 💣 [His smile didn&#39;t last long](http://9gag.com/gag/aQzQAmW)
+ - 😝 [First time I hear a house crying](http://9gag.com/gag/a9yv8o1)
+ - 👉 [What radicalized you ?](http://9gag.com/gag/a87m21p)<!-- MEMES:END -->
 
 ---
 

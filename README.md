@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [US tariffs: how Trump’s tax is hitting Big Tech and beyond](https://www.theverge.com/604742/trump-tariffs-canada-mexico-china-updates)
+ - [The Last of Us: all the news about the video game franchise turned TV series](https://www.theverge.com/24036366/the-last-of-us-news-video-game-tv-series-trailers)
+ - [Calls for Tim Cook&#39;s resignation over Apple Intelligence miss that he has made Apple what it is](https://appleinsider.com/articles/25/03/14/calls-for-tim-cooks-resignation-over-apple-intelligence-miss-that-he-has-made-apple-what-it-is?utm_medium=rss)
  - [ESR has a range of new iPad accessories ready, from the Flip Magnetic Case to Geo Digital Pencil](https://appleinsider.com/articles/25/03/14/esr-has-a-range-of-new-ipad-accessories-ready-from-the-flip-magnetic-case-to-geo-digital-pencil?utm_medium=rss)
- - [Zombies, Run! and Marvel Move maker lays off majority of staff](https://www.theverge.com/news/629678/zombies-run-marvel-move-six-to-start-layoffs-fitness-tech)
- - [RGB LED Could Be the Future for Cheap Screens](https://www.wired.com/story/what-is-rgb-led-tv/)
- - [Trump’s first 100 days: all the news affecting the tech industry](https://www.theverge.com/24348851/donald-trump-presidency-tech-science-news)
- - [Tesla registrations — and public opinion — are in free fall](https://www.theverge.com/news/629667/tesla-elon-musk-donald-trump-doge-polling-data)<!-- TECH:END -->
+ - [Zombies, Run! and Marvel Move maker lays off majority of staff](https://www.theverge.com/news/629678/zombies-run-marvel-move-six-to-start-layoffs-fitness-tech)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

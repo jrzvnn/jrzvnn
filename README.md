@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [One ticket please](http://9gag.com/gag/aO84Gm2)
- - 😝 [It&#39;s time...](http://9gag.com/gag/aXPNR2d)
- - 💣 [Dadddddddyyyyyyyy !!!!](http://9gag.com/gag/a5QBjjo)
- - 😝 [Steakhouse kithcen](http://9gag.com/gag/a7oe24e)
- - 👉 [No choice to pull plug on German cable](http://9gag.com/gag/a9yvVb0)<!-- MEMES:END -->
+ - 😝 [Men only want one thing and it&#39;s f**king disgusting.](http://9gag.com/gag/aAyE2dp)
+ - 😝 [For male audience](http://9gag.com/gag/aW4Ldqq)
+ - 💣 [Capturing content for social media](http://9gag.com/gag/aAyEZnE)
+ - 😝 [Cuteness 100% Survival instinct 0%](http://9gag.com/gag/aVvEB62)
+ - 👉 [Tony is on the roll](http://9gag.com/gag/aAyEOvd)<!-- MEMES:END -->
 
 ---
 

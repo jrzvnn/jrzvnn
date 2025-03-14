@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Behind closed doors, Apple is embarrassed by its slow Siri rollout, too](https://appleinsider.com/articles/25/03/14/behind-closed-doors-apple-is-embarrassed-by-its-slow-siri-rollout-too?utm_medium=rss)
+ - [White House memo: David Sacks sold $200M+ worth of digital asset-related investments personally and through Craft Ventures before starting his government job &lpar;MacKenzie Sigalos/CNBC&rpar;](http://www.techmeme.com/250314/p19#a250314p19)
  - [House GOP subpoenas Big Tech for evidence that Biden made AI woke](https://www.theverge.com/news/629831/subpoena-ai-gop-political-bias)
  - [DeepSeek: all the news about the startup that’s shaking up AI stocks](https://www.theverge.com/24353060/deepseek-ai-china-nvidia-openai)
- - [Sources: an exec overseeing Siri told staff current delays were ugly, made worse by Apple publicly promoting new features, and it&#39;s unclear when they will ship &lpar;Mark Gurman/Bloomberg&rpar;](http://www.techmeme.com/250314/p18#a250314p18)
- - [T-Mobile Hikes Rates for Legacy Customers. Which Plans Are Affected?](https://www.cnet.com/tech/mobile/t-mobile-hikes-rates-for-legacy-customers-which-plans-are-affected/#ftag=CAD590a51e)
- - [Top 10 Mattresses for Side Sleepers of 2025, Expert-Tested and Approved](https://www.cnet.com/health/sleep/best-mattress-for-side-sleepers/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Sources: an exec overseeing Siri told staff the delays were ugly, made worse by Apple publicly promoting the new features, and it&#39;s unclear when they will ship &lpar;Mark Gurman/Bloomberg&rpar;](http://www.techmeme.com/250314/p18#a250314p18)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Finally got my Ps5. It must mean nothing to you guys, but I am happy!](http://9gag.com/gag/aByLo6z)
- - 😝 [No product shrinkage is nearly as infuriating as Magnum\u2019s. This thing was 3 times the size 15 years ago](http://9gag.com/gag/aW4L28K)
- - 💣 [Steakhouse kithcen](http://9gag.com/gag/a7oe24e)
  - 😝 [Please clean after using the equipment you use at the gym.](http://9gag.com/gag/a0eVMXz)
- - 👉 [Dadddddddyyyyyyyy !!!!](http://9gag.com/gag/a5QBjjo)<!-- MEMES:END -->
+ - 😝 [American influencer being deported for kidnapping baby wombat from mother... and banned from Australia, her Boyfriend facing criminal charges...](http://9gag.com/gag/axyvP81)
+ - 💣 [Ibiza 2000 vs ibiza 2025](http://9gag.com/gag/aGy87g7)
+ - 😝 [Motorcycle accident](http://9gag.com/gag/a7oeNAw)
+ - 👉 [Rescue attempt for a suicide in my country. I had tear in my eyes](http://9gag.com/gag/a6Z9jg2)<!-- MEMES:END -->
 
 ---
 

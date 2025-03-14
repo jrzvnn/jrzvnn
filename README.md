@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [A hearing in Apple&#39;s legal battle with the UK government over providing a backdoor in its Advanced Data Protection service was held without media present &lpar;Dan Milmo/The Guardian&rpar;](http://www.techmeme.com/250314/p21#a250314p21)
+ - [The Electric State can’t hold a charge to save its life](https://www.theverge.com/movie-reviews/629787/the-electric-state-review-netflix)
  - [Rep. Jim Jordan subpoenas 16 companies, including Apple, Meta, and OpenAI, over alleged Biden administration pressure to use AI to &quot;censor lawful speech&quot; &lpar;Tina Nguyen/The Verge&rpar;](http://www.techmeme.com/250314/p20#a250314p20)
  - [OpenAI and Google ask the government to let them train AI on content they don’t own](https://www.theverge.com/news/630079/openai-google-copyright-fair-use-exception)
- - [Anthropic’s plan to win the AI race](https://www.theverge.com/command-line-newsletter/630037/anthropic-plan-win-ai-race-mike-krieger)
- - [From ChatGPT to Gemini: how AI is rewriting the internet](https://www.theverge.com/23610427/chatbots-chatgpt-new-bing-google-bard-conversational-ai)
- - [All the smart home news, reviews, and gadgets you need to know about](https://www.theverge.com/24190824/smart-home-news-reviews-guides-gadgets)<!-- TECH:END -->
+ - [Anthropic’s plan to win the AI race](https://www.theverge.com/command-line-newsletter/630037/anthropic-plan-win-ai-race-mike-krieger)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

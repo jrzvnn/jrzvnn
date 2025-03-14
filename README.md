@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Two activist groups launch a legal challenge against the UK&#39;s bid to force Apple to create a data &quot;backdoor&quot;, arguing it would breach consumers&#39; privacy rights &lpar;Financial Times&rpar;](http://www.techmeme.com/250314/p2#a250314p2)
+ - [27 Best Housewarming Gifts for 2025](https://www.cnet.com/news/best-housewarming-gifts/#ftag=CAD590a51e)
  - [DeepSeek spurred a Chinese asset manager AI arms race that could shake up China&#39;s $10T fund management industry, as firms expand AI research and adopt DeepSeek &lpar;Reuters&rpar;](http://www.techmeme.com/250314/p1#a250314p1)
- - [Sources: SoftBank plans to buy a former Sharp LCD panel plant in Osaka for ~$676M and convert it into a data center for jointly developing AI agents with OpenAI &lpar;Nikkei Asia&rpar;](http://www.techmeme.com/250313/p48#a250313p48)
- - [Today&#39;s NYT Mini Crossword Answers for Friday, March 14](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-friday-march-14/#ftag=CAD590a51e)
- - [How to turn on Siri on macOS without sending your Contacts to Apple](https://appleinsider.com/inside/macos-sequoia/tips/how-to-turn-on-siri-on-macos-without-sending-your-contacts-to-apple?utm_medium=rss)
- - [Sources: DeepSeek has shown little intention to further commercialize its tech in the near term, instead focusing on model development and building AGI &lpar;Zijing Wu/Financial Times&rpar;](http://www.techmeme.com/250313/p47#a250313p47)<!-- TECH:END -->
+ - [Shark Promo Codes: 10% Off | March 2025](https://www.wired.com/story/shark-promo-code/)
+ - [Sources: SoftBank plans to buy a former Sharp LCD panel plant in Osaka for ~$676M and convert it into a data center for jointly developing AI agents with OpenAI &lpar;Nikkei Asia&rpar;](http://www.techmeme.com/250313/p48#a250313p48)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

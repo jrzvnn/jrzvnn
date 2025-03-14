@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Block says it is expanding consumer lending through Cash App Borrow after obtaining FDIC approval to issue loans out of its subsidiary Square Financial Services &lpar;MacKenzie Sigalos/CNBC&rpar;](http://www.techmeme.com/250314/p22#a250314p22)
+ - [NASA’s SpaceX Crew-10 mission prepares to help bring the Starliner astronauts home](https://www.theverge.com/news/628311/nasa-crew-10-mission-starliner-astronauts-return-spacex)
  - [A hearing in Apple&#39;s legal battle with the UK government over providing a backdoor in its Advanced Data Protection service was held without media present &lpar;Dan Milmo/The Guardian&rpar;](http://www.techmeme.com/250314/p21#a250314p21)
  - [The Electric State can’t hold a charge to save its life](https://www.theverge.com/movie-reviews/629787/the-electric-state-review-netflix)
- - [Rep. Jim Jordan subpoenas 16 companies, including Apple, Meta, and OpenAI, over alleged Biden administration pressure to use AI to &quot;censor lawful speech&quot; &lpar;Tina Nguyen/The Verge&rpar;](http://www.techmeme.com/250314/p20#a250314p20)
- - [OpenAI and Google ask the government to let them train AI on content they don’t own](https://www.theverge.com/news/630079/openai-google-copyright-fair-use-exception)
- - [Anthropic’s plan to win the AI race](https://www.theverge.com/command-line-newsletter/630037/anthropic-plan-win-ai-race-mike-krieger)<!-- TECH:END -->
+ - [The GOP&#39;s Jim Jordan subpoenas Apple, Amazon, Meta, Microsoft, Nvidia, OpenAI, and 10 others over alleged Biden pressure to use AI to &quot;censor lawful speech&quot; &lpar;Tina Nguyen/The Verge&rpar;](http://www.techmeme.com/250314/p20#a250314p20)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

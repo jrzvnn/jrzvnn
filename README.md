@@ -157,8 +157,8 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [NASA’s Crew-10 mission lifts off as the Starliner astronauts prepare to come home](https://www.theverge.com/news/628311/nasa-crew-10-mission-starliner-astronauts-return-spacex)
  - [Under Trump, AI Scientists Are Told to Remove ‘Ideological Bias’ From Powerful Models](https://www.wired.com/story/ai-safety-institute-new-directive-america-first/)
- - [Watch NASA’s SpaceX Crew-10 mission launch](https://www.theverge.com/news/628311/nasa-crew-10-mission-starliner-astronauts-return-spacex)
  - [Android&amp;#8217;s Find My Device app can now show you where people are, too](https://www.theverge.com/news/630222/android-march-find-my-device-people-location-sharing-update)
  - [Streamers court YouTubers for new shows or spinoffs; sources: Amazon made $100M+ in profit on Beast Games and Netflix held talks with Dude Perfect for a series &lpar;Jessica Toonkel/Wall Street Journal&rpar;](http://www.techmeme.com/250314/p28#a250314p28)
  - [Trump’s first 100 days: all the news affecting the tech industry](https://www.theverge.com/24348851/donald-trump-presidency-tech-science-news)<!-- TECH:END -->

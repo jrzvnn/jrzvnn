@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Men only want one thing and it&#39;s f**king disgusting.](http://9gag.com/gag/aAyE2dp)
- - 😝 [For male audience](http://9gag.com/gag/aW4Ldqq)
- - 💣 [Cuteness 100% Survival instinct 0%](http://9gag.com/gag/aVvEB62)
- - 😝 [Capturing content for social media](http://9gag.com/gag/aAyEZnE)
- - 👉 [Tony is on the roll](http://9gag.com/gag/aAyEOvd)<!-- MEMES:END -->
+ - 😝 [Finally got my Ps5. It must mean nothing to you guys, but I am happy!](http://9gag.com/gag/aByLo6z)
+ - 😝 [American influencer being deported for kidnapping baby wombat from mother... and banned from Australia, her Boyfriend facing criminal charges...](http://9gag.com/gag/axyvP81)
+ - 💣 [No choice to pull plug on German cable](http://9gag.com/gag/a9yvVb0)
+ - 😝 [Steakhouse kithcen](http://9gag.com/gag/a7oe24e)
+ - 👉 [It&#39;s time...](http://9gag.com/gag/aXPNR2d)<!-- MEMES:END -->
 
 ---
 

@@ -166,10 +166,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [For male audience](http://9gag.com/gag/aW4Ldqq)
- - 😝 [Not the worst award show speech . . .](http://9gag.com/gag/aZZwvrn)
- - 💣 [Johnny Somali Sentenced to 5 Years in South Korea \u2013 Play Stupid Games, Win Stupid Prizes](http://9gag.com/gag/aKG9Kwb)
- - 😝 [Men only want one thing and it&#39;s f**king disgusting.](http://9gag.com/gag/aAyE2dp)
+ - 😝 [One ticket please](http://9gag.com/gag/aO84Gm2)
+ - 😝 [Who wants some popcorn???](http://9gag.com/gag/aoyV8De)
+ - 💣 [Ibiza 2000 vs ibiza 2025](http://9gag.com/gag/aGy87g7)
+ - 😝 [American influencer being deported for kidnapping baby wombat from mother... and banned from Australia, her Boyfriend facing criminal charges...](http://9gag.com/gag/axyvP81)
  - 👉 [Capturing content for social media](http://9gag.com/gag/aAyEZnE)<!-- MEMES:END -->
 
 ---

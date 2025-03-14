@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The Beef Tallow Skin Care Trend Smells Like a Scam](https://www.wired.com/story/i-have-beef-with-tallow/)
+ - [How to go back in time using Google Maps](https://www.theverge.com/how-to/628861/google-maps-earth-time-how-to)
+ - [Sources: Russia is using bitcoin, ether, and stablecoins such as Tether in its oil trade with China and India to skirt Western sanctions &lpar;Reuters&rpar;](http://www.techmeme.com/250314/p9#a250314p9)
  - [NASA’s SpaceX Crew-10 mission prepares to help bring the Starliner astronauts home](https://www.theverge.com/news/628311/nasa-crew-10-mission-starliner-astronauts-return-spacex)
- - [Panasonic Arc 5 Palm Shaver Review: Japanese Steel](https://www.wired.com/review/panasonic-arc-5-palm-shaver/)
- - [iPhone 16e users report Bluetooth audio problems](https://appleinsider.com/articles/25/03/14/iphone-16e-users-report-bluetooth-audio-problems?utm_medium=rss)
- - [Apple Intelligence, Home Hub, and Sonos on the AppleInsider Podcast](https://appleinsider.com/articles/25/03/14/apple-intelligence-home-hub-and-sonos-on-the-appleinsider-podcast?utm_medium=rss)
- - [Best Heated Blankets, Tested and Reviewed &lpar;2025&rpar;](https://www.wired.com/gallery/best-heated-blankets/)<!-- TECH:END -->
+ - [The fake promise of better Siri](https://www.theverge.com/the-vergecast/629652/siri-delay-bad-apple-tesla-trump-vergecast)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

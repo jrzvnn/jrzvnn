@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Amazon is shutting down the option not to send Echo voice recordings to the cloud](https://www.theverge.com/news/630049/amazon-echo-discontinues-do-not-send-voice-recording-setting)
  - [All the smart home news, reviews, and gadgets you need to know about](https://www.theverge.com/24190824/smart-home-news-reviews-guides-gadgets)
- - [Star Wars: Hunters will go offline in October](https://www.theverge.com/news/629949/star-wars-hunters-offline-october)
- - [Behind closed doors, Apple is embarrassed by its slow Siri rollout, too](https://appleinsider.com/articles/25/03/14/behind-closed-doors-apple-is-embarrassed-by-its-slow-siri-rollout-too?utm_medium=rss)
- - [White House memo: David Sacks sold $200M+ worth of digital asset-related investments personally and through Craft Ventures before starting his government job &lpar;MacKenzie Sigalos/CNBC&rpar;](http://www.techmeme.com/250314/p19#a250314p19)
- - [House GOP subpoenas Big Tech for evidence that Biden made AI woke](https://www.theverge.com/news/629831/subpoena-ai-gop-political-bias)<!-- TECH:END -->
+ - [From ChatGPT to Gemini: how AI is rewriting the internet](https://www.theverge.com/23610427/chatbots-chatgpt-new-bing-google-bard-conversational-ai)
+ - [Leaked Apple meeting shows how dire the Siri situation really is](https://www.theverge.com/news/629940/apple-siri-robby-walker-delayed-ai-features)
+ - [Star Wars: Hunters will go offline in October](https://www.theverge.com/news/629949/star-wars-hunters-offline-october)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

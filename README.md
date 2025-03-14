@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Motorcycle accident](http://9gag.com/gag/a7oeNAw)
- - 😝 [What radicalized you ?](http://9gag.com/gag/a87m21p)
- - 💣 [Steakhouse kithcen](http://9gag.com/gag/a7oe24e)
- - 😝 [Who wants some popcorn???](http://9gag.com/gag/aoyV8De)
- - 👉 [Turkish airlines](http://9gag.com/gag/a0eV1QQ)<!-- MEMES:END -->
+ - 😝 [What&#39;s your story of an old friend returning?](http://9gag.com/gag/a6Z9p2m)
+ - 😝 [Historical photos you&#39;ve &lpar;probably&rpar; never seen before.](http://9gag.com/gag/agmOj0n)
+ - 💣 [Life thought](http://9gag.com/gag/a9yvOPm)
+ - 😝 [The devs were diabolical for this](http://9gag.com/gag/a7oeNYq)
+ - 👉 [This is sad. Bro did not deserve this.](http://9gag.com/gag/avyexod)<!-- MEMES:END -->
 
 ---
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Historical photos you&#39;ve &lpar;probably&rpar; never seen before.](http://9gag.com/gag/agmOj0n)
- - 😝 [Who wants some popcorn???](http://9gag.com/gag/aoyV8De)
- - 💣 [Steakhouse kithcen](http://9gag.com/gag/a7oe24e)
- - 😝 [American influencer being deported for kidnapping baby wombat from mother... and banned from Australia, her Boyfriend facing criminal charges...](http://9gag.com/gag/axyvP81)
- - 👉 [He is not cheating btw](http://9gag.com/gag/ae9Ox1Q)<!-- MEMES:END -->
+ - 😝 [He is not cheating btw](http://9gag.com/gag/ae9Ox1Q)
+ - 😝 [How close was it for South Korea to lose the war.](http://9gag.com/gag/amoGp79)
+ - 💣 [Ibiza 2000 vs ibiza 2025](http://9gag.com/gag/aGy87g7)
+ - 😝 [NOW - Green flames rise from manhole covers on Texas Tech campus. Buildings are being evacuated.](http://9gag.com/gag/aW4L2pZ)
+ - 👉 [Historical photos you&#39;ve &lpar;probably&rpar; never seen before.](http://9gag.com/gag/agmOj0n)<!-- MEMES:END -->
 
 ---
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [One ticket please](http://9gag.com/gag/aO84Gm2)
- - 😝 [Johnny Somali Sentenced to 5 Years in South Korea \u2013 Play Stupid Games, Win Stupid Prizes](http://9gag.com/gag/aKG9Kwb)
- - 💣 [The devs were diabolical for this](http://9gag.com/gag/a7oeNYq)
- - 😝 [Ibiza 2000 vs ibiza 2025](http://9gag.com/gag/aGy87g7)
- - 👉 [Steakhouse kithcen](http://9gag.com/gag/a7oe24e)<!-- MEMES:END -->
+ - 😝 [I liked life better before this](http://9gag.com/gag/aRBZyE7)
+ - 😝 [Tony is on the roll](http://9gag.com/gag/aAyEOvd)
+ - 💣 [He&#39;s right actually](http://9gag.com/gag/aE0VQ3N)
+ - 😝 [Unexpected](http://9gag.com/gag/aYQOm20)
+ - 👉 [She left me boys, cheers!](http://9gag.com/gag/amoGdX4)<!-- MEMES:END -->
 
 ---
 

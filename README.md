@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [iPhone 17, Mac, iPad Pro: What to expect from Apple for the rest of 2025](https://appleinsider.com/articles/25/03/14/iphone-mac-ipad-what-to-expect-from-apple-for-the-rest-of-2025?utm_medium=rss)
- - [Apple, Intel, and others head to Vietnam to discuss tariff concerns](https://appleinsider.com/articles/25/03/14/apple-intel-and-others-head-to-vietnam-to-discuss-tariff-concerns?utm_medium=rss)
- - [Ford hires a Twitch and PlayStation veteran to run its digital services](https://www.theverge.com/news/629710/ford-digital-integrated-services-mike-aragon-subscriptions)
- - [DocuSign stock jumps 14%+ after reporting Q4 revenue up 9% YoY to $776M, subscription revenue up 9% YoY, and a $83.5M net income, up from $27.2M a year ago &lpar;Laya Neelakandan/CNBC&rpar;](http://www.techmeme.com/250314/p12#a250314p12)
- - [Trump’s first 100 days: all the news affecting the tech industry](https://www.theverge.com/24348851/donald-trump-presidency-tech-science-news)<!-- TECH:END -->
+ - [ESR has a range of new iPad accessories ready, from the Flip Magnetic Case to Geo Digital Pencil](https://appleinsider.com/articles/25/03/14/esr-has-a-range-of-new-ipad-accessories-ready-from-the-flip-magnetic-case-to-geo-digital-pencil?utm_medium=rss)
+ - [Zombies, Run! and Marvel Move maker lays off majority of staff](https://www.theverge.com/news/629678/zombies-run-marvel-move-six-to-start-layoffs-fitness-tech)
+ - [RGB LED Could Be the Future for Cheap Screens](https://www.wired.com/story/what-is-rgb-led-tv/)
+ - [Trump’s first 100 days: all the news affecting the tech industry](https://www.theverge.com/24348851/donald-trump-presidency-tech-science-news)
+ - [Tesla registrations — and public opinion — are in free fall](https://www.theverge.com/news/629667/tesla-elon-musk-donald-trump-doge-polling-data)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

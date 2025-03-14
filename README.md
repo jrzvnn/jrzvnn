@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Capturing content for social media](http://9gag.com/gag/aAyEZnE)
- - 😝 [He is not cheating btw](http://9gag.com/gag/ae9Ox1Q)
- - 💣 [American influencer being deported for kidnapping baby wombat from mother... and banned from Australia, her Boyfriend facing criminal charges...](http://9gag.com/gag/axyvP81)
- - 😝 [Oh dear God no](http://9gag.com/gag/ae9O7EB)
- - 👉 [The devs were diabolical for this](http://9gag.com/gag/a7oeNYq)<!-- MEMES:END -->
+ - 😝 [Dadddddddyyyyyyyy !!!!](http://9gag.com/gag/a5QBjjo)
+ - 😝 [Please clean after using the equipment you use at the gym.](http://9gag.com/gag/a0eVMXz)
+ - 💣 [Steakhouse kithcen](http://9gag.com/gag/a7oe24e)
+ - 😝 [American influencer being deported for kidnapping baby wombat from mother... and banned from Australia, her Boyfriend facing criminal charges...](http://9gag.com/gag/axyvP81)
+ - 👉 [Finally got my Ps5. It must mean nothing to you guys, but I am happy!](http://9gag.com/gag/aByLo6z)<!-- MEMES:END -->
 
 ---
 

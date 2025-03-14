@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [RCS messaging will get end-to-end encryption on iPhone](https://appleinsider.com/articles/25/03/14/rcs-messaging-will-get-end-to-end-encryption-on-iphone?utm_medium=rss)
+ - [Foxconn CEO Young Liu says &quot;the attitude and the approach&quot; of the US government toward tariffs has become a &quot;big headache&quot; for companies like Apple and Amazon &lpar;Kathrin Hille/Financial Times&rpar;](http://www.techmeme.com/250314/p7#a250314p7)
+ - [Apple will soon support encrypted RCS messaging with Android users](https://www.theverge.com/news/629620/apple-iphone-e2ee-encryption-rcs-messaging-android)
  - [Can’t Wrap Your Head Around Pi? Here’s a Cool Visual to Help](https://www.wired.com/story/cant-wrap-your-head-around-pi-heres-a-cool-visual-to-help/)
- - [The GSMA announces the new RCS standard supports interoperable E2EE between platforms; Apple says it will add support for the standard in a future update &lpar;Jess Weatherbed/The Verge&rpar;](http://www.techmeme.com/250314/p6#a250314p6)
- - [The Silicon Valley Christians Who Want to Build ‘Heaven on Earth’](https://www.wired.com/story/christians-silicon-valley-religion-venture-capital/)
- - [A US bankruptcy court lets 3AC raise its claim against FTX from $120M to $1.53B, despite FTX&#39;s objection that it was too late; 3AC originally filed in June 2023 &lpar;Danny Park/The Block&rpar;](http://www.techmeme.com/250314/p5#a250314p5)
- - [A New Era of Attacks on Encryption Is Starting to Heat Up](https://www.wired.com/story/a-new-era-of-attacks-on-encryption-is-starting-to-heat-up/)<!-- TECH:END -->
+ - [The GSMA announces the new RCS standard supports interoperable E2EE between platforms; Apple says it will add support for the standard in a future update &lpar;Jess Weatherbed/The Verge&rpar;](http://www.techmeme.com/250314/p6#a250314p6)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

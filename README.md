@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [European authorities raided 21 addresses, arrested several people, and sealed two offices in the EU Parliament, as part of a spiraling bribery probe into Huawei &lpar;Politico&rpar;](http://www.techmeme.com/250314/p8#a250314p8)
- - [Inside Apple Music: how you can get the most out of Apple&#39;s music streaming service](https://appleinsider.com/inside/apple-music/tips/inside-apple-music-how-you-can-get-the-most-out-of-apples-music-streaming-service?utm_medium=rss)
- - [Foxconn head predicts a surge in US manufacturing in the coming years](https://appleinsider.com/articles/25/03/14/foxconn-head-predicts-a-surge-in-us-manufacturing-in-the-coming-years?utm_medium=rss)
- - [RCS messaging will get end-to-end encryption on iPhone](https://appleinsider.com/articles/25/03/14/rcs-messaging-will-get-end-to-end-encryption-on-iphone?utm_medium=rss)
- - [Foxconn CEO Young Liu says &quot;the attitude and the approach&quot; of the US government toward tariffs has become a &quot;big headache&quot; for companies like Apple and Amazon &lpar;Kathrin Hille/Financial Times&rpar;](http://www.techmeme.com/250314/p7#a250314p7)<!-- TECH:END -->
+ - [NASA’s SpaceX Crew-10 mission prepares to help bring the Starliner astronauts home](https://www.theverge.com/news/628311/nasa-crew-10-mission-starliner-astronauts-return-spacex)
+ - [Panasonic Arc 5 Palm Shaver Review: Japanese Steel](https://www.wired.com/review/panasonic-arc-5-palm-shaver/)
+ - [iPhone 16e users report Bluetooth audio problems](https://appleinsider.com/articles/25/03/14/iphone-16e-users-report-bluetooth-audio-problems?utm_medium=rss)
+ - [Apple Intelligence, Home Hub, and Sonos on the AppleInsider Podcast](https://appleinsider.com/articles/25/03/14/apple-intelligence-home-hub-and-sonos-on-the-appleinsider-podcast?utm_medium=rss)
+ - [Best Heated Blankets, Tested and Reviewed &lpar;2025&rpar;](https://www.wired.com/gallery/best-heated-blankets/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Watch NASA’s SpaceX Crew-10 mission launch](https://www.theverge.com/news/628311/nasa-crew-10-mission-starliner-astronauts-return-spacex)
+ - [Android&amp;#8217;s Find My Device app can now show you where people are, too](https://www.theverge.com/news/630222/android-march-find-my-device-people-location-sharing-update)
  - [Streamers court YouTubers for new shows or spinoffs; sources: Amazon made $100M+ in profit on Beast Games and Netflix held talks with Dude Perfect for a series &lpar;Jessica Toonkel/Wall Street Journal&rpar;](http://www.techmeme.com/250314/p28#a250314p28)
  - [Trump’s first 100 days: all the news affecting the tech industry](https://www.theverge.com/24348851/donald-trump-presidency-tech-science-news)
- - [The Trump administration is coming for student protesters](https://www.theverge.com/policy/630129/trump-student-protesters-mahmoud-khalil-columbia-deportation)
- - [Email: Amazon says Echo users won&#39;t be able to set their devices to process Alexa requests locally, as new generative AI features need processing in the cloud &lpar;Scharon Harding/Ars Technica&rpar;](http://www.techmeme.com/250314/p27#a250314p27)
- - [Hear what Horizon Zero Dawn actor Ashly Burch thinks about Sony AI taking her job](https://www.theverge.com/news/630176/ashly-burch-sony-ai-horizon-aloy-tech-demo-sag-aftra-strike)<!-- TECH:END -->
+ - [The Trump administration is coming for student protesters](https://www.theverge.com/policy/630129/trump-student-protesters-mahmoud-khalil-columbia-deportation)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

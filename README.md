@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Cuteness 100% Survival instinct 0%](http://9gag.com/gag/aVvEB62)
- - 😝 [For male audience](http://9gag.com/gag/aW4Ldqq)
- - 💣 [Capturing content for social media](http://9gag.com/gag/aAyEZnE)
- - 😝 [He&#39;s right actually](http://9gag.com/gag/aE0VQ3N)
- - 👉 [Tony is on the roll](http://9gag.com/gag/aAyEOvd)<!-- MEMES:END -->
+ - 😝 [Finally got my Ps5. It must mean nothing to you guys, but I am happy!](http://9gag.com/gag/aByLo6z)
+ - 😝 [No product shrinkage is nearly as infuriating as Magnum\u2019s. This thing was 3 times the size 15 years ago](http://9gag.com/gag/aW4L28K)
+ - 💣 [Steakhouse kithcen](http://9gag.com/gag/a7oe24e)
+ - 😝 [Please clean after using the equipment you use at the gym.](http://9gag.com/gag/a0eVMXz)
+ - 👉 [Dadddddddyyyyyyyy !!!!](http://9gag.com/gag/a5QBjjo)<!-- MEMES:END -->
 
 ---
 

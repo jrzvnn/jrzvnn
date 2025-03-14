@@ -157,10 +157,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [iPhone 17, Mac, iPad Pro: What to expect from Apple for the rest of 2025](https://appleinsider.com/articles/25/03/14/iphone-mac-ipad-what-to-expect-from-apple-for-the-rest-of-2025?utm_medium=rss)
  - [Apple, Intel, and others head to Vietnam to discuss tariff concerns](https://appleinsider.com/articles/25/03/14/apple-intel-and-others-head-to-vietnam-to-discuss-tariff-concerns?utm_medium=rss)
  - [Ford hires a Twitch and PlayStation veteran to run its digital services](https://www.theverge.com/news/629710/ford-digital-integrated-services-mike-aragon-subscriptions)
  - [DocuSign stock jumps 14%+ after reporting Q4 revenue up 9% YoY to $776M, subscription revenue up 9% YoY, and a $83.5M net income, up from $27.2M a year ago &lpar;Laya Neelakandan/CNBC&rpar;](http://www.techmeme.com/250314/p12#a250314p12)
- - [iPhone, Mac, iPad: What to expect from Apple for the rest of 2025](https://appleinsider.com/articles/25/03/14/iphone-mac-ipad-what-to-expect-from-apple-for-the-rest-of-2025?utm_medium=rss)
  - [Trump’s first 100 days: all the news affecting the tech industry](https://www.theverge.com/24348851/donald-trump-presidency-tech-science-news)<!-- TECH:END -->
 
 ### 😂 Memes of the hour

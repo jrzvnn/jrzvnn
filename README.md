@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Hong Kong-based RedotPay, which aims to enable cryptocurrency use in everyday transactions, raised a $40M Series A led by Lightspeed &lpar;Yohan Yun/Cointelegraph&rpar;](http://www.techmeme.com/250314/p16#a250314p16)
+ - [Reddit will let you hide ads](https://www.theverge.com/news/629868/reddit-hide-ads)
+ - [California&amp;#8217;s online child safety law blocked by judge – again](https://www.theverge.com/news/629863/california-caadca-online-child-safety-law-blocked-netchoice)
  - [Reddit will allow users to hide ads from their feeds from an advertiser account for &quot;at least a year&quot;; some users report seeing a daily limit for hiding ads &lpar;Scharon Harding/Ars Technica&rpar;](http://www.techmeme.com/250314/p15#a250314p15)
- - [These new Roombas aren’t the robots I know and love](https://www.theverge.com/smart-home/628900/irobot-roomba-reinvention-pushes-out-invention)
- - [M4 MacBook Air Review &lpar;15-Inch, 2025&rpar;: The Best MacBook For Most People Gets Faster and Cheaper](https://www.cnet.com/tech/computing/m4-macbook-air-review-15-inch-2025-the-best-macbook-for-most-people-gets-faster-and-cheaper/#ftag=CAD590a51e)
- - [Sun Home Luminar Sauna Review: No Steam](https://www.wired.com/review/sun-home-luminar-5-person-sauna/)
- - [Handheld Xbox Console: Who&#39;s Making It and When Will It Release?](https://www.cnet.com/tech/gaming/microsoft-reportedly-working-on-handheld-set-to-launch-later-this-year/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [These new Roombas aren’t the robots I know and love](https://www.theverge.com/smart-home/628900/irobot-roomba-reinvention-pushes-out-invention)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

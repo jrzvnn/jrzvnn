@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [M4 MacBook Air teardown reveals it&#39;s just as easy to repair as its predecessor](https://appleinsider.com/articles/25/03/14/m4-macbook-air-teardown-reveals-its-just-as-easy-to-repair-as-its-predecessor?utm_medium=rss)
- - [Trump’s first 100 days: all the news affecting the tech industry](https://www.theverge.com/24348851/donald-trump-presidency-tech-science-news)
- - [Delaying a revamped Siri may be embarrassing for Apple, but rushing an update with half-baked features could have created a real crisis for the company &lpar;Ryan Christoffel/9to5Mac&rpar;](http://www.techmeme.com/250314/p25#a250314p25)
- - [Klarna reports 2024 revenue up 24% YoY to $2.81B, a net profit of $21M, compared with a net loss of $244M a year ago, and 93M active consumers &lpar;Ryan Lawler/Axios&rpar;](http://www.techmeme.com/250314/p24#a250314p24)
- - [Klarna files for a US IPO, with plans to list on the NYSE under KLAR, seeking to raise at least $1B and reportedly targeting a valuation of more than $15B &lpar;Bloomberg&rpar;](http://www.techmeme.com/250314/p23#a250314p23)<!-- TECH:END -->
+ - [Email: Amazon says Echo users won&#39;t be able to set their devices to process Alexa requests locally, as new generative AI features need processing in the cloud &lpar;Scharon Harding/Ars Technica&rpar;](http://www.techmeme.com/250314/p27#a250314p27)
+ - [Hear what Horizon Zero Dawn actor Ashly Burch thinks about AI taking her job](https://www.theverge.com/news/630176/ashly-burch-sony-ai-horizon-aloy-tech-demo-sag-aftra-strike)
+ - [Sources: Ubisoft explores selling a stake in a new entity holding IP like Assassin&#39;s Creed to investors including Tencent, at a higher valuation than Ubisoft &lpar;Bloomberg&rpar;](http://www.techmeme.com/250314/p26#a250314p26)
+ - [Watch NASA’s SpaceX Crew-10 mission launch tonight](https://www.theverge.com/news/628311/nasa-crew-10-mission-starliner-astronauts-return-spacex)
+ - [M4 MacBook Air teardown reveals it&#39;s just as easy to repair as its predecessor](https://appleinsider.com/articles/25/03/14/m4-macbook-air-teardown-reveals-its-just-as-easy-to-repair-as-its-predecessor?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [The devs were diabolical for this](http://9gag.com/gag/a7oeNYq)
- - 😝 [Like mothet ,like daughter ,huh](http://9gag.com/gag/aW4LvnA)
+ - 😝 [His smile didn&#39;t last long](http://9gag.com/gag/aQzQAmW)
+ - 😝 [How close was it for South Korea to lose the war.](http://9gag.com/gag/amoGp79)
  - 💣 [What radicalized you ?](http://9gag.com/gag/a87m21p)
- - 😝 [NOW - Green flames rise from manhole covers on Texas Tech campus. Buildings are being evacuated.](http://9gag.com/gag/aW4L2pZ)
- - 👉 [Steakhouse kithcen](http://9gag.com/gag/a7oe24e)<!-- MEMES:END -->
+ - 😝 [He is not cheating btw](http://9gag.com/gag/ae9Ox1Q)
+ - 👉 [Ibiza 2000 vs ibiza 2025](http://9gag.com/gag/aGy87g7)<!-- MEMES:END -->
 
 ---
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Sun Home Luminar Sauna Review: No Steam](https://www.wired.com/review/sun-home-luminar-5-person-sauna/)
+ - [iPhone 17 lineup names may be coming into focus](https://appleinsider.com/articles/25/03/14/iphone-17-lineup-names-may-be-coming-into-focus?utm_medium=rss)
  - [Morgan Marquis-Boire, the once-celebrated hacker accused of sexual assaults in 2017, is the undisclosed co-founder of crypto intelligence firm Unciphered &lpar;Joseph Menn/Washington Post&rpar;](http://www.techmeme.com/250314/p14#a250314p14)
  - [Vampire Survivors: our collective obsession with the quirky, genre-defining indie game](https://www.theverge.com/games/23827123/vampire-survivors-news-announcements-updates-dlc-spinoffs)
- - [US tariffs: how Trump’s tax is hitting Big Tech and beyond](https://www.theverge.com/604742/trump-tariffs-canada-mexico-china-updates)
- - [The Last of Us: all the news about the video game franchise turned TV series](https://www.theverge.com/24036366/the-last-of-us-news-video-game-tv-series-trailers)
- - [Calls for Tim Cook&#39;s resignation over Apple Intelligence miss that he has made Apple what it is](https://appleinsider.com/articles/25/03/14/calls-for-tim-cooks-resignation-over-apple-intelligence-miss-that-he-has-made-apple-what-it-is?utm_medium=rss)<!-- TECH:END -->
+ - [US tariffs: how Trump’s tax is hitting Big Tech and beyond](https://www.theverge.com/604742/trump-tariffs-canada-mexico-china-updates)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

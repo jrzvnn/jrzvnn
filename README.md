@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Amazon is shutting down the option not to send Echo voice recordings to the cloud](https://www.theverge.com/news/630049/amazon-echo-discontinues-do-not-send-voice-recording-setting)
- - [All the smart home news, reviews, and gadgets you need to know about](https://www.theverge.com/24190824/smart-home-news-reviews-guides-gadgets)
+ - [Rep. Jim Jordan subpoenas 16 companies, including Apple, Meta, and OpenAI, over alleged Biden administration pressure to use AI to &quot;censor lawful speech&quot; &lpar;Tina Nguyen/The Verge&rpar;](http://www.techmeme.com/250314/p20#a250314p20)
+ - [OpenAI and Google ask the government to let them train AI on content they don’t own](https://www.theverge.com/news/630079/openai-google-copyright-fair-use-exception)
+ - [Anthropic’s plan to win the AI race](https://www.theverge.com/command-line-newsletter/630037/anthropic-plan-win-ai-race-mike-krieger)
  - [From ChatGPT to Gemini: how AI is rewriting the internet](https://www.theverge.com/23610427/chatbots-chatgpt-new-bing-google-bard-conversational-ai)
- - [Leaked Apple meeting shows how dire the Siri situation really is](https://www.theverge.com/news/629940/apple-siri-robby-walker-delayed-ai-features)
- - [Star Wars: Hunters will go offline in October](https://www.theverge.com/news/629949/star-wars-hunters-offline-october)<!-- TECH:END -->
+ - [All the smart home news, reviews, and gadgets you need to know about](https://www.theverge.com/24190824/smart-home-news-reviews-guides-gadgets)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

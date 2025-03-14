@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Terabase, which is developing robots and automated systems using AI to rapidly build solar farms, raised a $130M Series C led by SoftBank Vision Fund 2 &lpar;Financial Times&rpar;](http://www.techmeme.com/250313/p46#a250313p46)
+ - [Silent Hill: F Gets Detailed by Konami, New Trailer Revealed](https://www.cnet.com/tech/gaming/silent-hill-f-gets-detailed-by-konami-new-trailer-revealed/#ftag=CAD590a51e)
+ - [Apple Reportedly Planning AirPods That Can Translate Languages Live](https://www.cnet.com/tech/apple-reportedly-planning-airpods-that-can-translate-languages-live/#ftag=CAD590a51e)
  - [Jabees Peace Speaker review: an inexpensive way to listen to audio while you sleep](https://appleinsider.com/articles/25/03/14/jabees-peace-speaker-review-an-inexpensive-way-to-listen-to-audio-while-you-sleep?utm_medium=rss)
- - [These Are the 10 DOGE Operatives Inside the Social Security Administration](https://www.wired.com/story/doge-operatives-access-social-security-administration/)
- - [The best budget smartphone you can buy](https://www.theverge.com/21420196/best-budget-smartphone-cheap)
- - [T-Mobile is raising prices on some of its prized legacy plans](https://www.theverge.com/news/629598/t-mobile-legacy-plan-price-increase)
- - [Jupiter&#39;s Moon Callisto Probably Has an Ocean Under Its Surface](https://www.cnet.com/science/jupiters-moon-callisto-probably-has-an-ocean-under-its-surface/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [These Are the 10 DOGE Operatives Inside the Social Security Administration](https://www.wired.com/story/doge-operatives-access-social-security-administration/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

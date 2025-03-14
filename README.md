@@ -166,10 +166,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Oh dear God no](http://9gag.com/gag/ae9O7EB)
- - 😝 [Life thought](http://9gag.com/gag/a9yvOPm)
- - 💣 [Who wants some popcorn???](http://9gag.com/gag/aoyV8De)
- - 😝 [The devs were diabolical for this](http://9gag.com/gag/a7oeNYq)
+ - 😝 [Motorcycle accident](http://9gag.com/gag/a7oeNAw)
+ - 😝 [What radicalized you ?](http://9gag.com/gag/a87m21p)
+ - 💣 [Steakhouse kithcen](http://9gag.com/gag/a7oe24e)
+ - 😝 [Who wants some popcorn???](http://9gag.com/gag/aoyV8De)
  - 👉 [Turkish airlines](http://9gag.com/gag/a0eV1QQ)<!-- MEMES:END -->
 
 ---

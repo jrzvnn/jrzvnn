@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [What&#39;s your story of an old friend returning?](http://9gag.com/gag/a6Z9p2m)
- - 😝 [Historical photos you&#39;ve &lpar;probably&rpar; never seen before.](http://9gag.com/gag/agmOj0n)
- - 💣 [Life thought](http://9gag.com/gag/a9yvOPm)
- - 😝 [The devs were diabolical for this](http://9gag.com/gag/a7oeNYq)
- - 👉 [This is sad. Bro did not deserve this.](http://9gag.com/gag/avyexod)<!-- MEMES:END -->
+ - 😝 [Please clean after using the equipment you use at the gym.](http://9gag.com/gag/a0eVMXz)
+ - 😝 [It&#39;s time...](http://9gag.com/gag/aXPNR2d)
+ - 💣 [What radicalized you ?](http://9gag.com/gag/a87m21p)
+ - 😝 [American influencer being deported for kidnapping baby wombat from mother... and banned from Australia, her Boyfriend facing criminal charges...](http://9gag.com/gag/axyvP81)
+ - 👉 [The devs were diabolical for this](http://9gag.com/gag/a7oeNYq)<!-- MEMES:END -->
 
 ---
 

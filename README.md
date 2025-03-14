@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Turkish airlines](http://9gag.com/gag/a0eV1QQ)
- - 😝 [From the deep](http://9gag.com/gag/axyvAvL)
- - 💣 [Capturing content for social media](http://9gag.com/gag/aAyEZnE)
- - 😝 [Motorcycle accident](http://9gag.com/gag/a7oeNAw)
- - 👉 [Please clean after using the equipment you use at the gym.](http://9gag.com/gag/a0eVMXz)<!-- MEMES:END -->
+ - 😝 [Capturing content for social media](http://9gag.com/gag/aAyEZnE)
+ - 😝 [Steakhouse kithcen](http://9gag.com/gag/a7oe24e)
+ - 💣 [No choice to pull plug on German cable](http://9gag.com/gag/a9yvVb0)
+ - 😝 [What radicalized you ?](http://9gag.com/gag/a87m21p)
+ - 👉 [Dadddddddyyyyyyyy !!!!](http://9gag.com/gag/a5QBjjo)<!-- MEMES:END -->
 
 ---
 

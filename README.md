@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The new M4 MacBook Air is already on sale](https://www.theverge.com/good-deals/629882/apple-m4-macbook-air-13-15-inch-laptop-deal-sale)
  - [Google says Gemini will replace Google Assistant on Android phones this year, except on phones that run Android 9 or earlier and don&#39;t have at least 2 GB of RAM &lpar;Abner Li/9to5Google&rpar;](http://www.techmeme.com/250314/p17#a250314p17)
  - [Google is officially dumping Assistant for Gemini](https://www.theverge.com/news/629904/google-assistant-gemini-moving-on)
  - [The Google graveyard: all the products Google has shut down](https://www.theverge.com/2019/11/26/20977968/google-graveyard-products-shut-down-dead-not-supported-discontinues-spring-cleaning)
- - [This New TI Microcontroller Is the Size of a Black Pepper Flake](https://www.cnet.com/tech/computing/this-new-ti-microcontroller-is-the-size-of-a-black-pepper-flake/#ftag=CAD590a51e)
- - [Hong Kong-based RedotPay, which aims to enable cryptocurrency use in everyday transactions, raised a $40M Series A led by Lightspeed &lpar;Yohan Yun/Cointelegraph&rpar;](http://www.techmeme.com/250314/p16#a250314p16)<!-- TECH:END -->
+ - [This New TI Microcontroller Is the Size of a Black Pepper Flake](https://www.cnet.com/tech/computing/this-new-ti-microcontroller-is-the-size-of-a-black-pepper-flake/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

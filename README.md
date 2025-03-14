@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Vampire Survivors: our collective obsession with the quirky, genre-defining indie game](https://www.theverge.com/games/23827123/vampire-survivors-news-announcements-updates-dlc-spinoffs)
  - [US tariffs: how Trump’s tax is hitting Big Tech and beyond](https://www.theverge.com/604742/trump-tariffs-canada-mexico-china-updates)
  - [The Last of Us: all the news about the video game franchise turned TV series](https://www.theverge.com/24036366/the-last-of-us-news-video-game-tv-series-trailers)
  - [Calls for Tim Cook&#39;s resignation over Apple Intelligence miss that he has made Apple what it is](https://appleinsider.com/articles/25/03/14/calls-for-tim-cooks-resignation-over-apple-intelligence-miss-that-he-has-made-apple-what-it-is?utm_medium=rss)
- - [ESR has a range of new iPad accessories ready, from the Flip Magnetic Case to Geo Digital Pencil](https://appleinsider.com/articles/25/03/14/esr-has-a-range-of-new-ipad-accessories-ready-from-the-flip-magnetic-case-to-geo-digital-pencil?utm_medium=rss)
- - [Zombies, Run! and Marvel Move maker lays off majority of staff](https://www.theverge.com/news/629678/zombies-run-marvel-move-six-to-start-layoffs-fitness-tech)<!-- TECH:END -->
+ - [Roomba&#39;s New Entry-Level Robot Vacs Have 3 Premium Features, Upcharge Not Included](https://www.cnet.com/home/kitchen-and-household/roombas-entry-level-robot-vacs-now-have-premium-bells-and-whistles/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

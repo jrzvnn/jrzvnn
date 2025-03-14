@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [Oh dear God no](http://9gag.com/gag/ae9O7EB)
  - 😝 [Life thought](http://9gag.com/gag/a9yvOPm)
- - 😝 [How close was it for South Korea to lose the war.](http://9gag.com/gag/amoGp79)
  - 💣 [Who wants some popcorn???](http://9gag.com/gag/aoyV8De)
- - 😝 [What&#39;s your story of an old friend returning?](http://9gag.com/gag/a6Z9p2m)
- - 👉 [American influencer being deported for kidnapping baby wombat from mother... and banned from Australia, her Boyfriend facing criminal charges...](http://9gag.com/gag/axyvP81)<!-- MEMES:END -->
+ - 😝 [The devs were diabolical for this](http://9gag.com/gag/a7oeNYq)
+ - 👉 [Turkish airlines](http://9gag.com/gag/a0eV1QQ)<!-- MEMES:END -->
 
 ---
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Steakhouse kithcen](http://9gag.com/gag/a7oe24e)
- - 😝 [Capturing content for social media](http://9gag.com/gag/aAyEZnE)
- - 💣 [What radicalized you ?](http://9gag.com/gag/a87m21p)
- - 😝 [American influencer being deported for kidnapping baby wombat from mother... and banned from Australia, her Boyfriend facing criminal charges...](http://9gag.com/gag/axyvP81)
- - 👉 [The devs were diabolical for this](http://9gag.com/gag/a7oeNYq)<!-- MEMES:END -->
+ - 😝 [For male audience](http://9gag.com/gag/aW4Ldqq)
+ - 😝 [Not the worst award show speech . . .](http://9gag.com/gag/aZZwvrn)
+ - 💣 [Johnny Somali Sentenced to 5 Years in South Korea \u2013 Play Stupid Games, Win Stupid Prizes](http://9gag.com/gag/aKG9Kwb)
+ - 😝 [Men only want one thing and it&#39;s f**king disgusting.](http://9gag.com/gag/aAyE2dp)
+ - 👉 [Capturing content for social media](http://9gag.com/gag/aAyEZnE)<!-- MEMES:END -->
 
 ---
 

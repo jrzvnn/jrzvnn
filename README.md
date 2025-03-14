@@ -158,7 +158,7 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- TECH:START -->
  - [Can’t Wrap Your Head Around Pi? Here’s a Cool Visual to Help](https://www.wired.com/story/cant-wrap-your-head-around-pi-heres-a-cool-visual-to-help/)
- - [The GSMA announces that the latest RCS standard now includes E2EE, which will enable encrypted RCS messaging between platforms like Android and iOS &lpar;Jess Weatherbed/The Verge&rpar;](http://www.techmeme.com/250314/p6#a250314p6)
+ - [The GSMA announces the new RCS standard supports interoperable E2EE between platforms; Apple says it will add support for the standard in a future update &lpar;Jess Weatherbed/The Verge&rpar;](http://www.techmeme.com/250314/p6#a250314p6)
  - [The Silicon Valley Christians Who Want to Build ‘Heaven on Earth’](https://www.wired.com/story/christians-silicon-valley-religion-venture-capital/)
  - [A US bankruptcy court lets 3AC raise its claim against FTX from $120M to $1.53B, despite FTX&#39;s objection that it was too late; 3AC originally filed in June 2023 &lpar;Danny Park/The Block&rpar;](http://www.techmeme.com/250314/p5#a250314p5)
  - [A New Era of Attacks on Encryption Is Starting to Heat Up](https://www.wired.com/story/a-new-era-of-attacks-on-encryption-is-starting-to-heat-up/)<!-- TECH:END -->

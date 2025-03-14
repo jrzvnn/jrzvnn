@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Google says Gemini will replace Google Assistant on Android phones this year, except on phones that run Android 9 or earlier and don&#39;t have at least 2 GB of RAM &lpar;Abner Li/9to5Google&rpar;](http://www.techmeme.com/250314/p17#a250314p17)
  - [Google is officially dumping Assistant for Gemini](https://www.theverge.com/news/629904/google-assistant-gemini-moving-on)
  - [The Google graveyard: all the products Google has shut down](https://www.theverge.com/2019/11/26/20977968/google-graveyard-products-shut-down-dead-not-supported-discontinues-spring-cleaning)
- - [Hong Kong-based RedotPay, which aims to enable cryptocurrency use in everyday transactions, raised a $40M Series A led by Lightspeed &lpar;Yohan Yun/Cointelegraph&rpar;](http://www.techmeme.com/250314/p16#a250314p16)
- - [Reddit will let you hide ads](https://www.theverge.com/news/629868/reddit-hide-ads)
- - [California&amp;#8217;s online child safety law blocked by judge – again](https://www.theverge.com/news/629863/california-caadca-online-child-safety-law-blocked-netchoice)<!-- TECH:END -->
+ - [This New TI Microcontroller Is the Size of a Black Pepper Flake](https://www.cnet.com/tech/computing/this-new-ti-microcontroller-is-the-size-of-a-black-pepper-flake/#ftag=CAD590a51e)
+ - [Hong Kong-based RedotPay, which aims to enable cryptocurrency use in everyday transactions, raised a $40M Series A led by Lightspeed &lpar;Yohan Yun/Cointelegraph&rpar;](http://www.techmeme.com/250314/p16#a250314p16)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

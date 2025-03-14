@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [One ticket please](http://9gag.com/gag/aO84Gm2)
  - 😝 [Johnny Somali Sentenced to 5 Years in South Korea \u2013 Play Stupid Games, Win Stupid Prizes](http://9gag.com/gag/aKG9Kwb)
- - 😝 [The devs were diabolical for this](http://9gag.com/gag/a7oeNYq)
- - 💣 [Rescue attempt for a suicide in my country. I had tear in my eyes](http://9gag.com/gag/a6Z9jg2)
- - 😝 [It&#39;s time...](http://9gag.com/gag/aXPNR2d)
- - 👉 [No product shrinkage is nearly as infuriating as Magnum\u2019s. This thing was 3 times the size 15 years ago](http://9gag.com/gag/aW4L28K)<!-- MEMES:END -->
+ - 💣 [The devs were diabolical for this](http://9gag.com/gag/a7oeNYq)
+ - 😝 [Ibiza 2000 vs ibiza 2025](http://9gag.com/gag/aGy87g7)
+ - 👉 [Steakhouse kithcen](http://9gag.com/gag/a7oe24e)<!-- MEMES:END -->
 
 ---
 

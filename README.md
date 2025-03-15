@@ -167,10 +167,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [Money makes the world go around the sun](http://9gag.com/gag/ayN4VW8)
- - 😝 [Another thing to hate](http://9gag.com/gag/aMVmyR6)
- - 💣 [Playstation controllers always felt weird to me](http://9gag.com/gag/ae9Oydq)
+ - 😝 [Playstation controllers always felt weird to me](http://9gag.com/gag/ae9Oydq)
+ - 💣 [AbsoluteMadLad](http://9gag.com/gag/a34Anx1)
  - 😝 [Crab meat](http://9gag.com/gag/aQzQBw7)
- - 👉 [It says a lot about society tbh](http://9gag.com/gag/aKG9LPQ)<!-- MEMES:END -->
+ - 👉 [One ticket please](http://9gag.com/gag/aO84Gm2)<!-- MEMES:END -->
 
 ---
 

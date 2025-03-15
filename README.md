@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Former Activision Blizzard CEO Bobby Kotick sues G/O Media over March 2024 articles in Gizmodo and Kotaku accusing him of workplace harassment, discrimination &lpar;Jackson Healy/Courthouse News Service&rpar;](http://www.techmeme.com/250315/p10#a250315p10)
  - [Amazon to kill Echo&#39;s local voice processing feature in favor of Voice ID](https://appleinsider.com/articles/25/03/15/amazon-to-kill-echos-local-voice-processing-feature-in-favor-of-voice-id?utm_medium=rss)
  - [A look at the challenges facing Nvidia ahead of its annual GTC conference, where CEO Jensen Huang is expected to outline the company&#39;s next chapter &lpar;Bloomberg&rpar;](http://www.techmeme.com/250315/p9#a250315p9)
  - [6 Best Cheap Mattresses for 2025: Save on Your Next Bed](https://www.cnet.com/health/sleep/best-cheap-mattress/#ftag=CAD590a51e)
- - [The Vision Pro Metallica concert video is the best Apple Immersive video yet](https://www.theverge.com/news/630794/vision-pro-metallica-concert-immersive-video-impressions)
- - [Everything we know about Apple’s Vision Pro](https://www.theverge.com/23689334/apple-mixed-reality-headset-augmented-virtual-reality-ar-vr-rumors-specs-features)<!-- TECH:END -->
+ - [The Vision Pro Metallica concert video is the best Apple Immersive video yet](https://www.theverge.com/news/630794/vision-pro-metallica-concert-immersive-video-impressions)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

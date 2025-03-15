@@ -166,8 +166,8 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Its friday my dudesssss](http://9gag.com/gag/ayN4zVr)
  - 😝 [Unexpected](http://9gag.com/gag/aYQOm20)
+ - 😝 [Its friday my dudesssss](http://9gag.com/gag/ayN4zVr)
  - 💣 [Best part coming up](http://9gag.com/gag/ajPOMx0)
  - 😝 [She left me boys, cheers!](http://9gag.com/gag/amoGdX4)
  - 👉 [Is it too much to ask](http://9gag.com/gag/aLnebwV)<!-- MEMES:END -->

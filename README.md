@@ -161,7 +161,7 @@ R                        1 repo              ░░░░░░░░░░░�
  - [Delaware lawmakers are considering a bill that would transform the state&#39;s corporate law to keep it attractive to both investors and CEOs, following Musk&#39;s exit &lpar;Lora Kolodny/CNBC&rpar;](http://www.techmeme.com/250315/p8#a250315p8)
  - [Severance isn’t in a rush](https://www.theverge.com/tv/629741/severance-season-2-episode-9-slow)
  - [A lack of consensus on what defines an AI &quot;agent&quot; is leading to customer frustration, as Microsoft, OpenAI, Salesforce, and others market it differently &lpar;TechCrunch&rpar;](http://www.techmeme.com/250315/p7#a250315p7)
- - [The 11 Best Xbox Accessories You Can Buy &lpar;2025&rpar;](https://www.wired.com/gallery/best-xbox-accessories/)<!-- TECH:END -->
+ - [The best Bluetooth trackers for finding your stuff](https://www.theverge.com/23769840/best-bluetooth-trackers)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

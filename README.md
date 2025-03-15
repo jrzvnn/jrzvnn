@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [A look at the challenges facing Nvidia ahead of its annual GTC conference, where CEO Jensen Huang is expected to outline the company&#39;s next chapter &lpar;Bloomberg&rpar;](http://www.techmeme.com/250315/p9#a250315p9)
+ - [6 Best Cheap Mattresses for 2025: Save on Your Next Bed](https://www.cnet.com/health/sleep/best-cheap-mattress/#ftag=CAD590a51e)
  - [The Vision Pro Metallica concert video is the best Apple Immersive video yet](https://www.theverge.com/news/630794/vision-pro-metallica-concert-immersive-video-impressions)
  - [Everything we know about Apple’s Vision Pro](https://www.theverge.com/23689334/apple-mixed-reality-headset-augmented-virtual-reality-ar-vr-rumors-specs-features)
- - [Steam’s Spring Sale is taking up to 75 percent off some of our favorite games](https://www.theverge.com/good-deals/629616/steam-spring-sale-cyberpunk-2077-sonos-ray-soundbar-deal)
- - [Delaware lawmakers are considering a bill that would transform the state&#39;s corporate law to keep it attractive to both investors and CEOs, following Musk&#39;s exit &lpar;Lora Kolodny/CNBC&rpar;](http://www.techmeme.com/250315/p8#a250315p8)
- - [Say Cheese! 5 Reasons Why Digital Cameras Are Trendy &lpar;Again&rpar;](https://www.cnet.com/tech/computing/say-cheese-5-reasons-why-digital-cameras-are-trendy-again/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [&#39;The White Lotus&#39; Season 3: When to Watch Episode 5 on Max](https://www.cnet.com/tech/services-and-software/the-white-lotus-season-3-when-to-watch-episode-5-on-max/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

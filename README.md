@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Best Internet Providers in Helena, Montana](https://www.cnet.com/home/internet/best-internet-providers-in-helena-mt/#ftag=CAD590a51e)
- - [&#39;Suits LA&#39;: How to Watch Episode 4 of the Stephen Amell Spin-Off](https://www.cnet.com/tech/services-and-software/suits-la-how-to-watch-episode-4-stephen-amell-spinoff/#ftag=CAD590a51e)
+ - [21Shares plans to liquidate two actively managed bitcoin and ether futures ETFs, following $1.66B in outflows from US-listed spot bitcoin ETFs this month &lpar;Francisco Rodrigues/CoinDesk&rpar;](http://www.techmeme.com/250315/p12#a250315p12)
  - [District 9 director Neill Blomkamp is planning a new Starship Troopers movie](https://www.theverge.com/news/630821/starship-troopers-neil-blomkamp-director-book-robert-heinlein)
  - [DeepSeek founder Liang Wenfeng has become a superstar in China with tourism around his origin story, as DeepSeek proves an unexpected boon for President Xi &lpar;Richard Spencer/The Times&rpar;](http://www.techmeme.com/250315/p11#a250315p11)
- - [Former Activision Blizzard CEO Bobby Kotick sues G/O Media over March 2024 articles in Gizmodo and Kotaku accusing him of workplace harassment, discrimination &lpar;Jackson Healy/Courthouse News Service&rpar;](http://www.techmeme.com/250315/p10#a250315p10)<!-- TECH:END -->
+ - [Former Activision Blizzard CEO Bobby Kotick sues G/O Media over March 2024 articles in Gizmodo and Kotaku accusing him of workplace harassment, discrimination &lpar;Jackson Healy/Courthouse News Service&rpar;](http://www.techmeme.com/250315/p10#a250315p10)
+ - [Best Wireless Home Security Cameras of 2025](https://www.cnet.com/home/security/best-wireless-home-security-cameras/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

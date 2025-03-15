@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [NASA’s Crew-10 mission lifts off as the Starliner astronauts prepare to come home](https://www.theverge.com/news/628311/nasa-crew-10-mission-starliner-astronauts-return-spacex)
- - [Nintendo Switch 2 Might Cost $499. What You Need to Know About Preordering](https://www.cnet.com/tech/gaming/nintendo-switch-2-might-cost-499-what-you-need-to-know-about-preordering/#ftag=CAD590a51e)
- - [Android&amp;#8217;s Find My Device app can now show you where people are, too](https://www.theverge.com/news/630222/android-march-find-my-device-people-location-sharing-update)
- - [Streamers court YouTubers for new shows or spinoffs; sources: Amazon made $100M+ in profit on Beast Games and Netflix held talks with Dude Perfect for a series &lpar;Jessica Toonkel/Wall Street Journal&rpar;](http://www.techmeme.com/250314/p28#a250314p28)
- - [Trump’s first 100 days: all the news affecting the tech industry](https://www.theverge.com/24348851/donald-trump-presidency-tech-science-news)<!-- TECH:END -->
+ - [The NIST&#39;s new directive to AI Safety Institute partners scrubs mentions of &quot;AI safety&quot; and &quot;AI fairness&quot; and prioritizes &quot;reducing ideological bias&quot; in models &lpar;Will Knight/Wired&rpar;](http://www.techmeme.com/250314/p29#a250314p29)
+ - [Steam Deck, ROG Ally, and more: all the news about the handheld PC gaming revolution](https://www.theverge.com/22579493/valve-steam-deck-gaming-handheld-pc)
+ - [Here&#39;s Every Major US Space Launch Scheduled in 2025: Plan Your Viewing](https://www.cnet.com/science/space/how-to-watch-every-major-us-space-launch-scheduled-in-2025/#ftag=CAD590a51e)
+ - [NASA Crew-10 Is on Way to ISS to Relieve &#39;Stranded&#39; Astronauts](https://www.cnet.com/science/nasa-crew-10-is-on-the-way-to-relieve-stranded-astronauts-suni-williams-and-butch-wilmore/#ftag=CAD590a51e)
+ - [NASA’s Crew-10 mission lifts off as the Starliner astronauts prepare to come home](https://www.theverge.com/news/628311/nasa-crew-10-mission-starliner-astronauts-return-spacex)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

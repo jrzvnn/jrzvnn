@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [It says a lot about society tbh](http://9gag.com/gag/aKG9LPQ)
- - 😝 [Where do pilots sleep during breaks?](http://9gag.com/gag/a2v8O01)
- - 💣 [Please clean after using the equipment you use at the gym.](http://9gag.com/gag/a0eVMXz)
- - 😝 [Do you believe in coincidence](http://9gag.com/gag/azxPZNx)
- - 👉 [Ibiza 2000 vs ibiza 2025](http://9gag.com/gag/aGy87g7)<!-- MEMES:END -->
+ - 😝 [Well this escalated quickly](http://9gag.com/gag/an7n8Y5)
+ - 😝 [Finally got my Ps5. It must mean nothing to you guys, but I am happy!](http://9gag.com/gag/aByLo6z)
+ - 💣 [You rac... Wait that&#39;s great!](http://9gag.com/gag/aGy8ox0)
+ - 😝 [Rescue attempt for a suicide in my country. I had tear in my eyes](http://9gag.com/gag/a6Z9jg2)
+ - 👉 [One ticket please](http://9gag.com/gag/aO84Gm2)<!-- MEMES:END -->
 
 ---
 

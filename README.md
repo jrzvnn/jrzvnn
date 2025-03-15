@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [One ticket please](http://9gag.com/gag/aO84Gm2)
- - 😝 [They defeated Yamcha too](http://9gag.com/gag/a9yvVYD)
- - 💣 [It&#39;s true!](http://9gag.com/gag/avyeXNb)
- - 😝 [Finally got my Ps5. It must mean nothing to you guys, but I am happy!](http://9gag.com/gag/aByLo6z)
- - 👉 [Sean Bean](http://9gag.com/gag/apRDVNp)<!-- MEMES:END -->
+ - 😝 [Money makes the world go around the sun](http://9gag.com/gag/ayN4VW8)
+ - 😝 [It&#39;s inevitable.](http://9gag.com/gag/azxPB8Z)
+ - 💣 [One ticket please](http://9gag.com/gag/aO84Gm2)
+ - 😝 [Both use the same skin.](http://9gag.com/gag/agmOK8x)
+ - 👉 [It&#39;s true!](http://9gag.com/gag/avyeXNb)<!-- MEMES:END -->
 
 ---
 

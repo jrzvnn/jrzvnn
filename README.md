@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Steam’s Spring Sale is taking up to 75 percent off some of our favorite games](https://www.theverge.com/good-deals/629616/steam-spring-sale-cyberpunk-2077-sonos-ray-soundbar-deal)
+ - [The Vision Pro Metallica concert video is the best Apple Immersive video yet](https://www.theverge.com/news/630794/vision-pro-metallica-concert-immersive-video-impressions)
  - [Everything we know about Apple’s Vision Pro](https://www.theverge.com/23689334/apple-mixed-reality-headset-augmented-virtual-reality-ar-vr-rumors-specs-features)
+ - [Steam’s Spring Sale is taking up to 75 percent off some of our favorite games](https://www.theverge.com/good-deals/629616/steam-spring-sale-cyberpunk-2077-sonos-ray-soundbar-deal)
  - [Delaware lawmakers are considering a bill that would transform the state&#39;s corporate law to keep it attractive to both investors and CEOs, following Musk&#39;s exit &lpar;Lora Kolodny/CNBC&rpar;](http://www.techmeme.com/250315/p8#a250315p8)
- - [Say Cheese! 5 Reasons Why Digital Cameras Are Trendy &lpar;Again&rpar;](https://www.cnet.com/tech/computing/say-cheese-5-reasons-why-digital-cameras-are-trendy-again/#ftag=CAD590a51e)
- - [16 STEM Toys Your Little Genius Will Adore in 2025](https://www.cnet.com/culture/entertainment/stem-toys/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Say Cheese! 5 Reasons Why Digital Cameras Are Trendy &lpar;Again&rpar;](https://www.cnet.com/tech/computing/say-cheese-5-reasons-why-digital-cameras-are-trendy-again/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

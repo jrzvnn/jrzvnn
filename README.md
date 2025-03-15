@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [A Tanker Collision Threatens One of the UK’s Most Important Coastlines](https://www.wired.com/story/how-north-sea-tanker-collision-could-affect-one-of-britains-most-important-coastlines/)
- - [The 23 Best Shows on Amazon Prime Right Now &lpar;March 2025&rpar;](https://www.wired.com/story/best-shows-amazon-prime/)
- - [Wildfires Are One of Hurricane Helene’s Lasting Legacies](https://www.wired.com/story/how-hurricanes-can-fuel-wildfires-in-the-southeast/)
- - [I Work From Home. Will the IRS Compensate Me for My Internet?](https://www.cnet.com/home/internet/i-work-from-home-will-the-irs-compensate-me-for-my-internet-expenses/#ftag=CAD590a51e)
- - [Best Outdoor String Lights for 2025: Fully Tested](https://www.cnet.com/news/best-outdoor-string-lights/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [A look at the adoption of DeepSeek across China, as Chinese automakers, smartphone sellers, and others rush to build services on top of the homegrown AI model &lpar;Kinling Lo/Rest of World&rpar;](http://www.techmeme.com/250315/p6#a250315p6)
+ - [Italy vs. Ireland: How to Watch 2025 Six Nations Rugby Live From Anywhere](https://www.cnet.com/tech/services-and-software/italy-vs-ireland-how-to-watch-2025-six-nations-rugby-live-from-anywhere/#ftag=CAD590a51e)
+ - [Creatine: Overall Health Benefits, Supplements and the Right Dosage](https://www.cnet.com/health/creatine-overall-health-benefits-supplements-right-dosage/#ftag=CAD590a51e)
+ - [Pixel 9A Rumors: Everything We Expect, From Cameras to Colors to Price](https://www.cnet.com/tech/mobile/pixel-9a-rumors-everything-we-expect-from-cameras-to-colors-to-price/#ftag=CAD590a51e)
+ - [Panasonic Lumix ZS99 Review: Pocketable Point-and-Shoot With a Long Zoom](https://www.cnet.com/tech/computing/panasonic-lumix-zs99-review-pocketable-point-and-shoot-with-a-long-zoom/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

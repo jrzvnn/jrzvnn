@@ -157,10 +157,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [District 9 director Neill Blomkamp is planning a new Starship Troopers movie](https://www.theverge.com/news/630821/starship-troopers-neil-blomkamp-director-book-robert-heinlein)
  - [DeepSeek founder Liang Wenfeng has become a superstar in China with tourism around his origin story, as DeepSeek proves an unexpected boon for President Xi &lpar;Richard Spencer/The Times&rpar;](http://www.techmeme.com/250315/p11#a250315p11)
  - [Former Activision Blizzard CEO Bobby Kotick sues G/O Media over March 2024 articles in Gizmodo and Kotaku accusing him of workplace harassment, discrimination &lpar;Jackson Healy/Courthouse News Service&rpar;](http://www.techmeme.com/250315/p10#a250315p10)
  - [Best Wireless Home Security Cameras of 2025](https://www.cnet.com/home/security/best-wireless-home-security-cameras/#ftag=CAD590a51e)
- - [France vs. Scotland: How to Watch 2025 Six Nations Rugby Live From Anywhere](https://www.cnet.com/tech/services-and-software/france-vs-scotland-how-to-watch-2025-six-nations-rugby-live-from-anywhere/#ftag=CAD590a51e)
  - [&#39;The Righteous Gemstones&#39; Season 4: When to Watch the Next Episode](https://www.cnet.com/tech/services-and-software/the-righteous-gemstones-season-4-when-to-watch-the-next-episode/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour

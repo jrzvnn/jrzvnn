@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Both use the same skin.](http://9gag.com/gag/agmOK8x)
- - 😝 [Sean Bean](http://9gag.com/gag/apRDVNp)
- - 💣 [The story has come to an end \ud83d\ude2d](http://9gag.com/gag/aVvE4LO)
- - 😝 [From the deep](http://9gag.com/gag/axyvAvL)
- - 👉 [One ticket please](http://9gag.com/gag/aO84Gm2)<!-- MEMES:END -->
+ - 😝 [Ibiza 2000 vs ibiza 2025](http://9gag.com/gag/aGy87g7)
+ - 😝 [Rescue attempt for a suicide in my country. I had tear in my eyes](http://9gag.com/gag/a6Z9jg2)
+ - 💣 [No choice to pull plug on German cable](http://9gag.com/gag/a9yvVb0)
+ - 😝 [Oh dear God no](http://9gag.com/gag/ae9O7EB)
+ - 👉 [The story has come to an end \ud83d\ude2d](http://9gag.com/gag/aVvE4LO)<!-- MEMES:END -->
 
 ---
 

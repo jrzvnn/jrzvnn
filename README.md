@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [RIP big boss](http://9gag.com/gag/aqy8ALQ)
- - 😝 [It&#39;s true!](http://9gag.com/gag/avyeXNb)
- - 💣 [Crab meat](http://9gag.com/gag/aQzQBw7)
- - 😝 [Money makes the world go around the sun](http://9gag.com/gag/ayN4VW8)
- - 👉 [One ticket please](http://9gag.com/gag/aO84Gm2)<!-- MEMES:END -->
+ - 😝 [Another thing to hate](http://9gag.com/gag/aMVmyR6)
+ - 😝 [It&#39;s inevitable.](http://9gag.com/gag/azxPB8Z)
+ - 💣 [Playstation controllers always felt weird to me](http://9gag.com/gag/ae9Oydq)
+ - 😝 [Crab meat](http://9gag.com/gag/aQzQBw7)
+ - 👉 [Finally got my Ps5. It must mean nothing to you guys, but I am happy!](http://9gag.com/gag/aByLo6z)<!-- MEMES:END -->
 
 ---
 

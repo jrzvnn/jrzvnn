@@ -168,9 +168,9 @@ R                        1 repo              ░░░░░░░░░░░�
 <!-- MEMES:START -->
  - 😝 [Is it too much to ask](http://9gag.com/gag/aLnebwV)
  - 😝 [Best part coming up](http://9gag.com/gag/ajPOMx0)
- - 💣 [A man who wants to be a wolf 😃😃](https://www.reddit.com/r/funny/comments/1jbwnvc/a_man_who_wants_to_be_a_wolf/)
- - 😝 [Its friday my dudesssss](http://9gag.com/gag/ayN4zVr)
- - 👉 [For the glory of Rome?](http://9gag.com/gag/awym8Gr)<!-- MEMES:END -->
+ - 💣 [Its friday my dudesssss](http://9gag.com/gag/ayN4zVr)
+ - 😝 [For the glory of Rome?](http://9gag.com/gag/awym8Gr)
+ - 👉 [From the deep](http://9gag.com/gag/axyvAvL)<!-- MEMES:END -->
 
 ---
 

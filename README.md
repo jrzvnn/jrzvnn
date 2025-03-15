@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [21Shares plans to liquidate two actively managed bitcoin and ether futures ETFs, following $1.66B in outflows from US-listed spot bitcoin ETFs this month &lpar;Francisco Rodrigues/CoinDesk&rpar;](http://www.techmeme.com/250315/p12#a250315p12)
- - [Best Internet Providers in Helena, Montana](https://www.cnet.com/home/internet/best-internet-providers-in-helena-mt/#ftag=CAD590a51e)
- - [&#39;Suits LA&#39;: How to Watch Episode 4 of the Stephen Amell Spin-Off](https://www.cnet.com/tech/services-and-software/suits-la-how-to-watch-episode-4-stephen-amell-spinoff/#ftag=CAD590a51e)
- - [District 9 director Neill Blomkamp is planning a new Starship Troopers movie](https://www.theverge.com/news/630821/starship-troopers-neil-blomkamp-director-book-robert-heinlein)
- - [DeepSeek founder Liang Wenfeng has become a superstar in China with tourism around his origin story, as DeepSeek proves an unexpected boon for President Xi &lpar;Richard Spencer/The Times&rpar;](http://www.techmeme.com/250315/p11#a250315p11)<!-- TECH:END -->
+ - [Today&#39;s NYT Connections: Sports Edition Hints and Answers for March 16, #174](https://www.cnet.com/tech/gaming/todays-nyt-connections-sports-edition-hints-and-answers-for-march-16-174/#ftag=CAD590a51e)
+ - [Today&#39;s NYT Strands Hints, Answers and Help for March 16, #378](https://www.cnet.com/tech/gaming/todays-nyt-strands-hints-answers-and-help-for-march-16-378/#ftag=CAD590a51e)
+ - [Today&#39;s NYT Connections Hints, Answers and Help for March 16, #644](https://www.cnet.com/tech/gaming/todays-nyt-connections-hints-answers-and-help-for-march-16-644/#ftag=CAD590a51e)
+ - [Today&#39;s Wordle Hints, Answer and Help for March 16, #1366](https://www.cnet.com/tech/gaming/todays-wordle-hints-answer-and-help-for-march-16-1366/#ftag=CAD590a51e)
+ - [21Shares plans to liquidate two actively managed bitcoin and ether futures ETFs, following $1.66B in outflows from US-listed spot bitcoin ETFs this month &lpar;Francisco Rodrigues/CoinDesk&rpar;](http://www.techmeme.com/250315/p12#a250315p12)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

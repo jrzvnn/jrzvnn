@@ -166,10 +166,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [Finally got my Ps5. It must mean nothing to you guys, but I am happy!](http://9gag.com/gag/aByLo6z)
  - 😝 [This is how people turn to the dark side](http://9gag.com/gag/aYQOAq7)
- - 😝 [It&#39;s time...](http://9gag.com/gag/aXPNR2d)
- - 💣 [No choice to pull plug on German cable](http://9gag.com/gag/a9yvVb0)
- - 😝 [Please clean after using the equipment you use at the gym.](http://9gag.com/gag/a0eVMXz)
+ - 💣 [Please clean after using the equipment you use at the gym.](http://9gag.com/gag/a0eVMXz)
+ - 😝 [I watch Stargate sg1 for the plot](http://9gag.com/gag/aGy86L0)
  - 👉 [One ticket please](http://9gag.com/gag/aO84Gm2)<!-- MEMES:END -->
 
 ---

@@ -166,10 +166,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [The US embassy in Greenland today.](http://9gag.com/gag/ae9OExB)
+ - 😝 [No choice to pull plug on German cable](http://9gag.com/gag/a9yvVb0)
+ - 💣 [Playstation controllers always felt weird to me](http://9gag.com/gag/ae9Oydq)
  - 😝 [Money makes the world go around the sun](http://9gag.com/gag/ayN4VW8)
- - 😝 [Playstation controllers always felt weird to me](http://9gag.com/gag/ae9Oydq)
- - 💣 [AbsoluteMadLad](http://9gag.com/gag/a34Anx1)
- - 😝 [Crab meat](http://9gag.com/gag/aQzQBw7)
  - 👉 [One ticket please](http://9gag.com/gag/aO84Gm2)<!-- MEMES:END -->
 
 ---

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Best Internet Providers in Long Beach, California](https://www.cnet.com/home/internet/best-internet-providers-in-long-beach-ca/#ftag=CAD590a51e)
  - [Meta&#39;s effort to neutralize Sarah Wynn-Williams&#39; book, filled with gossipy anecdotes, feels less about defending its reputation than a need to punish a defector &lpar;Steven Levy/Wired&rpar;](http://www.techmeme.com/250315/p4#a250315p4)
  - [Foxconn says revenue from cloud and networking, including AI servers, made up 26% of its Q4 revenue and will almost catch up with consumer electronics in 2025 &lpar;Sherry Qin/Wall Street Journal&rpar;](http://www.techmeme.com/250315/p3#a250315p3)
- - [Best Compression Socks for 2025](https://www.cnet.com/health/fitness/best-compression-socks/#ftag=CAD590a51e)
  - [Today&#39;s Wordle Hints, Answer and Help for March 15, #1365](https://www.cnet.com/tech/gaming/todays-wordle-hints-answer-and-help-for-march-15-1365/#ftag=CAD590a51e)
- - [Nashville-based 360 Privacy, an identity and risk management startup protecting enterprises and high net-worth people from online threats, raised $36M from FTV &lpar;Ionut Arghire/SecurityWeek&rpar;](http://www.techmeme.com/250315/p2#a250315p2)<!-- TECH:END -->
+ - [Best Compression Socks for 2025](https://www.cnet.com/health/fitness/best-compression-socks/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Meta&#39;s effort to neutralize Sarah Wynn-Williams&#39; book, filled with gossipy anecdotes, feels less about defending its reputation than a need to punish a defector &lpar;Steven Levy/Wired&rpar;](http://www.techmeme.com/250315/p4#a250315p4)
+ - [Foxconn says revenue from cloud and networking, including AI servers, made up 26% of its Q4 revenue and will almost catch up with consumer electronics in 2025 &lpar;Sherry Qin/Wall Street Journal&rpar;](http://www.techmeme.com/250315/p3#a250315p3)
  - [Nashville-based 360 Privacy, an identity and risk management startup protecting enterprises and high net-worth people from online threats, raised $36M from FTV &lpar;Ionut Arghire/SecurityWeek&rpar;](http://www.techmeme.com/250315/p2#a250315p2)
  - [Cambridge, Massachusetts-based Lumafield, which manufactures industrial CT scanners with cloud-based analysis software, raised a $75M Series C led by IVP &lpar;Aaron Weitzman/Axios&rpar;](http://www.techmeme.com/250315/p1#a250315p1)
- - [A look at some standout startups from YC&#39;s W25 Demo Day, which showcased 160 companies, including several creating tools to enhance other companies&#39; AI agents &lpar;TechCrunch&rpar;](http://www.techmeme.com/250314/p33#a250314p33)
- - [Clearwater Analytics agrees to acquire Beacon, a capital markets developer platform, for $560M, and Bistro, Blackstone&#39;s portfolio visualization tool, for $125M &lpar;Cameron Emanuel-Burns/FinTech Futures&rpar;](http://www.techmeme.com/250314/p32#a250314p32)
- - [Orlando-based Worth, whose tech lets fintechs, banks, and enterprises underwrite SMBs by automating KYC, fraud verification, and more, raised a $20M seed &lpar;Mary Ann Azevedo/TechCrunch&rpar;](http://www.techmeme.com/250314/p31#a250314p31)<!-- TECH:END -->
+ - [A look at some standout startups from YC&#39;s W25 Demo Day, which showcased 160 companies, including several creating tools to enhance other companies&#39; AI agents &lpar;TechCrunch&rpar;](http://www.techmeme.com/250314/p33#a250314p33)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

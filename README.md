@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Best part coming up](http://9gag.com/gag/ajPOMx0)
- - 😝 [She left me boys, cheers!](http://9gag.com/gag/amoGdX4)
- - 💣 [Is it too much to ask](http://9gag.com/gag/aLnebwV)
- - 😝 [Its friday my dudesssss](http://9gag.com/gag/ayN4zVr)
- - 👉 [For the glory of Rome?](http://9gag.com/gag/awym8Gr)<!-- MEMES:END -->
+ - 😝 [Finally got my Ps5. It must mean nothing to you guys, but I am happy!](http://9gag.com/gag/aByLo6z)
+ - 😝 [Sean Bean](http://9gag.com/gag/apRDVNp)
+ - 💣 [Ibiza 2000 vs ibiza 2025](http://9gag.com/gag/aGy87g7)
+ - 😝 [Rescue attempt for a suicide in my country. I had tear in my eyes](http://9gag.com/gag/a6Z9jg2)
+ - 👉 [No choice to pull plug on German cable](http://9gag.com/gag/a9yvVb0)<!-- MEMES:END -->
 
 ---
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Is it too much to ask](http://9gag.com/gag/aLnebwV)
- - 😝 [Best part coming up](http://9gag.com/gag/ajPOMx0)
- - 💣 [Its friday my dudesssss](http://9gag.com/gag/ayN4zVr)
- - 😝 [For the glory of Rome?](http://9gag.com/gag/awym8Gr)
- - 👉 [From the deep](http://9gag.com/gag/axyvAvL)<!-- MEMES:END -->
+ - 😝 [One ticket please](http://9gag.com/gag/aO84Gm2)
+ - 😝 [They defeated Yamcha too](http://9gag.com/gag/a9yvVYD)
+ - 💣 [It&#39;s true!](http://9gag.com/gag/avyeXNb)
+ - 😝 [Finally got my Ps5. It must mean nothing to you guys, but I am happy!](http://9gag.com/gag/aByLo6z)
+ - 👉 [Sean Bean](http://9gag.com/gag/apRDVNp)<!-- MEMES:END -->
 
 ---
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [16 Best Gifts for Men, Manly Men, and Menly Man Men &lpar;2025&rpar;](https://www.wired.com/gallery/best-gifts-for-men/)
  - [This bullet hell shooter mixes retro and modern in all the right ways](https://www.theverge.com/games-review/627954/star-of-providence-review-nintendo-switch-pc)
  - [Teeing off at the wildly high-tech future of golf](https://www.theverge.com/sport/629858/tgl-golf-tech-espn-sports-future)
  - [The best indie games we’re playing right now](https://www.theverge.com/24339574/indie-games-recommendations-pc-switch-steam-deck-best-new-hidden-gems)
- - [A look at the adoption of DeepSeek across China, as Chinese automakers, smartphone sellers, and others rush to build services on top of the homegrown AI model &lpar;Kinling Lo/Rest of World&rpar;](http://www.techmeme.com/250315/p6#a250315p6)
- - [Italy vs. Ireland: How to Watch 2025 Six Nations Rugby Live From Anywhere](https://www.cnet.com/tech/services-and-software/italy-vs-ireland-how-to-watch-2025-six-nations-rugby-live-from-anywhere/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [A look at the adoption of DeepSeek across China, as Chinese automakers, smartphone sellers, and others rush to build services on top of the homegrown AI model &lpar;Kinling Lo/Rest of World&rpar;](http://www.techmeme.com/250315/p6#a250315p6)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [The story has come to an end \ud83d\ude2d](http://9gag.com/gag/aVvE4LO)
- - 😝 [Memes that die in fresh #198](http://9gag.com/gag/aQzQyO2)
- - 💣 [One ticket please](http://9gag.com/gag/aO84Gm2)
+ - 😝 [Money makes the world go around the sun](http://9gag.com/gag/ayN4VW8)
  - 😝 [It says a lot about society tbh](http://9gag.com/gag/aKG9LPQ)
- - 👉 [It&#39;s time...](http://9gag.com/gag/aXPNR2d)<!-- MEMES:END -->
+ - 💣 [The story has come to an end \ud83d\ude2d](http://9gag.com/gag/aVvE4LO)
+ - 😝 [Both use the same skin.](http://9gag.com/gag/agmOK8x)
+ - 👉 [One ticket please](http://9gag.com/gag/aO84Gm2)<!-- MEMES:END -->
 
 ---
 

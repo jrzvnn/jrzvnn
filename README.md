@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Playstation controllers always felt weird to me](http://9gag.com/gag/ae9Oydq)
- - 😝 [Finally got my Ps5. It must mean nothing to you guys, but I am happy!](http://9gag.com/gag/aByLo6z)
- - 💣 [Money makes the world go around the sun](http://9gag.com/gag/ayN4VW8)
- - 😝 [Poor people can&#39;t be happy](http://9gag.com/gag/avyeX1O)
- - 👉 [So it begins](http://9gag.com/gag/a4Pz84Z)<!-- MEMES:END -->
+ - 😝 [Mother daughter combo, hmmm, hmmm, HMMMM](http://9gag.com/gag/aGy8NA5)
+ - 😝 [Do what you gotta do](http://9gag.com/gag/a87mnG1)
+ - 💣 [Finally got my Ps5. It must mean nothing to you guys, but I am happy!](http://9gag.com/gag/aByLo6z)
+ - 😝 [One ticket please](http://9gag.com/gag/aO84Gm2)
+ - 👉 [It says a lot about society tbh](http://9gag.com/gag/aKG9LPQ)<!-- MEMES:END -->
 
 ---
 

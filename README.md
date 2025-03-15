@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Its friday my dudesssss](http://9gag.com/gag/ayN4zVr)
- - 😝 [Unexpected](http://9gag.com/gag/aYQOm20)
- - 💣 [Best part coming up](http://9gag.com/gag/ajPOMx0)
- - 😝 [She left me boys, cheers!](http://9gag.com/gag/amoGdX4)
- - 👉 [Is it too much to ask](http://9gag.com/gag/aLnebwV)<!-- MEMES:END -->
+ - 😝 [It says a lot about society tbh](http://9gag.com/gag/aKG9LPQ)
+ - 😝 [Where do pilots sleep during breaks?](http://9gag.com/gag/a2v8O01)
+ - 💣 [Please clean after using the equipment you use at the gym.](http://9gag.com/gag/a0eVMXz)
+ - 😝 [Do you believe in coincidence](http://9gag.com/gag/azxPZNx)
+ - 👉 [Ibiza 2000 vs ibiza 2025](http://9gag.com/gag/aGy87g7)<!-- MEMES:END -->
 
 ---
 

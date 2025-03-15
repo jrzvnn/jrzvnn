@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Finally got my Ps5. It must mean nothing to you guys, but I am happy!](http://9gag.com/gag/aByLo6z)
- - 😝 [Rescue attempt for a suicide in my country. I had tear in my eyes](http://9gag.com/gag/a6Z9jg2)
- - 💣 [It says a lot about society tbh](http://9gag.com/gag/aKG9LPQ)
- - 😝 [Motorcycle accident](http://9gag.com/gag/a7oeNAw)
- - 👉 [American influencer being deported for kidnapping baby wombat from mother... and banned from Australia, her Boyfriend facing criminal charges...](http://9gag.com/gag/axyvP81)<!-- MEMES:END -->
+ - 😝 [Its friday my dudesssss](http://9gag.com/gag/ayN4zVr)
+ - 😝 [Unexpected](http://9gag.com/gag/aYQOm20)
+ - 💣 [Best part coming up](http://9gag.com/gag/ajPOMx0)
+ - 😝 [She left me boys, cheers!](http://9gag.com/gag/amoGdX4)
+ - 👉 [Is it too much to ask](http://9gag.com/gag/aLnebwV)<!-- MEMES:END -->
 
 ---
 

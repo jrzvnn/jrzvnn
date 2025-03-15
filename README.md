@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [End-to-End Encrypted Texts Between Android and iPhone Are Coming](https://www.wired.com/story/end-to-end-encryption-android-ios-roundup/)
- - [Designer Ray-Ban Metas, An EV to Mock Tesla, and Portable Pizzas—Here’s Your Gear News of the Week](https://www.wired.com/story/coperni-ray-ban-metas-longbow-evs-gozney-tread-pizzas-jbl-speakers/)
+ - [Easily Perform Conversions on Your iPhone&#39;s Calculator App](https://www.cnet.com/tech/services-and-software/easily-perform-conversions-on-your-iphones-calculator-app/#ftag=CAD590a51e)
  - [China&#39;s National People&#39;s Congress saw an uncharacteristic surge in tech optimism, driven by DeepSeek, which has fired up investors, politicians, and regulators &lpar;Bloomberg&rpar;](http://www.techmeme.com/250315/p5#a250315p5)
  - [Android 16 Has Reached Platform Stability: How to Install Beta 3 on Your Pixel](https://www.cnet.com/tech/mobile/android-16-has-reached-platform-stability-how-to-install-beta-3-on-your-pixel/#ftag=CAD590a51e)
- - [Today&#39;s NYT Connections: Sports Edition Hints and Answers for March 15, #173](https://www.cnet.com/tech/gaming/todays-nyt-connections-sports-edition-hints-and-answers-for-march-15-173/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Today&#39;s NYT Connections: Sports Edition Hints and Answers for March 15, #173](https://www.cnet.com/tech/gaming/todays-nyt-connections-sports-edition-hints-and-answers-for-march-15-173/#ftag=CAD590a51e)
+ - [Today&#39;s NYT Strands Hints, Answers and Help for March 15, #377](https://www.cnet.com/tech/gaming/todays-nyt-strands-hints-answers-and-help-for-march-15-377/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -159,9 +159,9 @@ R                        1 repo              ░░░░░░░░░░░�
 <!-- TECH:START -->
  - [Everything we know about Apple’s Vision Pro](https://www.theverge.com/23689334/apple-mixed-reality-headset-augmented-virtual-reality-ar-vr-rumors-specs-features)
  - [Delaware lawmakers are considering a bill that would transform the state&#39;s corporate law to keep it attractive to both investors and CEOs, following Musk&#39;s exit &lpar;Lora Kolodny/CNBC&rpar;](http://www.techmeme.com/250315/p8#a250315p8)
- - [Say Cheese! 5 Reasons Why Digital Cameras Are Trendy &lpar;Again&rpar;](https://www.cnet.com/tech/computing/say-cheese-5-reasons-why-digital-cameras-are-trendy-again/#ftag=CAD590a51e)
- - [16 STEM Toys Your Little Genius Will Adore in 2025](https://www.cnet.com/culture/entertainment/stem-toys/#ftag=CAD590a51e)
- - [Severance isn’t in a rush](https://www.theverge.com/tv/629741/severance-season-2-episode-9-slow)<!-- TECH:END -->
+ - [Severance isn’t in a rush](https://www.theverge.com/tv/629741/severance-season-2-episode-9-slow)
+ - [A lack of consensus on what defines an AI &quot;agent&quot; is leading to customer frustration, as Microsoft, OpenAI, Salesforce, and others market it differently &lpar;TechCrunch&rpar;](http://www.techmeme.com/250315/p7#a250315p7)
+ - [The 11 Best Xbox Accessories You Can Buy &lpar;2025&rpar;](https://www.wired.com/gallery/best-xbox-accessories/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

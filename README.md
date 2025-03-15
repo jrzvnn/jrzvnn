@@ -158,10 +158,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- TECH:START -->
  - [Samsung soundbar owners report major problems after latest firmware update](https://www.theverge.com/news/630647/samsung-q990d-soundbar-freezing-bricked-firmware-update)
+ - [Today&#39;s NYT Mini Crossword Answers for Saturday, March 15](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-saturday-march-15/#ftag=CAD590a51e)
  - [Meta debuts the highly requested Passthrough Camera API for Quest 3/3S as an experimental feature; developers can&#39;t ship apps with the API on Horizon Store yet &lpar;David Heaney/UploadVR&rpar;](http://www.techmeme.com/250314/p30#a250314p30)
  - [Here are the best AirPods deals you can get right now](https://www.theverge.com/21302051/best-apple-airpods-deals)
- - [The NIST&#39;s new directive to AI Safety Institute partners scrubs mentions of &quot;AI safety&quot; and &quot;AI fairness&quot; and prioritizes &quot;reducing ideological bias&quot; in models &lpar;Will Knight/Wired&rpar;](http://www.techmeme.com/250314/p29#a250314p29)
- - [Should You Replace Your TP-Link Router? We Asked 4 Cybersecurity Experts to Weigh In](https://www.cnet.com/home/internet/should-you-replace-your-tp-link-router-we-asked-four-cybersecurity-experts-to-weigh-in/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [The NIST&#39;s new directive to AI Safety Institute partners scrubs mentions of &quot;AI safety&quot; and &quot;AI fairness&quot; and prioritizes &quot;reducing ideological bias&quot; in models &lpar;Will Knight/Wired&rpar;](http://www.techmeme.com/250314/p29#a250314p29)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

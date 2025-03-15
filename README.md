@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [This bullet hell shooter mixes retro and modern in all the right ways](https://www.theverge.com/games-review/627954/star-of-providence-review-nintendo-switch-pc)
- - [Teeing off at the wildly high-tech future of golf](https://www.theverge.com/sport/629858/tgl-golf-tech-espn-sports-future)
- - [The best indie games we’re playing right now](https://www.theverge.com/24339574/indie-games-recommendations-pc-switch-steam-deck-best-new-hidden-gems)
- - [A look at the adoption of DeepSeek across China, as Chinese automakers, smartphone sellers, and others rush to build services on top of the homegrown AI model &lpar;Kinling Lo/Rest of World&rpar;](http://www.techmeme.com/250315/p6#a250315p6)
- - [Italy vs. Ireland: How to Watch 2025 Six Nations Rugby Live From Anywhere](https://www.cnet.com/tech/services-and-software/italy-vs-ireland-how-to-watch-2025-six-nations-rugby-live-from-anywhere/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [16 Best Gifts for Men, Manly Men, and Menly Man Men &lpar;2025&rpar;](https://www.wired.com/gallery/best-gifts-for-men/)
+ - [Champions League Soccer: Livestream Union Berlin vs. Bayern Munich From Anywhere](https://www.cnet.com/tech/services-and-software/champions-league-soccer-livestream-union-berlin-vs-bayern-munich-from-anywhere/#ftag=CAD590a51e)
+ - [Premier League Soccer: Stream Everton vs. West Ham Live From Anywhere](https://www.cnet.com/tech/services-and-software/premier-league-soccer-stream-everton-vs-west-ham-live-from-anywhere/#ftag=CAD590a51e)
+ - [Premier League Soccer: Livestream Man City vs. Brighton From Anywhere](https://www.cnet.com/tech/services-and-software/premier-league-soccer-livestream-man-city-vs-brighton-from-anywhere/#ftag=CAD590a51e)
+ - [&#39;1923&#39; Season 2 Release Schedule: When Episode 4 Premieres on Paramount Plus](https://www.cnet.com/tech/services-and-software/1923-season-2-release-schedule-when-episode-4-premieres-on-paramount-plus/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

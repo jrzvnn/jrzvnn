@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [It says a lot about society tbh](http://9gag.com/gag/aKG9LPQ)
- - 😝 [Note to yourself: Dont ever pet a water puppy!](http://9gag.com/gag/avyevdM)
- - 💣 [Please clean after using the equipment you use at the gym.](http://9gag.com/gag/a0eVMXz)
- - 😝 [Gin tonic](http://9gag.com/gag/a0eVEGd)
- - 👉 [The devs were diabolical for this](http://9gag.com/gag/a7oeNYq)<!-- MEMES:END -->
+ - 😝 [Its friday my dudesssss](http://9gag.com/gag/ayN4zVr)
+ - 😝 [Unexpected](http://9gag.com/gag/aYQOm20)
+ - 💣 [She left me boys, cheers!](http://9gag.com/gag/amoGdX4)
+ - 😝 [Best part coming up](http://9gag.com/gag/ajPOMx0)
+ - 👉 [Is it too much to ask](http://9gag.com/gag/aLnebwV)<!-- MEMES:END -->
 
 ---
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Please clean after using the equipment you use at the gym.](http://9gag.com/gag/a0eVMXz)
- - 😝 [It says a lot about society tbh](http://9gag.com/gag/aKG9LPQ)
- - 💣 [Finally got my Ps5. It must mean nothing to you guys, but I am happy!](http://9gag.com/gag/aByLo6z)
- - 😝 [Johnny Somali Sentenced to 5 Years in South Korea \u2013 Play Stupid Games, Win Stupid Prizes](http://9gag.com/gag/aKG9Kwb)
- - 👉 [Gin tonic](http://9gag.com/gag/a0eVEGd)<!-- MEMES:END -->
+ - 😝 [Its friday my dudesssss](http://9gag.com/gag/ayN4zVr)
+ - 😝 [Unexpected](http://9gag.com/gag/aYQOm20)
+ - 💣 [Best part coming up](http://9gag.com/gag/ajPOMx0)
+ - 😝 [She left me boys, cheers!](http://9gag.com/gag/amoGdX4)
+ - 👉 [Is it too much to ask](http://9gag.com/gag/aLnebwV)<!-- MEMES:END -->
 
 ---
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Life thought](http://9gag.com/gag/a9yvOPm)
- - 😝 [Maybe maybe maybe](http://9gag.com/gag/aAyEOAR)
+ - 😝 [One ticket please](http://9gag.com/gag/aO84Gm2)
+ - 😝 [No choice to pull plug on German cable](http://9gag.com/gag/a9yvVb0)
  - 💣 [Finally got my Ps5. It must mean nothing to you guys, but I am happy!](http://9gag.com/gag/aByLo6z)
- - 😝 [How close was it for South Korea to lose the war.](http://9gag.com/gag/amoGp79)
- - 👉 [Please clean after using the equipment you use at the gym.](http://9gag.com/gag/a0eVMXz)<!-- MEMES:END -->
+ - 😝 [Poland](http://9gag.com/gag/aoyVd5g)
+ - 👉 [Ibiza 2000 vs ibiza 2025](http://9gag.com/gag/aGy87g7)<!-- MEMES:END -->
 
 ---
 

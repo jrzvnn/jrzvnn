@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Its friday my dudesssss](http://9gag.com/gag/ayN4zVr)
- - 😝 [For the glory of Rome?](http://9gag.com/gag/awym8Gr)
- - 💣 [I love you, Internet](http://9gag.com/gag/a2v892e)
- - 😝 [So it begins](http://9gag.com/gag/a4Pz84Z)
- - 👉 [From the deep](http://9gag.com/gag/axyvAvL)<!-- MEMES:END -->
+ - 😝 [Playstation controllers always felt weird to me](http://9gag.com/gag/ae9Oydq)
+ - 😝 [Finally got my Ps5. It must mean nothing to you guys, but I am happy!](http://9gag.com/gag/aByLo6z)
+ - 💣 [Money makes the world go around the sun](http://9gag.com/gag/ayN4VW8)
+ - 😝 [Poor people can&#39;t be happy](http://9gag.com/gag/avyeX1O)
+ - 👉 [So it begins](http://9gag.com/gag/a4Pz84Z)<!-- MEMES:END -->
 
 ---
 

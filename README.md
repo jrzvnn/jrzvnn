@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Rescue attempt for a suicide in my country. I had tear in my eyes](http://9gag.com/gag/a6Z9jg2)
+ - 😝 [This is how people turn to the dark side](http://9gag.com/gag/aYQOAq7)
+ - 😝 [It&#39;s time...](http://9gag.com/gag/aXPNR2d)
+ - 💣 [No choice to pull plug on German cable](http://9gag.com/gag/a9yvVb0)
  - 😝 [Please clean after using the equipment you use at the gym.](http://9gag.com/gag/a0eVMXz)
- - 💣 [One ticket please](http://9gag.com/gag/aO84Gm2)
- - 😝 [Poland](http://9gag.com/gag/aoyVd5g)
- - 👉 [It says a lot about society tbh](http://9gag.com/gag/aKG9LPQ)<!-- MEMES:END -->
+ - 👉 [One ticket please](http://9gag.com/gag/aO84Gm2)<!-- MEMES:END -->
 
 ---
 

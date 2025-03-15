@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [One ticket please](http://9gag.com/gag/aO84Gm2)
- - 😝 [Ibiza 2000 vs ibiza 2025](http://9gag.com/gag/aGy87g7)
- - 💣 [It&#39;s time...](http://9gag.com/gag/aXPNR2d)
+ - 😝 [Ladies and Gentlemen I proudly present](http://9gag.com/gag/aAyEOxR)
  - 😝 [Life thought](http://9gag.com/gag/a9yvOPm)
- - 👉 [Poland](http://9gag.com/gag/aoyVd5g)<!-- MEMES:END -->
+ - 💣 [One ticket please](http://9gag.com/gag/aO84Gm2)
+ - 😝 [Poland](http://9gag.com/gag/aoyVd5g)
+ - 👉 [It&#39;s time...](http://9gag.com/gag/aXPNR2d)<!-- MEMES:END -->
 
 ---
 

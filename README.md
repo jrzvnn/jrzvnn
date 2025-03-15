@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [AbsoluteMadLad](http://9gag.com/gag/a34Anx1)
- - 😝 [It&#39;s true!](http://9gag.com/gag/avyeXNb)
- - 💣 [Watching This Crusher Pulverize Things](http://9gag.com/gag/an7nWNV)
- - 😝 [Crab meat](http://9gag.com/gag/aQzQBw7)
- - 👉 [Finally got my Ps5. It must mean nothing to you guys, but I am happy!](http://9gag.com/gag/aByLo6z)<!-- MEMES:END -->
+ - 😝 [Both use the same skin.](http://9gag.com/gag/agmOK8x)
+ - 😝 [It&#39;s time...](http://9gag.com/gag/aXPNR2d)
+ - 💣 [AbsoluteMadLad](http://9gag.com/gag/a34Anx1)
+ - 😝 [Finally got my Ps5. It must mean nothing to you guys, but I am happy!](http://9gag.com/gag/aByLo6z)
+ - 👉 [It says a lot about society tbh](http://9gag.com/gag/aKG9LPQ)<!-- MEMES:END -->
 
 ---
 

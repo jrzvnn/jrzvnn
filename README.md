@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [The late unpleasantness of my existence](http://9gag.com/gag/aryADMd)
- - 😝 [I love you, Internet](http://9gag.com/gag/a2v892e)
- - 💣 [From the deep](http://9gag.com/gag/axyvAvL)
- - 😝 [F**king legend. Maybe directors will get their balls back one day and make real movies again.](http://9gag.com/gag/aByLNoP)
- - 👉 [The story has come to an end \ud83d\ude2d](http://9gag.com/gag/aVvE4LO)<!-- MEMES:END -->
+ - 😝 [Money makes the world go around the sun](http://9gag.com/gag/ayN4VW8)
+ - 😝 [Another thing to hate](http://9gag.com/gag/aMVmyR6)
+ - 💣 [Playstation controllers always felt weird to me](http://9gag.com/gag/ae9Oydq)
+ - 😝 [Crab meat](http://9gag.com/gag/aQzQBw7)
+ - 👉 [It says a lot about society tbh](http://9gag.com/gag/aKG9LPQ)<!-- MEMES:END -->
 
 ---
 

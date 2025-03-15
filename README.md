@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The Sonos app fiasco: how a great audio brand nearly ruined its reputation](https://www.theverge.com/2025/1/13/24342282/sonos-app-redesign-controversy-full-story)
  - [Today&#39;s NYT Connections: Sports Edition Hints and Answers for March 16, #174](https://www.cnet.com/tech/gaming/todays-nyt-connections-sports-edition-hints-and-answers-for-march-16-174/#ftag=CAD590a51e)
  - [Today&#39;s NYT Strands Hints, Answers and Help for March 16, #378](https://www.cnet.com/tech/gaming/todays-nyt-strands-hints-answers-and-help-for-march-16-378/#ftag=CAD590a51e)
  - [Today&#39;s NYT Connections Hints, Answers and Help for March 16, #644](https://www.cnet.com/tech/gaming/todays-nyt-connections-hints-answers-and-help-for-march-16-644/#ftag=CAD590a51e)
- - [Today&#39;s Wordle Hints, Answer and Help for March 16, #1366](https://www.cnet.com/tech/gaming/todays-wordle-hints-answer-and-help-for-march-16-1366/#ftag=CAD590a51e)
- - [21Shares plans to liquidate two actively managed bitcoin and ether futures ETFs, following $1.66B in outflows from US-listed spot bitcoin ETFs this month &lpar;Francisco Rodrigues/CoinDesk&rpar;](http://www.techmeme.com/250315/p12#a250315p12)<!-- TECH:END -->
+ - [Today&#39;s Wordle Hints, Answer and Help for March 16, #1366](https://www.cnet.com/tech/gaming/todays-wordle-hints-answer-and-help-for-march-16-1366/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

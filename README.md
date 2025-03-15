@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [They defeated Yamcha too](http://9gag.com/gag/a9yvVYD)
- - 😝 [Rescue attempt for a suicide in my country. I had tear in my eyes](http://9gag.com/gag/a6Z9jg2)
- - 💣 [One ticket please](http://9gag.com/gag/aO84Gm2)
- - 😝 [I watch Stargate sg1 for the plot](http://9gag.com/gag/aGy86L0)
- - 👉 [Please clean after using the equipment you use at the gym.](http://9gag.com/gag/a0eVMXz)<!-- MEMES:END -->
+ - 😝 [Best part coming up](http://9gag.com/gag/ajPOMx0)
+ - 😝 [She left me boys, cheers!](http://9gag.com/gag/amoGdX4)
+ - 💣 [Is it too much to ask](http://9gag.com/gag/aLnebwV)
+ - 😝 [Its friday my dudesssss](http://9gag.com/gag/ayN4zVr)
+ - 👉 [For the glory of Rome?](http://9gag.com/gag/awym8Gr)<!-- MEMES:END -->
 
 ---
 

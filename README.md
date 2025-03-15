@@ -158,10 +158,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- TECH:START -->
  - [Former Activision Blizzard CEO Bobby Kotick sues G/O Media over March 2024 articles in Gizmodo and Kotaku accusing him of workplace harassment, discrimination &lpar;Jackson Healy/Courthouse News Service&rpar;](http://www.techmeme.com/250315/p10#a250315p10)
- - [Best Wireless Home Security Cameras of 2025](https://www.cnet.com/home/security/best-wireless-home-security-cameras/#ftag=CAD590a51e)
- - [France vs. Scotland: How to Watch 2025 Six Nations Rugby Live From Anywhere](https://www.cnet.com/tech/services-and-software/france-vs-scotland-how-to-watch-2025-six-nations-rugby-live-from-anywhere/#ftag=CAD590a51e)
- - [&#39;The Righteous Gemstones&#39; Season 4: When to Watch the Next Episode](https://www.cnet.com/tech/services-and-software/the-righteous-gemstones-season-4-when-to-watch-the-next-episode/#ftag=CAD590a51e)
- - [24 of the Best Board Games to Give in 2025](https://www.cnet.com/culture/entertainment/best-board-games-to-give/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Amazon to kill Echo&#39;s local voice processing feature in favor of Voice ID](https://appleinsider.com/articles/25/03/15/amazon-to-kill-echos-local-voice-processing-feature-in-favor-of-voice-id?utm_medium=rss)
+ - [A look at the challenges facing Nvidia ahead of its annual GTC conference, where CEO Jensen Huang is expected to outline the company&#39;s next chapter &lpar;Bloomberg&rpar;](http://www.techmeme.com/250315/p9#a250315p9)
+ - [6 Best Cheap Mattresses for 2025: Save on Your Next Bed](https://www.cnet.com/health/sleep/best-cheap-mattress/#ftag=CAD590a51e)
+ - [The Vision Pro Metallica concert video is the best Apple Immersive video yet](https://www.theverge.com/news/630794/vision-pro-metallica-concert-immersive-video-impressions)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

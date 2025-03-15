@@ -160,8 +160,8 @@ R                        1 repo              ░░░░░░░░░░░�
  - [Trump’s first 100 days: all the news affecting the tech industry](https://www.theverge.com/24348851/donald-trump-presidency-tech-science-news)
  - [A DOGE staffer broke Treasury policy by emailing unencrypted personal data](https://www.theverge.com/news/630894/doge-treasury-lawsuit-marko-elez-unencrypted-emails)
  - [Google&#39;s Gemma 3 and Cohere&#39;s Command A, which require just one or two Nvidia AI chips to run, hint at an industry-wide push for more efficient AI software &lpar;Rachel Metz/Bloomberg&rpar;](http://www.techmeme.com/250315/p14#a250315p14)
- - [Sonos is still trying to figure out why everyone hates its app](https://www.theverge.com/news/630883/sonos-update-new-features-future-updates)
- - [The Sonos app fiasco: how a great audio brand nearly ruined its reputation](https://www.theverge.com/2025/1/13/24342282/sonos-app-redesign-controversy-full-story)<!-- TECH:END -->
+ - [Best Internet Providers in Grand Rapids, Michigan](https://www.cnet.com/home/internet/best-internet-providers-in-grand-rapids-mi/#ftag=CAD590a51e)
+ - [Sonos is still trying to figure out why everyone hates its app](https://www.theverge.com/news/630883/sonos-update-new-features-future-updates)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

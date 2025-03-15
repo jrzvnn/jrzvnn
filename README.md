@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Best part coming up](http://9gag.com/gag/ajPOMx0)
- - 😝 [She left me boys, cheers!](http://9gag.com/gag/amoGdX4)
- - 💣 [Its friday my dudesssss](http://9gag.com/gag/ayN4zVr)
- - 😝 [Is it too much to ask](http://9gag.com/gag/aLnebwV)
- - 👉 [Looks like zapdos...](http://9gag.com/gag/amoGKWd)<!-- MEMES:END -->
+ - 😝 [Rescue attempt for a suicide in my country. I had tear in my eyes](http://9gag.com/gag/a6Z9jg2)
+ - 😝 [Please clean after using the equipment you use at the gym.](http://9gag.com/gag/a0eVMXz)
+ - 💣 [One ticket please](http://9gag.com/gag/aO84Gm2)
+ - 😝 [Poland](http://9gag.com/gag/aoyVd5g)
+ - 👉 [It says a lot about society tbh](http://9gag.com/gag/aKG9LPQ)<!-- MEMES:END -->
 
 ---
 

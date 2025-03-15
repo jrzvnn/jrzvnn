@@ -167,10 +167,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [One ticket please](http://9gag.com/gag/aO84Gm2)
- - 😝 [No choice to pull plug on German cable](http://9gag.com/gag/a9yvVb0)
- - 💣 [Finally got my Ps5. It must mean nothing to you guys, but I am happy!](http://9gag.com/gag/aByLo6z)
- - 😝 [Poland](http://9gag.com/gag/aoyVd5g)
- - 👉 [Ibiza 2000 vs ibiza 2025](http://9gag.com/gag/aGy87g7)<!-- MEMES:END -->
+ - 😝 [Ibiza 2000 vs ibiza 2025](http://9gag.com/gag/aGy87g7)
+ - 💣 [It&#39;s time...](http://9gag.com/gag/aXPNR2d)
+ - 😝 [Life thought](http://9gag.com/gag/a9yvOPm)
+ - 👉 [Poland](http://9gag.com/gag/aoyVd5g)<!-- MEMES:END -->
 
 ---
 

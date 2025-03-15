@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Unexpected](http://9gag.com/gag/aYQOm20)
- - 😝 [Its friday my dudesssss](http://9gag.com/gag/ayN4zVr)
- - 💣 [Best part coming up](http://9gag.com/gag/ajPOMx0)
- - 😝 [She left me boys, cheers!](http://9gag.com/gag/amoGdX4)
- - 👉 [Is it too much to ask](http://9gag.com/gag/aLnebwV)<!-- MEMES:END -->
+ - 😝 [No choice to pull plug on German cable](http://9gag.com/gag/a9yvVb0)
+ - 😝 [Finally got my Ps5. It must mean nothing to you guys, but I am happy!](http://9gag.com/gag/aByLo6z)
+ - 💣 [It&#39;s time...](http://9gag.com/gag/aXPNR2d)
+ - 😝 [One ticket please](http://9gag.com/gag/aO84Gm2)
+ - 👉 [How close was it for South Korea to lose the war.](http://9gag.com/gag/amoGp79)<!-- MEMES:END -->
 
 ---
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Finally got my Ps5. It must mean nothing to you guys, but I am happy!](http://9gag.com/gag/aByLo6z)
- - 😝 [This is how people turn to the dark side](http://9gag.com/gag/aYQOAq7)
- - 💣 [Please clean after using the equipment you use at the gym.](http://9gag.com/gag/a0eVMXz)
+ - 😝 [They defeated Yamcha too](http://9gag.com/gag/a9yvVYD)
+ - 😝 [Rescue attempt for a suicide in my country. I had tear in my eyes](http://9gag.com/gag/a6Z9jg2)
+ - 💣 [One ticket please](http://9gag.com/gag/aO84Gm2)
  - 😝 [I watch Stargate sg1 for the plot](http://9gag.com/gag/aGy86L0)
- - 👉 [One ticket please](http://9gag.com/gag/aO84Gm2)<!-- MEMES:END -->
+ - 👉 [Please clean after using the equipment you use at the gym.](http://9gag.com/gag/a0eVMXz)<!-- MEMES:END -->
 
 ---
 

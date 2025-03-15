@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The 23 Best Shows on Amazon Prime Right Now &lpar;March 2025&rpar;](https://www.wired.com/story/best-shows-amazon-prime/)
- - [Wildfires Are One of Hurricane Helene’s Lasting Legacies](https://www.wired.com/story/how-hurricanes-can-fuel-wildfires-in-the-southeast/)
- - [End-to-End Encrypted Texts Between Android and iPhone Are Coming](https://www.wired.com/story/end-to-end-encryption-android-ios-roundup/)
+ - [I Work From Home. Will the IRS Compensate Me for My Internet?](https://www.cnet.com/home/internet/i-work-from-home-will-the-irs-compensate-me-for-my-internet-expenses/#ftag=CAD590a51e)
+ - [Best Outdoor String Lights for 2025: Fully Tested](https://www.cnet.com/news/best-outdoor-string-lights/#ftag=CAD590a51e)
  - [Easily Perform Conversions on Your iPhone&#39;s Calculator App](https://www.cnet.com/tech/services-and-software/easily-perform-conversions-on-your-iphones-calculator-app/#ftag=CAD590a51e)
- - [Designer Ray-Ban Metas, An EV to Mock Tesla, and Portable Pizzas—Here’s Your Gear News of the Week](https://www.wired.com/story/coperni-ray-ban-metas-longbow-evs-gozney-tread-pizzas-jbl-speakers/)<!-- TECH:END -->
+ - [China&#39;s National People&#39;s Congress saw an uncharacteristic surge in tech optimism, driven by DeepSeek, which has fired up investors, politicians, and regulators &lpar;Bloomberg&rpar;](http://www.techmeme.com/250315/p5#a250315p5)
+ - [Android 16 Has Reached Platform Stability: How to Install Beta 3 on Your Pixel](https://www.cnet.com/tech/mobile/android-16-has-reached-platform-stability-how-to-install-beta-3-on-your-pixel/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

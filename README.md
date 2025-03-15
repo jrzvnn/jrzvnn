@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Ladies and Gentlemen I proudly present](http://9gag.com/gag/aAyEOxR)
- - 😝 [Life thought](http://9gag.com/gag/a9yvOPm)
- - 💣 [One ticket please](http://9gag.com/gag/aO84Gm2)
- - 😝 [Poland](http://9gag.com/gag/aoyVd5g)
- - 👉 [It&#39;s time...](http://9gag.com/gag/aXPNR2d)<!-- MEMES:END -->
+ - 😝 [Best part coming up](http://9gag.com/gag/ajPOMx0)
+ - 😝 [She left me boys, cheers!](http://9gag.com/gag/amoGdX4)
+ - 💣 [Its friday my dudesssss](http://9gag.com/gag/ayN4zVr)
+ - 😝 [Is it too much to ask](http://9gag.com/gag/aLnebwV)
+ - 👉 [Looks like zapdos...](http://9gag.com/gag/amoGKWd)<!-- MEMES:END -->
 
 ---
 

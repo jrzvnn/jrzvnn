@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Clearwater Analytics agrees to acquire Beacon, a capital markets developer platform, for $560M, and Bistro, Blackstone&#39;s portfolio visualization tool, for $125M &lpar;Cameron Emanuel-Burns/FinTech Futures&rpar;](http://www.techmeme.com/250314/p32#a250314p32)
  - [Orlando-based Worth, whose tech lets fintechs, banks, and enterprises underwrite SMBs by automating KYC, fraud verification, and more, raised a $20M seed &lpar;Mary Ann Azevedo/TechCrunch&rpar;](http://www.techmeme.com/250314/p31#a250314p31)
  - [Samsung soundbar owners report major problems after latest firmware update](https://www.theverge.com/news/630647/samsung-q990d-soundbar-freezing-bricked-firmware-update)
- - [Meta debuts the highly requested Passthrough Camera API for Quest 3/3S as an experimental feature; developers can&#39;t ship apps with the API on Horizon Store yet &lpar;David Heaney/UploadVR&rpar;](http://www.techmeme.com/250314/p30#a250314p30)
- - [Here are the best AirPods deals you can get right now](https://www.theverge.com/21302051/best-apple-airpods-deals)
- - [The NIST&#39;s new directive to AI Safety Institute partners scrubs mentions of &quot;AI safety&quot; and &quot;AI fairness&quot; and prioritizes &quot;reducing ideological bias&quot; in models &lpar;Will Knight/Wired&rpar;](http://www.techmeme.com/250314/p29#a250314p29)<!-- TECH:END -->
+ - [Today&#39;s NYT Mini Crossword Answers for Saturday, March 15](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-saturday-march-15/#ftag=CAD590a51e)
+ - [Meta debuts the highly requested Passthrough Camera API for Quest 3/3S as an experimental feature; developers can&#39;t ship apps with the API on Horizon Store yet &lpar;David Heaney/UploadVR&rpar;](http://www.techmeme.com/250314/p30#a250314p30)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

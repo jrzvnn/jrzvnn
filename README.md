@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Finally got my Ps5. It must mean nothing to you guys, but I am happy!](http://9gag.com/gag/aByLo6z)
- - 😝 [One ticket please](http://9gag.com/gag/aO84Gm2)
- - 💣 [American influencer being deported for kidnapping baby wombat from mother... and banned from Australia, her Boyfriend facing criminal charges...](http://9gag.com/gag/axyvP81)
- - 😝 [It&#39;s time...](http://9gag.com/gag/aXPNR2d)
- - 👉 [Oh dear God no](http://9gag.com/gag/ae9O7EB)<!-- MEMES:END -->
+ - 😝 [Tony is on the roll](http://9gag.com/gag/aAyEOvd)
+ - 😝 [Unexpected](http://9gag.com/gag/aYQOm20)
+ - 💣 [She left me boys, cheers!](http://9gag.com/gag/amoGdX4)
+ - 😝 [F**king legend. Maybe directors will get their balls back one day and make real movies again.](http://9gag.com/gag/aByLNoP)
+ - 👉 [Best part coming up](http://9gag.com/gag/ajPOMx0)<!-- MEMES:END -->
 
 ---
 

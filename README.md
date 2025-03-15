@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [This bullet hell shooter mixes retro and modern in all the right ways](https://www.theverge.com/games-review/627954/star-of-providence-review-nintendo-switch-pc)
+ - [Teeing off at the wildly high-tech future of golf](https://www.theverge.com/sport/629858/tgl-golf-tech-espn-sports-future)
+ - [The best indie games we’re playing right now](https://www.theverge.com/24339574/indie-games-recommendations-pc-switch-steam-deck-best-new-hidden-gems)
  - [A look at the adoption of DeepSeek across China, as Chinese automakers, smartphone sellers, and others rush to build services on top of the homegrown AI model &lpar;Kinling Lo/Rest of World&rpar;](http://www.techmeme.com/250315/p6#a250315p6)
- - [Italy vs. Ireland: How to Watch 2025 Six Nations Rugby Live From Anywhere](https://www.cnet.com/tech/services-and-software/italy-vs-ireland-how-to-watch-2025-six-nations-rugby-live-from-anywhere/#ftag=CAD590a51e)
- - [Creatine: Overall Health Benefits, Supplements and the Right Dosage](https://www.cnet.com/health/creatine-overall-health-benefits-supplements-right-dosage/#ftag=CAD590a51e)
- - [Pixel 9A Rumors: Everything We Expect, From Cameras to Colors to Price](https://www.cnet.com/tech/mobile/pixel-9a-rumors-everything-we-expect-from-cameras-to-colors-to-price/#ftag=CAD590a51e)
- - [Panasonic Lumix ZS99 Review: Pocketable Point-and-Shoot With a Long Zoom](https://www.cnet.com/tech/computing/panasonic-lumix-zs99-review-pocketable-point-and-shoot-with-a-long-zoom/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Italy vs. Ireland: How to Watch 2025 Six Nations Rugby Live From Anywhere](https://www.cnet.com/tech/services-and-software/italy-vs-ireland-how-to-watch-2025-six-nations-rugby-live-from-anywhere/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

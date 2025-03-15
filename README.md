@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Mother daughter combo, hmmm, hmmm, HMMMM](http://9gag.com/gag/aGy8NA5)
- - 😝 [Do what you gotta do](http://9gag.com/gag/a87mnG1)
- - 💣 [Finally got my Ps5. It must mean nothing to you guys, but I am happy!](http://9gag.com/gag/aByLo6z)
- - 😝 [One ticket please](http://9gag.com/gag/aO84Gm2)
- - 👉 [It says a lot about society tbh](http://9gag.com/gag/aKG9LPQ)<!-- MEMES:END -->
+ - 😝 [The late unpleasantness of my existence](http://9gag.com/gag/aryADMd)
+ - 😝 [I love you, Internet](http://9gag.com/gag/a2v892e)
+ - 💣 [From the deep](http://9gag.com/gag/axyvAvL)
+ - 😝 [F**king legend. Maybe directors will get their balls back one day and make real movies again.](http://9gag.com/gag/aByLNoP)
+ - 👉 [The story has come to an end \ud83d\ude2d](http://9gag.com/gag/aVvE4LO)<!-- MEMES:END -->
 
 ---
 

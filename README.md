@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Another thing to hate](http://9gag.com/gag/aMVmyR6)
- - 😝 [It&#39;s inevitable.](http://9gag.com/gag/azxPB8Z)
+ - 😝 [Poland](http://9gag.com/gag/aoyVd5g)
+ - 😝 [Found a keeper \ud83d\ude0d](http://9gag.com/gag/ae9OWXm)
  - 💣 [Playstation controllers always felt weird to me](http://9gag.com/gag/ae9Oydq)
- - 😝 [Crab meat](http://9gag.com/gag/aQzQBw7)
- - 👉 [Finally got my Ps5. It must mean nothing to you guys, but I am happy!](http://9gag.com/gag/aByLo6z)<!-- MEMES:END -->
+ - 😝 [They really don&#39;t like s*x](http://9gag.com/gag/adBOb3V)
+ - 👉 [Crab meat](http://9gag.com/gag/aQzQBw7)<!-- MEMES:END -->
 
 ---
 

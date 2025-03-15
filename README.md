@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [An AI Coding Assistant Refused to Write Code—and Suggested the User Learn to Do It Himself](https://www.wired.com/story/ai-coding-assistant-refused-to-write-code-suggested-user-learn-himself/)
- - [Best Internet Providers in Long Beach, California](https://www.cnet.com/home/internet/best-internet-providers-in-long-beach-ca/#ftag=CAD590a51e)
- - [Meta&#39;s effort to neutralize Sarah Wynn-Williams&#39; book, filled with gossipy anecdotes, feels less about defending its reputation than a need to punish a defector &lpar;Steven Levy/Wired&rpar;](http://www.techmeme.com/250315/p4#a250315p4)
- - [Foxconn says revenue from cloud and networking, including AI servers, made up 26% of its Q4 revenue and will almost catch up with consumer electronics in 2025 &lpar;Sherry Qin/Wall Street Journal&rpar;](http://www.techmeme.com/250315/p3#a250315p3)
- - [Today&#39;s Wordle Hints, Answer and Help for March 15, #1365](https://www.cnet.com/tech/gaming/todays-wordle-hints-answer-and-help-for-march-15-1365/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [China&#39;s National People&#39;s Congress saw an uncharacteristic surge in tech optimism, driven by DeepSeek, which has fired up investors, politicians, and regulators &lpar;Bloomberg&rpar;](http://www.techmeme.com/250315/p5#a250315p5)
+ - [Android 16 Has Reached Platform Stability: How to Install Beta 3 on Your Pixel](https://www.cnet.com/tech/mobile/android-16-has-reached-platform-stability-how-to-install-beta-3-on-your-pixel/#ftag=CAD590a51e)
+ - [Today&#39;s NYT Connections: Sports Edition Hints and Answers for March 15, #173](https://www.cnet.com/tech/gaming/todays-nyt-connections-sports-edition-hints-and-answers-for-march-15-173/#ftag=CAD590a51e)
+ - [Today&#39;s NYT Strands Hints, Answers and Help for March 15, #377](https://www.cnet.com/tech/gaming/todays-nyt-strands-hints-answers-and-help-for-march-15-377/#ftag=CAD590a51e)
+ - [Today&#39;s NYT Connections Hints, Answers and Help for March 15, #643](https://www.cnet.com/tech/gaming/todays-nyt-connections-hints-answers-and-help-for-march-15-643/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

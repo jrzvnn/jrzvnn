@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Money makes the world go around the sun](http://9gag.com/gag/ayN4VW8)
- - 😝 [It says a lot about society tbh](http://9gag.com/gag/aKG9LPQ)
- - 💣 [The story has come to an end \ud83d\ude2d](http://9gag.com/gag/aVvE4LO)
- - 😝 [Both use the same skin.](http://9gag.com/gag/agmOK8x)
- - 👉 [One ticket please](http://9gag.com/gag/aO84Gm2)<!-- MEMES:END -->
+ - 😝 [AbsoluteMadLad](http://9gag.com/gag/a34Anx1)
+ - 😝 [It&#39;s true!](http://9gag.com/gag/avyeXNb)
+ - 💣 [Poland](http://9gag.com/gag/aoyVd5g)
+ - 😝 [One ticket please](http://9gag.com/gag/aO84Gm2)
+ - 👉 [Both use the same skin.](http://9gag.com/gag/agmOK8x)<!-- MEMES:END -->
 
 ---
 

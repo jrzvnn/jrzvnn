@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [A Tanker Collision Threatens One of the UK’s Most Important Coastlines](https://www.wired.com/story/how-north-sea-tanker-collision-could-affect-one-of-britains-most-important-coastlines/)
  - [The 23 Best Shows on Amazon Prime Right Now &lpar;March 2025&rpar;](https://www.wired.com/story/best-shows-amazon-prime/)
  - [Wildfires Are One of Hurricane Helene’s Lasting Legacies](https://www.wired.com/story/how-hurricanes-can-fuel-wildfires-in-the-southeast/)
- - [End-to-End Encrypted Texts Between Android and iPhone Are Coming](https://www.wired.com/story/end-to-end-encryption-android-ios-roundup/)
- - [Easily Perform Conversions on Your iPhone&#39;s Calculator App](https://www.cnet.com/tech/services-and-software/easily-perform-conversions-on-your-iphones-calculator-app/#ftag=CAD590a51e)
- - [Designer Ray-Ban Metas, An EV to Mock Tesla, and Portable Pizzas—Here’s Your Gear News of the Week](https://www.wired.com/story/coperni-ray-ban-metas-longbow-evs-gozney-tread-pizzas-jbl-speakers/)<!-- TECH:END -->
+ - [I Work From Home. Will the IRS Compensate Me for My Internet?](https://www.cnet.com/home/internet/i-work-from-home-will-the-irs-compensate-me-for-my-internet-expenses/#ftag=CAD590a51e)
+ - [Best Outdoor String Lights for 2025: Fully Tested](https://www.cnet.com/news/best-outdoor-string-lights/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

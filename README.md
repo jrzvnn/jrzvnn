@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The hype around AI agent Manus doesn&#39;t represent a second DeepSeek moment, but reveals that Chinese startups can compete with AI product companies in the US &lpar;Catherine Thorbecke/Bloomberg&rpar;](http://www.techmeme.com/250316/p4#a250316p4)
  - [Will the FAFSA Disappear if the Department of Education Is Closed?](https://www.cnet.com/personal-finance/loans/will-the-fafsa-disappear-if-the-department-of-education-is-closed/#ftag=CAD590a51e)
  - [JPMorgan Chase To Crack Down On Zelle Social Media Scams](https://www.cnet.com/personal-finance/banking/the-one-zelle-charge-that-chase-will-be-cracking-down-on/#ftag=CAD590a51e)
  - [Best Internet Providers in Grand Prairie, Texas](https://www.cnet.com/home/internet/best-internet-providers-in-grand-prairie-tx/#ftag=CAD590a51e)
- - [Google and other companies are considering bringing back in-person job interviews, as some startups sell AI tools that let engineers cheat in virtual interviews &lpar;Jennifer Elias/CNBC&rpar;](http://www.techmeme.com/250316/p3#a250316p3)
- - [Current and former Meta employees describe how Joel Kaplan has risen over the past decade to become Mark Zuckerberg&#39;s most trusted political fixer &lpar;Financial Times&rpar;](http://www.techmeme.com/250316/p2#a250316p2)<!-- TECH:END -->
+ - [Google and other companies are considering bringing back in-person job interviews, as some startups sell AI tools that let engineers cheat in virtual interviews &lpar;Jennifer Elias/CNBC&rpar;](http://www.techmeme.com/250316/p3#a250316p3)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

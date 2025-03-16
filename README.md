@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Poland](http://9gag.com/gag/aoyVd5g)
- - 😝 [Found a keeper \ud83d\ude0d](http://9gag.com/gag/ae9OWXm)
- - 💣 [Playstation controllers always felt weird to me](http://9gag.com/gag/ae9Oydq)
- - 😝 [They really don&#39;t like s*x](http://9gag.com/gag/adBOb3V)
- - 👉 [Crab meat](http://9gag.com/gag/aQzQBw7)<!-- MEMES:END -->
+ - 😝 [The best vedio reaction ever made](http://9gag.com/gag/aD2nMpG)
+ - 😝 [Nickelodeon time capsule filled with 90&#39;s toys](http://9gag.com/gag/agmOdzw)
+ - 💣 [Of course](http://9gag.com/gag/aGy8ogK)
+ - 😝 [Can you stop a hurricane with a nuke?](http://9gag.com/gag/a4Pzxx6)
+ - 👉 [A cool guide to baking](http://9gag.com/gag/a2v8jPE)<!-- MEMES:END -->
 
 ---
 

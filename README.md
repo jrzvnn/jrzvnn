@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The Best RAM for Your PC &lpar;2025&rpar;](https://www.wired.com/gallery/best-ram/)
  - [This gaming mouse has a striking skeletonized design and hot-swap batteries](https://www.theverge.com/hands-on/630856/angry-miao-am-infinity-mouse-gaming-price-specs-impressions)
- - [iPhone 17 Air will have design compromises, but the start of many engineering changes](https://appleinsider.com/articles/25/03/16/iphone-17-air-will-have-design-compromises-but-the-start-of-many-engineering-changes?utm_medium=rss)
+ - [iPhone 17 Air will have design compromises, but also will debut many engineering changes](https://appleinsider.com/articles/25/03/16/iphone-17-air-will-have-design-compromises-but-the-start-of-many-engineering-changes?utm_medium=rss)
  - [These Laptop Stands Run My Household, and Life Is Better for It](https://www.wired.com/story/rain-design-laptop-stand-rave/)
- - [Jio and Airtel, which initially opposed Starlink, partnered with the company following Modi&#39;s meeting with Musk and Trump&#39;s decision to impose tariffs on India &lpar;Scroll.in&rpar;](http://www.techmeme.com/250316/p6#a250316p6)
- - [A Softer Humanoid Robot for the Home](https://www.cnet.com/tech/computing/a-softer-humanoid-robot-for-the-home/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Jio and Airtel, which initially opposed Starlink, partnered with the company following Modi&#39;s meeting with Musk and Trump&#39;s decision to impose tariffs on India &lpar;Scroll.in&rpar;](http://www.techmeme.com/250316/p6#a250316p6)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

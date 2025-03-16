@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [It\u2019s always them](http://9gag.com/gag/a9yveeo)
- - 😝 [Sound Cannon &lpar;LRAD&rpar; Used By The Serbian Police &lpar;Half Million Protestors&rpar;](http://9gag.com/gag/azxPzpx)
- - 💣 [Gory!](http://9gag.com/gag/aRBZGr7)
- - 😝 [How GTA girls be walking](http://9gag.com/gag/a9yv0oL)
- - 👉 [Colonising intensifies](http://9gag.com/gag/axyvQEK)<!-- MEMES:END -->
+ - 😝 [Gory!](http://9gag.com/gag/aRBZGr7)
+ - 😝 [Coffee apotheosis](http://9gag.com/gag/aMVmDXW)
+ - 💣 [Sound Cannon &lpar;LRAD&rpar; Used By The Serbian Police &lpar;Half Million Protestors&rpar;](http://9gag.com/gag/azxPzpx)
+ - 😝 [Colonising intensifies](http://9gag.com/gag/axyvQEK)
+ - 👉 [Guy makes girl cry after taking last ride](http://9gag.com/gag/aAyEAWp)<!-- MEMES:END -->
 
 ---
 

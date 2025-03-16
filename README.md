@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Around 1 milion people protesting in Serbia against corrupted covernment, if we succeed, drinks are on me.](http://9gag.com/gag/ae9OE2B)
- - 😝 [Peace at last](http://9gag.com/gag/a5QBgzy)
- - 💣 [Tonys gf](http://9gag.com/gag/an7n3LE)
- - 😝 [Nature at its best.](http://9gag.com/gag/abAOojr)
- - 👉 [Haven&#39;t seen this one yet](http://9gag.com/gag/apRD72n)<!-- MEMES:END -->
+ - 😝 [Back to sense](http://9gag.com/gag/avyeBRX)
+ - 😝 [Spiderwoman](http://9gag.com/gag/aXPNzzP)
+ - 💣 [This one for you , Gramps](http://9gag.com/gag/aqy8O6P)
+ - 😝 [Idiot](http://9gag.com/gag/axyvwLn)
+ - 👉 [Whe U meet your celebrity crush](http://9gag.com/gag/a5QB90y)<!-- MEMES:END -->
 
 ---
 

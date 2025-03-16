@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Back to sense](http://9gag.com/gag/avyeBRX)
- - 😝 [A dying race](http://9gag.com/gag/awym8AW)
- - 💣 [Poland](http://9gag.com/gag/aoyVd5g)
- - 😝 [Do what you gotta do](http://9gag.com/gag/a87mnG1)
- - 👉 [Whe U meet your celebrity crush](http://9gag.com/gag/a5QB90y)<!-- MEMES:END -->
+ - 😝 [Is your mom single?](http://9gag.com/gag/aoyVd32)
+ - 😝 [This one for you , Gramps](http://9gag.com/gag/aqy8O6P)
+ - 💣 [It\u2019s always them](http://9gag.com/gag/a9yveeo)
+ - 😝 [Trump Windjammed](http://9gag.com/gag/a2v8gPE)
+ - 👉 [Poland](http://9gag.com/gag/aoyVd5g)<!-- MEMES:END -->
 
 ---
 

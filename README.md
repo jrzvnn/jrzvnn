@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [The most important one](http://9gag.com/gag/awym9Or)
- - 😝 [Playstation controllers always felt weird to me](http://9gag.com/gag/ae9Oydq)
- - 💣 [Is your mom single?](http://9gag.com/gag/aoyVd32)
- - 😝 [Do what you gotta do](http://9gag.com/gag/a87mnG1)
- - 👉 [Super-Straight-Man vs. Lesbiatman](http://9gag.com/gag/a5QB9EL)<!-- MEMES:END -->
+ - 😝 [Whe U meet your celebrity crush](http://9gag.com/gag/a5QB90y)
+ - 😝 [So banana without B is pineapple](http://9gag.com/gag/agmOd06)
+ - 💣 [Im here, who ordered hot single male?](http://9gag.com/gag/aXPNQr2)
+ - 😝 [A dying race](http://9gag.com/gag/awym8AW)
+ - 👉 [Of course](http://9gag.com/gag/aGy8ogK)<!-- MEMES:END -->
 
 ---
 

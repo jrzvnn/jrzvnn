@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Little dictator using forbidden gun against own citizens in Serbia](http://9gag.com/gag/aAyE72L)
- - 😝 [Helicopter backflip](http://9gag.com/gag/aZZwVDW)
- - 💣 [Spiderwoman](http://9gag.com/gag/aXPNzzP)
- - 😝 [Rallying An Ambulance Through Traffic](http://9gag.com/gag/aPAPdbV)
- - 👉 [It\u2019s always them](http://9gag.com/gag/a9yveeo)<!-- MEMES:END -->
+ - 😝 [Have You Tried Confidence?!?!](http://9gag.com/gag/aNDv2w4)
+ - 😝 [The story has come to an end \ud83d\ude2d](http://9gag.com/gag/aVvE4LO)
+ - 💣 [Miss my grandma](http://9gag.com/gag/a9yvNeL)
+ - 😝 [Hair today, gone tomorrow](http://9gag.com/gag/aYQOBzq)
+ - 👉 [Power to the people. 800.000 people in anti-corupption protest in Belgrade. Historical event.](http://9gag.com/gag/aGy8qxn)<!-- MEMES:END -->
 
 ---
 

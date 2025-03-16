@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [Little dictator using forbidden gun against own citizens in Serbia](http://9gag.com/gag/aAyE72L)
+ - 😝 [Helicopter backflip](http://9gag.com/gag/aZZwVDW)
+ - 💣 [Spiderwoman](http://9gag.com/gag/aXPNzzP)
  - 😝 [Rallying An Ambulance Through Traffic](http://9gag.com/gag/aPAPdbV)
- - 😝 [Watching This Crusher Pulverize Things](http://9gag.com/gag/an7nWNV)
- - 💣 [Nickelodeon time capsule filled with 90&#39;s toys](http://9gag.com/gag/agmOdzw)
- - 😝 [Spiderwoman](http://9gag.com/gag/aXPNzzP)
- - 👉 [Lydia Mugambe, a UN Judge who overseer cases against human trafficking and slavery... was arrested and convicted for... slavery.](http://9gag.com/gag/aryArPB)<!-- MEMES:END -->
+ - 👉 [It\u2019s always them](http://9gag.com/gag/a9yveeo)<!-- MEMES:END -->
 
 ---
 

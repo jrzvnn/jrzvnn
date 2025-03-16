@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Have You Tried Confidence?!?!](http://9gag.com/gag/aNDv2w4)
- - 😝 [The story has come to an end \ud83d\ude2d](http://9gag.com/gag/aVvE4LO)
- - 💣 [Miss my grandma](http://9gag.com/gag/a9yvNeL)
- - 😝 [Hair today, gone tomorrow](http://9gag.com/gag/aYQOBzq)
- - 👉 [Power to the people. 800.000 people in anti-corupption protest in Belgrade. Historical event.](http://9gag.com/gag/aGy8qxn)<!-- MEMES:END -->
+ - 😝 [Tonys gf](http://9gag.com/gag/an7n3LE)
+ - 😝 [Licky licky, 15 bucky](http://9gag.com/gag/ajPOGMg)
+ - 💣 [When you thought it was some zebra dong.](http://9gag.com/gag/awymPyr)
+ - 😝 [Lydia Mugambe, a UN Judge who overseer cases against human trafficking and slavery... was arrested and convicted for... slavery.](http://9gag.com/gag/aryArPB)
+ - 👉 [Whe U meet your celebrity crush](http://9gag.com/gag/a5QB90y)<!-- MEMES:END -->
 
 ---
 

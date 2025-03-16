@@ -158,10 +158,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- TECH:START -->
  - [Etsy and eBay are starting to embrace tactics popularized by social media platforms, such as algorithm-based personalization, as a way to stay relevant &lpar;Katherine Hamilton/Wall Street Journal&rpar;](http://www.techmeme.com/250316/p5#a250316p5)
- - [The hype around AI agent Manus doesn&#39;t represent a second DeepSeek moment, but reveals that Chinese startups can compete with AI product companies in the US &lpar;Catherine Thorbecke/Bloomberg&rpar;](http://www.techmeme.com/250316/p4#a250316p4)
- - [Will the FAFSA Disappear if the Department of Education Is Closed?](https://www.cnet.com/personal-finance/loans/will-the-fafsa-disappear-if-the-department-of-education-is-closed/#ftag=CAD590a51e)
- - [JPMorgan Chase To Crack Down On Zelle Social Media Scams](https://www.cnet.com/personal-finance/banking/the-one-zelle-charge-that-chase-will-be-cracking-down-on/#ftag=CAD590a51e)
- - [Best Internet Providers in Grand Prairie, Texas](https://www.cnet.com/home/internet/best-internet-providers-in-grand-prairie-tx/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [I Couldn’t Decide Between Cable and Fiber Internet. Here’s What Helped](https://www.cnet.com/home/internet/i-couldnt-decide-between-cable-and-fiber-internet-heres-what-helped/#ftag=CAD590a51e)
+ - [Is Sony&#39;s New RGB Backlight Tech Finally an Answer to OLED?](https://www.cnet.com/tech/home-entertainment/is-sonys-new-rgb-backlight-tech-finally-an-answer-to-oled/#ftag=CAD590a51e)
+ - [Looking to Save on Groceries? Choose These High Yield Fruits and Vegetables](https://www.cnet.com/news/looking-to-save-on-groceries-choose-these-high-yield-fruits-and-vegetables/#ftag=CAD590a51e)
+ - [Snapchat&#39;s New AI Features Are a Major Throwback](https://www.cnet.com/tech/services-and-software/snapchats-new-ai-video-filters-add-foxes-and-flowers/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

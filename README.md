@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [Power to the people. 800.000 people in anti-corupption protest in Belgrade. Historical event.](http://9gag.com/gag/aGy8qxn)
  - 😝 [Hair today, gone tomorrow](http://9gag.com/gag/aYQOBzq)
- - 😝 [This one for you , Gramps](http://9gag.com/gag/aqy8O6P)
- - 💣 [Whe U meet your celebrity crush](http://9gag.com/gag/a5QB90y)
- - 😝 [What does it even smell like?](http://9gag.com/gag/aAyENvd)
- - 👉 [Spiderwoman](http://9gag.com/gag/aXPNzzP)<!-- MEMES:END -->
+ - 💣 [Tonys gf](http://9gag.com/gag/an7n3LE)
+ - 😝 [Around 1 milion people protesting in Serbia against corrupted covernment, if we succeed, drinks are on me.](http://9gag.com/gag/ae9OE2B)
+ - 👉 [Haven&#39;t seen this one yet](http://9gag.com/gag/apRD72n)<!-- MEMES:END -->
 
 ---
 

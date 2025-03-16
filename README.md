@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Garry Tan says ~80% of YC&#39;s W25 batch is AI focused and the cohort is growing significantly faster than past ones, with actual revenue, thanks to &quot;vibe coding&quot; &lpar;Kate Rooney/CNBC&rpar;](http://www.techmeme.com/250315/p17#a250315p17)
  - [Bluesky proposes letting users indicate if their data can be used for AI training, web archiving, and more; critics see it as a reversal of its prior statements &lpar;Anthony Ha/TechCrunch&rpar;](http://www.techmeme.com/250315/p16#a250315p16)
  - [The real threat of AI models training on open-access material is that they may bleed free repositories dry by draining resources and not providing attribution &lpar;Molly White/Citation Needed&rpar;](http://www.techmeme.com/250315/p15#a250315p15)
  - [Joby will launch UK air taxi service with Virgin Atlantic](https://www.theverge.com/news/629857/joby-virgin-atlantic-air-taxi-uk)
- - [Air taxis: the latest on the flying electric cars bringing the Jetsons dream to life](https://www.theverge.com/24279586/air-taxis-flying-electric-car-vtol-evtol)
- - [Apple quietly launches new app to help firms improve Apple Maps](https://appleinsider.com/articles/25/03/15/apple-quietly-launches-new-app-to-help-firms-improve-apple-maps?utm_medium=rss)<!-- TECH:END -->
+ - [Air taxis: the latest on the flying electric cars bringing the Jetsons dream to life](https://www.theverge.com/24279586/air-taxis-flying-electric-car-vtol-evtol)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

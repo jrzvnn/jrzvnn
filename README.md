@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [CoreWeave&#39;s upcoming IPO in a soft IPO market serves as a bellwether for both the tech industry and how the public market perceives AI in the years ahead &lpar;Rachyl Jones/Semafor&rpar;](http://www.techmeme.com/250316/p12#a250316p12)
  - [Roblox: all the news about the popular social and gaming platform](https://www.theverge.com/23864790/roblox-news-announcements-updates)
  - [Trump’s first 100 days: all the news affecting the tech industry](https://www.theverge.com/24348851/donald-trump-presidency-tech-science-news)
  - [The head of a Biden program that could help rural broadband has left](https://www.theverge.com/news/630954/rural-broadband-equity-program-head-leaves-trump-musk-starlink)
- - [House Judiciary Committee subpoenas Apple over AI censorship](https://appleinsider.com/articles/25/03/16/house-judiciary-committee-subpoenas-apple-over-ai-censorship?utm_medium=rss)
- - [A look at the growing battle over how to define a podcast, as YouTube pushes deeper into podcasting and Spotify pursues video &lpar;Ashley Carman/Bloomberg&rpar;](http://www.techmeme.com/250316/p11#a250316p11)<!-- TECH:END -->
+ - [House Judiciary Committee subpoenas Apple over AI censorship](https://appleinsider.com/articles/25/03/16/house-judiciary-committee-subpoenas-apple-over-ai-censorship?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

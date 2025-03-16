@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Undergraduate Upends a 40-Year-Old Data Science Conjecture](https://www.wired.com/story/undergraduate-upends-a-40-year-old-data-science-conjecture/)
  - [Etsy and eBay are starting to embrace tactics popularized by social media platforms, such as algorithm-based personalization, as a way to stay relevant &lpar;Katherine Hamilton/Wall Street Journal&rpar;](http://www.techmeme.com/250316/p5#a250316p5)
  - [I Couldn’t Decide Between Cable and Fiber Internet. Here’s What Helped](https://www.cnet.com/home/internet/i-couldnt-decide-between-cable-and-fiber-internet-heres-what-helped/#ftag=CAD590a51e)
  - [Is Sony&#39;s New RGB Backlight Tech Finally an Answer to OLED?](https://www.cnet.com/tech/home-entertainment/is-sonys-new-rgb-backlight-tech-finally-an-answer-to-oled/#ftag=CAD590a51e)
- - [Looking to Save on Groceries? Choose These High Yield Fruits and Vegetables](https://www.cnet.com/news/looking-to-save-on-groceries-choose-these-high-yield-fruits-and-vegetables/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Looking to Save on Groceries? Choose These High Yield Fruits and Vegetables](https://www.cnet.com/news/looking-to-save-on-groceries-choose-these-high-yield-fruits-and-vegetables/#ftag=CAD590a51e)
+ - [Snapchat&#39;s New AI Features Are a Major Throwback](https://www.cnet.com/tech/services-and-software/snapchats-new-ai-video-filters-add-foxes-and-flowers/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

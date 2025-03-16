@@ -167,10 +167,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [Back to sense](http://9gag.com/gag/avyeBRX)
- - 😝 [Of course](http://9gag.com/gag/aGy8ogK)
- - 💣 [IMAX ENHANCED](http://9gag.com/gag/a2v8x1d)
- - 😝 [What is going on](http://9gag.com/gag/avyeD2M)
- - 👉 [The most important one](http://9gag.com/gag/awym9Or)<!-- MEMES:END -->
+ - 😝 [Coffee apotheosis](http://9gag.com/gag/aMVmDXW)
+ - 💣 [Do what you gotta do](http://9gag.com/gag/a87mnG1)
+ - 😝 [Whe U meet your celebrity crush](http://9gag.com/gag/a5QB90y)
+ - 👉 [What is going on](http://9gag.com/gag/avyeD2M)<!-- MEMES:END -->
 
 ---
 

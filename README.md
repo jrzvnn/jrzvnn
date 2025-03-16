@@ -158,10 +158,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- TECH:START -->
  - [Ofcom will enforce rules under the UK&#39;s Online Safety Act, designed to protect internet users from illegal content and harmful activity online, from March 17 &lpar;Daniel Thomas/Financial Times&rpar;](http://www.techmeme.com/250316/p9#a250316p9)
+ - [How to Watch &#39;American Idol&#39; 2025: Stream Season 23](https://www.cnet.com/tech/services-and-software/how-to-watch-american-idol-2025-stream-season-23/#ftag=CAD590a51e)
  - [Apple&#39;s iOS 19, macOS 16 overhauls aimed at ease of use](https://appleinsider.com/articles/25/03/16/apples-ios-19-macos-16-overhauls-aimed-at-ease-of-use?utm_medium=rss)
  - [A closer look at the iPhone 17 &quot;Air&quot;, which lays the foundation for major design changes in future devices, including possible portless and foldable iPhones &lpar;Mark Gurman/Bloomberg&rpar;](http://www.techmeme.com/250316/p8#a250316p8)
- - [The iPhone 17 Air makes other models look chunky in new leaked dummy shots](https://www.theverge.com/news/630917/iphone-17-air-pro-max-dummies-leak)
- - [The 11 Best Amazon Echo and Alexa Speakers &lpar;2025&rpar;: We&#39;ve Tested Them All](https://www.wired.com/gallery/best-alexa-and-amazon-echo-speakers/)<!-- TECH:END -->
+ - [The iPhone 17 Air makes other models look chunky in new leaked dummy shots](https://www.theverge.com/news/630917/iphone-17-air-pro-max-dummies-leak)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

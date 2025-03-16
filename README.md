@@ -167,10 +167,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [Gory!](http://9gag.com/gag/aRBZGr7)
- - 😝 [Coffee apotheosis](http://9gag.com/gag/aMVmDXW)
- - 💣 [Sound Cannon &lpar;LRAD&rpar; Used By The Serbian Police &lpar;Half Million Protestors&rpar;](http://9gag.com/gag/azxPzpx)
- - 😝 [Colonising intensifies](http://9gag.com/gag/axyvQEK)
- - 👉 [Guy makes girl cry after taking last ride](http://9gag.com/gag/aAyEAWp)<!-- MEMES:END -->
+ - 😝 [Little dictator using forbidden gun against own citizens in Serbia](http://9gag.com/gag/aAyE72L)
+ - 💣 [Colonising intensifies](http://9gag.com/gag/axyvQEK)
+ - 😝 [Guy makes girl cry after taking last ride](http://9gag.com/gag/aAyEAWp)
+ - 👉 [Sound Cannon &lpar;LRAD&rpar; Used By The Serbian Police &lpar;Half Million Protestors&rpar;](http://9gag.com/gag/azxPzpx)<!-- MEMES:END -->
 
 ---
 

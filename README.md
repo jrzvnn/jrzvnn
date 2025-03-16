@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Tonys gf](http://9gag.com/gag/an7n3LE)
- - 😝 [Licky licky, 15 bucky](http://9gag.com/gag/ajPOGMg)
- - 💣 [When you thought it was some zebra dong.](http://9gag.com/gag/awymPyr)
- - 😝 [Lydia Mugambe, a UN Judge who overseer cases against human trafficking and slavery... was arrested and convicted for... slavery.](http://9gag.com/gag/aryArPB)
- - 👉 [Whe U meet your celebrity crush](http://9gag.com/gag/a5QB90y)<!-- MEMES:END -->
+ - 😝 [Hair today, gone tomorrow](http://9gag.com/gag/aYQOBzq)
+ - 😝 [This one for you , Gramps](http://9gag.com/gag/aqy8O6P)
+ - 💣 [Whe U meet your celebrity crush](http://9gag.com/gag/a5QB90y)
+ - 😝 [What does it even smell like?](http://9gag.com/gag/aAyENvd)
+ - 👉 [Spiderwoman](http://9gag.com/gag/aXPNzzP)<!-- MEMES:END -->
 
 ---
 

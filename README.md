@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [13 Epic Sci-Fi Shows You Should Watch Immediately On Apple TV Plus](https://www.cnet.com/tech/services-and-software/best-apple-tv-plus-sci-fi-shows-2025/#ftag=CAD590a51e)
- - [Meet the AI Fraud Fighters: A Deepfake Granny, Digital Bots and a YouTube Star](https://www.cnet.com/personal-finance/features/meet-the-ai-fraud-fighters-a-deepfake-granny-digital-bots-and-a-youtube-star/#ftag=CAD590a51e)
- - [Best Immunity Supplements for 2025](https://www.cnet.com/health/nutrition/best-immunity-supplements/#ftag=CAD590a51e)
- - [Download iOS 18.3.2 Now to Stop a &#39;Sophisticated&#39; Security Threat](https://www.cnet.com/tech/services-and-software/download-ios-18-3-2-now-to-stop-a-sophisticated-security-threat/#ftag=CAD590a51e)
- - [Best Squat Racks of 2025](https://www.cnet.com/health/fitness/best-squat-racks/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [These Laptop Stands Run My Household, and Life Is Better for It](https://www.wired.com/story/rain-design-laptop-stand-rave/)
+ - [Jio and Airtel, which initially opposed Starlink, partnered with the company following Modi&#39;s meeting with Musk and Trump&#39;s decision to impose tariffs on India &lpar;Scroll.in&rpar;](http://www.techmeme.com/250316/p6#a250316p6)
+ - [How to Customize the Samsung Galaxy S25’s Best New Features](https://www.wired.com/story/how-to-customize-samsung-galaxy-s25-now-bar-now-brief/)
+ - [A bad movie full of big ideas about tech](https://www.theverge.com/installer-newsletter/629893/electric-state-mickey-17-mulaney-netflix-installer)
+ - [How to Clean a Toaster Oven:  Tips and Tricks](https://www.wired.com/story/how-to-clean-a-toaster-oven/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

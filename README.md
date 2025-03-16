@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Spotify slashed nearly &amp;euro;500M in marketing, R&amp;D spending, and general administrative expenses in 2024, which helped the company swing to a net income of &amp;euro;1.1B &lpar;Financial Times&rpar;](http://www.techmeme.com/250316/p7#a250316p7)
  - [iPhone Air was almost portless, but concerns about EU regulations prevented it](https://appleinsider.com/articles/25/03/16/iphone-air-was-almost-portless-but-concerns-about-eu-regulations-prevented-it?utm_medium=rss)
  - [Apple may be working on two new Studio Display models](https://appleinsider.com/articles/25/03/16/apple-may-be-working-on-two-new-studio-display-models?utm_medium=rss)
  - [The Best 3-in-1 Apple Charging Stations &lpar;2025&rpar;](https://www.wired.com/gallery/best-apple-3-in-1-wireless-chargers/)
- - [The Best RAM for Your PC &lpar;2025&rpar;](https://www.wired.com/gallery/best-ram/)
- - [At SXSW, a Culture Clash: Can Gen AI and Art Get Along?](https://www.cnet.com/tech/services-and-software/at-sxsw-a-culture-clash-can-gen-ai-and-art-get-along/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [The Best RAM for Your PC &lpar;2025&rpar;](https://www.wired.com/gallery/best-ram/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

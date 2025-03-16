@@ -166,7 +166,7 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [What&#39;s sorcery is this?](http://9gag.com/gag/aVvErXd)
+ - 😝 [People in Serbia want Vucic out. Mordor is losing its influence](http://9gag.com/gag/aLne30V)
  - 😝 [Have You Tried Confidence?!?!](http://9gag.com/gag/aNDv2w4)
  - 💣 [Miss my grandma](http://9gag.com/gag/a9yvNeL)
  - 😝 [The story has come to an end \ud83d\ude2d](http://9gag.com/gag/aVvE4LO)

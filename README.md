@@ -159,9 +159,9 @@ R                        1 repo              ░░░░░░░░░░░�
 <!-- TECH:START -->
  - [Google and other companies are considering bringing back in-person job interviews, as some startups sell AI tools that let engineers cheat in virtual interviews &lpar;Jennifer Elias/CNBC&rpar;](http://www.techmeme.com/250316/p3#a250316p3)
  - [Current and former Meta employees describe how Joel Kaplan has risen over the past decade to become Mark Zuckerberg&#39;s most trusted political fixer &lpar;Financial Times&rpar;](http://www.techmeme.com/250316/p2#a250316p2)
+ - [NASA Crew-10 Docks With ISS To Trade Places With &#39;Stranded&#39; Astronauts](https://www.cnet.com/science/nasa-crew-10-docks-with-iss-to-trade-places-with-stranded-astronauts/#ftag=CAD590a51e)
  - [NASA Crew-10 Has Docked at ISS to Relieve &#39;Stranded&#39; Astronauts](https://www.cnet.com/science/nasa-crew-10-is-on-the-way-to-relieve-stranded-astronauts-suni-williams-and-butch-wilmore/#ftag=CAD590a51e)
- - [Baidu releases Ernie X1, an AI model that articulates its reasoning similar to DeepSeek R1, and upgrades its flagship foundation model to Ernie 4.5 &lpar;Bloomberg&rpar;](http://www.techmeme.com/250316/p1#a250316p1)
- - [Garry Tan says ~80% of YC&#39;s W25 batch is AI focused and the cohort is growing significantly faster than past ones, with actual revenue, thanks to &quot;vibe coding&quot; &lpar;Kate Rooney/CNBC&rpar;](http://www.techmeme.com/250315/p17#a250315p17)<!-- TECH:END -->
+ - [Baidu releases Ernie X1, an AI model that articulates its reasoning similar to DeepSeek R1, and upgrades its flagship foundation model to Ernie 4.5 &lpar;Bloomberg&rpar;](http://www.techmeme.com/250316/p1#a250316p1)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

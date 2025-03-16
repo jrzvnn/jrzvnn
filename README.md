@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [The best vedio reaction ever made](http://9gag.com/gag/aD2nMpG)
- - 😝 [Nickelodeon time capsule filled with 90&#39;s toys](http://9gag.com/gag/agmOdzw)
- - 💣 [Of course](http://9gag.com/gag/aGy8ogK)
- - 😝 [Can you stop a hurricane with a nuke?](http://9gag.com/gag/a4Pzxx6)
- - 👉 [A cool guide to baking](http://9gag.com/gag/a2v8jPE)<!-- MEMES:END -->
+ - 😝 [Have You Tried Confidence?!?!](http://9gag.com/gag/aNDv2w4)
+ - 😝 [The story has come to an end \ud83d\ude2d](http://9gag.com/gag/aVvE4LO)
+ - 💣 [Around 1 milion people protesting in Serbia against corrupted covernment, if we succeed, drinks are on me.](http://9gag.com/gag/ae9OE2B)
+ - 😝 [Miss my grandma](http://9gag.com/gag/a9yvNeL)
+ - 👉 [That&#39;s a little funny](http://9gag.com/gag/amoGyx4)<!-- MEMES:END -->
 
 ---
 

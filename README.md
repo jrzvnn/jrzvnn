@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Have You Tried Confidence?!?!](http://9gag.com/gag/aNDv2w4)
- - 😝 [The story has come to an end \ud83d\ude2d](http://9gag.com/gag/aVvE4LO)
- - 💣 [Miss my grandma](http://9gag.com/gag/a9yvNeL)
- - 😝 [Around 1 milion people protesting in Serbia against corrupted covernment, if we succeed, drinks are on me.](http://9gag.com/gag/ae9OE2B)
- - 👉 [People in Serbia want Vucic out. Mordor is losing its influence](http://9gag.com/gag/aLne30V)<!-- MEMES:END -->
+ - 😝 [The most important one](http://9gag.com/gag/awym9Or)
+ - 😝 [Playstation controllers always felt weird to me](http://9gag.com/gag/ae9Oydq)
+ - 💣 [Is your mom single?](http://9gag.com/gag/aoyVd32)
+ - 😝 [Do what you gotta do](http://9gag.com/gag/a87mnG1)
+ - 👉 [Super-Straight-Man vs. Lesbiatman](http://9gag.com/gag/a5QB9EL)<!-- MEMES:END -->
 
 ---
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Idiot](http://9gag.com/gag/axyvwLn)
- - 😝 [You could use more practice, honey](http://9gag.com/gag/a6Z9zW9)
- - 💣 [It\u2019s always them](http://9gag.com/gag/a9yveeo)
+ - 😝 [Lydia Mugambe, a UN Judge who overseer cases against human trafficking and slavery... was arrested and convicted for... slavery.](http://9gag.com/gag/aryArPB)
  - 😝 [Guy makes girl cry after taking last ride](http://9gag.com/gag/aAyEAWp)
- - 👉 [Gory!](http://9gag.com/gag/aRBZGr7)<!-- MEMES:END -->
+ - 💣 [Gory!](http://9gag.com/gag/aRBZGr7)
+ - 😝 [Made me chuckle](http://9gag.com/gag/aByLer1)
+ - 👉 [Idiot](http://9gag.com/gag/axyvwLn)<!-- MEMES:END -->
 
 ---
 

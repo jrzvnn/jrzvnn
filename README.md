@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Colonising intensifies](http://9gag.com/gag/axyvQEK)
- - 😝 [Gory!](http://9gag.com/gag/aRBZGr7)
- - 💣 [Lydia Mugambe, a UN Judge who overseer cases against human trafficking and slavery... was arrested and convicted for... slavery.](http://9gag.com/gag/aryArPB)
+ - 😝 [It\u2019s always them](http://9gag.com/gag/a9yveeo)
  - 😝 [Sound Cannon &lpar;LRAD&rpar; Used By The Serbian Police &lpar;Half Million Protestors&rpar;](http://9gag.com/gag/azxPzpx)
- - 👉 [How GTA girls be walking](http://9gag.com/gag/a9yv0oL)<!-- MEMES:END -->
+ - 💣 [Gory!](http://9gag.com/gag/aRBZGr7)
+ - 😝 [How GTA girls be walking](http://9gag.com/gag/a9yv0oL)
+ - 👉 [Colonising intensifies](http://9gag.com/gag/axyvQEK)<!-- MEMES:END -->
 
 ---
 

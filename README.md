@@ -166,10 +166,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [How many do you recognize?](http://9gag.com/gag/aYQO6EN)
- - 😝 [What does it even smell like?](http://9gag.com/gag/aAyENvd)
+ - 😝 [Trust issues](http://9gag.com/gag/a34AgYe)
+ - 😝 [Gory!](http://9gag.com/gag/aRBZGr7)
  - 💣 [Whe U meet your celebrity crush](http://9gag.com/gag/a5QB90y)
- - 😝 [Only once in the lifetime](http://9gag.com/gag/aMVm7LM)
+ - 😝 [Little dictator using forbidden gun against own citizens in Serbia](http://9gag.com/gag/aAyE72L)
  - 👉 [When your amazon delivery woman loves her job!](http://9gag.com/gag/aXPNzOd)<!-- MEMES:END -->
 
 ---

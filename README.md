@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [This one for you , Gramps](http://9gag.com/gag/aqy8O6P)
- - 😝 [Mangroves are saviors](http://9gag.com/gag/aYQOZyV)
- - 💣 [Watching This Crusher Pulverize Things](http://9gag.com/gag/an7nWNV)
- - 😝 [Whe U meet your celebrity crush](http://9gag.com/gag/a5QB90y)
- - 👉 [Nickelodeon time capsule filled with 90&#39;s toys](http://9gag.com/gag/agmOdzw)<!-- MEMES:END -->
+ - 😝 [It\u2019s always them](http://9gag.com/gag/a9yveeo)
+ - 😝 [Licky licky, 15 bucky](http://9gag.com/gag/ajPOGMg)
+ - 💣 [Little dictator using forbidden gun against own citizens in Serbia](http://9gag.com/gag/aAyE72L)
+ - 😝 [Can you stop a hurricane with a nuke?](http://9gag.com/gag/a4Pzxx6)
+ - 👉 [Helicopter backflip](http://9gag.com/gag/aZZwVDW)<!-- MEMES:END -->
 
 ---
 

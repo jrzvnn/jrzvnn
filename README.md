@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Back to sense](http://9gag.com/gag/avyeBRX)
+ - 😝 [It\u2019s trivial but I need the music title :&rpar;](http://9gag.com/gag/ajPOjX8)
+ - 😝 [Do what you gotta do](http://9gag.com/gag/a87mnG1)
+ - 💣 [Pull up to the bumper](http://9gag.com/gag/a7oemxr)
  - 😝 [Coffee apotheosis](http://9gag.com/gag/aMVmDXW)
- - 💣 [Do what you gotta do](http://9gag.com/gag/a87mnG1)
- - 😝 [Whe U meet your celebrity crush](http://9gag.com/gag/a5QB90y)
- - 👉 [What is going on](http://9gag.com/gag/avyeD2M)<!-- MEMES:END -->
+ - 👉 [I want those glasses for driving](http://9gag.com/gag/amoGKA9)<!-- MEMES:END -->
 
 ---
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Nickelodeon time capsule filled with 90&#39;s toys](http://9gag.com/gag/agmOdzw)
- - 😝 [It\u2019s always them](http://9gag.com/gag/a9yveeo)
- - 💣 [Whe U meet your celebrity crush](http://9gag.com/gag/a5QB90y)
- - 😝 [Poland](http://9gag.com/gag/aoyVd5g)
- - 👉 [Do what you gotta do](http://9gag.com/gag/a87mnG1)<!-- MEMES:END -->
+ - 😝 [Watching This Crusher Pulverize Things](http://9gag.com/gag/an7nWNV)
+ - 😝 [This one for you , Gramps](http://9gag.com/gag/aqy8O6P)
+ - 💣 [Is your mom single?](http://9gag.com/gag/aoyVd32)
+ - 😝 [Back to sense](http://9gag.com/gag/avyeBRX)
+ - 👉 [Whe U meet your celebrity crush](http://9gag.com/gag/a5QB90y)<!-- MEMES:END -->
 
 ---
 

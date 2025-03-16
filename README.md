@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [People in Serbia want Vucic out. Mordor is losing its influence](http://9gag.com/gag/aLne30V)
- - 😝 [Have You Tried Confidence?!?!](http://9gag.com/gag/aNDv2w4)
- - 💣 [Miss my grandma](http://9gag.com/gag/a9yvNeL)
- - 😝 [The story has come to an end \ud83d\ude2d](http://9gag.com/gag/aVvE4LO)
- - 👉 [Around 1 milion people protesting in Serbia against corrupted covernment, if we succeed, drinks are on me.](http://9gag.com/gag/ae9OE2B)<!-- MEMES:END -->
+ - 😝 [It says a lot about society tbh](http://9gag.com/gag/aKG9LPQ)
+ - 😝 [Do what you gotta do](http://9gag.com/gag/a87mnG1)
+ - 💣 [This one for you , Gramps](http://9gag.com/gag/aqy8O6P)
+ - 😝 [Little dictator using forbidden gun against own citizens in Serbia](http://9gag.com/gag/aAyE72L)
+ - 👉 [The most important one](http://9gag.com/gag/awym9Or)<!-- MEMES:END -->
 
 ---
 

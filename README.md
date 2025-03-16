@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [How to Clean a Toaster Oven:  Tips and Tricks](https://www.wired.com/story/how-to-clean-a-toaster-oven/)
  - [13 Epic Sci-Fi Shows You Should Watch Immediately On Apple TV Plus](https://www.cnet.com/tech/services-and-software/best-apple-tv-plus-sci-fi-shows-2025/#ftag=CAD590a51e)
- - [Undergraduate Upends a 40-Year-Old Data Science Conjecture](https://www.wired.com/story/undergraduate-upends-a-40-year-old-data-science-conjecture/)
  - [Meet the AI Fraud Fighters: A Deepfake Granny, Digital Bots and a YouTube Star](https://www.cnet.com/personal-finance/features/meet-the-ai-fraud-fighters-a-deepfake-granny-digital-bots-and-a-youtube-star/#ftag=CAD590a51e)
- - [Best Immunity Supplements for 2025](https://www.cnet.com/health/nutrition/best-immunity-supplements/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Best Immunity Supplements for 2025](https://www.cnet.com/health/nutrition/best-immunity-supplements/#ftag=CAD590a51e)
+ - [Download iOS 18.3.2 Now to Stop a &#39;Sophisticated&#39; Security Threat](https://www.cnet.com/tech/services-and-software/download-ios-18-3-2-now-to-stop-a-sophisticated-security-threat/#ftag=CAD590a51e)
+ - [Best Squat Racks of 2025](https://www.cnet.com/health/fitness/best-squat-racks/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

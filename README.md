@@ -166,10 +166,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Spiderwoman](http://9gag.com/gag/aXPNzzP)
+ - 😝 [Idiot](http://9gag.com/gag/axyvwLn)
  - 😝 [You could use more practice, honey](http://9gag.com/gag/a6Z9zW9)
  - 💣 [It\u2019s always them](http://9gag.com/gag/a9yveeo)
- - 😝 [Back to sense](http://9gag.com/gag/avyeBRX)
+ - 😝 [Guy makes girl cry after taking last ride](http://9gag.com/gag/aAyEAWp)
  - 👉 [Gory!](http://9gag.com/gag/aRBZGr7)<!-- MEMES:END -->
 
 ---

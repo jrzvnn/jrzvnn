@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [iPhone Air was almost portless, but concerns about EU regulations prevented it](https://appleinsider.com/articles/25/03/16/iphone-air-was-almost-portless-but-concerns-about-eu-regulations-prevented-it?utm_medium=rss)
  - [Apple may be working on two new Studio Display models](https://appleinsider.com/articles/25/03/16/apple-may-be-working-on-two-new-studio-display-models?utm_medium=rss)
- - [This gaming mouse has a striking skeletonized design and hot-swap batteries](https://www.theverge.com/hands-on/630856/angry-miao-am-infinity-mouse-gaming-price-specs-impressions)
- - [iPhone 17 Air will have design compromises, but also will debut many engineering changes](https://appleinsider.com/articles/25/03/16/iphone-17-air-will-have-design-compromises-but-the-start-of-many-engineering-changes?utm_medium=rss)
- - [Jio and Airtel, which initially opposed Starlink, partnered with the company following Modi&#39;s meeting with Musk and Trump&#39;s decision to impose tariffs on India &lpar;Scroll.in&rpar;](http://www.techmeme.com/250316/p6#a250316p6)
- - [A Softer Humanoid Robot for the Home](https://www.cnet.com/tech/computing/a-softer-humanoid-robot-for-the-home/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [The Best 3-in-1 Apple Charging Stations &lpar;2025&rpar;](https://www.wired.com/gallery/best-apple-3-in-1-wireless-chargers/)
+ - [The Best RAM for Your PC &lpar;2025&rpar;](https://www.wired.com/gallery/best-ram/)
+ - [At SXSW, a Culture Clash: Can Gen AI and Art Get Along?](https://www.cnet.com/tech/services-and-software/at-sxsw-a-culture-clash-can-gen-ai-and-art-get-along/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

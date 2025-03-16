@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The iPhone 17 Air makes other models look chunky in new leaked dummy shots](https://www.theverge.com/news/630917/iphone-17-air-pro-max-dummies-leak)
  - [The 11 Best Amazon Echo and Alexa Speakers &lpar;2025&rpar;: We&#39;ve Tested Them All](https://www.wired.com/gallery/best-alexa-and-amazon-echo-speakers/)
  - [How to set up Routines on your Samsung Galaxy phone](https://www.theverge.com/how-to/629502/samsung-galaxy-routines-triggers-how-to)
  - [Spotify slashed nearly &amp;euro;500M in marketing, R&amp;D spending, and general administrative expenses in 2024, which helped the company swing to a net income of &amp;euro;1.1B &lpar;Financial Times&rpar;](http://www.techmeme.com/250316/p7#a250316p7)
- - [iPhone Air was almost portless, but concerns about EU regulations prevented it](https://appleinsider.com/articles/25/03/16/iphone-air-was-almost-portless-but-concerns-about-eu-regulations-prevented-it?utm_medium=rss)
- - [Apple may be working on two new Studio Display models](https://appleinsider.com/articles/25/03/16/apple-may-be-working-on-two-new-studio-display-models?utm_medium=rss)<!-- TECH:END -->
+ - [iPhone Air was almost portless, but concerns about EU regulations prevented it](https://appleinsider.com/articles/25/03/16/iphone-air-was-almost-portless-but-concerns-about-eu-regulations-prevented-it?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

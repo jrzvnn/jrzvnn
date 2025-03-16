@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [I can rest peacefully now](http://9gag.com/gag/amoGwLy)
- - 😝 [Troojan horses tries to get into Poland but Poland is too based for self-deestruction and self-invaasion](http://9gag.com/gag/a1mDjEb)
- - 💣 [What does it even smell like?](http://9gag.com/gag/aAyENvd)
- - 😝 [Back to sense](http://9gag.com/gag/avyeBRX)
- - 👉 [Rallying An Ambulance Through Traffic](http://9gag.com/gag/aPAPdbV)<!-- MEMES:END -->
+ - 😝 [Peace at last](http://9gag.com/gag/a5QBgzy)
+ - 😝 [Haven&#39;t seen this one yet](http://9gag.com/gag/apRD72n)
+ - 💣 [Could watch this sky the whole night and not get bored](http://9gag.com/gag/a87mOVV)
+ - 😝 [View of International Space Station](http://9gag.com/gag/aYQO5r2)
+ - 👉 [Tomato Girl](http://9gag.com/gag/aRBZGL2)<!-- MEMES:END -->
 
 ---
 

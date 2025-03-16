@@ -166,9 +166,9 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [It says a lot about society tbh](http://9gag.com/gag/aKG9LPQ)
- - 😝 [Do what you gotta do](http://9gag.com/gag/a87mnG1)
- - 💣 [This one for you , Gramps](http://9gag.com/gag/aqy8O6P)
+ - 😝 [Mangroves are saviors](http://9gag.com/gag/aYQOZyV)
+ - 😝 [It&#39;s true!](http://9gag.com/gag/avyeXNb)
+ - 💣 [Is your mom single?](http://9gag.com/gag/aoyVd32)
  - 😝 [Little dictator using forbidden gun against own citizens in Serbia](http://9gag.com/gag/aAyE72L)
  - 👉 [The most important one](http://9gag.com/gag/awym9Or)<!-- MEMES:END -->
 

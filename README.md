@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [It\u2019s trivial but I need the music title :&rpar;](http://9gag.com/gag/ajPOjX8)
- - 😝 [Do what you gotta do](http://9gag.com/gag/a87mnG1)
- - 💣 [Pull up to the bumper](http://9gag.com/gag/a7oemxr)
- - 😝 [Coffee apotheosis](http://9gag.com/gag/aMVmDXW)
- - 👉 [I want those glasses for driving](http://9gag.com/gag/amoGKA9)<!-- MEMES:END -->
+ - 😝 [What&#39;s sorcery is this?](http://9gag.com/gag/aVvErXd)
+ - 😝 [Have You Tried Confidence?!?!](http://9gag.com/gag/aNDv2w4)
+ - 💣 [Miss my grandma](http://9gag.com/gag/a9yvNeL)
+ - 😝 [The story has come to an end \ud83d\ude2d](http://9gag.com/gag/aVvE4LO)
+ - 👉 [Around 1 milion people protesting in Serbia against corrupted covernment, if we succeed, drinks are on me.](http://9gag.com/gag/ae9OE2B)<!-- MEMES:END -->
 
 ---
 

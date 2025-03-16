@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Guy makes girl cry after taking last ride](http://9gag.com/gag/aAyEAWp)
- - 😝 [Gory!](http://9gag.com/gag/aRBZGr7)
- - 💣 [It\u2019s always them](http://9gag.com/gag/a9yveeo)
+ - 😝 [How many do you recognize?](http://9gag.com/gag/aYQO6EN)
+ - 😝 [What does it even smell like?](http://9gag.com/gag/aAyENvd)
+ - 💣 [Whe U meet your celebrity crush](http://9gag.com/gag/a5QB90y)
  - 😝 [Only once in the lifetime](http://9gag.com/gag/aMVm7LM)
- - 👉 [Whe U meet your celebrity crush](http://9gag.com/gag/a5QB90y)<!-- MEMES:END -->
+ - 👉 [When your amazon delivery woman loves her job!](http://9gag.com/gag/aXPNzOd)<!-- MEMES:END -->
 
 ---
 

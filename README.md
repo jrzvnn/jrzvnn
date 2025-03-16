@@ -167,10 +167,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [Back to sense](http://9gag.com/gag/avyeBRX)
- - 😝 [The most important one](http://9gag.com/gag/awym9Or)
- - 💣 [The seamen group chat seems lit.](http://9gag.com/gag/apRDzP5)
- - 😝 [This one for you , Gramps](http://9gag.com/gag/aqy8O6P)
- - 👉 [Little dictator using forbidden gun against own citizens in Serbia](http://9gag.com/gag/aAyE72L)<!-- MEMES:END -->
+ - 😝 [A dying race](http://9gag.com/gag/awym8AW)
+ - 💣 [Poland](http://9gag.com/gag/aoyVd5g)
+ - 😝 [Do what you gotta do](http://9gag.com/gag/a87mnG1)
+ - 👉 [Whe U meet your celebrity crush](http://9gag.com/gag/a5QB90y)<!-- MEMES:END -->
 
 ---
 

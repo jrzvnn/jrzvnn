@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [House Judiciary Committee subpoenas Apple over AI censorship](https://appleinsider.com/articles/25/03/16/house-judiciary-committee-subpoenas-apple-over-ai-censorship?utm_medium=rss)
  - [Trump’s first 100 days: all the news affecting the tech industry](https://www.theverge.com/24348851/donald-trump-presidency-tech-science-news)
  - [The head of a Biden program that could help rural broadband has left](https://www.theverge.com/news/630954/rural-broadband-equity-program-head-leaves-trump-musk-starlink)
  - [A look at the growing battle over how to define a podcast, as YouTube pushes deeper into podcasting and Spotify pursues video &lpar;Ashley Carman/Bloomberg&rpar;](http://www.techmeme.com/250316/p11#a250316p11)
- - [La Liga Soccer Livestream: How to Watch Atlético Madrid vs. Barcelona From Anywhere](https://www.cnet.com/tech/services-and-software/la-liga-soccer-livestream-how-to-watch-atletico-madrid-vs-barcelona-from-anywhere/#ftag=CAD590a51e)
- - [NASA’s Crew-10 mission lifts off as the Starliner astronauts prepare to come home](https://www.theverge.com/news/628311/nasa-crew-10-mission-starliner-astronauts-return-spacex)<!-- TECH:END -->
+ - [La Liga Soccer Livestream: How to Watch Atlético Madrid vs. Barcelona From Anywhere](https://www.cnet.com/tech/services-and-software/la-liga-soccer-livestream-how-to-watch-atletico-madrid-vs-barcelona-from-anywhere/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

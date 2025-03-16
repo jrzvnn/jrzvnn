@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Peace at last](http://9gag.com/gag/a5QBgzy)
- - 😝 [Haven&#39;t seen this one yet](http://9gag.com/gag/apRD72n)
- - 💣 [Could watch this sky the whole night and not get bored](http://9gag.com/gag/a87mOVV)
- - 😝 [View of International Space Station](http://9gag.com/gag/aYQO5r2)
- - 👉 [Tomato Girl](http://9gag.com/gag/aRBZGL2)<!-- MEMES:END -->
+ - 😝 [Guy makes girl cry after taking last ride](http://9gag.com/gag/aAyEAWp)
+ - 😝 [Gory!](http://9gag.com/gag/aRBZGr7)
+ - 💣 [It\u2019s always them](http://9gag.com/gag/a9yveeo)
+ - 😝 [Only once in the lifetime](http://9gag.com/gag/aMVm7LM)
+ - 👉 [Whe U meet your celebrity crush](http://9gag.com/gag/a5QB90y)<!-- MEMES:END -->
 
 ---
 

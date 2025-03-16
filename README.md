@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Amazon to kill Echo&#39;s local voice processing feature in favor of Voice ID [u]](https://appleinsider.com/articles/25/03/15/amazon-to-kill-echos-local-voice-processing-feature-in-favor-of-voice-id?utm_medium=rss)
  - [CoreWeave&#39;s upcoming IPO in a soft IPO market serves as a bellwether for both the tech industry and how the public market perceives AI in the years ahead &lpar;Rachyl Jones/Semafor&rpar;](http://www.techmeme.com/250316/p12#a250316p12)
  - [Roblox: all the news about the popular social and gaming platform](https://www.theverge.com/23864790/roblox-news-announcements-updates)
- - [Trump’s first 100 days: all the news affecting the tech industry](https://www.theverge.com/24348851/donald-trump-presidency-tech-science-news)
- - [The head of a Biden program that could help rural broadband has left](https://www.theverge.com/news/630954/rural-broadband-equity-program-head-leaves-trump-musk-starlink)
- - [House Judiciary Committee subpoenas Apple over AI censorship](https://appleinsider.com/articles/25/03/16/house-judiciary-committee-subpoenas-apple-over-ai-censorship?utm_medium=rss)<!-- TECH:END -->
+ - [NASA Crew-10 Has Docked at ISS to Relieve &#39;Stranded&#39; Astronauts](https://www.cnet.com/science/nasa-crew-10-is-on-the-way-to-relieve-stranded-astronauts-suni-williams-and-butch-wilmore/#ftag=CAD590a51e)
+ - [NASA Crew-10 Celebrates ISS Arrival With &#39;Stranded&#39; Astronauts](https://www.cnet.com/science/nasa-crew-10-celebrates-iss-arrival-with-stranded-astronauts/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

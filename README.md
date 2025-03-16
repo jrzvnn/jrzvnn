@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Joby will launch UK air taxi service with Virgin Atlantic](https://www.theverge.com/news/629857/joby-virgin-atlantic-air-taxi-uk)
+ - [Air taxis: the latest on the flying electric cars bringing the Jetsons dream to life](https://www.theverge.com/24279586/air-taxis-flying-electric-car-vtol-evtol)
+ - [Apple quietly launches new app to help firms improve Apple Maps](https://appleinsider.com/articles/25/03/15/apple-quietly-launches-new-app-to-help-firms-improve-apple-maps?utm_medium=rss)
  - [Trump’s first 100 days: all the news affecting the tech industry](https://www.theverge.com/24348851/donald-trump-presidency-tech-science-news)
- - [A DOGE staffer broke Treasury policy by emailing unencrypted personal data](https://www.theverge.com/news/630894/doge-treasury-lawsuit-marko-elez-unencrypted-emails)
- - [Google&#39;s Gemma 3 and Cohere&#39;s Command A, which require just one or two Nvidia AI chips to run, hint at an industry-wide push for more efficient AI software &lpar;Rachel Metz/Bloomberg&rpar;](http://www.techmeme.com/250315/p14#a250315p14)
- - [Best Internet Providers in Grand Rapids, Michigan](https://www.cnet.com/home/internet/best-internet-providers-in-grand-rapids-mi/#ftag=CAD590a51e)
- - [Sonos is still trying to figure out why everyone hates its app](https://www.theverge.com/news/630883/sonos-update-new-features-future-updates)<!-- TECH:END -->
+ - [A DOGE staffer broke Treasury policy by emailing unencrypted personal data](https://www.theverge.com/news/630894/doge-treasury-lawsuit-marko-elez-unencrypted-emails)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

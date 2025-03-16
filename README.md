@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The real threat of AI models training on open-access material is that they may bleed free repositories dry by draining resources and not providing attribution &lpar;Molly White/Citation Needed&rpar;](http://www.techmeme.com/250315/p15#a250315p15)
  - [Joby will launch UK air taxi service with Virgin Atlantic](https://www.theverge.com/news/629857/joby-virgin-atlantic-air-taxi-uk)
  - [Air taxis: the latest on the flying electric cars bringing the Jetsons dream to life](https://www.theverge.com/24279586/air-taxis-flying-electric-car-vtol-evtol)
  - [Apple quietly launches new app to help firms improve Apple Maps](https://appleinsider.com/articles/25/03/15/apple-quietly-launches-new-app-to-help-firms-improve-apple-maps?utm_medium=rss)
- - [Trump’s first 100 days: all the news affecting the tech industry](https://www.theverge.com/24348851/donald-trump-presidency-tech-science-news)
- - [A DOGE staffer broke Treasury policy by emailing unencrypted personal data](https://www.theverge.com/news/630894/doge-treasury-lawsuit-marko-elez-unencrypted-emails)<!-- TECH:END -->
+ - [Trump’s first 100 days: all the news affecting the tech industry](https://www.theverge.com/24348851/donald-trump-presidency-tech-science-news)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -168,9 +168,9 @@ R                        1 repo              ░░░░░░░░░░░�
 <!-- MEMES:START -->
  - 😝 [Have You Tried Confidence?!?!](http://9gag.com/gag/aNDv2w4)
  - 😝 [The story has come to an end \ud83d\ude2d](http://9gag.com/gag/aVvE4LO)
- - 💣 [Around 1 milion people protesting in Serbia against corrupted covernment, if we succeed, drinks are on me.](http://9gag.com/gag/ae9OE2B)
- - 😝 [Miss my grandma](http://9gag.com/gag/a9yvNeL)
- - 👉 [That&#39;s a little funny](http://9gag.com/gag/amoGyx4)<!-- MEMES:END -->
+ - 💣 [Miss my grandma](http://9gag.com/gag/a9yvNeL)
+ - 😝 [Around 1 milion people protesting in Serbia against corrupted covernment, if we succeed, drinks are on me.](http://9gag.com/gag/ae9OE2B)
+ - 👉 [People in Serbia want Vucic out. Mordor is losing its influence](http://9gag.com/gag/aLne30V)<!-- MEMES:END -->
 
 ---
 

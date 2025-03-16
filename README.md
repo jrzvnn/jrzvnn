@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [I can rest peacefully now](http://9gag.com/gag/amoGwLy)
+ - 😝 [Troojan horses tries to get into Poland but Poland is too based for self-deestruction and self-invaasion](http://9gag.com/gag/a1mDjEb)
+ - 💣 [What does it even smell like?](http://9gag.com/gag/aAyENvd)
  - 😝 [Back to sense](http://9gag.com/gag/avyeBRX)
- - 😝 [Spiderwoman](http://9gag.com/gag/aXPNzzP)
- - 💣 [This one for you , Gramps](http://9gag.com/gag/aqy8O6P)
- - 😝 [Idiot](http://9gag.com/gag/axyvwLn)
- - 👉 [Whe U meet your celebrity crush](http://9gag.com/gag/a5QB90y)<!-- MEMES:END -->
+ - 👉 [Rallying An Ambulance Through Traffic](http://9gag.com/gag/aPAPdbV)<!-- MEMES:END -->
 
 ---
 

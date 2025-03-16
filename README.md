@@ -166,10 +166,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Gory!](http://9gag.com/gag/aRBZGr7)
- - 😝 [Little dictator using forbidden gun against own citizens in Serbia](http://9gag.com/gag/aAyE72L)
- - 💣 [Colonising intensifies](http://9gag.com/gag/axyvQEK)
  - 😝 [Guy makes girl cry after taking last ride](http://9gag.com/gag/aAyEAWp)
+ - 😝 [Idiot](http://9gag.com/gag/axyvwLn)
+ - 💣 [Gory!](http://9gag.com/gag/aRBZGr7)
+ - 😝 [These guys trying to escape](http://9gag.com/gag/aD2n5eB)
  - 👉 [Sound Cannon &lpar;LRAD&rpar; Used By The Serbian Police &lpar;Half Million Protestors&rpar;](http://9gag.com/gag/azxPzpx)<!-- MEMES:END -->
 
 ---

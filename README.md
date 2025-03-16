@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [NASA’s Crew-10 mission lifts off as the Starliner astronauts prepare to come home](https://www.theverge.com/news/628311/nasa-crew-10-mission-starliner-astronauts-return-spacex)
  - [Leaked iPhone 17 metal molds show off inbound camera bumps](https://appleinsider.com/articles/25/03/16/leaked-iphone-17-metal-molds-show-off-inbound-camera-bumps?utm_medium=rss)
  - [Directors Anthony and Joe Russo say they&#39;re building a high-tech studio aiming to help artists use AI as a creative tool to make films, shows, and video games &lpar;Christopher Mims/Wall Street Journal&rpar;](http://www.techmeme.com/250316/p10#a250316p10)
  - [Ofcom will enforce rules under the UK&#39;s Online Safety Act, designed to protect internet users from illegal content and harmful activity online, from March 17 &lpar;Daniel Thomas/Financial Times&rpar;](http://www.techmeme.com/250316/p9#a250316p9)
- - [How to Watch &#39;American Idol&#39; 2025: Stream Season 23](https://www.cnet.com/tech/services-and-software/how-to-watch-american-idol-2025-stream-season-23/#ftag=CAD590a51e)
- - [Apple&#39;s iOS 19, macOS 16 overhauls aimed at ease of use](https://appleinsider.com/articles/25/03/16/apples-ios-19-macos-16-overhauls-aimed-at-ease-of-use?utm_medium=rss)<!-- TECH:END -->
+ - [How to Watch &#39;American Idol&#39; 2025: Stream Season 23](https://www.cnet.com/tech/services-and-software/how-to-watch-american-idol-2025-stream-season-23/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -158,10 +158,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- TECH:START -->
  - [How to Clean a Toaster Oven:  Tips and Tricks](https://www.wired.com/story/how-to-clean-a-toaster-oven/)
+ - [13 Epic Sci-Fi Shows You Should Watch Immediately On Apple TV Plus](https://www.cnet.com/tech/services-and-software/best-apple-tv-plus-sci-fi-shows-2025/#ftag=CAD590a51e)
  - [Undergraduate Upends a 40-Year-Old Data Science Conjecture](https://www.wired.com/story/undergraduate-upends-a-40-year-old-data-science-conjecture/)
- - [Etsy and eBay are starting to embrace tactics popularized by social media platforms, such as algorithm-based personalization, as a way to stay relevant &lpar;Katherine Hamilton/Wall Street Journal&rpar;](http://www.techmeme.com/250316/p5#a250316p5)
- - [I Couldn’t Decide Between Cable and Fiber Internet. Here’s What Helped](https://www.cnet.com/home/internet/i-couldnt-decide-between-cable-and-fiber-internet-heres-what-helped/#ftag=CAD590a51e)
- - [Is Sony&#39;s New RGB Backlight Tech Finally an Answer to OLED?](https://www.cnet.com/tech/home-entertainment/is-sonys-new-rgb-backlight-tech-finally-an-answer-to-oled/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Meet the AI Fraud Fighters: A Deepfake Granny, Digital Bots and a YouTube Star](https://www.cnet.com/personal-finance/features/meet-the-ai-fraud-fighters-a-deepfake-granny-digital-bots-and-a-youtube-star/#ftag=CAD590a51e)
+ - [Best Immunity Supplements for 2025](https://www.cnet.com/health/nutrition/best-immunity-supplements/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

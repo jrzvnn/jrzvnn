@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Little dictator using forbidden gun against own citizens in Serbia](http://9gag.com/gag/aAyE72L)
- - 😝 [When you thought it was some zebra dong.](http://9gag.com/gag/awymPyr)
- - 💣 [Do what you gotta do](http://9gag.com/gag/a87mnG1)
- - 😝 [Trump Windjammed](http://9gag.com/gag/a2v8gPE)
- - 👉 [Is your mom single?](http://9gag.com/gag/aoyVd32)<!-- MEMES:END -->
+ - 😝 [Nickelodeon time capsule filled with 90&#39;s toys](http://9gag.com/gag/agmOdzw)
+ - 😝 [It\u2019s always them](http://9gag.com/gag/a9yveeo)
+ - 💣 [Whe U meet your celebrity crush](http://9gag.com/gag/a5QB90y)
+ - 😝 [Poland](http://9gag.com/gag/aoyVd5g)
+ - 👉 [Do what you gotta do](http://9gag.com/gag/a87mnG1)<!-- MEMES:END -->
 
 ---
 

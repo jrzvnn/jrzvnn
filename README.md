@@ -158,10 +158,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- TECH:START -->
  - [Current and former Meta employees describe how Joel Kaplan has risen over the past decade to become Mark Zuckerberg&#39;s most trusted political fixer &lpar;Financial Times&rpar;](http://www.techmeme.com/250316/p2#a250316p2)
+ - [NASA Crew-10 Has Docked at ISS to Relieve &#39;Stranded&#39; Astronauts](https://www.cnet.com/science/nasa-crew-10-is-on-the-way-to-relieve-stranded-astronauts-suni-williams-and-butch-wilmore/#ftag=CAD590a51e)
  - [Baidu releases Ernie X1, an AI model that articulates its reasoning similar to DeepSeek R1, and upgrades its flagship foundation model to Ernie 4.5 &lpar;Bloomberg&rpar;](http://www.techmeme.com/250316/p1#a250316p1)
  - [Garry Tan says ~80% of YC&#39;s W25 batch is AI focused and the cohort is growing significantly faster than past ones, with actual revenue, thanks to &quot;vibe coding&quot; &lpar;Kate Rooney/CNBC&rpar;](http://www.techmeme.com/250315/p17#a250315p17)
- - [Today&#39;s NYT Mini Crossword Answers for Sunday, March 16](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-sunday-march-16/#ftag=CAD590a51e)
- - [Bluesky proposes letting users indicate if their data can be used for AI training, web archiving, and more; critics see it as a reversal of its prior statements &lpar;Anthony Ha/TechCrunch&rpar;](http://www.techmeme.com/250315/p16#a250315p16)<!-- TECH:END -->
+ - [Today&#39;s NYT Mini Crossword Answers for Sunday, March 16](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-sunday-march-16/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

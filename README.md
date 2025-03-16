@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [A look at the growing battle over how to define a podcast, as YouTube pushes deeper into podcasting and Spotify pursues video &lpar;Ashley Carman/Bloomberg&rpar;](http://www.techmeme.com/250316/p11#a250316p11)
  - [Trump’s first 100 days: all the news affecting the tech industry](https://www.theverge.com/24348851/donald-trump-presidency-tech-science-news)
+ - [La Liga Soccer Livestream: How to Watch Atlético Madrid vs. Barcelona From Anywhere](https://www.cnet.com/tech/services-and-software/la-liga-soccer-livestream-how-to-watch-atletico-madrid-vs-barcelona-from-anywhere/#ftag=CAD590a51e)
  - [NASA’s Crew-10 mission lifts off as the Starliner astronauts prepare to come home](https://www.theverge.com/news/628311/nasa-crew-10-mission-starliner-astronauts-return-spacex)
- - [Leaked iPhone 17 metal molds show off inbound camera bumps](https://appleinsider.com/articles/25/03/16/leaked-iphone-17-metal-molds-show-off-inbound-camera-bumps?utm_medium=rss)
- - [Directors Anthony and Joe Russo say they&#39;re building a high-tech studio aiming to help artists use AI as a creative tool to make films, shows, and video games &lpar;Christopher Mims/Wall Street Journal&rpar;](http://www.techmeme.com/250316/p10#a250316p10)
- - [&#39;Anora&#39;: When to Watch the Oscar-Winning Movie on Hulu](https://www.cnet.com/tech/services-and-software/anora-when-to-watch-the-oscar-winning-movie-on-hulu/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Leaked iPhone 17 metal molds show off inbound camera bumps](https://appleinsider.com/articles/25/03/16/leaked-iphone-17-metal-molds-show-off-inbound-camera-bumps?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

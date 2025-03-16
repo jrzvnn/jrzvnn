@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Lydia Mugambe, a UN Judge who overseer cases against human trafficking and slavery... was arrested and convicted for... slavery.](http://9gag.com/gag/aryArPB)
- - 😝 [Guy makes girl cry after taking last ride](http://9gag.com/gag/aAyEAWp)
- - 💣 [Gory!](http://9gag.com/gag/aRBZGr7)
- - 😝 [Made me chuckle](http://9gag.com/gag/aByLer1)
- - 👉 [Idiot](http://9gag.com/gag/axyvwLn)<!-- MEMES:END -->
+ - 😝 [Colonising intensifies](http://9gag.com/gag/axyvQEK)
+ - 😝 [Gory!](http://9gag.com/gag/aRBZGr7)
+ - 💣 [Lydia Mugambe, a UN Judge who overseer cases against human trafficking and slavery... was arrested and convicted for... slavery.](http://9gag.com/gag/aryArPB)
+ - 😝 [Sound Cannon &lpar;LRAD&rpar; Used By The Serbian Police &lpar;Half Million Protestors&rpar;](http://9gag.com/gag/azxPzpx)
+ - 👉 [How GTA girls be walking](http://9gag.com/gag/a9yv0oL)<!-- MEMES:END -->
 
 ---
 

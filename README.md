@@ -159,9 +159,9 @@ R                        1 repo              ░░░░░░░░░░░�
 <!-- TECH:START -->
  - [Baidu releases Ernie X1, an AI model that articulates its reasoning similar to DeepSeek R1, and upgrades its flagship foundation model to Ernie 4.5 &lpar;Bloomberg&rpar;](http://www.techmeme.com/250316/p1#a250316p1)
  - [Garry Tan says ~80% of YC&#39;s W25 batch is AI focused and the cohort is growing significantly faster than past ones, with actual revenue, thanks to &quot;vibe coding&quot; &lpar;Kate Rooney/CNBC&rpar;](http://www.techmeme.com/250315/p17#a250315p17)
+ - [Today&#39;s NYT Mini Crossword Answers for Sunday, March 16](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-sunday-march-16/#ftag=CAD590a51e)
  - [Bluesky proposes letting users indicate if their data can be used for AI training, web archiving, and more; critics see it as a reversal of its prior statements &lpar;Anthony Ha/TechCrunch&rpar;](http://www.techmeme.com/250315/p16#a250315p16)
- - [The real threat of AI models training on open-access material is that they may bleed free repositories dry by draining resources and not providing attribution &lpar;Molly White/Citation Needed&rpar;](http://www.techmeme.com/250315/p15#a250315p15)
- - [Joby will launch UK air taxi service with Virgin Atlantic](https://www.theverge.com/news/629857/joby-virgin-atlantic-air-taxi-uk)<!-- TECH:END -->
+ - [The real threat of AI models training on open-access material is that they may bleed free repositories dry by draining resources and not providing attribution &lpar;Molly White/Citation Needed&rpar;](http://www.techmeme.com/250315/p15#a250315p15)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

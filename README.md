@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Trust issues](http://9gag.com/gag/a34AgYe)
- - 😝 [Gory!](http://9gag.com/gag/aRBZGr7)
- - 💣 [Whe U meet your celebrity crush](http://9gag.com/gag/a5QB90y)
- - 😝 [Little dictator using forbidden gun against own citizens in Serbia](http://9gag.com/gag/aAyE72L)
- - 👉 [When your amazon delivery woman loves her job!](http://9gag.com/gag/aXPNzOd)<!-- MEMES:END -->
+ - 😝 [Spiderwoman](http://9gag.com/gag/aXPNzzP)
+ - 😝 [You could use more practice, honey](http://9gag.com/gag/a6Z9zW9)
+ - 💣 [It\u2019s always them](http://9gag.com/gag/a9yveeo)
+ - 😝 [Back to sense](http://9gag.com/gag/avyeBRX)
+ - 👉 [Gory!](http://9gag.com/gag/aRBZGr7)<!-- MEMES:END -->
 
 ---
 

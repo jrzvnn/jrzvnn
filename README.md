@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Whe U meet your celebrity crush](http://9gag.com/gag/a5QB90y)
- - 😝 [So banana without B is pineapple](http://9gag.com/gag/agmOd06)
- - 💣 [Im here, who ordered hot single male?](http://9gag.com/gag/aXPNQr2)
- - 😝 [A dying race](http://9gag.com/gag/awym8AW)
- - 👉 [Of course](http://9gag.com/gag/aGy8ogK)<!-- MEMES:END -->
+ - 😝 [Back to sense](http://9gag.com/gag/avyeBRX)
+ - 😝 [Of course](http://9gag.com/gag/aGy8ogK)
+ - 💣 [IMAX ENHANCED](http://9gag.com/gag/a2v8x1d)
+ - 😝 [What is going on](http://9gag.com/gag/avyeD2M)
+ - 👉 [The most important one](http://9gag.com/gag/awym9Or)<!-- MEMES:END -->
 
 ---
 

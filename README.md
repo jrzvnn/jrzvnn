@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Walmart&#39;s OnePay says Klarna will replace Affirm to offer buy-now-pay-later to US shoppers later in 2025, and OnePay can buy a Klarna stake; AFRM drops 10%+ &lpar;Hugh Son/CNBC&rpar;](http://www.techmeme.com/250317/p14#a250317p14)
- - [Google is switching legacy G Suite users to pooled Workspace storage](https://www.theverge.com/news/631058/google-g-suite-legacy-pooled-workspace-storage-update)
- - [Bambu Lab launches 3D-printable toys with reusable, programmable electronics](https://www.theverge.com/news/631060/bambu-labs-makerworld-cyberbrick-3d-printed-toys-programmable-kickstarter)
- - [HR service Rippling sues rival Deel, accusing it of hiring a mole in its Dublin office to comb through trade secrets, discovered via a &quot;honeypot&quot; Slack channel &lpar;New York Times&rpar;](http://www.techmeme.com/250317/p13#a250317p13)
- - [Apple&#39;s India manufacturing efforts expands to AirPods](https://appleinsider.com/articles/25/03/17/apples-india-manufacturing-efforts-expands-to-airpods?utm_medium=rss)<!-- TECH:END -->
+ - [Discord is plugging directly into games](https://www.theverge.com/news/630823/discord-social-directly-games-sdk)
+ - [The OneXSugar asks: what if Nintendo Switch could transform into Nintendo DS?](https://www.theverge.com/news/631005/qualcomm-snapdragon-g3-gen-3-onexsugar-handheld-ayaneo-pocket)
+ - [Apple mysteriously drops $23 million lawsuit against recycler accused of stealing iPhones](https://appleinsider.com/articles/25/03/17/apple-mysteriously-drops-23-million-lawsuit-against-recycler-accused-of-stealing-iphones?utm_medium=rss)
+ - [7 Best Video Doorbell Cameras &lpar;2025&rpar;: Smart, Battery, AI, Budget, and Subscription-Free](https://www.wired.com/gallery/best-video-doorbells/)
+ - [Walmart&#39;s OnePay says Klarna will replace Affirm to offer buy-now-pay-later to US shoppers later in 2025, and OnePay can buy a Klarna stake; AFRM drops 10%+ &lpar;Hugh Son/CNBC&rpar;](http://www.techmeme.com/250317/p14#a250317p14)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

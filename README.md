@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Foldable iPhone and iPad will both launch in 2026, says analyst](https://appleinsider.com/articles/25/03/17/foldable-iphone-and-ipad-will-both-launch-in-2026-says-analyst?utm_medium=rss)
  - [An interview with Snap CEO Evan Spiegel on Snap&#39;s fifth-generation smart glasses, unveiled in September 2024, competing with Apple and Meta, Snap OS, and more &lpar;Austin Carr/Bloomberg&rpar;](http://www.techmeme.com/250317/p11#a250317p11)
  - [Alphabet spins off laser-based internet company Taara from its X &quot;moonshot&quot; incubator; Taara, which raised new funding, has its origins in Loon, closed in 2021 &lpar;Stephen Morris/Financial Times&rpar;](http://www.techmeme.com/250317/p10#a250317p10)
  - [Best Internet Providers in Lexington, Kentucky](https://www.cnet.com/home/internet/best-internet-providers-in-lexington-ky/#ftag=CAD590a51e)
- - [9 Helpful Health Features You Didn&#39;t Know Exist on the Apple Watch](https://www.cnet.com/health/medical/helpful-health-features-didnt-know-exist-apple-watch/#ftag=CAD590a51e)
- - [Proofread, Rewrite and Edit Messages With Apple Intelligence on iPhone](https://www.cnet.com/tech/services-and-software/proofread-rewrite-and-edit-messages-with-apple-intelligence-on-iphone/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [9 Helpful Health Features You Didn&#39;t Know Exist on the Apple Watch](https://www.cnet.com/health/medical/helpful-health-features-didnt-know-exist-apple-watch/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Happy Sunday](http://9gag.com/gag/aLne7QW)
- - 😝 [Is the big woman still here...](http://9gag.com/gag/aD2neOB)
+ - 😝 [What&#39;s happened UK?](http://9gag.com/gag/a0eVrXv)
+ - 😝 [It\u2019s always them](http://9gag.com/gag/a9yveeo)
  - 💣 [When an Australian Globemaster aircraft thought it would be a good idea to fly between buildings during an air show.](http://9gag.com/gag/axyvL5b)
- - 😝 [How GTA girls be walking](http://9gag.com/gag/a9yv0oL)
- - 👉 [Halo music...](http://9gag.com/gag/aD2nKgZ)<!-- MEMES:END -->
+ - 😝 [Only once in the lifetime](http://9gag.com/gag/aMVm7LM)
+ - 👉 [When walking in nature with a tent, do not forget to close the doors. Wild cats are very curious.](http://9gag.com/gag/ayN4woX)<!-- MEMES:END -->
 
 ---
 

@@ -167,10 +167,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [So flimsy](http://9gag.com/gag/adBOzGN)
- - 😝 [I&#39;m not sure which toilet to use](http://9gag.com/gag/aYQO6eV)
+ - 😝 [What&#39;s happened UK?](http://9gag.com/gag/a0eVrXv)
  - 💣 [Apron](http://9gag.com/gag/abAONM9)
- - 😝 [Truck brake fail when descending a narrow hill](http://9gag.com/gag/aGy8QeG)
- - 👉 [Only once in the lifetime](http://9gag.com/gag/aMVm7LM)<!-- MEMES:END -->
+ - 😝 [Only once in the lifetime](http://9gag.com/gag/aMVm7LM)
+ - 👉 [Truck brake fail when descending a narrow hill](http://9gag.com/gag/aGy8QeG)<!-- MEMES:END -->
 
 ---
 

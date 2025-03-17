@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [My favorite 3D vision tshirt](http://9gag.com/gag/aD2nerZ)
- - 😝 [How to properly kill a tomato](http://9gag.com/gag/a87mgjY)
- - 💣 [Is the big woman still here...](http://9gag.com/gag/aD2neOB)
- - 😝 [Made me chuckle](http://9gag.com/gag/aByLer1)
- - 👉 [Could watch this sky the whole night and not get bored](http://9gag.com/gag/a87mOVV)<!-- MEMES:END -->
+ - 😝 [Footage shows 16-year-old Sean Simpson breaking down in court after being denied bail and ordered to stand trial for murder as an adult. Sean Simpson was charged with killing 16-year-old Zaquavious Dawkins in a North Carolina shooting in Jan 2025.](http://9gag.com/gag/azxP3nK)
+ - 😝 [These guys trying to escape](http://9gag.com/gag/aD2n5eB)
+ - 💣 [I finally made it, I collected over 2000 returnable bottles to buy a ps5&lpar;in germany you get 25 cents per plastic bottle&rpar; it took me 42 days collecting between 2-3 hours a day. And I lost much weight.](http://9gag.com/gag/an7nmYB)
+ - 😝 [When walking in nature with a tent, do not forget to close the doors. Wild cats are very curious.](http://9gag.com/gag/ayN4woX)
+ - 👉 [Only once in the lifetime](http://9gag.com/gag/aMVm7LM)<!-- MEMES:END -->
 
 ---
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [So flimsy](http://9gag.com/gag/adBOzGN)
- - 😝 [What&#39;s happened UK?](http://9gag.com/gag/a0eVrXv)
- - 💣 [Apron](http://9gag.com/gag/abAONM9)
- - 😝 [Only once in the lifetime](http://9gag.com/gag/aMVm7LM)
- - 👉 [Truck brake fail when descending a narrow hill](http://9gag.com/gag/aGy8QeG)<!-- MEMES:END -->
+ - 😝 [Happy Sunday](http://9gag.com/gag/aLne7QW)
+ - 😝 [Is the big woman still here...](http://9gag.com/gag/aD2neOB)
+ - 💣 [When an Australian Globemaster aircraft thought it would be a good idea to fly between buildings during an air show.](http://9gag.com/gag/axyvL5b)
+ - 😝 [How GTA girls be walking](http://9gag.com/gag/a9yv0oL)
+ - 👉 [Halo music...](http://9gag.com/gag/aD2nKgZ)<!-- MEMES:END -->
 
 ---
 

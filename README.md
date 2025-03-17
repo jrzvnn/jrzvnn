@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: Turkey plans new EU-style rules to rein in major US tech companies, in a bill created by the ruling party and antitrust authority, risking a US clash &lpar;Firat Kozok/Bloomberg&rpar;](http://www.techmeme.com/250317/p12#a250317p12)
- - [Ireland is Apple&#39;s second home, says Tim Cook](https://appleinsider.com/articles/25/03/17/ireland-is-apples-second-home-says-tim-cook?utm_medium=rss)
- - [Spring Clean Your Tech: Where to Recycle Your Computers and Printers for Free](https://www.cnet.com/tech/computing/spring-clean-your-tech-where-to-recycle-your-computers-and-printers-for-free/#ftag=CAD590a51e)
- - [14 of the Best Sci-Fi Movies Available to Watch on Prime Video](https://www.cnet.com/tech/services-and-software/best-sci-fi-movies-on-prime-video-2025/#ftag=CAD590a51e)
- - [Starlink vs. T-Mobile Home Internet: Clash of the Broadband Disruptors](https://www.cnet.com/home/internet/starlink-vs-t-mobile-home-internet/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Walmart&#39;s OnePay says Klarna will replace Affirm to offer buy-now-pay-later to US shoppers later in 2025, and OnePay can buy a Klarna stake; AFRM drops 10%+ &lpar;Hugh Son/CNBC&rpar;](http://www.techmeme.com/250317/p14#a250317p14)
+ - [Google is switching legacy G Suite users to pooled Workspace storage](https://www.theverge.com/news/631058/google-g-suite-legacy-pooled-workspace-storage-update)
+ - [Bambu Lab launches 3D-printable toys with reusable, programmable electronics](https://www.theverge.com/news/631060/bambu-labs-makerworld-cyberbrick-3d-printed-toys-programmable-kickstarter)
+ - [HR service Rippling sues rival Deel, accusing it of hiring a mole in its Dublin office to comb through trade secrets, discovered via a &quot;honeypot&quot; Slack channel &lpar;New York Times&rpar;](http://www.techmeme.com/250317/p13#a250317p13)
+ - [Apple&#39;s India manufacturing efforts expands to AirPods](https://appleinsider.com/articles/25/03/17/apples-india-manufacturing-efforts-expands-to-airpods?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

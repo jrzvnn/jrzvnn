@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [They\u2019re not even trying to hide it.](http://9gag.com/gag/an7nPMq)
  - 😝 [`Ah yes, monster truck.... wait wtf`](http://9gag.com/gag/a7oeRQz)
- - 😝 [Chris P. Bacon](http://9gag.com/gag/aMVmoeP)
- - 💣 [Currently in Serbia](http://9gag.com/gag/aLneED6)
- - 😝 [Happy Sunday](http://9gag.com/gag/aLne7QW)
- - 👉 [Is the big woman still here...](http://9gag.com/gag/aD2neOB)<!-- MEMES:END -->
+ - 💣 [Only once in the lifetime](http://9gag.com/gag/aMVm7LM)
+ - 😝 [Footage shows 16-year-old Sean Simpson breaking down in court after being denied bail and ordered to stand trial for murder as an adult. Sean Simpson was charged with killing 16-year-old Zaquavious Dawkins in a North Carolina shooting in Jan 2025.](http://9gag.com/gag/azxP3nK)
+ - 👉 [Trump sent the 238 members of the Tren de Aragua gang captured in the USA to El Salvador\u2019s Prison. They arrived last night!](http://9gag.com/gag/axyvrwY)<!-- MEMES:END -->
 
 ---
 

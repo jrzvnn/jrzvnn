@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [A second angle proves that baton girl Alaila Everett hit her opponent with malicious intent](http://9gag.com/gag/aXPNORP)
- - 😝 [Idiot](http://9gag.com/gag/axyvwLn)
- - 💣 [Made me chuckle](http://9gag.com/gag/aByLer1)
- - 😝 [Exactly as I remember](http://9gag.com/gag/adBOwOd)
- - 👉 [Whe U meet your celebrity crush](http://9gag.com/gag/a5QB90y)<!-- MEMES:END -->
+ - 😝 [It\u2019s always them](http://9gag.com/gag/a9yveeo)
+ - 😝 [Chonky Pikachu was just something else \ud83e\udd23](http://9gag.com/gag/aKG9neb)
+ - 💣 [Suffering from success](http://9gag.com/gag/apRDnzM)
+ - 😝 [Whe U meet your celebrity crush](http://9gag.com/gag/a5QB90y)
+ - 👉 [They give me the money and I pay the rent. I tell them the owner is a family friend, they also get a friend\u2019s discount.](http://9gag.com/gag/ae9OEYW)<!-- MEMES:END -->
 
 ---
 

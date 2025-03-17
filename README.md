@@ -157,7 +157,7 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Trump’s first 100 days: all the news affecting the tech industry](https://www.theverge.com/24348851/donald-trump-presidency-tech-science-news)
+ - [CFPB workers are reinstated after a court order, but many still can’t work](https://www.theverge.com/news/631465/cfpb-probationary-employees-court-order-reinstatement)
  - [AI search is starting to kill Google’s ‘ten blue links’](https://www.theverge.com/ai-artificial-intelligence/631352/ai-search-adobe-analytics-google-perplexity-openai)
  - [Qualcomm unveils the Snapdragon G3 Gen 3, G2 Gen 2, and G1 Gen 2 for gaming handhelds, saying the G3 Gen 3 offers a CPU 30% faster than the previous generation &lpar;Zhiye Liu/Tom&#39;s Hardware&rpar;](http://www.techmeme.com/250317/p31#a250317p31)
  - [Snap updates Spectacles AR glasses to add GPS support for Lenses, improved hand tracking, an AR keyboard, and more &lpar;Andrew Liszewski/The Verge&rpar;](http://www.techmeme.com/250317/p30#a250317p30)

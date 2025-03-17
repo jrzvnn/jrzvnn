@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Repost #2025.7](http://9gag.com/gag/aQzQj77)
+ - 😝 [They\u2019re not even trying to hide it.](http://9gag.com/gag/an7nPMq)
  - 😝 [Only once in the lifetime](http://9gag.com/gag/aMVm7LM)
  - 💣 [When walking in nature with a tent, do not forget to close the doors. Wild cats are very curious.](http://9gag.com/gag/ayN4woX)
- - 😝 [Apron](http://9gag.com/gag/abAONM9)
- - 👉 [What\u2019s your favorite sound?](http://9gag.com/gag/aW4LXPA)<!-- MEMES:END -->
+ - 😝 [I finally made it, I collected over 2000 returnable bottles to buy a ps5&lpar;in germany you get 25 cents per plastic bottle&rpar; it took me 42 days collecting between 2-3 hours a day. And I lost much weight.](http://9gag.com/gag/an7nmYB)
+ - 👉 [Wtf](http://9gag.com/gag/axyv8rK)<!-- MEMES:END -->
 
 ---
 

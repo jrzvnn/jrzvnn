@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Whe U meet your celebrity crush](http://9gag.com/gag/a5QB90y)
- - 😝 [`Ah yes, monster truck.... wait wtf`](http://9gag.com/gag/a7oeRQz)
- - 💣 [Trump sent the 238 members of the Tren de Aragua gang captured in the USA to El Salvador\u2019s Prison. They arrived last night!](http://9gag.com/gag/axyvrwY)
- - 😝 [They give me the money and I pay the rent. I tell them the owner is a family friend, they also get a friend\u2019s discount.](http://9gag.com/gag/ae9OEYW)
- - 👉 [Wtf](http://9gag.com/gag/axyv8rK)<!-- MEMES:END -->
+ - 😝 [Chris P. Bacon](http://9gag.com/gag/aMVmoeP)
+ - 😝 [How to properly kill a tomato](http://9gag.com/gag/a87mgjY)
+ - 💣 [Made me chuckle](http://9gag.com/gag/aByLer1)
+ - 😝 [Could watch this sky the whole night and not get bored](http://9gag.com/gag/a87mOVV)
+ - 👉 [Currently in Serbia](http://9gag.com/gag/aLneED6)<!-- MEMES:END -->
 
 ---
 

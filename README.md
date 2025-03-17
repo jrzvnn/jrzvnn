@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [All the smart home news, reviews, and gadgets you need to know about](https://www.theverge.com/24190824/smart-home-news-reviews-guides-gadgets)
- - [Zoom unveils AI Companion updates to add agentic AI features, including calendar management, meeting tools, and document creation, rolling out by July 2025 &lpar;Sean Michael Kerner/VentureBeat&rpar;](http://www.techmeme.com/250317/p18#a250317p18)
- - [Trump’s first 100 days: all the news affecting the tech industry](https://www.theverge.com/24348851/donald-trump-presidency-tech-science-news)
- - [Sources: Intel&#39;s new CEO Lip-Bu Tan has considered restructuring Intel&#39;s AI approach and cutting staff to address a slow and bloated middle management layer &lpar;Max A. Cherney/Reuters&rpar;](http://www.techmeme.com/250317/p17#a250317p17)
- - [Roblox’s new AI model can generate 3D objects](https://www.theverge.com/news/630977/roblox-cube-3d-objects-mesh-ai-text-prompt)<!-- TECH:END -->
+ - [Roblox open sources Cube 3D, the first version of its foundational AI model for generating 3D objects, using licensed and public datasets and its own data &lpar;Jay Peters/The Verge&rpar;](http://www.techmeme.com/250317/p20#a250317p20)
+ - [How to Shop for Vinyl Records Online &lpar;2025&rpar;: Discogs, Ebay](https://www.wired.com/story/how-to-shop-for-vinyl-online/)
+ - [Xbox 360 consoles can now be hacked with just a USB key](https://www.theverge.com/news/631102/xbox-360-hack-homebrew-badupdate-exploit-usb)
+ - [How Trump&amp;#8217;s tariff chaos is already changing global trade](https://www.theverge.com/decoder-podcast-with-nilay-patel/631082/trump-tariffs-iphone-altana-ceo-evan-smith-interview)
+ - [Robinhood partners with Kalshi to launch a prediction markets hub in the US for retail traders, starting with bets on the federal funds rate and March Madness &lpar;Paige Smith/Bloomberg&rpar;](http://www.techmeme.com/250317/p19#a250317p19)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

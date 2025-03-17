@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Crusoe, a startup helping build the first data center for Stargate, says it secured a deal with a gas turbine owner to generate 4.5 gigawatts of energy by 2027 &lpar;Anissa Gardizy/The Information&rpar;](http://www.techmeme.com/250317/p2#a250317p2)
  - [Some developers say licenses for &quot;open&quot; AI models like Google&#39;s Gemma and Meta&#39;s Llama have limits that restrict commercial use without fear of legal reprisal &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/250317/p1#a250317p1)
  - [Today&#39;s NYT Connections: Sports Edition Hints and Answers for March 16, #174](https://www.cnet.com/tech/gaming/todays-nyt-connections-sports-edition-hints-and-answers-for-march-16-174/#ftag=CAD590a51e)
  - [Today&#39;s NYT Mini Crossword Answers for Monday, March 17](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-monday-march-17/#ftag=CAD590a51e)
- - [Today&#39;s NYT Connections: Sports Edition Hints and Answers for March 17, #175](https://www.cnet.com/tech/gaming/todays-nyt-connections-sports-edition-hints-and-answers-for-march-17-175/#ftag=CAD590a51e)
- - [Dude Perfect and Mark Rober may be the next YouTubers to get big streaming deals](https://www.theverge.com/streaming-wars/630997/youtube-dude-perfect-mark-rober-youtubers-netflix-amazon-deals)<!-- TECH:END -->
+ - [Today&#39;s NYT Connections: Sports Edition Hints and Answers for March 17, #175](https://www.cnet.com/tech/gaming/todays-nyt-connections-sports-edition-hints-and-answers-for-march-17-175/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -157,9 +157,9 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Source: Liam Fedus, VP of research in charge of post-training at OpenAI, is leaving the company to found a startup focused on using AI to discover new materials &lpar;The Information&rpar;](http://www.techmeme.com/250317/p27#a250317p27)
  - [Great savings on the EcoFlow Delta Pro 3, which will keep your home powered](https://www.theverge.com/good-deals/631237/ecoflow-delta-3-pro-power-station-apple-ipad-11th-gen-deal-sale)
  - [The entire story of Twitter / X under Elon Musk](https://www.theverge.com/2022/4/11/23019836/elon-musk-twitter-board-of-directors-news-updates)
- - [Best LED Masks of 2025 Approved by the FDA](https://www.cnet.com/health/best-led-face-masks/#ftag=CAD590a51e)
  - [Adobe: traffic from AI sources to US retail sites in February rose 1,200% from July 2024; 39% of US consumers used generative AI for shopping, 53% plan to do so &lpar;Mike Pastore/Search Engine Land&rpar;](http://www.techmeme.com/250317/p26#a250317p26)
  - [Mortgage Predictions for March 17, 2025: Markets Await Fed Decision](https://www.cnet.com/personal-finance/mortgage-predictions-for-march-17-2025-markets-await-fed-decision/#ftag=CAD590a51e)<!-- TECH:END -->
 

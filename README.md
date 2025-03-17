@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Guy makes girl cry after taking last ride](http://9gag.com/gag/aAyEAWp)
+ - 😝 [A second angle proves that baton girl Alaila Everett hit her opponent with malicious intent](http://9gag.com/gag/aXPNORP)
  - 😝 [Idiot](http://9gag.com/gag/axyvwLn)
- - 💣 [Gory!](http://9gag.com/gag/aRBZGr7)
- - 😝 [These guys trying to escape](http://9gag.com/gag/aD2n5eB)
- - 👉 [Sound Cannon &lpar;LRAD&rpar; Used By The Serbian Police &lpar;Half Million Protestors&rpar;](http://9gag.com/gag/azxPzpx)<!-- MEMES:END -->
+ - 💣 [Made me chuckle](http://9gag.com/gag/aByLer1)
+ - 😝 [Exactly as I remember](http://9gag.com/gag/adBOwOd)
+ - 👉 [Whe U meet your celebrity crush](http://9gag.com/gag/a5QB90y)<!-- MEMES:END -->
 
 ---
 

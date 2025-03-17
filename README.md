@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [These guys trying to escape](http://9gag.com/gag/aD2n5eB)
- - 😝 [Trump sent the 238 members of the Tren de Aragua gang captured in the USA to El Salvador\u2019s Prison. They arrived last night!](http://9gag.com/gag/axyvrwY)
+ - 😝 [Halo music...](http://9gag.com/gag/aD2nKgZ)
+ - 😝 [Annodizing bolts](http://9gag.com/gag/apRDZQb)
  - 💣 [When walking in nature with a tent, do not forget to close the doors. Wild cats are very curious.](http://9gag.com/gag/ayN4woX)
- - 😝 [Only once in the lifetime](http://9gag.com/gag/aMVm7LM)
- - 👉 [Footage shows 16-year-old Sean Simpson breaking down in court after being denied bail and ordered to stand trial for murder as an adult. Sean Simpson was charged with killing 16-year-old Zaquavious Dawkins in a North Carolina shooting in Jan 2025.](http://9gag.com/gag/azxP3nK)<!-- MEMES:END -->
+ - 😝 [Trump sent the 238 members of the Tren de Aragua gang captured in the USA to El Salvador\u2019s Prison. They arrived last night!](http://9gag.com/gag/axyvrwY)
+ - 👉 [Truck brake fail when descending a narrow hill](http://9gag.com/gag/aGy8QeG)<!-- MEMES:END -->
 
 ---
 

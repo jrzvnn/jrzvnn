@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Snap’s AR Spectacles now support a virtual keyboard and GPS](https://www.theverge.com/news/631242/snap-augmented-reality-spectacles-gps-gnss-virtual-keyboard-hand-tracking)
  - [Amazon devices chief Panos Panay aims to unveil the first products he has overseen in the fall, talks of new premium devices, hints at wearables like AR glasses &lpar;Mark Gurman/Bloomberg&rpar;](http://www.techmeme.com/250317/p23#a250317p23)
  - [Trump’s first 100 days: all the news affecting the tech industry](https://www.theverge.com/24348851/donald-trump-presidency-tech-science-news)
  - [Trump says Biden pardons are ‘void’ because they were signed by autopen](https://www.theverge.com/news/631214/biden-autopen-void-trump-claim-truth-social)
- - [AI slop, shared by thousands of prolific accounts, is brute forcing virality, and platforms like Meta embrace it; some AI videos get 350M+ views &lpar;Jason Koebler/404 Media&rpar;](http://www.techmeme.com/250317/p22#a250317p22)
- - [Max just wiped its classic Looney Tunes lineup](https://www.theverge.com/news/631209/warner-bros-discovery-max-looney-tunes-removed)<!-- TECH:END -->
+ - [AI slop, shared by thousands of prolific accounts, is brute forcing virality, and platforms like Meta embrace it; some AI videos get 350M+ views &lpar;Jason Koebler/404 Media&rpar;](http://www.techmeme.com/250317/p22#a250317p22)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

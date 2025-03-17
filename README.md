@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Made me chuckle](http://9gag.com/gag/aByLer1)
- - 😝 [Guy makes girl cry after taking last ride](http://9gag.com/gag/aAyEAWp)
- - 💣 [Back to sense](http://9gag.com/gag/avyeBRX)
- - 😝 [How GTA girls be walking](http://9gag.com/gag/a9yv0oL)
- - 👉 [Exactly as I remember](http://9gag.com/gag/adBOwOd)<!-- MEMES:END -->
+ - 😝 [Whe U meet your celebrity crush](http://9gag.com/gag/a5QB90y)
+ - 😝 [Asian problem](http://9gag.com/gag/axyvKdL)
+ - 💣 [Busty](http://9gag.com/gag/aKG9y31)
+ - 😝 [Footage shows 16-year-old Sean Simpson breaking down in court after being denied bail and ordered to stand trial for murder as an adult. Sean Simpson was charged with killing 16-year-old Zaquavious Dawkins in a North Carolina shooting in Jan 2025.](http://9gag.com/gag/azxP3nK)
+ - 👉 [I can rest peacefully now](http://9gag.com/gag/amoGwLy)<!-- MEMES:END -->
 
 ---
 

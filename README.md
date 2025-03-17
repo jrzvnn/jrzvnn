@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Trust issues](http://9gag.com/gag/a34AgYe)
- - 😝 [Exactly as I remember](http://9gag.com/gag/adBOwOd)
- - 💣 [Suffering from success](http://9gag.com/gag/apRDnzM)
  - 😝 [They give me the money and I pay the rent. I tell them the owner is a family friend, they also get a friend\u2019s discount.](http://9gag.com/gag/ae9OEYW)
- - 👉 [Only once in the lifetime](http://9gag.com/gag/aMVm7LM)<!-- MEMES:END -->
+ - 😝 [Only once in the lifetime](http://9gag.com/gag/aMVm7LM)
+ - 💣 [Suffering from success](http://9gag.com/gag/apRDnzM)
+ - 😝 [Made me chuckle](http://9gag.com/gag/aByLer1)
+ - 👉 [Coffee apotheosis](http://9gag.com/gag/aMVmDXW)<!-- MEMES:END -->
 
 ---
 

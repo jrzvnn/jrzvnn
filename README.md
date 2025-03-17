@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Today&#39;s NYT Connections: Sports Edition Hints and Answers for March 16, #174](https://www.cnet.com/tech/gaming/todays-nyt-connections-sports-edition-hints-and-answers-for-march-16-174/#ftag=CAD590a51e)
+ - [Today&#39;s NYT Mini Crossword Answers for Monday, March 17](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-monday-march-17/#ftag=CAD590a51e)
+ - [Today&#39;s NYT Connections: Sports Edition Hints and Answers for March 17, #175](https://www.cnet.com/tech/gaming/todays-nyt-connections-sports-edition-hints-and-answers-for-march-17-175/#ftag=CAD590a51e)
  - [Dude Perfect and Mark Rober may be the next YouTubers to get big streaming deals](https://www.theverge.com/streaming-wars/630997/youtube-dude-perfect-mark-rober-youtubers-netflix-amazon-deals)
- - [A profile of Chetan Nayak, who leads Microsoft&#39;s Station Q team trying to build a quantum computer; source: Microsoft spends ~$300M annually on quantum research &lpar;Tom Dotan/Wall Street Journal&rpar;](http://www.techmeme.com/250316/p13#a250316p13)
- - [Best Internet Providers in New Mexico](https://www.cnet.com/home/internet/best-internet-providers-in-new-mexico/#ftag=CAD590a51e)
- - [Apple will try to right the Apple Intelligence Siri ship, but don&#39;t expect firings](https://appleinsider.com/articles/25/03/16/apple-will-try-to-right-the-apple-intelligence-siri-ship-but-dont-expect-firings?utm_medium=rss)
- - [Best Internet Providers in Milwaukee, Wisconsin](https://www.cnet.com/home/internet/best-internet-providers-in-milwaukee-wi/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [A profile of Chetan Nayak, who leads Microsoft&#39;s Station Q team trying to build a quantum computer; source: Microsoft spends ~$300M annually on quantum research &lpar;Tom Dotan/Wall Street Journal&rpar;](http://www.techmeme.com/250316/p13#a250316p13)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

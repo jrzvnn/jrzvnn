@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Amazon sues the US CPSC, accusing it of stretching consumer safety law by ruling Amazon responsible for recalling products sold by third parties on Amazon.com &lpar;Emma Roth/The Verge&rpar;](http://www.techmeme.com/250317/p33#a250317p33)
  - [The iOS 18.3.2 update is reportedly causing email delivery issues in the Mail app](https://appleinsider.com/articles/25/03/17/the-ios-1832-update-is-reportedly-causing-email-delivery-issues-in-the-mail-app?utm_medium=rss)
  - [President Trump&#39;s World Liberty Financial says it raised $250M in its second token sale, bringing the total amount of coins sold to $550M &lpar;MacKenzie Sigalos/CNBC&rpar;](http://www.techmeme.com/250317/p32#a250317p32)
  - [Here are the best Apple Watch deals right now](https://www.theverge.com/21289209/best-apple-watch-deals)
- - [Donald Trump Held Another Million-Dollar ‘Candlelight’ Dinner—With Elon Musk in Tow](https://www.wired.com/story/trump-million-dollar-candlelight-dinner-elon-musk/)
- - [CFPB workers are reinstated after a court order, but many still can’t work](https://www.theverge.com/news/631465/cfpb-probationary-employees-court-order-reinstatement)<!-- TECH:END -->
+ - [Impulse Buys Under $25 That Make Surprisingly Great Gifts](https://www.cnet.com/pictures/impulse-buy-gifts-under-25/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

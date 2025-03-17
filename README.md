@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Fourth iOS 18.4, macOS 16.4 developer beta round begins](https://appleinsider.com/articles/25/03/17/fourth-ios-184-macos-164-developer-beta-round-begins?utm_medium=rss)
+ - [Fourth iOS 18.4, macOS 15.4 developer beta round begins](https://appleinsider.com/articles/25/03/17/fourth-ios-184-macos-164-developer-beta-round-begins?utm_medium=rss)
+ - [These Are the Sleep Essentials Our Wellness Editors Swear By](https://www.cnet.com/health/sleep/sleep-essentials-our-wellness-editors-swear-by/#ftag=CAD590a51e)
  - [Pixel 9A leaks in review videos before it’s even announced](https://www.theverge.com/news/631284/google-pixel-9a-leak-video-reviews)
  - [Users report that Gemini 2.0 Flash is very good at removing watermarks from images; many models allow this but some, like Claude 3.7 Sonnet and GPT-4o, do not &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/250317/p25#a250317p25)
- - [Telegram&#39;s Pavel Durov has left France, reportedly after a judge authorized him to leave the country for &quot;several weeks&quot;; the investigation is ongoing &lpar;Daryna Antoniuk/The Record&rpar;](http://www.techmeme.com/250317/p24#a250317p24)
- - [Snap’s AR Spectacles now support a virtual keyboard and GPS](https://www.theverge.com/news/631242/snap-augmented-reality-spectacles-gps-gnss-virtual-keyboard-hand-tracking)<!-- TECH:END -->
+ - [Best Reusable Water Bottles in 2025](https://www.cnet.com/health/best-water-bottle/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

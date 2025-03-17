@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Footage shows 16-year-old Sean Simpson breaking down in court after being denied bail and ordered to stand trial for murder as an adult. Sean Simpson was charged with killing 16-year-old Zaquavious Dawkins in a North Carolina shooting in Jan 2025.](http://9gag.com/gag/azxP3nK)
+ - 😝 [Repost #2025.7](http://9gag.com/gag/aQzQj77)
  - 😝 [Only once in the lifetime](http://9gag.com/gag/aMVm7LM)
- - 💣 [They\u2019re not even trying to hide it.](http://9gag.com/gag/an7nPMq)
+ - 💣 [When walking in nature with a tent, do not forget to close the doors. Wild cats are very curious.](http://9gag.com/gag/ayN4woX)
  - 😝 [Apron](http://9gag.com/gag/abAONM9)
- - 👉 [Trump sent the 238 members of the Tren de Aragua gang captured in the USA to El Salvador\u2019s Prison. They arrived last night!](http://9gag.com/gag/axyvrwY)<!-- MEMES:END -->
+ - 👉 [What\u2019s your favorite sound?](http://9gag.com/gag/aW4LXPA)<!-- MEMES:END -->
 
 ---
 

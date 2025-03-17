@@ -159,9 +159,9 @@ R                        1 repo              ░░░░░░░░░░░�
 <!-- TECH:START -->
  - [Great savings on the EcoFlow Delta Pro 3, which will keep your home powered](https://www.theverge.com/good-deals/631237/ecoflow-delta-3-pro-power-station-apple-ipad-11th-gen-deal-sale)
  - [The entire story of Twitter / X under Elon Musk](https://www.theverge.com/2022/4/11/23019836/elon-musk-twitter-board-of-directors-news-updates)
+ - [Best LED Masks of 2025 Approved by the FDA](https://www.cnet.com/health/best-led-face-masks/#ftag=CAD590a51e)
  - [Adobe: traffic from AI sources to US retail sites in February rose 1,200% from July 2024; 39% of US consumers used generative AI for shopping, 53% plan to do so &lpar;Mike Pastore/Search Engine Land&rpar;](http://www.techmeme.com/250317/p26#a250317p26)
- - [Mortgage Predictions for March 17, 2025: Markets Await Fed Decision](https://www.cnet.com/personal-finance/mortgage-predictions-for-march-17-2025-markets-await-fed-decision/#ftag=CAD590a51e)
- - [Here&#39;s the Real Reason You Taste Wine Before the Waiter Pours](https://www.cnet.com/news/heres-the-real-reason-you-taste-wine-before-a-waiter-pours/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Mortgage Predictions for March 17, 2025: Markets Await Fed Decision](https://www.cnet.com/personal-finance/mortgage-predictions-for-march-17-2025-markets-await-fed-decision/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

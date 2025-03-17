@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Donald Trump Held Another Million-Dollar &#39;Candlelight&#39; Dinner—With Elon Musk in Tow](https://www.wired.com/story/trump-million-dollar-candlelight-dinner-elon-musk/)
  - [CFPB workers are reinstated after a court order, but many still can’t work](https://www.theverge.com/news/631465/cfpb-probationary-employees-court-order-reinstatement)
  - [AI search is starting to kill Google’s ‘ten blue links’](https://www.theverge.com/ai-artificial-intelligence/631352/ai-search-adobe-analytics-google-perplexity-openai)
  - [Qualcomm unveils the Snapdragon G3 Gen 3, G2 Gen 2, and G1 Gen 2 for gaming handhelds, saying the G3 Gen 3 offers a CPU 30% faster than the previous generation &lpar;Zhiye Liu/Tom&#39;s Hardware&rpar;](http://www.techmeme.com/250317/p31#a250317p31)
- - [Snap updates Spectacles AR glasses to add GPS support for Lenses, improved hand tracking, an AR keyboard, and more &lpar;Andrew Liszewski/The Verge&rpar;](http://www.techmeme.com/250317/p30#a250317p30)
- - [Roku tests customer patience with startup video ads](https://www.theverge.com/news/631392/roku-immediate-video-ads-startup)<!-- TECH:END -->
+ - [Snap updates Spectacles AR glasses to add GPS support for Lenses, improved hand tracking, an AR keyboard, and more &lpar;Andrew Liszewski/The Verge&rpar;](http://www.techmeme.com/250317/p30#a250317p30)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

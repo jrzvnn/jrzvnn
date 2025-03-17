@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Carl Lundstrom, who financed file sharing service the Pirate Bay, died in a plane crash in Slovenia; at its peak, the Pirate Bay had an estimated 20M+ users &lpar;Michael Levenson/New York Times&rpar;](http://www.techmeme.com/250317/p9#a250317p9)
  - [Alphabet spins off Starlink competitor Taara](https://www.theverge.com/news/631049/alphabet-spins-off-starlink-competitor-taara)
  - [Crypto exchange OKX says it has &quot;temporarily&quot; suspended its DEX aggregator services, used to launder the $1.5B Bybit hack, after reported EU scrutiny under MiCA &lpar;Sidhartha Shukla/Bloomberg&rpar;](http://www.techmeme.com/250317/p8#a250317p8)
  - [Sources detail Alibaba&#39;s AI pivot, quietly led by Jack Ma after ChatGPT&#39;s 2022 launch, but question if it can establish a lead in China&#39;s competitive AI race &lpar;Financial Times&rpar;](http://www.techmeme.com/250317/p7#a250317p7)
- - [A look at &quot;coachbots&quot;, AI-powered virtual coaches like CoachHub&#39;s Aimy and Valence&#39;s Nadia that advise on salary talks, work habits, and role-play conversations &lpar;Emma Jacobs/Financial Times&rpar;](http://www.techmeme.com/250317/p6#a250317p6)
- - [How Elon Musk targeted 18F, as ex-employees say the GSA&#39;s group focused on increasing bureaucratic efficiency through tech, similar to what DOGE claims to do &lpar;Nick Robins-Early/The Guardian&rpar;](http://www.techmeme.com/250317/p5#a250317p5)<!-- TECH:END -->
+ - [Best Internet Providers in Houston, Texas](https://www.cnet.com/home/internet/best-internet-providers-in-houston-tx/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

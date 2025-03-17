@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Dude Perfect and Mark Rober may be the next YouTubers to get big streaming deals](https://www.theverge.com/streaming-wars/630997/youtube-dude-perfect-mark-rober-youtubers-netflix-amazon-deals)
  - [A profile of Chetan Nayak, who leads Microsoft&#39;s Station Q team trying to build a quantum computer; source: Microsoft spends ~$300M annually on quantum research &lpar;Tom Dotan/Wall Street Journal&rpar;](http://www.techmeme.com/250316/p13#a250316p13)
+ - [Best Internet Providers in New Mexico](https://www.cnet.com/home/internet/best-internet-providers-in-new-mexico/#ftag=CAD590a51e)
  - [Apple will try to right the Apple Intelligence Siri ship, but don&#39;t expect firings](https://appleinsider.com/articles/25/03/16/apple-will-try-to-right-the-apple-intelligence-siri-ship-but-dont-expect-firings?utm_medium=rss)
- - [SwitchBot’s next smart hub comes with a control knob](https://www.theverge.com/news/630987/switchbot-hub-3-matter-csa-registration)
- - [Amazon to kill Echo&#39;s local voice processing feature in favor of Voice ID [u]](https://appleinsider.com/articles/25/03/15/amazon-to-kill-echos-local-voice-processing-feature-in-favor-of-voice-id?utm_medium=rss)
- - [CoreWeave&#39;s upcoming IPO in a soft IPO market serves as a bellwether for both the tech industry and how the public market perceives AI in the years ahead &lpar;Rachyl Jones/Semafor&rpar;](http://www.techmeme.com/250316/p12#a250316p12)<!-- TECH:END -->
+ - [Best Internet Providers in Milwaukee, Wisconsin](https://www.cnet.com/home/internet/best-internet-providers-in-milwaukee-wi/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

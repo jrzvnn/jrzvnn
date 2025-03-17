@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Zoom unveils AI Companion updates to add agentic AI features, including calendar management, meeting tools, and document creation, rolling out by July 2025 &lpar;Sean Michael Kerner/VentureBeat&rpar;](http://www.techmeme.com/250317/p18#a250317p18)
+ - [Trump’s first 100 days: all the news affecting the tech industry](https://www.theverge.com/24348851/donald-trump-presidency-tech-science-news)
+ - [Sources: Intel&#39;s new CEO Lip-Bu Tan has considered restructuring Intel&#39;s AI approach and cutting staff to address a slow and bloated middle management layer &lpar;Max A. Cherney/Reuters&rpar;](http://www.techmeme.com/250317/p17#a250317p17)
  - [Roblox’s new AI model can generate 3D objects](https://www.theverge.com/news/630977/roblox-cube-3d-objects-mesh-ai-text-prompt)
- - [Roblox: all the news about the popular social and gaming platform](https://www.theverge.com/23864790/roblox-news-announcements-updates)
- - [All the smart home news, reviews, and gadgets you need to know about](https://www.theverge.com/24190824/smart-home-news-reviews-guides-gadgets)
- - [Sources: Google plans to partner with Taiwanese chipmaker MediaTek on its next-gen TPUs, set for 2026, but will still work with Broadcom &lpar;Qianer Liu/The Information&rpar;](http://www.techmeme.com/250317/p16#a250317p16)
- - [Zoom’s AI will soon help you do busywork, too](https://www.theverge.com/news/630156/zoom-ai-companion-agentic-update)<!-- TECH:END -->
+ - [Roblox: all the news about the popular social and gaming platform](https://www.theverge.com/23864790/roblox-news-announcements-updates)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

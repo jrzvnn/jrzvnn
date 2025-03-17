@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [It\u2019s always them](http://9gag.com/gag/a9yveeo)
- - 😝 [Chonky Pikachu was just something else \ud83e\udd23](http://9gag.com/gag/aKG9neb)
+ - 😝 [They give me the money and I pay the rent. I tell them the owner is a family friend, they also get a friend\u2019s discount.](http://9gag.com/gag/ae9OEYW)
+ - 😝 [Only once in the lifetime](http://9gag.com/gag/aMVm7LM)
  - 💣 [Suffering from success](http://9gag.com/gag/apRDnzM)
- - 😝 [Whe U meet your celebrity crush](http://9gag.com/gag/a5QB90y)
- - 👉 [They give me the money and I pay the rent. I tell them the owner is a family friend, they also get a friend\u2019s discount.](http://9gag.com/gag/ae9OEYW)<!-- MEMES:END -->
+ - 😝 [Exactly as I remember](http://9gag.com/gag/adBOwOd)
+ - 👉 [Fr tho why?](http://9gag.com/gag/aoyV6B2)<!-- MEMES:END -->
 
 ---
 

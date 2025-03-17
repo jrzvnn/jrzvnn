@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Suffering from success](http://9gag.com/gag/apRDnzM)
+ - 😝 [Nah i\u00b4ll pass...out](http://9gag.com/gag/a6Z96pA)
  - 😝 [Exactly as I remember](http://9gag.com/gag/adBOwOd)
- - 💣 [They give me the money and I pay the rent. I tell them the owner is a family friend, they also get a friend\u2019s discount.](http://9gag.com/gag/ae9OEYW)
- - 😝 [The Fact That This Dude Managed To Walk Away After This is Insane](http://9gag.com/gag/aW4L36K)
- - 👉 [Footage shows 16-year-old Sean Simpson breaking down in court after being denied bail and ordered to stand trial for murder as an adult. Sean Simpson was charged with killing 16-year-old Zaquavious Dawkins in a North Carolina shooting in Jan 2025.](http://9gag.com/gag/azxP3nK)<!-- MEMES:END -->
+ - 💣 [Footage shows 16-year-old Sean Simpson breaking down in court after being denied bail and ordered to stand trial for murder as an adult. Sean Simpson was charged with killing 16-year-old Zaquavious Dawkins in a North Carolina shooting in Jan 2025.](http://9gag.com/gag/azxP3nK)
+ - 😝 [How to avoid being mugged in 2025](http://9gag.com/gag/aXPN65v)
+ - 👉 [When walking in nature with a tent, do not forget to close the doors. Wild cats are very curious.](http://9gag.com/gag/ayN4woX)<!-- MEMES:END -->
 
 ---
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Google has a fix for all of the broken Chromecasts](https://www.theverge.com/news/631393/google-chromecast-broken-fix-untrusted-device-error)
  - [Mark Rober’s Tesla video was more than a little weird](https://www.theverge.com/tesla/631308/mark-rober-tesla-youtube-autopilot-lidar-fake-claims)
  - [Sources: Alphabet is in advanced talks to acquire cybersecurity startup Wiz for ~$30B; Alphabet was close to a $23B deal for Wiz last summer before talks ended &lpar;Lauren Thomas/Wall Street Journal&rpar;](http://www.techmeme.com/250317/p28#a250317p28)
  - [Perplexity dunks on Google’s ‘glue on pizza’ AI fail in new ad](https://www.theverge.com/news/631349/perplexity-ad-google-pizza-glue-fail)
- - [A sodium-ion portable power bank comes to market](https://www.theverge.com/news/631357/elecom-power-bank-battery-sodium-ion)
- - [Source: Liam Fedus, VP of research in charge of post-training at OpenAI, is leaving the company to found a startup focused on using AI to discover new materials &lpar;The Information&rpar;](http://www.techmeme.com/250317/p27#a250317p27)<!-- TECH:END -->
+ - [A sodium-ion portable power bank comes to market](https://www.theverge.com/news/631357/elecom-power-bank-battery-sodium-ion)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

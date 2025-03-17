@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Trump’s first 100 days: all the news affecting the tech industry](https://www.theverge.com/24348851/donald-trump-presidency-tech-science-news)
+ - [AI search is starting to kill Google’s ‘ten blue links’](https://www.theverge.com/ai-artificial-intelligence/631352/ai-search-adobe-analytics-google-perplexity-openai)
+ - [Qualcomm unveils the Snapdragon G3 Gen 3, G2 Gen 2, and G1 Gen 2 for gaming handhelds, saying the G3 Gen 3 offers a CPU 30% faster than the previous generation &lpar;Zhiye Liu/Tom&#39;s Hardware&rpar;](http://www.techmeme.com/250317/p31#a250317p31)
  - [Snap updates Spectacles AR glasses to add GPS support for Lenses, improved hand tracking, an AR keyboard, and more &lpar;Andrew Liszewski/The Verge&rpar;](http://www.techmeme.com/250317/p30#a250317p30)
- - [Roku tests customer patience with startup video ads](https://www.theverge.com/news/631392/roku-immediate-video-ads-startup)
- - [All the news about daily puzzle games](https://www.theverge.com/2024/10/25/24279439/news-games-crossword-wordle)
- - [Amazon is fighting the government&amp;#8217;s efforts to get it to recall hazardous products](https://www.theverge.com/news/631435/amazon-cpsc-lawsuit-recall-third-party-products)
- - [Mistral debuts Mistral Small 3.1, a 24B-parameter multimodal and multilingual open-source model it says outperforms Gemma 3 and GPT-4o-mini and runs on 32GB RAM &lpar;Michael Nu&amp;ntilde;ez/VentureBeat&rpar;](http://www.techmeme.com/250317/p29#a250317p29)<!-- TECH:END -->
+ - [Roku tests customer patience with startup video ads](https://www.theverge.com/news/631392/roku-immediate-video-ads-startup)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

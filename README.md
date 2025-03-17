@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Source: Liam Fedus, VP of research in charge of post-training at OpenAI, is leaving the company to found a startup focused on using AI to discover new materials &lpar;The Information&rpar;](http://www.techmeme.com/250317/p27#a250317p27)
- - [Great savings on the EcoFlow Delta Pro 3, which will keep your home powered](https://www.theverge.com/good-deals/631237/ecoflow-delta-3-pro-power-station-apple-ipad-11th-gen-deal-sale)
- - [The entire story of Twitter / X under Elon Musk](https://www.theverge.com/2022/4/11/23019836/elon-musk-twitter-board-of-directors-news-updates)
- - [Adobe: traffic from AI sources to US retail sites in February rose 1,200% from July 2024; 39% of US consumers used generative AI for shopping, 53% plan to do so &lpar;Mike Pastore/Search Engine Land&rpar;](http://www.techmeme.com/250317/p26#a250317p26)
- - [Mortgage Predictions for March 17, 2025: Markets Await Fed Decision](https://www.cnet.com/personal-finance/mortgage-predictions-for-march-17-2025-markets-await-fed-decision/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Mark Rober’s Tesla video was more than a little weird](https://www.theverge.com/tesla/631308/mark-rober-tesla-youtube-autopilot-lidar-fake-claims)
+ - [Sources: Alphabet is in advanced talks to acquire cybersecurity startup Wiz for ~$30B; Alphabet was close to a $23B deal for Wiz last summer before talks ended &lpar;Lauren Thomas/Wall Street Journal&rpar;](http://www.techmeme.com/250317/p28#a250317p28)
+ - [Perplexity dunks on Google’s ‘glue on pizza’ AI fail in new ad](https://www.theverge.com/news/631349/perplexity-ad-google-pizza-glue-fail)
+ - [A sodium-ion portable power bank comes to market](https://www.theverge.com/news/631357/elecom-power-bank-battery-sodium-ion)
+ - [Source: Liam Fedus, VP of research in charge of post-training at OpenAI, is leaving the company to found a startup focused on using AI to discover new materials &lpar;The Information&rpar;](http://www.techmeme.com/250317/p27#a250317p27)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

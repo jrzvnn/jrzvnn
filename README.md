@@ -167,10 +167,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [`Ah yes, monster truck.... wait wtf`](http://9gag.com/gag/a7oeRQz)
- - 😝 [Only once in the lifetime](http://9gag.com/gag/aMVm7LM)
- - 💣 [When walking in nature with a tent, do not forget to close the doors. Wild cats are very curious.](http://9gag.com/gag/ayN4woX)
- - 😝 [Nah i\u00b4ll pass...out](http://9gag.com/gag/a6Z96pA)
- - 👉 [Trump sent the 238 members of the Tren de Aragua gang captured in the USA to El Salvador\u2019s Prison. They arrived last night!](http://9gag.com/gag/axyvrwY)<!-- MEMES:END -->
+ - 😝 [Chris P. Bacon](http://9gag.com/gag/aMVmoeP)
+ - 💣 [Currently in Serbia](http://9gag.com/gag/aLneED6)
+ - 😝 [Happy Sunday](http://9gag.com/gag/aLne7QW)
+ - 👉 [Is the big woman still here...](http://9gag.com/gag/aD2neOB)<!-- MEMES:END -->
 
 ---
 

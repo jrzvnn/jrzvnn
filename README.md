@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Google&amp;#8217;s Gemini AI is really good at watermark removal](https://www.theverge.com/news/631203/google-gemini-flash-2-native-image-generation-watermark-removal)
  - [Mandatory Apple Home, Sonos cancels its streaming box, smart kitchen evolution, HomeKit Insider](https://appleinsider.com/articles/25/03/17/mandatory-apple-home-sonos-cancels-its-streaming-box-smart-kitchen-evolution-homekit-insider?utm_medium=rss)
  - [M4 Mac mini prices fall to as low as $529, save up to $329](https://appleinsider.com/articles/25/03/17/m4-mac-mini-prices-fall-to-as-low-as-529-save-up-to-329?utm_medium=rss)
  - [This hospital-grade snot sucker makes it easier to clear your baby’s nose](https://www.theverge.com/news/631163/frida-baby-electric-nosefrida-pro-nasal-aspirator)
- - [Folding iPhone will probably cost more than the Mac Studio](https://appleinsider.com/articles/25/03/17/folding-iphone-will-probably-cost-more-than-the-mac-studio?utm_medium=rss)
- - [Inside Apple Music: how you can get the most out of Apple&#39;s music streaming service](https://appleinsider.com/inside/apple-music/tips/inside-apple-music-how-you-can-get-the-most-out-of-apples-music-streaming-service?utm_medium=rss)<!-- TECH:END -->
+ - [Folding iPhone will probably cost more than the Mac Studio](https://appleinsider.com/articles/25/03/17/folding-iphone-will-probably-cost-more-than-the-mac-studio?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

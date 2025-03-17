@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The iOS 18.3.2 update is reportedly causing email delivery issues in the Mail app](https://appleinsider.com/articles/25/03/17/the-ios-1832-update-is-reportedly-causing-email-delivery-issues-in-the-mail-app?utm_medium=rss)
+ - [President Trump&#39;s World Liberty Financial says it raised $250M in its second token sale, bringing the total amount of coins sold to $550M &lpar;MacKenzie Sigalos/CNBC&rpar;](http://www.techmeme.com/250317/p32#a250317p32)
+ - [Here are the best Apple Watch deals right now](https://www.theverge.com/21289209/best-apple-watch-deals)
  - [Donald Trump Held Another Million-Dollar ‘Candlelight’ Dinner—With Elon Musk in Tow](https://www.wired.com/story/trump-million-dollar-candlelight-dinner-elon-musk/)
- - [CFPB workers are reinstated after a court order, but many still can’t work](https://www.theverge.com/news/631465/cfpb-probationary-employees-court-order-reinstatement)
- - [AI search is starting to kill Google’s ‘ten blue links’](https://www.theverge.com/ai-artificial-intelligence/631352/ai-search-adobe-analytics-google-perplexity-openai)
- - [Qualcomm unveils the Snapdragon G3 Gen 3, G2 Gen 2, and G1 Gen 2 for gaming handhelds, saying the G3 Gen 3 offers a CPU 30% faster than the previous generation &lpar;Zhiye Liu/Tom&#39;s Hardware&rpar;](http://www.techmeme.com/250317/p31#a250317p31)
- - [Snap updates Spectacles AR glasses to add GPS support for Lenses, improved hand tracking, an AR keyboard, and more &lpar;Andrew Liszewski/The Verge&rpar;](http://www.techmeme.com/250317/p30#a250317p30)<!-- TECH:END -->
+ - [CFPB workers are reinstated after a court order, but many still can’t work](https://www.theverge.com/news/631465/cfpb-probationary-employees-court-order-reinstatement)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

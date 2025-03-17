@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Snap updates Spectacles AR glasses to add GPS support for Lenses, improved hand tracking, an AR keyboard, and more &lpar;Andrew Liszewski/The Verge&rpar;](http://www.techmeme.com/250317/p30#a250317p30)
  - [Roku tests customer patience with startup video ads](https://www.theverge.com/news/631392/roku-immediate-video-ads-startup)
  - [All the news about daily puzzle games](https://www.theverge.com/2024/10/25/24279439/news-games-crossword-wordle)
  - [Amazon is fighting the government&amp;#8217;s efforts to get it to recall hazardous products](https://www.theverge.com/news/631435/amazon-cpsc-lawsuit-recall-third-party-products)
- - [Mistral debuts Mistral Small 3.1, a 24B-parameter multimodal and multilingual open-source model it says outperforms Gemma 3 and GPT-4o-mini and runs on 32GB RAM &lpar;Michael Nu&amp;ntilde;ez/VentureBeat&rpar;](http://www.techmeme.com/250317/p29#a250317p29)
- - [Pixel 9A Rumors: Everything We Expect for Google&#39;s Budget Phone, From Cameras to Price](https://www.cnet.com/tech/mobile/pixel-9a-rumors-everything-we-expect-for-googles-budget-phone-from-cameras-to-price/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Mistral debuts Mistral Small 3.1, a 24B-parameter multimodal and multilingual open-source model it says outperforms Gemma 3 and GPT-4o-mini and runs on 32GB RAM &lpar;Michael Nu&amp;ntilde;ez/VentureBeat&rpar;](http://www.techmeme.com/250317/p29#a250317p29)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [They give me the money and I pay the rent. I tell them the owner is a family friend, they also get a friend\u2019s discount.](http://9gag.com/gag/ae9OEYW)
- - 😝 [Only once in the lifetime](http://9gag.com/gag/aMVm7LM)
- - 💣 [Suffering from success](http://9gag.com/gag/apRDnzM)
- - 😝 [Exactly as I remember](http://9gag.com/gag/adBOwOd)
- - 👉 [Fr tho why?](http://9gag.com/gag/aoyV6B2)<!-- MEMES:END -->
+ - 😝 [Made me chuckle](http://9gag.com/gag/aByLer1)
+ - 😝 [Suffering from success](http://9gag.com/gag/apRDnzM)
+ - 💣 [Asian problem](http://9gag.com/gag/axyvKdL)
+ - 😝 [How GTA girls be walking](http://9gag.com/gag/a9yv0oL)
+ - 👉 [Only once in the lifetime](http://9gag.com/gag/aMVm7LM)<!-- MEMES:END -->
 
 ---
 

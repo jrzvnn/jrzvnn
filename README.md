@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Footage shows 16-year-old Sean Simpson breaking down in court after being denied bail and ordered to stand trial for murder as an adult. Sean Simpson was charged with killing 16-year-old Zaquavious Dawkins in a North Carolina shooting in Jan 2025.](http://9gag.com/gag/azxP3nK)
- - 😝 [Kamehameha](http://9gag.com/gag/abAODY9)
- - 💣 [Busty](http://9gag.com/gag/aKG9y31)
- - 😝 [I&#39;m not sure which toilet to use](http://9gag.com/gag/aYQO6eV)
- - 👉 [These guys trying to escape](http://9gag.com/gag/aD2n5eB)<!-- MEMES:END -->
+ - 😝 [Exactly as I remember](http://9gag.com/gag/adBOwOd)
+ - 😝 [They give me the money and I pay the rent. I tell them the owner is a family friend, they also get a friend\u2019s discount.](http://9gag.com/gag/ae9OEYW)
+ - 💣 [Made me chuckle](http://9gag.com/gag/aByLer1)
+ - 😝 [Whe U meet your celebrity crush](http://9gag.com/gag/a5QB90y)
+ - 👉 [Only once in the lifetime](http://9gag.com/gag/aMVm7LM)<!-- MEMES:END -->
 
 ---
 

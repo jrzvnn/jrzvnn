@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [They\u2019re not even trying to hide it.](http://9gag.com/gag/an7nPMq)
- - 😝 [Only once in the lifetime](http://9gag.com/gag/aMVm7LM)
- - 💣 [When walking in nature with a tent, do not forget to close the doors. Wild cats are very curious.](http://9gag.com/gag/ayN4woX)
- - 😝 [I finally made it, I collected over 2000 returnable bottles to buy a ps5&lpar;in germany you get 25 cents per plastic bottle&rpar; it took me 42 days collecting between 2-3 hours a day. And I lost much weight.](http://9gag.com/gag/an7nmYB)
- - 👉 [Wtf](http://9gag.com/gag/axyv8rK)<!-- MEMES:END -->
+ - 😝 [When an Australian Globemaster aircraft thought it would be a good idea to fly between buildings during an air show.](http://9gag.com/gag/axyvL5b)
+ - 😝 [When walking in nature with a tent, do not forget to close the doors. Wild cats are very curious.](http://9gag.com/gag/ayN4woX)
+ - 💣 [Footage shows 16-year-old Sean Simpson breaking down in court after being denied bail and ordered to stand trial for murder as an adult. Sean Simpson was charged with killing 16-year-old Zaquavious Dawkins in a North Carolina shooting in Jan 2025.](http://9gag.com/gag/azxP3nK)
+ - 😝 [I&#39;m not sure which toilet to use](http://9gag.com/gag/aYQO6eV)
+ - 👉 [Truck brake fail when descending a narrow hill](http://9gag.com/gag/aGy8QeG)<!-- MEMES:END -->
 
 ---
 

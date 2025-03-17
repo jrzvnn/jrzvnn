@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Discord is plugging directly into games](https://www.theverge.com/news/630823/discord-social-directly-games-sdk)
- - [The OneXSugar asks: what if Nintendo Switch could transform into Nintendo DS?](https://www.theverge.com/news/631005/qualcomm-snapdragon-g3-gen-3-onexsugar-handheld-ayaneo-pocket)
- - [Apple mysteriously drops $23 million lawsuit against recycler accused of stealing iPhones](https://appleinsider.com/articles/25/03/17/apple-mysteriously-drops-23-million-lawsuit-against-recycler-accused-of-stealing-iphones?utm_medium=rss)
- - [7 Best Video Doorbell Cameras &lpar;2025&rpar;: Smart, Battery, AI, Budget, and Subscription-Free](https://www.wired.com/gallery/best-video-doorbells/)
- - [Walmart&#39;s OnePay says Klarna will replace Affirm to offer buy-now-pay-later to US shoppers later in 2025, and OnePay can buy a Klarna stake; AFRM drops 10%+ &lpar;Hugh Son/CNBC&rpar;](http://www.techmeme.com/250317/p14#a250317p14)<!-- TECH:END -->
+ - [Roblox’s new AI model can generate 3D objects](https://www.theverge.com/news/630977/roblox-cube-3d-objects-mesh-ai-text-prompt)
+ - [Roblox: all the news about the popular social and gaming platform](https://www.theverge.com/23864790/roblox-news-announcements-updates)
+ - [All the smart home news, reviews, and gadgets you need to know about](https://www.theverge.com/24190824/smart-home-news-reviews-guides-gadgets)
+ - [Sources: Google plans to partner with Taiwanese chipmaker MediaTek on its next-gen TPUs, set for 2026, but will still work with Broadcom &lpar;Qianer Liu/The Information&rpar;](http://www.techmeme.com/250317/p16#a250317p16)
+ - [Zoom’s AI will soon help you do busywork, too](https://www.theverge.com/news/630156/zoom-ai-companion-agentic-update)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Nah i\u00b4ll pass...out](http://9gag.com/gag/a6Z96pA)
- - 😝 [Trump sent the 238 members of the Tren de Aragua gang captured in the USA to El Salvador\u2019s Prison. They arrived last night!](http://9gag.com/gag/axyvrwY)
- - 💣 [`Ah yes, monster truck.... wait wtf`](http://9gag.com/gag/a7oeRQz)
- - 😝 [They give me the money and I pay the rent. I tell them the owner is a family friend, they also get a friend\u2019s discount.](http://9gag.com/gag/ae9OEYW)
- - 👉 [I&#39;m not sure which toilet to use](http://9gag.com/gag/aYQO6eV)<!-- MEMES:END -->
+ - 😝 [How to properly kill a tomato](http://9gag.com/gag/a87mgjY)
+ - 😝 [And a cola light please](http://9gag.com/gag/aO84MoE)
+ - 💣 [Chris P. Bacon](http://9gag.com/gag/aMVmoeP)
+ - 😝 [Currently in Serbia](http://9gag.com/gag/aLneED6)
+ - 👉 [Happy Sunday](http://9gag.com/gag/aLne7QW)<!-- MEMES:END -->
 
 ---
 

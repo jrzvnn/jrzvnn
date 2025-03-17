@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Nah i\u00b4ll pass...out](http://9gag.com/gag/a6Z96pA)
- - 😝 [Exactly as I remember](http://9gag.com/gag/adBOwOd)
- - 💣 [Footage shows 16-year-old Sean Simpson breaking down in court after being denied bail and ordered to stand trial for murder as an adult. Sean Simpson was charged with killing 16-year-old Zaquavious Dawkins in a North Carolina shooting in Jan 2025.](http://9gag.com/gag/azxP3nK)
- - 😝 [When walking in nature with a tent, do not forget to close the doors. Wild cats are very curious.](http://9gag.com/gag/ayN4woX)
- - 👉 [They give me the money and I pay the rent. I tell them the owner is a family friend, they also get a friend\u2019s discount.](http://9gag.com/gag/ae9OEYW)<!-- MEMES:END -->
+ - 😝 [That&#39;s a little funny](http://9gag.com/gag/amoGyx4)
+ - 😝 [Troojan horses tries to get into Poland but Poland is too based for self-deestruction and self-invaasion](http://9gag.com/gag/a1mDjEb)
+ - 💣 [How to properly kill a tomato](http://9gag.com/gag/a87mgjY)
+ - 😝 [Made me chuckle](http://9gag.com/gag/aByLer1)
+ - 👉 [Could watch this sky the whole night and not get bored](http://9gag.com/gag/a87mOVV)<!-- MEMES:END -->
 
 ---
 

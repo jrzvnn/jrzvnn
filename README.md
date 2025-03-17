@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The entire story of Twitter / X under Elon Musk](https://www.theverge.com/2022/4/11/23019836/elon-musk-twitter-board-of-directors-news-updates)
  - [Adobe: traffic from AI sources to US retail sites in February rose 1,200% from July 2024; 39% of US consumers used generative AI for shopping, 53% plan to do so &lpar;Mike Pastore/Search Engine Land&rpar;](http://www.techmeme.com/250317/p26#a250317p26)
- - [US tariffs: how Trump’s tax is hitting Big Tech and beyond](https://www.theverge.com/604742/trump-tariffs-canada-mexico-china-updates)
- - [Big Tech is now slightly less silent on Trump’s tariffs](https://www.theverge.com/news/624849/big-tech-slightly-less-silent-trump-tariffs)
- - [Fourth iOS 18.4, macOS 15.4 developer beta round begins](https://appleinsider.com/articles/25/03/17/fourth-ios-184-macos-164-developer-beta-round-begins?utm_medium=rss)
- - [These Are the Sleep Essentials Our Wellness Editors Swear By](https://www.cnet.com/health/sleep/sleep-essentials-our-wellness-editors-swear-by/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Mortgage Predictions for March 17, 2025: Markets Await Fed Decision](https://www.cnet.com/personal-finance/mortgage-predictions-for-march-17-2025-markets-await-fed-decision/#ftag=CAD590a51e)
+ - [Here&#39;s the Real Reason You Taste Wine Before the Waiter Pours](https://www.cnet.com/news/heres-the-real-reason-you-taste-wine-before-a-waiter-pours/#ftag=CAD590a51e)
+ - [TikTok&#39;s New Security Dashboard Makes It Easier to Lock Down Your Account](https://www.cnet.com/tech/services-and-software/tiktoks-new-security-dashboard-makes-it-easier-to-lock-down-your-account/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

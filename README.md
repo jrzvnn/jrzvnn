@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [All the news about daily puzzle games](https://www.theverge.com/2024/10/25/24279439/news-games-crossword-wordle)
+ - [Amazon is fighting the government&amp;#8217;s efforts to get it to recall hazardous products](https://www.theverge.com/news/631435/amazon-cpsc-lawsuit-recall-third-party-products)
+ - [Mistral debuts Mistral Small 3.1, a 24B-parameter multimodal and multilingual open-source model it says outperforms Gemma 3 and GPT-4o-mini and runs on 32GB RAM &lpar;Michael Nu&amp;ntilde;ez/VentureBeat&rpar;](http://www.techmeme.com/250317/p29#a250317p29)
  - [Google has a fix for all of the broken Chromecasts](https://www.theverge.com/news/631393/google-chromecast-broken-fix-untrusted-device-error)
- - [Mark Rober’s Tesla video was more than a little weird](https://www.theverge.com/tesla/631308/mark-rober-tesla-youtube-autopilot-lidar-fake-claims)
- - [Sources: Alphabet is in advanced talks to acquire cybersecurity startup Wiz for ~$30B; Alphabet was close to a $23B deal for Wiz last summer before talks ended &lpar;Lauren Thomas/Wall Street Journal&rpar;](http://www.techmeme.com/250317/p28#a250317p28)
- - [Perplexity dunks on Google’s ‘glue on pizza’ AI fail in new ad](https://www.theverge.com/news/631349/perplexity-ad-google-pizza-glue-fail)
- - [A sodium-ion portable power bank comes to market](https://www.theverge.com/news/631357/elecom-power-bank-battery-sodium-ion)<!-- TECH:END -->
+ - [Mark Rober’s Tesla video was more than a little weird](https://www.theverge.com/tesla/631308/mark-rober-tesla-youtube-autopilot-lidar-fake-claims)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

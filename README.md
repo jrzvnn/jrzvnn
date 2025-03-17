@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Foldable iPhone and iPad will both launch in 2026, says analyst](https://appleinsider.com/articles/25/03/17/foldable-iphone-and-ipad-will-both-launch-in-2026-says-analyst?utm_medium=rss)
- - [An interview with Snap CEO Evan Spiegel on Snap&#39;s fifth-generation smart glasses, unveiled in September 2024, competing with Apple and Meta, Snap OS, and more &lpar;Austin Carr/Bloomberg&rpar;](http://www.techmeme.com/250317/p11#a250317p11)
- - [Alphabet spins off laser-based internet company Taara from its X &quot;moonshot&quot; incubator; Taara, which raised new funding, has its origins in Loon, closed in 2021 &lpar;Stephen Morris/Financial Times&rpar;](http://www.techmeme.com/250317/p10#a250317p10)
- - [Best Internet Providers in Lexington, Kentucky](https://www.cnet.com/home/internet/best-internet-providers-in-lexington-ky/#ftag=CAD590a51e)
- - [9 Helpful Health Features You Didn&#39;t Know Exist on the Apple Watch](https://www.cnet.com/health/medical/helpful-health-features-didnt-know-exist-apple-watch/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Sources: Turkey plans new EU-style rules to rein in major US tech companies, in a bill created by the ruling party and antitrust authority, risking a US clash &lpar;Firat Kozok/Bloomberg&rpar;](http://www.techmeme.com/250317/p12#a250317p12)
+ - [Ireland is Apple&#39;s second home, says Tim Cook](https://appleinsider.com/articles/25/03/17/ireland-is-apples-second-home-says-tim-cook?utm_medium=rss)
+ - [Spring Clean Your Tech: Where to Recycle Your Computers and Printers for Free](https://www.cnet.com/tech/computing/spring-clean-your-tech-where-to-recycle-your-computers-and-printers-for-free/#ftag=CAD590a51e)
+ - [14 of the Best Sci-Fi Movies Available to Watch on Prime Video](https://www.cnet.com/tech/services-and-software/best-sci-fi-movies-on-prime-video-2025/#ftag=CAD590a51e)
+ - [Starlink vs. T-Mobile Home Internet: Clash of the Broadband Disruptors](https://www.cnet.com/home/internet/starlink-vs-t-mobile-home-internet/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

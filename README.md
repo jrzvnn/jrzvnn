@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Guy makes girl cry after taking last ride](http://9gag.com/gag/aAyEAWp)
- - 😝 [Nah i\u00b4ll pass...out](http://9gag.com/gag/a6Z96pA)
- - 💣 [Exactly as I remember](http://9gag.com/gag/adBOwOd)
+ - 😝 [Suffering from success](http://9gag.com/gag/apRDnzM)
+ - 😝 [They give me the money and I pay the rent. I tell them the owner is a family friend, they also get a friend\u2019s discount.](http://9gag.com/gag/ae9OEYW)
+ - 💣 [When walking in nature with a tent, do not forget to close the doors. Wild cats are very curious.](http://9gag.com/gag/ayN4woX)
  - 😝 [A U.S. pilot ejected from a fighter jet after a slow-moving crash.](http://9gag.com/gag/aO84E9D)
- - 👉 [When walking in nature with a tent, do not forget to close the doors. Wild cats are very curious.](http://9gag.com/gag/ayN4woX)<!-- MEMES:END -->
+ - 👉 [Exactly as I remember](http://9gag.com/gag/adBOwOd)<!-- MEMES:END -->
 
 ---
 

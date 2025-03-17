@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Back to sense](http://9gag.com/gag/avyeBRX)
- - 😝 [Nah i\u00b4ll pass...out](http://9gag.com/gag/a6Z96pA)
- - 💣 [A U.S. pilot ejected from a fighter jet after a slow-moving crash.](http://9gag.com/gag/aO84E9D)
+ - 😝 [These guys trying to escape](http://9gag.com/gag/aD2n5eB)
  - 😝 [Exactly as I remember](http://9gag.com/gag/adBOwOd)
- - 👉 [They give me the money and I pay the rent. I tell them the owner is a family friend, they also get a friend\u2019s discount.](http://9gag.com/gag/ae9OEYW)<!-- MEMES:END -->
+ - 💣 [Whe U meet your celebrity crush](http://9gag.com/gag/a5QB90y)
+ - 😝 [When walking in nature with a tent, do not forget to close the doors. Wild cats are very curious.](http://9gag.com/gag/ayN4woX)
+ - 👉 [I&#39;m not sure which toilet to use](http://9gag.com/gag/aYQO6eV)<!-- MEMES:END -->
 
 ---
 

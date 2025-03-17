@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Crypto exchange OKX says it has &quot;temporarily&quot; suspended its DEX aggregator services, used to launder the $1.5B Bybit hack, after reported EU scrutiny under MiCA &lpar;Sidhartha Shukla/Bloomberg&rpar;](http://www.techmeme.com/250317/p8#a250317p8)
  - [Sources detail Alibaba&#39;s AI pivot, quietly led by Jack Ma after ChatGPT&#39;s 2022 launch, but question if it can establish a lead in China&#39;s competitive AI race &lpar;Financial Times&rpar;](http://www.techmeme.com/250317/p7#a250317p7)
  - [A look at &quot;coachbots&quot;, AI-powered virtual coaches like CoachHub&#39;s Aimy and Valence&#39;s Nadia that advise on salary talks, work habits, and role-play conversations &lpar;Emma Jacobs/Financial Times&rpar;](http://www.techmeme.com/250317/p6#a250317p6)
  - [How Elon Musk targeted 18F, as ex-employees say the GSA&#39;s group focused on increasing bureaucratic efficiency through tech, similar to what DOGE claims to do &lpar;Nick Robins-Early/The Guardian&rpar;](http://www.techmeme.com/250317/p5#a250317p5)
- - [Open letter: ~100 EU companies urge European lawmakers to take &quot;radical action&quot; to cut the reliance on foreign Big Tech by fostering a so-called &quot;Euro stack&quot; &lpar;Natasha Lomas/TechCrunch&rpar;](http://www.techmeme.com/250317/p4#a250317p4)
- - [South Korea&#39;s Trade Ministry reports chip sales to China fell 31.8% YoY in February, after a 22.5% drop in January, amid tariffs, US controls, and weak demand &lpar;Sam Kim/Bloomberg&rpar;](http://www.techmeme.com/250317/p3#a250317p3)<!-- TECH:END -->
+ - [Open letter: ~100 EU companies urge European lawmakers to take &quot;radical action&quot; to cut the reliance on foreign Big Tech by fostering a so-called &quot;Euro stack&quot; &lpar;Natasha Lomas/TechCrunch&rpar;](http://www.techmeme.com/250317/p4#a250317p4)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

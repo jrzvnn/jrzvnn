@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [AI coding assistant startup Graphite, now used by tens of thousands of staff at 500+ companies, raised an Accel-led $52M Series B; its revenue grew 20x in 2024 &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/250318/p24#a250318p24)
- - [The Pebble E-Paper Smartwatch Is Back. Just Don&#39;t Call It Pebble](https://www.wired.com/story/pebble-smartwatches-core-devices-core-2-duo-core-time-2/)
- - [HP’s Omen 16 Slim gaming laptop packs an RTX 5070 GPU into a thin-ish chassis](https://www.theverge.com/news/631371/hp-omen-16-slim-gaming-laptop-rtx-5070-specs-announcement)
- - [A slew of new HP OmniBooks includes chip bumps and a featherweight Aero](https://www.theverge.com/news/631559/hp-omnibook-x-7-5-3-aero-laptops-announcement-specs)
- - [Every gaming headset should have a backup mic like the new Cloud III S Wireless](https://www.theverge.com/news/631589/hyperx-cloud-iii-s-wireless-gaming-headset-hp-announcement-specs)<!-- TECH:END -->
+ - [Analogue’s 4K Nintendo 64 retro console has been delayed, again](https://www.theverge.com/news/631816/analogue-3d-delay-nintendo-64-modretro-teaser)
+ - [Sources: Oracle is weighing a TikTok proposal that would have it provide security assurances and take a small stake while leaving the algorithm in Chinese hands &lpar;Bloomberg&rpar;](http://www.techmeme.com/250318/p27#a250318p27)
+ - [Google updates its Gemini chatbot, adding Canvas, a space for users to create, refine, and share writing and coding projects, and Audio Overview from NotebookLM &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/250318/p26#a250318p26)
+ - [Eric Migicovsky unveils two Pebble smartwatches, the $149 Core 2 Duo shipping July 2025 and $225 Core Time 2 shipping December 2025, running its open-source OS &lpar;David Pierce/The Verge&rpar;](http://www.techmeme.com/250318/p25#a250318p25)
+ - [How to Protect Your Cats &lpar;and Backyard Chickens&rpar; From Bird Flu](https://www.wired.com/story/pets-and-backyard-flocks-are-at-risk-from-bird-flu-heres-how-to-protect-them/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

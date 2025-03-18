@@ -167,10 +167,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [You gotta go back Marty!](http://9gag.com/gag/aAyEjX0)
- - 😝 [This NPC is too realistic, man...](http://9gag.com/gag/an7nmPn)
- - 💣 [What&#39;s happened UK?](http://9gag.com/gag/a0eVrXv)
- - 😝 [When walking in nature with a tent, do not forget to close the doors. Wild cats are very curious.](http://9gag.com/gag/ayN4woX)
- - 👉 [Truck brake fail when descending a narrow hill](http://9gag.com/gag/aGy8QeG)<!-- MEMES:END -->
+ - 😝 [I guess it&#39;s official. I am a shitty boss.](http://9gag.com/gag/ajPOvyp)
+ - 💣 [Yep, rage comics are the best](http://9gag.com/gag/aKG9Zbb)
+ - 😝 [Annodizing bolts](http://9gag.com/gag/apRDZQb)
+ - 👉 [Footage shows 16-year-old Sean Simpson breaking down in court after being denied bail and ordered to stand trial for murder as an adult. Sean Simpson was charged with killing 16-year-old Zaquavious Dawkins in a North Carolina shooting in Jan 2025.](http://9gag.com/gag/azxP3nK)<!-- MEMES:END -->
 
 ---
 

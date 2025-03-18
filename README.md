@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [Give me your best tips and tricks you got](http://9gag.com/gag/an7nLvn)
  - 😝 [When an Australian Globemaster aircraft thought it would be a good idea to fly between buildings during an air show.](http://9gag.com/gag/axyvL5b)
- - 😝 [Priorities](http://9gag.com/gag/a34A6Gm)
- - 💣 [FAFO makes me feel all warm and fuzzy inside.](http://9gag.com/gag/aryAj65)
- - 😝 [Those who have been though hell don&#39;t get scared by sparks](http://9gag.com/gag/aAyE8Yd)
- - 👉 [She saw a future she wasnt ready for.](http://9gag.com/gag/aNDvNgG)<!-- MEMES:END -->
+ - 💣 [She saw a future she wasnt ready for.](http://9gag.com/gag/aNDvNgG)
+ - 😝 [Never forget](http://9gag.com/gag/a87mZvp)
+ - 👉 [Those who have been though hell don&#39;t get scared by sparks](http://9gag.com/gag/aAyE8Yd)<!-- MEMES:END -->
 
 ---
 

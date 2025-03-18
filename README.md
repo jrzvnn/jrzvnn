@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Since Xi Jinping met DeepSeek founder Liang Wenfeng last month, Chinese officials are rushing to use the AI model, including in courthouses and in hospitals &lpar;New York Times&rpar;](http://www.techmeme.com/250318/p13#a250318p13)
  - [Bumble is getting ID verification](https://www.theverge.com/news/631560/bumble-id-verification-share-date)
  - [Germany&#39;s Federal Court of Justice rules against Apple&#39;s appeal against a regulatory assessment that opens Apple up to stricter controls in the country &lpar;Reuters&rpar;](http://www.techmeme.com/250318/p12#a250318p12)
- - [A former CHIPS Act program officer says Trump repealing the program risks US national security and tariffs alone will not revitalize domestic chip manufacturing &lpar;Mike Schmidt/Financial Times&rpar;](http://www.techmeme.com/250318/p11#a250318p11)
- - [Chicago-based Nerdio, which helps manage remote workers, raised $500M led by General Atlantic at a $1.2B valuation, sources say up from $300M in December 2022 &lpar;Gillian Tan/Bloomberg&rpar;](http://www.techmeme.com/250318/p10#a250318p10)
- - [Didi reports Q4 revenue up 7.1% YoY to ~$7.32B and a ~$180M net loss, down from a ~$6.2M profit in Q4 2023, as it recovers from China&#39;s $1.2B fine in July 2022 &lpar;Reuters&rpar;](http://www.techmeme.com/250318/p9#a250318p9)<!-- TECH:END -->
+ - [The Inmotion V13 Challenger Review: The Big Wheel of Electric Unicycles](https://www.cnet.com/roadshow/news/the-inmotion-v13-challenger-review-the-big-wheel-of-electric-unicycles/#ftag=CAD590a51e)
+ - [&#39;Good American Family&#39;: How to Watch the Natalia Grace True Crime Series](https://www.cnet.com/tech/services-and-software/good-american-family-how-to-watch-the-natalia-grace-true-crime-series/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

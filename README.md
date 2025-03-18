@@ -157,7 +157,7 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Intel’s crashing 13th and 14th Gen Raptor Lake CPUs: all the news and updates](https://www.theverge.com/24216305/intel-13th-14th-gen-raptor-lake-cpu-crash-news-updates-patches-fixes-motherboards)
+ - [Starlink is now accessible across the White House campus, which was already served by fiber cable, after service was &quot;donated&quot;, as some cite security concerns &lpar;New York Times&rpar;](http://www.techmeme.com/250318/p1#a250318p1)
  - [Sources: Cognition, maker of AI coding assistant Devin, raised hundreds of millions led by 8VC at a ~$4B valuation, doubling its $2B valuation from April 2024 &lpar;Bloomberg&rpar;](http://www.techmeme.com/250317/p38#a250317p38)
  - [How to set ChatGPT as your default search engine in Safari](https://appleinsider.com/articles/25/03/18/how-to-set-chatgpt-as-your-default-search-engine-in-safari?utm_medium=rss)
  - [Today&#39;s NYT Mini Crossword Answers for Tuesday, March 18](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-tuesday-march-18/#ftag=CAD590a51e)

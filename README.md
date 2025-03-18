@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Crusoe: Stargate&#39;s first data center complex, in Abilene, TX, will finish in mid-2026 and have eight buildings, each designed for up to 50K Nvidia GB200 chips &lpar;Bloomberg&rpar;](http://www.techmeme.com/250318/p39#a250318p39)
+ - [‘It’s a Heist’: Real Federal Auditors Are Horrified by DOGE](https://www.wired.com/story/federal-auditors-doge-elon-musk/)
+ - [Filing: the man Rippling has accused of feeding stolen customer and employee info to Deel was Keith O&#39;Brien, a global payroll-compliance manager in Dublin &lpar;Rolfe Winkler/Wall Street Journal&rpar;](http://www.techmeme.com/250318/p38#a250318p38)
  - [US music subscriptions cross 100 million as digital downloads drop](https://www.theverge.com/news/632045/riaa-music-streaming-revenue-100-million-subscriptions)
- - [Nvidia says &amp;#8216;the age of generalist robotics is here&amp;#8217;](https://www.theverge.com/news/631743/nvidia-issac-groot-n1-robotics-foundation-model-available)
- - [Apple&#39;s MagSafe charger gets new firmware update](https://appleinsider.com/articles/25/03/18/apples-magsafe-charger-gets-new-firmware-update?utm_medium=rss)
- - [Denver drivers get free AirTags to cut auto thefts](https://appleinsider.com/articles/25/03/18/denver-drivers-get-free-airtags-to-cut-auto-thefts?utm_medium=rss)
- - [Nvidia’s RTX Pro 6000 has 96GB of VRAM and 600W of power](https://www.theverge.com/news/631868/nvidia-rtx-pro-6000-blackwell-gpu-professionals)<!-- TECH:END -->
+ - [Nvidia says &amp;#8216;the age of generalist robotics is here&amp;#8217;](https://www.theverge.com/news/631743/nvidia-issac-groot-n1-robotics-foundation-model-available)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

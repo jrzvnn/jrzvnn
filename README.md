@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Trump’s first 100 days: all the news affecting the tech industry](https://www.theverge.com/24348851/donald-trump-presidency-tech-science-news)
+ - [CFPB workers are reinstated after a court order, but many still can’t work](https://www.theverge.com/news/631465/cfpb-probationary-employees-court-order-reinstatement)
  - [HyperX Pulsefire Haste 2 Pro 4K Review: A Lighter and Faster Mouse](https://www.wired.com/review/hyperx-pulsefire-haste-2-pro-4k/)
  - [Nanoleaf’s new immersive backlight kit plugs directly into your PC](https://www.theverge.com/news/631610/nanoleaf-pc-screen-mirror-lightstrip-usb)
- - [Hundreds of celebrities warn against letting OpenAI and Google &amp;#8216;freely exploit&amp;#8217; Hollywood](https://www.theverge.com/news/631637/celebrities-warn-openai-google-exploit-hollywood)
- - [Halliday, which helps developers delegate workflows to autonomous systems when creating smart contracts, raised a $20M Series A led by a16z Crypto &lpar;MK Manoylov/The Block&rpar;](http://www.techmeme.com/250318/p20#a250318p20)
- - [Switch 2, Steam Deck, and the next-gen console wars](https://www.theverge.com/the-vergecast/631619/switch-2-steam-deck-handheld-consoles-vergecast)<!-- TECH:END -->
+ - [Hundreds of celebrities warn against letting OpenAI and Google &amp;#8216;freely exploit&amp;#8217; Hollywood](https://www.theverge.com/news/631637/celebrities-warn-openai-google-exploit-hollywood)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

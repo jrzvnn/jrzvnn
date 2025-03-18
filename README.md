@@ -167,10 +167,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [Give me your best tips and tricks you got](http://9gag.com/gag/an7nLvn)
- - 😝 [She saw a future she wasnt ready for.](http://9gag.com/gag/aNDvNgG)
- - 💣 [Gr8 b8 m8 i rate 8/8](http://9gag.com/gag/azxP0Wq)
- - 😝 [In 1979 kenny powers attempted to jump his car from Canada into the United States](http://9gag.com/gag/aGy8WQw)
- - 👉 [Those who have been though hell don&#39;t get scared by sparks](http://9gag.com/gag/aAyE8Yd)<!-- MEMES:END -->
+ - 😝 [LBD](http://9gag.com/gag/ayN4OQM)
+ - 💣 [She saw a future she wasnt ready for.](http://9gag.com/gag/aNDvNgG)
+ - 😝 [Canadian tv show in `Hot waters` for this skit](http://9gag.com/gag/aByLBnN)
+ - 👉 [He cooked him well. The rifle thrown away was the biggest deception](http://9gag.com/gag/aVvEyEv)<!-- MEMES:END -->
 
 ---
 

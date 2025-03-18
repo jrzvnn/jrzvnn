@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Rages from the past](http://9gag.com/gag/aD2n9gZ)
- - 😝 [Truck brake fail when descending a narrow hill](http://9gag.com/gag/aGy8QeG)
- - 💣 [Posting memes I found on my smartphone until I get bored or die #1156](http://9gag.com/gag/azxPngx)
  - 😝 [Trump sent the 238 members of the Tren de Aragua gang captured in the USA to El Salvador\u2019s Prison. They arrived last night!](http://9gag.com/gag/axyvrwY)
- - 👉 [What&#39;s happened UK?](http://9gag.com/gag/a0eVrXv)<!-- MEMES:END -->
+ - 😝 [You gotta go back Marty!](http://9gag.com/gag/aAyEjX0)
+ - 💣 [Priorities](http://9gag.com/gag/a34A6Gm)
+ - 😝 [When walking in nature with a tent, do not forget to close the doors. Wild cats are very curious.](http://9gag.com/gag/ayN4woX)
+ - 👉 [Truck brake fail when descending a narrow hill](http://9gag.com/gag/aGy8QeG)<!-- MEMES:END -->
 
 ---
 

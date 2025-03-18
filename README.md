@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Give me your best tips and tricks you got](http://9gag.com/gag/an7nLvn)
- - 😝 [LBD](http://9gag.com/gag/ayN4OQM)
- - 💣 [She saw a future she wasnt ready for.](http://9gag.com/gag/aNDvNgG)
- - 😝 [Canadian tv show in `Hot waters` for this skit](http://9gag.com/gag/aByLBnN)
- - 👉 [He cooked him well. The rifle thrown away was the biggest deception](http://9gag.com/gag/aVvEyEv)<!-- MEMES:END -->
+ - 😝 [Posting memes I found on my smartphone until I get bored or die #1156](http://9gag.com/gag/azxPngx)
+ - 😝 [In 1979 kenny powers attempted to jump his car from Canada into the United States](http://9gag.com/gag/aGy8WQw)
+ - 💣 [Never forget](http://9gag.com/gag/a87mZvp)
+ - 😝 [Just finished this masterpiece, need another recommandation](http://9gag.com/gag/awymwzr)
+ - 👉 [LBD](http://9gag.com/gag/ayN4OQM)<!-- MEMES:END -->
 
 ---
 

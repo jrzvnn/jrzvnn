@@ -166,10 +166,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [He cooked him well. The rifle thrown away was the biggest deception](http://9gag.com/gag/aVvEyEv)
  - 😝 [LBD](http://9gag.com/gag/ayN4OQM)
- - 💣 [Motivation to survival\ud83e\udee3](http://9gag.com/gag/aW4LKYA)
  - 😝 [Those who have been though hell don&#39;t get scared by sparks](http://9gag.com/gag/aAyE8Yd)
+ - 💣 [She threw it straight in the hands of her father](http://9gag.com/gag/adBOZ0D)
+ - 😝 [Priorities](http://9gag.com/gag/a34A6Gm)
  - 👉 [She saw a future she wasnt ready for.](http://9gag.com/gag/aNDvNgG)<!-- MEMES:END -->
 
 ---

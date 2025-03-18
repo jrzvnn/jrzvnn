@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Trump fires the two Democratic members of the FTC, threatening the independence of the regulator in a decision that is likely to face a legal challenge &lpar;New York Times&rpar;](http://www.techmeme.com/250318/p44#a250318p44)
  - [Watch the Boeing Starliner astronauts return to Earth today](https://www.theverge.com/news/628311/nasa-crew-10-mission-starliner-astronauts-return-spacex)
- - [Apple has revealed a Passwords app vulnerability that lasted for months](https://www.theverge.com/news/632108/apple-ios-passwords-app-bug-vulnerability-phishing-attacks)
- - [A new Mission to Zyxx spin-off podcast is on the way](https://www.theverge.com/podcast/632052/mission-to-zyxx-the-young-old-derf-chronicles)
- - [Crossmint, which helps developers add crypto functionality to their code, raised $23.6M, including a seed and a Series A led by Ribbit Capital &lpar;Ben Weiss/Fortune&rpar;](http://www.techmeme.com/250318/p43#a250318p43)<!-- TECH:END -->
+ - [Roku Tests Showing Ads Before the Home Screen Loads](https://www.wired.com/story/roku-tests-showing-video-ads-before-the-home-screen-loads/)
+ - [All the news about Nvidia’s RTX 50-series GPUs](https://www.theverge.com/2025/1/25/24351798/nvidia-rtx-5090-5080-5070-gpu-news-rumors)
+ - [Tesla Got a Permit to Operate a Taxi Service in California—but There&#39;s a Catch](https://www.wired.com/story/tesla-got-a-permit-to-operate-a-taxi-service-in-california-but-theres-a-catch/)
+ - [Tesla awarded ride-hail permit in California, a first step for robotaxis](https://www.theverge.com/news/632185/tesla-ride-hail-permit-california-cpuc-robotaxis)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

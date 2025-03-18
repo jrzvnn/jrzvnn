@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Don&#39;t Google &#39;Severance&#39; if you&#39;re about to be laid off](https://appleinsider.com/articles/25/03/18/dont-google-severance-if-youre-about-to-be-laid-off?utm_medium=rss)
- - [Heavily upgraded M3 Ultra Mac Studio is great for AI projects](https://appleinsider.com/articles/25/03/18/heavily-upgraded-m3-ultra-mac-studio-is-great-for-ai-projects?utm_medium=rss)
- - [Solana deleted a social media ad for its conference in May 2025 after the crypto community criticized it for insensitivity towards gender issues &lpar;Timmy Shen/The Block&rpar;](http://www.techmeme.com/250318/p16#a250318p16)
- - [Apple Needs to Do This to Make the iPhone 17 Cameras Incredible](https://www.cnet.com/tech/mobile/apple-needs-to-do-this-to-make-the-iphone-17-cameras-incredible/#ftag=CAD590a51e)
- - [Womanizer Enhance Review: A Clitoral Suction Toy and Vibrator](https://www.wired.com/review/womanizer-enhance/)<!-- TECH:END -->
+ - [One of the Wii U’s biggest adventures is now on the Switch](https://www.theverge.com/games-review/629964/xenoblade-chronicles-x-definitive-edition-review-nintendo-switch)
+ - [Trump’s first 100 days: all the news affecting the tech industry](https://www.theverge.com/24348851/donald-trump-presidency-tech-science-news)
+ - [&#39;Resident Evil 3&#39; lurches onto iPhone, iPad, and Mac](https://appleinsider.com/articles/25/03/18/resident-evil-3-lurches-onto-iphone-ipad-and-mac?utm_medium=rss)
+ - [Google buys NYC-based cybersecurity company Wiz for $32B, its largest-ever acquisition, subject to approval; a $23B deal collapsed in 2024 over antitrust fears &lpar;The Verge&rpar;](http://www.techmeme.com/250318/p17#a250318p17)
+ - [Spike Jonze pushes AirPods 4 in very long short film starring Pedro Pascal](https://appleinsider.com/articles/25/03/18/spike-jonze-pushes-airpods-4-in-very-long-short-film-starring-pedro-pascal?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

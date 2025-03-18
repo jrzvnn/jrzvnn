@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Stability AI releases Stable Virtual Camera, an AI model with a non-commercial use license that can create &quot;immersive&quot; 3D videos using up to 32 2D images &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/250318/p32#a250318p32)
+ - [Adobe debuts an agent orchestrator with 10 initial Experience Agents for its Adobe Experience customer data management and marketing suite, to rival Salesforce &lpar;Mike Wheatley/SiliconANGLE&rpar;](http://www.techmeme.com/250318/p31#a250318p31)
  - [Wait, why is the White House using Starlink to ‘improve Wi-Fi’?](https://www.theverge.com/news/631716/white-house-starlink-wi-fi-connectivity-musk)
  - [What happened to all the games announced at WWDC 2024](https://appleinsider.com/articles/25/03/18/what-happened-to-all-the-games-announced-at-wwdc-2024?utm_medium=rss)
- - [CISA scrambles to contact 130+ fired employees after court rules the layoffs unlawful but says re-hired staff will immediately be placed on administrative leave &lpar;Carly Page/TechCrunch&rpar;](http://www.techmeme.com/250318/p30#a250318p30)
- - [All the smart home news, reviews, and gadgets you need to know about](https://www.theverge.com/24190824/smart-home-news-reviews-guides-gadgets)
- - [Pebble&#39;s new smartwatches take on Apple Watch with longer battery life](https://appleinsider.com/articles/25/03/18/pebbles-new-smartwatches-take-on-apple-watch-with-longer-battery-life?utm_medium=rss)<!-- TECH:END -->
+ - [CISA scrambles to contact 130+ fired employees after court rules the layoffs unlawful but says re-hired staff will immediately be placed on administrative leave &lpar;Carly Page/TechCrunch&rpar;](http://www.techmeme.com/250318/p30#a250318p30)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

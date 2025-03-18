@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Anthropic Chief Product Officer Mike Krieger says the company is preparing enterprise features and discussing voice product launches with &quot;a bunch of partners&quot; &lpar;Cristina Criddle/Financial Times&rpar;](http://www.techmeme.com/250318/p5#a250318p5)
  - [Best Internet Providers in Jersey City, New Jersey](https://www.cnet.com/home/internet/best-internet-providers-in-jersey-city-nj/#ftag=CAD590a51e)
  - [PitchBook: China led Asia with 715 AI VC deals in 2024, totaling $7.3B, South Korea followed with 308 deals worth $1.8B, and India with 306 deals totaling $1.7B &lpar;Nikkei Asia&rpar;](http://www.techmeme.com/250318/p4#a250318p4)
  - [A RevenueCat report, covering data from 75K+ mobile apps and $10B+ in revenue across 1B+ transactions, shows most apps fail to reach $1K/month after two years &lpar;Scharon Harding/Ars Technica&rpar;](http://www.techmeme.com/250318/p3#a250318p3)
- - [LG Promo Codes: Extra 20% Off](https://www.wired.com/story/lg-promo-code/)
- - [Bose Coupon Codes &amp; Discounts: 10% Off](https://www.wired.com/story/bose-coupon-code/)<!-- TECH:END -->
+ - [LG Promo Codes: Extra 20% Off](https://www.wired.com/story/lg-promo-code/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

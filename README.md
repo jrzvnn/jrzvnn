@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Exactly as I remember](http://9gag.com/gag/adBOwOd)
- - 😝 [Cutting open a microwaved egg](http://9gag.com/gag/aGy85bG)
- - 💣 [3 V 1](http://9gag.com/gag/aZZwOAp)
- - 😝 [This is how Ejnar Mikkelsen, a Danish explorer, was photographed in 1912 when he was found. Ejnar was isolated with Iver Iversen, from his own expedition, for two and a half years in a cabin in Greenland awaiting rescue.](http://9gag.com/gag/a5QBY6g)
- - 👉 [When an Australian Globemaster aircraft thought it would be a good idea to fly between buildings during an air show.](http://9gag.com/gag/axyvL5b)<!-- MEMES:END -->
+ - 😝 [This one sparks joy too](http://9gag.com/gag/aPAPK7n)
+ - 😝 [Posting memes I found on my smartphone until I get bored or die #1156](http://9gag.com/gag/azxPngx)
+ - 💣 [Surprise](http://9gag.com/gag/a87mgv1)
+ - 😝 [He cooked him well. The rifle thrown away was the biggest deception](http://9gag.com/gag/aVvEyEv)
+ - 👉 [When walking in nature with a tent, do not forget to close the doors. Wild cats are very curious.](http://9gag.com/gag/ayN4woX)<!-- MEMES:END -->
 
 ---
 

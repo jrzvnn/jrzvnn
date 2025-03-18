@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Tencent releases five AI tools to turn text or images into 3D visuals and graphics, based on Hunyuan3D-2.0, and plans to integrate DeepSeek&#39;s R1 into WeChat &lpar;Bloomberg&rpar;](http://www.techmeme.com/250318/p15#a250318p15)
  - [Don&#39;t Google &#39;Severance&#39; if you&#39;re about to be laid off](https://appleinsider.com/articles/25/03/18/dont-google-severance-if-youre-about-to-be-laid-off?utm_medium=rss)
- - [Apple loses antitrust appeal in Germany, now subject to steep fines and regulations](https://appleinsider.com/articles/25/03/18/apple-loses-antitrust-appeal-in-germany-now-subject-to-steep-fines-and-regulations?utm_medium=rss)
- - [11 Best Cooling Mattresses &lpar;2025&rpar;, Tested and Reviewed](https://www.wired.com/gallery/best-cooling-mattresses/)
- - [Sources: Alphabet has agreed to buy cybersecurity startup Wiz for at least $32B and will announce the deal today, after talks over a $23B deal failed in 2024 &lpar;Financial Times&rpar;](http://www.techmeme.com/250318/p14#a250318p14)<!-- TECH:END -->
+ - [Heavily upgraded M3 Ultra Mac Studio is great for AI projects](https://appleinsider.com/articles/25/03/18/heavily-upgraded-m3-ultra-mac-studio-is-great-for-ai-projects?utm_medium=rss)
+ - [Solana deleted a social media ad for its conference in May 2025 after the crypto community criticized it for insensitivity towards gender issues &lpar;Timmy Shen/The Block&rpar;](http://www.techmeme.com/250318/p16#a250318p16)
+ - [Apple Needs to Do This to Make the iPhone 17 Cameras Incredible](https://www.cnet.com/tech/mobile/apple-needs-to-do-this-to-make-the-iphone-17-cameras-incredible/#ftag=CAD590a51e)
+ - [Womanizer Enhance Review: A Clitoral Suction Toy and Vibrator](https://www.wired.com/review/womanizer-enhance/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

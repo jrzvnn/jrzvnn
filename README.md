@@ -157,10 +157,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Best Space Heaters in 2025](https://www.cnet.com/home/kitchen-and-household/best-space-heater/#ftag=CAD590a51e)
- - [Women&#39;s March Madness 2025: How to Watch Every Game Without Cable](https://www.cnet.com/tech/services-and-software/womens-march-madness-2025-how-to-watch-every-game-without-cable/#ftag=CAD590a51e)
+ - [Ahead of its rumored March 19 release, a YouTuber posts a video of an alleged Pixel 9a, showing a flat rear panel, minimal camera bump, and large bezels &lpar;Rajesh Pandey/Android Police&rpar;](http://www.techmeme.com/250318/p6#a250318p6)
+ - [BYD announces charging tech that&amp;#8217;s twice as fast as Tesla’s](https://www.theverge.com/news/631552/byd-1000kw-charging-ev-han-l-tang-l-battery)
+ - [Tap to Pay on iPhone comes to nine more European countries](https://appleinsider.com/articles/25/03/18/tap-to-pay-on-iphone-comes-to-nine-more-european-countries?utm_medium=rss)
  - [Anthropic Chief Product Officer Mike Krieger says the company is preparing enterprise features and discussing voice product launches with &quot;a bunch of partners&quot; &lpar;Cristina Criddle/Financial Times&rpar;](http://www.techmeme.com/250318/p5#a250318p5)
- - [Best Exercise Bikes for 2025](https://www.cnet.com/health/fitness/best-exercise-bike/#ftag=CAD590a51e)
  - [Best Internet Providers in Jersey City, New Jersey](https://www.cnet.com/home/internet/best-internet-providers-in-jersey-city-nj/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour

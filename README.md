@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [This one sparks joy too](http://9gag.com/gag/aPAPK7n)
- - 😝 [Posting memes I found on my smartphone until I get bored or die #1156](http://9gag.com/gag/azxPngx)
- - 💣 [Surprise](http://9gag.com/gag/a87mgv1)
- - 😝 [He cooked him well. The rifle thrown away was the biggest deception](http://9gag.com/gag/aVvEyEv)
- - 👉 [When walking in nature with a tent, do not forget to close the doors. Wild cats are very curious.](http://9gag.com/gag/ayN4woX)<!-- MEMES:END -->
+ - 😝 [Never forget](http://9gag.com/gag/a87mZvp)
+ - 😝 [Dad saving his favorite tree](http://9gag.com/gag/amoGwXy)
+ - 💣 [Oh boy...](http://9gag.com/gag/a4PzX0m)
+ - 😝 [Truck brake fail when descending a narrow hill](http://9gag.com/gag/aGy8QeG)
+ - 👉 [Self-awareness](http://9gag.com/gag/axyvL6M)<!-- MEMES:END -->
 
 ---
 

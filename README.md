@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Footage shows 16-year-old Sean Simpson breaking down in court after being denied bail and ordered to stand trial for murder as an adult. Sean Simpson was charged with killing 16-year-old Zaquavious Dawkins in a North Carolina shooting in Jan 2025.](http://9gag.com/gag/azxP3nK)
- - 😝 [When walking in nature with a tent, do not forget to close the doors. Wild cats are very curious.](http://9gag.com/gag/ayN4woX)
- - 💣 [Apron](http://9gag.com/gag/abAONM9)
- - 😝 [This NPC is too realistic, man...](http://9gag.com/gag/an7nmPn)
- - 👉 [When an Australian Globemaster aircraft thought it would be a good idea to fly between buildings during an air show.](http://9gag.com/gag/axyvL5b)<!-- MEMES:END -->
+ - 😝 [How GTA girls be walking](http://9gag.com/gag/a9yv0oL)
+ - 😝 [I don&#39;t have a backyard and fancy bbq, but at least I can make some succulent burgers for me and my wife, which is nice](http://9gag.com/gag/ayN4bDr)
+ - 💣 [This gadget will produce your favourite ambience sound](http://9gag.com/gag/aW4LzX6)
+ - 😝 [When an Australian Globemaster aircraft thought it would be a good idea to fly between buildings during an air show.](http://9gag.com/gag/axyvL5b)
+ - 👉 [To be 7&#39;3`...](http://9gag.com/gag/a0eVrAz)<!-- MEMES:END -->
 
 ---
 

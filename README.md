@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [One of the Wii U’s biggest adventures is now on the Switch](https://www.theverge.com/games-review/629964/xenoblade-chronicles-x-definitive-edition-review-nintendo-switch)
- - [Trump’s first 100 days: all the news affecting the tech industry](https://www.theverge.com/24348851/donald-trump-presidency-tech-science-news)
- - [&#39;Resident Evil 3&#39; lurches onto iPhone, iPad, and Mac](https://appleinsider.com/articles/25/03/18/resident-evil-3-lurches-onto-iphone-ipad-and-mac?utm_medium=rss)
- - [Google buys NYC-based cybersecurity company Wiz for $32B, its largest-ever acquisition, subject to approval; a $23B deal collapsed in 2024 over antitrust fears &lpar;The Verge&rpar;](http://www.techmeme.com/250318/p17#a250318p17)
- - [Spike Jonze pushes AirPods 4 in very long short film starring Pedro Pascal](https://appleinsider.com/articles/25/03/18/spike-jonze-pushes-airpods-4-in-very-long-short-film-starring-pedro-pascal?utm_medium=rss)<!-- TECH:END -->
+ - [Halliday, which helps developers delegate workflows to autonomous systems when creating smart contracts, raised a $20M Series A led by a16z Crypto &lpar;MK Manoylov/The Block&rpar;](http://www.techmeme.com/250318/p20#a250318p20)
+ - [Switch 2, Steam Deck, and the next-gen console wars](https://www.theverge.com/the-vergecast/631619/switch-2-steam-deck-handheld-consoles-vergecast)
+ - [Should You Take Ashwagandha Supplements for Stress and Anxiety?](https://www.cnet.com/health/nutrition/should-you-take-ashwagandha-supplements-for-stress-anxiety/#ftag=CAD590a51e)
+ - [Google launches new Search and Android health features, including medical records APIs, and plans to release open AI models for drug discovery called TxGemma &lpar;Ivan Mehta/TechCrunch&rpar;](http://www.techmeme.com/250318/p19#a250318p19)
+ - [CDs Are a Safe Haven in a Shaky Economy. Today&#39;s CD Rates, March 18, 2025](https://www.cnet.com/personal-finance/banking/cds-are-a-safe-haven-in-a-shaky-economy-todays-cd-rates-march-18-2025/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

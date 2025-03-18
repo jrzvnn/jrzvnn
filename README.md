@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Trump sent the 238 members of the Tren de Aragua gang captured in the USA to El Salvador\u2019s Prison. They arrived last night!](http://9gag.com/gag/axyvrwY)
- - 😝 [Oh boy...](http://9gag.com/gag/a4PzX0m)
- - 💣 [So flimsy](http://9gag.com/gag/adBOzGN)
  - 😝 [Posting memes I found on my smartphone until I get bored or die #1156](http://9gag.com/gag/azxPngx)
- - 👉 [Never forget](http://9gag.com/gag/a87mZvp)<!-- MEMES:END -->
+ - 😝 [When an Australian Globemaster aircraft thought it would be a good idea to fly between buildings during an air show.](http://9gag.com/gag/axyvL5b)
+ - 💣 [This one sparks joy too](http://9gag.com/gag/aPAPK7n)
+ - 😝 [Priorities](http://9gag.com/gag/a34A6Gm)
+ - 👉 [Footage shows 16-year-old Sean Simpson breaking down in court after being denied bail and ordered to stand trial for murder as an adult. Sean Simpson was charged with killing 16-year-old Zaquavious Dawkins in a North Carolina shooting in Jan 2025.](http://9gag.com/gag/azxP3nK)<!-- MEMES:END -->
 
 ---
 

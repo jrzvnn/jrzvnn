@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Apron](http://9gag.com/gag/abAONM9)
- - 😝 [Oh boy...](http://9gag.com/gag/a4PzX0m)
- - 💣 [What&#39;s happened UK?](http://9gag.com/gag/a0eVrXv)
- - 😝 [Those who have been though hell don&#39;t get scared by sparks](http://9gag.com/gag/aAyE8Yd)
- - 👉 [Footage shows 16-year-old Sean Simpson breaking down in court after being denied bail and ordered to stand trial for murder as an adult. Sean Simpson was charged with killing 16-year-old Zaquavious Dawkins in a North Carolina shooting in Jan 2025.](http://9gag.com/gag/azxP3nK)<!-- MEMES:END -->
+ - 😝 [Posting memes I found on my smartphone until I get bored or die #1156](http://9gag.com/gag/azxPngx)
+ - 😝 [Surprise](http://9gag.com/gag/a87mgv1)
+ - 💣 [This one sparks joy too](http://9gag.com/gag/aPAPK7n)
+ - 😝 [Footage shows 16-year-old Sean Simpson breaking down in court after being denied bail and ordered to stand trial for murder as an adult. Sean Simpson was charged with killing 16-year-old Zaquavious Dawkins in a North Carolina shooting in Jan 2025.](http://9gag.com/gag/azxP3nK)
+ - 👉 [Oh boy...](http://9gag.com/gag/a4PzX0m)<!-- MEMES:END -->
 
 ---
 

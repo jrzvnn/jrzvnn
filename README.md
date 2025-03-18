@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Apple&#39;s MagSafe charger gets new firmware update](https://appleinsider.com/articles/25/03/18/apples-magsafe-charger-gets-new-firmware-update?utm_medium=rss)
+ - [Denver drivers get free AirTags to cut auto thefts](https://appleinsider.com/articles/25/03/18/denver-drivers-get-free-airtags-to-cut-auto-thefts?utm_medium=rss)
+ - [Nvidia’s RTX Pro 6000 has 96GB of VRAM and 600W of power](https://www.theverge.com/news/631868/nvidia-rtx-pro-6000-blackwell-gpu-professionals)
  - [Source: Elon Musk invested $150M to acquire more X shares in 2024 at a valuation close to his 2022 purchase price and &quot;expressed willingness&quot; to buy more shares &lpar;Bloomberg&rpar;](http://www.techmeme.com/250318/p37#a250318p37)
- - [Nvidia unveils Blackwell Ultra, a family of AI chips shipping in 2025, and Vera Rubin, its next-gen chip featuring Nvidia&#39;s first custom CPU, slated for H2 2026 &lpar;Kif Leswing/CNBC&rpar;](http://www.techmeme.com/250318/p36#a250318p36)
- - [Nvidia&amp;#8217;s cute &amp;#8216;Digits&amp;#8217; AI desktop is coming this summer with a new name and a big brother](https://www.theverge.com/news/631957/nvidia-dgx-spark-station-grace-blackwell-ai-supercomputers-gtc)
- - [Chip race: Microsoft, Meta, Google, and Nvidia battle it out for AI chip supremacy](https://www.theverge.com/2024/2/1/24058186/ai-chips-meta-microsoft-google-nvidia)
- - [The 45 Best Shows on Max &lpar;aka HBO Max&rpar; Right Now &lpar;March 2025&rpar;](https://www.wired.com/story/hbo-max-best-shows-to-stream-right-now/)<!-- TECH:END -->
+ - [Nvidia unveils Blackwell Ultra, a family of AI chips shipping in 2025, and Vera Rubin, its next-gen chip featuring Nvidia&#39;s first custom CPU, slated for H2 2026 &lpar;Kif Leswing/CNBC&rpar;](http://www.techmeme.com/250318/p36#a250318p36)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Wait, why is the White House using Starlink to ‘improve Wi-Fi’?](https://www.theverge.com/news/631716/white-house-starlink-wi-fi-connectivity-musk)
+ - [What happened to all the games announced at WWDC 2024](https://appleinsider.com/articles/25/03/18/what-happened-to-all-the-games-announced-at-wwdc-2024?utm_medium=rss)
+ - [CISA scrambles to contact 130+ fired employees after court rules the layoffs unlawful but says re-hired staff will immediately be placed on administrative leave &lpar;Carly Page/TechCrunch&rpar;](http://www.techmeme.com/250318/p30#a250318p30)
  - [All the smart home news, reviews, and gadgets you need to know about](https://www.theverge.com/24190824/smart-home-news-reviews-guides-gadgets)
- - [Pebble&#39;s new smartwatches take on Apple Watch with longer battery life](https://appleinsider.com/articles/25/03/18/pebbles-new-smartwatches-take-on-apple-watch-with-longer-battery-life?utm_medium=rss)
- - [Assassin’s Creed Shadows finally showed me the appeal of Ubisoft’s tentpole franchise](https://www.theverge.com/games-review/631744/assassins-creed-shadows-review-ubisoft)
- - [A livestream of the Nvidia GTC 2025 keynote at the SAP Center in San Jose, California &lpar;NVIDIA on YouTube&rpar;](http://www.techmeme.com/250318/p29#a250318p29)
- - [GrubMarket, which offers food logistics AI tools, raised a $50M Series G at a $3.5B+ valuation, up from $1.2B in 2021, and is on track for $2.4B in 2025 revenue &lpar;Ingrid Lunden/TechCrunch&rpar;](http://www.techmeme.com/250318/p28#a250318p28)<!-- TECH:END -->
+ - [Pebble&#39;s new smartwatches take on Apple Watch with longer battery life](https://appleinsider.com/articles/25/03/18/pebbles-new-smartwatches-take-on-apple-watch-with-longer-battery-life?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Cheers](http://9gag.com/gag/ae9OLxO)
- - 😝 [Have you ever seen an ocean made of wood?](http://9gag.com/gag/aE0V9NG)
- - 💣 [Oi you cheeky bastard!](http://9gag.com/gag/aAyEoq0)
- - 😝 [This NPC is too realistic, man...](http://9gag.com/gag/an7nmPn)
- - 👉 [An awesome ship, built in my city &lpar;hence the name btw&rpar;](http://9gag.com/gag/amoGEGo)<!-- MEMES:END -->
+ - 😝 [When an Australian Globemaster aircraft thought it would be a good idea to fly between buildings during an air show.](http://9gag.com/gag/axyvL5b)
+ - 😝 [Priorities](http://9gag.com/gag/a34A6Gm)
+ - 💣 [FAFO makes me feel all warm and fuzzy inside.](http://9gag.com/gag/aryAj65)
+ - 😝 [Those who have been though hell don&#39;t get scared by sparks](http://9gag.com/gag/aAyE8Yd)
+ - 👉 [She saw a future she wasnt ready for.](http://9gag.com/gag/aNDvNgG)<!-- MEMES:END -->
 
 ---
 

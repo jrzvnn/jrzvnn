@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Posting memes I found on my smartphone until I get bored or die #1156](http://9gag.com/gag/azxPngx)
- - 😝 [So flimsy](http://9gag.com/gag/adBOzGN)
- - 💣 [3 V 1](http://9gag.com/gag/aZZwOAp)
- - 😝 [Canadian tv show in `Hot waters` for this skit](http://9gag.com/gag/aByLBnN)
- - 👉 [Those who have been though hell don&#39;t get scared by sparks](http://9gag.com/gag/aAyE8Yd)<!-- MEMES:END -->
+ - 😝 [Cheers](http://9gag.com/gag/ae9OLxO)
+ - 😝 [Have you ever seen an ocean made of wood?](http://9gag.com/gag/aE0V9NG)
+ - 💣 [Oi you cheeky bastard!](http://9gag.com/gag/aAyEoq0)
+ - 😝 [This NPC is too realistic, man...](http://9gag.com/gag/an7nmPn)
+ - 👉 [An awesome ship, built in my city &lpar;hence the name btw&rpar;](http://9gag.com/gag/amoGEGo)<!-- MEMES:END -->
 
 ---
 

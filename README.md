@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Amazon&#39;s Big Spring Sale 2025 starts March 25, but save up to $400 on Apple right now](https://appleinsider.com/articles/25/03/18/amazons-big-spring-sale-2025-starts-march-25-but-save-up-to-400-on-apple-right-now?utm_medium=rss)
- - [Satellite launch kicks off a new effort to monitor wildfires from space](https://www.theverge.com/news/631618/first-satellite-launch-firesat-google)
- - [Trump’s first 100 days: all the news affecting the tech industry](https://www.theverge.com/24348851/donald-trump-presidency-tech-science-news)
- - [Folding iPhone display engineering efforts rumored to be focused on power efficiency](https://appleinsider.com/articles/25/03/18/folding-iphone-display-engineering-efforts-rumored-to-be-focused-on-power-efficiency?utm_medium=rss)
- - [Watch the Boeing Starliner astronauts return to Earth](https://www.theverge.com/news/628311/nasa-crew-10-mission-starliner-astronauts-return-spacex)<!-- TECH:END -->
+ - [AI coding assistant startup Graphite, now used by tens of thousands of staff at 500+ companies, raised an Accel-led $52M Series B; its revenue grew 20x in 2024 &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/250318/p24#a250318p24)
+ - [The Pebble E-Paper Smartwatch Is Back. Just Don&#39;t Call It Pebble](https://www.wired.com/story/pebble-smartwatches-core-devices-core-2-duo-core-time-2/)
+ - [HP’s Omen 16 Slim gaming laptop packs an RTX 5070 GPU into a thin-ish chassis](https://www.theverge.com/news/631371/hp-omen-16-slim-gaming-laptop-rtx-5070-specs-announcement)
+ - [A slew of new HP OmniBooks includes chip bumps and a featherweight Aero](https://www.theverge.com/news/631559/hp-omnibook-x-7-5-3-aero-laptops-announcement-specs)
+ - [Every gaming headset should have a backup mic like the new Cloud III S Wireless](https://www.theverge.com/news/631589/hyperx-cloud-iii-s-wireless-gaming-headset-hp-announcement-specs)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

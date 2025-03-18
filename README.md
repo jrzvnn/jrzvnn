@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Apple loses antitrust appeal in Germany, now subject to steep fines and regulations](https://appleinsider.com/articles/25/03/18/apple-loses-antitrust-appeal-in-germany-now-subject-to-steep-fines-and-regulations?utm_medium=rss)
+ - [Sources: Alphabet has agreed to buy cybersecurity startup Wiz for at least $32B and will announce the deal today, after talks over a $23B deal failed in 2024 &lpar;Financial Times&rpar;](http://www.techmeme.com/250318/p14#a250318p14)
  - [Since Xi Jinping met DeepSeek founder Liang Wenfeng last month, Chinese officials are rushing to use the AI model, including in courthouses and in hospitals &lpar;New York Times&rpar;](http://www.techmeme.com/250318/p13#a250318p13)
  - [Bumble is getting ID verification](https://www.theverge.com/news/631560/bumble-id-verification-share-date)
- - [Germany&#39;s Federal Court of Justice rules against Apple&#39;s appeal against a regulatory assessment that opens Apple up to stricter controls in the country &lpar;Reuters&rpar;](http://www.techmeme.com/250318/p12#a250318p12)
- - [The Inmotion V13 Challenger Review: The Big Wheel of Electric Unicycles](https://www.cnet.com/roadshow/news/the-inmotion-v13-challenger-review-the-big-wheel-of-electric-unicycles/#ftag=CAD590a51e)
- - [&#39;Good American Family&#39;: How to Watch the Natalia Grace True Crime Series](https://www.cnet.com/tech/services-and-software/good-american-family-how-to-watch-the-natalia-grace-true-crime-series/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Germany&#39;s Federal Court of Justice rules against Apple&#39;s appeal against a regulatory assessment that opens Apple up to stricter controls in the country &lpar;Reuters&rpar;](http://www.techmeme.com/250318/p12#a250318p12)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [I don&#39;t have a backyard and fancy bbq, but at least I can make some succulent burgers for me and my wife, which is nice](http://9gag.com/gag/ayN4bDr)
- - 😝 [How GTA girls be walking](http://9gag.com/gag/a9yv0oL)
- - 💣 [Halo music...](http://9gag.com/gag/aD2nKgZ)
- - 😝 [When an Australian Globemaster aircraft thought it would be a good idea to fly between buildings during an air show.](http://9gag.com/gag/axyvL5b)
- - 👉 [To be 7&#39;3`...](http://9gag.com/gag/a0eVrAz)<!-- MEMES:END -->
+ - 😝 [Exactly as I remember](http://9gag.com/gag/adBOwOd)
+ - 😝 [Cutting open a microwaved egg](http://9gag.com/gag/aGy85bG)
+ - 💣 [3 V 1](http://9gag.com/gag/aZZwOAp)
+ - 😝 [This is how Ejnar Mikkelsen, a Danish explorer, was photographed in 1912 when he was found. Ejnar was isolated with Iver Iversen, from his own expedition, for two and a half years in a cabin in Greenland awaiting rescue.](http://9gag.com/gag/a5QBY6g)
+ - 👉 [When an Australian Globemaster aircraft thought it would be a good idea to fly between buildings during an air show.](http://9gag.com/gag/axyvL5b)<!-- MEMES:END -->
 
 ---
 

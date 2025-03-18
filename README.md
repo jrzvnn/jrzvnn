@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Apple Pay expands to Puerto Rico](https://appleinsider.com/articles/25/03/18/apple-pay-expands-to-puerto-rico?utm_medium=rss)
+ - [Sources: Sequoia&#39;s ~10% stake in Wiz would net the firm ~$3B from Wiz&#39;s sale to Alphabet, a 25-fold return; Greenoaks would secure ~$2B on its ~$300M investment &lpar;Bloomberg&rpar;](http://www.techmeme.com/250318/p41#a250318p41)
  - [Trump’s first 100 days: all the news affecting the tech industry](https://www.theverge.com/24348851/donald-trump-presidency-tech-science-news)
  - [Nvidia debuts Nvidia AI-Q Blueprint, a framework for connecting knowledge bases to agents, Llama Nemotron AI models with advanced reasoning capabilities, more &lpar;Mike Wheatley/SiliconANGLE&rpar;](http://www.techmeme.com/250318/p40#a250318p40)
- - [Crusoe: Stargate&#39;s first data center complex, in Abilene, TX, will finish in mid-2026 and have eight buildings, each designed for up to 50K Nvidia GB200 chips &lpar;Bloomberg&rpar;](http://www.techmeme.com/250318/p39#a250318p39)
- - [‘It’s a Heist’: Real Federal Auditors Are Horrified by DOGE](https://www.wired.com/story/federal-auditors-doge-elon-musk/)
- - [Filing: the man Rippling has accused of feeding stolen customer and employee info to Deel was Keith O&#39;Brien, a global payroll-compliance manager in Dublin &lpar;Rolfe Winkler/Wall Street Journal&rpar;](http://www.techmeme.com/250318/p38#a250318p38)<!-- TECH:END -->
+ - [Crusoe: Stargate&#39;s first data center complex, in Abilene, TX, will finish in mid-2026 and have eight buildings, each designed for up to 50K Nvidia GB200 chips &lpar;Bloomberg&rpar;](http://www.techmeme.com/250318/p39#a250318p39)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

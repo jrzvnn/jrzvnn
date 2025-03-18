@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Folding iPhone display engineering efforts rumored to be focused on power efficiency](https://appleinsider.com/articles/25/03/18/folding-iphone-display-engineering-efforts-rumored-to-be-focused-on-power-efficiency?utm_medium=rss)
+ - [Watch the Boeing Starliner astronauts return to Earth](https://www.theverge.com/news/628311/nasa-crew-10-mission-starliner-astronauts-return-spacex)
+ - [Mark Zuckerberg says Meta&#39;s Llama models have been downloaded 1B times, up from 650M downloads in early December 2024 &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/250318/p22#a250318p22)
  - [Lego announces Pokémon sets are coming next year](https://www.theverge.com/news/631679/lego-pokemon-building-sets-availability)
- - [Taboola strikes a deal with Microsoft to sell display ads for MSN.com, Outlook, Games, Office products, and more, as it expands beyond native advertising &lpar;Sara Fischer/Axios&rpar;](http://www.techmeme.com/250318/p21#a250318p21)
- - [Trump’s first 100 days: all the news affecting the tech industry](https://www.theverge.com/24348851/donald-trump-presidency-tech-science-news)
- - [CFPB workers are reinstated after a court order, but many still can’t work](https://www.theverge.com/news/631465/cfpb-probationary-employees-court-order-reinstatement)
- - [HyperX Pulsefire Haste 2 Pro 4K Review: A Lighter and Faster Mouse](https://www.wired.com/review/hyperx-pulsefire-haste-2-pro-4k/)<!-- TECH:END -->
+ - [Taboola strikes a deal with Microsoft to sell display ads for MSN.com, Outlook, Games, Office products, and more, as it expands beyond native advertising &lpar;Sara Fischer/Axios&rpar;](http://www.techmeme.com/250318/p21#a250318p21)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

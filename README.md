@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Trump’s first 100 days: all the news affecting the tech industry](https://www.theverge.com/24348851/donald-trump-presidency-tech-science-news)
  - [Nvidia debuts Nvidia AI-Q Blueprint, a framework for connecting knowledge bases to agents, Llama Nemotron AI models with advanced reasoning capabilities, more &lpar;Mike Wheatley/SiliconANGLE&rpar;](http://www.techmeme.com/250318/p40#a250318p40)
  - [Crusoe: Stargate&#39;s first data center complex, in Abilene, TX, will finish in mid-2026 and have eight buildings, each designed for up to 50K Nvidia GB200 chips &lpar;Bloomberg&rpar;](http://www.techmeme.com/250318/p39#a250318p39)
  - [‘It’s a Heist’: Real Federal Auditors Are Horrified by DOGE](https://www.wired.com/story/federal-auditors-doge-elon-musk/)
- - [Filing: the man Rippling has accused of feeding stolen customer and employee info to Deel was Keith O&#39;Brien, a global payroll-compliance manager in Dublin &lpar;Rolfe Winkler/Wall Street Journal&rpar;](http://www.techmeme.com/250318/p38#a250318p38)
- - [US music subscriptions cross 100 million as digital downloads drop](https://www.theverge.com/news/632045/riaa-music-streaming-revenue-100-million-subscriptions)<!-- TECH:END -->
+ - [Filing: the man Rippling has accused of feeding stolen customer and employee info to Deel was Keith O&#39;Brien, a global payroll-compliance manager in Dublin &lpar;Rolfe Winkler/Wall Street Journal&rpar;](http://www.techmeme.com/250318/p38#a250318p38)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

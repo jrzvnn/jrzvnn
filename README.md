@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Those who have been though hell don&#39;t get scared by sparks](http://9gag.com/gag/aAyE8Yd)
+ - 😝 [Surprise](http://9gag.com/gag/a87mgv1)
  - 😝 [Canadian tv show in `Hot waters` for this skit](http://9gag.com/gag/aByLBnN)
- - 💣 [Oh boy...](http://9gag.com/gag/a4PzX0m)
- - 😝 [2 people walked away from that survey laughing into the sunset](http://9gag.com/gag/ae9OBoB)
- - 👉 [Posting memes I found on my smartphone until I get bored or die #1156](http://9gag.com/gag/azxPngx)<!-- MEMES:END -->
+ - 💣 [3 V 1](http://9gag.com/gag/aZZwOAp)
+ - 😝 [Posting memes I found on my smartphone until I get bored or die #1156](http://9gag.com/gag/azxPngx)
+ - 👉 [Those who have been though hell don&#39;t get scared by sparks](http://9gag.com/gag/aAyE8Yd)<!-- MEMES:END -->
 
 ---
 
